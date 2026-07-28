@@ -466,3 +466,136 @@ body {
   line-height: 2;
   text-align: left;
 }
+
+
+/* =========================================================
+   Homepage introduction
+   ========================================================= */
+
+.intro-section,
+.contact-section {
+  margin: 3rem 0;
+}
+
+.bilingual-panel {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  overflow: hidden;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.75rem;
+  background: var(--surface-background);
+}
+
+.intro-language {
+  padding: 1.75rem;
+}
+
+.intro-language + .intro-language {
+  border-left: 1px solid var(--border-colour);
+}
+
+.intro-language h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.intro-language p {
+  margin: 0;
+}
+
+.urdu-block {
+  text-align: right;
+  line-height: 2.4;
+}
+
+
+/* =========================================================
+   Text-only lyric list
+   ========================================================= */
+
+.lyrics-section {
+  margin-top: 4rem;
+}
+
+.lyric-list {
+  display: grid;
+  grid-template-columns:
+    repeat(auto-fill, minmax(18rem, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lyric-list-item {
+  min-width: 0;
+}
+
+.lyric-list-item a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  height: 100%;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.65rem;
+  padding: 1rem 1.1rem;
+  background: var(--surface-background);
+  text-decoration: none;
+}
+
+.lyric-list-item a:hover {
+  background: var(--tag-background);
+}
+
+.lyric-list-item a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+.lyric-list-title {
+  font-size: 1.15rem;
+  line-height: 2;
+}
+
+.lyric-list-roman {
+  color: var(--secondary-text);
+  font-size: 0.9rem;
+  text-align: left;
+}
+
+
+/* =========================================================
+   Contact
+   ========================================================= */
+
+.contact-email {
+  display: inline-block;
+  margin-top: 1rem;
+  font-family:
+    Inter,
+    system-ui,
+    sans-serif;
+  font-weight: 600;
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+
+/* =========================================================
+   Homepage mobile layout
+   ========================================================= */
+
+@media (max-width: 700px) {
+  .bilingual-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .intro-language + .intro-language {
+    border-top: 1px solid var(--border-colour);
+    border-left: 0;
+  }
+
+  .lyric-list {
+    grid-template-columns: 1fr;
+  }
+}
