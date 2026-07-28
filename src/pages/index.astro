@@ -4,70 +4,120 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 const lyrics = (
   await getCollection("lyrics", ({ data }) => data.published)
-).sort((a, b) => a.data.title.localeCompare(b.data.title));
+).sort((a, b) =>
+  (a.data.alternateTitle ?? a.data.title).localeCompare(
+    b.data.alternateTitle ?? b.data.title,
+  ),
+);
 ---
 
 <BaseLayout
   title="Lyrics Archive"
-  description="Browse and search the complete lyrics archive."
+  description="A searchable collection of Urdu nohas, salams and manqabats."
 >
   <section class="hero">
     <h1>Lyrics Archive</h1>
 
     <p>
-      Browse lyrics by title, language, poet, reciter, occasion or tag.
+      A searchable collection of Urdu nohas, salams and manqabats.
     </p>
 
     <a class="button" href="/search/">Search the archive</a>
   </section>
 
-  <section>
+  <section class="intro-section" aria-labelledby="about-heading">
+    <div class="bilingual-panel">
+      <div class="intro-language" lang="en" dir="ltr">
+        <h2 id="about-heading">About this archive</h2>
+
+        <p>
+          This website is a searchable collection of Urdu nohas,
+          salams and manqabats. Its purpose is to preserve these
+          lyrics in a simple, organized and easily accessible format.
+        </p>
+      </div>
+
+      <div class="intro-language urdu-block" lang="ur" dir="rtl">
+        <h2>اس ذخیرے کے بارے میں</h2>
+
+        <p>
+          یہ ویب سائٹ اردو نوحوں، سلاموں اور منقبتوں کے کلام کا
+          ایک قابلِ تلاش ذخیرہ ہے۔ اس کا مقصد اس کلام کو ایک سادہ،
+          منظم اور آسانی سے قابلِ رسائی صورت میں محفوظ کرنا ہے۔
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="lyrics-section">
     <div class="section-heading">
       <h2>All lyrics</h2>
       <p>{lyrics.length} entries</p>
     </div>
 
-    <div class="lyric-grid">
+    <ul class="lyric-list">
       {
         lyrics.map((lyric) => (
-          <article class="lyric-card">
-            {lyric.data.cover && (
-              <a href={`/lyrics/${lyric.id}/`} tabindex="-1">
-                <img
-                  src={lyric.data.cover}
-                  alt={lyric.data.coverAlt}
-                  loading="lazy"
-                />
-              </a>
-            )}
-
-            <div class="card-content">
-              <h3
+          <li class="lyric-list-item">
+            <a href={`/lyrics/${lyric.id}/`}>
+              <span
+                class="lyric-list-title"
                 lang={lyric.data.lang}
                 dir={lyric.data.direction}
               >
-                <a href={`/lyrics/${lyric.id}/`}>
-                  {lyric.data.title}
-                </a>
-              </h3>
-            
-              {lyric.data.alternateTitle && (
-                <p lang="en" dir="ltr">
-                  {lyric.data.alternateTitle}
-                </p>
-              )}
+                {lyric.data.title}
+              </span>
 
-              <div class="card-meta">
-                <span>{lyric.data.language}</span>
-
-                {lyric.data.reciter && (
-                  <span>{lyric.data.reciter}</span>
-                )}
-              </div>
-            </div>
-          </article>
+              {
+                lyric.data.alternateTitle && (
+                  <span
+                    class="lyric-list-roman"
+                    lang="en"
+                    dir="ltr"
+                  >
+                    {lyric.data.alternateTitle}
+                  </span>
+                )
+              }
+            </a>
+          </li>
         ))
       }
+    </ul>
+  </section>
+
+  <section class="contact-section" aria-labelledby="contact-heading">
+    <div class="bilingual-panel">
+      <div class="intro-language" lang="en" dir="ltr">
+        <h2 id="contact-heading">Contact</h2>
+
+        <p>
+          To report a correction, suggest a lyric or ask a question,
+          contact the site owner:
+        </p>
+
+        <a class="contact-email" href="mailto:your-email@example.com">
+          your-email@example.com
+        </a>
+      </div>
+
+      <div class="intro-language urdu-block" lang="ur" dir="rtl">
+        <h2>رابطہ</h2>
+
+        <p>
+          کسی غلطی کی تصحیح، نیا کلام شامل کروانے یا کسی سوال کے
+          لیے ویب سائٹ کے منتظم سے رابطہ کریں:
+        </p>
+
+        <a
+          class="contact-email"
+          href="mailto:your-email@example.com"
+          lang="en"
+          dir="ltr"
+        >
+          your-email@example.com
+        </a>
+      </div>
     </div>
   </section>
 </BaseLayout>
