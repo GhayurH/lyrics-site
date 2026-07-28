@@ -38,6 +38,7 @@ const lyrics = defineCollection({
     coverAlt: z.string().default(""),
 
     published: z.boolean().default(true),
+    romanLyrics: z.string().optional(),
   }),
 });
 
