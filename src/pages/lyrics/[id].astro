@@ -44,18 +44,28 @@ const searchTerms = [
 <BaseLayout
   title={`${data.title} | Lyrics Archive`}
   description={`Read the lyrics for ${data.title}.`}
-  lang={data.lang}
-  dir={data.direction}
 >
   <article class="lyric-page" data-pagefind-body>
     <header class="lyric-header">
       <a class="back-link" href="/">← All lyrics</a>
 
-      <h1 data-pagefind-meta="title">{data.title}</h1>
+      <h1
+        lang={data.lang}
+        dir={data.direction}
+        data-pagefind-meta="title"
+      >
+        {data.title}
+      </h1>
 
       {
         data.alternateTitle && (
-          <p class="alternate-title">{data.alternateTitle}</p>
+          <p
+            class="alternate-title"
+            lang="en"
+            dir="ltr"
+          >
+            {data.alternateTitle}
+          </p>
         )
       }
 

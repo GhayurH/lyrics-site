@@ -41,15 +41,20 @@ const lyrics = (
               </a>
             )}
 
-            <div class="card-content" dir={lyric.data.direction}>
-              <h3>
+            <div class="card-content">
+              <h3
+                lang={lyric.data.lang}
+                dir={lyric.data.direction}
+              >
                 <a href={`/lyrics/${lyric.id}/`}>
                   {lyric.data.title}
                 </a>
               </h3>
-
+            
               {lyric.data.alternateTitle && (
-                <p>{lyric.data.alternateTitle}</p>
+                <p lang="en" dir="ltr">
+                  {lyric.data.alternateTitle}
+                </p>
               )}
 
               <div class="card-meta">

@@ -282,11 +282,6 @@ nav a:hover {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    color: #ededed;
-    background: #171719;
-  }
 
   .site-header,
   .lyric-card {
@@ -313,5 +308,160 @@ nav a:hover {
   .button {
     background: #ededed;
     color: #171719;
+  }
+}
+
+/* =========================================================
+   Urdu typography
+   ========================================================= */
+
+[lang="ur"] {
+  font-family:
+    "Noto Nastaliq Urdu",
+    "Noto Naskh Arabic",
+    serif;
+}
+
+.lyric-header h1[lang="ur"] {
+  line-height: 1.9;
+}
+
+.lyrics-text[lang="ur"] {
+  font-family:
+    "Noto Nastaliq Urdu",
+    "Noto Naskh Arabic",
+    serif;
+
+  font-size: clamp(1.35rem, 3vw, 1.8rem);
+  line-height: 2.7;
+}
+
+
+/* =========================================================
+   Preserve complete images
+   ========================================================= */
+
+.lyric-card img {
+  width: 100%;
+  height: auto;
+
+  /* Remove the former fixed 16:10 shape. */
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
+.lyric-cover {
+  width: 100%;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+}
+
+
+/* =========================================================
+   Light and dark themes
+   ========================================================= */
+
+html[data-theme="light"] {
+  color-scheme: light;
+
+  --site-background: #f7f7f8;
+  --surface-background: #ffffff;
+  --primary-text: #1d1d1f;
+  --secondary-text: #66666b;
+  --border-colour: #dddddf;
+  --tag-background: #ececef;
+  --button-background: #1d1d1f;
+  --button-text: #ffffff;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+
+  --site-background: #171719;
+  --surface-background: #222225;
+  --primary-text: #ededed;
+  --secondary-text: #b5b5ba;
+  --border-colour: #3a3a3f;
+  --tag-background: #35353a;
+  --button-background: #ededed;
+  --button-text: #171719;
+}
+
+html,
+body {
+  background: var(--site-background);
+  color: var(--primary-text);
+}
+
+body {
+  transition:
+    background-color 150ms ease,
+    color 150ms ease;
+}
+
+.site-header,
+.lyric-card {
+  background: var(--surface-background);
+}
+
+.site-header,
+.site-footer,
+.lyric-card,
+.search-filters {
+  border-color: var(--border-colour);
+}
+
+.alternate-title,
+.lyric-details dt {
+  color: var(--secondary-text);
+}
+
+.card-meta span,
+.tag-list span {
+  background: var(--tag-background);
+}
+
+.button {
+  background: var(--button-background);
+  color: var(--button-text);
+}
+
+
+/* =========================================================
+   Header and theme toggle
+   ========================================================= */
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.theme-toggle {
+  border: 1px solid var(--border-colour);
+  border-radius: 0.5rem;
+  padding: 0.45rem 0.75rem;
+
+  background: var(--surface-background);
+  color: var(--primary-text);
+
+  font: inherit;
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  background: var(--tag-background);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+@media (max-width: 700px) {
+  .header-actions {
+    width: 100%;
+    justify-content: space-between;
   }
 }
