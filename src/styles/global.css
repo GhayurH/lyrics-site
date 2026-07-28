@@ -283,33 +283,6 @@ nav a:hover {
 }
 
 
-  .site-header,
-  .lyric-card {
-    background: #222225;
-  }
-
-  .site-header,
-  .site-footer,
-  .lyric-card,
-  .search-filters {
-    border-color: #3a3a3f;
-  }
-
-  .card-meta span,
-  .tag-list span {
-    background: #35353a;
-  }
-
-  .alternate-title,
-  .lyric-details dt {
-    color: #b5b5ba;
-  }
-
-  .button {
-    background: #ededed;
-    color: #171719;
-  }
-}
 
 /* =========================================================
    Urdu typography
