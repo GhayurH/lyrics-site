@@ -177,6 +177,18 @@ const searchTerms = [
     </section>
 
     {
+      data.romanLyrics && (
+        <section class="lyric-version" lang="en" dir="ltr">
+          <h2>Roman Urdu</h2>
+    
+          <div class="roman-lyrics-text">
+            {data.romanLyrics}
+          </div>
+        </section>
+      )
+    }
+
+    {
       data.tags.length > 0 && (
         <footer class="tag-list" data-pagefind-ignore>
           {data.tags.map((tag) => <span>{tag}</span>)}
