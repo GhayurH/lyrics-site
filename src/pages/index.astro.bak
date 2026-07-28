@@ -1,0 +1,73 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const lyrics = (
+  await getCollection("lyrics", ({ data }) => data.published)
+).sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout
+  title="Lyrics Archive"
+  description="Browse and search the complete lyrics archive."
+>
+  <section class="hero">
+    <h1>Lyrics Archive</h1>
+
+    <p>
+      Browse lyrics by title, language, poet, reciter, occasion or tag.
+    </p>
+
+    <a class="button" href="/search/">Search the archive</a>
+  </section>
+
+  <section>
+    <div class="section-heading">
+      <h2>All lyrics</h2>
+      <p>{lyrics.length} entries</p>
+    </div>
+
+    <div class="lyric-grid">
+      {
+        lyrics.map((lyric) => (
+          <article class="lyric-card">
+            {lyric.data.cover && (
+              <a href={`/lyrics/${lyric.id}/`} tabindex="-1">
+                <img
+                  src={lyric.data.cover}
+                  alt={lyric.data.coverAlt}
+                  loading="lazy"
+                />
+              </a>
+            )}
+
+            <div class="card-content">
+              <h3
+                lang={lyric.data.lang}
+                dir={lyric.data.direction}
+              >
+                <a href={`/lyrics/${lyric.id}/`}>
+                  {lyric.data.title}
+                </a>
+              </h3>
+            
+              {lyric.data.alternateTitle && (
+                <p lang="en" dir="ltr">
+                  {lyric.data.alternateTitle}
+                </p>
+              )}
+
+              <div class="card-meta">
+                <span>{lyric.data.language}</span>
+
+                {lyric.data.reciter && (
+                  <span>{lyric.data.reciter}</span>
+                )}
+              </div>
+            </div>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>
