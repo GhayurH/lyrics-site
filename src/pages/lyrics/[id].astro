@@ -1,0 +1,177 @@
+---
+import {
+  getCollection,
+  type CollectionEntry,
+} from "astro:content";
+
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const lyrics = await getCollection(
+    "lyrics",
+    ({ data }) => data.published,
+  );
+
+  return lyrics.map((lyric) => ({
+    params: {
+      id: lyric.id,
+    },
+    props: {
+      lyric,
+    },
+  }));
+}
+
+interface Props {
+  lyric: CollectionEntry<"lyrics">;
+}
+
+const { lyric } = Astro.props as Props;
+const { data } = lyric;
+
+const searchTerms = [
+  data.alternateTitle,
+  data.poet,
+  data.reciter,
+  data.occasion,
+  ...data.tags,
+  ...data.aliases,
+]
+  .filter(Boolean)
+  .join(" ");
+---
+
+<BaseLayout
+  title={`${data.title} | Lyrics Archive`}
+  description={`Read the lyrics for ${data.title}.`}
+  lang={data.lang}
+  dir={data.direction}
+>
+  <article class="lyric-page" data-pagefind-body>
+    <header class="lyric-header">
+      <a class="back-link" href="/">← All lyrics</a>
+
+      <h1 data-pagefind-meta="title">{data.title}</h1>
+
+      {
+        data.alternateTitle && (
+          <p class="alternate-title">{data.alternateTitle}</p>
+        )
+      }
+
+      {
+        data.cover && (
+          <img
+            class="lyric-cover"
+            src={data.cover}
+            alt={data.coverAlt}
+            data-pagefind-meta="image[src], image_alt[alt]"
+          />
+        )
+      }
+
+      <dl class="lyric-details">
+        <div>
+          <dt>Language</dt>
+          <dd>{data.language}</dd>
+        </div>
+
+        {
+          data.poet && (
+            <div>
+              <dt>Poet</dt>
+              <dd>{data.poet}</dd>
+            </div>
+          )
+        }
+
+        {
+          data.reciter && (
+            <div>
+              <dt>Reciter</dt>
+              <dd>{data.reciter}</dd>
+            </div>
+          )
+        }
+
+        {
+          data.occasion && (
+            <div>
+              <dt>Occasion</dt>
+              <dd>{data.occasion}</dd>
+            </div>
+          )
+        }
+
+        {
+          data.year && (
+            <div>
+              <dt>Year</dt>
+              <dd>{data.year}</dd>
+            </div>
+          )
+        }
+      </dl>
+    </header>
+
+    <div
+      class="pagefind-data"
+      data-pagefind-ignore
+      aria-hidden="true"
+    >
+      <span data-pagefind-meta="searchTerms">
+        {searchTerms}
+      </span>
+
+      <span data-pagefind-filter="language">
+        {data.language}
+      </span>
+
+      {
+        data.poet && (
+          <span data-pagefind-filter="poet">
+            {data.poet}
+          </span>
+        )
+      }
+
+      {
+        data.reciter && (
+          <span data-pagefind-filter="reciter">
+            {data.reciter}
+          </span>
+        )
+      }
+
+      {
+        data.occasion && (
+          <span data-pagefind-filter="occasion">
+            {data.occasion}
+          </span>
+        )
+      }
+
+      {
+        data.tags.map((tag) => (
+          <span data-pagefind-filter="tag">{tag}</span>
+        ))
+      }
+    </div>
+
+    <section
+      class="lyrics-text"
+      dir={data.direction}
+      lang={data.lang}
+    >
+      {lyric.body ?? ""}
+    </section>
+
+    {
+      data.tags.length > 0 && (
+        <footer class="tag-list" data-pagefind-ignore>
+          {data.tags.map((tag) => <span>{tag}</span>)}
+        </footer>
+      )
+    }
+  </article>
+</BaseLayout>

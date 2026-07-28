@@ -1,0 +1,52 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: string;
+  dir?: "ltr" | "rtl";
+}
+
+const {
+  title,
+  description = "A searchable collection of lyrics.",
+  lang = "en",
+  dir = "ltr",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang={lang} dir={dir}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+    <meta name="description" content={description} />
+
+    <title>{title}</title>
+  </head>
+
+  <body>
+    <header class="site-header" data-pagefind-ignore>
+      <div class="header-inner">
+        <a class="site-title" href="/">Lyrics Archive</a>
+
+        <nav aria-label="Main navigation">
+          <a href="/">Browse</a>
+          <a href="/search/">Search</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      <slot />
+    </main>
+
+    <footer class="site-footer" data-pagefind-ignore>
+      <p>Lyrics Archive</p>
+    </footer>
+  </body>
+</html>
