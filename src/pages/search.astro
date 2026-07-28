@@ -1,0 +1,56 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Search | Lyrics Archive"
+  description="Search the complete lyrics archive."
+>
+  <link
+    href="/pagefind/pagefind-component-ui.css"
+    rel="stylesheet"
+  />
+
+  <script
+    src="/pagefind/pagefind-component-ui.js"
+    type="module"
+  ></script>
+
+  <section class="search-page">
+    <header class="search-header">
+      <h1>Search lyrics</h1>
+
+      <p>
+        Search titles, lyrics, transliterations, poets,
+        reciters, occasions and tags.
+      </p>
+    </header>
+
+    <pagefind-config
+      faceted
+      preload
+      lang="en"
+      excerpt-length="25"
+    ></pagefind-config>
+
+    <pagefind-input
+      placeholder="Search lyrics…"
+    ></pagefind-input>
+
+    <div class="search-layout">
+      <aside class="search-filters">
+        <h2>Filters</h2>
+
+        <pagefind-filter-pane
+          open="language,occasion"
+          sort="alphabetical"
+        ></pagefind-filter-pane>
+      </aside>
+
+      <div class="search-results">
+        <pagefind-summary></pagefind-summary>
+        <pagefind-results></pagefind-results>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
