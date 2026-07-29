@@ -1,5 +1,5 @@
 ---
-title: "گھر سے نکلے هىں اس طرح اکبر"
+title: "انا للّٰہ پڑھ کے اکبر کو"
 alternateTitle: "Inna lillaah parh ke akbar ko"
 language: "Urdu"
 lang: "ur"
@@ -12,13 +12,14 @@ cover: "/images/lyrics/inna-lillaah-parh-ke-akbar-ko.png"
 coverAlt: "Cover image for Inna lillaah parh ke akbar ko"
 published: true
 romanLyrics: |-
+
   Inna lillaah parh ke akbar ko
   haye sheh ne amaama baandha hai
   
-  2
   ghar se nikle hain is tarha akbar
   jaise koi janaza jaata hai
   
+  1
   maut jeene ki kar rahi hai dua
   aur akbar chale hai marne ko
   umm-e-laila ka mustafa beta
@@ -30,7 +31,7 @@ romanLyrics: |-
   aise apne jawan ke peeche
   ek mazloom baap chalta hai
   
-  4
+  3
   kitna pyara hai shaah ko akbar
   saare zaalim ye baat jaante hai
   taygh akbar pe chal rahi ha yahan
@@ -42,7 +43,7 @@ romanLyrics: |-
   wo to khyber ke dar se wazni tha
   kaise laasha jawan uthaya hai
   
-  6
+  5
   ran may rahwaar se giray akbar
   shah khaime ke dar se uth na sake
   aise dil thaam ke giray maula
@@ -61,22 +62,17 @@ romanLyrics: |-
 انا للّٰہ پڑھ کے اکبر کو
 ہاے شہ نے عمامہ باندھا ہے
 
-جیسے دل جا رہا ہو مقتل میں
-جیسے جاتی ہو جان سینے سے
-ایسے اپنے جواں کے پیچھے
-اک مظلوم باپ چلتا ہے
-
 1
 موت جینے کی کر رہی ہے دعا
 اور اکبر چلے ہیں مرنے کو
 اُمِّ لیلى کا مصطفی بیٹا
 زخم سینے پہ کھانے جاتا ہے
 
-4
-قوتِ مرتضیٰ یہ پوچھتی ہے
-صبرِ شبیر اتنا بتلا دے
-وہ تو خیبر کے در سے وزنی تھا
-کیسے لاشہ جواں اٹھایا ہے
+2
+جیسے دل جا رہا ہو مقتل میں
+جیسے جاتی ہو جان سینے سے
+ایسے اپنے جواں کے پیچھے
+اک مظلوم باپ چلتا ہے
 
 3
 کتنا پیارا ہے شاہ کو اکبر
@@ -84,14 +80,20 @@ romanLyrics: |-
 تیغ اکبر پہ چل رہی ہے یہاں
 ابنِ زہرا وہاں تڑپتا ہے
 
-6
-اے رضا اِس جوان کے سینے سے
-خون رکتا نہیں ہے روکے سے
-شہ کا دامن لہو میں ڈوب گیا
-زخم نہ جانے کتنا گہرا ہے
+4
+قوتِ مرتضیٰ یہ پوچھتی ہے
+صبرِ شبیر اتنا بتلا دے
+وہ تو خیبر کے در سے وزنی تھا
+کیسے لاشہ جواں اٹھایا ہے
 
 5
 رن میں رہوار سے گرے اکبر
 شاہ خیمے کے در سے اُٹھ نہ سکے
 ایسے دل تھام کے گرے مولا
 عرش جیسے زمیں پہ گرتا ہے
+
+6
+اے رضا اِس جوان کے سینے سے
+خون رکتا نہیں ہے روکے سے
+شہ کا دامن لہو میں ڈوب گیا
+زخم نہ جانے کتنا گہرا ہے
