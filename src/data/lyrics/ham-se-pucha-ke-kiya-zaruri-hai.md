@@ -11,6 +11,34 @@ aliases:
 cover: "/images/lyrics/ham-se-pucha-ke-kiya-zaruri-hai.png"
 coverAlt: "Cover image for ham se pucha ke kiya zaruri hai"
 published: true
+romanLyrics: |-
+  Hum se poocha ke kya zaroori hai
+  Keh diya Murtaza zaroori hai
+
+  Hai sana-e Ali, sana-e Khuda
+  Aur Khuda ki sana zaroori hai
+
+  Hukm-e Khaliq se keh rahe hain Rasool
+  Murtaza ki wila zaroori hai
+
+  Bole Meesam zaban rahe na rahe
+  Ya Ali ki sada zaroori hai
+
+  Hum ko Maula ki ho gayi ziyarat
+  Qabr mein aur kya zaroori hai
+
+  Aal-e Ahmad ka kaun dushman hai
+  Yeh batana bara zaroori hai
+
+  Dil mein rakhne ko ulfat-e Haider
+  Maa mile parsa zaroori hai
+
+  Bhejne ko zameen par Abbas
+  Fatima ki dua zaroori hai
+
+  Shams lazim hai aise zikr-e Ali
+  Jaise aab-o-hawa zaroori hai
+
 ---
 
 ہم سے پوچھا کہ کیا ضروری ہے

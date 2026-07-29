@@ -11,6 +11,49 @@ aliases:
 cover: "/images/lyrics/khabar-la-makan-ke-makan.png"
 coverAlt: "Cover image for khabar la makan ke makan"
 published: true
+romanLyrics: |-
+  Khabar la-makaan ke makaan se uri hai
+  Ali hai Ali hai Ali hai Ali hai
+
+  Yeh bint-e Asad jis ko thame khari hain
+  Ali hai Ali hai Ali hai Ali hai
+
+  Tahayyur hai yeh kya hua aur kyun kar
+  Bana kis ki khatir yeh deewar mein dar
+  Yeh deewar shaq kis ki khatir hui hai
+
+  Hai sadiyon se is ghar ke chakkar lagaye
+  Na dekha kisi ko ke andar se aaye
+  Yeh pehli dafa ghar se nikla koi hai
+
+  Barhe hain paharon pe jaan ko bachaye
+  Nabuwwat ko maidan mein aa kar bachaye
+  Tabhi la fatah ki sada Rab ne di hai
+
+  Main aison se kaise uthoon ga Khudaya
+  Use bhej de jis ki khatir banaya
+  Uthoon us ke haathon pe hasrat bari hai
+
+  Ilahi bhagoron se ukta gaya hoon
+  Main gir gir ke maidan mein sharma gaya hoon
+  Kahan hai jo ho to fatah lazmi hai
+
+  Na daulat na sarwat ki khatir hai mara
+  Zar-e tegh khanjar na loota tumhara
+  Tumhein jis ne mara yaqeenan Ali hai
+
+  Yeh bistar pe apne jo sulwa rahe the
+  Nabi goya hijrat mein batla rahe the
+  Na hoon main to meri jagah bas yahi hai
+
+  Payambar ne paigham paya Khuda se
+  Nikah Murtaza ka hua Fatima se
+  Nikah-khwan jis ka Khuda-e Jali hai
+
+  Yeh Asif Khuda ne kaha mere pyare
+  Yeh chaha ke dil mein sukoon ho tumhare
+  Sada jis ki bahr-e takallum chuni hai
+
 ---
 
 خبر لامکان کے مکان سے اڑی ہے

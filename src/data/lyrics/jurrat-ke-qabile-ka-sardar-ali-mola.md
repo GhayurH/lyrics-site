@@ -11,6 +11,21 @@ aliases:
 cover: "/images/lyrics/jurrat-ke-qabile-ka-sardar-ali-mola.png"
 coverAlt: "Cover image for Jurrat ke qabile ka sardar ali mola"
 published: true
+romanLyrics: |-
+  Jurrat ke qabeelay ka sardar Ali Maula
+  Karrar Ali Maula, Jarrar Ali Maula
+  Sardaron ke lashkar ka sardar Ali Maula
+
+  Rakhte hain jo log chashm-e baseerat
+  Woh dekhen do bhaiyon ki fazeelat
+  Meraj ki manzil mein ek halke se parde ke
+  Is paar Muhammad hain, us paar Ali Maula
+
+  Khud jis ko Khallaq-e Alam barhaye
+  Kis mein hai dam shaan us ki ghataye
+  Kaabe ka yeh kehna hai, iman hai Kaabe ki
+  Mehrab Abu Talib, minar Ali Maula
+
 ---
 
 جرات کے قبیلے کا سردار علی مولا
