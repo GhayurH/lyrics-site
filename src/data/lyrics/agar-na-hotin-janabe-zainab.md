@@ -11,6 +11,58 @@ aliases:
 cover: "/images/lyrics/agar-na-hotin-janabe-zainab.png"
 coverAlt: "Cover image for Agar Na Hotin Janabe Zainab"
 published: true
+romanLyrics: |-
+  Agar na hotin Janab-e Zainab, na hota Allah ka naam lewa
+  Agar na hotin Janab-e Zainab, na deen hota na hota kalma
+
+  Agar na hotin Janab-e Zainab, Husain ka kaam tha adhoora
+  Agar na hotin Janab-e Zainab, Husain ki kaun thi shareeka
+
+  Husain ki hai shareeka Zainab, nahin hai koi shareek un ka
+  Agar na hotin Janab-e Zainab, to kaun Abid ke saath chalta
+
+  Yazeed ne apne taur par to liya tha Badr-o-Uhad ka badla
+  Agar na hotin Janab-e Zainab, na bajta deen-e Khuda ka danka
+
+  Sahabiyat ki naqab chehre pe dale rakhi thi ahl-e shar ne
+  Agar na hotin Janab-e Zainab, dikhayi deta na asli chehra
+
+  Yazeed ailaniya tha karta sharab noshi siyah kari
+  Agar na hotin Janab-e Zainab, to kaun dikhlata haq ka rasta
+
+  Yazeed tha bhanja nawasa saleebiyon ka to is liye bhi
+  Agar na hotin Janab-e Zainab, to hota batil ka daur daura
+
+  Yazeed takzeeb kar raha tha nuzool-e wahi aur Rasool-e Haq ki
+  Agar na hotin Janab-e Zainab, to kaun haq ka lagata naara
+
+  The sare hirs-o-hawas ke bande, ya khauf aur maslahat ke mare
+  Agar na hotin Janab-e Zainab, kahin na milta Khuda ka banda
+
+  The saath go Imam-e dauran bhi aur ahl-e haram bhi lekin
+  Agar na hotin Janab-e Zainab, na hoti taskheer-e Shaam-o-Kufa
+
+  Ali ki beti ne har qadam par bayan kiya maqsad-e shahadat
+  Agar na hotin Janab-e Zainab, taaruf-e Karbala na hota
+
+  Thi chunke tashheer aur aseeri bhi Shah ke imtihaan mein shamil
+  Agar na hotin Janab-e Zainab, to kaise hota yeh ahd poora
+
+  Banu Umayya mita rahe the tamam aasar-e deen yaksar
+  Agar na hotin Janab-e Zainab, Muawiyat par naqab rehta
+
+  Qalam farosh-o-zameer murda chale the tareekh maskh karne
+  Agar na hotin Janab-e Zainab, shareef kehlati nasal-e Hinda
+
+  Hua jo baad-e shahadat un ke, woh hota Karb-o-Bala se pehle
+  Agar na hotin Janab-e Zainab, tabah hote Madina Makkah
+
+  Yeh jitne Hafiz hain aur Qari hain sab pe khutbat in ke bhari
+  Agar na hotin Janab-e Zainab, na hota Quran parhne wala
+
+  Ginayen kya kya fazail in ke, yeh kehna kafi hai Sibt-e Jafar
+  Agar na hotin Janab-e Zainab, na jane kya hota kya na hota
+
 ---
 
 اگر نہ ہوتیں جناب زینبؑ نہ ہوتا اللہ کا نام لیوا

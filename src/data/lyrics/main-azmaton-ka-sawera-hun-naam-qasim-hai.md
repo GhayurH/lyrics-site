@@ -11,6 +11,49 @@ aliases:
 cover: "/images/lyrics/main-azmaton-ka-sawera-hun-naam-qasim-hai.png"
 coverAlt: "Cover image for main azmaton ka sawera hun, naam qasim hai"
 published: true
+romanLyrics: |-
+  Main azmaton ka sawera hoon, naam Qasim hai
+  Mataa-e Fatima Zahra hoon, naam Qasim hai
+  Shujaaton ki tamanna hoon, naam Qasim hai
+  Qaseem-e Khuld ka pota hoon, naam Qasim hai
+  Kitab-e jang mein tarmeem karne aaya hoon
+  Tumhare jismon ko taqseem karne aaya hoon
+
+  Hayat chhor ke shamshan lo to behtar hai
+  Haqeeqaton ko abhi jaan lo to behtar hai
+  Jo keh raha hoon use maan lo to behtar hai
+  Main kaun hoon mujhe pehchan lo to behtar hai
+  Shujaaton ke saheefon ka main nateeja hoon
+  Yahi bohat hai ke Abbas ka bhateeja hoon
+
+  Galon ko tegh ka pani pila ke dam loon ga
+  Ali ki yaad jahan ko dila ke dam loon ga
+  Charagh-e fatah-e Husaini jala ke dam loon ga
+  Sitamgaron ko jahan se mita ke dam loon ga
+  Bahaduri ke liye naqsha-e kamal hoon main
+  Ali ka noor-e nazar hoon, Hasan ka laal hoon main
+
+  Woh daagh-dar nasab aaina dikhao use
+  Ke haarne ki khabar tum zara sunao use
+  Kahan hai Shaam ka Marhab, bula ke lao use
+  Na aa raha ho to maqsad mera batao use
+  Khuda ke sher ke johar dikhane aaya hoon
+  Main aaj phir dar-e Khyber uthane aaya hoon
+
+  Yeh waqt arsa-e mahshar se jor sakta hoon
+  Hayat-o-maut ke dhare ko mor sakta hoon
+  Har ek zulm ke Khyber ko tor sakta hoon
+  Badan se rooh ka pani nichor sakta hoon
+  Kitab-e fatah se wannaas likh ke aaya hoon
+  Main apne shanon pe Abbas likh ke aaya hoon
+
+  Jama ke dushman-e deen pe nazar barhe Qasim
+  Yaqeen se pa-e fatah-o-zafar barhe Qasim
+  Dikhane tegh-e Ali ka hunar barhe Qasim
+  Jidhar tha Azraq-e Shami udhar barhe Qasim
+  Kuch is tarah se laeen ko supurd-e naar kiya
+  Ke ek waar mein do aur do ko chaar kiya
+
 ---
 
 میں عظمتوں کا سویرا ہوں، نام قاسم ہے
