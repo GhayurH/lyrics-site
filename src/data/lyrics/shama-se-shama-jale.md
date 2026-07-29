@@ -12,10 +12,10 @@ cover: "/images/lyrics/shama-se-shama-jale.png"
 coverAlt: "Cover image for Shama se shama jale"
 published: true
 romanLyrics: |-
-  2
   Shama se shama jale, silsila jari rahe,
   Hum rahain ya na rahain, ye azadari rahe
   
+  1
   Apni naslon lo sikhate raho, matam ka hunar,
   Seena dar seena kare, bus ye azadari safar,
   Jaise halat bhi hon, ye amal jari rahe,
@@ -27,7 +27,7 @@ romanLyrics: |-
   Matam-e-sheh ka junoon, zahn par tari rahe
   Hum rahain ya na rahain, ye azadari rahe
   
-  4
+  3
   Tum agar zakir-e-Shabbir ho, yeh yaad rahe,
   Chahe is gam ke liye, sar bhi kate ghar bhi jale
   Hurmat-e-farsh-e-aza, jaan se pyari rahe,
@@ -39,7 +39,7 @@ romanLyrics: |-
   Ye alam uncha rahe, yeh alamdari rahe,
   Hum rahain ya na rahain, ye azadari rahe
   
-  6
+  5
   Dunia walon ki na parvah na kutch baat karo,
   Mannati bairiyan Sajjad ke gham me pehno,
   Raunaqe farsh-e-aza girya-o-zari rahe
@@ -51,7 +51,7 @@ romanLyrics: |-
   Yeh shahadat hai sharaf, yeh sharaf jaari rahe,
   Hum rahain ya na rahain, ye azadari rahe
   
-  8
+  7
   Apne ghar me bhi aza khana sajana hai mujhe,
   Apne bacchon ko azadar banana hai mujhe,
   Taake is nasl me bhi, tazia dari rahe,
@@ -73,22 +73,17 @@ romanLyrics: |-
 شمع سے شمع جلے، سلسلہ جاری رہے
 ہم رہیں یا نہ رہیں، یہ عزاداری رہے
 
-لاکھ بدلے یہ زمانے کی رَوِش اور موسم
-ایک پل بھی نہ رُکے اَشکِ عزا اور ماتم
-ماتمِ شہہ کا جنوں، ذہن پر تاری ہی
-رہے ہم رہیں یا نہ رہیں یہ عزاداری رہے
-
 1
 اپنی نسلوں کو سِکھاتے رہو ماتم کا ہنر
 سینہ دَر سینہ کرے بس یہ عزاداری سفر
 جیسے حالات بھی ہوں، یہ عمل جاری رہے
 ہم رہیں یا نہ رہیں ، یہ عزاداری رہے
 
-4
-یہ سبیلیں یونہی آباد رہیں اہلِ عزا
-اور گھر گھر پہ نظر آئے علم غازیؑ کا
-یہ علم اونچا رہے، یہ علمداری رہے
-ہم رہیں یا نہ رہیں یہ عزاداری رہے
+2
+لاکھ بدلے یہ زمانے کی رَوِش اور موسم
+ایک پل بھی نہ رُکے اَشکِ عزا اور ماتم
+ماتمِ شہہ کا جنوں، ذہن پر تاری ہی
+رہے ہم رہیں یا نہ رہیں یہ عزاداری رہے
 
 3
 تُم اگر ذاكر شبیرؑ ہو یہ یاد رہے
@@ -96,10 +91,10 @@ romanLyrics: |-
 حُرْمَتِ فرش عزا، جان سے پیاری رہے
 ہم رہیں یا نہ رہیں یہ عزاداری رہے
 
-6
-ماؤں بہنوں کو ہے پیغام میرا صرف یہی
-اپنے بچّوں کو جلوسوں سے نہیں روکو کبھی
-یہ شہادت ہے شرف، یہ شرف جاری رہے
+4
+یہ سبیلیں یونہی آباد رہیں اہلِ عزا
+اور گھر گھر پہ نظر آئے علم غازیؑ کا
+یہ علم اونچا رہے، یہ علمداری رہے
 ہم رہیں یا نہ رہیں یہ عزاداری رہے
 
 5
@@ -108,16 +103,22 @@ romanLyrics: |-
 رونقِ فرشِ عزا، گریہ و زاری رہے
 ہم رہیں یا نہ رہیں یہ عزاداری رہے
 
-8
-مجلسِ شاہؑ کی زنداں میں جو بنیاد رکھی
-اصل میں بی بی و سجادؑ کی خواہش تھی یہی
-یہ عزادار رہیں، یہ عزاداری رہے
+6
+ماؤں بہنوں کو ہے پیغام میرا صرف یہی
+اپنے بچّوں کو جلوسوں سے نہیں روکو کبھی
+یہ شہادت ہے شرف، یہ شرف جاری رہے
 ہم رہیں یا نہ رہیں یہ عزاداری رہے
 
 7
 اپنے گھر میں بھی عزا خانہ سجانا ہے مجھے
 اپنے بچّوں کو عزادار بنانا ہے مجھے
 تاكہ اِس نسل میں بھی، تعزیہ داری رہے
+ہم رہیں یا نہ رہیں یہ عزاداری رہے
+
+8
+مجلسِ شاہؑ کی زنداں میں جو بنیاد رکھی
+اصل میں بی بی و سجادؑ کی خواہش تھی یہی
+یہ عزادار رہیں، یہ عزاداری رہے
 ہم رہیں یا نہ رہیں یہ عزاداری رہے
 
 9

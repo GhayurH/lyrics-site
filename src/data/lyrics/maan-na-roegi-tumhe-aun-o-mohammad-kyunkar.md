@@ -1,5 +1,5 @@
 ---
-title: "جب مدینے میں نظر آئے گی ویرانیءِ گھر"
+title: "ماں نہ روئے گی تمہیں عون و محمد کیوں کر"
 alternateTitle: "Maan na roegi tumhe Aun o Mohammad kyunkar"
 language: "Urdu"
 lang: "ur"
@@ -14,9 +14,9 @@ published: true
 romanLyrics: |-
   Maan na roegi tumhe Aun o Mohammad kyunkar
   
-  2
   Jab madine mein nazar aaegi viraniy-e-ghar
   
+  1
   Jab ke zindan mein tum dono ka sar aya tha
   Maan na royi thi tumhe tumko gila to hoga
   Muaaf karna jo agar ho sake aye lakhte jigar
@@ -26,7 +26,7 @@ romanLyrics: |-
   Kya waja hai meri nazron se nihan hain bachche
   Kya jawab unko ye maa degi mere noore nazar
   
-  4
+  3
   Hujre dekhungi tumhare to tarap jaungi
   Kis tarah se dile betaab ko samjhaungi
   Ab nahi lautke aaenge mere rashqe qamar
@@ -36,7 +36,7 @@ romanLyrics: |-
   Hujre hathon se bhala ab mai sajaun kiske
   Kaash mar jati tere sath hi dukhiya madar
   
-  6
+  5
   Tum nahi ho to maza kuch bhi nahi jeene mein
   Haey is gham se phataa jata hai dil seene mein
   Kaun ab mujhko pukarega bhala maa kehkar
@@ -52,38 +52,39 @@ romanLyrics: |-
   Hain mere paas mere Aun o Mohammad dilbar
 ---
 
-جب مدینے میں نظر آئے گی ویرانیءِ گھر
-
 ماں نہ روئے گی تمہیں عون و محمد کیوں کر
 
-مجھ سے پوچھیں گے جو عبد اللہ کہاں ہیں بچے
-کیا وجہ ہے میری نظروں سے نہاں ہیں بچے
-کیا جواب ان کو یہ ماں دے گی میرے نورِ نظر
+جب مدینے میں نظر آئے گی ویرانیءِ گھر
 
 1
 جب کہ زندان میں تم دونوں کا سر آیا تھا
 ماں نہ روئی تھی تمہیں، تم کو گِلا تو ہوگا
 معاف کرنا جو اگر ہو سکے اے لختِ جگر
 
-4
-تم نہیں پاس تو اب ناز اٹھاؤں کس کے
-حجرے ہاتھوں سے بھلا اب میں سجاؤں کس کے
-کاش مر جاتی تیرے ساتھ ہی دکھیاری مدر
+2
+مجھ سے پوچھیں گے جو عبد اللہ کہاں ہیں بچے
+کیا وجہ ہے میری نظروں سے نہاں ہیں بچے
+کیا جواب ان کو یہ ماں دے گی میرے نورِ نظر
 
 3
 حجرے دیکھوں گی تمہارے تو تڑپ جاؤں گی
 کس طرح سے دلِ بیتاب کو سمجھاؤں گی
 اب نہیں لوٹ کے آئیں گے میرے رشکِ قمر
 
-6
-اے میرے لال تیرے بعد غضب ہم پہ ہوا ہے
-اس چشمِ فلک نے بھی یہ منظر دیکھا
-سر برہنہ یہ لئے لیے ہم کو در در
+4
+تم نہیں پاس تو اب ناز اٹھاؤں کس کے
+حجرے ہاتھوں سے بھلا اب میں سجاؤں کس کے
+کاش مر جاتی تیرے ساتھ ہی دکھیاری مدر
 
 5
 تم نہیں ہو تو مزہ کچھ بھی نہیں جینے میں
 ہے اس غم سے پھٹا جاتا ہے دل سینے میں
 کون اب مجھ کو پکارے گا بھلا ماں کہہ کر
+
+6
+اے میرے لال تیرے بعد غضب ہم پہ ہوا ہے
+اس چشمِ فلک نے بھی یہ منظر دیکھا
+سر برہنہ یہ لئے لیے ہم کو در در
 
 7
 بین سن کر یہ اُٹھی زینبؑ بقیہ سے

@@ -1,5 +1,5 @@
 ---
-title: "شبیر کی وہ لاڈلی"
+title: "مولا حق امام"
 alternateTitle: "maula haq imam"
 language: "Urdu"
 lang: "ur"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/maula-haq-imam.png"
 coverAlt: "Cover image for maula haq imam"
 published: true
 romanLyrics: |-
-  2
+  1
   Wo Aabid-e-beemar tha
   Chalne se jo lachaar tha
   Aur shaam ka bazaar tha
@@ -26,7 +26,7 @@ romanLyrics: |-
   Mun per tamanchon ke nishaan
   Maula haq imam....
   
-  4
+  3
   Wo zainab o kulsoom thin
   Chaadar se jo mehroom thin
   Na mehramon ke darmiyaan
@@ -40,7 +40,7 @@ romanLyrics: |-
   Masoom ka ehsaas tha
   Ghazi bawafa....
   
-  6
+  5
   Ro kar kahe Qasim ki maan
   Mara gaya Qasim jawaan
   Ay laal mei dhundhun kahan
@@ -54,7 +54,7 @@ romanLyrics: |-
   Royi zameen aur aasmaan
   Maula haq imam....
   
-  8
+  7
   Pyaase gale khanjar chale
   Chaadar chini khaime jale
   Abbas ke parcham tale
@@ -69,13 +69,6 @@ romanLyrics: |-
   Maula haq imam....
 ---
 
-2
-شبیر کی وہ لاڈلی
-سینے پہ جو شاہ کے پلی
-جس کی أبا بن میں جلی
-منہ پر تماچوں کے نشان
-مولا حق امام...
-
 1
 وہ عابد بیمار تھا
 چلنے سے جو لاچار تھا
@@ -83,12 +76,12 @@ romanLyrics: |-
 اور مصطفی کی بیٹیاں
 مولا حق امام...
 
-4
-وہ با وفا عباس تھا
-دُکھیوں کی جو ایک آس تھا
-پانی لیا پر نہ پیا
-معصوم کا احساس تھا
-غازی باوفا....
+2
+شبیر کی وہ لاڈلی
+سینے پہ جو شاہ کے پلی
+جس کی أبا بن میں جلی
+منہ پر تماچوں کے نشان
+مولا حق امام...
 
 3
 وہ زینب و کلثوم تھیں
@@ -97,12 +90,12 @@ romanLyrics: |-
 اور مرتضی کی بیٹیاں
 غازی باوفا....
 
-6
-وہ اصغرِ بے شیر تھا
-اور حرملہ کا تیر تھا
-پیاسا گلا کیونکر کٹا
-روئی زمیں اور آسماں
-مولا حق امام....
+4
+وہ با وفا عباس تھا
+دُکھیوں کی جو ایک آس تھا
+پانی لیا پر نہ پیا
+معصوم کا احساس تھا
+غازی باوفا....
 
 5
 روکر کہے قاسم کی ماں
@@ -111,11 +104,11 @@ romanLyrics: |-
 مہندی تیری سہرا تیرا
 مولا حق امام....
 
-8
-شامِ غریبان چھا گئی
-عابد کو غیرت کھا گئی
-پہرے پہ زینب آ گئی
-عباس اور اکبر کہاں
+6
+وہ اصغرِ بے شیر تھا
+اور حرملہ کا تیر تھا
+پیاسا گلا کیونکر کٹا
+روئی زمیں اور آسماں
 مولا حق امام....
 
 7
@@ -123,4 +116,11 @@ romanLyrics: |-
 چادر چھنی خیمے جلے
 عباس کے پرچم تلے
 روتی رہیں سیدانیاں
+مولا حق امام....
+
+8
+شامِ غریبان چھا گئی
+عابد کو غیرت کھا گئی
+پہرے پہ زینب آ گئی
+عباس اور اکبر کہاں
 مولا حق امام....

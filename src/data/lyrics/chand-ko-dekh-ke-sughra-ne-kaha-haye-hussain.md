@@ -12,10 +12,11 @@ cover: "/images/lyrics/chand-ko-dekh-ke-sughra-ne-kaha-haye-hussain.png"
 coverAlt: "Cover image for Chand ko dekh ke Sughra ne kaha haye Hussain"
 published: true
 romanLyrics: |-
-  2
+  
   Chand ko dekh ke Sughra ne kaha haye Hussain
   Aageya mah e muharram haan nahi aaye Hussain
   
+  1
   Yaad pardais main aati hai lahad amman ki
   Dil ka ahwal sunane ko kahan jaye Hussain
   
@@ -23,7 +24,7 @@ romanLyrics: |-
   Aap aaye na khabar aayi na Akbar aaye
   Kaisay is haal main Sughra se jiya jaye Hussain
   
-  4
+  3
   Jab se ye chand muharram ka nazar aaya hai
   Amma roti hai tujhe ay mere maa jaye Hussain
   
@@ -31,7 +32,7 @@ romanLyrics: |-
   Koi tasweer to Zahra ki rahi parde main
   Ye to acha huwa Sughra ko nahi laye Hussain
   
-  6
+  5
   Naam par Shah ne Akbar ke kharidi hai zameen
   Kaisay jaagir tujhe bhai ki dikhlaye Hussain
   
@@ -39,7 +40,7 @@ romanLyrics: |-
   Eid bhi sog ke aalam main guzari us ne
   Haye Akbar kabhi kahti thi kabhi haye Hussain
   
-  8
+  7
   Mustaqil Shah ki aakhon se thay aansun jari
   Khat-e-Sughra ko mukammal nahi parh paye Hussain
   
@@ -55,36 +56,37 @@ romanLyrics: |-
 چاند کو دیکھ کے صغری نے کہا ہائے حسین
 آگیا ماه محرم پر نہیں آئے حسین
 
-آپ آئے نہ خبر آئی نہ اکبر آئے
-کیسے اِس حال میں صغری سے جیا جائے حسین
-
 1
 یاد پردیس میں آتی ہے لحد اماں کی
 دل کا احوال سُنانے کو کہاں جائے حسین
 
-4
-کوئی تصویر تو زہرا کی رہی پردے میں
-یہ تو اچھا ہوا صغری کو نہیں لائے حسین
+2
+آپ آئے نہ خبر آئی نہ اکبر آئے
+کیسے اِس حال میں صغری سے جیا جائے حسین
 
 3
 جب سے يه چاند محرم کا نظر آیا ہے
 اماں روتی ہیں تجھے اے میرے ماں جائے حسین
 
+4
+کوئی تصویر تو زہرا کی رہی پردے میں
+یہ تو اچھا ہوا صغری کو نہیں لائے حسین
+
+5
+نام پر شاہ نے اکبر کے خریدی ہے زمیں
+کیسے جاگیر تجھے بھائی کی دکھلائے حسین
+
 6
 عید بھی سوگ کے عالم میں گزاری اُس نے
 ہائے اکبر کبھی کہتی تھی کبھی ہائے حسین
 
-4
-نام پر شاہ نے اکبر کے خریدی ہے زمیں
-کیسے جاگیر تجھے بھائی کی دکھلائے حسین
+7
+مستقل شاہ کی آنکھوں سے تھے آنسوں جاری
+خطِ صغری کو مکمل نہیں پڑھ پائے حسین
 
 8
 ایک اک بیٹی سے رخصت ہوئے خیمے میں مگر
 ہائے افسوس کہ صغری سے نہ مل پائے حسین
-
-5
-مستقل شاہ کی آنکھوں سے تھے آنسوں جاری
-خطِ صغری کو مکمل نہیں پڑھ پائے حسین
 
 9
 لکھ کے نوحہ یہ تکلم نے دُعا مانگی ہے

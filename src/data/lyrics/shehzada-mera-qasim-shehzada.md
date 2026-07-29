@@ -1,5 +1,5 @@
 ---
-title: "اللہ کا دین بچانے،"
+title: "شہزادہ شہزادہ میرا قاسم شہزادہ"
 alternateTitle: "shehzada mera qasim shehzada"
 language: "Urdu"
 lang: "ur"
@@ -18,74 +18,70 @@ romanLyrics: |-
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
   
+  1
   Hai is ki jawani, Shabbar ki jawani
   Pathhar ke kaleje, ho jayenge pani
   
-  1
   Allah ka deen bachane,
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
   
+  2
   Hai is ki ragon mein khun-e-Abutalib
   Ye sher rahega har ek pe ghalib
   
-  2
   Allah ka deen bachane,
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
   
+  3
   Bana raat ko dulha, gaya subha ko maara
   Hasnain ka pyara, farwa ka dulara
   
-  3
   Allah ka deen bachane,
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
   
+  4
   Behno ki dua ka, hai sar per saaya
   Yeh fauj-e-adu ka, kar dega safaya
   
-  4
   Allah ka deen bachane,
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
   
+  5
   Pota hai Ali ka, beta hai Hasan ka
   Aur khaak-e-shifa hai, naam is ke kafan ka
   
-  5
   Allah ka deen bachane,
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
   
+  6
   Rangeen bana di, tasweer wafa ki
   Hathon per laga kar, khud khoon ki mehendi
   
-  6
   Allah ka deen bachane,
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
   
+  7
   Yun dasht-e-bala mein, barpa huyi shadi
   Dulha bhi pyaasa. baraat bhi pyaasi
   
-  7
   Allah ka deen bachane,
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
   
+  8
   Jaan dekar Gauhar, islam bachaya
   Bete ne Hasan ke, waade ko nibhaya
   
-  8
   Allah ka deen bachane,
   Aaya hai ran mein nibhane, baba ka wada
   Qasim Shehzada
 ---
-
-اللہ کا دین بچانے،
-آیا ہے رن میں نبھانے ،بابا کا وعدہ
-قاسم شہزادہ
 
 شہزادہ شہزادہ میرا قاسم شہزادہ
 
@@ -152,3 +148,7 @@ romanLyrics: |-
 8
 جان دے کر گوہر، اسلام بچایا
 بیٹے نے حسن کے، وعدے کو نبھایا
+
+اللہ کا دین بچانے،
+آیا ہے رن میں نبھانے ،بابا کا وعدہ
+قاسم شہزادہ

@@ -1,5 +1,5 @@
 ---
-title: "میرے لاڈلے کہاں ہو"
+title: "اصغر میں تیری ماں ہوں"
 alternateTitle: "asghar main teri maan hun"
 language: "Urdu"
 lang: "ur"
@@ -16,11 +16,11 @@ romanLyrics: |-
   teri pyaas mai bujhaun
   asghar main teri maan hun
   
-  2
   mere laadle kahan ho
   seene tumhein lagaun
   asghar main teri maan hun
   
+  1
   beta tumhara qatil
   mere saamne khara hai
   jaane kyun hans raha hai
@@ -34,7 +34,7 @@ romanLyrics: |-
   teri maut ki khabar main
   kaise isay sunaun
   
-  4
+  3
   meri jaan ja rahi hai
   ye soch soch asghar
   is phool se galay par
@@ -48,7 +48,7 @@ romanLyrics: |-
   mere haath to bandhe hain
   sar kis tarha uthaun
   
-  6
+  5
   jhoole ke saath beta
   mere haath jal gaye hain
   zaalim bhi hans rahe hain
@@ -70,19 +70,13 @@ romanLyrics: |-
   Nade ali sunaun
 ---
 
-میرے لاڈلے کہاں ہو
-سینے تمہیں لگاؤں
-اصغر میں تیری ماں ہوں
-
 آجاؤ چاند میرے
 تیرى پیاس میں بجھاؤں
 اصغر میں تیری ماں ہوں
 
-تیرے جھولے کو سکینہ
-رورو کے چومتی ہے
-تجھے گھر میں ڈھونڈتی ہے
-تیری موت کی خبر میں
-کیسے اِسے سناؤں
+میرے لاڈلے کہاں ہو
+سینے تمہیں لگاؤں
+اصغر میں تیری ماں ہوں
 
 1
 بیٹا تمہارا قاتل
@@ -91,12 +85,12 @@ romanLyrics: |-
 چادر بھی لٹ چکی ہے
 منہ کس طرح چھپاؤں
 
-4
-نیزے سے گر رہا ہے
-ننھا سا سر تمہارا
-دل روتا ہے ہمارا
-میرے ہاتھ تو بندھے ہیں
-سر کس طرح اٹھاؤں
+2
+تیرے جھولے کو سکینہ
+رورو کے چومتی ہے
+تجھے گھر میں ڈھونڈتی ہے
+تیری موت کی خبر میں
+کیسے اِسے سناؤں
 
 3
 میری جان جا رہی ہے
@@ -105,12 +99,12 @@ romanLyrics: |-
 یہ تیر کیسے جھیلا
 بہنوں کو کیا بتاؤں
 
-6
-جب رات ہوگی رن میں
-ہو جائے گا اندھیرا
-ڈرنا نہیں اے بیٹا
-دادی کہیں گی تم سے
-آ میں تجھے سلاؤں
+4
+نیزے سے گر رہا ہے
+ننھا سا سر تمہارا
+دل روتا ہے ہمارا
+میرے ہاتھ تو بندھے ہیں
+سر کس طرح اٹھاؤں
 
 5
 جھولے کے ساتھ بیٹا
@@ -118,6 +112,13 @@ romanLyrics: |-
 ظالم بھی ہنس رہے ہیں
 تیری آخری نشانی
 کس طرح سے بچاؤں
+
+6
+جب رات ہوگی رن میں
+ہو جائے گا اندھیرا
+ڈرنا نہیں اے بیٹا
+دادی کہیں گی تم سے
+آ میں تجھے سلاؤں
 
 7
 تم رات کو ہمیشہ
