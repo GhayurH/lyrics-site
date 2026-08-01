@@ -49,7 +49,7 @@ romanLyrics: |-
   
   9
   Pani jo piye ehle watan pyaas na bhulay moo ashkon se dholay
-  Kehne ko ye Bhai ka payaam laayi hai Zainab ay Shehr-e-Madina
+  Kehne ko ye Bhai ka payaam aayi hai Zainab ay Shehr-e-Madina
   
   10
   Manzar wo bhula sakti nahi ta dame aakhir hai kehne se qaasir
@@ -105,7 +105,7 @@ romanLyrics: |-
 
 9
 پانی جو پیے اہلِ وطن، پیاس نہ بھولے، منہ اشکوں سے دھولے
-کہنے کو یہ بھائی کا پیام لائی ہے زینب، اے شہرِ مدینہ
+کہنے کو یہ بھائی کا پیام آئی ہے زینب، اے شہرِ مدینہ
 
 10
 منظر وہ بھلا سکتی نہیں تا دمِ آخر، ہے کہنے سے قاصر
