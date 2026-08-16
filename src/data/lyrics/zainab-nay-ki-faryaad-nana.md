@@ -13,43 +13,42 @@ coverAlt: "Cover image for Zainab Nay Ki Faryaad Nana"
 published: true
 romanLyrics: |-
   Zainab Nay Ki Faryaad Nana, Faryaad Nana Faryaad Nana
-  
   Hum Ho Kay Aaey Barbaad Nana
   
+  1
   Qatil Khara Tha Bhai Kay Sar Per, Roti Rahee Mein Katta Raha Sar
-  
   Karti Rahee Mei Faryaad Nana, Faryaad Nana Faryaad Nana
   
+  2
   Rasee Thi Ik aur Bara Galay Thay, Darbaar Mein Hum Aesay Gaey Thay
-  
   Hum Per Huwi Vo Baydaad Nana, Baydaad Nana Baydaad Nana
   
+  3
   Tauq-o-Salasil Gardan Mein Daalay, Zanjeer-o-Bairee Hathon Mei Pehnay
-  
   Chaltay Rahay Yun Sajjad Nana, Sajjad Nana Sajjad Nana
   
+  4
   Akbar Nahien Hai Asghar Nahien Hai, Qasim Nahien Hai Sarwar Nahien Hai
-  
   Aatay Hain Mujhko Sub Yaad Nana, Sub Yaad Nana Sub Yaad Nana
   
+  5
   Is Gham Say Mera Phatta Hay Seena, Qaidee Hai Ub Tak Bali Sakina
-  
   aur Hum Houay Hain Azaad Nana, Azaad Nana Azaad Nana
   
+  6
   Chader Nahien Thi Afsos Ser Per, Hum Bayrida Thay Shirin Kay Dar Per
-  
   Kaisee Thee haaye Uftaad Nana, Uftaad Nana Uftaad Nana
   
+  7
   Ujra Houa Hai Kumba Humara, Hum Hogaey Hain Ub Bay Sahara
-  
   Karbobala Hai Abaad Nana, Abaad Nana Abaad Nana
   
+  8
   Nana Tumharay Tatheer Walay, Ummat Kay Hathon Mein Bayrida Thay
-  
   Koi To Kerta Imdad Nana, Imdad Nana Imdad Nana
   
+  9
   Hiltha Tha Roza Hasnain-o-Qaiser, Zainab Jo Bolin Qabr-e-Nabi Per
-  
   Sunlay Humaree Rudaad Nana, Rudaad Nana Rudaad Nana
 ---
 

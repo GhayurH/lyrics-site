@@ -3,7 +3,12 @@
 Bulk-import a folder tree of lyrics into an Astro lyrics website.
 
 Default behavior is SAFE: it writes to a separate preview directory.
-Use --apply only after reviewing the preview and import-report.csv.
+Use --apply to perform an incremental sync into the live Astro site.
+
+Incremental sync behavior:
+  - Existing Markdown and images are preserved unless --overwrite is used.
+  - New source folders create new Markdown and PNG outputs.
+  - If only one output is missing, only that missing output is created.
 
 Supported text sources:
   - ODT and ODG (read directly from content.xml)
@@ -808,24 +813,62 @@ def write_item(
     published: bool,
     overwrite: bool,
 ) -> tuple[str, str]:
+    """
+    Write one imported item without disturbing previously reviewed content.
+
+    Normal incremental mode:
+      - both outputs exist: skip
+      - Markdown missing: create Markdown only
+      - image missing: copy image only
+      - both missing: create both
+
+    --overwrite replaces both outputs and should be used only deliberately.
+    """
+
     markdown_path = markdown_dir / f"{item.slug}.md"
     image_path = image_dir / f"{item.slug}.png"
 
     markdown_dir.mkdir(parents=True, exist_ok=True)
     image_dir.mkdir(parents=True, exist_ok=True)
 
-    if (markdown_path.exists() or image_path.exists()) and not overwrite:
+    markdown_exists = markdown_path.exists()
+    image_exists = image_path.exists()
+
+    if markdown_exists and image_exists and not overwrite:
         return "existing-skip", (
-            f"Output already exists: {markdown_path.name} or {image_path.name}"
+            f"Existing Markdown and image preserved: "
+            f"{markdown_path.name}, {image_path.name}"
         )
 
-    markdown_path.write_text(
-        make_markdown(item, published=published),
-        encoding="utf-8",
-    )
-    assert item.png is not None
-    shutil.copy2(item.png, image_path)
-    return item.status, item.notes
+    created: list[str] = []
+
+    if overwrite or not markdown_exists:
+        markdown_path.write_text(
+            make_markdown(item, published=published),
+            encoding="utf-8",
+        )
+        created.append("Markdown")
+
+    if overwrite or not image_exists:
+        assert item.png is not None
+        shutil.copy2(item.png, image_path)
+        created.append("image")
+
+    if overwrite:
+        return f"overwritten-{item.status}", item.notes
+
+    if created == ["Markdown", "image"]:
+        status = f"new-{item.status}"
+    elif created == ["Markdown"]:
+        status = f"markdown-added-{item.status}"
+    elif created == ["image"]:
+        status = f"image-added-{item.status}"
+    else:
+        status = item.status
+
+    extra_note = f"Created: {', '.join(created)}."
+    notes = f"{item.notes} {extra_note}".strip()
+    return status, notes
 
 
 def write_report(items: list[ImportItem], report_path: Path) -> None:
@@ -950,7 +993,10 @@ def main() -> int:
         print("\nNothing was written into the live Astro site.")
         print("Review the preview, then rerun with --apply.")
     elif not args.published:
-        print("\nGenerated entries are unpublished. Review them and change published to true.")
+        print(
+            "\nNewly generated Markdown entries are unpublished. "
+            "Existing entries were left unchanged."
+        )
 
     return 0
 
