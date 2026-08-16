@@ -7,12 +7,12 @@ direction: "rtl"
 tags:
   - "Noha"
 aliases:
-  - "Ab Aey Hawaon Kuch Khak Urrao"
-cover: "/images/lyrics/ab-aey-hawaon-kuch-khak-urrao.png"
-coverAlt: "Cover image for Ab Aey Hawaon Kuch Khak Urrao"
+  - "Ab Aey Hawaon Kuch Khak Urao"
+cover: "/images/lyrics/ab-aey-hawaon-kuch-khak-urao.png"
+coverAlt: "Cover image for Ab Aey Hawaon Kuch Khak Urao"
 published: true
 romanLyrics: |-
-  Ab Aey Hawaon Kuch Khak Urrao
+  Ab Aey Hawaon Kuch Khak Urao
   Laut Aayi Ran Se Sheh Ki Sawaari
   
   Zainab Sambhalna Hai Zeen Khali
@@ -43,7 +43,7 @@ romanLyrics: |-
   Baba Na Aaye Maqtal Se Kiunkar
   
   Mara Gaya Kiya Mazlum Bhai
-  Karti Hai Zainab Ye Aaha-Kari
+  Karti Hai Zainab Ye Aah-o-Zari
   
   4
   Har Sham Sughra Roz-e-Nabi Par
