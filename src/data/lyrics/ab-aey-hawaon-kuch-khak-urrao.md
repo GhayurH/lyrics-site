@@ -15,7 +15,7 @@ romanLyrics: |-
   Ab Aey Hawaon Kuch Khak Urrao
   Laut Aayi Ran Se Sheh Ki Sawaari
   
-  Zainab Sambhalna Hai Deen Khali
+  Zainab Sambhalna Hai Zeen Khali
   Zakhmi Badan Se Hai Khun Jari
   
   1
@@ -33,7 +33,7 @@ romanLyrics: |-
   Hai Surkh Kiunkar Ye Jism Tera
   Kiunkar Hai Teri Aankon Mein Aansu
   
-  Aankhein Phati Hain Rakabein Kati Hain
+  Aankhein Phati Hain Raashein Kati Hain
   Kiun Sar Pe Tere Hai Zakhm Tari
   
   3
@@ -58,7 +58,7 @@ romanLyrics: |-
 اب اے ہواؤں کچھ خاک اُڑاؤ
 لوٹ آئی رن سے شہ کی سواری
 
-زینب سنبھالنا ہے دین خالی
+زینب سنبھلنا ہے زین خالی
 زخمی بدن سے ہے خون جاری
 
 1
@@ -76,7 +76,7 @@ romanLyrics: |-
 ہے سرخ کیوں کر یہ جسم تیرا
 کیوں کر ہیں تیری آنکھوں میں آنسو
 
-آنکھیں پھٹی ہیں رکابیں کٹی ہیں
+آنکھیں پھٹی ہیں راشیں کٹی ہیں
 کیوں سر پہ تیرے ہے زخم طاری
 
 3
