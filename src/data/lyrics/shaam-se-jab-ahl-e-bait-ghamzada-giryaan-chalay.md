@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   1
   Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay
-  Yaani soo-e-Karbala, chaak-e-garebaan chalay
+  Yaani soo-e-Karbala, chaak girebaan chalay
   Le ke shaheedon ke sar, be-sar-o-saamaan chalay
   Kartay huay ye bayaan baa-dil-e-naalaan chalay
   Aaj hai chaaleeswaan Hazrat-e-Shabbir ka
@@ -95,7 +95,7 @@ romanLyrics: |-
 
 1
 شام سے جب اہلِ بیت، غمزدہ گریاں چلے
-یعنی سوئے کربلا، چاکِ گریباں چلے
+یعنی سوئے کربلا، چاک گریباں چلے
 لے کے شہیدوں کے سر، بے سر و ساماں چلے
 کرتے ہوئے یہ بیاں با دلِ نالاں چلے
 آج ہے چالیسواں حضرتِ شبیر کا
