@@ -1,10 +1,19 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import settings from "../../data/basta/settings.json";
+
+const { indexStartPage, indexEndPage } = settings;
 
 const pages = (
   await getCollection("basta", ({ data }) => data.published)
-).sort((a, b) => a.data.page - b.data.page);
+)
+  .filter(
+    (entry) =>
+      entry.data.page < indexStartPage ||
+      entry.data.page > indexEndPage,
+  )
+  .sort((a, b) => a.data.page - b.data.page);
 
 const availablePages = pages.map((entry) => entry.data.page);
 const firstPage = availablePages[0];
@@ -28,7 +37,6 @@ const firstPage = availablePages[0];
 
       <form data-basta-edition-form>
         <label for="basta-edition">Choose edition</label>
-
         <div class="basta-edition-controls">
           <select id="basta-edition" name="edition">
             <option
@@ -40,7 +48,6 @@ const firstPage = availablePages[0];
             <option value="/basta/urdu/">Urdu — continuous text</option>
             <option value="/basta/roman/">Roman Urdu — continuous text</option>
           </select>
-
           <button type="submit">Open edition</button>
         </div>
       </form>
@@ -50,7 +57,6 @@ const firstPage = availablePages[0];
       firstPage && (
         <section class="basta-home-jump-section">
           <h2>Go to page</h2>
-
           <form class="basta-home-jump" data-basta-home-jump>
             <label>
               <span>Page number</span>
@@ -83,7 +89,14 @@ const firstPage = availablePages[0];
     </div>
   </article>
 
-  <script is:inline define:vars={{ availableBastaPages: availablePages }}>
+  <script
+    is:inline
+    define:vars={{
+      availableBastaPages: availablePages,
+      bastaIndexStartPage: indexStartPage,
+      bastaIndexEndPage: indexEndPage,
+    }}
+  >
     const editionForm = document.querySelector("[data-basta-edition-form]");
 
     editionForm?.addEventListener("submit", (event) => {
@@ -96,10 +109,25 @@ const firstPage = availablePages[0];
 
     jumpForm?.addEventListener("submit", (event) => {
       event.preventDefault();
+
       const input = jumpForm.querySelector('input[name="page"]');
       const page = Number(input?.value);
 
-      if (!Number.isInteger(page) || !availableBastaPages.includes(page)) {
+      if (!Number.isInteger(page)) {
+        input?.setCustomValidity("Enter a valid page number.");
+        input?.reportValidity();
+        return;
+      }
+
+      if (
+        page >= bastaIndexStartPage &&
+        page <= bastaIndexEndPage
+      ) {
+        window.location.href = "/basta/index/";
+        return;
+      }
+
+      if (!availableBastaPages.includes(page)) {
         input?.setCustomValidity("That page is not available.");
         input?.reportValidity();
         return;

@@ -122,6 +122,9 @@
 }
 
 .basta-home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
   margin-top: 2rem;
 }
 
@@ -249,7 +252,8 @@
   margin-bottom: 3rem;
 }
 
-.basta-scroll-page {
+.basta-scroll-page,
+.basta-scroll-index-block {
   scroll-margin-top: 2rem;
 }
 
@@ -300,64 +304,117 @@
   border-top: 1px solid var(--border-colour);
 }
 
-.basta-not-ready {
+.basta-scroll-index-block {
+  margin: 0 0 2.5rem;
+}
+
+.basta-not-ready,
+.basta-index-empty {
   color: var(--secondary-text);
 }
 
-/* Index */
+/* Three-column Basta index */
 .basta-index-header {
   margin-bottom: 2rem;
 }
 
-.basta-index-groups {
-  display: grid;
-  gap: 2.5rem;
+.basta-index-table-section {
+  margin: 2rem 0 3rem;
 }
 
-.basta-index-section h2 {
-  margin: 0 0 1rem;
-  font-size: clamp(1.5rem, 4vw, 2.2rem);
-  line-height: 2;
+.basta-index-table-section > h2 {
+  margin: 0 0 1.25rem;
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
 }
 
-.basta-index-list {
-  display: grid;
-  gap: 0.5rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+.basta-index-table-urdu {
+  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
 }
 
-.basta-index-list a {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 1rem;
-  align-items: center;
+.basta-index-table-roman {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.basta-index-table-wrap {
+  width: 100%;
+  overflow-x: auto;
   border: 1px solid var(--border-colour);
-  border-radius: 0.6rem;
-  padding: 0.75rem 1rem;
+  border-radius: 0.7rem;
   background: var(--surface-background);
+}
+
+.basta-index-table {
+  width: 100%;
+  min-width: 34rem;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.basta-index-col-name {
+  width: 52%;
+}
+
+.basta-index-col-haal {
+  width: 32%;
+}
+
+.basta-index-col-page {
+  width: 16%;
+}
+
+.basta-index-table th,
+.basta-index-table td {
+  border-bottom: 1px solid var(--border-colour);
+  border-inline-end: 1px solid var(--border-colour);
+  padding: 0.65rem 0.8rem;
+  vertical-align: middle;
+}
+
+.basta-index-table th:last-child,
+.basta-index-table td:last-child {
+  border-inline-end: 0;
+}
+
+.basta-index-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.basta-index-table th {
+  background: var(--tag-background);
+  font-weight: 700;
+}
+
+.basta-index-table-urdu th,
+.basta-index-table-urdu td {
+  line-height: 2.1;
+  text-align: right;
+}
+
+.basta-index-table-roman th,
+.basta-index-table-roman td {
+  line-height: 1.6;
+  text-align: left;
+}
+
+.basta-index-table td a {
+  display: block;
+  color: var(--primary-text);
   text-decoration: none;
 }
 
-.basta-index-list a:hover,
-.basta-index-list a:focus-visible {
+.basta-index-table tbody tr:hover {
   background: var(--tag-background);
 }
 
-.basta-index-title {
-  line-height: 2.1;
+.basta-index-table td a:hover,
+.basta-index-table td a:focus-visible {
+  text-decoration: underline;
 }
 
-.basta-index-page-number {
-  min-width: 3.2rem;
-  border-inline-start: 1px solid var(--border-colour);
-  padding-inline-start: 0.9rem;
-  color: var(--secondary-text);
+.basta-index-table .basta-index-target-page {
   font-family: Inter, system-ui, sans-serif;
   font-variant-numeric: tabular-nums;
   text-align: center;
-  direction: ltr;
 }
 
 @media (max-width: 760px) {
@@ -393,4 +450,42 @@
   .basta-home-jump input {
     width: 100%;
   }
+}
+
+
+/* Index section headings and original ترتیب numbers */
+.basta-index-table .basta-index-section-row th {
+  border-inline-end: 0;
+  padding: 0.8rem 1rem;
+  background: var(--site-background);
+  color: var(--primary-text);
+  font-size: 1.08em;
+}
+
+.basta-index-table-urdu .basta-index-section-row th {
+  text-align: right;
+}
+
+.basta-index-table-roman .basta-index-section-row th {
+  text-align: left;
+}
+
+.basta-index-table td:first-child > a {
+  display: flex;
+  gap: 0.55rem;
+  align-items: baseline;
+}
+
+.basta-index-table-urdu td:first-child > a {
+  flex-direction: row;
+}
+
+.basta-index-entry-number {
+  flex: 0 0 auto;
+  min-width: 2.2rem;
+  font-family: Inter, system-ui, sans-serif;
+  font-size: 0.82em;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  text-align: center;
 }

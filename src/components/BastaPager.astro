@@ -1,28 +1,40 @@
 ---
 interface Props {
-  currentPage: number;
-  previousPage?: number;
-  nextPage?: number;
+  currentPage?: number;
+  previousHref?: string;
+  nextHref?: string;
+  previousLabel?: string;
+  nextLabel?: string;
   availablePages: number[];
+  indexStartPage: number;
+  indexEndPage: number;
 }
 
 const {
   currentPage,
-  previousPage,
-  nextPage,
+  previousHref,
+  nextHref,
+  previousLabel = "← Previous",
+  nextLabel = "Next →",
   availablePages,
-} = Astro.props;
+  indexStartPage,
+  indexEndPage,
+} = Astro.props as Props;
 ---
 
-<nav class="basta-pager" aria-label="Basta page navigation" data-pagefind-ignore>
+<nav
+  class="basta-pager"
+  aria-label="Basta page navigation"
+  data-pagefind-ignore
+>
   {
-    previousPage ? (
-      <a class="basta-nav-button" href={`/basta/${previousPage}/`}>
-        ← Previous
+    previousHref ? (
+      <a class="basta-nav-button" href={previousHref}>
+        {previousLabel}
       </a>
     ) : (
       <span class="basta-nav-button is-disabled" aria-disabled="true">
-        ← Previous
+        {previousLabel}
       </span>
     )
   }
@@ -44,14 +56,59 @@ const {
   </form>
 
   {
-    nextPage ? (
-      <a class="basta-nav-button" href={`/basta/${nextPage}/`}>
-        Next →
+    nextHref ? (
+      <a class="basta-nav-button" href={nextHref}>
+        {nextLabel}
       </a>
     ) : (
       <span class="basta-nav-button is-disabled" aria-disabled="true">
-        Next →
+        {nextLabel}
       </span>
     )
   }
 </nav>
+
+<script
+  is:inline
+  define:vars={{
+    availableBastaPages: availablePages,
+    bastaIndexStartPage: indexStartPage,
+    bastaIndexEndPage: indexEndPage,
+  }}
+>
+  document.querySelectorAll("[data-basta-jump-form]").forEach((form) => {
+    const input = form.querySelector('input[name="page"]');
+
+    input?.addEventListener("input", () => {
+      input.setCustomValidity("");
+    });
+
+    form.addEventListener("submit", (event) => {
+      event.preventDefault();
+
+      const page = Number(input?.value);
+
+      if (!Number.isInteger(page)) {
+        input?.setCustomValidity("Enter a valid page number.");
+        input?.reportValidity();
+        return;
+      }
+
+      if (
+        page >= bastaIndexStartPage &&
+        page <= bastaIndexEndPage
+      ) {
+        window.location.href = "/basta/index/";
+        return;
+      }
+
+      if (!availableBastaPages.includes(page)) {
+        input?.setCustomValidity("That page is not available.");
+        input?.reportValidity();
+        return;
+      }
+
+      window.location.href = `/basta/${page}/`;
+    });
+  });
+</script>
