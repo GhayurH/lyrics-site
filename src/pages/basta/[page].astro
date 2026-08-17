@@ -6,190 +6,125 @@ import {
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaPager from "../../components/BastaPager.astro";
-import bastaConfig from "../../data/basta/config.json";
 
 export async function getStaticPaths() {
   const pages = (
     await getCollection("basta", ({ data }) => data.published)
   ).sort((a, b) => a.data.page - b.data.page);
 
-  const lastBookPage =
-    pages.length > 0
-      ? Math.max(...pages.map((entry) => entry.data.bookPage))
-      : bastaConfig.firstBookPage;
+  const availablePages = pages.map((entry) => entry.data.page);
 
   return pages.map((entry, index) => ({
-    params: {
-      page: String(entry.data.page),
-    },
+    params: { page: String(entry.data.page) },
     props: {
       entry,
-      previousRoutePage:
-        index > 0 ? pages[index - 1].data.page : undefined,
-      nextRoutePage:
-        index < pages.length - 1
-          ? pages[index + 1].data.page
-          : undefined,
-      lastBookPage,
+      previousPage: index > 0 ? pages[index - 1].data.page : undefined,
+      nextPage:
+        index < pages.length - 1 ? pages[index + 1].data.page : undefined,
+      availablePages,
     },
   }));
 }
 
 interface Props {
   entry: CollectionEntry<"basta">;
-  previousRoutePage?: number;
-  nextRoutePage?: number;
-  lastBookPage: number;
+  previousPage?: number;
+  nextPage?: number;
+  availablePages: number[];
 }
 
 const {
   entry,
-  previousRoutePage,
-  nextRoutePage,
-  lastBookPage,
+  previousPage,
+  nextPage,
+  availablePages,
 } = Astro.props as Props;
 
-const { data } = entry;
+const page = entry.data.page;
 const urduText = (entry.body ?? "").trim();
-
-const imageCount = [
-  data.originalImage,
-  data.urduImage,
-  data.romanImage,
-].filter(Boolean).length;
 ---
 
 <BaseLayout
-  title={`Basta — page ${data.bookPage} | Kalam Archive`}
-  description={`Read Basta, book page ${data.bookPage}, with the original scan and searchable Urdu text.`}
+  title={`Basta — page ${page} | Kalam Archive`}
+  description={`Basta page ${page}: original scan and cleaned Urdu text.`}
 >
   <article class="basta-page" data-pagefind-body>
     <header class="basta-page-header">
-      <div class="basta-page-kicker">
+      <div class="basta-subnav" data-pagefind-ignore>
         <a href="/basta/">Basta</a>
+        <span aria-hidden="true">·</span>
+        <a href={`/basta/urdu/#page-${page}`}>Urdu text edition</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/roman/">Roman edition</a>
         <span aria-hidden="true">·</span>
         <a href="/basta/index/">Index</a>
       </div>
 
-      <h1 data-pagefind-meta="title">
-        Basta — Page {data.bookPage}
-      </h1>
+      <h1 data-pagefind-meta="title">Basta — Page {page}</h1>
 
-      <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
+      <div class="pagefind-data" aria-hidden="true">
         <span data-pagefind-filter="collection">Basta</span>
-        <span data-pagefind-meta="bookPage">{data.bookPage}</span>
+        <span data-pagefind-meta="page">{page}</span>
       </div>
     </header>
 
     <BastaPager
-      currentBookPage={data.bookPage}
-      previousRoutePage={previousRoutePage}
-      nextRoutePage={nextRoutePage}
-      firstBookPage={bastaConfig.firstBookPage}
-      lastBookPage={lastBookPage}
+      currentPage={page}
+      previousPage={previousPage}
+      nextPage={nextPage}
+      availablePages={availablePages}
     />
 
-    <section
-      class:list={[
-        "basta-image-grid",
-        `basta-image-grid-${imageCount}`,
-      ]}
-      aria-label={`Images for Basta page ${data.bookPage}`}
-      data-pagefind-ignore
-    >
-      <figure>
+    <div class="basta-page-grid">
+      <figure class="basta-original-page" data-pagefind-ignore>
         <figcaption>Original book page</figcaption>
-        <a href={data.originalImage}>
+        <a href={entry.data.originalImage}>
           <img
-            src={data.originalImage}
-            alt={`Original scan of Basta page ${data.bookPage}`}
+            src={entry.data.originalImage}
+            alt={`Original scan of Basta page ${page}`}
             loading="eager"
           />
         </a>
       </figure>
 
-      {
-        data.urduImage && (
-          <figure>
-            <figcaption>Urdu typeset page</figcaption>
-            <a href={data.urduImage}>
-              <img
-                src={data.urduImage}
-                alt={`Urdu typeset version of Basta page ${data.bookPage}`}
-                loading="lazy"
-              />
-            </a>
-          </figure>
-        )
-      }
-
-      {
-        data.romanImage && (
-          <figure>
-            <figcaption>Roman Urdu typeset page</figcaption>
-            <a href={data.romanImage}>
-              <img
-                src={data.romanImage}
-                alt={`Roman Urdu typeset version of Basta page ${data.bookPage}`}
-                loading="lazy"
-              />
-            </a>
-          </figure>
-        )
-      }
-    </section>
-
-    {
-      urduText && (
-        <section class="basta-text-section" lang="ur" dir="rtl">
-          <h2>اردو متن</h2>
-          <div class="basta-urdu-text">{urduText}</div>
-        </section>
-      )
-    }
-
-    {
-      data.romanText && (
-        <section class="basta-text-section" lang="en" dir="ltr">
-          <h2>Roman Urdu</h2>
-          <div class="basta-roman-text">{data.romanText}</div>
-        </section>
-      )
-    }
+      <section
+        class="basta-page-text"
+        lang="ur"
+        dir="rtl"
+        aria-label={`Urdu text of Basta page ${page}`}
+      >
+        <div class="basta-urdu-text">{urduText}</div>
+      </section>
+    </div>
 
     <BastaPager
-      currentBookPage={data.bookPage}
-      previousRoutePage={previousRoutePage}
-      nextRoutePage={nextRoutePage}
-      firstBookPage={bastaConfig.firstBookPage}
-      lastBookPage={lastBookPage}
+      currentPage={page}
+      previousPage={previousPage}
+      nextPage={nextPage}
+      availablePages={availablePages}
     />
   </article>
 
-  <script
-    is:inline
-    define:vars={{
-      firstBookPage: bastaConfig.firstBookPage,
-      lastBookPage,
-    }}
-  >
+  <script is:inline define:vars={{ availableBastaPages: availablePages }}>
     document.querySelectorAll("[data-basta-jump-form]").forEach((form) => {
+      const input = form.querySelector('input[name="page"]');
+
+      input?.addEventListener("input", () => input.setCustomValidity(""));
+
       form.addEventListener("submit", (event) => {
         event.preventDefault();
-
-        const input = form.querySelector('input[name="book-page"]');
-        const bookPage = Number(input?.value);
+        const requestedPage = Number(input?.value);
 
         if (
-          !Number.isInteger(bookPage) ||
-          bookPage < firstBookPage ||
-          bookPage > lastBookPage
+          !Number.isInteger(requestedPage) ||
+          !availableBastaPages.includes(requestedPage)
         ) {
-          input?.focus();
+          input?.setCustomValidity("That page is not available.");
+          input?.reportValidity();
           return;
         }
 
-        window.location.href = `/basta/${bookPage}/`;
+        window.location.href = `/basta/${requestedPage}/`;
       });
     });
   </script>

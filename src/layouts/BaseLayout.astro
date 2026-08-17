@@ -16,37 +16,22 @@ const {
 ---
 
 <!doctype html>
-<html
-  lang="en"
-  dir="ltr"
-  data-theme="dark"
-  data-pf-theme="dark"
->
+<html lang="en" dir="ltr" data-theme="dark" data-pf-theme="dark">
   <head>
     <meta charset="UTF-8" />
-
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-
     <title>{title}</title>
 
-    <!-- Apply the saved theme before displaying the page. -->
     <script is:inline>
       (() => {
         let theme = "dark";
-
         try {
           const savedTheme = localStorage.getItem("theme");
-
           if (savedTheme === "light" || savedTheme === "dark") {
             theme = savedTheme;
           }
-        } catch {
-          // Continue with dark mode if storage is unavailable.
-        }
+        } catch {}
         document.documentElement.dataset.theme = theme;
         document.documentElement.dataset.pfTheme = theme;
       })();
@@ -64,6 +49,7 @@ const {
             <a href="/basta/">Basta</a>
             <a href="/search/">Search</a>
           </nav>
+
           <button
             id="theme-toggle"
             class="theme-toggle"
@@ -87,44 +73,28 @@ const {
 
     <script>
       const root = document.documentElement;
-      const themeButton =
-        document.querySelector<HTMLButtonElement>("#theme-toggle");
+      const themeButton = document.querySelector<HTMLButtonElement>("#theme-toggle");
 
       function updateThemeButton() {
         if (!themeButton) return;
-
         const darkMode = root.dataset.theme === "dark";
-
-        themeButton.textContent = darkMode
-          ? "Light mode"
-          : "Dark mode";
-
+        themeButton.textContent = darkMode ? "Light mode" : "Dark mode";
         themeButton.setAttribute(
           "aria-label",
-          darkMode
-            ? "Switch to light mode"
-            : "Switch to dark mode",
+          darkMode ? "Switch to light mode" : "Switch to dark mode",
         );
-        themeButton.setAttribute(
-          "aria-pressed",
-          String(darkMode),
-        );
+        themeButton.setAttribute("aria-pressed", String(darkMode));
       }
 
       updateThemeButton();
 
       themeButton?.addEventListener("click", () => {
-        const newTheme =
-          root.dataset.theme === "dark" ? "light" : "dark";
-
+        const newTheme = root.dataset.theme === "dark" ? "light" : "dark";
         root.dataset.theme = newTheme;
         root.dataset.pfTheme = newTheme;
         try {
           localStorage.setItem("theme", newTheme);
-        } catch {
-          // The toggle still works without persistent storage.
-        }
-
+        } catch {}
         updateThemeButton();
       });
     </script>
