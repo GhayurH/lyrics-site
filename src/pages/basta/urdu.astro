@@ -1,0 +1,77 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const pages = (
+  await getCollection("basta", ({ data }) => data.published)
+).sort((a, b) => a.data.page - b.data.page);
+---
+
+<BaseLayout
+  title="Basta — Urdu text edition | Kalam Archive"
+  description="Continuous Urdu text edition of Basta with page breaks matching the printed book."
+>
+  <article class="basta-scroll-edition">
+    <header class="basta-scroll-header" data-pagefind-ignore>
+      <div class="basta-subnav">
+        <a href="/basta/">Basta</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/roman/">Roman edition</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/index/">Index</a>
+      </div>
+      <h1>Basta — Urdu text edition</h1>
+    </header>
+
+    {
+      pages.length === 0 ? (
+        <p>No Basta pages have been published yet.</p>
+      ) : (
+        <div
+          class="basta-continuous-text basta-continuous-urdu"
+          lang="ur"
+          dir="rtl"
+          data-pagefind-ignore
+        >
+          {
+            pages.map((entry, index) => (
+              <section
+                class:list={[
+                  "basta-scroll-page",
+                  entry.data.imageOnly && "basta-scroll-page-image-only",
+                ]}
+                id={`page-${entry.data.page}`}
+              >
+                {
+                  entry.data.imageOnly ? (
+                    <figure class="basta-scroll-original-image">
+                      <img
+                        src={entry.data.originalImage}
+                        alt={`Original scan of Basta page ${entry.data.page}`}
+                        loading="lazy"
+                      />
+                    </figure>
+                  ) : (
+                    <div class="basta-scroll-text">
+                      {(entry.body ?? "").trim()}
+                    </div>
+                  )
+                }
+
+                <p class="basta-scroll-page-number" dir="ltr">
+                  {entry.data.page}
+                </p>
+
+                {
+                  index < pages.length - 1 && (
+                    <hr class="basta-page-break" aria-hidden="true" />
+                  )
+                }
+              </section>
+            ))
+          }
+        </div>
+      )
+    }
+  </article>
+</BaseLayout>
