@@ -1,0 +1,75 @@
+---
+import type { CollectionEntry } from "astro:content";
+import {
+  getLyricCategory,
+  getLyricKalamType,
+  slugifyCategory,
+} from "../lib/lyrics";
+
+interface Props {
+  lyrics: CollectionEntry<"lyrics">[];
+  showCategory?: boolean;
+}
+
+const { lyrics, showCategory = false } = Astro.props;
+---
+
+<ul class="lyric-list">
+  {
+    lyrics.map((lyric) => {
+      const category = getLyricCategory(lyric.data);
+      const kalamType = getLyricKalamType(lyric.data);
+
+      return (
+        <li class="lyric-list-item">
+          <a class="lyric-list-link" href={`/lyrics/${lyric.id}/`}>
+            <span
+              class="lyric-list-title"
+              lang={lyric.data.lang}
+              dir={lyric.data.direction}
+            >
+              {lyric.data.title}
+            </span>
+
+            {lyric.data.alternateTitle && (
+              <span class="lyric-list-roman" lang="en" dir="ltr">
+                {lyric.data.alternateTitle}
+              </span>
+            )}
+
+            <span class="lyric-list-meta" aria-hidden="true">
+              {showCategory && <span class="metadata-chip">{category}</span>}
+              {kalamType !== category && (
+                <span class="metadata-chip">{kalamType}</span>
+              )}
+              {lyric.data.tags
+                .filter((tag) => tag !== category && tag !== kalamType)
+                .slice(0, 2)
+                .map((tag) => <span class="metadata-chip">{tag}</span>)}
+            </span>
+          </a>
+
+          <div class="lyric-list-actions" data-pagefind-ignore>
+            {showCategory && (
+              <a
+                class="lyric-category-link"
+                href={`/categories/${slugifyCategory(category)}/`}
+              >
+                Browse {category}
+              </a>
+            )}
+            <button
+              class="favorite-button favorite-button-compact"
+              type="button"
+              data-favorite-button
+              data-lyric-id={lyric.id}
+              aria-pressed="false"
+            >
+              Save
+            </button>
+          </div>
+        </li>
+      );
+    })
+  }
+</ul>

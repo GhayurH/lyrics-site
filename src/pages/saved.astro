@@ -1,0 +1,226 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import {
+  compareLyrics,
+  getLyricCategory,
+  getLyricKalamType,
+} from "../lib/lyrics";
+
+const lyrics = (
+  await getCollection("lyrics", ({ data }) => data.published)
+).sort(compareLyrics);
+
+const catalog = lyrics.map((lyric) => ({
+  id: lyric.id,
+  title: lyric.data.title,
+  alternateTitle: lyric.data.alternateTitle ?? "",
+  category: getLyricCategory(lyric.data),
+  kalamType: getLyricKalamType(lyric.data),
+  lang: lyric.data.lang,
+  direction: lyric.data.direction,
+  href: `/lyrics/${lyric.id}/`,
+}));
+---
+
+<BaseLayout
+  title="Saved & recent | Kalam Archive"
+  description="Your locally saved and recently viewed Kalam Archive lyrics."
+>
+  <section
+    id="saved-library"
+    class="saved-page"
+    data-catalog={JSON.stringify(catalog)}
+    data-pagefind-ignore="all"
+  >
+    <header class="page-header-simple">
+      <p class="eyebrow">On this device</p>
+      <h1>Saved &amp; recent</h1>
+      <p>
+        Favorites and reading history are stored only in this browser. No
+        account or server-side tracking is required.
+      </p>
+    </header>
+
+    <section class="saved-section" aria-labelledby="favorites-heading">
+      <div class="section-heading saved-section-heading">
+        <div>
+          <h2 id="favorites-heading">Saved lyrics</h2>
+          <p id="favorites-count">0 saved</p>
+        </div>
+        <button id="clear-favorites" class="text-button" type="button">
+          Clear saved
+        </button>
+      </div>
+      <p id="favorites-empty" class="saved-empty">
+        Nothing saved yet. Open a lyric and use the <strong>Save</strong> button.
+      </p>
+      <ul id="favorites-list" class="saved-lyric-list" aria-live="polite"></ul>
+    </section>
+
+    <section class="saved-section" aria-labelledby="recent-heading">
+      <div class="section-heading saved-section-heading">
+        <div>
+          <h2 id="recent-heading">Recently viewed</h2>
+          <p id="recent-count">0 recent</p>
+        </div>
+        <button id="clear-recent" class="text-button" type="button">
+          Clear history
+        </button>
+      </div>
+      <p id="recent-empty" class="saved-empty">No recently viewed lyrics yet.</p>
+      <ul id="recent-list" class="saved-lyric-list" aria-live="polite"></ul>
+    </section>
+  </section>
+
+  <script>
+    const root = document.querySelector<HTMLElement>("#saved-library");
+
+    if (root) {
+      const FAVORITES_KEY = "kalam:favorites";
+      const RECENT_KEY = "kalam:recent";
+
+      type CatalogEntry = {
+        id: string;
+        title: string;
+        alternateTitle: string;
+        category: string;
+        kalamType: string;
+        lang: string;
+        direction: "rtl" | "ltr";
+        href: string;
+      };
+
+      let catalog: CatalogEntry[] = [];
+      try {
+        catalog = JSON.parse(root.dataset.catalog ?? "[]");
+      } catch {}
+
+      const byId = new Map(catalog.map((entry) => [entry.id, entry]));
+      const favoritesList = document.querySelector<HTMLUListElement>("#favorites-list");
+      const recentList = document.querySelector<HTMLUListElement>("#recent-list");
+      const favoritesEmpty = document.querySelector<HTMLElement>("#favorites-empty");
+      const recentEmpty = document.querySelector<HTMLElement>("#recent-empty");
+      const favoritesCount = document.querySelector<HTMLElement>("#favorites-count");
+      const recentCount = document.querySelector<HTMLElement>("#recent-count");
+
+      function readIds(key: string) {
+        try {
+          const parsed = JSON.parse(localStorage.getItem(key) ?? "[]");
+          return Array.isArray(parsed)
+            ? parsed.filter((value): value is string => typeof value === "string")
+            : [];
+        } catch {
+          return [];
+        }
+      }
+
+      function makeListItem(entry: CatalogEntry, saved: boolean) {
+        const item = document.createElement("li");
+        item.className = "saved-lyric-item";
+
+        const link = document.createElement("a");
+        link.className = "saved-lyric-link";
+        link.href = entry.href;
+
+        const title = document.createElement("span");
+        title.className = "saved-lyric-title";
+        title.lang = entry.lang;
+        title.dir = entry.direction;
+        title.textContent = entry.title;
+        link.append(title);
+
+        if (entry.alternateTitle) {
+          const roman = document.createElement("span");
+          roman.className = "saved-lyric-roman";
+          roman.lang = "en";
+          roman.dir = "ltr";
+          roman.textContent = entry.alternateTitle;
+          link.append(roman);
+        }
+
+        const meta = document.createElement("span");
+        meta.className = "saved-lyric-meta";
+        meta.textContent =
+          entry.kalamType !== entry.category
+            ? `${entry.category} · ${entry.kalamType}`
+            : entry.category;
+        link.append(meta);
+
+        const favoriteButton = document.createElement("button");
+        favoriteButton.type = "button";
+        favoriteButton.className = "favorite-button favorite-button-compact";
+        favoriteButton.dataset.favoriteButton = "";
+        favoriteButton.dataset.lyricId = entry.id;
+        favoriteButton.dataset.saved = String(saved);
+        favoriteButton.setAttribute("aria-pressed", String(saved));
+        favoriteButton.setAttribute(
+          "aria-label",
+          saved ? "Remove from saved lyrics" : "Save this lyric",
+        );
+        favoriteButton.textContent = saved ? "Saved" : "Save";
+
+        item.append(link, favoriteButton);
+        return item;
+      }
+
+      function render() {
+        const favoriteIds = readIds(FAVORITES_KEY);
+        const recentIds = readIds(RECENT_KEY);
+        const favoritesSet = new Set(favoriteIds);
+
+        const favoriteEntries = favoriteIds
+          .map((id) => byId.get(id))
+          .filter((entry): entry is CatalogEntry => Boolean(entry));
+        const recentEntries = recentIds
+          .map((id) => byId.get(id))
+          .filter((entry): entry is CatalogEntry => Boolean(entry));
+
+        if (favoritesList) {
+          favoritesList.replaceChildren(
+            ...favoriteEntries.map((entry) => makeListItem(entry, true)),
+          );
+        }
+
+        if (recentList) {
+          recentList.replaceChildren(
+            ...recentEntries.map((entry) =>
+              makeListItem(entry, favoritesSet.has(entry.id)),
+            ),
+          );
+        }
+
+        if (favoritesEmpty) favoritesEmpty.hidden = favoriteEntries.length > 0;
+        if (recentEmpty) recentEmpty.hidden = recentEntries.length > 0;
+        if (favoritesCount) {
+          favoritesCount.textContent = `${favoriteEntries.length} saved`;
+        }
+        if (recentCount) recentCount.textContent = `${recentEntries.length} recent`;
+      }
+
+      document.querySelector("#clear-favorites")?.addEventListener("click", () => {
+        try {
+          localStorage.removeItem(FAVORITES_KEY);
+        } catch {}
+        window.dispatchEvent(
+          new CustomEvent("kalam:favorites-changed", { detail: { favorites: [] } }),
+        );
+        render();
+      });
+
+      document.querySelector("#clear-recent")?.addEventListener("click", () => {
+        try {
+          localStorage.removeItem(RECENT_KEY);
+        } catch {}
+        render();
+      });
+
+      window.addEventListener("kalam:favorites-changed", render);
+      window.addEventListener("storage", (event) => {
+        if (event.key === FAVORITES_KEY || event.key === RECENT_KEY) render();
+      });
+
+      render();
+    }
+  </script>
+</BaseLayout>

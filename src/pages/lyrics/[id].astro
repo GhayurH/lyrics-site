@@ -5,92 +5,179 @@ import {
 } from "astro:content";
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  compareLyrics,
+  getLyricCategory,
+  getLyricKalamType,
+  searchUrl,
+  slugifyCategory,
+} from "../../lib/lyrics";
 
 export async function getStaticPaths() {
-  const lyrics = await getCollection(
-    "lyrics",
-    ({ data }) => data.published,
-  );
+  const lyrics = (
+    await getCollection("lyrics", ({ data }) => data.published)
+  ).sort(compareLyrics);
 
-  return lyrics.map((lyric) => ({
-    params: {
-      id: lyric.id,
-    },
-    props: {
-      lyric,
-    },
-  }));
+  const byCategory = new Map<string, CollectionEntry<"lyrics">[]>();
+
+  for (const lyric of lyrics) {
+    const category = getLyricCategory(lyric.data);
+    const group = byCategory.get(category) ?? [];
+    group.push(lyric);
+    byCategory.set(category, group);
+  }
+
+  return lyrics.map((lyric) => {
+    const category = getLyricCategory(lyric.data);
+    const categoryLyrics = byCategory.get(category) ?? [];
+    const index = categoryLyrics.findIndex((entry) => entry.id === lyric.id);
+
+    return {
+      params: {
+        id: lyric.id,
+      },
+      props: {
+        lyric,
+        previousLyric: index > 0 ? categoryLyrics[index - 1] : undefined,
+        nextLyric:
+          index >= 0 && index < categoryLyrics.length - 1
+            ? categoryLyrics[index + 1]
+            : undefined,
+        categoryCount: categoryLyrics.length,
+      },
+    };
+  });
 }
 
 interface Props {
   lyric: CollectionEntry<"lyrics">;
+  previousLyric?: CollectionEntry<"lyrics">;
+  nextLyric?: CollectionEntry<"lyrics">;
+  categoryCount: number;
 }
 
-const { lyric } = Astro.props as Props;
+const {
+  lyric,
+  previousLyric,
+  nextLyric,
+  categoryCount,
+} = Astro.props as Props;
 const { data } = lyric;
+const category = getLyricCategory(data);
+const kalamType = getLyricKalamType(data);
 
 const searchTerms = [
   data.alternateTitle,
   data.poet,
   data.reciter,
   data.occasion,
+  category,
+  kalamType,
   ...data.tags,
   ...data.aliases,
 ]
   .filter(Boolean)
   .join(" ");
+
+function neighborTitle(entry: CollectionEntry<"lyrics">) {
+  return entry.data.alternateTitle ?? entry.data.title;
+}
 ---
 
 <BaseLayout
-  title={`${data.title} | Lyrics Archive`}
-  description={`Read the lyrics for ${data.title}.`}
+  title={`${data.title} | Kalam Archive`}
+  description={`Read ${data.title} in Urdu${data.romanLyrics ? " and Roman Urdu" : ""}.`}
 >
-  <article class="lyric-page" data-pagefind-body>
+  <article
+    class:list={[
+      "lyric-page",
+      data.romanLyrics && "lyric-page-parallel",
+    ]}
+    data-pagefind-body
+  >
     <header class="lyric-header">
-      <a class="back-link" href="/">← All lyrics</a>
+      <a class="back-link" href={`/categories/${slugifyCategory(category)}/`}>
+        ← {category}
+      </a>
 
-      <h1
-        lang={data.lang}
-        dir={data.direction}
-        data-pagefind-meta="title"
-      >
-        {data.title}
-      </h1>
-
-      {
-        data.alternateTitle && (
-          <p
-            class="alternate-title"
-            lang="en"
-            dir="ltr"
+      <div class="lyric-header-title-row">
+        <div class="lyric-title-block">
+          <p class="eyebrow">{category}</p>
+          <h1
+            lang={data.lang}
+            dir={data.direction}
+            data-pagefind-meta="title"
           >
-            {data.alternateTitle}
-          </p>
-        )
-      }
+            {data.title}
+          </h1>
 
-      {
-        data.cover && (
-          <img
-            class="lyric-cover"
-            src={data.cover}
-            alt={data.coverAlt}
-            data-pagefind-meta="image[src], image_alt[alt]"
-          />
-        )
-      }
+          {
+            data.alternateTitle && (
+              <p class="alternate-title" lang="en" dir="ltr">
+                {data.alternateTitle}
+              </p>
+            )
+          }
+        </div>
+
+        <div class="lyric-header-actions" data-pagefind-ignore>
+          <a
+            class="category-pill"
+            href={`/categories/${slugifyCategory(category)}/`}
+          >
+            {category}
+          </a>
+          <button
+            class="favorite-button"
+            type="button"
+            data-favorite-button
+            data-lyric-id={lyric.id}
+            aria-pressed="false"
+          >
+            Save
+          </button>
+        </div>
+      </div>
 
       <dl class="lyric-details">
         <div>
           <dt>Language</dt>
-          <dd>{data.language}</dd>
+          <dd>
+            <a href={searchUrl({ collection: "Lyrics", language: data.language })}>
+              {data.language}
+            </a>
+          </dd>
         </div>
+
+        <div>
+          <dt>Category</dt>
+          <dd>
+            <a href={`/categories/${slugifyCategory(category)}/`}>{category}</a>
+          </dd>
+        </div>
+
+        {
+          kalamType !== category && (
+            <div>
+              <dt>Kalam type</dt>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", kalamType })}>
+                  {kalamType}
+                </a>
+              </dd>
+            </div>
+          )
+        }
 
         {
           data.poet && (
             <div>
               <dt>Poet</dt>
-              <dd>{data.poet}</dd>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", poet: data.poet })}>
+                  {data.poet}
+                </a>
+              </dd>
             </div>
           )
         }
@@ -99,7 +186,11 @@ const searchTerms = [
           data.reciter && (
             <div>
               <dt>Reciter</dt>
-              <dd>{data.reciter}</dd>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", reciter: data.reciter })}>
+                  {data.reciter}
+                </a>
+              </dd>
             </div>
           )
         }
@@ -108,7 +199,11 @@ const searchTerms = [
           data.occasion && (
             <div>
               <dt>Occasion</dt>
-              <dd>{data.occasion}</dd>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", occasion: data.occasion })}>
+                  {data.occasion}
+                </a>
+              </dd>
             </div>
           )
         }
@@ -122,78 +217,255 @@ const searchTerms = [
           )
         }
       </dl>
+
+      {
+        data.cover && (
+          <img
+            class="lyric-cover"
+            src={data.cover}
+            alt={data.coverAlt}
+            data-pagefind-meta="image[src], image_alt[alt]"
+          />
+        )
+      }
     </header>
 
-    <div
-      class="pagefind-data"
-      data-pagefind-ignore
-      aria-hidden="true"
-    >
-      <span data-pagefind-meta="searchTerms">
-        {searchTerms}
-      </span>
+    <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
+      <span data-pagefind-meta="searchTerms">{searchTerms}</span>
+      <span data-pagefind-filter="collection">Lyrics</span>
+      <span data-pagefind-filter="category">{category}</span>
+      <span data-pagefind-filter="kalamType">{kalamType}</span>
+      <span data-pagefind-filter="language">{data.language}</span>
 
-      <span data-pagefind-filter="language">
-        {data.language}
-      </span>
-
-      {
-        data.poet && (
-          <span data-pagefind-filter="poet">
-            {data.poet}
-          </span>
-        )
-      }
-
-      {
-        data.reciter && (
-          <span data-pagefind-filter="reciter">
-            {data.reciter}
-          </span>
-        )
-      }
-
-      {
-        data.occasion && (
-          <span data-pagefind-filter="occasion">
-            {data.occasion}
-          </span>
-        )
-      }
-
-      {
-        data.tags.map((tag) => (
-          <span data-pagefind-filter="tag">{tag}</span>
-        ))
-      }
+      {data.poet && <span data-pagefind-filter="poet">{data.poet}</span>}
+      {data.reciter && <span data-pagefind-filter="reciter">{data.reciter}</span>}
+      {data.occasion && <span data-pagefind-filter="occasion">{data.occasion}</span>}
+      {data.tags.map((tag) => <span data-pagefind-filter="tag">{tag}</span>)}
     </div>
 
-    <section
-      class="lyrics-text"
-      dir={data.direction}
-      lang={data.lang}
-    >
-      {lyric.body ?? ""}
-    </section>
-
-    {
-      data.romanLyrics && (
-        <section class="lyric-version" lang="en" dir="ltr">
-          <h2>Roman Urdu</h2>
-    
-          <div class="roman-lyrics-text">
-            {data.romanLyrics}
+    <div class="reading-controls" data-pagefind-ignore aria-label="Reading controls">
+      {
+        data.romanLyrics && (
+          <div class="reading-control-group reading-view-control">
+            <span class="reading-control-label">View</span>
+            <div class="segmented-control" role="group" aria-label="Lyric view">
+              <button type="button" data-reading-mode-button="parallel" aria-pressed="true">
+                Parallel
+              </button>
+              <button type="button" data-reading-mode-button="urdu" aria-pressed="false">
+                Urdu
+              </button>
+              <button type="button" data-reading-mode-button="roman" aria-pressed="false">
+                Roman
+              </button>
+            </div>
           </div>
-        </section>
-      )
-    }
+        )
+      }
+
+      <label class="reading-control-group">
+        <span class="reading-control-label">Text size</span>
+        <select id="reading-font-size">
+          <option value="small">Small</option>
+          <option value="default" selected>Default</option>
+          <option value="large">Large</option>
+          <option value="xlarge">Extra large</option>
+        </select>
+      </label>
+
+      <label class="reading-control-group">
+        <span class="reading-control-label">Line spacing</span>
+        <select id="reading-line-spacing">
+          <option value="compact">Compact</option>
+          <option value="default" selected>Default</option>
+          <option value="relaxed">Relaxed</option>
+        </select>
+      </label>
+    </div>
+
+    <div
+      class:list={[
+        "lyric-reading-grid",
+        !data.romanLyrics && "lyric-reading-grid-single",
+      ]}
+      data-reading-mode={data.romanLyrics ? "parallel" : "urdu"}
+      data-font-size="default"
+      data-line-spacing="default"
+    >
+      <section
+        class="lyric-reading-panel lyric-reading-urdu"
+        dir={data.direction}
+        lang={data.lang}
+        aria-label={`${data.language} lyrics`}
+      >
+        <h2 class="lyric-version-heading">{data.language}</h2>
+        <div class="lyrics-text" dir={data.direction} lang={data.lang}>
+          {lyric.body ?? ""}
+        </div>
+      </section>
+
+      {
+        data.romanLyrics && (
+          <section
+            class="lyric-reading-panel lyric-reading-roman"
+            lang="en"
+            dir="ltr"
+            aria-label="Roman Urdu lyrics"
+          >
+            <h2 class="lyric-version-heading">Roman Urdu</h2>
+            <div class="roman-lyrics-text">{data.romanLyrics}</div>
+          </section>
+        )
+      }
+    </div>
 
     {
       data.tags.length > 0 && (
         <footer class="tag-list" data-pagefind-ignore>
-          {data.tags.map((tag) => <span>{tag}</span>)}
+          <span class="tag-list-label">Tags</span>
+          {data.tags.map((tag) => (
+            <a
+              class="tag-link"
+              href={searchUrl({ collection: "Lyrics", tag })}
+            >
+              {tag}
+            </a>
+          ))}
         </footer>
       )
     }
+
+    <nav class="lyric-neighbor-nav" aria-label={`${category} lyric navigation`} data-pagefind-ignore>
+      <div class="lyric-neighbor-slot lyric-neighbor-previous">
+        {
+          previousLyric && (
+            <a href={`/lyrics/${previousLyric.id}/`}>
+              <span class="lyric-neighbor-label">← Previous {category}</span>
+              <span
+                class="lyric-neighbor-title"
+                lang={previousLyric.data.alternateTitle ? "en" : previousLyric.data.lang}
+                dir={previousLyric.data.alternateTitle ? "ltr" : previousLyric.data.direction}
+              >
+                {neighborTitle(previousLyric)}
+              </span>
+            </a>
+          )
+        }
+      </div>
+
+      <a class="lyric-neighbor-category" href={`/categories/${slugifyCategory(category)}/`}>
+        All {category} · {categoryCount}
+      </a>
+
+      <div class="lyric-neighbor-slot lyric-neighbor-next">
+        {
+          nextLyric && (
+            <a href={`/lyrics/${nextLyric.id}/`}>
+              <span class="lyric-neighbor-label">Next {category} →</span>
+              <span
+                class="lyric-neighbor-title"
+                lang={nextLyric.data.alternateTitle ? "en" : nextLyric.data.lang}
+                dir={nextLyric.data.alternateTitle ? "ltr" : nextLyric.data.direction}
+              >
+                {neighborTitle(nextLyric)}
+              </span>
+            </a>
+          )
+        }
+      </div>
+    </nav>
   </article>
+
+  <script define:vars={{ lyricId: lyric.id, hasRoman: Boolean(data.romanLyrics) }}>
+    const RECENT_KEY = "kalam:recent";
+    const PREFS_KEY = "kalam:reading-prefs";
+
+    try {
+      const parsed = JSON.parse(localStorage.getItem(RECENT_KEY) ?? "[]");
+      const recent = Array.isArray(parsed)
+        ? parsed.filter((value) => typeof value === "string" && value !== lyricId)
+        : [];
+      recent.unshift(lyricId);
+      localStorage.setItem(RECENT_KEY, JSON.stringify(recent.slice(0, 20)));
+      window.dispatchEvent(new CustomEvent("kalam:recent-changed", { detail: { recent } }));
+    } catch {}
+
+    const readingGrid = document.querySelector(".lyric-reading-grid");
+    const fontSelect = document.querySelector("#reading-font-size");
+    const spacingSelect = document.querySelector("#reading-line-spacing");
+    const modeButtons = document.querySelectorAll("[data-reading-mode-button]");
+
+    const validFontSizes = new Set(["small", "default", "large", "xlarge"]);
+    const validSpacings = new Set(["compact", "default", "relaxed"]);
+    const validModes = new Set(["parallel", "urdu", "roman"]);
+
+    let savedPrefs = {};
+    try {
+      const parsed = JSON.parse(localStorage.getItem(PREFS_KEY) ?? "{}");
+      if (parsed && typeof parsed === "object") savedPrefs = parsed;
+    } catch {}
+
+    const prefs = {
+      mode:
+        hasRoman && validModes.has(savedPrefs.mode)
+          ? savedPrefs.mode
+          : hasRoman
+            ? "parallel"
+            : "urdu",
+      fontSize: validFontSizes.has(savedPrefs.fontSize)
+        ? savedPrefs.fontSize
+        : "default",
+      spacing: validSpacings.has(savedPrefs.spacing)
+        ? savedPrefs.spacing
+        : "default",
+    };
+
+    function storePrefs() {
+      try {
+        localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+      } catch {}
+    }
+
+    function applyPrefs() {
+      if (!readingGrid) return;
+
+      readingGrid.dataset.readingMode = hasRoman ? prefs.mode : "urdu";
+      readingGrid.dataset.fontSize = prefs.fontSize;
+      readingGrid.dataset.lineSpacing = prefs.spacing;
+
+      if (fontSelect) fontSelect.value = prefs.fontSize;
+      if (spacingSelect) spacingSelect.value = prefs.spacing;
+
+      modeButtons.forEach((button) => {
+        const active = button.dataset.readingModeButton === prefs.mode;
+        button.setAttribute("aria-pressed", String(active));
+      });
+    }
+
+    modeButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const mode = button.dataset.readingModeButton;
+        if (!hasRoman || !validModes.has(mode)) return;
+        prefs.mode = mode;
+        storePrefs();
+        applyPrefs();
+      });
+    });
+
+    fontSelect?.addEventListener("change", () => {
+      if (!validFontSizes.has(fontSelect.value)) return;
+      prefs.fontSize = fontSelect.value;
+      storePrefs();
+      applyPrefs();
+    });
+
+    spacingSelect?.addEventListener("change", () => {
+      if (!validSpacings.has(spacingSelect.value)) return;
+      prefs.spacing = spacingSelect.value;
+      storePrefs();
+      applyPrefs();
+    });
+
+    applyPrefs();
+  </script>
 </BaseLayout>
