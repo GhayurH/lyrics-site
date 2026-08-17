@@ -10,24 +10,32 @@ import settings from "../../data/basta/settings.json";
 
 const { indexStartPage, indexEndPage } = settings;
 
-function isIndexPage(page: number) {
-  return page >= indexStartPage && page <= indexEndPage;
-}
-
 export async function getStaticPaths() {
+  // getStaticPaths runs in an isolated scope in Astro.
+  // Imports are available, but parent-scope helpers/variables are not,
+  // so read the settings inside the function as well.
+  const {
+    indexStartPage: routeIndexStartPage,
+    indexEndPage: routeIndexEndPage,
+  } = settings;
+
   const allPages = (
     await getCollection("basta", ({ data }) => data.published)
   ).sort((a, b) => a.data.page - b.data.page);
 
   // The physical index scans are deliberately not separate routes.
-  const pages = allPages.filter((entry) => !isIndexPage(entry.data.page));
+  const pages = allPages.filter(
+    (entry) =>
+      entry.data.page < routeIndexStartPage ||
+      entry.data.page > routeIndexEndPage,
+  );
   const availablePages = pages.map((entry) => entry.data.page);
 
   const beforeIndex = pages.filter(
-    (entry) => entry.data.page < indexStartPage,
+    (entry) => entry.data.page < routeIndexStartPage,
   );
   const afterIndex = pages.filter(
-    (entry) => entry.data.page > indexEndPage,
+    (entry) => entry.data.page > routeIndexEndPage,
   );
 
   const lastBeforeIndex = beforeIndex.at(-1)?.data.page;
