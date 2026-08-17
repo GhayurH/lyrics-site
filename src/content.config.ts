@@ -44,6 +44,7 @@ const basta = defineCollection({
     // Actual printed book page. Page 56 is /basta/56/.
     page: z.number().int().positive(),
     originalImage: z.string(),
+    imageOnly: z.boolean().default(false),
     published: z.boolean().default(true),
   }),
 });

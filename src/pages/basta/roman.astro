@@ -2,9 +2,26 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 
-const pages = (
-  await getCollection("bastaRoman", ({ data }) => data.published)
+const bookPages = (
+  await getCollection("basta", ({ data }) => data.published)
 ).sort((a, b) => a.data.page - b.data.page);
+
+const romanPages = await getCollection(
+  "bastaRoman",
+  ({ data }) => data.published,
+);
+
+const romanByPage = new Map(
+  romanPages.map((entry) => [entry.data.page, entry]),
+);
+
+// Show Roman pages as they become available, plus the image-only
+// pages that must appear in every edition.
+const displayPages = bookPages.filter(
+  (entry) =>
+    entry.data.imageOnly ||
+    romanByPage.has(entry.data.page),
+);
 ---
 
 <BaseLayout
@@ -24,7 +41,7 @@ const pages = (
     </header>
 
     {
-      pages.length === 0 ? (
+      displayPages.length === 0 ? (
         <p class="basta-not-ready">
           The Roman Urdu edition has not been added yet.
         </p>
@@ -36,21 +53,45 @@ const pages = (
           data-pagefind-ignore
         >
           {
-            pages.map((entry, index) => (
-              <section class="basta-scroll-page" id={`page-${entry.data.page}`}>
-                <div class="basta-scroll-text">
-                  {(entry.body ?? "").trim()}
-                </div>
+            displayPages.map((entry, index) => {
+              const romanEntry = romanByPage.get(entry.data.page);
 
-                <p class="basta-scroll-page-number">{entry.data.page}</p>
+              return (
+                <section
+                  class:list={[
+                    "basta-scroll-page",
+                    entry.data.imageOnly && "basta-scroll-page-image-only",
+                  ]}
+                  id={`page-${entry.data.page}`}
+                >
+                  {
+                    entry.data.imageOnly ? (
+                      <figure class="basta-scroll-original-image">
+                        <img
+                          src={entry.data.originalImage}
+                          alt={`Original scan of Basta page ${entry.data.page}`}
+                          loading="lazy"
+                        />
+                      </figure>
+                    ) : (
+                      <div class="basta-scroll-text">
+                        {(romanEntry?.body ?? "").trim()}
+                      </div>
+                    )
+                  }
 
-                {
-                  index < pages.length - 1 && (
-                    <hr class="basta-page-break" aria-hidden="true" />
-                  )
-                }
-              </section>
-            ))
+                  <p class="basta-scroll-page-number">
+                    {entry.data.page}
+                  </p>
+
+                  {
+                    index < displayPages.length - 1 && (
+                      <hr class="basta-page-break" aria-hidden="true" />
+                    )
+                  }
+                </section>
+              );
+            })
           }
         </div>
       )

@@ -195,6 +195,11 @@
   margin: 2rem 0 3rem;
 }
 
+.basta-page-grid-image-only {
+  grid-template-columns: minmax(0, 42rem);
+  justify-content: center;
+}
+
 .basta-original-page {
   margin: 0;
   overflow: hidden;
@@ -266,6 +271,17 @@
   font-size: clamp(1.05rem, 2.5vw, 1.25rem);
   line-height: 2;
   text-align: left;
+}
+
+.basta-scroll-original-image {
+  max-width: 38rem;
+  margin: 0 auto;
+}
+
+.basta-scroll-original-image img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .basta-scroll-page-number {
