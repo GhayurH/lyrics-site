@@ -1,0 +1,100 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const bookPages = (
+  await getCollection("basta", ({ data }) => data.published)
+).sort((a, b) => a.data.page - b.data.page);
+
+const romanPages = await getCollection(
+  "bastaRoman",
+  ({ data }) => data.published,
+);
+
+const romanByPage = new Map(
+  romanPages.map((entry) => [entry.data.page, entry]),
+);
+
+// Show Roman pages as they become available, plus the image-only
+// pages that must appear in every edition.
+const displayPages = bookPages.filter(
+  (entry) =>
+    entry.data.imageOnly ||
+    romanByPage.has(entry.data.page),
+);
+---
+
+<BaseLayout
+  title="Basta — Roman Urdu edition | Kalam Archive"
+  description="Continuous Roman Urdu text edition of Basta with page breaks matching the printed book."
+>
+  <article class="basta-scroll-edition">
+    <header class="basta-scroll-header" data-pagefind-ignore>
+      <div class="basta-subnav">
+        <a href="/basta/">Basta</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/urdu/">Urdu text edition</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/index/">Index</a>
+      </div>
+      <h1>Basta — Roman Urdu edition</h1>
+    </header>
+
+    {
+      displayPages.length === 0 ? (
+        <p class="basta-not-ready">
+          The Roman Urdu edition has not been added yet.
+        </p>
+      ) : (
+        <div
+          class="basta-continuous-text basta-continuous-roman"
+          lang="en"
+          dir="ltr"
+          data-pagefind-ignore
+        >
+          {
+            displayPages.map((entry, index) => {
+              const romanEntry = romanByPage.get(entry.data.page);
+
+              return (
+                <section
+                  class:list={[
+                    "basta-scroll-page",
+                    entry.data.imageOnly && "basta-scroll-page-image-only",
+                  ]}
+                  id={`page-${entry.data.page}`}
+                >
+                  {
+                    entry.data.imageOnly ? (
+                      <figure class="basta-scroll-original-image">
+                        <img
+                          src={entry.data.originalImage}
+                          alt={`Original scan of Basta page ${entry.data.page}`}
+                          loading="lazy"
+                        />
+                      </figure>
+                    ) : (
+                      <div class="basta-scroll-text">
+                        {(romanEntry?.body ?? "").trim()}
+                      </div>
+                    )
+                  }
+
+                  <p class="basta-scroll-page-number">
+                    {entry.data.page}
+                  </p>
+
+                  {
+                    index < displayPages.length - 1 && (
+                      <hr class="basta-page-break" aria-hidden="true" />
+                    )
+                  }
+                </section>
+              );
+            })
+          }
+        </div>
+      )
+    }
+  </article>
+</BaseLayout>

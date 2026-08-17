@@ -1,0 +1,117 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const pages = (
+  await getCollection("basta", ({ data }) => data.published)
+).sort((a, b) => a.data.page - b.data.page);
+
+const availablePages = pages.map((entry) => entry.data.page);
+const firstPage = availablePages[0];
+---
+
+<BaseLayout
+  title="Basta | Kalam Archive"
+  description="Read Basta in page-by-page, continuous Urdu, or continuous Roman Urdu editions."
+>
+  <article class="basta-home">
+    <header class="basta-home-header">
+      <h1>Basta</h1>
+      <p>
+        Choose between the original page-by-page edition,
+        continuous Urdu text, and continuous Roman Urdu text.
+      </p>
+    </header>
+
+    <section class="basta-edition-selector" aria-labelledby="edition-heading">
+      <h2 id="edition-heading">Edition</h2>
+
+      <form data-basta-edition-form>
+        <label for="basta-edition">Choose edition</label>
+
+        <div class="basta-edition-controls">
+          <select id="basta-edition" name="edition">
+            <option
+              value={firstPage ? `/basta/${firstPage}/` : ""}
+              disabled={!firstPage}
+            >
+              Page-by-page — original scan + Urdu text
+            </option>
+            <option value="/basta/urdu/">Urdu — continuous text</option>
+            <option value="/basta/roman/">Roman Urdu — continuous text</option>
+          </select>
+
+          <button type="submit">Open edition</button>
+        </div>
+      </form>
+    </section>
+
+    {
+      firstPage && (
+        <section class="basta-home-jump-section">
+          <h2>Go to page</h2>
+
+          <form class="basta-home-jump" data-basta-home-jump>
+            <label>
+              <span>Page number</span>
+              <input
+                name="page"
+                type="number"
+                min={availablePages[0]}
+                max={availablePages[availablePages.length - 1]}
+                inputmode="numeric"
+                required
+              />
+            </label>
+            <button type="submit">Go</button>
+          </form>
+        </section>
+      )
+    }
+
+    <div class="basta-home-links">
+      <a class="button basta-secondary-button" href="/basta/index/">
+        Open book index
+      </a>
+      <a
+        class="button basta-secondary-button"
+        href="/files/basta/basta.pdf"
+        download
+      >
+        Download original Basta PDF
+      </a>
+    </div>
+  </article>
+
+  <script is:inline define:vars={{ availableBastaPages: availablePages }}>
+    const editionForm = document.querySelector("[data-basta-edition-form]");
+
+    editionForm?.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const select = editionForm.querySelector('select[name="edition"]');
+      if (select?.value) window.location.href = select.value;
+    });
+
+    const jumpForm = document.querySelector("[data-basta-home-jump]");
+
+    jumpForm?.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const input = jumpForm.querySelector('input[name="page"]');
+      const page = Number(input?.value);
+
+      if (!Number.isInteger(page) || !availableBastaPages.includes(page)) {
+        input?.setCustomValidity("That page is not available.");
+        input?.reportValidity();
+        return;
+      }
+
+      window.location.href = `/basta/${page}/`;
+    });
+
+    jumpForm
+      ?.querySelector('input[name="page"]')
+      ?.addEventListener("input", (event) => {
+        event.currentTarget.setCustomValidity("");
+      });
+  </script>
+</BaseLayout>

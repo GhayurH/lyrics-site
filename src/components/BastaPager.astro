@@ -1,0 +1,57 @@
+---
+interface Props {
+  currentPage: number;
+  previousPage?: number;
+  nextPage?: number;
+  availablePages: number[];
+}
+
+const {
+  currentPage,
+  previousPage,
+  nextPage,
+  availablePages,
+} = Astro.props;
+---
+
+<nav class="basta-pager" aria-label="Basta page navigation" data-pagefind-ignore>
+  {
+    previousPage ? (
+      <a class="basta-nav-button" href={`/basta/${previousPage}/`}>
+        ← Previous
+      </a>
+    ) : (
+      <span class="basta-nav-button is-disabled" aria-disabled="true">
+        ← Previous
+      </span>
+    )
+  }
+
+  <form class="basta-jump-form" data-basta-jump-form>
+    <label>
+      <span>Go to page</span>
+      <input
+        name="page"
+        type="number"
+        min={availablePages[0]}
+        max={availablePages[availablePages.length - 1]}
+        value={currentPage}
+        inputmode="numeric"
+        required
+      />
+    </label>
+    <button type="submit">Go</button>
+  </form>
+
+  {
+    nextPage ? (
+      <a class="basta-nav-button" href={`/basta/${nextPage}/`}>
+        Next →
+      </a>
+    ) : (
+      <span class="basta-nav-button is-disabled" aria-disabled="true">
+        Next →
+      </span>
+    )
+  }
+</nav>

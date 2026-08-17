@@ -1,0 +1,144 @@
+---
+import {
+  getCollection,
+  type CollectionEntry,
+} from "astro:content";
+
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BastaPager from "../../components/BastaPager.astro";
+
+export async function getStaticPaths() {
+  const pages = (
+    await getCollection("basta", ({ data }) => data.published)
+  ).sort((a, b) => a.data.page - b.data.page);
+
+  const availablePages = pages.map((entry) => entry.data.page);
+
+  return pages.map((entry, index) => ({
+    params: { page: String(entry.data.page) },
+    props: {
+      entry,
+      previousPage: index > 0 ? pages[index - 1].data.page : undefined,
+      nextPage:
+        index < pages.length - 1 ? pages[index + 1].data.page : undefined,
+      availablePages,
+    },
+  }));
+}
+
+interface Props {
+  entry: CollectionEntry<"basta">;
+  previousPage?: number;
+  nextPage?: number;
+  availablePages: number[];
+}
+
+const {
+  entry,
+  previousPage,
+  nextPage,
+  availablePages,
+} = Astro.props as Props;
+
+const page = entry.data.page;
+const urduText = (entry.body ?? "").trim();
+---
+
+<BaseLayout
+  title={`Basta — page ${page} | Kalam Archive`}
+  description={
+    entry.data.imageOnly
+      ? `Original scan of Basta page ${page}.`
+      : `Basta page ${page}: original scan and cleaned Urdu text.`
+  }
+>
+  <article class="basta-page" data-pagefind-body>
+    <header class="basta-page-header">
+      <div class="basta-subnav" data-pagefind-ignore>
+        <a href="/basta/">Basta</a>
+        <span aria-hidden="true">·</span>
+        <a href={`/basta/urdu/#page-${page}`}>Urdu text edition</a>
+        <span aria-hidden="true">·</span>
+        <a href={`/basta/roman/#page-${page}`}>Roman edition</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/index/">Index</a>
+      </div>
+
+      <h1 data-pagefind-meta="title">Basta — Page {page}</h1>
+
+      <div class="pagefind-data" aria-hidden="true">
+        <span data-pagefind-filter="collection">Basta</span>
+        <span data-pagefind-meta="page">{page}</span>
+      </div>
+    </header>
+
+    <BastaPager
+      currentPage={page}
+      previousPage={previousPage}
+      nextPage={nextPage}
+      availablePages={availablePages}
+    />
+
+    <div
+      class:list={[
+        "basta-page-grid",
+        entry.data.imageOnly && "basta-page-grid-image-only",
+      ]}
+    >
+      <figure class="basta-original-page" data-pagefind-ignore>
+        <figcaption>Original book page</figcaption>
+        <a href={entry.data.originalImage}>
+          <img
+            src={entry.data.originalImage}
+            alt={`Original scan of Basta page ${page}`}
+            loading="eager"
+          />
+        </a>
+      </figure>
+
+      {
+        !entry.data.imageOnly && (
+          <section
+            class="basta-page-text"
+            lang="ur"
+            dir="rtl"
+            aria-label={`Urdu text of Basta page ${page}`}
+          >
+            <div class="basta-urdu-text">{urduText}</div>
+          </section>
+        )
+      }
+    </div>
+
+    <BastaPager
+      currentPage={page}
+      previousPage={previousPage}
+      nextPage={nextPage}
+      availablePages={availablePages}
+    />
+  </article>
+
+  <script is:inline define:vars={{ availableBastaPages: availablePages }}>
+    document.querySelectorAll("[data-basta-jump-form]").forEach((form) => {
+      const input = form.querySelector('input[name="page"]');
+
+      input?.addEventListener("input", () => input.setCustomValidity(""));
+
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const requestedPage = Number(input?.value);
+
+        if (
+          !Number.isInteger(requestedPage) ||
+          !availableBastaPages.includes(requestedPage)
+        ) {
+          input?.setCustomValidity("That page is not available.");
+          input?.reportValidity();
+          return;
+        }
+
+        window.location.href = `/basta/${requestedPage}/`;
+      });
+    });
+  </script>
+</BaseLayout>
