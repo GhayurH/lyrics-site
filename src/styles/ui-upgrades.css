@@ -1,0 +1,1047 @@
+/* =========================================================
+   UI / UX upgrade layer
+   Loaded after global.css and basta.css so it can refine the
+   existing site without rewriting either stylesheet.
+   ========================================================= */
+
+:root {
+  --content-wide: 84rem;
+  --content-reading: 76rem;
+  --focus-ring: 2px solid currentColor;
+}
+
+.site-main,
+.header-inner {
+  max-width: var(--content-wide);
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(14px);
+}
+
+html[data-theme="light"] .site-header {
+  background: rgb(255 255 255 / 0.92);
+}
+
+html[data-theme="dark"] .site-header {
+  background: rgb(34 34 37 / 0.92);
+}
+
+.site-header nav a {
+  border-radius: 0.4rem;
+  padding: 0.3rem 0.45rem;
+}
+
+.site-header nav a[aria-current="page"] {
+  background: var(--tag-background);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.skip-link {
+  position: fixed;
+  top: 0.5rem;
+  left: 0.5rem;
+  z-index: 100;
+  transform: translateY(-150%);
+  border-radius: 0.45rem;
+  padding: 0.55rem 0.8rem;
+  background: var(--button-background);
+  color: var(--button-text);
+  font-weight: 700;
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.eyebrow {
+  margin: 0 0 0.45rem;
+  color: var(--secondary-text);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.hero-compact {
+  max-width: 58rem;
+  padding-top: 2.5rem;
+  padding-bottom: 3rem;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.35rem;
+}
+
+.button-secondary {
+  border: 1px solid var(--border-colour);
+  background: var(--surface-background);
+  color: var(--primary-text);
+}
+
+.button-secondary:hover {
+  background: var(--tag-background);
+}
+
+.category-overview {
+  margin: 1rem 0 4rem;
+}
+
+.category-overview .section-heading h2,
+.category-section-heading h2 {
+  margin: 0;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.75rem;
+  padding: 1rem 1.1rem;
+  background: var(--surface-background);
+  text-decoration: none;
+}
+
+.category-card:hover {
+  background: var(--tag-background);
+}
+
+.category-card:focus-visible,
+.lyric-category-link:focus-visible,
+.category-pill:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
+}
+
+.category-card strong {
+  font-size: 1.05rem;
+}
+
+.category-card span {
+  color: var(--secondary-text);
+  font-size: 0.85rem;
+}
+
+.category-sections {
+  display: grid;
+  gap: 4.5rem;
+}
+
+.category-section {
+  margin-top: 0;
+  scroll-margin-top: 6rem;
+}
+
+.category-section-heading > div > p {
+  margin: 0.15rem 0 0;
+  color: var(--secondary-text);
+  font-size: 0.9rem;
+}
+
+.category-section-heading > a {
+  color: var(--secondary-text);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.category-section-heading > a:hover {
+  color: var(--primary-text);
+  text-decoration: underline;
+}
+
+/* Existing cards become metadata-aware without bringing cover images back. */
+.lyric-list-item {
+  position: relative;
+}
+
+.lyric-list-link {
+  min-height: 100%;
+}
+
+.lyric-list-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: auto;
+  padding-top: 0.5rem;
+}
+
+.metadata-chip {
+  border-radius: 999px;
+  padding: 0.18rem 0.5rem;
+  background: var(--tag-background);
+  color: var(--secondary-text);
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+.lyric-category-link {
+  display: inline-block;
+  margin-top: 0.35rem;
+  color: var(--secondary-text);
+  font-size: 0.78rem;
+}
+
+.category-page,
+.about-page {
+  max-width: 72rem;
+  margin: auto;
+}
+
+.page-header-simple {
+  max-width: 52rem;
+  margin-bottom: 2.5rem;
+}
+
+.page-header-simple h1 {
+  margin: 0 0 0.7rem;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1.1;
+}
+
+.page-header-simple > p:last-child {
+  color: var(--secondary-text);
+}
+
+/* =========================================================
+   Parallel lyric reading
+   ========================================================= */
+
+.lyric-page,
+.lyric-page.lyric-page-parallel {
+  max-width: var(--content-reading);
+}
+
+.lyric-header {
+  margin-bottom: 2rem;
+}
+
+.lyric-header-title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.lyric-title-block {
+  min-width: 0;
+  flex: 1;
+}
+
+.category-pill {
+  flex: 0 0 auto;
+  border: 1px solid var(--border-colour);
+  border-radius: 999px;
+  padding: 0.4rem 0.75rem;
+  background: var(--surface-background);
+  color: var(--secondary-text);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.category-pill:hover {
+  background: var(--tag-background);
+  color: var(--primary-text);
+}
+
+/* Keep source artwork at the old readable width even though the text page is wider. */
+.lyric-header .lyric-cover {
+  max-width: 48rem;
+  margin-inline: auto;
+}
+
+.lyric-reading-grid {
+  display: grid;
+  grid-template-areas: "roman urdu";
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  overflow: hidden;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.85rem;
+  background: var(--surface-background);
+}
+
+.lyric-reading-grid-single {
+  display: block;
+  max-width: 48rem;
+  margin-inline: auto;
+}
+
+.lyric-reading-panel {
+  min-width: 0;
+  padding: clamp(1.15rem, 2.6vw, 2.1rem);
+}
+
+.lyric-reading-urdu {
+  grid-area: urdu;
+}
+
+.lyric-reading-roman {
+  grid-area: roman;
+  border-right: 1px solid var(--border-colour);
+}
+
+.lyric-version-heading {
+  margin: 0 0 1.25rem;
+  border-bottom: 1px solid var(--border-colour);
+  padding-bottom: 0.75rem;
+  color: var(--secondary-text);
+  font-family:
+    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+.lyric-reading-urdu .lyric-version-heading {
+  text-align: right;
+}
+
+.lyric-reading-roman .lyric-version-heading {
+  text-align: left;
+}
+
+.lyric-reading-panel .lyrics-text,
+.lyric-reading-panel .roman-lyrics-text {
+  margin-top: 0;
+}
+
+.tag-list-label {
+  display: inline-flex;
+  align-items: center;
+  padding-left: 0 !important;
+  background: transparent !important;
+  color: var(--secondary-text);
+  font-size: 0.78rem !important;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+/* =========================================================
+   Search
+   ========================================================= */
+
+.search-page {
+  max-width: 72rem;
+}
+
+.search-header {
+  max-width: 52rem;
+}
+
+.search-header h1 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1.1;
+}
+
+.search-input-wrap {
+  max-width: 52rem;
+}
+
+.search-primary-filters,
+.search-secondary-filters {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.search-filter-control {
+  min-width: 0;
+}
+
+.search-filter-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--secondary-text);
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+pagefind-filter-dropdown {
+  display: block;
+  min-width: 0;
+}
+
+.search-more-filters {
+  margin-top: 1rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.65rem;
+  padding: 0.75rem 1rem;
+  background: var(--surface-background);
+}
+
+.search-more-filters > summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.search-secondary-filters {
+  padding-top: 0.5rem;
+}
+
+.search-results-shell {
+  margin-top: 2rem;
+  border-top: 1px solid var(--border-colour);
+  padding-top: 1.5rem;
+}
+
+/* =========================================================
+   About / contact
+   ========================================================= */
+
+.about-section {
+  margin-top: 2rem;
+}
+
+.contact-card,
+.about-note {
+  border: 1px solid var(--border-colour);
+  border-radius: 0.8rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  background: var(--surface-background);
+}
+
+.contact-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.contact-card h2,
+.about-note h2 {
+  margin: 0 0 0.75rem;
+}
+
+.contact-card p,
+.about-note p {
+  max-width: 52rem;
+}
+
+.contact-email-large {
+  flex: 0 0 auto;
+  margin-top: 0;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.55rem;
+  padding: 0.7rem 0.9rem;
+  background: var(--tag-background);
+  text-decoration: none;
+}
+
+.contact-email-large:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 920px) {
+  .lyric-reading-grid {
+    grid-template-areas:
+      "urdu"
+      "roman";
+    grid-template-columns: 1fr;
+  }
+
+  .lyric-reading-roman {
+    border-top: 1px solid var(--border-colour);
+    border-right: 0;
+  }
+
+  .search-primary-filters,
+  .search-secondary-filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .site-header {
+    position: static;
+  }
+
+  .header-actions,
+  .header-actions nav {
+    flex-wrap: wrap;
+  }
+
+  .lyric-header-title-row,
+  .contact-card {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .category-pill {
+    order: -1;
+  }
+
+  .search-primary-filters,
+  .search-secondary-filters {
+    grid-template-columns: 1fr;
+  }
+
+  .category-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 430px) {
+  .category-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =========================================================
+   Upgrade v2: saved lyrics, reading controls, linked metadata
+   ========================================================= */
+
+.lyric-list-item > .lyric-list-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  min-height: 100%;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.65rem;
+  padding: 1rem 1.1rem;
+  background: var(--surface-background);
+  text-decoration: none;
+}
+
+.lyric-list-item > .lyric-list-link:hover {
+  background: var(--tag-background);
+}
+
+.lyric-list-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.65rem;
+  margin-top: 0.45rem;
+  padding-inline: 0.15rem;
+}
+
+.lyric-list-actions .lyric-category-link {
+  display: inline;
+  height: auto;
+  margin: 0 auto 0 0;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--secondary-text);
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+
+.lyric-list-actions .lyric-category-link:hover {
+  background: transparent;
+  color: var(--primary-text);
+  text-decoration: underline;
+}
+
+.favorite-button,
+.text-button {
+  border: 1px solid var(--border-colour);
+  border-radius: 0.55rem;
+  padding: 0.48rem 0.72rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.favorite-button:hover,
+.text-button:hover {
+  background: var(--tag-background);
+}
+
+.favorite-button[aria-pressed="true"],
+.favorite-button[data-saved="true"] {
+  background: var(--button-background);
+  color: var(--button-text);
+}
+
+.favorite-button:focus-visible,
+.text-button:focus-visible,
+.reading-controls button:focus-visible,
+.reading-controls select:focus-visible,
+.tag-link:focus-visible,
+.lyric-details a:focus-visible,
+.lyric-neighbor-nav a:focus-visible,
+.saved-lyric-link:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
+}
+
+.favorite-button-compact {
+  flex: 0 0 auto;
+  padding: 0.36rem 0.58rem;
+  font-size: 0.76rem;
+}
+
+.lyric-header-actions {
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 0.55rem;
+}
+
+.lyric-details dd a {
+  color: inherit;
+  text-decoration-color: var(--border-colour);
+  text-underline-offset: 0.2em;
+}
+
+.lyric-details dd a:hover {
+  text-decoration-color: currentColor;
+}
+
+.tag-list .tag-link {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0.25rem 0.65rem;
+  background: var(--tag-background);
+  color: inherit;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.tag-list .tag-link:hover {
+  text-decoration: underline;
+}
+
+/* =========================================================
+   Reading controls
+   ========================================================= */
+
+.reading-controls {
+  display: flex;
+  align-items: end;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 0 0 1rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.75rem;
+  padding: 0.75rem;
+  background: var(--surface-background);
+}
+
+.reading-control-group {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.reading-control-label {
+  color: var(--secondary-text);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.reading-controls select {
+  min-height: 2.25rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.48rem;
+  padding: 0.35rem 2rem 0.35rem 0.55rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font: inherit;
+  font-size: 0.82rem;
+}
+
+.segmented-control {
+  display: inline-flex;
+  overflow: hidden;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.5rem;
+}
+
+.segmented-control button {
+  min-height: 2.2rem;
+  border: 0;
+  border-right: 1px solid var(--border-colour);
+  padding: 0.38rem 0.7rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.segmented-control button:last-child {
+  border-right: 0;
+}
+
+.segmented-control button:hover {
+  background: var(--tag-background);
+}
+
+.segmented-control button[aria-pressed="true"] {
+  background: var(--button-background);
+  color: var(--button-text);
+}
+
+.lyric-reading-grid[data-reading-mode="urdu"] {
+  grid-template-areas: "urdu";
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 48rem;
+  margin-inline: auto;
+}
+
+.lyric-reading-grid[data-reading-mode="urdu"] .lyric-reading-roman {
+  display: none;
+}
+
+.lyric-reading-grid[data-reading-mode="roman"] {
+  grid-template-areas: "roman";
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 48rem;
+  margin-inline: auto;
+}
+
+.lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-urdu {
+  display: none;
+}
+
+.lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-roman {
+  border-right: 0;
+}
+
+/* Set the responsive base size on the panels so the inner text can inherit it. */
+.lyric-reading-urdu {
+  font-size: clamp(1.35rem, 3vw, 1.8rem);
+}
+
+.lyric-reading-roman {
+  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
+}
+
+.lyric-reading-panel .lyrics-text,
+.lyric-reading-panel .roman-lyrics-text {
+  font-size: 1em;
+}
+
+.lyric-reading-grid[data-font-size="small"] .lyric-reading-urdu {
+  font-size: clamp(1.15rem, 2.6vw, 1.5rem);
+}
+
+.lyric-reading-grid[data-font-size="small"] .lyric-reading-roman {
+  font-size: clamp(0.95rem, 2.2vw, 1.1rem);
+}
+
+.lyric-reading-grid[data-font-size="large"] .lyric-reading-urdu {
+  font-size: clamp(1.55rem, 3.4vw, 2.05rem);
+}
+
+.lyric-reading-grid[data-font-size="large"] .lyric-reading-roman {
+  font-size: clamp(1.18rem, 2.8vw, 1.42rem);
+}
+
+.lyric-reading-grid[data-font-size="xlarge"] .lyric-reading-urdu {
+  font-size: clamp(1.75rem, 3.9vw, 2.35rem);
+}
+
+.lyric-reading-grid[data-font-size="xlarge"] .lyric-reading-roman {
+  font-size: clamp(1.3rem, 3.1vw, 1.6rem);
+}
+
+.lyric-reading-grid[data-line-spacing="compact"] .lyrics-text {
+  line-height: 2.2;
+}
+
+.lyric-reading-grid[data-line-spacing="compact"] .roman-lyrics-text {
+  line-height: 1.65;
+}
+
+.lyric-reading-grid[data-line-spacing="default"] .lyrics-text {
+  line-height: 2.7;
+}
+
+.lyric-reading-grid[data-line-spacing="default"] .roman-lyrics-text {
+  line-height: 2;
+}
+
+.lyric-reading-grid[data-line-spacing="relaxed"] .lyrics-text {
+  line-height: 3.15;
+}
+
+.lyric-reading-grid[data-line-spacing="relaxed"] .roman-lyrics-text {
+  line-height: 2.35;
+}
+
+/* =========================================================
+   Previous / next lyric navigation
+   ========================================================= */
+
+.lyric-neighbor-nav {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: stretch;
+  gap: 0.75rem;
+  margin-top: 3rem;
+  border-top: 1px solid var(--border-colour);
+  padding-top: 1.25rem;
+}
+
+.lyric-neighbor-slot {
+  min-width: 0;
+}
+
+.lyric-neighbor-slot > a,
+.lyric-neighbor-category {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 4.5rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.7rem;
+  padding: 0.75rem 0.9rem;
+  background: var(--surface-background);
+  text-decoration: none;
+}
+
+.lyric-neighbor-slot > a:hover,
+.lyric-neighbor-category:hover {
+  background: var(--tag-background);
+}
+
+.lyric-neighbor-next > a {
+  text-align: right;
+}
+
+.lyric-neighbor-label {
+  color: var(--secondary-text);
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.lyric-neighbor-title {
+  margin-top: 0.2rem;
+  overflow: hidden;
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-overflow: ellipsis;
+}
+
+.lyric-neighbor-category {
+  align-items: center;
+  min-height: auto;
+  color: var(--secondary-text);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* =========================================================
+   Search URL / share controls
+   ========================================================= */
+
+.search-share-note {
+  color: var(--secondary-text);
+  font-size: 0.9rem;
+}
+
+.search-input-row {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  max-width: 58rem;
+}
+
+.search-input-row .search-input-wrap {
+  min-width: 0;
+  max-width: none;
+  flex: 1;
+}
+
+.search-clear-button {
+  flex: 0 0 auto;
+}
+
+/* =========================================================
+   Saved / recent page
+   ========================================================= */
+
+.saved-page {
+  max-width: 72rem;
+  margin: auto;
+}
+
+.saved-section {
+  margin-top: 3rem;
+}
+
+.saved-section-heading h2 {
+  margin: 0;
+}
+
+.saved-section-heading p {
+  margin: 0.2rem 0 0;
+  color: var(--secondary-text);
+  font-size: 0.85rem;
+}
+
+.saved-lyric-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.saved-lyric-item {
+  display: flex;
+  align-items: stretch;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.saved-lyric-link {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 0.3rem;
+  min-width: 0;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.7rem;
+  padding: 0.9rem 1rem;
+  background: var(--surface-background);
+  text-decoration: none;
+}
+
+.saved-lyric-link:hover {
+  background: var(--tag-background);
+}
+
+.saved-lyric-title {
+  font-size: 1.05rem;
+  line-height: 2;
+}
+
+.saved-lyric-roman,
+.saved-lyric-meta {
+  color: var(--secondary-text);
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
+
+.saved-lyric-meta {
+  margin-top: auto;
+  padding-top: 0.35rem;
+}
+
+.saved-lyric-item > .favorite-button {
+  align-self: center;
+}
+
+.saved-empty {
+  margin-top: 1rem;
+  border: 1px dashed var(--border-colour);
+  border-radius: 0.7rem;
+  padding: 1rem;
+  color: var(--secondary-text);
+}
+
+.saved-empty[hidden] {
+  display: none;
+}
+
+@media (max-width: 920px) {
+  .lyric-reading-grid[data-reading-mode="parallel"] {
+    grid-template-areas:
+      "urdu"
+      "roman";
+    grid-template-columns: 1fr;
+  }
+
+  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-roman {
+    border-top: 1px solid var(--border-colour);
+    border-right: 0;
+  }
+
+  .lyric-neighbor-nav {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .lyric-neighbor-category {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+}
+
+@media (max-width: 700px) {
+  .lyric-header-actions {
+    order: -1;
+    flex-wrap: wrap;
+  }
+
+  .reading-controls {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .reading-control-group,
+  .reading-controls select,
+  .segmented-control {
+    width: 100%;
+  }
+
+  .segmented-control button {
+    flex: 1;
+  }
+
+  .lyric-neighbor-nav {
+    grid-template-columns: 1fr;
+  }
+
+  .lyric-neighbor-category {
+    grid-column: auto;
+    grid-row: auto;
+    order: -1;
+  }
+
+  .lyric-neighbor-next > a {
+    text-align: left;
+  }
+
+  .search-input-row {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .search-clear-button {
+    align-self: flex-start;
+  }
+
+  .saved-lyric-list {
+    grid-template-columns: 1fr;
+  }
+}

@@ -3,6 +3,7 @@ import "@fontsource/noto-nastaliq-urdu/400.css";
 import "@fontsource/noto-nastaliq-urdu/700.css";
 import "../styles/global.css";
 import "../styles/basta.css";
+import "../styles/ui-upgrades.css";
 
 interface Props {
   title: string;
@@ -13,6 +14,14 @@ const {
   title,
   description = "A searchable collection of lyrics.",
 } = Astro.props;
+
+const path = Astro.url.pathname;
+const browseActive =
+  path === "/" || path.startsWith("/lyrics/") || path.startsWith("/categories/");
+const bastaActive = path.startsWith("/basta/");
+const searchActive = path.startsWith("/search/");
+const savedActive = path.startsWith("/saved/");
+const aboutActive = path.startsWith("/about/");
 ---
 
 <!doctype html>
@@ -39,15 +48,19 @@ const {
   </head>
 
   <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
     <header class="site-header" data-pagefind-ignore>
       <div class="header-inner">
         <a class="site-title" href="/">Kalam Archive</a>
 
         <div class="header-actions">
           <nav aria-label="Main navigation">
-            <a href="/">Browse</a>
-            <a href="/basta/">Basta</a>
-            <a href="/search/">Search</a>
+            <a href="/" aria-current={browseActive ? "page" : undefined}>Browse</a>
+            <a href="/basta/" aria-current={bastaActive ? "page" : undefined}>Basta</a>
+            <a href="/search/" aria-current={searchActive ? "page" : undefined}>Search</a>
+            <a href="/saved/" aria-current={savedActive ? "page" : undefined}>Saved</a>
+            <a href="/about/" aria-current={aboutActive ? "page" : undefined}>About</a>
           </nav>
 
           <button
@@ -63,12 +76,14 @@ const {
       </div>
     </header>
 
-    <main class="site-main">
+    <main id="main-content" class="site-main">
       <slot />
     </main>
 
     <footer class="site-footer" data-pagefind-ignore>
-      <p>Kalam Archive</p>
+      <p>
+        Kalam Archive · <a href="/saved/">Saved &amp; recent</a> · <a href="/about/">About &amp; contact</a>
+      </p>
     </footer>
 
     <script>
@@ -97,6 +112,81 @@ const {
         } catch {}
         updateThemeButton();
       });
+
+      const FAVORITES_KEY = "kalam:favorites";
+
+      function readFavoriteIds(): string[] {
+        try {
+          const parsed = JSON.parse(localStorage.getItem(FAVORITES_KEY) ?? "[]");
+          return Array.isArray(parsed)
+            ? parsed.filter((value): value is string => typeof value === "string")
+            : [];
+        } catch {
+          return [];
+        }
+      }
+
+      function writeFavoriteIds(ids: string[]) {
+        try {
+          localStorage.setItem(FAVORITES_KEY, JSON.stringify(ids));
+        } catch {}
+      }
+
+      function syncFavoriteButtons() {
+        const favorites = new Set(readFavoriteIds());
+
+        document
+          .querySelectorAll<HTMLButtonElement>("[data-favorite-button][data-lyric-id]")
+          .forEach((button) => {
+            const id = button.dataset.lyricId;
+            if (!id) return;
+
+            const saved = favorites.has(id);
+            button.setAttribute("aria-pressed", String(saved));
+            button.dataset.saved = String(saved);
+            button.textContent = saved ? "Saved" : "Save";
+            button.setAttribute(
+              "aria-label",
+              saved ? "Remove from saved lyrics" : "Save this lyric",
+            );
+          });
+      }
+
+      document.addEventListener("click", (event) => {
+        const target = event.target;
+        if (!(target instanceof Element)) return;
+
+        const button = target.closest<HTMLButtonElement>(
+          "[data-favorite-button][data-lyric-id]",
+        );
+        if (!button) return;
+
+        const id = button.dataset.lyricId;
+        if (!id) return;
+
+        const favorites = readFavoriteIds();
+        const existingIndex = favorites.indexOf(id);
+
+        if (existingIndex === -1) {
+          favorites.unshift(id);
+        } else {
+          favorites.splice(existingIndex, 1);
+        }
+
+        writeFavoriteIds(favorites);
+        syncFavoriteButtons();
+        window.dispatchEvent(
+          new CustomEvent("kalam:favorites-changed", {
+            detail: { favorites },
+          }),
+        );
+      });
+
+      window.addEventListener("storage", (event) => {
+        if (event.key === FAVORITES_KEY) syncFavoriteButtons();
+      });
+
+      syncFavoriteButtons();
     </script>
   </body>
 </html>

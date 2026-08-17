@@ -1,123 +1,92 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import LyricList from "../components/LyricList.astro";
+import {
+  compareCategories,
+  compareLyrics,
+  getLyricCategory,
+  slugifyCategory,
+} from "../lib/lyrics";
 
 const lyrics = (
   await getCollection("lyrics", ({ data }) => data.published)
-).sort((a, b) =>
-  (a.data.alternateTitle ?? a.data.title).localeCompare(
-    b.data.alternateTitle ?? b.data.title,
-  ),
+).sort(compareLyrics);
+
+const grouped = new Map<string, typeof lyrics>();
+for (const lyric of lyrics) {
+  const category = getLyricCategory(lyric.data);
+  const entries = grouped.get(category) ?? [];
+  entries.push(lyric);
+  grouped.set(category, entries);
+}
+
+const categories = [...grouped.entries()].sort(([a], [b]) =>
+  compareCategories(a, b),
 );
 ---
 
 <BaseLayout
   title="Kalam Archive"
-  description="A searchable collection of Urdu nohas, salams and manqabats."
+  description="A searchable collection of Urdu nohas, salams, manqabats and other kalam."
 >
-  <section class="hero">
+  <section class="hero hero-compact">
+    <p class="eyebrow">Urdu &amp; Roman Urdu</p>
     <h1>Kalam Archive</h1>
-
     <p>
-      A searchable collection of Urdu nohas, salams and manqabats.
+      Browse the archive by kalam category, or search the complete collection
+      together with Basta.
     </p>
 
-    <a class="button" href="/search/">Search the archive</a>
-  </section>
-
-  <section class="intro-section" aria-labelledby="about-heading">
-    <div class="bilingual-panel">
-      <div class="intro-language" lang="en" dir="ltr">
-        <h2 id="about-heading">About this archive</h2>
-
-        <p>
-          This website is a searchable collection of Urdu nohas,
-          salams, and manqabats. Its purpose is to preserve these
-          lyrics in a simple, organized and easily accessible format.
-        </p>
-      </div>
-
-      <div class="intro-language urdu-block" lang="ur" dir="rtl">
-        <h2>اس ذخیرے کے بارے میں</h2>
-
-        <p>
-          یہ ویب سائٹ اردو نوحوں، سلاموں، اور منقبتوں کا
-          ایک قابلِ تلاش ذخیرہ ہے۔ اس کا مقصد ان کلام کو
-          ایک سادہ اور منظم صورت میں محفوظ کرنا ہے۔
-        </p>
-      </div>
+    <div class="hero-actions">
+      <a class="button" href="/search/">Search the archive</a>
+      <a class="button button-secondary" href="/about/">About this project</a>
     </div>
   </section>
 
-  <section class="lyrics-section">
+  <section class="category-overview" aria-labelledby="categories-heading">
     <div class="section-heading">
-      <h2>All lyrics</h2>
+      <div>
+        <p class="eyebrow">Browse</p>
+        <h2 id="categories-heading">Kalam categories</h2>
+      </div>
       <p>{lyrics.length} entries</p>
     </div>
 
-    <ul class="lyric-list">
+    <div class="category-grid">
       {
-        lyrics.map((lyric) => (
-          <li class="lyric-list-item">
-            <a href={`/lyrics/${lyric.id}/`}>
-              <span
-                class="lyric-list-title"
-                lang={lyric.data.lang}
-                dir={lyric.data.direction}
-              >
-                {lyric.data.title}
-              </span>
-
-              {
-                lyric.data.alternateTitle && (
-                  <span
-                    class="lyric-list-roman"
-                    lang="en"
-                    dir="ltr"
-                  >
-                    {lyric.data.alternateTitle}
-                  </span>
-                )
-              }
-            </a>
-          </li>
+        categories.map(([category, entries]) => (
+          <a
+            class="category-card"
+            href={`/categories/${slugifyCategory(category)}/`}
+          >
+            <strong>{category}</strong>
+            <span>{entries.length} {entries.length === 1 ? "entry" : "entries"}</span>
+          </a>
         ))
       }
-    </ul>
-  </section>
-
-  <section class="contact-section" aria-labelledby="contact-heading">
-    <div class="bilingual-panel">
-      <div class="intro-language" lang="en" dir="ltr">
-        <h2 id="contact-heading">Contact</h2>
-
-        <p>
-          To report a correction, suggest a lyric or ask a question,
-          contact the site owner:
-        </p>
-
-        <a class="contact-email" href="mailto:lyricsadmin@gmail.com">
-          lyricsadmin@gmail.com
-        </a>
-      </div>
-
-      <div class="intro-language urdu-block" lang="ur" dir="rtl">
-        <h2>رابطہ</h2>
-
-        <p>
-          کسی غلطی کی تصحیح، نیا کلام شامل کروانے یا کسی سوال کے
-          لیے ویب سائٹ کے منتظم سے رابطہ کریں:
-        </p>
-
-        <a
-          class="contact-email"
-          href="mailto:lyricsadmin@gmail.com"
-          lang="en"
-          dir="ltr"
-        >
-          lyricsadmin@gmail.com
-        </a>
-      </div>
     </div>
   </section>
+
+  <div class="category-sections">
+    {
+      categories.map(([category, entries]) => (
+        <section
+          class="lyrics-section category-section"
+          id={slugifyCategory(category)}
+          aria-labelledby={`${slugifyCategory(category)}-heading`}
+        >
+          <div class="section-heading category-section-heading">
+            <div>
+              <h2 id={`${slugifyCategory(category)}-heading`}>{category}</h2>
+              <p>{entries.length} {entries.length === 1 ? "entry" : "entries"}</p>
+            </div>
+            <a href={`/categories/${slugifyCategory(category)}/`}>View category →</a>
+          </div>
+
+          <LyricList lyrics={entries} />
+        </section>
+      ))
+    }
+  </div>
 </BaseLayout>
