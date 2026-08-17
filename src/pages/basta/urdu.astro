@@ -1,15 +1,37 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import BastaIndexTable from "../../components/BastaIndexTable.astro";
+import indexEntries from "../../data/basta/index.json";
+import settings from "../../data/basta/settings.json";
 
-const pages = (
+interface BastaIndexEntry {
+  name: string;
+  haal: string;
+  page: number;
+  romanName?: string;
+  romanHaal?: string;
+}
+
+const entries = indexEntries as BastaIndexEntry[];
+const { indexStartPage, indexEndPage } = settings;
+
+const allPages = (
   await getCollection("basta", ({ data }) => data.published)
 ).sort((a, b) => a.data.page - b.data.page);
+
+// Physical index scans are replaced by one complete linked index table.
+const beforeIndex = allPages.filter(
+  (entry) => entry.data.page < indexStartPage,
+);
+const afterIndex = allPages.filter(
+  (entry) => entry.data.page > indexEndPage,
+);
 ---
 
 <BaseLayout
   title="Basta — Urdu text edition | Kalam Archive"
-  description="Continuous Urdu text edition of Basta with page breaks matching the printed book."
+  description="Continuous Urdu text edition of Basta with a complete linked index and true book page numbers."
 >
   <article class="basta-scroll-edition">
     <header class="basta-scroll-header" data-pagefind-ignore>
@@ -23,55 +45,84 @@ const pages = (
       <h1>Basta — Urdu text edition</h1>
     </header>
 
-    {
-      pages.length === 0 ? (
-        <p>No Basta pages have been published yet.</p>
-      ) : (
-        <div
-          class="basta-continuous-text basta-continuous-urdu"
-          lang="ur"
-          dir="rtl"
-          data-pagefind-ignore
-        >
-          {
-            pages.map((entry, index) => (
-              <section
-                class:list={[
-                  "basta-scroll-page",
-                  entry.data.imageOnly && "basta-scroll-page-image-only",
-                ]}
-                id={`page-${entry.data.page}`}
-              >
-                {
-                  entry.data.imageOnly ? (
-                    <figure class="basta-scroll-original-image">
-                      <img
-                        src={entry.data.originalImage}
-                        alt={`Original scan of Basta page ${entry.data.page}`}
-                        loading="lazy"
-                      />
-                    </figure>
-                  ) : (
-                    <div class="basta-scroll-text">
-                      {(entry.body ?? "").trim()}
-                    </div>
-                  )
-                }
+    <div
+      class="basta-continuous-text basta-continuous-urdu"
+      lang="ur"
+      dir="rtl"
+      data-pagefind-ignore
+    >
+      {
+        beforeIndex.map((entry) => (
+          <section
+            class:list={[
+              "basta-scroll-page",
+              entry.data.imageOnly && "basta-scroll-page-image-only",
+            ]}
+            id={`page-${entry.data.page}`}
+          >
+            {
+              entry.data.imageOnly ? (
+                <figure class="basta-scroll-original-image">
+                  <img
+                    src={entry.data.originalImage}
+                    alt={`Original scan of Basta page ${entry.data.page}`}
+                    loading="lazy"
+                  />
+                </figure>
+              ) : (
+                <div class="basta-scroll-text">
+                  {(entry.body ?? "").trim()}
+                </div>
+              )
+            }
+            <p class="basta-scroll-page-number" dir="ltr">
+              {entry.data.page}
+            </p>
+            <hr class="basta-page-break" aria-hidden="true" />
+          </section>
+        ))
+      }
 
-                <p class="basta-scroll-page-number" dir="ltr">
-                  {entry.data.page}
-                </p>
+      <section class="basta-scroll-index-block" id="index">
+        <BastaIndexTable entries={entries} edition="urdu" />
+        <hr class="basta-page-break" aria-hidden="true" />
+      </section>
 
-                {
-                  index < pages.length - 1 && (
-                    <hr class="basta-page-break" aria-hidden="true" />
-                  )
-                }
-              </section>
-            ))
-          }
-        </div>
-      )
-    }
+      {
+        afterIndex.map((entry, index) => (
+          <section
+            class:list={[
+              "basta-scroll-page",
+              entry.data.imageOnly && "basta-scroll-page-image-only",
+            ]}
+            id={`page-${entry.data.page}`}
+          >
+            {
+              entry.data.imageOnly ? (
+                <figure class="basta-scroll-original-image">
+                  <img
+                    src={entry.data.originalImage}
+                    alt={`Original scan of Basta page ${entry.data.page}`}
+                    loading="lazy"
+                  />
+                </figure>
+              ) : (
+                <div class="basta-scroll-text">
+                  {(entry.body ?? "").trim()}
+                </div>
+              )
+            }
+            <p class="basta-scroll-page-number" dir="ltr">
+              {entry.data.page}
+            </p>
+            {
+              index < afterIndex.length - 1 && (
+                <hr class="basta-page-break" aria-hidden="true" />
+              )
+            }
+          </section>
+        ))
+      }
+    </div>
   </article>
 </BaseLayout>

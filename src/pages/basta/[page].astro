@@ -6,37 +6,74 @@ import {
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaPager from "../../components/BastaPager.astro";
+import settings from "../../data/basta/settings.json";
+
+const { indexStartPage, indexEndPage } = settings;
+
+function isIndexPage(page: number) {
+  return page >= indexStartPage && page <= indexEndPage;
+}
 
 export async function getStaticPaths() {
-  const pages = (
+  const allPages = (
     await getCollection("basta", ({ data }) => data.published)
   ).sort((a, b) => a.data.page - b.data.page);
 
+  // The physical index scans are deliberately not separate routes.
+  const pages = allPages.filter((entry) => !isIndexPage(entry.data.page));
   const availablePages = pages.map((entry) => entry.data.page);
 
-  return pages.map((entry, index) => ({
-    params: { page: String(entry.data.page) },
-    props: {
-      entry,
-      previousPage: index > 0 ? pages[index - 1].data.page : undefined,
-      nextPage:
-        index < pages.length - 1 ? pages[index + 1].data.page : undefined,
-      availablePages,
-    },
-  }));
+  const beforeIndex = pages.filter(
+    (entry) => entry.data.page < indexStartPage,
+  );
+  const afterIndex = pages.filter(
+    (entry) => entry.data.page > indexEndPage,
+  );
+
+  const lastBeforeIndex = beforeIndex.at(-1)?.data.page;
+  const firstAfterIndex = afterIndex[0]?.data.page;
+
+  return pages.map((entry, index) => {
+    const page = entry.data.page;
+
+    let previousHref =
+      index > 0 ? `/basta/${pages[index - 1].data.page}/` : undefined;
+    let nextHref =
+      index < pages.length - 1
+        ? `/basta/${pages[index + 1].data.page}/`
+        : undefined;
+
+    if (page === lastBeforeIndex && firstAfterIndex) {
+      nextHref = "/basta/index/";
+    }
+
+    if (page === firstAfterIndex && lastBeforeIndex) {
+      previousHref = "/basta/index/";
+    }
+
+    return {
+      params: { page: String(page) },
+      props: {
+        entry,
+        previousHref,
+        nextHref,
+        availablePages,
+      },
+    };
+  });
 }
 
 interface Props {
   entry: CollectionEntry<"basta">;
-  previousPage?: number;
-  nextPage?: number;
+  previousHref?: string;
+  nextHref?: string;
   availablePages: number[];
 }
 
 const {
   entry,
-  previousPage,
-  nextPage,
+  previousHref,
+  nextHref,
   availablePages,
 } = Astro.props as Props;
 
@@ -59,7 +96,7 @@ const urduText = (entry.body ?? "").trim();
         <span aria-hidden="true">·</span>
         <a href={`/basta/urdu/#page-${page}`}>Urdu text edition</a>
         <span aria-hidden="true">·</span>
-        <a href={`/basta/roman/#page-${page}`}>Roman edition</a>
+        <a href="/basta/roman/">Roman edition</a>
         <span aria-hidden="true">·</span>
         <a href="/basta/index/">Index</a>
       </div>
@@ -74,9 +111,11 @@ const urduText = (entry.body ?? "").trim();
 
     <BastaPager
       currentPage={page}
-      previousPage={previousPage}
-      nextPage={nextPage}
+      previousHref={previousHref}
+      nextHref={nextHref}
       availablePages={availablePages}
+      indexStartPage={indexStartPage}
+      indexEndPage={indexEndPage}
     />
 
     <div
@@ -112,33 +151,11 @@ const urduText = (entry.body ?? "").trim();
 
     <BastaPager
       currentPage={page}
-      previousPage={previousPage}
-      nextPage={nextPage}
+      previousHref={previousHref}
+      nextHref={nextHref}
       availablePages={availablePages}
+      indexStartPage={indexStartPage}
+      indexEndPage={indexEndPage}
     />
   </article>
-
-  <script is:inline define:vars={{ availableBastaPages: availablePages }}>
-    document.querySelectorAll("[data-basta-jump-form]").forEach((form) => {
-      const input = form.querySelector('input[name="page"]');
-
-      input?.addEventListener("input", () => input.setCustomValidity(""));
-
-      form.addEventListener("submit", (event) => {
-        event.preventDefault();
-        const requestedPage = Number(input?.value);
-
-        if (
-          !Number.isInteger(requestedPage) ||
-          !availableBastaPages.includes(requestedPage)
-        ) {
-          input?.setCustomValidity("That page is not available.");
-          input?.reportValidity();
-          return;
-        }
-
-        window.location.href = `/basta/${requestedPage}/`;
-      });
-    });
-  </script>
 </BaseLayout>

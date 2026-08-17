@@ -1,0 +1,90 @@
+---
+interface BastaIndexEntry {
+  name: string;
+  haal: string;
+  page: number;
+  romanName?: string;
+  romanHaal?: string;
+}
+
+interface Props {
+  entries: BastaIndexEntry[];
+  edition?: "urdu" | "roman";
+  heading?: boolean;
+}
+
+const {
+  entries,
+  edition = "urdu",
+  heading = true,
+} = Astro.props as Props;
+
+const roman = edition === "roman";
+---
+
+<section
+  class:list={[
+    "basta-index-table-section",
+    roman ? "basta-index-table-roman" : "basta-index-table-urdu",
+  ]}
+  lang={roman ? "en" : "ur"}
+  dir={roman ? "ltr" : "rtl"}
+>
+  {heading && <h2>{roman ? "Index" : "اشاریہ"}</h2>}
+
+  {
+    entries.length === 0 ? (
+      <p class="basta-index-empty">
+        {roman
+          ? "The Roman index has not been added yet."
+          : "اشاریہ ابھی شامل نہیں کیا گیا۔"}
+      </p>
+    ) : (
+      <div class="basta-index-table-wrap">
+        <table class="basta-index-table">
+          <colgroup>
+            <col class="basta-index-col-name" />
+            <col class="basta-index-col-haal" />
+            <col class="basta-index-col-page" />
+          </colgroup>
+
+          <thead>
+            <tr>
+              <th scope="col">{roman ? "Name" : "نام"}</th>
+              <th scope="col">{roman ? "Haal" : "حال"}</th>
+              <th scope="col">{roman ? "Page" : "صفحہ"}</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            {
+              entries.map((entry) => {
+                const name = roman
+                  ? (entry.romanName ?? "")
+                  : entry.name;
+                const haal = roman
+                  ? (entry.romanHaal ?? "")
+                  : entry.haal;
+                const href = `/basta/${entry.page}/`;
+
+                return (
+                  <tr>
+                    <td>
+                      <a href={href}>{name || "—"}</a>
+                    </td>
+                    <td>
+                      <a href={href}>{haal || "—"}</a>
+                    </td>
+                    <td class="basta-index-target-page" dir="ltr">
+                      <a href={href}>{entry.page}</a>
+                    </td>
+                  </tr>
+                );
+              })
+            }
+          </tbody>
+        </table>
+      </div>
+    )
+  }
+</section>
