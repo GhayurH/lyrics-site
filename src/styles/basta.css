@@ -1,4 +1,4 @@
-/* Basta inherits the main site's colours, spacing and Urdu font. */
+/* Basta-specific layout; colours and typography inherit the main site theme. */
 
 .basta-home,
 .basta-page,
@@ -14,23 +14,115 @@
 
 .basta-home-header h1,
 .basta-page-header h1,
+.basta-scroll-header h1,
 .basta-index-header h1 {
-  margin: 0.4rem 0 0.75rem;
+  margin: 0.5rem 0 0.75rem;
   font-size: clamp(2rem, 5vw, 3.5rem);
-  line-height: 1.2;
+  line-height: 1.25;
 }
 
-.basta-home-header p,
-.basta-index-header p {
+.basta-home-header p {
   color: var(--secondary-text);
   font-size: 1.05rem;
 }
 
-.basta-home-actions {
+.basta-subnav {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem;
-  margin: 1.5rem 0;
+  gap: 0.55rem;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  color: var(--secondary-text);
+}
+
+.basta-subnav a {
+  color: var(--primary-text);
+  text-decoration: none;
+}
+
+.basta-subnav a:hover {
+  text-decoration: underline;
+}
+
+/* Homepage edition chooser */
+.basta-edition-selector,
+.basta-home-jump-section {
+  margin-top: 2.5rem;
+  border-top: 1px solid var(--border-colour);
+  padding-top: 2rem;
+}
+
+.basta-edition-selector h2,
+.basta-home-jump-section h2 {
+  margin: 0 0 1rem;
+  font-size: 1.3rem;
+}
+
+.basta-edition-selector form {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.basta-edition-selector label,
+.basta-home-jump label {
+  color: var(--secondary-text);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.basta-edition-controls {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.basta-edition-controls select,
+.basta-home-jump input,
+.basta-jump-form input {
+  min-height: 2.75rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.7rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font: inherit;
+}
+
+.basta-edition-controls select {
+  flex: 1;
+  min-width: 0;
+}
+
+.basta-edition-controls button,
+.basta-home-jump button,
+.basta-jump-form button {
+  min-height: 2.75rem;
+  border: 0;
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.9rem;
+  background: var(--button-background);
+  color: var(--button-text);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.basta-home-jump {
+  display: flex;
+  align-items: end;
+  gap: 0.6rem;
+}
+
+.basta-home-jump label {
+  display: grid;
+  gap: 0.3rem;
+}
+
+.basta-home-jump input {
+  width: 9rem;
+}
+
+.basta-home-links {
+  margin-top: 2rem;
 }
 
 .basta-secondary-button {
@@ -39,18 +131,7 @@
   color: var(--primary-text);
 }
 
-.basta-page-kicker {
-  display: flex;
-  gap: 0.6rem;
-  align-items: center;
-  margin-bottom: 0.5rem;
-  color: var(--secondary-text);
-}
-
-.basta-page-kicker a {
-  color: var(--primary-text);
-}
-
+/* Page-by-page edition */
 .basta-pager {
   display: grid;
   grid-template-columns: minmax(7rem, 1fr) auto minmax(7rem, 1fr);
@@ -87,16 +168,14 @@
   cursor: default;
 }
 
-.basta-jump-form,
-.basta-home-jump {
+.basta-jump-form {
   display: flex;
   align-items: end;
   justify-content: center;
   gap: 0.5rem;
 }
 
-.basta-jump-form label,
-.basta-home-jump label {
+.basta-jump-form label {
   display: grid;
   gap: 0.25rem;
   color: var(--secondary-text);
@@ -104,38 +183,19 @@
   font-weight: 600;
 }
 
-.basta-jump-form input,
-.basta-home-jump input {
+.basta-jump-form input {
   width: 8rem;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.45rem;
-  padding: 0.55rem 0.6rem;
-  background: var(--site-background);
-  color: var(--primary-text);
-  font: inherit;
 }
 
-.basta-jump-form button,
-.basta-home-jump button {
-  min-height: 2.65rem;
-  border: 0;
-  border-radius: 0.45rem;
-  padding: 0.55rem 0.85rem;
-  background: var(--button-background);
-  color: var(--button-text);
-  font: inherit;
-  font-weight: 600;
-  cursor: pointer;
-}
-
-.basta-image-grid {
+.basta-page-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
-  gap: 1.25rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  align-items: start;
   margin: 2rem 0 3rem;
 }
 
-.basta-image-grid figure {
+.basta-original-page {
   margin: 0;
   overflow: hidden;
   border: 1px solid var(--border-colour);
@@ -143,31 +203,25 @@
   background: var(--surface-background);
 }
 
-.basta-image-grid figcaption {
+.basta-original-page figcaption {
   border-bottom: 1px solid var(--border-colour);
   padding: 0.75rem 1rem;
   font-weight: 600;
 }
 
-.basta-image-grid a {
+.basta-original-page a {
   display: block;
   padding: 0.75rem;
 }
 
-.basta-image-grid img {
+.basta-original-page img {
   width: 100%;
   height: auto;
   object-fit: contain;
 }
 
-.basta-text-section {
-  margin: 3rem 0;
-  border-top: 1px solid var(--border-colour);
-  padding-top: 2rem;
-}
-
-.basta-text-section h2 {
-  margin: 0 0 1.25rem;
+.basta-page-text {
+  min-width: 0;
 }
 
 .basta-urdu-text {
@@ -180,15 +234,61 @@
   text-align: right;
 }
 
-.basta-roman-text {
+/* Continuous Urdu / Roman editions */
+.basta-scroll-edition {
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+.basta-scroll-header {
+  margin-bottom: 3rem;
+}
+
+.basta-scroll-page {
+  scroll-margin-top: 2rem;
+}
+
+.basta-scroll-text {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
   unicode-bidi: plaintext;
+}
+
+.basta-continuous-urdu .basta-scroll-text {
+  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
+  font-size: clamp(1.35rem, 3vw, 1.8rem);
+  line-height: 2.8;
+  text-align: right;
+}
+
+.basta-continuous-roman .basta-scroll-text {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: clamp(1.05rem, 2.5vw, 1.25rem);
   line-height: 2;
   text-align: left;
 }
 
+.basta-scroll-page-number {
+  margin: 1.75rem 0 1.5rem;
+  color: var(--secondary-text);
+  font-family: Inter, system-ui, sans-serif;
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  text-align: center;
+}
+
+.basta-page-break {
+  margin: 0 0 2.5rem;
+  border: 0;
+  border-top: 1px solid var(--border-colour);
+}
+
+.basta-not-ready {
+  color: var(--secondary-text);
+}
+
+/* Index */
 .basta-index-header {
   margin-bottom: 2rem;
 }
@@ -244,7 +344,11 @@
   direction: ltr;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 760px) {
+  .basta-page-grid {
+    grid-template-columns: 1fr;
+  }
+
   .basta-pager {
     grid-template-columns: 1fr 1fr;
   }
@@ -254,11 +358,23 @@
     grid-row: 1;
   }
 
+  .basta-nav-button {
+    width: 100%;
+  }
+
   .basta-nav-button:last-child {
     justify-self: stretch;
   }
+}
 
-  .basta-nav-button {
+@media (max-width: 560px) {
+  .basta-edition-controls,
+  .basta-home-jump {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .basta-home-jump input {
     width: 100%;
   }
 }

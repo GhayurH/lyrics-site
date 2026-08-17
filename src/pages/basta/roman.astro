@@ -1,0 +1,59 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const pages = (
+  await getCollection("bastaRoman", ({ data }) => data.published)
+).sort((a, b) => a.data.page - b.data.page);
+---
+
+<BaseLayout
+  title="Basta — Roman Urdu edition | Kalam Archive"
+  description="Continuous Roman Urdu text edition of Basta with page breaks matching the printed book."
+>
+  <article class="basta-scroll-edition">
+    <header class="basta-scroll-header" data-pagefind-ignore>
+      <div class="basta-subnav">
+        <a href="/basta/">Basta</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/urdu/">Urdu text edition</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/index/">Index</a>
+      </div>
+      <h1>Basta — Roman Urdu edition</h1>
+    </header>
+
+    {
+      pages.length === 0 ? (
+        <p class="basta-not-ready">
+          The Roman Urdu edition has not been added yet.
+        </p>
+      ) : (
+        <div
+          class="basta-continuous-text basta-continuous-roman"
+          lang="en"
+          dir="ltr"
+          data-pagefind-ignore
+        >
+          {
+            pages.map((entry, index) => (
+              <section class="basta-scroll-page" id={`page-${entry.data.page}`}>
+                <div class="basta-scroll-text">
+                  {(entry.body ?? "").trim()}
+                </div>
+
+                <p class="basta-scroll-page-number">{entry.data.page}</p>
+
+                {
+                  index < pages.length - 1 && (
+                    <hr class="basta-page-break" aria-hidden="true" />
+                  )
+                }
+              </section>
+            ))
+          }
+        </div>
+      )
+    }
+  </article>
+</BaseLayout>

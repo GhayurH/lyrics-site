@@ -11,8 +11,6 @@ const lyrics = defineCollection({
   schema: z.object({
     title: z.string(),
     alternateTitle: z.string().optional(),
-
-    // Displayed in filters
     language: z.enum([
       "Urdu",
       "Roman Urdu",
@@ -20,19 +18,14 @@ const lyrics = defineCollection({
       "Persian",
       "English",
     ]),
-    // HTML language code
     lang: z.enum(["ur", "ar", "fa", "en"]),
-
     direction: z.enum(["rtl", "ltr"]),
-
     poet: z.string().optional(),
     reciter: z.string().optional(),
     occasion: z.string().optional(),
     year: z.number().int().optional(),
-
     tags: z.array(z.string()).default([]),
     aliases: z.array(z.string()).default([]),
-
     cover: z.string().optional(),
     coverAlt: z.string().default(""),
     published: z.boolean().default(true),
@@ -44,26 +37,26 @@ const basta = defineCollection({
   loader: glob({
     pattern: "**/*.md",
     base: "./src/data/basta/pages",
+    retainBody: true,
   }),
 
   schema: z.object({
-    // URL number: /basta/52/
+    // Actual printed book page. Page 56 is /basta/56/.
     page: z.number().int().positive(),
-
-    // Number printed on the scanned book page.
-    // Current mapping: book page 56 => /basta/52/.
-    bookPage: z.number().int().positive(),
-
-    // Physical page number in the source PDF.
-    pdfPage: z.number().int().positive(),
-
     originalImage: z.string(),
-    urduImage: z.string().optional(),
+    published: z.boolean().default(true),
+  }),
+});
 
-    // Future Roman-Urdu upgrade.
-    romanImage: z.string().optional(),
-    romanText: z.string().optional(),
+const bastaRoman = defineCollection({
+  loader: glob({
+    pattern: "**/*.md",
+    base: "./src/data/basta/roman",
+    retainBody: true,
+  }),
 
+  schema: z.object({
+    page: z.number().int().positive(),
     published: z.boolean().default(true),
   }),
 });
@@ -71,4 +64,5 @@ const basta = defineCollection({
 export const collections = {
   lyrics,
   basta,
+  bastaRoman,
 };
