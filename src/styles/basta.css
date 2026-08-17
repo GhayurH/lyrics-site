@@ -1,0 +1,264 @@
+/* Basta inherits the main site's colours, spacing and Urdu font. */
+
+.basta-home,
+.basta-page,
+.basta-index-page {
+  max-width: 72rem;
+  margin: 0 auto;
+}
+
+.basta-home {
+  max-width: 48rem;
+  padding: 2rem 0;
+}
+
+.basta-home-header h1,
+.basta-page-header h1,
+.basta-index-header h1 {
+  margin: 0.4rem 0 0.75rem;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  line-height: 1.2;
+}
+
+.basta-home-header p,
+.basta-index-header p {
+  color: var(--secondary-text);
+  font-size: 1.05rem;
+}
+
+.basta-home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+}
+
+.basta-secondary-button {
+  border: 1px solid var(--border-colour);
+  background: var(--surface-background);
+  color: var(--primary-text);
+}
+
+.basta-page-kicker {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  color: var(--secondary-text);
+}
+
+.basta-page-kicker a {
+  color: var(--primary-text);
+}
+
+.basta-pager {
+  display: grid;
+  grid-template-columns: minmax(7rem, 1fr) auto minmax(7rem, 1fr);
+  align-items: end;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.75rem;
+  padding: 0.9rem;
+  background: var(--surface-background);
+}
+
+.basta-nav-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.7rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.55rem;
+  padding: 0.55rem 0.8rem;
+  text-decoration: none;
+}
+
+.basta-nav-button:last-child {
+  justify-self: end;
+}
+
+.basta-nav-button:hover {
+  background: var(--tag-background);
+}
+
+.basta-nav-button.is-disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.basta-jump-form,
+.basta-home-jump {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.basta-jump-form label,
+.basta-home-jump label {
+  display: grid;
+  gap: 0.25rem;
+  color: var(--secondary-text);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.basta-jump-form input,
+.basta-home-jump input {
+  width: 8rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.45rem;
+  padding: 0.55rem 0.6rem;
+  background: var(--site-background);
+  color: var(--primary-text);
+  font: inherit;
+}
+
+.basta-jump-form button,
+.basta-home-jump button {
+  min-height: 2.65rem;
+  border: 0;
+  border-radius: 0.45rem;
+  padding: 0.55rem 0.85rem;
+  background: var(--button-background);
+  color: var(--button-text);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.basta-image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0 3rem;
+}
+
+.basta-image-grid figure {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.75rem;
+  background: var(--surface-background);
+}
+
+.basta-image-grid figcaption {
+  border-bottom: 1px solid var(--border-colour);
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+}
+
+.basta-image-grid a {
+  display: block;
+  padding: 0.75rem;
+}
+
+.basta-image-grid img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.basta-text-section {
+  margin: 3rem 0;
+  border-top: 1px solid var(--border-colour);
+  padding-top: 2rem;
+}
+
+.basta-text-section h2 {
+  margin: 0 0 1.25rem;
+}
+
+.basta-urdu-text {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  unicode-bidi: plaintext;
+  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
+  font-size: clamp(1.35rem, 3vw, 1.8rem);
+  line-height: 2.8;
+  text-align: right;
+}
+
+.basta-roman-text {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  unicode-bidi: plaintext;
+  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
+  line-height: 2;
+  text-align: left;
+}
+
+.basta-index-header {
+  margin-bottom: 2rem;
+}
+
+.basta-index-groups {
+  display: grid;
+  gap: 2.5rem;
+}
+
+.basta-index-section h2 {
+  margin: 0 0 1rem;
+  font-size: clamp(1.5rem, 4vw, 2.2rem);
+  line-height: 2;
+}
+
+.basta-index-list {
+  display: grid;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.basta-index-list a {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  align-items: center;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.6rem;
+  padding: 0.75rem 1rem;
+  background: var(--surface-background);
+  text-decoration: none;
+}
+
+.basta-index-list a:hover,
+.basta-index-list a:focus-visible {
+  background: var(--tag-background);
+}
+
+.basta-index-title {
+  line-height: 2.1;
+}
+
+.basta-index-page-number {
+  min-width: 3.2rem;
+  border-inline-start: 1px solid var(--border-colour);
+  padding-inline-start: 0.9rem;
+  color: var(--secondary-text);
+  font-family: Inter, system-ui, sans-serif;
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+  direction: ltr;
+}
+
+@media (max-width: 700px) {
+  .basta-pager {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .basta-jump-form {
+    grid-column: 1 / -1;
+    grid-row: 1;
+  }
+
+  .basta-nav-button:last-child {
+    justify-self: stretch;
+  }
+
+  .basta-nav-button {
+    width: 100%;
+  }
+}
