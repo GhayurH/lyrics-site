@@ -9,6 +9,8 @@ import {
   slugifyCategory,
 } from "../lib/lyrics";
 
+const HOME_PREVIEW_COUNT = 5;
+
 const lyrics = (
   await getCollection("lyrics", ({ data }) => data.published)
 ).sort(compareLyrics);
@@ -28,24 +30,24 @@ const categories = [...grouped.entries()].sort(([a], [b]) =>
 
 <BaseLayout
   title="Kalam Archive"
-  description="A searchable collection of Urdu nohas, salams, manqabats and other kalam."
+  description="Browse Urdu nohas, salams, manqabats and other kalam by category, alongside the Basta archive."
 >
-  <section class="hero hero-compact">
+  <section class="hero hero-compact home-hero">
     <p class="eyebrow">Urdu &amp; Roman Urdu</p>
     <h1>Kalam Archive</h1>
     <p>
-      Browse the archive by kalam category, or search the complete collection
-      together with Basta.
+      Browse kalam by category, search the archive, or open the preserved Basta
+      edition.
     </p>
 
     <div class="hero-actions">
       <a class="button" href="/search/">Search the archive</a>
-      <a class="button button-secondary" href="/about/">About this project</a>
+      <a class="button button-secondary" href="/about/">About / Contact</a>
     </div>
   </section>
 
-  <section class="category-overview" aria-labelledby="categories-heading">
-    <div class="section-heading">
+  <section class="home-categories" aria-labelledby="categories-heading">
+    <div class="section-heading home-section-heading">
       <div>
         <p class="eyebrow">Browse</p>
         <h2 id="categories-heading">Kalam categories</h2>
@@ -53,40 +55,92 @@ const categories = [...grouped.entries()].sort(([a], [b]) =>
       <p>{lyrics.length} entries</p>
     </div>
 
-    <div class="category-grid">
+    <div class="category-preview-stack">
       {
-        categories.map(([category, entries]) => (
-          <a
-            class="category-card"
-            href={`/categories/${slugifyCategory(category)}/`}
-          >
-            <strong>{category}</strong>
-            <span>{entries.length} {entries.length === 1 ? "entry" : "entries"}</span>
-          </a>
-        ))
+        categories.map(([category, entries]) => {
+          const categorySlug = slugifyCategory(category);
+          const previewEntries = entries.slice(0, HOME_PREVIEW_COUNT);
+
+          return (
+            <section
+              class="category-preview-section"
+              id={categorySlug}
+              aria-labelledby={`${categorySlug}-heading`}
+            >
+              <div class="category-preview-heading">
+                <div>
+                  <h3 id={`${categorySlug}-heading`}>{category}</h3>
+                  <p>
+                    {entries.length} {entries.length === 1 ? "entry" : "entries"}
+                  </p>
+                </div>
+
+                <a
+                  class="button button-secondary category-see-all"
+                  href={`/categories/${categorySlug}/`}
+                >
+                  See all {category}
+                </a>
+              </div>
+
+              <LyricList lyrics={previewEntries} />
+
+              {entries.length > HOME_PREVIEW_COUNT && (
+                <div class="category-preview-footer">
+                  <a href={`/categories/${categorySlug}/`}>
+                    See all {entries.length} {category} →
+                  </a>
+                </div>
+              )}
+            </section>
+          );
+        })
       }
     </div>
   </section>
 
-  <div class="category-sections">
-    {
-      categories.map(([category, entries]) => (
-        <section
-          class="lyrics-section category-section"
-          id={slugifyCategory(category)}
-          aria-labelledby={`${slugifyCategory(category)}-heading`}
-        >
-          <div class="section-heading category-section-heading">
-            <div>
-              <h2 id={`${slugifyCategory(category)}-heading`}>{category}</h2>
-              <p>{entries.length} {entries.length === 1 ? "entry" : "entries"}</p>
-            </div>
-            <a href={`/categories/${slugifyCategory(category)}/`}>View category →</a>
-          </div>
+  <section class="home-basta" aria-labelledby="basta-heading">
+    <div class="section-heading home-section-heading">
+      <div>
+        <p class="eyebrow">Book archive</p>
+        <h2 id="basta-heading">Basta</h2>
+      </div>
+      <a href="/basta/">Open Basta →</a>
+    </div>
 
-          <LyricList lyrics={entries} />
-        </section>
-      ))
-    }
-  </div>
+    <div class="basta-home-card">
+      <a
+        class="basta-home-cover-link"
+        href="/basta/"
+        aria-label="Open Basta"
+      >
+        <img
+          src="/images/basta/original/001.jpg"
+          alt="Original first page of Basta"
+          loading="lazy"
+        />
+      </a>
+
+      <div class="basta-home-copy">
+        <h3>Basta</h3>
+        <p>
+          Browse the original page scans alongside cleaned Urdu text and Roman
+          Urdu where available.
+        </p>
+        <a class="button" href="/basta/">Open Basta</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-about-cta" aria-labelledby="home-about-heading">
+    <div>
+      <p class="eyebrow">About this archive</p>
+      <h2 id="home-about-heading">Corrections, additions or questions?</h2>
+      <p>
+        Read about the project or contact the site owner from the dedicated
+        About / Contact page.
+      </p>
+    </div>
+    <a class="button button-secondary" href="/about/#contact">About / Contact</a>
+  </section>
 </BaseLayout>

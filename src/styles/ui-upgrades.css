@@ -1045,3 +1045,197 @@ pagefind-filter-dropdown {
     grid-template-columns: 1fr;
   }
 }
+
+/* =========================================================
+   Upgrade v3: homepage category previews + Basta feature
+   ========================================================= */
+
+.home-hero {
+  padding-bottom: 2.5rem;
+}
+
+.home-categories,
+.home-basta,
+.home-about-cta {
+  margin-top: 2.5rem;
+}
+
+.home-section-heading {
+  margin-bottom: 1.25rem;
+}
+
+.home-section-heading h2 {
+  margin: 0;
+}
+
+.home-section-heading > p,
+.category-preview-heading p {
+  margin: 0.2rem 0 0;
+  color: var(--secondary-text);
+  font-size: 0.9rem;
+}
+
+.category-preview-stack {
+  display: grid;
+  gap: 3.5rem;
+}
+
+.category-preview-section {
+  scroll-margin-top: 6rem;
+}
+
+.category-preview-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--border-colour);
+  padding-bottom: 0.85rem;
+}
+
+.category-preview-heading h3 {
+  margin: 0;
+  font-size: clamp(1.45rem, 3vw, 2rem);
+}
+
+.category-see-all.button {
+  flex: 0 0 auto;
+  margin-top: 0;
+  padding: 0.55rem 0.8rem;
+  font-size: 0.88rem;
+}
+
+.category-preview-section .lyric-list {
+  margin-top: 0;
+}
+
+.category-preview-footer {
+  margin-top: 1rem;
+  text-align: right;
+}
+
+.category-preview-footer a {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.category-preview-footer a:hover {
+  text-decoration: underline;
+}
+
+.basta-home-card {
+  display: grid;
+  grid-template-columns: minmax(15rem, 23rem) minmax(0, 1fr);
+  gap: clamp(1.4rem, 4vw, 3rem);
+  align-items: center;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.9rem;
+  padding: clamp(1rem, 3vw, 1.5rem);
+  background: var(--surface-background);
+}
+
+.basta-home-cover-link {
+  display: block;
+  overflow: hidden;
+  border-radius: 0.6rem;
+  background: var(--site-background);
+}
+
+.basta-home-cover-link img {
+  width: 100%;
+  height: auto;
+  transition: transform 150ms ease;
+}
+
+.basta-home-cover-link:hover img {
+  transform: scale(1.015);
+}
+
+.basta-home-cover-link:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 4px;
+}
+
+.basta-home-copy h3 {
+  margin: 0 0 0.65rem;
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+}
+
+.basta-home-copy p {
+  max-width: 42rem;
+  color: var(--secondary-text);
+}
+
+.home-about-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  border-top: 1px solid var(--border-colour);
+  padding-top: 2.5rem;
+}
+
+.home-about-cta h2 {
+  margin: 0 0 0.55rem;
+}
+
+.home-about-cta p:last-child {
+  max-width: 48rem;
+  margin-bottom: 0;
+  color: var(--secondary-text);
+}
+
+.home-about-cta .button {
+  flex: 0 0 auto;
+  margin-top: 0;
+}
+
+/*
+ * Make the requested desktop parallel layout explicit at the end of the
+ * cascade. This intentionally wins over older lyric styles in global.css.
+ */
+@media (min-width: 921px) {
+  .lyric-page.lyric-page-parallel {
+    width: 100%;
+    max-width: 84rem;
+  }
+
+  .lyric-reading-grid[data-reading-mode="parallel"] {
+    display: grid;
+    width: 100%;
+    max-width: none;
+    margin-inline: 0;
+    grid-template-areas: "roman urdu";
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-roman {
+    display: block;
+    grid-area: roman;
+    border-top: 0;
+    border-right: 1px solid var(--border-colour);
+  }
+
+  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-urdu {
+    display: block;
+    grid-area: urdu;
+  }
+}
+
+@media (max-width: 760px) {
+  .category-preview-heading,
+  .home-about-cta {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .basta-home-card {
+    grid-template-columns: 1fr;
+  }
+
+  .basta-home-cover-link {
+    max-width: 23rem;
+    margin-inline: auto;
+  }
+}
