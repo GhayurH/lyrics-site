@@ -1,0 +1,79 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import indexEntries from "../../../data/basta/index.json";
+
+interface BastaIndexEntry {
+  section: string;
+  title: string;
+  bookPage: number;
+  routePage: number;
+}
+
+const entries = indexEntries as BastaIndexEntry[];
+
+const groups = new Map<string, BastaIndexEntry[]>();
+
+for (const entry of entries) {
+  const section = entry.section || "Index";
+
+  if (!groups.has(section)) {
+    groups.set(section, []);
+  }
+
+  groups.get(section)!.push(entry);
+}
+---
+
+<BaseLayout
+  title="Basta Index | Kalam Archive"
+  description="Index of Basta with links to the corresponding page-by-page web edition."
+>
+  <article class="basta-index-page">
+    <header class="basta-index-header">
+      <a class="back-link" href="/basta/">← Basta</a>
+      <h1>Basta Index</h1>
+      <p>
+        Each entry links directly to the corresponding page in the
+        web edition.
+      </p>
+    </header>
+
+    {
+      entries.length === 0 ? (
+        <p>
+          The index data has not been generated yet. Fill
+          <code>scripts/basta-index.tsv</code> and run
+          <code>scripts/build_basta.py</code>.
+        </p>
+      ) : (
+        <div class="basta-index-groups" lang="ur" dir="rtl">
+          {
+            Array.from(groups.entries()).map(([section, sectionEntries]) => (
+              <section class="basta-index-section">
+                <h2>{section}</h2>
+
+                <ul class="basta-index-list">
+                  {sectionEntries.map((entry) => (
+                    <li>
+                      <a href={`/basta/${entry.routePage}/`}>
+                        <span class="basta-index-title">
+                          {entry.title}
+                        </span>
+                        <span
+                          class="basta-index-page-number"
+                          aria-label={`Book page ${entry.bookPage}`}
+                        >
+                          {entry.bookPage}
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))
+          }
+        </div>
+      )
+    }
+  </article>
+</BaseLayout>

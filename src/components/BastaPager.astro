@@ -1,0 +1,59 @@
+---
+interface Props {
+  currentBookPage: number;
+  previousRoutePage?: number;
+  nextRoutePage?: number;
+  firstBookPage: number;
+  lastBookPage: number;
+}
+
+const {
+  currentBookPage,
+  previousRoutePage,
+  nextRoutePage,
+  firstBookPage,
+  lastBookPage,
+} = Astro.props;
+---
+
+<nav class="basta-pager" aria-label="Basta page navigation" data-pagefind-ignore>
+  {
+    previousRoutePage ? (
+      <a class="basta-nav-button" href={`/basta/${previousRoutePage}/`}>
+        ← Previous
+      </a>
+    ) : (
+      <span class="basta-nav-button is-disabled" aria-disabled="true">
+        ← Previous
+      </span>
+    )
+  }
+
+  <form class="basta-jump-form" data-basta-jump-form>
+    <label>
+      <span>Go to book page</span>
+      <input
+        name="book-page"
+        type="number"
+        min={firstBookPage}
+        max={lastBookPage}
+        value={currentBookPage}
+        inputmode="numeric"
+        required
+      />
+    </label>
+    <button type="submit">Go</button>
+  </form>
+
+  {
+    nextRoutePage ? (
+      <a class="basta-nav-button" href={`/basta/${nextRoutePage}/`}>
+        Next →
+      </a>
+    ) : (
+      <span class="basta-nav-button is-disabled" aria-disabled="true">
+        Next →
+      </span>
+    )
+  }
+</nav>

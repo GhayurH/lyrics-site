@@ -2,6 +2,7 @@
 import "@fontsource/noto-nastaliq-urdu/400.css";
 import "@fontsource/noto-nastaliq-urdu/700.css";
 import "../styles/global.css";
+import "../styles/basta.css";
 
 interface Props {
   title: string;
@@ -28,7 +29,6 @@ const {
       name="viewport"
       content="width=device-width, initial-scale=1"
     />
-
     <meta name="description" content={description} />
 
     <title>{title}</title>
@@ -47,7 +47,6 @@ const {
         } catch {
           // Continue with dark mode if storage is unavailable.
         }
-
         document.documentElement.dataset.theme = theme;
         document.documentElement.dataset.pfTheme = theme;
       })();
@@ -62,9 +61,9 @@ const {
         <div class="header-actions">
           <nav aria-label="Main navigation">
             <a href="/">Browse</a>
+            <a href="/basta/">Basta</a>
             <a href="/search/">Search</a>
           </nav>
-
           <button
             id="theme-toggle"
             class="theme-toggle"
@@ -88,7 +87,6 @@ const {
 
     <script>
       const root = document.documentElement;
-
       const themeButton =
         document.querySelector<HTMLButtonElement>("#theme-toggle");
 
@@ -107,7 +105,6 @@ const {
             ? "Switch to light mode"
             : "Switch to dark mode",
         );
-
         themeButton.setAttribute(
           "aria-pressed",
           String(darkMode),
@@ -122,7 +119,6 @@ const {
 
         root.dataset.theme = newTheme;
         root.dataset.pfTheme = newTheme;
-
         try {
           localStorage.setItem("theme", newTheme);
         } catch {

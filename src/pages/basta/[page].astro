@@ -1,0 +1,198 @@
+---
+import {
+  getCollection,
+  type CollectionEntry,
+} from "astro:content";
+
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BastaPager from "../../components/BastaPager.astro";
+import bastaConfig from "../../data/basta/config.json";
+
+export async function getStaticPaths() {
+  const pages = (
+    await getCollection("basta", ({ data }) => data.published)
+  ).sort((a, b) => a.data.page - b.data.page);
+
+  const lastBookPage =
+    pages.length > 0
+      ? Math.max(...pages.map((entry) => entry.data.bookPage))
+      : bastaConfig.firstBookPage;
+
+  return pages.map((entry, index) => ({
+    params: {
+      page: String(entry.data.page),
+    },
+    props: {
+      entry,
+      previousRoutePage:
+        index > 0 ? pages[index - 1].data.page : undefined,
+      nextRoutePage:
+        index < pages.length - 1
+          ? pages[index + 1].data.page
+          : undefined,
+      lastBookPage,
+    },
+  }));
+}
+
+interface Props {
+  entry: CollectionEntry<"basta">;
+  previousRoutePage?: number;
+  nextRoutePage?: number;
+  lastBookPage: number;
+}
+
+const {
+  entry,
+  previousRoutePage,
+  nextRoutePage,
+  lastBookPage,
+} = Astro.props as Props;
+
+const { data } = entry;
+const urduText = (entry.body ?? "").trim();
+
+const imageCount = [
+  data.originalImage,
+  data.urduImage,
+  data.romanImage,
+].filter(Boolean).length;
+---
+
+<BaseLayout
+  title={`Basta — page ${data.bookPage} | Kalam Archive`}
+  description={`Read Basta, book page ${data.bookPage}, with the original scan and searchable Urdu text.`}
+>
+  <article class="basta-page" data-pagefind-body>
+    <header class="basta-page-header">
+      <div class="basta-page-kicker">
+        <a href="/basta/">Basta</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/index/">Index</a>
+      </div>
+
+      <h1 data-pagefind-meta="title">
+        Basta — Page {data.bookPage}
+      </h1>
+
+      <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
+        <span data-pagefind-filter="collection">Basta</span>
+        <span data-pagefind-meta="bookPage">{data.bookPage}</span>
+      </div>
+    </header>
+
+    <BastaPager
+      currentBookPage={data.bookPage}
+      previousRoutePage={previousRoutePage}
+      nextRoutePage={nextRoutePage}
+      firstBookPage={bastaConfig.firstBookPage}
+      lastBookPage={lastBookPage}
+    />
+
+    <section
+      class:list={[
+        "basta-image-grid",
+        `basta-image-grid-${imageCount}`,
+      ]}
+      aria-label={`Images for Basta page ${data.bookPage}`}
+      data-pagefind-ignore
+    >
+      <figure>
+        <figcaption>Original book page</figcaption>
+        <a href={data.originalImage}>
+          <img
+            src={data.originalImage}
+            alt={`Original scan of Basta page ${data.bookPage}`}
+            loading="eager"
+          />
+        </a>
+      </figure>
+
+      {
+        data.urduImage && (
+          <figure>
+            <figcaption>Urdu typeset page</figcaption>
+            <a href={data.urduImage}>
+              <img
+                src={data.urduImage}
+                alt={`Urdu typeset version of Basta page ${data.bookPage}`}
+                loading="lazy"
+              />
+            </a>
+          </figure>
+        )
+      }
+
+      {
+        data.romanImage && (
+          <figure>
+            <figcaption>Roman Urdu typeset page</figcaption>
+            <a href={data.romanImage}>
+              <img
+                src={data.romanImage}
+                alt={`Roman Urdu typeset version of Basta page ${data.bookPage}`}
+                loading="lazy"
+              />
+            </a>
+          </figure>
+        )
+      }
+    </section>
+
+    {
+      urduText && (
+        <section class="basta-text-section" lang="ur" dir="rtl">
+          <h2>اردو متن</h2>
+          <div class="basta-urdu-text">{urduText}</div>
+        </section>
+      )
+    }
+
+    {
+      data.romanText && (
+        <section class="basta-text-section" lang="en" dir="ltr">
+          <h2>Roman Urdu</h2>
+          <div class="basta-roman-text">{data.romanText}</div>
+        </section>
+      )
+    }
+
+    <BastaPager
+      currentBookPage={data.bookPage}
+      previousRoutePage={previousRoutePage}
+      nextRoutePage={nextRoutePage}
+      firstBookPage={bastaConfig.firstBookPage}
+      lastBookPage={lastBookPage}
+    />
+  </article>
+
+  <script
+    is:inline
+    define:vars={{
+      bastaUrlOffset: bastaConfig.urlOffset,
+      firstBookPage: bastaConfig.firstBookPage,
+      lastBookPage,
+    }}
+  >
+    document.querySelectorAll("[data-basta-jump-form]").forEach((form) => {
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+
+        const input = form.querySelector('input[name="book-page"]');
+        const bookPage = Number(input?.value);
+
+        if (
+          !Number.isInteger(bookPage) ||
+          bookPage < firstBookPage ||
+          bookPage > lastBookPage
+        ) {
+          input?.focus();
+          return;
+        }
+
+        const routePage = bookPage - bastaUrlOffset;
+        window.location.href = `/basta/${routePage}/`;
+      });
+    });
+  </script>
+</BaseLayout>

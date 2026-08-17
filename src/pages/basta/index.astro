@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import bastaConfig from "../../data/basta/config.json";
+
+const firstRoutePage =
+  bastaConfig.firstBookPage - bastaConfig.urlOffset;
+---
+
+<BaseLayout
+  title="Basta | Kalam Archive"
+  description="A searchable, page-by-page OCR edition of Basta."
+>
+  <article class="basta-home">
+    <header class="basta-home-header">
+      <h1>Basta</h1>
+      <p>
+        A page-by-page edition with the original scan, cleaned Urdu
+        text, and typeset Urdu pages. Roman Urdu can be added later
+        without changing the page URLs.
+      </p>
+    </header>
+
+    <div class="basta-home-actions">
+      <a class="button" href={`/basta/${firstRoutePage}/`}>
+        Start reading
+      </a>
+      <a class="button basta-secondary-button" href="/basta/index/">
+        Open index
+      </a>
+    </div>
+
+    <form class="basta-home-jump" data-basta-home-jump>
+      <label>
+        <span>Go to book page</span>
+        <input
+          name="book-page"
+          type="number"
+          min={bastaConfig.firstBookPage}
+          inputmode="numeric"
+          required
+        />
+      </label>
+      <button type="submit">Go</button>
+    </form>
+  </article>
+
+  <script
+    is:inline
+    define:vars={{
+      bastaUrlOffset: bastaConfig.urlOffset,
+      firstBookPage: bastaConfig.firstBookPage,
+    }}
+  >
+    const form = document.querySelector("[data-basta-home-jump]");
+
+    form?.addEventListener("submit", (event) => {
+      event.preventDefault();
+
+      const input = form.querySelector('input[name="book-page"]');
+      const bookPage = Number(input?.value);
+
+      if (
+        !Number.isInteger(bookPage) ||
+        bookPage < firstBookPage
+      ) {
+        input?.focus();
+        return;
+      }
+
+      window.location.href =
+        `/basta/${bookPage - bastaUrlOffset}/`;
+    });
+  </script>
+</BaseLayout>
