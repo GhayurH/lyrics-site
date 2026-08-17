@@ -4,6 +4,7 @@ dist/
 .astro/
 # scripts
 scripts/
+trash/
 
 # dependencies
 node_modules/

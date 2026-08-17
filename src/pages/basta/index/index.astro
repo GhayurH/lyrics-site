@@ -1,68 +1,76 @@
 ---
+import { getCollection } from "astro:content";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
+import BastaIndexTable from "../../../components/BastaIndexTable.astro";
+import BastaPager from "../../../components/BastaPager.astro";
 import indexEntries from "../../../data/basta/index.json";
+import settings from "../../../data/basta/settings.json";
 
 interface BastaIndexEntry {
-  section: string;
-  title: string;
+  section?: string;
+  sectionRoman?: string;
+  number?: number;
+  name: string;
+  haal: string;
   page: number;
+  romanName?: string;
+  romanHaal?: string;
 }
 
 const entries = indexEntries as BastaIndexEntry[];
-const groups = new Map<string, BastaIndexEntry[]>();
+const { indexStartPage, indexEndPage } = settings;
 
-for (const entry of entries) {
-  const section = entry.section || "Index";
-  if (!groups.has(section)) groups.set(section, []);
-  groups.get(section)!.push(entry);
-}
+const allPages = (
+  await getCollection("basta", ({ data }) => data.published)
+).sort((a, b) => a.data.page - b.data.page);
+
+const pages = allPages.filter(
+  (entry) =>
+    entry.data.page < indexStartPage ||
+    entry.data.page > indexEndPage,
+);
+
+const availablePages = pages.map((entry) => entry.data.page);
+const previousPage = pages
+  .filter((entry) => entry.data.page < indexStartPage)
+  .at(-1)?.data.page;
+const nextPage = pages.find(
+  (entry) => entry.data.page > indexEndPage,
+)?.data.page;
 ---
 
 <BaseLayout
   title="Basta Index | Kalam Archive"
-  description="Index of Basta with direct links to the corresponding book pages."
+  description="Complete linked index of Basta."
 >
   <article class="basta-index-page">
     <header class="basta-index-header">
-      <div class="basta-subnav">
+      <div class="basta-subnav" data-pagefind-ignore>
         <a href="/basta/">Basta</a>
         <span aria-hidden="true">·</span>
-        <a href="/basta/urdu/">Urdu text edition</a>
+        <a href="/basta/urdu/#index">Urdu text edition</a>
         <span aria-hidden="true">·</span>
-        <a href="/basta/roman/">Roman edition</a>
+        <a href="/basta/roman/#index">Roman edition</a>
       </div>
       <h1>Basta Index</h1>
     </header>
 
-    {
-      entries.length === 0 ? (
-        <p>The index has not been added yet.</p>
-      ) : (
-        <div class="basta-index-groups" lang="ur" dir="rtl">
-          {
-            Array.from(groups.entries()).map(([section, sectionEntries]) => (
-              <section class="basta-index-section">
-                <h2>{section}</h2>
-                <ul class="basta-index-list">
-                  {sectionEntries.map((entry) => (
-                    <li>
-                      <a href={`/basta/${entry.page}/`}>
-                        <span class="basta-index-title">{entry.title}</span>
-                        <span
-                          class="basta-index-page-number"
-                          aria-label={`Page ${entry.page}`}
-                        >
-                          {entry.page}
-                        </span>
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </section>
-            ))
-          }
-        </div>
-      )
-    }
+    <BastaPager
+      previousHref={previousPage ? `/basta/${previousPage}/` : undefined}
+      nextHref={nextPage ? `/basta/${nextPage}/` : undefined}
+      availablePages={availablePages}
+      indexStartPage={indexStartPage}
+      indexEndPage={indexEndPage}
+    />
+
+    <BastaIndexTable entries={entries} edition="urdu" />
+
+    <BastaPager
+      previousHref={previousPage ? `/basta/${previousPage}/` : undefined}
+      nextHref={nextPage ? `/basta/${nextPage}/` : undefined}
+      availablePages={availablePages}
+      indexStartPage={indexStartPage}
+      indexEndPage={indexEndPage}
+    />
   </article>
 </BaseLayout>

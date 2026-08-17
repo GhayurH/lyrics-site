@@ -1,1 +1,5412 @@
-[]
+[
+  {
+    "section": "مضامین",
+    "sectionRoman": "Mazameen",
+    "number": 1,
+    "name": "راغب مرادآبادی کے بیٹے کے لئے منظوم تاثرات",
+    "haal": "",
+    "page": 27,
+    "romanName": "Raghib Muradabadi ke bete ke liye manzoom taassurat",
+    "romanHaal": ""
+  },
+  {
+    "section": "مضامین",
+    "sectionRoman": "Mazameen",
+    "number": 2,
+    "name": "اپنی سوزخوانی اور \"بستہ\" کے بارے میں",
+    "haal": "",
+    "page": 29,
+    "romanName": "Apni sozkhwani aur \"Basta\" ke bare mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "مضامین",
+    "sectionRoman": "Mazameen",
+    "number": 3,
+    "name": "ادارہ کی کارکردگی",
+    "haal": "",
+    "page": 33,
+    "romanName": "Idara ki karkardagi",
+    "romanHaal": ""
+  },
+  {
+    "section": "مضامین",
+    "sectionRoman": "Mazameen",
+    "number": 4,
+    "name": "فن سوزخوانی کا مختصر تعارف",
+    "haal": "",
+    "page": 37,
+    "romanName": "Fan-e sozkhwani ka mukhtasar taaruf",
+    "romanHaal": ""
+  },
+  {
+    "section": "مضامین",
+    "sectionRoman": "Mazameen",
+    "number": 5,
+    "name": "حسنِ صوت و خوش الحانی اور شعر و موسیقی",
+    "haal": "",
+    "page": 55,
+    "romanName": "Husn-e saut-o-khush alhani aur sher-o-musiqi",
+    "romanHaal": ""
+  },
+  {
+    "section": "مضامین",
+    "sectionRoman": "Mazameen",
+    "number": 6,
+    "name": "ایک غور طلب نکتہ",
+    "haal": "",
+    "page": 61,
+    "romanName": "Ek ghaur talab nukta",
+    "romanHaal": ""
+  },
+  {
+    "section": "مضامین",
+    "sectionRoman": "Mazameen",
+    "number": 7,
+    "name": "مختصر تعارف پروفیسر سید جعفر زیدی",
+    "haal": "",
+    "page": 64,
+    "romanName": "Mukhtasar taaruf Professor Syed Jafar Zaidi",
+    "romanHaal": ""
+  },
+  {
+    "section": "مضامین",
+    "sectionRoman": "Mazameen",
+    "number": 8,
+    "name": "تاثرات و خیالاتِ مشاہیر",
+    "haal": "",
+    "page": 67,
+    "romanName": "Taassurat-o-khayalat-e mashahir",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 1,
+    "name": "کچھ تو حیدر، کچھ علی، کچھ مرتضیٰ کہنے لگے",
+    "haal": "",
+    "page": 85,
+    "romanName": "Kuch to Haider, kuch Ali, kuch Murtaza kehne lage",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 2,
+    "name": "ہماری کیا ہے کہ ہم سب تو ہیں غلامِ علیؑ",
+    "haal": "",
+    "page": 85,
+    "romanName": "Hamari kya hai ke hum sab to hain ghulam-e-Ali",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 3,
+    "name": "سوتے ہی کب تھے ساقیِ کوثر تمام رات",
+    "haal": "",
+    "page": 85,
+    "romanName": "Sote hi kab the Saqi-e-Kausar tamam raat",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 4,
+    "name": "میرے لئے تکلیف دہ فرماتے ہیں",
+    "haal": "",
+    "page": 85,
+    "romanName": "Mere liye takleef deh farmate hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 5,
+    "name": "مسلمانوں پہ فرض حج عیاں ہے",
+    "haal": "",
+    "page": 85,
+    "romanName": "Musalmanon pe farz-e-Hajj ayaan hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 6,
+    "name": "سب کے مشکل کشا ہیں میرے علیؑ",
+    "haal": "",
+    "page": 85,
+    "romanName": "Sab ke mushkil-kusha hain mere Ali",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 7,
+    "name": "علیؑ جناب بھی، بازوئے انتخاب بھی ہے",
+    "haal": "",
+    "page": 86,
+    "romanName": "Ali janab bhi, bazu-e-intikhab bhi hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 8,
+    "name": "حسن کی صلح میں یوں کربلا جلوہ نما ہے",
+    "haal": "",
+    "page": 86,
+    "romanName": "Hasan ki sulh mein yun Karbala jalwa-numa hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 9,
+    "name": "عقیدت پیکرِ الفاظ میں جب جگمگاتی ہے",
+    "haal": "",
+    "page": 86,
+    "romanName": "Aqeedat paikar-e-alfaz mein jab jagmagati hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 10,
+    "name": "لب پہ ہیں نام ان کا تو پڑھتے ہیں سب درود",
+    "haal": "",
+    "page": 86,
+    "romanName": "Lab pe hain naam un ka to parhte hain sab durood",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 11,
+    "name": "حسین شاہ بھی ہے اور بادشاہ بھی ہے",
+    "haal": "",
+    "page": 86,
+    "romanName": "Hussain Shah bhi hai aur badshah bhi hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 12,
+    "name": "جچے ظلم و ستم کے مقابلے میں حسین",
+    "haal": "",
+    "page": 86,
+    "romanName": "Jache zulm-o-sitam ke muqable mein Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 13,
+    "name": "اپنے دکھوں میں آیا جو تیرا خیال",
+    "haal": "",
+    "page": 86,
+    "romanName": "Apne dukhon mein aaya jo tera khayal",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 14,
+    "name": "حسین ظلم میں جینا سکھا دیا تو نے",
+    "haal": "",
+    "page": 86,
+    "romanName": "Hussain zulm mein jeena sikha diya tu ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 15,
+    "name": "گزر گئے تھے کئی دن کہ گھر میں آب نہ تھا",
+    "haal": "",
+    "page": 87,
+    "romanName": "Guzar gaye the kai din ke ghar mein aab na tha",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 16,
+    "name": "سرِ نیزہ وہ فرقِ شہ پہ پڑی کلغی لہکتی",
+    "haal": "",
+    "page": 87,
+    "romanName": "Sar-e-neza woh farq-e-Shah pe pari kalghi lehakti",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 17,
+    "name": "رگِ دشت میں تنہا تو وطن یاد آیا",
+    "haal": "",
+    "page": 87,
+    "romanName": "Rag-e-dasht mein tanha tu watan yaad aaya",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 18,
+    "name": "جہاں میں چین بنی باپ کی تصویر کرتی ہے",
+    "haal": "",
+    "page": 87,
+    "romanName": "Jahan mein chain bani baap ki tasveer karti hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 19,
+    "name": "حضرت عباس شاہِ لافتیٰ کے شیر ہیں",
+    "haal": "",
+    "page": 87,
+    "romanName": "Hazrat Abbas Shah-e-La Fata ke sher hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 20,
+    "name": "جس نے شبیر سے وفا کی ہے",
+    "haal": "",
+    "page": 87,
+    "romanName": "Jis ne Shabbir se wafa ki hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 21,
+    "name": "علیؑ اگر جرم ہے ہمارا ہے",
+    "haal": "",
+    "page": 87,
+    "romanName": "Ali agar jurm hai hamara hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 22,
+    "name": "شر نظرت سوچ جتنے تیر برسانے لگی",
+    "haal": "",
+    "page": 87,
+    "romanName": "Shar nazrat soch jitne teer barsane lagi",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 23,
+    "name": "نجاتِ حشر کے ضامن کا گھر ہے",
+    "haal": "",
+    "page": 88,
+    "romanName": "Najat-e-hashr ke zamin ka ghar hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 24,
+    "name": "آج یوں ذکرِ غمِ شہدا پانی چاہے",
+    "haal": "",
+    "page": 88,
+    "romanName": "Aaj yun zikr-e-gham-e-shohada pani chahe",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 25,
+    "name": "دعائے زہرا کی تعبیر ہے عزاداری",
+    "haal": "",
+    "page": 88,
+    "romanName": "Dua-e-Zahra ki tabeer hai azadari",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 26,
+    "name": "توحید کا پیام عزاداریِ حسین",
+    "haal": "",
+    "page": 88,
+    "romanName": "Tauheed ka payam azadari-e-Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 27,
+    "name": "ملا ہے اوج شہیدوں کے آستانے کو",
+    "haal": "",
+    "page": 88,
+    "romanName": "Mila hai auj shaheedon ke aastane ko",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 28,
+    "name": "اے کربلا کی خاک، اس احسان کو نہ بھول",
+    "haal": "",
+    "page": 88,
+    "romanName": "Ay Karbala ki khaak, is ehsan ko na bhool",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 29,
+    "name": "جاتا ہے کوئی نوحہ کا عزادار جہاں سے",
+    "haal": "",
+    "page": 88,
+    "romanName": "Jata hai koi nauha ka azadar jahan se",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 30,
+    "name": "اسیرِ عشقِ شہ قفس میں ہوتے",
+    "haal": "",
+    "page": 88,
+    "romanName": "Aseer-e-ishq-e-Shah qafas mein hote",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 31,
+    "name": "جلوے میں اپنے لے کر بلا کا پس منظر",
+    "haal": "",
+    "page": 89,
+    "romanName": "Jalwe mein apne le kar bala ka pas-e-manzar",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 32,
+    "name": "غلامِ خاک بدرو حسین ہیں بتول",
+    "haal": "",
+    "page": 89,
+    "romanName": "Ghulam-e-khaak badru Hussain hain Batool",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 33,
+    "name": "فرشِ مجلس پہ فاطمہ زہرا",
+    "haal": "",
+    "page": 89,
+    "romanName": "Farsh-e-majlis pe Fatima Zahra",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 34,
+    "name": "ہائے اکبر کا دم اکھڑتا ہے",
+    "haal": "",
+    "page": 89,
+    "romanName": "Haye Akbar ka dam ukhrta hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 35,
+    "name": "حسن کی جان ہو گیا ہوگا",
+    "haal": "",
+    "page": 89,
+    "romanName": "Hasan ki jaan ho gaya hoga",
+    "romanHaal": ""
+  },
+  {
+    "section": "قطعات",
+    "sectionRoman": "Qitaat",
+    "number": 36,
+    "name": "ہر پھول کے رنگ و بو کا گلدستہ ہے",
+    "haal": "",
+    "page": 89,
+    "romanName": "Har phool ke rang-o-bu ka guldasta hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 1,
+    "name": "جس کی کہیں حرمِ حق میں دلاوت ہو جائے",
+    "haal": "",
+    "page": 90,
+    "romanName": "Jis ki kahin haram-e-Haq mein dilawat ho jaye",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 2,
+    "name": "اے اہلِ عزا، عزاء کے دن آ پہنچے",
+    "haal": "",
+    "page": 90,
+    "romanName": "Ay ahl-e-aza, aza ke din aa pahunche",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 3,
+    "name": "دنیا سے چلا لے کے جو نام حیدرؑ",
+    "haal": "",
+    "page": 90,
+    "romanName": "Duniya se chala le ke jo naam Haider",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 4,
+    "name": "دل، دل سے ملا ہے ابو طالبؑ نے",
+    "haal": "",
+    "page": 90,
+    "romanName": "Dil, dil se mila hai Abu Talib ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 5,
+    "name": "مداحِ پنجتن کا دم بھرتے ہیں",
+    "haal": "",
+    "page": 90,
+    "romanName": "Maddah-e-Panjtan ka dam bharte hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 6,
+    "name": "ایمان کی تصویر نظر آتی ہے",
+    "haal": "",
+    "page": 90,
+    "romanName": "Iman ki tasveer nazar aati hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 7,
+    "name": "شاہ است حسین، بادشاہ است حسین",
+    "haal": "",
+    "page": 91,
+    "romanName": "Shah ast Hussain, badshah ast Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 8,
+    "name": "کیا صرف مسلمانوں کے پیارے ہیں حسین؟",
+    "haal": "",
+    "page": 91,
+    "romanName": "Kya sirf Musalmanon ke pyare hain Hussain?",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 9,
+    "name": "بے حبِ حسین دین و ایمان ہیں برباد",
+    "haal": "",
+    "page": 91,
+    "romanName": "Be-hubb-e-Hussain deen-o-iman hain barbad",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 10,
+    "name": "میدان میں جب آئے شہِ عرش پناہ",
+    "haal": "",
+    "page": 91,
+    "romanName": "Maidan mein jab aaye Shah-e-Arsh Panah",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 11,
+    "name": "لاکھوں سرِ مشرکین کہنے والے",
+    "haal": "",
+    "page": 91,
+    "romanName": "Lakhon sar-e-mushrikeen kehne wale",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 12,
+    "name": "کارے کہ حسین اختیارے کردی",
+    "haal": "",
+    "page": 91,
+    "romanName": "Kare ke Hussain ikhtiyare kardi",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 13,
+    "name": "خورشید سرِ شام کہاں جاتا ہے",
+    "haal": "",
+    "page": 91,
+    "romanName": "Khurshid sar-e-sham kahan jata hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 14,
+    "name": "عالی نسب و نیک سیر والا جاہ",
+    "haal": "",
+    "page": 91,
+    "romanName": "Aali nasab-o-nek seer wala jah",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 15,
+    "name": "مظلوم شہِ بحر و بر سا ہوگا",
+    "haal": "",
+    "page": 92,
+    "romanName": "Mazloom Shah-e-bahr-o-bar sa hoga",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 16,
+    "name": "حیدر کی فضیلت کا بیاں ہے اب تک",
+    "haal": "",
+    "page": 92,
+    "romanName": "Haider ki fazilat ka bayan hai ab tak",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 17,
+    "name": "حاصل جسے آقا کی حضوری ہو جائے",
+    "haal": "",
+    "page": 92,
+    "romanName": "Hasil jise Aqa ki huzuri ho jaye",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 18,
+    "name": "بلبل کو گل پسند، گلوں کو ہوا پسند",
+    "haal": "",
+    "page": 92,
+    "romanName": "Bulbul ko gul pasand, gulon ko hawa pasand",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 19,
+    "name": "حکمِ حاکم ہے کہ کافر ہے سرِ باغی",
+    "haal": "",
+    "page": 92,
+    "romanName": "Hukm-e-hakim hai ke kafir hai sar-e-baghi",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 20,
+    "name": "مر جائے جو فرزند تو کیا چارہ ہے",
+    "haal": "",
+    "page": 92,
+    "romanName": "Mar jaye jo farzand to kya chara hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 21,
+    "name": "میدان میں کوئی جانے والا نہ رہا",
+    "haal": "",
+    "page": 92,
+    "romanName": "Maidan mein koi jane wala na raha",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 22,
+    "name": "جب نامِ علیؑ منہ سے نکل جاتا ہے",
+    "haal": "",
+    "page": 92,
+    "romanName": "Jab naam-e-Ali munh se nikal jata hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 23,
+    "name": "اُس دن یہ وہ ہیں کہ نوحہ گر ہے زہرا",
+    "haal": "",
+    "page": 93,
+    "romanName": "Us din ye woh hain ke nauhagar hai Zahra",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 24,
+    "name": "ماں کہتی تھی کیا لال جیتے ہوں گے",
+    "haal": "",
+    "page": 93,
+    "romanName": "Maan kehti thi kya laal jeete honge",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 25,
+    "name": "حیرت میں ہوں کیوں جہاں میں آیا پانی",
+    "haal": "",
+    "page": 93,
+    "romanName": "Hairat mein hun kyun jahan mein aaya pani",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 26,
+    "name": "پھر چاندِ غم کا نظر آیا ہے",
+    "haal": "",
+    "page": 93,
+    "romanName": "Phir chand-e-gham ka nazar aaya hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 27,
+    "name": "غیروں سے بھی کیا فیض کوئی پاتا ہے؟",
+    "haal": "",
+    "page": 93,
+    "romanName": "Ghairon se bhi kya faiz koi pata hai?",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 28,
+    "name": "کیا پیاس تھی جس سے سارا لشکر ترایا",
+    "haal": "",
+    "page": 93,
+    "romanName": "Kya pyas thi jis se sara lashkar taraya",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 29,
+    "name": "عابد کو دوا اور نہ غذا دیتے ہیں",
+    "haal": "",
+    "page": 93,
+    "romanName": "Abid ko dawa aur na ghiza dete hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 30,
+    "name": "ریشمِ سرور سے لگا رکھا ہے",
+    "haal": "",
+    "page": 93,
+    "romanName": "Resham-e-Sarwar se laga rakha hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 31,
+    "name": "کرتے ہیں اہلِ روضی چہلم حسین کا",
+    "haal": "",
+    "page": 94,
+    "romanName": "Karte hain ahl-e-rauzi chehlum Hussain ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 32,
+    "name": "علیہ نے بھی رخ وحشی سے نکلا",
+    "haal": "",
+    "page": 94,
+    "romanName": "Alaiha ne bhi rukh wahshi se nikla",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 33,
+    "name": "منقوش ہے دل پر میرے نام حیدر",
+    "haal": "",
+    "page": 94,
+    "romanName": "Manqoosh hai dil par mere naam Haider",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 34,
+    "name": "خود کو شیر نے کیا اذن کی اجازت دے دی",
+    "haal": "",
+    "page": 94,
+    "romanName": "Khud ko sher ne kya izn ki ijazat de di",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 35,
+    "name": "جب ذکر کا کربلا شام نے بخشا",
+    "haal": "",
+    "page": 94,
+    "romanName": "Jab zikr ka Karbala Sham ne bakhsha",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 36,
+    "name": "ستمِ الاپنا کو کیوں نہ روئیں اہلِ دار",
+    "haal": "",
+    "page": 94,
+    "romanName": "Sitam-e-alapna ko kyun na royen ahl-e-dar",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 37,
+    "name": "اصغر کے لئے مقتل فغاں رکھتے ہیں",
+    "haal": "",
+    "page": 95,
+    "romanName": "Asghar ke liye maqtal fughan rakhte hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 38,
+    "name": "جس روز کہ ہو اذنِ اسماء الشقفت",
+    "haal": "",
+    "page": 95,
+    "romanName": "Jis roz ke ho izn-e-asma al-shaqafat",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 39,
+    "name": "حیدر کی عطا پہ علی شاہد ہے",
+    "haal": "",
+    "page": 95,
+    "romanName": "Haider ki ata pe Ali shahid hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 40,
+    "name": "اے بادِ صبا کون و مکاں اڑ گئی",
+    "haal": "",
+    "page": 95,
+    "romanName": "Ay bad-e-saba kaun-o-makan ur gayi",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 41,
+    "name": "یہ لوگ ہیں دنیا کو جگانے والے",
+    "haal": "",
+    "page": 95,
+    "romanName": "Ye log hain duniya ko jagane wale",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 42,
+    "name": "گلشن میں پھروں کہ سرِ صحرا دیکھوں",
+    "haal": "",
+    "page": 95,
+    "romanName": "Gulshan mein phirun ke sar-e-sehra dekhun",
+    "romanHaal": ""
+  },
+  {
+    "section": "رباعیات",
+    "sectionRoman": "Rubaiyat",
+    "number": 43,
+    "name": "رکتے ہوئے دریا کو روانی دے دی",
+    "haal": "",
+    "page": 95,
+    "romanName": "Rukte hue darya ko rawani de di",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 1,
+    "name": "ہر دور کے کاتب ہیں قرآن و اہلِ بیت",
+    "haal": "",
+    "page": 96,
+    "romanName": "Har daur ke katib hain Quran-o-Ahl-e-Bait",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 2,
+    "name": "بندۂ زہرا سالِ عبادت اگر کرے",
+    "haal": "",
+    "page": 96,
+    "romanName": "Banda-e-Zahra saal-e-ibadat agar kare",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 3,
+    "name": "سرِ تم سے بھی جنوں کو جوش ہوا ملا",
+    "haal": "",
+    "page": 96,
+    "romanName": "Sar-e-tum se bhi junun ko josh hua mila",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 4,
+    "name": "چشمِ نبی کے خواب کو کہتے ہیں سیدہ",
+    "haal": "",
+    "page": 96,
+    "romanName": "Chashm-e-Nabi ke khwab ko kehte hain Sayyida",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 5,
+    "name": "کیا پوچھیں خدا صاحب تو قریب ہے زہرا",
+    "haal": "",
+    "page": 97,
+    "romanName": "Kya poochhen Khuda sahib tu qareeb hai Zahra",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 6,
+    "name": "اے روزہ دارو آؤ بکا کے یہ روز ہیں",
+    "haal": "",
+    "page": 97,
+    "romanName": "Ay roza-daro aao buka ke ye roz hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 7,
+    "name": "شریکِ غمِ شہ مشرقین ہیں زینب",
+    "haal": "",
+    "page": 97,
+    "romanName": "Shareek-e-gham-e-Shah mashriqain hain Zainab",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 8,
+    "name": "جرأت میں علیؑ، صبر میں شبیر، ہیں زینب",
+    "haal": "",
+    "page": 97,
+    "romanName": "Jurat mein Ali, sabr mein Shabbir, hain Zainab",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 9,
+    "name": "جب وطن سے کوچ کی مسلم کے تیاری ہوئی",
+    "haal": "",
+    "page": 97,
+    "romanName": "Jab watan se kooch ki Muslim ke tayyari hui",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 10,
+    "name": "کسی نے کوفے کے رستے میں دی یہ خبر",
+    "haal": "",
+    "page": 97,
+    "romanName": "Kisi ne Kufe ke raste mein di ye khabar",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 11,
+    "name": "خیمے دریا پہ گئے جب کہ خیمہ والا نے",
+    "haal": "",
+    "page": 98,
+    "romanName": "Khaime darya pe gaye jab ke khaima wala ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 12,
+    "name": "بی بی فاطمہ جو ادا کی امام نے",
+    "haal": "",
+    "page": 98,
+    "romanName": "Bibi Fatima jo ada ki Imam ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 13,
+    "name": "ہوا جو شاہ کے لشکر میں قحطِ پانی کا",
+    "haal": "",
+    "page": 98,
+    "romanName": "Hua jo Shah ke lashkar mein qaht-e-pani ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 14,
+    "name": "جب نہ اعداء سے کسی طرح صفائی ٹھہری",
+    "haal": "",
+    "page": 98,
+    "romanName": "Jab na aada se kisi tarah safai thehri",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 15,
+    "name": "جب راتِ شہادت میں برقی شبیر دیں نے",
+    "haal": "",
+    "page": 98,
+    "romanName": "Jab raat-e-shahadat mein barqi Shabbir deen ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 16,
+    "name": "جب آئی صبحِ قتل امامِ فلک وقار",
+    "haal": "",
+    "page": 98,
+    "romanName": "Jab aayi subh-e-qatl Imam-e-falak-waqar",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 17,
+    "name": "جب تھوڑی رات قتل کی میدان میں رہ گئی",
+    "haal": "",
+    "page": 99,
+    "romanName": "Jab thori raat qatl ki maidan mein reh gayi",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 18,
+    "name": "عاشور کی جو رات تھی محشر صفات تھی",
+    "haal": "",
+    "page": 99,
+    "romanName": "Ashur ki jo raat thi mahshar sifat thi",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 19,
+    "name": "جب بازو نے زینب کی کمر کو تھاما دی",
+    "haal": "",
+    "page": 99,
+    "romanName": "Jab bazu ne Zainab ki kamar ko thama di",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 20,
+    "name": "برچھی کی انی جب لگی اکبر کے جگر میں",
+    "haal": "",
+    "page": 99,
+    "romanName": "Barchhi ki ani jab lagi Akbar ke jigar mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 21,
+    "name": "حسینی جب کہ چلے بعد دوپہر رن کو",
+    "haal": "",
+    "page": 99,
+    "romanName": "Hussaini jab ke chale baad dopehar ran ko",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 22,
+    "name": "عصر کا وقت ہے مونس ہیں نہ یاور باقی",
+    "haal": "",
+    "page": 99,
+    "romanName": "Asr ka waqt hai monis hain na yawar baqi",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 23,
+    "name": "کام آئے رفقا شاہ کے جب میدان میں",
+    "haal": "",
+    "page": 100,
+    "romanName": "Kaam aaye rufaqa Shah ke jab maidan mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 24,
+    "name": "اے عزیر دو کہاں ہو، اجڑائے اہلِ بیت",
+    "haal": "",
+    "page": 100,
+    "romanName": "Ay azeer do kahan ho, ujraye Ahl-e-Bait",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 25,
+    "name": "کارواں سالارِ دین جب کارواں کر بلا",
+    "haal": "",
+    "page": 100,
+    "romanName": "Karwan salar-e-deen jab karwan kar bala",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 26,
+    "name": "قریب کو نہ جو اندھوں کا کارواں آیا",
+    "haal": "",
+    "page": 100,
+    "romanName": "Qareeb ko na jo andhon ka karwan aaya",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 27,
+    "name": "رہتی ہے بھوکی کھائے چراغ جو زہر میں",
+    "haal": "",
+    "page": 100,
+    "romanName": "Rehti hai bhooki khaye charagh jo zehar mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 28,
+    "name": "عباس نے فرمایا کہ گھر آؤ نہ جانی",
+    "haal": "",
+    "page": 100,
+    "romanName": "Abbas ne farmaya ke ghar aao na jani",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 29,
+    "name": "جب نوجوانوں کی لاش نہ پائی حسین نے",
+    "haal": "",
+    "page": 101,
+    "romanName": "Jab naujawanon ki laash na payi Hussain ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 30,
+    "name": "شہ مظلوم سے عباس نے جس دم حکم پایا",
+    "haal": "",
+    "page": 101,
+    "romanName": "Shah-e-mazloom se Abbas ne jis dam hukm paya",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 31,
+    "name": "نکلے خیمے سے جو شہسوارِ کربلا کے عباس",
+    "haal": "",
+    "page": 101,
+    "romanName": "Nikle khaime se jo shahsawar-e-Karbala ke Abbas",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 32,
+    "name": "شورِ شام کے لشکر میں کہ عباس آئے",
+    "haal": "",
+    "page": 101,
+    "romanName": "Shor-e-Sham ke lashkar mein ke Abbas aaye",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 33,
+    "name": "جب مشک بھر کر نہر سے عباس غازی گھر چلے",
+    "haal": "",
+    "page": 101,
+    "romanName": "Jab mashk bhar kar nehr se Abbas Ghazi ghar chale",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 34,
+    "name": "شہ کا ارادہ تھا جلات میں لاجواب",
+    "haal": "",
+    "page": 101,
+    "romanName": "Shah ka irada tha jalat mein lajawab",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 35,
+    "name": "آشناۓ صراحت کا حسین ابنِ علی",
+    "haal": "",
+    "page": 102,
+    "romanName": "Ashna-e-sarahat ka Hussain ibn-e-Ali",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 36,
+    "name": "جب چمنِ خاک میں اکبر کی جوانی کا کھلا",
+    "haal": "",
+    "page": 102,
+    "romanName": "Jab chaman-e-khaak mein Akbar ki jawani ka khila",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 37,
+    "name": "پیارے صغیرِ حسن میں کوئی ہے پردہ رو",
+    "haal": "",
+    "page": 102,
+    "romanName": "Pyare sagheer-e-Hasan mein koi hai parda-ru",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 38,
+    "name": "عباس کو حسین جو دریا پہ رو چکے",
+    "haal": "",
+    "page": 102,
+    "romanName": "Abbas ko Hussain jo darya pe ro chuke",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 39,
+    "name": "ذرا رہی ہے دلوں کو اپنی ہوئی سرکار",
+    "haal": "",
+    "page": 102,
+    "romanName": "Zara rahi hai dilon ko apni hui sarkar",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 40,
+    "name": "بے چیں تھی صغرا جو فراقِ پدری سے",
+    "haal": "",
+    "page": 102,
+    "romanName": "Be-chain thi Sughra jo firaq-e-pidari se",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 41,
+    "name": "دوبارہ بنا جو اپنے سرور کا زباں",
+    "haal": "",
+    "page": 103,
+    "romanName": "Dobara bana jo apne Sarwar ka zaban",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 42,
+    "name": "اصغر کی لاش جب کر افشاں حسینی نے",
+    "haal": "",
+    "page": 103,
+    "romanName": "Asghar ki laash jab kar afshan Hussaini ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 43,
+    "name": "جب طبر تک حسین پر (حر) رو چکے",
+    "haal": "",
+    "page": 103,
+    "romanName": "Jab tabar tak Hussain par (Hurr) ro chuke",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 44,
+    "name": "تھا حکم کہ یزید کا پانی بھر نہ کریں",
+    "haal": "",
+    "page": 103,
+    "romanName": "Tha hukm ke Yazid ka pani bhar na karen",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 45,
+    "name": "کہتی تھی بانو اصغرؑ جانی کس دم گھر میں آؤ گے",
+    "haal": "",
+    "page": 103,
+    "romanName": "Kehti thi Bano Asghar jani kis dam ghar mein aao ge",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 46,
+    "name": "جب ذوالفقار امامِ اصغر میں رو چکی",
+    "haal": "",
+    "page": 103,
+    "romanName": "Jab Zulfiqar Imam-e-Asghar mein ro chuki",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 47,
+    "name": "جب زنداں میں رنجی ہوئے سلطانِ بحر و بر",
+    "haal": "",
+    "page": 104,
+    "romanName": "Jab zindan mein ranji hue Sultan-e-bahr-o-bar",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 48,
+    "name": "کربلا سے جب حسینی قافلہ گزر ہوا",
+    "haal": "",
+    "page": 104,
+    "romanName": "Karbala se jab Hussaini qafila guzar hua",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 49,
+    "name": "شیرِ کوفانی نے سلیمہ جو عطا کی",
+    "haal": "",
+    "page": 104,
+    "romanName": "Sher-e-Kufani ne Salima jo ata ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 50,
+    "name": "جب یزید اپنے گناہوں سے پشیمان ہوا",
+    "haal": "",
+    "page": 104,
+    "romanName": "Jab Yazid apne gunahon se pasheman hua",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 51,
+    "name": "سرہانے لختِ جگر کے طہر شب نے کی",
+    "haal": "",
+    "page": 105,
+    "romanName": "Sarhane lakht-e-jigar ke tuhr shab ne ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 52,
+    "name": "نکلے غم کے اونٹ پہ قتل کی راہ سے",
+    "haal": "",
+    "page": 105,
+    "romanName": "Nikle gham ke oont pe qatl ki rah se",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 53,
+    "name": "ایک ایک کر کے بکھرتے تھے جب انصارِ حسین",
+    "haal": "",
+    "page": 105,
+    "romanName": "Ek ek kar ke bikharte the jab Ansar-e-Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 54,
+    "name": "سو گئے جب بھی اصحاب سرِ دشتِ بلا",
+    "haal": "",
+    "page": 105,
+    "romanName": "So gaye jab bhi ashab sar-e-dasht-e-bala",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 55,
+    "name": "کیوں مستورہ ہے کیا آگ رہی ہے",
+    "haal": "",
+    "page": 105,
+    "romanName": "Kyun mastura hai kya aag rahi hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 56,
+    "name": "علی کی بیبیاں زنداں میں جب اسیر ہوئیں",
+    "haal": "",
+    "page": 105,
+    "romanName": "Ali ki bibiyan zindan mein jab aseer huin",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 57,
+    "name": "شہرِ شام کہے پر حضرت زینب سے کہا",
+    "haal": "",
+    "page": 106,
+    "romanName": "Shehr-e-Sham kahe par Hazrat Zainab se kaha",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 58,
+    "name": "علیہ سے وطن میں کسی نے کیا کلام",
+    "haal": "",
+    "page": 106,
+    "romanName": "Alaiha se watan mein kisi ne kya kalam",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 59,
+    "name": "چاکو کٹوا رہا دوبارہ جو شقی نے",
+    "haal": "",
+    "page": 106,
+    "romanName": "Chaku katwa raha dobara jo shaqi ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سوز",
+    "sectionRoman": "Soz",
+    "number": 60,
+    "name": "سکینہ قیدِ کوفہ و شام کے زنداں میں جب آئی",
+    "haal": "",
+    "page": 106,
+    "romanName": "Sakina qaid-e-Kufa-o-Sham ke zindan mein jab aayi",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 1,
+    "name": "بجلی کجی کیوں ماہوا ہوتا ہے",
+    "haal": "",
+    "page": 107,
+    "romanName": "Bijli kaji kyun mahwa hota hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 2,
+    "name": "ذکر کو گھر کے کیوں کربلا ماں نے",
+    "haal": "",
+    "page": 107,
+    "romanName": "Zikr ko ghar ke kyun Karbala maan ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 3,
+    "name": "کون قاتل تھا سلامی کر جہاں اور بھی ہے",
+    "haal": "",
+    "page": 108,
+    "romanName": "Kaun qatil tha salami kar jahan aur bhi hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 4,
+    "name": "بجلی کیا ہوا مقامِ حسن کے واسطے",
+    "haal": "",
+    "page": 108,
+    "romanName": "Bijli kya hua maqam-e-Hasan ke waste",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 5,
+    "name": "زرد چہرہ ہے نجف و زار ہوں",
+    "haal": "",
+    "page": 109,
+    "romanName": "Zard chehra hai Najaf-o-zar hun",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 6,
+    "name": "لب و رخسار نے زینب حسینی لیے تھے",
+    "haal": "",
+    "page": 109,
+    "romanName": "Lab-o-rukhsar ne Zainab Hussaini liye the",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 7,
+    "name": "مجلس سے کچھ ملک شہیدوں میں بھر کر لے گئے",
+    "haal": "",
+    "page": 109,
+    "romanName": "Majlis se kuch malak shaheedon mein bhar kar le gaye",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 8,
+    "name": "حسین ابنِ علی کا غم روزِ محشر میں رہتا ہے",
+    "haal": "",
+    "page": 110,
+    "romanName": "Hussain ibn-e-Ali ka gham roz-e-mahshar mein rehta hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 9,
+    "name": "آ تیرے مقصد کا کرو یا نظر",
+    "haal": "",
+    "page": 110,
+    "romanName": "Aa tere maqsad ka karo ya nazar",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 10,
+    "name": "سلامی جاں گزرا ہے رنجِ غم خاصانِ زہرا کا",
+    "haal": "",
+    "page": 111,
+    "romanName": "Salami jaan guzra hai ranj-e-gham khasan-e-Zahra ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 11,
+    "name": "ہے سلام اس پہ جو تھی صدر، ہائے حسین",
+    "haal": "",
+    "page": 111,
+    "romanName": "Hai salam us pe jo thi sadr, haye Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 12,
+    "name": "کروں چھکی زمین پہ جس دم امام کی",
+    "haal": "",
+    "page": 112,
+    "romanName": "Karun chhaki zameen pe jis dam Imam ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 13,
+    "name": "وارثِ سید الانام حسین",
+    "haal": "",
+    "page": 112,
+    "romanName": "Waris-e-Sayyid-ul-Anam Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 14,
+    "name": "دل میں جس مسلم کے حبِ ساقی کوثر نہیں",
+    "haal": "",
+    "page": 113,
+    "romanName": "Dil mein jis Muslim ke hubb-e-Saqi-e-Kausar nahin",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 15,
+    "name": "اس سے بڑھ کر اور کیا ہوگا حجابِ فاطمہ",
+    "haal": "",
+    "page": 113,
+    "romanName": "Is se barh kar aur kya hoga hijab-e-Fatima",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 16,
+    "name": "کیا مصیبت ہو یہاں بے سر و سامانوں کی",
+    "haal": "",
+    "page": 113,
+    "romanName": "Kya musibat ho yahan be-sar-o-samanon ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 17,
+    "name": "حسین یوں ہوئے رخصتِ بڑی دل سے جدا",
+    "haal": "",
+    "page": 114,
+    "romanName": "Hussain yun hue rukhsat-e-bari dil se juda",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 18,
+    "name": "حفظِ ناموسِ الٰہی کا شہِ شیرِ حسین",
+    "haal": "",
+    "page": 114,
+    "romanName": "Hifz-e-namus-e-Ilahi ka Shah-e-sher-e-Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 19,
+    "name": "کس زباں سے ہو بیاں یہ سرِ زندانِ اہلِ بیت",
+    "haal": "",
+    "page": 114,
+    "romanName": "Kis zaban se ho bayan ye sar-e-zindan-e-Ahl-e-Bait",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 20,
+    "name": "یہ زینب دیتا تھا کہنا حسین ہی کیلئے",
+    "haal": "",
+    "page": 115,
+    "romanName": "Ye Zainab deta tha kehna Hussain hi ke liye",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 21,
+    "name": "ایک دوسرا سانحہ دنیا کا صدیوں میں ایسا نہ آئے",
+    "haal": "",
+    "page": 115,
+    "romanName": "Ek dusra saniha duniya ka sadiyon mein aisa na aaye",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 22,
+    "name": "جب کوئی تیغ پہ کہتے پکارتے ہیں حسین",
+    "haal": "",
+    "page": 116,
+    "romanName": "Jab koi tegh pe kehte pukarte hain Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 24,
+    "name": "ہے یہی وقت ان کا دامن تھام لے",
+    "haal": "",
+    "page": 116,
+    "romanName": "Hai yahi waqt un ka daman tham le",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 25,
+    "name": "وہی تو فتح و ظفر کے نشان اٹھاتے ہیں",
+    "haal": "",
+    "page": 117,
+    "romanName": "Wohi to fatah-o-zafar ke nishan uthate hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 26,
+    "name": "بے شک عظیم مرتبہ شاہِ انام ہے",
+    "haal": "",
+    "page": 117,
+    "romanName": "Be-shak azeem martaba Shah-e-Anam hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 27,
+    "name": "حق کی منزل کربلا ہے حق کا جادہ کربلا",
+    "haal": "",
+    "page": 117,
+    "romanName": "Haq ki manzil Karbala hai Haq ka jada Karbala",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 28,
+    "name": "باعثِ رنگ ہیں کیوں گل کا مقدر نکلے",
+    "haal": "",
+    "page": 118,
+    "romanName": "Bais-e-rang hain kyun gul ka muqaddar nikle",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 29,
+    "name": "پھر عاشور ہے اور پھر تابان حسین",
+    "haal": "",
+    "page": 118,
+    "romanName": "Phir Ashur hai aur phir taban Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 30,
+    "name": "جو شخص بدون نماز میں علم و گہر لیے ہوتے ہیں",
+    "haal": "",
+    "page": 118,
+    "romanName": "Jo shakhs badun namaz mein ilm-o-gohar liye hote hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 31,
+    "name": "خیالِ کربلا ہے اور میں ہوں",
+    "haal": "",
+    "page": 119,
+    "romanName": "Khayal-e-Karbala hai aur main hun",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 32,
+    "name": "جو مراتب ہیں مجھے خدا کے سامنے",
+    "haal": "",
+    "page": 119,
+    "romanName": "Jo maratib hain mujhe Khuda ke samne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 33,
+    "name": "اے سرِ کربلا ہماں زندہ باد اے میرے کے پرچم",
+    "haal": "",
+    "page": 119,
+    "romanName": "Ay sar-e-Karbala haman zindabad ay mere ke parcham",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 34,
+    "name": "کربلا کی منزلت ثابت ہے ہر عنوان سے",
+    "haal": "",
+    "page": 120,
+    "romanName": "Karbala ki manzilat sabit hai har unwan se",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 35,
+    "name": "بیٹھاۓ مشکلات کے رستے میں پا کے",
+    "haal": "",
+    "page": 120,
+    "romanName": "Bithaye mushkilat ke raste mein pa ke",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 36,
+    "name": "تسلیم کیجئے گا آنکھِ چشمِ صفا کے لئے",
+    "haal": "",
+    "page": 121,
+    "romanName": "Tasleem kijiye ga aankh-e-chashm-e-safa ke liye",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 37,
+    "name": "نظر پڑی جو گھر کی آن کی صورت",
+    "haal": "",
+    "page": 121,
+    "romanName": "Nazar pari jo ghar ki aan ki surat",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 38,
+    "name": "سلسلہ نامِ خدا، جذبۂ ایمانی کا",
+    "haal": "",
+    "page": 121,
+    "romanName": "Silsila naam-e-Khuda, jazba-e-imani ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 39,
+    "name": "ہر ایک چیز زمانے کی آنی جانی ہے",
+    "haal": "",
+    "page": 122,
+    "romanName": "Har ek cheez zamane ki aani jani hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 40,
+    "name": "بحرِ عشقِ شہ میں شری کا کلام ایسا نہ ہو",
+    "haal": "",
+    "page": 122,
+    "romanName": "Bahr-e-ishq-e-Shah mein shari ka kalam aisa na ho",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 41,
+    "name": "ہو سلام اس پہ جو نندی بھی ہے پیاری بھی ہے",
+    "haal": "",
+    "page": 123,
+    "romanName": "Ho salam us pe jo nandi bhi hai pyari bhi hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 42,
+    "name": "حق سے ہے میری جانبِ رحمت داوری کی آنکھ",
+    "haal": "",
+    "page": 123,
+    "romanName": "Haq se hai meri janib-e-rahmat dawri ki aankh",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 43,
+    "name": "خود کی ایسی نہ کسی کو اور تقدیر ملی",
+    "haal": "",
+    "page": 123,
+    "romanName": "Khud ki aisi na kisi ko aur taqdeer mili",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 44,
+    "name": "اہلِ کوفہ کی زندگی حسین کے بعد",
+    "haal": "",
+    "page": 124,
+    "romanName": "Ahl-e-Kufa ki zindagi Hussain ke baad",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 45,
+    "name": "خانۂ کعبہ سا کوئی گھر نظر آتا نہیں",
+    "haal": "",
+    "page": 124,
+    "romanName": "Khana-e-Kaaba sa koi ghar nazar aata nahin",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 46,
+    "name": "تجاور ہیں امراء تو مصطفیٰ ہے وطن میں",
+    "haal": "",
+    "page": 124,
+    "romanName": "Tajawar hain umara to Mustafa hai watan mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 47,
+    "name": "بحر کی کہتے شہید کچھ میرا گھر",
+    "haal": "",
+    "page": 124,
+    "romanName": "Bahr ki kehte shaheed kuch mera ghar",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 48,
+    "name": "جو شہ کے طرفدار یہاں بھی ہیں وہاں بھی",
+    "haal": "",
+    "page": 125,
+    "romanName": "Jo Shah ke tarafdar yahan bhi hain wahan bhi",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 49,
+    "name": "خوب جی بھر کر جمال روئے اکبر دیکھا",
+    "haal": "",
+    "page": 125,
+    "romanName": "Khoob ji bhar kar jamal-e-ru-e-Akbar dekha",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 50,
+    "name": "سلام اس پہ کہ جو محبت دل پہ خدا کی ہے",
+    "haal": "",
+    "page": 126,
+    "romanName": "Salam us pe ke jo mohabbat dil pe Khuda ki hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 51,
+    "name": "ذکر ہم کرتے رہیں گے حضرتِ کربلا کا",
+    "haal": "",
+    "page": 126,
+    "romanName": "Zikr hum karte rahenge Hazrat-e-Karbala ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 52,
+    "name": "کبھی فرطِ ادب میں آنکھ اٹھانی نہیں جاتی",
+    "haal": "",
+    "page": 126,
+    "romanName": "Kabhi fart-e-adab mein aankh uthani nahin jati",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 53,
+    "name": "شاہوں کا تذکرہ ہے، لشکر کی بات ہے",
+    "haal": "",
+    "page": 127,
+    "romanName": "Shahon ka tazkira hai, lashkar ki baat hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 54,
+    "name": "کہو حاضرت؟ ذکرِ شہید کربلا ہے",
+    "haal": "",
+    "page": 127,
+    "romanName": "Kaho hazirat? zikr-e-shaheed-e-Karbala hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 55,
+    "name": "سلامی کربلا میں کیا قیامت کی گھڑی ہوگی",
+    "haal": "",
+    "page": 127,
+    "romanName": "Salami Karbala mein kya qayamat ki ghari hogi",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 56,
+    "name": "بحر اجنبی نے سر سے مولا کو پہچانا نہیں",
+    "haal": "",
+    "page": 128,
+    "romanName": "Bahr ajnabi ne sar se Maula ko pehchana nahin",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 57,
+    "name": "مری آنکھوں سے یوں اشکِ غم ہر دم نکلتے ہیں",
+    "haal": "",
+    "page": 128,
+    "romanName": "Meri aankhon se yun ashk-e-gham har dam nikalte hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 58,
+    "name": "یہ سلسلۂ آلِ رسولِ مصطفیٰ کے لئے",
+    "haal": "",
+    "page": 129,
+    "romanName": "Ye silsila-e-Aal-e-Rasul-e-Mustafa ke liye",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 59,
+    "name": "اے سوادِ دل، سپاہِ مصطفیٰ جیتے رہو",
+    "haal": "",
+    "page": 129,
+    "romanName": "Ay sawad-e-dil, sipah-e-Mustafa jeete raho",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 60,
+    "name": "جہاں بھی ظلمتِ باطل نے سر اٹھایا ہے",
+    "haal": "",
+    "page": 129,
+    "romanName": "Jahan bhi zulmat-e-batil ne sar uthaya hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 61,
+    "name": "کسی امت تھی اس راہِ گزر سے گزرے",
+    "haal": "",
+    "page": 130,
+    "romanName": "Kisi ummat thi is rah-e-guzar se guzre",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 62,
+    "name": "چھوڑتا نہیں ہم کربلا کا غم تنہا",
+    "haal": "",
+    "page": 130,
+    "romanName": "Chhorta nahin hum Karbala ka gham tanha",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 63,
+    "name": "خاکِ جو حرب و سر کو سجا دیتی ہیں",
+    "haal": "",
+    "page": 130,
+    "romanName": "Khaak-e-jo harb-o-sar ko saja deti hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 64,
+    "name": "دنیا جو دکھائی دین سے غافل حسینی نے",
+    "haal": "",
+    "page": 131,
+    "romanName": "Duniya jo dikhayi deen se ghafil Hussaini ne",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 65,
+    "name": "تم کو تحتِ دل رہے اس یاں کے ساتھ",
+    "haal": "",
+    "page": 131,
+    "romanName": "Tum ko taht-e-dil rahe is yan ke saath",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 66,
+    "name": "کیا ہے جاں میں آپ کو کیا ہمارے پاس",
+    "haal": "",
+    "page": 132,
+    "romanName": "Kya hai jaan mein aap ko kya hamare paas",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 67,
+    "name": "آوازِ مدحت کی حسین بارہ دری تک",
+    "haal": "",
+    "page": 132,
+    "romanName": "Awaz-e-madahat ki Hussain bara-dari tak",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 68,
+    "name": "زینب کمال صانعِ قدرت کا نام ہے",
+    "haal": "",
+    "page": 132,
+    "romanName": "Zainab kamal-e-Sani-e-Qudrat ka naam hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 69,
+    "name": "کچھ بھی نظر آتا نہیں، مجھ کو دیکھتا جاتا",
+    "haal": "",
+    "page": 133,
+    "romanName": "Kuch bhi nazar aata nahin, mujh ko dekhta jata",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 70,
+    "name": "کھیتی ہوئی زمین پہ جون خیز یا چلی",
+    "haal": "",
+    "page": 133,
+    "romanName": "Kheti hui zameen pe jaun-khez ya chali",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 71,
+    "name": "شاہوں کا نام لئے خندہ پیشانی کے ساتھ",
+    "haal": "",
+    "page": 133,
+    "romanName": "Shahon ka naam liye khanda-peshani ke saath",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 72,
+    "name": "چلی ہے برہم صداقت حسینی کے گھر سے",
+    "haal": "",
+    "page": 134,
+    "romanName": "Chali hai barham sadaqat Hussaini ke ghar se",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 73,
+    "name": "کربلا والوں کے جیسے امتحاں ہوتے نہیں",
+    "haal": "",
+    "page": 134,
+    "romanName": "Karbala walon ke jaise imtihan hote nahin",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 74,
+    "name": "کھلی ہے کشتیِ نبی کی کتابِ پانی میں",
+    "haal": "",
+    "page": 135,
+    "romanName": "Khuli hai kashti-e-Nabi ki kitab-e-pani mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 75,
+    "name": "بحر کی کہتے ہیں غم کا شہید! کچھ ہو",
+    "haal": "",
+    "page": 135,
+    "romanName": "Bahr ki kehte hain gham ka shaheed! kuch ho",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 76,
+    "name": "کہاں وہ گھر دنیا کو کوئی در کہ ہے",
+    "haal": "",
+    "page": 136,
+    "romanName": "Kahan woh ghar duniya ko koi dar ke hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 77,
+    "name": "حسین سب دیار کو پاس کے سوئے ہیں",
+    "haal": "",
+    "page": 136,
+    "romanName": "Hussain sab diyar ko paas ke soye hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 78,
+    "name": "یہ آتم کی صدا زندہ رہے گی",
+    "haal": "",
+    "page": 136,
+    "romanName": "Ye aatam ki sada zinda rahegi",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 79,
+    "name": "کربلا کی شیر دل خاتونِ زینب السلام",
+    "haal": "",
+    "page": 137,
+    "romanName": "Karbala ki sher-dil khatun-e-Zainab al-salam",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 80,
+    "name": "ہر سمت جہاں میں ہے شہِ کربلا کا",
+    "haal": "",
+    "page": 137,
+    "romanName": "Har simt jahan mein hai Shah-e-Karbala ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 81,
+    "name": "اہلِ کوفہ نے وفا مسلم سے نہ کی",
+    "haal": "",
+    "page": 137,
+    "romanName": "Ahl-e-Kufa ne wafa Muslim se na ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 82,
+    "name": "اسے چاند کربلا کے تو تر دیکھے ہوں گے",
+    "haal": "",
+    "page": 138,
+    "romanName": "Ise chand Karbala ke to tar dekhe honge",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 83,
+    "name": "کربلا کی خاک پر کیا آدمی سجدے میں ہے",
+    "haal": "",
+    "page": 139,
+    "romanName": "Karbala ki khaak par kya aadmi sajde mein hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 84,
+    "name": "خدا شناسی و خودآگہی حسین سے ہے",
+    "haal": "",
+    "page": 139,
+    "romanName": "Khuda-shanasi-o-khud-agahi Hussain se hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 85,
+    "name": "چھوڑ کر باطل کا در، تجھ پہ کے راستہ کون",
+    "haal": "",
+    "page": 139,
+    "romanName": "Chhor kar batil ka dar, tujh pe ke rasta kaun",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 86,
+    "name": "دشوار اسی کا کام کیسے آسان ہوگا",
+    "haal": "",
+    "page": 140,
+    "romanName": "Dushwar isi ka kaam kaise aasan hoga",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 87,
+    "name": "نیزے پہ سر کربلا تھا تلاوت سرِ انام",
+    "haal": "",
+    "page": 140,
+    "romanName": "Neze pe sar Karbala tha tilawat sar-e-anam",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 88,
+    "name": "قطعہ: چہرۂ نصیر الدین گھر اور شریف",
+    "haal": "",
+    "page": 140,
+    "romanName": "Qita: chehra-e-Nasiruddin ghar aur Sharif",
+    "romanHaal": ""
+  },
+  {
+    "section": "سلام",
+    "sectionRoman": "Salam",
+    "number": 89,
+    "name": "حسین جب کو چلے بعد دوپہر رن کو",
+    "haal": "",
+    "page": 140,
+    "romanName": "Hussain jab ko chale baad dopehar ran ko",
+    "romanHaal": ""
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 1,
+    "name": "گھر سے جب سر سید عالم نکلے",
+    "haal": "روانگی از مدینہ",
+    "page": 142,
+    "romanName": "Ghar se jab Sarwar-e-Sayyid-e-Alam nikle",
+    "romanHaal": "Rawangi az Madina"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 2,
+    "name": "جاتی ہے بہار آج مدینے کے چمن سے",
+    "haal": "ایضاً",
+    "page": 143,
+    "romanName": "Jati hai bahar aaj Madine ke chaman se",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 3,
+    "name": "جب چلے یثرب سے سبط مصطفیٰ سوئے عراق",
+    "haal": "ایضاً",
+    "page": 145,
+    "romanName": "Jab chale Yasrab se Sibt-e-Mustafa su-e-Iraq",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 4,
+    "name": "جب ہوا یوسف زہرا کا سفر یثرب سے",
+    "haal": "ایضاً",
+    "page": 146,
+    "romanName": "Jab hua Yusuf-e-Zahra ka safar Yasrab se",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 5,
+    "name": "پہلی منزل جو مدینے سے ہوئی سرور کو",
+    "haal": "ایضاً",
+    "page": 148,
+    "romanName": "Pehli manzil jo Madine se hui Sarwar ko",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 6,
+    "name": "مسلم کے یتیموں کو جو ملعون نے پایا",
+    "haal": "",
+    "page": 149,
+    "romanName": "Muslim ke yateemon ko jo maloon ne paya",
+    "romanHaal": ""
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 7,
+    "name": "اس درجہ بے قرار تھے سلطان بحر و بر",
+    "haal": "ایضاً",
+    "page": 150,
+    "romanName": "Is darja be-qarar the Sultan-e-bahr-o-bar",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 8,
+    "name": "منتظر تھے شب ہشتم ذی الحجہ کو شبیر",
+    "haal": "روانگی از مکہ",
+    "page": 151,
+    "romanName": "Muntazir the shab-e-hashtum Zilhijja ko Shabbir",
+    "romanHaal": "Rawangi az Makka"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 9,
+    "name": "وطن سے محمد کے کوئی خستہ جاں شہید نہ ہو",
+    "haal": "شہادت حضرت مسلم",
+    "page": 152,
+    "romanName": "Watan se Muhammad ke koi khasta-jaan shaheed na ho",
+    "romanHaal": "Shahadat Hazrat Muslim"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 10,
+    "name": "انسان کیلئے موت ہے غم بے وطنی کا",
+    "haal": "ایضاً",
+    "page": 154,
+    "romanName": "Insan ke liye maut hai gham-e-be-watani ka",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 11,
+    "name": "کوفے میں داخلہ ہے سفیر امام کا",
+    "haal": "ایضاً",
+    "page": 155,
+    "romanName": "Kufe mein dakhila hai Safeer-e-Imam ka",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 12,
+    "name": "شہ نے جب چاند محرم کا سفر میں دیکھا",
+    "haal": "رویت ہلال محرم",
+    "page": 156,
+    "romanName": "Shah ne jab chand-e-Muharram ka safar mein dekha",
+    "romanHaal": "Ruyat-e-Hilal-e-Muharram"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 13,
+    "name": "اے اہل عزا پھر ایام غم کے دن آئے",
+    "haal": "آمد ایام عزا",
+    "page": 157,
+    "romanName": "Ay ahl-e-aza phir ayam-e-gham ke din aaye",
+    "romanHaal": "Amad-e-Ayyam-e-Aza"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 14,
+    "name": "حضرت کو ہوا ماہ محرم جو سفر میں",
+    "haal": "احوال جناب صغرا",
+    "page": 158,
+    "romanName": "Hazrat ko hua mah-e-Muharram jo safar mein",
+    "romanHaal": "Ahwal-e-Janab-e-Sughra"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 15,
+    "name": "جس گھڑی نہر پہ خیمے شہِ والا کے ہوئے",
+    "haal": "ورود کربلا",
+    "page": 159,
+    "romanName": "Jis ghari nehr pe khaime Shah-e-wala ke hue",
+    "romanHaal": "Wurud-e-Karbala"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 16,
+    "name": "ہفتم ماہ محرم کی ہوئی جبکہ سحر",
+    "haal": "محصوری سے رخصت تک",
+    "page": 160,
+    "romanName": "Haftum mah-e-Muharram ki hui jabke sehar",
+    "romanHaal": "Mahsuri se rukhsat tak"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 17,
+    "name": "جس دم سنی امامؑ نے صدائے حر",
+    "haal": "شہادت حضرت حر",
+    "page": 161,
+    "romanName": "Jis dam suni Imam ne sada-e-Hurr",
+    "romanHaal": "Shahadat Hazrat Hurr"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 18,
+    "name": "بانی جو رفیق شہ دیں رہ گئے دوچار",
+    "haal": "شہادت حضرت حبیب",
+    "page": 162,
+    "romanName": "Bani jo rafiq Shah-e-deen reh gaye do-char",
+    "romanHaal": "Shahadat Hazrat Habib"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 19,
+    "name": "ہفتم سے تا دہم جو ہوا قافلے کا حال",
+    "haal": "احوال اعزہ، اجمالی اصغر",
+    "page": 163,
+    "romanName": "Haftum se ta dahum jo hua qafile ka haal",
+    "romanHaal": "Ahwal-e-Aizza, ijmali Asghar"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 20,
+    "name": "مسلم کے لال جبکہ شہید جفا ہوئے",
+    "haal": "رخصت عون و محمد",
+    "page": 165,
+    "romanName": "Muslim ke laal jabke shaheed-e-jafa hue",
+    "romanHaal": "Rukhsat-e-Aun-o-Muhammad"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 21,
+    "name": "رن میں زینب کی جو آغوش کے پالے آئے",
+    "haal": "شہادت عون و محمد",
+    "page": 167,
+    "romanName": "Ran mein Zainab ki jo aaghosh ke pale aaye",
+    "romanHaal": "Shahadat-e-Aun-o-Muhammad"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 22,
+    "name": "جب زخم کھا کے بنت علی کے پسر گرے",
+    "haal": "ایضاً",
+    "page": 168,
+    "romanName": "Jab zakhm kha ke Bint-e-Ali ke pisar gire",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 23,
+    "name": "زینب جو ننگے پاؤں کھڑی تھی قریب در",
+    "haal": "ایضاً",
+    "page": 169,
+    "romanName": "Zainab jo nange paon khari thi qareeb-e-dar",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 24,
+    "name": "رخصت ہوا حسین سے جب نوجوان پسر",
+    "haal": "شہادت حضرت علی اکبر",
+    "page": 170,
+    "romanName": "Rukhsat hua Hussain se jab naujawan pisar",
+    "romanHaal": "Shahadat Hazrat Ali Akbar"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 25,
+    "name": "اکبر کی لاش جبکہ نہ پائی حسین نے",
+    "haal": "ایضاً",
+    "page": 171,
+    "romanName": "Akbar ki laash jabke na payi Hussain ne",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 26,
+    "name": "پہنچے پسر کی لاش پہ جب شاہ بحر و بر",
+    "haal": "لاش اکبر در خیمہ",
+    "page": 172,
+    "romanName": "Pahunche pisar ki laash pe jab Shah-e-bahr-o-bar",
+    "romanHaal": "Laash-e-Akbar dar khaima"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 27,
+    "name": "چھوٹا جو شاہ سے پیری میں نوجوان فرزند",
+    "haal": "شہادت حضرت علی اکبر",
+    "page": 173,
+    "romanName": "Chhuta jo Shah se peeri mein naujawan farzand",
+    "romanHaal": "Shahadat Hazrat Ali Akbar"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 28,
+    "name": "جب دلبر زہرا کی شہادت کا دن آیا",
+    "haal": "ایضاً",
+    "page": 175,
+    "romanName": "Jab dilbar-e-Zahra ki shahadat ka din aaya",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 29,
+    "name": "لاش اکبر کی جو مقتل سے اٹھا لائے حسین",
+    "haal": "ایضاً",
+    "page": 177,
+    "romanName": "Laash-e-Akbar ki jo maqtal se utha laye Hussain",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 30,
+    "name": "پھری جو مومنوں سے سواری اکبر کی",
+    "haal": "لاش اکبر در خیمہ",
+    "page": 178,
+    "romanName": "Phiri jo mominon se sawari Akbar ki",
+    "romanHaal": "Laash-e-Akbar dar khaima"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 31,
+    "name": "جب لاش پسر کو اٹھایا حسین نے",
+    "haal": "ایضاً",
+    "page": 179,
+    "romanName": "Jab laash-e-pisar ko uthaya Hussain ne",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 32,
+    "name": "پہنچا جو رن میں شیر ذی جاہ کا پسر",
+    "haal": "شہادت حضرت قاسم",
+    "page": 180,
+    "romanName": "Pahuncha jo ran mein sher-e-zi-jah ka pisar",
+    "romanHaal": "Shahadat Hazrat Qasim"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 33,
+    "name": "گھوڑے سے جبکہ قاسم گلگوں قبا گرا",
+    "haal": "ایضاً",
+    "page": 181,
+    "romanName": "Ghore se jabke Qasim gulgun qaba gira",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 34,
+    "name": "قریب لاش قاسم جو پہنچے سرور دیں",
+    "haal": "ایضاً",
+    "page": 182,
+    "romanName": "Qareeb laash-e-Qasim jo pahunche Sarwar-e-deen",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 35,
+    "name": "مشک بھر کر سوئے خیمہ جو علمدار چلے",
+    "haal": "شہادت حضرت عباس",
+    "page": 183,
+    "romanName": "Mashk bhar kar su-e-khaima jo Alamdar chale",
+    "romanHaal": "Shahadat Hazrat Abbas"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 36,
+    "name": "جب ہوئے بازوئے عباس قلم دریا پر",
+    "haal": "ایضاً",
+    "page": 184,
+    "romanName": "Jab hue bazu-e-Abbas qalam darya par",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 37,
+    "name": "تیغ کا وار جو عباس کے شانے پہ لگا",
+    "haal": "ایضاً",
+    "page": 185,
+    "romanName": "Tegh ka war jo Abbas ke shane pe laga",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 38,
+    "name": "جب زانوئے حسین پہ عباس مر گئے",
+    "haal": "ایضاً",
+    "page": 186,
+    "romanName": "Jab zanu-e-Hussain pe Abbas mar gaye",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 39,
+    "name": "شبیر جبکہ رن سے چلے سوئے خیمہ گاہ",
+    "haal": "پردۂ شہادت حضرت عباس",
+    "page": 187,
+    "romanName": "Shabbir jabke ran se chale su-e-khaima-gah",
+    "romanHaal": "Parda-e-Shahadat Hazrat Abbas"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 40,
+    "name": "لکھا ہے جب کوئی حامی نہ شاہ دیں کا رہا",
+    "haal": "رخصت و شہادت علی اصغر",
+    "page": 188,
+    "romanName": "Likha hai jab koi hami na Shah-e-deen ka raha",
+    "romanHaal": "Rukhsat-o-Shahadat Ali Asghar"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 41,
+    "name": "مومنو بے کس و بے یار ہے مظلوم حسین",
+    "haal": "قائم مقام عباس و اکبر کا پرسہ",
+    "page": 190,
+    "romanName": "Momino be-kas-o-be-yar hai mazloom Hussain",
+    "romanHaal": "Qaim-maqam Abbas-o-Akbar ka pursa"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 42,
+    "name": "ریتی پہ برچھی کھائے پڑا تھا جو نور عین",
+    "haal": "رخصت و شہادت علی اصغر",
+    "page": 191,
+    "romanName": "Reti pe barchhi khaye para tha jo noor-e-ain",
+    "romanHaal": "Rukhsat-o-Shahadat Ali Asghar"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 43,
+    "name": "گہوارے سے حسین جو اصغر کو لے چلے",
+    "haal": "ایضاً",
+    "page": 192,
+    "romanName": "Gahware se Hussain jo Asghar ko le chale",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 44,
+    "name": "پہنچے جو قتل گاہ میں شاہِ فلک جناب",
+    "haal": "ایضاً",
+    "page": 193,
+    "romanName": "Pahunche jo qatl-gah mein Shah-e-falak-janab",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 45,
+    "name": "بازو پھیلے پر اصغر کیلئے روتی ہے",
+    "haal": "ایضاً",
+    "page": 194,
+    "romanName": "Bazu phaile par Asghar ke liye roti hai",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 46,
+    "name": "امام پاک کو جب اشقیا نے گھیر لیا",
+    "haal": "احوال شب عاشور",
+    "page": 195,
+    "romanName": "Imam-e-Pak ko jab ashqiya ne gher liya",
+    "romanHaal": "Ahwal-e-Shab-e-Ashur"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 47,
+    "name": "کتب میں ہے شب عاشور کا یہ حال لکھا",
+    "haal": "ایضاً",
+    "page": 196,
+    "romanName": "Kutub mein hai shab-e-Ashur ka ye haal likha",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 48,
+    "name": "لکھا ہے جب شب عاشور گزری ایک پہر",
+    "haal": "ایضاً",
+    "page": 198,
+    "romanName": "Likha hai jab shab-e-Ashur guzri ek pehar",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 49,
+    "name": "کوفے کو چلا قاصدِ صغرا جو وطن سے",
+    "haal": "آمد قاصد صغرا در کربلا",
+    "page": 199,
+    "romanName": "Kufe ko chala qasid-e-Sughra jo watan se",
+    "romanHaal": "Amad-e-Qasid-e-Sughra dar Karbala"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 50,
+    "name": "اتنی گاہ میں پہنچے جو شہِ جن و بشر",
+    "haal": "ایضاً",
+    "page": 200,
+    "romanName": "Itni gah mein pahunche jo Shah-e-jinn-o-bashar",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 51,
+    "name": "عباس کو حسین جو دریا پہ رو چکے",
+    "haal": "شہادت امام حسین",
+    "page": 201,
+    "romanName": "Abbas ko Hussain jo darya pe ro chuke",
+    "romanHaal": "Shahadat Imam Hussain"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 52,
+    "name": "جب رن میں سبط احمد تنہا رہ گیا",
+    "haal": "بوقت عصر اک مسافر کا آنا",
+    "page": 203,
+    "romanName": "Jab ran mein Sibt-e-Ahmad tanha reh gaya",
+    "romanHaal": "Ba-waqt-e-Asr ek musafir ka aana"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 53,
+    "name": "جب قتل رن میں ہو چکا لشکر حسین کا",
+    "haal": "عصر عاشور",
+    "page": 205,
+    "romanName": "Jab qatl ran mein ho chuka lashkar Hussain ka",
+    "romanHaal": "Asr-e-Ashur"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 54,
+    "name": "جب آخری سلام کو خیمے میں آئے شاہ",
+    "haal": "رخصت امام حسین",
+    "page": 206,
+    "romanName": "Jab aakhri salam ko khaime mein aaye Shah",
+    "romanHaal": "Rukhsat Imam Hussain"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 55,
+    "name": "جب مارے کے دشت میں وارد ہوا لشکر",
+    "haal": "ورود عمر بن سعد در کربلا",
+    "page": 207,
+    "romanName": "Jab mare ke dasht mein warid hua lashkar",
+    "romanHaal": "Wurud-e-Umar bin Saad dar Karbala"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 56,
+    "name": "جب کربلا میں شاہ کا لشکر ہوا شہید",
+    "haal": "ایضاً",
+    "page": 208,
+    "romanName": "Jab Karbala mein Shah ka lashkar hua shaheed",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 57,
+    "name": "جب ہوئی ظہر تلک قتل سپاہِ شبیر",
+    "haal": "امام کا خدا سے مکالمۂ شکر",
+    "page": 210,
+    "romanName": "Jab hui zohr talak qatl sipah-e-Shabbir",
+    "romanHaal": "Imam ka Khuda se mukalma-e-shukr"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 58,
+    "name": "اقربا کٹ گئے جب شاہ کے باری باری",
+    "haal": "رخصت آخر و تیاری سجاد",
+    "page": 211,
+    "romanName": "Aqraba kat gaye jab Shah ke bari bari",
+    "romanHaal": "Rukhsat-e-aakhir-o-tayyari-e-Sajjad"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 59,
+    "name": "جب خاتمہ بخیر ہوا فوجِ شاہ کا",
+    "haal": "رخصت آخر",
+    "page": 212,
+    "romanName": "Jab khatima ba-khair hua fauj-e-Shah ka",
+    "romanHaal": "Rukhsat-e-aakhir"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 60,
+    "name": "جس دم مکینِ خیمہ ستم خیزوں نے گرا",
+    "haal": "شہادت امام حسین",
+    "page": 213,
+    "romanName": "Jis dam makeen-e-khaima sitam-khezon ne gira",
+    "romanHaal": "Shahadat Imam Hussain"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 61,
+    "name": "پیاسا ہے کئی دن سے یداللہ کا جانی",
+    "haal": "امام کا ذوالجناح سے کلام",
+    "page": 215,
+    "romanName": "Pyasa hai kai din se Yadullah ka jani",
+    "romanHaal": "Imam ka Zuljanah se kalam"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 62,
+    "name": "لوٹا گیا جو آلِ محمد کا کارواں",
+    "haal": "بعد قتل شاہ",
+    "page": 216,
+    "romanName": "Luta gaya jo Aal-e-Muhammad ka karwan",
+    "romanHaal": "Baad-e-qatl-e-Shah"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 63,
+    "name": "غارتِ خیمۂ سرور کو جب آئے اعدا",
+    "haal": "تاراجی خيام",
+    "page": 218,
+    "romanName": "Gharat-e-khaima-e-Sarwar ko jab aaye aada",
+    "romanHaal": "Taraji-e-khayam"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 64,
+    "name": "جب رخصت حسین کا ہنگام آ گیا",
+    "haal": "فریاد زینب عصر عاشور",
+    "page": 220,
+    "romanName": "Jab rukhsat Hussain ka hangam aa gaya",
+    "romanHaal": "Faryad-e-Zainab Asr-e-Ashur"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 65,
+    "name": "جو کربلا میں ہوئی شاہ پر جفا سنیے",
+    "haal": "قبض روح امام حسین",
+    "page": 221,
+    "romanName": "Jo Karbala mein hui Shah par jafa suniye",
+    "romanHaal": "Qabz-e-ruh Imam Hussain"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 66,
+    "name": "جب رن میں قتل فوجِ شبیر کربلا ہوئی",
+    "haal": "تاراجی خيام و فریاد زینب",
+    "page": 223,
+    "romanName": "Jab ran mein qatl fauj-e-Shabbir Karbala hui",
+    "romanHaal": "Taraji-e-khayam-o-faryad-e-Zainab"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 67,
+    "name": "جب رن میں بعد شامِ غریباں سحر ہوئی",
+    "haal": "ایضاً",
+    "page": 224,
+    "romanName": "Jab ran mein baad-e-Sham-e-Ghariban sehar hui",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 68,
+    "name": "جب گل چراغِ تربتِ خیرالوراء ہوا",
+    "haal": "تاراجی خيام و شام غریباں",
+    "page": 225,
+    "romanName": "Jab gul charagh-e-turbat-e-Khair-ul-Wara hua",
+    "romanHaal": "Taraji-e-khayam-o-Sham-e-Ghariban"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 69,
+    "name": "فروغِ شامِ غریباں ہجومِ آفت ہے",
+    "haal": "شام غریباں آمد مولا علی",
+    "page": 227,
+    "romanName": "Farogh-e-Sham-e-Ghariban hujum-e-aafat hai",
+    "romanHaal": "Sham-e-Ghariban, amad-e-Maula Ali"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 70,
+    "name": "شامی جو شمعِ دیں اہلِ بکا چکے",
+    "haal": "تاراجی خيام و اسیری اہل حرم",
+    "page": 228,
+    "romanName": "Shami jo sham-e-deen ahl-e-buka chuke",
+    "romanHaal": "Taraji-e-khayam-o-aseeri-e-Ahl-e-Haram"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 71,
+    "name": "آج مقتل میں عجب بے سرو ساماں ہیں حرم",
+    "haal": "شام غریباں",
+    "page": 229,
+    "romanName": "Aaj maqtal mein ajab be-sar-o-saman hain haram",
+    "romanHaal": "Sham-e-Ghariban"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 72,
+    "name": "لکھتے ہیں راویانِ جگر سوز یہ کلام",
+    "haal": "ایضاً",
+    "page": 230,
+    "romanName": "Likhte hain rawiyan-e-jigar-soz ye kalam",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 73,
+    "name": "کربلا میں شہِ والا کے حرم لٹتے ہیں",
+    "haal": "تاراجی خيام",
+    "page": 233,
+    "romanName": "Karbala mein Shah-e-wala ke haram lutte hain",
+    "romanHaal": "Taraji-e-khayam"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 74,
+    "name": "جبکہ پابندِ سلاسل ہوئے بوئے سجاد",
+    "haal": "اسیری و روانگی از کربلا",
+    "page": 234,
+    "romanName": "Jabke paband-e-salasil hue bu-e-Sajjad",
+    "romanHaal": "Aseeri-o-rawangi az Karbala"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 75,
+    "name": "جب کربلا میں عزتِ اطہار لٹ گئی",
+    "haal": "ایضاً",
+    "page": 235,
+    "romanName": "Jab Karbala mein izzat-e-athar lut gayi",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 76,
+    "name": "جب لٹ کے کربلا سے اسیرِ ستم چلے",
+    "haal": "ایضاً",
+    "page": 236,
+    "romanName": "Jab lut ke Karbala se aseer-e-sitam chale",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 77,
+    "name": "یوں رقم کرتا ہے اک راویِ مغموم و نگار",
+    "haal": "احوال بازار کوفہ",
+    "page": 237,
+    "romanName": "Yun raqam karta hai ek rawi-e-maghmum-o-nigar",
+    "romanHaal": "Ahwal-e-Bazar-e-Kufa"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 78,
+    "name": "دیارِ کوفہ میں جب آلِ مصطفیٰ آئی",
+    "haal": "مکالمہ امام حسین و زینب",
+    "page": 238,
+    "romanName": "Diyar-e-Kufa mein jab Aal-e-Mustafa aayi",
+    "romanHaal": "Mukalma Imam Hussain-o-Zainab"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 79,
+    "name": "جب حرم قلعہ تیریاں کے برابر آئے",
+    "haal": "اشتیاق و فریاد شہربانو",
+    "page": 240,
+    "romanName": "Jab haram qila tiriyan ke barabar aaye",
+    "romanHaal": "Ishtiaq-o-faryad-e-Shehrbano"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 80,
+    "name": "جب کہ شیرِ دیں نے شامیوں والا آئے",
+    "haal": "احوال شہربانو",
+    "page": 241,
+    "romanName": "Jab ke Sher-e-deen ne Shamiyon wala aaye",
+    "romanHaal": "Ahwal-e-Shehrbano"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 81,
+    "name": "آمدِ حرمِ شاہ کی دربار میں ہے",
+    "haal": "دربار شام",
+    "page": 243,
+    "romanName": "Amad-e-haram-e-Shah ki darbar mein hai",
+    "romanHaal": "Darbar-e-Sham"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 82,
+    "name": "جبکہ دربار میں ناموسِ پیغمبر آئے",
+    "haal": "سر امام در آغوش سکینہ",
+    "page": 245,
+    "romanName": "Jabke darbar mein namus-e-Payambar aaye",
+    "romanHaal": "Sar-e-Imam dar aaghosh-e-Sakina"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 83,
+    "name": "غل ہے دربار میں ناموسِ پیغمبر آئے",
+    "haal": "آمد ہند دربار میں",
+    "page": 246,
+    "romanName": "Ghul hai darbar mein namus-e-Payambar aaye",
+    "romanHaal": "Amad-e-Hind darbar mein"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 84,
+    "name": "آمد ہے اہلِ بیتِ پیغمبر کی شام میں",
+    "haal": "بازار و دربار شام و سکینہ",
+    "page": 248,
+    "romanName": "Amad hai Ahl-e-Bait-e-Payambar ki Sham mein",
+    "romanHaal": "Bazar-o-Darbar-e-Sham-o-Sakina"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 85,
+    "name": "لکھا ہے دستِ بنتِ یداللہ تھا بندھا",
+    "haal": "=",
+    "page": 249,
+    "romanName": "Likha hai dast-e-Bint-e-Yadullah tha bandha",
+    "romanHaal": "="
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 86,
+    "name": "یا علی آئے زنداں میں حرم روتے ہیں",
+    "haal": "احوال قید خانہ شام",
+    "page": 249,
+    "romanName": "Ya Ali aaye zindan mein haram rote hain",
+    "romanHaal": "Ahwal-e-Qaid-khana-e-Sham"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 87,
+    "name": "سر اپنا پیٹ کے فضہ سے ہند نے پوچھا",
+    "haal": "قید خانہ میں آمد ہند",
+    "page": 250,
+    "romanName": "Sar apna peet ke Fizza se Hind ne poochha",
+    "romanHaal": "Qaid-khana mein amad-e-Hind"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 88,
+    "name": "قید خانے سے جو زینب تھا حاکم کا محل",
+    "haal": "ایضاً",
+    "page": 251,
+    "romanName": "Qaid-khane se jo Zainab tha hakim ka mahal",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 89,
+    "name": "عابد کو جب یزید سے بابا کا سر ملا",
+    "haal": "احوال دربار شام",
+    "page": 252,
+    "romanName": "Abid ko jab Yazid se Baba ka sar mila",
+    "romanHaal": "Ahwal-e-Darbar-e-Sham"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 90,
+    "name": "پہنچی جو قید خانے میں ہندِ ستمگر",
+    "haal": "مکالمہ سید سجاد و ہند",
+    "page": 253,
+    "romanName": "Pahunchi jo qaid-khane mein Hind-e-sitamgar",
+    "romanHaal": "Mukalma Syed Sajjad-o-Hind"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 91,
+    "name": "قید خانے میں ماتم ہے کہ ہند آتی ہے",
+    "haal": "ایضاً",
+    "page": 254,
+    "romanName": "Qaid-khane mein matam hai ke Hind aati hai",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 92,
+    "name": "قید خانے میں سکینہ کو جو لائی تقدیر",
+    "haal": "احوال جناب سکینہ",
+    "page": 256,
+    "romanName": "Qaid-khane mein Sakina ko jo layi taqdeer",
+    "romanHaal": "Ahwal-e-Janab-e-Sakina"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 93,
+    "name": "سرِ حسین جو زندانِ شام میں آیا",
+    "haal": "شہادت جناب سکینہ",
+    "page": 257,
+    "romanName": "Sar-e-Hussain jo zindan-e-Sham mein aaya",
+    "romanHaal": "Shahadat Janab-e-Sakina"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 94,
+    "name": "سکینہ شام کے زنداں میں تھی اسے نہ حال",
+    "haal": "ایضاً",
+    "page": 258,
+    "romanName": "Sakina Sham ke zindan mein thi use na haal",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 95,
+    "name": "زنداں میں جبکہ دخترِ شبیر مر گئی",
+    "haal": "ایضاً",
+    "page": 259,
+    "romanName": "Zindan mein jabke dukhtar-e-Shabbir mar gayi",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 96,
+    "name": "سر جو شبیر کا زندان میں لائے خدام",
+    "haal": "احوال و شہادت جناب سکینہ",
+    "page": 260,
+    "romanName": "Sar jo Shabbir ka zindan mein laye khuddam",
+    "romanHaal": "Ahwal-o-Shahadat Janab-e-Sakina"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 97,
+    "name": "جب قید سے اسیر رہا ہو گئے تمام",
+    "haal": "رہائی اہل بیت",
+    "page": 262,
+    "romanName": "Jab qaid se aseer riha ho gaye tamam",
+    "romanHaal": "Rihai-e-Ahl-e-Bait"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 98,
+    "name": "حسین بے کس پہ رونے پر کا آج چہلم ہے",
+    "haal": "چہلم شہداء کربلا",
+    "page": 263,
+    "romanName": "Hussain be-kas pe rone par ka aaj chehlum hai",
+    "romanHaal": "Chehlum-e-Shohada-e-Karbala"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 99,
+    "name": "چہلم جو کربلا میں بہتر (72) کا ہو چکا",
+    "haal": "چہلم شہداء کربلا",
+    "page": 263,
+    "romanName": "Chehlum jo Karbala mein bahattar (72) ka ho chuka",
+    "romanHaal": "Chehlum-e-Shohada-e-Karbala"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 100,
+    "name": "شام سے جب اہلِ بیتِ غم زدہ کربلا چلے",
+    "haal": "رہائی و چہلم شہداء کربلا",
+    "page": 264,
+    "romanName": "Sham se jab Ahl-e-Bait-e-gham-zada Karbala chale",
+    "romanHaal": "Rihai-o-Chehlum-e-Shohada-e-Karbala"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 101,
+    "name": "پہنچے اسیرِ شام سے چھوٹ کر جو کربلا",
+    "haal": "قبور شہداء پر ماتم کے بین",
+    "page": 265,
+    "romanName": "Pahunche aseer-e-Sham se chhut kar jo Karbala",
+    "romanHaal": "Qubur-e-shohada par matam ke bain"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 102,
+    "name": "جب مشہد کے قریب شام سے حجاز کو چلے",
+    "haal": "یاد و اقرباء",
+    "page": 266,
+    "romanName": "Jab Mashhad ke qareeb Sham se Hijaz ko chale",
+    "romanHaal": "Yaad-o-aqraba"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 103,
+    "name": "چھٹ کر جب آیا شام سے کنبہ رسول کا",
+    "haal": "واپسی مدینہ",
+    "page": 267,
+    "romanName": "Chhut kar jab aaya Sham se kunba-e-Rasul ka",
+    "romanHaal": "Wapsi Madina"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 104,
+    "name": "جب آنکھوں کے قرار قید سے چھوٹے",
+    "haal": "رہائی اہل بیت",
+    "page": 269,
+    "romanName": "Jab aankhon ke qarar qaid se chhute",
+    "romanHaal": "Rihai-e-Ahl-e-Bait"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 105,
+    "name": "وطن میں جب حرم شاہ نامدار آئے",
+    "haal": "واپسی مدینہ",
+    "page": 270,
+    "romanName": "Watan mein jab haram Shah-e-namdar aaye",
+    "romanHaal": "Wapsi Madina"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 106,
+    "name": "یثرب سے کربلا کے مسافر قریب ہیں",
+    "haal": "ایضاً",
+    "page": 271,
+    "romanName": "Yasrab se Karbala ke musafir qareeb hain",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 107,
+    "name": "لکھا ہے چھوٹ کے یثرب میں جب حرم آئے",
+    "haal": "ایضاً",
+    "page": 272,
+    "romanName": "Likha hai chhut ke Yasrab mein jab haram aaye",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 108,
+    "name": "مالکِ سلطنت کوفہ جو خفا ہوئے",
+    "haal": "ورود در مظالم",
+    "page": 273,
+    "romanName": "Malik-e-saltanat Kufa jo khafa hue",
+    "romanHaal": "Wurud dar mazalim"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 109,
+    "name": "حسین سبطِ رسول و حسن سلام علیک",
+    "haal": "الوداع و سلام رخصت",
+    "page": 274,
+    "romanName": "Hussain Sibt-e-Rasul-o-Hasan salam alaik",
+    "romanHaal": "Alwida-o-salam-e-rukhsat"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 110,
+    "name": "واحسرتا کہ شاہ کا غم ہوا تمام",
+    "haal": "ایضاً",
+    "page": 276,
+    "romanName": "Wa-hasrata ke Shah ka gham hua tamam",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 111,
+    "name": "ہاں دوستو کوئی نہ ہوا اب شور و شین میں",
+    "haal": "ایضاً",
+    "page": 277,
+    "romanName": "Haan dosto koi na hua ab shor-o-shain mein",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 112,
+    "name": "ماں کا جو سایہ فاطمہ کے سر سے اٹھ گیا",
+    "haal": "رحلت حضرت خدیجہ",
+    "page": 278,
+    "romanName": "Maan ka jo saya Fatima ke sar se uth gaya",
+    "romanHaal": "Rehlat Hazrat Khadija"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 113,
+    "name": "آیا بہشتِ قربِ نبی کا دمِ وصال",
+    "haal": "رحلت رسول خدا",
+    "page": 279,
+    "romanName": "Aaya bahisht-e-qurb-e-Nabi ka dam-e-wisal",
+    "romanHaal": "Rehlat-e-Rasul-e-Khuda"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 114,
+    "name": "بیمار جب کہ احمد مختار ہو گئے",
+    "haal": "رحلت رسول خدا",
+    "page": 280,
+    "romanName": "Bimar jab ke Ahmad-e-Mukhtar ho gaye",
+    "romanHaal": "Rehlat-e-Rasul-e-Khuda"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 115,
+    "name": "اے اشکو رکو کہ یہ فصلِ عزا ہے",
+    "haal": "ایضاً",
+    "page": 281,
+    "romanName": "Ay ashko ruko ke ye fasl-e-aza hai",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 116,
+    "name": "تھا یاد میں نبی کی جو زہرا کا غیر حال",
+    "haal": "بعد رسول خدا تا رحلت سیدہ",
+    "page": 282,
+    "romanName": "Tha yaad mein Nabi ki jo Zahra ka ghair haal",
+    "romanHaal": "Baad-e-Rasul-e-Khuda ta rehlat-e-Sayyida"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 117,
+    "name": "بابا کو روتے روتے جو زہرا گزر گئی",
+    "haal": "شہادت جناب سیدہ",
+    "page": 284,
+    "romanName": "Baba ko rote rote jo Zahra guzar gayi",
+    "romanHaal": "Shahadat Janab-e-Sayyida"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 118,
+    "name": "جب خلق سے وقتِ سفرِ فاطمہ آیا",
+    "haal": "ایضاً",
+    "page": 285,
+    "romanName": "Jab khalq se waqt-e-safar-e-Fatima aaya",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 119,
+    "name": "راوی بیان کرتا ہے زہرا کا ماجرا",
+    "haal": "ایضاً",
+    "page": 286,
+    "romanName": "Rawi bayan karta hai Zahra ka majra",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 120,
+    "name": "دنیا سے جب گزر گئیں زہرا جگر فگار",
+    "haal": "ایضاً",
+    "page": 287,
+    "romanName": "Duniya se jab guzar gayin Zahra jigar-figar",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 121,
+    "name": "دنیا سے آج رحلتِ بنتِ رسول ہے",
+    "haal": "ایضاً",
+    "page": 288,
+    "romanName": "Duniya se aaj rehlat-e-Bint-e-Rasul hai",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 122,
+    "name": "تنہا جو رن میں رہ گیا زہرا کا گل بدن",
+    "haal": "",
+    "page": 289,
+    "romanName": "Tanha jo ran mein reh gaya Zahra ka gul-badan",
+    "romanHaal": ""
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 123,
+    "name": "زخمی ہوئے جو حیدرِ صفدر نماز میں",
+    "haal": "ضربت بر فرق مولاعلی",
+    "page": 289,
+    "romanName": "Zakhmi hue jo Haider-e-Safdar namaz mein",
+    "romanHaal": "Zarbat bar farq-e-Maula Ali"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 124,
+    "name": "انیسویں (19) سے آپ کا ماتم ہے یا علی",
+    "haal": "=",
+    "page": 290,
+    "romanName": "Unniswin (19) se aap ka matam hai Ya Ali",
+    "romanHaal": "="
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 125,
+    "name": "اکیسویں (21) کی رات قیامت کی رات تھی",
+    "haal": "شہادت امیرالمومنین",
+    "page": 291,
+    "romanName": "Ikkiswin (21) ki raat qayamat ki raat thi",
+    "romanHaal": "Shahadat Amir-ul-Momineen"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 126,
+    "name": "اے روزہ دارو آؤ بکا کے یہ روز ہیں",
+    "haal": "شہادت امیرالمومنین",
+    "page": 292,
+    "romanName": "Ay roza-daro aao buka ke ye roz hain",
+    "romanHaal": "Shahadat Amir-ul-Momineen"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 127,
+    "name": "کیا سبطِ مصطفیٰ کی شہادت کی رات تھی",
+    "haal": "شہادت امام حسن",
+    "page": 293,
+    "romanName": "Kya Sibt-e-Mustafa ki shahadat ki raat thi",
+    "romanHaal": "Shahadat Imam Hasan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 128,
+    "name": "شربتِ تیغ سے شبیر نے وہ کلفت پائی",
+    "haal": "ایضاً",
+    "page": 294,
+    "romanName": "Sharbat-e-tegh se Shabbir ne woh kulfat payi",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 129,
+    "name": "جس دم حسن کا زہر سے کلیجہ جگر ہوا",
+    "haal": "ایضاً",
+    "page": 296,
+    "romanName": "Jis dam Hasan ka zehar se kaleja jigar hua",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 130,
+    "name": "زہرِ دغا سے غیر جو حالِ حسن ہوا",
+    "haal": "ایضاً",
+    "page": 297,
+    "romanName": "Zahr-e-dagha se ghair jo haal-e-Hasan hua",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 131,
+    "name": "کفن پہنا کے جو شبّر کو لے چلے شبیر",
+    "haal": "ایضاً",
+    "page": 298,
+    "romanName": "Kafan pehna ke jo Shabbar ko le chale Shabbir",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 132,
+    "name": "ہاں دوستو یہ وقت ہے اندوہ و غم کا",
+    "haal": "ایضاً",
+    "page": 299,
+    "romanName": "Haan dosto ye waqt hai andoh-o-gham ka",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 133,
+    "name": "دفنِ جنازہ ہوا شاہ حسن کا جب",
+    "haal": "شہادت امام حسن",
+    "page": 300,
+    "romanName": "Dafn-e-janaza hua Shah Hasan ka jab",
+    "romanHaal": "Shahadat Imam Hasan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 134,
+    "name": "جس دم جنازہ پر شاہِ لاثانی",
+    "haal": "شہادت امام حسن",
+    "page": 302,
+    "romanName": "Jis dam janaza par Shah-e-lasani",
+    "romanHaal": "Shahadat Imam Hasan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 135,
+    "name": "پڑا ہے جس میں حسین غریب کا جانی",
+    "haal": "شہادت سید سجاد",
+    "page": 303,
+    "romanName": "Para hai jis mein Hussain ghareeb ka jani",
+    "romanHaal": "Shahadat Syed Sajjad"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 136,
+    "name": "جب عابد پاک کو پیامِ اجل آیا",
+    "haal": "ایضاً",
+    "page": 304,
+    "romanName": "Jab Abid-e-Pak ko payam-e-ajal aaya",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 137,
+    "name": "ہاں گھر والو ظالمانِ رسولِ دو جہاں",
+    "haal": "شہادت امام محمد باقر",
+    "page": 305,
+    "romanName": "Haan ghar walo zaliman-e-Rasul-e-do-jahan",
+    "romanHaal": "Shahadat Imam Muhammad Baqir"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 138,
+    "name": "حضرت رباب ہے مدینے میں قیامت سے قریب",
+    "haal": "ایضاً",
+    "page": 306,
+    "romanName": "Hazrat Rubab hai Madine mein qayamat se qareeb",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 139,
+    "name": "قول صادق ہے حسین دل سے غلامان حسین",
+    "haal": "شہادت امام جعفر صادق",
+    "page": 307,
+    "romanName": "Qaul-e-Sadiq hai Hussain dil se ghulaman-e-Hussain",
+    "romanHaal": "Shahadat Imam Jafar Sadiq"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 140,
+    "name": "قتل کا غم کا وہ غم جو عباسی نے",
+    "haal": "شہادت امام موسیٰ کاظم",
+    "page": 309,
+    "romanName": "Qatl ka gham ka woh gham jo Abbasi ne",
+    "romanHaal": "Shahadat Imam Musa Kazim"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 141,
+    "name": "وارثِ حیدر و شاکر تھے جو راضی بہ رضا",
+    "haal": "شہادت امام علی رضا",
+    "page": 311,
+    "romanName": "Waris-e-Haider-o-Shakir the jo razi ba-raza",
+    "romanHaal": "Shahadat Imam Ali Raza"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 142,
+    "name": "قضا ہوئی عالمِ غربت میں رضا کا عالم",
+    "haal": "ایضاً",
+    "page": 312,
+    "romanName": "Qaza hui alam-e-ghurbat mein Raza ka alam",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 143,
+    "name": "قید میں مولا تقی شام و سحر روتے تھے",
+    "haal": "شہادت امام محمد تقی",
+    "page": 313,
+    "romanName": "Qaid mein Maula Taqi Sham-o-sehar rote the",
+    "romanHaal": "Shahadat Imam Muhammad Taqi"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 144,
+    "name": "قید ہو کر جو چلے شہرِ مدینہ سے تقی",
+    "haal": "ایضاً",
+    "page": 314,
+    "romanName": "Qaid ho kar jo chale shehr-e-Madina se Taqi",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 145,
+    "name": "کوفہ ظلم تھا جو مولا تقی نے سہا",
+    "haal": "شہادت امام علی نقی",
+    "page": 315,
+    "romanName": "Kufa zulm tha jo Maula Taqi ne saha",
+    "romanHaal": "Shahadat Imam Ali Naqi"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 146,
+    "name": "جب زہر سے شہید ہوئے گیارہویں امام",
+    "haal": "شہادت امام حسن عسکری",
+    "page": 316,
+    "romanName": "Jab zehar se shaheed hue gyarhwin Imam",
+    "romanHaal": "Shahadat Imam Hasan Askari"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 147,
+    "name": "معتمد کا تھا زمانہ کہ ہوا ظلم یہ آہ",
+    "haal": "ایضاً",
+    "page": 317,
+    "romanName": "Mutamid ka tha zamana ke hua zulm ye aah",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 148,
+    "name": "چھپ کر پردے سے عسکری رہتے",
+    "haal": "ایضاً",
+    "page": 318,
+    "romanName": "Chhup kar parde se Askari rehte",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 149,
+    "name": "اے صاحب الزماں یہ زمانہ امام کا ہے",
+    "haal": "امام زمانہ اور کربلا",
+    "page": 319,
+    "romanName": "Ay Sahib-uz-Zaman ye zamana Imam ka hai",
+    "romanHaal": "Imam-e-Zamana aur Karbala"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 150,
+    "name": "سجاد جب دوبارہ اسیرِ جفا ہوئے",
+    "haal": "شہادت جناب زینب",
+    "page": 320,
+    "romanName": "Sajjad jab dobara aseer-e-jafa hue",
+    "romanHaal": "Shahadat Janab-e-Zainab"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 151,
+    "name": "جب کربلا سے لٹ کے وطن کو حرم پھرے",
+    "haal": "رحلت جناب رباب",
+    "page": 322,
+    "romanName": "Jab Karbala se lut ke watan ko haram phire",
+    "romanHaal": "Rehlat Janab-e-Rubab"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 152,
+    "name": "تختِ قیدِ کوفہ سے جب ہو گئے رہا",
+    "haal": "ایضاً",
+    "page": 323,
+    "romanName": "Takht-e-qaid-e-Kufa se jab ho gaye riha",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 153,
+    "name": "اے مومنو پھر آنکھوں میں شوال آتی ہے",
+    "haal": "انہدام جنت البقیع",
+    "page": 324,
+    "romanName": "Ay momino phir aankhon mein Shawwal aati hai",
+    "romanHaal": "Inhedam-e-Jannat-ul-Baqi"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 154,
+    "name": "جانِ نبی و خاصۂ داور ہے فاطمہ",
+    "haal": "ایضاً",
+    "page": 325,
+    "romanName": "Jan-e-Nabi-o-khasa-e-Dawar hai Fatima",
+    "romanHaal": "Aizan"
+  },
+  {
+    "section": "مرثیے",
+    "sectionRoman": "Marsiye",
+    "number": 155,
+    "name": "اے سوگوارو آؤ وفا کا مقام ہے",
+    "haal": "الوداع",
+    "page": 326,
+    "romanName": "Ay sogwaro aao wafa ka maqam hai",
+    "romanHaal": "Alwida"
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 1,
+    "name": "لاچار حسینا ہے یا حسینا (متن)",
+    "haal": "",
+    "page": 328,
+    "romanName": "Lachar Hussaina hai Ya Hussaina (matn)",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 2,
+    "name": "جو پیاسے برادر شہید، اے برادر (متن)",
+    "haal": "",
+    "page": 329,
+    "romanName": "Jo pyase baradar shaheed, ay baradar (matn)",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 3,
+    "name": "[عنوان جزوی طور پر غیر واضح] سکینہ (متن)",
+    "haal": "",
+    "page": 329,
+    "romanName": "[Unwan juzwi taur par ghair wazeh] Sakina (matn)",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 4,
+    "name": "[عنوان جزوی طور پر غیر واضح] (متن)",
+    "haal": "",
+    "page": 329,
+    "romanName": "[Unwan juzwi taur par ghair wazeh] (matn)",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 5,
+    "name": "لاچار کھڑی ہے، بے یار کھڑی ہے (متن)",
+    "haal": "",
+    "page": 330,
+    "romanName": "Lachar khari hai, be-yar khari hai (matn)",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 6,
+    "name": "پیاسوں سے زیادہ درد۔۔۔دردِ آب کا پانی",
+    "haal": "",
+    "page": 330,
+    "romanName": "Pyason se zyada dard... dard-e-aab ka pani",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 7,
+    "name": "ملتی ہے ریت میں روتا ہے فلک۔۔۔والی ہے",
+    "haal": "",
+    "page": 331,
+    "romanName": "Milti hai ret mein rota hai falak... wali hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 8,
+    "name": "بنتِ زہرا پہ کیا تھی رو رو۔۔۔اللہ شہ دادو",
+    "haal": "",
+    "page": 331,
+    "romanName": "Bint-e-Zahra pe kya thi ro ro... Allah Shah dado",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 9,
+    "name": "روزہ دارو قیامت کے دن ہیں",
+    "haal": "",
+    "page": 332,
+    "romanName": "Roza-daro qayamat ke din hain",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 10,
+    "name": "سواری ہے شبیر کربلا کی",
+    "haal": "",
+    "page": 332,
+    "romanName": "Sawari hai Shabbir Karbala ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 11,
+    "name": "آقا کی سواری ہے فرشِ عزا سے ادب سے",
+    "haal": "",
+    "page": 333,
+    "romanName": "Aqa ki sawari hai farsh-e-aza se adab se",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 12,
+    "name": "بین / قطعات (سید جعفر)",
+    "haal": "",
+    "page": 334,
+    "romanName": "Bain / qitaat (Syed Jafar)",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 13,
+    "name": "عزاداروں سے خطاب",
+    "haal": "",
+    "page": 334,
+    "romanName": "Azadaron se khitab",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 14,
+    "name": "زینب نے کہا۔۔۔اب آئے ہو بابا",
+    "haal": "",
+    "page": 334,
+    "romanName": "Zainab ne kaha... ab aaye ho Baba",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 15,
+    "name": "اے اہلِ ماتم [جزوی طور پر غیر واضح] اپنا علم",
+    "haal": "",
+    "page": 335,
+    "romanName": "Ay ahl-e-matam [juzwi taur par ghair wazeh] apna alam",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 16,
+    "name": "کربلا کی فضاؤں میں۔۔۔ماں کی صدا ہے",
+    "haal": "",
+    "page": 336,
+    "romanName": "Karbala ki fazaon mein... maan ki sada hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 17,
+    "name": "دم بہ دم ان کا غم گہرے جاؤ",
+    "haal": "",
+    "page": 337,
+    "romanName": "Dam ba dam un ka gham gehre jao",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 18,
+    "name": "غمِ حسین منانا بہت ضروری ہے",
+    "haal": "",
+    "page": 337,
+    "romanName": "Gham-e-Hussain manana bohat zaruri hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 19,
+    "name": "شبیر کربلا بابا غریب و بے وطن بابا",
+    "haal": "",
+    "page": 338,
+    "romanName": "Shabbir Karbala Baba ghareeb-o-be-watan Baba",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 20,
+    "name": "میرے غریب ابو ذراغ، میرے شبیر ابو ذراغ",
+    "haal": "",
+    "page": 339,
+    "romanName": "Mere ghareeb Abu Zaragh, mere Shabbir Abu Zaragh",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 21,
+    "name": "دشت پہ ہوں میں۔۔۔خیموں کے قریب",
+    "haal": "",
+    "page": 339,
+    "romanName": "Dasht pe hun main... khaimon ke qareeb",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 22,
+    "name": "میرے بابا۔۔۔میرے بابا۔۔۔",
+    "haal": "",
+    "page": 340,
+    "romanName": "Mere Baba... mere Baba...",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 23,
+    "name": "کس قاتلوں کا تھا حسین کا سہرا",
+    "haal": "",
+    "page": 340,
+    "romanName": "Kis qatilon ka tha Hussain ka sehra",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 24,
+    "name": "عباس کہاں ہو",
+    "haal": "",
+    "page": 341,
+    "romanName": "Abbas kahan ho",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 25,
+    "name": "رو رو کے پوچھتی ہیں بانو شہِ زمن سے",
+    "haal": "",
+    "page": 341,
+    "romanName": "Ro ro ke poochhti hain Bano Shah-e-Zaman se",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 26,
+    "name": "روایتِ شامِ غریباں [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 342,
+    "romanName": "Riwayat-e-Sham-e-Ghariban [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 27,
+    "name": "شہ نے زخم سے زینب کو پکارا ہے",
+    "haal": "",
+    "page": 344,
+    "romanName": "Shah ne zakhm se Zainab ko pukara hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 28,
+    "name": "گھبرائے گی زینب، مر جائے گی زینب",
+    "haal": "",
+    "page": 346,
+    "romanName": "Ghabraye gi Zainab, mar jaye gi Zainab",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 29,
+    "name": "سلام خاک نشینوں پہ سوگواروں کا",
+    "haal": "",
+    "page": 346,
+    "romanName": "Salam khaak-nashinon pe sogwaron ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 30,
+    "name": "بے پردہ حرم ہیں ساتھ۔۔۔پڑیا ہے",
+    "haal": "",
+    "page": 347,
+    "romanName": "Be-parda haram hain saath... pariya hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 31,
+    "name": "پردیسی کیسے والوں کی یاد جو پھر چھوٹی ہے",
+    "haal": "",
+    "page": 348,
+    "romanName": "Pardesi kaise walon ki yaad jo phir chhuti hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 32,
+    "name": "نشانِ فوجِ شبیر مٹا جاتا ہے",
+    "haal": "",
+    "page": 348,
+    "romanName": "Nishan-e-fauj-e-Shabbir mita jata hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 33,
+    "name": "مسلمانو! والے میرے!",
+    "haal": "",
+    "page": 349,
+    "romanName": "Musalmano! wale mere!",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 34,
+    "name": "ہائے اکبر جواں، ہائے اکبر جواں",
+    "haal": "",
+    "page": 350,
+    "romanName": "Haye Akbar jawan, haye Akbar jawan",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 35,
+    "name": "کمر پر شام ہوتی ہے اصغر",
+    "haal": "",
+    "page": 350,
+    "romanName": "Kamar par Sham hoti hai Asghar",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 36,
+    "name": "اب کس کا انتظار ہے، آؤ سکینہ گھر چلو",
+    "haal": "",
+    "page": 351,
+    "romanName": "Ab kis ka intizar hai, aao Sakina ghar chalo",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 37,
+    "name": "اے سکینہ اب [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 352,
+    "romanName": "Ay Sakina ab [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 38,
+    "name": "مادرِ حسین جو سہانی کربلا، روئی نوحہ",
+    "haal": "",
+    "page": 352,
+    "romanName": "Madar-e-Hussain jo suhani Karbala, royi nauha",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 39,
+    "name": "معصوم تر بیت میں بھی ظلم نے ستایا",
+    "haal": "",
+    "page": 353,
+    "romanName": "Masoom tar bait mein bhi zulm ne sataya",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 40,
+    "name": "ہائے قاسم نے کیا ظلم اٹھایا",
+    "haal": "",
+    "page": 353,
+    "romanName": "Haye Qasim ne kya zulm uthaya",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 41,
+    "name": "اے کربلا بتا علی اصغر کہاں گیا",
+    "haal": "",
+    "page": 354,
+    "romanName": "Ay Karbala bata Ali Asghar kahan gaya",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 42,
+    "name": "بعدِ حسین کس نے کہا میں یتیم ہوں",
+    "haal": "",
+    "page": 355,
+    "romanName": "Baad-e-Hussain kis ne kaha main yateem hun",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 43,
+    "name": "سر کٹا ڈالا مظلوم اور زہرا",
+    "haal": "",
+    "page": 355,
+    "romanName": "Sar kata dala mazloom aur Zahra",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 44,
+    "name": "محرم آگیا، امت کے شبیر او نہیں آئے!",
+    "haal": "",
+    "page": 356,
+    "romanName": "Muharram aa gaya, ummat ke Shabbir o nahin aaye!",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 45,
+    "name": "جب کہ غیرتِ انسان کا سوال آتا ہے",
+    "haal": "",
+    "page": 357,
+    "romanName": "Jab ke ghairat-e-insan ka sawal aata hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 46,
+    "name": "بابا کہاں ہوں، آنا ممکن ہوگا",
+    "haal": "",
+    "page": 357,
+    "romanName": "Baba kahan hun, aana mumkin hoga",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 47,
+    "name": "کربلا سے جو کبھی ہو کے ہوا آتی ہے",
+    "haal": "",
+    "page": 358,
+    "romanName": "Karbala se jo kabhi ho ke hawa aati hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 48,
+    "name": "کیا پیامِ حسین کے دل پر گزر گئے",
+    "haal": "",
+    "page": 358,
+    "romanName": "Kya payam-e-Hussain ke dil par guzar gaye",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 49,
+    "name": "یاد آتی ہے ہمیں فاطمہ صغریٰ بابا",
+    "haal": "",
+    "page": 359,
+    "romanName": "Yaad aati hai hamein Fatima Sughra Baba",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 50,
+    "name": "لوٹ آیا ہے میرا پیغمبر وطن سے دور",
+    "haal": "",
+    "page": 359,
+    "romanName": "Laut aaya hai mera Payambar watan se dur",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 51,
+    "name": "میرے بچے کی آتی ہے مہندی",
+    "haal": "",
+    "page": 360,
+    "romanName": "Mere bachche ki aati hai mehndi",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 52,
+    "name": "[عنوان جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 361,
+    "romanName": "[Unwan juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "نوحہ / بین",
+    "sectionRoman": "Nauha / Bain",
+    "number": 53,
+    "name": "مختصر زیارات",
+    "haal": "",
+    "page": 361,
+    "romanName": "Mukhtasar ziyarat",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 1,
+    "name": "سینے میں جو اک درد سا ہوتا ہے وہ تو ہے",
+    "haal": "",
+    "page": 362,
+    "romanName": "Seene mein jo ek dard sa hota hai woh tu hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 2,
+    "name": "کون کہتا ہے مجھے شانِ سکندر دے دے",
+    "haal": "",
+    "page": 363,
+    "romanName": "Kaun kehta hai mujhe shan-e-Sikandar de de",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 3,
+    "name": "عزت ابو طالب سے، شہرت ابو طالب سے",
+    "haal": "",
+    "page": 363,
+    "romanName": "Izzat Abu Talib se, shohrat Abu Talib se",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 4,
+    "name": "اسے ضد ہے نہ ہوئی تو قرار ساری آپ کی",
+    "haal": "",
+    "page": 364,
+    "romanName": "Use zid hai na hui to qarar sari aap ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 5,
+    "name": "ہر سے خیال کی نسبت ہوئی ہے",
+    "haal": "",
+    "page": 365,
+    "romanName": "Har se khayal ki nisbat hui hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 6,
+    "name": "آیا یاد ولادت نبی کا، پہلا نغمہ ڈالی ڈالی",
+    "haal": "",
+    "page": 365,
+    "romanName": "Aaya yaad wiladat-e-Nabi ka, pehla naghma dali dali",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 7,
+    "name": "ہوا بانی؟!",
+    "haal": "",
+    "page": 366,
+    "romanName": "Hua bani?!",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 8,
+    "name": "لافتیٰ علیؑ پر طریقت حضرت پیغمبر [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 367,
+    "romanName": "La Fata Ali par tariqat Hazrat-e-Payambar [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 9,
+    "name": "دم کر دیں علیؑ، علیؑ مولا کو [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 367,
+    "romanName": "Dam kar dein Ali, Ali Maula ko [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 10,
+    "name": "علیؑ تمہارے / سید جعفر",
+    "haal": "",
+    "page": 368,
+    "romanName": "Ali tumhare / Syed Jafar",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 11,
+    "name": "انوروں کا گل چہرہ تو حیدر بنا دیا",
+    "haal": "",
+    "page": 369,
+    "romanName": "Anwaron ka gul chehra to Haider bana diya",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 12,
+    "name": "کرم علیؑ نہیں آتے، زندگی نہیں آتی",
+    "haal": "",
+    "page": 369,
+    "romanName": "Karam Ali nahin aate, zindagi nahin aati",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 13,
+    "name": "مدحِ حیدر نہ کروں، مجھ کو [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 371,
+    "romanName": "Madh-e-Haider na karun, mujh ko [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 14,
+    "name": "قائم آلِ محمد کا سپاہی بن کر",
+    "haal": "",
+    "page": 371,
+    "romanName": "Qaim Aal-e-Muhammad ka sipahi ban kar",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 15,
+    "name": "در صورتِ تو جہاں بود علی بود",
+    "haal": "",
+    "page": 372,
+    "romanName": "Dar surat-e-tu jahan bud Ali bud",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 16,
+    "name": "بستہ / حضرت شاداں دہلوی",
+    "haal": "",
+    "page": 372,
+    "romanName": "Basta / Hazrat Shadan Dehlvi",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 17,
+    "name": "مقامِ جشن خدا معتبر بتول کا ہے",
+    "haal": "",
+    "page": 373,
+    "romanName": "Maqam-e-jashn Khuda motabar Batool ka hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 18,
+    "name": "شاعری کی مری آفت سے منسوب ہے",
+    "haal": "",
+    "page": 374,
+    "romanName": "Shairi ki meri aafat se mansub hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 19,
+    "name": "خدا عشق بڑھتا ہوں، خدا سے بات کرتا ہوں",
+    "haal": "",
+    "page": 375,
+    "romanName": "Khuda ishq barhta hun, Khuda se baat karta hun",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 20,
+    "name": "زینب حسین کی باندی ہے، وہ حسین میرا ہے",
+    "haal": "",
+    "page": 377,
+    "romanName": "Zainab Hussain ki bandi hai, woh Hussain mera hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 21,
+    "name": "[عنوان جزوی طور پر غیر واضح] حسین ہی تو عطا کرے گا",
+    "haal": "",
+    "page": 378,
+    "romanName": "[Unwan juzwi taur par ghair wazeh] Hussain hi to ata karega",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 22,
+    "name": "آلِ نبی کے نوح علیؑ / سید جعفر",
+    "haal": "",
+    "page": 380,
+    "romanName": "Aal-e-Nabi ke nauh Ali / Syed Jafar",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 23,
+    "name": "امامِ مرد و مرداں تھے محمد باقر",
+    "haal": "",
+    "page": 381,
+    "romanName": "Imam-e-mard-o-mardan the Muhammad Baqir",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 24,
+    "name": "زمانے میں جو ہے چاندہ وہ حسن مصطفیٰ کا ہے",
+    "haal": "",
+    "page": 382,
+    "romanName": "Zamane mein jo hai chanda woh Hasan Mustafa ka hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 25,
+    "name": "کیا فضل و رحمت تھے امام موسیٰ کاظم",
+    "haal": "",
+    "page": 383,
+    "romanName": "Kya fazl-o-rahmat the Imam Musa Kazim",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 26,
+    "name": "مرجع ہے خلائق کا روضہ میرے مولا کا",
+    "haal": "",
+    "page": 384,
+    "romanName": "Marja hai khala'iq ka rauza mere Maula ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 27,
+    "name": "[عنوان جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 385,
+    "romanName": "[Unwan juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 28,
+    "name": "زمانہ نے کو ان عالی فقیہ جیسا",
+    "haal": "",
+    "page": 385,
+    "romanName": "Zamana ne ko un aali faqih jaisa",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 29,
+    "name": "شباب خیز الوداعی تم اک [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 386,
+    "romanName": "Shabab-khez alwidai tum ek [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 30,
+    "name": "حال کو سنائیں گے جب امام آئیں گے",
+    "haal": "",
+    "page": 386,
+    "romanName": "Haal ko sunayenge jab Imam aayenge",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 31,
+    "name": "ظہور کا وقت آ گیا ہے، امام سے تو لگے رہنا",
+    "haal": "",
+    "page": 388,
+    "romanName": "Zahur ka waqt aa gaya hai, Imam se to lage rehna",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 32,
+    "name": "ہر شاخِ عقیدت کو ثمر دیتے ہیں عباس",
+    "haal": "",
+    "page": 389,
+    "romanName": "Har shakh-e-aqeedat ko samar dete hain Abbas",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 33,
+    "name": "انتظار اس کا پر عرشِ علی ہوتا ہے",
+    "haal": "",
+    "page": 390,
+    "romanName": "Intizar us ka par Arsh-e-Ali hota hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 34,
+    "name": "[عنوان جزوی طور پر غیر واضح] زینب ایسی ہستی ہے",
+    "haal": "",
+    "page": 391,
+    "romanName": "[Unwan juzwi taur par ghair wazeh] Zainab aisi hasti hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 35,
+    "name": "ادب سعادت ہے خدمتِ علی اکبر کی",
+    "haal": "",
+    "page": 391,
+    "romanName": "Adab saadat hai khidmat-e-Ali Akbar ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 36,
+    "name": "حسینیت کی بقا تھے جناب زینب",
+    "haal": "",
+    "page": 392,
+    "romanName": "Hussainiyat ki baqa the Janab Zainab",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 37,
+    "name": "زینب، شبیر کے ہمسفر / [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 392,
+    "romanName": "Zainab, Shabbir ke hamsafar / [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 38,
+    "name": "منقبت (سید جعفر)",
+    "haal": "",
+    "page": 393,
+    "romanName": "Manqabat (Syed Jafar)",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 39,
+    "name": "کوئی جانے بھلا کیا تقدیر تھی معصومہ قم کی",
+    "haal": "",
+    "page": 395,
+    "romanName": "Koi jane bhala kya taqdeer thi Masuma-e-Qum ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 40,
+    "name": "خدا، مصطفیٰ، مرتضیٰ میرے مولا",
+    "haal": "",
+    "page": 395,
+    "romanName": "Khuda, Mustafa, Murtaza mere Maula",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 41,
+    "name": "آئے، آئے، اپنے مولا سے باتیں کریں",
+    "haal": "",
+    "page": 397,
+    "romanName": "Aaye, aaye, apne Maula se baatein karen",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 42,
+    "name": "بابا غم کی گئی ہیں فاطمہ بنت اسد",
+    "haal": "",
+    "page": 399,
+    "romanName": "Baba gham ki gayi hain Fatima Bint-e-Asad",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 43,
+    "name": "نام ماں فاطمہ اور فاطمہ کا عاشق",
+    "haal": "",
+    "page": 400,
+    "romanName": "Naam maan Fatima aur Fatima ka aashiq",
+    "romanHaal": ""
+  },
+  {
+    "section": "حمد، نعت و مناقب",
+    "sectionRoman": "Hamd, Naat-o-Manaqib",
+    "number": 44,
+    "name": "اللہ اللہ یہ آوازِ مدینہ",
+    "haal": "",
+    "page": 400,
+    "romanName": "Allah Allah ye awaz-e-Madina",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 1,
+    "name": "یا کاشفِ اسرار، دیجیے میری",
+    "haal": "",
+    "page": 401,
+    "romanName": "Ya Kashif-e-Asrar, dijiye meri",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 2,
+    "name": "حقیقتِ روزِ قیامت (سید جعفر)",
+    "haal": "",
+    "page": 403,
+    "romanName": "Haqiqat-e-Roz-e-Qayamat (Syed Jafar)",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 3,
+    "name": "قطعات (ڈاکٹر ناصر)",
+    "haal": "",
+    "page": 404,
+    "romanName": "Qitaat (Doctor Nasir)",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 4,
+    "name": "اے ربِ جہاں، بخش پایا کا صدقہ",
+    "haal": "",
+    "page": 404,
+    "romanName": "Ay Rabb-e-Jahan, bakhsh paya ka sadqa",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 5,
+    "name": "نویدِ حشر غم والوں سے [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 405,
+    "romanName": "Naveed-e-hashr gham walon se [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 6,
+    "name": "نور ہے جلوہ نما غیب ابو طالب میں",
+    "haal": "",
+    "page": 406,
+    "romanName": "Noor hai jalwa-numa ghaib Abu Talib mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 7,
+    "name": "سرور کون ہیں، اے غیب، سراج میں",
+    "haal": "",
+    "page": 406,
+    "romanName": "Sarwar kaun hain, ay ghaib, siraj mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 8,
+    "name": "تم ہو گئے گواہ شبِ ہجرت میں",
+    "haal": "",
+    "page": 407,
+    "romanName": "Tum ho gaye gawah shab-e-hijrat mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 9,
+    "name": "علم لے کر بہت جائے رہے [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 407,
+    "romanName": "Alam le kar bohat jaye rahe [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 10,
+    "name": "قبر ہمارے زمانے کو اٹھاتا ہے غدیر",
+    "haal": "",
+    "page": 408,
+    "romanName": "Qabr hamare zamane ko uthata hai Ghadeer",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 11,
+    "name": "عکسِ یقین آلِ عبا ہے [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 409,
+    "romanName": "Aks-e-yaqin Aal-e-Aba hai [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 12,
+    "name": "لائق جو ہو روح کو آزاد کرنے کا",
+    "haal": "",
+    "page": 409,
+    "romanName": "Laiq jo ho ruh ko azad karne ka",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 13,
+    "name": "ہر قدم کھا دے زیان [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 410,
+    "romanName": "Har qadam kha de ziyan [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 14,
+    "name": "شہید ہو کے کچھ اور [جزوی طور پر غیر واضح] میرے لال حسین",
+    "haal": "",
+    "page": 411,
+    "romanName": "Shaheed ho ke kuch aur [juzwi taur par ghair wazeh] mere laal Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 15,
+    "name": "چہل سال میں جو۔۔۔تم نہیں امام",
+    "haal": "",
+    "page": 412,
+    "romanName": "Chehal saal mein jo... tum nahin Imam",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 16,
+    "name": "عنصرِ خلق و قوت سے ہے خلقت ماں کی",
+    "haal": "",
+    "page": 413,
+    "romanName": "Unsur-e-khalq-o-quwwat se hai khilqat maan ki",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 17,
+    "name": "جو غافل کے حسین و پیار رہتا ہے",
+    "haal": "",
+    "page": 414,
+    "romanName": "Jo ghafil ke Hussain-o-pyar rehta hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 18,
+    "name": "غیروں کی محبت میں ہر کس نے کیا ہے",
+    "haal": "",
+    "page": 415,
+    "romanName": "Ghairon ki mohabbat mein har kas ne kya hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 19,
+    "name": "سوزخوانی / سرور حسین",
+    "haal": "",
+    "page": 416,
+    "romanName": "Sozkhwani / Sarwar Hussain",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 20,
+    "name": "کوئی ایسا بھی ہوتا ہے، کوئی ایسا بھی ہوتا ہے",
+    "haal": "",
+    "page": 417,
+    "romanName": "Koi aisa bhi hota hai, koi aisa bhi hota hai",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 21,
+    "name": "ہے نبی سے محبت کا دعویٰ۔۔۔حق چھوڑ دے",
+    "haal": "",
+    "page": 417,
+    "romanName": "Hai Nabi se mohabbat ka dawa... Haq chhor de",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 22,
+    "name": "یہ نظم ترجمہ ہے، جن کی تصنیف ہے (دادا زنگار)",
+    "haal": "",
+    "page": 417,
+    "romanName": "Ye nazm tarjuma hai, jin ki tasneef hai (Dada Zangar)",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 23,
+    "name": "والدین کو سلام / سید جعفر",
+    "haal": "",
+    "page": 418,
+    "romanName": "Walidain ko salam / Syed Jafar",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 24,
+    "name": "اے میری ماں، ہے پردہ تمہارا / سید جعفر",
+    "haal": "",
+    "page": 419,
+    "romanName": "Ay meri maan, hai parda tumhara / Syed Jafar",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 25,
+    "name": "اے میرے برادر ایمانی / سید جعفر",
+    "haal": "",
+    "page": 419,
+    "romanName": "Ay mere baradar-e-imani / Syed Jafar",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 26,
+    "name": "یہ زندگی تجھ سے ہے بنتِ خدیجہ / سید جعفر",
+    "haal": "",
+    "page": 420,
+    "romanName": "Ye zindagi tujh se hai Bint-e-Khadija / Syed Jafar",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 27,
+    "name": "سہرا (شاداں دہلوی)",
+    "haal": "",
+    "page": 422,
+    "romanName": "Sehra (Shadan Dehlvi)",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 28,
+    "name": "سہرا / سید جعفر زیدی",
+    "haal": "",
+    "page": 423,
+    "romanName": "Sehra / Syed Jafar Zaidi",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 29,
+    "name": "رخصتی (شاداں دہلوی)",
+    "haal": "",
+    "page": 424,
+    "romanName": "Rukhsati (Shadan Dehlvi)",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 30,
+    "name": "منظوم ترجمہ دعائے فرج / شاداں دہلوی",
+    "haal": "",
+    "page": 426,
+    "romanName": "Manzoom tarjuma Dua-e-Faraj / Shadan Dehlvi",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 31,
+    "name": "شانِ اسلاف کی دنیا کو دکھا دو اے دخترانِ نقوی",
+    "haal": "",
+    "page": 427,
+    "romanName": "Shan-e-aslaf ki duniya ko dikha do ay dukhtaran-e-Naqvi",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 32,
+    "name": "حق مولا آؤ کرو / سید جعفر",
+    "haal": "",
+    "page": 428,
+    "romanName": "Haq Maula aao karo / Syed Jafar",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 33,
+    "name": "درسِ اتحاد، علامہ حسن اعظم قریشی مرحوم",
+    "haal": "",
+    "page": 430,
+    "romanName": "Dars-e-ittehad, Allama Hasan Azam Qureshi marhoom",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 34,
+    "name": "نوجوانوں سے خطاب / علامہ حسن اعظم قریشی مرحوم",
+    "haal": "",
+    "page": 431,
+    "romanName": "Naujawanon se khitab / Allama Hasan Azam Qureshi marhoom",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 35,
+    "name": "اسے حسین ابن علی کے سامنے لاؤ اٹھو",
+    "haal": "",
+    "page": 431,
+    "romanName": "Ise Hussain ibn-e-Ali ke samne lao utho",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 36,
+    "name": "سلامت رہو نمازیو تم جہاں میں",
+    "haal": "",
+    "page": 433,
+    "romanName": "Salamat raho namaziyo tum jahan mein",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 37,
+    "name": "ذوالجناح / علامہ حسن اعظم قریشی مرحوم",
+    "haal": "",
+    "page": 433,
+    "romanName": "Zuljanah / Allama Hasan Azam Qureshi marhoom",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 38,
+    "name": "اے بیٹی زہرا، ہماری دعا / [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 434,
+    "romanName": "Ay beti Zahra, hamari dua / [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 39,
+    "name": "اے پاک وطن پائندہ باد",
+    "haal": "",
+    "page": 435,
+    "romanName": "Ay Pak Watan painda bad",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 40,
+    "name": "ماں، اشعار اہل بیت / سید منظور علی [جزوی طور پر غیر واضح]",
+    "haal": "",
+    "page": 435,
+    "romanName": "Maan, ashaar Ahl-e-Bait / Syed Manzoor Ali [juzwi taur par ghair wazeh]",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 41,
+    "name": "اصحابِ [جزوی طور پر غیر واضح] / سید جعفر زیدی",
+    "haal": "",
+    "page": 437,
+    "romanName": "Ashab-e-[juzwi taur par ghair wazeh] / Syed Jafar Zaidi",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 42,
+    "name": "حاجیہ مبارک ہو / سید جعفر زیدی",
+    "haal": "",
+    "page": 438,
+    "romanName": "Hajia mubarak ho / Syed Jafar Zaidi",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 43,
+    "name": "راہ میں تم کیا سہانی کہتے تھے دن میرے",
+    "haal": "",
+    "page": 438,
+    "romanName": "Rah mein tum kya suhani kehte the din mere",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 44,
+    "name": "دعا / سید رضا حیدری",
+    "haal": "",
+    "page": 439,
+    "romanName": "Dua / Syed Raza Haidari",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 45,
+    "name": "میرے مالک! / سید جعفر زیدی",
+    "haal": "",
+    "page": 440,
+    "romanName": "Mere Malik! / Syed Jafar Zaidi",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 46,
+    "name": "بمناسبتِ ولادت جناب سکینہ",
+    "haal": "",
+    "page": 441,
+    "romanName": "Ba-munasibat-e-wiladat Janab Sakina",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 47,
+    "name": "شاعری / مولا ارادی",
+    "haal": "",
+    "page": 442,
+    "romanName": "Shairi / Maula Iradi",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 48,
+    "name": "سلام / محرم غم زیدی",
+    "haal": "",
+    "page": 443,
+    "romanName": "Salam / Muharram Gham Zaidi",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 49,
+    "name": "وسیلۂ حیات (ماں، باپ) / رضا سروری",
+    "haal": "",
+    "page": 444,
+    "romanName": "Wasila-e-hayat (maan, baap) / Raza Sarwari",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 50,
+    "name": "جدید اشعار بعنوان ماں / رضا سروری",
+    "haal": "",
+    "page": 451,
+    "romanName": "Jadeed ashaar ba-unwan maan / Raza Sarwari",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 51,
+    "name": "باپ / رضا سروری",
+    "haal": "",
+    "page": 454,
+    "romanName": "Baap / Raza Sarwari",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 52,
+    "name": "جانے والے ہمیں آکے",
+    "haal": "",
+    "page": 461,
+    "romanName": "Jane wale hamein aake",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 53,
+    "name": "پاکستان کی بنیادوں میں / سید جعفر",
+    "haal": "",
+    "page": 462,
+    "romanName": "Pakistan ki bunyadon mein / Syed Jafar",
+    "romanHaal": ""
+  },
+  {
+    "section": "متفرقات و قومیات",
+    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
+    "number": 54,
+    "name": "ماں",
+    "haal": "",
+    "page": 463,
+    "romanName": "Maan",
+    "romanHaal": ""
+  }
+]

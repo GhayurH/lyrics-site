@@ -6,42 +6,108 @@ import {
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaPager from "../../components/BastaPager.astro";
+import settings from "../../data/basta/settings.json";
+
+const { indexStartPage, indexEndPage } = settings;
 
 export async function getStaticPaths() {
-  const pages = (
+  // getStaticPaths runs in an isolated scope in Astro.
+  // Imports are available, but parent-scope helpers/variables are not,
+  // so read the settings inside the function as well.
+  const {
+    indexStartPage: routeIndexStartPage,
+    indexEndPage: routeIndexEndPage,
+  } = settings;
+
+  const allPages = (
     await getCollection("basta", ({ data }) => data.published)
   ).sort((a, b) => a.data.page - b.data.page);
 
+  const romanPages = (
+    await getCollection("bastaRoman", ({ data }) => data.published)
+  ).sort((a, b) => a.data.page - b.data.page);
+
+  const romanByPage = new Map(
+    romanPages.map((entry) => [entry.data.page, entry]),
+  );
+
+  // The physical index scans are deliberately not separate routes.
+  const pages = allPages.filter(
+    (entry) =>
+      entry.data.page < routeIndexStartPage ||
+      entry.data.page > routeIndexEndPage,
+  );
   const availablePages = pages.map((entry) => entry.data.page);
 
-  return pages.map((entry, index) => ({
-    params: { page: String(entry.data.page) },
-    props: {
-      entry,
-      previousPage: index > 0 ? pages[index - 1].data.page : undefined,
-      nextPage:
-        index < pages.length - 1 ? pages[index + 1].data.page : undefined,
-      availablePages,
-    },
-  }));
+  const beforeIndex = pages.filter(
+    (entry) => entry.data.page < routeIndexStartPage,
+  );
+  const afterIndex = pages.filter(
+    (entry) => entry.data.page > routeIndexEndPage,
+  );
+
+  const lastBeforeIndex = beforeIndex.at(-1)?.data.page;
+  const firstAfterIndex = afterIndex[0]?.data.page;
+
+  return pages.map((entry, index) => {
+    const page = entry.data.page;
+
+    let previousHref =
+      index > 0 ? `/basta/${pages[index - 1].data.page}/` : undefined;
+    let nextHref =
+      index < pages.length - 1
+        ? `/basta/${pages[index + 1].data.page}/`
+        : undefined;
+
+    if (page === lastBeforeIndex && firstAfterIndex) {
+      nextHref = "/basta/index/";
+    }
+
+    if (page === firstAfterIndex && lastBeforeIndex) {
+      previousHref = "/basta/index/";
+    }
+
+    return {
+      params: { page: String(page) },
+      props: {
+        entry,
+        romanEntry: romanByPage.get(page),
+        previousHref,
+        nextHref,
+        availablePages,
+      },
+    };
+  });
 }
 
 interface Props {
   entry: CollectionEntry<"basta">;
-  previousPage?: number;
-  nextPage?: number;
+  romanEntry?: CollectionEntry<"bastaRoman">;
+  previousHref?: string;
+  nextHref?: string;
   availablePages: number[];
 }
 
 const {
   entry,
-  previousPage,
-  nextPage,
+  romanEntry,
+  previousHref,
+  nextHref,
   availablePages,
 } = Astro.props as Props;
 
 const page = entry.data.page;
 const urduText = (entry.body ?? "").trim();
+const romanText = (romanEntry?.body ?? "").trim();
+const hasRomanText = romanText.length > 0;
+
+// The continuous Roman edition only has anchors for actual Roman pages
+// and image-only pages. Introductory Urdu prose therefore links to the
+// Roman edition normally instead of pointing at a non-existent anchor.
+const romanEditionHref =
+  hasRomanText || entry.data.imageOnly
+    ? `/basta/roman/#page-${page}`
+    : "/basta/roman/";
 ---
 
 <BaseLayout
@@ -49,17 +115,25 @@ const urduText = (entry.body ?? "").trim();
   description={
     entry.data.imageOnly
       ? `Original scan of Basta page ${page}.`
-      : `Basta page ${page}: original scan and cleaned Urdu text.`
+      : hasRomanText
+        ? `Basta page ${page}: original scan, cleaned Urdu text, and Roman Urdu transliteration.`
+        : `Basta page ${page}: original scan and cleaned Urdu text.`
   }
 >
-  <article class="basta-page" data-pagefind-body>
+  <article
+    class:list={[
+      "basta-page",
+      hasRomanText && "basta-page-with-roman",
+    ]}
+    data-pagefind-body
+  >
     <header class="basta-page-header">
       <div class="basta-subnav" data-pagefind-ignore>
         <a href="/basta/">Basta</a>
         <span aria-hidden="true">·</span>
         <a href={`/basta/urdu/#page-${page}`}>Urdu text edition</a>
         <span aria-hidden="true">·</span>
-        <a href={`/basta/roman/#page-${page}`}>Roman edition</a>
+        <a href={romanEditionHref}>Roman edition</a>
         <span aria-hidden="true">·</span>
         <a href="/basta/index/">Index</a>
       </div>
@@ -74,15 +148,18 @@ const urduText = (entry.body ?? "").trim();
 
     <BastaPager
       currentPage={page}
-      previousPage={previousPage}
-      nextPage={nextPage}
+      previousHref={previousHref}
+      nextHref={nextHref}
       availablePages={availablePages}
+      indexStartPage={indexStartPage}
+      indexEndPage={indexEndPage}
     />
 
     <div
       class:list={[
         "basta-page-grid",
         entry.data.imageOnly && "basta-page-grid-image-only",
+        hasRomanText && "basta-page-grid-with-roman",
       ]}
     >
       <figure class="basta-original-page" data-pagefind-ignore>
@@ -99,12 +176,27 @@ const urduText = (entry.body ?? "").trim();
       {
         !entry.data.imageOnly && (
           <section
-            class="basta-page-text"
+            class="basta-page-text basta-page-urdu"
             lang="ur"
             dir="rtl"
             aria-label={`Urdu text of Basta page ${page}`}
           >
+            <h2 class="basta-page-text-heading">Urdu text</h2>
             <div class="basta-urdu-text">{urduText}</div>
+          </section>
+        )
+      }
+
+      {
+        !entry.data.imageOnly && hasRomanText && (
+          <section
+            class="basta-page-text basta-page-roman"
+            lang="en"
+            dir="ltr"
+            aria-label={`Roman Urdu text of Basta page ${page}`}
+          >
+            <h2 class="basta-page-text-heading">Roman Urdu</h2>
+            <div class="basta-roman-text">{romanText}</div>
           </section>
         )
       }
@@ -112,33 +204,69 @@ const urduText = (entry.body ?? "").trim();
 
     <BastaPager
       currentPage={page}
-      previousPage={previousPage}
-      nextPage={nextPage}
+      previousHref={previousHref}
+      nextHref={nextHref}
       availablePages={availablePages}
+      indexStartPage={indexStartPage}
+      indexEndPage={indexEndPage}
     />
   </article>
-
-  <script is:inline define:vars={{ availableBastaPages: availablePages }}>
-    document.querySelectorAll("[data-basta-jump-form]").forEach((form) => {
-      const input = form.querySelector('input[name="page"]');
-
-      input?.addEventListener("input", () => input.setCustomValidity(""));
-
-      form.addEventListener("submit", (event) => {
-        event.preventDefault();
-        const requestedPage = Number(input?.value);
-
-        if (
-          !Number.isInteger(requestedPage) ||
-          !availableBastaPages.includes(requestedPage)
-        ) {
-          input?.setCustomValidity("That page is not available.");
-          input?.reportValidity();
-          return;
-        }
-
-        window.location.href = `/basta/${requestedPage}/`;
-      });
-    });
-  </script>
 </BaseLayout>
+
+<style>
+  /*
+   * The existing two-column scan + Urdu layout remains unchanged on pages
+   * without Roman text. Pages with Roman text expand to three columns.
+   */
+  .basta-page.basta-page-with-roman {
+    max-width: 96rem;
+  }
+
+  .basta-page-grid.basta-page-grid-with-roman {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .basta-page-text-heading {
+    margin: 0 0 0.85rem;
+    border-bottom: 1px solid var(--border-colour);
+    padding-bottom: 0.65rem;
+    color: var(--secondary-text);
+    font-family:
+      Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  .basta-page-urdu .basta-page-text-heading {
+    text-align: right;
+  }
+
+  .basta-page-roman .basta-page-text-heading {
+    text-align: left;
+  }
+
+  .basta-roman-text {
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    unicode-bidi: plaintext;
+    font-family:
+      Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: clamp(1rem, 1.6vw, 1.2rem);
+    line-height: 2;
+    text-align: left;
+  }
+
+  /* Three columns become a readable vertical stack before they get cramped. */
+  @media (max-width: 1050px) {
+    .basta-page-grid.basta-page-grid-with-roman {
+      grid-template-columns: 1fr;
+    }
+
+    .basta-page.basta-page-with-roman {
+      max-width: 48rem;
+    }
+  }
+</style>
