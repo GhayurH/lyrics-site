@@ -451,3 +451,41 @@
     width: 100%;
   }
 }
+
+
+/* Index section headings and original ترتیب numbers */
+.basta-index-table .basta-index-section-row th {
+  border-inline-end: 0;
+  padding: 0.8rem 1rem;
+  background: var(--site-background);
+  color: var(--primary-text);
+  font-size: 1.08em;
+}
+
+.basta-index-table-urdu .basta-index-section-row th {
+  text-align: right;
+}
+
+.basta-index-table-roman .basta-index-section-row th {
+  text-align: left;
+}
+
+.basta-index-table td:first-child > a {
+  display: flex;
+  gap: 0.55rem;
+  align-items: baseline;
+}
+
+.basta-index-table-urdu td:first-child > a {
+  flex-direction: row;
+}
+
+.basta-index-entry-number {
+  flex: 0 0 auto;
+  min-width: 2.2rem;
+  font-family: Inter, system-ui, sans-serif;
+  font-size: 0.82em;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  text-align: center;
+}

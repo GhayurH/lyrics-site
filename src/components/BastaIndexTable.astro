@@ -1,5 +1,8 @@
 ---
 interface BastaIndexEntry {
+  section?: string;
+  sectionRoman?: string;
+  number?: number;
   name: string;
   haal: string;
   page: number;
@@ -20,6 +23,7 @@ const {
 } = Astro.props as Props;
 
 const roman = edition === "roman";
+let previousSection = "";
 ---
 
 <section
@@ -59,26 +63,67 @@ const roman = edition === "roman";
           <tbody>
             {
               entries.map((entry) => {
+                const currentSection = roman
+                  ? (entry.sectionRoman ?? entry.section ?? "")
+                  : (entry.section ?? "");
+
+                const showSection =
+                  Boolean(currentSection) &&
+                  currentSection !== previousSection;
+
+                previousSection = currentSection;
+
                 const name = roman
                   ? (entry.romanName ?? "")
                   : entry.name;
+
                 const haal = roman
                   ? (entry.romanHaal ?? "")
                   : entry.haal;
+
                 const href = `/basta/${entry.page}/`;
 
                 return (
-                  <tr>
-                    <td>
-                      <a href={href}>{name || "—"}</a>
-                    </td>
-                    <td>
-                      <a href={href}>{haal || "—"}</a>
-                    </td>
-                    <td class="basta-index-target-page" dir="ltr">
-                      <a href={href}>{entry.page}</a>
-                    </td>
-                  </tr>
+                  <>
+                    {
+                      showSection && (
+                        <tr class="basta-index-section-row">
+                          <th colspan="3" scope="rowgroup">
+                            {currentSection}
+                          </th>
+                        </tr>
+                      )
+                    }
+
+                    <tr>
+                      <td>
+                        <a href={href}>
+                          {
+                            entry.number !== undefined && (
+                              <span
+                                class="basta-index-entry-number"
+                                dir="ltr"
+                              >
+                                {entry.number}.
+                              </span>
+                            )
+                          }
+                          <span>{name || "—"}</span>
+                        </a>
+                      </td>
+
+                      <td>
+                        <a href={href}>{haal || "—"}</a>
+                      </td>
+
+                      <td
+                        class="basta-index-target-page"
+                        dir="ltr"
+                      >
+                        <a href={href}>{entry.page}</a>
+                      </td>
+                    </tr>
+                  </>
                 );
               })
             }
