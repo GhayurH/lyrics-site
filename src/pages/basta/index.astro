@@ -2,8 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import bastaConfig from "../../data/basta/config.json";
 
-const firstRoutePage =
-  bastaConfig.firstBookPage - bastaConfig.urlOffset;
+const firstRoutePage = bastaConfig.firstBookPage;
 ---
 
 <BaseLayout
@@ -47,7 +46,6 @@ const firstRoutePage =
   <script
     is:inline
     define:vars={{
-      bastaUrlOffset: bastaConfig.urlOffset,
       firstBookPage: bastaConfig.firstBookPage,
     }}
   >
@@ -67,8 +65,7 @@ const firstRoutePage =
         return;
       }
 
-      window.location.href =
-        `/basta/${bookPage - bastaUrlOffset}/`;
+      window.location.href = `/basta/${bookPage}/`;
     });
   </script>
 </BaseLayout>

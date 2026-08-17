@@ -213,7 +213,7 @@ def write_markdown(
     output_path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def build_index(tsv_path: Path, output_json: Path, url_offset: int) -> int:
+def build_index(tsv_path: Path, output_json: Path) -> int:
     entries = []
     current_section = ""
 
@@ -246,11 +246,7 @@ def build_index(tsv_path: Path, output_json: Path, url_offset: int) -> int:
                     f"Index row {row_number}: invalid book_page {page_raw!r}"
                 ) from exc
 
-            route_page = book_page - url_offset
-            if route_page < 1:
-                raise RuntimeError(
-                    f"Index row {row_number}: book page {book_page} maps before /basta/1/"
-                )
+            route_page = book_page
 
             entries.append(
                 {
@@ -280,7 +276,6 @@ def main() -> int:
     parser.add_argument("--roman-odg-template", type=Path)
     parser.add_argument("--index-tsv", type=Path)
     parser.add_argument("--export-png", action="store_true")
-    parser.add_argument("--url-offset", type=int)
 
     args = parser.parse_args()
 
@@ -289,11 +284,6 @@ def main() -> int:
     originals = args.original_images.expanduser().resolve()
 
     config = read_config(repo)
-    url_offset = (
-        args.url_offset
-        if args.url_offset is not None
-        else int(config.get("urlOffset", 4))
-    )
     first_book_page = int(config.get("firstBookPage", 5))
 
     markdown_dir = repo / "src/data/basta/pages"
@@ -329,9 +319,7 @@ def main() -> int:
         if book_page < first_book_page:
             continue
 
-        route_page = book_page - url_offset
-        if route_page < 1:
-            continue
+        route_page = book_page
 
         route_stem = f"{route_page:03d}"
         book_stem = f"{book_page:03d}"
@@ -421,7 +409,6 @@ def main() -> int:
         count = build_index(
             args.index_tsv.expanduser().resolve(),
             repo / "src/data/basta/index.json",
-            url_offset,
         )
         print(f"Built {count} index entries.")
 

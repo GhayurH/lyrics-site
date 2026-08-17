@@ -169,7 +169,6 @@ const imageCount = [
   <script
     is:inline
     define:vars={{
-      bastaUrlOffset: bastaConfig.urlOffset,
       firstBookPage: bastaConfig.firstBookPage,
       lastBookPage,
     }}
@@ -190,8 +189,7 @@ const imageCount = [
           return;
         }
 
-        const routePage = bookPage - bastaUrlOffset;
-        window.location.href = `/basta/${routePage}/`;
+        window.location.href = `/basta/${bookPage}/`;
       });
     });
   </script>
