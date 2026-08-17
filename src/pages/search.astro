@@ -3,54 +3,186 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
 <BaseLayout
-  title="Search | Lyrics Archive"
-  description="Search the complete lyrics archive."
+  title="Search | Kalam Archive"
+  description="Search and filter the complete Kalam Archive and Basta."
 >
-  <link
-    href="/pagefind/pagefind-component-ui.css"
-    rel="stylesheet"
-  />
-
-  <script
-    src="/pagefind/pagefind-component-ui.js"
-    type="module"
-  ></script>
+  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet" />
+  <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
 
   <section class="search-page">
     <header class="search-header">
-      <h1>Search lyrics</h1>
-
+      <p class="eyebrow">Find kalam</p>
+      <h1>Search the archive</h1>
       <p>
-        Search titles, lyrics, transliterations, poets,
-        reciters, occasions and tags.
+        Search Urdu, Roman Urdu, titles and metadata. Narrow results to Basta
+        or normal lyrics, then filter by category, kalam type, tags and more.
+      </p>
+      <p class="search-share-note">
+        Search terms and filters are kept in the URL, so filtered searches can
+        be bookmarked or shared directly.
       </p>
     </header>
 
-    <pagefind-config
-      faceted
-      preload
-      lang="en"
-      excerpt-length="25"
-    ></pagefind-config>
+    <pagefind-config faceted preload lang="en" excerpt-length="25"></pagefind-config>
 
-    <pagefind-input
-      placeholder="Search lyrics…"
-    ></pagefind-input>
+    <div class="search-input-row">
+      <div class="search-input-wrap">
+        <pagefind-input placeholder="Search the archive…"></pagefind-input>
+      </div>
+      <button id="clear-search-state" class="text-button search-clear-button" type="button">
+        Clear all
+      </button>
+    </div>
 
-    <div class="search-layout">
-      <aside class="search-filters">
-        <h2>Filters</h2>
-
-        <pagefind-filter-pane
-          open="language,occasion"
+    <div class="search-primary-filters" aria-label="Search filters">
+      <div class="search-filter-control search-filter-scope">
+        <span class="search-filter-label">Search in</span>
+        <pagefind-filter-dropdown
+          filter="collection"
+          label="Both archives"
+          single-select
           sort="alphabetical"
-        ></pagefind-filter-pane>
-      </aside>
+        ></pagefind-filter-dropdown>
+      </div>
 
-      <div class="search-results">
-        <pagefind-summary></pagefind-summary>
-        <pagefind-results></pagefind-results>
+      <div class="search-filter-control">
+        <span class="search-filter-label">Category</span>
+        <pagefind-filter-dropdown
+          filter="category"
+          label="All categories"
+          single-select
+          sort="alphabetical"
+        ></pagefind-filter-dropdown>
+      </div>
+
+      <div class="search-filter-control">
+        <span class="search-filter-label">Kalam type</span>
+        <pagefind-filter-dropdown
+          filter="kalamType"
+          label="All kalam types"
+          single-select
+          sort="alphabetical"
+        ></pagefind-filter-dropdown>
+      </div>
+
+      <div class="search-filter-control">
+        <span class="search-filter-label">Tags</span>
+        <pagefind-filter-dropdown
+          filter="tag"
+          label="Any tag"
+          sort="alphabetical"
+        ></pagefind-filter-dropdown>
       </div>
     </div>
+
+    <details class="search-more-filters">
+      <summary>More filters</summary>
+      <div class="search-secondary-filters">
+        <pagefind-filter-dropdown
+          filter="language"
+          label="Language"
+          single-select
+          sort="alphabetical"
+        ></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown
+          filter="occasion"
+          label="Occasion"
+          single-select
+          sort="alphabetical"
+        ></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown
+          filter="poet"
+          label="Poet"
+          single-select
+          sort="alphabetical"
+        ></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown
+          filter="reciter"
+          label="Reciter"
+          single-select
+          sort="alphabetical"
+        ></pagefind-filter-dropdown>
+      </div>
+    </details>
+
+    <div class="search-results-shell">
+      <pagefind-summary></pagefind-summary>
+      <pagefind-results></pagefind-results>
+    </div>
   </section>
+
+  <script is:inline type="module">
+    const FILTER_KEYS = [
+      "collection",
+      "category",
+      "kalamType",
+      "tag",
+      "language",
+      "occasion",
+      "poet",
+      "reciter",
+    ];
+
+    function readUrlState() {
+      const params = new URLSearchParams(window.location.search);
+      const filters = {};
+
+      for (const key of FILTER_KEYS) {
+        const values = params.getAll(key).filter(Boolean);
+        if (values.length) filters[key] = values;
+      }
+
+      return {
+        term: params.get("q") ?? "",
+        filters,
+      };
+    }
+
+    function writeUrlState(term, filters) {
+      const params = new URLSearchParams();
+      const cleanTerm = typeof term === "string" ? term.trim() : "";
+      if (cleanTerm) params.set("q", cleanTerm);
+
+      for (const key of FILTER_KEYS) {
+        const raw = filters?.[key];
+        const values = Array.isArray(raw) ? raw : raw ? [raw] : [];
+        for (const value of values) {
+          if (typeof value === "string" && value.trim()) {
+            params.append(key, value.trim());
+          }
+        }
+      }
+
+      const query = params.toString();
+      const nextUrl = query
+        ? `${window.location.pathname}?${query}`
+        : window.location.pathname;
+      window.history.replaceState(null, "", nextUrl);
+    }
+
+    async function getPagefindInstance() {
+      await customElements.whenDefined("pagefind-input");
+
+      while (!window.PagefindComponents?.getInstanceManager) {
+        await new Promise((resolve) => setTimeout(resolve, 0));
+      }
+
+      const manager = window.PagefindComponents.getInstanceManager();
+      return manager.getInstance("default");
+    }
+
+    const instance = await getPagefindInstance();
+    const initial = readUrlState();
+
+    instance.on("search", (term, filters) => {
+      writeUrlState(term, filters);
+    });
+
+    await instance.triggerLoad();
+    instance.triggerSearchWithFilters(initial.term, initial.filters);
+
+    document.querySelector("#clear-search-state")?.addEventListener("click", () => {
+      instance.triggerSearchWithFilters("", {});
+    });
+  </script>
 </BaseLayout>

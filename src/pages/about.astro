@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="About & Contact | Kalam Archive"
+  description="About the Kalam Archive, its purpose, and how to report corrections or suggest additions."
+>
+  <article class="about-page">
+    <header class="page-header-simple">
+      <p class="eyebrow">Kalam Archive</p>
+      <h1>About &amp; contact</h1>
+      <p>
+        A searchable archive built to preserve Urdu kalam in an accessible,
+        organized format.
+      </p>
+    </header>
+
+    <section class="about-section bilingual-panel" aria-labelledby="about-en-heading">
+      <div class="intro-language" lang="en" dir="ltr">
+        <h2 id="about-en-heading">About this archive</h2>
+        <p>
+          This website is a searchable collection of Urdu nohas, salams,
+          manqabats and other kalam. The archive provides Urdu text alongside
+          Roman Urdu where available, with categories, tags and metadata to
+          make individual pieces easier to find.
+        </p>
+      </div>
+
+      <div class="intro-language urdu-block" lang="ur" dir="rtl">
+        <h2>اس ذخیرے کے بارے میں</h2>
+        <p>
+          یہ ویب سائٹ اردو نوحوں، سلاموں، منقبتوں اور دوسرے کلام کا ایک
+          قابلِ تلاش ذخیرہ ہے۔ جہاں دستیاب ہو وہاں اردو متن کے ساتھ رومن اردو
+          بھی دی گئی ہے، اور کلام کو تلاش کرنے کے لیے اقسام، ٹیگز اور دوسری
+          معلومات بھی شامل ہیں۔
+        </p>
+      </div>
+    </section>
+
+    <section id="contact" class="about-section contact-card" aria-labelledby="contact-heading">
+      <div>
+        <p class="eyebrow">Corrections · additions · questions</p>
+        <h2 id="contact-heading">Contact the site owner</h2>
+        <p>
+          To report a transcription error, suggest a lyric, provide missing
+          information or ask a question, email:
+        </p>
+      </div>
+
+      <a class="contact-email contact-email-large" href="mailto:lyricsadmin@gmail.com">
+        lyricsadmin@gmail.com
+      </a>
+    </section>
+
+    <section class="about-section about-note">
+      <h2>Basta</h2>
+      <p>
+        Basta is preserved as its own edition within the archive, with original
+        page scans, cleaned Urdu text, Roman Urdu where available, and a linked
+        index. It can be searched together with the normal lyrics or on its own.
+      </p>
+      <a href="/basta/">Open Basta →</a>
+    </section>
+  </article>
+</BaseLayout>

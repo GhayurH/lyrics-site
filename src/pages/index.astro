@@ -1,123 +1,146 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import LyricList from "../components/LyricList.astro";
+import {
+  compareCategories,
+  compareLyrics,
+  getLyricCategory,
+  slugifyCategory,
+} from "../lib/lyrics";
+
+const HOME_PREVIEW_COUNT = 5;
 
 const lyrics = (
   await getCollection("lyrics", ({ data }) => data.published)
-).sort((a, b) =>
-  (a.data.alternateTitle ?? a.data.title).localeCompare(
-    b.data.alternateTitle ?? b.data.title,
-  ),
+).sort(compareLyrics);
+
+const grouped = new Map<string, typeof lyrics>();
+for (const lyric of lyrics) {
+  const category = getLyricCategory(lyric.data);
+  const entries = grouped.get(category) ?? [];
+  entries.push(lyric);
+  grouped.set(category, entries);
+}
+
+const categories = [...grouped.entries()].sort(([a], [b]) =>
+  compareCategories(a, b),
 );
 ---
 
 <BaseLayout
   title="Kalam Archive"
-  description="A searchable collection of Urdu nohas, salams and manqabats."
+  description="Browse Urdu nohas, salams, manqabats and other kalam by category, alongside the Basta archive."
 >
-  <section class="hero">
+  <section class="hero hero-compact home-hero">
+    <p class="eyebrow">Urdu &amp; Roman Urdu</p>
     <h1>Kalam Archive</h1>
-
     <p>
-      A searchable collection of Urdu nohas, salams and manqabats.
+      Browse kalam by category, search the archive, or open the preserved Basta
+      edition.
     </p>
 
-    <a class="button" href="/search/">Search the archive</a>
-  </section>
-
-  <section class="intro-section" aria-labelledby="about-heading">
-    <div class="bilingual-panel">
-      <div class="intro-language" lang="en" dir="ltr">
-        <h2 id="about-heading">About this archive</h2>
-
-        <p>
-          This website is a searchable collection of Urdu nohas,
-          salams, and manqabats. Its purpose is to preserve these
-          lyrics in a simple, organized and easily accessible format.
-        </p>
-      </div>
-
-      <div class="intro-language urdu-block" lang="ur" dir="rtl">
-        <h2>اس ذخیرے کے بارے میں</h2>
-
-        <p>
-          یہ ویب سائٹ اردو نوحوں، سلاموں، اور منقبتوں کا
-          ایک قابلِ تلاش ذخیرہ ہے۔ اس کا مقصد ان کلام کو
-          ایک سادہ اور منظم صورت میں محفوظ کرنا ہے۔
-        </p>
-      </div>
+    <div class="hero-actions">
+      <a class="button" href="/search/">Search the archive</a>
+      <a class="button button-secondary" href="/about/">About / Contact</a>
     </div>
   </section>
 
-  <section class="lyrics-section">
-    <div class="section-heading">
-      <h2>All lyrics</h2>
+  <section class="home-categories" aria-labelledby="categories-heading">
+    <div class="section-heading home-section-heading">
+      <div>
+        <p class="eyebrow">Browse</p>
+        <h2 id="categories-heading">Kalam categories</h2>
+      </div>
       <p>{lyrics.length} entries</p>
     </div>
 
-    <ul class="lyric-list">
+    <div class="category-preview-stack">
       {
-        lyrics.map((lyric) => (
-          <li class="lyric-list-item">
-            <a href={`/lyrics/${lyric.id}/`}>
-              <span
-                class="lyric-list-title"
-                lang={lyric.data.lang}
-                dir={lyric.data.direction}
-              >
-                {lyric.data.title}
-              </span>
+        categories.map(([category, entries]) => {
+          const categorySlug = slugifyCategory(category);
+          const previewEntries = entries.slice(0, HOME_PREVIEW_COUNT);
 
-              {
-                lyric.data.alternateTitle && (
-                  <span
-                    class="lyric-list-roman"
-                    lang="en"
-                    dir="ltr"
-                  >
-                    {lyric.data.alternateTitle}
-                  </span>
-                )
-              }
-            </a>
-          </li>
-        ))
+          return (
+            <section
+              class="category-preview-section"
+              id={categorySlug}
+              aria-labelledby={`${categorySlug}-heading`}
+            >
+              <div class="category-preview-heading">
+                <div>
+                  <h3 id={`${categorySlug}-heading`}>{category}</h3>
+                  <p>
+                    {entries.length} {entries.length === 1 ? "entry" : "entries"}
+                  </p>
+                </div>
+
+                <a
+                  class="button button-secondary category-see-all"
+                  href={`/categories/${categorySlug}/`}
+                >
+                  See all {category}
+                </a>
+              </div>
+
+              <LyricList lyrics={previewEntries} />
+
+              {entries.length > HOME_PREVIEW_COUNT && (
+                <div class="category-preview-footer">
+                  <a href={`/categories/${categorySlug}/`}>
+                    See all {entries.length} {category} →
+                  </a>
+                </div>
+              )}
+            </section>
+          );
+        })
       }
-    </ul>
+    </div>
   </section>
 
-  <section class="contact-section" aria-labelledby="contact-heading">
-    <div class="bilingual-panel">
-      <div class="intro-language" lang="en" dir="ltr">
-        <h2 id="contact-heading">Contact</h2>
-
-        <p>
-          To report a correction, suggest a lyric or ask a question,
-          contact the site owner:
-        </p>
-
-        <a class="contact-email" href="mailto:lyricsadmin@gmail.com">
-          lyricsadmin@gmail.com
-        </a>
+  <section class="home-basta" aria-labelledby="basta-heading">
+    <div class="section-heading home-section-heading">
+      <div>
+        <p class="eyebrow">Book archive</p>
+        <h2 id="basta-heading">Basta</h2>
       </div>
+      <a href="/basta/">Open Basta →</a>
+    </div>
 
-      <div class="intro-language urdu-block" lang="ur" dir="rtl">
-        <h2>رابطہ</h2>
+    <div class="basta-home-card">
+      <a
+        class="basta-home-cover-link"
+        href="/basta/"
+        aria-label="Open Basta"
+      >
+        <img
+          src="/images/basta/original/001.jpg"
+          alt="Original first page of Basta"
+          loading="lazy"
+        />
+      </a>
 
+      <div class="basta-home-copy">
+        <h3>Basta</h3>
         <p>
-          کسی غلطی کی تصحیح، نیا کلام شامل کروانے یا کسی سوال کے
-          لیے ویب سائٹ کے منتظم سے رابطہ کریں:
+          Browse the original page scans alongside cleaned Urdu text and Roman
+          Urdu where available.
         </p>
-
-        <a
-          class="contact-email"
-          href="mailto:lyricsadmin@gmail.com"
-          lang="en"
-          dir="ltr"
-        >
-          lyricsadmin@gmail.com
-        </a>
+        <a class="button" href="/basta/">Open Basta</a>
       </div>
     </div>
+  </section>
+
+  <section class="home-about-cta" aria-labelledby="home-about-heading">
+    <div>
+      <p class="eyebrow">About this archive</p>
+      <h2 id="home-about-heading">Corrections, additions or questions?</h2>
+      <p>
+        Read about the project or contact the site owner from the dedicated
+        About / Contact page.
+      </p>
+    </div>
+    <a class="button button-secondary" href="/about/#contact">About / Contact</a>
   </section>
 </BaseLayout>
