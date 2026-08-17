@@ -46,7 +46,11 @@ const urduText = (entry.body ?? "").trim();
 
 <BaseLayout
   title={`Basta — page ${page} | Kalam Archive`}
-  description={`Basta page ${page}: original scan and cleaned Urdu text.`}
+  description={
+    entry.data.imageOnly
+      ? `Original scan of Basta page ${page}.`
+      : `Basta page ${page}: original scan and cleaned Urdu text.`
+  }
 >
   <article class="basta-page" data-pagefind-body>
     <header class="basta-page-header">
@@ -55,7 +59,7 @@ const urduText = (entry.body ?? "").trim();
         <span aria-hidden="true">·</span>
         <a href={`/basta/urdu/#page-${page}`}>Urdu text edition</a>
         <span aria-hidden="true">·</span>
-        <a href="/basta/roman/">Roman edition</a>
+        <a href={`/basta/roman/#page-${page}`}>Roman edition</a>
         <span aria-hidden="true">·</span>
         <a href="/basta/index/">Index</a>
       </div>
@@ -75,7 +79,12 @@ const urduText = (entry.body ?? "").trim();
       availablePages={availablePages}
     />
 
-    <div class="basta-page-grid">
+    <div
+      class:list={[
+        "basta-page-grid",
+        entry.data.imageOnly && "basta-page-grid-image-only",
+      ]}
+    >
       <figure class="basta-original-page" data-pagefind-ignore>
         <figcaption>Original book page</figcaption>
         <a href={entry.data.originalImage}>
@@ -87,14 +96,18 @@ const urduText = (entry.body ?? "").trim();
         </a>
       </figure>
 
-      <section
-        class="basta-page-text"
-        lang="ur"
-        dir="rtl"
-        aria-label={`Urdu text of Basta page ${page}`}
-      >
-        <div class="basta-urdu-text">{urduText}</div>
-      </section>
+      {
+        !entry.data.imageOnly && (
+          <section
+            class="basta-page-text"
+            lang="ur"
+            dir="rtl"
+            aria-label={`Urdu text of Basta page ${page}`}
+          >
+            <div class="basta-urdu-text">{urduText}</div>
+          </section>
+        )
+      }
     </div>
 
     <BastaPager

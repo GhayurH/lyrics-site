@@ -14,6 +14,10 @@ import shutil
 import sys
 from pathlib import Path
 
+IMAGE_ONLY_PAGES = {1, 2, *range(464, 471)}
+REMOVED_PAGES = {28}
+REMOVE_FROM_PAGE = 472
+
 IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp")
 
 
@@ -28,6 +32,10 @@ def numeric_text_files(directory: Path) -> list[Path]:
     pages = [p for p in directory.glob("*.txt") if numeric_stem(p) is not None]
     pages.sort(key=lambda p: int(p.stem))
     return pages
+
+
+def is_removed(page: int) -> bool:
+    return page in REMOVED_PAGES or page >= REMOVE_FROM_PAGE
 
 
 def find_image(directory: Path, page: int) -> Path | None:
@@ -77,6 +85,15 @@ def build_urdu(repo: Path, ready_dir: Path, original_images: Path) -> int:
     built = 0
     for text_path in pages:
         page = int(text_path.stem)
+
+        if page in IMAGE_ONLY_PAGES:
+            print(f"Skip {page}: image-only page; preserving existing MD.")
+            continue
+
+        if is_removed(page):
+            print(f"Skip {page}: removed from Basta.")
+            continue
+
         stem = f"{page:03d}"
         source_image = find_image(original_images, page)
 
@@ -86,7 +103,8 @@ def build_urdu(repo: Path, ready_dir: Path, original_images: Path) -> int:
             )
 
         image_dest = image_dir / f"{stem}{source_image.suffix.lower()}"
-        shutil.copy2(source_image, image_dest)
+        if source_image.resolve() != image_dest.resolve():
+            shutil.copy2(source_image, image_dest)
 
         text = text_path.read_text(encoding="utf-8").strip()
         write_urdu_page(
@@ -114,6 +132,10 @@ def build_roman(repo: Path, roman_dir: Path) -> int:
     built = 0
     for text_path in pages:
         page = int(text_path.stem)
+
+        if page in IMAGE_ONLY_PAGES or is_removed(page):
+            continue
+
         stem = f"{page:03d}"
         text = text_path.read_text(encoding="utf-8").strip()
         write_roman_page(output_dir / f"{stem}.md", page, text)

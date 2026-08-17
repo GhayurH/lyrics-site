@@ -35,10 +35,28 @@ const pages = (
         >
           {
             pages.map((entry, index) => (
-              <section class="basta-scroll-page" id={`page-${entry.data.page}`}>
-                <div class="basta-scroll-text">
-                  {(entry.body ?? "").trim()}
-                </div>
+              <section
+                class:list={[
+                  "basta-scroll-page",
+                  entry.data.imageOnly && "basta-scroll-page-image-only",
+                ]}
+                id={`page-${entry.data.page}`}
+              >
+                {
+                  entry.data.imageOnly ? (
+                    <figure class="basta-scroll-original-image">
+                      <img
+                        src={entry.data.originalImage}
+                        alt={`Original scan of Basta page ${entry.data.page}`}
+                        loading="lazy"
+                      />
+                    </figure>
+                  ) : (
+                    <div class="basta-scroll-text">
+                      {(entry.body ?? "").trim()}
+                    </div>
+                  )
+                }
 
                 <p class="basta-scroll-page-number" dir="ltr">
                   {entry.data.page}
