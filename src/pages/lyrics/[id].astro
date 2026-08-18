@@ -7,10 +7,9 @@ import {
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import {
   compareLyrics,
-  getLyricCategory,
   getLyricKalamType,
   searchUrl,
-  slugifyCategory,
+  slugifyKalamType,
 } from "../../lib/lyrics";
 
 export async function getStaticPaths() {
@@ -21,14 +20,14 @@ export async function getStaticPaths() {
   const byCategory = new Map<string, CollectionEntry<"lyrics">[]>();
 
   for (const lyric of lyrics) {
-    const category = getLyricCategory(lyric.data);
+    const category = getLyricKalamType(lyric.data);
     const group = byCategory.get(category) ?? [];
     group.push(lyric);
     byCategory.set(category, group);
   }
 
   return lyrics.map((lyric) => {
-    const category = getLyricCategory(lyric.data);
+    const category = getLyricKalamType(lyric.data);
     const categoryLyrics = byCategory.get(category) ?? [];
     const index = categoryLyrics.findIndex((entry) => entry.id === lyric.id);
 
@@ -63,8 +62,7 @@ const {
   categoryCount,
 } = Astro.props as Props;
 const { data } = lyric;
-const category = getLyricCategory(data);
-const kalamType = getLyricKalamType(data);
+const category = getLyricKalamType(data);
 
 const searchTerms = [
   data.alternateTitle,
@@ -72,7 +70,6 @@ const searchTerms = [
   data.reciter,
   data.occasion,
   category,
-  kalamType,
   ...data.tags,
   ...data.aliases,
 ]
@@ -96,7 +93,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     data-pagefind-body
   >
     <header class="lyric-header">
-      <a class="back-link" href={`/categories/${slugifyCategory(category)}/`}>
+      <a class="back-link" href={`/categories/${slugifyKalamType(category)}/`}>
         ← {category}
       </a>
 
@@ -123,7 +120,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         <div class="lyric-header-actions" data-pagefind-ignore>
           <a
             class="category-pill"
-            href={`/categories/${slugifyCategory(category)}/`}
+            href={`/categories/${slugifyKalamType(category)}/`}
           >
             {category}
           </a>
@@ -150,24 +147,12 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         </div>
 
         <div>
-          <dt>Category</dt>
+          <dt>Kalam Type</dt>
           <dd>
-            <a href={`/categories/${slugifyCategory(category)}/`}>{category}</a>
+            <a href={`/categories/${slugifyKalamType(category)}/`}>{category}</a>
           </dd>
         </div>
 
-        {
-          kalamType !== category && (
-            <div>
-              <dt>Kalam type</dt>
-              <dd>
-                <a href={searchUrl({ collection: "Lyrics", kalamType })}>
-                  {kalamType}
-                </a>
-              </dd>
-            </div>
-          )
-        }
 
         {
           data.poet && (
@@ -233,8 +218,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
       <span data-pagefind-meta="searchTerms">{searchTerms}</span>
       <span data-pagefind-filter="collection">Lyrics</span>
-      <span data-pagefind-filter="category">{category}</span>
-      <span data-pagefind-filter="kalamType">{kalamType}</span>
+      <span data-pagefind-filter="kalamType">{category}</span>
       <span data-pagefind-filter="language">{data.language}</span>
 
       {data.poet && <span data-pagefind-filter="poet">{data.poet}</span>}
@@ -353,7 +337,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         }
       </div>
 
-      <a class="lyric-neighbor-category" href={`/categories/${slugifyCategory(category)}/`}>
+      <a class="lyric-neighbor-category" href={`/categories/${slugifyKalamType(category)}/`}>
         All {category} · {categoryCount}
       </a>
 

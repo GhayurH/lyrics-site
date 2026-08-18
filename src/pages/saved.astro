@@ -3,7 +3,6 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import {
   compareLyrics,
-  getLyricCategory,
   getLyricKalamType,
 } from "../lib/lyrics";
 
@@ -15,7 +14,6 @@ const catalog = lyrics.map((lyric) => ({
   id: lyric.id,
   title: lyric.data.title,
   alternateTitle: lyric.data.alternateTitle ?? "",
-  category: getLyricCategory(lyric.data),
   kalamType: getLyricKalamType(lyric.data),
   lang: lyric.data.lang,
   direction: lyric.data.direction,
@@ -53,7 +51,7 @@ const catalog = lyrics.map((lyric) => ({
         </button>
       </div>
       <p id="favorites-empty" class="saved-empty">
-        Nothing saved yet. Open a lyric and use the <strong>Save</strong> button.
+        Nothing saved yet. Use the bookmark icon on any kalam card.
       </p>
       <ul id="favorites-list" class="saved-lyric-list" aria-live="polite"></ul>
     </section>
@@ -84,7 +82,6 @@ const catalog = lyrics.map((lyric) => ({
         id: string;
         title: string;
         alternateTitle: string;
-        category: string;
         kalamType: string;
         lang: string;
         direction: "rtl" | "ltr";
@@ -115,6 +112,21 @@ const catalog = lyrics.map((lyric) => ({
         }
       }
 
+      function makeBookmarkIcon() {
+        const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        svg.setAttribute("viewBox", "0 0 24 24");
+        svg.setAttribute("aria-hidden", "true");
+        svg.setAttribute("focusable", "false");
+
+        const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        path.setAttribute(
+          "d",
+          "M6.75 4.75A1.75 1.75 0 0 1 8.5 3h7A1.75 1.75 0 0 1 17.25 4.75v15.1L12 16.65l-5.25 3.2V4.75Z",
+        );
+        svg.append(path);
+        return svg;
+      }
+
       function makeListItem(entry: CatalogEntry, saved: boolean) {
         const item = document.createElement("li");
         item.className = "saved-lyric-item";
@@ -141,24 +153,26 @@ const catalog = lyrics.map((lyric) => ({
 
         const meta = document.createElement("span");
         meta.className = "saved-lyric-meta";
-        meta.textContent =
-          entry.kalamType !== entry.category
-            ? `${entry.category} · ${entry.kalamType}`
-            : entry.category;
+        meta.textContent = entry.kalamType;
         link.append(meta);
 
         const favoriteButton = document.createElement("button");
         favoriteButton.type = "button";
-        favoriteButton.className = "favorite-button favorite-button-compact";
+        favoriteButton.className = "favorite-button favorite-icon-button saved-card-save";
         favoriteButton.dataset.favoriteButton = "";
         favoriteButton.dataset.lyricId = entry.id;
         favoriteButton.dataset.saved = String(saved);
         favoriteButton.setAttribute("aria-pressed", String(saved));
-        favoriteButton.setAttribute(
-          "aria-label",
-          saved ? "Remove from saved lyrics" : "Save this lyric",
-        );
-        favoriteButton.textContent = saved ? "Saved" : "Save";
+        const accessibleLabel = saved ? "Remove from saved lyrics" : "Save this lyric";
+        favoriteButton.setAttribute("aria-label", accessibleLabel);
+        favoriteButton.setAttribute("title", accessibleLabel);
+        favoriteButton.append(makeBookmarkIcon());
+
+        const hiddenLabel = document.createElement("span");
+        hiddenLabel.className = "visually-hidden";
+        hiddenLabel.dataset.favoriteLabel = "";
+        hiddenLabel.textContent = accessibleLabel;
+        favoriteButton.append(hiddenLabel);
 
         item.append(link, favoriteButton);
         return item;

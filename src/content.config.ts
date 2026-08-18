@@ -25,14 +25,13 @@ const lyrics = defineCollection({
     occasion: z.string().optional(),
     year: z.number().int().optional(),
 
-    // category is the broad browse bucket: Noha, Salam, Manqabat, etc.
-    // Existing files do not need to be edited immediately: the UI can infer
-    // these common categories from existing tags when this is omitted.
-    category: z.string().optional(),
-
-    // kalamType is intentionally separate for finer-grained classification.
-    // If omitted, the UI falls back to the resolved category.
+    // The single browse classification shown to visitors: Noha, Salam,
+    // Manqabat, etc. Existing files can still fall back to matching tags.
     kalamType: z.string().optional(),
+
+    // Legacy compatibility only. Earlier upgrade drops used `category` for
+    // the same role. Keep accepting it until the corpus is migrated.
+    category: z.string().optional(),
 
     tags: z.array(z.string()).default([]),
     aliases: z.array(z.string()).default([]),

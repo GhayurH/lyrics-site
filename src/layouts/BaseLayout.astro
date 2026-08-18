@@ -142,13 +142,23 @@ const aboutActive = path.startsWith("/about/");
             if (!id) return;
 
             const saved = favorites.has(id);
+            const accessibleLabel = saved
+              ? "Remove from saved lyrics"
+              : "Save this lyric";
+
             button.setAttribute("aria-pressed", String(saved));
             button.dataset.saved = String(saved);
-            button.textContent = saved ? "Saved" : "Save";
-            button.setAttribute(
-              "aria-label",
-              saved ? "Remove from saved lyrics" : "Save this lyric",
+            button.setAttribute("aria-label", accessibleLabel);
+            button.setAttribute("title", accessibleLabel);
+
+            const inlineLabel = button.querySelector<HTMLElement>(
+              "[data-favorite-label]",
             );
+            if (inlineLabel) {
+              inlineLabel.textContent = accessibleLabel;
+            } else {
+              button.textContent = saved ? "Saved" : "Save";
+            }
           });
       }
 

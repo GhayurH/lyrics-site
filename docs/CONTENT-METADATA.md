@@ -1,10 +1,9 @@
 # Lyric metadata
 
-Normal lyric Markdown supports these optional catalogue fields:
+Normal lyric Markdown now has **one** browse classification: `kalamType`.
 
 ```yaml
-category: "Noha"
-kalamType: "Rukhsat"
+kalamType: "Noha"
 poet: "Example poet"
 reciter: "Example reciter"
 occasion: "Muharram"
@@ -13,42 +12,45 @@ tags:
   - "Karbala"
 ```
 
-## Category fallback for existing files
+## Kalam Type
 
-Existing lyrics do not need to be edited before the site builds.
+Use `kalamType` for the main kind of kalam visitors browse, for example:
 
-If `category` is missing, the site checks existing tags for common category
-names and spelling variants, including:
-
-- Noha / Nauha
-- Salam / Salaam
+- Noha
+- Salam
 - Manqabat
 - Marsiya
 - Soz
-- Qasida / Qaseeda
+- Qasida
 - Munajat
 - Dua
 
-If none matches, the lyric appears under **Uncategorized**.
+There is no separate Category concept in the UI or search anymore.
 
-If `kalamType` is missing, the UI falls back to the resolved category. This
-keeps search usable immediately while still allowing finer classification as
-the catalogue is cleaned up.
+### Existing files
 
-## Recommended convention
+Existing lyrics do not need to be migrated immediately.
 
-Use `category` for the broad shelf visitors browse: `Noha`, `Salam`,
-`Manqabat`, etc.
+For compatibility, the site resolves Kalam Type in this order:
 
-Use `kalamType` for a finer formal or practical classification when useful,
-for example `Rukhsat`, `Shahadat`, or another classification you decide to
-standardize.
+1. legacy `category`, if present
+2. a recognised explicit `kalamType`
+3. a recognised existing tag such as `Noha` or `Salam`
+4. another explicit `kalamType`
+5. `Uncategorized`
+
+The old `category` field is therefore still accepted by the schema only as a
+migration bridge. New or cleaned-up files should use `kalamType` and omit
+`category`.
+
+## Tags and other metadata
 
 Use `tags` for people, events, subjects, places, themes, and other
-cross-cutting metadata.
+cross-cutting metadata. Do not duplicate `kalamType` as a tag once a file has
+been cleaned up unless the tag is useful independently.
 
-Poet, reciter, occasion, category, kalam type, language, and tags become
-clickable search filters on lyric pages.
+Poet, reciter, occasion, Kalam Type, language, and tags become clickable search
+filters on lyric pages.
 
 ## Metadata audit
 
@@ -60,8 +62,9 @@ npm run audit:metadata
 
 The audit reports, per published lyric:
 
-- unresolved / inferred categories
-- missing `kalamType`
+- unresolved Kalam Type
+- legacy `category` fields that should be migrated
+- Kalam Type inferred only from tags
 - missing tags
 - missing poet
 - missing Roman Urdu transliteration

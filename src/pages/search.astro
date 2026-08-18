@@ -15,7 +15,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       <h1>Search the archive</h1>
       <p>
         Search Urdu, Roman Urdu, titles and metadata. Narrow results to Basta
-        or normal lyrics, then filter by category, kalam type, tags and more.
+        or normal lyrics, then filter by Kalam Type, tags and more.
       </p>
       <p class="search-share-note">
         Search terms and filters are kept in the URL, so filtered searches can
@@ -46,20 +46,10 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       </div>
 
       <div class="search-filter-control">
-        <span class="search-filter-label">Category</span>
-        <pagefind-filter-dropdown
-          filter="category"
-          label="All categories"
-          single-select
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
-      </div>
-
-      <div class="search-filter-control">
-        <span class="search-filter-label">Kalam type</span>
+        <span class="search-filter-label">Kalam Type</span>
         <pagefind-filter-dropdown
           filter="kalamType"
-          label="All kalam types"
+          label="All Kalam Types"
           single-select
           sort="alphabetical"
         ></pagefind-filter-dropdown>
@@ -114,7 +104,6 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   <script is:inline type="module">
     const FILTER_KEYS = [
       "collection",
-      "category",
       "kalamType",
       "tag",
       "language",
@@ -130,6 +119,12 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       for (const key of FILTER_KEYS) {
         const values = params.getAll(key).filter(Boolean);
         if (values.length) filters[key] = values;
+      }
+
+      // Backward compatibility for links created by the previous Category UI.
+      if (!filters.kalamType) {
+        const legacyCategory = params.getAll("category").filter(Boolean);
+        if (legacyCategory.length) filters.kalamType = legacyCategory;
       }
 
       return {

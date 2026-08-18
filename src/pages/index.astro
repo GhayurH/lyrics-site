@@ -3,10 +3,10 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import LyricList from "../components/LyricList.astro";
 import {
-  compareCategories,
+  compareKalamTypes,
   compareLyrics,
-  getLyricCategory,
-  slugifyCategory,
+  getLyricKalamType,
+  slugifyKalamType,
 } from "../lib/lyrics";
 
 const HOME_PREVIEW_COUNT = 5;
@@ -17,26 +17,26 @@ const lyrics = (
 
 const grouped = new Map<string, typeof lyrics>();
 for (const lyric of lyrics) {
-  const category = getLyricCategory(lyric.data);
-  const entries = grouped.get(category) ?? [];
+  const kalamType = getLyricKalamType(lyric.data);
+  const entries = grouped.get(kalamType) ?? [];
   entries.push(lyric);
-  grouped.set(category, entries);
+  grouped.set(kalamType, entries);
 }
 
-const categories = [...grouped.entries()].sort(([a], [b]) =>
-  compareCategories(a, b),
+const kalamTypes = [...grouped.entries()].sort(([a], [b]) =>
+  compareKalamTypes(a, b),
 );
 ---
 
 <BaseLayout
   title="Kalam Archive"
-  description="Browse Urdu nohas, salams, manqabats and other kalam by category, alongside the Basta archive."
+  description="Browse Urdu nohas, salams, manqabats and other kalam by type, alongside the Basta archive."
 >
   <section class="hero hero-compact home-hero">
     <p class="eyebrow">Urdu &amp; Roman Urdu</p>
     <h1>Kalam Archive</h1>
     <p>
-      Browse kalam by category, search the archive, or open the preserved Basta
+      Browse Urdu nohas, salams, manqabats and other kalam by type, search the archive, or open the preserved Basta
       edition.
     </p>
 
@@ -46,30 +46,30 @@ const categories = [...grouped.entries()].sort(([a], [b]) =>
     </div>
   </section>
 
-  <section class="home-categories" aria-labelledby="categories-heading">
+  <section class="home-categories" aria-labelledby="kalam-types-heading">
     <div class="section-heading home-section-heading">
       <div>
         <p class="eyebrow">Browse</p>
-        <h2 id="categories-heading">Kalam categories</h2>
+        <h2 id="kalam-types-heading">Kalam Types</h2>
       </div>
       <p>{lyrics.length} entries</p>
     </div>
 
     <div class="category-preview-stack">
       {
-        categories.map(([category, entries]) => {
-          const categorySlug = slugifyCategory(category);
+        kalamTypes.map(([kalamType, entries]) => {
+          const typeSlug = slugifyKalamType(kalamType);
           const previewEntries = entries.slice(0, HOME_PREVIEW_COUNT);
 
           return (
             <section
               class="category-preview-section"
-              id={categorySlug}
-              aria-labelledby={`${categorySlug}-heading`}
+              id={typeSlug}
+              aria-labelledby={`${typeSlug}-heading`}
             >
               <div class="category-preview-heading">
                 <div>
-                  <h3 id={`${categorySlug}-heading`}>{category}</h3>
+                  <h3 id={`${typeSlug}-heading`}>{kalamType}</h3>
                   <p>
                     {entries.length} {entries.length === 1 ? "entry" : "entries"}
                   </p>
@@ -77,9 +77,9 @@ const categories = [...grouped.entries()].sort(([a], [b]) =>
 
                 <a
                   class="button button-secondary category-see-all"
-                  href={`/categories/${categorySlug}/`}
+                  href={`/categories/${typeSlug}/`}
                 >
-                  See all {category}
+                  See all {kalamType}
                 </a>
               </div>
 
@@ -87,8 +87,8 @@ const categories = [...grouped.entries()].sort(([a], [b]) =>
 
               {entries.length > HOME_PREVIEW_COUNT && (
                 <div class="category-preview-footer">
-                  <a href={`/categories/${categorySlug}/`}>
-                    See all {entries.length} {category} →
+                  <a href={`/categories/${typeSlug}/`}>
+                    See all {entries.length} {kalamType} →
                   </a>
                 </div>
               )}
