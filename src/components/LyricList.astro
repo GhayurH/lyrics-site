@@ -1,23 +1,18 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import {
-  getLyricCategory,
-  getLyricKalamType,
-  slugifyCategory,
-} from "../lib/lyrics";
+import { getLyricKalamType } from "../lib/lyrics";
 
 interface Props {
   lyrics: CollectionEntry<"lyrics">[];
-  showCategory?: boolean;
+  showKalamType?: boolean;
 }
 
-const { lyrics, showCategory = false } = Astro.props;
+const { lyrics, showKalamType = false } = Astro.props;
 ---
 
 <ul class="lyric-list">
   {
     lyrics.map((lyric) => {
-      const category = getLyricCategory(lyric.data);
       const kalamType = getLyricKalamType(lyric.data);
 
       return (
@@ -38,36 +33,27 @@ const { lyrics, showCategory = false } = Astro.props;
             )}
 
             <span class="lyric-list-meta" aria-hidden="true">
-              {showCategory && <span class="metadata-chip">{category}</span>}
-              {kalamType !== category && (
-                <span class="metadata-chip">{kalamType}</span>
-              )}
+              {showKalamType && <span class="metadata-chip">{kalamType}</span>}
               {lyric.data.tags
-                .filter((tag) => tag !== category && tag !== kalamType)
+                .filter((tag) => tag !== kalamType)
                 .slice(0, 2)
                 .map((tag) => <span class="metadata-chip">{tag}</span>)}
             </span>
           </a>
 
-          <div class="lyric-list-actions" data-pagefind-ignore>
-            {showCategory && (
-              <a
-                class="lyric-category-link"
-                href={`/categories/${slugifyCategory(category)}/`}
-              >
-                Browse {category}
-              </a>
-            )}
-            <button
-              class="favorite-button favorite-button-compact"
-              type="button"
-              data-favorite-button
-              data-lyric-id={lyric.id}
-              aria-pressed="false"
-            >
-              Save
-            </button>
-          </div>
+          <button
+            class="favorite-button favorite-icon-button lyric-card-save"
+            type="button"
+            data-favorite-button
+            data-lyric-id={lyric.id}
+            aria-pressed="false"
+            title="Save this lyric"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M6.75 4.75A1.75 1.75 0 0 1 8.5 3h7A1.75 1.75 0 0 1 17.25 4.75v15.1L12 16.65l-5.25 3.2V4.75Z" />
+            </svg>
+            <span class="visually-hidden" data-favorite-label>Save this lyric</span>
+          </button>
         </li>
       );
     })

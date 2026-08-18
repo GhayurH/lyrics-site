@@ -7,8 +7,8 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import LyricList from "../../components/LyricList.astro";
 import {
   compareLyrics,
-  getLyricCategory,
-  slugifyCategory,
+  getLyricKalamType,
+  slugifyKalamType,
 } from "../../lib/lyrics";
 
 export async function getStaticPaths() {
@@ -16,42 +16,42 @@ export async function getStaticPaths() {
     await getCollection("lyrics", ({ data }) => data.published)
   ).sort(compareLyrics);
 
-  const categories = new Map<
+  const types = new Map<
     string,
-    { category: string; lyrics: CollectionEntry<"lyrics">[] }
+    { kalamType: string; lyrics: CollectionEntry<"lyrics">[] }
   >();
 
   for (const lyric of lyrics) {
-    const category = getLyricCategory(lyric.data);
-    const slug = slugifyCategory(category);
-    const existing = categories.get(slug) ?? { category, lyrics: [] };
+    const kalamType = getLyricKalamType(lyric.data);
+    const slug = slugifyKalamType(kalamType);
+    const existing = types.get(slug) ?? { kalamType, lyrics: [] };
     existing.lyrics.push(lyric);
-    categories.set(slug, existing);
+    types.set(slug, existing);
   }
 
-  return [...categories.entries()].map(([slug, value]) => ({
+  return [...types.entries()].map(([slug, value]) => ({
     params: { category: slug },
     props: value,
   }));
 }
 
 interface Props {
-  category: string;
+  kalamType: string;
   lyrics: CollectionEntry<"lyrics">[];
 }
 
-const { category, lyrics } = Astro.props as Props;
+const { kalamType, lyrics } = Astro.props as Props;
 ---
 
 <BaseLayout
-  title={`${category} | Kalam Archive`}
-  description={`Browse ${category} in the Kalam Archive.`}
+  title={`${kalamType} | Kalam Archive`}
+  description={`Browse ${kalamType} in the Kalam Archive.`}
 >
   <section class="category-page">
     <header class="page-header-simple">
-      <a class="back-link" href="/">← All categories</a>
-      <p class="eyebrow">Kalam category</p>
-      <h1>{category}</h1>
+      <a class="back-link" href="/">← All Kalam Types</a>
+      <p class="eyebrow">Kalam Type</p>
+      <h1>{kalamType}</h1>
       <p>{lyrics.length} {lyrics.length === 1 ? "entry" : "entries"}</p>
     </header>
 

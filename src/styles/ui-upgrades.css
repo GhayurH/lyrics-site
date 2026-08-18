@@ -1239,3 +1239,113 @@ pagefind-filter-dropdown {
     margin-inline: auto;
   }
 }
+
+/* =========================================================
+   Upgrade v4: one Kalam Type + in-card bookmark action
+   ========================================================= */
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+/* Keep kalam cards compact instead of stretching a lone card across a row. */
+.lyric-list {
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 21rem));
+  justify-content: start;
+  align-items: stretch;
+}
+
+.lyric-list-item {
+  position: relative;
+  min-width: 0;
+}
+
+.lyric-list-item > .lyric-list-link {
+  min-width: 0;
+  min-height: 8.25rem;
+  overflow: hidden;
+  padding-right: 3.35rem;
+}
+
+.favorite-icon-button {
+  display: inline-grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  flex: 0 0 2rem;
+  border-radius: 0.55rem;
+  padding: 0;
+}
+
+.favorite-icon-button svg {
+  width: 1.05rem;
+  height: 1.05rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.7;
+}
+
+.favorite-icon-button[aria-pressed="true"] svg,
+.favorite-icon-button[data-saved="true"] svg {
+  fill: currentColor;
+}
+
+.lyric-card-save,
+.saved-card-save {
+  position: absolute;
+  top: 0.7rem;
+  right: 0.7rem;
+  z-index: 3;
+  margin: 0;
+}
+
+/* The primary search row now has Search in + Kalam Type + Tags. */
+.search-primary-filters {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+/* Saved/recent cards use the same in-card bookmark treatment. */
+.saved-lyric-list {
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 21rem));
+  justify-content: start;
+}
+
+.saved-lyric-item {
+  position: relative;
+  display: block;
+  min-width: 0;
+}
+
+.saved-lyric-link {
+  min-height: 8rem;
+  padding-right: 3.35rem;
+}
+
+@media (max-width: 920px) {
+  .search-primary-filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .search-primary-filters {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 430px) {
+  .lyric-list,
+  .saved-lyric-list {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
