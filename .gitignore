@@ -5,6 +5,8 @@ dist/
 # scripts
 scripts/
 trash/
+public/images/basta/original-before-autofix-v3.1
+public/images/basta/straightened
 
 # dependencies
 node_modules/
