@@ -4,7 +4,7 @@ interface BastaIndexEntry {
   sectionRoman?: string;
   number?: number;
   name: string;
-  haal: string;
+  haal?: string;
   page: number;
   romanName?: string;
   romanHaal?: string;
@@ -23,7 +23,16 @@ const {
 } = Astro.props as Props;
 
 const roman = edition === "roman";
-let previousSection = "";
+
+const groups = new Map<string, BastaIndexEntry[]>();
+for (const entry of entries) {
+  const section = roman
+    ? (entry.sectionRoman ?? entry.section ?? "")
+    : (entry.section ?? "");
+  const group = groups.get(section) ?? [];
+  group.push(entry);
+  groups.set(section, group);
+}
 ---
 
 <section
@@ -44,92 +53,140 @@ let previousSection = "";
           : "اشاریہ ابھی شامل نہیں کیا گیا۔"}
       </p>
     ) : (
-      <div class="basta-index-table-wrap">
-        <table class="basta-index-table">
-          <colgroup>
-            <col class="basta-index-col-name" />
-            <col class="basta-index-col-haal" />
-            <col class="basta-index-col-page" />
-          </colgroup>
+      <div class="basta-index-groups">
+        {
+          [...groups.entries()].map(([section, sectionEntries]) => {
+            const hasHaal = sectionEntries.some((entry) =>
+              Boolean(
+                roman
+                  ? (entry.romanHaal?.trim() || entry.haal?.trim() || "")
+                  : (entry.haal?.trim() || ""),
+              ),
+            );
+            return (
+              <section class="basta-index-group">
+                {section && <h3>{section}</h3>}
 
-          <thead>
-            <tr>
-              <th scope="col">{roman ? "Name" : "نام"}</th>
-              <th scope="col">{roman ? "Haal" : "حال"}</th>
-              <th scope="col">{roman ? "Page" : "صفحہ"}</th>
-            </tr>
-          </thead>
+                <div class="basta-index-table-wrap">
+                  <table
+                    class:list={[
+                      "basta-index-table",
+                      hasHaal
+                        ? "basta-index-table-with-haal"
+                        : "basta-index-table-without-haal",
+                    ]}
+                  >
+                    <colgroup>
+                      <col class="basta-index-col-serial" />
+                      <col class="basta-index-col-name" />
+                      {hasHaal && <col class="basta-index-col-haal" />}
+                      <col class="basta-index-col-page" />
+                    </colgroup>
 
-          <tbody>
-            {
-              entries.map((entry) => {
-                const currentSection = roman
-                  ? (entry.sectionRoman ?? entry.section ?? "")
-                  : (entry.section ?? "");
+                    <thead>
+                      <tr>
+                        <th scope="col">{roman ? "Serial" : "نمبر"}</th>
+                        <th scope="col">{roman ? "Name" : "عنوان"}</th>
+                        {hasHaal && (
+                          <th scope="col">{roman ? "Haal" : "حال"}</th>
+                        )}
+                        <th scope="col">{roman ? "Page" : "صفحہ"}</th>
+                      </tr>
+                    </thead>
 
-                const showSection =
-                  Boolean(currentSection) &&
-                  currentSection !== previousSection;
+                    <tbody>
+                      {
+                        sectionEntries.map((entry) => {
+                          const name = roman
+                            ? (entry.romanName?.trim() || entry.name)
+                            : entry.name;
+                          const haal = roman
+                            ? (entry.romanHaal?.trim() || entry.haal || "")
+                            : (entry.haal ?? "");
+                          const href = `/basta/${entry.page}/`;
 
-                previousSection = currentSection;
+                          return (
+                            <tr>
+                              <td class="basta-index-entry-number" dir="ltr">
+                                <a href={href}>
+                                  {entry.number !== undefined
+                                    ? entry.number
+                                    : "—"}
+                                </a>
+                              </td>
 
-                const name = roman
-                  ? (entry.romanName ?? "")
-                  : entry.name;
+                              <td>
+                                <a href={href}>{name || "—"}</a>
+                              </td>
 
-                const haal = roman
-                  ? (entry.romanHaal ?? "")
-                  : entry.haal;
+                              {hasHaal && (
+                                <td>
+                                  <a href={href}>{haal || "—"}</a>
+                                </td>
+                              )}
 
-                const href = `/basta/${entry.page}/`;
-
-                return (
-                  <>
-                    {
-                      showSection && (
-                        <tr class="basta-index-section-row">
-                          <th colspan="3" scope="rowgroup">
-                            {currentSection}
-                          </th>
-                        </tr>
-                      )
-                    }
-
-                    <tr>
-                      <td>
-                        <a href={href}>
-                          {
-                            entry.number !== undefined && (
-                              <span
-                                class="basta-index-entry-number"
-                                dir="ltr"
-                              >
-                                {entry.number}.
-                              </span>
-                            )
-                          }
-                          <span>{name || "—"}</span>
-                        </a>
-                      </td>
-
-                      <td>
-                        <a href={href}>{haal || "—"}</a>
-                      </td>
-
-                      <td
-                        class="basta-index-target-page"
-                        dir="ltr"
-                      >
-                        <a href={href}>{entry.page}</a>
-                      </td>
-                    </tr>
-                  </>
-                );
-              })
-            }
-          </tbody>
-        </table>
+                              <td class="basta-index-target-page" dir="ltr">
+                                <a href={href}>{entry.page}</a>
+                              </td>
+                            </tr>
+                          );
+                        })
+                      }
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+            );
+          })
+        }
       </div>
     )
   }
 </section>
+
+<style>
+  .basta-index-groups {
+    display: grid;
+    gap: 2.25rem;
+  }
+
+  .basta-index-group h3 {
+    margin: 0 0 0.8rem;
+    font-size: clamp(1.25rem, 3vw, 1.7rem);
+  }
+
+  .basta-index-col-serial {
+    width: 10%;
+  }
+
+  .basta-index-table-without-haal .basta-index-col-name {
+    width: 72%;
+  }
+
+  .basta-index-table-without-haal .basta-index-col-page {
+    width: 18%;
+  }
+
+  .basta-index-table-with-haal .basta-index-col-name {
+    width: 44%;
+  }
+
+  .basta-index-table-with-haal .basta-index-col-haal {
+    width: 30%;
+  }
+
+  .basta-index-table-with-haal .basta-index-col-page {
+    width: 16%;
+  }
+
+  .basta-index-entry-number,
+  .basta-index-table th:first-child {
+    font-family: Inter, system-ui, sans-serif;
+    font-variant-numeric: tabular-nums;
+    text-align: center !important;
+  }
+
+  .basta-index-entry-number a {
+    display: block;
+  }
+</style>

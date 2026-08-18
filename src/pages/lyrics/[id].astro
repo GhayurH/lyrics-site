@@ -63,12 +63,15 @@ const {
 } = Astro.props as Props;
 const { data } = lyric;
 const category = getLyricKalamType(data);
+const displayHaal = data.romanHaal?.trim() || data.haal;
 
 const searchTerms = [
   data.alternateTitle,
   data.poet,
   data.reciter,
   data.occasion,
+  data.haal,
+  data.romanHaal,
   category,
   ...data.tags,
   ...data.aliases,
@@ -153,6 +156,18 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
           </dd>
         </div>
 
+        {
+          displayHaal && (
+            <div>
+              <dt>Haal</dt>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", haal: displayHaal })}>
+                  {displayHaal}
+                </a>
+              </dd>
+            </div>
+          )
+        }
 
         {
           data.poet && (
@@ -221,6 +236,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       <span data-pagefind-filter="kalamType">{category}</span>
       <span data-pagefind-filter="language">{data.language}</span>
 
+      {displayHaal && <span data-pagefind-filter="haal">{displayHaal}</span>}
       {data.poet && <span data-pagefind-filter="poet">{data.poet}</span>}
       {data.reciter && <span data-pagefind-filter="reciter">{data.reciter}</span>}
       {data.occasion && <span data-pagefind-filter="occasion">{data.occasion}</span>}

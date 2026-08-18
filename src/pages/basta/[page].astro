@@ -6,8 +6,21 @@ import {
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaPager from "../../components/BastaPager.astro";
+import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
 
+interface BastaIndexEntry {
+  section?: string;
+  sectionRoman?: string;
+  number?: number;
+  name: string;
+  haal?: string;
+  page: number;
+  romanName?: string;
+  romanHaal?: string;
+}
+
+const typedIndexEntries = indexEntries as BastaIndexEntry[];
 const { indexStartPage, indexEndPage } = settings;
 
 export async function getStaticPaths() {
@@ -101,6 +114,28 @@ const urduText = (entry.body ?? "").trim();
 const romanText = (romanEntry?.body ?? "").trim();
 const hasRomanText = romanText.length > 0;
 
+const pageIndexEntries = typedIndexEntries.filter(
+  (indexEntry) => indexEntry.page === page,
+);
+const bastaIndexSearchTerms = pageIndexEntries
+  .flatMap((indexEntry) => [
+    indexEntry.name,
+    indexEntry.romanName,
+    indexEntry.haal,
+    indexEntry.romanHaal,
+    indexEntry.section,
+    indexEntry.sectionRoman,
+  ])
+  .filter(Boolean)
+  .join(" ");
+const haalFilters = [
+  ...new Set(
+    pageIndexEntries
+      .map((indexEntry) => indexEntry.romanHaal || indexEntry.haal || "")
+      .filter(Boolean),
+  ),
+];
+
 // The continuous Roman edition only has anchors for actual Roman pages
 // and image-only pages. Introductory Urdu prose therefore links to the
 // Roman edition normally instead of pointing at a non-existent anchor.
@@ -143,6 +178,12 @@ const romanEditionHref =
       <div class="pagefind-data" aria-hidden="true">
         <span data-pagefind-filter="collection">Basta</span>
         <span data-pagefind-meta="page">{page}</span>
+        {bastaIndexSearchTerms && (
+          <span data-pagefind-meta="searchTerms">{bastaIndexSearchTerms}</span>
+        )}
+        {haalFilters.map((haal) => (
+          <span data-pagefind-filter="haal">{haal}</span>
+        ))}
       </div>
     </header>
 
