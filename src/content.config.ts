@@ -25,6 +25,11 @@ const lyrics = defineCollection({
     occasion: z.string().optional(),
     year: z.number().int().optional(),
 
+    // Optional situational/context classification, e.g. "Sham-e-Ghariban",
+    // "Shahadat Hazrat Abbas", etc. Roman form is useful for Latin-script UI.
+    haal: z.string().optional(),
+    romanHaal: z.string().optional(),
+
     // The single browse classification shown to visitors: Noha, Salam,
     // Manqabat, etc. Existing files can still fall back to matching tags.
     kalamType: z.string().optional(),
