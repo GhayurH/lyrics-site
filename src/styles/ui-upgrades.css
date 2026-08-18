@@ -1349,3 +1349,98 @@ pagefind-filter-dropdown {
     grid-template-columns: minmax(0, 1fr);
   }
 }
+
+/* =========================================================
+   Upgrade v5: content-sized kalam cards
+   ========================================================= */
+
+/*
+ * Use a wrapping flex row rather than equal-width grid tracks. This lets
+ * every kalam card shrink to the width/height its own titles actually need.
+ */
+.lyric-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.65rem;
+}
+
+.lyric-list-item {
+  flex: 0 1 auto;
+  width: fit-content;
+  max-width: min(100%, 28rem);
+}
+
+.lyric-list-item > .lyric-list-link {
+  width: fit-content;
+  max-width: 100%;
+  min-height: 0;
+  gap: 0.12rem;
+  padding: 0.62rem 2.75rem 0.58rem 0.78rem;
+}
+
+.lyric-list-title,
+.lyric-list-roman {
+  width: fit-content;
+  max-width: 100%;
+}
+
+.lyric-list-meta {
+  margin-top: 0.25rem;
+  padding-top: 0;
+}
+
+.lyric-list-meta:empty {
+  display: none;
+}
+
+.lyric-card-save {
+  top: 0.42rem;
+  right: 0.42rem;
+}
+
+.lyric-card-save.favorite-icon-button {
+  width: 1.75rem;
+  height: 1.75rem;
+  flex-basis: 1.75rem;
+  border-radius: 0.45rem;
+}
+
+.lyric-card-save.favorite-icon-button svg {
+  width: 0.92rem;
+  height: 0.92rem;
+}
+
+/* Keep Saved / Recently viewed cards visually consistent with browse cards. */
+.saved-lyric-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.65rem;
+}
+
+.saved-lyric-item {
+  flex: 0 1 auto;
+  width: fit-content;
+  max-width: min(100%, 28rem);
+}
+
+.saved-lyric-link {
+  width: fit-content;
+  max-width: 100%;
+  min-height: 0;
+  gap: 0.12rem;
+  padding: 0.62rem 2.75rem 0.58rem 0.78rem;
+}
+
+.saved-card-save {
+  top: 0.42rem;
+  right: 0.42rem;
+}
+
+@media (max-width: 430px) {
+  .lyric-list-item,
+  .saved-lyric-item {
+    max-width: 100%;
+  }
+}
