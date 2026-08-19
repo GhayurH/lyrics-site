@@ -1,0 +1,73 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  entry: CollectionEntry<"basta">;
+  romanEntry?: CollectionEntry<"bastaRoman">;
+  showBreak?: boolean;
+}
+
+const {
+  entry,
+  romanEntry,
+  showBreak = true,
+} = Astro.props as Props;
+
+const page = entry.data.page;
+const urduText = (entry.body ?? "").trim();
+const romanText = (romanEntry?.body ?? "").trim();
+const hasRoman = romanText.length > 0;
+---
+
+<section
+  class:list={[
+    "basta-reader-page",
+    entry.data.imageOnly && "basta-reader-page-image-only",
+    !hasRoman && !entry.data.imageOnly && "basta-reader-page-no-roman",
+  ]}
+  id={`page-${page}`}
+  data-basta-page={page}
+>
+  {
+    entry.data.imageOnly ? (
+      <figure class="basta-reader-original-image">
+        <img
+          src={entry.data.originalImage}
+          alt={`Original scan of Basta page ${page}`}
+          loading="lazy"
+        />
+      </figure>
+    ) : (
+      <div class="basta-reader-page-grid">
+        <section
+          class="basta-reader-column basta-reader-roman"
+          lang="en"
+          dir="ltr"
+          aria-label={`Roman Urdu text of Basta page ${page}`}
+        >
+          {
+            hasRoman ? (
+              <div class="basta-reader-text">{romanText}</div>
+            ) : (
+              <p class="basta-transliteration-missing">
+                No transliteration available for this page.
+              </p>
+            )
+          }
+        </section>
+
+        <section
+          class="basta-reader-column basta-reader-urdu"
+          lang="ur"
+          dir="rtl"
+          aria-label={`Urdu text of Basta page ${page}`}
+        >
+          <div class="basta-reader-text">{urduText}</div>
+        </section>
+      </div>
+    )
+  }
+
+  <p class="basta-reader-page-number" dir="ltr">{page}</p>
+  {showBreak && <hr class="basta-reader-page-break" aria-hidden="true" />}
+</section>

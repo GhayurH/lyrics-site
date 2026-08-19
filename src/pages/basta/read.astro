@@ -1,0 +1,256 @@
+---
+import { getCollection } from "astro:content";
+
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BastaContinuousPage from "../../components/BastaContinuousPage.astro";
+import BastaIndexTable from "../../components/BastaIndexTable.astro";
+import indexEntries from "../../data/basta/index.json";
+import settings from "../../data/basta/settings.json";
+import "../../styles/basta-reader.css";
+
+interface BastaIndexEntry {
+  section?: string;
+  sectionRoman?: string;
+  number?: number;
+  name: string;
+  haal?: string;
+  page: number;
+  romanName?: string;
+  romanHaal?: string;
+}
+
+const entries = indexEntries as BastaIndexEntry[];
+const { indexStartPage, indexEndPage } = settings;
+
+const bookPages = (
+  await getCollection("basta", ({ data }) => data.published)
+).sort((a, b) => a.data.page - b.data.page);
+
+const romanPages = (
+  await getCollection("bastaRoman", ({ data }) => data.published)
+).sort((a, b) => a.data.page - b.data.page);
+
+const romanByPage = new Map(
+  romanPages.map((entry) => [entry.data.page, entry]),
+);
+
+// The physical index scans are replaced by the linked index, just as in the
+// existing continuous Urdu edition.
+const beforeIndex = bookPages.filter(
+  (entry) => entry.data.page < indexStartPage,
+);
+const afterIndex = bookPages.filter(
+  (entry) => entry.data.page > indexEndPage,
+);
+---
+
+<BaseLayout
+  title="Basta — Continuous reader | Kalam Archive"
+  description="Read Basta continuously in parallel Urdu and Roman Urdu, Urdu only, or Roman Urdu only."
+>
+  <article class="basta-reader">
+    <header class="basta-reader-header" data-pagefind-ignore>
+      <div class="basta-subnav">
+        <a href="/basta/">Basta</a>
+        <span aria-hidden="true">·</span>
+        <a href="/basta/index/">Index</a>
+      </div>
+
+      <h1>Basta — Continuous reader</h1>
+      <p>
+        Read the complete text as one continuous edition. Switch between
+        parallel Urdu and Roman Urdu, Urdu only, or Roman Urdu only.
+      </p>
+    </header>
+
+    <div
+      class="reading-controls basta-reading-controls"
+      data-pagefind-ignore
+      aria-label="Reading controls"
+    >
+      <div class="reading-control-group reading-view-control">
+        <span class="reading-control-label">View</span>
+        <div class="segmented-control" role="group" aria-label="Basta view">
+          <button
+            type="button"
+            data-basta-reading-mode="parallel"
+            aria-pressed="true"
+          >
+            Parallel
+          </button>
+          <button
+            type="button"
+            data-basta-reading-mode="urdu"
+            aria-pressed="false"
+          >
+            Urdu
+          </button>
+          <button
+            type="button"
+            data-basta-reading-mode="roman"
+            aria-pressed="false"
+          >
+            Roman
+          </button>
+        </div>
+      </div>
+
+      <label class="reading-control-group">
+        <span class="reading-control-label">Text size</span>
+        <select id="basta-reading-font-size">
+          <option value="small">Small</option>
+          <option value="default" selected>Default</option>
+          <option value="large">Large</option>
+          <option value="xlarge">Extra large</option>
+        </select>
+      </label>
+
+      <label class="reading-control-group">
+        <span class="reading-control-label">Line spacing</span>
+        <select id="basta-reading-line-spacing">
+          <option value="compact">Compact</option>
+          <option value="default" selected>Default</option>
+          <option value="relaxed">Relaxed</option>
+        </select>
+      </label>
+    </div>
+
+    <div
+      class="basta-reader-flow"
+      data-basta-reader-flow
+      data-reading-mode="parallel"
+      data-font-size="default"
+      data-line-spacing="default"
+      data-pagefind-ignore
+    >
+      {
+        beforeIndex.map((entry) => (
+          <BastaContinuousPage
+            entry={entry}
+            romanEntry={romanByPage.get(entry.data.page)}
+          />
+        ))
+      }
+
+      <section class="basta-reader-index" id="index">
+        <div class="basta-reader-index-grid">
+          <div class="basta-reader-index-panel basta-reader-index-roman">
+            <BastaIndexTable
+              entries={entries}
+              edition="roman"
+              linkMode="continuous"
+            />
+          </div>
+
+          <div class="basta-reader-index-panel basta-reader-index-urdu">
+            <BastaIndexTable
+              entries={entries}
+              edition="urdu"
+              linkMode="continuous"
+            />
+          </div>
+        </div>
+        <hr class="basta-reader-page-break" aria-hidden="true" />
+      </section>
+
+      {
+        afterIndex.map((entry, index) => (
+          <BastaContinuousPage
+            entry={entry}
+            romanEntry={romanByPage.get(entry.data.page)}
+            showBreak={index < afterIndex.length - 1}
+          />
+        ))
+      }
+    </div>
+  </article>
+
+  <script>
+    const PREFS_KEY = "kalam:reading-prefs";
+
+    const reader = document.querySelector<HTMLElement>("[data-basta-reader-flow]");
+    const fontSelect =
+      document.querySelector<HTMLSelectElement>("#basta-reading-font-size");
+    const spacingSelect =
+      document.querySelector<HTMLSelectElement>("#basta-reading-line-spacing");
+    const modeButtons =
+      document.querySelectorAll<HTMLButtonElement>("[data-basta-reading-mode]");
+
+    const validModes = new Set(["parallel", "urdu", "roman"]);
+    const validFontSizes = new Set(["small", "default", "large", "xlarge"]);
+    const validSpacings = new Set(["compact", "default", "relaxed"]);
+
+    let savedPrefs: Record<string, unknown> = {};
+    try {
+      const parsed = JSON.parse(localStorage.getItem(PREFS_KEY) ?? "{}");
+      if (parsed && typeof parsed === "object") {
+        savedPrefs = parsed as Record<string, unknown>;
+      }
+    } catch {}
+
+    const prefs = {
+      mode:
+        typeof savedPrefs.mode === "string" && validModes.has(savedPrefs.mode)
+          ? savedPrefs.mode
+          : "parallel",
+      fontSize:
+        typeof savedPrefs.fontSize === "string" &&
+        validFontSizes.has(savedPrefs.fontSize)
+          ? savedPrefs.fontSize
+          : "default",
+      spacing:
+        typeof savedPrefs.spacing === "string" &&
+        validSpacings.has(savedPrefs.spacing)
+          ? savedPrefs.spacing
+          : "default",
+    };
+
+    function storePrefs() {
+      try {
+        localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+      } catch {}
+    }
+
+    function applyPrefs() {
+      if (!reader) return;
+
+      reader.dataset.readingMode = prefs.mode;
+      reader.dataset.fontSize = prefs.fontSize;
+      reader.dataset.lineSpacing = prefs.spacing;
+
+      if (fontSelect) fontSelect.value = prefs.fontSize;
+      if (spacingSelect) spacingSelect.value = prefs.spacing;
+
+      modeButtons.forEach((button) => {
+        const active = button.dataset.bastaReadingMode === prefs.mode;
+        button.setAttribute("aria-pressed", String(active));
+      });
+    }
+
+    modeButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const mode = button.dataset.bastaReadingMode;
+        if (!mode || !validModes.has(mode)) return;
+        prefs.mode = mode;
+        storePrefs();
+        applyPrefs();
+      });
+    });
+
+    fontSelect?.addEventListener("change", () => {
+      if (!validFontSizes.has(fontSelect.value)) return;
+      prefs.fontSize = fontSelect.value;
+      storePrefs();
+      applyPrefs();
+    });
+
+    spacingSelect?.addEventListener("change", () => {
+      if (!validSpacings.has(spacingSelect.value)) return;
+      prefs.spacing = spacingSelect.value;
+      storePrefs();
+      applyPrefs();
+    });
+
+    applyPrefs();
+  </script>
+</BaseLayout>
