@@ -1,28 +1,17 @@
 ---
 // File role: Browse landing route: groups published lyrics by Kalam Type and surfaces compact category previews plus the Basta entry point.
-import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import LyricList from "../components/LyricList.astro";
 import {
   compareKalamTypes,
-  compareLyrics,
-  getLyricKalamType,
   slugifyKalamType,
 } from "../lib/lyrics";
+import { loadPublishedLyrics, groupLyricsByKalamType } from "../lib/lyrics-data";
+import "../styles/home.css";
 
 const HOME_PREVIEW_COUNT = 5;
-
-const lyrics = (
-  await getCollection("lyrics", ({ data }) => data.published)
-).sort(compareLyrics);
-
-const grouped = new Map<string, typeof lyrics>();
-for (const lyric of lyrics) {
-  const kalamType = getLyricKalamType(lyric.data);
-  const entries = grouped.get(kalamType) ?? [];
-  entries.push(lyric);
-  grouped.set(kalamType, entries);
-}
+const lyrics = await loadPublishedLyrics();
+const grouped = groupLyricsByKalamType(lyrics);
 
 const kalamTypes = [...grouped.entries()].sort(([a], [b]) =>
   compareKalamTypes(a, b),
@@ -38,7 +27,6 @@ const kalamTypes = [...grouped.entries()].sort(([a], [b]) =>
     <p>
       Browse Urdu nohas, salams, manqabats and other kalam by type, search the archive, or read the complete Basta.
     </p>
-
     <div class="hero-actions">
       <a class="button" href="/search/">Search the archive</a>
       <a class="button button-secondary" href="/about/">About / Contact</a>
@@ -59,36 +47,21 @@ const kalamTypes = [...grouped.entries()].sort(([a], [b]) =>
         kalamTypes.map(([kalamType, entries]) => {
           const typeSlug = slugifyKalamType(kalamType);
           const previewEntries = entries.slice(0, HOME_PREVIEW_COUNT);
-
           return (
-            <section
-              class="category-preview-section"
-              id={typeSlug}
-              aria-labelledby={`${typeSlug}-heading`}
-            >
+            <section class="category-preview-section" id={typeSlug} aria-labelledby={`${typeSlug}-heading`}>
               <div class="category-preview-heading">
                 <div>
                   <h3 id={`${typeSlug}-heading`}>{kalamType}</h3>
-                  <p>
-                    {entries.length} {entries.length === 1 ? "entry" : "entries"}
-                  </p>
+                  <p>{entries.length} {entries.length === 1 ? "entry" : "entries"}</p>
                 </div>
-
-                <a
-                  class="button button-secondary category-see-all"
-                  href={`/categories/${typeSlug}/`}
-                >
+                <a class="button button-secondary category-see-all" href={`/categories/${typeSlug}/`}>
                   See all {kalamType}
                 </a>
               </div>
-
               <LyricList lyrics={previewEntries} />
-
               {entries.length > HOME_PREVIEW_COUNT && (
                 <div class="category-preview-footer">
-                  <a href={`/categories/${typeSlug}/`}>
-                    See all {entries.length} {kalamType} →
-                  </a>
+                  <a href={`/categories/${typeSlug}/`}>See all {entries.length} {kalamType} →</a>
                 </div>
               )}
             </section>
@@ -108,18 +81,14 @@ const kalamTypes = [...grouped.entries()].sort(([a], [b]) =>
     </div>
 
     <div class="basta-home-card">
-      <a
-        class="basta-home-cover-link"
-        href="/basta/"
-        aria-label="Open Basta"
-      >
+      <a class="basta-home-cover-link" href="/basta/" aria-label="Open Basta">
         <img
           src="/images/basta/original/001.png"
           alt="Original first page of Basta"
           loading="lazy"
+          decoding="async"
         />
       </a>
-
       <div class="basta-home-copy">
         <h3>Basta</h3>
         <p>

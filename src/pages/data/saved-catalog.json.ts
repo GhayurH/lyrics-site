@@ -1,9 +1,7 @@
-// File role: Static catalog endpoint for Saved/Recent: emits only the metadata needed to resolve local IDs, keeping the full catalog out of the initial Saved page HTML.
+// File role: Static Saved/Recent catalog endpoint built from the canonical lyric-card view model.
 import { getCollection } from "astro:content";
-import {
-  compareLyrics,
-  getLyricKalamType,
-} from "../../lib/lyrics";
+import { toLyricCardData } from "../../lib/catalog";
+import { compareLyrics } from "../../lib/lyrics";
 
 export const prerender = true;
 
@@ -12,15 +10,5 @@ export async function GET() {
     await getCollection("lyrics", ({ data }) => data.published)
   ).sort(compareLyrics);
 
-  const catalog = lyrics.map((lyric) => ({
-    id: lyric.id,
-    title: lyric.data.title,
-    alternateTitle: lyric.data.alternateTitle ?? "",
-    kalamType: getLyricKalamType(lyric.data),
-    lang: lyric.data.lang,
-    direction: lyric.data.direction,
-    href: `/lyrics/${lyric.id}/`,
-  }));
-
-  return Response.json(catalog);
+  return Response.json(lyrics.map((lyric) => toLyricCardData(lyric)));
 }

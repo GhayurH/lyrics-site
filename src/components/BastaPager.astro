@@ -1,5 +1,5 @@
 ---
-// File role: Page-by-page Basta navigation: owns previous/next links and validated direct page jumps; its processed client script is shared safely across pager instances.
+// File role: Reusable Basta previous/next navigation and direct-page jump UI; validation/routing logic lives in the shared Basta navigation client.
 interface Props {
   currentPage?: number;
   previousHref?: string;
@@ -21,31 +21,21 @@ const {
   indexStartPage,
   indexEndPage,
 } = Astro.props as Props;
-
-const availablePagesValue = availablePages.join(",");
 ---
 
-<nav
-  class="basta-pager"
-  aria-label="Basta page navigation"
-  data-pagefind-ignore
->
+<nav class="basta-pager" aria-label="Basta page navigation" data-pagefind-ignore>
   {
     previousHref ? (
-      <a class="basta-nav-button" href={previousHref}>
-        {previousLabel}
-      </a>
+      <a class="basta-nav-button" href={previousHref}>{previousLabel}</a>
     ) : (
-      <span class="basta-nav-button is-disabled" aria-disabled="true">
-        {previousLabel}
-      </span>
+      <span class="basta-nav-button is-disabled" aria-disabled="true">{previousLabel}</span>
     )
   }
 
   <form
     class="basta-jump-form"
     data-basta-jump-form
-    data-available-pages={availablePagesValue}
+    data-available-pages={availablePages.join(",")}
     data-index-start-page={indexStartPage}
     data-index-end-page={indexEndPage}
   >
@@ -55,7 +45,7 @@ const availablePagesValue = availablePages.join(",");
         name="page"
         type="number"
         min={availablePages[0]}
-        max={availablePages[availablePages.length - 1]}
+        max={availablePages.at(-1)}
         value={currentPage}
         inputmode="numeric"
         required
@@ -66,61 +56,14 @@ const availablePagesValue = availablePages.join(",");
 
   {
     nextHref ? (
-      <a class="basta-nav-button" href={nextHref}>
-        {nextLabel}
-      </a>
+      <a class="basta-nav-button" href={nextHref}>{nextLabel}</a>
     ) : (
-      <span class="basta-nav-button is-disabled" aria-disabled="true">
-        {nextLabel}
-      </span>
+      <span class="basta-nav-button is-disabled" aria-disabled="true">{nextLabel}</span>
     )
   }
 </nav>
 
 <script>
-  document
-    .querySelectorAll<HTMLFormElement>("[data-basta-jump-form]")
-    .forEach((form) => {
-      if (form.dataset.bastaJumpReady === "true") return;
-      form.dataset.bastaJumpReady = "true";
-
-      const input = form.querySelector<HTMLInputElement>('input[name="page"]');
-      const availablePages = new Set(
-        (form.dataset.availablePages ?? "")
-          .split(",")
-          .map(Number)
-          .filter(Number.isInteger),
-      );
-      const indexStartPage = Number(form.dataset.indexStartPage);
-      const indexEndPage = Number(form.dataset.indexEndPage);
-
-      input?.addEventListener("input", () => {
-        input.setCustomValidity("");
-      });
-
-      form.addEventListener("submit", (event) => {
-        event.preventDefault();
-
-        const page = Number(input?.value);
-
-        if (!Number.isInteger(page)) {
-          input?.setCustomValidity("Enter a valid page number.");
-          input?.reportValidity();
-          return;
-        }
-
-        if (page >= indexStartPage && page <= indexEndPage) {
-          window.location.href = "/basta/index/";
-          return;
-        }
-
-        if (!availablePages.has(page)) {
-          input?.setCustomValidity("That page is not available.");
-          input?.reportValidity();
-          return;
-        }
-
-        window.location.href = `/basta/${page}/`;
-      });
-    });
+  import { initBastaPageJumps } from "../client/basta-navigation";
+  initBastaPageJumps();
 </script>

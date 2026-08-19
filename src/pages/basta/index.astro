@@ -1,23 +1,11 @@
 ---
 // File role: Basta landing route: offers page-by-page, continuous, index, and PDF entry points without loading the full reader payload.
-import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import settings from "../../data/basta/settings.json";
+import { loadBastaNavigationData } from "../../lib/basta-pages";
 import "../../styles/basta.css";
 
-const { indexStartPage, indexEndPage } = settings;
-
-const pages = (
-  await getCollection("basta", ({ data }) => data.published)
-)
-  .filter(
-    (entry) =>
-      entry.data.page < indexStartPage ||
-      entry.data.page > indexEndPage,
-  )
-  .sort((a, b) => a.data.page - b.data.page);
-
-const availablePages = pages.map((entry) => entry.data.page);
+const { availablePages, indexStartPage, indexEndPage } =
+  await loadBastaNavigationData();
 const firstPage = availablePages[0];
 const lastPage = availablePages.at(-1);
 ---
@@ -69,7 +57,10 @@ const lastPage = availablePages.at(-1);
         firstPage && lastPage && (
           <form
             class="basta-home-page-jump"
-            data-basta-home-jump
+            data-basta-jump-form
+            data-available-pages={availablePages.join(",")}
+            data-index-start-page={indexStartPage}
+            data-index-end-page={indexEndPage}
             aria-label="Go directly to a Basta page"
           >
             <label for="basta-home-page-number">Go to page</label>
@@ -125,44 +116,8 @@ const lastPage = availablePages.at(-1);
     </section>
   </article>
 
-  <script
-    is:inline
-    define:vars={{
-      availableBastaPages: availablePages,
-      bastaIndexStartPage: indexStartPage,
-      bastaIndexEndPage: indexEndPage,
-    }}
-  >
-    const jumpForm = document.querySelector("[data-basta-home-jump]");
-    const jumpInput = jumpForm?.querySelector('input[name="page"]');
-
-    jumpForm?.addEventListener("submit", (event) => {
-      event.preventDefault();
-
-      const page = Number(jumpInput?.value);
-
-      if (!Number.isInteger(page)) {
-        jumpInput?.setCustomValidity("Enter a valid page number.");
-        jumpInput?.reportValidity();
-        return;
-      }
-
-      if (page >= bastaIndexStartPage && page <= bastaIndexEndPage) {
-        window.location.href = "/basta/index/";
-        return;
-      }
-
-      if (!availableBastaPages.includes(page)) {
-        jumpInput?.setCustomValidity("That page is not available.");
-        jumpInput?.reportValidity();
-        return;
-      }
-
-      window.location.href = `/basta/${page}/`;
-    });
-
-    jumpInput?.addEventListener("input", () => {
-      jumpInput.setCustomValidity("");
-    });
+  <script>
+    import { initBastaPageJumps } from "../../client/basta-navigation";
+    initBastaPageJumps();
   </script>
 </BaseLayout>

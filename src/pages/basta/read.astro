@@ -1,41 +1,19 @@
 ---
-// File role: Full-book Basta reader: streams published pages around the linked index and applies shared reading-mode/text-size preferences across the continuous edition.
-import { getCollection } from "astro:content";
-
+// File role: Full-book Basta reader shell: server-renders the first chunk and linked index, then progressively loads the remaining static chunks near the viewport.
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaContinuousPage from "../../components/BastaContinuousPage.astro";
 import BastaParallelIndex from "../../components/BastaParallelIndex.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
+import { loadBastaReaderDataset } from "../../lib/basta-reader-data";
 import indexEntries from "../../data/basta/index.json";
-import settings from "../../data/basta/settings.json";
 import "../../styles/basta.css";
 import "../../styles/basta-reader.css";
-import "../../styles/basta-performance.css";
-import "../../styles/responsive-reading.css";
+import "../../styles/basta-stream.css";
 
 const entries = indexEntries as BastaIndexEntry[];
-const { indexStartPage, indexEndPage } = settings;
-
-const bookPages = (
-  await getCollection("basta", ({ data }) => data.published)
-).sort((a, b) => a.data.page - b.data.page);
-
-const romanPages = (
-  await getCollection("bastaRoman", ({ data }) => data.published)
-).sort((a, b) => a.data.page - b.data.page);
-
-const romanByPage = new Map(
-  romanPages.map((entry) => [entry.data.page, entry]),
-);
-
-// The physical index scans are replaced by the linked index.
-const beforeIndex = bookPages.filter(
-  (entry) => entry.data.page < indexStartPage,
-);
-const afterIndex = bookPages.filter(
-  (entry) => entry.data.page > indexEndPage,
-);
+const { beforeChunks, afterChunks } = await loadBastaReaderDataset();
+const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
 ---
 
 <BaseLayout
@@ -49,7 +27,6 @@ const afterIndex = bookPages.filter(
         <span aria-hidden="true">·</span>
         <a href="/basta/index/">Index</a>
       </div>
-
       <h1>Basta — Continuous reader</h1>
       <p>
         Read the complete text as one continuous edition. Switch between
@@ -58,13 +35,15 @@ const afterIndex = bookPages.filter(
     </header>
 
     <ReadingControls
-      className="basta-reading-controls"
       ariaLabel="Basta reading controls"
+      className="basta-reading-controls"
       modeGroupLabel="Basta view"
     />
 
     <div
       class="basta-reader-flow"
+      data-basta-reader-flow
+      data-basta-stream
       data-reading-root
       data-has-roman="true"
       data-reading-mode="parallel"
@@ -73,12 +52,24 @@ const afterIndex = bookPages.filter(
       data-pagefind-ignore
     >
       {
-        beforeIndex.map((entry) => (
-          <BastaContinuousPage
-            entry={entry}
-            romanEntry={romanByPage.get(entry.data.page)}
-          />
-        ))
+        beforeChunks.map((chunk) => {
+          const loaded = chunk.id === initialChunkId;
+          return (
+            <section
+              class="basta-reader-chunk"
+              data-basta-chunk={chunk.id}
+              data-chunk-url={`/data/basta-reader/${chunk.id}.json`}
+              data-start-page={chunk.startPage}
+              data-end-page={chunk.endPage}
+              data-chunk-loaded={loaded ? "true" : undefined}
+              aria-busy={loaded ? undefined : "true"}
+            >
+              {loaded
+                ? chunk.pages.map((page) => <BastaContinuousPage page={page} />)
+                : <p class="basta-reader-chunk-message">Loading pages {chunk.startPage}–{chunk.endPage}…</p>}
+            </section>
+          );
+        })
       }
 
       <section class="basta-reader-index" id="index">
@@ -87,19 +78,39 @@ const afterIndex = bookPages.filter(
       </section>
 
       {
-        afterIndex.map((entry, index) => (
-          <BastaContinuousPage
-            entry={entry}
-            romanEntry={romanByPage.get(entry.data.page)}
-            showBreak={index < afterIndex.length - 1}
-          />
-        ))
+        afterChunks.map((chunk) => {
+          const loaded = chunk.id === initialChunkId;
+          return (
+            <section
+              class="basta-reader-chunk"
+              data-basta-chunk={chunk.id}
+              data-chunk-url={`/data/basta-reader/${chunk.id}.json`}
+              data-start-page={chunk.startPage}
+              data-end-page={chunk.endPage}
+              data-chunk-loaded={loaded ? "true" : undefined}
+              aria-busy={loaded ? undefined : "true"}
+            >
+              {loaded
+                ? chunk.pages.map((page) => <BastaContinuousPage page={page} />)
+                : <p class="basta-reader-chunk-message">Loading pages {chunk.startPage}–{chunk.endPage}…</p>}
+            </section>
+          );
+        })
       }
     </div>
+
+    <noscript>
+      <p class="basta-reader-noscript">
+        The continuous reader progressively loads pages with JavaScript. The
+        <a href="/basta/">page-by-page reader</a> works without it.
+      </p>
+    </noscript>
   </article>
 
   <script>
-    import { initReadingControls } from "../../scripts/reader-state.js";
+    import { initReadingControls } from "../../client/reader-state";
+    import { initBastaStreamingReader } from "../../client/basta-stream";
     initReadingControls();
+    initBastaStreamingReader();
   </script>
 </BaseLayout>

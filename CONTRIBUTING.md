@@ -35,21 +35,11 @@ npm run preview
 
 ### Lyrics metadata
 
-Lyrics live under:
+Lyrics live under `src/data/lyrics/`. `src/content.config.ts` defines the content schema and is the source of truth.
 
-```text
-src/data/lyrics/
-```
+Every lyric entry uses an explicit `kalamType` for its broad classification. Do not reintroduce the old pattern of deriving the broad type from `category` or general-purpose tags.
 
-`src/content.config.ts` defines the content schema and should be treated as the source of truth.
-
-Every lyric entry uses an explicit:
-
-```yaml
-kalamType:
-```
-
-for its broad classification. Do not reintroduce the old pattern of deriving the broad type from `category` or general-purpose tags.
+`haal` / `romanHaal`, poet, reciter, occasion, language, and tags are separate cross-cutting metadata and should not be overloaded to replace `kalamType`.
 
 ### Urdu and Roman lyrics
 
@@ -76,13 +66,9 @@ For numbered lyrics:
 
 If a refrain is separately displayed and also repeated as the final line of a stanza, omit that repeated final-line copy from the stanza.
 
-The goal is to avoid accidental duplication while preserving the intended recitation structure.
-
 ### Source fidelity
 
-Do not silently modernize spelling, punctuation, line division, or wording merely for stylistic consistency.
-
-When correcting obvious source or transcription errors, make the smallest change needed and preserve the character of the original text.
+Do not silently modernize spelling, punctuation, line division, or wording merely for stylistic consistency. When correcting obvious source or transcription errors, make the smallest change needed and preserve the character of the original text.
 
 ## Basta contribution rules
 
@@ -106,7 +92,7 @@ When editing Basta material:
 - update the structured index when a correction affects index navigation
 - preserve image paths such as `/images/basta/...`; do not replace them with the R2 custom-domain hostname
 
-The page-by-page and continuous readers rely on the shared data remaining internally consistent.
+The page-by-page and continuous readers both derive from these shared sources. The continuous reader's JSON chunks are generated at build time; they are not hand-maintained files.
 
 ## Asset storage and publishing
 
@@ -136,18 +122,7 @@ kalamarchive.com/images/*  -> Cloudflare R2
 kalamarchive.com/files/*   -> Cloudflare R2
 ```
 
-The R2 bucket also has the custom domain:
-
-```text
-r2-assets.kalamarchive.com
-```
-
-That hostname is the R2 origin/custom domain. Normal site content should continue using the stable public paths:
-
-```text
-/images/...
-/files/...
-```
+The R2 bucket also has the custom domain `r2-assets.kalamarchive.com`. That hostname is the R2 origin/custom domain. Normal site content should continue using the stable public paths `/images/...` and `/files/...`.
 
 Do **not** replace normal content URLs with `r2-assets.kalamarchive.com` unless there is a specific architectural reason to do so.
 
@@ -185,49 +160,17 @@ rclone copy \
   --progress
 ```
 
-`rclone copy` adds new objects and updates changed objects without deleting unrelated destination objects.
-
-Using `--checksum` provides content-based change detection where supported.
+`rclone copy` adds new objects and updates changed objects without deleting unrelated destination objects. Using `--checksum` provides content-based change detection where supported.
 
 ### Replacing an existing image
 
-Corrections often require regenerating an image while keeping its filename and public URL.
-
-Replace the local file at the same path, for example:
-
-```text
-~/KalamArchiveAssets/images/lyrics/example.png
-```
-
-and run the normal image upload command again.
-
-The R2 object at:
-
-```text
-images/lyrics/example.png
-```
-
-will be updated while the public site URL remains:
-
-```text
-https://kalamarchive.com/images/lyrics/example.png
-```
+Replace the local file at the same path and run the normal image upload command again. The R2 object is updated while the public site URL remains stable.
 
 Cloudflare caching may temporarily serve a previous cached version after an overwrite. If an updated object is not visible promptly, purge that URL from Cloudflare cache rather than renaming the object solely to defeat caching.
 
 ### Do not use destructive syncing by default
 
-Prefer:
-
-```bash
-rclone copy ...
-```
-
-for normal maintenance.
-
-Do not casually replace it with `rclone sync`, because `sync` can delete destination objects that are absent from the local source.
-
-Do not use `--immutable` for this archive's normal asset workflow because existing images are intentionally corrected and overwritten from time to time.
+Prefer `rclone copy ...` for normal maintenance. Do not casually replace it with `rclone sync`, because `sync` can delete destination objects that are absent from the local source. Do not use `--immutable` for the normal archive workflow because existing images are intentionally corrected and overwritten from time to time.
 
 ## Verifying R2 uploads
 
@@ -255,45 +198,19 @@ To inspect total object count and size:
 rclone size r2:kalam-archive-assets
 ```
 
-When checking routing, an object that exists only in R2 can be requested through the normal site path to prove that Cloud Connector is serving the request.
-
 ## Local development with R2 assets
 
-A Git clone intentionally does not contain:
-
-```text
-public/images/
-public/files/
-```
+A Git clone intentionally does not contain `public/images/` or `public/files/`.
 
 For local development, symlink the external asset master into `public/`:
 
 ```bash
 cd ~/Projects/lyrics-site
-
 ln -s ~/KalamArchiveAssets/images public/images
 ln -s ~/KalamArchiveAssets/files public/files
 ```
 
-If needed, keep those local symlinks out of Git using the repository-local exclude file:
-
-```bash
-cat >> .git/info/exclude <<'EOF'
-
-# Local links to Cloudflare R2 asset masters
-public/images
-public/files
-EOF
-```
-
-This keeps the normal local URLs working:
-
-```text
-http://localhost:4321/images/...
-http://localhost:4321/files/...
-```
-
-without putting the binary assets back into repository history.
+These paths are ignored by Git, so repository-local `.git/info/exclude` entries are no longer required for normal clones.
 
 ## Normal publishing workflow
 
@@ -303,81 +220,66 @@ For a content correction that changes both text and an image:
 2. Replace or add the corresponding file under `~/KalamArchiveAssets/`.
 3. Run the appropriate `rclone copy ... --checksum --progress` command.
 4. Verify the R2 object if necessary.
-5. Run:
-
-   ```bash
-   npm run build
-   ```
-
-6. Commit only the Git-tracked code/text changes:
-
-   ```bash
-   git add .
-   git commit -m "Describe the correction"
-   git push
-   ```
-
-7. If the image was overwritten and the old version remains visible, purge the affected Cloudflare cache URL.
+5. Run `npm run build`.
+6. Review `git diff --check` and `git status --short`.
+7. Commit only the Git-tracked code/text changes and push.
+8. If an overwritten image remains cached, purge the affected Cloudflare cache URL.
 
 Large image/PDF binaries should not be added back to Git.
 
 ## Code and maintenance notes
 
+The detailed implementation map lives in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md). The following rules are the maintenance contract.
+
 ### CSS ownership
 
-Keep route-specific styles route-specific.
+`src/styles/core.css` contains only genuinely global tokens, shell styles, controls, and shared primitives such as the canonical lyric card.
 
-Current responsibilities include:
+Route/feature styles live in their own files:
 
-- `src/styles/global.css` — shared base site styling
-- `src/styles/ui-upgrades.css` — shared UI enhancements
-- `src/styles/responsive-reading.css` — reading-mode layout behavior
-- `src/styles/basta.css` — Basta page/index presentation
-- `src/styles/basta-reader.css` — continuous-reader and bilingual-index reader presentation
+- `home.css`
+- `about.css`
+- `saved.css`
+- `search.css`
+- `lyrics.css`
+- `basta.css`
+- `basta-reader.css`
+- `basta-stream.css`
 
-Avoid moving reader-only rules into global CSS unless they are genuinely shared across the whole site.
+Do not recreate a global override stack. A route-specific rule belongs with its route; a genuinely shared primitive belongs in `core.css`.
 
-### Basta reading layouts
+### Browser code
 
-Basta pages may contain:
+Production browser modules live under `src/client/`. Do not place required source code in a root-local `scripts/` or `tools/` directory: those locations are for local maintenance work and may be ignored.
 
-- scan only
-- scan + Urdu
-- scan + Urdu + Roman
+Browser-local persistence should use `src/client/storage.ts` rather than parsing/writing the same localStorage keys independently in each route.
 
-When changing grid rules, test both desktop and narrow/mobile layouts. In particular, Urdu-only pages and Roman-enabled pages use different grid combinations and should not accidentally occupy the same named grid area.
+### Lyric cards
+
+`src/lib/catalog.ts` defines the canonical lightweight card model. Server-rendered cards use `LyricCard.astro`; Saved/Recent uses the matching browser helper because those entries are only known after local state is read. Keep their data/class/bookmark contracts aligned through the shared model and UI constants rather than introducing a second card design.
+
+### Reading controls
+
+Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. Do not reimplement mode/text-size/spacing persistence inside an individual route.
+
+### Basta layouts and streaming
+
+Basta pages may contain scan only, scan + Urdu, or scan + Urdu + Roman. When changing grid rules, test both desktop and narrow/mobile layouts.
+
+The continuous reader uses pre-rendered eight-page JSON chunks. If changing chunk behavior, preserve:
+
+- direct `#page-N` links
+- the linked index between the correct page ranges
+- the page-by-page reader as the static fallback
+- shared reader preferences
 
 ### Saved/Recent catalog
 
-The Saved/Recent catalog is exposed as:
-
-```text
-/data/saved-catalog.json
-```
-
-by:
-
-```text
-src/pages/data/saved-catalog.json.ts
-```
-
-It is fetched only by the Saved/Recent experience rather than embedded broadly into page output.
+The Saved/Recent catalog is exposed as `/data/saved-catalog.json` by `src/pages/data/saved-catalog.json.ts`. It is fetched only by the Saved/Recent experience rather than embedded broadly into page output.
 
 ### File-role comments
 
-Source/style/config files contain concise `File role:` comments.
-
-When adding a new substantive source or style file, add a short comment describing:
-
-- what the file owns
-- what it should not own when that boundary matters
-- how it relates to nearby files if the distinction is not obvious
-
-Do not add comments merely to restate syntax.
-
-### Audit tooling
-
-There is currently no required metadata-audit command in the normal npm workflow. Validation should come from the content schema, the production build, and targeted checks appropriate to the change being made.
+New substantive source/style/config files should contain a concise `File role:` comment describing responsibility and, where useful, the boundary with nearby files. Do not add comments merely to restate syntax.
 
 ## Before committing
 
@@ -389,12 +291,13 @@ git diff --check
 git status --short
 ```
 
-Review the diff before committing.
-
-For asset changes, verify that the corresponding R2 object has also been uploaded. A successful Git commit does not publish files stored only in `~/KalamArchiveAssets/`.
+Review the diff before committing. For asset changes, verify that the corresponding R2 object has also been uploaded.
 
 ## Corrections and questions
 
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
+
+
+The Basta landing page and pager components share `src/client/basta-navigation.ts` for page-jump validation and index-gap routing.

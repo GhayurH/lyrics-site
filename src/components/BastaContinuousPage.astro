@@ -1,75 +1,48 @@
 ---
-// File role: Continuous-reader page unit: renders one Basta scan/text page inside the full-book reader while keeping page anchors and language columns aligned.
-import type { CollectionEntry } from "astro:content";
+// File role: Server-rendered Basta page unit for the initially loaded continuous-reader chunk; its DOM contract is mirrored by the streaming client.
+import type { BastaReaderPageData } from "../lib/basta";
 
 interface Props {
-  entry: CollectionEntry<"basta">;
-  romanEntry?: CollectionEntry<"bastaRoman">;
-  showBreak?: boolean;
+  page: BastaReaderPageData;
 }
 
-const {
-  entry,
-  romanEntry,
-  showBreak = true,
-} = Astro.props as Props;
-
-const page = entry.data.page;
-const urduText = (entry.body ?? "").trim();
-const romanText = (romanEntry?.body ?? "").trim();
-const hasRoman = romanText.length > 0;
+const { page } = Astro.props as Props;
 ---
 
 <section
   class:list={[
     "basta-reader-page",
-    entry.data.imageOnly && "basta-reader-page-image-only",
-    !hasRoman && !entry.data.imageOnly && "basta-reader-page-no-roman",
+    page.imageOnly && "basta-reader-page-image-only",
+    !page.hasRoman && !page.imageOnly && "basta-reader-page-no-roman",
   ]}
-  id={`page-${page}`}
-  data-basta-page={page}
+  id={`page-${page.page}`}
+  data-basta-page={page.page}
 >
   {
-    entry.data.imageOnly ? (
+    page.imageOnly ? (
       <figure class="basta-reader-original-image">
         <img
-          src={entry.data.originalImage}
-          alt={`Original scan of Basta page ${page}`}
+          src={page.originalImage}
+          alt={`Original scan of Basta page ${page.page}`}
           loading="lazy"
           decoding="async"
         />
       </figure>
     ) : (
       <div class="basta-reader-page-grid">
-        <section
-          class="basta-reader-column basta-reader-roman"
-          lang="en"
-          dir="ltr"
-          aria-label={`Roman Urdu text of Basta page ${page}`}
-        >
-          {
-            hasRoman ? (
-              <div class="basta-reader-text">{romanText}</div>
-            ) : (
-              <p class="basta-transliteration-missing">
-                No transliteration available for this page.
-              </p>
-            )
-          }
+        <section class="basta-reader-column basta-reader-roman" lang="en" dir="ltr" aria-label={`Roman Urdu text of Basta page ${page.page}`}>
+          {page.hasRoman ? (
+            <div class="basta-reader-text">{page.romanText}</div>
+          ) : (
+            <p class="basta-transliteration-missing">No transliteration available for this page.</p>
+          )}
         </section>
-
-        <section
-          class="basta-reader-column basta-reader-urdu"
-          lang="ur"
-          dir="rtl"
-          aria-label={`Urdu text of Basta page ${page}`}
-        >
-          <div class="basta-reader-text">{urduText}</div>
+        <section class="basta-reader-column basta-reader-urdu" lang="ur" dir="rtl" aria-label={`Urdu text of Basta page ${page.page}`}>
+          <div class="basta-reader-text">{page.urduText}</div>
         </section>
       </div>
     )
   }
-
-  <p class="basta-reader-page-number" dir="ltr">{page}</p>
-  {showBreak && <hr class="basta-reader-page-break" aria-hidden="true" />}
+  <p class="basta-reader-page-number" dir="ltr">{page.page}</p>
+  {page.showBreak && <hr class="basta-reader-page-break" aria-hidden="true" />}
 </section>

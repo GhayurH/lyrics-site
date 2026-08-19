@@ -1,0 +1,35 @@
+---
+// File role: Canonical server-rendered lyric card. Saved/Recent uses the same data model, classes, and bookmark contract in its client renderer.
+import type { LyricCardData } from "../lib/catalog";
+import FavoriteButton from "./FavoriteButton.astro";
+
+interface Props {
+  lyric: LyricCardData;
+  showKalamType?: boolean;
+}
+
+const { lyric, showKalamType = false } = Astro.props as Props;
+---
+
+<li class="lyric-card">
+  <a class="lyric-card-link" href={lyric.href}>
+    <span class="lyric-card-title" lang={lyric.lang} dir={lyric.direction}>
+      {lyric.title}
+    </span>
+
+    {
+      lyric.alternateTitle && (
+        <span class="lyric-card-roman" lang="en" dir="ltr">
+          {lyric.alternateTitle}
+        </span>
+      )
+    }
+
+    <span class="lyric-card-meta" aria-hidden="true">
+      {showKalamType && <span class="metadata-chip">{lyric.kalamType}</span>}
+      {lyric.tags?.map((tag) => <span class="metadata-chip">{tag}</span>)}
+    </span>
+  </a>
+
+  <FavoriteButton lyricId={lyric.id} iconOnly className="lyric-card-save" />
+</li>

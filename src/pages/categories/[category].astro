@@ -1,38 +1,18 @@
 ---
-// File role: Kalam Type archive route: builds one static browse page per canonical type and renders its published lyrics using the shared lyric list.
-import {
-  getCollection,
-  type CollectionEntry,
-} from "astro:content";
+// File role: Kalam Type archive route: builds one static browse page per canonical type and renders its published lyrics using the shared card system.
+import type { CollectionEntry } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import LyricList from "../../components/LyricList.astro";
 import {
-  compareLyrics,
-  getLyricKalamType,
   slugifyKalamType,
 } from "../../lib/lyrics";
+import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-data";
 
 export async function getStaticPaths() {
-  const lyrics = (
-    await getCollection("lyrics", ({ data }) => data.published)
-  ).sort(compareLyrics);
-
-  const types = new Map<
-    string,
-    { kalamType: string; lyrics: CollectionEntry<"lyrics">[] }
-  >();
-
-  for (const lyric of lyrics) {
-    const kalamType = getLyricKalamType(lyric.data);
-    const slug = slugifyKalamType(kalamType);
-    const existing = types.get(slug) ?? { kalamType, lyrics: [] };
-    existing.lyrics.push(lyric);
-    types.set(slug, existing);
-  }
-
-  return [...types.entries()].map(([slug, value]) => ({
-    params: { category: slug },
-    props: value,
+  const grouped = groupLyricsByKalamType(await loadPublishedLyrics());
+  return [...grouped.entries()].map(([kalamType, lyrics]) => ({
+    params: { category: slugifyKalamType(kalamType) },
+    props: { kalamType, lyrics },
   }));
 }
 
@@ -55,7 +35,6 @@ const { kalamType, lyrics } = Astro.props as Props;
       <h1>{kalamType}</h1>
       <p>{lyrics.length} {lyrics.length === 1 ? "entry" : "entries"}</p>
     </header>
-
     <LyricList lyrics={lyrics} />
   </section>
 </BaseLayout>
