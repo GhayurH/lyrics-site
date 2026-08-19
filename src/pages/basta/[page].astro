@@ -186,12 +186,80 @@ const haalFilters = [
       indexEndPage={indexEndPage}
     />
 
+    {
+      !entry.data.imageOnly && (
+        <div
+          class="reading-controls basta-page-reading-controls"
+          data-pagefind-ignore
+          aria-label="Page reading controls"
+        >
+          {
+            hasRomanText && (
+              <div class="reading-control-group reading-view-control">
+                <span class="reading-control-label">View</span>
+                <div
+                  class="segmented-control"
+                  role="group"
+                  aria-label={`Basta page ${page} view`}
+                >
+                  <button
+                    type="button"
+                    data-basta-page-mode="parallel"
+                    aria-pressed="true"
+                  >
+                    Parallel
+                  </button>
+                  <button
+                    type="button"
+                    data-basta-page-mode="urdu"
+                    aria-pressed="false"
+                  >
+                    Urdu
+                  </button>
+                  <button
+                    type="button"
+                    data-basta-page-mode="roman"
+                    aria-pressed="false"
+                  >
+                    Roman
+                  </button>
+                </div>
+              </div>
+            )
+          }
+
+          <label class="reading-control-group">
+            <span class="reading-control-label">Text size</span>
+            <select id="basta-page-font-size">
+              <option value="small">Small</option>
+              <option value="default" selected>Default</option>
+              <option value="large">Large</option>
+              <option value="xlarge">Extra large</option>
+            </select>
+          </label>
+
+          <label class="reading-control-group">
+            <span class="reading-control-label">Line spacing</span>
+            <select id="basta-page-line-spacing">
+              <option value="compact">Compact</option>
+              <option value="default" selected>Default</option>
+              <option value="relaxed">Relaxed</option>
+            </select>
+          </label>
+        </div>
+      )
+    }
+
     <div
       class:list={[
         "basta-page-grid",
         entry.data.imageOnly && "basta-page-grid-image-only",
         hasRomanText && "basta-page-grid-with-roman",
       ]}
+      data-basta-page-reading={!entry.data.imageOnly ? "" : undefined}
+      data-reading-mode={hasRomanText ? "parallel" : "urdu"}
+      data-font-size="default"
+      data-line-spacing="default"
     >
       <figure class="basta-original-page" data-pagefind-ignore>
         <figcaption>Original book page</figcaption>
@@ -242,19 +310,121 @@ const haalFilters = [
       indexEndPage={indexEndPage}
     />
   </article>
+
+  <script define:vars={{ hasRomanText }}>
+    const PREFS_KEY = "kalam:reading-prefs";
+
+    const readingGrid =
+      document.querySelector("[data-basta-page-reading]");
+    const fontSelect =
+      document.querySelector("#basta-page-font-size");
+    const spacingSelect =
+      document.querySelector("#basta-page-line-spacing");
+    const modeButtons =
+      document.querySelectorAll("[data-basta-page-mode]");
+
+    const validModes = new Set(["parallel", "urdu", "roman"]);
+    const validFontSizes = new Set([
+      "small",
+      "default",
+      "large",
+      "xlarge",
+    ]);
+    const validSpacings = new Set([
+      "compact",
+      "default",
+      "relaxed",
+    ]);
+
+    let savedPrefs = {};
+    try {
+      const parsed = JSON.parse(
+        localStorage.getItem(PREFS_KEY) ?? "{}",
+      );
+      if (parsed && typeof parsed === "object") {
+        savedPrefs = parsed;
+      }
+    } catch {}
+
+    const prefs = {
+      mode:
+        hasRomanText &&
+        typeof savedPrefs.mode === "string" &&
+        validModes.has(savedPrefs.mode)
+          ? savedPrefs.mode
+          : hasRomanText
+            ? "parallel"
+            : "urdu",
+      fontSize:
+        typeof savedPrefs.fontSize === "string" &&
+        validFontSizes.has(savedPrefs.fontSize)
+          ? savedPrefs.fontSize
+          : "default",
+      spacing:
+        typeof savedPrefs.spacing === "string" &&
+        validSpacings.has(savedPrefs.spacing)
+          ? savedPrefs.spacing
+          : "default",
+    };
+
+    function storePrefs() {
+      try {
+        localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+      } catch {}
+    }
+
+    function applyPrefs() {
+      if (!readingGrid) return;
+
+      readingGrid.dataset.readingMode =
+        hasRomanText ? prefs.mode : "urdu";
+      readingGrid.dataset.fontSize = prefs.fontSize;
+      readingGrid.dataset.lineSpacing = prefs.spacing;
+
+      if (fontSelect) fontSelect.value = prefs.fontSize;
+      if (spacingSelect) spacingSelect.value = prefs.spacing;
+
+      modeButtons.forEach((button) => {
+        const active =
+          button.dataset.bastaPageMode === prefs.mode;
+        button.setAttribute("aria-pressed", String(active));
+      });
+    }
+
+    modeButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const mode = button.dataset.bastaPageMode;
+        if (!hasRomanText || !mode || !validModes.has(mode)) return;
+
+        prefs.mode = mode;
+        storePrefs();
+        applyPrefs();
+      });
+    });
+
+    fontSelect?.addEventListener("change", () => {
+      if (!validFontSizes.has(fontSelect.value)) return;
+
+      prefs.fontSize = fontSelect.value;
+      storePrefs();
+      applyPrefs();
+    });
+
+    spacingSelect?.addEventListener("change", () => {
+      if (!validSpacings.has(spacingSelect.value)) return;
+
+      prefs.spacing = spacingSelect.value;
+      storePrefs();
+      applyPrefs();
+    });
+
+    applyPrefs();
+  </script>
 </BaseLayout>
 
 <style>
-  /*
-   * The existing two-column scan + Urdu layout remains unchanged on pages
-   * without Roman text. Pages with Roman text expand to three columns.
-   */
   .basta-page.basta-page-with-roman {
     max-width: 96rem;
-  }
-
-  .basta-page-grid.basta-page-grid-with-roman {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .basta-page-text-heading {
@@ -285,19 +455,6 @@ const haalFilters = [
     font-family:
       Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
       sans-serif;
-    font-size: clamp(1rem, 1.6vw, 1.2rem);
-    line-height: 2;
     text-align: left;
-  }
-
-  /* Three columns become a readable vertical stack before they get cramped. */
-  @media (max-width: 1050px) {
-    .basta-page-grid.basta-page-grid-with-roman {
-      grid-template-columns: 1fr;
-    }
-
-    .basta-page.basta-page-with-roman {
-      max-width: 48rem;
-    }
   }
 </style>
