@@ -1,0 +1,14 @@
+/* File role: Continuous-reader performance hints kept separate from visual layout. */
+
+/* The full book remains in the HTML for direct anchors/search, but the browser
+ * can skip layout and paint work for pages far outside the viewport. */
+.basta-reader-page {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 70rem;
+}
+
+/* The linked index can also be tall; defer off-screen section rendering. */
+.basta-reader-index .basta-parallel-index-section {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 24rem;
+}

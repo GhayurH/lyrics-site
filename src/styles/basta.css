@@ -1,7 +1,4 @@
-/* File role: Basta page/index structural styles: navigation, scan/text grid, and linked index; continuous-reader-specific rules deliberately live elsewhere. */
-/* Basta page and index layout.
- * Continuous-reader-specific rules live in basta-reader.css.
- */
+/* File role: Basta shared structural styles: landing, page reader, navigation, and linked index. Continuous-reader-specific rules live in basta-reader.css. */
 
 .basta-home,
 .basta-page,
@@ -44,6 +41,139 @@
 
 .basta-subnav a:hover {
   text-decoration: underline;
+}
+
+/* Basta landing */
+.basta-home-redesign {
+  max-width: 52rem;
+  padding-bottom: 3rem;
+}
+
+.basta-home-redesign .basta-home-header {
+  margin-bottom: 2.5rem;
+}
+
+.basta-home-redesign .basta-home-header > p {
+  max-width: 42rem;
+}
+
+.basta-home-mode {
+  display: grid;
+  gap: 1.35rem;
+  margin-top: 1rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.85rem;
+  padding: clamp(1.15rem, 3vw, 1.65rem);
+  background: var(--surface-background);
+}
+
+.basta-home-mode-copy h2,
+.basta-home-download h2 {
+  margin: 0;
+  font-size: clamp(1.3rem, 3vw, 1.7rem);
+  line-height: 1.2;
+}
+
+.basta-home-mode-copy > p:last-child,
+.basta-home-download p {
+  margin: 0.55rem 0 0;
+  color: var(--secondary-text);
+}
+
+.basta-home-kicker {
+  margin: 0 0 0.4rem;
+  color: var(--secondary-text);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.basta-page-reader-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.basta-home-primary-button,
+.basta-home-secondary-button,
+.basta-home-page-jump button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.75rem;
+  border-radius: 0.55rem;
+  padding: 0.6rem 0.9rem;
+  font: inherit;
+  font-weight: 700;
+  line-height: 1.2;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.basta-home-primary-button,
+.basta-home-page-jump button {
+  border: 1px solid var(--button-background);
+  background: var(--button-background);
+  color: var(--button-text);
+}
+
+.basta-home-secondary-button {
+  border: 1px solid var(--border-colour);
+  background: var(--surface-background);
+  color: var(--primary-text);
+}
+
+.basta-home-secondary-button:hover {
+  background: var(--tag-background);
+}
+
+.basta-home-page-jump {
+  display: grid;
+  gap: 0.45rem;
+  border-top: 1px solid var(--border-colour);
+  padding-top: 1.15rem;
+}
+
+.basta-home-page-jump > label {
+  color: var(--secondary-text);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.basta-home-page-jump-controls {
+  display: flex;
+  gap: 0.55rem;
+  max-width: 24rem;
+}
+
+.basta-home-page-jump input {
+  min-width: 0;
+  min-height: 2.75rem;
+  flex: 1;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.55rem;
+  padding: 0.55rem 0.7rem;
+  background: var(--site-background);
+  color: var(--primary-text);
+  font: inherit;
+  font-variant-numeric: tabular-nums;
+}
+
+.basta-home-page-hint {
+  margin: 0;
+  color: var(--secondary-text);
+  font-size: 0.76rem;
+}
+
+.basta-home-download {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  margin-top: 2.5rem;
+  border-top: 1px solid var(--border-colour);
+  padding-top: 1.5rem;
 }
 
 /* Page navigation */
@@ -130,6 +260,10 @@
   margin: 2rem 0 3rem;
 }
 
+.basta-page.basta-page-with-roman {
+  max-width: 96rem;
+}
+
 .basta-page-grid-image-only {
   grid-template-columns: minmax(0, 42rem);
   justify-content: center;
@@ -164,14 +298,44 @@
   min-width: 0;
 }
 
-.basta-urdu-text {
+.basta-page-text-heading {
+  margin: 0 0 0.85rem;
+  border-bottom: 1px solid var(--border-colour);
+  padding-bottom: 0.65rem;
+  color: var(--secondary-text);
+  font-family:
+    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.basta-page-urdu .basta-page-text-heading {
+  text-align: right;
+}
+
+.basta-page-roman .basta-page-text-heading {
+  text-align: left;
+}
+
+.basta-urdu-text,
+.basta-roman-text {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
   unicode-bidi: plaintext;
+}
+
+.basta-urdu-text {
   font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
   font-size: clamp(1.35rem, 3vw, 1.8rem);
   line-height: 2.8;
   text-align: right;
+}
+
+.basta-roman-text {
+  font-family:
+    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  text-align: left;
 }
 
 /* Linked Basta index */
@@ -195,6 +359,16 @@
 .basta-index-table-roman {
   font-family:
     Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.basta-index-groups {
+  display: grid;
+  gap: 2.25rem;
+}
+
+.basta-index-group h3 {
+  margin: 0 0 0.8rem;
+  font-size: clamp(1.25rem, 3vw, 1.7rem);
 }
 
 .basta-index-table-wrap {
@@ -261,10 +435,41 @@
   text-decoration: underline;
 }
 
-.basta-index-table .basta-index-target-page {
+.basta-index-col-serial {
+  width: 10%;
+}
+
+.basta-index-table-without-haal .basta-index-col-name {
+  width: 72%;
+}
+
+.basta-index-table-without-haal .basta-index-col-page {
+  width: 18%;
+}
+
+.basta-index-table-with-haal .basta-index-col-name {
+  width: 44%;
+}
+
+.basta-index-table-with-haal .basta-index-col-haal {
+  width: 30%;
+}
+
+.basta-index-table-with-haal .basta-index-col-page {
+  width: 16%;
+}
+
+.basta-index-entry-number,
+.basta-index-table th:first-child,
+.basta-index-target-page {
   font-family: Inter, system-ui, sans-serif;
   font-variant-numeric: tabular-nums;
-  text-align: center;
+}
+
+.basta-index-entry-number,
+.basta-index-table th:first-child,
+.basta-index-target-page {
+  text-align: center !important;
 }
 
 .basta-index-empty {
@@ -291,5 +496,83 @@
 
   .basta-nav-button:last-child {
     justify-self: stretch;
+  }
+}
+
+@media (max-width: 640px) {
+  /* Keep semantic index tables viewport-sized rather than forcing horizontal scroll. */
+  .basta-index-table-wrap {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .basta-index-table {
+    width: 100%;
+    min-width: 0;
+    table-layout: fixed;
+    font-size: 0.9rem;
+  }
+
+  .basta-index-table th,
+  .basta-index-table td {
+    min-width: 0;
+    padding: 0.45rem 0.38rem;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  .basta-index-col-serial {
+    width: 12%;
+  }
+
+  .basta-index-table-without-haal .basta-index-col-name {
+    width: 68%;
+  }
+
+  .basta-index-table-without-haal .basta-index-col-page {
+    width: 20%;
+  }
+
+  .basta-index-table-with-haal .basta-index-col-name {
+    width: 38%;
+  }
+
+  .basta-index-table-with-haal .basta-index-col-haal {
+    width: 32%;
+  }
+
+  .basta-index-table-with-haal .basta-index-col-page {
+    width: 18%;
+  }
+
+  .basta-index-table th:first-child,
+  .basta-index-table th:last-child,
+  .basta-index-entry-number,
+  .basta-index-target-page {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 560px) {
+  .basta-page-reader-actions,
+  .basta-home-page-jump-controls,
+  .basta-home-download {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .basta-home-primary-button,
+  .basta-home-secondary-button,
+  .basta-home-page-jump button {
+    width: 100%;
+  }
+
+  .basta-home-page-jump-controls {
+    max-width: none;
+  }
+
+  .basta-home-download {
+    gap: 1rem;
   }
 }

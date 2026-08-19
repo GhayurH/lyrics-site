@@ -1,5 +1,5 @@
 ---
-// File role: Basta page route: combines the original scan with available Urdu/Roman text, page metadata, navigation, and responsive reader controls for one printed page.
+// File role: Basta page route: combines the original scan with available Urdu/Roman text, page metadata, navigation, and shared reader controls for one printed page.
 import {
   getCollection,
   type CollectionEntry,
@@ -7,29 +7,19 @@ import {
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaPager from "../../components/BastaPager.astro";
+import ReadingControls from "../../components/ReadingControls.astro";
+import type { BastaIndexEntry } from "../../lib/basta";
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
 import "../../styles/basta.css";
 import "../../styles/responsive-reading.css";
 
-interface BastaIndexEntry {
-  section?: string;
-  sectionRoman?: string;
-  number?: number;
-  name: string;
-  haal?: string;
-  page: number;
-  romanName?: string;
-  romanHaal?: string;
-}
-
 const typedIndexEntries = indexEntries as BastaIndexEntry[];
 const { indexStartPage, indexEndPage } = settings;
 
 export async function getStaticPaths() {
-  // getStaticPaths runs in an isolated scope in Astro.
-  // Imports are available, but parent-scope helpers/variables are not,
-  // so read the settings inside the function as well.
+  // getStaticPaths runs in an isolated scope in Astro, so keep route settings
+  // local to the function rather than relying on frontmatter variables.
   const {
     indexStartPage: routeIndexStartPage,
     indexEndPage: routeIndexEndPage,
@@ -47,7 +37,7 @@ export async function getStaticPaths() {
     romanPages.map((entry) => [entry.data.page, entry]),
   );
 
-  // The physical index scans are deliberately not separate routes.
+  // The physical index scans are deliberately replaced by the linked index.
   const pages = allPages.filter(
     (entry) =>
       entry.data.page < routeIndexStartPage ||
@@ -191,65 +181,12 @@ const haalFilters = [
 
     {
       !entry.data.imageOnly && (
-        <div
-          class="reading-controls basta-page-reading-controls"
-          data-pagefind-ignore
-          aria-label="Page reading controls"
-        >
-          {
-            hasRomanText && (
-              <div class="reading-control-group reading-view-control">
-                <span class="reading-control-label">View</span>
-                <div
-                  class="segmented-control"
-                  role="group"
-                  aria-label={`Basta page ${page} view`}
-                >
-                  <button
-                    type="button"
-                    data-basta-page-mode="parallel"
-                    aria-pressed="true"
-                  >
-                    Parallel
-                  </button>
-                  <button
-                    type="button"
-                    data-basta-page-mode="urdu"
-                    aria-pressed="false"
-                  >
-                    Urdu
-                  </button>
-                  <button
-                    type="button"
-                    data-basta-page-mode="roman"
-                    aria-pressed="false"
-                  >
-                    Roman
-                  </button>
-                </div>
-              </div>
-            )
-          }
-
-          <label class="reading-control-group">
-            <span class="reading-control-label">Text size</span>
-            <select id="basta-page-font-size">
-              <option value="small">Small</option>
-              <option value="default" selected>Default</option>
-              <option value="large">Large</option>
-              <option value="xlarge">Extra large</option>
-            </select>
-          </label>
-
-          <label class="reading-control-group">
-            <span class="reading-control-label">Line spacing</span>
-            <select id="basta-page-line-spacing">
-              <option value="compact">Compact</option>
-              <option value="default" selected>Default</option>
-              <option value="relaxed">Relaxed</option>
-            </select>
-          </label>
-        </div>
+        <ReadingControls
+          className="basta-page-reading-controls"
+          ariaLabel="Page reading controls"
+          modeGroupLabel={`Basta page ${page} view`}
+          showModes={hasRomanText}
+        />
       )
     }
 
@@ -259,10 +196,11 @@ const haalFilters = [
         entry.data.imageOnly && "basta-page-grid-image-only",
         hasRomanText && "basta-page-grid-with-roman",
       ]}
-      data-basta-page-reading={!entry.data.imageOnly ? "" : undefined}
-      data-reading-mode={hasRomanText ? "parallel" : "urdu"}
-      data-font-size="default"
-      data-line-spacing="default"
+      data-reading-root={!entry.data.imageOnly ? "" : undefined}
+      data-has-roman={!entry.data.imageOnly ? String(hasRomanText) : undefined}
+      data-reading-mode={!entry.data.imageOnly ? (hasRomanText ? "parallel" : "urdu") : undefined}
+      data-font-size={!entry.data.imageOnly ? "default" : undefined}
+      data-line-spacing={!entry.data.imageOnly ? "default" : undefined}
     >
       <figure class="basta-original-page" data-pagefind-ignore>
         <figcaption>Original book page</figcaption>
@@ -271,6 +209,7 @@ const haalFilters = [
             src={entry.data.originalImage}
             alt={`Original scan of Basta page ${page}`}
             loading="eager"
+            decoding="async"
           />
         </a>
       </figure>
@@ -314,150 +253,8 @@ const haalFilters = [
     />
   </article>
 
-  <script define:vars={{ hasRomanText }}>
-    const PREFS_KEY = "kalam:reading-prefs";
-
-    const readingGrid =
-      document.querySelector("[data-basta-page-reading]");
-    const fontSelect =
-      document.querySelector("#basta-page-font-size");
-    const spacingSelect =
-      document.querySelector("#basta-page-line-spacing");
-    const modeButtons =
-      document.querySelectorAll("[data-basta-page-mode]");
-
-    const validModes = new Set(["parallel", "urdu", "roman"]);
-    const validFontSizes = new Set([
-      "small",
-      "default",
-      "large",
-      "xlarge",
-    ]);
-    const validSpacings = new Set([
-      "compact",
-      "default",
-      "relaxed",
-    ]);
-
-    let savedPrefs = {};
-    try {
-      const parsed = JSON.parse(
-        localStorage.getItem(PREFS_KEY) ?? "{}",
-      );
-      if (parsed && typeof parsed === "object") {
-        savedPrefs = parsed;
-      }
-    } catch {}
-
-    const prefs = {
-      mode:
-        hasRomanText &&
-        typeof savedPrefs.mode === "string" &&
-        validModes.has(savedPrefs.mode)
-          ? savedPrefs.mode
-          : hasRomanText
-            ? "parallel"
-            : "urdu",
-      fontSize:
-        typeof savedPrefs.fontSize === "string" &&
-        validFontSizes.has(savedPrefs.fontSize)
-          ? savedPrefs.fontSize
-          : "default",
-      spacing:
-        typeof savedPrefs.spacing === "string" &&
-        validSpacings.has(savedPrefs.spacing)
-          ? savedPrefs.spacing
-          : "default",
-    };
-
-    function storePrefs() {
-      try {
-        localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
-      } catch {}
-    }
-
-    function applyPrefs() {
-      if (!readingGrid) return;
-
-      readingGrid.dataset.readingMode =
-        hasRomanText ? prefs.mode : "urdu";
-      readingGrid.dataset.fontSize = prefs.fontSize;
-      readingGrid.dataset.lineSpacing = prefs.spacing;
-
-      if (fontSelect) fontSelect.value = prefs.fontSize;
-      if (spacingSelect) spacingSelect.value = prefs.spacing;
-
-      modeButtons.forEach((button) => {
-        const active =
-          button.dataset.bastaPageMode === prefs.mode;
-        button.setAttribute("aria-pressed", String(active));
-      });
-    }
-
-    modeButtons.forEach((button) => {
-      button.addEventListener("click", () => {
-        const mode = button.dataset.bastaPageMode;
-        if (!hasRomanText || !mode || !validModes.has(mode)) return;
-
-        prefs.mode = mode;
-        storePrefs();
-        applyPrefs();
-      });
-    });
-
-    fontSelect?.addEventListener("change", () => {
-      if (!validFontSizes.has(fontSelect.value)) return;
-
-      prefs.fontSize = fontSelect.value;
-      storePrefs();
-      applyPrefs();
-    });
-
-    spacingSelect?.addEventListener("change", () => {
-      if (!validSpacings.has(spacingSelect.value)) return;
-
-      prefs.spacing = spacingSelect.value;
-      storePrefs();
-      applyPrefs();
-    });
-
-    applyPrefs();
+  <script>
+    import { initReadingControls } from "../../scripts/reader-state.js";
+    initReadingControls();
   </script>
 </BaseLayout>
-
-<style>
-  .basta-page.basta-page-with-roman {
-    max-width: 96rem;
-  }
-
-  .basta-page-text-heading {
-    margin: 0 0 0.85rem;
-    border-bottom: 1px solid var(--border-colour);
-    padding-bottom: 0.65rem;
-    color: var(--secondary-text);
-    font-family:
-      Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      sans-serif;
-    font-size: 0.9rem;
-    font-weight: 600;
-    line-height: 1.3;
-  }
-
-  .basta-page-urdu .basta-page-text-heading {
-    text-align: right;
-  }
-
-  .basta-page-roman .basta-page-text-heading {
-    text-align: left;
-  }
-
-  .basta-roman-text {
-    white-space: pre-wrap;
-    overflow-wrap: anywhere;
-    unicode-bidi: plaintext;
-    font-family:
-      Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      sans-serif;
-    text-align: left;
-  }
-</style>
