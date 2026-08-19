@@ -1,5 +1,5 @@
 ---
-title: "جو بھی گرتا ہے اِس غم میں آنسو"
+title: "آؤ رولیں شہِ کربلا کو"
 alternateTitle: "aao ro lein shahe karbala ko"
 language: "Urdu"
 lang: "ur"
