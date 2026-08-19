@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 tags:
-  - "Noha"
+  - "Salam"
 aliases:
   - "Chhane lagi shaam e ghareeban"
 cover: "/images/lyrics/chhane-lagi-shaam-e-ghareeban.png"
