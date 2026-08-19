@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 tags:
-  - "Noha"
+  - "Salam"
 aliases:
   - "Khaime Mein Aake Shah Ne Jab Alwida Kaha"
   - "Kohraam Mach Gaya"
