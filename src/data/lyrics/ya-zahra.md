@@ -21,6 +21,7 @@ romanLyrics: |-
   apni chadar ka saiban de de
   teri qudrat mein kya nahi bibi
   tu jise chahe do jahan de de
+
   ay meri bibi, aansuon ne dua maangi hai
   teri tasbih parh ke dil ne tujhe pukara hai
   
@@ -29,6 +30,7 @@ romanLyrics: |-
   muflison ka naseeb wa kar de
   jin ki godi bhari nahi bibi
   unko aulaad tu ata kar de
+
   ay meri bibi, bas tu hi murad deti hai
   teri chaukhat dar-e-ilahi ka istiara hai
   
@@ -37,6 +39,7 @@ romanLyrics: |-
   har jawan keh raha hai ro ro kar
   hum rahein na rahein magar bibi
   ta qayamat rahe gham-e-Sarwar
+
   ay meri bibi, tere bachon ka gham manate hain
   apni aulaad se kahin barh ke gham yeh pyara hai
   
@@ -45,6 +48,7 @@ romanLyrics: |-
   saiban in ka teri chadar hai
   unke seenon pe ay meri bibi
   daagh-e-matam nishan-e-Haider hai
+
   ay meri bibi, khuld mein shaheed jab jaye
   teri awaaz aaye aane do yeh hamara hai
   
@@ -53,6 +57,7 @@ romanLyrics: |-
   meri naslon mein bhi rahe nauha
   jaise maine parha hai bachpan se
   mere bache bhi yun parhein nauha
+
   ay meri bibi, inke dil mein wilayah-e-Haider
   mere maa baap ki taharat ka ek ishara hai
   
@@ -61,6 +66,7 @@ romanLyrics: |-
   zindagi mein jo tu ne gham dekhe
   aasman-o-zameen pe gar hote
   misl-e-shab woh siyah ho jate
+
   ay meri bibi, dekh kar teri museebat ko
   sare aalam ka dil masaib se para para hai
   
@@ -69,6 +75,7 @@ romanLyrics: |-
   marg-e-Mohsin pe bhi rulaya hai
   tujh ko baba ke baad ummat ne
   haaye darbar mein bulaya hai
+
   ay meri bibi, kitne sadme uthaye hain tu ne
   jeete ji tujh ko meri shahzadi gham ne maara hai
   
@@ -77,6 +84,7 @@ romanLyrics: |-
   tere bachon ka gham rahe zinda
   saath Irfan ke rahe jaari
   tere sadqe mein karwan-e-aza
+
   ay meri bibi, tere dar pe sar jhukate hain
   har Hussaini ka tere tukron pe hi guzara hai
 ---
@@ -90,6 +98,7 @@ romanLyrics: |-
 اپنی چادر کا سائباں دے دے
 تیری قدرت میں کیا نہیں بی بی
 تو جسے چاہے دو جہاں دے دے
+
 اے میری بی بی ، آنسوؤں نے دعا مانگی ہے
 تیری تسبیح پڑھ کے دل نے تجھے پکارا ہے
 
@@ -98,6 +107,7 @@ romanLyrics: |-
 مفلسوں کا نصیب و ا کر دے
 جن کی گودی بھری نہیں بی بی
 اُنکو اولاد تو عطا کر دے
+
 اے میری بی بی ، بس تو ہی مراد دیتی ہے
 تیری چوکھٹ درِ اِلٰہی کا استعارہ ہے
 
@@ -106,6 +116,7 @@ romanLyrics: |-
 ہر جواں کہہ رہا ہے رو رو کر
 ہم رہیں نہ رہیں مگر بی بی
 تا قیامت رہے غمِ سرور
+
 اے میری بی بی ، تیرے بچوں کا غم مناتے ہیں
 اپنی اولاد سے کہیں بڑھ کے غم یہ پیارا ہے
 
@@ -114,6 +125,7 @@ romanLyrics: |-
 سائباں اِن کا تیری چادر ہے
 اُنکے سینوں پہ اے میری بی بی
 داغِ ماتم نشانِ حیدر ہے
+
 اے میری بی بی ، خلد میں شہید جب جائے
 تیری آواز آئے آنے دو یہ ہمارا ہے
 
@@ -122,6 +134,7 @@ romanLyrics: |-
 میری نسلوں میں بھی رہے نوحہ
 جیسے میں نے پڑھا ہے بچپن سے
 میرے بچے بھی یوں پڑھیں نوحہ
+
 اے میری بی بی ، اِنکے دل میں ولایتِ حیدر
 میرے ماں باپ کی طہارت کا ایک اِشارہ ہے
 
@@ -130,6 +143,7 @@ romanLyrics: |-
 زندگی میں جو تو نے غم دیکھے
 آسمان و زمیں پہ گر ہوتے
 مِثلِ شب وہ سیاہ ہو جاتے
+
 اے میری بی بی ، دیکھ کر تیری مصیبت کو
 سارے عالم کا دل مصائب سے پارا پارا ہے
 
@@ -138,6 +152,7 @@ romanLyrics: |-
 مرگِ محسن پہ بھی رلا یا ہے
 تجھ کو بابا کے بعد اُمّت نے
 ہائے دربار میں بلایا ہے
+
 اے میری بی بی ، کتنے صدمے اٹھائے ہیں تو نے
 جیتے جی تجھ کو میری شہزادی غم نے مارا ہے
 
@@ -146,5 +161,6 @@ romanLyrics: |-
 تیرے بچوں کا غم رہے زندہ
 ساتھ عرفان کے رہے جاری
 تیرے صدقے میں کاروانِ عزا
+
 اے میری بی بی ، تیرے در پہ سر جھکاتے ہیں
 ہر حسینی کا تیرے ٹکڑوں پہ ہی گزارا ہے
