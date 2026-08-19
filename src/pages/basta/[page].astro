@@ -135,14 +135,6 @@ const haalFilters = [
       .filter(Boolean),
   ),
 ];
-
-// The continuous Roman edition only has anchors for actual Roman pages
-// and image-only pages. Introductory Urdu prose therefore links to the
-// Roman edition normally instead of pointing at a non-existent anchor.
-const romanEditionHref =
-  hasRomanText || entry.data.imageOnly
-    ? `/basta/roman/#page-${page}`
-    : "/basta/roman/";
 ---
 
 <BaseLayout
@@ -166,9 +158,7 @@ const romanEditionHref =
       <div class="basta-subnav" data-pagefind-ignore>
         <a href="/basta/">Basta</a>
         <span aria-hidden="true">·</span>
-        <a href={`/basta/urdu/#page-${page}`}>Urdu text edition</a>
-        <span aria-hidden="true">·</span>
-        <a href={romanEditionHref}>Roman edition</a>
+        <a href={`/basta/read/#page-${page}`}>Continuous reader</a>
         <span aria-hidden="true">·</span>
         <a href="/basta/index/">Index</a>
       </div>

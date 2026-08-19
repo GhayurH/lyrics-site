@@ -1,0 +1,233 @@
+/* Unified continuous Basta reader.
+   The existing page-by-page and index styles remain in basta.css. */
+
+.basta-reader {
+  max-width: 84rem;
+  margin: 0 auto;
+}
+
+.basta-reader-header {
+  max-width: 56rem;
+  margin-bottom: 1.5rem;
+}
+
+.basta-reader-header h1 {
+  margin: 0.5rem 0 0.75rem;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  line-height: 1.25;
+}
+
+.basta-reader-header > p {
+  color: var(--secondary-text);
+  font-size: 1.05rem;
+}
+
+.basta-reading-controls {
+  margin-bottom: 1rem;
+}
+
+.basta-reader-flow {
+  --basta-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
+  --basta-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
+  --basta-urdu-leading: 2.8;
+  --basta-roman-leading: 2;
+
+  max-width: 84rem;
+  margin: 0 auto;
+}
+
+.basta-reader-page,
+.basta-reader-index {
+  scroll-margin-top: 7rem;
+}
+
+.basta-reader-page-grid,
+.basta-reader-index-grid {
+  display: grid;
+  grid-template-areas: "roman urdu";
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+}
+
+.basta-reader-column,
+.basta-reader-index-panel {
+  min-width: 0;
+}
+
+.basta-reader-roman,
+.basta-reader-index-roman {
+  grid-area: roman;
+  border-right: 1px solid var(--border-colour);
+  padding-right: clamp(1rem, 2.5vw, 2rem);
+}
+
+.basta-reader-urdu,
+.basta-reader-index-urdu {
+  grid-area: urdu;
+  padding-left: clamp(1rem, 2.5vw, 2rem);
+}
+
+.basta-reader-text {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  unicode-bidi: plaintext;
+}
+
+.basta-reader-urdu .basta-reader-text {
+  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
+  font-size: var(--basta-urdu-size);
+  line-height: var(--basta-urdu-leading);
+  text-align: right;
+}
+
+.basta-reader-roman .basta-reader-text {
+  font-family:
+    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: var(--basta-roman-size);
+  line-height: var(--basta-roman-leading);
+  text-align: left;
+}
+
+.basta-transliteration-missing {
+  margin: 0;
+  border: 1px dashed var(--border-colour);
+  border-radius: 0.55rem;
+  padding: 0.8rem 0.9rem;
+  color: var(--secondary-text);
+  font-size: 0.92rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.basta-reader-page-number {
+  margin: 1.25rem 0 1rem;
+  color: var(--secondary-text);
+  font-family: Inter, system-ui, sans-serif;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  text-align: center;
+}
+
+.basta-reader-page-break {
+  margin: 0 0 2rem;
+  border: 0;
+  border-top: 1px solid var(--border-colour);
+}
+
+.basta-reader-page-image-only {
+  max-width: 44rem;
+  margin-inline: auto;
+}
+
+.basta-reader-original-image {
+  margin: 0 auto;
+}
+
+.basta-reader-original-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.basta-reader-index {
+  margin-bottom: 2rem;
+}
+
+.basta-reader-index-panel .basta-index-table-section {
+  margin-top: 0;
+}
+
+.basta-reader-index-panel .basta-index-table {
+  min-width: 30rem;
+}
+
+/* View switching */
+.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-roman,
+.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-index-roman {
+  display: none;
+}
+
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-urdu,
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-index-urdu {
+  display: none;
+}
+
+.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-page-grid,
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-page-grid,
+.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-index-grid,
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-index-grid {
+  grid-template-areas: "single";
+  grid-template-columns: minmax(0, 48rem);
+  justify-content: center;
+}
+
+.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
+.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-index-urdu,
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman,
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-index-roman {
+  grid-area: single;
+  border-right: 0;
+  padding-inline: 0;
+}
+
+/* Text size */
+.basta-reader-flow[data-font-size="small"] {
+  --basta-urdu-size: clamp(1.15rem, 2.6vw, 1.5rem);
+  --basta-roman-size: clamp(0.95rem, 2.2vw, 1.1rem);
+}
+
+.basta-reader-flow[data-font-size="large"] {
+  --basta-urdu-size: clamp(1.55rem, 3.4vw, 2.05rem);
+  --basta-roman-size: clamp(1.18rem, 2.8vw, 1.42rem);
+}
+
+.basta-reader-flow[data-font-size="xlarge"] {
+  --basta-urdu-size: clamp(1.75rem, 3.9vw, 2.35rem);
+  --basta-roman-size: clamp(1.3rem, 3.1vw, 1.6rem);
+}
+
+/* Line spacing */
+.basta-reader-flow[data-line-spacing="compact"] {
+  --basta-urdu-leading: 2.2;
+  --basta-roman-leading: 1.65;
+}
+
+.basta-reader-flow[data-line-spacing="relaxed"] {
+  --basta-urdu-leading: 3.2;
+  --basta-roman-leading: 2.35;
+}
+
+@media (max-width: 920px) {
+  .basta-reader-page-grid,
+  .basta-reader-index-grid {
+    grid-template-areas:
+      "urdu"
+      "roman";
+    grid-template-columns: 1fr;
+  }
+
+  .basta-reader-urdu,
+  .basta-reader-index-urdu {
+    border-bottom: 1px solid var(--border-colour);
+    padding: 0 0 1.4rem;
+  }
+
+  .basta-reader-roman,
+  .basta-reader-index-roman {
+    border-right: 0;
+    padding: 1.4rem 0 0;
+  }
+
+  .basta-reader-index-panel .basta-index-table {
+    min-width: 34rem;
+  }
+
+  .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
+  .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-index-urdu,
+  .basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman,
+  .basta-reader-flow[data-reading-mode="roman"] .basta-reader-index-roman {
+    border-bottom: 0;
+    padding-block: 0;
+  }
+}

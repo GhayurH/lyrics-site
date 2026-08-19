@@ -14,12 +14,14 @@ interface Props {
   entries: BastaIndexEntry[];
   edition?: "urdu" | "roman";
   heading?: boolean;
+  linkMode?: "page" | "continuous";
 }
 
 const {
   entries,
   edition = "urdu",
   heading = true,
+  linkMode = "page",
 } = Astro.props as Props;
 
 const roman = edition === "roman";
@@ -103,7 +105,10 @@ for (const entry of entries) {
                           const haal = roman
                             ? (entry.romanHaal?.trim() || entry.haal || "")
                             : (entry.haal ?? "");
-                          const href = `/basta/${entry.page}/`;
+                          const href =
+                            linkMode === "continuous"
+                              ? `#page-${entry.page}`
+                              : `/basta/${entry.page}/`;
 
                           return (
                             <tr>
