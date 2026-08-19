@@ -1,0 +1,27 @@
+/* File role: Continuous-reader streaming/performance layer: unloaded chunk placeholders, retry state, and off-screen rendering containment. */
+.basta-reader-chunk { min-width: 0; }
+.basta-reader-chunk:not([data-chunk-loaded="true"]) {
+  display: grid;
+  min-height: 22rem;
+  place-items: center;
+  margin: 1rem 0 2rem;
+  border: 1px dashed var(--border-colour);
+  border-radius: 0.75rem;
+  color: var(--secondary-text);
+}
+.basta-reader-chunk-message { margin: 0; padding: 1rem; text-align: center; }
+.basta-reader-chunk-error { gap: 0.75rem; align-content: center; }
+
+/* The streamed reader can still contain many loaded pages after a long session. */
+@supports (content-visibility: auto) {
+  .basta-reader-page,
+  .basta-reader-index {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 70rem;
+  }
+}
+
+.basta-reader-original-image img {
+  aspect-ratio: auto 1240 / 1754;
+  object-fit: contain;
+}

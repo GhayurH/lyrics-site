@@ -1,0 +1,21 @@
+/* File role: About/contact-only bilingual panels and contact cards. */
+.about-page { max-width: 72rem; margin: auto; }
+.about-section { margin-top: 2rem; }
+.bilingual-panel { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.75rem; background: var(--surface-background); }
+.intro-language { padding: 1.75rem; }
+.intro-language + .intro-language { border-left: 1px solid var(--border-colour); }
+.intro-language h2 { margin: 0 0 1rem; }
+.intro-language p { margin: 0; }
+.urdu-block { line-height: 2.4; text-align: right; }
+.contact-email { display: inline-block; margin-top: 1rem; direction: ltr; font-family: Inter, system-ui, sans-serif; font-weight: 600; unicode-bidi: isolate; }
+.contact-card, .about-note { border: 1px solid var(--border-colour); border-radius: 0.8rem; padding: clamp(1.25rem, 3vw, 2rem); background: var(--surface-background); }
+.contact-card { display: flex; align-items: center; justify-content: space-between; gap: 2rem; }
+.contact-card h2, .about-note h2 { margin: 0 0 0.75rem; }
+.contact-card p, .about-note p { max-width: 52rem; }
+.contact-email-large { flex: 0 0 auto; margin-top: 0; border: 1px solid var(--border-colour); border-radius: 0.55rem; padding: 0.7rem 0.9rem; background: var(--tag-background); text-decoration: none; }
+.contact-email-large:hover { text-decoration: underline; }
+@media (max-width: 700px) {
+  .bilingual-panel { grid-template-columns: 1fr; }
+  .intro-language + .intro-language { border-top: 1px solid var(--border-colour); border-left: 0; }
+  .contact-card { align-items: flex-start; flex-direction: column; }
+}

@@ -1,9 +1,8 @@
 ---
-// File role: Global site shell: owns fonts, shared site CSS, metadata, navigation, theme persistence, and favorite synchronization; reader-specific CSS stays route-local.
+// File role: Minimal global site shell: fonts, core CSS, metadata, navigation, theme bootstrap, and global browser enhancements.
 import "@fontsource/noto-nastaliq-urdu/400.css";
 import "@fontsource/noto-nastaliq-urdu/700.css";
-import "../styles/global.css";
-import "../styles/ui-upgrades.css";
+import "../styles/core.css";
 
 interface Props {
   title: string;
@@ -42,14 +41,13 @@ const aboutActive = path.startsWith("/about/");
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <title>{title}</title>
 
+    <!-- Set the saved theme before first paint to avoid a light/dark flash. -->
     <script is:inline>
       (() => {
         let theme = "dark";
         try {
           const savedTheme = localStorage.getItem("theme");
-          if (savedTheme === "light" || savedTheme === "dark") {
-            theme = savedTheme;
-          }
+          if (savedTheme === "light" || savedTheme === "dark") theme = savedTheme;
         } catch {}
         document.documentElement.dataset.theme = theme;
         document.documentElement.dataset.pfTheme = theme;
@@ -97,116 +95,8 @@ const aboutActive = path.startsWith("/about/");
     </footer>
 
     <script>
-      const root = document.documentElement;
-      const themeButton = document.querySelector<HTMLButtonElement>("#theme-toggle");
-
-      function updateThemeButton() {
-        if (!themeButton) return;
-        const darkMode = root.dataset.theme === "dark";
-        themeButton.textContent = darkMode ? "Light mode" : "Dark mode";
-        themeButton.setAttribute(
-          "aria-label",
-          darkMode ? "Switch to light mode" : "Switch to dark mode",
-        );
-        themeButton.setAttribute("aria-pressed", String(darkMode));
-      }
-
-      updateThemeButton();
-
-      themeButton?.addEventListener("click", () => {
-        const newTheme = root.dataset.theme === "dark" ? "light" : "dark";
-        root.dataset.theme = newTheme;
-        root.dataset.pfTheme = newTheme;
-        try {
-          localStorage.setItem("theme", newTheme);
-        } catch {}
-        updateThemeButton();
-      });
-
-      const FAVORITES_KEY = "kalam:favorites";
-
-      function readFavoriteIds(): string[] {
-        try {
-          const parsed = JSON.parse(localStorage.getItem(FAVORITES_KEY) ?? "[]");
-          return Array.isArray(parsed)
-            ? parsed.filter((value): value is string => typeof value === "string")
-            : [];
-        } catch {
-          return [];
-        }
-      }
-
-      function writeFavoriteIds(ids: string[]) {
-        try {
-          localStorage.setItem(FAVORITES_KEY, JSON.stringify(ids));
-        } catch {}
-      }
-
-      function syncFavoriteButtons() {
-        const favorites = new Set(readFavoriteIds());
-
-        document
-          .querySelectorAll<HTMLButtonElement>("[data-favorite-button][data-lyric-id]")
-          .forEach((button) => {
-            const id = button.dataset.lyricId;
-            if (!id) return;
-
-            const saved = favorites.has(id);
-            const accessibleLabel = saved
-              ? "Remove from saved lyrics"
-              : "Save this lyric";
-
-            button.setAttribute("aria-pressed", String(saved));
-            button.dataset.saved = String(saved);
-            button.setAttribute("aria-label", accessibleLabel);
-            button.setAttribute("title", accessibleLabel);
-
-            const inlineLabel = button.querySelector<HTMLElement>(
-              "[data-favorite-label]",
-            );
-            if (inlineLabel) {
-              inlineLabel.textContent = accessibleLabel;
-            } else {
-              button.textContent = saved ? "Saved" : "Save";
-            }
-          });
-      }
-
-      document.addEventListener("click", (event) => {
-        const target = event.target;
-        if (!(target instanceof Element)) return;
-
-        const button = target.closest<HTMLButtonElement>(
-          "[data-favorite-button][data-lyric-id]",
-        );
-        if (!button) return;
-
-        const id = button.dataset.lyricId;
-        if (!id) return;
-
-        const favorites = readFavoriteIds();
-        const existingIndex = favorites.indexOf(id);
-
-        if (existingIndex === -1) {
-          favorites.unshift(id);
-        } else {
-          favorites.splice(existingIndex, 1);
-        }
-
-        writeFavoriteIds(favorites);
-        syncFavoriteButtons();
-        window.dispatchEvent(
-          new CustomEvent("kalam:favorites-changed", {
-            detail: { favorites },
-          }),
-        );
-      });
-
-      window.addEventListener("storage", (event) => {
-        if (event.key === FAVORITES_KEY) syncFavoriteButtons();
-      });
-
-      syncFavoriteButtons();
+      import { initSiteShell } from "../client/site";
+      initSiteShell();
     </script>
   </body>
 </html>

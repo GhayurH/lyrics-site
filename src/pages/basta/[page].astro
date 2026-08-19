@@ -1,63 +1,30 @@
 ---
 // File role: Basta page route: combines the original scan with available Urdu/Roman text, page metadata, navigation, and shared reader controls for one printed page.
-import {
-  getCollection,
-  type CollectionEntry,
-} from "astro:content";
+import type { CollectionEntry } from "astro:content";
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaPager from "../../components/BastaPager.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
+import { loadBastaNavigationData, loadBastaRomanByPage } from "../../lib/basta-pages";
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
 import "../../styles/basta.css";
-import "../../styles/responsive-reading.css";
 
 const typedIndexEntries = indexEntries as BastaIndexEntry[];
 const { indexStartPage, indexEndPage } = settings;
 
 export async function getStaticPaths() {
-  // getStaticPaths runs in an isolated scope in Astro, so keep route settings
-  // local to the function rather than relying on frontmatter variables.
   const {
-    indexStartPage: routeIndexStartPage,
-    indexEndPage: routeIndexEndPage,
-  } = settings;
-
-  const allPages = (
-    await getCollection("basta", ({ data }) => data.published)
-  ).sort((a, b) => a.data.page - b.data.page);
-
-  const romanPages = (
-    await getCollection("bastaRoman", ({ data }) => data.published)
-  ).sort((a, b) => a.data.page - b.data.page);
-
-  const romanByPage = new Map(
-    romanPages.map((entry) => [entry.data.page, entry]),
-  );
-
-  // The physical index scans are deliberately replaced by the linked index.
-  const pages = allPages.filter(
-    (entry) =>
-      entry.data.page < routeIndexStartPage ||
-      entry.data.page > routeIndexEndPage,
-  );
-  const availablePages = pages.map((entry) => entry.data.page);
-
-  const beforeIndex = pages.filter(
-    (entry) => entry.data.page < routeIndexStartPage,
-  );
-  const afterIndex = pages.filter(
-    (entry) => entry.data.page > routeIndexEndPage,
-  );
-
-  const lastBeforeIndex = beforeIndex.at(-1)?.data.page;
-  const firstAfterIndex = afterIndex[0]?.data.page;
+    pages,
+    availablePages,
+    lastBeforeIndex,
+    firstAfterIndex,
+  } = await loadBastaNavigationData();
+  const romanByPage = await loadBastaRomanByPage();
 
   return pages.map((entry, index) => {
     const page = entry.data.page;
-
     let previousHref =
       index > 0 ? `/basta/${pages[index - 1].data.page}/` : undefined;
     let nextHref =
@@ -65,13 +32,9 @@ export async function getStaticPaths() {
         ? `/basta/${pages[index + 1].data.page}/`
         : undefined;
 
-    if (page === lastBeforeIndex && firstAfterIndex) {
-      nextHref = "/basta/index/";
-    }
-
-    if (page === firstAfterIndex && lastBeforeIndex) {
-      previousHref = "/basta/index/";
-    }
+    // The linked index occupies the navigation position of the omitted scans.
+    if (page === lastBeforeIndex && firstAfterIndex) nextHref = "/basta/index/";
+    if (page === firstAfterIndex && lastBeforeIndex) previousHref = "/basta/index/";
 
     return {
       params: { page: String(page) },
@@ -254,7 +217,7 @@ const haalFilters = [
   </article>
 
   <script>
-    import { initReadingControls } from "../../scripts/reader-state.js";
+    import { initReadingControls } from "../../client/reader-state";
     initReadingControls();
   </script>
 </BaseLayout>

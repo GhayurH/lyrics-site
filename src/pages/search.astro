@@ -1,6 +1,7 @@
 ---
-// File role: Search route: initializes Pagefind on demand, mirrors URL filters into the UI, and keeps search state shareable without loading search assets site-wide.
+// File role: Search route: loads Pagefind only here, exposes shareable URL filters, and renders removable active-filter chips.
 import BaseLayout from "../layouts/BaseLayout.astro";
+import "../styles/search.css";
 ---
 
 <BaseLayout
@@ -38,73 +39,36 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     <div class="search-primary-filters" aria-label="Search filters">
       <div class="search-filter-control search-filter-scope">
         <span class="search-filter-label">Search in</span>
-        <pagefind-filter-dropdown
-          filter="collection"
-          label="Both archives"
-          single-select
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="collection" label="Both archives" single-select sort="alphabetical"></pagefind-filter-dropdown>
       </div>
-
       <div class="search-filter-control">
         <span class="search-filter-label">Kalam Type</span>
-        <pagefind-filter-dropdown
-          filter="kalamType"
-          label="All Kalam Types"
-          single-select
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="kalamType" label="All Kalam Types" single-select sort="alphabetical"></pagefind-filter-dropdown>
       </div>
-
       <div class="search-filter-control">
         <span class="search-filter-label">Haal</span>
-        <pagefind-filter-dropdown
-          filter="haal"
-          label="Any Haal"
-          single-select
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="haal" label="Any Haal" single-select sort="alphabetical"></pagefind-filter-dropdown>
       </div>
-
       <div class="search-filter-control">
         <span class="search-filter-label">Tags</span>
-        <pagefind-filter-dropdown
-          filter="tag"
-          label="Any tag"
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="tag" label="Any tag" sort="alphabetical"></pagefind-filter-dropdown>
       </div>
     </div>
 
     <details class="search-more-filters">
       <summary>More filters</summary>
       <div class="search-secondary-filters">
-        <pagefind-filter-dropdown
-          filter="language"
-          label="Language"
-          single-select
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown
-          filter="occasion"
-          label="Occasion"
-          single-select
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown
-          filter="poet"
-          label="Poet"
-          single-select
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown
-          filter="reciter"
-          label="Reciter"
-          single-select
-          sort="alphabetical"
-        ></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="language" label="Language" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="occasion" label="Occasion" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="poet" label="Poet" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="reciter" label="Reciter" single-select sort="alphabetical"></pagefind-filter-dropdown>
       </div>
     </details>
+
+    <div id="active-search-filters" class="active-search-filters" hidden>
+      <span class="search-filter-label">Active filters</span>
+      <div id="active-search-filter-list" class="active-search-filter-list"></div>
+    </div>
 
     <div class="search-results-shell">
       <pagefind-summary></pagefind-summary>
@@ -112,84 +76,8 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     </div>
   </section>
 
-  <script is:inline type="module">
-    const FILTER_KEYS = [
-      "collection",
-      "kalamType",
-      "haal",
-      "tag",
-      "language",
-      "occasion",
-      "poet",
-      "reciter",
-    ];
-
-    function readUrlState() {
-      const params = new URLSearchParams(window.location.search);
-      const filters = {};
-
-      for (const key of FILTER_KEYS) {
-        const values = params.getAll(key).filter(Boolean);
-        if (values.length) filters[key] = values;
-      }
-
-      // Backward compatibility for links created by the previous Category UI.
-      if (!filters.kalamType) {
-        const legacyCategory = params.getAll("category").filter(Boolean);
-        if (legacyCategory.length) filters.kalamType = legacyCategory;
-      }
-
-      return {
-        term: params.get("q") ?? "",
-        filters,
-      };
-    }
-
-    function writeUrlState(term, filters) {
-      const params = new URLSearchParams();
-      const cleanTerm = typeof term === "string" ? term.trim() : "";
-      if (cleanTerm) params.set("q", cleanTerm);
-
-      for (const key of FILTER_KEYS) {
-        const raw = filters?.[key];
-        const values = Array.isArray(raw) ? raw : raw ? [raw] : [];
-        for (const value of values) {
-          if (typeof value === "string" && value.trim()) {
-            params.append(key, value.trim());
-          }
-        }
-      }
-
-      const query = params.toString();
-      const nextUrl = query
-        ? `${window.location.pathname}?${query}`
-        : window.location.pathname;
-      window.history.replaceState(null, "", nextUrl);
-    }
-
-    async function getPagefindInstance() {
-      await customElements.whenDefined("pagefind-input");
-
-      while (!window.PagefindComponents?.getInstanceManager) {
-        await new Promise((resolve) => setTimeout(resolve, 0));
-      }
-
-      const manager = window.PagefindComponents.getInstanceManager();
-      return manager.getInstance("default");
-    }
-
-    const instance = await getPagefindInstance();
-    const initial = readUrlState();
-
-    instance.on("search", (term, filters) => {
-      writeUrlState(term, filters);
-    });
-
-    await instance.triggerLoad();
-    instance.triggerSearchWithFilters(initial.term, initial.filters);
-
-    document.querySelector("#clear-search-state")?.addEventListener("click", () => {
-      instance.triggerSearchWithFilters("", {});
-    });
+  <script>
+    import { initSearchPage } from "../client/search";
+    void initSearchPage();
   </script>
 </BaseLayout>

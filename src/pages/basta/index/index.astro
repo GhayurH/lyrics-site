@@ -1,37 +1,23 @@
 ---
 // File role: Linked Basta index route: renders the bilingual structured index with reader mode controls and navigation across the physical index-page gap.
-import { getCollection } from "astro:content";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import BastaParallelIndex from "../../../components/BastaParallelIndex.astro";
 import BastaPager from "../../../components/BastaPager.astro";
 import ReadingControls from "../../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../../lib/basta";
+import { loadBastaNavigationData } from "../../../lib/basta-pages";
 import indexEntries from "../../../data/basta/index.json";
-import settings from "../../../data/basta/settings.json";
 import "../../../styles/basta.css";
 import "../../../styles/basta-reader.css";
-import "../../../styles/responsive-reading.css";
 
 const entries = indexEntries as BastaIndexEntry[];
-const { indexStartPage, indexEndPage } = settings;
-
-const allPages = (
-  await getCollection("basta", ({ data }) => data.published)
-).sort((a, b) => a.data.page - b.data.page);
-
-const pages = allPages.filter(
-  (entry) =>
-    entry.data.page < indexStartPage ||
-    entry.data.page > indexEndPage,
-);
-
-const availablePages = pages.map((entry) => entry.data.page);
-const previousPage = pages
-  .filter((entry) => entry.data.page < indexStartPage)
-  .at(-1)?.data.page;
-const nextPage = pages.find(
-  (entry) => entry.data.page > indexEndPage,
-)?.data.page;
+const {
+  availablePages,
+  lastBeforeIndex: previousPage,
+  firstAfterIndex: nextPage,
+  indexStartPage,
+  indexEndPage,
+} = await loadBastaNavigationData();
 ---
 
 <BaseLayout
@@ -83,7 +69,7 @@ const nextPage = pages.find(
   </article>
 
   <script>
-    import { initReadingControls } from "../../../scripts/reader-state.js";
+    import { initReadingControls } from "../../../client/reader-state";
     initReadingControls();
   </script>
 </BaseLayout>

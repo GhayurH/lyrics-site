@@ -1,62 +1,24 @@
 ---
-// File role: Shared lyric-card list: renders browse/searchable lyric summaries and the favorite control without duplicating card markup across pages.
+// File role: Shared lyric-card list: maps collection entries to the canonical lightweight card model and renders LyricCard components.
 import type { CollectionEntry } from "astro:content";
-import { getLyricKalamType } from "../lib/lyrics";
+import { toLyricCardData } from "../lib/catalog";
+import LyricCard from "./LyricCard.astro";
 
 interface Props {
   lyrics: CollectionEntry<"lyrics">[];
   showKalamType?: boolean;
 }
 
-const { lyrics, showKalamType = false } = Astro.props;
+const { lyrics, showKalamType = false } = Astro.props as Props;
 ---
 
 <ul class="lyric-list">
   {
-    lyrics.map((lyric) => {
-      const kalamType = getLyricKalamType(lyric.data);
-
-      return (
-        <li class="lyric-list-item">
-          <a class="lyric-list-link" href={`/lyrics/${lyric.id}/`}>
-            <span
-              class="lyric-list-title"
-              lang={lyric.data.lang}
-              dir={lyric.data.direction}
-            >
-              {lyric.data.title}
-            </span>
-
-            {lyric.data.alternateTitle && (
-              <span class="lyric-list-roman" lang="en" dir="ltr">
-                {lyric.data.alternateTitle}
-              </span>
-            )}
-
-            <span class="lyric-list-meta" aria-hidden="true">
-              {showKalamType && <span class="metadata-chip">{kalamType}</span>}
-              {lyric.data.tags
-                .filter((tag) => tag !== kalamType)
-                .slice(0, 2)
-                .map((tag) => <span class="metadata-chip">{tag}</span>)}
-            </span>
-          </a>
-
-          <button
-            class="favorite-button favorite-icon-button lyric-card-save"
-            type="button"
-            data-favorite-button
-            data-lyric-id={lyric.id}
-            aria-pressed="false"
-            title="Save this lyric"
-          >
-            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-              <path d="M6.75 4.75A1.75 1.75 0 0 1 8.5 3h7A1.75 1.75 0 0 1 17.25 4.75v15.1L12 16.65l-5.25 3.2V4.75Z" />
-            </svg>
-            <span class="visually-hidden" data-favorite-label>Save this lyric</span>
-          </button>
-        </li>
-      );
-    })
+    lyrics.map((entry) => (
+      <LyricCard
+        lyric={toLyricCardData(entry, true)}
+        showKalamType={showKalamType}
+      />
+    ))
   }
 </ul>

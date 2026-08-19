@@ -1,0 +1,39 @@
+---
+// File role: Canonical bookmark control used by server-rendered lyric cards and lyric detail pages.
+import { BOOKMARK_ICON_PATH } from "../lib/ui";
+
+interface Props {
+  lyricId: string;
+  iconOnly?: boolean;
+  className?: string;
+}
+
+const { lyricId, iconOnly = false, className = "" } = Astro.props as Props;
+---
+
+<button
+  class:list={[
+    "favorite-button",
+    iconOnly && "favorite-icon-button",
+    className,
+  ]}
+  type="button"
+  data-favorite-button
+  data-lyric-id={lyricId}
+  aria-pressed="false"
+  aria-label="Save this lyric"
+  title="Save this lyric"
+>
+  {
+    iconOnly ? (
+      <>
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d={BOOKMARK_ICON_PATH} />
+        </svg>
+        <span class="visually-hidden" data-favorite-label>Save this lyric</span>
+      </>
+    ) : (
+      <span data-favorite-label data-favorite-compact-label>Save</span>
+    )
+  }
+</button>

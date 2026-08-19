@@ -1,0 +1,32 @@
+/* File role: Search-only Pagefind layout, filter controls, active-filter chips, and responsive behavior. */
+.search-page { max-width: 72rem; margin: auto; }
+.search-header { max-width: 52rem; margin-bottom: 2rem; }
+.search-header h1 { margin: 0 0 0.75rem; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; }
+.search-share-note { color: var(--secondary-text); font-size: 0.9rem; }
+.search-input-row { display: flex; align-items: center; gap: 0.7rem; max-width: 58rem; }
+.search-input-wrap { min-width: 0; flex: 1; }
+.search-clear-button { flex: 0 0 auto; }
+.search-primary-filters, .search-secondary-filters { display: grid; gap: 0.75rem; margin-top: 1.25rem; }
+.search-primary-filters { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.search-secondary-filters { grid-template-columns: repeat(4, minmax(0, 1fr)); padding-top: 0.5rem; }
+.search-filter-control { min-width: 0; }
+.search-filter-label { display: block; margin-bottom: 0.35rem; color: var(--secondary-text); font-size: 0.75rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; }
+pagefind-filter-dropdown { display: block; min-width: 0; }
+.search-more-filters { margin-top: 1rem; border: 1px solid var(--border-colour); border-radius: 0.65rem; padding: 0.75rem 1rem; background: var(--surface-background); }
+.search-more-filters > summary { cursor: pointer; font-weight: 700; }
+.active-search-filters { margin-top: 1rem; }
+.active-search-filters[hidden] { display: none; }
+.active-search-filter-list { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.search-filter-chip { border: 1px solid var(--border-colour); border-radius: 999px; padding: 0.35rem 0.65rem; background: var(--tag-background); color: var(--primary-text); font: inherit; font-size: 0.78rem; cursor: pointer; }
+.search-filter-chip:hover { background: var(--surface-background); }
+.search-filter-chip:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
+.search-filter-chip span { margin-left: 0.25rem; font-weight: 800; }
+.search-results-shell { margin-top: 2rem; border-top: 1px solid var(--border-colour); padding-top: 1.5rem; }
+@media (max-width: 920px) {
+  .search-primary-filters, .search-secondary-filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 700px) {
+  .search-input-row { align-items: stretch; flex-direction: column; }
+  .search-clear-button { align-self: flex-start; }
+  .search-primary-filters, .search-secondary-filters { grid-template-columns: 1fr; }
+}

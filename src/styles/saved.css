@@ -1,0 +1,8 @@
+/* File role: Saved/Recent-only sections and empty/error states; cards themselves use the global canonical card styles. */
+.saved-page { max-width: 72rem; margin: auto; }
+.saved-section { margin-top: 3rem; }
+.saved-section-heading h2 { margin: 0; }
+.saved-section-heading p { margin: 0.2rem 0 0; color: var(--secondary-text); font-size: 0.85rem; }
+.saved-lyric-list { margin-top: 1rem; }
+.saved-empty { margin-top: 1rem; border: 1px dashed var(--border-colour); border-radius: 0.7rem; padding: 1rem; color: var(--secondary-text); }
+.saved-empty[hidden] { display: none; }

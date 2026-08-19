@@ -1,33 +1,22 @@
 ---
 // File role: Individual lyric route: builds previous/next navigation within a Kalam Type, renders Urdu/Roman reading modes, and records reader preferences/history.
 import {
-  getCollection,
   type CollectionEntry,
 } from "astro:content";
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
-import "../../styles/responsive-reading.css";
+import FavoriteButton from "../../components/FavoriteButton.astro";
+import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-data";
+import "../../styles/lyrics.css";
 import {
-  compareLyrics,
   getLyricKalamType,
   searchUrl,
   slugifyKalamType,
 } from "../../lib/lyrics";
 
 export async function getStaticPaths() {
-  const lyrics = (
-    await getCollection("lyrics", ({ data }) => data.published)
-  ).sort(compareLyrics);
-
-  const byCategory = new Map<string, CollectionEntry<"lyrics">[]>();
-
-  for (const lyric of lyrics) {
-    const category = getLyricKalamType(lyric.data);
-    const group = byCategory.get(category) ?? [];
-    group.push(lyric);
-    byCategory.set(category, group);
-  }
+  const byCategory = groupLyricsByKalamType(await loadPublishedLyrics());
 
   return [...byCategory.entries()].flatMap(([, categoryLyrics]) =>
     categoryLyrics.map((lyric, index) => ({
@@ -125,15 +114,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
           >
             {category}
           </a>
-          <button
-            class="favorite-button"
-            type="button"
-            data-favorite-button
-            data-lyric-id={lyric.id}
-            aria-pressed="false"
-          >
-            Save
-          </button>
+          <FavoriteButton lyricId={lyric.id} />
         </div>
       </div>
 
@@ -223,6 +204,8 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
             src={data.cover}
             alt={data.coverAlt}
             data-pagefind-meta="image[src], image_alt[alt]"
+            loading="lazy"
+            decoding="async"
           />
         )
       }
@@ -346,7 +329,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     import {
       initReadingControls,
       recordRecentLyric,
-    } from "../../scripts/reader-state.js";
+    } from "../../client/reader-state";
 
     const lyricPage = document.querySelector<HTMLElement>("[data-lyric-id]");
     if (lyricPage?.dataset.lyricId) {

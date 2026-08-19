@@ -1,17 +1,14 @@
 ---
-// File role: Saved/recent route: resolves browser-local favorite/history IDs against the lazy-loaded static lyric catalog and renders only entries used on this device.
+// File role: Saved/Recent route shell. The catalog and cards are loaded only on this page by the shared Saved controller.
 import BaseLayout from "../layouts/BaseLayout.astro";
+import "../styles/saved.css";
 ---
 
 <BaseLayout
   title="Saved & recent | Kalam Archive"
   description="Your locally saved and recently viewed Kalam Archive lyrics."
 >
-  <section
-    id="saved-library"
-    class="saved-page"
-    data-pagefind-ignore="all"
-  >
+  <section id="saved-library" class="saved-page" data-pagefind-ignore="all">
     <header class="page-header-simple">
       <p class="eyebrow">On this device</p>
       <h1>Saved &amp; recent</h1>
@@ -38,7 +35,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       <p id="favorites-empty" class="saved-empty">
         Nothing saved yet. Use the bookmark icon on any kalam card.
       </p>
-      <ul id="favorites-list" class="saved-lyric-list" aria-live="polite"></ul>
+      <ul id="favorites-list" class="lyric-list saved-lyric-list" aria-live="polite"></ul>
     </section>
 
     <section class="saved-section" aria-labelledby="recent-heading">
@@ -52,187 +49,12 @@ import BaseLayout from "../layouts/BaseLayout.astro";
         </button>
       </div>
       <p id="recent-empty" class="saved-empty">No recently viewed lyrics yet.</p>
-      <ul id="recent-list" class="saved-lyric-list" aria-live="polite"></ul>
+      <ul id="recent-list" class="lyric-list saved-lyric-list" aria-live="polite"></ul>
     </section>
   </section>
 
   <script>
-    type CatalogEntry = {
-      id: string;
-      title: string;
-      alternateTitle: string;
-      kalamType: string;
-      lang: string;
-      direction: "rtl" | "ltr";
-      href: string;
-    };
-
-    const root = document.querySelector<HTMLElement>("#saved-library");
-
-    async function initSavedLibrary() {
-      if (!root) return;
-
-      const FAVORITES_KEY = "kalam:favorites";
-      const RECENT_KEY = "kalam:recent";
-
-      let catalog: CatalogEntry[] = [];
-      try {
-        const response = await fetch("/data/saved-catalog.json");
-        if (!response.ok) throw new Error(`Catalog request failed: ${response.status}`);
-        const parsed: unknown = await response.json();
-        if (!Array.isArray(parsed)) throw new Error("Catalog response is not an array");
-        catalog = parsed as CatalogEntry[];
-      } catch (error) {
-        console.error(error);
-        const loadError = document.querySelector<HTMLElement>("#saved-load-error");
-        if (loadError) loadError.hidden = false;
-        return;
-      }
-
-      const byId = new Map(catalog.map((entry) => [entry.id, entry]));
-      const favoritesList = document.querySelector<HTMLUListElement>("#favorites-list");
-      const recentList = document.querySelector<HTMLUListElement>("#recent-list");
-      const favoritesEmpty = document.querySelector<HTMLElement>("#favorites-empty");
-      const recentEmpty = document.querySelector<HTMLElement>("#recent-empty");
-      const favoritesCount = document.querySelector<HTMLElement>("#favorites-count");
-      const recentCount = document.querySelector<HTMLElement>("#recent-count");
-
-      function readIds(key: string) {
-        try {
-          const parsed = JSON.parse(localStorage.getItem(key) ?? "[]");
-          return Array.isArray(parsed)
-            ? parsed.filter((value): value is string => typeof value === "string")
-            : [];
-        } catch {
-          return [];
-        }
-      }
-
-      function makeBookmarkIcon() {
-        const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-        svg.setAttribute("viewBox", "0 0 24 24");
-        svg.setAttribute("aria-hidden", "true");
-        svg.setAttribute("focusable", "false");
-
-        const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-        path.setAttribute(
-          "d",
-          "M6.75 4.75A1.75 1.75 0 0 1 8.5 3h7A1.75 1.75 0 0 1 17.25 4.75v15.1L12 16.65l-5.25 3.2V4.75Z",
-        );
-        svg.append(path);
-        return svg;
-      }
-
-      function makeListItem(entry: CatalogEntry, saved: boolean) {
-        const item = document.createElement("li");
-        item.className = "saved-lyric-item";
-
-        const link = document.createElement("a");
-        link.className = "saved-lyric-link";
-        link.href = entry.href;
-
-        const title = document.createElement("span");
-        title.className = "saved-lyric-title";
-        title.lang = entry.lang;
-        title.dir = entry.direction;
-        title.textContent = entry.title;
-        link.append(title);
-
-        if (entry.alternateTitle) {
-          const roman = document.createElement("span");
-          roman.className = "saved-lyric-roman";
-          roman.lang = "en";
-          roman.dir = "ltr";
-          roman.textContent = entry.alternateTitle;
-          link.append(roman);
-        }
-
-        const meta = document.createElement("span");
-        meta.className = "saved-lyric-meta";
-        meta.textContent = entry.kalamType;
-        link.append(meta);
-
-        const favoriteButton = document.createElement("button");
-        favoriteButton.type = "button";
-        favoriteButton.className = "favorite-button favorite-icon-button saved-card-save";
-        favoriteButton.dataset.favoriteButton = "";
-        favoriteButton.dataset.lyricId = entry.id;
-        favoriteButton.dataset.saved = String(saved);
-        favoriteButton.setAttribute("aria-pressed", String(saved));
-        const accessibleLabel = saved ? "Remove from saved lyrics" : "Save this lyric";
-        favoriteButton.setAttribute("aria-label", accessibleLabel);
-        favoriteButton.setAttribute("title", accessibleLabel);
-        favoriteButton.append(makeBookmarkIcon());
-
-        const hiddenLabel = document.createElement("span");
-        hiddenLabel.className = "visually-hidden";
-        hiddenLabel.dataset.favoriteLabel = "";
-        hiddenLabel.textContent = accessibleLabel;
-        favoriteButton.append(hiddenLabel);
-
-        item.append(link, favoriteButton);
-        return item;
-      }
-
-      function render() {
-        const favoriteIds = readIds(FAVORITES_KEY);
-        const recentIds = readIds(RECENT_KEY);
-        const favoritesSet = new Set(favoriteIds);
-
-        const favoriteEntries = favoriteIds
-          .map((id) => byId.get(id))
-          .filter((entry): entry is CatalogEntry => Boolean(entry));
-        const recentEntries = recentIds
-          .map((id) => byId.get(id))
-          .filter((entry): entry is CatalogEntry => Boolean(entry));
-
-        if (favoritesList) {
-          favoritesList.replaceChildren(
-            ...favoriteEntries.map((entry) => makeListItem(entry, true)),
-          );
-        }
-
-        if (recentList) {
-          recentList.replaceChildren(
-            ...recentEntries.map((entry) =>
-              makeListItem(entry, favoritesSet.has(entry.id)),
-            ),
-          );
-        }
-
-        if (favoritesEmpty) favoritesEmpty.hidden = favoriteEntries.length > 0;
-        if (recentEmpty) recentEmpty.hidden = recentEntries.length > 0;
-        if (favoritesCount) {
-          favoritesCount.textContent = `${favoriteEntries.length} saved`;
-        }
-        if (recentCount) recentCount.textContent = `${recentEntries.length} recent`;
-      }
-
-      document.querySelector("#clear-favorites")?.addEventListener("click", () => {
-        try {
-          localStorage.removeItem(FAVORITES_KEY);
-        } catch {}
-        window.dispatchEvent(
-          new CustomEvent("kalam:favorites-changed", { detail: { favorites: [] } }),
-        );
-        render();
-      });
-
-      document.querySelector("#clear-recent")?.addEventListener("click", () => {
-        try {
-          localStorage.removeItem(RECENT_KEY);
-        } catch {}
-        render();
-      });
-
-      window.addEventListener("kalam:favorites-changed", render);
-      window.addEventListener("storage", (event) => {
-        if (event.key === FAVORITES_KEY || event.key === RECENT_KEY) render();
-      });
-
-      render();
-    }
-
+    import { initSavedLibrary } from "../client/saved-library";
     void initSavedLibrary();
   </script>
 </BaseLayout>

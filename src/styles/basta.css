@@ -576,3 +576,45 @@
     gap: 1rem;
   }
 }
+
+/* Page-by-page reader modes. Kept here so the route no longer depends on a cross-route responsive override file. */
+.basta-page-reading-controls { margin: 1rem 0 1.5rem; }
+.basta-page-grid[data-reading-root] {
+  --basta-page-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
+  --basta-page-roman-size: clamp(1rem, 1.6vw, 1.2rem);
+  --basta-page-urdu-leading: 2.8;
+  --basta-page-roman-leading: 2;
+}
+.basta-page-grid[data-reading-root] .basta-original-page { grid-area: scan; }
+.basta-page-grid[data-reading-root] .basta-page-urdu { grid-area: urdu; }
+.basta-page-grid[data-reading-root] .basta-page-roman { grid-area: roman; }
+.basta-page-grid[data-reading-root] .basta-urdu-text { font-size: var(--basta-page-urdu-size); line-height: var(--basta-page-urdu-leading); }
+.basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--basta-page-roman-size); line-height: var(--basta-page-roman-leading); }
+.basta-original-page img { aspect-ratio: auto 1240 / 1754; object-fit: contain; }
+
+.basta-page-grid[data-reading-mode="urdu"] .basta-page-roman { display: none; }
+.basta-page-grid[data-reading-mode="roman"] .basta-page-urdu { display: none; }
+.basta-page-grid[data-font-size="small"] { --basta-page-urdu-size: clamp(1.15rem, 2.6vw, 1.5rem); --basta-page-roman-size: clamp(0.95rem, 2.2vw, 1.1rem); }
+.basta-page-grid[data-font-size="large"] { --basta-page-urdu-size: clamp(1.55rem, 3.4vw, 2.05rem); --basta-page-roman-size: clamp(1.18rem, 2.8vw, 1.42rem); }
+.basta-page-grid[data-font-size="xlarge"] { --basta-page-urdu-size: clamp(1.75rem, 3.9vw, 2.35rem); --basta-page-roman-size: clamp(1.3rem, 3.1vw, 1.6rem); }
+.basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: 2.2; --basta-page-roman-leading: 1.65; }
+.basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: 3.2; --basta-page-roman-leading: 2.35; }
+
+@media (min-width: 921px) {
+  .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) { grid-template-areas: "scan urdu"; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"] { grid-template-areas: "scan roman urdu"; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"] .basta-page-roman,
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"] .basta-page-urdu { display: block; }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="urdu"] { grid-template-areas: "scan urdu"; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="roman"] { grid-template-areas: "scan roman"; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 920px) {
+  .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) { grid-template-areas: "scan" "urdu"; grid-template-columns: 1fr; }
+  .basta-page.basta-page-with-roman { max-width: 48rem; }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"] { grid-template-areas: "scan" "urdu" "roman"; grid-template-columns: 1fr; }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"] .basta-page-urdu,
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"] .basta-page-roman { display: block; }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="urdu"] { grid-template-areas: "scan" "urdu"; grid-template-columns: 1fr; }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="roman"] { grid-template-areas: "scan" "roman"; grid-template-columns: 1fr; }
+}
