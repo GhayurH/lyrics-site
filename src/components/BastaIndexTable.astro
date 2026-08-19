@@ -14,6 +14,7 @@ interface Props {
   entries: BastaIndexEntry[];
   edition?: "urdu" | "roman";
   heading?: boolean;
+  showSectionHeadings?: boolean;
   linkMode?: "page" | "continuous";
 }
 
@@ -21,6 +22,7 @@ const {
   entries,
   edition = "urdu",
   heading = true,
+  showSectionHeadings = true,
   linkMode = "page",
 } = Astro.props as Props;
 
@@ -65,9 +67,10 @@ for (const entry of entries) {
                   : (entry.haal?.trim() || ""),
               ),
             );
+
             return (
               <section class="basta-index-group">
-                {section && <h3>{section}</h3>}
+                {showSectionHeadings && section && <h3>{section}</h3>}
 
                 <div class="basta-index-table-wrap">
                   <table
@@ -193,5 +196,63 @@ for (const entry of entries) {
 
   .basta-index-entry-number a {
     display: block;
+  }
+
+  /*
+   * On phones the old global 34rem minimum forced horizontal scrolling.
+   * Keep the semantic table, but let it fit the viewport and wrap cell text.
+   */
+  @media (max-width: 640px) {
+    .basta-index-table-wrap {
+      width: 100%;
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+
+    .basta-index-table {
+      width: 100%;
+      min-width: 0;
+      table-layout: fixed;
+      font-size: 0.9rem;
+    }
+
+    .basta-index-table th,
+    .basta-index-table td {
+      min-width: 0;
+      padding: 0.45rem 0.38rem;
+      overflow-wrap: anywhere;
+      word-break: normal;
+    }
+
+    .basta-index-col-serial {
+      width: 12%;
+    }
+
+    .basta-index-table-without-haal .basta-index-col-name {
+      width: 68%;
+    }
+
+    .basta-index-table-without-haal .basta-index-col-page {
+      width: 20%;
+    }
+
+    .basta-index-table-with-haal .basta-index-col-name {
+      width: 38%;
+    }
+
+    .basta-index-table-with-haal .basta-index-col-haal {
+      width: 32%;
+    }
+
+    .basta-index-table-with-haal .basta-index-col-page {
+      width: 18%;
+    }
+
+    .basta-index-table th:first-child,
+    .basta-index-table th:last-child,
+    .basta-index-entry-number,
+    .basta-index-target-page {
+      font-size: 0.8rem;
+    }
   }
 </style>

@@ -1,5 +1,5 @@
-/* Unified continuous Basta reader.
-   The existing page-by-page and index styles remain in basta.css. */
+/* Unified continuous Basta reader and bilingual index modes.
+   Existing page-by-page basics remain in basta.css. */
 
 .basta-reader {
   max-width: 84rem;
@@ -41,28 +41,24 @@
   scroll-margin-top: 7rem;
 }
 
-.basta-reader-page-grid,
-.basta-reader-index-grid {
+.basta-reader-page-grid {
   display: grid;
   grid-template-areas: "roman urdu";
   grid-template-columns: repeat(2, minmax(0, 1fr));
   align-items: start;
 }
 
-.basta-reader-column,
-.basta-reader-index-panel {
+.basta-reader-column {
   min-width: 0;
 }
 
-.basta-reader-roman,
-.basta-reader-index-roman {
+.basta-reader-roman {
   grid-area: roman;
   border-right: 1px solid var(--border-colour);
   padding-right: clamp(1rem, 2.5vw, 2rem);
 }
 
-.basta-reader-urdu,
-.basta-reader-index-urdu {
+.basta-reader-urdu {
   grid-area: urdu;
   padding-left: clamp(1rem, 2.5vw, 2rem);
 }
@@ -134,44 +130,191 @@
   margin-bottom: 2rem;
 }
 
-.basta-reader-index-panel .basta-index-table-section {
-  margin-top: 0;
+/* =========================================================
+   Anchored bilingual index
+   ========================================================= */
+
+.basta-index-page.basta-index-page-modes {
+  max-width: 84rem;
 }
 
-.basta-reader-index-panel .basta-index-table {
-  min-width: 30rem;
+.basta-index-reading-controls {
+  margin-top: 1.5rem;
 }
 
-/* View switching */
+.basta-parallel-index {
+  width: 100%;
+  min-width: 0;
+}
+
+.basta-parallel-index-overall-headings {
+  display: grid;
+  grid-template-areas: "roman urdu";
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  margin-bottom: 1.5rem;
+}
+
+.basta-parallel-index-overall-headings > h2 {
+  margin: 0;
+  font-size: clamp(1.5rem, 3.5vw, 2.2rem);
+}
+
+.basta-parallel-index-overall-headings > .basta-parallel-index-roman {
+  grid-area: roman;
+  padding-right: clamp(1rem, 2.5vw, 2rem);
+  text-align: left;
+}
+
+.basta-parallel-index-overall-headings > .basta-parallel-index-urdu {
+  grid-area: urdu;
+  padding-left: clamp(1rem, 2.5vw, 2rem);
+  text-align: right;
+}
+
+.basta-parallel-index-sections {
+  display: grid;
+  gap: 2.4rem;
+}
+
+/*
+ * Each section is one four-area grid:
+ *
+ *   Roman heading | Urdu heading
+ *   Roman table   | Urdu table
+ *
+ * The heading row takes the height of the taller heading, and the whole
+ * section takes the height of the taller table. Therefore the next section
+ * always begins at exactly the same vertical position on both sides.
+ */
+.basta-parallel-index-section {
+  display: grid;
+  grid-template-areas:
+    "roman-heading urdu-heading"
+    "roman-table urdu-table";
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  min-width: 0;
+}
+
+.basta-parallel-index-section-heading {
+  min-width: 0;
+  margin: 0 0 0.8rem;
+  font-size: clamp(1.25rem, 3vw, 1.7rem);
+}
+
+.basta-parallel-index-section-heading.basta-parallel-index-roman {
+  grid-area: roman-heading;
+  padding-right: clamp(1rem, 2.5vw, 2rem);
+  text-align: left;
+}
+
+.basta-parallel-index-section-heading.basta-parallel-index-urdu {
+  grid-area: urdu-heading;
+  padding-left: clamp(1rem, 2.5vw, 2rem);
+  text-align: right;
+}
+
+.basta-parallel-index-table {
+  min-width: 0;
+}
+
+.basta-parallel-index-table.basta-parallel-index-roman {
+  grid-area: roman-table;
+  border-right: 1px solid var(--border-colour);
+  padding-right: clamp(1rem, 2.5vw, 2rem);
+}
+
+.basta-parallel-index-table.basta-parallel-index-urdu {
+  grid-area: urdu-table;
+  padding-left: clamp(1rem, 2.5vw, 2rem);
+}
+
+.basta-parallel-index-table .basta-index-table-section,
+.basta-parallel-index-table .basta-index-group {
+  margin: 0;
+  min-width: 0;
+}
+
+.basta-parallel-index-table .basta-index-groups {
+  gap: 0;
+}
+
+/* =========================================================
+   View switching — continuous reader and standalone index
+   ========================================================= */
+
 .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-roman,
-.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-index-roman {
-  display: none;
-}
-
-.basta-reader-flow[data-reading-mode="roman"] .basta-reader-urdu,
-.basta-reader-flow[data-reading-mode="roman"] .basta-reader-index-urdu {
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-urdu {
   display: none;
 }
 
 .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-page-grid,
-.basta-reader-flow[data-reading-mode="roman"] .basta-reader-page-grid,
-.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-index-grid,
-.basta-reader-flow[data-reading-mode="roman"] .basta-reader-index-grid {
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-page-grid {
   grid-template-areas: "single";
   grid-template-columns: minmax(0, 48rem);
   justify-content: center;
 }
 
 .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
-.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-index-urdu,
-.basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman,
-.basta-reader-flow[data-reading-mode="roman"] .basta-reader-index-roman {
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman {
   grid-area: single;
   border-right: 0;
   padding-inline: 0;
 }
 
-/* Text size */
+/* Hide the unused index edition in either parent context. */
+.basta-reader-flow[data-reading-mode="urdu"] .basta-parallel-index-roman,
+.basta-index-mode-shell[data-reading-mode="urdu"] .basta-parallel-index-roman {
+  display: none;
+}
+
+.basta-reader-flow[data-reading-mode="roman"] .basta-parallel-index-urdu,
+.basta-index-mode-shell[data-reading-mode="roman"] .basta-parallel-index-urdu {
+  display: none;
+}
+
+.basta-reader-flow[data-reading-mode="urdu"] .basta-parallel-index-overall-headings,
+.basta-reader-flow[data-reading-mode="roman"] .basta-parallel-index-overall-headings,
+.basta-index-mode-shell[data-reading-mode="urdu"] .basta-parallel-index-overall-headings,
+.basta-index-mode-shell[data-reading-mode="roman"] .basta-parallel-index-overall-headings {
+  grid-template-areas: "single";
+  grid-template-columns: minmax(0, 48rem);
+  justify-content: center;
+}
+
+.basta-reader-flow[data-reading-mode="urdu"] .basta-parallel-index-section,
+.basta-reader-flow[data-reading-mode="roman"] .basta-parallel-index-section,
+.basta-index-mode-shell[data-reading-mode="urdu"] .basta-parallel-index-section,
+.basta-index-mode-shell[data-reading-mode="roman"] .basta-parallel-index-section {
+  grid-template-areas:
+    "single-heading"
+    "single-table";
+  grid-template-columns: minmax(0, 48rem);
+  justify-content: center;
+}
+
+.basta-reader-flow[data-reading-mode="urdu"] .basta-parallel-index-urdu.basta-parallel-index-section-heading,
+.basta-index-mode-shell[data-reading-mode="urdu"] .basta-parallel-index-urdu.basta-parallel-index-section-heading,
+.basta-reader-flow[data-reading-mode="roman"] .basta-parallel-index-roman.basta-parallel-index-section-heading,
+.basta-index-mode-shell[data-reading-mode="roman"] .basta-parallel-index-roman.basta-parallel-index-section-heading {
+  grid-area: single-heading;
+  padding-inline: 0;
+}
+
+.basta-reader-flow[data-reading-mode="urdu"] .basta-parallel-index-urdu.basta-parallel-index-table,
+.basta-index-mode-shell[data-reading-mode="urdu"] .basta-parallel-index-urdu.basta-parallel-index-table,
+.basta-reader-flow[data-reading-mode="roman"] .basta-parallel-index-roman.basta-parallel-index-table,
+.basta-index-mode-shell[data-reading-mode="roman"] .basta-parallel-index-roman.basta-parallel-index-table {
+  grid-area: single-table;
+  border-right: 0;
+  padding-inline: 0;
+}
+
+/* =========================================================
+   Shared text size / spacing preferences
+   ========================================================= */
+
 .basta-reader-flow[data-font-size="small"] {
   --basta-urdu-size: clamp(1.15rem, 2.6vw, 1.5rem);
   --basta-roman-size: clamp(0.95rem, 2.2vw, 1.1rem);
@@ -187,7 +330,6 @@
   --basta-roman-size: clamp(1.3rem, 3.1vw, 1.6rem);
 }
 
-/* Line spacing */
 .basta-reader-flow[data-line-spacing="compact"] {
   --basta-urdu-leading: 2.2;
   --basta-roman-leading: 1.65;
@@ -198,36 +340,147 @@
   --basta-roman-leading: 2.35;
 }
 
+/* Index typography follows the same controls on both pages. */
+.basta-reader-flow[data-font-size="small"] .basta-parallel-index,
+.basta-index-mode-shell[data-font-size="small"] .basta-parallel-index {
+  font-size: 0.9rem;
+}
+
+.basta-reader-flow[data-font-size="large"] .basta-parallel-index,
+.basta-index-mode-shell[data-font-size="large"] .basta-parallel-index {
+  font-size: 1.1rem;
+}
+
+.basta-reader-flow[data-font-size="xlarge"] .basta-parallel-index,
+.basta-index-mode-shell[data-font-size="xlarge"] .basta-parallel-index {
+  font-size: 1.2rem;
+}
+
+.basta-reader-flow[data-line-spacing="compact"] .basta-index-table-urdu th,
+.basta-reader-flow[data-line-spacing="compact"] .basta-index-table-urdu td,
+.basta-index-mode-shell[data-line-spacing="compact"] .basta-index-table-urdu th,
+.basta-index-mode-shell[data-line-spacing="compact"] .basta-index-table-urdu td {
+  line-height: 1.7;
+}
+
+.basta-reader-flow[data-line-spacing="compact"] .basta-index-table-roman th,
+.basta-reader-flow[data-line-spacing="compact"] .basta-index-table-roman td,
+.basta-index-mode-shell[data-line-spacing="compact"] .basta-index-table-roman th,
+.basta-index-mode-shell[data-line-spacing="compact"] .basta-index-table-roman td {
+  line-height: 1.35;
+}
+
+.basta-reader-flow[data-line-spacing="relaxed"] .basta-index-table-urdu th,
+.basta-reader-flow[data-line-spacing="relaxed"] .basta-index-table-urdu td,
+.basta-index-mode-shell[data-line-spacing="relaxed"] .basta-index-table-urdu th,
+.basta-index-mode-shell[data-line-spacing="relaxed"] .basta-index-table-urdu td {
+  line-height: 2.5;
+}
+
+.basta-reader-flow[data-line-spacing="relaxed"] .basta-index-table-roman th,
+.basta-reader-flow[data-line-spacing="relaxed"] .basta-index-table-roman td,
+.basta-index-mode-shell[data-line-spacing="relaxed"] .basta-index-table-roman th,
+.basta-index-mode-shell[data-line-spacing="relaxed"] .basta-index-table-roman td {
+  line-height: 1.9;
+}
+
+/* =========================================================
+   Mobile
+   ========================================================= */
+
 @media (max-width: 920px) {
-  .basta-reader-page-grid,
-  .basta-reader-index-grid {
+  .basta-reader-page-grid {
     grid-template-areas:
       "urdu"
       "roman";
     grid-template-columns: 1fr;
   }
 
-  .basta-reader-urdu,
-  .basta-reader-index-urdu {
+  .basta-reader-urdu {
     border-bottom: 1px solid var(--border-colour);
     padding: 0 0 1.4rem;
   }
 
-  .basta-reader-roman,
-  .basta-reader-index-roman {
+  .basta-reader-roman {
     border-right: 0;
     padding: 1.4rem 0 0;
   }
 
-  .basta-reader-index-panel .basta-index-table {
-    min-width: 34rem;
-  }
-
   .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
-  .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-index-urdu,
-  .basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman,
-  .basta-reader-flow[data-reading-mode="roman"] .basta-reader-index-roman {
+  .basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman {
     border-bottom: 0;
     padding-block: 0;
+  }
+
+  /*
+   * Keep each section together on mobile: Urdu heading/table first,
+   * then Roman heading/table. There is no side-by-side table squeeze.
+   */
+  .basta-parallel-index-overall-headings {
+    grid-template-areas:
+      "urdu"
+      "roman";
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  .basta-parallel-index-overall-headings > .basta-parallel-index-urdu,
+  .basta-parallel-index-overall-headings > .basta-parallel-index-roman {
+    padding-inline: 0;
+  }
+
+  .basta-parallel-index-section {
+    grid-template-areas:
+      "urdu-heading"
+      "urdu-table"
+      "roman-heading"
+      "roman-table";
+    grid-template-columns: 1fr;
+  }
+
+  .basta-parallel-index-section-heading.basta-parallel-index-urdu {
+    grid-area: urdu-heading;
+    padding-inline: 0;
+  }
+
+  .basta-parallel-index-table.basta-parallel-index-urdu {
+    grid-area: urdu-table;
+    padding: 0 0 1.5rem;
+  }
+
+  .basta-parallel-index-section-heading.basta-parallel-index-roman {
+    grid-area: roman-heading;
+    padding-inline: 0;
+  }
+
+  .basta-parallel-index-table.basta-parallel-index-roman {
+    grid-area: roman-table;
+    border-right: 0;
+    padding: 0;
+  }
+
+  .basta-parallel-index-section-heading {
+    margin-bottom: 0.65rem;
+  }
+
+  /*
+   * Crucially, do NOT restore a 30rem/34rem minimum width here.
+   * BastaIndexTable.astro makes the tables genuinely viewport-sized at
+   * phone widths.
+   */
+}
+
+@media (max-width: 640px) {
+  .basta-index-page.basta-index-page-modes,
+  .basta-reader {
+    width: 100%;
+  }
+
+  .basta-parallel-index-sections {
+    gap: 2rem;
+  }
+
+  .basta-parallel-index-section-heading {
+    font-size: 1.2rem;
   }
 }
