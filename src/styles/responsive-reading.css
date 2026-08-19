@@ -1,3 +1,4 @@
+/* File role: Final reading-layout authority: switches Urdu/Roman readers between wide parallel and narrow stacked modes for normal lyrics and page-by-page Basta routes. */
 /*
  * Responsive reading behavior shared by normal kalam and all Basta readers.
  * Loaded after ui-upgrades.css so this file is the final authority on
@@ -145,6 +146,29 @@
 
 .basta-page-grid[data-basta-page-reading] .basta-page-roman {
   grid-area: roman;
+}
+
+
+/*
+ * Urdu-only Basta pages (currently the pre-Roman portion of the book) still
+ * assign named grid areas to the scan and text. Define those areas explicitly;
+ * otherwise CSS Grid creates implicit named lines and the scan/text can occupy
+ * the same grid space. Roman-enabled pages are handled by the rules below.
+ */
+@media (min-width: 921px) {
+  .basta-page-grid[data-basta-page-reading]:not(.basta-page-grid-with-roman) {
+    grid-template-areas: "scan urdu";
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 920px) {
+  .basta-page-grid[data-basta-page-reading]:not(.basta-page-grid-with-roman) {
+    grid-template-areas:
+      "scan"
+      "urdu";
+    grid-template-columns: 1fr;
+  }
 }
 
 .basta-page-grid[data-basta-page-reading] .basta-urdu-text {

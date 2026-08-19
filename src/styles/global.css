@@ -1,3 +1,4 @@
+/* File role: Global foundation only: theme tokens, resets, site shell, common typography, shared controls, and bilingual panels used across unrelated routes. */
 :root {
   font-family:
     Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;

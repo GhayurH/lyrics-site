@@ -10,7 +10,6 @@
     "build": "astro build && pagefind",
     "preview": "astro preview",
     "search-preview": "npm run build && astro preview",
-    "audit:metadata": "node scripts/audit-lyrics-metadata.mjs",
     "astro": "astro"
   },
   "dependencies": {

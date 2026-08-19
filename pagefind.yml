@@ -1,2 +1,3 @@
+# File role: Pagefind build configuration: points indexing at Astro's dist output and fixes the search language used for stemming/tokenization.
 site: dist
 force_language: en

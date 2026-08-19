@@ -5,6 +5,7 @@ dist/
 .wrangler/
 # scripts
 scripts/
+# local one-off tools
 tools/
 trash/
 
