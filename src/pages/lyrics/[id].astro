@@ -26,12 +26,8 @@ export async function getStaticPaths() {
     byCategory.set(category, group);
   }
 
-  return lyrics.map((lyric) => {
-    const category = getLyricKalamType(lyric.data);
-    const categoryLyrics = byCategory.get(category) ?? [];
-    const index = categoryLyrics.findIndex((entry) => entry.id === lyric.id);
-
-    return {
+  return [...byCategory.entries()].flatMap(([, categoryLyrics]) =>
+    categoryLyrics.map((lyric, index) => ({
       params: {
         id: lyric.id,
       },
@@ -39,13 +35,13 @@ export async function getStaticPaths() {
         lyric,
         previousLyric: index > 0 ? categoryLyrics[index - 1] : undefined,
         nextLyric:
-          index >= 0 && index < categoryLyrics.length - 1
+          index < categoryLyrics.length - 1
             ? categoryLyrics[index + 1]
             : undefined,
         categoryCount: categoryLyrics.length,
       },
-    };
-  });
+    })),
+  );
 }
 
 interface Props {

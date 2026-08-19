@@ -1,4 +1,6 @@
-/* Basta-specific layout; colours and typography inherit the main site theme. */
+/* Basta page and index layout.
+ * Continuous-reader-specific rules live in basta-reader.css.
+ */
 
 .basta-home,
 .basta-page,
@@ -14,7 +16,6 @@
 
 .basta-home-header h1,
 .basta-page-header h1,
-.basta-scroll-header h1,
 .basta-index-header h1 {
   margin: 0.5rem 0 0.75rem;
   font-size: clamp(2rem, 5vw, 3.5rem);
@@ -29,8 +30,8 @@
 .basta-subnav {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.55rem;
   align-items: center;
+  gap: 0.55rem;
   margin-bottom: 0.75rem;
   color: var(--secondary-text);
 }
@@ -44,97 +45,7 @@
   text-decoration: underline;
 }
 
-/* Homepage edition chooser */
-.basta-edition-selector,
-.basta-home-jump-section {
-  margin-top: 2.5rem;
-  border-top: 1px solid var(--border-colour);
-  padding-top: 2rem;
-}
-
-.basta-edition-selector h2,
-.basta-home-jump-section h2 {
-  margin: 0 0 1rem;
-  font-size: 1.3rem;
-}
-
-.basta-edition-selector form {
-  display: grid;
-  gap: 0.45rem;
-}
-
-.basta-edition-selector label,
-.basta-home-jump label {
-  color: var(--secondary-text);
-  font-size: 0.85rem;
-  font-weight: 600;
-}
-
-.basta-edition-controls {
-  display: flex;
-  gap: 0.6rem;
-}
-
-.basta-edition-controls select,
-.basta-home-jump input,
-.basta-jump-form input {
-  min-height: 2.75rem;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.5rem;
-  padding: 0.55rem 0.7rem;
-  background: var(--surface-background);
-  color: var(--primary-text);
-  font: inherit;
-}
-
-.basta-edition-controls select {
-  flex: 1;
-  min-width: 0;
-}
-
-.basta-edition-controls button,
-.basta-home-jump button,
-.basta-jump-form button {
-  min-height: 2.75rem;
-  border: 0;
-  border-radius: 0.5rem;
-  padding: 0.55rem 0.9rem;
-  background: var(--button-background);
-  color: var(--button-text);
-  font: inherit;
-  font-weight: 600;
-  cursor: pointer;
-}
-
-.basta-home-jump {
-  display: flex;
-  align-items: end;
-  gap: 0.6rem;
-}
-
-.basta-home-jump label {
-  display: grid;
-  gap: 0.3rem;
-}
-
-.basta-home-jump input {
-  width: 9rem;
-}
-
-.basta-home-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  margin-top: 2rem;
-}
-
-.basta-secondary-button {
-  border: 1px solid var(--border-colour);
-  background: var(--surface-background);
-  color: var(--primary-text);
-}
-
-/* Page-by-page edition */
+/* Page navigation */
 .basta-pager {
   display: grid;
   grid-template-columns: minmax(7rem, 1fr) auto minmax(7rem, 1fr);
@@ -188,13 +99,33 @@
 
 .basta-jump-form input {
   width: 8rem;
+  min-height: 2.75rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.7rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font: inherit;
 }
 
+.basta-jump-form button {
+  min-height: 2.75rem;
+  border: 0;
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.9rem;
+  background: var(--button-background);
+  color: var(--button-text);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Page-by-page reader */
 .basta-page-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.5rem;
   align-items: start;
+  gap: 1.5rem;
   margin: 2rem 0 3rem;
 }
 
@@ -242,78 +173,7 @@
   text-align: right;
 }
 
-/* Continuous Urdu / Roman editions */
-.basta-scroll-edition {
-  max-width: 48rem;
-  margin: 0 auto;
-}
-
-.basta-scroll-header {
-  margin-bottom: 3rem;
-}
-
-.basta-scroll-page,
-.basta-scroll-index-block {
-  scroll-margin-top: 2rem;
-}
-
-.basta-scroll-text {
-  white-space: pre-wrap;
-  overflow-wrap: anywhere;
-  unicode-bidi: plaintext;
-}
-
-.basta-continuous-urdu .basta-scroll-text {
-  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
-  font-size: clamp(1.35rem, 3vw, 1.8rem);
-  line-height: 2.8;
-  text-align: right;
-}
-
-.basta-continuous-roman .basta-scroll-text {
-  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
-  line-height: 2;
-  text-align: left;
-}
-
-.basta-scroll-original-image {
-  max-width: 38rem;
-  margin: 0 auto;
-}
-
-.basta-scroll-original-image img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.basta-scroll-page-number {
-  margin: 1.75rem 0 1.5rem;
-  color: var(--secondary-text);
-  font-family: Inter, system-ui, sans-serif;
-  font-size: 0.95rem;
-  font-variant-numeric: tabular-nums;
-  line-height: 1;
-  text-align: center;
-}
-
-.basta-page-break {
-  margin: 0 0 2.5rem;
-  border: 0;
-  border-top: 1px solid var(--border-colour);
-}
-
-.basta-scroll-index-block {
-  margin: 0 0 2.5rem;
-}
-
-.basta-not-ready,
-.basta-index-empty {
-  color: var(--secondary-text);
-}
-
-/* Three-column Basta index */
+/* Linked Basta index */
 .basta-index-header {
   margin-bottom: 2rem;
 }
@@ -332,7 +192,8 @@
 }
 
 .basta-index-table-roman {
-  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family:
+    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 .basta-index-table-wrap {
@@ -348,18 +209,6 @@
   min-width: 34rem;
   border-collapse: collapse;
   table-layout: fixed;
-}
-
-.basta-index-col-name {
-  width: 52%;
-}
-
-.basta-index-col-haal {
-  width: 32%;
-}
-
-.basta-index-col-page {
-  width: 16%;
 }
 
 .basta-index-table th,
@@ -417,6 +266,10 @@
   text-align: center;
 }
 
+.basta-index-empty {
+  color: var(--secondary-text);
+}
+
 @media (max-width: 760px) {
   .basta-page-grid {
     grid-template-columns: 1fr;
@@ -438,54 +291,4 @@
   .basta-nav-button:last-child {
     justify-self: stretch;
   }
-}
-
-@media (max-width: 560px) {
-  .basta-edition-controls,
-  .basta-home-jump {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .basta-home-jump input {
-    width: 100%;
-  }
-}
-
-
-/* Index section headings and original ترتیب numbers */
-.basta-index-table .basta-index-section-row th {
-  border-inline-end: 0;
-  padding: 0.8rem 1rem;
-  background: var(--site-background);
-  color: var(--primary-text);
-  font-size: 1.08em;
-}
-
-.basta-index-table-urdu .basta-index-section-row th {
-  text-align: right;
-}
-
-.basta-index-table-roman .basta-index-section-row th {
-  text-align: left;
-}
-
-.basta-index-table td:first-child > a {
-  display: flex;
-  gap: 0.55rem;
-  align-items: baseline;
-}
-
-.basta-index-table-urdu td:first-child > a {
-  flex-direction: row;
-}
-
-.basta-index-entry-number {
-  flex: 0 0 auto;
-  min-width: 2.2rem;
-  font-family: Inter, system-ui, sans-serif;
-  font-size: 0.82em;
-  font-variant-numeric: tabular-nums;
-  line-height: 1;
-  text-align: center;
 }

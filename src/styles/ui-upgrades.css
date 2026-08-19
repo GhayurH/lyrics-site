@@ -1,8 +1,7 @@
-/* =========================================================
-   UI / UX upgrade layer
-   Loaded after global.css and basta.css so it can refine the
-   existing site without rewriting either stylesheet.
-   ========================================================= */
+/* Consolidated site UI rules.
+ * This file replaces the historical v2/v3/v4/v5 override stack with the
+ * final effective styles only.
+ */
 
 :root {
   --content-wide: 84rem;
@@ -90,116 +89,9 @@ html[data-theme="dark"] .site-header {
   background: var(--tag-background);
 }
 
-.category-overview {
-  margin: 1rem 0 4rem;
-}
-
-.category-overview .section-heading h2,
-.category-section-heading h2 {
-  margin: 0;
-}
-
-.category-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-  gap: 0.75rem;
-  margin-top: 1.25rem;
-}
-
-.category-card {
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.75rem;
-  padding: 1rem 1.1rem;
-  background: var(--surface-background);
-  text-decoration: none;
-}
-
-.category-card:hover {
-  background: var(--tag-background);
-}
-
-.category-card:focus-visible,
-.lyric-category-link:focus-visible,
-.category-pill:focus-visible {
-  outline: var(--focus-ring);
-  outline-offset: 3px;
-}
-
-.category-card strong {
-  font-size: 1.05rem;
-}
-
-.category-card span {
-  color: var(--secondary-text);
-  font-size: 0.85rem;
-}
-
-.category-sections {
-  display: grid;
-  gap: 4.5rem;
-}
-
-.category-section {
-  margin-top: 0;
-  scroll-margin-top: 6rem;
-}
-
-.category-section-heading > div > p {
-  margin: 0.15rem 0 0;
-  color: var(--secondary-text);
-  font-size: 0.9rem;
-}
-
-.category-section-heading > a {
-  color: var(--secondary-text);
-  font-size: 0.9rem;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.category-section-heading > a:hover {
-  color: var(--primary-text);
-  text-decoration: underline;
-}
-
-/* Existing cards become metadata-aware without bringing cover images back. */
-.lyric-list-item {
-  position: relative;
-}
-
-.lyric-list-link {
-  min-height: 100%;
-}
-
-.lyric-list-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-  margin-top: auto;
-  padding-top: 0.5rem;
-}
-
-.metadata-chip {
-  border-radius: 999px;
-  padding: 0.18rem 0.5rem;
-  background: var(--tag-background);
-  color: var(--secondary-text);
-  font-size: 0.72rem;
-  line-height: 1.35;
-}
-
-.lyric-category-link {
-  display: inline-block;
-  margin-top: 0.35rem;
-  color: var(--secondary-text);
-  font-size: 0.78rem;
-}
-
 .category-page,
-.about-page {
+.about-page,
+.saved-page {
   max-width: 72rem;
   margin: auto;
 }
@@ -219,309 +111,36 @@ html[data-theme="dark"] .site-header {
   color: var(--secondary-text);
 }
 
-/* =========================================================
-   Parallel lyric reading
-   ========================================================= */
-
-.lyric-page,
-.lyric-page.lyric-page-parallel {
-  max-width: var(--content-reading);
-}
-
-.lyric-header {
-  margin-bottom: 2rem;
-}
-
-.lyric-header-title-row {
+/* Lyric cards */
+.lyric-list {
   display: flex;
+  flex-wrap: wrap;
   align-items: flex-start;
-  justify-content: space-between;
-  gap: 1.5rem;
+  gap: 0.65rem;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
 }
 
-.lyric-title-block {
-  min-width: 0;
-  flex: 1;
-}
-
-.category-pill {
-  flex: 0 0 auto;
-  border: 1px solid var(--border-colour);
-  border-radius: 999px;
-  padding: 0.4rem 0.75rem;
-  background: var(--surface-background);
-  color: var(--secondary-text);
-  font-size: 0.82rem;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.category-pill:hover {
-  background: var(--tag-background);
-  color: var(--primary-text);
-}
-
-/* Keep source artwork at the old readable width even though the text page is wider. */
-.lyric-header .lyric-cover {
-  max-width: 48rem;
-  margin-inline: auto;
-}
-
-.lyric-reading-grid {
-  display: grid;
-  grid-template-areas: "roman urdu";
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0;
-  overflow: hidden;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.85rem;
-  background: var(--surface-background);
-}
-
-.lyric-reading-grid-single {
-  display: block;
-  max-width: 48rem;
-  margin-inline: auto;
-}
-
-.lyric-reading-panel {
-  min-width: 0;
-  padding: clamp(1.15rem, 2.6vw, 2.1rem);
-}
-
-.lyric-reading-urdu {
-  grid-area: urdu;
-}
-
-.lyric-reading-roman {
-  grid-area: roman;
-  border-right: 1px solid var(--border-colour);
-}
-
-.lyric-version-heading {
-  margin: 0 0 1.25rem;
-  border-bottom: 1px solid var(--border-colour);
-  padding-bottom: 0.75rem;
-  color: var(--secondary-text);
-  font-family:
-    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 0.82rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
-  line-height: 1.3;
-  text-transform: uppercase;
-}
-
-.lyric-reading-urdu .lyric-version-heading {
-  text-align: right;
-}
-
-.lyric-reading-roman .lyric-version-heading {
-  text-align: left;
-}
-
-.lyric-reading-panel .lyrics-text,
-.lyric-reading-panel .roman-lyrics-text {
-  margin-top: 0;
-}
-
-.tag-list-label {
-  display: inline-flex;
-  align-items: center;
-  padding-left: 0 !important;
-  background: transparent !important;
-  color: var(--secondary-text);
-  font-size: 0.78rem !important;
-  font-weight: 800;
-  text-transform: uppercase;
-}
-
-/* =========================================================
-   Search
-   ========================================================= */
-
-.search-page {
-  max-width: 72rem;
-}
-
-.search-header {
-  max-width: 52rem;
-}
-
-.search-header h1 {
-  margin: 0 0 0.75rem;
-  font-size: clamp(2.2rem, 6vw, 4rem);
-  line-height: 1.1;
-}
-
-.search-input-wrap {
-  max-width: 52rem;
-}
-
-.search-primary-filters,
-.search-secondary-filters {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 0.75rem;
-  margin-top: 1.25rem;
-}
-
-.search-filter-control {
+.lyric-list-item {
+  position: relative;
+  flex: 0 1 auto;
+  width: fit-content;
+  max-width: min(100%, 28rem);
   min-width: 0;
 }
-
-.search-filter-label {
-  display: block;
-  margin-bottom: 0.35rem;
-  color: var(--secondary-text);
-  font-size: 0.75rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-pagefind-filter-dropdown {
-  display: block;
-  min-width: 0;
-}
-
-.search-more-filters {
-  margin-top: 1rem;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.65rem;
-  padding: 0.75rem 1rem;
-  background: var(--surface-background);
-}
-
-.search-more-filters > summary {
-  cursor: pointer;
-  font-weight: 700;
-}
-
-.search-secondary-filters {
-  padding-top: 0.5rem;
-}
-
-.search-results-shell {
-  margin-top: 2rem;
-  border-top: 1px solid var(--border-colour);
-  padding-top: 1.5rem;
-}
-
-/* =========================================================
-   About / contact
-   ========================================================= */
-
-.about-section {
-  margin-top: 2rem;
-}
-
-.contact-card,
-.about-note {
-  border: 1px solid var(--border-colour);
-  border-radius: 0.8rem;
-  padding: clamp(1.25rem, 3vw, 2rem);
-  background: var(--surface-background);
-}
-
-.contact-card {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 2rem;
-}
-
-.contact-card h2,
-.about-note h2 {
-  margin: 0 0 0.75rem;
-}
-
-.contact-card p,
-.about-note p {
-  max-width: 52rem;
-}
-
-.contact-email-large {
-  flex: 0 0 auto;
-  margin-top: 0;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.55rem;
-  padding: 0.7rem 0.9rem;
-  background: var(--tag-background);
-  text-decoration: none;
-}
-
-.contact-email-large:hover {
-  text-decoration: underline;
-}
-
-@media (max-width: 920px) {
-  .lyric-reading-grid {
-    grid-template-areas:
-      "urdu"
-      "roman";
-    grid-template-columns: 1fr;
-  }
-
-  .lyric-reading-roman {
-    border-top: 1px solid var(--border-colour);
-    border-right: 0;
-  }
-
-  .search-primary-filters,
-  .search-secondary-filters {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-@media (max-width: 700px) {
-  .site-header {
-    position: static;
-  }
-
-  .header-actions,
-  .header-actions nav {
-    flex-wrap: wrap;
-  }
-
-  .lyric-header-title-row,
-  .contact-card {
-    align-items: flex-start;
-    flex-direction: column;
-  }
-
-  .category-pill {
-    order: -1;
-  }
-
-  .search-primary-filters,
-  .search-secondary-filters {
-    grid-template-columns: 1fr;
-  }
-
-  .category-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-@media (max-width: 430px) {
-  .category-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* =========================================================
-   Upgrade v2: saved lyrics, reading controls, linked metadata
-   ========================================================= */
 
 .lyric-list-item > .lyric-list-link {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
-  min-height: 100%;
+  width: fit-content;
+  max-width: 100%;
+  min-width: 0;
+  gap: 0.12rem;
+  overflow: hidden;
   border: 1px solid var(--border-colour);
   border-radius: 0.65rem;
-  padding: 1rem 1.1rem;
+  padding: 0.62rem 2.75rem 0.58rem 0.78rem;
   background: var(--surface-background);
   text-decoration: none;
 }
@@ -530,34 +149,50 @@ pagefind-filter-dropdown {
   background: var(--tag-background);
 }
 
-.lyric-list-actions {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 0.65rem;
-  margin-top: 0.45rem;
-  padding-inline: 0.15rem;
+.lyric-list-item > .lyric-list-link:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
 }
 
-.lyric-list-actions .lyric-category-link {
-  display: inline;
-  height: auto;
-  margin: 0 auto 0 0;
-  border: 0;
-  border-radius: 0;
-  padding: 0;
-  background: transparent;
+.lyric-list-title,
+.lyric-list-roman {
+  width: fit-content;
+  max-width: 100%;
+}
+
+.lyric-list-title {
+  font-size: 1.15rem;
+  line-height: 2;
+}
+
+.lyric-list-roman {
   color: var(--secondary-text);
-  font-size: 0.78rem;
-  text-decoration: none;
+  font-size: 0.9rem;
+  text-align: left;
 }
 
-.lyric-list-actions .lyric-category-link:hover {
-  background: transparent;
-  color: var(--primary-text);
-  text-decoration: underline;
+.lyric-list-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+  padding-top: 0;
 }
 
+.lyric-list-meta:empty {
+  display: none;
+}
+
+.metadata-chip {
+  border-radius: 999px;
+  padding: 0.18rem 0.5rem;
+  background: var(--tag-background);
+  color: var(--secondary-text);
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+/* Buttons and bookmarks */
 .favorite-button,
 .text-button {
   border: 1px solid var(--border-colour);
@@ -595,10 +230,87 @@ pagefind-filter-dropdown {
   outline-offset: 3px;
 }
 
-.favorite-button-compact {
-  flex: 0 0 auto;
-  padding: 0.36rem 0.58rem;
-  font-size: 0.76rem;
+.favorite-icon-button {
+  display: inline-grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  flex: 0 0 2rem;
+  border-radius: 0.55rem;
+  padding: 0;
+}
+
+.favorite-icon-button svg {
+  width: 1.05rem;
+  height: 1.05rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.7;
+}
+
+.favorite-icon-button[aria-pressed="true"] svg,
+.favorite-icon-button[data-saved="true"] svg {
+  fill: currentColor;
+}
+
+.lyric-card-save,
+.saved-card-save {
+  position: absolute;
+  top: 0.42rem;
+  right: 0.42rem;
+  z-index: 3;
+  margin: 0;
+}
+
+.lyric-card-save.favorite-icon-button {
+  width: 1.75rem;
+  height: 1.75rem;
+  flex-basis: 1.75rem;
+  border-radius: 0.45rem;
+}
+
+.lyric-card-save.favorite-icon-button svg {
+  width: 0.92rem;
+  height: 0.92rem;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+/* Parallel lyric reading */
+.lyric-page {
+  max-width: var(--content-reading);
+}
+
+.lyric-page-parallel {
+  max-width: var(--content-wide);
+}
+
+.lyric-header {
+  margin-bottom: 2rem;
+}
+
+.lyric-header-title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.lyric-title-block {
+  min-width: 0;
+  flex: 1;
 }
 
 .lyric-header-actions {
@@ -606,6 +318,33 @@ pagefind-filter-dropdown {
   align-items: center;
   flex: 0 0 auto;
   gap: 0.55rem;
+}
+
+.category-pill {
+  flex: 0 0 auto;
+  border: 1px solid var(--border-colour);
+  border-radius: 999px;
+  padding: 0.4rem 0.75rem;
+  background: var(--surface-background);
+  color: var(--secondary-text);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.category-pill:hover {
+  background: var(--tag-background);
+  color: var(--primary-text);
+}
+
+.category-pill:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
+}
+
+.lyric-header .lyric-cover {
+  max-width: 48rem;
+  margin-inline: auto;
 }
 
 .lyric-details dd a {
@@ -616,6 +355,78 @@ pagefind-filter-dropdown {
 
 .lyric-details dd a:hover {
   text-decoration-color: currentColor;
+}
+
+.lyric-reading-grid {
+  display: grid;
+  grid-template-areas: "roman urdu";
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  overflow: hidden;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.85rem;
+  background: var(--surface-background);
+}
+
+.lyric-reading-grid-single {
+  display: block;
+  max-width: 48rem;
+  margin-inline: auto;
+}
+
+.lyric-reading-panel {
+  min-width: 0;
+  padding: clamp(1.15rem, 2.6vw, 2.1rem);
+}
+
+.lyric-reading-urdu {
+  grid-area: urdu;
+  font-size: clamp(1.35rem, 3vw, 1.8rem);
+}
+
+.lyric-reading-roman {
+  grid-area: roman;
+  border-right: 1px solid var(--border-colour);
+  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
+}
+
+.lyric-version-heading {
+  margin: 0 0 1.25rem;
+  border-bottom: 1px solid var(--border-colour);
+  padding-bottom: 0.75rem;
+  color: var(--secondary-text);
+  font-family:
+    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+.lyric-reading-urdu .lyric-version-heading {
+  text-align: right;
+}
+
+.lyric-reading-roman .lyric-version-heading {
+  text-align: left;
+}
+
+.lyric-reading-panel .lyrics-text,
+.lyric-reading-panel .roman-lyrics-text {
+  margin-top: 0;
+  font-size: 1em;
+}
+
+.tag-list-label {
+  display: inline-flex;
+  align-items: center;
+  padding-left: 0 !important;
+  background: transparent !important;
+  color: var(--secondary-text);
+  font-size: 0.78rem !important;
+  font-weight: 800;
+  text-transform: uppercase;
 }
 
 .tag-list .tag-link {
@@ -633,10 +444,7 @@ pagefind-filter-dropdown {
   text-decoration: underline;
 }
 
-/* =========================================================
-   Reading controls
-   ========================================================= */
-
+/* Reading controls */
 .reading-controls {
   display: flex;
   align-items: end;
@@ -706,44 +514,19 @@ pagefind-filter-dropdown {
   color: var(--button-text);
 }
 
-.lyric-reading-grid[data-reading-mode="urdu"] {
-  grid-template-areas: "urdu";
-  grid-template-columns: minmax(0, 1fr);
-  max-width: 48rem;
-  margin-inline: auto;
-}
-
-.lyric-reading-grid[data-reading-mode="urdu"] .lyric-reading-roman {
-  display: none;
-}
-
+.lyric-reading-grid[data-reading-mode="urdu"],
 .lyric-reading-grid[data-reading-mode="roman"] {
-  grid-template-areas: "roman";
-  grid-template-columns: minmax(0, 1fr);
   max-width: 48rem;
   margin-inline: auto;
 }
 
+.lyric-reading-grid[data-reading-mode="urdu"] .lyric-reading-roman,
 .lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-urdu {
   display: none;
 }
 
 .lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-roman {
   border-right: 0;
-}
-
-/* Set the responsive base size on the panels so the inner text can inherit it. */
-.lyric-reading-urdu {
-  font-size: clamp(1.35rem, 3vw, 1.8rem);
-}
-
-.lyric-reading-roman {
-  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
-}
-
-.lyric-reading-panel .lyrics-text,
-.lyric-reading-panel .roman-lyrics-text {
-  font-size: 1em;
 }
 
 .lyric-reading-grid[data-font-size="small"] .lyric-reading-urdu {
@@ -794,10 +577,7 @@ pagefind-filter-dropdown {
   line-height: 2.35;
 }
 
-/* =========================================================
-   Previous / next lyric navigation
-   ========================================================= */
-
+/* Previous / next lyric navigation */
 .lyric-neighbor-nav {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
@@ -859,9 +639,22 @@ pagefind-filter-dropdown {
   text-align: center;
 }
 
-/* =========================================================
-   Search URL / share controls
-   ========================================================= */
+/* Search */
+.search-page {
+  max-width: 72rem;
+  margin: auto;
+}
+
+.search-header {
+  max-width: 52rem;
+  margin-bottom: 2rem;
+}
+
+.search-header h1 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1.1;
+}
 
 .search-share-note {
   color: var(--secondary-text);
@@ -875,7 +668,7 @@ pagefind-filter-dropdown {
   max-width: 58rem;
 }
 
-.search-input-row .search-input-wrap {
+.search-input-wrap {
   min-width: 0;
   max-width: none;
   flex: 1;
@@ -885,15 +678,105 @@ pagefind-filter-dropdown {
   flex: 0 0 auto;
 }
 
-/* =========================================================
-   Saved / recent page
-   ========================================================= */
-
-.saved-page {
-  max-width: 72rem;
-  margin: auto;
+.search-primary-filters,
+.search-secondary-filters {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
 }
 
+.search-primary-filters {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.search-secondary-filters {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  padding-top: 0.5rem;
+}
+
+.search-filter-control {
+  min-width: 0;
+}
+
+.search-filter-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--secondary-text);
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+pagefind-filter-dropdown {
+  display: block;
+  min-width: 0;
+}
+
+.search-more-filters {
+  margin-top: 1rem;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.65rem;
+  padding: 0.75rem 1rem;
+  background: var(--surface-background);
+}
+
+.search-more-filters > summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.search-results-shell {
+  margin-top: 2rem;
+  border-top: 1px solid var(--border-colour);
+  padding-top: 1.5rem;
+}
+
+/* About / contact */
+.about-section {
+  margin-top: 2rem;
+}
+
+.contact-card,
+.about-note {
+  border: 1px solid var(--border-colour);
+  border-radius: 0.8rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  background: var(--surface-background);
+}
+
+.contact-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.contact-card h2,
+.about-note h2 {
+  margin: 0 0 0.75rem;
+}
+
+.contact-card p,
+.about-note p {
+  max-width: 52rem;
+}
+
+.contact-email-large {
+  flex: 0 0 auto;
+  margin-top: 0;
+  border: 1px solid var(--border-colour);
+  border-radius: 0.55rem;
+  padding: 0.7rem 0.9rem;
+  background: var(--tag-background);
+  text-decoration: none;
+}
+
+.contact-email-large:hover {
+  text-decoration: underline;
+}
+
+/* Saved / recent */
 .saved-section {
   margin-top: 3rem;
 }
@@ -909,30 +792,35 @@ pagefind-filter-dropdown {
 }
 
 .saved-lyric-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
-  gap: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.65rem;
   margin: 1rem 0 0;
   padding: 0;
   list-style: none;
 }
 
 .saved-lyric-item {
-  display: flex;
-  align-items: stretch;
-  gap: 0.5rem;
+  position: relative;
+  display: block;
+  flex: 0 1 auto;
+  width: fit-content;
+  max-width: min(100%, 28rem);
   min-width: 0;
 }
 
 .saved-lyric-link {
   display: flex;
-  flex: 1;
   flex-direction: column;
-  gap: 0.3rem;
+  width: fit-content;
+  max-width: 100%;
   min-width: 0;
+  gap: 0.12rem;
+  overflow: hidden;
   border: 1px solid var(--border-colour);
   border-radius: 0.7rem;
-  padding: 0.9rem 1rem;
+  padding: 0.62rem 2.75rem 0.58rem 0.78rem;
   background: var(--surface-background);
   text-decoration: none;
 }
@@ -958,10 +846,6 @@ pagefind-filter-dropdown {
   padding-top: 0.35rem;
 }
 
-.saved-lyric-item > .favorite-button {
-  align-self: center;
-}
-
 .saved-empty {
   margin-top: 1rem;
   border: 1px dashed var(--border-colour);
@@ -974,82 +858,7 @@ pagefind-filter-dropdown {
   display: none;
 }
 
-@media (max-width: 920px) {
-  .lyric-reading-grid[data-reading-mode="parallel"] {
-    grid-template-areas:
-      "urdu"
-      "roman";
-    grid-template-columns: 1fr;
-  }
-
-  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-roman {
-    border-top: 1px solid var(--border-colour);
-    border-right: 0;
-  }
-
-  .lyric-neighbor-nav {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .lyric-neighbor-category {
-    grid-column: 1 / -1;
-    grid-row: 2;
-  }
-}
-
-@media (max-width: 700px) {
-  .lyric-header-actions {
-    order: -1;
-    flex-wrap: wrap;
-  }
-
-  .reading-controls {
-    align-items: stretch;
-    flex-direction: column;
-  }
-
-  .reading-control-group,
-  .reading-controls select,
-  .segmented-control {
-    width: 100%;
-  }
-
-  .segmented-control button {
-    flex: 1;
-  }
-
-  .lyric-neighbor-nav {
-    grid-template-columns: 1fr;
-  }
-
-  .lyric-neighbor-category {
-    grid-column: auto;
-    grid-row: auto;
-    order: -1;
-  }
-
-  .lyric-neighbor-next > a {
-    text-align: left;
-  }
-
-  .search-input-row {
-    align-items: stretch;
-    flex-direction: column;
-  }
-
-  .search-clear-button {
-    align-self: flex-start;
-  }
-
-  .saved-lyric-list {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* =========================================================
-   Upgrade v3: homepage category previews + Basta feature
-   ========================================================= */
-
+/* Homepage */
 .home-hero {
   padding-bottom: 2.5rem;
 }
@@ -1191,35 +1000,19 @@ pagefind-filter-dropdown {
   margin-top: 0;
 }
 
-/*
- * Make the requested desktop parallel layout explicit at the end of the
- * cascade. This intentionally wins over older lyric styles in global.css.
- */
-@media (min-width: 921px) {
-  .lyric-page.lyric-page-parallel {
-    width: 100%;
-    max-width: 84rem;
+@media (max-width: 920px) {
+  .search-primary-filters,
+  .search-secondary-filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .lyric-reading-grid[data-reading-mode="parallel"] {
-    display: grid;
-    width: 100%;
-    max-width: none;
-    margin-inline: 0;
-    grid-template-areas: "roman urdu";
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  .lyric-neighbor-nav {
+    grid-template-columns: 1fr 1fr;
   }
 
-  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-roman {
-    display: block;
-    grid-area: roman;
-    border-top: 0;
-    border-right: 1px solid var(--border-colour);
-  }
-
-  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-urdu {
-    display: block;
-    grid-area: urdu;
+  .lyric-neighbor-category {
+    grid-column: 1 / -1;
+    grid-row: 2;
   }
 }
 
@@ -1240,202 +1033,73 @@ pagefind-filter-dropdown {
   }
 }
 
-/* =========================================================
-   Upgrade v4: one Kalam Type + in-card bookmark action
-   ========================================================= */
-
-.visually-hidden {
-  position: absolute !important;
-  width: 1px !important;
-  height: 1px !important;
-  margin: -1px !important;
-  overflow: hidden !important;
-  clip: rect(0 0 0 0) !important;
-  white-space: nowrap !important;
-  border: 0 !important;
-  padding: 0 !important;
-}
-
-/* Keep kalam cards compact instead of stretching a lone card across a row. */
-.lyric-list {
-  grid-template-columns: repeat(auto-fill, minmax(17rem, 21rem));
-  justify-content: start;
-  align-items: stretch;
-}
-
-.lyric-list-item {
-  position: relative;
-  min-width: 0;
-}
-
-.lyric-list-item > .lyric-list-link {
-  min-width: 0;
-  min-height: 8.25rem;
-  overflow: hidden;
-  padding-right: 3.35rem;
-}
-
-.favorite-icon-button {
-  display: inline-grid;
-  width: 2rem;
-  height: 2rem;
-  place-items: center;
-  flex: 0 0 2rem;
-  border-radius: 0.55rem;
-  padding: 0;
-}
-
-.favorite-icon-button svg {
-  width: 1.05rem;
-  height: 1.05rem;
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  stroke-width: 1.7;
-}
-
-.favorite-icon-button[aria-pressed="true"] svg,
-.favorite-icon-button[data-saved="true"] svg {
-  fill: currentColor;
-}
-
-.lyric-card-save,
-.saved-card-save {
-  position: absolute;
-  top: 0.7rem;
-  right: 0.7rem;
-  z-index: 3;
-  margin: 0;
-}
-
-/* The primary search row now has Search in + Kalam Type + Tags. */
-.search-primary-filters {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
-/* Saved/recent cards use the same in-card bookmark treatment. */
-.saved-lyric-list {
-  grid-template-columns: repeat(auto-fill, minmax(17rem, 21rem));
-  justify-content: start;
-}
-
-.saved-lyric-item {
-  position: relative;
-  display: block;
-  min-width: 0;
-}
-
-.saved-lyric-link {
-  min-height: 8rem;
-  padding-right: 3.35rem;
-}
-
-@media (max-width: 920px) {
-  .search-primary-filters {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
 @media (max-width: 700px) {
-  .search-primary-filters {
+  .site-header {
+    position: static;
+  }
+
+  .header-actions,
+  .header-actions nav {
+    flex-wrap: wrap;
+  }
+
+  .lyric-header-title-row,
+  .contact-card {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .lyric-header-actions {
+    order: -1;
+    flex-wrap: wrap;
+  }
+
+  .category-pill {
+    order: -1;
+  }
+
+  .reading-controls {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .reading-control-group,
+  .reading-controls select,
+  .segmented-control {
+    width: 100%;
+  }
+
+  .segmented-control button {
+    flex: 1;
+  }
+
+  .lyric-neighbor-nav {
     grid-template-columns: 1fr;
   }
-}
 
-@media (max-width: 430px) {
-  .lyric-list,
-  .saved-lyric-list {
-    grid-template-columns: minmax(0, 1fr);
+  .lyric-neighbor-category {
+    grid-column: auto;
+    grid-row: auto;
+    order: -1;
   }
-}
 
-/* =========================================================
-   Upgrade v5: content-sized kalam cards
-   ========================================================= */
+  .lyric-neighbor-next > a {
+    text-align: left;
+  }
 
-/*
- * Use a wrapping flex row rather than equal-width grid tracks. This lets
- * every kalam card shrink to the width/height its own titles actually need.
- */
-.lyric-list {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 0.65rem;
-}
+  .search-input-row {
+    align-items: stretch;
+    flex-direction: column;
+  }
 
-.lyric-list-item {
-  flex: 0 1 auto;
-  width: fit-content;
-  max-width: min(100%, 28rem);
-}
+  .search-clear-button {
+    align-self: flex-start;
+  }
 
-.lyric-list-item > .lyric-list-link {
-  width: fit-content;
-  max-width: 100%;
-  min-height: 0;
-  gap: 0.12rem;
-  padding: 0.62rem 2.75rem 0.58rem 0.78rem;
-}
-
-.lyric-list-title,
-.lyric-list-roman {
-  width: fit-content;
-  max-width: 100%;
-}
-
-.lyric-list-meta {
-  margin-top: 0.25rem;
-  padding-top: 0;
-}
-
-.lyric-list-meta:empty {
-  display: none;
-}
-
-.lyric-card-save {
-  top: 0.42rem;
-  right: 0.42rem;
-}
-
-.lyric-card-save.favorite-icon-button {
-  width: 1.75rem;
-  height: 1.75rem;
-  flex-basis: 1.75rem;
-  border-radius: 0.45rem;
-}
-
-.lyric-card-save.favorite-icon-button svg {
-  width: 0.92rem;
-  height: 0.92rem;
-}
-
-/* Keep Saved / Recently viewed cards visually consistent with browse cards. */
-.saved-lyric-list {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 0.65rem;
-}
-
-.saved-lyric-item {
-  flex: 0 1 auto;
-  width: fit-content;
-  max-width: min(100%, 28rem);
-}
-
-.saved-lyric-link {
-  width: fit-content;
-  max-width: 100%;
-  min-height: 0;
-  gap: 0.12rem;
-  padding: 0.62rem 2.75rem 0.58rem 0.78rem;
-}
-
-.saved-card-save {
-  top: 0.42rem;
-  right: 0.42rem;
+  .search-primary-filters,
+  .search-secondary-filters {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (max-width: 430px) {
