@@ -1,17 +1,7 @@
 ---
 // File role: Parallel Basta index wrapper: coordinates Urdu and Roman index presentations for both page routes and the continuous reader.
+import type { BastaIndexEntry } from "../lib/basta";
 import BastaIndexTable from "./BastaIndexTable.astro";
-
-interface BastaIndexEntry {
-  section?: string;
-  sectionRoman?: string;
-  number?: number;
-  name: string;
-  haal?: string;
-  page: number;
-  romanName?: string;
-  romanHaal?: string;
-}
 
 interface Props {
   entries: BastaIndexEntry[];
@@ -25,10 +15,7 @@ const {
   heading = true,
 } = Astro.props as Props;
 
-// Group once by the Urdu/source section. Each group is then rendered as one
-// shared grid row containing both Urdu and Roman. Because the next group
-// cannot start until the taller side of the current group finishes, both
-// editions remain anchored section-by-section.
+// Group once by the Urdu/source section so both language editions stay aligned.
 const groups = new Map<string, BastaIndexEntry[]>();
 
 for (const entry of entries) {
@@ -53,11 +40,7 @@ const sections = [...groups.entries()].map(([urduSection, sectionEntries]) => ({
     heading && (
       <div class="basta-parallel-index-overall-headings">
         <h2 class="basta-parallel-index-roman">Roman Urdu Index</h2>
-        <h2
-          class="basta-parallel-index-urdu"
-          lang="ur"
-          dir="rtl"
-        >
+        <h2 class="basta-parallel-index-urdu" lang="ur" dir="rtl">
           اشاریہ
         </h2>
       </div>

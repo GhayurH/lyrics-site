@@ -5,31 +5,16 @@
  * language-view layout.
  */
 
-:root {
-  --reading-stack-breakpoint-note: 920px;
-}
-
-/* =========================================================
-   Adaptive Parallel / Stacked label
-   ========================================================= */
-
-/*
- * The underlying mode remains "parallel" everywhere because it represents
- * showing both languages. On narrow screens both languages are vertical, so
- * the visual label changes to "Stacked" without changing the stored mode.
+/* Adaptive Parallel / Stacked label.
+ * The stored "parallel" mode means "show both languages"; only its visual
+ * arrangement changes on narrow screens.
  */
 @media (max-width: 920px) {
-  button[data-reading-mode-button="parallel"],
-  button[data-basta-reading-mode="parallel"],
-  button[data-basta-index-mode="parallel"],
-  button[data-basta-page-mode="parallel"] {
+  button[data-reading-mode-button="parallel"] {
     font-size: 0 !important;
   }
 
-  button[data-reading-mode-button="parallel"]::after,
-  button[data-basta-reading-mode="parallel"]::after,
-  button[data-basta-index-mode="parallel"]::after,
-  button[data-basta-page-mode="parallel"]::after {
+  button[data-reading-mode-button="parallel"]::after {
     content: "Stacked";
     font-size: 0.82rem;
     font-weight: inherit;
@@ -37,11 +22,7 @@
   }
 }
 
-/* =========================================================
-   Normal non-Basta kalam
-   ========================================================= */
-
-/* Wide-screen Parallel: Roman left, Urdu right. */
+/* Normal non-Basta kalam */
 @media (min-width: 921px) {
   .lyric-reading-grid[data-reading-mode="parallel"] {
     display: grid;
@@ -121,49 +102,40 @@
   }
 }
 
-/* =========================================================
-   Basta page-by-page reader
-   ========================================================= */
-
+/* Basta page-by-page reader */
 .basta-page-reading-controls {
   margin: 1rem 0 1.5rem;
 }
 
-.basta-page-grid[data-basta-page-reading] {
+.basta-page-grid[data-reading-root] {
   --basta-page-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
   --basta-page-roman-size: clamp(1rem, 1.6vw, 1.2rem);
   --basta-page-urdu-leading: 2.8;
   --basta-page-roman-leading: 2;
 }
 
-.basta-page-grid[data-basta-page-reading] .basta-original-page {
+.basta-page-grid[data-reading-root] .basta-original-page {
   grid-area: scan;
 }
 
-.basta-page-grid[data-basta-page-reading] .basta-page-urdu {
+.basta-page-grid[data-reading-root] .basta-page-urdu {
   grid-area: urdu;
 }
 
-.basta-page-grid[data-basta-page-reading] .basta-page-roman {
+.basta-page-grid[data-reading-root] .basta-page-roman {
   grid-area: roman;
 }
 
-
-/*
- * Urdu-only Basta pages (currently the pre-Roman portion of the book) still
- * assign named grid areas to the scan and text. Define those areas explicitly;
- * otherwise CSS Grid creates implicit named lines and the scan/text can occupy
- * the same grid space. Roman-enabled pages are handled by the rules below.
- */
+/* Urdu-only pages still need explicit areas so scan/text never overlap. */
 @media (min-width: 921px) {
-  .basta-page-grid[data-basta-page-reading]:not(.basta-page-grid-with-roman) {
+  .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) {
     grid-template-areas: "scan urdu";
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 920px) {
-  .basta-page-grid[data-basta-page-reading]:not(.basta-page-grid-with-roman) {
+  .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) {
     grid-template-areas:
       "scan"
       "urdu";
@@ -171,12 +143,12 @@
   }
 }
 
-.basta-page-grid[data-basta-page-reading] .basta-urdu-text {
+.basta-page-grid[data-reading-root] .basta-urdu-text {
   font-size: var(--basta-page-urdu-size);
   line-height: var(--basta-page-urdu-leading);
 }
 
-.basta-page-grid[data-basta-page-reading] .basta-roman-text {
+.basta-page-grid[data-reading-root] .basta-roman-text {
   font-size: var(--basta-page-roman-size);
   line-height: var(--basta-page-roman-leading);
 }

@@ -36,6 +36,7 @@ const hasRoman = romanText.length > 0;
           src={entry.data.originalImage}
           alt={`Original scan of Basta page ${page}`}
           loading="lazy"
+          decoding="async"
         />
       </figure>
     ) : (

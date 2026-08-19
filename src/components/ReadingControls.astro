@@ -1,0 +1,61 @@
+---
+// File role: Shared reader controls for normal lyrics and all Basta readers.
+interface Props {
+  ariaLabel?: string;
+  className?: string;
+  modeGroupLabel?: string;
+  showModes?: boolean;
+}
+
+const {
+  ariaLabel = "Reading controls",
+  className = "",
+  modeGroupLabel = "Reading view",
+  showModes = true,
+} = Astro.props as Props;
+---
+
+<div
+  class:list={["reading-controls", className]}
+  data-reading-controls
+  data-pagefind-ignore
+  aria-label={ariaLabel}
+>
+  {
+    showModes && (
+      <div class="reading-control-group reading-view-control">
+        <span class="reading-control-label">View</span>
+        <div class="segmented-control" role="group" aria-label={modeGroupLabel}>
+          <button type="button" data-reading-mode-button="parallel" aria-pressed="true">
+            Parallel
+          </button>
+          <button type="button" data-reading-mode-button="urdu" aria-pressed="false">
+            Urdu
+          </button>
+          <button type="button" data-reading-mode-button="roman" aria-pressed="false">
+            Roman
+          </button>
+        </div>
+      </div>
+    )
+  }
+
+  <label class="reading-control-group">
+    <span class="reading-control-label">Text size</span>
+    <select data-reading-font-size>
+      <option value="small">Small</option>
+      <option value="default" selected>Default</option>
+      <option value="large">Large</option>
+      <option value="xlarge">Extra large</option>
+    </select>
+  </label>
+
+  <label class="reading-control-group">
+    <span class="reading-control-label">Line spacing</span>
+    <select data-reading-line-spacing>
+      <option value="compact">Compact</option>
+      <option value="default" selected>Default</option>
+      <option value="relaxed">Relaxed</option>
+    </select>
+  </label>
+</div>

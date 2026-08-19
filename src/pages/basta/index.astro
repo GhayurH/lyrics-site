@@ -36,7 +36,7 @@ const lastPage = availablePages.at(-1);
     </header>
 
     <section
-      class="basta-home-mode basta-home-mode-primary"
+      class="basta-home-mode"
       aria-labelledby="page-reader-heading"
     >
       <div class="basta-home-mode-copy">
@@ -60,10 +60,7 @@ const lastPage = availablePages.at(-1);
           )
         }
 
-        <a
-          class="button basta-home-secondary-button"
-          href="/basta/index/"
-        >
+        <a class="button basta-home-secondary-button" href="/basta/index/">
           Open book index
         </a>
       </div>
@@ -91,18 +88,13 @@ const lastPage = availablePages.at(-1);
               <button type="submit">Open page</button>
             </div>
 
-            <p class="basta-home-page-hint">
-              Enter a book page number.
-            </p>
+            <p class="basta-home-page-hint">Enter a book page number.</p>
           </form>
         )
       }
     </section>
 
-    <section
-      class="basta-home-mode"
-      aria-labelledby="continuous-reader-heading"
-    >
+    <section class="basta-home-mode" aria-labelledby="continuous-reader-heading">
       <div class="basta-home-mode-copy">
         <p class="basta-home-kicker">Full book</p>
         <h2 id="continuous-reader-heading">Continuous reader</h2>
@@ -112,18 +104,12 @@ const lastPage = availablePages.at(-1);
         </p>
       </div>
 
-      <a
-        class="button basta-home-primary-button"
-        href="/basta/read/"
-      >
+      <a class="button basta-home-primary-button" href="/basta/read/">
         Open full-book reader
       </a>
     </section>
 
-    <section
-      class="basta-home-download"
-      aria-labelledby="download-heading"
-    >
+    <section class="basta-home-download" aria-labelledby="download-heading">
       <div>
         <h2 id="download-heading">Original PDF</h2>
         <p>Download the complete original Basta as a PDF.</p>
@@ -161,10 +147,7 @@ const lastPage = availablePages.at(-1);
         return;
       }
 
-      if (
-        page >= bastaIndexStartPage &&
-        page <= bastaIndexEndPage
-      ) {
+      if (page >= bastaIndexStartPage && page <= bastaIndexEndPage) {
         window.location.href = "/basta/index/";
         return;
       }
@@ -183,168 +166,3 @@ const lastPage = availablePages.at(-1);
     });
   </script>
 </BaseLayout>
-
-<style>
-  .basta-home-redesign {
-    max-width: 52rem;
-    padding-bottom: 3rem;
-  }
-
-  .basta-home-redesign .basta-home-header {
-    margin-bottom: 2.5rem;
-  }
-
-  .basta-home-redesign .basta-home-header > p {
-    max-width: 42rem;
-  }
-
-  .basta-home-mode {
-    display: grid;
-    gap: 1.35rem;
-    margin-top: 1rem;
-    border: 1px solid var(--border-colour);
-    border-radius: 0.85rem;
-    padding: clamp(1.15rem, 3vw, 1.65rem);
-    background: var(--surface-background);
-  }
-
-  .basta-home-mode + .basta-home-mode {
-    margin-top: 1rem;
-  }
-
-  .basta-home-mode-primary {
-    border-width: 1px;
-  }
-
-  .basta-home-mode-copy h2,
-  .basta-home-download h2 {
-    margin: 0;
-    font-size: clamp(1.3rem, 3vw, 1.7rem);
-    line-height: 1.2;
-  }
-
-  .basta-home-mode-copy > p:last-child,
-  .basta-home-download p {
-    margin: 0.55rem 0 0;
-    color: var(--secondary-text);
-  }
-
-  .basta-home-kicker {
-    margin: 0 0 0.4rem;
-    color: var(--secondary-text);
-    font-size: 0.72rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
-
-  .basta-page-reader-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.65rem;
-  }
-
-  .basta-home-primary-button,
-  .basta-home-secondary-button,
-  .basta-home-page-jump button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 2.75rem;
-    border-radius: 0.55rem;
-    padding: 0.6rem 0.9rem;
-    font: inherit;
-    font-weight: 700;
-    line-height: 1.2;
-    text-decoration: none;
-    cursor: pointer;
-  }
-
-  .basta-home-primary-button,
-  .basta-home-page-jump button {
-    border: 1px solid var(--button-background);
-    background: var(--button-background);
-    color: var(--button-text);
-  }
-
-  .basta-home-secondary-button {
-    border: 1px solid var(--border-colour);
-    background: var(--surface-background);
-    color: var(--primary-text);
-  }
-
-  .basta-home-secondary-button:hover {
-    background: var(--tag-background);
-  }
-
-  .basta-home-page-jump {
-    display: grid;
-    gap: 0.45rem;
-    border-top: 1px solid var(--border-colour);
-    padding-top: 1.15rem;
-  }
-
-  .basta-home-page-jump > label {
-    color: var(--secondary-text);
-    font-size: 0.78rem;
-    font-weight: 700;
-  }
-
-  .basta-home-page-jump-controls {
-    display: flex;
-    gap: 0.55rem;
-    max-width: 24rem;
-  }
-
-  .basta-home-page-jump input {
-    min-width: 0;
-    flex: 1;
-    min-height: 2.75rem;
-    border: 1px solid var(--border-colour);
-    border-radius: 0.55rem;
-    padding: 0.55rem 0.7rem;
-    background: var(--site-background);
-    color: var(--primary-text);
-    font: inherit;
-    font-variant-numeric: tabular-nums;
-  }
-
-  .basta-home-page-hint {
-    margin: 0;
-    color: var(--secondary-text);
-    font-size: 0.76rem;
-  }
-
-  .basta-home-download {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1.25rem;
-    margin-top: 2.5rem;
-    border-top: 1px solid var(--border-colour);
-    padding-top: 1.5rem;
-  }
-
-  @media (max-width: 560px) {
-    .basta-page-reader-actions,
-    .basta-home-page-jump-controls,
-    .basta-home-download {
-      align-items: stretch;
-      flex-direction: column;
-    }
-
-    .basta-home-primary-button,
-    .basta-home-secondary-button,
-    .basta-home-page-jump button {
-      width: 100%;
-    }
-
-    .basta-home-page-jump-controls {
-      max-width: none;
-    }
-
-    .basta-home-download {
-      gap: 1rem;
-    }
-  }
-</style>
