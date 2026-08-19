@@ -121,4 +121,4 @@ To report a correction, suggest a lyric, or ask a question, contact the site own
 
 ---
 
-Preserving Urdu devotional literature in searchable digital form.
+Preserving Urdu literature in searchable digital form.
