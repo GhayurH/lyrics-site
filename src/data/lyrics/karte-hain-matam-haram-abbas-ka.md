@@ -4,8 +4,8 @@ alternateTitle: "Karte Hain Matam Haram Abbas Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Karte Hain Matam Haram Abbas Ka"
 cover: "/images/lyrics/karte-hain-matam-haram-abbas-ka.png"

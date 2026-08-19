@@ -4,8 +4,8 @@ alternateTitle: "meri basti ke musalman bare bhole hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "meri basti ke musalman bare bhole hain"
 cover: "/images/lyrics/meri-basti-ke-musalman-bare-bhole-hain.png"

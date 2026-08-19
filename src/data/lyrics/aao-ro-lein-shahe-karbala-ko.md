@@ -4,8 +4,8 @@ alternateTitle: "aao ro lein shahe karbala ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "aao ro lein shahe karbala ko"
 cover: "/images/lyrics/aao-ro-lein-shahe-karbala-ko.png"

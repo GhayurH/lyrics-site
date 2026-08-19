@@ -4,8 +4,8 @@ alternateTitle: "Wo khoon ro ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Wo khoon ro ke"
 cover: "/images/lyrics/wo-khoon-ro-ke.png"

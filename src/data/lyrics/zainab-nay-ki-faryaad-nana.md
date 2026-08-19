@@ -4,8 +4,8 @@ alternateTitle: "Zainab Nay Ki Faryaad Nana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Zainab Nay Ki Faryaad Nana"
 cover: "/images/lyrics/zainab-nay-ki-faryaad-nana.png"

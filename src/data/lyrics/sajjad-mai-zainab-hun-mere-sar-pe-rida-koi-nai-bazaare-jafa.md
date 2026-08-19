@@ -4,8 +4,8 @@ alternateTitle: "Sajjad Mai Zainab Hun Mere Sar Pe Rida Koi Nai Bazaare Jafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Sajjad Mai Zainab Hun Mere Sar Pe Rida Koi Nai Bazaare Jafa"
 cover: "/images/lyrics/sajjad-mai-zainab-hun-mere-sar-pe-rida-koi-nai-bazaare-jafa.png"

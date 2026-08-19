@@ -4,8 +4,8 @@ alternateTitle: "Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
 cover: "/images/lyrics/karbala-muntazir-e-ma-ast-biya-ta-be-raweem.png"

@@ -4,8 +4,8 @@ alternateTitle: "Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Mein"
 cover: "/images/lyrics/bazaar-ke-manzar-ko-aur-apne-khule-sar-ko-bhuli-nahi-mein.png"

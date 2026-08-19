@@ -4,8 +4,8 @@ alternateTitle: "Akeli Hai Zehra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Kahan Jaaye Aakhir Bayaban Har Soo"
 cover: "/images/lyrics/akeli-hai-zehra.png"

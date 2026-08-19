@@ -4,8 +4,8 @@ alternateTitle: "Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki"
 cover: "/images/lyrics/shaam-aa-rahi-hai-dil-paar-hazaro-sadme-uthaye-beti-ali-ki.png"

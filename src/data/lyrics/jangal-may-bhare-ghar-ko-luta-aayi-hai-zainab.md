@@ -4,8 +4,8 @@ alternateTitle: "Jangal May Bhare Ghar Ko Luta Aayi Hai Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Jangal May Bhare Ghar Ko Luta Aayi Hai Zainab"
 cover: "/images/lyrics/jangal-may-bhare-ghar-ko-luta-aayi-hai-zainab.png"

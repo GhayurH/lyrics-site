@@ -4,8 +4,8 @@ alternateTitle: "Paya Ghazi Hussain ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Paya Ghazi Hussain ne"
 cover: "/images/lyrics/paya-ghazi-hussain-ne.png"

@@ -4,8 +4,8 @@ alternateTitle: "Islam Ko Hayaat Mili Zahra Ke Dar Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Islam Ko Hayaat Mili Zahra Ke Dar Se Aye Kalmago Suno"
 cover: "/images/lyrics/islam-ko-hayaat-mili-zahra-ke-dar-se.png"

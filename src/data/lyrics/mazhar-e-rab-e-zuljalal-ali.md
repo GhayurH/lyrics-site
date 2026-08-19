@@ -4,8 +4,8 @@ alternateTitle: "Mazhar e Rab e Zuljalal Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Mazhar e Rab e Zuljalal Ali"
 cover: "/images/lyrics/mazhar-e-rab-e-zuljalal-ali.png"

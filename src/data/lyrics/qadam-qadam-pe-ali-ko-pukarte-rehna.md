@@ -4,8 +4,8 @@ alternateTitle: "Qadam Qadam pe Ali ko pukarte rehna"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Qadam Qadam pe Ali ko pukarte rehna"
 cover: "/images/lyrics/qadam-qadam-pe-ali-ko-pukarte-rehna.png"

@@ -4,8 +4,8 @@ alternateTitle: "Ye khat mein Shah ne likha, Habib aajaao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Ye khat mein Shah ne likha, Habib aajaao"
 cover: "/images/lyrics/ye-khat-mein-shah-ne-likha-habib-aajaao.png"

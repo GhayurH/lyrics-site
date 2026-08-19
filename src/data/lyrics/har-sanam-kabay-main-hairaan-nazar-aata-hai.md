@@ -4,8 +4,8 @@ alternateTitle: "Har sanam kabay main hairaan nazar aata hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Har sanam kabay main hairaan nazar aata hai"
 cover: "/images/lyrics/har-sanam-kabay-main-hairaan-nazar-aata-hai.png"

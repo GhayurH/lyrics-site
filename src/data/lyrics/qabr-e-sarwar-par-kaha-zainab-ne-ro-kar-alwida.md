@@ -4,8 +4,8 @@ alternateTitle: "Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 cover: "/images/lyrics/qabr-e-sarwar-par-kaha-zainab-ne-ro-kar-alwida.png"

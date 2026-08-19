@@ -4,8 +4,8 @@ alternateTitle: "kiun na marjaye pidar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "kiun na marjaye pidar"
 cover: "/images/lyrics/kiun-na-marjaye-pidar.png"

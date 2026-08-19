@@ -4,8 +4,8 @@ alternateTitle: "abbas tera haq hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "abbas tera haq hai"
 cover: "/images/lyrics/abbas-tera-haq-hai.png"

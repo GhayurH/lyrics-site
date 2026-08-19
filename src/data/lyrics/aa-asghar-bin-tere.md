@@ -4,8 +4,8 @@ alternateTitle: "Aa Asghar bin tere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Aa Asghar bin tere"
 cover: "/images/lyrics/aa-asghar-bin-tere.png"

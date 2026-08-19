@@ -4,8 +4,8 @@ alternateTitle: "Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
 cover: "/images/lyrics/shaam-se-jab-ahl-e-bait-ghamzada-giryaan-chalay.png"

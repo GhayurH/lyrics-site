@@ -4,8 +4,8 @@ alternateTitle: "Khaime Mein Aake Shah Ne Jab Alwida Kaha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "Khaime Mein Aake Shah Ne Jab Alwida Kaha"
   - "Kohraam Mach Gaya"

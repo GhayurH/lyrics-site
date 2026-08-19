@@ -31,12 +31,8 @@ const lyrics = defineCollection({
     romanHaal: z.string().optional(),
 
     // The single browse classification shown to visitors: Noha, Salam,
-    // Manqabat, etc. Existing files can still fall back to matching tags.
-    kalamType: z.string().optional(),
-
-    // Legacy compatibility only. Earlier upgrade drops used `category` for
-    // the same role. Keep accepting it until the corpus is migrated.
-    category: z.string().optional(),
+    // Manqabat, etc. Every lyric must declare this explicitly.
+    kalamType: z.string().min(1),
 
     tags: z.array(z.string()).default([]),
     aliases: z.array(z.string()).default([]),

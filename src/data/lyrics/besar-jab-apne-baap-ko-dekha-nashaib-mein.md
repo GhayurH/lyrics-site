@@ -4,8 +4,8 @@ alternateTitle: "besar jab apne baap ko dekha nashaib mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "besar jab apne baap ko dekha nashaib mein"
 cover: "/images/lyrics/besar-jab-apne-baap-ko-dekha-nashaib-mein.png"

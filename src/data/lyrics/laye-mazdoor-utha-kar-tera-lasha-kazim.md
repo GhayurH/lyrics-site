@@ -4,8 +4,8 @@ alternateTitle: "Laye mazdoor utha kar tera lasha kazim"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Laye mazdoor utha kar tera lasha kazim"
 cover: "/images/lyrics/laye-mazdoor-utha-kar-tera-lasha-kazim.png"

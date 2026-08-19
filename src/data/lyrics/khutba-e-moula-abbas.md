@@ -4,8 +4,8 @@ alternateTitle: "Khutba e Moula Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Khutba e Moula Abbas"
 cover: "/images/lyrics/khutba-e-moula-abbas.png"

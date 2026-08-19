@@ -4,8 +4,8 @@ alternateTitle: "Nahin hoti gunahgaron pe rehmat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Nahin hoti gunahgaron pe rehmat"
 cover: "/images/lyrics/nahin-hoti-gunahgaron-pe-rehmat.png"

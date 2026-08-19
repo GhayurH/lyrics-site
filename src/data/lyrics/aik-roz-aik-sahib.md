@@ -4,8 +4,8 @@ alternateTitle: "aik roz aik sahib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "aik roz aik sahib"
 cover: "/images/lyrics/aik-roz-aik-sahib.png"

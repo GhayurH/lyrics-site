@@ -4,8 +4,8 @@ alternateTitle: "Alwida Alwida Alwida Ay Hussain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Alwida Alwida Alwida Ay Hussain"
 cover: "/images/lyrics/alwida-alwida-alwida-ay-hussain.png"

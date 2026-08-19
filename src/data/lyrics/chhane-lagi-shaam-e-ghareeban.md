@@ -4,8 +4,8 @@ alternateTitle: "Chhane lagi shaam e ghareeban"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "Chhane lagi shaam e ghareeban"
 cover: "/images/lyrics/chhane-lagi-shaam-e-ghareeban.png"

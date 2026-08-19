@@ -4,8 +4,8 @@ alternateTitle: "lazim thi mujh pe rad e bala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "lazim thi mujh pe rad e bala"
 cover: "/images/lyrics/lazim-thi-mujh-pe-rad-e-bala.png"

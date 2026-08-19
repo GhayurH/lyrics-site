@@ -4,8 +4,8 @@ alternateTitle: "Shama se shama jale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Shama se shama jale"
 cover: "/images/lyrics/shama-se-shama-jale.png"

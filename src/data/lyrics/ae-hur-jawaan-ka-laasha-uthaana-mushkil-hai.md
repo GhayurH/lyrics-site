@@ -4,8 +4,8 @@ alternateTitle: "Ae Hur jawaan ka laasha uthaana mushkil hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Ae Hur jawaan ka laasha uthaana mushkil hai"
 cover: "/images/lyrics/ae-hur-jawaan-ka-laasha-uthaana-mushkil-hai.png"

@@ -4,8 +4,8 @@ alternateTitle: "Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
 cover: "/images/lyrics/jab-mujhe-aap-ke-qatil-ne-hai-mara-baba.png"

@@ -4,8 +4,8 @@ alternateTitle: "Bekhata Mara Gaya Sibt-e-Rasool-e-Dosara, Wa Hasan-e-Sabz Qaba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Bay Khata Mara Gaya Sibt-e-Rasool-e-Dosara, Wa Hasan-e-Sabz Qaba"
 cover: "/images/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.png"

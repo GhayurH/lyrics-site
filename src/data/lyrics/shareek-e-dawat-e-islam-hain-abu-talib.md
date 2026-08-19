@@ -4,8 +4,8 @@ alternateTitle: "Shareek-e-dawat-e-Islam hain Abu Talib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "Shareek-e-dawat-e-Islam hain Abu Talib"
 cover: "/images/lyrics/shareek-e-dawat-e-islam-hain-abu-talib.png"

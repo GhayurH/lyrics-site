@@ -4,8 +4,8 @@ alternateTitle: "Veerna main teri qabar banawan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Veerna main teri qabar banawan"
 cover: "/images/lyrics/veerna-main-teri-qabar-banawan.png"

@@ -4,8 +4,8 @@ alternateTitle: "Agar Na Hotin Janabe Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Agar Na Hotin Janabe Zainab"
 cover: "/images/lyrics/agar-na-hotin-janabe-zainab.png"

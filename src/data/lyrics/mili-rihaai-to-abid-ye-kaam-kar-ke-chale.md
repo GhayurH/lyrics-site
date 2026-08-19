@@ -4,8 +4,8 @@ alternateTitle: "Mili Rihaai To Abid Ye Kaam Kar Ke Chale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "Mili Rihaai To Abid Ye Kaam Kar Ke Chale"
 cover: "/images/lyrics/mili-rihaai-to-abid-ye-kaam-kar-ke-chale.png"

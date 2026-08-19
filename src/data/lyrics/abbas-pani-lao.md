@@ -4,8 +4,8 @@ alternateTitle: "Abbas pani lao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Abbas pani lao"
 cover: "/images/lyrics/abbas-pani-lao.png"

@@ -4,8 +4,8 @@ alternateTitle: "Jab ghir gae kufe mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Jab ghir gae kufe mein"
 cover: "/images/lyrics/jab-ghir-gae-kufe-mein.png"

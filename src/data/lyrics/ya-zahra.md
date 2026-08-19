@@ -4,8 +4,8 @@ alternateTitle: "Ya Zahra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Ya Zahra"
 cover: "/images/lyrics/ya-zahra.png"

@@ -4,8 +4,8 @@ alternateTitle: "Hussain kiya hai namaz kiya hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Hussain kiya hai namaz kiya hai"
 cover: "/images/lyrics/hussain-kiya-hai-namaz-kiya-hai.png"

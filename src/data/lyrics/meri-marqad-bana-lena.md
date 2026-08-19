@@ -4,8 +4,8 @@ alternateTitle: "meri marqad bana lena"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "meri marqad bana lena"
 cover: "/images/lyrics/meri-marqad-bana-lena.png"

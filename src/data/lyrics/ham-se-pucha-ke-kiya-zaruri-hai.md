@@ -4,8 +4,8 @@ alternateTitle: "ham se pucha ke kiya zaruri hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "ham se pucha ke kiya zaruri hai"
 cover: "/images/lyrics/ham-se-pucha-ke-kiya-zaruri-hai.png"

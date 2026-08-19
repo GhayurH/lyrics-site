@@ -4,8 +4,8 @@ alternateTitle: "Chut Kar Pidar Se Be-Kas-o-Tanha The Askari"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Marsiya"
+kalamType: "Marsiya"
+tags: []
 aliases:
   - "Chut Kar Pidar Se Be-Kas-o-Tanha The Askari"
 cover: "/images/lyrics/chut-kar-pidar-se-be-kas-o-tanha-the-askari.png"

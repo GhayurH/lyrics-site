@@ -1,24 +1,5 @@
 ---
-import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import {
-  compareLyrics,
-  getLyricKalamType,
-} from "../lib/lyrics";
-
-const lyrics = (
-  await getCollection("lyrics", ({ data }) => data.published)
-).sort(compareLyrics);
-
-const catalog = lyrics.map((lyric) => ({
-  id: lyric.id,
-  title: lyric.data.title,
-  alternateTitle: lyric.data.alternateTitle ?? "",
-  kalamType: getLyricKalamType(lyric.data),
-  lang: lyric.data.lang,
-  direction: lyric.data.direction,
-  href: `/lyrics/${lyric.id}/`,
-}));
 ---
 
 <BaseLayout
@@ -28,7 +9,6 @@ const catalog = lyrics.map((lyric) => ({
   <section
     id="saved-library"
     class="saved-page"
-    data-catalog={JSON.stringify(catalog)}
     data-pagefind-ignore="all"
   >
     <header class="page-header-simple">
@@ -39,6 +19,10 @@ const catalog = lyrics.map((lyric) => ({
         account or server-side tracking is required.
       </p>
     </header>
+
+    <p id="saved-load-error" class="saved-empty" hidden>
+      The lyric catalog could not be loaded. Reload this page and try again.
+    </p>
 
     <section class="saved-section" aria-labelledby="favorites-heading">
       <div class="section-heading saved-section-heading">
@@ -72,26 +56,37 @@ const catalog = lyrics.map((lyric) => ({
   </section>
 
   <script>
+    type CatalogEntry = {
+      id: string;
+      title: string;
+      alternateTitle: string;
+      kalamType: string;
+      lang: string;
+      direction: "rtl" | "ltr";
+      href: string;
+    };
+
     const root = document.querySelector<HTMLElement>("#saved-library");
 
-    if (root) {
+    async function initSavedLibrary() {
+      if (!root) return;
+
       const FAVORITES_KEY = "kalam:favorites";
       const RECENT_KEY = "kalam:recent";
 
-      type CatalogEntry = {
-        id: string;
-        title: string;
-        alternateTitle: string;
-        kalamType: string;
-        lang: string;
-        direction: "rtl" | "ltr";
-        href: string;
-      };
-
       let catalog: CatalogEntry[] = [];
       try {
-        catalog = JSON.parse(root.dataset.catalog ?? "[]");
-      } catch {}
+        const response = await fetch("/data/saved-catalog.json");
+        if (!response.ok) throw new Error(`Catalog request failed: ${response.status}`);
+        const parsed: unknown = await response.json();
+        if (!Array.isArray(parsed)) throw new Error("Catalog response is not an array");
+        catalog = parsed as CatalogEntry[];
+      } catch (error) {
+        console.error(error);
+        const loadError = document.querySelector<HTMLElement>("#saved-load-error");
+        if (loadError) loadError.hidden = false;
+        return;
+      }
 
       const byId = new Map(catalog.map((entry) => [entry.id, entry]));
       const favoritesList = document.querySelector<HTMLUListElement>("#favorites-list");
@@ -236,5 +231,7 @@ const catalog = lyrics.map((lyric) => ({
 
       render();
     }
+
+    void initSavedLibrary();
   </script>
 </BaseLayout>

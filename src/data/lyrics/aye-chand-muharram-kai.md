@@ -4,8 +4,8 @@ alternateTitle: "Aye chand muharram kai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Aye chand muharram kai"
 cover: "/images/lyrics/aye-chand-muharram-kai.png"
