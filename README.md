@@ -27,13 +27,7 @@ The repository also contains a digital edition of **_Basta_ by Professor Syed Si
 
 The aim is preservation rather than modernization: source wording, stanza structure, punctuation, page numbering, and other meaningful features are retained as far as practical.
 
-For content conventions, correction rules, and the workflow for adding or updating material, see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## اس ذخیرے کے بارے میں
-
-یہ ویب سائٹ اردو نوحوں، سلاموں، منقبتوں اور متعلقہ کلام کا ایک قابلِ تلاش ذخیرہ ہے۔ اس کا مقصد اس کلام کو ایک سادہ، منظم اور آسانی سے قابلِ رسائی صورت میں محفوظ کرنا ہے۔
-
-جہاں ممکن ہو وہاں اردو متن کے ساتھ رومن اردو، اصل صفحات یا تصاویر، اور قابلِ تلاش متن بھی فراہم کیا جاتا ہے۔
+For content conventions, correction rules, and the workflow for adding or updating material, see [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
 ## Technology
 
@@ -74,7 +68,7 @@ https://kalamarchive.com/images/...
 https://kalamarchive.com/files/...
 ```
 
-Cloudflare Cloud Connector routes those paths to R2. For the local asset layout, upload commands, overwrite behavior, and publishing workflow, see [Asset storage and publishing](CONTRIBUTING.md#asset-storage-and-publishing).
+Cloudflare Cloud Connector routes those paths to R2. For the local asset layout, upload commands, overwrite behavior, and publishing workflow, see [Asset storage and publishing](docs/CONTRIBUTING.md#asset-storage-and-publishing).
 
 ## Repository structure
 
@@ -103,7 +97,7 @@ For implementation boundaries and performance architecture, see [docs/ARCHITECTU
 
 `src/content.config.ts` is the source of truth for content metadata. Lyrics use the explicit required `kalamType` field for broad classification instead of inferring type from legacy categories or tags.
 
-Detailed content and transliteration conventions are documented in [Content contribution rules](CONTRIBUTING.md#content-contribution-rules).
+Detailed content and transliteration conventions are documented in [Content contribution rules](docs/CONTRIBUTING.md#content-contribution-rules).
 
 ## Search and local user state
 
@@ -147,13 +141,13 @@ npm run preview
 
 Astro's development server normally runs at `http://localhost:4321/`.
 
-Because large assets are not stored in Git, local development needs access to the external asset directory if images/PDFs are to be served locally. See [Local development with R2 assets](CONTRIBUTING.md#local-development-with-r2-assets).
+Because large assets are not stored in Git, local development needs access to the external asset directory if images/PDFs are to be served locally. See [Local development with R2 assets](docs/CONTRIBUTING.md#local-development-with-r2-assets).
 
 ## Corrections and additions
 
 Corrections are welcome, especially for transcription errors, missing text, incorrect transliteration, metadata/classification mistakes, Basta index issues, and layout/rendering issues.
 
-Before editing content, see [CONTRIBUTING.md](CONTRIBUTING.md) for the archive's preservation and transliteration conventions.
+Before editing content, see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for the archive's preservation and transliteration conventions.
 
 To report a correction, suggest a lyric, or ask a question, contact the site owner:
 
