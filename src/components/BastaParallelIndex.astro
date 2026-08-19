@@ -1,0 +1,105 @@
+---
+import BastaIndexTable from "./BastaIndexTable.astro";
+
+interface BastaIndexEntry {
+  section?: string;
+  sectionRoman?: string;
+  number?: number;
+  name: string;
+  haal?: string;
+  page: number;
+  romanName?: string;
+  romanHaal?: string;
+}
+
+interface Props {
+  entries: BastaIndexEntry[];
+  linkMode?: "page" | "continuous";
+  heading?: boolean;
+}
+
+const {
+  entries,
+  linkMode = "page",
+  heading = true,
+} = Astro.props as Props;
+
+// Group once by the Urdu/source section. Each group is then rendered as one
+// shared grid row containing both Urdu and Roman. Because the next group
+// cannot start until the taller side of the current group finishes, both
+// editions remain anchored section-by-section.
+const groups = new Map<string, BastaIndexEntry[]>();
+
+for (const entry of entries) {
+  const key = entry.section?.trim() ?? "";
+  const group = groups.get(key) ?? [];
+  group.push(entry);
+  groups.set(key, group);
+}
+
+const sections = [...groups.entries()].map(([urduSection, sectionEntries]) => ({
+  urduSection,
+  romanSection:
+    sectionEntries[0]?.sectionRoman?.trim() ||
+    sectionEntries[0]?.section?.trim() ||
+    "",
+  entries: sectionEntries,
+}));
+---
+
+<section class="basta-parallel-index">
+  {
+    heading && (
+      <div class="basta-parallel-index-overall-headings">
+        <h2 class="basta-parallel-index-roman">Roman Urdu Index</h2>
+        <h2
+          class="basta-parallel-index-urdu"
+          lang="ur"
+          dir="rtl"
+        >
+          اشاریہ
+        </h2>
+      </div>
+    )
+  }
+
+  <div class="basta-parallel-index-sections">
+    {
+      sections.map((section) => (
+        <section class="basta-parallel-index-section">
+          <h3 class="basta-parallel-index-section-heading basta-parallel-index-roman">
+            {section.romanSection}
+          </h3>
+
+          <div class="basta-parallel-index-table basta-parallel-index-roman">
+            <BastaIndexTable
+              entries={section.entries}
+              edition="roman"
+              heading={false}
+              showSectionHeadings={false}
+              linkMode={linkMode}
+            />
+          </div>
+
+          <h3
+            class="basta-parallel-index-section-heading basta-parallel-index-urdu"
+            lang="ur"
+            dir="rtl"
+          >
+            {section.urduSection}
+          </h3>
+
+          <div class="basta-parallel-index-table basta-parallel-index-urdu">
+            <BastaIndexTable
+              entries={section.entries}
+              edition="urdu"
+              heading={false}
+              showSectionHeadings={false}
+              linkMode={linkMode}
+            />
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</section>

@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaContinuousPage from "../../components/BastaContinuousPage.astro";
-import BastaIndexTable from "../../components/BastaIndexTable.astro";
+import BastaParallelIndex from "../../components/BastaParallelIndex.astro";
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
 import "../../styles/basta-reader.css";
@@ -34,8 +34,7 @@ const romanByPage = new Map(
   romanPages.map((entry) => [entry.data.page, entry]),
 );
 
-// The physical index scans are replaced by the linked index, just as in the
-// existing continuous Urdu edition.
+// The physical index scans are replaced by the linked index.
 const beforeIndex = bookPages.filter(
   (entry) => entry.data.page < indexStartPage,
 );
@@ -133,23 +132,10 @@ const afterIndex = bookPages.filter(
       }
 
       <section class="basta-reader-index" id="index">
-        <div class="basta-reader-index-grid">
-          <div class="basta-reader-index-panel basta-reader-index-roman">
-            <BastaIndexTable
-              entries={entries}
-              edition="roman"
-              linkMode="continuous"
-            />
-          </div>
-
-          <div class="basta-reader-index-panel basta-reader-index-urdu">
-            <BastaIndexTable
-              entries={entries}
-              edition="urdu"
-              linkMode="continuous"
-            />
-          </div>
-        </div>
+        <BastaParallelIndex
+          entries={entries}
+          linkMode="continuous"
+        />
         <hr class="basta-reader-page-break" aria-hidden="true" />
       </section>
 

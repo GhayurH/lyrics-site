@@ -1,17 +1,18 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
-import BastaIndexTable from "../../../components/BastaIndexTable.astro";
+import BastaParallelIndex from "../../../components/BastaParallelIndex.astro";
 import BastaPager from "../../../components/BastaPager.astro";
 import indexEntries from "../../../data/basta/index.json";
 import settings from "../../../data/basta/settings.json";
+import "../../../styles/basta-reader.css";
 
 interface BastaIndexEntry {
   section?: string;
   sectionRoman?: string;
   number?: number;
   name: string;
-  haal: string;
+  haal?: string;
   page: number;
   romanName?: string;
   romanHaal?: string;
@@ -41,16 +42,14 @@ const nextPage = pages.find(
 
 <BaseLayout
   title="Basta Index | Kalam Archive"
-  description="Complete linked index of Basta."
+  description="Complete linked Urdu and Roman Urdu index of Basta."
 >
-  <article class="basta-index-page">
+  <article class="basta-index-page basta-index-page-modes">
     <header class="basta-index-header">
       <div class="basta-subnav" data-pagefind-ignore>
         <a href="/basta/">Basta</a>
         <span aria-hidden="true">·</span>
-        <a href="/basta/urdu/#index">Urdu text edition</a>
-        <span aria-hidden="true">·</span>
-        <a href="/basta/roman/#index">Roman edition</a>
+        <a href="/basta/read/#index">Continuous reader</a>
       </div>
       <h1>Basta Index</h1>
     </header>
@@ -63,7 +62,67 @@ const nextPage = pages.find(
       indexEndPage={indexEndPage}
     />
 
-    <BastaIndexTable entries={entries} edition="urdu" />
+    <div
+      class="reading-controls basta-reading-controls basta-index-reading-controls"
+      data-pagefind-ignore
+      aria-label="Index reading controls"
+    >
+      <div class="reading-control-group reading-view-control">
+        <span class="reading-control-label">View</span>
+        <div class="segmented-control" role="group" aria-label="Index view">
+          <button
+            type="button"
+            data-basta-index-mode="parallel"
+            aria-pressed="true"
+          >
+            Parallel
+          </button>
+          <button
+            type="button"
+            data-basta-index-mode="urdu"
+            aria-pressed="false"
+          >
+            Urdu
+          </button>
+          <button
+            type="button"
+            data-basta-index-mode="roman"
+            aria-pressed="false"
+          >
+            Roman
+          </button>
+        </div>
+      </div>
+
+      <label class="reading-control-group">
+        <span class="reading-control-label">Text size</span>
+        <select id="basta-index-font-size">
+          <option value="small">Small</option>
+          <option value="default" selected>Default</option>
+          <option value="large">Large</option>
+          <option value="xlarge">Extra large</option>
+        </select>
+      </label>
+
+      <label class="reading-control-group">
+        <span class="reading-control-label">Line spacing</span>
+        <select id="basta-index-line-spacing">
+          <option value="compact">Compact</option>
+          <option value="default" selected>Default</option>
+          <option value="relaxed">Relaxed</option>
+        </select>
+      </label>
+    </div>
+
+    <div
+      class="basta-index-mode-shell"
+      data-basta-index-shell
+      data-reading-mode="parallel"
+      data-font-size="default"
+      data-line-spacing="default"
+    >
+      <BastaParallelIndex entries={entries} linkMode="page" />
+    </div>
 
     <BastaPager
       previousHref={previousPage ? `/basta/${previousPage}/` : undefined}
@@ -73,4 +132,94 @@ const nextPage = pages.find(
       indexEndPage={indexEndPage}
     />
   </article>
+
+  <script>
+    const PREFS_KEY = "kalam:reading-prefs";
+
+    const shell =
+      document.querySelector<HTMLElement>("[data-basta-index-shell]");
+    const fontSelect =
+      document.querySelector<HTMLSelectElement>("#basta-index-font-size");
+    const spacingSelect =
+      document.querySelector<HTMLSelectElement>("#basta-index-line-spacing");
+    const modeButtons =
+      document.querySelectorAll<HTMLButtonElement>("[data-basta-index-mode]");
+
+    const validModes = new Set(["parallel", "urdu", "roman"]);
+    const validFontSizes = new Set(["small", "default", "large", "xlarge"]);
+    const validSpacings = new Set(["compact", "default", "relaxed"]);
+
+    let savedPrefs: Record<string, unknown> = {};
+    try {
+      const parsed = JSON.parse(localStorage.getItem(PREFS_KEY) ?? "{}");
+      if (parsed && typeof parsed === "object") {
+        savedPrefs = parsed as Record<string, unknown>;
+      }
+    } catch {}
+
+    const prefs = {
+      mode:
+        typeof savedPrefs.mode === "string" && validModes.has(savedPrefs.mode)
+          ? savedPrefs.mode
+          : "parallel",
+      fontSize:
+        typeof savedPrefs.fontSize === "string" &&
+        validFontSizes.has(savedPrefs.fontSize)
+          ? savedPrefs.fontSize
+          : "default",
+      spacing:
+        typeof savedPrefs.spacing === "string" &&
+        validSpacings.has(savedPrefs.spacing)
+          ? savedPrefs.spacing
+          : "default",
+    };
+
+    function storePrefs() {
+      try {
+        localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+      } catch {}
+    }
+
+    function applyPrefs() {
+      if (!shell) return;
+
+      shell.dataset.readingMode = prefs.mode;
+      shell.dataset.fontSize = prefs.fontSize;
+      shell.dataset.lineSpacing = prefs.spacing;
+
+      if (fontSelect) fontSelect.value = prefs.fontSize;
+      if (spacingSelect) spacingSelect.value = prefs.spacing;
+
+      modeButtons.forEach((button) => {
+        const active = button.dataset.bastaIndexMode === prefs.mode;
+        button.setAttribute("aria-pressed", String(active));
+      });
+    }
+
+    modeButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const mode = button.dataset.bastaIndexMode;
+        if (!mode || !validModes.has(mode)) return;
+        prefs.mode = mode;
+        storePrefs();
+        applyPrefs();
+      });
+    });
+
+    fontSelect?.addEventListener("change", () => {
+      if (!validFontSizes.has(fontSelect.value)) return;
+      prefs.fontSize = fontSelect.value;
+      storePrefs();
+      applyPrefs();
+    });
+
+    spacingSelect?.addEventListener("change", () => {
+      if (!validSpacings.has(spacingSelect.value)) return;
+      prefs.spacing = spacingSelect.value;
+      storePrefs();
+      applyPrefs();
+    });
+
+    applyPrefs();
+  </script>
 </BaseLayout>
