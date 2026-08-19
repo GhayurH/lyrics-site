@@ -4,8 +4,8 @@ alternateTitle: "Sajjad ko bemaut ye gham maar gaya hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Sajjad ko bemaut ye gham maar gaya hai"
 cover: "/images/lyrics/sajjad-ko-bemaut-ye-gham-maar-gaya-hai.png"

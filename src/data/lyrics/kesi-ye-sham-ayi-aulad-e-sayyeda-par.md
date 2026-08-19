@@ -4,8 +4,8 @@ alternateTitle: "Kesi ye sham ayi aulad e Sayyeda par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Kesi ye sham ayi aulad e Sayyeda par"
 cover: "/images/lyrics/kesi-ye-sham-ayi-aulad-e-sayyeda-par.png"

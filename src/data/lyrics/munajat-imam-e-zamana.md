@@ -4,8 +4,8 @@ alternateTitle: "Chale aao aye ibn e mushkil kusha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "munajat imam e zamana"
 cover: "/images/lyrics/munajat-imam-e-zamana.png"

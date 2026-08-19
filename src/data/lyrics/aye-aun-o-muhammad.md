@@ -4,8 +4,8 @@ alternateTitle: "aye aun o muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "aye aun o muhammad"
 cover: "/images/lyrics/aye-aun-o-muhammad.png"

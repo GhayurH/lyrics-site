@@ -4,8 +4,8 @@ alternateTitle: "Ya Rab Koyi Masooma Zindan Main Na Tanha Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Ya Rab Koyi Masooma Zindan Main Na Tanha Ho"
 cover: "/images/lyrics/ya-rab-koyi-masooma-zindan-main-na-tanha-ho.png"

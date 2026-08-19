@@ -4,8 +4,8 @@ alternateTitle: "Teri Ummat Ne Mere Dar Ko Jalaya Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Teri Ummat Ne Mere Dar Ko Jalaya Baba"
 cover: "/images/lyrics/teri-ummat-ne-mere-dar-ko-jalaya-baba.png"

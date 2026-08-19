@@ -4,8 +4,8 @@ alternateTitle: "Halchal hay fauj e shaam mein Abbas atay hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Halchal hay fauj e shaam mein Abbas atay hain"
 cover: "/images/lyrics/halchal-hay-fauj-e-shaam-mein-abbas-atay-hain.png"

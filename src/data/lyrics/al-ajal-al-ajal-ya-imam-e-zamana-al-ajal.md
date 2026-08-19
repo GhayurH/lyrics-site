@@ -4,8 +4,8 @@ alternateTitle: "Gar Ho Meri Hayaat Mere Ikhteyar Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Al-Ajal Al-Ajal Ya Imam-e-Zamana Al-Ajal"
 cover: "/images/lyrics/al-ajal-al-ajal-ya-imam-e-zamana-al-ajal.png"

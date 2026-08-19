@@ -4,8 +4,8 @@ alternateTitle: "asghar main teri maan hun"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "asghar main teri maan hun"
 cover: "/images/lyrics/asghar-main-teri-maan-hun.png"

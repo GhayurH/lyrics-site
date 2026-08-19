@@ -4,8 +4,8 @@ alternateTitle: "Maan na roegi tumhe Aun o Mohammad kyunkar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Maan na roegi tumhe Aun o Mohammad kyunkar"
 cover: "/images/lyrics/maan-na-roegi-tumhe-aun-o-mohammad-kyunkar.png"

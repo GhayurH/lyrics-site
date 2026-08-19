@@ -4,8 +4,8 @@ alternateTitle: "Ab Aey Hawaon Kuch Khak Urao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Ab Aey Hawaon Kuch Khak Urao"
 cover: "/images/lyrics/ab-aey-hawaon-kuch-khak-urao.png"

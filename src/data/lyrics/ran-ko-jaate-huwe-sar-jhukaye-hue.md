@@ -4,8 +4,8 @@ alternateTitle: "ran ko jaate huwe sar jhukaye hue"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "ran ko jaate huwe sar jhukaye hue"
 cover: "/images/lyrics/ran-ko-jaate-huwe-sar-jhukaye-hue.png"

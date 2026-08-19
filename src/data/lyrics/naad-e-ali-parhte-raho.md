@@ -4,8 +4,8 @@ alternateTitle: "Naad e Ali parhte raho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Naad e Ali parhte raho"
 cover: "/images/lyrics/naad-e-ali-parhte-raho.png"

@@ -4,8 +4,8 @@ alternateTitle: "Ibne Muljim Ne Hyder Ko Maara"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Ibne Muljim Ne Hyder Ko Maara"
 cover: "/images/lyrics/ibne-muljim-ne-hyder-ko-maara.png"

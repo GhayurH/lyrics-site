@@ -4,8 +4,8 @@ alternateTitle: "Rihayi qaid se Zainab ko jab mili ho gi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Rihayi qaid se Zainab ko jab mili ho gi"
 cover: "/images/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-ho-gi.png"

@@ -4,8 +4,8 @@ alternateTitle: "maula haq imam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "maula haq imam"
 cover: "/images/lyrics/maula-haq-imam.png"

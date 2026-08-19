@@ -4,8 +4,8 @@ alternateTitle: "Tukre nahin chadar mein, farwa tera beta hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Tukre nahin chadar mein, farwa tera beta hai"
 cover: "/images/lyrics/tukre-nahin-chadar-mein-farwa-tera-beta-hai.png"

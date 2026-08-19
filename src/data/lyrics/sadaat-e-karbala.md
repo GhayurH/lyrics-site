@@ -4,8 +4,8 @@ alternateTitle: "Sadaat-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Sadaat-e-Karbala"
 cover: "/images/lyrics/sadaat-e-karbala.png"

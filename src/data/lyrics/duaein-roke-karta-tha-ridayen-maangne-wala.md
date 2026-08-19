@@ -4,8 +4,8 @@ alternateTitle: "Duaein Roke Karta Tha Ridayen Maangne Wala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Duaein Roke Karta Tha Ridayen Maangne Wala"
 cover: "/images/lyrics/duaein-roke-karta-tha-ridayen-maangne-wala.png"

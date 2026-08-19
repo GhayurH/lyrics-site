@@ -4,8 +4,8 @@ alternateTitle: "Hussain aaj hai tanha, Habib aajao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Hussain aaj hai tanha, Habib aajao"
 cover: "/images/lyrics/hussain-aaj-hai-tanha-habib-aajao.png"

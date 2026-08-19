@@ -4,8 +4,8 @@ alternateTitle: "Pata Hai Kis Tarha Beta Jawaan Hota Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Pata Hai Kis Tarha Beta Jawaan Hota Hai"
 cover: "/images/lyrics/pata-hai-kis-tarha-beta-jawaan-hota-hai.png"

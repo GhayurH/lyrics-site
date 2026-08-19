@@ -5,6 +5,7 @@ dist/
 .wrangler/
 # scripts
 scripts/
+tools/
 trash/
 
 # dependencies

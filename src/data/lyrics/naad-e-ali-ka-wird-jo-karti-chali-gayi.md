@@ -4,8 +4,8 @@ alternateTitle: "Naad e Ali ka wird jo karti chali gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Naad e Ali ka wird jo karti chali gayi"
 cover: "/images/lyrics/naad-e-ali-ka-wird-jo-karti-chali-gayi.png"

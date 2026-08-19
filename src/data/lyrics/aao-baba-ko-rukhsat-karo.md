@@ -4,8 +4,8 @@ alternateTitle: "Aao Baba ko rukhsat karo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Aao Baba ko rukhsat karo"
 cover: "/images/lyrics/aao-baba-ko-rukhsat-karo.png"

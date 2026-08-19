@@ -4,8 +4,8 @@ alternateTitle: "haye haye ali akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "haye haye ali akbar"
 cover: "/images/lyrics/haye-haye-ali-akbar.png"

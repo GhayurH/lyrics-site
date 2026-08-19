@@ -4,8 +4,8 @@ alternateTitle: "tu na aaya ghazi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "tu na aaya ghazi"
 cover: "/images/lyrics/tu-na-aaya-ghazi.png"

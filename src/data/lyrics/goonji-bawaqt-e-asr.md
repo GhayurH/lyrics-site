@@ -4,8 +4,8 @@ alternateTitle: "Goonji bawaqt e asr sada, main Hussain hoon"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Goonji bawaqt e asr"
 cover: "/images/lyrics/goonji-bawaqt-e-asr.png"

@@ -4,8 +4,8 @@ alternateTitle: "Aa ke pursa lo apne Baba ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Aa ke pursa lo apne Baba ka"
 cover: "/images/lyrics/aa-ke-pursa-lo-apne-baba-ka.png"

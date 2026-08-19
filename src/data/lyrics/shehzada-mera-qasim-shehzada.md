@@ -4,8 +4,8 @@ alternateTitle: "shehzada mera qasim shehzada"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "shehzada mera qasim shehzada"
 cover: "/images/lyrics/shehzada-mera-qasim-shehzada.png"

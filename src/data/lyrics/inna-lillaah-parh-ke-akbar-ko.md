@@ -4,8 +4,8 @@ alternateTitle: "Inna lillaah parh ke akbar ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Inna lillaah parh ke akbar ko"
 cover: "/images/lyrics/inna-lillaah-parh-ke-akbar-ko.png"

@@ -4,8 +4,8 @@ alternateTitle: "Royi Jab Laadli Muhammad Ki Sara Darbar Muskuraya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Royi Jab Laadli Muhammad Ki Sara Darbar Muskuraya Hai"
 cover: "/images/lyrics/royi-jab-laadli-muhammad-ki-sara-darbar-muskuraya-hai.png"

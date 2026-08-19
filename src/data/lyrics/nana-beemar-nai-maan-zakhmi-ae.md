@@ -4,8 +4,8 @@ alternateTitle: "Nana Beemar Nai Maan Zakhmi Ae"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Nana Beemar Nai Maan Zakhmi Ae"
 cover: "/images/lyrics/nana-beemar-nai-maan-zakhmi-ae.png"

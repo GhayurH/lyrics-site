@@ -4,8 +4,8 @@ alternateTitle: "Husain Jaata Hai Marne Ko Ay Meri Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Husain Jaata Hai Marne Ko Ay Meri Zainab"
 cover: "/images/lyrics/husain-jaata-hai-marne-ko-ay-meri-zainab.png"

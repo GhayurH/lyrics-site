@@ -2,23 +2,6 @@ import type { CollectionEntry } from "astro:content";
 
 type LyricData = CollectionEntry<"lyrics">["data"];
 
-const KALAM_TYPE_ALIASES = new Map<string, string>([
-  ["noha", "Noha"],
-  ["nauha", "Noha"],
-  ["nauhay", "Noha"],
-  ["salam", "Salam"],
-  ["salaam", "Salam"],
-  ["manqabat", "Manqabat"],
-  ["marsiya", "Marsiya"],
-  ["marsia", "Marsiya"],
-  ["soz", "Soz"],
-  ["qasida", "Qasida"],
-  ["qaseeda", "Qasida"],
-  ["munajat", "Munajat"],
-  ["munajaat", "Munajat"],
-  ["dua", "Dua"],
-]);
-
 const KALAM_TYPE_ORDER = [
   "Noha",
   "Salam",
@@ -28,50 +11,11 @@ const KALAM_TYPE_ORDER = [
   "Qasida",
   "Munajat",
   "Dua",
-  "Uncategorized",
 ];
 
-function canonicalKalamType(value?: string) {
-  const trimmed = value?.trim();
-  if (!trimmed) return undefined;
-  return KALAM_TYPE_ALIASES.get(trimmed.toLocaleLowerCase("en")) ?? trimmed;
-}
-
-function inferredKalamTypeFromTags(data: LyricData) {
-  for (const tag of data.tags) {
-    const canonical = canonicalKalamType(tag);
-    if (canonical && KALAM_TYPE_ORDER.includes(canonical)) return canonical;
-  }
-
-  return undefined;
-}
-
-/**
- * The site exposes one classification axis: Kalam Type.
- *
- * `category` is accepted only as a legacy compatibility field from the earlier
- * UI upgrade. Existing content therefore keeps building without an immediate
- * migration, while new content should use `kalamType`.
- */
+/** Return the explicit browse classification stored in lyric frontmatter. */
 export function getLyricKalamType(data: LyricData) {
-  // Preserve established browse grouping if an older file already has category.
-  const legacyCategory = canonicalKalamType(data.category);
-  if (legacyCategory) return legacyCategory;
-
-  // Prefer a recognised broad kalam type when explicitly supplied.
-  const explicitType = canonicalKalamType(data.kalamType);
-  if (explicitType && KALAM_TYPE_ORDER.includes(explicitType)) {
-    return explicitType;
-  }
-
-  // Existing corpus commonly encodes Noha/Salam/etc. as tags.
-  const inferredType = inferredKalamTypeFromTags(data);
-  if (inferredType) return inferredType;
-
-  // Keep custom future types usable even before they are added to the order list.
-  if (explicitType) return explicitType;
-
-  return "Uncategorized";
+  return data.kalamType.trim();
 }
 
 export function slugifyKalamType(kalamType: string) {
@@ -97,11 +41,6 @@ export function compareKalamTypes(a: string, b: string) {
 
   return a.localeCompare(b);
 }
-
-// Compatibility aliases for code/content from the earlier category-based drop.
-export const getLyricCategory = getLyricKalamType;
-export const slugifyCategory = slugifyKalamType;
-export const compareCategories = compareKalamTypes;
 
 export function compareLyrics(
   a: CollectionEntry<"lyrics">,

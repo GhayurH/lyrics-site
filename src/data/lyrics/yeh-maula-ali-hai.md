@@ -4,8 +4,8 @@ alternateTitle: "Yeh maula Ali hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Yeh maula Ali hai"
 cover: "/images/lyrics/yeh-maula-ali-hai.png"

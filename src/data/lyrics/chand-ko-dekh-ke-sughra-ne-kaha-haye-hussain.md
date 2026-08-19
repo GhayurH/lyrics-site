@@ -4,8 +4,8 @@ alternateTitle: "Chand ko dekh ke Sughra ne kaha haye Hussain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Chand ko dekh ke Sughra ne kaha haye Hussain"
 cover: "/images/lyrics/chand-ko-dekh-ke-sughra-ne-kaha-haye-hussain.png"

@@ -4,8 +4,8 @@ alternateTitle: "Fatima Ke Chain Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "Fatima Ke Chain Ne"
 cover: "/images/lyrics/fatima-ke-chain-ne.png"

@@ -4,8 +4,8 @@ alternateTitle: "Midhat-e-Haider mere lab par zara aanay to do"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Midhat-e-Haider mere lab par zara aanay to do"
 cover: "/images/lyrics/midhat-e-haider-mere-lab-par-zara-aanay-to-do.png"

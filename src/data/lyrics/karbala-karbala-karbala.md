@@ -4,8 +4,8 @@ alternateTitle: "Karbala Karbala Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Karbala Karbala Karbala"
 cover: "/images/lyrics/karbala-karbala-karbala.png"

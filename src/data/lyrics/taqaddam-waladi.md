@@ -4,8 +4,8 @@ alternateTitle: "Karbala ho chuki tayyar, taqaddam waladi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "taqaddam waladi"
 cover: "/images/lyrics/taqaddam-waladi.png"

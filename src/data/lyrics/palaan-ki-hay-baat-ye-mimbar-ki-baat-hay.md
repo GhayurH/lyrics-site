@@ -4,8 +4,8 @@ alternateTitle: "Palaan ki hay baat ye mimbar ki baat hay"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Palaan ki hay baat ye mimbar ki baat hay"
 cover: "/images/lyrics/palaan-ki-hay-baat-ye-mimbar-ki-baat-hay.png"

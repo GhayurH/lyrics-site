@@ -4,8 +4,8 @@ alternateTitle: "Laa raha hun main lasha e Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Laa raha hun main lasha e Akbar"
 cover: "/images/lyrics/laa-raha-hun-main-lasha-e-akbar.png"

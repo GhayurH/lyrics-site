@@ -4,8 +4,8 @@ alternateTitle: "Musafir Karbala wala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Musafir Karbala wala"
 cover: "/images/lyrics/musafir-karbala-wala.png"

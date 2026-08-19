@@ -4,8 +4,8 @@ alternateTitle: "Na bhool kar bhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Na bhool kar bhi"
 cover: "/images/lyrics/na-bhool-kar-bhi.png"

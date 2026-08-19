@@ -4,8 +4,8 @@ alternateTitle: "Mursal ko rulata hai sadma Abu Talib ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Mursal ko rulata hai sadma Abu Talib ka"
 cover: "/images/lyrics/mursal-ko-rulata-hai-sadma-abu-talib-ka.png"

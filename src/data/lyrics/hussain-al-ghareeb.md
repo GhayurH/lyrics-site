@@ -4,8 +4,8 @@ alternateTitle: "hussain al ghareeb"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "hussain al ghareeb"
 cover: "/images/lyrics/hussain-al-ghareeb.png"

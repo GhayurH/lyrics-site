@@ -4,8 +4,8 @@ alternateTitle: "Bahar Aayi Bahar Aayi Zehra ke Ghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Bahar Aayi Bahar Aayi Zehra ke Ghar"
 cover: "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png"

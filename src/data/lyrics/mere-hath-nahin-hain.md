@@ -4,8 +4,8 @@ alternateTitle: "mere hath nahin hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "mere hath nahin hain"
 cover: "/images/lyrics/mere-hath-nahin-hain.png"

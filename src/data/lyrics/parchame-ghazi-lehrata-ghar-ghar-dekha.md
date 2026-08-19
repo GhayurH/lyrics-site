@@ -4,8 +4,8 @@ alternateTitle: "Parchame Ghazi Lehrata ghar ghar dekha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Parchame Ghazi Lehrata ghar ghar dekha"
 cover: "/images/lyrics/parchame-ghazi-lehrata-ghar-ghar-dekha.png"

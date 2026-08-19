@@ -4,8 +4,8 @@ alternateTitle: "Haaye Abbas haaye Abbas haaye Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Haaye Abbas haaye Abbas haaye Abbas"
 cover: "/images/lyrics/haaye-abbas-haaye-abbas-haaye-abbas.png"

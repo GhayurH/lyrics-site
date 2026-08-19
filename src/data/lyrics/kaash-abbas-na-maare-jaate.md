@@ -4,8 +4,8 @@ alternateTitle: "Kaash Abbas Na Maare Jaate"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Kaash Abbas Na Maare Jaate"
 cover: "/images/lyrics/kaash-abbas-na-maare-jaate.png"

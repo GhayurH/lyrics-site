@@ -4,8 +4,8 @@ alternateTitle: "mujrayi khalq mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Salam"
+kalamType: "Salam"
+tags: []
 aliases:
   - "mujrayi khalq mein"
 cover: "/images/lyrics/mujrayi-khalq-mein.png"

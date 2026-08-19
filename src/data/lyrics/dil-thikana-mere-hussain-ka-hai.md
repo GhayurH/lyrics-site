@@ -4,8 +4,8 @@ alternateTitle: "Dil Thikana mere Hussain ka hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Dil Thikana mere Hussain ka hai"
 cover: "/images/lyrics/dil-thikana-mere-hussain-ka-hai.png"

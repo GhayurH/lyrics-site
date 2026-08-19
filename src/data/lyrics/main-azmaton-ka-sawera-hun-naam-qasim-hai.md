@@ -4,8 +4,8 @@ alternateTitle: "main azmaton ka sawera hun, naam qasim hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "main azmaton ka sawera hun, naam qasim hai"
 cover: "/images/lyrics/main-azmaton-ka-sawera-hun-naam-qasim-hai.png"

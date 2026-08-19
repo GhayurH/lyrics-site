@@ -4,8 +4,8 @@ alternateTitle: "Yeh Raaz Kya Hai Duniya Ke Banane Wale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Yeh Raaz Kya Hai Duniya Ke Banane Wale"
 cover: "/images/lyrics/yeh-raaz-kya-hai-duniya-ke-banane-wale.png"

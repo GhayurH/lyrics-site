@@ -4,8 +4,8 @@ alternateTitle: "Jurrat ke qabile ka sardar ali mola"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Jurrat ke qabile ka sardar ali mola"
 cover: "/images/lyrics/jurrat-ke-qabile-ka-sardar-ali-mola.png"

@@ -4,8 +4,8 @@ alternateTitle: "Jab Teen Saal Tak Na Mili Bhai Ki Khabar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Marsiya"
+kalamType: "Marsiya"
+tags: []
 aliases:
   - "Jab Teen Saal Tak Na Mili Bhai Ki Khabar"
 cover: "/images/lyrics/jab-teen-saal-tak-na-mili-bhai-ki-khabar.png"

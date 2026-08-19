@@ -4,8 +4,8 @@ alternateTitle: "maan dekh rahi hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "maan dekh rahi hai"
 cover: "/images/lyrics/maan-dekh-rahi-hai.png"

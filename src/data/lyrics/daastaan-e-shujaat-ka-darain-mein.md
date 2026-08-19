@@ -4,8 +4,8 @@ alternateTitle: "Daastaan-e-Shujaat ka darain mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Daastaan-e-Shujaat ka darain mein"
 cover: "/images/lyrics/daastaan-e-shujaat-ka-darain-mein.png"

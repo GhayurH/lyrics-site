@@ -4,8 +4,8 @@ alternateTitle: "khabar la makan ke makan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "khabar la makan ke makan"
 cover: "/images/lyrics/khabar-la-makan-ke-makan.png"

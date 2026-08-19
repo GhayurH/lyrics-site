@@ -4,8 +4,8 @@ alternateTitle: "Rab de hawale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Rab de hawale"
 cover: "/images/lyrics/rab-de-hawale.png"

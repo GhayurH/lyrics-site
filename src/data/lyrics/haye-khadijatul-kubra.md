@@ -4,8 +4,8 @@ alternateTitle: "haye khadijatul kubra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "haye khadijatul kubra"
 cover: "/images/lyrics/haye-khadijatul-kubra.png"

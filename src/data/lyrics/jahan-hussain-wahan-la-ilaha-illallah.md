@@ -4,8 +4,8 @@ alternateTitle: "Jahan Hussain wahan la ilaha illallah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Jahan Hussain wahan la ilaha illallah"
 cover: "/images/lyrics/jahan-hussain-wahan-la-ilaha-illallah.png"

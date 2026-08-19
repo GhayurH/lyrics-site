@@ -4,8 +4,8 @@ alternateTitle: "abu talib ka beta"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "abu talib ka beta"
 cover: "/images/lyrics/abu-talib-ka-beta.png"

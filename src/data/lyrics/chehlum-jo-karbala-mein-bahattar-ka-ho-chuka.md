@@ -4,8 +4,8 @@ alternateTitle: "Chehlum Jo Karbala Mein Bahattar Ka Ho Chuka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Chehlum Jo Karbala Mein Bahattar Ka Ho Chuka"
 cover: "/images/lyrics/chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.png"

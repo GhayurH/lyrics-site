@@ -4,8 +4,8 @@ alternateTitle: "Naazan hai hum ke hum ko dare murtaza Milaa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Naazan hai hum ke hum ko dare murtaza Milaa"
 cover: "/images/lyrics/naazan-hai-hum-ke-hum-ko-dare-murtaza-milaa.png"

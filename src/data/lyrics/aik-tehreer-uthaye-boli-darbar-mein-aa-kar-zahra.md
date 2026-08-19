@@ -4,8 +4,8 @@ alternateTitle: "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein B
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-e-Nabi Hoon"
 cover: "/images/lyrics/aik-tehreer-uthaye-boli-darbar-mein-aa-kar-zahra.png"

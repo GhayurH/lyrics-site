@@ -4,8 +4,8 @@ alternateTitle: "Zehra Ki Dua Hai Ye Matam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Zehra Ki Dua Hai Ye Matam"
 cover: "/images/lyrics/zehra-ki-dua-hai-ye-matam.png"

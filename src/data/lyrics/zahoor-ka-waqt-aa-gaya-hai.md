@@ -4,8 +4,8 @@ alternateTitle: "Zahoor Ka Waqt Aa Gaya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Zahoor Ka Waqt Aa Gaya Hai"
 cover: "/images/lyrics/zahoor-ka-waqt-aa-gaya-hai.png"

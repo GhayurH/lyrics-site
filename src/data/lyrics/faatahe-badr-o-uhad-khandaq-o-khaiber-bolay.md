@@ -4,8 +4,8 @@ alternateTitle: "Faatahe Badr-o-Uhad Khandaq o Khaiber bolay"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Faatahe Badr-o-Uhad Khandaq o Khaiber bolay"
 cover: "/images/lyrics/faatahe-badr-o-uhad-khandaq-o-khaiber-bolay.png"

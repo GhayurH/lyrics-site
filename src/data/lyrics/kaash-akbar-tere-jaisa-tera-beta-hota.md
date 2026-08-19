@@ -4,8 +4,8 @@ alternateTitle: "Kaash Akbar Tere Jaisa Tera Beta Hota"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Kaash Akbar Tere Jaisa Tera Beta Hota"
 cover: "/images/lyrics/kaash-akbar-tere-jaisa-tera-beta-hota.png"

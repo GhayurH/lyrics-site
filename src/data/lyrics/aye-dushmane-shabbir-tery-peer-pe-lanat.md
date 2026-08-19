@@ -4,8 +4,8 @@ alternateTitle: "Aye Dushmane Shabbir Tery Peer Pe Lanat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Manqabat"
+kalamType: "Manqabat"
+tags: []
 aliases:
   - "Aye Dushmane Shabbir Tery Peer Pe Lanat"
 cover: "/images/lyrics/aye-dushmane-shabbir-tery-peer-pe-lanat.png"

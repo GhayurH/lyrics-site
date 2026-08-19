@@ -4,8 +4,8 @@ alternateTitle: "Rone Ke Liye Kaafi Hai Sajjad Tera Naam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Rone Ke Liye Kaafi Hai Sajjad Tera Naam"
 cover: "/images/lyrics/rone-ke-liye-kaafi-hai-sajjad-tera-naam.png"

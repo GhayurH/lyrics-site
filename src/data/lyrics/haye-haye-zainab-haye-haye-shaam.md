@@ -4,8 +4,8 @@ alternateTitle: "haye haye zainab haye haye shaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "haye haye zainab haye haye shaam"
 cover: "/images/lyrics/haye-haye-zainab-haye-haye-shaam.png"

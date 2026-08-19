@@ -4,8 +4,8 @@ alternateTitle: "Mazloom Be Watan Ye Mera Maula Raza Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-tags:
-  - "Noha"
+kalamType: "Noha"
+tags: []
 aliases:
   - "Mazloom Be Watan Ye Mera Moula Raza Hai"
 cover: "/images/lyrics/mazloom-be-watan-ye-mera-moula-raza-hai.png"
