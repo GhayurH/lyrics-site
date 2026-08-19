@@ -1,3 +1,4 @@
+// File role: Lyric-domain helpers: centralizes Kalam Type ordering/slugging, lyric sorting, and construction of search URLs so routes use one classification model.
 import type { CollectionEntry } from "astro:content";
 
 type LyricData = CollectionEntry<"lyrics">["data"];

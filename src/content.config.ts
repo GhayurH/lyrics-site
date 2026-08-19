@@ -1,3 +1,4 @@
+// File role: Content collection contract: validates lyric metadata plus Basta page and Roman-transliteration records before Astro builds routes.
 import { defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 import { z } from "astro/zod";

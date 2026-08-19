@@ -1,3 +1,4 @@
+// File role: Static catalog endpoint for Saved/Recent: emits only the metadata needed to resolve local IDs, keeping the full catalog out of the initial Saved page HTML.
 import { getCollection } from "astro:content";
 import {
   compareLyrics,
