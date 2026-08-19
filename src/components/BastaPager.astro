@@ -20,6 +20,8 @@ const {
   indexStartPage,
   indexEndPage,
 } = Astro.props as Props;
+
+const availablePagesValue = availablePages.join(",");
 ---
 
 <nav
@@ -39,7 +41,13 @@ const {
     )
   }
 
-  <form class="basta-jump-form" data-basta-jump-form>
+  <form
+    class="basta-jump-form"
+    data-basta-jump-form
+    data-available-pages={availablePagesValue}
+    data-index-start-page={indexStartPage}
+    data-index-end-page={indexEndPage}
+  >
     <label>
       <span>Go to page</span>
       <input
@@ -68,47 +76,50 @@ const {
   }
 </nav>
 
-<script
-  is:inline
-  define:vars={{
-    availableBastaPages: availablePages,
-    bastaIndexStartPage: indexStartPage,
-    bastaIndexEndPage: indexEndPage,
-  }}
->
-  document.querySelectorAll("[data-basta-jump-form]").forEach((form) => {
-    const input = form.querySelector('input[name="page"]');
+<script>
+  document
+    .querySelectorAll<HTMLFormElement>("[data-basta-jump-form]")
+    .forEach((form) => {
+      if (form.dataset.bastaJumpReady === "true") return;
+      form.dataset.bastaJumpReady = "true";
 
-    input?.addEventListener("input", () => {
-      input.setCustomValidity("");
+      const input = form.querySelector<HTMLInputElement>('input[name="page"]');
+      const availablePages = new Set(
+        (form.dataset.availablePages ?? "")
+          .split(",")
+          .map(Number)
+          .filter(Number.isInteger),
+      );
+      const indexStartPage = Number(form.dataset.indexStartPage);
+      const indexEndPage = Number(form.dataset.indexEndPage);
+
+      input?.addEventListener("input", () => {
+        input.setCustomValidity("");
+      });
+
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+
+        const page = Number(input?.value);
+
+        if (!Number.isInteger(page)) {
+          input?.setCustomValidity("Enter a valid page number.");
+          input?.reportValidity();
+          return;
+        }
+
+        if (page >= indexStartPage && page <= indexEndPage) {
+          window.location.href = "/basta/index/";
+          return;
+        }
+
+        if (!availablePages.has(page)) {
+          input?.setCustomValidity("That page is not available.");
+          input?.reportValidity();
+          return;
+        }
+
+        window.location.href = `/basta/${page}/`;
+      });
     });
-
-    form.addEventListener("submit", (event) => {
-      event.preventDefault();
-
-      const page = Number(input?.value);
-
-      if (!Number.isInteger(page)) {
-        input?.setCustomValidity("Enter a valid page number.");
-        input?.reportValidity();
-        return;
-      }
-
-      if (
-        page >= bastaIndexStartPage &&
-        page <= bastaIndexEndPage
-      ) {
-        window.location.href = "/basta/index/";
-        return;
-      }
-
-      if (!availableBastaPages.includes(page)) {
-        input?.setCustomValidity("That page is not available.");
-        input?.reportValidity();
-        return;
-      }
-
-      window.location.href = `/basta/${page}/`;
-    });
-  });
 </script>
