@@ -28,3 +28,7 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Large public assets are stored in Cloudflare R2.
+public/images/
+public/files/
