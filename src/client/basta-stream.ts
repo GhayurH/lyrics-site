@@ -11,23 +11,73 @@ function element<K extends keyof HTMLElementTagNameMap>(
   return node;
 }
 
+function renderKalamBreak(): HTMLElement {
+  const separator = element("div", "basta-kalam-break");
+  separator.setAttribute("role", "separator");
+  separator.setAttribute("aria-label", "Kalam separator");
+  const mark = element("span");
+  mark.setAttribute("aria-hidden", "true");
+  mark.textContent = "✦";
+  separator.append(mark);
+  return separator;
+}
+
 function appendBastaText(container: HTMLElement, value: string): void {
   splitBastaKalams(value).forEach((kalam, index) => {
-    if (index > 0) {
-      const separator = element("div", "basta-kalam-break");
-      separator.setAttribute("role", "separator");
-      separator.setAttribute("aria-label", "Kalam separator");
-      const mark = element("span");
-      mark.setAttribute("aria-hidden", "true");
-      mark.textContent = "✦";
-      separator.append(mark);
-      container.append(separator);
-    }
-
+    if (index > 0) container.append(renderKalamBreak());
     const block = element("div", "basta-kalam-text");
     block.textContent = kalam;
     container.append(block);
   });
+}
+
+function renderParallelText(page: BastaReaderPageData): HTMLElement {
+  const wrapper = element(
+    "div",
+    "basta-parallel-kalams basta-parallel-kalams-reader",
+  );
+  const urduKalams = splitBastaKalams(page.urduText);
+  const romanKalams = splitBastaKalams(page.romanText);
+  const count = Math.max(urduKalams.length, romanKalams.length);
+
+  for (let index = 0; index < count; index += 1) {
+    if (index > 0) wrapper.append(renderKalamBreak());
+
+    const row = element("div", "basta-parallel-kalam-row");
+
+    const roman = element(
+      "section",
+      "basta-reader-column basta-reader-roman basta-kalam-cell basta-kalam-cell-roman",
+    );
+    roman.lang = "en";
+    roman.dir = "ltr";
+    roman.setAttribute(
+      "aria-label",
+      `Roman Urdu kalam ${index + 1} of Basta page ${page.page}`,
+    );
+    const romanText = element("div", "basta-reader-text basta-kalam-text");
+    romanText.textContent = romanKalams[index] ?? "";
+    roman.append(romanText);
+
+    const urdu = element(
+      "section",
+      "basta-reader-column basta-reader-urdu basta-kalam-cell basta-kalam-cell-urdu",
+    );
+    urdu.lang = "ur";
+    urdu.dir = "rtl";
+    urdu.setAttribute(
+      "aria-label",
+      `Urdu kalam ${index + 1} of Basta page ${page.page}`,
+    );
+    const urduText = element("div", "basta-reader-text basta-kalam-text");
+    urduText.textContent = urduKalams[index] ?? "";
+    urdu.append(urduText);
+
+    row.append(roman, urdu);
+    wrapper.append(row);
+  }
+
+  return wrapper;
 }
 
 function renderPage(page: BastaReaderPageData): HTMLElement {
@@ -46,6 +96,8 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     image.decoding = "async";
     figure.append(image);
     section.append(figure);
+  } else if (page.hasRoman) {
+    section.append(renderParallelText(page));
   } else {
     const grid = element("div", "basta-reader-page-grid");
 
@@ -53,15 +105,9 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     roman.lang = "en";
     roman.dir = "ltr";
     roman.setAttribute("aria-label", `Roman Urdu text of Basta page ${page.page}`);
-    if (page.hasRoman) {
-      const text = element("div", "basta-reader-text");
-      appendBastaText(text, page.romanText);
-      roman.append(text);
-    } else {
-      const missing = element("p", "basta-transliteration-missing");
-      missing.textContent = "No transliteration available for this page.";
-      roman.append(missing);
-    }
+    const missing = element("p", "basta-transliteration-missing");
+    missing.textContent = "No transliteration available for this page.";
+    roman.append(missing);
 
     const urdu = element("section", "basta-reader-column basta-reader-urdu");
     urdu.lang = "ur";
