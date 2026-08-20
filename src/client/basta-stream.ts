@@ -1,5 +1,6 @@
 // File role: Progressive continuous-reader loader: hydrates static page chunks near the viewport and resolves deep #page-N links without shipping the full book HTML initially.
 import type { BastaReaderChunk, BastaReaderPageData } from "../lib/basta";
+import { splitBastaKalams } from "../lib/basta-text";
 
 function element<K extends keyof HTMLElementTagNameMap>(
   tag: K,
@@ -8,6 +9,25 @@ function element<K extends keyof HTMLElementTagNameMap>(
   const node = document.createElement(tag);
   if (className) node.className = className;
   return node;
+}
+
+function appendBastaText(container: HTMLElement, value: string): void {
+  splitBastaKalams(value).forEach((kalam, index) => {
+    if (index > 0) {
+      const separator = element("div", "basta-kalam-break");
+      separator.setAttribute("role", "separator");
+      separator.setAttribute("aria-label", "Kalam separator");
+      const mark = element("span");
+      mark.setAttribute("aria-hidden", "true");
+      mark.textContent = "✦";
+      separator.append(mark);
+      container.append(separator);
+    }
+
+    const block = element("div", "basta-kalam-text");
+    block.textContent = kalam;
+    container.append(block);
+  });
 }
 
 function renderPage(page: BastaReaderPageData): HTMLElement {
@@ -35,7 +55,7 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     roman.setAttribute("aria-label", `Roman Urdu text of Basta page ${page.page}`);
     if (page.hasRoman) {
       const text = element("div", "basta-reader-text");
-      text.textContent = page.romanText;
+      appendBastaText(text, page.romanText);
       roman.append(text);
     } else {
       const missing = element("p", "basta-transliteration-missing");
@@ -48,7 +68,7 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     urdu.dir = "rtl";
     urdu.setAttribute("aria-label", `Urdu text of Basta page ${page.page}`);
     const urduText = element("div", "basta-reader-text");
-    urduText.textContent = page.urduText;
+    appendBastaText(urduText, page.urduText);
     urdu.append(urduText);
 
     grid.append(roman, urdu);
