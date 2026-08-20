@@ -68,7 +68,9 @@ https://kalamarchive.com/images/...
 https://kalamarchive.com/files/...
 ```
 
-Cloudflare Cloud Connector routes those paths to R2. For the local asset layout, upload commands, overwrite behavior, and publishing workflow, see [Asset storage and publishing](docs/CONTRIBUTING.md#asset-storage-and-publishing).
+Cloudflare Cloud Connector routes those paths to R2.
+
+For the day-to-day process of adding images or files, see [Asset workflow](docs/ASSET_WORKFLOW.md). For the full storage model, overwrite behavior, verification commands, and publishing details, see [Asset storage and publishing](docs/CONTRIBUTING.md#asset-storage-and-publishing).
 
 ## Repository structure
 
@@ -142,6 +144,8 @@ npm run preview
 Astro's development server normally runs at `http://localhost:4321/`.
 
 Because large assets are not stored in Git, local development needs access to the external asset directory if images/PDFs are to be served locally. See [Local development with R2 assets](docs/CONTRIBUTING.md#local-development-with-r2-assets).
+
+For the normal add-image/add-file publishing sequence, see [docs/ASSET_WORKFLOW.md](docs/ASSET_WORKFLOW.md).
 
 ## Corrections and additions
 
