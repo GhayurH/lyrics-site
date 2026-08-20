@@ -1,0 +1,35 @@
+/* File role: Shared visual treatment for explicit between-kalam dividers in both page-by-page and continuous Basta readers. */
+
+.basta-urdu-text.basta-urdu-text,
+.basta-roman-text.basta-roman-text,
+.basta-reader-text.basta-reader-text {
+  white-space: normal;
+}
+
+.basta-kalam-text {
+  white-space: pre-wrap;
+}
+
+.basta-kalam-break {
+  display: grid;
+  grid-template-columns: minmax(1.5rem, 4rem) auto minmax(1.5rem, 4rem);
+  align-items: center;
+  gap: 0.7rem;
+  width: min(13rem, 72%);
+  margin: 1.35em auto;
+  color: var(--secondary-text);
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1;
+  opacity: 0.78;
+}
+
+.basta-kalam-break::before,
+.basta-kalam-break::after {
+  content: "";
+  border-top: 1px solid currentColor;
+  opacity: 0.5;
+}
+
+.basta-kalam-break > span {
+  font-size: 0.72em;
+}

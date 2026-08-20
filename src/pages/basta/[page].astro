@@ -4,6 +4,7 @@ import type { CollectionEntry } from "astro:content";
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaPager from "../../components/BastaPager.astro";
+import BastaText from "../../components/BastaText.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
 import { loadBastaNavigationData, loadBastaRomanByPage } from "../../lib/basta-pages";
@@ -186,7 +187,7 @@ const haalFilters = [
             aria-label={`Urdu text of Basta page ${page}`}
           >
             <h2 class="basta-page-text-heading">Urdu text</h2>
-            <div class="basta-urdu-text">{urduText}</div>
+            <BastaText text={urduText} className="basta-urdu-text" />
           </section>
         )
       }
@@ -200,7 +201,7 @@ const haalFilters = [
             aria-label={`Roman Urdu text of Basta page ${page}`}
           >
             <h2 class="basta-page-text-heading">Roman Urdu</h2>
-            <div class="basta-roman-text">{romanText}</div>
+            <BastaText text={romanText} className="basta-roman-text" />
           </section>
         )
       }

@@ -10,6 +10,8 @@
     "build": "astro build && pagefind",
     "preview": "astro preview",
     "search-preview": "npm run build && astro preview",
+    "basta:sync": "node scripts/sync-basta-index.mjs",
+    "basta:sync:check": "node scripts/sync-basta-index.mjs --check",
     "astro": "astro"
   },
   "dependencies": {

@@ -1,0 +1,28 @@
+---
+// File role: Shared Basta text renderer: turns explicit between-kalam markers into a clean visual divider while preserving stanza whitespace inside each kalam.
+import { splitBastaKalams } from "../lib/basta-text";
+import "../styles/basta-kalam-break.css";
+
+interface Props {
+  text: string;
+  className: string;
+}
+
+const { text, className } = Astro.props as Props;
+const kalams = splitBastaKalams(text);
+---
+
+<div class={className}>
+  {
+    kalams.map((kalam, index) => (
+      <>
+        {index > 0 && (
+          <div class="basta-kalam-break" role="separator" aria-label="Kalam separator">
+            <span aria-hidden="true">✦</span>
+          </div>
+        )}
+        <div class="basta-kalam-text">{kalam}</div>
+      </>
+    ))
+  }
+</div>

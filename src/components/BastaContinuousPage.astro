@@ -1,6 +1,7 @@
 ---
 // File role: Server-rendered Basta page unit for the initially loaded continuous-reader chunk; its DOM contract is mirrored by the streaming client.
 import type { BastaReaderPageData } from "../lib/basta";
+import BastaText from "./BastaText.astro";
 
 interface Props {
   page: BastaReaderPageData;
@@ -32,13 +33,13 @@ const { page } = Astro.props as Props;
       <div class="basta-reader-page-grid">
         <section class="basta-reader-column basta-reader-roman" lang="en" dir="ltr" aria-label={`Roman Urdu text of Basta page ${page.page}`}>
           {page.hasRoman ? (
-            <div class="basta-reader-text">{page.romanText}</div>
+            <BastaText text={page.romanText} className="basta-reader-text" />
           ) : (
             <p class="basta-transliteration-missing">No transliteration available for this page.</p>
           )}
         </section>
         <section class="basta-reader-column basta-reader-urdu" lang="ur" dir="rtl" aria-label={`Urdu text of Basta page ${page.page}`}>
-          <div class="basta-reader-text">{page.urduText}</div>
+          <BastaText text={page.urduText} className="basta-reader-text" />
         </section>
       </div>
     )
