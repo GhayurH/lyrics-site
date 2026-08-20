@@ -1,5 +1,6 @@
-/* File role: Shared visual treatment for explicit between-kalam dividers in both page-by-page and continuous Basta readers. */
+/* File role: Shared bilingual Basta kalam layout and between-kalam divider treatment for page-by-page and continuous readers. */
 
+/* Single-language fallback renderer. */
 .basta-urdu-text.basta-urdu-text,
 .basta-roman-text.basta-roman-text,
 .basta-reader-text.basta-reader-text {
@@ -8,28 +9,243 @@
 
 .basta-kalam-text {
   white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  unicode-bidi: plaintext;
 }
 
+/* Each Roman/Urdu kalam occupies one common grid row. The row height is the
+   taller language; Roman is vertically centered inside that shared height. */
+.basta-parallel-kalams {
+  min-width: 0;
+}
+
+.basta-parallel-kalam-row,
+.basta-parallel-kalam-headings {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+  min-width: 0;
+}
+
+.basta-kalam-cell {
+  min-width: 0;
+}
+
+.basta-kalam-cell-roman {
+  display: grid;
+  align-content: center;
+}
+
+.basta-kalam-cell-urdu {
+  align-self: stretch;
+}
+
+/* One shared separator for both languages instead of two independent ornaments. */
 .basta-kalam-break {
   display: grid;
-  grid-template-columns: minmax(1.5rem, 4rem) auto minmax(1.5rem, 4rem);
+  grid-template-columns: minmax(2rem, 1fr) auto minmax(2rem, 1fr);
   align-items: center;
-  gap: 0.7rem;
-  width: min(13rem, 72%);
-  margin: 1.35em auto;
+  gap: 0.75rem;
+  width: 100%;
+  margin: clamp(1rem, 2vw, 1.5rem) 0;
   color: var(--secondary-text);
   font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1;
-  opacity: 0.78;
+  opacity: 0.58;
 }
 
 .basta-kalam-break::before,
 .basta-kalam-break::after {
   content: "";
   border-top: 1px solid currentColor;
-  opacity: 0.5;
 }
 
 .basta-kalam-break > span {
-  font-size: 0.72em;
+  display: block;
+  font-size: 0.62rem;
+  line-height: 1;
+}
+
+/* Page-by-page reader: the scan stays beside one bilingual text region rather
+   than forcing Urdu/Roman into unrelated grid cells. */
+.basta-page-grid-with-roman {
+  grid-template-columns: minmax(18rem, 0.78fr) minmax(0, 1.72fr);
+  align-items: start;
+}
+
+.basta-page-grid-with-roman > .basta-parallel-kalams-page {
+  min-width: 0;
+}
+
+.basta-parallel-kalams-page .basta-kalam-cell-roman,
+.basta-parallel-kalam-headings > .basta-parallel-heading-roman {
+  border-right: 1px solid var(--border-colour);
+  padding-right: clamp(1rem, 2.5vw, 2rem);
+}
+
+.basta-parallel-kalams-page .basta-kalam-cell-urdu,
+.basta-parallel-kalam-headings > .basta-parallel-heading-urdu {
+  padding-left: clamp(1rem, 2.5vw, 2rem);
+}
+
+.basta-parallel-kalam-headings {
+  margin-bottom: 0.85rem;
+}
+
+.basta-parallel-kalam-headings .basta-page-text-heading {
+  margin: 0;
+}
+
+.basta-parallel-heading-roman {
+  text-align: left;
+}
+
+.basta-parallel-heading-urdu {
+  text-align: right;
+}
+
+/* Continuous reader keeps the existing column typography/padding contracts,
+   but applies them per kalam row so both languages stay synchronized. */
+.basta-parallel-kalams-reader .basta-reader-roman {
+  grid-area: auto;
+  border-right: 1px solid var(--border-colour);
+  padding-right: clamp(1rem, 2.5vw, 2rem);
+}
+
+.basta-parallel-kalams-reader .basta-reader-urdu {
+  grid-area: auto;
+  padding-left: clamp(1rem, 2.5vw, 2rem);
+}
+
+/* Reading controls: when one language is selected, collapse each paired row to
+   a centered single column and remove the bilingual gutter. */
+[data-reading-mode="urdu"] .basta-kalam-cell-roman,
+[data-reading-mode="urdu"] .basta-parallel-heading-roman,
+[data-reading-mode="roman"] .basta-kalam-cell-urdu,
+[data-reading-mode="roman"] .basta-parallel-heading-urdu {
+  display: none;
+}
+
+[data-reading-mode="urdu"] .basta-parallel-kalam-row,
+[data-reading-mode="roman"] .basta-parallel-kalam-row,
+[data-reading-mode="urdu"] .basta-parallel-kalam-headings,
+[data-reading-mode="roman"] .basta-parallel-kalam-headings {
+  grid-template-areas: "single";
+  grid-template-columns: minmax(0, 48rem);
+  justify-content: center;
+}
+
+[data-reading-mode="urdu"] .basta-kalam-cell-urdu,
+[data-reading-mode="roman"] .basta-kalam-cell-roman,
+[data-reading-mode="urdu"] .basta-parallel-heading-urdu,
+[data-reading-mode="roman"] .basta-parallel-heading-roman {
+  grid-area: single;
+  border: 0;
+  padding-inline: 0;
+}
+
+/* Continuous reader switches to stacked bilingual rows at its existing mobile
+   breakpoint. Roman vertical centering is only useful while columns are side by side. */
+@media (max-width: 920px) {
+  .basta-parallel-kalams-reader .basta-parallel-kalam-row {
+    grid-template-areas:
+      "urdu"
+      "roman";
+    grid-template-columns: 1fr;
+  }
+
+  .basta-parallel-kalams-reader .basta-kalam-cell-urdu {
+    grid-area: urdu;
+    border-bottom: 1px solid var(--border-colour);
+    padding: 0 0 1.4rem;
+  }
+
+  .basta-parallel-kalams-reader .basta-kalam-cell-roman {
+    grid-area: roman;
+    align-content: start;
+    border-right: 0;
+    padding: 1.4rem 0 0;
+  }
+
+  [data-reading-mode="urdu"] .basta-parallel-kalams-reader .basta-parallel-kalam-row,
+  [data-reading-mode="roman"] .basta-parallel-kalams-reader .basta-parallel-kalam-row {
+    grid-template-areas: "single";
+    grid-template-columns: minmax(0, 48rem);
+  }
+
+  [data-reading-mode="urdu"] .basta-parallel-kalams-reader .basta-kalam-cell-urdu,
+  [data-reading-mode="roman"] .basta-parallel-kalams-reader .basta-kalam-cell-roman {
+    grid-area: single;
+  }
+
+  [data-reading-mode="urdu"] .basta-parallel-kalams-reader .basta-kalam-cell-urdu,
+  [data-reading-mode="roman"] .basta-parallel-kalams-reader .basta-kalam-cell-roman {
+    border-bottom: 0;
+    padding-block: 0;
+  }
+}
+
+/* On medium page-by-page layouts, put the scan above the aligned bilingual
+   text. On phones, stack Urdu then Roman within each kalam. */
+@media (max-width: 1100px) {
+  .basta-page-grid-with-roman {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .basta-page-grid-with-roman > .basta-original-page {
+    width: min(100%, 42rem);
+    justify-self: center;
+  }
+}
+
+@media (max-width: 760px) {
+  .basta-parallel-kalams-page .basta-parallel-kalam-row,
+  .basta-parallel-kalams-page .basta-parallel-kalam-headings {
+    grid-template-areas:
+      "urdu"
+      "roman";
+    grid-template-columns: 1fr;
+  }
+
+  .basta-parallel-kalams-page .basta-kalam-cell-urdu,
+  .basta-parallel-heading-urdu {
+    grid-area: urdu;
+    border-bottom: 1px solid var(--border-colour);
+    padding: 0 0 1.25rem;
+  }
+
+  .basta-parallel-kalams-page .basta-kalam-cell-roman,
+  .basta-parallel-heading-roman {
+    grid-area: roman;
+    align-content: start;
+    border-right: 0;
+    padding: 1.25rem 0 0;
+  }
+
+  .basta-parallel-kalam-headings {
+    gap: 0;
+  }
+
+  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-parallel-kalam-row,
+  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-parallel-kalam-row,
+  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-parallel-kalam-headings,
+  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-parallel-kalam-headings {
+    grid-template-areas: "single";
+    grid-template-columns: minmax(0, 48rem);
+  }
+
+  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-kalam-cell-urdu,
+  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-kalam-cell-roman,
+  [data-reading-mode="urdu"] .basta-parallel-heading-urdu,
+  [data-reading-mode="roman"] .basta-parallel-heading-roman {
+    grid-area: single;
+  }
+
+  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-kalam-cell-urdu,
+  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-kalam-cell-roman,
+  [data-reading-mode="urdu"] .basta-parallel-heading-urdu,
+  [data-reading-mode="roman"] .basta-parallel-heading-roman {
+    border-bottom: 0;
+    padding-block: 0;
+  }
 }

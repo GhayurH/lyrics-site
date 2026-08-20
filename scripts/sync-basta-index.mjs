@@ -18,6 +18,167 @@ const MIN_INDEX_SCORE = 0.32;
 const MIN_BREAK_SCORE = 0.30;
 const NON_KALAM_SECTIONS = new Set(["مضامین"]);
 
+// These entries were too corrupted in the original index to recover safely by
+// fuzzy matching. Values below were checked against the corrected page text.
+// A page value is included only where the old index page itself was wrong.
+const MANUAL_OVERRIDES = new Map([
+  [
+    "مضامین::6",
+    {
+      page: 61,
+      urdu: "معزز ذاکرین، شعراء اہل بیت اور عزاداروں کی توجہ کے لئے ایک غور طلب نکتہ",
+    },
+  ],
+  [
+    "سوز::16",
+    {
+      page: 98,
+      urdu: "جب آئی صبحِ قتلِ امامِ فلک وقار",
+      roman: "Jab aai subh-e-qatl-e-Imam-e-falak-waqar",
+    },
+  ],
+  [
+    "سلام::30",
+    {
+      page: 118,
+      urdu: "جو شب کو دِن بنادیں لعل و گوہر ایسے ہوتے ہیں",
+      roman: "Jo shab ko din bana dein lal-o-gauhar aise hote hain",
+    },
+  ],
+  [
+    "سلام::43",
+    {
+      page: 123,
+      urdu: "خیر کی ایسی نہ کسی اور کو تقدیر ملی",
+      roman: "Khair ki aisi na kisi aur ko taqdir mili",
+    },
+  ],
+  [
+    "سلام::47",
+    {
+      page: 124,
+      urdu: "مجرمی کہتے تھے شہؑ کچھ نہیں پروا مجھ کو",
+      roman: "Mujrai kehte the Shah kuchh nahin parwa mujh ko",
+    },
+  ],
+  [
+    "نوحہ / بین::3",
+    {
+      page: 329,
+      urdu: "سقائے سکینہ شہیدائے سکینہ (ماتم)",
+      roman: "Saqqa-e-Sakina, shahidaye Sakina (matam)",
+    },
+  ],
+  [
+    "نوحہ / بین::4",
+    {
+      page: 329,
+      urdu: "پروان چڑھالوں ارمان نکالوں (ماتم)",
+      roman: "Parwan charha lun arman nikalun (matam)",
+    },
+  ],
+  [
+    "نوحہ / بین::6",
+    {
+      page: 330,
+      urdu: "پیاسوں سے زیادہ دور نہ تھا بہتے ہوئے دریا کا پانی",
+      roman: "Pyason se zyada dur na tha behte hue darya ka pani",
+    },
+  ],
+  [
+    "حمد، نعت و مناقب::29",
+    {
+      page: 386,
+      urdu: "نائبِ خیر الوریٰ، قرآنِ گویا عسکریؑ",
+      roman: "Naib-e-Khair-ul-Wara, Quran-e-goya Askari",
+    },
+  ],
+  [
+    "حمد، نعت و مناقب::37",
+    {
+      page: 393,
+      urdu: "زید شہید قدرتِ داور کا شاہکار",
+      roman: "Zaid Shahid qudrat-e-Dawar ka shahkar",
+    },
+  ],
+  [
+    "متفرقات و قومیات::2",
+    {
+      page: 403,
+      urdu: "حقیقت دوستی نہج البلاغہ",
+      roman: "Haqiqat-dosti Nahj-ul-Balagha",
+    },
+  ],
+  [
+    "متفرقات و قومیات::3",
+    {
+      page: 404,
+      urdu: "ذاکرین سے خطاب / حکیم کاظم زیدی",
+      roman: "Zakirin se khitab / Hakim Kazim Zaidi",
+    },
+  ],
+  [
+    "متفرقات و قومیات::5",
+    {
+      page: 405,
+      urdu: "نوید بخشِ خیر الوریٰ ہے ذوالعشیرہ میں",
+      roman: "Naveed bakhsh-e khair aluri hai Zul-Ashira mein",
+    },
+  ],
+  [
+    "متفرقات و قومیات::15",
+    {
+      page: 412,
+      urdu: "میں نہیں مانتا / گوہر جارچوی",
+      roman: "Main nahin manta / Gauhar Jarchavi",
+    },
+  ],
+  [
+    "متفرقات و قومیات::20",
+    {
+      page: 416,
+      urdu: "کوئی ایسا بھی ہوتا ہے / راہی جہانگیر آبادی",
+      roman: "Koi aisa bhi hota hai / Rahi Jahangirabadi",
+    },
+  ],
+  [
+    "متفرقات و قومیات::22",
+    {
+      page: 417,
+      urdu: "شرعاً حرام / دلور نگار",
+      roman: "Sharan haram / Dilwar Nigar",
+    },
+  ],
+  [
+    "متفرقات و قومیات::23",
+    {
+      page: 418,
+      urdu: "شہیدوں اور شہیدوں کے وارثوں کو سلام",
+      roman: "Shahidon aur shahidon ke warison ko salam",
+    },
+  ],
+  [
+    "متفرقات و قومیات::38",
+    {
+      page: 434,
+      urdu: "اے خمینیؒ زندہ باد",
+      roman: "Ay Khomeini zinda-bad",
+    },
+  ],
+  [
+    "متفرقات و قومیات::51",
+    {
+      page: 454,
+      urdu: "دن ڈھلے جب کرے مزدوری رضا آتا ہے باپ",
+      roman: "Din dhale jab kare mazduri Raza aata hai bap",
+    },
+  ],
+]);
+
+function entryKey(entry) {
+  return `${entry.section ?? ""}::${entry.number ?? ""}`;
+}
+
 function normalizeNewlines(value) {
   return value.replace(/\r\n?/g, "\n");
 }
@@ -158,70 +319,71 @@ function candidatesFromBody(body) {
   return { lines, candidates };
 }
 
-function resolveOrderedMatches(seeds, body, language) {
+function bestMatch(seed, body, language) {
   const { lines, candidates } = candidatesFromBody(body);
-  if (!seeds.length || candidates.length < seeds.length) {
-    return { lines, matches: [] };
-  }
+  let best;
 
-  const scores = seeds.map((seed) =>
-    candidates.map((candidate) => similarity(seed, candidate.text, language)),
-  );
-  const entryCount = seeds.length;
-  const candidateCount = candidates.length;
-  const negativeInfinity = Number.NEGATIVE_INFINITY;
-  const dp = Array.from({ length: entryCount }, () =>
-    Array(candidateCount).fill(negativeInfinity),
-  );
-  const previous = Array.from({ length: entryCount }, () =>
-    Array(candidateCount).fill(-1),
-  );
-
-  for (let candidateIndex = 0; candidateIndex < candidateCount; candidateIndex += 1) {
-    dp[0][candidateIndex] = scores[0][candidateIndex];
-  }
-
-  for (let entryIndex = 1; entryIndex < entryCount; entryIndex += 1) {
-    for (let candidateIndex = entryIndex; candidateIndex < candidateCount; candidateIndex += 1) {
-      let bestScore = negativeInfinity;
-      let bestPrevious = -1;
-      for (let previousIndex = entryIndex - 1; previousIndex < candidateIndex; previousIndex += 1) {
-        const score = dp[entryIndex - 1][previousIndex];
-        if (score > bestScore) {
-          bestScore = score;
-          bestPrevious = previousIndex;
-        }
-      }
-      if (bestPrevious >= 0) {
-        dp[entryIndex][candidateIndex] = bestScore + scores[entryIndex][candidateIndex];
-        previous[entryIndex][candidateIndex] = bestPrevious;
-      }
+  for (const candidate of candidates) {
+    const score = similarity(seed, candidate.text, language);
+    if (
+      !best ||
+      score > best.score + Number.EPSILON ||
+      (Math.abs(score - best.score) <= Number.EPSILON && candidate.lineIndex < best.lineIndex)
+    ) {
+      best = { ...candidate, score };
     }
   }
 
-  let lastCandidate = -1;
-  let bestFinal = negativeInfinity;
-  for (let candidateIndex = entryCount - 1; candidateIndex < candidateCount; candidateIndex += 1) {
-    if (dp[entryCount - 1][candidateIndex] > bestFinal) {
-      bestFinal = dp[entryCount - 1][candidateIndex];
-      lastCandidate = candidateIndex;
-    }
-  }
-  if (lastCandidate < 0) return { lines, matches: [] };
+  return { lines, match: best };
+}
 
-  const chosen = Array(entryCount).fill(-1);
-  chosen[entryCount - 1] = lastCandidate;
-  for (let entryIndex = entryCount - 1; entryIndex > 0; entryIndex -= 1) {
-    chosen[entryIndex - 1] = previous[entryIndex][chosen[entryIndex]];
-  }
+function looksLikePreviousAttribution(line) {
+  const value = line.trim();
+  return (
+    /^\(/.test(value) ||
+    /^\[/.test(value) ||
+    /بشکریہ|Bashukriya|Courtesy/i.test(value)
+  );
+}
 
-  return {
-    lines,
-    matches: chosen.map((candidateIndex, entryIndex) => ({
-      ...candidates[candidateIndex],
-      score: scores[entryIndex][candidateIndex],
-    })),
-  };
+// Index entries commonly point at the first verse while the page contains a
+// short title/author block immediately above it. Put the divider before that
+// block so a title never gets stranded above the break.
+function looksLikeHeadingBlock(block) {
+  if (!block.length || block.length > 3) return false;
+  if (block.some(looksLikePreviousAttribution)) return false;
+
+  const joined = block.join(" ");
+  const last = block.at(-1) ?? "";
+  const authorPattern = /(?:سید|سبط|جعفر|شاداں|ڈاکٹر|پروفیسر|حکیم|راہی|زائر|زیدی|نقوی|امروہوی|صاحب|مرحوم|Syed|Sibt|Jafar|Shadan|Doctor|Professor|Hakim|Rahi|Zair|Zaidi|Naqvi|Amrohvi|Sahib|Marhum)/iu;
+  const titleLabelPattern = /^(?:رباعی|سوز|سلام|نوحہ|بین|منقبت|حقیقت|دعا|ماتم|Rubai|Soz|Salam|Noha|Bain|Manqabat|Haqiqat|Dua|Matam)/iu;
+
+  return (
+    joined.includes("/") ||
+    /\((?:ماتم|matam)\)/iu.test(joined) ||
+    authorPattern.test(last) ||
+    (block.length === 1 && titleLabelPattern.test(block[0].trim()))
+  );
+}
+
+function adjustBoundaryToHeading(lines, lineIndex) {
+  let cursor = lineIndex - 1;
+  if (cursor < 0 || lines[cursor].trim()) return lineIndex;
+
+  while (cursor >= 0 && !lines[cursor].trim()) cursor -= 1;
+  if (cursor < 0) return lineIndex;
+
+  const blockEnd = cursor;
+  while (cursor >= 0 && lines[cursor].trim()) cursor -= 1;
+  const blockStart = cursor + 1;
+  const block = lines.slice(blockStart, blockEnd + 1).filter((line) => line.trim());
+
+  return looksLikeHeadingBlock(block) ? blockStart : lineIndex;
+}
+
+function hasContinuationBefore(lines, boundaryLineIndex) {
+  const before = lines.slice(0, boundaryLineIndex).join("\n");
+  return /(?:جاری|تسلسل|\bjari\b|\btasalsul\b)/iu.test(before);
 }
 
 function addBreaks(body, boundaryLineIndexes) {
@@ -281,12 +443,79 @@ function formatScore(value) {
   return value.toFixed(3);
 }
 
+function applyManualOverrides(indexEntries) {
+  let indexTextUpdates = 0;
+  let pageUpdates = 0;
+
+  for (const entry of indexEntries) {
+    const override = MANUAL_OVERRIDES.get(entryKey(entry));
+    if (!override) continue;
+
+    if (override.page && entry.page !== override.page) {
+      entry.page = override.page;
+      pageUpdates += 1;
+    }
+    if (override.urdu && entry.name !== override.urdu) {
+      entry.name = override.urdu;
+      indexTextUpdates += 1;
+    }
+    if (override.roman && entry.romanName !== override.roman) {
+      entry.romanName = override.roman;
+      indexTextUpdates += 1;
+    }
+  }
+
+  return { indexTextUpdates, pageUpdates };
+}
+
+function findBreakBoundaries(kalamItems, body, language, page, warnings) {
+  const matches = [];
+
+  for (const { entry } of kalamItems) {
+    const seed = language === "urdu" ? entry.name : entry.romanName;
+    if (!seed) continue;
+
+    const { lines, match } = bestMatch(seed, body, language);
+    if (!match || match.score < MIN_BREAK_SCORE) {
+      warnings.push(
+        `${language === "urdu" ? "Urdu" : "Roman"} kalam break skipped: page ${page}, #${entry.number ?? "?"}, score ${formatScore(match?.score ?? 0)} — ${seed}`,
+      );
+      continue;
+    }
+
+    matches.push({
+      entry,
+      lines,
+      match,
+      boundaryLineIndex: adjustBoundaryToHeading(lines, match.lineIndex),
+    });
+  }
+
+  matches.sort((a, b) => a.boundaryLineIndex - b.boundaryLineIndex);
+  if (!matches.length) return [];
+
+  const boundaries = matches.slice(1).map((item) => item.boundaryLineIndex);
+
+  // If this page explicitly starts as a continuation from a previous page,
+  // the first new indexed kalam on this page also needs a divider.
+  const first = matches[0];
+  if (
+    first.boundaryLineIndex > 0 &&
+    hasContinuationBefore(first.lines, first.boundaryLineIndex)
+  ) {
+    boundaries.unshift(first.boundaryLineIndex);
+  }
+
+  return boundaries;
+}
+
 async function main() {
   const originalIndexText = await fs.readFile(INDEX_PATH, "utf8");
   const indexEntries = JSON.parse(originalIndexText);
   const urduPages = await loadMarkdownDirectory(URDU_DIR);
   const romanPages = await loadMarkdownDirectory(ROMAN_DIR);
-  const grouped = groupIndexEntries(indexEntries);
+  const manual = applyManualOverrides(indexEntries);
+  let grouped = groupIndexEntries(indexEntries);
 
   let urduIndexUpdates = 0;
   let romanIndexUpdates = 0;
@@ -294,18 +523,16 @@ async function main() {
   let romanBreakPages = 0;
   const warnings = [];
 
-  // First pass: update index labels from the corrected first lines on their target pages.
+  // Update non-manual labels from the corrected page text. Matching is now
+  // independent rather than forced into index-number order because some source
+  // index entries on the same page are intentionally out of physical order.
   for (const [page, group] of grouped) {
     const urduPage = urduPages.get(page);
     if (urduPage) {
-      const { matches } = resolveOrderedMatches(
-        group.map(({ entry }) => entry.name ?? ""),
-        urduPage.body,
-        "urdu",
-      );
-      group.forEach(({ entry }, position) => {
-        const match = matches[position];
-        if (!match) return;
+      for (const { entry } of group) {
+        if (MANUAL_OVERRIDES.has(entryKey(entry))) continue;
+        const { match } = bestMatch(entry.name ?? "", urduPage.body, "urdu");
+        if (!match) continue;
         if (match.score >= MIN_INDEX_SCORE) {
           if (entry.name !== match.text) {
             entry.name = match.text;
@@ -316,20 +543,15 @@ async function main() {
             `Urdu index unresolved: page ${page}, #${entry.number ?? "?"}, score ${formatScore(match.score)} — ${entry.name}`,
           );
         }
-      });
+      }
     }
 
     const romanPage = romanPages.get(page);
-    const romanItems = group.filter(({ entry }) => Boolean(entry.romanName));
-    if (romanPage && romanItems.length) {
-      const { matches } = resolveOrderedMatches(
-        romanItems.map(({ entry }) => entry.romanName ?? ""),
-        romanPage.body,
-        "roman",
-      );
-      romanItems.forEach(({ entry }, position) => {
-        const match = matches[position];
-        if (!match) return;
+    if (romanPage) {
+      for (const { entry } of group) {
+        if (!entry.romanName || MANUAL_OVERRIDES.has(entryKey(entry))) continue;
+        const { match } = bestMatch(entry.romanName, romanPage.body, "roman");
+        if (!match) continue;
         if (match.score >= MIN_INDEX_SCORE) {
           if (entry.romanName !== match.text) {
             entry.romanName = match.text;
@@ -340,68 +562,47 @@ async function main() {
             `Roman index unresolved: page ${page}, #${entry.number ?? "?"}, score ${formatScore(match.score)} — ${entry.romanName}`,
           );
         }
-      });
+      }
     }
   }
 
-  // Second pass: use the now-canonical index first lines as the only kalam boundaries.
+  // Re-group because two manually corrected index entries move to the page on
+  // which their corrected text actually starts.
+  grouped = groupIndexEntries(indexEntries);
+
+  // Rebuild all explicit page markers from scratch. This removes any misplaced
+  // markers produced by the first version before inserting the corrected ones.
   for (const [page, group] of grouped) {
     const kalamItems = group.filter(({ entry }) => isKalamEntry(entry));
-    if (kalamItems.length < 2) continue;
+    if (!kalamItems.length) continue;
 
     const urduPage = urduPages.get(page);
     if (urduPage) {
-      const { matches } = resolveOrderedMatches(
-        kalamItems.map(({ entry }) => entry.name),
-        urduPage.body,
-        "urdu",
-      );
-      const boundaries = matches
-        .slice(1)
-        .filter((match) => match.score >= MIN_BREAK_SCORE)
-        .map((match) => match.lineIndex);
+      const boundaries = findBreakBoundaries(kalamItems, urduPage.body, "urdu", page, warnings);
       const nextBody = addBreaks(urduPage.body, boundaries);
       const nextRaw = urduPage.frontmatter + nextBody;
       if (nextRaw !== urduPage.raw) {
         urduBreakPages += 1;
         urduPage.nextRaw = nextRaw;
       }
-      matches.slice(1).forEach((match, index) => {
-        if (match.score < MIN_BREAK_SCORE) {
-          const entry = kalamItems[index + 1].entry;
-          warnings.push(
-            `Urdu kalam break skipped: page ${page}, #${entry.number ?? "?"}, score ${formatScore(match.score)} — ${entry.name}`,
-          );
-        }
-      });
     }
 
     const romanPage = romanPages.get(page);
     const romanKalamItems = kalamItems.filter(({ entry }) => Boolean(entry.romanName));
-    if (romanPage && romanKalamItems.length >= 2) {
-      const { matches } = resolveOrderedMatches(
-        romanKalamItems.map(({ entry }) => entry.romanName),
+    if (romanPage && romanKalamItems.length) {
+      const boundaries = findBreakBoundaries(
+        romanKalamItems,
         romanPage.body,
         "roman",
+        page,
+        warnings,
       );
-      const boundaries = matches
-        .slice(1)
-        .filter((match) => match.score >= MIN_BREAK_SCORE)
-        .map((match) => match.lineIndex);
       const nextBody = addBreaks(romanPage.body, boundaries);
       const nextRaw = romanPage.frontmatter + nextBody;
       if (nextRaw !== romanPage.raw) {
         romanBreakPages += 1;
         romanPage.nextRaw = nextRaw;
       }
-      matches.slice(1).forEach((match, index) => {
-        if (match.score < MIN_BREAK_SCORE) {
-          const entry = romanKalamItems[index + 1].entry;
-          warnings.push(
-            `Roman kalam break skipped: page ${page}, #${entry.number ?? "?"}, score ${formatScore(match.score)} — ${entry.romanName}`,
-          );
-        }
-      });
     }
   }
 
@@ -421,14 +622,18 @@ async function main() {
   }
 
   console.log(`${CHECK_ONLY ? "Checked" : "Synchronized"} Basta index and kalam boundaries.`);
+  console.log(`  Manual index text corrections: ${manual.indexTextUpdates}`);
+  console.log(`  Manual index page corrections: ${manual.pageUpdates}`);
   console.log(`  Urdu index entries ${CHECK_ONLY ? "needing updates" : "updated"}: ${urduIndexUpdates}`);
   console.log(`  Roman index entries ${CHECK_ONLY ? "needing updates" : "updated"}: ${romanIndexUpdates}`);
   console.log(`  Urdu pages ${CHECK_ONLY ? "needing break updates" : "with break updates"}: ${urduBreakPages}`);
   console.log(`  Roman pages ${CHECK_ONLY ? "needing break updates" : "with break updates"}: ${romanBreakPages}`);
 
   if (warnings.length) {
-    console.warn(`\n${warnings.length} low-confidence item(s) were left untouched:`);
+    console.warn(`\n${warnings.length} item(s) still need review:`);
     warnings.forEach((warning) => console.warn(`  - ${warning}`));
+  } else {
+    console.log("  Manual review queue: clear");
   }
 
   if (CHECK_ONLY && hasChanges) process.exitCode = 1;
