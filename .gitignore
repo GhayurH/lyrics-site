@@ -22,7 +22,7 @@ pnpm-debug.log*
 # Local one-off maintenance work; production source belongs under src/.
 /tools/
 /trash/
-audit/.~lock.basta-error-report.xlsx#
+audit/.~*
 
 # Large public binaries are stored in Cloudflare R2 and mounted/symlinked locally.
 public/images/
