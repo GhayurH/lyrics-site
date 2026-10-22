@@ -220,3 +220,13 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **168:** separated Saqib Muzaffarpuri's short work from the numbered marṡiya in both scripts.
 - **169:** separated the independent Ijaz Rahmani and Nasir Turabi couplets from the preceding poem and one another, in both scripts.
 - **162–163, 165–167, 170:** printed structural reading order inspected without additional safe changes. The words still need a full manual proofread. Resume structural checks at **171–180**.
+
+## Batch 9: pages 171–180 — verse-order and poem-boundary check
+
+- Checked the original scans **171–180** against the paired Urdu/Roman files for numbered-stanza order, cross-page continuations, and standalone works. Numbering is correctly sequenced: 171 ends a poem at 6 and starts another 1–3; 172 finishes its stanza 4 and opens a new 1–3; 173 follows with 4 and new 1–3; 174 finishes 4–8; 175 starts 1–5, 176 finishes 6–9; 177 begins a new 1–5; 178 begins a new 1–5; 179 1–6; 180 1–5.
+- **172:** split independent excerpts by Shahab Kazmi, Sami Taqvi, and Shaukat Raza Shaukat from the preceding numbered poem in both scripts; the original scan shows separate headings. Tiny-print credit still needs lexical collation.
+- **174:** separated the Nafs Fatehpuri couplet from the ending numbered poem in both scripts.
+- **176:** separated Javed Manzar's independent quatrain and the Syed Arif Imam piece from the preceding marṡiya, in both scripts.
+- **177:** separated the closing short excerpts sourced from two manqabats from the marṡiya in both languages. Their OCR wording is poor and needs transcription from print.
+- **171, 173, 175, 178–180:** compared stanza sequence and sections without a safe ordering edit. These pages have NOT received word-by-word correction.
+- Continue with **181–190**. Remaining major open issues: incomplete 138 bain, earlier unmatched OCR, and full lexical review.
