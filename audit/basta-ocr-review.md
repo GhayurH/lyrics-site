@@ -413,3 +413,12 @@ Khun donon kuhniyon se tapakta tha khak par
 - **290:** Removed redundant trailing OCR line duplicated from stanza 4 after stanza 6, both languages, and repaired mixed-script `امامِ`.
 - **Source of displaced Roman text from page 280 located:** the unrelated Roman Imam Ali / Ibn Muljim verses archived in the Batch 19B audit are actually this printed **page 290** poem; page 290 already contains them. Do not accidentally reinsert duplicates.
 - Original-scan structural coverage now reaches **085–290 (206 pages)**. All wording and diacritics have NOT been exhaustively checked. Continue **291–300**, then 001–084 and remaining lexical proofing.
+
+## Batch 21A: pages 291–295, scan-backed sectional structure
+
+- Inspected printed **291–295**; stanza numbers follow **291** (1–6) → **292** (7, standalone excerpts, new 1–3) → **293** (4–5, separate Imam Shafi'i and Khwaja Nizamuddin excerpts, new 1–3) → **294** (4–6, new 1–3) → **295** (4–8). No major numbered-stanza reordering warranted.
+- **291–292:** attached printed **Nasim Amrohvi** to opening of p291 poem, removed duplicated trailing running label on p292, and marked two standalone quotes on p292 (second by Professor Mirza Muhammad Ishtiaq Shauq Lakhnavi) as independent works. Retained their printed acknowledgments.
+- **293:** removed preceding poem's carried title, split the independently printed Imam Shafi'i and Khwaja Nizamuddin excerpts into separate sections and retained their *incomplete OCR placeholders* pending exact transcription, and placed **Nasim Amrohvi** next to the poem starting lower on this page.
+- **294:** removed the carried-over title/credit for the preceding page's poem ahead of the new `شربتِ تلخ...` work.
+- **295:** removed its duplicated footer title; no verse content removed.
+- Word-by-word verification and Arabic quotations on 293 remain outstanding.
