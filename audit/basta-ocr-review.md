@@ -337,3 +337,62 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **278:** attached **Shadan Dehlavi** to its heading, removed footer repetition, corrected `عمر چار سال` in Urdu and Roman and mixed-script `رسول`.
 - **279:** restored printed `آیا بہت قریب نبیؐ کا دمِ وصال` (OCR used unrelated `بہشتِ قرب`) and moved **Nasim Amrohvi** credit to heading. **280**'s grossly incorrect Roman text is handled in separate restoration commit.
 - This is an original-scan structural pass with selective unambiguous corrections; not full lexical clearance.
+
+## Batch 19B — page 280 full wrong-poem Roman replacement
+
+- Original printed **280.png** shows the Prophet's final illness: stanza 1 begins `بیمار جب کہ احمدِ مختارؐ ہو گئے` and stanzas **2–6** continue that narrative. Its Roman `280.md` had **stanzas 2–6 from an unrelated Imam Ali / Ibn Muljim martyrdom narrative**, despite the same stanza numbering. This is a major original-OCR cross-work displacement, not a cosmetic change.
+- Preserved Roman stanza 1 (which matched), **fully replaced Roman stanzas 2–6** with a manual transliteration paired line-by-line to the Urdu scan-based markdown (including two already present source uncertainties); corrected mixed-script `رسول` and the Prophet's honorific in Urdu stanza 1. The Roman stanza 2–6 is no longer contaminated by the unrelated source.
+- **Original displaced text archived verbatim below** for locating and relocating to its correct original page. Do not discard it, and do not silently treat it as text actually printed on page 280.
+
+### Wrong Roman material formerly in p.280
+
+```text
+2
+Ghar mein Khuda ke qatl hua rozadar, haye
+Haye Imam, haye Zulfiqar, haye
+Ay razdar-e-Haq, Shah-e-taat-guzar, haye
+Maulid Haram mein hai to Najaf mein mazar, haye
+
+Ye bandagi nisar-e-Janab-e-Amir ke
+Nikle to ghar se Khuda-e-Qadir ke
+
+3
+Laya tha zahr mein jo jafa puchha ke tegh
+Maula gire zamin pe masjid mein kha ke tegh
+Ghul par gaya ke sar pe lagi Murtaza ke tegh
+Khai Khuda ke sher ne ghar mein Khuda ke tegh
+
+Gehra hai zakhm, farq-e-Imam-e-Hijaz par
+Sar se tapak raha hai lahu jaye-namaz par
+
+4
+Sher-e-Khuda jo hathon se thame the apna sar
+Khun donon kuhniyon se tapakta tha khak par
+Bhaga jo Ibn-e-Muljim-e-bad-khu-o-bad-guhar
+Pichha use Ali ke muhibbon ne daur kar
+
+Laye jo hath bandh ke Maula ke samne
+Qatil ye muskura ke nazar ki Imam ne
+
+5
+Farmaya main ne kaun si thi teri buri khata
+Padash-e-nekiyon ki jahan mein yahi hai kya
+Kya main bura tha ay bani-e-jafa
+Roya wo sar jhuka ke to Maula ne ye kaha
+
+Is dard mein bhi sab ke maraz ki dua hun main
+Bandho na is hath ko ke Mushkil-kusha hun main
+
+6
+Laye pisar jo ghar mein to ghash the Imam-e-Pak
+Karte the aah aah ba-awaz-e-dardnak
+Chehra lahu mein tar tha, bhawon tak jabin-e-pak
+Zahra ki betiyon ne urai saron pe khak
+
+Dekha jo sar ka zakhm jigar thartharane laga
+Abbas Namdar ki man ko ghash aa gaya
+
+Khun donon kuhniyon se tapakta tha khak par
+```
+
+- Structurally audited **271–280**, completing consecutive **85–280 (196 pages)**, though none of these pages is declared comprehensively word-by-word proofread. Next batch: **281–290**, with all previous transcription flags and introductory **001–084** still in scope.
