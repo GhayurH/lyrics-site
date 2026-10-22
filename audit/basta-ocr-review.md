@@ -119,3 +119,11 @@ Shah ne waqt-e-dafn aakhir band ki Asghar ki ankh
 - **148:** corrected badly misread Urdu and Roman opening *title* to the printed `پہلی منزل جو مدینے سے ہوئی سرورؑ کو`, matching the first stanza.
 - These pages have **not** received exhaustive word-by-word transcription correction. Verse wording, original diacritics, credits, and uncertain content still need a separate pass against scans.
 - Next original-image structural batch: **151–160**. Retain the source stanza numbers and cross-page boundaries.
+
+## Batch 7: numbered verses 151–160
+
+- Checked visible numbering and cross-page continuity across **151–160** in both languages. The expected resets align: **151** 1–6 → **152** 7–8/new poem 1–3 → **153** 4–8; **154** 1–6 → **155** 7–8/new 1–3 → **156** 4–5/new 1–3 → **157** 4–6/new 1–3 → **158** 4–5/new 1–3 → **159** 4–5/new 1–3 → **160** 4/new 1–3.
+- **158:** split Rizvi Charchavi and Jafar Husain Jafar's independent short couplets from the previous marsiya, preserving their own attribution, in both Urdu and Roman.
+- **159:** added the missing Roman divider before Waqar Mohsin's independent poem; the Urdu division was already present.
+- This is a numbered-stanza/poem-boundary check, **not** a completed lexical proofreading of 151–160. Small notes, harakat, and misread verse words need a separate image-verification pass.
+- Next: **161–170**; also audit missing content flagged on **137–138** and finish page-image comparisons for introductory **001–084**.
