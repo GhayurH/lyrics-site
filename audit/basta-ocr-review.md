@@ -326,3 +326,14 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **270:** moved printed author **Nasim Amrohvi** beside the poem heading, removing duplicate trailing title/credit in Urdu and Roman.
 - The 261–270 passes are **structural and selective OCR recovery**, NOT exhaustive word-by-word proofreading. Review ambiguities on pp. 261, 263–264, 267 memorial, and 269–270 during transcription clearance.
 - Next scan-backed structural range: **271–280**. Remaining: 001–084 and full lexical review across previously checked ranges.
+
+## Batch 19A — printed pages 271–279
+
+- Inspected original scans **271–279** against both files and verified numbered continuity. **271–273** each start standalone numbered works, **274** finishes 273 (7–8) and starts a new salam (1–3), **275** continues that salam (4–8), and **276–279** start separate poems.
+- **274:** corrected `ابنِ سعود` to printed `ابنِ سعد` and removed a repeated footer label belonging to p273 before the new salam. Fixed mixed-script Arabic words in Urdu.
+- **275:** removed the previous salam's redundant running footer title, both versions.
+- **276:** attached printed **Mir Wajih** author credit to the heading, removed duplicate running footer, retained acknowledgment.
+- **277:** corrected printed heading `ہاں دوستو کمی نہ ہو اب شور و شین میں`, moved **Nasim Amrohvi** attribution to heading, removed repeated footer, cleaned mixed-script OCR.
+- **278:** attached **Shadan Dehlavi** to its heading, removed footer repetition, corrected `عمر چار سال` in Urdu and Roman and mixed-script `رسول`.
+- **279:** restored printed `آیا بہت قریب نبیؐ کا دمِ وصال` (OCR used unrelated `بہشتِ قرب`) and moved **Nasim Amrohvi** credit to heading. **280**'s grossly incorrect Roman text is handled in separate restoration commit.
+- This is an original-scan structural pass with selective unambiguous corrections; not full lexical clearance.
