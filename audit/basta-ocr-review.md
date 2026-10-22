@@ -311,3 +311,10 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **263:** placed printed Nasim attribution with the first poem's heading rather than as an orphan trailing repeated title; removed unsupported '(72)' insertion from the next heading in both languages.
 - **265:** removed the previous poem's repeated running title and repaired two obvious Unicode replacement errors (`صبر`, `للہ`) in Urdu. Large amounts of remaining OCR wording still require lexical proofreading.
 - **264:** substantial small-print author notice remains partially transcribed, and multiple lines across 262–264 are uncertain; neither counted as full lexical clearance.
+
+## Batch 18B — pages 266–267
+
+- **266–267:** continued the original scan comparison. Restored printed poet **Shadan Lakhnavi** next to the beginning of `جب چھوٹ کے قیدِ شام سے سجادؑ گھر چلے` on page 266; removed its duplicated running-title / author label from page 267 in both scripts.
+- **267:** added the entire first line of stanza 4 to the Roman file from Urdu and print (`Mil jati us jari ko agar jang ki raza`), correcting its 3-line OCR truncation. Fixed visibly mixed Latin/Arabic text `کنبہِ Rasulول` to `کنبۂ رسولؐ` in the heading of the next marṡiya.
+- **267:** separated the independent **Suhail Shah** couplet from the preceding numbered poem and separated the *Fātiḥa/memorial dedication* from poetry, retaining all text and both scripts. The memorial's printed names still need an exhaustive transcription pass; existing placeholder flagged rather than invented.
+- Next finish 268–270, then begin 271–280. These pages are structurally collated but **not** word-by-word certified.
