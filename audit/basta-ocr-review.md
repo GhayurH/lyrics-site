@@ -455,3 +455,9 @@ The previously partially reconstructed **261 stanza 6** still contains doubtful 
 ## Retrospective refrain correction R2 — original scans 274–279
 
 Reviewed enlarged prints and restored genuine end-of-poem printed repetitions in both scripts on **274** (closing of Mukhtar work), **275** (closing of `حسین، سبطِ رسول...`), **276** (`وا حسرتا...` before acknowledgment), **277** (`ہاں دوستو کمی...`), **278** (`ماں کا جو سایہ...`), and **279** (`آیا بہت قریب نبی...`). Refrains retain *corrected source wording*, not corrupt earlier OCR headings. The user requires these deliberate print repetitions to remain at the **end**, even where the heading appears at the start as well.
+
+## Retrospective refrain correction R3 — original scans 281–290
+
+Verified and restored source-printed concluding refrain lines in both scripts: **281** `یا ختمِ رُسلؐ آپ پہ تسلیمِ خدا ہو` after continued poem stanza 4, before the independent Iqbal Kazmi work; **283** printed closing line of the Nasim poem, with corrected source title; **286** `جب خلق سے وقتِ سفرِ فاطمہؑ آیا` after its fifth stanza before Mir Anees credit and the independent quatrain; **288** `دنیا سے آج رحلت بنتِ رسولؐ ہے`; **290** `انیسویں (۱۹) سے آپ کا ماتم ہے یا علیؑ`. The **290** OCR's *unprinted stray repeat* of `خون دونوں کہنیوں سے...` remains excluded: scan prints the poem's first line, not that interior verse, at the end.
+
+Preserve **284–285** user's manual corrections. Other print verses remain subject to full lexical check.
