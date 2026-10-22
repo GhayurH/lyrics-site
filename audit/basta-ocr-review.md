@@ -276,3 +276,13 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **230:** removed a spurious poem divider between stanzas 5 and 6 of the SAME printed narrative in both scripts; preserved complete 4–9 sequence.
 - **221, 223–224, 226–228:** scanned for stanza order and poem grouping, with no additional confident ordering change. Both standalone couplets on 229 were present and retained, not missing from page 230.
 - **Open:** substantial lexical OCR issues in verse bodies and small-print remain. Continue scan-based structure at **231–240**, then return for complete word-by-word review and introductory **001–084**.
+
+## Batch 15 — pages 231–240 (printed structural audit)
+
+- Viewed the original printed scans for **231–240** in right-column-first reading order, then compared both Urdu and Roman MD. Numbered sequences remain intact: 231 (1–6) → 232 (7–10), 233 (new 1–5 plus Ashur Kazmi), 234 (new 1–4), 235 (new 1–5 plus Fahim Akhtar), 236 (new 1–5), 237 (new 1–6), 238 (new 1–6) → 239 (7–10), 240 (new 1–6). No stanza rearrangement necessary.
+- **234:** moved Amir Rizvi Cholsi's printed attribution next to the title and removed a duplicated trailing title and author, in both scripts.
+- **235:** corrected Urdu title `عزتِ اطہار` to printed `عترتِ اطہار`; Roman title already read `Itrat-e-Athar`.
+- **237:** corrected printed heading `مغموم و فگار` (was wrongly `نگار`), and added the tiny printed attribution `امیر چولسی` / `Amir Cholsi` to both scripts. The exact romanization of the attribution warrants a subsequent full text check.
+- **238–239:** moved the printed `نسیم امروہوی` / `Nasim Amrohvi` credit from the bottom of scan 239 to the heading of the poem beginning on 238; both languages updated.
+- **233, 236, 239–240:** scan order confirmed; no additional confident structural change. **Untranscribed memorial notices** are visible below the short verse on scanned 235 and in the lower portion of scanned 236; retain as an explicit follow-up rather than inventing names or leaving them silently cleared. Full verse-by-verse transcription and diacritics remain outstanding on all pages.
+- Next order batch: **241–250**, with preliminary **001–084** and comprehensive lexical audit still open.
