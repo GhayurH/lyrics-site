@@ -248,3 +248,10 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **195:** recovered the standalone Majid Raza Abidi quatrain under its own byline, with Roman transliteration; attached the printed Syed Ghulam Abbas acknowledgement to the preceding poem and retained the divider before the next marsiya. **Review the newly recovered wording carefully during lexical proofreading**, especially the small-print quatrain.
 - **192, 196–200:** scan order and numbering checked without other certain ordering edits. Small-print institutional notices, harakat, and lexical errors remain outstanding. This is *structural collation*, not full word-by-word clearance.
 - Next original-scan structural batch: **201–210**. Full source-based lexical clearance and pages **001–084** remain pending.
+
+## Batch 12: pages 201–210 — printed order verified
+
+- Compared the original page images **201–210** in printed right-column-before-left sequence against both sets of Markdown files. Numbering/continuation aligns: **201** ends 4/new 1–3 → **202** 4–8; **203** 1–6 → **204** 7–10; **205**, **206**, **207** each begin new numbered poems; **207** 1–6 → **208** 7/new 1–3 → **209** 4–8; **210** starts a new numbered poem 1–6. The independent guldasta and Raza Allahabadi pieces on **201, 208** are separated correctly.
+- **205:** separated the independently credited Azmat Bilgrami quatrain from the preceding marṡiya, in both scripts, while retaining its printed words.
+- **207:** fixed the Urdu inherited/corrupted heading to the printed `جب ماریہ کے دشت میں وارد ہُوا زعفر` and harmonized the Roman spelling of `زعفر` as `Za'far` throughout this page. Exact lexical text and small-print nuances remain for subsequent proofreading.
+- **202–204, 206, 208–210:** order checked, no other certain sectioning repairs. Full word-by-word transcription, diacritics, and editorial judgment still outstanding. Next structural batch: **211–220**.
