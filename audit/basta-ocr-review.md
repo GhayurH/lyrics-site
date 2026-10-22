@@ -445,3 +445,9 @@ The opening-line repetitions printed after a poem's last stanza are **intentiona
 - **310:** corrected a repeated `Bibi` word in the Roman stanza, matching the scan.
 - **303 and 305:** source order checked; the print matches the extant stanza sequence. **308:** verified all five stanzas. This is not exhaustive lexical certification.
 - Next: retroactive restoration of all previously removed source-printed closing refrains in older batches, while maintaining author credits and user-manual pages 284/285.
+
+## Retrospective refrain correction R1 — original scans 261–270
+
+The user's correction supersedes earlier cleanup: **printed repetitions of a poem's first line at its conclusion must remain**. Verified scans and restored source-printed closing repetitions in BOTH languages: **261** `سر جو شبیر...` before acknowledgement; **263** `حسینؑ بے کس ...` before next printed poem; **265** `شام سے جب...` after the last stanza and before next poem; **267** `جب چھوٹ کے قید شام...` before the independent Suhail Shah piece; **270** `وطن میں جب حرم...` at the poem's end. These were wrongly removed in prior scan-order passes.
+
+The previously partially reconstructed **261 stanza 6** still contains doubtful word choices; do not mark lexical clearance before enlarged-scan recheck. Print-authoritative repetitions are NOT stray OCR labels, even when also used for site headings.
