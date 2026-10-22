@@ -422,3 +422,13 @@ Khun donon kuhniyon se tapakta tha khak par
 - **294:** removed the carried-over title/credit for the preceding page's poem ahead of the new `شربتِ تلخ...` work.
 - **295:** removed its duplicated footer title; no verse content removed.
 - Word-by-word verification and Arabic quotations on 293 remain outstanding.
+
+## Batch 21B — original scans 296–300
+
+- Scanned **296–300** against paired Urdu/Roman files. Numbered sections: **296** standalone 1–5, **297** standalone 1–6 → **298** 7–9 and new 1–3 → **299** 4 and new 1–3 → **300** 4–5 and new 1–3. Sequence correct as numbered; small standalone passages needed separation.
+- **296:** separated Qaisar Barahvi's independent 4-line piece from the preceding numbered marṡiya and its acknowledgment, both scripts.
+- **297:** removed repeated running footer title on both versions.
+- **298–299:** removed the previous poem's running footer from 298, moved printed **Nasim Lakhnavi** attribution from repeated footer in 299 to the beginning of `کفن پہنا کے جو شبر...` on 298, in Urdu and Roman.
+- **299–300:** attached printed **Nasim Amrohvi** to beginning of `ہاں دوستو یہ وقت...` on 299, removed duplicate following-page label on 300, split independently credited **Shahid Jafar** couplet and printed *Fātiḥa memorial* into their own sections without deleting text in either script.
+- **300** begins a second, separately numbered work `دشمن معاویہ...`; its division was already correct. Partial memorial names, printed alternate verse omissions, and lexical OCR issues remain for the later full proofreading pass.
+- Structural review completed **085–300 (216 consecutive pages)**. Next order batch **301–310**, then preliminary **001–084** and unresolved lexical/source issues. This log does NOT assert word-by-word completion.
