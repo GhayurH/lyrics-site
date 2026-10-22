@@ -42,3 +42,14 @@ Use `npm run build`, `git diff --check`, and `git status --short` in a local che
 - **110:** final printed note below the professor's couplet is still to be collated.
 
 Next contiguous lyric section: **111–120**. Preliminary pages **001–084** remain in scope. Track structural collation separately from lexical proofreading.
+
+## Batch 3 — printed order checked (pages 111–120)
+
+- **111–120 (10 pages, Urdu and Roman):** original images reviewed for reading order and poem boundaries; targeted paired edits below. This was an order and attribution pass, **not a word-by-word transcription clearance**.
+- **111:** relocated the credit to the first salam before the divider, in both scripts.
+- **115:** restored the printed title of Jamil Lakhnavi's work, separated Professor Farhat Manzar Jafari's independent couplet, and corrected the next poem's title.
+- **116:** separated the final independent `تیرے بچوں...` poem from the preceding piece; its poet attribution and continuation text need closer transcription review.
+- **117:** separated Saba Akbarabadi's closing couplet from the preceding long poem.
+- **118–119:** restored the respective printed opening titles in both scripts.
+- **120:** replaced an unrelated inherited heading and author with the printed opening `کربلا کی منزلت ثابت ہے ہر عنوان سے` and Najm Amrohvi.
+- Some source page footnotes and small-print acknowledgements are still awaiting full collation. Proceed with **121–130**; **001–084** remains in scope.
