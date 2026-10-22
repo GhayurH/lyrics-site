@@ -294,3 +294,12 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **250:** the printed `التماسِ فاتحہ برائے سوزخواں امامی صاحب` is a dedication for the preceding poem, not the heading of the next marsiya. Corrected the mangled Urdu `العباس فاتحہ` / Roman `Al-Abbas Fatiha`, attached the dedication to the correct preceding stanza, and retained the divider before `سر اپنا پیٹ کے فضہ سے ہند نے پوچھا`.
 - **241–243, 245–249:** confirmed boundaries and printed sequence without further high-confidence structural edits; included the separate Abrar Abid and Naim Meeruthi items already correctly represented. Word accuracy, unusual OCR readings, and transliteration consistency still require full manual proofreading.
 - Continue scan-backed structural review with **251–260**; return to missing notices and full lexical review before claiming the whole collection complete. Introductory **001–084** remain on the master review plan.
+
+## Batch 17 — pages 251–260 (printed sectioning)
+
+- Inspected originals **251–260** against Urdu and Roman pages. Numbered continuity verified: 251 (4–6/new 1–3) → 252 (4–6/new 1–3) → 253 (new 1–6) → 254 (7–8/new 1–3) → 255 (4–8) → 256 (new 1–6) → 257 (7, independent Agha Shorish Kashmiri quatrain, new 1–3) → 258 (4–6/new 1–3) → 259 (4–6/new 1–3) → 260 (4–6/new 1–3). No confident verse rearrangements needed.
+- **253:** fixed a previous-page inherited title. Printed heading is `پہنچی جو قید خانے میں ہند نیکوسیر`, not `بھیا ہم ایک رسی میں بارہ اسیر ہیں`. Urdu and Roman updated.
+- **256:** fixed another inherited heading, restoring printed `قید خانے میں سکینہؑ کو جو لائی تقدیر` in both scripts.
+- **257:** inserted missing poem boundary before Agha Shorish Kashmiri's quatrain, which was already transcribed but merged with the preceding stanza 7. Restored the printed Shadan Dehlavi credit with the following `سرِ حسینؑ...` marṡiya in both scripts.
+- **258:** removed the redundant trailing preceding-poem title/credit from the Urdu and Roman new-section heading, retaining the new `سکینہؑ شام کے زندان...` poem as a distinct work. That poem's own final print credit requires lexical collation from the following page.
+- **251–252, 254–255, 259–260:** no additional safe section reorder after scan comparison. Numerous corrupted OCR readings and partial placeholders remain for full word-by-word review. Next structural range **261–270**.
