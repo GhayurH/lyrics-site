@@ -238,3 +238,13 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **189:** separated the independently credited couplets of Syed Hashim Raza, Dr Karbalai, and Shohrat Bilgrami in both languages, instead of keeping them together as one item.
 - **181–182, 184–188, 190:** printed order inspected; no other confident structural change in this batch. Several lines in the OCR and the Roman script still require lexical proofing (especially 190).
 - Next: **191–200**. The introductory **001–084** and thorough transcription/harakat review of checked pages are still pending.
+
+## Batch 11 — scans 191–200
+
+- **191–200:** checked the original right-to-left column images against Urdu and Roman stanza numbering, poem boundaries, and independent headings. Printed numbered sequence remains aligned, including 191 (1–6) → 192 (7/new 1–3), 193 (4–5/new 1–3), 194 (4–5/new 1–3), 195 (4–5/new 1–3), 196 (4–6/new 1–3) → 197 (4–7), 198 (new 1–6) → 199 (7–8/new 1–3) → 200 (4–6/new 1–3).
+- **191:** replaced an inherited title from page 190 with the printed opening (`ریتی پَر برچھی کھائے پڑا تھا جو نورِ عین`). Both scripts updated.
+- **193:** transcribed Ijaz Rahmani's four printed lines from the scan instead of an unclear placeholder; paired Roman text and credit added.
+- **194:** attached Raja Mahmudabad's name and biographical parenthetical to the following poem, rather than an empty standalone block.
+- **195:** recovered the standalone Majid Raza Abidi quatrain under its own byline, with Roman transliteration; attached the printed Syed Ghulam Abbas acknowledgement to the preceding poem and retained the divider before the next marsiya. **Review the newly recovered wording carefully during lexical proofreading**, especially the small-print quatrain.
+- **192, 196–200:** scan order and numbering checked without other certain ordering edits. Small-print institutional notices, harakat, and lexical errors remain outstanding. This is *structural collation*, not full word-by-word clearance.
+- Next original-scan structural batch: **201–210**. Full source-based lexical clearance and pages **001–084** remain pending.
