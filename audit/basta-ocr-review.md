@@ -403,3 +403,13 @@ Khun donon kuhniyon se tapakta tha khak par
 - **282** continues the poem begun on 281 with printed stanzas **4–6**; OCR called them **5–7**, now renumbered both scripts. New second poem starts on left of 282 at stanza 1. Corrected its heading and placed **Nasim Amrohvi** attribution with its beginning, rather than at p283 end.
 - **283** runs stanzas 4–8 of the poem begun on 282; removed redundant footer title and author in both scripts.
 - **281** stanza-4 and certain small-print lines remain for full lexical collation: printed-source ordering is corrected, not all words fully proofread.
+
+## Batch 20B — original scans 284–290
+
+- Reviewed original images **284–290**. Preserved the more recent user-manually-corrected Urdu and Roman **284–285** without changes. **287** stanza sequence already correct.
+- **286:** Removed inherited title from Urdu, preserved Mir Anees attribution with the preceding poem, and separated Syed Tahawwur Ali Jafari Amrohvi's independent quatrain from the next new numbered poem in both scripts.
+- **288:** Removed duplicate running title at page end, in both languages.
+- **289:** Separated independent Asir Faizabadi and final unattributed couplets from numbered marṡiya, both languages; repaired mixed-script `امامؑ`.
+- **290:** Removed redundant trailing OCR line duplicated from stanza 4 after stanza 6, both languages, and repaired mixed-script `امامِ`.
+- **Source of displaced Roman text from page 280 located:** the unrelated Roman Imam Ali / Ibn Muljim verses archived in the Batch 19B audit are actually this printed **page 290** poem; page 290 already contains them. Do not accidentally reinsert duplicates.
+- Original-scan structural coverage now reaches **085–290 (206 pages)**. All wording and diacritics have NOT been exhaustively checked. Continue **291–300**, then 001–084 and remaining lexical proofing.
