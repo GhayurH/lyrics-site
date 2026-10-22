@@ -286,3 +286,11 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **238–239:** moved the printed `نسیم امروہوی` / `Nasim Amrohvi` credit from the bottom of scan 239 to the heading of the poem beginning on 238; both languages updated.
 - **233, 236, 239–240:** scan order confirmed; no additional confident structural change. **Untranscribed memorial notices** are visible below the short verse on scanned 235 and in the lower portion of scanned 236; retain as an explicit follow-up rather than inventing names or leaving them silently cleared. Full verse-by-verse transcription and diacritics remain outstanding on all pages.
 - Next order batch: **241–250**, with preliminary **001–084** and comprehensive lexical audit still open.
+
+## Batch 16 — original scans 241–250
+
+- Checked original scans **241–250**, paired against both Urdu and Roman MD. Numbered progression is structurally correct: **241** concludes a prior poem (7), includes Abrar Abid's independent verse and starts a new work (1–3) → **242** (4–9) → **243** (10–11, then independent Naim Meeruthi poem, then new 1–3) → **244** (4–9) → **245** (10/new 1–3) → **246** (4–6/new 1–3) → **247** (4–9) → **248** (new 1–5) → **249** (new 1–3, then new 1–3) → **250** (4/new 1–3). No verified wholesale verse reordering required. This remains a *structure/attribution pass*, not word-by-word transcription verification.
+- **244:** removed stray `§` OCR/control artifact in the penultimate stanza, giving `اسیر` from the scanned source.
+- **250:** the printed `التماسِ فاتحہ برائے سوزخواں امامی صاحب` is a dedication for the preceding poem, not the heading of the next marsiya. Corrected the mangled Urdu `العباس فاتحہ` / Roman `Al-Abbas Fatiha`, attached the dedication to the correct preceding stanza, and retained the divider before `سر اپنا پیٹ کے فضہ سے ہند نے پوچھا`.
+- **241–243, 245–249:** confirmed boundaries and printed sequence without further high-confidence structural edits; included the separate Abrar Abid and Naim Meeruthi items already correctly represented. Word accuracy, unusual OCR readings, and transliteration consistency still require full manual proofreading.
+- Continue scan-backed structural review with **251–260**; return to missing notices and full lexical review before claiming the whole collection complete. Introductory **001–084** remain on the master review plan.
