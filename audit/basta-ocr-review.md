@@ -230,3 +230,11 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **177:** separated the closing short excerpts sourced from two manqabats from the marṡiya in both languages. Their OCR wording is poor and needs transcription from print.
 - **171, 173, 175, 178–180:** compared stanza sequence and sections without a safe ordering edit. These pages have NOT received word-by-word correction.
 - Continue with **181–190**. Remaining major open issues: incomplete 138 bain, earlier unmatched OCR, and full lexical review.
+
+## Batch 10: pages 181–190 — numbered narrative continuity
+
+- Compared printed scans **181–190** with Urdu and Roman structure. Numbered sections preserve the printed sequence, including the transition to new poems on pages **184–188**. This does not certify their word-by-word accuracy.
+- **183:** replaced an inherited title from the preceding page with the printed opening `مشک بھر کر سُوئے خیمہ جو علمدار چلے`, in both Urdu and Roman.
+- **189:** separated the independently credited couplets of Syed Hashim Raza, Dr Karbalai, and Shohrat Bilgrami in both languages, instead of keeping them together as one item.
+- **181–182, 184–188, 190:** printed order inspected; no other confident structural change in this batch. Several lines in the OCR and the Roman script still require lexical proofing (especially 190).
+- Next: **191–200**. The introductory **001–084** and thorough transcription/harakat review of checked pages are still pending.
