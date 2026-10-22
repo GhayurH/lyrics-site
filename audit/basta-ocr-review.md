@@ -465,3 +465,7 @@ Preserve **284–285** user's manual corrections. Other print verses remain subj
 ## Retrospective refrain correction R4A — pages 292–295
 
 Restored the scan-printed repeated first lines at the **ends** of poems on **292**, **293**, **294**, and **295** in both language editions. Prior automatic removal was a regression. All printed short-poem breaks and earlier order corrections remain intact.
+
+## Retrospective refrain correction R4B — pages 297–300
+
+Restored genuine printed first-line repetitions at the end of poems on **297**, **298**, **299**, and **300**, in both scripts. The repeat on 298 is positioned before the printed acknowledgment; 299 and 300 close their earlier poem before the next separate work. These source-authentic lines were wrongly stripped during earlier structural cleanup.
