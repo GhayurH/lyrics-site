@@ -489,3 +489,12 @@ Enlarged scans confirm deliberate closing repetitions on **234** (`جبکہ پا
 ## Retrospective refrain correction R8 — p219 across-column, pp. 257–258
 
 The page **219** scan shows the repeated first line **twice**, once after stanza 8 (end of right-hand column) and again after stanza 10 (before memorial names). Both occurrences are now present in each script. Also restored printed closing repetitions after **257** stanza 7 (`قید خانے میں سکینہ ...`) before the separate Agha Shorish Kashmiri verse, and after **258** stanza 6 (`سرِ حسین جو زندان...`) before the next poem. These cannot be omitted as editorial 'deduplication'.
+
+## Batch 23A — 311–320 and corrective comparison with p306
+
+- Original scans **311–320** checked in right-column-first order. Page 311, 312, 314 have printed first-line repetitions already in both files; preserve. The running first-line refrains at the ends of works continuing onto 315–320 also remain in place. No deletion of original print repetitions.
+- **306 source correction:** The prior batch had INCORRECTLY added stanza 3 to the left-side poem on p306. The original scan prints that stanza only on the right-hand column of **307**; removed the p306 duplicate from Urdu and Roman. Page 307 retains stanza 3. This corrects a previous source-collation regression.
+- **313:** separated printed Barq Zaidi couplet, corrected its second line `سیارگانِ چرخ کے بھی خاندان میں`, and restored otherwise missing independently credited **Mir Razi Mir** couplet; created matching Roman transliteration. Fixed `tifl-e tifl` Roman duplication.
+- **315:** restored missing second line of stanza 7 `رات بھر اشک رہے دیدۂ تر سے جاری`; replaced an entire unclear-verse placeholder with printed `تین کشتوں کو مقتل پہ تڑپتے دیکھا`. Both Urdu and Roman match the scan. Retained the printed `قید ہو کر جو چلے شہرِ مدینہ سے تقیؑ` closing repetition before the next poem.
+- **320:** corrected obviously garbled Roman OCR phrases in the final stanza of its second poem, while preserving its printed stanza structure.
+- **311–312, 314, 316–319:** print/numbering checked; unresolved individual word readings remain for full lexical audit. This is structural plus targeted source disambiguation, not exhaustive word-level clearance.
