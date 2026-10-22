@@ -98,3 +98,16 @@ Shah ne waqt-e-dafn aakhir band ki Asghar ki ankh
 - **130:** correct the second poem title.
 - **122, 124, 129:** scanned for layout; unresolved OCR wording and notes remain. Page **123** also retains transcription uncertainties in the verse bodies; source must be collated further.
 - Next: **131–140**. Also pending: preliminary pages **001–084**, complete word-by-word review, and verification of unplaced fragments.
+
+## Batch 5: pages 131–140 — scan ordering
+
+- Compared original scans of **131–140** to the two Markdown streams for printed poem order and author boundaries. This is structural collation, **not word-by-word clearance**.
+- **131:** placed Allama Irfan Haider Abidi's title and byline with the correct poem; separated the Sajjād quatrain at bottom left, in both scripts.
+- **132:** restored Umar Lakhnavi and Wahid Ahsan Baqi attributions from the printed scan in both scripts.
+- **133:** moved the Qamar Bahari title and byline out of the preceding work, matching Roman structure.
+- **136:** moved the second poem's title and byline before its divider in Roman, aligning the two languages.
+- **138:** corrected the corrupt Roman opening title and separated the printed `بین` section from the poem above it.
+- **140:** separated Allama Talib Jauhari's couplet from the preceding quatrain in both scripts.
+- **137 requires further work:** the printed opening `کربلا کی شیر دل خاتون زینب السلام` has no body in the OCR Markdown; another section duplicates the Ali Akbar piece. Needs careful scan transcription and deduplication, not an automatic order change. **138 `بین` also needs full manual recovery.**
+- **134–135, 139:** ordering inspected; no safe structural changes identified in this batch. The source still contains transcription mistakes.
+- Continue with **141–150** and recover flagged incomplete pages. Introductory **001–084** and full lexical review remain pending.
