@@ -485,3 +485,7 @@ Restored scan-printed closing repeats on **214** (`جس دم نگیں...`), **21
 ## Retrospective refrain correction R7 — scans 234, 239, 252, 255
 
 Enlarged scans confirm deliberate closing repetitions on **234** (`جبکہ پابندِ سلاسل...`), **239** (`دیارِ کوفہ...`), **252** (`عابدؑ کو جب یزید...` before acknowledgment), and **255** (`قید خانے میں تلاطم...` before acknowledgment). Restored all in both language editions; the poems' credits and the previous stanza-order repairs remain intact.
+
+## Retrospective refrain correction R8 — p219 across-column, pp. 257–258
+
+The page **219** scan shows the repeated first line **twice**, once after stanza 8 (end of right-hand column) and again after stanza 10 (before memorial names). Both occurrences are now present in each script. Also restored printed closing repetitions after **257** stanza 7 (`قید خانے میں سکینہ ...`) before the separate Agha Shorish Kashmiri verse, and after **258** stanza 6 (`سرِ حسین جو زندان...`) before the next poem. These cannot be omitted as editorial 'deduplication'.
