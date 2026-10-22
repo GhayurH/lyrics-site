@@ -111,3 +111,11 @@ Shah ne waqt-e-dafn aakhir band ki Asghar ki ankh
 - **137 requires further work:** the printed opening `کربلا کی شیر دل خاتون زینب السلام` has no body in the OCR Markdown; another section duplicates the Ali Akbar piece. Needs careful scan transcription and deduplication, not an automatic order change. **138 `بین` also needs full manual recovery.**
 - **134–135, 139:** ordering inspected; no safe structural changes identified in this batch. The source still contains transcription mistakes.
 - Continue with **141–150** and recover flagged incomplete pages. Introductory **001–084** and full lexical review remain pending.
+
+## Batch 6: pp. 141–150 — numbered marsiya structure
+
+- Inspected the original scans **141–150** and corresponding Urdu and Roman files. Page **141** is a printed introductory note for the marāsī section and correctly has no Roman lyrics file.
+- Checked numbering and poem transitions: **142** stanzas 1–5 → **143** 6–7, then a new poem 1–3 → **144** 4–8; **145** 1–6 → **146** 7–8, then new poem 1–3 → **147** 4–7; **148** 1–6 → **149** 7–8, then next poem 1–4; **150** begins a new marsiya 1–6. Boundaries are in the right order in both versions.
+- **148:** corrected badly misread Urdu and Roman opening *title* to the printed `پہلی منزل جو مدینے سے ہوئی سرورؑ کو`, matching the first stanza.
+- These pages have **not** received exhaustive word-by-word transcription correction. Verse wording, original diacritics, credits, and uncertain content still need a separate pass against scans.
+- Next original-image structural batch: **151–160**. Retain the source stanza numbers and cross-page boundaries.
