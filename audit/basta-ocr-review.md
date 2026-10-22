@@ -477,3 +477,7 @@ Source magnifications were used rather than accepting OCR guesses or retaining p
 ## Retrospective refrain correction R5 — scans 210–213
 
 Enlarged originals show closing repeats deliberately printed at **210** (`جب ہوئی ظہر تلک ...`), **211** (`اقربا کٹ گئے...`), **212** (`جب خاتمہ بخیر ...`), and **213** (same work's closing repetition before the new poem). Restored all four in both scripts *at the print location*, reversing earlier removal as alleged running-title OCR noise. Source repeats may appear on multiple consecutive pages when printed: preserve each occurrence rather than deduplicate.
+
+## Retrospective refrain correction R6 — scans 214, 215, 217, 219
+
+Restored scan-printed closing repeats on **214** (`جس دم نگیں...`), **215** (`پیاسا ہے کئی دن...`), **217** (`لوٹا گیا جو آلِ محمد...`), and **219** (`غارتِ خیمۂ سرور...` before Fatiha names), Urdu and Roman. Print shows the ending labels as deliberate repeated opening lines; they are **not** expendable OCR junk. The full printed memorial-name list on 219 remains preserved. At p219 the printed line appears twice, associated with its continuation across columns; preserve both in subsequent lexical audit.
