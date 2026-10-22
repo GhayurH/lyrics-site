@@ -303,3 +303,11 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **257:** inserted missing poem boundary before Agha Shorish Kashmiri's quatrain, which was already transcribed but merged with the preceding stanza 7. Restored the printed Shadan Dehlavi credit with the following `سرِ حسینؑ...` marṡiya in both scripts.
 - **258:** removed the redundant trailing preceding-poem title/credit from the Urdu and Roman new-section heading, retaining the new `سکینہؑ شام کے زندان...` poem as a distinct work. That poem's own final print credit requires lexical collation from the following page.
 - **251–252, 254–255, 259–260:** no additional safe section reorder after scan comparison. Numerous corrupted OCR readings and partial placeholders remain for full word-by-word review. Next structural range **261–270**.
+
+## Batch 18A — scan comparison 261–265
+
+- Checked the original two-column scans 261–265 against both scripts, preserving numbered stanza order: p261 (4–8), p262 starts separate 1–6, p263 (new 1–3 followed by new 1–3), p264 (4–5/new 1–3), p265 (4–6/new 1–3).
+- **261:** recovered five clearly readable lines of missing stanza 6 from the print, preserving an explicit *one-line uncertainty* rather than a placeholder for the entire stanza. Removed duplicated preceding poem running title and kept the source acknowledgment, both languages.
+- **263:** placed printed Nasim attribution with the first poem's heading rather than as an orphan trailing repeated title; removed unsupported '(72)' insertion from the next heading in both languages.
+- **265:** removed the previous poem's repeated running title and repaired two obvious Unicode replacement errors (`صبر`, `للہ`) in Urdu. Large amounts of remaining OCR wording still require lexical proofreading.
+- **264:** substantial small-print author notice remains partially transcribed, and multiple lines across 262–264 are uncertain; neither counted as full lexical clearance.
