@@ -127,3 +127,87 @@ Shah ne waqt-e-dafn aakhir band ki Asghar ki ankh
 - **159:** added the missing Roman divider before Waqar Mohsin's independent poem; the Urdu division was already present.
 - This is a numbered-stanza/poem-boundary check, **not** a completed lexical proofreading of 151–160. Small notes, harakat, and misread verse words need a separate image-verification pass.
 - Next: **161–170**; also audit missing content flagged on **137–138** and finish page-image comparisons for introductory **001–084**.
+
+## Page 137 — image-backed restoration
+
+Compared `original/137.png`. The print has **three** works in right-to-left order: the Zainab salam by Maulana Murtaza Azamgarhi; the Ali Akbar work by Kashif Zaidi; and the Muslim ibn Aqil poem on the left. The previous OCR omitted the complete Zainab salam, repeated the Ali Akbar piece, and misplaced titles/credits. Reconstructed and aligned both languages directly from the scan. A few small-print details remain for subsequent lexical proofreading.
+
+### Superseded 137 Urdu OCR (archived)
+
+```text
+کربلا کی شیر دل خاتون زینبؑ السلام
+[شاعر کا نام جزوی طور پر غیر واضح]
+---***---
+ہر سمت جہاں میں ہے شہِ اکبرؑ کا
+رتبہ ہے خلائق میں اعلیٰ علی اکبرؑ کا
+شبیرؑ جُھلاتے تھے عباسؑ کے جھولے کو
+عباسؑ جُھلاتے ہیں، جُھولا علی اکبرؑ کا
+ہمشکلِ پیمبرؐ کے، نیزہ نہ لگا ظالم
+ہے پھول سے بھی خوش تر، سینہ علی اکبرؑ کا
+سرورؑ نے سیناں کھینچی جب سینۂ اکبرؑ سے
+تو ساتھ کلیجہ بھی آیا علی اکبرؑ کا
+فریاد تھی سرورؑ کی، امداد کرو بابا
+اُٹھتا نہیں بیٹے سے لاشۂ علی اکبرؑ کا
+پوچھا گیا شہؑ سے کیوں خَم ہے کمر مولاؑ
+فرمایا اُٹھایا تھا لاشۂ علی اکبرؑ کا
+(بشکریہ سلام خواں سید باقر حسین اعظمی)
+
+کونین کی شہزادی دیتی ہے دُعا کاشفؔ
+زینبؑ کو جو دیتا ہے پُرسہ علی اکبرؑ کا
+
+ہر سمت جہاں میں ہے شہرۂ علی اکبرؑ کا
+رتبہ ہے خلائق میں اعلیٰ علی اکبرؑ کا
+شبیرؑ تھماتے تھے عباسؑ کے جھولے کو
+عباسؑ جھلاتے ہیں جھولا علی اکبرؑ کا
+شبیرؑ کے [لفظ غیر واضح]، نیزہ نہ لگا ظالم
+ہے پھول سے بھی خوب تر سینہ علی اکبرؑ کا
+سرور نے زباں کھینچی جب سینۂ اکبر سے
+تو ساتھ کلیجہ بھی آیا علی اکبرؑ کا
+
+فریاد تھی صغریٰ کی: امداد کرو بابا
+اٹھتا نہیں سینے سے لاشہ علی اکبرؑ کا
+پوچھا گیا جب شہؑ سے: کیوں غم ہے مگر مولا
+فرمایا: اٹھایا تھا لاشہ علی اکبرؑ کا
+کونین کی شہزادی دیتی ہے دعا کاشف
+زینبؑ کو جو دیتا ہے پرسہ علی اکبرؑ کا
+```
+
+### Superseded 137 Roman OCR (archived)
+
+```text
+Karbala ki sher-dil khatun Zainab assalam
+[Shair ka naam juzwi taur par ghair wazeh]
+---***---
+Har samt jahan mein hai Shah-e-Akbar ka
+Rutba hai khalaeq mein aala Ali Akbar ka
+Shabbir jhulate the Abbas ke jhule ko
+Abbas jhulate hain, jhula Ali Akbar ka
+Hamshakl-e-Payambar ke, neza na laga zalim
+Hai phul se bhi khush-tar, sina Ali Akbar ka
+Sarwar ne sinan khinchi jab sina-e-Akbar se
+To sath kaleja bhi aaya Ali Akbar ka
+Faryad thi Sarwar ki, imdad karo Baba
+Uthta nahin bete se lasha Ali Akbar ka
+Puchha gaya Shah se kyun kham hai kamar Maula
+Farmaya uthaya tha lasha Ali Akbar ka
+(Bashukriya salamkhwan Syed Baqir Husain Azmi)
+
+Kaunain ki shahzadi deti hai dua Kashif
+Zainab ko jo deta hai pursa Ali Akbar ka
+
+Har samt jahan mein hai shohra-e-Ali Akbar ka
+Rutba hai khalaeq mein aala Ali Akbar ka
+Shabbir thamate the Abbas ke jhule ko
+Abbas jhulate hain jhula Ali Akbar ka
+Shabbir ke [lafz ghair wazeh], neza na laga zalim
+Hai phul se bhi khub-tar sina Ali Akbar ka
+Sarwar ne zaban khinchi jab sina-e-Akbar se
+To sath kaleja bhi aaya Ali Akbar ka
+
+Faryad thi Sughra ki: imdad karo Baba
+Uthta nahin sine se lasha Ali Akbar ka
+Puchha gaya jab Shah se: kyun gham hai magar Maula
+Farmaya: uthaya tha lasha Ali Akbar ka
+Kaunain ki shahzadi deti hai dua Kashif
+Zainab ko jo deta hai pursa Ali Akbar ka
+```
