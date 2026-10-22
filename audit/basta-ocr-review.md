@@ -318,3 +318,11 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **267:** added the entire first line of stanza 4 to the Roman file from Urdu and print (`Mil jati us jari ko agar jang ki raza`), correcting its 3-line OCR truncation. Fixed visibly mixed Latin/Arabic text `کنبہِ Rasulول` to `کنبۂ رسولؐ` in the heading of the next marṡiya.
 - **267:** separated the independent **Suhail Shah** couplet from the preceding numbered poem and separated the *Fātiḥa/memorial dedication* from poetry, retaining all text and both scripts. The memorial's printed names still need an exhaustive transcription pass; existing placeholder flagged rather than invented.
 - Next finish 268–270, then begin 271–280. These pages are structurally collated but **not** word-by-word certified.
+
+## Batch 18C — scans 268–270 and completed 261–270 range
+
+- Original scans **268–270** reviewed, concluding consecutive **261–270 structural coverage**. **268** continues 267 stanza 4–9; **269** new 1–5 plus two independently printed couplets; **270** new 1–4. Transcribed both scripts where source was clear.
+- **269:** restored all six lines of stanza 5 from the print (previously scattered incorrectly under later poet attributions), replaced mixed-script `Imamام`, added printed **Nasim Amrohvi** credit to the poem, and separated printed verses by **Tajammul Lakhnavi** and **Samar Hoshangabadi** as their own poems in both languages. The Samar first line's opening is not reliably legible and remains explicitly flagged; the second line is retained.
+- **270:** moved printed author **Nasim Amrohvi** beside the poem heading, removing duplicate trailing title/credit in Urdu and Roman.
+- The 261–270 passes are **structural and selective OCR recovery**, NOT exhaustive word-by-word proofreading. Review ambiguities on pp. 261, 263–264, 267 memorial, and 269–270 during transcription clearance.
+- Next scan-backed structural range: **271–280**. Remaining: 001–084 and full lexical review across previously checked ranges.
