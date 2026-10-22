@@ -451,3 +451,7 @@ The opening-line repetitions printed after a poem's last stanza are **intentiona
 The user's correction supersedes earlier cleanup: **printed repetitions of a poem's first line at its conclusion must remain**. Verified scans and restored source-printed closing repetitions in BOTH languages: **261** `سر جو شبیر...` before acknowledgement; **263** `حسینؑ بے کس ...` before next printed poem; **265** `شام سے جب...` after the last stanza and before next poem; **267** `جب چھوٹ کے قید شام...` before the independent Suhail Shah piece; **270** `وطن میں جب حرم...` at the poem's end. These were wrongly removed in prior scan-order passes.
 
 The previously partially reconstructed **261 stanza 6** still contains doubtful word choices; do not mark lexical clearance before enlarged-scan recheck. Print-authoritative repetitions are NOT stray OCR labels, even when also used for site headings.
+
+## Retrospective refrain correction R2 — original scans 274–279
+
+Reviewed enlarged prints and restored genuine end-of-poem printed repetitions in both scripts on **274** (closing of Mukhtar work), **275** (closing of `حسین، سبطِ رسول...`), **276** (`وا حسرتا...` before acknowledgment), **277** (`ہاں دوستو کمی...`), **278** (`ماں کا جو سایہ...`), and **279** (`آیا بہت قریب نبی...`). Refrains retain *corrected source wording*, not corrupt earlier OCR headings. The user requires these deliberate print repetitions to remain at the **end**, even where the heading appears at the start as well.
