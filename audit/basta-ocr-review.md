@@ -473,3 +473,7 @@ Restored genuine printed first-line repetitions at the end of poems on **297**, 
 ## Source ambiguity correction — enlarged scan reads 261, 301, 302
 
 Source magnifications were used rather than accepting OCR guesses or retaining placeholders: **261 stanza 6** begins `خالی یہاں غسل جو دینے لگیں بچی کو رباب`; removed the first-line uncertainty marker, and added paired Roman transcription. **301 stanza 8** has `بیٹے پہ صدقے ہونے کو نکلی لحد سے ماں` followed by `پہنچے نجف سے حیدرِ کرار نوحہ خواں`; corrected the misread third line and filled the previously missing fourth line in both scripts. **302 stanza 1** line three is `یہ دشمنوں پہ مطلبِ شبیرؑ کھل گیا`, and the previously unclear fourth is `لعیں قریبِ مرقدِ سلطانِ انبیا`; corrected both paired scripts. These are *actual print-backed lexical repairs* rather than merely changing page structure.
+
+## Retrospective refrain correction R5 — scans 210–213
+
+Enlarged originals show closing repeats deliberately printed at **210** (`جب ہوئی ظہر تلک ...`), **211** (`اقربا کٹ گئے...`), **212** (`جب خاتمہ بخیر ...`), and **213** (same work's closing repetition before the new poem). Restored all four in both scripts *at the print location*, reversing earlier removal as alleged running-title OCR noise. Source repeats may appear on multiple consecutive pages when printed: preserve each occurrence rather than deduplicate.
