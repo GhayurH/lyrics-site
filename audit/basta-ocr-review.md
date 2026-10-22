@@ -6,6 +6,8 @@ Scope: Compare both `src/data/basta/pages/NNN.md` (Urdu) and `src/data/basta/rom
 
 ## Committed corrections
 
+- **284**, both: merged the user's two manual Urdu page-284 corrections from `main`, then reconciled the Roman text line by line to that Urdu (including the missing fourth misra, the stanza-3 line, title ending, and will's imperatives). Verified against original scanned page 284; the user-edited Urdu remains authoritative.
+
 - **098**, both: repaired OCR mixing between stanzas 3–6, restored missing printed lines, made six independent six-line stanzas, kept credits with their respective stanzas, removed a duplicate divider.
 - **107**, both: corrected the corrupted opening verse/title using the scan and moved the second poem divider in front of the title and poet.
 - **108**, both: removed the mislocated couplet from the opening poem, split the separate manqabat and left-column poem, restored the latter's poet (Mirza Dabir), and isolated the two concluding standalone couplets with dividers.
