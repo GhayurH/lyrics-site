@@ -469,3 +469,7 @@ Restored the scan-printed repeated first lines at the **ends** of poems on **292
 ## Retrospective refrain correction R4B — pages 297–300
 
 Restored genuine printed first-line repetitions at the end of poems on **297**, **298**, **299**, and **300**, in both scripts. The repeat on 298 is positioned before the printed acknowledgment; 299 and 300 close their earlier poem before the next separate work. These source-authentic lines were wrongly stripped during earlier structural cleanup.
+
+## Source ambiguity correction — enlarged scan reads 261, 301, 302
+
+Source magnifications were used rather than accepting OCR guesses or retaining placeholders: **261 stanza 6** begins `خالی یہاں غسل جو دینے لگیں بچی کو رباب`; removed the first-line uncertainty marker, and added paired Roman transcription. **301 stanza 8** has `بیٹے پہ صدقے ہونے کو نکلی لحد سے ماں` followed by `پہنچے نجف سے حیدرِ کرار نوحہ خواں`; corrected the misread third line and filled the previously missing fourth line in both scripts. **302 stanza 1** line three is `یہ دشمنوں پہ مطلبِ شبیرؑ کھل گیا`, and the previously unclear fourth is `لعیں قریبِ مرقدِ سلطانِ انبیا`; corrected both paired scripts. These are *actual print-backed lexical repairs* rather than merely changing page structure.
