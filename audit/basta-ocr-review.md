@@ -396,3 +396,10 @@ Khun donon kuhniyon se tapakta tha khak par
 ```
 
 - Structurally audited **271–280**, completing consecutive **85–280 (196 pages)**, though none of these pages is declared comprehensively word-by-word proofread. Next batch: **281–290**, with all previous transcription flags and introductory **001–084** still in scope.
+
+## Batch 20A — pp. 281–283: major scan-backed order fix
+
+- Checked scans **281–283** and paired MD. **281** printed RIGHT column has stanza **4** completing the work from **280**, then two distinct short credited works (Iqbal Kazmi, Ijaz Aslam), followed by acknowledgments and memorial notice; its LEFT column begins an entirely new poem stanza **1–3** (`اے اُمتیو روؤ ...`). The OCR had erroneously titled the new poem with a line of stanza 4, placed stanza 4 after its numbered stanzas 1–3, and merged all short works and notes. Restored printed right-to-left order in both scripts; repaired independent couplets and the stanza-3 final couplet from the scan.
+- **282** continues the poem begun on 281 with printed stanzas **4–6**; OCR called them **5–7**, now renumbered both scripts. New second poem starts on left of 282 at stanza 1. Corrected its heading and placed **Nasim Amrohvi** attribution with its beginning, rather than at p283 end.
+- **283** runs stanzas 4–8 of the poem begun on 282; removed redundant footer title and author in both scripts.
+- **281** stanza-4 and certain small-print lines remain for full lexical collation: printed-source ordering is corrected, not all words fully proofread.
