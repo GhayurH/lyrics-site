@@ -498,3 +498,12 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **315:** restored missing second line of stanza 7 `رات بھر اشک رہے دیدۂ تر سے جاری`; replaced an entire unclear-verse placeholder with printed `تین کشتوں کو مقتل پہ تڑپتے دیکھا`. Both Urdu and Roman match the scan. Retained the printed `قید ہو کر جو چلے شہرِ مدینہ سے تقیؑ` closing repetition before the next poem.
 - **320:** corrected obviously garbled Roman OCR phrases in the final stanza of its second poem, while preserving its printed stanza structure.
 - **311–312, 314, 316–319:** print/numbering checked; unresolved individual word readings remain for full lexical audit. This is structural plus targeted source disambiguation, not exhaustive word-level clearance.
+
+## Batch 23B — original prints 321–330
+
+- Inspected printed images **321–330** in right-to-left column sequence; the numbered continuations and page-to-page verse groups are in the expected order, and printed opening-line repetitions are deliberately retained. **321** continues the preceding poem (3–8); **322–325** start new numbered works; **326** ends p325 (7–8) and begins an independent poem (1–3), **327** completes that poem (4–8); **328–330** start the multi-stanza-free `نوحہ جات` collection with distinct pieces already separated at 329 and 330.
+- **322:** inserted the source-printed repeated opening line `جب کربلا سے لٹ کے وطن کو حرم پھرے` and attribution **Amir Cholsi** *after stanza 3*, exactly at the right-column footer, before stanza 4 in the left column, Urdu and Roman. The rest of the printed poem follows and is preserved. This printed repeat is not a final-page duplicate to delete.
+- **323:** restored printed author **Zuhur Charchavi** after the repeated first line in both scripts.
+- **326:** moved the previous poem's printed closing refrain `جانِ نبیؐ و خاصۂ داور ہے فاطمہؑ` from incorrectly preceding the new heading to the actual end of the previous numbered poem, before the divider; both scripts updated.
+- **324–325, 327–330:** existing group/numbering structure checked against scans and no high-confidence movement was warranted. Some lexically corrupted passages (especially the small type in 329–330) remain for full transcription checking.
+- Audit has now covered the consecutive structural range **085–330 (246 pages)**, but does not imply full word-level clearance. Next review: 331–340; still pending retrospective source-printed closing lines on earlier 085–209 and full lexical disambiguation.
