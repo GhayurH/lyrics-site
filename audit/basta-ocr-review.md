@@ -211,3 +211,12 @@ Farmaya: uthaya tha lasha Ali Akbar ka
 Kaunain ki shahzadi deti hai dua Kashif
 Zainab ko jo deta hai pursa Ali Akbar ka
 ```
+
+## Batch 8: pages 161–170 — printed stanza order and independent short poems
+
+- Compared all **161–170** original scans with the Urdu and Roman markdown. Numbered sequences align across page boundaries: 161 (4–5/new 1–3), 162 (4–5/new 1–3), 163 (4–6/new 1–3), 164 (4–8), 165 (1–6), 166 (7–10), 167 (1–6), 168 (7–8/new 1–3), 169 (4–5/new 1–3), and 170 (4–6/new 1–3). No numeric stanza reorder was warranted.
+- **161:** recovered the printed independent Professor Iqbal Azim couplet between the two marāsī, in Urdu and Roman. Source's tiny supplementary attribution remains to be checked in a lexical pass.
+- **164:** separated Akhtar Hashmi's independent verse after stanza 8 and corrected the poet's corrupted name in both scripts.
+- **168:** separated Saqib Muzaffarpuri's short work from the numbered marṡiya in both scripts.
+- **169:** separated the independent Ijaz Rahmani and Nasir Turabi couplets from the preceding poem and one another, in both scripts.
+- **162–163, 165–167, 170:** printed structural reading order inspected without additional safe changes. The words still need a full manual proofread. Resume structural checks at **171–180**.
