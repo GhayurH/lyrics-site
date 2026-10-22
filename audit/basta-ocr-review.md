@@ -255,3 +255,14 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **205:** separated the independently credited Azmat Bilgrami quatrain from the preceding marṡiya, in both scripts, while retaining its printed words.
 - **207:** fixed the Urdu inherited/corrupted heading to the printed `جب ماریہ کے دشت میں وارد ہُوا زعفر` and harmonized the Roman spelling of `زعفر` as `Za'far` throughout this page. Exact lexical text and small-print nuances remain for subsequent proofreading.
 - **202–204, 206, 208–210:** order checked, no other certain sectioning repairs. Full word-by-word transcription, diacritics, and editorial judgment still outstanding. Next structural batch: **211–220**.
+
+## Batch 13: original scans 211–220 — running labels and author credits
+
+- Compared original scans **211–220** with both Urdu and Roman files, reading right column before left. Numbered stanzas were already in sequence: 211 (1–4), 212 (1–6) → 213 (7–9/new 1–3) → 214 (4–8), 215 (1–6), 216 (1–6) → 217 (7–10), 218 (1–6) → 219 (7–10), 220 (new 1–6). No stanza reorder necessary.
+- **210** (cross-page cleanup), **211**, **212**, **214**: removed recurring printed page-end title labels in both scripts, preserving genuine **Mirza Dabir** attribution by moving it beside the p.210 title.
+- **213:** removed an inherited title from the previous poem above its second, new work; retained the correct break.
+- **215:** attached printed poet **Mir Anees** to the poem title, rather than leaving the credit below a repeated footer.
+- **216–217:** attached **Ata Akbarabadi** at the start of his work on 216 and removed duplicated running label at the bottom of 217.
+- **219:** separated the printed supplication for the deceased and the entire memorial name list from the preceding poem, preserving all names. Corrected the distorted final Roman name to `Syed Shabih-ul-Hasan Naqvi`.
+- **218 and 220:** no confident structural correction identified. Stanza **219:10** bears a printed X indicating potential omission in an abridged recitation; retained in full as source.
+- This is structural/attribution collation **only**. Lexical transcription and harakat remain outstanding on these pages. Continue next with **221–230**. Front matter **001–084** and complete word-by-word comparison remain in scope.
