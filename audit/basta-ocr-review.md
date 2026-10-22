@@ -432,3 +432,16 @@ Khun donon kuhniyon se tapakta tha khak par
 - **299–300:** attached printed **Nasim Amrohvi** to beginning of `ہاں دوستو یہ وقت...` on 299, removed duplicate following-page label on 300, split independently credited **Shahid Jafar** couplet and printed *Fātiḥa memorial* into their own sections without deleting text in either script.
 - **300** begins a second, separately numbered work `دشمن معاویہ...`; its division was already correct. Partial memorial names, printed alternate verse omissions, and lexical OCR issues remain for the later full proofreading pass.
 - Structural review completed **085–300 (216 consecutive pages)**. Next order batch **301–310**, then preliminary **001–084** and unresolved lexical/source issues. This log does NOT assert word-by-word completion.
+
+## User-required printed closing-refrain preservation and scan audit, pp. 301–310
+
+The opening-line repetitions printed after a poem's last stanza are **intentional printed text**, not OCR garbage. Preserve them in their source location, including when the poem continues from a preceding page or has another new poem afterward. Earlier removal of these lines was incorrect; audit and restore previous batches separately.
+
+- Examined scans **301–310** alongside paired Urdu/Roman Markdown. Printed stanza numbering is intact on 301–305 and 308–310; **306–307** feature a repeated source stanza, which should remain because it appears twice on the physical scans.
+- **301, 302, 304, 309:** restored printed repetitions of the opening line at the ends of the respective poems in *both* scripts, not headers for the next poem.
+- **304:** separated the independent Zahid Taqvi couplet and memorial note, and corrected its second line to the scan's `آواز پہنچ جاتی ہے جنابِ علیؑ تک`, matching Roman. Memorial names await closer inspection, not guessed.
+- **306:** Roman OCR omitted stanza 3 of the second poem; restored all its lines as printed (even though the page intentionally prints the same stanza elsewhere). Never deduplicate text merely because verses repeat in the source.
+- **307:** restored the printed last-line repetition and Nasim Amrohvi credit, the separate four-line piece by Alamdar Husain Aslam, and the printed Fatiha memorial names in both scripts. The first line of Alamdar's poem may need further micro-collation; the rest is readable.
+- **310:** corrected a repeated `Bibi` word in the Roman stanza, matching the scan.
+- **303 and 305:** source order checked; the print matches the extant stanza sequence. **308:** verified all five stanzas. This is not exhaustive lexical certification.
+- Next: retroactive restoration of all previously removed source-printed closing refrains in older batches, while maintaining author credits and user-manual pages 284/285.
