@@ -266,3 +266,13 @@ Zainab ko jo deta hai pursa Ali Akbar ka
 - **219:** separated the printed supplication for the deceased and the entire memorial name list from the preceding poem, preserving all names. Corrected the distorted final Roman name to `Syed Shabih-ul-Hasan Naqvi`.
 - **218 and 220:** no confident structural correction identified. Stanza **219:10** bears a printed X indicating potential omission in an abridged recitation; retained in full as source.
 - This is structural/attribution collation **only**. Lexical transcription and harakat remain outstanding on these pages. Continue next with **221–230**. Front matter **001–084** and complete word-by-word comparison remain in scope.
+
+## Batch 14 — pages 221–230 (printed stanza and independent works)
+
+- Original printed page scans **221–230** compared against Urdu and Roman MD, right column first. Numbered sequence verified: 221 (4–5/new 1–3) → 222 (4–7); 223 (1–6) → 224 (7–9/new 1–3) → 225 (4–6/new 1–3) → 226 (4–9) → 227 (10/new 1–3) → 228 (4–6/new 1–3) → 229 (4–5/new 1–3) → 230 (4–9). Not a full lexical/harakat clearance.
+- **222:** separated two independent printed couplets by Professor Karrar Husain and Rafiq Rizvi in both scripts.
+- **225:** moved the Roman divider *below* the two-line ending of the preceding poem's stanza 6, matching Urdu and print. No verses were deleted.
+- **229:** separated the independent Habib Jalib and Shahid Taqvi Allahabadi poems in both scripts; corrected the latter poet's name from `Shah`; fixed a corrupt Unicode/OCR control byte in Urdu stanza 3 against print.
+- **230:** removed a spurious poem divider between stanzas 5 and 6 of the SAME printed narrative in both scripts; preserved complete 4–9 sequence.
+- **221, 223–224, 226–228:** scanned for stanza order and poem grouping, with no additional confident ordering change. Both standalone couplets on 229 were present and retained, not missing from page 230.
+- **Open:** substantial lexical OCR issues in verse bodies and small-print remain. Continue scan-based structure at **231–240**, then return for complete word-by-word review and introductory **001–084**.
