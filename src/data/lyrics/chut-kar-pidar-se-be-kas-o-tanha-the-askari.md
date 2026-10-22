@@ -26,20 +26,20 @@ romanLyrics: |-
   Dam Torta Tha Qafila Salar-e-Ahl-e-Bait
   Majboor Tha Para Hua Mukhtar-e-Ahl-e-Bait
   Bistar Zameen-e-Sakht Ka, Takiya Tha Khisht Ka
-  Veerane Mein Aseer Tha Malik-e-Behisht Ka
+  Veerane Mein Aseer Tha Maalik Behisht Ka
   
   3
   Mauqa Mila To Zehr Diya Shah Ko Be-Gunah
   Lakht-e-Dil-e-Rasool Ki Halat Hui Tabah
-  Beemar Ho Ke Uth Na Saka Hujjat-e-Ilah
+  Beemar Ho Ke Uth Na Saka Hujjat-e-Ilaah
   Makkar Mutamid Sa Na Hoga Khuda Gawah
   Bheje Tabeeb Us Ne Dawa Karne Ke Liye
-  Posheeda Apna Haal Jafa Karne Ke Liye
+  Posheeda Apna Haal-e-Jafa Karne Ke Liye
   
   4
-  Shiddat Wo Tab Ki Zehr Ka Wo Sadma Giran
-  Aisa Tha Zof Kanpta Tha Jism Natawan
-  Maskan Abhi The Hujjat-e-Haq Sahib-uz-Zaman
+  Shiddat Wo Tap Ki Zehr Ka Wo Sadma-e-Giraan
+  Aisa Tha Zof Kanpta Tha Jism-e-Natawaan
+  Kamsin Abhi The Hujjat-e-Haq Sahib-uz-Zaman
   Tha Doosra Baras, Koi Kehta Hai Panchwan
   Jaan-e-Nabi Ne Bar-e-Imamat Utha Liya
   Is Kam Sini Mein Koh-e-Museebat Utha Liya
@@ -61,16 +61,16 @@ romanLyrics: |-
   Pyase Husain Ko Na Mayassar Kafan Huwa
   
   7
-  Ab Is Qalaq Se Hote Hain Tukre Se Dil-o-Jigar
+  Ab Is Qalaq Se Hote Hain Tukre Dil-o-Jigar
   Zulm Ahl-e-Bait Par Kiye Aada Ne Is Qadar
   Sajjad Jaise Roye Na Laash-e-Husain Par
   Yoon Hi Na Roya Askari Ki Laash Par Pisar
-  Durre Uthaye Gard-o-Baam Nabakar The
+  Durre Uthaye Gard Wahan Nabkaar The
   Aamada-e-Qatl Par Yahan Bidat-Shiar The
   
   8
   Maula Imam-e-Asr Huye Aap To Nihan
-  Bache To Kaise Abid Beemar-o-Natawan
+  Bachte To Kaise Abid-e-Beemar-o-Natawan
   Dena Tha Un Ko Sabr-o-Tahammul Ka Imtihan
   Wo Kufa-o-Dimashq Gaye Pehne Beriyan
   Islam Ka Tha Bar Mujahid Ki Pusht Par
