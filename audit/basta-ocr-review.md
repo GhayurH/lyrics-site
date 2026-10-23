@@ -903,3 +903,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - Inspected enlarged 059–060 print (right column then left). Corrected **059** the cited translator/author to `مولانا سید فرمان علی`, clarified the source's cited interpretive phrasing, and recovered important `لَهْوَ الْحَدِيثِ` discussion readings, notably `لونڈیاں`, `شد و مد`, and the author's distinction about the purpose of criticism. The exact title of the commentary remains unclear; do not invent it.
 - **060:** recovered source `لحن داؤدی اور حمد و مزامیر` and clarified authorial discussion of cautious scholars, explicitly preserving its original religious argument as the author's views, not an independent jurisprudential finding. Continue to leave unclear quotation details for a second visual check.
+
+## Batch 42B — print collation 061–063
+
+- **061:** corrected the page opening's `مذمت`, the author's warning that inaccurate devotional poetry may amount to `نادانستگی میں توہین معصومین`, and the named `ماتمی انجمنوں کی فیڈریشن`. Restored his description of devotional reciters' conduct in public and private life.
+- **062:** corrected the actual document heading `ادارۂ ترویجِ سوزخوانی کا اعلامیہ`, local-neighborhood coverage, and a paragraph on the **left** column incorrectly replaced by an OCR-generated editorial placeholder. The printed source continues directly into the requirement to be a sincere, competent, nonprofessional volunteer. The author's speculative reflection on Abbas and Sakina remains in his own cautious voice.
+- **063:** preserves the personal account's conclusion and the separate `اقوال معصومین` and contact notice; recovered the legible reference `روز خروج`. Addresses and phone numbers are historical information as printed, not freshly checked contact details. Short aphorisms and a few densely printed sentences still require a careful second lexical pass.
