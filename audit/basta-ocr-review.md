@@ -6,7 +6,7 @@ Source: `basta-clean.zip/original/NNN.png`.
 - **Current-file scan complete:** 219 Urdu MDs and 168 existing Roman MDs examined for uncertainty markers. Absent Roman pages are intentional.
 - **Status:** 54 pages still have markers; 165 have none.
 - **Rule:** Check the printed scan before replacing a live marker. Keep existing Urdu/Roman files synchronized. No guessing; a page with no markers is **not** word-by-word cleared.
-- **Latest:** restored a printed verse on 255, recovered part of 270's missing line, and corrected the Kaaba title on 124 (Urdu/Roman).
+- **Latest:** corrected the previously misread 270 couplet and recovered legible names on 135; uncertain portions retained.
 
 **Open marker pages (54):**
 
