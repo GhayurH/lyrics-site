@@ -861,3 +861,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **047:** restored `چونکہ اردو زبان` syntax, `ایک اچھے سوزخواں`, the technical lower/higher notes `کومل اور تِیور`, and the direct performance-style description `سنگینی اور متانت`.
 - **048:** corrected `گرد و غبار`, restored the need to hold one's breath (`سانس روکنے`) while rehearsing, and the printed English borrowing `اسٹیمنا` in the discussion of breath control. Kept the illustrative quoted lines and original prose order.
 - All are directly legible spot corrections, not an exhaustive lexical certification; obscured or dense details remain outstanding.
+
+## Batch 40D — enlarged p039 wording check
+
+- Revisited the source's left-column definition `معیاری و مستند سوزخوانی اور مکمل سوزخواں / استاد`. Recovered that it describes the appropriateness of the **performance**, not a soazkhwan's person: `جو سوزخوانی موقع، محل اور شخصیت کی مناسبت سے ہو`; restored `دل و دماغ کو متاثر کرے`, `روح میں تازگی و بالیدگی`, `ہر کس و ناکس`, and the closing criterion about the prescribed rules and preparation. Corrected `ہر شاگرد کیلئے اس کا استاد اور پارٹی کا سربراہ` from the same scan. Other obscured technical details on p039 still need checking.
