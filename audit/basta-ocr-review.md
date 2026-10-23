@@ -753,3 +753,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **442 and upper-right 443:** single Rahi Jahangirabadi satirical poem `شاعری`, with original right-column-first reading order and continuation to 443. Corrected numerous clear print/OCR mismatches (`یہ مفت میں شہرت`, `مفت میں شہرت`, `اوزان`, `موجود ردیف`, and selected wording in the final verse). Paired Roman retained line-to-line alignment. A few metrical technical terms require a further lexical check; not every OCR phrase is cleared.
 - **443 left:** source independently introduces `سلام / محترم مضغم زیدی`, not the previous OCR name. Preserved its printed individual two-line stanzas and divider. A full lexical collation of the Salam is still needed.
+
+## Batch 35C — original 444–445
+
+- **444–450** are the continuous long `وسیلۂ حیات (ماں، باپ)` poem; preserve source order (right column then left) and *every* printed `ہے ماں` ending. **444:** recovered print's `جب تھک کے سو جاتی ہے ماں`, `اوڑھتی ہے حسرتوں کا خود تو بوسیدہ کفن`, and `یتیموں کو` instead of OCR gibberish. **445:** corrected `اپنا دکھ اولاد کو`, reconstructed a whole couplet previously OCR-garbled about old age and solitude, and recovered `کھا کے ٹھوکر` and `نوکروں کی گودیوں`. Both scripts updated together. Other lines require another careful visual collation; no new poem dividers inserted.
