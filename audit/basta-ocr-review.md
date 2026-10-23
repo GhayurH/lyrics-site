@@ -682,3 +682,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **416** is otherwise occupied by the distinct `سوزخوانی` poem, independently credited Hilal Naqvi verse, and left-column `کوئی ایسا بھی ہوتا ہے`; corrected three meaningful readings and preserved all refrains.
 - **417** starts the Sibt Jafar `چھوڑ دے` poem on the right; the separate Dilawar Nigar `شرعاً حرام` text begins left and continues at top of 418. Corrected `اغیار سے دوستی چھوڑ دے`; the unusually complex Dilawar long poem still needs full verse-by-verse collation rather than OCR prose.
 - **418** next contains the independent `شہیدوں اور شہیدوں کے وارثوں کو سلام` across both columns. Updated source wording and Roman acknowledgment; avoid claiming full lexical clearance.
+
+## Batch 32C — 419–420 and p411 correction
+
+- **419:** first independent poem `اے میری بہن بے پردہ نہ پھر` reads right column into upper left, then `اے میرے برادر ایمانی` begins at the left-column divider and carries over to **420 right**. Preserved all printed refrain repetitions and source-directed text for its intended readers, fixing `میں شرم سے گڑ جاتا ہوں`, `نصیحت`, `علم و عمل تیری دولت`, and `ہر عالم و ذاکر` across Urdu/Roman.
+- **420:** the `اے میرے برادر ایمانی` poem concludes in the right column; an independent `یہ زندگی ہے تجھ سے اے جنت البقیعہ` begins in left column. Corrected `تعمیر کر نہ پائے`, `یہیں پر`, and `ہے آل کا خزینہ` without altering repeated printed `اے جنت البقیعہ` endings.
+- **411:** reverted an inadvertently duplicated OCR-correction line after enlarged scan comparison; explicitly flagged the uncertain opening words of the printed line instead of manufacturing a second `اور بیبیاں بازار میں ہیں ننگے سر` line. Further lexical check necessary.
+- This batch is structurally reviewed through **420**, not exhaustively word-by-word proofread; especially incomplete **412**, **417** long poem, and source-specific uncertainty on **411** remain outstanding. Next structural block **421–430**.
