@@ -514,3 +514,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **331:** corrected the opening poem's OCR-corrupted heading (`چھانے` rather than `جہاں`) and recovered the missing words after `اصغر` from the enlarged printed line. Kept the printed independent Ahmad Nadeem Qasmi and Zakir Husain Zaidi sections separate; the lower quotation and more body verses still need lexical collation.
 - **333:** restored several first and later stanza readings from magnified print, corrected the third stanza as it continues from the bottom of the right column to the top of the left, and removed the OCR's spurious duplicated two lines. All **five printed refrain pairs remain** after their respective stanzas; Urdu and Roman are aligned.
 - Remaining pages in the scanned 331–340 group require targeted lexical correction, especially p. 332's verse lines, the source Arabic and short-print poems on 334, and the visibly corrupted verses 335–340. Do not mark these as word-by-word verified.
+
+## Batch 24B — p. 339–340 source order corrections
+
+- **339:** corrected two misread printed words (`جل چکا` and `سہہ چکی`) in Urdu; aligned Roman with the revised Urdu reading. The repeated `میرے غریب الوداع` lines remain intact.
+- **340:** rebuilt the right-hand `میرے بابا` poem into its printed successive verse groups and retained **all eight printed `میرے بابا میرے بابا` refrains**. Recovered print-visible missing lines and the reply/dialogue in the concluding verses, reflecting them in Roman. The source contains small or problematic readings in verse 3 and the following stanza, so further lexical collation is needed; the retained earlier OCR there is not certified.
+- **340 left:** corrected the printed `کن تمناؤں کا تھا ابنِ حسنؑ کا سہرا` title/opening (no inserted `اے`) and byline **Maulana Rahi Jafari Abadi**. The later body still needs word-by-word collation.
