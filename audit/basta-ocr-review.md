@@ -552,3 +552,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **353:** filled the Roman ending `Kar de zalim ka jald se safaya` from the Urdu and visible scan, replacing the visibly incomplete OCR tail.
 - **355:** the source explicitly prints poet **Shor**, not `Shorur`, and its earlier line says `گوہر نہ چھین بہرِ خدا`. Corrected both scripts. Also fixed the separate section title to **`سُر کڈارو کا منظوم اردو ترجمہ`** (the Sindhi Sur Kedaro) rather than corrupted `سر کٹداروں کا مظلوم...`.
 - Page scans **351–360** have now had a first structural comparison, with some source-backed lexical fixes. This is not exhaustive transcription clearance.
+
+## Batch 27A — originals 361–363
+
+- Compared original scans **361–363**, reading right column first. **361:** recovered four full formerly uncertain four-line stanzas of the `شہید ابرار نے ترک وطن کر دیا` poem directly from print in both scripts. Kept all six printed refrains in their actual locations. The left column is a distinct `مختصر زیارات` section. Its Arabic is present in Urdu Markdown but the Roman contains substantially corrupted transliteration that requires a separate careful Arabic transliteration pass.
+- **362:** preserved the opening hamd's continuation at upper left; added printed poem boundaries before Iqbal's Persian quatrain and Syed Hashim Raza Hashim's separate couplet in both versions.
+- **363:** recovered the previously omitted two lines in the Abu Talib manqabat and corrected `جاں اپنی چلی جائے، بچ جائے محمد کی` as printed. Also corrected the `پیٹ پہ باندھا` reading in the preceding Syed Sibt Jafar naat. Other small print/glyph uncertainties remain for full lexical collation.
