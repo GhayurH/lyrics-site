@@ -520,3 +520,13 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **339:** corrected two misread printed words (`جل چکا` and `سہہ چکی`) in Urdu; aligned Roman with the revised Urdu reading. The repeated `میرے غریب الوداع` lines remain intact.
 - **340:** rebuilt the right-hand `میرے بابا` poem into its printed successive verse groups and retained **all eight printed `میرے بابا میرے بابا` refrains**. Recovered print-visible missing lines and the reply/dialogue in the concluding verses, reflecting them in Roman. The source contains small or problematic readings in verse 3 and the following stanza, so further lexical collation is needed; the retained earlier OCR there is not certified.
 - **340 left:** corrected the printed `کن تمناؤں کا تھا ابنِ حسنؑ کا سہرا` title/opening (no inserted `اے`) and byline **Maulana Rahi Jafari Abadi**. The later body still needs word-by-word collation.
+
+## Batch 25 — pp. 341–350 initial print-order comparison
+
+- Inspected original prints **341–350** against the Urdu page files and corresponding Roman stream. Pages 342–345 are a consecutive two-column tale, and p. 347 follows the independent poem at the end of p. 346 before beginning a new poem; retain original right-column-first sequences. This is an initial order/layout comparison **only**, not full lexical clearance.
+- **341:** inserted a proper poem divider before the independently printed Qamar Zaidi verse; removed the corrupt repeated `Shah-e` in Roman.
+- **342–345:** removed unprinted `[بائیں کالم]` / `[Bayen kalam]` OCR scaffolding from the middle of the published poems; retained the verse sequence. Removed a spurious editorial completion label from 344 and standardized the printed ornamental separator. Corrected the Roman double `Sham-e` in 342's title.
+- **346:** corrected obvious Roman `lungi` artifacts that had been substituted for the Urdu future-tense verbs in the printed refrain/title and subsequent lines. The rest of the transcription on 346–347, including its difficult long salam, needs manual source-word checking.
+- **349:** removed unprinted continuation labels in both scripts, while **keeping the actual repeated refrain at the top of the left column**. Corrected a Roman duplicated phrase in its later verse.
+- **348, 350:** original layouts inspected; no safe additional stanza-order edits made in this batch. Both contain unverified verse-level transcription errors.
+- Small-font acknowledgment names and source-word uncertainty still require full comparison against enlarged prints on these pages. Next order batch: **351–360**. Retrospective closing-line audits, introductory pp. **001–084**, and complete lexical proofreading remain outstanding.
