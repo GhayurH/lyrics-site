@@ -6,7 +6,7 @@ Source: `basta-clean.zip/original/NNN.png`.
 - **Current-file scan complete:** 219 Urdu MDs and 168 existing Roman MDs examined for uncertainty markers. Absent Roman pages are intentional.
 - **Status:** 28 pages still have markers; 191 have none.
 - **Rule:** Check the printed scan before replacing a live marker. Keep existing Urdu/Roman files synchronized. No guessing; a page with no markers is **not** word-by-word cleared.
-- **Latest:** 083: replaced invented acknowledgments and an unsupported book reference with scan-grounded text; an incomplete sentence stays marked.
+- **Latest:** 084: removed an invented speaker/date claim and corrected an award nominee against the print.
 
 **Open marker pages (28):**
 
