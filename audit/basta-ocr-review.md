@@ -945,3 +945,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **067:** restored the printed testimonial's `بغیر کسی نذرانہ و معاوضہ کے` rather than an inserted generic personal-interest gloss, and recovered its description of the author's work with selected, quality elegiac texts. Many further multi-line deviations in the scan remain unverified.
 - **068:** the opening is `دس شہروں کا دورہ کرنا آسان ہے`, not OCR's nonsensical `کل شہروں کا وارث`. Corrected other explicit source phrases about the reviewer's familiarity with sozkhwani and its technical difficulties. No invented proper-name changes. The writer's expressed evaluation has been preserved as endorsement, not rewritten into an editorial note.
 - Scanned all of **059–068** for continuing page order and text type. Substantial OCR ambiguity remains on 060–061's legal reasoning, 062–063 prose, biographies 064–066, and detailed testimonials 067–068. The site build has not been run; further lexical passes still required.
+
+## Batch 42E — zoom clarification on 062 and missing 065 biography credit
+
+- **062:** corrected the previous provisional reading at the opening of the student invitation to exactly the source's `نظم و لحن میں مدحِ اہلِ بیتِ معصومین`; the difficult words in the following indirect-training clause remain bracketed. This was a necessary correction of an earlier ambiguous reconstruction.
+- **065:** reinstated the printed (OCR-omitted) 1991 PTV ten-program credit describing a research series on `صوتی علوم و فنون اسلامی`. Its exact series title is too small to certify, so it is explicitly left marked rather than invented. Neither correction alters the rest of the biography.
