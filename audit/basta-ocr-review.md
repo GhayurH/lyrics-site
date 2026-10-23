@@ -545,3 +545,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **360:** corrected the first work's printed `نبی کی آل` and two Roman misreads; inserted the original distinct couplet section for Syed Ghulam Syedain Rizvi after the earlier poem/acknowledgment, and normalized printed section breaks before the Sabira Kazmi and Syed Ali Ansar works (rather than double/unprinted separators). Fixed the clearly printed `کیوں آہ و زاری` in both versions.
 - **352–353, 355, 359:** scans checked for poem boundaries and left/right progression; no broad automatic re-transcription. Small-print names and many other OCR passages on pp. 351–360 remain unresolved and must not be claimed as word-by-word certified.
 - Next scan-order section: **361–370**. Preserve repeated refrains verbatim.
+
+## Batch 26C — targeted source disambiguations 352, 353, 355
+
+- **352:** restored the printed `صبر کر` repetition in the first lyric, corrected `ساعتِ شامِ غریباں`, and removed multiple nonsensical `lungi` / `aayen hue` Roman OCR substitutions where the Urdu/source makes the verb clear. The many remaining misread words have not been marked clear.
+- **353:** filled the Roman ending `Kar de zalim ka jald se safaya` from the Urdu and visible scan, replacing the visibly incomplete OCR tail.
+- **355:** the source explicitly prints poet **Shor**, not `Shorur`, and its earlier line says `گوہر نہ چھین بہرِ خدا`. Corrected both scripts. Also fixed the separate section title to **`سُر کڈارو کا منظوم اردو ترجمہ`** (the Sindhi Sur Kedaro) rather than corrupted `سر کٹداروں کا مظلوم...`.
+- Page scans **351–360** have now had a first structural comparison, with some source-backed lexical fixes. This is not exhaustive transcription clearance.
