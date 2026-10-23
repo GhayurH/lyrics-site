@@ -965,3 +965,29 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **077:** corrected `متعدد مقاصد`, `پیشہ ور خطبا`, `ریاکاری شرعاً حرام ہے`, and `خوش فہمی`. Removed a spurious marker falsely attributing the ongoing **Aal Muhammad Zaidi** text back to Aqeel Abbas Jafri.
 - **078:** corrected the opening sentence and the training period to **۱۹۸۰ء–۱۹۹۰ء**, the reference to Ustad Masood Amrohvi's art, and the repeated OCR corruption `وارثی` for printed **`داڑھی`**; removed the invented `مجلس` from a list of media/recitation genres.
 - This is a **targeted source-verified correction batch**, **not full word-for-word clearance**. All ten pages still contain additional uncollated OCR wording and some unclear small print. Retain the author's views and historical claims as original-source text, not externally verified assertions. No local build or automated lint was run. Continue **079–084**, then return to flagged lexical uncertainties across the preliminaries.
+
+## Batch 44 — preliminary pages 079–084: scan-backed targeted collation
+
+- Compared printed images **079–084** with their Urdu Markdown. Repaired source-confirmed wording on **079** (opening of a continuation, the `مراسمِ عزا` reference, and an OCR-invented section break), **080** (the continuation of Shahid Naqvi's quotation), **081** (Noha-khwan Hasan Sadiq and Nadim Raza Sarwar labels, and the printed musical lineage), **082** (Ghulam Farid Sabri's kinship and the printed couplet), **083** (incorrect former-speaker note and a corrupted biographical opening), and **084** (removed invented bracketed note and restored the first-edition date).
+- The two columns and cross-page continuation of the printed testimonials were inspected; **these pages are not yet independently cleared word by word**. Several long paragraphs still diverge from printed prose. Maintain that uncertainty rather than fabricating a smooth paraphrase.
+
+## CSV error-report audit — first active entries
+
+Source: `audit/basta-error-report.csv`. **Ignore its first three entries** for the printed postal address, reference, and date on page 004. The report is a historical snapshot, not a continuously refreshed set of present errors.
+
+- **022–025:** original CSV flagged unrecognized words in table-of-contents pages, but current MD files are `imageOnly: true` and no longer contain these OCR readings. **Stale / not present**, not independently transcribed or word-by-word resolved; preserve the original scan-only arrangement.
+- **026:** *active* — consulted printed `original/026.png`, rearranged all eight short biographies in correct full **right-column then left-column** order, and restored the legible **عظیم الحسن آگرہ** and **محبِ اہلِ بیت**. An unresolvable woman's proper name and other biographical detail remain flagged. The English page heading **SOME LEGENDS OF SOAZKHWANI** is printed and is **not an error**.
+- **030–031:** `SRC`, `EMI`, `AVT`, `Practical, Original & Genuine`, `Standard Time / Duration`, `Transliteration`, `Scaling`, and `Notations` are **genuine printed English/romanized terms**, not mistakes to erase. Several proper names still need collation; no guess-based substitutions made.
+- **032:** corrected the actual printed **مدظلہ** after زائر حسین شاہ صاحب. `USA`, `UAE`, and `ADM` appear in print and are not Latin-text errors.
+- **033:** corrected the printed printer name **آلِ شیعہ پرنٹرز**. `IRC` appears in the scan and should stay. The title list at the right still contains obscure words and remains unverified.
+- **034:** no currently surviving bracketed `غیر واضح` placeholder in the file at the time of checking; audit row needs refreshed contextual comparison if it concerned another wording defect.
+- **035:** recovered **تمکین تقوی**, **شہزاد اللہ دتہ**, **کلفٹن کراچی**, and **استاد نظام الدین خان** from the image. Numerous other historical names and roles remain ambiguous; do not guess.
+- **036:** restored the omitted source clause **ہمارے سوزخوانوں کے حافظے، گلے...** describing where compositions are kept.
+- **037:** recovered the printed description of placing a `بیاض` on a cushion, called a `بستہ`, and of the `بازو` and leader.
+- **038:** recovered the clearly legible **جوش و خروش اور راغب و ملتفت**; other technical terms remain for close comparison.
+- **039:** image and text inspected; two obscured technical sections remain pending further close collation.
+- **181, 265:** all three `replacement_character` CSV flags are **already absent** from the current Urdu files; current readings include `سَر كاٹنے`, `صبر`, and `للہ لے چلو`. Treat them as historical, not new errors.
+- **Other CSV entries are not yet cleared.** Roman-text placeholders on lyric pages must be corrected together with their Urdu counterparts from the printed images. Do not call a Roman/Urdu alignment check source verification.
+- Keep real English words, original names, marked textual uncertainty, poem-end first-line repetitions, and printed stanza boundaries intact. Do not turn unresolved uncertainty into invented quotations.
+
+Next: continue sequential source-backed checks of remaining CSV rows, including unresolved page 039 issues and later reported Urdu/Roman lyric pairs. Website `npm run build` remains unrun in this remote-edit environment.
