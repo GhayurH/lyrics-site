@@ -826,3 +826,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **039:** in the cited Mahdi Zafar Aziz quatrain, corrected nonsensical OCR `ہر ذکرِ شہ تو خدا دور پاک کر پہلے` to the source's `ہو ذکرِ شہ تو فضا کو پاک کر پہلے`. Preserved the following three couplet lines.
 - **074:** in Mirza Muhammad Ashfaq Shorish Lakhnavi's tribute, restored the printed reference to `عترت کے فضائل` instead of `عزت کے فضائل`, `مجلسِ صدا` rather than `بزمِ صدا`, and the named pair `عقیل و اختر` in the accompanying line. The two separate credited pieces on this scan remain distinct.
 - Earlier pages **003–027** and **029–084** now all have a corresponding Markdown page or imageOnly record. **028** remains absent from the source archive. No site build or comprehensive detailed lexicon review has yet been run.
+
+## Batch 39A — lexical page check 029–032
+
+- Opened the printed source pages 029–032 at double resolution and checked the two-column source in right-column-then-left order. **029:** changed OCR `بکھرا موجود` to printed `ہمیشہ موجود`, `جرائد` to `مجامع`, repaired `عملی مظاہرے`, `سیکھنے سکھانے`, and minor wording/spacing around the founding of the training institution. **030:** rechecked the PTV/recording chronology and restored `انہی کی کوششوں سے جاری ہوا تھا`, the label `شاہد ریکارڈنگ کمپنی`, and `رنگارنگ البم`; **031:** corrected `بیرون ملک مقیم` instead of the non-word phrase `پھر یوں ملک مقیم`. 
+- The print is dense prose. Unchanged words, especially proper names and exact company labels on 030 and many clauses on 032, are **not** considered fully verified. Preserve source's trans-page continuation; no poem dividers or Roman pseudo-transcriptions should be added.
