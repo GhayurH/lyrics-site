@@ -689,3 +689,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **420:** the `اے میرے برادر ایمانی` poem concludes in the right column; an independent `یہ زندگی ہے تجھ سے اے جنت البقیعہ` begins in left column. Corrected `تعمیر کر نہ پائے`, `یہیں پر`, and `ہے آل کا خزینہ` without altering repeated printed `اے جنت البقیعہ` endings.
 - **411:** reverted an inadvertently duplicated OCR-correction line after enlarged scan comparison; explicitly flagged the uncertain opening words of the printed line instead of manufacturing a second `اور بیبیاں بازار میں ہیں ننگے سر` line. Further lexical check necessary.
 - This batch is structurally reviewed through **420**, not exhaustively word-by-word proofread; especially incomplete **412**, **417** long poem, and source-specific uncertainty on **411** remain outstanding. Next structural block **421–430**.
+
+## Batch 32D — enlarged 419–420 recheck
+
+- Rechecked the actual printed lines and the exact paired Markdown: source says `میں شرم سے گڑ جاتا ہوں`, `سبط جعفر نے نصیحت`, `ہر عالم و ذاکر`, `محب اور حامی`, and `ہے آل کا خزینہ`. Corrected all five in both scripts. Page boundary and original poem end-refrains retained.
