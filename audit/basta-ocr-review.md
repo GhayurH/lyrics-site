@@ -894,3 +894,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 41E — corrected source rereading on p053
 
 - Enlarged the remuneration paragraph again and corrected two provisional transcription errors introduced earlier in this batch: the phrase about deciding honoraria in advance now follows the author's stated objection to preconditions, and `تحائف یا دوسرے طریقوں سے` correctly restores the recommendation to recognize volunteers who decline cash. These are faithful source-text corrections; the author's position is not paraphrased into an external recommendation.
+
+## Batch 41F — p054 bottom-left short poem
+
+- Enlarged the printed short two-column-format poem on the lower left of **054**. Rebuilt its **eight source-order couplets** from the right-hand half of each printed line followed by the left-hand half; restored every printed `مت کجو` ending, previously misread as `مت پوچھ`, and the clear `محتاج غیر ... پروردگار` appeal. The heading and a difficult word in couplet 4 remain explicitly uncertain. The surrounding organization/contact prose and printed poem credit are unchanged. No Latin transliteration generated for the prose page.
