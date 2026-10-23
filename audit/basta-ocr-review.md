@@ -779,3 +779,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 36C — fatherhood poem 455–456
 
 - Kept all printed two-line stanzas and repeated `ہے باپ` endings. Original scans resolve `ہاتھ خالی جیب خالی`, `خم کئے گردن`, `پہلے دیتا ہے تسلی`, `پہروں اشک`, `باندھ کر سہرا جو بیٹا`, and the `چھین لیتے ہیں سکوں` line on 455. For 456 recovered `انگلی جسے چلنا سکھایا`, the wedding `بیاہ کا ارمان`, `پسینہ پونچھ کر`, and the lower-left `ماں کے نفس پر منحصر` passage. Both scripts aligned; no artificial poem break.
+
+## Batch 36D — print corrections 457–458
+
+- **457:** corrected `گھن کی طرح`, `کھول کر پڑھ لینا`, and verses referring to Imam Ali and Abu Talib. The original has one entire printed `جس کے چہرے میں محمد کو نظر آتا ہے باپ` line omitted in both OCR editions, which has been restored. `کر کے بیٹے کے حوالے نصرت دیں کا علم` follows it, then the printed arms-kissing line. Both scripts preserve the source sequence.
+- **458:** corrected `جب کبھی اپنے جواں بیٹے کو دفناتا ہے باپ`, `زندگی بھر جن کی خاطر`, `چھین لیتی ہے اجل`, the wedding-date line, and `دیکھ کر ماہ عزا ماں توڑتی ہے چوڑیاں`. Corrected the final `زین العبا` reference. Original remains one continuous fatherhood poem with recurring `ہے باپ` endings.
