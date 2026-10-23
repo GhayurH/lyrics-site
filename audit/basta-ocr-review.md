@@ -789,3 +789,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - Both original columns were compared with the paired text. **459:** corrected the printed `منتظر نوشاہ`, `پا برہنہ`, `ایک ششماہے کو تیروں میں`, `پانی کی دو بوند`, and `جلتی ریت` lines, retaining the source-printed reiteration later on page 460. **460:** repaired `مرثیہ`, `اُمِّ ابیہا`, `سر ادھر مانگے چھری`, the Roman doubled Sham in `شام غریباں`, and restored the Fadak verses `مانگنے آئی ہے`, `اٹھتے تھے سب تعظیم کو`, and `زرد چہرہ خشک لب ... چھین گیا وہ باغ`. No artificial work divider inserted. Remaining ambiguous or corrupted lines need second-pass direct-source collation.
 - Structural scan review now covers pages **085–460 (376 pages)**. Need determine if the poem continues onto 461 before any closing or section boundary. The site build was not run.
+
+## Batch 37A — page 461 (end of fatherhood poem; start of martyrdom poem)
+
+- Inspected print right and left columns. The six closing couplets of the continuous `ہے باپ` poem occupy page 461 right; restored print-backed wording in Urdu and Roman (including `ہونے ہی والی`, `شام غریباں`, and the final `یہ عزاداری کا صدقہ`). The printed ornament separates this from **Sibt Jafar's** `جانے والے نہیں آئیں گے`, which occupies all of p461 left and continues on p462 right. Rebuilt eight source-order stanzas, correcting `خاصان و مردان خدا` and `جاتی ہے یہ دنیا ہم کو آپ کی نسبت سے مولا`. Preserved the title and complete return lines, not treating them as OCR duplicates.
+- This is a source-backed structural and wording correction; other tiny readings can be revisited in lexical clearance.
