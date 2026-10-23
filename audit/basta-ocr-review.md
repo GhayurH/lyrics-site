@@ -675,3 +675,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **412:** the sole `میں نہیں مانتا` composition by Gauhar Jarchavi includes many refrain occurrences at the end of its printed stanzas; kept every repeated `اس عزادار کو میں نہیں مانتا`. Repaired a conspicuously scrambled stanza opening `کوہ غم سے جو اپنا رخ پھیر لے`; remaining verses need fuller dialect and lexical collation.
 - **413–414:** one continuous Payam Azmi poem on motherhood: p413 right and left, finishing p414 right. Fixed `خون دل ... نس نس میں`, `ذروں کو گوہر`, `بخدا`, and the closing tabut / Shabbir lament. The independent Eid-e-Zahra piece begins on p414 left and continues on p415; retain this original section boundary.
 - This pass is source-structure plus selected source disambiguation, not word-by-word lexical signoff.
+
+## Batch 32B — 415–418 print comparison
+
+- Original **415** continues its single poem through only the first couplet on 416 right; recovered `بضعۃ منی` and `غصب کی اک پائی` in both scripts without removing stanza-end `کس نے کہا ہے` repetitions.
+- **416** is otherwise occupied by the distinct `سوزخوانی` poem, independently credited Hilal Naqvi verse, and left-column `کوئی ایسا بھی ہوتا ہے`; corrected three meaningful readings and preserved all refrains.
+- **417** starts the Sibt Jafar `چھوڑ دے` poem on the right; the separate Dilawar Nigar `شرعاً حرام` text begins left and continues at top of 418. Corrected `اغیار سے دوستی چھوڑ دے`; the unusually complex Dilawar long poem still needs full verse-by-verse collation rather than OCR prose.
+- **418** next contains the independent `شہیدوں اور شہیدوں کے وارثوں کو سلام` across both columns. Updated source wording and Roman acknowledgment; avoid claiming full lexical clearance.
