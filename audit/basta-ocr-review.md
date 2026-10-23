@@ -530,3 +530,11 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **349:** removed unprinted continuation labels in both scripts, while **keeping the actual repeated refrain at the top of the left column**. Corrected a Roman duplicated phrase in its later verse.
 - **348, 350:** original layouts inspected; no safe additional stanza-order edits made in this batch. Both contain unverified verse-level transcription errors.
 - Small-font acknowledgment names and source-word uncertainty still require full comparison against enlarged prints on these pages. Next order batch: **351–360**. Retrospective closing-line audits, introductory pp. **001–084**, and complete lexical proofreading remain outstanding.
+
+## Batch 26A — originals 351, 354, 356, 357
+
+- Reviewed the printed right-then-left-column reading order for 351–360. **351:** removed the unprinted column cue from both streams and the doubled Roman `Sham-e` reading.
+- **354:** placed the two independently attributed couplet/qat'a sections by Sagar Lakhnavi and Syed Sibt Hasan Anjum behind their printed poem separators in both versions; removed layout cue and two demonstrable Roman artifacts.
+- **356:** corrected the serious OCR inversion: the right-column poem `محرم آگیا امت کے شہزادے نہیں آئے` now precedes its three-line conclusion at top of the left column. Preserved its repeated printed concluding line, then the separate Bhitai quotation/credits, Abid Raza Shakib couplet, and Fatiha request in actual scan sequence. Marked uncertain names unresolved.
+- **357:** reconstituted the complete `بانو کا یہ ارمان تھا آباد مکاں ہوگا` text from the left-column print, correcting missing/misassigned lines and removing a spurious poem break inside the final verse; matched Roman line for line. First poem's following Fatiha request remains separate. Its individual verses still require final lexical check.
+- This is a **print-order and targeted transcription** pass, not a blanket word-by-word clearance.
