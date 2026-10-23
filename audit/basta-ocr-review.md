@@ -927,3 +927,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **059:** right/left original columns compare the author's reading of Qur'anic verses regarding so-called music prohibition. Corrected printed `ناچ گانا باجا`, the reference to alHajj 30 and Luqman 6, `نزول`, and `روکنا`. Retained quoted Qur'anic Arabic as in the existing source; full verbatim Qur'anic citation verification needs a dedicated pass.
 - **060:** recovered `ان محکم و مذکورہ بالا آیات` at the opening, without changing the author's religious argument or attributing legal conclusions to external authorities. **061:** inspected opening continuation and the section about truthfulness in devotional poetry; heavily corrupted gun-law comparison and other passages still require lexical follow-up.
 - Targeted scan-grounded corrections only. The author's explanatory commentary is preserved in its own voice.
+
+## Batch 42B — original scans 062–063
+
+- **062:** restored missing source prose introducing traditional technically trained sozkhwani in the `شائقینِ سوزخوانی` notice. The first paragraph describes eligibility and the institution's classes; its dense original wording still requires full lexical collation. Kept the author’s clearly labelled personal supposition about Sakina as **his own** rather than turning it into an authenticated report.
+- **063:** reconstructed the three short teachings where OCR turned `بڑا آدمی`, `فرماں بردار زوجہ` and `نام لیواؤں` into unrelated expressions; restored the printed contact/eschatology wording. The claims remain attributed to the original author, and the prose is not treated as an independent hadith-authentication exercise.
