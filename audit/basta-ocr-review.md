@@ -6,7 +6,7 @@ Source: `basta-clean.zip/original/NNN.png`.
 - **Current-file scan complete:** 219 Urdu MDs and 168 existing Roman MDs examined for uncertainty markers. Absent Roman pages are intentional.
 - **Status:** 28 pages still have markers; 191 have none.
 - **Rule:** Check the printed scan before replacing a live marker. Keep existing Urdu/Roman files synchronized. No guessing; a page with no markers is **not** word-by-word cleared.
-- **Latest:** 031: removed a false missing-name marker after comparing the printed list.
+- **Latest:** corrected scan-backed couplets on 417 (Urdu/Roman) and 046’s reference to a recently deceased teacher; unreadable spans remain marked.
 
 **Open marker pages (28):**
 
