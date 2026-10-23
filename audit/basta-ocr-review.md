@@ -658,3 +658,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - Page 407 has independent Shadan Dehlavi compositions on Shab-e-Hijrat (right column) and Khaybar (left column). Restored source `چین کی نیند`, `نہ سلجھا عقدہ دشوار`, and removed repeated Roman `shab-e Shab-e-Hijrat` artifacts without altering printed verses.
 - Page 408 continues Khaybar at upper right, then begins the independently credited Ghadir composition on the left. Restored the explicit printed gate-lifting line `اکھاڑ پھینکا فقط دو انگلیوں سے باب خیبر کو`, `انہیں ہونا تھا ثابت`, and the Ghadir `مسرتوں کا سمندر` line. Retained actual two-work boundary; remaining difficult source words are not marked lexically cleared.
+
+## Batch 31D — targeted scan disambiguation 409–410
+
+- **409:** two independent Shadan Dehlavi poems, Mubahala in the printed right column and Fadak in the left. Recovered `عکس یقین`, `دکھ کی دوا`, `نجرانیوں`, `بجائے جنگ`, closing `محاذ دعا`, and the Fadak `اک دشمن دین` line. Updated Roman alongside Urdu.
+- **410:** right column continues the Fadak poem; corrected `قربیٰ` in both scripts. The left-column Sibt Jafar Dam Maula piece is separate; its further transcription is tracked separately.
