@@ -693,3 +693,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 32D — enlarged 419–420 recheck
 
 - Rechecked the actual printed lines and the exact paired Markdown: source says `میں شرم سے گڑ جاتا ہوں`, `سبط جعفر نے نصیحت`, `ہر عالم و ذاکر`, `محب اور حامی`, and `ہے آل کا خزینہ`. Corrected all five in both scripts. Page boundary and original poem end-refrains retained.
+
+## Batch 32E — p. 412 original-stanza reconstruction
+
+- Rebuilt **both** p412 files against enlarged right/left scan, using its printed **13 two-line stanzas**, with **14 occurrences** of `اس عزادار کو میں نہیں مانتا` (the first two lines both carry it). Corrected source OCR that had broken and shuffled sentences inside stanzas, restoring `کوہ غم سے جو اپنا رخ پھیر لے`, `جیب بھر کر ... ہائے کرب و بلا`, and the closing `ماتم کی مجلس بھی اک مشغلہ ہوگئی`.
+- Four difficult small-print source portions remain explicitly `[غیر واضح]` / `[ghair wazeh]`; do not assume complete lexical clearance. No source-printed refrain occurrence removed.
