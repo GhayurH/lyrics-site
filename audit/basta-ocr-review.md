@@ -872,3 +872,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **050:** corrected the distinction between a gathering's `خصوصیت` and its chosen topic, and recovered the printed mention of the martyrdom recitation for `شہزادۂ اکبر`. Kept instructions for adjusting length when a scheduled speaker is delayed.
 - **051:** corrected `غیر حاضر و غائب سامعین پر بھی نظر رکھنا` and the printed recommendation to keep a watch nearby during recitation; technical descriptions involving vowel annotation remain flagged for detailed review.
 - These are verified targeted corrections, not exhaustive lexical clearance of prose, and no unrelated Roman lyrics are created.
+
+## Batch 41B — source scans 052–053
+
+- **052:** recovered printed phonation instructions for rounded `آ` vowels, practicing without a pause or speed change, and watching a trained teacher's technique; preserved the remedy bullets as **historical source transcription**, not contemporary medical guidance. Several tiny remedy words remain uncertain and need checking before publication clearance.
+- **053:** corrected the printed heading `معاش و مجالس کے ہدیہ اور نذرانہ کا مسئلہ` and the wording about honouring voluntary reciters; did not rewrite the author's views or add editorial judgment. Dense details of monetary examples remain uncleared.
+- All changes retain original right-column-before-left reading order and do not introduce Roman pseudo-transcriptions for non-lyrical prose.
