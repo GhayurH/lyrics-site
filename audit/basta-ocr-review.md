@@ -663,3 +663,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **409:** two independent Shadan Dehlavi poems, Mubahala in the printed right column and Fadak in the left. Recovered `عکس یقین`, `دکھ کی دوا`, `نجرانیوں`, `بجائے جنگ`, closing `محاذ دعا`, and the Fadak `اک دشمن دین` line. Updated Roman alongside Urdu.
 - **410:** right column continues the Fadak poem; corrected `قربیٰ` in both scripts. The left-column Sibt Jafar Dam Maula piece is separate; its further transcription is tracked separately.
+
+## Batch 31E — page 410 independent left-column poem
+
+- Replaced the garbled p410 left-column Sibt Jafar `ہر قدم تھا ورد زباں دم ہمہ دم دم مولا` poem in both Urdu and Roman. The printed opening is retained as heading and its repeated first verse, followed by the source-order eight couplets. The p410 right-column Fadak continuation is untouched.
+- This is a structural/source-reading pass, not blanket lexical clearance. Follow-up detailed OCR ambiguities remain on other 401–410 passages (especially 403 Nahj, 405 folk dialect, 407–409). Next structural batch: 411–420.
