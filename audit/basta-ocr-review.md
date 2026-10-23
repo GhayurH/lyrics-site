@@ -647,3 +647,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - Compared original images of 401–403 in printed right-then-left reading order. The Quran poem begins on 401 and continues to the right column of 403; preserved the invocatory opening and all repeated Quran line openings. Source-backed corrections include the flowers/stars line on 401; the dry/wet, huffaz, ajaib, and purpose lines on 402; and Rasul-e-Arabi on 403.
 - The separate Nahj-ul-Balagha work starts at the left column of 403 and continues on 404 right. Corrected its title and two Roman OCR artifacts (especially spurious lungi). Full lexical checking of this poem remains pending.
+
+## Batch 31B — original scans 404–406
+
+- **404:** Nahj-ul-Balagha poem continues from 403 through the right column, followed by separately credited Hakim Kazim Zaidi and Zair Amrohvi verses. Recovered printed `باغ جناں`, separated their credits with an editorial poem divider, and corrected Mohsin Naqvi (Shahid), not Mohsin Taqvi, on the independent left-column prayer; corrected the Zainab captivity line.
+- **405:** right column finishes the Mohsin Naqvi prayer and includes a distinct traditional folk nauha with difficult dialect spellings not yet lexically cleared. Left column begins Shadan Dehlavi on Dhul-Ashira; corrected opening to `نوید بعثت خیر الوری`, prophet's akhlaq line, and `محبت ہے نبی سے` in Urdu/Roman.
+- **406:** separate Shadan Dehlavi poems on Shi'b Abi Talib and the night of Mi'raj, in respective right/left columns. Resolved repeated `Ahl-e`, `Khuda-e`, source `ساری دنیا ہے مخالف`, `سرور کونین یوں آئے`, and `لوح و قلم`. Printed opening lines and poem boundary retained.
