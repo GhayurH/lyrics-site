@@ -704,3 +704,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - Enlarged **417** original revealed that the independently credited Dilawar Nigar `شرعاً حرام` is line-by-line verse printed in narrow paired columns, not a continuous prose essay. Restored its visible couplets in order and matched each Roman verse to the Urdu; marked small-type uncertain half-lines instead of inventing them. The preceding Sibt Jafar `چھوڑ دے` poem on the right remains separate.
 - Enlarged **418** shows two finishing couplets of `شرعاً حرام` before its printed separator; restored `سوزخوان کا ساز دل ہے`, `کون کہتا ہے کہ ایسی سوزخوانی ہے حرام`, and the closing `ذکر حسین` couplet. Its following Sibt Jafar martyrs' poem retains its independent heading and column order.
 - Lexical recheck is still required for the bracketed portions of 417 and some other source phrases; neither this nor the previous structural batch constitutes exhaustive word-level clearance.
+
+## Batch 33 — pp. 421–430
+
+- **421:** the Jannat-ul-Baqia poem continues from 420, right column then left. Restored `دل کی مرادیں`, `خائف بھی`, `تعمیر جب تو ہوگی`, and `مکہ مدینہ اقصیٰ`; separated independently printed qit'a and corrected the printed author credit. Retained repeated refrain; some print text remains uncertain.
