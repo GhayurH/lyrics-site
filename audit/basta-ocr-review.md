@@ -621,3 +621,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **388:** properly isolated Zahid Fatehpuri's independent couplet between the previous poem and the next `ظہور کا وقت آگیا ہے` poem on the left.
 - **389:** the right column completes the latter poem; its left column independently prints Sarfaraz Abad's `ہر شاخ عقیدت کو ثمر دیتے ہیں عباس`. Recovered all eight printed couplets into Urdu and Roman, retaining the `دیتے ہیں عباس` radif. Source wording and some minuscule script in the previous piece remain for lexical collation.
 - Original image structural comparison now reaches **390**. Next structural batch **391–400**. A full word-by-word lexical audit, especially 385–389, remains outstanding.
+
+## Batch 29E — enlarged recheck p. 389
+
+- Rechecked large print for the Sarfaraz Abad stanza: corrected the two source readings to `مٹ سکتے نہیں حرف وہ قرآنِ وفا کے` and `ہر چیز مہیا بیٹھے گھر دیتے ہیں عباس`, updating Roman simultaneously. These override OCR-influenced readings from Batch 29D.
