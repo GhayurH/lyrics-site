@@ -757,3 +757,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 35C — original 444–445
 
 - **444–450** are the continuous long `وسیلۂ حیات (ماں، باپ)` poem; preserve source order (right column then left) and *every* printed `ہے ماں` ending. **444:** recovered print's `جب تھک کے سو جاتی ہے ماں`, `اوڑھتی ہے حسرتوں کا خود تو بوسیدہ کفن`, and `یتیموں کو` instead of OCR gibberish. **445:** corrected `اپنا دکھ اولاد کو`, reconstructed a whole couplet previously OCR-garbled about old age and solitude, and recovered `کھا کے ٹھوکر` and `نوکروں کی گودیوں`. Both scripts updated together. Other lines require another careful visual collation; no new poem dividers inserted.
+
+## Batch 35D — enlarged scan comparison, 446–447
+
+- Corrected printed `بچہ بوجھ لگتا ہے`, `پرائے گھر بیاہ کر بیٹیاں`, `ڈگریاں دلوائیں جن کو اپنے ارمان بیچ کر`, and `بیویوں کی جھڑکیاں` on 446; `زہر بچوں کو`, `چتا کی بھینٹ چڑھ جاتی ہے ماں`, `پیار کہتے ہیں کسے اور مامتا کیا چیز ہے`, and `رِسنے لگتا ہے پرانے زخم سے تازہ لہو` on 447. Roman versions updated in the same commit. Preserved every original recurring `ہے ماں` ending and uninterrupted poem continuity. Remaining small-font lexical ambiguities are not cleared.
