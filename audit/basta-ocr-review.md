@@ -642,3 +642,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **393:** the initial `حقیقت` stanza visibly says `میدان مباہلہ ہو یا کساء، خلوت ہو یا جلوت پانچوں کی`, restoring the earlier missing printed portion in both scripts.
 - **400:** restored the printed `عالی ہمت بیٹوں کی ماں` and `اس دم کربلا` rather than the OCR's incorrect readings. Distinct Umm alBanin and Fizza compositions remain separate.
 - The original scans **391–400** have been inspected for print order and targeted source ambiguities. This does not clear every OCR phrase; future passes should continue independently verifying each stanza against source, especially 394, 396–398, and 400.
+
+## Batch 31A — original scans 401–403
+
+- Compared original images of 401–403 in printed right-then-left reading order. The Quran poem begins on 401 and continues to the right column of 403; preserved the invocatory opening and all repeated Quran line openings. Source-backed corrections include the flowers/stars line on 401; the dry/wet, huffaz, ajaib, and purpose lines on 402; and Rasul-e-Arabi on 403.
+- The separate Nahj-ul-Balagha work starts at the left column of 403 and continues on 404 right. Corrected its title and two Roman OCR artifacts (especially spurious lungi). Full lexical checking of this poem remains pending.
