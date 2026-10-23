@@ -507,3 +507,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **326:** moved the previous poem's printed closing refrain `جانِ نبیؐ و خاصۂ داور ہے فاطمہؑ` from incorrectly preceding the new heading to the actual end of the previous numbered poem, before the divider; both scripts updated.
 - **324–325, 327–330:** existing group/numbering structure checked against scans and no high-confidence movement was warranted. Some lexically corrupted passages (especially the small type in 329–330) remain for full transcription checking.
 - Audit has now covered the consecutive structural range **085–330 (246 pages)**, but does not imply full word-level clearance. Next review: 331–340; still pending retrospective source-printed closing lines on earlier 085–209 and full lexical disambiguation.
+
+## Batch 24A — pp. 331–340 scan comparison, first source disambiguations
+
+- Inspected original scans **331–340** in the printed right-column-then-left-column reading order. Both text streams retain poem-continuation boundaries across 334–335 and 335–336, and the poem change on 338. These pages are **not** lexically cleared as a whole.
+- **331:** corrected the opening poem's OCR-corrupted heading (`چھانے` rather than `جہاں`) and recovered the missing words after `اصغر` from the enlarged printed line. Kept the printed independent Ahmad Nadeem Qasmi and Zakir Husain Zaidi sections separate; the lower quotation and more body verses still need lexical collation.
+- **333:** restored several first and later stanza readings from magnified print, corrected the third stanza as it continues from the bottom of the right column to the top of the left, and removed the OCR's spurious duplicated two lines. All **five printed refrain pairs remain** after their respective stanzas; Urdu and Roman are aligned.
+- Remaining pages in the scanned 331–340 group require targeted lexical correction, especially p. 332's verse lines, the source Arabic and short-print poems on 334, and the visibly corrupted verses 335–340. Do not mark these as word-by-word verified.
