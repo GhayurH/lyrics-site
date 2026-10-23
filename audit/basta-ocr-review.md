@@ -775,3 +775,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **453:** final page of the long motherhood poem, with printed right column and shorter left-column conclusion. Restored a complete `کھا کے گولی مر گیا بیٹا ... قیمت ... چیک` couplet, `حلق میں اٹکا نوالہ`, and original Karbala verses `سہرے کی جگہ`, `لاش اکبر پر جوانی پڑھ رہی ہے مرثیہ`, `سجدۂ شکر`. Kept all `ہے ماں` endings.
 - **454:** a *separate* long `دن ڈھلے جب کر کے مزدوری رضا آتا ہے باپ` poem begins with its printed title and repeated first verse; no separator is printed inside the poem. Corrected `خانقاہ`, `گھر کے پالوں`, `کر کے کوئی بھی بہانہ`, `جکڑ لیتی ہے زنجیر معاش`, `مسکرانے`, and `گھن کی طرح` in paired Urdu and Roman; other difficult lines still require lexical review.
+
+## Batch 36C — fatherhood poem 455–456
+
+- Kept all printed two-line stanzas and repeated `ہے باپ` endings. Original scans resolve `ہاتھ خالی جیب خالی`, `خم کئے گردن`, `پہلے دیتا ہے تسلی`, `پہروں اشک`, `باندھ کر سہرا جو بیٹا`, and the `چھین لیتے ہیں سکوں` line on 455. For 456 recovered `انگلی جسے چلنا سکھایا`, the wedding `بیاہ کا ارمان`, `پسینہ پونچھ کر`, and the lower-left `ماں کے نفس پر منحصر` passage. Both scripts aligned; no artificial poem break.
