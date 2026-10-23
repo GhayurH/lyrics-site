@@ -708,3 +708,6 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 33 — pp. 421–430
 
 - **421:** the Jannat-ul-Baqia poem continues from 420, right column then left. Restored `دل کی مرادیں`, `خائف بھی`, `تعمیر جب تو ہوگی`, and `مکہ مدینہ اقصیٰ`; separated independently printed qit'a and corrected the printed author credit. Retained repeated refrain; some print text remains uncertain.
+
+- **422–424:** wedding sehra by Shadan Dehlavi spans p422 and p423 right, separate Sibt Jafar Zaidi sehra starts p423 left and ends p424 right. Restored its printed boundary and corrected Roman title/terms. Another credited qit'a by Dr Syed Yawar Abbas follows, then independent `رخصتی` (Shadan) begins on p424 left and continues onto p425. Restored separator before the title, not between title and poet credit.
+- **425:** the `رخصتی` poem concludes on upper left; separate qit'a by Hakim Arif Akbarabadi follows a printed divider. Added matching separators to both Markdown versions.
