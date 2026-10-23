@@ -841,3 +841,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 39C — p. 032 source wording spot-check
 
 - Enlarged the printed middle-right paragraph about the editor's intentional changes to earlier poets' wording; repaired the missing grammatical link `فنی زبان کے جو الفاظ` and the clear concluding `بہتری ہی واقع ہوئی ہے`. The passage distinguishing changes in different manuscripts from the editor's own adaptations is otherwise preserved. Do not silently modernize the editor's explanations or recast them as corrections to the original poets' text.
+
+## Batch 40A — source-image lexical pass 040–041
+
+- Compared the enlarged printed right and left columns of 040–041. **040:** corrected the description of an ustad's knowledge of established bastas, his ability to compose original bandishes, and the contrast of hamdiya/munajati compositions; recovered the printed heading `سوزخوانی کی بندشیں اور اجزاء (شعبے)` and fixed clear voice-performance terms.
+- **041:** retained the technical rubric for recitation of rubai/qita, soz, salam, and marsiya; corrected the distinct `سوزخوانی کے اجزاء (شعبے)` heading and some prose terminology. The opening of the page continues the preceding discussion; no artificial page boundary has been inserted.
+- A scan-backed targeted lexical pass only: substantial prose passages, particularly page 040's religious-law exposition and some page 041 technical terms, still require full word-level scrutiny.
