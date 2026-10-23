@@ -1,20 +1,16 @@
-# Basta OCR review
+# Basta OCR marker audit
 
-Source: `basta-clean.zip` → `original/NNN.png`. Branch: `fix/basta-ocr-order-2026-10`.
+Source: `basta-clean.zip/original/NNN.png`.
 
-**Scope:** 219 distinct page numbers in `basta-error-report.csv` (ignore the first three CSV rows). The CSV is a *page list*, not a list of errors to trust.
+- **Scope:** 219 distinct page numbers in `basta-error-report.csv`; ignore its first three rows.
+- **Current-file scan complete:** 219 Urdu MDs and 168 existing Roman MDs examined for uncertainty markers. Absent Roman pages are intentional.
+- **Status:** 109 pages still have markers; 110 have none.
+- **Rule:** Check the printed scan before replacing a live marker. Keep existing Urdu/Roman files synchronized. No guessing; a page with no markers is **not** word-by-word cleared.
+- **Scan-backed fixes this batch:** 026 (printed poet/artist name corrected), 424 (تابندہ), 436 (تشنگی). Roman updated for 424 and 436.
+- **Scans checked; wording still unresolved:** 193, 254, 321, 388, 399, 458, 462.
 
-**Method:** Check the current Urdu file and Roman file **if present**. Missing Roman files are intentional. Only investigate live uncertainty/error markers; compare the actual original scan before correcting. Keep Urdu/Roman text, stanza order, and line breaks aligned when both files exist. Retain genuinely unreadable material as flagged. No guessed wording.
+**Open marker pages (109):**
 
-## Page-marker audit
+026 030 031 033 035 038 044 045 046 048 049 051 053 054 056 058 059 060 061 062 063 064 065 066 067 068 070 071 072 076 083 084 123 124 125 128 135 136 137 138 140 193 254 255 256 258 259 260 262 263 264 267 269 270 271 273 275 276 280 281 283 293 301 311 313 314 315 319 320 321 322 331 346 347 356 357 358 363 364 365 366 367 368 369 370 372 373 374 375 376 377 381 382 383 385 388 389 390 393 394 396 397 398 399 417 421 425 458 462
 
-- **022–025:** image-only; no text markers.
-- **026:** markers remain in an unclear biography and proper name; another historical OCR name needs checking.
-- **030–031, 033, 035:** unresolved names/titles; source checks still needed.
-- **032, 034, 036:** no remaining uncertainty markers.
-- **037–053:** some markers cleared in previous commits; outstanding passages require further scan checks.
-- **109, 111, 117, 119, 121:** historical CSV flags absent from current files; previously reviewed or corrected.
-- **123–128, 132, 135–140:** paired lyric reviews partly completed; a few uncertain verses/names remain. Check current files rather than historical CSV text.
-- **Other CSV pages:** pending current-file marker scan.
-
-This is **marker triage**, not full word-by-word proofreading. Site build has not been run. Individual fixes and source-reading details are retained in Git commit history.
+The historical CSV is only a page-selection list. Detailed edits are in Git history. Website build not run.
