@@ -766,3 +766,7 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **448–450:** continuous second half of the same motherhood poem, without any printed new heading or poem dividers. Corrected source readings `در پہ آہٹ ہو ہوا سے`, `مرتے دم بچے نہ آ پائیں`, `بھیس بیٹی کا بدل کر`, `شور ہوتا ہے مبارک باد کا`, `بیٹی کی سہیلی`, and `اچھی سے اچھی بہو` on 448. On 449 recovered `پھیر لیتے ہیں نظر`, `بڑوں کے حضور`, and `پوتے سے شکستہ دل`, plus a repeated-word OCR error. On 450 corrected `دوڑ کر بے اختیار`, and `پھینک کر بچے کو تیروں میں`. Retained all printed `ہے ماں` radif endings and updated Roman in tandem. Other source-specific uncertainties remain; no site build run.
 - Structural scan pass now covers through 450. Next block 451–460 (if those pages are part of the 447+ Urdu / 441+ Roman index); full lexical collation of 444–450 still necessary.
+
+## Batch 36A — scans 451–452
+
+- The long motherhood poem continues without a new work on 451–453. Examined enlarged right and left columns. **451:** corrected the coffin-cloth line `توڑ کر بند کفن`, `مادریت`, `چومتی ہے لب`, `دل پہ پتھر رکھ لیتی ہے`, the time-of-Asr line, and `تھام کر اپنا کلیجہ`. **452:** corrected `دوڑتے ہیں لاش پر گھوڑے`, `آبرو دشمنوں سے`, `فلسفی حیران`, and the printed theological teaching line `ایک ہے اللہ یہ بچے کو بتاتی ہے ماں` omitted by OCR. Paired Roman aligned, and no printed `ماں` ending removed. Difficult lines remain for individual lexical verification.
