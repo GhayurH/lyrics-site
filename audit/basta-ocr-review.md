@@ -698,3 +698,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - Rebuilt **both** p412 files against enlarged right/left scan, using its printed **13 two-line stanzas**, with **14 occurrences** of `اس عزادار کو میں نہیں مانتا` (the first two lines both carry it). Corrected source OCR that had broken and shuffled sentences inside stanzas, restoring `کوہ غم سے جو اپنا رخ پھیر لے`, `جیب بھر کر ... ہائے کرب و بلا`, and the closing `ماتم کی مجلس بھی اک مشغلہ ہوگئی`.
 - Four difficult small-print source portions remain explicitly `[غیر واضح]` / `[ghair wazeh]`; do not assume complete lexical clearance. No source-printed refrain occurrence removed.
+
+## Batch 32F — 417–418 vertical OCR prose recovery
+
+- Enlarged **417** original revealed that the independently credited Dilawar Nigar `شرعاً حرام` is line-by-line verse printed in narrow paired columns, not a continuous prose essay. Restored its visible couplets in order and matched each Roman verse to the Urdu; marked small-type uncertain half-lines instead of inventing them. The preceding Sibt Jafar `چھوڑ دے` poem on the right remains separate.
+- Enlarged **418** shows two finishing couplets of `شرعاً حرام` before its printed separator; restored `سوزخوان کا ساز دل ہے`, `کون کہتا ہے کہ ایسی سوزخوانی ہے حرام`, and the closing `ذکر حسین` couplet. Its following Sibt Jafar martyrs' poem retains its independent heading and column order.
+- Lexical recheck is still required for the bracketed portions of 417 and some other source phrases; neither this nor the previous structural batch constitutes exhaustive word-level clearance.
