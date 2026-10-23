@@ -577,3 +577,11 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **365:** original print shows the missing opening-naat line `لکھی ہے نعتِ نبی میں نے اس قرینے سے`, the `اک سفینے میں` / `سو رحمتوں` couplet, and the two verses following. Recovered them and corrected `نبی کی آل سے الفت`; paired Roman edits. Also corrected the next poem's printed `شاہِ یثرب`. Some of the small-font second naat still needs detailed verification.
 - **368:** original is the single `علی آگئے` composition by Syed Sibt Jafar. Recovered the opening right-column sequence of couplets and the initial left-column lines, replacing major OCR scrambling imported from nearby texts. Marked the few unreadable source spans explicitly rather than fabricating them; the later Ashura section still requires fuller transcription.
+
+## Batch 28A — original scans 371–375 (paired print-backed fixes)
+
+- Inspected original scans **371–375**, preserving right-column-first order and all repeated printed lines. The first poem on **371** ends at the top left, then a different `قائمِ آلِ محمد` piece continues on **372**; not the same poem. **372:** correctly separated the independent Syed Hashim Raza Hashim quatrain before the Persian Shams Tabrizi poem and Shadan's separate short work. Recovered printed `لائق تحسیں`, `فرزدق`, `راحتی صاحب کے سوا`, and `داد ہنر` readings in both versions.
+- **373:** corrected `دخل` and `حسن اور حسین دونوں ہیں نبی کے پسر`, among other clear print errors; separated the Hakim Arif Akbarabadi **(حنفی)** couplet as its own work.
+- **374:** removed the unprinted left-column label and corrected the first verse's `تحریر و تقریر` wording in both languages.
+- **375:** source dedication is to Imam **alHasan**, not Imam alHusain; fixed the attribution in both scripts. The `شاعری بھی مری اُن سے منسوب ہے` poem ends on 375 right, and the independently headed `نماز عشق پڑھتا ہوں` starts on the left; its continuation runs across 376–377.
+- Several small-font/uncertain lexical passages (especially 374–375) await a dedicated line-by-line scan check; this is not lexical clearance.
