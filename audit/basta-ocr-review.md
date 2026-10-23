@@ -761,3 +761,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 35D — enlarged scan comparison, 446–447
 
 - Corrected printed `بچہ بوجھ لگتا ہے`, `پرائے گھر بیاہ کر بیٹیاں`, `ڈگریاں دلوائیں جن کو اپنے ارمان بیچ کر`, and `بیویوں کی جھڑکیاں` on 446; `زہر بچوں کو`, `چتا کی بھینٹ چڑھ جاتی ہے ماں`, `پیار کہتے ہیں کسے اور مامتا کیا چیز ہے`, and `رِسنے لگتا ہے پرانے زخم سے تازہ لہو` on 447. Roman versions updated in the same commit. Preserved every original recurring `ہے ماں` ending and uninterrupted poem continuity. Remaining small-font lexical ambiguities are not cleared.
+
+## Batch 35E — original 448–450, continuity and source readings
+
+- **448–450:** continuous second half of the same motherhood poem, without any printed new heading or poem dividers. Corrected source readings `در پہ آہٹ ہو ہوا سے`, `مرتے دم بچے نہ آ پائیں`, `بھیس بیٹی کا بدل کر`, `شور ہوتا ہے مبارک باد کا`, `بیٹی کی سہیلی`, and `اچھی سے اچھی بہو` on 448. On 449 recovered `پھیر لیتے ہیں نظر`, `بڑوں کے حضور`, and `پوتے سے شکستہ دل`, plus a repeated-word OCR error. On 450 corrected `دوڑ کر بے اختیار`, and `پھینک کر بچے کو تیروں میں`. Retained all printed `ہے ماں` radif endings and updated Roman in tandem. Other source-specific uncertainties remain; no site build run.
+- Structural scan pass now covers through 450. Next block 451–460 (if those pages are part of the 447+ Urdu / 441+ Roman index); full lexical collation of 444–450 still necessary.
