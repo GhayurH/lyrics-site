@@ -6,7 +6,7 @@ Source: `basta-clean.zip/original/NNN.png`.
 - **Current-file scan complete:** 219 Urdu MDs and 168 existing Roman MDs examined for uncertainty markers. Absent Roman pages are intentional.
 - **Status:** 32 pages still have markers; 187 have none.
 - **Rule:** Check the printed scan before replacing a live marker. Keep existing Urdu/Roman files synchronized. No guessing; a page with no markers is **not** word-by-word cleared.
-- **Latest:** corrected clearly legible 417 poem lines and its book title; remaining unclear lines retained.
+- **Latest:** expanded memorial lists on 357–358 from scans and corrected a 331 verse; uncertain names remain marked.
 
 **Open marker pages (32):**
 
