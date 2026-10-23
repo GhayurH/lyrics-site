@@ -585,3 +585,11 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **374:** removed the unprinted left-column label and corrected the first verse's `تحریر و تقریر` wording in both languages.
 - **375:** source dedication is to Imam **alHasan**, not Imam alHusain; fixed the attribution in both scripts. The `شاعری بھی مری اُن سے منسوب ہے` poem ends on 375 right, and the independently headed `نماز عشق پڑھتا ہوں` starts on the left; its continuation runs across 376–377.
 - Several small-font/uncertain lexical passages (especially 374–375) await a dedicated line-by-line scan check; this is not lexical clearance.
+
+## Batch 28B — print ordering and disambiguation 376–380
+
+- Inspected source images **376–380**. The `نمازِ عشق پڑھتا ہوں` poem from p375 continues across both columns of **376** and the top right of **377**. The independently headed `زیست جس کی باندی ہے` poem begins later on 377, continues on the right of **378**, and ends before the heading in its left column. Repaired that heading and a visibly misread `ایلیا` on 377, paired with Roman.
+- **378:** moved the `شفا تجھے اور کون دے گا؟` heading and byline to *after* the actual printed preceding-poem separator, retained the deliberate varied ending words `جِلا`, `جزا`, `صلہ` and the other refrain variants. The print specifically says `بیٹے` twice in the Khuda-and-Husain stanza, *not* `پیسے`. Corrected both scripts.
+- **379:** checked continuation of the same `شفا...` work, with printed return lines retained. No wholesale word replacement where print is ambiguous.
+- **380:** right column concludes that work, followed by a different poem titled **`آلِ نبی کے نوحِ ثانی`**, not `نوحہ خوانی`. Recovered a missing printed line about Abu Talib's illuminated home and corrected `صحت و حریتِ فکر` and `بلندی جھک کے`, all in paired Urdu/Roman changes.
+- Structural comparison now reaches **380**. Detailed lexical verification still pending, particularly 374–377 and the later lines of 379–380. Retain all source-printed repetitions. Next structural batch: **381–390**.
