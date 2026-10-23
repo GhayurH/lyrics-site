@@ -593,3 +593,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **379:** checked continuation of the same `شفا...` work, with printed return lines retained. No wholesale word replacement where print is ambiguous.
 - **380:** right column concludes that work, followed by a different poem titled **`آلِ نبی کے نوحِ ثانی`**, not `نوحہ خوانی`. Recovered a missing printed line about Abu Talib's illuminated home and corrected `صحت و حریتِ فکر` and `بلندی جھک کے`, all in paired Urdu/Roman changes.
 - Structural comparison now reaches **380**. Detailed lexical verification still pending, particularly 374–377 and the later lines of 379–380. Retain all source-printed repetitions. Next structural batch: **381–390**.
+
+## Batch 28C — enlarged print checks 377–378
+
+- Compared enlarged original columns, not the cross-script OCR agreement alone. **377**: repaired `نانی` (not `نائی`), `صدقہ کون و مکاں`, `جس کے در پہ آئیں ملک`, `باگ ہے نبوت کی`, and the next `کلمہ جس کا پڑھتی ہے` stanza; updated Roman alongside Urdu.
+- **378:** the first line of the page continuation says `دی اماں سرِ مقتل`, not `دے اماں`. Kept its position after the p377 sequence and before the separately titled next work.
+- The remaining obscured words in this group have **not** been guessed from rhyme or grammar; those remain for dedicated lexical verification.
