@@ -1027,3 +1027,11 @@ Next: continue sequential source-backed checks of remaining CSV rows, including 
 - **136, BOTH:** corrected two mismatched opening lines from the scan, including `کوئی دامن گیر` and `بسا کے سوئے ہیں`. The still-bracketed `عَلَم کے سائے میں آ جا...` line is difficult to read precisely and remains unresolved in both languages.
 - These were targeted source-image readings and structural edits, **not** full lexical certification of these pages. Earlier lines can still contain OCR defects. Maintain exactly aligned verse content and grouping in Roman whenever a page has that counterpart; preserve printed repetitions, even at a poem's ending.
 - No local `npm run build` or `git diff --check` has been run for these remote GitHub edits. The full CSV still has additional open entries requiring source comparison.
+
+## Batch 47 — paired original-image corrections, pages 139–140
+
+- **139 (both scripts):** inspected enlarged `original/139.png` and replaced the incorrect `مژگاں` plus the OCR uncertainty with the printed image reading `یہ جو موجیں سر جھکتی ہیں سرِ نہرِ فرات`; Roman now mirrors that full line. Kept stanza order and the following `ایسا لگتا ہے یہاں پیاسا کوئی سجدے میں ہے`.
+- **140 (both scripts):** compared `original/140.png` and restored the visible `شمعِ ہدایت` in the qit'a, corrected the first line of Allama Talib Jauhari's independent couplet, and corrected the clearly printed rubāʿī opening and concluding wording. Corresponding Roman lines updated.
+- **140 unresolved:** the badly OCR-damaged qit'a by Pir Nasir-ud-Din Golra Sharif, including its bracketed missing line, still needs additional source-image transcription. It was not reconstructed by guessing.
+- Earlier flagged **123–125, 128, and 136** contain details or small-print wording that remain uncertain. Keep them open until legible readings can be independently confirmed.
+- Both scripts on updated lyric pages remain paired; do not infer that clearing individual CSV error markers means a page has been exhaustively proofread. Full lexical collation and build validation remain pending.
