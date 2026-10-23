@@ -799,3 +799,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **462 right:** closes `جانے والے نہیں آئیں گے` (continued from 461 left) with six more printed couplets, followed by a separate printed ornament and title `پاکستان کی بنیادوں میں` by Sibt Jafar. Fixed `ہٹا سکتا ہی نہیں ہے`, explicitly printed `جتنی جہادی تنظیمیں ہیں`, and the broken Roman end-refrain. Corrected opening `تن من دھن` of the national poem, including Roman. Original print order right column then left maintained.
 - **462 left:** continues the national poem as three-line stanzas. Restored `ہمیشہ ہم سے کدورت اور جلن` and retained the partially unreadable line marked without inventing a word. No unprinted divider added between columns.
+
+## Batch 37C — source scans 463–469
+
+- 463 right: the national poem from 462 concludes here, with corrected source references to Masiha, rejoining the pieces of the homeland, Jabr-o-sitam, and the printed publication credit and numbers. Five three-line printed stanzas retain their order. 463 left: independent poem Amman consists of nine printed couplets, retained with all nine printed Amman refrains, and credits Syed Asad Ali Zaidi at bottom. Paired Roman files aligned.
+- 464–469: six original scans are photo galleries and promotional pages rather than lyric pages. Urdu metadata already correctly uses imageOnly: true; no separate Roman content exists or is appropriate. Leave their image-only metadata and images unchanged. Structural source review therefore completes at scan 469. Remaining task is lexical verification of previously flagged poems, not additional structural pages.
