@@ -724,3 +724,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **425:** enlarged right column confirmed that the OCR **omitted two complete printed lines** in the Rukhsati poem: `علی کو مل گیا ہے ہمسفر راہ عبادت میں / شریک زندگی کے ساتھ ہی لطف عبادت ہے`. Restored both in print order and Roman, plus legible `برگزیدہ خاص` and `میسر ہو اسے دولت`. The independent Hakim Arif quatrain remains separately credited.
 
 - **Final p428 check:** removed an accidentally duplicated Urdu separator created while aligning the one printed ornament; Roman already has exactly one at that location. This fixes structure without altering the poem.
+
+## Batch 34A — original images 431–434
+
+- **431:** continuation of `درس اتحاد` from p430 ends in right-column top. Printed ornament PRECEDES `نوجوانوں سے خطاب` with its byline (the older Markdown incorrectly put the heading before the ornament). It continues across the left top; the independent `اے حسین ابن علی کے ماننے والو اٹھو` starts after another ornament in left bottom and carries through p432. Corrected visible `روز و شب ... چن چن`, `صفحہ تاریخ ماضی چھاننے والو`, and `سرگذشت کربلا` paired readings.
+- **432:** continues preceding work across right then left, ending there; corrected `تا بہ کے ساکت`, `اعضا دوا درکار`, and a source-visible education line. No independent new poem begins here.
+- **433–434:** independent Azamgarhi poems `سلامت رہو غازیو` (433 right) and `ذوالجناح` (433 left, concluding 434 right upper two lines). Corrected `بزرگان رفتہ`, `فتوحات شاہد`, and recovered the badly mangled `پڑھیں نانا کا کلمہ اور نواسے پر ستم ڈھائیں`. **434 Roman** had lost the first continuation line and placed the separator before rather than after the Zuljanah ending; fixed. The separate Persian Khomeini poem begins after the original right-column ornament and continues through the page's left column and p435 top-right. Full Persian collation still outstanding.
