@@ -932,3 +932,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **062:** restored missing source prose introducing traditional technically trained sozkhwani in the `شائقینِ سوزخوانی` notice. The first paragraph describes eligibility and the institution's classes; its dense original wording still requires full lexical collation. Kept the author’s clearly labelled personal supposition about Sakina as **his own** rather than turning it into an authenticated report.
 - **063:** reconstructed the three short teachings where OCR turned `بڑا آدمی`, `فرماں بردار زوجہ` and `نام لیواؤں` into unrelated expressions; restored the printed contact/eschatology wording. The claims remain attributed to the original author, and the prose is not treated as an independent hadith-authentication exercise.
+
+## Batch 42C — biography 064–066 and corrected p062 uncertainty
+
+- **062:** corrected an earlier provisional reconstruction: the scan confirms the institution's policy concerning trainee children and women, but some words explaining indirect access to instruction are unreadable, so these are **explicitly marked** instead of presenting a guessed phrase as printed.
+- **064:** corrected a repeated `ایم اے` artifact in the professional qualifications. Source names at the Arabic-course institution remain uncertain and are not invented.
+- **065:** corrected the source's radio/television phrasing and the author's student-union posts, for which `منتخب ہوئے` is printed. Several specific institutional positions and teacher names still require a detailed source audit.
+- **066:** removed the completely extraneous `انعامات` subheading and associated boilerplate paragraph that do not appear in the original scan. Preserved the genuine `ایوارڈز` and `خصوصی توجہ` sections and the adjoining original contact/address information; added the printed voluntary-service condition about declining travel fare and honoraria.
