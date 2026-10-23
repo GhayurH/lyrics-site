@@ -538,3 +538,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **356:** corrected the serious OCR inversion: the right-column poem `محرم آگیا امت کے شہزادے نہیں آئے` now precedes its three-line conclusion at top of the left column. Preserved its repeated printed concluding line, then the separate Bhitai quotation/credits, Abid Raza Shakib couplet, and Fatiha request in actual scan sequence. Marked uncertain names unresolved.
 - **357:** reconstituted the complete `بانو کا یہ ارمان تھا آباد مکاں ہوگا` text from the left-column print, correcting missing/misassigned lines and removing a spurious poem break inside the final verse; matched Roman line for line. First poem's following Fatiha request remains separate. Its individual verses still require final lexical check.
 - This is a **print-order and targeted transcription** pass, not a blanket word-by-word clearance.
+
+## Batch 26B — original-image transcription pp. 358 and 360
+
+- **358:** used enlarged original print to repair the opening poem's damaged verse readings (Rubab, Asghar, Abbas, and the cool wind from the river). Corrected the second poem's printed `بہتر گزر گئے` and removed an extraneous `کیا`, pairing every Urdu correction with Roman. Kept the two independent pieces and source memorial/Fatiha notes.
+- **360:** corrected the first work's printed `نبی کی آل` and two Roman misreads; inserted the original distinct couplet section for Syed Ghulam Syedain Rizvi after the earlier poem/acknowledgment, and normalized printed section breaks before the Sabira Kazmi and Syed Ali Ansar works (rather than double/unprinted separators). Fixed the clearly printed `کیوں آہ و زاری` in both versions.
+- **352–353, 355, 359:** scans checked for poem boundaries and left/right progression; no broad automatic re-transcription. Small-print names and many other OCR passages on pp. 351–360 remain unresolved and must not be claimed as word-by-word certified.
+- Next scan-order section: **361–370**. Preserve repeated refrains verbatim.
