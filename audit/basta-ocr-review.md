@@ -939,3 +939,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **064:** corrected a repeated `ایم اے` artifact in the professional qualifications. Source names at the Arabic-course institution remain uncertain and are not invented.
 - **065:** corrected the source's radio/television phrasing and the author's student-union posts, for which `منتخب ہوئے` is printed. Several specific institutional positions and teacher names still require a detailed source audit.
 - **066:** removed the completely extraneous `انعامات` subheading and associated boilerplate paragraph that do not appear in the original scan. Preserved the genuine `ایوارڈز` and `خصوصی توجہ` sections and the adjoining original contact/address information; added the printed voluntary-service condition about declining travel fare and honoraria.
+
+## Batch 42D — printed testimonials 067–068
+
+- **067:** restored the printed testimonial's `بغیر کسی نذرانہ و معاوضہ کے` rather than an inserted generic personal-interest gloss, and recovered its description of the author's work with selected, quality elegiac texts. Many further multi-line deviations in the scan remain unverified.
+- **068:** the opening is `دس شہروں کا دورہ کرنا آسان ہے`, not OCR's nonsensical `کل شہروں کا وارث`. Corrected other explicit source phrases about the reviewer's familiarity with sozkhwani and its technical difficulties. No invented proper-name changes. The writer's expressed evaluation has been preserved as endorsement, not rewritten into an editorial note.
+- Scanned all of **059–068** for continuing page order and text type. Substantial OCR ambiguity remains on 060–061's legal reasoning, 062–063 prose, biographies 064–066, and detailed testimonials 067–068. The site build has not been run; further lexical passes still required.
