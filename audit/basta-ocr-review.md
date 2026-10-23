@@ -625,3 +625,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 29E — enlarged recheck p. 389
 
 - Rechecked large print for the Sarfaraz Abad stanza: corrected the two source readings to `مٹ سکتے نہیں حرف وہ قرآنِ وفا کے` and `ہر چیز مہیا بیٹھے گھر دیتے ہیں عباس`, updating Roman simultaneously. These override OCR-influenced readings from Batch 29D.
+
+## Batch 30A — pp. 391, 393, 395, 399–400
+
+- Checked original images and matched Urdu/Roman corrections rather than inferring from Roman alone. **391:** corrected source-legible wording in the Zainab and Shadan Dehlavi Ali Akbar compositions while preserving the line-final repetitions. **393:** moved `حقیقت` and its Sibt Jafar byline to the proper side of the printed divider after the independent Zaid Shahid work. **395:** resolved several word-level Masuma-e-Qum errors visible in the print. **399:** reinstated the printed separator before Shadan Dehlavi's standalone quatrain, and recovered `کل اماموں کی ہیں ماں` in the Fatima bint Asad poem. **400:** repaired the Umm alBanin title in both scripts and the repeated `اللہ اللہ` heading in the Fizza work.
+- This is a scan-supported targeted pass, not word-by-word clearance. Next inspect the remaining corrections and continuity in 392, 394, 396–398, and all of 400's verses.
