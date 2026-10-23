@@ -898,3 +898,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 41F — p054 bottom-left short poem
 
 - Enlarged the printed short two-column-format poem on the lower left of **054**. Rebuilt its **eight source-order couplets** from the right-hand half of each printed line followed by the left-hand half; restored every printed `مت کجو` ending, previously misread as `مت پوچھ`, and the clear `محتاج غیر ... پروردگار` appeal. The heading and a difficult word in couplet 4 remain explicitly uncertain. The surrounding organization/contact prose and printed poem credit are unchanged. No Latin transliteration generated for the prose page.
+
+## Batch 42A — original scans 059–060
+
+- Inspected enlarged 059–060 print (right column then left). Corrected **059** the cited translator/author to `مولانا سید فرمان علی`, clarified the source's cited interpretive phrasing, and recovered important `لَهْوَ الْحَدِيثِ` discussion readings, notably `لونڈیاں`, `شد و مد`, and the author's distinction about the purpose of criticism. The exact title of the commentary remains unclear; do not invent it.
+- **060:** recovered source `لحن داؤدی اور حمد و مزامیر` and clarified authorial discussion of cautious scholars, explicitly preserving its original religious argument as the author's views, not an independent jurisprudential finding. Continue to leave unclear quotation details for a second visual check.
