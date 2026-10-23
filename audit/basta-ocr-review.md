@@ -865,3 +865,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 40D — enlarged p039 wording check
 
 - Revisited the source's left-column definition `معیاری و مستند سوزخوانی اور مکمل سوزخواں / استاد`. Recovered that it describes the appropriateness of the **performance**, not a soazkhwan's person: `جو سوزخوانی موقع، محل اور شخصیت کی مناسبت سے ہو`; restored `دل و دماغ کو متاثر کرے`, `روح میں تازگی و بالیدگی`, `ہر کس و ناکس`, and the closing criterion about the prescribed rules and preparation. Corrected `ہر شاگرد کیلئے اس کا استاد اور پارٹی کا سربراہ` from the same scan. Other obscured technical details on p039 still need checking.
+
+## Batch 41A — printed-source checks, 049–051
+
+- Inspected right-column-then-left enlarged scans. Corrected **049** the available printed collections `بازار میں دستیاب مجامع`, the need to check recital words with the poet or a knowledgeable person, and the sentence about the reciter arriving early as `وہ ذاکر اول ہوتا ہے`. Kept the extended explanation concerning dignified conduct and respecting accompanying reciters.
+- **050:** corrected the distinction between a gathering's `خصوصیت` and its chosen topic, and recovered the printed mention of the martyrdom recitation for `شہزادۂ اکبر`. Kept instructions for adjusting length when a scheduled speaker is delayed.
+- **051:** corrected `غیر حاضر و غائب سامعین پر بھی نظر رکھنا` and the printed recommendation to keep a watch nearby during recitation; technical descriptions involving vowel annotation remain flagged for detailed review.
+- These are verified targeted corrections, not exhaustive lexical clearance of prose, and no unrelated Roman lyrics are created.
