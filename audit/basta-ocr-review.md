@@ -748,3 +748,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **441 right:** directly reconstructed all eight opening-prayer couplets from the print; retained the same verse count, corrected `اعزہ و رفقا`, `فردوس`, and the repeated address to Allah, without changing poem order. The prayer concludes after its actual `سبط جعفر کی ... دعا` line.
 - **441 left:** separate Sibt Jafar poem for Janab Sakina begins after the printed ornament. Corrected the explicit `لبوں پہ تبسم تو آنکھوں میں آنسو` line and the `ممنون` phrase. The existing OCR is still badly corrupted in other lines; these have *not* been claimed as word-by-word verified. Retained all printed `جناب سکینہ` endings and the actual final line of the poem.
+
+## Batch 35B — original 442–443
+
+- **442 and upper-right 443:** single Rahi Jahangirabadi satirical poem `شاعری`, with original right-column-first reading order and continuation to 443. Corrected numerous clear print/OCR mismatches (`یہ مفت میں شہرت`, `مفت میں شہرت`, `اوزان`, `موجود ردیف`, and selected wording in the final verse). Paired Roman retained line-to-line alignment. A few metrical technical terms require a further lexical check; not every OCR phrase is cleared.
+- **443 left:** source independently introduces `سلام / محترم مضغم زیدی`, not the previous OCR name. Preserved its printed individual two-line stanzas and divider. A full lexical collation of the Salam is still needed.
