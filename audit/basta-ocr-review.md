@@ -653,3 +653,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **404:** Nahj-ul-Balagha poem continues from 403 through the right column, followed by separately credited Hakim Kazim Zaidi and Zair Amrohvi verses. Recovered printed `باغ جناں`, separated their credits with an editorial poem divider, and corrected Mohsin Naqvi (Shahid), not Mohsin Taqvi, on the independent left-column prayer; corrected the Zainab captivity line.
 - **405:** right column finishes the Mohsin Naqvi prayer and includes a distinct traditional folk nauha with difficult dialect spellings not yet lexically cleared. Left column begins Shadan Dehlavi on Dhul-Ashira; corrected opening to `نوید بعثت خیر الوری`, prophet's akhlaq line, and `محبت ہے نبی سے` in Urdu/Roman.
 - **406:** separate Shadan Dehlavi poems on Shi'b Abi Talib and the night of Mi'raj, in respective right/left columns. Resolved repeated `Ahl-e`, `Khuda-e`, source `ساری دنیا ہے مخالف`, `سرور کونین یوں آئے`, and `لوح و قلم`. Printed opening lines and poem boundary retained.
+
+## Batch 31C — print-order comparison 407–408
+
+- Page 407 has independent Shadan Dehlavi compositions on Shab-e-Hijrat (right column) and Khaybar (left column). Restored source `چین کی نیند`, `نہ سلجھا عقدہ دشوار`, and removed repeated Roman `shab-e Shab-e-Hijrat` artifacts without altering printed verses.
+- Page 408 continues Khaybar at upper right, then begins the independently credited Ghadir composition on the left. Restored the explicit printed gate-lifting line `اکھاڑ پھینکا فقط دو انگلیوں سے باب خیبر کو`, `انہیں ہونا تھا ثابت`, and the Ghadir `مسرتوں کا سمندر` line. Retained actual two-work boundary; remaining difficult source words are not marked lexically cleared.
