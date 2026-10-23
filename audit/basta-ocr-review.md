@@ -668,3 +668,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - Replaced the garbled p410 left-column Sibt Jafar `ہر قدم تھا ورد زباں دم ہمہ دم دم مولا` poem in both Urdu and Roman. The printed opening is retained as heading and its repeated first verse, followed by the source-order eight couplets. The p410 right-column Fadak continuation is untouched.
 - This is a structural/source-reading pass, not blanket lexical clearance. Follow-up detailed OCR ambiguities remain on other 401–410 passages (especially 403 Nahj, 405 folk dialect, 407–409). Next structural batch: 411–420.
+
+## Batch 32A — pp. 411–414, printed scan comparison
+
+- **411:** distinguished the top-right continuation of the Imam Rida poem from the separately headed Sibt Jafar `شہید ہو گئے کچھ اور تیرے لال حسین` work that reads right-column and then left-column. Corrected source-visible words and aligned Roman; further small-print ambiguities in this poem remain.
+- **412:** the sole `میں نہیں مانتا` composition by Gauhar Jarchavi includes many refrain occurrences at the end of its printed stanzas; kept every repeated `اس عزادار کو میں نہیں مانتا`. Repaired a conspicuously scrambled stanza opening `کوہ غم سے جو اپنا رخ پھیر لے`; remaining verses need fuller dialect and lexical collation.
+- **413–414:** one continuous Payam Azmi poem on motherhood: p413 right and left, finishing p414 right. Fixed `خون دل ... نس نس میں`, `ذروں کو گوہر`, `بخدا`, and the closing tabut / Shabbir lament. The independent Eid-e-Zahra piece begins on p414 left and continues on p415; retain this original section boundary.
+- This pass is source-structure plus selected source disambiguation, not word-by-word lexical signoff.
