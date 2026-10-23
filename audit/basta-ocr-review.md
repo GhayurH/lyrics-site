@@ -722,3 +722,5 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **421:** recovered the complete printed historical comparison `کعبے سے جو عداوت اصحابِ فیل کو تھی` and final `تجھ پر ہو یوں بھی رحمت` directly from enlarged originals; updated paired Roman text, leaving only unreadable first line marked.
 - **425:** enlarged right column confirmed that the OCR **omitted two complete printed lines** in the Rukhsati poem: `علی کو مل گیا ہے ہمسفر راہ عبادت میں / شریک زندگی کے ساتھ ہی لطف عبادت ہے`. Restored both in print order and Roman, plus legible `برگزیدہ خاص` and `میسر ہو اسے دولت`. The independent Hakim Arif quatrain remains separately credited.
+
+- **Final p428 check:** removed an accidentally duplicated Urdu separator created while aligning the one printed ornament; Roman already has exactly one at that location. This fixes structure without altering the poem.
