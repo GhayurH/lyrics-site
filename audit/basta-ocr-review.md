@@ -717,3 +717,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **429–430:** single Sibt Jafar `حقِ مودّت ادا کرو` poem continues from 428 through both columns on 429 and concludes at upper right of 430. Repaired exact duplicated Roman wording in the Khandaq/Khaybar stanza and printed `گرچہ تبرّا بھی ہے عبادت`, `دہلوی صاحب` in paired text. Thereafter the original prints a **separate Hazrat Mojiz Jaunpuri four-line piece**. Added its missing separator. Then a further printed divider introduces independent `ایک خالق، ایک قرآن، ایک امت، ایک رسول / درسِ اتحاد` by **Allama Hasan Azamgarhi Marhum**, which starts at 430 left. Corrected misplaced separator formerly between printed title and attribution; preserved title's repetition as first line of the poem.
 - Source-original structural coverage now reaches **430**, but **not** exhaustive lexical clearance. Specific unresolved word-level scans remain on 421 first line, 424–425, 426 original prayer, 427–428, and 429–430. Build not run. Next structural block **431–440**.
+
+## Batch 33B — enlarged source ambiguities (421, 425)
+
+- **421:** recovered the complete printed historical comparison `کعبے سے جو عداوت اصحابِ فیل کو تھی` and final `تجھ پر ہو یوں بھی رحمت` directly from enlarged originals; updated paired Roman text, leaving only unreadable first line marked.
+- **425:** enlarged right column confirmed that the OCR **omitted two complete printed lines** in the Rukhsati poem: `علی کو مل گیا ہے ہمسفر راہ عبادت میں / شریک زندگی کے ساتھ ہی لطف عبادت ہے`. Restored both in print order and Roman, plus legible `برگزیدہ خاص` and `میسر ہو اسے دولت`. The independent Hakim Arif quatrain remains separately credited.
