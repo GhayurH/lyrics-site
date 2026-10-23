@@ -794,3 +794,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - Inspected print right and left columns. The six closing couplets of the continuous `ہے باپ` poem occupy page 461 right; restored print-backed wording in Urdu and Roman (including `ہونے ہی والی`, `شام غریباں`, and the final `یہ عزاداری کا صدقہ`). The printed ornament separates this from **Sibt Jafar's** `جانے والے نہیں آئیں گے`, which occupies all of p461 left and continues on p462 right. Rebuilt eight source-order stanzas, correcting `خاصان و مردان خدا` and `جاتی ہے یہ دنیا ہم کو آپ کی نسبت سے مولا`. Preserved the title and complete return lines, not treating them as OCR duplicates.
 - This is a source-backed structural and wording correction; other tiny readings can be revisited in lexical clearance.
+
+## Batch 37B — scan comparison 462
+
+- **462 right:** closes `جانے والے نہیں آئیں گے` (continued from 461 left) with six more printed couplets, followed by a separate printed ornament and title `پاکستان کی بنیادوں میں` by Sibt Jafar. Fixed `ہٹا سکتا ہی نہیں ہے`, explicitly printed `جتنی جہادی تنظیمیں ہیں`, and the broken Roman end-refrain. Corrected opening `تن من دھن` of the national poem, including Roman. Original print order right column then left maintained.
+- **462 left:** continues the national poem as three-line stanzas. Restored `ہمیشہ ہم سے کدورت اور جلن` and retained the partially unreadable line marked without inventing a word. No unprinted divider added between columns.
