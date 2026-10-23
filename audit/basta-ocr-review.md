@@ -743,3 +743,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **439:** independently credited `دعا` by Engineer Sajid Raza Haideri begins in the left column after the printed ornament, continues across both columns of **440** right, and finishes there. Corrected obvious OCR misread in its opening `بند ٹوٹے ہیں رنج و آفت کے`; many other couplets remain in need of a meticulous lexical reconstruction.
 - **440:** the left column independently begins `میرے مالک` by Syed Sibt Jafar Zaidi; preserved its heading and the prayer's transition. Recovered print-visible `وارد کیا ہے آفت کو`, `بند در تو کرے تو کھولے کون`, `مجھے راضی برضا`, and `دے کے ایقان ہمیں صاحب عرفان کیا` with corresponding Roman text.
 - Structural source order reviewed **431–440**. Significant word-by-word ambiguities remain, particularly Persian page 434–435, the long motherhood piece 436, and prayer 439–440. Build not run. Next structural range **441–450**.
+
+## Batch 35A — scan comparison, original 441
+
+- **441 right:** directly reconstructed all eight opening-prayer couplets from the print; retained the same verse count, corrected `اعزہ و رفقا`, `فردوس`, and the repeated address to Allah, without changing poem order. The prayer concludes after its actual `سبط جعفر کی ... دعا` line.
+- **441 left:** separate Sibt Jafar poem for Janab Sakina begins after the printed ornament. Corrected the explicit `لبوں پہ تبسم تو آنکھوں میں آنسو` line and the `ممنون` phrase. The existing OCR is still badly corrupted in other lines; these have *not* been claimed as word-by-word verified. Retained all printed `جناب سکینہ` endings and the actual final line of the poem.
