@@ -921,3 +921,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **067:** corrected the quoted cleric's praise to `خود احتسابی کا شعار بنایا`; retained the original attributed opinion and devotional tone. The quoted poem at its end and some other phrases remain unclear, as indicated in the existing transcription.
 - **068:** corrected the page's professional affiliation to `وفاقی گورنمنٹ اردو کالج کراچی` and the printed identification `شاعر، خطیب، قانون دان اور ادیب`. The dense remainder of the testimony still needs word-level proofreading; avoid guessing the obscure opening aphorism.
 - Source inspection through **068** complete as a targeted pass; large proper-name lists and historical details on 064–068 remain subject to close visual verification. No website build was run. Next targeted batch: 069–078.
+
+## Batch 42A — source-verified 059–061
+
+- **059:** right/left original columns compare the author's reading of Qur'anic verses regarding so-called music prohibition. Corrected printed `ناچ گانا باجا`, the reference to alHajj 30 and Luqman 6, `نزول`, and `روکنا`. Retained quoted Qur'anic Arabic as in the existing source; full verbatim Qur'anic citation verification needs a dedicated pass.
+- **060:** recovered `ان محکم و مذکورہ بالا آیات` at the opening, without changing the author's religious argument or attributing legal conclusions to external authorities. **061:** inspected opening continuation and the section about truthfulness in devotional poetry; heavily corrupted gun-law comparison and other passages still require lexical follow-up.
+- Targeted scan-grounded corrections only. The author's explanatory commentary is preserved in its own voice.
