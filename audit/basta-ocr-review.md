@@ -770,3 +770,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 36A — scans 451–452
 
 - The long motherhood poem continues without a new work on 451–453. Examined enlarged right and left columns. **451:** corrected the coffin-cloth line `توڑ کر بند کفن`, `مادریت`, `چومتی ہے لب`, `دل پہ پتھر رکھ لیتی ہے`, the time-of-Asr line, and `تھام کر اپنا کلیجہ`. **452:** corrected `دوڑتے ہیں لاش پر گھوڑے`, `آبرو دشمنوں سے`, `فلسفی حیران`, and the printed theological teaching line `ایک ہے اللہ یہ بچے کو بتاتی ہے ماں` omitted by OCR. Paired Roman aligned, and no printed `ماں` ending removed. Difficult lines remain for individual lexical verification.
+
+## Batch 36B — source transitions 453–454
+
+- **453:** final page of the long motherhood poem, with printed right column and shorter left-column conclusion. Restored a complete `کھا کے گولی مر گیا بیٹا ... قیمت ... چیک` couplet, `حلق میں اٹکا نوالہ`, and original Karbala verses `سہرے کی جگہ`, `لاش اکبر پر جوانی پڑھ رہی ہے مرثیہ`, `سجدۂ شکر`. Kept all `ہے ماں` endings.
+- **454:** a *separate* long `دن ڈھلے جب کر کے مزدوری رضا آتا ہے باپ` poem begins with its printed title and repeated first verse; no separator is printed inside the poem. Corrected `خانقاہ`, `گھر کے پالوں`, `کر کے کوئی بھی بہانہ`, `جکڑ لیتی ہے زنجیر معاش`, `مسکرانے`, and `گھن کی طرح` in paired Urdu and Roman; other difficult lines still require lexical review.
