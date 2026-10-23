@@ -853,3 +853,11 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - 042: restored `ہمارا یہ مناجاتی کلام` at the `بین` example and corrected clearly misread guidance on the reciter. Original salām/bain/marsiya headings retained.
 - 043: corrected `مناظرانہ انداز`, `رثا اور پرسوز`, the `بستے / بستہ` term, `بیاض کی بجائے بستہ`, and the distinction concerning `زنانہ سوزخوانی`, from enlarged scan.
 - 044: corrected `موجد و معمار` and printed historical reference to the publication at `شہر عالم پریس حیدرآباد دکن` in `۱۳۱۳ھ`. Names and longer historical accounts still require lexical validation.
+
+## Batch 40C — scan collation 045–048
+
+- **045:** corrected printed `محمد قلی قطب شاہ` and `عام گائیکی اور سوزخوانی` in the history, and `میر علی صاحب` in the teacher lineage. Large lists of named artists still need full scrutiny before treating them as accurate.
+- **046:** source distinguishes the action of confirming soazkhwans in advance from listing them in notices; corrected `وعدہ لیں` and `ذاکرین و سوزخوانوں` in the guidance for organizers. No speculative changes to the long biographical name list.
+- **047:** restored `چونکہ اردو زبان` syntax, `ایک اچھے سوزخواں`, the technical lower/higher notes `کومل اور تِیور`, and the direct performance-style description `سنگینی اور متانت`.
+- **048:** corrected `گرد و غبار`, restored the need to hold one's breath (`سانس روکنے`) while rehearsing, and the printed English borrowing `اسٹیمنا` in the discussion of breath control. Kept the illustrative quoted lines and original prose order.
+- All are directly legible spot corrections, not an exhaustive lexical certification; obscured or dense details remain outstanding.
