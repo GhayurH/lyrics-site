@@ -563,3 +563,12 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **367:** the previous Urdu/Roman Markdown was NOT a transcription of its printed page; it mixed the printed `لا فتیٰ علی` qasida and Persian rubai with chunks of the `علی آگئے` poem on p. 368. Replaced both page 367 files with the actual three distinct works in scan order: Pir Badi Shah Warsi's `لا فتیٰ علی`, his Persian rubai, and Maulana Kausar Niazi's `دم بہ دم علی علی`. Preserved all four printed terminal `دم بہ دم علی علی` phrase occurrences and the printed ending. Roman rebuilt alongside Urdu.
 - Two unreadable parts in the smaller Persian stanza and a difficult first line on p. 367 remain explicitly flagged rather than reconstructed by guesswork. Page **368** must be independently corrected against its own complete print rather than accepting the earlier OCR spillover.
+
+## Batch 27C — continuation boundaries 364, 366, 368–370
+
+- **364:** retained the p363 Abu Talib continuation and separated Yadullah Haider's independent couplet in both versions. Corrected the first word `کیا خوب` from print.
+- **366:** separated the independent Sibt Jafar and Syed Tahir Nasir Ali couplets from `ہوا یا نہ ہوا`; fixed Roman `Aal-e Aal-e-Aba` duplication. Body still awaits lexical recheck.
+- **368:** corrected the page title `علی اکبر` to the printed `علی آگئے`, and repaired obvious Roman missing `آگئے`. The rest of 368 remains badly OCR-damaged and is not cleared.
+- **369:** restored the separate second-poem title's printed `زندگی نہیں آئی` while leaving the opening stanza's `زندگی نہیں آتی` untouched.
+- **370:** corrected two Roman duplications and separated Barq Zaidi's independent closing couplet from the continuation of p369.
+- Structural scans reviewed through **370**, but full word-by-word image collation, particularly 368 and small acknowledgments, is still outstanding. Next structural range **371–380**.
