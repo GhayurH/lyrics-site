@@ -614,3 +614,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 ## Batch 29C — 390 source-internal poem correction
 
 - **390:** the original scan contains **one** Sibt Jafar poem throughout, `انتظار اس کا سرِ عرشِ علی ہوتا ہے` (`ذکر شہنشاہ وفا`). The existing Urdu/Roman OCR had accidentally inserted an entirely unrelated long `میرے مولا` supplication in its left column. Replaced both pages with the print-ordered right/left sequence of the single Abbas poem, retaining each printed radif `ہوتا ہے`. Restored the bottom acknowledgment and organizer credit. Two source spans remain explicitly uncertain for later lexical clearance; do not silently restore unrelated OCR text to p390.
+
+## Batch 29D — structural source order, 386–389
+
+- **386–388:** `حال غم سنائیں گے جب امام آئیں گے` starts at left of p386 and continues through p387 to the top-right of p388; corrected the heading. **387:** removed a duplicate `یہ ہمارے مکر و ریا` stanza unprinted in the original; rejoined the `دعویٰ محبت` stanza split by the two-column boundary and removed a spurious uncertainty placeholder. Its `العجل` stanza continues to p388.
+- **388:** properly isolated Zahid Fatehpuri's independent couplet between the previous poem and the next `ظہور کا وقت آگیا ہے` poem on the left.
+- **389:** the right column completes the latter poem; its left column independently prints Sarfaraz Abad's `ہر شاخ عقیدت کو ثمر دیتے ہیں عباس`. Recovered all eight printed couplets into Urdu and Roman, retaining the `دیتے ہیں عباس` radif. Source wording and some minuscule script in the previous piece remain for lexical collation.
+- Original image structural comparison now reaches **390**. Next structural batch **391–400**. A full word-by-word lexical audit, especially 385–389, remains outstanding.
