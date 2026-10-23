@@ -784,3 +784,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - **457:** corrected `گھن کی طرح`, `کھول کر پڑھ لینا`, and verses referring to Imam Ali and Abu Talib. The original has one entire printed `جس کے چہرے میں محمد کو نظر آتا ہے باپ` line omitted in both OCR editions, which has been restored. `کر کے بیٹے کے حوالے نصرت دیں کا علم` follows it, then the printed arms-kissing line. Both scripts preserve the source sequence.
 - **458:** corrected `جب کبھی اپنے جواں بیٹے کو دفناتا ہے باپ`, `زندگی بھر جن کی خاطر`, `چھین لیتی ہے اجل`, the wedding-date line, and `دیکھ کر ماہ عزا ماں توڑتی ہے چوڑیاں`. Corrected the final `زین العبا` reference. Original remains one continuous fatherhood poem with recurring `ہے باپ` endings.
+
+## Batch 36E — continuous fatherhood poem 459–460
+
+- Both original columns were compared with the paired text. **459:** corrected the printed `منتظر نوشاہ`, `پا برہنہ`, `ایک ششماہے کو تیروں میں`, `پانی کی دو بوند`, and `جلتی ریت` lines, retaining the source-printed reiteration later on page 460. **460:** repaired `مرثیہ`, `اُمِّ ابیہا`, `سر ادھر مانگے چھری`, the Roman doubled Sham in `شام غریباں`, and restored the Fadak verses `مانگنے آئی ہے`, `اٹھتے تھے سب تعظیم کو`, and `زرد چہرہ خشک لب ... چھین گیا وہ باغ`. No artificial work divider inserted. Remaining ambiguous or corrupted lines need second-pass direct-source collation.
+- Structural scan review now covers pages **085–460 (376 pages)**. Need determine if the poem continues onto 461 before any closing or section boundary. The site build was not run.
