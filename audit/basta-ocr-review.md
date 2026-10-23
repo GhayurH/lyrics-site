@@ -991,3 +991,21 @@ Source: `audit/basta-error-report.csv`. **Ignore its first three entries** for t
 - Keep real English words, original names, marked textual uncertainty, poem-end first-line repetitions, and printed stanza boundaries intact. Do not turn unresolved uncertainty into invented quotations.
 
 Next: continue sequential source-backed checks of remaining CSV rows, including unresolved page 039 issues and later reported Urdu/Roman lyric pairs. Website `npm run build` remains unrun in this remote-edit environment.
+
+## Batch 45 — next CSV-backed checks and paired transliteration corrections
+
+- Checked `original/039.png` at enlarged scale and resolved **both** live bracketed omissions: the distinction between prescribed technical training and the potential improvement in a reciter's performance, and the printed complete-sōzkhwān qualification for closed/open venues, sound systems, and with/without supporting reciters. These are restored from print, not inferred.
+- **040–041:** the report's `Raw Material`, `Physical & Visible`, `Merit`, and `Standard Time` are genuine printed foreign-language phrases, and the word `نامکمل` is ordinary prose (meaning incomplete), not an illegibility notice. No automatic removal or translation.
+- **042:** restored `تعزیت، پرسہ اور گریہ و بکا`, the limit on the initial `آہ`, and the printed distinction noted by people from `اودھ اور دکن`. The markers have been replaced by scanned wording.
+- **043:** restored technical term `سپتک` from the lower-left scan, replacing the bracketed uncertainty; `Involvement` is genuinely printed English, so it remains.
+- **044:** restored the printed `زمزمے، لے کاری رنگینی اور تان بازی`; the extended historical passage, proper names and other uncertain print are **not** claimed resolved.
+- **045–046:** historical-name lists inspected and remain incompletely transcribed; no speculative completion of unconfirmed names.
+- **048:** recovered the clear `محسن آفندی` named with a recital example. The remaining badly damaged quoted specimen still requires a careful manual edition.
+- **049:** restored the source reference to a `مائک` and the listeners in the guidance on conduct. The remaining uncollated wording was left untouched.
+- **050–052:** original scans inspected, but substantial garbled prose on vocal technique, original example quotations and source-specific remedies still needs full transcription. `Silent/Vibrater` on 051 and `Performing Art` on 052 appear in print and are **not** reasons to alter Urdu content.
+- **109:** its historical CSV `غیر واضح` flags are already absent from the current Urdu **and** Roman files; no edits solely to silence an outdated report.
+- **111:** the second title incorrectly read `سیدہ` in Urdu where the image reads `سدا`. Corrected Urdu. Existing Roman already read `sada`, and therefore required no change.
+- **117:** compared both scripts to printed scan: restored poet **تابش دہلوی / Tabish Dehlavi** in two works, corrected printed `چھپ`, the separate attribution to **سید سعید عالم زیدی / Syed Saeed Alam Zaidi**, and the printed **مرثیہ خواں / marsiyakhwan** credit. Both Urdu and Roman updated in paired commits. The historical `غیر واضح` CSV flag on 117 is no longer present; these additional source-backed corrections are not evidence of complete lexical clearance.
+- **119:** original print's first and third credits read **محسن اعظم کرنوی / Mohsin Azam Karnavi** and **کرشن بہاری لکھنوی / Krishan Bahari Lakhnavi**, not the existing misread names. Updated **both scripts**. Historical `غیر واضح` tags are already absent from these Markdown files.
+- Remaining report entries have not been globally marked complete; all unverified readings remain open. Images, not automatic transliteration from possibly inaccurate Roman copies, remain the verification authority. Preserve repeated original opening lines at poem endings whenever printed.
+- No `npm run build` was available in the GitHub-only editing workflow.
