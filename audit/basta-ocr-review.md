@@ -572,3 +572,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **369:** restored the separate second-poem title's printed `زندگی نہیں آئی` while leaving the opening stanza's `زندگی نہیں آتی` untouched.
 - **370:** corrected two Roman duplications and separated Barq Zaidi's independent closing couplet from the continuation of p369.
 - Structural scans reviewed through **370**, but full word-by-word image collation, particularly 368 and small acknowledgments, is still outstanding. Next structural range **371–380**.
+
+## Batch 27D — targeted restored text pp. 365, 368
+
+- **365:** original print shows the missing opening-naat line `لکھی ہے نعتِ نبی میں نے اس قرینے سے`, the `اک سفینے میں` / `سو رحمتوں` couplet, and the two verses following. Recovered them and corrected `نبی کی آل سے الفت`; paired Roman edits. Also corrected the next poem's printed `شاہِ یثرب`. Some of the small-font second naat still needs detailed verification.
+- **368:** original is the single `علی آگئے` composition by Syed Sibt Jafar. Recovered the opening right-column sequence of couplets and the initial left-column lines, replacing major OCR scrambling imported from nearby texts. Marked the few unreadable source spans explicitly rather than fabricating them; the later Ashura section still requires fuller transcription.
