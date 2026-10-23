@@ -635,3 +635,10 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 
 - Compared originals **391–400** for major poem-boundary and stanza-order defects. On **392** the Zaid Shahid poem reads continuously right column then left: corrected `خراج خون... کا علم`, `غضب کے مرد خدا`, `ہوش موسیٰ`, `لقب یہ یکتا`, plus the Roman doubled `Aal-e`. Page **394** continues `حقیقت` from p393 across both columns; removed one OCR-created mid-couplet break, without altering its actual text. On **400**, repaired a visibly repeated Roman `aala` in the Fizza piece. **396–398** maintain the continuous supplication through p397 right followed by a distinct, long `آئیے اپنے مولا سے باتیں کریں` poem over pp397 left–399 right, including the printed repeat of the first line within its later stanzas.
 - Other verse-level OCR errors across these pages remain flagged for subsequent lexical review. Do not claim a full lexical clearance for 391–400.
+
+## Batch 30C — final enlarged-image spot checks
+
+- **391:** source enlargement resolves `ارباب کساء`, `عباس کبھی شبیر بنے`, and `چاہے تو بدل دے پل بھر میں` in the Zainab verses. Paired Urdu/Roman edits committed, leaving truly uncertain lines for close lexical collation.
+- **393:** the initial `حقیقت` stanza visibly says `میدان مباہلہ ہو یا کساء، خلوت ہو یا جلوت پانچوں کی`, restoring the earlier missing printed portion in both scripts.
+- **400:** restored the printed `عالی ہمت بیٹوں کی ماں` and `اس دم کربلا` rather than the OCR's incorrect readings. Distinct Umm alBanin and Fizza compositions remain separate.
+- The original scans **391–400** have been inspected for print order and targeted source ambiguities. This does not clear every OCR phrase; future passes should continue independently verifying each stanza against source, especially 394, 396–398, and 400.
