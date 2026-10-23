@@ -878,3 +878,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - **052:** recovered printed phonation instructions for rounded `آ` vowels, practicing without a pause or speed change, and watching a trained teacher's technique; preserved the remedy bullets as **historical source transcription**, not contemporary medical guidance. Several tiny remedy words remain uncertain and need checking before publication clearance.
 - **053:** corrected the printed heading `معاش و مجالس کے ہدیہ اور نذرانہ کا مسئلہ` and the wording about honouring voluntary reciters; did not rewrite the author's views or add editorial judgment. Dense details of monetary examples remain uncleared.
 - All changes retain original right-column-before-left reading order and do not introduce Roman pseudo-transcriptions for non-lyrical prose.
+
+## Batch 41C — source prose, 054–056
+
+- **054:** distinguished the printed `بشرطِ صحت و فرصت` from OCR's invented `شہر صحت و فہرست`; corrected the heading for the national charitable institutions' local office, location (`جعفر طیار سوسائٹی ملیر کراچی`) and survey number, and restored the verb `عطیہ کیا ہے`. The bottom-left short poem remains partly illegible; neither its wording nor its author was fabricated.
+- **055:** corrected the important author's first-person reference `راقم الحروف` (formerly `رائج انحراف` and other gibberish), the printed `حلت و حرمت`, and the heading `موسیقی و غنا ہے کیا؟`. Retained the author's original discussion and devotional voice, not inserting qualifications or endorsing the legal arguments.
+- **056:** source identifies `مغرب کی مروجہ اقسام`, quotes `المکاسب` and defines ghina as `صوت المغنّي مع الترجيع`; fixed these significant OCR artifacts and a later author's `راقم الحروف کی ناقص تحقیق`. The transmitted Arabic quote, verse citations and theological discussion need further line-by-line verification; no unrelated passages have been silently modernized.
