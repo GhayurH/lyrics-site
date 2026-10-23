@@ -847,3 +847,9 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - Compared the enlarged printed right and left columns of 040–041. **040:** corrected the description of an ustad's knowledge of established bastas, his ability to compose original bandishes, and the contrast of hamdiya/munajati compositions; recovered the printed heading `سوزخوانی کی بندشیں اور اجزاء (شعبے)` and fixed clear voice-performance terms.
 - **041:** retained the technical rubric for recitation of rubai/qita, soz, salam, and marsiya; corrected the distinct `سوزخوانی کے اجزاء (شعبے)` heading and some prose terminology. The opening of the page continues the preceding discussion; no artificial page boundary has been inserted.
 - A scan-backed targeted lexical pass only: substantial prose passages, particularly page 040's religious-law exposition and some page 041 technical terms, still require full word-level scrutiny.
+
+## Batch 40B — printed collation 042–044
+
+- 042: restored `ہمارا یہ مناجاتی کلام` at the `بین` example and corrected clearly misread guidance on the reciter. Original salām/bain/marsiya headings retained.
+- 043: corrected `مناظرانہ انداز`, `رثا اور پرسوز`, the `بستے / بستہ` term, `بیاض کی بجائے بستہ`, and the distinction concerning `زنانہ سوزخوانی`, from enlarged scan.
+- 044: corrected `موجد و معمار` and printed historical reference to the publication at `شہر عالم پریس حیدرآباد دکن` in `۱۳۱۳ھ`. Names and longer historical accounts still require lexical validation.
