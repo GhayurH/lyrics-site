@@ -599,3 +599,8 @@ The page **219** scan shows the repeated first line **twice**, once after stanza
 - Compared enlarged original columns, not the cross-script OCR agreement alone. **377**: repaired `نانی` (not `نائی`), `صدقہ کون و مکاں`, `جس کے در پہ آئیں ملک`, `باگ ہے نبوت کی`, and the next `کلمہ جس کا پڑھتی ہے` stanza; updated Roman alongside Urdu.
 - **378:** the first line of the page continuation says `دی اماں سرِ مقتل`, not `دے اماں`. Kept its position after the p377 sequence and before the separately titled next work.
 - The remaining obscured words in this group have **not** been guessed from rhyme or grammar; those remain for dedicated lexical verification.
+
+## Batch 29A — original scans 381–382
+
+- **381:** confirmed that `امام ہر دوسرا تھے محمد باقر` is a single work continuing right column into upper left. The separately credited Sarfaraz Abad quatrain at the bottom of the left column is now separated by a divider in both versions. Individual uncertain verses remain for the lexical pass.
+- **382:** prior Urdu/Roman files were largely synthetic OCR placeholders rather than the printed page. Reconstructed the complete Imam Jafar Sadiq composition in **right-column-first order**, preserving its repeated `امام جعفر صادق کا ...` radif in each couplet. Both later independently credited short pieces — **Safdar Husain Dogar** and **Rehan Azmi** — have been restored from their printed lines, with proper poem boundaries and Roman transliteration. One genuinely uncertain line in the main poem remains explicitly flagged for later enlarged inspection. No lines were invented to fill unreadable print.
