@@ -12,4 +12,4 @@ Source: `basta-clean.zip/original/NNN.png`.
 
 035 038 044 045 046 053 060 064 076 083 084 128 138 193 260 270 331 358 368 398 417
 
-The historical CSV is only a page-selection list. Detailed edits are in Git history. Website build not run.
+The original CSV was a historical page-selection list and has been removed from Git. Detailed edits are in Git history.
