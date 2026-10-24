@@ -6,7 +6,7 @@ Source: `basta-clean.zip/original/NNN.png`.
 - **Current-file scan complete:** 219 Urdu MDs and 168 existing Roman MDs examined for uncertainty markers. Absent Roman pages are intentional.
 - **Status:** 23 pages still have markers; 196 have none.
 - **Rule:** Check the printed scan before replacing a live marker. Keep existing Urdu/Roman files synchronized. No guessing; a page with no markers is **not** word-by-word cleared.
-- **Latest:** 076: corrected the printed preface and Aqeel Abbas Jafri’s bibliography; uncertain credentials remain marked.
+- **Latest:** 193 and 260: corrected source-verified verse wording; remaining illegible lines retained.
 
 **Open marker pages (23):**
 
