@@ -90,6 +90,9 @@ When editing Basta material:
 - keep Urdu page text aligned with its corresponding scan
 - keep Roman text associated with the same page
 - update the structured index when a correction affects index navigation
+- refresh Urdu/Roman index labels with `npm run basta:index:sync`, or check drift with `npm run basta:index:check`; these commands do not modify reviewed page Markdown
+- `npm run basta:sync` and `npm run basta:sync:check` are also index-only for safe use after proofreading
+- `npm run basta:breaks:rebuild` explicitly reconstructs poem separators and **must not** be run on manually reviewed page text without checking the results
 - preserve image paths such as `/images/basta/...`; do not replace them with the R2 custom-domain hostname
 
 The page-by-page and continuous readers both derive from these shared sources. The continuous reader's JSON chunks are generated at build time; they are not hand-maintained files.

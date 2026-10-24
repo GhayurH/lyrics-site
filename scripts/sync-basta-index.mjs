@@ -14,7 +14,9 @@ const ROMAN_DIR = path.join(ROOT, "src/data/basta/roman");
 
 const KALAM_BREAK = "---***---";
 const CHECK_ONLY = process.argv.includes("--check");
-const MIN_INDEX_SCORE = 0.32;
+// Safely update index labels without touching manually reviewed stanza breaks.
+const INDEX_ONLY = !process.argv.includes("--sync-breaks");
+const MIN_INDEX_SCORE = INDEX_ONLY ? 0.78 : 0.32;
 const MIN_BREAK_SCORE = 0.30;
 const NON_KALAM_SECTIONS = new Set(["مضامین"]);
 
@@ -514,7 +516,11 @@ async function main() {
   const indexEntries = JSON.parse(originalIndexText);
   const urduPages = await loadMarkdownDirectory(URDU_DIR);
   const romanPages = await loadMarkdownDirectory(ROMAN_DIR);
-  const manual = applyManualOverrides(indexEntries);
+  // The checked-in index is authoritative; historical hard-coded overrides
+  // must not reset newer label corrections during normal index-only sync.
+  const manual = INDEX_ONLY
+    ? { indexTextUpdates: 0, pageUpdates: 0 }
+    : applyManualOverrides(indexEntries);
   let grouped = groupIndexEntries(indexEntries);
 
   let urduIndexUpdates = 0;
@@ -530,7 +536,7 @@ async function main() {
     const urduPage = urduPages.get(page);
     if (urduPage) {
       for (const { entry } of group) {
-        if (MANUAL_OVERRIDES.has(entryKey(entry))) continue;
+        if (!INDEX_ONLY && MANUAL_OVERRIDES.has(entryKey(entry))) continue;
         const { match } = bestMatch(entry.name ?? "", urduPage.body, "urdu");
         if (!match) continue;
         if (match.score >= MIN_INDEX_SCORE) {
@@ -549,7 +555,7 @@ async function main() {
     const romanPage = romanPages.get(page);
     if (romanPage) {
       for (const { entry } of group) {
-        if (!entry.romanName || MANUAL_OVERRIDES.has(entryKey(entry))) continue;
+        if (!entry.romanName || (!INDEX_ONLY && MANUAL_OVERRIDES.has(entryKey(entry)))) continue;
         const { match } = bestMatch(entry.romanName, romanPage.body, "roman");
         if (!match) continue;
         if (match.score >= MIN_INDEX_SCORE) {
@@ -570,40 +576,43 @@ async function main() {
   // which their corrected text actually starts.
   grouped = groupIndexEntries(indexEntries);
 
-  // Rebuild all explicit page markers from scratch. This removes any misplaced
-  // markers produced by the first version before inserting the corrected ones.
-  for (const [page, group] of grouped) {
-    const kalamItems = group.filter(({ entry }) => isKalamEntry(entry));
-    if (!kalamItems.length) continue;
+  // Rebuild separators only when explicitly requested; index-only mode must
+  // never edit the source Markdown after manual OCR clearance.
+  if (!INDEX_ONLY) {
+    for (const [page, group] of grouped) {
+      const kalamItems = group.filter(({ entry }) => isKalamEntry(entry));
+      if (!kalamItems.length) continue;
 
-    const urduPage = urduPages.get(page);
-    if (urduPage) {
-      const boundaries = findBreakBoundaries(kalamItems, urduPage.body, "urdu", page, warnings);
-      const nextBody = addBreaks(urduPage.body, boundaries);
-      const nextRaw = urduPage.frontmatter + nextBody;
-      if (nextRaw !== urduPage.raw) {
-        urduBreakPages += 1;
-        urduPage.nextRaw = nextRaw;
+      const urduPage = urduPages.get(page);
+      if (urduPage) {
+        const boundaries = findBreakBoundaries(kalamItems, urduPage.body, "urdu", page, warnings);
+        const nextBody = addBreaks(urduPage.body, boundaries);
+        const nextRaw = urduPage.frontmatter + nextBody;
+        if (nextRaw !== urduPage.raw) {
+          urduBreakPages += 1;
+          urduPage.nextRaw = nextRaw;
+        }
+      }
+
+      const romanPage = romanPages.get(page);
+      const romanKalamItems = kalamItems.filter(({ entry }) => Boolean(entry.romanName));
+      if (romanPage && romanKalamItems.length) {
+        const boundaries = findBreakBoundaries(
+          romanKalamItems,
+          romanPage.body,
+          "roman",
+          page,
+          warnings,
+        );
+        const nextBody = addBreaks(romanPage.body, boundaries);
+        const nextRaw = romanPage.frontmatter + nextBody;
+        if (nextRaw !== romanPage.raw) {
+          romanBreakPages += 1;
+          romanPage.nextRaw = nextRaw;
+        }
       }
     }
 
-    const romanPage = romanPages.get(page);
-    const romanKalamItems = kalamItems.filter(({ entry }) => Boolean(entry.romanName));
-    if (romanPage && romanKalamItems.length) {
-      const boundaries = findBreakBoundaries(
-        romanKalamItems,
-        romanPage.body,
-        "roman",
-        page,
-        warnings,
-      );
-      const nextBody = addBreaks(romanPage.body, boundaries);
-      const nextRaw = romanPage.frontmatter + nextBody;
-      if (nextRaw !== romanPage.raw) {
-        romanBreakPages += 1;
-        romanPage.nextRaw = nextRaw;
-      }
-    }
   }
 
   const nextIndexText = JSON.stringify(indexEntries, null, 2) + "\n";
@@ -621,7 +630,7 @@ async function main() {
     }
   }
 
-  console.log(`${CHECK_ONLY ? "Checked" : "Synchronized"} Basta index and kalam boundaries.`);
+  console.log(`${CHECK_ONLY ? "Checked" : "Synchronized"} Basta ${INDEX_ONLY ? "index labels (page text unchanged)" : "index and kalam boundaries"}.`);
   console.log(`  Manual index text corrections: ${manual.indexTextUpdates}`);
   console.log(`  Manual index page corrections: ${manual.pageUpdates}`);
   console.log(`  Urdu index entries ${CHECK_ONLY ? "needing updates" : "updated"}: ${urduIndexUpdates}`);
