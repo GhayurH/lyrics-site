@@ -8,8 +8,8 @@ Source: `basta-clean.zip/original/NNN.png`.
 - **Rule:** Check the printed scan before replacing a live marker. Keep existing Urdu/Roman files synchronized. No guessing; a page with no markers is **not** word-by-word cleared.
 - **Latest:** 065 cleared; corrected printed artist names on 035 and 084.
 
-**Open marker pages (21):**
+**Open marker pages:**
 
-035 038 044 045 046 053 060 064 076 083 084 128 138 193 260 270 331 358 368 398 417
+035 038 044 045 046 053 060 064 076 083 084  138 193 260 270 331 358 368 398 417
 
 The original CSV was a historical page-selection list and has been removed from Git. Detailed edits are in Git history.
