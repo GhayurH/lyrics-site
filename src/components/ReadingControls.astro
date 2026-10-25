@@ -37,7 +37,7 @@ const {
   </div>
   <button type="button" class="reading-focus-fullscreen" data-reading-fullscreen-toggle aria-pressed="false">Browser fullscreen</button>
 
-  <div class="reading-control-group reading-view-control">
+  <div class:list={["reading-control-group", "reading-view-control", (imageOnly || (!hasImage && !showModes)) && "reading-view-control-only"]}>
     <span class="reading-control-label">Show editions</span>
     <div class="reading-column-choices" role="group" aria-label={modeGroupLabel}>
       {hasImage && (

@@ -221,3 +221,21 @@ html[data-reading-focus="true"] .reading-regular-options-toggle { display: none;
 .reading-open-page:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 html[data-reading-focus="true"] .reading-controls > .reading-open-page { display: none; }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-open-page { display: inline-flex; order: 3; pointer-events: auto; }
+
+/* Index tables become readable linked entries on very narrow containers. */
+.basta-index-mobile-list { display: none; }
+@container reader-shell (max-width: 30rem) {
+  .basta-index-table-wrap { display: none; }
+  .basta-index-mobile-list { display: grid; gap: .45rem; }
+  .basta-index-mobile-item {
+    display: grid; grid-template-columns: minmax(0,1fr) auto;
+    gap: .25rem .75rem; align-items: start; padding: .7rem .8rem;
+    border: 1px solid var(--border-colour); border-radius: .6rem;
+    background: var(--surface-background);
+  }
+  .basta-index-mobile-title { grid-column: 1; font-weight: 700; line-height: 1.7; }
+  .basta-index-mobile-page { grid-column: 2; font-size: .85rem; white-space: nowrap; }
+  .basta-index-mobile-haal { grid-column: 1 / -1; color: var(--secondary-text); font-size: .88rem; }
+}
+
+.reading-view-control-only { display: none !important; }
