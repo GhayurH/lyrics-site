@@ -82,16 +82,21 @@ export function recordRecentLyric(id: string, limit = 20): string[] {
 }
 
 /** Last visited Basta page, retained locally without storing individual reading activity. */
-export interface BastaPosition extends Record<string, unknown> { page: number; mode: "page" | "continuous" }
+export interface BastaPosition extends Record<string, unknown> { page: number; mode: "page" | "continuous"; offset?: number }
 export function readBastaPosition(): BastaPosition | undefined {
   const value = readRecord(STORAGE_KEYS.bastaPosition);
   if (typeof value.page !== "number" || !Number.isSafeInteger(value.page) || value.page < 1 || value.page > 1000) return;
   if (value.mode !== "page" && value.mode !== "continuous") return;
-  return { page: value.page, mode: value.mode };
+  return {
+    page: value.page, mode: value.mode,
+    ...(typeof value.offset === "number" && Number.isFinite(value.offset) && value.offset >= 0 && value.offset <= 1
+      ? { offset: value.offset } : {}),
+  };
 }
 export function writeBastaPosition(position: BastaPosition): void {
   const current = readBastaPosition();
-  if (current?.page === position.page && current.mode === position.mode) return;
+  if (current?.page === position.page && current.mode === position.mode &&
+      Math.abs((current.offset ?? 0) - (position.offset ?? 0)) < 0.005) return;
   writeRecord(STORAGE_KEYS.bastaPosition, position);
   window.dispatchEvent(new Event("kalam:reading-progress"));
 }
