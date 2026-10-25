@@ -87,7 +87,7 @@
 /* Landscape layouts are determined by usable width, not pointer type:
    Android browsers can report either coarse or fine pointers. Explicit grid
    areas override older <=920px stacked rules for both regular and focus views. */
-@media (orientation: landscape) and (min-width: 640px) and (max-height: 700px) {
+@media (orientation: landscape) and (min-width: 560px) and (max-width: 1100px) {
   /* The controls scroll out of view, rather than occupying reading space. */
   @media (pointer: coarse) {
     html:not([data-reading-focus="true"]) .site-header,
@@ -205,7 +205,7 @@
 
 /* Focus mode already uses full viewport; prevent auto margins from making
    its two text panels shrink inside their allocated grid cells. */
-@media (orientation: landscape) and (min-width: 640px) and (max-height: 700px) {
+@media (orientation: landscape) and (min-width: 560px) and (max-width: 1100px) {
   html[data-reading-focus="true"] .lyric-reading-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
