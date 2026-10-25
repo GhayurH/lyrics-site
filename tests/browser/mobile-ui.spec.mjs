@@ -58,6 +58,7 @@ test("selected Image Urdu Roman cells are entirely filled in every applicable re
   ]) {
     await page.setViewportSize({ width: 342, height: 844 });
     await page.goto(route, { waitUntil: "domcontentloaded" });
+    await page.locator("[data-reading-regular-toggle]").click();
     const choices = page.locator(".reading-column-choice");
     await expect(choices.first()).toBeVisible();
     const count = await choices.count();
@@ -123,6 +124,7 @@ test("Basta page-by-page fills the full width of each stacked edition in mobile 
 test("Basta mobile portrait remains full width if the scan is also selected", async ({ page }) => {
   await page.setViewportSize({ width: 342, height: 844 });
   await page.goto("/basta/200/");
+  await page.locator("[data-reading-regular-toggle]").click();
   await page.locator('[data-reading-column][value="image"]').check();
   const root = page.locator(".basta-page-grid");
   const [original, text, panel] = await Promise.all([

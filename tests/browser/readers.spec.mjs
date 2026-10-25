@@ -69,6 +69,7 @@ test("only line spacing is configurable, and its value survives reload", async (
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   await expect(page.locator("[data-reading-font-size], [data-reading-wrap-verses], [data-reading-regular-options]")).toHaveCount(0);
+  await page.locator("[data-reading-regular-toggle]").click();
   const spacing = page.locator("[data-reading-line-spacing]");
   await spacing.selectOption("relaxed");
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
@@ -141,6 +142,7 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
   await expect(target).toBeAttached({ timeout: 20000 });
   await target.evaluate((node) => node.scrollIntoView({ block: "start", behavior: "instant" }));
   await page.evaluate(() => window.scrollBy(0, 125));
+  await page.locator("[data-reading-regular-toggle]").click();
   await page.locator('[data-reading-column][value="roman"]').uncheck();
   const editions = await page.locator("[data-reading-root]").getAttribute("data-reading-columns");
   await page.getByRole("button", { name: "Focus mode" }).click();
