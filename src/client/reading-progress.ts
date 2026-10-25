@@ -89,6 +89,9 @@ export function initReadingProgress(): void {
     // Resolve the streamed hash first, then restore the fine-grained offset.
     requestAnimationFrame(() => requestAnimationFrame(() => {
       restorePageOffset(target, resume!, scroller());
+      const url = new URL(location.href);
+      url.searchParams.delete("resume");
+      history.replaceState(history.state, "", url.pathname + url.search + url.hash);
       update();
     }));
   };

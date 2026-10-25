@@ -185,3 +185,14 @@ test("resume uses within-page fractions in page-by-page and continuous routes", 
   await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(100);
   expect(saved.offset).toBeLessThanOrEqual(1);
 });
+
+test("mobile Basta index headings use separate full-width rows", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/index/");
+  const urdu = page.locator(".basta-parallel-index-overall-headings .basta-parallel-index-urdu");
+  const roman = page.locator(".basta-parallel-index-overall-headings .basta-parallel-index-roman");
+  await expect(urdu).toBeVisible();
+  await expect(roman).toBeVisible();
+  const a = await urdu.boundingBox(), b = await roman.boundingBox();
+  expect(Math.abs(a.y - b.y)).toBeGreaterThan(20);
+});

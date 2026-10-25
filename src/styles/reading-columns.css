@@ -239,3 +239,20 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 }
 
 .reading-view-control-only { display: none !important; }
+
+/* The original bilingual-index grid has greater specificity than the generic
+   layout rule. Make both headings and sections genuinely vertical on phones. */
+@container reader-shell (max-width: 40rem) {
+  :is(.basta-index-mode-shell, .basta-reader-flow)[data-reading-mode="parallel"] .basta-parallel-index-overall-headings {
+    grid-template-areas: "urdu" "roman";
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+  :is(.basta-index-mode-shell, .basta-reader-flow)[data-reading-mode="parallel"] .basta-parallel-index-section {
+    grid-template-areas: "urdu-heading" "urdu-table" "roman-heading" "roman-table";
+    grid-template-columns: minmax(0, 1fr);
+  }
+  :is(.basta-index-mode-shell, .basta-reader-flow) .basta-parallel-index-overall-headings > h2 {
+    padding-inline: 0; text-align: start;
+  }
+}

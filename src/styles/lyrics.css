@@ -119,3 +119,9 @@
   .lyric-neighbor-category { grid-column: auto; grid-row: auto; order: -1; }
   .lyric-neighbor-next > a { text-align: left; }
 }
+
+/* Source links must remain accessible without colliding with category navigation. */
+.lyric-header > .source-scan-link { display: inline-flex; margin-inline-start: 1.25rem; }
+@media (max-width: 430px) {
+  .lyric-header > .source-scan-link { margin-inline-start: .8rem; }
+}

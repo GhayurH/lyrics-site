@@ -192,6 +192,18 @@ function pageFromHash(): number | undefined {
   return match ? Number(match[1]) : undefined;
 }
 
+function settlePageHash(target: HTMLElement): void {
+  target.scrollIntoView({ block: "start", behavior: "instant" });
+  // Fonts and nearby streamed chunks can otherwise shift the target up a page.
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    if (location.hash !== `#${target.id}`) return;
+    if (!new URLSearchParams(location.search).has("resume")) {
+      target.scrollIntoView({ block: "start", behavior: "instant" });
+    }
+    window.dispatchEvent(new Event("basta:hash-resolved"));
+  }));
+}
+
 async function resolveHash(): Promise<void> {
   // The index is already in the document, but loading preceding chunks first
   // prevents it from jumping downward after a direct #index navigation.
@@ -210,8 +222,7 @@ async function resolveHash(): Promise<void> {
 
   const target = document.getElementById(`page-${page}`);
   if (target) {
-    target.scrollIntoView();
-    window.dispatchEvent(new Event("basta:hash-resolved"));
+    settlePageHash(target);
     return;
   }
 
@@ -225,8 +236,8 @@ async function resolveHash(): Promise<void> {
   if (!chunk) return;
 
   await loadChunk(chunk);
-  document.getElementById(`page-${page}`)?.scrollIntoView();
-  window.dispatchEvent(new Event("basta:hash-resolved"));
+  const loaded = document.getElementById(`page-${page}`);
+  if (loaded) settlePageHash(loaded);
 }
 
 export function initBastaStreamingReader(): void {
