@@ -1,15 +1,16 @@
 ---
 // File role: Shared Basta single-language text renderer: turns explicit between-kalam markers into clean visual dividers while preserving stanza whitespace.
-import { layoutBastaKalam, splitBastaKalams } from "../lib/basta-text";
+import { layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
 import "../styles/basta-kalam-break.css";
 
 interface Props {
   text: string;
   className: string;
   indentStanzas?: boolean;
+  stanzaStyle?: BastaStanzaStyle;
 }
 
-const { text, className, indentStanzas = true } = Astro.props as Props;
+const { text, className, indentStanzas = true, stanzaStyle = "auto" } = Astro.props as Props;
 const kalams = splitBastaKalams(text);
 ---
 
@@ -23,7 +24,7 @@ const kalams = splitBastaKalams(text);
           </div>
         )}
         <div class="basta-kalam-text">
-          {layoutBastaKalam(kalam, indentStanzas).map((line) => (
+          {layoutBastaKalam(kalam, indentStanzas, stanzaStyle).map((line) => (
             <span class:list={["basta-verse-line", line.indent && "basta-verse-indent"]}>{line.text}</span>
           ))}
         </div>

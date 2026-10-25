@@ -43,3 +43,55 @@ test("kalam separators keep boundaries independent", () => {
     [false, true],
   ]);
 });
+
+test("page 139 heading/poet stay unindented while each Urdu couplet is offset", () => {
+  const stanza = [
+    "کربلا کی خاک پر کیا آدمی سجدے میں ہے",
+    "افتخار عارف",
+    "",
+    "کربلا کی خاک پر کیا آدمی سجدے میں ہے",
+    "موت رسوا ہوچکی ہے، زندگی سجدے میں ہے",
+    "یہ جو موجیں سر جھکتی ہیں سرِ نہرِ فرات",
+    "ایسا لگتا ہے یہاں پیاسا کوئی سجدے میں ہے",
+    "نوکِ نیزہ پر بھی ہوتی ہے تلاوت بعدِ عصر",
+    "مصحفِ ناطق، یہ فخرِ آدمی سجدے میں ہے",
+    "(بشکریہ سوزخواں برادران کاظم و عباس)",
+  ].join("\n");
+  const result = layoutBastaKalam(stanza, true, "couplet");
+  assert.deepEqual(result.map((line) => line.indent), [
+    false, false, false, false, true, false, true, false, true, false,
+  ]);
+});
+
+test("page 139 Roman couplets use the same layout", () => {
+  const text = [
+    "Khuda-shinasi o khud-agahi Husain se hai",
+    "Anwar Turabi",
+    "",
+    "Khuda-shinasi o khud-agahi Husain se hai",
+    "Ke aadmi ba-Khuda aadmi Husain se hai",
+    "Jala gaya hai bahattar chiragh",
+    "Jahan mein char taraf roshni",
+    "Usul-e-din ka tahaffuz",
+    "Jahan mein kal ki tarah aaj bhi",
+    "Jahan se farq-e-halal o haram uth jata",
+    "Ye waqfiyat-e-amr o nahi Husain se hai",
+  ].join("\n");
+  assert.deepEqual(layoutBastaKalam(text, true, "couplet").map((line) => line.indent), [
+    false, false, false, false, true, false, true, false, true, false, true,
+  ]);
+});
+
+test("Salam unbroken six lines are three couplets, unlike Marsiya six-line stanzas", () => {
+  const text = "a\nb\nc\nd\ne\nf";
+  assert.deepEqual(indents(text, true), [false, false, false, false, true, true]);
+  assert.deepEqual(layoutBastaKalam(text, true, "couplet").map((line) => line.indent), [
+    false, true, false, true, false, true,
+  ]);
+});
+
+test("four-line stanza breaks remain unindented even in the Salam section", () => {
+  assert.deepEqual(layoutBastaKalam("a\nb\nc\nd", true, "couplet").map((line) => line.indent), [
+    false, false, false, false,
+  ]);
+});

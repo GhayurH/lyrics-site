@@ -1,6 +1,6 @@
 // File role: Progressive continuous-reader loader: hydrates static page chunks near the viewport and resolves deep #page-N links without shipping the full book HTML initially.
 import type { BastaReaderChunk, BastaReaderPageData } from "../lib/basta";
-import { layoutBastaKalam, splitBastaKalams } from "../lib/basta-text";
+import { layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
 import settings from "../data/basta/settings.json";
 
 function element<K extends keyof HTMLElementTagNameMap>(
@@ -23,19 +23,19 @@ function renderKalamBreak(): HTMLElement {
   return separator;
 }
 
-function appendBastaVerses(container: HTMLElement, value: string, indentStanzas = true): void {
-  for (const line of layoutBastaKalam(value, indentStanzas)) {
+function appendBastaVerses(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
+  for (const line of layoutBastaKalam(value, indentStanzas, stanzaStyle)) {
     const verse = element("span", line.indent ? "basta-verse-line basta-verse-indent" : "basta-verse-line");
     verse.textContent = line.text;
     container.append(verse);
   }
 }
 
-function appendBastaText(container: HTMLElement, value: string, indentStanzas = true): void {
+function appendBastaText(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
   splitBastaKalams(value).forEach((kalam, index) => {
     if (index > 0) container.append(renderKalamBreak());
     const block = element("div", "basta-kalam-text");
-    appendBastaVerses(block, kalam, indentStanzas);
+    appendBastaVerses(block, kalam, indentStanzas, stanzaStyle);
     container.append(block);
   });
 }
@@ -65,7 +65,7 @@ function renderParallelText(page: BastaReaderPageData): HTMLElement {
       `Roman Urdu kalam ${index + 1} of Basta page ${page.page}`,
     );
     const romanText = element("div", "basta-reader-text basta-kalam-text");
-    appendBastaVerses(romanText, romanKalams[index] ?? "");
+    appendBastaVerses(romanText, romanKalams[index] ?? "", true, page.stanzaStyle);
     roman.append(romanText);
 
     const urdu = element(
@@ -79,7 +79,7 @@ function renderParallelText(page: BastaReaderPageData): HTMLElement {
       `Urdu kalam ${index + 1} of Basta page ${page.page}`,
     );
     const urduText = element("div", "basta-reader-text basta-kalam-text");
-    appendBastaVerses(urduText, urduKalams[index] ?? "");
+    appendBastaVerses(urduText, urduKalams[index] ?? "", true, page.stanzaStyle);
     urdu.append(urduText);
 
     row.append(roman, urdu);
@@ -123,7 +123,7 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     urdu.dir = "rtl";
     urdu.setAttribute("aria-label", `Urdu text of Basta page ${page.page}`);
     const urduText = element("div", "basta-reader-text");
-    appendBastaText(urduText, page.urduText, page.page >= settings.romanLyricsStartPage);
+    appendBastaText(urduText, page.urduText, page.page >= settings.romanLyricsStartPage, page.stanzaStyle);
     urdu.append(urduText);
 
     grid.append(roman, urdu);

@@ -2,6 +2,7 @@
 import indexEntries from "../data/basta/index.json";
 import type { BastaIndexEntry } from "./basta";
 import type { LyricCardData } from "./catalog";
+import type { BastaStanzaStyle } from "./basta-text";
 
 /* The mixed Hamd/Naat/Manaqib index section intentionally shares the
    Manqabat category with standalone kalams. Non-poetic introductory
@@ -94,4 +95,16 @@ export function getBastaKalamTypesForPage(page: number): string[] {
   }
 
   return types.size > 0 ? [...types] : previousType ? [previousType] : [];
+}
+
+/** Keep printed Salam couplets consistent in both readers, without
+ * indenting the transitional Marsiya introduction after the last Salam. */
+export function getBastaStanzaStyleForPage(page: number): BastaStanzaStyle {
+  if (!getBastaKalamTypesForPage(page).includes("Salam")) return "auto";
+  const lastSalamStartPage = (indexEntries as BastaIndexEntry[])
+    .filter((entry) => entry.sectionRoman === "Salam")
+    .at(-1)?.page;
+  return lastSalamStartPage !== undefined && page <= lastSalamStartPage
+    ? "couplet"
+    : "auto";
 }

@@ -8,7 +8,7 @@ import BastaParallelText from "../../components/BastaParallelText.astro";
 import BastaText from "../../components/BastaText.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
-import { getBastaKalamTypesForPage } from "../../lib/basta-categories";
+import { getBastaKalamTypesForPage, getBastaStanzaStyleForPage } from "../../lib/basta-categories";
 import { loadBastaNavigationData, loadBastaRomanByPage } from "../../lib/basta-pages";
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
@@ -69,6 +69,7 @@ const {
 } = Astro.props as Props;
 
 const page = entry.data.page;
+const stanzaStyle = getBastaStanzaStyleForPage(page);
 const urduText = (entry.body ?? "").trim();
 const romanText = (romanEntry?.body ?? "").trim();
 const hasRomanText = romanText.length > 0;
@@ -192,6 +193,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
             urduText={urduText}
             romanText={romanText}
             variant="page"
+            stanzaStyle={stanzaStyle}
             page={page}
             showHeadings
           />
@@ -207,7 +209,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
             aria-label={`Urdu text of Basta page ${page}`}
           >
             <h2 class="basta-page-text-heading">Urdu text</h2>
-            <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} />
+            <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} stanzaStyle={stanzaStyle} />
           </section>
         )
       }
