@@ -10,6 +10,8 @@ aliases:
   - "Chut Kar Pidar Se Be-Kas-o-Tanha The Askari"
 cover: "/images/lyrics/chut-kar-pidar-se-be-kas-o-tanha-the-askari.png"
 coverAlt: "Cover image for Chut Kar Pidar Se Be-Kas-o-Tanha The Askari"
+bastaPage: 318
+bastaNote: original-selection
 published: true
 romanLyrics: |-
   1
