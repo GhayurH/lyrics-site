@@ -1,6 +1,6 @@
 // File role: Progressive continuous-reader loader: hydrates static page chunks near the viewport and resolves deep #page-N links without shipping the full book HTML initially.
 import type { BastaReaderChunk, BastaReaderPageData } from "../lib/basta";
-import { layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
+import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
 import settings from "../data/basta/settings.json";
 
 function element<K extends keyof HTMLElementTagNameMap>(
@@ -25,7 +25,8 @@ function renderKalamBreak(): HTMLElement {
 
 function appendBastaVerses(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
   for (const line of layoutBastaKalam(value, indentStanzas, stanzaStyle)) {
-    const verse = element("span", ["basta-verse-line", line.indent && "basta-verse-indent", line.verse && "basta-verse-poetry"].filter(Boolean).join(" "));
+    if (line.hidden) continue;
+    const verse = element("span", bastaVerseClassNames(line));
     verse.textContent = line.text;
     container.append(verse);
   }

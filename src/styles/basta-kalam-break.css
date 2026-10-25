@@ -1,36 +1,18 @@
 /* File role: Shared bilingual Basta kalam layout and between-kalam divider treatment for page-by-page and continuous readers. */
 
-/* Single-language fallback renderer. Keep the wrapper itself from
-   preserving formatting whitespace, but do not override the explicit kalam
-   text blocks used by the bilingual renderer. */
-.basta-urdu-text:not(.basta-kalam-text),
-.basta-roman-text:not(.basta-kalam-text),
-.basta-reader-text:not(.basta-kalam-text) {
-  white-space: normal;
-}
-
 .basta-kalam-text {
   white-space: normal;
   overflow-wrap: anywhere;
   min-width: 0;
   max-width: 100%;
-  /* Without JavaScript long verse lines remain intact and scrollable. */
+  /* Keep long, non-wrapping verses readable when fitting reaches its minimum size. */
   overflow-x: auto;
   overscroll-behavior-inline: contain;
   scrollbar-width: thin;
 }
 
-/* More specific than the language/page typography rules, which otherwise
-   preserve template whitespace between individually rendered verse spans. */
-.basta-urdu-text.basta-kalam-text,
-.basta-roman-text.basta-kalam-text,
-.basta-reader-text.basta-kalam-text {
-  white-space: normal;
-}
-
-/* Direction-aware verse indentation follows printed Basta conventions:
-   two-line stanzas offset their second verse, and six-line stanzas offset
-   their closing two verses. The line wrapper also preserves blank lines. */
+/* Direction-aware verse indentation offsets the second verse of a couplet.
+   Six-line stanza endings use separate horizontal framing rules. */
 .basta-verse-line {
   display: block;
   white-space: pre-wrap;
@@ -43,7 +25,7 @@
   word-break: normal;
   text-align: justify;
   text-align-last: justify;
-  min-inline-size: var(--basta-verse-min-width, 0px);
+  min-inline-size: var(--verse-min-width, 0px);
 }
 
 .basta-verse-line:empty::before {
@@ -51,12 +33,46 @@
   white-space: pre;
 }
 
-/* A subtle, direction-aware rule follows the inset printed verse.
-   Logical spacing puts it on the right for Urdu and left for Roman Urdu. */
+/* Opposing inset margins create the alternating couplet silhouette.
+   End padding preserves the separator rule's full width on the first verse. */
 .basta-verse-indent {
-  margin-inline-start: clamp(1.25rem, 5%, 2.25rem);
-  padding-inline-start: clamp(1rem, 5%, 2.25rem);
-  border-inline-start: 1px solid var(--secondary-text);
+  margin-inline-start: clamp(1.75rem, 6%, 3rem);
+}
+
+.basta-verse-reverse-indent {
+  padding-inline-end: clamp(1.75rem, 6%, 3rem);
+}
+
+/* Each following couplet starts with one horizontal separator. */
+.basta-couplet-separator {
+  border-top: 1px solid var(--secondary-text);
+  margin-block-start: 0.55em;
+  padding-block-start: 0.3em;
+}
+
+/* Six-verse stanzas: verses 1–4 use the reverse end inset;
+   the closing pair reuses .basta-verse-indent and stays framed with
+   horizontal rules. No extra inset or blank verse between lines 4 and 5. */
+.basta-six-closing-start {
+  border-top: 1px solid var(--secondary-text);
+}
+
+.basta-six-closing-end {
+  border-bottom: 1px solid var(--secondary-text);
+}
+
+/* Refrains share the closing couplet's rule when both occur together. */
+.basta-refrain {
+  font-weight: 750;
+  border-top: 1px solid var(--secondary-text);
+  margin-block-start: 0.45em;
+  padding-block-start: 0.18em;
+}
+
+.basta-refrain-shared-rule {
+  border-top: 0;
+  margin-block-start: 0;
+  padding-block-start: 0;
 }
 
 /* Each Roman/Urdu kalam occupies one common grid row. The row height is the
@@ -82,29 +98,7 @@
   align-content: center;
 }
 
-.basta-kalam-cell-urdu {
-  align-self: stretch;
-}
-
-/* The page-by-page reader still has legacy rules that assign .basta-page-roman
-   and .basta-page-urdu to outer-grid areas. These cells now live inside each
-   paired kalam row, so reset those inherited placements at the row boundary. */
-.basta-page-grid.basta-page-grid-with-roman
-  .basta-parallel-kalam-row > .basta-kalam-cell-roman,
-.basta-page-grid.basta-page-grid-with-roman
-  .basta-parallel-kalam-row > .basta-kalam-cell-urdu {
-  grid-area: auto;
-}
-
-/* Legacy parallel-mode CSS also forces the Roman cell back to display:block.
-   Keep it as a grid while side-by-side so align-content can vertically centre
-   shorter Roman text against the corresponding Urdu kalam. */
-.basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"]
-  .basta-parallel-kalam-row > .basta-kalam-cell-roman {
-  display: grid;
-}
-
-/* One shared separator for both languages instead of two independent ornaments. */
+/* One divider spans both language columns at each kalam boundary. */
 .basta-kalam-break {
   display: grid;
   grid-template-columns: minmax(2rem, 1fr) auto minmax(2rem, 1fr);
@@ -142,9 +136,7 @@
   grid-area: text;
 }
 
-/* The new bilingual renderer is one outer-grid item containing its own two
-   aligned language columns. Do not let the older three-column page layout
-   squeeze that whole renderer into the legacy Roman slot. */
+/* The bilingual text is a single outer-grid cell beside the scan. */
 @media (min-width: 1101px) {
   .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="parallel"] {
     grid-template-areas: "scan text";
@@ -185,17 +177,11 @@
   text-align: right;
 }
 
-/* Continuous reader keeps the existing column typography/padding contracts,
-   but applies them per kalam row so both languages stay synchronized. */
-.basta-parallel-kalams-reader .basta-reader-roman {
-  grid-area: auto;
-  border-right: 1px solid var(--border-colour);
-  padding-right: clamp(1rem, 2.5vw, 2rem);
-}
-
+/* Reader cells inherit typography and gutters from basta-reader.css;
+   only the grid area changes when cells are nested inside paired rows. */
+.basta-parallel-kalams-reader .basta-reader-roman,
 .basta-parallel-kalams-reader .basta-reader-urdu {
   grid-area: auto;
-  padding-left: clamp(1rem, 2.5vw, 2rem);
 }
 
 /* Reading controls: when one language is selected, collapse each paired row to
@@ -225,8 +211,7 @@
   padding-inline: 0;
 }
 
-/* Continuous reader switches to stacked bilingual rows at its existing mobile
-   breakpoint. Roman vertical centering is only useful while columns are side by side. */
+/* At reader mobile widths, Urdu precedes Roman and centering is disabled. */
 @media (max-width: 920px) {
   .basta-parallel-kalams-reader .basta-parallel-kalam-row {
     grid-template-areas:
@@ -266,13 +251,8 @@
   }
 }
 
-/* On medium page-by-page layouts, put the scan above the aligned bilingual
-   text. On phones, stack Urdu then Roman within each kalam. */
+/* Stack the scan above bilingual text on medium-width screens. */
 @media (max-width: 1100px) {
-  .basta-page-grid-with-roman {
-    grid-template-columns: minmax(0, 1fr);
-  }
-
   .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="parallel"],
   .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="urdu"],
   .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="roman"] {
@@ -310,11 +290,6 @@
     align-content: start;
     border-right: 0;
     padding: 1.25rem 0 0;
-  }
-
-  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"]
-    .basta-parallel-kalam-row > .basta-kalam-cell-roman {
-    display: block;
   }
 
   .basta-parallel-kalam-headings {

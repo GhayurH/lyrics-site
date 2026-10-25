@@ -42,16 +42,42 @@
 .lyric-reading-urdu .lyric-version-heading { text-align: right; }
 .lyric-reading-roman .lyric-version-heading { text-align: left; }
 
-.lyrics-text, .roman-lyrics-text { margin-top: 0; white-space: pre-wrap; overflow-wrap: anywhere; unicode-bidi: plaintext; }
+.lyrics-text, .roman-lyrics-text { margin-top: 0; white-space: normal; overflow-wrap: normal; unicode-bidi: plaintext; }
 .lyrics-text { font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif; font-size: 1em; line-height: 2.7; text-align: start; }
 .roman-lyrics-text { font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 1em; line-height: 2; text-align: left; }
 
+/* Each blank-line-delimited source group is one printed stanza. A single
+   rule between groups replaces source whitespace, without trying to guess
+   stanza length, refrain, or verse counts. */
+.lyric-reading-text {
+  min-width: 0;
+  width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scrollbar-width: thin;
+}
+.lyric-stanza + .lyric-stanza {
+  border-top: 1px solid var(--secondary-text);
+  margin-top: 0.65em;
+  padding-top: 0.4em;
+}
+.lyric-verse {
+  display: block;
+  unicode-bidi: plaintext;
+  white-space: nowrap;
+}
+.lyric-verse {
+  text-align: justify;
+  text-align-last: justify;
+  overflow-wrap: normal;
+  word-break: normal;
+  min-inline-size: var(--verse-min-width, 0px);
+}
 .lyric-reading-grid[data-reading-mode="urdu"], .lyric-reading-grid[data-reading-mode="roman"] { max-width: 48rem; margin-inline: auto; }
 .lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0, 48rem); justify-content: center; }
 .lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0, 48rem); justify-content: center; }
 .lyric-reading-grid[data-reading-mode="urdu"] .lyric-reading-roman, .lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-urdu { display: none; }
-.lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-roman { display: block; grid-area: roman; border-right: 0; }
-.lyric-reading-grid[data-reading-mode="urdu"] .lyric-reading-urdu { display: block; grid-area: urdu; }
+.lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-roman { border-right: 0; }
 
 .lyric-reading-grid[data-font-size="small"] .lyric-reading-urdu { font-size: clamp(1.15rem, 2.6vw, 1.5rem); }
 .lyric-reading-grid[data-font-size="small"] .lyric-reading-roman { font-size: clamp(0.95rem, 2.2vw, 1.1rem); }
@@ -61,8 +87,6 @@
 .lyric-reading-grid[data-font-size="xlarge"] .lyric-reading-roman { font-size: clamp(1.3rem, 3.1vw, 1.6rem); }
 .lyric-reading-grid[data-line-spacing="compact"] .lyrics-text { line-height: 2.2; }
 .lyric-reading-grid[data-line-spacing="compact"] .roman-lyrics-text { line-height: 1.65; }
-.lyric-reading-grid[data-line-spacing="default"] .lyrics-text { line-height: 2.7; }
-.lyric-reading-grid[data-line-spacing="default"] .roman-lyrics-text { line-height: 2; }
 .lyric-reading-grid[data-line-spacing="relaxed"] .lyrics-text { line-height: 3.15; }
 .lyric-reading-grid[data-line-spacing="relaxed"] .roman-lyrics-text { line-height: 2.35; }
 
@@ -79,12 +103,6 @@
 .lyric-neighbor-label { color: var(--secondary-text); font-size: 0.72rem; font-weight: 800; text-transform: uppercase; }
 .lyric-neighbor-title { margin-top: 0.2rem; overflow: hidden; font-size: 0.9rem; font-weight: 700; line-height: 1.45; text-overflow: ellipsis; }
 .lyric-neighbor-category { align-items: center; min-height: auto; color: var(--secondary-text); font-size: 0.78rem; font-weight: 700; text-align: center; }
-
-@media (min-width: 921px) {
-  .lyric-reading-grid[data-reading-mode="parallel"] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-roman { display: block; grid-area: roman; border-top: 0; border-right: 1px solid var(--border-colour); }
-  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-urdu { display: block; grid-area: urdu; }
-}
 
 @media (max-width: 920px) {
   .lyric-reading-grid[data-reading-mode="parallel"] { grid-template-areas: "urdu" "roman"; grid-template-columns: 1fr; }
