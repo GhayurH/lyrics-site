@@ -2,6 +2,7 @@
 // File role: Shared, independently selectable editions and immersive reading controls.
 import "../styles/reading-focus.css";
 import "../styles/reading-columns.css";
+import "../styles/scan-viewer.css";
 interface Props {
   ariaLabel?: string;
   className?: string;
@@ -10,6 +11,9 @@ interface Props {
   hasImage?: boolean;
   imageOnly?: boolean;
   pageJump?: boolean;
+  availablePages?: number[];
+  indexStartPage?: number;
+  indexEndPage?: number;
 }
 const {
   ariaLabel = "Reading controls",
@@ -19,18 +23,22 @@ const {
   hasImage = false,
   imageOnly = false,
   pageJump = false,
+  availablePages = [],
+  indexStartPage = 0,
+  indexEndPage = 0,
 } = Astro.props as Props;
 ---
 
 <div class:list={["reading-controls", className]} data-reading-controls data-pagefind-ignore aria-label={ariaLabel}>
-  <button type="button" class="reading-focus-enter" data-reading-focus-enter>Reading mode</button>
+  <button type="button" class="reading-focus-enter" data-reading-focus-enter>Focus mode</button>
+  <button type="button" class="reading-regular-toggle" data-reading-regular-toggle aria-expanded="false" aria-label="Show reading options">Options <span aria-hidden="true" data-reading-regular-indicator>▾</span></button>
   <div class="reading-focus-actions">
     <button type="button" data-reading-focus-options aria-expanded="false" aria-label="Show reading options">Options</button>
     <button type="button" data-reading-focus-exit aria-label="Exit reading mode">× Exit</button>
   </div>
-  <button type="button" class="reading-focus-fullscreen" data-reading-fullscreen-toggle aria-pressed="false">Fullscreen</button>
+  <button type="button" class="reading-focus-fullscreen" data-reading-fullscreen-toggle aria-pressed="false">Browser fullscreen</button>
 
-  <div class="reading-control-group reading-view-control">
+  <div class:list={["reading-control-group", "reading-view-control", (imageOnly || (!hasImage && !showModes)) && "reading-view-control-only"]}>
     <span class="reading-control-label">Show editions</span>
     <div class="reading-column-choices" role="group" aria-label={modeGroupLabel}>
       {hasImage && (
@@ -53,18 +61,6 @@ const {
       )}
     </div>
   </div>
-
-  {!imageOnly && (
-    <label class="reading-control-group">
-      <span class="reading-control-label">Text size</span>
-      <select data-reading-font-size>
-        <option value="small">Small</option>
-        <option value="default" selected>Default</option>
-        <option value="large">Large</option>
-        <option value="xlarge">Extra large</option>
-      </select>
-    </label>
-  )}
   {!imageOnly && (
     <label class="reading-control-group">
       <span class="reading-control-label">Line spacing</span>
@@ -75,8 +71,13 @@ const {
       </select>
     </label>
   )}
+  {pageJump && <span class="reading-current-page" data-reading-current-page aria-live="off">Page —</span>}
+  {pageJump && <a class="reading-open-page" data-open-current-page href="/basta/">Page-by-page</a>}
   {pageJump && (
-    <form class="reading-page-jump" data-reading-page-jump>
+    <button class="reading-contents-button" type="button" data-reading-focus-contents aria-expanded="false">Contents</button>
+  )}
+  {pageJump && (
+    <form class="reading-page-jump" data-reading-page-jump data-available-pages={availablePages.join(",")} data-index-start-page={indexStartPage} data-index-end-page={indexEndPage}>
       <label for="reading-page-number">Page</label>
       <input id="reading-page-number" name="page" type="number" min="1" step="1" inputmode="numeric" placeholder="No." required />
       <button type="submit">Go</button>

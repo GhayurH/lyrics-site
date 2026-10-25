@@ -34,6 +34,7 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
     <div class="hero-actions">
       <a class="button" href="/search/">Search the archive</a>
       <a class="button button-secondary" href="/about/">About / Contact</a>
+      <a class="button button-secondary" data-resume-basta href="/basta/" hidden>Continue Basta</a>
     </div>
   </section>
 
@@ -120,4 +121,8 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
     </div>
     <a class="button button-secondary" href="/about/#contact">About / Contact</a>
   </section>
+  <script>
+    import { initResumeBasta } from "../client/reading-progress";
+    initResumeBasta();
+  </script>
 </BaseLayout>

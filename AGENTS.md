@@ -25,7 +25,10 @@ Prefer extending an existing shared helper/component over copying logic into ano
 - Parallel reading uses `src/client/synced-columns.ts`; the `---***---` separators must remain paired between Basta Urdu/Roman files.
 - Both static and streamed Basta markup must preserve title, poet-credit, and kalam-boundary semantics. The shared Basta rules live in `src/styles/basta.css`.
 - The continuous Basta reader is chunked; do not regress it to shipping the entire book HTML on first load.
-- The page-by-page Basta reader is the static/non-JavaScript fallback and must remain usable.
+- The page-by-page Basta reader is the static/non-JavaScript fallback and must remain usable. Render the initial `data-reading-columns` on every reading root, and avoid unresponsive controls with JavaScript disabled.
+- All reader layouts are container-width-driven in `src/styles/reading-columns.css`. Do not restore route-specific portrait/landscape layout overrides.
+- Scans must remain native links and also work with `src/client/scan-viewer.ts`. Maintain static/streamed markup parity.
+- Persisted progress/resume data remains browser-local; never add server tracking for it.
 - Pagefind assets belong on the Search route only.
 - Saved/Recent cards must use the canonical `LyricCardData`/lyric-card class contract.
 
@@ -36,6 +39,7 @@ Run:
 ```bash
 npm test
 npm run build
+npx playwright test  # after installing @playwright/test and Chromium
 git diff --check
 git status --short
 ```

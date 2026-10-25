@@ -27,3 +27,7 @@ audit/.~*
 # Large public binaries are stored in Cloudflare R2 and mounted/symlinked locally.
 public/images/
 public/files/
+
+# Browser test artifacts
+playwright-report/
+test-results/

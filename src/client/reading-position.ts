@@ -20,3 +20,9 @@ export function pageAtReadingLine(
     .sort((a, b) => b.visible - a.visible);
   return overlap[0]?.visible ? overlap[0].id : undefined;
 }
+
+/** Ratio of a reading line through the containing physical page. */
+export function pageOffsetFraction(pageTop: number, pageHeight: number, readingLine: number): number {
+  if (!Number.isFinite(pageTop) || !Number.isFinite(pageHeight) || pageHeight <= 0 || !Number.isFinite(readingLine)) return 0;
+  return Math.max(0, Math.min(1, (readingLine - pageTop) / pageHeight));
+}
