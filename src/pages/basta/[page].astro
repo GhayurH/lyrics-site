@@ -200,7 +200,7 @@ const haalFilters = [
             aria-label={`Urdu text of Basta page ${page}`}
           >
             <h2 class="basta-page-text-heading">Urdu text</h2>
-            <BastaText text={urduText} className="basta-urdu-text" />
+            <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} />
           </section>
         )
       }

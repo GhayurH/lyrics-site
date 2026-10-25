@@ -10,9 +10,34 @@
 }
 
 .basta-kalam-text {
-  white-space: pre-wrap;
+  white-space: normal;
   overflow-wrap: anywhere;
+}
+
+/* More specific than the language/page typography rules, which otherwise
+   preserve template whitespace between individually rendered verse spans. */
+.basta-urdu-text.basta-kalam-text,
+.basta-roman-text.basta-kalam-text,
+.basta-reader-text.basta-kalam-text {
+  white-space: normal;
+}
+
+/* Direction-aware verse indentation follows printed Basta conventions:
+   two-line stanzas offset their second verse, and six-line stanzas offset
+   their closing two verses. The line wrapper also preserves blank lines. */
+.basta-verse-line {
+  display: block;
+  white-space: pre-wrap;
   unicode-bidi: plaintext;
+}
+
+.basta-verse-line:empty::before {
+  content: " ";
+  white-space: pre;
+}
+
+.basta-verse-indent {
+  padding-inline-start: clamp(1rem, 7%, 3rem);
 }
 
 /* Each Roman/Urdu kalam occupies one common grid row. The row height is the

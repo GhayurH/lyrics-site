@@ -1,6 +1,6 @@
 ---
 // File role: Shared bilingual Basta renderer: pairs corresponding Roman/Urdu kalams into common rows so separators and vertical rhythm stay aligned.
-import { splitBastaKalams } from "../lib/basta-text";
+import { layoutBastaKalam, splitBastaKalams } from "../lib/basta-text";
 import "../styles/basta-kalam-break.css";
 
 interface Props {
@@ -68,7 +68,11 @@ const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reade
             dir="ltr"
             aria-label={`Roman Urdu kalam ${index + 1} of Basta page ${page}`}
           >
-            <div class={romanTextClass}>{row.roman}</div>
+            <div class={romanTextClass}>
+              {layoutBastaKalam(row.roman).map((line) => (
+                <span class:list={["basta-verse-line", line.indent && "basta-verse-indent"]}>{line.text}</span>
+              ))}
+            </div>
           </section>
 
           <section
@@ -77,7 +81,11 @@ const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reade
             dir="rtl"
             aria-label={`Urdu kalam ${index + 1} of Basta page ${page}`}
           >
-            <div class={urduTextClass}>{row.urdu}</div>
+            <div class={urduTextClass}>
+              {layoutBastaKalam(row.urdu).map((line) => (
+                <span class:list={["basta-verse-line", line.indent && "basta-verse-indent"]}>{line.text}</span>
+              ))}
+            </div>
           </section>
         </div>
       </>
