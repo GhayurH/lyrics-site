@@ -196,3 +196,10 @@
     padding-block: 0;
   }
 }
+
+/* The continuous reader's generic single-edition grid rule must not override
+   the nested language grid's automatic placement. */
+.basta-reader-flow[data-reading-mode="urdu"] .basta-parallel-kalams-reader > .basta-reader-urdu,
+.basta-reader-flow[data-reading-mode="roman"] .basta-parallel-kalams-reader > .basta-reader-roman {
+  grid-area: auto;
+}

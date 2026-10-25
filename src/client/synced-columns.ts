@@ -6,12 +6,12 @@ const activeGroups = new WeakMap<HTMLElement, HTMLElement[]>();
 const lastScrolled = new WeakMap<HTMLElement, HTMLElement>();
 const expectedScroll = new WeakMap<HTMLElement, number>();
 
-function progressOf(panel: HTMLElement): number {
+export function progressOf(panel: HTMLElement): number {
   const range = Math.max(0, panel.scrollHeight - panel.clientHeight);
   return range === 0 ? 0 : Math.min(1, Math.max(0, panel.scrollTop / range));
 }
 
-function alignPanels(group: HTMLElement[], fraction: number, source?: HTMLElement): void {
+export function alignPanels(group: HTMLElement[], fraction: number, source?: HTMLElement): void {
   const clamped = Math.min(1, Math.max(0, fraction));
   for (const panel of group) {
     if (panel === source) continue;
