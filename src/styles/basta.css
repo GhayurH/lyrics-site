@@ -569,7 +569,7 @@
 .basta-page-reading-controls { margin: 1rem 0 1.5rem; }
 .basta-page-grid[data-reading-root] {
   --basta-page-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
-  --basta-page-roman-size: clamp(1rem, 1.6vw, 1.2rem);
+  --basta-page-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
   --basta-page-urdu-leading: 2.8;
   --basta-page-roman-leading: 2;
 }

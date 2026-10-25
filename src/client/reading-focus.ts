@@ -88,6 +88,9 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     if (!isContinuous) return;
     html.dataset.readingTocOpen = String(open);
     contentsButton?.setAttribute("aria-expanded", String(open));
+    const index = root.querySelector<HTMLElement>(".basta-reader-index");
+    if (open) requestAnimationFrame(() => index?.querySelector<HTMLAnchorElement>("a[href]")?.focus({ preventScroll: true }));
+    else if (active && index?.contains(document.activeElement)) contentsButton?.focus({ preventScroll: true });
   };
   const optionsOpen = (open: boolean) => {
     controls.dataset.readingOptionsOpen = String(open);

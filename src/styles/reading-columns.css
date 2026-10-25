@@ -135,7 +135,7 @@
   .basta-parallel-index-section-heading.basta-parallel-index-roman { grid-area: roman-heading; }
   .basta-parallel-index-table.basta-parallel-index-roman { grid-area: roman-table; }
 }
-/* Explicit desktop/landscape restoration from legacy route breakpoints. */
+/* Parallel text needs the same geometry on desktop and sufficiently wide landscape devices. */
 @container reader-shell (min-width: 40.01rem) {
   .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] { display: grid; }
   .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] .lyric-reading-roman { border-top: 0; border-right: 1px solid var(--border-colour); }
