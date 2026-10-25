@@ -244,3 +244,6 @@ html:not([data-reader-enhanced="true"]) .reading-controls { display: none; }
 
 /* Shared tertiary actions should meet comfortable mobile touch dimensions. */
 .text-button { min-height: 2.75rem; }
+
+/* No-script guidance is real HTML rather than contents of a parser-dependent noscript. */
+html[data-js-available="true"] [data-requires-js] { display: none !important; }

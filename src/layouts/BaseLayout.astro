@@ -50,6 +50,7 @@ const aboutActive = path.startsWith("/about/");
           const savedTheme = localStorage.getItem("theme");
           if (savedTheme === "light" || savedTheme === "dark") theme = savedTheme;
         } catch {}
+        document.documentElement.dataset.jsAvailable = "true";
         document.documentElement.dataset.theme = theme;
         document.documentElement.dataset.pfTheme = theme;
         document.querySelector('meta[name="theme-color"]')?.setAttribute("content", theme === "light" ? "#f7f7f8" : "#171719");
