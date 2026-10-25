@@ -198,18 +198,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         }
       </dl>
 
-      {
-        data.cover && (
-          <img
-            class="lyric-cover"
-            src={data.cover}
-            alt={data.coverAlt}
-            data-pagefind-meta="image[src], image_alt[alt]"
-            loading="lazy"
-            decoding="async"
-          />
-        )
-      }
+
     </header>
 
     <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
@@ -247,7 +236,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     >
       {data.cover && (
         <figure class="lyric-reading-image" data-synced-scroll-panel aria-label="Original lyric sheet">
-          <img src={data.cover} alt={data.coverAlt || "Original lyric sheet"} loading="lazy" decoding="async" />
+          <img src={data.cover} alt={data.coverAlt || "Original lyric sheet"} data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" decoding="async" />
         </figure>
       )}
       <section

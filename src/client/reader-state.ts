@@ -7,8 +7,7 @@ import {
 } from "./storage";
 import { initReadingFocus } from "./reading-focus";
 
-const EDITIONS = ["image", "urdu", "roman"] as const;
-type Edition = (typeof EDITIONS)[number];
+import { isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
 const VALID_FONT_SIZES = new Set(["small", "default", "large", "xlarge"]);
 const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
 
@@ -16,10 +15,6 @@ interface ReadingPrefs extends Record<string, unknown> {
   columnsByReader: Record<string, Edition[]>;
   fontSize: string;
   spacing: string;
-}
-
-function isEdition(value: unknown): value is Edition {
-  return typeof value === "string" && EDITIONS.some((edition) => edition === value);
 }
 
 /** Selected editions are saved per reader type, not imposed on unrelated pages. */
@@ -51,19 +46,13 @@ export function initReadingControls(): void {
         ? saved.spacing : "default",
   };
 
-  const fallback = imageOnly ? ["image"] : available;
-  const stored = prefs.columnsByReader[kind];
-  const initial = stored?.filter((edition) => available.includes(edition)) ?? [];
-  let selected: Edition[] = initial.length ? initial : fallback.filter(isEdition);
+  let selected = selectedEditions(prefs.columnsByReader[kind], available, imageOnly);
   const fontSelect = controls.querySelector<HTMLSelectElement>("[data-reading-font-size]");
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");
 
   const applyPrefs = () => {
     // Legacy mode is retained for the original typographic/layout rules.
-    const text = selected.filter((edition) => edition !== "image");
-    const mode = selected.length === 1 ? selected[0] : text.length === 1 && !selected.includes("image")
-      ? text[0] : "parallel";
-    root.dataset.readingMode = mode;
+    root.dataset.readingMode = readingModeFromEditions(selected);
     root.dataset.readingColumns = selected.join(" ");
     root.dataset.fontSize = prefs.fontSize;
     root.dataset.lineSpacing = prefs.spacing;

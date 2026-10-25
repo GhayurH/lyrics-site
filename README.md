@@ -113,11 +113,13 @@ The page-by-page Basta reader remains server-rendered and usable without JavaScr
 
 Direct `/basta/read/#page-N` links remain supported; the target chunk is loaded on demand.
 
-### Reading Mode
+### Reader editions and immersive Reading Mode
 
-Use **Reading mode** on an individual lyric, a Basta page, or the continuous Basta reader to hide the surrounding site interface. Text size, line spacing, Urdu/Roman/parallel selection, and the existing verse layout continue to work; Basta also provides an **Image** view for the original scan. Tap the content or the Options button to show/hide preferences, and use **× Exit**, Escape, or the mobile back gesture to return. An optional browser fullscreen button appears where supported.
+On standalone kalams, Basta page-by-page, and the continuous Basta reader, choose any available combination of **Image**, **Urdu**, and **Roman** using independent checkboxes. At least one edition must remain selected. The choice is remembered separately for each kind of reader; pages without the requested edition show their available text or scan instead. On wide displays, selected editions appear in parallel; on narrow screens they stack. On mobile landscape, Urdu and Roman appear side by side with the selected image above.
 
-Reading Mode adapts to mobile portrait and landscape without forcing screen orientation. Image view fits the full scan to the available viewport and supports normal browser pinch-to-zoom. The currently visible text/page and independent column scroll positions are retained when switching modes or rotating.
+**Reading mode** removes site navigation and metadata while keeping the same kalam formatting, typography preferences, and synchronized text scrolling. Tap the content or **Options** to reveal controls; leave using **× Exit**, Escape, or the browser Back gesture. Where supported, the separate **Fullscreen** button hides browser chrome too. Source scans fit inside the viewport and retain native pinch zoom. On mobile, an **↑ Top** control appears as you scroll.
+
+The continuous reader offers a page-number jump in both views. Link directly into an immersive page using `/basta/read/?reading=1#page-202`; without `?reading=1`, the same page hash opens in the normal reader. Entering or leaving Reading mode and rotating the device preserve reading position. Page numbers remain visible in the immersive continuous reader.
 
 ### Parallel reading and kalam boundaries
 

@@ -99,3 +99,7 @@ Keep chunk size conservative. Larger chunks reduce requests but increase parse/r
 Editor-specific files, generated output, and local maintenance scratch directories are not source and should stay out of Git. Build-driving configuration, documentation, content, and lockfiles remain versioned.
 
 The Basta landing page and pager share `src/client/basta-navigation.ts` for page-jump validation and index-gap routing.
+
+## Immersive readers
+
+The shared `ReadingControls.astro` component renders independently selectable editions, optional page jump, and Reading Mode actions. `src/client/reader-state.ts` stores per-reader edition choices and common typography preferences; `src/client/reading-focus.ts` handles the browser history, reading viewport, mobile scroll-to-top, and fullscreen API. The presentation rules are separated into `src/styles/reading-focus.css` for the immersive shell and `src/styles/reading-columns.css` for edition combinations and responsive grids. Basta's server-rendered and streamed pages expose the same page/edition attributes, and `synced-columns.ts` reacts to edition changes without disturbing semantic kalam boundaries.
