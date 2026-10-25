@@ -1,5 +1,6 @@
-// File role: Fit each Basta kalam's poetry to the column, keeping verses single-line and justified.
-const VERSE_SELECTOR = ".basta-verse-poetry";
+// File role: Fit Basta and standalone lyric verses to their respective reading columns, preserving single lines and justification.
+const VERSE_SELECTOR = ".basta-verse-poetry, .lyric-verse";
+const TEXT_SELECTOR = ".basta-kalam-text, .lyric-reading-text";
 const MIN_URDU_PX = 17;
 const MIN_ROMAN_PX = 14;
 
@@ -51,10 +52,10 @@ function fitKalam(kalam: HTMLElement, context: CanvasRenderingContext2D): void {
   }
 }
 
-export function initBastaVerseFitting(): void {
+export function initVerseFitting(): void {
   const root = document.querySelector<HTMLElement>("[data-reading-root]");
-  if (!root || root.dataset.bastaVerseFitReady === "true") return;
-  root.dataset.bastaVerseFitReady = "true";
+  if (!root || root.dataset.verseFitReady === "true") return;
+  root.dataset.verseFitReady = "true";
 
   const context = document.createElement("canvas").getContext("2d");
   if (!context) return;
@@ -64,7 +65,7 @@ export function initBastaVerseFitting(): void {
     pending = true;
     requestAnimationFrame(() => {
       pending = false;
-      root.querySelectorAll<HTMLElement>(".basta-kalam-text").forEach((kalam) => fitKalam(kalam, context));
+      root.querySelectorAll<HTMLElement>(TEXT_SELECTOR).forEach((kalam) => fitKalam(kalam, context));
     });
   };
 
@@ -78,3 +79,6 @@ export function initBastaVerseFitting(): void {
   document.fonts.addEventListener?.("loadingdone", schedule);
   schedule();
 }
+
+/** Preserve existing Basta-page entry points while sharing the fitter. */
+export const initBastaVerseFitting = initVerseFitting;

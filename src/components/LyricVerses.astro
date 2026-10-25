@@ -1,0 +1,22 @@
+---
+/* File role: Render literal blank-line stanza boundaries for standalone lyrics, identically in Urdu and Roman. */
+import { splitLyricStanzas } from "../lib/lyric-stanzas";
+
+interface Props {
+  text: string;
+  className: string;
+}
+
+const { text, className } = Astro.props as Props;
+const stanzas = splitLyricStanzas(text);
+---
+
+<div class:list={[className, "lyric-reading-text"]}>
+  {stanzas.map((stanza) => (
+    <div class="lyric-stanza">
+      {stanza.map((line) => (
+        <span class={line.number ? "lyric-stanza-number" : "lyric-verse"}>{line.text}</span>
+      ))}
+    </div>
+  ))}
+</div>
