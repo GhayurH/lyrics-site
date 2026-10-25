@@ -116,6 +116,17 @@
   .basta-parallel-kalams-page > .basta-page-roman, .basta-parallel-kalams-reader > .basta-reader-roman {
     grid-area: auto; grid-row: 2; border: 0; padding: 1.1rem 0 0;
   }
+  /* Basta's shared route styles reset grid-area to auto. Explicit placement
+     prevents the continuous reader from creating a second implicit column. */
+  .basta-reader-flow[data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-parallel-kalams-reader {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  .basta-reader-flow[data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-parallel-kalams-reader > .basta-reader-urdu {
+    grid-area: 1 / 1 !important;
+  }
+  .basta-reader-flow[data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-parallel-kalams-reader > .basta-reader-roman {
+    grid-area: 2 / 1 !important;
+  }
   .basta-reader-flow[data-reading-columns~="image"] .basta-reader-page-grid-with-roman { grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important; }
   .basta-reader-flow .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "scan" "urdu"; grid-template-columns: minmax(0,1fr); }
   .basta-reader-flow:not([data-reading-columns~="image"]) .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "urdu"; }
