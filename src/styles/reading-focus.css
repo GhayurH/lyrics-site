@@ -1,264 +1,89 @@
-/* File role: Immersive reading layer shared by lyrics and Basta; normal routes keep their existing layout. */
-.reading-focus-enter,
-.reading-focus-actions button,
-.reading-focus-fullscreen {
-  min-height: 2.25rem;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.5rem;
-  padding: 0.38rem 0.72rem;
-  background: var(--surface-background);
-  color: var(--primary-text);
-  font: inherit;
-  font-size: 0.82rem;
-  font-weight: 700;
-  cursor: pointer;
+/* File role: Minimal immersive-mode shell; edition layout lives in reading-columns.css. */
+.reading-focus-enter, .reading-focus-actions button, .reading-focus-fullscreen {
+  min-height: 2.25rem; border: 1px solid var(--border-colour); border-radius: 0.5rem;
+  padding: 0.38rem 0.72rem; background: var(--surface-background); color: var(--primary-text);
+  font: inherit; font-size: 0.82rem; font-weight: 700; cursor: pointer;
 }
-.reading-focus-enter { margin-inline-start: auto; }
+.reading-focus-enter { margin-inline: 0; }
 .reading-focus-actions { display: none; gap: 0.35rem; }
 .reading-focus-fullscreen { display: none; }
-.reading-focus-enter:hover,
-.reading-focus-actions button:hover,
-.reading-focus-fullscreen:hover { background: var(--tag-background); }
-.reading-focus-enter:focus-visible,
-.reading-focus-actions button:focus-visible,
-.reading-focus-fullscreen:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+.reading-controls button:hover { background: var(--tag-background); }
+.reading-controls button:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
 html[data-reading-focus="true"] body { overflow: hidden; }
-html[data-reading-focus="true"] .site-header,
-html[data-reading-focus="true"] .site-footer,
-html[data-reading-focus="true"] .skip-link { visibility: hidden; }
-
-/* Leave the original DOM in place: synced column scroll positions and streamed
-   chunks survive entering/exiting without cloning or rerendering a kalam. */
+html[data-reading-focus="true"] :is(.site-header,.site-footer,.skip-link) { visibility: hidden; }
+/* Retain each edition's existing DOM, scroll offsets, and streaming chunks. */
 html[data-reading-focus="true"] [data-reading-root] {
-  position: fixed;
-  inset: 0;
-  z-index: 80;
-  box-sizing: border-box;
-  width: 100%;
-  max-width: none;
-  height: 100dvh;
-  max-height: none;
-  margin: 0;
-  border: 0;
-  border-radius: 0;
-  padding: max(3.25rem, calc(env(safe-area-inset-top) + 3rem))
-    max(0.8rem, env(safe-area-inset-right))
-    max(0.8rem, env(safe-area-inset-bottom))
-    max(0.8rem, env(safe-area-inset-left));
-  overflow-x: hidden;
-  overflow-y: auto;
-  overscroll-behavior: contain;
-  background: var(--site-background);
-  scrollbar-width: thin;
+  position: fixed; inset: 0; z-index: 80; box-sizing: border-box;
+  width: 100%; max-width: none; height: 100dvh; max-height: none; margin: 0;
+  border: 0; border-radius: 0;
+  padding: max(3.3rem,calc(3rem + env(safe-area-inset-top)))
+           max(0.8rem,env(safe-area-inset-right))
+           max(0.7rem,env(safe-area-inset-bottom))
+           max(0.8rem,env(safe-area-inset-left));
+  overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain;
+  background: var(--site-background); scrollbar-width: thin;
 }
-
-/* Keep exit accessible even while the other controls are collapsed. */
 html[data-reading-focus="true"] .reading-controls {
-  position: fixed;
-  top: env(safe-area-inset-top, 0px);
-  right: max(0.45rem, env(safe-area-inset-right));
-  left: auto;
-  z-index: 100;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  align-items: center;
-  width: min(27rem, calc(100vw - 0.9rem));
-  margin: 0;
-  border: 1px solid transparent;
-  padding: 0.4rem;
-  background: transparent;
-  box-shadow: none;
-  pointer-events: none;
+  position: fixed; top: env(safe-area-inset-top,0px);
+  right: max(0.45rem,env(safe-area-inset-right)); left: auto; z-index: 100;
+  display: flex; flex-wrap: wrap; justify-content: flex-end; align-items: center;
+  width: min(30rem,calc(100vw - 0.9rem)); margin: 0;
+  border: 1px solid transparent; padding: 0.4rem;
+  background: transparent; box-shadow: none; pointer-events: none;
 }
 html[data-reading-focus="true"] .reading-focus-enter { display: none; }
-html[data-reading-focus="true"] .reading-focus-actions {
-  display: flex;
-  order: 0;
-  pointer-events: auto;
-}
-html[data-reading-focus="true"] .reading-controls > .reading-control-group,
-html[data-reading-focus="true"] .reading-controls > .reading-focus-fullscreen { display: none; }
+html[data-reading-focus="true"] .reading-focus-actions { display: flex; order: 0; pointer-events: auto; }
+html[data-reading-focus="true"] .reading-controls > :is(.reading-control-group,.reading-page-jump,.reading-focus-fullscreen) { display: none; }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] {
-  border-color: var(--border-colour);
-  border-radius: 0.75rem;
-  background: var(--surface-background);
-  box-shadow: 0 0.4rem 1.5rem rgb(0 0 0 / 0.22);
-  gap: 0.5rem;
+  gap: 0.5rem; border-color: var(--border-colour); border-radius: 0.75rem;
+  background: var(--surface-background); box-shadow: 0 0.4rem 1.5rem rgb(0 0 0 / 0.22);
 }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-control-group {
-  display: grid;
-  flex: 1 1 calc(50% - 0.5rem);
-  min-width: 0;
-  order: 1;
-  pointer-events: auto;
+  display: grid; flex: 1 1 calc(50% - 0.5rem); min-width: 0; order: 1; pointer-events: auto;
 }
-html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-view-control {
-  flex-basis: 100%;
-}
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-view-control { flex-basis: 100%; }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-focus-fullscreen:not([hidden]) {
-  display: block;
-  order: 2;
-  pointer-events: auto;
+  display: block; order: 3; pointer-events: auto;
 }
-html[data-reading-focus="true"] .reading-controls select,
-html[data-reading-focus="true"] .reading-controls .segmented-control { width: 100%; }
-html[data-reading-focus="true"] .reading-controls .segmented-control button { flex: 1; }
+html[data-reading-focus="true"] .reading-controls select { width: 100%; }
 
-/* A standalone lyric is all text; remove column labels and container framing. */
-html[data-reading-focus="true"] .lyric-reading-grid {
-  align-content: start;
-  background: var(--site-background);
-  gap: 1rem;
-}
-html[data-reading-focus="true"] .lyric-reading-panel {
-  min-width: 0;
-  max-width: 60rem;
-  width: 100%;
-  margin-inline: auto;
-  border: 0;
-  padding: clamp(0.4rem, 1.6vw, 1.3rem);
-}
-/* Lyric titles are part of the poem, unlike the surrounding metadata.
-   Keep one appropriate title inside each selected language panel. */
+/* Titles belong to the kalam, while route metadata and column labels do not. */
 .lyric-focus-title { display: none; }
+html[data-reading-focus="true"] .lyric-reading-grid { align-content: start; background: var(--site-background); gap: 0.5rem; }
+html[data-reading-focus="true"] .lyric-reading-panel { min-width: 0; margin-inline: auto; padding: clamp(0.4rem,1.6vw,1.3rem); }
+html[data-reading-focus="true"] .lyric-reading-grid .lyric-reading-roman { border: 0; }
 html[data-reading-focus="true"] .lyric-version-heading {
-  display: block;
-  margin-bottom: 0.65rem;
-  border: 0;
-  padding: 0;
-  color: var(--primary-text);
-  letter-spacing: 0;
-  text-transform: none;
+  display: block; margin-bottom: 0.65rem; border: 0; padding: 0;
+  color: var(--primary-text); letter-spacing: 0; text-transform: none;
 }
 html[data-reading-focus="true"] .lyric-language-label { display: none; }
 html[data-reading-focus="true"] .lyric-focus-title {
-  display: block;
-  font-size: clamp(1.25rem, 3vw, 1.85rem);
-  font-weight: 750;
-  line-height: 2;
-  text-decoration: underline;
-  text-decoration-thickness: from-font;
-  text-underline-offset: 0.16em;
+  display: block; font-size: clamp(1.25rem,3vw,1.85rem); font-weight: 750;
+  line-height: 2; text-decoration: underline;
+  text-decoration-thickness: from-font; text-underline-offset: 0.16em;
 }
 html[data-reading-focus="true"] .lyric-focus-title[dir="ltr"] { line-height: 1.6; }
-html[data-reading-focus="true"] .basta-page-text-heading,
-html[data-reading-focus="true"] .basta-original-page figcaption { display: none; }
-
-/* In Basta, the scan is a deliberate fourth view instead of consuming space
-   beside the chosen text edition while distraction-free mode is active. */
-html[data-reading-focus="true"] .basta-page-grid[data-reading-root] {
-  align-content: start;
-  gap: 0;
-  grid-template-columns: minmax(0, 1fr) !important;
-  grid-template-areas: "text" !important;
-}
-html[data-reading-focus="true"] .basta-page-grid[data-reading-root] > .basta-original-page { display: none; }
-html[data-reading-focus="true"] .basta-page-grid[data-reading-root] > .basta-parallel-kalams-page {
-  width: min(100%, 88rem);
-  margin-inline: auto;
-}
-html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman):not([data-reading-mode="image"]) {
-  grid-template-areas: "urdu" !important;
-}
-html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) > .basta-page-urdu {
-  width: min(100%, 52rem);
-  margin-inline: auto;
-}
-.basta-page-grid.basta-page-grid-image-only[data-reading-root]:not(.basta-page-grid-with-roman) {
-  grid-template-columns: minmax(0, 42rem) !important;
-  grid-template-areas: "scan" !important;
-}
-.basta-page-grid[data-reading-mode="image"] {
-  grid-template-areas: "scan" !important;
-  grid-template-columns: minmax(0, 1fr) !important;
-  justify-content: center;
-}
-.basta-page-grid[data-reading-mode="image"] > .basta-parallel-kalams-page,
-.basta-page-grid[data-reading-mode="image"] > .basta-page-text { display: none !important; }
-.basta-page-grid[data-reading-mode="image"] > .basta-original-page {
-  display: block !important;
-  grid-area: scan;
-  width: min(100%, 50rem);
-  margin-inline: auto;
-}
-html[data-reading-focus="true"] .basta-page-grid[data-reading-mode="image"] {
-  grid-template-areas: "scan" !important;
-  align-content: start;
-}
-html[data-reading-focus="true"] .basta-original-page {
-  border: 0;
-  background: transparent;
-}
+html[data-reading-focus="true"] :is(.basta-page-text-heading,.basta-original-page figcaption) { display: none; }
+html[data-reading-focus="true"] .basta-page-grid[data-reading-root] { align-content: start; margin: 0; gap: 0.75rem; }
+html[data-reading-focus="true"] .basta-page-grid[data-reading-root] .basta-original-page { border: 0; background: transparent; }
 html[data-reading-focus="true"] .basta-original-page a { padding: 0; }
-
-/* The streamed reader retains all its pages, lazy loading, and kalam markers. */
-html[data-reading-focus="true"] .basta-reader-flow {
-  align-content: start;
-  width: 100%;
-}
-html[data-reading-focus="true"] .basta-reader-page-grid-with-roman {
-  grid-template-areas: "text" !important;
-  grid-template-columns: minmax(0, 1fr) !important;
-  justify-content: center;
-}
-html[data-reading-focus="true"] .basta-reader-page-grid-with-roman > .basta-reader-original-image {
-  display: none;
-}
-html[data-reading-focus="true"] .basta-reader-page-grid-with-roman > .basta-parallel-kalams-reader {
-  width: min(100%, 88rem);
-  margin-inline: auto;
-}
-html[data-reading-focus="true"] .basta-reader-index,
-html[data-reading-focus="true"] .basta-reader-page-number { display: none; }
-html[data-reading-focus="true"] .basta-reader-page-break { margin-top: 1.5rem; }
-
-/* Image mode also covers pages without a Roman edition and image-only pages. */
-.basta-reader-flow[data-reading-mode="image"] .basta-reader-page-grid {
-  display: block;
-  max-width: 50rem;
-  margin-inline: auto;
-}
-.basta-reader-flow[data-reading-mode="image"] .basta-reader-page-grid > :not(.basta-reader-original-image) { display: none !important; }
-.basta-reader-flow[data-reading-mode="image"] .basta-reader-original-image { display: block !important; }
-.basta-reader-flow:not([data-reading-mode="image"]) [data-reading-image-extra] { display: none; }
-.basta-reader-flow[data-reading-mode="image"] .basta-parallel-index { display: none; }
-html[data-reading-focus="true"] .basta-reader-flow[data-reading-mode="image"] .basta-reader-page-grid {
-  display: block !important;
-  max-width: 50rem;
-}
-html[data-reading-focus="true"] .basta-reader-flow[data-reading-mode="image"] .basta-reader-original-image {
-  display: block !important;
-  width: 100%;
-}
-
-/* Full image visible in landscape and portrait without cropping; browser pinch
-   zoom remains available because the viewport permits native zoom gestures. */
-html[data-reading-focus="true"] .basta-original-page img,
+html[data-reading-focus="true"] .basta-page-grid[data-reading-root] .basta-original-page img,
 html[data-reading-focus="true"] .basta-reader-original-image img {
-  width: auto;
-  max-width: 100%;
-  height: auto;
-  max-height: calc(100dvh - 4.5rem - env(safe-area-inset-top) - env(safe-area-inset-bottom));
-  margin-inline: auto;
-  object-fit: contain;
+  width: auto; max-width: 100%; height: auto; max-height: calc(100dvh - 4.5rem);
+  margin-inline: auto; object-fit: contain;
 }
+html[data-reading-focus="true"] .basta-reader-flow { width: 100%; max-width: none; }
+html[data-reading-focus="true"] .basta-reader-index { display: none; }
 
-@media (orientation: landscape) and (max-height: 520px) and (pointer: coarse) {
+@media (orientation: landscape) and (pointer: coarse) and (max-height: 700px) {
   html[data-reading-focus="true"] [data-reading-root] {
-    padding: max(2.7rem, calc(env(safe-area-inset-top) + 2.5rem))
-      max(0.55rem, env(safe-area-inset-right))
-      max(0.4rem, env(safe-area-inset-bottom))
-      max(0.55rem, env(safe-area-inset-left));
+    padding: max(2.6rem,calc(2.3rem + env(safe-area-inset-top)))
+             max(0.55rem,env(safe-area-inset-right))
+             max(0.4rem,env(safe-area-inset-bottom))
+             max(0.55rem,env(safe-area-inset-left));
   }
   html[data-reading-focus="true"] .lyric-reading-panel { padding: 0.35rem 0.55rem; }
   html[data-reading-focus="true"] .basta-original-page img,
-  html[data-reading-focus="true"] .basta-reader-original-image img {
-    max-height: calc(100dvh - 3.2rem - env(safe-area-inset-top) - env(safe-area-inset-bottom));
-  }
-}
-@media (max-height: 480px) and (orientation: landscape) {
-  html[data-reading-focus="true"] .reading-controls { padding: 0.2rem; }
-  html[data-reading-focus="true"] .reading-focus-actions button { min-height: 2rem; }
+  html[data-reading-focus="true"] .basta-reader-original-image img { max-height: calc(100dvh - 3.3rem); }
 }
