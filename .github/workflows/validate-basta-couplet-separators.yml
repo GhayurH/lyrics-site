@@ -1,0 +1,30 @@
+name: Validate Basta couplet separators
+
+on:
+  push:
+    branches:
+      - fix/basta-refrain-source-markers-2026-10
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - name: Remove temporary verification workflow
+        run: |
+          git rm .github/workflows/validate-basta-couplet-separators.yml
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Complete couplet separator validation"
+          git push
