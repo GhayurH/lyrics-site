@@ -2,16 +2,20 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { fitLine } from "../src/lib/verse-fit.ts";
 
-test("fitting never grows a short verse", () => {
-  assert.deepEqual(fitLine(30, 22, 500, 200), { size: 30, minWidth: 200 });
+test("a short verse keeps its natural font size", () => {
+  assert.equal(fitLine(30, 500, 200), 30);
 });
-test("fitting preserves a readability floor and requests horizontal room", () => {
-  const fit = fitLine(32, 28, 200, 400);
-  assert.equal(fit.size, 28);
-  assert.equal(fit.minWidth, 350);
+test("long verses shrink enough to fit their column with a measurement margin", () => {
+  const result = fitLine(32, 200, 400);
+  assert.ok(result < 16);
+  assert.ok(400 * result / 32 < 200);
 });
-test("minimum above the available font size cannot enlarge text", () => {
-  const fit = fitLine(24, 30, 100, 500);
-  assert.equal(fit.size, 24);
-  assert.equal(fit.minWidth, 500);
+test("extreme lengths never trigger a minimum-font overflow", () => {
+  const fitted = fitLine(24, 80, 2400);
+  assert.ok(fitted > 0 && fitted < 1);
+  assert.ok(2400 * fitted / 24 < 80);
+});
+test("unmeasurable lines retain the existing size", () => {
+  assert.equal(fitLine(24, 0, 500), 24);
+  assert.equal(fitLine(24, 500, 0), 24);
 });

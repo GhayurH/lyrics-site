@@ -1,9 +1,6 @@
-// File role: Pure poetry fitting math with an explicit readability floor.
-export interface FitResult { size: number; minWidth: number }
-export function fitLine(base: number, minimum: number, available: number, natural: number): FitResult {
-  if (![base, minimum, available, natural].every((value) => Number.isFinite(value) && value >= 0) || base === 0 || natural === 0) {
-    return { size: base, minWidth: 0 };
-  }
-  const size = Math.min(base, Math.max(Math.min(base, minimum), (base * available) / natural));
-  return { size, minWidth: natural * size / base };
+// File role: Compute a safe font-size scale for single-line poetry with no sideways overflow.
+/** A line that already fits retains its full size. Long lines scale to available width. */
+export function fitLine(base: number, available: number, natural: number): number {
+  if (![base, available, natural].every(Number.isFinite) || base <= 0 || available <= 0 || natural <= 0) return base;
+  return base * Math.min(1, (available / natural) * 0.97);
 }
