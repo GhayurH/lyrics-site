@@ -214,7 +214,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     else if (document.fullscreenEnabled) void document.documentElement.requestFullscreen().catch(() => {});
   });
 
-  // Tapping noninteractive content toggles preferences; scan links should not navigate away.
+  // Tapping noninteractive content toggles preferences; links retain their actions.
   root.addEventListener("click", (event) => {
     if (!active || !(event.target instanceof Element)) return;
     const link = event.target.closest("a");

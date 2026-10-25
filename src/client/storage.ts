@@ -82,7 +82,7 @@ export function recordRecentLyric(id: string, limit = 20): string[] {
 }
 
 /** Last visited Basta page, retained locally without storing individual reading activity. */
-export interface BastaPosition { page: number; mode: "page" | "continuous" }
+export interface BastaPosition extends Record<string, unknown> { page: number; mode: "page" | "continuous" }
 export function readBastaPosition(): BastaPosition | undefined {
   const value = readRecord(STORAGE_KEYS.bastaPosition);
   if (typeof value.page !== "number" || !Number.isSafeInteger(value.page) || value.page < 1 || value.page > 1000) return;
