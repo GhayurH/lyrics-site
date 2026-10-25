@@ -259,17 +259,34 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   }, true);
   window.addEventListener("scroll", refreshTopButton, { passive: true });
 
-  controls.querySelector<HTMLFormElement>("[data-reading-page-jump]")?.addEventListener("submit", (event) => {
+  const jumpForm = controls.querySelector<HTMLFormElement>("[data-reading-page-jump]");
+  jumpForm?.querySelector("input")?.addEventListener("input", (event) => {
+    if (event.target instanceof HTMLInputElement) event.target.setCustomValidity("");
+  });
+  jumpForm?.addEventListener("submit", (event) => {
     event.preventDefault();
-    const input = controls.querySelector<HTMLInputElement>("[data-reading-page-jump] input");
-    const page = Number(input?.value);
-    if (!Number.isSafeInteger(page) || page <= 0) return;
-    const hash = '#page-' + page;
-    // Replace rather than push: Android Back should exit Reading Mode, not
-    // traverse every page jump performed inside it.
+    const input = jumpForm.querySelector<HTMLInputElement>('input[name="page"]');
+    if (!input) return;
+    const page = Number(input.value);
+    const available = new Set((jumpForm.dataset.availablePages ?? "").split(",").map(Number));
+    const indexStart = Number(jumpForm.dataset.indexStartPage);
+    const indexEnd = Number(jumpForm.dataset.indexEndPage);
+    if (!Number.isSafeInteger(page) || page < 1) {
+      input.setCustomValidity("Enter a valid page number."); input.reportValidity(); return;
+    }
+    if (page >= indexStart && page <= indexEnd) {
+      if (active) contentsOpen(true);
+      else { location.hash = "index"; window.dispatchEvent(new Event("basta:navigate-to-page")); }
+      return;
+    }
+    if (!available.has(page)) {
+      input.setCustomValidity("That Basta page is not available."); input.reportValidity(); return;
+    }
+    // Replace rather than push: mobile Back exits Focus mode, not every jump.
     const url = new URL(location.href);
-    url.hash = hash;
+    url.hash = `page-${page}`;
     history.replaceState(history.state, "", url.pathname + url.search + url.hash);
+    contentsOpen(false);
     window.dispatchEvent(new Event("basta:navigate-to-page"));
   });
 

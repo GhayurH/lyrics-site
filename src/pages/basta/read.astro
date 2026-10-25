@@ -7,6 +7,7 @@ import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
 import { loadBastaReaderDataset } from "../../lib/basta-reader-data";
 import indexEntries from "../../data/basta/index.json";
+import settings from "../../data/basta/settings.json";
 import "../../styles/basta.css";
 import "../../styles/basta-reader.css";
 
@@ -14,6 +15,7 @@ import "../../styles/basta-reader.css";
 const entries = indexEntries as BastaIndexEntry[];
 const { beforeChunks, afterChunks } = await loadBastaReaderDataset();
 const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
+const availablePages = [...beforeChunks, ...afterChunks].flatMap((chunk) => chunk.pages.map((page) => page.page));
 ---
 
 <BaseLayout
@@ -40,6 +42,9 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
       modeGroupLabel="Basta view"
       hasImage
       pageJump
+      availablePages={availablePages}
+      indexStartPage={settings.indexStartPage}
+      indexEndPage={settings.indexEndPage}
     />
 
     <div

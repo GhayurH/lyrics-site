@@ -11,6 +11,9 @@ interface Props {
   hasImage?: boolean;
   imageOnly?: boolean;
   pageJump?: boolean;
+  availablePages?: number[];
+  indexStartPage?: number;
+  indexEndPage?: number;
 }
 const {
   ariaLabel = "Reading controls",
@@ -20,6 +23,9 @@ const {
   hasImage = false,
   imageOnly = false,
   pageJump = false,
+  availablePages = [],
+  indexStartPage = 0,
+  indexEndPage = 0,
 } = Astro.props as Props;
 ---
 
@@ -87,7 +93,7 @@ const {
     <button class="reading-contents-button" type="button" data-reading-focus-contents aria-expanded="false">Contents</button>
   )}
   {pageJump && (
-    <form class="reading-page-jump" data-reading-page-jump>
+    <form class="reading-page-jump" data-reading-page-jump data-available-pages={availablePages.join(",")} data-index-start-page={indexStartPage} data-index-end-page={indexEndPage}>
       <label for="reading-page-number">Page</label>
       <input id="reading-page-number" name="page" type="number" min="1" step="1" inputmode="numeric" placeholder="No." required />
       <button type="submit">Go</button>
