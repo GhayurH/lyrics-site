@@ -1,0 +1,89 @@
+/* File role: Minimal immersive-mode shell; edition layout lives in reading-columns.css. */
+.reading-focus-enter, .reading-focus-actions button, .reading-focus-fullscreen {
+  min-height: 2.25rem; border: 1px solid var(--border-colour); border-radius: 0.5rem;
+  padding: 0.38rem 0.72rem; background: var(--surface-background); color: var(--primary-text);
+  font: inherit; font-size: 0.82rem; font-weight: 700; cursor: pointer;
+}
+.reading-focus-enter { margin-inline: 0; }
+.reading-focus-actions { display: none; gap: 0.35rem; }
+.reading-focus-fullscreen { display: none; }
+.reading-controls button:hover { background: var(--tag-background); }
+.reading-controls button:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+
+html[data-reading-focus="true"] body { overflow: hidden; }
+html[data-reading-focus="true"] :is(.site-header,.site-footer,.skip-link) { visibility: hidden; }
+/* Retain each edition's existing DOM, scroll offsets, and streaming chunks. */
+html[data-reading-focus="true"] [data-reading-root] {
+  position: fixed; inset: 0; z-index: 80; box-sizing: border-box;
+  width: 100%; max-width: none; height: 100dvh; max-height: none; margin: 0;
+  border: 0; border-radius: 0;
+  padding: max(3.3rem,calc(3rem + env(safe-area-inset-top)))
+           max(0.8rem,env(safe-area-inset-right))
+           max(0.7rem,env(safe-area-inset-bottom))
+           max(0.8rem,env(safe-area-inset-left));
+  overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain;
+  background: var(--site-background); scrollbar-width: thin;
+}
+html[data-reading-focus="true"] .reading-controls {
+  position: fixed; top: env(safe-area-inset-top,0px);
+  right: max(0.45rem,env(safe-area-inset-right)); left: auto; z-index: 100;
+  display: flex; flex-wrap: wrap; justify-content: flex-end; align-items: center;
+  width: min(30rem,calc(100vw - 0.9rem)); margin: 0;
+  border: 1px solid transparent; padding: 0.4rem;
+  background: transparent; box-shadow: none; pointer-events: none;
+}
+html[data-reading-focus="true"] .reading-focus-enter { display: none; }
+html[data-reading-focus="true"] .reading-focus-actions { display: flex; order: 0; pointer-events: auto; }
+html[data-reading-focus="true"] .reading-controls > :is(.reading-control-group,.reading-page-jump,.reading-focus-fullscreen) { display: none; }
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] {
+  gap: 0.5rem; border-color: var(--border-colour); border-radius: 0.75rem;
+  background: var(--surface-background); box-shadow: 0 0.4rem 1.5rem rgb(0 0 0 / 0.22);
+}
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-control-group {
+  display: grid; flex: 1 1 calc(50% - 0.5rem); min-width: 0; order: 1; pointer-events: auto;
+}
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-view-control { flex-basis: 100%; }
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-focus-fullscreen:not([hidden]) {
+  display: block; order: 3; pointer-events: auto;
+}
+html[data-reading-focus="true"] .reading-controls select { width: 100%; }
+
+/* Titles belong to the kalam, while route metadata and column labels do not. */
+.lyric-focus-title { display: none; }
+html[data-reading-focus="true"] .lyric-reading-grid { align-content: start; background: var(--site-background); gap: 0.5rem; }
+html[data-reading-focus="true"] .lyric-reading-panel { min-width: 0; margin-inline: auto; padding: clamp(0.4rem,1.6vw,1.3rem); }
+html[data-reading-focus="true"] .lyric-reading-grid .lyric-reading-roman { border: 0; }
+html[data-reading-focus="true"] .lyric-version-heading {
+  display: block; margin-bottom: 0.65rem; border: 0; padding: 0;
+  color: var(--primary-text); letter-spacing: 0; text-transform: none;
+}
+html[data-reading-focus="true"] .lyric-language-label { display: none; }
+html[data-reading-focus="true"] .lyric-focus-title {
+  display: block; font-size: clamp(1.25rem,3vw,1.85rem); font-weight: 750;
+  line-height: 2; text-decoration: underline;
+  text-decoration-thickness: from-font; text-underline-offset: 0.16em;
+}
+html[data-reading-focus="true"] .lyric-focus-title[dir="ltr"] { line-height: 1.6; }
+html[data-reading-focus="true"] :is(.basta-page-text-heading,.basta-original-page figcaption) { display: none; }
+html[data-reading-focus="true"] .basta-page-grid[data-reading-root] { align-content: start; margin: 0; gap: 0.75rem; }
+html[data-reading-focus="true"] .basta-page-grid[data-reading-root] .basta-original-page { border: 0; background: transparent; }
+html[data-reading-focus="true"] .basta-original-page a { padding: 0; }
+html[data-reading-focus="true"] .basta-page-grid[data-reading-root] .basta-original-page img,
+html[data-reading-focus="true"] .basta-reader-original-image img {
+  width: auto; max-width: 100%; height: auto; max-height: calc(100dvh - 4.5rem);
+  margin-inline: auto; object-fit: contain;
+}
+html[data-reading-focus="true"] .basta-reader-flow { width: 100%; max-width: none; }
+html[data-reading-focus="true"] .basta-reader-index { display: none; }
+
+@media (orientation: landscape) and (pointer: coarse) and (max-height: 700px) {
+  html[data-reading-focus="true"] [data-reading-root] {
+    padding: max(2.6rem,calc(2.3rem + env(safe-area-inset-top)))
+             max(0.55rem,env(safe-area-inset-right))
+             max(0.4rem,env(safe-area-inset-bottom))
+             max(0.55rem,env(safe-area-inset-left));
+  }
+  html[data-reading-focus="true"] .lyric-reading-panel { padding: 0.35rem 0.55rem; }
+  html[data-reading-focus="true"] .basta-original-page img,
+  html[data-reading-focus="true"] .basta-reader-original-image img { max-height: calc(100dvh - 3.3rem); }
+}

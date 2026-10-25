@@ -198,18 +198,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         }
       </dl>
 
-      {
-        data.cover && (
-          <img
-            class="lyric-cover"
-            src={data.cover}
-            alt={data.coverAlt}
-            data-pagefind-meta="image[src], image_alt[alt]"
-            loading="lazy"
-            decoding="async"
-          />
-        )
-      }
+
     </header>
 
     <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
@@ -229,6 +218,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       ariaLabel="Reading controls"
       modeGroupLabel="Lyric view"
       showModes={Boolean(data.romanLyrics)}
+      hasImage={Boolean(data.cover)}
     />
 
     <div
@@ -237,12 +227,18 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         !data.romanLyrics && "lyric-reading-grid-single",
       ]}
       data-reading-root
+      data-reader-kind="lyrics"
       data-has-roman={String(Boolean(data.romanLyrics))}
       data-reading-mode={data.romanLyrics ? "parallel" : "urdu"}
       data-font-size="default"
       data-line-spacing="default"
       data-synced-scroll-root
     >
+      {data.cover && (
+        <figure class="lyric-reading-image" data-synced-scroll-panel aria-label="Original lyric sheet">
+          <img src={data.cover} alt={data.coverAlt || "Original lyric sheet"} data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" decoding="async" />
+        </figure>
+      )}
       <section
         class="lyric-reading-panel lyric-reading-urdu"
         data-synced-scroll-panel
@@ -250,7 +246,10 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         lang={data.lang}
         aria-label={`${data.language} lyrics`}
       >
-        <h2 class="lyric-version-heading">{data.language}</h2>
+        <h2 class="lyric-version-heading">
+          <span class="lyric-language-label">{data.language}</span>
+          <span class="lyric-focus-title" lang={data.lang} dir={data.direction}>{data.title}</span>
+        </h2>
         <LyricVerses text={lyric.body ?? ""} className="lyrics-text" />
       </section>
 
@@ -263,7 +262,12 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
             dir="ltr"
             aria-label="Roman Urdu lyrics"
           >
-            <h2 class="lyric-version-heading">Roman Urdu</h2>
+            <h2 class="lyric-version-heading">
+              <span class="lyric-language-label">Roman Urdu</span>
+              <span class="lyric-focus-title" lang={data.alternateTitle ? "en" : data.lang} dir={data.alternateTitle ? "ltr" : data.direction}>
+                {data.alternateTitle ?? data.title}
+              </span>
+            </h2>
             <LyricVerses text={data.romanLyrics} className="roman-lyrics-text" />
           </section>
         )

@@ -86,6 +86,7 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
   if (!page.hasRoman && !page.imageOnly) section.classList.add("basta-reader-page-no-roman");
   section.id = `page-${page.page}`;
   section.dataset.bastaPage = String(page.page);
+  section.dataset.pageHasRoman = String(page.hasRoman);
   section.dataset.syncedScrollRoot = "";
 
   if (page.imageOnly) {
@@ -96,6 +97,9 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     section.append(grid);
   } else {
     const grid = element("div", "basta-reader-page-grid");
+    const original = renderOriginalImage(page);
+    original.dataset.readingImageExtra = "";
+    grid.append(original);
 
     const roman = element("section", "basta-reader-column basta-reader-roman");
     roman.lang = "en";
@@ -186,6 +190,7 @@ async function resolveHash(): Promise<void> {
     );
     await Promise.all(preceding.map(loadChunk));
     document.getElementById("index")?.scrollIntoView();
+    window.dispatchEvent(new Event("basta:hash-resolved"));
     return;
   }
 
@@ -195,6 +200,7 @@ async function resolveHash(): Promise<void> {
   const target = document.getElementById(`page-${page}`);
   if (target) {
     target.scrollIntoView();
+    window.dispatchEvent(new Event("basta:hash-resolved"));
     return;
   }
 
@@ -209,6 +215,7 @@ async function resolveHash(): Promise<void> {
 
   await loadChunk(chunk);
   document.getElementById(`page-${page}`)?.scrollIntoView();
+  window.dispatchEvent(new Event("basta:hash-resolved"));
 }
 
 export function initBastaStreamingReader(): void {
@@ -248,5 +255,6 @@ export function initBastaStreamingReader(): void {
   });
 
   window.addEventListener("hashchange", () => void resolveHash());
+  window.addEventListener("basta:navigate-to-page", () => void resolveHash());
   void resolveHash();
 }
