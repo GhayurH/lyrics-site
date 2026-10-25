@@ -31,8 +31,12 @@ export type BastaStanzaStyle = "auto" | "couplet";
 export interface BastaDisplayLine {
   text: string;
   indent: boolean;
-  /** Only poem lines are justified, never titles, bylines or source notes. */
+  /** Verse status is retained separately from title-fitting. */
   verse: boolean;
+  /** Actual poem titles also use single-line justification/fitting. */
+  title?: boolean;
+  /** A rule starts each couplet after the first in a two-verse poem. */
+  coupletSeparator?: boolean;
   /** Last two lines in a six-line stanza, framed instead of side-ruled. */
   sixClosing?: boolean;
   sixClosingStart?: boolean;
@@ -112,7 +116,23 @@ export function layoutBastaKalam(
     );
   const usesCouplets = style === "couplet" || inferredCouplets;
 
+  // Justify the poem's opening title, not the section heading or poet's
+  // name. The title normally repeats as the first line of the verse block.
+  for (const index of prefaceBlocks) {
+    const block = blocks[index];
+    const next = blocks[index + 1];
+    if (!next) continue;
+    const heading = lines[block.start].trim();
+    const matchesFirstVerse = heading === lines[next.start].trim();
+    const isStandAloneHeading = block.end - block.start === 1 &&
+      !prefaceBlocks.has(index + 1) && heading.includes(" / ");
+    if ((matchesFirstVerse || isStandAloneHeading) && !isCreditLine(heading)) {
+      display[block.start].title = true;
+    }
+  }
+
   let previousVerseCount = 0;
+  let previousCoupletBlock: { start: number; end: number } | undefined;
   for (let index = 0; index < blocks.length; index++) {
     if (prefaceBlocks.has(index)) continue;
     const block = blocks[index];
@@ -127,12 +147,17 @@ export function layoutBastaKalam(
       }
     }
 
+    let endsWithCouplet = false;
     if (usesCouplets && count >= 5) {
       // Two-line stanzas may be transcribed as one continuous paragraph.
       // Preserve explicit four-line stanza blocks as originally printed.
       for (let offset = 1; offset < count; offset += 2) {
         display[first + offset].indent = true;
       }
+      for (let offset = 2; offset < count; offset += 2) {
+        display[first + offset].coupletSeparator = true;
+      }
+      endsWithCouplet = count % 2 === 0;
     } else if (count === 6) {
       // The printed closing couplet is framed by two horizontal rules.
       display[last - 2].sixClosing = true;
@@ -153,9 +178,19 @@ export function layoutBastaKalam(
         }
       } else {
         display[first + 1].indent = true;
+        endsWithCouplet = true;
       }
     }
 
+    // An explicit blank between two couplets becomes a single ruled gap;
+    // never insert rules between a 4+2 six-verse stanza's halves.
+    if (endsWithCouplet && previousCoupletBlock) {
+      display[first].coupletSeparator = true;
+      for (let gap = previousCoupletBlock.end; gap < block.start; gap++) {
+        if (!lines[gap].trim()) display[gap].hidden = true;
+      }
+    }
+    previousCoupletBlock = endsWithCouplet ? block : undefined;
     previousVerseCount = count;
   }
 
@@ -195,7 +230,9 @@ export function bastaVerseClassNames(line: BastaDisplayLine): string {
   return [
     "basta-verse-line",
     line.indent && "basta-verse-indent",
-    line.verse && "basta-verse-poetry",
+    (line.verse || line.title) && "basta-verse-poetry",
+    line.title && "basta-poem-title",
+    line.coupletSeparator && "basta-couplet-separator",
     line.sixClosing && "basta-six-closing",
     line.sixClosingStart && "basta-six-closing-start",
     line.sixClosingEnd && "basta-six-closing-end",

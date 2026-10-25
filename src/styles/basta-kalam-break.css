@@ -28,9 +28,8 @@
   white-space: normal;
 }
 
-/* Direction-aware verse indentation follows printed Basta conventions:
-   two-line stanzas offset their second verse, and six-line stanzas offset
-   their closing two verses. The line wrapper also preserves blank lines. */
+/* Direction-aware verse indentation offsets the second verse of a couplet.
+   Six-line stanza endings use separate horizontal framing rules. */
 .basta-verse-line {
   display: block;
   white-space: pre-wrap;
@@ -51,12 +50,16 @@
   white-space: pre;
 }
 
-/* A subtle, direction-aware rule follows the inset printed verse.
-   Logical spacing puts it on the right for Urdu and left for Roman Urdu. */
+/* Indent the second line only; no vertical line in two-verse stanzas. */
 .basta-verse-indent {
-  margin-inline-start: clamp(1.25rem, 5%, 2.25rem);
-  padding-inline-start: clamp(1rem, 5%, 2.25rem);
-  border-inline-start: 1px solid var(--secondary-text);
+  margin-inline-start: clamp(1.75rem, 6%, 3rem);
+}
+
+/* Each following couplet starts with one horizontal separator. */
+.basta-couplet-separator {
+  border-top: 1px solid var(--secondary-text);
+  margin-block-start: 0.55em;
+  padding-block-start: 0.3em;
 }
 
 /* Frame lines five and six in six-line stanzas. Unlike a two-line stanza,
@@ -81,8 +84,7 @@
   border-top: 1px solid var(--secondary-text);
   margin-block-start: 0.45em;
   padding-block-start: 0.18em;
-  text-align: start;
-  text-align-last: start;
+  /* Inherit the same justification as the title and ordinary verses. */
 }
 
 .basta-refrain-shared-rule {

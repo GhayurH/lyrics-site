@@ -2,7 +2,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { layoutBastaKalam, splitBastaKalams } from "../src/lib/basta-text.ts";
+import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams } from "../src/lib/basta-text.ts";
 
 const indents = (text, enabled = true) => layoutBastaKalam(text, enabled)
   .filter((line) => line.text.trim() && !/^\d+$/.test(line.text.trim()))
@@ -102,7 +102,7 @@ test("four-line stanza breaks remain unindented even in the Salam section", () =
   ]);
 });
 
-test("justifies poetry but excludes repeated titles, poets and credits", () => {
+test("justifies poetry titles but excludes poets and credits", () => {
   const result = layoutBastaKalam(
     ["پہلا مصرع", "شاعر", "", "پہلا مصرع", "دوسرا مصرع", "تیسرا مصرع",
       "چوتھا مصرع", "(بشکریہ خواں)"].join("\n"), true, "couplet"
@@ -110,6 +110,9 @@ test("justifies poetry but excludes repeated titles, poets and credits", () => {
   assert.deepEqual(result.map((line) => line.verse), [
     false, false, false, true, true, true, true, false
   ]);
+  assert.ok(result[0].title);
+  assert.ok(bastaVerseClassNames(result[0]).includes("basta-verse-poetry"));
+  assert.ok(!bastaVerseClassNames(result[1]).includes("basta-verse-poetry"));
 });
 
 test("unformatted prose never gains the poetry-justification flag", () => {
@@ -167,4 +170,68 @@ test("long unnumbered couplet poems continue correctly onto the next page", () =
   assert.equal(lines.filter(line => line.verse).length, 14);
   assert.deepEqual(lines.filter(line => line.verse).map(line => line.indent),
     Array.from({ length: 14 }, (_, i) => i % 2 === 1));
+});
+
+test("page 362 Urdu and Roman opening titles and closing lines use verse fitting", () => {
+  for (const language of ["pages", "roman"]) {
+    const source = readFileSync(new URL(`../src/data/basta/${language}/362.md`, import.meta.url), "utf8");
+    const text = splitBastaKalams(source.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, ""))[0];
+    const lines = layoutBastaKalam(text);
+    const title = lines.find(line => line.title);
+    assert.ok(title, language + " title detected");
+    assert.equal(title.verse, false, language + " title does not count as a verse");
+    assert.ok(bastaVerseClassNames(title).includes("basta-verse-poetry"));
+    const verses = lines.filter(line => line.verse);
+    assert.equal(verses.length, 14);
+    assert.equal(verses.filter(line => line.coupletSeparator).length, 6, language + " separators");
+    assert.ok(!verses[0].coupletSeparator);
+    assert.ok(verses.every((line, i) => line.indent === (i % 2 === 1)));
+    assert.ok(verses.every(line => !line.sixClosing));
+    assert.equal(lines.filter(line => line.hidden).length, 1, "blank between pairs collapsed");
+  }
+});
+
+test("two-verse groups separated by blank lines get exactly one rule per boundary", () => {
+  const lines = layoutBastaKalam("first\nsecond\n\nthird\nfourth\n\nfifth\nsixth");
+  assert.deepEqual(lines.filter(l => l.coupletSeparator).map(l => l.text), ["third", "fifth"]);
+  assert.deepEqual(lines.filter(l => l.hidden).map(l => l.text), ["", ""]);
+  assert.deepEqual(lines.filter(l => l.indent).map(l => l.text), ["second", "fourth", "sixth"]);
+  assert.ok(lines.every(l => !l.sixClosing));
+});
+
+test("unnumbered and explicitly configured long couplets insert horizontal separators between pairs", () => {
+  const lines = layoutBastaKalam("a\nb\nc\nd\ne\nf", true, "couplet");
+  assert.deepEqual(lines.filter(l => l.coupletSeparator).map(l => l.text), ["c", "e"]);
+  assert.ok(!lines[0].coupletSeparator);
+  assert.deepEqual(lines.filter(l => l.indent).map(l => l.text), ["b", "d", "f"]);
+});
+
+test("six-line stanza and source refrain have no couplet separators", () => {
+  const lines = layoutBastaKalam("1\na\nb\nc\nd\n\ne\nf\n\nopening reprise");
+  assert.ok(lines.every(l => !l.coupletSeparator));
+  assert.ok(lines.find(l => l.text === "e")?.sixClosingStart);
+  assert.ok(lines.find(l => l.text === "f")?.sixClosingEnd);
+});
+
+test("titles and final first-line reprises are justified without applying justification to poets", () => {
+  const lines = layoutBastaKalam("poem title\npoet\n\npoem title\nsecond line\n\npoem title");
+  const title = lines[0];
+  const poet = lines[1];
+  const reprise = lines.at(-1);
+  assert.ok(title.title);
+  assert.ok(bastaVerseClassNames(title).includes("basta-verse-poetry"));
+  assert.ok(!bastaVerseClassNames(poet).includes("basta-verse-poetry"));
+  assert.ok(reprise.refrain);
+  assert.ok(bastaVerseClassNames(reprise).includes("basta-verse-poetry"));
+  assert.ok(!reprise.coupletSeparator);
+});
+
+test("non-verse category headers and credits remain unfit and unjustified", () => {
+  const text = "حمد، نعت و مناقب\n\nپہلا مصرع\nحمد / شاعر\n\nپہلا مصرع\nدوسرا مصرع";
+  const lines = layoutBastaKalam(text);
+  assert.ok(!lines[0].title);
+  assert.ok(!lines[0].verse);
+  assert.ok(lines[2].title);
+  assert.ok(!lines[3].title);
+  assert.ok(!lines[3].verse);
 });
