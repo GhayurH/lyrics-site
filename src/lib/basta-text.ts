@@ -31,6 +31,8 @@ export type BastaStanzaStyle = "auto" | "couplet";
 export interface BastaDisplayLine {
   text: string;
   indent: boolean;
+  /** Inset the end of the first line, opposite the second line's indent. */
+  reverseIndent?: boolean;
   /** Verse status is retained separately from title-fitting. */
   verse: boolean;
   /** Actual poem titles also use single-line justification/fitting. */
@@ -125,7 +127,8 @@ export function layoutBastaKalam(
     const heading = lines[block.start].trim();
     const matchesFirstVerse = heading === lines[next.start].trim();
     const isStandAloneHeading = block.end - block.start === 1 &&
-      !prefaceBlocks.has(index + 1) && heading.includes(" / ");
+      !prefaceBlocks.has(index + 1) &&
+      (heading.includes(" / ") || isStanzaNumber(lines[next.start]));
     if ((matchesFirstVerse || isStandAloneHeading) && !isCreditLine(heading)) {
       display[block.start].title = true;
     }
@@ -151,8 +154,9 @@ export function layoutBastaKalam(
     if (usesCouplets && count >= 5) {
       // Two-line stanzas may be transcribed as one continuous paragraph.
       // Preserve explicit four-line stanza blocks as originally printed.
-      for (let offset = 1; offset < count; offset += 2) {
-        display[first + offset].indent = true;
+      for (let offset = 0; offset < count; offset += 2) {
+        display[first + offset].reverseIndent = true;
+        if (first + offset + 1 < last) display[first + offset + 1].indent = true;
       }
       for (let offset = 2; offset < count; offset += 2) {
         display[first + offset].coupletSeparator = true;
@@ -177,6 +181,7 @@ export function layoutBastaKalam(
           if (!lines[space].trim()) display[space].hidden = true;
         }
       } else {
+        display[first].reverseIndent = true;
         display[first + 1].indent = true;
         endsWithCouplet = true;
       }
@@ -230,6 +235,7 @@ export function bastaVerseClassNames(line: BastaDisplayLine): string {
   return [
     "basta-verse-line",
     line.indent && "basta-verse-indent",
+    line.reverseIndent && "basta-verse-reverse-indent",
     (line.verse || line.title) && "basta-verse-poetry",
     line.title && "basta-poem-title",
     line.coupletSeparator && "basta-couplet-separator",

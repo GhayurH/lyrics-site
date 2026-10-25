@@ -22,9 +22,14 @@ function fitKalam(kalam: HTMLElement, context: CanvasRenderingContext2D): void {
     const value = verse.textContent?.trim();
     if (!value) continue;
     const styles = getComputedStyle(verse);
+    // Include both logical edges: first verses use end padding for the
+    // reverse indent while second verses use a start margin.
     const inset = (Number.parseFloat(styles.marginInlineStart) || 0)
+      + (Number.parseFloat(styles.marginInlineEnd) || 0)
       + (Number.parseFloat(styles.paddingInlineStart) || 0)
-      + (Number.parseFloat(styles.borderInlineStartWidth) || 0);
+      + (Number.parseFloat(styles.paddingInlineEnd) || 0)
+      + (Number.parseFloat(styles.borderInlineStartWidth) || 0)
+      + (Number.parseFloat(styles.borderInlineEndWidth) || 0);
     // Measure shaping with the browser's text engine; leave room for
     // Nastaliq glyph variation and fractional pixel rounding.
     const natural = context.measureText(value).width * 1.03;

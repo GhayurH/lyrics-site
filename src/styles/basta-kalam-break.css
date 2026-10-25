@@ -50,9 +50,14 @@
   white-space: pre;
 }
 
-/* Indent the second line only; no vertical line in two-verse stanzas. */
+/* Opposing inset margins create the alternating couplet silhouette.
+   End padding preserves the separator rule's full width on the first verse. */
 .basta-verse-indent {
   margin-inline-start: clamp(1.75rem, 6%, 3rem);
+}
+
+.basta-verse-reverse-indent {
+  padding-inline-end: clamp(1.75rem, 6%, 3rem);
 }
 
 /* Each following couplet starts with one horizontal separator. */

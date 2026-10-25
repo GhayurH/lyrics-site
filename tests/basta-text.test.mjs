@@ -235,3 +235,65 @@ test("non-verse category headers and credits remain unfit and unjustified", () =
   assert.ok(!lines[3].title);
   assert.ok(!lines[3].verse);
 });
+
+
+test("page 200 standalone titles before numbered six-line stanzas are justified", () => {
+  for (const language of ["pages", "roman"]) {
+    const markdown = readFileSync(new URL("../src/data/basta/" + language + "/200.md", import.meta.url), "utf8");
+    const body = markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+    const kalam = splitBastaKalams(body)[1];
+    const lines = layoutBastaKalam(kalam);
+    const title = lines.find((line) => line.text.trim() && !line.verse && line.title);
+    assert.ok(title, language + " standalone heading detected");
+    assert.match(title.text, language === "pages" ? /امتحان گاہ/ : /Imtihan-gah/);
+    assert.ok(bastaVerseClassNames(title).includes("basta-verse-poetry"));
+    assert.ok(!lines.find((line) => /^\s*[۱1]\s*$/.test(line.text))?.title);
+    assert.ok(!lines.some((line) => line.reverseIndent));
+    assert.equal(lines.find((line) => line.sixClosingStart)?.text.trim() !== "", true);
+  }
+});
+
+test("page 363 matching poem titles remain justified without justifying the byline", () => {
+  for (const language of ["pages", "roman"]) {
+    const markdown = readFileSync(new URL("../src/data/basta/" + language + "/363.md", import.meta.url), "utf8");
+    const body = markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+    const lines = layoutBastaKalam(splitBastaKalams(body)[0]);
+    assert.ok(lines[0].title);
+    assert.ok(bastaVerseClassNames(lines[0]).includes("basta-verse-poetry"));
+    assert.equal(lines[1].title, undefined);
+    assert.ok(!bastaVerseClassNames(lines[1]).includes("basta-verse-poetry"));
+  }
+});
+
+test("couplet verses alternate reverse/end and regular/start indents", () => {
+  const lines = layoutBastaKalam("a\nb\nc\nd\ne\nf", true, "couplet");
+  assert.deepEqual(lines.map((line) => Boolean(line.reverseIndent)), [true, false, true, false, true, false]);
+  assert.deepEqual(lines.map((line) => line.indent), [false, true, false, true, false, true]);
+  assert.deepEqual(lines.filter((line) => line.coupletSeparator).map((line) => line.text), ["c", "e"]);
+  for (const first of lines.filter((line) => line.reverseIndent)) {
+    assert.ok(bastaVerseClassNames(first).includes("basta-verse-reverse-indent"));
+  }
+});
+
+test("Urdu and Roman page 362 use opposite insets on first and second couplet lines", () => {
+  for (const language of ["pages", "roman"]) {
+    const markdown = readFileSync(new URL("../src/data/basta/" + language + "/362.md", import.meta.url), "utf8");
+    const body = markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+    const verses = layoutBastaKalam(splitBastaKalams(body)[0]).filter((line) => line.verse);
+    assert.equal(verses.length, 14);
+    assert.deepEqual(verses.map((line) => Boolean(line.reverseIndent)),
+      Array.from({ length: 14 }, (_, i) => i % 2 === 0));
+    assert.deepEqual(verses.map((line) => line.indent),
+      Array.from({ length: 14 }, (_, i) => i % 2 === 1));
+    assert.equal(verses.filter((line) => line.coupletSeparator).length, 6);
+  }
+});
+
+test("two-line and six-line stanza formatting stay independent", () => {
+  const couplet = layoutBastaKalam("one\ntwo");
+  assert.ok(couplet[0].reverseIndent && couplet[1].indent);
+  const six = layoutBastaKalam("۱\nA\nB\nC\nD\n\nE\nF");
+  assert.ok(six.every((line) => !line.reverseIndent));
+  assert.ok(six.find((line) => line.text === "E")?.sixClosingStart);
+  assert.ok(six.find((line) => line.text === "F")?.sixClosingEnd);
+});
