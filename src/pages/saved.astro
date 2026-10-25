@@ -18,6 +18,8 @@ import "../styles/saved.css";
       </p>
     </header>
 
+    <p data-requires-js class="saved-empty">Saved and recent lyrics require JavaScript because they are stored locally in your browser. You can still <a href="/">browse the archive</a>.</p>
+
     <p id="saved-load-error" class="saved-empty" hidden>
       The lyric catalog could not be loaded. Reload this page and try again.
     </p>
@@ -33,9 +35,14 @@ import "../styles/saved.css";
         </button>
       </div>
       <p id="favorites-empty" class="saved-empty">
-        Nothing saved yet. Use the bookmark icon on any kalam card.
+        Nothing saved yet. Use the bookmark icon on any kalam card, or <a href="/">browse the archive</a>.
       </p>
       <ul id="favorites-list" class="lyric-list saved-lyric-list" aria-live="polite"></ul>
+    </section>
+
+    <section class="saved-section" aria-labelledby="continue-basta-heading" data-basta-resume-section hidden>
+      <div class="section-heading"><h2 id="continue-basta-heading">Continue reading</h2></div>
+      <p><a data-resume-basta href="/basta/" hidden>Continue Basta</a></p>
     </section>
 
     <section class="saved-section" aria-labelledby="recent-heading">
@@ -55,6 +62,8 @@ import "../styles/saved.css";
 
   <script>
     import { initSavedLibrary } from "../client/saved-library";
+    import { initResumeBasta } from "../client/reading-progress";
     void initSavedLibrary();
+    initResumeBasta();
   </script>
 </BaseLayout>

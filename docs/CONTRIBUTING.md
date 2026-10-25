@@ -133,6 +133,8 @@ The R2 bucket also has the custom domain `r2-assets.kalamarchive.com`. That host
 
 Do **not** replace normal content URLs with `r2-assets.kalamarchive.com` unless there is a specific architectural reason to do so.
 
+Cloudflare Pages preview hostnames (`*.lyrics-site.pages.dev`) do not match the production-only Cloud Connector host rules. The two rules in `public/_redirects` send missing `/images/*` and `/files/*` requests on Pages preview deployments to the same publicly accessible objects on `r2-assets.kalamarchive.com`. This is deliberately a **302 fallback**, not a rewrite of the content metadata. Keep the production Cloud Connector configuration in place. When testing a preview deployment, verify that its image URLs redirect successfully to R2; local Astro preview does not emulate Pages redirects.
+
 ### Local asset master
 
 The recommended local asset master is:
@@ -266,13 +268,13 @@ Browser-local persistence should use `src/client/storage.ts` rather than parsing
 
 ### Reading controls
 
-Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. Do not reimplement mode/text-size/spacing persistence inside an individual route.
+Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. On mobile the ordinary controls start collapsed, with a separate Options button; Focus mode continues to use its own Options controls. The site header hides on downscroll, returns on upscroll, and stays visible when the navigation menu is open. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
 
 `src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. The original scan follows whole-page percentage; stacked and single-language layouts remain ordinary document flows.
 
 ### Basta layouts and streaming
 
-Basta pages may contain scan only, scan + Urdu, or scan + Urdu + Roman. When changing grid rules, test both desktop and narrow/mobile layouts.
+Basta pages may contain scan only, scan + Urdu, or scan + Urdu + Roman. Reader grid rules belong to `reading-columns.css` and must adapt to the container's usable width, not whether a device happens to be in landscape. Test portrait/landscape, narrow/wide containers, and Focus mode for all combinations. Preserve the missing-Roman scan fallback and the image enlargement link contract.
 
 The continuous reader uses pre-rendered eight-page JSON chunks. If changing chunk behavior, preserve:
 
@@ -307,3 +309,9 @@ Review the diff before committing. For asset changes, verify that the correspond
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
+
+### Browser validation for UI changes
+
+In addition to `npm test` and `npm run build`, reader layout changes require `npx playwright test` after installing `@playwright/test` and the Chromium browser. The GitHub Actions workflow runs this automatically on `main`, the feature branch, and pull requests. Playwright is pinned in development dependencies, and the tests validate interactions and responsive geometry without screenshot comparisons. Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, the continuous reader's deep links/Contents panel, and Focus-mode exit. Do not allow an original-scan link to stop working without JavaScript.
+
+Every poem verse stays on a single line; neither wrapping nor horizontal scrolling is an acceptable fallback. There is no text-size selector. Long lines are fitted automatically to the available column width, preserving the original text and keeping separate kalam boundaries. Keep the functional mobile tests for all three reader routes.

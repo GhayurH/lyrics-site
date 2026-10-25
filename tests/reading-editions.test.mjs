@@ -3,7 +3,8 @@ import assert from "node:assert/strict";
 import { readingModeFromEditions, selectedEditions } from "../src/client/reading-editions.ts";
 
 test("all three editions may appear together", () => {
-  assert.deepEqual(selectedEditions(undefined, ["image", "urdu", "roman"]), ["image", "urdu", "roman"]);
+  assert.deepEqual(selectedEditions(undefined, ["image", "urdu", "roman"]), ["urdu", "roman"]);
+  assert.deepEqual(selectedEditions(["image", "urdu", "roman"], ["image", "urdu", "roman"]), ["image", "urdu", "roman"]);
   assert.equal(readingModeFromEditions(["image", "urdu", "roman"]), "parallel");
 });
 

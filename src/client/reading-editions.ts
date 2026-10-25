@@ -10,7 +10,10 @@ export function isEdition(value: unknown): value is Edition {
 export function selectedEditions(saved: unknown, available: Edition[], imageOnly = false): Edition[] {
   const remembered = Array.isArray(saved) ? saved.filter(isEdition).filter((edition) => available.includes(edition)) : [];
   if (remembered.length) return [...new Set(remembered)];
-  return imageOnly && available.includes("image") ? ["image"] : [...available];
+  if (imageOnly) return ["image"];
+  // Prefer available text; readers may opt into the original scan.
+  const textEditions = available.filter((edition) => edition !== "image");
+  return textEditions.length ? textEditions : [...available];
 }
 
 /** Maintain compatible single-edition selectors in the existing reader CSS. */

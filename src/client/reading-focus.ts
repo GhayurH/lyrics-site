@@ -11,6 +11,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   const optionsButton = controls.querySelector<HTMLButtonElement>("[data-reading-focus-options]");
   const fullscreenButton = controls.querySelector<HTMLButtonElement>("[data-reading-fullscreen-toggle]");
   const topButton = controls.querySelector<HTMLButtonElement>("[data-reading-scroll-top]");
+  const contentsButton = controls.querySelector<HTMLButtonElement>("[data-reading-focus-contents]");
   if (!enterButton || !exitButton || !optionsButton || !fullscreenButton || !topButton) return;
 
   const html = document.documentElement;
@@ -71,7 +72,14 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
       const rect = node.getBoundingClientRect();
       return { id: Number(node.dataset.bastaPage), top: rect.top, bottom: rect.bottom };
     });
-    const pageNumber = pageAtReadingLine(pageRects, bounds.top, bounds.height);
+    // Rotation can leave the upper reading line in a sliver of the previous page.
+    // Exiting Focus should return to the page occupying most of the viewport.
+    const visible = pageRects.map((item) => ({
+      id: item.id,
+      height: Math.max(0, Math.min(item.bottom, bounds.bottom) - Math.max(item.top, bounds.top)),
+    })).sort((a, b) => b.height - a.height);
+    const pageNumber = visible[0]?.height
+      ? visible[0].id : pageAtReadingLine(pageRects, bounds.top, bounds.height);
     const page = pages.find((node) => Number(node.dataset.bastaPage) === pageNumber);
     return { anchor: current, page, pageNumber };
   };
@@ -83,6 +91,14 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     else (scroller as HTMLElement).scrollTop += delta;
   };
 
+  const contentsOpen = (open: boolean) => {
+    if (!isContinuous) return;
+    html.dataset.readingTocOpen = String(open);
+    contentsButton?.setAttribute("aria-expanded", String(open));
+    const index = root.querySelector<HTMLElement>(".basta-reader-index");
+    if (open) requestAnimationFrame(() => index?.querySelector<HTMLAnchorElement>("a[href]")?.focus({ preventScroll: true }));
+    else if (active && index?.contains(document.activeElement)) contentsButton?.focus({ preventScroll: true });
+  };
   const optionsOpen = (open: boolean) => {
     controls.dataset.readingOptionsOpen = String(open);
     optionsButton.setAttribute("aria-expanded", String(open));
@@ -91,7 +107,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
 
   const syncFullscreen = () => {
     const enabled = Boolean(document.fullscreenElement);
-    fullscreenButton.textContent = enabled ? "Exit fullscreen" : "Fullscreen";
+    fullscreenButton.textContent = enabled ? "Exit browser fullscreen" : "Browser fullscreen";
     fullscreenButton.setAttribute("aria-pressed", String(enabled));
   };
   fullscreenButton.hidden = !document.fullscreenEnabled;
@@ -123,6 +139,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     setOutsideInert(true);
     html.dataset.readingFocus = "true";
     optionsOpen(false);
+    contentsOpen(false);
     if (updateHistory) history.pushState({ ...(history.state ?? {}), [FOCUS_FLAG]: true }, "", readingUrl(true));
     requestAnimationFrame(() => {
       restoreAnchor(current, root);
@@ -147,6 +164,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     active = false;
     delete html.dataset.readingFocus;
     optionsOpen(false);
+    contentsOpen(false);
     setOutsideInert(false);
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
 
@@ -191,26 +209,33 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   exitButton.addEventListener("click", () => exit(true));
   optionsButton.addEventListener("click", () =>
     optionsOpen(controls.dataset.readingOptionsOpen !== "true"));
+  contentsButton?.addEventListener("click", () => {
+    if (active) contentsOpen(html.dataset.readingTocOpen !== "true");
+    else { location.hash = "index"; window.dispatchEvent(new Event("hashchange")); }
+  });
+  root.querySelector(".basta-reader-index")?.addEventListener("click", (event) => {
+    if (event.target instanceof Element && event.target.closest("a[href^='#page-']")) contentsOpen(false);
+  });
   fullscreenButton.addEventListener("click", () => {
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
     else if (document.fullscreenEnabled) void document.documentElement.requestFullscreen().catch(() => {});
   });
 
-  // Tapping noninteractive content toggles preferences; scan links should not navigate away.
+  // Tapping noninteractive content toggles preferences; links retain their actions.
   root.addEventListener("click", (event) => {
     if (!active || !(event.target instanceof Element)) return;
     const link = event.target.closest("a");
-    if (link?.closest(".basta-original-page")) event.preventDefault();
     if (event.target.closest("button, input, select, textarea") ||
-        (link && !link.closest(".basta-original-page")) ||
+        link ||
         window.getSelection()?.toString()) return;
     optionsOpen(controls.dataset.readingOptionsOpen !== "true");
   });
 
   document.addEventListener("keydown", (event) => {
-    if (active && event.key === "Escape") {
+    if (active && event.key === "Escape" && !document.querySelector("dialog.scan-viewer[open]")) {
       event.preventDefault();
-      exit(true);
+      if (html.dataset.readingTocOpen === "true") contentsOpen(false);
+      else exit(true);
     }
   });
   window.addEventListener("popstate", () => {
@@ -244,17 +269,34 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   }, true);
   window.addEventListener("scroll", refreshTopButton, { passive: true });
 
-  controls.querySelector<HTMLFormElement>("[data-reading-page-jump]")?.addEventListener("submit", (event) => {
+  const jumpForm = controls.querySelector<HTMLFormElement>("[data-reading-page-jump]");
+  jumpForm?.querySelector("input")?.addEventListener("input", (event) => {
+    if (event.target instanceof HTMLInputElement) event.target.setCustomValidity("");
+  });
+  jumpForm?.addEventListener("submit", (event) => {
     event.preventDefault();
-    const input = controls.querySelector<HTMLInputElement>("[data-reading-page-jump] input");
-    const page = Number(input?.value);
-    if (!Number.isSafeInteger(page) || page <= 0) return;
-    const hash = '#page-' + page;
-    // Replace rather than push: Android Back should exit Reading Mode, not
-    // traverse every page jump performed inside it.
+    const input = jumpForm.querySelector<HTMLInputElement>('input[name="page"]');
+    if (!input) return;
+    const page = Number(input.value);
+    const available = new Set((jumpForm.dataset.availablePages ?? "").split(",").map(Number));
+    const indexStart = Number(jumpForm.dataset.indexStartPage);
+    const indexEnd = Number(jumpForm.dataset.indexEndPage);
+    if (!Number.isSafeInteger(page) || page < 1) {
+      input.setCustomValidity("Enter a valid page number."); input.reportValidity(); return;
+    }
+    if (page >= indexStart && page <= indexEnd) {
+      if (active) contentsOpen(true);
+      else { location.hash = "index"; window.dispatchEvent(new Event("basta:navigate-to-page")); }
+      return;
+    }
+    if (!available.has(page)) {
+      input.setCustomValidity("That Basta page is not available."); input.reportValidity(); return;
+    }
+    // Replace rather than push: mobile Back exits Focus mode, not every jump.
     const url = new URL(location.href);
-    url.hash = hash;
+    url.hash = `page-${page}`;
     history.replaceState(history.state, "", url.pathname + url.search + url.hash);
+    contentsOpen(false);
     window.dispatchEvent(new Event("basta:navigate-to-page"));
   });
 

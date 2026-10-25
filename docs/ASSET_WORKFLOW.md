@@ -6,6 +6,14 @@ Large binary assets are kept outside Git under `~/KalamArchiveAssets/` and publi
 
 For the full storage model, verification commands, replacement behavior, and cache notes, see [CONTRIBUTING.md](CONTRIBUTING.md#asset-storage-and-publishing).
 
+## Preview deployments and image links
+
+Cloudflare's **Cloud Connector** rules serve `kalamarchive.com/images/*` and `kalamarchive.com/files/*` from R2, but the temporary `*.lyrics-site.pages.dev` deployment hostnames do not inherit those hostname-specific rules. `public/_redirects` therefore provides Cloudflare Pages fallback redirects for these two paths to the public bucket domain `r2-assets.kalamarchive.com`.
+
+Keep all Markdown and page metadata as root-relative URLs, for example `/images/basta/original/138.png`. On preview deployments, Pages redirects that request to the matching R2 object; on the main domain, the existing Cloud Connector routes continue serving the same public paths. Original-image links, image elements, and non-JavaScript viewing work without client-side URL rewriting. Local `astro preview` does not execute Cloudflare Pages `_redirects`; use the development asset symlink described below to view images locally.
+
+When debugging a failed preview scan, check the browser's network request for a **302 redirect** from the preview-domain `/images/...` to `https://r2-assets.kalamarchive.com/images/...`, followed by an image response. Both URLs must contain the same nested file path. The deployment's `dist/_redirects` must also exist.
+
 ## Add an image
 
 Place the image in the local asset master at the path it should have on the site. For example:

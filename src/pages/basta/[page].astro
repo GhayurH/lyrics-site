@@ -124,6 +124,8 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
         <a href={`/basta/read/#page-${page}`}>Continuous reader</a>
         <span aria-hidden="true">·</span>
         <a href="/basta/index/">Index</a>
+        <span aria-hidden="true">·</span>
+        <a href={entry.data.originalImage}>Original scan</a>
       </div>
 
       <h1 data-pagefind-meta="title">Basta — Page {page}</h1>
@@ -172,7 +174,8 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       data-has-roman={String(hasRomanText)}
       data-image-only={String(entry.data.imageOnly)}
       data-reading-mode={entry.data.imageOnly ? "image" : hasRomanText ? "parallel" : "urdu"}
-      data-font-size="default"
+      data-reading-columns={entry.data.imageOnly ? "image" : hasRomanText ? "urdu roman" : "urdu"}
+      data-basta-current-page={page}
       data-line-spacing="default"
       data-synced-scroll-root={!entry.data.imageOnly ? "" : undefined}
     >
@@ -230,8 +233,12 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
     import { initReadingControls } from "../../client/reader-state";
     import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
+    import { initScanViewer } from "../../client/scan-viewer";
+    import { initReadingProgress } from "../../client/reading-progress";
     initReadingControls();
     initVerseFitting();
+    initScanViewer();
+    initReadingProgress();
     initSyncedColumns();
   </script>
 </BaseLayout>

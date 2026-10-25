@@ -26,22 +26,16 @@ const { page } = Astro.props as Props;
   {
     page.imageOnly ? (
       <figure class="basta-reader-original-image">
-        <img
-          src={page.originalImage}
-          alt={`Original scan of Basta page ${page.page}`}
-          loading="lazy"
-          decoding="async"
-        />
+        <a class="scan-viewer-trigger" href={page.originalImage} aria-label={`Enlarge scan of Basta page ${page.page}`}>
+          <img src={page.originalImage} alt={`Original scan of Basta page ${page.page}`} loading="lazy" decoding="async" />
+        </a>
       </figure>
     ) : page.hasRoman ? (
       <div class="basta-reader-page-grid basta-reader-page-grid-with-roman">
         <figure class="basta-reader-original-image" data-synced-scroll-panel>
-          <img
-            src={page.originalImage}
-            alt={`Original scan of Basta page ${page.page}`}
-            loading="lazy"
-            decoding="async"
-          />
+          <a class="scan-viewer-trigger" href={page.originalImage} aria-label={`Enlarge scan of Basta page ${page.page}`}>
+            <img src={page.originalImage} alt={`Original scan of Basta page ${page.page}`} loading="lazy" decoding="async" />
+          </a>
         </figure>
         <BastaParallelText
           urduText={page.urduText}
@@ -54,7 +48,9 @@ const { page } = Astro.props as Props;
     ) : (
       <div class="basta-reader-page-grid">
         <figure class="basta-reader-original-image" data-reading-image-extra>
-          <img src={page.originalImage} alt={`Original scan of Basta page ${page.page}`} loading="lazy" decoding="async" />
+          <a class="scan-viewer-trigger" href={page.originalImage} aria-label={`Enlarge scan of Basta page ${page.page}`}>
+            <img src={page.originalImage} alt={`Original scan of Basta page ${page.page}`} loading="lazy" decoding="async" />
+          </a>
         </figure>
         <section class="basta-reader-column basta-reader-roman" lang="en" dir="ltr" aria-label={`Roman Urdu text of Basta page ${page.page}`}>
           <p class="basta-transliteration-missing">No transliteration available for this page.</p>
@@ -65,6 +61,7 @@ const { page } = Astro.props as Props;
       </div>
     )
   }
+  {!page.imageOnly && !page.hasRoman && <p class="basta-edition-unavailable" role="status">Roman Urdu is not available for this page; showing the original scan instead.</p>}
   <p class="basta-reader-page-number" dir="ltr">{page.page}</p>
   {page.showBreak && <hr class="basta-reader-page-break" aria-hidden="true" />}
 </section>

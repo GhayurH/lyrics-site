@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { pageAtReadingLine } from "../src/client/reading-position.ts";
+import { pageAtReadingLine, pageOffsetFraction } from "../src/client/reading-position.ts";
 
 test("exit follows the page actually being read, not a stale deep-link hash", () => {
   const pages = [
@@ -34,4 +34,10 @@ test("choose the most visible page if the reading line falls in a separator", ()
     { id: 202, top: 680, bottom: 1120 },
   ], 0, 900), 201);
   assert.equal(pageAtReadingLine([{ id: 1, top: 1200, bottom: 2000 }], 0, 900), undefined);
+});
+
+test("position within a page is bounded and device-independent", () => {
+  assert.equal(pageOffsetFraction(100, 1000, 350), 0.25);
+  assert.equal(pageOffsetFraction(200, 100, 0), 0);
+  assert.equal(pageOffsetFraction(100, 100, 900), 1);
 });

@@ -1,82 +1,131 @@
-// Fit poetry to a reading column without wrapping lines. Shared by Basta and standalone lyrics.
-const VERSE_SELECTOR = ".basta-verse-poetry, .lyric-verse";
-const TEXT_SELECTOR = ".basta-kalam-text, .lyric-reading-text";
-const MIN_URDU_PX = 17;
-const MIN_ROMAN_PX = 14;
+// File role: Keep every printed verse on one line without horizontal scrolling.
+// Verse size is automatic; no reader-facing text-size or wrap preference exists.
+import { fitLine } from "../lib/verse-fit";
 
-function fitVerseGroup(group: HTMLElement, context: CanvasRenderingContext2D): void {
-  group.style.removeProperty("font-size");
-  group.style.removeProperty("--verse-min-width");
+function readableWidth(verse: HTMLElement): number {
+  const style = getComputedStyle(verse);
+  return Math.max(0, verse.clientWidth
+    - (Number.parseFloat(style.paddingInlineStart) || 0)
+    - (Number.parseFloat(style.paddingInlineEnd) || 0));
+}
 
-  const verses = Array.from(group.querySelectorAll<HTMLElement>(VERSE_SELECTOR));
-  if (!verses.length || group.clientWidth <= 0 || group.getClientRects().length === 0) return;
+function naturalWidth(verse: HTMLElement, ctx: CanvasRenderingContext2D): number {
+  const style = getComputedStyle(verse);
+  ctx.font = `${style.fontStyle} ${style.fontWeight} ${style.fontSize} ${style.fontFamily}`;
+  return ctx.measureText(verse.textContent?.trim() ?? "").width;
+}
 
-  const computed = getComputedStyle(group);
-  const base = Number.parseFloat(computed.fontSize);
-  if (!Number.isFinite(base) || base <= 0) return;
-  context.font = `${computed.fontStyle} ${computed.fontWeight} ${base}px ${computed.fontFamily}`;
+/** Keep equal size within each couplet/stanza; other stanzas aren't penalized. */
+function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D): void {
+  for (const line of lines) line.style.removeProperty("font-size");
+  const metrics = lines.map((line) => {
+    const base = Number.parseFloat(getComputedStyle(line).fontSize);
+    const available = readableWidth(line);
+    return { line, base, available, natural: naturalWidth(line, ctx) };
+  }).filter(({ base, available }) => base > 0 && available > 0);
+  if (!metrics.length) return;
 
-  const width = group.clientWidth;
-  let minRatio = 1;
-  let maxVerseWidth = 0;
+  const ratio = Math.min(1, ...metrics.map(({ base, available, natural }) =>
+    natural > 0 ? fitLine(base, available, natural) / base : 1));
+  for (const { line, base } of metrics) {
+    if (ratio < 0.999) line.style.fontSize = `${(base * ratio).toFixed(3)}px`;
+  }
+
+  // Canvas and actual text shaping/justification can differ, especially for Nastaliq.
+  // Correct against measured rendered widths without introducing scrollbars or wrapping.
+  for (let attempt = 0; attempt < 5; attempt++) {
+    const excess = Math.max(1, ...metrics.map(({ line }) =>
+      line.clientWidth > 0 ? line.scrollWidth / line.clientWidth : 1));
+    if (excess <= 1.005) break;
+    const adjustment = 0.96 / excess;
+    for (const { line, base } of metrics) {
+      const current = Number.parseFloat(line.style.fontSize) || base;
+      line.style.fontSize = `${(current * adjustment).toFixed(3)}px`;
+    }
+  }
+}
+
+function fitStanza(stanza: HTMLElement, ctx: CanvasRenderingContext2D): void {
+  fitGroup(Array.from(stanza.querySelectorAll<HTMLElement>(".lyric-verse")), ctx);
+}
+
+function fitKalam(kalam: HTMLElement, ctx: CanvasRenderingContext2D): void {
+  const verses = Array.from(kalam.querySelectorAll<HTMLElement>(".basta-verse-poetry"));
+  const groups: HTMLElement[][] = [];
   for (const verse of verses) {
-    const value = verse.textContent?.trim();
-    if (!value) continue;
-    const styles = getComputedStyle(verse);
-    // Measure both logical edges: first and second lines use opposing insets.
-    const inset = (Number.parseFloat(styles.marginInlineStart) || 0)
-      + (Number.parseFloat(styles.marginInlineEnd) || 0)
-      + (Number.parseFloat(styles.paddingInlineStart) || 0)
-      + (Number.parseFloat(styles.paddingInlineEnd) || 0)
-      + (Number.parseFloat(styles.borderInlineStartWidth) || 0)
-      + (Number.parseFloat(styles.borderInlineEndWidth) || 0);
-    // Measure shaping with the browser's text engine; leave room for
-    // Nastaliq glyph variation and fractional pixel rounding.
-    const natural = context.measureText(value).width * 1.03;
-    if (natural <= 0) continue;
-    minRatio = Math.min(minRatio, Math.max(0, width - inset) / natural);
-    // Keep the non-scaling border and indentation outside font metrics.
-    maxVerseWidth = Math.max(maxVerseWidth, natural + inset);
+    if (!groups.length || verse.classList.contains("basta-couplet-separator")) groups.push([]);
+    groups[groups.length - 1].push(verse);
   }
-
-  const minimum = group.closest('[lang="ur"]') ? MIN_URDU_PX : MIN_ROMAN_PX;
-  const fitted = Math.min(base, Math.max(minimum, base * minRatio));
-  if (fitted < base - 0.1) group.style.fontSize = `${fitted.toFixed(2)}px`;
-
-  // If the minimum font is still too wide, preserve legibility and give
-  // the poem a scrollable common line measure instead of wrapping.
-  const required = maxVerseWidth * (fitted / base);
-  if (required > width) {
-    group.style.setProperty("--verse-min-width", `${Math.ceil(required)}px`);
-  }
+  for (const group of groups) fitGroup(group, ctx);
 }
 
 export function initVerseFitting(): void {
   const root = document.querySelector<HTMLElement>("[data-reading-root]");
   if (!root || root.dataset.verseFitReady === "true") return;
   root.dataset.verseFitReady = "true";
-
   const context = document.createElement("canvas").getContext("2d");
   if (!context) return;
+
   let pending = false;
+  const fitVisible = () => {
+    pending = false;
+    for (const group of root.querySelectorAll<HTMLElement>(".lyric-stanza, .basta-kalam-text")) {
+      const page = group.closest<HTMLElement>("[data-basta-page]");
+      if (page) {
+        const rect = page.getBoundingClientRect();
+        if (rect.bottom < -800 || rect.top > innerHeight + 800) continue;
+      }
+      if (group.classList.contains("lyric-stanza")) fitStanza(group, context);
+      else fitKalam(group, context);
+    }
+  };
   const schedule = () => {
     if (pending) return;
     pending = true;
-    requestAnimationFrame(() => {
-      pending = false;
-      root.querySelectorAll<HTMLElement>(TEXT_SELECTOR).forEach((group) => fitVerseGroup(group, context));
-    });
+    requestAnimationFrame(fitVisible);
   };
 
-  // Font preferences change the root attributes, while streaming readers
-  // insert pages in chunks. Resizing or font downloads can change widths.
-  const observer = new MutationObserver(schedule);
-  observer.observe(root, { attributes: true, attributeFilter: ["data-reading-mode", "data-reading-columns", "data-font-size"] });
+  new MutationObserver(schedule).observe(root, {
+    attributes: true, attributeFilter: ["data-reading-mode", "data-reading-columns", "data-line-spacing"],
+  });
   window.addEventListener("resize", schedule, { passive: true });
   window.addEventListener("basta:content-loaded", schedule);
   window.addEventListener("kalam:columns-changed", schedule);
   document.fonts.ready.then(schedule);
   document.fonts.addEventListener?.("loadingdone", schedule);
+
+  // Only width changes matter; fitting itself may legitimately change block heights.
+  if ("ResizeObserver" in window) {
+    const widths = new WeakMap<Element, number>();
+    const ro = new ResizeObserver((entries) => {
+      let changed = false;
+      for (const entry of entries) {
+        const width = entry.contentRect.width;
+        if (widths.get(entry.target) !== width) {
+          widths.set(entry.target, width);
+          changed = true;
+        }
+      }
+      if (changed) schedule();
+    });
+    ro.observe(root);
+    root.querySelectorAll<HTMLElement>(".lyric-reading-panel,.basta-page-urdu,.basta-page-roman,.basta-reader-urdu,.basta-reader-roman").forEach((panel) => ro.observe(panel));
+    window.addEventListener("basta:content-loaded", () => {
+      root.querySelectorAll<HTMLElement>(".basta-reader-urdu,.basta-reader-roman").forEach((panel) => ro.observe(panel));
+    });
+  }
+
+  const intersection = "IntersectionObserver" in window
+    ? new IntersectionObserver(schedule, { rootMargin: "800px 0px" }) : null;
+  const seen = new WeakSet<HTMLElement>();
+  const observePages = () => {
+    if (!intersection) return;
+    root.querySelectorAll<HTMLElement>("[data-basta-page]").forEach((node) => {
+      if (!seen.has(node)) { seen.add(node); intersection.observe(node); }
+    });
+  };
+  window.addEventListener("basta:content-loaded", observePages);
+  observePages();
+  if (!intersection) root.addEventListener("scroll", schedule, { passive: true });
   schedule();
 }
-

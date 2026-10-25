@@ -34,7 +34,7 @@ const aboutActive = path.startsWith("/about/");
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#000000" />
+    <meta name="theme-color" content="#171719" />
     <link rel="canonical" href={canonicalURL} />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
@@ -50,8 +50,10 @@ const aboutActive = path.startsWith("/about/");
           const savedTheme = localStorage.getItem("theme");
           if (savedTheme === "light" || savedTheme === "dark") theme = savedTheme;
         } catch {}
+        document.documentElement.dataset.jsAvailable = "true";
         document.documentElement.dataset.theme = theme;
         document.documentElement.dataset.pfTheme = theme;
+        document.querySelector('meta[name="theme-color"]')?.setAttribute("content", theme === "light" ? "#f7f7f8" : "#171719");
       })();
     </script>
   </head>
@@ -64,7 +66,20 @@ const aboutActive = path.startsWith("/about/");
         <a class="site-title" href="/">Kalam Archive</a>
 
         <div class="header-actions">
-          <nav aria-label="Main navigation">
+          <button
+            id="mobile-nav-toggle"
+            class="mobile-nav-toggle"
+            type="button"
+            aria-controls="site-navigation"
+            aria-expanded="false"
+            aria-label="Open navigation"
+            title="Open navigation"
+          >
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+              <path d="M4 7h16M4 12h16M4 17h16" />
+            </svg>
+          </button>
+          <nav id="site-navigation" aria-label="Main navigation">
             <a href="/" aria-current={browseActive ? "page" : undefined}>Browse</a>
             <a href="/basta/" aria-current={bastaActive ? "page" : undefined}>Basta</a>
             <a href="/search/" aria-current={searchActive ? "page" : undefined}>Search</a>
@@ -76,10 +91,18 @@ const aboutActive = path.startsWith("/about/");
             id="theme-toggle"
             class="theme-toggle"
             type="button"
-            aria-label="Switch colour theme"
+            aria-label="Switch to light mode"
             aria-pressed="true"
+            title="Switch to light mode"
           >
-            Light mode
+            <svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="4" />
+              <path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42" />
+            </svg>
+            <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+              <path d="M20.98 13.1A9 9 0 0 1 10.9 3.02 9 9 0 1 0 20.98 13.1Z" />
+            </svg>
+            <span class="visually-hidden" data-theme-toggle-label>Light mode</span>
           </button>
         </div>
       </div>

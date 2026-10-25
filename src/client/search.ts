@@ -119,15 +119,30 @@ function renderFilterChips(filters: SearchFilters): void {
 }
 
 async function getPagefindInstance(): Promise<PagefindInstance> {
-  await customElements.whenDefined("pagefind-input");
-  while (!window.PagefindComponents?.getInstanceManager) {
-    await new Promise((resolve) => setTimeout(resolve, 0));
+  const deadline = performance.now() + 10000;
+  while (!customElements.get("pagefind-input") || !window.PagefindComponents?.getInstanceManager) {
+    if (performance.now() >= deadline) throw new Error("Search assets did not load.");
+    await new Promise((resolve) => setTimeout(resolve, 50));
   }
   return window.PagefindComponents.getInstanceManager().getInstance("default");
 }
 
 export async function initSearchPage(): Promise<void> {
-  const instance = await getPagefindInstance();
+  // The UI component may fail to load because of a blocked asset or network error.
+  // Fail visibly rather than leaving a perpetual loading/empty search page.
+  let instance: PagefindInstance;
+  try {
+    instance = await getPagefindInstance();
+    await instance.triggerLoad();
+  } catch (error) {
+    console.error("Unable to initialize search:", error);
+    const message = document.querySelector<HTMLElement>("#search-load-error");
+    if (message) message.hidden = false;
+    const clear = document.querySelector<HTMLButtonElement>("#clear-search-state");
+    if (clear) clear.disabled = true;
+    return;
+  }
+
   const initial = readUrlState();
   let currentTerm = initial.term;
   let currentFilters = initial.filters;
@@ -166,7 +181,6 @@ export async function initSearchPage(): Promise<void> {
       instance.triggerSearchWithFilters(currentTerm, next);
     });
 
-  await instance.triggerLoad();
   renderFilterChips(initial.filters);
   instance.triggerSearchWithFilters(initial.term, initial.filters);
 }

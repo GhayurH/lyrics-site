@@ -1,4 +1,4 @@
-// File role: Shared browser controller for independent edition visibility, typography, and reading preferences.
+// File role: Shared browser controller for edition visibility and line-spacing preferences.
 import {
   STORAGE_KEYS,
   readRecord,
@@ -8,12 +8,10 @@ import {
 import { initReadingFocus } from "./reading-focus";
 
 import { isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
-const VALID_FONT_SIZES = new Set(["small", "default", "large", "xlarge"]);
 const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
 
 interface ReadingPrefs extends Record<string, unknown> {
   columnsByReader: Record<string, Edition[]>;
-  fontSize: string;
   spacing: string;
 }
 
@@ -23,6 +21,7 @@ export function initReadingControls(): void {
   const controls = document.querySelector<HTMLElement>("[data-reading-controls]");
   if (!root || !controls || controls.dataset.readingReady === "true") return;
   controls.dataset.readingReady = "true";
+  document.documentElement.dataset.readerEnhanced = "true";
 
   const kind = root.dataset.readerKind ?? "index";
   const imageOnly = root.dataset.imageOnly === "true";
@@ -38,26 +37,38 @@ export function initReadingControls(): void {
 
   const prefs: ReadingPrefs = {
     columnsByReader,
-    fontSize:
-      typeof saved.fontSize === "string" && VALID_FONT_SIZES.has(saved.fontSize)
-        ? saved.fontSize : "default",
     spacing:
       typeof saved.spacing === "string" && VALID_SPACINGS.has(saved.spacing)
         ? saved.spacing : "default",
   };
 
   let selected = selectedEditions(prefs.columnsByReader[kind], available, imageOnly);
-  const fontSelect = controls.querySelector<HTMLSelectElement>("[data-reading-font-size]");
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");
+  const regularToggle = controls.querySelector<HTMLButtonElement>("[data-reading-regular-toggle]");
+  const regularIndicator = regularToggle?.querySelector<HTMLElement>("[data-reading-regular-indicator]");
+  const setRegularOptionsOpen = (open: boolean) => {
+    controls.dataset.regularOptionsOpen = String(open);
+    regularToggle?.setAttribute("aria-expanded", String(open));
+    regularToggle?.setAttribute("aria-label", open ? "Hide reading options" : "Show reading options");
+    if (regularIndicator) regularIndicator.textContent = open ? "▴" : "▾";
+  };
+  regularToggle?.addEventListener("click", () =>
+    setRegularOptionsOpen(controls.dataset.regularOptionsOpen !== "true"));
+  controls.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && controls.dataset.regularOptionsOpen === "true"
+        && document.documentElement.dataset.readingFocus !== "true") {
+      setRegularOptionsOpen(false);
+      regularToggle?.focus();
+    }
+  });
+  setRegularOptionsOpen(false);
 
   const applyPrefs = () => {
     // Legacy mode is retained for the original typographic/layout rules.
     root.dataset.readingMode = readingModeFromEditions(selected);
     root.dataset.readingColumns = selected.join(" ");
-    root.dataset.fontSize = prefs.fontSize;
     root.dataset.lineSpacing = prefs.spacing;
     for (const input of checks) input.checked = selected.includes(input.value as Edition);
-    if (fontSelect) fontSelect.value = prefs.fontSize;
     if (spacingSelect) spacingSelect.value = prefs.spacing;
     window.dispatchEvent(new Event("kalam:columns-changed"));
   };
@@ -75,12 +86,6 @@ export function initReadingControls(): void {
       applyPrefs();
     });
   }
-  fontSelect?.addEventListener("change", () => {
-    if (!VALID_FONT_SIZES.has(fontSelect.value)) return;
-    prefs.fontSize = fontSelect.value;
-    storePrefs();
-    applyPrefs();
-  });
   spacingSelect?.addEventListener("change", () => {
     if (!VALID_SPACINGS.has(spacingSelect.value)) return;
     prefs.spacing = spacingSelect.value;

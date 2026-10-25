@@ -133,6 +133,20 @@ for (const entry of entries) {
                     </tbody>
                   </table>
                 </div>
+                <div class="basta-index-mobile-list" role="list" data-pagefind-ignore>
+                  {sectionEntries.map((entry) => {
+                    const name = roman ? (entry.romanName?.trim() || entry.name) : entry.name;
+                    const haal = roman ? (entry.romanHaal?.trim() || entry.haal || "") : (entry.haal ?? "");
+                    const href = linkMode === "continuous" ? `#page-${entry.page}` : `/basta/${entry.page}/`;
+                    return (
+                      <div role="listitem" class="basta-index-mobile-item">
+                        <a class="basta-index-mobile-title" href={href}>{name || "—"}</a>
+                        <a class="basta-index-mobile-page" href={href} aria-label={`Open page ${entry.page}`}>{roman ? "Page" : "صفحہ"} {entry.page}</a>
+                        {haal && <span class="basta-index-mobile-haal">{haal}</span>}
+                      </div>
+                    );
+                  })}
+                </div>
               </section>
             );
           })

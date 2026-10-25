@@ -7,6 +7,7 @@ import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
 import { loadBastaReaderDataset } from "../../lib/basta-reader-data";
 import indexEntries from "../../data/basta/index.json";
+import settings from "../../data/basta/settings.json";
 import "../../styles/basta.css";
 import "../../styles/basta-reader.css";
 
@@ -14,6 +15,7 @@ import "../../styles/basta-reader.css";
 const entries = indexEntries as BastaIndexEntry[];
 const { beforeChunks, afterChunks } = await loadBastaReaderDataset();
 const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
+const availablePages = [...beforeChunks, ...afterChunks].flatMap((chunk) => chunk.pages.map((page) => page.page));
 ---
 
 <BaseLayout
@@ -40,6 +42,9 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
       modeGroupLabel="Basta view"
       hasImage
       pageJump
+      availablePages={availablePages}
+      indexStartPage={settings.indexStartPage}
+      indexEndPage={settings.indexEndPage}
     />
 
     <div
@@ -50,7 +55,7 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
       data-reader-kind="basta-continuous"
       data-has-roman="true"
       data-reading-mode="parallel"
-      data-font-size="default"
+      data-reading-columns="urdu roman"
       data-line-spacing="default"
       data-pagefind-ignore
     >
@@ -114,10 +119,14 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
     import { initReadingControls } from "../../client/reader-state";
     import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
+    import { initScanViewer } from "../../client/scan-viewer";
+    import { initReadingProgress } from "../../client/reading-progress";
     import { initBastaStreamingReader } from "../../client/basta-stream";
     initReadingControls();
     initBastaStreamingReader();
     initVerseFitting();
+    initScanViewer();
+    initReadingProgress();
     initSyncedColumns();
   </script>
 </BaseLayout>
