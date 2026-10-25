@@ -25,7 +25,7 @@ function renderKalamBreak(): HTMLElement {
 
 function appendBastaVerses(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
   for (const line of layoutBastaKalam(value, indentStanzas, stanzaStyle)) {
-    const verse = element("span", line.indent ? "basta-verse-line basta-verse-indent" : "basta-verse-line");
+    const verse = element("span", ["basta-verse-line", line.indent && "basta-verse-indent", line.verse && "basta-verse-poetry"].filter(Boolean).join(" "));
     verse.textContent = line.text;
     container.append(verse);
   }
@@ -165,6 +165,7 @@ async function loadChunk(shell: HTMLElement): Promise<void> {
     if (!validChunk(data)) throw new Error("Invalid Basta chunk response");
 
     shell.replaceChildren(...data.pages.map(renderPage));
+    window.dispatchEvent(new Event("basta:content-loaded"));
     shell.dataset.chunkLoaded = "true";
     delete shell.dataset.chunkLoading;
     shell.removeAttribute("aria-busy");

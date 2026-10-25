@@ -72,7 +72,7 @@ const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reade
           >
             <div class={romanTextClass}>
               {layoutBastaKalam(row.roman, true, stanzaStyle).map((line) => (
-                <span class:list={["basta-verse-line", line.indent && "basta-verse-indent"]}>{line.text}</span>
+                <span class:list={["basta-verse-line", line.indent && "basta-verse-indent", line.verse && "basta-verse-poetry"]}>{line.text}</span>
               ))}
             </div>
           </section>
@@ -85,7 +85,7 @@ const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reade
           >
             <div class={urduTextClass}>
               {layoutBastaKalam(row.urdu, true, stanzaStyle).map((line) => (
-                <span class:list={["basta-verse-line", line.indent && "basta-verse-indent"]}>{line.text}</span>
+                <span class:list={["basta-verse-line", line.indent && "basta-verse-indent", line.verse && "basta-verse-poetry"]}>{line.text}</span>
               ))}
             </div>
           </section>

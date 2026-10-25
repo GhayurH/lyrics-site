@@ -95,3 +95,23 @@ test("four-line stanza breaks remain unindented even in the Salam section", () =
     false, false, false, false,
   ]);
 });
+
+test("justifies poetry but excludes repeated titles, poets and credits", () => {
+  const result = layoutBastaKalam(
+    ["پہلا مصرع", "شاعر", "", "پہلا مصرع", "دوسرا مصرع", "تیسرا مصرع",
+      "چوتھا مصرع", "(بشکریہ خواں)"].join("\n"), true, "couplet"
+  );
+  assert.deepEqual(result.map((line) => line.verse), [
+    false, false, false, true, true, true, true, false
+  ]);
+});
+
+test("unformatted prose never gains the poetry-justification flag", () => {
+  assert.deepEqual(layoutBastaKalam("Prose heading\nProse paragraph", false).map((line) => line.verse), [false, false]);
+});
+
+test("a page-end fifth line does not prevent fitting the first two couplets", () => {
+  const result = layoutBastaKalam("a\nb\nc\nd\ne", true, "couplet");
+  assert.deepEqual(result.map((line) => line.indent), [false, true, false, true, false]);
+  assert.ok(result.every((line) => line.verse));
+});

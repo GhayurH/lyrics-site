@@ -31,6 +31,8 @@ export type BastaStanzaStyle = "auto" | "couplet";
 export interface BastaDisplayLine {
   text: string;
   indent: boolean;
+  /** Only poem lines are justified, never titles, bylines or source notes. */
+  verse: boolean;
 }
 
 function isStanzaNumber(line: string): boolean {
@@ -59,7 +61,7 @@ export function layoutBastaKalam(
   style: BastaStanzaStyle = "auto",
 ): BastaDisplayLine[] {
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
-  const display = lines.map((line) => ({ text: line, indent: false }));
+  const display = lines.map((line) => ({ text: line, indent: false, verse: false }));
   if (!indentStanzas) return display;
 
   const blocks: Array<{ start: number; end: number }> = [];
@@ -83,8 +85,13 @@ export function layoutBastaKalam(
     if (isStanzaNumber(lines[first])) first++;
     while (last > first && isCreditLine(lines[last - 1])) last--;
     const count = last - first;
+    if (count >= 2) {
+      for (let verse = first; verse < last; verse++) {
+        if (!/^[\[(（]/.test(lines[verse].trim())) display[verse].verse = true;
+      }
+    }
 
-    if (style === "couplet" && count >= 6 && count % 2 === 0) {
+    if (style === "couplet" && count >= 5) {
       // Two-line stanzas may be transcribed as one continuous paragraph.
       // Preserve explicit four-line stanza blocks as originally printed.
       for (let offset = 1; offset < count; offset += 2) {

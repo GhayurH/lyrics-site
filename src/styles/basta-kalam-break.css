@@ -12,6 +12,12 @@
 .basta-kalam-text {
   white-space: normal;
   overflow-wrap: anywhere;
+  min-width: 0;
+  max-width: 100%;
+  /* Without JavaScript long verse lines remain intact and scrollable. */
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scrollbar-width: thin;
 }
 
 /* More specific than the language/page typography rules, which otherwise
@@ -29,6 +35,15 @@
   display: block;
   white-space: pre-wrap;
   unicode-bidi: plaintext;
+}
+
+.basta-verse-poetry {
+  white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: normal;
+  text-align: justify;
+  text-align-last: justify;
+  min-inline-size: var(--basta-verse-min-width, 0px);
 }
 
 .basta-verse-line:empty::before {
