@@ -1,34 +1,34 @@
 ---
 // File role: Shared Basta single-language text renderer: turns explicit between-kalam markers into clean visual dividers while preserving stanza whitespace.
-import { splitBastaKalams, splitBastaRefrain } from "../lib/basta-text";
+import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
 import "../styles/basta-kalam-break.css";
 
 interface Props {
   text: string;
   className: string;
+  indentStanzas?: boolean;
+  stanzaStyle?: BastaStanzaStyle;
 }
 
-const { text, className } = Astro.props as Props;
+const { text, className, indentStanzas = true, stanzaStyle = "auto" } = Astro.props as Props;
 const kalams = splitBastaKalams(text);
 ---
 
 <div class={className}>
   {
-    kalams.map((kalam, index) => {
-      const { body, refrain } = splitBastaRefrain(kalam);
-      return (
-        <>
-          {index > 0 && (
-            <div class="basta-kalam-break" role="separator" aria-label="Kalam separator">
-              <span aria-hidden="true">✦</span>
-            </div>
-          )}
-          <div class="basta-kalam-text">
-            {body}
-            {refrain && <span class="basta-refrain">{refrain}</span>}
+    kalams.map((kalam, index) => (
+      <>
+        {index > 0 && (
+          <div class="basta-kalam-break" role="separator" aria-label="Kalam separator">
+            <span aria-hidden="true">✦</span>
           </div>
-        </>
-      );
-    })
+        )}
+        <div class="basta-kalam-text">
+          {layoutBastaKalam(kalam, indentStanzas, stanzaStyle).filter((line) => !line.hidden).map((line) => (
+            <span class={bastaVerseClassNames(line)}>{line.text}</span>
+          ))}
+        </div>
+      </>
+    ))
   }
 </div>

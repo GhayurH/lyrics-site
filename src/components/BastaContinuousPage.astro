@@ -3,6 +3,7 @@
 import type { BastaReaderPageData } from "../lib/basta";
 import BastaParallelText from "./BastaParallelText.astro";
 import BastaText from "./BastaText.astro";
+import settings from "../data/basta/settings.json";
 
 interface Props {
   page: BastaReaderPageData;
@@ -35,6 +36,7 @@ const { page } = Astro.props as Props;
         urduText={page.urduText}
         romanText={page.romanText}
         variant="reader"
+        stanzaStyle={page.stanzaStyle}
         page={page.page}
       />
     ) : (
@@ -43,7 +45,7 @@ const { page } = Astro.props as Props;
           <p class="basta-transliteration-missing">No transliteration available for this page.</p>
         </section>
         <section class="basta-reader-column basta-reader-urdu" lang="ur" dir="rtl" aria-label={`Urdu text of Basta page ${page.page}`}>
-          <BastaText text={page.urduText} className="basta-reader-text" />
+          <BastaText text={page.urduText} className="basta-reader-text" indentStanzas={page.page >= settings.romanLyricsStartPage} stanzaStyle={page.stanzaStyle} />
         </section>
       </div>
     )

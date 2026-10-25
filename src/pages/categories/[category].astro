@@ -1,40 +1,52 @@
 ---
-// File role: Kalam Type archive route: builds one static browse page per canonical type and renders its published lyrics using the shared card system.
+// File role: Kalam Type browse route: combines published standalone lyrics with read-only Basta index entries.
 import type { CollectionEntry } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import LyricList from "../../components/LyricList.astro";
-import {
-  slugifyKalamType,
-} from "../../lib/lyrics";
+import type { BastaCategoryEntry } from "../../lib/basta-categories";
+import { groupBastaIndexByKalamType } from "../../lib/basta-categories";
+import { loadBastaNavigationData } from "../../lib/basta-pages";
+import { slugifyKalamType } from "../../lib/lyrics";
 import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-data";
 
 export async function getStaticPaths() {
-  const grouped = groupLyricsByKalamType(await loadPublishedLyrics());
-  return [...grouped.entries()].map(([kalamType, lyrics]) => ({
+  const standalone = groupLyricsByKalamType(await loadPublishedLyrics());
+  const { availablePages } = await loadBastaNavigationData();
+  const basta = groupBastaIndexByKalamType(new Set(availablePages));
+
+  const types = new Set([...standalone.keys(), ...basta.keys()]);
+  return [...types].map((kalamType) => ({
     params: { category: slugifyKalamType(kalamType) },
-    props: { kalamType, lyrics },
+    props: {
+      kalamType,
+      lyrics: standalone.get(kalamType) ?? [],
+      bastaEntries: basta.get(kalamType) ?? [],
+    },
   }));
 }
 
 interface Props {
   kalamType: string;
   lyrics: CollectionEntry<"lyrics">[];
+  bastaEntries: BastaCategoryEntry[];
 }
 
-const { kalamType, lyrics } = Astro.props as Props;
+const { kalamType, lyrics, bastaEntries } = Astro.props as Props;
+const count = lyrics.length + bastaEntries.length;
 ---
 
 <BaseLayout
   title={`${kalamType} | Kalam Archive`}
-  description={`Browse ${kalamType} in the Kalam Archive.`}
+  description={`Browse ${kalamType} in the Kalam Archive, including Basta.`}
 >
   <section class="category-page">
     <header class="page-header-simple">
       <a class="back-link" href="/">← All Kalam Types</a>
       <p class="eyebrow">Kalam Type</p>
       <h1>{kalamType}</h1>
-      <p>{lyrics.length} {lyrics.length === 1 ? "entry" : "entries"}</p>
+      <p>{count} {count === 1 ? "entry" : "entries"}</p>
     </header>
-    <LyricList lyrics={lyrics} />
+
+    <LyricList lyrics={lyrics} bastaEntries={bastaEntries} />
   </section>
 </BaseLayout>
