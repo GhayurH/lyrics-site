@@ -120,7 +120,29 @@ html[data-reading-focus="true"] .lyric-reading-panel {
   border: 0;
   padding: clamp(0.4rem, 1.6vw, 1.3rem);
 }
-html[data-reading-focus="true"] .lyric-version-heading,
+/* Lyric titles are part of the poem, unlike the surrounding metadata.
+   Keep one appropriate title inside each selected language panel. */
+.lyric-focus-title { display: none; }
+html[data-reading-focus="true"] .lyric-version-heading {
+  display: block;
+  margin-bottom: 0.65rem;
+  border: 0;
+  padding: 0;
+  color: var(--primary-text);
+  letter-spacing: 0;
+  text-transform: none;
+}
+html[data-reading-focus="true"] .lyric-language-label { display: none; }
+html[data-reading-focus="true"] .lyric-focus-title {
+  display: block;
+  font-size: clamp(1.25rem, 3vw, 1.85rem);
+  font-weight: 750;
+  line-height: 2;
+  text-decoration: underline;
+  text-decoration-thickness: from-font;
+  text-underline-offset: 0.16em;
+}
+html[data-reading-focus="true"] .lyric-focus-title[dir="ltr"] { line-height: 1.6; }
 html[data-reading-focus="true"] .basta-page-text-heading,
 html[data-reading-focus="true"] .basta-original-page figcaption { display: none; }
 
