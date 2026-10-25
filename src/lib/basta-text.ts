@@ -83,10 +83,38 @@ export function layoutBastaKalam(
     blocks.push({ start, end: pos });
   }
 
-  const hasHeading = hasIntroductoryBlock(lines, blocks);
+  // Some pages start with a section heading before the normal
+  // title/byline block. Both are prefaces, not the poem's first couplet.
+  const prefaceBlocks = new Set<number>();
+  if (hasIntroductoryBlock(lines, blocks)) prefaceBlocks.add(0);
+  for (let index = 0; index + 1 < blocks.length; index++) {
+    const block = blocks[index];
+    if (
+      block.end - block.start === 2 &&
+      !isStanzaNumber(lines[block.start]) &&
+      lines[block.start].trim() === lines[blocks[index + 1].start].trim()
+    ) {
+      prefaceBlocks.add(index);
+    }
+  }
+
+  // Unnumbered poems often print many two-verse stanzas as one unbroken
+  // block. Eight or more consecutive verses distinguish them from the
+  // usual six-verse stanza, whose closing pair has its own printed rules.
+  // Decide once per kalam so its shorter final couplet follows suit.
+  const inferredCouplets =
+    style === "auto" &&
+    !blocks.some((block) => isStanzaNumber(lines[block.start])) &&
+    blocks.some((block, index) =>
+      !prefaceBlocks.has(index) &&
+      block.end - block.start >= 8 &&
+      (block.end - block.start) % 2 === 0,
+    );
+  const usesCouplets = style === "couplet" || inferredCouplets;
+
   let previousVerseCount = 0;
   for (let index = 0; index < blocks.length; index++) {
-    if (index === 0 && hasHeading) continue;
+    if (prefaceBlocks.has(index)) continue;
     const block = blocks[index];
     let first = block.start;
     let last = block.end;
@@ -99,7 +127,7 @@ export function layoutBastaKalam(
       }
     }
 
-    if (style === "couplet" && count >= 5) {
+    if (usesCouplets && count >= 5) {
       // Two-line stanzas may be transcribed as one continuous paragraph.
       // Preserve explicit four-line stanza blocks as originally printed.
       for (let offset = 1; offset < count; offset += 2) {
@@ -113,7 +141,7 @@ export function layoutBastaKalam(
       display[last - 1].sixClosingEnd = true;
     } else if (count === 2) {
       // A source blank may divide a 6-line stanza into 4 + 2.
-      const closesSixLineStanza = previousVerseCount === 4 && style !== "couplet";
+      const closesSixLineStanza = previousVerseCount === 4 && !usesCouplets;
       if (closesSixLineStanza) {
         display[first].sixClosing = true;
         display[first].sixClosingStart = true;
