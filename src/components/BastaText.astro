@@ -1,6 +1,6 @@
 ---
 // File role: Shared Basta single-language text renderer: turns explicit between-kalam markers into clean visual dividers while preserving stanza whitespace.
-import { layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
+import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
 import "../styles/basta-kalam-break.css";
 
 interface Props {
@@ -24,8 +24,8 @@ const kalams = splitBastaKalams(text);
           </div>
         )}
         <div class="basta-kalam-text">
-          {layoutBastaKalam(kalam, indentStanzas, stanzaStyle).map((line) => (
-            <span class:list={["basta-verse-line", line.indent && "basta-verse-indent", line.verse && "basta-verse-poetry"]}>{line.text}</span>
+          {layoutBastaKalam(kalam, indentStanzas, stanzaStyle).filter((line) => !line.hidden).map((line) => (
+            <span class={bastaVerseClassNames(line)}>{line.text}</span>
           ))}
         </div>
       </>

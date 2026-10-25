@@ -1,6 +1,6 @@
 ---
 // File role: Shared bilingual Basta renderer: pairs corresponding Roman/Urdu kalams into common rows so separators and vertical rhythm stay aligned.
-import { layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
+import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
 import "../styles/basta-kalam-break.css";
 
 interface Props {
@@ -71,8 +71,8 @@ const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reade
             aria-label={`Roman Urdu kalam ${index + 1} of Basta page ${page}`}
           >
             <div class={romanTextClass}>
-              {layoutBastaKalam(row.roman, true, stanzaStyle).map((line) => (
-                <span class:list={["basta-verse-line", line.indent && "basta-verse-indent", line.verse && "basta-verse-poetry"]}>{line.text}</span>
+              {layoutBastaKalam(row.roman, true, stanzaStyle).filter((line) => !line.hidden).map((line) => (
+                <span class={bastaVerseClassNames(line)}>{line.text}</span>
               ))}
             </div>
           </section>
@@ -84,8 +84,8 @@ const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reade
             aria-label={`Urdu kalam ${index + 1} of Basta page ${page}`}
           >
             <div class={urduTextClass}>
-              {layoutBastaKalam(row.urdu, true, stanzaStyle).map((line) => (
-                <span class:list={["basta-verse-line", line.indent && "basta-verse-indent", line.verse && "basta-verse-poetry"]}>{line.text}</span>
+              {layoutBastaKalam(row.urdu, true, stanzaStyle).filter((line) => !line.hidden).map((line) => (
+                <span class={bastaVerseClassNames(line)}>{line.text}</span>
               ))}
             </div>
           </section>

@@ -9,7 +9,7 @@ import { loadBastaReaderDataset } from "../../lib/basta-reader-data";
 import indexEntries from "../../data/basta/index.json";
 import "../../styles/basta.css";
 import "../../styles/basta-reader.css";
-import "../../styles/basta-stream.css";
+
 
 const entries = indexEntries as BastaIndexEntry[];
 const { beforeChunks, afterChunks } = await loadBastaReaderDataset();
@@ -109,10 +109,10 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
 
   <script>
     import { initReadingControls } from "../../client/reader-state";
-    import { initBastaVerseFitting } from "../../client/basta-verse-fitting";
+    import { initVerseFitting } from "../../client/verse-fitting";
     import { initBastaStreamingReader } from "../../client/basta-stream";
     initReadingControls();
     initBastaStreamingReader();
-    initBastaVerseFitting();
+    initVerseFitting();
   </script>
 </BaseLayout>

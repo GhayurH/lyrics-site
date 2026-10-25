@@ -6,6 +6,7 @@ import {
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
+import LyricVerses from "../../components/LyricVerses.astro";
 import FavoriteButton from "../../components/FavoriteButton.astro";
 import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-data";
 import "../../styles/lyrics.css";
@@ -248,9 +249,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         aria-label={`${data.language} lyrics`}
       >
         <h2 class="lyric-version-heading">{data.language}</h2>
-        <div class="lyrics-text" dir={data.direction} lang={data.lang}>
-          {lyric.body ?? ""}
-        </div>
+        <LyricVerses text={lyric.body ?? ""} className="lyrics-text" />
       </section>
 
       {
@@ -262,7 +261,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
             aria-label="Roman Urdu lyrics"
           >
             <h2 class="lyric-version-heading">Roman Urdu</h2>
-            <div class="roman-lyrics-text">{data.romanLyrics}</div>
+            <LyricVerses text={data.romanLyrics} className="roman-lyrics-text" />
           </section>
         )
       }
@@ -330,11 +329,13 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       initReadingControls,
       recordRecentLyric,
     } from "../../client/reader-state";
+    import { initVerseFitting } from "../../client/verse-fitting";
 
     const lyricPage = document.querySelector<HTMLElement>("[data-lyric-id]");
     if (lyricPage?.dataset.lyricId) {
       recordRecentLyric(lyricPage.dataset.lyricId);
     }
     initReadingControls();
+    initVerseFitting();
   </script>
 </BaseLayout>
