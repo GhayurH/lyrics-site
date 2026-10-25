@@ -121,7 +121,6 @@
   .basta-reader-flow[data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-parallel-kalams-reader > .basta-reader-roman {
     grid-area: 2 / 1 !important;
   }
-  .basta-reader-flow[data-reading-columns~="image"] .basta-reader-page-grid-with-roman { grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important; }
   .basta-reader-flow .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "scan" "urdu"; grid-template-columns: minmax(0,1fr); }
   .basta-reader-flow:not([data-reading-columns~="image"]) .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "urdu"; }
   .basta-parallel-index-section { grid-template-areas: "urdu-heading" "urdu-table" "roman-heading" "roman-table"; grid-template-columns: minmax(0,1fr); }
@@ -192,7 +191,6 @@ html[data-reading-toc-open="true"] .reading-contents-button { background: var(--
 @media (max-width: 700px) {
   .reading-controls { justify-items: center; }
   .reading-view-control { justify-self: stretch; }
-  .reading-column-choices { width: 100%; }
   .reading-column-choice { flex: 1; justify-content: center; }
   .reading-page-jump { grid-column: 1 / -1; }
 }

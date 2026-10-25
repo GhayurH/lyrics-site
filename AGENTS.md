@@ -17,7 +17,7 @@ This file is the short operational contract for coding agents. Human-facing setu
 - `src/components/`: reusable presentation with minimal behavior.
 - `src/pages/`: route composition, not duplicated domain logic.
 
-Prefer extending an existing shared helper/component over copying logic into another route. Keep `File role:` comments on substantive source/style/config scripts, but comment decisions and boundaries rather than obvious syntax.
+Prefer extending an existing shared helper/component over copying logic into another route. Keep `File role:` comments on substantive source/style/config scripts, but comment decisions and boundaries rather than obvious syntax. Remove obsolete TODO/WIP notes after the work is complete; do not delete explanations of intentional specificity or compatibility fallbacks.
 
 ## Reader/search rules
 
@@ -26,7 +26,7 @@ Prefer extending an existing shared helper/component over copying logic into ano
 - Both static and streamed Basta markup must preserve title, poet-credit, and kalam-boundary semantics. The shared Basta rules live in `src/styles/basta.css`.
 - The continuous Basta reader is chunked; do not regress it to shipping the entire book HTML on first load.
 - The page-by-page Basta reader is the static/non-JavaScript fallback and must remain usable. Render the initial `data-reading-columns` on every reading root, and avoid unresponsive controls with JavaScript disabled.
-- All reader layouts are container-width-driven in `src/styles/reading-columns.css`. Do not restore route-specific portrait/landscape layout overrides.
+- Reader grids are centrally owned by `src/styles/reading-columns.css`. Preserve the narrow-container stacking and the deliberate mobile-portrait, full-width page-by-page Basta exception; do not add competing route-local grid overrides.
 - Scans must remain native links and also work with `src/client/scan-viewer.ts`. Maintain static/streamed markup parity.
 - Persisted progress/resume data remains browser-local; never add server tracking for it.
 - Pagefind assets belong on the Search route only.

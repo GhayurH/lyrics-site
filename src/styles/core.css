@@ -62,7 +62,7 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
 .site-title { font-size: 1.2rem; font-weight: 700; text-decoration: none; }
 .header-actions { display: flex; align-items: center; gap: 1.25rem; }
 .site-header nav { display: flex; gap: 1rem; }
-.site-header nav a { border-radius: 0.4rem; padding: 0.3rem 0.45rem; text-decoration: none; }
+.site-header nav a { display: inline-flex; align-items: center; min-height: 2.75rem; border-radius: 0.4rem; padding: 0.3rem 0.45rem; text-decoration: none; }
 .site-header nav a:hover { text-decoration: underline; }
 .site-header nav a[aria-current="page"] { background: var(--tag-background); font-weight: 700; text-decoration: none; }
 
@@ -126,7 +126,6 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
   font: inherit;
   cursor: pointer;
 }
-.theme-toggle { padding: 0.45rem 0.75rem; }
 /* Both themes use a fixed-size icon button; the action remains screen-reader labelled. */
 .theme-toggle, .mobile-nav-toggle {
   display: inline-flex;
@@ -155,6 +154,7 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 .mobile-nav-toggle:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
 .favorite-button, .text-button { padding: 0.48rem 0.72rem; font-size: 0.82rem; font-weight: 700; line-height: 1.2; }
+.text-button { min-height: 2.75rem; }
 .theme-toggle:hover, .favorite-button:hover, .text-button:hover { background: var(--tag-background); }
 .favorite-button[aria-pressed="true"], .favorite-button[data-saved="true"] { background: var(--button-background); color: var(--button-text); }
 .theme-toggle:focus-visible,
@@ -170,7 +170,7 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 /* Canonical lyric cards used by browse, categories, Saved, and Recent. */
 .lyric-list { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 0.65rem; margin: 1.5rem 0 0; padding: 0; list-style: none; }
 .lyric-card { position: relative; flex: 0 1 auto; width: fit-content; max-width: min(100%, 28rem); min-width: 0; }
-.lyric-card-link { display: flex; flex-direction: column; width: fit-content; max-width: 100%; min-width: 0; gap: 0.12rem; overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.65rem; padding: 0.62rem 2.75rem 0.58rem 0.78rem; background: var(--surface-background); text-decoration: none; }
+.lyric-card-link { display: flex; flex-direction: column; width: fit-content; max-width: 100%; min-width: 0; gap: 0.12rem; overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.65rem; padding: 0.62rem 2.75rem 0.58rem 0.78rem; padding-inline-end: 3.15rem; background: var(--surface-background); text-decoration: none; }
 .lyric-card-link:hover { background: var(--tag-background); }
 .lyric-card-unsaveable .lyric-card-link { padding-inline-end: 0.78rem; }
 .lyric-card-link:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
@@ -180,10 +180,10 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 .lyric-card-meta { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.25rem; }
 .lyric-card-meta:empty { display: none; }
 .metadata-chip { border-radius: 999px; padding: 0.18rem 0.5rem; background: var(--tag-background); color: var(--secondary-text); font-size: 0.72rem; line-height: 1.35; }
-.favorite-icon-button { display: inline-grid; width: 2rem; height: 2rem; place-items: center; flex: 0 0 2rem; border-radius: 0.55rem; padding: 0; }
+.favorite-icon-button { display: inline-grid; width: 2rem; height: 2rem; min-width: 2.6rem; min-height: 2.6rem; place-items: center; flex: 0 0 2rem; border-radius: 0.55rem; padding: 0; }
 .favorite-icon-button svg { width: 1.05rem; height: 1.05rem; fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.7; }
 .favorite-icon-button[aria-pressed="true"] svg, .favorite-icon-button[data-saved="true"] svg { fill: currentColor; }
-.lyric-card-save { position: absolute; top: 0.42rem; right: 0.42rem; z-index: 3; width: 1.75rem; height: 1.75rem; margin: 0; border-radius: 0.45rem; }
+.lyric-card-save { position: absolute; top: 0.42rem; right: 0.42rem; z-index: 3; width: 2.6rem; height: 2.6rem; margin: 0; border-radius: 0.45rem; }
 .lyric-card-save svg { width: 0.92rem; height: 0.92rem; }
 
 /* Shared reader controls. Route styles own the reading content itself. */
@@ -193,7 +193,6 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 .reading-controls select { min-height: 2.25rem; border: 1px solid var(--border-colour); border-radius: 0.48rem; padding: 0.35rem 2rem 0.35rem 0.55rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: 0.82rem; }
 @media (max-width: 700px) {
   /* Title, menu, and appearance are a single-height mobile toolbar. */
-  .site-header { position: sticky; top: 0; }
   .header-inner {
     flex-direction: row;
     align-items: center;
@@ -249,9 +248,16 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
     box-shadow: 0 0.35rem 1.1rem rgb(0 0 0 / 0.12);
   }
   .reading-view-control { grid-column: 1 / -1; }
-  .reading-control-group, .reading-controls select, .segmented-control { width: 100%; }
-  .segmented-control button { flex: 1; padding-inline: 0.45rem; }
+  .reading-control-group, .reading-controls select { width: 100%; }
   .reading-control-label { font-size: 0.62rem; }
+
+  /* Transform hides the header without shifting reading anchors or page flow. */
+  .site-header { transition: transform 180ms ease, visibility 180ms ease; will-change: transform; }
+  html[data-mobile-header-hidden="true"] .site-header {
+    transform: translateY(calc(-100% - 2px));
+    visibility: hidden;
+    pointer-events: none;
+  }
 }
 
 @media (max-width: 430px) {
@@ -261,7 +267,6 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 /* Circled stanza numbers shared by Basta and standalone lyrics. */
 /* Specificity exceeds per-reader line display rules without affecting poetry fitting. */
 .poetry-stanza-number {
-  box-sizing: border-box;
   display: flex;
   inline-size: 2.15em;
   block-size: 2.15em;
@@ -302,28 +307,5 @@ html:not([data-reader-enhanced="true"]) .reading-controls { display: none; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; }
 }
-.site-header nav a { display: inline-flex; align-items: center; min-height: 2.75rem; }
-.theme-toggle { min-height: 2.75rem; }
-.lyric-card-link { padding-inline-end: 3.15rem; }
-.lyric-card-save { width: 2.6rem; height: 2.6rem; }
-.favorite-icon-button { min-width: 2.6rem; min-height: 2.6rem; }
-
-/* Shared tertiary actions should meet comfortable mobile touch dimensions. */
-.text-button { min-height: 2.75rem; }
-
 /* No-script guidance is real HTML rather than contents of a parser-dependent noscript. */
 html[data-js-available="true"] [data-requires-js] { display: none !important; }
-
-/* Hide the one-line mobile site header while reading down; restore on upscroll.
-   Transform retains document flow and avoids moving anchor positions. */
-@media (max-width: 700px) {
-  .site-header {
-    transition: transform 180ms ease, visibility 180ms ease;
-    will-change: transform;
-  }
-  html[data-mobile-header-hidden="true"] .site-header {
-    transform: translateY(calc(-100% - 2px));
-    visibility: hidden;
-    pointer-events: none;
-  }
-}
