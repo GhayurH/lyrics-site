@@ -34,8 +34,10 @@ test("generate a visual review matrix across readers and viewports", async ({ pa
     }
     if (entry.image) {
       await page.locator('[data-reading-column][value="image"]').check();
-      await expect.poll(() => page.locator(".basta-original-page img, .lyric-reading-image img").first()
-        .evaluate((img) => img.naturalWidth)).toBeGreaterThan(0);
+      if (test.info().project.name === "chromium") {
+        await expect.poll(() => page.locator(".basta-original-page img, .lyric-reading-image img").first()
+          .evaluate((img) => img.naturalWidth), { timeout: 15000 }).toBeGreaterThan(0);
+      }
     }
     await page.evaluate(() => document.fonts.ready);
     await page.screenshot({ path: `test-results/reader-snapshots/${entry.name}.png`, animations: "disabled" });

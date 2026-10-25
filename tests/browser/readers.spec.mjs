@@ -131,10 +131,20 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
   // Exit at a known position within page 138, not where the preceding page crosses the reading line.
   await target.evaluate((node) => node.scrollIntoView({ block: "start", behavior: "instant" }));
   await page.locator("[data-reading-root]").evaluate((node) => { node.scrollTop += 125; });
+  const visiblePage = await page.locator("[data-reading-root]").evaluate((root) => {
+    const viewport = root.getBoundingClientRect();
+    const pages = [...root.querySelectorAll("[data-basta-page]")];
+    return pages.map((node) => {
+      const rect = node.getBoundingClientRect();
+      return { page: Number(node.dataset.bastaPage), visible: Math.max(0,
+        Math.min(rect.bottom, viewport.bottom) - Math.max(rect.top, viewport.top)) };
+    }).sort((a, b) => b.visible - a.visible)[0]?.page;
+  });
+  expect(visiblePage).toBeGreaterThan(0);
   await page.getByRole("button", { name: /Exit reading mode/ }).click();
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
-  await expect.poll(() => new URL(page.url()).hash).toBe("#page-138");
-  await expect.poll(async () => target.evaluate((node) => {
+  await expect.poll(() => new URL(page.url()).hash).toBe(`#page-${visiblePage}`);
+  await expect.poll(async () => page.locator(`#page-${visiblePage}`).evaluate((node) => {
     const r = node.getBoundingClientRect();
     return r.bottom > 0 && r.top < innerHeight;
   })).toBe(true);

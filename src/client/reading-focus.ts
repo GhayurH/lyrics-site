@@ -72,7 +72,14 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
       const rect = node.getBoundingClientRect();
       return { id: Number(node.dataset.bastaPage), top: rect.top, bottom: rect.bottom };
     });
-    const pageNumber = pageAtReadingLine(pageRects, bounds.top, bounds.height);
+    // Rotation can leave the upper reading line in a sliver of the previous page.
+    // Exiting Focus should return to the page occupying most of the viewport.
+    const visible = pageRects.map((item) => ({
+      id: item.id,
+      height: Math.max(0, Math.min(item.bottom, bounds.bottom) - Math.max(item.top, bounds.top)),
+    })).sort((a, b) => b.height - a.height);
+    const pageNumber = visible[0]?.height
+      ? visible[0].id : pageAtReadingLine(pageRects, bounds.top, bounds.height);
     const page = pages.find((node) => Number(node.dataset.bastaPage) === pageNumber);
     return { anchor: current, page, pageNumber };
   };
