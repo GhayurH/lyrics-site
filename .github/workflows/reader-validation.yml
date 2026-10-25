@@ -19,7 +19,7 @@ jobs:
       - run: npm install --no-save @playwright/test
       - run: npx playwright install --with-deps chromium
       - run: npx playwright test
-      - if: failure()
+      - if: always()
         uses: actions/upload-artifact@v4
         with:
           name: reader-browser-results

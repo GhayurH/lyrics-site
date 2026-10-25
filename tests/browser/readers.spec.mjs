@@ -54,3 +54,34 @@ test("continuous reader deep links load streamed content and preserve the curren
   await page.keyboard.press("Escape");
   await expect(page.locator(".basta-reader-index")).toBeHidden();
 });
+
+test("unavailable Roman transcription shows a source scan rather than blank content", async ({ page }) => {
+  await page.goto("/basta/read/#page-30");
+  await expect(page.locator('[data-basta-page="30"]')).toBeAttached({ timeout: 20000 });
+  await page.getByLabel("Urdu", { exact: true }).uncheck();
+  const source = page.locator('[data-basta-page="30"] .basta-reader-original-image');
+  const notice = page.locator('[data-basta-page="30"] .basta-edition-unavailable');
+  await expect(source).toBeVisible();
+  await expect(notice).toContainText("not available");
+});
+
+test("wrapping is optional and text-size settings persist", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await page.getByRole("button", { name: "Text options" }).click();
+  await page.getByLabel("Allow wrapping").check();
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-wrap-verses", "true");
+  await expect.poll(() => page.locator(".lyric-verse").first().evaluate((node) => getComputedStyle(node).whiteSpace)).toBe("normal");
+  await page.locator("[data-reading-font-size]").selectOption("xlarge");
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-font-size", "xlarge");
+  await page.reload();
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-wrap-verses", "true");
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-font-size", "xlarge");
+});
+
+test("compact index presents accessible entries at phone width", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/index/");
+  await expect(page.locator(".basta-index-mobile-list").first()).toBeVisible();
+  await expect(page.locator(".basta-index-table-wrap").first()).toBeHidden();
+});
