@@ -20,6 +20,7 @@ const { page } = Astro.props as Props;
   ]}
   id={`page-${page.page}`}
   data-basta-page={page.page}
+  data-page-has-roman={String(page.hasRoman)}
   data-synced-scroll-root
 >
   {

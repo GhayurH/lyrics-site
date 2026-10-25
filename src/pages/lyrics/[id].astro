@@ -229,6 +229,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       ariaLabel="Reading controls"
       modeGroupLabel="Lyric view"
       showModes={Boolean(data.romanLyrics)}
+      hasImage={Boolean(data.cover)}
     />
 
     <div
@@ -237,12 +238,18 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         !data.romanLyrics && "lyric-reading-grid-single",
       ]}
       data-reading-root
+      data-reader-kind="lyrics"
       data-has-roman={String(Boolean(data.romanLyrics))}
       data-reading-mode={data.romanLyrics ? "parallel" : "urdu"}
       data-font-size="default"
       data-line-spacing="default"
       data-synced-scroll-root
     >
+      {data.cover && (
+        <figure class="lyric-reading-image" data-synced-scroll-panel aria-label="Original lyric sheet">
+          <img src={data.cover} alt={data.coverAlt || "Original lyric sheet"} loading="lazy" decoding="async" />
+        </figure>
+      )}
       <section
         class="lyric-reading-panel lyric-reading-urdu"
         data-synced-scroll-panel

@@ -71,9 +71,10 @@ export function initVerseFitting(): void {
   // Font preferences change the root attributes, while streaming readers
   // insert pages in chunks. Resizing or font downloads can change widths.
   const observer = new MutationObserver(schedule);
-  observer.observe(root, { attributes: true, attributeFilter: ["data-reading-mode", "data-font-size"] });
+  observer.observe(root, { attributes: true, attributeFilter: ["data-reading-mode", "data-reading-columns", "data-font-size"] });
   window.addEventListener("resize", schedule, { passive: true });
   window.addEventListener("basta:content-loaded", schedule);
+  window.addEventListener("kalam:columns-changed", schedule);
   document.fonts.ready.then(schedule);
   document.fonts.addEventListener?.("loadingdone", schedule);
   schedule();

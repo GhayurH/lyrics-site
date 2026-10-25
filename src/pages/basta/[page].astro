@@ -157,7 +157,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       ariaLabel="Page reading controls"
       modeGroupLabel={`Basta page ${page} view`}
       showModes={hasRomanText}
-      showImageMode
+      hasImage
       imageOnly={entry.data.imageOnly}
     />
 
@@ -168,6 +168,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
         hasRomanText && "basta-page-grid-with-roman",
       ]}
       data-reading-root
+      data-reader-kind="basta-page"
       data-has-roman={String(hasRomanText)}
       data-image-only={String(entry.data.imageOnly)}
       data-reading-mode={entry.data.imageOnly ? "image" : hasRomanText ? "parallel" : "urdu"}
