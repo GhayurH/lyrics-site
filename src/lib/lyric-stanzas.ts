@@ -5,11 +5,6 @@ export interface LyricDisplayLine {
   number: boolean;
 }
 
-/** A stanza number occupies its entire source line; inline digits are poetry. */
-export function isLyricStanzaNumber(line: string): boolean {
-  return parseStanzaNumber(line) !== null;
-}
-
 export function splitLyricStanzas(text: string): LyricDisplayLine[][] {
   return text.replace(/\r\n?/g, "\n").trim().split(/\n(?:[ \t]*\n)+/)
     .filter(block => block.trim().length > 0)

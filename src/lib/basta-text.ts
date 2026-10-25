@@ -26,8 +26,8 @@ export function splitBastaKalams(text: string): string[] {
   return kalams;
 }
 
-/** Salam often prints couplets as successive lines without blank stanza
- * separators; other poems follow the original six-verse convention. */
+/** Explicit couplet mode for Salam; auto mode detects long unnumbered
+ * couplet blocks and treats the remaining numbered stanzas as six-verse forms. */
 export type BastaStanzaStyle = "auto" | "couplet";
 
 export interface BastaDisplayLine {
@@ -223,9 +223,8 @@ export function layoutBastaKalam(
     previousVerseCount = count;
   }
 
-  // A standalone repetition at the very end is part of the poem. It is
-  // not a source citation, even when the old OCR had labelled it "Makhaz".
-  // Also detect end-of-page continuations whose first verse was on another page.
+  // The final single line may repeat the opening verse, including on pages
+  // where that opening was printed earlier in the book. Preserve the reprise.
   const finalBlock = blocks.at(-1);
   if (finalBlock && finalBlock.end - finalBlock.start === 1) {
     const at = finalBlock.start;

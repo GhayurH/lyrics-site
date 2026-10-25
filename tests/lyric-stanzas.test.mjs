@@ -2,7 +2,8 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { isLyricStanzaNumber, splitLyricStanzas } from "../src/lib/lyric-stanzas.ts";
+import { splitLyricStanzas } from "../src/lib/lyric-stanzas.ts";
+import { parseStanzaNumber } from "../src/lib/stanza-numbers.ts";
 
 test("blank lines alone delimit stanzas; one blank or many behave identically", () => {
   const blocks = splitLyricStanzas("one\ntwo\n\nthree\nfour\n\n\n five\nsix");
@@ -17,9 +18,9 @@ test("standalone numbers are preserved while numerals embedded in verses are not
   assert.deepEqual(stanzas.map(block => block.map(line => line.number)), [
     [true, false, false], [true, false],
   ]);
-  assert.ok(isLyricStanzaNumber("۶"));
-  assert.ok(isLyricStanzaNumber("6"));
-  assert.ok(!isLyricStanzaNumber("6 verses"));
+  assert.equal(parseStanzaNumber("۶"), "۶");
+  assert.equal(parseStanzaNumber("6"), "6");
+  assert.equal(parseStanzaNumber("6 verses"), null);
 });
 
 test("real Urdu non-Basta Markdown retains numbered stanzas and source breaks", () => {

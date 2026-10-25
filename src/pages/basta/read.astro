@@ -109,10 +109,10 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
 
   <script>
     import { initReadingControls } from "../../client/reader-state";
-    import { initBastaVerseFitting } from "../../client/basta-verse-fitting";
+    import { initVerseFitting } from "../../client/verse-fitting";
     import { initBastaStreamingReader } from "../../client/basta-stream";
     initReadingControls();
     initBastaStreamingReader();
-    initBastaVerseFitting();
+    initVerseFitting();
   </script>
 </BaseLayout>
