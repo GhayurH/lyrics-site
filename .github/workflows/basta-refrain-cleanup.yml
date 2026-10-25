@@ -1,0 +1,53 @@
+name: One-time Basta OCR source-marker cleanup
+
+on:
+  push:
+    branches:
+      - fix/basta-refrain-source-markers-2026-10
+
+permissions:
+  contents: write
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove OCR wrapper labels and brackets while preserving verse text
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import path from 'node:path';
+
+          const wrapper = /^[ \t]*\[[ \t]*(?:ماخذ|مآخذ|مأخذ|ماخد|مآخد|Makhaz|Maakhaz|Makhz|Ma'khaz|Maakhadh)[ \t]*[:：][ \t]*(.*?)[ \t]*\][ \t]*$/gmi;
+          if ('[ماخذ: کوفہ کو چلا قاصدِ صغرا جو وطن سے]'.replace(wrapper, '$1') !== 'کوفہ کو چلا قاصدِ صغرا جو وطن سے') {
+            throw new Error('Urdu OCR wrapper matcher failed its smoke test');
+          }
+          if ('[Makhaz: Kufe ko chala Qasid-e-Sughra jo watan se]'.replace(wrapper, '$1') !== 'Kufe ko chala Qasid-e-Sughra jo watan se') {
+            throw new Error('Roman OCR wrapper matcher failed its smoke test');
+          }
+
+          let pages = 0, lines = 0;
+          for (const folder of ['src/data/basta/pages', 'src/data/basta/roman']) {
+            for (const file of fs.readdirSync(folder).filter((name) => /^\d+\.md$/.test(name))) {
+              const target = path.join(folder, file);
+              const before = fs.readFileSync(target, 'utf8');
+              const after = before.replace(wrapper, (_, verse) => { lines++; return verse; });
+              if (before !== after) { fs.writeFileSync(target, after); pages++; }
+            }
+          }
+          if (!lines) throw new Error('Expected to find source wrappers, found none');
+          console.log('Unwrapped ' + lines + ' markers across ' + pages + ' Markdown files.');
+          NODE
+      - name: Remove temporary one-off workflow
+        run: git rm .github/workflows/basta-refrain-cleanup.yml
+      - name: Check and commit the cleaned Markdown files
+        shell: bash
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/basta/pages src/data/basta/roman
+          git commit -m "Clean OCR source markers across Basta Urdu and Roman pages"
+          git push
