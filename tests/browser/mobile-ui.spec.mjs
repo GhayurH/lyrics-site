@@ -99,20 +99,10 @@ test("Basta page-by-page fills the full width of each stacked edition in mobile 
       const [container, group, u, r] = await Promise.all([
         root.boundingBox(), columns.boundingBox(), urdu.boundingBox(), roman.boundingBox(),
       ]);
-      return {
-        groupRatio: group.width / container.width,
-        urduRatio: u.width / group.width,
-        romanRatio: r.width / group.width,
-        aligned: Math.abs(u.x - r.x),
-        separation: Math.abs(u.y - r.y),
-      };
-    }).toEqual({
-      groupRatio: expect.any(Number),
-      urduRatio: expect.any(Number),
-      romanRatio: expect.any(Number),
-      aligned: expect.any(Number),
-      separation: expect.any(Number),
-    });
+      return group.width / container.width > .9 &&
+        u.width / group.width > .95 && r.width / group.width > .95 &&
+        Math.abs(u.x - r.x) < 5 && Math.abs(u.y - r.y) > 30;
+    }).toBe(true);
     const [container, group, u, r] = await Promise.all([
       root.boundingBox(), columns.boundingBox(), urdu.boundingBox(), roman.boundingBox(),
     ]);
@@ -122,7 +112,6 @@ test("Basta page-by-page fills the full width of each stacked edition in mobile 
     expect(Math.abs(u.x - r.x)).toBeLessThan(5);
     expect(Math.abs(u.y - r.y)).toBeGreaterThan(30);
     expect(await columns.evaluate(el => getComputedStyle(el).gridTemplateColumns.split(" ").length)).toBe(1);
-    await root.locator('[data-reading-column="no-such-control"]').count();
   }
   await page.setViewportSize({ width: 844, height: 390 });
   await page.goto("/basta/200/");
