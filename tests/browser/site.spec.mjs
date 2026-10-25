@@ -58,3 +58,13 @@ test("core pages never create a viewport-wide horizontal scrollbar on phones", a
     await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
   }
 });
+
+test("Search and Saved explain their browser-only features without JavaScript", async ({ browser }) => {
+  const context = await browser.newContext({ javaScriptEnabled: false });
+  const page = await context.newPage();
+  await page.goto("/search/");
+  await expect(page.getByText("Search requires JavaScript", { exact: false })).toBeVisible();
+  await page.goto("/saved/");
+  await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();
+  await context.close();
+});
