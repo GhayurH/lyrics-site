@@ -206,8 +206,7 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
 
 /* Circled stanza numbers shared by Basta and standalone lyrics. */
 /* Specificity exceeds per-reader line display rules without affecting poetry fitting. */
-.basta-verse-line.poetry-stanza-number,
-.lyric-stanza-number.poetry-stanza-number {
+.poetry-stanza-number {
   box-sizing: border-box;
   display: flex;
   inline-size: 2.15em;

@@ -61,7 +61,7 @@
   margin-top: 0.65em;
   padding-top: 0.4em;
 }
-.lyric-verse, .lyric-stanza-number {
+.lyric-verse {
   display: block;
   unicode-bidi: plaintext;
   white-space: nowrap;

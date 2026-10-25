@@ -31,7 +31,8 @@ test("numbered 4+2 stanza frames its closing pair, removes the separating gap, a
   assert.equal(lines[5].hidden, true);
   assert.equal(lines[6].sixClosingStart, true);
   assert.equal(lines[7].sixClosingEnd, true);
-  assert.equal(lines[8].sixClosing, undefined);
+  assert.equal(lines[8].sixClosingStart, undefined);
+  assert.equal(lines[8].sixClosingEnd, undefined);
 });
 
 test("Roman 4+2 convention and subsequent two-line stanza remain independent", () => {
@@ -137,7 +138,7 @@ test("unnumbered continuous couplets are inferred without a per-page category", 
   const verses = result.filter(line => line.verse);
   assert.equal(verses.length, 14);
   assert.deepEqual(verses.map(line => line.indent), Array.from({ length: 14 }, (_, i) => i % 2 === 1));
-  assert.ok(verses.every(line => !line.sixClosing));
+  assert.ok(verses.every(line => !line.sixClosingStart && !line.sixClosingEnd));
 });
 
 test("page 362's first Hamd is paired correctly in both scripts, ignoring category and title/byline", () => {
@@ -153,7 +154,7 @@ test("page 362's first Hamd is paired correctly in both scripts, ignoring catego
       `${language}: only the second line of every couplet is inset`);
     assert.equal(lines.filter(line => line.text.trim() && !line.verse).length, 3,
       `${language}: section heading, title, and byline are not treated as verses`);
-    assert.ok(verseLines.every(line => !line.sixClosing),
+    assert.ok(verseLines.every(line => !line.sixClosingStart && !line.sixClosingEnd),
       `${language}: no six-line framing on two-line stanzas`);
   }
 });
@@ -194,7 +195,7 @@ test("page 362 Urdu and Roman opening titles and closing lines use verse fitting
     assert.equal(verses.filter(line => line.coupletSeparator).length, 6, language + " separators");
     assert.ok(!verses[0].coupletSeparator);
     assert.ok(verses.every((line, i) => line.indent === (i % 2 === 1)));
-    assert.ok(verses.every(line => !line.sixClosing));
+    assert.ok(verses.every(line => !line.sixClosingStart && !line.sixClosingEnd));
     assert.equal(lines.filter(line => line.hidden).length, 1, "blank between pairs collapsed");
   }
 });
@@ -204,7 +205,7 @@ test("two-verse groups separated by blank lines get exactly one rule per boundar
   assert.deepEqual(lines.filter(l => l.coupletSeparator).map(l => l.text), ["third", "fifth"]);
   assert.deepEqual(lines.filter(l => l.hidden).map(l => l.text), ["", ""]);
   assert.deepEqual(lines.filter(l => l.indent).map(l => l.text), ["second", "fourth", "sixth"]);
-  assert.ok(lines.every(l => !l.sixClosing));
+  assert.ok(lines.every(l => !l.sixClosingStart && !l.sixClosingEnd));
 });
 
 test("unnumbered and explicitly configured long couplets insert horizontal separators between pairs", () => {
@@ -321,8 +322,10 @@ test("continuous six-verse stanza uses opposing indents with one framed closing 
   const lines = layoutBastaKalam("first\nsecond\nthird\nfourth\nfifth\nsixth");
   const firstFour = lines.slice(0, 4);
   const finalTwo = lines.slice(4);
-  assert.ok(firstFour.every(line => line.reverseIndent && !line.indent && !line.sixClosing));
-  assert.ok(finalTwo.every(line => line.indent && !line.reverseIndent && line.sixClosing));
+  assert.ok(firstFour.every(line => line.reverseIndent && !line.indent && !line.sixClosingStart && !line.sixClosingEnd));
+  assert.ok(finalTwo.every(line => line.indent && !line.reverseIndent));
+  assert.equal(finalTwo[0].sixClosingStart, true);
+  assert.equal(finalTwo[1].sixClosingEnd, true);
   assert.deepEqual(lines.filter(line => line.sixClosingStart).map(line => line.text), ["fifth"]);
   assert.deepEqual(lines.filter(line => line.sixClosingEnd).map(line => line.text), ["sixth"]);
   assert.ok(firstFour.every(line => bastaVerseClassNames(line).includes("basta-verse-reverse-indent")));
@@ -359,7 +362,7 @@ test("a forced two-verse poem still alternates indents instead of six-verse fram
   assert.deepEqual(lines.map(line => line.indent), [
     false, true, false, true, false, true,
   ]);
-  assert.ok(lines.every(line => !line.sixClosing));
+  assert.ok(lines.every(line => !line.sixClosingStart && !line.sixClosingEnd));
 });
 
 

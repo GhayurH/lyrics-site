@@ -42,8 +42,7 @@ export interface BastaDisplayLine {
   title?: boolean;
   /** A rule starts each couplet after the first in a two-verse poem. */
   coupletSeparator?: boolean;
-  /** Last two lines in a six-line stanza, framed instead of side-ruled. */
-  sixClosing?: boolean;
+  /** Closing couplet rules are shared with a final reprise when present. */
   sixClosingStart?: boolean;
   sixClosingEnd?: boolean;
   /** Hide only the source blank between lines four and five, or before a reprise. */
@@ -180,10 +179,8 @@ export function layoutBastaKalam(
         display[verse].reverseIndent = true;
       }
       display[last - 2].indent = true;
-      display[last - 2].sixClosing = true;
       display[last - 2].sixClosingStart = true;
       display[last - 1].indent = true;
-      display[last - 1].sixClosing = true;
       display[last - 1].sixClosingEnd = true;
     } else if (count === 2) {
       // A source blank may divide a 6-line stanza into 4 + 2.
@@ -196,10 +193,8 @@ export function layoutBastaKalam(
           if (display[verse].verse) display[verse].reverseIndent = true;
         }
         display[first].indent = true;
-        display[first].sixClosing = true;
         display[first].sixClosingStart = true;
         display[first + 1].indent = true;
-        display[first + 1].sixClosing = true;
         display[first + 1].sixClosingEnd = true;
         for (let space = previousBlock.end; space < block.start; space++) {
           if (!lines[space].trim()) display[space].hidden = true;
@@ -255,15 +250,14 @@ export function layoutBastaKalam(
 
 /** Shared classes keep static Astro pages and streamed pages identical. */
 export function bastaVerseClassNames(line: BastaDisplayLine): string {
+  // A counter uses only its own class; poetry line layout and fitting do not apply.
+  if (line.stanzaNumber) return "poetry-stanza-number";
   return [
     "basta-verse-line",
-    line.stanzaNumber && "poetry-stanza-number",
     line.indent && "basta-verse-indent",
     line.reverseIndent && "basta-verse-reverse-indent",
     (line.verse || line.title) && "basta-verse-poetry",
-    line.title && "basta-poem-title",
     line.coupletSeparator && "basta-couplet-separator",
-    line.sixClosing && "basta-six-closing",
     line.sixClosingStart && "basta-six-closing-start",
     line.sixClosingEnd && "basta-six-closing-end",
     line.refrain && "basta-refrain",
