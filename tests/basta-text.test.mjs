@@ -14,14 +14,20 @@ test("two-line stanza indents only its second verse", () => {
 
 test("six consecutive verses frame the closing pair without side rules", () => {
   const lines = layoutBastaKalam("a\nb\nc\nd\ne\nf");
-  assert.deepEqual(lines.map(line => line.indent), [false, false, false, false, false, false]);
+  assert.deepEqual(lines.map(line => line.indent), [false, false, false, false, true, true]);
+  assert.deepEqual(lines.map(line => Boolean(line.reverseIndent)), [true, true, true, true, false, false]);
   assert.equal(lines[4].sixClosingStart, true);
   assert.equal(lines[5].sixClosingEnd, true);
 });
 
 test("numbered 4+2 stanza frames its closing pair, removes the separating gap, and excludes credit", () => {
   const lines = layoutBastaKalam("۱\na\nb\nc\nd\n\ne\nf\n(بشکریہ شاعر)");
-  assert.deepEqual(lines.map((line) => line.indent), Array(9).fill(false));
+  assert.deepEqual(lines.map((line) => line.indent), [
+    false, false, false, false, false, false, true, true, false,
+  ]);
+  assert.deepEqual(lines.map((line) => Boolean(line.reverseIndent)), [
+    false, true, true, true, true, false, false, false, false,
+  ]);
   assert.equal(lines[5].hidden, true);
   assert.equal(lines[6].sixClosingStart, true);
   assert.equal(lines[7].sixClosingEnd, true);
@@ -31,7 +37,7 @@ test("numbered 4+2 stanza frames its closing pair, removes the separating gap, a
 test("Roman 4+2 convention and subsequent two-line stanza remain independent", () => {
   const content = "1\na\nb\nc\nd\n\ne\nf\n\n2\ng\nh";
   assert.deepEqual(indents(content), [
-    false, false, false, false, false, false, false, true,
+    false, false, false, false, true, true, false, true,
   ]);
 });
 
@@ -90,7 +96,7 @@ test("page 139 Roman couplets use the same layout", () => {
 
 test("Salam unbroken six lines are three couplets, unlike Marsiya six-line stanzas", () => {
   const text = "a\nb\nc\nd\ne\nf";
-  assert.deepEqual(indents(text, true), [false, false, false, false, false, false]);
+  assert.deepEqual(indents(text, true), [false, false, false, false, true, true]);
   assert.deepEqual(layoutBastaKalam(text, true, "couplet").map((line) => line.indent), [
     false, true, false, true, false, true,
   ]);
@@ -157,9 +163,11 @@ test("numbered 4+2 verses and ordinary six-line poems are not guessed as couplet
   assert.equal(stanza.find(line => line.text === "E")?.sixClosingStart, true);
   assert.equal(stanza.find(line => line.text === "F")?.sixClosingEnd, true);
   assert.equal(stanza.find(line => line.text === "B")?.indent, false);
+  assert.equal(stanza.find(line => line.text === "B")?.reverseIndent, true);
   const unnumbered = layoutBastaKalam("A\nB\nC\nD\nE\nF");
   assert.equal(unnumbered[4].sixClosingStart, true);
   assert.equal(unnumbered[1].indent, false);
+  assert.equal(unnumbered[1].reverseIndent, true);
 });
 
 test("long unnumbered couplet poems continue correctly onto the next page", () => {
@@ -248,7 +256,13 @@ test("page 200 standalone titles before numbered six-line stanzas are justified"
     assert.match(title.text, language === "pages" ? /امتحان گاہ/ : /Imtihan-gah/);
     assert.ok(bastaVerseClassNames(title).includes("basta-verse-poetry"));
     assert.ok(!lines.find((line) => /^\s*[۱1]\s*$/.test(line.text))?.title);
-    assert.ok(!lines.some((line) => line.reverseIndent));
+    const numberedStanza = lines.slice(lines.findIndex(line => /^[۱1]$/.test(line.text.trim())));
+    const opening = numberedStanza.filter(line => line.verse).slice(0, 4);
+    const closing = numberedStanza.filter(line => line.verse).slice(4, 6);
+    assert.equal(opening.length, 4);
+    assert.ok(opening.every(line => line.reverseIndent && !line.indent));
+    assert.equal(closing.length, 2);
+    assert.ok(closing.every(line => line.indent && !line.reverseIndent));
     assert.equal(lines.find((line) => line.sixClosingStart)?.text.trim() !== "", true);
   }
 });
@@ -293,7 +307,57 @@ test("two-line and six-line stanza formatting stay independent", () => {
   const couplet = layoutBastaKalam("one\ntwo");
   assert.ok(couplet[0].reverseIndent && couplet[1].indent);
   const six = layoutBastaKalam("۱\nA\nB\nC\nD\n\nE\nF");
-  assert.ok(six.every((line) => !line.reverseIndent));
+  assert.deepEqual(six.filter(line => line.verse).map(line => Boolean(line.reverseIndent)), [
+    true, true, true, true, false, false,
+  ]);
+  assert.ok(six.find((line) => line.text === "E")?.indent);
+  assert.ok(six.find((line) => line.text === "F")?.indent);
   assert.ok(six.find((line) => line.text === "E")?.sixClosingStart);
   assert.ok(six.find((line) => line.text === "F")?.sixClosingEnd);
+});
+
+
+test("continuous six-verse stanza uses opposing indents with one framed closing pair", () => {
+  const lines = layoutBastaKalam("first\nsecond\nthird\nfourth\nfifth\nsixth");
+  const firstFour = lines.slice(0, 4);
+  const finalTwo = lines.slice(4);
+  assert.ok(firstFour.every(line => line.reverseIndent && !line.indent && !line.sixClosing));
+  assert.ok(finalTwo.every(line => line.indent && !line.reverseIndent && line.sixClosing));
+  assert.deepEqual(lines.filter(line => line.sixClosingStart).map(line => line.text), ["fifth"]);
+  assert.deepEqual(lines.filter(line => line.sixClosingEnd).map(line => line.text), ["sixth"]);
+  assert.ok(firstFour.every(line => bastaVerseClassNames(line).includes("basta-verse-reverse-indent")));
+  assert.ok(finalTwo.every(line => bastaVerseClassNames(line).includes("basta-verse-indent")));
+  assert.ok(lines.every(line => !line.coupletSeparator));
+});
+
+test("4+2 numbered stanza and its refrain keep a single shared final rule", () => {
+  const lines = layoutBastaKalam("۱\nA\nB\nC\nD\n\nE\nF\n\nopening reprise");
+  const verseLines = lines.filter(line => line.verse && !line.refrain);
+  assert.deepEqual(verseLines.map(line => Boolean(line.reverseIndent)), [
+    true, true, true, true, false, false,
+  ]);
+  assert.deepEqual(verseLines.map(line => line.indent), [
+    false, false, false, false, true, true,
+  ]);
+  assert.ok(lines[5].hidden);
+  assert.ok(lines[8].hidden);
+  assert.equal(lines.at(-1)?.refrainSharesRule, true);
+  assert.equal(lines.filter(line => line.sixClosingStart).length, 1);
+  assert.equal(lines.filter(line => line.sixClosingEnd).length, 1);
+});
+
+test("four verses alone are not mistaken for the first half of a six-line stanza", () => {
+  const lines = layoutBastaKalam("۱\nA\nB\nC\nD");
+  assert.ok(lines.every(line => !line.reverseIndent && !line.indent));
+});
+
+test("a forced two-verse poem still alternates indents instead of six-verse framing", () => {
+  const lines = layoutBastaKalam("a\nb\nc\nd\ne\nf", true, "couplet");
+  assert.deepEqual(lines.map(line => Boolean(line.reverseIndent)), [
+    true, false, true, false, true, false,
+  ]);
+  assert.deepEqual(lines.map(line => line.indent), [
+    false, true, false, true, false, true,
+  ]);
+  assert.ok(lines.every(line => !line.sixClosing));
 });

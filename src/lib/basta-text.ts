@@ -163,20 +163,33 @@ export function layoutBastaKalam(
       }
       endsWithCouplet = count % 2 === 0;
     } else if (count === 6) {
-      // The printed closing couplet is framed by two horizontal rules.
+      // The first four verses share the first-couplet-line end inset;
+      // the framed closing two share the second-line start inset.
+      for (let verse = first; verse < last - 2; verse++) {
+        display[verse].reverseIndent = true;
+      }
+      display[last - 2].indent = true;
       display[last - 2].sixClosing = true;
       display[last - 2].sixClosingStart = true;
+      display[last - 1].indent = true;
       display[last - 1].sixClosing = true;
       display[last - 1].sixClosingEnd = true;
     } else if (count === 2) {
       // A source blank may divide a 6-line stanza into 4 + 2.
       const closesSixLineStanza = previousVerseCount === 4 && !usesCouplets;
       if (closesSixLineStanza) {
+        // The 4+2 case is only identifiable upon reaching the final pair.
+        // Retroactively apply the opposite inset to its first four verses.
+        const previousBlock = blocks[index - 1];
+        for (let verse = previousBlock.start; verse < previousBlock.end; verse++) {
+          if (display[verse].verse) display[verse].reverseIndent = true;
+        }
+        display[first].indent = true;
         display[first].sixClosing = true;
         display[first].sixClosingStart = true;
+        display[first + 1].indent = true;
         display[first + 1].sixClosing = true;
         display[first + 1].sixClosingEnd = true;
-        const previousBlock = blocks[index - 1];
         for (let space = previousBlock.end; space < block.start; space++) {
           if (!lines[space].trim()) display[space].hidden = true;
         }
