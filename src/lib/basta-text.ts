@@ -138,7 +138,7 @@ export function layoutBastaKalam(
   if (finalBlock && finalBlock.end - finalBlock.start === 1) {
     const at = finalBlock.start;
     const candidate = lines[at].trim();
-    const verseOnly = candidate.split(/\\s+\\/\\s+/u)[0].trim();
+    const verseOnly = candidate.split(/\s+\/\s+/u)[0].trim();
     let preceding = at - 1;
     while (preceding >= 0 && !lines[preceding].trim()) preceding--;
     const sharesRule = preceding >= 0 && Boolean(display[preceding].sixClosingEnd);
