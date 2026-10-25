@@ -29,7 +29,7 @@ npm run build
 npm run preview
 ```
 
-`npm run build` runs the Astro production build followed by Pagefind indexing.
+`npm run build` runs the regression tests first via `prebuild`, then the Astro production build and Pagefind indexing.
 
 ## Content contribution rules
 

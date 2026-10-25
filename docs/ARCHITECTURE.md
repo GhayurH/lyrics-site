@@ -90,6 +90,10 @@ Keep chunk size conservative. Larger chunks reduce requests but increase parse/r
 - Do not move the full Saved/Recent catalog into initial page HTML; keep using the static catalog endpoint.
 - Keep `basta.css` as the single shared Basta stylesheet; do not reintroduce a separate kalam-break CSS import in a component.
 
+## Validation
+
+`npm test` runs the Node regression suite; the `prebuild` npm hook runs it again before every production build, including Cloudflare Pages deployments. The tests cover text parsing, source stanza boundaries, proportional scrolling, and explicit multi-kalam alignment on Basta page 138.
+
 ## Repository hygiene
 
 Editor-specific files, generated output, and local maintenance scratch directories are not source and should stay out of Git. Build-driving configuration, documentation, content, and lockfiles remain versioned.

@@ -135,7 +135,7 @@ Start the local development server:
 npm run dev
 ```
 
-Build the production site and Pagefind index:
+Build the production site and Pagefind index (the pre-build hook runs the regression tests first):
 
 ```bash
 npm run build
