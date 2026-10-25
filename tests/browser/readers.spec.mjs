@@ -292,3 +292,12 @@ test("scan enlargement measures zoom relative to native image pixels", async ({ 
   await viewer.getByRole("button", { name: "Fit" }).click();
   await expect(enlarged).not.toHaveAttribute("style", /width: [12]px/);
 });
+
+test("the Basta index does not scroll horizontally at mobile, tablet, or desktop sizes", async ({ page }) => {
+  for (const width of [390, 768, 900, 1200]) {
+    await page.setViewportSize({ width, height: 844 });
+    await page.goto("/basta/index/");
+    await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+    await expect(page.locator(".basta-index-table-wrap").first()).toHaveCSS("overflow-x", width <= 640 ? "hidden" : "visible");
+  }
+});

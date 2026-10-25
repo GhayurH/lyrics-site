@@ -251,3 +251,17 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
     padding-inline: 0; text-align: start;
   }
 }
+
+/* Paired index tables need full-width rows when either half would be too narrow;
+   no horizontal-scrolling table or clipped entry text is permitted. */
+@container reader-shell (min-width: 40.01rem) and (max-width: 70rem) {
+  .basta-parallel-index-overall-headings {
+    grid-template-areas: "urdu" "roman";
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .basta-parallel-index-section {
+    grid-template-areas: "urdu-heading" "urdu-table" "roman-heading" "roman-table";
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .basta-parallel-index-table.basta-parallel-index-roman { border-inline-end: 0; }
+}

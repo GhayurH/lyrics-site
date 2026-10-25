@@ -366,7 +366,7 @@
 
 .basta-index-table-wrap {
   width: 100%;
-  overflow-x: auto;
+  overflow-x: visible;
   border: 1px solid var(--border-colour);
   border-radius: 0.7rem;
   background: var(--surface-background);
@@ -374,7 +374,7 @@
 
 .basta-index-table {
   width: 100%;
-  min-width: 34rem;
+  min-width: 0;
   border-collapse: collapse;
   table-layout: fixed;
 }
@@ -384,6 +384,7 @@
   border-bottom: 1px solid var(--border-colour);
   border-inline-end: 1px solid var(--border-colour);
   padding: 0.65rem 0.8rem;
+  overflow-wrap: anywhere;
   vertical-align: middle;
 }
 
