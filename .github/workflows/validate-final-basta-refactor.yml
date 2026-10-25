@@ -24,7 +24,7 @@ jobs:
           import fs from 'node:fs';
           import assert from 'node:assert/strict';
           import postcss from 'postcss';
-          for (const page of ['dist/basta/200/index.html', 'dist/basta/139/index.html', 'dist/lyrics/aa-asghar-bin-tere/index.html']) {
+          for (const page of ['dist/basta/200/index.html', 'dist/basta/298/index.html', 'dist/lyrics/aa-asghar-bin-tere/index.html']) {
             const html = fs.readFileSync(page,'utf8');
             assert.match(html,/poetry-stanza-number/);
             console.log('Circular numbers:',page);
