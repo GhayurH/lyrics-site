@@ -170,7 +170,7 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 /* Canonical lyric cards used by browse, categories, Saved, and Recent. */
 .lyric-list { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 0.65rem; margin: 1.5rem 0 0; padding: 0; list-style: none; }
 .lyric-card { position: relative; flex: 0 1 auto; width: fit-content; max-width: min(100%, 28rem); min-width: 0; }
-.lyric-card-link { display: flex; flex-direction: column; width: fit-content; max-width: 100%; min-width: 0; gap: 0.12rem; overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.65rem; padding: 0.62rem 3.15rem 0.58rem 0.78rem; background: var(--surface-background); text-decoration: none; }
+.lyric-card-link { display: flex; flex-direction: column; width: fit-content; max-width: 100%; min-width: 0; gap: 0.12rem; overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.65rem; padding: 0.62rem 2.75rem 0.58rem 0.78rem; padding-inline-end: 3.15rem; background: var(--surface-background); text-decoration: none; }
 .lyric-card-link:hover { background: var(--tag-background); }
 .lyric-card-unsaveable .lyric-card-link { padding-inline-end: 0.78rem; }
 .lyric-card-link:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
@@ -180,7 +180,7 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 .lyric-card-meta { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.25rem; }
 .lyric-card-meta:empty { display: none; }
 .metadata-chip { border-radius: 999px; padding: 0.18rem 0.5rem; background: var(--tag-background); color: var(--secondary-text); font-size: 0.72rem; line-height: 1.35; }
-.favorite-icon-button { display: inline-grid; width: 2.6rem; height: 2.6rem; place-items: center; flex: 0 0 2rem; border-radius: 0.55rem; padding: 0; }
+.favorite-icon-button { display: inline-grid; width: 2rem; height: 2rem; min-width: 2.6rem; min-height: 2.6rem; place-items: center; flex: 0 0 2rem; border-radius: 0.55rem; padding: 0; }
 .favorite-icon-button svg { width: 1.05rem; height: 1.05rem; fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.7; }
 .favorite-icon-button[aria-pressed="true"] svg, .favorite-icon-button[data-saved="true"] svg { fill: currentColor; }
 .lyric-card-save { position: absolute; top: 0.42rem; right: 0.42rem; z-index: 3; width: 2.6rem; height: 2.6rem; margin: 0; border-radius: 0.45rem; }
