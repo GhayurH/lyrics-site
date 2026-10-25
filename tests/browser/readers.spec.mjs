@@ -213,3 +213,64 @@ test("source link is visibly separated from the category back link", async ({ pa
   const source = await page.locator(".source-scan-link").boundingBox();
   expect(source.x - (back.x + back.width)).toBeGreaterThan(8);
 });
+
+test("standalone lyrics use stacked columns on narrow screens and parallel columns when wide enough", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  const urdu = page.locator(".lyric-reading-urdu");
+  const roman = page.locator(".lyric-reading-roman");
+  await expect(urdu).toBeVisible();
+  await expect(roman).toBeVisible();
+  const narrow = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
+  expect(Math.abs(narrow[0].y - narrow[1].y)).toBeGreaterThan(25);
+
+  await page.setViewportSize({ width: 844, height: 390 });
+  await expect.poll(async () => {
+    const [left, right] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
+    return Math.abs(left.y - right.y);
+  }).toBeLessThan(25);
+});
+
+test("continuous Basta editions respond to available width, including landscape", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
+  const section = page.locator('[data-basta-page="138"]');
+  await expect(section).toBeAttached({ timeout: 20000 });
+  const urdu = section.locator(".basta-reader-urdu");
+  const roman = section.locator(".basta-reader-roman");
+  await expect(urdu).toBeVisible();
+  await expect(roman).toBeVisible();
+  await expect.poll(async () => {
+    const [a, b] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
+    return Math.abs(a.y - b.y);
+  }).toBeGreaterThan(25);
+  await page.setViewportSize({ width: 844, height: 390 });
+  await expect.poll(async () => {
+    const [a, b] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
+    return Math.abs(a.y - b.y);
+  }).toBeLessThan(25);
+});
+
+test("scan enlargement measures zoom relative to native image pixels", async ({ page }) => {
+  const onePixel = Buffer.from(
+    "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+aPZcAAAAASUVORK5CYII=",
+    "base64",
+  );
+  await page.route("**/images/basta/original/138.png", async (route) => {
+    await route.fulfill({ body: onePixel, contentType: "image/png" });
+  });
+  await page.goto("/basta/138/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  await page.locator(".basta-original-page a").click();
+  const viewer = page.locator("dialog.scan-viewer");
+  await expect(viewer).toBeVisible();
+  const enlarged = viewer.locator("img");
+  await expect.poll(() => enlarged.evaluate((img) => img.naturalWidth)).toBe(1);
+  await viewer.getByRole("button", { name: "100%" }).click();
+  await expect(enlarged).toHaveJSProperty("width", 1);
+  await expect(enlarged).toHaveAttribute("style", /width: 1px/);
+  await viewer.getByRole("button", { name: "200%" }).click();
+  await expect(enlarged).toHaveAttribute("style", /width: 2px/);
+  await viewer.getByRole("button", { name: "Fit" }).click();
+  await expect(enlarged).not.toHaveAttribute("style", /width: [12]px/);
+});
