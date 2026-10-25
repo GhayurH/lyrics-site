@@ -218,10 +218,11 @@ export function initSyncedColumns(): void {
   const observer = new MutationObserver(schedule);
   observer.observe(readingRoot, {
     attributes: true,
-    attributeFilter: ["data-reading-mode", "data-font-size", "data-line-spacing"],
+    attributeFilter: ["data-reading-mode", "data-reading-columns", "data-font-size", "data-line-spacing"],
   });
   window.addEventListener("resize", schedule, { passive: true });
   window.addEventListener("basta:content-loaded", schedule);
+  window.addEventListener("kalam:columns-changed", schedule);
   document.addEventListener("load", (event) => {
     if (event.target instanceof HTMLImageElement && event.target.closest(ROOT)) schedule();
   }, true);

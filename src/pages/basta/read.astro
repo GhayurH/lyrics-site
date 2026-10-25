@@ -29,8 +29,8 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
       </div>
       <h1>Basta — Continuous reader</h1>
       <p>
-        Read the complete text as one continuous edition. Switch between
-        parallel Urdu and Roman Urdu, Urdu only, or Roman Urdu only.
+        Read the complete text as one continuous edition. Select any combination
+        of original image, Urdu, and Roman Urdu.
       </p>
     </header>
 
@@ -38,6 +38,8 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
       ariaLabel="Basta reading controls"
       className="basta-reading-controls"
       modeGroupLabel="Basta view"
+      hasImage
+      pageJump
     />
 
     <div
@@ -45,6 +47,7 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
       data-basta-reader-flow
       data-basta-stream
       data-reading-root
+      data-reader-kind="basta-continuous"
       data-has-roman="true"
       data-reading-mode="parallel"
       data-font-size="default"

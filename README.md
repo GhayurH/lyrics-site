@@ -113,6 +113,14 @@ The page-by-page Basta reader remains server-rendered and usable without JavaScr
 
 Direct `/basta/read/#page-N` links remain supported; the target chunk is loaded on demand.
 
+### Reader editions and immersive Reading Mode
+
+On standalone kalams, Basta page-by-page, and the continuous Basta reader, choose any available combination of **Image**, **Urdu**, and **Roman** using independent checkboxes. At least one edition must remain selected. The choice is remembered separately for each kind of reader; pages without the requested edition show their available text or scan instead. On wide displays, selected editions appear in parallel; on narrow screens they stack. On mobile landscape, Urdu and Roman appear side by side with the selected image above.
+
+**Reading mode** removes site navigation and metadata while keeping the same kalam formatting, typography preferences, and synchronized text scrolling. Tap the content or **Options** to reveal controls; leave using **× Exit**, Escape, or the browser Back gesture. Where supported, the separate **Fullscreen** button hides browser chrome too. Source scans fit inside the viewport and retain native pinch zoom. On mobile, an **↑ Top** control appears as you scroll.
+
+The continuous reader offers a page-number jump in both views. Link directly into an immersive page using `/basta/read/?reading=1#page-202`; without `?reading=1`, the same page hash opens in the normal reader. Entering or leaving Reading mode and rotating the device preserve reading position. Page numbers remain visible in the immersive continuous reader.
+
 ### Parallel reading and kalam boundaries
 
 When Urdu, Roman Urdu, and (for Basta) an original scan appear side by side, each scrollable column retains its own content height. Scrolling one moves the other visible columns by the corresponding percentage. On Basta pages containing multiple kalams, Urdu and Roman progress is mapped **within each matching kalam**, keeping their boundaries aligned rather than stretching shorter poems to the height of longer ones. The scan follows its page-wide scroll percentage.
