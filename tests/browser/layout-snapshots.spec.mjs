@@ -19,6 +19,8 @@ test("generate a visual review matrix across readers and viewports", async ({ pa
     if (entry.path.includes("/basta/read/")) {
       await expect(page.locator('[data-basta-page="138"]')).toBeAttached({ timeout: 20000 });
     }
+    await page.evaluate(() => document.fonts.ready);
     await page.screenshot({ path: `test-results/reader-snapshots/${entry.name}.png`, animations: "disabled" });
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 4)).toBe(true);
   }
 });

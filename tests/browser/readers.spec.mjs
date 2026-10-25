@@ -85,3 +85,97 @@ test("compact index presents accessible entries at phone width", async ({ page }
   await expect(page.locator(".basta-index-mobile-list").first()).toBeVisible();
   await expect(page.locator(".basta-index-table-wrap").first()).toBeHidden();
 });
+
+test("all text-edition combinations remain readable across themes and responsive widths", async ({ page }) => {
+  await page.setViewportSize({ width: 1300, height: 880 });
+  await page.goto("/basta/138/");
+  const choices = ["urdu", "roman", "image"];
+  for (const enabled of [["urdu"], ["roman"], ["image"], ["urdu", "roman"], ["urdu", "image"], ["roman", "image"], choices]) {
+    for (const name of choices) {
+      const input = page.locator(`[data-reading-column][value="${name}"]`);
+      if (enabled.includes(name) && !(await input.isChecked())) await input.check();
+    }
+    for (const name of choices) {
+      const input = page.locator(`[data-reading-column][value="${name}"]`);
+      if (!enabled.includes(name) && await input.isChecked()) await input.uncheck();
+    }
+    await expect(page.locator("[data-reading-root]")).toHaveAttribute(
+      "data-reading-columns", enabled.slice().sort().join(" ") === "image roman urdu" ? /(?:image|urdu|roman)/ : new RegExp(enabled.join("|")),
+    );
+    for (const name of choices) {
+      const selector = name === "image" ? ".basta-original-page" : `.basta-page-${name}`;
+      if (enabled.includes(name)) await expect(page.locator(selector)).toBeVisible();
+      else await expect(page.locator(selector)).toBeHidden();
+    }
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 4)).toBe(true);
+  }
+  await page.getByRole("button", { name: "Dark mode" }).click();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
+  await expect(page.locator(".basta-page-urdu")).toBeVisible();
+  await page.getByRole("button", { name: "Light mode" }).click();
+});
+
+test("rotation and Focus exit retain an actual continuous page rather than the book top", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/read/#page-138");
+  const target = page.locator('[data-basta-page="138"]');
+  await expect(target).toBeAttached({ timeout: 20000 });
+  await target.scrollIntoViewIfNeeded();
+  await page.locator('[data-reading-column][value="roman"]').uncheck();
+  const editions = await page.locator("[data-reading-root]").getAttribute("data-reading-columns");
+  await page.getByRole("button", { name: "Focus mode" }).click();
+  await page.setViewportSize({ width: 844, height: 390 });
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", editions);
+  await page.getByRole("button", { name: /Exit reading mode/ }).click();
+  await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
+  await expect.poll(() => new URL(page.url()).hash).toBe("#page-138");
+  await expect.poll(async () => target.evaluate((node) => {
+    const r = node.getBoundingClientRect();
+    return r.bottom > 0 && r.top < innerHeight;
+  })).toBe(true);
+});
+
+test("the short closing Bain on page 138 keeps independent synchronized panels", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/basta/138/");
+  const roman = page.locator(".basta-page-roman");
+  const urdu = page.locator(".basta-page-urdu");
+  await expect(roman).toHaveAttribute("data-synced-active", "true");
+  await expect(urdu).toHaveAttribute("data-synced-active", "true");
+  expect(await roman.locator(".basta-kalam-text").count()).toBeGreaterThan(1);
+  expect(await urdu.locator(".basta-kalam-text").count()).toBeGreaterThan(1);
+  await roman.evaluate((node) => { node.scrollTop = Math.max(1, (node.scrollHeight - node.clientHeight) * 0.65); });
+  await expect.poll(() => urdu.evaluate((node) => node.scrollTop)).toBeGreaterThan(0);
+});
+
+test("image-only book pages remain legible without JavaScript or an edition selector", async ({ browser }) => {
+  const ctx = await browser.newContext({ javaScriptEnabled: false });
+  const page = await ctx.newPage();
+  await page.goto("/basta/3/");
+  await expect(page.locator(".basta-original-page")).toBeVisible();
+  await expect(page.locator(".basta-original-page a")).toHaveAttribute("href", /\/images\//);
+  await ctx.close();
+});
+
+test("source scan links remain accessible when JavaScript is disabled", async ({ browser }) => {
+  const ctx = await browser.newContext({ javaScriptEnabled: false });
+  const page = await ctx.newPage();
+  await page.goto("/basta/138/");
+  await expect(page.getByRole("link", { name: "Original scan" })).toBeVisible();
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await expect(page.getByRole("link", { name: "Original lyric sheet" })).toBeVisible();
+  await ctx.close();
+});
+
+test("resume uses within-page fractions in page-by-page and continuous routes", async ({ page }) => {
+  await page.goto("/basta/138/");
+  await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight * 0.6));
+  await expect.poll(() => page.evaluate(() => JSON.parse(localStorage.getItem("kalam:basta-position") || "{}").offset)).toBeGreaterThan(0.1);
+  const saved = await page.evaluate(() => JSON.parse(localStorage.getItem("kalam:basta-position") || "{}"));
+  await page.goto("/");
+  const link = page.locator("[data-resume-basta]");
+  await expect(link).toHaveAttribute("href", new RegExp(`/basta/138/\\?resume=`));
+  await link.click();
+  await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(100);
+  expect(saved.offset).toBeLessThanOrEqual(1);
+});
