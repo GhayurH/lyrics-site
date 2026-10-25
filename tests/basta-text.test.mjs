@@ -123,7 +123,7 @@ test("a page-end fifth line does not prevent fitting the first two couplets", ()
 });
 
 test("unnumbered continuous couplets are inferred without a per-page category", () => {
-  const poem = "heading\\nbyline\\n\\nheading\\n1\\n2\\n3\\n4\\n5\\n6\\n7\\n8\\n9\\n10\\n11\\n12\\n\\n13\\n14";
+  const poem = "heading\nbyline\n\nheading\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n\n13\n14";
   const result = layoutBastaKalam(poem);
   const verses = result.filter(line => line.verse);
   assert.equal(verses.length, 14);
@@ -134,7 +134,7 @@ test("unnumbered continuous couplets are inferred without a per-page category", 
 test("page 362's first Hamd is paired correctly in both scripts, ignoring category and title/byline", () => {
   for (const language of ["pages", "roman"]) {
     const source = readFileSync(new URL(`../src/data/basta/${language}/362.md`, import.meta.url), "utf8");
-    const markdownBody = source.replace(/^---\\r?\\n[\\s\\S]*?\\r?\\n---\\r?\\n/, "");
+    const markdownBody = source.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
     const kalam = splitBastaKalams(markdownBody)[0];
     const lines = layoutBastaKalam(kalam);
     const verseLines = lines.filter(line => line.verse);
@@ -150,18 +150,18 @@ test("page 362's first Hamd is paired correctly in both scripts, ignoring catego
 });
 
 test("numbered 4+2 verses and ordinary six-line poems are not guessed as couplets", () => {
-  const stanza = layoutBastaKalam("1\\nA\\nB\\nC\\nD\\n\\nE\\nF");
+  const stanza = layoutBastaKalam("1\nA\nB\nC\nD\n\nE\nF");
   assert.equal(stanza.find(line => line.text === "E")?.sixClosingStart, true);
   assert.equal(stanza.find(line => line.text === "F")?.sixClosingEnd, true);
   assert.equal(stanza.find(line => line.text === "B")?.indent, false);
-  const unnumbered = layoutBastaKalam("A\\nB\\nC\\nD\\nE\\nF");
+  const unnumbered = layoutBastaKalam("A\nB\nC\nD\nE\nF");
   assert.equal(unnumbered[4].sixClosingStart, true);
   assert.equal(unnumbered[1].indent, false);
 });
 
 test("long unnumbered couplet poems continue correctly onto the next page", () => {
   const source = readFileSync(new URL("../src/data/basta/pages/364.md", import.meta.url), "utf8");
-  const markdownBody = source.replace(/^---\\r?\\n[\\s\\S]*?\\r?\\n---\\r?\\n/, "");
+  const markdownBody = source.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
   const kalam = splitBastaKalams(markdownBody)[0];
   const lines = layoutBastaKalam(kalam);
   assert.equal(lines.filter(line => line.verse).length, 14);
