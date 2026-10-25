@@ -1,7 +1,7 @@
 name: Reader validation
 on:
   push:
-    branches: ["feat/unified-reader-ux-2026-10"]
+    branches: [main, "feat/unified-reader-ux-2026-10"]
   pull_request:
 jobs:
   validate:
@@ -19,8 +19,7 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
-      - run: npm install --no-save @playwright/test
-      - run: npx playwright install --with-deps chromium
+        - run: npx playwright install --with-deps chromium firefox webkit
       - run: npx playwright test
       - if: always()
         uses: actions/upload-artifact@v4
