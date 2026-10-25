@@ -683,8 +683,6 @@
   align-items: start;
   min-width: 0;
 }
-.basta-parallel-kalams > section { min-width: 0; }
-
 /* A divider in each language's own flow rather than a shared-height row. */
 .basta-kalam-break {
   display: grid;
@@ -705,7 +703,6 @@
 /* Page-by-page: scan on the left, two editions inside the text region. */
 .basta-page-grid-with-roman {
   grid-template-columns: minmax(18rem, 0.78fr) minmax(0, 1.72fr);
-  align-items: start;
 }
 .basta-page-grid-with-roman > .basta-parallel-kalams-page {
   min-width: 0;

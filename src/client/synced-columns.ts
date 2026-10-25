@@ -80,8 +80,9 @@ function measureKalamStops(panel: HTMLElement): number[] | undefined {
 function segmentedEditions(group: HTMLElement[]): HTMLElement[] | undefined {
   const editions = group.filter((panel) => stopsByPanel.has(panel));
   if (editions.length !== 2) return undefined;
-  const count = stopsByPanel.get(editions[0])!.length;
-  return stopsByPanel.get(editions[1])!.length === count ? editions : undefined;
+  return stopsByPanel.get(editions[0])!.length === stopsByPanel.get(editions[1])!.length
+    ? editions
+    : undefined;
 }
 
 function syncFromPanel(group: HTMLElement[], source: HTMLElement): void {
@@ -115,6 +116,12 @@ function syncFromPanel(group: HTMLElement[], source: HTMLElement): void {
 
 function refreshColumns(): void {
   for (const root of document.querySelectorAll<HTMLElement>(ROOT)) {
+    // Off-screen continuous pages retain their existing geometry until they
+    // approach the viewport. Avoid forcing layout on hundreds of lazy pages.
+    if (root.closest("[data-basta-stream]")) {
+      const bounds = root.getBoundingClientRect();
+      if (bounds.bottom < -600 || bounds.top > window.innerHeight + 600) continue;
+    }
     const previous = activeGroups.get(root);
     const last = lastScrolled.get(root);
     const leader = previous?.includes(last!) ? last : previous?.[0];

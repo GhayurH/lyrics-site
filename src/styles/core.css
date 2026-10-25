@@ -233,7 +233,7 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
 
 /* JavaScript activates scrolling only for truly side-by-side reading panels;
    CSS-only, single-column, and stacked layouts retain normal document flow. */
-[data-synced-scroll-panel][data-synced-active="true"] {
+[data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-active="true"] {
   height: clamp(18rem, 68vh, 46rem);
   min-height: 0;
   overflow-y: auto;
