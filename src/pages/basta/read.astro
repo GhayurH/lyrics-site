@@ -109,10 +109,12 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
 
   <script>
     import { initReadingControls } from "../../client/reader-state";
+    import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initBastaStreamingReader } from "../../client/basta-stream";
     initReadingControls();
     initBastaStreamingReader();
     initVerseFitting();
+    initSyncedColumns();
   </script>
 </BaseLayout>
