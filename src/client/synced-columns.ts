@@ -1,75 +1,181 @@
-// File role: Synchronize independently scrolling parallel reading columns by
-// percentage of each panel's available scroll distance (not pixel offset).
+// File role: Synchronize visible parallel reader panels. Basta uses kalam
+// boundaries as anchors; other lyrics retain whole-column proportional scroll.
 const ROOT = "[data-synced-scroll-root]";
 const PANEL = "[data-synced-scroll-panel]";
+const KALAM = ".basta-kalam-text";
+
 const activeGroups = new WeakMap<HTMLElement, HTMLElement[]>();
 const lastScrolled = new WeakMap<HTMLElement, HTMLElement>();
 const expectedScroll = new WeakMap<HTMLElement, number>();
+const stopsByPanel = new WeakMap<HTMLElement, number[]>();
+
+function scrollRange(panel: HTMLElement): number {
+  return Math.max(0, panel.scrollHeight - panel.clientHeight);
+}
+
+function clamp(value: number, lower: number, upper: number): number {
+  return Math.min(upper, Math.max(lower, value));
+}
 
 export function progressOf(panel: HTMLElement): number {
-  const range = Math.max(0, panel.scrollHeight - panel.clientHeight);
-  return range === 0 ? 0 : Math.min(1, Math.max(0, panel.scrollTop / range));
+  const range = scrollRange(panel);
+  return range === 0 ? 0 : clamp(panel.scrollTop / range, 0, 1);
+}
+
+function setPosition(panel: HTMLElement, position: number): void {
+  const next = clamp(position, 0, scrollRange(panel));
+  if (Math.abs(panel.scrollTop - next) < 0.75) return;
+  expectedScroll.set(panel, next);
+  panel.scrollTop = next;
 }
 
 export function alignPanels(group: HTMLElement[], fraction: number, source?: HTMLElement): void {
-  const clamped = Math.min(1, Math.max(0, fraction));
+  const clamped = clamp(fraction, 0, 1);
+  for (const panel of group) {
+    if (panel !== source) setPosition(panel, scrollRange(panel) * clamped);
+  }
+}
+
+/** Convert a scroll offset into (kalam index + progress within that kalam). */
+export function segmentProgressAt(position: number, stops: number[]): number {
+  const last = stops.length - 1;
+  if (last <= 0 || position <= 0) return 0;
+  if (position >= stops[last]) return last;
+  for (let index = 0; index < last; index += 1) {
+    if (position < stops[index + 1]) {
+      const width = stops[index + 1] - stops[index];
+      return index + (width > 0 ? clamp((position - stops[index]) / width, 0, 1) : 0);
+    }
+  }
+  return last;
+}
+
+/** Locate the equivalent scroll offset in an edition with different heights. */
+export function segmentOffsetAt(progress: number, stops: number[]): number {
+  const last = stops.length - 1;
+  if (last <= 0 || progress <= 0) return 0;
+  if (progress >= last) return stops[last];
+  const index = Math.floor(progress);
+  return stops[index] + (stops[index + 1] - stops[index]) * (progress - index);
+}
+
+function measureKalamStops(panel: HTMLElement): number[] | undefined {
+  const kalams = Array.from(panel.querySelectorAll<HTMLElement>(KALAM));
+  if (kalams.length < 2) return undefined;
+
+  const maximum = scrollRange(panel);
+  const panelTop = panel.getBoundingClientRect().top;
+  const stops = [0];
+  for (const kalam of kalams.slice(1)) {
+    // Place each new kalam around the lower portion of the viewport rather
+    // than requiring its first line to reach the very top. This also handles
+    // short closing kalams, such as the Bain on Basta page 138.
+    const top = kalam.getBoundingClientRect().top - panelTop + panel.scrollTop;
+    stops.push(Math.max(stops[stops.length - 1], clamp(top - panel.clientHeight * 0.7, 0, maximum)));
+  }
+  stops.push(maximum);
+  return stops;
+}
+
+function segmentedEditions(group: HTMLElement[]): HTMLElement[] | undefined {
+  const editions = group.filter((panel) => stopsByPanel.has(panel));
+  if (editions.length !== 2) return undefined;
+  const count = stopsByPanel.get(editions[0])!.length;
+  return stopsByPanel.get(editions[1])!.length === count ? editions : undefined;
+}
+
+function syncFromPanel(group: HTMLElement[], source: HTMLElement): void {
+  const editions = segmentedEditions(group);
+  if (!editions) {
+    alignPanels(group, progressOf(source), source);
+    return;
+  }
+
+  const fraction = progressOf(source);
+  const reference = editions.find((panel) => panel.lang === "ur") ?? editions[0];
+  // The scan has no text markers. Its physical percentage is interpreted
+  // against the Urdu timeline, then translated to the other edition.
+  const referenceOffset = editions.includes(source)
+    ? source.scrollTop
+    : scrollRange(reference) * fraction;
+  const origin = editions.includes(source) ? source : reference;
+  const semantic = segmentProgressAt(referenceOffset, stopsByPanel.get(origin)!);
+
   for (const panel of group) {
     if (panel === source) continue;
-    const maximum = Math.max(0, panel.scrollHeight - panel.clientHeight);
-    const next = maximum * clamped;
-    if (Math.abs(panel.scrollTop - next) < 0.75) continue;
-    expectedScroll.set(panel, next);
-    panel.scrollTop = next;
+    if (editions.includes(panel)) {
+      setPosition(panel, segmentOffsetAt(semantic, stopsByPanel.get(panel)!));
+    } else {
+      // Image scans remain globally proportional, since their kalam markers
+      // cannot be determined reliably from the page image.
+      setPosition(panel, scrollRange(panel) * fraction);
+    }
   }
 }
 
 function refreshColumns(): void {
   for (const root of document.querySelectorAll<HTMLElement>(ROOT)) {
-    // Capture position before temporarily removing scroll constraints.
     const previous = activeGroups.get(root);
-    const leader = previous && (lastScrolled.get(root) ?? previous[0]);
-    const progress = leader ? progressOf(leader) : 0;
+    const last = lastScrolled.get(root);
+    const leader = previous?.includes(last!) ? last : previous?.[0];
+    const oldFraction = leader ? progressOf(leader) : 0;
+    const oldStops = leader && stopsByPanel.get(leader);
+    const oldSemantic = leader && oldStops
+      ? segmentProgressAt(leader.scrollTop, oldStops)
+      : undefined;
     const panels = Array.from(root.querySelectorAll<HTMLElement>(PANEL));
 
     panels.forEach((panel) => {
       delete panel.dataset.syncedActive;
       panel.removeAttribute("tabindex");
+      stopsByPanel.delete(panel);
     });
     activeGroups.delete(root);
 
     const readingRoot = root.closest<HTMLElement>("[data-reading-root]");
     if (readingRoot?.dataset.readingMode !== "parallel") continue;
 
-    // CSS breakpoints stack panels. Synchronize only panels on the same
-    // horizontal row; a scan stacked above the editions is excluded.
+    // Don't synchronize panels that have stacked at responsive breakpoints.
     const rows: Array<Array<{ panel: HTMLElement; top: number; left: number }>> = [];
     for (const panel of panels) {
       if (!panel.getClientRects().length || getComputedStyle(panel).display === "none") continue;
       const rect = panel.getBoundingClientRect();
       if (rect.width < 1 || rect.height < 1) continue;
-      const match = rows.find((row) => Math.abs(row[0].top - rect.top) < 24);
+      const row = rows.find((items) => Math.abs(items[0].top - rect.top) < 24);
       const item = { panel, top: rect.top, left: rect.left };
-      if (match) match.push(item);
+      if (row) row.push(item);
       else rows.push([item]);
     }
-    const row = rows.find((candidate) =>
-      candidate.length >= 2 &&
-      Math.max(...candidate.map((item) => item.left)) -
-        Math.min(...candidate.map((item) => item.left)) >= 24,
+    const row = rows.find((items) =>
+      items.length >= 2 &&
+      Math.max(...items.map((item) => item.left)) -
+        Math.min(...items.map((item) => item.left)) >= 24,
     );
     if (!row) continue;
 
     const group = row.map((item) => item.panel);
     group.forEach((panel) => {
       panel.dataset.syncedActive = "true";
-      panel.tabIndex = 0; // Keyboard users can scroll each visible region.
+      panel.tabIndex = 0;
     });
     activeGroups.set(root, group);
-    alignPanels(group, progress);
+    group.forEach((panel) => {
+      const stops = measureKalamStops(panel);
+      if (stops) stopsByPanel.set(panel, stops);
+    });
+
+    const source = leader && group.includes(leader) ? leader : group[0];
+    const sourceStops = stopsByPanel.get(source);
+    if (sourceStops && oldSemantic !== undefined) {
+      setPosition(source, segmentOffsetAt(oldSemantic, sourceStops));
+    } else {
+      setPosition(source, scrollRange(source) * oldFraction);
+    }
+    syncFromPanel(group, source);
   }
 }
 
-/** Enable proportional scroll synchronization on lyric and Basta pages. */
+/** Initialize proportional scrolling on lyrics and both Basta readers. */
 export function initSyncedColumns(): void {
   const readingRoot = document.querySelector<HTMLElement>("[data-reading-root]");
   if (!readingRoot || readingRoot.dataset.syncedScrollReady === "true") return;
@@ -99,7 +205,7 @@ export function initSyncedColumns(): void {
       if (Math.abs(panel.scrollTop - expected) < 1) return;
     }
     lastScrolled.set(root, panel);
-    alignPanels(group, progressOf(panel), panel);
+    syncFromPanel(group, panel);
   }, true);
 
   const observer = new MutationObserver(schedule);
@@ -115,8 +221,7 @@ export function initSyncedColumns(): void {
   document.fonts.ready.then(schedule);
   document.fonts.addEventListener?.("loadingdone", schedule);
 
-  // content-visibility and lazy chunks can defer offscreen page layout; when
-  // a page enters the viewport, measure its columns at their actual widths.
+  // Streaming chunks and content-visibility defer offscreen page geometry.
   if ("IntersectionObserver" in window) {
     const observed = new WeakSet<HTMLElement>();
     const intersection = new IntersectionObserver((entries) => {
