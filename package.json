@@ -15,7 +15,8 @@
     "astro": "astro",
     "basta:index:sync": "node scripts/sync-basta-index.mjs --index-only",
     "basta:index:check": "node scripts/sync-basta-index.mjs --index-only --check",
-    "basta:breaks:rebuild": "node scripts/sync-basta-index.mjs --sync-breaks"
+    "basta:breaks:rebuild": "node scripts/sync-basta-index.mjs --sync-breaks",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

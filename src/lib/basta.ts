@@ -1,4 +1,6 @@
 // File role: Shared Basta data contracts and chunking helpers used by server routes, components, and the streaming reader client.
+import type { BastaStanzaStyle } from "./basta-text";
+
 export interface BastaIndexEntry {
   section?: string;
   sectionRoman?: string;
@@ -16,6 +18,7 @@ export interface BastaReaderPageData {
   imageOnly: boolean;
   urduText: string;
   romanText: string;
+  stanzaStyle: BastaStanzaStyle;
   hasRoman: boolean;
   showBreak: boolean;
 }

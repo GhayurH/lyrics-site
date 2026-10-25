@@ -8,6 +8,7 @@ import BastaParallelText from "../../components/BastaParallelText.astro";
 import BastaText from "../../components/BastaText.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
+import { getBastaKalamTypesForPage, getBastaStanzaStyleForPage } from "../../lib/basta-categories";
 import { loadBastaNavigationData, loadBastaRomanByPage } from "../../lib/basta-pages";
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
@@ -68,6 +69,7 @@ const {
 } = Astro.props as Props;
 
 const page = entry.data.page;
+const stanzaStyle = getBastaStanzaStyleForPage(page);
 const urduText = (entry.body ?? "").trim();
 const romanText = (romanEntry?.body ?? "").trim();
 const hasRomanText = romanText.length > 0;
@@ -93,6 +95,9 @@ const haalFilters = [
       .filter(Boolean),
   ),
 ];
+// Search facets use the same Basta taxonomy as homepage/category browsing,
+// including long poems continuing beyond their index entry's starting page.
+const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(page);
 ---
 
 <BaseLayout
@@ -125,6 +130,9 @@ const haalFilters = [
 
       <div class="pagefind-data" aria-hidden="true">
         <span data-pagefind-filter="collection">Basta</span>
+        {kalamTypeFilters.map((kalamType) => (
+          <span data-pagefind-filter="kalamType">{kalamType}</span>
+        ))}
         <span data-pagefind-meta="page">{page}</span>
         {bastaIndexSearchTerms && (
           <span data-pagefind-meta="searchTerms">{bastaIndexSearchTerms}</span>
@@ -185,6 +193,7 @@ const haalFilters = [
             urduText={urduText}
             romanText={romanText}
             variant="page"
+            stanzaStyle={stanzaStyle}
             page={page}
             showHeadings
           />
@@ -200,7 +209,7 @@ const haalFilters = [
             aria-label={`Urdu text of Basta page ${page}`}
           >
             <h2 class="basta-page-text-heading">Urdu text</h2>
-            <BastaText text={urduText} className="basta-urdu-text" />
+            <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} stanzaStyle={stanzaStyle} />
           </section>
         )
       }
@@ -218,6 +227,8 @@ const haalFilters = [
 
   <script>
     import { initReadingControls } from "../../client/reader-state";
+    import { initBastaVerseFitting } from "../../client/basta-verse-fitting";
     initReadingControls();
+    initBastaVerseFitting();
   </script>
 </BaseLayout>

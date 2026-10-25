@@ -2,6 +2,8 @@
 // File role: Browse landing route: groups published lyrics by Kalam Type and surfaces compact category previews plus the Basta entry point.
 import BaseLayout from "../layouts/BaseLayout.astro";
 import LyricList from "../components/LyricList.astro";
+import { groupBastaIndexByKalamType } from "../lib/basta-categories";
+import { loadBastaNavigationData } from "../lib/basta-pages";
 import {
   compareKalamTypes,
   slugifyKalamType,
@@ -12,10 +14,12 @@ import "../styles/home.css";
 const HOME_PREVIEW_COUNT = 5;
 const lyrics = await loadPublishedLyrics();
 const grouped = groupLyricsByKalamType(lyrics);
-
-const kalamTypes = [...grouped.entries()].sort(([a], [b]) =>
-  compareKalamTypes(a, b),
+const { availablePages } = await loadBastaNavigationData();
+const bastaByType = groupBastaIndexByKalamType(new Set(availablePages));
+const kalamTypes = [...new Set([...grouped.keys(), ...bastaByType.keys()])].sort(
+  compareKalamTypes,
 );
+const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => total + entries.length, 0);
 ---
 
 <BaseLayout
@@ -39,29 +43,34 @@ const kalamTypes = [...grouped.entries()].sort(([a], [b]) =>
         <p class="eyebrow">Browse</p>
         <h2 id="kalam-types-heading">Kalam Types</h2>
       </div>
-      <p>{lyrics.length} entries</p>
+      <p>{lyrics.length + bastaEntryCount} entries</p>
     </div>
 
     <div class="category-preview-stack">
       {
-        kalamTypes.map(([kalamType, entries]) => {
+        kalamTypes.map((kalamType) => {
+          const entries = grouped.get(kalamType) ?? [];
+          const bastaEntries = bastaByType.get(kalamType) ?? [];
+          const entryCount = entries.length + bastaEntries.length;
+          const previewLyricCount = Math.min(entries.length, HOME_PREVIEW_COUNT - (bastaEntries.length ? 1 : 0));
+          const previewEntries = entries.slice(0, previewLyricCount);
+          const previewBasta = bastaEntries.slice(0, HOME_PREVIEW_COUNT - previewEntries.length);
           const typeSlug = slugifyKalamType(kalamType);
-          const previewEntries = entries.slice(0, HOME_PREVIEW_COUNT);
           return (
             <section class="category-preview-section" id={typeSlug} aria-labelledby={`${typeSlug}-heading`}>
               <div class="category-preview-heading">
                 <div>
                   <h3 id={`${typeSlug}-heading`}>{kalamType}</h3>
-                  <p>{entries.length} {entries.length === 1 ? "entry" : "entries"}</p>
+                  <p>{entryCount} {entryCount === 1 ? "entry" : "entries"}</p>
                 </div>
                 <a class="button button-secondary category-see-all" href={`/categories/${typeSlug}/`}>
                   See all {kalamType}
                 </a>
               </div>
-              <LyricList lyrics={previewEntries} />
-              {entries.length > HOME_PREVIEW_COUNT && (
+              <LyricList lyrics={previewEntries} bastaEntries={previewBasta} />
+              {entryCount > HOME_PREVIEW_COUNT && (
                 <div class="category-preview-footer">
-                  <a href={`/categories/${typeSlug}/`}>See all {entries.length} {kalamType} →</a>
+                  <a href={`/categories/${typeSlug}/`}>See all {entryCount} {kalamType} →</a>
                 </div>
               )}
             </section>

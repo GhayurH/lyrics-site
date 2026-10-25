@@ -146,6 +146,7 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
 .lyric-card { position: relative; flex: 0 1 auto; width: fit-content; max-width: min(100%, 28rem); min-width: 0; }
 .lyric-card-link { display: flex; flex-direction: column; width: fit-content; max-width: 100%; min-width: 0; gap: 0.12rem; overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.65rem; padding: 0.62rem 2.75rem 0.58rem 0.78rem; background: var(--surface-background); text-decoration: none; }
 .lyric-card-link:hover { background: var(--tag-background); }
+.lyric-card-unsaveable .lyric-card-link { padding-inline-end: 0.78rem; }
 .lyric-card-link:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 .lyric-card-title, .lyric-card-roman { width: fit-content; max-width: 100%; }
 .lyric-card-title { font-size: 1.15rem; line-height: 2; }

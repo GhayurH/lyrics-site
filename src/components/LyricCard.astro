@@ -6,12 +6,13 @@ import FavoriteButton from "./FavoriteButton.astro";
 interface Props {
   lyric: LyricCardData;
   showKalamType?: boolean;
+  saveable?: boolean;
 }
 
-const { lyric, showKalamType = false } = Astro.props as Props;
+const { lyric, showKalamType = false, saveable = true } = Astro.props as Props;
 ---
 
-<li class="lyric-card">
+<li class:list={["lyric-card", !saveable && "lyric-card-unsaveable"]}>
   <a class="lyric-card-link" href={lyric.href}>
     <span class="lyric-card-title" lang={lyric.lang} dir={lyric.direction}>
       {lyric.title}
@@ -31,5 +32,5 @@ const { lyric, showKalamType = false } = Astro.props as Props;
     </span>
   </a>
 
-  <FavoriteButton lyricId={lyric.id} iconOnly className="lyric-card-save" />
+  {saveable && <FavoriteButton lyricId={lyric.id} iconOnly className="lyric-card-save" />}
 </li>
