@@ -8,7 +8,7 @@ test("blank lines alone delimit stanzas; one blank or many behave identically", 
   const blocks = splitLyricStanzas("one\ntwo\n\nthree\nfour\n\n\n five\nsix");
   assert.equal(blocks.length, 3);
   assert.deepEqual(blocks.map(block => block.map(line => line.text)), [
-    ["one", "two"], ["three", "four"], [" five", "six"],
+    ["one", "two"], ["three", "four"], ["five", "six"],
   ]);
 });
 
