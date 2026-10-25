@@ -133,6 +133,8 @@ The R2 bucket also has the custom domain `r2-assets.kalamarchive.com`. That host
 
 Do **not** replace normal content URLs with `r2-assets.kalamarchive.com` unless there is a specific architectural reason to do so.
 
+Cloudflare Pages preview hostnames (`*.lyrics-site.pages.dev`) do not match the production-only Cloud Connector host rules. The two rules in `public/_redirects` send missing `/images/*` and `/files/*` requests on Pages preview deployments to the same publicly accessible objects on `r2-assets.kalamarchive.com`. This is deliberately a **302 fallback**, not a rewrite of the content metadata. Keep the production Cloud Connector configuration in place. When testing a preview deployment, verify that its image URLs redirect successfully to R2; local Astro preview does not emulate Pages redirects.
+
 ### Local asset master
 
 The recommended local asset master is:
