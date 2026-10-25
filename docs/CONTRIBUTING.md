@@ -266,7 +266,7 @@ Browser-local persistence should use `src/client/storage.ts` rather than parsing
 
 ### Reading controls
 
-Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
+Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. On mobile the ordinary controls start collapsed, with a separate Options button; Focus mode continues to use its own Options controls. The site header hides on downscroll, returns on upscroll, and stays visible when the navigation menu is open. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
 
 `src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. The original scan follows whole-page percentage; stacked and single-language layouts remain ordinary document flows.
 
