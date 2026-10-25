@@ -106,10 +106,7 @@
 .lyric-neighbor-category { align-items: center; min-height: auto; color: var(--secondary-text); font-size: 0.78rem; font-weight: 700; text-align: center; }
 
 @media (max-width: 920px) {
-  .lyric-reading-grid[data-reading-mode="parallel"] { grid-template-areas: "urdu" "roman"; grid-template-columns: 1fr; }
-  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-urdu { display: block; grid-area: urdu; }
-  .lyric-reading-grid[data-reading-mode="parallel"] .lyric-reading-roman { display: block; grid-area: roman; border-top: 1px solid var(--border-colour); border-right: 0; }
-  .lyric-reading-grid[data-reading-mode="urdu"], .lyric-reading-grid[data-reading-mode="roman"] { grid-template-columns: 1fr; }
+  /* Edition layout is owned by reading-columns.css, not route breakpoints. */
   .lyric-neighbor-nav { grid-template-columns: 1fr 1fr; }
   .lyric-neighbor-category { grid-column: 1 / -1; grid-row: 2; }
 }

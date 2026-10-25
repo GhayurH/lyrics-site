@@ -52,6 +52,12 @@ export function initReadingControls(): void {
   const fontSelect = controls.querySelector<HTMLSelectElement>("[data-reading-font-size]");
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");
   const wrapCheck = controls.querySelector<HTMLInputElement>("[data-reading-wrap-verses]");
+  const regularOptions = controls.querySelector<HTMLButtonElement>("[data-reading-regular-options]");
+  regularOptions?.addEventListener("click", () => {
+    const expanded = controls.dataset.regularOptionsOpen !== "true";
+    controls.dataset.regularOptionsOpen = String(expanded);
+    regularOptions.setAttribute("aria-expanded", String(expanded));
+  });
 
   const applyPrefs = () => {
     // Legacy mode is retained for the original typographic/layout rules.

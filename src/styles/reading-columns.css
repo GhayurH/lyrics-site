@@ -188,3 +188,21 @@ html[data-reading-toc-open="true"] .reading-contents-button { background: var(--
 @media (orientation: landscape) and (max-height: 600px) {
   html:not([data-reading-focus="true"]) .reading-controls { position: static; box-shadow: none; }
 }
+
+/* Normal mobile reading has one small primary row; typography controls are opt-in. */
+.reading-regular-options-toggle {
+  min-height: 2.75rem; border: 1px solid var(--border-colour); border-radius: .55rem;
+  padding: .45rem .7rem; background: var(--surface-background); color: var(--primary-text);
+  font: inherit; font-size: .83rem; font-weight: 700; cursor: pointer;
+}
+html[data-reading-focus="true"] .reading-regular-options-toggle { display: none; }
+@media (min-width: 701px) { .reading-regular-options-toggle { display: none; } }
+@media (max-width: 700px) {
+  .reading-controls:not([data-regular-options-open="true"]) > .reading-control-group:not(.reading-view-control) { display: none; }
+  .reading-controls[data-regular-options-open="true"] > .reading-control-group:not(.reading-view-control) { display: grid; }
+  .reading-controls .reading-regular-options-toggle { grid-column: 2; grid-row: 1; }
+  .reading-controls .reading-focus-enter { grid-column: 1; grid-row: 1; width: 100%; }
+  .reading-controls .reading-view-control { grid-row: 2; }
+  html[data-reading-focus="true"] .reading-controls > .reading-control-group:not(.reading-view-control) { display: none; }
+  html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-control-group { display: grid; }
+}
