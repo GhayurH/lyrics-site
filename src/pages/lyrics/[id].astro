@@ -275,6 +275,19 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     </div>
 
     {
+      data.bastaPage && data.bastaNote && (
+        <aside class="lyric-basta-note" aria-label="Basta edition" data-pagefind-ignore>
+          {data.bastaNote === "original-selection"
+            ? "For the original selection, see "
+            : "For additional stanzas, see "}
+          <a href={`/basta/${data.bastaPage}/`}>
+            <cite>Basta</cite>, p. {data.bastaPage}
+          </a>.
+        </aside>
+      )
+    }
+
+    {
       data.tags.length > 0 && (
         <footer class="tag-list" data-pagefind-ignore>
           <span class="tag-list-label">Tags</span>

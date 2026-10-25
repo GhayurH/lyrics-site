@@ -41,6 +41,8 @@ Every lyric entry uses an explicit `kalamType` for its broad classification. Do 
 
 `haal` / `romanHaal`, poet, reciter, occasion, language, and tags are separate cross-cutting metadata and should not be overloaded to replace `kalamType`.
 
+To link a standalone kalam to its printed Basta edition, set both optional frontmatter fields: `bastaPage` (the printed page number) and `bastaNote` (`original-selection` or `additional-stanzas`). The lyric route renders the appropriate note beneath the reading panels. Keep these editorial cross-references out of the Urdu and Roman poetry text.
+
 ### Urdu and Roman lyrics
 
 When transcribing or correcting lyrics:
