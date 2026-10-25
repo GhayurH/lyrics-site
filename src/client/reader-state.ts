@@ -15,6 +15,7 @@ interface ReadingPrefs extends Record<string, unknown> {
   columnsByReader: Record<string, Edition[]>;
   fontSize: string;
   spacing: string;
+  wrapVerses: boolean;
 }
 
 /** Selected editions are saved per reader type, not imposed on unrelated pages. */
@@ -44,11 +45,13 @@ export function initReadingControls(): void {
     spacing:
       typeof saved.spacing === "string" && VALID_SPACINGS.has(saved.spacing)
         ? saved.spacing : "default",
+    wrapVerses: saved.wrapVerses === true,
   };
 
   let selected = selectedEditions(prefs.columnsByReader[kind], available, imageOnly);
   const fontSelect = controls.querySelector<HTMLSelectElement>("[data-reading-font-size]");
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");
+  const wrapCheck = controls.querySelector<HTMLInputElement>("[data-reading-wrap-verses]");
 
   const applyPrefs = () => {
     // Legacy mode is retained for the original typographic/layout rules.
@@ -56,9 +59,11 @@ export function initReadingControls(): void {
     root.dataset.readingColumns = selected.join(" ");
     root.dataset.fontSize = prefs.fontSize;
     root.dataset.lineSpacing = prefs.spacing;
+    root.dataset.wrapVerses = String(prefs.wrapVerses);
     for (const input of checks) input.checked = selected.includes(input.value as Edition);
     if (fontSelect) fontSelect.value = prefs.fontSize;
     if (spacingSelect) spacingSelect.value = prefs.spacing;
+    if (wrapCheck) wrapCheck.checked = prefs.wrapVerses;
     window.dispatchEvent(new Event("kalam:columns-changed"));
   };
   const storePrefs = () => writeRecord(STORAGE_KEYS.readingPrefs, prefs);
@@ -84,6 +89,12 @@ export function initReadingControls(): void {
   spacingSelect?.addEventListener("change", () => {
     if (!VALID_SPACINGS.has(spacingSelect.value)) return;
     prefs.spacing = spacingSelect.value;
+    storePrefs();
+    applyPrefs();
+  });
+
+  wrapCheck?.addEventListener("change", () => {
+    prefs.wrapVerses = wrapCheck.checked;
     storePrefs();
     applyPrefs();
   });
