@@ -31,7 +31,13 @@ export function initReadingProgress(): void {
         })
         .filter((entry) => entry.bottom > viewportTop - viewportHeight && entry.top < viewportTop + viewportHeight * 2);
       const page = pageAtReadingLine(pages, viewportTop, viewportHeight);
-      if (page) writeBastaPosition({ page, mode: "continuous" });
+      if (page) {
+        writeBastaPosition({ page, mode: "continuous" });
+        const label = document.querySelector<HTMLElement>("[data-reading-current-page]");
+        if (label) label.textContent = `Page ${page}`;
+        const link = document.querySelector<HTMLAnchorElement>("[data-open-current-page]");
+        if (link) link.href = `/basta/${page}/`;
+      }
     });
   };
   window.addEventListener("scroll", update, { passive: true });

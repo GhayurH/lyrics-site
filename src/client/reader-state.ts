@@ -24,6 +24,7 @@ export function initReadingControls(): void {
   const controls = document.querySelector<HTMLElement>("[data-reading-controls]");
   if (!root || !controls || controls.dataset.readingReady === "true") return;
   controls.dataset.readingReady = "true";
+  document.documentElement.dataset.readerEnhanced = "true";
 
   const kind = root.dataset.readerKind ?? "index";
   const imageOnly = root.dataset.imageOnly === "true";

@@ -230,3 +230,14 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
 
 /* Dynamically inserted resume links are hidden until a local reading position exists. */
 [data-resume-basta][hidden] { display: none !important; }
+
+/* Show a usable static reader, not inert JavaScript buttons, when scripting is unavailable. */
+html:not([data-reader-enhanced="true"]) .reading-controls { display: none; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; }
+}
+.site-header nav a { display: inline-flex; align-items: center; min-height: 2.75rem; }
+.theme-toggle { min-height: 2.75rem; }
+.lyric-card-link { padding-inline-end: 3.15rem; }
+.lyric-card-save { width: 2.6rem; height: 2.6rem; }
+.favorite-icon-button { min-width: 2.6rem; min-height: 2.6rem; }

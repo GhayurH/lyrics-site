@@ -89,6 +89,8 @@ const {
       <span class="reading-wrap-choice"><input type="checkbox" data-reading-wrap-verses /> Allow wrapping</span>
     </label>
   )}
+  {pageJump && <span class="reading-current-page" data-reading-current-page aria-live="off">Page —</span>}
+  {pageJump && <a class="reading-open-page" data-open-current-page href="/basta/">Page-by-page</a>}
   {pageJump && (
     <button class="reading-contents-button" type="button" data-reading-focus-contents aria-expanded="false">Contents</button>
   )}

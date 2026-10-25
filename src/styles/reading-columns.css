@@ -215,3 +215,9 @@ html[data-reading-focus="true"] .reading-regular-options-toggle { display: none;
   html[data-reading-focus="true"] .reading-controls > .reading-control-group:not(.reading-view-control) { display: none; }
   html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-control-group { display: grid; }
 }
+
+.reading-current-page { align-self: center; padding: .25rem .5rem; color: var(--secondary-text); font-size: .8rem; font-weight: 700; white-space: nowrap; }
+.reading-open-page { align-self: center; border-radius: .45rem; padding: .45rem .6rem; color: var(--primary-text); font-size: .83rem; text-underline-offset: .2em; }
+.reading-open-page:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+html[data-reading-focus="true"] .reading-controls > .reading-open-page { display: none; }
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-open-page { display: inline-flex; order: 3; pointer-events: auto; }
