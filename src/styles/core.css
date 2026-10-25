@@ -313,3 +313,17 @@ html:not([data-reader-enhanced="true"]) .reading-controls { display: none; }
 
 /* No-script guidance is real HTML rather than contents of a parser-dependent noscript. */
 html[data-js-available="true"] [data-requires-js] { display: none !important; }
+
+/* Hide the one-line mobile site header while reading down; restore on upscroll.
+   Transform retains document flow and avoids moving anchor positions. */
+@media (max-width: 700px) {
+  .site-header {
+    transition: transform 180ms ease, visibility 180ms ease;
+    will-change: transform;
+  }
+  html[data-mobile-header-hidden="true"] .site-header {
+    transform: translateY(calc(-100% - 2px));
+    visibility: hidden;
+    pointer-events: none;
+  }
+}

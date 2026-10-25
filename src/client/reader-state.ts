@@ -44,6 +44,24 @@ export function initReadingControls(): void {
 
   let selected = selectedEditions(prefs.columnsByReader[kind], available, imageOnly);
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");
+  const regularToggle = controls.querySelector<HTMLButtonElement>("[data-reading-regular-toggle]");
+  const regularIndicator = regularToggle?.querySelector<HTMLElement>("[data-reading-regular-indicator]");
+  const setRegularOptionsOpen = (open: boolean) => {
+    controls.dataset.regularOptionsOpen = String(open);
+    regularToggle?.setAttribute("aria-expanded", String(open));
+    regularToggle?.setAttribute("aria-label", open ? "Hide reading options" : "Show reading options");
+    if (regularIndicator) regularIndicator.textContent = open ? "▴" : "▾";
+  };
+  regularToggle?.addEventListener("click", () =>
+    setRegularOptionsOpen(controls.dataset.regularOptionsOpen !== "true"));
+  controls.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && controls.dataset.regularOptionsOpen === "true"
+        && document.documentElement.dataset.readingFocus !== "true") {
+      setRegularOptionsOpen(false);
+      regularToggle?.focus();
+    }
+  });
+  setRegularOptionsOpen(false);
 
   const applyPrefs = () => {
     // Legacy mode is retained for the original typographic/layout rules.

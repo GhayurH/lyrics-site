@@ -305,3 +305,48 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
     padding: 1.1rem 0 0;
   }
 }
+
+/* Mobile regular reading has one compact row by default. Focus mode owns its
+   own Options button and must not inherit the non-immersive visibility rules. */
+.reading-regular-toggle { display: none; }
+@media (max-width: 700px) {
+  html:not([data-reading-focus="true"]) .reading-controls {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    justify-items: stretch;
+  }
+  html:not([data-reading-focus="true"]) .reading-controls > .reading-focus-enter {
+    grid-column: 1; grid-row: 1;
+  }
+  html:not([data-reading-focus="true"]) .reading-controls > .reading-regular-toggle {
+    display: block;
+    grid-column: 2; grid-row: 1;
+    min-height: 2.75rem;
+    border: 1px solid var(--border-colour); border-radius: .5rem;
+    background: var(--surface-background); color: var(--primary-text);
+    font: inherit; font-size: .85rem; font-weight: 700;
+    cursor: pointer;
+  }
+  .reading-regular-toggle [data-reading-regular-indicator] { margin-inline-start: .3rem; }
+  html:not([data-reading-focus="true"]) .reading-controls:not([data-regular-options-open="true"])
+    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump) {
+    display: none !important;
+  }
+  html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"]
+    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump) {
+    grid-row: auto;
+  }
+  html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"] > .reading-view-control {
+    grid-column: 1 / -1;
+  }
+  html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"]
+    > .reading-control-group:not(.reading-view-control) {
+    grid-column: 1 / -1;
+  }
+  html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"] > .reading-page-jump {
+    grid-column: 1 / -1; justify-self: center;
+  }
+  html[data-reading-focus="true"] .reading-regular-toggle { display: none !important; }
+  html[data-mobile-header-hidden="true"]:not([data-reading-focus="true"]) .reading-controls {
+    top: .5rem;
+  }
+}
