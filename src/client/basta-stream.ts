@@ -23,6 +23,19 @@ function renderKalamBreak(): HTMLElement {
   return separator;
 }
 
+/** One scan renderer for image-only pages and synchronized parallel pages. */
+function renderOriginalImage(page: BastaReaderPageData, sync = false): HTMLElement {
+  const figure = element("figure", "basta-reader-original-image");
+  if (sync) figure.dataset.syncedScrollPanel = "";
+  const image = element("img");
+  image.src = page.originalImage;
+  image.alt = `Original scan of Basta page ${page.page}`;
+  image.loading = "lazy";
+  image.decoding = "async";
+  figure.append(image);
+  return figure;
+}
+
 function appendBastaVerses(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
   for (const line of layoutBastaKalam(value, indentStanzas, stanzaStyle)) {
     if (line.hidden) continue;
@@ -76,25 +89,10 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
   section.dataset.syncedScrollRoot = "";
 
   if (page.imageOnly) {
-    const figure = element("figure", "basta-reader-original-image");
-    const image = element("img");
-    image.src = page.originalImage;
-    image.alt = `Original scan of Basta page ${page.page}`;
-    image.loading = "lazy";
-    image.decoding = "async";
-    figure.append(image);
-    section.append(figure);
+    section.append(renderOriginalImage(page));
   } else if (page.hasRoman) {
     const grid = element("div", "basta-reader-page-grid basta-reader-page-grid-with-roman");
-    const figure = element("figure", "basta-reader-original-image");
-    figure.dataset.syncedScrollPanel = "";
-    const image = element("img");
-    image.src = page.originalImage;
-    image.alt = `Original scan of Basta page ${page.page}`;
-    image.loading = "lazy";
-    image.decoding = "async";
-    figure.append(image);
-    grid.append(figure, renderParallelText(page));
+    grid.append(renderOriginalImage(page, true), renderParallelText(page));
     section.append(grid);
   } else {
     const grid = element("div", "basta-reader-page-grid");
