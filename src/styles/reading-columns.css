@@ -121,6 +121,15 @@
   .basta-reader-flow:not([data-reading-columns~="image"]) .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "urdu"; }
   .basta-parallel-index-section { grid-template-areas: "urdu-heading" "urdu-table" "roman-heading" "roman-table"; grid-template-columns: minmax(0,1fr); }
   .basta-parallel-index-overall-headings { grid-template-areas: "urdu" "roman"; grid-template-columns: minmax(0,1fr); }
+  .basta-parallel-index-overall-headings > .basta-parallel-index-urdu,
+  .basta-parallel-index-overall-headings > .basta-parallel-index-roman,
+  .basta-parallel-index-section-heading,
+  .basta-parallel-index-table { padding-inline: 0; }
+  .basta-parallel-index-section-heading.basta-parallel-index-urdu,
+  .basta-parallel-index-section-heading.basta-parallel-index-roman { margin-block: .6rem; }
+  .basta-parallel-index-table.basta-parallel-index-roman { border-right: 0; }
+  .basta-reader-flow .basta-reader-page-no-roman .basta-reader-urdu { padding-inline: 0; border: 0; }
+
   .basta-parallel-index-section-heading.basta-parallel-index-urdu { grid-area: urdu-heading; }
   .basta-parallel-index-table.basta-parallel-index-urdu { grid-area: urdu-table; }
   .basta-parallel-index-section-heading.basta-parallel-index-roman { grid-area: roman-heading; }
