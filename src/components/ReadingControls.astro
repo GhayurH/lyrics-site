@@ -60,19 +60,6 @@ const {
       )}
     </div>
   </div>
-  {!imageOnly && <button type="button" class="reading-regular-options-toggle" data-reading-regular-options aria-expanded="false">Text options</button>}
-
-  {!imageOnly && (
-    <label class="reading-control-group">
-      <span class="reading-control-label">Text size</span>
-      <select data-reading-font-size>
-        <option value="small">Small</option>
-        <option value="default" selected>Default</option>
-        <option value="large">Large</option>
-        <option value="xlarge">Extra large</option>
-      </select>
-    </label>
-  )}
   {!imageOnly && (
     <label class="reading-control-group">
       <span class="reading-control-label">Line spacing</span>
@@ -81,12 +68,6 @@ const {
         <option value="default" selected>Default</option>
         <option value="relaxed">Relaxed</option>
       </select>
-    </label>
-  )}
-  {!imageOnly && (
-    <label class="reading-control-group reading-wrap-control">
-      <span class="reading-control-label">Long verses</span>
-      <span class="reading-wrap-choice"><input type="checkbox" data-reading-wrap-verses /> Allow wrapping</span>
     </label>
   )}
   {pageJump && <span class="reading-current-page" data-reading-current-page aria-live="off">Page —</span>}

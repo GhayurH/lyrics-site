@@ -1,4 +1,4 @@
-// File role: Shared browser controller for independent edition visibility, typography, and reading preferences.
+// File role: Shared browser controller for edition visibility and line-spacing preferences.
 import {
   STORAGE_KEYS,
   readRecord,
@@ -8,14 +8,11 @@ import {
 import { initReadingFocus } from "./reading-focus";
 
 import { isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
-const VALID_FONT_SIZES = new Set(["small", "default", "large", "xlarge"]);
 const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
 
 interface ReadingPrefs extends Record<string, unknown> {
   columnsByReader: Record<string, Edition[]>;
-  fontSize: string;
   spacing: string;
-  wrapVerses: boolean;
 }
 
 /** Selected editions are saved per reader type, not imposed on unrelated pages. */
@@ -40,37 +37,21 @@ export function initReadingControls(): void {
 
   const prefs: ReadingPrefs = {
     columnsByReader,
-    fontSize:
-      typeof saved.fontSize === "string" && VALID_FONT_SIZES.has(saved.fontSize)
-        ? saved.fontSize : "default",
     spacing:
       typeof saved.spacing === "string" && VALID_SPACINGS.has(saved.spacing)
         ? saved.spacing : "default",
-    wrapVerses: saved.wrapVerses === true,
   };
 
   let selected = selectedEditions(prefs.columnsByReader[kind], available, imageOnly);
-  const fontSelect = controls.querySelector<HTMLSelectElement>("[data-reading-font-size]");
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");
-  const wrapCheck = controls.querySelector<HTMLInputElement>("[data-reading-wrap-verses]");
-  const regularOptions = controls.querySelector<HTMLButtonElement>("[data-reading-regular-options]");
-  regularOptions?.addEventListener("click", () => {
-    const expanded = controls.dataset.regularOptionsOpen !== "true";
-    controls.dataset.regularOptionsOpen = String(expanded);
-    regularOptions.setAttribute("aria-expanded", String(expanded));
-  });
 
   const applyPrefs = () => {
     // Legacy mode is retained for the original typographic/layout rules.
     root.dataset.readingMode = readingModeFromEditions(selected);
     root.dataset.readingColumns = selected.join(" ");
-    root.dataset.fontSize = prefs.fontSize;
     root.dataset.lineSpacing = prefs.spacing;
-    root.dataset.wrapVerses = String(prefs.wrapVerses);
     for (const input of checks) input.checked = selected.includes(input.value as Edition);
-    if (fontSelect) fontSelect.value = prefs.fontSize;
     if (spacingSelect) spacingSelect.value = prefs.spacing;
-    if (wrapCheck) wrapCheck.checked = prefs.wrapVerses;
     window.dispatchEvent(new Event("kalam:columns-changed"));
   };
   const storePrefs = () => writeRecord(STORAGE_KEYS.readingPrefs, prefs);
@@ -87,21 +68,9 @@ export function initReadingControls(): void {
       applyPrefs();
     });
   }
-  fontSelect?.addEventListener("change", () => {
-    if (!VALID_FONT_SIZES.has(fontSelect.value)) return;
-    prefs.fontSize = fontSelect.value;
-    storePrefs();
-    applyPrefs();
-  });
   spacingSelect?.addEventListener("change", () => {
     if (!VALID_SPACINGS.has(spacingSelect.value)) return;
     prefs.spacing = spacingSelect.value;
-    storePrefs();
-    applyPrefs();
-  });
-
-  wrapCheck?.addEventListener("change", () => {
-    prefs.wrapVerses = wrapCheck.checked;
     storePrefs();
     applyPrefs();
   });
