@@ -2,11 +2,12 @@
 :is(.lyric-page, .basta-page, .basta-reader, .basta-index-page) { container: reader-shell / inline-size; }
 .reading-controls { justify-content: center; }
 .reading-focus-enter { margin-inline: 0; }
-.reading-column-choices { display: flex; flex-wrap: wrap; overflow: hidden; border: 1px solid var(--border-colour); border-radius: .55rem; }
-.reading-column-choice { display: flex; align-items: center; position: relative; min-height: 2.75rem; border-inline-end: 1px solid var(--border-colour); cursor: pointer; }
+/* Each selection's *entire* cell (not just the text) is its checked surface. */
+.reading-column-choices { display: flex; flex-wrap: nowrap; overflow: hidden; width: 100%; border: 1px solid var(--border-colour); border-radius: .55rem; }
+.reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: 2.75rem; border-inline-end: 1px solid var(--border-colour); cursor: pointer; }
 .reading-column-choice:last-child { border-inline-end: 0; }
-.reading-column-choice input { position: absolute; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
-.reading-column-choice span { display: block; padding: .5rem .85rem; font-size: .85rem; font-weight: 700; }
+.reading-column-choice input { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+.reading-column-choice span { display: flex; flex: 1 1 auto; align-items: center; justify-content: center; width: 100%; min-width: 0; min-height: 2.75rem; padding: .5rem .35rem; font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; }
 .reading-column-choice input:checked + span { background: var(--button-background); color: var(--button-text); }
 .reading-column-choice input:focus-visible + span { outline: var(--focus-ring); outline-offset: -3px; }
 .reading-page-jump { display: flex; align-items: center; gap: .4rem; }
@@ -264,4 +265,43 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
     grid-template-columns: minmax(0, 1fr);
   }
   .basta-parallel-index-table.basta-parallel-index-roman { border-inline-end: 0; }
+}
+
+/* On mobile portrait, page-by-page Basta has one *full-width* language panel
+   per row. The printed scan, if selected, also spans the complete width.
+   Explicit placement prevents later shared grid rules leaving two half-width
+   cells while merely moving the second language to another row. */
+@media (max-width: 700px) and (orientation: portrait) {
+  .basta-page-grid[data-reading-root].basta-page-grid-with-roman {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  .basta-page-grid[data-reading-root].basta-page-grid-with-roman[data-reading-columns~="image"] {
+    grid-template-areas: "scan" "text" !important;
+  }
+  .basta-page-grid[data-reading-root].basta-page-grid-with-roman:not([data-reading-columns~="image"]) {
+    grid-template-areas: "text" !important;
+  }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .basta-parallel-kalams-page {
+    display: grid;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .basta-parallel-kalams-page > .basta-page-urdu {
+    grid-area: 1 / 1 !important;
+    min-width: 0;
+    border: 0;
+    border-bottom: 1px solid var(--border-colour);
+    padding: 0 0 1.1rem;
+  }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .basta-parallel-kalams-page > .basta-page-roman {
+    grid-area: 2 / 1 !important;
+    min-width: 0;
+    border: 0;
+    padding: 1.1rem 0 0;
+  }
 }
