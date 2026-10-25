@@ -15,7 +15,7 @@ const stanzas = splitLyricStanzas(text);
   {stanzas.map((stanza) => (
     <div class="lyric-stanza">
       {stanza.map((line) => (
-        <span class={line.number ? "lyric-stanza-number" : "lyric-verse"}>{line.text}</span>
+        <span class={line.number ? "lyric-stanza-number poetry-stanza-number" : "lyric-verse"}>{line.text}</span>
       ))}
     </div>
   ))}

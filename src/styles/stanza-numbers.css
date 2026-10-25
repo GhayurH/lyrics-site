@@ -1,0 +1,27 @@
+/* File role: Shared printed-book-like circular stanza counters for Basta and standalone lyrics. */
+/* Specificity exceeds per-reader line display rules without affecting poetry fitting. */
+.basta-verse-line.poetry-stanza-number,
+.lyric-stanza-number.poetry-stanza-number {
+  box-sizing: border-box;
+  display: flex;
+  inline-size: 2.15em;
+  block-size: 2.15em;
+  min-inline-size: 0;
+  padding: 0;
+  margin-block: 0.7em 0.5em;
+  margin-inline: auto;
+  border: 1px solid var(--secondary-text);
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary-text);
+  font-family: "Noto Naskh Arabic", "Noto Nastaliq Urdu", system-ui, sans-serif;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  text-align-last: center;
+  white-space: nowrap;
+  direction: ltr;
+  unicode-bidi: isolate;
+}

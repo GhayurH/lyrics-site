@@ -1,4 +1,5 @@
 // File role: Preserve non-Basta lyric stanza boundaries exactly as blank lines in the source.
+import { parseStanzaNumber } from "./stanza-numbers";
 export interface LyricDisplayLine {
   text: string;
   number: boolean;
@@ -6,7 +7,7 @@ export interface LyricDisplayLine {
 
 /** A stanza number occupies its entire source line; inline digits are poetry. */
 export function isLyricStanzaNumber(line: string): boolean {
-  return /^[0-9٠-٩۰-۹]+[.)۔-]?$/.test(line.trim());
+  return parseStanzaNumber(line) !== null;
 }
 
 export function splitLyricStanzas(text: string): LyricDisplayLine[][] {
@@ -14,5 +15,8 @@ export function splitLyricStanzas(text: string): LyricDisplayLine[][] {
     .filter(block => block.trim().length > 0)
     .map(block => block.split("\n")
       .filter(line => line.trim().length > 0)
-      .map(line => ({ text: line.trimEnd(), number: isLyricStanzaNumber(line) })));
+      .map(line => {
+        const number = parseStanzaNumber(line);
+        return { text: number ?? line.trimEnd(), number: number !== null };
+      }));
 }

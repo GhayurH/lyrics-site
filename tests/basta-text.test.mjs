@@ -361,3 +361,33 @@ test("a forced two-verse poem still alternates indents instead of six-verse fram
   ]);
   assert.ok(lines.every(line => !line.sixClosing));
 });
+
+
+test("Basta Urdu and Roman stanza numbers render with the common circle class", () => {
+  for (const language of ["pages", "roman"]) {
+    const markdown = readFileSync(new URL("../src/data/basta/" + language + "/200.md", import.meta.url), "utf8");
+    const body = markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+    const [first, second] = splitBastaKalams(body);
+    for (const kalam of [first, second]) {
+      const numbers = layoutBastaKalam(kalam).filter(line => line.stanzaNumber);
+      assert.ok(numbers.length > 0);
+      assert.ok(numbers.every(line => bastaVerseClassNames(line).includes("poetry-stanza-number")));
+      assert.ok(numbers.every(line => !bastaVerseClassNames(line).includes("basta-verse-poetry")));
+    }
+  }
+});
+
+test("Basta circle counter strips punctuation but does not change verse numeral text", () => {
+  const lines = layoutBastaKalam("۱.\nایک مصرع\nدوسرا مصرع");
+  assert.equal(lines[0].stanzaNumber, "۱");
+  assert.equal(lines[0].text, "۱");
+  assert.ok(bastaVerseClassNames(lines[0]).includes("poetry-stanza-number"));
+  assert.ok(!lines[1].stanzaNumber);
+  assert.equal(lines[1].text, "ایک مصرع");
+});
+
+test("prose-mode Basta pages still mark standalone stanza numbers", () => {
+  const lines = layoutBastaKalam("3\nword one\nword two", false);
+  assert.equal(lines[0].stanzaNumber, "3");
+  assert.ok(bastaVerseClassNames(lines[0]).includes("poetry-stanza-number"));
+});

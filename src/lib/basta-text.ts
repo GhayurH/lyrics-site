@@ -1,4 +1,6 @@
 // File role: Shared Basta text helpers for detecting the explicit between-kalam marker and rendering each kalam as a separate text block.
+import { parseStanzaNumber } from "./stanza-numbers";
+
 export const BASTA_KALAM_BREAK = "---***---";
 
 export function splitBastaKalams(text: string): string[] {
@@ -30,6 +32,7 @@ export type BastaStanzaStyle = "auto" | "couplet";
 
 export interface BastaDisplayLine {
   text: string;
+  stanzaNumber?: string;
   indent: boolean;
   /** Inset the end of the first line, opposite the second line's indent. */
   reverseIndent?: boolean;
@@ -50,7 +53,7 @@ export interface BastaDisplayLine {
 }
 
 function isStanzaNumber(line: string): boolean {
-  return /^[0-9٠-٩۰-۹]+[.)۔-]?$/.test(line.trim());
+  return parseStanzaNumber(line) !== null;
 }
 
 function isCreditLine(line: string): boolean {
@@ -75,7 +78,15 @@ export function layoutBastaKalam(
   style: BastaStanzaStyle = "auto",
 ): BastaDisplayLine[] {
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
-  const display = lines.map((line) => ({ text: line, indent: false, verse: false }));
+  const display = lines.map((line) => {
+    const stanzaNumber = parseStanzaNumber(line);
+    return {
+      text: stanzaNumber ?? line,
+      stanzaNumber: stanzaNumber ?? undefined,
+      indent: false,
+      verse: false,
+    };
+  });
   if (!indentStanzas) return display;
 
   const blocks: Array<{ start: number; end: number }> = [];
@@ -247,6 +258,7 @@ export function layoutBastaKalam(
 export function bastaVerseClassNames(line: BastaDisplayLine): string {
   return [
     "basta-verse-line",
+    line.stanzaNumber && "poetry-stanza-number",
     line.indent && "basta-verse-indent",
     line.reverseIndent && "basta-verse-reverse-indent",
     (line.verse || line.title) && "basta-verse-poetry",

@@ -30,3 +30,14 @@ test("real Urdu non-Basta Markdown retains numbered stanzas and source breaks", 
   assert.deepEqual(stanzas.slice(1).map(block => block[0].text), ["۱", "۲", "۳", "۴", "۵"]);
   assert.ok(stanzas.slice(1).every(block => block.length >= 3));
 });
+
+
+test("non-Basta Urdu and Roman standalone stanza numbering is circle-ready", () => {
+  const urdu = splitLyricStanzas("۱.\nاردو مصرع\nاردو مصرع\n\n۲\nاور مصرع");
+  const roman = splitLyricStanzas("1)\nRoman line\nRoman line\n\n2\nOther line");
+  assert.deepEqual(urdu.map(block => block[0].text), ["۱", "۲"]);
+  assert.deepEqual(roman.map(block => block[0].text), ["1", "2"]);
+  assert.ok(urdu.every(block => block[0].number));
+  assert.ok(roman.every(block => block[0].number));
+  assert.ok(!urdu[0][1].number && !roman[0][1].number);
+});
