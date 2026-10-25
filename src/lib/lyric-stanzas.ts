@@ -1,5 +1,5 @@
 // File role: Preserve non-Basta lyric stanza boundaries exactly as blank lines in the source.
-import { parseStanzaNumber } from "./stanza-numbers";
+import { parseStanzaNumber } from "./stanza-numbers.ts";
 export interface LyricDisplayLine {
   text: string;
   number: boolean;

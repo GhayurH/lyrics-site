@@ -1,5 +1,5 @@
 // File role: Shared Basta text helpers for detecting the explicit between-kalam marker and rendering each kalam as a separate text block.
-import { parseStanzaNumber } from "./stanza-numbers";
+import { parseStanzaNumber } from "./stanza-numbers.ts";
 
 export const BASTA_KALAM_BREAK = "---***---";
 
