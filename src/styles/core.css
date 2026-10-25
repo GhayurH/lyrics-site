@@ -127,6 +127,33 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
   cursor: pointer;
 }
 .theme-toggle { padding: 0.45rem 0.75rem; }
+/* Both themes use a fixed-size icon button; the action remains screen-reader labelled. */
+.theme-toggle, .mobile-nav-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 2.75rem;
+  width: 2.75rem;
+  min-width: 2.75rem;
+  height: 2.75rem;
+  min-height: 2.75rem;
+  padding: .55rem;
+}
+.mobile-nav-toggle {
+  display: none;
+  border: 1px solid var(--border-colour);
+  border-radius: .55rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  cursor: pointer;
+}
+.mobile-nav-toggle:hover { background: var(--tag-background); }
+:is(.theme-toggle, .mobile-nav-toggle) svg { width: 1.3rem; height: 1.3rem; flex-shrink: 0; }
+.theme-icon-moon { display: none; }
+html[data-theme="light"] .theme-icon-sun { display: none; }
+html[data-theme="light"] .theme-icon-moon { display: block; }
+.mobile-nav-toggle:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+
 .favorite-button, .text-button { padding: 0.48rem 0.72rem; font-size: 0.82rem; font-weight: 700; line-height: 1.2; }
 .theme-toggle:hover, .favorite-button:hover, .text-button:hover { background: var(--tag-background); }
 .favorite-button[aria-pressed="true"], .favorite-button[data-saved="true"] { background: var(--button-background); color: var(--button-text); }
@@ -164,16 +191,55 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
 .reading-control-group { display: grid; gap: 0.35rem; }
 .reading-control-label { color: var(--secondary-text); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; }
 .reading-controls select { min-height: 2.25rem; border: 1px solid var(--border-colour); border-radius: 0.48rem; padding: 0.35rem 2rem 0.35rem 0.55rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: 0.82rem; }
- @media (max-width: 700px) {
-  .site-header { position: static; }
-  .header-inner { align-items: flex-start; flex-direction: column; gap: 0.75rem; }
-  .header-actions { width: 100%; justify-content: space-between; }
-  .header-actions, .header-actions nav { flex-wrap: wrap; }
+@media (max-width: 700px) {
+  /* Title, menu, and appearance are a single-height mobile toolbar. */
+  .site-header { position: sticky; top: 0; }
+  .header-inner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: .5rem;
+    min-height: 3.5rem;
+    padding: .45rem .8rem;
+  }
+  .site-title { min-width: 0; white-space: nowrap; font-size: clamp(.98rem, 4vw, 1.2rem); }
+  .header-actions { width: auto; flex: 0 0 auto; align-items: center; gap: .4rem; flex-wrap: nowrap; }
+  .mobile-nav-toggle { display: inline-flex; }
+  html[data-js-available="true"] .site-header nav {
+    display: none;
+    position: absolute;
+    top: calc(100% + 1px);
+    left: .5rem;
+    right: .5rem;
+    z-index: 30;
+    flex-direction: column;
+    align-items: stretch;
+    gap: .2rem;
+    margin: 0;
+    border: 1px solid var(--border-colour);
+    border-radius: .7rem;
+    padding: .4rem;
+    background: var(--surface-background);
+    box-shadow: 0 .7rem 1.4rem rgb(0 0 0 / .22);
+  }
+  html[data-js-available="true"][data-mobile-nav-open="true"] .site-header nav { display: flex; }
+  .site-header nav a { min-height: 2.75rem; padding: .6rem .7rem; }
+  html:not([data-js-available="true"]) .header-inner { flex-wrap: wrap; }
+  html:not([data-js-available="true"]) .site-header nav {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: .3rem;
+    order: 3;
+  }
+  html:not([data-js-available="true"]) .header-actions { flex-wrap: wrap; }
+  html:not([data-js-available="true"]) .mobile-nav-toggle { display: none; }
 
   /* Compact, always-reachable controls for long reading pages. */
   .reading-controls {
     position: sticky;
-    top: 0.5rem;
+    top: 3.85rem;
     z-index: 15;
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));

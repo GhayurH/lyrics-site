@@ -33,6 +33,37 @@ function syncFavoriteButtons(): void {
     });
 }
 
+function initMobileNavigation(): void {
+  const root = document.documentElement;
+  const button = document.querySelector<HTMLButtonElement>("#mobile-nav-toggle");
+  const navigation = document.querySelector<HTMLElement>("#site-navigation");
+  if (!button || !navigation) return;
+
+  const setOpen = (open: boolean) => {
+    root.dataset.mobileNavOpen = String(open);
+    button.setAttribute("aria-expanded", String(open));
+    button.setAttribute("aria-label", open ? "Close navigation" : "Open navigation");
+    button.title = open ? "Close navigation" : "Open navigation";
+  };
+  button.addEventListener("click", () => setOpen(root.dataset.mobileNavOpen !== "true"));
+  navigation.addEventListener("click", (event) => {
+    if (event.target instanceof Element && event.target.closest("a")) setOpen(false);
+  });
+  document.addEventListener("pointerdown", (event) => {
+    if (root.dataset.mobileNavOpen !== "true") return;
+    if (event.target instanceof Node && !event.target.parentElement?.closest(".site-header")) setOpen(false);
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && root.dataset.mobileNavOpen === "true") {
+      setOpen(false);
+      button.focus();
+    }
+  });
+  window.matchMedia("(min-width: 701px)").addEventListener("change", (event) => {
+    if (event.matches) setOpen(false);
+  });
+}
+
 function initThemeToggle(): void {
   const root = document.documentElement;
   const button = document.querySelector<HTMLButtonElement>("#theme-toggle");
@@ -40,7 +71,10 @@ function initThemeToggle(): void {
 
   const updateButton = () => {
     const darkMode = root.dataset.theme === "dark";
-    button.textContent = darkMode ? "Light mode" : "Dark mode";
+    const actionLabel = darkMode ? "Light mode" : "Dark mode";
+    const srLabel = button.querySelector<HTMLElement>("[data-theme-toggle-label]");
+    if (srLabel) srLabel.textContent = actionLabel;
+    button.title = `Switch to ${darkMode ? "light" : "dark"} mode`;
     button.setAttribute(
       "aria-label",
       darkMode ? "Switch to light mode" : "Switch to dark mode",
@@ -67,6 +101,7 @@ export function initSiteShell(): void {
   root.dataset.siteClientReady = "true";
 
   initThemeToggle();
+  initMobileNavigation();
   syncFavoriteButtons();
 
   document.addEventListener("click", (event) => {
