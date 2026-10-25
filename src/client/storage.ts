@@ -3,6 +3,7 @@ export const STORAGE_KEYS = {
   favorites: "kalam:favorites",
   recent: "kalam:recent",
   readingPrefs: "kalam:reading-prefs",
+  bastaPosition: "kalam:basta-position",
 } as const;
 
 export function readStringList(key: string): string[] {
@@ -78,4 +79,19 @@ export function recordRecentLyric(id: string, limit = 20): string[] {
   const bounded = recent.slice(0, limit);
   writeStringList(STORAGE_KEYS.recent, bounded);
   return bounded;
+}
+
+/** Last visited Basta page, retained locally without storing individual reading activity. */
+export interface BastaPosition { page: number; mode: "page" | "continuous" }
+export function readBastaPosition(): BastaPosition | undefined {
+  const value = readRecord(STORAGE_KEYS.bastaPosition);
+  if (typeof value.page !== "number" || !Number.isSafeInteger(value.page) || value.page < 1 || value.page > 1000) return;
+  if (value.mode !== "page" && value.mode !== "continuous") return;
+  return { page: value.page, mode: value.mode };
+}
+export function writeBastaPosition(position: BastaPosition): void {
+  const current = readBastaPosition();
+  if (current?.page === position.page && current.mode === position.mode) return;
+  writeRecord(STORAGE_KEYS.bastaPosition, position);
+  window.dispatchEvent(new Event("kalam:reading-progress"));
 }

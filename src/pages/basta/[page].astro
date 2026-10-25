@@ -233,9 +233,11 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
     import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initScanViewer } from "../../client/scan-viewer";
+    import { initReadingProgress } from "../../client/reading-progress";
     initReadingControls();
     initVerseFitting();
     initScanViewer();
+    initReadingProgress();
     initSyncedColumns();
   </script>
 </BaseLayout>

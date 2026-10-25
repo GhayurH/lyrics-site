@@ -38,6 +38,11 @@ import "../styles/saved.css";
       <ul id="favorites-list" class="lyric-list saved-lyric-list" aria-live="polite"></ul>
     </section>
 
+    <section class="saved-section" aria-labelledby="continue-basta-heading">
+      <div class="section-heading"><h2 id="continue-basta-heading">Continue reading</h2></div>
+      <p><a data-resume-basta href="/basta/" hidden>Continue Basta</a></p>
+    </section>
+
     <section class="saved-section" aria-labelledby="recent-heading">
       <div class="section-heading saved-section-heading">
         <div>
@@ -55,6 +60,8 @@ import "../styles/saved.css";
 
   <script>
     import { initSavedLibrary } from "../client/saved-library";
+    import { initResumeBasta } from "../client/reading-progress";
     void initSavedLibrary();
+    initResumeBasta();
   </script>
 </BaseLayout>
