@@ -123,4 +123,3 @@ test("header still retracts after tapping the theme button", async ({ page }) =>
   await page.evaluate(() => window.scrollBy({ top: -125, behavior: "instant" }));
   await expect(page.locator(".site-header")).toBeVisible();
 });
-
