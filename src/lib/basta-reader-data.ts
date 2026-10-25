@@ -1,6 +1,7 @@
 // File role: Server-only Basta reader loader: joins Urdu/Roman collections once and produces streamable page chunks around the physical index gap.
 import { getCollection } from "astro:content";
 import settings from "../data/basta/settings.json";
+import { getBastaStanzaStyleForPage } from "./basta-categories";
 import {
   chunkBastaPages,
   type BastaReaderChunk,
@@ -34,6 +35,7 @@ export async function loadBastaReaderDataset(): Promise<BastaReaderDataset> {
       imageOnly: entry.data.imageOnly,
       urduText: (entry.body ?? "").trim(),
       romanText,
+      stanzaStyle: getBastaStanzaStyleForPage(entry.data.page),
       hasRoman: romanText.length > 0,
       showBreak: entry.data.page !== lastVisiblePage,
     };
