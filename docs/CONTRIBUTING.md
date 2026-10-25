@@ -266,13 +266,13 @@ Browser-local persistence should use `src/client/storage.ts` rather than parsing
 
 ### Reading controls
 
-Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. Do not reimplement mode/text-size/spacing persistence inside an individual route.
+Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. Do not reimplement edition selection, typography, wrapping, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
 
 `src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. The original scan follows whole-page percentage; stacked and single-language layouts remain ordinary document flows.
 
 ### Basta layouts and streaming
 
-Basta pages may contain scan only, scan + Urdu, or scan + Urdu + Roman. When changing grid rules, test both desktop and narrow/mobile layouts.
+Basta pages may contain scan only, scan + Urdu, or scan + Urdu + Roman. Reader grid rules belong to `reading-columns.css` and must adapt to the container's usable width, not whether a device happens to be in landscape. Test portrait/landscape, narrow/wide containers, and Focus mode for all combinations. Preserve the missing-Roman scan fallback and the image enlargement link contract.
 
 The continuous reader uses pre-rendered eight-page JSON chunks. If changing chunk behavior, preserve:
 
@@ -307,3 +307,7 @@ Review the diff before committing. For asset changes, verify that the correspond
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
+
+### Browser validation for UI changes
+
+In addition to `npm test` and `npm run build`, reader layout changes require `npx playwright test` after installing `@playwright/test` and the Chromium browser. The GitHub Actions workflow runs this automatically on the feature branch and pull requests. Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, the continuous reader's deep links/Contents panel, and Focus-mode exit. Do not allow an original-scan link to stop working without JavaScript.

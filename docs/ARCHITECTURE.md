@@ -34,7 +34,9 @@ Browser code lives here rather than in a generic `scripts/` directory. This prev
 - `search.ts` owns Pagefind URL synchronization and active-filter chips.
 - `basta-stream.ts` owns progressive continuous-reader chunk loading.
 - `synced-columns.ts` synchronizes visible side-by-side Urdu, Roman, and scan panels; for Basta text, matching kalam breaks anchor per-kalam proportional progress.
-- `verse-fitting.ts` measures and fits individual poetry lines without wrapping them.
+- `verse-fitting.ts` fits couplets/stanzas only near the viewport, respecting the readability floors in `src/lib/verse-fit.ts`; optional wrapping is a persisted preference.
+- `reading-progress.ts` records the current Basta page locally and populates resume/current-page links.
+- `scan-viewer.ts` provides an accessible image dialog and preserves native image links when scripting is unavailable.
 
 ### CSS ownership
 
@@ -62,7 +64,7 @@ Any future card fields should be added to `LyricCardData` first.
 
 Normal lyrics, page-by-page Basta, the linked Basta index, and the continuous reader all use `ReadingControls.astro` and `src/client/reader-state.ts`. Reader preferences are stored under one browser key and should not be reimplemented route-by-route.
 
-On narrow screens the reading controls become a compact sticky toolbar so mode, size, and spacing stay reachable during long readings.
+On narrow screens the reading controls become a compact sticky toolbar with expandable text settings. Edition availability and text-first defaults are rendered into the HTML so the static page is legible without JavaScript. Width-based edition layout is centralized in `reading-columns.css` using CSS container queries, not per-route device-orientation overrides.
 
 Basta kalam boundaries come from the explicit `---***---` marker in page Markdown and are never inferred from stanza lengths. The two editions render separate, naturally sized kalam blocks; the client synchronizes their scroll positions by matching kalam number plus fraction within that kalam. Scan images are synchronized using their overall scroll percentage. Synchronization activates only for panels that appear side by side; stacked and single-language modes use ordinary flow. Standalone lyrics use page-wide proportional scrolling. This keeps the short ending *Bain* on page 138 aligned without requiring the shorter Roman text to occupy artificial whitespace.
 
@@ -92,7 +94,7 @@ Keep chunk size conservative. Larger chunks reduce requests but increase parse/r
 
 ## Validation
 
-`npm test` runs the Node regression suite; the `prebuild` npm hook runs it again before every production build, including Cloudflare Pages deployments. The tests cover text parsing, source stanza boundaries, proportional scrolling, and explicit multi-kalam alignment on Basta page 138.
+`npm test` runs the Node regression suite; `prebuild` runs it again before each production build. The tests cover text parsing, stanza boundaries, proportional scrolling, and verse-fitting math. `.github/workflows/reader-validation.yml` additionally executes a production build and Playwright Chromium browser smoke tests, including no-JavaScript rendering, portrait/landscape geometry, Focus mode, and streamed page navigation.
 
 ## Repository hygiene
 
@@ -102,4 +104,12 @@ The Basta landing page and pager share `src/client/basta-navigation.ts` for page
 
 ## Immersive readers
 
-The shared `ReadingControls.astro` component renders independently selectable editions, optional page jump, and Reading Mode actions. `src/client/reader-state.ts` stores per-reader edition choices and common typography preferences; `src/client/reading-focus.ts` handles the browser history, reading viewport, mobile scroll-to-top, and fullscreen API. The presentation rules are separated into `src/styles/reading-focus.css` for the immersive shell and `src/styles/reading-columns.css` for edition combinations and responsive grids. Basta's server-rendered and streamed pages expose the same page/edition attributes, and `synced-columns.ts` reacts to edition changes without disturbing semantic kalam boundaries.
+The shared `ReadingControls.astro` component renders independently selectable editions, optional page jump, and Focus mode actions. `src/client/reader-state.ts` stores per-reader edition choices and common typography preferences; `src/client/reading-focus.ts` handles the browser history, reading viewport, mobile scroll-to-top, and fullscreen API. The presentation rules are separated into `src/styles/reading-focus.css` for the immersive shell and `src/styles/reading-columns.css` for edition combinations and responsive grids. Basta's server-rendered and streamed pages expose the same page/edition attributes, and `synced-columns.ts` reacts to edition changes without disturbing semantic kalam boundaries.
+
+## Responsive and scan viewing contracts
+
+- All reading articles are `reader-shell` CSS containers; the shared edition grid chooses parallel/stacked at the usable 40rem threshold, independently of orientation. Keep page-specific type styling in route CSS, not competing layout breakpoints.
+- A Basta page without Roman text falls back to its scan when Roman is the only chosen edition and explains why. Image-only pages always retain a scan.
+- `BastaContinuousPage.astro` and `basta-stream.ts` must render the same scan links, unavailable-edition labels, edition sections, page numbers, and kalam boundaries. Add parity assertions when changing either path.
+- The index switches from two tables to accessible compact linked entries only at very narrow container widths; no content source is duplicated.
+- Reading history and reader preferences use distinct localStorage keys. Neither leaves the browser.

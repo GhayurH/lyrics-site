@@ -115,11 +115,11 @@ Direct `/basta/read/#page-N` links remain supported; the target chunk is loaded 
 
 ### Reader editions and immersive Reading Mode
 
-On standalone kalams, Basta page-by-page, and the continuous Basta reader, choose any available combination of **Image**, **Urdu**, and **Roman** using independent checkboxes. At least one edition must remain selected. The choice is remembered separately for each kind of reader; pages without the requested edition show their available text or scan instead. On wide displays, selected editions appear in parallel; on narrow screens they stack. On mobile landscape, Urdu and Roman appear side by side with the selected image above.
+On standalone kalams, Basta page-by-page, and the continuous Basta reader, choose any available combination of **Image**, **Urdu**, and **Roman** using independent checkboxes. At least one edition must remain selected. Text editions are shown by default, with the original scan available on demand. Preferences are remembered per reader. The same container-width layout works in portrait, landscape, desktop, and Focus mode: texts appear in parallel when they fit legibly, otherwise they stack. On narrow screens, **Text options** reveals size, spacing, and optional wrapping for unusually long verses. The linked Basta index uses compact entries at phone widths. All server-rendered readers display usable text without JavaScript.
 
-**Reading mode** removes site navigation and metadata while keeping the same kalam formatting, typography preferences, and synchronized text scrolling. Tap the content or **Options** to reveal controls; leave using **× Exit**, Escape, or the browser Back gesture. Where supported, the separate **Fullscreen** button hides browser chrome too. Source scans fit inside the viewport and retain native pinch zoom. On mobile, an **↑ Top** control appears as you scroll.
+**Focus mode** removes site navigation and metadata while preserving text formatting, typography preferences, and synchronized text scrolling. Tap the content or **Options** to reveal controls; leave using **× Exit**, Escape, or the browser Back gesture. The optional **Browser fullscreen** button requests the fullscreen API. Selecting an original scan opens a shared, keyboard-accessible viewer with Fit, 100%, and 200% zoom controls (normal image links remain usable without JavaScript). On mobile, an **↑ Top** control appears as you scroll.
 
-The continuous reader offers a page-number jump in both views. Link directly into an immersive page using `/basta/read/?reading=1#page-202`; without `?reading=1`, the same page hash opens in the normal reader. Entering or leaving Reading mode and rotating the device preserve reading position. Page numbers remain visible in the immersive continuous reader.
+The continuous reader offers a validated page-number jump in both views, a **Contents** control (also available inside Focus mode), and a link to open the current page in the page-by-page reader. Printed index-page numbers open Contents. Link directly into an immersive page using `/basta/read/?reading=1#page-202`; without `?reading=1`, the same page hash opens in the normal reader. Entering or leaving Focus mode and rotating preserve reading position. The last Basta page is saved **locally in this browser**, with a Continue Basta link on the homepage and Saved page.
 
 ### Parallel reading and kalam boundaries
 
@@ -180,3 +180,15 @@ To report a correction, suggest a lyric, or ask a question, contact the site own
 ---
 
 Preserving Urdu literature in searchable digital form.
+
+### Browser-level regression checks
+
+The GitHub Actions reader-validation workflow builds the site and runs Playwright Chromium checks across static/no-JavaScript reading, mobile portrait/landscape, image selection, Focus mode, and streamed deep links. To run these checks locally after a production build:
+
+```bash
+npm install --no-save @playwright/test
+npx playwright install chromium
+npx playwright test
+```
+
+The normal `npm test` suite does not require a browser. Browser traces/screenshots are saved only on test failure.
