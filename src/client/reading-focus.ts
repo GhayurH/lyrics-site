@@ -11,6 +11,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   const optionsButton = controls.querySelector<HTMLButtonElement>("[data-reading-focus-options]");
   const fullscreenButton = controls.querySelector<HTMLButtonElement>("[data-reading-fullscreen-toggle]");
   const topButton = controls.querySelector<HTMLButtonElement>("[data-reading-scroll-top]");
+  const contentsButton = controls.querySelector<HTMLButtonElement>("[data-reading-focus-contents]");
   if (!enterButton || !exitButton || !optionsButton || !fullscreenButton || !topButton) return;
 
   const html = document.documentElement;
@@ -83,6 +84,11 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     else (scroller as HTMLElement).scrollTop += delta;
   };
 
+  const contentsOpen = (open: boolean) => {
+    if (!isContinuous) return;
+    html.dataset.readingTocOpen = String(open);
+    contentsButton?.setAttribute("aria-expanded", String(open));
+  };
   const optionsOpen = (open: boolean) => {
     controls.dataset.readingOptionsOpen = String(open);
     optionsButton.setAttribute("aria-expanded", String(open));
@@ -91,7 +97,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
 
   const syncFullscreen = () => {
     const enabled = Boolean(document.fullscreenElement);
-    fullscreenButton.textContent = enabled ? "Exit fullscreen" : "Fullscreen";
+    fullscreenButton.textContent = enabled ? "Exit browser fullscreen" : "Browser fullscreen";
     fullscreenButton.setAttribute("aria-pressed", String(enabled));
   };
   fullscreenButton.hidden = !document.fullscreenEnabled;
@@ -123,6 +129,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     setOutsideInert(true);
     html.dataset.readingFocus = "true";
     optionsOpen(false);
+    contentsOpen(false);
     if (updateHistory) history.pushState({ ...(history.state ?? {}), [FOCUS_FLAG]: true }, "", readingUrl(true));
     requestAnimationFrame(() => {
       restoreAnchor(current, root);
@@ -147,6 +154,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     active = false;
     delete html.dataset.readingFocus;
     optionsOpen(false);
+    contentsOpen(false);
     setOutsideInert(false);
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
 
@@ -191,6 +199,13 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   exitButton.addEventListener("click", () => exit(true));
   optionsButton.addEventListener("click", () =>
     optionsOpen(controls.dataset.readingOptionsOpen !== "true"));
+  contentsButton?.addEventListener("click", () => {
+    if (active) contentsOpen(html.dataset.readingTocOpen !== "true");
+    else { location.hash = "index"; window.dispatchEvent(new Event("hashchange")); }
+  });
+  root.querySelector(".basta-reader-index")?.addEventListener("click", (event) => {
+    if (event.target instanceof Element && event.target.closest("a[href^='#page-']")) contentsOpen(false);
+  });
   fullscreenButton.addEventListener("click", () => {
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
     else if (document.fullscreenEnabled) void document.documentElement.requestFullscreen().catch(() => {});
@@ -200,9 +215,8 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   root.addEventListener("click", (event) => {
     if (!active || !(event.target instanceof Element)) return;
     const link = event.target.closest("a");
-    if (link?.closest(".basta-original-page")) event.preventDefault();
     if (event.target.closest("button, input, select, textarea") ||
-        (link && !link.closest(".basta-original-page")) ||
+        link ||
         window.getSelection()?.toString()) return;
     optionsOpen(controls.dataset.readingOptionsOpen !== "true");
   });
@@ -210,7 +224,8 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   document.addEventListener("keydown", (event) => {
     if (active && event.key === "Escape") {
       event.preventDefault();
-      exit(true);
+      if (html.dataset.readingTocOpen === "true") contentsOpen(false);
+      else exit(true);
     }
   });
   window.addEventListener("popstate", () => {

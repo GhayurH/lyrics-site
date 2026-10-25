@@ -169,7 +169,7 @@ html[data-reading-focus="true"] .basta-reader-page { padding-block: .75rem; }
 /* Index is an accessible overlay in Focus mode, not a permanently missing section. */
 html[data-reading-focus="true"][data-reading-toc-open="true"] .basta-reader-index {
   display: block; position: fixed; z-index: 95; inset: 3.5rem .75rem .75rem;
-  overflow: auto; overscroll-behavior: contain; border: 1px solid var(--border-colour);
+  overflow: auto; overscroll-behavior: contain; content-visibility: visible; border: 1px solid var(--border-colour);
   border-radius: .75rem; padding: 1rem; background: var(--surface-background);
 }
 html[data-reading-focus="true"] .reading-controls > .reading-contents-button { display: none; }

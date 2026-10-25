@@ -75,6 +75,7 @@ html[data-reading-focus="true"] .basta-reader-original-image img {
 }
 html[data-reading-focus="true"] .basta-reader-flow { width: 100%; max-width: none; }
 html[data-reading-focus="true"] .basta-reader-index { display: none; }
+/* The contents panel is re-exposed as an overlay by reading-columns.css. */
 
 @media (orientation: landscape) and (pointer: coarse) and (max-height: 700px) {
   html[data-reading-focus="true"] [data-reading-root] {
