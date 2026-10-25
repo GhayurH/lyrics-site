@@ -35,7 +35,7 @@ Browser code lives here rather than in a generic `scripts/` directory. This prev
 - `basta-stream.ts` owns progressive continuous-reader chunk loading.
 - `synced-columns.ts` synchronizes visible side-by-side Urdu, Roman, and scan panels; for Basta text, matching kalam breaks anchor per-kalam proportional progress.
 - `verse-fitting.ts` fits couplets/stanzas only near the viewport, respecting the readability floors in `src/lib/verse-fit.ts`; optional wrapping is a persisted preference.
-- `reading-progress.ts` records the current Basta page locally and populates resume/current-page links.
+- `reading-progress.ts` records the current Basta page and within-page fraction locally and populates resume/current-page links. Continuous tracking observes nearby pages rather than traversing all loaded pages on every scroll.
 - `scan-viewer.ts` provides an accessible image dialog and preserves native image links when scripting is unavailable.
 
 ### CSS ownership
@@ -94,7 +94,7 @@ Keep chunk size conservative. Larger chunks reduce requests but increase parse/r
 
 ## Validation
 
-`npm test` runs the Node regression suite; `prebuild` runs it again before each production build. The tests cover text parsing, stanza boundaries, proportional scrolling, and verse-fitting math. `.github/workflows/reader-validation.yml` additionally executes a production build and Playwright Chromium browser smoke tests, including no-JavaScript rendering, portrait/landscape geometry, Focus mode, and streamed page navigation.
+`npm test` runs the Node regression suite; `prebuild` runs it again before each production build. The tests cover text parsing, stanza boundaries, proportional scrolling, and verse-fitting math. `.github/workflows/reader-validation.yml` additionally executes a production build and Playwright tests in Chromium, Firefox, and WebKit, including no-JavaScript rendering, portrait/landscape geometry, Focus mode, streaming, image zoom, resume, and remote-source availability. The Chromium screenshot matrix compares against committed reference PNGs; update baselines only for approved visual changes.
 
 ## Repository hygiene
 

@@ -186,9 +186,11 @@ Preserving Urdu literature in searchable digital form.
 The GitHub Actions reader-validation workflow builds the site and runs Playwright Chromium checks across static/no-JavaScript reading, mobile portrait/landscape, image selection, Focus mode, and streamed deep links. To run these checks locally after a production build:
 
 ```bash
-npm install --no-save @playwright/test
-npx playwright install chromium
+npm ci
+npx playwright install chromium firefox webkit
 npx playwright test
 ```
 
-The normal `npm test` suite does not require a browser. Browser traces/screenshots are saved only on test failure.
+The normal `npm test` suite does not require a browser. Playwright is pinned in `devDependencies` and tested in Chromium, Firefox, and WebKit. Nine Chromium golden screenshots in `tests/browser/layout-snapshots.spec.mjs-snapshots/` provide pixel-difference regression checks; the other engines contribute geometry assertions and review screenshots. The tests additionally check original R2-hosted images through the live site. Browser traces and a screenshot review matrix are saved as workflow artifacts. Baselines must be explicitly reviewed and updated only after intentional visual changes.
+
+Basta stores its last page and a normalized offset within that page in browser-local storage. The **Continue Basta** link preserves both values across routes and device orientations within the same browser. Continuous-reader progress uses `IntersectionObserver` to measure only nearby pages, not every loaded page while scrolling.

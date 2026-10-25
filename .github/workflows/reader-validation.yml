@@ -3,6 +3,9 @@ on:
   push:
     branches: [main, "feat/unified-reader-ux-2026-10"]
   pull_request:
+concurrency:
+  group: reader-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
 jobs:
   validate:
     runs-on: ubuntu-latest
