@@ -115,10 +115,12 @@ const initialChunkId = beforeChunks[0]?.id ?? afterChunks[0]?.id;
     import { initReadingControls } from "../../client/reader-state";
     import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
+    import { initScanViewer } from "../../client/scan-viewer";
     import { initBastaStreamingReader } from "../../client/basta-stream";
     initReadingControls();
     initBastaStreamingReader();
     initVerseFitting();
+    initScanViewer();
     initSyncedColumns();
   </script>
 </BaseLayout>

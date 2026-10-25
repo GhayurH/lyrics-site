@@ -237,7 +237,9 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     >
       {data.cover && (
         <figure class="lyric-reading-image" data-synced-scroll-panel aria-label="Original lyric sheet">
-          <img src={data.cover} alt={data.coverAlt || "Original lyric sheet"} data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" decoding="async" />
+          <a class="scan-viewer-trigger" href={data.cover} aria-label="Enlarge original lyric sheet">
+            <img src={data.cover} alt={data.coverAlt || "Original lyric sheet"} data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" decoding="async" />
+          </a>
         </figure>
       )}
       <section
@@ -352,6 +354,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     } from "../../client/reader-state";
     import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
+    import { initScanViewer } from "../../client/scan-viewer";
 
     const lyricPage = document.querySelector<HTMLElement>("[data-lyric-id]");
     if (lyricPage?.dataset.lyricId) {
@@ -359,6 +362,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     }
     initReadingControls();
     initVerseFitting();
+    initScanViewer();
     initSyncedColumns();
   </script>
 </BaseLayout>
