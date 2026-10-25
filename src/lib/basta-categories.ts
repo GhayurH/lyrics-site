@@ -3,9 +3,9 @@ import indexEntries from "../data/basta/index.json";
 import type { BastaIndexEntry } from "./basta";
 import type { LyricCardData } from "./catalog";
 
-/* Only unambiguous category equivalents are merged into existing lyric
-   types. Mixed sections remain grouped instead of mislabeling Hamd/Naat
-   as Manqabat; the non-poetic introduction articles are excluded. */
+/* The mixed Hamd/Naat/Manaqib index section intentionally shares the
+   Manqabat category with standalone kalams. Non-poetic introductory
+   articles remain excluded from category browsing. */
 const BASTA_CATEGORY_BY_SECTION: Record<string, string | null> = {
   Mazameen: null,
   "Qita'aat": "Qita",
@@ -14,7 +14,7 @@ const BASTA_CATEGORY_BY_SECTION: Record<string, string | null> = {
   Salam: "Salam",
   Marsiye: "Marsiya",
   "Noha / Bain": "Noha",
-  "Hamd, Naat-o-Manaqib": "Hamd, Naat & Manaqib",
+  "Hamd, Naat-o-Manaqib": "Manqabat",
   "Mutafarriqat-o-Qaumiyat": "Miscellaneous",
 };
 

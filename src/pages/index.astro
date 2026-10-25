@@ -2,7 +2,6 @@
 // File role: Browse landing route: groups published lyrics by Kalam Type and surfaces compact category previews plus the Basta entry point.
 import BaseLayout from "../layouts/BaseLayout.astro";
 import LyricList from "../components/LyricList.astro";
-import BastaCategoryList from "../components/BastaCategoryList.astro";
 import { groupBastaIndexByKalamType } from "../lib/basta-categories";
 import { loadBastaNavigationData } from "../lib/basta-pages";
 import {
@@ -68,8 +67,7 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
                   See all {kalamType}
                 </a>
               </div>
-              {previewEntries.length > 0 && <LyricList lyrics={previewEntries} />}
-              {previewBasta.length > 0 && <BastaCategoryList entries={previewBasta} />}
+              <LyricList lyrics={previewEntries} bastaEntries={previewBasta} />
               {entryCount > HOME_PREVIEW_COUNT && (
                 <div class="category-preview-footer">
                   <a href={`/categories/${typeSlug}/`}>See all {entryCount} {kalamType} →</a>
