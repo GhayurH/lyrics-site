@@ -89,6 +89,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     requestAnimationFrame(() => {
       restoreAnchor(current, root);
       rememberAnchor();
+      window.dispatchEvent(new Event("resize"));
       exitButton.focus({ preventScroll: true });
     });
   };
@@ -103,6 +104,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
     requestAnimationFrame(() => {
       restoreAnchor(current, window);
+      window.dispatchEvent(new Event("resize"));
       (previousFocus?.isConnected ? previousFocus : enterButton).focus({ preventScroll: true });
     });
     if (popHistory && history.state?.[focusFlag]) history.back();

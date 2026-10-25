@@ -25,7 +25,8 @@
 
 html[data-reading-focus="true"] body { overflow: hidden; }
 html[data-reading-focus="true"] .site-header,
-html[data-reading-focus="true"] .site-footer { visibility: hidden; }
+html[data-reading-focus="true"] .site-footer,
+html[data-reading-focus="true"] .skip-link { visibility: hidden; }
 
 /* Leave the original DOM in place: synced column scroll positions and streamed
    chunks survive entering/exiting without cloning or rerendering a kalam. */
@@ -136,12 +137,16 @@ html[data-reading-focus="true"] .basta-page-grid[data-reading-root] > .basta-par
   width: min(100%, 88rem);
   margin-inline: auto;
 }
-html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) {
+html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman):not([data-reading-mode="image"]) {
   grid-template-areas: "urdu" !important;
 }
 html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) > .basta-page-urdu {
   width: min(100%, 52rem);
   margin-inline: auto;
+}
+.basta-page-grid.basta-page-grid-image-only[data-reading-root]:not(.basta-page-grid-with-roman) {
+  grid-template-columns: minmax(0, 42rem) !important;
+  grid-template-areas: "scan" !important;
 }
 .basta-page-grid[data-reading-mode="image"] {
   grid-template-areas: "scan" !important;
@@ -218,7 +223,7 @@ html[data-reading-focus="true"] .basta-reader-original-image img {
   object-fit: contain;
 }
 
-@media (max-width: 700px) and (orientation: landscape) {
+@media (orientation: landscape) and (max-height: 520px) and (pointer: coarse) {
   html[data-reading-focus="true"] [data-reading-root] {
     padding: max(2.7rem, calc(env(safe-area-inset-top) + 2.5rem))
       max(0.55rem, env(safe-area-inset-right))
