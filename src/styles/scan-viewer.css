@@ -1,0 +1,17 @@
+/* File role: Shared original-scan dialog and optional zoom without external dependencies. */
+.scan-viewer { box-sizing: border-box; width: min(98vw, 96rem); height: min(96dvh, 75rem); max-width: none; max-height: none; margin: auto; border: 1px solid var(--border-colour); border-radius: .7rem; padding: 0; background: var(--site-background); color: var(--primary-text); }
+.scan-viewer::backdrop { background: rgb(0 0 0 / .82); }
+.scan-viewer[open] { display: flex; flex-direction: column; }
+.scan-viewer-toolbar { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: .5rem; padding: .55rem .8rem; border-bottom: 1px solid var(--border-colour); }
+.scan-viewer-toolbar > div { display: flex; flex-wrap: wrap; gap: .35rem; }
+.scan-viewer-toolbar button { min-height: 2.75rem; border: 1px solid var(--border-colour); border-radius: .45rem; padding: .4rem .7rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
+.scan-viewer-toolbar button[aria-pressed="true"] { background: var(--button-background); color: var(--button-text); }
+.scan-viewer-toolbar button:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
+.scan-viewer-canvas { display: grid; place-items: start center; flex: 1; min-height: 0; overflow: auto; overscroll-behavior: contain; padding: .5rem; }
+.scan-viewer-canvas img { display: block; object-fit: contain; margin: auto; }
+.scan-viewer-canvas[data-zoom="fit"] img { max-width: 100%; max-height: calc(96dvh - 6rem); width: auto; height: auto; }
+.scan-viewer-canvas[data-zoom="actual"] img { max-width: none; max-height: none; width: auto; height: auto; }
+.scan-viewer-canvas[data-zoom="double"] img { max-width: none; max-height: none; width: auto; height: auto; transform: scale(2); transform-origin: top left; }
+/* A scan is a real link even when scripts and the enhanced viewer are unavailable. */
+.scan-viewer-trigger { display: block; cursor: zoom-in; }
+.scan-viewer-trigger:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }

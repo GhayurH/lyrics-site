@@ -32,7 +32,11 @@ function renderOriginalImage(page: BastaReaderPageData, sync = false): HTMLEleme
   image.alt = `Original scan of Basta page ${page.page}`;
   image.loading = "lazy";
   image.decoding = "async";
-  figure.append(image);
+  const link = element("a", "scan-viewer-trigger");
+  link.href = page.originalImage;
+  link.setAttribute("aria-label", `Enlarge scan of Basta page ${page.page}`);
+  link.append(image);
+  figure.append(link);
   return figure;
 }
 
@@ -119,6 +123,13 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
 
     grid.append(roman, urdu);
     section.append(grid);
+  }
+
+  if (!page.imageOnly && !page.hasRoman) {
+    const notice = element("p", "basta-edition-unavailable");
+    notice.setAttribute("role", "status");
+    notice.textContent = "Roman Urdu is not available for this page; showing the original scan instead.";
+    section.append(notice);
   }
 
   const pageNumber = element("p", "basta-reader-page-number");
