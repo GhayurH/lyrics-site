@@ -1,0 +1,82 @@
+name: Verify Basta stanza merge
+
+on:
+  push:
+    branches:
+      - fix/basta-refrain-source-markers-2026-10
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Verify stanza and refrain invariants
+        run: |
+          node --experimental-strip-types --input-type=module <<'NODE'
+          import assert from 'node:assert/strict';
+          import fs from 'node:fs';
+          import { layoutBastaKalam, bastaVerseClassNames, splitBastaKalams } from './src/lib/basta-text.ts';
+
+          const six = layoutBastaKalam('1\nA\nB\nC\nD\n\nE\nF\n\nA');
+          assert.equal(six[6].text, 'E');
+          assert.equal(six[6].sixClosingStart, true);
+          assert.equal(six[7].sixClosingEnd, true);
+          assert.equal(six[5].hidden, true, 'No empty line between fourth and fifth verses');
+          assert.equal(six[8].hidden, true, 'No empty line between sixth verse and reprise');
+          assert.equal(six[9].refrain, true);
+          assert.equal(six[9].refrainSharesRule, true);
+          assert.ok(!bastaVerseClassNames(six[9]).includes('basta-six-closing-start'));
+          assert.ok(!six[6].indent && !six[7].indent, 'Six-line closing pair has no vertical rule');
+          assert.ok(six.slice(0, 9).filter(line => line.sixClosingStart).length === 1);
+          assert.ok(six.slice(0, 9).filter(line => line.sixClosingEnd).length === 1);
+
+          const continuous = layoutBastaKalam('1\nA\nB\nC\nD\nE\nF');
+          assert.equal(continuous[5].sixClosingStart, true);
+          assert.equal(continuous[6].sixClosingEnd, true);
+
+          const two = layoutBastaKalam('first\nsecond\n\nthird\nfourth');
+          assert.equal(two[1].indent, true);
+          assert.equal(two[4].indent, true);
+          assert.ok(two.every(line => !line.sixClosing), 'Two-line stanza retains side rule');
+          const salam = layoutBastaKalam('A\nB\nC\nD\nE\nF', true, 'couplet');
+          assert.equal(salam[5].indent, true);
+          assert.ok(salam.every(line => !line.sixClosing));
+
+          const p200 = fs.readFileSync('src/data/basta/pages/200.md', 'utf8');
+          const r200 = fs.readFileSync('src/data/basta/roman/200.md', 'utf8');
+          assert.match(p200, /\nکوفہ کو چلا قاصدِ صغرا جو وطن سے\n/);
+          assert.match(r200, /\nKufe ko chala Qasid-e-Sughra jo watan se\n/);
+          for (const [label, page] of [['Urdu', p200], ['Roman', r200]]) {
+            const poem = splitBastaKalams(page.split('---\n').slice(2).join('---\n'))[0];
+            const result = layoutBastaKalam(poem);
+            assert.ok(result.some(line => line.sixClosingStart), label + ' has framed closing pair');
+            assert.ok(result.some(line => line.sixClosingEnd), label + ' has ending lower rule');
+            assert.ok(result.some(line => line.refrain && line.refrainSharesRule), label + ' shares bottom rule with refrain');
+          }
+
+          for (const folder of ['src/data/basta/pages', 'src/data/basta/roman']) {
+            for (const name of fs.readdirSync(folder).filter(name => /^\d+\.md$/.test(name))) {
+              const text = fs.readFileSync(folder + '/' + name, 'utf8');
+              assert.doesNotMatch(text, /^\s*\[\s*(?:ماخذ|مآخذ|مأخذ|Makhaz|Maakhaz)\s*[:：]/mi,
+                'OCR wrapper remains in ' + folder + '/' + name);
+            }
+          }
+          console.log('Basta layout and cleaned-source checks passed');
+          NODE
+      - run: npm ci
+      - run: npm run build
+      - name: Remove temporary workflow
+        run: |
+          git rm .github/workflows/validate-basta-merge.yml
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Complete Basta stanza integration validation"
+          git push
