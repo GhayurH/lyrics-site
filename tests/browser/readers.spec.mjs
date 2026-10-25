@@ -65,20 +65,38 @@ test("unavailable Roman transcription shows a source scan rather than blank cont
   await expect(notice).toContainText("not available");
 });
 
-test("wrapping is optional and text-size settings persist", async ({ page }) => {
+test("only line spacing is configurable, and its value survives reload", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
-  await page.getByRole("button", { name: "Text options" }).click();
-  await page.getByLabel("Allow wrapping").check();
-  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-wrap-verses", "true");
-  await expect.poll(() => page.locator(".lyric-verse").first().evaluate((node) => getComputedStyle(node).whiteSpace)).toBe("normal");
-  await page.locator("[data-reading-font-size]").selectOption("xlarge");
-  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-font-size", "xlarge");
+  await expect(page.locator("[data-reading-font-size], [data-reading-wrap-verses], [data-reading-regular-options]")).toHaveCount(0);
+  const spacing = page.locator("[data-reading-line-spacing]");
+  await spacing.selectOption("relaxed");
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
   await page.reload();
-  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-wrap-verses", "true");
-  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-font-size", "xlarge");
+  await expect(spacing).toHaveValue("relaxed");
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
 });
 
+test("every visible poetry verse stays on one line and within its column at mobile widths", async ({ page }) => {
+  for (const url of ["/lyrics/aa-asghar-bin-tere/", "/basta/138/", "/basta/read/#page-138"]) {
+    await page.setViewportSize({ width: 390, height: 844 });
+    await page.goto(url, { waitUntil: "domcontentloaded" });
+    if (url.includes("/read/")) {
+      await expect(page.locator('[data-basta-page="138"]')).toBeAttached({ timeout: 20000 });
+      await page.locator('[data-basta-page="138"]').scrollIntoViewIfNeeded();
+    }
+    await page.evaluate(() => document.fonts.ready);
+    const selector = url.includes("/lyrics/") ? ".lyric-verse" :
+      url.includes("/read/") ? '[data-basta-page="138"] .basta-verse-poetry' : ".basta-verse-poetry";
+    await expect.poll(async () => page.locator(selector).evaluateAll((lines) =>
+      lines.filter((line) => {
+        const style = getComputedStyle(line);
+        const width = line.clientWidth;
+        return width > 0 && (style.whiteSpace !== "nowrap" || line.scrollWidth > width + 2);
+      }).length), { timeout: 15000 }).toBe(0);
+    await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+  }
+});
 test("compact index presents accessible entries at phone width", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/index/");

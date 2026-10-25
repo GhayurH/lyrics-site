@@ -266,7 +266,7 @@ Browser-local persistence should use `src/client/storage.ts` rather than parsing
 
 ### Reading controls
 
-Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. Do not reimplement edition selection, typography, wrapping, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
+Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
 
 `src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. The original scan follows whole-page percentage; stacked and single-language layouts remain ordinary document flows.
 
@@ -311,3 +311,5 @@ Corrections, missing material, and cataloguing/index issues can be reported to:
 ### Browser validation for UI changes
 
 In addition to `npm test` and `npm run build`, reader layout changes require `npx playwright test` after installing `@playwright/test` and the Chromium browser. The GitHub Actions workflow runs this automatically on `main`, the feature branch, and pull requests. Playwright is pinned in development dependencies, and the tests validate interactions and responsive geometry without screenshot comparisons. Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, the continuous reader's deep links/Contents panel, and Focus-mode exit. Do not allow an original-scan link to stop working without JavaScript.
+
+Every poem verse stays on a single line; neither wrapping nor horizontal scrolling is an acceptable fallback. There is no text-size selector. Long lines are fitted automatically to the available column width, preserving the original text and keeping separate kalam boundaries. Keep the functional mobile tests for all three reader routes.
