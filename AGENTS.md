@@ -45,5 +45,3 @@ git status --short
 ```
 
 Review `git diff` before committing. Do not commit `dist/`, `.astro/`, dependencies, local tooling, or R2-hosted binary assets.
-
-Golden Chromium screenshots in `tests/browser/layout-snapshots.spec.mjs-snapshots/` should change only for an intentional visual update. Run Chromium Playwright with `--update-snapshots` locally to regenerate them, review each diff, and check real R2 source imagery before committing. The CI workflow tests three browser engines and publishes screenshots for manual inspection.

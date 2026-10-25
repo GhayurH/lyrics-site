@@ -94,7 +94,7 @@ Keep chunk size conservative. Larger chunks reduce requests but increase parse/r
 
 ## Validation
 
-`npm test` runs the Node regression suite; `prebuild` runs it again before each production build. The tests cover text parsing, stanza boundaries, proportional scrolling, and verse-fitting math. `.github/workflows/reader-validation.yml` additionally executes a production build and Playwright tests in Chromium, Firefox, and WebKit, including no-JavaScript rendering, portrait/landscape geometry, Focus mode, streaming, image zoom, resume, and remote-source availability. The Chromium screenshot matrix compares against committed reference PNGs; update baselines only for approved visual changes.
+`npm test` runs the Node regression suite; `prebuild` runs it again before each production build. The tests cover text parsing, stanza boundaries, proportional scrolling, and verse-fitting math. `.github/workflows/reader-validation.yml` additionally executes a production build and Playwright tests in Chromium, Firefox, and WebKit, including no-JavaScript rendering, portrait/landscape geometry, Focus mode, streaming, image zoom, resume, and remote-source availability. Browser validation checks element geometry and interactions rather than taking or comparing screenshots.
 
 ## Repository hygiene
 
