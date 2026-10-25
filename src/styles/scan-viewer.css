@@ -12,7 +12,8 @@
 .scan-viewer-canvas[data-zoom="fit"] img { max-width: 100%; max-height: calc(96dvh - 6rem); width: auto; height: auto; }
 .scan-viewer-canvas:is([data-zoom="actual"], [data-zoom="double"]) { display: block; }
 .scan-viewer-canvas[data-zoom="actual"] img { max-width: none; max-height: none; width: auto; height: auto; margin: 0; }
-.scan-viewer-canvas[data-zoom="double"] img { max-width: none; max-height: none; width: 200%; height: auto; margin: 0; }
+.scan-viewer-canvas[data-zoom="double"] img { max-width: none; max-height: none; width: auto; height: auto; margin: 0; }
+/* Pixel zoom deliberately permits both-axis panning; it is not viewport-relative. */
 /* A scan is a real link even when scripts and the enhanced viewer are unavailable. */
 .scan-viewer-trigger { display: block; cursor: zoom-in; }
 .scan-viewer-trigger:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }

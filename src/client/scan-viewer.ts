@@ -24,9 +24,15 @@ export function initScanViewer(): void {
   const zoomButtons = Array.from(dialog.querySelectorAll<HTMLButtonElement>("[data-scan-zoom]"));
   const setZoom = (level: string) => {
     canvas.dataset.zoom = level;
+    // Native pixels rather than percentages of the current viewport.
+    image.style.width = level === "fit" || !image.naturalWidth
+      ? "" : `${image.naturalWidth * (level === "double" ? 2 : 1)}px`;
+    image.style.height = "auto";
+    canvas.scrollTo({ top: 0, left: 0 });
     for (const button of zoomButtons) button.setAttribute("aria-pressed", String(button.dataset.scanZoom === level));
   };
   zoomButtons.forEach((button) => button.addEventListener("click", () => setZoom(button.dataset.scanZoom ?? "fit")));
+  image.addEventListener("load", () => setZoom(canvas.dataset.zoom || "fit"));
   dialog.querySelector("[data-scan-close]")?.addEventListener("click", () => dialog.close());
   dialog.addEventListener("click", (event) => { if (event.target === dialog) dialog.close(); });
   dialog.addEventListener("close", () => { image.removeAttribute("src"); });

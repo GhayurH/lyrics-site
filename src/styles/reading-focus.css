@@ -11,6 +11,11 @@
 .reading-controls button:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
 html[data-reading-focus="true"] body { overflow: hidden; }
+/* Container queries must measure the Focus viewport, not the regular article max-width. */
+html[data-reading-focus="true"] :is(.lyric-page, .basta-page, .basta-reader, .basta-index-page) {
+  width: 100vw !important; max-width: none !important;
+  margin-inline: calc(50% - 50vw) !important;
+}
 html[data-reading-focus="true"] :is(.site-header,.site-footer,.skip-link) { visibility: hidden; }
 /* Retain each edition's existing DOM, scroll offsets, and streaming chunks. */
 html[data-reading-focus="true"] [data-reading-root] {
