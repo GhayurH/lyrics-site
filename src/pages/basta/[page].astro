@@ -228,8 +228,10 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
 
   <script>
     import { initReadingControls } from "../../client/reader-state";
+    import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     initReadingControls();
     initVerseFitting();
+    initSyncedColumns();
   </script>
 </BaseLayout>

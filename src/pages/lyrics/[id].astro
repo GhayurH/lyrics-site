@@ -332,6 +332,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       initReadingControls,
       recordRecentLyric,
     } from "../../client/reader-state";
+    import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
 
     const lyricPage = document.querySelector<HTMLElement>("[data-lyric-id]");
@@ -340,5 +341,6 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     }
     initReadingControls();
     initVerseFitting();
+    initSyncedColumns();
   </script>
 </BaseLayout>
