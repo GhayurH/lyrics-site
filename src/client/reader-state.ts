@@ -64,7 +64,7 @@ export function initReadingControls(): void {
   setRegularOptionsOpen(false);
 
   const applyPrefs = () => {
-    // Legacy mode is retained for the original typographic/layout rules.
+    // CSS and scroll synchronization still need the derived single/parallel mode alongside the selected editions.
     root.dataset.readingMode = readingModeFromEditions(selected);
     root.dataset.readingColumns = selected.join(" ");
     root.dataset.lineSpacing = prefs.spacing;

@@ -254,6 +254,8 @@ Route/feature styles live in their own files:
 - `basta.css`
 - `basta-reader.css` (continuous reader and bilingual Basta index)
 
+The shared reader component owns the feature styles: `reading-columns.css` (responsive edition grids), `reading-focus.css` (immersive shell), and `scan-viewer.css` (the scan dialog). These stay separate because they have distinct responsibilities; short file size alone is not a reason to fold route styles into `core.css`.
+
 Do not recreate a global override stack. A route-specific rule belongs with its route; a genuinely shared primitive belongs in `core.css`.
 
 ### Browser code
@@ -274,7 +276,7 @@ Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src
 
 ### Basta layouts and streaming
 
-Basta pages may contain scan only, scan + Urdu, or scan + Urdu + Roman. Reader grid rules belong to `reading-columns.css` and must adapt to the container's usable width, not whether a device happens to be in landscape. Test portrait/landscape, narrow/wide containers, and Focus mode for all combinations. Preserve the missing-Roman scan fallback and the image enlargement link contract.
+Basta pages may contain scan only, scan + Urdu, or scan + Urdu + Roman. Reader grid rules belong to `reading-columns.css` and adapt primarily to the container's usable width. The existing mobile-portrait exception deliberately stacks page-by-page Basta text editions at full width. Test portrait/landscape, narrow/wide containers, and Focus mode for all edition combinations. Preserve the missing-Roman scan fallback and the image enlargement link contract.
 
 The continuous reader uses pre-rendered eight-page JSON chunks. If changing chunk behavior, preserve:
 
@@ -304,14 +306,16 @@ git status --short
 
 Review the diff before committing. For asset changes, verify that the corresponding R2 object has also been uploaded.
 
+## Browser validation for UI changes
+
+For reader or responsive changes, run `npm run build` (which invokes `npm test` through `prebuild`), then install browser dependencies and run `npx playwright test`. GitHub Actions performs these checks in Chromium, Firefox, and WebKit on branch pushes and pull requests. The tests check interactions and geometry rather than screenshots.
+
+Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, continuous-reader deep links and Contents, scan links/zoom, and Focus-mode exit. Source-image availability tests additionally contact the production and R2 domains; local Astro preview does not implement Cloudflare Pages asset redirects.
+
+Every poem verse must remain on one line, with no wrapping, horizontal scrolling, or manual text-size selector. Keep the functional mobile tests for standalone lyrics, page-by-page Basta, and the continuous reader.
+
 ## Corrections and questions
 
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
-
-### Browser validation for UI changes
-
-In addition to `npm test` and `npm run build`, reader layout changes require `npx playwright test` after installing `@playwright/test` and the Chromium browser. The GitHub Actions workflow runs this automatically on `main`, the feature branch, and pull requests. Playwright is pinned in development dependencies, and the tests validate interactions and responsive geometry without screenshot comparisons. Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, the continuous reader's deep links/Contents panel, and Focus-mode exit. Do not allow an original-scan link to stop working without JavaScript.
-
-Every poem verse stays on a single line; neither wrapping nor horizontal scrolling is an acceptable fallback. There is no text-size selector. Long lines are fitted automatically to the available column width, preserving the original text and keeping separate kalam boundaries. Keep the functional mobile tests for all three reader routes.
