@@ -123,7 +123,7 @@ test("a page-end fifth line does not prevent fitting the first two couplets", ()
 });
 
 test("unnumbered continuous couplets are inferred without a per-page category", () => {
-  const poem = "heading\nbyline\n\nheading\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n\n13\n14";
+  const poem = ["first", "byline", "", "first", ..."bcdefghijkl", "", "m", "n"].join("\n");
   const result = layoutBastaKalam(poem);
   const verses = result.filter(line => line.verse);
   assert.equal(verses.length, 14);
