@@ -1,0 +1,29 @@
+name: Reader validation
+on:
+  push:
+    branches: ["feat/unified-reader-ux-2026-10"]
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - run: npm install --no-save @playwright/test
+      - run: npx playwright install --with-deps chromium
+      - run: npx playwright test
+      - if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reader-browser-results
+          path: |
+            test-results/
+            playwright-report/
+          if-no-files-found: ignore
