@@ -238,3 +238,6 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
   overflow-y: auto;
   scrollbar-width: thin;
 }
+
+/* Dynamically inserted resume links are hidden until a local reading position exists. */
+[data-resume-basta][hidden] { display: none !important; }
