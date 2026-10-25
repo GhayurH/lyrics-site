@@ -578,9 +578,6 @@
 .basta-page-grid[data-reading-root] .basta-urdu-text { font-size: var(--basta-page-urdu-size); line-height: var(--basta-page-urdu-leading); }
 .basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--basta-page-roman-size); line-height: var(--basta-page-roman-leading); }
 
-.basta-page-grid[data-font-size="small"] { --basta-page-urdu-size: clamp(1.15rem, 2.6vw, 1.5rem); --basta-page-roman-size: clamp(0.95rem, 2.2vw, 1.1rem); }
-.basta-page-grid[data-font-size="large"] { --basta-page-urdu-size: clamp(1.55rem, 3.4vw, 2.05rem); --basta-page-roman-size: clamp(1.18rem, 2.8vw, 1.42rem); }
-.basta-page-grid[data-font-size="xlarge"] { --basta-page-urdu-size: clamp(1.75rem, 3.9vw, 2.35rem); --basta-page-roman-size: clamp(1.3rem, 3.1vw, 1.6rem); }
 .basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: 2.2; --basta-page-roman-leading: 1.65; }
 .basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: 3.2; --basta-page-roman-leading: 2.35; }
 
@@ -592,10 +589,8 @@
   overflow-wrap: anywhere;
   min-width: 0;
   max-width: 100%;
-  /* Keep long, non-wrapping verses readable when fitting reaches its minimum size. */
-  overflow-x: auto;
-  overscroll-behavior-inline: contain;
-  scrollbar-width: thin;
+  /* Font fitting keeps each verse on one line inside the column. */
+  overflow-x: visible;
 }
 
 /* Direction-aware verse indentation offsets the second verse of a couplet.
@@ -612,7 +607,7 @@
   word-break: normal;
   text-align: justify;
   text-align-last: justify;
-  min-inline-size: var(--verse-min-width, 0px);
+  min-inline-size: 0;
 }
 
 .basta-verse-line:empty::before {

@@ -9,8 +9,6 @@
 .reading-column-choice span { display: block; padding: .5rem .85rem; font-size: .85rem; font-weight: 700; }
 .reading-column-choice input:checked + span { background: var(--button-background); color: var(--button-text); }
 .reading-column-choice input:focus-visible + span { outline: var(--focus-ring); outline-offset: -3px; }
-.reading-wrap-choice { display: flex; align-items: center; gap: .4rem; min-height: 2.75rem; font-size: .83rem; cursor: pointer; }
-.reading-wrap-choice input { inline-size: 1rem; block-size: 1rem; accent-color: var(--primary-text); }
 .reading-page-jump { display: flex; align-items: center; gap: .4rem; }
 .reading-page-jump label { color: var(--secondary-text); font-size: .75rem; font-weight: 800; text-transform: uppercase; }
 .reading-page-jump input { width: 5rem; }
@@ -81,11 +79,6 @@
 .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
 .basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman { grid-row: 1; border: 0; padding-inline: 0; }
 
-/* Reader typography: wrapping is explicitly opt-in, never a silent result of fitting. */
-[data-reading-root][data-wrap-verses="true"] :is(.lyric-verse,.basta-verse-poetry) {
-  white-space: normal !important; min-inline-size: 0; overflow-wrap: anywhere; text-align-last: start;
-}
-[data-reading-root][data-wrap-verses="true"] :is(.lyric-reading-text,.basta-kalam-text) { overflow-x: visible; }
 
 /* Scans move above text before the paired languages become too narrow. */
 @container reader-shell (max-width: 76rem) {
@@ -209,20 +202,11 @@ html[data-reading-toc-open="true"] .reading-contents-button { background: var(--
   html:not([data-reading-focus="true"]) .reading-controls { position: static; box-shadow: none; }
 }
 
-/* Normal mobile reading has one small primary row; typography controls are opt-in. */
-.reading-regular-options-toggle {
-  min-height: 2.75rem; border: 1px solid var(--border-colour); border-radius: .55rem;
-  padding: .45rem .7rem; background: var(--surface-background); color: var(--primary-text);
-  font: inherit; font-size: .83rem; font-weight: 700; cursor: pointer;
-}
-html[data-reading-focus="true"] .reading-regular-options-toggle { display: none; }
-@media (min-width: 701px) { .reading-regular-options-toggle { display: none; } }
+/* Line spacing remains immediately available on small screens. */
 @media (max-width: 700px) {
-  .reading-controls:not([data-regular-options-open="true"]) > .reading-control-group:not(.reading-view-control) { display: none; }
-  .reading-controls[data-regular-options-open="true"] > .reading-control-group:not(.reading-view-control) { display: grid; }
-  .reading-controls .reading-regular-options-toggle { grid-column: 2; grid-row: 1; }
   .reading-controls .reading-focus-enter { grid-column: 1; grid-row: 1; width: 100%; }
   .reading-controls .reading-view-control { grid-row: 2; }
+  .reading-controls > .reading-control-group:not(.reading-view-control) { grid-column: 2; }
   html[data-reading-focus="true"] .reading-controls > .reading-control-group:not(.reading-view-control) { display: none; }
   html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-control-group { display: grid; }
 }
