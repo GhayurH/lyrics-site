@@ -5,6 +5,7 @@ import {
   recordRecentLyric as storeRecentLyric,
   writeRecord,
 } from "./storage";
+import { initReadingFocus } from "./reading-focus";
 
 const VALID_MODES = new Set(["parallel", "urdu", "roman"]);
 const VALID_FONT_SIZES = new Set(["small", "default", "large", "xlarge"]);
@@ -24,6 +25,8 @@ export function initReadingControls(): void {
   controls.dataset.readingReady = "true";
 
   const hasRoman = root.dataset.hasRoman !== "false";
+  const imageOnly = root.dataset.imageOnly === "true";
+  const hasImage = Boolean(controls.querySelector('[data-reading-mode-button="image"]'));
   const fontSelect = controls.querySelector<HTMLSelectElement>("[data-reading-font-size]");
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");
   const modeButtons = controls.querySelectorAll<HTMLButtonElement>("[data-reading-mode-button]");
@@ -47,9 +50,10 @@ export function initReadingControls(): void {
   };
 
   const storePrefs = () => writeRecord(STORAGE_KEYS.readingPrefs, prefs);
+  let activeMode = imageOnly ? "image" : hasRoman ? prefs.mode : "urdu";
 
   const applyPrefs = () => {
-    root.dataset.readingMode = hasRoman ? prefs.mode : "urdu";
+    root.dataset.readingMode = activeMode;
     root.dataset.fontSize = prefs.fontSize;
     root.dataset.lineSpacing = prefs.spacing;
 
@@ -59,7 +63,7 @@ export function initReadingControls(): void {
     modeButtons.forEach((button) => {
       button.setAttribute(
         "aria-pressed",
-        String(hasRoman && button.dataset.readingModeButton === prefs.mode),
+        String(button.dataset.readingModeButton === activeMode),
       );
     });
   };
@@ -67,9 +71,15 @@ export function initReadingControls(): void {
   modeButtons.forEach((button) => {
     button.addEventListener("click", () => {
       const mode = button.dataset.readingModeButton;
-      if (!hasRoman || !mode || !VALID_MODES.has(mode)) return;
-      prefs.mode = mode;
-      storePrefs();
+      if (mode === "image" && hasImage) {
+        activeMode = "image";
+      } else if (mode && VALID_MODES.has(mode) && (hasRoman || mode === "urdu") && !imageOnly) {
+        activeMode = mode;
+        prefs.mode = mode;
+        storePrefs();
+      } else {
+        return;
+      }
       applyPrefs();
     });
   });
@@ -89,6 +99,7 @@ export function initReadingControls(): void {
   });
 
   applyPrefs();
+  initReadingFocus(root, controls);
 }
 
 export function recordRecentLyric(id: string, limit = 20): void {

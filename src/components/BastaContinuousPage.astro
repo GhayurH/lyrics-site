@@ -52,6 +52,9 @@ const { page } = Astro.props as Props;
       </div>
     ) : (
       <div class="basta-reader-page-grid">
+        <figure class="basta-reader-original-image" data-reading-image-extra>
+          <img src={page.originalImage} alt={`Original scan of Basta page ${page.page}`} loading="lazy" decoding="async" />
+        </figure>
         <section class="basta-reader-column basta-reader-roman" lang="en" dir="ltr" aria-label={`Roman Urdu text of Basta page ${page.page}`}>
           <p class="basta-transliteration-missing">No transliteration available for this page.</p>
         </section>

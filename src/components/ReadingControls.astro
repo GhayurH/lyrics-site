@@ -1,10 +1,13 @@
 ---
-// File role: Shared reader controls for normal lyrics and all Basta readers.
+// File role: Shared reading preferences and immersive mode controls for lyrics and Basta.
+import "../styles/reading-focus.css";
 interface Props {
   ariaLabel?: string;
   className?: string;
   modeGroupLabel?: string;
   showModes?: boolean;
+  showImageMode?: boolean;
+  imageOnly?: boolean;
 }
 
 const {
@@ -12,6 +15,8 @@ const {
   className = "",
   modeGroupLabel = "Reading view",
   showModes = true,
+  showImageMode = false,
+  imageOnly = false,
 } = Astro.props as Props;
 ---
 
@@ -21,26 +26,27 @@ const {
   data-pagefind-ignore
   aria-label={ariaLabel}
 >
+  <button type="button" class="reading-focus-enter" data-reading-focus-enter aria-label="Enter reading mode">Reading mode</button>
+  <div class="reading-focus-actions">
+    <button type="button" data-reading-focus-options aria-expanded="false" aria-label="Show reading options">Options</button>
+    <button type="button" data-reading-focus-exit aria-label="Exit reading mode">× Exit</button>
+  </div>
+  <button type="button" class="reading-focus-fullscreen" data-reading-fullscreen-toggle aria-pressed="false">Fullscreen</button>
   {
-    showModes && (
+    (showModes || showImageMode) && (
       <div class="reading-control-group reading-view-control">
         <span class="reading-control-label">View</span>
         <div class="segmented-control" role="group" aria-label={modeGroupLabel}>
-          <button type="button" data-reading-mode-button="parallel" aria-pressed="true">
-            Parallel
-          </button>
-          <button type="button" data-reading-mode-button="urdu" aria-pressed="false">
-            Urdu
-          </button>
-          <button type="button" data-reading-mode-button="roman" aria-pressed="false">
-            Roman
-          </button>
+          {showModes && <button type="button" data-reading-mode-button="parallel" aria-pressed="true">Parallel</button>}
+          {(showModes || !imageOnly) && <button type="button" data-reading-mode-button="urdu" aria-pressed="false">Urdu</button>}
+          {showModes && <button type="button" data-reading-mode-button="roman" aria-pressed="false">Roman</button>}
+          {showImageMode && <button type="button" data-reading-mode-button="image" aria-pressed={imageOnly}>Image</button>}
         </div>
       </div>
     )
   }
 
-  <label class="reading-control-group">
+  {!imageOnly && <label class="reading-control-group">
     <span class="reading-control-label">Text size</span>
     <select data-reading-font-size>
       <option value="small">Small</option>
@@ -48,14 +54,14 @@ const {
       <option value="large">Large</option>
       <option value="xlarge">Extra large</option>
     </select>
-  </label>
+  </label>}
 
-  <label class="reading-control-group">
+  {!imageOnly && <label class="reading-control-group">
     <span class="reading-control-label">Line spacing</span>
     <select data-reading-line-spacing>
       <option value="compact">Compact</option>
       <option value="default" selected>Default</option>
       <option value="relaxed">Relaxed</option>
     </select>
-  </label>
+  </label>}
 </div>

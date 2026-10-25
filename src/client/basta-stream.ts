@@ -96,6 +96,9 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     section.append(grid);
   } else {
     const grid = element("div", "basta-reader-page-grid");
+    const original = renderOriginalImage(page);
+    original.dataset.readingImageExtra = "";
+    grid.append(original);
 
     const roman = element("section", "basta-reader-column basta-reader-roman");
     roman.lang = "en";

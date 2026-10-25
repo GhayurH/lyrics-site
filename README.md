@@ -113,6 +113,12 @@ The page-by-page Basta reader remains server-rendered and usable without JavaScr
 
 Direct `/basta/read/#page-N` links remain supported; the target chunk is loaded on demand.
 
+### Reading Mode
+
+Use **Reading mode** on an individual lyric, a Basta page, or the continuous Basta reader to hide the surrounding site interface. Text size, line spacing, Urdu/Roman/parallel selection, and the existing verse layout continue to work; Basta also provides an **Image** view for the original scan. Tap the content or the Options button to show/hide preferences, and use **× Exit**, Escape, or the mobile back gesture to return. An optional browser fullscreen button appears where supported.
+
+Reading Mode adapts to mobile portrait and landscape without forcing screen orientation. Image view fits the full scan to the available viewport and supports normal browser pinch-to-zoom. The currently visible text/page and independent column scroll positions are retained when switching modes or rotating.
+
 ### Parallel reading and kalam boundaries
 
 When Urdu, Roman Urdu, and (for Basta) an original scan appear side by side, each scrollable column retains its own content height. Scrolling one moves the other visible columns by the corresponding percentage. On Basta pages containing multiple kalams, Urdu and Roman progress is mapped **within each matching kalam**, keeping their boundaries aligned rather than stretching shorter poems to the height of longer ones. The scan follows its page-wide scroll percentage.
