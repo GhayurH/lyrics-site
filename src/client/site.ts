@@ -82,9 +82,10 @@ function initMobileHeaderAutoHide(): void {
     const y = Math.max(0, window.scrollY);
     const delta = y - previousY;
     previousY = y;
+    // A tapped theme/menu button can remain focused on mobile long after the
+    // user resumes reading; only an actually open menu should pin the header.
     if (!mobile.matches || root.dataset.readingFocus === "true" ||
-        root.dataset.mobileNavOpen === "true" ||
-        (header.contains(document.activeElement) && document.activeElement !== document.body)) {
+        root.dataset.mobileNavOpen === "true") {
       show();
       distance = 0;
       return;

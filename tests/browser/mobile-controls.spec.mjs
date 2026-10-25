@@ -113,3 +113,14 @@ test("desktop and no-JavaScript pages keep the site header visible", async ({ pa
   await expect(noJs.locator(".site-header")).toBeVisible();
   await context.close();
 });
+
+test("header still retracts after tapping the theme button", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/200/");
+  await page.locator("#theme-toggle").click();
+  await page.evaluate(() => window.scrollTo({ top: 650, behavior: "instant" }));
+  await expect(page.locator("html")).toHaveAttribute("data-mobile-header-hidden", "true");
+  await page.evaluate(() => window.scrollBy({ top: -125, behavior: "instant" }));
+  await expect(page.locator(".site-header")).toBeVisible();
+});
+
