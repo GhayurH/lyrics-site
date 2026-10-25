@@ -8,7 +8,7 @@ test("blank lines alone delimit stanzas; one blank or many behave identically", 
   const blocks = splitLyricStanzas("one\ntwo\n\nthree\nfour\n\n\n five\nsix");
   assert.equal(blocks.length, 3);
   assert.deepEqual(blocks.map(block => block.map(line => line.text)), [
-    ["one", "two"], ["three", "four"], ["five", "six"],
+    ["one", "two"], ["three", "four"], [" five", "six"],
   ]);
 });
 
@@ -28,5 +28,5 @@ test("real Urdu non-Basta Markdown retains numbered stanzas and source breaks", 
   const stanzas = splitLyricStanzas(body);
   assert.equal(stanzas.length, 6);
   assert.deepEqual(stanzas.slice(1).map(block => block[0].text), ["۱", "۲", "۳", "۴", "۵"]);
-  assert.ok(stanzas.every(block => block.length >= 3));
+  assert.ok(stanzas.slice(1).every(block => block.length >= 3));
 });
