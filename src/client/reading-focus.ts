@@ -177,8 +177,12 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     const page = Number(input?.value);
     if (!Number.isSafeInteger(page) || page <= 0) return;
     const hash = '#page-' + page;
-    if (location.hash === hash) window.dispatchEvent(new Event("basta:navigate-to-page"));
-    else location.hash = hash;
+    // Replace rather than push: Android Back should exit Reading Mode, not
+    // traverse every page jump performed inside it.
+    const url = new URL(location.href);
+    url.hash = hash;
+    history.replaceState(history.state, "", url.pathname + url.search + url.hash);
+    window.dispatchEvent(new Event("basta:navigate-to-page"));
   });
 
   let frame = 0;
