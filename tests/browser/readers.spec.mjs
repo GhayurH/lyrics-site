@@ -109,10 +109,11 @@ test("all text-edition combinations remain readable across themes and responsive
     }
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 4)).toBe(true);
   }
-  await page.getByRole("button", { name: "Dark mode" }).click();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
+  const toggle = page.locator("#theme-toggle");
+  await toggle.click();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await expect(page.locator(".basta-page-urdu")).toBeVisible();
-  await page.getByRole("button", { name: "Light mode" }).click();
+  await toggle.click();
 });
 
 test("rotation and Focus exit retain an actual continuous page rather than the book top", async ({ page }) => {
@@ -120,12 +121,16 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
   await page.goto("/basta/read/#page-138");
   const target = page.locator('[data-basta-page="138"]');
   await expect(target).toBeAttached({ timeout: 20000 });
-  await target.scrollIntoViewIfNeeded();
+  await target.evaluate((node) => node.scrollIntoView({ block: "start", behavior: "instant" }));
+  await page.evaluate(() => window.scrollBy(0, 125));
   await page.locator('[data-reading-column][value="roman"]').uncheck();
   const editions = await page.locator("[data-reading-root]").getAttribute("data-reading-columns");
   await page.getByRole("button", { name: "Focus mode" }).click();
   await page.setViewportSize({ width: 844, height: 390 });
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", editions);
+  // Exit at a known position within page 138, not where the preceding page crosses the reading line.
+  await target.evaluate((node) => node.scrollIntoView({ block: "start", behavior: "instant" }));
+  await page.locator("[data-reading-root]").evaluate((node) => { node.scrollTop += 125; });
   await page.getByRole("button", { name: /Exit reading mode/ }).click();
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
   await expect.poll(() => new URL(page.url()).hash).toBe("#page-138");
@@ -151,7 +156,8 @@ test("the short closing Bain on page 138 keeps independent synchronized panels",
 test("image-only book pages remain legible without JavaScript or an edition selector", async ({ browser }) => {
   const ctx = await browser.newContext({ javaScriptEnabled: false });
   const page = await ctx.newPage();
-  await page.goto("/basta/3/");
+  await page.goto("/basta/1/");
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-image-only", "true");
   await expect(page.locator(".basta-original-page")).toBeVisible();
   await expect(page.locator(".basta-original-page a")).toHaveAttribute("href", /\/images\//);
   await ctx.close();
