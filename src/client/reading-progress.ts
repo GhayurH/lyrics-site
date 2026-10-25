@@ -130,6 +130,8 @@ export function initReadingProgress(): void {
 export function initResumeBasta(): void {
   const pos = readBastaPosition();
   for (const item of document.querySelectorAll<HTMLAnchorElement>("[data-resume-basta]")) {
+    const section = item.closest<HTMLElement>("[data-basta-resume-section]");
+    if (section) section.hidden = !pos;
     if (!pos) { item.hidden = true; continue; }
     const offset = pos.offset === undefined ? "" : `?resume=${pos.offset}`;
     item.href = pos.mode === "continuous" ? `/basta/read/${offset}#page-${pos.page}`

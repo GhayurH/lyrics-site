@@ -7,7 +7,7 @@
 .search-input-wrap { min-width: 0; flex: 1; }
 .search-clear-button { flex: 0 0 auto; }
 .search-primary-filters, .search-secondary-filters { display: grid; gap: 0.75rem; margin-top: 1.25rem; }
-.search-primary-filters { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.search-primary-filters { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 .search-secondary-filters { grid-template-columns: repeat(4, minmax(0, 1fr)); padding-top: 0.5rem; }
 .search-filter-control { min-width: 0; }
 .search-filter-label { display: block; margin-bottom: 0.35rem; color: var(--secondary-text); font-size: 0.75rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; }
@@ -30,3 +30,6 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
   .search-clear-button { align-self: flex-start; }
   .search-primary-filters, .search-secondary-filters { grid-template-columns: 1fr; }
 }
+
+/* Filter chips and clear actions must remain easy to tap on small screens. */
+.search-filter-chip, .search-clear-button { min-height: 2.75rem; }

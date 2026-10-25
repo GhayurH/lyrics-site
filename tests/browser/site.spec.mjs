@@ -68,3 +68,12 @@ test("Search and Saved explain their browser-only features without JavaScript", 
   await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();
   await context.close();
 });
+
+test("Saved avoids an empty resume section until the user reads Basta", async ({ page }) => {
+  await page.goto("/saved/");
+  await expect(page.locator("[data-basta-resume-section]")).toBeHidden();
+  await page.goto("/basta/138/");
+  await page.goto("/saved/");
+  await expect(page.locator("[data-basta-resume-section]")).toBeVisible();
+  await expect(page.locator("[data-resume-basta]")).toHaveAttribute("href", /\/basta\/138\//);
+});

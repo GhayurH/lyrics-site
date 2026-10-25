@@ -241,3 +241,6 @@ html:not([data-reader-enhanced="true"]) .reading-controls { display: none; }
 .lyric-card-link { padding-inline-end: 3.15rem; }
 .lyric-card-save { width: 2.6rem; height: 2.6rem; }
 .favorite-icon-button { min-width: 2.6rem; min-height: 2.6rem; }
+
+/* Shared tertiary actions should meet comfortable mobile touch dimensions. */
+.text-button { min-height: 2.75rem; }
