@@ -161,9 +161,9 @@ test("source scan links remain accessible when JavaScript is disabled", async ({
   const ctx = await browser.newContext({ javaScriptEnabled: false });
   const page = await ctx.newPage();
   await page.goto("/basta/138/");
-  await expect(page.getByRole("link", { name: "Original scan" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Original scan", exact: true })).toBeVisible();
   await page.goto("/lyrics/aa-asghar-bin-tere/");
-  await expect(page.getByRole("link", { name: "Original lyric sheet" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Original lyric sheet", exact: true })).toBeVisible();
   await ctx.close();
 });
 

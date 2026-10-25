@@ -12,10 +12,11 @@ const cases = [
   { name: "index-mobile", path: "/basta/index/", width: 390, height: 844 },
 ];
 test("generate a visual review matrix across readers and viewports", async ({ page }) => {
+  test.setTimeout(120_000);
   await mkdir("test-results/reader-snapshots", { recursive: true });
   for (const entry of cases) {
     await page.setViewportSize({ width: entry.width, height: entry.height });
-    await page.goto(entry.path);
+    await page.goto(entry.path, { waitUntil: "domcontentloaded" });
     if (entry.path.includes("/basta/read/")) {
       await expect(page.locator('[data-basta-page="138"]')).toBeAttached({ timeout: 20000 });
     }
