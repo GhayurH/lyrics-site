@@ -132,12 +132,12 @@
     justify-self: center;
     width: min(100%, 42rem);
   }
-  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-columns~="roman"]) {
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     grid-template-areas: "image" "urdu";
   }
-  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-columns~="urdu"]) {
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     grid-template-areas: "image" "roman";
