@@ -84,30 +84,148 @@
   .reading-scroll-top:not([hidden]) { position: fixed; right: max(0.75rem,env(safe-area-inset-right)); bottom: max(0.75rem,env(safe-area-inset-bottom)); z-index: 105; display: block; box-shadow: 0 0.3rem 1rem rgb(0 0 0 / 0.25); }
 }
 
-/* Wide, short touch screens: controls scroll away in regular view; two texts
-   appear side by side, with any selected image above them. */
-@media (orientation: landscape) and (pointer: coarse) and (min-width: 640px) and (max-height: 700px) {
-  html:not([data-reading-focus="true"]) .site-header,
-  html:not([data-reading-focus="true"]) .reading-controls { position: static !important; }
-  html:not([data-reading-focus="true"]) .reading-controls { box-shadow: none; }
-  .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
-  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] { grid-template-areas: "image image" "roman urdu"; }
-  .lyric-reading-grid[data-reading-columns~="image"]:not([data-reading-columns~="roman"]) { display: grid; grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr); }
-  .lyric-reading-grid[data-reading-columns~="image"]:not([data-reading-columns~="urdu"]) { display: grid; grid-template-areas: "image" "roman"; grid-template-columns: minmax(0,1fr); }
-  .lyric-reading-grid[data-reading-mode="image"] { grid-template-areas: "image" !important; }
-  .basta-parallel-kalams-page, .basta-parallel-kalams-reader { grid-template-columns: repeat(2,minmax(0,1fr)); }
-  .basta-parallel-kalams-page .basta-page-roman,
-  .basta-parallel-kalams-reader .basta-reader-roman { grid-area: auto; grid-row: 1; border-right: 1px solid var(--border-colour); border-bottom: 0; padding: 0 clamp(0.5rem,1.5vw,1rem) 0 0; }
-  .basta-parallel-kalams-page .basta-page-urdu,
-  .basta-parallel-kalams-reader .basta-reader-urdu { grid-area: auto; grid-row: 1; border-bottom: 0; padding: 0 0 0 clamp(0.5rem,1.5vw,1rem); }
+/* Landscape layouts are determined by usable width, not pointer type:
+   Android browsers can report either coarse or fine pointers. Explicit grid
+   areas override older <=920px stacked rules for both regular and focus views. */
+@media (orientation: landscape) and (min-width: 640px) and (max-height: 700px) {
+  /* The controls scroll out of view, rather than occupying reading space. */
+  @media (pointer: coarse) {
+    html:not([data-reading-focus="true"]) .site-header,
+    html:not([data-reading-focus="true"]) .reading-controls { position: static !important; }
+    html:not([data-reading-focus="true"]) .reading-controls { box-shadow: none; }
+  }
+
+  /* Standalone lyrics: always fill two cells, placing the scan above when
+     selected. Merely setting grid-template-columns left the older mobile
+     grid-template-areas assigning one language per row. */
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-areas: "roman urdu";
+    max-width: none;
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
+    grid-template-areas: "image image" "roman urdu";
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .lyric-reading-roman {
+    grid-area: roman;
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    border-top: 0;
+    border-right: 1px solid var(--border-colour);
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .lyric-reading-urdu {
+    grid-area: urdu;
+    grid-column: 2;
+    grid-row: 1;
+    width: 100%;
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .lyric-reading-roman,
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .lyric-reading-urdu {
+    grid-row: 2;
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"] > .lyric-reading-image {
+    grid-area: image;
+    grid-column: 1 / -1;
+    grid-row: 1;
+    justify-self: center;
+    width: min(100%, 42rem);
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-columns~="roman"]) {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "image" "urdu";
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-columns~="urdu"]) {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "image" "roman";
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-mode="image"] {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "image";
+  }
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-columns~="roman"]) > .lyric-reading-urdu,
+  .lyric-reading-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-columns~="urdu"]) > .lyric-reading-roman {
+    grid-row: 2;
+    grid-column: 1;
+  }
+
+  /* Basta: the scan is an outer row; the Roman/Urdu grid must also be
+     switched back from its independent portrait-only stacking rules. */
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .basta-parallel-kalams-page,
+  .basta-reader-flow[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-parallel-kalams-reader {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-areas: "roman urdu";
+    align-items: start;
+    width: 100%;
+  }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .basta-parallel-kalams-page > .basta-page-roman,
+  .basta-reader-flow[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-parallel-kalams-reader > .basta-reader-roman {
+    grid-area: roman;
+    grid-column: 1;
+    grid-row: 1;
+    border-top: 0;
+    border-bottom: 0;
+    border-right: 1px solid var(--border-colour);
+    padding: 0 clamp(0.4rem, 1.3vw, 1rem) 0 0;
+  }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .basta-parallel-kalams-page > .basta-page-urdu,
+  .basta-reader-flow[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-parallel-kalams-reader > .basta-reader-urdu {
+    grid-area: urdu;
+    grid-column: 2;
+    grid-row: 1;
+    border: 0;
+    padding: 0 0 0 clamp(0.4rem, 1.3vw, 1rem);
+  }
+
   .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-columns~="image"],
-  .basta-reader-flow[data-reading-columns~="image"] .basta-reader-page-grid-with-roman { grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important; }
+  .basta-reader-flow[data-reading-root][data-reading-columns~="image"] .basta-reader-page-grid-with-roman {
+    grid-template-areas: "scan" "text" !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
   .basta-page-grid.basta-page-grid-with-roman[data-reading-root]:not([data-reading-columns~="image"]),
-  .basta-reader-flow:not([data-reading-columns~="image"]) .basta-reader-page-grid-with-roman { grid-template-areas: "text" !important; }
-  .basta-reader-flow[data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .basta-parallel-kalams-reader,
-  .basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams-reader,
-  .basta-page-grid[data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .basta-parallel-kalams-page,
-  .basta-page-grid[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams-page { grid-template-columns: minmax(0,1fr); }
+  .basta-reader-flow[data-reading-root]:not([data-reading-columns~="image"]) .basta-reader-page-grid-with-roman {
+    grid-template-areas: "text" !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  /* Once text drops to a single edition, preserve the full single-column
+     measure instead of leaving a blank second cell. */
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) > .basta-parallel-kalams-page,
+  .basta-page-grid[data-reading-root][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) > .basta-parallel-kalams-page,
+  .basta-reader-flow[data-reading-root][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .basta-parallel-kalams-reader,
+  .basta-reader-flow[data-reading-root][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams-reader {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "single";
+  }
+}
+
+/* Focus mode already uses full viewport; prevent auto margins from making
+   its two text panels shrink inside their allocated grid cells. */
+@media (orientation: landscape) and (min-width: 640px) and (max-height: 700px) {
+  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-areas: "roman urdu";
+  }
+  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-root][data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
+    grid-template-areas: "image image" "roman urdu";
+  }
+  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .lyric-reading-panel {
+    margin-inline: 0;
+    width: 100%;
+  }
+  html[data-reading-focus="true"] .basta-page-grid[data-reading-root][data-reading-columns~="image"].basta-page-grid-with-roman,
+  html[data-reading-focus="true"] .basta-reader-flow[data-reading-root][data-reading-columns~="image"] .basta-reader-page-grid-with-roman {
+    grid-template-areas: "scan" "text" !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  html[data-reading-focus="true"] [data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-active="true"] {
+    height: calc(100dvh - 3.5rem - env(safe-area-inset-top));
+  }
 }
 
 /* The controls remain reachable while content takes up the full viewport. */
@@ -145,17 +263,5 @@ html[data-reading-focus="true"] .basta-reader-page-no-roman .basta-reader-origin
 @media (max-width: 920px) {
   html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns] { display: flex; flex-direction: column; }
   html[data-reading-focus="true"] .basta-reader-flow[data-reading-columns~="image"] .basta-reader-page-grid-with-roman { grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important; }
-  html[data-reading-focus="true"] .basta-page-grid[data-reading-columns~="image"].basta-page-grid-with-roman { grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important; }
-}
-@media (orientation: landscape) and (pointer: coarse) and (min-width: 640px) and (max-height: 700px) {
-  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
-  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] { grid-template-areas: "image image" "roman urdu"; }
-  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"]:not([data-reading-columns~="roman"]) { display: grid; grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr); }
-  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"]:not([data-reading-columns~="urdu"]) { display: grid; grid-template-areas: "image" "roman"; grid-template-columns: minmax(0,1fr); }
-  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-mode="image"] { grid-template-areas: "image" !important; }
-  html[data-reading-focus="true"] .basta-parallel-kalams-page,
-  html[data-reading-focus="true"] .basta-parallel-kalams-reader { grid-template-columns: repeat(2,minmax(0,1fr)); }
-  html[data-reading-focus="true"] [data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-active="true"] { height: calc(100dvh - 3.5rem - env(safe-area-inset-top)); }
-  html[data-reading-focus="true"] .basta-reader-flow[data-reading-columns~="image"] .basta-reader-page-grid-with-roman,
   html[data-reading-focus="true"] .basta-page-grid[data-reading-columns~="image"].basta-page-grid-with-roman { grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important; }
 }
