@@ -494,3 +494,36 @@
   }
 }
 
+
+/* Continuous pages show the original scan alongside the bilingual editions. */
+.basta-reader-page-grid-with-roman {
+  grid-template-areas: "scan text";
+  grid-template-columns: minmax(12rem, 0.8fr) minmax(0, 2fr);
+  gap: clamp(0.75rem, 1.5vw, 1.5rem);
+}
+.basta-reader-page-grid-with-roman > .basta-reader-original-image {
+  grid-area: scan;
+  min-width: 0;
+}
+.basta-reader-page-grid-with-roman > .basta-parallel-kalams-reader {
+  grid-area: text;
+  min-width: 0;
+}
+.basta-reader-flow:is([data-reading-mode="urdu"],[data-reading-mode="roman"])
+  .basta-reader-page-grid-with-roman > .basta-reader-original-image { display: none; }
+.basta-reader-flow:is([data-reading-mode="urdu"],[data-reading-mode="roman"])
+  .basta-reader-page-grid-with-roman {
+  grid-template-areas: "text";
+  grid-template-columns: minmax(0, 48rem);
+  justify-content: center;
+}
+@media (max-width: 1100px) {
+  .basta-reader-flow[data-reading-mode="parallel"] .basta-reader-page-grid-with-roman {
+    grid-template-areas: "scan" "text";
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .basta-reader-page-grid-with-roman > .basta-reader-original-image {
+    width: min(100%, 36rem);
+    justify-self: center;
+  }
+}

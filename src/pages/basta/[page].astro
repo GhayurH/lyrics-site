@@ -174,8 +174,9 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       data-reading-mode={!entry.data.imageOnly ? (hasRomanText ? "parallel" : "urdu") : undefined}
       data-font-size={!entry.data.imageOnly ? "default" : undefined}
       data-line-spacing={!entry.data.imageOnly ? "default" : undefined}
+      data-synced-scroll-root={!entry.data.imageOnly ? "" : undefined}
     >
-      <figure class="basta-original-page" data-pagefind-ignore>
+      <figure class="basta-original-page" data-pagefind-ignore data-synced-scroll-panel>
         <figcaption>Original book page</figcaption>
         <a href={entry.data.originalImage}>
           <img

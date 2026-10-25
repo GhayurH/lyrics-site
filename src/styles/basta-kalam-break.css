@@ -75,30 +75,17 @@
   padding-block-start: 0;
 }
 
-/* Each Roman/Urdu kalam occupies one common grid row. The row height is the
-   taller language; Roman is vertically centered inside that shared height. */
+/* Each edition keeps its own kalam boundaries and natural content height.
+   The browser controller synchronizes percentage scrolled, not row heights. */
 .basta-parallel-kalams {
-  min-width: 0;
-}
-
-.basta-parallel-kalam-row,
-.basta-parallel-kalam-headings {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  align-items: stretch;
+  align-items: start;
   min-width: 0;
 }
+.basta-parallel-kalams > section { min-width: 0; }
 
-.basta-kalam-cell {
-  min-width: 0;
-}
-
-.basta-kalam-cell-roman {
-  display: grid;
-  align-content: center;
-}
-
-/* One divider spans both language columns at each kalam boundary. */
+/* A divider in each language's own flow rather than a shared-height row. */
 .basta-kalam-break {
   display: grid;
   grid-template-columns: minmax(2rem, 1fr) auto minmax(2rem, 1fr);
@@ -111,211 +98,101 @@
   line-height: 1;
   opacity: 0.58;
 }
-
 .basta-kalam-break::before,
-.basta-kalam-break::after {
-  content: "";
-  border-top: 1px solid currentColor;
-}
+.basta-kalam-break::after { content: ""; border-top: 1px solid currentColor; }
+.basta-kalam-break > span { display: block; font-size: 0.62rem; line-height: 1; }
 
-.basta-kalam-break > span {
-  display: block;
-  font-size: 0.62rem;
-  line-height: 1;
-}
-
-/* Page-by-page reader: the scan stays beside one bilingual text region rather
-   than forcing Urdu/Roman into unrelated grid cells. */
+/* Page-by-page: scan on the left, two editions inside the text region. */
 .basta-page-grid-with-roman {
   grid-template-columns: minmax(18rem, 0.78fr) minmax(0, 1.72fr);
   align-items: start;
 }
-
 .basta-page-grid-with-roman > .basta-parallel-kalams-page {
   min-width: 0;
   grid-area: text;
 }
-
-/* The bilingual text is a single outer-grid cell beside the scan. */
-@media (min-width: 1101px) {
-  .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="parallel"] {
-    grid-template-areas: "scan text";
-    grid-template-columns: minmax(18rem, 0.78fr) minmax(0, 1.72fr);
-  }
-
-  .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="urdu"],
-  .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="roman"] {
-    grid-template-areas: "scan text";
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-.basta-parallel-kalams-page .basta-kalam-cell-roman,
-.basta-parallel-kalam-headings > .basta-parallel-heading-roman {
+.basta-parallel-kalams-page .basta-page-roman {
   border-right: 1px solid var(--border-colour);
   padding-right: clamp(1rem, 2.5vw, 2rem);
 }
-
-.basta-parallel-kalams-page .basta-kalam-cell-urdu,
-.basta-parallel-kalam-headings > .basta-parallel-heading-urdu {
+.basta-parallel-kalams-page .basta-page-urdu {
   padding-left: clamp(1rem, 2.5vw, 2rem);
 }
 
-.basta-parallel-kalam-headings {
-  margin-bottom: 0.85rem;
+@media (min-width: 1101px) {
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-root] {
+    grid-template-areas: "scan text";
+  }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-mode="parallel"] {
+    grid-template-columns: minmax(18rem, 0.78fr) minmax(0, 1.72fr);
+  }
+  .basta-page-grid.basta-page-grid-with-roman:is([data-reading-mode="urdu"],[data-reading-mode="roman"]) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
-
-.basta-parallel-kalam-headings .basta-page-text-heading {
-  margin: 0;
-}
-
-.basta-parallel-heading-roman {
-  text-align: left;
-}
-
-.basta-parallel-heading-urdu {
-  text-align: right;
-}
-
-/* Reader cells inherit typography and gutters from basta-reader.css;
-   only the grid area changes when cells are nested inside paired rows. */
 .basta-parallel-kalams-reader .basta-reader-roman,
-.basta-parallel-kalams-reader .basta-reader-urdu {
-  grid-area: auto;
-}
+.basta-parallel-kalams-reader .basta-reader-urdu { grid-area: auto; }
 
-/* Reading controls: when one language is selected, collapse each paired row to
-   a centered single column and remove the bilingual gutter. */
-[data-reading-mode="urdu"] .basta-kalam-cell-roman,
-[data-reading-mode="urdu"] .basta-parallel-heading-roman,
-[data-reading-mode="roman"] .basta-kalam-cell-urdu,
-[data-reading-mode="roman"] .basta-parallel-heading-urdu {
-  display: none;
-}
-
-[data-reading-mode="urdu"] .basta-parallel-kalam-row,
-[data-reading-mode="roman"] .basta-parallel-kalam-row,
-[data-reading-mode="urdu"] .basta-parallel-kalam-headings,
-[data-reading-mode="roman"] .basta-parallel-kalam-headings {
-  grid-template-areas: "single";
+/* Single-language modes return to a natural, unconstrained column. */
+[data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-page-roman,
+[data-reading-mode="roman"] .basta-parallel-kalams-page .basta-page-urdu { display: none; }
+[data-reading-mode="urdu"] .basta-parallel-kalams,
+[data-reading-mode="roman"] .basta-parallel-kalams {
   grid-template-columns: minmax(0, 48rem);
   justify-content: center;
 }
-
-[data-reading-mode="urdu"] .basta-kalam-cell-urdu,
-[data-reading-mode="roman"] .basta-kalam-cell-roman,
-[data-reading-mode="urdu"] .basta-parallel-heading-urdu,
-[data-reading-mode="roman"] .basta-parallel-heading-roman {
-  grid-area: single;
+[data-reading-mode="urdu"] .basta-parallel-kalams > .basta-page-urdu,
+[data-reading-mode="roman"] .basta-parallel-kalams > .basta-page-roman,
+[data-reading-mode="urdu"] .basta-parallel-kalams > .basta-reader-urdu,
+[data-reading-mode="roman"] .basta-parallel-kalams > .basta-reader-roman {
   border: 0;
   padding-inline: 0;
 }
-
-/* At reader mobile widths, Urdu precedes Roman and centering is disabled. */
-@media (max-width: 920px) {
-  .basta-parallel-kalams-reader .basta-parallel-kalam-row {
-    grid-template-areas:
-      "urdu"
-      "roman";
-    grid-template-columns: 1fr;
-  }
-
-  .basta-parallel-kalams-reader .basta-kalam-cell-urdu {
-    grid-area: urdu;
-    border-bottom: 1px solid var(--border-colour);
-    padding: 0 0 1.4rem;
-  }
-
-  .basta-parallel-kalams-reader .basta-kalam-cell-roman {
-    grid-area: roman;
-    align-content: start;
-    border-right: 0;
-    padding: 1.4rem 0 0;
-  }
-
-  [data-reading-mode="urdu"] .basta-parallel-kalams-reader .basta-parallel-kalam-row,
-  [data-reading-mode="roman"] .basta-parallel-kalams-reader .basta-parallel-kalam-row {
-    grid-template-areas: "single";
-    grid-template-columns: minmax(0, 48rem);
-  }
-
-  [data-reading-mode="urdu"] .basta-parallel-kalams-reader .basta-kalam-cell-urdu,
-  [data-reading-mode="roman"] .basta-parallel-kalams-reader .basta-kalam-cell-roman {
-    grid-area: single;
-  }
-
-  [data-reading-mode="urdu"] .basta-parallel-kalams-reader .basta-kalam-cell-urdu,
-  [data-reading-mode="roman"] .basta-parallel-kalams-reader .basta-kalam-cell-roman {
-    border-bottom: 0;
-    padding-block: 0;
-  }
-}
-
-/* Stack the scan above bilingual text on medium-width screens. */
 @media (max-width: 1100px) {
-  .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="parallel"],
-  .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="urdu"],
-  .basta-page-grid.basta-page-grid-with-roman[data-reading-root][data-reading-mode="roman"] {
-    grid-template-areas:
-      "scan"
-      "text";
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-root] {
+    grid-template-areas: "scan" "text";
     grid-template-columns: minmax(0, 1fr);
   }
-
   .basta-page-grid-with-roman > .basta-original-page {
     width: min(100%, 42rem);
     justify-self: center;
   }
 }
-
-@media (max-width: 760px) {
-  .basta-parallel-kalams-page .basta-parallel-kalam-row,
-  .basta-parallel-kalams-page .basta-parallel-kalam-headings {
-    grid-template-areas:
-      "urdu"
-      "roman";
-    grid-template-columns: 1fr;
+@media (max-width: 920px) {
+  .basta-parallel-kalams-reader { grid-template-columns: minmax(0, 1fr); }
+  .basta-parallel-kalams-reader .basta-reader-urdu {
+    grid-row: 1;
+    border-bottom: 1px solid var(--border-colour);
+    padding: 0 0 1.4rem;
   }
-
-  .basta-parallel-kalams-page .basta-kalam-cell-urdu,
-  .basta-parallel-heading-urdu {
-    grid-area: urdu;
+  .basta-parallel-kalams-reader .basta-reader-roman {
+    grid-row: 2;
+    border-right: 0;
+    padding: 1.4rem 0 0;
+  }
+  [data-reading-mode="urdu"] .basta-parallel-kalams-reader .basta-reader-urdu,
+  [data-reading-mode="roman"] .basta-parallel-kalams-reader .basta-reader-roman {
+    grid-row: 1;
+    border: 0;
+    padding-block: 0;
+  }
+}
+@media (max-width: 760px) {
+  .basta-parallel-kalams-page { grid-template-columns: minmax(0, 1fr); }
+  .basta-parallel-kalams-page .basta-page-urdu {
+    grid-row: 1;
     border-bottom: 1px solid var(--border-colour);
     padding: 0 0 1.25rem;
   }
-
-  .basta-parallel-kalams-page .basta-kalam-cell-roman,
-  .basta-parallel-heading-roman {
-    grid-area: roman;
-    align-content: start;
+  .basta-parallel-kalams-page .basta-page-roman {
+    grid-row: 2;
     border-right: 0;
     padding: 1.25rem 0 0;
   }
-
-  .basta-parallel-kalam-headings {
-    gap: 0;
-  }
-
-  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-parallel-kalam-row,
-  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-parallel-kalam-row,
-  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-parallel-kalam-headings,
-  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-parallel-kalam-headings {
-    grid-template-areas: "single";
-    grid-template-columns: minmax(0, 48rem);
-  }
-
-  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-kalam-cell-urdu,
-  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-kalam-cell-roman,
-  [data-reading-mode="urdu"] .basta-parallel-heading-urdu,
-  [data-reading-mode="roman"] .basta-parallel-heading-roman {
-    grid-area: single;
-  }
-
-  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-kalam-cell-urdu,
-  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-kalam-cell-roman,
-  [data-reading-mode="urdu"] .basta-parallel-heading-urdu,
-  [data-reading-mode="roman"] .basta-parallel-heading-roman {
-    border-bottom: 0;
+  [data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-page-urdu,
+  [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-page-roman {
+    grid-row: 1;
+    border: 0;
     padding-block: 0;
   }
 }

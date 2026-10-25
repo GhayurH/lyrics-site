@@ -42,51 +42,28 @@ function appendBastaText(container: HTMLElement, value: string, indentStanzas = 
 }
 
 function renderParallelText(page: BastaReaderPageData): HTMLElement {
-  const wrapper = element(
-    "div",
-    "basta-parallel-kalams basta-parallel-kalams-reader",
-  );
-  const urduKalams = splitBastaKalams(page.urduText);
-  const romanKalams = splitBastaKalams(page.romanText);
-  const count = Math.max(urduKalams.length, romanKalams.length);
+  // Mirror BastaParallelText.astro for chunks loaded after the first one.
+  const wrapper = element("div", "basta-parallel-kalams basta-parallel-kalams-reader");
 
-  for (let index = 0; index < count; index += 1) {
-    if (index > 0) wrapper.append(renderKalamBreak());
+  const roman = element("section", "basta-reader-column basta-reader-roman");
+  roman.lang = "en";
+  roman.dir = "ltr";
+  roman.dataset.syncedScrollPanel = "";
+  roman.setAttribute("aria-label", `Roman Urdu text of Basta page ${page.page}`);
+  const romanText = element("div", "basta-reader-text");
+  appendBastaText(romanText, page.romanText, true, page.stanzaStyle);
+  roman.append(romanText);
 
-    const row = element("div", "basta-parallel-kalam-row");
+  const urdu = element("section", "basta-reader-column basta-reader-urdu");
+  urdu.lang = "ur";
+  urdu.dir = "rtl";
+  urdu.dataset.syncedScrollPanel = "";
+  urdu.setAttribute("aria-label", `Urdu text of Basta page ${page.page}`);
+  const urduText = element("div", "basta-reader-text");
+  appendBastaText(urduText, page.urduText, true, page.stanzaStyle);
+  urdu.append(urduText);
 
-    const roman = element(
-      "section",
-      "basta-reader-column basta-reader-roman basta-kalam-cell basta-kalam-cell-roman",
-    );
-    roman.lang = "en";
-    roman.dir = "ltr";
-    roman.setAttribute(
-      "aria-label",
-      `Roman Urdu kalam ${index + 1} of Basta page ${page.page}`,
-    );
-    const romanText = element("div", "basta-reader-text basta-kalam-text");
-    appendBastaVerses(romanText, romanKalams[index] ?? "", true, page.stanzaStyle);
-    roman.append(romanText);
-
-    const urdu = element(
-      "section",
-      "basta-reader-column basta-reader-urdu basta-kalam-cell basta-kalam-cell-urdu",
-    );
-    urdu.lang = "ur";
-    urdu.dir = "rtl";
-    urdu.setAttribute(
-      "aria-label",
-      `Urdu kalam ${index + 1} of Basta page ${page.page}`,
-    );
-    const urduText = element("div", "basta-reader-text basta-kalam-text");
-    appendBastaVerses(urduText, urduKalams[index] ?? "", true, page.stanzaStyle);
-    urdu.append(urduText);
-
-    row.append(roman, urdu);
-    wrapper.append(row);
-  }
-
+  wrapper.append(roman, urdu);
   return wrapper;
 }
 
@@ -96,6 +73,7 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
   if (!page.hasRoman && !page.imageOnly) section.classList.add("basta-reader-page-no-roman");
   section.id = `page-${page.page}`;
   section.dataset.bastaPage = String(page.page);
+  section.dataset.syncedScrollRoot = "";
 
   if (page.imageOnly) {
     const figure = element("figure", "basta-reader-original-image");
@@ -107,7 +85,17 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     figure.append(image);
     section.append(figure);
   } else if (page.hasRoman) {
-    section.append(renderParallelText(page));
+    const grid = element("div", "basta-reader-page-grid basta-reader-page-grid-with-roman");
+    const figure = element("figure", "basta-reader-original-image");
+    figure.dataset.syncedScrollPanel = "";
+    const image = element("img");
+    image.src = page.originalImage;
+    image.alt = `Original scan of Basta page ${page.page}`;
+    image.loading = "lazy";
+    image.decoding = "async";
+    figure.append(image);
+    grid.append(figure, renderParallelText(page));
+    section.append(grid);
   } else {
     const grid = element("div", "basta-reader-page-grid");
 

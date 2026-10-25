@@ -241,9 +241,11 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       data-reading-mode={data.romanLyrics ? "parallel" : "urdu"}
       data-font-size="default"
       data-line-spacing="default"
+      data-synced-scroll-root
     >
       <section
         class="lyric-reading-panel lyric-reading-urdu"
+        data-synced-scroll-panel
         dir={data.direction}
         lang={data.lang}
         aria-label={`${data.language} lyrics`}
@@ -256,6 +258,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         data.romanLyrics && (
           <section
             class="lyric-reading-panel lyric-reading-roman"
+            data-synced-scroll-panel
             lang="en"
             dir="ltr"
             aria-label="Roman Urdu lyrics"
