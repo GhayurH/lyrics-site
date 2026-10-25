@@ -42,6 +42,7 @@ test("appearance persists across pages and search filters are accessible", async
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
+  await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#f7f7f8");
   await page.goto("/search/");
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await expect(page.locator("pagefind-input")).toBeAttached();

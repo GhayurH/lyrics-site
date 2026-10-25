@@ -53,6 +53,7 @@ function initThemeToggle(): void {
     const theme = root.dataset.theme === "dark" ? "light" : "dark";
     root.dataset.theme = theme;
     root.dataset.pfTheme = theme;
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", theme === "light" ? "#f7f7f8" : "#171719");
     try {
       localStorage.setItem("theme", theme);
     } catch {}
