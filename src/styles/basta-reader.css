@@ -1,7 +1,4 @@
 /* File role: Continuous Basta reader styles: controls the full-book flow, bilingual page/index layouts, reading modes, and reader-specific responsive behavior. */
-/* Unified continuous Basta reader and bilingual index modes.
-   Existing page-by-page basics remain in basta.css. */
-
 .basta-reader {
   max-width: 84rem;
   margin: 0 auto;
@@ -64,12 +61,6 @@
   padding-left: clamp(1rem, 2.5vw, 2rem);
 }
 
-.basta-reader-text {
-  white-space: pre-wrap;
-  overflow-wrap: anywhere;
-  unicode-bidi: plaintext;
-}
-
 .basta-reader-urdu .basta-reader-text {
   font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
   font-size: var(--basta-urdu-size);
@@ -125,6 +116,8 @@
   display: block;
   width: 100%;
   height: auto;
+  aspect-ratio: auto 1240 / 1754;
+  object-fit: contain;
 }
 
 .basta-reader-index {
@@ -413,10 +406,7 @@
     padding-block: 0;
   }
 
-  /*
-   * Keep each section together on mobile: Urdu heading/table first,
-   * then Roman heading/table. There is no side-by-side table squeeze.
-   */
+  /* Stack each index section's Urdu heading/table before its Roman edition. */
   .basta-parallel-index-overall-headings {
     grid-template-areas:
       "urdu"
@@ -464,11 +454,6 @@
     margin-bottom: 0.65rem;
   }
 
-  /*
-   * Crucially, do NOT restore a 30rem/34rem minimum width here.
-   * BastaIndexTable.astro makes the tables genuinely viewport-sized at
-   * phone widths.
-   */
 }
 
 @media (max-width: 640px) {
@@ -485,3 +470,27 @@
     font-size: 1.2rem;
   }
 }
+
+/* Streaming placeholders and offscreen containment for the continuous reader. */
+.basta-reader-chunk { min-width: 0; }
+.basta-reader-chunk:not([data-chunk-loaded="true"]) {
+  display: grid;
+  min-height: 22rem;
+  place-items: center;
+  margin: 1rem 0 2rem;
+  border: 1px dashed var(--border-colour);
+  border-radius: 0.75rem;
+  color: var(--secondary-text);
+}
+.basta-reader-chunk-message { margin: 0; padding: 1rem; text-align: center; }
+.basta-reader-chunk-error { gap: 0.75rem; align-content: center; }
+
+/* Reduce work for pages outside the viewport without losing scroll size. */
+@supports (content-visibility: auto) {
+  .basta-reader-page,
+  .basta-reader-index {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 70rem;
+  }
+}
+
