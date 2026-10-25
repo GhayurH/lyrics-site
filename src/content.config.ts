@@ -40,6 +40,9 @@ const lyrics = defineCollection({
     cover: z.string().optional(),
     coverAlt: z.string().default(""),
     published: z.boolean().default(true),
+    // Printed Basta page and the cross-reference wording (use both together).
+    bastaPage: z.number().int().positive().optional(),
+    bastaNote: z.enum(["original-selection", "additional-stanzas"]).optional(),
     romanLyrics: z.string().optional(),
   }),
 });

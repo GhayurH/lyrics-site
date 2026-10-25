@@ -10,6 +10,8 @@ aliases:
   - "Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
 cover: "/images/lyrics/shaam-se-jab-ahl-e-bait-ghamzada-giryaan-chalay.png"
 coverAlt: "Cover image for Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
+bastaPage: 264
+bastaNote: original-selection
 published: true
 romanLyrics: |-
   1
