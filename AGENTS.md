@@ -1,6 +1,6 @@
 # Kalam Archive agent guide
 
-This file is the short operational contract for coding agents. Human-facing setup and content rules live in `README.md` and `CONTRIBUTING.md`; architecture boundaries live in `docs/ARCHITECTURE.md`.
+This file is the short operational contract for coding agents. Human-facing setup and content rules live in `README.md` and `docs/CONTRIBUTING.md`; architecture boundaries live in `docs/ARCHITECTURE.md`.
 
 ## Preserve behavior and content
 
@@ -22,6 +22,8 @@ Prefer extending an existing shared helper/component over copying logic into ano
 ## Reader/search rules
 
 - Normal lyrics and all Basta readers share `ReadingControls.astro` and `src/client/reader-state.ts`.
+- Parallel reading uses `src/client/synced-columns.ts`; the `---***---` separators must remain paired between Basta Urdu/Roman files.
+- Both static and streamed Basta markup must preserve title, poet-credit, and kalam-boundary semantics. The shared Basta rules live in `src/styles/basta.css`.
 - The continuous Basta reader is chunked; do not regress it to shipping the entire book HTML on first load.
 - The page-by-page Basta reader is the static/non-JavaScript fallback and must remain usable.
 - Pagefind assets belong on the Search route only.
@@ -32,6 +34,7 @@ Prefer extending an existing shared helper/component over copying logic into ano
 Run:
 
 ```bash
+npm test
 npm run build
 git diff --check
 git status --short

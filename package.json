@@ -7,6 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "npm test",
     "build": "astro build && pagefind",
     "preview": "astro preview",
     "search-preview": "npm run build && astro preview",

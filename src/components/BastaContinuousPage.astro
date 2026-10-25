@@ -20,6 +20,7 @@ const { page } = Astro.props as Props;
   ]}
   id={`page-${page.page}`}
   data-basta-page={page.page}
+  data-synced-scroll-root
 >
   {
     page.imageOnly ? (
@@ -32,13 +33,23 @@ const { page } = Astro.props as Props;
         />
       </figure>
     ) : page.hasRoman ? (
-      <BastaParallelText
-        urduText={page.urduText}
-        romanText={page.romanText}
-        variant="reader"
-        stanzaStyle={page.stanzaStyle}
-        page={page.page}
-      />
+      <div class="basta-reader-page-grid basta-reader-page-grid-with-roman">
+        <figure class="basta-reader-original-image" data-synced-scroll-panel>
+          <img
+            src={page.originalImage}
+            alt={`Original scan of Basta page ${page.page}`}
+            loading="lazy"
+            decoding="async"
+          />
+        </figure>
+        <BastaParallelText
+          urduText={page.urduText}
+          romanText={page.romanText}
+          variant="reader"
+          stanzaStyle={page.stanzaStyle}
+          page={page.page}
+        />
+      </div>
     ) : (
       <div class="basta-reader-page-grid">
         <section class="basta-reader-column basta-reader-roman" lang="en" dir="ltr" aria-label={`Roman Urdu text of Basta page ${page.page}`}>

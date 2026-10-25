@@ -394,3 +394,26 @@ test("prose-mode Basta pages still mark standalone stanza numbers", () => {
   assert.equal(lines[0].stanzaNumber, "3");
   assert.ok(bastaVerseClassNames(lines[0]).includes("poetry-stanza-number"));
 });
+
+test("Basta titles are emphasized without emphasizing credits, poets, or verses", () => {
+  const preface = layoutBastaKalam("Title of kalam\nPoet's name\n\nTitle of kalam\nFirst verse");
+  assert.ok(bastaVerseClassNames(preface[0]).includes("basta-kalam-title"));
+  assert.ok(!bastaVerseClassNames(preface[1]).includes("basta-kalam-title"));
+  assert.ok(!bastaVerseClassNames(preface[3]).includes("basta-kalam-title"));
+  const noIndent = layoutBastaKalam("Title\n\n۱\nVerse", false);
+  assert.ok(noIndent[0].title, "title still detected when indentation is disabled");
+  assert.ok(!noIndent[2].title, "the stanza number is not a title");
+});
+
+test("Basta page 138 Bain heading is emphasized in Urdu and Roman", () => {
+  for (const [folder, heading] of [["pages", "بین"], ["roman", "Bain"]]) {
+    const text = readFileSync(new URL(`../src/data/basta/${folder}/138.md`, import.meta.url), "utf8");
+    const body = text.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+    const secondKalam = splitBastaKalams(body)[1];
+    const lines = layoutBastaKalam(secondKalam);
+    assert.equal(lines[0].text, heading);
+    assert.ok(lines[0].title);
+    assert.ok(bastaVerseClassNames(lines[0]).includes("basta-kalam-title"));
+    assert.ok(!lines[2].title, "the Bain text is not a heading");
+  }
+});

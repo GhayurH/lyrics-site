@@ -23,7 +23,7 @@ The repository also contains a digital edition of **_Basta_ by Professor Syed Si
 - Roman Urdu transliteration
 - a searchable, hyperlinked book index
 - page-by-page reading
-- a progressively loaded continuous Urdu/Roman reader
+- a progressively loaded continuous Urdu/Roman reader with original scans
 
 The aim is preservation rather than modernization: source wording, stanza structure, punctuation, page numbering, and other meaningful features are retained as far as practical.
 
@@ -109,9 +109,15 @@ The Saved/Recent page does not embed the complete lyrics catalog into every page
 
 ## Continuous Basta reader
 
-The page-by-page Basta reader remains fully static. The continuous reader keeps the same reading modes but avoids shipping the whole book in its initial HTML: the first chunk and linked index are server-rendered, while later eight-page chunks are pre-rendered as static JSON and loaded as the reader approaches them.
+The page-by-page Basta reader remains server-rendered and usable without JavaScript. The continuous reader keeps the same reading modes but avoids shipping the whole book in its initial HTML: the first chunk and linked index are server-rendered, while later eight-page chunks are pre-rendered as static JSON and loaded as the reader approaches them.
 
 Direct `/basta/read/#page-N` links remain supported; the target chunk is loaded on demand.
+
+### Parallel reading and kalam boundaries
+
+When Urdu, Roman Urdu, and (for Basta) an original scan appear side by side, each scrollable column retains its own content height. Scrolling one moves the other visible columns by the corresponding percentage. On Basta pages containing multiple kalams, Urdu and Roman progress is mapped **within each matching kalam**, keeping their boundaries aligned rather than stretching shorter poems to the height of longer ones. The scan follows its page-wide scroll percentage.
+
+The explicit `---***---` line in Basta Markdown separates kalams. These boundaries are preserved in both Urdu and Roman editions, including the page-by-page reader and streamed continuous-reader chunks. Titles identified in the text preface are bold and underlined; poet credits are not. Standalone lyrics use bold, underlined page titles. Narrow layouts stack the editions and use ordinary document scrolling.
 
 ## Development
 
@@ -129,10 +135,16 @@ Start the local development server:
 npm run dev
 ```
 
-Build the production site and Pagefind index:
+Build the production site and Pagefind index (the pre-build hook runs the regression tests first):
 
 ```bash
 npm run build
+```
+
+Run the regression tests:
+
+```bash
+npm test
 ```
 
 Preview a production build locally:

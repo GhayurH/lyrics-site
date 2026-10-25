@@ -29,7 +29,7 @@ npm run build
 npm run preview
 ```
 
-`npm run build` runs the Astro production build followed by Pagefind indexing.
+`npm run build` runs the regression tests first via `prebuild`, then the Astro production build and Pagefind indexing.
 
 ## Content contribution rules
 
@@ -94,6 +94,8 @@ When editing Basta material:
 - `npm run basta:sync` and `npm run basta:sync:check` are also index-only for safe use after proofreading
 - `npm run basta:breaks:rebuild` explicitly reconstructs poem separators and **must not** be run on manually reviewed page text without checking the results
 - preserve image paths such as `/images/basta/...`; do not replace them with the R2 custom-domain hostname
+- preserve explicit `---***---` between-kalam markers in **both** language files: parallel scrolling uses these to align matching kalams within one page
+- keep kalam title/byline prefaces intact; only genuine headings are bold and underlined by the renderer
 
 The page-by-page and continuous readers both derive from these shared sources. The continuous reader's JSON chunks are generated at build time; they are not hand-maintained files.
 
@@ -232,7 +234,7 @@ Large image/PDF binaries should not be added back to Git.
 
 ## Code and maintenance notes
 
-The detailed implementation map lives in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md). The following rules are the maintenance contract.
+The detailed implementation map lives in [ARCHITECTURE.md](ARCHITECTURE.md). The following rules are the maintenance contract.
 
 ### CSS ownership
 
@@ -246,8 +248,7 @@ Route/feature styles live in their own files:
 - `search.css`
 - `lyrics.css`
 - `basta.css`
-- `basta-reader.css`
-- `basta-stream.css`
+- `basta-reader.css` (continuous reader and bilingual Basta index)
 
 Do not recreate a global override stack. A route-specific rule belongs with its route; a genuinely shared primitive belongs in `core.css`.
 
@@ -264,6 +265,8 @@ Browser-local persistence should use `src/client/storage.ts` rather than parsing
 ### Reading controls
 
 Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. Do not reimplement mode/text-size/spacing persistence inside an individual route.
+
+`src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. The original scan follows whole-page percentage; stacked and single-language layouts remain ordinary document flows.
 
 ### Basta layouts and streaming
 
@@ -289,6 +292,7 @@ New substantive source/style/config files should contain a concise `File role:` 
 For normal code/content changes, run:
 
 ```bash
+npm test
 npm run build
 git diff --check
 git status --short
@@ -301,6 +305,3 @@ Review the diff before committing. For asset changes, verify that the correspond
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
-
-
-The Basta landing page and pager components share `src/client/basta-navigation.ts` for page-jump validation and index-gap routing.

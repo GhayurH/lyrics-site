@@ -1,7 +1,8 @@
 ---
-// File role: Shared bilingual Basta renderer: pairs corresponding Roman/Urdu kalams into common rows so separators and vertical rhythm stay aligned.
-import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
-import "../styles/basta-kalam-break.css";
+// File role: Shared bilingual Basta renderer with independently sized Roman and
+// Urdu editions; the shared browser controller synchronizes scroll percentages.
+import BastaText from "./BastaText.astro";
+import type { BastaStanzaStyle } from "../lib/basta-text";
 
 interface Props {
   urduText: string;
@@ -20,77 +21,28 @@ const {
   stanzaStyle = "auto",
   showHeadings = false,
 } = Astro.props as Props;
-
-const urduKalams = splitBastaKalams(urduText);
-const romanKalams = splitBastaKalams(romanText);
-const count = Math.max(urduKalams.length, romanKalams.length);
-const rows = Array.from({ length: count }, (_, index) => ({
-  urdu: urduKalams[index] ?? "",
-  roman: romanKalams[index] ?? "",
-}));
-
 const isPage = variant === "page";
-const romanCellClass = isPage
-  ? "basta-page-text basta-page-roman basta-kalam-cell basta-kalam-cell-roman"
-  : "basta-reader-column basta-reader-roman basta-kalam-cell basta-kalam-cell-roman";
-const urduCellClass = isPage
-  ? "basta-page-text basta-page-urdu basta-kalam-cell basta-kalam-cell-urdu"
-  : "basta-reader-column basta-reader-urdu basta-kalam-cell basta-kalam-cell-urdu";
-const romanTextClass = isPage ? "basta-roman-text basta-kalam-text" : "basta-reader-text basta-kalam-text";
-const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reader-text basta-kalam-text";
 ---
 
 <div class:list={["basta-parallel-kalams", `basta-parallel-kalams-${variant}`]}>
-  {
-    showHeadings && (
-      <div class="basta-parallel-kalam-headings">
-        <h2 class="basta-page-text-heading basta-parallel-heading basta-parallel-heading-roman">
-          Roman Urdu
-        </h2>
-        <h2 class="basta-page-text-heading basta-parallel-heading basta-parallel-heading-urdu">
-          Urdu text
-        </h2>
-      </div>
-    )
-  }
-
-  {
-    rows.map((row, index) => (
-      <>
-        {index > 0 && (
-          <div class="basta-kalam-break" role="separator" aria-label="Kalam separator">
-            <span aria-hidden="true">✦</span>
-          </div>
-        )}
-
-        <div class="basta-parallel-kalam-row">
-          <section
-            class={romanCellClass}
-            lang="en"
-            dir="ltr"
-            aria-label={`Roman Urdu kalam ${index + 1} of Basta page ${page}`}
-          >
-            <div class={romanTextClass}>
-              {layoutBastaKalam(row.roman, true, stanzaStyle).filter((line) => !line.hidden).map((line) => (
-                <span class={bastaVerseClassNames(line)}>{line.text}</span>
-              ))}
-            </div>
-          </section>
-
-          <section
-            class={urduCellClass}
-            lang="ur"
-            dir="rtl"
-            aria-label={`Urdu kalam ${index + 1} of Basta page ${page}`}
-          >
-            <div class={urduTextClass}>
-              {layoutBastaKalam(row.urdu, true, stanzaStyle).filter((line) => !line.hidden).map((line) => (
-                <span class={bastaVerseClassNames(line)}>{line.text}</span>
-              ))}
-            </div>
-          </section>
-        </div>
-      </>
-    ))
-  }
+  <section
+    class={isPage ? "basta-page-text basta-page-roman" : "basta-reader-column basta-reader-roman"}
+    data-synced-scroll-panel
+    lang="en"
+    dir="ltr"
+    aria-label={`Roman Urdu text of Basta page ${page}`}
+  >
+    {showHeadings && <h2 class="basta-page-text-heading">Roman Urdu</h2>}
+    <BastaText text={romanText} className={isPage ? "basta-roman-text" : "basta-reader-text"} stanzaStyle={stanzaStyle} />
+  </section>
+  <section
+    class={isPage ? "basta-page-text basta-page-urdu" : "basta-reader-column basta-reader-urdu"}
+    data-synced-scroll-panel
+    lang="ur"
+    dir="rtl"
+    aria-label={`Urdu text of Basta page ${page}`}
+  >
+    {showHeadings && <h2 class="basta-page-text-heading">Urdu text</h2>}
+    <BastaText text={urduText} className={isPage ? "basta-urdu-text" : "basta-reader-text"} stanzaStyle={stanzaStyle} />
+  </section>
 </div>

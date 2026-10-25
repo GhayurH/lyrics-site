@@ -86,8 +86,6 @@ export function layoutBastaKalam(
       verse: false,
     };
   });
-  if (!indentStanzas) return display;
-
   const blocks: Array<{ start: number; end: number }> = [];
   for (let pos = 0; pos < lines.length;) {
     if (!lines[pos].trim()) {
@@ -138,11 +136,16 @@ export function layoutBastaKalam(
     const matchesFirstVerse = heading === lines[next.start].trim();
     const isStandAloneHeading = block.end - block.start === 1 &&
       !prefaceBlocks.has(index + 1) &&
-      (heading.includes(" / ") || isStanzaNumber(lines[next.start]));
+      (heading.includes(" / ") ||
+        isStanzaNumber(lines[next.start]) ||
+        /^(?:بین|Bain)$/iu.test(heading));
     if ((matchesFirstVerse || isStandAloneHeading) && !isCreditLine(heading)) {
       display[block.start].title = true;
     }
   }
+
+  // Titles are independent of stanza indentation (including early Basta pages).
+  if (!indentStanzas) return display;
 
   let previousVerseCount = 0;
   let previousCoupletBlock: { start: number; end: number } | undefined;
@@ -257,6 +260,7 @@ export function bastaVerseClassNames(line: BastaDisplayLine): string {
     line.indent && "basta-verse-indent",
     line.reverseIndent && "basta-verse-reverse-indent",
     (line.verse || line.title) && "basta-verse-poetry",
+    line.title && "basta-kalam-title",
     line.coupletSeparator && "basta-couplet-separator",
     line.sixClosingStart && "basta-six-closing-start",
     line.sixClosingEnd && "basta-six-closing-end",
