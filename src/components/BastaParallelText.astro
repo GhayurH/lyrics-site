@@ -1,6 +1,6 @@
 ---
 // File role: Shared bilingual Basta renderer: pairs corresponding Roman/Urdu kalams into common rows so separators and vertical rhythm stay aligned.
-import { splitBastaKalams } from "../lib/basta-text";
+import { splitBastaKalams, splitBastaRefrain } from "../lib/basta-text";
 import "../styles/basta-kalam-break.css";
 
 interface Props {
@@ -23,8 +23,8 @@ const urduKalams = splitBastaKalams(urduText);
 const romanKalams = splitBastaKalams(romanText);
 const count = Math.max(urduKalams.length, romanKalams.length);
 const rows = Array.from({ length: count }, (_, index) => ({
-  urdu: urduKalams[index] ?? "",
-  roman: romanKalams[index] ?? "",
+  urdu: splitBastaRefrain(urduKalams[index] ?? ""),
+  roman: splitBastaRefrain(romanKalams[index] ?? ""),
 }));
 
 const isPage = variant === "page";
@@ -68,7 +68,10 @@ const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reade
             dir="ltr"
             aria-label={`Roman Urdu kalam ${index + 1} of Basta page ${page}`}
           >
-            <div class={romanTextClass}>{row.roman}</div>
+            <div class={romanTextClass}>
+              {row.roman.body}
+              {row.roman.refrain && <span class="basta-refrain">{row.roman.refrain}</span>}
+            </div>
           </section>
 
           <section
@@ -77,7 +80,10 @@ const urduTextClass = isPage ? "basta-urdu-text basta-kalam-text" : "basta-reade
             dir="rtl"
             aria-label={`Urdu kalam ${index + 1} of Basta page ${page}`}
           >
-            <div class={urduTextClass}>{row.urdu}</div>
+            <div class={urduTextClass}>
+              {row.urdu.body}
+              {row.urdu.refrain && <span class="basta-refrain">{row.urdu.refrain}</span>}
+            </div>
           </section>
         </div>
       </>

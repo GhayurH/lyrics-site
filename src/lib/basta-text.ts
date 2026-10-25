@@ -23,3 +23,20 @@ export function splitBastaKalams(text: string): string[] {
   pushCurrent();
   return kalams;
 }
+
+/** A standalone final line is a closing first-line reprise, not a new stanza. */
+export function splitBastaRefrain(kalam: string): { body: string; refrain?: string } {
+  const lines = kalam.trimEnd().split("\n");
+  const last = lines.at(-1)?.trim() ?? "";
+  const bodyLines = lines.slice(0, -1);
+  if (
+    !last ||
+    bodyLines.at(-1)?.trim() !== "" ||
+    bodyLines.filter((line) => line.trim() !== "").length < 2 ||
+    /^(?:[\[(（]|\d+$)/u.test(last)
+  ) {
+    return { body: kalam };
+  }
+
+  return { body: bodyLines.join("\n").trimEnd(), refrain: last };
+}

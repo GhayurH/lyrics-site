@@ -1,0 +1,47 @@
+name: One-time Basta OCR source-marker cleanup
+
+on:
+  push:
+    branches:
+      - fix/basta-refrain-source-markers-2026-10
+
+permissions:
+  contents: write
+
+jobs:
+  clean:
+    if: "!contains(github.event.head_commit.message, 'Remove OCR source wrappers across Basta')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Clean both language folders without changing verse text
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          const wrapper = /^[ \\t]*\\[[ \\t]*(?:ماخذ|مآخذ|مأخذ|ماخد|مآخد|Makhaz|Maakhaz|Makhz|Ma'khaz|Maakhadh)[ \\t]*[:：][ \\t]*(.*?)[ \\t]*\\][ \\t]*$/gmi;
+          let pages = 0, lines = 0;
+          for (const folder of ['src/data/basta/pages', 'src/data/basta/roman']) {
+            for (const file of fs.readdirSync(folder).filter((name) => /^\\d+\\.md$/.test(name))) {
+              const target = path.join(folder, file);
+              const before = fs.readFileSync(target, 'utf8');
+              const after = before.replace(wrapper, (_, verse) => { lines++; return verse; });
+              if (before !== after) { fs.writeFileSync(target, after); pages++; }
+            }
+          }
+          console.log(`Unwrapped ${lines} markers across ${pages} Markdown files.`);
+          NODE
+      - name: Remove one-time workflow
+        run: git rm .github/workflows/basta-refrain-cleanup.yml
+      - name: Check changes and commit
+        shell: bash
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/basta/pages src/data/basta/roman
+          git commit -m "Remove OCR source wrappers across Basta Urdu and Roman pages"
+          git push

@@ -15,6 +15,16 @@
   unicode-bidi: plaintext;
 }
 
+/* In the print, the returning first verse is set apart with a rule and
+   heavier text. A distinct block also preserves each language's direction. */
+.basta-refrain {
+  display: block;
+  border-top: 1px solid currentColor;
+  margin-top: 0.65em;
+  padding-top: 0.25em;
+  font-weight: 750;
+}
+
 /* Each Roman/Urdu kalam occupies one common grid row. The row height is the
    taller language; Roman is vertically centered inside that shared height. */
 .basta-parallel-kalams {

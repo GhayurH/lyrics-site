@@ -1,6 +1,6 @@
 // File role: Progressive continuous-reader loader: hydrates static page chunks near the viewport and resolves deep #page-N links without shipping the full book HTML initially.
 import type { BastaReaderChunk, BastaReaderPageData } from "../lib/basta";
-import { splitBastaKalams } from "../lib/basta-text";
+import { splitBastaKalams, splitBastaRefrain } from "../lib/basta-text";
 
 function element<K extends keyof HTMLElementTagNameMap>(
   tag: K,
@@ -22,11 +22,21 @@ function renderKalamBreak(): HTMLElement {
   return separator;
 }
 
+function fillKalamText(block: HTMLElement, kalam: string): void {
+  const { body, refrain } = splitBastaRefrain(kalam);
+  block.textContent = body;
+  if (refrain) {
+    const closing = element("span", "basta-refrain");
+    closing.textContent = refrain;
+    block.append(closing);
+  }
+}
+
 function appendBastaText(container: HTMLElement, value: string): void {
   splitBastaKalams(value).forEach((kalam, index) => {
     if (index > 0) container.append(renderKalamBreak());
     const block = element("div", "basta-kalam-text");
-    block.textContent = kalam;
+    fillKalamText(block, kalam);
     container.append(block);
   });
 }
@@ -56,7 +66,7 @@ function renderParallelText(page: BastaReaderPageData): HTMLElement {
       `Roman Urdu kalam ${index + 1} of Basta page ${page.page}`,
     );
     const romanText = element("div", "basta-reader-text basta-kalam-text");
-    romanText.textContent = romanKalams[index] ?? "";
+    fillKalamText(romanText, romanKalams[index] ?? "");
     roman.append(romanText);
 
     const urdu = element(
@@ -70,7 +80,7 @@ function renderParallelText(page: BastaReaderPageData): HTMLElement {
       `Urdu kalam ${index + 1} of Basta page ${page.page}`,
     );
     const urduText = element("div", "basta-reader-text basta-kalam-text");
-    urduText.textContent = urduKalams[index] ?? "";
+    fillKalamText(urduText, urduKalams[index] ?? "");
     urdu.append(urduText);
 
     row.append(roman, urdu);
