@@ -206,3 +206,10 @@ test("mobile Basta index headings use separate full-width rows", async ({ page }
   const a = await urdu.boundingBox(), b = await roman.boundingBox();
   expect(Math.abs(a.y - b.y)).toBeGreaterThan(20);
 });
+
+test("source link is visibly separated from the category back link", async ({ page }) => {
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  const back = await page.locator(".lyric-header .back-link").boundingBox();
+  const source = await page.locator(".source-scan-link").boundingBox();
+  expect(source.x - (back.x + back.width)).toBeGreaterThan(8);
+});

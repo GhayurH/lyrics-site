@@ -87,7 +87,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       <a class="back-link" href={`/categories/${slugifyKalamType(category)}/`}>
         ← {category}
       </a>
-      {data.cover && <a class="source-scan-link" href={data.cover}>Original lyric sheet</a>}
+      {data.cover && <span class="source-scan-link-wrap"><span aria-hidden="true"> · </span><a class="source-scan-link" href={data.cover}>Original lyric sheet</a></span>}
 
       <div class="lyric-header-title-row">
         <div class="lyric-title-block">

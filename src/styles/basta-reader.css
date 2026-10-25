@@ -396,6 +396,20 @@
   .basta-parallel-index-section-heading {
     font-size: 1.2rem;
   }
+
+  /* Mobile index headings must not be compressed into parallel half-width cells. */
+  .basta-index-mode-shell[data-reading-mode="parallel"] .basta-parallel-index-overall-headings,
+  .basta-reader-flow[data-reading-mode="parallel"] .basta-parallel-index-overall-headings {
+    grid-template-areas: "urdu" "roman" !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: .85rem;
+  }
+  .basta-index-mode-shell[data-reading-mode="parallel"] .basta-parallel-index-section,
+  .basta-reader-flow[data-reading-mode="parallel"] .basta-parallel-index-section {
+    grid-template-areas: "urdu-heading" "urdu-table" "roman-heading" "roman-table" !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  .basta-parallel-index-overall-headings > h2 { padding-inline: 0; }
 }
 
 /* Streaming placeholders and offscreen containment for the continuous reader. */
