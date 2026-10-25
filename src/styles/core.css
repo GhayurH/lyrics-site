@@ -9,7 +9,7 @@
 
 * { box-sizing: border-box; }
 html { min-height: 100%; }
-body { min-height: 100vh; margin: 0; }
+body { min-height: 100vh; margin: 0; transition: background-color 150ms ease, color 150ms ease; }
 a { color: inherit; }
 img { display: block; max-width: 100%; }
 
@@ -38,7 +38,6 @@ html[data-theme="dark"] {
 }
 
 html, body { background: var(--site-background); color: var(--primary-text); }
-body { transition: background-color 150ms ease, color 150ms ease; }
 
 /* Site shell */
 .site-header {
