@@ -66,3 +66,32 @@ export function toBastaCardData(entry: BastaCategoryEntry): LyricCardData {
     tags: [`Basta · Page ${entry.page}`],
   };
 }
+
+/**
+ * Match a printed Basta page to the same canonical Kalam Types used by
+ * category browsing. The index stores poem *start* pages, so pages without
+ * their own index entries inherit the preceding indexed section; introductory
+ * matter and pages beyond the final indexed poem have no type.
+ *
+ * When several poems begin on one page, the type values are deduplicated
+ * before passing them to Pagefind's multi-valued facet.
+ */
+export function getBastaKalamTypesForPage(page: number): string[] {
+  const entries = indexEntries as BastaIndexEntry[];
+  const lastPoetryPage = entries.at(-1)?.page ?? 0;
+  if (page > lastPoetryPage) return [];
+
+  const types = new Set<string>();
+  let previousType: string | null = null;
+  for (const entry of entries) {
+    if (entry.page > page) break;
+    const type = BASTA_CATEGORY_BY_SECTION[entry.sectionRoman ?? ""] ?? null;
+    if (entry.page === page) {
+      if (type) types.add(type);
+    } else {
+      previousType = type;
+    }
+  }
+
+  return types.size > 0 ? [...types] : previousType ? [previousType] : [];
+}

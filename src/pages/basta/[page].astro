@@ -8,6 +8,7 @@ import BastaParallelText from "../../components/BastaParallelText.astro";
 import BastaText from "../../components/BastaText.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
+import { getBastaKalamTypesForPage } from "../../lib/basta-categories";
 import { loadBastaNavigationData, loadBastaRomanByPage } from "../../lib/basta-pages";
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
@@ -93,6 +94,9 @@ const haalFilters = [
       .filter(Boolean),
   ),
 ];
+// Search facets use the same Basta taxonomy as homepage/category browsing,
+// including long poems continuing beyond their index entry's starting page.
+const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(page);
 ---
 
 <BaseLayout
@@ -125,6 +129,9 @@ const haalFilters = [
 
       <div class="pagefind-data" aria-hidden="true">
         <span data-pagefind-filter="collection">Basta</span>
+        {kalamTypeFilters.map((kalamType) => (
+          <span data-pagefind-filter="kalamType">{kalamType}</span>
+        ))}
         <span data-pagefind-meta="page">{page}</span>
         {bastaIndexSearchTerms && (
           <span data-pagefind-meta="searchTerms">{bastaIndexSearchTerms}</span>
