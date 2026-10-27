@@ -6,8 +6,8 @@ import {
 } from "./storage";
 import {
   applyTheme, DEFAULT_PALETTE, PALETTE_KEY, PALETTE_BASE_KEY, readCustomPalette,
-  readCustomPaletteBase, readTheme, normalizeCssHex,
-  type CustomPalette, type ThemeName,
+  readCustomPaletteBase, readTheme, normalizeCssHex, paletteTextColors,
+  type AdvancedColor, type CustomPalette, type ThemeName,
 } from "./theme";
 
 function syncFavoriteButtons(): void {
@@ -198,6 +198,10 @@ function initThemePicker(): void {
   let palette: CustomPalette = readCustomPalette();
   let startingPalette: CustomPalette = readCustomPaletteBase();
   const colorNames: (keyof CustomPalette)[] = ["main", "secondary", "accent"];
+  const advancedRoles: Record<AdvancedColor, "primary" | "muted" | "borders"> = {
+    primaryText: "primary", mutedText: "muted", borders: "borders",
+  };
+  const advancedNames = Object.keys(advancedRoles) as AdvancedColor[];
 
   // Read the actual preset tokens rather than duplicating their colours in TS.
   // The previous preset is still active when the user clicks Custom.
@@ -224,9 +228,26 @@ function initThemePicker(): void {
       if (input) input.value = palette[name];
       if (output) output.textContent = palette[name].toUpperCase();
     }
+    const automatic = paletteTextColors({
+      main: palette.main, secondary: palette.secondary, accent: palette.accent,
+      ...(palette.primaryText ? { primaryText: palette.primaryText } : {}),
+    });
+    for (const name of advancedNames) {
+      const automaticControl = dialog.querySelector<HTMLInputElement>("#theme-" + name + "-auto");
+      const picker = dialog.querySelector<HTMLInputElement>("#theme-" + name);
+      const output = dialog.querySelector<HTMLOutputElement>("#theme-" + name + "-value");
+      const isAutomatic = !palette[name];
+      const value = palette[name] ?? automatic[advancedRoles[name]];
+      if (automaticControl) automaticControl.checked = isAutomatic;
+      if (picker) {
+        picker.disabled = isAutomatic;
+        picker.value = value;
+      }
+      if (output) output.textContent = value.toUpperCase();
+    }
     note.hidden = selected !== "custom" || ratio >= 4.5;
     note.textContent = note.hidden ? "" :
-      "These backgrounds need more similar lightness for readable text on every surface. Try adjusting Main or Secondary.";
+      "For readable text, increase contrast between the text and both backgrounds, or switch text colours to Auto.";
   };
 
   // The bootstrap already applied the stored theme before paint. Sync UI
@@ -258,6 +279,24 @@ function initThemePicker(): void {
       const input = event.currentTarget as HTMLInputElement;
       palette = { ...palette, [name]: input.value };
       selected = "custom";
+      render(true);
+    });
+  }
+  for (const name of advancedNames) {
+    dialog.querySelector<HTMLInputElement>("#theme-" + name + "-auto")?.addEventListener("change", (event) => {
+      const automatic = (event.currentTarget as HTMLInputElement).checked;
+      if (automatic) {
+        const next = { ...palette };
+        delete next[name];
+        palette = next;
+      } else {
+        const derived = paletteTextColors(palette);
+        palette = { ...palette, [name]: derived[advancedRoles[name]] };
+      }
+      render(true);
+    });
+    dialog.querySelector<HTMLInputElement>("#theme-" + name)?.addEventListener("input", (event) => {
+      palette = { ...palette, [name]: (event.currentTarget as HTMLInputElement).value };
       render(true);
     });
   }
