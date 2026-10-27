@@ -332,3 +332,5 @@ Corrections, missing material, and cataloguing/index issues can be reported to:
 **lyricsadmin@gmail.com**
 
 Keep Basta page/index top navigation in `ReadingControls.astro` via the `navigation` slot, without duplicating a separate top pager. The scan dialog alone permits both-axis zoom and drag-to-pan; narrower images stay centred with no horizontal overflow.
+
+Offline recitation printouts must bundle the site's Nastaliq faces instead of relying on system Naskh. Preserve text edition fonts, order, and offline operation; await font readiness before printing. Basta no longer has a second bottom pager.

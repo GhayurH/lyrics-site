@@ -226,3 +226,5 @@ To report a correction, suggest a lyric, or ask a question, contact the site own
 ---
 
 Preserving Urdu literature in searchable digital form.
+
+Recitation Sets' offline HTML embeds Nastaliq WOFF2 data, so no external font is required to print or save a PDF. Its printable layout keeps Urdu and Roman text parallel. Basta page/index navigation now lives only in the shared top reader toolbar.

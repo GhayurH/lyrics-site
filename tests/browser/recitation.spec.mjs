@@ -26,7 +26,21 @@ test("offline programme export contains complete text, reciter assignments and n
   expect(html).toContain("Roman Urdu");
   expect(html).not.toContain("<script");
   expect(html).not.toMatch(/<img\b/i);
-  await expect(page.locator("#recite-print")).toBeEnabled();
+  expect(html).toContain('font-src data:;');
+  expect(html).toContain('"Noto Nastaliq Urdu"');
+  expect(html).toMatch(/woff2;base64,/);
+  await page.setContent(html);
+  await page.evaluate(() => document.fonts.ready);
+  const faces = await page.evaluate(() => [...document.fonts]
+    .filter((font) => font.family === "Noto Nastaliq Urdu").map((font) => font.status));
+  expect(faces).toContain("loaded");
+  await page.emulateMedia({ media: "print" });
+  const aligned = await page.locator(".recite-editions").first().evaluate((el) => {
+    const roman = el.querySelector(".lyric-reading-roman").getBoundingClientRect();
+    const urdu = el.querySelector(".lyric-reading-urdu").getBoundingClientRect();
+    return Math.abs(roman.top - urdu.top) < 4;
+  });
+  expect(aligned).toBe(true);
 });
 
 test("live navigation is opt-in and follows published entry UIDs @smoke", async ({ page }) => {

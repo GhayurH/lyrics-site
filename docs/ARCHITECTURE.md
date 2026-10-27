@@ -140,4 +140,6 @@ Editor-specific files, generated output, and local maintenance scratch directori
 
 The Basta landing page and pager share `src/client/basta-navigation.ts` for page-jump validation and index-gap routing.
 
-Page-by-page and linked-index Basta navigation is passed through the `navigation` slot of `ReadingControls.astro` to create one sticky toolbar. End-of-page navigation remains independently available. Visible generic edition headings are removed while accessible labels and Focus Mode poetry titles remain.
+Page-by-page and linked-index Basta navigation is passed through the `navigation` slot of `ReadingControls.astro` to create one sticky toolbar. The lower redundant pager has been removed. Visible generic edition headings are removed while accessible labels and Focus Mode poetry titles remain.
+
+The Recitation Sets offline/print exporter embeds Noto Nastaliq Urdu regular/bold WOFF2 assets directly in generated HTML, permits only data fonts under its CSP, and prints after font readiness. It retains parallel editions, drops screen-only inline sizing, and excludes scans from offline output.

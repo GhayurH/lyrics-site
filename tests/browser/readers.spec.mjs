@@ -436,11 +436,35 @@ test("Basta uses one upper contextual toolbar and no redundant edition headings 
     await page.goto(url);
     const controls = page.locator("[data-reading-controls]");
     await expect(controls.locator(".basta-pager")).toHaveCount(1);
-    await expect(page.locator(".basta-pager")).toHaveCount(2);
+    await expect(page.locator(".basta-pager")).toHaveCount(1);
   }
   await expect(page.locator(".basta-page-text-heading, .basta-original-page figcaption")).toHaveCount(0);
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   await expect(page.locator(".lyric-language-label")).toHaveCount(0);
   await expect(page.locator(".reading-column-choice").first()).toBeVisible();
   await expect(page.getByRole("button", { name: "Focus Mode" })).toBeVisible();
+});
+
+test("Focus Mode centres bilingual columns and fits scans within the viewport @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.route("**/images/lyrics/daastaan-e-shujaat-ka-darain-mein.png", (route) =>
+    route.fulfill({ contentType: "image/svg+xml", body:
+      '<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754"><rect width="1240" height="1754" fill="white"/></svg>' }));
+  await page.goto("/lyrics/daastaan-e-shujaat-ka-darain-mein/");
+  const imageToggle = page.locator('[data-reading-column][value="image"]');
+  await imageToggle.uncheck();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
+  const grid = page.locator(".lyric-reading-grid");
+  const bounds = await Promise.all([".lyric-reading-roman", ".lyric-reading-urdu"]
+    .map(selector => grid.locator(selector).boundingBox()));
+  expect(Math.min(bounds[0].x, bounds[1].x)).toBeGreaterThan(70);
+  expect(Math.max(bounds[0].x + bounds[0].width, bounds[1].x + bounds[1].width)).toBeLessThan(1370);
+  await page.getByRole("button", { name: /Show reading options/ }).click();
+  await imageToggle.check();
+  const scan = grid.locator(".lyric-reading-image img");
+  await expect(scan).toHaveJSProperty("naturalWidth", 1240);
+  const box = await scan.boundingBox();
+  expect(box.y).toBeGreaterThanOrEqual(45);
+  expect(box.y + box.height).toBeLessThanOrEqual(898);
+  await page.getByRole("button", { name: /Exit reading mode/ }).click();
 });
