@@ -194,6 +194,9 @@ test("desktop settings collapse after scrolling into the poem but navigation sta
   await expect(controls.locator("[data-reading-regular-toggle]")).toBeVisible();
   await expect(controls.locator(".reading-view-control")).toBeHidden();
   await expect(controls.locator(".basta-pager")).toBeVisible();
+  await expect(controls.locator(".reading-contents-button")).toBeVisible();
+  await expect(controls.locator(".reading-page-jump")).toBeVisible();
+  await expect(controls.locator(".reading-open-page")).toBeVisible();
   await controls.locator("[data-reading-regular-toggle]").click();
   await expect(controls.locator(".reading-view-control")).toBeVisible();
 });

@@ -548,7 +548,8 @@ html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-
 }
 @media (pointer: coarse) { .basta-selection-action { opacity: .8; min-width: 2.75rem; min-height: 2.75rem; } }
 
-/* Desktop scroll toolbar keeps context navigation but folds secondary settings. */
+/* Desktop scroll toolbar keeps every page-navigation action available and
+   folds only edition and spacing settings. */
 @media (min-width: 701px) {
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-regular-toggle {
     display: inline-flex; align-items: center; justify-content: center;
@@ -558,8 +559,12 @@ html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-
     font: inherit; font-size: .83rem; font-weight: 700; cursor: pointer;
   }
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"]:not([data-regular-options-open="true"])
-    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump,.reading-bookmark-page) { display: none !important; }
+    > .reading-control-group { display: none !important; }
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] { padding-block: .45rem; gap: .45rem; }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > :is(.reading-current-page,.reading-open-page,.reading-page-jump,.reading-contents-button) { order: 3; }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-context-nav { order: 4; }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-bookmark-page { order: 3; }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-page-jump :is(input,button) { min-height: 2.45rem; }
 }
 html[data-reading-focus="true"] .reading-regular-toggle { display: none !important; }
 @container reader-shell (max-width: 46rem) {
