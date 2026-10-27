@@ -52,7 +52,7 @@
 
 .basta-reader-roman {
   grid-area: roman;
-  border-right: 1px solid var(--border-colour);
+  border-right: var(--ui-border);
   padding-right: clamp(1rem, 2.5vw, 2rem);
 }
 
@@ -100,7 +100,7 @@
 .basta-reader-page-break {
   margin: 0 0 1.65rem;
   border: 0;
-  border-top: 1px solid var(--border-colour);
+  border-top: var(--ui-border);
 }
 
 .basta-reader-page-image-only {
@@ -215,7 +215,7 @@
 
 .basta-parallel-index-table.basta-parallel-index-roman {
   grid-area: roman-table;
-  border-right: 1px solid var(--border-colour);
+  border-right: var(--ui-border);
   padding-right: clamp(1rem, 2.5vw, 2rem);
 }
 
