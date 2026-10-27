@@ -106,7 +106,7 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
   outline: var(--focus-ring);
   outline-offset: 3px;
 }
-.button { cursor: pointer; }
+.button { cursor: pointer; font: inherit; font-weight: 600; }
 .button:hover:not(.button-secondary) { filter: brightness(0.92); }
 
 /* Shared layout/UI */

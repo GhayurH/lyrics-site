@@ -4,7 +4,7 @@ import { test, expect } from "@playwright/test";
 test("homepage categories link to their listings and Basta modes remain reachable", async ({ page }) => {
   await page.goto("/");
   await expect(page.getByRole("heading", { name: "Kalam Archive", exact: true })).toBeVisible();
-  const category = page.locator(".category-see-all").first();
+  const category = page.locator(".home-type-card").first();
   const href = await category.getAttribute("href");
   expect(href).toMatch(/^\/categories\//);
   await category.click();
@@ -12,16 +12,16 @@ test("homepage categories link to their listings and Basta modes remain reachabl
   await expect(page.locator(".lyric-list .lyric-card").first()).toBeVisible();
 
   await page.goto("/basta/");
-  await expect(page.getByRole("heading", { name: "Page-by-page reader" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Page by page" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "Continuous reader" })).toBeVisible();
-  await expect(page.locator('a[href="/basta/read/"]')).toBeVisible();
+  await expect(page.getByRole("link", { name: "Open continuous reader" })).toBeVisible();
   await expect(page.locator('a[href="/basta/index/"]')).toBeVisible();
 });
 
 test("Basta page jump opens the requested page", async ({ page }) => {
   await page.goto("/basta/");
   await page.locator("#basta-home-page-number").fill("138");
-  await page.getByRole("button", { name: "Open page" }).click();
+  await page.getByRole("button", { name: "Go", exact: true }).click();
   await expect(page).toHaveURL(/\/basta\/138\/$/);
   await expect(page.locator("[data-reading-root]")).toBeVisible();
 });
@@ -76,4 +76,22 @@ test("Saved avoids an empty resume section until the user reads Basta", async ({
   await page.goto("/saved/");
   await expect(page.locator("[data-basta-resume-section]")).toBeVisible();
   await expect(page.locator("[data-resume-basta]")).toHaveAttribute("href", /\/basta\/138\//);
+});
+
+
+test("homepage search passes the entered term to archive search", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#home-search-query").fill("Ali");
+  await page.locator(".home-search button").click();
+  await expect(page).toHaveURL(/\/search\/\?q=Ali$/);
+  await expect(page.locator("pagefind-input")).toBeAttached();
+});
+
+test("Basta landing offers a contextual resume link after reading", async ({ page }) => {
+  await page.goto("/basta/");
+  await expect(page.locator(".basta-home-resume")).toBeHidden();
+  await page.goto("/basta/138/");
+  await page.goto("/basta/");
+  await expect(page.locator(".basta-home-resume")).toBeVisible();
+  await expect(page.locator(".basta-home-resume")).toHaveAttribute("href", /\/basta\/138\//);
 });
