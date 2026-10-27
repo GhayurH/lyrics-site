@@ -190,6 +190,8 @@ test("Custom starts from whichever preset is active, including AMOLED @smoke", a
 test("Dark and AMOLED preserve Auto typography until Custom surfaces actually change @smoke", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
+  // The Advanced controls are intentionally collapsed until requested.
+  await page.locator("#theme-advanced summary").click();
   for (const [name, ink] of [["dark", "#ededed"], ["amoled", "#f5f5f5"]]) {
     await page.locator('#theme-dialog input[value="' + name + '"]').check();
     await page.locator('#theme-dialog input[value="custom"]').check();
