@@ -28,7 +28,7 @@
 .recite-list-info strong { display: block; line-height: 1.8; overflow-wrap: anywhere; }
 .recite-list-info small { display: block; color: var(--secondary-text); line-height: 1.5; }
 .recite-list-actions { display: flex; flex-wrap: wrap; gap: .35rem; }
-.recite-list-actions button, .recite-reader-toolbar button { border: 1px solid var(--border-colour); background: var(--surface-background); color: var(--primary-text); padding: .4rem .65rem; border-radius: .5rem; min-height: 2.6rem; font: inherit; cursor: pointer; }
+.recite-list-actions button, .recite-reader-toolbar button { border: 1px solid var(--border-colour); background: var(--surface-background); color: var(--primary-text); padding: .4rem .65rem; border-radius: .5rem; min-height: 2.75rem; font: inherit; cursor: pointer; }
 .recite-list-actions button:disabled, .recite-reader-toolbar button:disabled { opacity: .4; cursor: default; }
 .recite-search-row { display: flex; flex-wrap: wrap; gap: .8rem; align-items: end; }
 .recite-search-row label:first-child { flex: 1 1 18rem; }
@@ -227,7 +227,6 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 .recite-sharing-policy summary { min-height: 2.75rem; padding: .5rem 0; cursor: pointer; font-weight: 600; }
 .recite-sharing-policy p { margin: 0 0 .5rem; }
 .recite-panel { scroll-margin-top: calc(var(--site-header-height, 4rem) + 2rem); }
-.recite-list-actions button, .recite-reader-toolbar button { min-height: 2.75rem; }
 
 /* A single step path with accessible current-step indication. */
 .recite-steps a[aria-current="step"] { border-color: var(--primary-text); background: var(--tag-background); }

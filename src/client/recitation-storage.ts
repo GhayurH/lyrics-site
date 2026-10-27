@@ -1,4 +1,4 @@
-// Browser-owned drafts; shareable copies are explicitly published to D1.
+// File role: Browser-local programme drafts and link helpers; shareable copies are published explicitly to D1.
 import { newDraft, type RecitationDraft, type RecitationSet } from "../lib/recitation-set";
 const KEY = "kalam:recitation-drafts-v1";
 function looksLikeDraft(value: unknown): value is RecitationDraft {
