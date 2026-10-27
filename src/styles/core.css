@@ -157,14 +157,6 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   color: var(--primary-text);
   box-shadow: 0 1rem 3rem rgb(0 0 0 / .28);
 }
-/* Keep controls and warnings legible even when a manual palette has
-   intentionally low contrast. Only the editor gets these safe local roles. */
-html[data-theme="custom"] .theme-dialog {
-  --primary-text: var(--theme-editor-text, #171719);
-  --secondary-text: var(--theme-editor-muted, #555555);
-  --border-colour: color-mix(in srgb, var(--primary-text) 26%, var(--surface-background));
-  color-scheme: var(--theme-editor-scheme, light);
-}
 .theme-dialog::backdrop { background: rgb(0 0 0 / .55); }
 .theme-dialog-header { display: flex; align-items: flex-start; justify-content: space-between; gap: .75rem; }
 .theme-dialog-header h2 { margin: 0; font-size: 1.35rem; line-height: 1.3; }
