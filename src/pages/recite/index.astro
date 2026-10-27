@@ -10,6 +10,11 @@ import "../../styles/recitation.css";
       <p>Arrange kalams for your programme, customize numbered Marsiya stanzas, and share one link with the entire group.</p>
     </header>
     <p data-requires-js>Building recitation sets requires JavaScript. The <a href="/search/">public poetry archive</a> remains available without it.</p>
+    <nav class="recite-steps" aria-label="Programme workflow">
+      <a href="#recite-details-heading"><span aria-hidden="true">1</span> Plan</a>
+      <a href="#recite-find-heading"><span aria-hidden="true">2</span> Find kalam</a>
+      <a href="#recite-share-heading"><span aria-hidden="true">3</span> Share</a>
+    </nav>
     <p class="recite-message" id="recite-message" role="status" aria-live="polite"></p>
     <div class="recite-topbar">
       <label for="recite-drafts">Your sets <select id="recite-drafts" aria-label="Choose a locally saved set"></select></label>
@@ -76,7 +81,10 @@ import "../../styles/recitation.css";
         <input type="checkbox" id="recite-permanent" />
         Keep this programme available until I delete it
       </label>
-      <p class="recite-hint">Normally, shared programmes expire two years after their last update. Select this option to keep yours available without an expiry date. Links created on test versions of the site expire after 30 days.</p>
+      <details class="recite-sharing-policy">
+        <summary>How long will my programme link work?</summary>
+        <p class="recite-hint">Normally, shared programmes expire two years after their last update. Select the option above to keep yours available without an expiry date. Links created on test versions of the site expire after 30 days.</p>
+      </details>
       <div class="recite-actions">
         <span class="recite-publish-control" id="recite-publish-control" role="group" tabindex="0" aria-describedby="recite-publish-help" data-unavailable="true">
           <button id="recite-publish" class="button" type="button" disabled aria-describedby="recite-publish-help">Publish set</button>

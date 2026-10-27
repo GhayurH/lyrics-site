@@ -353,3 +353,27 @@ test("the Basta index does not scroll horizontally at mobile, tablet, or desktop
     await expect(page.locator(".basta-index-table-wrap").first()).toHaveCSS("overflow-x", width <= 640 ? "hidden" : "visible");
   }
 });
+
+test("parallel scans float below the reader toolbar, but stacked scans stay in flow @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1550, height: 900 });
+  await page.goto("/basta/145/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  const scan = page.locator(".basta-original-page");
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+  await expect(scan).toHaveCSS("position", "sticky");
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("false");
+  await expect(scan).not.toHaveCSS("position", "sticky");
+});
+
+test("standalone scans share the same floating-column policy @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1480, height: 900 });
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  const option = page.locator('[data-reading-column][value="image"]');
+  if (await option.count()) {
+    await option.check();
+    const scan = page.locator(".lyric-reading-image");
+    await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+    await expect(page.locator(".lyric-reading-grid")).toHaveCSS("background-color", "rgb(23, 23, 25)");
+  }
+});

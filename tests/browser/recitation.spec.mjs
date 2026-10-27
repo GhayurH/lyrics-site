@@ -356,3 +356,10 @@ test("organizer can permanently preserve, renew and delete published sets @smoke
   await expect(page.locator("#recite-shared-links")).toBeHidden();
   expect(deletes).toBe(1);
 });
+
+test("recitation programme navigation belongs to the shared contextual toolbar @smoke", async ({ page }) => {
+  await page.goto("/recite/read/");
+  const controls = page.locator("[data-reading-controls]");
+  await expect(controls.locator(".recite-reader-toolbar")).toHaveCount(1);
+  await expect(page.locator("[data-reading-root] .recite-reader-toolbar")).toHaveCount(0);
+});

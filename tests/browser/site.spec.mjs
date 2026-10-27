@@ -140,3 +140,9 @@ test("both landing pages display the book cover", async ({ page }) => {
   await expect(page.locator(".basta-home-scan img")).toHaveAttribute("alt", "Basta book cover");
   await expect(page.locator(".basta-home-scan-caption")).toHaveText("Book cover");
 });
+
+test("Saved page contains browser-local Basta and programme libraries @smoke", async ({ page }) => {
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-bookmarks-heading")).toBeVisible();
+  await expect(page.locator("#recitation-drafts-heading")).toBeVisible();
+});

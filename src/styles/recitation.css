@@ -106,7 +106,7 @@ html[data-reading-focus="true"] .recite-work-header h2 { text-decoration: underl
 
 .recite-inline-note { flex: 1 1 10rem; max-width: 16rem; }
 .recite-inline-note input { font-size: .83rem; min-height: 2.5rem; }
-.recite-link-disabled { opacity: .5; pointer-events: none; }
+.recite-link-disabled { opacity: .5; cursor: not-allowed; }
 .recite-editions .basta-kalam-text { line-height: 2.7; }
 .recite-editions .lyric-reading-roman .basta-kalam-text { line-height: 2; }
 .recite-work { scroll-margin-top: 9rem; }
@@ -225,6 +225,8 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
   .reading-controls-recitation:not([data-regular-options-open="true"]) .recite-reader-toolbar
     > :is(#recite-reader-contents, .recite-reader-view-label, .recite-reader-live-label, #recite-live-status) { display: none !important; }
   .reading-controls-recitation .recite-reader-progress { font-size: .76rem; }
+  .reading-controls-recitation[data-regular-options-open="true"] > .reading-view-control { grid-row: 3; }
+  .reading-controls-recitation[data-regular-options-open="true"] > .reading-control-group:not(.reading-view-control) { grid-row: 4; }
   html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-toolbar {
     display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center;
   }
@@ -234,3 +236,14 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
     > :is(#recite-reader-contents,.recite-reader-view-label,.recite-reader-live-label,#recite-live-status) { display: flex; }
   html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-toolbar #recite-reader-contents { grid-column: 1 / -1; width: 100%; }
 }
+
+/* A compact progression through the builder without hiding necessary functions. */
+.recite-steps { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1.25rem; }
+.recite-steps a { display: inline-flex; align-items: center; gap: .45rem; min-height: 2.75rem; padding: .35rem .75rem; border: 1px solid var(--border-colour); border-radius: .55rem; background: var(--surface-background); text-decoration: none; font-size: .88rem; font-weight: 650; }
+.recite-steps a:hover { background: var(--tag-background); }
+.recite-steps a span { display: inline-grid; place-items: center; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--tag-background); font-size: .75rem; }
+.recite-sharing-policy { margin: .45rem 0 1rem; color: var(--secondary-text); }
+.recite-sharing-policy summary { min-height: 2.75rem; padding: .5rem 0; cursor: pointer; font-weight: 600; }
+.recite-sharing-policy p { margin: 0 0 .5rem; }
+.recite-panel { scroll-margin-top: calc(var(--site-header-height, 4rem) + 2rem); }
+.recite-list-actions button, .recite-reader-toolbar button { min-height: 2.75rem; }

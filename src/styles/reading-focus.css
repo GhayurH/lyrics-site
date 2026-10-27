@@ -93,3 +93,13 @@ html[data-reading-focus="true"] .basta-reader-index { display: none; }
   html[data-reading-focus="true"] .basta-original-page img,
   html[data-reading-focus="true"] .basta-reader-original-image img { max-height: calc(100dvh - 3.3rem); }
 }
+
+/* A contextual recitation toolbar needs enough room for its two compact rows. */
+html[data-reading-focus="true"] .recite-reading-root {
+  padding-block-start: max(7rem, calc(6.5rem + env(safe-area-inset-top)));
+}
+@media (max-width: 700px) {
+  html[data-reading-focus="true"] .recite-reading-root {
+    padding-block-start: max(7.8rem, calc(7.3rem + env(safe-area-inset-top)));
+  }
+}

@@ -356,3 +356,8 @@ html:not([data-reader-enhanced="true"]) .reading-controls { display: none; }
 }
 /* No-script guidance is real HTML rather than contents of a parser-dependent noscript. */
 html[data-js-available="true"] [data-requires-js] { display: none !important; }
+
+/* Keep basic controls visually consistent across browsing and reading pages. */
+:where(.button, .lyric-add-recitation, .basta-nav-button, .recite-steps a) { min-height: 2.75rem; }
+:where(button, a, input, select, textarea):focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+:where(button, input, select, textarea):disabled { cursor: not-allowed; }
