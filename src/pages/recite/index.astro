@@ -86,6 +86,18 @@ import "../../styles/recitation.css";
         <label>Private organizer edit link <input id="recite-edit-url" type="text" readonly /></label>
         <button id="recite-copy-edit" class="button button-secondary" type="button">Copy private edit link</button>
         <p class="recite-hint">Keep the private edit link secure. Anyone with it can change or delete the published programme. Links stay the same after updates.</p>
+        <section id="recite-live-controls" class="recite-live-controls" aria-label="Organizer live navigation" hidden>
+          <h3>Live programme navigation</h3>
+          <p class="recite-hint">Optional: participants can choose “Follow organizer live” in the shared reader. Only this private organizer link can move their current kalam.</p>
+          <div class="recite-actions">
+            <button type="button" id="recite-live-prev">← Previous</button>
+            <span id="recite-live-position"></span>
+            <button type="button" id="recite-live-next">Next →</button>
+            <button type="button" id="recite-live-start">Start live</button>
+            <button type="button" id="recite-live-stop">Stop live</button>
+          </div>
+          <p id="recite-live-message" class="recite-hint" role="status" aria-live="polite"></p>
+        </section>
         <button type="button" id="recite-delete-published" class="button button-danger" hidden>Delete published set permanently</button>
       </div>
     </section>

@@ -133,6 +133,27 @@ export async function initRecitationBuilder(): Promise<void> {
     deletePublished.hidden = !(draft.remoteId && draft.editToken);
     const shared = elm<HTMLElement>("recite-shared-links");
     shared.hidden = !draft.remoteId;
+    const liveControls = elm<HTMLElement>("recite-live-controls");
+    liveControls.hidden = !(draft.remoteId && draft.editToken);
+    const liveIndex = Math.max(0, draft.set.items.findIndex((item) =>
+      item.uid === draft.set.live?.currentUid));
+    const synced = !!draft.remoteId && !!draft.editToken &&
+      draft.publishedSnapshot === JSON.stringify(draft.set);
+    const liveActive = draft.set.live?.active === true;
+    elm<HTMLElement>("recite-live-position").textContent = draft.set.items.length
+      ? "Kalam " + (liveIndex + 1) + " / " + draft.set.items.length + (liveActive ? " · Live" : " · Stopped")
+      : "No kalams";
+    for (const id of ["recite-live-prev", "recite-live-next", "recite-live-start", "recite-live-stop"]) {
+      elm<HTMLButtonElement>(id).disabled = !synced || !draft.set.items.length;
+    }
+    elm<HTMLButtonElement>("recite-live-prev").disabled ||= liveIndex === 0;
+    elm<HTMLButtonElement>("recite-live-next").disabled ||= liveIndex >= draft.set.items.length - 1;
+    elm<HTMLButtonElement>("recite-live-start").disabled ||= liveActive;
+    elm<HTMLButtonElement>("recite-live-stop").disabled ||= !liveActive;
+    elm<HTMLElement>("recite-live-message").textContent = !draft.remoteId ? ""
+      : !synced ? "Publish your programme changes before controlling the live position."
+      : liveActive ? "Broadcasting the selected kalam to participants who opted in."
+      : "Live following is stopped.";
     if (draft.remoteId) {
       elm<HTMLInputElement>("recite-public-url").value = publicUrl(draft.remoteId);
       elm<HTMLInputElement>("recite-edit-url").value =
@@ -457,7 +478,13 @@ export async function initRecitationBuilder(): Promise<void> {
   }
   elm<HTMLButtonElement>("recite-publish").addEventListener("click", async () => {
     let clean: RecitationSet;
-    try { clean = validateRecitationSet(draft.set); }
+    try {
+      // Edits can remove a formerly selected live entry. Stop broadcasting
+      // rather than publish a dangling pointer into a changed programme.
+      if (draft.set.live && !draft.set.items.some((item) => item.uid === draft.set.live?.currentUid))
+        delete draft.set.live;
+      clean = validateRecitationSet(draft.set);
+    }
     catch (e) { say((e as Error).message); return; }
     const warnings = await sourceWarnings(clean);
     if (warnings.length) {
@@ -498,6 +525,43 @@ export async function initRecitationBuilder(): Promise<void> {
     } catch (e) { say((e as Error).message); }
     finally { publishButton.disabled = false; }
   });
+  let updatingLive = false;
+  async function updateLive(offset: number, active: boolean): Promise<void> {
+    if (updatingLive || !draft.remoteId || !draft.editToken) return;
+    if (draft.publishedSnapshot !== JSON.stringify(draft.set)) {
+      say("Publish the programme changes before navigating live.");
+      return;
+    }
+    const currentIndex = Math.max(0, draft.set.items.findIndex((item) =>
+      item.uid === draft.set.live?.currentUid));
+    const index = Math.min(draft.set.items.length - 1, Math.max(0, currentIndex + offset));
+    const uid = draft.set.items[index]?.uid;
+    if (!uid) return;
+    updatingLive = true;
+    for (const id of ["recite-live-prev","recite-live-next","recite-live-start","recite-live-stop"]) {
+      elm<HTMLButtonElement>(id).disabled = true;
+    }
+    try {
+      const response = await fetch("/api/recitation-sets/" + draft.remoteId, {
+        method: "PATCH",
+        headers: { Authorization: "Bearer " + draft.editToken,
+          "Content-Type": "application/json" },
+        body: JSON.stringify({ active, currentUid: uid }),
+      });
+      const payload = await response.json();
+      if (!response.ok) throw Error(payload.error || "Unable to change the live position");
+      draft.set.live = payload.live;
+      draft.expiresAt = payload.expiresAt ?? null;
+      draft.publishedSnapshot = JSON.stringify(draft.set);
+      persist(); updateLinks();
+    } catch (e) { say((e as Error).message); }
+    finally { updatingLive = false; updateLinks(); }
+  }
+  elm<HTMLButtonElement>("recite-live-start").addEventListener("click", () => { void updateLive(0, true); });
+  elm<HTMLButtonElement>("recite-live-stop").addEventListener("click", () => { void updateLive(0, false); });
+  elm<HTMLButtonElement>("recite-live-prev").addEventListener("click", () => { void updateLive(-1, true); });
+  elm<HTMLButtonElement>("recite-live-next").addEventListener("click", () => { void updateLive(1, true); });
+
   elm<HTMLButtonElement>("recite-delete-published").addEventListener("click", async () => {
     if (!draft.remoteId || !draft.editToken) {
       say("Only someone with the private organizer edit link can delete this published set.");
