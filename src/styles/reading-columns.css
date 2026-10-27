@@ -194,7 +194,9 @@ html[data-reading-toc-open="true"] .reading-contents-button { background: var(--
 @media (pointer: coarse) {
   .reading-scroll-top:not([hidden]) { position: fixed; right: max(.75rem,env(safe-area-inset-right)); bottom: max(.75rem,env(safe-area-inset-bottom)); z-index: 105; display: block; box-shadow: 0 .3rem 1rem rgb(0 0 0 / .25); }
 }
-@media (orientation: landscape) and (max-height: 600px) {
+/* Only genuinely narrow landscape devices drop sticky controls; a short
+   desktop browser window must retain the floating reader toolbar. */
+@media (max-width: 700px) and (orientation: landscape) and (max-height: 600px) {
   html:not([data-reading-focus="true"]) .reading-controls { position: static; box-shadow: none; }
 }
 
