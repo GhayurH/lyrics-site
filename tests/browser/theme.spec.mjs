@@ -195,6 +195,14 @@ test("Dark and AMOLED preserve Auto typography until Custom surfaces actually ch
     await page.locator('#theme-dialog input[value="custom"]').check();
     await expect(page.locator("#theme-primaryText-auto")).toBeChecked();
     await expect(page.locator("#theme-primaryText")).toHaveValue(ink);
+    // Manual changes must not overwrite the borrowed preset Auto colour.
+    await page.locator("#theme-primaryText-auto").uncheck();
+    await page.locator("#theme-primaryText").evaluate((el) => {
+      el.value = "#ababab";
+      el.dispatchEvent(new Event("input", { bubbles: true }));
+    });
+    await page.locator("#theme-primaryText-auto").check();
+    await expect(page.locator("#theme-primaryText")).toHaveValue(ink);
 
     await page.locator("#theme-main").evaluate((el) => {
       el.value = "#fefefe";
