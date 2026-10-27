@@ -1,5 +1,5 @@
 ---
-title: "ہیں علیؑ کے اٹھارہ ہی بیٹے علیؑ"
+title: "داستانِ شجاعت کا داریں میں"
 alternateTitle: "Daastaan-e-Shujaat ka darain mein"
 language: "Urdu"
 lang: "ur"
