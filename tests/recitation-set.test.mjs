@@ -17,6 +17,9 @@ const example = { version: 1, title: "Muharram 8th Night",
 test("canonical set preserves cross-Marsiya order and duplicate use", () => {
   assert.deepEqual(validateRecitationSet(example), validateDocument(example));
   assert.deepEqual(validateDocument(example).items[0].stanzaSequence, first.stanzaSequence);
+  const renamed = { ...first, sourceTitle: "Original displayed title" };
+  assert.equal(validateDocument({ ...example, items: [renamed] }).items[0].sourceTitle,
+    "Original displayed title");
   const extra = { ...first, uid: "b61002ab-16f4-4535-bf2a-8ca02cefc956" };
   assert.equal(validateDocument({ ...example, items: [first, extra] }).items.length, 2);
 });
