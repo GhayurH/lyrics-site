@@ -18,14 +18,14 @@ romanLyrics: |-
   Bahar aayi Bahar aayi Bahar aayi Bahar aayi
   Bahar is mah main Zehra kay ghar hay char bar aayi
   
-  Muhammad kay gharanay main Mohammad hi Mohammad hain
+  Muhammad kay gharanay main Muhammad hi Muhammad hain
   Hai ik soorut jo hay surat badal kar bar bar aayi
   
   Zara unsay ye keh dijiey kay rahiyay hoshiyar aayi
   Wo aayi daykhiyay sar par wo aayi Zulfiqar aayi
   
   Ali ka naam lay kar meinay kholi aankh marqad main
-  Madad Mawla ki meri qabar may qabl az fishar aayi
+  Madad Maula ki meri qabar may qabl az fishar aayi
 ---
 
 بہار آنے کو ہے یوں تو جہاں میں ہے ہزار آئی
