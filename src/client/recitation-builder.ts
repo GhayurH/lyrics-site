@@ -38,7 +38,7 @@ function getCatalog(item: RecitationItem): CatalogItem | undefined {
 }
 async function loadCatalog(): Promise<void> {
   const responses = await Promise.all([
-    fetch("/data/saved-catalog.json"),
+    fetch("/data/recitation-lyric-catalog.json"),
     fetch("/data/basta-kalams.json"),
   ]);
   if (!responses.every((r) => r.ok)) throw Error("Unable to load the poetry index");
@@ -48,7 +48,7 @@ async function loadCatalog(): Promise<void> {
     const item: CatalogItem = {
       kind: "lyric", id: lyric.id, title: lyric.title,
       alternateTitle: lyric.alternateTitle, type: lyric.kalamType,
-      sourceUrl: lyric.href, ready: true, numbered: false,
+      sourceUrl: lyric.sourceUrl, ready: true, numbered: false,
     };
     byId.set(sourceKey(item.kind, item.id), item);
   }
@@ -149,11 +149,11 @@ export async function initRecitationBuilder(): Promise<void> {
       row.className = "recite-list-row"; row.draggable = true;
       const name = div("recite-list-info");
       const strong = document.createElement("strong");
-      strong.textContent = (index + 1) + ". " + (metadata?.title || item.id);
+      strong.textContent = (index + 1) + ". " + (metadata?.title || item.sourceTitle || item.id);
       if (/[\u0600-\u06ff]/u.test(metadata?.title || "")) { strong.lang = "ur"; strong.dir = "rtl"; }
       name.append(strong);
       const sub = document.createElement("small");
-      sub.textContent = (metadata?.type || item.kind) +
+      sub.textContent = (!metadata || !metadata.ready ? "SOURCE UNAVAILABLE — kept in programme · " : "") + (metadata?.type || item.kind) +
         (item.stanzaSequence ? " · Custom stanzas (" + item.stanzaSequence.length + ")" : "");
       name.append(sub);
       const actions = div("recite-list-actions");
@@ -237,7 +237,7 @@ export async function initRecitationBuilder(): Promise<void> {
       label.append(type);
       const add = button("Add", () => {
         if (draft.set.items.length >= 40) { say("A set can contain up to 40 kalams"); return; }
-        draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id });
+        draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id, sourceTitle: item.title });
         persist(); renderSequence(); refreshDrafts();
         say("Added to programme: " + item.title);
       }, !item.ready);
@@ -359,7 +359,7 @@ export async function initRecitationBuilder(): Promise<void> {
     const add = params.get("add");
     const item = add && byId.get(add);
     if (item?.ready && draft.set.items.length < 40) {
-      draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id });
+      draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id, sourceTitle: item.title });
       persist(); render(); say("Added " + item.title);
       history.replaceState(null, "", draftUrl(draft.id));
     }
