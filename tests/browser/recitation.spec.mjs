@@ -22,7 +22,7 @@ test("offline programme export contains complete text, reciter assignments and n
   expect(html).toContain("Organizers&#39; programme notes");
   expect(html).toContain("Assigned reciter");
   expect(html).toContain("Read after opening salaam");
-  expect(html).toContain("Original text");
+  expect(html).toContain('aria-label="Original poem text"');
   expect(html).toContain("Roman Urdu");
   expect(html).not.toContain("<script");
   expect(html).not.toMatch(/<img\b/i);

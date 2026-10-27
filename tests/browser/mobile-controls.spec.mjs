@@ -25,7 +25,8 @@ test("reader settings collapse by default and expand on every mobile reading vie
       await expect(controls.locator(".reading-contents-button")).toBeHidden();
     }
     const compact = await controls.boundingBox();
-    expect(compact.height).toBeLessThan(100);
+    const combinedPager = await controls.locator(".reading-context-nav").count() > 0;
+    expect(compact.height).toBeLessThan(combinedPager ? 150 : 100);
 
     await toggle.click();
     await expect(toggle).toHaveAttribute("aria-expanded", "true");
@@ -134,7 +135,7 @@ test("desktop reading controls float as the site header hides and returns @smoke
     return controlTop >= headerHeight - 3;
   }).toBe(true);
 
-  await controls.getByRole("button", { name: "Focus mode" }).click();
+  await controls.getByRole("button", { name: "Focus Mode" }).click();
   await expect(html).toHaveAttribute("data-reading-focus", "true");
   await expect(controls).toHaveCSS("position", "fixed");
   await controls.getByRole("button", { name: /Exit reading mode/ }).click();

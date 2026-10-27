@@ -330,3 +330,5 @@ Every poem verse must remain on one line, with no wrapping, horizontal scrolling
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
+
+Keep Basta page/index top navigation in `ReadingControls.astro` via the `navigation` slot, without duplicating a separate top pager. The scan dialog alone permits both-axis zoom and drag-to-pan; narrower images stay centred with no horizontal overflow.

@@ -37,7 +37,7 @@ test("edition preferences, Focus mode, and image enlargement work together", asy
   await image.locator("a").click();
   await expect(page.locator("dialog.scan-viewer")).toBeVisible();
   await page.getByRole("button", { name: "Close" }).click();
-  await page.getByRole("button", { name: "Focus mode" }).click();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
   await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
   await page.getByRole("button", { name: /Exit reading mode/ }).click();
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
@@ -47,7 +47,7 @@ test("continuous reader deep links load streamed content and preserve the curren
   await page.goto("/basta/read/#page-138");
   const page138 = page.locator('[data-basta-page="138"]');
   await expect(page138).toBeAttached({ timeout: 20000 });
-  await page.getByRole("button", { name: "Focus mode" }).click();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
   await page.getByRole("button", { name: /Show reading options/ }).click();
   await page.getByRole("button", { name: "Contents" }).click();
   await expect(page.locator(".basta-reader-index")).toBeVisible();
@@ -145,7 +145,7 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
   await page.locator("[data-reading-regular-toggle]").click();
   await page.locator('[data-reading-column][value="roman"]').uncheck();
   const editions = await page.locator("[data-reading-root]").getAttribute("data-reading-columns");
-  await page.getByRole("button", { name: "Focus mode" }).click();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
   await page.setViewportSize({ width: 844, height: 390 });
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", editions);
   // Exit at a known position within page 138, not where the preceding page crosses the reading line.

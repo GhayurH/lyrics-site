@@ -448,3 +448,8 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
   display: block; order: 3; flex-basis: 100%; pointer-events: auto;
 }
 html[data-reading-focus="true"] .reading-context-nav .basta-pager { background: transparent; }
+
+/* The nested Basta page form must override its legacy standalone two-row mobile grid. */
+.reading-context-nav .basta-pager > .basta-nav-button:first-child { grid-column: 1; grid-row: 1; }
+.reading-context-nav .basta-pager > .basta-nav-button:last-child { grid-column: 3; grid-row: 1; }
+.reading-context-nav .basta-pager > .basta-jump-form { grid-column: 2; grid-row: 1; }

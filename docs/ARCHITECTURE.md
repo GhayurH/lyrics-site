@@ -37,7 +37,7 @@ Browser code lives here rather than in a generic `scripts/` directory. This prev
 - `synced-columns.ts` synchronizes visible side-by-side Urdu and Roman text panels, excluding viewport-sticky scans; for Basta text, matching kalam breaks anchor per-kalam proportional progress.
 - `verse-fitting.ts` automatically fits each stanza/couplet to the available width, including extra-long verses, keeping all verses single-line without horizontal scrolling. The width calculation is in `src/lib/verse-fit.ts`; there is no minimum-font overflow or selectable text size.
 - `reading-progress.ts` records the current Basta page and within-page fraction locally and populates resume/current-page links. Continuous tracking observes nearby pages rather than traversing all loaded pages on every scroll.
-- `scan-viewer.ts` provides an accessible image dialog and preserves native image links when scripting is unavailable.
+- `scan-viewer.ts` provides an accessible image dialog with two-axis zoom, pointer/keyboard panning, and links that work without scripting.
 - `recitation-builder.ts` manages browser-local draft programmes, verified stanza arrangements, and authenticated publication; `recitation-reader.ts` renders referenced source kalams without altering the archive. `recitation-storage.ts` owns the local draft key.
 
 ### CSS ownership
@@ -139,3 +139,5 @@ are documented in [Recitation Sets](RECITATION_SETS.md).
 Editor-specific files, generated output, and local maintenance scratch directories are not source and should stay out of Git. Build-driving configuration, documentation, content, and lockfiles remain versioned.
 
 The Basta landing page and pager share `src/client/basta-navigation.ts` for page-jump validation and index-gap routing.
+
+Page-by-page and linked-index Basta navigation is passed through the `navigation` slot of `ReadingControls.astro` to create one sticky toolbar. End-of-page navigation remains independently available. Visible generic edition headings are removed while accessible labels and Focus Mode poetry titles remain.
