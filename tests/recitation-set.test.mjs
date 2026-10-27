@@ -92,6 +92,10 @@ function fakeDb() {
                 }
                 return { meta: { changes: count } };
               }
+              if (sql.startsWith("INSERT INTO recitation_maintenance_metrics") ||
+                  sql.startsWith("DELETE FROM recitation_maintenance_metrics")) {
+                return { meta: { changes: 1 } };
+              }
               throw Error("Unmocked D1 write: " + sql);
             },
           };
