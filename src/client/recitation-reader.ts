@@ -63,8 +63,8 @@ function addBastaText(host: HTMLElement, text: string) {
   }
   host.append(block);
 }
-function addLyricText(host: HTMLElement, text: string) {
-  const block = node("div", "lyric-reading-text lyrics-text");
+function addLyricText(host: HTMLElement, text: string, isRoman = false) {
+  const block = node("div", "lyric-reading-text " + (isRoman ? "roman-lyrics-text" : "lyrics-text"));
   for (const stanza of splitLyricStanzas(text)) {
     const group = node("div", "lyric-stanza");
     for (const line of stanza) {
@@ -161,7 +161,7 @@ function renderWork(work: HTMLElement, item: RecitationItem, index: number,
     else roman.append(node("p", "recite-empty-edition", "Roman text is unavailable for this kalam."));
   } else {
     addLyricText(urdu, poem.urdu);
-    if (poem.roman) addLyricText(roman, poem.roman);
+    if (poem.roman) addLyricText(roman, poem.roman, true);
     else roman.append(node("p", "recite-empty-edition", "Roman text is unavailable for this kalam."));
   }
   const image = node("figure", "lyric-reading-image");
@@ -292,6 +292,24 @@ export async function initRecitationReader(): Promise<void> {
     try { localStorage.setItem(viewKey, mode); } catch {}
     void go(position, false);
   });
+  // Identify the programme position during manual continuous scrolling.
+  let scrollPending = false;
+  const updateScrollPosition = () => {
+    if (scrollPending || mode !== "continuous") return;
+    scrollPending = true;
+    requestAnimationFrame(() => {
+      scrollPending = false;
+      const line = document.documentElement.dataset.readingFocus === "true"
+        ? root.getBoundingClientRect().top + 135 : window.innerHeight * .3;
+      let active = 0;
+      for (let i = 0; i < works.length; i++) {
+        if (works[i].getBoundingClientRect().top <= line) active = i;
+      }
+      setPosition(active);
+    });
+  };
+  window.addEventListener("scroll", updateScrollPosition, { passive: true });
+  root.addEventListener("scroll", updateScrollPosition, { passive: true });
   // Each poem is its own synchronization group, preventing cross-poem scrolling.
   initReadingControls();
   initVerseFitting();
