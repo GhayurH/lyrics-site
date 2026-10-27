@@ -280,7 +280,7 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 }
 .recite-reading-root[data-reading-mode="urdu"] .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
 .recite-reading-root[data-reading-mode="roman"] .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
-@container reader-shell (max-width: 52rem) {
+@container reader-shell (max-width: 46rem) {
   .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="image"] .recite-work-no-roman .recite-editions {
     grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr);
   }

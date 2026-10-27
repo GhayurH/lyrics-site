@@ -19,6 +19,8 @@ test("two text editions are stacked in portrait and parallel in landscape", asyn
   await page.goto("/basta/138/");
   const urdu = page.locator(".basta-page-urdu");
   const roman = page.locator(".basta-page-roman");
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
   await expect(urdu).toBeVisible();
   await expect(roman).toBeVisible();
   let u = await urdu.boundingBox(), r = await roman.boundingBox();
@@ -33,6 +35,8 @@ test("two text editions are stacked in portrait and parallel in landscape", asyn
 test("edition preferences, Focus mode, and image enlargement work together", async ({ page }) => {
   await page.goto("/basta/138/");
   const image = page.locator(".basta-original-page");
+  await expect(image).toBeVisible();
+  await page.getByLabel("Image", { exact: true }).uncheck();
   await expect(image).toBeHidden();
   await page.getByLabel("Image", { exact: true }).check();
   await expect(image).toBeVisible();
@@ -108,6 +112,7 @@ test("compact index presents accessible entries at phone width", async ({ page }
 });
 
 test("all text-edition combinations remain readable across themes and responsive widths", async ({ page }) => {
+  await page.emulateMedia({ colorScheme: "dark" });
   await page.setViewportSize({ width: 1300, height: 880 });
   await page.goto("/basta/138/");
   const choices = ["urdu", "roman", "image"];
@@ -219,6 +224,8 @@ test("stacked and single-column editions use only document scrolling @smoke", as
   await expect(urdu).not.toHaveAttribute("data-synced-scrollable", "true");
   expect(await urdu.evaluate((node) => node.style.height)).toBe("");
   await page.getByRole("button", { name: "Show reading options" }).click();
+  await page.getByLabel("Roman", { exact: true }).check();
+  await expect(roman).toBeVisible();
   await page.getByLabel("Roman", { exact: true }).uncheck();
   await expect(roman).toBeHidden();
   await expect(urdu).not.toHaveAttribute("data-synced-scrollable", "true");
@@ -369,6 +376,7 @@ test("parallel scans float below the reader toolbar, but stacked scans stay in f
 });
 
 test("standalone scans share the same floating-column policy @smoke", async ({ page }) => {
+  await page.emulateMedia({ colorScheme: "dark" });
   await page.setViewportSize({ width: 1480, height: 900 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const option = page.locator('[data-reading-column][value="image"]');

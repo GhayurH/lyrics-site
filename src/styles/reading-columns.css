@@ -151,8 +151,8 @@
   .basta-page-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .basta-original-page,
   .basta-reader-flow[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-reader-page-grid-with-roman > .basta-reader-original-image { justify-self: center; width: min(100%,42rem); }
 }
-/* At 52rem of usable reading width, stack editions before shrinking verses excessively. */
-@container reader-shell (max-width: 52rem) {
+/* At 46rem of usable reading width, stack editions before shrinking verses excessively. */
+@container reader-shell (max-width: 46rem) {
   .lyric-reading-grid[data-reading-columns] { display: flex; flex-direction: column; }
   .lyric-reading-grid[data-reading-columns] > :is(.lyric-reading-image,.lyric-reading-panel) { width: 100%; }
   .lyric-reading-grid[data-reading-columns] .lyric-reading-roman { border-right: 0; border-top: 1px solid var(--border-colour); }
@@ -197,7 +197,7 @@
   .basta-parallel-index-table.basta-parallel-index-roman { grid-area: roman-table; }
 }
 /* Parallel text needs the same geometry on desktop and sufficiently wide landscape devices. */
-@container reader-shell (min-width: 52.01rem) {
+@container reader-shell (min-width: 46.01rem) {
   .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] { display: grid; }
   .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] .lyric-reading-roman { border-top: 0; border-right: 1px solid var(--border-colour); }
   .basta-parallel-kalams-page:has(> .basta-page-urdu:not([hidden])) ,
@@ -292,7 +292,7 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 
 /* The original bilingual-index grid has greater specificity than the generic
    layout rule. Make both headings and sections genuinely vertical on phones. */
-@container reader-shell (max-width: 52rem) {
+@container reader-shell (max-width: 46rem) {
   :is(.basta-index-mode-shell, .basta-reader-flow)[data-reading-mode="parallel"] .basta-parallel-index-overall-headings {
     grid-template-areas: "urdu" "roman";
     grid-template-columns: minmax(0, 1fr);
@@ -309,7 +309,7 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 
 /* Paired index tables need full-width rows when either half would be too narrow;
    no horizontal-scrolling table or clipped entry text is permitted. */
-@container reader-shell (min-width: 52.01rem) and (max-width: 70rem) {
+@container reader-shell (min-width: 46.01rem) and (max-width: 70rem) {
   .basta-parallel-index-overall-headings {
     grid-template-areas: "urdu" "roman";
     grid-template-columns: minmax(0, 1fr);
@@ -562,6 +562,6 @@ html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] { padding-block: .45rem; gap: .45rem; }
 }
 html[data-reading-focus="true"] .reading-regular-toggle { display: none !important; }
-@container reader-shell (max-width: 52rem) {
+@container reader-shell (max-width: 46rem) {
   .basta-reader-flow[data-reading-columns~="urdu"][data-reading-columns~="image"] .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "scan" "urdu"; grid-template-columns: minmax(0,1fr); }
 }
