@@ -31,7 +31,19 @@ For content conventions, correction rules, and the workflow for adding or updati
 
 ### Recitation Sets
 
-Individual Basta kalams now have stable IDs derived from the printed index. Explicitly numbered stanzas are addressable without rewriting the source, allowing future recitation sets to reorder and borrow verified Marsiya stanzas. Uncertain page-to-index mappings remain flagged for manual review. See [Recitation-set source model](docs/RECITATION_SETS.md) and run `npm run basta:kalams:audit` for the remaining verification workload. The /recite/ builder supports ordered programmes, custom Marsiya stanza sequences, local drafts, sequential/continuous reading, and D1-backed shared sets when deployment bindings are configured. See [deployment setup](docs/RECITATION_DEPLOYMENT.md).
+The [Recitation Sets builder](/recite/) lets organizers assemble kalam
+programmes from standalone lyrics and verified Basta poems. Numbered Marsiya
+stanzas can be rearranged or borrowed from other verified Marsiyas without
+changing the archive text. Programmes can be read in Urdu, Roman Urdu, or with
+original source scans, and shared through a read-only link. Local drafts
+remain in the organizer's browser; published programmes use Cloudflare D1.
+A private edit link permits updates and deletion. Production sets expire
+after 24 months without an edit unless explicitly preserved permanently;
+preview sets expire after 30 days.
+
+See [Recitation Sets](docs/RECITATION_SETS.md) for source-ID maintenance,
+security, retention, the D1 schema, Cloudflare deployment configuration,
+and testing.
 
 ## Technology
 
@@ -208,22 +220,3 @@ To report a correction, suggest a lyric, or ask a question, contact the site own
 ---
 
 Preserving Urdu literature in searchable digital form.
-
-### Recitation source compatibility
-
-`npm run recitation:ids:check` validates permanent source and stanza identities
-before builds. For new published sources, run
-`npm run recitation:ids:sync` and commit the updated lockfile. For renamed
-Markdown, preserve `recitationId` in frontmatter; for renumbered Basta index
-entries, preserve `recitationId` there. See
-[Recitation source safeguards](docs/RECITATION_SETS.md#source-compatibility-safeguards).
-
-### Recitation Sets — retention and cleanup
-
-Published production sets expire **24 months after their last edit** unless
-organizers explicitly preserve them permanently. Preview sets expire after 30
-days. Organizers with a private edit token may delete published sets. A
-standalone scheduled Cloudflare Worker cleans expired sets and reports 90 days
-of usage metrics; creation is rate-limited to ten sets per hour per client IP.
-Follow [D1 retention setup](docs/RECITATION_RETENTION.md) for migration
-`0002`, environment variables, and the separate Worker deployment.
