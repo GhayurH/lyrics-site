@@ -5,12 +5,15 @@ The public archive remains statically generated. Only /api/recitation-sets (crea
 ## One-time Cloudflare setup
 
 1. Create a D1 database named kalam-recitation-sets (or another chosen name).
-2. Apply migrations/0001_recitation_sets.sql to it from the D1 dashboard SQL console, or execute:
+2. Apply BOTH migrations, in order, to each D1 database (preview and production). For an existing database already at 0001, apply only 0002. For example:
 
     npx wrangler d1 execute kalam-recitation-sets --remote --file=migrations/0001_recitation_sets.sql
+    npx wrangler d1 execute kalam-recitation-sets --remote --file=migrations/0002_recitation_retention.sql
 
-3. In Cloudflare Workers & Pages > lyrics-site > Settings > Bindings, add a D1 database binding called RECITATION_DB. Select the database. Configure production and preview separately as needed, and redeploy.
-4. Check that publishing creates a public /r/<id> link, that read-only visitors can view it, and that updating without its private edit token returns HTTP 403.
+3. In Cloudflare Workers & Pages > lyrics-site > Settings > Bindings, add a D1 database binding called RECITATION_DB. Connect the production and preview databases independently. Set the preview-only runtime variable RECITATION_RETENTION_MODE=preview and redeploy.
+4. Deploy the separate cleanup Worker with its daily Cron Trigger and D1 bindings, then verify publication, renewal, permanent preservation, and authenticated deletion.
+
+For complete migration commands, the preview-only legacy-record conversion, Cron Worker bindings, retention limits, and monitoring, read [Retention and cleanup](RECITATION_RETENTION.md) BEFORE deploying.
 
 Official guide: https://developers.cloudflare.com/pages/functions/bindings/#d1-databases
 
@@ -26,11 +29,11 @@ Do not hand-write a Wrangler configuration that overrides your existing Pages pr
 
 ## Permissions and privacy
 
-The database saves set metadata and canonical poem/stanza references, not poem transcriptions. Public read links have random IDs and no edit capability. Organizer edit tokens are random and their SHA-256 hashes are stored in D1. The private organizer link has an edit token in the URL fragment, removed from the visible URL once imported. The organizer's browser stores the token in its local draft. Anyone holding that private link can edit the set; there are no accounts or recovery. Deleting a draft does not delete a published set, and no public deletion API is exposed.
+The database saves set metadata and canonical poem/stanza references, not poem transcriptions. Public read links have random IDs and no edit capability. Organizer edit tokens are random and their SHA-256 hashes are stored in D1. The private organizer link has an edit token in the URL fragment, removed from the visible URL once imported. The organizer's browser stores the token in its local draft. Anyone holding that private link can edit the set; there are no accounts or recovery. Deleting a local draft does not delete a published set. An organizer with the private edit token can DELETE a published set through its authenticated API endpoint. Production sets expire 24 months after the last edit unless explicitly permanently preserved; preview sets expire after 30 days.
 
 A set permits 1–40 kalams, up to 120 explicitly numbered stanzas in a customized Marsiya, and safe-length notes. Unverified Basta boundaries remain unavailable for direct recitation until source verification. Existing standalone lyric URLs remain unchanged. The original archive remains the authoritative text source.
 
-Consider rate-limiting unauthenticated creation endpoints when public use increases.
+Set creation is limited to ten POST requests per hour per edge-provided visitor IP, using hashed one-hour buckets. Add Cloudflare WAF rate limiting if needed for distributed abuse. A scheduled Worker removes expired rows and records daily storage and row-count statistics.
 
 ## Identity compatibility and future content updates
 
