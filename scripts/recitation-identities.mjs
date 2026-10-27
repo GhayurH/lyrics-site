@@ -1,5 +1,5 @@
-// Explicit source-ID registry. --bootstrap creates an initial snapshot;
-// --check blocks accidental renames/deletions/renumbering; --sync only adds new IDs.
+// Maintain permanently published source IDs: check for accidental changes,
+// or append new IDs after reviewing newly published poems and stanzas.
 import { readFile, readdir, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join, relative, sep } from "node:path";
@@ -79,20 +79,8 @@ try { locked = JSON.parse(await readFile(location, "utf8")); }
 catch (error) {
   if (error.code !== "ENOENT") throw error;
 }
-if (args.has("--bootstrap")) {
-  const initial = { version: 1, lyrics: activeLyrics, basta: activeBasta.map(
-    ({ status, ...record }) => record) };
-  const snapshot = JSON.stringify(initial);
-  const part = Number([...args].find((arg) => arg.startsWith("--part="))?.slice(7) ?? -1);
-  for (let i = 0; i < snapshot.length; i += 4000) {
-    if (part >= 0 && Math.floor(i / 40000) !== part) continue;
-    console.log("RECITATION_IDENTITY_CHUNK_" + String(i / 4000).padStart(4, "0") + "=" +
-      snapshot.slice(i, i + 4000));
-  }
-  process.exit(0);
-}
 if (!locked?.lyrics || !locked?.basta || locked.version !== 1)
-  throw Error("Identity lock missing: bootstrap and commit src/data/recitation/identity-lock.json");
+  throw Error("Missing required tracked registry src/data/recitation/identity-lock.json");
 const errors = [];
 const all = (...records) => {
   const keys = new Set();
