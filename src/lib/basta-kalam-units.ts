@@ -265,7 +265,8 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
     }
     const lastAssigned = Math.max(-1, ...assigned);
     if (previous && urduPieces.some((_, index) => index > lastAssigned && !assigned.has(index))) {
-      previous.issues.push("Unindexed material follows this poem on page " + page.page);
+      // A printed separator safely ends the indexed poem; the extra poem
+      // is separately reported as an orphan, not appended to its neighbour.
       previous = undefined;
     }
     if (previous && !starts.length && continuation === -1) {
