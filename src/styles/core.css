@@ -20,9 +20,8 @@ html, body { background: var(--site-background); color: var(--primary-text); }
   z-index: 20;
   border-bottom: 1px solid var(--border-colour);
   backdrop-filter: blur(14px);
+  background: var(--header-background);
 }
-html[data-theme="light"] .site-header { background: rgb(255 255 255 / 0.92); }
-html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
 
 .header-inner {
   display: flex;
