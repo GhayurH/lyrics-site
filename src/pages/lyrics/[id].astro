@@ -237,7 +237,6 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         aria-label={`${data.language} lyrics`}
       >
         <h2 class="lyric-version-heading">
-          <span class="lyric-language-label">{data.language}</span>
           <span class="lyric-focus-title" lang={data.lang} dir={data.direction}>{data.title}</span>
         </h2>
         <LyricVerses text={lyric.body ?? ""} className="lyrics-text" />
@@ -253,7 +252,6 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
             aria-label="Roman Urdu lyrics"
           >
             <h2 class="lyric-version-heading">
-              <span class="lyric-language-label">Roman Urdu</span>
               <span class="lyric-focus-title" lang={data.alternateTitle ? "en" : data.lang} dir={data.alternateTitle ? "ltr" : data.direction}>
                 {data.alternateTitle ?? data.title}
               </span>

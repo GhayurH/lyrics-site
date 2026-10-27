@@ -10,6 +10,11 @@ import "../../styles/recitation.css";
       <p>Arrange kalams for your programme, customize numbered Marsiya stanzas, and share one link with the entire group.</p>
     </header>
     <p data-requires-js>Building recitation sets requires JavaScript. The <a href="/search/">public poetry archive</a> remains available without it.</p>
+    <nav class="recite-steps" aria-label="Programme workflow">
+      <a href="#recite-details-heading"><span aria-hidden="true">1</span> Plan</a>
+      <a href="#recite-find-heading"><span aria-hidden="true">2</span> Find kalam</a>
+      <a href="#recite-share-heading"><span aria-hidden="true">3</span> Share</a>
+    </nav>
     <p class="recite-message" id="recite-message" role="status" aria-live="polite"></p>
     <div class="recite-topbar">
       <label for="recite-drafts">Your sets <select id="recite-drafts" aria-label="Choose a locally saved set"></select></label>
@@ -23,8 +28,13 @@ import "../../styles/recitation.css";
       <section class="recite-panel recite-details" aria-labelledby="recite-details-heading">
         <h2 id="recite-details-heading">Programme details</h2>
         <label>Title <input id="recite-title" maxlength="120" placeholder="e.g. Muharram — 8th Night" required /></label>
-        <label>Occasion <input id="recite-occasion" maxlength="120" placeholder="Optional" /></label>
-        <label>Description <textarea id="recite-description" rows="2" maxlength="1000" placeholder="Optional programme notes"></textarea></label>
+        <details class="recite-optional-details" id="recite-optional-details" open>
+          <summary>Occasion and notes <span class="recite-optional-caption">(optional)</span></summary>
+          <div class="recite-optional-fields">
+            <label>Occasion <input id="recite-occasion" maxlength="120" placeholder="Optional" /></label>
+            <label>Description <textarea id="recite-description" rows="2" maxlength="1000" placeholder="Optional programme notes"></textarea></label>
+          </div>
+        </details>
         <p class="recite-hint">Changes to a draft are saved on this device. Publishing is a separate action.</p>
       </section>
       <section class="recite-panel recite-programme" aria-labelledby="recite-programme-heading">
@@ -76,7 +86,10 @@ import "../../styles/recitation.css";
         <input type="checkbox" id="recite-permanent" />
         Keep this programme available until I delete it
       </label>
-      <p class="recite-hint">Normally, shared programmes expire two years after their last update. Select this option to keep yours available without an expiry date. Links created on test versions of the site expire after 30 days.</p>
+      <details class="recite-sharing-policy">
+        <summary>How long will my programme link work?</summary>
+        <p class="recite-hint">Normally, shared programmes expire two years after their last update. Select the option above to keep yours available without an expiry date. Links created on test versions of the site expire after 30 days.</p>
+      </details>
       <div class="recite-actions">
         <span class="recite-publish-control" id="recite-publish-control" role="group" tabindex="0" aria-describedby="recite-publish-help" data-unavailable="true">
           <button id="recite-publish" class="button" type="button" disabled aria-describedby="recite-publish-help">Publish set</button>
@@ -109,6 +122,8 @@ import "../../styles/recitation.css";
   </article>
   <script>
     import { initRecitationBuilder } from "../../client/recitation-builder";
+    import { initRecitationWorkflow } from "../../client/recitation-workflow";
+    initRecitationWorkflow();
     void initRecitationBuilder();
   </script>
 </BaseLayout>

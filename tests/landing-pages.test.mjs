@@ -40,9 +40,9 @@ test("Basta page jump has a usable no-JavaScript alternative", () => {
   assert.match(basta, /Browse book index/);
 });
 
-test("both landings preserve local Basta reading progress links", () => {
-  for (const page of [home, basta]) {
-    assert.match(page, /data-resume-basta[^>]+hidden/);
-    assert.match(page, /initResumeBasta\(\)/);
-  }
+test("both landings expose contextual, browser-local Basta continuation", () => {
+  assert.match(home, /id="home-continue"[^>]+hidden/);
+  assert.match(home, /initHomeContinue\(\)/);
+  assert.match(basta, /data-resume-basta[^>]+hidden/);
+  assert.match(basta, /initResumeBasta\(\)/);
 });

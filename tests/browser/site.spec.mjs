@@ -140,3 +140,81 @@ test("both landing pages display the book cover", async ({ page }) => {
   await expect(page.locator(".basta-home-scan img")).toHaveAttribute("alt", "Basta book cover");
   await expect(page.locator(".basta-home-scan-caption")).toHaveText("Book cover");
 });
+
+test("Saved page contains browser-local Basta and programme libraries @smoke", async ({ page }) => {
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-bookmarks-heading")).toBeVisible();
+  await expect(page.locator("#recitation-drafts-heading")).toBeVisible();
+});
+
+test("Basta bookmarks can be saved, revisited and removed from the Saved page @smoke", async ({ page }) => {
+  await page.goto("/basta/145/");
+  const button = page.locator("[data-basta-bookmark]");
+  await button.click();
+  await expect(button).toHaveAttribute("aria-pressed", "true");
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-bookmarks-list a")).toHaveText("Basta · Page 145");
+  await page.locator("#basta-bookmarks-list button").click();
+  await expect(page.locator("#basta-bookmarks-empty")).toBeVisible();
+});
+
+test("mobile search keeps filters accessible without occupying the full page @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/search/");
+  const filters = page.locator("#search-filter-disclosure");
+  await expect(filters).not.toHaveAttribute("open", "");
+  await filters.locator(":scope > summary").click();
+  await expect(filters).toHaveAttribute("open", "");
+  await page.setViewportSize({ width: 1280, height: 820 });
+  await expect(filters).toHaveAttribute("open", "");
+});
+
+test("homepage continues local reading without showing an empty placeholder @smoke", async ({ page }) => {
+  await page.goto("/");
+  await expect(page.locator("#home-continue")).toBeHidden();
+  await page.goto("/basta/138/");
+  await page.goto("/");
+  await expect(page.locator("#home-continue")).toBeVisible();
+  await expect(page.locator('.home-continue-link[href^="/basta/138/"]')).toBeVisible();
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await page.goto("/");
+  await expect(page.locator('.home-continue-link[href="/lyrics/aa-asghar-bin-tere/"]')).toBeVisible();
+});
+
+test("category pages distinguish standalone poems and Basta selections @smoke", async ({ page }) => {
+  await page.goto("/");
+  const categories = page.locator(".home-type-card");
+  await expect(categories.first()).toBeVisible();
+  await categories.first().click();
+  await expect(page.locator(".category-collection").first()).toBeVisible();
+  const standalone = page.locator("#standalone-kalam");
+  const basta = page.locator("#basta-kalam");
+  if (await standalone.count()) await expect(standalone).toContainText("Standalone");
+  if (await basta.count()) await expect(basta).toContainText("Basta");
+});
+
+test("responsive browse and builder panels keep accessible controls in either theme @smoke", async ({ page }) => {
+  for (const viewport of [{width:320,height:700},{width:844,height:390},{width:768,height:1024}]) {
+    await page.setViewportSize(viewport);
+    for (const route of ["/", "/saved/", "/recite/"]) {
+      await page.goto(route);
+      await expect.poll(() => page.evaluate(() =>
+        document.documentElement.scrollWidth - innerWidth), {
+        message: "No sideways overflow on " + route + " at " + viewport.width + "px",
+      }).toBeLessThanOrEqual(2);
+    }
+  }
+  await page.goto("/");
+  await page.locator("#theme-toggle").click();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
+  // Focus-visible is a keyboard modality, not a programmatic pointer focus.
+  await page.keyboard.press("Tab");
+  await page.locator(".home-collection-card").first().focus();
+  await expect(page.locator(".home-collection-card").first()).toHaveCSS("outline-style", "solid");
+});
+
+test("saved library has a separate kalam/stanza bookmark section @smoke", async ({ page }) => {
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-selections-heading")).toBeVisible();
+  await expect(page.locator("#basta-selections-empty")).toBeVisible();
+});

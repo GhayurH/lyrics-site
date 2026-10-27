@@ -41,6 +41,14 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
     <a class="home-skip-browse" href="#kalam-types-heading">Browse by Kalam Type <span aria-hidden="true">↓</span></a>
   </section>
 
+  <section id="home-continue" class="home-continue" aria-labelledby="home-continue-title" hidden>
+    <div class="home-continue-heading">
+      <div><p class="eyebrow">On this device</p><h2 id="home-continue-title">Continue where you left off</h2></div>
+      <a href="/saved/">Your library</a>
+    </div>
+    <div id="home-continue-links" class="home-continue-links"></div>
+  </section>
+
   <section class="home-collections" aria-label="Explore the collections">
     <a class="home-collection-card" href="#kalam-types-heading">
       <span class="eyebrow">All kalam by type</span>
@@ -110,23 +118,15 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
 
   <section class="home-closing" aria-labelledby="home-closing-heading">
     <div>
-      <p class="eyebrow">Your reading</p>
-      <h2 id="home-closing-heading">Pick up where you left off</h2>
-      <p>Return to saved kalam and recently viewed pages, or continue reading Basta.</p>
-      <div class="home-closing-links">
-        <a href="/saved/">Saved &amp; recent <span aria-hidden="true">→</span></a>
-        <a href="/basta/" data-resume-basta hidden>Continue Basta</a>
-      </div>
-    </div>
-    <div class="home-closing-contact">
       <p class="eyebrow">About the project</p>
-      <p>Have a correction or a kalam to contribute?</p>
-      <a href="/about/#contact">About / Contact <span aria-hidden="true">→</span></a>
+      <h2 id="home-closing-heading">Help improve Kalam Archive</h2>
+      <p>Found a transcription error, or have a kalam to contribute?</p>
     </div>
+    <a href="/about/#contact">Corrections and contact <span aria-hidden="true">→</span></a>
   </section>
 
   <script>
-    import { initResumeBasta } from "../client/reading-progress";
-    initResumeBasta();
+    import { initHomeContinue } from "../client/home-continue";
+    initHomeContinue();
   </script>
 </BaseLayout>

@@ -2,6 +2,7 @@
 import type { BastaKalam } from "../lib/basta-kalam-units";
 import { bastaVerseClassNames, layoutBastaKalam } from "../lib/basta-text";
 import { splitLyricStanzas } from "../lib/lyric-stanzas";
+import { romanUnavailable } from "../lib/edition-availability";
 import { validateRecitationSet, type RecitationSet, type RecitationItem } from "../lib/recitation-set";
 import { readDrafts } from "./recitation-storage";
 import { initReadingControls } from "./reader-state";
@@ -85,10 +86,10 @@ function preface(roman: string): string {
  * a single newline can merge the closing couplet of stanza 6 with the printed
  * numeral of stanza 7 when the poem crosses a page boundary.
  */
-function originalBastaEdition(parent: HTMLElement, kalam: BastaKalam, language: "urdu" | "roman") {
+function originalBastaEdition(parent: HTMLElement, kalam: BastaKalam, language: "urdu" | "roman", hasScan: boolean) {
   const source = language === "urdu" ? kalam.urdu : kalam.roman || "";
   if (!source) {
-    parent.append(node("p", "recite-empty-edition", "Roman text is unavailable for this kalam."));
+    parent.append(node("p", "recite-empty-edition", romanUnavailable("kalam", hasScan)));
     return;
   }
   if (!kalam.numbered || !kalam.stanzas.length ||
@@ -118,7 +119,7 @@ function sourceScanPages(poem: Poem, item: RecitationItem, sources: Map<string, 
 }
 
 function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, language: "urdu" | "roman",
-  sources: Map<string, Poem>) {
+  sources: Map<string, Poem>, hasScan: boolean) {
   const original = poem.basta!;
   const references = item.stanzaSequence || [];
   if (language === "urdu") {
@@ -147,7 +148,7 @@ function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, la
       parent.append(attribution);
     }
     if (language === "roman" && !stanza.roman) {
-      parent.append(node("p", "recite-empty-edition", "Roman text unavailable for stanza " + stanza.number));
+      parent.append(node("p", "recite-empty-edition", romanUnavailable("stanza", hasScan, stanza.number)));
     } else {
       addBastaText(parent, stanza.printedNumber + "\n" +
         (language === "urdu" ? stanza.urdu : stanza.roman));
@@ -183,6 +184,14 @@ function renderWork(work: HTMLElement, item: RecitationItem, index: number,
   header.append(headline);
   if (poem.alternateTitle) header.append(alt);
   header.append(sourceLink);
+  const pages = sourceScanPages(poem, item, sources);
+  const scans = pages.length
+    ? pages.map((page) => ({
+        address: "/images/basta/original/" + String(page).padStart(3, "0") + ".png",
+        label: "Basta page " + page,
+      }))
+    : poem.image ? [{ address: poem.image, label: "Original scan of " + poem.title }] : [];
+  const hasScan = scans.length > 0;
   const editions = node("div", "recite-editions");
   editions.dataset.syncedScrollRoot = "";
   const urdu = node("section", "lyric-reading-panel lyric-reading-urdu");
@@ -193,28 +202,28 @@ function renderWork(work: HTMLElement, item: RecitationItem, index: number,
   roman.lang = "en"; roman.dir = "ltr";
   roman.dataset.syncedScrollPanel = "";
   roman.setAttribute("aria-label", "Roman Urdu text");
-  const headingU = node("h3", "lyric-version-heading", "Original text");
-  const headingR = node("h3", "lyric-version-heading", "Roman Urdu");
-  urdu.append(headingU); roman.append(headingR);
   if (item.stanzaSequence) {
-    stanzaSection(urdu, poem, item, "urdu", sources);
-    stanzaSection(roman, poem, item, "roman", sources);
+    stanzaSection(urdu, poem, item, "urdu", sources, hasScan);
+    stanzaSection(roman, poem, item, "roman", sources, hasScan);
   } else if (poem.kind === "basta") {
-    originalBastaEdition(urdu, poem.basta!, "urdu");
-    originalBastaEdition(roman, poem.basta!, "roman");
+    originalBastaEdition(urdu, poem.basta!, "urdu", hasScan);
+    originalBastaEdition(roman, poem.basta!, "roman", hasScan);
   } else {
     addLyricText(urdu, poem.urdu);
     if (poem.roman) addLyricText(roman, poem.roman, true);
-    else roman.append(node("p", "recite-empty-edition", "Roman text is unavailable for this kalam."));
+    else roman.append(node("p", "recite-empty-edition", romanUnavailable("kalam", hasScan)));
   }
+  // Preserve the selected Roman edition while signalling when a source scan
+  // is the available alternative; never silently substitute another text.
+  const missingRoman = item.stanzaSequence
+    ? item.stanzaSequence.some((reference) => {
+        const source = sources.get(reference.kalamId)?.basta;
+        const stanza = source?.stanzas.find((candidate) => candidate.id === reference.stanzaId);
+        return Boolean(stanza && !stanza.roman);
+      })
+    : !poem.roman?.trim();
+  if (missingRoman) work.classList.add("recite-work-no-roman");
   const image = node("figure", "lyric-reading-image");
-  const pages = sourceScanPages(poem, item, sources);
-  const scans = pages.length
-    ? pages.map((page) => ({
-        address: "/images/basta/original/" + String(page).padStart(3, "0") + ".png",
-        label: "Basta page " + page,
-      }))
-    : poem.image ? [{ address: poem.image, label: "Original scan of " + poem.title }] : [];
   if (scans.length) {
     for (const scan of scans) {
       const frame = node("div", "recite-scan-page");
@@ -376,6 +385,9 @@ export async function initRecitationReader(): Promise<void> {
       tab.document.open();
       tab.document.write(html);
       tab.document.close();
+      // Printing before the embedded Nastaliq faces load causes silent fallback
+      // to Naskh, even though the HTML declares the right font.
+      await tab.document.fonts.ready;
       tab.focus();
       tab.print(); // Browser print dialog also offers Save as PDF.
       exportMessage.textContent = "Print preview opened. Choose Save as PDF to export a PDF.";

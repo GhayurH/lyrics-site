@@ -31,7 +31,7 @@ For content conventions, correction rules, and the workflow for adding or updati
 
 ### Recitation Sets
 
-The [Recitation Sets builder](https://kalamarchive.com/recite/) lets organizers assemble kalam
+The [Recitation Sets builder](https://kalamarchive.com/recite/) uses Plan, Find, and Share navigation (with optional programme notes collapsed on phones when empty) to let organizers assemble kalam
 programmes from standalone lyrics and verified Basta poems. Numbered Marsiya
 stanzas can be rearranged or borrowed from other verified Marsiyas without
 changing the archive text. Programmes can be read in Urdu, Roman Urdu, or with
@@ -125,7 +125,7 @@ Detailed content and transliteration conventions are documented in [Content cont
 
 ## Discovery and navigation
 
-The homepage leads with a regular HTML search form targeting `/search/?q=...`, then provides direct entry points for the standalone kalam collection and Basta. Kalam Type links show all published standalone and indexed Basta entries for that type; the homepage does not duplicate lists of lyric cards. The detailed search filters remain on `/search/`, so Pagefind is not loaded on the homepage.
+The homepage leads with a regular HTML search form targeting `/search/?q=...`, then provides three entry points: browse Kalam Types, explore Basta, and prepare Recitation Sets. A compact **Continue where you left off** section appears only when browser-local reading history or a programme draft exists. Kalam Type listings separate published standalone kalams from indexed Basta selections without duplicating entries; the homepage does not duplicate lists of lyric cards. The detailed search filters remain on `/search/`, so Pagefind is not loaded on the homepage. On phones, filter controls start collapsed above the results and can be expanded; applied filters remain visible as removable chips.
 
 The Basta landing route `/basta/` offers page-by-page and continuous reading, an independent link to the book index, validated page-number navigation, and an original PDF download. Return readers see a prominent browser-local resume panel before the reader choices when reading history exists. Both landing pages use the book cover at `/images/basta/original/000.jpg`, served through the shared R2 asset routing on preview deployments. Navigation and reading entry points remain usable if the image cannot load. Without JavaScript, the Basta landing page hides its page-number form and keeps the linked book index available.
 
@@ -133,7 +133,7 @@ The Basta landing route `/basta/` offers page-by-page and continuous reading, an
 
 Search is powered by Pagefind and is generated during the production build. Pagefind assets are loaded only on `/search/`.
 
-The Saved/Recent page does not embed the complete lyrics catalog into every page. Its catalog is exposed as `/data/saved-catalog.json` and fetched only where needed. Favorites, recent history, theme, and reading preferences remain browser-local.
+The Saved/Recent page does not embed the complete lyrics catalog into every page. Its catalog is exposed as `/data/saved-catalog.json` and fetched only where needed. Favorites, bookmarked Basta pages, locally saved recitation programmes, recent history, theme, and reading preferences remain browser-local.
 
 ## Continuous Basta reader
 
@@ -143,17 +143,17 @@ Direct `/basta/read/#page-N` links remain supported; the target chunk is loaded 
 
 ### Reader editions and immersive Reading Mode
 
-On standalone kalams, Basta page-by-page, and the continuous Basta reader, choose any available combination of **Image**, **Urdu**, and **Roman** using independent checkboxes. At least one edition must remain selected. Text editions are shown by default, with the original scan available on demand. Preferences are remembered per reader. The same container-width layout works in portrait, landscape, desktop, and Focus mode: texts appear in parallel when they fit legibly, otherwise they stack. A **Line spacing** selector remains available; individual verses automatically fit their column on one line, without horizontal scrolling or wrapping. On mobile, the ordinary reader's controls are collapsed to **Focus mode** and **Options** by default; expand Options to reach editions, spacing, and continuous-reader navigation. This is separate from Focus mode's own Options button. The linked Basta index uses compact entries at phone widths. All server-rendered readers display usable text without JavaScript.
+On standalone kalams, Basta page-by-page, and the continuous Basta reader, choose any available combination of **Image**, **Urdu**, and **Roman** using independent checkboxes. At least one edition must remain selected. Text editions are shown by default, with the original scan available on demand. Preferences are remembered per reader. The same container-width layout works in portrait, landscape, desktop, and Focus Mode: texts appear in parallel when they fit legibly, otherwise they stack. A **Line spacing** selector remains available; individual verses automatically fit their column on one line, without horizontal scrolling or wrapping. On mobile, the ordinary reader's controls are collapsed to **Focus Mode** and **Options** by default; expand Options to reach editions, spacing, and continuous-reader navigation. This is separate from Focus Mode's own Options button. The linked Basta index uses compact entries at phone widths. All server-rendered readers display usable text without JavaScript.
 
-**Focus mode** removes site navigation and metadata while preserving text formatting, typography preferences, and synchronized text scrolling. Tap the content or **Options** to reveal controls; leave using **× Exit**, Escape, or the browser Back gesture. The optional **Browser fullscreen** button requests the fullscreen API. Selecting an original scan opens a shared, keyboard-accessible viewer with Fit, 100%, and 200% zoom controls (normal image links remain usable without JavaScript). On mobile, an **↑ Top** control appears as you scroll.
+**Focus Mode** removes site navigation and metadata while preserving text formatting, typography preferences, and synchronized text scrolling. Tap the content or **Options** to reveal controls; leave using **× Exit**, Escape, or the browser Back gesture. The optional **Browser fullscreen** button requests the fullscreen API. Selecting an original scan opens a shared, keyboard-accessible viewer with Fit, 100%, 200%, incremental zoom, and two-axis drag-to-pan (normal image links remain usable without JavaScript). On mobile, an **↑ Top** control appears as you scroll.
 
 On mobile, the one-row site header hides on downward page scrolling and reappears on upward scrolling, at the top of the page, or while its navigation menu is open. The site's navigation remains accessible through the menu icon. On desktop the full navigation stays visible.
 
-The continuous reader offers a validated page-number jump in both views, a **Contents** control (also available inside Focus mode), and a link to open the current page in the page-by-page reader. Printed index-page numbers open Contents. Link directly into an immersive page using `/basta/read/?reading=1#page-202`; without `?reading=1`, the same page hash opens in the normal reader. Entering or leaving Focus mode and rotating preserve reading position. The last Basta page and normalized within-page offset are saved **locally in this browser**, with a Continue Basta link on the homepage, Basta landing page, and Saved page. The resume position survives navigation and rotation in the same browser. Continuous progress uses `IntersectionObserver` to observe nearby pages instead of measuring every loaded page while scrolling.
+Both Basta reading views offer a **Save page** control. The Saved page lists bookmarked Basta pages and locally saved recitation programmes alongside favorite and recently viewed standalone kalams. The continuous reader offers a validated page-number jump in both views, a **Contents** control (also available inside Focus Mode), and a link to open the current page in the page-by-page reader. Printed index-page numbers open Contents. Link directly into an immersive page using `/basta/read/?reading=1#page-202`; without `?reading=1`, the same page hash opens in the normal reader. Entering or leaving Focus Mode and rotating preserve reading position. The last Basta page and normalized within-page offset are saved **locally in this browser**, with a contextual continuation card on the homepage and Continue Basta links on the Basta landing and Saved pages. The resume position survives navigation and rotation in the same browser. Continuous progress uses `IntersectionObserver` to observe nearby pages instead of measuring every loaded page while scrolling.
 
 ### Parallel reading and kalam boundaries
 
-When Urdu, Roman Urdu, and (for Basta) an original scan appear side by side, each scrollable column retains its own content height. Scrolling one moves the other visible columns by the corresponding percentage. On Basta pages containing multiple kalams, Urdu and Roman progress is mapped **within each matching kalam**, keeping their boundaries aligned rather than stretching shorter poems to the height of longer ones. The scan follows its page-wide scroll percentage.
+When Urdu, Roman Urdu, and (for Basta) an original scan appear side by side, the text columns retain their own content heights. The taller text panel can scroll independently, while the shorter text panel remains fully visible. On Basta pages containing multiple kalams, Urdu and Roman progress is mapped **within each matching kalam**, keeping their boundaries aligned rather than stretching shorter poems to the height of longer ones. When shown beside poetry, the scan stays vertically centred in its own sticky viewport beneath the visible navigation controls; stacked scans remain in the document flow.
 
 The explicit `---***---` line in Basta Markdown separates kalams. These boundaries are preserved in both Urdu and Roman editions, including the page-by-page reader and streamed continuous-reader chunks. Titles identified in the text preface are bold and underlined; poet credits are not. Standalone lyrics use bold, underlined page titles. Narrow layouts stack the editions and use ordinary document scrolling.
 
@@ -199,7 +199,7 @@ For the normal add-image/add-file publishing sequence, see [docs/ASSET_WORKFLOW.
 
 ### Browser regression checks
 
-The GitHub Actions reader-validation workflow runs on pushes to `main` and on pull requests. It builds the site, runs the Node regression suite, and checks a focused `@smoke` selection of Chromium browser tests covering core navigation, no-JavaScript reading, responsive layouts, Focus mode, and continuous reading. The full Chromium browser suite remains available locally.
+The GitHub Actions reader-validation workflow runs on pushes to `main` and on pull requests. It builds the site, runs the Node regression suite, and checks a focused `@smoke` selection of Chromium browser tests covering core navigation, no-JavaScript reading, responsive layouts, Focus Mode, and continuous reading. The full Chromium browser suite remains available locally.
 
 To run the same checks locally:
 
@@ -226,3 +226,13 @@ To report a correction, suggest a lyric, or ask a question, contact the site own
 ---
 
 Preserving Urdu literature in searchable digital form.
+
+Recitation Sets' offline HTML embeds Nastaliq WOFF2 data, so no external font is required to print or save a PDF. Its printable layout keeps Urdu and Roman text parallel. Basta page/index navigation now lives only in the shared top reader toolbar.
+
+**Design consistency:** A small set of theme-aware control-height, radius, focus-ring, and surface tokens in `core.css` is shared by the reader controls, search filters, library, category pages, and recitation tools. Reader content uses the same availability policy across modes: missing Roman text remains explicitly labelled, and a Roman-only selection displays the original scan as an alternative where one exists. Keyboard operation, reduced-motion preferences, and narrow landscape layouts are covered by Chromium browser tests.
+
+Specific Basta kalams and numbered stanzas can also be bookmarked locally: use the discreet star on a kalam or select a numbered stanza circle. The Saved page links directly to that page and position. The Markdown poetry source remains unchanged.
+
+### Validation cadence
+
+Routine draft-PR updates run the production build (including Node tests and recitation identity checks) and verify deployment routing, while skipping the expensive Chromium suite and Basta audit. Mark a milestone commit `[full-ci]` to run the complete browser suite and audit. Commits to `main` always run them.

@@ -145,14 +145,6 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       </div>
     </header>
 
-    <BastaPager
-      currentPage={page}
-      previousHref={previousHref}
-      nextHref={nextHref}
-      availablePages={availablePages}
-      indexStartPage={indexStartPage}
-      indexEndPage={indexEndPage}
-    />
 
     <ReadingControls
       className="basta-page-reading-controls"
@@ -161,7 +153,17 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       showModes={hasRomanText}
       hasImage
       imageOnly={entry.data.imageOnly}
-    />
+      bookmarkPage
+    >
+      <BastaPager slot="navigation"
+            currentPage={page}
+            previousHref={previousHref}
+            nextHref={nextHref}
+            availablePages={availablePages}
+            indexStartPage={indexStartPage}
+            indexEndPage={indexEndPage}
+          />
+    </ReadingControls>
 
     <div
       class:list={[
@@ -180,7 +182,6 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       data-synced-scroll-root={!entry.data.imageOnly ? "" : undefined}
     >
       <figure class="basta-original-page" data-pagefind-ignore data-synced-scroll-panel>
-        <figcaption>Original book page</figcaption>
         <a href={entry.data.originalImage}>
           <img
             src={entry.data.originalImage}
@@ -199,7 +200,6 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
             variant="page"
             stanzaStyle={stanzaStyle}
             page={page}
-            showHeadings
           />
         )
       }
@@ -212,21 +212,12 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
             dir="rtl"
             aria-label={`Urdu text of Basta page ${page}`}
           >
-            <h2 class="basta-page-text-heading">Urdu text</h2>
             <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} stanzaStyle={stanzaStyle} />
           </section>
         )
       }
     </div>
 
-    <BastaPager
-      currentPage={page}
-      previousHref={previousHref}
-      nextHref={nextHref}
-      availablePages={availablePages}
-      indexStartPage={indexStartPage}
-      indexEndPage={indexEndPage}
-    />
   </article>
 
   <script>

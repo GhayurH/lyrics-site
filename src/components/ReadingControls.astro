@@ -14,6 +14,8 @@ interface Props {
   availablePages?: number[];
   indexStartPage?: number;
   indexEndPage?: number;
+  recitationNavigation?: boolean;
+  bookmarkPage?: boolean;
 }
 const {
   ariaLabel = "Reading controls",
@@ -26,20 +28,45 @@ const {
   availablePages = [],
   indexStartPage = 0,
   indexEndPage = 0,
+  recitationNavigation = false,
+  bookmarkPage = false,
 } = Astro.props as Props;
 ---
 
-<div class:list={["reading-controls", className]} data-reading-controls data-pagefind-ignore aria-label={ariaLabel}>
-  <button type="button" class="reading-focus-enter" data-reading-focus-enter>Focus mode</button>
+<div class:list={["reading-controls", className, recitationNavigation && "reading-controls-recitation"]} data-reading-controls data-pagefind-ignore role="group" aria-label={ariaLabel}>
+  <button type="button" class="reading-focus-enter" data-reading-focus-enter>Focus Mode</button>
   <button type="button" class="reading-regular-toggle" data-reading-regular-toggle aria-expanded="false" aria-label="Show reading options">Options <span aria-hidden="true" data-reading-regular-indicator>▾</span></button>
   <div class="reading-focus-actions">
     <button type="button" data-reading-focus-options aria-expanded="false" aria-label="Show reading options">Options</button>
     <button type="button" data-reading-focus-exit aria-label="Exit reading mode">× Exit</button>
   </div>
+  {recitationNavigation && (
+    <nav class="recite-reader-toolbar" aria-label="Programme navigation">
+      <button type="button" id="recite-previous">← Previous</button>
+      <label class="recite-reader-progress" for="recite-reader-contents">Kalam <span id="recite-position">—</span></label>
+      <select id="recite-reader-contents" aria-label="Jump to a kalam"></select>
+      <button type="button" id="recite-next">Next →</button>
+      <label id="recite-live-label" class="recite-reader-live-label" hidden>
+        <input type="checkbox" id="recite-follow-live" /> Follow organizer live
+      </label>
+      <span id="recite-live-status" class="recite-hint" role="status" aria-live="polite"></span>
+      <label class="recite-reader-view-label" for="recite-reader-view">View
+        <select id="recite-reader-view">
+          <option value="continuous">Continuous</option>
+          <option value="sequential">One at a time</option>
+        </select>
+      </label>
+    </nav>
+  )}
+  {Astro.slots.has("navigation") && (
+    <div class="reading-context-nav">
+      <slot name="navigation" />
+    </div>
+  )}
   <button type="button" class="reading-focus-fullscreen" data-reading-fullscreen-toggle aria-pressed="false">Browser fullscreen</button>
 
   <div class:list={["reading-control-group", "reading-view-control", (imageOnly || (!hasImage && !showModes)) && "reading-view-control-only"]}>
-    <span class="reading-control-label">Show editions</span>
+    <span class="reading-control-label">Show</span>
     <div class="reading-column-choices" role="group" aria-label={modeGroupLabel}>
       {hasImage && (
         <label class="reading-column-choice">
@@ -63,7 +90,7 @@ const {
   </div>
   {!imageOnly && (
     <label class="reading-control-group">
-      <span class="reading-control-label">Line spacing</span>
+      <span class="reading-control-label">Line Spacing</span>
       <select data-reading-line-spacing>
         <option value="compact">Compact</option>
         <option value="default" selected>Default</option>
@@ -83,5 +110,6 @@ const {
       <button type="submit">Go</button>
     </form>
   )}
+  {bookmarkPage && <button type="button" class="reading-bookmark-page" data-basta-bookmark aria-pressed="false" title="Save this Basta page">Save page</button>}
   <button type="button" class="reading-scroll-top" data-reading-scroll-top hidden aria-label="Scroll to top">↑ Top</button>
 </div>
