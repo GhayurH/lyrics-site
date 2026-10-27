@@ -334,3 +334,5 @@ Corrections, missing material, and cataloguing/index issues can be reported to:
 Keep Basta page/index top navigation in `ReadingControls.astro` via the `navigation` slot, without duplicating a separate top pager. The scan dialog alone permits both-axis zoom and drag-to-pan; narrower images stay centred with no horizontal overflow.
 
 Offline recitation printouts must bundle the site's Nastaliq faces instead of relying on system Naskh. Preserve text edition fonts, order, and offline operation; await font readiness before printing. Basta no longer has a second bottom pager.
+
+Print pagination: do not restore whole-poem Urdu/Roman grids or unconditional per-kalam page breaks in `recitation-export.ts`. Keep bilingual stanza rows with `break-inside: avoid` and keep each header with the first stanza. Browser smoke coverage generates a real PDF to detect excess pages.

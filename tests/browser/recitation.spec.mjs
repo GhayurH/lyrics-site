@@ -44,6 +44,11 @@ test("offline programme export contains complete text, reciter assignments and n
     return Math.abs(roman.top - urdu.top) < 4 && roman.right <= urdu.left + 5;
   });
   expect(aligned).toBe(true);
+  // Check Chromium's actual PDF page count, not just screen CSS geometry.
+  const pdf = await page.pdf({ format: "Letter", preferCSSPageSize: true });
+  const pageCount = (pdf.toString("latin1").match(/\/Type\s*\/Page\b/g) || []).length;
+  expect(pageCount).toBeGreaterThan(0);
+  expect(pageCount).toBeLessThanOrEqual(3);
 });
 
 test("live navigation is opt-in and follows published entry UIDs @smoke", async ({ page }) => {
