@@ -173,3 +173,55 @@ test("multi-page Basta Marsiya preserves six-verse framing and both scans @smoke
     }
   }
 });
+
+test("organizer can permanently preserve, renew and delete published sets @smoke", async ({ page }) => {
+  const id = "123456789abcdef123456789";
+  const editToken = "a".repeat(64);
+  let published;
+  let changes = 0;
+  let deletes = 0;
+  await page.route("**/api/recitation-sets/**", async (route) => {
+    const request = route.request();
+    const method = request.method();
+    const path = new URL(request.url()).pathname;
+    if (method === "POST" && path.endsWith("/recitation-sets/")) {
+      published = request.postDataJSON();
+      return route.fulfill({ status: 201, contentType: "application/json", body: JSON.stringify({
+        id, editToken, permanent: true, expiresAt: null,
+      }) });
+    }
+    if (method === "PUT" && path.endsWith("/" + id)) {
+      changes++;
+      published = request.postDataJSON();
+      expect(request.headers().authorization).toBe("Bearer " + editToken);
+      return route.fulfill({ contentType: "application/json", body: JSON.stringify({
+        id, updated: true, permanent: false, expiresAt: "2028-10-27T00:00:00.000Z",
+      }) });
+    }
+    if (method === "DELETE" && path.endsWith("/" + id)) {
+      deletes++;
+      expect(request.headers().authorization).toBe("Bearer " + editToken);
+      return route.fulfill({ contentType: "application/json", body: JSON.stringify({ id, deleted: true }) });
+    }
+    return route.fulfill({ status: 404 });
+  });
+  await page.goto("/recite/");
+  await page.locator("#recite-title").fill("Retention test");
+  await page.locator("#recite-source").selectOption("lyric");
+  await page.locator("#recite-results li button:not([disabled])").first().click();
+  await page.locator("#recite-permanent").check();
+  await page.locator("#recite-publish").click();
+  await expect(page.locator("#recite-expiration")).toContainText("Permanent");
+  await expect(page.locator("#recite-delete-published")).toBeVisible();
+  expect(published.permanent).toBe(true);
+  await page.locator("#recite-permanent").uncheck();
+  await page.locator("#recite-publish").click();
+  await expect(page.locator("#recite-expiration")).toContainText("expires");
+  expect(changes).toBe(1);
+  expect(published.permanent).toBeUndefined();
+  page.once("dialog", (dialog) => dialog.accept());
+  await page.locator("#recite-delete-published").click();
+  await expect(page.locator("#recite-message")).toContainText("permanently deleted");
+  await expect(page.locator("#recite-shared-links")).toBeHidden();
+  expect(deletes).toBe(1);
+});
