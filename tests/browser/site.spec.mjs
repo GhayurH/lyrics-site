@@ -146,3 +146,14 @@ test("Saved page contains browser-local Basta and programme libraries @smoke", a
   await expect(page.locator("#basta-bookmarks-heading")).toBeVisible();
   await expect(page.locator("#recitation-drafts-heading")).toBeVisible();
 });
+
+test("Basta bookmarks can be saved, revisited and removed from the Saved page @smoke", async ({ page }) => {
+  await page.goto("/basta/145/");
+  const button = page.locator("[data-basta-bookmark]");
+  await button.click();
+  await expect(button).toHaveAttribute("aria-pressed", "true");
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-bookmarks-list a")).toHaveText("Basta · Page 145");
+  await page.locator("#basta-bookmarks-list button").click();
+  await expect(page.locator("#basta-bookmarks-empty")).toBeVisible();
+});

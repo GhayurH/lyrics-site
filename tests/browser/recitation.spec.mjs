@@ -363,3 +363,28 @@ test("recitation programme navigation belongs to the shared contextual toolbar @
   await expect(controls.locator(".recite-reader-toolbar")).toHaveCount(1);
   await expect(page.locator("[data-reading-root] .recite-reader-toolbar")).toHaveCount(0);
 });
+
+test("mobile contextual toolbar expands without overlaying the programme navigation @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/recite/");
+  await page.locator("#recite-title").fill("Responsive toolbar");
+  await page.locator("#recite-source").selectOption("lyric");
+  await page.locator("#recite-results li button:not([disabled])").first().click();
+  await page.locator("#recite-open-reader").click();
+  const controls = page.locator("[data-reading-controls]");
+  await expect(controls.locator(".recite-reader-toolbar")).toBeVisible();
+  await controls.locator("[data-reading-regular-toggle]").click();
+  const [navigation, editions] = await Promise.all([
+    controls.locator(".recite-reader-toolbar").boundingBox(),
+    controls.locator(".reading-view-control").boundingBox(),
+  ]);
+  expect(navigation && editions).toBeTruthy();
+  expect(editions.y).toBeGreaterThanOrEqual(navigation.y + navigation.height - 2);
+  await controls.locator("[data-reading-line-spacing]").selectOption("relaxed");
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
+  const text = page.locator(".recite-editions .lyrics-text").first();
+  await expect(text).toHaveCSS("line-height", /\d+(?:\.\d+)?px/);
+  await controls.locator("[data-reading-focus-enter]").click();
+  await expect(controls.locator(".recite-reader-toolbar")).toBeVisible();
+  await controls.locator("[data-reading-focus-exit]").click();
+});

@@ -34,7 +34,7 @@ Browser code lives here rather than in a generic `scripts/` directory. This prev
 - `lyric-card.ts` and `saved-library.ts` provide the client-rendered Saved/Recent view while reusing the same card data/class contract as Astro cards.
 - `search.ts` owns Pagefind URL synchronization and active-filter chips.
 - `basta-stream.ts` owns progressive continuous-reader chunk loading.
-- `synced-columns.ts` synchronizes visible side-by-side Urdu, Roman, and scan panels; for Basta text, matching kalam breaks anchor per-kalam proportional progress.
+- `synced-columns.ts` synchronizes visible side-by-side Urdu and Roman text panels, excluding viewport-sticky scans; for Basta text, matching kalam breaks anchor per-kalam proportional progress.
 - `verse-fitting.ts` automatically fits each stanza/couplet to the available width, including extra-long verses, keeping all verses single-line without horizontal scrolling. The width calculation is in `src/lib/verse-fit.ts`; there is no minimum-font overflow or selectable text size.
 - `reading-progress.ts` records the current Basta page and within-page fraction locally and populates resume/current-page links. Continuous tracking observes nearby pages rather than traversing all loaded pages on every scroll.
 - `scan-viewer.ts` provides an accessible image dialog and preserves native image links when scripting is unavailable.

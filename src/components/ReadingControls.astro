@@ -33,7 +33,7 @@ const {
 } = Astro.props as Props;
 ---
 
-<div class:list={["reading-controls", className, recitationNavigation && "reading-controls-recitation"]} data-reading-controls data-pagefind-ignore aria-label={ariaLabel}>
+<div class:list={["reading-controls", className, recitationNavigation && "reading-controls-recitation"]} data-reading-controls data-pagefind-ignore role="group" aria-label={ariaLabel}>
   <button type="button" class="reading-focus-enter" data-reading-focus-enter>Focus mode</button>
   <button type="button" class="reading-regular-toggle" data-reading-regular-toggle aria-expanded="false" aria-label="Show reading options">Options <span aria-hidden="true" data-reading-regular-indicator>▾</span></button>
   <div class="reading-focus-actions">
