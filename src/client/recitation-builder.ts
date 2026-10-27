@@ -150,6 +150,7 @@ export async function initRecitationBuilder(): Promise<void> {
       const name = div("recite-list-info");
       const strong = document.createElement("strong");
       strong.textContent = (index + 1) + ". " + (metadata?.title || item.id);
+      if (/[\u0600-\u06ff]/u.test(metadata?.title || "")) { strong.lang = "ur"; strong.dir = "rtl"; }
       name.append(strong);
       const sub = document.createElement("small");
       sub.textContent = (metadata?.type || item.kind) +
@@ -215,7 +216,13 @@ export async function initRecitationBuilder(): Promise<void> {
       const li = document.createElement("li");
       const label = div("");
       const title = document.createElement("strong");
-      title.textContent = item.title; label.append(title);
+      const view = document.createElement("a");
+      view.href = item.sourceUrl;
+      view.target = "_blank"; view.rel = "noopener noreferrer";
+      view.textContent = item.title;
+      if (/[\u0600-\u06ff]/u.test(item.title)) { view.lang = "ur"; view.dir = "rtl"; }
+      title.append(view); label.append(title);
+      if (item.alternateTitle) label.append(div("recite-hint", item.alternateTitle));
       const type = document.createElement("small");
       type.textContent = (item.kind === "basta" ? "Basta · " : "Lyrics · ") + item.type +
         (!item.ready ? " · Awaiting verification" : "");
