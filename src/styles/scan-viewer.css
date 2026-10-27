@@ -2,18 +2,18 @@
 .scan-viewer {
   box-sizing: border-box; width: min(98vw, 96rem); height: min(96dvh, 75rem);
   max-width: none; max-height: none; margin: auto; padding: 0;
-  border: 1px solid var(--border-colour); border-radius: .7rem;
+  border: var(--ui-border); border-radius: .7rem;
   background: var(--site-background); color: var(--primary-text);
 }
 .scan-viewer::backdrop { background: rgb(0 0 0 / .82); }
 .scan-viewer[open] { display: flex; flex-direction: column; }
 .scan-viewer-toolbar {
   display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;
-  gap: .5rem; padding: .55rem .8rem; border-bottom: 1px solid var(--border-colour);
+  gap: .5rem; padding: .55rem .8rem; border-bottom: var(--ui-border);
 }
 .scan-viewer-toolbar > div { display: flex; flex-wrap: wrap; align-items: center; gap: .35rem; }
 .scan-viewer-toolbar button {
-  min-height: var(--ui-target); border: 1px solid var(--border-colour); border-radius: .45rem;
+  min-height: var(--ui-target); border: var(--ui-border); border-radius: .45rem;
   padding: .4rem .7rem; background: var(--surface-background);
   color: var(--primary-text); font: inherit; cursor: pointer;
 }
