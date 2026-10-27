@@ -1,9 +1,13 @@
-// File role: Global browser enhancements for theme switching and favorite-button synchronization; loaded once by BaseLayout.
+// File role: Global browser enhancements for appearance, navigation, and saved-item controls.
 import {
   STORAGE_KEYS,
   readFavoriteIds,
   toggleFavorite,
 } from "./storage";
+import {
+  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, readCustomPalette, readTheme,
+  type CustomPalette, type ThemeName,
+} from "./theme";
 
 function syncFavoriteButtons(): void {
   const favorites = new Set(readFavoriteIds());
@@ -181,34 +185,76 @@ function initHeaderAutoHide(): void {
   measureHeader();
 }
 
-function initThemeToggle(): void {
-  const root = document.documentElement;
-  const button = document.querySelector<HTMLButtonElement>("#theme-toggle");
-  if (!button) return;
+/** One compact toolbar icon opens preset and custom appearance controls. */
+function initThemePicker(): void {
+  const trigger = document.querySelector<HTMLButtonElement>("#theme-toggle");
+  const dialog = document.querySelector<HTMLDialogElement>("#theme-dialog");
+  const fields = dialog?.querySelector<HTMLFieldSetElement>("#theme-custom-fields");
+  const note = dialog?.querySelector<HTMLElement>("#theme-contrast-note");
+  if (!trigger || !dialog || !fields || !note) return;
 
-  const updateButton = () => {
-    const darkMode = root.dataset.theme === "dark";
-    const actionLabel = darkMode ? "Light mode" : "Dark mode";
-    const srLabel = button.querySelector<HTMLElement>("[data-theme-toggle-label]");
-    if (srLabel) srLabel.textContent = actionLabel;
-    button.title = `Switch to ${darkMode ? "light" : "dark"} mode`;
-    button.setAttribute(
-      "aria-label",
-      darkMode ? "Switch to light mode" : "Switch to dark mode",
-    );
-    button.setAttribute("aria-pressed", String(darkMode));
+  let selected: ThemeName = readTheme();
+  let palette: CustomPalette = readCustomPalette();
+  const colorNames: (keyof CustomPalette)[] = ["main", "secondary", "accent"];
+
+  const render = (save: boolean) => {
+    const ratio = applyTheme(selected, palette, save);
+    dialog.querySelectorAll<HTMLInputElement>('input[name="theme-mode"]').forEach((input) => {
+      input.checked = input.value === selected;
+    });
+    fields.hidden = selected !== "custom";
+    for (const name of colorNames) {
+      const input = dialog.querySelector<HTMLInputElement>("#theme-" + name);
+      const output = dialog.querySelector<HTMLOutputElement>("#theme-" + name + "-value");
+      if (input) input.value = palette[name];
+      if (output) output.textContent = palette[name].toUpperCase();
+    }
+    note.hidden = selected !== "custom" || ratio >= 4.5;
+    note.textContent = note.hidden ? "" :
+      "These backgrounds need more similar lightness for readable text on every surface. Try adjusting Main or Secondary.";
   };
 
-  updateButton();
-  button.addEventListener("click", () => {
-    const theme = root.dataset.theme === "dark" ? "light" : "dark";
-    root.dataset.theme = theme;
-    root.dataset.pfTheme = theme;
-    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", theme === "light" ? "#f7f7f8" : "#171719");
-    try {
-      localStorage.setItem("theme", theme);
-    } catch {}
-    updateButton();
+  // The bootstrap already applied the stored theme before paint. Sync UI
+  // without turning an automatic device preference into a manual preference.
+  render(false);
+
+  trigger.addEventListener("click", () => {
+    render(false);
+    dialog.showModal();
+  });
+  dialog.querySelectorAll<HTMLInputElement>('input[name="theme-mode"]').forEach((input) => {
+    input.addEventListener("change", () => {
+      if (!input.checked) return;
+      selected = input.value as ThemeName;
+      render(true);
+    });
+  });
+  for (const name of colorNames) {
+    dialog.querySelector<HTMLInputElement>("#theme-" + name)?.addEventListener("input", (event) => {
+      const input = event.currentTarget as HTMLInputElement;
+      palette = { ...palette, [name]: input.value };
+      selected = "custom";
+      render(true);
+    });
+  }
+  dialog.querySelector<HTMLButtonElement>("#theme-reset-custom")?.addEventListener("click", () => {
+    palette = { ...DEFAULT_PALETTE };
+    selected = "custom";
+    render(true);
+  });
+  for (const id of ["#theme-dialog-close", "#theme-dialog-done"]) {
+    dialog.querySelector<HTMLButtonElement>(id)?.addEventListener("click", () => dialog.close());
+  }
+  // The native modal handles Escape and keeps keyboard focus inside the dialog.
+  dialog.addEventListener("click", (event) => {
+    if (event.target === dialog) dialog.close();
+  });
+
+  window.addEventListener("storage", (event) => {
+    if (event.key !== "theme" && event.key !== PALETTE_KEY) return;
+    selected = readTheme();
+    palette = readCustomPalette();
+    render(false);
   });
 }
 
@@ -217,7 +263,7 @@ export function initSiteShell(): void {
   if (root.dataset.siteClientReady === "true") return;
   root.dataset.siteClientReady = "true";
 
-  initThemeToggle();
+  initThemePicker();
   initMobileNavigation();
   initHeaderAutoHide();
   syncFavoriteButtons();
