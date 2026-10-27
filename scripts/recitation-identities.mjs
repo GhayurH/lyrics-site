@@ -82,7 +82,10 @@ catch (error) {
 if (args.has("--bootstrap")) {
   const initial = { version: 1, lyrics: activeLyrics, basta: activeBasta.map(
     ({ status, ...record }) => record) };
-  console.log("RECITATION_IDENTITY_SNAPSHOT=" + JSON.stringify(initial));
+  const snapshot = JSON.stringify(initial);
+  for (let i = 0; i < snapshot.length; i += 4000)
+    console.log("RECITATION_IDENTITY_CHUNK_" + String(i / 4000).padStart(4, "0") + "=" +
+      snapshot.slice(i, i + 4000));
   process.exit(0);
 }
 if (!locked?.lyrics || !locked?.basta || locked.version !== 1)
