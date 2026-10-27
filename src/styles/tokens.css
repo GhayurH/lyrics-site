@@ -111,3 +111,12 @@ html[data-theme="custom"] {
   --accent-color: var(--theme-accent, var(--preset-sepia-accent));
   --button-text: var(--theme-accent-text, #ffffff);
 }
+
+/* The theme editor must stay legible while users preview low-contrast text.
+   Only this dialog overrides the site's semantic foreground/border roles. */
+html[data-theme="custom"] .theme-dialog {
+  --primary-text: var(--theme-editor-text, #171719);
+  --secondary-text: var(--theme-editor-muted, #555555);
+  --border-colour: color-mix(in srgb, var(--primary-text) 26%, var(--surface-background));
+  color-scheme: var(--theme-editor-scheme, light);
+}
