@@ -491,7 +491,7 @@ test("sharing choices are disclosed as the programme becomes publishable @smoke"
   await expect(options).toHaveAttribute("open", "");
   await expect(page.locator("#recite-permanent")).toBeVisible();
   await expect(page.locator(".recite-steps [data-recite-step='share']")).toHaveAttribute("data-stage-ready", "true");
-  await options.locator("summary").click();
+  await options.locator(":scope > summary").click();
   await expect(options).not.toHaveAttribute("open", "");
   await page.locator("#recite-title").fill("Read for majlis — updated");
   await expect(options).not.toHaveAttribute("open", "");

@@ -14,7 +14,7 @@ test("homepage categories link to their listings and Basta modes remain reachabl
   await page.goto("/basta/");
   await expect(page.getByRole("heading", { name: "Page by page" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "Continuous reader" })).toBeVisible();
-  await expect(page.getByRole("link", { name: "Open continuous reader" })).toBeVisible();
+  await expect(page.locator('a.basta-home-mode-card[href="/basta/read/"]')).toBeVisible();
   await expect(page.locator('a[href="/basta/index/"]')).toBeVisible();
 });
 
