@@ -2,6 +2,7 @@
 import type { BastaReaderChunk, BastaReaderPageData } from "../lib/basta";
 import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
 import settings from "../data/basta/settings.json";
+import { romanUnavailable } from "../lib/edition-availability";
 
 function element<K extends keyof HTMLElementTagNameMap>(
   tag: K,
@@ -110,7 +111,7 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
     roman.dir = "ltr";
     roman.setAttribute("aria-label", `Roman Urdu text of Basta page ${page.page}`);
     const missing = element("p", "basta-transliteration-missing");
-    missing.textContent = "No transliteration available for this page.";
+    missing.textContent = romanUnavailable("page", true);
     roman.append(missing);
 
     const urdu = element("section", "basta-reader-column basta-reader-urdu");
@@ -128,7 +129,7 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
   if (!page.imageOnly && !page.hasRoman) {
     const notice = element("p", "basta-edition-unavailable");
     notice.setAttribute("role", "status");
-    notice.textContent = "Roman Urdu is not available for this page. The original scan can be viewed instead.";
+    notice.textContent = romanUnavailable("page", true);
     section.append(notice);
   }
 

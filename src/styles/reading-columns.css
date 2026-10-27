@@ -154,12 +154,6 @@
   .basta-page-grid[data-reading-root]:not([data-reading-columns~="image"]) { grid-template-areas: "text"; grid-template-columns: minmax(0,1fr); }
   .basta-page-grid:not(.basta-page-grid-with-roman)[data-reading-root]:not([data-reading-columns~="image"]) { grid-template-areas: "urdu"; }
   .basta-parallel-kalams-page, .basta-parallel-kalams-reader { grid-template-columns: minmax(0,1fr); }
-  .basta-page-grid.basta-page-grid-with-roman[data-reading-root] { grid-template-columns: minmax(0,1fr); }
-  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-    > .basta-parallel-kalams-page {
-    width: 100%; max-width: 100%; min-width: 0;
-    grid-template-columns: minmax(0,1fr);
-  }
   .basta-parallel-kalams-page > .basta-page-urdu, .basta-parallel-kalams-reader > .basta-reader-urdu {
     grid-area: auto; grid-row: 1; border: 0; border-bottom: 1px solid var(--border-colour); padding: 0 0 1.1rem;
   }
@@ -318,6 +312,45 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
     grid-template-columns: minmax(0, 1fr);
   }
   .basta-parallel-index-table.basta-parallel-index-roman { border-inline-end: 0; }
+}
+
+/* On mobile portrait, page-by-page Basta has one *full-width* language panel
+   per row. The printed scan, if selected, also spans the complete width.
+   Explicit placement prevents later shared grid rules leaving two half-width
+   cells while merely moving the second language to another row. */
+@media (max-width: 700px) and (orientation: portrait) {
+  .basta-page-grid[data-reading-root].basta-page-grid-with-roman {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  .basta-page-grid[data-reading-root].basta-page-grid-with-roman[data-reading-columns~="image"] {
+    grid-template-areas: "scan" "text" !important;
+  }
+  .basta-page-grid[data-reading-root].basta-page-grid-with-roman:not([data-reading-columns~="image"]) {
+    grid-template-areas: "text" !important;
+  }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .basta-parallel-kalams-page {
+    display: grid;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .basta-parallel-kalams-page > .basta-page-urdu {
+    grid-area: 1 / 1 !important;
+    min-width: 0;
+    border: 0;
+    border-bottom: 1px solid var(--border-colour);
+    padding: 0 0 1.1rem;
+  }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .basta-parallel-kalams-page > .basta-page-roman {
+    grid-area: 2 / 1 !important;
+    min-width: 0;
+    border: 0;
+    padding: 1.1rem 0 0;
+  }
 }
 
 /* Mobile regular reading has one compact row by default. Focus mode owns its
@@ -486,3 +519,38 @@ html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-jump-form { 
 
 /* The floating scan's normal sticky viewport is not applied to Focus Mode. */
 html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-floating-scan="true"] { --reader-scan-clearance: 3.3rem; }
+
+/* A standalone lyric and each recitation work use the same panel geometry.
+// The recitation root owns selection state; independent works share its columns. */
+
+.recite-editions { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); min-width: 0; }
+.recite-editions > .lyric-reading-image { grid-area: image; }
+.recite-editions > .lyric-reading-roman { grid-area: roman; }
+.recite-editions > .lyric-reading-urdu { grid-area: urdu; }
+.recite-reading-root[data-reading-columns~="image"] .recite-editions {
+  grid-template-areas: "image image" "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr));
+}
+.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .recite-editions {
+  grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr);
+}
+.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .recite-editions {
+  grid-template-areas: "image" "roman"; grid-template-columns: minmax(0,1fr);
+}
+.recite-reading-root[data-reading-mode="image"] .recite-editions {
+  grid-template-areas: "image"; grid-template-columns: minmax(0,1fr);
+}
+.recite-reading-root[data-reading-mode="urdu"] .recite-editions {
+  grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr);
+}
+.recite-reading-root[data-reading-mode="roman"] .recite-editions {
+  grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr);
+}
+@container reader-shell (max-width: 40rem) {
+  .recite-editions { grid-template-areas: "urdu" "roman"; grid-template-columns: minmax(0,1fr); }
+  .recite-reading-root[data-reading-columns~="image"] .recite-editions {
+    grid-template-areas: "image" "urdu" "roman"; grid-template-columns: minmax(0,1fr);
+  }
+  .recite-reading-root[data-reading-mode="urdu"] .recite-editions { grid-template-areas: "urdu"; }
+  .recite-reading-root[data-reading-mode="roman"] .recite-editions { grid-template-areas: "roman"; }
+  .recite-reading-root[data-reading-mode="image"] .recite-editions { grid-template-areas: "image"; }
+}

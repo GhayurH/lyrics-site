@@ -4,6 +4,7 @@ import type { BastaReaderPageData } from "../lib/basta";
 import BastaParallelText from "./BastaParallelText.astro";
 import BastaText from "./BastaText.astro";
 import settings from "../data/basta/settings.json";
+import { romanUnavailable } from "../lib/edition-availability";
 
 interface Props {
   page: BastaReaderPageData;
@@ -53,7 +54,7 @@ const { page } = Astro.props as Props;
           </a>
         </figure>
         <section class="basta-reader-column basta-reader-roman" lang="en" dir="ltr" aria-label={`Roman Urdu text of Basta page ${page.page}`}>
-          <p class="basta-transliteration-missing">No transliteration available for this page.</p>
+          <p class="basta-transliteration-missing">{romanUnavailable("page", true)}</p>
         </section>
         <section class="basta-reader-column basta-reader-urdu" lang="ur" dir="rtl" aria-label={`Urdu text of Basta page ${page.page}`}>
           <BastaText text={page.urduText} className="basta-reader-text" indentStanzas={page.page >= settings.romanLyricsStartPage} stanzaStyle={page.stanzaStyle} />
@@ -61,7 +62,7 @@ const { page } = Astro.props as Props;
       </div>
     )
   }
-  {!page.imageOnly && !page.hasRoman && <p class="basta-edition-unavailable" role="status">Roman Urdu is not available for this page. The original scan can be viewed instead.</p>}
+  {!page.imageOnly && !page.hasRoman && <p class="basta-edition-unavailable" role="status">{romanUnavailable("page", true)}</p>}
   <p class="basta-reader-page-number" dir="ltr">{page.page}</p>
   {page.showBreak && <hr class="basta-reader-page-break" aria-hidden="true" />}
 </section>
