@@ -290,7 +290,7 @@ export async function initRecitationBuilder(): Promise<void> {
         actions.append(
           button("↑", () => adjustStanza(item, move(sequence, index, index - 1)), index === 0),
           button("↓", () => adjustStanza(item, move(sequence, index, index + 1)), index === sequence.length - 1),
-          button("Remove", () => adjustStanza(item, sequence.filter((_, pos) => pos !== index)), 
+          button("Remove", () => adjustStanza(item, sequence.filter((_, pos) => pos !== index)),
         );
         li.append(description, actions);
         return li;
