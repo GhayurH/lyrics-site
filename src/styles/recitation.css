@@ -6,14 +6,14 @@
 .recite-reader-toolbar select { width: 100%; min-height: var(--ui-target); border: 1px solid var(--border-colour); border-radius: var(--ui-radius); background: var(--surface-background); color: var(--primary-text); padding: .6rem .75rem; font: inherit; }
 .recite-app :is(button,input,select,textarea):focus-visible, .recite-reader :is(button,select,a):focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 .recite-app label { display: grid; gap: .35rem; min-width: 0; font-weight: 650; font-size: .88rem; }
-.recite-app .button { min-height: 2.75rem; margin: 0; cursor: pointer; font-size: .88rem; }
+.recite-app .button { min-height: var(--ui-target); margin: 0; cursor: pointer; font-size: .88rem; }
 .recite-app .button:disabled { opacity: .45; cursor: not-allowed; }
 .recite-panel { border: 1px solid var(--border-colour); border-radius: var(--ui-panel-radius); padding: clamp(1rem,2.5vw,1.55rem); background: var(--surface-background); min-width: 0; margin-bottom: 1.25rem; }
 .recite-section-heading, .recite-actions { display: flex; align-items: center; gap: .7rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
 /* A single aligned desktop row, independent of label height. */
 .recite-topbar { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: .7rem; align-items: end; margin-bottom: 1.2rem; }
 .recite-topbar-actions { display: flex; align-items: stretch; gap: .7rem; min-width: 0; }
-.recite-topbar-actions .button { height: 2.75rem; padding: .35rem .8rem; white-space: nowrap; }
+.recite-topbar-actions .button { height: var(--ui-target); padding: .35rem .8rem; white-space: nowrap; }
 .recite-section-heading { justify-content: space-between; margin-bottom: .7rem; }
 .recite-section-heading h2, .recite-section-heading p { margin: 0; }
 .recite-builder { display: grid; grid-template-columns: minmax(16rem,1fr) minmax(0,1.65fr); gap: 1.15rem; }
@@ -28,7 +28,7 @@
 .recite-list-info strong { display: block; line-height: 1.8; overflow-wrap: anywhere; }
 .recite-list-info small { display: block; color: var(--secondary-text); line-height: 1.5; }
 .recite-list-actions { display: flex; flex-wrap: wrap; gap: .35rem; }
-.recite-list-actions button, .recite-reader-toolbar button { border: 1px solid var(--border-colour); background: var(--surface-background); color: var(--primary-text); padding: .4rem .65rem; border-radius: .5rem; min-height: 2.75rem; font: inherit; cursor: pointer; }
+.recite-list-actions button, .recite-reader-toolbar button { border: 1px solid var(--border-colour); background: var(--surface-background); color: var(--primary-text); padding: .4rem .65rem; border-radius: .5rem; min-height: var(--ui-target); font: inherit; cursor: pointer; }
 .recite-list-actions button:disabled, .recite-reader-toolbar button:disabled { opacity: .4; cursor: default; }
 .recite-search-row { display: flex; flex-wrap: wrap; gap: .8rem; align-items: end; }
 .recite-search-row label:first-child { flex: 1 1 18rem; }
@@ -220,11 +220,11 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 
 /* A compact progression through the builder without hiding necessary functions. */
 .recite-steps { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1.25rem; }
-.recite-steps a { display: inline-flex; align-items: center; gap: .45rem; min-height: 2.75rem; padding: .35rem .75rem; border: 1px solid var(--border-colour); border-radius: .55rem; background: var(--surface-background); text-decoration: none; font-size: .88rem; font-weight: 650; }
+.recite-steps a { display: inline-flex; align-items: center; gap: .45rem; min-height: var(--ui-target); padding: .35rem .75rem; border: 1px solid var(--border-colour); border-radius: .55rem; background: var(--surface-background); text-decoration: none; font-size: .88rem; font-weight: 650; }
 .recite-steps a:hover { background: var(--tag-background); }
 .recite-steps a span { display: inline-grid; place-items: center; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--tag-background); font-size: .75rem; }
 .recite-sharing-policy { margin: .45rem 0 1rem; color: var(--secondary-text); }
-.recite-sharing-policy summary { min-height: 2.75rem; padding: .5rem 0; cursor: pointer; font-weight: 600; }
+.recite-sharing-policy summary { min-height: var(--ui-target); padding: .5rem 0; cursor: pointer; font-weight: 600; }
 .recite-sharing-policy p { margin: 0 0 .5rem; }
 .recite-panel { scroll-margin-top: calc(var(--site-header-height, 4rem) + 2rem); }
 
