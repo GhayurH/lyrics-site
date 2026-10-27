@@ -1,16 +1,17 @@
 // Static, cacheable single-lyric payloads; never expose unpublished entries.
-import { loadPublishedLyrics } from "../../../lib/lyrics-data";
+import { loadPublishedLyrics, recitationLyricId } from "../../../lib/lyrics-data";
 import type { CollectionEntry } from "astro:content";
 export const prerender = true;
 export async function getStaticPaths() {
   return (await loadPublishedLyrics()).map((item) =>
-    ({ params: { id: item.id }, props: { item } }));
+    ({ params: { id: recitationLyricId(item) }, props: { item } }));
 }
 export function GET({ props }: { props: { item: CollectionEntry<"lyrics"> } }) {
   const { item } = props;
   return Response.json({
     version: 1, lyric: {
-      id: item.id, title: item.data.title,
+      id: recitationLyricId(item), title: item.data.title,
+      sourceUrl: "/lyrics/" + item.id + "/",
       alternateTitle: item.data.alternateTitle,
       language: item.data.language, lang: item.data.lang,
       direction: item.data.direction,
