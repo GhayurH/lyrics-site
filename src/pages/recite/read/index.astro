@@ -16,6 +16,11 @@ import "../../../styles/recitation.css";
     </header>
     <p id="recite-reader-error" role="alert" hidden>Unable to load this programme.</p>
     <p data-requires-js>This reader requires JavaScript. Browse <a href="/">individual kalams</a> instead.</p>
+    <div class="recite-reader-tools" aria-label="Offline and printing tools">
+      <button type="button" id="recite-download-offline">Save offline HTML</button>
+      <button type="button" id="recite-print">Print / Save as PDF</button>
+      <p id="recite-export-status" class="recite-hint" role="status" aria-live="polite"></p>
+    </div>
     <ReadingControls ariaLabel="Recitation reading options" modeGroupLabel="Show editions" showModes hasImage />
     <div id="recite-reading-root" class="recite-reading-root" data-reading-root data-reader-kind="recitation" data-has-roman="true" data-reading-mode="parallel" data-reading-columns="urdu roman" data-line-spacing="default">
       <nav class="recite-reader-toolbar" aria-label="Programme navigation">
@@ -23,6 +28,10 @@ import "../../../styles/recitation.css";
         <label class="recite-reader-progress" for="recite-reader-contents">Kalam <span id="recite-position">—</span></label>
         <select id="recite-reader-contents" aria-label="Jump to a kalam"></select>
         <button type="button" id="recite-next">Next →</button>
+        <label id="recite-live-label" class="recite-reader-live-label" hidden>
+          <input type="checkbox" id="recite-follow-live" /> Follow organizer live
+        </label>
+        <span id="recite-live-status" class="recite-hint" role="status" aria-live="polite"></span>
         <label class="recite-reader-view-label" for="recite-reader-view">View
           <select id="recite-reader-view">
             <option value="continuous">Continuous</option>

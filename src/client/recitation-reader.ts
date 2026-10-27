@@ -8,6 +8,7 @@ import { initReadingControls } from "./reader-state";
 import { initVerseFitting } from "./verse-fitting";
 import { initSyncedColumns } from "./synced-columns";
 import { initScanViewer } from "./scan-viewer";
+import { programmeHtml, downloadProgramme } from "./recitation-export";
 
 type Poem = {
   title: string; alternateTitle?: string; urdu: string; roman?: string;
@@ -331,8 +332,96 @@ export async function initRecitationReader(): Promise<void> {
     }
     await loading.get(index);
   }
+  // Build complete snapshots only when requested, never during normal
+  // streaming/lazy reading. Batches avoid a burst of 40 network requests.
+  async function loadAll(): Promise<void> {
+    for (let index = 0; index < works.length; index += 4) {
+      await Promise.all(works.slice(index, index + 4).map((_, offset) => load(index + offset)));
+    }
+  }
+  const exportMessage = dom<HTMLElement>("recite-export-status");
+  const offlineButton = dom<HTMLButtonElement>("recite-download-offline");
+  const printButton = dom<HTMLButtonElement>("recite-print");
+  let exporting = false;
+  async function snapshot(): Promise<string> {
+    if (exporting) throw Error("An export is already in progress");
+    exporting = true;
+    offlineButton.disabled = printButton.disabled = true;
+    exportMessage.textContent = "Preparing all programme kalams…";
+    try {
+      await loadAll();
+      return programmeHtml(set, works);
+    } finally {
+      exporting = false;
+      offlineButton.disabled = printButton.disabled = false;
+    }
+  }
+  offlineButton.addEventListener("click", async () => {
+    try {
+      const html = await snapshot();
+      downloadProgramme(html, set.title);
+      exportMessage.textContent = "Offline HTML saved. Open it without internet; scans are not included.";
+    } catch (e) { exportMessage.textContent = (e as Error).message; }
+  });
+  printButton.addEventListener("click", async () => {
+    // Open the tab directly from the click event, before asynchronous loading;
+    // otherwise most browsers block the print preview as a popup.
+    const tab = window.open("", "_blank");
+    if (!tab) {
+      exportMessage.textContent = "Allow the print tab, then try again.";
+      return;
+    }
+    try {
+      const html = await snapshot();
+      tab.document.open();
+      tab.document.write(html);
+      tab.document.close();
+      tab.focus();
+      tab.print(); // Browser print dialog also offers Save as PDF.
+      exportMessage.textContent = "Print preview opened. Choose Save as PDF to export a PDF.";
+    } catch (e) {
+      tab.close();
+      exportMessage.textContent = (e as Error).message;
+    }
+  });
   const previous = dom<HTMLButtonElement>("recite-previous");
   const next = dom<HTMLButtonElement>("recite-next");
+  const followLabel = dom<HTMLLabelElement>("recite-live-label");
+  const follow = dom<HTMLInputElement>("recite-follow-live");
+  const liveStatus = dom<HTMLElement>("recite-live-status");
+  if (!remoteId) followLabel.hidden = true;
+  let following = false;
+  let livePolling = false;
+  async function pollLive(): Promise<void> {
+    if (!following || !remoteId || livePolling || document.hidden || !page.isConnected) return;
+    livePolling = true;
+    try {
+      const response = await fetch("/api/recitation-sets/" + remoteId, { cache: "no-store" });
+      if (!response.ok) throw Error("Unable to retrieve organizer's live position");
+      const data = await response.json();
+      const current = validateRecitationSet(data.set).live;
+      if (!following) return;
+      if (!current?.active) {
+        liveStatus.textContent = "Organizer is not broadcasting a position.";
+      } else {
+        const nextIndex = set.items.findIndex((item) => item.uid === current.currentUid);
+        if (nextIndex < 0) {
+          liveStatus.textContent = "Programme changed. Reload this reader to follow it.";
+        } else {
+          liveStatus.textContent = "Following organizer · kalam " + (nextIndex + 1);
+          if (nextIndex !== position) await go(nextIndex);
+        }
+      }
+    } catch (e) { liveStatus.textContent = (e as Error).message; }
+    finally { livePolling = false; }
+  }
+  follow.addEventListener("change", () => {
+    following = follow.checked;
+    liveStatus.textContent = following ? "Checking organizer's position…" : "Live following off.";
+    if (following) void pollLive();
+  });
+  // Only consenting participants poll; hidden pages do not generate traffic.
+  window.setInterval(() => { if (following) void pollLive(); }, 10000);
   function setPosition(index: number) {
     position = Math.min(works.length - 1, Math.max(0, index));
     dom<HTMLElement>("recite-position").textContent = (position + 1) + " / " + works.length;
@@ -353,9 +442,15 @@ export async function initRecitationReader(): Promise<void> {
     if (scroll) works[position].scrollIntoView({ block: "start", behavior: "auto" });
     window.dispatchEvent(new Event("basta:content-loaded"));
   }
-  previous.addEventListener("click", () => { void go(position - 1); });
-  next.addEventListener("click", () => { void go(position + 1); });
-  select.addEventListener("change", () => { void go(Number(select.value)); });
+  const leaveLive = () => {
+    if (following) {
+      following = false; follow.checked = false;
+      liveStatus.textContent = "Manual navigation: live following paused.";
+    }
+  };
+  previous.addEventListener("click", () => { leaveLive(); void go(position - 1); });
+  next.addEventListener("click", () => { leaveLive(); void go(position + 1); });
+  select.addEventListener("change", () => { leaveLive(); void go(Number(select.value)); });
   view.addEventListener("change", () => {
     mode = view.value === "sequential" ? "sequential" : "continuous";
     try { localStorage.setItem(viewKey, mode); } catch {}

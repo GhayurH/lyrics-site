@@ -143,3 +143,15 @@ html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
   font-weight: 650;
 }
 .recite-app .button-danger:hover { text-decoration: underline; }
+
+/* Portable exports and live following remain opt-in. Print uses a self-contained
+   snapshot, independent of lazy-loaded reader pages and network fonts. */
+.recite-reader-tools { display: flex; align-items: center; flex-wrap: wrap; gap: .65rem; margin-bottom: .75rem; }
+.recite-reader-tools button { min-height: 2.65rem; border: 1px solid var(--border-colour); border-radius: .55rem; padding: .45rem .75rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
+.recite-reader-tools button:disabled { opacity: .5; cursor: progress; }
+.recite-reader-tools p { flex-basis: 100%; margin: 0; }
+.recite-reader-live-label { display: inline-flex; align-items: center; gap: .4rem; font-size: .83rem; }
+.recite-reader-live-label[hidden] { display: none !important; }
+.recite-reader-live-label input { width: 1.2rem; height: 1.2rem; }
+#recite-live-status { max-width: 18rem; }
+html[data-reading-focus="true"] .recite-reader-tools { display: none; }
