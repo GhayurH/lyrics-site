@@ -26,6 +26,8 @@
   --ui-panel-radius: .8rem;
   --ui-field-padding: .6rem .75rem;
   --focus-ring: 2px solid currentColor;
+  /* One theme-aware hairline shared by controls, cards, and reader dividers. */
+  --ui-border: 1px solid var(--border-colour);
   /* All theme buttons use the theme's accent, including Custom. */
   --button-background: var(--accent-color);
 
@@ -118,5 +120,6 @@ html[data-theme="custom"] .theme-dialog {
   --primary-text: var(--theme-editor-text, #171719);
   --secondary-text: var(--theme-editor-muted, #555555);
   --border-colour: color-mix(in srgb, var(--primary-text) 26%, var(--surface-background));
+  --ui-border: 1px solid var(--border-colour);
   color-scheme: var(--theme-editor-scheme, light);
 }
