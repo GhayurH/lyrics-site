@@ -254,6 +254,12 @@ test("manual low-contrast text is warned about, and Advanced fits narrow viewpor
     .evaluate((el) => getComputedStyle(el).color)).toBe("rgb(23, 23, 25)");
   await expect.poll(() => page.locator("#theme-contrast-note")
     .evaluate((el) => getComputedStyle(el).color)).toBe("rgb(23, 23, 25)");
+  // Auto muted and borders must remain legible despite manually choosing white
+  // main text on a near-white page.
+  await expect(page.locator("#theme-mutedText-auto")).toBeChecked();
+  await expect(page.locator("#theme-borders-auto")).toBeChecked();
+  await expect(page.locator("#theme-mutedText-value")).not.toHaveText("#FFFFFF");
+  await expect(page.locator("#theme-borders-value")).not.toHaveText("#F9F9FA");
   const dialog = await page.locator("#theme-dialog").boundingBox();
   expect(dialog).toBeTruthy();
   expect(dialog.x).toBeGreaterThanOrEqual(0);
