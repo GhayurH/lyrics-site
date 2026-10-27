@@ -32,6 +32,7 @@ html[data-theme="light"] {
   --secondary-text: #66666b;
   --border-colour: #dddddf;
   --tag-background: #ececef;
+  --accent-color: #1d1d1f;
   --button-background: #1d1d1f;
   --button-text: #ffffff;
 }
@@ -45,6 +46,38 @@ html[data-theme="dark"] {
   --secondary-text: #b5b5ba;
   --border-colour: #3a3a3f;
   --tag-background: #35353a;
+  --accent-color: #ededed;
   --button-background: #ededed;
   --button-text: #171719;
+}
+
+/* Sepia stays warm across the page, cards, controls, and reader surfaces. */
+html[data-theme="sepia"] {
+  color-scheme: light;
+  --site-background: #f4ead6;
+  --surface-background: #fbf4e6;
+  --header-background: rgb(251 244 230 / .94);
+  --primary-text: #352b21;
+  --secondary-text: #6b5947;
+  --border-colour: #d5c4a8;
+  --tag-background: #eadcc5;
+  --accent-color: #755238;
+  --button-background: #755238;
+  --button-text: #ffffff;
+}
+
+/* Custom colours are supplied as validated six-digit hex values before the
+   first paint. The browser controller derives readable foreground colours. */
+html[data-theme="custom"] {
+  color-scheme: var(--theme-color-scheme, light);
+  --site-background: var(--theme-main, #f4ead6);
+  --surface-background: var(--theme-secondary, #fbf4e6);
+  --header-background: var(--theme-secondary, #fbf4e6);
+  --primary-text: var(--theme-foreground, #25201c);
+  --secondary-text: var(--theme-muted, #51443c);
+  --border-colour: color-mix(in srgb, var(--primary-text) 22%, var(--site-background));
+  --tag-background: color-mix(in srgb, var(--site-background) 75%, var(--primary-text));
+  --accent-color: var(--theme-accent, #755238);
+  --button-background: var(--theme-accent, #755238);
+  --button-text: var(--theme-accent-text, #ffffff);
 }
