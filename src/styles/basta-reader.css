@@ -1,6 +1,6 @@
 /* File role: Continuous Basta reader styles: controls the full-book flow, bilingual page/index layouts, reading modes, and reader-specific responsive behavior. */
 .basta-reader {
-  max-width: 84rem;
+  max-width: var(--content-wide);
   margin: 0 auto;
 }
 
@@ -25,12 +25,12 @@
 }
 
 .basta-reader-flow {
-  --basta-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
-  --basta-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
-  --basta-urdu-leading: 2.8;
-  --basta-roman-leading: 2;
+  --basta-urdu-size: var(--reading-urdu-size);
+  --basta-roman-size: var(--reading-roman-size);
+  --basta-urdu-leading: var(--reading-urdu-leading);
+  --basta-roman-leading: var(--reading-roman-leading);
 
-  max-width: 84rem;
+  max-width: var(--content-wide);
   margin: 0 auto;
 }
 
@@ -129,7 +129,7 @@
    ========================================================= */
 
 .basta-index-page.basta-index-page-modes {
-  max-width: 84rem;
+  max-width: var(--content-wide);
 }
 
 .basta-index-reading-controls {
@@ -246,7 +246,7 @@
 .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-page-grid,
 .basta-reader-flow[data-reading-mode="roman"] .basta-reader-page-grid {
   grid-template-areas: "single";
-  grid-template-columns: minmax(0, 48rem);
+  grid-template-columns: minmax(0, var(--reading-single-width));
   justify-content: center;
 }
 
@@ -273,7 +273,7 @@
 .basta-index-mode-shell[data-reading-mode="urdu"] .basta-parallel-index-overall-headings,
 .basta-index-mode-shell[data-reading-mode="roman"] .basta-parallel-index-overall-headings {
   grid-template-areas: "single";
-  grid-template-columns: minmax(0, 48rem);
+  grid-template-columns: minmax(0, var(--reading-single-width));
   justify-content: center;
 }
 
@@ -284,7 +284,7 @@
   grid-template-areas:
     "single-heading"
     "single-table";
-  grid-template-columns: minmax(0, 48rem);
+  grid-template-columns: minmax(0, var(--reading-single-width));
   justify-content: center;
 }
 
@@ -310,13 +310,13 @@
    ========================================================= */
 
 .basta-reader-flow[data-line-spacing="compact"] {
-  --basta-urdu-leading: 2.2;
-  --basta-roman-leading: 1.65;
+  --basta-urdu-leading: var(--reading-undefined);
+  --basta-roman-leading: var(--reading-undefined);
 }
 
 .basta-reader-flow[data-line-spacing="relaxed"] {
-  --basta-urdu-leading: 3.2;
-  --basta-roman-leading: 2.35;
+  --basta-urdu-leading: var(--reading-undefined);
+  --basta-roman-leading: var(--reading-undefined);
 }
 
 /* Index line spacing follows the same control on both pages. */
@@ -414,7 +414,7 @@
 .basta-reader-flow:is([data-reading-mode="urdu"],[data-reading-mode="roman"])
   .basta-reader-page-grid-with-roman {
   grid-template-areas: "text";
-  grid-template-columns: minmax(0, 48rem);
+  grid-template-columns: minmax(0, var(--reading-single-width));
   justify-content: center;
 }
 
