@@ -6,16 +6,22 @@ export async function cleanRecitationDatabase(db, name, now = new Date().toISOSt
   if (!db) throw new Error("Missing cleanup D1 binding: " + name);
   let deletedSets = 0;
   let deletedBuckets = 0;
+  const isPreview = name === "preview";
+  const previewCutoff = new Date(Date.parse(now) - 30 * 86400000).toISOString();
   // Bounded work: at most 2,000 expired sets and 5,000 rate buckets each day.
-  // Any overflow remains visible in the monitoring table for the next run.
+  // Preview always uses last edit + 30 days, even for incorrectly migrated rows.
   for (let batch = 0; batch < 10; batch++) {
-    const removed = await db.prepare(
-      `DELETE FROM recitation_sets WHERE id IN (
-        SELECT id FROM recitation_sets
-        WHERE permanent = 0 AND expires_at <= ?
-        ORDER BY expires_at ASC LIMIT 200
-      )`,
-    ).bind(now).run();
+    const removed = await db.prepare(isPreview
+      ? `DELETE FROM recitation_sets WHERE id IN (
+          SELECT id FROM recitation_sets WHERE updated_at <= ?
+          ORDER BY updated_at ASC LIMIT 200
+        )`
+      : `DELETE FROM recitation_sets WHERE id IN (
+          SELECT id FROM recitation_sets
+          WHERE permanent = 0 AND expires_at <= ?
+          ORDER BY expires_at ASC LIMIT 200
+        )`
+    ).bind(isPreview ? previewCutoff : now).run();
     const count = removed.meta?.changes || 0;
     deletedSets += count;
     if (count < 200) break;
@@ -31,13 +37,18 @@ export async function cleanRecitationDatabase(db, name, now = new Date().toISOSt
     deletedBuckets += count;
     if (count < 500) break;
   }
-  const stats = await db.prepare(
-    `SELECT count(*) AS sets_total,
+  const stats = await db.prepare(isPreview
+    ? `SELECT count(*) AS sets_total,
+       sum(CASE WHEN permanent=1 THEN 1 ELSE 0 END) AS sets_permanent,
+       sum(CASE WHEN updated_at <= ? THEN 1 ELSE 0 END) AS sets_expired_pending,
+       coalesce(sum(length(document)),0) AS document_bytes_estimate
+     FROM recitation_sets`
+    : `SELECT count(*) AS sets_total,
        sum(CASE WHEN permanent=1 THEN 1 ELSE 0 END) AS sets_permanent,
        sum(CASE WHEN permanent=0 AND expires_at <= ? THEN 1 ELSE 0 END) AS sets_expired_pending,
        coalesce(sum(length(document)),0) AS document_bytes_estimate
-     FROM recitation_sets`,
-  ).bind(now).first();
+     FROM recitation_sets`
+  ).bind(isPreview ? previewCutoff : now).first();
   const day = now.slice(0, 10);
   await db.prepare(
     `INSERT INTO recitation_maintenance_metrics
