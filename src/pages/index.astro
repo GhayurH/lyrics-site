@@ -1,126 +1,116 @@
 ---
-// File role: Browse landing route: groups published lyrics by Kalam Type and surfaces compact category previews plus the Basta entry point.
+// File role: Archive landing page: direct search, the two collections, and compact browsing by Kalam Type.
 import BaseLayout from "../layouts/BaseLayout.astro";
-import LyricList from "../components/LyricList.astro";
 import { groupBastaIndexByKalamType } from "../lib/basta-categories";
 import { loadBastaNavigationData } from "../lib/basta-pages";
-import {
-  compareKalamTypes,
-  slugifyKalamType,
-} from "../lib/lyrics";
+import { compareKalamTypes, slugifyKalamType } from "../lib/lyrics";
 import { loadPublishedLyrics, groupLyricsByKalamType } from "../lib/lyrics-data";
 import "../styles/home.css";
 
-const HOME_PREVIEW_COUNT = 5;
 const lyrics = await loadPublishedLyrics();
 const grouped = groupLyricsByKalamType(lyrics);
 const { availablePages } = await loadBastaNavigationData();
 const bastaByType = groupBastaIndexByKalamType(new Set(availablePages));
-const kalamTypes = [...new Set([...grouped.keys(), ...bastaByType.keys()])].sort(
-  compareKalamTypes,
-);
+const kalamTypes = [...new Set([...grouped.keys(), ...bastaByType.keys()])].sort(compareKalamTypes);
 const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => total + entries.length, 0);
 ---
 
 <BaseLayout
   title="Kalam Archive"
-  description="Browse Urdu nohas, salams, manqabats and other kalam by type, alongside the Basta archive."
+  description="Search Urdu and Roman Urdu kalam, browse by Kalam Type, or explore the complete Basta book archive."
 >
-  <section class="hero hero-compact home-hero">
-    <h1>Kalam Archive</h1>
-    <p>
-      Browse Urdu nohas, salams, manqabats and other kalam by type, search the archive, or read the complete Basta.
+  <section class="home-intro" aria-labelledby="home-title">
+    <p class="eyebrow">A searchable collection of Urdu kalam</p>
+    <h1 id="home-title">Kalam Archive</h1>
+    <p class="home-lead">
+      Find nohas, salams, manqabats and other kalam, or explore the complete Basta book.
     </p>
-    <div class="hero-actions">
-      <a class="button" href="/search/">Search the archive</a>
-      <a class="button button-secondary" href="/about/">About / Contact</a>
-      <a class="button button-secondary" data-resume-basta href="/basta/" hidden>Continue Basta</a>
-    </div>
+
+    <form class="home-search" action="/search/" method="get" role="search">
+      <label class="visually-hidden" for="home-search-query">Search Kalam Archive</label>
+      <input
+        id="home-search-query"
+        type="search"
+        name="q"
+        placeholder="Search titles, Urdu or Roman Urdu…"
+        enterkeyhint="search"
+      />
+      <button class="button" type="submit">Search</button>
+    </form>
+    <p class="home-intro-help">Search in Urdu or Roman Urdu, or browse the collections below.</p>
+    <a class="home-skip-browse" href="#kalam-types-heading">Browse by Kalam Type <span aria-hidden="true">↓</span></a>
   </section>
 
-  <section class="home-categories" aria-labelledby="kalam-types-heading">
-    <div class="section-heading home-section-heading">
-      <div>
-        <p class="eyebrow">Browse</p>
-        <h2 id="kalam-types-heading">Kalam Types</h2>
+  <section class="home-collections" aria-label="Explore the collections">
+    <a class="home-collection-card" href="#kalam-types-heading">
+      <span class="eyebrow">Individual kalam</span>
+      <h2>Browse by Kalam Type</h2>
+      <p>Explore the standalone collection and selections from Basta, organized by type.</p>
+      <span class="home-collection-bottom">
+        <span class="home-collection-count">{kalamTypes.length} categories</span>
+        <span class="home-collection-action">Explore kalam <span aria-hidden="true">→</span></span>
+      </span>
+    </a>
+    <a class="home-collection-card home-collection-basta" href="/basta/">
+      <div class="home-collection-copy">
+        <span class="eyebrow">Complete book archive</span>
+        <h2>Basta</h2>
+        <p>Read original page scans alongside cleaned Urdu and available Roman Urdu text.</p>
+        <span class="home-collection-bottom">
+          <span class="home-collection-count">{bastaEntryCount} indexed selections</span>
+          <span class="home-collection-action">Explore Basta <span aria-hidden="true">→</span></span>
+        </span>
       </div>
-      <p>{lyrics.length + bastaEntryCount} entries</p>
-    </div>
+      <div class="home-basta-emblem" aria-hidden="true"><span lang="ur" dir="rtl">بستہ</span></div>
+    </a>
+  </section>
 
-    <div class="category-preview-stack">
+  <section class="home-types" aria-labelledby="kalam-types-heading">
+    <div class="home-types-heading">
+      <div>
+        <p class="eyebrow">Browse the archive</p>
+        <h2 id="kalam-types-heading">Kalam Types</h2>
+        <p>Choose a category to see all its kalam and Basta selections.</p>
+      </div>
+      <a class="home-types-search-link" href="/search/">Advanced search <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="home-type-grid">
       {
         kalamTypes.map((kalamType) => {
           const entries = grouped.get(kalamType) ?? [];
           const bastaEntries = bastaByType.get(kalamType) ?? [];
           const entryCount = entries.length + bastaEntries.length;
-          const previewLyricCount = Math.min(entries.length, HOME_PREVIEW_COUNT - (bastaEntries.length ? 1 : 0));
-          const previewEntries = entries.slice(0, previewLyricCount);
-          const previewBasta = bastaEntries.slice(0, HOME_PREVIEW_COUNT - previewEntries.length);
-          const typeSlug = slugifyKalamType(kalamType);
           return (
-            <section class="category-preview-section" id={typeSlug} aria-labelledby={`${typeSlug}-heading`}>
-              <div class="category-preview-heading">
-                <div>
-                  <h3 id={`${typeSlug}-heading`}>{kalamType}</h3>
-                  <p>{entryCount} {entryCount === 1 ? "entry" : "entries"}</p>
-                </div>
-                <a class="button button-secondary category-see-all" href={`/categories/${typeSlug}/`}>
-                  See all {kalamType}
-                </a>
-              </div>
-              <LyricList lyrics={previewEntries} bastaEntries={previewBasta} />
-              {entryCount > HOME_PREVIEW_COUNT && (
-                <div class="category-preview-footer">
-                  <a href={`/categories/${typeSlug}/`}>See all {entryCount} {kalamType} →</a>
-                </div>
-              )}
-            </section>
+            <a class="home-type-card" href={`/categories/${slugifyKalamType(kalamType)}/`}>
+              <span class="home-type-name">{kalamType}</span>
+              <span class="home-type-trailing">
+                <span class="home-type-count">{entryCount} {entryCount === 1 ? "entry" : "entries"}</span>
+                <span class="home-type-arrow" aria-hidden="true">→</span>
+              </span>
+            </a>
           );
         })
       }
     </div>
   </section>
 
-  <section class="home-basta" aria-labelledby="basta-heading">
-    <div class="section-heading home-section-heading">
-      <div>
-        <p class="eyebrow">Book archive</p>
-        <h2 id="basta-heading">Basta</h2>
-      </div>
-      <a href="/basta/">Open Basta →</a>
-    </div>
-
-    <div class="basta-home-card">
-      <a class="basta-home-cover-link" href="/basta/" aria-label="Open Basta">
-        <img
-          src="/images/basta/original/001.png"
-          alt="Original first page of Basta"
-          loading="lazy"
-          decoding="async"
-        />
-      </a>
-      <div class="basta-home-copy">
-        <h3>Basta</h3>
-        <p>
-          Browse the original page scans alongside cleaned Urdu text and Roman
-          Urdu where available.
-        </p>
-        <a class="button" href="/basta/">Open Basta</a>
-      </div>
-    </div>
-  </section>
-
-  <section class="home-about-cta" aria-labelledby="home-about-heading">
+  <section class="home-closing" aria-labelledby="home-closing-heading">
     <div>
-      <p class="eyebrow">About this archive</p>
-      <h2 id="home-about-heading">Corrections, additions or questions?</h2>
-      <p>
-        Read about the project or contact the site owner from the dedicated
-        About / Contact page.
-      </p>
+      <p class="eyebrow">Your reading</p>
+      <h2 id="home-closing-heading">Pick up where you left off</h2>
+      <p>Return to saved kalam and recently viewed pages, or continue reading Basta.</p>
+      <div class="home-closing-links">
+        <a href="/saved/">Saved &amp; recent <span aria-hidden="true">→</span></a>
+        <a href="/basta/" data-resume-basta hidden>Continue Basta</a>
+      </div>
     </div>
-    <a class="button button-secondary" href="/about/#contact">About / Contact</a>
+    <div class="home-closing-contact">
+      <p class="eyebrow">About the project</p>
+      <p>Have a correction or a kalam to contribute?</p>
+      <a href="/about/#contact">About / Contact <span aria-hidden="true">→</span></a>
+    </div>
   </section>
+
   <script>
     import { initResumeBasta } from "../client/reading-progress";
     initResumeBasta();

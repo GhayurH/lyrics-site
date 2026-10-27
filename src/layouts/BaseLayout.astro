@@ -113,9 +113,19 @@ const aboutActive = path.startsWith("/about/");
     </main>
 
     <footer class="site-footer" data-pagefind-ignore>
-      <p>
-        Kalam Archive · <a href="/saved/">Saved &amp; recent</a> · <a href="/about/">About / Contact</a>
-      </p>
+      <div class="site-footer-inner">
+        <div class="site-footer-about">
+          <a class="site-footer-title" href="/">Kalam Archive</a>
+          <p>Urdu kalam, Roman Urdu transcriptions and the Basta book archive.</p>
+        </div>
+        <nav class="site-footer-nav" aria-label="Footer navigation">
+          <a href="/">Browse</a>
+          <a href="/basta/">Basta</a>
+          <a href="/search/">Search</a>
+          <a href="/saved/">Saved &amp; recent</a>
+          <a href="/about/">About / Contact</a>
+        </nav>
+      </div>
     </footer>
 
     <script>
