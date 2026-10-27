@@ -39,7 +39,7 @@
 .basta-reader-flow[data-reading-columns~="urdu"] .basta-reader-page-no-roman .basta-reader-urdu { grid-area: urdu; }
 .basta-reader-flow[data-reading-columns~="urdu"] .basta-reader-page-no-roman .basta-edition-unavailable { display: none !important; }
 /* A page without Roman text must never appear blank when Roman is selected alone. */
-.basta-edition-unavailable { display: none; max-width: 48rem; margin: .75rem auto 1.5rem; padding: .6rem .9rem; color: var(--secondary-text); font-size: .83rem; text-align: center; }
+.basta-edition-unavailable { display: none; max-width: var(--reading-single-width); margin: .75rem auto 1.5rem; padding: .6rem .9rem; color: var(--secondary-text); font-size: .83rem; text-align: center; }
 .basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"])
   .basta-reader-page-no-roman .basta-edition-unavailable { display: block; }
 .basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]):not([data-reading-columns~="image"])
@@ -80,8 +80,8 @@
   max-height: min(80dvh,64rem);
   margin-inline: auto;
 }
-.lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0,48rem); justify-content: center; }
-.lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0,48rem); justify-content: center; }
+.lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0,var(--reading-single-width)); justify-content: center; }
+.lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0,var(--reading-single-width)); justify-content: center; }
 
 /* Basta page-by-page: scan + text region, with matching nested language geometry. */
 .basta-page-grid[data-reading-root] { grid-template-areas: "scan text"; grid-template-columns: minmax(0,.8fr) minmax(0,1.7fr); }
@@ -93,7 +93,7 @@
 .basta-page-grid[data-reading-mode="image"][data-reading-root],
 .basta-page-grid-image-only[data-reading-root] { grid-template-areas: "scan"; grid-template-columns: minmax(0,min(100%,54rem)); justify-content: center; }
 .basta-page-grid[data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .basta-parallel-kalams-page,
-.basta-page-grid[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams-page { grid-template-columns: minmax(0,48rem); justify-content: center; }
+.basta-page-grid[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams-page { grid-template-columns: minmax(0,var(--reading-single-width)); justify-content: center; }
 .basta-page-grid[data-reading-mode="urdu"] .basta-page-urdu,
 .basta-page-grid[data-reading-mode="roman"] .basta-page-roman { grid-row: 1; border: 0; padding-inline: 0; }
 
@@ -108,7 +108,7 @@
 .basta-reader-flow:not([data-reading-columns~="image"]) .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
 .basta-reader-flow[data-reading-columns~="image"] [data-reading-image-extra] { display: block !important; }
 .basta-reader-flow[data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .basta-parallel-kalams-reader,
-.basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams-reader { grid-template-columns: minmax(0,48rem); justify-content: center; }
+.basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams-reader { grid-template-columns: minmax(0,var(--reading-single-width)); justify-content: center; }
 .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
 .basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman { grid-row: 1; border: 0; padding-inline: 0; }
 
@@ -126,7 +126,7 @@
   .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
     > .lyric-reading-image:not([data-floating-scan="true"]) {
     justify-self: center;
-    width: min(100%,42rem);
+    width: min(100%,var(--reading-scan-width));
     padding: clamp(.5rem,1.5vw,1rem);
   }
   .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
@@ -149,10 +149,25 @@
     grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important;
   }
   .basta-page-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .basta-original-page,
-  .basta-reader-flow[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-reader-page-grid-with-roman > .basta-reader-original-image { justify-self: center; width: min(100%,42rem); }
+  .basta-reader-flow[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-reader-page-grid-with-roman > .basta-reader-original-image { justify-self: center; width: min(100%,var(--reading-scan-width)); }
 }
 /* At 46rem of usable reading width, stack editions before shrinking verses excessively. */
 @container reader-shell (max-width: 46rem) {
+  /* Every reader, including Recitation Sets, stacks editions and removes
+     the inter-column rule at this same container width. */
+  .recite-editions .lyric-reading-roman {
+    border-inline-end: 0;
+    border-right: 0;
+    border-top: 1px solid var(--border-colour);
+  }
+  .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="image"] .recite-work-no-roman .recite-editions {
+    grid-template-areas: "image" "urdu";
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="roman"] .recite-work-no-image .recite-editions {
+    grid-template-areas: "urdu" "roman";
+    grid-template-columns: minmax(0, 1fr);
+  }
   .lyric-reading-grid[data-reading-columns] { display: flex; flex-direction: column; }
   .lyric-reading-grid[data-reading-columns] > :is(.lyric-reading-image,.lyric-reading-panel) { width: 100%; }
   .lyric-reading-grid[data-reading-columns] .lyric-reading-roman { border-right: 0; border-top: 1px solid var(--border-colour); }
@@ -198,6 +213,10 @@
 }
 /* Parallel text needs the same geometry on desktop and sufficiently wide landscape devices. */
 @container reader-shell (min-width: 46.01rem) {
+  .recite-editions .lyric-reading-roman {
+    border-top: 0;
+    border-inline-end: 1px solid var(--border-colour);
+  }
   .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] { display: grid; }
   .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] .lyric-reading-roman { border-top: 0; border-right: 1px solid var(--border-colour); }
   .basta-parallel-kalams-page:has(> .basta-page-urdu:not([hidden])) ,
@@ -210,7 +229,7 @@
     grid-area: auto; grid-column: 2; grid-row: 1; border: 0; padding: 0 0 0 clamp(.4rem,1.3vw,1rem);
   }
   [data-reading-root][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .basta-parallel-kalams,
-  [data-reading-root][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams { grid-template-columns: minmax(0,48rem); }
+  [data-reading-root][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams { grid-template-columns: minmax(0,var(--reading-single-width)); }
   .basta-parallel-index-section { grid-template-areas: "roman-heading urdu-heading" "roman-table urdu-table"; grid-template-columns: repeat(2,minmax(0,1fr)); }
   .basta-parallel-index-overall-headings { grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
   .basta-parallel-index-section-heading.basta-parallel-index-urdu { grid-area: urdu-heading; }
