@@ -127,3 +127,11 @@
   .home-search button { width: 100%; }
   .home-basta-preview { width: 4.25rem; flex-basis: 4.25rem; }
 }
+
+/* Keep reading/discovery actions compact on small screens without shrinking tap targets. */
+@media (max-width: 700px) {
+  .home-intro { padding-top: .75rem; }
+  .home-type-card { min-height: 4.5rem; }
+  .home-collection-card { padding: 1.1rem; }
+  .home-types-heading { align-items: start; }
+}

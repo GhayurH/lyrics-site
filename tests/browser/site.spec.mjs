@@ -157,3 +157,14 @@ test("Basta bookmarks can be saved, revisited and removed from the Saved page @s
   await page.locator("#basta-bookmarks-list button").click();
   await expect(page.locator("#basta-bookmarks-empty")).toBeVisible();
 });
+
+test("mobile search keeps filters accessible without occupying the full page @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/search/");
+  const filters = page.locator("#search-filter-disclosure");
+  await expect(filters).not.toHaveAttribute("open", "");
+  await filters.locator("summary").click();
+  await expect(filters).toHaveAttribute("open", "");
+  await page.setViewportSize({ width: 1280, height: 820 });
+  await expect(filters).toHaveAttribute("open", "");
+});

@@ -125,7 +125,7 @@ Detailed content and transliteration conventions are documented in [Content cont
 
 ## Discovery and navigation
 
-The homepage leads with a regular HTML search form targeting `/search/?q=...`, then provides direct entry points for the standalone kalam collection and Basta. Kalam Type links show all published standalone and indexed Basta entries for that type; the homepage does not duplicate lists of lyric cards. The detailed search filters remain on `/search/`, so Pagefind is not loaded on the homepage.
+The homepage leads with a regular HTML search form targeting `/search/?q=...`, then provides direct entry points for the standalone kalam collection and Basta. Kalam Type links show all published standalone and indexed Basta entries for that type; the homepage does not duplicate lists of lyric cards. The detailed search filters remain on `/search/`, so Pagefind is not loaded on the homepage. On phones, filter controls start collapsed above the results and can be expanded; applied filters remain visible as removable chips.
 
 The Basta landing route `/basta/` offers page-by-page and continuous reading, an independent link to the book index, validated page-number navigation, and an original PDF download. Return readers see a prominent browser-local resume panel before the reader choices when reading history exists. Both landing pages use the book cover at `/images/basta/original/000.jpg`, served through the shared R2 asset routing on preview deployments. Navigation and reading entry points remain usable if the image cannot load. Without JavaScript, the Basta landing page hides its page-number form and keeps the linked book index available.
 
