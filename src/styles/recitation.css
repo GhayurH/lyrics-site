@@ -34,7 +34,7 @@
 .recite-search-row label:first-child { flex: 1 1 18rem; }
 .recite-search-row label:last-child { flex: 0 1 13rem; }
 .recite-results { padding: 0; margin: 1rem 0; list-style: none; display: grid; gap: .45rem; grid-template-columns: repeat(auto-fit,minmax(min(100%,23rem),1fr)); }
-.recite-results li { min-width: 0; border: 1px solid var(--border-colour); border-radius: .55rem; padding: .65rem .75rem; display: flex; gap: .7rem; justify-content: space-between; align-items: center; }
+.recite-results li { min-width: 0; border: 1px solid var(--border-colour); border-radius: var(--ui-radius-tight); padding: .65rem .75rem; display: flex; gap: .7rem; justify-content: space-between; align-items: center; }
 .recite-results li strong { display: block; font-weight: 650; line-height: 1.8; }
 .recite-results li small { display: block; color: var(--secondary-text); }
 .recite-results li button { white-space: nowrap; min-height: 2.5rem; padding: .35rem .7rem; border: 1px solid var(--border-colour); background: var(--site-background); color: var(--primary-text); border-radius: .5rem; cursor: pointer; }
@@ -134,7 +134,7 @@ html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
 /* Portable exports and live following remain opt-in. Print uses a self-contained
    snapshot, independent of lazy-loaded reader pages and network fonts. */
 .recite-reader-tools { display: flex; align-items: center; flex-wrap: wrap; gap: .65rem; margin-bottom: .75rem; }
-.recite-reader-tools button { min-height: 2.65rem; border: 1px solid var(--border-colour); border-radius: .55rem; padding: .45rem .75rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
+.recite-reader-tools button { min-height: 2.65rem; border: 1px solid var(--border-colour); border-radius: var(--ui-radius-tight); padding: .45rem .75rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
 .recite-reader-tools button:disabled { opacity: .5; cursor: progress; }
 .recite-reader-tools p { flex-basis: 100%; margin: 0; }
 .recite-reader-live-label { display: inline-flex; align-items: center; gap: .4rem; font-size: .83rem; }
@@ -197,7 +197,7 @@ html[data-reading-focus="true"] .reading-controls-recitation { width: min(58rem,
 html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-toolbar {
   display: flex; order: 2; pointer-events: auto;
   flex: 1 1 100%; margin: 0; padding: .35rem;
-  border: 0; border-radius: .55rem; background: var(--surface-background);
+  border: 0; border-radius: var(--ui-radius-tight); background: var(--surface-background);
 }
 @media (max-width: 700px) {
   .reading-controls-recitation .recite-reader-toolbar {
@@ -220,7 +220,7 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 
 /* A compact progression through the builder without hiding necessary functions. */
 .recite-steps { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1.25rem; }
-.recite-steps a { display: inline-flex; align-items: center; gap: .45rem; min-height: var(--ui-target); padding: .35rem .75rem; border: 1px solid var(--border-colour); border-radius: .55rem; background: var(--surface-background); text-decoration: none; font-size: .88rem; font-weight: 650; }
+.recite-steps a { display: inline-flex; align-items: center; gap: .45rem; min-height: var(--ui-target); padding: .35rem .75rem; border: 1px solid var(--border-colour); border-radius: var(--ui-radius-tight); background: var(--surface-background); text-decoration: none; font-size: .88rem; font-weight: 650; }
 .recite-steps a:hover { background: var(--tag-background); }
 .recite-steps a span { display: inline-grid; place-items: center; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--tag-background); font-size: .75rem; }
 .recite-sharing-policy { margin: .45rem 0 1rem; color: var(--secondary-text); }
