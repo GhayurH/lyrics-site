@@ -248,7 +248,9 @@ async function readSet(): Promise<{ set: RecitationSet; local: boolean; draftId?
     if (!/^[a-f0-9]{24}$/.test(remote)) throw Error("Invalid shared link");
     const response = await fetch("/api/recitation-sets/" + remote);
     if (!response.ok) throw Error(response.status === 503
-      ? "This deployment has no D1 binding configured" : "Shared programme unavailable");
+      ? "This deployment has no D1 binding configured"
+      : response.status === 410 ? "This published programme has expired."
+      : "Shared programme unavailable");
     const data = await response.json();
     return { set: validateRecitationSet(data.set), local: false };
   }
