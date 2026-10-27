@@ -9,6 +9,7 @@ import { initReadingFocus } from "./reading-focus";
 import { initFloatingScans } from "./floating-scans";
 import { initBastaBookmarks } from "./basta-bookmarks";
 import { initBastaSelections } from "./basta-selections";
+import { isMobileViewport } from "./viewport";
 
 import { defaultEditionsForReader, isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
 const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
@@ -45,7 +46,7 @@ export function initReadingControls(): void {
         ? saved.spacing : "default",
   };
 
-  const defaultEditions = defaultEditionsForReader(kind, window.matchMedia("(max-width: 700px)").matches);
+  const defaultEditions = defaultEditionsForReader(kind, isMobileViewport());
   let selected = selectedEditions(prefs.columnsByReader[kind] ?? defaultEditions, available, imageOnly);
   const summary = controls.querySelector<HTMLElement>("[data-reading-regular-label]");
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");

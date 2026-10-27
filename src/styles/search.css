@@ -1,6 +1,6 @@
 /* File role: Search-only Pagefind layout, filter controls, active-filter chips, and responsive behavior. */
-.search-page { max-width: 72rem; margin: auto; }
-.search-header { max-width: 52rem; margin-bottom: 2rem; }
+.search-page { max-width: var(--content-feature); margin: auto; }
+.search-header { max-width: var(--content-intro); margin-bottom: 2rem; }
 .search-header h1 { margin: 0 0 0.75rem; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; }
 .search-share-note { color: var(--secondary-text); font-size: 0.9rem; }
 .search-input-row { display: flex; align-items: center; gap: 0.7rem; max-width: 58rem; }
@@ -12,16 +12,16 @@
 .search-filter-control { min-width: 0; }
 .search-filter-label { display: block; margin-bottom: 0.35rem; color: var(--secondary-text); font-size: 0.75rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; }
 pagefind-filter-dropdown { display: block; min-width: 0; }
-.search-more-filters { margin-top: 1rem; border: 1px solid var(--border-colour); padding: 0.75rem 1rem; background: var(--surface-background); }
+.search-more-filters { margin-top: 1rem; border: var(--ui-border); padding: 0.75rem 1rem; background: var(--surface-background); }
 .search-more-filters > summary { cursor: pointer; font-weight: 700; }
 .active-search-filters { margin-top: 1rem; }
 .active-search-filters[hidden] { display: none; }
 .active-search-filter-list { display: flex; flex-wrap: wrap; gap: 0.45rem; }
-.search-filter-chip { border: 1px solid var(--border-colour); border-radius: var(--ui-radius); padding: 0.35rem 0.65rem; background: var(--tag-background); color: var(--primary-text); font: inherit; font-size: 0.78rem; cursor: pointer; }
+.search-filter-chip { border: var(--ui-border); border-radius: var(--ui-radius); padding: 0.35rem 0.65rem; background: var(--tag-background); color: var(--primary-text); font: inherit; font-size: 0.78rem; cursor: pointer; }
 .search-filter-chip:hover { background: var(--surface-background); }
 .search-filter-chip:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
 .search-filter-chip span { margin-left: 0.25rem; font-weight: 800; }
-.search-results-shell { margin-top: 2rem; border-top: 1px solid var(--border-colour); padding-top: 1.5rem; }
+.search-results-shell { margin-top: 2rem; border-top: var(--ui-border); padding-top: 1.5rem; }
 @media (max-width: 920px) {
   .search-primary-filters, .search-secondary-filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
@@ -32,14 +32,14 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 }
 
 /* Filter chips and clear actions must remain easy to tap on small screens. */
-.search-filter-chip, .search-clear-button { min-height: 2.75rem; }
+.search-filter-chip, .search-clear-button { min-height: var(--ui-target); }
 
 /* Filters are always available on desktop, but collapse above results on phones. */
 .search-filter-disclosure { margin-top: .65rem; }
 .search-filter-disclosure > summary { display: none; }
 @media (max-width: 700px) {
-  .search-filter-disclosure { border: 1px solid var(--border-colour); background: var(--surface-background); }
-  .search-filter-disclosure > summary { display: list-item; min-height: 2.75rem; padding: .7rem 1rem; cursor: pointer; font-weight: 700; }
+  .search-filter-disclosure { border: var(--ui-border); background: var(--surface-background); }
+  .search-filter-disclosure > summary { display: list-item; min-height: var(--ui-target); padding: .7rem 1rem; cursor: pointer; font-weight: 700; }
   .search-filter-disclosure .search-primary-filters { margin-top: 0; padding: 0 .75rem .75rem; }
   .search-filter-disclosure .search-more-filters { margin: .2rem .75rem .75rem; background: var(--site-background); }
 }
@@ -51,3 +51,19 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 .search-header { margin-bottom: 1.2rem; }
 .search-results-shell { margin-top: 1.5rem; }
 @media (max-width: 700px) { .search-header { margin-bottom: .8rem; } }
+
+/* Pagefind's component UI inherits the same palettes, including AMOLED,
+   rather than introducing contrasting default search fields. */
+html:is([data-theme="sepia"], [data-theme="custom"], [data-theme="amoled"]) .search-page {
+  --pf-text: var(--primary-text);
+  --pf-text-secondary: var(--secondary-text);
+  --pf-text-muted: var(--secondary-text);
+  --pf-background: var(--surface-background);
+  --pf-border: var(--border-colour);
+  --pf-border-focus: var(--accent-color);
+  --pf-skeleton: var(--tag-background);
+  --pf-skeleton-shine: var(--surface-background);
+  --pf-hover: var(--tag-background);
+  --pf-mark: var(--accent-color);
+  --pf-outline-focus: var(--accent-color);
+}

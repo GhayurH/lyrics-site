@@ -38,20 +38,15 @@ test("saving, revisiting, and clearing a lyric remains functional @smoke", async
   await expect(page.locator("#favorites-heading")).toBeHidden();
 });
 
-test("appearance persists across pages and search filters are accessible @smoke", async ({ page }) => {
-  await page.emulateMedia({ colorScheme: "dark" });
-  await page.goto("/");
-  await page.locator("#theme-toggle").click();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
-  await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#f7f7f8");
+test("Search exposes primary and secondary filters accessibly @smoke", async ({ page }) => {
   await page.goto("/search/");
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await expect(page.locator("pagefind-input")).toBeAttached();
   await expect(page.locator(".search-primary-filters pagefind-filter-dropdown")).toHaveCount(4);
-  await page.locator(".search-more-filters > summary").click();
+  const advanced = page.locator(".search-more-filters");
+  await expect(advanced).not.toHaveAttribute("open", "");
+  await advanced.locator("summary").click();
   await expect(page.locator(".search-secondary-filters")).toBeVisible();
 });
-
 test("core pages never create a viewport-wide horizontal scrollbar on phones @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   for (const route of ["/", "/search/", "/saved/", "/about/", "/basta/", "/basta/index/", "/basta/138/"]) {
@@ -142,7 +137,7 @@ test("both landing pages display the book cover", async ({ page }) => {
   await expect(page.locator(".basta-home-scan-caption")).toHaveText("Original book cover");
 });
 
-test("Saved page contains browser-local Basta and programme libraries @smoke", async ({ page }) => {
+test("Saved page contains browser-local Basta and programme libraries", async ({ page }) => {
   await page.goto("/saved/");
   await expect(page.locator("#basta-bookmarks-heading")).toBeAttached();
   await expect(page.locator("#recitation-drafts-heading")).toBeAttached();
@@ -150,7 +145,7 @@ test("Saved page contains browser-local Basta and programme libraries @smoke", a
   await expect(page.locator("#recitation-drafts-heading")).toBeHidden();
 });
 
-test("Basta bookmarks can be saved, revisited and removed from the Saved page @smoke", async ({ page }) => {
+test("Basta bookmarks can be saved, revisited and removed from the Saved page", async ({ page }) => {
   await page.goto("/basta/145/");
   const button = page.locator("[data-basta-bookmark]");
   await button.click();
@@ -173,7 +168,7 @@ test("mobile search keeps filters accessible without occupying the full page @sm
   await expect(filters).toHaveAttribute("open", "");
 });
 
-test("homepage continues local reading without showing an empty placeholder @smoke", async ({ page }) => {
+test("homepage continues local reading without showing an empty placeholder", async ({ page }) => {
   await page.goto("/");
   await expect(page.locator("#home-continue")).toBeHidden();
   await page.goto("/basta/138/");
@@ -197,7 +192,7 @@ test("category pages distinguish standalone poems and Basta selections @smoke", 
   if (await basta.count()) await expect(basta).toContainText("Basta");
 });
 
-test("responsive browse and builder panels keep accessible controls in either theme @smoke", async ({ page }) => {
+test("responsive browse and builder panels keep accessible controls in either theme", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "dark" });
   for (const viewport of [{width:320,height:700},{width:844,height:390},{width:768,height:1024}]) {
     await page.setViewportSize(viewport);
@@ -211,6 +206,8 @@ test("responsive browse and builder panels keep accessible controls in either th
   }
   await page.goto("/");
   await page.locator("#theme-toggle").click();
+  await page.locator('input[name="theme-mode"][value="light"]').check();
+  await page.locator("#theme-dialog-done").click();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   // Focus-visible is a keyboard modality, not a programmatic pointer focus.
   await page.keyboard.press("Tab");
@@ -218,7 +215,7 @@ test("responsive browse and builder panels keep accessible controls in either th
   await expect(page.locator(".home-collection-card").first()).toHaveCSS("outline-style", "solid");
 });
 
-test("saved library has a separate kalam/stanza bookmark section @smoke", async ({ page }) => {
+test("saved library has a separate kalam/stanza bookmark section", async ({ page }) => {
   await page.goto("/saved/");
   await expect(page.locator("#basta-selections-heading")).toBeAttached();
   await expect(page.locator("#basta-selections-heading")).toBeHidden();

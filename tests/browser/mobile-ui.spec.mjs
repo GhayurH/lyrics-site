@@ -31,25 +31,6 @@ test("mobile header occupies one line with accessible menu and icon theme toggle
   }
 });
 
-test("theme icon switches accessibly without placing text in the header", async ({ page }) => {
-  await page.emulateMedia({ colorScheme: "dark" });
-  await page.setViewportSize({ width: 342, height: 844 });
-  await page.goto("/");
-  const toggle = page.locator("#theme-toggle");
-  await expect(toggle).toHaveAttribute("aria-label", "Switch to light mode");
-  await expect(toggle.locator(".theme-icon-sun")).toBeVisible();
-  await expect(toggle.locator(".theme-icon-moon")).toBeHidden();
-  await toggle.click();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
-  await expect(toggle).toHaveAttribute("aria-label", "Switch to dark mode");
-  await expect(toggle.locator(".theme-icon-moon")).toBeVisible();
-  await expect(toggle.locator(".theme-icon-sun")).toBeHidden();
-  await page.locator("#mobile-nav-toggle").click();
-  await page.locator("#site-navigation").getByRole("link", { name: "Basta" }).click();
-  await expect(page).toHaveURL(/\/basta\/$/);
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
-});
-
 test("selected Image Urdu Roman cells are entirely filled in every applicable reader @smoke", async ({ page }) => {
   for (const route of [
     "/lyrics/aa-asghar-bin-tere/",
@@ -154,11 +135,13 @@ test("mobile readers start with an uncluttered Urdu view while desktop Basta sta
   await expect(page.locator(".basta-page-roman")).toBeHidden();
 });
 
-test("appearance follows the device until the reader chooses otherwise @smoke", async ({ page }) => {
+test("appearance follows the device until the reader chooses otherwise", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "light" });
   await page.goto("/");
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await page.locator("#theme-toggle").click();
+  await page.locator('#theme-dialog input[value="dark"]').check();
+  await page.locator("#theme-dialog-done").click();
   await page.emulateMedia({ colorScheme: "dark" });
   await page.reload();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");

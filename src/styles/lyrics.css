@@ -7,20 +7,20 @@
 .lyric-header-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 1.5rem; }
 .lyric-title-block { min-width: 0; flex: 1; }
 .lyric-header-actions { display: flex; align-items: center; flex: 0 0 auto; flex-wrap: wrap; gap: 0.55rem; }
-.lyric-add-recitation { display: inline-flex; align-items: center; min-height: 2.75rem; padding: .45rem .7rem; border: 1px solid var(--border-colour); border-radius: .5rem; font-size: .83rem; font-weight: 650; text-decoration: none; }
+.lyric-add-recitation { display: inline-flex; align-items: center; min-height: var(--ui-target); padding: .45rem .7rem; border: var(--ui-border); border-radius: .5rem; font-size: .83rem; font-weight: 650; text-decoration: none; }
 .lyric-add-recitation:hover { background: var(--tag-background); }
 .alternate-title { color: var(--secondary-text); font-size: 1.15rem; }
 
-.category-pill { flex: 0 0 auto; border: 1px solid var(--border-colour); border-radius: 999px; padding: 0.4rem 0.75rem; background: var(--surface-background); color: var(--secondary-text); font-size: 0.82rem; font-weight: 700; text-decoration: none; }
+.category-pill { flex: 0 0 auto; border: var(--ui-border); border-radius: 999px; padding: 0.4rem 0.75rem; background: var(--surface-background); color: var(--secondary-text); font-size: 0.82rem; font-weight: 700; text-decoration: none; }
 .category-pill:hover { background: var(--tag-background); color: var(--primary-text); }
 .category-pill:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
 .lyric-cover {
   width: 100%;
   height: auto;
-  max-width: 48rem;
+  max-width: var(--reading-single-width);
   margin: 2rem auto;
-  border-radius: 0.75rem;
+  border-radius: var(--ui-radius-card);
   object-fit: contain;
   /* Unknown cover ratios get a stable pre-load fallback, then use their natural ratio. */
   aspect-ratio: auto 3 / 4;
@@ -34,11 +34,11 @@
 .lyric-details dd a:hover { text-decoration-color: currentColor; }
 .lyric-details a:focus-visible, .tag-link:focus-visible, .lyric-neighbor-nav a:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
-.lyric-reading-grid { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0; overflow: clip; border: 1px solid var(--border-colour); border-radius: 0.85rem; background: var(--site-background); }
-.lyric-reading-grid-single { display: block; max-width: 48rem; margin-inline: auto; }
+.lyric-reading-grid { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0; overflow: clip; border: var(--ui-border); border-radius: 0.85rem; background: var(--site-background); }
+.lyric-reading-grid-single { display: block; max-width: var(--reading-single-width); margin-inline: auto; }
 .lyric-reading-panel { min-width: 0; padding: clamp(.75rem, 1.9vw, 1.55rem); }
-.lyric-reading-urdu { grid-area: urdu; font-size: clamp(1.35rem, 3vw, 1.8rem); }
-.lyric-reading-roman { grid-area: roman; border-right: 1px solid var(--border-colour); font-size: clamp(1.05rem, 2.5vw, 1.25rem); }
+.lyric-reading-urdu { grid-area: urdu; font-size: var(--reading-urdu-size); }
+.lyric-reading-roman { grid-area: roman; border-right: var(--ui-border); font-size: var(--reading-roman-size); }
 .lyric-version-heading { display: none; }
 
 .lyrics-text, .roman-lyrics-text { margin-top: 0; white-space: normal; overflow-wrap: normal; unicode-bidi: plaintext; }
@@ -54,7 +54,7 @@
   overflow-x: visible;
 }
 .lyric-stanza + .lyric-stanza {
-  border-top: 1px solid var(--border-colour);
+  border-top: var(--ui-border);
   margin-top: .85em;
   padding-top: .5em;
 }
@@ -68,9 +68,9 @@
   word-break: normal;
   min-inline-size: 0;
 }
-.lyric-reading-grid[data-reading-mode="urdu"], .lyric-reading-grid[data-reading-mode="roman"] { max-width: 48rem; margin-inline: auto; }
-.lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0, 48rem); justify-content: center; }
-.lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0, 48rem); justify-content: center; }
+.lyric-reading-grid[data-reading-mode="urdu"], .lyric-reading-grid[data-reading-mode="roman"] { max-width: var(--reading-single-width); margin-inline: auto; }
+.lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0, var(--reading-single-width)); justify-content: center; }
+.lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0, var(--reading-single-width)); justify-content: center; }
 .lyric-reading-grid[data-reading-mode="urdu"] .lyric-reading-roman, .lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-urdu { display: none; }
 .lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-roman { border-right: 0; }
 
@@ -79,7 +79,7 @@
 .lyric-reading-grid[data-line-spacing="relaxed"] .lyrics-text { line-height: 3.15; }
 .lyric-reading-grid[data-line-spacing="relaxed"] .roman-lyrics-text { line-height: 2.35; }
 
-.lyric-basta-note { max-width: 48rem; margin: 1.25rem auto 0; color: var(--secondary-text); font-size: 0.9rem; line-height: 1.6; text-align: center; }
+.lyric-basta-note { max-width: var(--reading-single-width); margin: 1.25rem auto 0; color: var(--secondary-text); font-size: 0.9rem; line-height: 1.6; text-align: center; }
 .lyric-basta-note a { color: var(--primary-text); text-underline-offset: 0.2em; }
 .lyric-basta-note a:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
@@ -88,9 +88,9 @@
 .tag-list .tag-link { display: inline-flex; align-items: center; border-radius: 999px; padding: 0.25rem 0.65rem; background: var(--tag-background); color: inherit; font-size: 0.85rem; text-decoration: none; }
 .tag-list .tag-link:hover { text-decoration: underline; }
 
-.lyric-neighbor-nav { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: stretch; gap: 0.75rem; margin-top: 3rem; border-top: 1px solid var(--border-colour); padding-top: 1.25rem; }
+.lyric-neighbor-nav { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: stretch; gap: 0.75rem; margin-top: 3rem; border-top: var(--ui-border); padding-top: 1.25rem; }
 .lyric-neighbor-slot { min-width: 0; }
-.lyric-neighbor-slot > a, .lyric-neighbor-category { display: flex; flex-direction: column; justify-content: center; min-height: 4.5rem; border: 1px solid var(--border-colour); border-radius: 0.7rem; padding: 0.75rem 0.9rem; background: var(--surface-background); text-decoration: none; }
+.lyric-neighbor-slot > a, .lyric-neighbor-category { display: flex; flex-direction: column; justify-content: center; min-height: 4.5rem; border: var(--ui-border); border-radius: 0.7rem; padding: 0.75rem 0.9rem; background: var(--surface-background); text-decoration: none; }
 .lyric-neighbor-slot > a:hover, .lyric-neighbor-category:hover { background: var(--tag-background); }
 .lyric-neighbor-next > a { text-align: right; }
 .lyric-neighbor-label { color: var(--secondary-text); font-size: 0.72rem; font-weight: 800; text-transform: uppercase; }
@@ -117,8 +117,8 @@
 .lyric-header .source-scan-link-wrap > span { color: var(--secondary-text); }
 
 /* Metadata remains one tap away, but does not dominate the reading area. */
-.lyric-metadata-disclosure { margin: .7rem 0 0; max-width: 48rem; }
-.lyric-metadata-disclosure summary { width: fit-content; min-height: 2.5rem; padding: .5rem .65rem; border: 1px solid var(--border-colour); border-radius: var(--ui-radius); background: var(--surface-background); cursor: pointer; font-size: .85rem; }
+.lyric-metadata-disclosure { margin: .7rem 0 0; max-width: var(--reading-single-width); }
+.lyric-metadata-disclosure summary { width: fit-content; min-height: 2.5rem; padding: .5rem .65rem; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); cursor: pointer; font-size: .85rem; }
 .lyric-metadata-disclosure summary strong { font-weight: 700; }
 .lyric-metadata-disclosure summary span { color: var(--secondary-text); margin-inline-start: .4rem; }
 .lyric-metadata-disclosure .lyric-details { margin: 1rem 0 0; }

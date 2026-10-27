@@ -139,9 +139,14 @@ test("all text-edition combinations remain readable across themes and responsive
   }
   const toggle = page.locator("#theme-toggle");
   await toggle.click();
+  await page.locator('#theme-dialog input[value="light"]').check();
+  await page.locator("#theme-dialog-done").click();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await expect(page.locator(".basta-page-urdu")).toBeVisible();
   await toggle.click();
+  await page.locator('#theme-dialog input[value="dark"]').check();
+  await page.locator("#theme-dialog-done").click();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });
 
 test("rotation and Focus exit retain an actual continuous page rather than the book top @smoke", async ({ page }) => {
@@ -179,7 +184,7 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
   })).toBe(true);
 });
 
-test("parallel Basta keeps the shorter Roman edition fully visible and scrolls only Urdu @smoke", async ({ page }) => {
+test("parallel Basta keeps the shorter Roman edition fully visible and scrolls only Urdu", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/138/");
   await page.locator('[data-reading-column][value="image"]').uncheck();
@@ -320,7 +325,7 @@ test("standalone lyrics use stacked columns on narrow screens and parallel colum
   }).toBeLessThan(25);
 });
 
-test("continuous Basta editions respond to available width, including landscape @smoke", async ({ page }) => {
+test("continuous Basta editions respond to available width, including landscape", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
   await page.locator("[data-reading-regular-toggle]").click();
@@ -377,7 +382,7 @@ test("the Basta index does not scroll horizontally at mobile, tablet, or desktop
   }
 });
 
-test("parallel scans float below the reader toolbar, but stacked scans stay in flow @smoke", async ({ page }) => {
+test("parallel scans float below the reader toolbar, but stacked scans stay in flow", async ({ page }) => {
   await page.setViewportSize({ width: 1550, height: 900 });
   await page.goto("/basta/145/");
   await page.locator('[data-reading-column][value="image"]').check();
@@ -389,7 +394,7 @@ test("parallel scans float below the reader toolbar, but stacked scans stay in f
   await expect(scan).not.toHaveCSS("position", "sticky");
 });
 
-test("standalone scans share the same floating-column policy @smoke", async ({ page }) => {
+test("standalone scans share the same floating-column policy", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "dark" });
   await page.setViewportSize({ width: 1480, height: 900 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
@@ -402,13 +407,13 @@ test("standalone scans share the same floating-column policy @smoke", async ({ p
   }
 });
 
-test("the floating standalone reader does not trap sticky scans in a clipped scroll container @smoke", async ({ page }) => {
+test("the floating standalone reader does not trap sticky scans in a clipped scroll container", async ({ page }) => {
   await page.setViewportSize({ width: 1480, height: 900 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   await expect(page.locator(".lyric-reading-grid")).toHaveCSS("overflow-x", "clip");
 });
 
-test("a floating scan is never selected for text-column scrolling @smoke", async ({ page }) => {
+test("a floating scan is never selected for text-column scrolling", async ({ page }) => {
   await page.setViewportSize({ width: 1550, height: 900 });
   await page.goto("/basta/145/");
   await page.locator('[data-reading-column][value="image"]').check();
@@ -453,7 +458,7 @@ test("image viewer centres narrow scans and pans horizontally and vertically whe
   await viewer.getByRole("button", { name: "Close" }).click();
 });
 
-test("Basta uses one upper contextual toolbar and no redundant edition headings @smoke", async ({ page }) => {
+test("Basta uses one upper contextual toolbar and no redundant edition headings", async ({ page }) => {
   for (const url of ["/basta/138/", "/basta/index/"]) {
     await page.goto(url);
     const controls = page.locator("[data-reading-controls]");
@@ -467,7 +472,7 @@ test("Basta uses one upper contextual toolbar and no redundant edition headings 
   await expect(page.getByRole("button", { name: "Focus Mode" })).toBeVisible();
 });
 
-test("Focus Mode centres bilingual columns and fits scans within the viewport @smoke", async ({ page }) => {
+test("Focus Mode centres bilingual columns and fits scans within the viewport", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.route("**/images/lyrics/daastaan-e-shujaat-ka-darain-mein.png", (route) =>
     route.fulfill({ contentType: "image/svg+xml", body:
@@ -492,7 +497,7 @@ test("Focus Mode centres bilingual columns and fits scans within the viewport @s
 });
 
 // The Options overlay must not alter the source scan's geometry on Basta pages.
-test("Basta Focus scan stays centred and fully visible when Options expands @smoke", async ({ page }) => {
+test("Basta Focus scan stays centred and fully visible when Options expands", async ({ page }) => {
   await page.setViewportSize({ width: 1600, height: 900 });
   await page.route("**/images/basta/original/145.png", (route) =>
     route.fulfill({ contentType: "image/svg+xml", body:
@@ -511,7 +516,7 @@ test("Basta Focus scan stays centred and fully visible when Options expands @smo
   expect(after.y + after.height).toBeLessThanOrEqual(900);
 });
 
-test("standalone image selection never creates phantom columns and stays horizontally centred @smoke", async ({ page }) => {
+test("standalone image selection never creates phantom columns and stays horizontally centred", async ({ page }) => {
   await page.setViewportSize({width: 1440, height: 900});
   const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";
   await page.route("**" + imageUrl, route => route.fulfill({
@@ -554,7 +559,7 @@ test("standalone image selection never creates phantom columns and stays horizon
     document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
 });
 
-test("standalone scan plus Urdu/Roman is parallel when wide and centred above text at medium width @smoke", async ({ page }) => {
+test("standalone scan plus Urdu/Roman is parallel when wide and centred above text at medium width", async ({ page }) => {
   const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";
   await page.route("**" + imageUrl, route => route.fulfill({
     contentType: "image/svg+xml",
@@ -585,7 +590,7 @@ test("standalone scan plus Urdu/Roman is parallel when wide and centred above te
   await page.getByRole("button", { name: /Exit reading mode/ }).click();
 });
 
-test("standalone image plus either single text edition occupies only two columns @smoke", async ({ page }) => {
+test("standalone image plus either single text edition occupies only two columns", async ({ page }) => {
   await page.setViewportSize({width: 1400, height: 900});
   await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
   const grid = page.locator(".lyric-reading-grid");

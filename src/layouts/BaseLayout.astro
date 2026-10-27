@@ -43,19 +43,77 @@ const aboutActive = path.startsWith("/about/");
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <title>{title}</title>
 
-    <!-- Set the saved theme before first paint to avoid a light/dark flash. -->
+    <!-- Restore appearance before first paint, including the custom palette. -->
     <script is:inline>
       (() => {
-        // Follow device appearance on first visit; manual selections take priority.
-        let theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-        try {
-          const savedTheme = localStorage.getItem("theme");
-          if (savedTheme === "light" || savedTheme === "dark") theme = savedTheme;
-        } catch {}
-        document.documentElement.dataset.jsAvailable = "true";
-        document.documentElement.dataset.theme = theme;
-        document.documentElement.dataset.pfTheme = theme;
-        document.querySelector('meta[name="theme-color"]')?.setAttribute("content", theme === "light" ? "#f7f7f8" : "#171719");
+        const root = document.documentElement;
+        let savedMode;
+        try { savedMode = localStorage.getItem("theme"); } catch {}
+        const mode = ["light", "dark", "amoled", "sepia", "custom"].includes(savedMode)
+          ? savedMode : (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        root.dataset.jsAvailable = "true";
+        root.dataset.theme = mode;
+        if (mode === "custom") {
+          let saved = {};
+          try { saved = JSON.parse(localStorage.getItem("kalam:custom-theme") || "{}") || {}; } catch {}
+          const pick = (key, fallback) => typeof saved[key] === "string" && /^#[0-9a-f]{6}$/i.test(saved[key])
+            ? saved[key].toLowerCase() : fallback;
+          const main = pick("main", "#f4ead6");
+          const secondary = pick("secondary", "#fbf4e6");
+          const accent = pick("accent", "#755238");
+          const luminance = (hex) => [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255)
+            .map((v) => v <= .04045 ? v / 12.92 : ((v + .055) / 1.055) ** 2.4)
+            .reduce((total, v, i) => total + v * [.2126, .7152, .0722][i], 0);
+          const contrast = (a, b) => (Math.max(a, b) + .05) / (Math.min(a, b) + .05);
+          const backgrounds = [luminance(main), luminance(secondary)];
+          const dark = luminance("#171719");
+          const darkContrast = Math.min(...backgrounds.map((v) => contrast(v, dark)));
+          const lightContrast = Math.min(...backgrounds.map((v) => contrast(v, 1)));
+          const foreground = darkContrast >= lightContrast ? "#171719" : "#ffffff";
+          const scheme = contrast(backgrounds[0], dark) >= contrast(backgrounds[0], 1) ? "light" : "dark";
+          const accentText = contrast(luminance(accent), 1) >= contrast(luminance(accent), dark)
+            ? "#ffffff" : "#171719";
+          const optional = (key) => typeof saved[key] === "string" && /^#[0-9a-f]{6}$/i.test(saved[key])
+            ? saved[key].toLowerCase() : null;
+          // A Custom palette copied from a preset must retain its exact
+          // foregrounds on reload. Only use these Auto seeds while both
+          // background surfaces still match the original preset.
+          const source = saved.inherited;
+          const inherited = source && typeof source === "object" &&
+            ["main", "secondary", "primary", "muted", "borders"].every(
+              (key) => typeof source[key] === "string" && /^#[0-9a-f]{6}$/i.test(source[key])
+            ) && source.main.toLowerCase() === main &&
+            source.secondary.toLowerCase() === secondary ? source : null;
+          const blend = (first, second, share) => "#" + [1, 3, 5].map((i) =>
+            Math.round(parseInt(first.slice(i, i + 2), 16) * share +
+              parseInt(second.slice(i, i + 2), 16) * (1 - share)).toString(16).padStart(2, "0")).join("");
+          const minContrast = (text) => Math.min(...backgrounds.map((value) => contrast(luminance(text), value)));
+          const primary = optional("primaryText") || inherited?.primary.toLowerCase() || foreground;
+          let muted = foreground;
+          const average = blend(main, secondary, .5);
+          for (let share = .95; share >= .05; share -= .05) {
+            const candidate = blend(foreground, average, share);
+            if (minContrast(candidate) < 4.5) break;
+            muted = candidate;
+          }
+          muted = optional("mutedText") || inherited?.muted.toLowerCase() || muted;
+          const border = optional("borders");
+          root.style.setProperty("--theme-border-auto",
+            inherited?.borders.toLowerCase() || blend(foreground, main, .22));
+          if (border) root.style.setProperty("--theme-border", border);
+          for (const [key, value] of Object.entries({
+            "--theme-main": main, "--theme-secondary": secondary,
+            "--theme-accent": accent, "--theme-foreground": primary,
+            "--theme-muted": muted, "--theme-accent-text": accentText,
+            "--theme-color-scheme": scheme,
+          })) root.style.setProperty(key, value);
+          root.dataset.pfTheme = scheme;
+        } else {
+          root.dataset.pfTheme = mode === "dark" || mode === "amoled" ? "dark" : "light";
+        }
+        document.querySelector('meta[name="theme-color"]')?.setAttribute("content",
+          mode === "custom" ? root.style.getPropertyValue("--theme-main")
+          : mode === "sepia" ? "#f4ead6" : mode === "amoled" ? "#000000" : mode === "dark" ? "#171719" : "#f7f7f8");
       })();
     </script>
   </head>
@@ -90,26 +148,73 @@ const aboutActive = path.startsWith("/about/");
             <a href="/about/" aria-current={aboutActive ? "page" : undefined}>About / Contact</a>
           </nav>
 
-          <button
-            id="theme-toggle"
-            class="theme-toggle"
-            type="button"
-            aria-label="Switch to light mode"
-            aria-pressed="true"
-            title="Switch to light mode"
-          >
-            <svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
-              <circle cx="12" cy="12" r="4" />
-              <path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42" />
+          <button id="theme-toggle" class="theme-toggle" type="button"
+            aria-label="Appearance settings" aria-haspopup="dialog" aria-controls="theme-dialog" title="Appearance settings">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="9" />
+              <path d="M12 3a9 9 0 0 0 0 18c1.3 0 2.2-1.1 2.2-2.3 0-.9-.5-1.4-.5-2.2 0-1 1-1.5 2-1.5H19" />
+              <circle cx="6.5" cy="11" r="1" /><circle cx="9" cy="6.8" r="1" />
+              <circle cx="14.5" cy="7" r="1" /><circle cx="17.5" cy="11" r="1" />
             </svg>
-            <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
-              <path d="M20.98 13.1A9 9 0 0 1 10.9 3.02 9 9 0 1 0 20.98 13.1Z" />
-            </svg>
-            <span class="visually-hidden" data-theme-toggle-label>Light mode</span>
           </button>
         </div>
       </div>
     </header>
+
+    <dialog id="theme-dialog" class="theme-dialog" aria-labelledby="theme-dialog-heading" data-pagefind-ignore>
+      <div class="theme-dialog-header">
+        <div><h2 id="theme-dialog-heading">Appearance</h2><p>Choose a reading theme or customise its colours.</p></div>
+        <button class="theme-dialog-close" id="theme-dialog-close" type="button" aria-label="Close appearance settings">×</button>
+      </div>
+      <fieldset class="theme-presets">
+        <legend>Theme</legend>
+        <label class="theme-preset"><input type="radio" name="theme-mode" value="light" /><span class="theme-preset-swatch" data-preset-swatch="light" aria-hidden="true"></span>Light</label>
+        <label class="theme-preset"><input type="radio" name="theme-mode" value="dark" /><span class="theme-preset-swatch" data-preset-swatch="dark" aria-hidden="true"></span>Dark</label>
+        <label class="theme-preset"><input type="radio" name="theme-mode" value="amoled" /><span class="theme-preset-swatch" data-preset-swatch="amoled" aria-hidden="true"></span>AMOLED Dark</label>
+        <label class="theme-preset"><input type="radio" name="theme-mode" value="sepia" /><span class="theme-preset-swatch" data-preset-swatch="sepia" aria-hidden="true"></span>Sepia</label>
+        <label class="theme-preset"><input type="radio" name="theme-mode" value="custom" /><span class="theme-preset-swatch" data-preset-swatch="custom" aria-hidden="true"></span>Custom</label>
+      </fieldset>
+      <fieldset class="theme-custom-fields" id="theme-custom-fields" hidden>
+        <legend>Custom colours</legend>
+        <p>Start with the selected theme, then adjust and save on this device.</p>
+        <label for="theme-main">Main <span>Page background</span><span class="theme-colour-field"><input id="theme-main" type="color" value="#f4ead6" /><output id="theme-main-value" for="theme-main">#f4ead6</output></span></label>
+        <label for="theme-secondary">Secondary <span>Cards and reading panels</span><span class="theme-colour-field"><input id="theme-secondary" type="color" value="#fbf4e6" /><output id="theme-secondary-value" for="theme-secondary">#fbf4e6</output></span></label>
+        <label for="theme-accent">Accent <span>Buttons and highlights</span><span class="theme-colour-field"><input id="theme-accent" type="color" value="#755238" /><output id="theme-accent-value" for="theme-accent">#755238</output></span></label>
+        <details class="theme-advanced" id="theme-advanced">
+          <summary>Advanced colours</summary>
+          <p>Text and borders are chosen automatically for your palette. Turn off Auto to pick a colour.</p>
+          <div class="theme-advanced-row">
+            <label class="theme-advanced-title" for="theme-primaryText-auto">Primary text<span>Poetry, headings, main content</span></label>
+            <label class="theme-auto-control"><input type="checkbox" id="theme-primaryText-auto" checked /> Auto</label>
+            <span class="theme-colour-field">
+              <input type="color" id="theme-primaryText" aria-label="Primary text colour" value="#352b21" disabled />
+              <output id="theme-primaryText-value" for="theme-primaryText">#352b21</output>
+            </span>
+          </div>
+          <div class="theme-advanced-row">
+            <label class="theme-advanced-title" for="theme-mutedText-auto">Muted text<span>Descriptions, metadata, labels</span></label>
+            <label class="theme-auto-control"><input type="checkbox" id="theme-mutedText-auto" checked /> Auto</label>
+            <span class="theme-colour-field">
+              <input type="color" id="theme-mutedText" aria-label="Muted text colour" value="#6b5947" disabled />
+              <output id="theme-mutedText-value" for="theme-mutedText">#6b5947</output>
+            </span>
+          </div>
+          <div class="theme-advanced-row">
+            <label class="theme-advanced-title" for="theme-borders-auto">Borders<span>Panel, input, and divider outlines</span></label>
+            <label class="theme-auto-control"><input type="checkbox" id="theme-borders-auto" checked /> Auto</label>
+            <span class="theme-colour-field">
+              <input type="color" id="theme-borders" aria-label="Borders colour" value="#d5c4a8" disabled />
+              <output id="theme-borders-value" for="theme-borders">#d5c4a8</output>
+            </span>
+          </div>
+        </details>
+        <p class="theme-contrast-note" id="theme-contrast-note" role="status" aria-live="polite" hidden></p>
+        <button type="button" id="theme-reset-custom" class="button button-secondary">Reset custom colours</button>
+      </fieldset>
+      <div class="theme-dialog-footer">
+        <button type="button" id="theme-dialog-done" class="button">Done</button>
+      </div>
+    </dialog>
 
     <main id="main-content" class="site-main">
       <slot />

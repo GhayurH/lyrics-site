@@ -75,7 +75,7 @@ test("short desktop viewports also retain floating controls", async ({ page }) =
   await expect(page.locator("[data-reading-controls]")).toHaveCSS("position", "sticky");
 });
 
-test("site header hides on downward scrolling and returns on upward scrolling @smoke", async ({ page }) => {
+test("site header hides on downward scrolling and returns on upward scrolling", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/200/");
   const header = page.locator(".site-header");

@@ -3,7 +3,7 @@
 .basta-home,
 .basta-page,
 .basta-index-page {
-  max-width: 72rem;
+  max-width: var(--content-feature);
   margin: 0 auto;
 }
 
@@ -50,7 +50,7 @@
   height: auto;
   aspect-ratio: 1240 / 1754;
   object-fit: contain;
-  border: 1px solid var(--border-colour);
+  border: var(--ui-border);
   border-radius: 0.45rem;
   background: var(--surface-background);
   box-shadow: 0.3rem 0.3rem 0 var(--tag-background);
@@ -65,7 +65,7 @@
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  border: 1px solid var(--border-colour);
+  border: var(--ui-border);
   border-radius: 0.8rem;
   padding: 0.9rem 1.2rem;
   background: var(--surface-background);
@@ -85,7 +85,7 @@
   display: flex;
   min-width: 0;
   flex-direction: column;
-  border: 1px solid var(--border-colour);
+  border: var(--ui-border);
   border-radius: 0.8rem;
   padding: clamp(1rem, 2vw, 1.4rem);
   background: var(--surface-background);
@@ -103,23 +103,23 @@
   align-items: center;
   gap: clamp(1rem, 3vw, 2.5rem);
   margin-top: 1.3rem;
-  border: 1px solid var(--border-colour);
+  border: var(--ui-border);
   border-radius: 0.8rem;
   padding: clamp(1rem, 2.5vw, 1.5rem);
   background: var(--surface-background);
 }
 .basta-home-find-intro > p:not(.eyebrow) { margin: 0.4rem 0 0.65rem; color: var(--secondary-text); }
 .basta-home-index-link { font-weight: 700; text-underline-offset: 0.2em; }
-.basta-home-page-jump { display: grid; gap: 0.45rem; min-width: 0; border-left: 1px solid var(--border-colour); padding-left: clamp(1rem, 3vw, 1.5rem); }
+.basta-home-page-jump { display: grid; gap: 0.45rem; min-width: 0; border-left: var(--ui-border); padding-left: clamp(1rem, 3vw, 1.5rem); }
 .basta-home-page-jump > label { color: var(--secondary-text); font-size: 0.82rem; font-weight: 700; }
 .basta-home-page-jump-controls { display: flex; flex-wrap: nowrap; gap: 0.5rem; min-width: 0; }
 .basta-home-page-jump input {
   flex: 1 1 auto;
   width: 100%;
   min-width: 0;
-  min-height: 2.75rem;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.55rem;
+  min-height: var(--ui-target);
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-tight);
   padding: 0.55rem 0.7rem;
   background: var(--site-background);
   color: var(--primary-text);
@@ -130,11 +130,11 @@
   display: inline-flex;
   flex: 0 0 auto;
   min-width: 3.4rem;
-  min-height: 2.75rem;
+  min-height: var(--ui-target);
   align-items: center;
   justify-content: center;
   border: 1px solid var(--button-background);
-  border-radius: 0.55rem;
+  border-radius: var(--ui-radius-tight);
   padding: 0.55rem 0.85rem;
   background: var(--button-background);
   color: var(--button-text);
@@ -150,7 +150,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   justify-content: space-between;
   gap: 1.25rem;
   margin-top: 1.9rem;
-  border-top: 1px solid var(--border-colour);
+  border-top: var(--ui-border);
   padding-top: 1.25rem;
 }
 .basta-home-download h2 { margin: 0; font-size: 1.15rem; }
@@ -162,7 +162,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   .basta-home-mode-card { padding: 0.95rem 1rem; }
   .basta-home-mode-card p { margin-bottom: 0.65rem; }
   .basta-home-find { grid-template-columns: 1fr; }
-  .basta-home-page-jump { border-left: 0; border-top: 1px solid var(--border-colour); padding: 0.9rem 0 0; }
+  .basta-home-page-jump { border-left: 0; border-top: var(--ui-border); padding: 0.9rem 0 0; }
 }
 @media (max-width: 490px) {
   .basta-home-intro { align-items: start; }
@@ -177,8 +177,8 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   align-items: end;
   gap: 1rem;
   margin: 1.5rem 0;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.75rem;
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-card);
   padding: 0.9rem;
   background: var(--surface-background);
 }
@@ -188,8 +188,8 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   align-items: center;
   justify-content: center;
   min-height: 2.7rem;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.55rem;
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-tight);
   padding: 0.55rem 0.8rem;
   text-decoration: none;
 }
@@ -224,8 +224,8 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 .basta-jump-form input {
   width: 8rem;
-  min-height: 2.75rem;
-  border: 1px solid var(--border-colour);
+  min-height: var(--ui-target);
+  border: var(--ui-border);
   border-radius: 0.5rem;
   padding: 0.55rem 0.7rem;
   background: var(--surface-background);
@@ -234,7 +234,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 .basta-jump-form button {
-  min-height: 2.75rem;
+  min-height: var(--ui-target);
   border: 0;
   border-radius: 0.5rem;
   padding: 0.55rem 0.9rem;
@@ -259,15 +259,15 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 .basta-page-grid-image-only {
-  grid-template-columns: minmax(0, 42rem);
+  grid-template-columns: minmax(0, var(--reading-scan-width));
   justify-content: center;
 }
 
 .basta-original-page {
   margin: 0;
   overflow: hidden;
-  border: 1px solid var(--border-colour);
-  border-radius: 0.75rem;
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-card);
   background: var(--surface-background);
 }
 
@@ -335,7 +335,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 .basta-index-table-wrap {
   width: 100%;
   overflow-x: visible;
-  border: 1px solid var(--border-colour);
+  border: var(--ui-border);
   border-radius: 0.7rem;
   background: var(--surface-background);
 }
@@ -349,8 +349,8 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 .basta-index-table th,
 .basta-index-table td {
-  border-bottom: 1px solid var(--border-colour);
-  border-inline-end: 1px solid var(--border-colour);
+  border-bottom: var(--ui-border);
+  border-inline-end: var(--ui-border);
   padding: 0.65rem 0.8rem;
   overflow-wrap: anywhere;
   vertical-align: middle;
@@ -514,18 +514,18 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 /* Page reader preferences and single-language scan layout. */
 .basta-page-reading-controls { margin: 1rem 0 1.5rem; }
 .basta-page-grid[data-reading-root] {
-  --basta-page-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
-  --basta-page-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
-  --basta-page-urdu-leading: 2.8;
-  --basta-page-roman-leading: 2;
+  --basta-page-urdu-size: var(--reading-urdu-size);
+  --basta-page-roman-size: var(--reading-roman-size);
+  --basta-page-urdu-leading: var(--reading-urdu-leading);
+  --basta-page-roman-leading: var(--reading-roman-leading);
 }
 .basta-page-grid[data-reading-root] .basta-original-page { grid-area: scan; }
 .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) .basta-page-urdu { grid-area: urdu; }
 .basta-page-grid[data-reading-root] .basta-urdu-text { font-size: var(--basta-page-urdu-size); line-height: var(--basta-page-urdu-leading); }
 .basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--basta-page-roman-size); line-height: var(--basta-page-roman-leading); }
 
-.basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: 2.2; --basta-page-roman-leading: 1.65; }
-.basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: 3.2; --basta-page-roman-leading: 2.35; }
+.basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: var(--reading-urdu-leading-compact); --basta-page-roman-leading: var(--reading-roman-leading-compact); }
+.basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: var(--reading-urdu-leading-relaxed); --basta-page-roman-leading: var(--reading-roman-leading-relaxed); }
 
 
 
@@ -573,7 +573,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 /* Each following couplet starts with one horizontal separator. */
 .basta-couplet-separator {
-  border-top: 1px solid var(--border-colour);
+  border-top: var(--ui-border);
   margin-block-start: .65em;
   padding-block-start: .34em;
 }
@@ -582,17 +582,17 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
    the closing pair reuses .basta-verse-indent and stays framed with
    horizontal rules. No extra inset or blank verse between lines 4 and 5. */
 .basta-six-closing-start {
-  border-top: 1px solid var(--border-colour);
+  border-top: var(--ui-border);
 }
 
 .basta-six-closing-end {
-  border-bottom: 1px solid var(--border-colour);
+  border-bottom: var(--ui-border);
 }
 
 /* Refrains share the closing couplet's rule when both occur together. */
 .basta-refrain {
   font-weight: 750;
-  border-top: 1px solid var(--border-colour);
+  border-top: var(--ui-border);
   margin-block-start: .5em;
   padding-block-start: .22em;
 }
@@ -637,7 +637,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   grid-area: text;
 }
 .basta-parallel-kalams-page .basta-page-roman {
-  border-right: 1px solid var(--border-colour);
+  border-right: var(--ui-border);
   padding-right: clamp(1rem, 2.5vw, 2rem);
 }
 .basta-parallel-kalams-page .basta-page-urdu {
@@ -653,7 +653,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-page-urdu { display: none; }
 [data-reading-mode="urdu"] .basta-parallel-kalams,
 [data-reading-mode="roman"] .basta-parallel-kalams {
-  grid-template-columns: minmax(0, 48rem);
+  grid-template-columns: minmax(0, var(--reading-single-width));
   justify-content: center;
 }
 [data-reading-mode="urdu"] .basta-parallel-kalams > .basta-page-urdu,

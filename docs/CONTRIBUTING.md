@@ -33,11 +33,9 @@ Basta text and index data live under `src/data/basta/` (`pages/`, `roman/`, `ind
 - Keep source image references root-relative (`/images/basta/...`). Do not replace them with R2 hostnames.
 
 ```bash
-npm run basta:index:check   # Check index drift
-npm run basta:index:sync    # Update index labels only
-npm run basta:sync:check    # Alternative index-only check
-npm run basta:sync          # Alternative index-only sync
-npm run basta:breaks:rebuild  # Reconstruct boundaries: manual review required
+npm run basta:index:check      # Check index drift
+npm run basta:index:sync       # Update index labels
+npm run basta:breaks:rebuild   # Rebuild boundaries only after manual review
 ```
 
 The page-by-page and streamed readers are generated from the same source material; streamed JSON is built, not edited by hand.
@@ -52,28 +50,19 @@ Do not commit generated output (`dist/`, `.astro/`), dependencies, scratch files
 
 ## Validation
 
-For routine work:
+Use Node 24 (minimum supported: 22.23.4). For every change run `npm run build` and `git diff --check`; the build already runs Node tests and permanent source-ID checks before Astro and Pagefind. Run `npm test` alone for quicker feedback.
+
+After building, use the appropriate browser tier:
 
 ```bash
-npm ci
-npm test
-npm run build
-git diff --check
-git status --short
+npm run test:smoke    # Critical Chromium routes and interactions
+npm run test:browser  # All Chromium regression scenarios
 ```
 
-`npm run build` runs Node tests and `recitation:ids:check` in `prebuild`, then builds Astro and Pagefind. Running `npm test` separately is useful for quick feedback but is not necessary immediately before the full build.
+Install Chromium once with `npx playwright install chromium`. Use the full suite for reader layout, theme, routing, export, or major workflow changes; smoke tests alone are not a substitute for those milestones. The full suite covers 320–390px portrait, short landscape, tablet, and desktop behavior, one-line verses, no-JavaScript access, Focus Mode, missing editions, scans, and Recitation Sets. R2 assets are not guaranteed in local Astro previews; publishing and D1 behavior need an appropriately bound Cloudflare deployment.
 
-For reader, search, or responsive changes:
+**GitHub Actions:** Every PR/main commit builds and runs Node tests, ID checks, and asset-route checks. Browser runs are intentionally selective: `[smoke-ci]` runs the reduced `@smoke` subset, `[full-ci]` runs the complete Chromium suite plus the Basta boundary audit, and `[visual-ci]` runs all Chromium tests and uploads viewport captures. Commits on `main` run the smoke suite and Basta boundary audit by default. Ordinary PR commits do not run browsers unless marked. CI checks redirect files without downloading R2 images.
 
-```bash
-npx playwright install chromium
-npx playwright test --grep '@smoke'
-npx playwright test  # Full local Chromium suite at milestones
-```
-
-Check portrait widths around 320–390px, short landscape screens, tablets, and desktop layouts. Cover standalone lyrics, paired and Roman-unavailable Basta pages, continuous deep links/index navigation, Focus Mode exit, missing scans, accessible image zoom, Recitation Sets, and a no-JavaScript reading path. Poetry verses must remain one line, without wrapping or horizontal text scrolling. Print/export changes must preserve embedded Nastaliq fonts, bilingual stanza rows, and sensible page breaks; verify PDF output in a real browser.
-
-GitHub Actions builds and runs Node tests on pushes and pull requests. It runs the Chromium `@smoke` suite and Basta boundary audit on pushes to `main` or commits marked `[full-ci]`. Ordinary PR updates skip those longer checks. CI validates generated Cloudflare redirect/routing files rather than downloading R2 assets. Local Astro preview does not run Pages Functions or apply Pages `_redirects`; test those behaviors on a bound Cloudflare deployment.
+For print/export changes, verify embedded Nastaliq fonts, bilingual stanza rows, and page breaks in a real browser.
 
 Review the diff and successful checks before committing. Report corrections or cataloguing questions to **lyricsadmin@gmail.com**.

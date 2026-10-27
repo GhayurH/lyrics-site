@@ -8,6 +8,7 @@ This document owns implementation boundaries and reader behavior. See [CONTRIBUT
 - Keep domain models canonical, route behavior local, and shared UI controls consistent.
 - Keep route-specific CSS out of the global payload and large binary assets out of Git.
 - Preserve public URLs and content structure when reorganizing code.
+- Build and browser validation run on Node 24 in GitHub Actions; the project declares Node >=22.23.4 as its minimum supported runtime, consistent with Astro.
 
 ```text
 src/
@@ -24,7 +25,15 @@ src/
 
 ## Styling and shared components
 
-`src/styles/core.css` owns tokens, resets, the shell, common controls, and the canonical lyric card. Route styles belong to their feature: `home.css`, `about.css`, `saved.css`, `search.css`, `category.css`, `lyrics.css`, `basta.css`, `basta-reader.css`, and `recitation.css`.
+`src/styles/tokens.css` owns shared design decisions: light, dark, AMOLED Dark, Sepia, and Custom colour roles; content and reader widths; Urdu/Roman sizes and line spacing; tap targets; radii; and the theme-aware `--ui-border` hairline. `src/styles/core.css` imports the tokens and owns the shell, resets, and shared UI primitives. Feature CSS belongs to its route. Use semantic tokens for genuinely shared decisions, but retain local values for unique components and their one-off measurements.
+
+Content width roles are `--content-wide` (site), `--content-reading` (readers), `--content-feature` (72rem landing sections), `--content-intro` (52rem introductions), `--content-compact` (42rem text), and `--reading-single-width`/`--reading-scan-width` (individual reading columns). Control borders use `--ui-border`, which resolves against the current theme and is re-scoped for the Appearance dialog. `--site-header-fallback-height` provides a shared pre-measurement value for the sticky site header. Radius tokens distinguish compact controls, general controls, cards, and panels. Do not promote unrelated matching values to global tokens solely because their numbers happen to match.
+
+The **46rem reader-shell stack threshold** (and its 46.01rem parallel counterpart) belongs only in `reading-columns.css`. Ordinary mobile viewport defaults share the 700px query from `src/client/viewport.ts`; media/container query conditions remain in their owning CSS because custom properties are unsupported inside those conditions. `tests/design-tokens.test.mjs` checks token ownership and breakpoint consistency.
+
+### Appearance
+
+`BaseLayout.astro` provides a compact Appearance dialog and a pre-paint theme bootstrap. `src/client/theme.ts` validates and saves the chosen mode and Custom palette in browser storage, synchronizes Pagefind's compatible light/dark mode, and calculates accessible text/button contrast. Custom exposes **Main** (page), **Secondary** (panels), and **Accent** (buttons), plus an optional Advanced section with Auto/manual **Primary text**, **Muted text**, and **Borders**. On entry from a preset, Auto starts with that preset's exact text and border colours; changing Custom backgrounds recalculates Auto contrast. Reset returns to the source preset's palette; invalid saved values are rejected. The editor itself keeps readable colour roles even when the user chooses low-contrast page text.
 
 Readers import the shared `reading-columns.css` (edition grids, container queries, and toolbar placement), `reading-focus.css` (Focus Mode), and `scan-viewer.css` (zoomable scans) through `ReadingControls.astro`. Do not add competing route-local edition grids or rebuild an override stack; consolidate CSS only when specificity, conditions, and cascade still agree. `basta.css` is the one shared Basta text stylesheet.
 
@@ -69,6 +78,6 @@ Published programme documents and hashed private edit credentials use Cloudflare
 - Lazy-load noncritical R2 scans with reserved dimensions and async decoding; retain the original direct URLs.
 - Use `content-visibility` for off-screen continuous-reader content when supported, and avoid measuring distant reader panels during scrolling.
 - Do not load the full Saved catalog, entire Basta book, or Pagefind JavaScript in unrelated initial HTML.
-- Keep browser tests focused on navigation, responsive geometry, availability fallbacks, no-JavaScript access, and source/streamed markup parity. The `[visual-ci]` marker runs the full Chromium suite and uploads representative viewport captures for manual review; ordinary PRs run only smoke checks.
+- Keep browser tests focused on distinct user-facing contracts: navigation, responsive geometry, unavailable editions, no-JavaScript access, and source/streamed markup parity. The smaller `@smoke` group covers core journeys, while full-only tests retain unusual viewports and feature-specific regressions. Ordinary PR commits run the build and Node checks; use `[smoke-ci]`, `[full-ci]`, or `[visual-ci]` to select browser coverage as documented in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
 
 Validation commands and CI conditions are documented once in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
