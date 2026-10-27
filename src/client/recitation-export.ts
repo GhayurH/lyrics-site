@@ -9,6 +9,63 @@ import nastaliqBold from "@fontsource/noto-nastaliq-urdu/files/noto-nastaliq-urd
 const escape = (value: string): string => value.replace(/[&<>"']/g, (char) =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[char]!);
 
+/**
+ * Chromium does not fragment two full-height CSS grid columns reliably:
+ * it can strand an entire grid on the next sheet, leaving just a heading.
+ * Pair the authored stanza blocks before printing so that the page-break
+ * boundary is a short, self-contained bilingual row, not a whole edition.
+ * The source elements remain unmodified in the interactive reader.
+ */
+function printUnits(panel: HTMLElement): HTMLElement[][] {
+  const lyric = panel.querySelector<HTMLElement>(".lyric-reading-text");
+  if (lyric) {
+    const stanzas = Array.from(lyric.children).filter((child): child is HTMLElement =>
+      child instanceof HTMLElement);
+    return stanzas.map((stanza) => [stanza]);
+  }
+
+  // Basta text is rendered in one numbered .basta-kalam-text per stanza.
+  // Source attribution and missing-text notices belong with the following
+  // stanza rather than becoming their own misaligned printed row.
+  const result: HTMLElement[][] = [];
+  let pending: HTMLElement[] = [];
+  for (const child of Array.from(panel.children)) {
+    if (!(child instanceof HTMLElement)) continue;
+    pending.push(child);
+    if (!child.classList.contains("recite-stanza-source")) {
+      result.push(pending);
+      pending = [];
+    }
+  }
+  if (pending.length) result.push(pending);
+  return result;
+}
+
+function makePrintRows(editions: HTMLElement): void {
+  const roman = editions.querySelector<HTMLElement>(".lyric-reading-roman");
+  const urdu = editions.querySelector<HTMLElement>(".lyric-reading-urdu");
+  if (!roman || !urdu) return;
+
+  const romanUnits = printUnits(roman);
+  const urduUnits = printUnits(urdu);
+  const count = Math.max(romanUnits.length, urduUnits.length);
+  if (!count) return;
+  const rows = document.createDocumentFragment();
+  for (let index = 0; index < count; index++) {
+    const row = document.createElement("div");
+    row.className = "recite-print-row";
+    for (const [source, units] of [[roman, romanUnits], [urdu, urduUnits]] as const) {
+      const panel = source.cloneNode(false) as HTMLElement;
+      panel.removeAttribute("style");
+      panel.replaceChildren(...(units[index] || []));
+      row.append(panel);
+    }
+    rows.append(row);
+  }
+  editions.replaceChildren(rows);
+  editions.classList.add("recite-print-editions");
+}
+
 export function programmeHtml(set: RecitationSet, works: HTMLElement[]): string {
   const copies = works.map((work) => {
     const clone = work.cloneNode(true) as HTMLElement;
@@ -30,6 +87,21 @@ export function programmeHtml(set: RecitationSet, works: HTMLElement[]): string 
         el.removeAttribute("data-synced-scroll-root");
         el.removeAttribute("data-synced-scroll-panel");
       });
+    const editions = clone.querySelector<HTMLElement>(".recite-editions");
+    if (editions) makePrintRows(editions);
+    const firstRow = editions?.querySelector(".recite-print-row");
+    if (firstRow) {
+      // A heading alone must never occupy a sheet while its text begins
+      // on the next. Keep the first stanza with its kalam heading/notes.
+      const opening = document.createElement("div");
+      opening.className = "recite-print-opening";
+      const header = clone.querySelector(":scope > .recite-work-header");
+      if (header) opening.append(header);
+      for (const note of Array.from(clone.querySelectorAll(":scope > .recite-work-note")))
+        opening.append(note);
+      opening.append(firstRow);
+      clone.prepend(opening);
+    }
     return clone.outerHTML;
   });
   const title = escape(set.title);
@@ -65,10 +137,15 @@ header.programme p { margin: .25rem 0; } .hint { font-size: .8rem; color: #555; 
 .recite-work-header { margin-bottom: .75rem; }
 .recite-work-header p { margin: .15rem 0; }
 .recite-work-note { margin: .25rem 0; padding: .2rem .35rem; background: #f3f3f3; }
-.recite-editions {
-  display: grid; grid-template-areas: "roman urdu";
-  grid-template-columns: repeat(2,minmax(0,1fr)); gap: .75rem;
-  align-items: start;
+.recite-editions { display: block; }
+.recite-print-row {
+  display: grid; grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: .75rem; align-items: start;
+  margin: 0 0 .35rem;
+  break-inside: avoid-page; page-break-inside: avoid;
+}
+.recite-print-opening {
+  break-inside: avoid-page; page-break-inside: avoid;
 }
 .lyric-reading-panel { min-width: 0; width: 100%; overflow: visible; padding: 0; }
 .lyric-reading-roman { grid-area: roman; font-size: .88rem; }
@@ -93,15 +170,17 @@ header.programme p { margin: .25rem 0; } .hint { font-size: .8rem; color: #555; 
 .recite-stanza-source, .recite-missing-stanza { font-size: .8rem; background: #f2f2f2; padding: .35rem; }
 @media (max-width: 700px) {
   body { padding: .65rem; }
-  .recite-editions { grid-template-areas: "roman" "urdu"; grid-template-columns: minmax(0,1fr); }
+  .recite-print-row { grid-template-columns: minmax(0,1fr); }
 }
 @media print {
   @page { size: auto; margin: 11mm; }
   html, body { margin: 0; padding: 0; background: #fff; print-color-adjust: exact; }
-  .recite-editions { grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
-  .recite-work { break-inside: auto; break-before: page; border-bottom: 0; margin: 0; }
-  .recite-work:first-of-type { break-before: auto; }
-  .lyric-stanza, .basta-kalam-text { break-inside: avoid; }
+  .recite-print-row { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); }
+  /* Multiple kalams share a sheet whenever there is enough room. */
+  .recite-work { break-inside: auto; break-before: auto; border-bottom: 0; margin: 0 0 1rem; }
+  .recite-print-row, .recite-print-opening, .lyric-stanza, .basta-kalam-text {
+    break-inside: avoid-page !important; page-break-inside: avoid !important;
+  }
   .lyric-verse, .basta-kalam-text span { -webkit-print-color-adjust: exact; }
 }
 </style></head><body>
