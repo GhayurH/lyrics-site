@@ -1,6 +1,6 @@
 ---
-title: "بہار آنے کو ہے یوں تو جہاں میں ہے ہزار آئی"
-alternateTitle: "Bahar Aayi Bahar Aayi Zehra ke Ghar"
+title: "بہار آئی، بہار آئی"
+alternateTitle: "Bahar Aayi Bahar Aayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,23 +13,18 @@ coverAlt: "Cover image for Bahar Aayi Bahar Aayi Zehra ke Ghar"
 published: true
 romanLyrics: |-
   Bahar aanay ko hai yun to jahan main hai hazar aayi
-  
   Magar aisi bahare be khizaan hai pehli bar aayi
   
   Bahar aayi Bahar aayi Bahar aayi Bahar aayi
-  
   Bahar is mah main Zehra kay ghar hay char bar aayi
   
-  Mohammad kay gharanay main Mohammad hi Mohammad hain
-  
+  Muhammad kay gharanay main Mohammad hi Mohammad hain
   Hai ik soorut jo hay surat badal kar bar bar aayi
   
   Zara unsay ye keh dijiey kay rahiyay hoshiyar aayi
-  
   Wo aayi daykhiyay sar par wo aayi Zulfiqar aayi
   
   Ali ka naam lay kar meinay kholi aankh marqad main
-  
   Madad Mawla ki meri qabar may qabl az fishar aayi
 ---
 
