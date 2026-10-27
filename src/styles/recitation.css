@@ -226,7 +226,7 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 .recite-sharing-policy { margin: .45rem 0 1rem; color: var(--secondary-text); }
 .recite-sharing-policy summary { min-height: var(--ui-target); padding: .5rem 0; cursor: pointer; font-weight: 600; }
 .recite-sharing-policy p { margin: 0 0 .5rem; }
-.recite-panel { scroll-margin-top: calc(var(--site-header-height, 4rem) + 2rem); }
+.recite-panel { scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 2rem); }
 
 /* A single step path with accessible current-step indication. */
 .recite-steps a[aria-current="step"] { border-color: var(--primary-text); background: var(--tag-background); }
