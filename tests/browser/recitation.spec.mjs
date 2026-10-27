@@ -410,3 +410,38 @@ test("mobile contextual toolbar expands without overlaying the programme navigat
   await expect(controls.locator(".recite-reader-toolbar")).toBeVisible();
   await controls.locator("[data-reading-focus-exit]").click();
 });
+
+test("mobile builder progressively reveals optional fields and highlights the active step @smoke", async ({ page }) => {
+  await page.setViewportSize({width:390,height:844});
+  await page.goto("/recite/");
+  const details = page.locator("#recite-optional-details");
+  await expect(details).not.toHaveAttribute("open", "");
+  await details.locator("summary").click();
+  await expect(details).toHaveAttribute("open", "");
+  await page.locator("#recite-occasion").fill("Majlis");
+  const share = page.locator('.recite-steps a[href="#recite-share-heading"]');
+  await share.click();
+  await expect(share).toHaveAttribute("aria-current", "step");
+  await expect(page.locator("#recite-publish")).toBeDisabled();
+});
+
+test("Roman-only recitation falls back explicitly to its original scan if text is absent @smoke", async ({ page }) => {
+  const id = "0123456789abcdef01234567";
+  await page.route("**/api/recitation-sets/" + id, (route) =>
+    route.fulfill({contentType:"application/json",body:JSON.stringify({
+      id, set:{version:1,title:"Roman fallback",occasion:"",description:"",
+        items:[{uid:"391002ab-16f4-4535-bf2a-8ca02cefc956",
+          kind:"lyric",id:"aa-asghar-bin-tere",sourceTitle:"Aa Asghar bin tere"}]}
+    })}));
+  await page.route("**/data/recitation-lyrics/aa-asghar-bin-tere.json", (route) =>
+    route.fulfill({contentType:"application/json",body:JSON.stringify({lyric:{
+      id:"aa-asghar-bin-tere",title:"Test text",urdu:"سلام",roman:"",
+      lang:"ur",direction:"rtl",cover:"/images/lyrics/sample.png"
+    }})}));
+  await page.goto("/recite/read/?set=" + id);
+  await expect(page.locator(".recite-work-no-roman")).toBeVisible();
+  await page.locator('[data-reading-column][value="urdu"]').uncheck();
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-mode","roman");
+  await expect(page.locator(".recite-work-no-roman .lyric-reading-image")).toBeVisible();
+  await expect(page.locator(".recite-work-no-roman .recite-empty-edition")).toContainText("Roman Urdu is not available");
+});

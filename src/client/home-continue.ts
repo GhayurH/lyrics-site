@@ -23,11 +23,11 @@ export function initHomeContinue(): void {
   if (recent && /^[a-z0-9-]+$/i.test(recent)) {
     links.push({ href: "/lyrics/" + encodeURIComponent(recent) + "/", title: "Recent kalam", detail: "Continue reading" });
   }
-  const draft = readDrafts().find((item) => item.set.items.length > 0 || item.set.title.trim());
+  const draft = readDrafts().find((item) => item.set.items.length > 0 || item.set.title?.trim());
   if (draft) {
     links.push({
       href: "/recite/?draft=" + encodeURIComponent(draft.id),
-      title: draft.set.title.trim() || "Untitled programme",
+      title: draft.set.title?.trim() || "Untitled programme",
       detail: "Continue arranging",
     });
   }
