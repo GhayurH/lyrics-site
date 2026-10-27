@@ -91,7 +91,14 @@ function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, la
   for (const ref of references) {
     const source = sources.get(ref.kalamId)?.basta;
     const stanza = source?.stanzas.find((s) => s.id === ref.stanzaId);
-    if (!source || !stanza) throw Error("Missing borrowed stanza");
+    if (!source || !stanza) {
+      const warning = node("p", "recite-missing-stanza",
+        "Stanza unavailable: " + ref.kalamId + " / " + ref.stanzaId +
+        ". It remains in the saved programme; no replacement has been made.");
+      warning.setAttribute("role", "status");
+      parent.append(warning);
+      continue;
+    }
     if (source.id !== item.id) {
       const attribution = node("p", "recite-stanza-source");
       attribution.append("Stanza " + stanza.number + " from ");
@@ -116,14 +123,13 @@ async function resolvedPoems(item: RecitationItem): Promise<{ poem: Poem; source
     if (!poem.basta || poem.basta.sectionRoman !== "Marsiye") throw Error("Invalid Marsiya arrangement");
     const borrowedIds = [...new Set(item.stanzaSequence.map((ref) => ref.kalamId))];
     for (const id of borrowedIds) {
-      const source = id === item.id ? poem : await fetchPoem("basta", id);
-      if (!source.basta || source.basta.sectionRoman !== "Marsiye")
-        throw Error("Borrowed source is not a verified Marsiya");
-      sources.set(id, source);
-    }
-    for (const ref of item.stanzaSequence) {
-      if (!sources.get(ref.kalamId)?.basta?.stanzas.some((s) => s.id === ref.stanzaId))
-        throw Error("Stanza unavailable: " + ref.stanzaId);
+      try {
+        const source = id === item.id ? poem : await fetchPoem("basta", id);
+        if (source.basta?.sectionRoman === "Marsiye") sources.set(id, source);
+      } catch {
+        // A retired borrowed source must not hide the remaining readable stanzas.
+        // Its reference remains in the set, shown as a missing-stanza warning.
+      }
     }
   }
   return { poem, sources };
@@ -242,7 +248,7 @@ export async function initRecitationReader(): Promise<void> {
     section.dataset.reciteIndex = String(index);
     section.append(node("p", "recite-work-placeholder", "Loading kalam " + (index + 1) + "…"));
     holder.append(section);
-    select.append(new Option((index + 1) + ". " + item.id.replace(/^[^-]+-/, ""), String(index)));
+    select.append(new Option((index + 1) + ". " + (item.sourceTitle || item.id), String(index)));
     return section;
   });
   let position = 0;
@@ -255,13 +261,19 @@ export async function initRecitationReader(): Promise<void> {
           renderWork(works[index], set.items[index], index, poem, sources);
           select.options[index].textContent = (index + 1) + ". " +
             (poem.alternateTitle || poem.title);
-        }).catch((e) => {
-          works[index].replaceChildren(node("p", "recite-work-placeholder",
-            (e as Error).message + " — "));
-          const link = node("a", "", "Open the source in the archive");
-          link.href = set.items[index].kind === "lyric" ?
-            "/lyrics/" + encodeURIComponent(set.items[index].id) + "/" : "/basta/";
-          works[index].firstElementChild?.append(link);
+        }).catch(() => {
+          const original = set.items[index];
+          const heading = node("h2", "", (index + 1) + ". " +
+            (original.sourceTitle || original.id));
+          const explanation = node("p", "recite-missing-stanza",
+            "This kalam is currently unavailable or awaiting source verification. " +
+            "Its position and reference are preserved; no other text has been substituted.");
+          explanation.setAttribute("role", "status");
+          const lookup = node("a", "", "Search the archive");
+          lookup.href = "/search/?q=" + encodeURIComponent(original.sourceTitle || original.id);
+          const wrapper = node("div", "recite-work-placeholder");
+          wrapper.append(heading, explanation, lookup);
+          works[index].replaceChildren(wrapper);
         });
       loading.set(index, promise);
     }
