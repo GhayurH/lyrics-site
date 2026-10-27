@@ -176,7 +176,7 @@ test("create local recitation programme and read standalone lyric @smoke", async
   await expect(page.locator(".recite-editions .lyric-reading-urdu")).toBeVisible();
 });
 
-test("local recitation ordering and duplication @smoke", async ({ page }) => {
+test("local recitation ordering and duplication", async ({ page }) => {
   await page.goto("/recite/");
   await page.locator("#recite-title").fill("Two kalams");
   await page.locator("#recite-source").selectOption("lyric");
@@ -241,7 +241,7 @@ test("borrow and reorder verified Marsiya stanzas @smoke", async ({ page }) => {
 });
 
 
-test("retired source remains in a programme with a clear warning @smoke", async ({ page }) => {
+test("retired source remains in a programme with a clear warning", async ({ page }) => {
   const id = "retired-draft-2026";
   const set = {
     version: 1, title: "Programme with retired source", occasion: "", description: "",
@@ -259,7 +259,7 @@ test("retired source remains in a programme with a clear warning @smoke", async 
   await expect(page.locator("#recite-reader-contents option")).toHaveCount(1);
 });
 
-test("missing borrowed stanza does not hide the original Marsiya @smoke", async ({ page }) => {
+test("missing borrowed stanza does not hide the original Marsiya", async ({ page }) => {
   const id = "missing-stanza-draft";
   const set = {
     version: 1, title: "Marsiya with unavailable borrowed stanza", occasion: "", description: "",
@@ -295,7 +295,7 @@ test("missing borrowed stanza does not hide the original Marsiya @smoke", async 
   await expect(page.locator(".recite-work-placeholder")).toHaveCount(0);
 });
 
-test("multi-page Basta Marsiya preserves six-verse framing and both scans @smoke", async ({ page }) => {
+test("multi-page Basta Marsiya preserves six-verse framing and both scans", async ({ page }) => {
   const id = "marsiya-two-page-draft";
   const set = {
     version: 1, title: "Two-page Marsiya", occasion: "", description: "",
@@ -381,14 +381,14 @@ test("organizer can permanently preserve, renew and delete published sets @smoke
   expect(deletes).toBe(1);
 });
 
-test("recitation programme navigation belongs to the shared contextual toolbar @smoke", async ({ page }) => {
+test("recitation programme navigation belongs to the shared contextual toolbar", async ({ page }) => {
   await page.goto("/recite/read/");
   const controls = page.locator("[data-reading-controls]");
   await expect(controls.locator(".recite-reader-toolbar")).toHaveCount(1);
   await expect(page.locator("[data-reading-root] .recite-reader-toolbar")).toHaveCount(0);
 });
 
-test("mobile contextual toolbar expands without overlaying the programme navigation @smoke", async ({ page }) => {
+test("mobile contextual toolbar expands without overlaying the programme navigation", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/recite/");
   await page.locator("#recite-title").fill("Responsive toolbar");
@@ -413,7 +413,7 @@ test("mobile contextual toolbar expands without overlaying the programme navigat
   await controls.locator("[data-reading-focus-exit]").click();
 });
 
-test("mobile builder progressively reveals optional fields and highlights the active step @smoke", async ({ page }) => {
+test("mobile builder progressively reveals optional fields and highlights the active step", async ({ page }) => {
   await page.setViewportSize({width:390,height:844});
   await page.goto("/recite/");
   const details = page.locator("#recite-optional-details");
@@ -448,7 +448,7 @@ test("Roman-only recitation falls back explicitly to its original scan if text i
   await expect(page.locator(".recite-work-no-roman .recite-empty-edition")).toContainText("Roman Urdu is not available");
 });
 
-test("the programme uses shared edition geometry and starts sequentially on mobile @smoke", async ({ page }) => {
+test("the programme uses shared edition geometry and starts sequentially on mobile", async ({ page }) => {
   const id = "visual-layout-draft";
   await page.addInitScript(({ id }) => {
     localStorage.setItem("kalam:recitation-drafts-v1", JSON.stringify([{
@@ -478,7 +478,7 @@ test("the programme uses shared edition geometry and starts sequentially on mobi
   expect(roman.x + roman.width).toBeLessThanOrEqual(urdu.x + 5);
 });
 
-test("sharing choices are disclosed as the programme becomes publishable @smoke", async ({ page }) => {
+test("sharing choices are disclosed as the programme becomes publishable", async ({ page }) => {
   await page.goto("/recite/");
   const options = page.locator("#recite-share-details");
   await expect(options).not.toHaveAttribute("open", "");
