@@ -226,6 +226,11 @@ export async function initRecitationReader(): Promise<void> {
     [set.occasion, set.description].filter(Boolean).join(" · ");
   dom<HTMLAnchorElement>("recite-reader-edit").href =
     local && draftId ? "/recite/?draft=" + encodeURIComponent(draftId) : "/recite/";
+  const copy = dom<HTMLAnchorElement>("recite-reader-copy");
+  const remoteId = new URLSearchParams(location.search).get("set");
+  copy.href = remoteId && /^[a-f0-9]{24}$/.test(remoteId)
+    ? "/recite/?set=" + remoteId : "/recite/?draft=" + encodeURIComponent(draftId || "");
+  copy.textContent = remoteId ? "Edit a copy of this set" : "Back to set builder";
   let mode = "continuous";
   try { if (localStorage.getItem(viewKey) === "sequential") mode = "sequential"; } catch {}
   const select = dom<HTMLSelectElement>("recite-reader-contents");
