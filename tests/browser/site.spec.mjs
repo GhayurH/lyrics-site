@@ -95,3 +95,46 @@ test("Basta landing offers a contextual resume link after reading", async ({ pag
   await expect(page.locator(".basta-home-resume")).toBeVisible();
   await expect(page.locator(".basta-home-resume")).toHaveAttribute("href", /\/basta\/138\//);
 });
+
+
+test("Basta landing prioritizes the saved reading position without duplicating entry buttons", async ({ page }) => {
+  await page.goto("/basta/");
+  await expect(page.locator(".basta-home-mode-card")).toHaveCount(2);
+  await expect(page.locator(".basta-home-resume-panel")).toBeHidden();
+  await page.goto("/basta/138/");
+  await page.goto("/basta/");
+  await expect(page.locator(".basta-home-resume-panel")).toBeVisible();
+  const resume = await page.locator(".basta-home-resume-panel").boundingBox();
+  const modes = await page.locator(".basta-home-mode-grid").boundingBox();
+  expect(resume.y + resume.height).toBeLessThan(modes.y);
+  await expect(page.locator(".basta-home-resume")).toContainText("page 138");
+});
+
+test("Basta page jump stays on one row on small screens", async ({ page }) => {
+  for (const width of [320, 342, 390, 430, 560]) {
+    await page.setViewportSize({ width, height: 844 });
+    await page.goto("/basta/");
+    const input = await page.locator("#basta-home-page-number").boundingBox();
+    const button = await page.locator(".basta-home-page-jump button").boundingBox();
+    expect(Math.abs(input.y - button.y)).toBeLessThan(2);
+    expect(input.x + input.width).toBeLessThanOrEqual(button.x);
+    await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+  }
+});
+
+test("Basta without JavaScript offers the index instead of a nonfunctional jump form", async ({ browser }) => {
+  const context = await browser.newContext({ javaScriptEnabled: false });
+  const page = await context.newPage();
+  await page.goto("/basta/");
+  await expect(page.locator(".basta-home-page-jump")).toBeHidden();
+  await expect(page.locator(".basta-home-nojs")).toBeVisible();
+  await expect(page.getByRole("link", { name: "Browse book index" })).toBeVisible();
+  await context.close();
+});
+
+test("the two landing pages use the first original Basta scan", async ({ page }) => {
+  await page.goto("/");
+  await expect(page.locator(".home-basta-preview")).toHaveAttribute("src", "/images/basta/original/001.png");
+  await page.goto("/basta/");
+  await expect(page.locator(".basta-home-scan img")).toHaveAttribute("src", "/images/basta/original/001.png");
+});

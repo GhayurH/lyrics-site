@@ -26,6 +26,20 @@ test("Basta landing exposes readers, book index, page jump and original PDF", ()
   assert.match(basta, /\/files\/basta\/basta\.pdf/);
 });
 
+test("both landing pages use the first original Basta scan", () => {
+  for (const page of [home, basta]) {
+    assert.match(page, /\/images\/basta\/original\/001\.png/);
+  }
+  assert.doesNotMatch(basta, /basta-home-book|Digital book archive/);
+  assert.doesNotMatch(home, /home-basta-emblem/);
+});
+
+test("Basta page jump has a usable no-JavaScript alternative", () => {
+  assert.match(basta, /data-basta-jump-form/);
+  assert.match(basta, /data-requires-js/);
+  assert.match(basta, /Browse book index/);
+});
+
 test("both landings preserve local Basta reading progress links", () => {
   for (const page of [home, basta]) {
     assert.match(page, /data-resume-basta[^>]+hidden/);
