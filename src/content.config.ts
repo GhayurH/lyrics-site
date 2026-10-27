@@ -12,6 +12,8 @@ const lyrics = defineCollection({
   schema: z.object({
     title: z.string(),
     alternateTitle: z.string().optional(),
+    // Keep this permanent ID when renaming or relocating a lyric Markdown file.
+    recitationId: z.string().regex(/^[\\p{L}\\p{N}_/-]{1,160}$/u).optional(),
     language: z.enum([
       "Urdu",
       "Roman Urdu",
