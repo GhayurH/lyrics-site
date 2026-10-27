@@ -114,6 +114,8 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         </div>
       </div>
 
+      <details class="lyric-metadata-disclosure">
+        <summary><strong>About this kalam</strong>{displayHaal && <span>{displayHaal}</span>}{data.poet && <span>· {data.poet}</span>}</summary>
       <dl class="lyric-details">
         <div>
           <dt>Language</dt>
@@ -185,7 +187,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
           )
         }
       </dl>
-
+      </details>
 
     </header>
 

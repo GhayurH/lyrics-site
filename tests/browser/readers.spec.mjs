@@ -19,6 +19,8 @@ test("two text editions are stacked in portrait and parallel in landscape", asyn
   await page.goto("/basta/138/");
   const urdu = page.locator(".basta-page-urdu");
   const roman = page.locator(".basta-page-roman");
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
   await expect(urdu).toBeVisible();
   await expect(roman).toBeVisible();
   let u = await urdu.boundingBox(), r = await roman.boundingBox();
@@ -33,6 +35,8 @@ test("two text editions are stacked in portrait and parallel in landscape", asyn
 test("edition preferences, Focus mode, and image enlargement work together", async ({ page }) => {
   await page.goto("/basta/138/");
   const image = page.locator(".basta-original-page");
+  await expect(image).toBeVisible();
+  await page.getByLabel("Image", { exact: true }).uncheck();
   await expect(image).toBeHidden();
   await page.getByLabel("Image", { exact: true }).check();
   await expect(image).toBeVisible();
@@ -60,6 +64,8 @@ test("continuous reader deep links load streamed content and preserve the curren
 test("unavailable Roman transcription shows a source scan rather than blank content @smoke", async ({ page }) => {
   await page.goto("/basta/read/#page-30");
   await expect(page.locator('[data-basta-page="30"]')).toBeAttached({ timeout: 20000 });
+  const options = page.locator("[data-reading-regular-toggle]");
+  if (await options.isVisible()) await options.click();
   await page.getByLabel("Urdu", { exact: true }).uncheck();
   const source = page.locator('[data-basta-page="30"] .basta-reader-original-image');
   const notice = page.locator('[data-basta-page="30"] .basta-edition-unavailable');
@@ -103,11 +109,12 @@ test("every visible poetry verse stays on one line and within its column at mobi
 test("compact index presents accessible entries at phone width", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/index/");
-  await expect(page.locator(".basta-index-mobile-list").first()).toBeVisible();
-  await expect(page.locator(".basta-index-table-wrap").first()).toBeHidden();
+  await expect(page.locator(".basta-parallel-index-urdu .basta-index-mobile-list").first()).toBeVisible();
+  await expect(page.locator(".basta-parallel-index-urdu .basta-index-table-wrap").first()).toBeHidden();
 });
 
 test("all text-edition combinations remain readable across themes and responsive widths", async ({ page }) => {
+  await page.emulateMedia({ colorScheme: "dark" });
   await page.setViewportSize({ width: 1300, height: 880 });
   await page.goto("/basta/138/");
   const choices = ["urdu", "roman", "image"];
@@ -175,6 +182,8 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
 test("parallel Basta keeps the shorter Roman edition fully visible and scrolls only Urdu @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/138/");
+  await page.locator('[data-reading-column][value="image"]').uncheck();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const roman = page.locator(".basta-page-roman");
   const urdu = page.locator(".basta-page-urdu");
   await expect(roman).toHaveAttribute("data-synced-active", "true");
@@ -219,6 +228,8 @@ test("stacked and single-column editions use only document scrolling @smoke", as
   await expect(urdu).not.toHaveAttribute("data-synced-scrollable", "true");
   expect(await urdu.evaluate((node) => node.style.height)).toBe("");
   await page.getByRole("button", { name: "Show reading options" }).click();
+  await page.getByLabel("Roman", { exact: true }).check();
+  await expect(roman).toBeVisible();
   await page.getByLabel("Roman", { exact: true }).uncheck();
   await expect(roman).toBeHidden();
   await expect(urdu).not.toHaveAttribute("data-synced-scrollable", "true");
@@ -260,7 +271,9 @@ test("resume uses within-page fractions in page-by-page and continuous routes", 
   await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight * 0.6));
   await expect.poll(() => page.evaluate(() => JSON.parse(localStorage.getItem("kalam:basta-position") || "{}").offset)).toBeGreaterThan(0.1);
   const saved = await page.evaluate(() => JSON.parse(localStorage.getItem("kalam:basta-position") || "{}"));
-  await page.goto("/");
+  // The Basta landing owns the within-page resume link; the homepage has
+  // a separate Continue-reading collection.
+  await page.goto("/basta/");
   const link = page.locator("[data-resume-basta]");
   await expect(link).toHaveAttribute("href", new RegExp(`/basta/138/\\?resume=`));
   await link.click();
@@ -271,6 +284,8 @@ test("resume uses within-page fractions in page-by-page and continuous routes", 
 test("mobile Basta index headings use separate full-width rows", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/index/");
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const urdu = page.locator(".basta-parallel-index-overall-headings .basta-parallel-index-urdu");
   const roman = page.locator(".basta-parallel-index-overall-headings .basta-parallel-index-roman");
   await expect(urdu).toBeVisible();
@@ -289,6 +304,8 @@ test("source link is visibly separated from the category back link", async ({ pa
 test("standalone lyrics use stacked columns on narrow screens and parallel columns when wide enough", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const urdu = page.locator(".lyric-reading-urdu");
   const roman = page.locator(".lyric-reading-roman");
   await expect(urdu).toBeVisible();
@@ -306,6 +323,8 @@ test("standalone lyrics use stacked columns on narrow screens and parallel colum
 test("continuous Basta editions respond to available width, including landscape @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const section = page.locator('[data-basta-page="138"]');
   await expect(section).toBeAttached({ timeout: 20000 });
   const urdu = section.locator(".basta-reader-urdu");
@@ -344,7 +363,9 @@ test("scan enlargement measures zoom relative to native image pixels", async ({ 
   await viewer.getByRole("button", { name: "200%" }).click();
   await expect(enlarged).toHaveAttribute("style", /width: 2px/);
   await viewer.getByRole("button", { name: "Fit" }).click();
-  await expect(enlarged).not.toHaveAttribute("style", /width: [12]px/);
+  await expect(viewer.locator('[data-scan-zoom="fit"]')).toHaveAttribute("aria-pressed", "true");
+  await expect(viewer.locator(".scan-viewer-canvas")).toHaveAttribute("data-zoom", "fit");
+  // The mocked image is literally one pixel, so "Fit" may also be 1px wide.
 });
 
 test("the Basta index does not scroll horizontally at mobile, tablet, or desktop sizes", async ({ page }) => {
@@ -369,6 +390,7 @@ test("parallel scans float below the reader toolbar, but stacked scans stay in f
 });
 
 test("standalone scans share the same floating-column policy @smoke", async ({ page }) => {
+  await page.emulateMedia({ colorScheme: "dark" });
   await page.setViewportSize({ width: 1480, height: 900 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const option = page.locator('[data-reading-column][value="image"]');

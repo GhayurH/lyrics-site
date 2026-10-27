@@ -4,6 +4,7 @@ import { readFile } from "node:fs/promises";
 test("offline programme export contains complete text, reciter assignments and notes @smoke", async ({ page }) => {
   await page.goto("/recite/");
   await page.locator("#recite-title").fill("Offline printable programme");
+  await page.locator("#recite-optional-details summary").click();
   await page.locator("#recite-description").fill("Organizers' programme notes");
   await page.locator("#recite-source").selectOption("lyric");
   await expect(page.locator("#recite-results li button:not([disabled])").first()).toBeVisible();
@@ -13,6 +14,7 @@ test("offline programme export contains complete text, reciter assignments and n
   await page.locator(".recite-inline-note input").nth(1).fill("Read after opening salaam");
   await page.locator(".recite-inline-note input").nth(1).blur();
   await page.locator("#recite-open-reader").click();
+  await page.locator(".recite-reader-exports summary").click();
   const pending = page.waitForEvent("download");
   await page.locator("#recite-download-offline").click();
   const download = await pending;
@@ -444,4 +446,53 @@ test("Roman-only recitation falls back explicitly to its original scan if text i
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-mode","roman");
   await expect(page.locator(".recite-work-no-roman .lyric-reading-image")).toBeVisible();
   await expect(page.locator(".recite-work-no-roman .recite-empty-edition")).toContainText("Roman Urdu is not available");
+});
+
+test("the programme uses shared edition geometry and starts sequentially on mobile @smoke", async ({ page }) => {
+  const id = "visual-layout-draft";
+  await page.addInitScript(({ id }) => {
+    localStorage.setItem("kalam:recitation-drafts-v1", JSON.stringify([{
+      id, set: { version: 1, title: "Visual layout", occasion: "", description: "",
+        items: [{ uid: "391002ab-16f4-4535-bf2a-8ca02cefc956",
+          kind: "lyric", id: "aa-asghar-bin-tere", sourceTitle: "Aa Asghar" }] }
+    }]));
+  }, { id });
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/recite/read/?draft=" + id);
+  const root = page.locator(".recite-reading-root");
+  const grid = page.locator(".recite-editions").first();
+  await expect(root).toHaveAttribute("data-reading-columns", "urdu");
+  await expect(page.locator("#recite-reader-view")).toHaveValue("sequential");
+  await expect(grid).toHaveAttribute("data-reading-mode", "urdu");
+  await expect(grid.locator(".lyric-reading-urdu")).toBeVisible();
+  await expect(grid.locator(".lyric-reading-roman")).toBeHidden();
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
+  await expect(grid).toHaveAttribute("data-reading-columns", "urdu roman");
+  await page.setViewportSize({ width: 1100, height: 900 });
+  const [roman, urdu] = await Promise.all([
+    grid.locator(".lyric-reading-roman").boundingBox(),
+    grid.locator(".lyric-reading-urdu").boundingBox(),
+  ]);
+  expect(Math.abs(roman.y - urdu.y)).toBeLessThan(25);
+  expect(roman.x + roman.width).toBeLessThanOrEqual(urdu.x + 5);
+});
+
+test("sharing choices are disclosed as the programme becomes publishable @smoke", async ({ page }) => {
+  await page.goto("/recite/");
+  const options = page.locator("#recite-share-details");
+  await expect(options).not.toHaveAttribute("open", "");
+  await expect(page.locator("#recite-publish")).toBeVisible();
+  await expect(page.locator("#recite-publish")).toBeDisabled();
+  await page.locator("#recite-title").fill("Read for majlis");
+  await expect(options).not.toHaveAttribute("open", "");
+  await page.locator("#recite-source").selectOption("lyric");
+  await page.locator("#recite-results li button:not([disabled])").first().click();
+  await expect(options).toHaveAttribute("open", "");
+  await expect(page.locator("#recite-permanent")).toBeVisible();
+  await expect(page.locator(".recite-steps [data-recite-step='share']")).toHaveAttribute("data-stage-ready", "true");
+  await options.locator(":scope > summary").click();
+  await expect(options).not.toHaveAttribute("open", "");
+  await page.locator("#recite-title").fill("Read for majlis — updated");
+  await expect(options).not.toHaveAttribute("open", "");
 });

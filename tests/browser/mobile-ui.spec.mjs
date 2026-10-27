@@ -32,6 +32,7 @@ test("mobile header occupies one line with accessible menu and icon theme toggle
 });
 
 test("theme icon switches accessibly without placing text in the header", async ({ page }) => {
+  await page.emulateMedia({ colorScheme: "dark" });
   await page.setViewportSize({ width: 342, height: 844 });
   await page.goto("/");
   const toggle = page.locator("#theme-toggle");
@@ -94,6 +95,8 @@ test("Basta page-by-page fills the full width of each stacked edition in mobile 
     const columns = page.locator(".basta-parallel-kalams-page");
     const urdu = page.locator(".basta-page-urdu");
     const roman = page.locator(".basta-page-roman");
+    await page.locator("[data-reading-regular-toggle]").click();
+    await page.locator('[data-reading-column][value="roman"]').check();
     await expect(urdu).toBeVisible();
     await expect(roman).toBeVisible();
     await expect.poll(async () => {
@@ -135,4 +138,31 @@ test("Basta mobile portrait remains full width if the scan is also selected", as
   expect(original.width / panel.width).toBeGreaterThan(.9);
   expect(text.width / panel.width).toBeGreaterThan(.9);
   expect(text.y).toBeGreaterThan(original.y);
+});
+
+test("mobile readers start with an uncluttered Urdu view while desktop Basta starts with source plus Urdu @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  for (const url of ["/lyrics/aa-asghar-bin-tere/", "/basta/138/", "/basta/read/", "/basta/index/"]) {
+    await page.goto(url);
+    await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", "urdu");
+    await expect(page.locator("[data-reading-regular-label]")).toContainText("View: Urdu");
+  }
+  await page.setViewportSize({ width: 1280, height: 900 });
+  await page.goto("/basta/138/");
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", "image urdu");
+  await expect(page.locator(".basta-original-page")).toBeVisible();
+  await expect(page.locator(".basta-page-roman")).toBeHidden();
+});
+
+test("appearance follows the device until the reader chooses otherwise @smoke", async ({ page }) => {
+  await page.emulateMedia({ colorScheme: "light" });
+  await page.goto("/");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
+  await page.locator("#theme-toggle").click();
+  await page.emulateMedia({ colorScheme: "dark" });
+  await page.reload();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
+  await page.emulateMedia({ colorScheme: "light" });
+  await page.reload();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });

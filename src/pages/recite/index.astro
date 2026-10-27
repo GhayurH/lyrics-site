@@ -7,13 +7,13 @@ import "../../styles/recitation.css";
     <header class="page-header-simple">
       <p class="eyebrow">For reciters &amp; anjumans</p>
       <h1>Recitation Sets</h1>
-      <p>Arrange kalams for your programme, customize numbered Marsiya stanzas, and share one link with the entire group.</p>
+      <p>Build an ordered set of kalams for your majlis, then share it with your group.</p>
     </header>
     <p data-requires-js>Building recitation sets requires JavaScript. The <a href="/search/">public poetry archive</a> remains available without it.</p>
     <nav class="recite-steps" aria-label="Programme workflow">
-      <a href="#recite-details-heading"><span aria-hidden="true">1</span> Plan</a>
-      <a href="#recite-find-heading"><span aria-hidden="true">2</span> Find kalam</a>
-      <a href="#recite-share-heading"><span aria-hidden="true">3</span> Share</a>
+      <a href="#recite-details-heading" data-recite-step="plan"><span aria-hidden="true">1</span> Plan</a>
+      <a href="#recite-find-heading" data-recite-step="find"><span aria-hidden="true">2</span> Find kalam</a>
+      <a href="#recite-share-heading" data-recite-step="share"><span aria-hidden="true">3</span> Share</a>
     </nav>
     <p class="recite-message" id="recite-message" role="status" aria-live="polite"></p>
     <div class="recite-topbar">
@@ -35,7 +35,7 @@ import "../../styles/recitation.css";
             <label>Description <textarea id="recite-description" rows="2" maxlength="1000" placeholder="Optional programme notes"></textarea></label>
           </div>
         </details>
-        <p class="recite-hint">Changes to a draft are saved on this device. Publishing is a separate action.</p>
+        <p class="recite-hint">Drafts stay on this device until you publish.</p>
       </section>
       <section class="recite-panel recite-programme" aria-labelledby="recite-programme-heading">
         <div class="recite-section-heading">
@@ -81,7 +81,10 @@ import "../../styles/recitation.css";
     </section>
     <section class="recite-panel recite-share" aria-labelledby="recite-share-heading">
       <h2 id="recite-share-heading">Share your programme</h2>
-      <p class="recite-hint">Create a link that others can use to read your programme. They can view it, but only you can make changes using your private organizer link.</p>
+      <details class="recite-share-details" id="recite-share-details">
+        <summary>Sharing options <span class="recite-optional-caption">(link and expiry)</span></summary>
+        <div class="recite-share-details-body">
+          <p class="recite-hint">Create a link that others can use to read your programme. They can view it, but only you can make changes using your private organizer link.</p>
       <label class="recite-retention-option">
         <input type="checkbox" id="recite-permanent" />
         Keep this programme available until I delete it
@@ -89,6 +92,8 @@ import "../../styles/recitation.css";
       <details class="recite-sharing-policy">
         <summary>How long will my programme link work?</summary>
         <p class="recite-hint">Normally, shared programmes expire two years after their last update. Select the option above to keep yours available without an expiry date. Links created on test versions of the site expire after 30 days.</p>
+      </details>
+        </div>
       </details>
       <div class="recite-actions">
         <span class="recite-publish-control" id="recite-publish-control" role="group" tabindex="0" aria-describedby="recite-publish-help" data-unavailable="true">

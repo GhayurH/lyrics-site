@@ -16,6 +16,13 @@ export function selectedEditions(saved: unknown, available: Edition[], imageOnly
   return textEditions.length ? textEditions : [...available];
 }
 
+/** Choose a legible first visit without changing a returning reader's saved choices. */
+export function defaultEditionsForReader(kind: string, mobile: boolean): Edition[] {
+  if (mobile) return ["urdu"];
+  if (kind === "basta-page") return ["image", "urdu"];
+  return ["urdu", "roman"];
+}
+
 /** Maintain compatible single-edition selectors in the existing reader CSS. */
 export function readingModeFromEditions(selected: Edition[]): "parallel" | Edition {
   return selected.length === 1 ? selected[0] : "parallel";

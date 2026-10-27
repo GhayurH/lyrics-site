@@ -316,13 +316,13 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 /* Specificity exceeds per-reader line display rules without affecting poetry fitting. */
 .poetry-stanza-number {
   display: flex;
-  inline-size: 2.15em;
-  block-size: 2.15em;
+  inline-size: 2em;
+  block-size: 2em;
   min-inline-size: 0;
   padding: 0;
-  margin-block: 0.7em 0.5em;
+  margin-block: 0.65em 0.4em;
   margin-inline: auto;
-  border: 1px solid var(--secondary-text);
+  border: 1px solid var(--border-colour);
   border-radius: 50%;
   align-items: center;
   justify-content: center;
@@ -386,3 +386,9 @@ html[data-js-available="true"] [data-requires-js] { display: none !important; }
 @media (prefers-reduced-motion: reduce) {
   :where(.home-collection-card,.home-type-card,.lyric-card-link,.recite-steps a) { transition: none; }
 }
+
+/* Archive discovery uses consistent rows, rather than irregularly sized tiles. */
+.lyric-list { display: grid; grid-template-columns: repeat(auto-fill,minmax(min(100%,22rem),1fr)); align-items: stretch; }
+.lyric-card { width: 100%; max-width: none; }
+.lyric-card-link { width: 100%; height: 100%; }
+@media (max-width: 700px) { .lyric-list { grid-template-columns: minmax(0,1fr); } }

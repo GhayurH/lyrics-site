@@ -88,7 +88,7 @@
 }
 
 .basta-reader-page-number {
-  margin: 1.25rem 0 1rem;
+  margin: 1rem 0 .75rem;
   color: var(--secondary-text);
   font-family: Inter, system-ui, sans-serif;
   font-size: 0.9rem;
@@ -98,7 +98,7 @@
 }
 
 .basta-reader-page-break {
-  margin: 0 0 2rem;
+  margin: 0 0 1.65rem;
   border: 0;
   border-top: 1px solid var(--border-colour);
 }
@@ -417,3 +417,7 @@
   grid-template-columns: minmax(0, 48rem);
   justify-content: center;
 }
+
+/* Clear but subdued printed-page boundaries. */
+.basta-reader-page-break { border-top-color: var(--border-colour); }
+.basta-reader-page-number { color: var(--secondary-text); letter-spacing: .03em; }

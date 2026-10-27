@@ -258,3 +258,112 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 }
 
 @container reader-shell (max-width: 40rem) { .recite-editions .lyric-reading-roman { border-right: 0; border-top: 1px solid var(--border-colour); } }
+
+/* Recitation poems now use the shared edition grid and responsive breakpoints. */
+.recite-editions { width: 100%; overflow: clip; }
+.recite-editions .lyric-reading-roman { border-inline-end: 1px solid var(--border-colour); }
+.recite-reader-toolbar :is(#recite-previous,#recite-next) { font-weight: 700; }
+.recite-reader-progress { font-variant-numeric: tabular-nums; }
+/* Do not duplicate a missing-Roman warning beside usable Urdu verses. */
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-roman .lyric-reading-roman { display: none !important; }
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-roman .recite-editions {
+  grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr);
+}
+.recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="image"] .recite-work-no-roman .recite-editions {
+  grid-template-areas: "image urdu"; grid-template-columns: minmax(0,.8fr) minmax(0,1.5fr);
+}
+/* A programme may contain a mixture of original scans and text-only entries. */
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-image .lyric-reading-image,
+.recite-reading-root[data-reading-columns~="roman"] .recite-work-no-image .lyric-reading-image { display: none !important; }
+.recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="roman"] .recite-work-no-image .recite-editions {
+  grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr));
+}
+.recite-reading-root[data-reading-mode="urdu"] .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root[data-reading-mode="roman"] .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
+@container reader-shell (max-width: 46rem) {
+  .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="image"] .recite-work-no-roman .recite-editions {
+    grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr);
+  }
+  .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="roman"] .recite-work-no-image .recite-editions {
+    grid-template-areas: "urdu" "roman"; grid-template-columns: minmax(0,1fr);
+  }
+}
+/* A new programme is a prompt to add kalam, not an imposing empty panel. */
+.recite-programme[data-empty="true"] { padding-block: .85rem; }
+.recite-programme[data-empty="true"] .recite-list,
+.recite-programme[data-empty="true"] > .recite-hint:last-child { display: none; }
+/* Retention and expiry decisions become relevant only when publication is possible. */
+.recite-share[data-ready="false"] .recite-retention-option,
+.recite-share[data-ready="false"] .recite-sharing-policy { display: none; }
+.recite-share[data-ready="false"] { padding-block: .85rem; }
+
+/* When a programme item lacks a scan, a selected text edition owns the width. */
+.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
+
+/* Export and printing actions remain discoverable without competing with
+   the programme's primary Previous / Current / Next navigation. */
+.recite-reader-exports { margin: 0 0 1rem; }
+.recite-reader-exports summary {
+  width: fit-content; min-height: var(--ui-target); cursor: pointer;
+  border: 1px solid var(--border-colour); border-radius: var(--ui-radius);
+  background: var(--surface-background); padding: .5rem .8rem;
+  font-size: .85rem; font-weight: 650;
+}
+.recite-reader-exports .recite-reader-tools { margin-top: .65rem; }
+html[data-reading-focus="true"] .recite-reader-exports { display: none; }
+
+/* Publication is the final step: retain a visible disabled Publish action for
+   explanation, while its advanced link/expiry choices stay in a disclosure
+   until the draft is ready. Navigation can reveal them at any point. */
+.recite-share-details { margin: .45rem 0 .7rem; }
+.recite-share-details > summary {
+  display: list-item; width: fit-content; min-height: var(--ui-target);
+  cursor: pointer; padding: .55rem .15rem; font-size: .88rem; font-weight: 700;
+}
+.recite-share-details-body { padding: .15rem 0 .55rem; max-width: 53rem; }
+.recite-share-details .recite-sharing-policy { margin-bottom: .35rem; }
+.recite-share[data-ready="false"] > #recite-expiration { display: none; }
+.recite-share[data-ready="false"] { background: transparent; }
+.recite-steps a[data-stage-ready="false"]:not([aria-current="step"]) {
+  color: var(--secondary-text); border-style: dashed;
+}
+.recite-steps a[data-stage-ready="true"] { text-decoration-thickness: from-font; }
+.recite-steps a:focus-visible, .recite-share-details > summary:focus-visible {
+  outline: var(--focus-ring); outline-offset: 3px;
+}
+
+/* A programme item is a single reading surface, not two nested cards.
+   Keep verse geometry shared with standalone and Basta readers. */
+.recite-work .recite-editions { border: 0; border-radius: 0; }
+.recite-work-header { padding: .65rem clamp(.75rem,1.8vw,1.15rem); }
+.recite-work-header h2 { font-size: clamp(1.05rem,1.8vw,1.25rem); line-height: 1.8; }
+.recite-work-note { padding-inline: clamp(.75rem,1.8vw,1.15rem); font-size: .85rem; }
+.recite-works { gap: clamp(1rem,2vw,1.5rem); }
+/* Roman and Urdu need comparable internal gutters, not two bulky columns. */
+.recite-editions > .lyric-reading-panel {
+  padding-inline: clamp(.7rem,1.9vw,1.4rem);
+}
+@media (max-width: 700px) {
+  .recite-editions > .lyric-reading-panel { padding-inline: clamp(.55rem,2.2vw,.85rem); }
+  .recite-work-header { padding-block: .45rem; }
+}
+
+/* A short initial catalogue leaves room for the actual programme order. */
+.recite-results { align-items: stretch; }
+.recite-results li { padding-block: .55rem; }
+.recite-results li strong { line-height: 1.5; }
+.recite-find > .recite-hint { max-width: 62ch; }
+
+/* In an empty programme, don't stretch a mostly blank order card to match
+   the title/details panel. Preserve natural height once items are added. */
+.recite-programme[data-empty="true"] { align-self: start; min-height: 0; }
+.recite-steps { margin-bottom: .85rem; }
+.recite-app > .page-header-simple { margin-bottom: 1.1rem; }
+.recite-app > .page-header-simple > p:last-child {
+  max-width: 58ch; line-height: 1.5;
+}
+@media (max-width: 700px) {
+  .recite-steps { margin-bottom: .65rem; }
+  .recite-app > .page-header-simple { margin-bottom: .85rem; }
+}

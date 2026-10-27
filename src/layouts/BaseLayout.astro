@@ -46,7 +46,8 @@ const aboutActive = path.startsWith("/about/");
     <!-- Set the saved theme before first paint to avoid a light/dark flash. -->
     <script is:inline>
       (() => {
-        let theme = "dark";
+        // Follow device appearance on first visit; manual selections take priority.
+        let theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
         try {
           const savedTheme = localStorage.getItem("theme");
           if (savedTheme === "light" || savedTheme === "dark") theme = savedTheme;

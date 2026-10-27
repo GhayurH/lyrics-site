@@ -47,3 +47,7 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 /* Search shares the same control scale and focus treatment as other tools. */
 .search-filter-disclosure, .search-more-filters { border-radius: var(--ui-panel-radius); }
 .search-filter-disclosure > summary, .search-more-filters > summary { min-height: var(--ui-target); }
+
+.search-header { margin-bottom: 1.2rem; }
+.search-results-shell { margin-top: 1.5rem; }
+@media (max-width: 700px) { .search-header { margin-bottom: .8rem; } }
