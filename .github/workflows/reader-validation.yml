@@ -20,6 +20,8 @@ jobs:
           node-version: '22'
           cache: npm
       - run: npm ci
+      # Catalog verification is informative until every exceptional printed-page boundary is reviewed.
+      - run: npm run basta:kalams:audit
       # The prebuild hook already runs npm test; do not run the suite twice.
       - run: npm run build
       - name: Verify deployment asset redirects
