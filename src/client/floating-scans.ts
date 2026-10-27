@@ -14,7 +14,7 @@ export function initFloatingScans(): void {
     return rect.bottom > 0 && rect.top < innerHeight ? rect.bottom : 0;
   };
   const updateClearance = () => {
-    const next = Math.max(0, bottom(document.querySelector(".site-header")), bottom(controls)) + 8;
+    const next = Math.max(0, bottom(document.querySelector<HTMLElement>(".site-header")), bottom(controls)) + 8;
     if (Math.abs(next - clearance) >= 1) {
       clearance = next;
       root.style.setProperty("--reader-scan-clearance", next + "px");

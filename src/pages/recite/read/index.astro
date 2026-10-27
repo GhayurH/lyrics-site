@@ -21,24 +21,8 @@ import "../../../styles/recitation.css";
       <button type="button" id="recite-print">Print / Save as PDF</button>
       <p id="recite-export-status" class="recite-hint" role="status" aria-live="polite"></p>
     </div>
-    <ReadingControls ariaLabel="Recitation reading options" modeGroupLabel="Show editions" showModes hasImage />
+    <ReadingControls ariaLabel="Recitation reading options" modeGroupLabel="Show editions" showModes hasImage recitationNavigation />
     <div id="recite-reading-root" class="recite-reading-root" data-reading-root data-reader-kind="recitation" data-has-roman="true" data-reading-mode="parallel" data-reading-columns="urdu roman" data-line-spacing="default">
-      <nav class="recite-reader-toolbar" aria-label="Programme navigation">
-        <button type="button" id="recite-previous">← Previous</button>
-        <label class="recite-reader-progress" for="recite-reader-contents">Kalam <span id="recite-position">—</span></label>
-        <select id="recite-reader-contents" aria-label="Jump to a kalam"></select>
-        <button type="button" id="recite-next">Next →</button>
-        <label id="recite-live-label" class="recite-reader-live-label" hidden>
-          <input type="checkbox" id="recite-follow-live" /> Follow organizer live
-        </label>
-        <span id="recite-live-status" class="recite-hint" role="status" aria-live="polite"></span>
-        <label class="recite-reader-view-label" for="recite-reader-view">View
-          <select id="recite-reader-view">
-            <option value="continuous">Continuous</option>
-            <option value="sequential">One at a time</option>
-          </select>
-        </label>
-      </nav>
       <div id="recite-works" class="recite-works" aria-live="off"></div>
     </div>
   </article>
