@@ -104,7 +104,7 @@ html, body { background: var(--site-background); color: var(--primary-text); }
 
 .section-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
 .eyebrow { margin: 0 0 0.45rem; color: var(--secondary-text); font-size: 0.78rem; font-weight: 800; letter-spacing: 0.09em; text-transform: uppercase; }
-.page-header-simple { max-width: var(--content-heading); margin-bottom: 2.5rem; }
+.page-header-simple { max-width: var(--content-intro); margin-bottom: 2.5rem; }
 .page-header-simple h1 { margin: 0 0 0.7rem; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; }
 .page-header-simple > p:last-child { color: var(--secondary-text); }
 .back-link { display: inline-block; margin-bottom: 2rem; }
