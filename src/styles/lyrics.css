@@ -20,7 +20,7 @@
   height: auto;
   max-width: var(--reading-single-width);
   margin: 2rem auto;
-  border-radius: 0.75rem;
+  border-radius: var(--ui-radius-card);
   object-fit: contain;
   /* Unknown cover ratios get a stable pre-load fallback, then use their natural ratio. */
   aspect-ratio: auto 3 / 4;
