@@ -140,3 +140,36 @@ test("missing borrowed stanza does not hide the original Marsiya @smoke", async 
     "basta-marsiye-002 / stanza-003");
   await expect(page.locator(".recite-work-placeholder")).toHaveCount(0);
 });
+
+test("multi-page Basta Marsiya preserves six-verse framing and both scans @smoke", async ({ page }) => {
+  const id = "marsiya-two-page-draft";
+  const set = {
+    version: 1, title: "Two-page Marsiya", occasion: "", description: "",
+    items: [{ uid: "b3ea7be2-8963-4f89-9ab1-4a0a4a22b211",
+      kind: "basta", id: "basta-marsiye-117", sourceTitle: "Baba ko rote rote" }],
+  };
+  await page.addInitScript(({ entry }) => {
+    localStorage.setItem("kalam:recitation-drafts-v1", JSON.stringify([entry]));
+  }, { entry: { id, set } });
+  await page.goto("/recite/read/?draft=" + id);
+  await expect(page.locator(".recite-work-header h2")).toBeVisible();
+  const scans = page.locator(".recite-work .lyric-reading-image img");
+  await expect(scans).toHaveCount(2);
+  await expect(scans.nth(0)).toHaveAttribute("src", /284\\.png$/);
+  await expect(scans.nth(1)).toHaveAttribute("src", /285\\.png$/);
+  await expect(page.locator(".recite-scan-caption")).toHaveText(["Basta page 284", "Basta page 285"]);
+
+  // The continuation on page 285 starts with stanza 7; it must not be
+  // merged into the closing couplet of stanza 6 at the page break.
+  for (const language of ["urdu", "roman"]) {
+    const edition = page.locator(".lyric-reading-" + language);
+    const numbered = edition.locator(".basta-kalam-text")
+      .filter({ has: edition.locator(".poetry-stanza-number") });
+    await expect(numbered).toHaveCount(7);
+    for (const i of [5, 6]) {
+      await expect(numbered.nth(i).locator(".basta-verse-reverse-indent")).toHaveCount(4);
+      await expect(numbered.nth(i).locator(".basta-six-closing-start")).toHaveCount(1);
+      await expect(numbered.nth(i).locator(".basta-six-closing-end")).toHaveCount(1);
+    }
+  }
+});
