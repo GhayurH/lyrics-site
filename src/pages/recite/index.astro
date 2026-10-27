@@ -13,9 +13,11 @@ import "../../styles/recitation.css";
     <p class="recite-message" id="recite-message" role="status" aria-live="polite"></p>
     <div class="recite-topbar">
       <label for="recite-drafts">Your sets <select id="recite-drafts" aria-label="Choose a locally saved set"></select></label>
-      <button type="button" id="recite-new" class="button button-secondary">New set</button>
-      <button type="button" id="recite-duplicate" class="button button-secondary">Duplicate</button>
-      <button type="button" id="recite-delete" class="button button-secondary">Delete local copy</button>
+      <div class="recite-topbar-actions" role="group" aria-label="Manage your sets">
+        <button type="button" id="recite-new" class="button button-secondary">New set</button>
+        <button type="button" id="recite-duplicate" class="button button-secondary" disabled>Duplicate</button>
+        <button type="button" id="recite-delete" class="button button-secondary" disabled>Delete local copy</button>
+      </div>
     </div>
     <div class="recite-builder">
       <section class="recite-panel recite-details" aria-labelledby="recite-details-heading">
@@ -69,26 +71,29 @@ import "../../styles/recitation.css";
     </section>
     <section class="recite-panel recite-share" aria-labelledby="recite-share-heading">
       <h2 id="recite-share-heading">Share your programme</h2>
-      <p class="recite-hint">Publishing stores the programme order and stanza references in Cloudflare D1. Poetry text remains in the archive. Public links are read-only.</p>
+      <p class="recite-hint">Create a link that others can use to read your programme. They can view it, but only you can make changes using your private organizer link.</p>
       <label class="recite-retention-option">
         <input type="checkbox" id="recite-permanent" />
-        Preserve this published programme permanently
+        Keep this programme available until I delete it
       </label>
-      <p class="recite-hint">Otherwise, production links expire 24 months after the last publication or edit. Updating renews the period. Preview/test links expire after 30 days regardless of this setting.</p>
+      <p class="recite-hint">Normally, shared programmes expire two years after their last update. Select this option to keep yours available without an expiry date. Links created on test versions of the site expire after 30 days.</p>
       <div class="recite-actions">
-        <button id="recite-publish" class="button" type="button">Publish set</button>
+        <span class="recite-publish-control" id="recite-publish-control" role="group" tabindex="0" aria-describedby="recite-publish-help" data-unavailable="true">
+          <button id="recite-publish" class="button" type="button" disabled aria-describedby="recite-publish-help">Publish set</button>
+        </span>
         <span class="recite-hint" id="recite-publish-state"></span>
       </div>
+      <p id="recite-publish-help" class="recite-hint" role="status" aria-live="polite"></p>
       <p id="recite-expiration" class="recite-hint" aria-live="polite"></p>
       <div id="recite-shared-links" class="recite-shared-links" hidden>
-        <label>Public recitation link <input id="recite-public-url" type="text" readonly /></label>
-        <button id="recite-copy-public" class="button button-secondary" type="button">Copy public link</button>
-        <label>Private organizer edit link <input id="recite-edit-url" type="text" readonly /></label>
-        <button id="recite-copy-edit" class="button button-secondary" type="button">Copy private edit link</button>
-        <p class="recite-hint">Keep the private edit link secure. Anyone with it can change or delete the published programme. Links stay the same after updates.</p>
+        <label>Link to share with your group <input id="recite-public-url" type="text" readonly /></label>
+        <button id="recite-copy-public" class="button button-secondary" type="button">Copy sharing link</button>
+        <label>Your private organizer link <input id="recite-edit-url" type="text" readonly /></label>
+        <button id="recite-copy-edit" class="button button-secondary" type="button">Copy organizer link</button>
+        <p class="recite-hint">Keep your organizer link private. Anyone who has it can change or delete your programme. Your sharing link stays the same when you make updates.</p>
         <section id="recite-live-controls" class="recite-live-controls" aria-label="Organizer live navigation" hidden>
-          <h3>Live programme navigation</h3>
-          <p class="recite-hint">Optional: participants can choose “Follow organizer live” in the shared reader. Only this private organizer link can move their current kalam.</p>
+          <h3>Guide the programme live</h3>
+          <p class="recite-hint">During a programme, move everyone who has chosen “Follow organizer live” to the next kalam. Each person can choose whether to follow.</p>
           <div class="recite-actions">
             <button type="button" id="recite-live-prev">← Previous</button>
             <span id="recite-live-position"></span>
@@ -98,7 +103,7 @@ import "../../styles/recitation.css";
           </div>
           <p id="recite-live-message" class="recite-hint" role="status" aria-live="polite"></p>
         </section>
-        <button type="button" id="recite-delete-published" class="button button-danger" hidden>Delete published set permanently</button>
+        <button type="button" id="recite-delete-published" class="button button-danger" hidden>Delete shared programme</button>
       </div>
     </section>
   </article>

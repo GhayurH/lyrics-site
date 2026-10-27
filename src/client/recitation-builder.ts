@@ -107,7 +107,16 @@ export async function initRecitationBuilder(): Promise<void> {
     render();
   }
   function updateLinks() {
-    const complete = draft.set.title.trim() && draft.set.items.length;
+    const hasTitle = !!draft.set.title.trim();
+    const hasKalams = draft.set.items.length > 0;
+    const complete = hasTitle && hasKalams;
+    // A fresh blank draft already exists; avoid creating or copying empty
+    // entries that all appear identical in the set picker.
+    const hasDraftContent = hasTitle || hasKalams ||
+      !!draft.set.occasion.trim() || !!draft.set.description.trim();
+    elm<HTMLButtonElement>("recite-new").disabled = !hasDraftContent;
+    elm<HTMLButtonElement>("recite-duplicate").disabled = !hasKalams;
+    elm<HTMLButtonElement>("recite-delete").disabled = !hasKalams;
     const read = elm<HTMLAnchorElement>("recite-open-reader");
     read.href = complete ? readerUrl(draft) : "/recite/";
     read.setAttribute("aria-disabled", String(!complete));
@@ -115,20 +124,30 @@ export async function initRecitationBuilder(): Promise<void> {
     const publish = elm<HTMLButtonElement>("recite-publish");
     publish.disabled = !complete;
     publish.textContent = draft.remoteId && draft.editToken ? "Update shared set" : "Publish set";
+    const reason = !hasTitle && !hasKalams
+      ? "Give your set a title and add at least one kalam to publish."
+      : !hasTitle ? "Give your set a title to publish."
+      : !hasKalams ? "Add at least one kalam to publish." : "";
+    const publishWrapper = elm<HTMLElement>("recite-publish-control");
+    publishWrapper.dataset.unavailable = String(!complete);
+    publishWrapper.dataset.reason = reason;
+    publishWrapper.tabIndex = complete ? -1 : 0;
+    elm<HTMLElement>("recite-publish-help").textContent = reason;
     const state = elm<HTMLElement>("recite-publish-state");
     state.textContent = draft.remoteId
       ? draft.editToken
-        ? draft.publishedSnapshot === JSON.stringify(draft.set) ? "Published · Up to date" : "Unpublished changes on this device"
-        : "Read-only copy · Publishing creates a new link"
-      : "Not yet published";
+        ? draft.publishedSnapshot === JSON.stringify(draft.set) ? "Shared · Up to date" : "You have changes to share"
+        : "You can publish your own copy"
+      : "Not shared yet";
     const expiry = elm<HTMLElement>("recite-expiration");
     const published = draft.remoteId && draft.publishedSnapshot === JSON.stringify(draft.set);
-    expiry.textContent = !draft.remoteId ? "This draft exists only on this device until published."
-      : !published ? "Retention changes take effect when you publish."
-      : draft.set.permanent ? "Permanent: this published set will not expire automatically."
-      : draft.expiresAt ? "This published link expires " +
-        new Date(draft.expiresAt).toLocaleDateString() + " unless updated."
-      : "This published set follows the automatic expiration policy.";
+    expiry.textContent = !draft.remoteId
+      ? "Your draft is saved on this device. Share it when you are ready."
+      : !published ? "Publish again to share your latest changes."
+      : draft.set.permanent ? "Your shared programme stays available until you delete it."
+      : draft.expiresAt ? "Your sharing link is available until " +
+        new Date(draft.expiresAt).toLocaleDateString() + ". Updating the programme extends this date."
+      : "Your sharing link follows the usual two-year expiry period.";
     const deletePublished = elm<HTMLButtonElement>("recite-delete-published");
     deletePublished.hidden = !(draft.remoteId && draft.editToken);
     const shared = elm<HTMLElement>("recite-shared-links");
@@ -406,12 +425,15 @@ export async function initRecitationBuilder(): Promise<void> {
     if (selected) setCurrent(selected);
   });
   elm<HTMLButtonElement>("recite-new").addEventListener("click", () => {
+    if (elm<HTMLButtonElement>("recite-new").disabled) return;
     setCurrent(createLocalDraft()); persist(); render();
   });
   elm<HTMLButtonElement>("recite-duplicate").addEventListener("click", () => {
+    if (!draft.set.items.length) return;
     setCurrent(duplicateDraft(draft)); persist(); render(); say("Saved as a separate draft");
   });
   elm<HTMLButtonElement>("recite-delete").addEventListener("click", () => {
+    if (!draft.set.items.length) return;
     if (!confirm("Delete this locally saved copy? Published links will remain accessible.")) return;
     removeDraft(draft.id);
     setCurrent(readDrafts()[0] || createLocalDraft()); persist(); render();
@@ -523,7 +545,7 @@ export async function initRecitationBuilder(): Promise<void> {
       say(update ? "Shared programme updated. The public link is unchanged." :
         "Published. Share the read-only link with the group.");
     } catch (e) { say((e as Error).message); }
-    finally { publishButton.disabled = false; }
+    finally { updateLinks(); }
   });
   let updatingLive = false;
   async function updateLive(offset: number, active: boolean): Promise<void> {
