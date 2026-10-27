@@ -75,11 +75,20 @@ const aboutActive = path.startsWith("/about/");
             ? "#ffffff" : "#171719";
           const optional = (key) => typeof saved[key] === "string" && /^#[0-9a-f]{6}$/i.test(saved[key])
             ? saved[key].toLowerCase() : null;
+          // A Custom palette copied from a preset must retain its exact
+          // foregrounds on reload. Only use these Auto seeds while both
+          // background surfaces still match the original preset.
+          const source = saved.inherited;
+          const inherited = source && typeof source === "object" &&
+            ["main", "secondary", "primary", "muted", "borders"].every(
+              (key) => typeof source[key] === "string" && /^#[0-9a-f]{6}$/i.test(source[key])
+            ) && source.main.toLowerCase() === main &&
+            source.secondary.toLowerCase() === secondary ? source : null;
           const blend = (first, second, share) => "#" + [1, 3, 5].map((i) =>
             Math.round(parseInt(first.slice(i, i + 2), 16) * share +
               parseInt(second.slice(i, i + 2), 16) * (1 - share)).toString(16).padStart(2, "0")).join("");
           const minContrast = (text) => Math.min(...backgrounds.map((value) => contrast(luminance(text), value)));
-          const primary = optional("primaryText") || foreground;
+          const primary = optional("primaryText") || inherited?.primary.toLowerCase() || foreground;
           let muted = foreground;
           const average = blend(main, secondary, .5);
           for (let share = .95; share >= .05; share -= .05) {
@@ -87,9 +96,10 @@ const aboutActive = path.startsWith("/about/");
             if (minContrast(candidate) < 4.5) break;
             muted = candidate;
           }
-          muted = optional("mutedText") || muted;
+          muted = optional("mutedText") || inherited?.muted.toLowerCase() || muted;
           const border = optional("borders");
-          root.style.setProperty("--theme-border-auto", blend(foreground, main, .22));
+          root.style.setProperty("--theme-border-auto",
+            inherited?.borders.toLowerCase() || blend(foreground, main, .22));
           if (border) root.style.setProperty("--theme-border", border);
           for (const [key, value] of Object.entries({
             "--theme-main": main, "--theme-secondary": secondary,
