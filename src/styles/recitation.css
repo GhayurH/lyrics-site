@@ -300,3 +300,15 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 /* When a programme item lacks a scan, a selected text edition owns the width. */
 .recite-reading-root[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
 .recite-reading-root[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
+
+/* Export and printing actions remain discoverable without competing with
+   the programme's primary Previous / Current / Next navigation. */
+.recite-reader-exports { margin: 0 0 1rem; }
+.recite-reader-exports summary {
+  width: fit-content; min-height: var(--ui-target); cursor: pointer;
+  border: 1px solid var(--border-colour); border-radius: var(--ui-radius);
+  background: var(--surface-background); padding: .5rem .8rem;
+  font-size: .85rem; font-weight: 650;
+}
+.recite-reader-exports .recite-reader-tools { margin-top: .65rem; }
+html[data-reading-focus="true"] .recite-reader-exports { display: none; }

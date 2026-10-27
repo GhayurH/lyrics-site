@@ -43,7 +43,7 @@
 .basta-home-intro-copy { min-width: 0; }
 .basta-home-intro-copy h1 { margin: 0.15rem 0 0.65rem; font-size: clamp(2.3rem, 5vw, 3.5rem); line-height: 1.12; }
 .basta-home-intro-copy > p:last-child { max-width: 36rem; margin: 0; color: var(--secondary-text); font-size: clamp(1rem, 2vw, 1.12rem); }
-.basta-home-scan { display: grid; gap: 0.45rem; min-width: 0; text-align: center; text-decoration: none; }
+.basta-home-scan { display: grid; gap: 0.45rem; min-width: 0; margin: 0; text-align: center; }
 .basta-home-scan img {
   display: block;
   width: 100%;
@@ -56,8 +56,8 @@
   box-shadow: 0.3rem 0.3rem 0 var(--tag-background);
 }
 .basta-home-scan-caption { color: var(--secondary-text); font-size: 0.75rem; }
-.basta-home-scan:hover .basta-home-scan-caption { text-decoration: underline; }
-.basta-home-scan:focus-visible, .basta-home-resume:focus-visible, .basta-home-index-link:focus-visible { outline: var(--focus-ring); outline-offset: 4px; }
+
+.basta-home-resume:focus-visible, .basta-home-index-link:focus-visible { outline: var(--focus-ring); outline-offset: 4px; }
 .basta-home-resume-panel { margin-top: 1.5rem; }
 .basta-home-resume-panel[hidden], .basta-home-resume[hidden] { display: none; }
 .basta-home-resume {

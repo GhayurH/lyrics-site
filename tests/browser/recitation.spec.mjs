@@ -13,6 +13,7 @@ test("offline programme export contains complete text, reciter assignments and n
   await page.locator(".recite-inline-note input").nth(1).fill("Read after opening salaam");
   await page.locator(".recite-inline-note input").nth(1).blur();
   await page.locator("#recite-open-reader").click();
+  await page.locator(".recite-reader-exports summary").click();
   const pending = page.waitForEvent("download");
   await page.locator("#recite-download-offline").click();
   const download = await pending;
