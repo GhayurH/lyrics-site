@@ -520,37 +520,23 @@ html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-jump-form { 
 /* The floating scan's normal sticky viewport is not applied to Focus Mode. */
 html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-floating-scan="true"] { --reader-scan-clearance: 3.3rem; }
 
-/* A standalone lyric and each recitation work use the same panel geometry.
-// The recitation root owns selection state; independent works share its columns. */
-
-.recite-editions { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); min-width: 0; }
-.recite-editions > .lyric-reading-image { grid-area: image; }
-.recite-editions > .lyric-reading-roman { grid-area: roman; }
-.recite-editions > .lyric-reading-urdu { grid-area: urdu; }
-.recite-reading-root[data-reading-columns~="image"] .recite-editions {
-  grid-template-areas: "image image" "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr));
+/* Local bookmark controls stay out of verse flow and leave the printed source untouched. */
+.basta-selectable-kalam { position: relative; }
+.basta-selection-action {
+  position: absolute; inset-block-start: 0; inset-inline-end: 0;
+  z-index: 1; min-width: 2rem; min-height: 2rem;
+  border: 1px solid var(--border-colour); border-radius: var(--ui-radius);
+  background: var(--surface-background); color: var(--secondary-text);
+  font: inherit; font-size: 1.05rem; cursor: pointer;
+  opacity: .25;
 }
-.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .recite-editions {
-  grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr);
+.basta-selectable-kalam:is(:hover,:focus-within) > .basta-selection-action,
+.basta-selection-action[aria-pressed="true"] { opacity: 1; }
+.basta-selection-action[aria-pressed="true"] { color: var(--primary-text); background: var(--tag-background); }
+.basta-stanza-bookmark { color: inherit; font: inherit; cursor: pointer; background: transparent; }
+.basta-stanza-bookmark[aria-pressed="true"] { color: var(--button-text); background: var(--button-background); }
+.basta-stanza-bookmark:hover { border-color: var(--primary-text); }
+.basta-selection-action:focus-visible,.basta-stanza-bookmark:focus-visible {
+  opacity: 1; outline: var(--focus-ring); outline-offset: 3px;
 }
-.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .recite-editions {
-  grid-template-areas: "image" "roman"; grid-template-columns: minmax(0,1fr);
-}
-.recite-reading-root[data-reading-mode="image"] .recite-editions {
-  grid-template-areas: "image"; grid-template-columns: minmax(0,1fr);
-}
-.recite-reading-root[data-reading-mode="urdu"] .recite-editions {
-  grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr);
-}
-.recite-reading-root[data-reading-mode="roman"] .recite-editions {
-  grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr);
-}
-@container reader-shell (max-width: 40rem) {
-  .recite-editions { grid-template-areas: "urdu" "roman"; grid-template-columns: minmax(0,1fr); }
-  .recite-reading-root[data-reading-columns~="image"] .recite-editions {
-    grid-template-areas: "image" "urdu" "roman"; grid-template-columns: minmax(0,1fr);
-  }
-  .recite-reading-root[data-reading-mode="urdu"] .recite-editions { grid-template-areas: "urdu"; }
-  .recite-reading-root[data-reading-mode="roman"] .recite-editions { grid-template-areas: "roman"; }
-  .recite-reading-root[data-reading-mode="image"] .recite-editions { grid-template-areas: "image"; }
-}
+@media (pointer: coarse) { .basta-selection-action { opacity: .8; min-width: 2.75rem; min-height: 2.75rem; } }

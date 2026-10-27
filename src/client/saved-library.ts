@@ -2,6 +2,7 @@
 import type { LyricCardData } from "../lib/catalog";
 import { createLyricCard } from "./lyric-card";
 import { readBastaBookmarks } from "./basta-bookmarks";
+import { readBastaSelections, removeBastaSelection } from "./basta-selections";
 import { readDrafts } from "./recitation-storage";
 import {
   STORAGE_KEYS,
@@ -42,6 +43,27 @@ export async function initSavedLibrary(): Promise<void> {
     const pageCount = document.querySelector<HTMLElement>("#basta-bookmarks-count");
     if (pageCount) pageCount.textContent = bookmarks.length + " saved";
 
+    const selections = readBastaSelections();
+    const selectionList = document.querySelector<HTMLElement>("#basta-selections-list");
+    selectionList?.replaceChildren(...selections.map((value) => {
+      const item = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = "/basta/" + value.page + "/#basta-" + value.kind + "-" + value.index;
+      link.textContent = "Basta · Page " + value.page + " · " +
+        (value.kind === "stanza" ? "Stanza " : "Kalam ") + value.index;
+      const remove = document.createElement("button");
+      remove.type = "button";
+      remove.textContent = "Remove";
+      remove.setAttribute("aria-label", "Remove bookmark for " + link.textContent);
+      remove.addEventListener("click", () => { removeBastaSelection(value); renderLocal(); });
+      item.append(link, remove);
+      return item;
+    }));
+    const selectionEmpty = document.querySelector<HTMLElement>("#basta-selections-empty");
+    if (selectionEmpty) selectionEmpty.hidden = selections.length > 0;
+    const selectionCount = document.querySelector<HTMLElement>("#basta-selections-count");
+    if (selectionCount) selectionCount.textContent = selections.length + " saved";
+
     const drafts = readDrafts().filter((draft) => draft.set.title.trim() || draft.set.items.length);
     const draftList = document.querySelector<HTMLElement>("#recitation-drafts-list");
     draftList?.replaceChildren(...drafts.map((draft) => {
@@ -61,6 +83,7 @@ export async function initSavedLibrary(): Promise<void> {
   };
   renderLocal();
   window.addEventListener("kalam:basta-bookmarks-changed", renderLocal);
+  window.addEventListener("kalam:basta-selections-changed", renderLocal);
   window.addEventListener("storage", renderLocal);
   let catalog: LyricCardData[];
   try {

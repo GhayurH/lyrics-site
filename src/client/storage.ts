@@ -5,6 +5,7 @@ export const STORAGE_KEYS = {
   readingPrefs: "kalam:reading-prefs",
   bastaPosition: "kalam:basta-position",
   bastaBookmarks: "kalam:basta-bookmarks",
+  bastaSelections: "kalam:basta-selections",
 } as const;
 
 export function readStringList(key: string): string[] {
