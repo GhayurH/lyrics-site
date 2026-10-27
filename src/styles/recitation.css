@@ -247,3 +247,32 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 .recite-sharing-policy p { margin: 0 0 .5rem; }
 .recite-panel { scroll-margin-top: calc(var(--site-header-height, 4rem) + 2rem); }
 .recite-list-actions button, .recite-reader-toolbar button { min-height: 2.75rem; }
+
+/* A single step path with accessible current-step indication. */
+.recite-steps a[aria-current="step"] { border-color: var(--primary-text); background: var(--tag-background); }
+.recite-steps a[aria-current="step"] span { background: var(--button-background); color: var(--button-text); }
+.recite-optional-details { margin-top: .8rem; border-top: 1px solid var(--border-colour); padding-top: .35rem; }
+.recite-optional-details > summary { min-height: var(--ui-target); display: list-item; padding: .55rem .1rem; font-size: .86rem; font-weight: 700; cursor: pointer; }
+.recite-optional-caption { color: var(--secondary-text); font-weight: 500; }
+.recite-optional-fields { padding-block: .5rem .7rem; }
+.recite-optional-fields label + label { margin-top: .75rem; }
+/* Recitation fallback mirrors the Basta reader: an unavailable Roman-only
+   selection retains its message and exposes the original scan if it exists. */
+.recite-reading-root[data-reading-mode="roman"]
+  .recite-work-no-roman:not(.recite-work-no-image) .lyric-reading-image {
+  display: block !important;
+}
+.recite-reading-root[data-reading-mode="roman"]
+  .recite-work-no-roman:not(.recite-work-no-image) .recite-editions {
+  grid-template-areas: "image" "roman"; grid-template-columns: minmax(0,1fr);
+}
+.recite-reading-root[data-reading-mode="roman"]
+  .recite-work-no-roman .lyric-reading-roman { grid-area: roman; }
+/* Consistent contextual guidance even when the selected format has no content. */
+.recite-empty-edition, .basta-edition-unavailable {
+  color: var(--secondary-text); font-size: .86rem; line-height: 1.6;
+}
+@media (max-width: 700px) {
+  .recite-steps { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); }
+  .recite-steps a { min-width: 0; justify-content: center; padding: .4rem .35rem; font-size: .8rem; }
+}

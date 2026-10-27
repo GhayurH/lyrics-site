@@ -28,8 +28,13 @@ import "../../styles/recitation.css";
       <section class="recite-panel recite-details" aria-labelledby="recite-details-heading">
         <h2 id="recite-details-heading">Programme details</h2>
         <label>Title <input id="recite-title" maxlength="120" placeholder="e.g. Muharram — 8th Night" required /></label>
-        <label>Occasion <input id="recite-occasion" maxlength="120" placeholder="Optional" /></label>
-        <label>Description <textarea id="recite-description" rows="2" maxlength="1000" placeholder="Optional programme notes"></textarea></label>
+        <details class="recite-optional-details" id="recite-optional-details" open>
+          <summary>Occasion and notes <span class="recite-optional-caption">(optional)</span></summary>
+          <div class="recite-optional-fields">
+            <label>Occasion <input id="recite-occasion" maxlength="120" placeholder="Optional" /></label>
+            <label>Description <textarea id="recite-description" rows="2" maxlength="1000" placeholder="Optional programme notes"></textarea></label>
+          </div>
+        </details>
         <p class="recite-hint">Changes to a draft are saved on this device. Publishing is a separate action.</p>
       </section>
       <section class="recite-panel recite-programme" aria-labelledby="recite-programme-heading">
@@ -117,6 +122,8 @@ import "../../styles/recitation.css";
   </article>
   <script>
     import { initRecitationBuilder } from "../../client/recitation-builder";
+    import { initRecitationWorkflow } from "../../client/recitation-workflow";
+    initRecitationWorkflow();
     void initRecitationBuilder();
   </script>
 </BaseLayout>

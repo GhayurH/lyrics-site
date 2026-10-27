@@ -202,8 +202,12 @@ function renderWork(work: HTMLElement, item: RecitationItem, index: number,
   } else {
     addLyricText(urdu, poem.urdu);
     if (poem.roman) addLyricText(roman, poem.roman, true);
-    else roman.append(node("p", "recite-empty-edition", "Roman text is unavailable for this kalam."));
+    else roman.append(node("p", "recite-empty-edition", "Roman Urdu is not available for this kalam. The original scan can be viewed instead."));
   }
+  // Preserve the selected Roman edition while signalling when a source scan
+  // is the available alternative; never silently substitute another text.
+  const missingRoman = !poem.roman?.trim() && !item.stanzaSequence;
+  if (missingRoman) work.classList.add("recite-work-no-roman");
   const image = node("figure", "lyric-reading-image");
   const pages = sourceScanPages(poem, item, sources);
   const scans = pages.length
