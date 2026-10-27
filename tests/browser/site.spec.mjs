@@ -201,7 +201,7 @@ test("responsive browse and builder panels keep accessible controls in either th
       await expect.poll(async () => {
         const result = await page.evaluate(() => ({
           overflow: document.documentElement.scrollWidth - innerWidth,
-          offenders: [...document.querySelectorAll<HTMLElement>("body *")]
+          offenders: [...document.querySelectorAll("body *")]
             .filter((element) => element.getBoundingClientRect().right > innerWidth + 3)
             .slice(0, 5).map((element) => ({
               className: typeof element.className === "string" ? element.className : element.tagName,
