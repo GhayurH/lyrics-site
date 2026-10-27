@@ -16,6 +16,8 @@ export interface RecitationSet {
   title: string;
   occasion: string;
   description: string;
+  /** Explicitly preserves published production programmes from automatic expiry. */
+  permanent?: boolean;
   items: RecitationItem[];
 }
 export interface RecitationDraft {
@@ -24,6 +26,7 @@ export interface RecitationDraft {
   remoteId?: string;
   editToken?: string;
   publishedSnapshot?: string;
+  expiresAt?: string | null;
 }
 
 const ID = /^[\p{L}\p{N}_/-]{1,160}$/u;
@@ -36,6 +39,7 @@ export function validateRecitationSet(raw: unknown): RecitationSet {
   const doc = raw as Record<string, unknown>;
   if (doc.version !== 1 || !plain(doc.title, 120) || !doc.title.trim() ||
       !plain(doc.occasion, 120) || !plain(doc.description, 1000) ||
+      (doc.permanent !== undefined && typeof doc.permanent !== "boolean") ||
       !Array.isArray(doc.items) || doc.items.length < 1 || doc.items.length > 40)
     throw Error("Provide a title and between 1 and 40 kalams");
   const seen = new Set<string>();
@@ -76,7 +80,8 @@ export function validateRecitationSet(raw: unknown): RecitationSet {
   });
   return {
     version: 1, title: doc.title.trim(), occasion: doc.occasion.trim(),
-    description: doc.description.trim(), items,
+    description: doc.description.trim(),
+    ...(doc.permanent ? { permanent: true } : {}), items,
   };
 }
 export function emptyRecitationSet(): RecitationSet {
