@@ -386,3 +386,9 @@ html[data-js-available="true"] [data-requires-js] { display: none !important; }
 @media (prefers-reduced-motion: reduce) {
   :where(.home-collection-card,.home-type-card,.lyric-card-link,.recite-steps a) { transition: none; }
 }
+
+/* Archive discovery uses consistent rows, rather than irregularly sized tiles. */
+.lyric-list { display: grid; grid-template-columns: repeat(auto-fill,minmax(min(100%,22rem),1fr)); align-items: stretch; }
+.lyric-card { width: 100%; max-width: none; }
+.lyric-card-link { width: 100%; height: 100%; }
+@media (max-width: 700px) { .lyric-list { grid-template-columns: minmax(0,1fr); } }

@@ -417,3 +417,7 @@
   grid-template-columns: minmax(0, 48rem);
   justify-content: center;
 }
+
+/* Clear but subdued printed-page boundaries. */
+.basta-reader-page-break { border-top-color: var(--border-colour); }
+.basta-reader-page-number { color: var(--secondary-text); letter-spacing: .03em; }

@@ -680,3 +680,8 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   text-decoration-thickness: from-font;
   text-underline-offset: 0.16em;
 }
+
+/* Keep stanza distinctions while reducing decorative contrast. */
+.basta-couplet-separator { border-top-color: var(--border-colour); }
+.basta-home-mode-card { min-height: 11rem; }
+.basta-home-mode-card h3 { margin-top: .3rem; }
