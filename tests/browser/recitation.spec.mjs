@@ -163,8 +163,9 @@ test("multi-page Basta Marsiya preserves six-verse framing and both scans @smoke
   // merged into the closing couplet of stanza 6 at the page break.
   for (const language of ["urdu", "roman"]) {
     const edition = page.locator(".lyric-reading-" + language);
-    const numbered = edition.locator(".basta-kalam-text")
-      .filter({ has: edition.locator(".poetry-stanza-number") });
+    // :has() is scoped to each stanza block. A full edition-root locator
+    // passed to filter({has}) cannot match relative to its descendants.
+    const numbered = edition.locator(".basta-kalam-text:has(.poetry-stanza-number)");
     await expect(numbered).toHaveCount(7);
     for (const i of [5, 6]) {
       await expect(numbered.nth(i).locator(".basta-verse-reverse-indent")).toHaveCount(4);
