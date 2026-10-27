@@ -135,7 +135,9 @@ html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image
 html[data-reading-focus="true"] .basta-page-grid[data-reading-root] > .basta-original-page[data-floating-scan="true"],
 html[data-reading-focus="true"] .basta-reader-page-grid > .basta-reader-original-image[data-floating-scan="true"] {
   position: sticky;
-  top: max(3.3rem, calc(3rem + env(safe-area-inset-top)));
+  /* The fixed reader already reserves toolbar space as top padding.
+     Adding the same offset to the sticky top doubles it and clips the scan. */
+  top: 0;
   height: calc(100dvh - max(4.2rem, calc(3.9rem + env(safe-area-inset-top))));
   min-height: 0; max-height: calc(100dvh - 4.2rem);
   display: flex; flex-direction: column; justify-content: center; align-items: center;

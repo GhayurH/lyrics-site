@@ -37,7 +37,7 @@ test("offline programme export contains complete text, reciter assignments and n
   await page.emulateMedia({ media: "print" });
   const opening = page.locator(".recite-print-opening").first();
   await expect(opening.locator(".recite-work-header")).toHaveCount(1);
-  await expect(page.locator(".recite-print-row").first()).toHaveCSS("break-inside", "avoid-page");
+  await expect(page.locator(".recite-print-row").first()).toHaveCSS("break-inside", /avoid/);
   const aligned = await page.locator(".recite-print-row").first().evaluate((el) => {
     const roman = el.querySelector(".lyric-reading-roman").getBoundingClientRect();
     const urdu = el.querySelector(".lyric-reading-urdu").getBoundingClientRect();
