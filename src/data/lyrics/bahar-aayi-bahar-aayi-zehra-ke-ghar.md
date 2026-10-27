@@ -18,7 +18,7 @@ romanLyrics: |-
   Bahar aayi Bahar aayi Bahar aayi Bahar aayi
   Bahar is mah main Zehra kay ghar hay char bar aayi
   
-  Muhammad kay gharanay main Mohammad hi Mohammad hain
+  Muhammad kay gharanay main Muhammad hi Muhammad hain
   Hai ik soorut jo hay surat badal kar bar bar aayi
   
   Zara unsay ye keh dijiey kay rahiyay hoshiyar aayi
