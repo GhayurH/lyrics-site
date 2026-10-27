@@ -76,8 +76,9 @@ committed to Git. Keep its value stable for consistent hourly buckets.
 
 ## 3. Deploy the standalone scheduled cleanup Worker
 
-The Worker source is `workers/recitation-cleanup.js`. It is **not** part
-of the Pages site and cannot be scheduled via Pages Functions.
+The Worker source is `workers/recitation-cleanup.js`, with its dedicated,
+version-controlled configuration in `workers/wrangler.cleanup.jsonc`. It is
+**not** part of the Pages site and cannot be scheduled via Pages Functions.
 
 Create a separate Cloudflare Worker named `kalam-recitation-cleanup`,
 deploy the source from this file as an ES module, and in its
@@ -105,6 +106,21 @@ the batch allowance or trigger frequency after reviewing D1 usage.
 
 **Do not** create a Worker route or publish an administrative HTTP endpoint.
 The Worker's `fetch()` handler always returns HTTP 404.
+
+For subsequent Worker updates, deploy from the repository root with:
+
+```bash
+npx wrangler deploy --config workers/wrangler.cleanup.jsonc
+```
+
+The D1 database UUIDs in this file identify resources and are not access
+credentials. Never commit Wrangler auth tokens or private edit links.
+
+The Pages site's **separate** settings can be exported from Cloudflare with
+`npx wrangler pages download config lyrics-site`. Inspect the generated root
+`wrangler` file before committing or deploying; its production and preview D1
+bindings must match the existing dashboard, and the Pages output must remain
+`./dist`. Do not replace the Pages configuration with the cleanup Worker config.
 
 Cloudflare Cron documentation:
 https://developers.cloudflare.com/workers/configuration/cron-triggers/
