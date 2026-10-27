@@ -104,3 +104,14 @@ html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
 .recite-results li a { color: inherit; text-underline-offset: .22em; }
 .recite-results li a:hover { text-decoration-thickness: 2px; }
 .recite-results li strong[lang="ur"], .recite-list-info strong[lang="ur"] { line-height: 2.25; }
+
+/* Missing sources are explicitly visible but never removed from programme order. */
+.recite-missing-stanza {
+  border-inline-start: .2rem solid var(--secondary-text);
+  padding: .55rem .8rem;
+  margin: .75rem 0;
+  color: var(--primary-text);
+  background: var(--tag-background);
+  font-size: .85rem;
+  line-height: 1.7;
+}
