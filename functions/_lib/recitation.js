@@ -15,6 +15,7 @@ export function validateDocument(value) {
         !text(item.uid, 80) || !uuid.test(item.uid) || seen.has(item.uid) ||
         !["lyric","basta"].includes(item.kind) ||
         !text(item.id, 160) || !identifier.test(item.id) ||
+        (item.sourceTitle !== undefined && !text(item.sourceTitle, 180)) ||
         (item.reciter !== undefined && !text(item.reciter, 100)) ||
         (item.note !== undefined && !text(item.note, 400)))
       throw Error("Invalid kalam item");
@@ -34,6 +35,7 @@ export function validateDocument(value) {
       });
     }
     return { uid: item.uid, kind: item.kind, id: item.id,
+      ...(item.sourceTitle ? { sourceTitle: item.sourceTitle } : {}),
       ...(item.reciter ? { reciter: item.reciter } : {}),
       ...(item.note ? { note: item.note } : {}),
       ...(stanzaSequence ? { stanzaSequence } : {}) };
