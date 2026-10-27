@@ -113,20 +113,34 @@ html[data-reading-focus="true"] .recite-reading-root {
 }
 /* The image's own fixed Focus viewport must not inherit the normal page toolbar's
    clearance: that measurement can refer to the hidden site header. */
-html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"] .lyric-reading-image {
+/* Only side-by-side scans float in Focus Mode. A scan stacked above the
+   languages must remain in the document flow without reserving a full blank
+   viewport before the poetry. */
+html[data-reading-focus="true"] .lyric-reading-grid .lyric-reading-image[data-floating-scan="true"] {
   position: sticky; top: 3.3rem;
   display: flex; align-items: center; justify-content: center;
   height: calc(100dvh - 4.2rem); max-height: calc(100dvh - 4.2rem);
   min-height: 0; margin: 0; padding: 0; align-self: start;
   border: 0; background: transparent; overflow: visible;
 }
-html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"] .lyric-reading-image > a {
+html[data-reading-focus="true"] .lyric-reading-grid .lyric-reading-image[data-floating-scan="true"] > a {
   display: flex; align-items: center; justify-content: center;
   height: 100%; max-height: 100%; width: 100%; min-height: 0;
 }
-html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"] .lyric-reading-image img {
+html[data-reading-focus="true"] .lyric-reading-grid .lyric-reading-image img {
   display: block; width: auto; height: auto; max-width: 100%;
   max-height: calc(100dvh - 4.4rem); object-fit: contain;
+}
+html[data-reading-focus="true"] .lyric-reading-grid[data-reading-mode="image"] .lyric-reading-image {
+  position: relative;
+  top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 0;
+  height: calc(100dvh - 4.2rem);
+  padding: 0;
+  margin-inline: auto;
 }
 
 /* In Focus Mode the reading options overlay must not alter the scan's sticky

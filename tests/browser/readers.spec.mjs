@@ -488,3 +488,95 @@ test("Basta Focus scan stays centred and fully visible when Options expands @smo
   expect(Math.abs(after.y - before.y)).toBeLessThan(5);
   expect(after.y + after.height).toBeLessThanOrEqual(900);
 });
+
+test("standalone image selection never creates phantom columns and stays horizontally centred @smoke", async ({ page }) => {
+  await page.setViewportSize({width: 1440, height: 900});
+  const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";
+  await page.route("**" + imageUrl, route => route.fulfill({
+    contentType: "image/svg+xml",
+    body: '<svg xmlns="http://www.w3.org/2000/svg" width="750" height="1200"><rect width="750" height="1200" fill="white"/></svg>',
+  }));
+  await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
+  const grid = page.locator(".lyric-reading-grid");
+  const image = grid.locator(".lyric-reading-image");
+  const scan = image.locator("img");
+  const imageToggle = page.locator('[data-reading-column][value="image"]');
+  const romanToggle = page.locator('[data-reading-column][value="roman"]');
+  const urduToggle = page.locator('[data-reading-column][value="urdu"]');
+  await imageToggle.check();
+  await romanToggle.uncheck();
+  await urduToggle.uncheck();
+  await expect(grid).toHaveAttribute("data-reading-mode", "image");
+  await expect(scan).toHaveJSProperty("naturalWidth", 750);
+  const geometry = await grid.evaluate(el => {
+    const image = el.querySelector(".lyric-reading-image").getBoundingClientRect();
+    const scan = el.querySelector("img").getBoundingClientRect();
+    const shell = el.getBoundingClientRect();
+    const tracks = getComputedStyle(el).gridTemplateColumns.trim().split(/\s+/);
+    return {
+      tracks: tracks.length, aligned: Math.abs((scan.left + scan.right) / 2 -
+        (shell.left + shell.right) / 2),
+      imageWidth: image.width, scanWidth: scan.width,
+    };
+  });
+  expect(geometry.tracks).toBe(1);
+  expect(geometry.aligned).toBeLessThan(2);
+  expect(geometry.scanWidth).toBeGreaterThan(50);
+  await page.setViewportSize({width: 390, height: 844});
+  await expect.poll(async () => {
+    const img = await scan.boundingBox();
+    const shell = await grid.boundingBox();
+    return Math.abs((img.x + img.width/2) - (shell.x + shell.width/2));
+  }).toBeLessThan(2);
+  await expect.poll(() => page.evaluate(() =>
+    document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+});
+
+test("standalone scan plus Urdu/Roman is parallel when wide and centred above text at medium width @smoke", async ({ page }) => {
+  const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";
+  await page.route("**" + imageUrl, route => route.fulfill({
+    contentType: "image/svg+xml",
+    body: '<svg xmlns="http://www.w3.org/2000/svg" width="750" height="1200"><rect width="750" height="1200" fill="white"/></svg>',
+  }));
+  await page.setViewportSize({width: 1600, height: 900});
+  await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
+  const grid = page.locator(".lyric-reading-grid");
+  const image = grid.locator(".lyric-reading-image");
+  const roman = grid.locator(".lyric-reading-roman");
+  const urdu = grid.locator(".lyric-reading-urdu");
+  await page.locator('[data-reading-column][value="image"]').check();
+  await page.locator('[data-reading-column][value="roman"]').check();
+  await page.locator('[data-reading-column][value="urdu"]').check();
+  await expect.poll(() => image.getAttribute("data-floating-scan")).toBe("true");
+  const wide = await Promise.all([image,roman,urdu].map(el=>el.boundingBox()));
+  expect(Math.max(...wide.map(box=>box.y))-Math.min(...wide.map(box=>box.y))).toBeLessThan(25);
+  await page.setViewportSize({width: 1050, height: 900});
+  await expect.poll(() => image.getAttribute("data-floating-scan")).toBe("false");
+  const medium = await Promise.all([image,roman,urdu].map(el=>el.boundingBox()));
+  expect(medium[0].y + medium[0].height).toBeLessThanOrEqual(medium[1].y+3);
+  expect(Math.abs(medium[1].y - medium[2].y)).toBeLessThan(3);
+  expect(medium[0].height).toBeLessThan(680);
+  await page.getByRole("button", { name: "Focus Mode" }).click();
+  await expect(image).not.toHaveCSS("position", "sticky");
+  await expect.poll(() => page.evaluate(() =>
+    document.documentElement.scrollWidth-innerWidth)).toBeLessThanOrEqual(2);
+  await page.getByRole("button", { name: /Exit reading mode/ }).click();
+});
+
+test("standalone image plus either single text edition occupies only two columns @smoke", async ({ page }) => {
+  await page.setViewportSize({width: 1400, height: 900});
+  await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
+  const grid = page.locator(".lyric-reading-grid");
+  const image = grid.locator(".lyric-reading-image");
+  await page.locator('[data-reading-column][value="image"]').check();
+  for (const remaining of ["urdu","roman"]) {
+    await page.locator('[data-reading-column][value="urdu"]').setChecked(remaining === "urdu");
+    await page.locator('[data-reading-column][value="roman"]').setChecked(remaining === "roman");
+    const expected = remaining === "urdu" ? ".lyric-reading-urdu" : ".lyric-reading-roman";
+    const rectangles = await Promise.all([image,grid.locator(expected)].map(el=>el.boundingBox()));
+    expect(Math.abs(rectangles[0].y - rectangles[1].y)).toBeLessThan(25);
+    expect(rectangles[0].x + rectangles[0].width).toBeLessThanOrEqual(rectangles[1].x+5);
+    const tracks = await grid.evaluate(el=>getComputedStyle(el).gridTemplateColumns.trim().split(/\s+/).length);
+    expect(tracks).toBe(2);
+  }
+});

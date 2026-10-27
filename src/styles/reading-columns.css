@@ -45,9 +45,34 @@
 .lyric-reading-image img { display: block; width: 100%; height: auto; object-fit: contain; }
 .lyric-reading-grid[data-reading-columns] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
 .lyric-reading-grid[data-reading-columns~="image"] { grid-template-areas: "image roman urdu"; grid-template-columns: minmax(0,.85fr) repeat(2,minmax(0,1fr)); max-width: none; }
-.lyric-reading-grid[data-reading-columns~="image"]:not([data-reading-columns~="roman"]) { grid-template-areas: "image urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
-.lyric-reading-grid[data-reading-columns~="image"]:not([data-reading-columns~="urdu"]) { grid-template-areas: "image roman"; grid-template-columns: repeat(2,minmax(0,1fr)); }
-.lyric-reading-grid[data-reading-mode="image"] { grid-template-areas: "image"; grid-template-columns: minmax(0,min(100%,54rem)); justify-content: center; }
+/* Two-edition layouts must require the text edition they place. Previously both
+   :not() rules also matched image-only and created a phantom text track. */
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) { grid-template-areas: "image urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) { grid-template-areas: "image roman"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+.lyric-reading-grid[data-reading-mode="image"] {
+  grid-template-areas: "image";
+  grid-template-columns: minmax(0,min(100%,54rem));
+  justify-content: center;
+  max-width: min(100%,60rem);
+  margin-inline: auto;
+}
+.lyric-reading-grid[data-reading-mode="image"] > .lyric-reading-image {
+  width: 100%;
+  min-width: 0;
+  justify-self: center;
+}
+.lyric-reading-grid[data-reading-mode="image"] > .lyric-reading-image > a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.lyric-reading-grid[data-reading-mode="image"] > .lyric-reading-image img {
+  width: auto;
+  max-width: 100%;
+  max-height: min(80dvh,64rem);
+  margin-inline: auto;
+}
 .lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0,48rem); justify-content: center; }
 .lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0,48rem); justify-content: center; }
 
@@ -86,6 +111,31 @@
   .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
     grid-template-areas: "image image" "roman urdu";
     grid-template-columns: repeat(2,minmax(0,1fr));
+  }
+  /* When three independent columns would make verses unreasonably narrow,
+     show a centred, viewport-bounded scan above the two parallel text editions.
+     The scan must not expand to the entire page width or remain sticky on a
+     different row from the poetry. */
+  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) {
+    justify-self: center;
+    width: min(100%,42rem);
+    padding: clamp(.5rem,1.5vw,1rem);
+  }
+  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) > a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    max-height: min(67dvh,44rem);
+    margin-inline: auto;
   }
   .basta-page-grid[data-reading-columns~="image"].basta-page-grid-with-roman,
   .basta-reader-flow[data-reading-columns~="image"] .basta-reader-page-grid-with-roman {
