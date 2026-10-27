@@ -416,6 +416,7 @@ test("image viewer centres narrow scans and pans horizontally and vertically whe
   expect(offset).toBeLessThan(2);
   await viewer.getByRole("button", { name: "200%" }).click();
   await expect.poll(() => canvas.evaluate((el) => el.scrollWidth - el.clientWidth)).toBeGreaterThan(100);
+  await canvas.evaluate((el) => { el.scrollLeft = 0; el.scrollTop = 0; });
   const bounds = await canvas.boundingBox();
   const x = bounds.x + bounds.width * .65, y = bounds.y + bounds.height * .65;
   const before = await canvas.evaluate((el) => ({ x: el.scrollLeft, y: el.scrollTop }));
