@@ -27,7 +27,7 @@ export async function onRequestPost({ request, env }) {
       permanent ? 1 : 0, expiresAt).run();
   } catch (e) {
     console.error("Failed to create recitation set", e);
-    return error("Unable to publish this set. Check that D1 migration 0002 has been applied.", 500);
+    return error("Unable to publish this set. Check D1 availability and the deployed recitation schema.", 500);
   }
   return json({ id, editToken, permanent, expiresAt }, 201);
 }
