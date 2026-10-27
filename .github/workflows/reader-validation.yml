@@ -9,12 +9,19 @@ concurrency:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    # Pinned to @playwright/test in package.json. Chromium and its Linux
+    # dependencies are already present; avoid an apt/browser install per run.
+    container:
+      image: mcr.microsoft.com/playwright:v1.64.1-noble
+      options: --ipc=host
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - run: git diff --check origin/main...HEAD
+      # The checkout action owns .git as root; container commands run as
+      # pwuser, so scope Git's trust exception to this checkout only.
+      - run: git -c safe.directory="$GITHUB_WORKSPACE" diff --check origin/main...HEAD
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
@@ -31,5 +38,4 @@ jobs:
           grep -Fq '/files/* https://r2-assets.kalamarchive.com/files/:splat 302' dist/_redirects
           test -f dist/_routes.json
           node --input-type=module -e "import { readFileSync } from 'node:fs'; const routes=JSON.parse(readFileSync('dist/_routes.json','utf8')); for (const path of ['/api/recitation-sets','/api/recitation-sets/*','/r/*']) if (!routes.include.includes(path)) throw Error('Missing Pages Function route: '+path); if (routes.include.includes('/*')) throw Error('Unexpected all-static Function invocation');"
-      - run: npx playwright install --with-deps chromium
       - run: npx playwright test --grep '@smoke'

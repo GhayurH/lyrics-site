@@ -1,4 +1,134 @@
 import { test, expect } from "@playwright/test";
+import { readFile } from "node:fs/promises";
+
+test("offline programme export contains complete text, reciter assignments and notes @smoke", async ({ page }) => {
+  await page.goto("/recite/");
+  await page.locator("#recite-title").fill("Offline printable programme");
+  await page.locator("#recite-description").fill("Organizers' programme notes");
+  await page.locator("#recite-source").selectOption("lyric");
+  await expect(page.locator("#recite-results li button:not([disabled])").first()).toBeVisible();
+  await page.locator("#recite-results li button:not([disabled])").first().click();
+  await page.locator(".recite-inline-note input").first().fill("Assigned reciter");
+  await page.locator(".recite-inline-note input").first().blur();
+  await page.locator(".recite-inline-note input").nth(1).fill("Read after opening salaam");
+  await page.locator(".recite-inline-note input").nth(1).blur();
+  await page.locator("#recite-open-reader").click();
+  const pending = page.waitForEvent("download");
+  await page.locator("#recite-download-offline").click();
+  const download = await pending;
+  expect(download.suggestedFilename()).toMatch(/\.html$/);
+  const html = await readFile(await download.path(), "utf8");
+  expect(html).toContain("Offline printable programme");
+  expect(html).toContain("Organizers&#39; programme notes");
+  expect(html).toContain("Assigned reciter");
+  expect(html).toContain("Read after opening salaam");
+  expect(html).toContain("Original text");
+  expect(html).toContain("Roman Urdu");
+  expect(html).not.toContain("<script");
+  expect(html).not.toMatch(/<img\b/i);
+  await expect(page.locator("#recite-print")).toBeEnabled();
+});
+
+test("live navigation is opt-in and follows published entry UIDs @smoke", async ({ page }) => {
+  const id = "0123456789abcdef01234567";
+  const firstUid = "391002ab-16f4-4535-bf2a-8ca02cefc956";
+  const nextUid = "b61002ab-16f4-4535-bf2a-8ca02cefc956";
+  const items = [firstUid, nextUid].map((uid) => ({
+    uid, kind: "lyric", id: "aa-asghar-bin-tere", sourceTitle: "Aa Asghar bin tere",
+  }));
+  const set = { version: 1, title: "Live programme", occasion: "", description: "",
+    items, live: { active: true, currentUid: nextUid } };
+  await page.route("**/api/recitation-sets/" + id, (route) =>
+    route.fulfill({ contentType: "application/json", body: JSON.stringify({ id, set }) }));
+  await page.goto("/recite/read/?set=" + id);
+  await expect(page.locator("#recite-position")).toHaveText("1 / 2");
+  await expect(page.locator("#recite-live-label")).toBeVisible();
+  await page.locator("#recite-follow-live").evaluate((input) => {
+    input.checked = true;
+    input.dispatchEvent(new Event("change", { bubbles: true }));
+  });
+  await expect(page.locator("#recite-position")).toHaveText("2 / 2");
+  await expect(page.locator("#recite-live-status")).toContainText("Following organizer");
+  await page.locator("#recite-previous").evaluate((button) => button.click());
+  await expect(page.locator("#recite-follow-live")).not.toBeChecked();
+  await expect(page.locator("#recite-position")).toHaveText("1 / 2");
+});
+
+
+
+test("empty set disables unavailable actions and explains publishing requirements @smoke", async ({ page }) => {
+  await page.goto("/recite/");
+  const publish = page.locator("#recite-publish");
+  const tooltip = page.locator("#recite-publish-control");
+  await expect(page.locator("#recite-drafts option")).toHaveCount(1);
+  await expect(page.locator("#recite-new")).toBeDisabled();
+  await expect(page.locator("#recite-duplicate")).toBeDisabled();
+  await expect(page.locator("#recite-delete")).toBeDisabled();
+  await expect(publish).toBeDisabled();
+  await expect(page.locator("#recite-publish-help")).toHaveText(
+    "Give your set a title and add at least one kalam to publish.");
+  await tooltip.hover();
+  await expect.poll(() => tooltip.evaluate((el) =>
+    getComputedStyle(el, "::after").visibility)).toBe("visible");
+  await tooltip.focus();
+  await expect(tooltip).toBeFocused();
+
+  await page.locator("#recite-title").fill("Test set");
+  await expect(page.locator("#recite-new")).toBeEnabled();
+  await expect(page.locator("#recite-publish-help")).toHaveText("Add at least one kalam to publish.");
+  await page.locator("#recite-source").selectOption("lyric");
+  await expect(page.locator("#recite-results li button:not([disabled])").first()).toBeVisible();
+  await page.locator("#recite-results li button:not([disabled])").first().click();
+  await expect(page.locator("#recite-duplicate")).toBeEnabled();
+  await expect(page.locator("#recite-delete")).toBeEnabled();
+  await expect(publish).toBeEnabled();
+  await expect(page.locator("#recite-publish-help")).toBeEmpty();
+  await expect(tooltip).toHaveAttribute("data-unavailable", "false");
+
+  await expect(page.locator(".recite-share")).toContainText("Create a link that others can use");
+  await expect(page.locator(".recite-share")).not.toContainText("Cloudflare D1");
+  page.once("dialog", (dialog) => dialog.accept());
+  await page.locator("#recite-delete").click();
+  await expect(page.locator("#recite-delete")).toBeDisabled();
+  await expect(publish).toBeDisabled();
+});
+
+test("set chooser and management buttons align on desktop and form exactly two rows on mobile @smoke", async ({ page }) => {
+  for (const width of [320, 390, 700, 820, 1280]) {
+    await page.setViewportSize({ width, height: 850 });
+    await page.goto("/recite/");
+    await expect(page.locator("#recite-drafts option")).toHaveCount(1);
+    const geometry = await page.locator(".recite-topbar").evaluate((root) => {
+      const box = (element) => {
+        const { x, y, width, height, bottom } = element.getBoundingClientRect();
+        return { x, y, width, height, bottom };
+      };
+      const chooser = box(root.querySelector("#recite-drafts"));
+      const actions = box(root.querySelector(".recite-topbar-actions"));
+      const buttons = [...root.querySelectorAll(".recite-topbar-actions button")].map(box);
+      return { chooser, actions, buttons, bounds: box(root),
+        overflow: root.scrollWidth - root.clientWidth,
+        viewportRight: innerWidth };
+    });
+    // This test covers the set-management layout, not unrelated content
+    // elsewhere on the page that can affect document scrollWidth.
+    expect(geometry.overflow, `set-management overflow at ${width}px`).toBeLessThanOrEqual(2);
+    expect(geometry.bounds.x + geometry.bounds.width).toBeLessThanOrEqual(geometry.viewportRight + 1);
+    const [first, second, third] = geometry.buttons;
+    expect(Math.abs(first.y - second.y)).toBeLessThan(1);
+    expect(Math.abs(second.y - third.y)).toBeLessThan(1);
+    expect(Math.abs(first.height - second.height)).toBeLessThan(1);
+    expect(Math.abs(second.height - third.height)).toBeLessThan(1);
+    if (width <= 740) {
+      expect(geometry.actions.y).toBeGreaterThanOrEqual(geometry.chooser.bottom + 5);
+      expect(geometry.actions.x).toBeCloseTo(geometry.chooser.x, 0);
+      expect(geometry.actions.width).toBeCloseTo(geometry.chooser.width, 0);
+    } else {
+      expect(geometry.actions.x).toBeGreaterThan(geometry.chooser.x + geometry.chooser.width);
+      expect(Math.abs(geometry.actions.y + geometry.actions.height - geometry.chooser.bottom)).toBeLessThan(1);
+    }
+  }
+});
 
 test("create local recitation programme and read standalone lyric @smoke", async ({ page }) => {
   await page.goto("/recite/");
@@ -212,12 +342,12 @@ test("organizer can permanently preserve, renew and delete published sets @smoke
   await page.locator("#recite-results li button:not([disabled])").first().click();
   await page.locator("#recite-permanent").check();
   await page.locator("#recite-publish").click();
-  await expect(page.locator("#recite-expiration")).toContainText("Permanent");
+  await expect(page.locator("#recite-expiration")).toContainText("stays available until you delete it");
   await expect(page.locator("#recite-delete-published")).toBeVisible();
   expect(published.permanent).toBe(true);
   await page.locator("#recite-permanent").uncheck();
   await page.locator("#recite-publish").click();
-  await expect(page.locator("#recite-expiration")).toContainText("expires");
+  await expect(page.locator("#recite-expiration")).toContainText("available until");
   expect(changes).toBe(1);
   expect(published.permanent).toBeUndefined();
   page.once("dialog", (dialog) => dialog.accept());

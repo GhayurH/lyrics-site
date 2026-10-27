@@ -9,8 +9,11 @@
 .recite-app .button { min-height: 2.75rem; margin: 0; cursor: pointer; font-size: .88rem; }
 .recite-app .button:disabled { opacity: .45; cursor: not-allowed; }
 .recite-panel { border: 1px solid var(--border-colour); border-radius: .9rem; padding: clamp(1rem,2.5vw,1.55rem); background: var(--surface-background); min-width: 0; margin-bottom: 1.25rem; }
-.recite-topbar, .recite-section-heading, .recite-actions { display: flex; align-items: center; gap: .7rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
-.recite-topbar label { flex: 1 1 15rem; }
+.recite-section-heading, .recite-actions { display: flex; align-items: center; gap: .7rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
+/* A single aligned desktop row, independent of label height. */
+.recite-topbar { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: .7rem; align-items: end; margin-bottom: 1.2rem; }
+.recite-topbar-actions { display: flex; align-items: stretch; gap: .7rem; min-width: 0; }
+.recite-topbar-actions .button { height: 2.75rem; padding: .35rem .8rem; white-space: nowrap; }
 .recite-section-heading { justify-content: space-between; margin-bottom: .7rem; }
 .recite-section-heading h2, .recite-section-heading p { margin: 0; }
 .recite-builder { display: grid; grid-template-columns: minmax(16rem,1fr) minmax(0,1.65fr); gap: 1.15rem; }
@@ -91,6 +94,10 @@ html[data-reading-focus="true"] .recite-work-header h2 { text-decoration: underl
   .recite-editions .lyric-reading-roman { border-right: 0; border-top: 1px solid var(--border-colour); }
 }
 @media (max-width: 740px) {
+  /* Exactly two management rows: full-width chooser, then three actions. */
+  .recite-topbar { grid-template-columns: minmax(0,1fr); gap: .6rem; }
+  .recite-topbar-actions { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: .45rem; }
+  .recite-topbar-actions .button { min-width: 0; height: 100%; min-height: 3rem; padding: .5rem .25rem; white-space: normal; overflow-wrap: normal; font-size: clamp(.72rem,2.6vw,.86rem); line-height: 1.3; }
   .recite-builder { grid-template-columns: minmax(0,1fr); gap: 0; }
   .recite-reader-toolbar { top: .25rem; }
   .recite-reader-toolbar select { width: min(13rem,100%); }
@@ -143,3 +150,54 @@ html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
   font-weight: 650;
 }
 .recite-app .button-danger:hover { text-decoration: underline; }
+
+/* Portable exports and live following remain opt-in. Print uses a self-contained
+   snapshot, independent of lazy-loaded reader pages and network fonts. */
+.recite-reader-tools { display: flex; align-items: center; flex-wrap: wrap; gap: .65rem; margin-bottom: .75rem; }
+.recite-reader-tools button { min-height: 2.65rem; border: 1px solid var(--border-colour); border-radius: .55rem; padding: .45rem .75rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
+.recite-reader-tools button:disabled { opacity: .5; cursor: progress; }
+.recite-reader-tools p { flex-basis: 100%; margin: 0; }
+.recite-reader-live-label { display: inline-flex; align-items: center; gap: .4rem; font-size: .83rem; }
+.recite-reader-live-label[hidden] { display: none !important; }
+.recite-reader-live-label input { width: 1.2rem; height: 1.2rem; }
+#recite-live-status { max-width: 18rem; }
+html[data-reading-focus="true"] .recite-reader-tools { display: none; }
+
+.recite-live-controls { border-top: 1px solid var(--border-colour); margin-top: .8rem; padding-top: 1rem; }
+.recite-live-controls[hidden] { display: none !important; }
+.recite-live-controls h3 { margin: 0 0 .35rem; font-size: 1.05rem; }
+.recite-live-controls .recite-actions { margin: .5rem 0; }
+.recite-live-controls button { border: 1px solid var(--border-colour); border-radius: .5rem; background: var(--site-background); color: var(--primary-text); padding: .45rem .75rem; min-height: 2.6rem; cursor: pointer; }
+.recite-live-controls button:disabled { opacity: .5; cursor: not-allowed; }
+
+/* Disabled controls cannot receive mouse/keyboard focus, so their wrapper
+   exposes the reason on hover or keyboard focus. The same explanation is
+   visible below the button for touch and assistive technology. */
+.recite-publish-control { position: relative; display: inline-flex; max-width: 100%; }
+.recite-publish-control[data-unavailable="true"] { cursor: not-allowed; }
+.recite-publish-control[data-unavailable="true"] .button { pointer-events: none; }
+.recite-publish-control[data-unavailable="true"]::after {
+  content: attr(data-reason);
+  position: absolute;
+  z-index: 10;
+  left: 0;
+  bottom: calc(100% + .45rem);
+  width: max-content;
+  max-width: min(22rem,calc(100vw - 3rem));
+  white-space: normal;
+  padding: .55rem .7rem;
+  border: 1px solid var(--border-colour);
+  border-radius: .5rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font-size: .8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  box-shadow: 0 .35rem 1rem rgb(0 0 0 / .2);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+.recite-publish-control[data-unavailable="true"]:is(:hover,:focus-visible)::after { opacity: 1; visibility: visible; }
+.recite-publish-control:focus-visible { outline: var(--focus-ring); outline-offset: 3px; border-radius: .5rem; }
+.recite-share > #recite-publish-help:empty { display: none; }

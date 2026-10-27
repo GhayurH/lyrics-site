@@ -23,7 +23,9 @@ export function removeDraft(id: string): void {
   localStorage.setItem(KEY, JSON.stringify(readDrafts().filter((item) => item.id !== id)));
 }
 export function duplicateDraft(source: RecitationDraft): RecitationDraft {
-  return { ...newDraft(), set: structuredClone(source.set) };
+  const set = structuredClone(source.set);
+  delete set.live;
+  return { ...newDraft(), set };
 }
 export function findRemoteDraft(remoteId: string): RecitationDraft | undefined {
   return readDrafts().find((draft) => draft.remoteId === remoteId);

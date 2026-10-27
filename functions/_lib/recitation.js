@@ -41,9 +41,15 @@ export function validateDocument(value) {
       ...(item.note ? { note: item.note } : {}),
       ...(stanzaSequence ? { stanzaSequence } : {}) };
   });
+  const live = value.live;
+  if (live !== undefined &&
+      (!live || typeof live !== "object" || Array.isArray(live) ||
+       typeof live.active !== "boolean" || typeof live.currentUid !== "string" ||
+       !seen.has(live.currentUid))) throw Error("Invalid live programme position");
   return { version: 1, title: value.title.trim(), occasion: value.occasion.trim(),
     description: value.description.trim(),
-    ...(value.permanent ? { permanent: true } : {}), items };
+    ...(value.permanent ? { permanent: true } : {}),
+    ...(live ? { live: { active: live.active, currentUid: live.currentUid } } : {}), items };
 }
 export function json(value, status = 200) {
   return new Response(JSON.stringify(value), { status, headers: {
