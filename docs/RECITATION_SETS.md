@@ -128,7 +128,7 @@ the published record; the separate **Delete published set permanently**
 action requires the private token.
 
 Cloudflare Pages Functions implement `POST /api/recitation-sets`,
-`GET/PUT/DELETE /api/recitation-sets/{id}`, and `GET /r/{id}`.
+`GET/PUT/PATCH/DELETE /api/recitation-sets/{id}`, and `GET /r/{id}`.
 `public/_routes.json` limits Pages Functions invocations to these
 endpoints, keeping other website routes and R2-backed assets static.
 Requests without a D1 binding return 503; local drafts still work.
