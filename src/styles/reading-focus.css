@@ -41,7 +41,7 @@ html[data-reading-focus="true"] .reading-focus-enter { display: none; }
 html[data-reading-focus="true"] .reading-focus-actions { display: flex; order: 0; pointer-events: auto; }
 html[data-reading-focus="true"] .reading-controls > :is(.reading-control-group,.reading-page-jump,.reading-focus-fullscreen) { display: none; }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] {
-  gap: 0.5rem; border-color: var(--border-colour); border-radius: 0.75rem;
+  gap: 0.5rem; border-color: var(--border-colour); border-radius: var(--ui-radius-card);
   background: var(--surface-background); box-shadow: 0 0.4rem 1.5rem rgb(0 0 0 / 0.22);
 }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-control-group {
