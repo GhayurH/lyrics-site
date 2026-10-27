@@ -13,45 +13,47 @@ coverAlt: "Cover image for Palaan ki hay baat ye mimbar ki baat hay"
 published: true
 romanLyrics: |-
   Palaan ki hay baat ye mimbar ki baat hay
-  
   Maydan-e-Khum wilayat-e-Haidar ki baat hay
   
-  1) Jibareel laykay jao ye balligh ki ayatein
-  
+  1
+  Jibareel laykay jao ye balligh ki ayatein
   Kehedo kay ab ye kaare Payambar ki baat hay
   
-  2) Baade Nabi Ali hain wali keh chukay Rasool
-  
+  2
+  Baade Nabi Ali hain wali keh chukay Rasool
   Bhoolay wo kis tarha kay yay ghar ghar ki baat hay
   
-  3) Fath-e-Hunain o Khandaq o Khaybar ki baat hay
-  
+  3
+  Fath-e-Hunain o Khandaq o Khaybar ki baat hay
   Ik fard hay lage hay kay lashkar ki baat hay
   
-  4) Goonjayga ab fiza may Ali-e-Wali ka naam
-  
+  4
+  Goonjayga ab fiza may Ali-e-Wali ka naam
   Qalb-e-munafiqeen pay khanjar ki baat hay
   
-  5) Momin kay dil hain shaad munafiq jalay hooway
-  
+  5
+  Momin kay dil hain shaad munafiq jalay hooway
   Saahab ye apne apne muqaddar ki baat hay
   
-  6) Kyun kar na ata arsh say patthar paey sanad
-  
+  6
+  Kyun kar na ata arsh say patthar paey sanad
   Akhir ko yay wilayat-e-Haidar ki baat hay
   
-  7) Bhagey na aj koyi karo aisa intizam
-  
+  7
+  Bhagey na aj koyi karo aisa intizam
   Boozar kay kaan may yahi Qambar ki baat hay
   
-  8) Qaayam hay ab bhi akhri Mawla Ghadeer ka
-  
+  8
+  Qaayam hay ab bhi akhri Mawla Ghadeer ka
   Meri nahi ye Sura-e-Kawsar ki baat hay
   
-  9) Baade Ghadeer bazm-e-saqifa mein baithna
-  
+  9
+  Baade Ghadeer bazm-e-saqifa mein baithna
   Aawaragi-e-fikar hay yay shar ki baat hay
 ---
+
+پالان کی ہے بات یہ منبر کی بات ہے
+میدانِ خم ولایتِ حیدر کی بات ہے
 
 جبرئیل لے کے جاؤ یہ بلّغ کی آیتیں
 کہہ دو کہ اب یہ کارِ پیغمبر کی بات ہے
