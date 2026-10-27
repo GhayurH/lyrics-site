@@ -54,6 +54,7 @@ test("a reciter can reorder and borrow verified stanzas without altering source"
   assert.deepEqual(sequence.map((item) => item.urdu), [
     "پانچواں شعر", "دوسرا کلام", "پہلا شعر\nدوسرا شعر",
   ]);
+  assert.equal(sequence[1].sourceKalamId, kalams[1].id);
   assert.equal(kalams[0].stanzas.length, 3);
 });
 
@@ -70,4 +71,24 @@ test("missing separators never silently merge two indexed poems", () => {
     page: 142, urdu: "گھر سے جب بہر سفر\n۱\nالف\nجاتی ہے بہار\n۱\nب",
   }]);
   assert.equal(report.kalams.some((item) => item.status === "review"), true);
+});
+
+
+test("extra unindexed parts are audited instead of assigned to indexed poems", () => {
+  const entries = [
+    { ...first, page: 139, number: 82 },
+    ...[86, 87, 88, 89].map((number) => ({
+      ...first, page: 140, number, name: "Index " + number,
+    })),
+  ];
+  const parts = ["continuation", "poem 86", "poem 87", "unindexed", "poem 88", "poem 89"];
+  const result = buildBastaKalamCatalog(entries, [
+    { page: 139, urdu: "Original beginning" },
+    { page: 140, urdu: parts.join("\n---***---\n") },
+  ]);
+  assert.equal(result.orphans.length, 1);
+  assert.equal(result.orphans[0].opening, "unindexed");
+  assert.match(result.kalams[0].urdu, /continuation/);
+  assert.equal(result.kalams[1].urdu, "poem 86");
+  assert.equal(result.kalams[3].urdu, "poem 88");
 });
