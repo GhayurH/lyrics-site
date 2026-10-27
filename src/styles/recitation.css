@@ -312,3 +312,23 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 }
 .recite-reader-exports .recite-reader-tools { margin-top: .65rem; }
 html[data-reading-focus="true"] .recite-reader-exports { display: none; }
+
+/* Publication is the final step: retain a visible disabled Publish action for
+   explanation, while its advanced link/expiry choices stay in a disclosure
+   until the draft is ready. Navigation can reveal them at any point. */
+.recite-share-details { margin: .45rem 0 .7rem; }
+.recite-share-details > summary {
+  display: list-item; width: fit-content; min-height: var(--ui-target);
+  cursor: pointer; padding: .55rem .15rem; font-size: .88rem; font-weight: 700;
+}
+.recite-share-details-body { padding: .15rem 0 .55rem; max-width: 53rem; }
+.recite-share-details .recite-sharing-policy { margin-bottom: .35rem; }
+.recite-share[data-ready="false"] > #recite-expiration { display: none; }
+.recite-share[data-ready="false"] { background: transparent; }
+.recite-steps a[data-stage-ready="false"]:not([aria-current="step"]) {
+  color: var(--secondary-text); border-style: dashed;
+}
+.recite-steps a[data-stage-ready="true"] { text-decoration-thickness: from-font; }
+.recite-steps a:focus-visible, .recite-share-details > summary:focus-visible {
+  outline: var(--focus-ring); outline-offset: 3px;
+}

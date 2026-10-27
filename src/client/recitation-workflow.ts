@@ -17,7 +17,20 @@ export function initRecitationWorkflow(): void {
     }
   };
   if (sections.length) setStep(sections[0].link);
-  for (const { link } of sections) link.addEventListener("click", () => setStep(link));
+  for (const { link } of sections) link.addEventListener("click", () => {
+    setStep(link);
+    if (link.dataset.reciteStep === "share") {
+      const detail = app.querySelector<HTMLDetailsElement>("#recite-share-details");
+      if (detail) { detail.open = true; detail.dataset.userToggled = "true"; }
+    }
+  });
+  const sharing = app.querySelector<HTMLDetailsElement>("#recite-share-details");
+  sharing?.addEventListener("toggle", (event) => {
+    // A programmatic change also emits toggle, but the controller's next
+    // render preserves the state; don't fight a reader's manual choice.
+    if (!event.isTrusted) return;
+    sharing.dataset.userToggled = "true";
+  });
   if ("IntersectionObserver" in window && sections.length) {
     const observer = new IntersectionObserver((entries) => {
       const visible = entries.filter((entry) => entry.isIntersecting)

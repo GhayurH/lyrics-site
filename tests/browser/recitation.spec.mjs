@@ -477,3 +477,22 @@ test("the programme uses shared edition geometry and starts sequentially on mobi
   expect(Math.abs(roman.y - urdu.y)).toBeLessThan(25);
   expect(roman.x + roman.width).toBeLessThanOrEqual(urdu.x + 5);
 });
+
+test("sharing choices are disclosed as the programme becomes publishable @smoke", async ({ page }) => {
+  await page.goto("/recite/");
+  const options = page.locator("#recite-share-details");
+  await expect(options).not.toHaveAttribute("open", "");
+  await expect(page.locator("#recite-publish")).toBeVisible();
+  await expect(page.locator("#recite-publish")).toBeDisabled();
+  await page.locator("#recite-title").fill("Read for majlis");
+  await expect(options).not.toHaveAttribute("open", "");
+  await page.locator("#recite-source").selectOption("lyric");
+  await page.locator("#recite-results li button:not([disabled])").first().click();
+  await expect(options).toHaveAttribute("open", "");
+  await expect(page.locator("#recite-permanent")).toBeVisible();
+  await expect(page.locator(".recite-steps [data-recite-step='share']")).toHaveAttribute("data-stage-ready", "true");
+  await options.locator("summary").click();
+  await expect(options).not.toHaveAttribute("open", "");
+  await page.locator("#recite-title").fill("Read for majlis — updated");
+  await expect(options).not.toHaveAttribute("open", "");
+});
