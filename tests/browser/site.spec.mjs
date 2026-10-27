@@ -42,6 +42,8 @@ test("appearance persists across pages and search filters are accessible @smoke"
   await page.emulateMedia({ colorScheme: "dark" });
   await page.goto("/");
   await page.locator("#theme-toggle").click();
+  await page.locator('input[name="theme-mode"][value="light"]').check();
+  await page.locator("#theme-dialog-done").click();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#f7f7f8");
   await page.goto("/search/");
@@ -211,6 +213,8 @@ test("responsive browse and builder panels keep accessible controls in either th
   }
   await page.goto("/");
   await page.locator("#theme-toggle").click();
+  await page.locator('input[name="theme-mode"][value="light"]').check();
+  await page.locator("#theme-dialog-done").click();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   // Focus-visible is a keyboard modality, not a programmatic pointer focus.
   await page.keyboard.press("Tab");
