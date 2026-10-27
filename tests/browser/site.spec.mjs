@@ -207,6 +207,8 @@ test("responsive browse and builder panels keep accessible controls in either th
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
+  // Focus-visible is a keyboard modality, not a programmatic pointer focus.
+  await page.keyboard.press("Tab");
   await page.locator(".home-collection-card").first().focus();
   await expect(page.locator(".home-collection-card").first()).toHaveCSS("outline-style", "solid");
 });
