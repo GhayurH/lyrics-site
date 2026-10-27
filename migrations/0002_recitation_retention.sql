@@ -14,3 +14,13 @@ CREATE TABLE IF NOT EXISTS recitation_creation_limits (
   expires_at TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS recitation_creation_limits_expiry ON recitation_creation_limits (expires_at);
+
+-- Compact daily totals for trend monitoring. Retain only the last 90 days.
+CREATE TABLE IF NOT EXISTS recitation_maintenance_metrics (
+  day TEXT PRIMARY KEY NOT NULL,
+  sets_total INTEGER NOT NULL,
+  sets_permanent INTEGER NOT NULL,
+  sets_expired_pending INTEGER NOT NULL,
+  document_bytes_estimate INTEGER NOT NULL,
+  deleted_sets INTEGER NOT NULL
+);
