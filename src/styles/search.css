@@ -52,9 +52,9 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 .search-results-shell { margin-top: 1.5rem; }
 @media (max-width: 700px) { .search-header { margin-bottom: .8rem; } }
 
-/* Pagefind's component UI has its own palette. Align it with the site for
-   Sepia and Custom rather than leaving white search fields inside warm/dark panels. */
-html:is([data-theme="sepia"], [data-theme="custom"]) .search-page {
+/* Pagefind's component UI inherits the same palettes, including AMOLED,
+   rather than introducing contrasting default search fields. */
+html:is([data-theme="sepia"], [data-theme="custom"], [data-theme="amoled"]) .search-page {
   --pf-text: var(--primary-text);
   --pf-text-secondary: var(--secondary-text);
   --pf-text-muted: var(--secondary-text);
