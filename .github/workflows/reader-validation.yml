@@ -27,21 +27,21 @@ jobs:
           node-version: '24'
           cache: npm
       - run: npm ci
-      # Prebuild executes Node tests and recitation identity checks on each push.
-      # Mark a milestone commit [full-ci] to run the complete browser suite.
+      # Every build runs Node tests and stable-ID checks through prebuild.
+      # Ordinary PR updates skip browsers. Explicit commit markers control
+      # milestones; main always receives at least a browser smoke pass.
       - id: test_mode
         shell: bash
         run: |
-          if { git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD; git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD^2 2>/dev/null || true; } | grep -Fq '[full-ci]'; then
-            echo 'full=true' >> "$GITHUB_OUTPUT"
-          else
-            echo 'full=false' >> "$GITHUB_OUTPUT"
-          fi
-          if { git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD; git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD^2 2>/dev/null || true; } | grep -Fq '[visual-ci]'; then
-            echo 'visual=true' >> "$GITHUB_OUTPUT"
-          else
-            echo 'visual=false' >> "$GITHUB_OUTPUT"
-          fi
+          messages="$(git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD;
+            git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD^2 2>/dev/null || true)"
+          for mode in smoke full visual; do
+            if grep -Fq "[$mode-ci]" <<< "$messages"; then
+              echo "$mode=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "$mode=false" >> "$GITHUB_OUTPUT"
+            fi
+          done
       - run: npm run build
       - name: Audit Basta page boundaries
         if: steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'
@@ -53,13 +53,13 @@ jobs:
           grep -Fq '/files/* https://r2-assets.kalamarchive.com/files/:splat 302' dist/_redirects
           test -f dist/_routes.json
           node --input-type=module -e "import { readFileSync } from 'node:fs'; const routes=JSON.parse(readFileSync('dist/_routes.json','utf8')); for (const path of ['/api/recitation-sets','/api/recitation-sets/*','/r/*']) if (!routes.include.includes(path)) throw Error('Missing Pages Function route: '+path); if (routes.include.includes('/*')) throw Error('Unexpected all-static Function invocation');"
-      - name: Browser regression suite (milestones only)
-        if: steps.test_mode.outputs.full == 'true' || steps.test_mode.outputs.visual == 'true' || github.ref == 'refs/heads/main'
+      - name: Browser regression suite (selected checks)
+        if: steps.test_mode.outputs.smoke == 'true' || steps.test_mode.outputs.full == 'true' || steps.test_mode.outputs.visual == 'true' || github.ref == 'refs/heads/main'
         run: |
-          if [ "${{ steps.test_mode.outputs.visual }}" = "true" ]; then
-            npx playwright test
+          if [ "${{ steps.test_mode.outputs.full }}" = "true" ] || [ "${{ steps.test_mode.outputs.visual }}" = "true" ]; then
+            npm run test:browser
           else
-            npx playwright test --grep '@smoke'
+            npm run test:smoke
           fi
       - name: Save representative responsive captures
         if: always() && steps.test_mode.outputs.visual == 'true'
