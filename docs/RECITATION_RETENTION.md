@@ -116,11 +116,16 @@ npx wrangler deploy --config workers/wrangler.cleanup.jsonc
 The D1 database UUIDs in this file identify resources and are not access
 credentials. Never commit Wrangler auth tokens or private edit links.
 
-The Pages site's **separate** settings can be exported from Cloudflare with
-`npx wrangler pages download config lyrics-site`. Inspect the generated root
-`wrangler` file before committing or deploying; its production and preview D1
-bindings must match the existing dashboard, and the Pages output must remain
-`./dist`. Do not replace the Pages configuration with the cleanup Worker config.
+The Pages site's **separate** configuration was exported from the live
+Cloudflare dashboard and committed as root `wrangler.toml`. Its top-level D1
+binding and `RECITATION_RETENTION_MODE=preview` are for preview; the
+`[env.production]` overrides point to the production D1 database and use
+`RECITATION_RETENTION_MODE=production`. Both database IDs were checked
+against `wrangler d1 list`; the Pages build output remains `dist`.
+
+Treat this file as the Pages source of truth during subsequent deployments.
+Changes to the Pages dashboard bindings should also update `wrangler.toml`.
+Do not replace it with the separate Worker configuration.
 
 Cloudflare Cron documentation:
 https://developers.cloudflare.com/workers/configuration/cron-triggers/
