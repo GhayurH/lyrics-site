@@ -70,16 +70,23 @@ import "../../styles/recitation.css";
     <section class="recite-panel recite-share" aria-labelledby="recite-share-heading">
       <h2 id="recite-share-heading">Share your programme</h2>
       <p class="recite-hint">Publishing stores the programme order and stanza references in Cloudflare D1. Poetry text remains in the archive. Public links are read-only.</p>
+      <label class="recite-retention-option">
+        <input type="checkbox" id="recite-permanent" />
+        Preserve this published programme permanently
+      </label>
+      <p class="recite-hint">Otherwise, production links expire 24 months after the last publication or edit. Updating renews the period. Preview/test links expire after 30 days regardless of this setting.</p>
       <div class="recite-actions">
         <button id="recite-publish" class="button" type="button">Publish set</button>
         <span class="recite-hint" id="recite-publish-state"></span>
       </div>
+      <p id="recite-expiration" class="recite-hint" aria-live="polite"></p>
       <div id="recite-shared-links" class="recite-shared-links" hidden>
         <label>Public recitation link <input id="recite-public-url" type="text" readonly /></label>
         <button id="recite-copy-public" class="button button-secondary" type="button">Copy public link</button>
         <label>Private organizer edit link <input id="recite-edit-url" type="text" readonly /></label>
         <button id="recite-copy-edit" class="button button-secondary" type="button">Copy private edit link</button>
-        <p class="recite-hint">Keep the private edit link secure. Anyone with it can change the published programme. Links stay the same after updates.</p>
+        <p class="recite-hint">Keep the private edit link secure. Anyone with it can change or delete the published programme. Links stay the same after updates.</p>
+        <button type="button" id="recite-delete-published" class="button button-danger" hidden>Delete published set permanently</button>
       </div>
     </section>
   </article>
