@@ -100,3 +100,7 @@ html[data-reading-focus="true"] .recite-work-header h2 { text-decoration: underl
 .recite-editions .lyric-reading-roman .basta-kalam-text { line-height: 2; }
 .recite-work { scroll-margin-top: 9rem; }
 html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
+
+.recite-results li a { color: inherit; text-underline-offset: .22em; }
+.recite-results li a:hover { text-decoration-thickness: 2px; }
+.recite-results li strong[lang="ur"], .recite-list-info strong[lang="ur"] { line-height: 2.25; }
