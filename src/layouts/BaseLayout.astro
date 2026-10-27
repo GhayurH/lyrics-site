@@ -80,15 +80,16 @@ const aboutActive = path.startsWith("/about/");
               parseInt(second.slice(i, i + 2), 16) * (1 - share)).toString(16).padStart(2, "0")).join("");
           const minContrast = (text) => Math.min(...backgrounds.map((value) => contrast(luminance(text), value)));
           const primary = optional("primaryText") || foreground;
-          let muted = primary;
+          let muted = foreground;
           const average = blend(main, secondary, .5);
           for (let share = .95; share >= .05; share -= .05) {
-            const candidate = blend(primary, average, share);
+            const candidate = blend(foreground, average, share);
             if (minContrast(candidate) < 4.5) break;
             muted = candidate;
           }
           muted = optional("mutedText") || muted;
           const border = optional("borders");
+          root.style.setProperty("--theme-border-auto", blend(foreground, main, .22));
           if (border) root.style.setProperty("--theme-border", border);
           for (const [key, value] of Object.entries({
             "--theme-main": main, "--theme-secondary": secondary,
