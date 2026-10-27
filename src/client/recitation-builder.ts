@@ -272,19 +272,20 @@ export async function initRecitationBuilder(): Promise<void> {
         throw Error("This kalam has no verified numbered stanzas");
       const sequence = item.stanzaSequence || current.stanzas.map((stanza) =>
         ({ kalamId: current.id, stanzaId: stanza.id }));
-      const sources = await Promise.all(sequence.map((ref) => loadBasta(ref.kalamId)));
+      const sources = await Promise.all(sequence.map((ref) => loadBasta(ref.kalamId).catch(() => undefined)));
       if (arranging !== item.uid) return;
       list.replaceChildren(...sequence.map((ref, index) => {
         const origin = sources[index];
-        const stanza = origin.stanzas.find((s) => s.id === ref.stanzaId);
+        const stanza = origin?.stanzas.find((s) => s.id === ref.stanzaId);
         const li = document.createElement("li");
         li.className = "recite-list-row";
         const description = div("recite-list-info");
         const name = document.createElement("strong");
         name.textContent = (index + 1) + ". Stanza " + (stanza?.number ?? "?");
         const excerpt = document.createElement("small");
-        excerpt.textContent = origin.name +
-          (stanza ? " · " + stanza.urdu.split("\n").find((s) => !!s.trim())?.slice(0, 80) : " · Stanza unavailable");
+        excerpt.textContent = (origin?.name || ref.kalamId) +
+          (stanza ? " · " + stanza.urdu.split("\n").find((s) => !!s.trim())?.slice(0, 80) :
+            " · SOURCE UNAVAILABLE — reference preserved");
         description.append(name, excerpt);
         const actions = div("recite-list-actions");
         actions.append(
@@ -413,10 +414,37 @@ export async function initRecitationBuilder(): Promise<void> {
     delete item.stanzaSequence;
     persist(); renderSequence(); void showArrangement();
   });
+  async function sourceWarnings(set: RecitationSet): Promise<string[]> {
+    const warnings: string[] = [];
+    for (const item of set.items) {
+      const source = getCatalog(item);
+      if (!source?.ready) {
+        warnings.push("Unavailable kalam: " + (item.sourceTitle || item.id));
+        continue;
+      }
+      for (const ref of item.stanzaSequence || []) {
+        try {
+          const poem = await loadBasta(ref.kalamId);
+          if (!poem.stanzas.some((stanza) => stanza.id === ref.stanzaId)) {
+            warnings.push("Missing stanza: " + ref.kalamId + " / " + ref.stanzaId);
+          }
+        } catch {
+          warnings.push("Unavailable stanza source: " + ref.kalamId);
+        }
+      }
+    }
+    return [...new Set(warnings)];
+  }
   elm<HTMLButtonElement>("recite-publish").addEventListener("click", async () => {
     let clean: RecitationSet;
     try { clean = validateRecitationSet(draft.set); }
     catch (e) { say((e as Error).message); return; }
+    const warnings = await sourceWarnings(clean);
+    if (warnings.length) {
+      say(warnings.join(" · "));
+      if (!confirm(warnings.join("\n") +
+          "\n\nPublish anyway? Missing references will be shown as warnings; they will not be removed.")) return;
+    }
     // New publication never overwrites a remote set without its edit capability.
     const update = !!draft.remoteId && !!draft.editToken;
     const url = update
