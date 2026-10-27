@@ -5,7 +5,7 @@ import {
   toggleFavorite,
 } from "./storage";
 import {
-  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, readCustomPalette, readTheme,
+  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, readCustomPalette, readTheme, validHex,
   type CustomPalette, type ThemeName,
 } from "./theme";
 
@@ -195,7 +195,23 @@ function initThemePicker(): void {
 
   let selected: ThemeName = readTheme();
   let palette: CustomPalette = readCustomPalette();
+  let startingPalette: CustomPalette = { ...DEFAULT_PALETTE };
   const colorNames: (keyof CustomPalette)[] = ["main", "secondary", "accent"];
+
+  // Read the actual preset tokens rather than duplicating their colours in TS.
+  // The previous preset is still active when the user clicks Custom.
+  const paletteFromCurrentPreset = (): CustomPalette => {
+    const style = getComputedStyle(document.documentElement);
+    const read = (property: string, fallback: string) => {
+      const value = style.getPropertyValue(property).trim();
+      return validHex(value) ? value.toLowerCase() : fallback;
+    };
+    return {
+      main: read("--site-background", DEFAULT_PALETTE.main),
+      secondary: read("--surface-background", DEFAULT_PALETTE.secondary),
+      accent: read("--accent-color", DEFAULT_PALETTE.accent),
+    };
+  };
 
   const render = (save: boolean) => {
     const ratio = applyTheme(selected, palette, save);
@@ -225,7 +241,14 @@ function initThemePicker(): void {
   dialog.querySelectorAll<HTMLInputElement>('input[name="theme-mode"]').forEach((input) => {
     input.addEventListener("change", () => {
       if (!input.checked) return;
-      selected = input.value as ThemeName;
+      const next = input.value as ThemeName;
+      if (next === "custom" && selected !== "custom") {
+        // Starting Custom must always match the selected preset, not the
+        // previously saved Sepia-based palette.
+        palette = paletteFromCurrentPreset();
+        startingPalette = { ...palette };
+      }
+      selected = next;
       render(true);
     });
   });
@@ -238,7 +261,7 @@ function initThemePicker(): void {
     });
   }
   dialog.querySelector<HTMLButtonElement>("#theme-reset-custom")?.addEventListener("click", () => {
-    palette = { ...DEFAULT_PALETTE };
+    palette = { ...startingPalette };
     selected = "custom";
     render(true);
   });
