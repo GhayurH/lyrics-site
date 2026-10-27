@@ -1,0 +1,40 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import ReadingControls from "../../../components/ReadingControls.astro";
+import "../../../styles/lyrics.css";
+import "../../../styles/basta.css";
+import "../../../styles/recitation.css";
+---
+<BaseLayout title="Recitation reader | Kalam Archive" description="Read a complete ordered programme in Urdu or Roman Urdu, sequentially or continuously.">
+  <article class="recite-reader" id="recite-reader" data-pagefind-ignore>
+    <header class="recite-reader-heading">
+      <p class="eyebrow">Recitation programme</p>
+      <h1 id="recite-reader-title">Loading programme…</h1>
+      <p id="recite-reader-description"></p>
+      <a href="/recite/" id="recite-reader-edit">← Recitation Sets</a>
+      <a href="/recite/" id="recite-reader-copy">Use this set as a template</a>
+    </header>
+    <p id="recite-reader-error" role="alert" hidden>Unable to load this programme.</p>
+    <p data-requires-js>This reader requires JavaScript. Browse <a href="/">individual kalams</a> instead.</p>
+    <ReadingControls ariaLabel="Recitation reading options" modeGroupLabel="Show editions" showModes hasImage />
+    <div id="recite-reading-root" class="recite-reading-root" data-reading-root data-reader-kind="recitation" data-has-roman="true" data-reading-mode="parallel" data-reading-columns="urdu roman" data-line-spacing="default">
+      <nav class="recite-reader-toolbar" aria-label="Programme navigation">
+        <button type="button" id="recite-previous">← Previous</button>
+        <label class="recite-reader-progress" for="recite-reader-contents">Kalam <span id="recite-position">—</span></label>
+        <select id="recite-reader-contents" aria-label="Jump to a kalam"></select>
+        <button type="button" id="recite-next">Next →</button>
+        <label class="recite-reader-view-label" for="recite-reader-view">View
+          <select id="recite-reader-view">
+            <option value="continuous">Continuous</option>
+            <option value="sequential">One at a time</option>
+          </select>
+        </label>
+      </nav>
+      <div id="recite-works" class="recite-works" aria-live="off"></div>
+    </div>
+  </article>
+  <script>
+    import { initRecitationReader } from "../../../client/recitation-reader";
+    void initRecitationReader();
+  </script>
+</BaseLayout>

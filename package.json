@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "npm test",
+    "prebuild": "npm test && npm run recitation:ids:check",
     "build": "astro build && pagefind",
     "preview": "astro preview",
     "search-preview": "npm run build && astro preview",
@@ -18,7 +18,9 @@
     "basta:index:check": "node scripts/sync-basta-index.mjs --index-only --check",
     "basta:breaks:rebuild": "node scripts/sync-basta-index.mjs --sync-breaks",
     "test": "node --experimental-strip-types --test tests/*.test.mjs",
-    "basta:kalams:audit": "node --experimental-strip-types scripts/audit-basta-kalams.mjs"
+    "basta:kalams:audit": "node --experimental-strip-types scripts/audit-basta-kalams.mjs",
+    "recitation:ids:check": "node --experimental-strip-types scripts/recitation-identities.mjs --check",
+    "recitation:ids:sync": "node --experimental-strip-types scripts/recitation-identities.mjs --sync"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

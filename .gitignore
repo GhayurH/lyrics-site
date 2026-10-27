@@ -18,6 +18,9 @@ pnpm-debug.log*
 # Environment-specific secrets/configuration
 .env
 .env.production
+.env.*
+!.env.example
+.dev.vars*
 
 # Local one-off maintenance work; production source belongs under src/.
 /tools/

@@ -1,6 +1,8 @@
 // Server-only bridge between Astro content and the canonical Basta kalam catalog.
 import { getCollection } from "astro:content";
 import index from "../data/basta/index.json";
+import identityLock from "../data/recitation/identity-lock.json";
+import { applyRecitationIds } from "./recitation-identity";
 import { buildBastaKalamCatalog, type BastaKalamAudit, type BastaSourcePage } from "./basta-kalam-units";
 
 let catalogPromise: Promise<BastaKalamAudit> | undefined;
@@ -17,7 +19,8 @@ export function loadBastaKalamCatalog(): Promise<BastaKalamAudit> {
         urdu: item.body || "",
         roman: byPage.get(item.data.page),
       }));
-      return buildBastaKalamCatalog(index, pages);
+      const catalog = buildBastaKalamCatalog(index, pages);
+      return { ...catalog, kalams: applyRecitationIds(catalog.kalams, identityLock) };
     })();
   }
   return catalogPromise;
