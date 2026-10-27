@@ -34,7 +34,7 @@
 .lyric-details dd a:hover { text-decoration-color: currentColor; }
 .lyric-details a:focus-visible, .tag-link:focus-visible, .lyric-neighbor-nav a:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
-.lyric-reading-grid { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0; overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.85rem; background: var(--surface-background); }
+.lyric-reading-grid { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0; overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.85rem; background: var(--site-background); }
 .lyric-reading-grid-single { display: block; max-width: 48rem; margin-inline: auto; }
 .lyric-reading-panel { min-width: 0; padding: clamp(1.15rem, 2.6vw, 2.1rem); }
 .lyric-reading-urdu { grid-area: urdu; font-size: clamp(1.35rem, 3vw, 1.8rem); }
