@@ -80,7 +80,7 @@ test("unreadable main and secondary combinations show actionable contrast guidan
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
 });
 
-test("dialog stays in the viewport and Escape closes it on small phones and landscape @smoke", async ({ page }) => {
+test("dialog stays in the viewport and Escape closes it on small phones and landscape", async ({ page }) => {
   for (const viewport of [{ width: 320, height: 700 }, { width: 844, height: 390 }]) {
     await page.setViewportSize(viewport);
     await page.goto("/basta/");
@@ -117,7 +117,7 @@ test("old saved light/dark themes work and invalid palettes never inject CSS", a
   await expect(page.locator("#theme-accent")).toHaveValue("#abcdef");
 });
 
-test("AMOLED uses pure-black page and panels and persists across routes @smoke", async ({ page }) => {
+test("AMOLED uses pure-black page and panels and persists across routes", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   await page.locator('#theme-dialog input[value="amoled"]').check();
@@ -133,7 +133,7 @@ test("AMOLED uses pure-black page and panels and persists across routes @smoke",
     .not.toBe("rgb(0, 0, 0)");
 });
 
-test("Custom starts from whichever preset is active, including AMOLED @smoke", async ({ page }) => {
+test("Custom starts from whichever preset is active, including AMOLED", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   const presets = [
@@ -228,7 +228,7 @@ test("appearance offers the succinct Custom label, not Build your own", async ({
   await expect(page.locator("#theme-dialog")).not.toContainText("Build your own");
 });
 
-test("Advanced colours default to Auto and save independent text and border overrides @smoke", async ({ page }) => {
+test("Advanced colours default to Auto and save independent text and border overrides", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   await page.locator('#theme-dialog input[value="light"]').check();
@@ -288,7 +288,7 @@ test("Advanced colours default to Auto and save independent text and border over
   await expect(page.locator("#theme-main")).toHaveValue("#f7f7f8");
 });
 
-test("manual low-contrast text is warned about, and Advanced fits narrow viewports @smoke", async ({ page }) => {
+test("manual low-contrast text is warned about, and Advanced fits narrow viewports", async ({ page }) => {
   await page.setViewportSize({ width: 320, height: 700 });
   await page.goto("/basta/");
   await page.locator("#theme-toggle").click();
