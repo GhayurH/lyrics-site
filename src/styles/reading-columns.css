@@ -466,3 +466,6 @@ html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-pager {
 html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-nav-button:first-child { grid-column: 1; }
 html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-nav-button:last-child { grid-column: 2; }
 html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-jump-form { display: none; }
+
+/* The floating scan's normal sticky viewport is not applied to Focus Mode. */
+html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-floating-scan="true"] { --reader-scan-clearance: 3.3rem; }

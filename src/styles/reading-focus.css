@@ -101,3 +101,30 @@ html[data-reading-focus="true"] .recite-reading-root {
     padding-block-start: max(7.8rem, calc(7.3rem + env(safe-area-inset-top)));
   }
 }
+
+/* End-of-viewport Focus typography is centred as one bounded reading group. */
+
+@media (min-width: 641px) {
+  html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"]:not([data-reading-columns~="image"]) {
+    grid-template-columns: repeat(2,minmax(0,min(50%,34rem)));
+    justify-content: center;
+    column-gap: 0;
+  }
+}
+/* The image's own fixed Focus viewport must not inherit the normal page toolbar's
+   clearance: that measurement can refer to the hidden site header. */
+html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"] .lyric-reading-image {
+  position: sticky; top: 3.3rem;
+  display: flex; align-items: center; justify-content: center;
+  height: calc(100dvh - 4.2rem); max-height: calc(100dvh - 4.2rem);
+  min-height: 0; margin: 0; padding: 0; align-self: start;
+  border: 0; background: transparent; overflow: visible;
+}
+html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"] .lyric-reading-image > a {
+  display: flex; align-items: center; justify-content: center;
+  height: 100%; max-height: 100%; width: 100%; min-height: 0;
+}
+html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"] .lyric-reading-image img {
+  display: block; width: auto; height: auto; max-width: 100%;
+  max-height: calc(100dvh - 4.4rem); object-fit: contain;
+}

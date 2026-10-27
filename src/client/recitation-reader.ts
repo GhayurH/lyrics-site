@@ -373,6 +373,9 @@ export async function initRecitationReader(): Promise<void> {
       tab.document.open();
       tab.document.write(html);
       tab.document.close();
+      // Printing before the embedded Nastaliq faces load causes silent fallback
+      // to Naskh, even though the HTML declares the right font.
+      await tab.document.fonts.ready;
       tab.focus();
       tab.print(); // Browser print dialog also offers Save as PDF.
       exportMessage.textContent = "Print preview opened. Choose Save as PDF to export a PDF.";
