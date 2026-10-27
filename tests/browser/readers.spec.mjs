@@ -383,3 +383,12 @@ test("the floating standalone reader does not trap sticky scans in a clipped scr
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   await expect(page.locator(".lyric-reading-grid")).toHaveCSS("overflow-x", "clip");
 });
+
+test("a floating scan is never selected for text-column scrolling @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1550, height: 900 });
+  await page.goto("/basta/145/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  const scan = page.locator(".basta-original-page");
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+  await expect(scan).not.toHaveAttribute("data-synced-scrollable", "true");
+});

@@ -29,7 +29,8 @@ Browser code lives here rather than in a generic `scripts/` directory. This prev
 
 - `storage.ts` owns localStorage parsing/writes and storage keys.
 - `site.ts` owns global theme and favorite-button enhancement.
-- `reader-state.ts` owns shared reading preferences.
+- `reader-state.ts` owns shared reading preferences, and `basta-bookmarks.ts` manages optional page bookmarks.
+- `floating-scans.ts` enables centred, sticky source images only when they share a grid row with text; its clearance respects the visible header and reader toolbar.
 - `lyric-card.ts` and `saved-library.ts` provide the client-rendered Saved/Recent view while reusing the same card data/class contract as Astro cards.
 - `search.ts` owns Pagefind URL synchronization and active-filter chips.
 - `basta-stream.ts` owns progressive continuous-reader chunk loading.
@@ -70,11 +71,11 @@ Any future card fields should be added to `LyricCardData` first.
 
 ## Reader state
 
-Normal lyrics, page-by-page Basta, the linked Basta index, and the continuous reader all use `ReadingControls.astro` and `src/client/reader-state.ts`. Reader preferences are stored under one browser key and should not be reimplemented route-by-route.
+Normal lyrics, page-by-page Basta, the linked Basta index, the continuous reader, and Recitation Sets all use `ReadingControls.astro` and `src/client/reader-state.ts`. Reader preferences are stored under one browser key and should not be reimplemented route-by-route.
 
 On narrow screens the regular reader shows a compact sticky bar with Focus mode and an expandable Options button; edition selectors, line spacing, and continuous-reader tools appear when expanded. Focus mode retains its independent Options interface. The mobile site header is a single-row title/menu/theme toolbar that retracts on downscroll and reappears on upscroll. Poetry verses remain single-line through automatic text fitting; readers cannot force wrapping or horizontal scrolling. Edition availability and text-first defaults are rendered into the HTML so the static page is legible without JavaScript. Edition layout is centralized in `reading-columns.css` using container queries. The explicit small-screen portrait exception ensures page-by-page Basta language panels stack at full width.
 
-Basta kalam boundaries come from the explicit `---***---` marker in page Markdown and are never inferred from stanza lengths. The two editions render separate, naturally sized kalam blocks; the client synchronizes their scroll positions by matching kalam number plus fraction within that kalam. Scan images are synchronized using their overall scroll percentage. Synchronization activates only for panels that appear side by side; stacked and single-language modes use ordinary flow. Standalone lyrics use page-wide proportional scrolling. This keeps the short ending *Bain* on page 138 aligned without requiring the shorter Roman text to occupy artificial whitespace.
+Basta kalam boundaries come from the explicit `---***---` marker in page Markdown and are never inferred from stanza lengths. The two editions render separate, naturally sized kalam blocks; the client synchronizes their scroll positions by matching kalam number plus fraction within that kalam. A source scan shown beside text floats in a viewport-centred column and is excluded from text-height synchronization; when stacked, it remains in normal document flow. Synchronization activates only for panels that appear side by side; stacked and single-language modes use ordinary flow. Standalone lyrics use page-wide proportional scrolling. This keeps the short ending *Bain* on page 138 aligned without requiring the shorter Roman text to occupy artificial whitespace.
 
 `src/client/reading-focus.ts` manages Focus mode, browser history, fullscreen, and position restoration. `reading-focus.css` owns its immersive shell; `reading-columns.css` owns the actual edition geometry.
 
@@ -87,7 +88,7 @@ Basta kalam boundaries come from the explicit `---***---` marker in page Markdow
 - A Basta page without Roman text falls back to its scan when Roman is the only chosen edition and explains why. Image-only pages always retain a scan.
 - `BastaContinuousPage.astro` and `basta-stream.ts` must render the same scan links, unavailable-edition labels, edition sections, page numbers, and kalam boundaries. Add parity assertions when changing either path.
 - The index switches from two tables to accessible compact linked entries only at very narrow container widths; no content source is duplicated.
-- Reading history and reader preferences use distinct localStorage keys. Neither leaves the browser.
+- Reading history, reader preferences, and explicit Basta page bookmarks use distinct localStorage keys. None leaves the browser. The Saved page also lists local recitation programme drafts.
 
 ## Continuous Basta streaming
 

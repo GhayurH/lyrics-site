@@ -33,7 +33,7 @@
 
 /* A page without Roman text must never appear blank when Roman is selected alone. */
 .basta-edition-unavailable { display: none; max-width: 48rem; margin: .75rem auto 1.5rem; padding: .6rem .9rem; color: var(--secondary-text); font-size: .83rem; text-align: center; }
-.basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]):not([data-reading-columns~="image"])
+.basta-reader-flow[data-reading-columns~="roman"]
   .basta-reader-page-no-roman .basta-edition-unavailable { display: block; }
 .basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]):not([data-reading-columns~="image"])
   .basta-reader-page-no-roman .basta-reader-original-image { display: block !important; }
@@ -404,3 +404,17 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 [data-floating-scan="true"].basta-original-page,
 [data-floating-scan="true"].lyric-reading-image,
 [data-floating-scan="true"].basta-reader-original-image { overflow: visible; }
+
+/* Multiple scans within one recitation remain accessible through a single
+   vertically scrollable scan column rather than overflowing onto the text. */
+[data-floating-scan="true"]:has(> .recite-scan-page + .recite-scan-page) {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  justify-content: flex-start;
+}
+[data-floating-scan="true"]:has(> .recite-scan-page + .recite-scan-page) > .recite-scan-page {
+  flex: 0 0 auto;
+  max-height: none;
+  width: 100%;
+  margin-bottom: .65rem;
+}

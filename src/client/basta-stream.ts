@@ -128,7 +128,7 @@ function renderPage(page: BastaReaderPageData): HTMLElement {
   if (!page.imageOnly && !page.hasRoman) {
     const notice = element("p", "basta-edition-unavailable");
     notice.setAttribute("role", "status");
-    notice.textContent = "Roman Urdu is not available for this page; showing the original scan instead.";
+    notice.textContent = "Roman Urdu is not available for this page. The original scan can be viewed instead.";
     section.append(notice);
   }
 

@@ -61,7 +61,7 @@ const { page } = Astro.props as Props;
       </div>
     )
   }
-  {!page.imageOnly && !page.hasRoman && <p class="basta-edition-unavailable" role="status">Roman Urdu is not available for this page; showing the original scan instead.</p>}
+  {!page.imageOnly && !page.hasRoman && <p class="basta-edition-unavailable" role="status">Roman Urdu is not available for this page. The original scan can be viewed instead.</p>}
   <p class="basta-reader-page-number" dir="ltr">{page.page}</p>
   {page.showBreak && <hr class="basta-reader-page-break" aria-hidden="true" />}
 </section>
