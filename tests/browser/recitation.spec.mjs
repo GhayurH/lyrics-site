@@ -155,8 +155,8 @@ test("multi-page Basta Marsiya preserves six-verse framing and both scans @smoke
   await expect(page.locator(".recite-work-header h2")).toBeVisible();
   const scans = page.locator(".recite-work .lyric-reading-image img");
   await expect(scans).toHaveCount(2);
-  await expect(scans.nth(0)).toHaveAttribute("src", /284\\.png$/);
-  await expect(scans.nth(1)).toHaveAttribute("src", /285\\.png$/);
+  await expect(scans.nth(0)).toHaveAttribute("src", /284\.png$/);
+  await expect(scans.nth(1)).toHaveAttribute("src", /285\.png$/);
   await expect(page.locator(".recite-scan-caption")).toHaveText(["Basta page 284", "Basta page 285"]);
 
   // The continuation on page 285 starts with stanza 7; it must not be
