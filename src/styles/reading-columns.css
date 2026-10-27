@@ -325,11 +325,11 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
   }
   .reading-regular-toggle [data-reading-regular-indicator] { margin-inline-start: .3rem; }
   html:not([data-reading-focus="true"]) .reading-controls:not([data-regular-options-open="true"])
-    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump) {
+    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump,.reading-bookmark-page) {
     display: none !important;
   }
   html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"]
-    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump) {
+    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump,.reading-bookmark-page) {
     grid-row: auto;
   }
   html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"] > .reading-view-control {
@@ -391,3 +391,6 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 [data-reading-root][data-line-spacing="relaxed"] .basta-kalam-text { line-height: 3.2; }
 [data-reading-root][data-line-spacing="compact"] .lyric-reading-roman .basta-kalam-text { line-height: 1.65; }
 [data-reading-root][data-line-spacing="relaxed"] .lyric-reading-roman .basta-kalam-text { line-height: 2.35; }
+
+.reading-bookmark-page { min-height: 2.75rem; border: 1px solid var(--border-colour); border-radius: .5rem; padding: .45rem .7rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: .82rem; font-weight: 700; cursor: pointer; }
+.reading-bookmark-page[aria-pressed="true"] { background: var(--button-background); color: var(--button-text); }

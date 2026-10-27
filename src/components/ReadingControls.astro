@@ -15,6 +15,7 @@ interface Props {
   indexStartPage?: number;
   indexEndPage?: number;
   recitationNavigation?: boolean;
+  bookmarkPage?: boolean;
 }
 const {
   ariaLabel = "Reading controls",
@@ -28,6 +29,7 @@ const {
   indexStartPage = 0,
   indexEndPage = 0,
   recitationNavigation = false,
+  bookmarkPage = false,
 } = Astro.props as Props;
 ---
 
@@ -103,5 +105,6 @@ const {
       <button type="submit">Go</button>
     </form>
   )}
+  {bookmarkPage && <button type="button" class="reading-bookmark-page" data-basta-bookmark aria-pressed="false" title="Save this Basta page">Save page</button>}
   <button type="button" class="reading-scroll-top" data-reading-scroll-top hidden aria-label="Scroll to top">↑ Top</button>
 </div>

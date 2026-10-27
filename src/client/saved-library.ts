@@ -1,12 +1,15 @@
 // File role: Saved/Recent page controller: resolves browser-local IDs against the static catalog and renders canonical lyric cards on demand.
 import type { LyricCardData } from "../lib/catalog";
 import { createLyricCard } from "./lyric-card";
+import { readBastaBookmarks } from "./basta-bookmarks";
+import { readDrafts } from "./recitation-storage";
 import {
   STORAGE_KEYS,
   clearFavorites,
   clearRecent,
   readFavoriteIds,
   readStringList,
+  writeStringList,
 } from "./storage";
 
 export async function initSavedLibrary(): Promise<void> {
@@ -14,6 +17,51 @@ export async function initSavedLibrary(): Promise<void> {
   if (!root || root.dataset.savedReady === "true") return;
   root.dataset.savedReady = "true";
 
+  // Personal bookmarks and programmes work even if the lyric catalog fails.
+  const renderLocal = () => {
+    const bookmarks = readBastaBookmarks();
+    const pageList = document.querySelector<HTMLElement>("#basta-bookmarks-list");
+    pageList?.replaceChildren(...bookmarks.map((page) => {
+      const item = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = "/basta/" + page + "/";
+      link.textContent = "Basta · Page " + page;
+      const remove = document.createElement("button");
+      remove.type = "button";
+      remove.textContent = "Remove";
+      remove.setAttribute("aria-label", "Remove bookmark for Basta page " + page);
+      remove.addEventListener("click", () => {
+        writeStringList(STORAGE_KEYS.bastaBookmarks, readBastaBookmarks().filter((n) => n !== page).map(String));
+        renderLocal();
+      });
+      item.append(link, remove);
+      return item;
+    }));
+    const pageEmpty = document.querySelector<HTMLElement>("#basta-bookmarks-empty");
+    if (pageEmpty) pageEmpty.hidden = bookmarks.length > 0;
+    const pageCount = document.querySelector<HTMLElement>("#basta-bookmarks-count");
+    if (pageCount) pageCount.textContent = bookmarks.length + " saved";
+
+    const drafts = readDrafts().filter((draft) => draft.set.title.trim() || draft.set.items.length);
+    const draftList = document.querySelector<HTMLElement>("#recitation-drafts-list");
+    draftList?.replaceChildren(...drafts.map((draft) => {
+      const item = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = "/recite/?draft=" + encodeURIComponent(draft.id);
+      link.textContent = draft.set.title.trim() || "Untitled programme";
+      const details = document.createElement("span");
+      details.textContent = draft.set.items.length + " kalam" + (draft.set.items.length === 1 ? "" : "s");
+      item.append(link, details);
+      return item;
+    }));
+    const draftsEmpty = document.querySelector<HTMLElement>("#recitation-drafts-empty");
+    if (draftsEmpty) draftsEmpty.hidden = drafts.length > 0;
+    const draftCount = document.querySelector<HTMLElement>("#recitation-drafts-count");
+    if (draftCount) draftCount.textContent = drafts.length + " saved";
+  };
+  renderLocal();
+  window.addEventListener("kalam:basta-bookmarks-changed", renderLocal);
+  window.addEventListener("storage", renderLocal);
   let catalog: LyricCardData[];
   try {
     const response = await fetch("/data/saved-catalog.json");
