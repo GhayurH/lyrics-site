@@ -73,10 +73,27 @@ const aboutActive = path.startsWith("/about/");
           const scheme = contrast(backgrounds[0], dark) >= contrast(backgrounds[0], 1) ? "light" : "dark";
           const accentText = contrast(luminance(accent), 1) >= contrast(luminance(accent), dark)
             ? "#ffffff" : "#171719";
+          const optional = (key) => typeof saved[key] === "string" && /^#[0-9a-f]{6}$/i.test(saved[key])
+            ? saved[key].toLowerCase() : null;
+          const blend = (first, second, share) => "#" + [1, 3, 5].map((i) =>
+            Math.round(parseInt(first.slice(i, i + 2), 16) * share +
+              parseInt(second.slice(i, i + 2), 16) * (1 - share)).toString(16).padStart(2, "0")).join("");
+          const minContrast = (text) => Math.min(...backgrounds.map((value) => contrast(luminance(text), value)));
+          const primary = optional("primaryText") || foreground;
+          let muted = primary;
+          const average = blend(main, secondary, .5);
+          for (let share = .95; share >= .05; share -= .05) {
+            const candidate = blend(primary, average, share);
+            if (minContrast(candidate) < 4.5) break;
+            muted = candidate;
+          }
+          muted = optional("mutedText") || muted;
+          const border = optional("borders");
+          if (border) root.style.setProperty("--theme-border", border);
           for (const [key, value] of Object.entries({
             "--theme-main": main, "--theme-secondary": secondary,
-            "--theme-accent": accent, "--theme-foreground": foreground,
-            "--theme-muted": foreground, "--theme-accent-text": accentText,
+            "--theme-accent": accent, "--theme-foreground": primary,
+            "--theme-muted": muted, "--theme-accent-text": accentText,
             "--theme-color-scheme": scheme,
           })) root.style.setProperty(key, value);
           root.dataset.pfTheme = scheme;
@@ -152,6 +169,34 @@ const aboutActive = path.startsWith("/about/");
         <label for="theme-main">Main <span>Page background</span><span class="theme-colour-field"><input id="theme-main" type="color" value="#f4ead6" /><output id="theme-main-value" for="theme-main">#f4ead6</output></span></label>
         <label for="theme-secondary">Secondary <span>Cards and reading panels</span><span class="theme-colour-field"><input id="theme-secondary" type="color" value="#fbf4e6" /><output id="theme-secondary-value" for="theme-secondary">#fbf4e6</output></span></label>
         <label for="theme-accent">Accent <span>Buttons and highlights</span><span class="theme-colour-field"><input id="theme-accent" type="color" value="#755238" /><output id="theme-accent-value" for="theme-accent">#755238</output></span></label>
+        <details class="theme-advanced" id="theme-advanced">
+          <summary>Advanced colours</summary>
+          <p>Text and borders are chosen automatically for your palette. Turn off Auto to pick a colour.</p>
+          <div class="theme-advanced-row">
+            <label class="theme-advanced-title" for="theme-primaryText-auto">Primary text<span>Poetry, headings, main content</span></label>
+            <label class="theme-auto-control"><input type="checkbox" id="theme-primaryText-auto" checked /> Auto</label>
+            <span class="theme-colour-field">
+              <input type="color" id="theme-primaryText" aria-label="Primary text colour" value="#352b21" disabled />
+              <output id="theme-primaryText-value" for="theme-primaryText">#352b21</output>
+            </span>
+          </div>
+          <div class="theme-advanced-row">
+            <label class="theme-advanced-title" for="theme-mutedText-auto">Muted text<span>Descriptions, metadata, labels</span></label>
+            <label class="theme-auto-control"><input type="checkbox" id="theme-mutedText-auto" checked /> Auto</label>
+            <span class="theme-colour-field">
+              <input type="color" id="theme-mutedText" aria-label="Muted text colour" value="#6b5947" disabled />
+              <output id="theme-mutedText-value" for="theme-mutedText">#6b5947</output>
+            </span>
+          </div>
+          <div class="theme-advanced-row">
+            <label class="theme-advanced-title" for="theme-borders-auto">Borders<span>Panel, input, and divider outlines</span></label>
+            <label class="theme-auto-control"><input type="checkbox" id="theme-borders-auto" checked /> Auto</label>
+            <span class="theme-colour-field">
+              <input type="color" id="theme-borders" aria-label="Borders colour" value="#d5c4a8" disabled />
+              <output id="theme-borders-value" for="theme-borders">#d5c4a8</output>
+            </span>
+          </div>
+        </details>
         <p class="theme-contrast-note" id="theme-contrast-note" role="status" aria-live="polite" hidden></p>
         <button type="button" id="theme-reset-custom" class="button button-secondary">Reset custom colours</button>
       </fieldset>
