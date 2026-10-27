@@ -139,9 +139,14 @@ test("all text-edition combinations remain readable across themes and responsive
   }
   const toggle = page.locator("#theme-toggle");
   await toggle.click();
+  await page.locator('#theme-dialog input[value="light"]').check();
+  await page.locator("#theme-dialog-done").click();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await expect(page.locator(".basta-page-urdu")).toBeVisible();
   await toggle.click();
+  await page.locator('#theme-dialog input[value="dark"]').check();
+  await page.locator("#theme-dialog-done").click();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });
 
 test("rotation and Focus exit retain an actual continuous page rather than the book top @smoke", async ({ page }) => {
