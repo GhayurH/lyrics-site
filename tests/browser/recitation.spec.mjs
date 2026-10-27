@@ -35,10 +35,13 @@ test("offline programme export contains complete text, reciter assignments and n
     .filter((font) => font.family === "Noto Nastaliq Urdu").map((font) => font.status));
   expect(faces).toContain("loaded");
   await page.emulateMedia({ media: "print" });
-  const aligned = await page.locator(".recite-editions").first().evaluate((el) => {
+  const opening = page.locator(".recite-print-opening").first();
+  await expect(opening.locator(".recite-work-header")).toHaveCount(1);
+  await expect(page.locator(".recite-print-row").first()).toHaveCSS("break-inside", "avoid-page");
+  const aligned = await page.locator(".recite-print-row").first().evaluate((el) => {
     const roman = el.querySelector(".lyric-reading-roman").getBoundingClientRect();
     const urdu = el.querySelector(".lyric-reading-urdu").getBoundingClientRect();
-    return Math.abs(roman.top - urdu.top) < 4;
+    return Math.abs(roman.top - urdu.top) < 4 && roman.right <= urdu.left + 5;
   });
   expect(aligned).toBe(true);
 });

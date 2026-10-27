@@ -468,3 +468,23 @@ test("Focus Mode centres bilingual columns and fits scans within the viewport @s
   expect(box.y + box.height).toBeLessThanOrEqual(898);
   await page.getByRole("button", { name: /Exit reading mode/ }).click();
 });
+
+// The Options overlay must not alter the source scan's geometry on Basta pages.
+test("Basta Focus scan stays centred and fully visible when Options expands @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1600, height: 900 });
+  await page.route("**/images/basta/original/145.png", (route) =>
+    route.fulfill({ contentType: "image/svg+xml", body:
+      '<svg xmlns="http://www.w3.org/2000/svg" width="630" height="1080"><rect width="630" height="1080" fill="white"/></svg>' }));
+  await page.goto("/basta/145/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
+  const scan = page.locator(".basta-original-page img");
+  await expect(scan).toHaveJSProperty("naturalWidth", 630);
+  const before = await scan.boundingBox();
+  await page.getByRole("button", { name: /Show reading options/ }).click();
+  await expect(page.locator("[data-reading-controls]")).toHaveAttribute("data-reading-options-open", "true");
+  await expect.poll(async () => (await scan.boundingBox()).y).toBeGreaterThanOrEqual(before.y - 4);
+  const after = await scan.boundingBox();
+  expect(Math.abs(after.y - before.y)).toBeLessThan(5);
+  expect(after.y + after.height).toBeLessThanOrEqual(900);
+});

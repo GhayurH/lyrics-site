@@ -148,6 +148,8 @@ header.programme p { margin: .25rem 0; } .hint { font-size: .8rem; color: #555; 
   break-inside: avoid-page; page-break-inside: avoid;
 }
 .lyric-reading-panel { min-width: 0; width: 100%; overflow: visible; padding: 0; }
+.recite-print-row > .lyric-reading-panel { grid-area: auto; }
+.recite-print-row + .recite-print-row { margin-top: .2rem; padding-top: .3rem; border-top: 1px solid #aaa; }
 .lyric-reading-roman { grid-area: roman; font-size: .88rem; }
 .lyric-reading-urdu { grid-area: urdu; font-size: 1rem; }
 .lyric-reading-roman .lyric-reading-text { font-family: Inter, system-ui, -apple-system, sans-serif; }
