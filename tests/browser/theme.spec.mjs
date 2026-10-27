@@ -30,7 +30,7 @@ test("light, dark and sepia presets persist between pages @smoke", async ({ page
   await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });
 
-test("build your own applies three colour choices, derives text and remembers them @smoke", async ({ page }) => {
+test("custom applies three colour choices, derives text and remembers them @smoke", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
@@ -58,8 +58,10 @@ test("build your own applies three colour choices, derives text and remembers th
     await expect(page.locator("#theme-" + name)).toHaveValue(hex);
   }
   await page.locator("#theme-reset-custom").click();
-  await expect(page.locator("#theme-main")).toHaveValue("#f4ead6");
-  await expect(page.locator("#theme-accent")).toHaveValue("#755238");
+  // This session started Custom from the current Light preset.
+  await expect(page.locator("#theme-main")).toHaveValue("#f7f7f8");
+  await expect(page.locator("#theme-secondary")).toHaveValue("#ffffff");
+  await expect(page.locator("#theme-accent")).toHaveValue("#1d1d1f");
 });
 
 test("unreadable main and secondary combinations show actionable contrast guidance", async ({ page }) => {
@@ -113,4 +115,60 @@ test("old saved light/dark themes work and invalid palettes never inject CSS", a
   await expect(page.locator("#theme-main")).toHaveValue("#f4ead6");
   await expect(page.locator("#theme-secondary")).toHaveValue("#fbf4e6");
   await expect(page.locator("#theme-accent")).toHaveValue("#abcdef");
+});
+
+test("AMOLED uses pure-black page and panels and persists across routes @smoke", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#theme-toggle").click();
+  await page.locator('#theme-dialog input[value="amoled"]').check();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "amoled");
+  await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "dark");
+  await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#000000");
+  await expect.poll(() => page.evaluate(() => getComputedStyle(document.body).backgroundColor)).toBe("rgb(0, 0, 0)");
+  await expect.poll(() => page.locator("#theme-dialog").evaluate((el) => getComputedStyle(el).backgroundColor)).toBe("rgb(0, 0, 0)");
+  await page.locator("#theme-dialog-done").click();
+  await page.goto("/basta/138/");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "amoled");
+  await expect.poll(() => page.locator(".basta-page-urdu").evaluate((el) => getComputedStyle(el).color))
+    .not.toBe("rgb(0, 0, 0)");
+});
+
+test("Custom starts from whichever preset is active, including AMOLED @smoke", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#theme-toggle").click();
+  const presets = [
+    { name: "light", main: "#f7f7f8", secondary: "#ffffff", accent: "#1d1d1f" },
+    { name: "dark", main: "#171719", secondary: "#222225", accent: "#ededed" },
+    { name: "sepia", main: "#f4ead6", secondary: "#fbf4e6", accent: "#755238" },
+    { name: "amoled", main: "#000000", secondary: "#000000", accent: "#f5f5f5" },
+  ];
+  for (const preset of presets) {
+    await page.locator('#theme-dialog input[value="' + preset.name + '"]').check();
+    await page.locator('#theme-dialog input[value="custom"]').check();
+    for (const field of ["main", "secondary", "accent"]) {
+      await expect(page.locator("#theme-" + field)).toHaveValue(preset[field]);
+    }
+    // Custom begins from this preset, even after an earlier Custom edit.
+    await page.locator("#theme-accent").evaluate((el) => {
+      el.value = "#ff00ff";
+      el.dispatchEvent(new Event("input", { bubbles: true }));
+    });
+    await expect(page.locator("#theme-accent")).toHaveValue("#ff00ff");
+    await page.locator("#theme-reset-custom").click();
+    await expect(page.locator("#theme-accent")).toHaveValue(preset.accent);
+  }
+  await page.locator("#theme-dialog-done").click();
+  await page.goto("/saved/");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "custom");
+  await page.locator("#theme-toggle").click();
+  await expect(page.locator("#theme-main")).toHaveValue("#000000");
+  await expect(page.locator("#theme-secondary")).toHaveValue("#000000");
+});
+
+test("appearance offers the succinct Custom label, not Build your own", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#theme-toggle").click();
+  const radio = page.locator('#theme-dialog input[value="custom"]');
+  await expect(radio.locator("..")).toContainText("Custom");
+  await expect(page.locator("#theme-dialog")).not.toContainText("Build your own");
 });
