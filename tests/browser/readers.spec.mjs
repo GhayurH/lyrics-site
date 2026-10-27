@@ -392,3 +392,52 @@ test("a floating scan is never selected for text-column scrolling @smoke", async
   await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
   await expect(scan).not.toHaveAttribute("data-synced-scrollable", "true");
 });
+
+test("image viewer centres narrow scans and pans horizontally and vertically when zoomed @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 900, height: 720 });
+  // Mock the external R2 scan so geometry is deterministic in preview builds.
+  await page.route("**/images/basta/original/138.png", (route) =>
+    route.fulfill({ contentType: "image/svg+xml", body:
+      '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1200"><rect width="600" height="1200" fill="white"/></svg>' }));
+  await page.goto("/basta/138/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  await page.locator(".basta-original-page a").click();
+  const viewer = page.locator(".scan-viewer");
+  const canvas = viewer.locator(".scan-viewer-canvas");
+  const image = canvas.locator("img");
+  await expect(viewer).toBeVisible();
+  await expect(image).toHaveJSProperty("naturalWidth", 600);
+  await viewer.getByRole("button", { name: "100%" }).click();
+  await expect.poll(() => canvas.evaluate((el) => el.scrollWidth - el.clientWidth)).toBeLessThanOrEqual(1);
+  const offset = await canvas.evaluate((el) => {
+    const box = el.getBoundingClientRect(), scan = el.querySelector("img").getBoundingClientRect();
+    return Math.abs((scan.left + scan.right) / 2 - (box.left + box.right) / 2);
+  });
+  expect(offset).toBeLessThan(2);
+  await viewer.getByRole("button", { name: "200%" }).click();
+  await expect.poll(() => canvas.evaluate((el) => el.scrollWidth - el.clientWidth)).toBeGreaterThan(100);
+  const bounds = await canvas.boundingBox();
+  const x = bounds.x + bounds.width * .65, y = bounds.y + bounds.height * .65;
+  const before = await canvas.evaluate((el) => ({ x: el.scrollLeft, y: el.scrollTop }));
+  await page.mouse.move(x, y);
+  await page.mouse.down();
+  await page.mouse.move(x - 90, y - 90, { steps: 6 });
+  await page.mouse.up();
+  await expect.poll(() => canvas.evaluate((el) => el.scrollLeft)).toBeGreaterThan(before.x + 50);
+  await expect.poll(() => canvas.evaluate((el) => el.scrollTop)).toBeGreaterThan(before.y + 50);
+  await viewer.getByRole("button", { name: "Close" }).click();
+});
+
+test("Basta uses one upper contextual toolbar and no redundant edition headings @smoke", async ({ page }) => {
+  for (const url of ["/basta/138/", "/basta/index/"]) {
+    await page.goto(url);
+    const controls = page.locator("[data-reading-controls]");
+    await expect(controls.locator(".basta-pager")).toHaveCount(1);
+    await expect(page.locator(".basta-pager")).toHaveCount(2);
+  }
+  await expect(page.locator(".basta-page-text-heading, .basta-original-page figcaption")).toHaveCount(0);
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await expect(page.locator(".lyric-language-label")).toHaveCount(0);
+  await expect(page.locator(".reading-column-choice").first()).toBeVisible();
+  await expect(page.getByRole("button", { name: "Focus Mode" })).toBeVisible();
+});
