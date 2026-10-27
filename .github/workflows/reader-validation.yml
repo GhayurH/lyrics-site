@@ -20,10 +20,6 @@ jobs:
           node-version: '22'
           cache: npm
       - run: npm ci
-      - run: npm run recitation:ids:bootstrap -- --part=0
-      - run: npm run recitation:ids:bootstrap -- --part=1
-      - run: npm run recitation:ids:bootstrap -- --part=2
-      - run: npm run recitation:ids:bootstrap -- --part=3
       # Catalog verification is informative until every exceptional printed-page boundary is reviewed.
       - run: npm run basta:kalams:audit
       # The prebuild hook already runs npm test; do not run the suite twice.
