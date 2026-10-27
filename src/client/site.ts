@@ -230,7 +230,6 @@ function initThemePicker(): void {
     }
     const automatic = paletteTextColors({
       main: palette.main, secondary: palette.secondary, accent: palette.accent,
-      ...(palette.primaryText ? { primaryText: palette.primaryText } : {}),
     });
     for (const name of advancedNames) {
       const automaticControl = dialog.querySelector<HTMLInputElement>("#theme-" + name + "-auto");
