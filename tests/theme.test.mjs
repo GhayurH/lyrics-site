@@ -99,3 +99,34 @@ test("Auto muted text and borders stay legible despite an unreadable manual prim
   assert.notEqual(overridden.borders, "#f9f9fa");
   assert(overridden.ratio < 4.5);
 });
+
+test("preset Auto text roles are preserved exactly until Custom surfaces change", () => {
+  for (const [main, secondary, primary, muted, borders] of [
+    ["#171719", "#222225", "#ededed", "#b5b5ba", "#3a3a3f"],
+    ["#000000", "#000000", "#f5f5f5", "#b5b5b5", "#333333"],
+    ["#f7f7f8", "#ffffff", "#1d1d1f", "#66666b", "#dddddf"],
+    ["#f4ead6", "#fbf4e6", "#352b21", "#6b5947", "#d5c4a8"],
+  ]) {
+    const palette = parsePalette({ main, secondary, accent: primary,
+      inherited: { main, secondary, primary, muted, borders } });
+    assert.equal(Object.hasOwn(palette, "primaryText"), false);
+    assert.equal(Object.hasOwn(palette, "mutedText"), false);
+    assert.equal(Object.hasOwn(palette, "borders"), false);
+    const auto = paletteTextColors(palette);
+    assert.deepEqual([auto.primary, auto.muted, auto.borders], [primary, muted, borders]);
+    const changed = paletteTextColors({ ...palette, main: "#fefefe" });
+    assert.notDeepEqual([changed.primary, changed.muted, changed.borders], [primary, muted, borders]);
+    assert.deepEqual(paletteTextColors({ ...palette, main }), auto);
+  }
+});
+
+test("invalid stored inherited colours never become CSS values", () => {
+  const palette = parsePalette({
+    main: "#171719", secondary: "#222225", accent: "#ededed",
+    inherited: { main: "#171719", secondary: "#222225",
+      primary: "red; color: transparent", muted: "#b5b5ba", borders: "#3a3a3f" },
+  });
+  assert.equal(Object.hasOwn(palette, "inherited"), false);
+  const auto = paletteTextColors(palette);
+  assert.equal(auto.primary, "#ffffff");
+});
