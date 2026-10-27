@@ -11,7 +11,7 @@
 .contact-card, .about-note { border: 1px solid var(--border-colour); border-radius: var(--ui-panel-radius); padding: clamp(1.25rem, 3vw, 2rem); background: var(--surface-background); }
 .contact-card { display: flex; align-items: center; justify-content: space-between; gap: 2rem; }
 .contact-card h2, .about-note h2 { margin: 0 0 0.75rem; }
-.contact-card p, .about-note p { max-width: var(--content-heading); }
+.contact-card p, .about-note p { max-width: var(--content-intro); }
 .contact-email-large { flex: 0 0 auto; margin-top: 0; border: 1px solid var(--border-colour); border-radius: var(--ui-radius-tight); padding: 0.7rem 0.9rem; background: var(--tag-background); text-decoration: none; }
 .contact-email-large:hover { text-decoration: underline; }
 @media (max-width: 700px) {
