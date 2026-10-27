@@ -137,10 +137,10 @@ test("Custom starts from whichever preset is active, including AMOLED @smoke", a
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   const presets = [
-    { name: "light", main: "#f7f7f8", secondary: "#ffffff", accent: "#1d1d1f" },
-    { name: "dark", main: "#171719", secondary: "#222225", accent: "#ededed" },
-    { name: "sepia", main: "#f4ead6", secondary: "#fbf4e6", accent: "#755238" },
-    { name: "amoled", main: "#000000", secondary: "#000000", accent: "#f5f5f5" },
+    { name: "light", main: "#f7f7f8", secondary: "#ffffff", accent: "#1d1d1f", primary: "#1d1d1f", muted: "#66666b", borders: "#dddddf" },
+    { name: "dark", main: "#171719", secondary: "#222225", accent: "#ededed", primary: "#ededed", muted: "#b5b5ba", borders: "#3a3a3f" },
+    { name: "sepia", main: "#f4ead6", secondary: "#fbf4e6", accent: "#755238", primary: "#352b21", muted: "#6b5947", borders: "#d5c4a8" },
+    { name: "amoled", main: "#000000", secondary: "#000000", accent: "#f5f5f5", primary: "#f5f5f5", muted: "#b5b5b5", borders: "#333333" },
   ];
   for (const preset of presets) {
     await page.locator('#theme-dialog input[value="' + preset.name + '"]').check();
@@ -148,6 +148,19 @@ test("Custom starts from whichever preset is active, including AMOLED @smoke", a
     for (const field of ["main", "secondary", "accent"]) {
       await expect(page.locator("#theme-" + field)).toHaveValue(preset[field]);
     }
+    for (const [field, value] of [["primaryText", preset.primary], ["mutedText", preset.muted], ["borders", preset.borders]]) {
+      await expect(page.locator("#theme-" + field + "-auto")).toBeChecked();
+      await expect(page.locator("#theme-" + field)).toHaveValue(value);
+    }
+    const roles = await page.evaluate(() => {
+      const css = getComputedStyle(document.documentElement);
+      return {
+        primary: css.getPropertyValue("--primary-text").trim(),
+        muted: css.getPropertyValue("--secondary-text").trim(),
+        borders: css.getPropertyValue("--border-colour").trim(),
+      };
+    });
+    expect(roles).toEqual({ primary: preset.primary, muted: preset.muted, borders: preset.borders });
     // Custom begins from this preset, even after an earlier Custom edit.
     await page.locator("#theme-accent").evaluate((el) => {
       el.value = "#ff00ff";
@@ -163,6 +176,31 @@ test("Custom starts from whichever preset is active, including AMOLED @smoke", a
   await page.locator("#theme-toggle").click();
   await expect(page.locator("#theme-main")).toHaveValue("#000000");
   await expect(page.locator("#theme-secondary")).toHaveValue("#000000");
+  for (const [role, hex] of [["primaryText", "#f5f5f5"], ["mutedText", "#b5b5b5"], ["borders", "#333333"]]) {
+    await expect(page.locator("#theme-" + role + "-auto")).toBeChecked();
+    await expect(page.locator("#theme-" + role)).toHaveValue(hex);
+  }
+});
+
+test("Dark and AMOLED preserve Auto typography until Custom surfaces actually change @smoke", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#theme-toggle").click();
+  for (const [name, ink] of [["dark", "#ededed"], ["amoled", "#f5f5f5"]]) {
+    await page.locator('#theme-dialog input[value="' + name + '"]').check();
+    await page.locator('#theme-dialog input[value="custom"]').check();
+    await expect(page.locator("#theme-primaryText-auto")).toBeChecked();
+    await expect(page.locator("#theme-primaryText")).toHaveValue(ink);
+
+    await page.locator("#theme-main").evaluate((el) => {
+      el.value = "#fefefe";
+      el.dispatchEvent(new Event("input", { bubbles: true }));
+    });
+    // Changing a background invalidates the borrowed preset Auto text,
+    // so it recalculates rather than leaving light ink on a light page.
+    await expect(page.locator("#theme-primaryText")).not.toHaveValue(ink);
+    await page.locator("#theme-reset-custom").click();
+    await expect(page.locator("#theme-primaryText")).toHaveValue(ink);
+  }
 });
 
 test("appearance offers the succinct Custom label, not Build your own", async ({ page }) => {
