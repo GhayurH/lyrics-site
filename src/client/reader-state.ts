@@ -10,7 +10,7 @@ import { initFloatingScans } from "./floating-scans";
 import { initBastaBookmarks } from "./basta-bookmarks";
 import { initBastaSelections } from "./basta-selections";
 
-import { isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
+import { defaultEditionsForReader, isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
 const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
 
 interface ReadingPrefs extends Record<string, unknown> {
@@ -45,7 +45,9 @@ export function initReadingControls(): void {
         ? saved.spacing : "default",
   };
 
-  let selected = selectedEditions(prefs.columnsByReader[kind], available, imageOnly);
+  const defaultEditions = defaultEditionsForReader(kind, window.matchMedia("(max-width: 700px)").matches);
+  let selected = selectedEditions(prefs.columnsByReader[kind] ?? defaultEditions, available, imageOnly);
+  const summary = controls.querySelector<HTMLElement>("[data-reading-regular-label]");
   const spacingSelect = controls.querySelector<HTMLSelectElement>("[data-reading-line-spacing]");
   const regularToggle = controls.querySelector<HTMLButtonElement>("[data-reading-regular-toggle]");
   const regularIndicator = regularToggle?.querySelector<HTMLElement>("[data-reading-regular-indicator]");
@@ -67,6 +69,8 @@ export function initReadingControls(): void {
   setRegularOptionsOpen(false);
 
   const applyPrefs = () => {
+    if (summary) summary.textContent = "View: " + selected.map((edition) =>
+      edition === "urdu" ? "Urdu" : edition === "roman" ? "Roman" : "Image").join(" + ");
     // CSS and scroll synchronization still need the derived single/parallel mode alongside the selected editions.
     root.dataset.readingMode = readingModeFromEditions(selected);
     root.dataset.readingColumns = selected.join(" ");
@@ -95,6 +99,24 @@ export function initReadingControls(): void {
     storePrefs();
     applyPrefs();
   });
+
+  // Fold secondary settings when the reader reaches the viewport. Keep the
+  // navigation strip available in the compact toolbar.
+  let compactQueued = false;
+  const syncCompact = () => {
+    compactQueued = false;
+    const active = document.documentElement.dataset.readingFocus === "true";
+    const readingStarted = root.getBoundingClientRect().top < window.innerHeight * 0.45;
+    controls.dataset.readerCompact = String(!active && window.scrollY > 160 && readingStarted);
+  };
+  const queueCompact = () => {
+    if (compactQueued) return;
+    compactQueued = true;
+    requestAnimationFrame(syncCompact);
+  };
+  window.addEventListener("scroll", queueCompact, { passive: true });
+  window.addEventListener("resize", queueCompact, { passive: true });
+  syncCompact();
 
   applyPrefs();
   initReadingFocus(root, controls);

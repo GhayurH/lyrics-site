@@ -300,7 +300,13 @@ export async function initRecitationReader(): Promise<void> {
     ? "/recite/?set=" + remoteId : "/recite/?draft=" + encodeURIComponent(draftId || "");
   copy.textContent = remoteId ? "Edit a copy of this set" : "Back to set builder";
   let mode = "continuous";
-  try { if (localStorage.getItem(viewKey) === "sequential") mode = "sequential"; } catch {}
+  try {
+    const storedView = localStorage.getItem(viewKey);
+    if (storedView === "sequential" || storedView === "continuous") mode = storedView;
+    else if (matchMedia("(max-width: 700px)").matches) mode = "sequential";
+  } catch {
+    if (matchMedia("(max-width: 700px)").matches) mode = "sequential";
+  }
   const select = dom<HTMLSelectElement>("recite-reader-contents");
   const view = dom<HTMLSelectElement>("recite-reader-view");
   view.value = mode;
