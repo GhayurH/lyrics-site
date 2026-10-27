@@ -180,6 +180,8 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
 test("parallel Basta keeps the shorter Roman edition fully visible and scrolls only Urdu @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/138/");
+  await page.locator('[data-reading-column][value="image"]').uncheck();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const roman = page.locator(".basta-page-roman");
   const urdu = page.locator(".basta-page-urdu");
   await expect(roman).toHaveAttribute("data-synced-active", "true");
@@ -278,6 +280,8 @@ test("resume uses within-page fractions in page-by-page and continuous routes", 
 test("mobile Basta index headings use separate full-width rows", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/index/");
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const urdu = page.locator(".basta-parallel-index-overall-headings .basta-parallel-index-urdu");
   const roman = page.locator(".basta-parallel-index-overall-headings .basta-parallel-index-roman");
   await expect(urdu).toBeVisible();
@@ -296,6 +300,8 @@ test("source link is visibly separated from the category back link", async ({ pa
 test("standalone lyrics use stacked columns on narrow screens and parallel columns when wide enough", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const urdu = page.locator(".lyric-reading-urdu");
   const roman = page.locator(".lyric-reading-roman");
   await expect(urdu).toBeVisible();
@@ -313,6 +319,8 @@ test("standalone lyrics use stacked columns on narrow screens and parallel colum
 test("continuous Basta editions respond to available width, including landscape @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const section = page.locator('[data-basta-page="138"]');
   await expect(section).toBeAttached({ timeout: 20000 });
   const urdu = section.locator(".basta-reader-urdu");

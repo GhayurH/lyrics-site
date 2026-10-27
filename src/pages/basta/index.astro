@@ -21,11 +21,7 @@ const lastPage = availablePages.at(-1);
         <p>Original page scans alongside cleaned Urdu text and Roman Urdu where available.</p>
       </div>
       {firstPage && (
-        <a
-          class="basta-home-scan"
-          href={"/basta/" + firstPage + "/"}
-          aria-label={"Open Basta reader at page " + firstPage}
-        >
+        <figure class="basta-home-scan">
           <img
             src="/images/basta/original/000.jpg"
             alt="Basta book cover"
@@ -35,8 +31,8 @@ const lastPage = availablePages.at(-1);
             decoding="async"
             fetchpriority="high"
           />
-          <span class="basta-home-scan-caption">Book cover · Open book</span>
-        </a>
+          <figcaption class="basta-home-scan-caption">Original book cover</figcaption>
+        </figure>
       )}
     </header>
 

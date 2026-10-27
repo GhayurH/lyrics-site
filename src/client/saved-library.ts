@@ -96,6 +96,10 @@ export async function initSavedLibrary(): Promise<void> {
     refreshSections();
   };
   renderLocal();
+  const resumeSection = root.querySelector<HTMLElement>("[data-basta-resume-section]");
+  if (resumeSection) new MutationObserver(refreshSections).observe(resumeSection, {
+    attributes: true, attributeFilter: ["hidden"],
+  });
   window.addEventListener("kalam:basta-bookmarks-changed", renderLocal);
   window.addEventListener("kalam:basta-selections-changed", renderLocal);
   window.addEventListener("storage", renderLocal);
