@@ -1,122 +1,126 @@
 ---
-// File role: Basta landing route: offers page-by-page, continuous, index, and PDF entry points without loading the full reader payload.
+// File role: Basta landing: original scan, reading modes, browser-local resume, index, page jump, and PDF.
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { loadBastaNavigationData } from "../../lib/basta-pages";
 import "../../styles/basta.css";
 
-const { availablePages, indexStartPage, indexEndPage } =
-  await loadBastaNavigationData();
+const { availablePages, indexStartPage, indexEndPage } = await loadBastaNavigationData();
 const firstPage = availablePages[0];
 const lastPage = availablePages.at(-1);
 ---
 
 <BaseLayout
   title="Basta | Kalam Archive"
-  description="Read Basta page by page, or in the full-book continuous reader, or download the original PDF."
+  description="Read Basta page by page or continuously, find kalam in the book index, or access the original PDF."
 >
-  <article class="basta-home basta-home-redesign">
-    <header class="basta-home-header">
-      <h1>Basta</h1>
-      <p>
-        Read the book page by page, or open the complete continuous reader,
-        or download the original PDF.
-      </p>
+  <article class="basta-home">
+    <header class="basta-home-intro">
+      <div class="basta-home-intro-copy">
+        <p class="eyebrow">The complete book archive</p>
+        <h1>Basta</h1>
+        <p>Original page scans alongside cleaned Urdu text and Roman Urdu where available.</p>
+      </div>
+      {firstPage && (
+        <a
+          class="basta-home-scan"
+          href={"/basta/" + firstPage + "/"}
+          aria-label={"Open Basta reader at page " + firstPage}
+        >
+          <img
+            src="/images/basta/original/000.jpg"
+            alt="Basta book cover"
+            width="1240"
+            height="1754"
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+          />
+          <span class="basta-home-scan-caption">Book cover</span>
+        </a>
+      )}
     </header>
 
-    <section
-      class="basta-home-mode"
-      aria-labelledby="page-reader-heading"
-    >
-      <div class="basta-home-mode-copy">
-        <p class="basta-home-kicker">Reader</p>
-        <h2 id="page-reader-heading">Page-by-page reader</h2>
-        <p>
-          Read one book page at a time with the original scan and available
-          Urdu and Roman Urdu text.
-        </p>
+    <section class="basta-home-resume-panel" data-basta-resume-section hidden>
+      <a class="basta-home-resume" href="/basta/" data-resume-basta hidden>
+        <span class="basta-home-resume-copy">
+          <span class="basta-home-resume-kicker">Pick up where you left off</span>
+          <strong data-basta-resume-label>Continue reading</strong>
+        </span>
+        <span class="basta-home-resume-arrow" aria-hidden="true">→</span>
+      </a>
+    </section>
+
+    <section class="basta-home-modes" aria-labelledby="basta-home-modes-heading">
+      <div class="basta-home-modes-heading">
+        <p class="eyebrow">Read the book</p>
+        <h2 id="basta-home-modes-heading">Choose how to read</h2>
       </div>
-
-      <div class="basta-page-reader-actions">
-        {
-          firstPage && (
-            <a
-              class="button basta-home-primary-button"
-              href={`/basta/${firstPage}/`}
-            >
-              Start at page {firstPage}
-            </a>
-          )
-        }
-
-        <a class="button basta-home-secondary-button" href="/basta/index/">
-          Open book index
+      <div class="basta-home-mode-grid">
+        <a class="basta-home-mode-card" href={firstPage ? "/basta/" + firstPage + "/" : "/basta/index/"}>
+          <span class="basta-home-mode-number" aria-hidden="true">01</span>
+          <h3>Page by page</h3>
+          <p>Explore individual pages with original scans and available Urdu and Roman Urdu.</p>
+          <span class="basta-home-mode-action">Start at page {firstPage ?? 1} <span aria-hidden="true">→</span></span>
+        </a>
+        <a class="basta-home-mode-card" href="/basta/read/">
+          <span class="basta-home-mode-number" aria-hidden="true">02</span>
+          <h3>Continuous reader</h3>
+          <p>Read the whole book in one flow with your preferred text and scan columns.</p>
+          <span class="basta-home-mode-action">Open continuous reader <span aria-hidden="true">→</span></span>
         </a>
       </div>
-
-      {
-        firstPage && lastPage && (
-          <form
-            class="basta-home-page-jump"
-            data-basta-jump-form
-            data-available-pages={availablePages.join(",")}
-            data-index-start-page={indexStartPage}
-            data-index-end-page={indexEndPage}
-            aria-label="Go directly to a Basta page"
-          >
-            <label for="basta-home-page-number">Go to page</label>
-
-            <div class="basta-home-page-jump-controls">
-              <input
-                id="basta-home-page-number"
-                name="page"
-                type="number"
-                min={firstPage}
-                max={lastPage}
-                inputmode="numeric"
-                placeholder="Page"
-                required
-              />
-              <button type="submit">Open page</button>
-            </div>
-
-            <p class="basta-home-page-hint">Enter a book page number.</p>
-          </form>
-        )
-      }
     </section>
 
-    <section class="basta-home-mode" aria-labelledby="continuous-reader-heading">
-      <div class="basta-home-mode-copy">
-        <p class="basta-home-kicker">Full book</p>
-        <h2 id="continuous-reader-heading">Continuous reader</h2>
-        <p>
-          Read the full book with any combination of original scans, Urdu, and Roman Urdu. The layout adapts to your screen.
-        </p>
+    <section class="basta-home-find" aria-labelledby="basta-home-find-heading">
+      <div class="basta-home-find-intro">
+        <p class="eyebrow">Navigate</p>
+        <h2 id="basta-home-find-heading">Find a page or kalam</h2>
+        <p>Browse the linked book index or go straight to a numbered page.</p>
+        <a class="basta-home-index-link" href="/basta/index/">Browse book index <span aria-hidden="true">→</span></a>
       </div>
-
-      <a class="button basta-home-primary-button" href="/basta/read/">
-        Open full-book reader
-      </a>
+      {firstPage && lastPage && (
+        <form
+          class="basta-home-page-jump"
+          data-basta-jump-form
+          data-available-pages={availablePages.join(",")}
+          data-index-start-page={indexStartPage}
+          data-index-end-page={indexEndPage}
+          aria-label="Go directly to a Basta page"
+        >
+          <label for="basta-home-page-number">Go to page</label>
+          <div class="basta-home-page-jump-controls">
+            <input
+              id="basta-home-page-number"
+              name="page"
+              type="number"
+              min={firstPage}
+              max={lastPage}
+              inputmode="numeric"
+              placeholder="Page number"
+              required
+            />
+            <button type="submit">Go</button>
+          </div>
+        </form>
+      )}
+      <p class="basta-home-nojs" data-requires-js>
+        Direct page jumping requires JavaScript. You can still browse the linked book index.
+      </p>
     </section>
 
-    <section class="basta-home-download" aria-labelledby="download-heading">
+    <section class="basta-home-download" aria-labelledby="basta-home-pdf-heading">
       <div>
-        <h2 id="download-heading">Original PDF</h2>
-        <p>Download the complete original Basta as a PDF.</p>
+        <h2 id="basta-home-pdf-heading">Original Basta PDF</h2>
+        <p>Download the complete original book.</p>
       </div>
-
-      <a
-        class="button basta-home-secondary-button"
-        href="/files/basta/basta.pdf"
-        download
-      >
-        Download Basta PDF
-      </a>
+      <a class="button button-secondary" href="/files/basta/basta.pdf" download>Download PDF</a>
     </section>
   </article>
 
   <script>
     import { initBastaPageJumps } from "../../client/basta-navigation";
+    import { initResumeBasta } from "../../client/reading-progress";
     initBastaPageJumps();
+    initResumeBasta();
   </script>
 </BaseLayout>

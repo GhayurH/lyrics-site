@@ -136,7 +136,9 @@ export function initResumeBasta(): void {
     const offset = pos.offset === undefined ? "" : `?resume=${pos.offset}`;
     item.href = pos.mode === "continuous" ? `/basta/read/${offset}#page-${pos.page}`
       : `/basta/${pos.page}/${offset}`;
-    item.textContent = `Continue Basta at page ${pos.page}`;
+    const label = item.querySelector<HTMLElement>("[data-basta-resume-label]");
+    if (label) label.textContent = `Continue Basta at page ${pos.page}`;
+    else item.textContent = `Continue Basta at page ${pos.page}`;
     item.hidden = false;
   }
 }
