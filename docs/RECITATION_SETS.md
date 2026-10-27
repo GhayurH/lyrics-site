@@ -8,6 +8,57 @@ reciter names, and notes. For structurally verified numbered Marsiyas,
 organizers can reorder, omit, repeat, or borrow numbered stanzas from other
 verified Marsiyas. Borrowed text retains its original source attribution.
 
+
+## Phase 5 reciter tools
+
+The reciter and programme-note fields in the builder are per-position: repeated
+kalams can have different assigned reciters and notes. The **Description**
+field stores programme-wide instructions. They are visible in the reader and
+included in exports. These fields follow the existing 100-/400-/1000-character
+limits and remain part of the shared set document.
+
+### Offline copy and printing
+
+The programme reader includes **Save offline HTML** and **Print / Save as
+PDF**. Both first resolve the complete ordered programme, including pages
+and custom/borrowed Marsiya stanzas that would otherwise load lazily. The
+offline download is a standalone HTML file that can be opened without
+internet access or a Cloudflare account. Its text, source-attribution labels,
+assignments, and notes are embedded in the file; it uses local/system
+Urdu-font fallbacks and never silently substitutes missing verses.
+
+Scans are intentionally omitted from portable exports: original images live in
+R2, may not be accessible cross-origin, and cannot be guaranteed offline.
+Exported documents explicitly state this limitation. Source scans remain
+available in the online reader. **Print / Save as PDF** opens a standalone
+print-ready view and uses the browser's Print dialog; select **Save as PDF**
+as the printer to produce a PDF. There is no server-side PDF service.
+
+### Optional organizer-guided live navigation
+
+Published programmes with a valid *private edit capability* show
+**Live programme navigation** in the builder. Start, previous, next, and stop
+update the active programme-entry UID with an authenticated PATCH request to
+`/api/recitation-sets/{id}`. Repeated appearances of the same poem remain
+independent because their entry UIDs differ. An edited/reordered programme
+must be published first before live navigation resumes.
+
+A visitor to the shared reader can opt into **Follow organizer live**.
+Following defaults **off**. It polls the existing public GET endpoint
+approximately every 10 seconds while the tab is visible, and navigates only
+if the organizer's pointer changes. Previous/next/manual selection turns
+following off; the organizer cannot forcibly seize a reader's navigation.
+Stopping leaves each reader at its current kalam. Live navigation requires
+internet access; saved offline HTML deliberately contains no polling code.
+
+PATCH requires the same bearer token as editing/deleting a programme and
+rejects invalid or retired entry UIDs. D1 updates use a compare-and-swap on
+the JSON document, preventing concurrent live writes from overwriting recent
+edits. This requires **no D1 schema migration** or additional Pages route;
+the existing wildcard Function route handles PATCH. Authorized live updates
+renew the same retention period as other authorized edits. The organizer
+must refresh the builder after a conflicting change and retry.
+
 ## Data and source integrity
 
 The archive's Markdown and scanned pages remain the authoritative sources.

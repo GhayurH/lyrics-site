@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { validateRecitationSet } from "../src/lib/recitation-set.ts";
 import { validateDocument, digest } from "../functions/_lib/recitation.js";
 import { onRequestPost } from "../functions/api/recitation-sets/index.js";
-import { onRequestGet, onRequestPut, onRequestDelete } from "../functions/api/recitation-sets/[id].js";
+import { onRequestGet, onRequestPut, onRequestPatch, onRequestDelete } from "../functions/api/recitation-sets/[id].js";
 import { onRequestGet as redirect } from "../functions/r/[id].js";
 import { expirationDate } from "../functions/_lib/recitation-retention.js";
 import { cleanRecitationDatabase } from "../workers/recitation-cleanup.js";
@@ -35,6 +35,11 @@ function fakeDb() {
                 limits.set(key, { attempts: count + 1, expires_at: expiry });
                 return { attempts: count + 1 };
               }
+              if (sql.startsWith("SELECT document,updated_at,permanent,expires_at FROM recitation_sets WHERE id=? AND edit_token_hash=?")) {
+                const row = data.get(args[0]);
+                return row?.hash === args[1] ? { document: row.document, updated_at: row.updated_at,
+                  permanent: row.permanent, expires_at: row.expires_at } : null;
+              }
               if (sql.startsWith("SELECT document,updated_at")) {
                 const row = data.get(args[0]);
                 return row && { document: row.document, updated_at: row.updated_at,
@@ -61,6 +66,15 @@ function fakeDb() {
                 const [id, document, hash, permanent, expiresAt] = args;
                 data.set(id, { document, hash, permanent,
                   expires_at: expiresAt, updated_at: now() });
+                return { meta: { changes: 1 } };
+              }
+              if (sql.startsWith("UPDATE recitation_sets") && sql.includes("AND document=?")) {
+                const [document, expiresAt, id, hash, original, timestamp, isPreview, cutoff] = args;
+                const row = data.get(id);
+                if (!row || row.hash !== hash || row.document !== original ||
+                    !(row.permanent || row.expires_at > timestamp) ||
+                    (isPreview && row.updated_at <= cutoff)) return { meta: { changes: 0 } };
+                Object.assign(row, { document, expires_at: expiresAt, updated_at: now() });
                 return { meta: { changes: 1 } };
               }
               if (sql.startsWith("UPDATE recitation_sets")) {
@@ -251,4 +265,30 @@ test("preview cron deletes outdated sets even if legacy retention metadata says 
   const result = await cleanRecitationDatabase(db, "preview");
   assert.equal(result.deleted_sets, 1);
   assert.equal(db.data.size, 0);
+});
+
+test("organizer live pointer is private to edit capability and follows programme-entry UIDs", async () => {
+  const db = fakeDb(), env = { RECITATION_DB: db };
+  const second = { ...first, uid: "a61002ab-16f4-4535-bf2a-8ca02cefc956" };
+  const set = { ...example, items: [first, second] };
+  const { id, editToken } = await (await onRequestPost({ request: postRequest(set), env })).json();
+  const pointer = { active: true, currentUid: second.uid };
+  assert.equal((await onRequestPatch({ params: { id }, env,
+    request: editRequest(id, "PATCH", "0".repeat(64), pointer) })).status, 403);
+  assert.equal((await onRequestPatch({ params: { id }, env,
+    request: editRequest(id, "PATCH", editToken, { ...pointer, currentUid: "missing-entry" }) })).status, 400);
+  const response = await onRequestPatch({ params: { id }, env,
+    request: editRequest(id, "PATCH", editToken, pointer) });
+  assert.equal(response.status, 200);
+  assert.deepEqual((await response.json()).live, pointer);
+  const shared = await (await onRequestGet({ params: { id }, env })).json();
+  assert.deepEqual(shared.set.live, pointer);
+  assert.deepEqual(validateRecitationSet(shared.set), validateDocument(shared.set));
+  assert.equal(db.data.get(id).hash, await digest(editToken));
+  const stopped = await onRequestPatch({ params: { id }, env,
+    request: editRequest(id, "PATCH", editToken, { active: false, currentUid: second.uid }) });
+  assert.equal(stopped.status, 200);
+  assert.equal((await (await onRequestGet({ params: { id }, env })).json()).set.live.active, false);
+  assert.throws(() => validateDocument({ ...set, live: { active: true, currentUid: "missing" } }));
+  assert.throws(() => validateRecitationSet({ ...set, live: { active: "yes", currentUid: first.uid } }));
 });

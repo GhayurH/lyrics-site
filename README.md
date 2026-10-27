@@ -41,6 +41,12 @@ A private edit link permits updates and deletion. Production sets expire
 after 24 months without an edit unless explicitly preserved permanently;
 preview sets expire after 30 days.
 
+Additional reciter tools include **portable offline HTML** downloads,
+**Print / Save as PDF** via the browser print dialog, and opt-in live
+programme navigation controlled by the private organizer edit link. The
+existing programme notes and per-kalam reciter assignments are preserved in
+offline and print exports; original R2-hosted scans are not bundled offline.
+
 See [Recitation Sets](docs/RECITATION_SETS.md) for source-ID maintenance,
 security, retention, the D1 schema, Cloudflare deployment configuration,
 and testing.
