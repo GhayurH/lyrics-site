@@ -154,10 +154,15 @@ test("Custom starts from whichever preset is active, including AMOLED @smoke", a
     }
     const roles = await page.evaluate(() => {
       const css = getComputedStyle(document.documentElement);
+      const expand = (value) => {
+        const hex = value.trim().toLowerCase();
+        return /^#[0-9a-f]{3}$/.test(hex)
+          ? "#" + [...hex.slice(1)].map((digit) => digit + digit).join("") : hex;
+      };
       return {
-        primary: css.getPropertyValue("--primary-text").trim(),
-        muted: css.getPropertyValue("--secondary-text").trim(),
-        borders: css.getPropertyValue("--border-colour").trim(),
+        primary: expand(css.getPropertyValue("--primary-text")),
+        muted: expand(css.getPropertyValue("--secondary-text")),
+        borders: expand(css.getPropertyValue("--border-colour")),
       };
     });
     expect(roles).toEqual({ primary: preset.primary, muted: preset.muted, borders: preset.borders });
