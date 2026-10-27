@@ -101,6 +101,12 @@ For implementation boundaries and performance architecture, see [docs/ARCHITECTU
 
 Detailed content and transliteration conventions are documented in [Content contribution rules](docs/CONTRIBUTING.md#content-contribution-rules).
 
+## Discovery and navigation
+
+The homepage leads with a regular HTML search form targeting `/search/?q=...`, then provides direct entry points for the standalone kalam collection and Basta. Kalam Type links show all published standalone and indexed Basta entries for that type; the homepage does not duplicate lists of lyric cards. The detailed search filters remain on `/search/`, so Pagefind is not loaded on the homepage.
+
+The Basta landing route `/basta/` offers page-by-page and continuous reading, an independent link to the book index, validated page-number navigation, and an original PDF download. Return readers see a prominent browser-local resume panel before the reader choices when reading history exists. Both landing pages use the book cover at `/images/basta/original/000.jpg`, served through the shared R2 asset routing on preview deployments. Navigation and reading entry points remain usable if the image cannot load. Without JavaScript, the Basta landing page hides its page-number form and keeps the linked book index available.
+
 ## Search and local user state
 
 Search is powered by Pagefind and is generated during the production build. Pagefind assets are loaded only on `/search/`.
@@ -121,7 +127,7 @@ On standalone kalams, Basta page-by-page, and the continuous Basta reader, choos
 
 On mobile, the one-row site header hides on downward page scrolling and reappears on upward scrolling, at the top of the page, or while its navigation menu is open. The site's navigation remains accessible through the menu icon. On desktop the full navigation stays visible.
 
-The continuous reader offers a validated page-number jump in both views, a **Contents** control (also available inside Focus mode), and a link to open the current page in the page-by-page reader. Printed index-page numbers open Contents. Link directly into an immersive page using `/basta/read/?reading=1#page-202`; without `?reading=1`, the same page hash opens in the normal reader. Entering or leaving Focus mode and rotating preserve reading position. The last Basta page and normalized within-page offset are saved **locally in this browser**, with a Continue Basta link on the homepage and Saved page. The resume position survives navigation and rotation in the same browser. Continuous progress uses `IntersectionObserver` to observe nearby pages instead of measuring every loaded page while scrolling.
+The continuous reader offers a validated page-number jump in both views, a **Contents** control (also available inside Focus mode), and a link to open the current page in the page-by-page reader. Printed index-page numbers open Contents. Link directly into an immersive page using `/basta/read/?reading=1#page-202`; without `?reading=1`, the same page hash opens in the normal reader. Entering or leaving Focus mode and rotating preserve reading position. The last Basta page and normalized within-page offset are saved **locally in this browser**, with a Continue Basta link on the homepage, Basta landing page, and Saved page. The resume position survives navigation and rotation in the same browser. Continuous progress uses `IntersectionObserver` to observe nearby pages instead of measuring every loaded page while scrolling.
 
 ### Parallel reading and kalam boundaries
 
