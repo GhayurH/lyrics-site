@@ -5,7 +5,8 @@ import {
   toggleFavorite,
 } from "./storage";
 import {
-  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, readCustomPalette, readTheme, normalizeCssHex,
+  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, PALETTE_BASE_KEY, readCustomPalette,
+  readCustomPaletteBase, readTheme, normalizeCssHex,
   type CustomPalette, type ThemeName,
 } from "./theme";
 
@@ -195,7 +196,7 @@ function initThemePicker(): void {
 
   let selected: ThemeName = readTheme();
   let palette: CustomPalette = readCustomPalette();
-  let startingPalette: CustomPalette = { ...DEFAULT_PALETTE };
+  let startingPalette: CustomPalette = readCustomPaletteBase();
   const colorNames: (keyof CustomPalette)[] = ["main", "secondary", "accent"];
 
   // Read the actual preset tokens rather than duplicating their colours in TS.
@@ -245,6 +246,8 @@ function initThemePicker(): void {
         // previously saved Sepia-based palette.
         palette = paletteFromCurrentPreset();
         startingPalette = { ...palette };
+        try { localStorage.setItem(PALETTE_BASE_KEY, JSON.stringify(startingPalette)); }
+        catch { /* Storage can be blocked. */ }
       }
       selected = next;
       render(true);
@@ -272,9 +275,11 @@ function initThemePicker(): void {
   });
 
   window.addEventListener("storage", (event) => {
-    if (event.key !== "theme" && event.key !== PALETTE_KEY) return;
+    if (event.key !== "theme" && event.key !== PALETTE_KEY &&
+        event.key !== PALETTE_BASE_KEY) return;
     selected = readTheme();
     palette = readCustomPalette();
+    startingPalette = readCustomPaletteBase();
     render(false);
   });
 }
