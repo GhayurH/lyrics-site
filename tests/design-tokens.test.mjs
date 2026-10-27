@@ -72,9 +72,9 @@ test("shared minimum tap targets do not regress to local measurements", () => {
 });
 
 test("all referenced shared reading tokens resolve, including spacing presets", () => {
-  const declared = new Set([...tokens.matchAll(/(--reading-[\\w-]+):/g)].map((match) => match[1]));
+  const declared = new Set([...tokens.matchAll(/(--reading-[\w-]+):/g)].map((match) => match[1]));
   for (const [file, source] of Object.entries(css)) {
-    for (const [, variable] of source.matchAll(/var\\((--reading-[\\w-]+)/g)) {
+    for (const [, variable] of source.matchAll(/var\((--reading-[\w-]+)/g)) {
       assert(declared.has(variable), file + " references undefined " + variable);
     }
   }
