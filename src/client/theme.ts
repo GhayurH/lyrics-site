@@ -4,6 +4,7 @@ export type ThemeName = "light" | "dark" | "amoled" | "sepia" | "custom";
 export type CustomPalette = { main: string; secondary: string; accent: string };
 
 export const PALETTE_KEY = "kalam:custom-theme";
+export const PALETTE_BASE_KEY = "kalam:custom-theme-base";
 export const DEFAULT_PALETTE: CustomPalette = {
   main: "#f4ead6",
   secondary: "#fbf4e6",
@@ -67,6 +68,12 @@ export function readTheme(): ThemeName {
 
 export function readCustomPalette(): CustomPalette {
   try { return parsePalette(JSON.parse(localStorage.getItem(PALETTE_KEY) || "{}")); }
+  catch { return { ...DEFAULT_PALETTE }; }
+}
+
+/** Restore the preset Custom was derived from, including after navigation. */
+export function readCustomPaletteBase(): CustomPalette {
+  try { return parsePalette(JSON.parse(localStorage.getItem(PALETTE_BASE_KEY) || "{}")); }
   catch { return { ...DEFAULT_PALETTE }; }
 }
 
