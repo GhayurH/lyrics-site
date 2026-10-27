@@ -43,7 +43,7 @@
 .basta-home-intro-copy { min-width: 0; }
 .basta-home-intro-copy h1 { margin: 0.15rem 0 0.65rem; font-size: clamp(2.3rem, 5vw, 3.5rem); line-height: 1.12; }
 .basta-home-intro-copy > p:last-child { max-width: 36rem; margin: 0; color: var(--secondary-text); font-size: clamp(1rem, 2vw, 1.12rem); }
-.basta-home-scan { display: grid; gap: 0.45rem; min-width: 0; text-align: center; text-decoration: none; }
+.basta-home-scan { display: grid; gap: 0.45rem; min-width: 0; margin: 0; text-align: center; }
 .basta-home-scan img {
   display: block;
   width: 100%;
@@ -56,8 +56,8 @@
   box-shadow: 0.3rem 0.3rem 0 var(--tag-background);
 }
 .basta-home-scan-caption { color: var(--secondary-text); font-size: 0.75rem; }
-.basta-home-scan:hover .basta-home-scan-caption { text-decoration: underline; }
-.basta-home-scan:focus-visible, .basta-home-resume:focus-visible, .basta-home-index-link:focus-visible { outline: var(--focus-ring); outline-offset: 4px; }
+
+.basta-home-resume:focus-visible, .basta-home-index-link:focus-visible { outline: var(--focus-ring); outline-offset: 4px; }
 .basta-home-resume-panel { margin-top: 1.5rem; }
 .basta-home-resume-panel[hidden], .basta-home-resume[hidden] { display: none; }
 .basta-home-resume {
@@ -573,28 +573,28 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 /* Each following couplet starts with one horizontal separator. */
 .basta-couplet-separator {
-  border-top: 1px solid var(--secondary-text);
-  margin-block-start: 0.55em;
-  padding-block-start: 0.3em;
+  border-top: 1px solid var(--border-colour);
+  margin-block-start: .65em;
+  padding-block-start: .34em;
 }
 
 /* Six-verse stanzas: verses 1–4 use the reverse end inset;
    the closing pair reuses .basta-verse-indent and stays framed with
    horizontal rules. No extra inset or blank verse between lines 4 and 5. */
 .basta-six-closing-start {
-  border-top: 1px solid var(--secondary-text);
+  border-top: 1px solid var(--border-colour);
 }
 
 .basta-six-closing-end {
-  border-bottom: 1px solid var(--secondary-text);
+  border-bottom: 1px solid var(--border-colour);
 }
 
 /* Refrains share the closing couplet's rule when both occur together. */
 .basta-refrain {
   font-weight: 750;
-  border-top: 1px solid var(--secondary-text);
-  margin-block-start: 0.45em;
-  padding-block-start: 0.18em;
+  border-top: 1px solid var(--border-colour);
+  margin-block-start: .5em;
+  padding-block-start: .22em;
 }
 
 .basta-refrain-shared-rule {
@@ -618,7 +618,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   align-items: center;
   gap: 0.75rem;
   width: 100%;
-  margin: clamp(1rem, 2vw, 1.5rem) 0;
+  margin: clamp(1.1rem, 2.1vw, 1.65rem) 0;
   color: var(--secondary-text);
   font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1;
@@ -679,4 +679,25 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   text-decoration: underline;
   text-decoration-thickness: from-font;
   text-underline-offset: 0.16em;
+}
+
+/* Choose a reading mode first; secondary navigation comes after it. */
+.basta-home-modes { margin-top: clamp(1.2rem, 3vw, 1.8rem); }
+.basta-home-mode-card { min-height: 10rem; }
+.basta-home-mode-card:first-child {
+  border-color: var(--secondary-text);
+  background: var(--tag-background);
+}
+.basta-home-mode-card:first-child:hover { border-color: var(--primary-text); }
+.basta-home-mode-card h3 { margin-top: .3rem; }
+.basta-home-mode-card p { line-height: 1.5; max-width: 45ch; }
+.basta-home-mode-action { font-size: .9rem; text-underline-offset: .2em; }
+.basta-home-find { margin-top: clamp(.85rem, 2vw, 1.15rem); }
+.basta-home-find h2 { font-size: clamp(1.15rem, 2.5vw, 1.5rem); }
+.basta-home-find-intro > p:not(.eyebrow) { font-size: .9rem; }
+.basta-home-download { margin-top: 1.4rem; }
+@media (max-width: 760px) {
+  .basta-home-mode-card { min-height: 0; }
+  .basta-home-mode-card p { margin-block: .35rem .6rem; }
+  .basta-home-mode-card h3 { font-size: 1.2rem; }
 }

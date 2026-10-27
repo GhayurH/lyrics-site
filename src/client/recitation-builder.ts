@@ -92,7 +92,8 @@ export async function initRecitationBuilder(): Promise<void> {
   say("Loading poetry catalog…");
   let draft: RecitationDraft;
   let arranging: string | undefined;
-  let resultLimit = 24;
+  // Keep an unfiltered catalog from overwhelming the programme workflow.
+  let resultLimit = 8;
   let catalogReady = false;
   let dragging: string | undefined;
 
@@ -101,6 +102,7 @@ export async function initRecitationBuilder(): Promise<void> {
     updateLinks();
   }
   function setCurrent(next: RecitationDraft) {
+    delete elm<HTMLDetailsElement>("recite-share-details").dataset.userToggled;
     draft = next;
     history.replaceState(null, "", draftUrl(draft.id));
     arranging = undefined;
@@ -110,6 +112,15 @@ export async function initRecitationBuilder(): Promise<void> {
     const hasTitle = !!draft.set.title.trim();
     const hasKalams = draft.set.items.length > 0;
     const complete = hasTitle && hasKalams;
+    const sharePanel = document.querySelector<HTMLElement>(".recite-share");
+    if (sharePanel) sharePanel.dataset.ready = String(complete);
+    const shareDetails = elm<HTMLDetailsElement>("recite-share-details");
+    // Manual disclosure choices are respected until another draft is selected.
+    if (!shareDetails.dataset.userToggled) shareDetails.open = complete || Boolean(draft.remoteId);
+    for (const [stage, available] of [["plan", true], ["find", true], ["share", complete]] as const) {
+      const link = document.querySelector<HTMLAnchorElement>(`.recite-steps [data-recite-step="${stage}"]`);
+      if (link) link.dataset.stageReady = String(available);
+    }
     // A fresh blank draft already exists; avoid creating or copying empty
     // entries that all appear identical in the set picker.
     const hasDraftContent = hasTitle || hasKalams ||
@@ -194,6 +205,8 @@ export async function initRecitationBuilder(): Promise<void> {
     elm<HTMLElement>("recite-count").textContent = draft.set.items.length +
       " kalam" + (draft.set.items.length === 1 ? "" : "s");
     elm<HTMLElement>("recite-empty").hidden = draft.set.items.length > 0;
+    const programmePanel = document.querySelector<HTMLElement>(".recite-programme");
+    if (programmePanel) programmePanel.dataset.empty = String(draft.set.items.length === 0);
     draft.set.items.forEach((item, index) => {
       const metadata = getCatalog(item);
       const row = document.createElement("li");

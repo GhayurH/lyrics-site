@@ -192,7 +192,12 @@ function renderWork(work: HTMLElement, item: RecitationItem, index: number,
       }))
     : poem.image ? [{ address: poem.image, label: "Original scan of " + poem.title }] : [];
   const hasScan = scans.length > 0;
-  const editions = node("div", "recite-editions");
+  // Each programme item uses the same column grid contract as other readers.
+  const editions = node("div", "lyric-reading-grid recite-editions");
+  const readingRoot = work.closest<HTMLElement>("[data-reading-root]");
+  editions.dataset.readingMode = readingRoot?.dataset.readingMode ?? "parallel";
+  editions.dataset.readingColumns = readingRoot?.dataset.readingColumns ?? "urdu roman";
+  editions.dataset.lineSpacing = readingRoot?.dataset.lineSpacing ?? "default";
   editions.dataset.syncedScrollRoot = "";
   const urdu = node("section", "lyric-reading-panel lyric-reading-urdu");
   urdu.lang = poem.lang; urdu.dir = poem.direction;
@@ -300,7 +305,13 @@ export async function initRecitationReader(): Promise<void> {
     ? "/recite/?set=" + remoteId : "/recite/?draft=" + encodeURIComponent(draftId || "");
   copy.textContent = remoteId ? "Edit a copy of this set" : "Back to set builder";
   let mode = "continuous";
-  try { if (localStorage.getItem(viewKey) === "sequential") mode = "sequential"; } catch {}
+  try {
+    const storedView = localStorage.getItem(viewKey);
+    if (storedView === "sequential" || storedView === "continuous") mode = storedView;
+    else if (matchMedia("(max-width: 700px)").matches) mode = "sequential";
+  } catch {
+    if (matchMedia("(max-width: 700px)").matches) mode = "sequential";
+  }
   const select = dom<HTMLSelectElement>("recite-reader-contents");
   const view = dom<HTMLSelectElement>("recite-reader-view");
   view.value = mode;

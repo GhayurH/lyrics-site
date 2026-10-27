@@ -18,6 +18,19 @@ export async function initSavedLibrary(): Promise<void> {
   if (!root || root.dataset.savedReady === "true") return;
   root.dataset.savedReady = "true";
 
+  // Hide inactive sections instead of stacking empty boxes throughout the library.
+  // The resume link is managed independently by the reading-progress controller.
+  const refreshSections = () => {
+    let hasContent = false;
+    for (const section of root.querySelectorAll<HTMLElement>(".saved-section:not([data-basta-resume-section])")) {
+      const populated = Boolean(section.querySelector("ul")?.children.length);
+      section.hidden = !populated;
+      hasContent ||= populated;
+    }
+    const overview = root.querySelector<HTMLElement>("#saved-overview-empty");
+    if (overview) overview.hidden = hasContent || Boolean(root.querySelector("[data-basta-resume-section]:not([hidden])"));
+  };
+
   // Personal bookmarks and programmes work even if the lyric catalog fails.
   const renderLocal = () => {
     const bookmarks = readBastaBookmarks();
@@ -80,8 +93,13 @@ export async function initSavedLibrary(): Promise<void> {
     if (draftsEmpty) draftsEmpty.hidden = drafts.length > 0;
     const draftCount = document.querySelector<HTMLElement>("#recitation-drafts-count");
     if (draftCount) draftCount.textContent = drafts.length + " saved";
+    refreshSections();
   };
   renderLocal();
+  const resumeSection = root.querySelector<HTMLElement>("[data-basta-resume-section]");
+  if (resumeSection) new MutationObserver(refreshSections).observe(resumeSection, {
+    attributes: true, attributeFilter: ["hidden"],
+  });
   window.addEventListener("kalam:basta-bookmarks-changed", renderLocal);
   window.addEventListener("kalam:basta-selections-changed", renderLocal);
   window.addEventListener("storage", renderLocal);
@@ -127,6 +145,7 @@ export async function initSavedLibrary(): Promise<void> {
     if (recentEmpty) recentEmpty.hidden = recentEntries.length > 0;
     if (favoritesCount) favoritesCount.textContent = `${favoriteEntries.length} saved`;
     if (recentCount) recentCount.textContent = `${recentEntries.length} recent`;
+    refreshSections();
 
     // Cards were inserted after the global favorite controller initialized.
     window.dispatchEvent(new CustomEvent("kalam:cards-rendered"));

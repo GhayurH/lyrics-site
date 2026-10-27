@@ -37,8 +37,7 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
       />
       <button class="button" type="submit">Search</button>
     </form>
-    <p class="home-intro-help">Search in Urdu or Roman Urdu, or browse the collections below.</p>
-    <a class="home-skip-browse" href="#kalam-types-heading">Browse by Kalam Type <span aria-hidden="true">↓</span></a>
+    <p class="home-intro-help">Search in Urdu or Roman Urdu, or browse by Kalam Type below.</p>
   </section>
 
   <section id="home-continue" class="home-continue" aria-labelledby="home-continue-title" hidden>
@@ -50,15 +49,6 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
   </section>
 
   <section class="home-collections" aria-label="Explore the collections">
-    <a class="home-collection-card" href="#kalam-types-heading">
-      <span class="eyebrow">All kalam by type</span>
-      <h2>Browse Kalam Types</h2>
-      <p>Explore both standalone kalam and Basta selections, organized by type.</p>
-      <span class="home-collection-bottom">
-        <span class="home-collection-count">{kalamTypes.length} categories</span>
-        <span class="home-collection-action">Browse types <span aria-hidden="true">→</span></span>
-      </span>
-    </a>
     <a class="home-collection-card home-collection-basta" href="/basta/">
       <div class="home-collection-copy">
         <span class="eyebrow">Complete book archive</span>

@@ -17,7 +17,18 @@ export function initRecitationWorkflow(): void {
     }
   };
   if (sections.length) setStep(sections[0].link);
-  for (const { link } of sections) link.addEventListener("click", () => setStep(link));
+  for (const { link } of sections) link.addEventListener("click", () => {
+    setStep(link);
+    if (link.dataset.reciteStep === "share") {
+      const detail = app.querySelector<HTMLDetailsElement>("#recite-share-details");
+      if (detail) { detail.open = true; detail.dataset.userToggled = "true"; }
+    }
+  });
+  const sharing = app.querySelector<HTMLDetailsElement>("#recite-share-details");
+  sharing?.querySelector("summary")?.addEventListener("click", () => {
+    // Only an intentional click overrides automatic expansion on readiness.
+    sharing.dataset.userToggled = "true";
+  });
   if ("IntersectionObserver" in window && sections.length) {
     const observer = new IntersectionObserver((entries) => {
       const visible = entries.filter((entry) => entry.isIntersecting)
@@ -33,7 +44,7 @@ export function initRecitationWorkflow(): void {
   // On an existing draft containing notes, open them instead of concealing data.
   const details = app.querySelector<HTMLDetailsElement>("#recite-optional-details");
   const initializeDisclosure = () => {
-    if (!details || matchMedia("(min-width: 701px)").matches) return;
+    if (!details) return;
     const occasion = app.querySelector<HTMLInputElement>("#recite-occasion")?.value.trim();
     const notes = app.querySelector<HTMLTextAreaElement>("#recite-description")?.value.trim();
     if (!occasion && !notes) details.open = false;

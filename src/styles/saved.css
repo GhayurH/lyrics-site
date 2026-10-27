@@ -12,3 +12,10 @@
 .saved-local-list li a { font-weight: 700; text-underline-offset: .2em; }
 .saved-local-list li span { color: var(--secondary-text); font-size: .85rem; }
 .saved-local-list li button { min-height: var(--ui-target); padding: .45rem .7rem; border: 1px solid var(--border-colour); border-radius: var(--ui-radius); background: var(--surface-background); color: var(--primary-text); cursor: pointer; }
+
+/* Hide empty library groups rather than presenting multiple dashed placeholders. */
+.saved-section[hidden] { display: none !important; }
+.saved-section { margin-top: clamp(1.5rem,3vw,2.25rem); }
+.saved-overview-empty { max-width: 42rem; padding: 1.2rem 0; color: var(--secondary-text); }
+.saved-overview-empty[hidden] { display: none; }
+.saved-overview-empty a { color: var(--primary-text); }

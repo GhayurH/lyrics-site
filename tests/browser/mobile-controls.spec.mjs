@@ -145,6 +145,8 @@ test("desktop reading controls float as the site header hides and returns @smoke
 test("desktop reader header hides while scrolling the taller Urdu column", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/138/");
+  await page.locator('[data-reading-column][value="image"]').uncheck();
+  await page.locator('[data-reading-column][value="roman"]').check();
   const urdu = page.locator(".basta-page-urdu");
   const html = page.locator("html");
   await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
@@ -177,4 +179,35 @@ test("header still retracts after tapping the theme button", async ({ page }) =>
   await expect(page.locator("html")).toHaveAttribute("data-mobile-header-hidden", "true");
   await page.evaluate(() => window.scrollBy({ top: -125, behavior: "instant" }));
   await expect(page.locator(".site-header")).toBeVisible();
+});
+
+test("desktop settings collapse after scrolling into the poem but navigation stays available @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 820 });
+  await page.goto("/basta/138/");
+  const controls = page.locator("[data-reading-controls]");
+  await expect(controls.locator("[data-reading-regular-toggle]")).toBeHidden();
+  await page.evaluate(() => {
+    const reading = document.querySelector("[data-reading-root]");
+    window.scrollTo({ top: scrollY + reading.getBoundingClientRect().top + 300, behavior: "instant" });
+  });
+  await expect(controls).toHaveAttribute("data-reader-compact", "true");
+  await expect(controls.locator("[data-reading-regular-toggle]")).toBeVisible();
+  await expect(controls.locator(".reading-view-control")).toBeHidden();
+  await expect(controls.locator(".basta-pager")).toBeVisible();
+  // A single printed page has the pager; full-book page-jump and Contents
+  // actions belong to the separate continuous-reader route.
+  await controls.locator("[data-reading-regular-toggle]").click();
+  await expect(controls.locator(".reading-view-control")).toBeVisible();
+
+  await page.goto("/basta/read/#page-138");
+  const continuous = page.locator("[data-reading-controls]");
+  await page.evaluate(() => {
+    const reading = document.querySelector("[data-reading-root]");
+    window.scrollTo({ top: scrollY + reading.getBoundingClientRect().top + 500, behavior: "instant" });
+  });
+  await expect(continuous).toHaveAttribute("data-reader-compact", "true");
+  await expect(continuous.locator(".reading-contents-button")).toBeVisible();
+  await expect(continuous.locator(".reading-page-jump")).toBeVisible();
+  await expect(continuous.locator(".reading-open-page")).toBeVisible();
+  await expect(continuous.locator(".reading-current-page")).toBeVisible();
 });

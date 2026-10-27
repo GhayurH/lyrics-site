@@ -34,10 +34,10 @@ Readers import the shared `reading-columns.css` (edition grids, container querie
 
 Standalone lyrics, Basta page-by-page, the linked Basta index, the continuous reader, and Recitation Sets share `ReadingControls.astro` and `src/client/reader-state.ts`.
 
-- **Edition selection:** Image, Urdu, and Roman are independently selectable when available, with at least one edition selected. Text is the initial default where present. Unavailable Roman editions must be explained; never silently substitute Urdu. Scan-only pages retain the scan. Render correct initial availability and `data-reading-columns` in HTML, even without JavaScript.
+- **Edition selection:** Image, Urdu, and Roman are independently selectable when available, with at least one edition selected. First visits use Urdu on narrow mobile screens, Urdu plus Roman on wide screens, and source scan plus Urdu on desktop Basta single-page readers. Preferences persist per reader type and always override the suggested default. Unavailable Roman editions must be explained when selected alone, but do not repeat warnings beside usable Urdu. Scan-only pages retain the scan. Server-rendered HTML remains readable without JavaScript.
 - **Layout:** `reading-columns.css` uses available container width to display editions in parallel or stack them. In narrow page-by-page Basta portrait layouts, text panels stack at full width. Verses fit one line using `src/client/verse-fitting.ts` and `src/lib/verse-fit.ts`: no wrapping, horizontal text scrolling, or manual font-size selector.
 - **Scroll and scans:** `src/client/synced-columns.ts` synchronizes side-by-side text, anchored within matching Basta kalams rather than the entire page. Panels keep their natural heights; scans use `floating-scans.ts` for viewport-centred positioning beside text and remain in normal flow when stacked. Do not synchronize scan scroll as a text column.
-- **Focus Mode:** `reading-focus.ts` and `reading-focus.css` handle immersive controls, browser history/fullscreen, and position restoration. The compact ordinary mobile controls are separate from Focus Mode's own options. The mobile header retracts on downward scrolling and reappears on upward scrolling or when navigation is open.
+- **Focus Mode:** `reading-focus.ts` and `reading-focus.css` handle immersive controls, browser history/fullscreen, and position restoration. Ordinary mobile controls and the scrolled desktop reader toolbar show an edition summary while secondary settings collapse; Focus Mode has independent options. The mobile header retracts on downward scrolling and reappears on upward scrolling or when navigation is open.
 - **Scan access:** Keep native links functional without JavaScript; `scan-viewer.ts` enhances them with accessible zoom and pan. Absent R2 images must not make text navigation unusable.
 
 The explicit `---***---` separators in both Basta language files define matching kalam boundaries. `src/lib/basta-text.ts` distinguishes actual titles from poet credits and repeated opening lines; title styling is bold and underlined. Static `BastaText.astro` and streamed `basta-stream.ts` output must agree on headings, scan links, edition labels, page numbers, and kalam boundaries. Do not infer boundaries from stanza length.
@@ -54,11 +54,13 @@ Keep `#page-N` deep links, page-number validation and index-gap routing (`basta-
 
 Pagefind assets load only on `/search/`; the homepage submits a normal search form. Search filtering and URL state belong to `src/client/search.ts`. Category listings distinguish standalone lyrics from Basta selections.
 
-The Saved/Recent catalog is fetched on demand from `/data/saved-catalog.json`, not embedded throughout the site. Favorites, bookmarks, recent reading, drafts, theme, and reading preferences are local to the browser. `home-continue.ts` conditionally shows local resume links; `saved-library.ts` still displays local bookmarks/drafts if the catalog fails to load.
+The Saved/Recent catalog is fetched on demand from `/data/saved-catalog.json`, not embedded throughout the site. Empty collection groups are hidden until they contain saved items; a single overview explains an empty library. Favorites, bookmarks, recent reading, drafts, theme, and reading preferences are local to the browser. `home-continue.ts` conditionally shows local resume links; `saved-library.ts` still displays local bookmarks/drafts if the catalog fails to load.
 
 ## Recitation Sets boundary
 
 `recitation-builder.ts` owns draft editing and publication; `recitation-workflow.ts` enhances builder navigation; `recitation-reader.ts` resolves source poetry without changing it; `recitation-export.ts` produces portable offline/print HTML. Shared source identifiers and set validation live under `src/lib/` and `src/data/recitation/`.
+
+The Recitation Sets builder keeps Plan and Find usable without a forced wizard. Publication controls show an accessible disabled explanation before a valid title and at least one kalam exist; sharing and retention choices progressively expand once publishable, or when deliberately opened from the Share step. Searching the unfiltered catalog starts with a short batch, with a Show more control.
 
 Published programme documents and hashed private edit credentials use Cloudflare D1 through Pages Functions under `functions/`; source Markdown, scanned assets, and browsing remain static. `public/_routes.json` restricts dynamic invocation, root `wrangler.toml` configures Pages, and `workers/` contains independent scheduled cleanup. The [Recitation Sets reference](RECITATION_SETS.md) owns the schema, retention, exports, edit permissions, and deployment procedure.
 
@@ -67,6 +69,6 @@ Published programme documents and hashed private edit credentials use Cloudflare
 - Lazy-load noncritical R2 scans with reserved dimensions and async decoding; retain the original direct URLs.
 - Use `content-visibility` for off-screen continuous-reader content when supported, and avoid measuring distant reader panels during scrolling.
 - Do not load the full Saved catalog, entire Basta book, or Pagefind JavaScript in unrelated initial HTML.
-- Keep browser tests focused on navigation, responsive geometry, availability fallbacks, no-JavaScript access, and source/streamed markup parity.
+- Keep browser tests focused on navigation, responsive geometry, availability fallbacks, no-JavaScript access, and source/streamed markup parity. The `[visual-ci]` marker runs the full Chromium suite and uploads representative viewport captures for manual review; ordinary PRs run only smoke checks.
 
 Validation commands and CI conditions are documented once in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
