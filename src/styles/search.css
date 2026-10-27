@@ -51,3 +51,19 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 .search-header { margin-bottom: 1.2rem; }
 .search-results-shell { margin-top: 1.5rem; }
 @media (max-width: 700px) { .search-header { margin-bottom: .8rem; } }
+
+/* Pagefind's component UI has its own palette. Align it with the site for
+   Sepia and Custom rather than leaving white search fields inside warm/dark panels. */
+html:is([data-theme="sepia"], [data-theme="custom"]) .search-page {
+  --pf-text: var(--primary-text);
+  --pf-text-secondary: var(--secondary-text);
+  --pf-text-muted: var(--secondary-text);
+  --pf-background: var(--surface-background);
+  --pf-border: var(--border-colour);
+  --pf-border-focus: var(--accent-color);
+  --pf-skeleton: var(--tag-background);
+  --pf-skeleton-shine: var(--surface-background);
+  --pf-hover: var(--tag-background);
+  --pf-mark: var(--accent-color);
+  --pf-outline-focus: var(--accent-color);
+}
