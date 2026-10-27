@@ -121,6 +121,16 @@ export async function initRecitationBuilder(): Promise<void> {
         ? draft.publishedSnapshot === JSON.stringify(draft.set) ? "Published · Up to date" : "Unpublished changes on this device"
         : "Read-only copy · Publishing creates a new link"
       : "Not yet published";
+    const expiry = elm<HTMLElement>("recite-expiration");
+    const published = draft.remoteId && draft.publishedSnapshot === JSON.stringify(draft.set);
+    expiry.textContent = !draft.remoteId ? "This draft exists only on this device until published."
+      : !published ? "Retention changes take effect when you publish."
+      : draft.set.permanent ? "Permanent: this published set will not expire automatically."
+      : draft.expiresAt ? "This published link expires " +
+        new Date(draft.expiresAt).toLocaleDateString() + " unless updated."
+      : "This published set follows the automatic expiration policy.";
+    const deletePublished = elm<HTMLButtonElement>("recite-delete-published");
+    deletePublished.hidden = !(draft.remoteId && draft.editToken);
     const shared = elm<HTMLElement>("recite-shared-links");
     shared.hidden = !draft.remoteId;
     if (draft.remoteId) {
@@ -252,6 +262,7 @@ export async function initRecitationBuilder(): Promise<void> {
     elm<HTMLInputElement>("recite-title").value = draft.set.title;
     elm<HTMLInputElement>("recite-occasion").value = draft.set.occasion;
     elm<HTMLTextAreaElement>("recite-description").value = draft.set.description;
+    elm<HTMLInputElement>("recite-permanent").checked = draft.set.permanent === true;
     refreshDrafts(); renderSequence(); renderResults(); updateLinks();
     if (arranging) void showArrangement();
     else elm<HTMLElement>("recite-arrangement").hidden = true;
@@ -344,8 +355,10 @@ export async function initRecitationBuilder(): Promise<void> {
       const existing = findRemoteDraft(requestedSet);
       draft = existing
         ? { ...existing, set, publishedSnapshot: JSON.stringify(set),
+          expiresAt: payload.expiresAt ?? null,
           ...(secret ? { editToken: secret } : {}) }
-        : draftFromRemote(requestedSet, set, secret);
+        : { ...draftFromRemote(requestedSet, set, secret),
+          expiresAt: payload.expiresAt ?? null };
       saveDraft(draft);
       say("Shared programme loaded");
     } catch (e) { say((e as Error).message); }
@@ -388,6 +401,11 @@ export async function initRecitationBuilder(): Promise<void> {
       persist(); refreshDrafts();
     });
   }
+  elm<HTMLInputElement>("recite-permanent").addEventListener("change", (event) => {
+    if ((event.target as HTMLInputElement).checked) draft.set.permanent = true;
+    else delete draft.set.permanent;
+    persist();
+  });
   elm<HTMLInputElement>("recite-search").addEventListener("input", () => { resultLimit = 24; renderResults(); });
   elm<HTMLSelectElement>("recite-source").addEventListener("change", () => { resultLimit = 24; renderResults(); });
   elm<HTMLButtonElement>("recite-more").addEventListener("click", () => { resultLimit += 24; renderResults(); });
@@ -461,7 +479,12 @@ export async function initRecitationBuilder(): Promise<void> {
       });
       const result = await response.json();
       if (!response.ok) throw Error(result.error || "Publishing failed");
+      // Preview deployments enforce temporary retention even when the
+      // organizer has checked permanent preservation.
+      if (!result.permanent) delete clean.permanent;
       draft.set = clean;
+      draft.expiresAt = result.expiresAt ?? null;
+      elm<HTMLInputElement>("recite-permanent").checked = !!clean.permanent;
       if (!update) {
         draft.remoteId = result.id;
         draft.editToken = result.editToken;
@@ -472,6 +495,28 @@ export async function initRecitationBuilder(): Promise<void> {
         "Published. Share the read-only link with the group.");
     } catch (e) { say((e as Error).message); }
     finally { publishButton.disabled = false; }
+  });
+  elm<HTMLButtonElement>("recite-delete-published").addEventListener("click", async () => {
+    if (!draft.remoteId || !draft.editToken) {
+      say("Only someone with the private organizer edit link can delete this published set.");
+      return;
+    }
+    if (!confirm("Permanently delete \"" + draft.set.title +
+      "\" from Kalam Archive? The public link will stop working and the set cannot be recovered. Your local draft will also be removed.")) return;
+    const button = elm<HTMLButtonElement>("recite-delete-published");
+    button.disabled = true;
+    try {
+      const response = await fetch("/api/recitation-sets/" + draft.remoteId, {
+        method: "DELETE", headers: { Authorization: "Bearer " + draft.editToken },
+      });
+      const result = await response.json();
+      if (!response.ok) throw Error(result.error || "Unable to delete published set");
+      const deleted = draft.id;
+      removeDraft(deleted);
+      setCurrent(readDrafts()[0] || createLocalDraft());
+      say("The published set was permanently deleted; its public link no longer works.");
+    } catch (e) { say((e as Error).message); }
+    finally { button.disabled = false; }
   });
   for (const [buttonId, inputId] of [
     ["recite-copy-public", "recite-public-url"],
