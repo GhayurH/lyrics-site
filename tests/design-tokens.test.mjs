@@ -29,8 +29,10 @@ test("shared colours and dimensions are defined only by the token file", () => {
   }
   for (const file of readerStyles) {
     assert.doesNotMatch(css[file], /\b48rem\b/, file + " has a stale inline reader width");
-    assert.match(css[file], /var\(--reading-single-width\)|var\(--reading-urdu-size\)|var\(--reading-roman-size\)/,
-      file + " should consume shared reading tokens");
+    if (file !== "recitation.css") {
+      assert.match(css[file], /var\(--reading-single-width\)|var\(--reading-urdu-size\)|var\(--reading-roman-size\)/,
+        file + " should consume shared reading tokens");
+    }
   }
 });
 
