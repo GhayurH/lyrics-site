@@ -296,3 +296,7 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 .recite-share[data-ready="false"] .recite-retention-option,
 .recite-share[data-ready="false"] .recite-sharing-policy { display: none; }
 .recite-share[data-ready="false"] { padding-block: .85rem; }
+
+/* When a programme item lacks a scan, a selected text edition owns the width. */
+.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
