@@ -1,6 +1,6 @@
 # Recitation Sets deployment and D1 binding
 
-The public archive remains statically generated. Only /api/recitation-sets/* and /r/* use Cloudflare Pages Functions.
+The public archive remains statically generated. Only /api/recitation-sets (creation), /api/recitation-sets/* (read/update), and /r/* (public redirects) invoke Cloudflare Pages Functions. `public/_routes.json` is copied to `dist/_routes.json` during the Astro build, so static pages and R2 asset redirects do not consume Functions invocations.
 
 ## One-time Cloudflare setup
 
@@ -20,7 +20,7 @@ Do not hand-write a Wrangler configuration that overrides your existing Pages pr
 
 - npm test runs the set validation and mocked D1 permission checks.
 - npm run build compiles static Astro pages and per-poem source endpoints.
-- npx playwright test --grep '@smoke' checks local draft creation and reading.
+- npx playwright test --grep '@smoke' checks local draft creation and reading, verified multi-page Marsiyas, both scans, and preserved missing-source references.
 - Astro preview does not emulate Cloudflare Pages Functions. To test backend functionality locally, run npx wrangler pages dev dist --d1 RECITATION_DB=<database-id>, with the SQL migration applied in the local D1 environment first.
 - Without D1, the sharing endpoint explicitly returns HTTP 503; local drafts and their reader still work.
 
