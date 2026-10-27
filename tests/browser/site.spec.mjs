@@ -132,9 +132,11 @@ test("Basta without JavaScript offers the index instead of a nonfunctional jump 
   await context.close();
 });
 
-test("the two landing pages use the first original Basta scan", async ({ page }) => {
+test("both landing pages display the book cover", async ({ page }) => {
   await page.goto("/");
-  await expect(page.locator(".home-basta-preview")).toHaveAttribute("src", "/images/basta/original/001.png");
+  await expect(page.locator(".home-basta-preview")).toHaveAttribute("src", "/images/basta/original/000.jpg");
   await page.goto("/basta/");
-  await expect(page.locator(".basta-home-scan img")).toHaveAttribute("src", "/images/basta/original/001.png");
+  await expect(page.locator(".basta-home-scan img")).toHaveAttribute("src", "/images/basta/original/000.jpg");
+  await expect(page.locator(".basta-home-scan img")).toHaveAttribute("alt", "Basta book cover");
+  await expect(page.locator(".basta-home-scan-caption")).toHaveText("Book cover");
 });

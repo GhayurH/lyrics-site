@@ -26,9 +26,9 @@ test("Basta landing exposes readers, book index, page jump and original PDF", ()
   assert.match(basta, /\/files\/basta\/basta\.pdf/);
 });
 
-test("both landing pages use the first original Basta scan", () => {
+test("both landing pages display the original book cover", () => {
   for (const page of [home, basta]) {
-    assert.match(page, /\/images\/basta\/original\/001\.png/);
+    assert.match(page, /\/images\/basta\/original\/000\.jpg/);
   }
   assert.doesNotMatch(basta, /basta-home-book|Digital book archive/);
   assert.doesNotMatch(home, /home-basta-emblem/);
