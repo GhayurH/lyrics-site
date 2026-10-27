@@ -389,7 +389,7 @@ export async function initRecitationReader(): Promise<void> {
   const followLabel = dom<HTMLLabelElement>("recite-live-label");
   const follow = dom<HTMLInputElement>("recite-follow-live");
   const liveStatus = dom<HTMLElement>("recite-live-status");
-  if (!remoteId) followLabel.hidden = true;
+  followLabel.hidden = !remoteId;
   let following = false;
   let livePolling = false;
   async function pollLive(): Promise<void> {
