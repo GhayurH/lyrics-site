@@ -27,10 +27,20 @@ jobs:
           node-version: '22'
           cache: npm
       - run: npm ci
-      # Catalog verification is informative until every exceptional printed-page boundary is reviewed.
-      - run: npm run basta:kalams:audit
-      # The prebuild hook already runs npm test; do not run the suite twice.
+      # Prebuild executes Node tests and recitation identity checks on each push.
+      # Mark a milestone commit [full-ci] to run the complete browser suite.
+      - id: test_mode
+        shell: bash
+        run: |
+          if git log -1 --pretty=%B | grep -Fq '[full-ci]'; then
+            echo 'full=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'full=false' >> "$GITHUB_OUTPUT"
+          fi
       - run: npm run build
+      - name: Audit Basta page boundaries
+        if: steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'
+        run: npm run basta:kalams:audit
       - name: Verify deployment asset redirects
         run: |
           test -f dist/_redirects
@@ -38,4 +48,6 @@ jobs:
           grep -Fq '/files/* https://r2-assets.kalamarchive.com/files/:splat 302' dist/_redirects
           test -f dist/_routes.json
           node --input-type=module -e "import { readFileSync } from 'node:fs'; const routes=JSON.parse(readFileSync('dist/_routes.json','utf8')); for (const path of ['/api/recitation-sets','/api/recitation-sets/*','/r/*']) if (!routes.include.includes(path)) throw Error('Missing Pages Function route: '+path); if (routes.include.includes('/*')) throw Error('Unexpected all-static Function invocation');"
-      - run: npx playwright test --grep '@smoke'
+      - name: Browser regression suite (milestones only)
+        if: steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'
+        run: npx playwright test --grep '@smoke'

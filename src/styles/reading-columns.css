@@ -154,6 +154,12 @@
   .basta-page-grid[data-reading-root]:not([data-reading-columns~="image"]) { grid-template-areas: "text"; grid-template-columns: minmax(0,1fr); }
   .basta-page-grid:not(.basta-page-grid-with-roman)[data-reading-root]:not([data-reading-columns~="image"]) { grid-template-areas: "urdu"; }
   .basta-parallel-kalams-page, .basta-parallel-kalams-reader { grid-template-columns: minmax(0,1fr); }
+  .basta-page-grid.basta-page-grid-with-roman[data-reading-root] { grid-template-columns: minmax(0,1fr); }
+  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .basta-parallel-kalams-page {
+    width: 100%; max-width: 100%; min-width: 0;
+    grid-template-columns: minmax(0,1fr);
+  }
   .basta-parallel-kalams-page > .basta-page-urdu, .basta-parallel-kalams-reader > .basta-reader-urdu {
     grid-area: auto; grid-row: 1; border: 0; border-bottom: 1px solid var(--border-colour); padding: 0 0 1.1rem;
   }
@@ -312,45 +318,6 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
     grid-template-columns: minmax(0, 1fr);
   }
   .basta-parallel-index-table.basta-parallel-index-roman { border-inline-end: 0; }
-}
-
-/* On mobile portrait, page-by-page Basta has one *full-width* language panel
-   per row. The printed scan, if selected, also spans the complete width.
-   Explicit placement prevents later shared grid rules leaving two half-width
-   cells while merely moving the second language to another row. */
-@media (max-width: 700px) and (orientation: portrait) {
-  .basta-page-grid[data-reading-root].basta-page-grid-with-roman {
-    grid-template-columns: minmax(0, 1fr) !important;
-  }
-  .basta-page-grid[data-reading-root].basta-page-grid-with-roman[data-reading-columns~="image"] {
-    grid-template-areas: "scan" "text" !important;
-  }
-  .basta-page-grid[data-reading-root].basta-page-grid-with-roman:not([data-reading-columns~="image"]) {
-    grid-template-areas: "text" !important;
-  }
-  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-    > .basta-parallel-kalams-page {
-    display: grid;
-    width: 100%;
-    max-width: 100%;
-    min-width: 0;
-    grid-template-columns: minmax(0, 1fr) !important;
-  }
-  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-    > .basta-parallel-kalams-page > .basta-page-urdu {
-    grid-area: 1 / 1 !important;
-    min-width: 0;
-    border: 0;
-    border-bottom: 1px solid var(--border-colour);
-    padding: 0 0 1.1rem;
-  }
-  .basta-page-grid[data-reading-root][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-    > .basta-parallel-kalams-page > .basta-page-roman {
-    grid-area: 2 / 1 !important;
-    min-width: 0;
-    border: 0;
-    padding: 1.1rem 0 0;
-  }
 }
 
 /* Mobile regular reading has one compact row by default. Focus mode owns its
