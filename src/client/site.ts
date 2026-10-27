@@ -209,10 +209,17 @@ function initThemePicker(): void {
     const style = getComputedStyle(document.documentElement);
     const read = (property: string, fallback: string) =>
       normalizeCssHex(style.getPropertyValue(property), fallback);
+    const main = read("--site-background", DEFAULT_PALETTE.main);
+    const secondary = read("--surface-background", DEFAULT_PALETTE.secondary);
     return {
-      main: read("--site-background", DEFAULT_PALETTE.main),
-      secondary: read("--surface-background", DEFAULT_PALETTE.secondary),
+      main, secondary,
       accent: read("--accent-color", DEFAULT_PALETTE.accent),
+      inherited: {
+        main, secondary,
+        primary: read("--primary-text", "#171719"),
+        muted: read("--secondary-text", "#66666b"),
+        borders: read("--border-colour", "#dddddf"),
+      },
     };
   };
 
@@ -229,7 +236,7 @@ function initThemePicker(): void {
       if (output) output.textContent = palette[name].toUpperCase();
     }
     const automatic = paletteTextColors({
-      main: palette.main, secondary: palette.secondary, accent: palette.accent,
+      ...palette, primaryText: undefined, mutedText: undefined, borders: undefined,
     });
     for (const name of advancedNames) {
       const automaticControl = dialog.querySelector<HTMLInputElement>("#theme-" + name + "-auto");
@@ -262,8 +269,8 @@ function initThemePicker(): void {
       if (!input.checked) return;
       const next = input.value as ThemeName;
       if (next === "custom" && selected !== "custom") {
-        // Starting Custom must always match the selected preset, not the
-        // previously saved Sepia-based palette.
+        // Copy the active preset's surfaces AND type/border roles into the
+        // initial Auto palette; never silently replace Dark text with #fff.
         palette = paletteFromCurrentPreset();
         startingPalette = { ...palette };
         try { localStorage.setItem(PALETTE_BASE_KEY, JSON.stringify(startingPalette)); }
