@@ -117,7 +117,7 @@
   flex: 1 1 auto;
   width: 100%;
   min-width: 0;
-  min-height: 2.75rem;
+  min-height: var(--ui-target);
   border: 1px solid var(--border-colour);
   border-radius: 0.55rem;
   padding: 0.55rem 0.7rem;
@@ -130,7 +130,7 @@
   display: inline-flex;
   flex: 0 0 auto;
   min-width: 3.4rem;
-  min-height: 2.75rem;
+  min-height: var(--ui-target);
   align-items: center;
   justify-content: center;
   border: 1px solid var(--button-background);
@@ -224,7 +224,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 .basta-jump-form input {
   width: 8rem;
-  min-height: 2.75rem;
+  min-height: var(--ui-target);
   border: 1px solid var(--border-colour);
   border-radius: 0.5rem;
   padding: 0.55rem 0.7rem;
@@ -234,7 +234,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 .basta-jump-form button {
-  min-height: 2.75rem;
+  min-height: var(--ui-target);
   border: 0;
   border-radius: 0.5rem;
   padding: 0.55rem 0.9rem;
