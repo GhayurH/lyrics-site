@@ -79,7 +79,7 @@
 .basta-transliteration-missing {
   margin: 0;
   border: 1px dashed var(--border-colour);
-  border-radius: 0.55rem;
+  border-radius: var(--ui-radius-tight);
   padding: 0.8rem 0.9rem;
   color: var(--secondary-text);
   font-size: 0.92rem;
@@ -379,7 +379,7 @@
   place-items: center;
   margin: 1rem 0 2rem;
   border: 1px dashed var(--border-colour);
-  border-radius: 0.75rem;
+  border-radius: var(--ui-radius-card);
   color: var(--secondary-text);
 }
 .basta-reader-chunk-message { margin: 0; padding: 1rem; text-align: center; }
