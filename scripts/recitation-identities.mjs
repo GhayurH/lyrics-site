@@ -1,7 +1,6 @@
 // Explicit source-ID registry. --bootstrap creates an initial snapshot;
 // --check blocks accidental renames/deletions/renumbering; --sync only adds new IDs.
 import { readFile, readdir, writeFile, mkdir } from "node:fs/promises";
-import { gzipSync } from "node:zlib";
 import { fileURLToPath } from "node:url";
 import { dirname, join, relative, sep } from "node:path";
 import { buildBastaKalamCatalog, bastaKalamId } from "../src/lib/basta-kalam-units.ts";
@@ -83,8 +82,7 @@ catch (error) {
 if (args.has("--bootstrap")) {
   const initial = { version: 1, lyrics: activeLyrics, basta: activeBasta.map(
     ({ status, ...record }) => record) };
-  console.log("RECITATION_IDENTITY_SNAPSHOT=" +
-    gzipSync(Buffer.from(JSON.stringify(initial))).toString("base64"));
+  console.log("RECITATION_IDENTITY_SNAPSHOT=" + JSON.stringify(initial));
   process.exit(0);
 }
 if (!locked?.lyrics || !locked?.basta || locked.version !== 1)
