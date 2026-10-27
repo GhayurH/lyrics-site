@@ -514,18 +514,18 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 /* Page reader preferences and single-language scan layout. */
 .basta-page-reading-controls { margin: 1rem 0 1.5rem; }
 .basta-page-grid[data-reading-root] {
-  --basta-page-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
-  --basta-page-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
-  --basta-page-urdu-leading: 2.8;
-  --basta-page-roman-leading: 2;
+  --basta-page-urdu-size: var(--reading-urdu-size);
+  --basta-page-roman-size: var(--reading-roman-size);
+  --basta-page-urdu-leading: var(--reading-urdu-leading);
+  --basta-page-roman-leading: var(--reading-roman-leading);
 }
 .basta-page-grid[data-reading-root] .basta-original-page { grid-area: scan; }
 .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) .basta-page-urdu { grid-area: urdu; }
 .basta-page-grid[data-reading-root] .basta-urdu-text { font-size: var(--basta-page-urdu-size); line-height: var(--basta-page-urdu-leading); }
 .basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--basta-page-roman-size); line-height: var(--basta-page-roman-leading); }
 
-.basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: 2.2; --basta-page-roman-leading: 1.65; }
-.basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: 3.2; --basta-page-roman-leading: 2.35; }
+.basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: var(--reading-undefined); --basta-page-roman-leading: var(--reading-undefined); }
+.basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: var(--reading-undefined); --basta-page-roman-leading: var(--reading-undefined); }
 
 
 
@@ -653,7 +653,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 [data-reading-mode="roman"] .basta-parallel-kalams-page .basta-page-urdu { display: none; }
 [data-reading-mode="urdu"] .basta-parallel-kalams,
 [data-reading-mode="roman"] .basta-parallel-kalams {
-  grid-template-columns: minmax(0, 48rem);
+  grid-template-columns: minmax(0, var(--reading-single-width));
   justify-content: center;
 }
 [data-reading-mode="urdu"] .basta-parallel-kalams > .basta-page-urdu,
