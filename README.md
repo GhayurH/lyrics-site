@@ -31,7 +31,7 @@ For content conventions, correction rules, and the workflow for adding or updati
 
 ### Recitation Sets
 
-The [Recitation Sets builder](/recite/) lets organizers assemble kalam
+The [Recitation Sets builder](https://kalamarchive.com/recite/) lets organizers assemble kalam
 programmes from standalone lyrics and verified Basta poems. Numbered Marsiya
 stanzas can be rearranged or borrowed from other verified Marsiyas without
 changing the archive text. Programmes can be read in Urdu, Roman Urdu, or with
