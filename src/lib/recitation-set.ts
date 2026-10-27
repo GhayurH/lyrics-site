@@ -4,6 +4,8 @@ export interface RecitationItem {
   uid: string;
   kind: "lyric" | "basta";
   id: string;
+  /** Fallback label if the original source is later retired. */
+  sourceTitle?: string;
   reciter?: string;
   note?: string;
   /** Absent means the unmodified canonical poem. Empty arrays are rejected. */
@@ -44,6 +46,7 @@ export function validateRecitationSet(raw: unknown): RecitationSet {
     if (!plain(item.uid, 80) || !UID.test(item.uid) || seen.has(item.uid) ||
         (item.kind !== "lyric" && item.kind !== "basta") ||
         !plain(item.id, 160) || !ID.test(item.id) ||
+        (item.sourceTitle !== undefined && !plain(item.sourceTitle, 180)) ||
         (item.reciter !== undefined && !plain(item.reciter, 100)) ||
         (item.note !== undefined && !plain(item.note, 400)))
       throw Error("Invalid kalam reference or notes");
@@ -65,6 +68,7 @@ export function validateRecitationSet(raw: unknown): RecitationSet {
     }) : undefined;
     return {
       uid: item.uid, kind: item.kind, id: item.id,
+      ...(item.sourceTitle ? { sourceTitle: item.sourceTitle } : {}),
       ...(item.reciter ? { reciter: item.reciter } : {}),
       ...(item.note ? { note: item.note } : {}),
       ...(sequence ? { stanzaSequence: sequence } : {}),
