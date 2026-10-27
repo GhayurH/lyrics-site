@@ -453,3 +453,16 @@ html[data-reading-focus="true"] .reading-context-nav .basta-pager { background: 
 .reading-context-nav .basta-pager > .basta-nav-button:first-child { grid-column: 1; grid-row: 1; }
 .reading-context-nav .basta-pager > .basta-nav-button:last-child { grid-column: 3; grid-row: 1; }
 .reading-context-nav .basta-pager > .basta-jump-form { grid-column: 2; grid-row: 1; }
+
+/* Preserve usable top-of-page Basta links when scripting is unavailable. */
+html:not([data-reader-enhanced="true"]) .reading-controls:has(> .reading-context-nav) {
+  display: block; position: static; padding: 0; border: 0; background: transparent; box-shadow: none;
+}
+html:not([data-reader-enhanced="true"]) .reading-controls > :not(.reading-context-nav) { display: none !important; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-pager {
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  padding: .6rem; border: 1px solid var(--border-colour); border-radius: .7rem;
+}
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-nav-button:first-child { grid-column: 1; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-nav-button:last-child { grid-column: 2; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-jump-form { display: none; }
