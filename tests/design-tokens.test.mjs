@@ -88,3 +88,35 @@ test("all referenced shared reading tokens resolve, including spacing presets", 
     }
   }
 });
+
+test("feature-page widths and shared component radii come from semantic tokens", () => {
+  const shared = [
+    "content-feature", "content-intro", "content-compact", "reading-scan-width",
+    "ui-radius-tight", "ui-radius-card", "ui-panel-radius",
+    "preset-light-main", "preset-dark-main", "preset-sepia-main", "preset-amoled-main",
+  ];
+  for (const name of shared) assert.match(tokens, new RegExp("--" + name + ":"));
+  for (const [file, source] of Object.entries(css)) {
+    if (file === "tokens.css") continue;
+    // Content dimensions shared by multiple routes must not drift again.
+    assert.doesNotMatch(source, /max-width:\\s*(?:72|52|42)rem\\b/,
+      file + " should use the semantic content-width token");
+    assert.doesNotMatch(source, /border-radius:\\s*0?\\.(?:55|75)rem\\b/,
+      file + " should use a shared component radius");
+  }
+  for (const file of ["about.css", "basta.css", "saved.css", "search.css"])
+    assert.match(css[file], /var\\(--content-feature\\)/);
+  assert.match(css["basta.css"], /var\\(--reading-scan-width\\)/);
+  assert.match(css["core.css"], /var\\(--preset-amoled-main\\)/);
+  assert.match(tokens, /--button-background:\\s*var\\(--accent-color\\)/);
+});
+
+test("every variable reference in shared design CSS resolves to a declared token", () => {
+  const definitions = new Set([...tokens.matchAll(/(--[\\w-]+)\\s*:/g)].map((match) => match[1]));
+  for (const [file, source] of Object.entries(css)) {
+    if (file === "tokens.css") continue;
+    for (const [, variable] of source.matchAll(/var\\((--(?:content|preset|ui|reading)-[\\w-]+)/g)) {
+      assert(definitions.has(variable), file + " references undefined " + variable);
+    }
+  }
+});
