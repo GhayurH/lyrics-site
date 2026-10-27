@@ -199,8 +199,26 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
     } else if (starts.length === urduPieces.length) {
       positions = starts.map((_, index) => index);
     } else if (previous && starts.length + 1 === urduPieces.length) {
-      positions = starts.map((_, index) => index + 1);
-      continuation = 0;
+      // An extra part can be either an opening continuation or an ending
+      // unindexed excerpt. Never shift the indexed poem automatically.
+      const firstMatches = starts.length > 0 &&
+        likelyTitle(urduPieces[0], starts[0].entry.name);
+      const trailingMatches = starts.length > 0 &&
+        starts.every((item, index) => likelyTitle(urduPieces[index + 1], item.entry.name));
+      const initialNumber = normalizePrintedStanzaNumber(
+        urduPieces[0].trim().split("\n")[0],
+      );
+      if (firstMatches && !trailingMatches) {
+        positions = starts.map((_, index) => index);
+      } else if (trailingMatches || (initialNumber !== null && initialNumber > 1)) {
+        positions = starts.map((_, index) => index + 1);
+        continuation = 0;
+      } else {
+        // Neither boundary is established by an index title or a continued
+        // stanza number. Mark for source-image verification.
+        positions = starts.map(() => -1);
+        previous.issues.push("Ambiguous fragment boundary on page " + page.page);
+      }
     } else if (!starts.length && previous && urduPieces.length === 1) {
       continuation = 0;
     } else if (starts.length) {
