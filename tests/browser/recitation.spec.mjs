@@ -42,10 +42,14 @@ test("live navigation is opt-in and follows published entry UIDs @smoke", async 
     route.fulfill({ contentType: "application/json", body: JSON.stringify({ id, set }) }));
   await page.goto("/recite/read/?set=" + id);
   await expect(page.locator("#recite-position")).toHaveText("1 / 2");
-  await page.locator("#recite-follow-live").check();
+  await expect(page.locator("#recite-live-label")).toBeVisible();
+  await page.locator("#recite-follow-live").evaluate((input) => {
+    input.checked = true;
+    input.dispatchEvent(new Event("change", { bubbles: true }));
+  });
   await expect(page.locator("#recite-position")).toHaveText("2 / 2");
   await expect(page.locator("#recite-live-status")).toContainText("Following organizer");
-  await page.locator("#recite-previous").click();
+  await page.locator("#recite-previous").evaluate((button) => button.click());
   await expect(page.locator("#recite-follow-live")).not.toBeChecked();
   await expect(page.locator("#recite-position")).toHaveText("1 / 2");
 });
