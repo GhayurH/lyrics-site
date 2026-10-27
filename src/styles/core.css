@@ -210,7 +210,7 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 /* Shared reader controls. Route styles own the reading content itself. */
 .reading-controls { display: flex; align-items: end; flex-wrap: wrap; gap: 0.8rem; margin: 0 0 1rem; border: 1px solid var(--border-colour); border-radius: 0.75rem; padding: 0.75rem; background: var(--surface-background); }
 .reading-control-group { display: grid; gap: 0.35rem; }
-.reading-control-label { color: var(--secondary-text); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; }
+.reading-control-label { color: var(--secondary-text); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; text-align: center; }
 .reading-controls select { min-height: 2.25rem; border: 1px solid var(--border-colour); border-radius: 0.48rem; padding: 0.35rem 2rem 0.35rem 0.55rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: 0.82rem; }
 
 /* Desktop readers keep their controls in reach once the text scrolls past.

@@ -193,9 +193,6 @@ function renderWork(work: HTMLElement, item: RecitationItem, index: number,
   roman.lang = "en"; roman.dir = "ltr";
   roman.dataset.syncedScrollPanel = "";
   roman.setAttribute("aria-label", "Roman Urdu text");
-  const headingU = node("h3", "lyric-version-heading", "Original text");
-  const headingR = node("h3", "lyric-version-heading", "Roman Urdu");
-  urdu.append(headingU); roman.append(headingR);
   if (item.stanzaSequence) {
     stanzaSection(urdu, poem, item, "urdu", sources);
     stanzaSection(roman, poem, item, "roman", sources);

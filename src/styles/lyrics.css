@@ -39,9 +39,7 @@
 .lyric-reading-panel { min-width: 0; padding: clamp(1.15rem, 2.6vw, 2.1rem); }
 .lyric-reading-urdu { grid-area: urdu; font-size: clamp(1.35rem, 3vw, 1.8rem); }
 .lyric-reading-roman { grid-area: roman; border-right: 1px solid var(--border-colour); font-size: clamp(1.05rem, 2.5vw, 1.25rem); }
-.lyric-version-heading { margin: 0 0 1.25rem; border-bottom: 1px solid var(--border-colour); padding-bottom: 0.75rem; color: var(--secondary-text); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.82rem; font-weight: 800; letter-spacing: 0.04em; line-height: 1.3; text-transform: uppercase; }
-.lyric-reading-urdu .lyric-version-heading { text-align: right; }
-.lyric-reading-roman .lyric-version-heading { text-align: left; }
+.lyric-version-heading { display: none; }
 
 .lyrics-text, .roman-lyrics-text { margin-top: 0; white-space: normal; overflow-wrap: normal; unicode-bidi: plaintext; }
 .lyrics-text { font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif; font-size: 1em; line-height: 2.7; text-align: start; }

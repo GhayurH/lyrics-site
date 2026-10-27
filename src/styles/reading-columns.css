@@ -4,10 +4,10 @@
 .reading-focus-enter { margin-inline: 0; }
 /* Each selection's *entire* cell (not just the text) is its checked surface. */
 .reading-column-choices { display: flex; flex-wrap: nowrap; overflow: hidden; width: 100%; border: 1px solid var(--border-colour); border-radius: .55rem; }
-.reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: 2.75rem; border-inline-end: 1px solid var(--border-colour); cursor: pointer; }
+.reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: 2.25rem; border-inline-end: 1px solid var(--border-colour); cursor: pointer; }
 .reading-column-choice:last-child { border-inline-end: 0; }
 .reading-column-choice input { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
-.reading-column-choice span { display: flex; flex: 1 1 auto; align-items: center; justify-content: center; width: 100%; min-width: 0; min-height: 2.75rem; padding: .5rem .35rem; font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; }
+.reading-column-choice span { display: flex; flex: 1 1 auto; align-items: center; justify-content: center; width: 100%; min-width: 0; min-height: 2.25rem; padding: .3rem .35rem; font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; }
 .reading-column-choice input:checked + span { background: var(--button-background); color: var(--button-text); }
 .reading-column-choice input:focus-visible + span { outline: var(--focus-ring); outline-offset: -3px; }
 .reading-page-jump { display: flex; align-items: center; gap: .4rem; }
@@ -418,3 +418,33 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
   width: 100%;
   margin-bottom: .65rem;
 }
+
+/* One navigation surface for Basta pages and index, sharing the sticky reader bar. */
+.reading-context-nav { order: 5; flex: 1 1 100%; min-width: 0; }
+.reading-context-nav .basta-pager {
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  margin: 0; padding: .5rem 0 0;
+  border: 0; border-top: 1px solid var(--border-colour);
+  border-radius: 0; background: transparent; gap: .6rem;
+}
+.reading-context-nav .basta-nav-button { min-height: 2.5rem; padding: .35rem .6rem; font-size: .84rem; }
+.reading-context-nav .basta-jump-form label span { font-size: .72rem; }
+.reading-context-nav .basta-jump-form input { width: 5rem; min-height: 2.5rem; }
+.reading-context-nav .basta-jump-form button { min-height: 2.5rem; }
+@media (pointer: coarse) {
+  .reading-column-choice, .reading-column-choice span { min-height: 2.75rem; }
+}
+@media (max-width: 700px) {
+  .reading-controls > .reading-context-nav { grid-column: 1 / -1; grid-row: 2; }
+  .reading-context-nav .basta-pager { grid-template-columns: auto minmax(0, 1fr) auto; gap: .35rem; }
+  .reading-context-nav .basta-nav-button { min-height: 2.75rem; padding: .35rem .45rem; font-size: .76rem; }
+  .reading-context-nav .basta-jump-form { gap: .3rem; min-width: 0; }
+  .reading-context-nav .basta-jump-form label span { display: none; }
+  .reading-context-nav .basta-jump-form input { width: min(4rem, 100%); min-height: 2.75rem; padding: .3rem; text-align: center; }
+  .reading-context-nav .basta-jump-form button { min-height: 2.75rem; padding: .4rem .45rem; }
+}
+html[data-reading-focus="true"] .reading-controls > .reading-context-nav { display: none; }
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-context-nav {
+  display: block; order: 3; flex-basis: 100%; pointer-events: auto;
+}
+html[data-reading-focus="true"] .reading-context-nav .basta-pager { background: transparent; }

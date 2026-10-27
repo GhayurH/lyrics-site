@@ -62,14 +62,12 @@ html[data-reading-focus="true"] .lyric-version-heading {
   display: block; margin-bottom: 0.65rem; border: 0; padding: 0;
   color: var(--primary-text); letter-spacing: 0; text-transform: none;
 }
-html[data-reading-focus="true"] .lyric-language-label { display: none; }
 html[data-reading-focus="true"] .lyric-focus-title {
   display: block; font-size: clamp(1.25rem,3vw,1.85rem); font-weight: 750;
   line-height: 2; text-decoration: underline;
   text-decoration-thickness: from-font; text-underline-offset: 0.16em;
 }
 html[data-reading-focus="true"] .lyric-focus-title[dir="ltr"] { line-height: 1.6; }
-html[data-reading-focus="true"] :is(.basta-page-text-heading,.basta-original-page figcaption) { display: none; }
 html[data-reading-focus="true"] .basta-page-grid[data-reading-root] { align-content: start; margin: 0; gap: 0.75rem; }
 html[data-reading-focus="true"] .basta-page-grid[data-reading-root] .basta-original-page { border: 0; background: transparent; }
 html[data-reading-focus="true"] .basta-original-page a { padding: 0; }

@@ -10,7 +10,6 @@ interface Props {
   variant: "page" | "reader";
   page: number;
   stanzaStyle?: BastaStanzaStyle;
-  showHeadings?: boolean;
 }
 
 const {
@@ -19,7 +18,6 @@ const {
   variant,
   page,
   stanzaStyle = "auto",
-  showHeadings = false,
 } = Astro.props as Props;
 const isPage = variant === "page";
 ---
@@ -32,7 +30,6 @@ const isPage = variant === "page";
     dir="ltr"
     aria-label={`Roman Urdu text of Basta page ${page}`}
   >
-    {showHeadings && <h2 class="basta-page-text-heading">Roman Urdu</h2>}
     <BastaText text={romanText} className={isPage ? "basta-roman-text" : "basta-reader-text"} stanzaStyle={stanzaStyle} />
   </section>
   <section
@@ -42,7 +39,6 @@ const isPage = variant === "page";
     dir="rtl"
     aria-label={`Urdu text of Basta page ${page}`}
   >
-    {showHeadings && <h2 class="basta-page-text-heading">Urdu text</h2>}
     <BastaText text={urduText} className={isPage ? "basta-urdu-text" : "basta-reader-text"} stanzaStyle={stanzaStyle} />
   </section>
 </div>

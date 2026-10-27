@@ -34,19 +34,20 @@ const {
       <h1>Basta Index</h1>
     </header>
 
-    <BastaPager
-      previousHref={previousPage ? `/basta/${previousPage}/` : undefined}
-      nextHref={nextPage ? `/basta/${nextPage}/` : undefined}
-      availablePages={availablePages}
-      indexStartPage={indexStartPage}
-      indexEndPage={indexEndPage}
-    />
 
     <ReadingControls
       className="basta-reading-controls basta-index-reading-controls"
       ariaLabel="Index reading controls"
       modeGroupLabel="Index view"
-    />
+    >
+      <BastaPager slot="navigation"
+            previousHref={previousPage ? `/basta/${previousPage}/` : undefined}
+            nextHref={nextPage ? `/basta/${nextPage}/` : undefined}
+            availablePages={availablePages}
+            indexStartPage={indexStartPage}
+            indexEndPage={indexEndPage}
+          />
+    </ReadingControls>
 
     <div
       class="basta-index-mode-shell"
