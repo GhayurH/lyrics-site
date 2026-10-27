@@ -19,6 +19,8 @@
   --reading-urdu-leading-relaxed: 3.2;
   --reading-roman-leading-relaxed: 2.35;
 
+  /* Used until JavaScript measures the actual sticky header height. */
+  --site-header-fallback-height: 4.8rem;
   --ui-target: 2.75rem;
   --ui-radius: .6rem;
   --ui-radius-tight: .55rem;
