@@ -1,5 +1,5 @@
 ---
-title: "حسین پنجتن کا نورِ پنجم"
+title: "حسین کیا ہے، نماز کیا ہے"
 alternateTitle: "Hussain kiya hai namaz kiya hai"
 language: "Urdu"
 lang: "ur"
