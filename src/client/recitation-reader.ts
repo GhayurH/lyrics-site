@@ -39,7 +39,7 @@ async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Poem> {
         if (!lyric || lyric.id !== id || typeof lyric.urdu !== "string") throw Error("Invalid source data");
         return { kind, title: lyric.title, alternateTitle: lyric.alternateTitle,
           urdu: lyric.urdu, roman: lyric.roman || "",
-          sourceUrl: "/lyrics/" + encodeURIComponent(id) + "/",
+          sourceUrl: lyric.sourceUrl || "/lyrics/" + encodeURIComponent(id) + "/",
           image: lyric.cover || undefined, lang: lyric.lang || "ur",
           direction: lyric.direction || "rtl" };
       }
