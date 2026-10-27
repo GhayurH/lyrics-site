@@ -50,7 +50,8 @@ function fakeDb() {
                 const rows = [...data.values()];
                 return { sets_total: rows.length,
                   sets_permanent: rows.filter(x => x.permanent).length,
-                  sets_expired_pending: rows.filter(x => !x.permanent && x.expires_at <= args[0]).length,
+                  sets_expired_pending: rows.filter(x => sql.includes("WHEN updated_at <=")
+                    ? x.updated_at <= args[0] : !x.permanent && x.expires_at <= args[0]).length,
                   document_bytes_estimate: rows.reduce((n,x) => n + x.document.length, 0) };
               }
               throw Error("Unmocked D1 read: " + sql);
@@ -80,7 +81,9 @@ function fakeDb() {
                 let count = 0;
                 for (const [id, row] of data) {
                   if (count >= 200) break;
-                  if (!row.permanent && row.expires_at <= args[0]) { data.delete(id); count++; }
+                  const eligible = sql.includes("WHERE updated_at <=")
+                    ? row.updated_at <= args[0] : !row.permanent && row.expires_at <= args[0];
+                  if (eligible) { data.delete(id); count++; }
                 }
                 return { meta: { changes: count } };
               }
@@ -237,4 +240,15 @@ test("scheduled cleanup removes only expired ordinary sets in batches and report
 });
 test("no D1 binding means publication explicitly fails", async () => {
   assert.equal((await onRequestPost({ request: postRequest(example), env: {} })).status, 503);
+});
+
+test("preview cron deletes outdated sets even if legacy retention metadata says permanent", async () => {
+  const db = fakeDb(), env = { RECITATION_DB: db, RECITATION_RETENTION_MODE: "preview" };
+  const { id } = await (await onRequestPost({ request: postRequest(example), env })).json();
+  db.data.get(id).updated_at = "2024-01-01T00:00:00.000Z";
+  db.data.get(id).permanent = 1;
+  db.data.get(id).expires_at = "2038-01-01T00:00:00.000Z";
+  const result = await cleanRecitationDatabase(db, "preview");
+  assert.equal(result.deleted_sets, 1);
+  assert.equal(db.data.size, 0);
 });
