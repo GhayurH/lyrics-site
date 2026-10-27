@@ -1,6 +1,6 @@
 /* File role: Search-only Pagefind layout, filter controls, active-filter chips, and responsive behavior. */
 .search-page { max-width: var(--content-feature); margin: auto; }
-.search-header { max-width: var(--content-heading); margin-bottom: 2rem; }
+.search-header { max-width: var(--content-intro); margin-bottom: 2rem; }
 .search-header h1 { margin: 0 0 0.75rem; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; }
 .search-share-note { color: var(--secondary-text); font-size: 0.9rem; }
 .search-input-row { display: flex; align-items: center; gap: 0.7rem; max-width: 58rem; }
