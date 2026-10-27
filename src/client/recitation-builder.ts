@@ -92,7 +92,8 @@ export async function initRecitationBuilder(): Promise<void> {
   say("Loading poetry catalog…");
   let draft: RecitationDraft;
   let arranging: string | undefined;
-  let resultLimit = 24;
+  // Keep an unfiltered catalog from overwhelming the programme workflow.
+  let resultLimit = 8;
   let catalogReady = false;
   let dragging: string | undefined;
 

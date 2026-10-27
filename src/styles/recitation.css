@@ -348,3 +348,9 @@ html[data-reading-focus="true"] .recite-reader-exports { display: none; }
   .recite-editions > .lyric-reading-panel { padding-inline: clamp(.55rem,2.2vw,.85rem); }
   .recite-work-header { padding-block: .45rem; }
 }
+
+/* A short initial catalogue leaves room for the actual programme order. */
+.recite-results { align-items: stretch; }
+.recite-results li { padding-block: .55rem; }
+.recite-results li strong { line-height: 1.5; }
+.recite-find > .recite-hint { max-width: 62ch; }

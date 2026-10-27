@@ -60,6 +60,8 @@ The Saved/Recent catalog is fetched on demand from `/data/saved-catalog.json`, n
 
 `recitation-builder.ts` owns draft editing and publication; `recitation-workflow.ts` enhances builder navigation; `recitation-reader.ts` resolves source poetry without changing it; `recitation-export.ts` produces portable offline/print HTML. Shared source identifiers and set validation live under `src/lib/` and `src/data/recitation/`.
 
+The Recitation Sets builder keeps Plan and Find usable without a forced wizard. Publication controls show an accessible disabled explanation before a valid title and at least one kalam exist; sharing and retention choices progressively expand once publishable, or when deliberately opened from the Share step. Searching the unfiltered catalog starts with a short batch, with a Show more control.
+
 Published programme documents and hashed private edit credentials use Cloudflare D1 through Pages Functions under `functions/`; source Markdown, scanned assets, and browsing remain static. `public/_routes.json` restricts dynamic invocation, root `wrangler.toml` configures Pages, and `workers/` contains independent scheduled cleanup. The [Recitation Sets reference](RECITATION_SETS.md) owns the schema, retention, exports, edit permissions, and deployment procedure.
 
 ## Performance and validation boundaries
@@ -67,6 +69,6 @@ Published programme documents and hashed private edit credentials use Cloudflare
 - Lazy-load noncritical R2 scans with reserved dimensions and async decoding; retain the original direct URLs.
 - Use `content-visibility` for off-screen continuous-reader content when supported, and avoid measuring distant reader panels during scrolling.
 - Do not load the full Saved catalog, entire Basta book, or Pagefind JavaScript in unrelated initial HTML.
-- Keep browser tests focused on navigation, responsive geometry, availability fallbacks, no-JavaScript access, and source/streamed markup parity.
+- Keep browser tests focused on navigation, responsive geometry, availability fallbacks, no-JavaScript access, and source/streamed markup parity. The `[visual-ci]` marker runs the full Chromium suite and uploads representative viewport captures for manual review; ordinary PRs run only smoke checks.
 
 Validation commands and CI conditions are documented once in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
