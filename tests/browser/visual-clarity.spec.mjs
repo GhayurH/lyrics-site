@@ -106,3 +106,30 @@ test("an empty programme order card does not stretch to the title form", async (
   expect(order.height).toBeLessThan(detail.height);
   await expect(page.locator("#recite-empty")).toBeVisible();
 });
+
+test("recitation uses the shared 46rem stacking boundary for its column divider", async ({ page }) => {
+  // Stable text fixture keeps this geometry test independent of R2 scans and
+  // local draft state; the container width, not a viewport-specific 40rem rule,
+  // must determine whether the separator is vertical or horizontal.
+  const id = "0123456789abcdef01234567";
+  await page.route("**/api/recitation-sets/" + id, (route) =>
+    route.fulfill({ contentType: "application/json", body: JSON.stringify({
+      id, set: { version: 1, title: "Column breakpoint", occasion: "", description: "",
+        items: [{ uid: "391002ab-16f4-4535-bf2a-8ca02cefc956",
+          kind: "lyric", id: "aa-asghar-bin-tere", sourceTitle: "Two editions" }] }
+    }) }));
+  await page.route("**/data/recitation-lyrics/aa-asghar-bin-tere.json", (route) =>
+    route.fulfill({ contentType: "application/json", body: JSON.stringify({
+      lyric: { id: "aa-asghar-bin-tere", title: "Two editions",
+        urdu: "سلام", roman: "Salaam", lang: "ur", direction: "rtl" }
+    }) }));
+  await page.setViewportSize({ width: 720, height: 900 });
+  await page.goto("/recite/read/?set=" + id);
+  const roman = page.locator(".recite-editions .lyric-reading-roman").first();
+  await expect(roman).toBeVisible();
+  await expect.poll(() => roman.evaluate((el) => getComputedStyle(el).borderInlineEndWidth)).toBe("0px");
+  await expect.poll(() => roman.evaluate((el) => getComputedStyle(el).borderTopWidth)).toBe("1px");
+  await page.setViewportSize({ width: 1120, height: 900 });
+  await expect.poll(() => roman.evaluate((el) => getComputedStyle(el).borderInlineEndWidth)).toBe("1px");
+  await expect.poll(() => roman.evaluate((el) => getComputedStyle(el).borderTopWidth)).toBe("0px");
+});
