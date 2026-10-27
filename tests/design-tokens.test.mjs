@@ -132,3 +132,9 @@ test("theme-aware borders use one semantic token, including the custom editor", 
   assert.match(css["reading-columns.css"], /var\(--ui-border\)/);
   assert.match(css["core.css"], /var\(--ui-border\)/);
 });
+
+test("routes share one fallback while the browser measures sticky header height", () => {
+  assert.match(tokens, /--site-header-fallback-height:\s*4\.8rem/);
+  for (const file of ["core.css", "recitation.css"])
+    assert.match(css[file], /var\(--site-header-height, var\(--site-header-fallback-height\)\)/);
+});
