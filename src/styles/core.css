@@ -311,10 +311,13 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
   unicode-bidi: isolate;
 }
 
-/* JavaScript activates scrolling only for truly side-by-side reading panels;
-   CSS-only, single-column, and stacked layouts retain normal document flow. */
+/* JavaScript marks only genuinely side-by-side panels. Let shorter panels
+   keep their natural height; only the tallest gets a measured scroll viewport. */
 [data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-active="true"] {
-  height: clamp(18rem, 68vh, 46rem);
+  align-self: start;
+}
+[data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-scrollable="true"] {
+  box-sizing: border-box;
   min-height: 0;
   overflow-y: auto;
   scrollbar-width: thin;

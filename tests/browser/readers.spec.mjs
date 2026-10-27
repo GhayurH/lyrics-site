@@ -170,17 +170,67 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
   })).toBe(true);
 });
 
-test("the short closing Bain on page 138 keeps independent synchronized panels @smoke", async ({ page }) => {
+test("parallel Basta keeps the shorter Roman edition fully visible and scrolls only Urdu @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/138/");
   const roman = page.locator(".basta-page-roman");
   const urdu = page.locator(".basta-page-urdu");
   await expect(roman).toHaveAttribute("data-synced-active", "true");
-  await expect(urdu).toHaveAttribute("data-synced-active", "true");
+  await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
+  await expect(roman).not.toHaveAttribute("data-synced-scrollable", "true");
   expect(await roman.locator(".basta-kalam-text").count()).toBeGreaterThan(1);
   expect(await urdu.locator(".basta-kalam-text").count()).toBeGreaterThan(1);
-  await roman.evaluate((node) => { node.scrollTop = Math.max(1, (node.scrollHeight - node.clientHeight) * 0.65); });
+  const sizes = await page.evaluate(() => {
+    const roman = document.querySelector(".basta-page-roman");
+    const urdu = document.querySelector(".basta-page-urdu");
+    return {
+      romanOverflow: roman.scrollHeight - roman.clientHeight,
+      urduOverflow: urdu.scrollHeight - urdu.clientHeight,
+      romanHeight: roman.getBoundingClientRect().height,
+      urduHeight: urdu.getBoundingClientRect().height,
+    };
+  });
+  expect(sizes.romanOverflow).toBeLessThan(3);
+  expect(sizes.urduOverflow).toBeGreaterThan(10);
+  expect(Math.abs(sizes.romanHeight - sizes.urduHeight)).toBeLessThan(3);
+  await urdu.evaluate((node) => { node.scrollTop = (node.scrollHeight - node.clientHeight) * 0.65; });
   await expect.poll(() => urdu.evaluate((node) => node.scrollTop)).toBeGreaterThan(0);
+  expect(await roman.evaluate((node) => node.scrollTop)).toBe(0);
+});
+
+test("non-Basta lyrics also keep the shorter parallel edition fully visible", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  const urdu = page.locator(".lyric-reading-urdu");
+  const roman = page.locator(".lyric-reading-roman");
+  await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
+  await expect(roman).not.toHaveAttribute("data-synced-scrollable", "true");
+  expect(await roman.evaluate((node) => node.scrollHeight - node.clientHeight)).toBeLessThan(3);
+});
+
+test("stacked and single-column editions use only document scrolling @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/138/");
+  const roman = page.locator(".basta-page-roman");
+  const urdu = page.locator(".basta-page-urdu");
+  await expect(roman).not.toHaveAttribute("data-synced-active", "true");
+  await expect(urdu).not.toHaveAttribute("data-synced-scrollable", "true");
+  expect(await urdu.evaluate((node) => node.style.height)).toBe("");
+  await page.getByRole("button", { name: "Show reading options" }).click();
+  await page.getByLabel("Roman", { exact: true }).uncheck();
+  await expect(roman).toBeHidden();
+  await expect(urdu).not.toHaveAttribute("data-synced-scrollable", "true");
+  expect(await urdu.evaluate((node) => node.style.height)).toBe("");
+});
+
+test("continuous Basta pages also scroll only the taller parallel edition", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/basta/read/#page-138");
+  const urdu = page.locator('[data-basta-page="138"] .basta-reader-urdu');
+  const roman = page.locator('[data-basta-page="138"] .basta-reader-roman');
+  await expect(urdu).toBeAttached({ timeout: 20000 });
+  await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
+  await expect(roman).not.toHaveAttribute("data-synced-scrollable", "true");
 });
 
 test("image-only book pages remain legible without JavaScript or an edition selector", async ({ browser }) => {
