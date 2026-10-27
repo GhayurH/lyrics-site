@@ -3,7 +3,7 @@
 .reading-controls { justify-content: center; }
 .reading-focus-enter { margin-inline: 0; }
 /* Each selection's *entire* cell (not just the text) is its checked surface. */
-.reading-column-choices { display: flex; flex-wrap: nowrap; overflow: hidden; width: 100%; border: 1px solid var(--border-colour); border-radius: .55rem; }
+.reading-column-choices { display: flex; flex-wrap: nowrap; overflow: hidden; width: 100%; border: 1px solid var(--border-colour); border-radius: var(--ui-radius-tight); }
 .reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: 2.25rem; border-inline-end: 1px solid var(--border-colour); cursor: pointer; }
 .reading-column-choice:last-child { border-inline-end: 0; }
 .reading-column-choice input { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
@@ -14,7 +14,7 @@
 .reading-page-jump label { color: var(--secondary-text); font-size: .75rem; font-weight: 800; text-transform: uppercase; }
 .reading-page-jump input { width: 5rem; }
 .reading-page-jump :is(input, button), .reading-contents-button, .reading-scroll-top {
-  min-height: var(--ui-target); border: 1px solid var(--border-colour); border-radius: .55rem; padding: .4rem .7rem;
+  min-height: var(--ui-target); border: 1px solid var(--border-colour); border-radius: var(--ui-radius-tight); padding: .4rem .7rem;
   background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: .85rem; cursor: pointer;
 }
 .reading-page-jump button, .reading-contents-button, .reading-scroll-top { font-weight: 700; }
