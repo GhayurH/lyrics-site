@@ -48,6 +48,8 @@
 .basta-home-redesign .basta-home-header { margin-bottom: 2.5rem; }
 .basta-home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 12rem; align-items: center; gap: clamp(1.5rem, 5vw, 4rem); }
 .basta-home-intro-copy { min-width: 0; }
+/* Preserve the small eyebrow typography against the shared header paragraph rule. */
+.basta-home-header .eyebrow { font-size: 0.78rem; }
 .basta-home-intro-copy > p:not(.eyebrow) { max-width: 38rem; margin: 0 0 1.35rem; color: var(--secondary-text); font-size: 1.08rem; }
 .basta-home-intro-copy h1 { margin: 0.1rem 0 0.75rem; }
 .basta-home-start-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.65rem; }
