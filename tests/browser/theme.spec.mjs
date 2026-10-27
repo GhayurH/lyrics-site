@@ -207,6 +207,9 @@ test("Advanced colours default to Auto and save independent text and border over
   await expect.poll(() => page.locator("#theme-dialog").evaluate((el) => getComputedStyle(el).borderTopColor))
     .toBe("rgb(136, 153, 170)");
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
+  // Accent button text remains automatically contrasting even with manual typography.
+  await expect.poll(() => page.locator("#theme-dialog-done")
+    .evaluate((el) => getComputedStyle(el).color)).toBe("rgb(255, 255, 255)");
   await page.locator("#theme-dialog-done").click();
 
   await page.goto("/saved/");
