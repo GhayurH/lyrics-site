@@ -6,7 +6,9 @@
 .lyric-header h1[lang="ur"] { line-height: 1.9; }
 .lyric-header-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 1.5rem; }
 .lyric-title-block { min-width: 0; flex: 1; }
-.lyric-header-actions { display: flex; align-items: center; flex: 0 0 auto; gap: 0.55rem; }
+.lyric-header-actions { display: flex; align-items: center; flex: 0 0 auto; flex-wrap: wrap; gap: 0.55rem; }
+.lyric-add-recitation { display: inline-flex; align-items: center; min-height: 2.75rem; padding: .45rem .7rem; border: 1px solid var(--border-colour); border-radius: .5rem; font-size: .83rem; font-weight: 650; text-decoration: none; }
+.lyric-add-recitation:hover { background: var(--tag-background); }
 .alternate-title { color: var(--secondary-text); font-size: 1.15rem; }
 
 .category-pill { flex: 0 0 auto; border: 1px solid var(--border-colour); border-radius: 999px; padding: 0.4rem 0.75rem; background: var(--surface-background); color: var(--secondary-text); font-size: 0.82rem; font-weight: 700; text-decoration: none; }
