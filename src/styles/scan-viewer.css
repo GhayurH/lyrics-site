@@ -13,7 +13,7 @@
 }
 .scan-viewer-toolbar > div { display: flex; flex-wrap: wrap; align-items: center; gap: .35rem; }
 .scan-viewer-toolbar button {
-  min-height: 2.75rem; border: 1px solid var(--border-colour); border-radius: .45rem;
+  min-height: var(--ui-target); border: 1px solid var(--border-colour); border-radius: .45rem;
   padding: .4rem .7rem; background: var(--surface-background);
   color: var(--primary-text); font: inherit; cursor: pointer;
 }
