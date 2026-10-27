@@ -216,3 +216,13 @@ before builds. For new published sources, run
 Markdown, preserve `recitationId` in frontmatter; for renumbered Basta index
 entries, preserve `recitationId` there. See
 [Recitation source safeguards](docs/RECITATION_SETS.md#source-compatibility-safeguards).
+
+### Recitation Sets — retention and cleanup
+
+Published production sets expire **24 months after their last edit** unless
+organizers explicitly preserve them permanently. Preview sets expire after 30
+days. Organizers with a private edit token may delete published sets. A
+standalone scheduled Cloudflare Worker cleans expired sets and reports 90 days
+of usage metrics; creation is rate-limited to ten sets per hour per client IP.
+Follow [D1 retention setup](docs/RECITATION_RETENTION.md) for migration
+`0002`, environment variables, and the separate Worker deployment.
