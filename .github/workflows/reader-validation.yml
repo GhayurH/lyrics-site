@@ -24,7 +24,7 @@ jobs:
       - run: git -c safe.directory="$GITHUB_WORKSPACE" diff --check origin/main...HEAD
       - uses: actions/setup-node@v5
         with:
-          node-version: '22'
+          node-version: '24'
           cache: npm
       - run: npm ci
       # Prebuild executes Node tests and recitation identity checks on each push.
