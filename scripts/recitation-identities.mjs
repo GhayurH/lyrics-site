@@ -127,8 +127,11 @@ for (const old of locked.basta) {
     if (!seen.has(pinned.anchor) && !pinned.retired)
       errors.push(old.id + "/" + pinned.id + " source changed/vanished — explicitly update anchor or mark retired");
   }
+  const retiredAnchors = new Set(old.stanzas.filter((x) => x.retired).map((x) => x.anchor));
   const knownAnchors = new Set(old.stanzas.map((x) => x.anchor));
   for (const stanza of current.stanzas) {
+    if (retiredAnchors.has(stanza.anchor))
+      errors.push("Retired stanza anchor reused in " + old.id + " — review before restoring");
     if (!knownAnchors.has(stanza.anchor))
       errors.push("New/unmapped stanza in " + old.id + " (printed " + stanza.id + ") — run ids:sync after reviewing");
   }
