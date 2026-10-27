@@ -82,6 +82,6 @@ test("borrow and reorder verified Marsiya stanzas @smoke", async ({ page }) => {
   await expect(page.locator("#recite-stanzas li").last()).toContainText("دوسرا مرثیہ");
   await page.locator("#recite-stanzas li").last().getByRole("button", { name: "↑" }).click();
   await page.locator("#recite-open-reader").click();
-  await expect(page.locator(".recite-stanza-source")).toContainText("دوسرا مرثیہ");
+  await expect(page.locator(".recite-stanza-source").first()).toContainText("دوسرا مرثیہ");
   await expect(page.locator(".lyric-reading-urdu .basta-kalam-text").first()).toBeVisible();
 });
