@@ -79,6 +79,43 @@ function preface(roman: string): string {
   const first = lines.findIndex((line) => /^[0-9٠-٩۰-۹]+[.)۔-]?$/.test(line.trim()));
   return lines.slice(0, first < 0 ? lines.length : first).join("\n").trim();
 }
+/**
+ * Rebuild the display from canonical numbered units. Joining source pages with
+ * a single newline can merge the closing couplet of stanza 6 with the printed
+ * numeral of stanza 7 when the poem crosses a page boundary.
+ */
+function originalBastaEdition(parent: HTMLElement, kalam: BastaKalam, language: "urdu" | "roman") {
+  const source = language === "urdu" ? kalam.urdu : kalam.roman || "";
+  if (!source) {
+    parent.append(node("p", "recite-empty-edition", "Roman text is unavailable for this kalam."));
+    return;
+  }
+  if (!kalam.numbered || !kalam.stanzas.length ||
+      (language === "roman" && kalam.stanzas.some((stanza) => !stanza.roman))) {
+    addBastaText(parent, source);
+    return;
+  }
+  const opening = language === "urdu" ? kalam.preface : preface(source);
+  if (opening) addBastaText(parent, opening);
+  for (const stanza of kalam.stanzas) {
+    addBastaText(parent, stanza.printedNumber + "\n" +
+      (language === "urdu" ? stanza.urdu : stanza.roman!));
+  }
+}
+
+/** Include all printed pages, plus any pages used for borrowed stanzas. */
+function sourceScanPages(poem: Poem, item: RecitationItem, sources: Map<string, Poem>): number[] {
+  if (!poem.basta) return [];
+  const pages = new Set<number>(poem.basta.pages?.length
+    ? poem.basta.pages : [poem.basta.startPage]);
+  for (const ref of item.stanzaSequence || []) {
+    const stanza = sources.get(ref.kalamId)?.basta?.stanzas
+      .find((candidate) => candidate.id === ref.stanzaId);
+    for (const page of stanza?.pages || []) pages.add(page);
+  }
+  return [...pages].filter((page) => Number.isSafeInteger(page) && page > 0);
+}
+
 function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, language: "urdu" | "roman",
   sources: Map<string, Poem>) {
   const original = poem.basta!;
@@ -162,23 +199,36 @@ function renderWork(work: HTMLElement, item: RecitationItem, index: number,
     stanzaSection(urdu, poem, item, "urdu", sources);
     stanzaSection(roman, poem, item, "roman", sources);
   } else if (poem.kind === "basta") {
-    addBastaText(urdu, poem.urdu);
-    if (poem.roman) addBastaText(roman, poem.roman);
-    else roman.append(node("p", "recite-empty-edition", "Roman text is unavailable for this kalam."));
+    originalBastaEdition(urdu, poem.basta!, "urdu");
+    originalBastaEdition(roman, poem.basta!, "roman");
   } else {
     addLyricText(urdu, poem.urdu);
     if (poem.roman) addLyricText(roman, poem.roman, true);
     else roman.append(node("p", "recite-empty-edition", "Roman text is unavailable for this kalam."));
   }
   const image = node("figure", "lyric-reading-image");
-  if (poem.image) {
-    const link = node("a");
-    link.href = poem.image; link.className = "scan-viewer-trigger";
-    link.setAttribute("aria-label", "Open original scan");
-    const img = node("img");
-    img.src = poem.image; img.alt = "Original scan of " + poem.title;
-    img.loading = "lazy"; img.decoding = "async";
-    link.append(img); image.append(link);
+  const pages = sourceScanPages(poem, item, sources);
+  const scans = pages.length
+    ? pages.map((page) => ({
+        address: "/images/basta/original/" + String(page).padStart(3, "0") + ".png",
+        label: "Basta page " + page,
+      }))
+    : poem.image ? [{ address: poem.image, label: "Original scan of " + poem.title }] : [];
+  if (scans.length) {
+    for (const scan of scans) {
+      const frame = node("div", "recite-scan-page");
+      const link = node("a");
+      link.href = scan.address;
+      link.className = "scan-viewer-trigger";
+      link.setAttribute("aria-label", "Enlarge " + scan.label);
+      const img = node("img");
+      img.src = scan.address; img.alt = scan.label;
+      img.loading = "lazy"; img.decoding = "async";
+      link.append(img);
+      frame.append(link);
+      if (poem.basta) frame.append(node("figcaption", "recite-scan-caption", scan.label));
+      image.append(frame);
+    }
   } else {
     work.classList.add("recite-work-no-image");
     image.append(node("p", "recite-empty-edition", "No original scan available for this kalam."));
