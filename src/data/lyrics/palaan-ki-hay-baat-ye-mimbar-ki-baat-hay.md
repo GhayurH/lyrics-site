@@ -1,5 +1,5 @@
 ---
-title: "جبرئیل لے کے جاؤ یہ بلّغ کی آیتیں"
+title: "پالان کی ہے بات یہ منبر کی بات ہے"
 alternateTitle: "Palaan ki hay baat ye mimbar ki baat hay"
 language: "Urdu"
 lang: "ur"

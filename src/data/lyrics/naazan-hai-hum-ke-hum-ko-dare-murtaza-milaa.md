@@ -1,5 +1,5 @@
 ---
-title: "جب مصطفی ملے تو خدا کا پتا ملا"
+title: "نازاں ہیں ہم کہ ہم کو درِ مرتضیٰ ملا"
 alternateTitle: "Naazan hai hum ke hum ko dare murtaza Milaa"
 language: "Urdu"
 lang: "ur"
