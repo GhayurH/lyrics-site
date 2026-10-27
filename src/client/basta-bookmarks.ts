@@ -1,4 +1,4 @@
-// Explicit page bookmarks are separate from the automatically saved reading position.
+// File role: Manage optional local Basta page bookmarks separately from reading progress.
 import { STORAGE_KEYS, readBastaPosition, readStringList, writeStringList } from "./storage";
 
 export function readBastaBookmarks(): number[] {

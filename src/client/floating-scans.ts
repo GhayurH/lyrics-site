@@ -1,4 +1,4 @@
-// Float original scans beneath the visible toolbars only when text is beside them.
+// File role: Float original scans within parallel reading columns while respecting visible toolbars.
 const SCANS = ".lyric-reading-grid > .lyric-reading-image, .basta-page-grid > .basta-original-page, .basta-reader-page-grid > .basta-reader-original-image, .recite-editions > .lyric-reading-image";
 
 export function initFloatingScans(): void {
@@ -57,6 +57,9 @@ export function initFloatingScans(): void {
   window.addEventListener("basta:content-loaded", schedule);
   document.addEventListener("fullscreenchange", schedule);
   document.fonts.ready.then(schedule);
+  document.addEventListener("load", (event) => {
+    if (event.target instanceof HTMLImageElement && event.target.closest(SCANS)) schedule();
+  }, true);
   new MutationObserver(schedule).observe(document.documentElement, {
     attributes: true, attributeFilter: ["data-reading-focus"],
   });
