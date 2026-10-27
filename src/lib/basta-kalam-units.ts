@@ -1,4 +1,4 @@
-// Canonical, source-preserving identities for Basta poems and numbered stanzas.
+// File role: Canonical, source-preserving identities for Basta poems and numbered stanzas.
 // The printed index supplies names; explicit ---***--- breaks supply boundaries.
 // Uncertain mappings are reported, never silently combined with another poem.
 import { parseStanzaNumber } from "./stanza-numbers.ts";

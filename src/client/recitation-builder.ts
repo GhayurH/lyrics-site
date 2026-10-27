@@ -1,4 +1,4 @@
-// Browser-only set builder. The canonical archive is never edited by an arrangement.
+// File role: Browser-side programme editor for selecting, arranging, and publishing kalams. The canonical archive is never modified.
 import type { BastaKalam, BastaStanza } from "../lib/basta-kalam-units";
 import type { RecitationDraft, RecitationItem, StanzaRef, RecitationSet } from "../lib/recitation-set";
 import { validateRecitationSet } from "../lib/recitation-set";
