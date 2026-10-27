@@ -49,7 +49,7 @@ const aboutActive = path.startsWith("/about/");
         const root = document.documentElement;
         let savedMode;
         try { savedMode = localStorage.getItem("theme"); } catch {}
-        const mode = ["light", "dark", "sepia", "custom"].includes(savedMode)
+        const mode = ["light", "dark", "amoled", "sepia", "custom"].includes(savedMode)
           ? savedMode : (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
         root.dataset.jsAvailable = "true";
         root.dataset.theme = mode;
@@ -81,11 +81,11 @@ const aboutActive = path.startsWith("/about/");
           })) root.style.setProperty(key, value);
           root.dataset.pfTheme = scheme;
         } else {
-          root.dataset.pfTheme = mode === "dark" ? "dark" : "light";
+          root.dataset.pfTheme = mode === "dark" || mode === "amoled" ? "dark" : "light";
         }
         document.querySelector('meta[name="theme-color"]')?.setAttribute("content",
           mode === "custom" ? root.style.getPropertyValue("--theme-main")
-          : mode === "sepia" ? "#f4ead6" : mode === "dark" ? "#171719" : "#f7f7f8");
+          : mode === "sepia" ? "#f4ead6" : mode === "amoled" ? "#000000" : mode === "dark" ? "#171719" : "#f7f7f8");
       })();
     </script>
   </head>
@@ -135,19 +135,20 @@ const aboutActive = path.startsWith("/about/");
 
     <dialog id="theme-dialog" class="theme-dialog" aria-labelledby="theme-dialog-heading" data-pagefind-ignore>
       <div class="theme-dialog-header">
-        <div><h2 id="theme-dialog-heading">Appearance</h2><p>Choose a reading theme or create your own colours.</p></div>
+        <div><h2 id="theme-dialog-heading">Appearance</h2><p>Choose a reading theme or customise its colours.</p></div>
         <button class="theme-dialog-close" id="theme-dialog-close" type="button" aria-label="Close appearance settings">×</button>
       </div>
       <fieldset class="theme-presets">
         <legend>Theme</legend>
         <label class="theme-preset"><input type="radio" name="theme-mode" value="light" /><span class="theme-preset-swatch" data-preset-swatch="light" aria-hidden="true"></span>Light</label>
         <label class="theme-preset"><input type="radio" name="theme-mode" value="dark" /><span class="theme-preset-swatch" data-preset-swatch="dark" aria-hidden="true"></span>Dark</label>
+        <label class="theme-preset"><input type="radio" name="theme-mode" value="amoled" /><span class="theme-preset-swatch" data-preset-swatch="amoled" aria-hidden="true"></span>AMOLED Dark</label>
         <label class="theme-preset"><input type="radio" name="theme-mode" value="sepia" /><span class="theme-preset-swatch" data-preset-swatch="sepia" aria-hidden="true"></span>Sepia</label>
-        <label class="theme-preset"><input type="radio" name="theme-mode" value="custom" /><span class="theme-preset-swatch" data-preset-swatch="custom" aria-hidden="true"></span>Build your own</label>
+        <label class="theme-preset"><input type="radio" name="theme-mode" value="custom" /><span class="theme-preset-swatch" data-preset-swatch="custom" aria-hidden="true"></span>Custom</label>
       </fieldset>
       <fieldset class="theme-custom-fields" id="theme-custom-fields" hidden>
         <legend>Custom colours</legend>
-        <p>Colours apply immediately and are saved on this device.</p>
+        <p>Start with the selected theme, then adjust and save on this device.</p>
         <label for="theme-main">Main <span>Page background</span><span class="theme-colour-field"><input id="theme-main" type="color" value="#f4ead6" /><output id="theme-main-value" for="theme-main">#f4ead6</output></span></label>
         <label for="theme-secondary">Secondary <span>Cards and reading panels</span><span class="theme-colour-field"><input id="theme-secondary" type="color" value="#fbf4e6" /><output id="theme-secondary-value" for="theme-secondary">#fbf4e6</output></span></label>
         <label for="theme-accent">Accent <span>Buttons and highlights</span><span class="theme-colour-field"><input id="theme-accent" type="color" value="#755238" /><output id="theme-accent-value" for="theme-accent">#755238</output></span></label>
