@@ -64,6 +64,8 @@ test("continuous reader deep links load streamed content and preserve the curren
 test("unavailable Roman transcription shows a source scan rather than blank content @smoke", async ({ page }) => {
   await page.goto("/basta/read/#page-30");
   await expect(page.locator('[data-basta-page="30"]')).toBeAttached({ timeout: 20000 });
+  const options = page.locator("[data-reading-regular-toggle]");
+  if (await options.isVisible()) await options.click();
   await page.getByLabel("Urdu", { exact: true }).uncheck();
   const source = page.locator('[data-basta-page="30"] .basta-reader-original-image');
   const notice = page.locator('[data-basta-page="30"] .basta-edition-unavailable');

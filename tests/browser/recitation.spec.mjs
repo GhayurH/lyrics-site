@@ -4,6 +4,7 @@ import { readFile } from "node:fs/promises";
 test("offline programme export contains complete text, reciter assignments and notes @smoke", async ({ page }) => {
   await page.goto("/recite/");
   await page.locator("#recite-title").fill("Offline printable programme");
+  await page.locator("#recite-optional-details summary").click();
   await page.locator("#recite-description").fill("Organizers' programme notes");
   await page.locator("#recite-source").selectOption("lyric");
   await expect(page.locator("#recite-results li button:not([disabled])").first()).toBeVisible();

@@ -139,13 +139,15 @@ test("both landing pages display the book cover", async ({ page }) => {
   await page.goto("/basta/");
   await expect(page.locator(".basta-home-scan img")).toHaveAttribute("src", "/images/basta/original/000.jpg");
   await expect(page.locator(".basta-home-scan img")).toHaveAttribute("alt", "Basta book cover");
-  await expect(page.locator(".basta-home-scan-caption")).toHaveText("Book cover");
+  await expect(page.locator(".basta-home-scan-caption")).toHaveText("Original book cover");
 });
 
 test("Saved page contains browser-local Basta and programme libraries @smoke", async ({ page }) => {
   await page.goto("/saved/");
-  await expect(page.locator("#basta-bookmarks-heading")).toBeVisible();
-  await expect(page.locator("#recitation-drafts-heading")).toBeVisible();
+  await expect(page.locator("#basta-bookmarks-heading")).toBeAttached();
+  await expect(page.locator("#recitation-drafts-heading")).toBeAttached();
+  await expect(page.locator("#basta-bookmarks-heading")).toBeHidden();
+  await expect(page.locator("#recitation-drafts-heading")).toBeHidden();
 });
 
 test("Basta bookmarks can be saved, revisited and removed from the Saved page @smoke", async ({ page }) => {
@@ -156,7 +158,8 @@ test("Basta bookmarks can be saved, revisited and removed from the Saved page @s
   await page.goto("/saved/");
   await expect(page.locator("#basta-bookmarks-list a")).toHaveText("Basta · Page 145");
   await page.locator("#basta-bookmarks-list button").click();
-  await expect(page.locator("#basta-bookmarks-empty")).toBeVisible();
+  await expect(page.locator("#basta-bookmarks-list li")).toHaveCount(0);
+  await expect(page.locator("#basta-bookmarks-heading")).toBeHidden();
 });
 
 test("mobile search keeps filters accessible without occupying the full page @smoke", async ({ page }) => {
