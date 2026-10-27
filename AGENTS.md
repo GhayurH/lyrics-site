@@ -12,10 +12,10 @@ This is the short operational entry point. Canonical details live in [CONTRIBUTI
 - Reuse `ReadingControls.astro`, `reader-state.ts`, and `reading-columns.css` rather than duplicating reader state or layout. Verses never wrap or horizontally scroll.
 - Keep static and streamed Basta markup consistent; keep scan links usable without JavaScript and missing editions explicit.
 - Keep browsing/search/static assets out of Pages Functions; Pagefind loads only on the Search route. Browser reading history, bookmarks, and drafts stay local.
-- Put shared primitives in `src/styles/core.css` and route styling in feature CSS. Add purposeful `File role:` comments; remove obsolete WIP commentary.
+- Put shared semantic design values in `src/styles/tokens.css`, global primitives in `core.css`, and route styling in feature CSS. Add purposeful `File role:` comments; remove obsolete WIP commentary.
 
 ## Before committing
 
-Run `npm run build`, inspect `git diff --check` and `git status --short`; for UI work run Chromium `@smoke` tests, and use the complete suite at milestones. Consult [validation guidance](docs/CONTRIBUTING.md#validation) for CI conditions and browser coverage.
+Run `npm run build`, inspect `git diff --check` and `git status --short`; for UI work run `npm run test:smoke`, and use `npm run test:browser` at milestones. Consult [validation guidance](docs/CONTRIBUTING.md#validation) for CI conditions and browser coverage.
 
 Never commit generated build output, dependencies, local scratch files, or R2-hosted binaries.

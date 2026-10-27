@@ -6,7 +6,7 @@
 
 - **Kalam archive:** Search and browse standalone kalams by type, with Urdu, Roman Urdu, and original images where available.
 - **[Basta](https://kalamarchive.com/basta/):** A digital edition of *Basta* by Professor Syed Sibt-i-Jaafar Zaidi, with scans, corrected Urdu text, Roman Urdu, a linked index, and page-by-page or continuous reading.
-- **Reading tools:** Choose available editions, use distraction-free Focus Mode, save favorites or Basta locations, and resume reading on the same device.
+- **Reading tools:** Choose available editions, use distraction-free Focus Mode, save favourites or Basta locations, and resume reading on the same device. Choose Light, Dark, AMOLED Dark, or Sepia themes, or customise colours locally.
 - **[Recitation Sets](https://kalamarchive.com/recite/):** Arrange kalams and verified Marsiya stanzas into shareable programmes, assign reciters, add notes, print or save an offline copy, and optionally guide participants through a live programme.
 
 ## Technology
@@ -22,7 +22,7 @@ Large binary assets are stored in R2, **not Git**. The public `/images/` and `/f
 
 ## Getting started
 
-Requires **Node.js 22.12+** and npm.
+Requires **Node.js 24** (recommended; minimum 22.23.4) and npm.
 
 ```bash
 git clone https://github.com/GhayurH/lyrics-site.git
@@ -34,9 +34,10 @@ npm run dev
 The development server normally runs at `http://localhost:4321/`. For local scans and PDFs, follow the [asset workflow](docs/ASSET_WORKFLOW.md#local-development).
 
 ```bash
-npm test           # Node regression tests
-npm run build      # Tests, source-ID checks, Astro build, and Pagefind
-npm run preview    # Preview the built site
+npm run build         # Node tests, ID checks, Astro and Pagefind
+npm run test:smoke    # Fast, critical Chromium browser checks
+npm run test:browser  # Full Chromium suite at milestones
+npm run preview       # Preview the built site
 ```
 
 See [contribution and validation guidance](docs/CONTRIBUTING.md#validation) for browser tests and CI behavior.

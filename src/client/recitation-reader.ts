@@ -1,3 +1,4 @@
+import { isMobileViewport } from "./viewport";
 // File role: Browser-side programme reader; load canonical verses on demand while keeping programme order separate from source text.
 import type { BastaKalam } from "../lib/basta-kalam-units";
 import { bastaVerseClassNames, layoutBastaKalam } from "../lib/basta-text";
@@ -308,9 +309,9 @@ export async function initRecitationReader(): Promise<void> {
   try {
     const storedView = localStorage.getItem(viewKey);
     if (storedView === "sequential" || storedView === "continuous") mode = storedView;
-    else if (matchMedia("(max-width: 700px)").matches) mode = "sequential";
+    else if (isMobileViewport()) mode = "sequential";
   } catch {
-    if (matchMedia("(max-width: 700px)").matches) mode = "sequential";
+    if (isMobileViewport()) mode = "sequential";
   }
   const select = dom<HTMLSelectElement>("recite-reader-contents");
   const view = dom<HTMLSelectElement>("recite-reader-view");

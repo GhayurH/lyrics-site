@@ -1,9 +1,14 @@
-// File role: Global browser enhancements for theme switching and favorite-button synchronization; loaded once by BaseLayout.
+// File role: Global browser enhancements for appearance, navigation, and saved-item controls.
 import {
   STORAGE_KEYS,
   readFavoriteIds,
   toggleFavorite,
 } from "./storage";
+import {
+  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, PALETTE_BASE_KEY, readCustomPalette,
+  readCustomPaletteBase, readTheme, normalizeCssHex, paletteTextColors,
+  type AdvancedColor, type CustomPalette, type ThemeName,
+} from "./theme";
 
 function syncFavoriteButtons(): void {
   const favorites = new Set(readFavoriteIds());
@@ -181,34 +186,146 @@ function initHeaderAutoHide(): void {
   measureHeader();
 }
 
-function initThemeToggle(): void {
-  const root = document.documentElement;
-  const button = document.querySelector<HTMLButtonElement>("#theme-toggle");
-  if (!button) return;
+/** One compact toolbar icon opens preset and custom appearance controls. */
+function initThemePicker(): void {
+  const trigger = document.querySelector<HTMLButtonElement>("#theme-toggle");
+  const dialog = document.querySelector<HTMLDialogElement>("#theme-dialog");
+  const fields = dialog?.querySelector<HTMLFieldSetElement>("#theme-custom-fields");
+  const note = dialog?.querySelector<HTMLElement>("#theme-contrast-note");
+  if (!trigger || !dialog || !fields || !note) return;
 
-  const updateButton = () => {
-    const darkMode = root.dataset.theme === "dark";
-    const actionLabel = darkMode ? "Light mode" : "Dark mode";
-    const srLabel = button.querySelector<HTMLElement>("[data-theme-toggle-label]");
-    if (srLabel) srLabel.textContent = actionLabel;
-    button.title = `Switch to ${darkMode ? "light" : "dark"} mode`;
-    button.setAttribute(
-      "aria-label",
-      darkMode ? "Switch to light mode" : "Switch to dark mode",
-    );
-    button.setAttribute("aria-pressed", String(darkMode));
+  let selected: ThemeName = readTheme();
+  let palette: CustomPalette = readCustomPalette();
+  let startingPalette: CustomPalette = readCustomPaletteBase();
+  const colorNames: (keyof CustomPalette)[] = ["main", "secondary", "accent"];
+  const advancedRoles: Record<AdvancedColor, "primary" | "muted" | "borders"> = {
+    primaryText: "primary", mutedText: "muted", borders: "borders",
+  };
+  const advancedNames = Object.keys(advancedRoles) as AdvancedColor[];
+
+  // Read the actual preset tokens rather than duplicating their colours in TS.
+  // The previous preset is still active when the user clicks Custom.
+  const paletteFromCurrentPreset = (): CustomPalette => {
+    const style = getComputedStyle(document.documentElement);
+    const read = (property: string, fallback: string) =>
+      normalizeCssHex(style.getPropertyValue(property), fallback);
+    const main = read("--site-background", DEFAULT_PALETTE.main);
+    const secondary = read("--surface-background", DEFAULT_PALETTE.secondary);
+    return {
+      main, secondary,
+      accent: read("--accent-color", DEFAULT_PALETTE.accent),
+      inherited: {
+        main, secondary,
+        primary: read("--primary-text", "#171719"),
+        muted: read("--secondary-text", "#66666b"),
+        borders: read("--border-colour", "#dddddf"),
+      },
+    };
   };
 
-  updateButton();
-  button.addEventListener("click", () => {
-    const theme = root.dataset.theme === "dark" ? "light" : "dark";
-    root.dataset.theme = theme;
-    root.dataset.pfTheme = theme;
-    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", theme === "light" ? "#f7f7f8" : "#171719");
-    try {
-      localStorage.setItem("theme", theme);
-    } catch {}
-    updateButton();
+  const render = (save: boolean) => {
+    const ratio = applyTheme(selected, palette, save);
+    dialog.querySelectorAll<HTMLInputElement>('input[name="theme-mode"]').forEach((input) => {
+      input.checked = input.value === selected;
+    });
+    fields.hidden = selected !== "custom";
+    for (const name of colorNames) {
+      const input = dialog.querySelector<HTMLInputElement>("#theme-" + name);
+      const output = dialog.querySelector<HTMLOutputElement>("#theme-" + name + "-value");
+      if (input) input.value = palette[name];
+      if (output) output.textContent = palette[name].toUpperCase();
+    }
+    const automatic = paletteTextColors({
+      ...palette, primaryText: undefined, mutedText: undefined, borders: undefined,
+    });
+    for (const name of advancedNames) {
+      const automaticControl = dialog.querySelector<HTMLInputElement>("#theme-" + name + "-auto");
+      const picker = dialog.querySelector<HTMLInputElement>("#theme-" + name);
+      const output = dialog.querySelector<HTMLOutputElement>("#theme-" + name + "-value");
+      const isAutomatic = !palette[name];
+      const value = palette[name] ?? automatic[advancedRoles[name]];
+      if (automaticControl) automaticControl.checked = isAutomatic;
+      if (picker) {
+        picker.disabled = isAutomatic;
+        picker.value = value;
+      }
+      if (output) output.textContent = value.toUpperCase();
+    }
+    note.hidden = selected !== "custom" || ratio >= 4.5;
+    note.textContent = note.hidden ? "" :
+      "For readable text, increase contrast between the text and both backgrounds, or switch text colours to Auto.";
+  };
+
+  // The bootstrap already applied the stored theme before paint. Sync UI
+  // without turning an automatic device preference into a manual preference.
+  render(false);
+
+  trigger.addEventListener("click", () => {
+    render(false);
+    dialog.showModal();
+  });
+  dialog.querySelectorAll<HTMLInputElement>('input[name="theme-mode"]').forEach((input) => {
+    input.addEventListener("change", () => {
+      if (!input.checked) return;
+      const next = input.value as ThemeName;
+      if (next === "custom" && selected !== "custom") {
+        // Copy the active preset's surfaces AND type/border roles into the
+        // initial Auto palette; never silently replace Dark text with #fff.
+        palette = paletteFromCurrentPreset();
+        startingPalette = { ...palette };
+        try { localStorage.setItem(PALETTE_BASE_KEY, JSON.stringify(startingPalette)); }
+        catch { /* Storage can be blocked. */ }
+      }
+      selected = next;
+      render(true);
+    });
+  });
+  for (const name of colorNames) {
+    dialog.querySelector<HTMLInputElement>("#theme-" + name)?.addEventListener("input", (event) => {
+      const input = event.currentTarget as HTMLInputElement;
+      palette = { ...palette, [name]: input.value };
+      selected = "custom";
+      render(true);
+    });
+  }
+  for (const name of advancedNames) {
+    dialog.querySelector<HTMLInputElement>("#theme-" + name + "-auto")?.addEventListener("change", (event) => {
+      const automatic = (event.currentTarget as HTMLInputElement).checked;
+      if (automatic) {
+        const next = { ...palette };
+        delete next[name];
+        palette = next;
+      } else {
+        const derived = paletteTextColors(palette);
+        palette = { ...palette, [name]: derived[advancedRoles[name]] };
+      }
+      render(true);
+    });
+    dialog.querySelector<HTMLInputElement>("#theme-" + name)?.addEventListener("input", (event) => {
+      palette = { ...palette, [name]: (event.currentTarget as HTMLInputElement).value };
+      render(true);
+    });
+  }
+  dialog.querySelector<HTMLButtonElement>("#theme-reset-custom")?.addEventListener("click", () => {
+    palette = { ...startingPalette };
+    selected = "custom";
+    render(true);
+  });
+  for (const id of ["#theme-dialog-close", "#theme-dialog-done"]) {
+    dialog.querySelector<HTMLButtonElement>(id)?.addEventListener("click", () => dialog.close());
+  }
+  // The native modal handles Escape and keeps keyboard focus inside the dialog.
+  dialog.addEventListener("click", (event) => {
+    if (event.target === dialog) dialog.close();
+  });
+
+  window.addEventListener("storage", (event) => {
+    if (event.key !== "theme" && event.key !== PALETTE_KEY &&
+        event.key !== PALETTE_BASE_KEY) return;
+    selected = readTheme();
+    palette = readCustomPalette();
+    startingPalette = readCustomPaletteBase();
+    render(false);
   });
 }
 
@@ -217,7 +334,7 @@ export function initSiteShell(): void {
   if (root.dataset.siteClientReady === "true") return;
   root.dataset.siteClientReady = "true";
 
-  initThemeToggle();
+  initThemePicker();
   initMobileNavigation();
   initHeaderAutoHide();
   syncFavoriteButtons();

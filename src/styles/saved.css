@@ -1,5 +1,5 @@
 /* File role: Saved/Recent-only sections and empty/error states; cards themselves use the global canonical card styles. */
-.saved-page { max-width: 72rem; margin: auto; }
+.saved-page { max-width: var(--content-feature); margin: auto; }
 .saved-section { margin-top: 3rem; }
 .saved-section-heading h2 { margin: 0; }
 .saved-section-heading p { margin: 0.2rem 0 0; color: var(--secondary-text); font-size: 0.85rem; }
@@ -8,14 +8,14 @@
 .saved-empty[hidden] { display: none; }
 
 .saved-local-list { display: grid; gap: .6rem; list-style: none; margin: 1rem 0; padding: 0; }
-.saved-local-list li { display: flex; gap: 1rem; align-items: center; justify-content: space-between; flex-wrap: wrap; border: 1px solid var(--border-colour); border-radius: var(--ui-radius); padding: .7rem .9rem; }
+.saved-local-list li { display: flex; gap: 1rem; align-items: center; justify-content: space-between; flex-wrap: wrap; border: var(--ui-border); border-radius: var(--ui-radius); padding: .7rem .9rem; }
 .saved-local-list li a { font-weight: 700; text-underline-offset: .2em; }
 .saved-local-list li span { color: var(--secondary-text); font-size: .85rem; }
-.saved-local-list li button { min-height: var(--ui-target); padding: .45rem .7rem; border: 1px solid var(--border-colour); border-radius: var(--ui-radius); background: var(--surface-background); color: var(--primary-text); cursor: pointer; }
+.saved-local-list li button { min-height: var(--ui-target); padding: .45rem .7rem; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); color: var(--primary-text); cursor: pointer; }
 
 /* Hide empty library groups rather than presenting multiple dashed placeholders. */
 .saved-section[hidden] { display: none !important; }
 .saved-section { margin-top: clamp(1.5rem,3vw,2.25rem); }
-.saved-overview-empty { max-width: 42rem; padding: 1.2rem 0; color: var(--secondary-text); }
+.saved-overview-empty { max-width: var(--content-compact); padding: 1.2rem 0; color: var(--secondary-text); }
 .saved-overview-empty[hidden] { display: none; }
 .saved-overview-empty a { color: var(--primary-text); }
