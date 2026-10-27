@@ -1,7 +1,7 @@
 // Colour parsing and accessible contrast logic are independent of the DOM.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { DEFAULT_PALETTE, paletteForeground, parsePalette, validHex } from "../src/client/theme.ts";
+import { DEFAULT_PALETTE, normalizeCssHex, paletteForeground, parsePalette, validHex } from "../src/client/theme.ts";
 
 test("custom palette accepts only complete six-digit hex colours", () => {
   assert.equal(validHex("#Ab34F0"), true);
@@ -33,4 +33,12 @@ test("widely opposed surfaces return a low ratio so the UI warns readers", () =>
   assert(paletteForeground({
     main: "#000000", secondary: "#ffffff", accent: "#c07070",
   }).ratio < 4.5);
+});
+
+test("minified CSS hex colours expand to six digits for native colour inputs", () => {
+  assert.equal(normalizeCssHex("#fff", "#123456"), "#ffffff");
+  assert.equal(normalizeCssHex(" #000 ", "#123456"), "#000000");
+  assert.equal(normalizeCssHex("#ABC", "#123456"), "#aabbcc");
+  assert.equal(normalizeCssHex("#f4ead6", "#123456"), "#f4ead6");
+  assert.equal(normalizeCssHex("red; background: transparent", "#123456"), "#123456");
 });
