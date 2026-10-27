@@ -38,8 +38,8 @@ while :; do
   }
 
   current_prod=$(
-    jq -r '[.[] | select(.Environment == "Production")][0].Id // empty' \
-      <<<"$deployments"
+    "$WRANGLER" pages deployment list       --project-name "$PROJECT"       --environment production --json |
+    jq -r '.[0].Id // empty'
   )
 
   [[ -n "$current_prod" ]] || {
