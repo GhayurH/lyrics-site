@@ -12,12 +12,12 @@
 .search-filter-control { min-width: 0; }
 .search-filter-label { display: block; margin-bottom: 0.35rem; color: var(--secondary-text); font-size: 0.75rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; }
 pagefind-filter-dropdown { display: block; min-width: 0; }
-.search-more-filters { margin-top: 1rem; border: 1px solid var(--border-colour); border-radius: 0.65rem; padding: 0.75rem 1rem; background: var(--surface-background); }
+.search-more-filters { margin-top: 1rem; border: 1px solid var(--border-colour); padding: 0.75rem 1rem; background: var(--surface-background); }
 .search-more-filters > summary { cursor: pointer; font-weight: 700; }
 .active-search-filters { margin-top: 1rem; }
 .active-search-filters[hidden] { display: none; }
 .active-search-filter-list { display: flex; flex-wrap: wrap; gap: 0.45rem; }
-.search-filter-chip { border: 1px solid var(--border-colour); border-radius: 999px; padding: 0.35rem 0.65rem; background: var(--tag-background); color: var(--primary-text); font: inherit; font-size: 0.78rem; cursor: pointer; }
+.search-filter-chip { border: 1px solid var(--border-colour); border-radius: var(--ui-radius); padding: 0.35rem 0.65rem; background: var(--tag-background); color: var(--primary-text); font: inherit; font-size: 0.78rem; cursor: pointer; }
 .search-filter-chip:hover { background: var(--surface-background); }
 .search-filter-chip:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
 .search-filter-chip span { margin-left: 0.25rem; font-weight: 800; }
@@ -38,7 +38,7 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 .search-filter-disclosure { margin-top: .65rem; }
 .search-filter-disclosure > summary { display: none; }
 @media (max-width: 700px) {
-  .search-filter-disclosure { border: 1px solid var(--border-colour); border-radius: .7rem; background: var(--surface-background); }
+  .search-filter-disclosure { border: 1px solid var(--border-colour); background: var(--surface-background); }
   .search-filter-disclosure > summary { display: list-item; min-height: 2.75rem; padding: .7rem 1rem; cursor: pointer; font-weight: 700; }
   .search-filter-disclosure .search-primary-filters { margin-top: 0; padding: 0 .75rem .75rem; }
   .search-filter-disclosure .search-more-filters { margin: .2rem .75rem .75rem; background: var(--site-background); }
@@ -47,4 +47,3 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 /* Search shares the same control scale and focus treatment as other tools. */
 .search-filter-disclosure, .search-more-filters { border-radius: var(--ui-panel-radius); }
 .search-filter-disclosure > summary, .search-more-filters > summary { min-height: var(--ui-target); }
-.search-filter-chip { border-radius: var(--ui-radius); }

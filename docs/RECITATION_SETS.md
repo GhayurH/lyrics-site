@@ -9,7 +9,7 @@ organizers can reorder, omit, repeat, or borrow numbered stanzas from other
 verified Marsiyas. Borrowed text retains its original source attribution.
 
 
-## Phase 5 reciter tools
+## Reciter tools, offline exports, and printing
 
 The reciter and programme-note fields in the builder are per-position: repeated
 kalams can have different assigned reciters and notes. The **Description**

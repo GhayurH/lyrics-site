@@ -45,8 +45,8 @@
 .lyric-reading-image img { display: block; width: 100%; height: auto; object-fit: contain; }
 .lyric-reading-grid[data-reading-columns] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
 .lyric-reading-grid[data-reading-columns~="image"] { grid-template-areas: "image roman urdu"; grid-template-columns: minmax(0,.85fr) repeat(2,minmax(0,1fr)); max-width: none; }
-/* Two-edition layouts must require the text edition they place. Previously both
-   :not() rules also matched image-only and created a phantom text track. */
+/* Include the selected text edition in each two-column selector so image-only
+   pages never reserve an empty text track. */
 .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) { grid-template-areas: "image urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
 .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) { grid-template-areas: "image roman"; grid-template-columns: repeat(2,minmax(0,1fr)); }
 .lyric-reading-grid[data-reading-mode="image"] {
@@ -499,7 +499,7 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 }
 html[data-reading-focus="true"] .reading-context-nav .basta-pager { background: transparent; }
 
-/* The nested Basta page form must override its legacy standalone two-row mobile grid. */
+/* Keep embedded Basta navigation on one row regardless of the standalone pager layout. */
 .reading-context-nav .basta-pager > .basta-nav-button:first-child { grid-column: 1; grid-row: 1; }
 .reading-context-nav .basta-pager > .basta-nav-button:last-child { grid-column: 3; grid-row: 1; }
 .reading-context-nav .basta-pager > .basta-jump-form { grid-column: 2; grid-row: 1; }

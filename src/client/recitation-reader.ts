@@ -1,4 +1,4 @@
-// Recitation reader: loads canonical verses on demand; programme order is separate data.
+// File role: Browser-side programme reader; load canonical verses on demand while keeping programme order separate from source text.
 import type { BastaKalam } from "../lib/basta-kalam-units";
 import { bastaVerseClassNames, layoutBastaKalam } from "../lib/basta-text";
 import { splitLyricStanzas } from "../lib/lyric-stanzas";

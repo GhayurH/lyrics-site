@@ -10,6 +10,10 @@ This document describes the source-code boundaries used by the site. Content and
 - Give each piece of domain data one canonical TypeScript model.
 - Keep large binary assets in R2 rather than Git.
 
+## Styling boundaries
+
+`src/styles/core.css` owns cross-route tokens and controls, not route-specific presentation. `src/styles/reading-columns.css` owns reader edition grids, container queries, and toolbar placement; route styles should not duplicate those layout rules. Consolidate repeated media blocks only when doing so preserves their cascade, and retain overrides with distinct conditions or specificity.
+
 ## Source layout
 
 ```text

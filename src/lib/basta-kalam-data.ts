@@ -1,4 +1,4 @@
-// Server-only bridge between Astro content and the canonical Basta kalam catalog.
+// File role: Server-only adapter between Astro content and the canonical Basta kalam catalog.
 import { getCollection } from "astro:content";
 import index from "../data/basta/index.json";
 import identityLock from "../data/recitation/identity-lock.json";

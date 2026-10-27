@@ -1,4 +1,4 @@
-// One source for missing-edition copy: never silently replace Roman with Urdu.
+// File role: Central missing-edition messages; never silently replace Roman with Urdu.
 export function romanUnavailable(scope: "page" | "kalam" | "stanza", hasScan: boolean, number?: number | string): string {
   const location = scope === "stanza" && number !== undefined ? "stanza " + number
     : scope === "page" ? "this page" : "this kalam";

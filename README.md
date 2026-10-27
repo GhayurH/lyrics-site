@@ -45,7 +45,7 @@ Additional reciter tools include **portable offline HTML** downloads,
 **Print / Save as PDF** via the browser print dialog, and opt-in live
 programme navigation controlled by the private organizer edit link. The
 existing programme notes and per-kalam reciter assignments are preserved in
-offline and print exports; original R2-hosted scans are not bundled offline.
+offline and print exports; original R2-hosted scans are not bundled offline. The offline copy embeds its Nastaliq font files for printing without an internet connection and retains parallel Urdu/Roman text.
 
 See [Recitation Sets](docs/RECITATION_SETS.md) for source-ID maintenance,
 security, retention, the D1 schema, Cloudflare deployment configuration,
@@ -115,7 +115,7 @@ public/
 
 The production `/images/` and `/files/` trees live in R2 rather than the Git repository.
 
-For implementation boundaries and performance architecture, see [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+For implementation boundaries and performance architecture, see [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md). Shared UI tokens belong to `src/styles/core.css`; reader edition grids and their responsive rules belong to `src/styles/reading-columns.css`.
 
 ## Content model
 
@@ -133,7 +133,7 @@ The Basta landing route `/basta/` offers page-by-page and continuous reading, an
 
 Search is powered by Pagefind and is generated during the production build. Pagefind assets are loaded only on `/search/`.
 
-The Saved/Recent page does not embed the complete lyrics catalog into every page. Its catalog is exposed as `/data/saved-catalog.json` and fetched only where needed. Favorites, bookmarked Basta pages, locally saved recitation programmes, recent history, theme, and reading preferences remain browser-local.
+The Saved/Recent page does not embed the complete lyrics catalog into every page. Its catalog is exposed as `/data/saved-catalog.json` and fetched only where needed. Favorites, bookmarked Basta pages and numbered stanzas, locally saved recitation programmes, recent history, theme, and reading preferences remain browser-local. The Saved page links to bookmarked Basta locations without modifying the source poetry.
 
 ## Continuous Basta reader
 
@@ -199,7 +199,7 @@ For the normal add-image/add-file publishing sequence, see [docs/ASSET_WORKFLOW.
 
 ### Browser regression checks
 
-The GitHub Actions reader-validation workflow runs on pushes to `main` and on pull requests. It builds the site, runs the Node regression suite, and checks a focused `@smoke` selection of Chromium browser tests covering core navigation, no-JavaScript reading, responsive layouts, Focus Mode, and continuous reading. The full Chromium browser suite remains available locally.
+The GitHub Actions reader-validation workflow runs on pushes to `main` and on pull requests. It builds the site, runs the Node regression suite, and checks a focused `@smoke` selection of Chromium browser tests covering core navigation, no-JavaScript reading, responsive layouts, Focus Mode, and continuous reading. The full Chromium browser suite remains available locally. Ordinary pull-request commits skip the browser smoke tests and longer Basta audit; commits marked `[full-ci]` and pushes to `main` run those checks.
 
 To run the same checks locally:
 
@@ -226,13 +226,3 @@ To report a correction, suggest a lyric, or ask a question, contact the site own
 ---
 
 Preserving Urdu literature in searchable digital form.
-
-Recitation Sets' offline HTML embeds Nastaliq WOFF2 data, so no external font is required to print or save a PDF. Its printable layout keeps Urdu and Roman text parallel. Basta page/index navigation now lives only in the shared top reader toolbar.
-
-**Design consistency:** A small set of theme-aware control-height, radius, focus-ring, and surface tokens in `core.css` is shared by the reader controls, search filters, library, category pages, and recitation tools. Reader content uses the same availability policy across modes: missing Roman text remains explicitly labelled, and a Roman-only selection displays the original scan as an alternative where one exists. Keyboard operation, reduced-motion preferences, and narrow landscape layouts are covered by Chromium browser tests.
-
-Specific Basta kalams and numbered stanzas can also be bookmarked locally: use the discreet star on a kalam or select a numbered stanza circle. The Saved page links directly to that page and position. The Markdown poetry source remains unchanged.
-
-### Validation cadence
-
-Routine draft-PR updates run the production build (including Node tests and recitation identity checks) and verify deployment routing, while skipping the expensive Chromium suite and Basta audit. Mark a milestone commit `[full-ci]` to run the complete browser suite and audit. Commits to `main` always run them.
