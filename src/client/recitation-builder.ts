@@ -89,6 +89,7 @@ export async function initRecitationBuilder(): Promise<void> {
   if (!app) return;
   const info = elm<HTMLElement>("recite-message");
   const say = (message: string) => { info.textContent = message; };
+  say("Loading poetry catalog…");
   let draft: RecitationDraft;
   let arranging: string | undefined;
   let resultLimit = 24;
@@ -338,6 +339,7 @@ export async function initRecitationBuilder(): Promise<void> {
     await loadCatalog(); catalogReady = true;
   } catch (e) { say((e as Error).message); }
   render();
+  if (catalogReady && info.textContent === "Loading poetry catalog…") say("");
   if (catalogReady) {
     const add = params.get("add");
     const item = add && byId.get(add);
@@ -438,4 +440,6 @@ export async function initRecitationBuilder(): Promise<void> {
       catch { elm<HTMLInputElement>(inputId).select(); say("Select and copy the highlighted link"); }
     });
   }
+  app.inert = false;
+
 }
