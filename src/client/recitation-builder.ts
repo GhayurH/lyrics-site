@@ -180,7 +180,15 @@ export async function initRecitationBuilder(): Promise<void> {
         item.reciter = input.value; persist(); refreshDrafts();
       });
       label.append(input);
-      row.append(name, actions, label);
+      const noteLabel = document.createElement("label");
+      noteLabel.textContent = "Recitation note (optional)";
+      noteLabel.className = "recite-inline-note";
+      const note = document.createElement("input");
+      note.maxLength = 400; note.placeholder = "Optional note";
+      note.value = item.note || "";
+      note.addEventListener("change", () => { item.note = note.value; persist(); });
+      noteLabel.append(note);
+      row.append(name, actions, label, noteLabel);
       row.addEventListener("dragstart", (e) => {
         dragging = item.uid; e.dataTransfer?.setData("text/plain", item.uid);
         if (e.dataTransfer) e.dataTransfer.effectAllowed = "move";
