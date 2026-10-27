@@ -120,6 +120,7 @@ export async function initRecitationBuilder(): Promise<void> {
     const read = elm<HTMLAnchorElement>("recite-open-reader");
     read.href = complete ? readerUrl(draft) : "/recite/";
     read.setAttribute("aria-disabled", String(!complete));
+    read.title = complete ? "Open this programme for reading" : (!hasTitle ? "Give your set a title before reading" : "Add a kalam before reading");
     read.classList.toggle("recite-link-disabled", !complete);
     const publish = elm<HTMLButtonElement>("recite-publish");
     publish.disabled = !complete;
@@ -423,6 +424,12 @@ export async function initRecitationBuilder(): Promise<void> {
   elm<HTMLSelectElement>("recite-drafts").addEventListener("change", (e) => {
     const selected = readDrafts().find((item) => item.id === (e.target as HTMLSelectElement).value);
     if (selected) setCurrent(selected);
+  });
+  elm<HTMLAnchorElement>("recite-open-reader").addEventListener("click", (event) => {
+    if (!draft.set.title.trim() || draft.set.items.length === 0) {
+      event.preventDefault();
+      say("Give your programme a title and add at least one kalam before reading.");
+    }
   });
   elm<HTMLButtonElement>("recite-new").addEventListener("click", () => {
     if (elm<HTMLButtonElement>("recite-new").disabled) return;

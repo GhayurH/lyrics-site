@@ -22,11 +22,33 @@ test("offline programme export contains complete text, reciter assignments and n
   expect(html).toContain("Organizers&#39; programme notes");
   expect(html).toContain("Assigned reciter");
   expect(html).toContain("Read after opening salaam");
-  expect(html).toContain("Original text");
+  expect(html).toContain('aria-label="Original poem text"');
   expect(html).toContain("Roman Urdu");
   expect(html).not.toContain("<script");
   expect(html).not.toMatch(/<img\b/i);
-  await expect(page.locator("#recite-print")).toBeEnabled();
+  expect(html).toContain('font-src data:;');
+  expect(html).toContain('"Noto Nastaliq Urdu"');
+  expect(html).toMatch(/woff2;base64,/);
+  await page.setContent(html);
+  await page.evaluate(() => document.fonts.ready);
+  const faces = await page.evaluate(() => [...document.fonts]
+    .filter((font) => font.family === "Noto Nastaliq Urdu").map((font) => font.status));
+  expect(faces).toContain("loaded");
+  await page.emulateMedia({ media: "print" });
+  const opening = page.locator(".recite-print-opening").first();
+  await expect(opening.locator(".recite-work-header")).toHaveCount(1);
+  await expect(page.locator(".recite-print-row").first()).toHaveCSS("break-inside", /avoid/);
+  const aligned = await page.locator(".recite-print-row").first().evaluate((el) => {
+    const roman = el.querySelector(".lyric-reading-roman").getBoundingClientRect();
+    const urdu = el.querySelector(".lyric-reading-urdu").getBoundingClientRect();
+    return Math.abs(roman.top - urdu.top) < 4 && roman.right <= urdu.left + 5;
+  });
+  expect(aligned).toBe(true);
+  // Check Chromium's actual PDF page count, not just screen CSS geometry.
+  const pdf = await page.pdf({ format: "Letter", preferCSSPageSize: true });
+  const pageCount = (pdf.toString("latin1").match(/\/Type\s*\/Page\b/g) || []).length;
+  expect(pageCount).toBeGreaterThan(0);
+  expect(pageCount).toBeLessThanOrEqual(3);
 });
 
 test("live navigation is opt-in and follows published entry UIDs @smoke", async ({ page }) => {
@@ -355,4 +377,71 @@ test("organizer can permanently preserve, renew and delete published sets @smoke
   await expect(page.locator("#recite-message")).toContainText("permanently deleted");
   await expect(page.locator("#recite-shared-links")).toBeHidden();
   expect(deletes).toBe(1);
+});
+
+test("recitation programme navigation belongs to the shared contextual toolbar @smoke", async ({ page }) => {
+  await page.goto("/recite/read/");
+  const controls = page.locator("[data-reading-controls]");
+  await expect(controls.locator(".recite-reader-toolbar")).toHaveCount(1);
+  await expect(page.locator("[data-reading-root] .recite-reader-toolbar")).toHaveCount(0);
+});
+
+test("mobile contextual toolbar expands without overlaying the programme navigation @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/recite/");
+  await page.locator("#recite-title").fill("Responsive toolbar");
+  await page.locator("#recite-source").selectOption("lyric");
+  await page.locator("#recite-results li button:not([disabled])").first().click();
+  await page.locator("#recite-open-reader").click();
+  const controls = page.locator("[data-reading-controls]");
+  await expect(controls.locator(".recite-reader-toolbar")).toBeVisible();
+  await controls.locator("[data-reading-regular-toggle]").click();
+  const [navigation, editions] = await Promise.all([
+    controls.locator(".recite-reader-toolbar").boundingBox(),
+    controls.locator(".reading-view-control").boundingBox(),
+  ]);
+  expect(navigation && editions).toBeTruthy();
+  expect(editions.y).toBeGreaterThanOrEqual(navigation.y + navigation.height - 2);
+  await controls.locator("[data-reading-line-spacing]").selectOption("relaxed");
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
+  const text = page.locator(".recite-editions .lyrics-text").first();
+  await expect(text).toHaveCSS("line-height", /\d+(?:\.\d+)?px/);
+  await controls.locator("[data-reading-focus-enter]").click();
+  await expect(controls.locator(".recite-reader-toolbar")).toBeVisible();
+  await controls.locator("[data-reading-focus-exit]").click();
+});
+
+test("mobile builder progressively reveals optional fields and highlights the active step @smoke", async ({ page }) => {
+  await page.setViewportSize({width:390,height:844});
+  await page.goto("/recite/");
+  const details = page.locator("#recite-optional-details");
+  await expect(details).not.toHaveAttribute("open", "");
+  await details.locator("summary").click();
+  await expect(details).toHaveAttribute("open", "");
+  await page.locator("#recite-occasion").fill("Majlis");
+  const share = page.locator('.recite-steps a[href="#recite-share-heading"]');
+  await share.click();
+  await expect(share).toHaveAttribute("aria-current", "step");
+  await expect(page.locator("#recite-publish")).toBeDisabled();
+});
+
+test("Roman-only recitation falls back explicitly to its original scan if text is absent @smoke", async ({ page }) => {
+  const id = "0123456789abcdef01234567";
+  await page.route("**/api/recitation-sets/" + id, (route) =>
+    route.fulfill({contentType:"application/json",body:JSON.stringify({
+      id, set:{version:1,title:"Roman fallback",occasion:"",description:"",
+        items:[{uid:"391002ab-16f4-4535-bf2a-8ca02cefc956",
+          kind:"lyric",id:"aa-asghar-bin-tere",sourceTitle:"Aa Asghar bin tere"}]}
+    })}));
+  await page.route("**/data/recitation-lyrics/aa-asghar-bin-tere.json", (route) =>
+    route.fulfill({contentType:"application/json",body:JSON.stringify({lyric:{
+      id:"aa-asghar-bin-tere",title:"Test text",urdu:"سلام",roman:"",
+      lang:"ur",direction:"rtl",cover:"/images/lyrics/sample.png"
+    }})}));
+  await page.goto("/recite/read/?set=" + id);
+  await expect(page.locator(".recite-work-no-roman")).toBeVisible();
+  await page.locator('[data-reading-column][value="urdu"]').uncheck();
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-mode","roman");
+  await expect(page.locator(".recite-work-no-roman .lyric-reading-image")).toBeVisible();
+  await expect(page.locator(".recite-work-no-roman .recite-empty-edition")).toContainText("Roman Urdu is not available");
 });

@@ -40,7 +40,9 @@ import "../styles/search.css";
       </button>
     </div>
 
-    <div class="search-primary-filters" aria-label="Search filters">
+    <details id="search-filter-disclosure" class="search-filter-disclosure" open>
+      <summary>Filters</summary>
+      <div class="search-primary-filters" aria-label="Search filters">
       <div class="search-filter-control search-filter-scope">
         <span class="search-filter-label">Search in</span>
         <pagefind-filter-dropdown filter="collection" label="Both archives" single-select sort="alphabetical"></pagefind-filter-dropdown>
@@ -69,6 +71,8 @@ import "../styles/search.css";
       </div>
     </details>
 
+    </details>
+
     <div id="active-search-filters" class="active-search-filters" hidden>
       <span class="search-filter-label">Active filters</span>
       <div id="active-search-filter-list" class="active-search-filter-list"></div>
@@ -82,6 +86,11 @@ import "../styles/search.css";
 
   <script>
     import { initSearchPage } from "../client/search";
+    const disclosure = document.querySelector<HTMLDetailsElement>("#search-filter-disclosure");
+    const wide = window.matchMedia("(min-width: 701px)");
+    const syncDisclosure = () => { if (disclosure) disclosure.open = wide.matches; };
+    syncDisclosure();
+    wide.addEventListener("change", syncDisclosure);
     void initSearchPage();
   </script>
 </BaseLayout>

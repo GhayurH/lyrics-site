@@ -7,6 +7,8 @@ test("all reader types expose text before JavaScript initializes @smoke", async 
   await expect(page.locator(".lyric-reading-urdu .lyric-verse").first()).toBeVisible();
   await page.goto("/basta/138/");
   await expect(page.locator(".basta-page-urdu .basta-verse-line").first()).toBeVisible();
+  await expect(page.locator("[data-reading-controls] .basta-pager")).toBeVisible();
+  await expect(page.locator("[data-reading-controls] .reading-focus-enter")).toBeHidden();
   await page.goto("/basta/read/");
   await expect(page.locator('.basta-reader-page[data-basta-page="3"]')).toBeVisible();
   await context.close();
@@ -37,7 +39,7 @@ test("edition preferences, Focus mode, and image enlargement work together", asy
   await image.locator("a").click();
   await expect(page.locator("dialog.scan-viewer")).toBeVisible();
   await page.getByRole("button", { name: "Close" }).click();
-  await page.getByRole("button", { name: "Focus mode" }).click();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
   await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
   await page.getByRole("button", { name: /Exit reading mode/ }).click();
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
@@ -47,7 +49,7 @@ test("continuous reader deep links load streamed content and preserve the curren
   await page.goto("/basta/read/#page-138");
   const page138 = page.locator('[data-basta-page="138"]');
   await expect(page138).toBeAttached({ timeout: 20000 });
-  await page.getByRole("button", { name: "Focus mode" }).click();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
   await page.getByRole("button", { name: /Show reading options/ }).click();
   await page.getByRole("button", { name: "Contents" }).click();
   await expect(page.locator(".basta-reader-index")).toBeVisible();
@@ -145,7 +147,7 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
   await page.locator("[data-reading-regular-toggle]").click();
   await page.locator('[data-reading-column][value="roman"]').uncheck();
   const editions = await page.locator("[data-reading-root]").getAttribute("data-reading-columns");
-  await page.getByRole("button", { name: "Focus mode" }).click();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
   await page.setViewportSize({ width: 844, height: 390 });
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", editions);
   // Exit at a known position within page 138, not where the preceding page crosses the reading line.
@@ -352,4 +354,251 @@ test("the Basta index does not scroll horizontally at mobile, tablet, or desktop
     await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
     await expect(page.locator(".basta-index-table-wrap").first()).toHaveCSS("overflow-x", width <= 640 ? "hidden" : "visible");
   }
+});
+
+test("parallel scans float below the reader toolbar, but stacked scans stay in flow @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1550, height: 900 });
+  await page.goto("/basta/145/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  const scan = page.locator(".basta-original-page");
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+  await expect(scan).toHaveCSS("position", "sticky");
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("false");
+  await expect(scan).not.toHaveCSS("position", "sticky");
+});
+
+test("standalone scans share the same floating-column policy @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1480, height: 900 });
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  const option = page.locator('[data-reading-column][value="image"]');
+  if (await option.count()) {
+    await option.check();
+    const scan = page.locator(".lyric-reading-image");
+    await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+    await expect(page.locator(".lyric-reading-grid")).toHaveCSS("background-color", "rgb(23, 23, 25)");
+  }
+});
+
+test("the floating standalone reader does not trap sticky scans in a clipped scroll container @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1480, height: 900 });
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await expect(page.locator(".lyric-reading-grid")).toHaveCSS("overflow-x", "clip");
+});
+
+test("a floating scan is never selected for text-column scrolling @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1550, height: 900 });
+  await page.goto("/basta/145/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  const scan = page.locator(".basta-original-page");
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+  await expect(scan).not.toHaveAttribute("data-synced-scrollable", "true");
+});
+
+test("image viewer centres narrow scans and pans horizontally and vertically when zoomed @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 900, height: 720 });
+  // Mock the external R2 scan so geometry is deterministic in preview builds.
+  await page.route("**/images/basta/original/138.png", (route) =>
+    route.fulfill({ contentType: "image/svg+xml", body:
+      '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1200"><rect width="600" height="1200" fill="white"/></svg>' }));
+  await page.goto("/basta/138/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  await page.locator(".basta-original-page a").click();
+  const viewer = page.locator(".scan-viewer");
+  const canvas = viewer.locator(".scan-viewer-canvas");
+  const image = canvas.locator("img");
+  await expect(viewer).toBeVisible();
+  await expect(image).toHaveJSProperty("naturalWidth", 600);
+  await viewer.getByRole("button", { name: "100%" }).click();
+  await expect.poll(() => canvas.evaluate((el) => el.scrollWidth - el.clientWidth)).toBeLessThanOrEqual(1);
+  const offset = await canvas.evaluate((el) => {
+    const box = el.getBoundingClientRect(), scan = el.querySelector("img").getBoundingClientRect();
+    return Math.abs((scan.left + scan.right) / 2 - (box.left + box.right) / 2);
+  });
+  expect(offset).toBeLessThan(2);
+  await viewer.getByRole("button", { name: "200%" }).click();
+  await expect.poll(() => canvas.evaluate((el) => el.scrollWidth - el.clientWidth)).toBeGreaterThan(100);
+  await canvas.evaluate((el) => { el.scrollLeft = 0; el.scrollTop = 0; });
+  const bounds = await canvas.boundingBox();
+  const x = bounds.x + bounds.width * .65, y = bounds.y + bounds.height * .65;
+  const before = await canvas.evaluate((el) => ({ x: el.scrollLeft, y: el.scrollTop }));
+  await page.mouse.move(x, y);
+  await page.mouse.down();
+  await page.mouse.move(x - 90, y - 90, { steps: 6 });
+  await page.mouse.up();
+  await expect.poll(() => canvas.evaluate((el) => el.scrollLeft)).toBeGreaterThan(before.x + 50);
+  await expect.poll(() => canvas.evaluate((el) => el.scrollTop)).toBeGreaterThan(before.y + 50);
+  await viewer.getByRole("button", { name: "Close" }).click();
+});
+
+test("Basta uses one upper contextual toolbar and no redundant edition headings @smoke", async ({ page }) => {
+  for (const url of ["/basta/138/", "/basta/index/"]) {
+    await page.goto(url);
+    const controls = page.locator("[data-reading-controls]");
+    await expect(controls.locator(".basta-pager")).toHaveCount(1);
+    await expect(page.locator(".basta-pager")).toHaveCount(1);
+  }
+  await expect(page.locator(".basta-page-text-heading, .basta-original-page figcaption")).toHaveCount(0);
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await expect(page.locator(".lyric-language-label")).toHaveCount(0);
+  await expect(page.locator(".reading-column-choice").first()).toBeVisible();
+  await expect(page.getByRole("button", { name: "Focus Mode" })).toBeVisible();
+});
+
+test("Focus Mode centres bilingual columns and fits scans within the viewport @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.route("**/images/lyrics/daastaan-e-shujaat-ka-darain-mein.png", (route) =>
+    route.fulfill({ contentType: "image/svg+xml", body:
+      '<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754"><rect width="1240" height="1754" fill="white"/></svg>' }));
+  await page.goto("/lyrics/daastaan-e-shujaat-ka-darain-mein/");
+  const imageToggle = page.locator('[data-reading-column][value="image"]');
+  await imageToggle.uncheck();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
+  const grid = page.locator(".lyric-reading-grid");
+  const bounds = await Promise.all([".lyric-reading-roman", ".lyric-reading-urdu"]
+    .map(selector => grid.locator(selector).boundingBox()));
+  expect(Math.min(bounds[0].x, bounds[1].x)).toBeGreaterThan(70);
+  expect(Math.max(bounds[0].x + bounds[0].width, bounds[1].x + bounds[1].width)).toBeLessThan(1370);
+  await page.getByRole("button", { name: /Show reading options/ }).click();
+  await imageToggle.check();
+  const scan = grid.locator(".lyric-reading-image img");
+  await expect(scan).toHaveJSProperty("naturalWidth", 1240);
+  const box = await scan.boundingBox();
+  expect(box.y).toBeGreaterThanOrEqual(45);
+  expect(box.y + box.height).toBeLessThanOrEqual(898);
+  await page.getByRole("button", { name: /Exit reading mode/ }).click();
+});
+
+// The Options overlay must not alter the source scan's geometry on Basta pages.
+test("Basta Focus scan stays centred and fully visible when Options expands @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1600, height: 900 });
+  await page.route("**/images/basta/original/145.png", (route) =>
+    route.fulfill({ contentType: "image/svg+xml", body:
+      '<svg xmlns="http://www.w3.org/2000/svg" width="630" height="1080"><rect width="630" height="1080" fill="white"/></svg>' }));
+  await page.goto("/basta/145/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  await page.getByRole("button", { name: "Focus Mode" }).click();
+  const scan = page.locator(".basta-original-page img");
+  await expect(scan).toHaveJSProperty("naturalWidth", 630);
+  const before = await scan.boundingBox();
+  await page.getByRole("button", { name: /Show reading options/ }).click();
+  await expect(page.locator("[data-reading-controls]")).toHaveAttribute("data-reading-options-open", "true");
+  await expect.poll(async () => (await scan.boundingBox()).y).toBeGreaterThanOrEqual(before.y - 4);
+  const after = await scan.boundingBox();
+  expect(Math.abs(after.y - before.y)).toBeLessThan(5);
+  expect(after.y + after.height).toBeLessThanOrEqual(900);
+});
+
+test("standalone image selection never creates phantom columns and stays horizontally centred @smoke", async ({ page }) => {
+  await page.setViewportSize({width: 1440, height: 900});
+  const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";
+  await page.route("**" + imageUrl, route => route.fulfill({
+    contentType: "image/svg+xml",
+    body: '<svg xmlns="http://www.w3.org/2000/svg" width="750" height="1200"><rect width="750" height="1200" fill="white"/></svg>',
+  }));
+  await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
+  const grid = page.locator(".lyric-reading-grid");
+  const image = grid.locator(".lyric-reading-image");
+  const scan = image.locator("img");
+  const imageToggle = page.locator('[data-reading-column][value="image"]');
+  const romanToggle = page.locator('[data-reading-column][value="roman"]');
+  const urduToggle = page.locator('[data-reading-column][value="urdu"]');
+  await imageToggle.check();
+  await romanToggle.uncheck();
+  await urduToggle.uncheck();
+  await expect(grid).toHaveAttribute("data-reading-mode", "image");
+  await expect(scan).toHaveJSProperty("naturalWidth", 750);
+  const geometry = await grid.evaluate(el => {
+    const image = el.querySelector(".lyric-reading-image").getBoundingClientRect();
+    const scan = el.querySelector("img").getBoundingClientRect();
+    const shell = el.getBoundingClientRect();
+    const tracks = getComputedStyle(el).gridTemplateColumns.trim().split(/\s+/);
+    return {
+      tracks: tracks.length, aligned: Math.abs((scan.left + scan.right) / 2 -
+        (shell.left + shell.right) / 2),
+      imageWidth: image.width, scanWidth: scan.width,
+    };
+  });
+  expect(geometry.tracks).toBe(1);
+  expect(geometry.aligned).toBeLessThan(2);
+  expect(geometry.scanWidth).toBeGreaterThan(50);
+  await page.setViewportSize({width: 390, height: 844});
+  await expect.poll(async () => {
+    const img = await scan.boundingBox();
+    const shell = await grid.boundingBox();
+    return Math.abs((img.x + img.width/2) - (shell.x + shell.width/2));
+  }).toBeLessThan(2);
+  await expect.poll(() => page.evaluate(() =>
+    document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+});
+
+test("standalone scan plus Urdu/Roman is parallel when wide and centred above text at medium width @smoke", async ({ page }) => {
+  const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";
+  await page.route("**" + imageUrl, route => route.fulfill({
+    contentType: "image/svg+xml",
+    body: '<svg xmlns="http://www.w3.org/2000/svg" width="750" height="1200"><rect width="750" height="1200" fill="white"/></svg>',
+  }));
+  await page.setViewportSize({width: 1600, height: 900});
+  await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
+  const grid = page.locator(".lyric-reading-grid");
+  const image = grid.locator(".lyric-reading-image");
+  const roman = grid.locator(".lyric-reading-roman");
+  const urdu = grid.locator(".lyric-reading-urdu");
+  await page.locator('[data-reading-column][value="image"]').check();
+  await page.locator('[data-reading-column][value="roman"]').check();
+  await page.locator('[data-reading-column][value="urdu"]').check();
+  await expect.poll(() => image.getAttribute("data-floating-scan")).toBe("true");
+  const wide = await Promise.all([image,roman,urdu].map(el=>el.boundingBox()));
+  expect(Math.max(...wide.map(box=>box.y))-Math.min(...wide.map(box=>box.y))).toBeLessThan(25);
+  await page.setViewportSize({width: 1050, height: 900});
+  await expect.poll(() => image.getAttribute("data-floating-scan")).toBe("false");
+  const medium = await Promise.all([image,roman,urdu].map(el=>el.boundingBox()));
+  expect(medium[0].y + medium[0].height).toBeLessThanOrEqual(medium[1].y+3);
+  expect(Math.abs(medium[1].y - medium[2].y)).toBeLessThan(3);
+  expect(medium[0].height).toBeLessThan(680);
+  await page.getByRole("button", { name: "Focus Mode" }).click();
+  await expect(image).not.toHaveCSS("position", "sticky");
+  await expect.poll(() => page.evaluate(() =>
+    document.documentElement.scrollWidth-innerWidth)).toBeLessThanOrEqual(2);
+  await page.getByRole("button", { name: /Exit reading mode/ }).click();
+});
+
+test("standalone image plus either single text edition occupies only two columns @smoke", async ({ page }) => {
+  await page.setViewportSize({width: 1400, height: 900});
+  await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
+  const grid = page.locator(".lyric-reading-grid");
+  const image = grid.locator(".lyric-reading-image");
+  await page.locator('[data-reading-column][value="image"]').check();
+  for (const remaining of ["urdu","roman"]) {
+    await page.locator('[data-reading-column][value="urdu"]').setChecked(remaining === "urdu");
+    await page.locator('[data-reading-column][value="roman"]').setChecked(remaining === "roman");
+    const expected = remaining === "urdu" ? ".lyric-reading-urdu" : ".lyric-reading-roman";
+    const rectangles = await Promise.all([image,grid.locator(expected)].map(el=>el.boundingBox()));
+    expect(Math.abs(rectangles[0].y - rectangles[1].y)).toBeLessThan(25);
+    expect(rectangles[0].x + rectangles[0].width).toBeLessThanOrEqual(rectangles[1].x+5);
+    const tracks = await grid.evaluate(el=>getComputedStyle(el).gridTemplateColumns.trim().split(/\s+/).length);
+    expect(tracks).toBe(2);
+  }
+});
+
+test("Basta kalam and stanza bookmarks survive navigation without shifting poetry @smoke", async ({ page }) => {
+  await page.goto("/basta/200/");
+  const kalam = page.locator(".basta-page-urdu .basta-kalam-text").first();
+  const button = kalam.locator("[data-basta-save-selection]").first();
+  await expect(button).toBeAttached();
+  const verse = kalam.locator(".basta-verse-line").first();
+  const before = await verse.boundingBox();
+  await button.click();
+  await expect(button).toHaveAttribute("aria-pressed", "true");
+  const after = await verse.boundingBox();
+  expect(Math.abs(after.y - before.y)).toBeLessThan(2);
+  const stanza = page.locator(".basta-page-urdu .basta-stanza-bookmark").first();
+  if (await stanza.count()) {
+    await stanza.click();
+    await expect(stanza).toHaveAttribute("aria-pressed", "true");
+  }
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-selections-list a").first()).toContainText("Basta");
+  await page.locator("#basta-selections-list a").first().click();
+  await expect(page.locator("[data-reading-root]")).toBeVisible();
 });

@@ -6,6 +6,9 @@ import {
   writeRecord,
 } from "./storage";
 import { initReadingFocus } from "./reading-focus";
+import { initFloatingScans } from "./floating-scans";
+import { initBastaBookmarks } from "./basta-bookmarks";
+import { initBastaSelections } from "./basta-selections";
 
 import { isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
 const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
@@ -95,6 +98,9 @@ export function initReadingControls(): void {
 
   applyPrefs();
   initReadingFocus(root, controls);
+  initFloatingScans();
+  initBastaBookmarks(root, controls);
+  initBastaSelections(root);
 }
 
 export function recordRecentLyric(id: string, limit = 20): void {

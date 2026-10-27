@@ -71,7 +71,9 @@ function refreshColumns(): void {
     // Only editions physically occupying the same horizontal row are paired.
     const rows: Array<Array<{ panel: HTMLElement; top: number; left: number }>> = [];
     for (const panel of panels) {
-      if (!panel.getClientRects().length || getComputedStyle(panel).display === "none") continue;
+      // A viewport-fixed scan is visual reference material, not a text scroller.
+      if (panel.dataset.floatingScan === "true" ||
+          !panel.getClientRects().length || getComputedStyle(panel).display === "none") continue;
       const rect = panel.getBoundingClientRect();
       if (rect.width < 1 || rect.height < 1) continue;
       const row = rows.find((items) => Math.abs(items[0].top - rect.top) < 24);

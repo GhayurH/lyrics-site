@@ -281,9 +281,9 @@ Browser-local persistence should use `src/client/storage.ts` rather than parsing
 
 ### Reading controls
 
-Normal lyrics and all Basta reading views share `ReadingControls.astro` and `src/client/reader-state.ts`. On mobile the ordinary controls start collapsed, with a separate Options button; Focus mode continues to use its own Options controls. The site header hides on downscroll, returns on upscroll, and stays visible when the navigation menu is open. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
+Normal lyrics, all Basta reading views, and the Recitation Sets reader share `ReadingControls.astro` and `src/client/reader-state.ts`. Use the semantic sizing tokens in `core.css` rather than adding one-off sizes and corner radii for equivalent buttons, cards, and forms. On mobile the ordinary controls start collapsed, with a separate Options button; Focus mode continues to use its own Options controls. The site header hides on downscroll, returns on upscroll, and stays visible when the navigation menu is open. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
 
-`src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. The original scan follows whole-page percentage; stacked and single-language layouts remain ordinary document flows.
+`src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. Original scans remain centred and sticky when beside text; they are not synchronized as text scrollers. Stacked and single-language layouts remain in ordinary document flow.
 
 ### Basta layouts and streaming
 
@@ -298,7 +298,7 @@ The continuous reader uses pre-rendered eight-page JSON chunks. If changing chun
 
 ### Saved/Recent catalog
 
-The Saved/Recent catalog is exposed as `/data/saved-catalog.json` by `src/pages/data/saved-catalog.json.ts`. It is fetched only by the Saved/Recent experience rather than embedded broadly into page output.
+The Saved page also shows locally bookmarked Basta pages and recitation drafts. Those records must work independently even if the lyric catalog cannot load. The Saved/Recent catalog is exposed as `/data/saved-catalog.json` by `src/pages/data/saved-catalog.json.ts`. It is fetched only by the Saved/Recent experience rather than embedded broadly into page output.
 
 ### File-role comments
 
@@ -319,14 +319,22 @@ Review the diff before committing. For asset changes, verify that the correspond
 
 ## Browser validation for UI changes
 
-For reader or responsive changes, run `npm run build` (which invokes `npm test` through `prebuild`), then install browser dependencies and run `npx playwright test`. GitHub Actions runs a focused Chromium `@smoke` suite on pushes to `main` and pull requests; run `npx playwright test` locally for the full Chromium browser suite. The tests check interactions and geometry rather than screenshots.
+For reader or responsive changes, run `npm run build` (which invokes `npm test` through `prebuild`), then install browser dependencies and run `npx playwright test`. GitHub Actions runs a focused Chromium `@smoke` suite on pushes to `main` and pull requests; run `npx playwright test` locally for the full Chromium browser suite. The fast CI tests check interactions and geometry rather than fetching remote R2 images or comparing screenshot baselines.
 
-Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, continuous-reader deep links and Contents, scan links/zoom, and Focus-mode exit. Local Astro preview does not implement Cloudflare Pages asset redirects. CI verifies the generated `_redirects` configuration rather than making external source-image availability requests.
+Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, continuous-reader deep links and Contents, scan links/zoom, and Focus-mode exit. Check browse/category pages and Recitation Sets at 320–390px portrait, narrow landscape, and tablet widths, and preserve text-only fallbacks when a scan is unavailable. Local Astro preview does not implement Cloudflare Pages asset redirects. CI verifies the generated `_redirects` configuration rather than making external source-image availability requests.
 
 Every poem verse must remain on one line, with no wrapping, horizontal scrolling, or manual text-size selector. Keep the functional mobile tests for standalone lyrics, page-by-page Basta, and the continuous reader.
+
+The image viewer alone permits two-axis zoom and drag-to-pan; centred images narrower than the viewport never require horizontal scrolling. Basta page/index top navigation stays inside `ReadingControls.astro` via its `navigation` slot, with no second bottom pager.
+
+Recitation printouts must embed the website's Nastaliq fonts, maintain bilingual stanza rows with `break-inside: avoid`, keep headings with their first stanza, and await `document.fonts.ready` before printing. Never reinstate whole-poem grids or unconditional per-kalam page breaks: PDF pagination is covered by a real browser export smoke test.
 
 ## Corrections and questions
 
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
+
+### CI and reader maintenance
+
+Milestone commits marked `[full-ci]` and pushes to main trigger the Chromium smoke suite and Basta audit. Other PR updates still run the build, Node tests, and recitation ID verification. Always run milestone validation before merging. Edition geometry belongs in `reading-columns.css`, and missing-edition explanations use `romanUnavailable` so a scan is only advertised when actually provided. Keep Basta selection bookmarks local and out of the verse layout.

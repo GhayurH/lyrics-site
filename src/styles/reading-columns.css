@@ -4,10 +4,10 @@
 .reading-focus-enter { margin-inline: 0; }
 /* Each selection's *entire* cell (not just the text) is its checked surface. */
 .reading-column-choices { display: flex; flex-wrap: nowrap; overflow: hidden; width: 100%; border: 1px solid var(--border-colour); border-radius: .55rem; }
-.reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: 2.75rem; border-inline-end: 1px solid var(--border-colour); cursor: pointer; }
+.reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: 2.25rem; border-inline-end: 1px solid var(--border-colour); cursor: pointer; }
 .reading-column-choice:last-child { border-inline-end: 0; }
 .reading-column-choice input { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
-.reading-column-choice span { display: flex; flex: 1 1 auto; align-items: center; justify-content: center; width: 100%; min-width: 0; min-height: 2.75rem; padding: .5rem .35rem; font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; }
+.reading-column-choice span { display: flex; flex: 1 1 auto; align-items: center; justify-content: center; width: 100%; min-width: 0; min-height: 2.25rem; padding: .3rem .35rem; font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; }
 .reading-column-choice input:checked + span { background: var(--button-background); color: var(--button-text); }
 .reading-column-choice input:focus-visible + span { outline: var(--focus-ring); outline-offset: -3px; }
 .reading-page-jump { display: flex; align-items: center; gap: .4rem; }
@@ -33,7 +33,7 @@
 
 /* A page without Roman text must never appear blank when Roman is selected alone. */
 .basta-edition-unavailable { display: none; max-width: 48rem; margin: .75rem auto 1.5rem; padding: .6rem .9rem; color: var(--secondary-text); font-size: .83rem; text-align: center; }
-.basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]):not([data-reading-columns~="image"])
+.basta-reader-flow[data-reading-columns~="roman"]
   .basta-reader-page-no-roman .basta-edition-unavailable { display: block; }
 .basta-reader-flow[data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]):not([data-reading-columns~="image"])
   .basta-reader-page-no-roman .basta-reader-original-image { display: block !important; }
@@ -45,9 +45,34 @@
 .lyric-reading-image img { display: block; width: 100%; height: auto; object-fit: contain; }
 .lyric-reading-grid[data-reading-columns] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
 .lyric-reading-grid[data-reading-columns~="image"] { grid-template-areas: "image roman urdu"; grid-template-columns: minmax(0,.85fr) repeat(2,minmax(0,1fr)); max-width: none; }
-.lyric-reading-grid[data-reading-columns~="image"]:not([data-reading-columns~="roman"]) { grid-template-areas: "image urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
-.lyric-reading-grid[data-reading-columns~="image"]:not([data-reading-columns~="urdu"]) { grid-template-areas: "image roman"; grid-template-columns: repeat(2,minmax(0,1fr)); }
-.lyric-reading-grid[data-reading-mode="image"] { grid-template-areas: "image"; grid-template-columns: minmax(0,min(100%,54rem)); justify-content: center; }
+/* Two-edition layouts must require the text edition they place. Previously both
+   :not() rules also matched image-only and created a phantom text track. */
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) { grid-template-areas: "image urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) { grid-template-areas: "image roman"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+.lyric-reading-grid[data-reading-mode="image"] {
+  grid-template-areas: "image";
+  grid-template-columns: minmax(0,min(100%,54rem));
+  justify-content: center;
+  max-width: min(100%,60rem);
+  margin-inline: auto;
+}
+.lyric-reading-grid[data-reading-mode="image"] > .lyric-reading-image {
+  width: 100%;
+  min-width: 0;
+  justify-self: center;
+}
+.lyric-reading-grid[data-reading-mode="image"] > .lyric-reading-image > a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.lyric-reading-grid[data-reading-mode="image"] > .lyric-reading-image img {
+  width: auto;
+  max-width: 100%;
+  max-height: min(80dvh,64rem);
+  margin-inline: auto;
+}
 .lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0,48rem); justify-content: center; }
 .lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0,48rem); justify-content: center; }
 
@@ -86,6 +111,31 @@
   .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
     grid-template-areas: "image image" "roman urdu";
     grid-template-columns: repeat(2,minmax(0,1fr));
+  }
+  /* When three independent columns would make verses unreasonably narrow,
+     show a centred, viewport-bounded scan above the two parallel text editions.
+     The scan must not expand to the entire page width or remain sticky on a
+     different row from the poetry. */
+  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) {
+    justify-self: center;
+    width: min(100%,42rem);
+    padding: clamp(.5rem,1.5vw,1rem);
+  }
+  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) > a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    max-height: min(67dvh,44rem);
+    margin-inline: auto;
   }
   .basta-page-grid[data-reading-columns~="image"].basta-page-grid-with-roman,
   .basta-reader-flow[data-reading-columns~="image"] .basta-reader-page-grid-with-roman {
@@ -325,11 +375,11 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
   }
   .reading-regular-toggle [data-reading-regular-indicator] { margin-inline-start: .3rem; }
   html:not([data-reading-focus="true"]) .reading-controls:not([data-regular-options-open="true"])
-    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump) {
+    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump,.reading-bookmark-page) {
     display: none !important;
   }
   html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"]
-    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump) {
+    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump,.reading-bookmark-page) {
     grid-row: auto;
   }
   html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"] > .reading-view-control {
@@ -347,3 +397,146 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
     top: .5rem;
   }
 }
+
+/* A scan follows the poetry only while both occupy the same grid row.
+   Its viewport is centred below the visible sticky navigation. */
+[data-floating-scan="true"] {
+  position: sticky;
+  top: var(--reader-scan-clearance, 5rem);
+  height: max(6rem, calc(100dvh - var(--reader-scan-clearance, 5rem) - .75rem));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-self: start;
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  overflow: visible;
+}
+[data-floating-scan="true"] > a,
+[data-floating-scan="true"] > .recite-scan-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  max-height: 100%;
+}
+[data-floating-scan="true"] img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: max(5rem, calc(100dvh - var(--reader-scan-clearance, 5rem) - 1.5rem));
+  object-fit: contain;
+  border: 1px solid var(--border-colour);
+  border-radius: .65rem;
+}
+/* Uniform spacing preferences, including the recitation reader. */
+[data-reading-root][data-line-spacing="compact"] .lyrics-text { line-height: 2.2; }
+[data-reading-root][data-line-spacing="compact"] .roman-lyrics-text { line-height: 1.65; }
+[data-reading-root][data-line-spacing="relaxed"] .lyrics-text { line-height: 3.15; }
+[data-reading-root][data-line-spacing="relaxed"] .roman-lyrics-text { line-height: 2.35; }
+[data-reading-root][data-line-spacing="compact"] .basta-kalam-text { line-height: 2.2; }
+[data-reading-root][data-line-spacing="relaxed"] .basta-kalam-text { line-height: 3.2; }
+[data-reading-root][data-line-spacing="compact"] .lyric-reading-roman .basta-kalam-text { line-height: 1.65; }
+[data-reading-root][data-line-spacing="relaxed"] .lyric-reading-roman .basta-kalam-text { line-height: 2.35; }
+
+.reading-bookmark-page { min-height: var(--ui-target); border: 1px solid var(--border-colour); border-radius: var(--ui-radius); padding: .45rem .7rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: .82rem; font-weight: 700; cursor: pointer; }
+.reading-bookmark-page[aria-pressed="true"] { background: var(--button-background); color: var(--button-text); }
+
+/* Sticky toolbars must not hide the beginning of an anchored page or stanza. */
+:where(.basta-reader-page, .basta-index-page, .recite-work, [data-reading-root] [id]) {
+  scroll-margin-top: calc(var(--reader-scan-clearance, 7rem) + .75rem);
+}
+
+/* Clipped scan wrappers must not create a scroll container that defeats sticky. */
+[data-floating-scan="true"].basta-original-page,
+[data-floating-scan="true"].lyric-reading-image,
+[data-floating-scan="true"].basta-reader-original-image { overflow: visible; }
+
+/* Multiple scans within one recitation remain accessible through a single
+   vertically scrollable scan column rather than overflowing onto the text. */
+[data-floating-scan="true"]:has(> .recite-scan-page + .recite-scan-page) {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  justify-content: flex-start;
+}
+[data-floating-scan="true"]:has(> .recite-scan-page + .recite-scan-page) > .recite-scan-page {
+  flex: 0 0 auto;
+  max-height: none;
+  width: 100%;
+  margin-bottom: .65rem;
+}
+
+/* One navigation surface for Basta pages and index, sharing the sticky reader bar. */
+.reading-context-nav { order: 5; flex: 1 1 100%; min-width: 0; }
+.reading-context-nav .basta-pager {
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  margin: 0; padding: .5rem 0 0;
+  border: 0; border-top: 1px solid var(--border-colour);
+  border-radius: 0; background: transparent; gap: .6rem;
+}
+.reading-context-nav .basta-nav-button { min-height: 2.5rem; padding: .35rem .6rem; font-size: .84rem; }
+.reading-context-nav .basta-jump-form label span { font-size: .72rem; }
+.reading-context-nav .basta-jump-form input { width: 5rem; min-height: 2.5rem; }
+.reading-context-nav .basta-jump-form button { min-height: 2.5rem; }
+@media (pointer: coarse) {
+  .reading-column-choice, .reading-column-choice span { min-height: 2.75rem; }
+}
+@media (max-width: 700px) {
+  .reading-controls > .reading-context-nav { grid-column: 1 / -1; grid-row: 2; }
+  .reading-context-nav .basta-pager { grid-template-columns: auto minmax(0, 1fr) auto; gap: .35rem; }
+  .reading-context-nav .basta-nav-button { min-height: 2.75rem; padding: .35rem .45rem; font-size: .76rem; }
+  .reading-context-nav .basta-jump-form { gap: .3rem; min-width: 0; }
+  .reading-context-nav .basta-jump-form label span { display: none; }
+  .reading-context-nav .basta-jump-form input { width: min(4rem, 100%); min-height: 2.75rem; padding: .3rem; text-align: center; }
+  .reading-context-nav .basta-jump-form button { min-height: 2.75rem; padding: .4rem .45rem; }
+}
+html[data-reading-focus="true"] .reading-controls > .reading-context-nav { display: none; }
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-context-nav {
+  display: block; order: 3; flex-basis: 100%; pointer-events: auto;
+}
+html[data-reading-focus="true"] .reading-context-nav .basta-pager { background: transparent; }
+
+/* The nested Basta page form must override its legacy standalone two-row mobile grid. */
+.reading-context-nav .basta-pager > .basta-nav-button:first-child { grid-column: 1; grid-row: 1; }
+.reading-context-nav .basta-pager > .basta-nav-button:last-child { grid-column: 3; grid-row: 1; }
+.reading-context-nav .basta-pager > .basta-jump-form { grid-column: 2; grid-row: 1; }
+
+/* Preserve usable top-of-page Basta links when scripting is unavailable. */
+html:not([data-reader-enhanced="true"]) .reading-controls:has(> .reading-context-nav) {
+  display: block; position: static; padding: 0; border: 0; background: transparent; box-shadow: none;
+}
+html:not([data-reader-enhanced="true"]) .reading-controls > :not(.reading-context-nav) { display: none !important; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-pager {
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  padding: .6rem; border: 1px solid var(--border-colour); border-radius: .7rem;
+}
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-nav-button:first-child { grid-column: 1; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-nav-button:last-child { grid-column: 2; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-jump-form { display: none; }
+
+/* The floating scan's normal sticky viewport is not applied to Focus Mode. */
+html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-floating-scan="true"] { --reader-scan-clearance: 3.3rem; }
+
+/* Local bookmark controls stay out of verse flow and leave the printed source untouched. */
+.basta-selectable-kalam { position: relative; }
+.basta-selection-action {
+  position: absolute; inset-block-start: 0; inset-inline-end: 0;
+  z-index: 1; min-width: 2rem; min-height: 2rem;
+  border: 1px solid var(--border-colour); border-radius: var(--ui-radius);
+  background: var(--surface-background); color: var(--secondary-text);
+  font: inherit; font-size: 1.05rem; cursor: pointer;
+  opacity: .25;
+}
+.basta-selectable-kalam:is(:hover,:focus-within) > .basta-selection-action,
+.basta-selection-action[aria-pressed="true"] { opacity: 1; }
+.basta-selection-action[aria-pressed="true"] { color: var(--primary-text); background: var(--tag-background); }
+.basta-stanza-bookmark { color: inherit; font: inherit; cursor: pointer; background: transparent; }
+.basta-stanza-bookmark[aria-pressed="true"] { color: var(--button-text); background: var(--button-background); }
+.basta-stanza-bookmark:hover { border-color: var(--primary-text); }
+.basta-selection-action:focus-visible,.basta-stanza-bookmark:focus-visible {
+  opacity: 1; outline: var(--focus-ring); outline-offset: 3px;
+}
+@media (pointer: coarse) { .basta-selection-action { opacity: .8; min-width: 2.75rem; min-height: 2.75rem; } }

@@ -271,12 +271,6 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   background: var(--surface-background);
 }
 
-.basta-original-page figcaption {
-  border-bottom: 1px solid var(--border-colour);
-  padding: 0.75rem 1rem;
-  font-weight: 600;
-}
-
 .basta-original-page a {
   display: block;
   padding: 0.75rem;
@@ -291,26 +285,6 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 .basta-page-text {
   min-width: 0;
-}
-
-.basta-page-text-heading {
-  margin: 0 0 0.85rem;
-  border-bottom: 1px solid var(--border-colour);
-  padding-bottom: 0.65rem;
-  color: var(--secondary-text);
-  font-family:
-    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 0.9rem;
-  font-weight: 600;
-  line-height: 1.3;
-}
-
-.basta-page-urdu .basta-page-text-heading {
-  text-align: right;
-}
-
-.basta-page-roman .basta-page-text-heading {
-  text-align: left;
 }
 
 .basta-urdu-text {

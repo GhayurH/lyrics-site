@@ -6,3 +6,12 @@
 .saved-lyric-list { margin-top: 1rem; }
 .saved-empty { margin-top: 1rem; border: 1px dashed var(--border-colour); border-radius: 0.7rem; padding: 1rem; color: var(--secondary-text); }
 .saved-empty[hidden] { display: none; }
+
+.saved-local-list { display: grid; gap: .6rem; list-style: none; margin: 1rem 0; padding: 0; }
+.saved-local-list li { display: flex; gap: 1rem; align-items: center; justify-content: space-between; flex-wrap: wrap; border: 1px solid var(--border-colour); border-radius: .65rem; padding: .7rem .9rem; }
+.saved-local-list li a { font-weight: 700; text-underline-offset: .2em; }
+.saved-local-list li span { color: var(--secondary-text); font-size: .85rem; }
+.saved-local-list li button { min-height: 2.75rem; padding: .45rem .7rem; border: 1px solid var(--border-colour); border-radius: .55rem; background: var(--surface-background); color: var(--primary-text); cursor: pointer; }
+
+.saved-local-list li { border-radius: var(--ui-radius); }
+.saved-local-list li button { min-height: var(--ui-target); border-radius: var(--ui-radius); }
