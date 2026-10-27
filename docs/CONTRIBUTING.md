@@ -43,6 +43,17 @@ Every lyric entry uses an explicit `kalamType` for its broad classification. Do 
 
 To link a standalone kalam to its printed Basta edition, set both optional frontmatter fields: `bastaPage` (the printed page number) and `bastaNote` (`original-selection` or `additional-stanzas`). The lyric route renders the appropriate note beneath the reading panels. Keep these editorial cross-references out of the Urdu and Roman poetry text.
 
+### Permanent recitation source IDs
+
+Published standalone kalams and verified Basta stanzas may be referenced by
+shared Recitation Sets. Retain their existing `recitationId` when moving a
+Markdown file or renumbering a Basta index entry. Run
+`npm run recitation:ids:check` before committing source changes; for genuinely
+new published sources, run `npm run recitation:ids:sync` and review its
+lockfile diff. Never reuse an old ID for different text. See
+[Recitation Sets](RECITATION_SETS.md#data-and-source-integrity) for stanza
+anchor updates and retirement.
+
 ### Urdu and Roman lyrics
 
 When transcribing or correcting lyrics:
