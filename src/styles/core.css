@@ -212,6 +212,29 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 .reading-control-group { display: grid; gap: 0.35rem; }
 .reading-control-label { color: var(--secondary-text); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; }
 .reading-controls select { min-height: 2.25rem; border: 1px solid var(--border-colour); border-radius: 0.48rem; padding: 0.35rem 2rem 0.35rem 0.55rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: 0.82rem; }
+
+/* Desktop readers keep their controls in reach once the text scrolls past.
+   The header returns on upward scroll, pushing sticky controls below it.
+   Plain pages, no-JS reading, and Focus mode retain their normal layouts. */
+@media (min-width: 701px) {
+  html[data-js-available="true"]:not([data-reading-focus="true"]) .reading-controls {
+    position: sticky;
+    top: calc(var(--site-header-height, 4.8rem) + .5rem);
+    z-index: 15;
+    box-shadow: 0 .35rem 1.1rem rgb(0 0 0 / .12);
+    transition: top 180ms ease;
+  }
+  html[data-js-available="true"][data-desktop-reader-header-hidden="true"]:not([data-reading-focus="true"]) .reading-controls {
+    top: .5rem;
+  }
+  .site-header { transition: transform 180ms ease, visibility 180ms ease; }
+  html[data-desktop-reader-header-hidden="true"]:not([data-reading-focus="true"]) .site-header {
+    transform: translateY(calc(-100% - 2px));
+    visibility: hidden;
+    pointer-events: none;
+  }
+}
+
 @media (max-width: 700px) {
   /* Title, menu, and appearance are a single-height mobile toolbar. */
   .header-inner {
@@ -311,10 +334,13 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
   unicode-bidi: isolate;
 }
 
-/* JavaScript activates scrolling only for truly side-by-side reading panels;
-   CSS-only, single-column, and stacked layouts retain normal document flow. */
+/* JavaScript marks only genuinely side-by-side panels. Let shorter panels
+   keep their natural height; only the tallest gets a measured scroll viewport. */
 [data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-active="true"] {
-  height: clamp(18rem, 68vh, 46rem);
+  align-self: start;
+}
+[data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-scrollable="true"] {
+  box-sizing: border-box;
   min-height: 0;
   overflow-y: auto;
   scrollbar-width: thin;
