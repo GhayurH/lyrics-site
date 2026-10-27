@@ -281,7 +281,7 @@ Browser-local persistence should use `src/client/storage.ts` rather than parsing
 
 ### Reading controls
 
-Normal lyrics, all Basta reading views, and the Recitation Sets reader share `ReadingControls.astro` and `src/client/reader-state.ts`. On mobile the ordinary controls start collapsed, with a separate Options button; Focus mode continues to use its own Options controls. The site header hides on downscroll, returns on upscroll, and stays visible when the navigation menu is open. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
+Normal lyrics, all Basta reading views, and the Recitation Sets reader share `ReadingControls.astro` and `src/client/reader-state.ts`. Use the semantic sizing tokens in `core.css` rather than adding one-off sizes and corner radii for equivalent buttons, cards, and forms. On mobile the ordinary controls start collapsed, with a separate Options button; Focus mode continues to use its own Options controls. The site header hides on downscroll, returns on upscroll, and stays visible when the navigation menu is open. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
 
 `src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. Original scans remain centred and sticky when beside text; they are not synchronized as text scrollers. Stacked and single-language layouts remain in ordinary document flow.
 
@@ -321,18 +321,16 @@ Review the diff before committing. For asset changes, verify that the correspond
 
 For reader or responsive changes, run `npm run build` (which invokes `npm test` through `prebuild`), then install browser dependencies and run `npx playwright test`. GitHub Actions runs a focused Chromium `@smoke` suite on pushes to `main` and pull requests; run `npx playwright test` locally for the full Chromium browser suite. The fast CI tests check interactions and geometry rather than fetching remote R2 images or comparing screenshot baselines.
 
-Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, continuous-reader deep links and Contents, scan links/zoom, and Focus-mode exit. Local Astro preview does not implement Cloudflare Pages asset redirects. CI verifies the generated `_redirects` configuration rather than making external source-image availability requests.
+Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, continuous-reader deep links and Contents, scan links/zoom, and Focus-mode exit. Check browse/category pages and Recitation Sets at 320–390px portrait, narrow landscape, and tablet widths, and preserve text-only fallbacks when a scan is unavailable. Local Astro preview does not implement Cloudflare Pages asset redirects. CI verifies the generated `_redirects` configuration rather than making external source-image availability requests.
 
 Every poem verse must remain on one line, with no wrapping, horizontal scrolling, or manual text-size selector. Keep the functional mobile tests for standalone lyrics, page-by-page Basta, and the continuous reader.
+
+The image viewer alone permits two-axis zoom and drag-to-pan; centred images narrower than the viewport never require horizontal scrolling. Basta page/index top navigation stays inside `ReadingControls.astro` via its `navigation` slot, with no second bottom pager.
+
+Recitation printouts must embed the website's Nastaliq fonts, maintain bilingual stanza rows with `break-inside: avoid`, keep headings with their first stanza, and await `document.fonts.ready` before printing. Never reinstate whole-poem grids or unconditional per-kalam page breaks: PDF pagination is covered by a real browser export smoke test.
 
 ## Corrections and questions
 
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
-
-Keep Basta page/index top navigation in `ReadingControls.astro` via the `navigation` slot, without duplicating a separate top pager. The scan dialog alone permits both-axis zoom and drag-to-pan; narrower images stay centred with no horizontal overflow.
-
-Offline recitation printouts must bundle the site's Nastaliq faces instead of relying on system Naskh. Preserve text edition fonts, order, and offline operation; await font readiness before printing. Basta no longer has a second bottom pager.
-
-Print pagination: do not restore whole-poem Urdu/Roman grids or unconditional per-kalam page breaks in `recitation-export.ts`. Keep bilingual stanza rows with `break-inside: avoid` and keep each header with the first stanza. Browser smoke coverage generates a real PDF to detect excess pages.

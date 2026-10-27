@@ -198,8 +198,19 @@ test("responsive browse and builder panels keep accessible controls in either th
     await page.setViewportSize(viewport);
     for (const route of ["/", "/saved/", "/recite/"]) {
       await page.goto(route);
-      await expect.poll(() => page.evaluate(() =>
-        document.documentElement.scrollWidth - window.innerWidth)).toBeLessThanOrEqual(2);
+      await expect.poll(async () => {
+        const result = await page.evaluate(() => ({
+          overflow: document.documentElement.scrollWidth - innerWidth,
+          offenders: [...document.querySelectorAll<HTMLElement>("body *")]
+            .filter((element) => element.getBoundingClientRect().right > innerWidth + 3)
+            .slice(0, 5).map((element) => ({
+              className: typeof element.className === "string" ? element.className : element.tagName,
+              right: Math.round(element.getBoundingClientRect().right),
+            })),
+        }));
+        if (result.overflow > 2) console.log("Layout overflow", route, viewport, result);
+        return result.overflow;
+      }, {message: "No document-wide overflow on " + route + " at " + viewport.width + "px"}).toBeLessThanOrEqual(2);
     }
   }
   await page.goto("/");

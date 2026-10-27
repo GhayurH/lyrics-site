@@ -50,6 +50,7 @@ Route/feature styles are imported only where needed:
 - `about.css`
 - `saved.css`
 - `search.css`
+- `category.css` (category page collection groupings)
 - `lyrics.css`
 - `basta.css`
 - `basta-reader.css` (continuous reader and bilingual Basta index)
@@ -67,7 +68,7 @@ Do not recreate an override stack. If a rule only serves one route, put it with 
 
 `src/lib/catalog.ts` defines `LyricCardData`. `LyricCard.astro` is the server-rendered implementation used by browse/category pages. Saved/Recent necessarily creates its cards after reading local browser state, but `src/client/lyric-card.ts` uses the same data contract, classes, bookmark attributes, and icon constant.
 
-Any future card fields should be added to `LyricCardData` first.
+Any future card fields should be added to `LyricCardData` first. The homepage has an independent, small local continuation strip (`home-continue.ts`) that does not load lyric catalogs globally.
 
 ## Reader state
 
@@ -85,7 +86,7 @@ Basta kalam boundaries come from the explicit `---***---` marker in page Markdow
 ## Responsive and scan viewing contracts
 
 - Reading articles use `reader-shell` CSS containers; the edition grid chooses parallel/stacked at the usable 40rem threshold. The page-by-page Basta mobile-portrait exception always gives selected text editions full-width stacked rows. Keep page-specific typography in route CSS, not competing grid rules.
-- A Basta page without Roman text falls back to its scan when Roman is the only chosen edition and explains why. Image-only pages always retain a scan.
+- A Basta page without Roman text falls back to its scan when Roman is the only chosen edition and explains why; Recitation Sets use the same explicit fallback for missing Roman editions. The original-language text is never silently substituted. Image-only pages always retain a scan.
 - `BastaContinuousPage.astro` and `basta-stream.ts` must render the same scan links, unavailable-edition labels, edition sections, page numbers, and kalam boundaries. Add parity assertions when changing either path.
 - The index switches from two tables to accessible compact linked entries only at very narrow container widths; no content source is duplicated.
 - Reading history, reader preferences, and explicit Basta page bookmarks use distinct localStorage keys. None leaves the browser. The Saved page also lists local recitation programme drafts.
@@ -145,3 +146,9 @@ Page-by-page and linked-index Basta navigation is passed through the `navigation
 The Recitation Sets offline/print exporter embeds Noto Nastaliq Urdu regular/bold WOFF2 assets directly in generated HTML, permits only data fonts under its CSP, and prints after font readiness. It retains parallel editions, drops screen-only inline sizing, and excludes scans from offline output.
 
 Printed programmes use one bilingual grid row per stanza instead of full-height edition columns. Each row avoids page breaks, with kalam headings and notes grouped with their first stanza. Subsequent kalams flow into free space instead of forcing new sheets. The interactive reader is unchanged.
+
+## Discovery and responsive accessibility
+
+`home-continue.ts` reads only browser-local recent lyric IDs, Basta progress, and existing recitation drafts. Its section starts hidden in server HTML and appears only for recorded activity. Category pages group standalone and Basta sources separately; shared `LyricCardData` preserves the same title and metadata presentation. Search filters use a compact mobile disclosure and URL-synchronised active chips.
+
+`recitation-workflow.ts` provides the three-step builder navigation and only collapses optional metadata on mobile when an existing draft has no occasion or notes. It does not own drafts, remote publication, permissions, or live navigation; those remain in `recitation-builder.ts`. All public steps and navigation anchors work without this enhancement.
