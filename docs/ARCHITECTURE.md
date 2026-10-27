@@ -24,7 +24,9 @@ src/
 
 ## Styling and shared components
 
-`src/styles/core.css` owns tokens, resets, the shell, common controls, and the canonical lyric card. Route styles belong to their feature: `home.css`, `about.css`, `saved.css`, `search.css`, `category.css`, `lyrics.css`, `basta.css`, `basta-reader.css`, and `recitation.css`.
+`src/styles/tokens.css` is the sole source for shared theme colours, reading-column widths, type dimensions, common target sizes, and shapes. `core.css` imports those tokens and owns resets, the shell, common controls, and the canonical lyric card. Change semantic tokens, not copies of their numeric values, when updating multiple views. Route styles belong to their feature: `home.css`, `about.css`, `saved.css`, `search.css`, `category.css`, `lyrics.css`, `basta.css`, `basta-reader.css`, and `recitation.css`.
+
+The **46rem reader-shell stacking boundary** (and 46.01rem parallel boundary) is defined only in `reading-columns.css`; Recitation Sets and other readers must use those rules instead of separate 40rem/46rem overrides. Scans and index layouts can have their own explicitly documented cutoffs. CSS custom properties are not supported inside standard media or container query conditions, so breakpoints are kept in their owning stylesheet rather than pretending a token works in queries. JavaScript mobile defaults use `src/client/viewport.ts`, while `tests/design-tokens.test.mjs` checks that reader rules and the 700px mobile default remain aligned.
 
 Readers import the shared `reading-columns.css` (edition grids, container queries, and toolbar placement), `reading-focus.css` (Focus Mode), and `scan-viewer.css` (zoomable scans) through `ReadingControls.astro`. Do not add competing route-local edition grids or rebuild an override stack; consolidate CSS only when specificity, conditions, and cascade still agree. `basta.css` is the one shared Basta text stylesheet.
 
