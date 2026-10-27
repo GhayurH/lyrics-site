@@ -256,7 +256,7 @@ html[data-reading-focus="true"] .basta-reader-page { padding-block: .75rem; }
 html[data-reading-focus="true"][data-reading-toc-open="true"] .basta-reader-index {
   display: block; position: fixed; z-index: 95; inset: 3.5rem .75rem .75rem;
   overflow: auto; overscroll-behavior: contain; content-visibility: visible; border: 1px solid var(--border-colour);
-  border-radius: .75rem; padding: 1rem; background: var(--surface-background);
+  border-radius: var(--ui-radius-card); padding: 1rem; background: var(--surface-background);
 }
 html[data-reading-focus="true"] .reading-controls > .reading-contents-button { display: none; }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-contents-button { display: block; order: 3; pointer-events: auto; }
