@@ -39,7 +39,7 @@ Run:
 ```bash
 npm test
 npm run build
-npx playwright test  # after installing @playwright/test and Chromium
+npx playwright test --grep '@smoke'  # after installing Chromium; run full suite at milestones
 git diff --check
 git status --short
 ```

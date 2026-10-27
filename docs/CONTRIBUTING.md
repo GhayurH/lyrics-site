@@ -31,6 +31,10 @@ npm run preview
 
 `npm run build` runs the regression tests first via `prebuild`, then the Astro production build and Pagefind indexing.
 
+## Code and style maintenance
+
+Keep browser controllers in `src/client/`, shared source/data logic in `src/lib/`, and route-specific CSS beside its route. Shared reading controls and edition grids are owned by `ReadingControls.astro` and `src/styles/reading-columns.css`. Before removing an apparent CSS duplicate, compare selector specificity, media/container conditions, and cascade order. Use comments to explain non-obvious decisions rather than resolved work-in-progress; run fast Node tests and Chromium `@smoke` checks routinely, reserving the full suite for milestones.
+
 ## Content contribution rules
 
 ### Lyrics metadata
