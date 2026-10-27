@@ -31,3 +31,20 @@ The database saves set metadata and canonical poem/stanza references, not poem t
 A set permits 1–40 kalams, up to 120 explicitly numbered stanzas in a customized Marsiya, and safe-length notes. Unverified Basta boundaries remain unavailable for direct recitation until source verification. Existing standalone lyric URLs remain unchanged. The original archive remains the authoritative text source.
 
 Consider rate-limiting unauthenticated creation endpoints when public use increases.
+
+## Identity compatibility and future content updates
+
+Before publishing changes to source Markdown or the Basta index, run
+`npm run recitation:ids:check`. The production build enforces this same check.
+For newly published material, `npm run recitation:ids:sync` and commit the
+reviewed updated `src/data/recitation/identity-lock.json` alongside the source.
+A rename should preserve the original `recitationId`, not allocate another.
+A removed source must be marked `retired: true`, preserving its old ID.
+Changes to an existing stanza's opening verses require manually reviewing and
+updating its pinned anchor, keeping the stanza ID unchanged. This prevents
+another stanza from inheriting the wrong old reference.
+
+D1 requires no schema migration when new kalams are added, sources are corrected
+or existing sources are retired. Existing sets simply retain their references.
+Source text is always looked up from the latest published archive; unavailable
+references display warnings, and no hidden substitution occurs.
