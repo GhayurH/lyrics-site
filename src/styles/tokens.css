@@ -106,7 +106,7 @@ html[data-theme="custom"] {
   --header-background: var(--theme-secondary, var(--preset-sepia-surface));
   --primary-text: var(--theme-foreground, #25201c);
   --secondary-text: var(--theme-muted, #51443c);
-  --border-colour: color-mix(in srgb, var(--primary-text) 22%, var(--site-background));
+  --border-colour: var(--theme-border, color-mix(in srgb, var(--primary-text) 22%, var(--site-background)));
   --tag-background: color-mix(in srgb, var(--site-background) 75%, var(--primary-text));
   --accent-color: var(--theme-accent, var(--preset-sepia-accent));
   --button-text: var(--theme-accent-text, #ffffff);
