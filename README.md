@@ -207,3 +207,12 @@ To report a correction, suggest a lyric, or ask a question, contact the site own
 ---
 
 Preserving Urdu literature in searchable digital form.
+
+### Recitation source compatibility
+
+`npm run recitation:ids:check` validates permanent source and stanza identities
+before builds. For new published sources, run
+`npm run recitation:ids:sync` and commit the updated lockfile. For renamed
+Markdown, preserve `recitationId` in frontmatter; for renumbered Basta index
+entries, preserve `recitationId` there. See
+[Recitation source safeguards](docs/RECITATION_SETS.md#source-compatibility-safeguards).
