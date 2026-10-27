@@ -17,7 +17,7 @@ For complete migration commands, the preview-only legacy-record conversion, Cron
 
 Official guide: https://developers.cloudflare.com/pages/functions/bindings/#d1-databases
 
-Do not hand-write a Wrangler configuration that overrides your existing Pages project settings. Dashboard bindings work without committing database identifiers to the repository.
+The root `wrangler.toml` was exported from the existing live Pages dashboard with `npx wrangler pages download config lyrics-site`, then verified and committed. This is now the version-controlled source of truth for Pages runtime bindings and the `dist` build output. Top-level variables and D1 bindings target preview, while `[env.production]` overrides target production. Keep both environments correct when changing Pages bindings; redeploy after changing them. The separate cleanup Worker uses `workers/wrangler.cleanup.jsonc` and must never replace the root Pages config.
 
 ## Testing
 
