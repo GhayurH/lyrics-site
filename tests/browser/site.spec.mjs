@@ -1,7 +1,7 @@
 // File role: Cross-route functionality and narrow-screen layout checks (no image assertions).
 import { test, expect } from "@playwright/test";
 
-test("homepage categories link to their listings and Basta modes remain reachable", async ({ page }) => {
+test("homepage categories link to their listings and Basta modes remain reachable @smoke", async ({ page }) => {
   await page.goto("/");
   await expect(page.getByRole("heading", { name: "Kalam Archive", exact: true })).toBeVisible();
   const category = page.locator(".home-type-card").first();
@@ -26,7 +26,7 @@ test("Basta page jump opens the requested page", async ({ page }) => {
   await expect(page.locator("[data-reading-root]")).toBeVisible();
 });
 
-test("saving, revisiting, and clearing a lyric remains functional", async ({ page }) => {
+test("saving, revisiting, and clearing a lyric remains functional @smoke", async ({ page }) => {
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const button = page.locator(".lyric-header-actions [data-favorite-button]");
   await button.click();
@@ -38,7 +38,7 @@ test("saving, revisiting, and clearing a lyric remains functional", async ({ pag
   await expect(page.locator("#favorites-empty")).toBeVisible();
 });
 
-test("appearance persists across pages and search filters are accessible", async ({ page }) => {
+test("appearance persists across pages and search filters are accessible @smoke", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
@@ -51,7 +51,7 @@ test("appearance persists across pages and search filters are accessible", async
   await expect(page.locator(".search-secondary-filters")).toBeVisible();
 });
 
-test("core pages never create a viewport-wide horizontal scrollbar on phones", async ({ page }) => {
+test("core pages never create a viewport-wide horizontal scrollbar on phones @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   for (const route of ["/", "/search/", "/saved/", "/about/", "/basta/", "/basta/index/", "/basta/138/"]) {
     await page.goto(route, { waitUntil: "domcontentloaded" });

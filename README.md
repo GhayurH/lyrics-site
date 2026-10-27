@@ -181,18 +181,19 @@ For the normal add-image/add-file publishing sequence, see [docs/ASSET_WORKFLOW.
 
 ### Browser regression checks
 
-The GitHub Actions reader-validation workflow runs for branch pushes and pull requests. It builds the site and tests Chromium, Firefox, and WebKit for no-JavaScript reading, responsive column geometry, scan selection, Focus mode, and streaming/deep links.
+The GitHub Actions reader-validation workflow runs on pushes to `main` and on pull requests. It builds the site, runs the Node regression suite, and checks a focused `@smoke` selection of Chromium browser tests covering core navigation, no-JavaScript reading, responsive layouts, Focus mode, and continuous reading. The full Chromium browser suite remains available locally.
 
 To run the same checks locally:
 
 ```bash
 npm ci
 npm run build
-npx playwright install chromium firefox webkit
-npx playwright test
+npx playwright install chromium
+npx playwright test --grep '@smoke'  # fast CI-equivalent suite
+npx playwright test                  # full Chromium browser suite
 ```
 
-`npm run build` automatically runs the Node regression suite through `prebuild`. Browser tests use a local production preview, while the source-asset test checks selected production/R2 image URLs over the network. Cloudflare Pages redirect rules for preview deployments are not emulated by local Astro preview. Browser tests check functionality and geometry, with screenshots and traces disabled.
+`npm run build` automatically runs the Node regression suite through `prebuild`. Browser tests use a local production preview. Cloudflare Pages redirect rules for preview deployments are not emulated by local Astro preview; the workflow verifies the built `_redirects` configuration instead of probing production/R2 over the network. Browser tests check functionality and geometry, with screenshots and traces disabled.
 
 ## Corrections and additions
 

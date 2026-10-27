@@ -2,7 +2,7 @@
 // Assertions use bounding boxes and computed styles only; no screenshot testing.
 import { test, expect } from "@playwright/test";
 
-test("mobile header occupies one line with accessible menu and icon theme toggle", async ({ page }) => {
+test("mobile header occupies one line with accessible menu and icon theme toggle @smoke", async ({ page }) => {
   for (const width of [320, 342, 390, 430]) {
     await page.setViewportSize({ width, height: 844 });
     await page.goto("/basta/200/");
@@ -49,7 +49,7 @@ test("theme icon switches accessibly without placing text in the header", async 
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
 });
 
-test("selected Image Urdu Roman cells are entirely filled in every applicable reader", async ({ page }) => {
+test("selected Image Urdu Roman cells are entirely filled in every applicable reader @smoke", async ({ page }) => {
   for (const route of [
     "/lyrics/aa-asghar-bin-tere/",
     "/basta/200/",
@@ -86,7 +86,7 @@ test("selected Image Urdu Roman cells are entirely filled in every applicable re
   }
 });
 
-test("Basta page-by-page fills the full width of each stacked edition in mobile portrait", async ({ page }) => {
+test("Basta page-by-page fills the full width of each stacked edition in mobile portrait @smoke", async ({ page }) => {
   for (const width of [320, 342, 390, 600]) {
     await page.setViewportSize({ width, height: 850 });
     await page.goto("/basta/200/");

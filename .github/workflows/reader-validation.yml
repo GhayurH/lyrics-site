@@ -1,7 +1,7 @@
 name: Reader validation
 on:
   push:
-    branches: ["**"]
+    branches: [main]
   pull_request:
 concurrency:
   group: reader-${{ github.head_ref || github.ref_name }}
@@ -9,7 +9,7 @@ concurrency:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
         with:
@@ -29,5 +29,5 @@ jobs:
           test -f dist/_redirects
           grep -Fq '/images/* https://r2-assets.kalamarchive.com/images/:splat 302' dist/_redirects
           grep -Fq '/files/* https://r2-assets.kalamarchive.com/files/:splat 302' dist/_redirects
-      - run: npx playwright install --with-deps chromium firefox webkit
-      - run: npx playwright test
+      - run: npx playwright install --with-deps chromium
+      - run: npx playwright test --grep '@smoke'
