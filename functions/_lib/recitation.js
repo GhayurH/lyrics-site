@@ -7,6 +7,7 @@ export function validateDocument(value) {
   if (!value || typeof value !== "object" || Array.isArray(value) || value.version !== 1 ||
       !text(value.title, 120) || !value.title.trim() ||
       !text(value.occasion, 120) || !text(value.description, 1000) ||
+      (value.permanent !== undefined && typeof value.permanent !== "boolean") ||
       !Array.isArray(value.items) || !value.items.length || value.items.length > 40)
     throw Error("A title and 1–40 kalams are required");
   const seen = new Set();
@@ -41,7 +42,8 @@ export function validateDocument(value) {
       ...(stanzaSequence ? { stanzaSequence } : {}) };
   });
   return { version: 1, title: value.title.trim(), occasion: value.occasion.trim(),
-    description: value.description.trim(), items };
+    description: value.description.trim(),
+    ...(value.permanent ? { permanent: true } : {}), items };
 }
 export function json(value, status = 200) {
   return new Response(JSON.stringify(value), { status, headers: {
