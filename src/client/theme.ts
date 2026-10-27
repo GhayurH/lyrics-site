@@ -130,6 +130,15 @@ export function applyTheme(theme: ThemeName, palette: CustomPalette = readCustom
   if (theme === "custom") {
     const { accentText, scheme } = paletteForeground(palette);
     const { primary, muted, ratio } = paletteTextColors(palette);
+    // The Appearance dialog must stay readable even when the user manually
+    // chooses text colours with poor contrast against the selected surfaces.
+    const editorPalette = { ...palette, main: palette.secondary, secondary: palette.secondary,
+      primaryText: undefined, mutedText: undefined, borders: undefined };
+    const editor = paletteTextColors(editorPalette);
+    const editorScheme = paletteForeground(editorPalette).scheme;
+    root.style.setProperty("--theme-editor-text", editor.primary);
+    root.style.setProperty("--theme-editor-muted", editor.muted);
+    root.style.setProperty("--theme-editor-scheme", editorScheme);
     readability = ratio;
     root.style.setProperty("--theme-main", palette.main);
     root.style.setProperty("--theme-secondary", palette.secondary);
