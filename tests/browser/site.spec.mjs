@@ -144,7 +144,7 @@ test("both landing pages display the book cover", async ({ page }) => {
   await expect(page.locator(".basta-home-scan-caption")).toHaveText("Original book cover");
 });
 
-test("Saved page contains browser-local Basta and programme libraries @smoke", async ({ page }) => {
+test("Saved page contains browser-local Basta and programme libraries", async ({ page }) => {
   await page.goto("/saved/");
   await expect(page.locator("#basta-bookmarks-heading")).toBeAttached();
   await expect(page.locator("#recitation-drafts-heading")).toBeAttached();
@@ -152,7 +152,7 @@ test("Saved page contains browser-local Basta and programme libraries @smoke", a
   await expect(page.locator("#recitation-drafts-heading")).toBeHidden();
 });
 
-test("Basta bookmarks can be saved, revisited and removed from the Saved page @smoke", async ({ page }) => {
+test("Basta bookmarks can be saved, revisited and removed from the Saved page", async ({ page }) => {
   await page.goto("/basta/145/");
   const button = page.locator("[data-basta-bookmark]");
   await button.click();
@@ -175,7 +175,7 @@ test("mobile search keeps filters accessible without occupying the full page @sm
   await expect(filters).toHaveAttribute("open", "");
 });
 
-test("homepage continues local reading without showing an empty placeholder @smoke", async ({ page }) => {
+test("homepage continues local reading without showing an empty placeholder", async ({ page }) => {
   await page.goto("/");
   await expect(page.locator("#home-continue")).toBeHidden();
   await page.goto("/basta/138/");
@@ -199,7 +199,7 @@ test("category pages distinguish standalone poems and Basta selections @smoke", 
   if (await basta.count()) await expect(basta).toContainText("Basta");
 });
 
-test("responsive browse and builder panels keep accessible controls in either theme @smoke", async ({ page }) => {
+test("responsive browse and builder panels keep accessible controls in either theme", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "dark" });
   for (const viewport of [{width:320,height:700},{width:844,height:390},{width:768,height:1024}]) {
     await page.setViewportSize(viewport);
@@ -222,7 +222,7 @@ test("responsive browse and builder panels keep accessible controls in either th
   await expect(page.locator(".home-collection-card").first()).toHaveCSS("outline-style", "solid");
 });
 
-test("saved library has a separate kalam/stanza bookmark section @smoke", async ({ page }) => {
+test("saved library has a separate kalam/stanza bookmark section", async ({ page }) => {
   await page.goto("/saved/");
   await expect(page.locator("#basta-selections-heading")).toBeAttached();
   await expect(page.locator("#basta-selections-heading")).toBeHidden();
