@@ -43,3 +43,8 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
   .search-filter-disclosure .search-primary-filters { margin-top: 0; padding: 0 .75rem .75rem; }
   .search-filter-disclosure .search-more-filters { margin: .2rem .75rem .75rem; background: var(--site-background); }
 }
+
+/* Search shares the same control scale and focus treatment as other tools. */
+.search-filter-disclosure, .search-more-filters { border-radius: var(--ui-panel-radius); }
+.search-filter-disclosure > summary, .search-more-filters > summary { min-height: var(--ui-target); }
+.search-filter-chip { border-radius: var(--ui-radius); }

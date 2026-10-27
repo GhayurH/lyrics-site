@@ -12,3 +12,6 @@
 .saved-local-list li a { font-weight: 700; text-underline-offset: .2em; }
 .saved-local-list li span { color: var(--secondary-text); font-size: .85rem; }
 .saved-local-list li button { min-height: 2.75rem; padding: .45rem .7rem; border: 1px solid var(--border-colour); border-radius: .55rem; background: var(--surface-background); color: var(--primary-text); cursor: pointer; }
+
+.saved-local-list li { border-radius: var(--ui-radius); }
+.saved-local-list li button { min-height: var(--ui-target); border-radius: var(--ui-radius); }

@@ -2,6 +2,11 @@
 :root {
   --content-wide: 84rem;
   --content-reading: 76rem;
+  /* Shared shape, spacing, and target sizes across reader and discovery UI. */
+  --ui-target: 2.75rem;
+  --ui-radius: .6rem;
+  --ui-panel-radius: .8rem;
+  --ui-field-padding: .6rem .75rem;
   --focus-ring: 2px solid currentColor;
   font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.6;
@@ -191,7 +196,7 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 /* Canonical lyric cards used by browse, categories, Saved, and Recent. */
 .lyric-list { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 0.65rem; margin: 1.5rem 0 0; padding: 0; list-style: none; }
 .lyric-card { position: relative; flex: 0 1 auto; width: fit-content; max-width: min(100%, 28rem); min-width: 0; }
-.lyric-card-link { display: flex; flex-direction: column; width: fit-content; max-width: 100%; min-width: 0; gap: 0.12rem; overflow: hidden; border: 1px solid var(--border-colour); border-radius: 0.65rem; padding: 0.62rem 2.75rem 0.58rem 0.78rem; padding-inline-end: 3.15rem; background: var(--surface-background); text-decoration: none; }
+.lyric-card-link { display: flex; flex-direction: column; width: fit-content; max-width: 100%; min-width: 0; gap: 0.12rem; overflow: hidden; border: 1px solid var(--border-colour); border-radius: var(--ui-radius); padding: 0.62rem 2.75rem 0.58rem 0.78rem; padding-inline-end: 3.15rem; background: var(--surface-background); text-decoration: none; }
 .lyric-card-link:hover { background: var(--tag-background); }
 .lyric-card-unsaveable .lyric-card-link { padding-inline-end: 0.78rem; }
 .lyric-card-link:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
@@ -208,7 +213,7 @@ html[data-theme="light"] .theme-icon-moon { display: block; }
 .lyric-card-save svg { width: 0.92rem; height: 0.92rem; }
 
 /* Shared reader controls. Route styles own the reading content itself. */
-.reading-controls { display: flex; align-items: end; flex-wrap: wrap; gap: 0.8rem; margin: 0 0 1rem; border: 1px solid var(--border-colour); border-radius: 0.75rem; padding: 0.75rem; background: var(--surface-background); }
+.reading-controls { display: flex; align-items: end; flex-wrap: wrap; gap: 0.8rem; margin: 0 0 1rem; border: 1px solid var(--border-colour); border-radius: var(--ui-panel-radius); padding: 0.75rem; background: var(--surface-background); }
 .reading-control-group { display: grid; gap: 0.35rem; }
 .reading-control-label { color: var(--secondary-text); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; text-align: center; }
 .reading-controls select { min-height: 2.25rem; border: 1px solid var(--border-colour); border-radius: 0.48rem; padding: 0.35rem 2rem 0.35rem 0.55rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: 0.82rem; }
@@ -361,3 +366,24 @@ html[data-js-available="true"] [data-requires-js] { display: none !important; }
 :where(.button, .lyric-add-recitation, .basta-nav-button, .recite-steps a) { min-height: 2.75rem; }
 :where(button, a, input, select, textarea):focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 :where(button, input, select, textarea):disabled { cursor: not-allowed; }
+
+/* Keyboard visibility and neutral status treatment are the same across modes. */
+:where(.button, .text-button, .reading-focus-enter, .reading-focus-actions button, .recite-app :is(input,select,textarea), .search-filter-chip) {
+  border-radius: var(--ui-radius);
+}
+:where(.recite-app input, .recite-app select, .recite-app textarea, .reading-controls select) {
+  accent-color: var(--primary-text);
+}
+:where([aria-disabled="true"], :disabled) { cursor: not-allowed; }
+:where(a, button, input, select, textarea, summary):focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
+}
+/* The visible, intentionally selected surface is never communicated by colour alone. */
+.reading-column-choice input:checked + span { font-weight: 800; }
+:where(.home-collection-card,.home-type-card,.lyric-card-link,.recite-steps a) {
+  transition: background-color 150ms ease, border-color 150ms ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  :where(.home-collection-card,.home-type-card,.lyric-card-link,.recite-steps a) { transition: none; }
+}
