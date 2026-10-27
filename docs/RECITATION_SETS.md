@@ -1,7 +1,8 @@
-# Recitation sets — source data foundation
+# Recitation Sets — source model and programme editor
 
-This preparatory branch defines addressable individual Basta kalams and their
-**explicitly numbered** stanzas without changing any source Markdown.
+The source catalog defines individually addressable Basta kalams and numbered
+stanzas without modifying original Markdown. The Recite interface uses these
+identities to build ordered sets for reciters and anjumans.
 
 ## IDs and provenance
 
@@ -82,3 +83,13 @@ Example:
 Arrangements will be stored separately from canonical content. Editing,
 sharing, live programme navigation and account/database integration are
 **not** part of this preparatory change.
+
+## Recitation interface
+
+- /recite/ is a searchable set builder for published standalone lyrics and automatically verified Basta kalams. Unverified entries remain disabled pending the separate source scan review.
+- Drafts and editable, duplicated local sets are browser-local. Individual occurrences of a kalam are allowed and retain separate reciter notes.
+- Verified numbered Marsiya stanzas can be removed, reordered, repeated, or borrowed from other verified Marsiyas; each borrowing retains source provenance.
+- /recite/read/ offers continuous or one-at-a-time reading, Urdu/Roman/scan selections, Focus mode, verse fitting, and proportional scrolling per kalam. Participants scroll independently.
+- Published programmes have permanent read-only /r/{id} links. Private organizer links supply the edit token through a URL fragment. Publishing/editing uses Cloudflare Pages Functions and D1.
+
+See [deployment instructions](RECITATION_DEPLOYMENT.md) for the D1 migration/bindings, previews, and token-security model. Source verification is an independent workstream.
