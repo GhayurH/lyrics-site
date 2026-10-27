@@ -4,6 +4,11 @@ import { compareLyrics, getLyricKalamType } from "./lyrics";
 
 export type LyricEntry = CollectionEntry<"lyrics">;
 
+/** Display routes may change, but recitation references never depend on file moves. */
+export function recitationLyricId(lyric: LyricEntry): string {
+  return lyric.data.recitationId || lyric.id;
+}
+
 export async function loadPublishedLyrics(): Promise<LyricEntry[]> {
   return (
     await getCollection("lyrics", ({ data }) => data.published)

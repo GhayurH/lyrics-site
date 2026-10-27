@@ -1,0 +1,21 @@
+# Cloudflare Pages configuration for Kalam Archive. Keep production and preview
+# bindings separate; the scheduled cleanup Worker has its own configuration.
+name = "lyrics-site"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-07-28"
+
+[vars]
+RECITATION_RETENTION_MODE = "preview"
+
+[[d1_databases]]
+database_id = "05d9e1a2-b873-4ed3-a404-b62eaafe517d"
+binding = "RECITATION_DB"
+database_name = "kalam-recitation-sets-preview"
+
+[env.production.vars]
+RECITATION_RETENTION_MODE = "production"
+
+[[env.production.d1_databases]]
+database_id = "8eb972f8-6615-493f-8f96-2f2afa6f364c"
+binding = "RECITATION_DB"
+database_name = "kalam-recitation-sets"

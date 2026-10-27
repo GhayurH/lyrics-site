@@ -1,84 +1,178 @@
-# Recitation sets — source data foundation
+# Recitation Sets
 
-This preparatory branch defines addressable individual Basta kalams and their
-**explicitly numbered** stanzas without changing any source Markdown.
+Recitation Sets lets visitors assemble programmes of standalone kalams and
+verified Basta poems at `/recite/`. The reader at `/recite/read/` supports
+continuous or one-at-a-time presentation, Urdu, Roman Urdu, original scans,
+and Focus mode. Each programme may include repeated kalams, an occasion,
+reciter names, and notes. For structurally verified numbered Marsiyas,
+organizers can reorder, omit, repeat, or borrow numbered stanzas from other
+verified Marsiyas. Borrowed text retains its original source attribution.
 
-## IDs and provenance
+## Data and source integrity
 
-- A poem gets a stable ID from its original printed Basta index section and
-  index number, e.g. basta-marsiye-001. The display name is always the original
-  index name, not a newly guessed title.
-- A numbered stanza gets an ID scoped to its poem, e.g.
-  basta-marsiye-001 / stanza-003.
-- The Urdu text is authoritative. Roman is exposed for a stanza only when
-  the corresponding source contains matching numeral boundaries.
-- A poem may span multiple printed pages. Source pages are retained per
-  kalam and per stanza. Source prose, closing verses, and credit lines
-  remain unchanged.
-- Only isolated printed numerals are treated as stanza boundaries. Blank lines
-  or arbitrary visual breaks do not create artificial stanza IDs.
-- Poems without printed numbers can be selected as whole kalams; they are not
-  automatically broken into rearrangeable stanzas.
+The archive's Markdown and scanned pages remain the authoritative sources.
+Programmes contain IDs, stanza references, and organizer metadata, **not**
+copies of their source poetry or scan files.
 
-## Static data API
+- `/data/basta-kalams.json` lists indexed kalams, source pages, availability,
+  and verified stanza counts. `/data/basta-kalams/{id}.json` supplies each
+  verified poem and its source pages.
+- `/data/recitation-lyric-catalog.json` and
+  `/data/recitation-lyrics/{id}.json` expose published standalone kalams.
+- Original Markdown and published archive URLs are not rewritten to generate
+  a programme. The `Mazameen` section is not part of the poetry catalog.
+- Ambiguous Basta page boundaries are marked for review and cannot be
+  selected as independent verified poems. The Basta audit reports these
+  boundaries without guessing their text.
 
-- /data/basta-kalams.json — names, IDs, source pages, availability and number
-  of verified stanza units. This metadata index is intentionally small.
-- /data/basta-kalams/{id}.json — source text and numbered stanza units, emitted
-  only for poems whose mapping passed automatic structural checks.
+The tracked `src/data/recitation/identity-lock.json` reserves permanent IDs
+for standalone lyrics, indexed Basta kalams, and verified numbered stanzas.
+Stanza identity uses a normalized fingerprint of its opening two source
+verses, independent of the number printed in the book. Source corrections
+are reflected when the website is redeployed, provided the identity remains
+valid.
 
-Both are built from existing Astro collections. No duplicated transcription
-and no per-request server process are required.
+Use these maintenance commands before publishing archive changes:
 
-## Source reconciliation
+```bash
+npm run recitation:ids:check
+npm run recitation:ids:sync    # Only when adding new published IDs/stanzas
+npm run basta:kalams:audit    # Inspect uncertain Basta boundaries
+```
 
-The printed index, page boundaries, and ---***--- markers are distinct things.
-An index entry can span several pages, and some pages contain unindexed
-fragments. We intentionally avoid mapping an ambiguous fragment to a poem.
+Review changes to the lockfile and commit them with the corresponding archive
+source updates. For a renamed standalone Markdown file, keep its published
+`recitationId` in frontmatter; for a renumbered/reclassified Basta index
+entry, retain `recitationId` on that entry. When the opening verses of a
+known stanza are substantially corrected, **review** the source and update
+its pinned anchor without changing the published stanza ID. Explicitly
+retire removed IDs by adding `retired: true` to their registry entries,
+never reassigning them to new text. The build checks this registry.
 
-Run:
+If a set contains a missing source or stanza, its position, reference, and
+saved label are retained. The reader warns the visitor rather than silently
+substituting different poetry. The organizer is warned before publishing a
+set with unresolved references.
 
-    npm run basta:kalams:audit
+## Drafts, sharing, and authorization
 
-For a full machine-readable review list:
+Drafts live in the organizer's browser storage (up to 30 drafts on that
+device) and can be duplicated or removed without contacting the server.
+Publishing stores a programme in D1 and issues:
 
-    npm run basta:kalams:audit -- --json
+- A public, read-only `/r/{id}` URL. Anyone holding it may read the
+  programme while it remains published and unexpired.
+- A private organizer `/recite/?set={id}#edit={token}` URL. Possession of
+  this token permits updating or deleting the published programme. There
+  are no user accounts, individual editor roles, or token recovery.
 
-For strict verification of *every* source boundary:
+The D1 record stores the SHA-256 token digest, not its plaintext token.
+The organizer's browser retains its copy of the token locally. Do not
+share edit links publicly. Deleting a local draft does **not** delete
+the published record; the separate **Delete published set permanently**
+action requires the private token.
 
-    npm run basta:kalams:audit -- --strict
+Cloudflare Pages Functions implement `POST /api/recitation-sets`,
+`GET/PUT/DELETE /api/recitation-sets/{id}`, and `GET /r/{id}`.
+`public/_routes.json` limits Pages Functions invocations to these
+endpoints, keeping other website routes and R2-backed assets static.
+Requests without a D1 binding return 503; local drafts still work.
 
-The audit reports poems requiring review, unmatched fragments, and source
-Roman/Urdu segmentation mismatches. It does **not** silently repair OCR or
-alter index entries. Manually resolve ambiguous fragments against original
-scans before considering them verified. Page 140 has an explicitly documented
-mapping because the source contains additional unindexed excerpts; the
-independent unindexed excerpt remains in the audit.
+## Retention and abuse prevention
 
-The index contains separate articles that are not poetry; the recitation
-catalog excludes the Mazameen section. Source review is a distinct phase
-from implementing the reciter interface.
+| Environment | Automatic expiry | Permanent preservation |
+| --- | --- | --- |
+| Production | 24 calendar months from publication or last authorized edit | Optional checkbox; no automatic expiry while selected |
+| Preview | 30 days from publication or last edit | Not supported; preview sets always expire |
 
-## Arrangement model
+Authorized updates renew expiry. Reading a programme does not renew it.
+Expired records return HTTP 410 until removed by cleanup, then 404.
+Private-token deletion revokes a published set immediately. Original
+poetry and scans are unaffected.
 
-A future recitation set stores an ordered list of poem references. A
-Marsiya selection can optionally provide an ordered stanzaSequence consisting
-of { kalamId, stanzaId } pairs. These pairs may point to verified stanzas
-from *other* Marsiyas. The sequence may repeat stanzas; neither the origin
-nor the text is changed. A rendered borrowed stanza includes its original
-poem ID and name for proper attribution.
+New shared sets are limited to **10 creations per hour per visitor IP**.
+The hourly throttle stores only hashed keys in D1 and returns HTTP 429
+with `Retry-After` when exceeded; reads and authorized edits are not
+subject to this creation limit. An optional encrypted Pages secret named
+`RECITATION_RATE_LIMIT_SECRET` protects hashes against offline guessing.
+A Cloudflare WAF rule can provide additional defense against distributed
+abuse.
 
-Example:
+## Cloudflare resources and configuration
 
-    {
-      "kalamId": "basta-marsiye-001",
-      "stanzaSequence": [
-        {"kalamId": "basta-marsiye-001", "stanzaId": "stanza-003"},
-        {"kalamId": "basta-marsiye-002", "stanzaId": "stanza-001"},
-        {"kalamId": "basta-marsiye-001", "stanzaId": "stanza-001"}
-      ]
-    }
+The repository contains two independent deployment configurations:
 
-Arrangements will be stored separately from canonical content. Editing,
-sharing, live programme navigation and account/database integration are
-**not** part of this preparatory change.
+| File | Deployment |
+| --- | --- |
+| Root `wrangler.toml` | `lyrics-site` Cloudflare Pages; Astro output `dist`, production/preview bindings |
+| `workers/wrangler.cleanup.jsonc` | `kalam-recitation-cleanup` scheduled Worker and its two D1 bindings |
+
+Pages environment variables and bindings are:
+
+| Environment | `RECITATION_DB` database | `RECITATION_RETENTION_MODE` |
+| --- | --- | --- |
+| Production | `kalam-recitation-sets` | `production` |
+| Preview | `kalam-recitation-sets-preview` | `preview` |
+
+Pages is built and deployed using the root configuration. The cleanup
+Worker is deployed independently from the repository root:
+
+```bash
+npx wrangler deploy --config workers/wrangler.cleanup.jsonc
+```
+
+Its Cron Trigger is `0 3 * * *` (03:00 UTC every day). Its bindings
+`PRODUCTION_RECITATION_DB` and `PREVIEW_RECITATION_DB` point to the
+respective D1 databases. Its HTTP handler returns 404; no public
+administration route exists.
+
+The Worker deletes expired sets and rate-limit buckets in bounded daily
+batches and records counts and estimated document bytes in
+`recitation_maintenance_metrics` (90-day history). Permanent production
+sets are excluded from scheduled expiry. Inspect scheduled runs and
+errors in Workers Observability. Inspect daily D1 statistics with:
+
+```sql
+SELECT day, sets_total, sets_permanent, sets_expired_pending,
+       document_bytes_estimate, deleted_sets
+FROM recitation_maintenance_metrics
+ORDER BY day DESC LIMIT 30;
+```
+
+Estimated document bytes exclude D1's indexes and SQLite overhead;
+Cloudflare D1 reports actual allocated database size.
+
+### Creating a new database
+
+The **current complete schema**, for a new empty database, is
+`schema/recitation.sql`:
+
+```bash
+npx wrangler d1 execute NEW_DATABASE_NAME --remote --file=schema/recitation.sql
+```
+
+The existing production and preview D1 databases already have this schema.
+**Do not reinitialize either existing database.** For subsequent schema
+changes, write and review an incremental migration against existing data
+instead of replaying the new-database schema. Archive source additions and
+corrections do not require D1 schema changes.
+
+## Development and checks
+
+```bash
+npm ci
+npm run build                         # Runs Node tests and ID validation
+npx playwright install chromium
+npx playwright test --grep '@smoke'    # CI-equivalent browser suite
+```
+
+Astro's local preview does not emulate Cloudflare Pages Functions or R2
+redirects. Verify public publishing/editing/deletion through a bound Pages
+deployment. The browser tests exercise local drafts and mock remote
+publishing; Node tests cover validation, token permissions, expiry,
+throttling, and cleanup. The regular CI workflow checks generated
+`_routes.json` and `_redirects` rather than fetching R2 assets.
+
+A verification audit of ambiguous printed Basta fragments remains part
+of routine source preservation; these fragments are not silently
+represented as verified independent poems.

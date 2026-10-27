@@ -37,6 +37,7 @@ Browser code lives here rather than in a generic `scripts/` directory. This prev
 - `verse-fitting.ts` automatically fits each stanza/couplet to the available width, including extra-long verses, keeping all verses single-line without horizontal scrolling. The width calculation is in `src/lib/verse-fit.ts`; there is no minimum-font overflow or selectable text size.
 - `reading-progress.ts` records the current Basta page and within-page fraction locally and populates resume/current-page links. Continuous tracking observes nearby pages rather than traversing all loaded pages on every scroll.
 - `scan-viewer.ts` provides an accessible image dialog and preserves native image links when scripting is unavailable.
+- `recitation-builder.ts` manages browser-local draft programmes, verified stanza arrangements, and authenticated publication; `recitation-reader.ts` renders referenced source kalams without altering the archive. `recitation-storage.ts` owns the local draft key.
 
 ### CSS ownership
 
@@ -51,6 +52,7 @@ Route/feature styles are imported only where needed:
 - `lyrics.css`
 - `basta.css`
 - `basta-reader.css` (continuous reader and bilingual Basta index)
+- `recitation.css` (Recitation Sets builder and reader)
 
 Shared reader features load through `ReadingControls.astro`, not every page:
 
@@ -100,6 +102,24 @@ The continuous reader no longer serializes the entire book into its initial HTML
 
 Keep chunk size conservative. Larger chunks reduce requests but increase parse/render bursts; smaller chunks do the opposite.
 
+## Recitation Sets and Cloudflare boundaries
+
+Recitation Sets is a progressive feature: `/recite/` stores drafts in browser
+localStorage; the reader uses static JSON endpoints for original source text
+and scans. The permanent source ID registry is checked during builds. Published
+programme metadata and private edit-token hashes use Cloudflare D1, not
+Markdown or R2; expiry, deletion, and creation throttling are handled by
+Pages Functions under `functions/`.
+
+`public/_routes.json` restricts Pages Functions to Recitation Set API routes
+and `/r/*` short links. Static pages and R2-backed assets remain outside
+Functions. The root `wrangler.toml` defines `lyrics-site` Pages settings,
+with separate preview and production D1 bindings. The standalone cleanup
+Worker lives in `workers/` and uses its own `wrangler.cleanup.jsonc`
+configuration and daily Cron Trigger. The authoritative D1 creation schema
+is `schema/recitation.sql`; application-specific operations and retention
+are documented in [Recitation Sets](RECITATION_SETS.md).
+
 ## Performance rules
 
 - Pagefind JavaScript/CSS is loaded only on `/search/`.
@@ -111,7 +131,7 @@ Keep chunk size conservative. Larger chunks reduce requests but increase parse/r
 
 ## Validation
 
-`npm test` runs the Node regression suite; `prebuild` runs it again before each production build. The tests cover text parsing, stanza boundaries, proportional scrolling, and verse-fitting math. `.github/workflows/reader-validation.yml` additionally executes a production build and Playwright tests in Chromium, Firefox, and WebKit, including no-JavaScript rendering, portrait/landscape geometry, Focus mode, streaming, image zoom, resume, and remote-source availability. Browser validation checks element geometry and interactions rather than taking or comparing screenshots.
+`npm test` runs the Node regression suite, including source-ID checks, D1 permission and retention tests, Basta stanza boundaries, scrolling, and verse-fitting math. The `prebuild` hook runs Node tests and recitation identity validation before the Astro/Pagefind build. `.github/workflows/reader-validation.yml` builds the site, checks Cloudflare routing files, and runs focused Chromium `@smoke` tests for the core readers and Recitation Sets. The complete Chromium suite remains available locally; CI avoids remote R2 availability probes and screenshot comparisons.
 
 ## Repository hygiene
 

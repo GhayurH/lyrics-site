@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kalam-recitation-cleanup",
+  "main": "./recitation-cleanup.js",
+  "compatibility_date": "2026-10-27",
+  "workers_dev": false,
+  "preview_urls": false,
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  },
+  "triggers": { "crons": ["0 3 * * *"] },
+  "d1_databases": [
+    {
+      "binding": "PRODUCTION_RECITATION_DB",
+      "database_name": "kalam-recitation-sets",
+      "database_id": "8eb972f8-6615-493f-8f96-2f2afa6f364c"
+    },
+    {
+      "binding": "PREVIEW_RECITATION_DB",
+      "database_name": "kalam-recitation-sets-preview",
+      "database_id": "05d9e1a2-b873-4ed3-a404-b62eaafe517d"
+    }
+  ]
+}

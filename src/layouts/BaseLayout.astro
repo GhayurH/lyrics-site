@@ -25,6 +25,7 @@ const browseActive =
 const bastaActive = path.startsWith("/basta/");
 const searchActive = path.startsWith("/search/");
 const savedActive = path.startsWith("/saved/");
+const reciteActive = path.startsWith("/recite/");
 const aboutActive = path.startsWith("/about/");
 ---
 
@@ -83,6 +84,7 @@ const aboutActive = path.startsWith("/about/");
             <a href="/" aria-current={browseActive ? "page" : undefined}>Browse</a>
             <a href="/basta/" aria-current={bastaActive ? "page" : undefined}>Basta</a>
             <a href="/search/" aria-current={searchActive ? "page" : undefined}>Search</a>
+            <a href="/recite/" aria-current={reciteActive ? "page" : undefined}>Recite</a>
             <a href="/saved/" aria-current={savedActive ? "page" : undefined}>Saved</a>
             <a href="/about/" aria-current={aboutActive ? "page" : undefined}>About / Contact</a>
           </nav>
@@ -122,6 +124,7 @@ const aboutActive = path.startsWith("/about/");
           <a href="/">Browse</a>
           <a href="/basta/">Basta</a>
           <a href="/search/">Search</a>
+          <a href="/recite/">Recite</a>
           <a href="/saved/">Saved &amp; recent</a>
           <a href="/about/">About / Contact</a>
         </nav>

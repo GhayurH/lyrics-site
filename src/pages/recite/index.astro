@@ -1,0 +1,97 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import "../../styles/recitation.css";
+---
+<BaseLayout title="Recitation sets | Kalam Archive" description="Build and share an ordered programme of kalams, including custom Marsiya stanzas.">
+  <article class="recite-app" id="recite-app" data-pagefind-ignore inert>
+    <header class="page-header-simple">
+      <p class="eyebrow">For reciters &amp; anjumans</p>
+      <h1>Recitation Sets</h1>
+      <p>Arrange kalams for your programme, customize numbered Marsiya stanzas, and share one link with the entire group.</p>
+    </header>
+    <p data-requires-js>Building recitation sets requires JavaScript. The <a href="/search/">public poetry archive</a> remains available without it.</p>
+    <p class="recite-message" id="recite-message" role="status" aria-live="polite"></p>
+    <div class="recite-topbar">
+      <label for="recite-drafts">Your sets <select id="recite-drafts" aria-label="Choose a locally saved set"></select></label>
+      <button type="button" id="recite-new" class="button button-secondary">New set</button>
+      <button type="button" id="recite-duplicate" class="button button-secondary">Duplicate</button>
+      <button type="button" id="recite-delete" class="button button-secondary">Delete local copy</button>
+    </div>
+    <div class="recite-builder">
+      <section class="recite-panel recite-details" aria-labelledby="recite-details-heading">
+        <h2 id="recite-details-heading">Programme details</h2>
+        <label>Title <input id="recite-title" maxlength="120" placeholder="e.g. Muharram — 8th Night" required /></label>
+        <label>Occasion <input id="recite-occasion" maxlength="120" placeholder="Optional" /></label>
+        <label>Description <textarea id="recite-description" rows="2" maxlength="1000" placeholder="Optional programme notes"></textarea></label>
+        <p class="recite-hint">Changes to a draft are saved on this device. Publishing is a separate action.</p>
+      </section>
+      <section class="recite-panel recite-programme" aria-labelledby="recite-programme-heading">
+        <div class="recite-section-heading">
+          <div><h2 id="recite-programme-heading">Programme order</h2><p id="recite-count" class="recite-hint"></p></div>
+          <a id="recite-open-reader" class="button button-secondary" href="/recite/read/" aria-label="Open recitation reader">Read set</a>
+        </div>
+        <ol id="recite-sequence" class="recite-list"></ol>
+        <p id="recite-empty" class="recite-hint">No kalams added. Search the archive below and add them in recitation order.</p>
+        <p class="recite-hint">Drag rows to reorder, or use the arrow buttons. A kalam may appear more than once.</p>
+      </section>
+    </div>
+    <section class="recite-panel recite-find" aria-labelledby="recite-find-heading">
+      <h2 id="recite-find-heading">Find and add kalam</h2>
+      <div class="recite-search-row">
+        <label for="recite-search">Search titles in Urdu or Roman Urdu
+          <input id="recite-search" type="search" placeholder="Kalam title…" autocomplete="off" />
+        </label>
+        <label for="recite-source">Collection
+          <select id="recite-source"><option value="all">Both archives</option><option value="lyric">Standalone lyrics</option><option value="basta">Basta</option></select>
+        </label>
+      </div>
+      <p class="recite-hint">Basta entries awaiting source verification are listed but cannot yet be added to a recitation.</p>
+      <ul class="recite-results" id="recite-results"></ul>
+      <button id="recite-more" class="button button-secondary" type="button" hidden>Show more results</button>
+    </section>
+    <section id="recite-arrangement" class="recite-panel recite-arrangement" aria-labelledby="recite-arrangement-heading" hidden>
+      <div class="recite-section-heading">
+        <div><h2 id="recite-arrangement-heading">Arrange Marsiya stanzas</h2><p id="recite-arrangement-title" class="recite-hint"></p></div>
+        <button id="recite-arrangement-close" type="button" class="button button-secondary">Close</button>
+      </div>
+      <p class="recite-hint">These changes affect only this programme. Borrowed stanzas retain their original source.</p>
+      <ol id="recite-stanzas" class="recite-list"></ol>
+      <div class="recite-stanza-add">
+        <label for="recite-borrow-kalam">Borrow from a Marsiya
+          <select id="recite-borrow-kalam"></select>
+        </label>
+        <label for="recite-borrow-stanza">Stanza
+          <select id="recite-borrow-stanza"></select>
+        </label>
+        <button id="recite-borrow-add" class="button" type="button">Add stanza</button>
+        <button id="recite-stanza-original" class="button button-secondary" type="button">Restore original</button>
+      </div>
+    </section>
+    <section class="recite-panel recite-share" aria-labelledby="recite-share-heading">
+      <h2 id="recite-share-heading">Share your programme</h2>
+      <p class="recite-hint">Publishing stores the programme order and stanza references in Cloudflare D1. Poetry text remains in the archive. Public links are read-only.</p>
+      <label class="recite-retention-option">
+        <input type="checkbox" id="recite-permanent" />
+        Preserve this published programme permanently
+      </label>
+      <p class="recite-hint">Otherwise, production links expire 24 months after the last publication or edit. Updating renews the period. Preview/test links expire after 30 days regardless of this setting.</p>
+      <div class="recite-actions">
+        <button id="recite-publish" class="button" type="button">Publish set</button>
+        <span class="recite-hint" id="recite-publish-state"></span>
+      </div>
+      <p id="recite-expiration" class="recite-hint" aria-live="polite"></p>
+      <div id="recite-shared-links" class="recite-shared-links" hidden>
+        <label>Public recitation link <input id="recite-public-url" type="text" readonly /></label>
+        <button id="recite-copy-public" class="button button-secondary" type="button">Copy public link</button>
+        <label>Private organizer edit link <input id="recite-edit-url" type="text" readonly /></label>
+        <button id="recite-copy-edit" class="button button-secondary" type="button">Copy private edit link</button>
+        <p class="recite-hint">Keep the private edit link secure. Anyone with it can change or delete the published programme. Links stay the same after updates.</p>
+        <button type="button" id="recite-delete-published" class="button button-danger" hidden>Delete published set permanently</button>
+      </div>
+    </section>
+  </article>
+  <script>
+    import { initRecitationBuilder } from "../../client/recitation-builder";
+    void initRecitationBuilder();
+  </script>
+</BaseLayout>

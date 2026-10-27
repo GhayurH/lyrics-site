@@ -29,5 +29,7 @@ jobs:
           test -f dist/_redirects
           grep -Fq '/images/* https://r2-assets.kalamarchive.com/images/:splat 302' dist/_redirects
           grep -Fq '/files/* https://r2-assets.kalamarchive.com/files/:splat 302' dist/_redirects
+          test -f dist/_routes.json
+          node --input-type=module -e "import { readFileSync } from 'node:fs'; const routes=JSON.parse(readFileSync('dist/_routes.json','utf8')); for (const path of ['/api/recitation-sets','/api/recitation-sets/*','/r/*']) if (!routes.include.includes(path)) throw Error('Missing Pages Function route: '+path); if (routes.include.includes('/*')) throw Error('Unexpected all-static Function invocation');"
       - run: npx playwright install --with-deps chromium
       - run: npx playwright test --grep '@smoke'

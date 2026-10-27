@@ -4,6 +4,8 @@
 import { parseStanzaNumber } from "./stanza-numbers.ts";
 
 export interface BastaKalamIndex {
+  /** Permanent override when the printed section/number changes. */
+  recitationId?: string;
   section?: string;
   sectionRoman?: string;
   number?: number;
@@ -58,6 +60,11 @@ export interface BastaKalamAudit {
 }
 
 export function bastaKalamId(entry: BastaKalamIndex): string {
+  if (entry.recitationId) {
+    if (!/^basta-[a-z0-9-]+$/.test(entry.recitationId))
+      throw new Error("Invalid permanent Basta ID: " + entry.recitationId);
+    return entry.recitationId;
+  }
   const section = (entry.sectionRoman || entry.section || "unknown")
     .toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   if (!Number.isSafeInteger(entry.number) || !entry.number || entry.number < 1)

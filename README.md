@@ -29,9 +29,21 @@ The aim is preservation rather than modernization: source wording, stanza struct
 
 For content conventions, correction rules, and the workflow for adding or updating material, see [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
-### Recitation-set groundwork (development branch)
+### Recitation Sets
 
-Individual Basta kalams now have stable IDs derived from the printed index. Explicitly numbered stanzas are addressable without rewriting the source, allowing future recitation sets to reorder and borrow verified Marsiya stanzas. Uncertain page-to-index mappings remain flagged for manual review. See [Recitation-set source model](docs/RECITATION_SETS.md) and run `npm run basta:kalams:audit` for the remaining verification workload. No new recitation interface is live yet.
+The [Recitation Sets builder](https://kalamarchive.com/recite/) lets organizers assemble kalam
+programmes from standalone lyrics and verified Basta poems. Numbered Marsiya
+stanzas can be rearranged or borrowed from other verified Marsiyas without
+changing the archive text. Programmes can be read in Urdu, Roman Urdu, or with
+original source scans, and shared through a read-only link. Local drafts
+remain in the organizer's browser; published programmes use Cloudflare D1.
+A private edit link permits updates and deletion. Production sets expire
+after 24 months without an edit unless explicitly preserved permanently;
+preview sets expire after 30 days.
+
+See [Recitation Sets](docs/RECITATION_SETS.md) for source-ID maintenance,
+security, retention, the D1 schema, Cloudflare deployment configuration,
+and testing.
 
 ## Technology
 
