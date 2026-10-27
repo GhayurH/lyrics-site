@@ -29,6 +29,10 @@ export interface BastaStanza {
   roman?: string;
   pages: number[];
 }
+export interface BastaResolvedStanza extends BastaStanza {
+  sourceKalamId: string;
+  sourceKalamName: string;
+}
 export interface BastaKalam {
   id: string;
   name: string;
@@ -226,8 +230,11 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
       const firstLine = urduPieces[position].trim().split("\n").find((line) => line.trim()) || "";
       const initialNumber = normalizePrintedStanzaNumber(firstLine);
       if (initialNumber !== null && initialNumber > 1 &&
-          !likelyTitle(urduPieces[position], item.entry.name))
+          !likelyTitle(urduPieces[position], item.entry.name)) {
         item.issues.push("Suspicious continuation at page " + page.page);
+        if (previous && previous !== item)
+          previous.issues.push("Possible unassigned continuation at page " + page.page);
+      }
       item.parts.push(fragment(position));
       assigned.add(position);
       previous = item;
@@ -237,6 +244,15 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
         orphans.push({ page: page.page, part: i + 1,
           opening: urduPieces[i].split("\n").find((line) => Boolean(line.trim())) || "" });
       }
+    }
+    const lastAssigned = Math.max(-1, ...assigned);
+    if (previous && urduPieces.some((_, index) => index > lastAssigned && !assigned.has(index))) {
+      previous.issues.push("Unindexed material follows this poem on page " + page.page);
+      previous = undefined;
+    }
+    if (previous && !starts.length && continuation === -1) {
+      previous.issues.push("Unmapped continuation on page " + page.page);
+      previous = undefined;
     }
     if (!romanMatches && page.roman && (starts.length || continuation !== -1))
       issues.push("Roman source fragment count differs on page " + page.page);
@@ -270,11 +286,13 @@ export interface RecitationKalamArrangement {
 }
 export function resolveStanzaSequence(
   arrangement: RecitationKalamArrangement, catalog: BastaKalam[],
-): BastaStanza[] {
+): BastaResolvedStanza[] {
   const byId = new Map(catalog.map((poem) => [poem.id, poem]));
   const original = byId.get(arrangement.kalamId);
   if (!original || original.status !== "ready") throw new Error("Kalam not verified");
-  if (!arrangement.stanzaSequence) return original.stanzas;
+  if (!arrangement.stanzaSequence) return original.stanzas.map((stanza) => ({ ...stanza,
+    sourceKalamId: original.id, sourceKalamName: original.name }));
+  if (original.sectionRoman !== "Marsiye") throw new Error("Custom stanza sequences require a Marsiya");
   if (arrangement.stanzaSequence.length > 120) throw new Error("Too many stanzas in arrangement");
   return arrangement.stanzaSequence.map((reference) => {
     const poem = byId.get(reference.kalamId);
@@ -282,6 +300,6 @@ export function resolveStanzaSequence(
       throw new Error("Only verified Marsiya stanzas may be inserted");
     const stanza = poem.stanzas.find((item) => item.id === reference.stanzaId);
     if (!stanza) throw new Error("Unknown stanza: " + reference.stanzaId);
-    return stanza;
+    return { ...stanza, sourceKalamId: poem.id, sourceKalamName: poem.name };
   });
 }
