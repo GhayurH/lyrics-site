@@ -70,3 +70,21 @@ test("shared minimum tap targets do not regress to local measurements", () => {
       file + " needs var(--ui-target) rather than a duplicate");
   }
 });
+
+test("all referenced shared reading tokens resolve, including spacing presets", () => {
+  const declared = new Set([...tokens.matchAll(/(--reading-[\\w-]+):/g)].map((match) => match[1]));
+  for (const [file, source] of Object.entries(css)) {
+    for (const [, variable] of source.matchAll(/var\\((--reading-[\\w-]+)/g)) {
+      assert(declared.has(variable), file + " references undefined " + variable);
+    }
+  }
+  for (const [file, prefix] of [["basta.css", "basta-page"], ["basta-reader.css", "basta"]]) {
+    for (const mode of ["compact", "relaxed"]) {
+      for (const language of ["urdu", "roman"]) {
+        assert.match(css[file], new RegExp("--" + prefix + "-" + language
+          + "-leading: var\\(--reading-" + language + "-leading-" + mode + "\\)"),
+          file + " must preserve the " + mode + " " + language + " line spacing");
+      }
+    }
+  }
+});
