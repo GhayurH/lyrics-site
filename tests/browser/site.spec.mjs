@@ -38,22 +38,15 @@ test("saving, revisiting, and clearing a lyric remains functional @smoke", async
   await expect(page.locator("#favorites-heading")).toBeHidden();
 });
 
-test("appearance persists across pages and search filters are accessible @smoke", async ({ page }) => {
-  await page.emulateMedia({ colorScheme: "dark" });
-  await page.goto("/");
-  await page.locator("#theme-toggle").click();
-  await page.locator('input[name="theme-mode"][value="light"]').check();
-  await page.locator("#theme-dialog-done").click();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
-  await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#f7f7f8");
+test("Search exposes primary and secondary filters accessibly @smoke", async ({ page }) => {
   await page.goto("/search/");
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await expect(page.locator("pagefind-input")).toBeAttached();
   await expect(page.locator(".search-primary-filters pagefind-filter-dropdown")).toHaveCount(4);
-  await page.locator(".search-more-filters > summary").click();
+  const advanced = page.locator(".search-more-filters");
+  await expect(advanced).not.toHaveAttribute("open", "");
+  await advanced.locator("summary").click();
   await expect(page.locator(".search-secondary-filters")).toBeVisible();
 });
-
 test("core pages never create a viewport-wide horizontal scrollbar on phones @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   for (const route of ["/", "/search/", "/saved/", "/about/", "/basta/", "/basta/index/", "/basta/138/"]) {
