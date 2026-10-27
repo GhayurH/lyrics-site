@@ -87,3 +87,15 @@ test("manual text and border colours override Auto without changing accent text"
   assert.notEqual(manual.borders, auto.borders);
   assert(paletteTextColors({ ...palette, mutedText: "#ffffff" }).ratio < 4.5);
 });
+
+test("Auto muted text and borders stay legible despite an unreadable manual primary", () => {
+  const surfaces = { main: "#f7f7f8", secondary: "#ffffff", accent: "#1d1d1f" };
+  const auto = paletteTextColors(surfaces);
+  const overridden = paletteTextColors({ ...surfaces, primaryText: "#ffffff" });
+  assert.equal(overridden.primary, "#ffffff");
+  assert.equal(overridden.muted, auto.muted);
+  assert.equal(overridden.borders, auto.borders);
+  assert.notEqual(overridden.muted, "#ffffff");
+  assert.notEqual(overridden.borders, "#f9f9fa");
+  assert(overridden.ratio < 4.5);
+});
