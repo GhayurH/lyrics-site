@@ -25,10 +25,8 @@ export function initRecitationWorkflow(): void {
     }
   });
   const sharing = app.querySelector<HTMLDetailsElement>("#recite-share-details");
-  sharing?.addEventListener("toggle", (event) => {
-    // A programmatic change also emits toggle, but the controller's next
-    // render preserves the state; don't fight a reader's manual choice.
-    if (!event.isTrusted) return;
+  sharing?.querySelector("summary")?.addEventListener("click", () => {
+    // Only an intentional click overrides automatic expansion on readiness.
     sharing.dataset.userToggled = "true";
   });
   if ("IntersectionObserver" in window && sections.length) {

@@ -332,3 +332,19 @@ html[data-reading-focus="true"] .recite-reader-exports { display: none; }
 .recite-steps a:focus-visible, .recite-share-details > summary:focus-visible {
   outline: var(--focus-ring); outline-offset: 3px;
 }
+
+/* A programme item is a single reading surface, not two nested cards.
+   Keep verse geometry shared with standalone and Basta readers. */
+.recite-work .recite-editions { border: 0; border-radius: 0; }
+.recite-work-header { padding: .65rem clamp(.75rem,1.8vw,1.15rem); }
+.recite-work-header h2 { font-size: clamp(1.05rem,1.8vw,1.25rem); line-height: 1.8; }
+.recite-work-note { padding-inline: clamp(.75rem,1.8vw,1.15rem); font-size: .85rem; }
+.recite-works { gap: clamp(1rem,2vw,1.5rem); }
+/* Roman and Urdu need comparable internal gutters, not two bulky columns. */
+.recite-editions > .lyric-reading-panel {
+  padding-inline: clamp(.7rem,1.9vw,1.4rem);
+}
+@media (max-width: 700px) {
+  .recite-editions > .lyric-reading-panel { padding-inline: clamp(.55rem,2.2vw,.85rem); }
+  .recite-work-header { padding-block: .45rem; }
+}

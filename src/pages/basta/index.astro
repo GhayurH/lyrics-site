@@ -53,16 +53,16 @@ const lastPage = availablePages.at(-1);
       </div>
       <div class="basta-home-mode-grid">
         <a class="basta-home-mode-card" href={firstPage ? "/basta/" + firstPage + "/" : "/basta/index/"}>
-          <span class="basta-home-mode-number" aria-hidden="true">01</span>
+          <span class="basta-home-mode-number">Original book and text</span>
           <h3>Page by page</h3>
-          <p>Explore individual pages with original scans and available Urdu and Roman Urdu.</p>
-          <span class="basta-home-mode-action">Start at page {firstPage ?? 1} <span aria-hidden="true">→</span></span>
+          <p>Read the scanned page alongside Urdu transcription and available Roman Urdu.</p>
+          <span class="basta-home-mode-action">Start reading · Page {firstPage ?? 1} <span aria-hidden="true">→</span></span>
         </a>
         <a class="basta-home-mode-card" href="/basta/read/">
-          <span class="basta-home-mode-number" aria-hidden="true">02</span>
+          <span class="basta-home-mode-number">Uninterrupted reading</span>
           <h3>Continuous reader</h3>
-          <p>Read the whole book in one flow with your preferred text and scan columns.</p>
-          <span class="basta-home-mode-action">Open continuous reader <span aria-hidden="true">→</span></span>
+          <p>Move through the book without switching pages. Choose which editions to display.</p>
+          <span class="basta-home-mode-action">Read continuously <span aria-hidden="true">→</span></span>
         </a>
       </div>
     </section>
@@ -71,7 +71,7 @@ const lastPage = availablePages.at(-1);
       <div class="basta-home-find-intro">
         <p class="eyebrow">Navigate</p>
         <h2 id="basta-home-find-heading">Find a page or kalam</h2>
-        <p>Browse the linked book index or go straight to a numbered page.</p>
+        <p>Find kalam in the index, or open a specific printed page.</p>
         <a class="basta-home-index-link" href="/basta/index/">Browse book index <span aria-hidden="true">→</span></a>
       </div>
       {firstPage && lastPage && (
