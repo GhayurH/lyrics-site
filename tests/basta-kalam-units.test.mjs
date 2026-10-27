@@ -92,3 +92,18 @@ test("extra unindexed parts are audited instead of assigned to indexed poems", (
   assert.equal(result.kalams[1].urdu, "poem 86");
   assert.equal(result.kalams[3].urdu, "poem 88");
 });
+
+
+test("a new indexed poem followed by an unindexed excerpt is not mistaken for a continuation", () => {
+  const previous = { ...first, number: 81, page: 137, name: "پچھلا کلام" };
+  const current = { ...first, number: 82, page: 138, name: "اے چاند کربلا کے تو نے تو دیکھے" };
+  const result = buildBastaKalamCatalog([previous, current], [
+    { page: 137, urdu: "پچھلا کلام\n\n۱\nسابق شعر" },
+    { page: 138, urdu: "اے چاند کربلا کے تو نے تو دیکھے\n\n۱\nنیا شعر\n---***---\nبین\n\nایک الگ کلام" },
+  ]);
+  assert.equal(result.kalams[0].status, "ready");
+  assert.equal(result.kalams[1].status, "ready");
+  assert.deepEqual(result.kalams[1].pages, [138]);
+  assert.doesNotMatch(result.kalams[1].urdu, /ایک الگ کلام/);
+  assert.equal(result.orphans[0].page, 138);
+});
