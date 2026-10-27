@@ -68,6 +68,12 @@ test("desktop readers keep their complete controls visible", async ({ page }) =>
   await expect(controls.locator(".reading-page-jump")).toBeVisible();
 });
 
+test("short desktop viewports also retain floating controls", async ({ page }) => {
+  await page.setViewportSize({ width: 1100, height: 550 });
+  await page.goto("/basta/read/");
+  await expect(page.locator("[data-reading-controls]")).toHaveCSS("position", "sticky");
+});
+
 test("site header hides on downward scrolling and returns on upward scrolling @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/200/");
@@ -100,15 +106,63 @@ test("the open mobile navigation never hides during scrolling", async ({ page })
   await expect(page.locator("#site-navigation")).toBeHidden();
 });
 
-test("desktop and no-JavaScript pages keep the site header visible", async ({ page, browser }) => {
+test("desktop reading controls float as the site header hides and returns @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 820 });
+  await page.goto("/basta/read/");
+  const header = page.locator(".site-header");
+  const controls = page.locator("[data-reading-controls]");
+  const html = page.locator("html");
+  await expect(controls).toHaveCSS("position", "sticky");
+  await expect(header).toBeVisible();
+  await expect(html).not.toHaveAttribute("data-desktop-reader-header-hidden", "true");
+
+  await page.evaluate(() => {
+    const reader = document.querySelector("[data-reading-root]");
+    window.scrollTo({ top: window.scrollY + reader.getBoundingClientRect().top + 400, behavior: "instant" });
+  });
+  await expect(html).toHaveAttribute("data-desktop-reader-header-hidden", "true");
+  await expect(header).toBeHidden();
+  await expect.poll(() => controls.evaluate((node) => node.getBoundingClientRect().top)).toBeGreaterThanOrEqual(7);
+  await expect.poll(() => controls.evaluate((node) => node.getBoundingClientRect().top)).toBeLessThan(12);
+
+  await page.evaluate(() => window.scrollBy({ top: -125, behavior: "instant" }));
+  await expect(html).not.toHaveAttribute("data-desktop-reader-header-hidden", "true");
+  await expect(header).toBeVisible();
+  await expect.poll(async () => {
+    const controlTop = await controls.evaluate((node) => node.getBoundingClientRect().top);
+    const headerHeight = await header.evaluate((node) => node.getBoundingClientRect().height);
+    return controlTop >= headerHeight - 3;
+  }).toBe(true);
+
+  await controls.getByRole("button", { name: "Focus mode" }).click();
+  await expect(html).toHaveAttribute("data-reading-focus", "true");
+  await expect(controls).toHaveCSS("position", "fixed");
+  await controls.getByRole("button", { name: /Exit reading mode/ }).click();
+  await expect(html).not.toHaveAttribute("data-reading-focus", "true");
+});
+
+test("desktop reader header hides while scrolling the taller Urdu column", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/basta/138/");
+  const urdu = page.locator(".basta-page-urdu");
+  const html = page.locator("html");
+  await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
+  await page.evaluate(() => document.querySelector("[data-reading-root]").scrollIntoView({ block: "start", behavior: "instant" }));
+  await urdu.evaluate((node) => { node.scrollTop += 80; });
+  await expect(html).toHaveAttribute("data-desktop-reader-header-hidden", "true");
+  await urdu.evaluate((node) => { node.scrollTop -= 50; });
+  await expect(html).not.toHaveAttribute("data-desktop-reader-header-hidden", "true");
+});
+
+test("non-reading desktop pages and pages without JavaScript keep the header", async ({ page, browser }) => {
   await page.setViewportSize({ width: 1280, height: 800 });
-  await page.goto("/basta/200/");
+  await page.goto("/");
   await page.evaluate(() => window.scrollTo({ top: 700, behavior: "instant" }));
   await expect(page.locator(".site-header")).toBeVisible();
-  await expect(page.locator("html")).not.toHaveAttribute("data-mobile-header-hidden", "true");
-  const context = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 390, height: 844 } });
+  await expect(page.locator("html")).not.toHaveAttribute("data-desktop-reader-header-hidden", "true");
+  const context = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 1280, height: 800 } });
   const noJs = await context.newPage();
-  await noJs.goto("/basta/200/");
+  await noJs.goto("/basta/read/");
   await noJs.evaluate(() => window.scrollTo(0, 700));
   await expect(noJs.locator(".site-header")).toBeVisible();
   await context.close();

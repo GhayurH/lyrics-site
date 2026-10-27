@@ -65,36 +65,41 @@ function initMobileNavigation(): void {
   });
 }
 
-/** Mobile header follows reading direction without flickering on small scroll deltas. */
-function initMobileHeaderAutoHide(): void {
+/** Hide the header on downward reading scrolls; upward movement reveals it.
+ * Desktop applies this only after the reading content starts, while mobile
+ * retains the site-wide compact-header behavior.
+ */
+function initHeaderAutoHide(): void {
   const root = document.documentElement;
   const header = document.querySelector<HTMLElement>(".site-header");
   if (!header) return;
+  const reading = document.querySelector<HTMLElement>("[data-reading-root]");
   const mobile = window.matchMedia("(max-width: 700px)");
   let previousY = window.scrollY;
   let lastDirection = 0;
   let distance = 0;
+  let lastSource: Window | HTMLElement = window;
   let pending = false;
+  const panelPositions = new WeakMap<HTMLElement, number>();
 
-  const show = () => { delete root.dataset.mobileHeaderHidden; };
-  const update = () => {
-    pending = false;
-    const y = Math.max(0, window.scrollY);
-    const delta = y - previousY;
-    previousY = y;
-    // A tapped theme/menu button can remain focused on mobile long after the
-    // user resumes reading; only an actually open menu should pin the header.
-    if (!mobile.matches || root.dataset.readingFocus === "true" ||
-        root.dataset.mobileNavOpen === "true") {
-      show();
-      distance = 0;
-      return;
-    }
-    if (y < 80) {
-      show();
-      distance = 0;
-      lastDirection = 0;
-      return;
+  const show = () => {
+    delete root.dataset.mobileHeaderHidden;
+    delete root.dataset.desktopReaderHeaderHidden;
+  };
+  const reset = () => {
+    distance = 0;
+    lastDirection = 0;
+  };
+  const measureHeader = () => {
+    root.style.setProperty("--site-header-height", `${header.offsetHeight}px`);
+  };
+  const readingStarted = () =>
+    Boolean(reading && reading.getBoundingClientRect().top <= header.offsetHeight + 4);
+
+  const recordDirection = (source: Window | HTMLElement, delta: number, canHide: boolean) => {
+    if (source !== lastSource) {
+      lastSource = source;
+      reset();
     }
     if (Math.abs(delta) < 1) return;
     const direction = Math.sign(delta);
@@ -102,23 +107,78 @@ function initMobileHeaderAutoHide(): void {
     lastDirection = direction;
     distance += Math.abs(delta);
     if (distance < 18) return;
-    if (direction > 0 && y > 120) root.dataset.mobileHeaderHidden = "true";
-    else if (direction < 0) show();
+    if (direction < 0) show();
+    else if (canHide) {
+      if (mobile.matches) root.dataset.mobileHeaderHidden = "true";
+      else root.dataset.desktopReaderHeaderHidden = "true";
+    }
     distance = 0;
+  };
+
+  const updateWindow = () => {
+    pending = false;
+    const y = Math.max(0, window.scrollY);
+    const delta = y - previousY;
+    previousY = y;
+    // Only an actually open mobile menu pins the header; keyboard focus on
+    // its buttons should not permanently prevent auto-hide.
+    if (root.dataset.readingFocus === "true" ||
+        (mobile.matches && root.dataset.mobileNavOpen === "true")) {
+      show();
+      reset();
+      return;
+    }
+    if (mobile.matches) {
+      delete root.dataset.desktopReaderHeaderHidden;
+      if (y < 80) {
+        show();
+        reset();
+        return;
+      }
+      recordDirection(window, delta, y > 120);
+    } else {
+      delete root.dataset.mobileHeaderHidden;
+      if (!readingStarted()) {
+        show();
+        reset();
+        return;
+      }
+      recordDirection(window, delta, true);
+    }
   };
   window.addEventListener("scroll", () => {
     if (pending) return;
     pending = true;
-    requestAnimationFrame(update);
+    requestAnimationFrame(updateWindow);
   }, { passive: true });
-  mobile.addEventListener("change", () => {
+
+  // A long Urdu column can scroll without moving the document. Apply the
+  // same direction behavior once the reader has reached the sticky toolbar.
+  document.addEventListener("scroll", (event) => {
+    const panel = event.target;
+    if (!(panel instanceof HTMLElement) ||
+        panel.dataset.syncedScrollable !== "true" ||
+        !reading?.contains(panel)) return;
+    const previous = panelPositions.get(panel) ?? 0;
+    panelPositions.set(panel, panel.scrollTop);
+    if (!mobile.matches && root.dataset.readingFocus !== "true" && readingStarted()) {
+      recordDirection(panel, panel.scrollTop - previous, true);
+    }
+  }, true);
+
+  const resetOnResize = () => {
     previousY = window.scrollY;
-    distance = 0;
-    lastDirection = 0;
+    lastSource = window;
+    reset();
     show();
-  });
+    measureHeader();
+  };
+  mobile.addEventListener("change", resetOnResize);
+  window.addEventListener("resize", resetOnResize, { passive: true });
   header.addEventListener("focusin", show);
-  window.addEventListener("pageshow", show);
+  window.addEventListener("pageshow", () => { show(); previousY = window.scrollY; });
+  document.fonts.ready.then(measureHeader);
+  measureHeader();
 }
 
 function initThemeToggle(): void {
@@ -159,7 +219,7 @@ export function initSiteShell(): void {
 
   initThemeToggle();
   initMobileNavigation();
-  initMobileHeaderAutoHide();
+  initHeaderAutoHide();
   syncFavoriteButtons();
 
   document.addEventListener("click", (event) => {

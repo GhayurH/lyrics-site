@@ -170,10 +170,7 @@
 [data-reading-root][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-reader-roman {
   grid-area: auto; grid-column: 1; grid-row: 1; border: 0; padding-inline: 0;
 }
-/* Immersive layout keeps the reading area, not a historical 68vh cap, in control. */
-html[data-reading-focus="true"] [data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-active="true"] {
-  height: calc(100dvh - 4.7rem - env(safe-area-inset-top) - env(safe-area-inset-bottom)); max-height: none;
-}
+/* Focus mode keeps the same content-driven column heights as normal mode. */
 html[data-reading-focus="true"] .lyric-reading-grid { align-content: start; }
 html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"] .lyric-reading-image img { max-height: calc(100dvh - 4.5rem); width: auto; max-width: 100%; margin-inline: auto; }
 html[data-reading-focus="true"] .basta-reader-page-number { display: block !important; }
@@ -197,7 +194,9 @@ html[data-reading-toc-open="true"] .reading-contents-button { background: var(--
 @media (pointer: coarse) {
   .reading-scroll-top:not([hidden]) { position: fixed; right: max(.75rem,env(safe-area-inset-right)); bottom: max(.75rem,env(safe-area-inset-bottom)); z-index: 105; display: block; box-shadow: 0 .3rem 1rem rgb(0 0 0 / .25); }
 }
-@media (orientation: landscape) and (max-height: 600px) {
+/* Only genuinely narrow landscape devices drop sticky controls; a short
+   desktop browser window must retain the floating reader toolbar. */
+@media (max-width: 700px) and (orientation: landscape) and (max-height: 600px) {
   html:not([data-reading-focus="true"]) .reading-controls { position: static; box-shadow: none; }
 }
 
