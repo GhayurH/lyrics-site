@@ -1,0 +1,94 @@
+/* Route-owned composition and programme reader styles. Uses existing theme and typography tokens. */
+.recite-app, .recite-reader { max-width: var(--content-wide); margin: 0 auto; }
+.recite-app h1, .recite-reader-heading h1 { font-size: clamp(2rem,5vw,3.5rem); line-height: 1.3; margin: 0 0 .7rem; }
+.recite-app h2 { margin: 0 0 .75rem; font-size: 1.25rem; }
+.recite-app input, .recite-app select, .recite-app textarea,
+.recite-reader-toolbar select { width: 100%; min-height: 2.75rem; border: 1px solid var(--border-colour); border-radius: .55rem; background: var(--surface-background); color: var(--primary-text); padding: .6rem .75rem; font: inherit; }
+.recite-app :is(button,input,select,textarea):focus-visible, .recite-reader :is(button,select,a):focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+.recite-app label { display: grid; gap: .35rem; min-width: 0; font-weight: 650; font-size: .88rem; }
+.recite-app .button { min-height: 2.75rem; margin: 0; cursor: pointer; font-size: .88rem; }
+.recite-app .button:disabled { opacity: .45; cursor: not-allowed; }
+.recite-panel { border: 1px solid var(--border-colour); border-radius: .9rem; padding: clamp(1rem,2.5vw,1.55rem); background: var(--surface-background); min-width: 0; margin-bottom: 1.25rem; }
+.recite-topbar, .recite-section-heading, .recite-actions { display: flex; align-items: center; gap: .7rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
+.recite-topbar label { flex: 1 1 15rem; }
+.recite-section-heading { justify-content: space-between; margin-bottom: .7rem; }
+.recite-section-heading h2, .recite-section-heading p { margin: 0; }
+.recite-builder { display: grid; grid-template-columns: minmax(16rem,1fr) minmax(0,1.65fr); gap: 1.15rem; }
+.recite-details label + label { margin-top: .8rem; }
+.recite-hint { color: var(--secondary-text); font-size: .84rem; line-height: 1.6; }
+.recite-message { min-height: 1.5rem; color: var(--secondary-text); }
+.recite-list { list-style: none; padding: 0; margin: .8rem 0; display: grid; gap: .6rem; }
+.recite-list-row { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; padding: .7rem .8rem; border: 1px solid var(--border-colour); border-radius: .6rem; background: var(--site-background); min-width: 0; }
+.recite-list-row[draggable="true"] { cursor: grab; }
+.recite-list-row.recite-drag-over { outline: 2px dashed var(--primary-text); }
+.recite-list-info { flex: 1 1 12rem; min-width: 0; }
+.recite-list-info strong { display: block; line-height: 1.8; overflow-wrap: anywhere; }
+.recite-list-info small { display: block; color: var(--secondary-text); line-height: 1.5; }
+.recite-list-actions { display: flex; flex-wrap: wrap; gap: .35rem; }
+.recite-list-actions button, .recite-reader-toolbar button { border: 1px solid var(--border-colour); background: var(--surface-background); color: var(--primary-text); padding: .4rem .65rem; border-radius: .5rem; min-height: 2.6rem; font: inherit; cursor: pointer; }
+.recite-list-actions button:disabled, .recite-reader-toolbar button:disabled { opacity: .4; cursor: default; }
+.recite-search-row { display: flex; flex-wrap: wrap; gap: .8rem; align-items: end; }
+.recite-search-row label:first-child { flex: 1 1 18rem; }
+.recite-search-row label:last-child { flex: 0 1 13rem; }
+.recite-results { padding: 0; margin: 1rem 0; list-style: none; display: grid; gap: .45rem; grid-template-columns: repeat(auto-fit,minmax(min(100%,23rem),1fr)); }
+.recite-results li { min-width: 0; border: 1px solid var(--border-colour); border-radius: .55rem; padding: .65rem .75rem; display: flex; gap: .7rem; justify-content: space-between; align-items: center; }
+.recite-results li strong { display: block; font-weight: 650; line-height: 1.8; }
+.recite-results li small { display: block; color: var(--secondary-text); }
+.recite-results li button { white-space: nowrap; min-height: 2.5rem; padding: .35rem .7rem; border: 1px solid var(--border-colour); background: var(--site-background); color: var(--primary-text); border-radius: .5rem; cursor: pointer; }
+.recite-stanza-add { display: flex; flex-wrap: wrap; align-items: end; gap: .7rem; }
+.recite-stanza-add label { flex: 1 1 13rem; }
+.recite-stanza-add .button { margin: 0; }
+.recite-shared-links { display: grid; gap: .7rem; margin-top: 1rem; max-width: 50rem; }
+.recite-shared-links input { font-size: .8rem; }
+.recite-reader-heading { margin-bottom: 1.25rem; }
+.recite-reader-heading p { color: var(--secondary-text); }
+.recite-reading-root { container: reader-shell / inline-size; min-width: 0; }
+.recite-reader-toolbar { position: sticky; top: 3.75rem; z-index: 12; display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; justify-content: center; background: var(--surface-background); border: 1px solid var(--border-colour); border-radius: .75rem; padding: .5rem; margin-bottom: 1rem; }
+.recite-reader-toolbar select { width: min(18rem,100%); max-width: 100%; }
+.recite-reader-toolbar .recite-reader-progress { color: var(--secondary-text); font-size: .85rem; font-weight: 700; }
+.recite-reader-view-label { display: flex; align-items: center; gap: .4rem; color: var(--secondary-text); font-size: .8rem; }
+.recite-works { display: grid; gap: 1.4rem; }
+.recite-work { border: 1px solid var(--border-colour); border-radius: .75rem; background: var(--surface-background); overflow: hidden; }
+.recite-work[hidden], .recite-panel[hidden], .recite-shared-links[hidden] { display: none !important; }
+.recite-work-header { padding: .75rem 1rem; border-bottom: 1px solid var(--border-colour); }
+.recite-work-header h2 { font-size: 1.15rem; margin: 0; line-height: 2; }
+.recite-work-header p { color: var(--secondary-text); font-size: .82rem; margin: .15rem 0; }
+.recite-editions { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+.recite-editions .lyric-reading-panel { min-width: 0; }
+.recite-editions .lyric-reading-urdu { grid-area: urdu; }
+.recite-editions .lyric-reading-roman { grid-area: roman; }
+.recite-editions .lyric-reading-image { grid-area: image; }
+.recite-editions .lyric-reading-image img { width: 100%; height: auto; max-height: 80vh; object-fit: contain; }
+.recite-reading-root:not([data-reading-columns~="urdu"]) .lyric-reading-urdu { display: none; }
+.recite-reading-root:not([data-reading-columns~="roman"]) .lyric-reading-roman { display: none; }
+.recite-reading-root:not([data-reading-columns~="image"]) .lyric-reading-image { display: none; }
+.recite-reading-root:not([data-reading-columns~="roman"]) .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root:not([data-reading-columns~="urdu"]) .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root[data-reading-columns~="image"] .recite-editions { grid-template-areas: "image image" "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+.recite-reading-root[data-reading-columns~="image"]:not([data-reading-columns~="roman"]) .recite-editions { grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root[data-reading-columns~="image"]:not([data-reading-columns~="urdu"]) .recite-editions { grid-template-areas: "image" "roman"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root[data-reading-mode="image"] .recite-editions { grid-template-areas: "image"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root:not([data-reading-columns~="image"]) .recite-work-no-image .lyric-reading-image { display: none; }
+.recite-reading-root[data-reading-columns~="image"] .recite-work-no-image .lyric-reading-image { display: block; }
+.recite-editions .recite-empty-edition { padding: 1rem; color: var(--secondary-text); font-size: .9rem; }
+.recite-work-placeholder { padding: 1.5rem; color: var(--secondary-text); }
+.recite-stanza-source { font-size: .73rem; padding: .35rem 0; color: var(--secondary-text); }
+.recite-stanza-source a { color: inherit; }
+.recite-work-note { padding: .55rem 1rem; margin: 0; border-bottom: 1px solid var(--border-colour); color: var(--secondary-text); }
+html[data-reading-focus="true"] .recite-reader-toolbar { top: 0; border-radius: 0; }
+html[data-reading-focus="true"] .recite-reader-heading { display: none; }
+html[data-reading-focus="true"] .recite-works { gap: 1rem; }
+html[data-reading-focus="true"] .recite-work { border: 0; border-radius: 0; background: var(--site-background); }
+html[data-reading-focus="true"] .recite-work-header { padding: .4rem; }
+html[data-reading-focus="true"] .recite-work-header h2 { text-decoration: underline; }
+@container reader-shell (max-width: 42rem) {
+  .recite-editions { grid-template-areas: "urdu" "roman"; grid-template-columns: minmax(0,1fr); }
+  .recite-reading-root[data-reading-columns~="image"] .recite-editions { grid-template-areas: "image" "urdu" "roman"; grid-template-columns: minmax(0,1fr); }
+  .recite-editions .lyric-reading-roman { border-right: 0; border-top: 1px solid var(--border-colour); }
+}
+@media (max-width: 740px) {
+  .recite-builder { grid-template-columns: minmax(0,1fr); gap: 0; }
+  .recite-reader-toolbar { top: .25rem; }
+  .recite-reader-toolbar select { width: min(13rem,100%); }
+  .recite-work-header h2 { line-height: 1.9; }
+}
