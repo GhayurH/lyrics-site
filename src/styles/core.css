@@ -297,7 +297,7 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 @media (min-width: 701px) {
   html[data-js-available="true"]:not([data-reading-focus="true"]) .reading-controls {
     position: sticky;
-    top: calc(var(--site-header-height, 4.8rem) + .5rem);
+    top: calc(var(--site-header-height, var(--site-header-fallback-height)) + .5rem);
     z-index: 15;
     box-shadow: 0 .35rem 1.1rem rgb(0 0 0 / .12);
     transition: top 180ms ease;
