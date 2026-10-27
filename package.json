@@ -18,6 +18,8 @@
     "basta:index:check": "node scripts/sync-basta-index.mjs --index-only --check",
     "basta:breaks:rebuild": "node scripts/sync-basta-index.mjs --sync-breaks",
     "test": "node --experimental-strip-types --test tests/*.test.mjs",
+    "test:smoke": "playwright test --grep @smoke",
+    "test:browser": "playwright test",
     "basta:kalams:audit": "node --experimental-strip-types scripts/audit-basta-kalams.mjs",
     "recitation:ids:check": "node --experimental-strip-types scripts/recitation-identities.mjs --check",
     "recitation:ids:sync": "node --experimental-strip-types scripts/recitation-identities.mjs --sync"
