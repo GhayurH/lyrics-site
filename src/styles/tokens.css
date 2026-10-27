@@ -1,0 +1,48 @@
+/* File role: Shared design constants. Route CSS uses semantic tokens;
+   responsive @container/@media breakpoints remain in their owning stylesheets
+   because custom properties cannot be used in query conditions. */
+:root {
+  --content-wide: 84rem;
+  --content-reading: 76rem;
+  --reading-single-width: 48rem;
+  --reading-scan-width: 42rem;
+
+  --reading-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
+  --reading-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
+  --reading-urdu-leading: 2.8;
+  --reading-roman-leading: 2;
+  --reading-urdu-leading-compact: 2.2;
+  --reading-roman-leading-compact: 1.65;
+  --reading-urdu-leading-relaxed: 3.2;
+  --reading-roman-leading-relaxed: 2.35;
+
+  --ui-target: 2.75rem;
+  --ui-radius: .6rem;
+  --ui-panel-radius: .8rem;
+  --ui-field-padding: .6rem .75rem;
+  --focus-ring: 2px solid currentColor;
+}
+
+html[data-theme="light"] {
+  color-scheme: light;
+  --site-background: #f7f7f8;
+  --surface-background: #ffffff;
+  --primary-text: #1d1d1f;
+  --secondary-text: #66666b;
+  --border-colour: #dddddf;
+  --tag-background: #ececef;
+  --button-background: #1d1d1f;
+  --button-text: #ffffff;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --site-background: #171719;
+  --surface-background: #222225;
+  --primary-text: #ededed;
+  --secondary-text: #b5b5ba;
+  --border-colour: #3a3a3f;
+  --tag-background: #35353a;
+  --button-background: #ededed;
+  --button-text: #171719;
+}
