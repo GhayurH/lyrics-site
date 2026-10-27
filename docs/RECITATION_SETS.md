@@ -8,7 +8,6 @@ reciter names, and notes. For structurally verified numbered Marsiyas,
 organizers can reorder, omit, repeat, or borrow numbered stanzas from other
 verified Marsiyas. Borrowed text retains its original source attribution.
 
-
 ## Reciter tools, offline exports, and printing
 
 The reciter and programme-note fields in the builder are per-position: repeated
@@ -23,9 +22,14 @@ The programme reader includes **Save offline HTML** and **Print / Save as
 PDF**. Both first resolve the complete ordered programme, including pages
 and custom/borrowed Marsiya stanzas that would otherwise load lazily. The
 offline download is a standalone HTML file that can be opened without
-internet access or a Cloudflare account. Its text, source-attribution labels,
-assignments, and notes are embedded in the file; it uses local/system
-Urdu-font fallbacks and never silently substitutes missing verses.
+internet access or a Cloudflare account. Its text, source-attribution labels, assignments, and notes are embedded in
+the file; regular and bold Noto Nastaliq Urdu WOFF2 fonts are embedded too,
+and missing verses are never silently substituted.
+
+Portable documents use paired bilingual stanza rows for print, keeping each
+stanza together and grouping kalam headings and notes with the opening stanza.
+Printing waits for the embedded fonts to load. The exported HTML has no live
+navigation or remote dependencies.
 
 Scans are intentionally omitted from portable exports: original images live in
 R2, may not be accessible cross-origin, and cannot be guaranteed offline.
@@ -210,20 +214,8 @@ corrections do not require D1 schema changes.
 
 ## Development and checks
 
-```bash
-npm ci
-npm run build                         # Runs Node tests and ID validation
-npx playwright install chromium
-npx playwright test --grep '@smoke'    # CI-equivalent browser suite
-```
+Run the project's [standard build and Chromium checks](CONTRIBUTING.md#validation). The Node suite covers programme validation, edit-token permissions, expiry, throttling, and cleanup; browser tests cover local drafts and mocked remote publication.
 
-Astro's local preview does not emulate Cloudflare Pages Functions or R2
-redirects. Verify public publishing/editing/deletion through a bound Pages
-deployment. The browser tests exercise local drafts and mock remote
-publishing; Node tests cover validation, token permissions, expiry,
-throttling, and cleanup. The regular CI workflow checks generated
-`_routes.json` and `_redirects` rather than fetching R2 assets.
+Local Astro preview does not emulate Pages Functions or R2 redirects. Verify actual publishing, editing, and deletion on a deployment with the intended D1 binding. GitHub Actions checks built `_routes.json` and `_redirects` without contacting R2.
 
-A verification audit of ambiguous printed Basta fragments remains part
-of routine source preservation; these fragments are not silently
-represented as verified independent poems.
+Uncertain printed Basta fragments remain excluded from verified source selection until reviewed; use `npm run basta:kalams:audit` to inspect them.

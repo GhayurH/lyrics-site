@@ -1,344 +1,79 @@
 # Contributing to Kalam Archive
 
-This document describes the maintenance workflow for Kalam Archive, including content conventions, local development, Cloudflare R2 asset storage, and publishing.
+Preserve the original devotional literature faithfully: corrections should improve transcription and accessibility without silently modernizing wording, punctuation, line breaks, or stanza structure. This document owns editorial conventions and contributor validation. Use [ARCHITECTURE.md](ARCHITECTURE.md) for implementation ownership, [ASSET_WORKFLOW.md](ASSET_WORKFLOW.md) for large files, and [RECITATION_SETS.md](RECITATION_SETS.md) for permanent source IDs and published programmes.
 
-The archive prioritizes **faithful preservation, consistency, and stable public URLs** over stylistic modernization.
+## Content rules
 
-## Development setup
+### Metadata and cross-references
 
-Requirements:
+Standalone lyrics live in `src/data/lyrics/`. `src/content.config.ts` defines their schema. Set the required `kalamType` explicitly; do not infer broad types from legacy categories or tags. Keep poet, reciter, `haal`/`romanHaal`, occasion, language, and tags as separate metadata.
 
-- Node.js 22.12 or newer
-- npm
-- Git
-- `rclone` for maintaining R2-hosted assets
+When linking a standalone kalam to its printed Basta edition, set `bastaPage` and `bastaNote` (`original-selection` or `additional-stanzas`) in frontmatter. Do not insert editorial cross-reference notices into the poem's Urdu or Roman text.
 
-Clone and install:
+Published recitation sources use permanent `recitationId` values. Never reuse or silently reassign an ID. Follow [source-ID maintenance](RECITATION_SETS.md#data-and-source-integrity) when adding, moving, renumbering, or correcting published sources.
 
-```bash
-git clone https://github.com/GhayurH/lyrics-site.git
-cd lyrics-site
-npm install
-```
+### Urdu and Roman Urdu
 
-Useful commands:
+- Preserve Urdu wording, meaningful harakat, spelling, verse divisions, stanza ordering, and commas.
+- Remove stray spaces before commas, but preserve commas **within** verse lines. Match Urdu comma positions in Roman Urdu.
+- Where line divisions disagree, follow the Urdu source unless a reviewed editorial decision requires otherwise.
+- Retain Roman izafat and useful vowel cues; transliterate `ڑ` as `r` and `والے` as `wale`.
+- Preserve stanza numbers **in both** Urdu and Roman text. In ODG source layouts, keep stanza numbers in the middle numbering column.
+- If an independently printed refrain also appears as the last line of a stanza, omit the duplicate stanza-ending copy.
+- Do not silently replace author/source wording with stylistic corrections.
 
-```bash
-npm run dev
-npm run build
-npm run preview
-```
+### Basta
 
-`npm run build` runs the regression tests first via `prebuild`, then the Astro production build and Pagefind indexing.
+Basta text and index data live under `src/data/basta/` (`pages/`, `roman/`, `index.json`, `settings.json`). Original scans live in R2.
 
-## Code and style maintenance
-
-Keep browser controllers in `src/client/`, shared source/data logic in `src/lib/`, and route-specific CSS beside its route. Shared reading controls and edition grids are owned by `ReadingControls.astro` and `src/styles/reading-columns.css`. Before removing an apparent CSS duplicate, compare selector specificity, media/container conditions, and cascade order. Use comments to explain non-obvious decisions rather than resolved work-in-progress; run fast Node tests and Chromium `@smoke` checks routinely, reserving the full suite for milestones.
-
-## Content contribution rules
-
-### Lyrics metadata
-
-Lyrics live under `src/data/lyrics/`. `src/content.config.ts` defines the content schema and is the source of truth.
-
-Every lyric entry uses an explicit `kalamType` for its broad classification. Do not reintroduce the old pattern of deriving the broad type from `category` or general-purpose tags.
-
-`haal` / `romanHaal`, poet, reciter, occasion, language, and tags are separate cross-cutting metadata and should not be overloaded to replace `kalamType`.
-
-To link a standalone kalam to its printed Basta edition, set both optional frontmatter fields: `bastaPage` (the printed page number) and `bastaNote` (`original-selection` or `additional-stanzas`). The lyric route renders the appropriate note beneath the reading panels. Keep these editorial cross-references out of the Urdu and Roman poetry text.
-
-### Permanent recitation source IDs
-
-Published standalone kalams and verified Basta stanzas may be referenced by
-shared Recitation Sets. Retain their existing `recitationId` when moving a
-Markdown file or renumbering a Basta index entry. Run
-`npm run recitation:ids:check` before committing source changes; for genuinely
-new published sources, run `npm run recitation:ids:sync` and review its
-lockfile diff. Never reuse an old ID for different text. See
-[Recitation Sets](RECITATION_SETS.md#data-and-source-integrity) for stanza
-anchor updates and retirement.
-
-### Urdu and Roman lyrics
-
-When transcribing or correcting lyrics:
-
-- preserve the Urdu wording and meaningful harakat from the source
-- preserve commas inside lines
-- remove only stray spaces before commas
-- keep Roman Urdu comma placement in exactly the same positions as the Urdu
-- when Urdu and supplied Roman line breaks disagree, use the Urdu line breaks as authoritative unless there is a deliberate reason not to
-- preserve useful vowel and izafat cues in Roman Urdu where they assist recitation
-- transliterate Urdu **ڑ** as **`r`**
-- transliterate **والے** as **`wale`**
-
-### Stanza numbering
-
-For numbered lyrics:
-
-- stanza numbers must appear before the Urdu stanza
-- the same stanza numbers must also appear before the corresponding Roman stanza
-- exported ODG source layouts should retain stanza numbers in the middle/numbering column
-
-### Refrains
-
-If a refrain is separately displayed and also repeated as the final line of a stanza, omit that repeated final-line copy from the stanza.
-
-### Source fidelity
-
-Do not silently modernize spelling, punctuation, line division, or wording merely for stylistic consistency. When correcting obvious source or transcription errors, make the smallest change needed and preserve the character of the original text.
-
-## Basta contribution rules
-
-Basta data is organized under:
-
-```text
-src/data/basta/
-├── pages/
-├── roman/
-├── index.json
-└── settings.json
-```
-
-The page scans themselves are stored in R2 rather than Git.
-
-When editing Basta material:
-
-- preserve the original book page numbering
-- keep Urdu page text aligned with its corresponding scan
-- keep Roman text associated with the same page
-- update the structured index when a correction affects index navigation
-- refresh Urdu/Roman index labels with `npm run basta:index:sync`, or check drift with `npm run basta:index:check`; these commands do not modify reviewed page Markdown
-- `npm run basta:sync` and `npm run basta:sync:check` are also index-only for safe use after proofreading
-- `npm run basta:breaks:rebuild` explicitly reconstructs poem separators and **must not** be run on manually reviewed page text without checking the results
-- preserve image paths such as `/images/basta/...`; do not replace them with the R2 custom-domain hostname
-- preserve explicit `---***---` between-kalam markers in **both** language files: parallel scrolling uses these to align matching kalams within one page
-- keep kalam title/byline prefaces intact; only genuine headings are bold and underlined by the renderer
-
-The page-by-page and continuous readers both derive from these shared sources. The continuous reader's JSON chunks are generated at build time; they are not hand-maintained files.
-
-## Asset storage and publishing
-
-Large binaries are **not stored in Git**.
-
-Production assets are stored in the Cloudflare R2 bucket:
-
-```text
-kalam-archive-assets
-```
-
-The bucket contains:
-
-```text
-images/
-├── lyrics/
-└── basta/
-
-files/
-└── ...
-```
-
-Cloudflare Cloud Connector routes:
-
-```text
-kalamarchive.com/images/*  -> Cloudflare R2
-kalamarchive.com/files/*   -> Cloudflare R2
-```
-
-The R2 bucket also has the custom domain `r2-assets.kalamarchive.com`. That hostname is the R2 origin/custom domain. Normal site content should continue using the stable public paths `/images/...` and `/files/...`.
-
-Do **not** replace normal content URLs with `r2-assets.kalamarchive.com` unless there is a specific architectural reason to do so.
-
-Cloudflare Pages preview hostnames (`*.lyrics-site.pages.dev`) do not match the production-only Cloud Connector host rules. The two rules in `public/_redirects` send missing `/images/*` and `/files/*` requests on Pages preview deployments to the same publicly accessible objects on `r2-assets.kalamarchive.com`. This is deliberately a **302 fallback**, not a rewrite of the content metadata. Keep the production Cloud Connector configuration in place. When testing a preview deployment, verify that its image URLs redirect successfully to R2; local Astro preview does not emulate Pages redirects.
-
-### Local asset master
-
-The recommended local asset master is:
-
-```text
-~/KalamArchiveAssets/
-├── images/
-└── files/
-```
-
-This directory is outside the Git repository.
-
-### Uploading new or changed assets
-
-Upload images with:
+- Preserve printed page numbers, alignment between scan/Urdu/Roman, and the linked book index.
+- Preserve the explicit `---***---` kalam boundary markers **in both editions** and the title/byline prefaces. These markers anchor parallel reading.
+- Refresh the index after relevant edits; index-sync commands do **not** rewrite reviewed page Markdown.
+- Use `basta:breaks:rebuild` only after deliberately reviewing the impact on hand-corrected boundaries.
+- Keep source image references root-relative (`/images/basta/...`). Do not replace them with R2 hostnames.
 
 ```bash
-rclone copy \
-  ~/KalamArchiveAssets/images \
-  r2:kalam-archive-assets/images \
-  --checksum \
-  --progress
+npm run basta:index:check   # Check index drift
+npm run basta:index:sync    # Update index labels only
+npm run basta:sync:check    # Alternative index-only check
+npm run basta:sync          # Alternative index-only sync
+npm run basta:breaks:rebuild  # Reconstruct boundaries: manual review required
 ```
 
-Upload files/PDFs with:
+The page-by-page and streamed readers are generated from the same source material; streamed JSON is built, not edited by hand.
+
+## Code contributions
+
+Keep browser controllers in `src/client/`, shared domain utilities in `src/lib/`, route composition in `src/pages/`, and styles within the ownership described in [ARCHITECTURE.md](ARCHITECTURE.md#styling-and-shared-components). Avoid duplicate source models, localStorage handling, reader toolbars, or CSS layout overrides.
+
+For substantive source/style/configuration files, add a brief `File role:` comment where it clarifies responsibility or an intentional boundary. Explain non-obvious decisions, not syntax. Remove obsolete work-in-progress notes; preserve explanations for necessary compatibility and specificity rules.
+
+Do not commit generated output (`dist/`, `.astro/`), dependencies, scratch files, or R2 binaries. Use [ASSET_WORKFLOW.md](ASSET_WORKFLOW.md) for assets.
+
+## Validation
+
+For routine work:
 
 ```bash
-rclone copy \
-  ~/KalamArchiveAssets/files \
-  r2:kalam-archive-assets/files \
-  --checksum \
-  --progress
-```
-
-`rclone copy` adds new objects and updates changed objects without deleting unrelated destination objects. Using `--checksum` provides content-based change detection where supported.
-
-### Replacing an existing image
-
-Replace the local file at the same path and run the normal image upload command again. The R2 object is updated while the public site URL remains stable.
-
-Cloudflare caching may temporarily serve a previous cached version after an overwrite. If an updated object is not visible promptly, purge that URL from Cloudflare cache rather than renaming the object solely to defeat caching.
-
-### Do not use destructive syncing by default
-
-Prefer `rclone copy ...` for normal maintenance. Do not casually replace it with `rclone sync`, because `sync` can delete destination objects that are absent from the local source. Do not use `--immutable` for the normal archive workflow because existing images are intentionally corrected and overwritten from time to time.
-
-## Verifying R2 uploads
-
-To compare local images against R2:
-
-```bash
-rclone check \
-  ~/KalamArchiveAssets/images \
-  r2:kalam-archive-assets/images \
-  --one-way
-```
-
-For files:
-
-```bash
-rclone check \
-  ~/KalamArchiveAssets/files \
-  r2:kalam-archive-assets/files \
-  --one-way
-```
-
-To inspect total object count and size:
-
-```bash
-rclone size r2:kalam-archive-assets
-```
-
-## Local development with R2 assets
-
-A Git clone intentionally does not contain `public/images/` or `public/files/`.
-
-For local development, symlink the external asset master into `public/`:
-
-```bash
-cd ~/Projects/lyrics-site
-ln -s ~/KalamArchiveAssets/images public/images
-ln -s ~/KalamArchiveAssets/files public/files
-```
-
-These paths are ignored by Git, so repository-local `.git/info/exclude` entries are no longer required for normal clones.
-
-## Normal publishing workflow
-
-For a content correction that changes both text and an image:
-
-1. Edit the Markdown/data in the Git repository.
-2. Replace or add the corresponding file under `~/KalamArchiveAssets/`.
-3. Run the appropriate `rclone copy ... --checksum --progress` command.
-4. Verify the R2 object if necessary.
-5. Run `npm run build`.
-6. Review `git diff --check` and `git status --short`.
-7. Commit only the Git-tracked code/text changes and push.
-8. If an overwritten image remains cached, purge the affected Cloudflare cache URL.
-
-Large image/PDF binaries should not be added back to Git.
-
-## Code and maintenance notes
-
-The detailed implementation map lives in [ARCHITECTURE.md](ARCHITECTURE.md). The following rules are the maintenance contract.
-
-### CSS ownership
-
-`src/styles/core.css` contains only genuinely global tokens, shell styles, controls, and shared primitives such as the canonical lyric card.
-
-Route/feature styles live in their own files:
-
-- `home.css`
-- `about.css`
-- `saved.css`
-- `search.css`
-- `lyrics.css`
-- `basta.css`
-- `basta-reader.css` (continuous reader and bilingual Basta index)
-
-The shared reader component owns the feature styles: `reading-columns.css` (responsive edition grids), `reading-focus.css` (immersive shell), and `scan-viewer.css` (the scan dialog). These stay separate because they have distinct responsibilities; short file size alone is not a reason to fold route styles into `core.css`.
-
-Do not recreate a global override stack. A route-specific rule belongs with its route; a genuinely shared primitive belongs in `core.css`.
-
-### Browser code
-
-Production browser modules live under `src/client/`. Do not place required source code in a root-local `scripts/` or `tools/` directory: those locations are for local maintenance work and may be ignored.
-
-Browser-local persistence should use `src/client/storage.ts` rather than parsing/writing the same localStorage keys independently in each route.
-
-### Lyric cards
-
-`src/lib/catalog.ts` defines the canonical lightweight card model. Server-rendered cards use `LyricCard.astro`; Saved/Recent uses the matching browser helper because those entries are only known after local state is read. Keep their data/class/bookmark contracts aligned through the shared model and UI constants rather than introducing a second card design.
-
-### Reading controls
-
-Normal lyrics, all Basta reading views, and the Recitation Sets reader share `ReadingControls.astro` and `src/client/reader-state.ts`. Use the semantic sizing tokens in `core.css` rather than adding one-off sizes and corner radii for equivalent buttons, cards, and forms. On mobile the ordinary controls start collapsed, with a separate Options button; Focus mode continues to use its own Options controls. The site header hides on downscroll, returns on upscroll, and stays visible when the navigation menu is open. Do not reimplement edition selection, line spacing, single-line automatic fitting, or Focus-mode behavior inside individual routes. Keep server-rendered `data-reading-columns` in agreement with the text-first initial selection; no-JavaScript readers must remain legible.
-
-`src/client/synced-columns.ts` handles parallel scrolling and uses kalam boundaries only for Basta text. Keep the static `BastaText.astro` and dynamically streamed markup in agreement. Original scans remain centred and sticky when beside text; they are not synchronized as text scrollers. Stacked and single-language layouts remain in ordinary document flow.
-
-### Basta layouts and streaming
-
-Basta pages may contain scan only, scan + Urdu, or scan + Urdu + Roman. Reader grid rules belong to `reading-columns.css` and adapt primarily to the container's usable width. The existing mobile-portrait exception deliberately stacks page-by-page Basta text editions at full width. Test portrait/landscape, narrow/wide containers, and Focus mode for all edition combinations. Preserve the missing-Roman scan fallback and the image enlargement link contract.
-
-The continuous reader uses pre-rendered eight-page JSON chunks. If changing chunk behavior, preserve:
-
-- direct `#page-N` links
-- the linked index between the correct page ranges
-- the page-by-page reader as the static fallback
-- shared reader preferences
-
-### Saved/Recent catalog
-
-The Saved page also shows locally bookmarked Basta pages and recitation drafts. Those records must work independently even if the lyric catalog cannot load. The Saved/Recent catalog is exposed as `/data/saved-catalog.json` by `src/pages/data/saved-catalog.json.ts`. It is fetched only by the Saved/Recent experience rather than embedded broadly into page output.
-
-### File-role comments
-
-New substantive source/style/config files should contain a concise `File role:` comment describing responsibility and, where useful, the boundary with nearby files. Do not add comments merely to restate syntax.
-
-## Before committing
-
-For normal code/content changes, run:
-
-```bash
+npm ci
 npm test
 npm run build
 git diff --check
 git status --short
 ```
 
-Review the diff before committing. For asset changes, verify that the corresponding R2 object has also been uploaded.
+`npm run build` runs Node tests and `recitation:ids:check` in `prebuild`, then builds Astro and Pagefind. Running `npm test` separately is useful for quick feedback but is not necessary immediately before the full build.
 
-## Browser validation for UI changes
+For reader, search, or responsive changes:
 
-For reader or responsive changes, run `npm run build` (which invokes `npm test` through `prebuild`), then install browser dependencies and run `npx playwright test`. GitHub Actions runs a focused Chromium `@smoke` suite on pushes to `main` and pull requests; run `npx playwright test` locally for the full Chromium browser suite. The fast CI tests check interactions and geometry rather than fetching remote R2 images or comparing screenshot baselines.
+```bash
+npx playwright install chromium
+npx playwright test --grep '@smoke'
+npx playwright test  # Full local Chromium suite at milestones
+```
 
-Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, continuous-reader deep links and Contents, scan links/zoom, and Focus-mode exit. Check browse/category pages and Recitation Sets at 320–390px portrait, narrow landscape, and tablet widths, and preserve text-only fallbacks when a scan is unavailable. Local Astro preview does not implement Cloudflare Pages asset redirects. CI verifies the generated `_redirects` configuration rather than making external source-image availability requests.
+Check portrait widths around 320–390px, short landscape screens, tablets, and desktop layouts. Cover standalone lyrics, paired and Roman-unavailable Basta pages, continuous deep links/index navigation, Focus Mode exit, missing scans, accessible image zoom, Recitation Sets, and a no-JavaScript reading path. Poetry verses must remain one line, without wrapping or horizontal text scrolling. Print/export changes must preserve embedded Nastaliq fonts, bilingual stanza rows, and sensible page breaks; verify PDF output in a real browser.
 
-Every poem verse must remain on one line, with no wrapping, horizontal scrolling, or manual text-size selector. Keep the functional mobile tests for standalone lyrics, page-by-page Basta, and the continuous reader.
+GitHub Actions builds and runs Node tests on pushes and pull requests. It runs the Chromium `@smoke` suite and Basta boundary audit on pushes to `main` or commits marked `[full-ci]`. Ordinary PR updates skip those longer checks. CI validates generated Cloudflare redirect/routing files rather than downloading R2 assets. Local Astro preview does not run Pages Functions or apply Pages `_redirects`; test those behaviors on a bound Cloudflare deployment.
 
-The image viewer alone permits two-axis zoom and drag-to-pan; centred images narrower than the viewport never require horizontal scrolling. Basta page/index top navigation stays inside `ReadingControls.astro` via its `navigation` slot, with no second bottom pager.
-
-Recitation printouts must embed the website's Nastaliq fonts, maintain bilingual stanza rows with `break-inside: avoid`, keep headings with their first stanza, and await `document.fonts.ready` before printing. Never reinstate whole-poem grids or unconditional per-kalam page breaks: PDF pagination is covered by a real browser export smoke test.
-
-## Corrections and questions
-
-Corrections, missing material, and cataloguing/index issues can be reported to:
-
-**lyricsadmin@gmail.com**
-
-### CI and reader maintenance
-
-Milestone commits marked `[full-ci]` and pushes to main trigger the Chromium smoke suite and Basta audit. Other PR updates still run the build, Node tests, and recitation ID verification. Always run milestone validation before merging. Edition geometry belongs in `reading-columns.css`, and missing-edition explanations use `romanUnavailable` so a scan is only advertised when actually provided. Keep Basta selection bookmarks local and out of the verse layout.
+Review the diff and successful checks before committing. Report corrections or cataloguing questions to **lyricsadmin@gmail.com**.

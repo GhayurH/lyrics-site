@@ -1,82 +1,72 @@
 # Asset workflow
 
-This is the quick day-to-day workflow for adding new images, PDFs, or other large assets to Kalam Archive.
+This is the authoritative guide for Kalam Archive's large images, scans, PDFs, and other published binaries. They belong in the Cloudflare R2 bucket `kalam-archive-assets`, **not Git**; Git tracks their Markdown references and code.
 
-Large binary assets are kept outside Git under `~/KalamArchiveAssets/` and published to the `kalam-archive-assets` Cloudflare R2 bucket. The Git repository contains the corresponding code, Markdown, and metadata only.
+## Public paths and preview deployments
 
-For the full storage model, verification commands, replacement behavior, and cache notes, see [CONTRIBUTING.md](CONTRIBUTING.md#asset-storage-and-publishing).
-
-## Preview deployments and image links
-
-Cloudflare's **Cloud Connector** rules serve `kalamarchive.com/images/*` and `kalamarchive.com/files/*` from R2, but the temporary `*.lyrics-site.pages.dev` deployment hostnames do not inherit those hostname-specific rules. `public/_redirects` therefore provides Cloudflare Pages fallback redirects for these two paths to the public bucket domain `r2-assets.kalamarchive.com`.
-
-Keep all Markdown and page metadata as root-relative URLs, for example `/images/basta/original/138.png`. On preview deployments, Pages redirects that request to the matching R2 object; on the main domain, the existing Cloud Connector routes continue serving the same public paths. Original-image links, image elements, and non-JavaScript viewing work without client-side URL rewriting. Local `astro preview` does not execute Cloudflare Pages `_redirects`; use the development asset symlink described below to view images locally.
-
-When debugging a failed preview scan, check the browser's network request for a **302 redirect** from the preview-domain `/images/...` to `https://r2-assets.kalamarchive.com/images/...`, followed by an image response. Both URLs must contain the same nested file path. The deployment's `dist/_redirects` must also exist.
-
-## Add an image
-
-Place the image in the local asset master at the path it should have on the site. For example:
+Use stable root-relative links in source content:
 
 ```text
-~/KalamArchiveAssets/images/lyrics/new-kalam.png
+/images/lyrics/example.png
+/images/basta/original/000.jpg
+/files/example.pdf
 ```
 
-Because the local development setup symlinks `~/KalamArchiveAssets/images` into the site, the new image is immediately available during local development.
+Cloudflare Cloud Connector serves `kalamarchive.com/images/*` and `kalamarchive.com/files/*` from R2. The bucket also has the public hostname `r2-assets.kalamarchive.com`; do not replace source URLs with this hostname.
 
-When the image is ready to publish, upload the image tree to R2:
+Preview hostnames (`*.lyrics-site.pages.dev`) do not inherit production Cloud Connector host rules. `public/_redirects` provides **302** fallbacks from `/images/*` and `/files/*` to the same path on `r2-assets.kalamarchive.com`. A working preview scan has a 302 followed by a successful R2 image response. Confirm `dist/_redirects` exists when debugging. Local `astro preview` does not execute Pages redirects.
 
-```bash
-rclone copy \
-  ~/KalamArchiveAssets/images \
-  r2:kalam-archive-assets/images \
-  --checksum \
-  --progress
-```
+## Local development
 
-`rclone copy` uploads new files and updates changed files without deleting unrelated objects already in R2.
-
-## Add a PDF or other file
-
-Place the file under:
+Keep your asset master outside the repository:
 
 ```text
-~/KalamArchiveAssets/files/
+~/KalamArchiveAssets/
+  images/
+    lyrics/
+    basta/
+  files/
 ```
 
-Then publish the files tree:
-
-```bash
-rclone copy \
-  ~/KalamArchiveAssets/files \
-  r2:kalam-archive-assets/files \
-  --checksum \
-  --progress
-```
-
-The source workflow uses the same separate upload path for PDFs/files.
-
-## Commit the site changes
-
-Code, Markdown, and metadata remain normal Git-tracked content:
+Link it into the local Git checkout so the dev server can serve the files:
 
 ```bash
 cd ~/Projects/lyrics-site
-
-git add .
-git commit -m "Add new kalam"
-git push
+ln -s ~/KalamArchiveAssets/images public/images
+ln -s ~/KalamArchiveAssets/files public/files
 ```
 
-The large image or file itself should **not** enter Git.
+Both paths are Git-ignored. Create the symlinks only if the paths do not already exist; do not replace an existing directory.
 
-## Summary
+## Publish new or changed assets
 
-The normal sequence is:
+Place a new file at its intended relative public path (for example, `~/KalamArchiveAssets/images/lyrics/example.png`). Upload the appropriate subtree:
 
-1. Add or replace the asset under `~/KalamArchiveAssets/`.
-2. Confirm it works locally through the existing symlink.
-3. Upload the appropriate asset tree to R2 with `rclone copy`.
-4. Commit and push only the Git-tracked code, Markdown, and metadata changes.
+```bash
+rclone copy ~/KalamArchiveAssets/images r2:kalam-archive-assets/images --checksum --progress
+rclone copy ~/KalamArchiveAssets/files  r2:kalam-archive-assets/files  --checksum --progress
+```
 
-For corrections that replace an existing asset, R2 verification, Cloudflare cache handling, and non-destructive upload guidance, use the full instructions in [CONTRIBUTING.md](CONTRIBUTING.md#asset-storage-and-publishing).
+Run only the command relevant to your changes. `rclone copy` adds and overwrites objects without deleting unrelated R2 objects. **Do not use `rclone sync` for normal publishing** (it can delete remote assets), or `--immutable` when replacements are expected. Checksum comparison depends on what the remote supports.
+
+Replacing an image at its existing relative path preserves the public URL. Cloudflare may temporarily cache the old content; purge the affected URL if needed instead of renaming the file merely to bypass caching.
+
+## Verify uploads
+
+```bash
+rclone check ~/KalamArchiveAssets/images r2:kalam-archive-assets/images --one-way
+rclone check ~/KalamArchiveAssets/files  r2:kalam-archive-assets/files  --one-way
+rclone size r2:kalam-archive-assets
+```
+
+The checks compare local content to its corresponding remote subtree. Verify public image/PDF URLs and redirects separately if a deployment behaves differently from local development.
+
+## Commit site changes
+
+1. Add or correct the Markdown, metadata, and code in Git.
+2. Add or replace large assets in the local master and upload them with `rclone copy`.
+3. Verify changed R2 objects or preview links as needed.
+4. Run the relevant [validation checks](CONTRIBUTING.md#validation), inspect `git diff` and `git status`, and commit **only** Git-tracked text/configuration files.
+5. Purge affected Cloudflare cache URLs if an overwritten asset is still stale.
+
+For lyric transcription or metadata standards, use [CONTRIBUTING.md](CONTRIBUTING.md#content-rules).

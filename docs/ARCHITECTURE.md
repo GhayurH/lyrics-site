@@ -1,162 +1,72 @@
-# Kalam Archive architecture
+# Architecture
 
-This document describes the source-code boundaries used by the site. Content and asset-maintenance conventions remain in `CONTRIBUTING.md`.
+This document owns implementation boundaries and reader behavior. See [CONTRIBUTING.md](CONTRIBUTING.md) for source-editing rules, [ASSET_WORKFLOW.md](ASSET_WORKFLOW.md) for R2 operations, and [RECITATION_SETS.md](RECITATION_SETS.md) for programme storage and authorization.
 
-## Design goals
+## Principles and source layout
 
-- Keep the public HTML and URLs stable while implementation details evolve.
-- Prefer static generation; browser JavaScript is reserved for user state, search controls, and progressive reading features.
-- Keep route-specific CSS out of the global payload.
-- Give each piece of domain data one canonical TypeScript model.
-- Keep large binary assets in R2 rather than Git.
-
-## Styling boundaries
-
-`src/styles/core.css` owns cross-route tokens and controls, not route-specific presentation. `src/styles/reading-columns.css` owns reader edition grids, container queries, and toolbar placement; route styles should not duplicate those layout rules. Consolidate repeated media blocks only when doing so preserves their cascade, and retain overrides with distinct conditions or specificity.
-
-## Source layout
+- Prefer static, usable HTML. Add browser JavaScript for progressive enhancements, interactive search, and local user state.
+- Keep domain models canonical, route behavior local, and shared UI controls consistent.
+- Keep route-specific CSS out of the global payload and large binary assets out of Git.
+- Preserve public URLs and content structure when reorganizing code.
 
 ```text
 src/
-├── client/       # Browser-only controllers and DOM helpers
-├── components/   # Reusable Astro/server-rendered UI
-├── data/         # Content/data owned by the repository
-├── layouts/      # Site-level document shells
-├── lib/          # Shared domain models and server helpers
-├── pages/        # Astro routes and static data endpoints
-└── styles/       # Core CSS plus route/feature-owned CSS
+  client/          Browser-only controllers, local storage, and DOM helpers
+  components/      Reusable Astro UI
+  data/            Markdown and structured content
+  layouts/         Site shell
+  lib/             Domain models and build/server data utilities
+  pages/           Routes and pre-rendered JSON endpoints
+  styles/          Global primitives and feature-owned CSS
 ```
 
-### `src/client/`
+`src/layouts/BaseLayout.astro` owns the site shell, not feature CSS. `src/client/storage.ts` owns browser-storage parsing and keys; other controllers should not independently implement storage formats. `src/content.config.ts` defines lyric metadata, including required `kalamType`.
 
-Browser code lives here rather than in a generic `scripts/` directory. This prevents source modules from being confused with local maintenance scripts and makes the server/client boundary explicit.
+## Styling and shared components
 
-- `storage.ts` owns localStorage parsing/writes and storage keys.
-- `site.ts` owns global theme and favorite-button enhancement.
-- `reader-state.ts` owns shared reading preferences, and `basta-bookmarks.ts` manages optional page bookmarks.
-- `floating-scans.ts` enables centred, sticky source images only when they share a grid row with text; its clearance respects the visible header and reader toolbar.
-- `lyric-card.ts` and `saved-library.ts` provide the client-rendered Saved/Recent view while reusing the same card data/class contract as Astro cards.
-- `search.ts` owns Pagefind URL synchronization and active-filter chips.
-- `basta-stream.ts` owns progressive continuous-reader chunk loading.
-- `synced-columns.ts` synchronizes visible side-by-side Urdu and Roman text panels, excluding viewport-sticky scans; for Basta text, matching kalam breaks anchor per-kalam proportional progress.
-- `verse-fitting.ts` automatically fits each stanza/couplet to the available width, including extra-long verses, keeping all verses single-line without horizontal scrolling. The width calculation is in `src/lib/verse-fit.ts`; there is no minimum-font overflow or selectable text size.
-- `reading-progress.ts` records the current Basta page and within-page fraction locally and populates resume/current-page links. Continuous tracking observes nearby pages rather than traversing all loaded pages on every scroll.
-- `scan-viewer.ts` provides an accessible image dialog with two-axis zoom, pointer/keyboard panning, and links that work without scripting.
-- `recitation-builder.ts` manages browser-local draft programmes, verified stanza arrangements, and authenticated publication; `recitation-reader.ts` renders referenced source kalams without altering the archive. `recitation-storage.ts` owns the local draft key.
+`src/styles/core.css` owns tokens, resets, the shell, common controls, and the canonical lyric card. Route styles belong to their feature: `home.css`, `about.css`, `saved.css`, `search.css`, `category.css`, `lyrics.css`, `basta.css`, `basta-reader.css`, and `recitation.css`.
 
-### CSS ownership
+Readers import the shared `reading-columns.css` (edition grids, container queries, and toolbar placement), `reading-focus.css` (Focus Mode), and `scan-viewer.css` (zoomable scans) through `ReadingControls.astro`. Do not add competing route-local edition grids or rebuild an override stack; consolidate CSS only when specificity, conditions, and cascade still agree. `basta.css` is the one shared Basta text stylesheet.
 
-`core.css` is deliberately small in scope: tokens, reset, site shell, shared buttons/controls, and the canonical lyric card.
+`src/lib/catalog.ts` defines `LyricCardData`. `LyricCard.astro` and `src/client/lyric-card.ts` share that model, class contract, and bookmark attributes. Extend the model rather than maintaining separate card designs.
 
-Route/feature styles are imported only where needed:
+## Reader contract
 
-- `home.css`
-- `about.css`
-- `saved.css`
-- `search.css`
-- `category.css` (category page collection groupings)
-- `lyrics.css`
-- `basta.css`
-- `basta-reader.css` (continuous reader and bilingual Basta index)
-- `recitation.css` (Recitation Sets builder and reader)
+Standalone lyrics, Basta page-by-page, the linked Basta index, the continuous reader, and Recitation Sets share `ReadingControls.astro` and `src/client/reader-state.ts`.
 
-Shared reader features load through `ReadingControls.astro`, not every page:
+- **Edition selection:** Image, Urdu, and Roman are independently selectable when available, with at least one edition selected. Text is the initial default where present. Unavailable Roman editions must be explained; never silently substitute Urdu. Scan-only pages retain the scan. Render correct initial availability and `data-reading-columns` in HTML, even without JavaScript.
+- **Layout:** `reading-columns.css` uses available container width to display editions in parallel or stack them. In narrow page-by-page Basta portrait layouts, text panels stack at full width. Verses fit one line using `src/client/verse-fitting.ts` and `src/lib/verse-fit.ts`: no wrapping, horizontal text scrolling, or manual font-size selector.
+- **Scroll and scans:** `src/client/synced-columns.ts` synchronizes side-by-side text, anchored within matching Basta kalams rather than the entire page. Panels keep their natural heights; scans use `floating-scans.ts` for viewport-centred positioning beside text and remain in normal flow when stacked. Do not synchronize scan scroll as a text column.
+- **Focus Mode:** `reading-focus.ts` and `reading-focus.css` handle immersive controls, browser history/fullscreen, and position restoration. The compact ordinary mobile controls are separate from Focus Mode's own options. The mobile header retracts on downward scrolling and reappears on upward scrolling or when navigation is open.
+- **Scan access:** Keep native links functional without JavaScript; `scan-viewer.ts` enhances them with accessible zoom and pan. Absent R2 images must not make text navigation unusable.
 
-- `reading-columns.css` — edition selections and container-responsive grids
-- `reading-focus.css` — immersive reading shell
-- `scan-viewer.css` — original-scan dialog and zoom
+The explicit `---***---` separators in both Basta language files define matching kalam boundaries. `src/lib/basta-text.ts` distinguishes actual titles from poet credits and repeated opening lines; title styling is bold and underlined. Static `BastaText.astro` and streamed `basta-stream.ts` output must agree on headings, scan links, edition labels, page numbers, and kalam boundaries. Do not infer boundaries from stanza length.
 
-Do not recreate an override stack. If a rule only serves one route, put it with that route. If several unrelated routes genuinely share a primitive, move that primitive to `core.css` instead of copying it.
+## Basta navigation and streaming
 
-## Canonical lyric cards
+The page-by-page Basta reader renders HTML without JavaScript. Continuous `/basta/read/` renders its first eight-page chunk and the book index at build time, then loads subsequent pre-rendered JSON chunks from `src/pages/data/basta-reader/[chunk].json.ts` through `src/client/basta-stream.ts`. `src/lib/basta-reader-data.ts` joins the Urdu/Roman sources. The chunks respect the physical index gap.
 
-`src/lib/catalog.ts` defines `LyricCardData`. `LyricCard.astro` is the server-rendered implementation used by browse/category pages. Saved/Recent necessarily creates its cards after reading local browser state, but `src/client/lyric-card.ts` uses the same data contract, classes, bookmark attributes, and icon constant.
+Keep `#page-N` deep links, page-number validation and index-gap routing (`basta-navigation.ts`), Contents access, and the page-by-page fallback. Navigation uses the `navigation` slot of `ReadingControls.astro`, not a second pager. `src/client/reading-progress.ts` observes nearby pages rather than measuring all loaded pages; progress and within-page resume offsets stay browser-local and survive rotation or view changes.
 
-Any future card fields should be added to `LyricCardData` first. The homepage has an independent, small local continuation strip (`home-continue.ts`) that does not load lyric catalogs globally.
+`src/client/basta-selections.ts` adds page-qualified kalam/stanza bookmarks without altering Markdown or verse flow. Keep bookmark keys separate from reader preferences and reading history.
 
-## Reader state
+## Search, discovery, and saved state
 
-Normal lyrics, page-by-page Basta, the linked Basta index, the continuous reader, and Recitation Sets all use `ReadingControls.astro` and `src/client/reader-state.ts`. Reader preferences are stored under one browser key and should not be reimplemented route-by-route.
+Pagefind assets load only on `/search/`; the homepage submits a normal search form. Search filtering and URL state belong to `src/client/search.ts`. Category listings distinguish standalone lyrics from Basta selections.
 
-On narrow screens the regular reader shows a compact sticky bar with Focus mode and an expandable Options button; edition selectors, line spacing, and continuous-reader tools appear when expanded. Focus mode retains its independent Options interface. The mobile site header is a single-row title/menu/theme toolbar that retracts on downscroll and reappears on upscroll. Poetry verses remain single-line through automatic text fitting; readers cannot force wrapping or horizontal scrolling. Edition availability and text-first defaults are rendered into the HTML so the static page is legible without JavaScript. Edition layout is centralized in `reading-columns.css` using container queries. The explicit small-screen portrait exception ensures page-by-page Basta language panels stack at full width.
+The Saved/Recent catalog is fetched on demand from `/data/saved-catalog.json`, not embedded throughout the site. Favorites, bookmarks, recent reading, drafts, theme, and reading preferences are local to the browser. `home-continue.ts` conditionally shows local resume links; `saved-library.ts` still displays local bookmarks/drafts if the catalog fails to load.
 
-Basta kalam boundaries come from the explicit `---***---` marker in page Markdown and are never inferred from stanza lengths. The two editions render separate, naturally sized kalam blocks; the client synchronizes their scroll positions by matching kalam number plus fraction within that kalam. A source scan shown beside text floats in a viewport-centred column and is excluded from text-height synchronization; when stacked, it remains in normal document flow. Synchronization activates only for panels that appear side by side; stacked and single-language modes use ordinary flow. Standalone lyrics use page-wide proportional scrolling. This keeps the short ending *Bain* on page 138 aligned without requiring the shorter Roman text to occupy artificial whitespace.
+## Recitation Sets boundary
 
-`src/client/reading-focus.ts` manages Focus mode, browser history, fullscreen, and position restoration. `reading-focus.css` owns its immersive shell; `reading-columns.css` owns the actual edition geometry.
+`recitation-builder.ts` owns draft editing and publication; `recitation-workflow.ts` enhances builder navigation; `recitation-reader.ts` resolves source poetry without changing it; `recitation-export.ts` produces portable offline/print HTML. Shared source identifiers and set validation live under `src/lib/` and `src/data/recitation/`.
 
-`src/lib/basta-text.ts` classifies titles without confusing a repeated opening verse, poet byline, or credit for a heading. Shared `basta.css` styles those headings as bold and underlined; non-Basta page titles use the lyric route stylesheet. The static `BastaText.astro` and streamed `basta-stream.ts` paths must retain identical markup semantics and class names.
+Published programme documents and hashed private edit credentials use Cloudflare D1 through Pages Functions under `functions/`; source Markdown, scanned assets, and browsing remain static. `public/_routes.json` restricts dynamic invocation, root `wrangler.toml` configures Pages, and `workers/` contains independent scheduled cleanup. The [Recitation Sets reference](RECITATION_SETS.md) owns the schema, retention, exports, edit permissions, and deployment procedure.
 
+## Performance and validation boundaries
 
-## Responsive and scan viewing contracts
+- Lazy-load noncritical R2 scans with reserved dimensions and async decoding; retain the original direct URLs.
+- Use `content-visibility` for off-screen continuous-reader content when supported, and avoid measuring distant reader panels during scrolling.
+- Do not load the full Saved catalog, entire Basta book, or Pagefind JavaScript in unrelated initial HTML.
+- Keep browser tests focused on navigation, responsive geometry, availability fallbacks, no-JavaScript access, and source/streamed markup parity.
 
-- Reading articles use `reader-shell` CSS containers; the edition grid chooses parallel/stacked at the usable 40rem threshold. The page-by-page Basta mobile-portrait exception always gives selected text editions full-width stacked rows. Keep page-specific typography in route CSS, not competing grid rules.
-- A Basta page without Roman text falls back to its scan when Roman is the only chosen edition and explains why; Recitation Sets use the same explicit fallback for missing Roman editions. The original-language text is never silently substituted. Image-only pages always retain a scan.
-- `BastaContinuousPage.astro` and `basta-stream.ts` must render the same scan links, unavailable-edition labels, edition sections, page numbers, and kalam boundaries. Add parity assertions when changing either path.
-- The index switches from two tables to accessible compact linked entries only at very narrow container widths; no content source is duplicated.
-- Reading history, reader preferences, and explicit Basta page bookmarks use distinct localStorage keys. None leaves the browser. The Saved page also lists local recitation programme drafts.
-
-## Continuous Basta streaming
-
-The continuous reader no longer serializes the entire book into its initial HTML.
-
-- `src/lib/basta-reader-data.ts` joins Urdu/Roman source collections at build time.
-- The book is split into eight-page chunks around the physical index gap.
-- `src/pages/data/basta-reader/[chunk].json.ts` pre-renders those chunks as static JSON.
-- `/basta/read/` server-renders the first chunk and the linked index.
-- `src/client/basta-stream.ts` loads later chunks before they approach the viewport and resolves direct `#page-N` links by loading the required chunk.
-- The page-by-page reader remains the server-rendered/no-JavaScript fallback.
-
-Keep chunk size conservative. Larger chunks reduce requests but increase parse/render bursts; smaller chunks do the opposite.
-
-## Recitation Sets and Cloudflare boundaries
-
-Recitation Sets is a progressive feature: `/recite/` stores drafts in browser
-localStorage; the reader uses static JSON endpoints for original source text
-and scans. The permanent source ID registry is checked during builds. Published
-programme metadata and private edit-token hashes use Cloudflare D1, not
-Markdown or R2; expiry, deletion, and creation throttling are handled by
-Pages Functions under `functions/`.
-
-`public/_routes.json` restricts Pages Functions to Recitation Set API routes
-and `/r/*` short links. Static pages and R2-backed assets remain outside
-Functions. The root `wrangler.toml` defines `lyrics-site` Pages settings,
-with separate preview and production D1 bindings. The standalone cleanup
-Worker lives in `workers/` and uses its own `wrangler.cleanup.jsonc`
-configuration and daily Cron Trigger. The authoritative D1 creation schema
-is `schema/recitation.sql`; application-specific operations and retention
-are documented in [Recitation Sets](RECITATION_SETS.md).
-
-## Performance rules
-
-- Pagefind JavaScript/CSS is loaded only on `/search/`.
-- Off-screen continuous-reader pages use `content-visibility` when supported; the scroll controller avoids measuring distant page columns until they approach the viewport.
-- R2 scans and covers use native lazy loading where they are not the primary above-the-fold image, `decoding="async"`, and fallback aspect ratios to reserve layout space before intrinsic dimensions are known.
-- Do not import route CSS from `BaseLayout.astro` merely for convenience.
-- Do not move the full Saved/Recent catalog into initial page HTML; keep using the static catalog endpoint.
-- Keep `basta.css` as the single shared Basta stylesheet; do not reintroduce a separate kalam-break CSS import in a component.
-
-## Validation
-
-`npm test` runs the Node regression suite, including source-ID checks, D1 permission and retention tests, Basta stanza boundaries, scrolling, and verse-fitting math. The `prebuild` hook runs Node tests and recitation identity validation before the Astro/Pagefind build. `.github/workflows/reader-validation.yml` builds the site, checks Cloudflare routing files, and runs focused Chromium `@smoke` tests for the core readers and Recitation Sets. The complete Chromium suite remains available locally; CI avoids remote R2 availability probes and screenshot comparisons.
-
-## Repository hygiene
-
-Editor-specific files, generated output, and local maintenance scratch directories are not source and should stay out of Git. Build-driving configuration, documentation, content, and lockfiles remain versioned.
-
-The Basta landing page and pager share `src/client/basta-navigation.ts` for page-jump validation and index-gap routing.
-
-Page-by-page and linked-index Basta navigation is passed through the `navigation` slot of `ReadingControls.astro` to create one sticky toolbar. The lower redundant pager has been removed. Visible generic edition headings are removed while accessible labels and Focus Mode poetry titles remain.
-
-The Recitation Sets offline/print exporter embeds Noto Nastaliq Urdu regular/bold WOFF2 assets directly in generated HTML, permits only data fonts under its CSP, and prints after font readiness. It retains parallel editions, drops screen-only inline sizing, and excludes scans from offline output.
-
-Printed programmes use one bilingual grid row per stanza instead of full-height edition columns. Each row avoids page breaks, with kalam headings and notes grouped with their first stanza. Subsequent kalams flow into free space instead of forcing new sheets. The interactive reader is unchanged.
-
-## Discovery and responsive accessibility
-
-`home-continue.ts` reads only browser-local recent lyric IDs, Basta progress, and existing recitation drafts. Its section starts hidden in server HTML and appears only for recorded activity. Category pages group standalone and Basta sources separately; shared `LyricCardData` preserves the same title and metadata presentation. Search filters use a compact mobile disclosure and URL-synchronised active chips.
-
-`recitation-workflow.ts` provides the three-step builder navigation and only collapses optional metadata on mobile when an existing draft has no occasion or notes. It does not own drafts, remote publication, permissions, or live navigation; those remain in `recitation-builder.ts`. All public steps and navigation anchors work without this enhancement.
-
-### Granular bookmarks
-
-`basta-selections.ts` decorates the Urdu rendition after load with non-flow bookmark controls for kalams and numbered stanzas. Local storage keys identify page, selection type, and one-based index. Streaming pages use page-qualified DOM IDs to avoid duplicate anchors; bookmarked links open the page-by-page rendition. Source Markdown is not modified.
+Validation commands and CI conditions are documented once in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
