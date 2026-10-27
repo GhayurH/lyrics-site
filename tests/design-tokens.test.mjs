@@ -120,3 +120,15 @@ test("every variable reference in shared design CSS resolves to a declared token
     }
   }
 });
+
+test("theme-aware borders use one semantic token, including the custom editor", () => {
+  assert.match(tokens, /--ui-border:\s*1px solid var\(--border-colour\)/);
+  assert.match(tokens, /html\[data-theme="custom"\] \.theme-dialog\s*\{[^}]*--ui-border:\s*1px solid var\(--border-colour\)/s);
+  for (const [file, source] of Object.entries(css)) {
+    if (file === "tokens.css") continue;
+    assert.doesNotMatch(source, /1px solid var\(--border-colour\)/,
+      file + " repeats the canonical UI border");
+  }
+  assert.match(css["reading-columns.css"], /var\(--ui-border\)/);
+  assert.match(css["core.css"], /var\(--ui-border\)/);
+});
