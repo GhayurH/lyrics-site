@@ -14,7 +14,7 @@
 .reading-page-jump label { color: var(--secondary-text); font-size: .75rem; font-weight: 800; text-transform: uppercase; }
 .reading-page-jump input { width: 5rem; }
 .reading-page-jump :is(input, button), .reading-contents-button, .reading-scroll-top {
-  min-height: 2.75rem; border: 1px solid var(--border-colour); border-radius: .55rem; padding: .4rem .7rem;
+  min-height: var(--ui-target); border: 1px solid var(--border-colour); border-radius: .55rem; padding: .4rem .7rem;
   background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: .85rem; cursor: pointer;
 }
 .reading-page-jump button, .reading-contents-button, .reading-scroll-top { font-weight: 700; }
@@ -393,7 +393,7 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
   html:not([data-reading-focus="true"]) .reading-controls > .reading-regular-toggle {
     display: block;
     grid-column: 2; grid-row: 1;
-    min-height: 2.75rem;
+    min-height: var(--ui-target);
     border: 1px solid var(--border-colour); border-radius: .5rem;
     background: var(--surface-background); color: var(--primary-text);
     font: inherit; font-size: .85rem; font-weight: 700;
@@ -508,16 +508,16 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 .reading-context-nav .basta-jump-form input { width: 5rem; min-height: 2.5rem; }
 .reading-context-nav .basta-jump-form button { min-height: 2.5rem; }
 @media (pointer: coarse) {
-  .reading-column-choice, .reading-column-choice span { min-height: 2.75rem; }
+  .reading-column-choice, .reading-column-choice span { min-height: var(--ui-target); }
 }
 @media (max-width: 700px) {
   .reading-controls > .reading-context-nav { grid-column: 1 / -1; grid-row: 2; }
   .reading-context-nav .basta-pager { grid-template-columns: auto minmax(0, 1fr) auto; gap: .35rem; }
-  .reading-context-nav .basta-nav-button { min-height: 2.75rem; padding: .35rem .45rem; font-size: .76rem; }
+  .reading-context-nav .basta-nav-button { min-height: var(--ui-target); padding: .35rem .45rem; font-size: .76rem; }
   .reading-context-nav .basta-jump-form { gap: .3rem; min-width: 0; }
   .reading-context-nav .basta-jump-form label span { display: none; }
-  .reading-context-nav .basta-jump-form input { width: min(4rem, 100%); min-height: 2.75rem; padding: .3rem; text-align: center; }
-  .reading-context-nav .basta-jump-form button { min-height: 2.75rem; padding: .4rem .45rem; }
+  .reading-context-nav .basta-jump-form input { width: min(4rem, 100%); min-height: var(--ui-target); padding: .3rem; text-align: center; }
+  .reading-context-nav .basta-jump-form button { min-height: var(--ui-target); padding: .4rem .45rem; }
 }
 html[data-reading-focus="true"] .reading-controls > .reading-context-nav { display: none; }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-context-nav {
@@ -565,7 +565,7 @@ html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-
 .basta-selection-action:focus-visible,.basta-stanza-bookmark:focus-visible {
   opacity: 1; outline: var(--focus-ring); outline-offset: 3px;
 }
-@media (pointer: coarse) { .basta-selection-action { opacity: .8; min-width: 2.75rem; min-height: 2.75rem; } }
+@media (pointer: coarse) { .basta-selection-action { opacity: .8; min-width: var(--ui-target); min-height: var(--ui-target); } }
 
 /* Desktop scroll toolbar keeps every page-navigation action available and
    folds only edition and spacing settings. */
