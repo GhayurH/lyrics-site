@@ -9,7 +9,7 @@ export async function cleanRecitationDatabase(db, name, now = new Date().toISOSt
   const isPreview = name === "preview";
   const previewCutoff = new Date(Date.parse(now) - 30 * 86400000).toISOString();
   // Bounded work: at most 2,000 expired sets and 5,000 rate buckets each day.
-  // Preview always uses last edit + 30 days, even for incorrectly migrated rows.
+  // Preview always uses last edit + 30 days, regardless of the stored preservation flag.
   for (let batch = 0; batch < 10; batch++) {
     const removed = await db.prepare(isPreview
       ? `DELETE FROM recitation_sets WHERE id IN (
