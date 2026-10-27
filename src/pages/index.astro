@@ -43,12 +43,12 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
 
   <section class="home-collections" aria-label="Explore the collections">
     <a class="home-collection-card" href="#kalam-types-heading">
-      <span class="eyebrow">Individual kalam</span>
-      <h2>Browse by Kalam Type</h2>
-      <p>Explore the standalone collection and selections from Basta, organized by type.</p>
+      <span class="eyebrow">All kalam by type</span>
+      <h2>Browse Kalam Types</h2>
+      <p>Explore both standalone kalam and Basta selections, organized by type.</p>
       <span class="home-collection-bottom">
         <span class="home-collection-count">{kalamTypes.length} categories</span>
-        <span class="home-collection-action">Explore kalam <span aria-hidden="true">→</span></span>
+        <span class="home-collection-action">Browse types <span aria-hidden="true">→</span></span>
       </span>
     </a>
     <a class="home-collection-card home-collection-basta" href="/basta/">
@@ -61,7 +61,15 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
           <span class="home-collection-action">Explore Basta <span aria-hidden="true">→</span></span>
         </span>
       </div>
-      <div class="home-basta-emblem" aria-hidden="true"><span lang="ur" dir="rtl">بستہ</span></div>
+      <img
+        class="home-basta-preview"
+        src="/images/basta/original/001.png"
+        alt=""
+        width="1240"
+        height="1754"
+        loading="lazy"
+        decoding="async"
+      />
     </a>
   </section>
 

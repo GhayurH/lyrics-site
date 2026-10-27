@@ -1,5 +1,5 @@
 ---
-// File role: Basta landing: clear reading-mode choices, independent index/page jump, download, and saved reading position.
+// File role: Basta landing: original scan, reading modes, browser-local resume, index, page jump, and PDF.
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { loadBastaNavigationData } from "../../lib/basta-pages";
 import "../../styles/basta.css";
@@ -11,49 +11,61 @@ const lastPage = availablePages.at(-1);
 
 <BaseLayout
   title="Basta | Kalam Archive"
-  description="Explore the complete Basta book in page-by-page or continuous reading mode, browse the index, or download the original PDF."
+  description="Read Basta page by page or continuously, find kalam in the book index, or access the original PDF."
 >
-  <article class="basta-home basta-home-redesign">
-    <header class="basta-home-header">
-      <div class="basta-home-intro">
-        <div class="basta-home-intro-copy">
-          <p class="eyebrow">The complete book archive</p>
-          <h1>Basta</h1>
-          <p>
-            Explore original page scans alongside cleaned Urdu text and Roman Urdu
-            where available. Read one page at a time or as a continuous book.
-          </p>
-          <div class="basta-home-start-actions">
-            {firstPage && (
-              <a class="button" href={`/basta/${firstPage}/`}>Start at page {firstPage}</a>
-            )}
-            <a class="button button-secondary" href="/basta/read/">Read continuously</a>
-            <a class="basta-home-resume" data-resume-basta href="/basta/" hidden>Continue reading</a>
-          </div>
-        </div>
-        <div class="basta-home-book" aria-hidden="true">
-          <span class="basta-home-book-title" lang="ur" dir="rtl">بستہ</span>
-          <span class="basta-home-book-subtitle">Digital book archive</span>
-        </div>
+  <article class="basta-home">
+    <header class="basta-home-intro">
+      <div class="basta-home-intro-copy">
+        <p class="eyebrow">The complete book archive</p>
+        <h1>Basta</h1>
+        <p>Original page scans alongside cleaned Urdu text and Roman Urdu where available.</p>
       </div>
+      {firstPage && (
+        <a
+          class="basta-home-scan"
+          href={"/basta/" + firstPage + "/"}
+          aria-label={"Open original Basta page " + firstPage}
+        >
+          <img
+            src="/images/basta/original/001.png"
+            alt="Original scan of Basta page 1"
+            width="1240"
+            height="1754"
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+          />
+          <span class="basta-home-scan-caption">Original page 1</span>
+        </a>
+      )}
     </header>
 
-    <section class="basta-home-modes" aria-label="Choose a reading mode">
+    <section class="basta-home-resume-panel" data-basta-resume-section hidden>
+      <a class="basta-home-resume" href="/basta/" data-resume-basta hidden>
+        <span class="basta-home-resume-copy">
+          <span class="basta-home-resume-kicker">Pick up where you left off</span>
+          <strong data-basta-resume-label>Continue reading</strong>
+        </span>
+        <span class="basta-home-resume-arrow" aria-hidden="true">→</span>
+      </a>
+    </section>
+
+    <section class="basta-home-modes" aria-labelledby="basta-home-modes-heading">
       <div class="basta-home-modes-heading">
-        <p class="eyebrow">Reading options</p>
-        <h2>Choose how to read</h2>
+        <p class="eyebrow">Read the book</p>
+        <h2 id="basta-home-modes-heading">Choose how to read</h2>
       </div>
       <div class="basta-home-mode-grid">
-        <a class="basta-home-mode-card" href={firstPage ? `/basta/${firstPage}/` : "/basta/index/"}>
+        <a class="basta-home-mode-card" href={firstPage ? "/basta/" + firstPage + "/" : "/basta/index/"}>
           <span class="basta-home-mode-number" aria-hidden="true">01</span>
           <h3>Page by page</h3>
-          <p>Move through individual book pages with the original scan and available Urdu and Roman Urdu.</p>
-          <span class="basta-home-mode-action">Open page reader <span aria-hidden="true">→</span></span>
+          <p>Explore individual pages with original scans and available Urdu and Roman Urdu.</p>
+          <span class="basta-home-mode-action">Start at page {firstPage ?? 1} <span aria-hidden="true">→</span></span>
         </a>
         <a class="basta-home-mode-card" href="/basta/read/">
           <span class="basta-home-mode-number" aria-hidden="true">02</span>
           <h3>Continuous reader</h3>
-          <p>Read the complete book in one flow and choose which text and scan columns to display.</p>
+          <p>Read the whole book in one flow with your preferred text and scan columns.</p>
           <span class="basta-home-mode-action">Open continuous reader <span aria-hidden="true">→</span></span>
         </a>
       </div>
@@ -61,49 +73,47 @@ const lastPage = availablePages.at(-1);
 
     <section class="basta-home-find" aria-labelledby="basta-home-find-heading">
       <div class="basta-home-find-intro">
-        <p class="eyebrow">Navigate the book</p>
+        <p class="eyebrow">Navigate</p>
         <h2 id="basta-home-find-heading">Find a page or kalam</h2>
-        <p>Use the book index to find a kalam, or go straight to a numbered page.</p>
+        <p>Browse the linked book index or go straight to a numbered page.</p>
         <a class="basta-home-index-link" href="/basta/index/">Browse book index <span aria-hidden="true">→</span></a>
       </div>
-      {
-        firstPage && lastPage && (
-          <form
-            class="basta-home-page-jump"
-            data-basta-jump-form
-            data-available-pages={availablePages.join(",")}
-            data-index-start-page={indexStartPage}
-            data-index-end-page={indexEndPage}
-            aria-label="Go directly to a Basta page"
-          >
-            <label for="basta-home-page-number">Go to page</label>
-            <div class="basta-home-page-jump-controls">
-              <input
-                id="basta-home-page-number"
-                name="page"
-                type="number"
-                min={firstPage}
-                max={lastPage}
-                inputmode="numeric"
-                placeholder="Page number"
-                required
-              />
-              <button type="submit">Go</button>
-            </div>
-            <p class="basta-home-page-hint">Enter a page number from the book.</p>
-          </form>
-        )
-      }
+      {firstPage && lastPage && (
+        <form
+          class="basta-home-page-jump"
+          data-basta-jump-form
+          data-available-pages={availablePages.join(",")}
+          data-index-start-page={indexStartPage}
+          data-index-end-page={indexEndPage}
+          aria-label="Go directly to a Basta page"
+        >
+          <label for="basta-home-page-number">Go to page</label>
+          <div class="basta-home-page-jump-controls">
+            <input
+              id="basta-home-page-number"
+              name="page"
+              type="number"
+              min={firstPage}
+              max={lastPage}
+              inputmode="numeric"
+              placeholder="Page number"
+              required
+            />
+            <button type="submit">Go</button>
+          </div>
+        </form>
+      )}
+      <p class="basta-home-nojs" data-requires-js>
+        Direct page jumping requires JavaScript. You can still browse the linked book index.
+      </p>
     </section>
 
     <section class="basta-home-download" aria-labelledby="basta-home-pdf-heading">
       <div>
         <h2 id="basta-home-pdf-heading">Original Basta PDF</h2>
-        <p>Prefer the source document? Download the complete original book.</p>
+        <p>Download the complete original book.</p>
       </div>
-      <a class="button button-secondary" href="/files/basta/basta.pdf" download>
-        Download PDF
-      </a>
+      <a class="button button-secondary" href="/files/basta/basta.pdf" download>Download PDF</a>
     </section>
   </article>
 
