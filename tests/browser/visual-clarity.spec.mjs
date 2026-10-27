@@ -96,3 +96,13 @@ test("printed verses never wrap or overflow reading columns", async ({ page }) =
     }
   }
 });
+
+test("an empty programme order card does not stretch to the title form", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 850 });
+  await page.goto("/recite/");
+  const detail = await page.locator(".recite-details").boundingBox();
+  const order = await page.locator(".recite-programme").boundingBox();
+  expect(detail.height).toBeGreaterThan(0);
+  expect(order.height).toBeLessThan(detail.height);
+  await expect(page.locator("#recite-empty")).toBeVisible();
+});

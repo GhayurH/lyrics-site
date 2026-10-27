@@ -354,3 +354,16 @@ html[data-reading-focus="true"] .recite-reader-exports { display: none; }
 .recite-results li { padding-block: .55rem; }
 .recite-results li strong { line-height: 1.5; }
 .recite-find > .recite-hint { max-width: 62ch; }
+
+/* In an empty programme, don't stretch a mostly blank order card to match
+   the title/details panel. Preserve natural height once items are added. */
+.recite-programme[data-empty="true"] { align-self: start; min-height: 0; }
+.recite-steps { margin-bottom: .85rem; }
+.recite-app > .page-header-simple { margin-bottom: 1.1rem; }
+.recite-app > .page-header-simple > p:last-child {
+  max-width: 58ch; line-height: 1.5;
+}
+@media (max-width: 700px) {
+  .recite-steps { margin-bottom: .65rem; }
+  .recite-app > .page-header-simple { margin-bottom: .85rem; }
+}
