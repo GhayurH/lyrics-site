@@ -53,6 +53,7 @@ function parseInheritedPresetColors(value: unknown): InheritedPresetColors | und
 export function parsePalette(value: unknown): CustomPalette {
   const data = value && typeof value === "object" && !Array.isArray(value)
     ? value as Partial<CustomPalette> : {};
+  const inherited = parseInheritedPresetColors(data.inherited);
   return {
     main: validHex(data.main) ? data.main.toLowerCase() : DEFAULT_PALETTE.main,
     secondary: validHex(data.secondary) ? data.secondary.toLowerCase() : DEFAULT_PALETTE.secondary,
@@ -60,8 +61,7 @@ export function parsePalette(value: unknown): CustomPalette {
     ...(validHex(data.primaryText) ? { primaryText: data.primaryText.toLowerCase() } : {}),
     ...(validHex(data.mutedText) ? { mutedText: data.mutedText.toLowerCase() } : {}),
     ...(validHex(data.borders) ? { borders: data.borders.toLowerCase() } : {}),
-    ...(parseInheritedPresetColors(data.inherited)
-      ? { inherited: parseInheritedPresetColors(data.inherited) } : {}),
+    ...(inherited ? { inherited } : {}),
   };
 }
 
