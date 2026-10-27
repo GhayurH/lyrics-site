@@ -11,6 +11,11 @@ export interface RecitationItem {
   /** Absent means the unmodified canonical poem. Empty arrays are rejected. */
   stanzaSequence?: StanzaRef[];
 }
+export interface LiveRecitationPosition {
+  active: boolean;
+  /** The permanent programme-entry UID, not the source kalam ID. */
+  currentUid: string;
+}
 export interface RecitationSet {
   version: 1;
   title: string;
@@ -18,6 +23,8 @@ export interface RecitationSet {
   description: string;
   /** Explicitly preserves published production programmes from automatic expiry. */
   permanent?: boolean;
+  /** Organizer-controlled position; readers follow only when they opt in. */
+  live?: LiveRecitationPosition;
   items: RecitationItem[];
 }
 export interface RecitationDraft {
@@ -78,10 +85,19 @@ export function validateRecitationSet(raw: unknown): RecitationSet {
       ...(sequence ? { stanzaSequence: sequence } : {}),
     };
   });
+  const live = doc.live;
+  if (live !== undefined &&
+      (!live || typeof live !== "object" || Array.isArray(live) ||
+       typeof (live as Record<string, unknown>).active !== "boolean" ||
+       typeof (live as Record<string, unknown>).currentUid !== "string" ||
+       !seen.has((live as Record<string, unknown>).currentUid as string)))
+    throw Error("Invalid live programme position");
   return {
     version: 1, title: doc.title.trim(), occasion: doc.occasion.trim(),
     description: doc.description.trim(),
-    ...(doc.permanent ? { permanent: true } : {}), items,
+    ...(doc.permanent ? { permanent: true } : {}),
+    ...(live ? { live: { active: (live as LiveRecitationPosition).active,
+      currentUid: (live as LiveRecitationPosition).currentUid } } : {}), items,
   };
 }
 export function emptyRecitationSet(): RecitationSet {
