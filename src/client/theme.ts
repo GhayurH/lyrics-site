@@ -15,6 +15,15 @@ export function validHex(value: unknown): value is string {
   return typeof value === "string" && HEX.test(value);
 }
 
+/** CSS minifiers may shorten #ffffff to #fff. Colour inputs require six digits. */
+export function normalizeCssHex(value: string, fallback: string): string {
+  const hex = value.trim().toLowerCase();
+  if (validHex(hex)) return hex;
+  if (/^#[0-9a-f]{3}$/.test(hex))
+    return "#" + [...hex.slice(1)].map((digit) => digit + digit).join("");
+  return fallback;
+}
+
 export function parsePalette(value: unknown): CustomPalette {
   const data = value && typeof value === "object" && !Array.isArray(value)
     ? value as Partial<CustomPalette> : {};
