@@ -2,9 +2,15 @@
 // All palettes are local to this browser; no account or server storage.
 export type ThemeName = "light" | "dark" | "amoled" | "sepia" | "custom";
 export type AdvancedColor = "primaryText" | "mutedText" | "borders";
+/** Preset colours remain the Auto defaults until the Custom surfaces change. */
+export type InheritedPresetColors = {
+  main: string; secondary: string;
+  primary: string; muted: string; borders: string;
+};
 export type CustomPalette = {
   main: string; secondary: string; accent: string;
   primaryText?: string; mutedText?: string; borders?: string;
+  inherited?: InheritedPresetColors;
 };
 
 export const PALETTE_KEY = "kalam:custom-theme";
@@ -29,6 +35,21 @@ export function normalizeCssHex(value: string, fallback: string): string {
   return fallback;
 }
 
+/** Persist only known hexadecimal role values, never arbitrary CSS input. */
+function parseInheritedPresetColors(value: unknown): InheritedPresetColors | undefined {
+  if (!value || typeof value !== "object" || Array.isArray(value)) return undefined;
+  const data = value as Record<string, unknown>;
+  const roles = ["main", "secondary", "primary", "muted", "borders"] as const;
+  if (!roles.every((role) => validHex(data[role]))) return undefined;
+  return {
+    main: (data.main as string).toLowerCase(),
+    secondary: (data.secondary as string).toLowerCase(),
+    primary: (data.primary as string).toLowerCase(),
+    muted: (data.muted as string).toLowerCase(),
+    borders: (data.borders as string).toLowerCase(),
+  };
+}
+
 export function parsePalette(value: unknown): CustomPalette {
   const data = value && typeof value === "object" && !Array.isArray(value)
     ? value as Partial<CustomPalette> : {};
@@ -39,6 +60,8 @@ export function parsePalette(value: unknown): CustomPalette {
     ...(validHex(data.primaryText) ? { primaryText: data.primaryText.toLowerCase() } : {}),
     ...(validHex(data.mutedText) ? { mutedText: data.mutedText.toLowerCase() } : {}),
     ...(validHex(data.borders) ? { borders: data.borders.toLowerCase() } : {}),
+    ...(parseInheritedPresetColors(data.inherited)
+      ? { inherited: parseInheritedPresetColors(data.inherited) } : {}),
   };
 }
 
@@ -82,11 +105,15 @@ export function paletteTextColors(palette: CustomPalette): {
   primary: string; muted: string; borders: string; ratio: number;
 } {
   const base = paletteForeground(palette);
-  const primary = palette.primaryText ?? base.text;
-  const muted = palette.mutedText ?? automaticMuted(base.text, palette);
+  // An unchanged copied preset should look identical. Recalculate Auto roles
+  // once a custom surface changes, keeping manual overrides independent.
+  const original = palette.inherited?.main === palette.main &&
+    palette.inherited?.secondary === palette.secondary ? palette.inherited : undefined;
+  const primary = palette.primaryText ?? original?.primary ?? base.text;
+  const muted = palette.mutedText ?? original?.muted ?? automaticMuted(base.text, palette);
   return {
     primary, muted,
-    borders: palette.borders ?? blendHex(base.text, palette.main, .22),
+    borders: palette.borders ?? original?.borders ?? blendHex(base.text, palette.main, .22),
     ratio: Math.min(minTextContrast(primary, palette), minTextContrast(muted, palette)),
   };
 }
@@ -146,7 +173,7 @@ export function applyTheme(theme: ThemeName, palette: CustomPalette = readCustom
     root.style.setProperty("--theme-foreground", primary);
     root.style.setProperty("--theme-muted", muted);
     root.style.setProperty("--theme-border-auto", paletteTextColors({
-      main: palette.main, secondary: palette.secondary, accent: palette.accent,
+      ...palette, primaryText: undefined, mutedText: undefined, borders: undefined,
     }).borders);
     if (palette.borders) root.style.setProperty("--theme-border", palette.borders);
     else root.style.removeProperty("--theme-border");
