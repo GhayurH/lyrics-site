@@ -104,7 +104,7 @@ html, body { background: var(--site-background); color: var(--primary-text); }
 
 .section-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
 .eyebrow { margin: 0 0 0.45rem; color: var(--secondary-text); font-size: 0.78rem; font-weight: 800; letter-spacing: 0.09em; text-transform: uppercase; }
-.page-header-simple { max-width: 52rem; margin-bottom: 2.5rem; }
+.page-header-simple { max-width: var(--content-heading); margin-bottom: 2.5rem; }
 .page-header-simple h1 { margin: 0 0 0.7rem; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; }
 .page-header-simple > p:last-child { color: var(--secondary-text); }
 .back-link { display: inline-block; margin-bottom: 2rem; }
@@ -113,7 +113,7 @@ html, body { background: var(--site-background); color: var(--primary-text); }
 .favorite-button,
 .text-button {
   border: 1px solid var(--border-colour);
-  border-radius: 0.55rem;
+  border-radius: var(--ui-radius-tight);
   background: var(--surface-background);
   color: var(--primary-text);
   font: inherit;
@@ -134,7 +134,7 @@ html, body { background: var(--site-background); color: var(--primary-text); }
 .mobile-nav-toggle {
   display: none;
   border: 1px solid var(--border-colour);
-  border-radius: .55rem;
+  border-radius: var(--ui-radius-tight);
   background: var(--surface-background);
   color: var(--primary-text);
   cursor: pointer;
@@ -239,7 +239,7 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 .lyric-card-meta { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.25rem; }
 .lyric-card-meta:empty { display: none; }
 .metadata-chip { border-radius: 999px; padding: 0.18rem 0.5rem; background: var(--tag-background); color: var(--secondary-text); font-size: 0.72rem; line-height: 1.35; }
-.favorite-icon-button { display: inline-grid; width: 2rem; height: 2rem; min-width: 2.6rem; min-height: 2.6rem; place-items: center; flex: 0 0 2rem; border-radius: 0.55rem; padding: 0; }
+.favorite-icon-button { display: inline-grid; width: 2rem; height: 2rem; min-width: 2.6rem; min-height: 2.6rem; place-items: center; flex: 0 0 2rem; border-radius: var(--ui-radius-tight); padding: 0; }
 .favorite-icon-button svg { width: 1.05rem; height: 1.05rem; fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.7; }
 .favorite-icon-button[aria-pressed="true"] svg, .favorite-icon-button[data-saved="true"] svg { fill: currentColor; }
 .lyric-card-save { position: absolute; top: 0.42rem; right: 0.42rem; z-index: 3; width: 2.6rem; height: 2.6rem; margin: 0; border-radius: 0.45rem; }
