@@ -59,6 +59,10 @@
 .recite-editions .lyric-reading-roman { grid-area: roman; }
 .recite-editions .lyric-reading-image { grid-area: image; }
 .recite-editions .lyric-reading-image img { width: 100%; height: auto; max-height: 80vh; object-fit: contain; }
+.recite-scan-page { width: 100%; min-width: 0; margin-block: 0 1.25rem; text-align: center; }
+.recite-scan-page a { display: block; max-width: 100%; }
+.recite-scan-page img { width: auto; max-width: 100%; margin-inline: auto; }
+.recite-scan-caption { color: var(--secondary-text); font-size: .8rem; margin-top: .35rem; }
 .recite-reading-root:not([data-reading-columns~="urdu"]) .lyric-reading-urdu { display: none; }
 .recite-reading-root:not([data-reading-columns~="roman"]) .lyric-reading-roman { display: none; }
 .recite-reading-root:not([data-reading-columns~="image"]) .lyric-reading-image { display: none; }
