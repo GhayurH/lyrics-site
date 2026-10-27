@@ -1,7 +1,11 @@
 // File role: Appearance preferences and colour contrast calculation.
 // All palettes are local to this browser; no account or server storage.
 export type ThemeName = "light" | "dark" | "amoled" | "sepia" | "custom";
-export type CustomPalette = { main: string; secondary: string; accent: string };
+export type AdvancedColor = "primaryText" | "mutedText" | "borders";
+export type CustomPalette = {
+  main: string; secondary: string; accent: string;
+  primaryText?: string; mutedText?: string; borders?: string;
+};
 
 export const PALETTE_KEY = "kalam:custom-theme";
 export const PALETTE_BASE_KEY = "kalam:custom-theme-base";
@@ -32,6 +36,9 @@ export function parsePalette(value: unknown): CustomPalette {
     main: validHex(data.main) ? data.main.toLowerCase() : DEFAULT_PALETTE.main,
     secondary: validHex(data.secondary) ? data.secondary.toLowerCase() : DEFAULT_PALETTE.secondary,
     accent: validHex(data.accent) ? data.accent.toLowerCase() : DEFAULT_PALETTE.accent,
+    ...(validHex(data.primaryText) ? { primaryText: data.primaryText.toLowerCase() } : {}),
+    ...(validHex(data.mutedText) ? { mutedText: data.mutedText.toLowerCase() } : {}),
+    ...(validHex(data.borders) ? { borders: data.borders.toLowerCase() } : {}),
   };
 }
 
@@ -43,6 +50,45 @@ function luminance(hex: string): number {
 
 function contrast(first: number, second: number): number {
   return (Math.max(first, second) + .05) / (Math.min(first, second) + .05);
+}
+
+function blendHex(foreground: string, background: string, foregroundShare: number): string {
+  const channel = (i: number) => Math.round(
+    parseInt(foreground.slice(i, i + 2), 16) * foregroundShare +
+    parseInt(background.slice(i, i + 2), 16) * (1 - foregroundShare),
+  ).toString(16).padStart(2, "0");
+  return "#" + [1, 3, 5].map(channel).join("");
+}
+
+function minTextContrast(text: string, palette: CustomPalette): number {
+  const value = luminance(text);
+  return Math.min(contrast(value, luminance(palette.main)), contrast(value, luminance(palette.secondary)));
+}
+
+/** A less prominent text tone that still reaches 4.5:1 on both backgrounds
+ * wherever the two chosen surfaces permit it. */
+function automaticMuted(primary: string, palette: CustomPalette): string {
+  const average = blendHex(palette.main, palette.secondary, .5);
+  let selected = primary;
+  for (let share = .95; share >= .05; share -= .05) {
+    const candidate = blendHex(primary, average, share);
+    if (minTextContrast(candidate, palette) < 4.5) break;
+    selected = candidate;
+  }
+  return selected;
+}
+
+export function paletteTextColors(palette: CustomPalette): {
+  primary: string; muted: string; borders: string; ratio: number;
+} {
+  const base = paletteForeground(palette);
+  const primary = palette.primaryText ?? base.text;
+  const muted = palette.mutedText ?? automaticMuted(primary, palette);
+  return {
+    primary, muted,
+    borders: palette.borders ?? blendHex(primary, palette.main, .22),
+    ratio: Math.min(minTextContrast(primary, palette), minTextContrast(muted, palette)),
+  };
 }
 
 /** Choose the foreground maximizing contrast against *both* page and card. */
@@ -82,13 +128,16 @@ export function applyTheme(theme: ThemeName, palette: CustomPalette = readCustom
   const root = document.documentElement;
   let readability = 21;
   if (theme === "custom") {
-    const { text, accentText, ratio, scheme } = paletteForeground(palette);
+    const { accentText, scheme } = paletteForeground(palette);
+    const { primary, muted, ratio } = paletteTextColors(palette);
     readability = ratio;
     root.style.setProperty("--theme-main", palette.main);
     root.style.setProperty("--theme-secondary", palette.secondary);
     root.style.setProperty("--theme-accent", palette.accent);
-    root.style.setProperty("--theme-foreground", text);
-    root.style.setProperty("--theme-muted", text);
+    root.style.setProperty("--theme-foreground", primary);
+    root.style.setProperty("--theme-muted", muted);
+    if (palette.borders) root.style.setProperty("--theme-border", palette.borders);
+    else root.style.removeProperty("--theme-border");
     root.style.setProperty("--theme-accent-text", accentText);
     root.style.setProperty("--theme-color-scheme", scheme);
     root.dataset.pfTheme = scheme;
