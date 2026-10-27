@@ -310,13 +310,13 @@
    ========================================================= */
 
 .basta-reader-flow[data-line-spacing="compact"] {
-  --basta-urdu-leading: var(--reading-undefined);
-  --basta-roman-leading: var(--reading-undefined);
+  --basta-urdu-leading: var(--reading-urdu-leading-compact);
+  --basta-roman-leading: var(--reading-roman-leading-compact);
 }
 
 .basta-reader-flow[data-line-spacing="relaxed"] {
-  --basta-urdu-leading: var(--reading-undefined);
-  --basta-roman-leading: var(--reading-undefined);
+  --basta-urdu-leading: var(--reading-urdu-leading-relaxed);
+  --basta-roman-leading: var(--reading-roman-leading-relaxed);
 }
 
 /* Index line spacing follows the same control on both pages. */
