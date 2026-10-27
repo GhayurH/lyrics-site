@@ -13,6 +13,10 @@ test("light, dark and sepia presets persist between pages @smoke", async ({ page
   await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#f4ead6");
   await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "light");
   await page.locator("#theme-dialog-done").click();
+  await page.screenshot({ path: "test-results/visual-review/theme-sepia-desktop.png", animations: "disabled" });
+  await page.goto("/search/");
+  await expect.poll(() => page.locator(".search-page").evaluate((element) =>
+    getComputedStyle(element).getPropertyValue("--pf-background").trim())).toBe("#fbf4e6");
   await page.goto("/basta/138/");
   await expect(page.locator("html")).toHaveAttribute("data-theme", "sepia");
   await page.locator("#theme-toggle").click();
@@ -45,6 +49,7 @@ test("build your own applies three colour choices, derives text and remembers th
   await expect.poll(() => page.evaluate(() =>
     getComputedStyle(document.documentElement).getPropertyValue("--button-background").trim())).toBe("#ffd166");
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
+  await page.screenshot({ path: "test-results/visual-review/theme-custom-desktop.png", animations: "disabled" });
   await page.locator("#theme-dialog-done").click();
   await page.goto("/saved/");
   await expect(page.locator("html")).toHaveAttribute("data-theme", "custom");
@@ -87,6 +92,7 @@ test("dialog stays in the viewport and Escape closes it on small phones and land
     expect(rect.x + rect.width).toBeLessThanOrEqual(viewport.width + 2);
     expect(rect.y + rect.height).toBeLessThanOrEqual(viewport.height + 2);
     await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+    await page.screenshot({ path: "test-results/visual-review/theme-custom-" + viewport.width + ".png", animations: "disabled" });
     await page.keyboard.press("Escape");
     await expect(dialog).toBeHidden();
     await expect(page.locator("#theme-toggle")).toBeFocused();
