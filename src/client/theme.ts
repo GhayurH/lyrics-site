@@ -83,10 +83,10 @@ export function paletteTextColors(palette: CustomPalette): {
 } {
   const base = paletteForeground(palette);
   const primary = palette.primaryText ?? base.text;
-  const muted = palette.mutedText ?? automaticMuted(primary, palette);
+  const muted = palette.mutedText ?? automaticMuted(base.text, palette);
   return {
     primary, muted,
-    borders: palette.borders ?? blendHex(primary, palette.main, .22),
+    borders: palette.borders ?? blendHex(base.text, palette.main, .22),
     ratio: Math.min(minTextContrast(primary, palette), minTextContrast(muted, palette)),
   };
 }
@@ -145,6 +145,9 @@ export function applyTheme(theme: ThemeName, palette: CustomPalette = readCustom
     root.style.setProperty("--theme-accent", palette.accent);
     root.style.setProperty("--theme-foreground", primary);
     root.style.setProperty("--theme-muted", muted);
+    root.style.setProperty("--theme-border-auto", paletteTextColors({
+      main: palette.main, secondary: palette.secondary, accent: palette.accent,
+    }).borders);
     if (palette.borders) root.style.setProperty("--theme-border", palette.borders);
     else root.style.removeProperty("--theme-border");
     root.style.setProperty("--theme-accent-text", accentText);
