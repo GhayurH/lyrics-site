@@ -25,7 +25,7 @@ romanLyrics: |-
   Wo aayi daykhiyay sar par wo aayi Zulfiqar aayi
   
   Ali ka naam lay kar meinay kholi aankh marqad main
-  Madad Mawla ki meri qabar may qabl az fishar aayi
+  Madad Maula ki meri qabar may qabl az fishar aayi
 ---
 
 بہار آنے کو ہے یوں تو جہاں میں ہے ہزار آئی
