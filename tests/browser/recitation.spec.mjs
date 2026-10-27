@@ -1,4 +1,55 @@
 import { test, expect } from "@playwright/test";
+import { readFile } from "node:fs/promises";
+
+test("offline programme export contains complete text, reciter assignments and notes @smoke", async ({ page }) => {
+  await page.goto("/recite/");
+  await page.locator("#recite-title").fill("Offline printable programme");
+  await page.locator("#recite-description").fill("Organizers' programme notes");
+  await page.locator("#recite-source").selectOption("lyric");
+  await expect(page.locator("#recite-results li button:not([disabled])").first()).toBeVisible();
+  await page.locator("#recite-results li button:not([disabled])").first().click();
+  await page.locator(".recite-inline-note input").first().fill("Assigned reciter");
+  await page.locator(".recite-inline-note input").first().blur();
+  await page.locator(".recite-inline-note input").nth(1).fill("Read after opening salaam");
+  await page.locator(".recite-inline-note input").nth(1).blur();
+  await page.locator("#recite-open-reader").click();
+  const pending = page.waitForEvent("download");
+  await page.locator("#recite-download-offline").click();
+  const download = await pending;
+  expect(download.suggestedFilename()).toMatch(/\.html$/);
+  const html = await readFile(await download.path(), "utf8");
+  expect(html).toContain("Offline printable programme");
+  expect(html).toContain("Organizers&#39; programme notes");
+  expect(html).toContain("Assigned reciter");
+  expect(html).toContain("Read after opening salaam");
+  expect(html).toContain("Original text");
+  expect(html).toContain("Roman Urdu");
+  expect(html).not.toContain("<script");
+  expect(html).not.toMatch(/<img\b/i);
+  await expect(page.locator("#recite-print")).toBeEnabled();
+});
+
+test("live navigation is opt-in and follows published entry UIDs @smoke", async ({ page }) => {
+  const id = "0123456789abcdef01234567";
+  const firstUid = "391002ab-16f4-4535-bf2a-8ca02cefc956";
+  const nextUid = "b61002ab-16f4-4535-bf2a-8ca02cefc956";
+  const items = [firstUid, nextUid].map((uid) => ({
+    uid, kind: "lyric", id: "aa-asghar-bin-tere", sourceTitle: "Aa Asghar bin tere",
+  }));
+  const set = { version: 1, title: "Live programme", occasion: "", description: "",
+    items, live: { active: true, currentUid: nextUid } };
+  await page.route("**/api/recitation-sets/" + id, (route) =>
+    route.fulfill({ contentType: "application/json", body: JSON.stringify({ id, set }) }));
+  await page.goto("/recite/read/?set=" + id);
+  await expect(page.locator("#recite-position")).toHaveText("1 / 2");
+  await page.locator("#recite-follow-live").check();
+  await expect(page.locator("#recite-position")).toHaveText("2 / 2");
+  await expect(page.locator("#recite-live-status")).toContainText("Following organizer");
+  await page.locator("#recite-previous").click();
+  await expect(page.locator("#recite-follow-live")).not.toBeChecked();
+  await expect(page.locator("#recite-position")).toHaveText("1 / 2");
+});
+
 
 test("create local recitation programme and read standalone lyric @smoke", async ({ page }) => {
   await page.goto("/recite/");

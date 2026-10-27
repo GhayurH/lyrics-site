@@ -35,6 +35,11 @@ function fakeDb() {
                 limits.set(key, { attempts: count + 1, expires_at: expiry });
                 return { attempts: count + 1 };
               }
+              if (sql.startsWith("SELECT document,updated_at,permanent,expires_at FROM recitation_sets WHERE id=? AND edit_token_hash=?")) {
+                const row = data.get(args[0]);
+                return row?.hash === args[1] ? { document: row.document, updated_at: row.updated_at,
+                  permanent: row.permanent, expires_at: row.expires_at } : null;
+              }
               if (sql.startsWith("SELECT document,updated_at")) {
                 const row = data.get(args[0]);
                 return row && { document: row.document, updated_at: row.updated_at,
@@ -45,11 +50,6 @@ function fakeDb() {
                 return row && row.hash === args[1]
                   ? { updated_at: row.updated_at, permanent: row.permanent, expires_at: row.expires_at }
                   : null;
-              }
-              if (sql.startsWith("SELECT document,updated_at,permanent,expires_at FROM recitation_sets WHERE id=? AND edit_token_hash=?")) {
-                const row = data.get(args[0]);
-                return row?.hash === args[1] ? { document: row.document, updated_at: row.updated_at,
-                  permanent: row.permanent, expires_at: row.expires_at } : null;
               }
               if (sql.startsWith("SELECT count(*)")) {
                 const rows = [...data.values()];
