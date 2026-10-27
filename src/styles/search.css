@@ -32,14 +32,14 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 }
 
 /* Filter chips and clear actions must remain easy to tap on small screens. */
-.search-filter-chip, .search-clear-button { min-height: 2.75rem; }
+.search-filter-chip, .search-clear-button { min-height: var(--ui-target); }
 
 /* Filters are always available on desktop, but collapse above results on phones. */
 .search-filter-disclosure { margin-top: .65rem; }
 .search-filter-disclosure > summary { display: none; }
 @media (max-width: 700px) {
   .search-filter-disclosure { border: 1px solid var(--border-colour); background: var(--surface-background); }
-  .search-filter-disclosure > summary { display: list-item; min-height: 2.75rem; padding: .7rem 1rem; cursor: pointer; font-weight: 700; }
+  .search-filter-disclosure > summary { display: list-item; min-height: var(--ui-target); padding: .7rem 1rem; cursor: pointer; font-weight: 700; }
   .search-filter-disclosure .search-primary-filters { margin-top: 0; padding: 0 .75rem .75rem; }
   .search-filter-disclosure .search-more-filters { margin: .2rem .75rem .75rem; background: var(--site-background); }
 }
