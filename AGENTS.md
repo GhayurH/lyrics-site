@@ -1,47 +1,21 @@
-# Kalam Archive agent guide
+# Coding agent instructions
 
-This file is the short operational contract for coding agents. Human-facing setup and content rules live in `README.md` and `docs/CONTRIBUTING.md`; architecture boundaries live in `docs/ARCHITECTURE.md`.
+This is the short operational entry point. Canonical details live in [CONTRIBUTING.md](docs/CONTRIBUTING.md) (content and validation), [ARCHITECTURE.md](docs/ARCHITECTURE.md) (implementation boundaries), [ASSET_WORKFLOW.md](docs/ASSET_WORKFLOW.md) (R2), and [RECITATION_SETS.md](docs/RECITATION_SETS.md) (source IDs and programme storage).
 
-## Preserve behavior and content
+## Non-negotiable invariants
 
-- Treat Urdu wording, line breaks, stanza numbering, punctuation, harakat, Basta page numbering, and stable public URLs as preserved data unless the task explicitly changes them.
-- Use the required `kalamType` metadata model; do not reintroduce legacy category inference.
-- Keep large `/images/` and `/files/` assets in Cloudflare R2, not Git.
-
-## Architecture boundaries
-
-- `src/layouts/BaseLayout.astro`: global shell only.
-- `src/styles/core.css`: genuinely cross-route primitives only; route styles stay route-local.
-- `src/client/`: browser-side controllers and local persistence.
-- `src/lib/`: shared domain/data helpers; `*-data.ts` and collection loaders are server/build-time code.
-- `src/components/`: reusable presentation with minimal behavior.
-- `src/pages/`: route composition, not duplicated domain logic.
-
-Prefer extending an existing shared helper/component over copying logic into another route. Keep `File role:` comments on substantive source/style/config scripts, but comment decisions and boundaries rather than obvious syntax. Remove obsolete TODO/WIP notes after the work is complete; do not delete explanations of intentional specificity or compatibility fallbacks.
-
-## Reader/search rules
-
-- Normal lyrics and all Basta readers share `ReadingControls.astro` and `src/client/reader-state.ts`.
-- Parallel reading uses `src/client/synced-columns.ts`; the `---***---` separators must remain paired between Basta Urdu/Roman files.
-- Both static and streamed Basta markup must preserve title, poet-credit, and kalam-boundary semantics. The shared Basta rules live in `src/styles/basta.css`.
-- The continuous Basta reader is chunked; do not regress it to shipping the entire book HTML on first load.
-- The page-by-page Basta reader is the static/non-JavaScript fallback and must remain usable. Render the initial `data-reading-columns` on every reading root, and avoid unresponsive controls with JavaScript disabled.
-- Reader grids are centrally owned by `src/styles/reading-columns.css`. Preserve the narrow-container stacking and the deliberate mobile-portrait, full-width page-by-page Basta exception; do not add competing route-local grid overrides.
-- Scans must remain native links and also work with `src/client/scan-viewer.ts`. Maintain static/streamed markup parity.
-- Persisted progress/resume data remains browser-local; never add server tracking for it.
-- Pagefind assets belong on the Search route only.
-- Saved/Recent cards must use the canonical `LyricCardData`/lyric-card class contract.
+- Preserve reviewed Urdu wording, harakat, punctuation, line divisions, stanza numbering, Basta page numbers, and public URLs unless specifically asked to change them.
+- Use `src/content.config.ts` and the required `kalamType` model; do not recreate legacy category inference.
+- Keep R2 images/PDFs outside Git and preserve root-relative `/images/` and `/files/` URLs.
+- Keep published recitation IDs stable, including when moving or correcting source text; follow the ID maintenance guide.
+- Preserve server-rendered/no-JavaScript reading and the paired Basta `---***---` kalam boundaries.
+- Reuse `ReadingControls.astro`, `reader-state.ts`, and `reading-columns.css` rather than duplicating reader state or layout. Verses never wrap or horizontally scroll.
+- Keep static and streamed Basta markup consistent; keep scan links usable without JavaScript and missing editions explicit.
+- Keep browsing/search/static assets out of Pages Functions; Pagefind loads only on the Search route. Browser reading history, bookmarks, and drafts stay local.
+- Put shared primitives in `src/styles/core.css` and route styling in feature CSS. Add purposeful `File role:` comments; remove obsolete WIP commentary.
 
 ## Before committing
 
-Run:
+Run `npm run build`, inspect `git diff --check` and `git status --short`; for UI work run Chromium `@smoke` tests, and use the complete suite at milestones. Consult [validation guidance](docs/CONTRIBUTING.md#validation) for CI conditions and browser coverage.
 
-```bash
-npm test
-npm run build
-npx playwright test --grep '@smoke'  # after installing Chromium; run full suite at milestones
-git diff --check
-git status --short
-```
-
-Review `git diff` before committing. Do not commit `dist/`, `.astro/`, dependencies, local tooling, or R2-hosted binary assets.
+Never commit generated build output, dependencies, local scratch files, or R2-hosted binaries.
