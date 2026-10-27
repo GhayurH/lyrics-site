@@ -54,14 +54,15 @@ export function validateRecitationSet(raw: unknown): RecitationSet {
           !item.stanzaSequence.length || item.stanzaSequence.length > 120)
         throw Error("Custom stanzas are only supported for Marsiyas");
     }
-    const sequence: StanzaRef[] | undefined = item.stanzaSequence?.map((ref: unknown) => {
+    const sequence: StanzaRef[] | undefined = Array.isArray(item.stanzaSequence)
+      ? item.stanzaSequence.map((ref: unknown) => {
       if (!ref || typeof ref !== "object" || Array.isArray(ref)) throw Error("Invalid stanza");
       const s = ref as Record<string, unknown>;
       if (!plain(s.kalamId, 160) || !/^basta-marsiye-[0-9]+$/.test(s.kalamId) ||
           !plain(s.stanzaId, 30) || !/^stanza-[0-9]+$/.test(s.stanzaId))
         throw Error("Invalid stanza reference");
       return { kalamId: s.kalamId, stanzaId: s.stanzaId };
-    });
+    }) : undefined;
     return {
       uid: item.uid, kind: item.kind, id: item.id,
       ...(item.reciter ? { reciter: item.reciter } : {}),
