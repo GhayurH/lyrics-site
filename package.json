@@ -19,7 +19,6 @@
     "basta:breaks:rebuild": "node scripts/sync-basta-index.mjs --sync-breaks",
     "test": "node --experimental-strip-types --test tests/*.test.mjs",
     "basta:kalams:audit": "node --experimental-strip-types scripts/audit-basta-kalams.mjs",
-    "recitation:ids:bootstrap": "node --experimental-strip-types scripts/recitation-identities.mjs --bootstrap",
     "recitation:ids:check": "node --experimental-strip-types scripts/recitation-identities.mjs --check",
     "recitation:ids:sync": "node --experimental-strip-types scripts/recitation-identities.mjs --sync"
   },
