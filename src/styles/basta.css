@@ -524,8 +524,8 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 .basta-page-grid[data-reading-root] .basta-urdu-text { font-size: var(--basta-page-urdu-size); line-height: var(--basta-page-urdu-leading); }
 .basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--basta-page-roman-size); line-height: var(--basta-page-roman-leading); }
 
-.basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: var(--reading-undefined); --basta-page-roman-leading: var(--reading-undefined); }
-.basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: var(--reading-undefined); --basta-page-roman-leading: var(--reading-undefined); }
+.basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: var(--reading-urdu-leading-compact); --basta-page-roman-leading: var(--reading-roman-leading-compact); }
+.basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: var(--reading-urdu-leading-relaxed); --basta-page-roman-leading: var(--reading-roman-leading-relaxed); }
 
 
 
