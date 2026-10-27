@@ -10,7 +10,7 @@
   letter-spacing: -0.035em;
 }
 .home-lead {
-  max-width: 42rem;
+  max-width: var(--content-compact);
   margin: 0;
   font-size: clamp(1.05rem, 2.5vw, 1.2rem);
   line-height: 1.7;
