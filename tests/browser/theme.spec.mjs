@@ -204,7 +204,7 @@ test("Advanced colours default to Auto and save independent text and border over
     .toBe("rgb(17, 34, 51)");
   await expect.poll(() => page.locator(".site-footer-about p").evaluate((el) => getComputedStyle(el).color))
     .toBe("rgb(69, 86, 103)");
-  await expect.poll(() => page.locator("#theme-dialog").evaluate((el) => getComputedStyle(el).borderTopColor))
+  await expect.poll(() => page.locator(".site-footer").evaluate((el) => getComputedStyle(el).borderTopColor))
     .toBe("rgb(136, 153, 170)");
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
   // Accent button text remains automatically contrasting even with manual typography.
@@ -247,6 +247,13 @@ test("manual low-contrast text is warned about, and Advanced fits narrow viewpor
   });
   await expect(page.locator("#theme-contrast-note")).toBeVisible();
   await expect(page.locator("#theme-contrast-note")).toContainText("readable text");
+  await expect.poll(() => page.evaluate(() => getComputedStyle(document.body).color))
+    .toBe("rgb(255, 255, 255)");
+  // A poor manual foreground must not make the settings or its warning illegible.
+  await expect.poll(() => page.locator("#theme-dialog-heading")
+    .evaluate((el) => getComputedStyle(el).color)).toBe("rgb(23, 23, 25)");
+  await expect.poll(() => page.locator("#theme-contrast-note")
+    .evaluate((el) => getComputedStyle(el).color)).toBe("rgb(23, 23, 25)");
   const dialog = await page.locator("#theme-dialog").boundingBox();
   expect(dialog).toBeTruthy();
   expect(dialog.x).toBeGreaterThanOrEqual(0);
