@@ -41,10 +41,14 @@ export function initScanViewer(): void {
   };
   const apply = (next: Zoom, desired?: number, anchor?: { x: number; y: number }) => {
     zoom = next;
-    const previousWidth = image.getBoundingClientRect().width;
-    const previousHeight = image.getBoundingClientRect().height;
-    const priorX = canvas.scrollLeft + (anchor?.x ?? canvas.clientWidth / 2);
-    const priorY = canvas.scrollTop + (anchor?.y ?? canvas.clientHeight / 2);
+    const viewport = canvas.getBoundingClientRect();
+    const previous = image.getBoundingClientRect();
+    const targetX = anchor?.x ?? canvas.clientWidth / 2;
+    const targetY = anchor?.y ?? canvas.clientHeight / 2;
+    const relativeX = previous.width
+      ? Math.max(0, Math.min(1, (viewport.left + targetX - previous.left) / previous.width)) : .5;
+    const relativeY = previous.height
+      ? Math.max(0, Math.min(1, (viewport.top + targetY - previous.top) / previous.height)) : .5;
     scale = next === "fit" ? fitScale() : next === "actual" ? 1
       : next === "double" ? 2 : Math.max(.1, Math.min(6, desired ?? scale));
     canvas.dataset.zoom = next;
@@ -57,13 +61,14 @@ export function initScanViewer(): void {
     // Keep the point beneath the cursor (or centre) stationary when zooming.
     requestAnimationFrame(() => {
       if (!dialog.open) return;
-      if (next === "fit" || !previousWidth || !previousHeight) {
+      if (next === "fit" || !previous.width || !previous.height) {
         canvas.scrollTo(0, 0);
       } else {
-        const ratioX = (image.getBoundingClientRect().width / previousWidth);
-        const ratioY = (image.getBoundingClientRect().height / previousHeight);
-        canvas.scrollLeft = priorX * ratioX - (anchor?.x ?? canvas.clientWidth / 2);
-        canvas.scrollTop = priorY * ratioY - (anchor?.y ?? canvas.clientHeight / 2);
+        // Measure the image after layout so a previously centred narrow image
+        // zooms around its own centre rather than jumping to the far-right edge.
+        const after = image.getBoundingClientRect();
+        canvas.scrollLeft += after.left + after.width * relativeX - (viewport.left + targetX);
+        canvas.scrollTop += after.top + after.height * relativeY - (viewport.top + targetY);
       }
     });
   };
