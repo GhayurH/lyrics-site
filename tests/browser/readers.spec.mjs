@@ -377,3 +377,9 @@ test("standalone scans share the same floating-column policy @smoke", async ({ p
     await expect(page.locator(".lyric-reading-grid")).toHaveCSS("background-color", "rgb(23, 23, 25)");
   }
 });
+
+test("the floating standalone reader does not trap sticky scans in a clipped scroll container @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1480, height: 900 });
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await expect(page.locator(".lyric-reading-grid")).toHaveCSS("overflow-x", "clip");
+});

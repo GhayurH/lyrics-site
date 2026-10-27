@@ -399,3 +399,8 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 :where(.basta-reader-page, .basta-index-page, .recite-work, [data-reading-root] [id]) {
   scroll-margin-top: calc(var(--reader-scan-clearance, 7rem) + .75rem);
 }
+
+/* Clipped scan wrappers must not create a scroll container that defeats sticky. */
+[data-floating-scan="true"].basta-original-page,
+[data-floating-scan="true"].lyric-reading-image,
+[data-floating-scan="true"].basta-reader-original-image { overflow: visible; }
