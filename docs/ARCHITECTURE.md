@@ -8,6 +8,7 @@ This document owns implementation boundaries and reader behavior. See [CONTRIBUT
 - Keep domain models canonical, route behavior local, and shared UI controls consistent.
 - Keep route-specific CSS out of the global payload and large binary assets out of Git.
 - Preserve public URLs and content structure when reorganizing code.
+- Build and browser validation run on Node 24 in GitHub Actions; the project declares Node >=22.23.4 as its minimum supported runtime, consistent with Astro.
 
 ```text
 src/
