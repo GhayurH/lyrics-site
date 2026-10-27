@@ -38,7 +38,7 @@ romanLyrics: |-
   Mere Khuda Wo Zabanein Jo Teri Hamd Karein
   Wo Tere Panjtan-e-Pak Ki Dua Mein Rahein
   Kabhi Wo Nar-e-Jahannam Ki Sakhtiyan Na Sahein
-  Pul-e-Seerat Se Be-Khauf-o-Be-Khatar Guzrein
+  Pul-e-Siraat Se Be-Khauf-o-Be-Khatar Guzrein
   Gunahgaron Ko Ye Aasra Hai Subh-o-Masa
   Khula Hua Hai Musalsal Tera Dar-e-Tauba
   
@@ -109,7 +109,7 @@ romanLyrics: |-
 میرے خُدا وہ زبانیں جو تیری حمد کریں
 وہ تیرے پنجتنِؑ پاک کی دُعا میں رہیں
 کبھی وہ نارِ جہنم کی سختیاں نا سہیں
-پُلِ سِیرت سے بے خوف و بے خطر گُزریں
+پُلِ صراط سے بے خوف و بے خطر گُزریں
 گُناہ گاروں کو یہ آسْرا ہے صبح و مَسا
 کُھلا ہوا ہے مسلسل تیرا دَرِ توبہ
 

@@ -1,5 +1,5 @@
 ---
-title: "ہے مشورہ اے محترم"
+title: "نادِ علی پڑھتے رہو"
 alternateTitle: "Naad e Ali parhte raho"
 language: "Urdu"
 lang: "ur"
@@ -13,61 +13,40 @@ coverAlt: "Cover image for Naad e Ali parhte raho"
 published: true
 romanLyrics: |-
   Hai mashwara Aey mohataram
-  
-  NAD e Ali parhte raho
+  Naad e Ali parhte raho
   
   Paas askenge phr na gham
-  
-  NAD e Ali parhte raho
+  Naad e Ali parhte raho
   
   1
   Kesi bhi ho mushkil ghari
-  
   Sar pe musibat ho kari
-  
   Tal jayenge ranj o alam
-  
-  NAD e Ali parhte raho
+  Naad e Ali parhte raho
   
   2
   Kashti giri Jb Nooh ki
-  
   Hatif ne yun awaz di
-  
   Toofan jayega ye tham
-  
-  NAD e Ali parhte raho
+  Naad e Ali parhte raho
   
   3
   Jab maarka khaiber ka tha
-  
   Ahmad se khaliq ne kaha
-  
   Puhnchenge Haider Ek dam
-  
-  NAD e Ali parhte raho
+  Naad e Ali parhte raho
   
   4
   Turbat se hum darte nahi
-  
   Jannat talab karte nahi
-  
   Parhte hue nikle ye dam
-  
-  1
-  NAD e Ali parhte raho
+  Naad e Ali parhte raho
   
   5
   Zikr e Ali Ibadat Teri
-  
-  3
   Ban jaye ek aadat Teri
-  
-  4
   Ye zindagi na hojaye kam
-  
-  5
-  NAD e Ali parhte raho
+  Naad e Ali parhte raho
 ---
 
 ہے مشورہ اے محترم
