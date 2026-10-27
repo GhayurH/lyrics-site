@@ -27,6 +27,7 @@ html[data-theme="light"] {
   color-scheme: light;
   --site-background: #f7f7f8;
   --surface-background: #ffffff;
+  --header-background: rgb(255 255 255 / 0.92);
   --primary-text: #1d1d1f;
   --secondary-text: #66666b;
   --border-colour: #dddddf;
@@ -39,6 +40,7 @@ html[data-theme="dark"] {
   color-scheme: dark;
   --site-background: #171719;
   --surface-background: #222225;
+  --header-background: rgb(34 34 37 / 0.92);
   --primary-text: #ededed;
   --secondary-text: #b5b5ba;
   --border-colour: #3a3a3f;
