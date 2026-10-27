@@ -85,3 +85,58 @@ test("borrow and reorder verified Marsiya stanzas @smoke", async ({ page }) => {
   await expect(page.locator(".recite-stanza-source").first()).toContainText("دوسرا مرثیہ");
   await expect(page.locator(".lyric-reading-urdu .basta-kalam-text").first()).toBeVisible();
 });
+
+
+test("retired source remains in a programme with a clear warning @smoke", async ({ page }) => {
+  const id = "retired-draft-2026";
+  const set = {
+    version: 1, title: "Programme with retired source", occasion: "", description: "",
+    items: [{ uid: "391002ab-16f4-4535-bf2a-8ca02cefc956", kind: "lyric",
+      id: "formerly-published-kalam", sourceTitle: "Original kalam title" }],
+  };
+  await page.addInitScript(({ key, entry }) => {
+    localStorage.setItem(key, JSON.stringify([entry]));
+  }, { key: "kalam:recitation-drafts-v1", entry: { id, set } });
+  await page.goto("/recite/read/?draft=" + id);
+  await expect(page.locator("#recite-reader-title")).toHaveText(set.title);
+  await expect(page.locator(".recite-work-placeholder")).toContainText("Original kalam title");
+  await expect(page.locator(".recite-work-placeholder")).toContainText(
+    "position and reference are preserved");
+  await expect(page.locator("#recite-reader-contents option")).toHaveCount(1);
+});
+
+test("missing borrowed stanza does not hide the original Marsiya @smoke", async ({ page }) => {
+  const id = "missing-stanza-draft";
+  const set = {
+    version: 1, title: "Marsiya with unavailable borrowed stanza", occasion: "", description: "",
+    items: [{
+      uid: "391002ab-16f4-4535-bf2a-8ca02cefc956", kind: "basta",
+      id: "basta-marsiye-001", sourceTitle: "First Marsiya",
+      stanzaSequence: [
+        { kalamId: "basta-marsiye-001", stanzaId: "stanza-001" },
+        { kalamId: "basta-marsiye-002", stanzaId: "stanza-003" },
+      ],
+    }],
+  };
+  await page.addInitScript(({ key, entry }) => {
+    localStorage.setItem(key, JSON.stringify([entry]));
+  }, { key: "kalam:recitation-drafts-v1", entry: { id, set } });
+  await page.route("**/data/basta-kalams/basta-marsiye-001.json", (route) =>
+    route.fulfill({ contentType: "application/json", body: JSON.stringify({
+      kalam: {
+        id: "basta-marsiye-001", name: "First Marsiya", status: "ready",
+        sectionRoman: "Marsiye", startPage: 142, preface: "",
+        urdu: "پہلا مصرع", roman: "", stanzas: [{
+          id: "stanza-001", number: 1, printedNumber: "۱",
+          urdu: "پہلا مصرع", pages: [142],
+        }],
+      },
+    }) }));
+  await page.route("**/data/basta-kalams/basta-marsiye-002.json", (route) =>
+    route.fulfill({ status: 404 }));
+  await page.goto("/recite/read/?draft=" + id);
+  await expect(page.locator(".lyric-reading-urdu .basta-kalam-text")).toContainText("پہلا مصرع");
+  await expect(page.locator(".lyric-reading-urdu .recite-missing-stanza")).toContainText(
+    "basta-marsiye-002 / stanza-003");
+  await expect(page.locator(".recite-work-placeholder")).toHaveCount(0);
+});
