@@ -1,6 +1,5 @@
-# Downloaded from the live lyrics-site Pages configuration on 2026-10-27.
-# The top-level bindings serve preview/local deployments; env.production overrides
-# them for production. Do not use the separate cleanup Worker configuration here.
+# Cloudflare Pages configuration for Kalam Archive. Keep production and preview
+# bindings separate; the scheduled cleanup Worker has its own configuration.
 name = "lyrics-site"
 pages_build_output_dir = "dist"
 compatibility_date = "2026-07-28"
