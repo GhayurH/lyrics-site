@@ -212,3 +212,9 @@ test("responsive browse and builder panels keep accessible controls in either th
   await page.locator(".home-collection-card").first().focus();
   await expect(page.locator(".home-collection-card").first()).toHaveCSS("outline-style", "solid");
 });
+
+test("saved library has a separate kalam/stanza bookmark section @smoke", async ({ page }) => {
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-selections-heading")).toBeVisible();
+  await expect(page.locator("#basta-selections-empty")).toBeVisible();
+});

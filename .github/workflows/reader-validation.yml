@@ -32,7 +32,7 @@ jobs:
       - id: test_mode
         shell: bash
         run: |
-          if git log -1 --pretty=%B | grep -Fq '[full-ci]'; then
+          if { git log -1 --pretty=%B HEAD; git log -1 --pretty=%B HEAD^2 2>/dev/null || true; } | grep -Fq '[full-ci]'; then
             echo 'full=true' >> "$GITHUB_OUTPUT"
           else
             echo 'full=false' >> "$GITHUB_OUTPUT"

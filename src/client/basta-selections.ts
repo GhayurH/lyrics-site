@@ -52,7 +52,8 @@ export function initBastaSelections(root: HTMLElement): void {
         block.dataset.selectionMounted = "true";
         block.classList.add("basta-selectable-kalam");
         const kalam = index + 1;
-        block.id = "basta-kalam-" + kalam;
+        const continuous = root.dataset.readerKind === "basta-continuous";
+        block.id = (continuous ? "page-" + page + "-" : "") + "basta-kalam-" + kalam;
         const button = document.createElement("button");
         button.type = "button";
         button.className = "basta-selection-action";
@@ -68,7 +69,7 @@ export function initBastaSelections(root: HTMLElement): void {
           stanza.className = marker.className + " basta-stanza-bookmark";
           stanza.textContent = marker.textContent;
           stanza.dataset.bastaSaveSelection = page + ":stanza:" + current;
-          stanza.id = "basta-stanza-" + current;
+          stanza.id = (continuous ? "page-" + page + "-" : "") + "basta-stanza-" + current;
           stanza.setAttribute("aria-label", "Bookmark stanza " + marker.textContent?.trim() +
             " on Basta page " + page);
           marker.replaceWith(stanza);
@@ -77,7 +78,7 @@ export function initBastaSelections(root: HTMLElement): void {
     }
     update();
     const hash = location.hash.slice(1);
-    if (/^basta-(kalam|stanza)-\d+$/.test(hash)) {
+    if (/^(?:page-\d+-)?basta-(kalam|stanza)-\d+$/.test(hash)) {
       const target = root.querySelector<HTMLElement>("#" + CSS.escape(hash));
       if (target && root.dataset.lastSelectionHash !== hash) {
         root.dataset.lastSelectionHash = hash;

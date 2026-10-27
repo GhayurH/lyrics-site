@@ -334,3 +334,7 @@ Recitation printouts must embed the website's Nastaliq fonts, maintain bilingual
 Corrections, missing material, and cataloguing/index issues can be reported to:
 
 **lyricsadmin@gmail.com**
+
+### CI and reader maintenance
+
+Milestone commits marked `[full-ci]` and pushes to main trigger the Chromium smoke suite and Basta audit. Other PR updates still run the build, Node tests, and recitation ID verification. Always run milestone validation before merging. Edition geometry belongs in `reading-columns.css`, and missing-edition explanations use `romanUnavailable` so a scan is only advertised when actually provided. Keep Basta selection bookmarks local and out of the verse layout.

@@ -580,3 +580,25 @@ test("standalone image plus either single text edition occupies only two columns
     expect(tracks).toBe(2);
   }
 });
+
+test("Basta kalam and stanza bookmarks survive navigation without shifting poetry @smoke", async ({ page }) => {
+  await page.goto("/basta/200/");
+  const kalam = page.locator(".basta-page-urdu .basta-kalam-text").first();
+  const button = kalam.locator("[data-basta-save-selection]").first();
+  await expect(button).toBeAttached();
+  const verse = kalam.locator(".basta-verse-line").first();
+  const before = await verse.boundingBox();
+  await button.click();
+  await expect(button).toHaveAttribute("aria-pressed", "true");
+  const after = await verse.boundingBox();
+  expect(Math.abs(after.y - before.y)).toBeLessThan(2);
+  const stanza = page.locator(".basta-page-urdu .basta-stanza-bookmark").first();
+  if (await stanza.count()) {
+    await stanza.click();
+    await expect(stanza).toHaveAttribute("aria-pressed", "true");
+  }
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-selections-list a").first()).toContainText("Basta");
+  await page.locator("#basta-selections-list a").first().click();
+  await expect(page.locator("[data-reading-root]")).toBeVisible();
+});

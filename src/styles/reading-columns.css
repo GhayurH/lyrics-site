@@ -442,7 +442,7 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 [data-reading-root][data-line-spacing="compact"] .lyric-reading-roman .basta-kalam-text { line-height: 1.65; }
 [data-reading-root][data-line-spacing="relaxed"] .lyric-reading-roman .basta-kalam-text { line-height: 2.35; }
 
-.reading-bookmark-page { min-height: 2.75rem; border: 1px solid var(--border-colour); border-radius: .5rem; padding: .45rem .7rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: .82rem; font-weight: 700; cursor: pointer; }
+.reading-bookmark-page { min-height: var(--ui-target); border: 1px solid var(--border-colour); border-radius: var(--ui-radius); padding: .45rem .7rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: .82rem; font-weight: 700; cursor: pointer; }
 .reading-bookmark-page[aria-pressed="true"] { background: var(--button-background); color: var(--button-text); }
 
 /* Sticky toolbars must not hide the beginning of an anchored page or stanza. */

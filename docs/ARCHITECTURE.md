@@ -152,3 +152,7 @@ Printed programmes use one bilingual grid row per stanza instead of full-height 
 `home-continue.ts` reads only browser-local recent lyric IDs, Basta progress, and existing recitation drafts. Its section starts hidden in server HTML and appears only for recorded activity. Category pages group standalone and Basta sources separately; shared `LyricCardData` preserves the same title and metadata presentation. Search filters use a compact mobile disclosure and URL-synchronised active chips.
 
 `recitation-workflow.ts` provides the three-step builder navigation and only collapses optional metadata on mobile when an existing draft has no occasion or notes. It does not own drafts, remote publication, permissions, or live navigation; those remain in `recitation-builder.ts`. All public steps and navigation anchors work without this enhancement.
+
+### Granular bookmarks
+
+`basta-selections.ts` decorates the Urdu rendition after load with non-flow bookmark controls for kalams and numbered stanzas. Local storage keys identify page, selection type, and one-based index. Streaming pages use page-qualified DOM IDs to avoid duplicate anchors; bookmarked links open the page-by-page rendition. Source Markdown is not modified.

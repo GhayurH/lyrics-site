@@ -230,3 +230,9 @@ Preserving Urdu literature in searchable digital form.
 Recitation Sets' offline HTML embeds Nastaliq WOFF2 data, so no external font is required to print or save a PDF. Its printable layout keeps Urdu and Roman text parallel. Basta page/index navigation now lives only in the shared top reader toolbar.
 
 **Design consistency:** A small set of theme-aware control-height, radius, focus-ring, and surface tokens in `core.css` is shared by the reader controls, search filters, library, category pages, and recitation tools. Reader content uses the same availability policy across modes: missing Roman text remains explicitly labelled, and a Roman-only selection displays the original scan as an alternative where one exists. Keyboard operation, reduced-motion preferences, and narrow landscape layouts are covered by Chromium browser tests.
+
+Specific Basta kalams and numbered stanzas can also be bookmarked locally: use the discreet star on a kalam or select a numbered stanza circle. The Saved page links directly to that page and position. The Markdown poetry source remains unchanged.
+
+### Validation cadence
+
+Routine draft-PR updates run the production build (including Node tests and recitation identity checks) and verify deployment routing, while skipping the expensive Chromium suite and Basta audit. Mark a milestone commit `[full-ci]` to run the complete browser suite and audit. Commits to `main` always run them.
