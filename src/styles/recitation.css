@@ -257,11 +257,8 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
   .recite-steps a { min-width: 0; justify-content: center; padding: .4rem .35rem; font-size: .8rem; }
 }
 
-@container reader-shell (max-width: 40rem) { .recite-editions .lyric-reading-roman { border-right: 0; border-top: 1px solid var(--border-colour); } }
-
 /* Recitation poems now use the shared edition grid and responsive breakpoints. */
 .recite-editions { width: 100%; overflow: clip; }
-.recite-editions .lyric-reading-roman { border-inline-end: 1px solid var(--border-colour); }
 .recite-reader-toolbar :is(#recite-previous,#recite-next) { font-weight: 700; }
 .recite-reader-progress { font-variant-numeric: tabular-nums; }
 /* Do not duplicate a missing-Roman warning beside usable Urdu verses. */
@@ -280,14 +277,6 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 }
 .recite-reading-root[data-reading-mode="urdu"] .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
 .recite-reading-root[data-reading-mode="roman"] .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
-@container reader-shell (max-width: 46rem) {
-  .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="image"] .recite-work-no-roman .recite-editions {
-    grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr);
-  }
-  .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="roman"] .recite-work-no-image .recite-editions {
-    grid-template-areas: "urdu" "roman"; grid-template-columns: minmax(0,1fr);
-  }
-}
 /* A new programme is a prompt to add kalam, not an imposing empty panel. */
 .recite-programme[data-empty="true"] { padding-block: .85rem; }
 .recite-programme[data-empty="true"] .recite-list,
