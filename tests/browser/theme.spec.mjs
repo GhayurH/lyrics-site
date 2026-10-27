@@ -172,3 +172,84 @@ test("appearance offers the succinct Custom label, not Build your own", async ({
   await expect(radio.locator("..")).toContainText("Custom");
   await expect(page.locator("#theme-dialog")).not.toContainText("Build your own");
 });
+
+test("Advanced colours default to Auto and save independent text and border overrides @smoke", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#theme-toggle").click();
+  await page.locator('#theme-dialog input[value="light"]').check();
+  await page.locator('#theme-dialog input[value="custom"]').check();
+  const advanced = page.locator("#theme-advanced");
+  await expect(advanced).not.toHaveAttribute("open", "");
+  await advanced.locator("summary").click();
+  await expect(advanced).toHaveAttribute("open", "");
+  const automaticPrimary = await page.evaluate(() =>
+    getComputedStyle(document.documentElement).getPropertyValue("--primary-text").trim());
+  const automaticMuted = await page.evaluate(() =>
+    getComputedStyle(document.documentElement).getPropertyValue("--secondary-text").trim());
+  expect(automaticMuted).not.toEqual(automaticPrimary);
+
+  const overrides = { primaryText: "#112233", mutedText: "#455667", borders: "#8899aa" };
+  for (const [name, hex] of Object.entries(overrides)) {
+    await expect(page.locator("#theme-" + name + "-auto")).toBeChecked();
+    await expect(page.locator("#theme-" + name)).toBeDisabled();
+    await page.locator("#theme-" + name + "-auto").uncheck();
+    await expect(page.locator("#theme-" + name)).toBeEnabled();
+    await page.locator("#theme-" + name).evaluate((input, value) => {
+      input.value = value;
+      input.dispatchEvent(new Event("input", { bubbles: true }));
+    }, hex);
+    await expect(page.locator("#theme-" + name + "-value")).toHaveText(hex.toUpperCase());
+  }
+  await expect.poll(() => page.evaluate(() => getComputedStyle(document.body).color))
+    .toBe("rgb(17, 34, 51)");
+  await expect.poll(() => page.locator(".site-footer-about p").evaluate((el) => getComputedStyle(el).color))
+    .toBe("rgb(69, 86, 103)");
+  await expect.poll(() => page.locator("#theme-dialog").evaluate((el) => getComputedStyle(el).borderTopColor))
+    .toBe("rgb(136, 153, 170)");
+  await expect(page.locator("#theme-contrast-note")).toBeHidden();
+  await page.locator("#theme-dialog-done").click();
+
+  await page.goto("/saved/");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "custom");
+  await expect.poll(() => page.evaluate(() => getComputedStyle(document.body).color))
+    .toBe("rgb(17, 34, 51)");
+  await page.locator("#theme-toggle").click();
+  await page.locator("#theme-advanced summary").click();
+  for (const [name, hex] of Object.entries(overrides)) {
+    await expect(page.locator("#theme-" + name + "-auto")).not.toBeChecked();
+    await expect(page.locator("#theme-" + name)).toHaveValue(hex);
+  }
+  await page.locator("#theme-mutedText-auto").check();
+  await expect(page.locator("#theme-mutedText")).toBeDisabled();
+  await expect.poll(() => page.evaluate(() =>
+    JSON.parse(localStorage.getItem("kalam:custom-theme")))).not.toHaveProperty("mutedText");
+  await page.locator("#theme-reset-custom").click();
+  for (const name of Object.keys(overrides)) {
+    await expect(page.locator("#theme-" + name + "-auto")).toBeChecked();
+  }
+  await expect(page.locator("#theme-main")).toHaveValue("#f7f7f8");
+});
+
+test("manual low-contrast text is warned about, and Advanced fits narrow viewports @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 320, height: 700 });
+  await page.goto("/basta/");
+  await page.locator("#theme-toggle").click();
+  await page.locator('#theme-dialog input[value="light"]').check();
+  await page.locator('#theme-dialog input[value="custom"]').check();
+  await page.locator("#theme-advanced summary").click();
+  await page.locator("#theme-primaryText-auto").uncheck();
+  await page.locator("#theme-primaryText").evaluate((input) => {
+    input.value = "#ffffff";
+    input.dispatchEvent(new Event("input", { bubbles: true }));
+  });
+  await expect(page.locator("#theme-contrast-note")).toBeVisible();
+  await expect(page.locator("#theme-contrast-note")).toContainText("readable text");
+  const dialog = await page.locator("#theme-dialog").boundingBox();
+  expect(dialog).toBeTruthy();
+  expect(dialog.x).toBeGreaterThanOrEqual(0);
+  expect(dialog.x + dialog.width).toBeLessThanOrEqual(322);
+  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+  await page.screenshot({ path: "test-results/visual-review/theme-advanced-phone.png", animations: "disabled" });
+  await page.locator("#theme-primaryText-auto").check();
+  await expect(page.locator("#theme-contrast-note")).toBeHidden();
+});
