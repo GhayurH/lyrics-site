@@ -9,7 +9,7 @@ const readers = [
   { path: "/basta/index/", hasPageJump: false },
 ];
 
-test("reader settings collapse by default and expand on every mobile reading view", async ({ page }) => {
+test("reader settings collapse by default and expand on every mobile reading view @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   for (const { path, hasPageJump } of readers) {
     await page.goto(path, { waitUntil: "domcontentloaded" });
@@ -68,7 +68,7 @@ test("desktop readers keep their complete controls visible", async ({ page }) =>
   await expect(controls.locator(".reading-page-jump")).toBeVisible();
 });
 
-test("site header hides on downward scrolling and returns on upward scrolling", async ({ page }) => {
+test("site header hides on downward scrolling and returns on upward scrolling @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/200/");
   const header = page.locator(".site-header");

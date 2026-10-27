@@ -308,9 +308,9 @@ Review the diff before committing. For asset changes, verify that the correspond
 
 ## Browser validation for UI changes
 
-For reader or responsive changes, run `npm run build` (which invokes `npm test` through `prebuild`), then install browser dependencies and run `npx playwright test`. GitHub Actions performs these checks in Chromium, Firefox, and WebKit on branch pushes and pull requests. The tests check interactions and geometry rather than screenshots.
+For reader or responsive changes, run `npm run build` (which invokes `npm test` through `prebuild`), then install browser dependencies and run `npx playwright test`. GitHub Actions runs a focused Chromium `@smoke` suite on pushes to `main` and pull requests; run `npx playwright test` locally for the full Chromium browser suite. The tests check interactions and geometry rather than screenshots.
 
-Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, continuous-reader deep links and Contents, scan links/zoom, and Focus-mode exit. Source-image availability tests additionally contact the production and R2 domains; local Astro preview does not implement Cloudflare Pages asset redirects.
+Cover no-JavaScript reading, a paired Basta page such as 138, a Roman-unavailable page, the linked index, continuous-reader deep links and Contents, scan links/zoom, and Focus-mode exit. Local Astro preview does not implement Cloudflare Pages asset redirects. CI verifies the generated `_redirects` configuration rather than making external source-image availability requests.
 
 Every poem verse must remain on one line, with no wrapping, horizontal scrolling, or manual text-size selector. Keep the functional mobile tests for standalone lyrics, page-by-page Basta, and the continuous reader.
 

@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-test("all reader types expose text before JavaScript initializes", async ({ browser }) => {
+test("all reader types expose text before JavaScript initializes @smoke", async ({ browser }) => {
   const context = await browser.newContext({ javaScriptEnabled: false });
   const page = await context.newPage();
   await page.goto("/lyrics/aa-asghar-bin-tere/");
@@ -43,7 +43,7 @@ test("edition preferences, Focus mode, and image enlargement work together", asy
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
 });
 
-test("continuous reader deep links load streamed content and preserve the current page", async ({ page }) => {
+test("continuous reader deep links load streamed content and preserve the current page @smoke", async ({ page }) => {
   await page.goto("/basta/read/#page-138");
   const page138 = page.locator('[data-basta-page="138"]');
   await expect(page138).toBeAttached({ timeout: 20000 });
@@ -55,7 +55,7 @@ test("continuous reader deep links load streamed content and preserve the curren
   await expect(page.locator(".basta-reader-index")).toBeHidden();
 });
 
-test("unavailable Roman transcription shows a source scan rather than blank content", async ({ page }) => {
+test("unavailable Roman transcription shows a source scan rather than blank content @smoke", async ({ page }) => {
   await page.goto("/basta/read/#page-30");
   await expect(page.locator('[data-basta-page="30"]')).toBeAttached({ timeout: 20000 });
   await page.getByLabel("Urdu", { exact: true }).uncheck();
@@ -78,7 +78,7 @@ test("only line spacing is configurable, and its value survives reload", async (
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
 });
 
-test("every visible poetry verse stays on one line and within its column at mobile widths", async ({ page }) => {
+test("every visible poetry verse stays on one line and within its column at mobile widths @smoke", async ({ page }) => {
   for (const url of ["/lyrics/aa-asghar-bin-tere/", "/basta/138/", "/basta/read/#page-138"]) {
     await page.setViewportSize({ width: 390, height: 844 });
     await page.goto(url, { waitUntil: "domcontentloaded" });
@@ -135,7 +135,7 @@ test("all text-edition combinations remain readable across themes and responsive
   await toggle.click();
 });
 
-test("rotation and Focus exit retain an actual continuous page rather than the book top", async ({ page }) => {
+test("rotation and Focus exit retain an actual continuous page rather than the book top @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138");
   const target = page.locator('[data-basta-page="138"]');
@@ -170,7 +170,7 @@ test("rotation and Focus exit retain an actual continuous page rather than the b
   })).toBe(true);
 });
 
-test("the short closing Bain on page 138 keeps independent synchronized panels", async ({ page }) => {
+test("the short closing Bain on page 138 keeps independent synchronized panels @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/138/");
   const roman = page.locator(".basta-page-roman");
@@ -251,7 +251,7 @@ test("standalone lyrics use stacked columns on narrow screens and parallel colum
   }).toBeLessThan(25);
 });
 
-test("continuous Basta editions respond to available width, including landscape", async ({ page }) => {
+test("continuous Basta editions respond to available width, including landscape @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
   const section = page.locator('[data-basta-page="138"]');
