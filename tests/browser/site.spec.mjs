@@ -163,7 +163,7 @@ test("mobile search keeps filters accessible without occupying the full page @sm
   await page.goto("/search/");
   const filters = page.locator("#search-filter-disclosure");
   await expect(filters).not.toHaveAttribute("open", "");
-  await filters.locator("summary").click();
+  await filters.locator(":scope > summary").click();
   await expect(filters).toHaveAttribute("open", "");
   await page.setViewportSize({ width: 1280, height: 820 });
   await expect(filters).toHaveAttribute("open", "");
