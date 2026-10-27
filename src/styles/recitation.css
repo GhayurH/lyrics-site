@@ -258,3 +258,41 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
 }
 
 @container reader-shell (max-width: 40rem) { .recite-editions .lyric-reading-roman { border-right: 0; border-top: 1px solid var(--border-colour); } }
+
+/* Recitation poems now use the shared edition grid and responsive breakpoints. */
+.recite-editions { width: 100%; overflow: clip; }
+.recite-editions .lyric-reading-roman { border-inline-end: 1px solid var(--border-colour); }
+.recite-reader-toolbar :is(#recite-previous,#recite-next) { font-weight: 700; }
+.recite-reader-progress { font-variant-numeric: tabular-nums; }
+/* Do not duplicate a missing-Roman warning beside usable Urdu verses. */
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-roman .lyric-reading-roman { display: none !important; }
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-roman .recite-editions {
+  grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr);
+}
+.recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="image"] .recite-work-no-roman .recite-editions {
+  grid-template-areas: "image urdu"; grid-template-columns: minmax(0,.8fr) minmax(0,1.5fr);
+}
+/* A programme may contain a mixture of original scans and text-only entries. */
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-image .lyric-reading-image,
+.recite-reading-root[data-reading-columns~="roman"] .recite-work-no-image .lyric-reading-image { display: none !important; }
+.recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="roman"] .recite-work-no-image .recite-editions {
+  grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr));
+}
+.recite-reading-root[data-reading-mode="urdu"] .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
+.recite-reading-root[data-reading-mode="roman"] .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
+@container reader-shell (max-width: 52rem) {
+  .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="image"] .recite-work-no-roman .recite-editions {
+    grid-template-areas: "image" "urdu"; grid-template-columns: minmax(0,1fr);
+  }
+  .recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="roman"] .recite-work-no-image .recite-editions {
+    grid-template-areas: "urdu" "roman"; grid-template-columns: minmax(0,1fr);
+  }
+}
+/* A new programme is a prompt to add kalam, not an imposing empty panel. */
+.recite-programme[data-empty="true"] { padding-block: .85rem; }
+.recite-programme[data-empty="true"] .recite-list,
+.recite-programme[data-empty="true"] > .recite-hint:last-child { display: none; }
+/* Retention and expiry decisions become relevant only when publication is possible. */
+.recite-share[data-ready="false"] .recite-retention-option,
+.recite-share[data-ready="false"] .recite-sharing-policy { display: none; }
+.recite-share[data-ready="false"] { padding-block: .85rem; }

@@ -72,9 +72,18 @@ export function initReadingControls(): void {
     if (summary) summary.textContent = "View: " + selected.map((edition) =>
       edition === "urdu" ? "Urdu" : edition === "roman" ? "Roman" : "Image").join(" + ");
     // CSS and scroll synchronization still need the derived single/parallel mode alongside the selected editions.
-    root.dataset.readingMode = readingModeFromEditions(selected);
-    root.dataset.readingColumns = selected.join(" ");
+    const mode = readingModeFromEditions(selected);
+    const columns = selected.join(" ");
+    root.dataset.readingMode = mode;
+    root.dataset.readingColumns = columns;
     root.dataset.lineSpacing = prefs.spacing;
+    // Recitation poems are inserted lazily. Sync all existing item grids here;
+    // new items read these root values when first rendered.
+    root.querySelectorAll<HTMLElement>(".recite-editions").forEach((grid) => {
+      grid.dataset.readingMode = mode;
+      grid.dataset.readingColumns = columns;
+      grid.dataset.lineSpacing = prefs.spacing;
+    });
     for (const input of checks) input.checked = selected.includes(input.value as Edition);
     if (spacingSelect) spacingSelect.value = prefs.spacing;
     window.dispatchEvent(new Event("kalam:columns-changed"));

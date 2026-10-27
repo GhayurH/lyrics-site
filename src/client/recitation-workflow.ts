@@ -33,7 +33,7 @@ export function initRecitationWorkflow(): void {
   // On an existing draft containing notes, open them instead of concealing data.
   const details = app.querySelector<HTMLDetailsElement>("#recite-optional-details");
   const initializeDisclosure = () => {
-    if (!details || matchMedia("(min-width: 701px)").matches) return;
+    if (!details) return;
     const occasion = app.querySelector<HTMLInputElement>("#recite-occasion")?.value.trim();
     const notes = app.querySelector<HTMLTextAreaElement>("#recite-description")?.value.trim();
     if (!occasion && !notes) details.open = false;

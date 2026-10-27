@@ -110,6 +110,8 @@ export async function initRecitationBuilder(): Promise<void> {
     const hasTitle = !!draft.set.title.trim();
     const hasKalams = draft.set.items.length > 0;
     const complete = hasTitle && hasKalams;
+    const sharePanel = document.querySelector<HTMLElement>(".recite-share");
+    if (sharePanel) sharePanel.dataset.ready = String(complete);
     // A fresh blank draft already exists; avoid creating or copying empty
     // entries that all appear identical in the set picker.
     const hasDraftContent = hasTitle || hasKalams ||
@@ -194,6 +196,8 @@ export async function initRecitationBuilder(): Promise<void> {
     elm<HTMLElement>("recite-count").textContent = draft.set.items.length +
       " kalam" + (draft.set.items.length === 1 ? "" : "s");
     elm<HTMLElement>("recite-empty").hidden = draft.set.items.length > 0;
+    const programmePanel = document.querySelector<HTMLElement>(".recite-programme");
+    if (programmePanel) programmePanel.dataset.empty = String(draft.set.items.length === 0);
     draft.set.items.forEach((item, index) => {
       const metadata = getCatalog(item);
       const row = document.createElement("li");
