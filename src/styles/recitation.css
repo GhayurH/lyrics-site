@@ -119,3 +119,27 @@ html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
   font-size: .85rem;
   line-height: 1.7;
 }
+
+/* Retention is an explicit organizer choice, never a global browser preference. */
+.recite-app .recite-retention-option {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  margin-block: .5rem .35rem;
+  font-weight: 650;
+}
+.recite-app .recite-retention-option input[type="checkbox"] {
+  width: 1.15rem;
+  min-height: 1.15rem;
+  height: 1.15rem;
+  flex: none;
+  accent-color: currentColor;
+}
+.recite-app .button-danger {
+  justify-self: start;
+  border: 1px solid currentColor;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font-weight: 650;
+}
+.recite-app .button-danger:hover { text-decoration: underline; }
