@@ -3,7 +3,7 @@
 .basta-home,
 .basta-page,
 .basta-index-page {
-  max-width: 72rem;
+  max-width: var(--content-feature);
   margin: 0 auto;
 }
 
@@ -119,7 +119,7 @@
   min-width: 0;
   min-height: var(--ui-target);
   border: 1px solid var(--border-colour);
-  border-radius: 0.55rem;
+  border-radius: var(--ui-radius-tight);
   padding: 0.55rem 0.7rem;
   background: var(--site-background);
   color: var(--primary-text);
@@ -134,7 +134,7 @@
   align-items: center;
   justify-content: center;
   border: 1px solid var(--button-background);
-  border-radius: 0.55rem;
+  border-radius: var(--ui-radius-tight);
   padding: 0.55rem 0.85rem;
   background: var(--button-background);
   color: var(--button-text);
@@ -178,7 +178,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   gap: 1rem;
   margin: 1.5rem 0;
   border: 1px solid var(--border-colour);
-  border-radius: 0.75rem;
+  border-radius: var(--ui-radius-card);
   padding: 0.9rem;
   background: var(--surface-background);
 }
@@ -189,7 +189,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   justify-content: center;
   min-height: 2.7rem;
   border: 1px solid var(--border-colour);
-  border-radius: 0.55rem;
+  border-radius: var(--ui-radius-tight);
   padding: 0.55rem 0.8rem;
   text-decoration: none;
 }
@@ -259,7 +259,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 .basta-page-grid-image-only {
-  grid-template-columns: minmax(0, 42rem);
+  grid-template-columns: minmax(0, var(--reading-scan-width));
   justify-content: center;
 }
 
@@ -267,7 +267,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   margin: 0;
   overflow: hidden;
   border: 1px solid var(--border-colour);
-  border-radius: 0.75rem;
+  border-radius: var(--ui-radius-card);
   background: var(--surface-background);
 }
 
