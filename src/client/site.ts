@@ -5,7 +5,7 @@ import {
   toggleFavorite,
 } from "./storage";
 import {
-  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, readCustomPalette, readTheme, validHex,
+  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, readCustomPalette, readTheme, normalizeCssHex,
   type CustomPalette, type ThemeName,
 } from "./theme";
 
@@ -202,10 +202,8 @@ function initThemePicker(): void {
   // The previous preset is still active when the user clicks Custom.
   const paletteFromCurrentPreset = (): CustomPalette => {
     const style = getComputedStyle(document.documentElement);
-    const read = (property: string, fallback: string) => {
-      const value = style.getPropertyValue(property).trim();
-      return validHex(value) ? value.toLowerCase() : fallback;
-    };
+    const read = (property: string, fallback: string) =>
+      normalizeCssHex(style.getPropertyValue(property), fallback);
     return {
       main: read("--site-background", DEFAULT_PALETTE.main),
       secondary: read("--surface-background", DEFAULT_PALETTE.secondary),
