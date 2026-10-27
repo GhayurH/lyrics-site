@@ -333,6 +333,7 @@ export async function initRecitationBuilder(): Promise<void> {
       say("Shared programme loaded");
     } catch (e) { say((e as Error).message); }
   }
+  render();
   try {
     await loadCatalog(); catalogReady = true;
   } catch (e) { say((e as Error).message); }
