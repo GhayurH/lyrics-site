@@ -349,7 +349,9 @@ export async function initRecitationBuilder(): Promise<void> {
   if (requestedSet && /^[a-f0-9]{24}$/.test(requestedSet)) {
     try {
       const response = await fetch("/api/recitation-sets/" + requestedSet);
-      if (!response.ok) throw Error("Unable to open shared set");
+      if (!response.ok) throw Error(response.status === 410
+        ? "This published programme has expired. Any locally saved copy remains available."
+        : "Unable to open shared set");
       const payload = await response.json();
       const set = validateRecitationSet(payload.set);
       const existing = findRemoteDraft(requestedSet);
