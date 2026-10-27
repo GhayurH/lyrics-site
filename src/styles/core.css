@@ -72,7 +72,14 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
   margin: auto;
   padding: 2rem 1.25rem 4rem;
 }
-.site-footer { border-top: 1px solid var(--border-colour); padding: 2rem 1.25rem; text-align: center; }
+/* Consistent, compact navigation and about information at the foot of every page. */
+.site-footer { border-top: 1px solid var(--border-colour); padding: 2rem 1.25rem; }
+.site-footer-inner { display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem 3rem; max-width: var(--content-wide); margin: auto; }
+.site-footer-title { font-size: 1.05rem; font-weight: 800; text-decoration: none; }
+.site-footer-about p { max-width: 26rem; margin: 0.25rem 0 0; color: var(--secondary-text); font-size: 0.87rem; }
+.site-footer-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.25rem; }
+.site-footer-nav a { min-height: 2.75rem; display: inline-flex; align-items: center; text-underline-offset: 0.2em; font-size: 0.88rem; }
+.site-footer a:focus-visible { outline: var(--focus-ring); outline-offset: 4px; }
 
 .skip-link {
   position: fixed;
@@ -87,6 +94,20 @@ html[data-theme="dark"] .site-header { background: rgb(34 34 37 / 0.92); }
   font-weight: 700;
 }
 .skip-link:focus { transform: translateY(0); }
+
+/* Visible keyboard focus on shared interactive surfaces, not just the reader controls. */
+.button:focus-visible,
+.site-header nav a:focus-visible,
+.home-collection-card:focus-visible,
+.home-type-card:focus-visible,
+.basta-home-mode-card:focus-visible,
+.basta-home-page-jump input:focus-visible,
+.basta-home-page-jump button:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
+}
+.button { cursor: pointer; font: inherit; font-weight: 600; }
+.button:hover:not(.button-secondary) { filter: brightness(0.92); }
 
 /* Shared layout/UI */
 .hero { max-width: 48rem; padding: 3rem 0 4rem; }
