@@ -1,6 +1,6 @@
 // File role: Appearance preferences and colour contrast calculation.
 // All palettes are local to this browser; no account or server storage.
-export type ThemeName = "light" | "dark" | "sepia" | "custom";
+export type ThemeName = "light" | "dark" | "amoled" | "sepia" | "custom";
 export type CustomPalette = { main: string; secondary: string; accent: string };
 
 export const PALETTE_KEY = "kalam:custom-theme";
@@ -52,7 +52,7 @@ export function paletteForeground(palette: CustomPalette): { text: string; accen
 export function readTheme(): ThemeName {
   let saved: string | null = null;
   try { saved = localStorage.getItem("theme"); } catch { /* Storage can be blocked. */ }
-  if (saved === "light" || saved === "dark" || saved === "sepia" || saved === "custom") return saved;
+  if (saved === "light" || saved === "dark" || saved === "amoled" || saved === "sepia" || saved === "custom") return saved;
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
 
@@ -77,11 +77,11 @@ export function applyTheme(theme: ThemeName, palette: CustomPalette = readCustom
     root.style.setProperty("--theme-color-scheme", scheme);
     root.dataset.pfTheme = scheme;
   } else {
-    root.dataset.pfTheme = theme === "dark" ? "dark" : "light";
+    root.dataset.pfTheme = theme === "dark" || theme === "amoled" ? "dark" : "light";
   }
   root.dataset.theme = theme;
   const headerColor = theme === "custom" ? palette.main
-    : theme === "sepia" ? "#f4ead6" : theme === "light" ? "#f7f7f8" : "#171719";
+    : theme === "sepia" ? "#f4ead6" : theme === "amoled" ? "#000000" : theme === "light" ? "#f7f7f8" : "#171719";
   document.querySelector('meta[name="theme-color"]')?.setAttribute("content", headerColor);
   if (persist) {
     try {
