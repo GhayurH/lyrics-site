@@ -36,6 +36,13 @@ test("choose the most visible page if the reading line falls in a separator", ()
   assert.equal(pageAtReadingLine([{ id: 1, top: 1200, bottom: 2000 }], 0, 900), undefined);
 });
 
+test("a newly jumped-to page wins over the trailing sliver of the preceding page", () => {
+  assert.equal(pageAtReadingLine([
+    { id: 263, top: -500, bottom: 131 },
+    { id: 264, top: 125, bottom: 1050 },
+  ], 0, 800), 264);
+});
+
 test("position within a page is bounded and device-independent", () => {
   assert.equal(pageOffsetFraction(100, 1000, 350), 0.25);
   assert.equal(pageOffsetFraction(200, 100, 0), 0);

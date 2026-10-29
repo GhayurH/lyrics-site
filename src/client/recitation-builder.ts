@@ -20,9 +20,10 @@ interface CatalogItem {
 const byId = new Map<string, CatalogItem>();
 const details = new Map<string, Promise<BastaKalam>>();
 const elm = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
-const button = (title: string, callback: () => void, disabled = false): HTMLButtonElement => {
+const button = (title: string, callback: () => void, disabled = false, accessibleName?: string): HTMLButtonElement => {
   const b = document.createElement("button");
   b.type = "button"; b.textContent = title; b.disabled = disabled;
+  if (accessibleName) b.setAttribute("aria-label", accessibleName);
   b.addEventListener("click", callback);
   return b;
 };
@@ -92,6 +93,7 @@ export async function initRecitationBuilder(): Promise<void> {
   say("Loading poetry catalog…");
   let draft: RecitationDraft;
   let arranging: string | undefined;
+  let arrangementTrigger: HTMLButtonElement | undefined;
   // Keep an unfiltered catalog from overwhelming the programme workflow.
   let resultLimit = 8;
   let catalogReady = false;
@@ -213,29 +215,40 @@ export async function initRecitationBuilder(): Promise<void> {
       row.className = "recite-list-row"; row.draggable = true;
       const name = div("recite-list-info");
       const strong = document.createElement("strong");
-      strong.textContent = (index + 1) + ". " + (metadata?.title || item.sourceTitle || item.id);
+      const itemTitle = metadata?.title || item.sourceTitle || item.id;
+      strong.textContent = (index + 1) + ". " + itemTitle;
       if (/[\u0600-\u06ff]/u.test(metadata?.title || "")) { strong.lang = "ur"; strong.dir = "rtl"; }
       name.append(strong);
       const sub = document.createElement("small");
-      sub.textContent = (!metadata || !metadata.ready ? "SOURCE UNAVAILABLE — kept in programme · " : "") + (metadata?.type || item.kind) +
+      sub.textContent = (!metadata || !metadata.ready ? "SOURCE UNAVAILABLE — kept in programme · " : "") +
+        (metadata?.type === "Marsiye" ? "Marsiya" : metadata?.type || item.kind) +
         (item.stanzaSequence ? " · Custom stanzas (" + item.stanzaSequence.length + ")" : "");
       name.append(sub);
       const actions = div("recite-list-actions");
       actions.append(
-        button("↑", () => reorder(index, index - 1), index === 0),
-        button("↓", () => reorder(index, index + 1), index === draft.set.items.length - 1),
+        button("↑", () => reorder(index, index - 1), index === 0, `Move ${itemTitle} up`),
+        button("↓", () => reorder(index, index + 1), index === draft.set.items.length - 1, `Move ${itemTitle} down`),
       );
       if (metadata?.numbered) {
-        actions.append(button("Arrange stanzas", () => {
-          arranging = item.uid; void showArrangement();
-        }));
+        const arrange = button("Arrange stanzas", () => {
+          arranging = item.uid;
+          arrangementTrigger = arrange;
+          // Reveal the editor after the programme rather than under search results.
+          elm<HTMLOListElement>("recite-sequence").after(elm<HTMLElement>("recite-arrangement"));
+          const heading = elm<HTMLElement>("recite-arrangement-heading");
+          heading.tabIndex = -1;
+          heading.scrollIntoView({ block: "start" });
+          heading.focus({ preventScroll: true });
+          void showArrangement();
+        }, false, `Arrange stanzas for ${itemTitle}`);
+        actions.append(arrange);
       }
       actions.append(button("Remove", () => {
         draft.set.items.splice(index, 1); if (arranging === item.uid) arranging = undefined;
         persist(); render();
-      }));
+      }, false, `Remove ${itemTitle} from programme`));
       const label = document.createElement("label");
-      label.textContent = "Reciter (optional)";
+      label.textContent = "Reciter for " + itemTitle + " (optional)";
       label.className = "recite-inline-note";
       const input = document.createElement("input");
       input.maxLength = 100; input.placeholder = "Assigned reciter";
@@ -245,7 +258,7 @@ export async function initRecitationBuilder(): Promise<void> {
       });
       label.append(input);
       const noteLabel = document.createElement("label");
-      noteLabel.textContent = "Recitation note (optional)";
+      noteLabel.textContent = "Note for " + itemTitle + " (optional)";
       noteLabel.className = "recite-inline-note";
       const note = document.createElement("input");
       note.maxLength = 400; note.placeholder = "Optional note";
@@ -309,8 +322,10 @@ export async function initRecitationBuilder(): Promise<void> {
       return li;
     }));
     const more = elm<HTMLButtonElement>("recite-more");
-    more.hidden = resultLimit >= matches.length;
-    more.textContent = "Show more (" + (matches.length - resultLimit) + " remaining)";
+    const remaining = Math.max(0, matches.length - resultLimit);
+    more.hidden = remaining === 0;
+    more.disabled = remaining === 0;
+    more.textContent = remaining ? `Show more (${remaining} remaining)` : "All matching kalams shown";
   }
   function render() {
     elm<HTMLInputElement>("recite-title").value = draft.set.title;
@@ -354,9 +369,9 @@ export async function initRecitationBuilder(): Promise<void> {
         description.append(name, excerpt);
         const actions = div("recite-list-actions");
         actions.append(
-          button("↑", () => adjustStanza(item, move(sequence, index, index - 1)), index === 0),
-          button("↓", () => adjustStanza(item, move(sequence, index, index + 1)), index === sequence.length - 1),
-          button("Remove", () => adjustStanza(item, sequence.filter((_, pos) => pos !== index))),
+          button("↑", () => adjustStanza(item, move(sequence, index, index - 1)), index === 0, `Move stanza ${stanza?.number ?? index + 1} up`),
+          button("↓", () => adjustStanza(item, move(sequence, index, index + 1)), index === sequence.length - 1, `Move stanza ${stanza?.number ?? index + 1} down`),
+          button("Remove", () => adjustStanza(item, sequence.filter((_, pos) => pos !== index)), false, `Remove stanza ${stanza?.number ?? index + 1}`),
         );
         li.append(description, actions);
         return li;
@@ -476,6 +491,8 @@ export async function initRecitationBuilder(): Promise<void> {
   elm<HTMLButtonElement>("recite-more").addEventListener("click", () => { resultLimit += 24; renderResults(); });
   elm<HTMLButtonElement>("recite-arrangement-close").addEventListener("click", () => {
     arranging = undefined; elm<HTMLElement>("recite-arrangement").hidden = true;
+    if (arrangementTrigger?.isConnected) arrangementTrigger.focus();
+    arrangementTrigger = undefined;
   });
   elm<HTMLSelectElement>("recite-borrow-kalam").addEventListener("change", () => { void refreshBorrowStanzas(); });
   elm<HTMLButtonElement>("recite-borrow-add").addEventListener("click", () => {

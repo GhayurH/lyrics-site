@@ -82,7 +82,7 @@ for (const entry of entries) {
 
                     <thead>
                       <tr>
-                        <th scope="col">{roman ? "Serial" : "نمبر"}</th>
+                        <th scope="col">{roman ? "No." : "نمبر"}</th>
                         <th scope="col">{roman ? "Name" : "عنوان"}</th>
                         {hasHaal && (
                           <th scope="col">{roman ? "Haal" : "حال"}</th>
@@ -95,7 +95,7 @@ for (const entry of entries) {
                       {
                         sectionEntries.map((entry) => {
                           const name = roman
-                            ? (entry.romanName?.trim() || entry.name)
+                            ? (entry.romanName?.trim() || `Roman transcription unavailable — ${entry.name}`)
                             : entry.name;
                           const haal = roman
                             ? (entry.romanHaal?.trim() || entry.haal || "")
@@ -135,7 +135,7 @@ for (const entry of entries) {
                 </div>
                 <div class="basta-index-mobile-list" role="list" data-pagefind-ignore>
                   {sectionEntries.map((entry) => {
-                    const name = roman ? (entry.romanName?.trim() || entry.name) : entry.name;
+                    const name = roman ? (entry.romanName?.trim() || `Roman transcription unavailable — ${entry.name}`) : entry.name;
                     const haal = roman ? (entry.romanHaal?.trim() || entry.haal || "") : (entry.haal ?? "");
                     const href = linkMode === "continuous" ? `#page-${entry.page}` : `/basta/${entry.page}/`;
                     return (

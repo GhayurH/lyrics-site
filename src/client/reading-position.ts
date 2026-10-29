@@ -10,6 +10,11 @@ export function pageAtReadingLine(
   const viewportBottom = viewportTop + viewportHeight;
   const line = viewportTop + Math.min(100, viewportHeight * 0.25);
   const valid = pages.filter((page) => Number.isSafeInteger(page.id) && page.bottom > page.top);
+  // A hash target just below the sticky toolbar takes precedence over
+  // a thin visible strip of the preceding page.
+  const starting = valid.find((page) =>
+    page.top >= viewportTop - 8 && page.top <= line + 48 && page.bottom > line);
+  if (starting) return starting.id;
   const atLine = valid.find((page) => page.top <= line && page.bottom > line);
   if (atLine) return atLine.id;
   const overlap = valid

@@ -221,3 +221,53 @@ test("saved library has a separate kalam/stanza bookmark section", async ({ page
   await expect(page.locator("#basta-selections-heading")).toBeHidden();
   await expect(page.locator("#saved-overview-empty")).toBeVisible();
 });
+
+test("search results index poetry without including metadata controls @smoke", async ({ page }) => {
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  const source = page.locator("[data-pagefind-body]");
+  await expect(source).toHaveCount(1);
+  await expect(source).not.toContainText("About this kalam");
+  await expect(source).not.toContainText("Original lyric sheet");
+  await page.goto("/basta/328/");
+  const basta = page.locator("[data-pagefind-body]");
+  await expect(basta).toHaveCount(1);
+  await expect(basta).not.toContainText("Line Spacing");
+  await expect(basta.locator("p")).not.toHaveCount(0);
+});
+
+test("recitation catalog never displays negative remaining results @smoke", async ({ page }) => {
+  await page.goto("/recite/");
+  await expect(page.locator("#recite-app")).not.toHaveAttribute("inert", "");
+  await page.locator("#recite-search").fill("marsiya");
+  const more = page.locator("#recite-more");
+  await expect.poll(async () => await more.isHidden() ? true :
+    (await more.textContent() ?? "").includes(" remaining)") && !(await more.textContent() ?? "").includes("(-")).toBe(true);
+});
+
+test("saved Basta stanza retains its printed label instead of the bookmark index @smoke", async ({ page }) => {
+  await page.goto("/basta/264/");
+  const stanza = page.locator(".basta-page-urdu .basta-stanza-bookmark").nth(2);
+  await expect(stanza).toBeVisible();
+  const number = (await stanza.textContent())?.trim();
+  await stanza.click();
+  await page.goto("/saved/");
+  await expect(page.locator("#basta-selections-list a").first()).toContainText("Stanza " + number);
+});
+
+test("Saved loads without exposing temporary empty counts @smoke", async ({ page }) => {
+  await page.goto("/saved/");
+  await expect(page.locator("#saved-library")).toHaveAttribute("data-saved-settled", "true");
+  await expect(page.locator("#saved-initializing")).toBeHidden();
+  await expect(page.locator("#saved-overview-empty")).toBeVisible();
+});
+
+test("Basta index section navigation keeps real page links @smoke", async ({ page }) => {
+  await page.goto("/basta/index/");
+  const jump = page.locator(".basta-index-section-nav a").first();
+  await expect(jump).toBeVisible();
+  const target = await jump.getAttribute("href");
+  expect(target?.startsWith("#basta-index-section-")).toBe(true);
+  await jump.click();
+  await expect(page).toHaveURL(new RegExp(target + "$"));
+  expect((await page.locator(target + " .basta-index-mobile-item a").first().getAttribute("href"))?.startsWith("/basta/")).toBe(true);
+});

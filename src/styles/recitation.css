@@ -356,3 +356,7 @@ html[data-reading-focus="true"] .recite-reader-exports { display: none; }
   .recite-steps { margin-bottom: .65rem; }
   .recite-app > .page-header-simple { margin-bottom: .85rem; }
 }
+
+/* Utility button rules set display, which can override the native [hidden]
+   attribute. A completed catalog must not leave a disabled 'Show more' visible. */
+.recite-app #recite-more[hidden] { display: none !important; }

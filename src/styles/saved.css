@@ -19,3 +19,9 @@
 .saved-overview-empty { max-width: var(--content-compact); padding: 1.2rem 0; color: var(--secondary-text); }
 .saved-overview-empty[hidden] { display: none; }
 .saved-overview-empty a { color: var(--primary-text); }
+
+/* Until the catalog has loaded, suppress transient '0 saved' sections.
+   Keep one neutral, accessible status; never impersonate empty local data. */
+.saved-loading { display: none; margin-top: 1rem; color: var(--secondary-text); }
+html[data-js-available="true"] #saved-library:not([data-saved-settled="true"]) #saved-initializing { display: block; }
+html[data-js-available="true"] #saved-library:not([data-saved-settled="true"]) .saved-section { display: none !important; }

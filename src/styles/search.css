@@ -67,3 +67,21 @@ html:is([data-theme="sepia"], [data-theme="custom"], [data-theme="amoled"]) .sea
   --pf-mark: var(--accent-color);
   --pf-outline-focus: var(--accent-color);
 }
+
+/* The dropdown's trigger is a neutral label; the current selection is
+   reported separately so the view never says "All" after filtering. */
+.search-selected-filter { display: block; margin-top: .3rem; color: var(--primary-text); font-weight: 700; font-size: .8rem; }
+.search-collection-note { margin: 0 0 .9rem; color: var(--secondary-text); font-size: .88rem; }
+.search-no-results-help { margin-top: 1.2rem; border: var(--ui-border); border-radius: var(--ui-radius); padding: .9rem 1rem; background: var(--surface-background); }
+.search-no-results-help[hidden] { display: none; }
+.search-no-results-help button { color: var(--primary-text); text-decoration: underline; font-weight: 700; cursor: pointer; }
+
+/* Match the reader's hierarchy without crowding the result list. Pagefind
+   consumes these as its documented custom typography and spacing tokens. */
+.search-page {
+  --pf-result-title-font-size: 1.16rem;
+  --pf-result-excerpt-font-size: 1rem;
+  --pf-results-gap: .75rem;
+}
+.search-page .pf-result-collection { margin: 0 0 .25rem; color: var(--secondary-text); font-size: .77rem; font-weight: 750; }
+.search-page .pf-result-roman-title { margin: .25rem 0; color: var(--secondary-text); font-size: .95rem; }
