@@ -131,6 +131,12 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
 
       <div class="pagefind-data" aria-hidden="true">
         <span data-pagefind-filter="collection">Basta</span>
+        <span data-pagefind-meta="collection">Basta · Printed page</span>
+        {pageIndexEntries.find((entry) => entry.romanName?.trim())?.romanName && (
+          <span data-pagefind-meta="roman_title">
+            {pageIndexEntries.find((entry) => entry.romanName?.trim())?.romanName}
+          </span>
+        )}
         {kalamTypeFilters.map((kalamType) => (
           <span data-pagefind-filter="kalamType">{kalamType}</span>
         ))}
