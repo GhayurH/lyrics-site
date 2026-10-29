@@ -41,7 +41,8 @@ import "../styles/search.css";
       </div>
       <div class="search-filter-control">
         <span class="search-filter-label">Kalam Type</span>
-        <pagefind-filter-dropdown filter="kalamType" label="All Kalam Types" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown filter="kalamType" label="Kalam Type" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <span id="search-kalam-type-current" class="search-selected-filter" aria-live="polite">All types</span>
       </div>
       <div class="search-filter-control">
         <span class="search-filter-label">Haal</span>
@@ -71,8 +72,13 @@ import "../styles/search.css";
     </div>
 
     <div class="search-results-shell">
+      <p class="search-collection-note">Each standalone result is a kalam. Each Basta result is a printed page, which may contain several selections.</p>
       <pagefind-summary></pagefind-summary>
       <pagefind-results></pagefind-results>
+      <p id="search-no-results-help" class="search-no-results-help" hidden>
+        No matches. Try a shorter phrase, the other script (Urdu or Roman Urdu), or
+        <button id="search-clear-no-results" class="text-button" type="button">clear all filters and search again</button>.
+      </p>
     </div>
   </section>
 
