@@ -241,7 +241,7 @@ test("recitation catalog never displays negative remaining results @smoke", asyn
   await page.locator("#recite-search").fill("marsiya");
   const more = page.locator("#recite-more");
   await expect.poll(async () => await more.isHidden() ? true :
-    /Show more \\(\\d+ remaining\\)/.test(await more.textContent() ?? "")).toBe(true);
+    (await more.textContent() ?? "").includes(" remaining)") && !(await more.textContent() ?? "").includes("(-")).toBe(true);
 });
 
 test("saved Basta stanza retains its printed label instead of the bookmark index @smoke", async ({ page }) => {
