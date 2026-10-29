@@ -253,3 +253,21 @@ test("saved Basta stanza retains its printed label instead of the bookmark index
   await page.goto("/saved/");
   await expect(page.locator("#basta-selections-list a").first()).toContainText("Stanza " + number);
 });
+
+test("Saved loads without exposing temporary empty counts @smoke", async ({ page }) => {
+  await page.goto("/saved/");
+  await expect(page.locator("#saved-library")).toHaveAttribute("data-saved-settled", "true");
+  await expect(page.locator("#saved-initializing")).toBeHidden();
+  await expect(page.locator("#saved-overview-empty")).toBeVisible();
+});
+
+test("Basta index section navigation keeps real page links @smoke", async ({ page }) => {
+  await page.goto("/basta/index/");
+  const jump = page.locator(".basta-index-section-nav a").first();
+  await expect(jump).toBeVisible();
+  const target = await jump.getAttribute("href");
+  expect(target).toMatch(/^#basta-index-section-\\d+$/);
+  await jump.click();
+  await expect(page).toHaveURL(new RegExp(target + "$"));
+  await expect(page.locator(target + " .basta-index-mobile-item a").first()).toHaveAttribute("href", /\\/basta\\/\\d+\\//);
+});
