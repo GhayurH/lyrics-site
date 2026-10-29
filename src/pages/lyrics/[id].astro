@@ -193,6 +193,8 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
       <span data-pagefind-meta="searchTerms">{searchTerms}</span>
       <span data-pagefind-filter="collection">Lyrics</span>
+      <span data-pagefind-meta="collection">Standalone kalam</span>
+      {data.alternateTitle && <span data-pagefind-meta="roman_title">{data.alternateTitle}</span>}
       <span data-pagefind-filter="kalamType">{category}</span>
       <span data-pagefind-filter="language">{data.language}</span>
 
