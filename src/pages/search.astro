@@ -74,7 +74,28 @@ import "../styles/search.css";
     <div class="search-results-shell">
       <p class="search-collection-note">Each standalone result is a kalam. Each Basta result is a printed page, which may contain several selections.</p>
       <pagefind-summary></pagefind-summary>
-      <pagefind-results></pagefind-results>
+      <pagefind-results>
+        <script type="text/pagefind-template" is:inline>
+          <li class="pf-result">
+            <div class="pf-result-card">
+              <div class="pf-result-content">
+                {{#if meta.collection}}
+                <p class="pf-result-collection">{{ meta.collection }}</p>
+                {{/if}}
+                <p class="pf-result-title" dir="auto">
+                  <a class="pf-result-link" href="{{ meta.url | default(url) | safeUrl }}">{{ meta.title }}</a>
+                </p>
+                {{#if meta.roman_title}}
+                <p class="pf-result-roman-title" dir="ltr">{{ meta.roman_title }}</p>
+                {{/if}}
+                {{#if excerpt}}
+                <p class="pf-result-excerpt" dir="auto">{{+ excerpt +}}</p>
+                {{/if}}
+              </div>
+            </div>
+          </li>
+        </script>
+      </pagefind-results>
       <p id="search-no-results-help" class="search-no-results-help" hidden>
         No matches. Try a shorter phrase, the other script (Urdu or Roman Urdu), or
         <button id="search-clear-no-results" class="text-button" type="button">clear all filters and search again</button>.
