@@ -15,6 +15,7 @@ type SearchFilters = Partial<Record<FilterKey, string[]>>;
 
 type PagefindInstance = {
   on(event: "search", callback: (term: string, filters: Record<string, unknown>) => void): void;
+  on(event: "results", callback: (result: { results?: unknown[] }) => void): void;
   triggerLoad(): Promise<void>;
   triggerSearchWithFilters(term: string, filters: SearchFilters): void;
 };
@@ -152,15 +153,28 @@ export async function initSearchPage(): Promise<void> {
     currentFilters = filters;
     writeUrlState(term, filters);
     renderFilterChips(filters);
+    const selectedType = document.querySelector<HTMLElement>("#search-kalam-type-current");
+    if (selectedType) {
+      const choices = filters.kalamType ?? [];
+      selectedType.textContent = choices.length === 0 ? "All types" : choices.length === 1
+        ? `Selected: ${choices[0]}` : `${choices.length} types selected`;
+    }
   };
 
   instance.on("search", (term, rawFilters) => {
     apply(term, normalizeFilters(rawFilters));
+    const help = document.querySelector<HTMLElement>("#search-no-results-help");
+    if (help) help.hidden = true;
+  });
+  instance.on("results", (result) => {
+    const help = document.querySelector<HTMLElement>("#search-no-results-help");
+    if (help) help.hidden = (result.results?.length ?? 0) > 0 ||
+      (!currentTerm.trim() && Object.keys(currentFilters).length === 0);
   });
 
-  document.querySelector("#clear-search-state")?.addEventListener("click", () => {
-    instance.triggerSearchWithFilters("", {});
-  });
+  const clearSearch = () => instance.triggerSearchWithFilters("", {});
+  document.querySelector("#clear-search-state")?.addEventListener("click", clearSearch);
+  document.querySelector("#search-clear-no-results")?.addEventListener("click", clearSearch);
 
   document
     .querySelector("#active-search-filter-list")
@@ -181,6 +195,6 @@ export async function initSearchPage(): Promise<void> {
       instance.triggerSearchWithFilters(currentTerm, next);
     });
 
-  renderFilterChips(initial.filters);
+  apply(initial.term, initial.filters);
   instance.triggerSearchWithFilters(initial.term, initial.filters);
 }
