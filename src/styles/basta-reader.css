@@ -421,3 +421,11 @@
 /* Clear but subdued printed-page boundaries. */
 .basta-reader-page-break { border-top-color: var(--border-colour); }
 .basta-reader-page-number { color: var(--secondary-text); letter-spacing: .03em; }
+
+/* Short section links keep both language indexes accessible without a long
+   scan through every table; the corresponding headings remain canonical. */
+.basta-index-section-nav { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .65rem; margin: 0 0 1.25rem; }
+.basta-index-section-nav strong { font-size: .85rem; color: var(--secondary-text); }
+.basta-index-section-nav a { display: inline-flex; min-height: var(--ui-target); align-items: center; padding: .3rem .65rem; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); text-decoration: none; font-size: .85rem; }
+.basta-index-section-nav a:hover { background: var(--tag-background); }
+.basta-index-section-nav a:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
