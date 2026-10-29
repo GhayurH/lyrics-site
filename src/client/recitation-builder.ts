@@ -309,8 +309,10 @@ export async function initRecitationBuilder(): Promise<void> {
       return li;
     }));
     const more = elm<HTMLButtonElement>("recite-more");
-    more.hidden = resultLimit >= matches.length;
-    more.textContent = "Show more (" + (matches.length - resultLimit) + " remaining)";
+    const remaining = Math.max(0, matches.length - resultLimit);
+    more.hidden = remaining === 0;
+    more.disabled = remaining === 0;
+    more.textContent = remaining ? `Show more (${remaining} remaining)` : "All matching kalams shown";
   }
   function render() {
     elm<HTMLInputElement>("recite-title").value = draft.set.title;

@@ -72,6 +72,7 @@ export function initReadingProgress(): void {
 
       const readingLine = viewportTop + Math.min(100, viewportHeight * 0.25);
       const offset = pageOffsetFraction(current.top, current.bottom - current.top, readingLine);
+      root.dataset.bastaCurrentPage = String(page);
       writeBastaPosition({ page, mode: "continuous", offset: Math.round(offset * 1000) / 1000 });
       const label = document.querySelector<HTMLElement>("[data-reading-current-page]");
       if (label) label.textContent = `Page ${page}`;
@@ -119,7 +120,19 @@ export function initReadingProgress(): void {
   watchPages();
   window.addEventListener("basta:content-loaded", watchPages);
   window.addEventListener("basta:hash-resolved", restore);
-  window.addEventListener("basta:hash-resolved", update);
+  window.addEventListener("basta:hash-resolved", () => {
+    const match = /^#page-(\d+)$/.exec(location.hash);
+    const page = match ? Number(match[1]) : NaN;
+    if (Number.isSafeInteger(page) && root.querySelector(`#page-${page}`)) {
+      root.dataset.bastaCurrentPage = String(page);
+      writeBastaPosition({ page, mode: "continuous", offset: 0 });
+      const label = document.querySelector<HTMLElement>("[data-reading-current-page]");
+      if (label) label.textContent = `Page ${page}`;
+      const link = document.querySelector<HTMLAnchorElement>("[data-open-current-page]");
+      if (link) link.href = `/basta/${page}/`;
+    }
+    update();
+  });
   window.addEventListener("scroll", update, { passive: true });
   root.addEventListener("scroll", update, { passive: true });
   window.addEventListener("resize", update, { passive: true });

@@ -399,7 +399,9 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 .basta-index-col-serial {
   width: 10%;
+  min-width: 3.5rem;
 }
+.basta-index-table th:first-child { white-space: nowrap; overflow-wrap: normal; }
 
 .basta-index-table-without-haal .basta-index-col-name {
   width: 72%;
@@ -554,6 +556,11 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   text-align: justify;
   text-align-last: justify;
   min-inline-size: 0;
+}
+/* Keep Roman Urdu verse spacing natural while retaining one-line verses. */
+:is(.basta-page-roman, .basta-reader-roman) .basta-verse-poetry:not(.basta-kalam-title) {
+  text-align: left;
+  text-align-last: auto;
 }
 
 .basta-verse-line:empty::before {

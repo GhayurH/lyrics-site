@@ -40,11 +40,14 @@ html, body { background: var(--site-background); color: var(--primary-text); }
 .site-header nav a[aria-current="page"] { background: var(--tag-background); font-weight: 700; text-decoration: none; }
 
 .site-main {
+  scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 1rem);
   max-width: var(--content-wide);
   min-height: 75vh;
   margin: auto;
   padding: 2rem 1.25rem 4rem;
 }
+/* Direct hash links also clear the measured sticky header. */
+[id]:target { scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 1rem); }
 /* Consistent, compact navigation and about information at the foot of every page. */
 .site-footer { border-top: var(--ui-border); padding: 2rem 1.25rem; }
 .site-footer-inner { display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem 3rem; max-width: var(--content-wide); margin: auto; }
