@@ -2,7 +2,7 @@
 import type { LyricCardData } from "../lib/catalog";
 import { createLyricCard } from "./lyric-card";
 import { readBastaBookmarks } from "./basta-bookmarks";
-import { readBastaSelections, removeBastaSelection } from "./basta-selections";
+import { readBastaSelectionDetails, readBastaSelections, removeBastaSelection, selectionKey } from "./basta-selections";
 import { readDrafts } from "./recitation-storage";
 import {
   STORAGE_KEYS,
@@ -57,13 +57,17 @@ export async function initSavedLibrary(): Promise<void> {
     if (pageCount) pageCount.textContent = bookmarks.length + " saved";
 
     const selections = readBastaSelections();
+    const selectionDetails = readBastaSelectionDetails();
     const selectionList = document.querySelector<HTMLElement>("#basta-selections-list");
     selectionList?.replaceChildren(...selections.map((value) => {
       const item = document.createElement("li");
       const link = document.createElement("a");
       link.href = "/basta/" + value.page + "/#basta-" + value.kind + "-" + value.index;
-      link.textContent = "Basta · Page " + value.page + " · " +
-        (value.kind === "stanza" ? "Stanza " : "Kalam ") + value.index;
+      const details = selectionDetails[selectionKey(value)];
+      link.textContent = (details?.title ? details.title + " · " : "Basta · ") +
+        (value.kind === "stanza"
+          ? details?.number ? "Stanza " + details.number : "Stanza selection " + value.index
+          : "Kalam " + value.index) + " · Page " + value.page;
       const remove = document.createElement("button");
       remove.type = "button";
       remove.textContent = "Remove";

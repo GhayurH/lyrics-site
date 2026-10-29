@@ -1,6 +1,22 @@
 // File role: Bookmark a particular Basta kalam or numbered stanza without
 // adding layout height or altering the original poetry/source order.
-import { STORAGE_KEYS, readStringList, writeStringList } from "./storage";
+import { STORAGE_KEYS, readRecord, readStringList, writeRecord, writeStringList } from "./storage";
+
+const selectionDetailsKey = STORAGE_KEYS.bastaSelections + ":details";
+export interface SelectionDetails { number?: string; title?: string }
+export function readBastaSelectionDetails(): Record<string, SelectionDetails> {
+  const raw = readRecord(selectionDetailsKey);
+  const result: Record<string, SelectionDetails> = {};
+  for (const [key, entry] of Object.entries(raw)) {
+    if (!entry || typeof entry !== "object" || Array.isArray(entry)) continue;
+    const value = entry as Record<string, unknown>;
+    result[key] = {
+      number: typeof value.number === "string" ? value.number : undefined,
+      title: typeof value.title === "string" ? value.title : undefined,
+    };
+  }
+  return result;
+}
 
 export type BastaSelection = { page: number; kind: "kalam" | "stanza"; index: number };
 export function readBastaSelections(): BastaSelection[] {
@@ -20,6 +36,9 @@ export function selectionKey(value: BastaSelection): string {
 export function removeBastaSelection(value: BastaSelection): void {
   writeStringList(STORAGE_KEYS.bastaSelections,
     readStringList(STORAGE_KEYS.bastaSelections).filter((key) => key !== selectionKey(value)));
+  const details = readBastaSelectionDetails();
+  delete details[selectionKey(value)];
+  writeRecord(selectionDetailsKey, details);
   window.dispatchEvent(new Event("kalam:basta-selections-changed"));
 }
 
@@ -76,6 +95,22 @@ export function initBastaSelections(root: HTMLElement): void {
         });
       });
     }
+    // Printed labels are distinct from anchor positions. Recover metadata
+    // for pre-existing bookmarks when their source page is revisited.
+    const details = readBastaSelectionDetails();
+    const saved = new Set(readStringList(STORAGE_KEYS.bastaSelections));
+    let changed = false;
+    root.querySelectorAll<HTMLButtonElement>("[data-basta-save-selection]").forEach((button) => {
+      const key = button.dataset.bastaSaveSelection;
+      if (!key || !saved.has(key) || details[key]) return;
+      const block = button.closest<HTMLElement>(".basta-kalam-text");
+      details[key] = {
+        number: key.includes(":stanza:") ? button.textContent?.trim() : undefined,
+        title: block?.querySelector<HTMLElement>(".basta-kalam-title")?.textContent?.trim() || undefined,
+      };
+      changed = true;
+    });
+    if (changed) writeRecord(selectionDetailsKey, details);
     update();
     const hash = location.hash.slice(1);
     if (/^(?:page-\d+-)?basta-(kalam|stanza)-\d+$/.test(hash)) {
@@ -92,9 +127,20 @@ export function initBastaSelections(root: HTMLElement): void {
     if (!button) return;
     const key = button.dataset.bastaSaveSelection!;
     const bookmarks = readStringList(STORAGE_KEYS.bastaSelections);
-    writeStringList(STORAGE_KEYS.bastaSelections, bookmarks.includes(key)
+    const removing = bookmarks.includes(key);
+    writeStringList(STORAGE_KEYS.bastaSelections, removing
       ? bookmarks.filter((item) => item !== key)
       : [key, ...bookmarks].slice(0, 200));
+    const details = readBastaSelectionDetails();
+    if (removing) delete details[key];
+    else {
+      const block = button.closest<HTMLElement>(".basta-kalam-text");
+      details[key] = {
+        number: key.includes(":stanza:") ? button.textContent?.trim() : undefined,
+        title: block?.querySelector<HTMLElement>(".basta-kalam-title")?.textContent?.trim() || undefined,
+      };
+    }
+    writeRecord(selectionDetailsKey, details);
     window.dispatchEvent(new Event("kalam:basta-selections-changed"));
     update();
   });
