@@ -115,7 +115,6 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       "basta-page",
       hasRomanText && "basta-page-with-roman",
     ]}
-    data-pagefind-body
   >
     <header class="basta-page-header">
       <div class="basta-subnav" data-pagefind-ignore>
@@ -145,6 +144,21 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       </div>
     </header>
 
+
+    {/* Search-only source separates printed lines from reader controls,
+        navigation, scans, and stanza buttons. */}
+    <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
+      <p>Basta — Page {page}</p>
+      {pageIndexEntries.map((indexEntry) => (
+        <p>{indexEntry.romanName?.trim() || indexEntry.name}</p>
+      ))}
+      {urduText.split(/\r?\n/u).map((line) => line.trim()).filter((line) => line && line !== "---***---").map((line) => (
+        <p lang="ur" dir="rtl">{line}</p>
+      ))}
+      {romanText.split(/\r?\n/u).map((line) => line.trim()).filter((line) => line && line !== "---***---").map((line) => (
+        <p lang="en" dir="ltr">{line}</p>
+      ))}
+    </div>
 
     <ReadingControls
       className="basta-page-reading-controls"
