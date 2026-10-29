@@ -45,7 +45,7 @@ const count = lyrics.length + bastaEntries.length;
       <a class="back-link" href="/">← All Kalam Types</a>
       <p class="eyebrow">Kalam Type</p>
       <h1>{kalamType}</h1>
-      <p>{count} {count === 1 ? "entry" : "entries"}</p>
+      <p>{count} {count === 1 ? "entry" : "entries"} · {lyrics.length} standalone {lyrics.length === 1 ? "kalam" : "kalams"} · {bastaEntries.length} Basta {bastaEntries.length === 1 ? "selection" : "selections"}</p>
     </header>
 
     {lyrics.length > 0 && bastaEntries.length > 0 && (

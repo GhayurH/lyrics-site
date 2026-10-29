@@ -80,7 +80,6 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       "lyric-page",
       data.romanLyrics && "lyric-page-parallel",
     ]}
-    data-pagefind-body
     data-lyric-id={lyric.id}
   >
     <header class="lyric-header">
@@ -194,6 +193,8 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
       <span data-pagefind-meta="searchTerms">{searchTerms}</span>
       <span data-pagefind-filter="collection">Lyrics</span>
+      <span data-pagefind-meta="collection">Standalone kalam</span>
+      {data.alternateTitle && <span data-pagefind-meta="roman_title">{data.alternateTitle}</span>}
       <span data-pagefind-filter="kalamType">{category}</span>
       <span data-pagefind-filter="language">{data.language}</span>
 
@@ -202,6 +203,19 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       {data.reciter && <span data-pagefind-filter="reciter">{data.reciter}</span>}
       {data.occasion && <span data-pagefind-filter="occasion">{data.occasion}</span>}
       {data.tags.map((tag) => <span data-pagefind-filter="tag">{tag}</span>)}
+    </div>
+
+    {/* Index only real poetry. Paragraphs keep distinct source lines apart
+        so Pagefind cannot join them into unreadable search excerpts. */}
+    <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
+      <p>{data.title}</p>
+      {data.alternateTitle && <p>{data.alternateTitle}</p>}
+      {(lyric.body ?? "").split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+        <p lang={data.lang} dir={data.direction}>{line}</p>
+      ))}
+      {data.romanLyrics?.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+        <p lang="en" dir="ltr">{line}</p>
+      ))}
     </div>
 
     <ReadingControls
@@ -312,7 +326,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       </div>
 
       <a class="lyric-neighbor-category" href={`/categories/${slugifyKalamType(category)}/`}>
-        All {category} · {categoryCount}
+        All standalone {category} · {categoryCount}
       </a>
 
       <div class="lyric-neighbor-slot lyric-neighbor-next">

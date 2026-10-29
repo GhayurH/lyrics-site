@@ -68,6 +68,7 @@
   word-break: normal;
   min-inline-size: 0;
 }
+.lyric-reading-roman .lyric-verse { text-align: left; text-align-last: auto; }
 .lyric-reading-grid[data-reading-mode="urdu"], .lyric-reading-grid[data-reading-mode="roman"] { max-width: var(--reading-single-width); margin-inline: auto; }
 .lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0, var(--reading-single-width)); justify-content: center; }
 .lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0, var(--reading-single-width)); justify-content: center; }

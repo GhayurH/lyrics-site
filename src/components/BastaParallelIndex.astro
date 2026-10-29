@@ -25,7 +25,8 @@ for (const entry of entries) {
   groups.set(key, group);
 }
 
-const sections = [...groups.entries()].map(([urduSection, sectionEntries]) => ({
+const sections = [...groups.entries()].map(([urduSection, sectionEntries], index) => ({
+  id: `basta-index-section-${index + 1}`,
   urduSection,
   romanSection:
     sectionEntries[0]?.sectionRoman?.trim() ||
@@ -47,10 +48,16 @@ const sections = [...groups.entries()].map(([urduSection, sectionEntries]) => ({
     )
   }
 
+  <nav class="basta-index-section-nav" aria-label="Jump to an index section">
+    <strong>Jump to section:</strong>
+    {sections.map((section) => (
+      <a href={`#${section.id}`}>{section.romanSection || section.urduSection}</a>
+    ))}
+  </nav>
   <div class="basta-parallel-index-sections">
     {
       sections.map((section) => (
-        <section class="basta-parallel-index-section">
+        <section class="basta-parallel-index-section" id={section.id}>
           <h3 class="basta-parallel-index-section-heading basta-parallel-index-roman">
             {section.romanSection}
           </h3>
