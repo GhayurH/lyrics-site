@@ -118,6 +118,7 @@ export async function initSavedLibrary(): Promise<void> {
     console.error(error);
     const loadError = document.querySelector<HTMLElement>("#saved-load-error");
     if (loadError) loadError.hidden = false;
+    root.dataset.savedSettled = "true";
     return;
   }
 
@@ -177,4 +178,5 @@ export async function initSavedLibrary(): Promise<void> {
   });
 
   render();
+  root.dataset.savedSettled = "true";
 }
