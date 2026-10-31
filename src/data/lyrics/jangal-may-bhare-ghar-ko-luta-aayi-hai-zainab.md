@@ -36,7 +36,7 @@ romanLyrics: |-
   Aaghosh may turbat ke sulaa aayi hai Zainab ay Shehr-e-Madina
   
   6
-  Thay Aun-o-Mohammad jo meri aankhon ke taare mamu ke dulaare
+  The Aun-o-Mohammad jo meri aankhon ke taare mamu ke dulaare
   Qurbaan unhe Bhai par kar aayi hai Zainab ay Shehr-e-Madina
   
   7
@@ -56,7 +56,7 @@ romanLyrics: |-
   Jo Shaam ke darbaar may dekh aayi hai Zainab ay Shehr-e-Madina
   
   11
-  Kis waqt Khuda jaane qadam nikle thay ghar se chaadar chini sar se
+  Kis waqt Khuda jaane qadam nikle the ghar se chaadar chini sar se
   Ab tak na masayab se nikal paayi hai Zainab ay Shehr-e-Madina
   
   12
@@ -64,7 +64,7 @@ romanLyrics: |-
   Majlis ki bina Shaam may daal aayi hai Zainab ay Shehr-e-Madina
   
   13
-  Reh jayega Akhtar* ufaqe gham pe tera naam kya khoob hai inaam
+  Reh jayega Akhtar ufaqe gham pe tera naam kya khoob hai inaam
   Nauha tera sun-ne ke liye aayi hai Zainab ay Shehr-e-Madina
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: "کربلا منتظرِ ما است، بیا تا برویم"
-alternateTitle: "Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
+alternateTitle: "Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
+  - "Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
 cover: "/images/lyrics/karbala-muntazir-e-ma-ast-biya-ta-be-raweem.png"
-coverAlt: "Cover image for Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
+coverAlt: "Cover image for Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
 published: true
 romanLyrics: |-
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
@@ -21,6 +21,7 @@ romanLyrics: |-
   Khoon Kitna Hume Abbas-e-Dil Aawar Se Mila
   Hausla Faujon Ko Nanhe Ali Asghar Se Mila
   Kitne Moula Ke Hain Ehsaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   2
   Raah Purkhaar Hai, Dushwaar Hai Chalne Ke Liye
@@ -28,6 +29,7 @@ romanLyrics: |-
   Muntazir Khoon Hai Gardan Se Nikalne Ke Liye
   Ghode Tayyar Hain Laashe Ko Kuchalne Ke Liye
   Shaah Hain Aap Ke Mehmaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   3
   Tashnalab Logon Ke Ye Khoon Ka Darya Dekho
@@ -35,6 +37,7 @@ romanLyrics: |-
   Bhai Abbas Ke Ye Dast-e-Burida Dekho
   Laasha-e-Asghar Liye Ye Kaun Hai Tanha Dekho
   Bhar Gaya Laashon Se Maidaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   4
   Wo Yazeedi Jo The Duniya Ke Hawas Ke Maare
@@ -42,6 +45,7 @@ romanLyrics: |-
   Farsh Par Toot Gaye Arsh-e-Khuda Ke Taare
   Khaak Aur Khoon Mein Ghaltaan The Wo Bikhre Paare
   Nauk-e-Naiza Pe Hai Quran, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   5
   Koi Eeza Na Pahunch Paaye Nabi Ke Ghar Ko
@@ -49,6 +53,7 @@ romanLyrics: |-
   Teer Lag Jaaye Na Hurmala Ka Ali Asghar Ko
   Koi Barchhi Na Kahin Lag Jaaye Ali Akbar Ko
   Jaan Par Waar Do Tum Jaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   6
   Jism Pamaal Hai Qasim Ka, Shikasta Sar Hai
@@ -56,6 +61,7 @@ romanLyrics: |-
   Jis Ke Sine Se Ubalta Hai Lahoo, Akbar Hai
   Teer Gardan Mein Hai Jis Ke, Ye Ali Asghar Hai
   Hai Lahoo Ta Had-e-Imkaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   7
   Qaid Khane Ki Musibat Mein Koi Aas Nahin
@@ -63,6 +69,7 @@ romanLyrics: |-
   Aaj Bachi Ki Madad Ke Liye Abbas Nahin
   Kab Se Pyasi Hai Sakina, Tumhe Ehsaas Nahin
   Ye Sada Deta Hai Zindaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   8
   Muntaqim Karb-o-Bala Ka Wo Abhi Aayega
@@ -70,6 +77,7 @@ romanLyrics: |-
   Kaun Aulaad Ko Nusrat Ke Liye Bhejega
   Kaun Akbar Ke Kaleje Se Sinaan Khenchega
   Ye Husaini Ka Hai Paighaam, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   9
   Aapko Zaat Ke Patthar Se Bhi Ladna Hoga
@@ -77,6 +85,7 @@ romanLyrics: |-
   Aapko Nafs Ke Lashkar Se Bhi Ladna Hoga
   Sirf Bahar Nahin Andar Se Bhi Ladna Hoga
   Maang Lo Jang Ka Samaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   10
   Nasir-e-Mehdi-e-Haq, Janib-e-Kaaba Aaja
@@ -84,6 +93,7 @@ romanLyrics: |-
   Faisla Hurr Ki Tarah Karke Tu Aaja, Aaja
   Muntazir Teri Hi Ghaibat Mein Hai Moula, Aaja
   Tujhpe Qurbaan Meri Jaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   11
   Kaash Ay Kaash Koi Hota Wafa Ka Meyaar
@@ -91,6 +101,7 @@ romanLyrics: |-
   Koi Tameer Kara Deta Baqiye Ka Mazaar
   Kaash Hum Mein Koi Hota Janab-e-Mukhtar
   Hai Kahan Aisa Musalmaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
   
   12
   Kaash Ay Kaash Bane Karb-o-Bala Ka Lashkar
@@ -98,6 +109,7 @@ romanLyrics: |-
   Kaash Jaari Rahe Moula Ki Ye Nusrat Ka Safar
   Karbala Muntazir-e-Mehdi-e-Dauraan Hai, Qamar
   Dekho Tayyar Hai Maidaan, Biya Ta Be Raweem
+  Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem
 ---
 
 کربلا منتظرِ ما است، بیا تا برویم
@@ -109,6 +121,7 @@ romanLyrics: |-
 خون کتنا ہمیں عباسِ دل آور سے ملا
 حوصلہ فوجوں کو ننھے علی اصغر سے ملا
 کتنے مولا کے ہیں احسان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۲
 راہ پُرخار ہے، دشوار ہے چلنے کے لیے
@@ -116,6 +129,7 @@ romanLyrics: |-
 منتظر خون ہے گردن سے نکلنے کے لیے
 گھوڑے تیار ہیں لاشے کو کچلنے کے لیے
 شاہ ہیں آپ کے مہمان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۳
 تشنہ لب لوگوں کے یہ خون کا دریا دیکھو
@@ -123,6 +137,7 @@ romanLyrics: |-
 بھائی عباس کے یہ دستِ بریدہ دیکھو
 لاشۂ اصغر لیے یہ کون ہے تنہا دیکھو
 بھر گیا لاشوں سے میدان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۴
 وہ یزیدی جو تھے دنیا کے ہوس کے مارے
@@ -130,6 +145,7 @@ romanLyrics: |-
 فرش پر ٹوٹ گئے عرشِ خدا کے تارے
 خاک اور خون میں غلطاں تھے وہ بکھرے پارے
 نوکِ نیزہ پہ ہے قرآن، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۵
 کوئی ایذا نہ پہنچ پائے نبی کے گھر کو
@@ -137,6 +153,7 @@ romanLyrics: |-
 تیر لگ جائے نہ حُرمل کا علی اصغر کو
 کوئی برچھی نہ کہیں لگ جائے علی اکبر کو
 جان پر وار دو تم جان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۶
 جسم پامال ہے قاسم کا، شکستہ سر ہے
@@ -144,6 +161,7 @@ romanLyrics: |-
 جس کے سینے سے اُبلتا ہے لہو، اکبر ہے
 تیر گردن میں ہے جس کے، یہ علی اصغر ہے
 ہے لہو تا حدِ امکان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۷
 قید خانے کی مصیبت میں کوئی آس نہیں
@@ -151,6 +169,7 @@ romanLyrics: |-
 آج بچی کی مدد کے لیے عباس نہیں
 کب سے پیاسی ہے سکینہ، تمہیں احساس نہیں
 یہ صدا دیتا ہے زندان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۸
 منتقم کرب و بلا کا وہ ابھی آئے گا
@@ -158,6 +177,7 @@ romanLyrics: |-
 کون اولاد کو نصرت کے لیے بھیجے گا
 کون اکبر کے کلیجے سے سِناں کھینچے گا
 یہ حسینی کا ہے پیغام، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۹
 آپ کو ذات کے پتھر سے بھی لڑنا ہوگا
@@ -165,6 +185,7 @@ romanLyrics: |-
 آپ کو نفس کے لشکر سے بھی لڑنا ہوگا
 صرف باہر نہیں اندر سے بھی لڑنا ہوگا
 مانگ لو جنگ کا سامان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۱۰
 ناصرِ مہدیِ حق، جانبِ کعبہ آ جا
@@ -172,6 +193,7 @@ romanLyrics: |-
 فیصلہ حُر کی طرح کر کے تو آ جا، آ جا
 منتظر تیری ہی غیبت میں ہے مولا، آ جا
 تجھ پہ قربان مری جان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۱۱
 کاش اے کاش کوئی ہوتا وفا کا معیار
@@ -179,6 +201,7 @@ romanLyrics: |-
 کوئی تعمیر کرا دیتا بقیعے کا مزار
 کاش ہم میں کوئی ہوتا جنابِ مختار
 ہے کہاں ایسا مسلمان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم
 
 ۱۲
 کاش اے کاش بنے کرب و بلا کا لشکر
@@ -186,3 +209,4 @@ romanLyrics: |-
 کاش جاری رہے مولا کی یہ نصرت کا سفر
 کربلا منتظرِ مہدیِ دوراں ہے، قمر
 دیکھو تیار ہے میدان، بیا تا برویم
+کربلا منتظرِ ما است، بیا تا برویم

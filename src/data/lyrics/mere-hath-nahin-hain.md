@@ -1,15 +1,15 @@
 ---
 title: "میرے ہاتھ نہیں ہیں"
-alternateTitle: "mere hath nahin hain"
+alternateTitle: "Mere Hath Nahin Hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "mere hath nahin hain"
+  - "Mere Hath Nahin Hain"
 cover: "/images/lyrics/mere-hath-nahin-hain.png"
-coverAlt: "Cover image for mere hath nahin hain"
+coverAlt: "Cover image for Mere Hath Nahin Hain"
 published: true
 romanLyrics: |-
   Main kaise uthun aaqa, mere haath nahin hain

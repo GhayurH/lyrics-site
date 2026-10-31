@@ -16,9 +16,9 @@ romanLyrics: |-
   Haye Baad-e-Rasool Zehra Par Kaisa Ghurbat Ka Waqt Aaya Hai
   
   1
-  Jese Jese Batool Roti Theen Qehqahay Unke Barhtay Jatay Thay
-  Sath Jinko Batool Laayi Theen Ashk Dono Gawah Bahatay Thay
-  Sab Thay Masroof Muskuranay Mein Na Kisi Ko Bhi Tars Aaya Hai
+  Jese Jese Batool Roti Theen Qehqahay Unke Barhtay Jate The
+  Sath Jinko Batool Laayi Theen Ashk Dono Gawah Bahatay The
+  Sab The Masroof Muskuranay Mein Na Kisi Ko Bhi Tars Aaya Hai
   
   2
   Tere Mimbar Pe Bethay Ghasib Ko Teri Tehreer Bhi Dikhayi Hai
@@ -26,13 +26,13 @@ romanLyrics: |-
   Paak Tehreer Ko Hai Tukron Mein Maine Darbar Se Uthaya Hai
   
   3
-  Main To Wo Hun Ke Ya Rasool Allah Jiski Taazeem Aap Kartay Thay
-  Naam Lena Ho Jab Mera Baba Aap Pehlay Durood Parhtay Thay
+  Main To Wo Hun Ke Ya Rasool Allah Jiski Taazeem Aap Kartay The
+  Naam Lena Ho Jab Mera Baba Aap Pehlay Durood Parhtay The
   Kya Bataun Ke Mujh Pe Kya Guzri Us Ne To Keh Ke Jab Bulaya Hai
   
   4
-  Ye Wo Bibi Hai Ke Muhammad Bhi Jisko Umme Abiha Kehtay Thay
-  Wo Sawali Bani Khari Thi Magar Samnay Kursiyon Par Bethay Thay
+  Ye Wo Bibi Hai Ke Muhammad Bhi Jisko Umme Abiha Kehte The
+  Wo Sawali Bani Khari Thi Magar Samnay Kursiyon Par Bethay The
   Usko Muslim Kahun Bhala Kyun Kar Jisne Bibi Ka Dil Dukhaya Hai
 ---
 

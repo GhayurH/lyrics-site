@@ -1,15 +1,15 @@
 ---
 title: "آ اصغر بن تیرے میں چین کہاں سے پاوں"
-alternateTitle: "Aa Asghar bin tere"
+alternateTitle: "Aa Asghar Bin Tere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Aa Asghar bin tere"
+  - "Aa Asghar Bin Tere"
 cover: "/images/lyrics/aa-asghar-bin-tere.png"
-coverAlt: "Cover image for Aa Asghar bin tere"
+coverAlt: "Cover image for Aa Asghar Bin Tere"
 published: true
 romanLyrics: |-
   Aa Asghar bin tere, mai chayn kahan se paaun
@@ -26,8 +26,8 @@ romanLyrics: |-
   Main teri judayi mein beta, ro ro ke mar na jaaun
   
   3
-  Loriyon wale ye to tere, naaz uthane ke din thay
-  Aankhon mein teri khushiyon ke, khwab sajane ke din thay
+  Loriyon wale ye to tere, naaz uthane ke din the
+  Aankhon mein teri khushiyon ke, khwab sajane ke din the
   Aa laut ke Asghar aa beta, tera kurta mai badlaun
   
   4

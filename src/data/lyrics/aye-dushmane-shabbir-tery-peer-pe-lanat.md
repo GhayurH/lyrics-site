@@ -24,7 +24,7 @@ romanLyrics: |-
   Haider ki adu aap ki hamsheer pa laanat
   
   3
-  Haq isme nikalta ho agar Aal-e-Nabi ka,  
+  Haq isme nikalta ho agar Aal-e-Nabi ka,
   Bebaaq na qarza ho agar Aal-e-Nabi ka  
   Us maal o zar o mansab o jaageer pa laanat
   

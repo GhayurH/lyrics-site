@@ -1,15 +1,15 @@
 ---
 title: "ابو طالب کا بیٹا"
-alternateTitle: "abu talib ka beta"
+alternateTitle: "Abu Talib Ka Beta"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "abu talib ka beta"
+  - "Abu Talib Ka Beta"
 cover: "/images/lyrics/abu-talib-ka-beta.png"
-coverAlt: "Cover image for abu talib ka beta"
+coverAlt: "Cover image for Abu Talib Ka Beta"
 published: true
 romanLyrics: |-
   1

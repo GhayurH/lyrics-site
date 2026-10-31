@@ -1,12 +1,12 @@
 # Kalam Archive
 
-[Kalam Archive](https://kalamarchive.com) preserves Urdu nohas, salams, manqabats, and other devotional poetry in a searchable, accessible format. Entries include Urdu text, Roman Urdu transliteration, and original lyric-sheet images where available. Source wording and structure are preserved rather than modernized.
+[Kalam Archive](https://kalamarchive.com) preserves Urdu nohas, salams, manqabats, and other devotional poetry in a searchable, accessible format. Entries include Urdu text, Roman Urdu transliteration, and original lyric-sheet images where available. Source wording, meaningful editorial markers, stanza boundaries, and reviewed refrains are preserved rather than silently modernized.
 
 ## Features
 
 - **Kalam archive:** Search and browse standalone kalams by type, with Urdu, Roman Urdu, and original images where available.
 - **[Basta](https://kalamarchive.com/basta/):** A digital edition of *Basta* by Professor Syed Sibt-i-Jaafar Zaidi, with scans, corrected Urdu text, Roman Urdu, a linked index, and page-by-page or continuous reading.
-- **Reading tools:** Choose available editions, use distraction-free Focus Mode, save favourites or Basta locations, and resume reading on the same device. Choose Light, Dark, AMOLED Dark, or Sepia themes, customise colours, and choose Urdu and Roman Urdu fonts locally.
+- **Reading tools:** Select available editions, use distraction-free Focus Mode, save favourites or Basta locations, and resume reading on the same device. Choose Light, Dark, AMOLED Dark, Sepia, or Custom themes, plus Urdu and Roman fonts.
 - **[Recitation Sets](https://kalamarchive.com/recite/):** Arrange kalams and verified Marsiya stanzas into shareable programmes, assign reciters, add notes, print or save an offline copy, and optionally guide participants through a live programme.
 
 ## Technology
@@ -36,7 +36,7 @@ npm ci
 npm run dev
 ```
 
-The development server normally runs at `http://localhost:4321/`. For local scans and PDFs, follow the [asset workflow](docs/ASSET_WORKFLOW.md#local-development).
+The development server normally runs at `http://localhost:4321/`. For local scans and PDFs, follow the [asset workflow](docs/ASSET_WORKFLOW.md#local-development). Published scans live in R2 and may not load directly on local previews without those assets.
 
 ```bash
 npm run build         # Node tests, ID checks, Astro and Pagefind

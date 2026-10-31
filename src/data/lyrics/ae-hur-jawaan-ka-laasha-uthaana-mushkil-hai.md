@@ -1,15 +1,15 @@
 ---
 title: "اے حر جوان کا لاشہ اٹھانا مشکل ہے"
-alternateTitle: "Ae Hur jawaan ka laasha uthaana mushkil hai"
+alternateTitle: "Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Ae Hur jawaan ka laasha uthaana mushkil hai"
+  - "Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
 cover: "/images/lyrics/ae-hur-jawaan-ka-laasha-uthaana-mushkil-hai.png"
-coverAlt: "Cover image for Ae Hur jawaan ka laasha uthaana mushkil hai"
+coverAlt: "Cover image for Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
 published: true
 romanLyrics: |-
   
@@ -27,9 +27,9 @@ romanLyrics: |-
   Main jaanta hoon ke tukre uthaana mushkil hai
   
   3
-  Hussain kehte the ro kar ye ,Hur ke bete se
+  Husain kehte the ro kar ye, Hur ke bete se
   Samajh raha hoon aziyat, teri mere bachche
-  Bureeda halq se yun mus,kurana mushkil hai
+  Bureeda halq se yun muskurana mushkil hai
   
   4
   Pukaara Hur ka pisar ro ke ae Shah-e-Ismat

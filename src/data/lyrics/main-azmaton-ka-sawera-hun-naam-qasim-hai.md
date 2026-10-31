@@ -1,17 +1,18 @@
 ---
 title: "میں عظمتوں کا سویرا ہوں، نام قاسم ہے"
-alternateTitle: "main azmaton ka sawera hun, naam qasim hai"
+alternateTitle: "Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "main azmaton ka sawera hun, naam qasim hai"
+  - "Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
 cover: "/images/lyrics/main-azmaton-ka-sawera-hun-naam-qasim-hai.png"
-coverAlt: "Cover image for main azmaton ka sawera hun, naam qasim hai"
+coverAlt: "Cover image for Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
 published: true
 romanLyrics: |-
+  1
   Main azmaton ka sawera hoon, naam Qasim hai
   Mataa-e Fatima Zahra hoon, naam Qasim hai
   Shujaaton ki tamanna hoon, naam Qasim hai
@@ -19,6 +20,7 @@ romanLyrics: |-
   Kitab-e jang mein tarmeem karne aaya hoon
   Tumhare jismon ko taqseem karne aaya hoon
 
+  2
   Hayat chhor ke shamshan lo to behtar hai
   Haqeeqaton ko abhi jaan lo to behtar hai
   Jo keh raha hoon use maan lo to behtar hai
@@ -26,6 +28,7 @@ romanLyrics: |-
   Shujaaton ke saheefon ka main nateeja hoon
   Yahi bohat hai ke Abbas ka bhateeja hoon
 
+  3
   Galon ko tegh ka pani pila ke dam loon ga
   Ali ki yaad jahan ko dila ke dam loon ga
   Charagh-e fatah-e Husaini jala ke dam loon ga
@@ -33,6 +36,7 @@ romanLyrics: |-
   Bahaduri ke liye naqsha-e kamal hoon main
   Ali ka noor-e nazar hoon, Hasan ka laal hoon main
 
+  4
   Woh daagh-dar nasab aaina dikhao use
   Ke haarne ki khabar tum zara sunao use
   Kahan hai Shaam ka Marhab, bula ke lao use
@@ -40,6 +44,7 @@ romanLyrics: |-
   Khuda ke sher ke johar dikhane aaya hoon
   Main aaj phir dar-e Khyber uthane aaya hoon
 
+  5
   Yeh waqt arsa-e mahshar se jor sakta hoon
   Hayat-o-maut ke dhare ko mor sakta hoon
   Har ek zulm ke Khyber ko tor sakta hoon
@@ -47,6 +52,7 @@ romanLyrics: |-
   Kitab-e fatah se wannaas likh ke aaya hoon
   Main apne shanon pe Abbas likh ke aaya hoon
 
+  6
   Jama ke dushman-e deen pe nazar barhe Qasim
   Yaqeen se pa-e fatah-o-zafar barhe Qasim
   Dikhane tegh-e Ali ka hunar barhe Qasim
@@ -56,6 +62,7 @@ romanLyrics: |-
 
 ---
 
+۱
 میں عظمتوں کا سویرا ہوں، نام قاسم ہے
 متاعِ فاطمہؑ زہرا ہوں، نام قاسم ہے
 شجاعتوں کی تمنا ہوں، نام قاسم ہے
@@ -63,6 +70,7 @@ romanLyrics: |-
 کتابِ جنگ میں ترمیم کرنے آیا ہوں
 تمہارے جسموں کو تقسیم کرنے آیا ہوں
 
+۲
 حیات چھوڑ کے شمشان لو تو بہتر ہے
 حقیقتوں کو ابھی جان لو تو بہتر ہے
 جو کہہ رہا ہوں اُسے مان لو تو بہتر ہے
@@ -70,6 +78,7 @@ romanLyrics: |-
 شجاعتوں کے صحیفوں کا میں نتیجہ ہوں
 یہی بہت ہے کہ عباسؑ کا بھتیجا ہوں
 
+۳
 گالوں کو تیغ کا پانی پلا کے دم لوں گا
 علیؑ کی یاد جہاں کو دِلا کے دم لوں گا
 چراغِ فتحِ حسینیؑ جلا کے دم لوں گا
@@ -77,6 +86,7 @@ romanLyrics: |-
 بہادری کے لیے نقشۂ کمال ہوں میں
 علیؑ کا نورِ نظر ہوں، حسنؑ کا لعل ہوں میں
 
+۴
 وہ داغ دار نسب آئینہ دکھاؤ اُسے
 کہ ہارنے کی خبر تم ذرا سناؤ اُسے
 کہاں ہے شام کا مرحب، بلا کے لاؤ اُسے
@@ -84,6 +94,7 @@ romanLyrics: |-
 خدا کے شیر کے جوہر دکھانے آیا ہوں
 میں آج پھر درِ خیبر اٹھانے آیا ہوں
 
+۵
 یہ وقت عرصۂ محشر سے جوڑ سکتا ہوں
 حیات و موت کے دھارے کو موڑ سکتا ہوں
 ہر ایک ظلم کے خیبر کو توڑ سکتا ہوں
@@ -91,6 +102,7 @@ romanLyrics: |-
 کتابِ فتح سے ونّاس لکھ کے آیا ہوں
 میں اپنے شانوں پہ عباسؑ لکھ کے آیا ہوں
 
+۶
 جمع کے دشمنِ دیں پہ نظر بڑھے قاسم
 یقین سے پائے فتح و ظفر بڑھے قاسم
 دکھانے تیغِ علیؑ کا ہنر بڑھے قاسم

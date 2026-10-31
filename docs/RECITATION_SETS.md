@@ -28,6 +28,8 @@ and missing verses are never silently substituted.
 
 Portable documents use paired bilingual stanza rows for print, keeping each
 stanza together and grouping kalam headings and notes with the opening stanza.
+The standalone lyric reader and programme reader apply the same six-verse
+presentation, including an explicitly selected 2+2+2 couplet layout.
 Printing waits for the embedded fonts to load. The exported HTML has no live
 navigation or remote dependencies.
 

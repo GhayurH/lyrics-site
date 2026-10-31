@@ -1,19 +1,20 @@
 ---
-/* File role: Render literal blank-line stanza boundaries for standalone lyrics, identically in Urdu and Roman. */
-import { splitLyricStanzas } from "../lib/lyric-stanzas";
+/* File role: Render source stanzas and six-verse 4+2 groups consistently in Urdu and Roman. */
+import { layoutLyricStanzas } from "../lib/lyric-stanzas";
 
 interface Props {
   text: string;
   className: string;
+  sixVerseLayout?: "pairs";
 }
 
-const { text, className } = Astro.props as Props;
-const stanzas = splitLyricStanzas(text);
+const { text, className, sixVerseLayout } = Astro.props as Props;
+const stanzas = layoutLyricStanzas(text);
 ---
 
 <div class:list={[className, "lyric-reading-text"]}>
   {stanzas.map((stanza) => (
-    <div class="lyric-stanza">
+    <div class:list={["lyric-stanza", stanza.filter((line) => !line.number).length === 6 && "lyric-stanza-six", sixVerseLayout === "pairs" && stanza.filter((line) => !line.number).length === 6 && "lyric-stanza-pairs"]}>
       {stanza.map((line) => (
         <span class={line.number ? "poetry-stanza-number" : "lyric-verse"}>{line.text}</span>
       ))}

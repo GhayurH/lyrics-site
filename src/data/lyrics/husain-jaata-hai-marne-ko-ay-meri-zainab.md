@@ -39,7 +39,7 @@ romanLyrics: |-
   
   4
   Itna tha khayaal aap ko parde ka baradar
-  Le jaate thay tum raat ko Amma ki lehad par
+  Le jaate the tum raat ko Amma ki lehad par
   Ab dekhegi Zainab ke khule sar ko ye dunya
   
   5

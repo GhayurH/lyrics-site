@@ -27,9 +27,9 @@ romanLyrics: |-
   Abbas-e-Ali Ka Parcham Hai, Ye Parcham Kaise Jhuk Jaye
   
   3
-  Salaar-e-Hussaini Kya Kehna, Meraj-e-Wafa Sartaj-e-Wafa
+  Salaar-e-Husaini Kya Kehna, Meraj-e-Wafa Sartaj-e-Wafa
   Har Mauj Tadapti Hai Ab Tak, Saahil Se Jo Tu Palta Pyasa
-  Tha Hukm-e-Hussaini Jang Na Ki, Har Waar Saha Har Zulm Saha
+  Tha Hukm-e-Husaini Jang Na Ki, Har Waar Saha Har Zulm Saha
   Tha Hosh Mein Jab Tak Fikr Ye Thi, Pyasi Na Sakina Reh Jaye
   
   4

@@ -1,15 +1,15 @@
 ---
 title: "شام آ رہی ہے دِل پر ہزاروں، صدمے اٹھائے بیٹی علیؑ کی"
-alternateTitle: "Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki"
+alternateTitle: "Shaam Aa Rahi Hai Dil Paar Hazaro, Sadme Uthaye Beti Ali Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki"
+  - "Shaam Aa Rahi Hai Dil Paar Hazaro, Sadme Uthaye Beti Ali Ki"
 cover: "/images/lyrics/shaam-aa-rahi-hai-dil-paar-hazaro-sadme-uthaye-beti-ali-ki.png"
-coverAlt: "Cover image for Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki"
+coverAlt: "Cover image for Shaam Aa Rahi Hai Dil Paar Hazaro, Sadme Uthaye Beti Ali Ki"
 published: true
 romanLyrics: |-
   Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki

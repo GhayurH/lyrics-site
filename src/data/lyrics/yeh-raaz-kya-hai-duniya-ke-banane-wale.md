@@ -16,7 +16,7 @@ romanLyrics: |-
   Be Sahara Hai Tera Deen Bachane Wale
   
   1
-  Tha Woh Darbaar Magar Log Wohi Thay Nana
+  Tha Woh Darbaar Magar Log Wohi The Nana
   Tujh Pe Hizyaan Ka Jo Ilzaam Lagane Wale
   
   2

@@ -16,10 +16,12 @@ Published recitation sources use permanent `recitationId` values. Never reuse or
 
 - Preserve Urdu wording, meaningful harakat, spelling, verse divisions, stanza ordering, and commas.
 - Remove stray spaces before commas, but preserve commas **within** verse lines. Match Urdu comma positions in Roman Urdu.
-- Where line divisions disagree, follow the Urdu source unless a reviewed editorial decision requires otherwise.
-- Retain Roman izafat and useful vowel cues; transliterate `ڑ` as `r` and `والے` as `wale`.
-- Preserve stanza numbers **in both** Urdu and Roman text. In ODG source layouts, keep stanza numbers in the middle numbering column.
-- If an independently printed refrain also appears as the last line of a stanza, omit the duplicate stanza-ending copy.
+- Where line divisions or stanza order disagree, verify against the original and follow the edition confirmed by editorial review; do not assume either language is always authoritative.
+- Retain Roman izafat and useful vowel cues; transliterate `ڑ` as `r` and **Urdu** `ے` as `e` (for example, `بولے` → `bole`, `والے` → `wale`). Punjabi words follow their own pronunciation; do not apply the Urdu ending rule indiscriminately.
+- Write **Husain** and **Hasan**, not `Hussain` or `Hassan`, in Roman text. Capitalize the initial letter of every Roman-title word, including hyphenated components; retain existing lyric/poetry casing unless deliberately edited.
+- Preserve stanza numbers **in both** Urdu and Roman text as separate marker lines. In ODG source layouts, keep stanza numbers in the middle numbering column. Separate Markdown stanzas with blank lines; the reader renders numbers as centred circles.
+- Keep a confirmed sixth line in non-Basta six-verse poems even when that line repeats the title/refrain. Non-Basta six-verse stanzas normally use a 4+2 presentation; set `sixVerseLayout: "pairs"` in frontmatter for a reviewed 2+2+2 poem (alternating indentation and rules between the three couplets).
+- Preserve intentional asterisks and other editorial symbols; do not remove them as presumed OCR noise.
 - Do not silently replace author/source wording with stylistic corrections.
 
 ### Basta
@@ -28,6 +30,7 @@ Basta text and index data live under `src/data/basta/` (`pages/`, `roman/`, `ind
 
 - Preserve printed page numbers, alignment between scan/Urdu/Roman, and the linked book index.
 - Preserve the explicit `---***---` kalam boundary markers **in both editions** and the title/byline prefaces. These markers anchor parallel reading.
+- In Basta stanza transliteration, omit a duplicate closing refrain only where the reviewed source convention specifies it. Do not apply that de-duplication to standalone non-Basta six-verse poems.
 - Refresh the index after relevant edits; index-sync commands do **not** rewrite reviewed page Markdown.
 - Use `basta:breaks:rebuild` only after deliberately reviewing the impact on hand-corrected boundaries.
 - Keep source image references root-relative (`/images/basta/...`). Do not replace them with R2 hostnames.
@@ -61,7 +64,7 @@ npm run test:browser  # All Chromium regression scenarios
 
 Install Chromium once with `npx playwright install chromium`. Use the full suite for reader layout, theme, routing, export, or major workflow changes; smoke tests alone are not a substitute for those milestones. The full suite covers 320–390px portrait, short landscape, tablet, and desktop behavior, one-line verses, no-JavaScript access, Focus Mode, missing editions, scans, and Recitation Sets. R2 assets are not guaranteed in local Astro previews; publishing and D1 behavior need an appropriately bound Cloudflare deployment.
 
-**GitHub Actions:** Every PR/main commit builds and runs Node tests, ID checks, and asset-route checks. Browser runs are intentionally selective: `[smoke-ci]` runs the reduced `@smoke` subset, `[full-ci]` runs the complete Chromium suite plus the Basta boundary audit, and `[visual-ci]` runs all Chromium tests and uploads viewport captures. Commits on `main` run the smoke suite and Basta boundary audit by default. Ordinary PR commits do not run browsers unless marked. CI checks redirect files without downloading R2 images.
+**GitHub Actions:** Every PR/main commit builds and runs Node tests, ID checks, and asset-route checks. Browser runs are intentionally selective: `[smoke-ci]` runs the reduced `@smoke` subset, and `[full-ci]` runs the complete Chromium suite plus the Basta boundary audit. Commits on `main` run the smoke suite and Basta boundary audit by default. Ordinary PR commits do not run browsers unless marked. CI checks redirect files without downloading R2 images.
 
 For print/export changes, verify embedded Nastaliq fonts, bilingual stanza rows, and page breaks in a real browser.
 

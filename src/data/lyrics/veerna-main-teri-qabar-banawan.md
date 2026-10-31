@@ -1,15 +1,15 @@
 ---
 title: "ویرنا مَیں تیری قبر بناواں یا شام نوں جاواں"
-alternateTitle: "Veerna main teri qabar banawan"
+alternateTitle: "Veerna Main Teri Qabar Banawan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Veerna main teri qabar banawan"
+  - "Veerna Main Teri Qabar Banawan"
 cover: "/images/lyrics/veerna-main-teri-qabar-banawan.png"
-coverAlt: "Cover image for Veerna main teri qabar banawan"
+coverAlt: "Cover image for Veerna Main Teri Qabar Banawan"
 published: true
 romanLyrics: |-
   Veerna main teri qabar banawan ya shaam nu jaawan

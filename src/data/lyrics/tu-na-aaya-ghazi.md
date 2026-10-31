@@ -1,15 +1,15 @@
 ---
-title: "جب ردا سر سے چھنی میں سدا دیتی رہی"
-alternateTitle: "tu na aaya ghazi"
+title: "تُو نہ آیا غازی"
+alternateTitle: "Tu Na Aaya Ghazi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "tu na aaya ghazi"
+  - "Tu Na Aaya Ghazi"
 cover: "/images/lyrics/tu-na-aaya-ghazi.png"
-coverAlt: "Cover image for tu na aaya ghazi"
+coverAlt: "Cover image for Tu Na Aaya Ghazi"
 published: true
 romanLyrics: |-
   jab rida sar se chini mai sada deti rahi
@@ -43,7 +43,7 @@ romanLyrics: |-
   aur main roti rahi
   
   5
-  humko pani na milay teri khusboo to rahe
+  humko pani na mile teri khusboo to rahe
   tere baazu na katein chahe mashkeeza chiday
   ye magar ho na saka tere baazu hain juda
   mujh pe hai tashnalabi

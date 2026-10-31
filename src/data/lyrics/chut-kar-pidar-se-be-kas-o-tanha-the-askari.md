@@ -1,15 +1,15 @@
 ---
 title: "چُھٹ کر پدر سے بے کس و تنہا تھے عسکریؑ"
-alternateTitle: "Chut Kar Pidar Se Be-Kas-o-Tanha The Askari"
+alternateTitle: "Chut Kar Pidar Se Be-Kas-O-Tanha The Askari"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 tags: []
 aliases:
-  - "Chut Kar Pidar Se Be-Kas-o-Tanha The Askari"
+  - "Chut Kar Pidar Se Be-Kas-O-Tanha The Askari"
 cover: "/images/lyrics/chut-kar-pidar-se-be-kas-o-tanha-the-askari.png"
-coverAlt: "Cover image for Chut Kar Pidar Se Be-Kas-o-Tanha The Askari"
+coverAlt: "Cover image for Chut Kar Pidar Se Be-Kas-O-Tanha The Askari"
 bastaPage: 318
 bastaNote: original-selection
 published: true

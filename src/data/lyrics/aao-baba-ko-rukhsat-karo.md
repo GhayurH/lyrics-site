@@ -1,15 +1,15 @@
 ---
 title: "عباس آؤ بابا کو رخصت کرو"
-alternateTitle: "Aao Baba ko rukhsat karo"
+alternateTitle: "Aao Baba Ko Rukhsat Karo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Aao Baba ko rukhsat karo"
+  - "Aao Baba Ko Rukhsat Karo"
 cover: "/images/lyrics/aao-baba-ko-rukhsat-karo.png"
-coverAlt: "Cover image for Aao Baba ko rukhsat karo"
+coverAlt: "Cover image for Aao Baba Ko Rukhsat Karo"
 published: true
 romanLyrics: |-
   Betiyan thin, janaza tha, ehsaas tha

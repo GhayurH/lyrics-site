@@ -1,26 +1,28 @@
 ---
 title: "جرات کے قبیلے کا سردار علی مولا"
-alternateTitle: "Jurrat ke qabile ka sardar ali mola"
+alternateTitle: "Jurrat Ke Qabile Ka Sardar Ali Mola"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Jurrat ke qabile ka sardar ali mola"
+  - "Jurrat Ke Qabile Ka Sardar Ali Mola"
 cover: "/images/lyrics/jurrat-ke-qabile-ka-sardar-ali-mola.png"
-coverAlt: "Cover image for Jurrat ke qabile ka sardar ali mola"
+coverAlt: "Cover image for Jurrat Ke Qabile Ka Sardar Ali Mola"
 published: true
 romanLyrics: |-
   Jurrat ke qabeelay ka sardar Ali Maula
   Karrar Ali Maula, Jarrar Ali Maula
   Sardaron ke lashkar ka sardar Ali Maula
 
+  1
   Rakhte hain jo log chashm-e baseerat
   Woh dekhen do bhaiyon ki fazeelat
   Meraj ki manzil mein ek halke se parde ke
   Is paar Muhammad hain, us paar Ali Maula
 
+  2
   Khud jis ko Khallaq-e Alam barhaye
   Kis mein hai dam shaan us ki ghataye
   Kaabe ka yeh kehna hai, iman hai Kaabe ki
@@ -32,11 +34,13 @@ romanLyrics: |-
 کرار علی مولا جرار علی مولا
 سرداروں کے لشکر کا سردار علی مولا
 
+۱
 رکھتے ہیں جو لوگ چشم بصیرت
 وہ دیکھیں دو بھائیوں کی فضیلت
 معراج کی منزل میں اک ہلکے سے پردے کے
 اِس پار محمد ہیں اُس پار علی مولا
 
+۲
 خود جس کو خلاق عالم بڑھائے
 کس میں ہے دم شان اُس کی گھٹائے
 کعبے کا یہ کہنا ہے ایمان کی کعبے کی
