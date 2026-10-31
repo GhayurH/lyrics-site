@@ -152,6 +152,7 @@ export function initSyncedColumns(): void {
   document.addEventListener("load", (event) => {
     if (event.target instanceof HTMLImageElement && event.target.closest(ROOT)) schedule();
   }, true);
+  window.addEventListener("kalam:fonts-changed", schedule);
   document.fonts.ready.then(schedule);
   document.fonts.addEventListener?.("loadingdone", schedule);
 

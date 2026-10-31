@@ -6,7 +6,7 @@
 
 - **Kalam archive:** Search and browse standalone kalams by type, with Urdu, Roman Urdu, and original images where available.
 - **[Basta](https://kalamarchive.com/basta/):** A digital edition of *Basta* by Professor Syed Sibt-i-Jaafar Zaidi, with scans, corrected Urdu text, Roman Urdu, a linked index, and page-by-page or continuous reading.
-- **Reading tools:** Choose available editions, use distraction-free Focus Mode, save favourites or Basta locations, and resume reading on the same device. Choose Light, Dark, AMOLED Dark, or Sepia themes, or customise colours locally.
+- **Reading tools:** Choose available editions, use distraction-free Focus Mode, save favourites or Basta locations, and resume reading on the same device. Choose Light, Dark, AMOLED Dark, or Sepia themes, customise colours, and choose Urdu and Roman Urdu fonts locally.
 - **[Recitation Sets](https://kalamarchive.com/recite/):** Arrange kalams and verified Marsiya stanzas into shareable programmes, assign reciters, add notes, print or save an offline copy, and optionally guide participants through a live programme.
 
 ## Technology
@@ -16,7 +16,9 @@
 - [Cloudflare Pages](https://pages.cloudflare.com/) for deployment
 - [Cloudflare R2](https://developers.cloudflare.com/r2/) for large images and PDFs
 - Cloudflare D1 and Pages Functions for published Recitation Sets
-- Noto Nastaliq Urdu for Urdu typography
+- Self-hosted Noto Nastaliq Urdu and Noto Naskh Arabic for Urdu typography
+
+Font defaults and per-choice stacks live in `src/styles/tokens.css`; labelled options and preference validation live in `src/client/fonts.ts`.
 
 Large binary assets are stored in R2, **not Git**. The public `/images/` and `/files/` paths remain stable.
 

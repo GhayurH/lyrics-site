@@ -271,3 +271,50 @@ test("Basta index section navigation keeps real page links @smoke", async ({ pag
   await expect(page).toHaveURL(new RegExp(target + "$"));
   expect((await page.locator(target + " .basta-index-mobile-item a").first().getAttribute("href"))?.startsWith("/basta/")).toBe(true);
 });
+
+test("mobile Pagefind dropdown stays on-screen and can select a filter @smoke", async ({ page }) => {
+  for (const width of [320, 390]) {
+    await page.setViewportSize({ width, height: 760 });
+    await page.goto("/search/");
+    const filters = page.locator("#search-filter-disclosure");
+    await filters.locator(":scope > summary").click();
+    const dropdown = page.locator('pagefind-filter-dropdown[filter="collection"]');
+    const trigger = dropdown.locator(".pf-dropdown-trigger");
+    await expect(trigger).toBeVisible();
+    await expect.poll(() => dropdown.locator(".pf-dropdown-option").count()).toBeGreaterThan(0);
+    await trigger.click();
+    const menu = dropdown.locator(".pf-dropdown-menu");
+    await expect(menu).toBeVisible();
+    const rect = await menu.boundingBox();
+    expect(rect).not.toBeNull();
+    expect(rect.x).toBeGreaterThanOrEqual(-1);
+    expect(rect.x + rect.width).toBeLessThanOrEqual(width + 1);
+    await menu.locator(".pf-dropdown-option").first().click();
+    await expect(trigger).toHaveAttribute("aria-expanded", "false");
+    await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth))
+      .toBeLessThanOrEqual(2);
+  }
+});
+
+test("Pagefind search results follow colour theme including custom metadata @smoke", async ({ page }) => {
+  await page.goto("/search/");
+  await expect(page.locator(".search-result-collection").first()).toBeVisible();
+  const dialog = page.locator("#theme-dialog");
+  for (const mode of ["dark", "amoled", "sepia", "light"]) {
+    await page.locator("#theme-toggle").click();
+    await dialog.locator('input[name="theme-mode"][value="' + mode + '"]').check();
+    await page.locator("#theme-dialog-done").click();
+    const colours = await page.locator(".search-result-collection").first().evaluate((node) => {
+      const label = getComputedStyle(node).color;
+      const roman = document.querySelector(".search-result-roman-title");
+      const romanColour = roman ? getComputedStyle(roman).color : null;
+      const expected = getComputedStyle(document.querySelector(".search-filter-label")).color;
+      const link = getComputedStyle(document.querySelector(".pf-result-link")).color;
+      const mainText = getComputedStyle(document.querySelector(".search-header h1")).color;
+      return { label, romanColour, expected, link, mainText };
+    });
+    expect(colours.label, mode).toBe(colours.expected);
+    if (colours.romanColour) expect(colours.romanColour, mode).toBe(colours.expected);
+    expect(colours.link, mode).toBe(colours.mainText);
+  }
+});

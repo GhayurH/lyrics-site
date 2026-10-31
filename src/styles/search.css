@@ -54,7 +54,11 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 
 /* Pagefind's component UI inherits the same palettes, including AMOLED,
    rather than introducing contrasting default search fields. */
-html:is([data-theme="sepia"], [data-theme="custom"], [data-theme="amoled"]) .search-page {
+/* All five colour themes must override Pagefind's default light palette.
+   Its component classes use their own high-specificity reset, so site-owned
+   result metadata uses search-result-* classes rather than pf-* classes. */
+.search-page {
+  --pf-font: var(--font-roman);
   --pf-text: var(--primary-text);
   --pf-text-secondary: var(--secondary-text);
   --pf-text-muted: var(--secondary-text);
@@ -83,5 +87,32 @@ html:is([data-theme="sepia"], [data-theme="custom"], [data-theme="amoled"]) .sea
   --pf-result-excerpt-font-size: 1rem;
   --pf-results-gap: .75rem;
 }
-.search-page .pf-result-collection { margin: 0 0 .25rem; color: var(--secondary-text); font-size: .77rem; font-weight: 750; }
-.search-page .pf-result-roman-title { margin: .25rem 0; color: var(--secondary-text); font-size: .95rem; }
+/* These are custom result fields. Avoid Pagefind's pf-* reset selector
+   (which gives them CanvasText/black instead of the theme foreground). */
+.search-page .search-result-collection { margin: 0 0 .25rem; color: var(--secondary-text); font-size: .77rem; font-weight: 750; }
+.search-page .search-result-roman-title { margin: .25rem 0; color: var(--secondary-text); font-size: .95rem; }
+
+/* Pagefind v1.5 centres mobile menus on the trigger's narrow inline wrapper,
+   so a 100vw-wide popup can extend off-screen. Anchor the menu to a full-width
+   filter wrapper instead. !important is confined to these Pagefind internals:
+   its distributed stylesheet uses three synthetic ID selectors for specificity. */
+@media (max-width: 700px) {
+  .search-page pagefind-filter-dropdown { width: 100%; }
+  .search-page pagefind-filter-dropdown .pf-dropdown-wrapper {
+    width: 100% !important;
+    min-width: 0;
+  }
+  .search-page pagefind-filter-dropdown .pf-dropdown-trigger {
+    flex: 1 1 auto;
+    min-width: 0 !important;
+  }
+  .search-page pagefind-filter-dropdown .pf-dropdown-menu {
+    inset-inline-start: 0 !important;
+    left: 0 !important;
+    transform: none !important;
+    min-width: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    max-height: min(var(--pf-dropdown-max-height), 50dvh);
+  }
+}

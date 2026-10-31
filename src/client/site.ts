@@ -9,6 +9,7 @@ import {
   readCustomPaletteBase, readTheme, normalizeCssHex, paletteTextColors,
   type AdvancedColor, type CustomPalette, type ThemeName,
 } from "./theme";
+import { applyFontPreferences, FONT_STORAGE_KEY, parseFontPreferences, readFontPreferences, type FontPreferences } from "./fonts";
 
 function syncFavoriteButtons(): void {
   const favorites = new Set(readFavoriteIds());
@@ -194,6 +195,7 @@ function initThemePicker(): void {
   const note = dialog?.querySelector<HTMLElement>("#theme-contrast-note");
   if (!trigger || !dialog || !fields || !note) return;
 
+  let fonts: FontPreferences = readFontPreferences();
   let selected: ThemeName = readTheme();
   let palette: CustomPalette = readCustomPalette();
   let startingPalette: CustomPalette = readCustomPaletteBase();
@@ -225,6 +227,11 @@ function initThemePicker(): void {
 
   const render = (save: boolean) => {
     const ratio = applyTheme(selected, palette, save);
+    applyFontPreferences(fonts, false);
+    for (const language of ["urdu", "roman"] as const) {
+      const select = dialog.querySelector<HTMLSelectElement>("#theme-" + language + "-font");
+      if (select) select.value = fonts[language];
+    }
     dialog.querySelectorAll<HTMLInputElement>('input[name="theme-mode"]').forEach((input) => {
       input.checked = input.value === selected;
     });
@@ -306,6 +313,13 @@ function initThemePicker(): void {
       render(true);
     });
   }
+  // Typography is not tied to a colour preset or Custom's reset control.
+  for (const language of ["urdu", "roman"] as const) {
+    dialog.querySelector<HTMLSelectElement>("#theme-" + language + "-font")?.addEventListener("change", (event) => {
+      fonts = parseFontPreferences({ ...fonts, [language]: (event.currentTarget as HTMLSelectElement).value });
+      applyFontPreferences(fonts);
+    });
+  }
   dialog.querySelector<HTMLButtonElement>("#theme-reset-custom")?.addEventListener("click", () => {
     palette = { ...startingPalette };
     selected = "custom";
@@ -321,10 +335,11 @@ function initThemePicker(): void {
 
   window.addEventListener("storage", (event) => {
     if (event.key !== "theme" && event.key !== PALETTE_KEY &&
-        event.key !== PALETTE_BASE_KEY) return;
+        event.key !== PALETTE_BASE_KEY && event.key !== FONT_STORAGE_KEY) return;
     selected = readTheme();
     palette = readCustomPalette();
     startingPalette = readCustomPaletteBase();
+    fonts = readFontPreferences();
     render(false);
   });
 }
