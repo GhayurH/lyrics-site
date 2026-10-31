@@ -16,12 +16,12 @@ romanLyrics: |-
   Haye Jisko Zehar Logon Musalmaan ne Diya Hai
   
   1
-  Mamoon Abbasi Ki Inaa,yat Hai Yeh Logo
+  Mamoon Abbasi Ki Inaayat Hai Yeh Logo
   Haye Aal-e-Payamber Se Adaawat Hai Yeh Logo
   Syedon Se Zara Dekho, Yeh Ummat Ki Wafa Hai
   
   2
-  Sab Aankhein Karo Band Duha,i Hai Duhai
+  Sab Aankhein Karo Band Duhai Hai Duhai
   Ik Bibi Azadaro Yahan Sham Se Aayi
   Lipti Hai Janazay Se, Nahi Sar Pe Rida Hai
   
@@ -31,7 +31,7 @@ romanLyrics: |-
   Woh Bibi Hai Karbal Mein, Jali Jis Ki Abaa Hai
   
   4
-  Yun Loota Musalmano Ne Zah,ra Ke Chaman Ko
+  Yun Loota Musalmano Ne Zahra Ke Chaman Ko
   Haye Zehar Diya Jaisay Mere Maula Hasan Ko
   Dohrayi Gayi Haye, Wohi Is Pe Jafa Hai
   

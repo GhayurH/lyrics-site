@@ -64,7 +64,7 @@ romanLyrics: |-
   Majlis ki bina Shaam may daal aayi hai Zainab ay Shehr-e-Madina
   
   13
-  Reh jayega Akhtar* ufaqe gham pe tera naam kya khoob hai inaam
+  Reh jayega Akhtar ufaqe gham pe tera naam kya khoob hai inaam
   Nauha tera sun-ne ke liye aayi hai Zainab ay Shehr-e-Madina
 ---
 

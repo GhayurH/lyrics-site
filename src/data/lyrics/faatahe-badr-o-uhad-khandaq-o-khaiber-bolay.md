@@ -24,10 +24,10 @@ romanLyrics: |-
   wo alag log thay jo dekh ke dar laut gaye
   haye marhab hai kahan ab koi antar bole
   
-  *aaj to arsh-e-mualla pe hai rindon ka dimaagh
+  aaj to arsh-e-mualla pe hai rindon ka dimaagh
   aaj peene ke liye ke liye saqi-e-kauthar bole
   
-  *Baakhuda is mein nusairi ki nahin koyi khataa
+  Baakhuda is mein nusairi ki nahin koyi khataa
   Madh-e-Hyder mein payambar hain sambhal kar bolay
   
   ye zacha khaana-e-farzand-e-abu talib hai
@@ -55,7 +55,7 @@ romanLyrics: |-
 گاڑھ کر رَن میں علم، فاتحِ خیبر بولے
 ہے علیؑ نام میرا، ماں مجھے حیدر بولے
 
-* آج تو عرشِ معلّیٰ پہ ہے رِندوں کا دماغ
+آج تو عرشِ معلّیٰ پہ ہے رِندوں کا دماغ
 آج پینے کے لیے ساقئ کوثر بولے
 
 وہ الگ لوگ تھے جو دیکھ کے ڈر لوٹ گئے
@@ -64,7 +64,7 @@ romanLyrics: |-
 یہ زچه خانۂ فرزندِ ابو طالب ہے
 یہ زمانہ جسے اللہ کا ہے گھر بولے
 
-*باخدا اس میں نُصیری کی نہیں کوئی خطا
+باخدا اس میں نُصیری کی نہیں کوئی خطا
 مدحِ حیدر میں پیمبر ہیں سنبھل کر بولے
 
 دیکھ کر آتے ہوئے فاتحِ خیبر کے قدم

@@ -37,7 +37,7 @@ romanLyrics: |-
   Maqrooz Ka Har Qarz Ada Gaib Se Kar De
   
   7
-  Paband-e-Rasan Zainab (S.A)-o-Kulsoom Ka Sadqa
+  Paband-e-Rasan Zainab-o-Kulsoom Ka Sadqa
   Be Jurm Aseeron Ko Rehai Ki Khabar De
   
   8

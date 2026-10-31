@@ -30,13 +30,13 @@ romanLyrics: |-
   Ab kis ko dūn main sadā
   
   Asghar jo teer khā ke maqtal mein so gayā hai
-  Us se kaleja maa.n ka bhi chhalni ho gayā hai
+  Us se kaleja maan ka bhi chhalni ho gayā hai
   Mera Asghar na rahā wā Husainā
   Mera koi na rahā wā Husainā
   Ab kis ko dūn main sadā
   
   Neze pe lāsh Asghar ki jhoolne lagi hai
-  Kheme mein dil ko thāme maa.n bain kar rahi hai
+  Kheme mein dil ko thāme maan bain kar rahi hai
   Mera Asghar na rahā wā Husainā
   Mera koi na rahā wā Husainā
   Ab kis ko dūn main sadā
