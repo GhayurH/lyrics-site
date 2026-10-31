@@ -6,7 +6,7 @@ export const FONT_CHOICES = {
     { value: "naskh", label: "Noto Naskh Arabic" },
   ],
   roman: [
-    { value: "sans", label: "Sans-serif (default)" },
+    { value: "sans", label: "Inter / system sans-serif (default)" },
     { value: "system", label: "System sans-serif" },
     { value: "serif", label: "Georgia (serif)" },
   ],

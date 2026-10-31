@@ -294,8 +294,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 .basta-roman-text {
-  font-family:
-    var(--font-roman);
+  font-family: var(--font-roman);
   text-align: left;
 }
 
@@ -318,8 +317,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 .basta-index-table-roman {
-  font-family:
-    var(--font-roman);
+  font-family: var(--font-roman);
 }
 
 .basta-index-groups {
