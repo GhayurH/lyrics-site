@@ -67,4 +67,3 @@ test("About reflows with readable Urdu and a usable email link on mobile and lan
   const email = await page.locator(".about-contact-email").boundingBox();
   expect(email.x + email.width).toBeLessThanOrEqual(482);
 });
-
