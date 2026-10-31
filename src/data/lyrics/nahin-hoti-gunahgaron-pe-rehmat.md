@@ -1,15 +1,15 @@
 ---
 title: "نہیں ہوتی گناہگاروں پر رحمت ہو بھی سکتی ہے"
-alternateTitle: "Nahin hoti gunahgaron pe rehmat"
+alternateTitle: "Nahin Hoti Gunahgaron Pe Rehmat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Nahin hoti gunahgaron pe rehmat"
+  - "Nahin Hoti Gunahgaron Pe Rehmat"
 cover: "/images/lyrics/nahin-hoti-gunahgaron-pe-rehmat.png"
-coverAlt: "Cover image for Nahin hoti gunahgaron pe rehmat"
+coverAlt: "Cover image for Nahin Hoti Gunahgaron Pe Rehmat"
 published: true
 romanLyrics: |-
   1

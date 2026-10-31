@@ -1,15 +1,15 @@
 ---
 title: "رن کو جاتے ہوئے سر جھکائے ہوئے"
-alternateTitle: "ran ko jaate huwe sar jhukaye hue"
+alternateTitle: "Ran Ko Jaate Huwe Sar Jhukaye Hue"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "ran ko jaate huwe sar jhukaye hue"
+  - "Ran Ko Jaate Huwe Sar Jhukaye Hue"
 cover: "/images/lyrics/ran-ko-jaate-huwe-sar-jhukaye-hue.png"
-coverAlt: "Cover image for ran ko jaate huwe sar jhukaye hue"
+coverAlt: "Cover image for Ran Ko Jaate Huwe Sar Jhukaye Hue"
 published: true
 romanLyrics: |-
   ran ko jaate huwe sar jhukaye hue

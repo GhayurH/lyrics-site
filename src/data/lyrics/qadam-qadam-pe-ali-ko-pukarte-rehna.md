@@ -1,15 +1,15 @@
 ---
 title: "قدم قدم پہ علی کو پکارتے رہنا"
-alternateTitle: "Qadam Qadam pe Ali ko pukarte rehna"
+alternateTitle: "Qadam Qadam Pe Ali Ko Pukarte Rehna"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Qadam Qadam pe Ali ko pukarte rehna"
+  - "Qadam Qadam Pe Ali Ko Pukarte Rehna"
 cover: "/images/lyrics/qadam-qadam-pe-ali-ko-pukarte-rehna.png"
-coverAlt: "Cover image for Qadam Qadam pe Ali ko pukarte rehna"
+coverAlt: "Cover image for Qadam Qadam Pe Ali Ko Pukarte Rehna"
 published: true
 romanLyrics: |-
   Qadam qadam pe Ali ko pukarte rehna

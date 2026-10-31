@@ -1,15 +1,15 @@
 ---
 title: "حسین کیا ہے، نماز کیا ہے"
-alternateTitle: "Hussain kiya hai namaz kiya hai"
+alternateTitle: "Hussain Kiya Hai Namaz Kiya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Hussain kiya hai namaz kiya hai"
+  - "Hussain Kiya Hai Namaz Kiya Hai"
 cover: "/images/lyrics/hussain-kiya-hai-namaz-kiya-hai.png"
-coverAlt: "Cover image for Hussain kiya hai namaz kiya hai"
+coverAlt: "Cover image for Hussain Kiya Hai Namaz Kiya Hai"
 published: true
 romanLyrics: |-
   tu ab bhi mujhse ye puchta hai

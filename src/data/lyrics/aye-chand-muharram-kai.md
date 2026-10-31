@@ -1,15 +1,15 @@
 ---
 title: "اے چاند محرم کے"
-alternateTitle: "Aye chand muharram kai"
+alternateTitle: "Aye Chand Muharram Kai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Aye chand muharram kai"
+  - "Aye Chand Muharram Kai"
 cover: "/images/lyrics/aye-chand-muharram-kai.png"
-coverAlt: "Cover image for Aye chand muharram kai"
+coverAlt: "Cover image for Aye Chand Muharram Kai"
 published: true
 romanLyrics: |-
   Aye chand muharram kai, tu badli mein chala jaa

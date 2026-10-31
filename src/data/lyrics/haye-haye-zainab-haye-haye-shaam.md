@@ -1,15 +1,15 @@
 ---
 title: "ہائے ہائے زینب"
-alternateTitle: "haye haye zainab haye haye shaam"
+alternateTitle: "Haye Haye Zainab Haye Haye Shaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "haye haye zainab haye haye shaam"
+  - "Haye Haye Zainab Haye Haye Shaam"
 cover: "/images/lyrics/haye-haye-zainab-haye-haye-shaam.png"
-coverAlt: "Cover image for haye haye zainab haye haye shaam"
+coverAlt: "Cover image for Haye Haye Zainab Haye Haye Shaam"
 published: true
 romanLyrics: |-
   Haye Haye Zainab

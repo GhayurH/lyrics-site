@@ -1,15 +1,15 @@
 ---
 title: "اے عون و محمد"
-alternateTitle: "aye aun o muhammad"
+alternateTitle: "Aye Aun O Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "aye aun o muhammad"
+  - "Aye Aun O Muhammad"
 cover: "/images/lyrics/aye-aun-o-muhammad.png"
-coverAlt: "Cover image for aye aun o muhammad"
+coverAlt: "Cover image for Aye Aun O Muhammad"
 published: true
 romanLyrics: |-
 

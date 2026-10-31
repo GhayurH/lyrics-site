@@ -1,15 +1,15 @@
 ---
 title: "مظہرِ ربِّ ذوالجلال علیؑ"
-alternateTitle: "Mazhar e Rab e Zuljalal Ali"
+alternateTitle: "Mazhar E Rab E Zuljalal Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Mazhar e Rab e Zuljalal Ali"
+  - "Mazhar E Rab E Zuljalal Ali"
 cover: "/images/lyrics/mazhar-e-rab-e-zuljalal-ali.png"
-coverAlt: "Cover image for Mazhar e Rab e Zuljalal Ali"
+coverAlt: "Cover image for Mazhar E Rab E Zuljalal Ali"
 published: true
 romanLyrics: |-
   1

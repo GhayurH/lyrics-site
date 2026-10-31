@@ -1,15 +1,15 @@
 ---
 title: "چاند کو دیکھ کے صغری نے کہا ہائے حسین"
-alternateTitle: "Chand ko dekh ke Sughra ne kaha haye Hussain"
+alternateTitle: "Chand Ko Dekh Ke Sughra Ne Kaha Haye Hussain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Chand ko dekh ke Sughra ne kaha haye Hussain"
+  - "Chand Ko Dekh Ke Sughra Ne Kaha Haye Hussain"
 cover: "/images/lyrics/chand-ko-dekh-ke-sughra-ne-kaha-haye-hussain.png"
-coverAlt: "Cover image for Chand ko dekh ke Sughra ne kaha haye Hussain"
+coverAlt: "Cover image for Chand Ko Dekh Ke Sughra Ne Kaha Haye Hussain"
 published: true
 romanLyrics: |-
   

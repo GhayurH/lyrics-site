@@ -1,15 +1,15 @@
 ---
 title: "ہائے عباس ہائے عباس ہائے عباس"
-alternateTitle: "Haaye Abbas haaye Abbas haaye Abbas"
+alternateTitle: "Haaye Abbas Haaye Abbas Haaye Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Haaye Abbas haaye Abbas haaye Abbas"
+  - "Haaye Abbas Haaye Abbas Haaye Abbas"
 cover: "/images/lyrics/haaye-abbas-haaye-abbas-haaye-abbas.png"
-coverAlt: "Cover image for Haaye Abbas haaye Abbas haaye Abbas"
+coverAlt: "Cover image for Haaye Abbas Haaye Abbas Haaye Abbas"
 published: true
 romanLyrics: |-
   Haaye Abbas haaye Abbas haaye Abbas

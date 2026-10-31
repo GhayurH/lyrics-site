@@ -1,15 +1,15 @@
 ---
 title: "میں عظمتوں کا سویرا ہوں، نام قاسم ہے"
-alternateTitle: "main azmaton ka sawera hun, naam qasim hai"
+alternateTitle: "Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "main azmaton ka sawera hun, naam qasim hai"
+  - "Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
 cover: "/images/lyrics/main-azmaton-ka-sawera-hun-naam-qasim-hai.png"
-coverAlt: "Cover image for main azmaton ka sawera hun, naam qasim hai"
+coverAlt: "Cover image for Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
 published: true
 romanLyrics: |-
   1

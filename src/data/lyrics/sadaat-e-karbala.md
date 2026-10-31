@@ -1,15 +1,15 @@
 ---
 title: "ساداتِ کربلا"
-alternateTitle: "Sadaat-e-Karbala"
+alternateTitle: "Sadaat-E-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Sadaat-e-Karbala"
+  - "Sadaat-E-Karbala"
 cover: "/images/lyrics/sadaat-e-karbala.png"
-coverAlt: "Cover image for Sadaat-e-Karbala"
+coverAlt: "Cover image for Sadaat-E-Karbala"
 published: true
 romanLyrics: |-
   Chehlum Ko Karbala Mein Jab Aayi Wo Bibiyan

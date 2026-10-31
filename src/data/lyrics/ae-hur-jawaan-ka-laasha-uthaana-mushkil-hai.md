@@ -1,15 +1,15 @@
 ---
 title: "اے حر جوان کا لاشہ اٹھانا مشکل ہے"
-alternateTitle: "Ae Hur jawaan ka laasha uthaana mushkil hai"
+alternateTitle: "Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Ae Hur jawaan ka laasha uthaana mushkil hai"
+  - "Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
 cover: "/images/lyrics/ae-hur-jawaan-ka-laasha-uthaana-mushkil-hai.png"
-coverAlt: "Cover image for Ae Hur jawaan ka laasha uthaana mushkil hai"
+coverAlt: "Cover image for Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
 published: true
 romanLyrics: |-
   

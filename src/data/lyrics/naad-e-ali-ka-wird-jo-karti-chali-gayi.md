@@ -1,15 +1,15 @@
 ---
 title: "نادِ علی کا ورد جو کرتی چلی گئی"
-alternateTitle: "Naad e Ali ka wird jo karti chali gayi"
+alternateTitle: "Naad E Ali Ka Wird Jo Karti Chali Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Naad e Ali ka wird jo karti chali gayi"
+  - "Naad E Ali Ka Wird Jo Karti Chali Gayi"
 cover: "/images/lyrics/naad-e-ali-ka-wird-jo-karti-chali-gayi.png"
-coverAlt: "Cover image for Naad e Ali ka wird jo karti chali gayi"
+coverAlt: "Cover image for Naad E Ali Ka Wird Jo Karti Chali Gayi"
 published: true
 romanLyrics: |-
   1

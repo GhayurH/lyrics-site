@@ -1,15 +1,15 @@
 ---
 title: "انا للّٰہ پڑھ کے اکبر کو"
-alternateTitle: "Inna lillaah parh ke akbar ko"
+alternateTitle: "Inna Lillaah Parh Ke Akbar Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Inna lillaah parh ke akbar ko"
+  - "Inna Lillaah Parh Ke Akbar Ko"
 cover: "/images/lyrics/inna-lillaah-parh-ke-akbar-ko.png"
-coverAlt: "Cover image for Inna lillaah parh ke akbar ko"
+coverAlt: "Cover image for Inna Lillaah Parh Ke Akbar Ko"
 published: true
 romanLyrics: |-
 

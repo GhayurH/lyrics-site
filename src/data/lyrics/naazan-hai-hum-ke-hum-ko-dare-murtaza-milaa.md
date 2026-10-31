@@ -1,15 +1,15 @@
 ---
 title: "نازاں ہیں ہم کہ ہم کو درِ مرتضیٰ ملا"
-alternateTitle: "Naazan hai hum ke hum ko dare murtaza Milaa"
+alternateTitle: "Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Naazan hai hum ke hum ko dare murtaza Milaa"
+  - "Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 cover: "/images/lyrics/naazan-hai-hum-ke-hum-ko-dare-murtaza-milaa.png"
-coverAlt: "Cover image for Naazan hai hum ke hum ko dare murtaza Milaa"
+coverAlt: "Cover image for Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 published: true
 romanLyrics: |-
   1

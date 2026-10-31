@@ -1,15 +1,15 @@
 ---
 title: "شریکِ دعوتِ اسلام ہیں ابو طالب"
-alternateTitle: "Shareek-e-dawat-e-Islam hain Abu Talib"
+alternateTitle: "Shareek-E-Dawat-E-Islam Hain Abu Talib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 tags: []
 aliases:
-  - "Shareek-e-dawat-e-Islam hain Abu Talib"
+  - "Shareek-E-Dawat-E-Islam Hain Abu Talib"
 cover: "/images/lyrics/shareek-e-dawat-e-islam-hain-abu-talib.png"
-coverAlt: "Cover image for Shareek-e-dawat-e-Islam hain Abu Talib"
+coverAlt: "Cover image for Shareek-E-Dawat-E-Islam Hain Abu Talib"
 published: true
 romanLyrics: |-
   1

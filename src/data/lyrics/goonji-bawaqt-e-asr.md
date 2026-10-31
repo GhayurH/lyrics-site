@@ -1,13 +1,13 @@
 ---
 title: "گونجی بوقتِ عصر صدا، میں حسین ہوں"
-alternateTitle: "Goonji bawaqt e asr sada, main Hussain hoon"
+alternateTitle: "Goonji Bawaqt E Asr Sada, Main Hussain Hoon"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Goonji bawaqt e asr"
+  - "Goonji Bawaqt E Asr"
 cover: "/images/lyrics/goonji-bawaqt-e-asr.png"
 coverAlt: "Cover image for Goonji bawaqt e asr"
 published: true

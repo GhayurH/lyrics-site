@@ -1,15 +1,15 @@
 ---
 title: "ٹکڑے نہیں چادر میں، فروا تیرا بیٹا ہے"
-alternateTitle: "Tukre nahin chadar mein, farwa tera beta hai"
+alternateTitle: "Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Tukre nahin chadar mein, farwa tera beta hai"
+  - "Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
 cover: "/images/lyrics/tukre-nahin-chadar-mein-farwa-tera-beta-hai.png"
-coverAlt: "Cover image for Tukre nahin chadar mein, farwa tera beta hai"
+coverAlt: "Cover image for Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
 published: true
 romanLyrics: |-
   Tukre nahin chadar mein, farwa tera beta hai

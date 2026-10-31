@@ -1,15 +1,15 @@
 ---
 title: "ایک تحریر اٹھائے، بولی دربار میں آ کر زہراؑ، لوگوں میں بنتِ نبی ہوں"
-alternateTitle: "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-e-Nabi Hoon"
+alternateTitle: "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-E-Nabi Hoon"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-e-Nabi Hoon"
+  - "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-E-Nabi Hoon"
 cover: "/images/lyrics/aik-tehreer-uthaye-boli-darbar-mein-aa-kar-zahra.png"
-coverAlt: "Cover image for Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-e-Nabi Hoon"
+coverAlt: "Cover image for Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-E-Nabi Hoon"
 published: true
 romanLyrics: |-
   Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-e-Nabi Hoon

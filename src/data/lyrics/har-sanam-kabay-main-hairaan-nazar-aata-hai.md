@@ -1,15 +1,15 @@
 ---
 title: "ہر صنم کعبے میں حیران نظر آتا ہے"
-alternateTitle: "Har sanam kabay main hairaan nazar aata hai"
+alternateTitle: "Har Sanam Kabay Main Hairaan Nazar Aata Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Har sanam kabay main hairaan nazar aata hai"
+  - "Har Sanam Kabay Main Hairaan Nazar Aata Hai"
 cover: "/images/lyrics/har-sanam-kabay-main-hairaan-nazar-aata-hai.png"
-coverAlt: "Cover image for Har sanam kabay main hairaan nazar aata hai"
+coverAlt: "Cover image for Har Sanam Kabay Main Hairaan Nazar Aata Hai"
 published: true
 romanLyrics: |-
   1

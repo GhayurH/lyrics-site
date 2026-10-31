@@ -1,15 +1,15 @@
 ---
 title: "شام سے جب اہلِ بیت، غمزدہ گریاں چلے"
-alternateTitle: "Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
+alternateTitle: "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chalay"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
+  - "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chalay"
 cover: "/images/lyrics/shaam-se-jab-ahl-e-bait-ghamzada-giryaan-chalay.png"
-coverAlt: "Cover image for Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
+coverAlt: "Cover image for Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chalay"
 bastaPage: 264
 bastaNote: original-selection
 published: true

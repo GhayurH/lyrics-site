@@ -1,15 +1,15 @@
 ---
 title: "بے سر جو اپنے باپ کو دیکھا نشیب میں"
-alternateTitle: "besar jab apne baap ko dekha nashaib mein"
+alternateTitle: "Besar Jab Apne Baap Ko Dekha Nashaib Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "besar jab apne baap ko dekha nashaib mein"
+  - "Besar Jab Apne Baap Ko Dekha Nashaib Mein"
 cover: "/images/lyrics/besar-jab-apne-baap-ko-dekha-nashaib-mein.png"
-coverAlt: "Cover image for besar jab apne baap ko dekha nashaib mein"
+coverAlt: "Cover image for Besar Jab Apne Baap Ko Dekha Nashaib Mein"
 published: true
 romanLyrics: |-
   sunsaan ban wo raat wo uth'ta hua dhuan

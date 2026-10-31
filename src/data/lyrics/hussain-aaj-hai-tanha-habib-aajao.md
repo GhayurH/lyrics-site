@@ -1,15 +1,15 @@
 ---
 title: "حسین آج ہے تنہا، حبیب آجاؤ"
-alternateTitle: "Hussain aaj hai tanha, Habib aajao"
+alternateTitle: "Hussain Aaj Hai Tanha, Habib Aajao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Hussain aaj hai tanha, Habib aajao"
+  - "Hussain Aaj Hai Tanha, Habib Aajao"
 cover: "/images/lyrics/hussain-aaj-hai-tanha-habib-aajao.png"
-coverAlt: "Cover image for Hussain aaj hai tanha, Habib aajao"
+coverAlt: "Cover image for Hussain Aaj Hai Tanha, Habib Aajao"
 published: true
 romanLyrics: |-
   Hussain aaj hai tanha, Habib aajao

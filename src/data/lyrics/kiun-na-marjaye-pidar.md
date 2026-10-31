@@ -1,15 +1,15 @@
 ---
 title: "کیوں نہ مر جائے پدر جیتے جی سرور جیسا"
-alternateTitle: "kiun na marjaye pidar"
+alternateTitle: "Kiun Na Marjaye Pidar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "kiun na marjaye pidar"
+  - "Kiun Na Marjaye Pidar"
 cover: "/images/lyrics/kiun-na-marjaye-pidar.png"
-coverAlt: "Cover image for kiun na marjaye pidar"
+coverAlt: "Cover image for Kiun Na Marjaye Pidar"
 published: true
 romanLyrics: |-
   kyun na mar jaye pidar jeete ji Sarwar jaisa

@@ -1,15 +1,15 @@
 ---
 title: "آ کے پرسہ لو اپنے بابا کا العجل العجل امام زماں"
-alternateTitle: "Aa ke pursa lo apne Baba ka"
+alternateTitle: "Aa Ke Pursa Lo Apne Baba Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Aa ke pursa lo apne Baba ka"
+  - "Aa Ke Pursa Lo Apne Baba Ka"
 cover: "/images/lyrics/aa-ke-pursa-lo-apne-baba-ka.png"
-coverAlt: "Cover image for Aa ke pursa lo apne Baba ka"
+coverAlt: "Cover image for Aa Ke Pursa Lo Apne Baba Ka"
 published: true
 romanLyrics: |-
   Aa ke pursa lo apne Baba ka

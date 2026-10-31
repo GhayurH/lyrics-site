@@ -1,15 +1,15 @@
 ---
 title: "ہم سے پوچھا کہ کیا ضروری ہے"
-alternateTitle: "ham se pucha ke kiya zaruri hai"
+alternateTitle: "Ham Se Pucha Ke Kiya Zaruri Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "ham se pucha ke kiya zaruri hai"
+  - "Ham Se Pucha Ke Kiya Zaruri Hai"
 cover: "/images/lyrics/ham-se-pucha-ke-kiya-zaruri-hai.png"
-coverAlt: "Cover image for ham se pucha ke kiya zaruri hai"
+coverAlt: "Cover image for Ham Se Pucha Ke Kiya Zaruri Hai"
 published: true
 romanLyrics: |-
   1

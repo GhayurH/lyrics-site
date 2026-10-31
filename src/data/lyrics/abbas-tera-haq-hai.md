@@ -1,15 +1,15 @@
 ---
 title: "عباس تیرا حق ہے زمانہ تجھے روئے"
-alternateTitle: "abbas tera haq hai"
+alternateTitle: "Abbas Tera Haq Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "abbas tera haq hai"
+  - "Abbas Tera Haq Hai"
 cover: "/images/lyrics/abbas-tera-haq-hai.png"
-coverAlt: "Cover image for abbas tera haq hai"
+coverAlt: "Cover image for Abbas Tera Haq Hai"
 published: true
 romanLyrics: |-
   abbas tera haq hai zamana tujhe roye
