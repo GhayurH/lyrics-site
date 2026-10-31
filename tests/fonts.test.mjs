@@ -37,6 +37,16 @@ test("font menus have unique values and plain labels; saved defaults migrate", (
   assert.equal(parseFontPreferences({ roman: "system" }).roman, "sans");
 });
 
+test("early font restoration shares the menu allowlist", async () => {
+  const { readFile } = await import("node:fs/promises");
+  const layout = await readFile("src/layouts/BaseLayout.astro", "utf8");
+  assert.match(layout, /fontOptions:\s*\{/);
+  assert.match(layout, /FONT_CHOICES\.urdu\.map/);
+  assert.match(layout, /FONT_CHOICES\.roman\.map/);
+  assert.match(layout, /fontOptions\.urdu\.includes/);
+  assert.match(layout, /fontOptions\.roman\.includes/);
+});
+
 test("Beaconhouse font and redistribution licence remain together", async () => {
   const { stat, readFile } = await import("node:fs/promises");
   const path = "public/fonts/beaconhouse-nastaliq/";

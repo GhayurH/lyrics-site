@@ -87,6 +87,6 @@ Validation commands and CI conditions are documented once in [CONTRIBUTING.md](C
 
 ### Font assets and saved preferences
 
-`src/client/fonts.ts` is the allowlist for Urdu and Roman fonts. The layout's early inline bootstrap restores the saved choices before the first paint; preserve its list in sync with the allowlist. `system` is a legacy Roman option and is normalized to `sans` (the system-default font). The Appearance dialog previews poetry fonts without applying them to site navigation or forms.
+`src/client/fonts.ts` is the allowlist for Urdu and Roman fonts. The layout embeds the allowlist from this module into its early inline bootstrap to restore saved choices before the first paint, without maintaining a second list. `system` is a legacy Roman option and is normalized to `sans` (the system-default font). The Appearance dialog previews poetry fonts without applying them to site navigation or forms.
 
 Fontsource fonts are hosted locally. The OFL-licensed Beaconhouse Nastaliq file, license, and source notice remain together in `public/fonts/beaconhouse-nastaliq/`. Alvi Nastaleeq must not be bundled because of its redistribution restrictions; use an installed font with Noto Nastaliq fallback.

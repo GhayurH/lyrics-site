@@ -67,7 +67,10 @@ const aboutActive = path.startsWith("/about/");
     <title>{title}</title>
 
     <!-- Restore appearance before first paint, including the custom palette. -->
-    <script is:inline>
+    <script is:inline define:vars={{ fontOptions: {
+      urdu: FONT_CHOICES.urdu.map((choice) => choice.value),
+      roman: FONT_CHOICES.roman.map((choice) => choice.value),
+    } }}>
       (() => {
         const root = document.documentElement;
         let savedMode;
@@ -80,9 +83,9 @@ const aboutActive = path.startsWith("/about/");
         try {
           const fonts = JSON.parse(localStorage.getItem("kalam:reading-fonts") || "{}");
           if (fonts && typeof fonts === "object") {
-            if (["nastaliq", "naskh", "lateef", "alvi", "gulzar", "scheherazade", "amiri", "markazi", "noto-sans-arabic", "beaconhouse"].includes(fonts.urdu)) root.dataset.urduFont = fonts.urdu;
+            if (fontOptions.urdu.includes(fonts.urdu)) root.dataset.urduFont = fonts.urdu;
             const roman = fonts.roman === "system" ? "sans" : fonts.roman;
-            if (["sans", "serif", "open-sans", "source-sans", "lora", "merriweather"].includes(roman)) root.dataset.romanFont = roman;
+            if (fontOptions.roman.includes(roman)) root.dataset.romanFont = roman;
           }
         } catch { /* Storage may be blocked or invalid. */ }
         if (mode === "custom") {
