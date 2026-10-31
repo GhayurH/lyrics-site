@@ -1,27 +1,27 @@
 // Reader font options are centralized and allowlisted; user settings never become arbitrary CSS.
 export const FONT_STORAGE_KEY = "kalam:reading-fonts";
 export const FONT_CHOICES = {
+  // Alphabetical display order; stable values preserve saved reader settings.
   urdu: [
-    { value: "nastaliq", label: "Noto Nastaliq Urdu" },
-    { value: "naskh", label: "Noto Naskh Arabic" },
-    { value: "lateef", label: "Lateef" },
-    // This font's licence disallows redistribution: use only the reader's
-    // locally installed copy, with a bundled Nastaliq fallback.
+    // Alvi is only used when installed; its licence prohibits redistribution.
     { value: "alvi", label: "Alvi Nastaleeq" },
-    { value: "gulzar", label: "Gulzar" },
-    { value: "scheherazade", label: "Scheherazade New" },
     { value: "amiri", label: "Amiri" },
-    { value: "markazi", label: "Markazi Text" },
-    { value: "noto-sans-arabic", label: "Noto Sans Arabic" },
     { value: "beaconhouse", label: "Beaconhouse Nastaliq" },
+    { value: "gulzar", label: "Gulzar" },
+    { value: "lateef", label: "Lateef" },
+    { value: "markazi", label: "Markazi Text" },
+    { value: "naskh", label: "Noto Naskh Arabic" },
+    { value: "nastaliq", label: "Noto Nastaliq Urdu" },
+    { value: "noto-sans-arabic", label: "Noto Sans Arabic" },
+    { value: "scheherazade", label: "Scheherazade New" },
   ],
   roman: [
     { value: "sans", label: "Default" },
     { value: "serif", label: "Georgia" },
-    { value: "open-sans", label: "Open Sans" },
-    { value: "source-sans", label: "Source Sans 3" },
     { value: "lora", label: "Lora" },
     { value: "merriweather", label: "Merriweather" },
+    { value: "open-sans", label: "Open Sans" },
+    { value: "source-sans", label: "Source Sans 3" },
   ],
 } as const;
 export type FontPreferences = {

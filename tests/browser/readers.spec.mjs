@@ -106,6 +106,47 @@ test("every visible poetry verse stays on one line and within its column at mobi
     await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
   }
 });
+test("six-verse stanza dividers have space below their closing lines in both scripts @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 820 });
+  await page.goto("/lyrics/karbala-karbala-karbala/");
+  for (const spacing of ["compact", "default", "relaxed"]) {
+    await page.locator("[data-reading-line-spacing]").selectOption(spacing);
+    const results = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
+      panels.map((panel) => {
+        const stanza = panel.querySelector(".lyric-stanza-pairs");
+        const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
+        const next = stanza.nextElementSibling;
+        const rules = [verses[1], verses[3]].map((line) => {
+          const style = getComputedStyle(line);
+          return {
+            border: Number.parseFloat(style.borderBottomWidth),
+            paddingInLines: Number.parseFloat(style.paddingBottom) / Number.parseFloat(style.lineHeight),
+          };
+        });
+        return {
+          count: verses.length,
+          rules,
+          nextBorder: Number.parseFloat(getComputedStyle(next).borderTopWidth),
+          gapInLines: (next.getBoundingClientRect().top -
+            verses[5].getBoundingClientRect().bottom) /
+            Number.parseFloat(getComputedStyle(next).lineHeight),
+          nowrap: verses.every((line) => getComputedStyle(line).whiteSpace === "nowrap"),
+        };
+      }));
+    expect(results).toHaveLength(2);
+    for (const panel of results) {
+      expect(panel.count).toBe(6);
+      expect(panel.nowrap).toBe(true);
+      expect(panel.nextBorder).toBeGreaterThan(0);
+      expect(panel.gapInLines).toBeGreaterThan(0.5);
+      for (const rule of panel.rules) {
+        expect(rule.border).toBeGreaterThan(0);
+        expect(rule.paddingInLines).toBeGreaterThan(0.24);
+      }
+    }
+  }
+});
+
 test("compact index presents accessible entries at phone width", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/index/");
