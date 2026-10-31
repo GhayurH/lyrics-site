@@ -14,6 +14,16 @@ import "@fontsource/lora/latin-400.css";
 import "@fontsource/lora/latin-700.css";
 import "@fontsource/merriweather/latin-400.css";
 import "@fontsource/merriweather/latin-700.css";
+// Arabic subsets are self-hosted; browsers only download the selected family.
+import "@fontsource/gulzar/arabic-400.css";
+import "@fontsource/scheherazade-new/arabic-400.css";
+import "@fontsource/scheherazade-new/arabic-700.css";
+import "@fontsource/amiri/arabic-400.css";
+import "@fontsource/amiri/arabic-700.css";
+import "@fontsource/markazi-text/arabic-400.css";
+import "@fontsource/markazi-text/arabic-700.css";
+import "@fontsource/noto-sans-arabic/arabic-400.css";
+import "@fontsource/noto-sans-arabic/arabic-700.css";
 import { FONT_CHOICES } from "../client/fonts";
 import "../styles/core.css";
 
@@ -70,7 +80,7 @@ const aboutActive = path.startsWith("/about/");
         try {
           const fonts = JSON.parse(localStorage.getItem("kalam:reading-fonts") || "{}");
           if (fonts && typeof fonts === "object") {
-            if (["nastaliq", "naskh", "lateef", "alvi"].includes(fonts.urdu)) root.dataset.urduFont = fonts.urdu;
+            if (["nastaliq", "naskh", "lateef", "alvi", "gulzar", "scheherazade", "amiri", "markazi", "noto-sans-arabic", "beaconhouse"].includes(fonts.urdu)) root.dataset.urduFont = fonts.urdu;
             if (["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"].includes(fonts.roman)) root.dataset.romanFont = fonts.roman;
           }
         } catch { /* Storage may be blocked or invalid. */ }

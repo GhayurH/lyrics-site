@@ -388,3 +388,32 @@ test("new language fonts select and persist across pages without altering colour
   await expect(dialog.locator("#theme-urdu-font")).toHaveValue("alvi");
   await expect(dialog.locator("#theme-roman-font")).toHaveValue("merriweather");
 });
+
+test("Urdu font families are available as bundled web fonts @smoke", async ({ page }) => {
+  await page.goto("/lyrics/na-bhool-kar-bhi/");
+  await page.locator("#theme-toggle").click();
+  const selector = page.locator("#theme-urdu-font");
+  for (const [option, family] of [
+    ["gulzar", "Gulzar"],
+    ["scheherazade", "Scheherazade New"],
+    ["amiri", "Amiri"],
+    ["markazi", "Markazi Text"],
+    ["noto-sans-arabic", "Noto Sans Arabic"],
+    ["beaconhouse", "Beaconhouse Nastaliq"],
+  ]) {
+    await selector.selectOption(option);
+    await expect(page.locator("html")).toHaveAttribute("data-urdu-font", option);
+    await expect.poll(() => page.locator(".lyrics-text").first().evaluate((node) =>
+      getComputedStyle(node).fontFamily)).toContain(family);
+    const hasLoadedFace = await page.evaluate(async (fontFamily) => {
+      const faces = await document.fonts.load('400 24px "' + fontFamily + '"', "غزل اردو شاعری");
+      return faces.some((face) => face.family === fontFamily && face.status === "loaded");
+    }, family);
+    expect(hasLoadedFace, family + " should be bundled and loaded").toBe(true);
+  }
+  await page.locator("#theme-dialog-done").click();
+  await page.goto("/basta/138/");
+  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "beaconhouse");
+  await expect.poll(() => page.locator(".basta-urdu-text").first().evaluate((node) =>
+    getComputedStyle(node).fontFamily)).toContain("Beaconhouse Nastaliq");
+});

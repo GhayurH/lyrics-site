@@ -8,6 +8,12 @@ export const FONT_CHOICES = {
     // This font's licence disallows redistribution: use only the reader's
     // locally installed copy, with a bundled Nastaliq fallback.
     { value: "alvi", label: "Alvi Nastaleeq (installed only)" },
+    { value: "gulzar", label: "Gulzar" },
+    { value: "scheherazade", label: "Scheherazade New" },
+    { value: "amiri", label: "Amiri" },
+    { value: "markazi", label: "Markazi Text" },
+    { value: "noto-sans-arabic", label: "Noto Sans Arabic" },
+    { value: "beaconhouse", label: "Beaconhouse Nastaliq" },
   ],
   roman: [
     { value: "sans", label: "Inter / system sans-serif (default)" },
