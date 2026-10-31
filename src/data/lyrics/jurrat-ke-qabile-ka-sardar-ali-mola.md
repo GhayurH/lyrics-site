@@ -16,11 +16,13 @@ romanLyrics: |-
   Karrar Ali Maula, Jarrar Ali Maula
   Sardaron ke lashkar ka sardar Ali Maula
 
+  1
   Rakhte hain jo log chashm-e baseerat
   Woh dekhen do bhaiyon ki fazeelat
   Meraj ki manzil mein ek halke se parde ke
   Is paar Muhammad hain, us paar Ali Maula
 
+  2
   Khud jis ko Khallaq-e Alam barhaye
   Kis mein hai dam shaan us ki ghataye
   Kaabe ka yeh kehna hai, iman hai Kaabe ki
@@ -32,11 +34,13 @@ romanLyrics: |-
 کرار علی مولا جرار علی مولا
 سرداروں کے لشکر کا سردار علی مولا
 
+۱
 رکھتے ہیں جو لوگ چشم بصیرت
 وہ دیکھیں دو بھائیوں کی فضیلت
 معراج کی منزل میں اک ہلکے سے پردے کے
 اِس پار محمد ہیں اُس پار علی مولا
 
+۲
 خود جس کو خلاق عالم بڑھائے
 کس میں ہے دم شان اُس کی گھٹائے
 کعبے کا یہ کہنا ہے ایمان کی کعبے کی
