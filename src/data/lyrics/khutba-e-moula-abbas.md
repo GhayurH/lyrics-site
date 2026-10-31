@@ -33,6 +33,13 @@ romanLyrics: |-
   Jo farzand-e-Nabi ke hukm ka pehra nahi hota
   Ye Kaaba ek ghadi apni jagah tahrra nahi hota
   
+  Agar marzi-e-Haq mansha mere Moula ki na hoti
+  Uqaab-e-Hashmi ban kar karoon parwaaz main aisi
+  Parinday jitne urte hain hawaon mein ye baiat ki
+  Girein kat kat ke reti par bache na koi bhi baaqi
+  Hussain Ibn-e-Ali ke waaste sar ko kata doonga
+  Jo uthi aankh Aaqa ki taraf to noch daaloonga
+  
   Are oo buzdilon tm maut se kis ko darate ho
   Hame tegho sina teero kama kyn kar dikhate ho
   Bani hashim ki jurrat aur Shujaet azmate ho

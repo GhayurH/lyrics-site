@@ -107,6 +107,38 @@ romanLyrics: |-
   Na zibha kar mayray bachay ko mai dua doongi  
   Jaha rawa tayray khunjur ki aab hay zalim  
   Yay bosagahay risalat ma aab hay zalim
+  
+  13
+  Nida ye aayi ke seene se qabz kar le jaan
+  Kaha ke teeron se chhalni hai ae mere Rahman
+  Abhi to maar ke barchhi hata hai ik shaitan
+  Aur ab to hai tah-e-zanu-e-Shimr ye Quran
+  Ye karb hai ke rukh-e-paak gard hai ya Rab
+  Tere Hussain ke seene mein dard hai ya Rab
+  
+  14
+  Nida ye aayi ke mazloomiyat ka rutba shanas
+  Kamar se kheench le sabir ki jaan-e-be-waswas
+  Kaha malak ne tarap kar ba-dard-o-hasrat-o-yaas
+  Kamar to toot gayi jab se mar gaye Abbas
+  Sada-e-ghaib ye aayi ba-haal hai chehra
+  Kaha ke khoon se Asghar ke laal hai chehra
+  
+  15
+  Ye guftagu thi ke murjha gaya Rasool ka phool
+  Falak se aa gaye Rooh-ul-Ameen hazeen-o-malool
+  Kaha pukaar ke munh dhaanp lo baraaye Rasool
+  Pisar ki laash pe kholengi apne baal Batool
+  Sada ye sun ke us simt chal pari Zainab
+  Tarap ke khaime se bahar nikal pari Zainab
+  
+  16
+  Naseem udhar se to qudsi ki sada aayi
+  Idhar tarapti hui bint-e-Murtaza aayi
+  Qareeb-e-laash jo khwahar ba-sad baqa aayi
+  Akhi ke halq-e-bureeda se ye sada aayi
+  Koi buzurg na ab hai na khurd hai Zainab
+  Nabi ki Aal tumhare supurd hai Zainab
 ---
 
 ۱

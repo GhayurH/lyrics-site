@@ -13,7 +13,7 @@ const stanzas = splitLyricStanzas(text);
 
 <div class:list={[className, "lyric-reading-text"]}>
   {stanzas.map((stanza) => (
-    <div class="lyric-stanza">
+    <div class:list={["lyric-stanza", stanza.filter((line) => !line.number).length === 6 && "lyric-stanza-six"]}>
       {stanza.map((line) => (
         <span class={line.number ? "poetry-stanza-number" : "lyric-verse"}>{line.text}</span>
       ))}

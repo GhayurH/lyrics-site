@@ -42,3 +42,39 @@ test("non-Basta Urdu and Roman standalone stanza numbering is circle-ready", () 
   assert.ok(roman.every(block => block[0].number));
   assert.ok(!urdu[0][1].number && !roman[0][1].number);
 });
+
+test("six-line Maula Ali stanzas have matching Urdu and Roman refrains", () => {
+  const source = readFileSync(new URL("../src/data/lyrics/yeh-maula-ali-hai.md", import.meta.url), "utf8");
+  const roman = source.match(/romanLyrics: \|-\n([\s\S]*?)\n---\n/)?.[1]
+    .replace(/^  /gm, "");
+  assert.ok(roman);
+  const urdu = source.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+  for (const [text, refrain] of [
+    [roman, "Ye Maula Ali Maula Ali Maula Ali hai"],
+    [urdu, "یہ مولا علی مولا علی مولا علی ہے"],
+  ]) {
+    const stanzas = splitLyricStanzas(text);
+    assert.equal(stanzas.length, 10);
+    assert.ok(stanzas.every(block => block.length === 7 && block[0].number));
+    assert.ok(stanzas.every(block => block.at(-1).text === refrain));
+  }
+});
+
+test("the missing Roman stanzas align in number with their Urdu sources", () => {
+  for (const [filename, expectedCount] of [
+    ["shareek-e-dawat-e-islam-hain-abu-talib.md", 16],
+    ["khutba-e-moula-abbas.md", 7],
+  ]) {
+    const source = readFileSync(new URL("../src/data/lyrics/" + filename, import.meta.url), "utf8");
+    const roman = source.match(/romanLyrics: \|-\n([\s\S]*?)\n---\n/)?.[1]
+      .replace(/^  /gm, "");
+    assert.ok(roman);
+    const urdu = source.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+    const romanStanzas = splitLyricStanzas(roman);
+    const urduStanzas = splitLyricStanzas(urdu);
+    assert.equal(romanStanzas.length, expectedCount, filename + " Roman stanza count");
+    assert.equal(urduStanzas.length, expectedCount, filename + " Urdu stanza count");
+    assert.ok(romanStanzas.every(stanza => stanza.filter(line => !line.number).length === 6));
+    assert.ok(urduStanzas.every(stanza => stanza.length >= 6));
+  }
+});
