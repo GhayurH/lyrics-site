@@ -18,63 +18,63 @@ romanLyrics: |-
   Gahware mein lete hue azhdar ko bhi pharre
   Doobe hue sooraj ko jo maghrib se ubhare
   Yeh kaun ajaib ka mazhar, kaun wali hai
-  
+
   2
   Kaabe mein hai maulood ke seepi mein gohar hai
   Yeh noor ki barish hai ke hooron ka safar hai
   Deewar bani dar, yeh to Haider ka asar hai
   Makke ki fazaon mein bhi phaili yeh khabar hai
   Kis noor se milne ko chala noor-e Nabi hai
-  
+
   3
   Gulshan mein har ek phool pe masti si charhi hai
   Ghunche pe tabassum hai ke pur-kaif ghari hai
   Nargis bhi hai khush-haal, sada chashm bhari hai
   Gulzar ki har shakh taraf Kaaba muri hai
   Is gul-e Muhammad ke baghal mein jo kali hai
-  
+
   4
   Kaabe se imamat ki kiran phoot rahi hai
   Halchal hai malaik mein ke saf toot rahi hai
   Kuffar-o-munafiq ki kamar toot rahi hai
   Makke ki zameen dar-e Najaf loot rahi hai
   Qudsi ki sada ta-ba-falak sirf yahi hai
-  
+
   5
   Oonton ki qataron ko jo khairat kiya ho
   Sah rozon ki jo naan-e jame bakhsh diya ho
   Sail ko ruku mein jo anguthi ko diya ho
   Shab roz yateemon mein ghiza sarf kiya ho
   Hatim hai kuja, yeh to sakhi ibn-e sakhi hai
-  
+
   6
   Yeh mai-e wala hum ne bari shaan se pi hai
   Hum se jo bachi thi use Jibraeel ne pi hai
   Meesam ne ise charh ke sar-e daar pe pi hai
   Shab roz Abu Zar ne jila-watani mein pi hai
   Is maikada-e Kausar ka faqat ek dhani hai
-  
+
   7
   Masjid ke minaron ki sadaon mein chhupa hai
   Kaabe ke har ek sang ke andar yeh khuda hai
   Har qalb pe momin ke yeh az-khoon likha hai
   Dushman bhi hai anjaan magar yeh to pata hai
   Yeh aakhri Mursal ka bila-fasl wasi hai
-  
+
   8
   Meraj hui arsh ki jab aaye Muhammad
   Deedar ki ulfat mein pahunch paye Muhammad
   Awaz thi manoos na ghabraye Muhammad
   Chaha kare sawal par sharmaye Muhammad
   Awaz yeh kis ki hai jo parde se chali hai
-  
+
   9
   Hijrat ki raat jaan-e Muhammad par bani hai
   Ek jaan hai khatre mein to ek jaan bachi hai
   Bistar pe hai koi, koi humrah-e Nabi hai
   Dushman yeh samajhte hain ke chadar mein Nabi hai
   Yeh kaun hai bistar pe jo hum-shakl-e Nabi hai
-  
+
   10
   Allah ka wali lam-yazali Maula Ali hai
   Ahmad ka wasi kashf-e wali Maula Ali hai
