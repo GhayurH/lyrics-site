@@ -1,6 +1,6 @@
 ---
 title: "چھ ماہ کا مجاہد، سوئے میدان چلا ہے، ماں دیکھ رہی ہے"
-alternateTitle: "Cheh mah ka mujahid, suwe maidaan chala hai, Maan dekh rahi hai"
+alternateTitle: "Cheh Mah Ka Mujahid, Suwe Maidaan Chala Hai, Maan Dekh Rahi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

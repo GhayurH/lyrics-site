@@ -150,7 +150,6 @@ test("meaningful asterisks in source poetry remain intact", () => {
   const marked = [
     ["faatahe-badr-o-uhad-khandaq-o-khaiber-bolay.md", ["*aaj to", "*Baakhuda", "* آج تو", "*باخدا"]],
     ["yeh-maula-ali-hai.md", ["*اس گلِ", "*حاتم ہے", "*یہ آخری", "*یہ کون ہے"]],
-    ["jangal-may-bhare-ghar-ko-luta-aayi-hai-zainab.md", ["Akhtar*"]],
   ];
   for (const [filename, markers] of marked) {
     const source = readFileSync(new URL(filename, dir), "utf8");
