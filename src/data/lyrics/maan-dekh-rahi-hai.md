@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Hurmal ne kamaan khenchi toh larzi ye zameen hai
   Hai saamne bhayya, tabhi ye usko yaqeen hai
-  Parda bari bechai,ni se khaime ka hata hai
+  Parda bari bechaini se khaime ka hata hai
   Maa dekh rahi hai
   
   4
@@ -81,7 +81,7 @@ romanLyrics: |-
 ۳
 حُرمَل نے کماں کھینچی تو لرزی یہ زمیں ہے
 ہے سامنے بھیّا، تبھی یہ اُس کو یقین ہے
-پردہ بڑی بے چے،نی سے خیمے کا ہٹا ہے
+پردہ بڑی بے چینی سے خیمے کا ہٹا ہے
 ماں دیکھ رہی ہے
 
 ۴
