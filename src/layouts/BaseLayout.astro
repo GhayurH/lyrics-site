@@ -4,6 +4,26 @@ import "@fontsource/noto-nastaliq-urdu/400.css";
 import "@fontsource/noto-nastaliq-urdu/700.css";
 import "@fontsource/noto-naskh-arabic/400.css";
 import "@fontsource/noto-naskh-arabic/700.css";
+import "@fontsource/lateef/arabic-400.css";
+import "@fontsource/lateef/arabic-700.css";
+import "@fontsource/open-sans/latin-400.css";
+import "@fontsource/open-sans/latin-700.css";
+import "@fontsource/source-sans-3/latin-400.css";
+import "@fontsource/source-sans-3/latin-700.css";
+import "@fontsource/lora/latin-400.css";
+import "@fontsource/lora/latin-700.css";
+import "@fontsource/merriweather/latin-400.css";
+import "@fontsource/merriweather/latin-700.css";
+// Arabic subsets are self-hosted; browsers only download the selected family.
+import "@fontsource/gulzar/arabic-400.css";
+import "@fontsource/scheherazade-new/arabic-400.css";
+import "@fontsource/scheherazade-new/arabic-700.css";
+import "@fontsource/amiri/arabic-400.css";
+import "@fontsource/amiri/arabic-700.css";
+import "@fontsource/markazi-text/arabic-400.css";
+import "@fontsource/markazi-text/arabic-700.css";
+import "@fontsource/noto-sans-arabic/arabic-400.css";
+import "@fontsource/noto-sans-arabic/arabic-700.css";
 import { FONT_CHOICES } from "../client/fonts";
 import "../styles/core.css";
 
@@ -60,8 +80,8 @@ const aboutActive = path.startsWith("/about/");
         try {
           const fonts = JSON.parse(localStorage.getItem("kalam:reading-fonts") || "{}");
           if (fonts && typeof fonts === "object") {
-            if (["nastaliq", "naskh"].includes(fonts.urdu)) root.dataset.urduFont = fonts.urdu;
-            if (["sans", "system", "serif"].includes(fonts.roman)) root.dataset.romanFont = fonts.roman;
+            if (["nastaliq", "naskh", "lateef", "alvi", "gulzar", "scheherazade", "amiri", "markazi", "noto-sans-arabic", "beaconhouse"].includes(fonts.urdu)) root.dataset.urduFont = fonts.urdu;
+            if (["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"].includes(fonts.roman)) root.dataset.romanFont = fonts.roman;
           }
         } catch { /* Storage may be blocked or invalid. */ }
         if (mode === "custom") {
@@ -224,7 +244,7 @@ const aboutActive = path.startsWith("/about/");
       </fieldset>
       <fieldset class="theme-fonts">
         <legend>Fonts</legend>
-        <p>Choose fonts independently for Urdu and English / Roman Urdu. Saved on this device across all themes.</p>
+        <p>Choose fonts independently for Urdu and English / Roman Urdu. Saved on this device across all themes. Alvi Nastaleeq is used only if installed on your device; otherwise Noto Nastaliq is shown.</p>
         <label for="theme-urdu-font">Urdu
           <select id="theme-urdu-font">
             {FONT_CHOICES.urdu.map((option) => <option value={option.value} selected={option.value === "nastaliq"}>{option.label}</option>)}

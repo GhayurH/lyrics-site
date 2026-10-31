@@ -16,7 +16,10 @@
 - [Cloudflare Pages](https://pages.cloudflare.com/) for deployment
 - [Cloudflare R2](https://developers.cloudflare.com/r2/) for large images and PDFs
 - Cloudflare D1 and Pages Functions for published Recitation Sets
-- Self-hosted Noto Nastaliq Urdu and Noto Naskh Arabic for Urdu typography
+- Self-hosted Noto Nastaliq Urdu, Noto Naskh Arabic, and Lateef for Urdu typography; Open Sans, Source Sans 3, Lora, and Merriweather for Roman/English
+- Gulzar, Scheherazade New, Amiri, Markazi Text, and Noto Sans Arabic are also self-hosted as Urdu reader options.
+- Beaconhouse Nastaliq is self-hosted from its upstream OFL-1.1 binary, with the font licence retained at `public/fonts/beaconhouse-nastaliq/OFL.txt`.
+- Alvi Nastaleeq can be selected only as a system-installed font, with Noto Nastaliq fallback. Its font licence restricts redistribution, so no Alvi binary is shipped.
 
 Font defaults and per-choice stacks live in `src/styles/tokens.css`; labelled options and preference validation live in `src/client/fonts.ts`.
 
