@@ -14,7 +14,7 @@ coverAlt: "Cover image for Khaime Mein Aake Shah Ne Jab Alwida Kaha"
 published: true
 romanLyrics: |-
   Khaime Mein Aake Shah Ne Jab Alwida Kaha
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
   
   1
   Tha Jiska Intezar Wo Saa’at Qareeb Hai
@@ -22,7 +22,7 @@ romanLyrics: |-
   Kuch Der Ki Hai Baat Qayamat Qareeb Hai
   Zainab Ghareeb Bhai Ki Rukhsat Qareeb Hai
   Ye Keh Ke Maanga Maan Ka Jo Kurta Sila Hua
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
   
   2
   Kuch Door Hat Ke Khaime Mein Bole Sheh-e-Zaman
@@ -30,7 +30,7 @@ romanLyrics: |-
   Main Bose Loon Wahan Ke Bandhegi Jahan Rasan
   Baazu Barha Ke Roti Thi Hamsheer-e-Khasta Tan
   Bhai Behan Ke Baazuon Ko Choomne Laga
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
   
   3
   Ye Sun Ke Bint-e-Fatima Zehra Tarap Gayi
@@ -38,7 +38,7 @@ romanLyrics: |-
   Amma Ki Baat Aaj Mujhe Yaad Aagayi
   Main Bose Loon Wahan Ke Chalegi Jahan Chhuri
   Zainab Ne Barh Ke Chooma Baradar Ka Jab Gala
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
   
   4
   Beti Se Phir Ye Kehne Laga Fatima Ka Laal
@@ -46,7 +46,7 @@ romanLyrics: |-
   Ghurbat Hai Tum Phuphi Se Na Karna Koi Sawal
   Warna Tere Pidar Ko Bahot Hoga Malaal
   Phir Sar Pe Haath Rakh Ke Jo Dene Lage Dua
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
   
   5
   Beti Ko Jab Supurd-e-Behan Kar Chuke Imam
@@ -54,7 +54,7 @@ romanLyrics: |-
   Jana Watan Jo Qaid Se Chhut Kar Ay Tishna Kaam
   Kehna Lahad Pe Maan Ki Mera Aakhri Salam
   Aaya Jo Lab Pe Fatima Zehra Ka Tazkira
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
   
   6
   Abid Se Phir Ye Kehne Lage Shah-e-Karbala
@@ -62,7 +62,7 @@ romanLyrics: |-
   Jo Imtehan Mera Tha Sab Maine De Diya
   Aage Tera Jihad Hai Beemar-e-Karbala
   Beemar Beta Baap Se Jis Dam Juda Hua
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
   
   7
   Khaime Se Bahar Aaye Jo Sultan-e-Karbala
@@ -70,7 +70,7 @@ romanLyrics: |-
   Ab Kis Tarha Sawar Ho Zehra Ka Laadla
   Tanhai Ke Siwa Koi Yawar Nahin Bacha
   Jab Su-e-Nehr Dekh Ke Ghazi Ko Di Sada
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
   
   8
   Bhai Ko Tanha Dekh Ke Zainab Tarap Gayi
@@ -78,11 +78,11 @@ romanLyrics: |-
   Aur Phir Raqab Thaam Ke Boli Ay Shah-e-Deen
   Lo Main Sawar Karti Hoon Abbas Gar Nahin
   Waiz Hua Sawar Jo Zehra Ka Laadla
-  Kohraam Mach Gaya
+  Kohraam Mach Gaya, Kohraam Mach Gaya
 ---
 
 خیمے میں آکے شاہ نے جب الوداع کہا
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
 
 ۱
 تھا جس کا انتظار وہ ساعت قریب ہے
@@ -90,7 +90,7 @@ romanLyrics: |-
 کچھ دیر کی ہے بات قیامت قریب ہے
 زینب غریب بھائی کی رخصت قریب ہے
 یہ کہہ کے مانگا ماں کا جو کُرتہ سلا ہوا
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
 
 ۲
 کچھ دور ہٹ کے خیمے میں بولے شہِ زمن
@@ -98,7 +98,7 @@ romanLyrics: |-
 میں بوسے لوں وہاں کے بندھے گی جہاں رسن
 بازو بڑھا کے روتی تھی ہمشیرِ خستہ تن
 بھائی بہن کے بازوؤں کو چومنے لگا
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
 
 ۳
 یہ سن کے بنتِ فاطمہ زہرا تڑپ گئی
@@ -106,7 +106,7 @@ romanLyrics: |-
 اماں کی بات آج مجھے یاد آگئی
 میں بوسے لوں وہاں کے چلے گی جہاں چھری
 زینب نے بڑھ کے چوما برادر کا جب گلا
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
 
 ۴
 بیٹی سے پھر یہ کہنے لگا فاطمہ کا لال
@@ -114,7 +114,7 @@ romanLyrics: |-
 غربت ہے تم پھپی سے نہ کرنا کوئی سوال
 ورنہ تیرے پدر کو بہت ہوگا ملال
 پھر سر پہ ہاتھ رکھ کے جو دینے لگے دُعا
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
 
 ۵
 بیٹی کو جب سپردِ بہن کر چکے امام
@@ -122,7 +122,7 @@ romanLyrics: |-
 جانا وطن جو قید سے چھٹ کر اے تِشنہ کام
 کہنا لحد پہ ماں کی مرا آخری سلام
 آیا جو لب پہ فاطمہ زہرا کا تذکرہ
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
 
 ۶
 عابد سے پھر یہ کہنے لگے شاہِ کربلا
@@ -130,7 +130,7 @@ romanLyrics: |-
 جو امتحان میرا تھا سب میں نے دے دیا
 آگے ترا جہاد ہے بیمارِ کربلا
 بیمار بیٹا باپ سے جس دم جدا ہوا
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
 
 ۷
 خیمے سے باہر آئے جو سلطانِ کربلا
@@ -138,7 +138,7 @@ romanLyrics: |-
 اب کس طرح سوار ہو زہرا کا لاڈلا
 تنہائی کے سوا کوئی یاور نہیں بچا
 جب سوئے نہر دیکھ کے غازی کو دی صدا
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
 
 ۸
 بھائی کو تنہا دیکھ کے زینب تڑپ گئی
@@ -146,4 +146,4 @@ romanLyrics: |-
 اور پھر رکاب تھام کے بولی اے شاہِ دیں
 لو میں سوار کرتی ہوں عباس گر نہیں
 واعظ ہوا سوار جو زہرا کا لاڈلا
-کہرام مچ گیا
+کہرام مچ گیا، کہرام مچ گیا
