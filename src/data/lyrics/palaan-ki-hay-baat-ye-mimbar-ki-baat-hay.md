@@ -1,15 +1,15 @@
 ---
 title: "پالان کی ہے بات یہ منبر کی بات ہے"
-alternateTitle: "Palaan Ki Hay Baat Ye Mimbar ki baat hai"
+alternateTitle: "Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Palaan Ki Hay Baat Ye Mimbar ki baat hai"
+  - "Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
 cover: "/images/lyrics/palaan-ki-hay-baat-ye-mimbar-ki-baat-hay.png"
-coverAlt: "Cover image for Palaan Ki Hay Baat Ye Mimbar ki baat hai"
+coverAlt: "Cover image for Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
 published: true
 romanLyrics: |-
   Palaan ki hay baat ye mimbar ki baat hai
