@@ -7,7 +7,7 @@ export const FONT_CHOICES = {
     { value: "lateef", label: "Lateef" },
     // This font's licence disallows redistribution: use only the reader's
     // locally installed copy, with a bundled Nastaliq fallback.
-    { value: "alvi", label: "Alvi Nastaleeq (installed only)" },
+    { value: "alvi", label: "Alvi Nastaleeq" },
     { value: "gulzar", label: "Gulzar" },
     { value: "scheherazade", label: "Scheherazade New" },
     { value: "amiri", label: "Amiri" },
@@ -16,13 +16,12 @@ export const FONT_CHOICES = {
     { value: "beaconhouse", label: "Beaconhouse Nastaliq" },
   ],
   roman: [
-    { value: "sans", label: "Inter / system sans-serif (default)" },
-    { value: "system", label: "System sans-serif" },
-    { value: "serif", label: "Georgia (serif)" },
+    { value: "sans", label: "Default" },
+    { value: "serif", label: "Georgia" },
     { value: "open-sans", label: "Open Sans" },
     { value: "source-sans", label: "Source Sans 3" },
-    { value: "lora", label: "Lora (serif)" },
-    { value: "merriweather", label: "Merriweather (serif)" },
+    { value: "lora", label: "Lora" },
+    { value: "merriweather", label: "Merriweather" },
   ],
 } as const;
 export type FontPreferences = {
@@ -36,11 +35,13 @@ export function parseFontPreferences(value: unknown): FontPreferences {
     ? value as Record<string, unknown> : {};
   const validUrdu = (candidate: unknown): candidate is FontPreferences["urdu"] =>
     FONT_CHOICES.urdu.some((option) => option.value === candidate);
+  // The old "system" option was identical to the default. Migrate its saved value.
+  const roman = data.roman === "system" ? "sans" : data.roman;
   const validRoman = (candidate: unknown): candidate is FontPreferences["roman"] =>
     FONT_CHOICES.roman.some((option) => option.value === candidate);
   return {
     urdu: validUrdu(data.urdu) ? data.urdu : DEFAULT_FONTS.urdu,
-    roman: validRoman(data.roman) ? data.roman : DEFAULT_FONTS.roman,
+    roman: validRoman(roman) ? roman : DEFAULT_FONTS.roman,
   };
 }
 

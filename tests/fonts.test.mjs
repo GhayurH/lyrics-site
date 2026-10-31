@@ -11,7 +11,7 @@ test("font choices validate each language independently", () => {
   assert.deepEqual(parseFontPreferences({ urdu: "naskh", roman: "serif" }),
     { urdu: "naskh", roman: "serif" });
   assert.deepEqual(parseFontPreferences({ urdu: "unknown", roman: "system" }),
-    { urdu: "nastaliq", roman: "system" });
+    { urdu: "nastaliq", roman: "sans" });
   assert.deepEqual(parseFontPreferences({ urdu: "serif; color:red", roman: "url(evil)" }), DEFAULT_FONTS);
   assert.deepEqual(parseFontPreferences(["naskh", "serif"]), DEFAULT_FONTS);
   assert.deepEqual(FONT_CHOICES.urdu.map((item) => item.value), [
@@ -19,12 +19,22 @@ test("font choices validate each language independently", () => {
     "amiri", "markazi", "noto-sans-arabic", "beaconhouse",
   ]);
   assert.deepEqual(FONT_CHOICES.roman.map((item) => item.value),
-    ["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"]);
+    ["sans", "serif", "open-sans", "source-sans", "lora", "merriweather"]);
   for (const urdu of ["nastaliq", "naskh", "lateef", "alvi", "gulzar", "scheherazade", "amiri", "markazi", "noto-sans-arabic", "beaconhouse"]) {
-    for (const roman of ["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"]) {
+    for (const roman of ["sans", "serif", "open-sans", "source-sans", "lora", "merriweather"]) {
       assert.deepEqual(parseFontPreferences({ urdu, roman }), { urdu, roman });
     }
   }
+});
+
+test("font menus have unique values and plain labels; saved defaults migrate", () => {
+  for (const list of Object.values(FONT_CHOICES)) {
+    assert.equal(new Set(list.map(({ value }) => value)).size, list.length);
+    assert.equal(new Set(list.map(({ label }) => label)).size, list.length);
+  }
+  assert.deepEqual(FONT_CHOICES.roman.map(({ label }) => label),
+    ["Default", "Georgia", "Open Sans", "Source Sans 3", "Lora", "Merriweather"]);
+  assert.equal(parseFontPreferences({ roman: "system" }).roman, "sans");
 });
 
 test("Beaconhouse font and redistribution licence remain together", async () => {
