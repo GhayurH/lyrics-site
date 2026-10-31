@@ -17,31 +17,31 @@ romanLyrics: |-
   
   1
   Jibreel laykay jao ye balligh ki ayatein
-  Kehdo kay ab ye kaare Payambar ki baat hai
+  Kehdo ke ab ye kaare Payambar ki baat hai
   
   2
   Baade Nabi Ali hain wali keh chukay Rasool
-  Bhoolay wo kis tarha kay yay ghar ghar ki baat hai
+  Bhoolay wo kis tarha ke yay ghar ghar ki baat hai
   
   3
   Fath-e-Hunain o Khandaq o Khaybar ki baat hai
-  Ik fard hay lage hay kay lashkar ki baat hai
+  Ik fard hay lage hay ke lashkar ki baat hai
   
   4
   Goonjayga ab fiza may Ali-e-Wali ka naam
-  Qalb-e-munafiqeen pay khanjar ki baat hai
+  Qalb-e-munafiqeen pe khanjar ki baat hai
   
   5
-  Momin kay dil hain shaad munafiq jalay hooway
+  Momin ke dil hain shaad munafiq jale hooway
   Saahab ye apne apne muqaddar ki baat hai
   
   6
-  Kyun kar na ata arsh say patthar paey sanad
+  Kyun kar na ata arsh se patthar paey sanad
   Akhir ko yay wilayat-e-Haidar ki baat hai
   
   7
   Bhagey na aj koyi karo aisa intizam
-  Buzar kay kaan may yahi Qambar ki baat hai
+  Buzar ke kaan may yahi Qambar ki baat hai
   
   8
   Qaayam hay ab bhi akhri Mawla Ghadeer ka

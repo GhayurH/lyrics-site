@@ -43,7 +43,7 @@ romanLyrics: |-
   aur main roti rahi
   
   5
-  humko pani na milay teri khusboo to rahe
+  humko pani na mile teri khusboo to rahe
   tere baazu na katein chahe mashkeeza chiday
   ye magar ho na saka tere baazu hain juda
   mujh pe hai tashnalabi

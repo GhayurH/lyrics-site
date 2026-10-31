@@ -17,10 +17,10 @@ romanLyrics: |-
   1
   Chehlum Jo Karbala Mein Bahattar Ka Ho Chuka
   Paiwand Bekason Ke Tan-o-Sar Ka Ho Chuka
-  Aur Fatiha Hussain Ke Lashkar Ka Ho Chuka
+  Aur Fatiha Husain Ke Lashkar Ka Ho Chuka
   Qabron Pe Shor Aal-e-Payambar Ka Ho Chuka
   Matam Mein Teen Roz Rahe Shor-o-Shain Se
-  Roye Lipat Lipat Ke Mazar-e-Hussain Se
+  Roye Lipat Lipat Ke Mazar-e-Husain Se
   
   2
   Misle Charagh Gor-e-Ghariban Pe Dil Jalaye
@@ -47,16 +47,16 @@ romanLyrics: |-
   Aur Apne Dil Ko Aap Hi Pursa Bhi Deti Hoon
   
   5
-  Chehlum To Kar Chuki Main Dil-Afgar Ya Hussain
-  Ab Rauza Kis Tarha Se Ho Tayyar Ya Hussain
-  Beta Bhi Aur Behen Bhi Hai Nadar Ya Hussain
-  Aakhir Kabhi To Aayenge Zawwar Ya Hussain
+  Chehlum To Kar Chuki Main Dil-Afgar Ya Husain
+  Ab Rauza Kis Tarha Se Ho Tayyar Ya Husain
+  Beta Bhi Aur Behen Bhi Hai Nadar Ya Husain
+  Aakhir Kabhi To Aayenge Zawwar Ya Husain
   Takya Hai Kaar-Sazi-e-Parwardigar Par
   Is Dam To Sayeban Bhi Nahin Hai Mazar Par
   
   6
   Hazrat Ki Qabr Hil Gayi Zainab Ke Bain Se
-  Aa Kar Kaha Basheer Ne Ibn-e-Hussain Se
+  Aa Kar Kaha Basheer Ne Ibn-e-Husain Se
   Shehzade Jaan-Balab Hai Phuphi Shor-o-Shain Se
   Chaliye Watan Ko Qabr-e-Shah-e-Mashraqain Se
   Abid Ne Poocha Kyun Phuphi Amma Qubool Hai

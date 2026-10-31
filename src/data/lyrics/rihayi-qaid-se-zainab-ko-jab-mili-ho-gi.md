@@ -13,7 +13,7 @@ coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 published: true
 romanLyrics: |-
   Rihayi qaid se Zainab ko jab mili ho gi
-  Bina Hussain kay woh kaisay ghar gayi ho gi
+  Bina Husain ke woh kaisay ghar gayi ho gi
 
   1
   Aye Nana Tere Nawase ko teri ummat ne
@@ -22,32 +22,32 @@ romanLyrics: |-
 
   2
   Lutien thi dasht mein jo chadarien Saydaniyoon ki
-  lotayein Abid-e-Beemar ko layeenoon nay
-  Ali ki Laadli hasrat say daykhti ho gi
+  lotayein Abid-e-Beemar ko layeenoon ne
+  Ali ki Laadli hasrat se daykhti ho gi
 
   3
-  Woh chay maah kay bachay ko teer maara tha
-  Woh Sheer khawar ka laasha sina pay aaya tha
+  Woh chay maah ke bachay ko teer maara tha
+  Woh Sheer khawar ka laasha sina pe aaya tha
   Batool lahad mein moh apna peet-ti ho gi
 
   4
-  Paray thay Laashay jawaanoon kay dasht-e-Karbal mein
-  para tha Ghazi ka laasha bagheer shanoon kay
-  Jawan bhai kay shanoon ko dhondhti ho gi
+  Paray the Laashay jawaanoon ke dasht-e-Karbal mein
+  para tha Ghazi ka laasha bagheer shanoon ke
+  Jawan bhai ke shanoon ko dhondhti ho gi
 
   5
   Gaya jo qafla maqtal mein Aale-Ahmed ka
   Veeraan dasht mein har Bibi apnay pyaron ko
-  Karakti Dhoop mein ro ro kay dhundti ho gi
+  Karakti Dhoop mein ro ro ke dhundti ho gi
 
   6
-  Gaye thi sath tumharay Sakina Karbal mein
+  Gaye thi sath tumhare Sakina Karbal mein
   Kahan hai bhayyia mujhay nazar nahin aati
-  Beemar Sughra yeh Abid say poochti ho gi
+  Beemar Sughra yeh Abid se poochti ho gi
 
   7
-  Suni jo bali Sakina nay khabar yeh Akhtar
-  keh sab chalay hain mujhay chor ker Madinay ko
+  Suni jo bali Sakina ne khabar yeh Akhtar
+  keh sab chale hain mujhay chor ker Madinay ko
   Masooma kabr mein tanha hi ro rahi ho gi
 ---
 

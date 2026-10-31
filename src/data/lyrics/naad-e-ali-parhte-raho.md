@@ -12,7 +12,7 @@ cover: "/images/lyrics/naad-e-ali-parhte-raho.png"
 coverAlt: "Cover image for Naad E Ali Parhte Raho"
 published: true
 romanLyrics: |-
-  Hai mashwara Aey mohataram
+  Hai mashwara Ae mohataram
   Naad e Ali parhte raho
   
   Paas askenge phr na gham

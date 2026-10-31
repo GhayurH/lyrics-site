@@ -21,19 +21,19 @@ romanLyrics: |-
   Chadar nahi hay baalon se mun ko chhupatay hain
   
   2
-  Asghar ko maa chhupati hay jhuk jhuk kay goud me
-  Khaimon ko torr torr kay jab teer atay hain
+  Asghar ko maa chhupati hay jhuk jhuk ke goud me
+  Khaimon ko torr torr ke jab teer atay hain
   
   3
   Dil pani pani hota hay bachon ki pyas se
   Sookhi zubaan honton par Asghar phiraty hain
   
   4
-  Ghoray doraye shaam kay lashkar jo atay hain
-  Kam umr bachay khaimon me ghabraye jatay hain
+  Ghoray doraye shaam ke lashkar jo atay hain
+  Kam umr bachay khaimon me ghabraye jate hain
   
   5
-  Dunya ko de diya hay sabaq ye Hussain ne
+  Dunya ko de diya hay sabaq ye Husain ne
   Raah e khuda me is tarhan sar ko kataty hain
   
   6
@@ -41,8 +41,8 @@ romanLyrics: |-
   Rann me jawan betay ka laasha uthaty hain
   
   7
-  Jis waqt ye suna kay mai marti hun pyas se
-  Mashkeeza le haathon me Abbas jatay hain
+  Jis waqt ye suna ke mai marti hun pyas se
+  Mashkeeza le haathon me Abbas jate hain
 ---
 
 ہلچل ہے فوجِ شام میں عباسؑ آتے ہیں

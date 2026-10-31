@@ -1,42 +1,42 @@
 ---
 title: "زینبؑ نے کی فریاد نانا، فریاد نانا فریاد نانا"
-alternateTitle: "Zainab Nay Ki Faryaad Nana"
+alternateTitle: "Zainab Ne Ki Faryaad Nana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Zainab Nay Ki Faryaad Nana"
+  - "Zainab Ne Ki Faryaad Nana"
 cover: "/images/lyrics/zainab-nay-ki-faryaad-nana.png"
-coverAlt: "Cover image for Zainab Nay Ki Faryaad Nana"
+coverAlt: "Cover image for Zainab Ne Ki Faryaad Nana"
 published: true
 romanLyrics: |-
-  Zainab Nay Ki Faryaad Nana, Faryaad Nana Faryaad Nana
-  Hum Ho Kay Aaey Barbaad Nana
+  Zainab Ne Ki Faryaad Nana, Faryaad Nana Faryaad Nana
+  Hum Ho Ke Aaey Barbaad Nana
   
   1
-  Qatil Khara Tha Bhai Kay Sar Per, Roti Rahee Mein Katta Raha Sar
+  Qatil Khara Tha Bhai Ke Sar Per, Roti Rahee Mein Katta Raha Sar
   Karti Rahee Mei Faryaad Nana, Faryaad Nana Faryaad Nana
   
   2
-  Rasee Thi Ik aur Bara Galay Thay, Darbaar Mein Hum Aesay Gaey Thay
+  Rasee Thi Ik aur Bara Gale The, Darbaar Mein Hum Aesay Gaey The
   Hum Per Huwi Vo Baydaad Nana, Baydaad Nana Baydaad Nana
   
   3
   Tauq-o-Salasil Gardan Mein Daalay, Zanjeer-o-Bairee Hathon Mei Pehnay
-  Chaltay Rahay Yun Sajjad Nana, Sajjad Nana Sajjad Nana
+  Chaltay Rahe Yun Sajjad Nana, Sajjad Nana Sajjad Nana
   
   4
   Akbar Nahien Hai Asghar Nahien Hai, Qasim Nahien Hai Sarwar Nahien Hai
-  Aatay Hain Mujhko Sub Yaad Nana, Sub Yaad Nana Sub Yaad Nana
+  Aate Hain Mujhko Sub Yaad Nana, Sub Yaad Nana Sub Yaad Nana
   
   5
-  Is Gham Say Mera Phatta Hay Seena, Qaidee Hai Ub Tak Bali Sakina
+  Is Gham Se Mera Phatta Hay Seena, Qaidee Hai Ub Tak Bali Sakina
   aur Hum Houay Hain Azaad Nana, Azaad Nana Azaad Nana
   
   6
-  Chader Nahien Thi Afsos Ser Per, Hum Bayrida Thay Shirin Kay Dar Per
+  Chader Nahien Thi Afsos Ser Per, Hum Bayrida The Shirin Ke Dar Per
   Kaisee Thee haaye Uftaad Nana, Uftaad Nana Uftaad Nana
   
   7
@@ -44,7 +44,7 @@ romanLyrics: |-
   Karbobala Hai Abaad Nana, Abaad Nana Abaad Nana
   
   8
-  Nana Tumharay Tatheer Walay, Ummat Kay Hathon Mein Bayrida Thay
+  Nana Tumhare Tatheer Wale, Ummat Ke Hathon Mein Bayrida The
   Koi To Kerta Imdad Nana, Imdad Nana Imdad Nana
   
   9

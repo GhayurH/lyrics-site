@@ -12,32 +12,32 @@ cover: "/images/lyrics/wo-khoon-ro-ke.png"
 coverAlt: "Cover image for Wo Khoon Ro Ke"
 published: true
 romanLyrics: |-
-  Wo khoon ro kay kehta raha zamanay say
-  Ridaeyn cheeno naa (x2) logo mere gharanay say
+  Wo khoon ro ke kehta raha zamanay se
+  Ridaeyn cheeno naa (x2) logo mere gharanay se
   
   1
-  Sawal-e-aab pay sonay pay us kay ronay pay (x2)
-  Wo maartay thay (x2) sakina ko her bahaanay say
+  Sawal-e-aab pe sonay pe us ke ronay pe (x2)
+  Wo maartay the (x2) sakina ko her bahaanay se
   
   2
   Bulaey kis tarha abbas ko madad kai leeyai (x2)
-  Wo berida thee (x2) jhijhakti rahi bulanay say
+  Wo berida thee (x2) jhijhakti rahi bulanay se
   
   3
-  Sulaya jaata tha bayhosh ker kay durron say (x2)
-  Jagaya jata tha (x2) abid ko taazianay say
+  Sulaya jaata tha bayhosh ker ke durron se (x2)
+  Jagaya jata tha (x2) abid ko taazianay se
   
   4
-  Kuch is terha sar-e-kerbobala wo ujray thay (x2)
-  Kay dar rahay hain (x2) abhi tak wo ghar basaanay say
+  Kuch is terha sar-e-kerbobala wo ujray the (x2)
+  Ke dar rahe hain (x2) abhi tak wo ghar basaanay se
   
   5
-  Kaha ye ganj-e-shaheedan mei baap kay sar nay (x2)
-  Mujhai sakina (x2) bulati hai qaid khaanay say
+  Kaha ye ganj-e-shaheedan mei baap ke sar ne (x2)
+  Mujhai sakina (x2) bulati hai qaid khaanay se
   
   6
   Rida-e-saani-e-zehra mei dhal gaya akbar (x2)
-  Ghubaar utha jo laashon kay thar tharaanay say
+  Ghubaar utha jo laashon ke thar tharaanay se
 ---
 
 وہ خون رو کے یہ کہتا رہا زمانے سے

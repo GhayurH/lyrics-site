@@ -13,7 +13,7 @@ coverAlt: "Cover image for Aye Chand Muharram Kai"
 published: true
 romanLyrics: |-
   Aye chand muharram kai, tu badli mein chala jaa
-  Tujhay daikh kay mar jaye na, beemar hai Sughra
+  Tujhay daikh ke mar jaye na, beemar hai Sughra
   
   1
   Ghar Zahra ka lutne ki, khabar tu ne sunai

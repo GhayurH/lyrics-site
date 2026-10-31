@@ -24,7 +24,7 @@ romanLyrics: |-
   1
   Jigar zakhmi hai dil zakhmi, (Musafir karbala wala)
   Kamar khum hogaee jiski, (Musafir karbala wala)
-  Na sambhla aa kay maidan mein, gira ghash kha kay maidan mein
+  Na sambhla aa ke maidan mein, gira ghash kha ke maidan mein
   Tha kitna hoslay wala (Musafir, Karbala wala musafir)
   
   2
@@ -34,8 +34,8 @@ romanLyrics: |-
   (Musafir, Karbala wala musafir)
   
   3
-  Lara no lakh teeron say, (Musafir karbala wala)
-  Hua mehroom bacchon say, (Musafir karbala wala)
+  Lara no lakh teeron se, (Musafir karbala wala)
+  Hua mehroom bacchon se, (Musafir karbala wala)
   Juda ghazi hua jiska, Jo tanha aik lashkar tha,
   Jo tha mashk o alam wala (Musafir, Karbala wala musafir)
   
@@ -46,26 +46,26 @@ romanLyrics: |-
   (Musafir, Karbala wala musafir)
   
   5
-  Jo aaya run mein jhoolay say, (Musafir karbala wala)
-  Bujha kay piyas teeron say, (Musafir karbala wala)
+  Jo aaya run mein jhoolay se, (Musafir karbala wala)
+  Bujha ke piyas teeron se, (Musafir karbala wala)
   Hansa teer e sitam kha kar, Wo piyasa wo ali asghar
   Hua qurbaan baba par (Musafir, Karbala wala musafir)
   
   6
   Jera sarwar da chain haaee, (Musafir karbala wala)
-  Tae naa jainda hussain haaee, (Musafir karbala wala)
+  Tae naa jainda husain haaee, (Musafir karbala wala)
   Ookoon zibha kiya ummat, Nasab jainda haee aala
   (Musafir, Karbala wala musafir)
   
   7
-  Chupa teeron kay andar tha, (Musafir karbala wala)
+  Chupa teeron ke andar tha, (Musafir karbala wala)
   Behen ney dur sey deikha, (Musafir karbala wala)
   Najaf ki shahazadi ney, Hamari aqazadi ney
   Kaha maragaya bhaiya (Musafir, Karbala wala musafir)
   
   8
   Sahara bus ae bhainri da, (Musafir karbala wala)
-  Walay khemay day which jeenda, (Musafir karbala wala)
+  Wale khemay day which jeenda, (Musafir karbala wala)
   Ali de dhee Haan kar maindi, Dua manzoor rub shala
   (Musafir, Karbala wala musafir)
   

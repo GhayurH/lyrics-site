@@ -17,9 +17,9 @@ romanLyrics: |-
   1
   Chand Taron Ki Shan-e-Jamali Mein Tu
   Sabz Patton Mein Pholon Ki Lali Mein Tu
-  Khoshay Khoshay Mein Tu, Bali Bali Mein Tu
+  Khoshe Khoshe Mein Tu, Bali Bali Mein Tu
   Tehni Tehni Mein Tu, Dali Dali Mein Tu
-  Butay Butay Mein Gul, Gul Mein Bu, Bu Mein Tu
+  Bute Bute Mein Gul, Gul Mein Bu, Bu Mein Tu
   Allah Hu, Allah Hu, Allah Hu
   
   2
@@ -42,13 +42,13 @@ romanLyrics: |-
   Deed Kis Ko Muyassar Teri Zaat Ki
   Lakh Musa Ne Tujh Se Munajaat Ki
   Phir Bhi Tu Ne Na Un Se Mulaqaat Ki
-  Chhup Ke Parday Mein Ki Jab Kabhi Baat Ki
+  Chhup Ke Parde Mein Ki Jab Kabhi Baat Ki
   Aur Muhammad Se Ki Do-Ba-Do Guftagu
   Allah Hu, Allah Hu, Allah Hu
   
   5
   Har Fazeelat Muhammad Ke Ghar Bhaij Di
-  Thi Jo Shay Khoob Se Khoob Tar Bhaij Di
+  Thi Jo She Khoob Se Khoob Tar Bhaij Di
   Un Ke Bhai Ko Taig-e-Do-Sar Bhaij Di
   Aur Malak Se Phir Us Ki Khabar Bhaij Di
   La-Fata Ki Sada Ab Bhi Hai Chaar Su

@@ -39,7 +39,7 @@ romanLyrics: |-
   3
   meri jaan ja rahi hai
   ye soch soch asghar
-  is phool se galay par
+  is phool se gale par
   ye teer kaise jhayla
   Behno ko kya bataun
   Asghar Main Teri Maan Hun

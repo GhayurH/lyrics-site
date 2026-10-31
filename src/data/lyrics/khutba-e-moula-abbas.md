@@ -41,7 +41,7 @@ romanLyrics: |-
   Uqaab-e-Hashmi ban kar karoon parwaaz main aisi
   Parinday jitne urte hain hawaon mein ye baiat ki
   Girein kat kat ke reti par bache na koi bhi baaqi
-  Hussain Ibn-e-Ali ke waaste sar ko kata doonga
+  Husain Ibn-e-Ali ke waaste sar ko kata doonga
   Jo uthi aankh Aaqa ki taraf to noch daaloonga
 
   5

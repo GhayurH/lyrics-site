@@ -29,7 +29,7 @@ romanLyrics: |-
   Aaj ke Hafiz-e-Quran bare bhole hain
   
   5
-  Aey Khadija tere tukron pe ye palne wale
+  Ae Khadija tere tukron pe ye palne wale
   Arey bhool baithe tere ahsaan bare bhole hain
   
   6

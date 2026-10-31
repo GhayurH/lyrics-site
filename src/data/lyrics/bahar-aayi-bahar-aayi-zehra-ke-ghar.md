@@ -18,18 +18,18 @@ romanLyrics: |-
   
   2
   Bahar aayi Bahar aayi Bahar aayi Bahar aayi
-  Bahar is mah main Zehra kay ghar hay char bar aayi
+  Bahar is mah main Zehra ke ghar hay char bar aayi
   
   3
-  Muhammad kay gharanay main Muhammad hi Muhammad hain
+  Muhammad ke gharanay main Muhammad hi Muhammad hain
   Hai ik soorut jo hay surat badal kar bar bar aayi
   
   4
-  Zara unsay ye keh dijiey kay rahiyay hoshiyar aayi
+  Zara unsay ye keh dijiey ke rahiyay hoshiyar aayi
   Wo aayi daykhiyay sar par wo aayi Zulfiqar aayi
   
   5
-  Ali ka naam lay kar meinay kholi aankh marqad main
+  Ali ka naam le kar meinay kholi aankh marqad main
   Madad Maula ki meri qabar may qabl az fishar aayi
 ---
 

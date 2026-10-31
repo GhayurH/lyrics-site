@@ -45,11 +45,11 @@ romanLyrics: |-
   royi bohat yateem sakina...
   
   3
-  aage barhi hussain ki mazloom ghamzada
+  aage barhi husain ki mazloom ghamzada
   teeron se jism baap ka dekha bhara hua
   ghabra ke teer jism se karne lagi juda
   kamsin thi koi teer na us se nikal saka
-  paaya na jab hussain ka seena nashaib mein
+  paaya na jab husain ka seena nashaib mein
   royi bohat yateem sakina...
 
   4
@@ -65,7 +65,7 @@ romanLyrics: |-
   wo apne dard baap se karne lagi bayan
   rukh par bani thi saaf jo zaalim ki ungliyan
   bachi ne jab dikhaye tamachon ke wo nishan
-  zakhmi badan hussain ka tadpa nashaib mein
+  zakhmi badan husain ka tadpa nashaib mein
   royi bohat yateem sakina...
 
   6
@@ -93,7 +93,7 @@ romanLyrics: |-
   9
   waiz likhega kaun yateema ki bekasi
   laashe shah e zaman se wo jis dam juda hui
-  lagta tha ab jiyegi na bachi hussain ki
+  lagta tha ab jiyegi na bachi husain ki
   jaane lagi nasheb se jab sheh ki laadli
   baba ko apne chod ke tanha nashaib mein
   royi bohat yateem sakina...

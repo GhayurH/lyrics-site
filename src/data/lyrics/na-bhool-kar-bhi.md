@@ -26,7 +26,7 @@ romanLyrics: |-
   
   4
   Ye zikr zikr-e-Nabi hai yehi hai zikr-e-Khuda
-  Ali ke hotay huay kyun kisi ki baat karo
+  Ali ke hote huay kyun kisi ki baat karo
   
   5
   Sar-e-niyaaz jhuka do Ali chaukhat par

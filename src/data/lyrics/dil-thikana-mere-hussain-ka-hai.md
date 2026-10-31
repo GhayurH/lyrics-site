@@ -1,76 +1,76 @@
 ---
 title: "دل ٹھکانہ میرے حسینؑ کا ہے"
-alternateTitle: "Dil Thikana Mere Hussain Ka Hai"
+alternateTitle: "Dil Thikana Mere Husain Ka Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Dil Thikana Mere Hussain Ka Hai"
+  - "Dil Thikana Mere Husain Ka Hai"
 cover: "/images/lyrics/dil-thikana-mere-hussain-ka-hai.png"
-coverAlt: "Cover image for Dil Thikana Mere Hussain Ka Hai"
+coverAlt: "Cover image for Dil Thikana Mere Husain Ka Hai"
 published: true
 romanLyrics: |-
   1
-  Dil Thikana mere Hussain ka hai
-  ye Khazana Mere Hussain ka hai
+  Dil Thikana mere Husain ka hai
+  ye Khazana Mere Husain ka hai
   
   2
   Tum Jisay aasmaan samajhtay ho
-  Shamiyana Mere Hussain ka hai
+  Shamiyana Mere Husain ka hai
   
   3
   Koi Poochay ye daur kis ka hai
-  Tum batana Mere Hussain ka hai
+  Tum batana Mere Husain ka hai
   
   4
   Jis ke Saaye Main Kaainaat bani
-  Aisa Nana Mere Hussain ka hai
+  Aisa Nana Mere Husain ka hai
   
   5
   Ye jo Kaba hai Tum na Samjho gay
-  Ghar Poorana Mere Hussain ka hai
+  Ghar Poorana Mere Husain ka hai
   
   6
   Aana Farsh e Aza pe Be Parda
-  Dil Dukhana Mere Hussain ka hai
+  Dil Dukhana Mere Husain ka hai
   
   7
-  Jis Jagah Hur Banaye Jatay hain
-  Karkhana Mere Hussain ka hai
+  Jis Jagah Hur Banaye Jate hain
+  Karkhana Mere Husain ka hai
   
   8
   Ho Agar Munkir e Namaz Koi
-  Bhool jana Mere Hussain ka hai
+  Bhool jana Mere Husain ka hai
   
   9
   Dainey Wali Hai Zaat Allah Ki
-  Per Dilana Merey Hussain Ka Hai
+  Per Dilana Merey Husain Ka Hai
   
   10
   Maaray ek Sabar se Hazaar Uddoo
-  Kia Nishana Mere Hussain ka hai
+  Kia Nishana Mere Husain ka hai
   
   11
   Ug Raha Hai Jo Baad-e-Karbobala
-  Wo Dana Dana Merey Hussain Ka Hai
+  Wo Dana Dana Merey Husain Ka Hai
   
   12
   Matami jab Koi Nazar Aaye
-  Maan Jana Mere Hussain ka hai
+  Maan Jana Mere Husain ka hai
   
   13
   Kaash Kehney Lagey Ye Log Mujhey
-  Tu Deewana Merey Hussain Ka Hai
+  Tu Deewana Merey Husain Ka Hai
   
   14
   Ye Jahan Kia hai Dono Aalam main
-  Aana Jaana Mere Hussain ka hai
+  Aana Jaana Mere Husain ka hai
   
   15
   Mujh main Rehan ye Shaoor Jo Hai
-  Shairaana Mere Hussain ka hai
+  Shairaana Mere Husain ka hai
 ---
 
 ۱

@@ -15,7 +15,7 @@ romanLyrics: |-
   Laa raha hun main lasha e Akbar
   Umme Laila sambhaal Zainab ko
   
-  Bolay honge Hussain ye rokar
+  Bole honge Husain ye rokar
   Umme Laila sambhaal Zainab ko
   
   1
@@ -35,7 +35,7 @@ romanLyrics: |-
   Umme Laila Sambhaal Zainab Ko
   
   3
-  Do nageene thay iski jholi may
+  Do nageene the iski jholi may
   Dono Akbar pe kar diye sadqa
   Sabr aisa ke apne beton par
   Maine rote isay nahi dekha
@@ -62,8 +62,8 @@ romanLyrics: |-
   Ay takallum wo shaam o kufa ka
   Tay hua hoga is tarah se safar
   Amma Zainab sambhaalna maa ko
-  Kehtay hongay sina say yeh Akbar
-  Aur hoga Hussain ke lab par
+  Kehte hongay sina se yeh Akbar
+  Aur hoga Husain ke lab par
   Umme Laila Sambhaal Zainab Ko
 ---
 

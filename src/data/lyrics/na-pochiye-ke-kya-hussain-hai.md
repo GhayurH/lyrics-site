@@ -1,86 +1,86 @@
 ---
 title: "نہ پوچھیے کہ کیا حسینؑ ہے"
-alternateTitle: "Na Pochiye Ke Kya Hussain Hai"
+alternateTitle: "Na Pochiye Ke Kya Husain Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Na Pochiye Ke Kya Hussain Hai"
+  - "Na Pochiye Ke Kya Husain Hai"
 cover: "/images/lyrics/na-pochiye-ke-kya-hussain-hai.png"
-coverAlt: "Cover image for Na Pochiye Ke Kya Hussain Hai"
+coverAlt: "Cover image for Na Pochiye Ke Kya Husain Hai"
 published: true
 romanLyrics: |-
   Khuda Ke Deen Ka Na-Khuda
   Har Ibtida Ki Ibtida
-  Karam Ki Inteha Hussain Hai
+  Karam Ki Inteha Husain Hai
   
   1
   Kare Jo Humsari Kisi Ki Kya Majal Hai
-  Jahan Mein Har Lehaz Se Hussain Be-Misal Hai
+  Jahan Mein Har Lehaz Se Husain Be-Misal Hai
   Yeh Ho Chuka Hai Faisla, Na Koi Dosra Khuda
-  Na Koi Dosra Hussain Hai
+  Na Koi Dosra Husain Hai
   
   2
   Aseer-e-Sham Par Nigah Ki To Hurr Bana Diya
   Jo Mar Rahe The Unko Zindagi Ka Gur Sikha Diya
-  Hussain Hai Hayat Gar, Hussain Azmaton Ka Ghar
-  Azeem Rehnuma Hussain Hai
+  Husain Hai Hayat Gar, Husain Azmaton Ka Ghar
+  Azeem Rehnuma Husain Hai
   
   3
-  Karo Ge Gar Mukhalifat Gham-e-Hussain Ki Yahan
+  Karo Ge Gar Mukhalifat Gham-e-Husain Ki Yahan
   Woh Hashar Hoga Hashar Mein Ke Al-Hafeez-o-Al-Amaan
   Jahan Bhi Chupne Jao Ge, Kahin Pe Bach Na Pao Ge
-  Ke Har Jagah Mera Hussain Hai
+  Ke Har Jagah Mera Husain Hai
   
   4
   Miyan-e-Dasht-e-Nainwa Ulatne Fauj-e-Ashqiya
   Barha Jo Shah-e-Karbala Utha Ke Taig-e-La-Fatah
   Lagi Jo Sar Utarne, Kaha Yeh Zulfiqar Ne
-  Ghazab Ka Sorma Hussain Hai
+  Ghazab Ka Sorma Husain Hai
   
   5
   Qaza Ke Baad Phir Mujhe Nayi Hayat Mil Gayi
   Fishar Se Azab Se Mujhe Nijat Mil Gayi
   Sawal Jab Kiya Gaya Hai, Kaun Tera Rehnuma
-  To Main Ne Keh Diya Hussain Hai
+  To Main Ne Keh Diya Husain Hai
   
   6
-  Hai Jis Ki Fikr Karbala, Hussain Woh Dimagh Hai
+  Hai Jis Ki Fikr Karbala, Husain Woh Dimagh Hai
   Yeh Panjtan Ki Anjuman Ka Panchwan Charagh Hai
   Hasan Ka Pehla Humsafar, Ali Ka Dosra Pisar
-  Imam Teesra Hussain Hai
+  Imam Teesra Husain Hai
   
   7
   Shaheed-e-Karbala Ka Gham Jise Bhi Na-Gawar Hai
   Woh Bad-Amal Hai, Bad-Nasab, Usi Pe Be-Shumar Hai
   Are O Dushman-e-Aza, Tu Mar Zara Lehad Mein Ja
-  Pata Chalega Kya Hussain Hai
+  Pata Chalega Kya Husain Hai
   
   8
   Woh Jis Ne Baandh Kar Hawa, Jala Diya Bujha Diya
   Zameen Ko Jis Ne Arsh Se Buland Martaba Diya
   Woh Jis Ne Kainat Ka Nizam Hi Badal Diya
-  Ek Aisa Mojiza Hussain Hai
+  Ek Aisa Mojiza Husain Hai
   
   9
   Kisi Ko Hosla Diya, Kisi Ko Bakhsh Di Sehar
   Diye Kisi Ko Baal-o-Par, Kisi Ko De Diye Pisar
   Pukari Banda-Parwari, Lughat Mein Ahl-e-Ishq Ki
-  Madad Ka Tarjuma Hussain Hai
+  Madad Ka Tarjuma Husain Hai
   
   10
-  Hidayat-e-Hussain Par Amal Karo Hussainiyo
-  Rahenge Hum Bahisht Mein, Yaqeen Rakho Hussainiyo
+  Hidayat-e-Husain Par Amal Karo Husainiyo
+  Rahenge Hum Bahisht Mein, Yaqeen Rakho Husainiyo
   Qabool Hogi Har Dua, Kisi Se Kyun Darein Bhala
-  Hamara Wasta Hussain Hai
+  Hamara Wasta Husain Hai
   
   11
   Surur Gohar-e-Hunar Hua Yeh Khwab Dekh Kar
   Sajay Huye Hain Khuld Mein Tamam Momino Ke Ghar
   Nishan-e-Gham Hai Jalwagar Har Aadmi Ke Seene Par
-  Har Ek Lab Pe Ya Hussain Hai
+  Har Ek Lab Pe Ya Husain Hai
 ---
 
 خدا کے دین کا ناخدا

@@ -20,7 +20,7 @@ romanLyrics: |-
   Ehsaas-e-yateemi hi bari sakht saza hai
   
   2
-  Ay Shimr-e-Laien kis pay tu barsata hai kooray
+  Ay Shimr-e-Laien kis pe tu barsata hai kooray
   Aabid to bari dair se behosh parha hai
   
   3

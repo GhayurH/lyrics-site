@@ -74,7 +74,7 @@ romanLyrics: |-
   
   8
   Bhai Ko Tanha Dekh Ke Zainab Tarap Gayi
-  Roti Hui Hussain Ke Nazdeek Aagayi
+  Roti Hui Husain Ke Nazdeek Aagayi
   Aur Phir Raqab Thaam Ke Boli Ay Shah-e-Deen
   Lo Main Sawar Karti Hoon Abbas Gar Nahin
   Waiz Hua Sawar Jo Zehra Ka Laadla

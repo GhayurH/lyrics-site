@@ -86,7 +86,7 @@ romanLyrics: |-
   tere sadqe mein karwan-e-aza
 
   ay meri bibi, tere dar pe sar jhukate hain
-  har Hussaini ka tere tukron pe hi guzara hai
+  har Husaini ka tere tukron pe hi guzara hai
 ---
 
 یا زہرا یا زہرا

@@ -51,10 +51,10 @@ romanLyrics: |-
   Har Simt Us Ke Sadqay Mein Ho Aman Ki Fiza
   
   7
-  Mabood, Woh Hussain Jo Mehboob Hai Tera
+  Mabood, Woh Husain Jo Mehboob Hai Tera
   Sar Kaat Kar Bhi Jis Ka Na Zalim Jhuka Saka
   Jis Ne Zameen Ko Arsh-e-Mualla Bana Diya
-  Dikhla De Hum Faqeeron Ko Roza-e-Hussain Ka
+  Dikhla De Hum Faqeeron Ko Roza-e-Husain Ka
   
   8
   Mushkil Ko Taal, Hal-e-Masaib Ko Bhej De

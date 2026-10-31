@@ -34,15 +34,15 @@ romanLyrics: |-
   Ehsaas dilaya hai
   
   4
-  Qasim main teri maa ko, kis tarhan say batlaon
+  Qasim main teri maa ko, kis tarhan se batlaon
   Ye hee hay tera beta, kaisay usay samjhaon
-  Ye soch kay ankhon say
-  Khun Sheh nay bahaya hay
+  Ye soch ke ankhon se
+  Khun Sheh ne bahaya hay
   
   5
-  Poocha jo ye zainab nay, gathri main hay kiya bhai
-  Sarwar nay kaha roker, qasim ki hay lash haye
-  Is lash ka zalim nay
+  Poocha jo ye zainab ne, gathri main hay kiya bhai
+  Sarwar ne kaha roker, qasim ki hay lash haye
+  Is lash ka zalim ne
   Wo haal banaya hay
 ---
 

@@ -7,7 +7,7 @@ direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Alwida Alwida Alwida Ay Hussain"
+  - "Alwida Alwida Alwida Ay Husain"
 cover: "/images/lyrics/alwida-alwida-alwida-ay-hussain.png"
 coverAlt: "Cover image for Alwida Alwida Alwida Ay Husain"
 published: true

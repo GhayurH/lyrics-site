@@ -38,7 +38,7 @@ romanLyrics: |-
   
   4
   Mera Akbar mera Qasim mera Asghar na raha
-  Do mere laal thay donon mein se koi na bacha
+  Do mere laal the donon mein se koi na bacha
   Na koi bhai bhatija na koi hai beta
   
   5

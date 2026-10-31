@@ -26,8 +26,8 @@ romanLyrics: |-
   Main teri judayi mein beta, ro ro ke mar na jaaun
   
   3
-  Loriyon wale ye to tere, naaz uthane ke din thay
-  Aankhon mein teri khushiyon ke, khwab sajane ke din thay
+  Loriyon wale ye to tere, naaz uthane ke din the
+  Aankhon mein teri khushiyon ke, khwab sajane ke din the
   Aa laut ke Asghar aa beta, tera kurta mai badlaun
   
   4

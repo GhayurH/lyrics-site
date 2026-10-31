@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Kesi ye sham ayi aulad e Sayyeda par
   
-  Sajjad ro rahay hain Zainab se mun chupa kar
+  Sajjad ro rahe hain Zainab se mun chupa kar
   
   1
   Ik simt be kafan hai bhai ka uske lasha

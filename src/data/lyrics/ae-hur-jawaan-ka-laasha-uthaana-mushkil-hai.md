@@ -27,7 +27,7 @@ romanLyrics: |-
   Main jaanta hoon ke tukre uthaana mushkil hai
   
   3
-  Hussain kehte the ro kar ye, Hur ke bete se
+  Husain kehte the ro kar ye, Hur ke bete se
   Samajh raha hoon aziyat, teri mere bachche
   Bureeda halq se yun muskurana mushkil hai
   

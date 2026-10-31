@@ -24,7 +24,7 @@ romanLyrics: |-
   Har ada inki imran ka aqs hai
   Inki bahon mein jaafar ki taaqat bhi hai
   
-  Pyaar hai mustufa ka hussain o hasan
+  Pyaar hai mustufa ka husain o hasan
   Aur hassnain ka pyaar abbas hai
   
   2

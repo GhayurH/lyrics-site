@@ -19,7 +19,7 @@ romanLyrics: |-
   ho rahe hain juda alwida alwida
   
   1
-  shah barh kar behan ke galay lag gaye
+  shah barh kar behan ke gale lag gaye
   aur dukhiya behan se ye kehne lage
   se ye kehne lage
   meri mazloom pyasi musafir behan

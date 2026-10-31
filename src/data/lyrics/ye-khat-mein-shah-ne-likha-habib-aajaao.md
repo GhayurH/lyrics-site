@@ -36,7 +36,7 @@ romanLyrics: |-
   Duaaein deygi Sakina, Habib aajaao
   
   5
-  Gawara kar nahin sakti Hussain ki ghairat
+  Gawara kar nahin sakti Husain ki ghairat
   Tumhari zauja ki chaadar ko lootley ummat
   Tum usko chorhkey Kufa Habib aajaao
   

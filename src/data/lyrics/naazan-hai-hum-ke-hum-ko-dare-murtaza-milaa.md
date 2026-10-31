@@ -17,12 +17,12 @@ romanLyrics: |-
   Yei dar hummay Milla to dare murtaza Milaa
   
   2
-  Jab mustafa milay to khuda ka pataa mila
+  Jab mustafa mile to khuda ka pataa mila
   Phir sari kainat ka parda uthaa mila
   
   3
   Aalam tamam bol rahaa thaa Ali Ali
-  Mai bhi sadaaein deta huwa un say ja mila
+  Mai bhi sadaaein deta huwa un se ja mila
   
   4
   Chayra jahan Ali ki wilaayat ka tazkera
@@ -42,7 +42,7 @@ romanLyrics: |-
   
   8
   Himmat hai shart aik qadam ka hai faaslaa
-  jannat say kerbala ka hai rastaa mila mila
+  jannat se kerbala ka hai rastaa mila mila
 ---
 
 ۱

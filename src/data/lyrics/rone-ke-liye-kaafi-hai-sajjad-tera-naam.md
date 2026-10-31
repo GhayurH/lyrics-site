@@ -33,7 +33,7 @@ romanLyrics: |-
   4
   Mushkil Thi Bari Woh Ghari, Darbar Mein Zainab Khari
   Shabbir Ke Lab Par Chhari, Sajjad Ne Pehni Kari
-  Darbar-e-Yazeedi Ke Larze Thay Dar-o-Baam
+  Darbar-e-Yazeedi Ke Larze The Dar-o-Baam
   
   5
   Kat Jaate Sayyadon Ke Sar, Zainab Na Jaati Dar Badar
