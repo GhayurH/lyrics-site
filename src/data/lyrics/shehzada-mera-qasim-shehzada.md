@@ -1,15 +1,15 @@
 ---
 title: "شہزادہ شہزادہ میرا قاسم شہزادہ"
-alternateTitle: "shehzada mera qasim shehzada"
+alternateTitle: "Shehzada Mera Qasim Shehzada"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "shehzada mera qasim shehzada"
+  - "Shehzada Mera Qasim Shehzada"
 cover: "/images/lyrics/shehzada-mera-qasim-shehzada.png"
-coverAlt: "Cover image for shehzada mera qasim shehzada"
+coverAlt: "Cover image for Shehzada Mera Qasim Shehzada"
 published: true
 romanLyrics: |-
   Shehzada Shehzada, mera Qasim Shehzada

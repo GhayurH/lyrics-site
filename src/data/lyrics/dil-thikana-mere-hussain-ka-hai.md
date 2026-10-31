@@ -1,15 +1,15 @@
 ---
 title: "دل ٹھکانہ میرے حسینؑ کا ہے"
-alternateTitle: "Dil Thikana mere Hussain ka hai"
+alternateTitle: "Dil Thikana Mere Hussain Ka Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Dil Thikana mere Hussain ka hai"
+  - "Dil Thikana Mere Hussain Ka Hai"
 cover: "/images/lyrics/dil-thikana-mere-hussain-ka-hai.png"
-coverAlt: "Cover image for Dil Thikana mere Hussain ka hai"
+coverAlt: "Cover image for Dil Thikana Mere Hussain Ka Hai"
 published: true
 romanLyrics: |-
   1

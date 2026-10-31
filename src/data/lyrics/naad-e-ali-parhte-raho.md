@@ -1,15 +1,15 @@
 ---
 title: "نادِ علی پڑھتے رہو"
-alternateTitle: "Naad e Ali parhte raho"
+alternateTitle: "Naad E Ali Parhte Raho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Naad e Ali parhte raho"
+  - "Naad E Ali Parhte Raho"
 cover: "/images/lyrics/naad-e-ali-parhte-raho.png"
-coverAlt: "Cover image for Naad e Ali parhte raho"
+coverAlt: "Cover image for Naad E Ali Parhte Raho"
 published: true
 romanLyrics: |-
   Hai mashwara Aey mohataram

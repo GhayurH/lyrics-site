@@ -1,15 +1,15 @@
 ---
 title: "ہلچل ہے فوجِ شام میں عباسؑ آتے ہیں"
-alternateTitle: "Halchal hay fauj e shaam mein Abbas atay hain"
+alternateTitle: "Halchal Hay Fauj E Shaam Mein Abbas Atay Hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Halchal hay fauj e shaam mein Abbas atay hain"
+  - "Halchal Hay Fauj E Shaam Mein Abbas Atay Hain"
 cover: "/images/lyrics/halchal-hay-fauj-e-shaam-mein-abbas-atay-hain.png"
-coverAlt: "Cover image for Halchal hay fauj e shaam mein Abbas atay hain"
+coverAlt: "Cover image for Halchal Hay Fauj E Shaam Mein Abbas Atay Hain"
 published: true
 romanLyrics: |-
   Halchal hay fauj e shaam mein Abbas atay hain

@@ -1,15 +1,15 @@
 ---
 title: "فاتحِ بدر و اُحد، خندق و خیبر بولے"
-alternateTitle: "Faatahe Badr-o-Uhad Khandaq o Khaiber bolay"
+alternateTitle: "Faatahe Badr-O-Uhad Khandaq O Khaiber Bolay"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Faatahe Badr-o-Uhad Khandaq o Khaiber bolay"
+  - "Faatahe Badr-O-Uhad Khandaq O Khaiber Bolay"
 cover: "/images/lyrics/faatahe-badr-o-uhad-khandaq-o-khaiber-bolay.png"
-coverAlt: "Cover image for Faatahe Badr-o-Uhad Khandaq o Khaiber bolay"
+coverAlt: "Cover image for Faatahe Badr-O-Uhad Khandaq O Khaiber Bolay"
 published: true
 romanLyrics: |-
   1

@@ -1,15 +1,15 @@
 ---
 title: "آ اصغر بن تیرے میں چین کہاں سے پاوں"
-alternateTitle: "Aa Asghar bin tere"
+alternateTitle: "Aa Asghar Bin Tere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Aa Asghar bin tere"
+  - "Aa Asghar Bin Tere"
 cover: "/images/lyrics/aa-asghar-bin-tere.png"
-coverAlt: "Cover image for Aa Asghar bin tere"
+coverAlt: "Cover image for Aa Asghar Bin Tere"
 published: true
 romanLyrics: |-
   Aa Asghar bin tere, mai chayn kahan se paaun

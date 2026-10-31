@@ -1,15 +1,15 @@
 ---
 title: "عباس عباس عباس پانی لائو"
-alternateTitle: "Abbas pani lao"
+alternateTitle: "Abbas Pani Lao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Abbas pani lao"
+  - "Abbas Pani Lao"
 cover: "/images/lyrics/abbas-pani-lao.png"
-coverAlt: "Cover image for Abbas pani lao"
+coverAlt: "Cover image for Abbas Pani Lao"
 published: true
 romanLyrics: |-
   Abbas Abbas Abbas pani lao

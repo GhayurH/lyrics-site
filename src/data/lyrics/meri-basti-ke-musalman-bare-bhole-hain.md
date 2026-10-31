@@ -1,15 +1,15 @@
 ---
 title: "حق کے باتوں سے ہیں انجان، بڑے بھولے ہیں"
-alternateTitle: "meri basti ke musalman bare bhole hain"
+alternateTitle: "Meri Basti Ke Musalman Bare Bhole Hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "meri basti ke musalman bare bhole hain"
+  - "Meri Basti Ke Musalman Bare Bhole Hain"
 cover: "/images/lyrics/meri-basti-ke-musalman-bare-bhole-hain.png"
-coverAlt: "Cover image for meri basti ke musalman bare bhole hain"
+coverAlt: "Cover image for Meri Basti Ke Musalman Bare Bhole Hain"
 published: true
 romanLyrics: |-
   1

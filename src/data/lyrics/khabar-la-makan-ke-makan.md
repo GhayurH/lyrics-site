@@ -1,15 +1,15 @@
 ---
 title: "خبر لامکان کے مکان سے اڑی ہے"
-alternateTitle: "khabar la makan ke makan"
+alternateTitle: "Khabar La Makan Ke Makan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "khabar la makan ke makan"
+  - "Khabar La Makan Ke Makan"
 cover: "/images/lyrics/khabar-la-makan-ke-makan.png"
-coverAlt: "Cover image for khabar la makan ke makan"
+coverAlt: "Cover image for Khabar La Makan Ke Makan"
 published: true
 romanLyrics: |-
   Khabar la-makaan ke makaan se uri hai

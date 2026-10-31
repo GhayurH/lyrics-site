@@ -1,15 +1,15 @@
 ---
 title: "جہاں حسین وہاں لا إله إلا الله"
-alternateTitle: "Jahan Hussain wahan la ilaha illallah"
+alternateTitle: "Jahan Hussain Wahan La Ilaha Illallah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Jahan Hussain wahan la ilaha illallah"
+  - "Jahan Hussain Wahan La Ilaha Illallah"
 cover: "/images/lyrics/jahan-hussain-wahan-la-ilaha-illallah.png"
-coverAlt: "Cover image for Jahan Hussain wahan la ilaha illallah"
+coverAlt: "Cover image for Jahan Hussain Wahan La Ilaha Illallah"
 published: true
 romanLyrics: |-
   1

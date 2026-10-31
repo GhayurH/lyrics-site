@@ -1,15 +1,15 @@
 ---
 title: "یہ مولا علي ہے"
-alternateTitle: "Yeh maula Ali hai"
+alternateTitle: "Yeh Maula Ali Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Yeh maula Ali hai"
+  - "Yeh Maula Ali Hai"
 cover: "/images/lyrics/yeh-maula-ali-hai.png"
-coverAlt: "Cover image for Yeh maula Ali hai"
+coverAlt: "Cover image for Yeh Maula Ali Hai"
 published: true
 romanLyrics: |-
   1

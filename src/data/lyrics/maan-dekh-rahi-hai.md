@@ -1,15 +1,15 @@
 ---
 title: "چھ ماہ کا مجاہد، سوئے میدان چلا ہے"
-alternateTitle: "maan dekh rahi hai"
+alternateTitle: "Maan Dekh Rahi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "maan dekh rahi hai"
+  - "Maan Dekh Rahi Hai"
 cover: "/images/lyrics/maan-dekh-rahi-hai.png"
-coverAlt: "Cover image for maan dekh rahi hai"
+coverAlt: "Cover image for Maan Dekh Rahi Hai"
 published: true
 romanLyrics: |-
   Cheh mah ka mujahid, suwe maidaan chala hai

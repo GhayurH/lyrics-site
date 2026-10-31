@@ -1,15 +1,15 @@
 ---
 title: "اے ربِ پنجتن"
-alternateTitle: "Aye Rab-e-Panjtan"
+alternateTitle: "Aye Rab-E-Panjtan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Aye Rab-e-Panjtan"
+  - "Aye Rab-E-Panjtan"
 cover: "/images/lyrics/aye-rab-e-panjtan.png"
-coverAlt: "Cover image for Aye Rab-e-Panjtan"
+coverAlt: "Cover image for Aye Rab-E-Panjtan"
 published: true
 romanLyrics: |-
   Aye Rab-e-Panjtan, Meri Tujh Se Hai Yeh Dua

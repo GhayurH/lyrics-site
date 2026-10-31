@@ -1,15 +1,15 @@
 ---
 title: "جب گھر گئے کوفے میں مسلم کے دلارے"
-alternateTitle: "Jab ghir gae kufe mein"
+alternateTitle: "Jab Ghir Gae Kufe Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Jab ghir gae kufe mein"
+  - "Jab Ghir Gae Kufe Mein"
 cover: "/images/lyrics/jab-ghir-gae-kufe-mein.png"
-coverAlt: "Cover image for Jab ghir gae kufe mein"
+coverAlt: "Cover image for Jab Ghir Gae Kufe Mein"
 published: true
 romanLyrics: |-
   jab ghir gaye Kufe mein Muslim ke dulare

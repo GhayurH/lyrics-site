@@ -1,15 +1,15 @@
 ---
 title: "مسافر کربلا والا"
-alternateTitle: "Musafir Karbala wala"
+alternateTitle: "Musafir Karbala Wala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Musafir Karbala wala"
+  - "Musafir Karbala Wala"
 cover: "/images/lyrics/musafir-karbala-wala.png"
-coverAlt: "Cover image for Musafir Karbala wala"
+coverAlt: "Cover image for Musafir Karbala Wala"
 published: true
 romanLyrics: |-
   Musafir Karbala wala

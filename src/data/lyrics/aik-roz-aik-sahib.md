@@ -1,15 +1,15 @@
 ---
 title: "ایک روز ایک صاحبِ زلفِ دراز نے"
-alternateTitle: "aik roz aik sahib"
+alternateTitle: "Aik Roz Aik Sahib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "aik roz aik sahib"
+  - "Aik Roz Aik Sahib"
 cover: "/images/lyrics/aik-roz-aik-sahib.png"
-coverAlt: "Cover image for aik roz aik sahib"
+coverAlt: "Cover image for Aik Roz Aik Sahib"
 published: true
 romanLyrics: |-
   Ek roz ek sahib-e zulf-e daraaz ne

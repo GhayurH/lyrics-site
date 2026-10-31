@@ -1,15 +1,15 @@
 ---
 title: "پایا غازی حسین نے، تسبیحوں میں وفا وفا کہ کے"
-alternateTitle: "Paya Ghazi Hussain ne"
+alternateTitle: "Paya Ghazi Hussain Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Paya Ghazi Hussain ne"
+  - "Paya Ghazi Hussain Ne"
 cover: "/images/lyrics/paya-ghazi-hussain-ne.png"
-coverAlt: "Cover image for Paya Ghazi Hussain ne"
+coverAlt: "Cover image for Paya Ghazi Hussain Ne"
 published: true
 romanLyrics: |-
   Paya Ghazi Husain ne, tasbihon mein wafa wafa keh ke

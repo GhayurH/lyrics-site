@@ -1,15 +1,15 @@
 ---
 title: "مجرئی خلق میں، ان آنکھوں نے کیا کیا دیکھا"
-alternateTitle: "mujrayi khalq mein"
+alternateTitle: "Mujrayi Khalq Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 tags: []
 aliases:
-  - "mujrayi khalq mein"
+  - "Mujrayi Khalq Mein"
 cover: "/images/lyrics/mujrayi-khalq-mein.png"
-coverAlt: "Cover image for mujrayi khalq mein"
+coverAlt: "Cover image for Mujrayi Khalq Mein"
 published: true
 romanLyrics: |-
   1

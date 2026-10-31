@@ -1,15 +1,15 @@
 ---
 title: "پرچمِ غازی لہراتا گھر گھر دیکھا"
-alternateTitle: "Parchame Ghazi Lehrata ghar ghar dekha"
+alternateTitle: "Parchame Ghazi Lehrata Ghar Ghar Dekha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Parchame Ghazi Lehrata ghar ghar dekha"
+  - "Parchame Ghazi Lehrata Ghar Ghar Dekha"
 cover: "/images/lyrics/parchame-ghazi-lehrata-ghar-ghar-dekha.png"
-coverAlt: "Cover image for Parchame Ghazi Lehrata ghar ghar dekha"
+coverAlt: "Cover image for Parchame Ghazi Lehrata Ghar Ghar Dekha"
 published: true
 romanLyrics: |-
   Parchame Ghazi Lehrata ghar ghar dekha

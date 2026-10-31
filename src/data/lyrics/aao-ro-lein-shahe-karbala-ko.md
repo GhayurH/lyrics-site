@@ -1,15 +1,15 @@
 ---
 title: "آؤ رولیں شہِ کربلا کو"
-alternateTitle: "aao ro lein shahe karbala ko"
+alternateTitle: "Aao Ro Lein Shahe Karbala Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 tags: []
 aliases:
-  - "aao ro lein shahe karbala ko"
+  - "Aao Ro Lein Shahe Karbala Ko"
 cover: "/images/lyrics/aao-ro-lein-shahe-karbala-ko.png"
-coverAlt: "Cover image for aao ro lein shahe karbala ko"
+coverAlt: "Cover image for Aao Ro Lein Shahe Karbala Ko"
 published: true
 romanLyrics: |-
   Aao ro len Shah-e Karbala ko

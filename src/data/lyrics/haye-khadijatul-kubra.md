@@ -1,15 +1,15 @@
 ---
 title: "دو جہان میں ماتم ہے، رحلتِ خدیجہ سے"
-alternateTitle: "haye khadijatul kubra"
+alternateTitle: "Haye Khadijatul Kubra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "haye khadijatul kubra"
+  - "Haye Khadijatul Kubra"
 cover: "/images/lyrics/haye-khadijatul-kubra.png"
-coverAlt: "Cover image for haye khadijatul kubra"
+coverAlt: "Cover image for Haye Khadijatul Kubra"
 published: true
 romanLyrics: |-
   do jahan mein matam hai, rehlat-e-Khadija se

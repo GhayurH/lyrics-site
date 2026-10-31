@@ -1,15 +1,15 @@
 ---
 title: "نہ بھول کر بھی کبھی تم کسی کی بات کرو"
-alternateTitle: "Na bhool kar bhi"
+alternateTitle: "Na Bhool Kar Bhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Na bhool kar bhi"
+  - "Na Bhool Kar Bhi"
 cover: "/images/lyrics/na-bhool-kar-bhi.png"
-coverAlt: "Cover image for Na bhool kar bhi"
+coverAlt: "Cover image for Na Bhool Kar Bhi"
 published: true
 romanLyrics: |-
   1

@@ -1,15 +1,15 @@
 ---
 title: "لا رہا ہوں میں لاشئہ اکبر"
-alternateTitle: "Laa raha hun main lasha e Akbar"
+alternateTitle: "Laa Raha Hun Main Lasha E Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Laa raha hun main lasha e Akbar"
+  - "Laa Raha Hun Main Lasha E Akbar"
 cover: "/images/lyrics/laa-raha-hun-main-lasha-e-akbar.png"
-coverAlt: "Cover image for Laa raha hun main lasha e Akbar"
+coverAlt: "Cover image for Laa Raha Hun Main Lasha E Akbar"
 published: true
 romanLyrics: |-
   Laa raha hun main lasha e Akbar

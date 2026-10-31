@@ -1,15 +1,15 @@
 ---
 title: "سجاد کو بے موت یہ غم مار گیا ہے"
-alternateTitle: "Sajjad ko bemaut ye gham maar gaya hai"
+alternateTitle: "Sajjad Ko Bemaut Ye Gham Maar Gaya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Sajjad ko bemaut ye gham maar gaya hai"
+  - "Sajjad Ko Bemaut Ye Gham Maar Gaya Hai"
 cover: "/images/lyrics/sajjad-ko-bemaut-ye-gham-maar-gaya-hai.png"
-coverAlt: "Cover image for Sajjad ko bemaut ye gham maar gaya hai"
+coverAlt: "Cover image for Sajjad Ko Bemaut Ye Gham Maar Gaya Hai"
 published: true
 romanLyrics: |-
   Sajjad ko bemaut ye gham maar gaya hai

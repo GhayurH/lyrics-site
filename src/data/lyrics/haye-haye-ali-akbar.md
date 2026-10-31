@@ -1,15 +1,15 @@
 ---
 title: "ہائے ہائے علی اکبر، ہائے ہائے علی اکبر"
-alternateTitle: "haye haye ali akbar"
+alternateTitle: "Haye Haye Ali Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "haye haye ali akbar"
+  - "Haye Haye Ali Akbar"
 cover: "/images/lyrics/haye-haye-ali-akbar.png"
-coverAlt: "Cover image for haye haye ali akbar"
+coverAlt: "Cover image for Haye Haye Ali Akbar"
 published: true
 romanLyrics: |-
   Kehti thi yeh maan khoon bhari mayyat se lipat kar

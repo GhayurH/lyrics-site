@@ -1,15 +1,15 @@
 ---
 title: "کربلا منتظرِ ما است، بیا تا برویم"
-alternateTitle: "Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
+alternateTitle: "Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
+  - "Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
 cover: "/images/lyrics/karbala-muntazir-e-ma-ast-biya-ta-be-raweem.png"
-coverAlt: "Cover image for Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
+coverAlt: "Cover image for Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
 published: true
 romanLyrics: |-
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Raweem

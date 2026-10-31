@@ -1,15 +1,15 @@
 ---
 title: "میری مرقد بنا دینا"
-alternateTitle: "meri marqad bana lena"
+alternateTitle: "Meri Marqad Bana Lena"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "meri marqad bana lena"
+  - "Meri Marqad Bana Lena"
 cover: "/images/lyrics/meri-marqad-bana-lena.png"
-coverAlt: "Cover image for meri marqad bana lena"
+coverAlt: "Cover image for Meri Marqad Bana Lena"
 published: true
 romanLyrics: |-
   Aye bani asad walo

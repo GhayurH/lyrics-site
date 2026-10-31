@@ -1,15 +1,15 @@
 ---
 title: "حسینؑ الغریب الغریب الحسینؑ"
-alternateTitle: "hussain al ghareeb"
+alternateTitle: "Hussain Al Ghareeb"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 tags: []
 aliases:
-  - "hussain al ghareeb"
+  - "Hussain Al Ghareeb"
 cover: "/images/lyrics/hussain-al-ghareeb.png"
-coverAlt: "Cover image for hussain al ghareeb"
+coverAlt: "Cover image for Hussain Al Ghareeb"
 published: true
 romanLyrics: |-
   Husain al-ghareeb al-ghareeb al-Husain

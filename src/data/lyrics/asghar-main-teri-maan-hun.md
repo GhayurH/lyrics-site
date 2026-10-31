@@ -1,15 +1,15 @@
 ---
 title: "اصغر میں تیری ماں ہوں"
-alternateTitle: "asghar main teri maan hun"
+alternateTitle: "Asghar Main Teri Maan Hun"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "asghar main teri maan hun"
+  - "Asghar Main Teri Maan Hun"
 cover: "/images/lyrics/asghar-main-teri-maan-hun.png"
-coverAlt: "Cover image for asghar main teri maan hun"
+coverAlt: "Cover image for Asghar Main Teri Maan Hun"
 published: true
 romanLyrics: |-
   aajao chand mere

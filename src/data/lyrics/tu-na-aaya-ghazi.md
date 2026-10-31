@@ -1,15 +1,15 @@
 ---
 title: "جب ردا سر سے چھنی میں سدا دیتی رہی"
-alternateTitle: "tu na aaya ghazi"
+alternateTitle: "Tu Na Aaya Ghazi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "tu na aaya ghazi"
+  - "Tu Na Aaya Ghazi"
 cover: "/images/lyrics/tu-na-aaya-ghazi.png"
-coverAlt: "Cover image for tu na aaya ghazi"
+coverAlt: "Cover image for Tu Na Aaya Ghazi"
 published: true
 romanLyrics: |-
   jab rida sar se chini mai sada deti rahi

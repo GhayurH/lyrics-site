@@ -1,15 +1,15 @@
 ---
 title: "یہ خط میں شاہؑ نے لکھا حبیب آجاؤ"
-alternateTitle: "Ye khat mein Shah ne likha, Habib aajaao"
+alternateTitle: "Ye Khat Mein Shah Ne Likha, Habib Aajaao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Ye khat mein Shah ne likha, Habib aajaao"
+  - "Ye Khat Mein Shah Ne Likha, Habib Aajaao"
 cover: "/images/lyrics/ye-khat-mein-shah-ne-likha-habib-aajaao.png"
-coverAlt: "Cover image for Ye khat mein Shah ne likha, Habib aajaao"
+coverAlt: "Cover image for Ye Khat Mein Shah Ne Likha, Habib Aajaao"
 published: true
 romanLyrics: |-
   Ye khat mein Shah ne likha, Habib aajaao

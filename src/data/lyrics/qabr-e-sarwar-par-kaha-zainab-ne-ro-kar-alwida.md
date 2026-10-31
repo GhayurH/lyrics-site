@@ -1,15 +1,15 @@
 ---
 title: "قبرِ سرور پر کہا زینب نے رو کر، الوداع"
-alternateTitle: "Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+alternateTitle: "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+  - "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 cover: "/images/lyrics/qabr-e-sarwar-par-kaha-zainab-ne-ro-kar-alwida.png"
-coverAlt: "Cover image for Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+coverAlt: "Cover image for Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 published: true
 romanLyrics: |-
   Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar, Alwida

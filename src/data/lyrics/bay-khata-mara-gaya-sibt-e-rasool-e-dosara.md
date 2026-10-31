@@ -1,13 +1,13 @@
 ---
 title: "بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا"
-alternateTitle: "Bekhata Mara Gaya Sibt-e-Rasool-e-Dosara, Wa Hasan-e-Sabz Qaba"
+alternateTitle: "Bekhata Mara Gaya Sibt-E-Rasool-E-Dosara, Wa Hasan-E-Sabz Qaba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Bay Khata Mara Gaya Sibt-e-Rasool-e-Dosara, Wa Hasan-e-Sabz Qaba"
+  - "Bay Khata Mara Gaya Sibt-E-Rasool-E-Dosara, Wa Hasan-E-Sabz Qaba"
 cover: "/images/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.png"
 coverAlt: "Cover image for Bay Khata Mara Gaya Sibt-e-Rasool Dusra Wa Hasan-e-Sabz Qaba"
 published: true

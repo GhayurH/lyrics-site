@@ -1,15 +1,15 @@
 ---
 title: "وہ خون رو کے یہ کہتا رہا زمانے سے"
-alternateTitle: "Wo khoon ro ke"
+alternateTitle: "Wo Khoon Ro Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Wo khoon ro ke"
+  - "Wo Khoon Ro Ke"
 cover: "/images/lyrics/wo-khoon-ro-ke.png"
-coverAlt: "Cover image for Wo khoon ro ke"
+coverAlt: "Cover image for Wo Khoon Ro Ke"
 published: true
 romanLyrics: |-
   Wo khoon ro kay kehta raha zamanay say

@@ -1,13 +1,13 @@
 ---
 title: "چلے آؤ اے ابنِ مشکل کشا"
-alternateTitle: "Chale aao aye ibn e mushkil kusha"
+alternateTitle: "Chale Aao Aye Ibn E Mushkil Kusha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "munajat imam e zamana"
+  - "Munajat Imam E Zamana"
 cover: "/images/lyrics/munajat-imam-e-zamana.png"
 coverAlt: "Cover image for munajat imam e zamana"
 published: true

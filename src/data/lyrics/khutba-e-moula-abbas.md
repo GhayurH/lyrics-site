@@ -1,15 +1,15 @@
 ---
 title: "کہیں حرمت خدا کے گھر کی نہ پامال ہوجائے"
-alternateTitle: "Khutba e Moula Abbas"
+alternateTitle: "Khutba E Moula Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Khutba e Moula Abbas"
+  - "Khutba E Moula Abbas"
 cover: "/images/lyrics/khutba-e-moula-abbas.png"
-coverAlt: "Cover image for Khutba e Moula Abbas"
+coverAlt: "Cover image for Khutba E Moula Abbas"
 published: true
 romanLyrics: |-
   1

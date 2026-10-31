@@ -1,13 +1,13 @@
 ---
 title: "کربلا ہو چکی تیار، تقدم ولدی"
-alternateTitle: "Karbala ho chuki tayyar, taqaddam waladi"
+alternateTitle: "Karbala Ho Chuki Tayyar, Taqaddam Waladi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 tags: []
 aliases:
-  - "taqaddam waladi"
+  - "Taqaddam Waladi"
 cover: "/images/lyrics/taqaddam-waladi.png"
 coverAlt: "Cover image for taqaddam waladi"
 published: true

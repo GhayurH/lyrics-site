@@ -1,15 +1,15 @@
 ---
 title: "رہائی قید سے زینبؑ کو جب ملی ہوگی"
-alternateTitle: "Rihayi qaid se Zainab ko jab mili ho gi"
+alternateTitle: "Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Rihayi qaid se Zainab ko jab mili ho gi"
+  - "Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 cover: "/images/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-ho-gi.png"
-coverAlt: "Cover image for Rihayi qaid se Zainab ko jab mili ho gi"
+coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 published: true
 romanLyrics: |-
   Rihayi qaid se Zainab ko jab mili ho gi

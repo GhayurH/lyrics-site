@@ -1,15 +1,15 @@
 ---
 title: "جرات کے قبیلے کا سردار علی مولا"
-alternateTitle: "Jurrat ke qabile ka sardar ali mola"
+alternateTitle: "Jurrat Ke Qabile Ka Sardar Ali Mola"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Jurrat ke qabile ka sardar ali mola"
+  - "Jurrat Ke Qabile Ka Sardar Ali Mola"
 cover: "/images/lyrics/jurrat-ke-qabile-ka-sardar-ali-mola.png"
-coverAlt: "Cover image for Jurrat ke qabile ka sardar ali mola"
+coverAlt: "Cover image for Jurrat Ke Qabile Ka Sardar Ali Mola"
 published: true
 romanLyrics: |-
   Jurrat ke qabeelay ka sardar Ali Maula

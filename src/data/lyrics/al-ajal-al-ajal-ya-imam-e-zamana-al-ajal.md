@@ -7,7 +7,7 @@ direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Al-Ajal Al-Ajal Ya Imam-e-Zamana Al-Ajal"
+  - "Al-Ajal Al-Ajal Ya Imam-E-Zamana Al-Ajal"
 cover: "/images/lyrics/al-ajal-al-ajal-ya-imam-e-zamana-al-ajal.png"
 coverAlt: "Cover image for Gar Ho Meri Hayaat Mere Ikhteyar Mein"
 published: true
