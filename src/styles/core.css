@@ -244,7 +244,7 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 .theme-fonts label { display: grid; grid-template-columns: minmax(0, 1fr); gap: .3rem; font-size: .85rem; font-weight: 650; }
 .theme-fonts select { min-width: 0; width: 100%; min-height: var(--ui-target); padding: .45rem .65rem; font: inherit; font-weight: 400; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); color: var(--primary-text); }
 /* Compare font choices without affecting the interface typography. */
-.theme-fonts .theme-font-preview { margin: 0; min-width: 0; overflow-wrap: anywhere; border: var(--ui-border); border-radius: var(--ui-radius); padding: .3rem .75rem; background: var(--site-background); color: var(--primary-text); }
+.theme-fonts .theme-font-preview { margin: 0; min-width: 0; overflow-wrap: anywhere; border: var(--ui-border); border-radius: var(--ui-radius); padding: .3rem .75rem; background: var(--surface-background); color: var(--primary-text); }
 #theme-urdu-preview { font-family: var(--font-urdu); font-size: 1.3rem; line-height: 2.5; text-align: center; }
 #theme-roman-preview { font-family: var(--font-roman); font-size: 1rem; line-height: 1.7; text-align: center; }
 .theme-fonts .theme-font-note { margin: .1rem 0 0; color: var(--secondary-text); font-size: .78rem; line-height: 1.5; }
@@ -313,6 +313,15 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
     visibility: hidden;
     pointer-events: none;
   }
+}
+
+/* Between phone and desktop widths, fit the navigation without a second row. */
+@media (min-width: 701px) and (max-width: 960px) {
+  .header-inner { gap: .5rem; padding: .65rem .8rem; }
+  .site-title { font-size: 1.05rem; white-space: nowrap; }
+  .header-actions { gap: .5rem; min-width: 0; }
+  .site-header nav { gap: .15rem; }
+  .site-header nav a { padding: .3rem .3rem; font-size: .85rem; white-space: nowrap; }
 }
 
 @media (max-width: 700px) {

@@ -441,4 +441,6 @@ test("font choices preview without changing navigation or overflowing a phone @s
   await page.locator("#theme-dialog-done").click();
   await page.goto("/basta/138/");
   await expect(page.locator("html")).toHaveAttribute("data-roman-font", "lora");
+  await page.setViewportSize({ width: 760, height: 420 });
+  await expect.poll(() => page.locator(".site-header").evaluate((node) => node.scrollWidth - node.clientWidth)).toBeLessThanOrEqual(2);
 });
