@@ -417,3 +417,27 @@ test("Urdu font families are available as bundled web fonts @smoke", async ({ pa
   await expect.poll(() => page.locator(".basta-urdu-text").first().evaluate((node) =>
     getComputedStyle(node).fontFamily)).toContain("Beaconhouse Nastaliq");
 });
+
+
+test("font choices preview without changing navigation or overflowing a phone @smoke", async ({ page }) => {
+  await page.addInitScript(() => localStorage.setItem("kalam:reading-fonts", JSON.stringify({ urdu: "gulzar", roman: "system" })));
+  await page.setViewportSize({ width: 320, height: 640 });
+  await page.goto("/");
+  await page.locator("#theme-toggle").click();
+  const dialog = page.locator("#theme-dialog");
+  const roman = dialog.locator("#theme-roman-font");
+  await expect(roman).toHaveValue("sans");
+  await expect(roman.locator("option")).toHaveCount(6);
+  await expect(dialog.locator("#theme-urdu-font")).toHaveValue("gulzar");
+  await roman.selectOption("lora");
+  await expect.poll(() => dialog.locator("#theme-roman-preview").evaluate((node) => getComputedStyle(node).fontFamily)).toContain("Lora");
+  await expect.poll(() => page.locator(".site-title").evaluate((node) => getComputedStyle(node).fontFamily)).not.toContain("Lora");
+  const box = await dialog.boundingBox();
+  expect(box).toBeTruthy();
+  expect(box.x).toBeGreaterThanOrEqual(0);
+  expect(box.x + box.width).toBeLessThanOrEqual(322);
+  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+  await page.locator("#theme-dialog-done").click();
+  await page.goto("/basta/138/");
+  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "lora");
+});
