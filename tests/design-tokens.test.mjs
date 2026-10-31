@@ -104,8 +104,10 @@ test("feature-page widths and shared component radii come from semantic tokens",
     assert.doesNotMatch(source, /border-radius:\s*0?\.(?:55|75)rem\b/,
       file + " should use a shared component radius");
   }
-  for (const file of ["about.css", "basta.css", "saved.css", "search.css"])
+  for (const file of ["basta.css", "saved.css", "search.css"])
     assert.match(css[file], /var\(--content-feature\)/);
+  // About is deliberately narrower for two-language reading and contact copy.
+  assert.match(css["about.css"], /\.about-page\s*\{\s*max-width:\s*var\(--content-intro\)/);
   assert.match(css["basta.css"], /var\(--reading-scan-width\)/);
   assert.match(css["core.css"], /var\(--preset-amoled-main\)/);
   assert.match(tokens, /--button-background:\s*var\(--accent-color\)/);

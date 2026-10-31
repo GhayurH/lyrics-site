@@ -185,7 +185,7 @@ test("local recitation ordering and duplication", async ({ page }) => {
   await add.first().click();
   await add.nth(1).click();
   await expect(page.locator("#recite-sequence li")).toHaveCount(2);
-  await page.locator("#recite-sequence li").nth(1).getByRole("button",{name:"↑"}).click();
+  await page.locator("#recite-sequence li").nth(1).getByRole("button", { name: /^Move .* up$/ }).click();
   await expect(page.locator("#recite-sequence li")).toHaveCount(2);
   await page.locator("#recite-duplicate").click();
   await expect(page.locator("#recite-sequence li")).toHaveCount(2);

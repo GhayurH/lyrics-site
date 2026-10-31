@@ -424,7 +424,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 .basta-index-entry-number,
 .basta-index-table th:first-child,
 .basta-index-target-page {
-  font-family: Inter, system-ui, sans-serif;
+  font-family: var(--font-ui);
   font-variant-numeric: tabular-nums;
   text-align: center !important;
 }

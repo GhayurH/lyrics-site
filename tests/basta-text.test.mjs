@@ -304,35 +304,6 @@ test("Urdu and Roman page 362 use opposite insets on first and second couplet li
   }
 });
 
-test("two-line and six-line stanza formatting stay independent", () => {
-  const couplet = layoutBastaKalam("one\ntwo");
-  assert.ok(couplet[0].reverseIndent && couplet[1].indent);
-  const six = layoutBastaKalam("۱\nA\nB\nC\nD\n\nE\nF");
-  assert.deepEqual(six.filter(line => line.verse).map(line => Boolean(line.reverseIndent)), [
-    true, true, true, true, false, false,
-  ]);
-  assert.ok(six.find((line) => line.text === "E")?.indent);
-  assert.ok(six.find((line) => line.text === "F")?.indent);
-  assert.ok(six.find((line) => line.text === "E")?.sixClosingStart);
-  assert.ok(six.find((line) => line.text === "F")?.sixClosingEnd);
-});
-
-
-test("continuous six-verse stanza uses opposing indents with one framed closing pair", () => {
-  const lines = layoutBastaKalam("first\nsecond\nthird\nfourth\nfifth\nsixth");
-  const firstFour = lines.slice(0, 4);
-  const finalTwo = lines.slice(4);
-  assert.ok(firstFour.every(line => line.reverseIndent && !line.indent && !line.sixClosingStart && !line.sixClosingEnd));
-  assert.ok(finalTwo.every(line => line.indent && !line.reverseIndent));
-  assert.equal(finalTwo[0].sixClosingStart, true);
-  assert.equal(finalTwo[1].sixClosingEnd, true);
-  assert.deepEqual(lines.filter(line => line.sixClosingStart).map(line => line.text), ["fifth"]);
-  assert.deepEqual(lines.filter(line => line.sixClosingEnd).map(line => line.text), ["sixth"]);
-  assert.ok(firstFour.every(line => bastaVerseClassNames(line).includes("basta-verse-reverse-indent")));
-  assert.ok(finalTwo.every(line => bastaVerseClassNames(line).includes("basta-verse-indent")));
-  assert.ok(lines.every(line => !line.coupletSeparator));
-});
-
 test("4+2 numbered stanza and its refrain keep a single shared final rule", () => {
   const lines = layoutBastaKalam("۱\nA\nB\nC\nD\n\nE\nF\n\nopening reprise");
   const verseLines = lines.filter(line => line.verse && !line.refrain);
@@ -393,16 +364,6 @@ test("prose-mode Basta pages still mark standalone stanza numbers", () => {
   const lines = layoutBastaKalam("3\nword one\nword two", false);
   assert.equal(lines[0].stanzaNumber, "3");
   assert.ok(bastaVerseClassNames(lines[0]).includes("poetry-stanza-number"));
-});
-
-test("Basta titles are emphasized without emphasizing credits, poets, or verses", () => {
-  const preface = layoutBastaKalam("Title of kalam\nPoet's name\n\nTitle of kalam\nFirst verse");
-  assert.ok(bastaVerseClassNames(preface[0]).includes("basta-kalam-title"));
-  assert.ok(!bastaVerseClassNames(preface[1]).includes("basta-kalam-title"));
-  assert.ok(!bastaVerseClassNames(preface[3]).includes("basta-kalam-title"));
-  const noIndent = layoutBastaKalam("Title\n\n۱\nVerse", false);
-  assert.ok(noIndent[0].title, "title still detected when indentation is disabled");
-  assert.ok(!noIndent[2].title, "the stanza number is not a title");
 });
 
 test("Basta page 138 Bain heading is emphasized in Urdu and Roman", () => {

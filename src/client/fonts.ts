@@ -1,28 +1,27 @@
 // Reader font options are centralized and allowlisted; user settings never become arbitrary CSS.
 export const FONT_STORAGE_KEY = "kalam:reading-fonts";
 export const FONT_CHOICES = {
+  // Alphabetical display order; stable values preserve saved reader settings.
   urdu: [
-    { value: "nastaliq", label: "Noto Nastaliq Urdu" },
-    { value: "naskh", label: "Noto Naskh Arabic" },
-    { value: "lateef", label: "Lateef" },
-    // This font's licence disallows redistribution: use only the reader's
-    // locally installed copy, with a bundled Nastaliq fallback.
-    { value: "alvi", label: "Alvi Nastaleeq (installed only)" },
-    { value: "gulzar", label: "Gulzar" },
-    { value: "scheherazade", label: "Scheherazade New" },
+    // Alvi is only used when installed; its licence prohibits redistribution.
+    { value: "alvi", label: "Alvi Nastaleeq" },
     { value: "amiri", label: "Amiri" },
-    { value: "markazi", label: "Markazi Text" },
-    { value: "noto-sans-arabic", label: "Noto Sans Arabic" },
     { value: "beaconhouse", label: "Beaconhouse Nastaliq" },
+    { value: "gulzar", label: "Gulzar" },
+    { value: "lateef", label: "Lateef" },
+    { value: "markazi", label: "Markazi Text" },
+    { value: "naskh", label: "Noto Naskh Arabic" },
+    { value: "nastaliq", label: "Noto Nastaliq Urdu" },
+    { value: "noto-sans-arabic", label: "Noto Sans Arabic" },
+    { value: "scheherazade", label: "Scheherazade New" },
   ],
   roman: [
-    { value: "sans", label: "Inter / system sans-serif (default)" },
-    { value: "system", label: "System sans-serif" },
-    { value: "serif", label: "Georgia (serif)" },
+    { value: "sans", label: "Default" },
+    { value: "serif", label: "Georgia" },
+    { value: "lora", label: "Lora" },
+    { value: "merriweather", label: "Merriweather" },
     { value: "open-sans", label: "Open Sans" },
     { value: "source-sans", label: "Source Sans 3" },
-    { value: "lora", label: "Lora (serif)" },
-    { value: "merriweather", label: "Merriweather (serif)" },
   ],
 } as const;
 export type FontPreferences = {
@@ -36,11 +35,13 @@ export function parseFontPreferences(value: unknown): FontPreferences {
     ? value as Record<string, unknown> : {};
   const validUrdu = (candidate: unknown): candidate is FontPreferences["urdu"] =>
     FONT_CHOICES.urdu.some((option) => option.value === candidate);
+  // The old "system" option was identical to the default. Migrate its saved value.
+  const roman = data.roman === "system" ? "sans" : data.roman;
   const validRoman = (candidate: unknown): candidate is FontPreferences["roman"] =>
     FONT_CHOICES.roman.some((option) => option.value === candidate);
   return {
     urdu: validUrdu(data.urdu) ? data.urdu : DEFAULT_FONTS.urdu,
-    roman: validRoman(data.roman) ? data.roman : DEFAULT_FONTS.roman,
+    roman: validRoman(roman) ? roman : DEFAULT_FONTS.roman,
   };
 }
 

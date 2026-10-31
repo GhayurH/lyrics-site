@@ -69,12 +69,6 @@ test("desktop readers keep their complete controls visible", async ({ page }) =>
   await expect(controls.locator(".reading-page-jump")).toBeVisible();
 });
 
-test("short desktop viewports also retain floating controls", async ({ page }) => {
-  await page.setViewportSize({ width: 1100, height: 550 });
-  await page.goto("/basta/read/");
-  await expect(page.locator("[data-reading-controls]")).toHaveCSS("position", "sticky");
-});
-
 test("site header hides on downward scrolling and returns on upward scrolling", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/200/");
@@ -108,6 +102,9 @@ test("the open mobile navigation never hides during scrolling", async ({ page })
 });
 
 test("desktop reading controls float as the site header hides and returns @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1100, height: 550 });
+  await page.goto("/basta/read/");
+  await expect(page.locator("[data-reading-controls]")).toHaveCSS("position", "sticky");
   await page.setViewportSize({ width: 1280, height: 820 });
   await page.goto("/basta/read/");
   const header = page.locator(".site-header");

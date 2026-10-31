@@ -60,6 +60,13 @@ export function initReadingControls(): void {
   };
   regularToggle?.addEventListener("click", () =>
     setRegularOptionsOpen(controls.dataset.regularOptionsOpen !== "true"));
+  // Close the compact menu on an outside tap, so it cannot obscure reading.
+  document.addEventListener("pointerdown", (event) => {
+    if (controls.dataset.regularOptionsOpen === "true" &&
+        event.target instanceof Node && !controls.contains(event.target)) {
+      setRegularOptionsOpen(false);
+    }
+  });
   controls.addEventListener("keydown", (event) => {
     if (event.key === "Escape" && controls.dataset.regularOptionsOpen === "true"
         && document.documentElement.dataset.readingFocus !== "true") {

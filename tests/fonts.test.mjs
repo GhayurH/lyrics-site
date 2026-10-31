@@ -11,20 +11,36 @@ test("font choices validate each language independently", () => {
   assert.deepEqual(parseFontPreferences({ urdu: "naskh", roman: "serif" }),
     { urdu: "naskh", roman: "serif" });
   assert.deepEqual(parseFontPreferences({ urdu: "unknown", roman: "system" }),
-    { urdu: "nastaliq", roman: "system" });
+    { urdu: "nastaliq", roman: "sans" });
   assert.deepEqual(parseFontPreferences({ urdu: "serif; color:red", roman: "url(evil)" }), DEFAULT_FONTS);
   assert.deepEqual(parseFontPreferences(["naskh", "serif"]), DEFAULT_FONTS);
-  assert.deepEqual(FONT_CHOICES.urdu.map((item) => item.value), [
-    "nastaliq", "naskh", "lateef", "alvi", "gulzar", "scheherazade",
-    "amiri", "markazi", "noto-sans-arabic", "beaconhouse",
-  ]);
-  assert.deepEqual(FONT_CHOICES.roman.map((item) => item.value),
-    ["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"]);
-  for (const urdu of ["nastaliq", "naskh", "lateef", "alvi", "gulzar", "scheherazade", "amiri", "markazi", "noto-sans-arabic", "beaconhouse"]) {
-    for (const roman of ["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"]) {
+  for (const { value: urdu } of FONT_CHOICES.urdu) {
+    for (const { value: roman } of FONT_CHOICES.roman) {
       assert.deepEqual(parseFontPreferences({ urdu, roman }), { urdu, roman });
     }
   }
+});
+
+test("font menus have unique values and plain labels; saved defaults migrate", () => {
+  for (const list of Object.values(FONT_CHOICES)) {
+    assert.equal(new Set(list.map(({ value }) => value)).size, list.length);
+    assert.equal(new Set(list.map(({ label }) => label.toLowerCase())).size, list.length);
+    const labels = list.map(({ label }) => label);
+    assert.deepEqual(labels, [...labels].sort((a, b) =>
+      a.localeCompare(b, "en", { sensitivity: "base" })),
+      "font menus must stay alphabetical");
+  }
+  assert.equal(parseFontPreferences({ roman: "system" }).roman, "sans");
+});
+
+test("early font restoration shares the menu allowlist", async () => {
+  const { readFile } = await import("node:fs/promises");
+  const layout = await readFile("src/layouts/BaseLayout.astro", "utf8");
+  assert.match(layout, /fontOptions:\s*\{/);
+  assert.match(layout, /FONT_CHOICES\.urdu\.map/);
+  assert.match(layout, /FONT_CHOICES\.roman\.map/);
+  assert.match(layout, /fontOptions\.urdu\.includes/);
+  assert.match(layout, /fontOptions\.roman\.includes/);
 });
 
 test("Beaconhouse font and redistribution licence remain together", async () => {

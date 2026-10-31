@@ -83,16 +83,6 @@ test("homepage search passes the entered term to archive search", async ({ page 
   await expect(page.locator("pagefind-input")).toBeAttached();
 });
 
-test("Basta landing offers a contextual resume link after reading", async ({ page }) => {
-  await page.goto("/basta/");
-  await expect(page.locator(".basta-home-resume")).toBeHidden();
-  await page.goto("/basta/138/");
-  await page.goto("/basta/");
-  await expect(page.locator(".basta-home-resume")).toBeVisible();
-  await expect(page.locator(".basta-home-resume")).toHaveAttribute("href", /\/basta\/138\//);
-});
-
-
 test("Basta landing prioritizes the saved reading position without duplicating entry buttons", async ({ page }) => {
   await page.goto("/basta/");
   await expect(page.locator(".basta-home-mode-card")).toHaveCount(2);
@@ -104,6 +94,7 @@ test("Basta landing prioritizes the saved reading position without duplicating e
   const modes = await page.locator(".basta-home-mode-grid").boundingBox();
   expect(resume.y + resume.height).toBeLessThan(modes.y);
   await expect(page.locator(".basta-home-resume")).toContainText("page 138");
+  await expect(page.locator(".basta-home-resume")).toHaveAttribute("href", /\/basta\/138\//);
 });
 
 test("Basta page jump stays on one row on small screens", async ({ page }) => {
@@ -135,14 +126,6 @@ test("both landing pages display the book cover", async ({ page }) => {
   await expect(page.locator(".basta-home-scan img")).toHaveAttribute("src", "/images/basta/original/000.jpg");
   await expect(page.locator(".basta-home-scan img")).toHaveAttribute("alt", "Basta book cover");
   await expect(page.locator(".basta-home-scan-caption")).toHaveText("Original book cover");
-});
-
-test("Saved page contains browser-local Basta and programme libraries", async ({ page }) => {
-  await page.goto("/saved/");
-  await expect(page.locator("#basta-bookmarks-heading")).toBeAttached();
-  await expect(page.locator("#recitation-drafts-heading")).toBeAttached();
-  await expect(page.locator("#basta-bookmarks-heading")).toBeHidden();
-  await expect(page.locator("#recitation-drafts-heading")).toBeHidden();
 });
 
 test("Basta bookmarks can be saved, revisited and removed from the Saved page", async ({ page }) => {
@@ -219,6 +202,9 @@ test("saved library has a separate kalam/stanza bookmark section", async ({ page
   await page.goto("/saved/");
   await expect(page.locator("#basta-selections-heading")).toBeAttached();
   await expect(page.locator("#basta-selections-heading")).toBeHidden();
+  await expect(page.locator("#basta-bookmarks-heading")).toBeAttached();
+  await expect(page.locator("#recitation-drafts-heading")).toBeAttached();
+  await expect(page.locator("#recitation-drafts-heading")).toBeHidden();
   await expect(page.locator("#saved-overview-empty")).toBeVisible();
 });
 

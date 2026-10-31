@@ -89,7 +89,7 @@
 .basta-reader-page-number {
   margin: 1rem 0 .75rem;
   color: var(--secondary-text);
-  font-family: Inter, system-ui, sans-serif;
+  font-family: var(--font-ui);
   font-size: 0.9rem;
   font-variant-numeric: tabular-nums;
   line-height: 1;

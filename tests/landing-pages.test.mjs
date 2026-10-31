@@ -1,4 +1,4 @@
-// Navigation and discovery contracts for the two main landing pages.
+// Keep only source contracts that browser navigation tests do not cover.
 import { readFileSync } from "node:fs";
 import { test } from "node:test";
 import assert from "node:assert/strict";
@@ -6,43 +6,12 @@ import assert from "node:assert/strict";
 const home = readFileSync(new URL("../src/pages/index.astro", import.meta.url), "utf8");
 const basta = readFileSync(new URL("../src/pages/basta/index.astro", import.meta.url), "utf8");
 
-test("homepage search uses the existing query-parameter search route", () => {
-  assert.match(home, /<form[^>]+action="\/search\/"[^>]+method="get"/);
-  assert.match(home, /name="q"/);
-  assert.match(home, /type="submit">Search<\/button>/);
-});
-
-test("homepage lists every available Kalam Type without fixed sample lists", () => {
+test("homepage lists all discovered Kalam Types instead of a fixed preview", () => {
   assert.match(home, /kalamTypes\.map\(/);
   assert.match(home, /groupBastaIndexByKalamType/);
-  assert.match(home, /\/categories\//);
   assert.doesNotMatch(home, /HOME_PREVIEW_COUNT|<LyricList/);
 });
 
-test("Basta landing exposes readers, book index, page jump and original PDF", () => {
-  assert.match(basta, /\/basta\/read\//);
-  assert.match(basta, /\/basta\/index\//);
-  assert.match(basta, /data-basta-jump-form/);
+test("Basta retains a direct link to its complete original PDF", () => {
   assert.match(basta, /\/files\/basta\/basta\.pdf/);
-});
-
-test("both landing pages display the original book cover", () => {
-  for (const page of [home, basta]) {
-    assert.match(page, /\/images\/basta\/original\/000\.jpg/);
-  }
-  assert.doesNotMatch(basta, /basta-home-book|Digital book archive/);
-  assert.doesNotMatch(home, /home-basta-emblem/);
-});
-
-test("Basta page jump has a usable no-JavaScript alternative", () => {
-  assert.match(basta, /data-basta-jump-form/);
-  assert.match(basta, /data-requires-js/);
-  assert.match(basta, /Browse book index/);
-});
-
-test("both landings expose contextual, browser-local Basta continuation", () => {
-  assert.match(home, /id="home-continue"[^>]+hidden/);
-  assert.match(home, /initHomeContinue\(\)/);
-  assert.match(basta, /data-resume-basta[^>]+hidden/);
-  assert.match(basta, /initResumeBasta\(\)/);
 });
