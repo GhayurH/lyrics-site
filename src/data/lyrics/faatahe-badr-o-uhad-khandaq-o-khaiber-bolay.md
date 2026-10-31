@@ -13,7 +13,7 @@ coverAlt: "Cover image for Faatahe Badr-O-Uhad Khandaq O Khaiber Bolay"
 published: true
 romanLyrics: |-
   1
-  Faatah-e-badr-o-Uhad, khandaq o khaibar bolay
+  Faatahe Badr o Uhad, Khandaq o khaibar bolay
   Fard hai eik zamana isay lashkar bolay
   
   2

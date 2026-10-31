@@ -1,5 +1,5 @@
 ---
-title: "جب ردا سر سے چھنی میں سدا دیتی رہی"
+title: "تُو نہ آیا غازی"
 alternateTitle: "Tu Na Aaya Ghazi"
 language: "Urdu"
 lang: "ur"

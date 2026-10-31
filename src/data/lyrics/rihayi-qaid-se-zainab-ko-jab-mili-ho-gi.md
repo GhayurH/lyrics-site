@@ -13,89 +13,30 @@ coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 published: true
 romanLyrics: |-
   Rihayi qaid se Zainab ko jab mili ho gi
-  Bina Hussain kay woh kaisay ghar gaye hoo gaye
+  Bina Hussain kay woh kaisay ghar gayi ho gi
 
   1
   Aye Nana Tere Nawase ko teri ummat ne
-  Dafan kiya hai na uryian hi ban mein chor diya
-
-  Hussain Ya Hussain,
-  Hussain Badshah, Hussain shahenshah
-  Hussain deen hai, Hussain dein pannah,
-  Shaheed-e-karbala, Zabihay nainwa,
-  Bay zuram-o-bay khata, Hay tayra ghar luta
-  Hussain Ya Hussain Ya Hussain Ya Hussain
-
   Dafan kiya hai na uryian hi ban mein chor diya
   Batoolzadi yehi baat sochti ho gi
 
   2
   Lutien thi dasht mein jo chadarien Saydaniyoon ki
   lotayein Abid-e-Beemar ko layeenoon nay
-
-  Sajjad haaye Sajjad
-  Beemar-e-karbala, Aseer-e-baykhata
-  tumhara qafla, jo tha luta howa
-  pahan kay bayriyaan, jidhar bhi tu gaya
-  woh raasta jo tha laho laho howa
-  na jaanay kis tarhaan, yeh tu nay seh liya
-  woh Zainab-e-hazeen, ka sar khula howa
-  phir is kay baad tu, hai jab talak jiya
-  tumhari aankh say, sada hai khoon baha
-  Sajjad haaye Sajjad haaye Sajjad haaye Sajjad!
-
-  lotayein Abid-e-Beemar ko layeenoon nay
   Ali ki Laadli hasrat say daykhti ho gi
 
   3
   Woh chay maah kay bachay ko teer maara tha
   Woh Sheer khawar ka laasha sina pay aaya tha
-
-  Sagheer Haaye Sagheer
-  Sagheer-e-Karbala, Aye Kushta-e-jaffa
-  kisi ki dushmani, hai tum say kiya bhala
-  tumhara sin abhi, nahin hai jang ka
-  qaza ka teer hai, badast-e-hurmala
-  tumhara phool say, bhi narm hay gala
-  Rubab kis tarhaan, karay gi hosla
-  Khudara hosla, na maa ka aazma
-  Hussain per yehi, to waqt hai karra
-  laho Sagheer ka, moh pe mal liya
-  Sagheer Haaye Sagheer Haaye Sagheer Haaye Sagheer!
-
-  Woh Sheer khawar ka laasha seenay pay laaya tha
   Batool lahad mein moh apna peet-ti ho gi
 
   4
   Paray thay Laashay jawaanoon kay dasht-e-Karbal mein
   para tha Ghazi ka laasha bagheer shanoon kay
-
-  Abbas Haaye Abbas
-  Abbas bawafa, Abbas basafa
-  hay tu pala howa, Ali ki goud ka
-  Abbas Moajazza, hai tu Batool ka
-  Abbas ek naya, hai pesh marhala
-  Hai Zainab bayrida, safar hai Sham ka
-  Hain Shami bay haya, Wa Museebata!
-  Abbas Haaye Abbas Haaye Abbas Haaye Abbas!
-
-  para tha Ghazi ka Laasha bagheer shanoon kay
   Jawan bhai kay shanoon ko dhondhti ho gi
 
   5
   Gaya jo qafla maqtal mein Aale-Ahmed ka
-  Veeraan dasht mein har Bibi apnay pyaron ko
-
-  Jawan haaye jawaan,
-  Shabih-e-Mustafa, Wazir-e-Murtaza
-  Athara saal tak, tu burqay mein palla
-  Phuphi nay naaaz say, tujhay jawaan kiya
-  Khuda kay waastay, Abhi na ran mein ja
-  Hussain kis tarhaan, yeh daykh paayay ga
-  Jawaan ka jigar, sina ka totna
-  Hai tayra rasta
-  Jawan haaye jawaan haaye jawaan haaye jawaan!
-
   Veeraan dasht mein har Bibi apnay pyaron ko
   Karakti Dhoop mein ro ro kay dhundti ho gi
 

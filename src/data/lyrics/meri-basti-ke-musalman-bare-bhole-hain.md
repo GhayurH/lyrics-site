@@ -1,5 +1,5 @@
 ---
-title: "حق کے باتوں سے ہیں انجان، بڑے بھولے ہیں"
+title: "میری بستی کے مسلمان بڑے بھولے ہیں"
 alternateTitle: "Meri Basti Ke Musalman Bare Bhole Hain"
 language: "Urdu"
 lang: "ur"

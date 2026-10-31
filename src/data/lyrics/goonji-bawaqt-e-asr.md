@@ -12,8 +12,8 @@ cover: "/images/lyrics/goonji-bawaqt-e-asr.png"
 coverAlt: "Cover image for Goonji bawaqt e asr"
 published: true
 romanLyrics: |-
-  Goonji bawaqt e asr sada main Hussain hoon
-  Kaato na mera khushk gala main Hussain hoon
+  Goonji bawaqt e asr sada, main Hussain hoon
+  Kaato na mera khushk gala, main Hussain hoon
   
   1
   Amma kisi ne pani ki ek boondh bhi na di
@@ -44,11 +44,8 @@ romanLyrics: |-
   Awaaz aa rahi hai Raza main Hussain hoon
 ---
 
-گونجی بوقتِ عصر صدا
-میں حسین ہوں
-
-کاٹو نہ میرا خشک گلا
-میں حسین ہوں
+گونجی بوقتِ عصر صدا، میں حسین ہوں
+کاٹو نہ میرا خشک گلا، میں حسین ہوں
 
 ۱
 اماں کسی نے پانی کی اک بوند بھی نہ دی

@@ -19,7 +19,7 @@ romanLyrics: |-
   Sabz Patton Mein Pholon Ki Lali Mein Tu
   Khoshay Khoshay Mein Tu, Bali Bali Mein Tu
   Tehni Tehni Mein Tu, Dali Dali Mein Tu
-  Botay Botay Mein Gul, Gul Mein Bu, Bu Mein Tu
+  Butay Butay Mein Gul, Gul Mein Bu, Bu Mein Tu
   
   2
   Youn Tu Har Ik Nabi Tujh Se Mansoob Hai

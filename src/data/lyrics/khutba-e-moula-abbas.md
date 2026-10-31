@@ -1,5 +1,5 @@
 ---
-title: "کہیں حرمت خدا کے گھر کی نہ پامال ہوجائے"
+title: "خطبہ مولا عباس"
 alternateTitle: "Khutba E Moula Abbas"
 language: "Urdu"
 lang: "ur"
@@ -29,7 +29,7 @@ romanLyrics: |-
   Wirasat hai mere ajdaad ki… Shabbir ka ghar hai
 
   3
-  Aray o kafiron… roka hai jin ka raasta tumne
+  Aray o kafiron roka hai jin ka raasta tumne
   Hai inke qurbate nazdeektar Allah ke ghar se
   Agar maabood ki marzi nahi hoti to khud badh ke
   Ye hajr-e-Aswad kaaba mere Moula ke le bose

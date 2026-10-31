@@ -1,6 +1,6 @@
 ---
-title: "چھ ماہ کا مجاہد، سوئے میدان چلا ہے"
-alternateTitle: "Maan Dekh Rahi Hai"
+title: "چھ ماہ کا مجاہد، سوئے میدان چلا ہے، ماں دیکھ رہی ہے"
+alternateTitle: "Cheh mah ka mujahid, suwe maidaan chala hai, Maan dekh rahi hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,59 +12,53 @@ cover: "/images/lyrics/maan-dekh-rahi-hai.png"
 coverAlt: "Cover image for Maan Dekh Rahi Hai"
 published: true
 romanLyrics: |-
-  Cheh mah ka mujahid, suwe maidaan chala hai
-  Maa dekh rahi hai
-  
-  Chehra bara nazuk hai, bari garm hawa hai
-  Maa dekh rahi hai
+  Cheh mah ka mujahid, suwe maidaan chala hai, Maan dekh rahi hai
+  Chehra bara nazuk hai, bari garm hawa hai, Maan dekh rahi hai
   
   1
   Zalim tujhe is baat, ka ehsaas nahi hai
   Cheh mah ka bacha hai, ye Abbas nahi hai
   Kamsin ali asghar se tera teer bara hai
-  Maa dekh tahi hai
+  Maan dekh tahi hai
   
   2
   Ay behn tere samne baba ke hain haalaat
   Ab sham-e-ghareeban ko hi hoti hai mulaaqaat
   Mur mur ke Sakina ki taraf dekh raha hai
-  Maa dekh rahi hai
+  Maan dekh rahi hai
   
   3
   Hurmal ne kamaan khenchi toh larzi ye zameen hai
   Hai saamne bhayya, tabhi ye usko yaqeen hai
   Parda bari bechaini se khaime ka hata hai
-  Maa dekh rahi hai
+  Maan dekh rahi hai
   
   4
   Allah mere Allah ye duhaai hai duhaai
   Ummat ne Sayyada ki yun luti hai kamai
   Aik behen ne bhai ka lahu muh pe mala hai
-  Maa dekh rahi hai
+  Maan dekh rahi hai
   
   5
   Socha tha ke jee legi wo yaadon ke sahare
   Ummat ne jala daale hai armaan hi saare
   Asghar tera jhoola tmra kurta bhi jala hai
-  Maa dekh rahi hai
+  Maan dekh rahi hai
   
   6
   Hain Hajra Yaqoob Baraahim ke hamsar
   Sar chand se bete ka charha nok-e-sinan par
   Paband-e-rasan phul si beti ka gala hai
-  Maa dekh rahi hai
+  Maan dekh rahi hai
   
   7
   Imran mujhe quwat-e-tehreer nahi hai
   Kaise main likhu teer ke ye teer nahi hai
   Asghar ki taraf chal pari tezi se qaza hai
-  Maa dekh rahi hai
+  Maan dekh rahi hai
 ---
-چھ ماہ کا مجاہد، سوئے میدان چلا ہے
-ماں دیکھ رہی ہے
-
-چہرہ بڑا نازک ہے، بڑی گرْم ہوا ہے
-ماں دیکھ رہی ہے
+چھ ماہ کا مجاہد، سوئے میدان چلا ہے، ماں دیکھ رہی ہے
+چہرہ بڑا نازک ہے، بڑی گرْم ہوا ہے، ماں دیکھ رہی ہے
 
 ۱
 ظالم تجھے اس بات کا، احساس نہیں ہے

@@ -12,13 +12,13 @@ cover: "/images/lyrics/meri-marqad-bana-lena.png"
 coverAlt: "Cover image for Meri Marqad Bana Lena"
 published: true
 romanLyrics: |-
-  Aye bani asad walo
-  mera laasha utha lena
-  Aur kafan bhi pinha dena
+  Aye bani asad walo,
+  mera laasha utha lena,
+  Aur kafan bhi pinha dena,
   
-  Meri marqad bana dena
+  Meri marqad bana dena,
   Mera laasha utha lena,
-  meri marqad bana dena
+  meri marqad bana dena.
   
   1
   Mera akbar bhi qasim bhi abbas bhi
@@ -93,11 +93,13 @@ romanLyrics: |-
   Sheh ki marqad bana dena
 ---
 
-اے بنی اسد والوں، میرا لاشہ اٹھا لینا
-اور کفن بھی پنہا دینا
+اے بنی اسد والوں،
+میرا لاشہ اٹھا لینا،
+اور کفن بھی پنہا دینا،
 
-میری مرقد بنا دینا
-میرا لاشہ اٹھا لینا، میری مرقد بنا دینا
+میری مرقد بنا دینا،
+میرا لاشہ اٹھا لینا،
+میری مرقد بنا دینا.
 
 ۱
 میرا اکبر بھی قاسم بھی عباس بھی

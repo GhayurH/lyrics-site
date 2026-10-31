@@ -1,5 +1,5 @@
 ---
-title: "دو جہان میں ماتم ہے، رحلتِ خدیجہ سے"
+title: "ہائے خدیجة الکبریٰ"
 alternateTitle: "Haye Khadijatul Kubra"
 language: "Urdu"
 lang: "ur"
