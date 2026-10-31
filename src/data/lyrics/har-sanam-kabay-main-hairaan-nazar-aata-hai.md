@@ -13,32 +13,27 @@ coverAlt: "Cover image for Har sanam kabay main hairaan nazar aata hai"
 published: true
 romanLyrics: |-
   Har sanam kabay main hairaan nazar aata hai
-  
   kiya ise maut ka samaan nazar aata hai
   
   maan akeli thin Ali roye nahin kaabe mein
-  
   ghaar mein kis liye tufaan nazar aata hai
   
   Fatima bint-e-Asad se kaha Ka‘bay mein chalen
   Be-Ali ghar mera sunsaan nazar aata hai
   
   aaj haathon pe uthaye hain ali ko ahmad
-  
   yani quran pa quran nazar aata hai
   
   Mezban arsh pe ik roz yahi to hoga
   Aaj Ka‘bay mein jo mehman nazar aata hai
   
   naara-e-haideri maston ki zabaan se sunkar
-  
   maulvi sakht pareshaan nazar aata hai
   
   Fakhr-e-Adam se jo jalta hai to us par laanat
   Kab yeh insaan hai shaitan nazar aata hai
   
   jisne makkar siyasat ko diya din ka naam
-  
   khaandan-e-abu sufyan nazar aata hai
   
   Pa ke har bait ke badlay mein Asar bait-e-jinan

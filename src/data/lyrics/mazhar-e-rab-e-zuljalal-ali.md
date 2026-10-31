@@ -13,35 +13,27 @@ coverAlt: "Cover image for Mazhar e Rab e Zuljalal Ali"
 published: true
 romanLyrics: |-
   Mazhar e Rab e Zuljalal ALI
-  
   kibriyaayi ka hai kamaal ali
   
   Khana e Kaaba jhilmila utha
-  
   Dekh kr apka jamaal Ali
   
   Bola Din e khuda ye mushkil mein
-  
   Ghir raha hoon mujhay sambhal ALI
   
   Jis ka koi sawaal mil na ska
-  
   Hai khudai ka wo sawaal ali
   
   jab bhi socha khuda ke baare me
-  
   Aagayaa apka khayal ALI
   
   Gaa rahy hain wo geet ghairon ke
-  
   aur khaate hain tera maal ALI
   
   Pucha kisne azaan sikhlaiii
-  
   Bole ye hazrat e bilal ALI
   
   Aik abbas hain zamanay me
-  
   warna teri kahan misaal ALI
 ---
 

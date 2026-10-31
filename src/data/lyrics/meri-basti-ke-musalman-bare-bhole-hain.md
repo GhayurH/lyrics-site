@@ -13,47 +13,36 @@ coverAlt: "Cover image for meri basti ke musalman bare bhole hain"
 published: true
 romanLyrics: |-
   Haq ke baato se hain anjaan bare bhole hain
-  
   meri basti ke musalman bare bhole hain
   
   Hain tabbarre se pareshan bare bhole hain
-  
   Lanatien kyun Na Ho qurban bare bhole Hain
   
   Ghar se nikale thai kharidaar-e-Jannat ke liye
-  
   Bech kar aa gaye imaan bare bhole Hain
   
   Roz parhte Hain Magar ghaur nahi kar paate
-  
   Aaj ke Hafiz-e-Quran bare bhole hain
   
   Aey Khadija tere tukron pe ye palne wale
-  
   Arey bhool baithe tere ahsaan bare bhole hain
   
   Inko aashur ke faqe se nhi rabt koyi
-  
   Naam hai maulvi ramzan bare bhole hain
   
   bughz e haider mein suwe naar chale jaate hain
-  
   haye bechare musalmaan bare bhole hain
   
   mein likhun unka taarruf ye mere bas mein kahan
-  
   unki hai bas ye pehchan bare bhole hain
   
   Ghar mein khaliq ke saqifah ke Khalifa ki tarah
-  
   Yeh tarashe hue Bhagwan bare bhole hain
   
   nargha-e-kufr mein mehboob-e-khuda ko tanha
-  
   chor aaye sar-e-maidan bare bhole hain
   
   karke bethay hain gham-e-shah-e-huda ka sauda
-  
   are qaum-o-millat ke nighehbaan bare bhole hain
 ---
 

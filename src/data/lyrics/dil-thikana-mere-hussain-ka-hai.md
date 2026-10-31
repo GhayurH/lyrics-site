@@ -13,63 +13,48 @@ coverAlt: "Cover image for Dil Thikana mere Hussain ka hai"
 published: true
 romanLyrics: |-
   Dil Thikana mere Hussain ka hai
-  
   ye Khazana Mere Hussain ka hai
   
   Tum Jisay aasmaan samajhtay ho
-  
   Shamiyana Mere Hussain ka hai
   
   Koi Poochay ye daur kis ka hai
-  
   Tum batana Mere Hussain ka hai
   
   Jis ke Saaye Main Kaainaat bani
-  
   Aisa Nana Mere Hussain ka hai
   
   Ye jo Kaba hai Tum na Samjho gay
-  
   Ghar Poorana Mere Hussain ka hai
   
   Aana Farsh e Aza pe Be Parda
-  
   Dil Dukhana Mere Hussain ka hai
   
   Jis Jagah Hur Banaye Jatay hain
-  
   Karkhana Mere Hussain ka hai
   
   Ho Agar Munkir e Namaz Koi
-  
   Bhool jana Mere Hussain ka hai
   
   Dainey Wali Hai Zaat Allah Ki
-  
   Per Dilana Merey Hussain Ka Hai
   
   Maaray ek Sabar se Hazaar Uddoo
-  
   Kia Nishana Mere Hussain ka hai
   
   Ug Raha Hai Jo Baad-e-Karbobala
-  
   Wo Dana Dana Merey Hussain Ka Hai
   
   Matami jab Koi Nazar Aaye
-  
   Maan Jana Mere Hussain ka hai
   
   Kaash Kehney Lagey Ye Log Mujhey
-  
   Tu Deewana Merey Hussain Ka Hai
   
   Ye Jahan Kia hai Dono Aalam main
-  
   Aana Jaana Mere Hussain ka hai
   
   Mujh main Rehan ye Shaoor Jo Hai
-  
   Shairaana Mere Hussain ka hai
 ---
 
