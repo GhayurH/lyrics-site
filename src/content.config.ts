@@ -46,6 +46,8 @@ const lyrics = defineCollection({
     bastaPage: z.number().int().positive().optional(),
     bastaNote: z.enum(["original-selection", "additional-stanzas"]).optional(),
     romanLyrics: z.string().optional(),
+    // Per-poem alternate six-verse indentation (two + two + two).
+    sixVerseLayout: z.enum(["pairs"]).optional(),
   }),
 });
 

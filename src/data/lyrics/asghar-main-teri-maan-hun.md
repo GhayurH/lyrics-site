@@ -26,6 +26,7 @@ romanLyrics: |-
   jaane kyun hans raha hai
   chadar bhi lut chuki hai
   Mun kis tarha chupaun
+  Asghar Main Teri Maan Hun
   
   2
   tere jhoole ko sakina
@@ -33,6 +34,7 @@ romanLyrics: |-
   tujhe ghar may dhoondti hai
   teri maut ki khabar main
   kaise isay sunaun
+  Asghar Main Teri Maan Hun
   
   3
   meri jaan ja rahi hai
@@ -40,6 +42,7 @@ romanLyrics: |-
   is phool se galay par
   ye teer kaise jhayla
   Behno ko kya bataun
+  Asghar Main Teri Maan Hun
   
   4
   naize se gir raha hai
@@ -47,6 +50,7 @@ romanLyrics: |-
   dil rota hai hamara
   mere haath to bandhe hain
   sar kis tarha uthaun
+  Asghar Main Teri Maan Hun
   
   5
   jhoole ke saath beta
@@ -54,6 +58,7 @@ romanLyrics: |-
   zaalim bhi hans rahe hain
   teri aakhri nishani
   Kis tarha se bachaun
+  Asghar Main Teri Maan Hun
   
   6
   jab raat hogi ran mein
@@ -61,6 +66,7 @@ romanLyrics: |-
   darna nahi ay beta
   dadi kahengi tumse
   aa main tujhe sulaaun
+  Asghar Main Teri Maan Hun
   
   7
   tum raat ko hamesha
@@ -68,6 +74,7 @@ romanLyrics: |-
   ab neend aati hogi
   phir god may lita kar
   Nade ali sunaun
+  Asghar Main Teri Maan Hun
 ---
 
 آجاؤ چاند میرے
@@ -84,6 +91,7 @@ romanLyrics: |-
 جانے کیوں ہنس رہا ہے
 چادر بھی لٹ چکی ہے
 منہ کس طرح چھپاؤں
+اصغر میں تیری ماں ہوں
 
 ۲
 تیرے جھولے کو سکینہ
@@ -91,6 +99,7 @@ romanLyrics: |-
 تجھے گھر میں ڈھونڈتی ہے
 تیری موت کی خبر میں
 کیسے اِسے سناؤں
+اصغر میں تیری ماں ہوں
 
 ۳
 میری جان جا رہی ہے
@@ -98,6 +107,7 @@ romanLyrics: |-
 اِس پھول سے گلے پر
 یہ تیر کیسے جھیلا
 بہنوں کو کیا بتاؤں
+اصغر میں تیری ماں ہوں
 
 ۴
 نیزے سے گر رہا ہے
@@ -105,6 +115,7 @@ romanLyrics: |-
 دل روتا ہے ہمارا
 میرے ہاتھ تو بندھے ہیں
 سر کس طرح اٹھاؤں
+اصغر میں تیری ماں ہوں
 
 ۵
 جھولے کے ساتھ بیٹا
@@ -112,6 +123,7 @@ romanLyrics: |-
 ظالم بھی ہنس رہے ہیں
 تیری آخری نشانی
 کس طرح سے بچاؤں
+اصغر میں تیری ماں ہوں
 
 ۶
 جب رات ہوگی رن میں
@@ -119,6 +131,7 @@ romanLyrics: |-
 ڈرنا نہیں اے بیٹا
 دادی کہیں گی تم سے
 آ میں تجھے سلاؤں
+اصغر میں تیری ماں ہوں
 
 ۷
 تم رات کو ہمیشہ
@@ -126,3 +139,4 @@ romanLyrics: |-
 اب نیند آتی ہوگی
 پھر گود میں لِٹا کر
 نادِ علی سناؤں
+اصغر میں تیری ماں ہوں

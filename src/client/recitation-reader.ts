@@ -2,7 +2,7 @@ import { isMobileViewport } from "./viewport";
 // File role: Browser-side programme reader; load canonical verses on demand while keeping programme order separate from source text.
 import type { BastaKalam } from "../lib/basta-kalam-units";
 import { bastaVerseClassNames, layoutBastaKalam } from "../lib/basta-text";
-import { splitLyricStanzas } from "../lib/lyric-stanzas";
+import { layoutLyricStanzas } from "../lib/lyric-stanzas";
 import { romanUnavailable } from "../lib/edition-availability";
 import { validateRecitationSet, type RecitationSet, type RecitationItem } from "../lib/recitation-set";
 import { readDrafts } from "./recitation-storage";
@@ -15,7 +15,7 @@ import { programmeHtml, downloadProgramme } from "./recitation-export";
 type Poem = {
   title: string; alternateTitle?: string; urdu: string; roman?: string;
   sourceUrl: string; image?: string; lang: string; direction: string;
-  kind: "lyric" | "basta"; basta?: BastaKalam;
+  kind: "lyric" | "basta"; basta?: BastaKalam; sixVerseLayout?: "pairs";
 };
 const poemCache = new Map<string, Promise<Poem>>();
 const viewKey = "kalam:recitation-view";
@@ -44,7 +44,8 @@ async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Poem> {
           urdu: lyric.urdu, roman: lyric.roman || "",
           sourceUrl: lyric.sourceUrl || "/lyrics/" + encodeURIComponent(id) + "/",
           image: lyric.cover || undefined, lang: lyric.lang || "ur",
-          direction: lyric.direction || "rtl" };
+          direction: lyric.direction || "rtl",
+          sixVerseLayout: lyric.sixVerseLayout === "pairs" ? "pairs" : undefined };
       }
       const kalam = payload.kalam as BastaKalam;
       if (!kalam || kalam.id !== id || kalam.status !== "ready") throw Error("Unverified source");
@@ -66,10 +67,12 @@ function addBastaText(host: HTMLElement, text: string) {
   }
   host.append(block);
 }
-function addLyricText(host: HTMLElement, text: string, isRoman = false) {
+function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerseLayout?: "pairs") {
   const block = node("div", "lyric-reading-text " + (isRoman ? "roman-lyrics-text" : "lyrics-text"));
-  for (const stanza of splitLyricStanzas(text)) {
-    const group = node("div", "lyric-stanza");
+  for (const stanza of layoutLyricStanzas(text)) {
+    const verseCount = stanza.filter((line) => !line.number).length;
+    const group = node("div", "lyric-stanza" + (verseCount === 6 ? " lyric-stanza-six" : "") +
+      (verseCount === 6 && sixVerseLayout === "pairs" ? " lyric-stanza-pairs" : ""));
     for (const line of stanza) {
       group.append(node("span", line.number ? "poetry-stanza-number" : "lyric-verse", line.text));
     }
@@ -215,8 +218,8 @@ function renderWork(work: HTMLElement, item: RecitationItem, index: number,
     originalBastaEdition(urdu, poem.basta!, "urdu", hasScan);
     originalBastaEdition(roman, poem.basta!, "roman", hasScan);
   } else {
-    addLyricText(urdu, poem.urdu);
-    if (poem.roman) addLyricText(roman, poem.roman, true);
+    addLyricText(urdu, poem.urdu, false, poem.sixVerseLayout);
+    if (poem.roman) addLyricText(roman, poem.roman, true, poem.sixVerseLayout);
     else roman.append(node("p", "recite-empty-edition", romanUnavailable("kalam", hasScan)));
   }
   // Preserve the selected Roman edition while signalling when a source scan

@@ -11,6 +11,7 @@ aliases:
 cover: "/images/lyrics/karbala-karbala-karbala.png"
 coverAlt: "Cover image for Karbala Karbala Karbala"
 published: true
+sixVerseLayout: "pairs"
 romanLyrics: |-
   Karbala Karbala Karbala
   Main ho gayi be rida, wa Husaina

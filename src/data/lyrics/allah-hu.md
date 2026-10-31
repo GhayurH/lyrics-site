@@ -20,6 +20,7 @@ romanLyrics: |-
   Khoshay Khoshay Mein Tu, Bali Bali Mein Tu
   Tehni Tehni Mein Tu, Dali Dali Mein Tu
   Butay Butay Mein Gul, Gul Mein Bu, Bu Mein Tu
+  Allah Hu, Allah Hu, Allah Hu
   
   2
   Youn Tu Har Ik Nabi Tujh Se Mansoob Hai
@@ -27,6 +28,7 @@ romanLyrics: |-
   Haan Magar Un Mein Ik Tera Mehboob Hai
   Jis Ki Har Ik Ada Tujh Ko Margoob Hai
   Tera Mehboob Woh, Us Ka Mehboob Tu
+  Allah Hu, Allah Hu, Allah Hu
   
   3
   Dakhl Mumkin Nahin Tere Asrar Mein
@@ -34,6 +36,7 @@ romanLyrics: |-
   Kis Ko Taab-e-Sukhan Tere Darbar Mein
   Husn-e-Yousuf Sa Bik Jaye Bazar Mein
   Aur Nafs-e-Nabi Ka Khareedar Tu
+  Allah Hu, Allah Hu, Allah Hu
   
   4
   Deed Kis Ko Muyassar Teri Zaat Ki
@@ -41,6 +44,7 @@ romanLyrics: |-
   Phir Bhi Tu Ne Na Un Se Mulaqaat Ki
   Chhup Ke Parday Mein Ki Jab Kabhi Baat Ki
   Aur Muhammad Se Ki Do-Ba-Do Guftagu
+  Allah Hu, Allah Hu, Allah Hu
   
   5
   Har Fazeelat Muhammad Ke Ghar Bhaij Di
@@ -48,6 +52,7 @@ romanLyrics: |-
   Un Ke Bhai Ko Taig-e-Do-Sar Bhaij Di
   Aur Malak Se Phir Us Ki Khabar Bhaij Di
   La-Fata Ki Sada Ab Bhi Hai Chaar Su
+  Allah Hu, Allah Hu, Allah Hu
   
   6
   Jin Ko Apne Buzurgon Se Pasti Mili
@@ -55,6 +60,7 @@ romanLyrics: |-
   Deen-o-Eman Ki Tang Dasti Mili
   Apne Ajdad Se But Parasti Mili
   Un Ki Mehfil Mein Bhi Aaj Hai Chaar Su
+  Allah Hu, Allah Hu, Allah Hu
 ---
 
 اللہ ہُو، اللہ ہُو، اللہ ہُو
@@ -65,6 +71,7 @@ romanLyrics: |-
 خوشے خوشے میں تو، بالی بالی میں تو
 ٹہنی ٹہنی میں تو، ڈالی ڈالی میں تو
 بوٹے بوٹے میں گل، گل میں بُو، بُو میں تو
+اللہ ہُو، اللہ ہُو، اللہ ہُو
 
 ۲
 یوں تو ہر اک نبی تجھ سے منسوب ہے
@@ -72,6 +79,7 @@ romanLyrics: |-
 ہاں مگر ان میں اک تیرا محبوب ہے
 جس کی ہر اک ادا تجھ کو مرغوب ہے
 تیرا محبوب وہ، اُس کا محبوب تو
+اللہ ہُو، اللہ ہُو، اللہ ہُو
 
 ۳
 دخل ممکن نہیں تیرے اسرار میں
@@ -79,6 +87,7 @@ romanLyrics: |-
 کس کو تابِ سخن تیرے دربار میں
 حسنِ یوسف سا بِک جائے بازار میں
 اور نفسِ نبی کا خریدار تو
+اللہ ہُو، اللہ ہُو، اللہ ہُو
 
 ۴
 دید کس کو میسر تیری ذات کی
@@ -86,6 +95,7 @@ romanLyrics: |-
 پھر بھی تو نے نہ اُن سے ملاقات کی
 چھپ کے پردے میں کی جب کبھی بات کی
 اور محمدؐ سے کی دو بدو گفتگو
+اللہ ہُو، اللہ ہُو، اللہ ہُو
 
 ۵
 ہر فضیلت محمدؐ کے گھر بھیج دی
@@ -93,6 +103,7 @@ romanLyrics: |-
 اُن کے بھائی کو تیغِ دو سر بھیج دی
 اور مَلَک سے پھر اُس کی خبر بھیج دی
 لا فتیٰ کی صدا اب بھی ہے چار سُو
+اللہ ہُو، اللہ ہُو، اللہ ہُو
 
 ۶
 جن کو اپنے بزرگوں سے پستی ملی
@@ -100,3 +111,4 @@ romanLyrics: |-
 دین و ایماں کی تنگ دستی ملی
 اپنے اجداد سے بُت پرستی ملی
 اُن کی محفل میں بھی آج ہے چار سُو
+اللہ ہُو، اللہ ہُو، اللہ ہُو
