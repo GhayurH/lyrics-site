@@ -1,15 +1,15 @@
 ---
 title: "اے ربِ پنجتن"
-alternateTitle: "Aye Rab-e-Panjtan"
+alternateTitle: "Aye Rab-E-Panjtan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Aye Rab-e-Panjtan"
+  - "Aye Rab-E-Panjtan"
 cover: "/images/lyrics/aye-rab-e-panjtan.png"
-coverAlt: "Cover image for Aye Rab-e-Panjtan"
+coverAlt: "Cover image for Aye Rab-E-Panjtan"
 published: true
 romanLyrics: |-
   Aye Rab-e-Panjtan, Meri Tujh Se Hai Yeh Dua
@@ -51,10 +51,10 @@ romanLyrics: |-
   Har Simt Us Ke Sadqay Mein Ho Aman Ki Fiza
   
   7
-  Mabood, Woh Hussain Jo Mehboob Hai Tera
+  Mabood, Woh Husain Jo Mehboob Hai Tera
   Sar Kaat Kar Bhi Jis Ka Na Zalim Jhuka Saka
   Jis Ne Zameen Ko Arsh-e-Mualla Bana Diya
-  Dikhla De Hum Faqeeron Ko Roza-e-Hussain Ka
+  Dikhla De Hum Faqeeron Ko Roza-e-Husain Ka
   
   8
   Mushkil Ko Taal, Hal-e-Masaib Ko Bhej De

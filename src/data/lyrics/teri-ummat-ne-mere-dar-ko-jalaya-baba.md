@@ -16,7 +16,7 @@ romanLyrics: |-
   Phir Woh Jalta Hua Dar Mujh Pe Giraya Baba
   
   1
-  Raakh Thi, Sholay Thay, Sehme Huay Bachay Ya Dhuan
+  Raakh Thi, Sholay The, Sehme Huay Bachay Ya Dhuan
   Mere Aangan Mein Tha Ek Shaam-e-Ghareeban Ka Samaan
   Dar Hata Kar Mujhe Fizza Ne Uthaya Baba
   
@@ -26,7 +26,7 @@ romanLyrics: |-
   Mere Baalon Ki Safedi Ne Sunaya Baba
   
   3
-  Le Chalay Qaidi Bana Kar Jo Ali Ko Dushman
+  Le Chale Qaidi Bana Kar Jo Ali Ko Dushman
   Maine Chhora Nahi Haider Ki Aba Ka Daaman
   Taaziyano Ne Magar Mujhse Chhuraya Baba
   

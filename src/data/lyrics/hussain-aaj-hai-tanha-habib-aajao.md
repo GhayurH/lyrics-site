@@ -1,18 +1,18 @@
 ---
 title: "حسین آج ہے تنہا، حبیب آجاؤ"
-alternateTitle: "Hussain aaj hai tanha, Habib aajao"
+alternateTitle: "Husain Aaj Hai Tanha, Habib Aajao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Hussain aaj hai tanha, Habib aajao"
+  - "Husain Aaj Hai Tanha, Habib Aajao"
 cover: "/images/lyrics/hussain-aaj-hai-tanha-habib-aajao.png"
-coverAlt: "Cover image for Hussain aaj hai tanha, Habib aajao"
+coverAlt: "Cover image for Husain Aaj Hai Tanha, Habib Aajao"
 published: true
 romanLyrics: |-
-  Hussain aaj hai tanha, Habib aajao
+  Husain aaj hai tanha, Habib aajao
   Kara hai waqt khudaya Habib aajao
   
   1
@@ -22,11 +22,11 @@ romanLyrics: |-
   
   2
   Meri nigah mein ab Karbala ka maqtal hai
-  Hussaini baandh ki fehrist na mukammal hai
+  Husaini baandh ki fehrist na mukammal hai
   Hai saath ab mera kunba
   
   3
-  Tumhe Hussain ke haq mein jihaad karna hai
+  Tumhe Husain ke haq mein jihaad karna hai
   Kiya tha waada jo bachpan mein yaad karna hai
   Yehi hai farz tumhara
   
@@ -36,7 +36,7 @@ romanLyrics: |-
   Badal gaya hai zamana
   
   5
-  Muhib Hussain ne hasrat se chaar soo dekha
+  Muhib Husain ne hasrat se chaar soo dekha
   Zameen-e-Karbobala ko lahu lahu dekha
   Likha ye aakhri fitra
 ---

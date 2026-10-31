@@ -1,15 +1,15 @@
 ---
 title: "اے عون و محمد"
-alternateTitle: "aye aun o muhammad"
+alternateTitle: "Aye Aun O Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "aye aun o muhammad"
+  - "Aye Aun O Muhammad"
 cover: "/images/lyrics/aye-aun-o-muhammad.png"
-coverAlt: "Cover image for aye aun o muhammad"
+coverAlt: "Cover image for Aye Aun O Muhammad"
 published: true
 romanLyrics: |-
 
@@ -87,15 +87,15 @@ romanLyrics: |-
 جب زخم کوئی کھانا
 
 ۳
-کب ہم پہ سِتم ،کرنے کے لیے آئے ہیں
-یہ بدر و اُہد کے ،بدلے کے لیے آئے ہیں
-لازم ہے رجز سے پہلے ،میدان ميں تم پر
+کب ہم پہ سِتم، کرنے کے لیے آئے ہیں
+یہ بدر و اُہد کے، بدلے کے لیے آئے ہیں
+لازم ہے رجز سے پہلے، میدان ميں تم پر
 مدحِ علی سنانہ
 
 ۴
 جب سانس تمہاری، بچوں ہو اُکھڑنے والی
 اُس وقت سرہانے، آئیں گی مادر میری
-دل کی یہ میرے خواہش ہے ،اُس دم میری ماں سے
+دل کی یہ میرے خواہش ہے، اُس دم میری ماں سے
 زخموں کو تم چھپانا
 
 ۵

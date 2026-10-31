@@ -36,7 +36,7 @@ romanLyrics: |-
   Ali Ki Betiyan Jhoola, Ise Jhulati Thin
   Hijaab-e-Noor Mein Lori, Ise Sunati Thin
   Janaab-e-Umme Baneen, Is Ke Naaz Uthati Thin
-  Aur Ab Hussain Yahan, Is Ki Laash Uthata Hai
+  Aur Ab Husain Yahan, Is Ki Laash Uthata Hai
   
   4
   Jo Bachpane Mein Pakar Ke, Ye Mera Haath Chala

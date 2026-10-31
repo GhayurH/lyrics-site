@@ -1,15 +1,15 @@
 ---
 title: "ماں نہ روئے گی تمہیں عون و محمد کیوں کر"
-alternateTitle: "Maan na roegi tumhe Aun o Mohammad kyunkar"
+alternateTitle: "Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Maan na roegi tumhe Aun o Mohammad kyunkar"
+  - "Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
 cover: "/images/lyrics/maan-na-roegi-tumhe-aun-o-mohammad-kyunkar.png"
-coverAlt: "Cover image for Maan na roegi tumhe Aun o Mohammad kyunkar"
+coverAlt: "Cover image for Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
 published: true
 romanLyrics: |-
   Maan na roegi tumhe Aun o Mohammad kyunkar

@@ -4,13 +4,14 @@ This is the short operational entry point. Canonical details live in [CONTRIBUTI
 
 ## Non-negotiable invariants
 
-- Preserve reviewed Urdu wording, harakat, punctuation, line divisions, stanza numbering, Basta page numbers, and public URLs unless specifically asked to change them.
+- Preserve reviewed Urdu wording, harakat, punctuation, meaningful asterisks, line divisions, stanza numbering, Basta page numbers, and public URLs unless specifically asked to change them.
 - Use `src/content.config.ts` and the required `kalamType` model; do not recreate legacy category inference.
 - Keep R2 images/PDFs outside Git and preserve root-relative `/images/` and `/files/` URLs.
 - Keep published recitation IDs stable, including when moving or correcting source text; follow the ID maintenance guide.
 - Preserve server-rendered/no-JavaScript reading and the paired Basta `---***---` kalam boundaries.
 - Reuse `ReadingControls.astro`, `reader-state.ts`, and `reading-columns.css` rather than duplicating reader state or layout. Verses never wrap or horizontally scroll.
 - Keep static and streamed Basta markup consistent; keep scan links usable without JavaScript and missing editions explicit.
+- Roman Urdu uses **Husain**, **Hasan**, and Urdu final **-e** (e.g., `بولے` → `bole`), except where Punjabi pronunciation applies. Capitalize each word in Roman titles. Follow the reviewed refrain rules in [CONTRIBUTING.md](docs/CONTRIBUTING.md#urdu-and-roman-urdu).
 - Keep browsing/search/static assets out of Pages Functions; Pagefind loads only on the Search route. Browser reading history, bookmarks, and drafts stay local.
 - Put shared semantic design values in `src/styles/tokens.css`, global primitives in `core.css`, and route styling in feature CSS. Add purposeful `File role:` comments; remove obsolete WIP commentary.
 

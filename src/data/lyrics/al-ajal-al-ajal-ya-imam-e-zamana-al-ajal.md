@@ -7,15 +7,16 @@ direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Al-Ajal Al-Ajal Ya Imam-e-Zamana Al-Ajal"
+  - "Al-Ajal Al-Ajal Ya Imam-E-Zamana Al-Ajal"
 cover: "/images/lyrics/al-ajal-al-ajal-ya-imam-e-zamana-al-ajal.png"
 coverAlt: "Cover image for Gar Ho Meri Hayaat Mere Ikhteyar Mein"
 published: true
 romanLyrics: |-
   Al-Ajal Al-Ajal, Ya Imam-e-Zamana, Al-Ajal
+
   Gar Ho Meri Hayaat Mere Ikhteyar Mein,
   Sadiyan Guzar Dunga Tere Intezar Mein
-  Moula Ab Aap Parda-e-Ghaibat Uthaiye,
+  Maula Ab Aap Parda-e-Ghaibat Uthaiye,
   Do Din To Zindagi Ke Guzarun Bahar Mein
   
   1
@@ -92,6 +93,7 @@ romanLyrics: |-
 ---
 
 العجل العجل، یا امامِ زمانہؑ، العجل
+
 گر ہو مری حیات مرے اختیار میں،
 صدیاں گزار دوں گا ترے انتظار میں
 مولا اب آپ پردۂ غیبت اٹھائیے،

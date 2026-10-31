@@ -46,7 +46,7 @@ romanLyrics: |-
   Us Ki Qasam Jo Kanton Pe Chalta Raha Ali
   
   6
-  Haye Hussain Haye Zaeefi Ka Wo Samaan
+  Haye Husain Haye Zaeefi Ka Wo Samaan
   Dekhi Jawan Bete Ke Seene Mein Jab Sinaan
   Rakh Kar Sinaan Pe Hath Tarap Kar Kaha Ali
   

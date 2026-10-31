@@ -1,15 +1,15 @@
 ---
 title: "قبرِ سرور پر کہا زینب نے رو کر، الوداع"
-alternateTitle: "Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+alternateTitle: "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+  - "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 cover: "/images/lyrics/qabr-e-sarwar-par-kaha-zainab-ne-ro-kar-alwida.png"
-coverAlt: "Cover image for Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+coverAlt: "Cover image for Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 published: true
 romanLyrics: |-
   Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar, Alwida
@@ -20,7 +20,7 @@ romanLyrics: |-
   Chheen Leen Saidaniyon Ke Sar Se Chadar, Alwida
   
   2
-  Kunbe Wale Saath Thay Jab Main Watan Se Aayi Thi
+  Kunbe Wale Saath The Jab Main Watan Se Aayi Thi
   Aaj Jaati Hoon Akeli Ghar Luta Kar, Alwida
   
   3
@@ -33,11 +33,11 @@ romanLyrics: |-
   
   5
   Ho Gayi Shart-e-Wafa Par Tum Na Aye Shaam Mein
-  Taazianey Maartey Thay Jab Sitamgar, Alwida
+  Taazianey Maartey The Jab Sitamgar, Alwida
   
   6
-  Shaam Ke Darbaar Mein Thay Saat Sau Kursi-Nasheen
-  Thay Rasan-Basta Wahan Aal-e-Payambar, Alwida
+  Shaam Ke Darbaar Mein The Saat Sau Kursi-Nasheen
+  The Rasan-Basta Wahan Aal-e-Payambar, Alwida
   
   7
   Thi Bohat Ummeed Hai Abbas Sa Bhai Mera

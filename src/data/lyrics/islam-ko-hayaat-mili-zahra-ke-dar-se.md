@@ -19,7 +19,7 @@ romanLyrics: |-
   
   1
   Ik Sajda-e-Shabbir Se Islam Bach Gaya
-  Khoon-e-Hussain Deen Ki Rag Rag Mein Rach Gaya
+  Khoon-e-Husain Deen Ki Rag Rag Mein Rach Gaya
   Quran Ke Hafizon Ne Jalaya Nabi Ka Ghar
   Looti Rida Batool Ki Hai Beti Ke Sar Se Aye Kalmago Suno
   
@@ -27,18 +27,18 @@ romanLyrics: |-
   Ye Aaj Subh-o-Shaam Jo Sunta Hai Tu Azaan
   Takmeel Isko De Gaya Akbar Sa Nojawan
   Islam Ki Baqa Ke Liye Karb-o-Bala Mein
-  Khenchi Sina Hussain Ne Bete Ke Jigar Se Aye Kalmago Suno
+  Khenchi Sina Husain Ne Bete Ke Jigar Se Aye Kalmago Suno
   
   3
   Zahra Ki Paak Chadrein Tatheer Ke Talay
-  Islam Aur Hussain Hain Ek Saath Hi Palay
-  Dete Na Jo Hussain Agar Deen Ko Panah
+  Islam Aur Husain Hain Ek Saath Hi Palay
+  Dete Na Jo Husain Agar Deen Ko Panah
   Islam Ne Mar Jana Tha Pehle Hi Asr Se Aye Kalmago Suno
   
   4
   Asghar Masoom Pyaas Ki Shiddat Se Mar Gaya
   Aur Apni Maa Ki God Ko Veeran Kar Gaya
-  Jiske Galay Pe Maar Diya Hurmala Ne Teer
+  Jiske Gale Pe Maar Diya Hurmala Ne Teer
   Paani To Iske Waaste Maanga Tha Shimr Se Aye Kalmago Suno
   
   5

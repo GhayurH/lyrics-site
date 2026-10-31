@@ -1,15 +1,15 @@
 ---
 title: "مرسل کو رلاتا ہے صدمہ ابو طالب کا"
-alternateTitle: "Mursal ko rulata hai sadma Abu Talib ka"
+alternateTitle: "Mursal Ko Rulata Hai Sadma Abu Talib Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Mursal ko rulata hai sadma Abu Talib ka"
+  - "Mursal Ko Rulata Hai Sadma Abu Talib Ka"
 cover: "/images/lyrics/mursal-ko-rulata-hai-sadma-abu-talib-ka.png"
-coverAlt: "Cover image for Mursal ko rulata hai sadma Abu Talib ka"
+coverAlt: "Cover image for Mursal Ko Rulata Hai Sadma Abu Talib Ka"
 published: true
 romanLyrics: |-
   Mursal ko rulata hai sadma Abu Talib ka

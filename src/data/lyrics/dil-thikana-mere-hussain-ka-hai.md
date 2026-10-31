@@ -1,119 +1,134 @@
 ---
 title: "دل ٹھکانہ میرے حسینؑ کا ہے"
-alternateTitle: "Dil Thikana mere Hussain ka hai"
+alternateTitle: "Dil Thikana Mere Husain Ka Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Dil Thikana mere Hussain ka hai"
+  - "Dil Thikana Mere Husain Ka Hai"
 cover: "/images/lyrics/dil-thikana-mere-hussain-ka-hai.png"
-coverAlt: "Cover image for Dil Thikana mere Hussain ka hai"
+coverAlt: "Cover image for Dil Thikana Mere Husain Ka Hai"
 published: true
 romanLyrics: |-
-  Dil Thikana mere Hussain ka hai
+  1
+  Dil Thikana mere Husain ka hai
+  ye Khazana Mere Husain ka hai
   
-  ye Khazana Mere Hussain ka hai
-  
+  2
   Tum Jisay aasmaan samajhtay ho
+  Shamiyana Mere Husain ka hai
   
-  Shamiyana Mere Hussain ka hai
-  
+  3
   Koi Poochay ye daur kis ka hai
+  Tum batana Mere Husain ka hai
   
-  Tum batana Mere Hussain ka hai
-  
+  4
   Jis ke Saaye Main Kaainaat bani
+  Aisa Nana Mere Husain ka hai
   
-  Aisa Nana Mere Hussain ka hai
-  
+  5
   Ye jo Kaba hai Tum na Samjho gay
+  Ghar Poorana Mere Husain ka hai
   
-  Ghar Poorana Mere Hussain ka hai
-  
+  6
   Aana Farsh e Aza pe Be Parda
+  Dil Dukhana Mere Husain ka hai
   
-  Dil Dukhana Mere Hussain ka hai
+  7
+  Jis Jagah Hur Banaye Jate hain
+  Karkhana Mere Husain ka hai
   
-  Jis Jagah Hur Banaye Jatay hain
-  
-  Karkhana Mere Hussain ka hai
-  
+  8
   Ho Agar Munkir e Namaz Koi
+  Bhool jana Mere Husain ka hai
   
-  Bhool jana Mere Hussain ka hai
-  
+  9
   Dainey Wali Hai Zaat Allah Ki
+  Per Dilana Merey Husain Ka Hai
   
-  Per Dilana Merey Hussain Ka Hai
-  
+  10
   Maaray ek Sabar se Hazaar Uddoo
+  Kia Nishana Mere Husain ka hai
   
-  Kia Nishana Mere Hussain ka hai
-  
+  11
   Ug Raha Hai Jo Baad-e-Karbobala
+  Wo Dana Dana Merey Husain Ka Hai
   
-  Wo Dana Dana Merey Hussain Ka Hai
-  
+  12
   Matami jab Koi Nazar Aaye
+  Maan Jana Mere Husain ka hai
   
-  Maan Jana Mere Hussain ka hai
-  
+  13
   Kaash Kehney Lagey Ye Log Mujhey
+  Tu Deewana Merey Husain Ka Hai
   
-  Tu Deewana Merey Hussain Ka Hai
-  
+  14
   Ye Jahan Kia hai Dono Aalam main
+  Aana Jaana Mere Husain ka hai
   
-  Aana Jaana Mere Hussain ka hai
-  
+  15
   Mujh main Rehan ye Shaoor Jo Hai
-  
-  Shairaana Mere Hussain ka hai
+  Shairaana Mere Husain ka hai
 ---
 
+۱
 دل ٹھکانہ میرے حسینؑ کا ہے
 یہ خزانہ میرے حسینؑ کا ہے
 
-کوئی پوچھے یہ دور کس کا ہے
-تم بتانا، میرے حسینؑ کا ہے
-
+۲
 تم جسے آسمان سمجھتے ہو
 شامیانہ میرے حسینؑ کا ہے
 
-یہ جو کعبہ ہے، تم نہ سمجھو گے
-گھر پرانا میرے حسینؑ کا ہے
+۳
+کوئی پوچھے یہ دور کس کا ہے
+تم بتانا، میرے حسینؑ کا ہے
 
+۴
 جس کے سائے میں کائنات بنی
 ایسا نانا میرے حسینؑ کا ہے
 
-جس جگہ حُر بنائے جاتے ہیں
-کارخانہ میرے حسینؑ کا ہے
+۵
+یہ جو کعبہ ہے، تم نہ سمجھو گے
+گھر پرانا میرے حسینؑ کا ہے
 
+۶
 آنا فرشِ عزا پہ بے پردہ
 دل دکھانا میرے حسینؑ کا ہے
 
-ماتمی جب کوئی نظر آئے
-مان جانا میرے حسینؑ کا ہے
+۷
+جس جگہ حُر بنائے جاتے ہیں
+کارخانہ میرے حسینؑ کا ہے
 
+۸
 ہو اگر منکرِ نماز کوئی
 بھول جانا میرے حسینؑ کا ہے
 
-اُگ رہا ہے جو بعدِ کرب و بلا
-وہ دانہ دانہ میرے حسینؑ کا ہے
-
-مارے اک ضرب سے ہزار عدو
-کیا نشانہ میرے حسینؑ کا ہے
-
-کاش کہنے لگیں یہ لوگ مجھے
-تو دیوانہ میرے حسینؑ کا ہے
-
+۹
 دینے والی ہے ذات اللہ کی
 پر دلانا میرے حسینؑ کا ہے
 
-مجھ میں ریحانؔ یہ شعور جو ہے
-شاعرانہ میرے حسینؑ کا ہے
+۱۰
+مارے اک ضرب سے ہزار عدو
+کیا نشانہ میرے حسینؑ کا ہے
 
+۱۱
+اُگ رہا ہے جو بعدِ کرب و بلا
+وہ دانہ دانہ میرے حسینؑ کا ہے
+
+۱۲
+ماتمی جب کوئی نظر آئے
+مان جانا میرے حسینؑ کا ہے
+
+۱۳
+کاش کہنے لگیں یہ لوگ مجھے
+تو دیوانہ میرے حسینؑ کا ہے
+
+۱۴
 یہ جہاں کیا ہے دونوں عالم میں
 آنا جانا میرے حسینؑ کا ہے
+
+۱۵
+مجھ میں ریحانؔ یہ شعور جو ہے
+شاعرانہ میرے حسینؑ کا ہے

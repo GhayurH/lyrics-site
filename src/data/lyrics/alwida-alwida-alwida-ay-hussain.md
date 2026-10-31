@@ -1,18 +1,18 @@
 ---
 title: "الوداع الوداع الوداع اے حسین"
-alternateTitle: "Alwida Alwida Alwida Ay Hussain"
+alternateTitle: "Alwida Alwida Alwida Ay Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Alwida Alwida Alwida Ay Hussain"
+  - "Alwida Alwida Alwida Ay Husain"
 cover: "/images/lyrics/alwida-alwida-alwida-ay-hussain.png"
-coverAlt: "Cover image for Alwida Alwida Alwida Ay Hussain"
+coverAlt: "Cover image for Alwida Alwida Alwida Ay Husain"
 published: true
 romanLyrics: |-
-  alwida alwida alwida ay Hussain
+  alwida alwida alwida ay Husain
   
   1
   ye sadaaye fughan aur yeh majlisein
@@ -39,7 +39,7 @@ romanLyrics: |-
   haaye afsos jee bhar ke roye na hum
   
   5
-  alwida ay Hussain ay Hussain alwida
+  alwida ay Husain ay Husain alwida
   alwida ay shah-e-mashriqain alwida
   bint-e-Ahmad ke ay noor-e-ain alwida
   hai Mujahid ke lab par yeh bain alwida

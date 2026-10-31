@@ -1,24 +1,24 @@
 ---
 title: "شام سے جب اہلِ بیت، غمزدہ گریاں چلے"
-alternateTitle: "Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
+alternateTitle: "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
+  - "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
 cover: "/images/lyrics/shaam-se-jab-ahl-e-bait-ghamzada-giryaan-chalay.png"
-coverAlt: "Cover image for Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay"
+coverAlt: "Cover image for Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
 bastaPage: 264
 bastaNote: original-selection
 published: true
 romanLyrics: |-
   1
-  Shaam se jab Ahl-e-Bait, ghamzada giryaan chalay
-  Yaani soo-e-Karbala, chaak girebaan chalay
-  Le ke shaheedon ke sar, be-sar-o-saamaan chalay
-  Kartay huay ye bayaan baa-dil-e-naalaan chalay
+  Shaam se jab Ahl-e-Bait, ghamzada giryaan chale
+  Yaani soo-e-Karbala, chaak girebaan chale
+  Le ke shaheedon ke sar, be-sar-o-saamaan chale
+  Kartay huay ye bayaan baa-dil-e-naalaan chale
   Aaj hai chaaleeswaan Hazrat-e-Shabbir ka
   Tishna-dahan kushta-e-khanjar-o-taqdeer ka
   
@@ -26,9 +26,9 @@ romanLyrics: |-
   Raah mein un se koi, poochta gar aan kar
   Kis ke ho naamoos tum, kis ke ho lakht-e-jigar
   Kis ne hai loota tumhein, kis ne kiya be-padar
-  Kehtay thay Ahl-e-Haram un se yun ba-chashm-e-tar
+  Kehte the Ahl-e-Haram un se yun ba-chashm-e-tar
   Tum se bayaan kya karein apnay hum ehwaal ko
-  Dafn hain karnay chalay Fatima ke laal ko
+  Dafn hain karnay chale Fatima ke laal ko
   
   3
   Woh jo haram mohtaram, Shah ke ba-sad bukaa
@@ -36,7 +36,7 @@ romanLyrics: |-
   Door se woh qatl-gaah, un ko dikhayi diya
   Ro ke yeh kehnay lagay Hazrat-e-Zain-ul-Aba
   Oonton se utro tum ab kartay huay shor-o-shain
-  Rotay chalo piyaada-pa, yaan se ba-laash-e-Hussain
+  Rotay chalo piyaada-pa, yaan se ba-laash-e-Husain
   
   4
   Hazrat Sajjad se sun ke Haram yeh kalaam
@@ -49,7 +49,7 @@ romanLyrics: |-
   5
   Hazrat-e-Sajjad ne dekh ke yeh maajra
   Bibiyon ko saath le, khoob sa maatam kiya
-  Sar jo shaheedon ke thay, beech mein un ko rakha
+  Sar jo shaheedon ke the, beech mein un ko rakha
   Seena-o-sar peet kar, ro ro yeh nauha parha
   Zahra ke masoom ka aaj hai chaaleeswaan
   Syed-e-Mazloom ka aaj hai chaaleeswaan
@@ -89,7 +89,7 @@ romanLyrics: |-
   10
   Bewa-e-Abbas ne, dekh ke ye maajra
   Le le ke shohar ka naam, khoob sa matam kiya
-  Laasha-e-Abbas ke, tukre jo thay jaa bajaa
+  Laasha-e-Abbas ke, tukre jo the jaa bajaa
   Chun ke har ek uzoo ko, sar se mila kar kaha
   Aao ay Zain-ul-Aba, khaak uraati hoon main
   Yaani sar Abbas ka, tan se milaati hoon main

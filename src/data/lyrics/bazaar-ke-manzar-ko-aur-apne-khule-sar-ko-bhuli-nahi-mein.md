@@ -26,8 +26,8 @@ romanLyrics: |-
   Woh Khaima-e-Laila Se Haye Rukhsat-e-Akbar Ko Bhuli Nahi Mein
   
   3
-  Yaad Aata Hai Dulhan Ko Ghash Kis Tarha Aaye Thay
-  Ek Gathri Shah-e-Wala Jab Kandhon Pe Laye Thay
+  Yaad Aata Hai Dulhan Ko Ghash Kis Tarha Aaye The
+  Ek Gathri Shah-e-Wala Jab Kandhon Pe Laye The
   Us Laash Ki Gathri Ko Us Khoon Bhari Chadar Ko Bhuli Nahi Mein
   
   4

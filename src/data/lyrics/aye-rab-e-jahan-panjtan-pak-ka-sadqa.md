@@ -1,15 +1,15 @@
 ---
 title: "اے ربِ جہاں، پنجتنؑ پاک کا صدقہ"
-alternateTitle: "Aye Rab-e-Jahan Panjtan Pak Ka Sadqa"
+alternateTitle: "Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Aye Rab-e-Jahan Panjtan Pak Ka Sadqa"
+  - "Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
 cover: "/images/lyrics/aye-rab-e-jahan-panjtan-pak-ka-sadqa.png"
-coverAlt: "Cover image for Aye Rab-e-Jahan Panjtan Pak Ka Sadqa"
+coverAlt: "Cover image for Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
 published: true
 romanLyrics: |-
   1
@@ -37,7 +37,7 @@ romanLyrics: |-
   Maqrooz Ka Har Qarz Ada Gaib Se Kar De
   
   7
-  Paband-e-Rasan Zainab (S.A)-o-Kulsoom Ka Sadqa
+  Paband-e-Rasan Zainab-o-Kulsoom Ka Sadqa
   Be Jurm Aseeron Ko Rehai Ki Khabar De
   
   8

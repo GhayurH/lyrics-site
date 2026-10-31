@@ -13,7 +13,7 @@ coverAlt: "Cover image for Nana Beemar Nai Maan Zakhmi Ae"
 published: true
 romanLyrics: |-
   Nana Di Qabar Te Kehnde Rae
-  Ro Ro Ke Hassan Hussain
+  Ro Ro Ke Hasan Husain
   Tur Chali Ay Nana Dunya Tun
   Teri Dhi Tere Dil Da Chain
   Atun Apne Zulm Chupaon Layi Darbari Aehon Kehan
@@ -63,7 +63,7 @@ romanLyrics: |-
   Jadun Putar De Samne Umri De
   Chehre Te Aya Neel Ae
   Is Roz Tun Izzatan Wali Maan
-  Mere Veer Hassan De
+  Mere Veer Hasan De
   Nai Samne Aandi Ae
   
   7

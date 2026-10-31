@@ -1,15 +1,15 @@
 ---
 title: "داستانِ شجاعت کا داریں میں"
-alternateTitle: "Daastaan-e-Shujaat ka darain mein"
+alternateTitle: "Daastaan-E-Shujaat Ka Darain Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Daastaan-e-Shujaat ka darain mein"
+  - "Daastaan-E-Shujaat Ka Darain Mein"
 cover: "/images/lyrics/daastaan-e-shujaat-ka-darain-mein.png"
-coverAlt: "Cover image for Daastaan-e-Shujaat ka darain mein"
+coverAlt: "Cover image for Daastaan-E-Shujaat Ka Darain Mein"
 published: true
 romanLyrics: |-
   Daastaan-e-Shujaat ka darain mein
@@ -24,7 +24,7 @@ romanLyrics: |-
   Har ada inki imran ka aqs hai
   Inki bahon mein jaafar ki taaqat bhi hai
   
-  Pyaar hai mustufa ka hussain o hasan
+  Pyaar hai mustufa ka husain o hasan
   Aur hassnain ka pyaar abbas hai
   
   2

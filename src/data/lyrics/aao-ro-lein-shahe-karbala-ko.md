@@ -1,38 +1,43 @@
 ---
 title: "آؤ رولیں شہِ کربلا کو"
-alternateTitle: "aao ro lein shahe karbala ko"
+alternateTitle: "Aao Ro Lein Shahe Karbala Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 tags: []
 aliases:
-  - "aao ro lein shahe karbala ko"
+  - "Aao Ro Lein Shahe Karbala Ko"
 cover: "/images/lyrics/aao-ro-lein-shahe-karbala-ko.png"
-coverAlt: "Cover image for aao ro lein shahe karbala ko"
+coverAlt: "Cover image for Aao Ro Lein Shahe Karbala Ko"
 published: true
 romanLyrics: |-
   Aao ro len Shah-e Karbala ko
   Zindagi ka bharosa nahin hai
 
+  1
   Jo bhi girta hai is gham mein aansu
   Koi bekaar jata nahin hai
 
+  2
   Jab jale honge khaime haram ke
   Jab chhini hongi sar se ridayen
   Kya bani hogi Sayyidaniyon par
   Woh samaan dil se jata nahin hai
 
+  3
   Bahr-e tazeem utho ay Akbar
   Parda dari karo mere dilbar
   Aa rahi hai sawari phuphi ki
   Jis ka koi sahara nahin hai
 
+  4
   Karbala mein jo jayegi Zainab
   Kya batayegi bhai ko Zainab
   Chhut ke zindan se jo aa rahi hain
   Un mein pyari Sakina nahin hai
 
+  5
   Jab Madine mein jayegi Zainab
   Kya batayegi Sughra ko Zainab
   Woh nishan-e rasan bazuon par
@@ -43,24 +48,29 @@ romanLyrics: |-
 آؤ رولیں شہِ کربلا کو
 زندگی کا بھروسا نہیں ہے
 
+۱
 جو بھی گرتا ہے اِس غم میں آنسو
 کوئی بیکار جاتا نہیں ہے
 
+۲
 جب جلے ہوں گے خیمے حرم کے
 جب چھنی ہوں گی سر سے ردائیں
 کیا بنی ہو گی سیدانیوں پر
 وہ سماں دل سے جاتا نہیں ہے
 
+۳
 بحرِ تعظیم اُٹھو اے اکبر
 پردا داری کرو میرے دلبر
 آ رہی ہے سواری پھوپھی کی
 جس کا کوئی سہارا نہیں ہے
 
+۴
 کربلا میں جو جائے گی زینب
 کیا بتائے گی بھائی کو زینب
 چھٹ کے زنداں سے جو آ رہیں ہیں
 اُن میں پیاری سکینہ نہیں ہے
 
+۵
 جب مدینے میں جائے گی زینب
 کیا بتائے گی صغریٰ کو زینب
 وہ نشانِ رسن بازوؤں پر

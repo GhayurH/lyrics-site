@@ -1,112 +1,144 @@
 ---
 title: "شریکِ دعوتِ اسلام ہیں ابو طالب"
-alternateTitle: "Shareek-e-dawat-e-Islam hain Abu Talib"
+alternateTitle: "Shareek-E-Dawat-E-Islam Hain Abu Talib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 tags: []
 aliases:
-  - "Shareek-e-dawat-e-Islam hain Abu Talib"
+  - "Shareek-E-Dawat-E-Islam Hain Abu Talib"
 cover: "/images/lyrics/shareek-e-dawat-e-islam-hain-abu-talib.png"
-coverAlt: "Cover image for Shareek-e-dawat-e-Islam hain Abu Talib"
+coverAlt: "Cover image for Shareek-E-Dawat-E-Islam Hain Abu Talib"
 published: true
 romanLyrics: |-
   1
   Shareek-e-dawat-e-Islam hain Abu Talib
   Nabi ko haq ka ik inaam hain Abu Talib
   Hareem-e-wahi main ilhaam hain Abu Talib
-  Haram kay azm ka ehram hain Abu Talib
+  Haram ke azm ka ehram hain Abu Talib
   Yay chunkay laeyn jo ghuncha wo phool hojaey
   Phir inki gaud may pal kar Rasool hojaey
-  
+
   2
-  Rasool-e-Rab kay nigehban hain Abu Talib
+  Rasool-e-Rab ke nigehban hain Abu Talib
   Nabi hay deen to eman hain Abu Talib
-  Nazool-e-wahi ka unwan hain Abu Talib  
-  Baghair lafzon ka Quran hain Abu Talib  
-  Inhi kay dum say huwi ibtida-e-bismillah  
-  Inhi nay nukta diya zair-e-ba-e-bismillah
-  
+  Nazool-e-wahi ka unwan hain Abu Talib
+  Baghair lafzon ka Quran hain Abu Talib
+  Inhi ke dum se huwi ibtida-e-bismillah
+  Inhi ne nukta diya zair-e-ba-e-bismillah
+
   3
-  Payambari ki balaon ka rad Abu Talib  
-  Madad Khuda ki hay shakalay madad Abu Talib  
-  Nabi ki dhaal damay jiddo kud Abu Talib  
-  Nishana khutmay Rasul aur zud Abu Talib  
-  Jihad inka hay pus munzar-e-jihad-e-Ali  
+  Payambari ki balaon ka rad Abu Talib
+  Madad Khuda ki hay shakalay madad Abu Talib
+  Nabi ki dhaal damay jiddo kud Abu Talib
+  Nishana khutmay Rasul aur zud Abu Talib
+  Jihad inka hay pus munzar-e-jihad-e-Ali
   Ali hay baad may inkay yay pehlay Nad-e-Ali
-  
+
   4
-  Kahan hay tand nazar hum say bhi to aankh mila  
-  Hay inkay kufar ka dawa to kuch saboot bhi la  
-  Koee to rasum jihalut ki inkay ghar may dikha  
-  Buto kay aagey jhuka inka sur sur apna jhuka  
-  Khuda kay noor pay o khak daalnay walay  
-  Yay but shikun ko hay godi may paalnay walay
-  
+  Kahan hay tand nazar hum se bhi to aankh mila
+  Hay inkay kufar ka dawa to kuch saboot bhi la
+  Koee to rasum jihalut ki inkay ghar may dikha
+  Buto ke aagey jhuka inka sur sur apna jhuka
+  Khuda ke noor pe o khak daalnay wale
+  Yay but shikun ko hay godi may paalnay wale
+
   5
   Rasool inka bara ehtiram kartay hain
-  Sawab-e-deed say tunzeem-e-aam kartay hain
-  Seher ko uthtay hi owwul yay kaam kartay hain  
-  Inhay namaz say pehlay salam kartay hain
-  Nabi agar kisi kafir ko you salami hay  
+  Sawab-e-deed se tunzeem-e-aam kartay hain
+  Seher ko uthte hi owwul yay kaam kartay hain
+  Inhay namaz se pehlay salam kartay hain
+  Nabi agar kisi kafir ko you salami hay
   To phir zaroor naboowut may koee khami hay
-  
+
   6
-  Inhi kay ghar may hay khairul anam sullay ala  
-  Pisur Nabi ka hay Qaim maqam sullay ala  
-  Isay naseeb hay yay ehtiram sullay ala  
-  Kay inkay khurd hay saray Imam sullay ala  
-  Khata muaf ho yay bhi agar nahi momin  
+  Inhi ke ghar may hay khairul anam sullay ala
+  Pisur Nabi ka hay Qaim maqam sullay ala
+  Isay naseeb hay yay ehtiram sullay ala
+  Ke inkay khurd hay sare Imam sullay ala
+  Khata muaf ho yay bhi agar nahi momin
   To phir jahan may koee bashur nahi momin
-  
+
   7
-  Na janchiyay yay rawayut na seerato kirdar  
-  Nabi kay aankh say ub inko daykhiyay ik bar  
-  Yay bargahay risalat may ap ka tha viqar  
-  Pacharay khakay inhay roway Ehmad-e-Mukhtar  
-  Wo aamay huzun bana inka jub visal huwa  
-  Yay ghum Rasool kay ummut may aik sal huwa
-  
+  Na janchiyay yay rawayut na seerato kirdar
+  Nabi ke aankh se ub inko daykhiyay ik bar
+  Yay bargahay risalat may ap ka tha viqar
+  Pacharay khakay inhay roway Ehmad-e-Mukhtar
+  Wo aamay huzun bana inka jub visal huwa
+  Yay ghum Rasool ke ummut may aik sal huwa
+
   8
-  Yay murnay wala gur eman hi na laya tha  
-  To kya Rasool nay kafir ka ghum manaya tha  
-  Zaba pay wa abata bar bar aya tha  
-  Wo khud bhi roway thay auro ko bhi rulaya tha  
-  Jata diya tha kay jo Mohsin-e-risalat hay  
+  Yay murnay wala gur eman hi na laya tha
+  To kya Rasool ne kafir ka ghum manaya tha
+  Zaba pe wa abata bar bar aya tha
+  Wo khud bhi roway the auro ko bhi rulaya tha
+  Jata diya tha ke jo Mohsin-e-risalat hay
   To usko rona rulana Nabi ki sunnat hay
 
   9
-  Yay baat agar ho ijazut to poochloo mai yahi  
-  Hussain Ibn-e-Ali kya nahi thay Mohsin-e-Din
+  Yay baat agar ho ijazut to poochloo mai yahi
+  Husain Ibn-e-Ali kya nahi the Mohsin-e-Din
   Hum inko roaein to phir kyoo ho koyi jiba jabeen
-  Banay thay inka to naqa Rasool-e-Arsh-e-Nashi  
-  Hussain soway Shah-e-Mursali kay seenay pur  
-  Ghazub hay Shimar ka zanoo unhi kay seenay pur
-  
+  Bane the inka to naqa Rasool-e-Arsh-e-Nashi
+  Husain soway Shah-e-Mursali ke seenay pur
+  Ghazub hay Shimar ka zanoo unhi ke seenay pur
+
   10
-  Baghoshay hosh kyoo jub halay Karbala suniyay  
-  Suna jo mayray tasawwur nay wo zara suniyay  
-  Bayan himmat-e-sabaro Shah-e-Huda suniyay  
-  Wo aati hay malakul maut ki sada suniyay  
-  Mila jo hukam kay sur say nikal janay Hussain  
-  Kaha kay sakht hay ya Rab yay imtihan-e-Hussain
-  
+  Baghoshay hosh kyoo jub halay Karbala suniyay
+  Suna jo mayray tasawwur ne wo zara suniyay
+  Bayan himmat-e-sabaro Shah-e-Huda suniyay
+  Wo aati hay malakul maut ki sada suniyay
+  Mila jo hukam ke sur se nikal janay Husain
+  Kaha ke sakht hay ya Rab yay imtihan-e-Husain
+
   11
-  Laga hay zakhmay tabur beh raha hay sur say lahoo  
-  Bharay hay khoon may janay Rasool kay geysoo  
-  Kareeb jakay rakhoo dil pay kis turha qaboo  
-  Kay is lahoo may to hay Fatima kay dood ki boo  
-  Nida yay aaee kay aankhay to dal aankho may  
+  Laga hay zakhmay tabur beh raha hay sur se lahoo
+  Bharay hay khoon may janay Rasool ke geysoo
+  Kareeb jakay rakhoo dil pe kis turha qaboo
+  Ke is lahoo may to hay Fatima ke dood ki boo
+  Nida yay aaee ke aankhay to dal aankho may
   Kaha behen ka hay is dum khayal aankho may
-  
+
   12
-  Nida yay aaee ki gurdun say khainch ja inki  
-  Kaha mai kya karoo gurdun pay chul rahi hay churi  
-  Churi pakur kay yay chillati hay koee bibi  
-  Na zibha kar mayray bachay ko mai dua doongi  
-  Jaha rawa tayray khunjur ki aab hay zalim  
+  Nida yay aaee ki gurdun se khainch ja inki
+  Kaha mai kya karoo gurdun pe chul rahi hay churi
+  Churi pakur ke yay chillati hay koee bibi
+  Na zibha kar mayray bachay ko mai dua doongi
+  Jaha rawa tayray khunjur ki aab hay zalim
   Yay bosagahay risalat ma aab hay zalim
+
+  13
+  Nida ye aayi ke seene se qabz kar le jaan
+  Kaha ke teeron se chhalni hai ae mere Rahman
+  Abhi to maar ke barchhi hata hai ik shaitan
+  Aur ab to hai tah-e-zanu-e-Shimr ye Quran
+  Ye karb hai ke rukh-e-paak gard hai ya Rab
+  Tere Husain ke seene mein dard hai ya Rab
+
+  14
+  Nida ye aayi ke mazloomiyat ka rutba shanas
+  Kamar se kheench le sabir ki jaan-e-be-waswas
+  Kaha malak ne tarap kar ba-dard-o-hasrat-o-yaas
+  Kamar to toot gayi jab se mar gaye Abbas
+  Sada-e-ghaib ye aayi ba-haal hai chehra
+  Kaha ke khoon se Asghar ke laal hai chehra
+
+  15
+  Ye guftagu thi ke murjha gaya Rasool ka phool
+  Falak se aa gaye Rooh-ul-Ameen hazeen-o-malool
+  Kaha pukaar ke munh dhaanp lo baraaye Rasool
+  Pisar ki laash pe kholengi apne baal Batool
+  Sada ye sun ke us simt chal pari Zainab
+  Tarap ke khaime se bahar nikal pari Zainab
+
+  16
+  Naseem udhar se to qudsi ki sada aayi
+  Idhar tarapti hui bint-e-Murtaza aayi
+  Qareeb-e-laash jo khwahar ba-sad baqa aayi
+  Akhi ke halq-e-bureeda se ye sada aayi
+  Koi buzurg na ab hai na khurd hai Zainab
+  Nabi ki Aal tumhare supurd hai Zainab
 ---
 
 ۱

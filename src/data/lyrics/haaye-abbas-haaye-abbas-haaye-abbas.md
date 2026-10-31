@@ -1,15 +1,15 @@
 ---
 title: "ہائے عباس ہائے عباس ہائے عباس"
-alternateTitle: "Haaye Abbas haaye Abbas haaye Abbas"
+alternateTitle: "Haaye Abbas Haaye Abbas Haaye Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Haaye Abbas haaye Abbas haaye Abbas"
+  - "Haaye Abbas Haaye Abbas Haaye Abbas"
 cover: "/images/lyrics/haaye-abbas-haaye-abbas-haaye-abbas.png"
-coverAlt: "Cover image for Haaye Abbas haaye Abbas haaye Abbas"
+coverAlt: "Cover image for Haaye Abbas Haaye Abbas Haaye Abbas"
 published: true
 romanLyrics: |-
   Haaye Abbas haaye Abbas haaye Abbas
@@ -38,7 +38,7 @@ romanLyrics: |-
   
   4
   Mera Akbar mera Qasim mera Asghar na raha
-  Do mere laal thay donon mein se koi na bacha
+  Do mere laal the donon mein se koi na bacha
   Na koi bhai bhatija na koi hai beta
   
   5
@@ -73,7 +73,7 @@ romanLyrics: |-
 
 ۱
 تنہا اٹھارہ برادر، کی بہن ہے بن میں
-نیند کیوں آگئی ہے بھا،ئی بتاؤ رن میں
+نیند کیوں آگئی ہے بھائی بتاؤ رن میں
 نیند سے جاگو چھنی زینبِ مضطر کی ردا
 
 ۲

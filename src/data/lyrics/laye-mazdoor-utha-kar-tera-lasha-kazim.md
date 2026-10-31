@@ -1,15 +1,15 @@
 ---
 title: "لائے مزدور اُٹھا کر تیرا لاشہ کاظم"
-alternateTitle: "Laye mazdoor utha kar tera lasha kazim"
+alternateTitle: "Laye Mazdoor Utha Kar Tera Lasha Kazim"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Laye mazdoor utha kar tera lasha kazim"
+  - "Laye Mazdoor Utha Kar Tera Lasha Kazim"
 cover: "/images/lyrics/laye-mazdoor-utha-kar-tera-lasha-kazim.png"
-coverAlt: "Cover image for Laye mazdoor utha kar tera lasha kazim"
+coverAlt: "Cover image for Laye Mazdoor Utha Kar Tera Lasha Kazim"
 published: true
 romanLyrics: |-
   laye mazdoor utha kar tera laasha Kazim

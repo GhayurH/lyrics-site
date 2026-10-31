@@ -1,49 +1,49 @@
 ---
 title: "حسین کیا ہے، نماز کیا ہے"
-alternateTitle: "Hussain kiya hai namaz kiya hai"
+alternateTitle: "Husain Kiya Hai Namaz Kiya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []
 aliases:
-  - "Hussain kiya hai namaz kiya hai"
+  - "Husain Kiya Hai Namaz Kiya Hai"
 cover: "/images/lyrics/hussain-kiya-hai-namaz-kiya-hai.png"
-coverAlt: "Cover image for Hussain kiya hai namaz kiya hai"
+coverAlt: "Cover image for Husain Kiya Hai Namaz Kiya Hai"
 published: true
 romanLyrics: |-
   tu ab bhi mujhse ye puchta hai
-  Hussain kiya hai namaz kiya hai
+  Husain kiya hai namaz kiya hai
 
   1
-  Hussain panjetan ka noor-e-panjam
+  Husain panjetan ka noor-e-panjam
   namaz hoti hai panjgana
 
   namaz mein ijz o inkisari
-  Hussain ki shan fatehana
+  Husain ki shan fatehana
   
   namaaz qible ko dhundti hai
-  Hussain Kaaba bana raha hia
+  Husain Kaaba bana raha hia
   
   tu ab bhi mujhse ye puchta hai
-  Hussain kiya hai namaz kiya hai
+  Husain kiya hai namaz kiya hai
   
   2
   namaz ki ibteda wuzu hai
   to us ko pani se benayazi
   
   namaz ji inteha taharat
-  Hussain shaahkar e pak daaman
+  Husain shaahkar e pak daaman
   
   namaz hai baarha ibadat
-  Hussain ka zikr be riya hai
+  Husain ka zikr be riya hai
   
   tu ab bhi mujhse ye puchta hai
-  Hussain kiya hai namaz kiya hai
+  Husain kiya hai namaz kiya hai
   
   3
   namaz hai Roshni ki taalib
-  Hussain shamein bujha raha hai
+  Husain shamein bujha raha hai
   
   namaz kasrat ko chahti hai
   ye shan-e-wehdat dikha raha hai
@@ -52,20 +52,20 @@ romanLyrics: |-
   ye dosh per jagmaga raha hai
   
   tu ab bhi mujhse ye puchta hai
-  Hussain kiya hai namaz kiya hai
+  Husain kiya hai namaz kiya hai
   
   4
   namaz darti rahi lahu se
   ye khun ki masnad bicha raha hai
   
   namaz zindon ka hai wazifa
-  Hussain marna sikha raha hai
+  Husain marna sikha raha hai
   
   namaz hai kibriya ki talib
-  Hussain matloob-e-kibriya hai
+  Husain matloob-e-kibriya hai
   
   tu ab bhi mujhse ye puchta hai
-  Hussain kiya hai namaz kiya hai
+  Husain kiya hai namaz kiya hai
   
   5
   naamaz zere sajood-e-ahmad
@@ -78,7 +78,7 @@ romanLyrics: |-
   ye dast-e-baiyat utha raha hai
   
   tu ab bhi mujhse ye puchta hai
-  Hussain kiya hai namaz kiya hai
+  Husain kiya hai namaz kiya hai
 ---
 
 تو اب بھی مجھ سے یہ پوچھتا ہے

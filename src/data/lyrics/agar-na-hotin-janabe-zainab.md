@@ -12,106 +12,140 @@ cover: "/images/lyrics/agar-na-hotin-janabe-zainab.png"
 coverAlt: "Cover image for Agar Na Hotin Janabe Zainab"
 published: true
 romanLyrics: |-
+  1
   Agar na hotin Janab-e Zainab, na hota Allah ka naam lewa
   Agar na hotin Janab-e Zainab, na deen hota na hota kalma
 
+  2
   Agar na hotin Janab-e Zainab, Husain ka kaam tha adhoora
   Agar na hotin Janab-e Zainab, Husain ki kaun thi shareeka
 
+  3
   Husain ki hai shareeka Zainab, nahin hai koi shareek un ka
   Agar na hotin Janab-e Zainab, to kaun Abid ke saath chalta
 
+  4
   Yazeed ne apne taur par to liya tha Badr-o-Uhad ka badla
   Agar na hotin Janab-e Zainab, na bajta deen-e Khuda ka danka
 
+  5
   Sahabiyat ki naqab chehre pe dale rakhi thi ahl-e shar ne
   Agar na hotin Janab-e Zainab, dikhayi deta na asli chehra
 
+  6
   Yazeed ailaniya tha karta sharab noshi siyah kari
   Agar na hotin Janab-e Zainab, to kaun dikhlata haq ka rasta
 
+  7
   Yazeed tha bhanja nawasa saleebiyon ka to is liye bhi
   Agar na hotin Janab-e Zainab, to hota batil ka daur daura
 
+  8
   Yazeed takzeeb kar raha tha nuzool-e wahi aur Rasool-e Haq ki
   Agar na hotin Janab-e Zainab, to kaun haq ka lagata naara
 
+  9
   The sare hirs-o-hawas ke bande, ya khauf aur maslahat ke mare
   Agar na hotin Janab-e Zainab, kahin na milta Khuda ka banda
 
+  10
   The saath go Imam-e dauran bhi aur ahl-e haram bhi lekin
   Agar na hotin Janab-e Zainab, na hoti taskheer-e Shaam-o-Kufa
 
+  11
   Ali ki beti ne har qadam par bayan kiya maqsad-e shahadat
   Agar na hotin Janab-e Zainab, taaruf-e Karbala na hota
 
+  12
   Thi chunke tashheer aur aseeri bhi Shah ke imtihaan mein shamil
   Agar na hotin Janab-e Zainab, to kaise hota yeh ahd poora
 
+  13
   Banu Umayya mita rahe the tamam aasar-e deen yaksar
   Agar na hotin Janab-e Zainab, Muawiyat par naqab rehta
 
+  14
   Qalam farosh-o-zameer murda chale the tareekh maskh karne
   Agar na hotin Janab-e Zainab, shareef kehlati nasal-e Hinda
 
+  15
   Hua jo baad-e shahadat un ke, woh hota Karb-o-Bala se pehle
   Agar na hotin Janab-e Zainab, tabah hote Madina Makkah
 
+  16
   Yeh jitne Hafiz hain aur Qari hain sab pe khutbat in ke bhari
   Agar na hotin Janab-e Zainab, na hota Quran parhne wala
 
+  17
   Ginayen kya kya fazail in ke, yeh kehna kafi hai Sibt-e Jafar
   Agar na hotin Janab-e Zainab, na jane kya hota kya na hota
 
 ---
 
+۱
 اگر نہ ہوتیں جناب زینبؑ نہ ہوتا اللہ کا نام لیوا
 اگر نہ ہوتیں جناب زینبؑ نہ دین ہوتا نہ ہوتا کلمہ
 
+۲
 اگر نہ ہوتیں جناب زینبؑ حسینؑؑ کا کام تھا اَدُھورا
 اگر نہ ہوتیں جناب زینبؑ حسینؑؑ کی کون تھی شریکہ
 
+۳
 حسینؑؑ کی ہے شریکہ زینبؑ نہیں ہے کوئی شریک اُن کا
 اگر نہ ہوتیں جناب زینبؑ تو کون عابدؑ کے ساتھ چلتا
 
+۴
 یزید نے اپنے طور پر تو لیا تھا بَدر و اُحد کا بَدلہ
 اگر نہ ہوتیں جناب زینبؑ نہ بجتا دینِ خدا کا ڈنکا
 
+۵
 صحابیت کی نقاب چہرے پہ ڈالے رکھی تھی اہل شر نے
 اگر نہ ہوتیں جناب زینبؑ دکھائی دیتا نہ اصلی چہرہ
 
+۶
 یزید اعلانیہ تھا کرتا شراب نوشی سیاہ کاری
 اگر نہ ہوتیں جناب زینبؑ تو کون دِکھالاتا حق کا رَستہ
 
+۷
 یزید تھا بھانجہ نواسہ صلیبیوں کا تو اِس لئے بھی
 اگر نہ ہوتیں جناب زینبؑ تو ہوتا باطل کا دَور دَورہ
 
+۸
 یزید تکذیب کررہا تھا نزولِ وَحی اور رسولِؐ حق کی
 اگر نہ ہوتیں جناب زینبؑ تو کون حق کا لگاتا نعرہ
 
+۹
 تھے سارے حِرص و حَوَس کے بندے، یا خوف اَور مصلحت کے مَارے
 اگر نہ ہوتیں جناب زینبؑ کہیں نہ ملتا خدا کا بندہ
 
+۱۰
 تھے ساتھ ہوں تو امام دوراں بھی اور اہلِ حرم بھی لیکن
 اگر نہ ہوتیں جناب زینبؑ نہ ہوتی تسخیرِ شام و کوفہ
 
+۱۱
 علیؑ کی بیٹی نے ہر قدم پر بیاں کیا مقصدِ شہادت
 اگر نہ ہوتیں جناب زینبؑ تعرّفِ کربلا نہ ہوتا
 
+۱۲
 تھی چونکہ تَشہیر اَور اسیری بھی شاہ کے امتحاں میں شامل
 اگر نہ ہوتیں جناب زینبؑ تو کیسے ہوتا یہ عہد پورا
 
+۱۳
 بنو اُمیہ مِٹارہے تھے تمام آثارِ دین یَکسر
 اگر نہ ہوتیں جناب زینبؑ مُعاویت پر نقاب رہتا
 
+۱۴
 قلم فروش و ضمیر مُردہ چلے تھے تاریخ مسخ کرنے
 اگر نہ ہوتیں جناب زینبؑ شریف کہلاتی نسلِ ہندہ
 
+۱۵
 ہوا جو بعدِ شہادت اُن کے وہ ہوتا کرب و بلا سے پہلے
 اگر نہ ہوتیں جناب زینبؑ تباہ ہوتے مدینہ مکہ
 
+۱۶
 یہ جتنے حافظ ہیں اور قاری ہیں سب پہ خُطبات اِن کے بھاری
 اگر نہ ہوتیں جناب زینبؑ نہ ہوتا قران پڑھنے والا
 
+۱۷
 گِنائیں کیا کیا فضائل اِن کے یہ کہنا کافی ہے سبؔطِ جعفر
 اگر نہ ہوتیں جناب زینبؑ نہ جانے کیا ہوتا کیا نہ ہوتا

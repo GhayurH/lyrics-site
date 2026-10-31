@@ -1,21 +1,21 @@
 ---
 title: "لا رہا ہوں میں لاشئہ اکبر"
-alternateTitle: "Laa raha hun main lasha e Akbar"
+alternateTitle: "Laa Raha Hun Main Lasha E Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Laa raha hun main lasha e Akbar"
+  - "Laa Raha Hun Main Lasha E Akbar"
 cover: "/images/lyrics/laa-raha-hun-main-lasha-e-akbar.png"
-coverAlt: "Cover image for Laa raha hun main lasha e Akbar"
+coverAlt: "Cover image for Laa Raha Hun Main Lasha E Akbar"
 published: true
 romanLyrics: |-
   Laa raha hun main lasha e Akbar
   Umme Laila sambhaal Zainab ko
   
-  Bolay honge Hussain ye rokar
+  Bole honge Husain ye rokar
   Umme Laila sambhaal Zainab ko
   
   1
@@ -24,6 +24,7 @@ romanLyrics: |-
   Kaise hamsheer ko sambhalunga
   Mai sambhale hue hun Akbar ko
   Tera ehsaan hoga ye mujh par
+  Umme Laila Sambhaal Zainab Ko
   
   2
   Iske seene se kehke naam-e-Ali
@@ -31,13 +32,15 @@ romanLyrics: |-
   Imtehan de chuki meri ghurbat
   Ab teri bekasi ki baari hai
   Tu bhi is waqt ya Ali keh kar
+  Umme Laila Sambhaal Zainab Ko
   
   3
-  Do nageene thay iski jholi may
+  Do nageene the iski jholi may
   Dono Akbar pe kar diye sadqa
   Sabr aisa ke apne beton par
   Maine rote isay nahi dekha
   Hai magar ab ye lasha e Akbar
+  Umme Laila Sambhaal Zainab Ko
   
   4
   Rok rakha hai apne ashkon ko
@@ -45,6 +48,7 @@ romanLyrics: |-
   Main samajhta hun maadar e Akbar
   Teri mamta pe jo guzarti hai
   Rakh ke apne kaleje par pathar
+  Umme Laila Sambhaal Zainab Ko
   
   5
   Kaise laash-e-jawan uthaye hun
@@ -52,13 +56,15 @@ romanLyrics: |-
   In nishano ko peeche peeche mere
   Amma Zehra mitati aati hai
   Uski nazrein na dekhein ye manzar
+  Umme Laila Sambhaal Zainab Ko
   
   6
   Ay takallum wo shaam o kufa ka
   Tay hua hoga is tarah se safar
   Amma Zainab sambhaalna maa ko
-  Kehtay hongay sina say yeh Akbar
-  Aur hoga Hussain ke lab par
+  Kehte hongay sina se yeh Akbar
+  Aur hoga Husain ke lab par
+  Umme Laila Sambhaal Zainab Ko
 ---
 
 لا رہا ہوں میں لاشئہ اکبر
@@ -73,6 +79,7 @@ romanLyrics: |-
 کیسے ہمشیر کو سنبھالوں گا
 میں سنبھالے ہوئے ہوں اکبر کو
 تیرا احسان ہوگا یہ مجھ پر
+اُمِ لیلی سنبھال زینب کو
 
 ۲
 اِس کے سینے سے کهہ کے نامِ علی
@@ -80,6 +87,7 @@ romanLyrics: |-
 امتحاں دے چکی میری غربت
 اب تیری بےکسی کی باری ہے
 تُوبھی اِس وقت یاعلی کہہ کر
+اُمِ لیلی سنبھال زینب کو
 
 ۳
 دو نگینے تھے اِسکی جھولی میں
@@ -87,6 +95,7 @@ romanLyrics: |-
 صبر ایسا کہ اپنے بیٹوں پر
 میں نے روتے اِسے نہیں دیکھا
 ہے مگر اب یہ لاشئه اکبر
+اُمِ لیلی سنبھال زینب کو
 
 ۴
 روک رکھا ہے اپنے اشکوں کو
@@ -94,6 +103,7 @@ romanLyrics: |-
 میں سمجھتا ہوں مادرِ اکبر
 تیری ممتا پہ جو گزرتی ہے
 رکھ کے اپنے کلیجے پر پتھر
+اُمِ لیلی سنبھال زینب کو
 
 ۵
 کیسے لاشِ جواں اُٹھائے ہوں
@@ -101,6 +111,7 @@ romanLyrics: |-
 اِن نشانوں کو پیچھے پیچھے میرے
 اماں زہرا مٹاتی آتی ہیں
 اُس کی نظریں نہ دیکھیں یہ منظر
+اُمِ لیلی سنبھال زینب کو
 
 ۶
 اے تکلم وہ شام و کوفہ کا
@@ -108,3 +119,4 @@ romanLyrics: |-
 اماں زینب سنبھالنا ماں کو
 کہتے ہونگے سناں سے یہ اکبر
 اورہوگا حسین کے لب پر
+اُمِ لیلی سنبھال زینب کو

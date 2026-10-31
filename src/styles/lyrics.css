@@ -45,9 +45,8 @@
 .lyrics-text { font-family: var(--font-urdu); font-size: 1em; line-height: 2.7; text-align: start; }
 .roman-lyrics-text { font-family: var(--font-roman); font-size: 1em; line-height: 2; text-align: left; }
 
-/* Each blank-line-delimited source group is one printed stanza. A single
-   rule between groups replaces source whitespace, without trying to guess
-   stanza length, refrain, or verse counts. */
+/* Source blank lines delimit stanzas; presentation joins six-verse
+   4+2 groups and frames the closing couplet in either source form. */
 .lyric-reading-text {
   min-width: 0;
   width: 100%;
@@ -68,6 +67,27 @@
   word-break: normal;
   min-inline-size: 0;
 }
+/* The six-verse form matches Basta: first four lines are end-inset,
+   and the final pair has start indentation and framing rules. */
+.lyric-stanza-six:not(.lyric-stanza-pairs) .lyric-verse:not(:nth-last-child(-n+2)) {
+  padding-inline-end: clamp(1.75rem, 6%, 3rem);
+}
+.lyric-stanza-six:not(.lyric-stanza-pairs) .lyric-verse:nth-last-child(-n+2) {
+  margin-inline-start: clamp(1.75rem, 6%, 3rem);
+}
+.lyric-stanza-six:not(.lyric-stanza-pairs) .lyric-verse:nth-last-child(2) { border-top: var(--ui-border); }
+.lyric-stanza-six:not(.lyric-stanza-pairs) .lyric-verse:last-child { border-bottom: var(--ui-border); }
+/* Alternate 2+2+2 form: first and third couplets end-inset, middle
+   couplet start-inset, with a rule between each adjacent pair. */
+.lyric-stanza-pairs .lyric-verse:nth-last-child(n+5),
+.lyric-stanza-pairs .lyric-verse:nth-last-child(-n+2) { padding-inline-end: clamp(1.75rem, 6%, 3rem); }
+.lyric-stanza-pairs .lyric-verse:nth-last-child(4),
+.lyric-stanza-pairs .lyric-verse:nth-last-child(3) { margin-inline-start: clamp(1.75rem, 6%, 3rem); }
+.lyric-stanza-pairs .lyric-verse:nth-last-child(5),
+.lyric-stanza-pairs .lyric-verse:nth-last-child(3) { border-bottom: var(--ui-border); }
+/* Do not double the stanza separator after a framed closing pair. */
+.lyric-stanza-six:not(.lyric-stanza-pairs) + .lyric-stanza { border-top: 0; }
+
 .lyric-reading-grid[data-reading-mode="urdu"], .lyric-reading-grid[data-reading-mode="roman"] { max-width: var(--reading-single-width); margin-inline: auto; }
 .lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0, var(--reading-single-width)); justify-content: center; }
 .lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0, var(--reading-single-width)); justify-content: center; }

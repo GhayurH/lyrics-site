@@ -51,7 +51,7 @@ romanLyrics: |-
   Uski Sughra Ka Bhi Khat Aane Hi Waala Hota
   
   8
-  Bas Ye Kehte Thay Takallum Shah-e-Waala Ro Kar
+  Bas Ye Kehte The Takallum Shah-e-Waala Ro Kar
   Hoti Akbar Teri Aulaad Zamane Mein Agar
   Tujhko Ehsaas Mere Dil Ki Tarap Ka Hota
 ---

@@ -1,44 +1,53 @@
-// File role: Non-Basta stanza boundary regressions. Blank lines, not verse counts, delimit stanzas.
+// File role: Exercise non-Basta stanza parsing and six-verse presentation contracts.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { readFileSync } from "node:fs";
-import { splitLyricStanzas } from "../src/lib/lyric-stanzas.ts";
+import { splitLyricStanzas, layoutLyricStanzas } from "../src/lib/lyric-stanzas.ts";
 import { parseStanzaNumber } from "../src/lib/stanza-numbers.ts";
 
-test("blank lines alone delimit stanzas; one blank or many behave identically", () => {
-  const blocks = splitLyricStanzas("one\ntwo\n\nthree\nfour\n\n\n five\nsix");
-  assert.equal(blocks.length, 3);
-  assert.deepEqual(blocks.map(block => block.map(line => line.text)), [
+test("only blank lines separate stanzas, including consecutive blank lines", () => {
+  const stanzas = splitLyricStanzas("one\ntwo\n\nthree\nfour\n\n\n five\nsix");
+  assert.deepEqual(stanzas.map(lines => lines.map(line => line.text)), [
     ["one", "two"], ["three", "four"], [" five", "six"],
   ]);
 });
 
-test("standalone numbers are preserved while numerals embedded in verses are not markers", () => {
-  const stanzas = splitLyricStanzas("۱\nپہلا مصرع 2\nدوسرا مصرع\n\n2\nthird line");
-  assert.deepEqual(stanzas.map(block => block.map(line => line.number)), [
+test("isolated Urdu and Roman numerals are stanza markers, not inline numbers", () => {
+  const stanzas = splitLyricStanzas("۱.\nپہلا مصرع 2\nدوسرا مصرع\n\n2)\nRoman verse");
+  assert.deepEqual(stanzas.map(lines => lines.map(line => line.number)), [
     [true, false, false], [true, false],
   ]);
+  assert.deepEqual(stanzas.map(lines => lines[0].text), ["۱", "2"]);
   assert.equal(parseStanzaNumber("۶"), "۶");
-  assert.equal(parseStanzaNumber("6"), "6");
   assert.equal(parseStanzaNumber("6 verses"), null);
 });
 
-test("real Urdu non-Basta Markdown retains numbered stanzas and source breaks", () => {
-  const source = readFileSync(new URL("../src/data/lyrics/aa-asghar-bin-tere.md", import.meta.url), "utf8");
-  const body = source.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
-  const stanzas = splitLyricStanzas(body);
-  assert.equal(stanzas.length, 6);
-  assert.deepEqual(stanzas.slice(1).map(block => block[0].text), ["۱", "۲", "۳", "۴", "۵"]);
-  assert.ok(stanzas.slice(1).every(block => block.length >= 3));
+test("meaningful source asterisks are not removed by stanza parsing", () => {
+  const stanzas = splitLyricStanzas("۱\n*پہلا مصرع\nدوسرا مصرع\n\n2\n*Roman verse");
+  assert.equal(stanzas[0][1].text, "*پہلا مصرع");
+  assert.equal(stanzas[1][1].text, "*Roman verse");
 });
 
+test("a numbered four-line group and its closing couplet display as six verses", () => {
+  const source = "۱\nfirst\nsecond\nthird\nfourth\n\nfifth\nsixth\n\n۲\nnext one\nnext two";
+  const original = splitLyricStanzas(source);
+  const rendered = layoutLyricStanzas(source);
+  assert.deepEqual(rendered.map(lines => lines.filter(line => !line.number).length), [6, 2]);
+  assert.equal(rendered[0][0].text, "۱");
+  assert.deepEqual(rendered.flat(), original.flat(), "display grouping must not change the words or order");
+});
 
-test("non-Basta Urdu and Roman standalone stanza numbering is circle-ready", () => {
-  const urdu = splitLyricStanzas("۱.\nاردو مصرع\nاردو مصرع\n\n۲\nاور مصرع");
-  const roman = splitLyricStanzas("1)\nRoman line\nRoman line\n\n2\nOther line");
-  assert.deepEqual(urdu.map(block => block[0].text), ["۱", "۲"]);
-  assert.deepEqual(roman.map(block => block[0].text), ["1", "2"]);
-  assert.ok(urdu.every(block => block[0].number));
-  assert.ok(roman.every(block => block[0].number));
-  assert.ok(!urdu[0][1].number && !roman[0][1].number);
+test("opening four-plus-two and complete six-line stanzas preserve their text", () => {
+  const opening = "intro one\nintro two\nintro three\nintro four\n\nclose one\nclose two\n\n۱\nverse one\nverse two";
+  const rendered = layoutLyricStanzas(opening);
+  assert.deepEqual(rendered.map(lines => lines.filter(line => !line.number).length), [6, 2]);
+  const complete = "۱\none\ntwo\nthree\nfour\nfive\nsix\n\n۲\nseven\neight\nnine\nten\neleven\ntwelve";
+  assert.deepEqual(layoutLyricStanzas(complete), splitLyricStanzas(complete));
+});
+
+test("unrelated refrains and adjacent two-line stanzas stay separate", () => {
+  const source = "opening one\nopening two\n\nrefrain one\nrefrain two\n\n۱\none\ntwo\nthree\nfour\n\nending one\nending two";
+  const rendered = layoutLyricStanzas(source);
+  assert.deepEqual(rendered.map(lines => lines.filter(line => !line.number).length), [2, 2, 6]);
+  const couplets = "۱\nline a\nline b\n\nline c\nline d\n\nline e\nline f";
+  assert.deepEqual(layoutLyricStanzas(couplets), splitLyricStanzas(couplets));
 });

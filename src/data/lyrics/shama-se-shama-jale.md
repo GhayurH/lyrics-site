@@ -1,15 +1,15 @@
 ---
 title: "شمع سے شمع جلے، سلسلہ جاری رہے"
-alternateTitle: "Shama se shama jale"
+alternateTitle: "Shama Se Shama Jale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Shama se shama jale"
+  - "Shama Se Shama Jale"
 cover: "/images/lyrics/shama-se-shama-jale.png"
-coverAlt: "Cover image for Shama se shama jale"
+coverAlt: "Cover image for Shama Se Shama Jale"
 published: true
 romanLyrics: |-
   Shama se shama jale, silsila jari rahe,
@@ -77,7 +77,7 @@ romanLyrics: |-
 اپنی نسلوں کو سِکھاتے رہو ماتم کا ہنر
 سینہ دَر سینہ کرے بس یہ عزاداری سفر
 جیسے حالات بھی ہوں، یہ عمل جاری رہے
-ہم رہیں یا نہ رہیں ، یہ عزاداری رہے
+ہم رہیں یا نہ رہیں، یہ عزاداری رہے
 
 ۲
 لاکھ بدلے یہ زمانے کی رَوِش اور موسم

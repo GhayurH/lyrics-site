@@ -1,15 +1,15 @@
 ---
 title: "مولا حق امام"
-alternateTitle: "maula haq imam"
+alternateTitle: "Maula Haq Imam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "maula haq imam"
+  - "Maula Haq Imam"
 cover: "/images/lyrics/maula-haq-imam.png"
-coverAlt: "Cover image for maula haq imam"
+coverAlt: "Cover image for Maula Haq Imam"
 published: true
 romanLyrics: |-
   1

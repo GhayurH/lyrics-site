@@ -1,54 +1,51 @@
 ---
 title: "گونجی بوقتِ عصر صدا، میں حسین ہوں"
-alternateTitle: "Goonji bawaqt e asr sada, main Hussain hoon"
+alternateTitle: "Goonji Bawaqt E Asr Sada, Main Husain Hoon"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Goonji bawaqt e asr"
+  - "Goonji Bawaqt E Asr"
 cover: "/images/lyrics/goonji-bawaqt-e-asr.png"
 coverAlt: "Cover image for Goonji bawaqt e asr"
 published: true
 romanLyrics: |-
-  Goonji bawaqt e asr sada main Hussain hoon
-  Kaato na mera khushk gala main Hussain hoon
+  Goonji bawaqt e asr sada, main Husain hoon
+  Kaato na mera khushk gala, main Husain hoon
   
   1
   Amma kisi ne pani ki ek boondh bhi na di
-  Main baar baar kehta raha main Hussain hoon
+  Main baar baar kehta raha main Husain hoon
   
   2
   Sookhi hui shimr mere halq ki ragein
-  Aahista tu churi ko chala main Hussain hoon
+  Aahista tu churi ko chala main Husain hoon
   
   3
   Sheeren ke ghar pe pahuncha jab raando ka qafila
-  Naize se ek sar ne kaha main Hussain hoon
+  Naize se ek sar ne kaha main Husain hoon
   
   4
   Darbaar may laeen ke kohraam mach gaya
-  Mukhtar se jo sar ne kaha main Hussain hoon
+  Mukhtar se jo sar ne kaha main Husain hoon
   
   5
   Zaanu pe rakh ke sar ko kaha ek zaeef ne
-  Akbar kahan hai dard bata main Hussain hoon
+  Akbar kahan hai dard bata main Husain hoon
   
   6
   Ay shamiyo kafan na diya mujhko gham nahi
-  Dedo meri behan ko rida main Hussain hoon
+  Dedo meri behan ko rida main Husain hoon
   
   7
   Mehsoos ho raha hai ke maqtal se aaj bhi
-  Awaaz aa rahi hai Raza main Hussain hoon
+  Awaaz aa rahi hai Raza main Husain hoon
 ---
 
-گونجی بوقتِ عصر صدا
-میں حسین ہوں
-
-کاٹو نہ میرا خشک گلا
-میں حسین ہوں
+گونجی بوقتِ عصر صدا، میں حسین ہوں
+کاٹو نہ میرا خشک گلا، میں حسین ہوں
 
 ۱
 اماں کسی نے پانی کی اک بوند بھی نہ دی

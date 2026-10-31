@@ -1,15 +1,15 @@
 ---
 title: "رب دے حوالے رب دے حوالے"
-alternateTitle: "Rab de hawale"
+alternateTitle: "Rab De Hawale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Rab de hawale"
+  - "Rab De Hawale"
 cover: "/images/lyrics/rab-de-hawale.png"
-coverAlt: "Cover image for Rab de hawale"
+coverAlt: "Cover image for Rab De Hawale"
 published: true
 romanLyrics: |-
   Rab de hawale Rab de hawale

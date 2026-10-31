@@ -26,8 +26,8 @@ romanLyrics: |-
   Use Hawala-e-Zindaan-e-Shaam Kar Ke Chale
   
   3
-  Koi Hamara Mara To Kaha Hussain Hussain
-  Aza Ka Farsh Bichha To Kaha Hussain Hussain
+  Koi Hamara Mara To Kaha Husain Husain
+  Aza Ka Farsh Bichha To Kaha Husain Husain
   Ye Intezaam Bhi Chauthe Imam Kar Ke Chale
   
   4

@@ -1,15 +1,15 @@
 ---
 title: "چھانے لگی شامِ غریباں ہائے قیامت کا ہے سماں"
-alternateTitle: "Chhane lagi shaam e ghareeban"
+alternateTitle: "Chhane Lagi Shaam E Ghareeban"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 tags: []
 aliases:
-  - "Chhane lagi shaam e ghareeban"
+  - "Chhane Lagi Shaam E Ghareeban"
 cover: "/images/lyrics/chhane-lagi-shaam-e-ghareeban.png"
-coverAlt: "Cover image for Chhane lagi shaam e ghareeban"
+coverAlt: "Cover image for Chhane Lagi Shaam E Ghareeban"
 published: true
 romanLyrics: |-
   Chhane lagi shaam e ghareeban haaye qiyamat ka hai samaan

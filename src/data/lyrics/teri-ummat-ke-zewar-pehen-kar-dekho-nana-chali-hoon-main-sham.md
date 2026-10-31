@@ -1,6 +1,6 @@
 ---
 title: "تیری امت کے زیور پہن کر"
-alternateTitle: "Teri Ummat Ke Zewar Pehen Kar Dekho Nana Chali Hoon Main Sham"
+alternateTitle: "Teri Ummat Ke Zewar Pehen Kar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

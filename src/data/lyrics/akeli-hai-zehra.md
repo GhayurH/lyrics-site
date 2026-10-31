@@ -30,7 +30,7 @@ romanLyrics: |-
   Ke Le Jao Aa Kar, Akeli Hai Zehra
   
   3
-  Ay Lakhte Jigar, Ay Hassan Ibne Hyder
+  Ay Lakhte Jigar, Ay Hasan Ibne Hyder
   Ye Nana Ke Pehlu Mein Sone Na De Gar
   Tum Aa Jana Pehlu Mein So Jana Maan Ke
   Baqi Mein Yahan Par, Akeli Hai Zehra

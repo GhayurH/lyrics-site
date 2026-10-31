@@ -15,41 +15,49 @@ romanLyrics: |-
   Fatima ke chain ne Ali ke noor-e-ain ne
   Bakhuda Husain ne deen ko bacha diya
 
+  1
   Harf aa raha tha deen-e Mustafa ke naam par
   Minbar-e Rasool bik raha tha takht-e Shaam par
   Deen ki asaas ne dast-e haq-shanas ne
   Ummat-e Muhammadi ko khwab se jaga diya
 
+  2
   Har taraf se band ho chuke the haq ke raste
   Khoon mangta tha deen zindagi ke waste
   Deen ke usool ne naib-e Rasool ne
   Zindagi ka qarz apne khoon se chuka diya
 
+  3
   Meer-e Shaam ban gaya tha saanp aasteen ka
   Khusrawi ke sar pe rakh raha tha taj deen ka
   Badshah-e deen ne boriya-nasheen ne
   Aarzoo-e khusrawi ko khaak mein mila diya
 
+  4
   Phir se shirk ki taraf palat na jaye aadmi
   Raah-e mustaqeem se bhatak na jaye aadmi
   Shah-e tashna-kaam ne waqt ke Imam ne
   Haq ki raah par lahoo se ek diya jala diya
 
+  5
   Barhte barhte baat jab usool-e deen pe aa gayi
   Aur Yazidiyat ki shakl mein urooj paa gayi
   Barh ke phir diler ne sher-e haq ke sher ne
   Do pehar mein takht-o-taj-o-qasr-e Shaam dha diya
 
+  6
   Halq-e be-zabaan se zulm ki kamaan tor di
   Shah-rag-e gulu se khanjaroon ki dhaar mor di
   Nazish-e hayat ne fakhr-e kainat ne
   Sar kata ke aadmi ka sar buland kar diya
 
+  7
   Dil kahan se laaun jo karoon yeh waqia bayan
   Teen din ki pyaas mein woh hausla tha al-amaan
   Zulm ke aseer ne rann mein ek sagheer ne
   Muskura ke fauj-e Shaam ko rula rula diya
 
+  8
   Laakh jaan-o-dil nisar Sayyid-e Anam par
   Ro diya falak bhi be-kasi-e tashna-kaam par
   Apne mahjabeen ko dilbar-e haseen ko
@@ -60,41 +68,49 @@ romanLyrics: |-
 فاطمہ کے چین نے علی کے نورِ عین نے
 باخدا حسین نے دین کو بچا دیا
 
+۱
 حرف آ رہا تھا دینِ مُصطفی کے نام پر
 ممبرِ رسول بِک رہا تھا تختِ شام پر
 دین کی اساس نے دستِ حق شناس نے
 اُمتِ محمدی کو خواب سے جگا دیا
 
+۲
 هر طرف سے بندھ ہوچکے تھے حق کے راستے
 خون مانگتا تھا دین زندگی کے واسطے
 دین کے اُصول نے نائبِ رسول نے
 زندگی کا قرض اپنے خون سے چُکا دیا
 
+۳
 میرِ شام بن گیا تھا سانپ آستین کا
 خُسروی کے سر پہ رکھ رہا تھا تاج دین کا
 بادشاہِ دین نے بوریا نشین نے
 آرزوئے خُسروی کو خاک میں ملا دیا
 
+۴
 پھر سے شرک کی طرف پلٹ نہ جائے آدمی
 راهِ مُستقیم سے بھٹک نہ جائے آدمی
 شاہِ تشنہ کام نے وقت کے امام نے
 حق کی راہ پر لہو سے اک دیا جلا دیا
 
+۵
 بڑھتے بڑھتے بات جب اُصولِ دیں پہ آگئی
 اور یزیدیت کی شکل میں عروج پا گئی
 بڑھ کے پھر دلیر نے شیرِ حق کے شیر نے
 دو پہر میں تخت و تاج و قصرِ شام ڈھا دیا
 
+۶
 حلقِ بے زبان سے ظُلم کی کمان توڑ دی
 شہ رگِ گُلو سے خنجروں کی دھار موڑ دی
 نازشِ حیات نے فخرِ کائنات نے
 سر کٹا کے آدمی کا سر بلند کر دیا
 
+۷
 دل کہاں سے لاؤں جو کروں یہ واقعہ بیان
 تین دن کی پیاس میں وہ حوصلہ تھا الامان
 ظلم کے اسیر نے رن میں اک صغیر نے
 مسکرا کے فوج شام کو رلا رلا دیا
 
+۸
 لاکھ جان و دل نثار سیدِ اَنام پر
 رو دیا فلک بھی بے کسئ تشنہ کام پر
 اپنے مہجبیں کو دلبرِ حَسِین کو

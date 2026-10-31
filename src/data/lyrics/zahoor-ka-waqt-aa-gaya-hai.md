@@ -35,7 +35,7 @@ romanLyrics: |-
   Zahoor Ka Waqt Aa Gaya Hai, Mawaliyon Se Banaye Rakhna
 
   5
-  Hai Intiqam-e-Hussain Baqi, Woh Aane Wala Hisaab Lega
+  Hai Intiqam-e-Husain Baqi, Woh Aane Wala Hisaab Lega
   Aqeeda Apna Durust Rakhna, Jo Unki Nusrat Ki Hai Tamanna
   Zahoor Ka Waqt Aa Gaya Hai, Amal Ko Bhi Aazmaye Rakhna
 

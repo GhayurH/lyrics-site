@@ -49,6 +49,8 @@ Standalone lyrics, Basta page-by-page, the linked Basta index, the continuous re
 - **Focus Mode:** `reading-focus.ts` and `reading-focus.css` handle immersive controls, browser history/fullscreen, and position restoration. Ordinary mobile controls and the scrolled desktop reader toolbar show an edition summary while secondary settings collapse; Focus Mode has independent options. The mobile header retracts on downward scrolling and reappears on upward scrolling or when navigation is open.
 - **Scan access:** Keep native links functional without JavaScript; `scan-viewer.ts` enhances them with accessible zoom and pan. Absent R2 images must not make text navigation unusable.
 
+For **standalone non-Basta lyrics**, `src/lib/lyric-stanzas.ts` parses source blank-line boundaries and joins numbered 4+2 groups for six-verse presentation without altering the Markdown text. `LyricVerses.astro` and `recitation-reader.ts` use the same stanza layout; the optional `sixVerseLayout: "pairs"` frontmatter setting selects an alternate 2+2+2 layout in both readers and exported recitation programmes. Its first and third couplets are end-inset, its middle couplet is start-inset, and rules separate the pairs. Neither style permits verse wrapping.
+
 The explicit `---***---` separators in both Basta language files define matching kalam boundaries. `src/lib/basta-text.ts` distinguishes actual titles from poet credits and repeated opening lines; title styling is bold and underlined. Static `BastaText.astro` and streamed `basta-stream.ts` output must agree on headings, scan links, edition labels, page numbers, and kalam boundaries. Do not infer boundaries from stanza length.
 
 ## Basta navigation and streaming
@@ -78,6 +80,6 @@ Published programme documents and hashed private edit credentials use Cloudflare
 - Lazy-load noncritical R2 scans with reserved dimensions and async decoding; retain the original direct URLs.
 - Use `content-visibility` for off-screen continuous-reader content when supported, and avoid measuring distant reader panels during scrolling.
 - Do not load the full Saved catalog, entire Basta book, or Pagefind JavaScript in unrelated initial HTML.
-- Keep browser tests focused on distinct user-facing contracts: navigation, responsive geometry, unavailable editions, no-JavaScript access, and source/streamed markup parity. The smaller `@smoke` group covers core journeys, while full-only tests retain unusual viewports and feature-specific regressions. Ordinary PR commits run the build and Node checks; use `[smoke-ci]`, `[full-ci]`, or `[visual-ci]` to select browser coverage as documented in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
+- Keep browser tests focused on distinct user-facing contracts: navigation, responsive geometry, unavailable editions, no-JavaScript access, and source/streamed markup parity. The smaller `@smoke` group covers core journeys, while full-only tests retain unusual viewports and feature-specific regressions. Ordinary PR commits run the build and Node checks; use `[smoke-ci]` or `[full-ci]` to select browser coverage as documented in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
 
 Validation commands and CI conditions are documented once in [CONTRIBUTING.md](CONTRIBUTING.md#validation).

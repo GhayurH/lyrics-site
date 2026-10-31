@@ -1,18 +1,18 @@
 ---
 title: "اب اے ہواؤں کچھ خاک اُڑاؤ"
-alternateTitle: "Ab Aey Hawaon Kuch Khak Urao"
+alternateTitle: "Ab Ae Hawaon Kuch Khak Urao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases:
-  - "Ab Aey Hawaon Kuch Khak Urao"
+  - "Ab Ae Hawaon Kuch Khak Urao"
 cover: "/images/lyrics/ab-aey-hawaon-kuch-khak-urao.png"
-coverAlt: "Cover image for Ab Aey Hawaon Kuch Khak Urao"
+coverAlt: "Cover image for Ab Ae Hawaon Kuch Khak Urao"
 published: true
 romanLyrics: |-
-  Ab Aey Hawaon Kuch Khak Urao
+  Ab Ae Hawaon Kuch Khak Urao
   Laut Aayi Ran Se Sheh Ki Sawaari
   
   Zainab Sambhalna Hai Zeen Khali
@@ -56,7 +56,7 @@ romanLyrics: |-
 ---
 
 اب اے ہواؤں کچھ خاک اُڑاؤ
-لوٹ آئی رن سے شہ کی سواری
+لَوٹ آئی رن سے شہ کی سواری
 
 زینب سنبھلنا ہے زین خالی
 زخمی بدن سے ہے خون جاری
