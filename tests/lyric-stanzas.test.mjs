@@ -2,7 +2,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync, readdirSync } from "node:fs";
-import { splitLyricStanzas } from "../src/lib/lyric-stanzas.ts";
+import { splitLyricStanzas, layoutLyricStanzas } from "../src/lib/lyric-stanzas.ts";
 import { parseStanzaNumber } from "../src/lib/stanza-numbers.ts";
 
 test("blank lines alone delimit stanzas; one blank or many behave identically", () => {
@@ -156,4 +156,60 @@ test("meaningful asterisks in source poetry remain intact", () => {
     const source = readFileSync(new URL(filename, dir), "utf8");
     for (const marker of markers) assert.ok(source.includes(marker), filename + " missing " + marker);
   }
+});
+
+test("render split 4+2 numbered six-verse stanzas as single framed groups", () => {
+  const cases = [
+    ["ab-aey-hawaon-kuch-khak-urao.md", 4],
+    ["al-ajal-al-ajal-ya-imam-e-zamana-al-ajal.md", 8],
+    ["daastaan-e-shujaat-ka-darain-mein.md", 5],
+    ["hussain-al-ghareeb.md", 8],
+    ["meri-marqad-bana-lena.md", 8],
+    ["taqaddam-waladi.md", 10],
+    ["ya-zahra.md", 8],
+  ];
+  for (const [filename, expectedSixStanzas] of cases) {
+    const source = readFileSync(new URL("../src/data/lyrics/" + filename, import.meta.url), "utf8");
+    const roman = source.match(/romanLyrics: \|-\n([\s\S]*?)\n---\n/)?.[1]?.replace(/^  /gm, "");
+    assert.ok(roman, filename);
+    const urdu = source.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+    for (const text of [roman, urdu]) {
+      const original = splitLyricStanzas(text);
+      const displayed = layoutLyricStanzas(text);
+      const sixStanzas = displayed.filter(block =>
+        block[0]?.number && block.filter(line => !line.number).length === 6);
+      assert.equal(sixStanzas.length, expectedSixStanzas, filename + " six-verse stanza count");
+      assert.deepEqual(displayed.flat(), original.flat(), filename + " verse text and order preserved");
+      assert.ok(sixStanzas.every(block => block.at(-1) && !block.at(-1).number));
+    }
+  }
+});
+
+test("already grouped six-verse stanzas retain their numbers and text", () => {
+  for (const filename of [
+    "yeh-maula-ali-hai.md",
+    "khutba-e-moula-abbas.md",
+    "shareek-e-dawat-e-islam-hain-abu-talib.md",
+    "chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md",
+  ]) {
+    const source = readFileSync(new URL("../src/data/lyrics/" + filename, import.meta.url), "utf8");
+    const urdu = source.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+    const original = splitLyricStanzas(urdu);
+    assert.deepEqual(layoutLyricStanzas(urdu), original, filename);
+    assert.ok(original.every(block => block.filter(line => !line.number).length === 6), filename);
+  }
+});
+
+test("rendering doesn't combine unrelated opening refrains or adjacent couplets", () => {
+  const intro = "intro one\nintro two\n\nrefrain one\nrefrain two\n\n۱\nfirst\nsecond\nthird\nfourth\n\nending one\nending two\n\n۲\none\ntwo\nthree\nfour\n\nending three\nending four";
+  const groups = layoutLyricStanzas(intro);
+  assert.deepEqual(groups.map(g => g.filter(l => !l.number).length), [2, 2, 6, 6]);
+  assert.equal(groups[2][0].text, "۱");
+  assert.equal(groups[3][0].text, "۲");
+  const couplets = "۱\nline a\nline b\n\nline c\nline d\n\nline e\nline f";
+  assert.deepEqual(layoutLyricStanzas(couplets), splitLyricStanzas(couplets));
+  const unnumbered = "opening one\nopening two\nopening three\nopening four\n\nclosing one\nclosing two\n\n۱\nnext one\nnext two\nnext three\nnext four";
+  const opening = layoutLyricStanzas(unnumbered);
+  assert.equal(opening.length, 2);
+  assert.equal(opening[0].length, 6);
 });

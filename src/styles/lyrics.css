@@ -45,8 +45,8 @@
 .lyrics-text { font-family: var(--font-urdu); font-size: 1em; line-height: 2.7; text-align: start; }
 .roman-lyrics-text { font-family: var(--font-roman); font-size: 1em; line-height: 2; text-align: left; }
 
-/* Blank lines delimit source stanzas. Most groups have one separator;
-   six-verse groups additionally frame their two-line ending. */
+/* Source blank lines delimit stanzas; presentation joins six-verse
+   4+2 groups and frames the closing couplet in either source form. */
 .lyric-reading-text {
   min-width: 0;
   width: 100%;
