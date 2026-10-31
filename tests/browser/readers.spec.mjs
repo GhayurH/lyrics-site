@@ -106,7 +106,7 @@ test("every visible poetry verse stays on one line and within its column at mobi
     await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
   }
 });
-test("six-verse stanza dividers have space below their closing lines in both scripts @smoke", async ({ page }) => {
+test("all three couplet dividers share equal verse-six clearance in both scripts @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 820 });
   await page.goto("/lyrics/karbala-karbala-karbala/");
   for (const spacing of ["compact", "default", "relaxed"]) {
@@ -116,33 +116,34 @@ test("six-verse stanza dividers have space below their closing lines in both scr
         const stanza = panel.querySelector(".lyric-stanza-pairs");
         const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
         const next = stanza.nextElementSibling;
-        const rules = [verses[1], verses[3]].map((line) => {
-          const style = getComputedStyle(line);
-          return {
-            border: Number.parseFloat(style.borderBottomWidth),
-            paddingInLines: Number.parseFloat(style.paddingBottom) / Number.parseFloat(style.lineHeight),
-          };
-        });
         return {
-          count: verses.length,
-          rules,
+          verseCount: verses.length,
+          rules: [verses[1], verses[3], verses[5]].map((line) => {
+            const style = getComputedStyle(line);
+            return {
+              border: Number.parseFloat(style.borderBottomWidth),
+              paddingInLines: Number.parseFloat(style.paddingBottom) /
+                Number.parseFloat(style.lineHeight),
+            };
+          }),
           nextBorder: Number.parseFloat(getComputedStyle(next).borderTopWidth),
-          gapInLines: (next.getBoundingClientRect().top -
-            verses[5].getBoundingClientRect().bottom) /
-            Number.parseFloat(getComputedStyle(next).lineHeight),
+          nextFollowsRule: next.getBoundingClientRect().top >=
+            verses[5].getBoundingClientRect().bottom,
           nowrap: verses.every((line) => getComputedStyle(line).whiteSpace === "nowrap"),
         };
       }));
     expect(results).toHaveLength(2);
     for (const panel of results) {
-      expect(panel.count).toBe(6);
+      expect(panel.verseCount).toBe(6);
       expect(panel.nowrap).toBe(true);
-      expect(panel.nextBorder).toBeGreaterThan(0);
-      expect(panel.gapInLines).toBeGreaterThan(0.5);
+      expect(panel.nextBorder).toBe(0);
+      expect(panel.nextFollowsRule).toBe(true);
       for (const rule of panel.rules) {
         expect(rule.border).toBeGreaterThan(0);
         expect(rule.paddingInLines).toBeGreaterThan(0.24);
       }
+      expect(Math.max(...panel.rules.map((r) => r.paddingInLines)) -
+        Math.min(...panel.rules.map((r) => r.paddingInLines))).toBeLessThan(0.01);
     }
   }
 });
