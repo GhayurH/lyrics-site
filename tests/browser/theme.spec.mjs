@@ -324,3 +324,32 @@ test("manual low-contrast text is warned about, and Advanced fits narrow viewpor
   await page.locator("#theme-primaryText-auto").check();
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
 });
+
+test("font choices persist independently of themes; Roman verses justify @smoke", async ({ page }) => {
+  await page.goto("/lyrics/na-bhool-kar-bhi/");
+  await page.locator("#theme-toggle").click();
+  const dialog = page.locator("#theme-dialog");
+  await dialog.locator("#theme-urdu-font").selectOption("naskh");
+  await dialog.locator("#theme-roman-font").selectOption("serif");
+  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "naskh");
+  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "serif");
+  const urdu = page.locator(".lyric-reading-urdu .lyrics-text");
+  const roman = page.locator(".lyric-reading-roman .roman-lyrics-text");
+  await expect.poll(() => urdu.evaluate((element) => getComputedStyle(element).fontFamily)).toContain("Noto Naskh Arabic");
+  await expect.poll(() => roman.evaluate((element) => getComputedStyle(element).fontFamily)).toContain("Georgia");
+  const verse = await roman.locator(".lyric-verse").first().evaluate((element) => {
+    const style = getComputedStyle(element);
+    return [style.textAlign, style.textAlignLast, style.whiteSpace];
+  });
+  expect(verse).toEqual(["justify", "justify", "nowrap"]);
+  await dialog.locator('input[value="amoled"]').check();
+  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "serif");
+  await page.locator("#theme-dialog-done").click();
+  await page.goto("/basta/138/");
+  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "naskh");
+  await expect.poll(() => page.locator(".basta-urdu-text").first().evaluate((element) =>
+    getComputedStyle(element).fontFamily)).toContain("Noto Naskh Arabic");
+  await page.locator("#theme-toggle").click();
+  await expect(dialog.locator("#theme-urdu-font")).toHaveValue("naskh");
+  await expect(dialog.locator("#theme-roman-font")).toHaveValue("serif");
+});

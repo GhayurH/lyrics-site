@@ -91,6 +91,7 @@ export function initVerseFitting(): void {
   window.addEventListener("resize", schedule, { passive: true });
   window.addEventListener("basta:content-loaded", schedule);
   window.addEventListener("kalam:columns-changed", schedule);
+  window.addEventListener("kalam:fonts-changed", schedule);
   document.fonts.ready.then(schedule);
   document.fonts.addEventListener?.("loadingdone", schedule);
 

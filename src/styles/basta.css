@@ -288,14 +288,13 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 .basta-urdu-text {
-  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
+  font-family: var(--font-urdu);
   line-height: 2.8;
   text-align: right;
 }
 
 .basta-roman-text {
-  font-family:
-    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: var(--font-roman);
   text-align: left;
 }
 
@@ -314,12 +313,11 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 .basta-index-table-urdu {
-  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
+  font-family: var(--font-urdu);
 }
 
 .basta-index-table-roman {
-  font-family:
-    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: var(--font-roman);
 }
 
 .basta-index-groups {
@@ -557,11 +555,6 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   text-align-last: justify;
   min-inline-size: 0;
 }
-/* Keep Roman Urdu verse spacing natural while retaining one-line verses. */
-:is(.basta-page-roman, .basta-reader-roman) .basta-verse-poetry:not(.basta-kalam-title) {
-  text-align: left;
-  text-align-last: auto;
-}
 
 .basta-verse-line:empty::before {
   content: " ";
@@ -627,7 +620,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   width: 100%;
   margin: clamp(1.1rem, 2.1vw, 1.65rem) 0;
   color: var(--secondary-text);
-  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: var(--font-roman);
   line-height: 1;
   opacity: 0.58;
 }

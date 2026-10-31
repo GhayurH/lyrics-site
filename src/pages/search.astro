@@ -37,30 +37,30 @@ import "../styles/search.css";
       <div class="search-primary-filters" aria-label="Search filters">
       <div class="search-filter-control search-filter-scope">
         <span class="search-filter-label">Search in</span>
-        <pagefind-filter-dropdown filter="collection" label="Both archives" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown wrap filter="collection" label="Both archives" single-select sort="alphabetical"></pagefind-filter-dropdown>
       </div>
       <div class="search-filter-control">
         <span class="search-filter-label">Kalam Type</span>
-        <pagefind-filter-dropdown filter="kalamType" label="Kalam Type" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown wrap filter="kalamType" label="Kalam Type" single-select sort="alphabetical"></pagefind-filter-dropdown>
         <span id="search-kalam-type-current" class="search-selected-filter" aria-live="polite">All types</span>
       </div>
       <div class="search-filter-control">
         <span class="search-filter-label">Haal</span>
-        <pagefind-filter-dropdown filter="haal" label="Any Haal" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown wrap filter="haal" label="Any Haal" single-select sort="alphabetical"></pagefind-filter-dropdown>
       </div>
       <div class="search-filter-control">
         <span class="search-filter-label">Tags</span>
-        <pagefind-filter-dropdown filter="tag" label="Any tag" sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown wrap filter="tag" label="Any tag" sort="alphabetical"></pagefind-filter-dropdown>
       </div>
     </div>
 
     <details class="search-more-filters">
       <summary>More filters</summary>
       <div class="search-secondary-filters">
-        <pagefind-filter-dropdown filter="language" label="Language" single-select sort="alphabetical"></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown filter="occasion" label="Occasion" single-select sort="alphabetical"></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown filter="poet" label="Poet" single-select sort="alphabetical"></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown filter="reciter" label="Reciter" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown wrap filter="language" label="Language" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown wrap filter="occasion" label="Occasion" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown wrap filter="poet" label="Poet" single-select sort="alphabetical"></pagefind-filter-dropdown>
+        <pagefind-filter-dropdown wrap filter="reciter" label="Reciter" single-select sort="alphabetical"></pagefind-filter-dropdown>
       </div>
     </details>
 
@@ -80,13 +80,13 @@ import "../styles/search.css";
             <div class="pf-result-card">
               <div class="pf-result-content">
                 {{#if meta.collection}}
-                <p class="pf-result-collection">{{ meta.collection }}</p>
+                <p class="search-result-collection">{{ meta.collection }}</p>
                 {{/if}}
                 <p class="pf-result-title" dir="auto">
                   <a class="pf-result-link" href="{{ meta.url | default(url) | safeUrl }}">{{ meta.title }}</a>
                 </p>
                 {{#if meta.roman_title}}
-                <p class="pf-result-roman-title" dir="ltr">{{ meta.roman_title }}</p>
+                <p class="search-result-roman-title" dir="ltr">{{ meta.roman_title }}</p>
                 {{/if}}
                 {{#if excerpt}}
                 <p class="pf-result-excerpt" dir="auto">{{+ excerpt +}}</p>
