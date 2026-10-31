@@ -1,5 +1,5 @@
 ---
-title: "عباس عباس عباس پانی لائو"
+title: "عباس پانی لائو"
 alternateTitle: "Abbas pani lao"
 language: "Urdu"
 lang: "ur"

@@ -1,5 +1,5 @@
 ---
-title: "اے چاند محرم کے تو بدلی میں چلا جا"
+title: "اے چاند محرم کے"
 alternateTitle: "Aye chand muharram kai"
 language: "Urdu"
 lang: "ur"
@@ -12,11 +12,8 @@ cover: "/images/lyrics/aye-chand-muharram-kai.png"
 coverAlt: "Cover image for Aye chand muharram kai"
 published: true
 romanLyrics: |-
-  Aye chand muharram kai,
-  tu badli mein chala jaa
-  
-  Tujhay daikh kay mar jaye na,
-  beemar hai Sughra
+  Aye chand muharram kai, tu badli mein chala jaa
+  Tujhay daikh kay mar jaye na, beemar hai Sughra
   
   1
   Ghar Zahra ka lutne ki, khabar tu ne sunai
