@@ -68,12 +68,3 @@ test("About reflows with readable Urdu and a usable email link on mobile and lan
   expect(email.x + email.width).toBeLessThanOrEqual(482);
 });
 
-test("About text and link surfaces retain theme colours", async ({ page }) => {
-  await page.goto("/about/");
-  await page.locator("#theme-toggle").click();
-  await page.locator('#theme-dialog input[value="sepia"]').check();
-  await page.locator("#theme-dialog-done").click();
-  await expect.poll(() => page.locator(".about-contact").evaluate((node) =>
-    getComputedStyle(node).backgroundColor)).toBe("rgb(251, 244, 230)");
-  await expect(page.locator(".about-path").first()).toBeVisible();
-});

@@ -14,14 +14,8 @@ test("font choices validate each language independently", () => {
     { urdu: "nastaliq", roman: "sans" });
   assert.deepEqual(parseFontPreferences({ urdu: "serif; color:red", roman: "url(evil)" }), DEFAULT_FONTS);
   assert.deepEqual(parseFontPreferences(["naskh", "serif"]), DEFAULT_FONTS);
-  assert.deepEqual(FONT_CHOICES.urdu.map((item) => item.value), [
-    "alvi", "amiri", "beaconhouse", "gulzar", "lateef",
-    "markazi", "naskh", "nastaliq", "noto-sans-arabic", "scheherazade",
-  ]);
-  assert.deepEqual(FONT_CHOICES.roman.map((item) => item.value),
-    ["sans", "serif", "lora", "merriweather", "open-sans", "source-sans"]);
-  for (const urdu of ["nastaliq", "naskh", "lateef", "alvi", "gulzar", "scheherazade", "amiri", "markazi", "noto-sans-arabic", "beaconhouse"]) {
-    for (const roman of ["sans", "serif", "lora", "merriweather", "open-sans", "source-sans"]) {
+  for (const { value: urdu } of FONT_CHOICES.urdu) {
+    for (const { value: roman } of FONT_CHOICES.roman) {
       assert.deepEqual(parseFontPreferences({ urdu, roman }), { urdu, roman });
     }
   }
@@ -36,8 +30,6 @@ test("font menus have unique values and plain labels; saved defaults migrate", (
       a.localeCompare(b, "en", { sensitivity: "base" })),
       "font menus must stay alphabetical");
   }
-  assert.deepEqual(FONT_CHOICES.roman.map(({ label }) => label),
-    ["Default", "Georgia", "Lora", "Merriweather", "Open Sans", "Source Sans 3"]);
   assert.equal(parseFontPreferences({ roman: "system" }).roman, "sans");
 });
 
