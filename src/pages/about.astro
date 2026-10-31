@@ -1,68 +1,118 @@
 ---
-// File role: About/contact route: presents the archive description and contact information in paired English and Urdu panels.
+// File role: Bilingual archive introduction, reading paths, source notes, and contact.
 import BaseLayout from "../layouts/BaseLayout.astro";
 import "../styles/about.css";
 ---
 
 <BaseLayout
   title="About & Contact | Kalam Archive"
-  description="About the Kalam Archive, its purpose, and how to report corrections or suggest additions."
+  description="Learn about Kalam Archive, its Urdu poetry collections and reading tools, and how to send corrections or contributions."
 >
   <article class="about-page">
     <header class="page-header-simple">
       <p class="eyebrow">Kalam Archive</p>
       <h1>About &amp; contact</h1>
-      <p>
-        A searchable archive built to preserve Urdu kalam in an accessible,
-        organized format.
-      </p>
+      <p>Preserving Urdu kalam and making it easier to find, read, and recite.</p>
     </header>
 
-    <section class="about-section bilingual-panel" aria-labelledby="about-en-heading">
-      <div class="intro-language" lang="en" dir="ltr">
-        <h2 id="about-en-heading">About this archive</h2>
+    <div class="about-intro about-bilingual">
+      <section class="about-language" lang="en" dir="ltr" aria-labelledby="about-en-heading">
+        <h2 id="about-en-heading">About the archive</h2>
         <p>
-          This website is a searchable collection of Urdu nohas, salams,
-          manqabats and other kalam. The archive provides Urdu text alongside
-          Roman Urdu where available, with categories, tags and metadata to
-          make individual pieces easier to find.
+          Kalam Archive brings together Urdu nohas, salams, marsiyas, manqabats, and other
+          kalam. Read Urdu alongside Roman Urdu where available, and choose the fonts,
+          colours, and line spacing that suit you.
         </p>
-      </div>
+      </section>
+      <section class="about-language" lang="ur" dir="rtl" aria-labelledby="about-ur-heading">
+        <h2 id="about-ur-heading">اس ذخیرے کے بارے میں</h2>
+        <p>
+          کلام آرکائیو میں اردو نوحے، سلام، مرثیے، منقبتیں اور دوسرے کلام یکجا کیے گئے ہیں۔
+          جہاں دستیاب ہو، اردو کے ساتھ رومن اردو بھی پڑھ سکتے ہیں۔ مطالعے کے لیے خط،
+          رنگ اور سطروں کا فاصلہ اپنی سہولت کے مطابق بدل سکتے ہیں۔
+        </p>
+      </section>
+    </div>
 
-      <div class="intro-language urdu-block" lang="ur" dir="rtl">
-        <h2>اس ذخیرے کے بارے میں</h2>
-        <p>
-          یہ ویب سائٹ اردو نوحوں، سلاموں، منقبتوں اور دوسرے کلام کا ایک
-          قابلِ تلاش ذخیرہ ہے۔ جہاں دستیاب ہو وہاں اردو متن کے ساتھ رومن اردو
-          بھی دی گئی ہے، اور کلام کو تلاش کرنے کے لیے اقسام، ٹیگز اور دوسری
-          معلومات بھی شامل ہیں۔
-        </p>
+    <section class="about-section" aria-labelledby="about-explore-heading">
+      <div class="about-section-heading">
+        <h2 id="about-explore-heading">Explore the archive</h2>
+        <p lang="ur" dir="rtl">کلام کی تلاش اور مطالعہ</p>
+      </div>
+      <div class="about-paths">
+        <a class="about-path" href="/search/">
+          <div>
+            <h3>Browse &amp; search</h3>
+            <p>Find kalam by its Urdu or Roman Urdu text, or browse by type.</p>
+            <p class="about-path-urdu" lang="ur" dir="rtl">
+              اردو یا رومن اردو سے کلام تلاش کریں، یا قسم کے لحاظ سے دیکھیں۔
+            </p>
+          </div>
+          <span class="about-path-arrow" aria-hidden="true">→</span>
+        </a>
+        <a class="about-path" href="/basta/">
+          <div>
+            <h3>Basta</h3>
+            <p>Read the book page by page or continuously, with original scans and available transcriptions.</p>
+            <p class="about-path-urdu" lang="ur" dir="rtl">
+              بستہ کو صفحہ بہ صفحہ یا مسلسل پڑھیں، اصل صفحات کی تصاویر اور دستیاب متن کے ساتھ۔
+            </p>
+          </div>
+          <span class="about-path-arrow" aria-hidden="true">→</span>
+        </a>
+        <a class="about-path" href="/recite/">
+          <div>
+            <h3>Recitation Sets</h3>
+            <p>Arrange a majlis programme, select Marsiya stanzas, and share one link with your group.</p>
+            <p class="about-path-urdu" lang="ur" dir="rtl">
+              مجلس کے لیے کلام ترتیب دیں، مرثیوں کے بند منتخب کریں اور ایک ہی لنک سب کے ساتھ شیئر کریں۔
+            </p>
+          </div>
+          <span class="about-path-arrow" aria-hidden="true">→</span>
+        </a>
       </div>
     </section>
 
-    <section id="contact" class="about-section contact-card" aria-labelledby="contact-heading">
-      <div>
-        <p class="eyebrow">Corrections · additions · questions</p>
-        <h2 id="contact-heading">Contact the site owner</h2>
+    <div class="about-section about-sources about-bilingual">
+      <section class="about-language" lang="en" dir="ltr" aria-labelledby="about-sources-en">
+        <h2 id="about-sources-en">Sources &amp; corrections</h2>
         <p>
-          To report a transcription error, suggest a lyric, provide missing
-          information or ask a question, email:
+          Transcriptions are checked and corrected as errors are found. Basta keeps
+          its original page scans alongside the text so you can compare them.
+          Some entries may still have mistakes or missing information.
         </p>
-      </div>
+      </section>
+      <section class="about-language" lang="ur" dir="rtl" aria-labelledby="about-sources-ur">
+        <h2 id="about-sources-ur">ماخذ اور اصلاحات</h2>
+        <p>
+          متن میں غلطیاں سامنے آنے پر ان کی اصلاح کی جاتی ہے۔ بستہ میں اصل صفحات کی
+          تصاویر بھی موجود ہیں تاکہ متن کا موازنہ کیا جا سکے۔ بعض کلام میں اب بھی
+          غلطیاں یا معلومات کی کمی ہو سکتی ہے۔
+        </p>
+      </section>
+    </div>
 
-      <a class="contact-email contact-email-large" href="mailto:lyricsadmin@gmail.com">
-        lyricsadmin@gmail.com
+    <section id="contact" class="about-section about-contact" aria-labelledby="contact-heading">
+      <div class="about-bilingual">
+        <div class="about-language" lang="en" dir="ltr">
+          <h2 id="contact-heading">Contact &amp; contributions</h2>
+          <p>
+            Found an error, have a kalam to suggest, or want to ask a question?
+            Email us. For corrections, please include the page link and the relevant verse.
+          </p>
+        </div>
+        <section class="about-language" lang="ur" dir="rtl" aria-labelledby="contact-heading-ur">
+          <h2 id="contact-heading-ur">رابطہ اور تعاون</h2>
+          <p>
+            اگر متن میں غلطی ملے، کوئی کلام شامل کرانا چاہیں یا سوال ہو تو ای میل کریں۔
+            اصلاح کی صورت میں متعلقہ صفحے کا لنک اور مصرع بھی بھیجیں۔
+          </p>
+        </section>
+      </div>
+      <a class="about-contact-email" href="mailto:lyricsadmin@gmail.com">
+        <span>Send an email</span>
+        <strong>lyricsadmin@gmail.com</strong>
       </a>
-    </section>
-
-    <section class="about-section about-note">
-      <h2>Basta</h2>
-      <p>
-        Basta is preserved as its own edition within the archive, with original
-        page scans, cleaned Urdu text, Roman Urdu where available, and a linked
-        index. It can be searched together with the normal lyrics or on its own.
-      </p>
-      <a href="/basta/">Open Basta →</a>
     </section>
   </article>
 </BaseLayout>

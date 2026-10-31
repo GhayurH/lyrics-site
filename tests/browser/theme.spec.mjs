@@ -13,7 +13,6 @@ test("light, dark and sepia presets persist between pages @smoke", async ({ page
   await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#f4ead6");
   await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "light");
   await page.locator("#theme-dialog-done").click();
-  await page.screenshot({ path: "test-results/visual-review/theme-sepia-desktop.png", animations: "disabled" });
   await page.goto("/search/");
   await expect.poll(() => page.locator(".search-page").evaluate((element) =>
     getComputedStyle(element).getPropertyValue("--pf-background").trim())).toBe("#fbf4e6");
@@ -34,6 +33,8 @@ test("custom applies three colour choices, derives text and remembers them @smok
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
+  await expect(dialog.locator('input[value="custom"]').locator("..")).toContainText("Custom");
+  await expect(dialog).not.toContainText("Build your own");
   await dialog.locator('input[value="custom"]').check();
   await expect(page.locator("#theme-custom-fields")).toBeVisible();
   const palette = { main: "#102030", secondary: "#172637", accent: "#ffd166" };
@@ -49,7 +50,6 @@ test("custom applies three colour choices, derives text and remembers them @smok
   await expect.poll(() => page.evaluate(() =>
     getComputedStyle(document.documentElement).getPropertyValue("--button-background").trim())).toBe("#ffd166");
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
-  await page.screenshot({ path: "test-results/visual-review/theme-custom-desktop.png", animations: "disabled" });
   await page.locator("#theme-dialog-done").click();
   await page.goto("/saved/");
   await expect(page.locator("html")).toHaveAttribute("data-theme", "custom");
@@ -94,7 +94,6 @@ test("dialog stays in the viewport and Escape closes it on small phones and land
     expect(rect.x + rect.width).toBeLessThanOrEqual(viewport.width + 2);
     expect(rect.y + rect.height).toBeLessThanOrEqual(viewport.height + 2);
     await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
-    await page.screenshot({ path: "test-results/visual-review/theme-custom-" + viewport.width + ".png", animations: "disabled" });
     await page.keyboard.press("Escape");
     await expect(dialog).toBeHidden();
     await expect(page.locator("#theme-toggle")).toBeFocused();
@@ -220,14 +219,6 @@ test("Dark and AMOLED preserve Auto typography until Custom surfaces actually ch
   }
 });
 
-test("appearance offers the succinct Custom label, not Build your own", async ({ page }) => {
-  await page.goto("/");
-  await page.locator("#theme-toggle").click();
-  const radio = page.locator('#theme-dialog input[value="custom"]');
-  await expect(radio.locator("..")).toContainText("Custom");
-  await expect(page.locator("#theme-dialog")).not.toContainText("Build your own");
-});
-
 test("Advanced colours default to Auto and save independent text and border overrides", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
@@ -320,7 +311,6 @@ test("manual low-contrast text is warned about, and Advanced fits narrow viewpor
   expect(dialog.x).toBeGreaterThanOrEqual(0);
   expect(dialog.x + dialog.width).toBeLessThanOrEqual(322);
   await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
-  await page.screenshot({ path: "test-results/visual-review/theme-advanced-phone.png", animations: "disabled" });
   await page.locator("#theme-primaryText-auto").check();
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
 });
@@ -416,4 +406,31 @@ test("Urdu font families are available as bundled web fonts @smoke", async ({ pa
   await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "beaconhouse");
   await expect.poll(() => page.locator(".basta-urdu-text").first().evaluate((node) =>
     getComputedStyle(node).fontFamily)).toContain("Beaconhouse Nastaliq");
+});
+
+
+test("font choices preview without changing navigation or overflowing a phone @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 320, height: 640 });
+  await page.goto("/");
+  await page.evaluate(() => localStorage.setItem("kalam:reading-fonts", JSON.stringify({ urdu: "gulzar", roman: "system" })));
+  await page.reload();
+  await page.locator("#theme-toggle").click();
+  const dialog = page.locator("#theme-dialog");
+  const roman = dialog.locator("#theme-roman-font");
+  await expect(roman).toHaveValue("sans");
+  await expect(roman.locator("option")).toHaveCount(6);
+  await expect(dialog.locator("#theme-urdu-font")).toHaveValue("gulzar");
+  await roman.selectOption("lora");
+  await expect.poll(() => dialog.locator("#theme-roman-preview").evaluate((node) => getComputedStyle(node).fontFamily)).toContain("Lora");
+  await expect.poll(() => page.locator(".site-title").evaluate((node) => getComputedStyle(node).fontFamily)).not.toContain("Lora");
+  const box = await dialog.boundingBox();
+  expect(box).toBeTruthy();
+  expect(box.x).toBeGreaterThanOrEqual(0);
+  expect(box.x + box.width).toBeLessThanOrEqual(322);
+  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+  await page.locator("#theme-dialog-done").click();
+  await page.goto("/basta/138/");
+  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "lora");
+  await page.setViewportSize({ width: 760, height: 420 });
+  await expect.poll(() => page.locator(".site-header").evaluate((node) => node.scrollWidth - node.clientWidth)).toBeLessThanOrEqual(2);
 });

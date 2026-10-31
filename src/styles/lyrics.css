@@ -84,9 +84,15 @@
 .lyric-stanza-pairs .lyric-verse:nth-last-child(4),
 .lyric-stanza-pairs .lyric-verse:nth-last-child(3) { margin-inline-start: clamp(1.75rem, 6%, 3rem); }
 .lyric-stanza-pairs .lyric-verse:nth-last-child(5),
-.lyric-stanza-pairs .lyric-verse:nth-last-child(3) { border-bottom: var(--ui-border); }
-/* Do not double the stanza separator after a framed closing pair. */
-.lyric-stanza-six:not(.lyric-stanza-pairs) + .lyric-stanza { border-top: 0; }
+.lyric-stanza-pairs .lyric-verse:nth-last-child(3),
+.lyric-stanza-pairs .lyric-verse:last-child {
+  /* All three couplets end with the same rule and Nastaliq clearance.
+     The final rule belongs to verse six, not the next stanza. */
+  border-bottom: var(--ui-border);
+  padding-block-end: .25lh;
+}
+/* Six-line stanzas already draw their closing rule on the final verse. */
+.lyric-stanza-six + .lyric-stanza { border-top: 0; }
 
 .lyric-reading-grid[data-reading-mode="urdu"], .lyric-reading-grid[data-reading-mode="roman"] { max-width: var(--reading-single-width); margin-inline: auto; }
 .lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0, var(--reading-single-width)); justify-content: center; }

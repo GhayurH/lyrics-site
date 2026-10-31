@@ -418,7 +418,6 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
   html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"] > .reading-page-jump {
     grid-column: 1 / -1; justify-self: center;
   }
-  html[data-reading-focus="true"] .reading-regular-toggle { display: none !important; }
   html[data-mobile-header-hidden="true"]:not([data-reading-focus="true"]) .reading-controls {
     top: .5rem;
   }
@@ -586,6 +585,3 @@ html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-page-jump :is(input,button) { min-height: 2.45rem; }
 }
 html[data-reading-focus="true"] .reading-regular-toggle { display: none !important; }
-@container reader-shell (max-width: 46rem) {
-  .basta-reader-flow[data-reading-columns~="urdu"][data-reading-columns~="image"] .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "scan" "urdu"; grid-template-columns: minmax(0,1fr); }
-}

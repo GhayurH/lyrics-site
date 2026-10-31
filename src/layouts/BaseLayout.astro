@@ -67,7 +67,10 @@ const aboutActive = path.startsWith("/about/");
     <title>{title}</title>
 
     <!-- Restore appearance before first paint, including the custom palette. -->
-    <script is:inline>
+    <script is:inline define:vars={{ fontOptions: {
+      urdu: FONT_CHOICES.urdu.map((choice) => choice.value),
+      roman: FONT_CHOICES.roman.map((choice) => choice.value),
+    } }}>
       (() => {
         const root = document.documentElement;
         let savedMode;
@@ -80,8 +83,9 @@ const aboutActive = path.startsWith("/about/");
         try {
           const fonts = JSON.parse(localStorage.getItem("kalam:reading-fonts") || "{}");
           if (fonts && typeof fonts === "object") {
-            if (["nastaliq", "naskh", "lateef", "alvi", "gulzar", "scheherazade", "amiri", "markazi", "noto-sans-arabic", "beaconhouse"].includes(fonts.urdu)) root.dataset.urduFont = fonts.urdu;
-            if (["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"].includes(fonts.roman)) root.dataset.romanFont = fonts.roman;
+            if (fontOptions.urdu.includes(fonts.urdu)) root.dataset.urduFont = fonts.urdu;
+            const roman = fonts.roman === "system" ? "sans" : fonts.roman;
+            if (fontOptions.roman.includes(roman)) root.dataset.romanFont = roman;
           }
         } catch { /* Storage may be blocked or invalid. */ }
         if (mode === "custom") {
@@ -194,7 +198,7 @@ const aboutActive = path.startsWith("/about/");
 
     <dialog id="theme-dialog" class="theme-dialog" aria-labelledby="theme-dialog-heading" data-pagefind-ignore>
       <div class="theme-dialog-header">
-        <div><h2 id="theme-dialog-heading">Appearance</h2><p>Choose a reading theme or customise its colours.</p></div>
+        <div><h2 id="theme-dialog-heading">Appearance</h2><p>Make the archive comfortable to read on this device.</p></div>
         <button class="theme-dialog-close" id="theme-dialog-close" type="button" aria-label="Close appearance settings">×</button>
       </div>
       <fieldset class="theme-presets">
@@ -243,18 +247,21 @@ const aboutActive = path.startsWith("/about/");
         <button type="button" id="theme-reset-custom" class="button button-secondary">Reset custom colours</button>
       </fieldset>
       <fieldset class="theme-fonts">
-        <legend>Fonts</legend>
-        <p>Choose fonts independently for Urdu and English / Roman Urdu. Saved on this device across all themes. Alvi Nastaleeq is used only if installed on your device; otherwise Noto Nastaliq is shown.</p>
+        <legend>Reading fonts</legend>
+        <p>Choose how Urdu and Roman Urdu poetry looks. Your choice applies to every reading view.</p>
         <label for="theme-urdu-font">Urdu
           <select id="theme-urdu-font">
             {FONT_CHOICES.urdu.map((option) => <option value={option.value} selected={option.value === "nastaliq"}>{option.label}</option>)}
           </select>
         </label>
+        <p id="theme-urdu-preview" class="theme-font-preview" lang="ur" dir="rtl">یہ ایک نمونہ ہے</p>
         <label for="theme-roman-font">English / Roman Urdu
           <select id="theme-roman-font">
             {FONT_CHOICES.roman.map((option) => <option value={option.value} selected={option.value === "sans"}>{option.label}</option>)}
           </select>
         </label>
+        <p id="theme-roman-preview" class="theme-font-preview" lang="en">Sample reading text</p>
+        <p class="theme-font-note">Alvi Nastaleeq needs to be installed on your device. Otherwise, the default Urdu font is shown.</p>
       </fieldset>
       <div class="theme-dialog-footer">
         <button type="button" id="theme-dialog-done" class="button">Done</button>

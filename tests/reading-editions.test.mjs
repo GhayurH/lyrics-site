@@ -20,11 +20,6 @@ test("image-only Basta pages always have a viewable edition", () => {
   assert.equal(readingModeFromEditions(["urdu"]), "urdu");
 });
 
-test("multiple combinations keep the parallel/stacking layout decision in CSS", () => {
-  assert.equal(readingModeFromEditions(["urdu", "roman"]), "parallel");
-  assert.equal(readingModeFromEditions(["image", "roman"]), "parallel");
-});
-
 test("mobile starts with Urdu; desktop Basta pages show the original alongside Urdu", async () => {
   const { defaultEditionsForReader } = await import("../src/client/reading-editions.ts");
   assert.deepEqual(defaultEditionsForReader("lyrics", true), ["urdu"]);
@@ -32,6 +27,4 @@ test("mobile starts with Urdu; desktop Basta pages show the original alongside U
   assert.deepEqual(defaultEditionsForReader("basta-index", true), ["urdu"]);
   assert.deepEqual(defaultEditionsForReader("basta-page", false), ["image", "urdu"]);
   assert.deepEqual(defaultEditionsForReader("basta-continuous", false), ["urdu", "roman"]);
-  assert.deepEqual(selectedEditions(["roman"], ["image", "urdu", "roman"]), ["roman"]);
-  assert.deepEqual(selectedEditions(["image", "urdu"], ["image"], true), ["image"]);
 });

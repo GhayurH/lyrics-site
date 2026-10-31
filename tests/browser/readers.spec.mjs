@@ -106,6 +106,48 @@ test("every visible poetry verse stays on one line and within its column at mobi
     await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
   }
 });
+test("all three couplet dividers share equal verse-six clearance in both scripts @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 820 });
+  await page.goto("/lyrics/karbala-karbala-karbala/");
+  for (const spacing of ["compact", "default", "relaxed"]) {
+    await page.locator("[data-reading-line-spacing]").selectOption(spacing);
+    const results = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
+      panels.map((panel) => {
+        const stanza = panel.querySelector(".lyric-stanza-pairs");
+        const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
+        const next = stanza.nextElementSibling;
+        return {
+          verseCount: verses.length,
+          rules: [verses[1], verses[3], verses[5]].map((line) => {
+            const style = getComputedStyle(line);
+            return {
+              border: Number.parseFloat(style.borderBottomWidth),
+              paddingInLines: Number.parseFloat(style.paddingBottom) /
+                Number.parseFloat(style.lineHeight),
+            };
+          }),
+          nextBorder: Number.parseFloat(getComputedStyle(next).borderTopWidth),
+          nextFollowsRule: next.getBoundingClientRect().top >=
+            verses[5].getBoundingClientRect().bottom,
+          nowrap: verses.every((line) => getComputedStyle(line).whiteSpace === "nowrap"),
+        };
+      }));
+    expect(results).toHaveLength(2);
+    for (const panel of results) {
+      expect(panel.verseCount).toBe(6);
+      expect(panel.nowrap).toBe(true);
+      expect(panel.nextBorder).toBe(0);
+      expect(panel.nextFollowsRule).toBe(true);
+      for (const rule of panel.rules) {
+        expect(rule.border).toBeGreaterThan(0);
+        expect(rule.paddingInLines).toBeGreaterThan(0.24);
+      }
+      expect(Math.max(...panel.rules.map((r) => r.paddingInLines)) -
+        Math.min(...panel.rules.map((r) => r.paddingInLines))).toBeLessThan(0.01);
+    }
+  }
+});
+
 test("compact index presents accessible entries at phone width", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/index/");
@@ -258,12 +300,6 @@ test("image-only book pages remain legible without JavaScript or an edition sele
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-image-only", "true");
   await expect(page.locator(".basta-original-page")).toBeVisible();
   await expect(page.locator(".basta-original-page a")).toHaveAttribute("href", /\/images\//);
-  await ctx.close();
-});
-
-test("source scan links remain accessible when JavaScript is disabled", async ({ browser }) => {
-  const ctx = await browser.newContext({ javaScriptEnabled: false });
-  const page = await ctx.newPage();
   await page.goto("/basta/138/");
   await expect(page.getByRole("link", { name: "Original scan", exact: true })).toBeVisible();
   await page.goto("/lyrics/aa-asghar-bin-tere/");
@@ -404,13 +440,9 @@ test("standalone scans share the same floating-column policy", async ({ page }) 
     const scan = page.locator(".lyric-reading-image");
     await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
     await expect(page.locator(".lyric-reading-grid")).toHaveCSS("background-color", "rgb(23, 23, 25)");
+    // Clipping must not create a nested scrollport that traps the sticky scan.
+    await expect(page.locator(".lyric-reading-grid")).toHaveCSS("overflow-x", "clip");
   }
-});
-
-test("the floating standalone reader does not trap sticky scans in a clipped scroll container", async ({ page }) => {
-  await page.setViewportSize({ width: 1480, height: 900 });
-  await page.goto("/lyrics/aa-asghar-bin-tere/");
-  await expect(page.locator(".lyric-reading-grid")).toHaveCSS("overflow-x", "clip");
 });
 
 test("a floating scan is never selected for text-column scrolling", async ({ page }) => {
