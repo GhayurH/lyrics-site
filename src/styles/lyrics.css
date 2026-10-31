@@ -45,9 +45,8 @@
 .lyrics-text { font-family: var(--font-urdu); font-size: 1em; line-height: 2.7; text-align: start; }
 .roman-lyrics-text { font-family: var(--font-roman); font-size: 1em; line-height: 2; text-align: left; }
 
-/* Each blank-line-delimited source group is one printed stanza. A single
-   rule between groups replaces source whitespace, without trying to guess
-   stanza length, refrain, or verse counts. */
+/* Blank lines delimit source stanzas. Most groups have one separator;
+   six-verse groups additionally frame their two-line ending. */
 .lyric-reading-text {
   min-width: 0;
   width: 100%;
