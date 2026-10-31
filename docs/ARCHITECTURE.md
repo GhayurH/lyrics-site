@@ -25,11 +25,11 @@ src/
 
 ## Styling and shared components
 
-`src/styles/tokens.css` owns shared design decisions: light, dark, AMOLED Dark, Sepia, and Custom colour roles; content and reader widths; Urdu/Roman sizes and line spacing; tap targets; radii; and the theme-aware `--ui-border` hairline. `src/styles/core.css` imports the tokens and owns the shell, resets, and shared UI primitives. Feature CSS belongs to its route. Use semantic tokens for genuinely shared decisions, but retain local values for unique components and their one-off measurements.
+`src/styles/tokens.css` owns shared design decisions: light, dark, AMOLED Dark, Sepia, and Custom colour roles; content and reader widths; Urdu/Roman sizes and line spacing; tap targets; radii; and the theme-aware `--ui-border` hairline. `src/styles/core.css` imports the tokens and owns the shell, resets, and shared UI primitives. The interface itself uses `--font-ui` and never changes with reader font preferences; Urdu and Roman poetry use separate `--font-urdu` and `--font-roman` tokens across every reader. Feature CSS belongs to its route. Use semantic tokens for genuinely shared decisions, but retain local values for unique components and their one-off measurements.
 
 Content width roles are `--content-wide` (site), `--content-reading` (readers), `--content-feature` (72rem landing sections), `--content-intro` (52rem introductions), `--content-compact` (42rem text), and `--reading-single-width`/`--reading-scan-width` (individual reading columns). Control borders use `--ui-border`, which resolves against the current theme and is re-scoped for the Appearance dialog. `--site-header-fallback-height` provides a shared pre-measurement value for the sticky site header. Radius tokens distinguish compact controls, general controls, cards, and panels. Do not promote unrelated matching values to global tokens solely because their numbers happen to match.
 
-The **46rem reader-shell stack threshold** (and its 46.01rem parallel counterpart) belongs only in `reading-columns.css`. Ordinary mobile viewport defaults share the 700px query from `src/client/viewport.ts`; media/container query conditions remain in their owning CSS because custom properties are unsupported inside those conditions. `tests/design-tokens.test.mjs` checks token ownership and breakpoint consistency.
+The **46rem reader-shell stack threshold** (and its 46.01rem parallel counterpart) belongs only in `reading-columns.css`. Ordinary mobile viewport defaults share the 700px query from `src/client/viewport.ts`; media/container query conditions remain in their owning CSS because custom properties are unsupported inside those conditions. `tests/design-tokens.test.mjs` checks token ownership and breakpoint consistency. Retain the mobile portrait Basta grid exception until layout equivalence has been verified across the continuous and page-by-page readers.
 
 ### Appearance
 
@@ -83,3 +83,10 @@ Published programme documents and hashed private edit credentials use Cloudflare
 - Keep browser tests focused on distinct user-facing contracts: navigation, responsive geometry, unavailable editions, no-JavaScript access, and source/streamed markup parity. The smaller `@smoke` group covers core journeys, while full-only tests retain unusual viewports and feature-specific regressions. Ordinary PR commits run the build and Node checks; use `[smoke-ci]` or `[full-ci]` to select browser coverage as documented in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
 
 Validation commands and CI conditions are documented once in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
+
+
+### Font assets and saved preferences
+
+`src/client/fonts.ts` is the allowlist for Urdu and Roman fonts. The layout's early inline bootstrap restores the saved choices before the first paint; preserve its list in sync with the allowlist. `system` is a legacy Roman option and is normalized to `sans` (the system-default font). The Appearance dialog previews poetry fonts without applying them to site navigation or forms.
+
+Fontsource fonts are hosted locally. The OFL-licensed Beaconhouse Nastaliq file, license, and source notice remain together in `public/fonts/beaconhouse-nastaliq/`. Alvi Nastaleeq must not be bundled because of its redistribution restrictions; use an installed font with Noto Nastaliq fallback.

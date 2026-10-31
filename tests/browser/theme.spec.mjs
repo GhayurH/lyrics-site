@@ -420,9 +420,10 @@ test("Urdu font families are available as bundled web fonts @smoke", async ({ pa
 
 
 test("font choices preview without changing navigation or overflowing a phone @smoke", async ({ page }) => {
-  await page.addInitScript(() => localStorage.setItem("kalam:reading-fonts", JSON.stringify({ urdu: "gulzar", roman: "system" })));
   await page.setViewportSize({ width: 320, height: 640 });
   await page.goto("/");
+  await page.evaluate(() => localStorage.setItem("kalam:reading-fonts", JSON.stringify({ urdu: "gulzar", roman: "system" })));
+  await page.reload();
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
   const roman = dialog.locator("#theme-roman-font");
