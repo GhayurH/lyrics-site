@@ -14,5 +14,12 @@ test("font choices validate each language independently", () => {
     { urdu: "nastaliq", roman: "system" });
   assert.deepEqual(parseFontPreferences({ urdu: "serif; color:red", roman: "url(evil)" }), DEFAULT_FONTS);
   assert.deepEqual(parseFontPreferences(["naskh", "serif"]), DEFAULT_FONTS);
-  assert.equal(FONT_CHOICES.urdu.length, 2);
+  assert.deepEqual(FONT_CHOICES.urdu.map((item) => item.value), ["nastaliq", "naskh", "lateef", "alvi"]);
+  assert.deepEqual(FONT_CHOICES.roman.map((item) => item.value),
+    ["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"]);
+  for (const urdu of ["nastaliq", "naskh", "lateef", "alvi"]) {
+    for (const roman of ["sans", "system", "serif", "open-sans", "source-sans", "lora", "merriweather"]) {
+      assert.deepEqual(parseFontPreferences({ urdu, roman }), { urdu, roman });
+    }
+  }
 });

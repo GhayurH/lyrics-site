@@ -4,11 +4,19 @@ export const FONT_CHOICES = {
   urdu: [
     { value: "nastaliq", label: "Noto Nastaliq Urdu" },
     { value: "naskh", label: "Noto Naskh Arabic" },
+    { value: "lateef", label: "Lateef" },
+    // This font's licence disallows redistribution: use only the reader's
+    // locally installed copy, with a bundled Nastaliq fallback.
+    { value: "alvi", label: "Alvi Nastaleeq (installed only)" },
   ],
   roman: [
     { value: "sans", label: "Inter / system sans-serif (default)" },
     { value: "system", label: "System sans-serif" },
     { value: "serif", label: "Georgia (serif)" },
+    { value: "open-sans", label: "Open Sans" },
+    { value: "source-sans", label: "Source Sans 3" },
+    { value: "lora", label: "Lora (serif)" },
+    { value: "merriweather", label: "Merriweather (serif)" },
   ],
 } as const;
 export type FontPreferences = {
