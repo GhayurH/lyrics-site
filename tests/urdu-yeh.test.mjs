@@ -29,3 +29,9 @@ test("Arabic quotations embedded in Urdu prose remain Arabic", () => {
 test("Roman transcription repairs an accidental Arabic yeh using Latin y", () => {
   assert.equal(normalizeUrduYeh("src/data/basta/roman/228.md", "ىe pakri"), "ye pakri");
 });
+
+test("dense Arabic invocations stay Arabic despite mixed legacy codepoints", () => {
+  const line = "کَفَى فِی فَضْلِ مَولَانَا عَلِیٍّ";
+  assert.equal(normalizeUrduYeh("src/data/basta/pages/188.md", "---\npage: 188\n---\n" + line),
+    "---\npage: 188\n---\n" + line);
+});
