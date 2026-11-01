@@ -235,7 +235,10 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     if (active && event.key === "Escape" && !document.querySelector("dialog.scan-viewer[open]")) {
       event.preventDefault();
       if (html.dataset.readingTocOpen === "true") contentsOpen(false);
-      else exit(true);
+      else if (controls.dataset.readingOptionsOpen === "true") {
+        optionsOpen(false);
+        optionsButton.focus({ preventScroll: true });
+      } else exit(true);
     }
   });
   window.addEventListener("popstate", () => {

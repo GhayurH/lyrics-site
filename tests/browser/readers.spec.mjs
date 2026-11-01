@@ -898,3 +898,34 @@ test("Basta page progress tracks the Focus scroller instead of document scroll",
   })).toBeGreaterThan(0.4);
   expect(await page.evaluate(() => window.scrollY)).toBeLessThan(2000);
 });
+
+test("Basta page Focus resume restores its own scroll offset from the URL", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/200/?reading=1&resume=0.65");
+  const root = page.locator("[data-reading-root]");
+  await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
+  await expect.poll(() => root.evaluate((node) => {
+    const range = node.scrollHeight - node.clientHeight;
+    return range > 0 ? node.scrollTop / range : 0;
+  })).toBeGreaterThan(0.5);
+  await expect.poll(() => page.evaluate(() => {
+    const saved = JSON.parse(localStorage.getItem("kalam:basta-position") || "{}");
+    return saved.mode === "page" && saved.page === 200 ? saved.offset : 0;
+  })).toBeGreaterThan(0.5);
+});
+
+test("Escape dismisses Focus Options before exiting the reader", async ({ page }) => {
+  await page.goto("/lyrics/na-bhool-kar-bhi/");
+  await page.locator("[data-reading-focus-enter]").click();
+  const html = page.locator("html");
+  const controls = page.locator("[data-reading-controls]");
+  const options = page.locator("[data-reading-focus-options]");
+  await options.click();
+  await expect(controls).toHaveAttribute("data-reading-options-open", "true");
+  await page.keyboard.press("Escape");
+  await expect(controls).toHaveAttribute("data-reading-options-open", "false");
+  await expect(options).toBeFocused();
+  await expect(html).toHaveAttribute("data-reading-focus", "true");
+  await page.keyboard.press("Escape");
+  await expect(html).not.toHaveAttribute("data-reading-focus", "true");
+});

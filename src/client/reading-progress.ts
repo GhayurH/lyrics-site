@@ -41,7 +41,15 @@ export function initReadingProgress(): void {
       writeBastaPosition({ page, mode: "page", offset: Math.round(offset * 1000) / 1000 });
     };
     if (resume !== undefined) {
-      const restore = () => window.scrollTo({ top: resume * Math.max(0, document.documentElement.scrollHeight - innerHeight), behavior: "instant" });
+      const restore = () => {
+        // A direct Focus resume URL has a fixed, independently scrolling root.
+        const focus = document.documentElement.dataset.readingFocus === "true";
+        const scrollable = focus
+          ? Math.max(0, root.scrollHeight - root.clientHeight)
+          : Math.max(0, document.documentElement.scrollHeight - innerHeight);
+        if (focus) root.scrollTo({ top: resume * scrollable, behavior: "instant" });
+        else window.scrollTo({ top: resume * scrollable, behavior: "instant" });
+      };
       requestAnimationFrame(() => requestAnimationFrame(restore));
       window.addEventListener("load", restore, { once: true });
     } else update();
