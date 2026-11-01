@@ -174,6 +174,9 @@ test("mobile readers start with an uncluttered Urdu view while desktop Basta sta
 });
 
 test("short touch landscape releases the sticky toolbar, but short desktop windows keep it", async ({ browser, page }) => {
+  await page.setViewportSize({ width: 844, height: 390 });
+  await page.goto("/basta/200/");
+  const pageUrl = page.url();
   const touch = await browser.newContext({
     viewport: { width: 844, height: 390 },
     hasTouch: true,
@@ -181,7 +184,7 @@ test("short touch landscape releases the sticky toolbar, but short desktop windo
   });
   try {
     const phone = await touch.newPage();
-    await phone.goto("/basta/200/");
+    await phone.goto(pageUrl);
     await expect(phone.locator("[data-reading-controls]")).toBeVisible();
     expect(await phone.locator("[data-reading-controls]").evaluate((node) =>
       getComputedStyle(node).position)).toBe("static");
@@ -189,8 +192,6 @@ test("short touch landscape releases the sticky toolbar, but short desktop windo
     await touch.close();
   }
 
-  await page.setViewportSize({ width: 844, height: 390 });
-  await page.goto("/basta/200/");
   expect(await page.locator("[data-reading-controls]").evaluate((node) =>
     getComputedStyle(node).position)).toBe("sticky");
 });

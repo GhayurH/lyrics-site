@@ -356,10 +356,6 @@
   grid-area: scan;
   min-width: 0;
 }
-.basta-reader-page-grid-with-roman > .basta-parallel-kalams-reader {
-  grid-area: text;
-  min-width: 0;
-}
 /* A selected scan stays visible even if only one text language is selected.
    Hide the scan and collapse its grid track only when Image is unchecked. */
 .basta-reader-flow:is([data-reading-mode="urdu"],[data-reading-mode="roman"]):not([data-reading-columns~="image"])
@@ -371,9 +367,8 @@
   justify-content: center;
 }
 
-/* Clear but subdued printed-page boundaries. */
-.basta-reader-page-break { border-top-color: var(--border-colour); }
-.basta-reader-page-number { color: var(--secondary-text); letter-spacing: .03em; }
+/* Keep the printed page number discreet; border colour comes from the shared token. */
+.basta-reader-page-number { letter-spacing: .03em; }
 
 /* Short section links keep both language indexes accessible without a long
    scan through every table; the corresponding headings remain canonical. */

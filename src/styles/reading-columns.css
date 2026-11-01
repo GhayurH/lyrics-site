@@ -261,7 +261,6 @@
   grid-area: auto; grid-column: 1; grid-row: 1; border: 0; padding-inline: 0;
 }
 /* Focus mode keeps the same content-driven column heights as normal mode. */
-html[data-reading-focus="true"] .lyric-reading-grid { align-content: start; }
 html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="image"] .lyric-reading-image img { max-height: calc(100dvh - 4.5rem); width: auto; max-width: 100%; margin-inline: auto; }
 html[data-reading-focus="true"] .basta-reader-page-number { display: block !important; }
 html[data-reading-focus="true"] .basta-reader-page::before { display: block; content: "Page " attr(data-basta-page); margin-bottom: .55rem; color: var(--secondary-text); font: 700 .8rem/1.4 system-ui,sans-serif; text-align: center; }
@@ -287,7 +286,11 @@ html[data-reading-toc-open="true"] .reading-contents-button { background: var(--
 /* Short touch-screen landscape viewports need their height for poetry.
    Fine-pointer desktop windows retain their sticky reading controls. */
 @media (orientation: landscape) and (pointer: coarse) and (max-height: 600px) {
-  html:not([data-reading-focus="true"]) .reading-controls { position: static; box-shadow: none; }
+  /* Match the JS-enhanced desktop rule's specificity so the static layout wins. */
+  html[data-js-available="true"]:not([data-reading-focus="true"]) .reading-controls {
+    position: static;
+    box-shadow: none;
+  }
 }
 
 /* Line spacing remains immediately available on small screens. */
