@@ -178,7 +178,7 @@ test("header still retracts after tapping the theme button", async ({ page }) =>
   await expect(page.locator(".site-header")).toBeVisible();
 });
 
-test("desktop settings collapse after scrolling into the poem but navigation stays available @smoke", async ({ page }) => {
+test("desktop settings collapse after scrolling into the poem but navigation stays available", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 820 });
   await page.goto("/basta/138/");
   const controls = page.locator("[data-reading-controls]");

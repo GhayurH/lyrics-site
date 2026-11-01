@@ -6,7 +6,7 @@
 
 - **Kalam archive:** Search and browse standalone kalams by type, with Urdu, Roman Urdu, and original images where available.
 - **[Basta](https://kalamarchive.com/basta/):** A digital edition of *Basta* by Professor Syed Sibt-i-Jaafar Zaidi, with scans, corrected Urdu text, Roman Urdu, a linked index, and page-by-page or continuous reading.
-- **Reading tools:** Select available editions, use distraction-free Focus Mode, save favourites or Basta locations, and resume reading on the same device. Choose Light, Dark, AMOLED Dark, Sepia, or Custom themes, plus Urdu and Roman fonts.
+- **Reading tools:** Select available editions, use distraction-free Focus Mode, save favourites or Basta locations, and resume reading on the same device. Choose device-following or curated light/dark colour themes and separate Urdu and Roman reading fonts.
 - **[Recitation Sets](https://kalamarchive.com/recite/):** Arrange kalams and verified Marsiya stanzas into shareable programmes, assign reciters, add notes, print or save an offline copy, and optionally guide participants through a live programme.
 
 ## Technology
@@ -18,7 +18,7 @@
 - Cloudflare D1 and Pages Functions for published Recitation Sets
 - Self-hosted Urdu and Roman Urdu reading fonts, with licensing and fallback rules in [Architecture](docs/ARCHITECTURE.md).
 
-Theme and font choices stay on the reader's device. Font options live in `src/client/fonts.ts`, and their CSS stacks in `src/styles/tokens.css`.
+Theme and font choices stay on the reader's device and are reset independently under **Appearance → Colors / Fonts**. Font options and groups live in `src/client/fonts.ts`; shared typography and palette tokens live in `src/styles/tokens.css`.
 
 Large binary assets are stored in R2, **not Git**. The public `/images/` and `/files/` paths remain stable.
 
@@ -42,7 +42,7 @@ npm run test:browser  # Full Chromium suite at milestones
 npm run preview       # Preview the built site
 ```
 
-See [contribution and validation guidance](docs/CONTRIBUTING.md#validation) for browser tests and CI behavior.
+See [contribution and validation guidance](docs/CONTRIBUTING.md#validation) for smoke/full selection and CI behavior. The reduced smoke suite checks critical user journeys; the full suite covers additional edge cases.
 
 ## Repository layout
 
@@ -70,8 +70,10 @@ Each subject has one primary reference:
 - [Contributing](docs/CONTRIBUTING.md) — content fidelity, metadata, editorial changes, and validation.
 - [Architecture](docs/ARCHITECTURE.md) — component boundaries, reader behavior, and performance contracts.
 - [Asset workflow](docs/ASSET_WORKFLOW.md) — local assets, R2 uploads, previews, and cache management.
-- [Recitation Sets](docs/RECITATION_SETS.md) — stable source IDs, sharing, security, D1, and retention.
+- [Recitation Sets](docs/RECITATION_SETS.md) — programme behavior, source IDs, sharing, and retention.
+- [Recitation Sets operations](docs/RECITATION_OPERATIONS.md) — D1 setup, scheduled cleanup, and deployment verification.
 - [Agent guide](AGENTS.md) — short operational instructions for coding assistants.
+- [Audit utilities](audit/README.md) — manual OCR checks and Pages deployment cleanup.
 
 ## Corrections and additions
 

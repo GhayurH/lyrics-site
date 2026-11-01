@@ -1,8 +1,8 @@
 /* File role: Minimal immersive-mode shell; edition layout lives in reading-columns.css. */
 .reading-focus-enter, .reading-focus-actions button, .reading-focus-fullscreen {
-  min-height: 2.25rem; border: var(--ui-border); border-radius: 0.5rem;
-  padding: 0.38rem 0.72rem; background: var(--surface-background); color: var(--primary-text);
-  font: inherit; font-size: 0.82rem; font-weight: 700; cursor: pointer;
+  min-height: var(--ui-target); border: var(--ui-border); border-radius: var(--ui-radius);
+  padding: var(--ui-control-padding); background: var(--surface-background); color: var(--primary-text);
+  font: inherit; font-size: var(--ui-control-font-size); font-weight: 700; cursor: pointer;
 }
 .reading-focus-enter { margin-inline: 0; }
 .reading-focus-actions { display: none; gap: 0.35rem; }

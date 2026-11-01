@@ -31,6 +31,45 @@ test("mobile header occupies one line with accessible menu and icon theme toggle
   }
 });
 
+
+test("paired lyric actions and reader controls have matching accessible heights @smoke", async ({ page }) => {
+  for (const { width, height } of [{ width: 320, height: 760 }, { width: 390, height: 844 }, { width: 844, height: 390 }, { width: 1024, height: 768 }]) {
+    await page.setViewportSize({ width, height });
+    await page.goto("/lyrics/aa-asghar-bin-tere/");
+    const actions = page.locator(".lyric-header-actions");
+    const save = actions.locator(".favorite-button");
+    const add = actions.locator(".lyric-add-recitation");
+    await expect(save).toBeVisible();
+    await expect(add).toBeVisible();
+    const [saveBox, addBox] = await Promise.all([save.boundingBox(), add.boundingBox()]);
+    const target = await page.locator("html").evaluate((el) =>
+      Number.parseFloat(getComputedStyle(el).getPropertyValue("--ui-target")) * Number.parseFloat(getComputedStyle(el).fontSize));
+    expect(Math.abs(saveBox.height - addBox.height)).toBeLessThanOrEqual(1);
+    expect(saveBox.height).toBeGreaterThanOrEqual(target - 1);
+    expect(addBox.height).toBeGreaterThanOrEqual(target - 1);
+    const detailsBox = await page.locator(".lyric-metadata-disclosure summary").boundingBox();
+    expect(detailsBox.height).toBeGreaterThanOrEqual(target - 1);
+
+    if (width <= 700) {
+      const controls = page.locator("[data-reading-controls]");
+      const [focusBox, viewBox, menuBox, themeBox] = await Promise.all([
+        controls.locator(".reading-focus-enter").boundingBox(),
+        controls.locator(".reading-regular-toggle").boundingBox(),
+        page.locator("#mobile-nav-toggle").boundingBox(),
+        page.locator("#theme-toggle").boundingBox(),
+      ]);
+      expect(Math.abs(focusBox.height - viewBox.height)).toBeLessThanOrEqual(1);
+      expect(Math.abs(menuBox.height - themeBox.height)).toBeLessThanOrEqual(1);
+      expect(focusBox.height).toBeGreaterThanOrEqual(target - 1);
+      await controls.locator(".reading-regular-toggle").click();
+      for (const selector of [".reading-column-choice", "[data-reading-line-spacing]"]) {
+        const box = await controls.locator(selector).first().boundingBox();
+        expect(box.height).toBeGreaterThanOrEqual(target - 1);
+      }
+    }
+  }
+});
+
 test("selected Image Urdu Roman cells are entirely filled in every applicable reader @smoke", async ({ page }) => {
   for (const route of [
     "/lyrics/aa-asghar-bin-tere/",
@@ -68,7 +107,7 @@ test("selected Image Urdu Roman cells are entirely filled in every applicable re
   }
 });
 
-test("Basta page-by-page fills the full width of each stacked edition in mobile portrait @smoke", async ({ page }) => {
+test("Basta page-by-page fills the full width of each stacked edition in mobile portrait", async ({ page }) => {
   for (const width of [320, 342, 390, 600]) {
     await page.setViewportSize({ width, height: 850 });
     await page.goto("/basta/200/");
@@ -133,19 +172,4 @@ test("mobile readers start with an uncluttered Urdu view while desktop Basta sta
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", "image urdu");
   await expect(page.locator(".basta-original-page")).toBeVisible();
   await expect(page.locator(".basta-page-roman")).toBeHidden();
-});
-
-test("appearance follows the device until the reader chooses otherwise", async ({ page }) => {
-  await page.emulateMedia({ colorScheme: "light" });
-  await page.goto("/");
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
-  await page.locator("#theme-toggle").click();
-  await page.locator('#theme-dialog input[value="dark"]').check();
-  await page.locator("#theme-dialog-done").click();
-  await page.emulateMedia({ colorScheme: "dark" });
-  await page.reload();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
-  await page.emulateMedia({ colorScheme: "light" });
-  await page.reload();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });

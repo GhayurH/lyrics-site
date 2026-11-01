@@ -187,7 +187,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 2.7rem;
+  min-height: var(--ui-target);
   border: var(--ui-border);
   border-radius: var(--ui-radius-tight);
   padding: 0.55rem 0.8rem;

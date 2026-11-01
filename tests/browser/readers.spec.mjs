@@ -106,7 +106,7 @@ test("every visible poetry verse stays on one line and within its column at mobi
     await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
   }
 });
-test("all three couplet dividers share equal verse-six clearance in both scripts @smoke", async ({ page }) => {
+test("all three couplet dividers share equal verse-six clearance in both scripts", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 820 });
   await page.goto("/lyrics/karbala-karbala-karbala/");
   for (const spacing of ["compact", "default", "relaxed"]) {

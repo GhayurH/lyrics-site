@@ -140,7 +140,7 @@ test("Basta bookmarks can be saved, revisited and removed from the Saved page", 
   await expect(page.locator("#basta-bookmarks-heading")).toBeHidden();
 });
 
-test("mobile search keeps filters accessible without occupying the full page @smoke", async ({ page }) => {
+test("mobile search keeps filters accessible without occupying the full page", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/search/");
   const filters = page.locator("#search-filter-disclosure");
@@ -221,7 +221,7 @@ test("search results index poetry without including metadata controls @smoke", a
   await expect(basta.locator("p")).not.toHaveCount(0);
 });
 
-test("recitation catalog never displays negative remaining results @smoke", async ({ page }) => {
+test("recitation catalog never displays negative remaining results", async ({ page }) => {
   await page.goto("/recite/");
   await expect(page.locator("#recite-app")).not.toHaveAttribute("inert", "");
   await page.locator("#recite-search").fill("marsiya");
@@ -240,14 +240,14 @@ test("saved Basta stanza retains its printed label instead of the bookmark index
   await expect(page.locator("#basta-selections-list a").first()).toContainText("Stanza " + number);
 });
 
-test("Saved loads without exposing temporary empty counts @smoke", async ({ page }) => {
+test("Saved loads without exposing temporary empty counts", async ({ page }) => {
   await page.goto("/saved/");
   await expect(page.locator("#saved-library")).toHaveAttribute("data-saved-settled", "true");
   await expect(page.locator("#saved-initializing")).toBeHidden();
   await expect(page.locator("#saved-overview-empty")).toBeVisible();
 });
 
-test("Basta index section navigation keeps real page links @smoke", async ({ page }) => {
+test("Basta index section navigation keeps real page links", async ({ page }) => {
   await page.goto("/basta/index/");
   const jump = page.locator(".basta-index-section-nav a").first();
   await expect(jump).toBeVisible();

@@ -1,7 +1,7 @@
 // Saved language fonts must be independent, backwards-compatible and safe.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { DEFAULT_FONTS, FONT_CHOICES, parseFontPreferences } from "../src/client/fonts.ts";
+import { DEFAULT_FONTS, FONT_CHOICES, URDU_FONT_GROUPS, parseFontPreferences } from "../src/client/fonts.ts";
 
 test("defaults preserve current typography", () => {
   assert.deepEqual(parseFontPreferences(null), DEFAULT_FONTS);
@@ -51,4 +51,17 @@ test("Beaconhouse font and redistribution licence remain together", async () => 
   const licence = await readFile(path + "OFL.txt", "utf8");
   assert.match(licence, /SIL OPEN FONT LICENSE Version 1\.1/);
   assert.match(licence, /Beaconhouse Nastaliq Project Authors/);
+});
+
+test("Urdu font families are grouped alphabetically without missing or repeated options", () => {
+  const ids = URDU_FONT_GROUPS.flatMap((group) => group.values);
+  const allowed = FONT_CHOICES.urdu.map((item) => item.value);
+  assert.deepEqual([...ids].sort(), [...allowed].sort());
+  assert.equal(new Set(ids).size, ids.length);
+  for (const group of URDU_FONT_GROUPS) {
+    const labels = group.values.map((value) => FONT_CHOICES.urdu.find((item) => item.value === value)?.label);
+    assert(labels.every(Boolean));
+    assert.deepEqual(labels, [...labels].sort((a, b) => a.localeCompare(b, "en")),
+      "font choices in " + group.label + " must remain alphabetized");
+  }
 });

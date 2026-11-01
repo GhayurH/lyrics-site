@@ -37,6 +37,8 @@
   /* Used until JavaScript measures the actual sticky header height. */
   --site-header-fallback-height: 4.8rem;
   --ui-target: 2.75rem;
+  --ui-control-font-size: .85rem;
+  --ui-control-padding: .45rem .75rem;
   --ui-radius: .6rem;
   --ui-radius-tight: .55rem;
   --ui-radius-card: .75rem;
@@ -55,11 +57,108 @@
   --preset-dark-main: #171719;
   --preset-dark-surface: #222225;
   --preset-dark-ink: #ededed;
+  --preset-dark-muted: #b5b5ba;
+  --preset-dark-border: #3a3a3f;
+  --preset-dark-tag: #35353a;
+  --preset-dark-header: rgb(34 34 37 / .92);
+  --preset-dark-button: #171719;
   --preset-sepia-main: #f4ead6;
   --preset-sepia-surface: #fbf4e6;
   --preset-sepia-accent: #755238;
   --preset-amoled-main: #000000;
   --preset-amoled-ink: #f5f5f5;
+
+  /* Adapted from Figma/Visme; typography and action contrast >= 4.5:1. */
+  /* Paper reading palette. */
+  --preset-paper-main: #f2efe8;
+  --preset-paper-surface: #fcfaf5;
+  --preset-paper-ink: #302d29;
+  --preset-paper-muted: #635c53;
+  --preset-paper-border: #d4cbbf;
+  --preset-paper-tag: #e7e0d4;
+  --preset-paper-accent: #604a39;
+  --preset-paper-button: #ffffff;
+  /* Clay reading palette. */
+  --preset-clay-main: #eee2d5;
+  --preset-clay-surface: #faf3ea;
+  --preset-clay-ink: #3b2c27;
+  --preset-clay-muted: #725d50;
+  --preset-clay-border: #ccb7a3;
+  --preset-clay-tag: #e4d1bf;
+  --preset-clay-accent: #8b4433;
+  --preset-clay-button: #ffffff;
+  /* Rosewood reading palette. */
+  --preset-rosewood-main: #f2e8e5;
+  --preset-rosewood-surface: #fff9f6;
+  --preset-rosewood-ink: #402f36;
+  --preset-rosewood-muted: #755964;
+  --preset-rosewood-border: #d8c3c5;
+  --preset-rosewood-tag: #ead5d8;
+  --preset-rosewood-accent: #7a394b;
+  --preset-rosewood-button: #ffffff;
+  /* Sage reading palette. */
+  --preset-sage-main: #e8eee8;
+  --preset-sage-surface: #f8faf7;
+  --preset-sage-ink: #24372d;
+  --preset-sage-muted: #4d6456;
+  --preset-sage-border: #b9ccbc;
+  --preset-sage-tag: #d6e4d8;
+  --preset-sage-accent: #2e5741;
+  --preset-sage-button: #ffffff;
+  /* Ocean reading palette. */
+  --preset-ocean-main: #e5f0f2;
+  --preset-ocean-surface: #f5fafb;
+  --preset-ocean-ink: #1d3744;
+  --preset-ocean-muted: #4d6470;
+  --preset-ocean-border: #b5cdd3;
+  --preset-ocean-tag: #cfe3e8;
+  --preset-ocean-accent: #20576b;
+  --preset-ocean-button: #ffffff;
+  /* Slate reading palette. */
+  --preset-slate-main: #e9edf1;
+  --preset-slate-surface: #f8fafc;
+  --preset-slate-ink: #263443;
+  --preset-slate-muted: #536575;
+  --preset-slate-border: #becbd5;
+  --preset-slate-tag: #d7e1e8;
+  --preset-slate-accent: #344e66;
+  --preset-slate-button: #ffffff;
+  /* Dusk reading palette. */
+  --preset-dusk-main: #1b2534;
+  --preset-dusk-surface: #253246;
+  --preset-dusk-ink: #eaf0f6;
+  --preset-dusk-muted: #b5c3d1;
+  --preset-dusk-border: #44556a;
+  --preset-dusk-tag: #34455d;
+  --preset-dusk-accent: #a4bfdd;
+  --preset-dusk-button: #171719;
+  /* Forest reading palette. */
+  --preset-forest-main: #142a26;
+  --preset-forest-surface: #1e3832;
+  --preset-forest-ink: #eef4ed;
+  --preset-forest-muted: #b6cfc3;
+  --preset-forest-border: #436459;
+  --preset-forest-tag: #2b4a3e;
+  --preset-forest-accent: #b3d9c2;
+  --preset-forest-button: #171719;
+  /* Plum reading palette. */
+  --preset-plum-main: #2b2435;
+  --preset-plum-surface: #392f43;
+  --preset-plum-ink: #f1ecf4;
+  --preset-plum-muted: #cbbfd4;
+  --preset-plum-border: #5c4e68;
+  --preset-plum-tag: #46394f;
+  --preset-plum-accent: #dfc1b6;
+  --preset-plum-button: #171719;
+  /* Graphite reading palette. */
+  --preset-graphite-main: #202222;
+  --preset-graphite-surface: #2c2f2e;
+  --preset-graphite-ink: #f0f0ec;
+  --preset-graphite-muted: #c1c8c1;
+  --preset-graphite-border: #515754;
+  --preset-graphite-tag: #3b433d;
+  --preset-graphite-accent: #c8d4bb;
+  --preset-graphite-button: #171719;
 }
 
 /* Only named, validated options may override these font tokens. */
@@ -80,7 +179,9 @@ html[data-roman-font="source-sans"] { --font-roman: "Source Sans 3", system-ui, 
 html[data-roman-font="lora"] { --font-roman: "Lora", Georgia, serif; }
 html[data-roman-font="merriweather"] { --font-roman: Merriweather, Georgia, serif; }
 
-html[data-theme="light"] {
+/* Auto uses the same light palette until the device requests Dark. */
+html[data-theme="light"],
+html[data-theme="auto"] {
   color-scheme: light;
   --site-background: var(--preset-light-main);
   --surface-background: var(--preset-light-surface);
@@ -97,13 +198,30 @@ html[data-theme="dark"] {
   color-scheme: dark;
   --site-background: var(--preset-dark-main);
   --surface-background: var(--preset-dark-surface);
-  --header-background: rgb(34 34 37 / 0.92);
+  --header-background: var(--preset-dark-header);
   --primary-text: var(--preset-dark-ink);
-  --secondary-text: #b5b5ba;
-  --border-colour: #3a3a3f;
-  --tag-background: #35353a;
+  --secondary-text: var(--preset-dark-muted);
+  --border-colour: var(--preset-dark-border);
+  --tag-background: var(--preset-dark-tag);
   --accent-color: var(--preset-dark-ink);
-  --button-text: #171719;
+  --button-text: var(--preset-dark-button);
+}
+
+/* Override Auto only under a dark device preference. These declarations
+   mirror the canonical Dark preset; the Light/Auto base is shared above. */
+@media (prefers-color-scheme: dark) {
+  html[data-theme="auto"] {
+  color-scheme: dark;
+  --site-background: var(--preset-dark-main);
+  --surface-background: var(--preset-dark-surface);
+  --header-background: var(--preset-dark-header);
+  --primary-text: var(--preset-dark-ink);
+  --secondary-text: var(--preset-dark-muted);
+  --border-colour: var(--preset-dark-border);
+  --tag-background: var(--preset-dark-tag);
+  --accent-color: var(--preset-dark-ink);
+  --button-text: var(--preset-dark-button);
+  }
 }
 
 /* Pure-black OLED reading mode: no raised grey reading surfaces. */
@@ -132,6 +250,136 @@ html[data-theme="sepia"] {
   --tag-background: #eadcc5;
   --accent-color: var(--preset-sepia-accent);
   --button-text: #ffffff;
+}
+
+html[data-theme="paper"] {
+  color-scheme: light;
+  --site-background: var(--preset-paper-main);
+  --surface-background: var(--preset-paper-surface);
+  --header-background: var(--preset-paper-surface);
+  --primary-text: var(--preset-paper-ink);
+  --secondary-text: var(--preset-paper-muted);
+  --border-colour: var(--preset-paper-border);
+  --tag-background: var(--preset-paper-tag);
+  --accent-color: var(--preset-paper-accent);
+  --button-text: var(--preset-paper-button);
+}
+
+html[data-theme="clay"] {
+  color-scheme: light;
+  --site-background: var(--preset-clay-main);
+  --surface-background: var(--preset-clay-surface);
+  --header-background: var(--preset-clay-surface);
+  --primary-text: var(--preset-clay-ink);
+  --secondary-text: var(--preset-clay-muted);
+  --border-colour: var(--preset-clay-border);
+  --tag-background: var(--preset-clay-tag);
+  --accent-color: var(--preset-clay-accent);
+  --button-text: var(--preset-clay-button);
+}
+
+html[data-theme="rosewood"] {
+  color-scheme: light;
+  --site-background: var(--preset-rosewood-main);
+  --surface-background: var(--preset-rosewood-surface);
+  --header-background: var(--preset-rosewood-surface);
+  --primary-text: var(--preset-rosewood-ink);
+  --secondary-text: var(--preset-rosewood-muted);
+  --border-colour: var(--preset-rosewood-border);
+  --tag-background: var(--preset-rosewood-tag);
+  --accent-color: var(--preset-rosewood-accent);
+  --button-text: var(--preset-rosewood-button);
+}
+
+html[data-theme="sage"] {
+  color-scheme: light;
+  --site-background: var(--preset-sage-main);
+  --surface-background: var(--preset-sage-surface);
+  --header-background: var(--preset-sage-surface);
+  --primary-text: var(--preset-sage-ink);
+  --secondary-text: var(--preset-sage-muted);
+  --border-colour: var(--preset-sage-border);
+  --tag-background: var(--preset-sage-tag);
+  --accent-color: var(--preset-sage-accent);
+  --button-text: var(--preset-sage-button);
+}
+
+html[data-theme="ocean"] {
+  color-scheme: light;
+  --site-background: var(--preset-ocean-main);
+  --surface-background: var(--preset-ocean-surface);
+  --header-background: var(--preset-ocean-surface);
+  --primary-text: var(--preset-ocean-ink);
+  --secondary-text: var(--preset-ocean-muted);
+  --border-colour: var(--preset-ocean-border);
+  --tag-background: var(--preset-ocean-tag);
+  --accent-color: var(--preset-ocean-accent);
+  --button-text: var(--preset-ocean-button);
+}
+
+html[data-theme="slate"] {
+  color-scheme: light;
+  --site-background: var(--preset-slate-main);
+  --surface-background: var(--preset-slate-surface);
+  --header-background: var(--preset-slate-surface);
+  --primary-text: var(--preset-slate-ink);
+  --secondary-text: var(--preset-slate-muted);
+  --border-colour: var(--preset-slate-border);
+  --tag-background: var(--preset-slate-tag);
+  --accent-color: var(--preset-slate-accent);
+  --button-text: var(--preset-slate-button);
+}
+
+html[data-theme="dusk"] {
+  color-scheme: dark;
+  --site-background: var(--preset-dusk-main);
+  --surface-background: var(--preset-dusk-surface);
+  --header-background: var(--preset-dusk-surface);
+  --primary-text: var(--preset-dusk-ink);
+  --secondary-text: var(--preset-dusk-muted);
+  --border-colour: var(--preset-dusk-border);
+  --tag-background: var(--preset-dusk-tag);
+  --accent-color: var(--preset-dusk-accent);
+  --button-text: var(--preset-dusk-button);
+}
+
+html[data-theme="forest"] {
+  color-scheme: dark;
+  --site-background: var(--preset-forest-main);
+  --surface-background: var(--preset-forest-surface);
+  --header-background: var(--preset-forest-surface);
+  --primary-text: var(--preset-forest-ink);
+  --secondary-text: var(--preset-forest-muted);
+  --border-colour: var(--preset-forest-border);
+  --tag-background: var(--preset-forest-tag);
+  --accent-color: var(--preset-forest-accent);
+  --button-text: var(--preset-forest-button);
+}
+
+html[data-theme="plum"] {
+  color-scheme: dark;
+  --site-background: var(--preset-plum-main);
+  --surface-background: var(--preset-plum-surface);
+  --header-background: var(--preset-plum-surface);
+  --primary-text: var(--preset-plum-ink);
+  --secondary-text: var(--preset-plum-muted);
+  --border-colour: var(--preset-plum-border);
+  --tag-background: var(--preset-plum-tag);
+  --accent-color: var(--preset-plum-accent);
+  --button-text: var(--preset-plum-button);
+}
+
+html[data-theme="graphite"] {
+  color-scheme: dark;
+  --site-background: var(--preset-graphite-main);
+  --surface-background: var(--preset-graphite-surface);
+  --header-background: var(--preset-graphite-surface);
+  --primary-text: var(--preset-graphite-ink);
+  --secondary-text: var(--preset-graphite-muted);
+  --border-colour: var(--preset-graphite-border);
+  --tag-background: var(--preset-graphite-tag);
+  --accent-color: var(--preset-graphite-accent);
+  --button-text: var(--preset-graphite-button);
 }
 
 /* Custom colours are supplied as validated six-digit hex values before the

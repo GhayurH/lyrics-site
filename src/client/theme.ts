@@ -1,6 +1,38 @@
 // File role: Appearance preferences and colour contrast calculation.
 // All palettes are local to this browser; no account or server storage.
-export type ThemeName = "light" | "dark" | "amoled" | "sepia" | "custom";
+// Reading-first themes based on neutral, earthy and subdued jewel palettes.
+export const PRESET_THEME_GROUPS = [
+  { label: "Essentials", themes: [
+    { id: "auto", label: "Auto (device)" },
+    { id: "light", label: "Light" },
+    { id: "dark", label: "Dark" },
+    { id: "sepia", label: "Sepia" },
+    { id: "amoled", label: "AMOLED Dark" },
+  ] },
+  { label: "Light reading", themes: [
+    { id: "paper", label: "Paper" },
+    { id: "clay", label: "Clay" },
+    { id: "rosewood", label: "Rosewood" },
+    { id: "sage", label: "Sage" },
+    { id: "ocean", label: "Ocean" },
+    { id: "slate", label: "Slate" },
+  ] },
+  { label: "Dark reading", themes: [
+    { id: "dusk", label: "Dusk" },
+    { id: "forest", label: "Forest" },
+    { id: "plum", label: "Plum" },
+    { id: "graphite", label: "Graphite" },
+  ] },
+] as const;
+export type PresetThemeName = (typeof PRESET_THEME_GROUPS)[number]["themes"][number]["id"];
+export type ThemeName = PresetThemeName | "custom";
+export const PRESET_THEME_NAMES: PresetThemeName[] = PRESET_THEME_GROUPS.flatMap(
+  (group) => group.themes.map((theme) => theme.id),
+);
+export const DARK_THEME_NAMES: PresetThemeName[] = ["dark", "amoled", "dusk", "forest", "plum", "graphite"];
+export function isThemeName(value: unknown): value is ThemeName {
+  return typeof value === "string" && (value === "custom" || PRESET_THEME_NAMES.some((name) => name === value));
+}
 export type AdvancedColor = "primaryText" | "mutedText" | "borders";
 /** Preset colours remain the Auto defaults until the Custom surfaces change. */
 export type InheritedPresetColors = {
@@ -118,6 +150,20 @@ export function paletteTextColors(palette: CustomPalette): {
   };
 }
 
+/** Reports WCAG contrast for each adjustable text role and for the accent button.
+ * Both reading surfaces are considered, not just the page background. */
+export function paletteContrastScores(palette: CustomPalette): {
+  primary: number; muted: number; button: number;
+} {
+  const roles = paletteTextColors(palette);
+  const accentText = paletteForeground(palette).accentText;
+  return {
+    primary: minTextContrast(roles.primary, palette),
+    muted: minTextContrast(roles.muted, palette),
+    button: contrast(luminance(palette.accent), luminance(accentText)),
+  };
+}
+
 /** Choose the foreground maximizing contrast against *both* page and card. */
 export function paletteForeground(palette: CustomPalette): { text: string; accentText: string; ratio: number; scheme: string } {
   const backgrounds = [luminance(palette.main), luminance(palette.secondary)];
@@ -135,8 +181,8 @@ export function paletteForeground(palette: CustomPalette): { text: string; accen
 export function readTheme(): ThemeName {
   let saved: string | null = null;
   try { saved = localStorage.getItem("theme"); } catch { /* Storage can be blocked. */ }
-  if (saved === "light" || saved === "dark" || saved === "amoled" || saved === "sepia" || saved === "custom") return saved;
-  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  if (isThemeName(saved)) return saved;
+  return "auto";
 }
 
 export function readCustomPalette(): CustomPalette {
@@ -181,11 +227,12 @@ export function applyTheme(theme: ThemeName, palette: CustomPalette = readCustom
     root.style.setProperty("--theme-color-scheme", scheme);
     root.dataset.pfTheme = scheme;
   } else {
-    root.dataset.pfTheme = theme === "dark" || theme === "amoled" ? "dark" : "light";
+    root.dataset.pfTheme = (theme === "auto" ? window.matchMedia("(prefers-color-scheme: dark)").matches : DARK_THEME_NAMES.some((name) => name === theme)) ? "dark" : "light";
   }
   root.dataset.theme = theme;
+  // CSS is the source of truth for the browser-chrome colour of every preset.
   const headerColor = theme === "custom" ? palette.main
-    : theme === "sepia" ? "#f4ead6" : theme === "amoled" ? "#000000" : theme === "light" ? "#f7f7f8" : "#171719";
+    : normalizeCssHex(getComputedStyle(root).getPropertyValue("--site-background"), "#171719");
   document.querySelector('meta[name="theme-color"]')?.setAttribute("content", headerColor);
   if (persist) {
     try {

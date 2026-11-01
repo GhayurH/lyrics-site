@@ -37,7 +37,7 @@
 .recite-results li { min-width: 0; border: var(--ui-border); border-radius: var(--ui-radius-tight); padding: .65rem .75rem; display: flex; gap: .7rem; justify-content: space-between; align-items: center; }
 .recite-results li strong { display: block; font-weight: 650; line-height: 1.8; }
 .recite-results li small { display: block; color: var(--secondary-text); }
-.recite-results li button { white-space: nowrap; min-height: 2.5rem; padding: .35rem .7rem; border: var(--ui-border); background: var(--site-background); color: var(--primary-text); border-radius: .5rem; cursor: pointer; }
+.recite-results li button { white-space: nowrap; min-height: var(--ui-target); padding: .35rem .7rem; border: var(--ui-border); background: var(--site-background); color: var(--primary-text); border-radius: .5rem; cursor: pointer; }
 .recite-stanza-add { display: flex; flex-wrap: wrap; align-items: end; gap: .7rem; }
 .recite-stanza-add label { flex: 1 1 13rem; }
 .recite-stanza-add .button { margin: 0; }
@@ -85,7 +85,7 @@ html[data-reading-focus="true"] .recite-work-header h2 { text-decoration: underl
 }
 
 .recite-inline-note { flex: 1 1 10rem; max-width: 16rem; }
-.recite-inline-note input { font-size: .83rem; min-height: 2.5rem; }
+.recite-inline-note input { font-size: .83rem; min-height: var(--ui-target); }
 .recite-link-disabled { opacity: .5; cursor: not-allowed; }
 .recite-editions .basta-kalam-text { line-height: 2.7; }
 .recite-editions .lyric-reading-roman .basta-kalam-text { line-height: 2; }
@@ -134,7 +134,7 @@ html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
 /* Portable exports and live following remain opt-in. Print uses a self-contained
    snapshot, independent of lazy-loaded reader pages and network fonts. */
 .recite-reader-tools { display: flex; align-items: center; flex-wrap: wrap; gap: .65rem; margin-bottom: .75rem; }
-.recite-reader-tools button { min-height: 2.65rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); padding: .45rem .75rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
+.recite-reader-tools button { min-height: var(--ui-target); border: var(--ui-border); border-radius: var(--ui-radius-tight); padding: .45rem .75rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
 .recite-reader-tools button:disabled { opacity: .5; cursor: progress; }
 .recite-reader-tools p { flex-basis: 100%; margin: 0; }
 .recite-reader-live-label { display: inline-flex; align-items: center; gap: .4rem; font-size: .83rem; }
@@ -147,7 +147,7 @@ html[data-reading-focus="true"] .recite-reader-tools { display: none; }
 .recite-live-controls[hidden] { display: none !important; }
 .recite-live-controls h3 { margin: 0 0 .35rem; font-size: 1.05rem; }
 .recite-live-controls .recite-actions { margin: .5rem 0; }
-.recite-live-controls button { border: var(--ui-border); border-radius: .5rem; background: var(--site-background); color: var(--primary-text); padding: .45rem .75rem; min-height: 2.6rem; cursor: pointer; }
+.recite-live-controls button { border: var(--ui-border); border-radius: .5rem; background: var(--site-background); color: var(--primary-text); padding: var(--ui-control-padding); min-height: var(--ui-target); cursor: pointer; }
 .recite-live-controls button:disabled { opacity: .5; cursor: not-allowed; }
 
 /* Disabled controls cannot receive mouse/keyboard focus, so their wrapper
