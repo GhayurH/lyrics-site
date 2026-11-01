@@ -54,7 +54,7 @@ function normalizeLine(p, line, {fenced,intro}) {
     s=s.replace(/تیغ بڑہا/gu,"تیغ بڑھا");
   if(p==="src/data/lyrics/ya-sari-ar-riza.md")
     s=s.replace(/شبِ جمہ/gu,"شبِ جمعہ");
-  if(textContent(p)) s=s.replace(/，/gu,"،");
+  if(textContent(p)) s=s.replace(/，/gu,"،").replace(/ +،/gu,"،");
   if(!arabic(p,s,intro)){
     const guards=/(لا إله إلا (?:الله|علی)|“[^”]*”|"[^"]*")/gu;
     s=s.split(guards).map(part=>{
