@@ -161,8 +161,9 @@ if (args.has("--sync")) {
   if (unresolved.length) { fail(unresolved); process.exit(1); }
   locked.lyrics.push(...newLyrics);
   for (const addition of newBasta) {
-    const { status, ...record } = addition;
-    locked.basta.push(record);
+    // Page metadata is diagnostic only, not part of the permanent lock.
+    locked.basta.push({ id: addition.id, key: addition.key,
+      stanzas: addition.stanzas.map(({ id, anchor }) => ({ id, anchor })) });
   }
   for (const old of locked.basta) {
     const current = bastaMap.get(old.id);

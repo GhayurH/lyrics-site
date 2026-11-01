@@ -44,7 +44,8 @@ test("explicit sync can safely refresh one edited stanza with unchanged neighbou
   const original = ["A", "B", "C", "D"].map((anchor, i) =>
     ({ id: "stanza-00" + (i + 1), anchor }));
   const locked = { id: "basta-marsiye-059", key: "Marsiye:59", stanzas: original };
-  const changed = ["A", "B2", "C", "D"].map((anchor) => ({ anchor, pages: [212] }));
+  const changed = ["A", "B2", "C", "D"].map((anchor, i) =>
+    ({ id: "stanza-00" + (i + 1), anchor, pages: [212] }));
   const update = safeStanzaAnchorRefresh(locked, changed);
   assert.deepEqual(update, {
     id: "stanza-002", previousAnchor: "B", anchor: "B2", pages: [212],
@@ -62,13 +63,20 @@ test("ambiguous, missing, reordered, retired and multi-edited stanzas are never 
     ["A2", "B2", "C"],           // multiple changes
     ["A", "C", "B2"],            // shifted stanza
   ]) {
-    assert.equal(safeStanzaAnchorRefresh(lock, current.map((anchor) => ({ anchor }))), null);
+    assert.equal(safeStanzaAnchorRefresh(lock, current.map((anchor, i) =>
+      ({ id: "stanza-00" + (i + 1), anchor }))), null);
   }
   assert.equal(safeStanzaAnchorRefresh({ ...lock, stanzas: [lock.stanzas[0]] },
-    [{ anchor: "different" }]), null);
+    [{ id: "stanza-001", anchor: "different" }]), null);
   assert.equal(safeStanzaAnchorRefresh({ ...lock, stanzas: [
     { ...lock.stanzas[0], retired: true }, ...lock.stanzas.slice(1),
-  ] }, [{ anchor: "A2" }, { anchor: "B" }, { anchor: "C" }]), null);
+  ] }, ["A2", "B", "C"].map((anchor, i) => ({ id: "stanza-00" + (i + 1), anchor }))), null);
+  // An edited and renumbered stanza cannot be inferred from position alone.
+  assert.equal(safeStanzaAnchorRefresh(lock, [
+    { id: "stanza-001", anchor: "A" },
+    { id: "stanza-099", anchor: "B2" },
+    { id: "stanza-003", anchor: "C" },
+  ]), null);
 });
 
 test("source location labels are precise for multi-page stanzas", () => {

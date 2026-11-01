@@ -32,11 +32,11 @@ Source Markdown and scans are authoritative. Sets store references and organizer
 
 ```bash
 npm run recitation:ids:check
-npm run recitation:ids:sync  # Only when adding newly published sources/stanzas
+npm run recitation:ids:sync  # Add new sources or refresh a single unambiguous stanza edit
 npm run basta:kalams:audit
 ```
 
-Commit reviewed lockfile changes with source edits. Preserve `recitationId` on renamed lyric files or renumbered Basta entries. If a source correction changes a stanza fingerprint, review/update its pinned anchor **without changing its ID**. Explicitly retire removed IDs using `retired: true`; don't recycle them. Builds validate the registry.
+Commit reviewed lockfile changes with source edits. Preserve `recitationId` on renamed lyric files or renumbered Basta entries. After editing an existing stanza's opening lines, run `npm run recitation:ids:sync`. It can refresh **one** anchor automatically when the stanza count, printed position, and every other anchor still match; it preserves the permanent stanza ID and prints the affected Basta page. Multiple edits, insertions, removals, reordering, or renumbering require manual review. Explicitly retire removed IDs using `retired: true`; don't recycle them. Builds validate the registry **without modifying it**.
 
 Missing/retired poem or stanza references retain their position and saved label with a warning, never a replacement. Organizers are warned before publishing unresolved sets.
 

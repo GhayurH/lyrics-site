@@ -54,7 +54,7 @@ export function applyRecitationIds<
  */
 export function safeStanzaAnchorRefresh(
   locked: LockedBasta,
-  current: Array<{ anchor: string; pages?: number[] }>,
+  current: Array<{ id: string; anchor: string; pages?: number[] }>,
 ): { id: string; previousAnchor: string; anchor: string; pages: number[] } | null {
   if (locked.retired || locked.stanzas.some((stanza) => stanza.retired)) return null;
   if (locked.stanzas.length !== current.length || current.length < 2) return null;
@@ -69,6 +69,8 @@ export function safeStanzaAnchorRefresh(
   const oldIndex = prior.indexOf(missing[0]);
   const newIndex = current.indexOf(added[0]);
   if (oldIndex !== newIndex ||
+      // A source-number change alongside an edit is ambiguous: review it.
+      current[newIndex].id !== missing[0].id ||
       prior.some((stanza, index) => index !== oldIndex && stanza.anchor !== current[index].anchor))
     return null;
   return {
