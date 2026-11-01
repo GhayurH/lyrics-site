@@ -1,93 +1,64 @@
 # Architecture
 
-This document owns implementation boundaries and reader behavior. See [CONTRIBUTING.md](CONTRIBUTING.md) for source-editing rules, [ASSET_WORKFLOW.md](ASSET_WORKFLOW.md) for R2 operations, and [RECITATION_SETS.md](RECITATION_SETS.md) for programme behavior and authorization, and [RECITATION_OPERATIONS.md](RECITATION_OPERATIONS.md) for Cloudflare operations.
+Code ownership and reader behavior. Editorial rules: [Contributing](CONTRIBUTING.md); R2: [Assets](ASSET_WORKFLOW.md); programme data and permissions: [Recitation Sets](RECITATION_SETS.md); deployment: [Operations](RECITATION_OPERATIONS.md).
 
 ## Principles and source layout
 
-- Prefer static, usable HTML. Add browser JavaScript for progressive enhancements, interactive search, and local user state.
-- Keep domain models canonical, route behavior local, and shared UI controls consistent.
-- Keep route-specific CSS out of the global payload and large binary assets out of Git.
-- Preserve public URLs and content structure when reorganizing code.
-- Build and browser validation run on Node 24 in GitHub Actions; the project declares Node >=22.23.4 as its minimum supported runtime, consistent with Astro.
+Prefer static, readable HTML with progressive enhancement. Keep public URLs, source fidelity, and single owners for shared behavior. Use Node 24 (minimum 22.23.4).
 
-```text
-src/
-  client/          Browser-only controllers, local storage, and DOM helpers
-  components/      Reusable Astro UI
-  data/            Markdown and structured content
-  layouts/         Site shell
-  lib/             Domain models and build/server data utilities
-  pages/           Routes and pre-rendered JSON endpoints
-  styles/          Global primitives and feature-owned CSS
-```
-
-`src/layouts/BaseLayout.astro` owns the site shell, not feature CSS. `src/client/storage.ts` owns browser-local favourites, recent history, and reading-state persistence primitives; `src/client/theme.ts` and `src/client/fonts.ts` own their separate validated appearance preferences, so either Appearance reset can leave the other settings intact. `src/content.config.ts` defines lyric metadata, including required `kalamType`.
+| Location | Responsibility |
+| --- | --- |
+| `src/data/`, `src/content.config.ts` | Source poetry, Basta data, lyric metadata (`kalamType` required) |
+| `src/lib/` | Canonical domain models, parsing, build/server utilities |
+| `src/components/`, `src/pages/`, `src/layouts/` | Astro UI, routes/JSON endpoints, site shell |
+| `src/client/` | Browser controllers, storage, DOM helpers |
+| `src/styles/` | Shared tokens/primitives and feature styles |
+| `functions/`, `workers/`, `schema/` | Pages Functions, cleanup Worker, D1 schema |
 
 ## Styling and shared components
 
-`src/styles/tokens.css` owns shared design decisions: device-following Auto, Light, Dark, AMOLED Dark, Sepia, curated reading palettes, and Custom colour roles; content and reader widths; Urdu/Roman sizes and line spacing; tap targets; radii; and the theme-aware `--ui-border` hairline. `src/styles/core.css` imports the tokens and owns the shell, resets, and shared UI primitives. The Appearance UI lives in `src/components/AppearanceDialog.astro`, its browser controller in `src/client/appearance.ts`, and its styling in `src/styles/appearance.css`. `src/client/site.ts` owns the separate navigation, sticky-header and favourite behaviours. The interface itself uses `--font-ui` and never changes with reader font preferences; Urdu and Roman poetry use separate `--font-urdu` and `--font-roman` tokens across every reader. Feature CSS belongs to its route. Use semantic tokens for genuinely shared decisions, but retain local values for unique components and their one-off measurements. The theme-derived `--reading-title-color` and `kalam-reading-title` class in `core.css` keep bold, underlined, centered titles identical in Urdu/Roman and all readers; `kalam-poet-credit` centers verified adjacent bylines without styling them as titles.
+- `tokens.css` owns theme palettes, typefaces, reading widths, typography, spacing, control sizes, and radii. `core.css` imports it and owns global styles.
+- `reading-columns.css` owns reader edition layouts, the **46rem** container threshold, and inherited Compact/Default/Relaxed spacing values (`--reading-active-*-leading`). Route CSS consumes those tokens; index and poetry have deliberately different leading. `reading-focus.css` owns immersive layout and `scan-viewer.css` owns zoom UI.
+- `--ui-border`, `--ui-target`, `--ui-control-padding`, and `--ui-control-font-size` are shared controls. Keep unique component measurements local rather than introducing meaningless tokens. `tests/design-tokens.test.mjs` enforces ownership.
+- `kalam-reading-title` centers, bolds, underlines, and colors verified titles using `--reading-title-color` (derived from the active theme). `kalam-poet-credit` centers an adjacent verified byline without title emphasis. `core.css` owns one-line verse justification.
+- `LyricCard.astro` and `client/lyric-card.ts` use the shared `LyricCardData` model in `lib/catalog.ts`.
 
-Content width roles are `--content-wide` (site), `--content-reading` (readers), `--content-feature` (72rem landing sections), `--content-intro` (52rem introductions), `--content-compact` (42rem text), and `--reading-single-width`/`--reading-scan-width` (individual reading columns). Control borders use `--ui-border`, which resolves against the current theme and is re-scoped for the Appearance dialog. Shared control height, padding, and font size use `--ui-target`, `--ui-control-padding`, and `--ui-control-font-size`. `--site-header-fallback-height` provides a shared pre-measurement value for the sticky site header. Radius tokens distinguish compact controls, general controls, cards, and panels. Do not promote unrelated matching values to global tokens solely because their numbers happen to match.
+### Appearance and fonts
 
-The active `--reading-active-*-leading` values are inherited from each `[data-reading-root]` and selected in `reading-columns.css`. Route styles consume these values without defining their own spacing-mode selectors. Separate named index and poetry leading tokens preserve intentional typographic differences, and all base values belong in `tokens.css`.
+`BaseLayout.astro` restores appearance before paint; `client/theme.ts` validates palettes; `AppearanceDialog.astro`/`client/appearance.ts` manage Colors and Fonts. Presets include Auto, Light, Dark, AMOLED, Sepia, curated palettes, and Custom. Custom derives readable text/borders unless overridden; it retains its saved palette until explicitly copied/reset. Colors and Fonts reset separately. Pagefind and browser theme-color follow the active palette.
 
-The **46rem reader-shell stack threshold** (and its 46.01rem parallel counterpart) belongs only in `reading-columns.css`. Ordinary mobile viewport defaults share the 700px query from `src/client/viewport.ts`; media/container query conditions remain in their owning CSS because custom properties are unsupported inside those conditions. `tests/design-tokens.test.mjs` checks token ownership and breakpoint consistency. The mobile portrait Basta grid is an intentional page-by-page exception; do not remove it without verifying both the continuous and page-by-page layouts.
-
-Readers import the shared `reading-columns.css` (edition grids, container queries, toolbar placement, and the sole compact/default/relaxed spacing policy), `reading-focus.css` (Focus Mode), and `scan-viewer.css` (zoomable scans) through `ReadingControls.astro`. Do not add competing route-local edition grids or rebuild an override stack; consolidate CSS only when specificity, conditions, and cascade still agree. `basta.css` is the one shared Basta text stylesheet.
-
-`src/lib/catalog.ts` defines `LyricCardData`. `LyricCard.astro` and `src/client/lyric-card.ts` share that model, class contract, and bookmark attributes. Extend the model rather than maintaining separate card designs.
-
-### Appearance
-
-`BaseLayout.astro` owns the pre-paint appearance bootstrap, while `AppearanceDialog.astro` renders the tabbed **Colors / Fonts** menu and `appearance.ts` handles its state and interactions. `src/client/theme.ts` owns the allowlisted theme IDs and palette validation, while `tokens.css` owns preset values and the four-role preview swatches in `appearance.css` reference those same tokens. **Auto (device)** follows OS light/dark changes, including while the page is open; Pagefind and the browser theme colour follow the resolved appearance. Theme and font preferences save separately in browser storage.
-
-**My Custom theme** reopens saved colours without overwriting them. **Start Custom from this theme** explicitly copies the active preset, including its text/border roles; changing Custom backgrounds recalculates automatic foregrounds. Custom exposes page, panel, and accent colours plus optional manual primary/muted text and borders, with live contrast information. **Reset custom colours** restores the Custom starting palette; **Restore website defaults (colors)** clears only colour settings and returns to device-following Auto, while the Fonts reset restores only default Urdu/Roman selections. Invalid stored CSS values are rejected, and the editor remains legible even if page text is configured with poor contrast.
-
-### Reading fonts and licensing
-
-`src/client/fonts.ts` is the allowlist for Urdu and Roman fonts. The layout embeds the allowlist from this module into its early inline bootstrap to restore saved choices before the first paint, without maintaining a second list. `system` is a legacy Roman option and is normalized to `sans` (the system-default font). The Appearance dialog uses short Urdu and Roman sample text for font previews without changing navigation or form typography. Urdu options are grouped by script style in `URDU_FONT_GROUPS`; the canonical allowlist stays alphabetical and is shared with first-paint restoration.
-
-Fontsource fonts are hosted locally. The OFL-licensed Beaconhouse Nastaliq file, license, and source notice remain together in `public/fonts/beaconhouse-nastaliq/`. Alvi Nastaleeq must not be bundled because of its redistribution restrictions; use an installed font with Noto Nastaliq fallback.
+`client/fonts.ts` owns the font allowlist, early restoration, and grouped previews. The UI uses `--font-ui`; only poetry uses `--font-urdu`/`--font-roman`. Fontsource packages and OFL-licensed Beaconhouse Nastaliq are self-hosted (keep license/source files). **Do not bundle Alvi Nastaleeq**; it can use an installed copy with Noto fallback.
 
 ## Reader contract
 
-Standalone lyrics, Basta page-by-page, the linked Basta index, the continuous reader, and Recitation Sets share `ReadingControls.astro` and `src/client/reader-state.ts`.
+Standalone lyrics, Basta pages/index/continuous mode, and Recitation Sets share `ReadingControls.astro`, `client/reader-state.ts`, and the reader CSS above.
 
-- **Edition selection:** Image, Urdu, and Roman are independently selectable when available, with at least one edition selected. First visits use Urdu on narrow mobile screens, Urdu plus Roman on wide screens, and source scan plus Urdu on desktop Basta single-page readers. Preferences persist per reader type and always override the suggested default. Unavailable Roman editions must be explained when selected alone, but do not repeat warnings beside usable Urdu. Scan-only pages retain the scan. Server-rendered HTML remains readable without JavaScript.
-- **Layout:** `reading-columns.css` uses available container width to display editions in parallel or stack them. In narrow page-by-page Basta portrait layouts, text panels stack at full width. Verses fit one line using `src/client/verse-fitting.ts` and `src/lib/verse-fit.ts`: no wrapping, horizontal text scrolling, or manual font-size selector.
-- **Scroll and scans:** `src/client/synced-columns.ts` synchronizes side-by-side text, anchored within matching Basta kalams rather than the entire page. Panels keep their natural heights; scans use `floating-scans.ts` for viewport-centred positioning beside text and remain in normal flow when stacked. Do not synchronize scan scroll as a text column.
-- **Focus Mode:** `reading-focus.ts` and `reading-focus.css` handle immersive controls, browser history/fullscreen, and position restoration. Ordinary mobile controls and the scrolled desktop reader toolbar show an edition summary while secondary settings collapse; Focus Mode has independent options. The mobile header retracts on downward scrolling and reappears on upward scrolling or when navigation is open.
-- **Scan access:** Keep native links functional without JavaScript; `scan-viewer.ts` enhances them with accessible zoom and pan. Absent R2 images must not make text navigation unusable.
+- **Editions:** Image, Urdu, and Roman may be combined; at least one remains selected. Mobile defaults to Urdu; wide text readers default to Urdu + Roman, and desktop Basta page reading to Image + Urdu. Preferences persist per reader type. Missing Roman text gets an explanation, never a silent substitution. Scans and text remain readable without JavaScript.
+- **Layout:** Container width decides stacked versus parallel columns; narrow Basta page panels have full-width stacking. `client/verse-fitting.ts` and `lib/verse-fit.ts` keep every verse on one line without horizontal scrolling.
+- **Scrolling:** `client/synced-columns.ts` synchronizes corresponding text, with shorter columns static. `floating-scans.ts` keeps scans alongside text when space permits, otherwise in flow. Never synchronize a scan as a text panel.
+- **Focus Mode:** `reading-focus.ts` preserves position, history, fullscreen state, and independent Options. Desktop/mobile toolbars and retracting headers must not obscure verses or anchor targets.
+- **Images:** Native scan links work without JS; `scan-viewer.ts` adds zoom/pan. Readers remain usable if R2 is unavailable.
 
-For **standalone non-Basta lyrics**, `src/lib/lyric-stanzas.ts` parses source blank-line boundaries, provides shared stanza/line class names, and joins numbered 4+2 groups for six-verse presentation without altering the Markdown text. `LyricVerses.astro` and `recitation-reader.ts` use the same stanza layout and class-name helpers; the optional `sixVerseLayout: "pairs"` frontmatter setting selects an alternate 2+2+2 layout in both readers and exported recitation programmes. Its first and third couplets are end-inset, its middle couplet is start-inset, and rules separate the pairs. Neither style permits verse wrapping.
+**Lyric stanzas:** `lib/lyric-stanzas.ts` owns stanza breaks, 4+2 joining, and class names for both `LyricVerses.astro` and `client/recitation-reader.ts`. Reviewed `sixVerseLayout: "pairs"` uses 2+2+2 with alternating indentation and couplet rules; source text remains unchanged by the renderer.
 
-The explicit `---***---` separators in both Basta language files define matching kalam boundaries. `src/lib/basta-text.ts` distinguishes actual titles, adjacent poet credits, and repeated opening lines. Only verified titles receive the shared bold, underlined theme color; verified bylines are centered without title emphasis. `src/client/basta-dom.ts` renders the same parsed lines in streamed pages and recitation sets, while static `BastaText.astro` uses the same parser/class function. The renderers must agree on headings, scan links, edition labels, page numbers, and kalam boundaries. Do not infer boundaries from stanza length.
+**Basta text:** The `---***---` marker defines kalam boundaries in *both* languages. `lib/basta-text.ts` owns title/byline identification, verse layout, and class names. Static `BastaText.astro`, `client/basta-dom.ts` (shared by streaming and Recitation Sets), and the export must preserve the same wording, numbering, and boundaries.
 
 ## Basta navigation and streaming
 
-The page-by-page Basta reader renders HTML without JavaScript. Continuous `/basta/read/` renders its first eight-page chunk and the book index at build time, then loads subsequent pre-rendered JSON chunks from `src/pages/data/basta-reader/[chunk].json.ts` through `src/client/basta-stream.ts`. `src/lib/basta-reader-data.ts` joins the Urdu/Roman sources. The chunks respect the physical index gap.
+`/basta/read/` renders its first eight-page chunk and index at build time; `client/basta-stream.ts` loads further pre-rendered JSON chunks. `lib/basta-reader-data.ts` aligns Urdu/Roman source pages and respects the physical index gap.
 
-Keep `#page-N` deep links, page-number validation and index-gap routing (`basta-navigation.ts`), Contents access, and the page-by-page fallback. Navigation uses the `navigation` slot of `ReadingControls.astro`, not a second pager. `src/client/reading-progress.ts` observes nearby pages rather than measuring all loaded pages; progress and within-page resume offsets stay browser-local and survive rotation or view changes.
-
-`src/client/basta-selections.ts` adds page-qualified kalam/stanza bookmarks without altering Markdown or verse flow. Keep bookmark keys separate from reader preferences and reading history.
+`basta-navigation.ts` handles `#page-N`, invalid pages, and index-gap navigation. Use the `ReadingControls.astro` navigation slot rather than another pager. `reading-progress.ts` records within-page resume offsets without scanning the entire book; `basta-selections.ts` stores page-qualified kalam/stanza bookmarks separately from reader preferences.
 
 ## Search, discovery, and saved state
 
-Pagefind assets load only on `/search/`; the homepage submits a normal search form. Search filtering and URL state belong to `src/client/search.ts`. Category listings distinguish standalone lyrics from Basta selections.
-
-The Saved/Recent catalog is fetched on demand from `/data/saved-catalog.json`, not embedded throughout the site. Empty collection groups are hidden until they contain saved items; a single overview explains an empty library. Favorites, bookmarks, recent reading, drafts, theme, and reading preferences are local to the browser. `home-continue.ts` conditionally shows local resume links; `saved-library.ts` still displays local bookmarks/drafts if the catalog fails to load.
+Pagefind loads **only** on `/search/` (`client/search.ts`); homepage search uses a normal form. `/data/saved-catalog.json` is fetched on demand. `client/storage.ts` owns local storage primitives; `saved-library.ts` and `home-continue.ts` present saved/recent items and resume links. Never require a catalog fetch for locally saved drafts or bookmarks.
 
 ## Recitation Sets boundary
 
-`recitation-builder.ts` owns draft editing and publication; `recitation-catalog.ts` owns the separate, cached lyric/Basta source lookup and metadata; `recitation-workflow.ts` enhances builder navigation; `recitation-reader.ts` resolves source poetry without changing it; `recitation-export.ts` produces portable offline/print HTML. Shared source identifiers and set validation live under `src/lib/` and `src/data/recitation/`.
+`recitation-builder.ts` edits/publishes sets; `recitation-catalog.ts` fetches sources; `recitation-workflow.ts` manages builder navigation; `recitation-reader.ts` renders canonical poetry; `recitation-export.ts` generates offline HTML and print views. Validated IDs and set models belong to `src/lib/` and `src/data/recitation/`.
 
-The Recitation Sets builder keeps Plan and Find usable without a forced wizard. Publication controls show an accessible disabled explanation before a valid title and at least one kalam exist; sharing and retention choices progressively expand once publishable, or when deliberately opened from the Share step. Searching the unfiltered catalog starts with a short batch, with a Show more control.
-
-Published programme documents and hashed private edit credentials use Cloudflare D1 through Pages Functions under `functions/`; source Markdown, scanned assets, and browsing remain static. `public/_routes.json` restricts dynamic invocation, root `wrangler.toml` configures Pages, and `workers/` contains independent scheduled cleanup. [Recitation Sets](RECITATION_SETS.md) owns source identity, retention, exports, and permissions; [operations](RECITATION_OPERATIONS.md) owns deployment and database maintenance.
+Programme publishing uses D1 via narrowly routed Pages Functions; archives and R2-backed assets remain static. See [Recitation Sets](RECITATION_SETS.md) for authorization, source integrity, retention, and sharing. See [Operations](RECITATION_OPERATIONS.md) for bindings and cleanup.
 
 ## Performance boundaries
 
-- Lazy-load noncritical R2 scans with reserved dimensions and async decoding; retain the original direct URLs.
-- Use `content-visibility` for off-screen continuous-reader content when supported, and avoid measuring distant reader panels during scrolling.
-- Do not load the full Saved catalog, entire Basta book, or Pagefind JavaScript in unrelated initial HTML.
-Browser test selection, CI markers, and validation commands are maintained in one place: [Contributing — Validation](CONTRIBUTING.md#validation).
+Reserve scan dimensions and lazy-load R2 assets. Use `content-visibility` for offscreen book chunks when supported; do not measure distant pages on every scroll. Load the full book, Saved catalog, and Pagefind only where needed. Test commands and CI markers: [Validation](CONTRIBUTING.md#validation).
