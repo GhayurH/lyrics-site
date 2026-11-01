@@ -235,20 +235,6 @@
   display: none;
 }
 
-.basta-reader-flow[data-reading-mode="urdu"]:not([data-reading-columns~="image"]) .basta-reader-page-grid,
-.basta-reader-flow[data-reading-mode="roman"]:not([data-reading-columns~="image"]) .basta-reader-page-grid {
-  grid-template-areas: "single";
-  grid-template-columns: minmax(0, var(--reading-single-width));
-  justify-content: center;
-}
-
-.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
-.basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman {
-  grid-area: single;
-  border-right: 0;
-  padding-inline: 0;
-}
-
 /* Hide the unused index edition in either parent context. */
 .basta-reader-flow[data-reading-mode="urdu"] .basta-parallel-index-roman,
 .basta-index-mode-shell[data-reading-mode="urdu"] .basta-parallel-index-roman {

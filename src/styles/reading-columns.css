@@ -123,6 +123,23 @@
 .basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
 .basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman { grid-row: 1; border: 0; padding-inline: 0; }
 
+/* Single-language streamed pages use a single named area; keep the placement
+   with the shared edition state so route CSS cannot create phantom tracks. */
+.basta-reader-flow[data-reading-mode="urdu"]:not([data-reading-columns~="image"]) .basta-reader-page-grid,
+.basta-reader-flow[data-reading-mode="roman"]:not([data-reading-columns~="image"]) .basta-reader-page-grid {
+  grid-template-areas: "single";
+  grid-template-columns: minmax(0, var(--reading-single-width));
+  justify-content: center;
+}
+
+.basta-reader-flow[data-reading-mode="urdu"] .basta-reader-urdu,
+.basta-reader-flow[data-reading-mode="roman"] .basta-reader-roman {
+  grid-area: single;
+  border-right: 0;
+  padding-inline: 0;
+}
+
+
 
 /* Scans move above text before the paired languages become too narrow. */
 @container reader-shell (max-width: 76rem) {
