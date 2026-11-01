@@ -1,7 +1,6 @@
 /* File role: One responsive layout policy for all reading editions; containers determine column viability. */
 :is(.lyric-page, .basta-page, .basta-reader, .basta-index-page) { container: reader-shell / inline-size; }
 .reading-controls { justify-content: center; }
-.reading-focus-enter { margin-inline: 0; }
 /* Each selection's *entire* cell (not just the text) is its checked surface. */
 .reading-column-choices { display: flex; flex-wrap: nowrap; overflow: hidden; width: 100%; border: var(--ui-border); border-radius: var(--ui-radius-tight); }
 .reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: var(--ui-target); border-inline-end: var(--ui-border); cursor: pointer; }
@@ -33,7 +32,6 @@
 
 /* The usable Urdu edition should not be accompanied by repetitive "Roman
    unavailable" panels. Preserve an explanatory fallback for Roman-only users. */
-.basta-reader-flow[data-reading-columns~="urdu"] .basta-reader-page-no-roman .basta-reader-roman { display: none !important; }
 .basta-reader-flow[data-reading-columns~="urdu"] .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
 .basta-reader-flow[data-reading-columns~="urdu"][data-reading-columns~="image"] .basta-reader-page-no-roman .basta-reader-page-grid { grid-template-areas: "scan urdu"; grid-template-columns: minmax(0,.8fr) minmax(0,1.5fr); }
 .basta-reader-flow[data-reading-columns~="urdu"] .basta-reader-page-no-roman .basta-reader-urdu { grid-area: urdu; }
@@ -80,8 +78,21 @@
   max-height: min(80dvh,64rem);
   margin-inline: auto;
 }
-.lyric-reading-grid[data-reading-mode="urdu"] { grid-template-areas: "urdu"; grid-template-columns: minmax(0,var(--reading-single-width)); justify-content: center; }
-.lyric-reading-grid[data-reading-mode="roman"] { grid-template-areas: "roman"; grid-template-columns: minmax(0,var(--reading-single-width)); justify-content: center; }
+.lyric-reading-grid:is([data-reading-mode="urdu"], [data-reading-mode="roman"]) {
+  max-width: var(--reading-single-width);
+  margin-inline: auto;
+}
+.lyric-reading-grid[data-reading-mode="urdu"] {
+  grid-template-areas: "urdu";
+  grid-template-columns: minmax(0,var(--reading-single-width));
+  justify-content: center;
+}
+.lyric-reading-grid[data-reading-mode="roman"] {
+  grid-template-areas: "roman";
+  grid-template-columns: minmax(0,var(--reading-single-width));
+  justify-content: center;
+}
+.lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-roman { border-right: 0; }
 
 /* Basta page-by-page: scan + text region, with matching nested language geometry. */
 .basta-page-grid[data-reading-root] { grid-template-areas: "scan text"; grid-template-columns: minmax(0,.8fr) minmax(0,1.7fr); }
@@ -273,9 +284,9 @@ html[data-reading-toc-open="true"] .reading-contents-button { background: var(--
 @media (pointer: coarse) {
   .reading-scroll-top:not([hidden]) { position: fixed; right: max(.75rem,env(safe-area-inset-right)); bottom: max(.75rem,env(safe-area-inset-bottom)); z-index: 105; display: block; box-shadow: 0 .3rem 1rem rgb(0 0 0 / .25); }
 }
-/* Only genuinely narrow landscape devices drop sticky controls; a short
-   desktop browser window must retain the floating reader toolbar. */
-@media (max-width: 700px) and (orientation: landscape) and (max-height: 600px) {
+/* Short touch-screen landscape viewports need their height for poetry.
+   Fine-pointer desktop windows retain their sticky reading controls. */
+@media (orientation: landscape) and (pointer: coarse) and (max-height: 600px) {
   html:not([data-reading-focus="true"]) .reading-controls { position: static; box-shadow: none; }
 }
 

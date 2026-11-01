@@ -102,8 +102,6 @@ html[data-reading-focus="true"] .recite-reading-root {
   }
 }
 
-/* End-of-viewport Focus typography is centred as one bounded reading group. */
-
 @media (min-width: 641px) {
   html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"]:not([data-reading-columns~="image"]) {
     grid-template-columns: repeat(2,minmax(0,min(50%,34rem)));

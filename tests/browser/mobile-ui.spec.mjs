@@ -172,3 +172,25 @@ test("mobile readers start with an uncluttered Urdu view while desktop Basta sta
   await expect(page.locator(".basta-original-page")).toBeVisible();
   await expect(page.locator(".basta-page-roman")).toBeHidden();
 });
+
+test("short touch landscape releases the sticky toolbar, but short desktop windows keep it", async ({ browser, page }) => {
+  const touch = await browser.newContext({
+    viewport: { width: 844, height: 390 },
+    hasTouch: true,
+    isMobile: true,
+  });
+  try {
+    const phone = await touch.newPage();
+    await phone.goto("/basta/200/");
+    await expect(phone.locator("[data-reading-controls]")).toBeVisible();
+    expect(await phone.locator("[data-reading-controls]").evaluate((node) =>
+      getComputedStyle(node).position)).toBe("static");
+  } finally {
+    await touch.close();
+  }
+
+  await page.setViewportSize({ width: 844, height: 390 });
+  await page.goto("/basta/200/");
+  expect(await page.locator("[data-reading-controls]").evaluate((node) =>
+    getComputedStyle(node).position)).toBe("sticky");
+});

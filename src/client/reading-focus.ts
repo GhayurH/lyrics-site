@@ -1,5 +1,6 @@
 // File role: Distraction-free reading, deep links, mobile navigation, and viewport position retention.
 import { pageAtReadingLine } from "./reading-position";
+import { readingScrollBehavior } from "./viewport";
 
 type Anchor = { node: HTMLElement; top: number };
 type ExitSnapshot = { anchor?: Anchor; page?: HTMLElement; pageNumber?: number };
@@ -256,11 +257,12 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     topButton.hidden = scrollPosition() < 250;
   }
   topButton.addEventListener("click", () => {
+    const behavior = readingScrollBehavior();
     if (lastPanel?.isConnected && lastPanel.scrollTop > 150 &&
         lastPanel.getClientRects().length) {
-      lastPanel.scrollTo({ top: 0, behavior: "smooth" });
-    } else if (active) root.scrollTo({ top: 0, behavior: "smooth" });
-    else window.scrollTo({ top: 0, behavior: "smooth" });
+      lastPanel.scrollTo({ top: 0, behavior });
+    } else if (active) root.scrollTo({ top: 0, behavior });
+    else window.scrollTo({ top: 0, behavior });
   });
   document.addEventListener("scroll", (event) => {
     if (event.target instanceof HTMLElement &&

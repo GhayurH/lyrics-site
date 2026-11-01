@@ -28,8 +28,6 @@ npm run preview
 
 Images/PDFs are stored in R2, not Git. Local scans need the [asset setup](docs/ASSET_WORKFLOW.md#local-development). See [validation](docs/CONTRIBUTING.md#validation) for CI rules.
 
-Source structure: `src/data/` (content), `src/pages/` (routes), `src/components/` (Astro UI), `src/client/` (browser logic), `src/lib/` (shared models), `src/styles/` (CSS), `functions/` (Pages Functions), `schema/` (D1), and `workers/` (cleanup).
-
 ## Documentation
 
 - [Contributing](docs/CONTRIBUTING.md): editorial conventions and tests

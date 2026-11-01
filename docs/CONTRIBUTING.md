@@ -31,7 +31,7 @@ npm run basta:breaks:rebuild   # Only after reviewing hand-corrected boundaries
 
 ## Code contributions
 
-Browser controllers belong in `src/client/`; shared models/parsers in `src/lib/`; route composition in `src/pages/`; common CSS/token ownership in [Architecture](ARCHITECTURE.md#styling-and-shared-components). Reuse shared reader controls, parsers, and rendering helpers. Document non-obvious decisions, not routine syntax or WIP history.
+Browser controllers belong in `src/client/`; shared models/parsers in `src/lib/`; route composition in `src/pages/`; common CSS/token ownership in [Architecture](ARCHITECTURE.md#styling-and-shared-components). Reuse shared reader controls, parsers, and rendering helpers. Keep user-facing copy focused on what visitors can do, not implementation details. Explain non-obvious decisions in comments; remove obsolete work notes.
 
 Never commit `dist/`, `.astro/`, dependencies, scratch files, or R2 binaries.
 

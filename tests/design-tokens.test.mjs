@@ -13,6 +13,8 @@ const readerStyles = ["lyrics.css", "basta.css", "basta-reader.css", "reading-co
 const mobileQuery = readFileSync("src/client/viewport.ts", "utf8");
 const readerState = readFileSync("src/client/reader-state.ts", "utf8");
 const recitationReader = readFileSync("src/client/recitation-reader.ts", "utf8");
+const siteShell = readFileSync("src/client/site.ts", "utf8");
+const readingFocus = readFileSync("src/client/reading-focus.ts", "utf8");
 
 test("shared colours and dimensions are defined only by the token file", () => {
   assert.match(css["core.css"], /@import "\.\/tokens\.css";/);
@@ -62,6 +64,9 @@ test("browser reader defaults use a single mobile query", () => {
     assert.doesNotMatch(source, /matchMedia\("\(max-width:/, name);
   }
   assert.match(css["reading-columns.css"], /@media \(max-width: 700px\)/);
+  assert.match(siteShell, /matchMedia\(MOBILE_VIEWPORT_QUERY\)/);
+  assert.doesNotMatch(siteShell, /matchMedia\("\(max-width: 700px\)"\)/);
+  assert.doesNotMatch(siteShell, /matchMedia\("\(min-width: 701px\)"\)/);
 });
 
 test("shared minimum tap targets do not regress to local measurements", () => {
@@ -179,4 +184,13 @@ test("shared reader renderers own title, stanza and Basta DOM behavior", () => {
   }
   assert.match(lyricModel, /export function lyricStanzaClassNames/);
   assert.match(tokens, /--reading-title-color:\s*color-mix\(in srgb, var\(--accent-color\)/);
+});
+
+test("single-edition sizing and visibility have one CSS owner", () => {
+  const policy = css["reading-columns.css"];
+  assert.match(policy, /\.lyric-reading-grid:is\(\[data-reading-mode="urdu"\], \[data-reading-mode="roman"\]\)/);
+  assert.doesNotMatch(css["lyrics.css"], /\.lyric-reading-grid\[data-reading-mode="(?:urdu|roman)"\]/);
+  assert.doesNotMatch(policy, /\.basta-reader-flow\[data-reading-columns~="urdu"\] \.basta-reader-page-no-roman \.basta-reader-roman/);
+  assert.match(policy, /@media \(orientation: landscape\) and \(pointer: coarse\) and \(max-height: 600px\)/);
+  assert.match(readingFocus, /readingScrollBehavior\(\)/);
 });
