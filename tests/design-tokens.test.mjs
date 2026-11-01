@@ -127,7 +127,8 @@ test("feature-page widths and shared component radii come from semantic tokens",
     assert.match(css[file], /var\(--content-feature\)/);
   // About is deliberately narrower for two-language reading and contact copy.
   assert.match(css["about.css"], /\.about-page\s*\{\s*max-width:\s*var\(--content-intro\)/);
-  assert.match(css["basta.css"], /var\(--reading-scan-width\)/);
+  // Scan width is an edition-layout constraint, not a Basta route decoration.
+  assert.match(css["reading-columns.css"], /var\(--reading-scan-width\)/);
   assert.match(css["appearance.css"], /var\(--preset-amoled-main\)/);
   assert.match(tokens, /--button-background:\s*var\(--accent-color\)/);
 });
