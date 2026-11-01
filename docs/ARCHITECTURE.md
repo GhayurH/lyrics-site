@@ -18,7 +18,7 @@ Prefer static, readable HTML with progressive enhancement. Keep public URLs, sou
 ## Styling and shared components
 
 - `tokens.css` owns theme palettes, typefaces, reading widths, typography, spacing, control sizes, and radii. `core.css` imports it and owns global styles. Keep component defaults together instead of appending corrective overrides later in a feature stylesheet.
-- `reading-columns.css` owns reader edition grid tracks (including Basta pages and streamed pages), single-edition sizing, the **46rem** container threshold, and Compact/Default/Relaxed spacing values (`--reading-active-*-leading`). Route CSS owns content typography, structural shell spacing, and index-specific layout; avoid recreating reader-edition tracks there. `reading-focus.css` owns immersive layout and `scan-viewer.css` owns zoom UI.
+- `reading-toolbar.css` owns control surfaces. `reading-columns.css` owns reader edition grid tracks (including Basta pages and streamed pages), single-edition sizing, the **46rem** container threshold, and Compact/Default/Relaxed spacing values (`--reading-active-*-leading`). Route CSS owns content typography, structural shell spacing, and index-specific layout; avoid recreating reader-edition tracks there. `reading-focus.css` owns immersive layout and `scan-viewer.css` owns zoom UI.
 - `client/viewport.ts` owns the **700px** JavaScript mobile boundary and reduced-motion scrolling choice. Very short touch-landscape viewports release sticky controls to give poetry more vertical space; fine-pointer desktop windows retain them.
 - `--ui-border`, `--ui-target`, `--ui-control-padding`, and `--ui-control-font-size` are shared controls. Keep unique component measurements local rather than introducing meaningless tokens. `tests/design-tokens.test.mjs` enforces ownership.
 - `kalam-reading-title` centers, bolds, underlines, and colors verified titles using `--reading-title-color` (derived from the active theme). `kalam-poet-credit` centers an adjacent verified byline without title emphasis. `core.css` owns one-line verse justification.
@@ -56,7 +56,7 @@ Pagefind loads **only** on `/search/` (`client/search.ts`); homepage search uses
 
 ## Recitation Sets boundary
 
-`recitation-builder.ts` edits/publishes sets; `recitation-catalog.ts` fetches sources; `recitation-workflow.ts` manages builder navigation; `recitation-reader.ts` renders canonical poetry; `recitation-export.ts` generates offline HTML and print views. Validated IDs and set models belong to `src/lib/` and `src/data/recitation/`.
+`recitation-builder.ts` edits/publishes sets; `recitation-poem-source.ts` owns lazy canonical source fetching for the reader; `recitation-catalog.ts` fetches sources; `recitation-workflow.ts` manages builder navigation; `recitation-reader.ts` renders canonical poetry; `recitation-export.ts` generates offline HTML and print views. Validated IDs and set models belong to `src/lib/` and `src/data/recitation/`.
 
 Programme publishing uses D1 via narrowly routed Pages Functions; archives and R2-backed assets remain static. See [Recitation Sets](RECITATION_SETS.md) for authorization, source integrity, retention, and sharing. See [Operations](RECITATION_OPERATIONS.md) for bindings and cleanup.
 
