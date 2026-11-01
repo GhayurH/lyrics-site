@@ -289,7 +289,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 .basta-urdu-text {
   font-family: var(--font-urdu);
-  line-height: 2.8;
+  line-height: var(--reading-active-urdu-leading);
   text-align: right;
 }
 
@@ -370,13 +370,13 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 .basta-index-table-urdu th,
 .basta-index-table-urdu td {
-  line-height: 2.1;
+  line-height: var(--reading-active-index-urdu-leading);
   text-align: right;
 }
 
 .basta-index-table-roman th,
 .basta-index-table-roman td {
-  line-height: 1.6;
+  line-height: var(--reading-active-index-roman-leading);
   text-align: left;
 }
 
@@ -511,21 +511,13 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   }
 }
 
-/* Page reader preferences and single-language scan layout. */
+/* Page reader typography uses the same inherited language defaults as the
+   full-book reader; the shared spacing selector lives in reading-columns.css. */
 .basta-page-reading-controls { margin: 1rem 0 1.5rem; }
-.basta-page-grid[data-reading-root] {
-  --basta-page-urdu-size: var(--reading-urdu-size);
-  --basta-page-roman-size: var(--reading-roman-size);
-  --basta-page-urdu-leading: var(--reading-urdu-leading);
-  --basta-page-roman-leading: var(--reading-roman-leading);
-}
 .basta-page-grid[data-reading-root] .basta-original-page { grid-area: scan; }
 .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) .basta-page-urdu { grid-area: urdu; }
-.basta-page-grid[data-reading-root] .basta-urdu-text { font-size: var(--basta-page-urdu-size); line-height: var(--basta-page-urdu-leading); }
-.basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--basta-page-roman-size); line-height: var(--basta-page-roman-leading); }
-
-.basta-page-grid[data-line-spacing="compact"] { --basta-page-urdu-leading: var(--reading-urdu-leading-compact); --basta-page-roman-leading: var(--reading-roman-leading-compact); }
-.basta-page-grid[data-line-spacing="relaxed"] { --basta-page-urdu-leading: var(--reading-urdu-leading-relaxed); --basta-page-roman-leading: var(--reading-roman-leading-relaxed); }
+.basta-page-grid[data-reading-root] .basta-urdu-text { font-size: var(--reading-urdu-size); line-height: var(--reading-active-urdu-leading); }
+.basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--reading-roman-size); line-height: var(--reading-active-roman-leading); }
 
 
 
