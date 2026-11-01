@@ -1,0 +1,10 @@
+/* Individual poem pages reuse the canonical Basta reader and its edition tracks. */
+.basta-kalam-heading { margin: .75rem 0 1rem; text-align: center; }
+.basta-kalam-heading h1 { margin: .3rem auto; color: var(--reading-title-color); font-size: clamp(1.65rem,3.5vw,2.5rem); }
+.basta-kalam-heading > p { margin: .4rem 0; }
+.basta-kalam-heading > p:first-of-type { color: var(--secondary-text); }
+.basta-kalam-heading a { margin-inline: .2rem; }
+.basta-kalam-actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .75rem; margin: 1rem 0; }
+.basta-kalam-actions :is(a,button) { min-height: var(--ui-target); padding: .5rem .8rem; background: var(--surface-background); color: var(--primary-text); border: var(--ui-border); border-radius: var(--ui-radius-tight); font: inherit; cursor: pointer; }
+.basta-kalam-actions :is(a,button):focus-visible { outline: var(--focus-ring); }
+.basta-kalam-page .basta-original-page figcaption { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: .5rem; }

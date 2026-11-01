@@ -1,0 +1,88 @@
+---
+// Stable, shareable individual Basta kalam routes are generated only for verified sources.
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import BastaText from "../../../components/BastaText.astro";
+import BastaParallelText from "../../../components/BastaParallelText.astro";
+import ReadingControls from "../../../components/ReadingControls.astro";
+import { loadBastaKalamCatalog } from "../../../lib/basta-kalam-data";
+import type { BastaKalam } from "../../../lib/basta-kalam-units";
+import "../../../styles/basta.css";
+import "../../../styles/basta-kalam.css";
+
+export const prerender = true;
+export async function getStaticPaths() {
+  const { kalams } = await loadBastaKalamCatalog();
+  return kalams.filter((item) => item.status === "ready").map((kalam) => ({
+    params: { id: kalam.id }, props: { kalam },
+  }));
+}
+const { kalam } = Astro.props as { kalam: BastaKalam };
+const page = kalam.startPage;
+const pages = [...new Set(kalam.pages)].sort((a, b) => a - b);
+const hasRoman = Boolean(kalam.roman?.trim());
+const scanUrl = `/images/basta/original/${String(page).padStart(3, "0")}.png`;
+---
+<BaseLayout
+  title={`${kalam.romanName || kalam.name} | Basta | Kalam Archive`}
+  description={`Read ${kalam.romanName || kalam.name} in Urdu${hasRoman ? " and Roman Urdu" : ""}, with the original Basta page scans.`}
+>
+  <article class="basta-page basta-kalam-page">
+    <nav class="basta-subnav" aria-label="Basta navigation">
+      <a href="/basta/">Basta</a><span aria-hidden="true">/</span>
+      <a href="/basta/index/">Index</a><span aria-hidden="true">/</span>
+      <a href={`/basta/${page}/`}>Printed page {page}</a>
+    </nav>
+    <header class="basta-kalam-heading">
+      <p class="eyebrow">{kalam.sectionRoman} · {kalam.indexNumber}</p>
+      <h1 lang="ur" dir="rtl">{kalam.name}</h1>
+      {kalam.romanName && <p lang="en" dir="ltr">{kalam.romanName}</p>}
+      <p>Source pages:
+        {pages.map((p, i) => <><a href={`/basta/${p}/`}>{p}</a>{i < pages.length - 1 ? ", " : ""}</>)}
+      </p>
+      <div class="basta-kalam-actions">
+        <a href={`/recite/?add=${encodeURIComponent(kalam.id)}`}>Add to Recitation Set</a>
+        <button type="button" data-correction-open data-source-id={kalam.id} data-source-page={String(page)}>
+          Suggest a correction
+        </button>
+      </div>
+    </header>
+    <ReadingControls ariaLabel="Basta kalam reader" hasImage showModes={hasRoman} />
+    <div
+      class:list={["basta-page-grid", hasRoman && "basta-page-grid-with-roman"]}
+      data-reading-root
+      data-reader-kind="basta-page"
+      data-basta-current-page={page}
+      data-has-roman={String(hasRoman)}
+      data-reading-columns={hasRoman ? "urdu roman" : "urdu"}
+      data-reading-mode={hasRoman ? "parallel" : "urdu"}
+      data-line-spacing="default"
+      data-synced-scroll-root
+    >
+      <figure class="basta-original-page" data-pagefind-ignore data-synced-scroll-panel>
+        <a href={scanUrl} aria-label={`Enlarge original scan of page ${page}`}>
+          <img src={scanUrl} alt={`Original Basta page ${page}`} loading="lazy" width="1240" height="1754" />
+        </a>
+        {pages.length > 1 && <figcaption>Additional scans:
+          {pages.slice(1).map((p) => <a href={`/basta/${p}/`}>Page {p}</a>)}
+        </figcaption>}
+      </figure>
+      {hasRoman
+        ? <BastaParallelText urduText={kalam.urdu} romanText={kalam.roman || ""} variant="page" page={page} />
+        : <section class="basta-page-text basta-page-urdu" lang="ur" dir="rtl">
+            <BastaText text={kalam.urdu} className="basta-urdu-text" />
+          </section>}
+    </div>
+  </article>
+  <script>
+    import { initReadingControls } from "../../../client/reader-state";
+    import { initVerseFitting } from "../../../client/verse-fitting";
+    import { initSyncedColumns } from "../../../client/synced-columns";
+    import { initScanViewer } from "../../../client/scan-viewer";
+    import { initCorrectionDialog } from "../../../client/corrections";
+    initReadingControls();
+    initVerseFitting();
+    initSyncedColumns();
+    initScanViewer();
+    initCorrectionDialog();
+  </script>
+</BaseLayout>

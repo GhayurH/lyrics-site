@@ -52,7 +52,7 @@ async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Poem> {
       if (!kalam || kalam.id !== id || kalam.status !== "ready") throw Error("Unverified source");
       return { kind, title: kalam.name, alternateTitle: kalam.romanName,
         urdu: kalam.urdu, roman: kalam.roman || "",
-        sourceUrl: "/basta/" + kalam.startPage + "/",
+        sourceUrl: "/basta/kalam/" + encodeURIComponent(kalam.id) + "/",
         image: "/images/basta/original/" + String(kalam.startPage).padStart(3, "0") + ".png",
         lang: "ur", direction: "rtl", basta: kalam };
     })();
