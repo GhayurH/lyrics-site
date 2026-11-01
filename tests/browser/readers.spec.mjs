@@ -158,8 +158,13 @@ test("continuous reader deep links load streamed content and preserve the curren
   await page.getByRole("button", { name: /Show reading options/ }).click();
   await page.getByRole("button", { name: "Contents" }).click();
   await expect(page.locator(".basta-reader-index")).toBeVisible();
+  // Only one overlay may be expanded: Contents must not hide behind Options.
+  await expect(page.locator("[data-reading-controls]")).toHaveAttribute("data-reading-options-open", "false");
+  await expect(page.locator(".basta-reader-index a[href]").first()).toBeFocused();
   await page.keyboard.press("Escape");
   await expect(page.locator(".basta-reader-index")).toBeHidden();
+  await expect(page.locator("[data-reading-focus-options]")).toBeFocused();
+  await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
 });
 
 test("unavailable Roman transcription shows a source scan rather than blank content @smoke", async ({ page }) => {
@@ -800,4 +805,134 @@ test("Basta kalam and stanza bookmarks survive navigation without shifting poetr
   await expect(page.locator("#basta-selections-list a").first()).toContainText("Basta");
   await page.locator("#basta-selections-list a").first().click();
   await expect(page.locator("[data-reading-root]")).toBeVisible();
+});
+
+test("narrow landscape Basta Focus keeps the scan above a single language", async ({ page }) => {
+  await page.setViewportSize({ width: 640, height: 360 });
+  await page.goto("/basta/284/");
+  const controls = page.locator("[data-reading-controls]");
+  const menu = controls.locator("[data-reading-regular-toggle]");
+  if (await menu.isVisible()) await menu.click();
+  await controls.locator('[data-reading-column][value="image"]').check();
+  await controls.locator('[data-reading-column][value="urdu"]').check();
+  await controls.locator('[data-reading-column][value="roman"]').uncheck();
+  await controls.locator("[data-reading-focus-enter]").click();
+  const image = page.locator(".basta-original-page");
+  const urdu = page.locator(".basta-page-urdu");
+  await expect(image).toBeVisible();
+  await expect(urdu).toBeVisible();
+  await expect(image).not.toHaveCSS("position", "sticky");
+  const [scan, text] = await Promise.all([image.boundingBox(), urdu.boundingBox()]);
+  expect(text.y).toBeGreaterThanOrEqual(scan.y + scan.height - 2);
+});
+
+test("Focus scans and single-language poetry never overlap at narrow widths", async ({ page }) => {
+  const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";
+  await page.route("**" + imageUrl, route => route.fulfill({
+    contentType: "image/svg+xml",
+    body: '<svg xmlns="http://www.w3.org/2000/svg" width="750" height="1200"><rect width="750" height="1200" fill="white"/></svg>',
+  }));
+  for (const viewport of [
+    { width: 390, height: 844 },
+    { width: 640, height: 360 },
+    { width: 700, height: 800 },
+  ]) {
+    for (const edition of ["urdu", "roman"]) {
+      await page.setViewportSize(viewport);
+      await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
+      const controls = page.locator("[data-reading-controls]");
+      const menu = controls.locator("[data-reading-regular-toggle]");
+      if (await menu.isVisible()) await menu.click();
+      await controls.locator('[data-reading-column][value="image"]').check();
+      await controls.locator('[data-reading-column][value="urdu"]').setChecked(edition === "urdu");
+      await controls.locator('[data-reading-column][value="roman"]').setChecked(edition === "roman");
+      await controls.locator("[data-reading-focus-enter]").click();
+      const scan = page.locator(".lyric-reading-image");
+      const poetry = page.locator(".lyric-reading-" + edition);
+      await expect(scan).toBeVisible();
+      await expect(poetry).toBeVisible();
+      const [a, b] = await Promise.all([scan.boundingBox(), poetry.boundingBox()]);
+      expect(a).toBeTruthy();
+      expect(b).toBeTruthy();
+      const overlapX = Math.max(0, Math.min(a.x + a.width, b.x + b.width) - Math.max(a.x, b.x));
+      const overlapY = Math.max(0, Math.min(a.y + a.height, b.y + b.height) - Math.max(a.y, b.y));
+      expect(overlapX * overlapY).toBeLessThan(4);
+      await expect.poll(() => page.evaluate(() =>
+        document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+    }
+  }
+});
+
+test("scan floating follows actual column geometry across portrait and landscape", async ({ page }) => {
+  for (const viewport of [
+    { width: 390, height: 844 },
+    { width: 640, height: 360 },
+    { width: 1440, height: 900 },
+  ]) {
+    await page.setViewportSize(viewport);
+    await page.goto("/basta/200/");
+    const controls = page.locator("[data-reading-controls]");
+    const menu = controls.locator("[data-reading-regular-toggle]");
+    if (await menu.isVisible()) await menu.click();
+    await controls.locator('[data-reading-column][value="image"]').check();
+    const scan = page.locator(".basta-original-page");
+    const urdu = page.locator(".basta-page-urdu");
+    await expect(scan).toBeVisible();
+    await expect(urdu).toBeVisible();
+    const adjacent = await Promise.all([scan.boundingBox(), urdu.boundingBox()]).then(
+      ([a, b]) => Math.abs(a.y - b.y) < 20 && Math.abs(a.x - b.x) > 20,
+    );
+    await expect.poll(() => scan.getAttribute("data-floating-scan"))
+      .toBe(adjacent ? "true" : "false");
+  }
+});
+
+test("Basta page progress tracks the Focus scroller instead of document scroll", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/200/");
+  await page.locator("[data-reading-focus-enter]").click();
+  const reading = page.locator("[data-reading-root]");
+  await expect.poll(() => reading.evaluate((root) =>
+    root.scrollHeight - root.clientHeight)).toBeGreaterThan(200);
+  await reading.evaluate((root) => {
+    root.scrollTop = (root.scrollHeight - root.clientHeight) * 0.6;
+  });
+  await expect.poll(() => page.evaluate(() => {
+    const saved = JSON.parse(localStorage.getItem("kalam:basta-position") || "{}");
+    return saved.mode === "page" && saved.page === 200 ? saved.offset : 0;
+  })).toBeGreaterThan(0.4);
+  expect(await page.evaluate(() => window.scrollY)).toBeLessThan(2000);
+});
+
+test("Basta page Focus resume restores its own scroll offset from the URL", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/200/?reading=1&resume=0.65");
+  const root = page.locator("[data-reading-root]");
+  await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
+  await expect.poll(() => root.evaluate((node) => {
+    const range = node.scrollHeight - node.clientHeight;
+    return range > 0 ? node.scrollTop / range : 0;
+  })).toBeGreaterThan(0.5);
+  await expect.poll(() => page.evaluate(() => {
+    const saved = JSON.parse(localStorage.getItem("kalam:basta-position") || "{}");
+    return saved.mode === "page" && saved.page === 200 ? saved.offset : 0;
+  })).toBeGreaterThan(0.5);
+  await expect.poll(() => page.evaluate(() => new URL(location.href)
+    .searchParams.has("resume"))).toBe(false);
+});
+
+test("Escape dismisses Focus Options before exiting the reader", async ({ page }) => {
+  await page.goto("/lyrics/na-bhool-kar-bhi/");
+  await page.locator("[data-reading-focus-enter]").click();
+  const html = page.locator("html");
+  const controls = page.locator("[data-reading-controls]");
+  const options = page.locator("[data-reading-focus-options]");
+  await options.click();
+  await expect(controls).toHaveAttribute("data-reading-options-open", "true");
+  await page.keyboard.press("Escape");
+  await expect(controls).toHaveAttribute("data-reading-options-open", "false");
+  await expect(options).toBeFocused();
+  await expect(html).toHaveAttribute("data-reading-focus", "true");
+  await page.keyboard.press("Escape");
+  await expect(html).not.toHaveAttribute("data-reading-focus", "true");
 });

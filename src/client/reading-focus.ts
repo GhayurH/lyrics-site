@@ -1,5 +1,6 @@
 // File role: Distraction-free reading, deep links, mobile navigation, and viewport position retention.
 import { pageAtReadingLine } from "./reading-position";
+import { readingScrollBehavior } from "./viewport";
 
 type Anchor = { node: HTMLElement; top: number };
 type ExitSnapshot = { anchor?: Anchor; page?: HTMLElement; pageNumber?: number };
@@ -91,18 +92,24 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     else (scroller as HTMLElement).scrollTop += delta;
   };
 
-  const contentsOpen = (open: boolean) => {
-    if (!isContinuous) return;
-    html.dataset.readingTocOpen = String(open);
-    contentsButton?.setAttribute("aria-expanded", String(open));
-    const index = root.querySelector<HTMLElement>(".basta-reader-index");
-    if (open) requestAnimationFrame(() => index?.querySelector<HTMLAnchorElement>("a[href]")?.focus({ preventScroll: true }));
-    else if (active && index?.contains(document.activeElement)) contentsButton?.focus({ preventScroll: true });
-  };
   const optionsOpen = (open: boolean) => {
     controls.dataset.readingOptionsOpen = String(open);
     optionsButton.setAttribute("aria-expanded", String(open));
     optionsButton.setAttribute("aria-label", open ? "Hide reading options" : "Show reading options");
+  };
+  const contentsOpen = (open: boolean) => {
+    if (!isContinuous) return;
+    // The contents overlay is below the toolbar: close expanded controls so
+    // keyboard focus and reading links are never obscured by two open panels.
+    if (open) optionsOpen(false);
+    html.dataset.readingTocOpen = String(open);
+    contentsButton?.setAttribute("aria-expanded", String(open));
+    const index = root.querySelector<HTMLElement>(".basta-reader-index");
+    if (open) requestAnimationFrame(() => index?.querySelector<HTMLAnchorElement>("a[href]")?.focus({ preventScroll: true }));
+    else if (active && index?.contains(document.activeElement)) {
+      const returnTo = contentsButton?.getClientRects().length ? contentsButton : optionsButton;
+      returnTo.focus({ preventScroll: true });
+    }
   };
 
   const syncFullscreen = () => {
@@ -152,8 +159,8 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
 
   const exit = (updateHistory: boolean, saved?: ExitSnapshot) => {
     if (!active) return;
-    // Explicit exit first goes back to the normal-history entry. Restoring the
-    // page before history.back() used to be overwritten by browser scroll restoration.
+    // Return to the non-Focus history entry before restoring the position;
+    // otherwise the browser's own scroll restoration can override our anchor.
     if (updateHistory && history.state?.[FOCUS_FLAG]) {
       pendingExit = captureExit();
       history.back();
@@ -168,8 +175,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     setOutsideInert(false);
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
 
-    // The regular reader's canonical URL should now point to the page that was
-    // on screen, rather than an old #page-N hash or the top of the book.
+    // Keep the normal reader's URL anchored to the page visible on exit.
     if (isContinuous && snapshot.pageNumber !== undefined) {
       const url = new URL(location.href);
       url.searchParams.delete("reading");
@@ -235,7 +241,10 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     if (active && event.key === "Escape" && !document.querySelector("dialog.scan-viewer[open]")) {
       event.preventDefault();
       if (html.dataset.readingTocOpen === "true") contentsOpen(false);
-      else exit(true);
+      else if (controls.dataset.readingOptionsOpen === "true") {
+        optionsOpen(false);
+        optionsButton.focus({ preventScroll: true });
+      } else exit(true);
     }
   });
   window.addEventListener("popstate", () => {
@@ -256,11 +265,12 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     topButton.hidden = scrollPosition() < 250;
   }
   topButton.addEventListener("click", () => {
+    const behavior = readingScrollBehavior();
     if (lastPanel?.isConnected && lastPanel.scrollTop > 150 &&
         lastPanel.getClientRects().length) {
-      lastPanel.scrollTo({ top: 0, behavior: "smooth" });
-    } else if (active) root.scrollTo({ top: 0, behavior: "smooth" });
-    else window.scrollTo({ top: 0, behavior: "smooth" });
+      lastPanel.scrollTo({ top: 0, behavior });
+    } else if (active) root.scrollTo({ top: 0, behavior });
+    else window.scrollTo({ top: 0, behavior });
   });
   document.addEventListener("scroll", (event) => {
     if (event.target instanceof HTMLElement &&

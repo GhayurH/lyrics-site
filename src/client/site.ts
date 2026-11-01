@@ -5,6 +5,7 @@ import {
   toggleFavorite,
 } from "./storage";
 import { initAppearance } from "./appearance";
+import { MOBILE_VIEWPORT_QUERY } from "./viewport";
 
 function syncFavoriteButtons(): void {
   const favorites = new Set(readFavoriteIds());
@@ -61,8 +62,9 @@ function initMobileNavigation(): void {
       button.focus();
     }
   });
-  window.matchMedia("(min-width: 701px)").addEventListener("change", (event) => {
-    if (event.matches) setOpen(false);
+  // The same viewport boundary controls the nav and reader defaults.
+  window.matchMedia(MOBILE_VIEWPORT_QUERY).addEventListener("change", (event) => {
+    if (!event.matches) setOpen(false);
   });
 }
 
@@ -75,7 +77,7 @@ function initHeaderAutoHide(): void {
   const header = document.querySelector<HTMLElement>(".site-header");
   if (!header) return;
   const reading = document.querySelector<HTMLElement>("[data-reading-root]");
-  const mobile = window.matchMedia("(max-width: 700px)");
+  const mobile = window.matchMedia(MOBILE_VIEWPORT_QUERY);
   let previousY = window.scrollY;
   let lastDirection = 0;
   let distance = 0;

@@ -31,16 +31,43 @@ export function initReadingProgress(): void {
     const page = Number(root.dataset.bastaCurrentPage);
     const update = () => {
       if (!Number.isSafeInteger(page)) return;
-      const scrollable = Math.max(0, document.documentElement.scrollHeight - innerHeight);
-      const offset = scrollable ? Math.min(1, Math.max(0, scrollY / scrollable)) : 0;
+      // Focus uses the fixed reader's scrollbar, not the stationary document.
+      const focus = document.documentElement.dataset.readingFocus === "true";
+      const scrollable = focus
+        ? Math.max(0, root.scrollHeight - root.clientHeight)
+        : Math.max(0, document.documentElement.scrollHeight - innerHeight);
+      const position = focus ? root.scrollTop : window.scrollY;
+      const offset = scrollable ? Math.min(1, Math.max(0, position / scrollable)) : 0;
       writeBastaPosition({ page, mode: "page", offset: Math.round(offset * 1000) / 1000 });
     };
     if (resume !== undefined) {
-      const restore = () => window.scrollTo({ top: resume * Math.max(0, document.documentElement.scrollHeight - innerHeight), behavior: "instant" });
-      requestAnimationFrame(() => requestAnimationFrame(restore));
-      window.addEventListener("load", restore, { once: true });
+      const restore = () => {
+        // A direct Focus resume URL has a fixed, independently scrolling root.
+        const focus = document.documentElement.dataset.readingFocus === "true";
+        const scrollable = focus
+          ? Math.max(0, root.scrollHeight - root.clientHeight)
+          : Math.max(0, document.documentElement.scrollHeight - innerHeight);
+        if (focus) root.scrollTo({ top: resume * scrollable, behavior: "instant" });
+        else window.scrollTo({ top: resume * scrollable, behavior: "instant" });
+      };
+      const finishRestore = () => {
+        restore();
+        // Resume is a one-time navigation hint, not a permanent canonical URL.
+        // Keeping it would snap a later refresh back to the old offset.
+        const url = new URL(location.href);
+        url.searchParams.delete("resume");
+        history.replaceState(history.state, "", url.pathname + url.search + url.hash);
+      };
+      if (document.readyState === "complete") {
+        requestAnimationFrame(() => requestAnimationFrame(finishRestore));
+      } else {
+        // Establish a usable position early, then settle after images finish.
+        requestAnimationFrame(() => requestAnimationFrame(restore));
+        window.addEventListener("load", finishRestore, { once: true });
+      }
     } else update();
     window.addEventListener("scroll", update, { passive: true });
+    root.addEventListener("scroll", update, { passive: true });
     return;
   }
 

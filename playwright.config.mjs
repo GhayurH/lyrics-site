@@ -7,8 +7,8 @@ export default defineConfig({
   ],
   use: {
     baseURL: "http://127.0.0.1:4321",
-    screenshot: "off",
-    trace: "off",
+    screenshot: "only-on-failure",
+    trace: "retain-on-failure",
   },
   retries: process.env.CI ? 1 : 0,
   reporter: "list",

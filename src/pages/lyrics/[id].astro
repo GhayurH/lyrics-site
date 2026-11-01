@@ -227,10 +227,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     />
 
     <div
-      class:list={[
-        "lyric-reading-grid",
-        !data.romanLyrics && "lyric-reading-grid-single",
-      ]}
+      class="lyric-reading-grid"
       data-reading-root
       data-reader-kind="lyrics"
       data-has-roman={String(Boolean(data.romanLyrics))}

@@ -13,6 +13,8 @@ const readerStyles = ["lyrics.css", "basta.css", "basta-reader.css", "reading-co
 const mobileQuery = readFileSync("src/client/viewport.ts", "utf8");
 const readerState = readFileSync("src/client/reader-state.ts", "utf8");
 const recitationReader = readFileSync("src/client/recitation-reader.ts", "utf8");
+const siteShell = readFileSync("src/client/site.ts", "utf8");
+const readingFocus = readFileSync("src/client/reading-focus.ts", "utf8");
 
 test("shared colours and dimensions are defined only by the token file", () => {
   assert.match(css["core.css"], /@import "\.\/tokens\.css";/);
@@ -46,8 +48,14 @@ test("reader-shell breakpoints and responsive edition rules have one owner", () 
   const layout = css["reading-columns.css"];
   assert.match(layout, /@container reader-shell \(max-width: 46rem\)/);
   assert.match(layout, /@container reader-shell \(min-width: 46\.01rem\)/);
+  // Focus uses the same responsive boundary as the regular readers.
+  assert.doesNotMatch(css["reading-focus.css"], /@media\s*\(max-width: 700px\)\s*and\s*\(orientation: portrait\)/);
+  assert.doesNotMatch(css["reading-focus.css"], /@media\s*\(min-width: 641px\)/);
+  assert.match(layout, /html\[data-reading-focus="true"\] \.lyric-reading-grid\[data-reading-columns~="urdu"\]/);
   assert.match(layout, /\.recite-editions \.lyric-reading-roman\s*\{\s*border-inline-end: 0/);
   assert.doesNotMatch(layout, /@container reader-shell \(max-width: 40rem\)/);
+  assert.doesNotMatch(layout, /@media\s*\(max-width: 700px\)\s*and\s*\(orientation: portrait\)/);
+  assert.match(layout, /\.basta-page-grid\[data-reading-root\]\.basta-page-grid-with-roman\s*\{/);
   // Scans and the index intentionally have separate, documented cutoffs.
   const bounds = [...layout.matchAll(/@container reader-shell \((?:min|max)-width: ([\d.]+)rem/g)]
     .map((match) => Number(match[1]));
@@ -62,6 +70,9 @@ test("browser reader defaults use a single mobile query", () => {
     assert.doesNotMatch(source, /matchMedia\("\(max-width:/, name);
   }
   assert.match(css["reading-columns.css"], /@media \(max-width: 700px\)/);
+  assert.match(siteShell, /matchMedia\(MOBILE_VIEWPORT_QUERY\)/);
+  assert.doesNotMatch(siteShell, /matchMedia\("\(max-width: 700px\)"\)/);
+  assert.doesNotMatch(siteShell, /matchMedia\("\(min-width: 701px\)"\)/);
 });
 
 test("shared minimum tap targets do not regress to local measurements", () => {
@@ -116,7 +127,8 @@ test("feature-page widths and shared component radii come from semantic tokens",
     assert.match(css[file], /var\(--content-feature\)/);
   // About is deliberately narrower for two-language reading and contact copy.
   assert.match(css["about.css"], /\.about-page\s*\{\s*max-width:\s*var\(--content-intro\)/);
-  assert.match(css["basta.css"], /var\(--reading-scan-width\)/);
+  // Scan width is an edition-layout constraint, not a Basta route decoration.
+  assert.match(css["reading-columns.css"], /var\(--reading-scan-width\)/);
   assert.match(css["appearance.css"], /var\(--preset-amoled-main\)/);
   assert.match(tokens, /--button-background:\s*var\(--accent-color\)/);
 });
@@ -179,4 +191,31 @@ test("shared reader renderers own title, stanza and Basta DOM behavior", () => {
   }
   assert.match(lyricModel, /export function lyricStanzaClassNames/);
   assert.match(tokens, /--reading-title-color:\s*color-mix\(in srgb, var\(--accent-color\)/);
+});
+
+test("single-edition sizing and visibility have one CSS owner", () => {
+  const policy = css["reading-columns.css"];
+  assert.match(policy, /\.lyric-reading-grid:is\(\[data-reading-mode="urdu"\], \[data-reading-mode="roman"\]\)/);
+  assert.doesNotMatch(css["lyrics.css"], /\.lyric-reading-grid\[data-reading-mode="(?:urdu|roman)"\]/);
+  assert.doesNotMatch(policy, /\.basta-reader-flow\[data-reading-columns~="urdu"\] \.basta-reader-page-no-roman \.basta-reader-roman/);
+  assert.match(policy, /@media \(orientation: landscape\) and \(pointer: coarse\) and \(max-height: 600px\)/);
+  assert.match(readingFocus, /readingScrollBehavior\(\)/);
+});
+
+test("scan floating and lyric edition layout depend on shared geometry, not device shortcuts", () => {
+  const floating = readFileSync("src/client/floating-scans.ts", "utf8");
+  const lyricRoute = readFileSync("src/pages/lyrics/[id].astro", "utf8");
+  assert.doesNotMatch(floating, /matchMedia\("\(max-width: 700px\) and \(orientation: portrait\)"\)/);
+  assert.match(floating, /Math\.abs\(other\.top - rect\.top\)/);
+  assert.doesNotMatch(css["lyrics.css"], /\.lyric-reading-grid-single/);
+  assert.doesNotMatch(lyricRoute, /lyric-reading-grid-single/);
+});
+
+test("Basta route styles defer edition grid geometry to the shared reader stylesheet", () => {
+  const basta = css["basta.css"];
+  const continuous = css["basta-reader.css"];
+  assert.doesNotMatch(basta, /\.basta-page-grid(?:-image-only)?\s*\{[^}]*grid-template-columns/s);
+  assert.doesNotMatch(continuous, /\.basta-reader-page-grid\s*\{[^}]*grid-template-(?:areas|columns)/s);
+  assert.doesNotMatch(continuous, /\.basta-reader-page-grid-with-roman\s*\{[^}]*grid-template-/s);
+  assert.match(css["reading-columns.css"], /@container reader-shell \(max-width: 46rem\)/);
 });
