@@ -1,6 +1,6 @@
 # Architecture
 
-This document owns implementation boundaries and reader behavior. See [CONTRIBUTING.md](CONTRIBUTING.md) for source-editing rules, [ASSET_WORKFLOW.md](ASSET_WORKFLOW.md) for R2 operations, and [RECITATION_SETS.md](RECITATION_SETS.md) for programme storage and authorization.
+This document owns implementation boundaries and reader behavior. See [CONTRIBUTING.md](CONTRIBUTING.md) for source-editing rules, [ASSET_WORKFLOW.md](ASSET_WORKFLOW.md) for R2 operations, and [RECITATION_SETS.md](RECITATION_SETS.md) for programme behavior and authorization, and [RECITATION_OPERATIONS.md](RECITATION_OPERATIONS.md) for Cloudflare operations.
 
 ## Principles and source layout
 
@@ -29,13 +29,19 @@ src/
 
 Content width roles are `--content-wide` (site), `--content-reading` (readers), `--content-feature` (72rem landing sections), `--content-intro` (52rem introductions), `--content-compact` (42rem text), and `--reading-single-width`/`--reading-scan-width` (individual reading columns). Control borders use `--ui-border`, which resolves against the current theme and is re-scoped for the Appearance dialog. Shared control height, padding, and font size use `--ui-target`, `--ui-control-padding`, and `--ui-control-font-size`. `--site-header-fallback-height` provides a shared pre-measurement value for the sticky site header. Radius tokens distinguish compact controls, general controls, cards, and panels. Do not promote unrelated matching values to global tokens solely because their numbers happen to match.
 
-The **46rem reader-shell stack threshold** (and its 46.01rem parallel counterpart) belongs only in `reading-columns.css`. Ordinary mobile viewport defaults share the 700px query from `src/client/viewport.ts`; media/container query conditions remain in their owning CSS because custom properties are unsupported inside those conditions. `tests/design-tokens.test.mjs` checks token ownership and breakpoint consistency. Retain the mobile portrait Basta grid exception until layout equivalence has been verified across the continuous and page-by-page readers.
+The **46rem reader-shell stack threshold** (and its 46.01rem parallel counterpart) belongs only in `reading-columns.css`. Ordinary mobile viewport defaults share the 700px query from `src/client/viewport.ts`; media/container query conditions remain in their owning CSS because custom properties are unsupported inside those conditions. `tests/design-tokens.test.mjs` checks token ownership and breakpoint consistency. The mobile portrait Basta grid is an intentional page-by-page exception; do not remove it without verifying both the continuous and page-by-page layouts.
 
 ### Appearance
 
-`BaseLayout.astro` owns the pre-paint appearance bootstrap, while `AppearanceDialog.astro` renders the tabbed **Colors / Fonts** menu and `appearance.ts` handles its state and interactions. `src/client/theme.ts` owns the allowlisted theme IDs and palette validation, while `tokens.css` owns preset values and the four-role preview swatches in `core.css` reference those same tokens. **Auto (device)** follows OS light/dark changes, including while the page is open; Pagefind and the browser theme colour follow the resolved appearance. Theme and font preferences save separately in browser storage.
+`BaseLayout.astro` owns the pre-paint appearance bootstrap, while `AppearanceDialog.astro` renders the tabbed **Colors / Fonts** menu and `appearance.ts` handles its state and interactions. `src/client/theme.ts` owns the allowlisted theme IDs and palette validation, while `tokens.css` owns preset values and the four-role preview swatches in `appearance.css` reference those same tokens. **Auto (device)** follows OS light/dark changes, including while the page is open; Pagefind and the browser theme colour follow the resolved appearance. Theme and font preferences save separately in browser storage.
 
 **My Custom theme** reopens saved colours without overwriting them. **Start Custom from this theme** explicitly copies the active preset, including its text/border roles; changing Custom backgrounds recalculates automatic foregrounds. Custom exposes page, panel, and accent colours plus optional manual primary/muted text and borders, with live contrast information. **Reset custom colours** restores the Custom starting palette; **Restore website defaults (colors)** clears only colour settings and returns to device-following Auto, while the Fonts reset restores only default Urdu/Roman selections. Invalid stored CSS values are rejected, and the editor remains legible even if page text is configured with poor contrast.
+
+### Reading fonts and licensing
+
+`src/client/fonts.ts` is the allowlist for Urdu and Roman fonts. The layout embeds the allowlist from this module into its early inline bootstrap to restore saved choices before the first paint, without maintaining a second list. `system` is a legacy Roman option and is normalized to `sans` (the system-default font). The Appearance dialog uses short Urdu and Roman sample text for font previews without changing navigation or form typography. Urdu options are grouped by script style in `URDU_FONT_GROUPS`; the canonical allowlist stays alphabetical and is shared with first-paint restoration.
+
+Fontsource fonts are hosted locally. The OFL-licensed Beaconhouse Nastaliq file, license, and source notice remain together in `public/fonts/beaconhouse-nastaliq/`. Alvi Nastaleeq must not be bundled because of its redistribution restrictions; use an installed font with Noto Nastaliq fallback.
 
 Readers import the shared `reading-columns.css` (edition grids, container queries, and toolbar placement), `reading-focus.css` (Focus Mode), and `scan-viewer.css` (zoomable scans) through `ReadingControls.astro`. Do not add competing route-local edition grids or rebuild an override stack; consolidate CSS only when specificity, conditions, and cascade still agree. `basta.css` is the one shared Basta text stylesheet.
 
@@ -75,20 +81,11 @@ The Saved/Recent catalog is fetched on demand from `/data/saved-catalog.json`, n
 
 The Recitation Sets builder keeps Plan and Find usable without a forced wizard. Publication controls show an accessible disabled explanation before a valid title and at least one kalam exist; sharing and retention choices progressively expand once publishable, or when deliberately opened from the Share step. Searching the unfiltered catalog starts with a short batch, with a Show more control.
 
-Published programme documents and hashed private edit credentials use Cloudflare D1 through Pages Functions under `functions/`; source Markdown, scanned assets, and browsing remain static. `public/_routes.json` restricts dynamic invocation, root `wrangler.toml` configures Pages, and `workers/` contains independent scheduled cleanup. The [Recitation Sets reference](RECITATION_SETS.md) owns the schema, retention, exports, edit permissions, and deployment procedure.
+Published programme documents and hashed private edit credentials use Cloudflare D1 through Pages Functions under `functions/`; source Markdown, scanned assets, and browsing remain static. `public/_routes.json` restricts dynamic invocation, root `wrangler.toml` configures Pages, and `workers/` contains independent scheduled cleanup. [Recitation Sets](RECITATION_SETS.md) owns source identity, retention, exports, and permissions; [operations](RECITATION_OPERATIONS.md) owns deployment and database maintenance.
 
-## Performance and validation boundaries
+## Performance boundaries
 
 - Lazy-load noncritical R2 scans with reserved dimensions and async decoding; retain the original direct URLs.
 - Use `content-visibility` for off-screen continuous-reader content when supported, and avoid measuring distant reader panels during scrolling.
 - Do not load the full Saved catalog, entire Basta book, or Pagefind JavaScript in unrelated initial HTML.
-- Keep browser tests focused on distinct user-facing contracts: navigation, responsive geometry, unavailable editions, no-JavaScript access, and source/streamed markup parity. The smaller `@smoke` group covers a representative critical journey per feature (navigation, readable text, saving, search, programme creation, accessibility and defaults); full-only tests retain unusual viewports, palette/font matrices and feature-specific edge cases. Ordinary PR commits run the build and Node checks; use `[smoke-ci]` or `[full-ci]` to select browser coverage as documented in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
-
-Validation commands and CI conditions are documented once in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
-
-
-### Font assets and saved preferences
-
-`src/client/fonts.ts` is the allowlist for Urdu and Roman fonts. The layout embeds the allowlist from this module into its early inline bootstrap to restore saved choices before the first paint, without maintaining a second list. `system` is a legacy Roman option and is normalized to `sans` (the system-default font). The Appearance dialog uses short Urdu and Roman sample text for font previews without changing navigation or form typography. Urdu options are grouped by script style in `URDU_FONT_GROUPS`; the canonical allowlist stays alphabetical and is shared with first-paint restoration.
-
-Fontsource fonts are hosted locally. The OFL-licensed Beaconhouse Nastaliq file, license, and source notice remain together in `public/fonts/beaconhouse-nastaliq/`. Alvi Nastaleeq must not be bundled because of its redistribution restrictions; use an installed font with Noto Nastaliq fallback.
+Browser test selection, CI markers, and validation commands are maintained in one place: [Contributing — Validation](CONTRIBUTING.md#validation).

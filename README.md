@@ -42,7 +42,7 @@ npm run test:browser  # Full Chromium suite at milestones
 npm run preview       # Preview the built site
 ```
 
-See [contribution and validation guidance](docs/CONTRIBUTING.md#validation) for smoke/full selection and CI behavior. Full browser tests cover 109 distinct scenarios; the reduced smoke suite targets critical user journeys.
+See [contribution and validation guidance](docs/CONTRIBUTING.md#validation) for smoke/full selection and CI behavior. The reduced smoke suite checks critical user journeys; the full suite covers additional edge cases.
 
 ## Repository layout
 
@@ -70,8 +70,10 @@ Each subject has one primary reference:
 - [Contributing](docs/CONTRIBUTING.md) — content fidelity, metadata, editorial changes, and validation.
 - [Architecture](docs/ARCHITECTURE.md) — component boundaries, reader behavior, and performance contracts.
 - [Asset workflow](docs/ASSET_WORKFLOW.md) — local assets, R2 uploads, previews, and cache management.
-- [Recitation Sets](docs/RECITATION_SETS.md) — stable source IDs, sharing, security, D1, and retention.
+- [Recitation Sets](docs/RECITATION_SETS.md) — programme behavior, source IDs, sharing, and retention.
+- [Recitation Sets operations](docs/RECITATION_OPERATIONS.md) — D1 setup, scheduled cleanup, and deployment verification.
 - [Agent guide](AGENTS.md) — short operational instructions for coding assistants.
+- [Audit utilities](audit/README.md) — manual OCR checks and Pages deployment cleanup.
 
 ## Corrections and additions
 

@@ -1,6 +1,6 @@
 # Coding agent instructions
 
-This is the short operational entry point. Canonical details live in [CONTRIBUTING.md](docs/CONTRIBUTING.md) (content and validation), [ARCHITECTURE.md](docs/ARCHITECTURE.md) (implementation boundaries), [ASSET_WORKFLOW.md](docs/ASSET_WORKFLOW.md) (R2), and [RECITATION_SETS.md](docs/RECITATION_SETS.md) (source IDs and programme storage).
+This is the short operational entry point. Canonical details live in [CONTRIBUTING.md](docs/CONTRIBUTING.md) (content and validation), [ARCHITECTURE.md](docs/ARCHITECTURE.md) (implementation boundaries), [ASSET_WORKFLOW.md](docs/ASSET_WORKFLOW.md) (R2), and [RECITATION_SETS.md](docs/RECITATION_SETS.md) (source IDs and programme behavior), and [RECITATION_OPERATIONS.md](docs/RECITATION_OPERATIONS.md) (D1 and scheduled cleanup).
 
 ## Non-negotiable invariants
 
