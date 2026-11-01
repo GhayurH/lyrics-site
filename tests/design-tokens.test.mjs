@@ -92,7 +92,7 @@ test("all referenced shared reading tokens resolve, including spacing presets", 
     assert.doesNotMatch(css[file], /\[data-line-spacing="(?:compact|relaxed)"\]/,
       file + " must not duplicate the shared reading spacing selectors");
   }
-  assert.match(css["core.css"], /:is\(\.lyric-verse, \.basta-verse-poetry\)/);
+  assert.match(css["core.css"], /:is\(\.lyric-verse, \.basta-verse-line\.basta-verse-poetry\)/);
   assert.doesNotMatch(css["basta.css"], /\.basta-verse-poetry\s*\{/);
   assert.doesNotMatch(css["lyrics.css"], /\.lyric-verse\s*\{/);
 });
