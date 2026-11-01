@@ -38,6 +38,8 @@ function normalizeLine(p, line, {fenced,intro}) {
   let s=line.replace(/(\S)[ \t\u00A0\u2007\u202F]{2,}(?=\S)/gu,"$1 ")
             .replace(/(\S)[\t\u00A0\u2007\u202F](?=\S)/gu,"$1 ");
   if(s!==line)record("inter-word whitespace",p,line,s);
+  if(/[\uFF01-\uFF65\uFE50-\uFE6F\u3000\u00AD]/u.test(s))
+    record("suspicious Unicode punctuation",p,line,s);
   if(!textContent(p))return s;
   if(/\S[ \t]+$/.test(s) && !/\S {2}$/.test(s))
     s=s.replace(/[ \t]+$/u,"");
@@ -45,7 +47,14 @@ function normalizeLine(p, line, {fenced,intro}) {
   if(/^src\/data\/basta\/(?:pages|roman)\/091\.md$/.test(p))
     s=s.replace(/ !(?=$)/gu,"!");
   if(p==="src/data/lyrics/tu-na-aaya-ghazi.md")
-    s=s.replace(/شیرِ ِجری/gu,"شیرِ جری");
+    s=s.replace(/شیرِ ِجری/gu,"شیرِ جری").replace(/شہہ/gu,"شہ");
+  if(p==="src/data/basta/pages/193.md")
+    s=s.replace(/کبہی بجہے ہوئے گہہ/gu,"کبھی بجھے ہوئے گہ");
+  if(p==="src/data/basta/pages/202.md")
+    s=s.replace(/تیغ بڑہا/gu,"تیغ بڑھا");
+  if(p==="src/data/lyrics/ya-sari-ar-riza.md")
+    s=s.replace(/شبِ جمہ/gu,"شبِ جمعہ");
+  if(textContent(p)) s=s.replace(/，/gu,"،");
   if(!arabic(p,s,intro)){
     const guards=/(لا إله إلا (?:الله|علی)|“[^”]*”|"[^"]*")/gu;
     s=s.split(guards).map(part=>{
