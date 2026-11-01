@@ -1,77 +1,51 @@
 # Architecture
 
-Code ownership and reader behavior. Editorial rules: [Contributing](CONTRIBUTING.md); R2: [Assets](ASSET_WORKFLOW.md); programme data and permissions: [Recitation Sets](RECITATION_SETS.md); deployment: [Operations](RECITATION_OPERATIONS.md).
+Kalam Archive uses Astro-generated static reading pages with progressive enhancement. Authoritative source text lives in Markdown; readers, indexes and exports must not rewrite the underlying poetry. See [Contributing](CONTRIBUTING.md) for editorial rules and [Quality assurance](QUALITY_ASSURANCE.md) for verification.
 
-## Principles and source layout
+## Code ownership
 
-Prefer static, readable HTML with progressive enhancement. Keep public URLs, source fidelity, and single owners for shared behavior. Use Node 24 (minimum 22.23.4).
-
-| Location | Responsibility |
+| Directory | Responsibility |
 | --- | --- |
-| `src/data/`, `src/content.config.ts` | Source poetry, Basta data, lyric metadata (`kalamType` required) |
-| `src/lib/` | Canonical domain models, parsing, build/server utilities |
-| `src/components/`, `src/pages/`, `src/layouts/` | Astro UI, routes/JSON endpoints, site shell |
-| `src/client/` | Browser controllers, storage, DOM helpers |
-| `src/styles/` | Shared tokens/primitives and feature styles |
-| `functions/`, `workers/`, `schema/` | Pages Functions, cleanup Worker, D1 schema |
+| `src/data/`, `src/content.config.ts` | Poetry, Basta source pages and index, metadata and permanent source identities |
+| `src/lib/` | Parsing, domain models, search aliases and build/server validation |
+| `src/pages/`, `src/components/`, `src/layouts/` | Static routes, JSON endpoints and shared Astro markup |
+| `src/client/` | Browser controllers and browser-local state |
+| `src/styles/` | Design tokens, reader layouts and feature presentation |
+| `functions/`, `workers/`, `schema/` | Cloudflare API, cleanup Worker and D1 schema |
 
-## Styling and shared components
+Only verified individual Basta kalams generate `/basta/kalam/[id]/`; the original `/basta/[page]/` links remain authoritative. `/basta/kalams/` lists both verified and review-pending entries. `lib/basta-kalam-data.ts` and `lib/basta-kalam-units.ts` own boundaries and source-page mapping. The editorial review command reports uncertain mappings without guessing.
 
-- `tokens.css` owns theme palettes, typefaces, reading widths, typography, spacing, control sizes, and radii. `core.css` imports it and owns global styles. Keep component defaults together instead of appending corrective overrides later in a feature stylesheet.
-- `reading-toolbar.css` owns control surfaces. `reading-columns.css` owns reader edition grid tracks (including Basta pages and streamed pages), single-edition sizing, the **46rem** container threshold, and Compact/Default/Relaxed spacing values (`--reading-active-*-leading`). Route CSS owns content typography, structural shell spacing, and index-specific layout; avoid recreating reader-edition tracks there. `reading-focus.css` owns immersive layout and `scan-viewer.css` owns zoom UI.
-- `client/viewport.ts` owns the **700px** JavaScript mobile boundary and reduced-motion scrolling choice. Very short touch-landscape viewports release sticky controls to give poetry more vertical space; fine-pointer desktop windows retain them.
-- `--ui-border`, `--ui-target`, `--ui-control-padding`, and `--ui-control-font-size` are shared controls. Keep unique component measurements local rather than introducing meaningless tokens. `tests/design-tokens.test.mjs` enforces ownership.
-- `kalam-reading-title` centers, bolds, underlines, and colors verified titles using `--reading-title-color` (derived from the active theme). `kalam-poet-credit` centers an adjacent verified byline without title emphasis. `core.css` owns one-line verse justification.
-- `LyricCard.astro` and `client/lyric-card.ts` use the shared `LyricCardData` model in `lib/catalog.ts`.
+## Shared reader contract
 
-### Appearance and fonts
+- `ReadingControls.astro` and `client/reader-state.ts` own edition visibility and line-spacing preferences. `client/reading-focus.ts` owns Focus Mode, overlays, history and fullscreen interactions.
+- `styles/tokens.css` owns semantic palette, size, width and border values; `core.css` owns global primitives. `reading-toolbar.css` owns reading controls; `reading-columns.css` owns edition tracks and the **46rem** reader-container threshold; `reading-utilities.css` owns shared spacing and reader utilities; `reading-focus.css` owns immersive presentation. Do not add competing reader breakpoints to individual routes.
+- `client/viewport.ts` owns the **700px** JavaScript mobile breakpoint. Narrow or rotated readers stack selected editions; wide readers use parallel columns. A single edition must not create an empty track.
+- `client/synced-columns.ts` scrolls only a taller text column when columns are parallel; `floating-scans.ts` positions scans from physical column geometry. `reading-progress.ts` stores position in the active scroll container, including Focus Mode.
+- `client/verse-fitting.ts` keeps every verse on one line. At extreme zoom, a line that would become unreadably small can scroll *within that line* and remains keyboard accessible; ordinary reader modes do not allow horizontally scrolling pages.
+- `client/scan-viewer.ts` enhances native scan links with zoom and pan. Static text and source links remain available without JavaScript.
 
-`BaseLayout.astro` restores appearance before paint; `client/theme.ts` validates palettes; `AppearanceDialog.astro`/`client/appearance.ts` manage Colors and Fonts. Presets include Auto, Light, Dark, AMOLED, Sepia, curated palettes, and Custom. Custom derives readable text/borders unless overridden; it retains its saved palette until explicitly copied/reset. Colors and Fonts reset separately. Pagefind and browser theme-color follow the active palette.
+`lib/lyric-stanzas.ts` owns standalone stanza semantics and 4+2 / reviewed 2+2+2 layouts. `lib/basta-text.ts` owns Basta headings, credits and stanza layout; `---***---` marks source kalam boundaries. `BastaText.astro`, `client/basta-dom.ts`, streaming and recitation/export renderers share these rules. The printed index is not a substitute for source verification.
 
-`client/fonts.ts` owns the font allowlist, early restoration, and grouped previews. The UI uses `--font-ui`; only poetry uses `--font-urdu`/`--font-roman`. Fontsource packages and OFL-licensed Beaconhouse Nastaliq are self-hosted (keep license/source files). **Do not bundle Alvi Nastaleeq**; it can use an installed copy with Noto fallback.
+## Appearance and search
 
-## Reader contract
+`BaseLayout.astro` restores saved colour and font choices before paint. `client/theme.ts` validates theme palettes; `AppearanceDialog.astro` and `client/appearance.ts` own the UI. `client/fonts.ts` owns the font allowlist; default Nastaliq/Naskh faces are included initially while optional Fontsource faces are loaded on selection by `client/font-assets.ts`. The locally installed Alvi fallback is not distributed.
 
-Standalone lyrics, Basta pages/index/continuous mode, and Recitation Sets share `ReadingControls.astro`, `client/reader-state.ts`, and the reader CSS above.
+Pagefind is loaded only on `/search/`; homepage search uses a standard form. `lib/search-normalization.ts` adds search-only Urdu/Roman aliases without changing displayed text. Printed Basta pages and individual kalams use common collection/type facets.
 
-- **Editions:** Image, Urdu, and Roman may be combined; at least one remains selected. Mobile defaults to Urdu; wide text readers default to Urdu + Roman, and desktop Basta page reading to Image + Urdu. Preferences persist per reader type. Missing Roman text gets an explanation, never a silent substitution. Scans and text remain readable without JavaScript.
-- **Layout:** Container width decides stacked versus parallel columns, including page-by-page Basta and Focus Mode on narrow or rotated screens. Narrow Basta panels stack full-width; route CSS must not redefine edition tracks. `client/verse-fitting.ts` and `lib/verse-fit.ts` keep every verse on one line without horizontal scrolling.
-- **Scrolling:** `client/synced-columns.ts` synchronizes corresponding text, with shorter columns static. `floating-scans.ts` uses adjacent-panel geometry (not device orientation) to float scans only alongside text. `reading-progress.ts` measures and restores page position using the document in regular mode and the independent reading root in Focus Mode. Never synchronize a scan as a text panel.
-- **Focus Mode:** `reading-focus.ts` preserves position, history, fullscreen state, and independent Options. Desktop/mobile toolbars and retracting headers must not obscure verses or anchor targets. Retracted headers stay keyboard-focusable so their `focusin` handler can reveal them.
-- **Images:** Native scan links work without JS; `scan-viewer.ts` adds zoom/pan. Readers remain usable if R2 is unavailable.
+`client/storage.ts` owns basic local storage, `saved-library.ts` presents saved/recent reading, `basta-kalam-favorites.ts` manages individual kalam bookmarks, and `library-backup.ts` validates versioned backup imports. Bookmarks and drafts remain device-local; backup exports may include private organizer credentials.
 
-**Lyric stanzas:** `lib/lyric-stanzas.ts` owns stanza breaks, 4+2 joining, and class names for both `LyricVerses.astro` and `client/recitation-reader.ts`. Reviewed `sixVerseLayout: "pairs"` uses 2+2+2 with alternating indentation and couplet rules; source text remains unchanged by the renderer.
+## Offline boundaries
 
-**Basta text:** The `---***---` marker defines kalam boundaries in *both* languages. `lib/basta-text.ts` owns title/byline identification, verse layout, and class names. Static `BastaText.astro`, `client/basta-dom.ts` (shared by streaming and Recitation Sets), and the export must preserve the same wording, numbering, and boundaries.
+`public/sw.js` supports **explicitly requested** downloaded pages, scans and search data. The post-build `scripts/generate-offline-search-manifest.mjs` enumerates Pagefind files and the compiled app assets needed to search on a previously unvisited device. Saved & recent offers cache counts and clearing. Ordinary network reading continues to use native scan URLs.
 
-## Basta navigation and streaming
+Never cache `/api/` programme responses, edit links or private capabilities. Scan images are large and optional. Offline Recitation Set HTML/print exports are a separate, self-contained output; public/live published programmes still require a connection.
 
-`/basta/read/` renders its first eight-page chunk and index at build time; `client/basta-stream.ts` loads further pre-rendered JSON chunks. `lib/basta-reader-data.ts` aligns Urdu/Roman source pages and respects the physical index gap.
+## Recitation Sets
 
-`basta-navigation.ts` handles `#page-N`, invalid pages, and index-gap navigation. Use the `ReadingControls.astro` navigation slot rather than another pager. `reading-progress.ts` records within-page resume offsets without scanning the entire book; `basta-selections.ts` stores page-qualified kalam/stanza bookmarks separately from reader preferences.
+`recitation-builder.ts` orchestrates editing and publication; `recitation-catalog.ts` loads indexed sources; `recitation-poem-source.ts` fetches canonical reader content; `recitation-reader.ts` renders it; `recitation-export.ts` generates print/offline copies; `recitation-templates.ts` owns device-local templates.
 
-## Search, discovery, and saved state
+Source and set models live in `src/lib/`; `src/data/recitation/identity-lock.json` reserves stable IDs. D1 stores published references and organizer metadata, not poetry. Authorized edits and live navigation require matching document revisions, rejecting stale organizer sessions. See [Recitation Sets](RECITATION_SETS.md) and [Operations](RECITATION_OPERATIONS.md).
 
-Pagefind loads **only** on `/search/` (`client/search.ts`); homepage search uses a normal form. `/data/saved-catalog.json` is fetched on demand. `client/storage.ts` owns local storage primitives; `saved-library.ts` and `home-continue.ts` present saved/recent items and resume links. Never require a catalog fetch for locally saved drafts or bookmarks.
+## Performance and reliability
 
-## Recitation Sets boundary
-
-`recitation-builder.ts` edits/publishes sets; `recitation-poem-source.ts` owns lazy canonical source fetching for the reader; `recitation-catalog.ts` fetches sources; `recitation-workflow.ts` manages builder navigation; `recitation-reader.ts` renders canonical poetry; `recitation-export.ts` generates offline HTML and print views. Validated IDs and set models belong to `src/lib/` and `src/data/recitation/`.
-
-Programme publishing uses D1 via narrowly routed Pages Functions; archives and R2-backed assets remain static. See [Recitation Sets](RECITATION_SETS.md) for authorization, source integrity, retention, and sharing. See [Operations](RECITATION_OPERATIONS.md) for bindings and cleanup.
-
-## Performance boundaries
-
-Reserve scan dimensions and lazy-load R2 assets. Use `content-visibility` for offscreen book chunks when supported; do not measure distant pages on every scroll. Load the full book, Saved catalog, and Pagefind only where needed. Test commands and CI markers: [Validation](CONTRIBUTING.md#validation).
-
-### New archive and library capabilities
-
-Verified Basta kalams have permanent `/basta/kalam/[id]/` URLs and appear in `/basta/kalams/`; original page routes remain stable. Correction actions on individual lyric, Basta page, and kalam routes open a contextual email draft; there is no submission service or new database.
-
-`client/library-backup.ts` owns the explicit versioned allowlist of browser-local data for export/import. `public/sw.js` handles explicitly saved offline pages without caching `/api/` routes or edit tokens. `client/recitation-templates.ts` owns private reusable programme templates. `lib/search-normalization.ts` supplies alias tokens to Pagefind without changing source poem text.
-
-### Offline search and source review
-
-`public/sw.js` handles opt-in page, scan and Pagefind caches separately. `scripts/generate-offline-search-manifest.mjs` builds the complete same-origin Pagefind asset list after indexing. A cache-status UI and clearing controls live on Saved & recent. Source scans may be R2 redirects, so the worker uses opaque responses only for explicit scan requests; publication APIs are never cached.
-
-Optional font-face styles are loaded on selection via `client/font-assets.ts`, while the default Nastaliq and Naskh fonts load with the site shell. Reader spacing and anchors live in `styles/reading-utilities.css`, separate from edition-grid geometry in `reading-columns.css`. `npm run basta:kalams:review` links unresolved source fragments to printed scans without assigning or renumbering uncertain OCR material.
+Reserve scan dimensions, lazy-load remote images and optional font faces, stream continuous Basta chunks, and avoid measuring offscreen pages on each scroll. `npm run perf:assets` reports built sizes; `npm run perf:browser` records resource transfers, paint times and layout shift. Automated metrics are not a substitute for network-throttled testing on real devices.

@@ -1,25 +1,23 @@
-# Manual audits
+# Source and deployment audits
 
-Run from the repository root. These tools are not part of regular CI; source-editing rules are in [Contributing](../docs/CONTRIBUTING.md#basta).
+These are maintenance tools, not an implementation diary. Run them from the repository root. Editorial rules are in [Contributing](../docs/CONTRIBUTING.md); human validation procedures are in [Quality assurance](../docs/QUALITY_ASSURANCE.md).
 
-## Basta OCR review
+## Basta source review
 
 ```bash
+npm run basta:kalams:audit
+npm run basta:kalams:review  # Markdown queue with direct scan links
 python3 audit/basta_error_report.py --output /tmp/basta-errors.csv
 ```
 
-This read-only scan flags uncertain OCR, encoding issues, and Latin text in Urdu pages. Verify CSV findings against scans; it never edits poetry. For routine maintenance use `npm run basta:index:check` and `npm run basta:kalams:audit`.
-
-Older **unverified** OCR review candidates (not confirmed current errors): `035 038 044 045 046 053 060 064 076 083 084 138 331* 358 368*** 398** 417*`.
+The catalog audit distinguishes verified individual kalams from uncertain source boundaries and unassigned fragments. The Python scan reports possible OCR/encoding issues in Urdu pages. **Neither tool edits poetry.** Resolve candidates only after checking the original printed scans. CI uploads the scan-linked Basta editorial review queue as an artifact.
 
 ## Pages deployment cleanup
 
-`audit/cleanup-pages.sh` **deletes all deployments except active production**, including past production versions and previews. There is no rollback preservation. It requires Wrangler OAuth, `jq`, and local `node_modules/.bin/wrangler`. It aborts if active production changes mid-run.
+`audit/cleanup-pages.sh` deletes **every deployment except the active production deployment**, including older production and preview versions. No rollback versions are retained. It requires Wrangler OAuth, `jq`, and the local Wrangler installation; it aborts if active production changes during cleanup.
 
 ```bash
-./audit/cleanup-pages.sh 5  # Optional maximum parallel deletion workers
+./audit/cleanup-pages.sh 5 # Optional maximum parallel workers
 ```
 
-Run only when losing all historical deployments is acceptable.
-
-[UI and maintainability review (1 November 2026)](UI_REVIEW_2026-11-01.md) records the responsive audit, fixes, and verification matrix.
+Run it only when losing historic preview and rollback deployments is acceptable.
