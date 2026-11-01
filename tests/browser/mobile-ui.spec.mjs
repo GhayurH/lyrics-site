@@ -32,7 +32,7 @@ test("mobile header occupies one line with accessible menu and icon theme toggle
 });
 
 
-test("paired lyric actions and reader controls have matching accessible heights @smoke", async ({ page }) => {
+test("paired lyric actions and reader controls have matching accessible heights", async ({ page }) => {
   for (const { width, height } of [{ width: 320, height: 760 }, { width: 390, height: 844 }, { width: 844, height: 390 }, { width: 1024, height: 768 }]) {
     await page.setViewportSize({ width, height });
     await page.goto("/lyrics/aa-asghar-bin-tere/");
@@ -70,7 +70,7 @@ test("paired lyric actions and reader controls have matching accessible heights 
   }
 });
 
-test("selected Image Urdu Roman cells are entirely filled in every applicable reader @smoke", async ({ page }) => {
+test("selected Image Urdu Roman cells are entirely filled in every applicable reader", async ({ page }) => {
   for (const route of [
     "/lyrics/aa-asghar-bin-tere/",
     "/basta/200/",
