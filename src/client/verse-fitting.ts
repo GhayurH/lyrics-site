@@ -51,8 +51,12 @@ function fitStanza(stanza: HTMLElement, ctx: CanvasRenderingContext2D): void {
 
 function fitKalam(kalam: HTMLElement, ctx: CanvasRenderingContext2D): void {
   const verses = Array.from(kalam.querySelectorAll<HTMLElement>(".basta-verse-poetry"));
+  // Fit a heading independently so a long title cannot shrink stanza one.
+  for (const title of verses.filter((line) => line.classList.contains("kalam-reading-title"))) {
+    fitGroup([title], ctx);
+  }
   const groups: HTMLElement[][] = [];
-  for (const verse of verses) {
+  for (const verse of verses.filter((line) => !line.classList.contains("kalam-reading-title"))) {
     if (!groups.length || verse.classList.contains("basta-couplet-separator")) groups.push([]);
     groups[groups.length - 1].push(verse);
   }

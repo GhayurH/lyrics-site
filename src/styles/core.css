@@ -188,6 +188,13 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   text-align-last: center;
 }
 
+/* Separate title sizing from verse sizing in all Basta and recitation editions. */
+.basta-kalam-title {
+  font-size: calc(1em + var(--reading-title-increment));
+  line-height: 2.05;
+}
+.basta-kalam-title:lang(en) { line-height: 1.55; }
+
 [lang="ur"] { font-family: var(--font-urdu); }
 .pagefind-data { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 .visually-hidden { position: absolute !important; width: 1px !important; height: 1px !important; margin: -1px !important; overflow: hidden !important; clip: rect(0 0 0 0) !important; white-space: nowrap !important; border: 0 !important; padding: 0 !important; }

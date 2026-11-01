@@ -60,14 +60,14 @@ html[data-reading-focus="true"] .lyric-reading-grid { align-content: start; back
 html[data-reading-focus="true"] .lyric-reading-panel { min-width: 0; margin-inline: auto; padding: clamp(0.4rem,1.6vw,1.3rem); }
 html[data-reading-focus="true"] .lyric-reading-grid .lyric-reading-roman { border: 0; }
 html[data-reading-focus="true"] .lyric-version-heading {
-  display: block; margin-bottom: 0.65rem; border: 0; padding: 0;
-  color: var(--primary-text); letter-spacing: 0; text-transform: none;
+  display: block; margin-bottom: 0.25rem; border: 0; padding: 0;
+  color: var(--primary-text); font-size: 1em; letter-spacing: 0; text-transform: none;
 }
 html[data-reading-focus="true"] .lyric-focus-title {
-  display: block; font-size: clamp(1.25rem,3vw,1.85rem);
-  line-height: 2;
+  display: block; font-size: calc(1em + var(--reading-title-increment));
+  line-height: 1.9;
 }
-html[data-reading-focus="true"] .lyric-focus-title[dir="ltr"] { line-height: 1.6; }
+html[data-reading-focus="true"] .lyric-focus-title[dir="ltr"] { line-height: 1.5; }
 html[data-reading-focus="true"] .basta-page-grid[data-reading-root] { align-content: start; margin: 0; gap: 0.75rem; }
 html[data-reading-focus="true"] .basta-page-grid[data-reading-root] .basta-original-page { border: 0; background: transparent; }
 html[data-reading-focus="true"] .basta-original-page a { padding: 0; }
@@ -166,4 +166,28 @@ html[data-reading-focus="true"] .basta-page-grid[data-reading-root] > .basta-ori
 html[data-reading-focus="true"] .basta-reader-page-grid > .basta-reader-original-image[data-floating-scan="true"] img {
   width: auto; height: auto; max-width: 100%;
   max-height: calc(100dvh - 4.4rem); object-fit: contain;
+}
+
+/* In portrait Focus Mode the scan and text must be in normal document flow.
+   Bypassing the outer grid prevents named areas inherited from single-edition
+   layouts from leaving both children on the same row. The inner bilingual grid
+   still handles Urdu/Roman stacking. */
+@media (max-width: 700px) and (orientation: portrait) {
+  html[data-reading-focus="true"] .basta-page-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-mode="image"]),
+  html[data-reading-focus="true"] .basta-reader-flow[data-reading-columns~="image"]:not([data-reading-mode="image"])
+    .basta-reader-page-grid {
+    display: block !important;
+  }
+  html[data-reading-focus="true"] .lyric-reading-grid:not([data-reading-mode="image"])
+    > .lyric-reading-image[data-floating-scan="true"],
+  html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not([data-reading-mode="image"])
+    > .basta-original-page[data-floating-scan="true"],
+  html[data-reading-focus="true"] .basta-reader-flow:not([data-reading-mode="image"])
+    .basta-reader-page-grid > .basta-reader-original-image[data-floating-scan="true"] {
+    position: static;
+    top: auto;
+    height: auto;
+    max-height: none;
+    align-self: start;
+  }
 }
