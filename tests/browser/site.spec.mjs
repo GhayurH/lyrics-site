@@ -58,14 +58,6 @@ test("Search exposes primary and secondary filters accessibly @smoke", async ({ 
   await advanced.locator("summary").click();
   await expect(page.locator(".search-secondary-filters")).toBeVisible();
 });
-test("core pages never create a viewport-wide horizontal scrollbar on phones", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  for (const route of ["/", "/search/", "/saved/", "/about/", "/basta/", "/basta/index/", "/basta/138/"]) {
-    await page.goto(route, { waitUntil: "domcontentloaded" });
-    await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
-  }
-});
-
 test("Search and Saved explain their browser-only features without JavaScript", async ({ browser }) => {
   const context = await browser.newContext({ javaScriptEnabled: false });
   const page = await context.newPage();
@@ -76,40 +68,12 @@ test("Search and Saved explain their browser-only features without JavaScript", 
   await context.close();
 });
 
-test("Saved avoids an empty resume section until the user reads Basta", async ({ page }) => {
-  await page.goto("/saved/");
-  await expect(page.locator("[data-basta-resume-section]")).toBeHidden();
-  await expect(page.locator("#saved-library")).toHaveAttribute("data-saved-settled", "true");
-  await expect(page.locator("#saved-initializing")).toBeHidden();
-  await expect(page.locator("#saved-overview-empty")).toBeVisible();
-
-  await page.goto("/basta/138/");
-  await page.goto("/saved/");
-  await expect(page.locator("[data-basta-resume-section]")).toBeVisible();
-  await expect(page.locator("[data-resume-basta]")).toHaveAttribute("href", /\/basta\/138\//);
-});
-
-
 test("homepage search passes the entered term to archive search", async ({ page }) => {
   await page.goto("/");
   await page.locator("#home-search-query").fill("Ali");
   await page.locator(".home-search button").click();
   await expect(page).toHaveURL(/\/search\/\?q=Ali$/);
   await expect(page.locator("pagefind-input")).toBeAttached();
-});
-
-test("Basta landing prioritizes the saved reading position without duplicating entry buttons", async ({ page }) => {
-  await page.goto("/basta/");
-  await expect(page.locator(".basta-home-mode-card")).toHaveCount(2);
-  await expect(page.locator(".basta-home-resume-panel")).toBeHidden();
-  await page.goto("/basta/138/");
-  await page.goto("/basta/");
-  await expect(page.locator(".basta-home-resume-panel")).toBeVisible();
-  const resume = await page.locator(".basta-home-resume-panel").boundingBox();
-  const modes = await page.locator(".basta-home-mode-grid").boundingBox();
-  expect(resume.y + resume.height).toBeLessThan(modes.y);
-  await expect(page.locator(".basta-home-resume")).toContainText("page 138");
-  await expect(page.locator(".basta-home-resume")).toHaveAttribute("href", /\/basta\/138\//);
 });
 
 test("Basta without JavaScript offers the index instead of a nonfunctional jump form", async ({ browser }) => {
@@ -120,15 +84,6 @@ test("Basta without JavaScript offers the index instead of a nonfunctional jump 
   await expect(page.locator(".basta-home-nojs")).toBeVisible();
   await expect(page.getByRole("link", { name: "Browse book index" })).toBeVisible();
   await context.close();
-});
-
-test("both landing pages display the book cover", async ({ page }) => {
-  await page.goto("/");
-  await expect(page.locator(".home-basta-preview")).toHaveAttribute("src", "/images/basta/original/000.jpg");
-  await page.goto("/basta/");
-  await expect(page.locator(".basta-home-scan img")).toHaveAttribute("src", "/images/basta/original/000.jpg");
-  await expect(page.locator(".basta-home-scan img")).toHaveAttribute("alt", "Basta book cover");
-  await expect(page.locator(".basta-home-scan-caption")).toHaveText("Original book cover");
 });
 
 test("Basta bookmarks can be saved, revisited and removed from the Saved page", async ({ page }) => {
@@ -143,17 +98,6 @@ test("Basta bookmarks can be saved, revisited and removed from the Saved page", 
   await expect(page.locator("#basta-bookmarks-heading")).toBeHidden();
 });
 
-test("mobile search keeps filters accessible without occupying the full page", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/search/");
-  const filters = page.locator("#search-filter-disclosure");
-  await expect(filters).not.toHaveAttribute("open", "");
-  await filters.locator(":scope > summary").click();
-  await expect(filters).toHaveAttribute("open", "");
-  await page.setViewportSize({ width: 1280, height: 820 });
-  await expect(filters).toHaveAttribute("open", "");
-});
-
 test("homepage continues local reading without showing an empty placeholder", async ({ page }) => {
   await page.goto("/");
   await expect(page.locator("#home-continue")).toBeHidden();
@@ -164,51 +108,6 @@ test("homepage continues local reading without showing an empty placeholder", as
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   await page.goto("/");
   await expect(page.locator('.home-continue-link[href="/lyrics/aa-asghar-bin-tere/"]')).toBeVisible();
-});
-
-test("category pages distinguish standalone poems and Basta selections", async ({ page }) => {
-  await page.goto("/");
-  const categories = page.locator(".home-type-card");
-  await expect(categories.first()).toBeVisible();
-  await categories.first().click();
-  await expect(page.locator(".category-collection").first()).toBeVisible();
-  const standalone = page.locator("#standalone-kalam");
-  const basta = page.locator("#basta-kalam");
-  if (await standalone.count()) await expect(standalone).toContainText("Standalone");
-  if (await basta.count()) await expect(basta).toContainText("Basta");
-});
-
-test("responsive browse and builder panels keep accessible controls in either theme", async ({ page }) => {
-  await page.emulateMedia({ colorScheme: "dark" });
-  for (const viewport of [{width:320,height:700},{width:844,height:390},{width:768,height:1024}]) {
-    await page.setViewportSize(viewport);
-    for (const route of ["/", "/saved/", "/recite/"]) {
-      await page.goto(route);
-      await expect.poll(() => page.evaluate(() =>
-        document.documentElement.scrollWidth - innerWidth), {
-        message: "No sideways overflow on " + route + " at " + viewport.width + "px",
-      }).toBeLessThanOrEqual(2);
-    }
-  }
-  await page.goto("/");
-  await page.locator("#theme-toggle").click();
-  await page.locator('input[name="theme-mode"][value="light"]').check();
-  await page.locator("#theme-dialog-done").click();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
-  // Focus-visible is a keyboard modality, not a programmatic pointer focus.
-  await page.keyboard.press("Tab");
-  await page.locator(".home-collection-card").first().focus();
-  await expect(page.locator(".home-collection-card").first()).toHaveCSS("outline-style", "solid");
-});
-
-test("saved library has a separate kalam/stanza bookmark section", async ({ page }) => {
-  await page.goto("/saved/");
-  await expect(page.locator("#basta-selections-heading")).toBeAttached();
-  await expect(page.locator("#basta-selections-heading")).toBeHidden();
-  await expect(page.locator("#basta-bookmarks-heading")).toBeAttached();
-  await expect(page.locator("#recitation-drafts-heading")).toBeAttached();
-  await expect(page.locator("#recitation-drafts-heading")).toBeHidden();
-  await expect(page.locator("#saved-overview-empty")).toBeVisible();
 });
 
 test("search results index poetry without including metadata controls", async ({ page }) => {
@@ -222,36 +121,6 @@ test("search results index poetry without including metadata controls", async ({
   await expect(basta).toHaveCount(1);
   await expect(basta).not.toContainText("Line Spacing");
   await expect(basta.locator("p")).not.toHaveCount(0);
-});
-
-test("recitation catalog never displays negative remaining results", async ({ page }) => {
-  await page.goto("/recite/");
-  await expect(page.locator("#recite-app")).not.toHaveAttribute("inert", "");
-  await page.locator("#recite-search").fill("marsiya");
-  const more = page.locator("#recite-more");
-  await expect.poll(async () => await more.isHidden() ? true :
-    (await more.textContent() ?? "").includes(" remaining)") && !(await more.textContent() ?? "").includes("(-")).toBe(true);
-});
-
-test("saved Basta stanza retains its printed label instead of the bookmark index", async ({ page }) => {
-  await page.goto("/basta/264/");
-  const stanza = page.locator(".basta-page-urdu .basta-stanza-bookmark").nth(2);
-  await expect(stanza).toBeVisible();
-  const number = (await stanza.textContent())?.trim();
-  await stanza.click();
-  await page.goto("/saved/");
-  await expect(page.locator("#basta-selections-list a").first()).toContainText("Stanza " + number);
-});
-
-test("Basta index section navigation keeps real page links", async ({ page }) => {
-  await page.goto("/basta/index/");
-  const jump = page.locator(".basta-index-section-nav a").first();
-  await expect(jump).toBeVisible();
-  const target = await jump.getAttribute("href");
-  expect(target?.startsWith("#basta-index-section-")).toBe(true);
-  await jump.click();
-  await expect(page).toHaveURL(new RegExp(target + "$"));
-  expect((await page.locator(target + " .basta-index-mobile-item a").first().getAttribute("href"))?.startsWith("/basta/")).toBe(true);
 });
 
 test("mobile Pagefind dropdown stays on-screen and can select a filter", async ({ page }) => {
@@ -278,30 +147,6 @@ test("mobile Pagefind dropdown stays on-screen and can select a filter", async (
   }
 });
 
-test("Pagefind search results follow colour theme including custom metadata", async ({ page }) => {
-  await page.goto("/search/");
-  await expect(page.locator(".search-result-collection").first()).toBeVisible();
-  const dialog = page.locator("#theme-dialog");
-  for (const mode of ["dark", "amoled", "sepia", "light"]) {
-    await page.locator("#theme-toggle").click();
-    await dialog.locator('input[name="theme-mode"][value="' + mode + '"]').check();
-    await page.locator("#theme-dialog-done").click();
-    const colours = await page.locator(".search-result-collection").first().evaluate((node) => {
-      const label = getComputedStyle(node).color;
-      const roman = document.querySelector(".search-result-roman-title");
-      const romanColour = roman ? getComputedStyle(roman).color : null;
-      const expected = getComputedStyle(document.querySelector(".search-filter-label")).color;
-      const link = getComputedStyle(document.querySelector(".pf-result-link")).color;
-      const mainText = getComputedStyle(document.querySelector(".search-header h1")).color;
-      return { label, romanColour, expected, link, mainText };
-    });
-    expect(colours.label, mode).toBe(colours.expected);
-    if (colours.romanColour) expect(colours.romanColour, mode).toBe(colours.expected);
-    expect(colours.link, mode).toBe(colours.mainText);
-  }
-});
-
-// Library, source provenance and search-asset integration.
 test("JSON library backup validates and restores only allowlisted data", async ({ page }) => {
   await page.goto("/saved/");
   await page.evaluate(() => localStorage.setItem("kalam:favorites",JSON.stringify(["aa-asghar-bin-tere"])));

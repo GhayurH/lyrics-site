@@ -13,7 +13,7 @@ npm run perf:assets
 npm run perf:browser  # Optional, non-gating browser measurements
 ```
 
-GitHub Actions runs full functional Chromium for shared code changes and weekly on Sunday. Source/identity checks run during the build. The generated `basta-editorial-review` workflow artifact links unresolved index entries and fragments to their original scans.
+GitHub Actions runs **smoke Chromium on every PR and main push**, and **full Chromium every Sunday**, through manual workflow dispatch, or when the latest commit contains `[full-ci]`. Node unit and identity checks run during every build; Astro diagnostics run when `.astro`, TypeScript or JavaScript sources change (or during full scheduled/manual runs). The Sunday full run generates the `basta-editorial-review` scan-linked artifact. Run `npm run test:browser` locally when changing an integration not covered by smoke.
 
 ## Viewports and input
 
