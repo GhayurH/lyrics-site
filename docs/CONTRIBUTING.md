@@ -21,6 +21,7 @@ npm run basta:index:check
 npm run content:review       # Every source needing editorial review (Basta and standalone)
 npm run content:review -- --markdown > review.md # Scan-linked review report
 npm run content:review -- --json                 # Machine-readable findings
+npm run --silent content:review -- --csv > review.csv # UTF-8 spreadsheet queue
 npm run content:review -- --strict               # Nonzero exit if review queue is not empty
 npm run basta:index:sync    # Only for reviewed index corrections
 npm run basta:breaks:rebuild # Only for reviewed source boundaries

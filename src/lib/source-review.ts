@@ -46,7 +46,9 @@ const arabic = /\p{Script=Arabic}/u;
 const latin = /\p{Script=Latin}/u;
 const unusualLatin = /[^\x00-\x7f]/u;
 const romanDigits = /[٠-٩۰-۹]/u;
-const commonPlaceholders = /(?:\b(?:TODO|TBD|FIXME|OCR|PLACEHOLDER)\b|\[(?:[^\]]*(?:unclear|illegible|غیر واضح|نامعلوم|مبہم)[^\]]*)\])/iu;
+const commonPlaceholders = /(?:\b(?:TODO|TBD|FIXME|OCR|PLACEHOLDER)\b|\?{2,})/iu;
+const urduUncertainty = /(?:جزوی\s*طور\s*پر\s*غیر\s*واضح|غیر\s*واضح|واضح\s*نہیں|مبہم|نامعلوم|نامکمل|ناقابل[ِ\s-]*(?:قرأت|قراءت|قرأت|خواندگی)|پڑھ(?:ا|ی|ے)?\s*نہیں\s*(?:جا\s*)?سک(?:ا|ی|ے)?)/iu;
+const romanUncertainty = /(?:juzwi\s+taur\s+par\s+ghair[-\s]?wazeh|ghair[-\s]?wazeh|wazeh\s+nah(?:i|ee)n|na[-\s]?qabil[-\s]?e[-\s]?(?:qiraat|parhna|khwandagi)|\b(?:unclear|illegible|unknown|incomplete|unreadable)\b|\bnot\s+clear\b|\bcannot\s+read\b)/iu;
 const invisible = /[\u200B\u200C\u200D\u200E\u200F\u202A-\u202E\u2066-\u2069\uFEFF]/u;
 
 function checkLines(path: string, text: string, firstLine: number, script: "urdu" | "roman", issues: ReviewFinding[]): void {
@@ -56,8 +58,11 @@ function checkLines(path: string, text: string, firstLine: number, script: "urdu
     if (/\uFFFD/u.test(line)) record(issues, path, sourceLine, "replacement-character", "Unicode replacement character (�)");
     if (/\t/u.test(line)) record(issues, path, sourceLine, "tab", "Tab inside source text");
     if (invisible.test(line)) record(issues, path, sourceLine, "invisible-character", "Invisible/bidirectional control character; confirm intentional use");
-    if (commonPlaceholders.test(line)) record(issues, path, sourceLine, "unverified-text", "Editorial/OCR placeholder present");
-    if (/(?:Ã.|Â.|â€|�)/u.test(line)) record(issues, path, sourceLine, "encoding", "Possible misdecoded text");
+    if (commonPlaceholders.test(line) ||
+        (script === "urdu" ? urduUncertainty : romanUncertainty).test(line))
+      record(issues, path, sourceLine, "unverified-text", "Editorial/OCR uncertainty or placeholder present");
+    if (/(?:ï¿½|Ã.|Â.|â€|Ø.|Ù.|�)/u.test(line))
+      record(issues, path, sourceLine, "encoding", "Possible misdecoded text");
     const otherScript = [...line].some(ch => /\p{L}/u.test(ch) && !latin.test(ch) && !arabic.test(ch));
     if (otherScript)
       record(issues, path, sourceLine, "unexpected-script", "Letter from an unexpected script: " + line.trim().slice(0, 95));

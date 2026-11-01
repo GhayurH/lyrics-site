@@ -9,20 +9,20 @@ import { auditBastaEditorial } from "../src/lib/basta-editorial-audit.ts";
 import { compareEditions, reviewMarkdown } from "../src/lib/source-review.ts";
 
 const flags = new Set(process.argv.slice(2));
-const allowed = new Set(["--json", "--markdown", "--summary", "--strict", "--help"]);
+const allowed = new Set(["--json", "--markdown", "--csv", "--summary", "--strict", "--help"]);
 if ([...flags].some(x => !allowed.has(x))) {
-  console.error("Usage: npm run content:review -- [--json|--markdown|--summary] [--strict]");
+  console.error("Usage: npm run content:review -- [--json|--markdown|--csv|--summary] [--strict]");
   process.exit(2);
 }
 if (flags.has("--help")) {
   console.log("Read-only editorial audit of ALL Basta and standalone Markdown sources.");
   console.log("Default: list every file needing review with line references and findings.");
-  console.log("--markdown: complete scan-linked report; --json: machine-readable report;");
+  console.log("--markdown: scan-linked report; --json: structured report; --csv: spreadsheet-ready findings;");
   console.log("--summary: counts only; --strict: fail when unresolved review findings exist.");
   process.exit(0);
 }
-if (flags.has("--json") && flags.has("--markdown")) {
-  console.error("Choose one report format: --json or --markdown");
+if (["--json", "--markdown", "--csv", "--summary"].filter(x => flags.has(x)).length > 1) {
+  console.error("Choose only one report format");
   process.exit(2);
 }
 
@@ -152,7 +152,13 @@ const intro = "Audited " + (lyrics.length + urdu.length + roman.length) +
   " Markdown files (" + lyrics.length + " standalone, " + urdu.length +
   " Basta Urdu, " + roman.length + " Basta Roman). " + files.length +
   " files need review (" + all.length + " findings).";
-if (flags.has("--json")) console.log(JSON.stringify(report, null, 2));
+if (flags.has("--csv")) {
+  // UTF-8 BOM lets spreadsheet applications recognize Urdu without re-encoding.
+  const quote = value => '"' + String(value ?? "").replaceAll('"', '""') + '"';
+  console.log("\uFEFF" + ["file", "line", "check", "detail", "source_scan"].map(quote).join(","));
+  for (const file of files) for (const item of file.issues)
+    console.log([file.path, item.line, item.code, item.detail, file.scan ?? ""].map(quote).join(","));
+} else if (flags.has("--json")) console.log(JSON.stringify(report, null, 2));
 else if (flags.has("--summary")) {
   console.log(intro);
   for (const [code, count] of Object.entries(byCode)) console.log("  " + code + ": " + count);
@@ -180,6 +186,6 @@ else if (flags.has("--summary")) {
       (file.scan ? " · scan: " + file.scan : ""));
     for (const f of file.issues) console.log("  L" + f.line + " [" + f.code + "] " + f.detail);
   }
-  console.log("\nRun with --markdown for a scan-linked report, --json for structured data, or --summary for counts.");
+  console.log("\nRun with --markdown for scan links, --csv for spreadsheet review, --json for structured data, or --summary for counts.");
 }
 if (flags.has("--strict") && all.length) process.exitCode = 1;

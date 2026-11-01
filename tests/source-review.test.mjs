@@ -81,3 +81,9 @@ test("flags other writing systems and the established Roman name conventions", (
   assert(codes.includes("roman-name-style"));
   assert(codes.includes("unexpected-script"));
 });
+
+test("detects OCR uncertainty markers outside brackets in both scripts", () => {
+  const file = reviewMarkdown({ path: "src/data/lyrics/uncertain.md", kind: "lyrics",
+    text: lyric("متن نامکمل", "Matn ghair wazeh") });
+  assert.equal(file.issues.filter(x => x.code === "unverified-text").length, 2);
+});
