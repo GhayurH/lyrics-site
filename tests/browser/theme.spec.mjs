@@ -503,7 +503,7 @@ test("Urdu font families are available as bundled web fonts", async ({ page }) =
     getComputedStyle(node).fontFamily)).toContain("Beaconhouse Nastaliq");
 });
 
-test("switching Urdu fonts optically resizes every reading surface and keeps verses single-line", async ({ page }) => {
+test("switching Urdu fonts optically resizes every reading surface and keeps verses single-line @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 820 });
   for (const [url, panel, verse] of [
     ["/lyrics/chhane-lagi-shaam-e-ghareeban/", ".lyric-reading-urdu", ".lyric-reading-urdu .lyric-verse"],
