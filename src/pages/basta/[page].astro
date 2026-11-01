@@ -13,6 +13,7 @@ import { loadBastaNavigationData, loadBastaRomanByPage } from "../../lib/basta-p
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
 import "../../styles/basta.css";
+import "../../styles/corrections.css";
 
 const typedIndexEntries = indexEntries as BastaIndexEntry[];
 const { indexStartPage, indexEndPage } = settings;
@@ -128,6 +129,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       </div>
 
       <h1 data-pagefind-meta="title">Basta — Page {page}</h1>
+      <button type="button" class="basta-report-correction" data-correction-open data-source-id={`basta-page-${page}`} data-source-page={String(page)}>Suggest correction</button>
 
       <div class="pagefind-data" aria-hidden="true">
         <span data-pagefind-filter="collection">Basta</span>
@@ -245,10 +247,12 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
     import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initScanViewer } from "../../client/scan-viewer";
+    import { initCorrectionDialog } from "../../client/corrections";
     import { initReadingProgress } from "../../client/reading-progress";
     initReadingControls();
     initVerseFitting();
     initScanViewer();
+    initCorrectionDialog();
     initReadingProgress();
     initSyncedColumns();
   </script>

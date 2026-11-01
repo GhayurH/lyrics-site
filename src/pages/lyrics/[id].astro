@@ -10,6 +10,7 @@ import LyricVerses from "../../components/LyricVerses.astro";
 import FavoriteButton from "../../components/FavoriteButton.astro";
 import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-data";
 import "../../styles/lyrics.css";
+import "../../styles/corrections.css";
 import {
   getLyricKalamType,
   searchUrl,
@@ -110,6 +111,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
 
         <div class="lyric-header-actions" data-pagefind-ignore>
            <FavoriteButton lyricId={lyric.id} />
+           <button type="button" class="lyric-add-recitation" data-correction-open data-source-id={lyric.id}>Suggest correction</button>
            <a class="lyric-add-recitation" href={`/recite/?add=${encodeURIComponent("lyric:" + lyric.id)}`}>Add to set</a>
         </div>
       </div>
@@ -354,6 +356,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initScanViewer } from "../../client/scan-viewer";
+    import { initCorrectionDialog } from "../../client/corrections";
 
     const lyricPage = document.querySelector<HTMLElement>("[data-lyric-id]");
     if (lyricPage?.dataset.lyricId) {
@@ -362,6 +365,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     initReadingControls();
     initVerseFitting();
     initScanViewer();
+    initCorrectionDialog();
     initSyncedColumns();
   </script>
 </BaseLayout>
