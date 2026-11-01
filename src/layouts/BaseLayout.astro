@@ -25,6 +25,7 @@ import "@fontsource/markazi-text/arabic-700.css";
 import "@fontsource/noto-sans-arabic/arabic-400.css";
 import "@fontsource/noto-sans-arabic/arabic-700.css";
 import { FONT_CHOICES } from "../client/fonts";
+import { PRESET_THEME_GROUPS, PRESET_THEME_NAMES, DARK_THEME_NAMES } from "../client/theme";
 import "../styles/core.css";
 
 
@@ -70,12 +71,12 @@ const aboutActive = path.startsWith("/about/");
     <script is:inline define:vars={{ fontOptions: {
       urdu: FONT_CHOICES.urdu.map((choice) => choice.value),
       roman: FONT_CHOICES.roman.map((choice) => choice.value),
-    } }}>
+    }, presetThemes: PRESET_THEME_NAMES, darkThemes: DARK_THEME_NAMES }}>
       (() => {
         const root = document.documentElement;
         let savedMode;
         try { savedMode = localStorage.getItem("theme"); } catch {}
-        const mode = ["light", "dark", "amoled", "sepia", "custom"].includes(savedMode)
+        const mode = [...presetThemes, "custom"].includes(savedMode)
           ? savedMode : (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
         root.dataset.jsAvailable = "true";
         root.dataset.theme = mode;
@@ -144,11 +145,12 @@ const aboutActive = path.startsWith("/about/");
           })) root.style.setProperty(key, value);
           root.dataset.pfTheme = scheme;
         } else {
-          root.dataset.pfTheme = mode === "dark" || mode === "amoled" ? "dark" : "light";
+          root.dataset.pfTheme = darkThemes.includes(mode) ? "dark" : "light";
         }
+        const background = getComputedStyle(root).getPropertyValue("--site-background").trim();
         document.querySelector('meta[name="theme-color"]')?.setAttribute("content",
           mode === "custom" ? root.style.getPropertyValue("--theme-main")
-          : mode === "sepia" ? "#f4ead6" : mode === "amoled" ? "#000000" : mode === "dark" ? "#171719" : "#f7f7f8");
+          : /^#[0-9a-f]{6}$/i.test(background) ? background : "#171719");
       })();
     </script>
   </head>
@@ -203,11 +205,19 @@ const aboutActive = path.startsWith("/about/");
       </div>
       <fieldset class="theme-presets">
         <legend>Theme</legend>
-        <label class="theme-preset"><input type="radio" name="theme-mode" value="light" /><span class="theme-preset-swatch" data-preset-swatch="light" aria-hidden="true"></span>Light</label>
-        <label class="theme-preset"><input type="radio" name="theme-mode" value="dark" /><span class="theme-preset-swatch" data-preset-swatch="dark" aria-hidden="true"></span>Dark</label>
-        <label class="theme-preset"><input type="radio" name="theme-mode" value="amoled" /><span class="theme-preset-swatch" data-preset-swatch="amoled" aria-hidden="true"></span>AMOLED Dark</label>
-        <label class="theme-preset"><input type="radio" name="theme-mode" value="sepia" /><span class="theme-preset-swatch" data-preset-swatch="sepia" aria-hidden="true"></span>Sepia</label>
-        <label class="theme-preset"><input type="radio" name="theme-mode" value="custom" /><span class="theme-preset-swatch" data-preset-swatch="custom" aria-hidden="true"></span>Custom</label>
+        {PRESET_THEME_GROUPS.map((group) => (
+          <>
+            <div class="theme-preset-group">{group.label}</div>
+            {group.themes.map((theme) => (
+              <label class="theme-preset">
+                <input type="radio" name="theme-mode" value={theme.id} />
+                <span class="theme-preset-swatch" data-preset-swatch={theme.id} aria-hidden="true"></span>
+                {theme.label}
+              </label>
+            ))}
+          </>
+        ))}
+        <label class="theme-preset theme-preset-custom"><input type="radio" name="theme-mode" value="custom" /><span class="theme-preset-swatch" data-preset-swatch="custom" aria-hidden="true"></span>Custom</label>
       </fieldset>
       <fieldset class="theme-custom-fields" id="theme-custom-fields" hidden>
         <legend>Custom colours</legend>
