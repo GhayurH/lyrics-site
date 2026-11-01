@@ -59,6 +59,34 @@ test("Focus mode retains its independent Options behavior", async ({ page }) => 
   await expect(controls.locator("[data-reading-regular-toggle]")).toBeVisible();
 });
 
+test("Focus Options aligns fullscreen with line spacing on mobile and desktop @smoke", async ({ page }) => {
+  for (const viewport of [{ width: 390, height: 844 }, { width: 1280, height: 820 }]) {
+    await page.setViewportSize(viewport);
+    await page.goto("/lyrics/na-bhool-kar-bhi/?reading=1");
+    const controls = page.locator("[data-reading-controls]");
+    await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
+    await controls.locator("[data-reading-focus-options]").click();
+
+    const fullscreen = controls.locator("[data-reading-fullscreen-toggle]");
+    const spacing = controls.locator("[data-reading-line-spacing]");
+    // The button is intentionally hidden when the browser lacks the Fullscreen API.
+    if (!(await page.evaluate(() => document.fullscreenEnabled))) {
+      await expect(fullscreen).toBeHidden();
+      continue;
+    }
+    await expect(fullscreen).toBeVisible();
+    await expect(spacing).toBeVisible();
+    await expect(fullscreen).toHaveCSS("align-self", "flex-end");
+
+    const buttonBox = await fullscreen.boundingBox();
+    const selectBox = await spacing.boundingBox();
+    expect(buttonBox).not.toBeNull();
+    expect(selectBox).not.toBeNull();
+    expect(Math.abs(buttonBox.y + buttonBox.height - selectBox.y - selectBox.height))
+      .toBeLessThanOrEqual(2);
+  }
+});
+
 test("desktop readers keep their complete controls visible", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 820 });
   await page.goto("/basta/read/");
