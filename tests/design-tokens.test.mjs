@@ -79,15 +79,22 @@ test("all referenced shared reading tokens resolve, including spacing presets", 
       assert(declared.has(variable), file + " references undefined " + variable);
     }
   }
-  for (const [file, prefix] of [["basta.css", "basta-page"], ["basta-reader.css", "basta"]]) {
-    for (const mode of ["compact", "relaxed"]) {
-      for (const language of ["urdu", "roman"]) {
-        assert.match(css[file], new RegExp("--" + prefix + "-" + language
-          + "-leading: var\\(--reading-" + language + "-leading-" + mode + "\\)"),
-          file + " must preserve the " + mode + " " + language + " line spacing");
-      }
+  const policy = css["reading-columns.css"];
+  for (const mode of ["compact", "relaxed"]) {
+    assert.match(policy, new RegExp('\\[data-reading-root\\]\\[data-line-spacing="' + mode + '"\\]'),
+      mode + " spacing must be defined once in the shared policy");
+    for (const name of ["urdu", "roman", "lyric-urdu", "index-urdu", "index-roman"]) {
+      assert.match(policy, new RegExp("--reading-active-" + name + "-leading:"),
+        "missing active spacing for " + name);
     }
   }
+  for (const file of ["lyrics.css", "basta.css", "basta-reader.css", "recitation.css"]) {
+    assert.doesNotMatch(css[file], /\\[data-line-spacing="(?:compact|relaxed)"\\]/,
+      file + " must not duplicate the shared reading spacing selectors");
+  }
+  assert.match(css["core.css"], /:is\\(\\.lyric-verse, \\.basta-verse-poetry\\)/);
+  assert.doesNotMatch(css["basta.css"], /\\.basta-verse-poetry\\s*\\{/);
+  assert.doesNotMatch(css["lyrics.css"], /\\.lyric-verse\\s*\\{/);
 });
 
 test("feature-page widths and shared component radii come from semantic tokens", () => {
