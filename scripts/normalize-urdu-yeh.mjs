@@ -20,6 +20,9 @@ function isArabicLine(filePath, line, inBody) {
   if (filePath.includes("/basta/pages/") && PARTIAL_ARABIC_PAGES.has(base)) {
     return (line.match(ARABIC_VOWELS) ?? []).length >= 2 && !URDU_LETTERS.test(line);
   }
+  // Quotations embedded in Urdu prose are protected individually below.
+  // Do not exempt the surrounding Urdu text merely because the quotes have diacritics.
+  if (/[“”«»]/.test(line)) return false;
   // Fully vowelled Arabic quotations, not Urdu poetry with occasional diacritics.
   return (line.match(ARABIC_VOWELS) ?? []).length >= 4 && !URDU_LETTERS.test(line)
     && /[\u064A\u0649]/.test(line);
