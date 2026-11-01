@@ -169,6 +169,9 @@
     grid-template-columns: minmax(0, 1fr);
   }
   .lyric-reading-grid[data-reading-columns] { display: flex; flex-direction: column; }
+  /* Single-edition grid centering becomes vertical in a flex column and can
+     place the first stanzas above the scrollable viewport in Focus Mode. */
+  .lyric-reading-grid[data-reading-columns][data-reading-mode] { justify-content: flex-start; }
   .lyric-reading-grid[data-reading-columns] > :is(.lyric-reading-image,.lyric-reading-panel) { width: 100%; }
   .lyric-reading-grid[data-reading-columns] .lyric-reading-roman { border-right: 0; border-top: var(--ui-border); }
   .basta-page-grid[data-reading-root] { grid-template-areas: "scan" "text"; grid-template-columns: minmax(0,1fr); }
