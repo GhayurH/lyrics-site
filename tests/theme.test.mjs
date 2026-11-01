@@ -150,7 +150,7 @@ test("all reading presets have readable text and actions on their actual surface
     const values = [luminance(a), luminance(b)].sort((x, y) => y - x);
     return (values[0] + .05) / (values[1] + .05);
   };
-  assert.equal(PRESET_THEME_NAMES.length, curated.length + 4);
+  assert.equal(PRESET_THEME_NAMES.length, curated.length + 5);
   for (const id of curated) {
     assert(PRESET_THEME_NAMES.includes(id), "preset not selectable: " + id);
     assert(isThemeName(id));

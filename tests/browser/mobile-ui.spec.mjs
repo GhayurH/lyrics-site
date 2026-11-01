@@ -177,7 +177,7 @@ test("mobile readers start with an uncluttered Urdu view while desktop Basta sta
 test("appearance follows the device until the reader chooses otherwise", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "light" });
   await page.goto("/");
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
   await page.locator("#theme-toggle").click();
   await page.locator('#theme-dialog input[value="dark"]').check();
   await page.locator("#theme-dialog-done").click();

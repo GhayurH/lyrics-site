@@ -8,6 +8,9 @@ test("curated palette switching, Custom inheritance and persistence @smoke", asy
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
   for (const name of names) {
+    const group = ["dusk", "forest", "plum", "graphite"].includes(name) ? "Dark reading" : "Light reading";
+    const disclosure = dialog.locator('details[data-theme-collection="' + group + '"]');
+    if (!(await disclosure.evaluate((node) => node.open))) await disclosure.locator("summary").click();
     await dialog.locator('input[name="theme-mode"][value="' + name + '"]').check();
     await expect(page.locator("html")).toHaveAttribute("data-theme", name);
     const colors = await page.locator("html").evaluate((root) => {
@@ -22,7 +25,7 @@ test("curated palette switching, Custom inheritance and persistence @smoke", asy
     });
     await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", colors.main);
     expect(colors.searchScheme).toBe(["dusk", "forest", "plum", "graphite"].includes(name) ? "dark" : "light");
-    await dialog.locator('input[name="theme-mode"][value="custom"]').check();
+    await dialog.locator("#theme-edit-current").click();
     for (const role of ["main", "secondary", "accent", "primaryText", "mutedText", "borders"])
       await expect(dialog.locator("#theme-" + role)).toHaveValue(colors[role]);
   }
@@ -38,7 +41,8 @@ test("curated palette switching, Custom inheritance and persistence @smoke", asy
 test("light, dark and sepia presets persist between pages @smoke", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "dark" });
   await page.goto("/");
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
+  await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "dark");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
   await expect(dialog).toBeVisible();
@@ -177,7 +181,7 @@ test("Custom starts from whichever preset is active, including AMOLED", async ({
   ];
   for (const preset of presets) {
     await page.locator('#theme-dialog input[value="' + preset.name + '"]').check();
-    await page.locator('#theme-dialog input[value="custom"]').check();
+    await page.locator("#theme-edit-current").click();
     for (const field of ["main", "secondary", "accent"]) {
       await expect(page.locator("#theme-" + field)).toHaveValue(preset[field]);
     }
@@ -225,7 +229,7 @@ test("Dark and AMOLED preserve Auto typography until Custom surfaces actually ch
   await page.locator("#theme-toggle").click();
   for (const [name, ink] of [["dark", "#ededed"], ["amoled", "#f5f5f5"]]) {
     await page.locator('#theme-dialog input[value="' + name + '"]').check();
-    await page.locator('#theme-dialog input[value="custom"]').check();
+    await page.locator("#theme-edit-current").click();
     // The Advanced section is hidden until Custom is selected. Open it only
     // once, retaining its expanded state when moving between presets.
     const advanced = page.locator("#theme-advanced");
@@ -353,6 +357,7 @@ test("font choices persist independently of themes; Roman verses justify @smoke"
   await page.goto("/lyrics/na-bhool-kar-bhi/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
+  await dialog.locator("#theme-fonts-tab").click();
   await dialog.locator("#theme-urdu-font").selectOption("naskh");
   await dialog.locator("#theme-roman-font").selectOption("serif");
   await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "naskh");
@@ -366,6 +371,7 @@ test("font choices persist independently of themes; Roman verses justify @smoke"
     return [style.textAlign, style.textAlignLast, style.whiteSpace];
   });
   expect(verse).toEqual(["justify", "justify", "nowrap"]);
+  await dialog.locator("#theme-colors-tab").click();
   await dialog.locator('input[value="amoled"]').check();
   await expect(page.locator("html")).toHaveAttribute("data-roman-font", "serif");
   await page.locator("#theme-dialog-done").click();
@@ -382,6 +388,7 @@ test("new language fonts select and persist across pages without altering colour
   await page.goto("/lyrics/na-bhool-kar-bhi/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
+  await dialog.locator("#theme-fonts-tab").click();
   const urduPicker = dialog.locator("#theme-urdu-font");
   const romanPicker = dialog.locator("#theme-roman-font");
   for (const [value, family] of [
@@ -416,6 +423,7 @@ test("new language fonts select and persist across pages without altering colour
 test("Urdu font families are available as bundled web fonts @smoke", async ({ page }) => {
   await page.goto("/lyrics/na-bhool-kar-bhi/");
   await page.locator("#theme-toggle").click();
+  await page.locator("#theme-fonts-tab").click();
   const selector = page.locator("#theme-urdu-font");
   for (const [option, family] of [
     ["gulzar", "Gulzar"],
@@ -450,6 +458,7 @@ test("font choices preview without changing navigation or overflowing a phone @s
   await page.reload();
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
+  await dialog.locator("#theme-fonts-tab").click();
   const roman = dialog.locator("#theme-roman-font");
   await expect(roman).toHaveValue("sans");
   await expect(roman.locator("option")).toHaveCount(6);
