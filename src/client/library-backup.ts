@@ -71,20 +71,67 @@ export function initLibraryBackup(): void {
     finally { input.value = ""; }
   });
 
-  async function saveOffline(urls: string[]) {
+  async function sendWorker(type: string, payload: Record<string,unknown> = {}): Promise<Record<string,unknown>> {
+    if (!("serviceWorker" in navigator)) throw Error("Offline service unavailable");
     const ready = await Promise.race([navigator.serviceWorker.ready,
       new Promise<never>((_,reject)=>setTimeout(()=>reject(Error("Offline worker unavailable")),7000))]);
     if (!ready.active) throw Error("Offline worker unavailable");
     const channel = new MessageChannel();
-    channel.port1.onmessage = (event) => {
-      const { saved=0, failed=0 } = event.data || {};
-      say(saved + " pages saved offline" + (failed ? "; " + failed + " failed" : "") +
-        ". Source scans and full search need a connection.");
-      channel.port1.close();
-    };
-    say("Saving " + urls.length + " pages…");
-    ready.active.postMessage({type:"SAVE_PAGES",urls},[channel.port2]);
+    return await new Promise<Record<string,unknown>>((resolve,reject) => {
+      const timer = setTimeout(() => { channel.port1.close(); reject(Error("Offline task timed out")); },180000);
+      channel.port1.onmessage = (event) => {
+        clearTimeout(timer); channel.port1.close();
+        if (event.data?.ok) resolve(event.data);
+        else reject(Error(event.data?.error || "Offline task failed"));
+      };
+      ready.active!.postMessage({type,...payload},[channel.port2]);
+    });
   }
+  async function refreshOfflineStatus(): Promise<void> {
+    try {
+      const result = await sendWorker("CACHE_STATUS");
+      const status = document.getElementById("saved-cache-status");
+      if (status) status.textContent = [
+        result.pages + " pages",result.scans + " scans",result.search + " search files",
+      ].join(" · ") + " stored offline";
+    } catch { /* Unavailable in blocked or non-secure contexts. */ }
+  }
+  async function saveOffline(urls: string[]): Promise<void> {
+    if (!urls.length) throw Error("Select pages first");
+    const includeScans = document.querySelector<HTMLInputElement>("#offline-include-scans")?.checked === true;
+    const scanPages = urls.flatMap((url) => {
+      const match = url.match(/^\/basta\/(\d{1,3})\/$/);
+      return match ? [Number(match[1])] : [];
+    });
+    if (includeScans) {
+      const response = await fetch("/data/basta-kalams.json");
+      if (response.ok) {
+        const catalog = await response.json();
+        for (const url of urls) {
+          const match = url.match(/^\/basta\/kalam\/(basta-[a-z0-9-]+)\/$/);
+          const found = match && catalog.kalams?.find((item: {id:string}) => item.id === match[1]);
+          if (found) scanPages.push(...(found.pages as number[]));
+        }
+      }
+    }
+    if (includeScans && scanPages.length > 20 &&
+        !confirm("This may download " + scanPages.length + " large original scan images. Continue?"))
+      return;
+    say("Downloading " + urls.length + " reading pages" + (includeScans ? " and source scans" : "") + "…");
+    const result = await sendWorker("SAVE_PAGES",{urls,scanPages,includeScans});
+    say(result.saved + " pages saved" + (result.scans ? " and " + result.scans + " source scans" : "") +
+      (result.failed || result.scanFailed ? "; some downloads failed" : "") + ".");
+    await refreshOfflineStatus();
+  }
+  document.getElementById("saved-cache-search")?.addEventListener("click", async () => {
+    if (!confirm("Save the full Pagefind search index for offline use? It can require tens of MB of storage.")) return;
+    say("Downloading the complete search index for offline use…");
+    try {
+      const result = await sendWorker("SAVE_SEARCH");
+      say("Search index saved (" + result.saved + " files). Saved searches work without a connection.");
+      await refreshOfflineStatus();
+    } catch (e) { say((e as Error).message); }
+  });
   document.getElementById("saved-cache-range")?.addEventListener("click", async () => {
     if (!("serviceWorker" in navigator)) { say("Offline storage is unavailable."); return; }
     const start = Number(document.querySelector<HTMLInputElement>("#offline-range-start")?.value);
@@ -113,7 +160,9 @@ export function initLibraryBackup(): void {
     catch(e) { say("Offline saving failed: " + (e as Error).message); }
   });
   document.getElementById("saved-cache-clear")?.addEventListener("click", async () => {
-    try { await caches.delete("kalam-offline-pages-v1"); say("Removed offline reading pages."); }
-    catch { say("Unable to remove offline pages."); }
+    if (!confirm("Remove all downloaded poetry pages, scans and offline search data?")) return;
+    try { await sendWorker("CLEAR_OFFLINE"); say("Offline copies removed."); await refreshOfflineStatus(); }
+    catch(e) { say((e as Error).message); }
   });
+  void refreshOfflineStatus();
 }

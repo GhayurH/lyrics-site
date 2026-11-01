@@ -33,3 +33,6 @@ html[data-js-available="true"] #saved-library:not([data-saved-settled="true"]) .
 .saved-data-actions input { max-width: 12rem; font-size: .8rem; }
 
 .saved-data-actions input[type="number"] { width: 4.3rem; padding: .3rem; background: var(--site-background); color: var(--primary-text); border: var(--ui-border); }
+
+.saved-data-actions input[type="checkbox"] { width: 1.1rem; height: 1.1rem; accent-color: var(--accent-color); }
+#saved-cache-status { font-size: .85rem; color: var(--secondary-text); }
