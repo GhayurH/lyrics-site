@@ -19,7 +19,7 @@ test("shared colours and dimensions are defined only by the token file", () => {
   for (const name of ["content-wide", "content-reading", "reading-single-width",
     "reading-scan-width", "reading-urdu-size", "reading-roman-size", "ui-target",
     "ui-radius", "ui-control-font-size", "ui-control-padding",
-    "surface-background", "primary-text", "border-colour"]) {
+    "surface-background", "primary-text", "border-colour", "reading-title-color"]) {
     assert.match(tokens, new RegExp("--" + name + ":"));
     for (const [file, source] of Object.entries(css)) {
       if (file !== "tokens.css") {
