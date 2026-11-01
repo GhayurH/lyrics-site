@@ -41,7 +41,7 @@ export function initCorrectionDialog(): void {
     <label>Selected text<textarea name="quote" rows="3" maxlength="1500"></textarea></label>
     <label>Suggested correction<textarea name="suggestion" required rows="4" maxlength="2500"></textarea></label>
     <div class="correction-actions"><button type="button" data-correction-send>Open email</button>
-      <button type="submit">Cancel</button></div>
+      <button type="submit" formnovalidate>Cancel</button></div>
     <p role="status" data-correction-message></p>
   </form>`;
   document.body.append(dialog);
@@ -72,7 +72,9 @@ export function initCorrectionDialog(): void {
     const quote = dialog.querySelector<HTMLTextAreaElement>('[name="quote"]')!;
     const suggestion = dialog.querySelector<HTMLTextAreaElement>('[name="suggestion"]')!;
     quote.value = (currentText || lastSelection?.text || "").slice(0,1500);
-    suggestion.value = ""; dialog.showModal(); suggestion.focus();
+    suggestion.value = "";
+    dialog.querySelector<HTMLElement>("[data-correction-message]")!.textContent = "";
+    dialog.showModal(); suggestion.focus();
   });
   dialog.querySelector("[data-correction-send]")?.addEventListener("click", () => {
     const quote = dialog.querySelector<HTMLTextAreaElement>('[name="quote"]')!.value;

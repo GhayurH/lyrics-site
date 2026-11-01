@@ -936,3 +936,24 @@ test("Escape dismisses Focus Options before exiting the reader", async ({ page }
   await page.keyboard.press("Escape");
   await expect(html).not.toHaveAttribute("data-reading-focus", "true");
 });
+
+test("mobile Focus scan leaves room before the Basta title @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/284/");
+  await page.locator("[data-reading-focus-enter]").click();
+  await page.locator("[data-reading-focus-options]").click();
+  const imageChoice = page.locator('[data-reading-column][value="image"]');
+  if (!(await imageChoice.isChecked())) await imageChoice.check();
+  await page.locator("[data-reading-focus-options]").click();
+  await page.evaluate(() => document.fonts.ready);
+
+  const scan = page.locator(".basta-original-page");
+  const title = page.locator(".basta-page-urdu .basta-kalam-title").first();
+  await expect(scan).toBeVisible();
+  await expect(title).toBeVisible();
+  const scanBox = await scan.boundingBox();
+  const titleBox = await title.boundingBox();
+  expect(scanBox).not.toBeNull();
+  expect(titleBox).not.toBeNull();
+  expect(titleBox.y - (scanBox.y + scanBox.height)).toBeGreaterThanOrEqual(16);
+});
