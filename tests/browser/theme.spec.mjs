@@ -517,14 +517,16 @@ test("switching Urdu fonts optically resizes every reading surface and keeps ver
     const before = await page.locator(panel).first().evaluate(el => parseFloat(getComputedStyle(el).fontSize));
     await page.locator("#theme-toggle").click();
     await page.locator("#theme-dialog").getByRole("tab", { name: "Fonts" }).click();
-    await page.locator("#theme-urdu-font").selectOption("naskh");
-    await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "naskh");
-    await expect.poll(() => page.locator(panel).first().evaluate(el =>
-      parseFloat(getComputedStyle(el).fontSize))).toBeGreaterThan(before * 1.2);
+    for (const [font, minimumScale] of [["naskh", 1.2], ["beaconhouse", 1.45]]) {
+      await page.locator("#theme-urdu-font").selectOption(font);
+      await expect(page.locator("html")).toHaveAttribute("data-urdu-font", font);
+      await expect.poll(() => page.locator(panel).first().evaluate(el =>
+        parseFloat(getComputedStyle(el).fontSize))).toBeGreaterThan(before * minimumScale);
+      await page.evaluate(() => document.fonts.ready);
+      await expect.poll(() => page.locator(verse).evaluateAll(lines =>
+        lines.filter(line => line.clientWidth && (line.scrollWidth > line.clientWidth + 2 ||
+          getComputedStyle(line).whiteSpace !== "nowrap")).length)).toBe(0);
+    }
     await page.locator("#theme-dialog-done").click();
-    await page.evaluate(() => document.fonts.ready);
-    await expect.poll(() => page.locator(verse).evaluateAll(lines =>
-      lines.filter(line => line.clientWidth && (line.scrollWidth > line.clientWidth + 2 ||
-        getComputedStyle(line).whiteSpace !== "nowrap")).length)).toBe(0);
   }
 });
