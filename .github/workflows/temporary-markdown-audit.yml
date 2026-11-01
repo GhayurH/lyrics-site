@@ -1,0 +1,17 @@
+name: Temporary Markdown corpus audit
+on:
+  push:
+    branches: [fix/urdu-font-sizing-and-yeh-normalization]
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node scripts/one-off-markdown-cleanup.mjs --audit
