@@ -1,22 +1,17 @@
 # Coding agent instructions
 
-This is the short operational entry point. Canonical details live in [CONTRIBUTING.md](docs/CONTRIBUTING.md) (content and validation), [ARCHITECTURE.md](docs/ARCHITECTURE.md) (implementation boundaries), [ASSET_WORKFLOW.md](docs/ASSET_WORKFLOW.md) (R2), and [RECITATION_SETS.md](docs/RECITATION_SETS.md) (source IDs and programme behavior), and [RECITATION_OPERATIONS.md](docs/RECITATION_OPERATIONS.md) (D1 and scheduled cleanup).
+Read [Contributing](docs/CONTRIBUTING.md) for editorial/validation rules, [Architecture](docs/ARCHITECTURE.md) for code ownership, [Assets](docs/ASSET_WORKFLOW.md) for R2, and [Recitation Sets](docs/RECITATION_SETS.md) / [Operations](docs/RECITATION_OPERATIONS.md) for publication and D1.
 
-## Non-negotiable invariants
+## Invariants
 
-- Preserve reviewed Urdu wording, harakat, punctuation, meaningful asterisks, line divisions, stanza numbering, Basta page numbers, and public URLs unless specifically asked to change them.
-- Use `src/content.config.ts` and the required `kalamType` model; do not recreate legacy category inference.
-- Keep R2 images/PDFs outside Git and preserve root-relative `/images/` and `/files/` URLs.
-- Keep published recitation IDs stable, including when moving or correcting source text; follow the ID maintenance guide.
-- Preserve server-rendered/no-JavaScript reading and the paired Basta `---***---` kalam boundaries.
-- Reuse `ReadingControls.astro`, `reader-state.ts`, and `reading-columns.css` rather than duplicating reader state or layout. Verses never wrap or horizontally scroll.
-- Keep static and streamed Basta markup consistent; keep scan links usable without JavaScript and missing editions explicit.
-- Roman Urdu uses **Husain**, **Hasan**, and Urdu final **-e** (e.g., `بولے` → `bole`), except where Punjabi pronunciation applies. Capitalize each word in Roman titles. Follow the reviewed refrain rules in [CONTRIBUTING.md](docs/CONTRIBUTING.md#urdu-and-roman-urdu).
-- Keep browsing/search/static assets out of Pages Functions; Pagefind loads only on the Search route. Browser reading history, bookmarks, and drafts stay local.
-- Put shared semantic design values in `src/styles/tokens.css`, global primitives in `core.css`, Appearance UI in `appearance.css` / `AppearanceDialog.astro` / `appearance.ts`, and route styling in feature CSS. Keep recitation source loading in `recitation-catalog.ts` separate from programme editor state. Add purposeful `File role:` comments; remove obsolete WIP commentary.
+- Preserve reviewed wording, harakat, punctuation, meaningful asterisks, stanza numbers, Basta page numbers, public URLs, and published recitation IDs unless explicitly instructed otherwise.
+- Keep the required `kalamType`, stable source IDs, and paired Basta `---***---` boundaries. Source markdown remains authoritative; no silent editorial substitutions.
+- Roman conventions: **Husain**, **Hasan**, `ڑ` → `r`, Urdu `ے` → `e` (Punjabi pronunciation excepted). Capitalize Roman titles.
+- All readers share `ReadingControls.astro`, `reader-state.ts`, `reading-columns.css`, and the relevant stanza/Basta parsers. Never wrap verses or introduce horizontal text scrolling. Reading works without JavaScript.
+- Centralize shared design values in `tokens.css` and shared UI rules in `core.css`; keep route-only styles local. Maintain consistent static/streamed rendering.
+- R2 binaries stay outside Git; retain `/images/` and `/files/` paths. Pagefind loads only on Search; Pages Functions serve only programme endpoints. Browser bookmarks/drafts/history stay local.
+- Explain non-obvious code with useful comments, not WIP notes.
 
 ## Before committing
 
-Run `npm run build`, inspect `git diff --check` and `git status --short`; for UI work run `npm run test:smoke`, and use `npm run test:browser` at milestones. Consult [validation guidance](docs/CONTRIBUTING.md#validation) for CI conditions and browser coverage.
-
-Never commit generated build output, dependencies, local scratch files, or R2-hosted binaries.
+Run `npm run build`, `git diff --check`, and applicable `npm run test:smoke` / `npm run test:browser` checks. Do not commit `dist/`, `.astro/`, dependencies, scratch files, or binaries. CI selection is in [Validation](docs/CONTRIBUTING.md#validation).
