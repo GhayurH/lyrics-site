@@ -19,4 +19,3 @@
 .reading-controls :is(button, input, select):focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 .reading-scroll-top[hidden] { display: none !important; }
 .reading-scroll-top { display: none; }
-
