@@ -91,7 +91,9 @@ test("offline search index is complete and generated after Pagefind build", asyn
 
 test("correction dialog preserves selected verse and resolves printed stanza", async ({ page }) => {
   await page.goto("/lyrics/aa-asghar-bin-tere/");
-  const selected = await page.locator(".lyrics-text .lyric-verse").first().evaluate((node) => {
+  const selected = await page.locator(".lyrics-text .lyric-stanza")
+    .filter({ has: page.locator(".poetry-stanza-number") })
+    .first().locator(".lyric-verse").first().evaluate((node) => {
     const range = document.createRange();
     range.selectNodeContents(node);
     const selection = window.getSelection();

@@ -142,8 +142,12 @@ self.addEventListener("fetch",(event) => {
     event.respondWith(fetch(request).catch(async () =>
       (await caches.open(NAMES.search)).match(request) || Response.error()));
   } else if (SCAN.test(url.pathname)) {
-    event.respondWith(fetch(request).catch(async () =>
-      (await caches.open(NAMES.scans)).match(url.pathname) || Response.error()));
+    // Do not intercept live scans: direct browser requests must remain routable
+    // and image viewers must retain their ordinary network/redirect behavior.
+    // Only serve a previously downloaded copy when the browser reports offline.
+    if (self.navigator.onLine === false)
+      event.respondWith(caches.open(NAMES.scans).then((cache) => cache.match(url.pathname))
+        .then((cached) => cached || Response.error()));
   } else if (url.pathname === "/data/saved-catalog.json") {
     event.respondWith(fetch(request).catch(async () =>
       (await caches.open(NAMES.pages)).match(request) || Response.error()));
