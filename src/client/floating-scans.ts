@@ -28,6 +28,11 @@ export function initFloatingScans(): void {
     scheduled = false;
     const scans = Array.from(root.querySelectorAll<HTMLElement>(SCANS));
     for (const scan of scans) scan.dataset.floatingScan = "false";
+    // On portrait phones scans are stacked above the text, never floating.
+    if (matchMedia("(max-width: 700px) and (orientation: portrait)").matches) {
+      updateClearance();
+      return;
+    }
     for (const scan of scans) {
       const parent = scan.parentElement;
       if (!parent || !scan.querySelector("img") || getComputedStyle(scan).display === "none" ||

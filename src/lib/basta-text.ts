@@ -144,6 +144,11 @@ export function layoutBastaKalam(
         /^(?:بین|Bain)$/iu.test(heading));
     if ((matchesFirstVerse || isStandAloneHeading) && !isCreditLine(heading)) {
       display[block.start].title = true;
+      // A printed separator is not a full-height empty verse after a title.
+      // Preserve gaps elsewhere, including ordinary stanza boundaries.
+      for (let gap = block.end; gap < next.start; gap++) {
+        if (!lines[gap].trim()) display[gap].hidden = true;
+      }
       // Only the adjacent second line of a verified two-line preface is a
       // byline; standalone headings, credits, and verses are untouched.
       if (block.end - block.start === 2 && !isCreditLine(lines[block.start + 1])) {

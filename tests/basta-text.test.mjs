@@ -48,6 +48,20 @@ test("blank lines survive and prose pages can opt out", () => {
   assert.deepEqual(indents(content, false), [false, false, false, false]);
 });
 
+test("verified Urdu and Roman titles collapse only the spacer before stanza one", () => {
+  for (const title of ["جب خلق سے وقتِ سفر فاطمہ آیا", "Jab khalq se waqt-e-safar Fatima aaya"]) {
+    const numbered = layoutBastaKalam([title, "", "1", "first", "second"].join("\n"));
+    assert.equal(numbered[0].title, true);
+    assert.equal(numbered[1].hidden, true);
+    assert.equal(numbered[2].stanzaNumber, "1");
+  }
+  const withPoet = layoutBastaKalam("Opening\nPoet\n\nOpening\nSecond");
+  assert.equal(withPoet[0].title, true);
+  assert.equal(withPoet[1].poet, true);
+  assert.equal(withPoet[2].hidden, true);
+  // A regular six-line stanza break is still preserved; only a detected\n  // title gap (or an already-ruled couplet gap) is collapsed.\n  const normal = layoutBastaKalam("a\nb\nc\nd\ne\nf\n\ng\nh\ni\nj\nk\nl");\n  assert.equal(normal[6].hidden, undefined);
+});
+
 test("kalam separators keep boundaries independent", () => {
   const kalams = splitBastaKalams("a\nb\n---***---\nc\nd");
   assert.equal(kalams.length, 2);
@@ -213,7 +227,7 @@ test("page 362 Urdu and Roman opening titles and closing lines use verse fitting
     assert.ok(!verses[0].coupletSeparator);
     assert.ok(verses.every((line, i) => line.indent === (i % 2 === 1)));
     assert.ok(verses.every(line => !line.sixClosingStart && !line.sixClosingEnd));
-    assert.equal(lines.filter(line => line.hidden).length, 1, "blank between pairs collapsed");
+    assert.equal(lines.filter(line => line.hidden).length, 2, "title and between-pair blanks collapsed");
   }
 });
 
