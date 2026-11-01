@@ -1,6 +1,7 @@
 // Audits source-to-index mapping without touching or rewriting OCR material.
 import { readFile, readdir } from "node:fs/promises";
 import { buildBastaKalamCatalog } from "../src/lib/basta-kalam-units.ts";
+import { auditBastaEditorial } from "../src/lib/basta-editorial-audit.ts";
 
 const root = new URL("../src/data/basta/", import.meta.url);
 const index = JSON.parse(await readFile(new URL("index.json", root), "utf8"));
@@ -18,9 +19,11 @@ async function sourceDir(relative) {
 }
 const [urdu, roman] = await Promise.all([sourceDir("pages"), sourceDir("roman")]);
 const romanByPage = new Map(roman.map((entry) => [entry.page, entry.text]));
-const catalog = buildBastaKalamCatalog(index, urdu.map((entry) => ({
+const sourcePages = urdu.map((entry) => ({
   page: entry.page, urdu: entry.text, roman: romanByPage.get(entry.page),
-})));
+}));
+const catalog = buildBastaKalamCatalog(index, sourcePages);
+const editorial = auditBastaEditorial(index, sourcePages);
 const ready = catalog.kalams.filter((item) => item.status === "ready");
 const review = catalog.kalams.filter((item) => item.status === "review");
 const report = {
@@ -35,6 +38,7 @@ const report = {
   })),
   orphans: catalog.orphans,
   sourceIssues: catalog.issues,
+  editorial,
 };
 if (process.argv.includes("--json")) console.log(JSON.stringify(report, null, 2));
 else {
@@ -43,6 +47,10 @@ else {
   console.log("Needs review:", report.needsReview);
   console.log("Verified numbered stanzas:", report.numberedStanzas);
   console.log("Unassigned page fragments:", report.orphanSourceFragments);
+  console.log("Duplicate index references:", editorial.duplicateIndexEntries.length);
+  console.log("Urdu/Roman page separator mismatches:", editorial.mismatchedPageBoundaries.length);
+  console.log("Missing Roman title metadata:", editorial.missingRomanTitles.length);
+  console.log("Source pages without Roman text (may be intentional):", editorial.absentRomanTranscriptions.length);
   for (const item of report.review.slice(0, 20))
     console.log("REVIEW", item.id, "page", item.page, item.issues.join("; "));
   if (review.length > 20) console.log("...use --json for the full report");
@@ -50,4 +58,4 @@ else {
 // A separate --strict mode is provided for enforcing complete verification.
 // Normal audits report the remaining manual review workload, not pretend it is done.
 if (process.argv.includes("--strict") &&
-    (review.length || catalog.orphans.length || catalog.issues.length)) process.exitCode = 1;
+    (review.length || catalog.orphans.length || catalog.issues.length || editorial.duplicateIndexEntries.length || editorial.mismatchedPageBoundaries.length || editorial.nonMonotonicSectionNumbers.length)) process.exitCode = 1;

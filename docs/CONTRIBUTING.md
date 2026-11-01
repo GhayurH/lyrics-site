@@ -25,7 +25,7 @@ Pages, transliterations, index, and settings are in `src/data/basta/`. Preserve 
 ```bash
 npm run basta:index:check      # Detect index drift
 npm run basta:index:sync       # Refresh index labels
-npm run basta:kalams:audit     # Report uncertain page boundaries
+npm run basta:kalams:audit     # Report uncertain page boundaries, repeated index IDs, and Roman mismatches
 npm run basta:breaks:rebuild   # Only after reviewing hand-corrected boundaries
 ```
 
