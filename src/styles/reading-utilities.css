@@ -127,3 +127,7 @@ html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-bookmark-page { order: 3; }
 }
 html[data-reading-focus="true"] .reading-regular-toggle { display: none !important; }
+
+/* Extreme magnification: retain readable one-line verses with keyboard panning. */
+.poetry-overflow-line { max-width: 100%; overflow-x: auto; white-space: nowrap; overscroll-behavior-inline: contain; scrollbar-width: thin; }
+.poetry-overflow-line:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
