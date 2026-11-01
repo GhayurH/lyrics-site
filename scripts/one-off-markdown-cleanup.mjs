@@ -18,7 +18,7 @@ const counters = new Map();
 const add = (key, filename, line, sample) => {
   const entry = counters.get(key) ?? { count: 0, files: new Set(), samples: [] };
   entry.count++; entry.files.add(filename);
-  if (entry.samples.length < 24) entry.samples.push(filename + ":" + line + " " + sample.slice(0, 150));
+  if (entry.samples.length < 120) entry.samples.push(filename + ":" + line + " " + sample.slice(0, 230));
   counters.set(key, entry);
 };
 const isContent = (p) => p.startsWith("src/data/");
@@ -43,6 +43,7 @@ for (const f of files.sort()) {
     if (/[,،]{2,}/u.test(line)) add("repeated_comma", p, i+1, line);
     if (/([!?؟])\1/u.test(line)) add("repeated_question_or_exclamation", p, i+1, line);
     if (isContent(p) && /[كۀة]/u.test(line)) add("arabic_kaf_heh_teh_marbuta", p, i+1, line);
+    if (isContent(p) && /[كهۀة]/u.test(line) && !/src\/data\/basta\/pages\/00[0-9]\.md/.test(p)) add("LATER_URDU_CONFUSABLES",p,i+1,line);
     if (isContent(p) && /[يهى]/u.test(line) && !p.includes("basta/roman/"))
       add("arabic_yeh_or_heh",p,i+1,line);
     if (p.includes("basta/roman/") && /[\u0600-\u06FF]/u.test(line))
