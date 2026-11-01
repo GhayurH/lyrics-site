@@ -158,8 +158,13 @@ test("continuous reader deep links load streamed content and preserve the curren
   await page.getByRole("button", { name: /Show reading options/ }).click();
   await page.getByRole("button", { name: "Contents" }).click();
   await expect(page.locator(".basta-reader-index")).toBeVisible();
+  // Only one overlay may be expanded: Contents must not hide behind Options.
+  await expect(page.locator("[data-reading-controls]")).toHaveAttribute("data-reading-options-open", "false");
+  await expect(page.locator(".basta-reader-index a[href]").first()).toBeFocused();
   await page.keyboard.press("Escape");
   await expect(page.locator(".basta-reader-index")).toBeHidden();
+  await expect(page.locator("[data-reading-focus-options]")).toBeFocused();
+  await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
 });
 
 test("unavailable Roman transcription shows a source scan rather than blank content @smoke", async ({ page }) => {

@@ -92,18 +92,24 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     else (scroller as HTMLElement).scrollTop += delta;
   };
 
-  const contentsOpen = (open: boolean) => {
-    if (!isContinuous) return;
-    html.dataset.readingTocOpen = String(open);
-    contentsButton?.setAttribute("aria-expanded", String(open));
-    const index = root.querySelector<HTMLElement>(".basta-reader-index");
-    if (open) requestAnimationFrame(() => index?.querySelector<HTMLAnchorElement>("a[href]")?.focus({ preventScroll: true }));
-    else if (active && index?.contains(document.activeElement)) contentsButton?.focus({ preventScroll: true });
-  };
   const optionsOpen = (open: boolean) => {
     controls.dataset.readingOptionsOpen = String(open);
     optionsButton.setAttribute("aria-expanded", String(open));
     optionsButton.setAttribute("aria-label", open ? "Hide reading options" : "Show reading options");
+  };
+  const contentsOpen = (open: boolean) => {
+    if (!isContinuous) return;
+    // The contents overlay is below the toolbar: close expanded controls so
+    // keyboard focus and reading links are never obscured by two open panels.
+    if (open) optionsOpen(false);
+    html.dataset.readingTocOpen = String(open);
+    contentsButton?.setAttribute("aria-expanded", String(open));
+    const index = root.querySelector<HTMLElement>(".basta-reader-index");
+    if (open) requestAnimationFrame(() => index?.querySelector<HTMLAnchorElement>("a[href]")?.focus({ preventScroll: true }));
+    else if (active && index?.contains(document.activeElement)) {
+      const returnTo = contentsButton?.getClientRects().length ? contentsButton : optionsButton;
+      returnTo.focus({ preventScroll: true });
+    }
   };
 
   const syncFullscreen = () => {
