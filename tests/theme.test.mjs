@@ -1,7 +1,8 @@
 // Colour parsing and accessible contrast logic are independent of the DOM.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { DEFAULT_PALETTE, normalizeCssHex, paletteForeground, paletteTextColors, parsePalette, validHex } from "../src/client/theme.ts";
+import { DEFAULT_PALETTE, DARK_THEME_NAMES, PRESET_THEME_NAMES, normalizeCssHex, paletteForeground, paletteTextColors, parsePalette, validHex, isThemeName } from "../src/client/theme.ts";
+import { readFileSync } from "node:fs";
 
 test("custom palette accepts only complete six-digit hex colours", () => {
   assert.equal(validHex("#Ab34F0"), true);
@@ -129,4 +130,43 @@ test("invalid stored inherited colours never become CSS values", () => {
   assert.equal(Object.hasOwn(palette, "inherited"), false);
   const auto = paletteTextColors(palette);
   assert.equal(auto.primary, "#ffffff");
+});
+
+test("all reading presets have readable text and actions on their actual surfaces", () => {
+  const css = readFileSync("src/styles/tokens.css", "utf8");
+  const curated = ["paper", "clay", "rosewood", "sage", "ocean", "slate", "dusk", "forest", "plum", "graphite"];
+  const value = (id, role) => {
+    const prefix = "--preset-" + id + "-" + role + ": ";
+    const line = css.split("\n").find((part) => part.trim().startsWith(prefix));
+    assert(line, "missing preset token: " + prefix);
+    const hex = line.trim().slice(prefix.length).replace(";", "");
+    assert.match(hex, /^#[0-9a-f]{6}$/i);
+    return hex;
+  };
+  const luminance = (hex) => [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255)
+    .map((v) => v <= .04045 ? v / 12.92 : ((v + .055) / 1.055) ** 2.4)
+    .reduce((sum, v, i) => sum + v * [.2126, .7152, .0722][i], 0);
+  const contrast = (a, b) => {
+    const values = [luminance(a), luminance(b)].sort((x, y) => y - x);
+    return (values[0] + .05) / (values[1] + .05);
+  };
+  assert.equal(PRESET_THEME_NAMES.length, curated.length + 4);
+  for (const id of curated) {
+    assert(PRESET_THEME_NAMES.includes(id), "preset not selectable: " + id);
+    assert(isThemeName(id));
+    assert(css.includes('html[data-theme="' + id + '"]'));
+    const colors = Object.fromEntries(["main", "surface", "ink", "muted", "border", "tag", "accent", "button"]
+      .map((role) => [role, value(id, role)]));
+    for (const background of ["main", "surface"]) {
+      for (const foreground of ["ink", "muted"]) {
+        assert(contrast(colors[background], colors[foreground]) >= 4.5,
+          id + " has insufficient " + foreground + " contrast on " + background);
+      }
+    }
+    assert(contrast(colors.accent, colors.button) >= 4.5, id + " has insufficient button contrast");
+    const scheme = DARK_THEME_NAMES.includes(id) ? "dark" : "light";
+    assert(css.includes('html[data-theme="' + id + '"] {\n  color-scheme: ' + scheme));
+  }
+  assert.equal(isThemeName("custom"), true);
+  assert.equal(isThemeName("unrecognized"), false);
 });

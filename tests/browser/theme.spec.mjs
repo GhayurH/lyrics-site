@@ -1,6 +1,40 @@
 // Appearance remains browser-local and works across every archive route.
 import { test, expect } from "@playwright/test";
 
+test("curated palette switching, Custom inheritance and persistence @smoke", async ({ page }) => {
+  const names = ["paper", "clay", "rosewood", "sage", "ocean", "slate", "dusk", "forest", "plum", "graphite"];
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await page.locator("#theme-toggle").click();
+  const dialog = page.locator("#theme-dialog");
+  for (const name of names) {
+    await dialog.locator('input[name="theme-mode"][value="' + name + '"]').check();
+    await expect(page.locator("html")).toHaveAttribute("data-theme", name);
+    const colors = await page.locator("html").evaluate((root) => {
+      const style = getComputedStyle(root);
+      const read = (role) => style.getPropertyValue(role).trim().toLowerCase();
+      return {
+        main: read("--site-background"), secondary: read("--surface-background"),
+        accent: read("--accent-color"), primaryText: read("--primary-text"),
+        mutedText: read("--secondary-text"), borders: read("--border-colour"),
+        searchScheme: root.dataset.pfTheme,
+      };
+    });
+    await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", colors.main);
+    expect(colors.searchScheme).toBe(["dusk", "forest", "plum", "graphite"].includes(name) ? "dark" : "light");
+    await dialog.locator('input[name="theme-mode"][value="custom"]').check();
+    for (const role of ["main", "secondary", "accent", "primaryText", "mutedText", "borders"])
+      await expect(dialog.locator("#theme-" + role)).toHaveValue(colors[role]);
+  }
+  await dialog.locator('input[name="theme-mode"][value="forest"]').check();
+  await page.locator("#theme-dialog-done").click();
+  await page.goto("/search/");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "forest");
+  await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "dark");
+  await expect.poll(() => page.locator(".search-page").evaluate((el) =>
+    getComputedStyle(el).getPropertyValue("--pf-background").trim())).toBe("#1e3832");
+});
+
 test("light, dark and sepia presets persist between pages @smoke", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "dark" });
   await page.goto("/");
