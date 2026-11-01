@@ -50,6 +50,8 @@ test("reader-shell breakpoints and responsive edition rules have one owner", () 
   assert.match(layout, /@container reader-shell \(min-width: 46\.01rem\)/);
   // Focus uses the same responsive boundary as the regular readers.
   assert.doesNotMatch(css["reading-focus.css"], /@media\s*\(max-width: 700px\)\s*and\s*\(orientation: portrait\)/);
+  assert.doesNotMatch(css["reading-focus.css"], /@media\s*\(min-width: 641px\)/);
+  assert.match(layout, /html\[data-reading-focus="true"\] \.lyric-reading-grid\[data-reading-columns~="urdu"\]/);
   assert.match(layout, /\.recite-editions \.lyric-reading-roman\s*\{\s*border-inline-end: 0/);
   assert.doesNotMatch(layout, /@container reader-shell \(max-width: 40rem\)/);
   assert.doesNotMatch(layout, /@media\s*\(max-width: 700px\)\s*and\s*\(orientation: portrait\)/);
