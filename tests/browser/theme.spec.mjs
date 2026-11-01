@@ -510,6 +510,9 @@ test("switching Urdu fonts optically resizes every reading surface and keeps ver
     ["/basta/138/", ".basta-page-urdu .basta-urdu-text", ".basta-page-urdu .basta-verse-poetry"],
   ]) {
     await page.goto(url);
+    // Start each reader at the default instead of inheriting the previous loop's choice.
+    await page.evaluate(() => localStorage.removeItem("kalam:reading-fonts"));
+    await page.reload();
     await page.evaluate(() => document.fonts.ready);
     const before = await page.locator(panel).first().evaluate(el => parseFloat(getComputedStyle(el).fontSize));
     await page.locator("#theme-toggle").click();
