@@ -539,14 +539,6 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   unicode-bidi: plaintext;
 }
 
-.basta-verse-poetry {
-  white-space: nowrap;
-  overflow-wrap: normal;
-  word-break: normal;
-  text-align: justify;
-  text-align-last: justify;
-  min-inline-size: 0;
-}
 
 .basta-verse-line:empty::before {
   content: " ";
