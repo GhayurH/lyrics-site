@@ -29,6 +29,7 @@ export async function onRequestPost({ request, env }) {
     console.error("Failed to create recitation set", e);
     return error("Unable to publish this set. Check D1 availability and the deployed recitation schema.", 500);
   }
-  return json({ id, editToken, permanent, expiresAt }, 201);
+  return json({ id, editToken, permanent, expiresAt,
+    revision: await digest(JSON.stringify(document)) }, 201);
 }
 export function onRequestGet() { return error("Open a particular recitation set", 400); }

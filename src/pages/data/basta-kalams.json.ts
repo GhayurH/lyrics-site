@@ -11,7 +11,7 @@ export async function GET() {
       indexNumber: item.indexNumber, startPage: item.startPage,
       pages: item.pages, status: item.status, numbered: item.numbered,
       stanzaCount: item.stanzas.length,
-      sourceUrl: "/basta/" + item.startPage + "/",
+      sourceUrl: item.status === "ready" ? "/basta/kalam/" + item.id + "/" : "/basta/" + item.startPage + "/",
     })),
   });
 }

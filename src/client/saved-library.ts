@@ -2,6 +2,7 @@
 import type { LyricCardData } from "../lib/catalog";
 import { createLyricCard } from "./lyric-card";
 import { readBastaBookmarks } from "./basta-bookmarks";
+import { readBastaKalamFavorites, removeBastaKalamFavorite } from "./basta-kalam-favorites";
 import { readBastaSelectionDetails, readBastaSelections, removeBastaSelection, selectionKey } from "./basta-selections";
 import { readDrafts } from "./recitation-storage";
 import {
@@ -22,7 +23,7 @@ export async function initSavedLibrary(): Promise<void> {
   // The resume link is managed independently by the reading-progress controller.
   const refreshSections = () => {
     let hasContent = false;
-    for (const section of root.querySelectorAll<HTMLElement>(".saved-section:not([data-basta-resume-section])")) {
+    for (const section of root.querySelectorAll<HTMLElement>(".saved-section:not([data-basta-resume-section]):not(.saved-data-tools)")) {
       const populated = Boolean(section.querySelector("ul")?.children.length);
       section.hidden = !populated;
       hasContent ||= populated;
@@ -33,6 +34,24 @@ export async function initSavedLibrary(): Promise<void> {
 
   // Personal bookmarks and programmes work even if the lyric catalog fails.
   const renderLocal = () => {
+    const savedKalams = readBastaKalamFavorites();
+    document.querySelector<HTMLElement>("#basta-kalams-list")?.replaceChildren(...savedKalams.map(({id,title}) => {
+      const li = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = "/basta/kalam/" + encodeURIComponent(id) + "/";
+      link.textContent = title || id;
+      const remove = document.createElement("button");
+      remove.type = "button"; remove.textContent = "Remove";
+      remove.setAttribute("aria-label", "Remove bookmark for " + (title || id));
+      remove.addEventListener("click", () => { removeBastaKalamFavorite(id); renderLocal(); });
+      li.append(link,remove);
+      return li;
+    }));
+    const kalamEmpty = document.querySelector<HTMLElement>("#basta-kalams-empty");
+    if (kalamEmpty) kalamEmpty.hidden = savedKalams.length > 0;
+    const kalamCount = document.querySelector<HTMLElement>("#basta-kalams-count");
+    if (kalamCount) kalamCount.textContent = savedKalams.length + " saved";
+
     const bookmarks = readBastaBookmarks();
     const pageList = document.querySelector<HTMLElement>("#basta-bookmarks-list");
     pageList?.replaceChildren(...bookmarks.map((page) => {
@@ -105,6 +124,7 @@ export async function initSavedLibrary(): Promise<void> {
     attributes: true, attributeFilter: ["hidden"],
   });
   window.addEventListener("kalam:basta-bookmarks-changed", renderLocal);
+  window.addEventListener("kalam:basta-kalam-favorites-changed", renderLocal);
   window.addEventListener("kalam:basta-selections-changed", renderLocal);
   window.addEventListener("storage", renderLocal);
   let catalog: LyricCardData[];

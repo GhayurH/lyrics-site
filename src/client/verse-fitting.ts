@@ -16,8 +16,22 @@ function naturalWidth(verse: HTMLElement, ctx: CanvasRenderingContext2D): number
 }
 
 /** Keep equal size within each couplet/stanza; other stanzas aren't penalized. */
+function readingIsMagnified(): boolean {
+  // Desktop browser zoom reduces the CSS viewport without shrinking the outer window.
+  // Pinch zoom on mobile is reported separately by VisualViewport.scale.
+  return (window.visualViewport?.scale || 1) >= 1.75 ||
+    (window.innerWidth < 800 && window.outerWidth / Math.max(window.innerWidth, 1) >= 1.75);
+}
 function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D): void {
-  for (const line of lines) line.style.removeProperty("font-size");
+  for (const line of lines) {
+    line.style.removeProperty("font-size");
+    line.classList.remove("poetry-overflow-line");
+    if (line.dataset.zoomPan === "true") {
+      line.removeAttribute("tabindex");
+      line.removeAttribute("aria-label");
+      delete line.dataset.zoomPan;
+    }
+  }
   const metrics = lines.map((line) => {
     const base = Number.parseFloat(getComputedStyle(line).fontSize);
     const available = readableWidth(line);
@@ -27,9 +41,19 @@ function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D): void {
 
   const ratio = Math.min(1, ...metrics.map(({ base, available, natural }) =>
     natural > 0 ? fitLine(base, available, natural) / base : 1));
+  const pan = readingIsMagnified() && metrics.some(({ base }) => base * ratio < 16);
   for (const { line, base } of metrics) {
-    if (ratio < 0.999) line.style.fontSize = `${(base * ratio).toFixed(3)}px`;
+    if (pan) {
+      // Keep a readable floor at extreme browser zoom; only the affected line
+      // scrolls horizontally, retaining the one-line source transcription.
+      line.style.fontSize = Math.max(16, base * ratio).toFixed(3) + "px";
+      line.classList.add("poetry-overflow-line");
+      line.tabIndex = 0;
+      line.dataset.zoomPan = "true";
+      line.setAttribute("aria-label", "Long poetry line. Use horizontal scroll or arrow keys to read.");
+    } else if (ratio < 0.999) line.style.fontSize = `${(base * ratio).toFixed(3)}px`;
   }
+  if (pan) return;
 
   // Canvas and actual text shaping/justification can differ, especially for Nastaliq.
   // Correct against measured rendered widths without introducing scrollbars or wrapping.

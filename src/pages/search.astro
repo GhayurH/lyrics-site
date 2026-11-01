@@ -2,6 +2,26 @@
 // File role: Search route: loads Pagefind only here, exposes shareable URL filters, and renders removable active-filter chips.
 import BaseLayout from "../layouts/BaseLayout.astro";
 import "../styles/search.css";
+const resultTemplate = String.raw`
+          <li class="pf-result">
+            <div class="pf-result-card">
+              <div class="pf-result-content">
+                {{#if meta.collection}}
+                <p class="search-result-collection">{{ meta.collection }}</p>
+                {{/if}}
+                <p class="pf-result-title" dir="auto">
+                  <a class="pf-result-link" href="{{ meta.url | default(url) | safeUrl }}">{{ meta.title }}</a>
+                </p>
+                {{#if meta.roman_title}}
+                <p class="search-result-roman-title" dir="ltr">{{ meta.roman_title }}</p>
+                {{/if}}
+                {{#if excerpt}}
+                <p class="pf-result-excerpt" dir="auto">{{+ excerpt +}}</p>
+                {{/if}}
+              </div>
+            </div>
+          </li>
+`;
 ---
 
 <BaseLayout
@@ -72,29 +92,10 @@ import "../styles/search.css";
     </div>
 
     <div class="search-results-shell">
-      <p class="search-collection-note">Basta results link to book pages, which may contain more than one kalam.</p>
+      <p class="search-collection-note">Basta results include individual kalams and the original printed pages.</p>
       <pagefind-summary></pagefind-summary>
       <pagefind-results>
-        <script type="text/pagefind-template" is:inline>
-          <li class="pf-result">
-            <div class="pf-result-card">
-              <div class="pf-result-content">
-                {{#if meta.collection}}
-                <p class="search-result-collection">{{ meta.collection }}</p>
-                {{/if}}
-                <p class="pf-result-title" dir="auto">
-                  <a class="pf-result-link" href="{{ meta.url | default(url) | safeUrl }}">{{ meta.title }}</a>
-                </p>
-                {{#if meta.roman_title}}
-                <p class="search-result-roman-title" dir="ltr">{{ meta.roman_title }}</p>
-                {{/if}}
-                {{#if excerpt}}
-                <p class="pf-result-excerpt" dir="auto">{{+ excerpt +}}</p>
-                {{/if}}
-              </div>
-            </div>
-          </li>
-        </script>
+        <script type="text/pagefind-template" is:inline set:html={resultTemplate}></script>
       </pagefind-results>
       <p id="search-no-results-help" class="search-no-results-help" hidden>
         No matches. Try a shorter phrase, the other script (Urdu or Roman Urdu), or

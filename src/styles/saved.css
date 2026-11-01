@@ -25,3 +25,14 @@
 .saved-loading { display: none; margin-top: 1rem; color: var(--secondary-text); }
 html[data-js-available="true"] #saved-library:not([data-saved-settled="true"]) #saved-initializing { display: block; }
 html[data-js-available="true"] #saved-library:not([data-saved-settled="true"]) .saved-section { display: none !important; }
+
+/* Local backup/offline actions are separate from the saved content lists. */
+.saved-data-tools { padding: 1rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); }
+.saved-data-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; }
+.saved-data-actions :is(button,label) { display: inline-flex; align-items: center; min-height: var(--ui-target); border: var(--ui-border); border-radius: var(--ui-radius-tight); padding: .5rem .7rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
+.saved-data-actions input { max-width: 12rem; font-size: .8rem; }
+
+.saved-data-actions input[type="number"] { width: 4.3rem; padding: .3rem; background: var(--site-background); color: var(--primary-text); border: var(--ui-border); }
+
+.saved-data-actions input[type="checkbox"] { width: 1.1rem; height: 1.1rem; accent-color: var(--accent-color); }
+#saved-cache-status { font-size: .85rem; color: var(--secondary-text); }

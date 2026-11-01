@@ -69,12 +69,15 @@ function fakeDb() {
                 return { meta: { changes: 1 } };
               }
               if (sql.startsWith("UPDATE recitation_sets") && sql.includes("AND document=?")) {
-                const [document, expiresAt, id, hash, original, timestamp, isPreview, cutoff] = args;
+                const editing = sql.includes("SET document=?, permanent=?");
+                const [document, permanent, expiresAt, id, hash, original, timestamp, isPreview, cutoff] =
+                  editing ? args : [args[0], undefined, ...args.slice(1)];
                 const row = data.get(id);
                 if (!row || row.hash !== hash || row.document !== original ||
                     !(row.permanent || row.expires_at > timestamp) ||
                     (isPreview && row.updated_at <= cutoff)) return { meta: { changes: 0 } };
-                Object.assign(row, { document, expires_at: expiresAt, updated_at: now() });
+                Object.assign(row, { document, expires_at: expiresAt, updated_at: now(),
+                  ...(editing ? { permanent } : {}) });
                 return { meta: { changes: 1 } };
               }
               if (sql.startsWith("UPDATE recitation_sets")) {
@@ -125,9 +128,10 @@ const postRequest = (set, ip = "203.0.113.5") => new Request("https://kalamarchi
   method: "POST", headers: { "Content-Type": "application/json", "CF-Connecting-IP": ip },
   body: JSON.stringify(set),
 });
-const editRequest = (id, method, token, set = undefined) =>
+const editRequest = (id, method, token, set = undefined, revision = undefined) =>
   new Request("https://kalamarchive.com/api/recitation-sets/" + id, {
-    method, headers: { Authorization: "Bearer " + token, "Content-Type": "application/json" },
+    method, headers: { Authorization: "Bearer " + token, "Content-Type": "application/json",
+      ...(revision ? { "If-Match": '"' + revision + '"' } : {}) },
     ...(set ? { body: JSON.stringify(set) } : {}),
   });
 
@@ -160,7 +164,7 @@ test("creation stores hashed capability, 24-month expiry; editing renews and del
   const db = fakeDb(), env = { RECITATION_DB: db };
   const created = await onRequestPost({ request: postRequest(example), env });
   assert.equal(created.status, 201);
-  const { id, editToken, expiresAt } = await created.json();
+  const { id, editToken, expiresAt, revision } = await created.json();
   assert.match(id, /^[a-f0-9]{24}$/);
   assert.match(editToken, /^[a-f0-9]{64}$/);
   assert.equal(db.data.get(id).hash, await digest(editToken));
@@ -174,11 +178,12 @@ test("creation stores hashed capability, 24-month expiry; editing renews and del
   assert.equal(location.headers.get("location"), "https://kalamarchive.com/recite/read/?set=" + id);
   const update = { ...example, title: "Updated", permanent: true };
   assert.equal((await onRequestPut({ params: { id }, env,
-    request: editRequest(id, "PUT", "0".repeat(64), update) })).status, 403);
+    request: editRequest(id, "PUT", "0".repeat(64), update, revision) })).status, 403);
   const approved = await onRequestPut({ params: { id }, env,
-    request: editRequest(id, "PUT", editToken, update) });
+    request: editRequest(id, "PUT", editToken, update, revision) });
   assert.equal(approved.status, 200);
-  assert.deepEqual(await approved.json(), { id, updated: true, permanent: true, expiresAt: null });
+  assert.deepEqual(await approved.json(), { id, updated: true, permanent: true, expiresAt: null,
+    revision: await digest(JSON.stringify(validateDocument(update))) });
   assert.equal(db.data.get(id).permanent, 1);
   assert.equal((await (await onRequestGet({ params: { id }, env })).json()).permanent, true);
   assert.equal((await onRequestDelete({ params: { id }, env,
@@ -189,11 +194,11 @@ test("creation stores hashed capability, 24-month expiry; editing renews and del
 });
 test("editing a permanent set back to timed retention starts a new expiry", async () => {
   const db = fakeDb(), env = { RECITATION_DB: db };
-  const { id, editToken } = await (await onRequestPost({
+  const { id, editToken, revision } = await (await onRequestPost({
     request: postRequest({ ...example, permanent: true }), env,
   })).json();
   const response = await onRequestPut({ params: { id }, env,
-    request: editRequest(id, "PUT", editToken, example) });
+    request: editRequest(id, "PUT", editToken, example, revision) });
   const payload = await response.json();
   assert.equal(payload.permanent, false);
   assert.ok(Date.parse(payload.expiresAt) > Date.now());
@@ -210,15 +215,15 @@ test("preview programmes always expire after 30 days, even if permanent requeste
   db.data.get(result.id).updated_at = "2026-01-01T00:00:00.000Z";
   assert.equal((await onRequestGet({ params: { id: result.id }, env })).status, 410);
   assert.equal((await onRequestPut({ params: { id: result.id }, env,
-    request: editRequest(result.id, "PUT", result.editToken, example) })).status, 410);
+    request: editRequest(result.id, "PUT", result.editToken, example, result.revision) })).status, 410);
 });
 test("expired nonpermanent sets cannot be read or resurrected through edits", async () => {
   const db = fakeDb(), env = { RECITATION_DB: db };
-  const { id, editToken } = await (await onRequestPost({ request: postRequest(example), env })).json();
+  const { id, editToken, revision } = await (await onRequestPost({ request: postRequest(example), env })).json();
   db.data.get(id).expires_at = "2020-01-01T00:00:00.000Z";
   assert.equal((await onRequestGet({ params: { id }, env })).status, 410);
   assert.equal((await onRequestPut({ params: { id }, env,
-    request: editRequest(id, "PUT", editToken, example) })).status, 410);
+    request: editRequest(id, "PUT", editToken, example, revision) })).status, 410);
 });
 test("creation limiter caps one IP at ten sets per hour without losing other editors", async () => {
   const db = fakeDb(), env = { RECITATION_DB: db };
@@ -271,24 +276,53 @@ test("organizer live pointer is private to edit capability and follows programme
   const db = fakeDb(), env = { RECITATION_DB: db };
   const second = { ...first, uid: "a61002ab-16f4-4535-bf2a-8ca02cefc956" };
   const set = { ...example, items: [first, second] };
-  const { id, editToken } = await (await onRequestPost({ request: postRequest(set), env })).json();
+  const { id, editToken, revision } = await (await onRequestPost({ request: postRequest(set), env })).json();
   const pointer = { active: true, currentUid: second.uid };
   assert.equal((await onRequestPatch({ params: { id }, env,
-    request: editRequest(id, "PATCH", "0".repeat(64), pointer) })).status, 403);
+    request: editRequest(id, "PATCH", "0".repeat(64), pointer, revision) })).status, 403);
   assert.equal((await onRequestPatch({ params: { id }, env,
-    request: editRequest(id, "PATCH", editToken, { ...pointer, currentUid: "missing-entry" }) })).status, 400);
+    request: editRequest(id, "PATCH", editToken, { ...pointer, currentUid: "missing-entry" }, revision) })).status, 400);
   const response = await onRequestPatch({ params: { id }, env,
-    request: editRequest(id, "PATCH", editToken, pointer) });
+    request: editRequest(id, "PATCH", editToken, pointer, revision) });
   assert.equal(response.status, 200);
+  const liveRevision = (await response.clone().json()).revision;
+  assert.equal((await onRequestPatch({ params: { id }, env,
+    request: editRequest(id, "PATCH", editToken, pointer, revision) })).status, 409);
+  assert.equal((await onRequestPatch({ params: { id }, env,
+    request: editRequest(id, "PATCH", editToken, pointer) })).status, 428);
   assert.deepEqual((await response.json()).live, pointer);
   const shared = await (await onRequestGet({ params: { id }, env })).json();
   assert.deepEqual(shared.set.live, pointer);
   assert.deepEqual(validateRecitationSet(shared.set), validateDocument(shared.set));
   assert.equal(db.data.get(id).hash, await digest(editToken));
   const stopped = await onRequestPatch({ params: { id }, env,
-    request: editRequest(id, "PATCH", editToken, { active: false, currentUid: second.uid }) });
+    request: editRequest(id, "PATCH", editToken, { active: false, currentUid: second.uid }, liveRevision) });
   assert.equal(stopped.status, 200);
   assert.equal((await (await onRequestGet({ params: { id }, env })).json()).set.live.active, false);
   assert.throws(() => validateDocument({ ...set, live: { active: true, currentUid: "missing" } }));
   assert.throws(() => validateRecitationSet({ ...set, live: { active: "yes", currentUid: first.uid } }));
+});
+
+test("simultaneous organizer edits return 409 rather than silently overwriting", async () => {
+  const db = fakeDb(), env = { RECITATION_DB: db };
+  const { id, editToken, revision } = await (await onRequestPost({
+    request: postRequest(example), env,
+  })).json();
+  const firstTab = { ...example, title: "First organizer tab" };
+  const secondTab = { ...example, title: "Second organizer tab" };
+  const first = await onRequestPut({ params: { id }, env,
+    request: editRequest(id, "PUT", editToken, firstTab, revision) });
+  assert.equal(first.status, 200);
+  const stale = await onRequestPut({ params: { id }, env,
+    request: editRequest(id, "PUT", editToken, secondTab, revision) });
+  assert.equal(stale.status, 409);
+  assert.equal((await (await onRequestGet({ params: { id }, env })).json()).set.title,
+    "First organizer tab");
+  const missing = await onRequestPut({ params: { id }, env,
+    request: editRequest(id, "PUT", editToken, secondTab) });
+  assert.equal(missing.status, 428);
+  const freshRevision = (await first.json()).revision;
+  const fresh = await onRequestPut({ params: { id }, env,
+    request: editRequest(id, "PUT", editToken, secondTab, freshRevision) });
+  assert.equal(fresh.status, 200);
 });

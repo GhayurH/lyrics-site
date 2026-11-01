@@ -1,0 +1,17 @@
+{
+  "name": "Kalam Archive",
+  "short_name": "Kalam",
+  "description": "Read Urdu and Roman Urdu kalam",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4ead6",
+  "theme_color": "#755238",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

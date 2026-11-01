@@ -19,6 +19,10 @@ const BASTA_CATEGORY_BY_SECTION: Record<string, string | null> = {
   "Mutafarriqat-o-Qaumiyat": "Miscellaneous",
 };
 
+export function getBastaKalamTypeForSection(section: string): string | null {
+  return BASTA_CATEGORY_BY_SECTION[section] ?? null;
+}
+
 export interface BastaCategoryEntry {
   title: string;
   alternateTitle?: string;

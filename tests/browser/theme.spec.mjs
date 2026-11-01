@@ -40,7 +40,7 @@ test("appearance tabs, grouped fonts, and enlarged swatches work on narrow scree
   }
 });
 
-test("Auto follows device changes, and restoring each submenu leaves the other intact @smoke", async ({ page }) => {
+test("Auto follows device changes, and restoring each submenu leaves the other intact", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "light" });
   await page.goto("/");
   await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
@@ -136,7 +136,7 @@ test("curated palette switching, Custom inheritance and persistence", async ({ p
     getComputedStyle(el).getPropertyValue("--pf-background").trim())).toBe("#1e3832");
 });
 
-test("light, dark and sepia presets persist between pages", async ({ page }) => {
+test("light, dark and sepia presets persist between pages @smoke", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "dark" });
   await page.goto("/");
   await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
@@ -431,7 +431,7 @@ test("manual low-contrast text is warned about, and Advanced fits narrow viewpor
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
 });
 
-test("new language fonts select and persist across pages without altering colours @smoke", async ({ page }) => {
+test("new language fonts select and persist across pages without altering colours", async ({ page }) => {
   await page.goto("/lyrics/na-bhool-kar-bhi/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
@@ -490,6 +490,8 @@ test("Urdu font families are available as bundled web fonts", async ({ page }) =
     await expect(page.locator("html")).toHaveAttribute("data-urdu-font", option);
     await expect.poll(() => page.locator(".lyrics-text").first().evaluate((node) =>
       getComputedStyle(node).fontFamily)).toContain(family);
+    await expect.poll(() => page.evaluate((name) =>
+      [...document.fonts].some((face) => face.family === name), family)).toBe(true);
     const hasLoadedFace = await page.evaluate(async (fontFamily) => {
       const faces = await document.fonts.load('400 24px "' + fontFamily + '"', "غزل اردو شاعری");
       return faces.some((face) => face.family === fontFamily && face.status === "loaded");
@@ -503,7 +505,7 @@ test("Urdu font families are available as bundled web fonts", async ({ page }) =
     getComputedStyle(node).fontFamily)).toContain("Beaconhouse Nastaliq");
 });
 
-test("switching Urdu fonts optically resizes every reading surface and keeps verses single-line @smoke", async ({ page }) => {
+test("switching Urdu fonts optically resizes every reading surface and keeps verses single-line", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 820 });
   for (const [url, panel, verse] of [
     ["/lyrics/chhane-lagi-shaam-e-ghareeban/", ".lyric-reading-urdu", ".lyric-reading-urdu .lyric-verse"],

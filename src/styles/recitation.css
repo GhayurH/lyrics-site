@@ -359,3 +359,15 @@ html[data-reading-focus="true"] .recite-reader-exports { display: none; }
 /* Utility button rules set display, which can override the native [hidden]
    attribute. A completed catalog must not leave a disabled 'Show more' visible. */
 .recite-app #recite-more[hidden] { display: none !important; }
+
+/* Optional reusable programme templates and deliberate public QR sharing. */
+.recite-template-bar { display: flex; align-items: center; flex-wrap: wrap; gap: .5rem; margin: .75rem 0; }
+.recite-template-bar label { display: flex; align-items: center; gap: .4rem; }
+.recite-template-bar select { min-height: var(--ui-target); padding: .4rem; background: var(--surface-background); color: var(--primary-text); border: var(--ui-border); border-radius: var(--ui-radius-tight); font: inherit; }
+.recite-qr-dialog { width: min(26rem,calc(100vw - 2rem)); padding: 1rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); background: var(--surface-background); color: var(--primary-text); text-align: center; }
+.recite-qr-dialog::backdrop { background: rgb(0 0 0 / .6); }
+.recite-qr-dialog img { display: block; max-width: 100%; height: auto; margin: .5rem auto; background: white; }
+
+.recite-template-stages { display: flex; flex-wrap: wrap; gap: .45rem; margin: -.35rem 0 1rem; }
+.recite-template-stages:empty { display: none; }
+.recite-template-stages .button { min-height: var(--ui-target); }

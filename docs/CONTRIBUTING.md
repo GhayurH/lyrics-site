@@ -1,54 +1,63 @@
-# Contributing to Kalam Archive
+# Contributing
 
-Preserve source wording and structure; don't silently modernize devotional poetry. [Architecture](ARCHITECTURE.md) owns code boundaries, [Assets](ASSET_WORKFLOW.md) owns R2, and [Recitation Sets](RECITATION_SETS.md) owns stable IDs and programme rules.
+Preserve source wording and numbering. Do not silently modernize Urdu devotional poetry or infer uncertain source boundaries. [Architecture](ARCHITECTURE.md) defines code ownership; [Assets](ASSET_WORKFLOW.md) defines binary storage.
 
-## Content rules
+## Poetry and metadata
 
-### Metadata and cross-references
+Standalone poetry lives in `src/data/lyrics/` and follows `src/content.config.ts`. `kalamType` is required. Keep poet, reciter, `haal`/`romanHaal`, occasion, language and tags in separate metadata fields. For Basta cross-references use `bastaPage` and `bastaNote: "original-selection" | "additional-stanzas"`; never add provenance lines inside verses.
 
-Standalone sources live in `src/data/lyrics/`; `src/content.config.ts` defines their schema. Supply `kalamType` explicitly; keep poet, reciter, `haal`/`romanHaal`, occasion, language, and tags as separate fields. For a Basta cross-reference, use `bastaPage` and `bastaNote: "original-selection" | "additional-stanzas"`, not a line inside the poem.
+- Preserve reviewed Urdu wording, harakat, commas, asterisks, meaningful blanks, verse order and refrain/sixth lines.
+- Roman Urdu follows **Husain**, **Hasan**, `ڑ` → `r`, `ے` → `e` (except Punjabi pronunciation). Preserve punctuation, vowels and izafat; capitalize Roman titles but do not gratuitously recase verses.
+- Keep separately printed stanza numbers as standalone lines in both editions; the Basta ODG middle column supplies the printed numbering. Separate poem stanzas with blank lines.
+- Default six-verse layout is 4+2. Use `sixVerseLayout: "pairs"` only for reviewed 2+2+2 text. Do not apply Basta-specific duplicate-refrain cleanup to standalone lyrics.
+- Keep `romanLyrics: |-` YAML indentation intact; do not change the title when splitting body lines.
 
-Published `recitationId` values are permanent. Follow the [ID rules](RECITATION_SETS.md#data-and-source-integrity) before renaming, moving, or renumbering sources.
+## Basta
 
-### Urdu and Roman Urdu
-
-- Preserve reviewed wording, harakat, spelling, commas, stanza order, line breaks, and meaningful asterisks. Verify disputed Urdu/Roman order against the source; neither language is automatically authoritative.
-- Keep punctuation positions aligned between editions; remove stray spaces *before* commas.
-- Roman Urdu: preserve izafat/vowels; `ڑ` → `r`, Urdu `ے` → `e` (`بولے` → `bole`, `والے` → `wale`). Punjabi pronunciation may differ. Use **Husain** and **Hasan**, not double-s variants. Capitalize Roman title words (including hyphenated parts); don't recase verse text unnecessarily.
-- Keep stanza numerals as separate lines in *both* editions (ODG numbers come from the middle column); separate Markdown stanzas with blank lines. Stanza markers render as centered circles.
-- Preserve confirmed sixth/refrain verses. Default six-verse styling is 4+2; use `sixVerseLayout: "pairs"` only for reviewed 2+2+2 stanzas. **Do not** apply Basta-specific duplicate-refrain removal to standalone lyrics. Keep `romanLyrics: |-` lines indented inside YAML frontmatter; do not alter the title when splitting body verses.
-
-### Basta
-
-Pages, transliterations, index, and settings are in `src/data/basta/`. Preserve printed page numbers, scan/text alignment, title/byline prefaces, and matching `---***---` kalam boundaries in Urdu **and** Roman. Keep `/images/basta/...` paths root-relative. Generated streaming data must not be hand-edited.
+Basta index, source pages, Roman transcriptions and settings are in `src/data/basta/`. Preserve printed page numbers, title/byline prefaces and **matching** `---***---` Urdu/Roman boundaries. Never hand-edit generated streaming output. Audit results are review candidates, not permission to reconstruct OCR by guesswork.
 
 ```bash
-npm run basta:index:check      # Detect index drift
-npm run basta:index:sync       # Refresh index labels
-npm run basta:kalams:audit     # Report uncertain page boundaries
-npm run basta:breaks:rebuild   # Only after reviewing hand-corrected boundaries
+npm run basta:index:check
+npm run basta:kalams:audit
+npm run basta:kalams:review  # Scan-linked review queue
+npm run basta:index:sync    # Only for reviewed index corrections
+npm run basta:breaks:rebuild # Only for reviewed source boundaries
 ```
 
-## Code contributions
+Stable `recitationId` values and numbered-stanza anchors are permanent. Review [Recitation Set identity rules](RECITATION_SETS.md#data-and-source-integrity) before renaming, moving or renumbering a poem.
 
-Browser controllers belong in `src/client/`; shared models/parsers in `src/lib/`; route composition in `src/pages/`; common CSS/token ownership in [Architecture](ARCHITECTURE.md#styling-and-shared-components). Reuse shared reader controls, parsers, and rendering helpers. Keep user-facing copy focused on what visitors can do, not implementation details. Explain non-obvious decisions in comments; remove obsolete work notes.
+## Code and tests
 
-Never commit `dist/`, `.astro/`, dependencies, scratch files, or R2 binaries.
-
-## Validation
-
-Use Node **24** (minimum 22.23.4). Every change: `npm run build`, `git diff --check`, and review the diff. The build runs Node tests, permanent-ID checks, Astro, and Pagefind.
+Use Node.js **24** (minimum **22.23.4**) and `npm ci`. Reuse shared parsers, components and design tokens; avoid adding route-specific patches for cross-reader behavior. Write comments that explain non-obvious invariants, not progress notes.
 
 ```bash
-npm test                # Quick Node tests
-npm run test:smoke      # Critical Chromium reading/search/save/recitation journeys
-npm run test:browser    # Full Chromium suite (UI, themes, export, edge cases)
+npm test               # Node models, editorial/content contracts, tokens
+npm run check          # Strict Astro/TypeScript diagnostics
+npm run build          # Tests, stable IDs, Astro, Pagefind and offline manifest
+npm run test:smoke      # Critical Chromium journeys (@smoke)
+npm run test:browser    # Functional Chromium regression, excluding measurements
+npm run perf:assets     # Built file sizes (after build)
+npm run perf:browser    # Opt-in FCP/LCP, layout shift and resource transfer report (@perf)
+git diff --check
 ```
 
-Install Chromium once with `npx playwright install chromium`. Use the **full** suite for reader layout, theme, routing, export, and major workflow changes. Keep one test per distinct behavior; extend tests rather than copying variants. `@smoke` is reserved for critical journeys and defaults; appearance permutations, fine geometry, optional features, and negative cases belong in full-only tests. Prefer behavior/geometry assertions over screenshot comparisons; Playwright saves screenshots and traces on failures for inspection.
+Install Chromium with `npx playwright install chromium`. Browser tests need a production build first; `astro preview` does not reproduce Cloudflare Pages Functions or R2 redirects.
 
-**GitHub Actions:** All PR/main commits build and check IDs/assets. Add `[smoke-ci]` to the last commit message for the smoke browser suite; `[full-ci]` runs the complete Chromium suite and Basta boundary audit. `main` runs smoke and the audit automatically. Ordinary PR commits skip browsers unless marked.
+### Choosing test coverage
 
-Local Astro preview does not emulate Pages Functions/R2 redirects; test publication with the intended Cloudflare D1 bindings. Print/export changes require a real browser check for Nastaliq fonts and page breaks.
+- **Unit (`tests/*.test.mjs`):** parser, source identity, storage-independent logic, editorial boundaries and static build contracts. Extend the owning file; do not create a one-test file for a closely related function.
+- **Smoke (`@smoke`):** a small set of representative no-JavaScript reading, responsive navigation, Focus, search, favourites, theme, and Recitation Set creation journeys. Each should protect a distinct critical workflow.
+- **Full browser:** additional edition/viewport/theme permutations, edge cases, error handling, publishing, offline support, font loading, and regression geometry. These must stay in full even when not smoke.
+- **Performance (`@perf`):** non-gating Chromium measurements run separately with `npm run perf:browser` rather than making functional CI depend on noisy timing values.
+
+Do not copy a scenario merely to run it in smoke: mark its existing browser test. Prefer behavior and geometry assertions to screenshot goldens. CI retains screenshots/traces for failures.
+
+**CI:** Every PR/main change runs tests, typechecking and build checks. Changes to readers, shared code or browser tests run full Chromium; content-only PRs need an explicit `[smoke-ci]` or `[full-ci]` commit marker to add browser coverage. Main runs at least smoke; the scheduled Sunday check runs full. Inspect the successful run for the **final** commit, not an earlier commit.
+
+Never commit `dist/`, `.astro/`, `node_modules/`, temporary test output or R2 binaries. Source edits should keep permanent IDs stable and regenerate identity locks only through reviewed `npm run recitation:ids:sync` changes.
+
+## Manual review
+
+Follow [Quality assurance](QUALITY_ASSURANCE.md) for real viewport, zoom, font, accessibility and deployment checks. Full CI does not certify a screen reader or physical device. Confirm PDF export page breaks and Nastaliq rendering with an actual browser; verify published programme editing against deployed D1 bindings.
 
 Questions and corrections: **lyricsadmin@gmail.com**.

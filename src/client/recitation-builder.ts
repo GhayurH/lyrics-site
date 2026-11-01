@@ -3,6 +3,7 @@ import type { BastaStanza } from "../lib/basta-kalam-units";
 import type { RecitationDraft, RecitationItem, StanzaRef, RecitationSet } from "../lib/recitation-set";
 import { catalogById, getCatalog, loadBasta, loadCatalog } from "./recitation-catalog";
 import { validateRecitationSet } from "../lib/recitation-set";
+import { readTemplates, saveTemplate, removeTemplate, findTemplate, STARTER_TEMPLATES } from "./recitation-templates";
 import {
   createLocalDraft, draftFromRemote, draftUrl, duplicateDraft, editorUrl,
   findRemoteDraft, publicUrl, readDrafts, readerUrl, removeDraft, saveDraft,
@@ -131,11 +132,13 @@ export async function initRecitationBuilder(): Promise<void> {
       : !synced ? "Publish your programme changes before controlling the live position."
       : liveActive ? "Broadcasting the selected kalam to participants who opted in."
       : "Live following is stopped.";
+    elm<HTMLButtonElement>("recite-show-qr").hidden = !draft.remoteId;
     if (draft.remoteId) {
       elm<HTMLInputElement>("recite-public-url").value = publicUrl(draft.remoteId);
       elm<HTMLInputElement>("recite-edit-url").value =
         draft.editToken ? editorUrl(draft) : "Not available on this device";
       elm<HTMLButtonElement>("recite-copy-edit").disabled = !draft.editToken;
+      elm<HTMLButtonElement>("recite-show-qr").hidden = false;
     }
   }
   function refreshDrafts() {
@@ -349,6 +352,83 @@ export async function initRecitationBuilder(): Promise<void> {
     } catch (e) { say((e as Error).message); }
   }
 
+  function startFromTemplate(samples: boolean): void {
+    const template = findTemplate(elm<HTMLSelectElement>("recite-template").value);
+    if (!template) return;
+    if (samples && !catalogReady) { say("Poetry catalog is still loading."); return; }
+    if (samples && !template.suggestedTypes?.length) {
+      say("Saved templates already contain your chosen kalams; use Start from template."); return;
+    }
+    if ((draft.set.items.length || draft.set.title.trim()) &&
+        !confirm("Create a new draft? Your existing draft stays saved separately.")) return;
+    const next = createLocalDraft();
+    next.set = structuredClone(template.set);
+    next.set.items = next.set.items.map((item) => ({ ...item, uid: crypto.randomUUID() }));
+    delete next.set.live; delete next.set.permanent;
+    if (samples) {
+      const selected = new Set<string>();
+      for (const type of template.suggestedTypes || []) {
+        const item = [...catalogById.values()].find((entry) =>
+          entry.ready && entry.type === type && !selected.has(entry.kind + ":" + entry.id));
+        if (!item) continue;
+        selected.add(item.kind + ":" + item.id);
+        next.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id,
+          sourceTitle: item.title, note: "Example selection for " + type + "; review before publishing" });
+      }
+    }
+    setCurrent(next); persist(); render();
+    say(samples ? "Added sample kalams. Review every selection before sharing." :
+      "Template copied into a new draft.");
+  }
+  function refreshTemplates(): void {
+    const select = elm<HTMLSelectElement>("recite-template");
+    const current = select.value;
+    const items = [...STARTER_TEMPLATES, ...readTemplates()];
+    select.replaceChildren(...items.map((entry) => option(entry.id, entry.name)));
+    if (items.some((entry) => entry.id === current)) select.value = current;
+    const template = findTemplate(select.value);
+    elm<HTMLButtonElement>("recite-template-delete").disabled = !select.value.startsWith("saved:");
+    elm<HTMLButtonElement>("recite-template-fill").disabled = !template?.suggestedTypes?.length;
+    const stages = elm<HTMLElement>("recite-template-stages");
+    stages.replaceChildren();
+    for (const type of template?.suggestedTypes || []) {
+      const choose = button("Find " + type, () => {
+        elm<HTMLSelectElement>("recite-source").value = "all";
+        elm<HTMLInputElement>("recite-search").value = type;
+        resultLimit = 24; renderResults();
+        elm<HTMLElement>("recite-find-heading").scrollIntoView({behavior:"smooth",block:"start"});
+        elm<HTMLInputElement>("recite-search").focus();
+      }, false, "Find kalams of type " + type);
+      choose.className = "button button-secondary";
+      stages.append(choose);
+    }
+  }
+  refreshTemplates();
+  elm<HTMLSelectElement>("recite-template").addEventListener("change", refreshTemplates);
+  elm<HTMLButtonElement>("recite-template-use").addEventListener("click", () => startFromTemplate(false));
+  elm<HTMLButtonElement>("recite-template-fill").addEventListener("click", () => startFromTemplate(true));
+  elm<HTMLButtonElement>("recite-template-save").addEventListener("click", () => {
+    if (!draft.set.items.length && !draft.set.title.trim()) {
+      say("Add a title or a kalam first."); return;
+    }
+    const name = prompt("Template name:", draft.set.title || "Programme");
+    if (!name?.trim()) return;
+    try { saveTemplate(name.trim(), draft.set); refreshTemplates(); say("Template saved locally."); }
+    catch (e) { say((e as Error).message); }
+  });
+  elm<HTMLButtonElement>("recite-template-delete").addEventListener("click", () => {
+    const id = elm<HTMLSelectElement>("recite-template").value;
+    if (!id.startsWith("saved:") || !confirm("Delete saved template?")) return;
+    removeTemplate(id); refreshTemplates(); say("Template deleted.");
+  });
+  elm<HTMLButtonElement>("recite-show-qr").addEventListener("click", () => {
+    if (!draft.remoteId) return;
+    elm<HTMLImageElement>("recite-qr-image").src =
+      "https://api.qrserver.com/v1/create-qr-code/?size=260x260&data=" +
+      encodeURIComponent(publicUrl(draft.remoteId));
+    elm<HTMLDialogElement>("recite-qr-dialog").showModal();
+  });
+
   // Initialize local drafts before waiting for source catalogs.
   const drafts = readDrafts();
   draft = drafts[0] || createLocalDraft();
@@ -370,10 +450,10 @@ export async function initRecitationBuilder(): Promise<void> {
       const existing = findRemoteDraft(requestedSet);
       draft = existing
         ? { ...existing, set, publishedSnapshot: JSON.stringify(set),
-          expiresAt: payload.expiresAt ?? null,
+          expiresAt: payload.expiresAt ?? null, remoteRevision: payload.revision,
           ...(secret ? { editToken: secret } : {}) }
         : { ...draftFromRemote(requestedSet, set, secret),
-          expiresAt: payload.expiresAt ?? null };
+          expiresAt: payload.expiresAt ?? null, remoteRevision: payload.revision };
       saveDraft(draft);
       say("Shared programme loaded");
     } catch (e) { say((e as Error).message); }
@@ -386,7 +466,7 @@ export async function initRecitationBuilder(): Promise<void> {
   if (catalogReady && info.textContent === "Loading poetry catalog…") say("");
   if (catalogReady) {
     const add = params.get("add");
-    const item = add && catalogById.get(add);
+    const item = add ? catalogById.get(add) : undefined;
     if (item?.ready && draft.set.items.length < 40) {
       draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id, sourceTitle: item.title });
       persist(); render(); say("Added " + item.title);
@@ -503,10 +583,21 @@ export async function initRecitationBuilder(): Promise<void> {
     const publishButton = elm<HTMLButtonElement>("recite-publish");
     publishButton.disabled = true;
     try {
+      if (update && !draft.remoteRevision) {
+        // Old locally stored drafts predate revisions. Recover only when the
+        // published snapshot is byte-for-byte identical to the server copy.
+        const current = await fetch(url, { cache: "no-store" });
+        if (!current.ok) throw Error("Cannot verify the published copy. Reload its edit link.");
+        const existing = await current.json();
+        if (JSON.stringify(validateRecitationSet(existing.set)) !== draft.publishedSnapshot)
+          throw Error("The published programme changed elsewhere. Duplicate your draft before reloading.");
+        draft.remoteRevision = existing.revision;
+      }
       const response = await fetch(url, {
         method: update ? "PUT" : "POST",
         headers: { "Content-Type": "application/json",
-          ...(update ? { Authorization: "Bearer " + draft.editToken } : {}) },
+          ...(update ? { Authorization: "Bearer " + draft.editToken,
+            "If-Match": `"${draft.remoteRevision}"` } : {}) },
         body: JSON.stringify(clean),
       });
       const result = await response.json();
@@ -515,6 +606,7 @@ export async function initRecitationBuilder(): Promise<void> {
       // organizer has checked permanent preservation.
       if (!result.permanent) delete clean.permanent;
       draft.set = clean;
+      draft.remoteRevision = result.revision;
       draft.expiresAt = result.expiresAt ?? null;
       elm<HTMLInputElement>("recite-permanent").checked = !!clean.permanent;
       if (!update) {
@@ -540,6 +632,9 @@ export async function initRecitationBuilder(): Promise<void> {
     const index = Math.min(draft.set.items.length - 1, Math.max(0, currentIndex + offset));
     const uid = draft.set.items[index]?.uid;
     if (!uid) return;
+    if (!draft.remoteRevision) {
+      say("Reload the shared programme before navigating live."); return;
+    }
     updatingLive = true;
     for (const id of ["recite-live-prev","recite-live-next","recite-live-start","recite-live-stop"]) {
       elm<HTMLButtonElement>(id).disabled = true;
@@ -548,12 +643,13 @@ export async function initRecitationBuilder(): Promise<void> {
       const response = await fetch("/api/recitation-sets/" + draft.remoteId, {
         method: "PATCH",
         headers: { Authorization: "Bearer " + draft.editToken,
-          "Content-Type": "application/json" },
+          "Content-Type": "application/json", "If-Match": '"' + draft.remoteRevision + '"' },
         body: JSON.stringify({ active, currentUid: uid }),
       });
       const payload = await response.json();
       if (!response.ok) throw Error(payload.error || "Unable to change the live position");
       draft.set.live = payload.live;
+      draft.remoteRevision = payload.revision;
       draft.expiresAt = payload.expiresAt ?? null;
       draft.publishedSnapshot = JSON.stringify(draft.set);
       persist(); updateLinks();

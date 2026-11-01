@@ -262,7 +262,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     lastPanel?.isConnected && lastPanel.getClientRects().length ? lastPanel.scrollTop : 0,
   );
   function refreshTopButton(): void {
-    topButton.hidden = scrollPosition() < 250;
+    topButton!.hidden = scrollPosition() < 250;
   }
   topButton.addEventListener("click", () => {
     const behavior = readingScrollBehavior();

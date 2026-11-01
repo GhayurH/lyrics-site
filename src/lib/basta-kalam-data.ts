@@ -20,7 +20,7 @@ export function loadBastaKalamCatalog(): Promise<BastaKalamAudit> {
         roman: byPage.get(item.data.page),
       }));
       const catalog = buildBastaKalamCatalog(index, pages);
-      return { ...catalog, kalams: applyRecitationIds(catalog.kalams, identityLock) };
+      return { ...catalog, kalams: applyRecitationIds(catalog.kalams, { ...identityLock, version: 1 }) };
     })();
   }
   return catalogPromise;

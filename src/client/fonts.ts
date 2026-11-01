@@ -1,4 +1,5 @@
 // Reader font options are centralized and allowlisted; user settings never become arbitrary CSS.
+import { ensureFontStyles } from "./font-assets.ts";
 export const FONT_STORAGE_KEY = "kalam:reading-fonts";
 export const FONT_CHOICES = {
   // Alphabetical display order; stable values preserve saved reader settings.
@@ -67,5 +68,12 @@ export function applyFontPreferences(fonts: FontPreferences, persist = true): vo
     try { localStorage.setItem(FONT_STORAGE_KEY, JSON.stringify(fonts)); }
     catch { /* Private browsing and storage restrictions are supported. */ }
   }
-  if (changed) window.dispatchEvent(new Event("kalam:fonts-changed"));
+  if (changed) {
+    window.dispatchEvent(new Event("kalam:fonts-changed"));
+    void ensureFontStyles(fonts.urdu,fonts.roman)
+      .then(() => { if (document.documentElement.dataset.urduFont === fonts.urdu &&
+                           document.documentElement.dataset.romanFont === fonts.roman)
+        window.dispatchEvent(new Event("kalam:fonts-changed")); })
+      .catch((error) => console.error("Unable to load selected font:",error));
+  }
 }
