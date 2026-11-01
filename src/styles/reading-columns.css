@@ -1,7 +1,6 @@
 /* File role: One responsive layout policy for all reading editions; containers determine column viability. */
 :is(.lyric-page, .basta-page, .basta-reader, .basta-index-page) { container: reader-shell / inline-size; }
 .reading-controls { justify-content: center; }
-.reading-focus-enter { margin-inline: 0; }
 /* Each selection's *entire* cell (not just the text) is its checked surface. */
 .reading-column-choices { display: flex; flex-wrap: nowrap; overflow: hidden; width: 100%; border: var(--ui-border); border-radius: var(--ui-radius-tight); }
 .reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: var(--ui-target); border-inline-end: var(--ui-border); cursor: pointer; }

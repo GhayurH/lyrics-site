@@ -659,6 +659,26 @@ test("Basta Focus scan stays centred and fully visible when Options expands", as
   expect(after.y + after.height).toBeLessThanOrEqual(900);
 });
 
+
+test("narrow landscape Basta Focus keeps the scan above a single language", async ({ page }) => {
+  await page.setViewportSize({ width: 640, height: 360 });
+  await page.goto("/basta/284/");
+  const controls = page.locator("[data-reading-controls]");
+  const menu = controls.locator("[data-reading-regular-toggle]");
+  if (await menu.isVisible()) await menu.click();
+  await controls.locator('[data-reading-column][value="image"]').check();
+  await controls.locator('[data-reading-column][value="urdu"]').check();
+  await controls.locator('[data-reading-column][value="roman"]').uncheck();
+  await controls.locator("[data-reading-focus-enter]").click();
+  const image = page.locator(".basta-original-page");
+  const urdu = page.locator(".basta-page-urdu");
+  await expect(image).toBeVisible();
+  await expect(urdu).toBeVisible();
+  await expect(image).not.toHaveCSS("position", "sticky");
+  const [scan, text] = await Promise.all([image.boundingBox(), urdu.boundingBox()]);
+  expect(text.y).toBeGreaterThanOrEqual(scan.y + scan.height - 2);
+});
+
 test("portrait Basta Focus scans remain above Urdu poetry @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   for (const url of ["/basta/284/", "/basta/read/#page-284"]) {
