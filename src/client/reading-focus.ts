@@ -153,8 +153,8 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
 
   const exit = (updateHistory: boolean, saved?: ExitSnapshot) => {
     if (!active) return;
-    // Explicit exit first goes back to the normal-history entry. Restoring the
-    // page before history.back() used to be overwritten by browser scroll restoration.
+    // Return to the non-Focus history entry before restoring the position;
+    // otherwise the browser's own scroll restoration can override our anchor.
     if (updateHistory && history.state?.[FOCUS_FLAG]) {
       pendingExit = captureExit();
       history.back();
@@ -169,8 +169,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     setOutsideInert(false);
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
 
-    // The regular reader's canonical URL should now point to the page that was
-    // on screen, rather than an old #page-N hash or the top of the book.
+    // Keep the normal reader's URL anchored to the page visible on exit.
     if (isContinuous && snapshot.pageNumber !== undefined) {
       const url = new URL(location.href);
       url.searchParams.delete("reading");

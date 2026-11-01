@@ -256,7 +256,7 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
   .recite-steps a { min-width: 0; justify-content: center; padding: .4rem .35rem; font-size: .8rem; }
 }
 
-/* Recitation poems now use the shared edition grid and responsive breakpoints. */
+/* Programme poems inherit edition breakpoints; clip only their reading surface. */
 .recite-editions { width: 100%; overflow: clip; }
 .recite-reader-toolbar :is(#recite-previous,#recite-next) { font-weight: 700; }
 .recite-reader-progress { font-variant-numeric: tabular-nums; }

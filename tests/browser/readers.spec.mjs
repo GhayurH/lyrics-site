@@ -881,3 +881,20 @@ test("scan floating follows actual column geometry across portrait and landscape
       .toBe(adjacent ? "true" : "false");
   }
 });
+
+test("Basta page progress tracks the Focus scroller instead of document scroll", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/200/");
+  await page.locator("[data-reading-focus-enter]").click();
+  const reading = page.locator("[data-reading-root]");
+  await expect.poll(() => reading.evaluate((root) =>
+    root.scrollHeight - root.clientHeight)).toBeGreaterThan(200);
+  await reading.evaluate((root) => {
+    root.scrollTop = (root.scrollHeight - root.clientHeight) * 0.6;
+  });
+  await expect.poll(() => page.evaluate(() => {
+    const saved = JSON.parse(localStorage.getItem("kalam:basta-position") || "{}");
+    return saved.mode === "page" && saved.page === 200 ? saved.offset : 0;
+  })).toBeGreaterThan(0.4);
+  expect(await page.evaluate(() => window.scrollY)).toBeLessThan(2000);
+});
