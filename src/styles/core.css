@@ -156,6 +156,18 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 .reading-controls button:focus-visible,
 .reading-controls select:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
+/* All poetry editions use the same one-line, justified verse contract. */
+:is(.lyric-verse, .basta-verse-poetry) {
+  display: block;
+  unicode-bidi: plaintext;
+  white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: normal;
+  min-inline-size: 0;
+  text-align: justify;
+  text-align-last: justify;
+}
+
 /* Only actual kalam titles (not poets, verses, or page/navigation headings)
    share centered emphasis across Urdu, Roman, Basta, and recitation readers. */
 .kalam-reading-title,
