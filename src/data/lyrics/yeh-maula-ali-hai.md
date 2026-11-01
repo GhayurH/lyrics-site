@@ -1,5 +1,5 @@
 ---
-title: "یہ مولا علي ہے"
+title: "یہ مولا علی ہے"
 alternateTitle: "Yeh Maula Ali Hai"
 language: "Urdu"
 lang: "ur"
