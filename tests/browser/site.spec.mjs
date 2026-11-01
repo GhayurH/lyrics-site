@@ -166,7 +166,7 @@ test("homepage continues local reading without showing an empty placeholder", as
   await expect(page.locator('.home-continue-link[href="/lyrics/aa-asghar-bin-tere/"]')).toBeVisible();
 });
 
-test("category pages distinguish standalone poems and Basta selections @smoke", async ({ page }) => {
+test("category pages distinguish standalone poems and Basta selections", async ({ page }) => {
   await page.goto("/");
   const categories = page.locator(".home-type-card");
   await expect(categories.first()).toBeVisible();
@@ -211,7 +211,7 @@ test("saved library has a separate kalam/stanza bookmark section", async ({ page
   await expect(page.locator("#saved-overview-empty")).toBeVisible();
 });
 
-test("search results index poetry without including metadata controls @smoke", async ({ page }) => {
+test("search results index poetry without including metadata controls", async ({ page }) => {
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const source = page.locator("[data-pagefind-body]");
   await expect(source).toHaveCount(1);
@@ -233,7 +233,7 @@ test("recitation catalog never displays negative remaining results", async ({ pa
     (await more.textContent() ?? "").includes(" remaining)") && !(await more.textContent() ?? "").includes("(-")).toBe(true);
 });
 
-test("saved Basta stanza retains its printed label instead of the bookmark index @smoke", async ({ page }) => {
+test("saved Basta stanza retains its printed label instead of the bookmark index", async ({ page }) => {
   await page.goto("/basta/264/");
   const stanza = page.locator(".basta-page-urdu .basta-stanza-bookmark").nth(2);
   await expect(stanza).toBeVisible();
@@ -254,7 +254,7 @@ test("Basta index section navigation keeps real page links", async ({ page }) =>
   expect((await page.locator(target + " .basta-index-mobile-item a").first().getAttribute("href"))?.startsWith("/basta/")).toBe(true);
 });
 
-test("mobile Pagefind dropdown stays on-screen and can select a filter @smoke", async ({ page }) => {
+test("mobile Pagefind dropdown stays on-screen and can select a filter", async ({ page }) => {
   for (const width of [320, 390]) {
     await page.setViewportSize({ width, height: 760 });
     await page.goto("/search/");
@@ -278,7 +278,7 @@ test("mobile Pagefind dropdown stays on-screen and can select a filter @smoke", 
   }
 });
 
-test("Pagefind search results follow colour theme including custom metadata @smoke", async ({ page }) => {
+test("Pagefind search results follow colour theme including custom metadata", async ({ page }) => {
   await page.goto("/search/");
   await expect(page.locator(".search-result-collection").first()).toBeVisible();
   const dialog = page.locator("#theme-dialog");
