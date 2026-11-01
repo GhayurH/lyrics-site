@@ -520,7 +520,7 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 .reading-context-nav .basta-jump-form button { min-height: var(--ui-target); }
 @media (max-width: 700px) {
   .reading-controls > .reading-context-nav { grid-column: 1 / -1; grid-row: 2; }
-  .reading-context-nav .basta-pager { grid-template-columns: auto minmax(0, 1fr) auto; gap: .35rem; }
+  .reading-context-nav .basta-pager { grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: .35rem; }
   .reading-context-nav .basta-nav-button { min-height: var(--ui-target); padding: .35rem .45rem; font-size: .76rem; }
   .reading-context-nav .basta-jump-form { gap: .3rem; min-width: 0; }
   .reading-context-nav .basta-jump-form label span { display: none; }
