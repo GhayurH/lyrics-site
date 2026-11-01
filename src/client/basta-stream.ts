@@ -1,6 +1,7 @@
 // File role: Progressive continuous-reader loader: hydrates static page chunks near the viewport and resolves deep #page-N links without shipping the full book HTML initially.
 import type { BastaReaderChunk, BastaReaderPageData } from "../lib/basta";
-import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
+import { splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
+import { renderBastaTextBlock } from "./basta-dom";
 import settings from "../data/basta/settings.json";
 import { romanUnavailable } from "../lib/edition-availability";
 
@@ -41,21 +42,10 @@ function renderOriginalImage(page: BastaReaderPageData, sync = false): HTMLEleme
   return figure;
 }
 
-function appendBastaVerses(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
-  for (const line of layoutBastaKalam(value, indentStanzas, stanzaStyle)) {
-    if (line.hidden) continue;
-    const verse = element("span", bastaVerseClassNames(line));
-    verse.textContent = line.text;
-    container.append(verse);
-  }
-}
-
 function appendBastaText(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
   splitBastaKalams(value).forEach((kalam, index) => {
     if (index > 0) container.append(renderKalamBreak());
-    const block = element("div", "basta-kalam-text");
-    appendBastaVerses(block, kalam, indentStanzas, stanzaStyle);
-    container.append(block);
+    container.append(renderBastaTextBlock(kalam, indentStanzas, stanzaStyle));
   });
 }
 
