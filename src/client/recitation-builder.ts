@@ -598,6 +598,9 @@ export async function initRecitationBuilder(): Promise<void> {
     const index = Math.min(draft.set.items.length - 1, Math.max(0, currentIndex + offset));
     const uid = draft.set.items[index]?.uid;
     if (!uid) return;
+    if (!draft.remoteRevision) {
+      say("Reload the shared programme before navigating live."); return;
+    }
     updatingLive = true;
     for (const id of ["recite-live-prev","recite-live-next","recite-live-start","recite-live-stop"]) {
       elm<HTMLButtonElement>(id).disabled = true;
@@ -606,7 +609,7 @@ export async function initRecitationBuilder(): Promise<void> {
       const response = await fetch("/api/recitation-sets/" + draft.remoteId, {
         method: "PATCH",
         headers: { Authorization: "Bearer " + draft.editToken,
-          "Content-Type": "application/json" },
+          "Content-Type": "application/json", "If-Match": '"' + draft.remoteRevision + '"' },
         body: JSON.stringify({ active, currentUid: uid }),
       });
       const payload = await response.json();

@@ -101,6 +101,11 @@ export async function onRequestPatch({ request, params, env }) {
     ).bind(params.id, hash).first();
     if (!entry) return error("Edit link invalid or set not found", 403);
     if (isExpired(entry, now.toISOString(), preview)) return error("This programme has expired", 410);
+    const expectedRevision = request.headers.get("if-match")?.replace(/^"|"$/g, "");
+    if (!expectedRevision || !/^[a-f0-9]{64}$/.test(expectedRevision))
+      return error("Reload the published programme before navigating live", 428);
+    if (await digest(entry.document) !== expectedRevision)
+      return error("The live programme changed in another organizer tab; reload before navigating.", 409);
     const document = validateDocument(JSON.parse(entry.document));
     if (!document.items.some((item) => item.uid === live.currentUid))
       return error("Live position no longer exists in this programme", 400);

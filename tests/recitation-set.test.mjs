@@ -276,22 +276,27 @@ test("organizer live pointer is private to edit capability and follows programme
   const db = fakeDb(), env = { RECITATION_DB: db };
   const second = { ...first, uid: "a61002ab-16f4-4535-bf2a-8ca02cefc956" };
   const set = { ...example, items: [first, second] };
-  const { id, editToken } = await (await onRequestPost({ request: postRequest(set), env })).json();
+  const { id, editToken, revision } = await (await onRequestPost({ request: postRequest(set), env })).json();
   const pointer = { active: true, currentUid: second.uid };
   assert.equal((await onRequestPatch({ params: { id }, env,
-    request: editRequest(id, "PATCH", "0".repeat(64), pointer) })).status, 403);
+    request: editRequest(id, "PATCH", "0".repeat(64), pointer, revision) })).status, 403);
   assert.equal((await onRequestPatch({ params: { id }, env,
-    request: editRequest(id, "PATCH", editToken, { ...pointer, currentUid: "missing-entry" }) })).status, 400);
+    request: editRequest(id, "PATCH", editToken, { ...pointer, currentUid: "missing-entry" }, revision) })).status, 400);
   const response = await onRequestPatch({ params: { id }, env,
-    request: editRequest(id, "PATCH", editToken, pointer) });
+    request: editRequest(id, "PATCH", editToken, pointer, revision) });
   assert.equal(response.status, 200);
+  const liveRevision = (await response.clone().json()).revision;
+  assert.equal((await onRequestPatch({ params: { id }, env,
+    request: editRequest(id, "PATCH", editToken, pointer, revision) })).status, 409);
+  assert.equal((await onRequestPatch({ params: { id }, env,
+    request: editRequest(id, "PATCH", editToken, pointer) })).status, 428);
   assert.deepEqual((await response.json()).live, pointer);
   const shared = await (await onRequestGet({ params: { id }, env })).json();
   assert.deepEqual(shared.set.live, pointer);
   assert.deepEqual(validateRecitationSet(shared.set), validateDocument(shared.set));
   assert.equal(db.data.get(id).hash, await digest(editToken));
   const stopped = await onRequestPatch({ params: { id }, env,
-    request: editRequest(id, "PATCH", editToken, { active: false, currentUid: second.uid }) });
+    request: editRequest(id, "PATCH", editToken, { active: false, currentUid: second.uid }, liveRevision) });
   assert.equal(stopped.status, 200);
   assert.equal((await (await onRequestGet({ params: { id }, env })).json()).set.live.active, false);
   assert.throws(() => validateDocument({ ...set, live: { active: true, currentUid: "missing" } }));
