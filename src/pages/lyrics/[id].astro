@@ -11,6 +11,7 @@ import FavoriteButton from "../../components/FavoriteButton.astro";
 import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-data";
 import "../../styles/lyrics.css";
 import "../../styles/corrections.css";
+import { searchIndexAliases } from "../../lib/search-normalization";
 import {
   getLyricKalamType,
   searchUrl,
@@ -211,6 +212,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     {/* Index only real poetry. Paragraphs keep distinct source lines apart
         so Pagefind cannot join them into unreadable search excerpts. */}
     <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
+      <p>{searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" "))}</p>
       <p>{data.title}</p>
       {data.alternateTitle && <p>{data.alternateTitle}</p>}
       {(lyric.body ?? "").split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (

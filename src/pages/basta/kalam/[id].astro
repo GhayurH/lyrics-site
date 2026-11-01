@@ -9,6 +9,7 @@ import type { BastaKalam } from "../../../lib/basta-kalam-units";
 import "../../../styles/basta.css";
 import "../../../styles/basta-kalam.css";
 import "../../../styles/corrections.css";
+import { searchIndexAliases } from "../../../lib/search-normalization";
 
 export const prerender = true;
 export async function getStaticPaths() {
@@ -27,13 +28,14 @@ const scanUrl = `/images/basta/original/${String(page).padStart(3, "0")}.png`;
   title={`${kalam.romanName || kalam.name} | Basta | Kalam Archive`}
   description={`Read ${kalam.romanName || kalam.name} in Urdu${hasRoman ? " and Roman Urdu" : ""}, with the original Basta page scans.`}
 >
-  <article class="basta-page basta-kalam-page">
+  <article class="basta-page basta-kalam-page" data-pagefind-body>
     <nav class="basta-subnav" aria-label="Basta navigation">
       <a href="/basta/">Basta</a><span aria-hidden="true">/</span>
       <a href="/basta/index/">Index</a><span aria-hidden="true">/</span>
       <a href={`/basta/${page}/`}>Printed page {page}</a>
     </nav>
     <header class="basta-kalam-heading">
+      <span class="visually-hidden">{searchIndexAliases([kalam.name,kalam.romanName,kalam.urdu,kalam.roman].filter(Boolean).join(" "))}</span>
       <p class="eyebrow">{kalam.sectionRoman} · {kalam.indexNumber}</p>
       <h1 lang="ur" dir="rtl">{kalam.name}</h1>
       {kalam.romanName && <p lang="en" dir="ltr">{kalam.romanName}</p>}
