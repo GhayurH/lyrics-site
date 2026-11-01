@@ -52,6 +52,8 @@ test("reader-shell breakpoints and responsive edition rules have one owner", () 
   assert.doesNotMatch(css["reading-focus.css"], /@media\s*\(max-width: 700px\)\s*and\s*\(orientation: portrait\)/);
   assert.match(layout, /\.recite-editions \.lyric-reading-roman\s*\{\s*border-inline-end: 0/);
   assert.doesNotMatch(layout, /@container reader-shell \(max-width: 40rem\)/);
+  assert.doesNotMatch(layout, /@media\s*\(max-width: 700px\)\s*and\s*\(orientation: portrait\)/);
+  assert.match(layout, /\.basta-page-grid\[data-reading-root\]\.basta-page-grid-with-roman\s*\{/);
   // Scans and the index intentionally have separate, documented cutoffs.
   const bounds = [...layout.matchAll(/@container reader-shell \((?:min|max)-width: ([\d.]+)rem/g)]
     .map((match) => Number(match[1]));
