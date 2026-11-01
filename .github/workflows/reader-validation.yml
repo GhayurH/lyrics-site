@@ -74,18 +74,15 @@ jobs:
       - run: npm run build
       - name: Report JavaScript, CSS, and font asset sizes
         run: npm run perf:assets
-      - name: Audit Basta page boundaries
+      - name: Generate source review queue (Basta and standalone)
         if: steps.test_mode.outputs.full == 'true'
-        run: npm run basta:kalams:audit
-      - name: Generate scan-linked editorial review queue
-        if: steps.test_mode.outputs.full == 'true'
-        run: npm run basta:kalams:review > basta-review.md
+        run: npm run content:review -- --markdown > content-review.md
       - name: Save editorial review queue
         if: steps.test_mode.outputs.full == 'true'
         uses: actions/upload-artifact@v6
         with:
-          name: basta-editorial-review
-          path: basta-review.md
+          name: content-review
+          path: content-review.md
           retention-days: 14
       - name: Verify deployment asset redirects
         run: |

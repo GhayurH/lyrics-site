@@ -20,12 +20,11 @@
     "test": "node --experimental-strip-types --test tests/*.test.mjs",
     "test:smoke": "playwright test --grep @smoke",
     "test:browser": "playwright test --grep-invert @perf",
-    "basta:kalams:audit": "node --experimental-strip-types scripts/audit-basta-kalams.mjs",
+    "content:review": "node --experimental-strip-types scripts/review-content.mjs",
     "recitation:ids:check": "node --experimental-strip-types scripts/recitation-identities.mjs --check",
     "recitation:ids:sync": "node --experimental-strip-types scripts/recitation-identities.mjs --sync",
     "check": "npm install --no-save --package-lock=false @astrojs/check@0.9.12 typescript@6.0.2 && astro check",
     "perf:assets": "node scripts/report-build-assets.mjs",
-    "basta:kalams:review": "node --experimental-strip-types scripts/audit-basta-kalams.mjs --review",
     "perf:browser": "playwright test --grep @perf"
   },
   "dependencies": {
