@@ -7,9 +7,10 @@ import {
 import {
   applyTheme, DEFAULT_PALETTE, PALETTE_KEY, PALETTE_BASE_KEY, readCustomPalette,
   readCustomPaletteBase, readTheme, normalizeCssHex, paletteTextColors,
+  paletteContrastScores, PRESET_THEME_GROUPS,
   type AdvancedColor, type CustomPalette, type ThemeName,
 } from "./theme";
-import { applyFontPreferences, FONT_STORAGE_KEY, parseFontPreferences, readFontPreferences, type FontPreferences } from "./fonts";
+import { applyFontPreferences, DEFAULT_FONTS, FONT_STORAGE_KEY, parseFontPreferences, readFontPreferences, type FontPreferences } from "./fonts";
 
 function syncFavoriteButtons(): void {
   const favorites = new Set(readFavoriteIds());
@@ -195,6 +196,33 @@ function initThemePicker(): void {
   const note = dialog?.querySelector<HTMLElement>("#theme-contrast-note");
   if (!trigger || !dialog || !fields || !note) return;
 
+  type AppearanceTab = "colors" | "fonts";
+  let activeTab: AppearanceTab = "colors";
+  const switchTab = (tab: AppearanceTab, focus = false) => {
+    activeTab = tab;
+    for (const name of ["colors", "fonts"] as const) {
+      const control = dialog.querySelector<HTMLButtonElement>("#theme-" + name + "-tab");
+      const panel = dialog.querySelector<HTMLElement>("#theme-" + name + "-panel");
+      const active = name === tab;
+      if (control) {
+        control.setAttribute("aria-selected", String(active));
+        control.tabIndex = active ? 0 : -1;
+        if (focus && active) control.focus();
+      }
+      if (panel) panel.hidden = !active;
+    }
+  };
+  for (const name of ["colors", "fonts"] as const) {
+    dialog.querySelector<HTMLButtonElement>("#theme-" + name + "-tab")?.addEventListener("click", () => switchTab(name));
+  }
+  dialog.querySelector<HTMLElement>(".theme-pref-tabs")?.addEventListener("keydown", (event) => {
+    if (!["ArrowRight", "ArrowLeft", "Home", "End"].includes(event.key)) return;
+    event.preventDefault();
+    const next = event.key === "Home" ? "colors" : event.key === "End" ? "fonts"
+      : activeTab === "colors" ? "fonts" : "colors";
+    switchTab(next, true);
+  });
+
   let fonts: FontPreferences = readFontPreferences();
   let selected: ThemeName = readTheme();
   let palette: CustomPalette = readCustomPalette();
@@ -236,6 +264,20 @@ function initThemePicker(): void {
       input.checked = input.value === selected;
     });
     fields.hidden = selected !== "custom";
+    const label = PRESET_THEME_GROUPS.flatMap((group) => group.themes)
+      .find((item) => item.id === selected)?.label ?? "My Custom theme";
+    const current = dialog.querySelector<HTMLElement>("#theme-current-name");
+    if (current) current.textContent = label;
+    const editCurrent = dialog.querySelector<HTMLButtonElement>("#theme-edit-current");
+    if (editCurrent) editCurrent.hidden = selected === "custom";
+    for (const group of PRESET_THEME_GROUPS.slice(1)) {
+      if (!group.themes.some((item) => item.id === selected)) continue;
+      const collection = Array.from(dialog.querySelectorAll<HTMLDetailsElement>("[data-theme-collection]"))
+        .find((node) => node.dataset.themeCollection === group.label);
+      if (collection) collection.open = true;
+    }
+    const alviNote = dialog.querySelector<HTMLElement>("#theme-font-install-note");
+    if (alviNote) alviNote.hidden = fonts.urdu !== "alvi";
     for (const name of colorNames) {
       const input = dialog.querySelector<HTMLInputElement>("#theme-" + name);
       const output = dialog.querySelector<HTMLOutputElement>("#theme-" + name + "-value");
@@ -258,9 +300,18 @@ function initThemePicker(): void {
       }
       if (output) output.textContent = value.toUpperCase();
     }
-    note.hidden = selected !== "custom" || ratio >= 4.5;
+    const scores = paletteContrastScores(palette);
+    for (const [role, title] of [["primary", "Main text"], ["muted", "Muted text"], ["button", "Button text"]] as const) {
+      const item = dialog.querySelector<HTMLElement>("#theme-contrast-" + role);
+      if (!item) continue;
+      const value = scores[role];
+      item.textContent = title + ": " + value.toFixed(1) + ":1 " + (value >= 4.5 ? "(AA)" : "(Low contrast)");
+      item.dataset.lowContrast = String(value < 4.5);
+    }
+    note.hidden = selected !== "custom" || (ratio >= 4.5 && scores.button >= 4.5);
     note.textContent = note.hidden ? "" :
-      "For readable text, increase contrast between the text and both backgrounds, or switch text colours to Auto.";
+      (scores.button < 4.5 ? "Button text has low contrast. Choose a darker or lighter accent colour."
+        : "For readable text, increase contrast between the text and both backgrounds, or switch text colours to Auto.");
   };
 
   // The bootstrap already applied the stored theme before paint. Sync UI
@@ -269,6 +320,7 @@ function initThemePicker(): void {
 
   trigger.addEventListener("click", () => {
     render(false);
+    switchTab(activeTab);
     dialog.showModal();
   });
   dialog.querySelectorAll<HTMLInputElement>('input[name="theme-mode"]').forEach((input) => {
@@ -276,16 +328,50 @@ function initThemePicker(): void {
       if (!input.checked) return;
       const next = input.value as ThemeName;
       if (next === "custom" && selected !== "custom") {
-        // Copy the active preset's surfaces AND type/border roles into the
-        // initial Auto palette; never silently replace Dark text with #fff.
-        palette = paletteFromCurrentPreset();
-        startingPalette = { ...palette };
-        try { localStorage.setItem(PALETTE_BASE_KEY, JSON.stringify(startingPalette)); }
+        // Reopening My Custom never destroys an existing saved palette.
+        let hasSavedCustom = false;
+        try { hasSavedCustom = localStorage.getItem(PALETTE_KEY) !== null; }
         catch { /* Storage can be blocked. */ }
+        if (hasSavedCustom) {
+          palette = readCustomPalette();
+          startingPalette = readCustomPaletteBase();
+        } else {
+          palette = paletteFromCurrentPreset();
+          startingPalette = { ...palette };
+          try { localStorage.setItem(PALETTE_BASE_KEY, JSON.stringify(startingPalette)); }
+          catch { /* Storage can be blocked. */ }
+        }
       }
       selected = next;
       render(true);
     });
+  });
+  dialog.querySelector<HTMLButtonElement>("#theme-edit-current")?.addEventListener("click", () => {
+    // Only this explicit action replaces a saved Custom palette with a preset.
+    if (selected === "custom") return;
+    palette = paletteFromCurrentPreset();
+    startingPalette = { ...palette };
+    try { localStorage.setItem(PALETTE_BASE_KEY, JSON.stringify(startingPalette)); }
+    catch { /* Storage can be blocked. */ }
+    selected = "custom";
+    render(true);
+  });
+  dialog.querySelector<HTMLButtonElement>("#theme-colors-default")?.addEventListener("click", () => {
+    selected = "auto";
+    palette = { ...DEFAULT_PALETTE };
+    startingPalette = { ...DEFAULT_PALETTE };
+    try {
+      localStorage.removeItem("theme");
+      localStorage.removeItem(PALETTE_KEY);
+      localStorage.removeItem(PALETTE_BASE_KEY);
+    } catch { /* Storage can be blocked. */ }
+    render(false);
+  });
+  dialog.querySelector<HTMLButtonElement>("#theme-fonts-default")?.addEventListener("click", () => {
+    fonts = { ...DEFAULT_FONTS };
+    try { localStorage.removeItem(FONT_STORAGE_KEY); }
+    catch { /* Storage can be blocked. */ }
+    render(false);
   });
   for (const name of colorNames) {
     dialog.querySelector<HTMLInputElement>("#theme-" + name)?.addEventListener("input", (event) => {
@@ -331,6 +417,10 @@ function initThemePicker(): void {
   // The native modal handles Escape and keeps keyboard focus inside the dialog.
   dialog.addEventListener("click", (event) => {
     if (event.target === dialog) dialog.close();
+  });
+
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
+    if (selected === "auto") render(false);
   });
 
   window.addEventListener("storage", (event) => {
