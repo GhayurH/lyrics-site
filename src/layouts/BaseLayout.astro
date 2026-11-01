@@ -65,6 +65,7 @@ const aboutActive = path.startsWith("/about/");
     <link rel="canonical" href={canonicalURL} />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <title>{title}</title>
@@ -226,6 +227,9 @@ const aboutActive = path.startsWith("/about/");
     <script>
       import { initSiteShell } from "../client/site";
       initSiteShell();
+      if (import.meta.env.PROD && "serviceWorker" in navigator) {
+        window.addEventListener("load", () => { void navigator.serviceWorker.register("/sw.js").catch(() => {}); }, { once: true });
+      }
     </script>
   </body>
 </html>
