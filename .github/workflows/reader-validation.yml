@@ -29,6 +29,8 @@ jobs:
           node-version: '24'
           cache: npm
       - run: npm ci
+      - name: Validate Astro and TypeScript semantics
+        run: npm run check
       # Every build runs Node tests and stable-ID checks through prebuild.
       # Ordinary PR updates skip browsers. Explicit commit markers control
       # milestones; main always receives at least a browser smoke pass.
@@ -56,6 +58,8 @@ jobs:
             echo 'smoke=false' >> "$GITHUB_OUTPUT"
           fi
       - run: npm run build
+      - name: Report JavaScript, CSS, and font asset sizes
+        run: npm run perf:assets
       - name: Audit Basta page boundaries
         if: steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'
         run: npm run basta:kalams:audit

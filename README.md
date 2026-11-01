@@ -21,6 +21,7 @@ cd lyrics-site
 npm ci
 npm run dev             # localhost:4321
 npm run build           # Node tests, ID checks, Astro, Pagefind
+npm run check           # Astro/TypeScript semantic validation
 npm run test:smoke      # Critical Chromium journeys
 npm run test:browser    # Full browser regression suite
 npm run preview

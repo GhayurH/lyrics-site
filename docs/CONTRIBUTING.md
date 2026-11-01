@@ -41,6 +41,8 @@ Use Node **24** (minimum 22.23.4). Every change: `npm run build`, `git diff --ch
 
 ```bash
 npm test                # Quick Node tests
+npm run check           # Astro and TypeScript semantic diagnostics (installs pinned checker in temporary dev dependencies)
+npm run perf:assets     # Profile emitted CSS/JS/font files after building
 npm run test:smoke      # Critical Chromium reading/search/save/recitation journeys
 npm run test:browser    # Full Chromium suite (UI, themes, export, edge cases)
 ```
