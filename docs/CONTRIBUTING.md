@@ -16,7 +16,7 @@ Published `recitationId` values are permanent. Follow the [ID rules](RECITATION_
 - Keep punctuation positions aligned between editions; remove stray spaces *before* commas.
 - Roman Urdu: preserve izafat/vowels; `ڑ` → `r`, Urdu `ے` → `e` (`بولے` → `bole`, `والے` → `wale`). Punjabi pronunciation may differ. Use **Husain** and **Hasan**, not double-s variants. Capitalize Roman title words (including hyphenated parts); don't recase verse text unnecessarily.
 - Keep stanza numerals as separate lines in *both* editions (ODG numbers come from the middle column); separate Markdown stanzas with blank lines. Stanza markers render as centered circles.
-- Preserve confirmed sixth/refrain verses. Default six-verse styling is 4+2; use `sixVerseLayout: "pairs"` only for reviewed 2+2+2 stanzas. **Do not** apply Basta-specific duplicate-refrain removal to standalone lyrics.
+- Preserve confirmed sixth/refrain verses. Default six-verse styling is 4+2; use `sixVerseLayout: "pairs"` only for reviewed 2+2+2 stanzas. **Do not** apply Basta-specific duplicate-refrain removal to standalone lyrics. Keep `romanLyrics: |-` lines indented inside YAML frontmatter; do not alter the title when splitting body verses.
 
 ### Basta
 
