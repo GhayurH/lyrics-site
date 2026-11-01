@@ -23,7 +23,7 @@
     "basta:kalams:audit": "node --experimental-strip-types scripts/audit-basta-kalams.mjs",
     "recitation:ids:check": "node --experimental-strip-types scripts/recitation-identities.mjs --check",
     "recitation:ids:sync": "node --experimental-strip-types scripts/recitation-identities.mjs --sync",
-    "check": "npm install --no-save --package-lock=false @astrojs/check@0.9.12 typescript@7.0.2 && astro check",
+    "check": "npm install --no-save --package-lock=false @astrojs/check@0.9.12 typescript@6.0.2 && astro check",
     "perf:assets": "node scripts/report-build-assets.mjs"
   },
   "dependencies": {
