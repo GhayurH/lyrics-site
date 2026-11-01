@@ -18,7 +18,7 @@ self.addEventListener("message", (event) => {
   if (event.data?.type !== "SAVE_PAGES" || !Array.isArray(event.data.urls)) return;
   event.waitUntil((async () => {
     const urls = event.data.urls.filter((path) =>
-      typeof path === "string" && /^\/(?:lyrics\/[a-z0-9-]+|basta\/\d{1,3})\/$/.test(path)).slice(0,80);
+      typeof path === "string" && /^\/(?:lyrics\/[a-z0-9-]+|basta\/\d{1,3}|basta\/kalam\/basta-[a-z0-9-]+)\/$/.test(path)).slice(0,80);
     const cache = await caches.open(PAGE_CACHE);
     let saved = 0, failed = 0;
     for (const path of ["/data/saved-catalog.json", ...urls]) {

@@ -1,6 +1,7 @@
 // Versioned, explicit JSON export of browser-local settings, bookmarks and drafts.
 import { readFavoriteIds, readStringList, STORAGE_KEYS } from "./storage";
 import { readBastaBookmarks } from "./basta-bookmarks";
+import { readBastaKalamFavorites } from "./basta-kalam-favorites";
 
 export const BACKUP_KEYS = [
   ...Object.values(STORAGE_KEYS), STORAGE_KEYS.bastaSelections + ":details",
@@ -78,6 +79,7 @@ export function initLibraryBackup(): void {
       .map((v) => Number(v.split(":")[0])).filter((n) => Number.isSafeInteger(n) && n >= 1 && n <= 999);
     const urls = [...new Set([
       ...readFavoriteIds().filter((id) => /^[a-z0-9-]+$/i.test(id)).map((id) => "/lyrics/" + id + "/"),
+      ...readBastaKalamFavorites().map(({id}) => "/basta/kalam/" + id + "/"),
       ...[...pages,...selections].map((n) => "/basta/" + n + "/"),
     ])].slice(0,80);
     if (!urls.length) { say("Bookmark some kalams or Basta pages first."); return; }

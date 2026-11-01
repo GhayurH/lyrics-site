@@ -44,6 +44,8 @@ const scanUrl = `/images/basta/original/${String(page).padStart(3, "0")}.png`;
       </p>
       <div class="basta-kalam-actions">
         <a href={`/recite/?add=${encodeURIComponent(kalam.id)}`}>Add to Recitation Set</a>
+        <button type="button" data-basta-kalam-favorite data-kalam-id={kalam.id}
+          data-kalam-title={kalam.romanName || kalam.name} aria-pressed="false">Save kalam</button>
         <button type="button" data-correction-open data-source-id={kalam.id} data-source-page={String(page)}>
           Suggest a correction
         </button>
@@ -91,10 +93,12 @@ const scanUrl = `/images/basta/original/${String(page).padStart(3, "0")}.png`;
     import { initSyncedColumns } from "../../../client/synced-columns";
     import { initScanViewer } from "../../../client/scan-viewer";
     import { initCorrectionDialog } from "../../../client/corrections";
+    import { initBastaKalamFavorites } from "../../../client/basta-kalam-favorites";
     initReadingControls();
     initVerseFitting();
     initSyncedColumns();
     initScanViewer();
     initCorrectionDialog();
+    initBastaKalamFavorites();
   </script>
 </BaseLayout>
