@@ -49,6 +49,8 @@
   --ui-border: 1px solid var(--border-colour);
   /* All theme buttons use the theme's accent, including Custom. */
   --button-background: var(--accent-color);
+  /* Kalam titles are distinct from body text without introducing a second palette. */
+  --reading-title-color: color-mix(in srgb, var(--accent-color) 40%, var(--secondary-text) 60%);
 
   /* Named preset surfaces also drive Appearance swatches. */
   --preset-light-main: #f7f7f8;
