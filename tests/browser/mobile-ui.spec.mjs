@@ -33,8 +33,8 @@ test("mobile header occupies one line with accessible menu and icon theme toggle
 
 
 test("paired lyric actions and reader controls have matching accessible heights @smoke", async ({ page }) => {
-  for (const width of [320, 390, 1024]) {
-    await page.setViewportSize({ width, height: 844 });
+  for (const { width, height } of [{ width: 320, height: 760 }, { width: 390, height: 844 }, { width: 844, height: 390 }, { width: 1024, height: 768 }]) {
+    await page.setViewportSize({ width, height });
     await page.goto("/lyrics/aa-asghar-bin-tere/");
     const actions = page.locator(".lyric-header-actions");
     const save = actions.locator(".favorite-button");
@@ -47,6 +47,8 @@ test("paired lyric actions and reader controls have matching accessible heights 
     expect(Math.abs(saveBox.height - addBox.height)).toBeLessThanOrEqual(1);
     expect(saveBox.height).toBeGreaterThanOrEqual(target - 1);
     expect(addBox.height).toBeGreaterThanOrEqual(target - 1);
+    const detailsBox = await page.locator(".lyric-metadata-disclosure summary").boundingBox();
+    expect(detailsBox.height).toBeGreaterThanOrEqual(target - 1);
 
     if (width <= 700) {
       const controls = page.locator("[data-reading-controls]");
