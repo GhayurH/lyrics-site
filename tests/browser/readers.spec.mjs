@@ -857,3 +857,27 @@ test("Focus scans and single-language poetry never overlap at narrow widths", as
     }
   }
 });
+
+test("scan floating follows actual column geometry across portrait and landscape", async ({ page }) => {
+  for (const viewport of [
+    { width: 390, height: 844 },
+    { width: 640, height: 360 },
+    { width: 1440, height: 900 },
+  ]) {
+    await page.setViewportSize(viewport);
+    await page.goto("/basta/200/");
+    const controls = page.locator("[data-reading-controls]");
+    const menu = controls.locator("[data-reading-regular-toggle]");
+    if (await menu.isVisible()) await menu.click();
+    await controls.locator('[data-reading-column][value="image"]').check();
+    const scan = page.locator(".basta-original-page");
+    const urdu = page.locator(".basta-page-urdu");
+    await expect(scan).toBeVisible();
+    await expect(urdu).toBeVisible();
+    const adjacent = await Promise.all([scan.boundingBox(), urdu.boundingBox()]).then(
+      ([a, b]) => Math.abs(a.y - b.y) < 20 && Math.abs(a.x - b.x) > 20,
+    );
+    await expect.poll(() => scan.getAttribute("data-floating-scan"))
+      .toBe(adjacent ? "true" : "false");
+  }
+});

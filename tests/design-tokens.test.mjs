@@ -196,3 +196,12 @@ test("single-edition sizing and visibility have one CSS owner", () => {
   assert.match(policy, /@media \(orientation: landscape\) and \(pointer: coarse\) and \(max-height: 600px\)/);
   assert.match(readingFocus, /readingScrollBehavior\(\)/);
 });
+
+test("scan floating and lyric edition layout depend on shared geometry, not device shortcuts", () => {
+  const floating = readFileSync("src/client/floating-scans.ts", "utf8");
+  const lyricRoute = readFileSync("src/pages/lyrics/[id].astro", "utf8");
+  assert.doesNotMatch(floating, /matchMedia\("\(max-width: 700px\) and \(orientation: portrait\)"\)/);
+  assert.match(floating, /Math\.abs\(other\.top - rect\.top\)/);
+  assert.doesNotMatch(css["lyrics.css"], /\.lyric-reading-grid-single/);
+  assert.doesNotMatch(lyricRoute, /lyric-reading-grid-single/);
+});

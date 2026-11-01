@@ -26,7 +26,6 @@
 .lyric-details a:focus-visible, .tag-link:focus-visible, .lyric-neighbor-nav a:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
 .lyric-reading-grid { gap: 0; overflow: clip; border: var(--ui-border); border-radius: var(--ui-radius-card); background: var(--site-background); }
-.lyric-reading-grid-single { display: block; max-width: var(--reading-single-width); margin-inline: auto; }
 .lyric-reading-panel { min-width: 0; padding: clamp(.75rem, 1.9vw, 1.55rem); }
 .lyric-reading-urdu { grid-area: urdu; font-size: calc(var(--reading-urdu-size) * var(--reading-urdu-optical-scale)); }
 .lyric-reading-roman { grid-area: roman; border-right: var(--ui-border); font-size: var(--reading-roman-size); }
