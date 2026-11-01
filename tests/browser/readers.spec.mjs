@@ -203,41 +203,41 @@ test("all three couplet dividers share equal verse-six clearance in both scripts
   for (const url of ["/lyrics/karbala-karbala-karbala/", "/lyrics/chhane-lagi-shaam-e-ghareeban/"]) {
     await page.goto(url);
     for (const spacing of ["compact", "default", "relaxed"]) {
-    await page.locator("[data-reading-line-spacing]").selectOption(spacing);
-    const results = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
-      panels.map((panel) => {
-        const stanza = panel.querySelector(".lyric-stanza-pairs");
-        const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
-        const next = stanza.nextElementSibling;
-        return {
-          verseCount: verses.length,
-          rules: [verses[1], verses[3], verses[5]].map((line) => {
-            const style = getComputedStyle(line);
-            return {
-              border: Number.parseFloat(style.borderBottomWidth),
-              paddingInLines: Number.parseFloat(style.paddingBottom) /
-                Number.parseFloat(style.lineHeight),
-            };
-          }),
-          nextBorder: Number.parseFloat(getComputedStyle(next).borderTopWidth),
-          nextFollowsRule: next.getBoundingClientRect().top >=
-            verses[5].getBoundingClientRect().bottom,
-          nowrap: verses.every((line) => getComputedStyle(line).whiteSpace === "nowrap"),
-        };
-      }));
-    expect(results).toHaveLength(2);
-    for (const panel of results) {
-      expect(panel.verseCount).toBe(6);
-      expect(panel.nowrap).toBe(true);
-      expect(panel.nextBorder).toBe(0);
-      expect(panel.nextFollowsRule).toBe(true);
-      for (const rule of panel.rules) {
-        expect(rule.border).toBeGreaterThan(0);
-        expect(rule.paddingInLines).toBeGreaterThan(0.24);
+      await page.locator("[data-reading-line-spacing]").selectOption(spacing);
+      const results = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
+        panels.map((panel) => {
+          const stanza = panel.querySelector(".lyric-stanza-pairs");
+          const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
+          const next = stanza.nextElementSibling;
+          return {
+            verseCount: verses.length,
+            rules: [verses[1], verses[3], verses[5]].map((line) => {
+              const style = getComputedStyle(line);
+              return {
+                border: Number.parseFloat(style.borderBottomWidth),
+                paddingInLines: Number.parseFloat(style.paddingBottom) /
+                  Number.parseFloat(style.lineHeight),
+              };
+            }),
+            nextBorder: Number.parseFloat(getComputedStyle(next).borderTopWidth),
+            nextFollowsRule: next.getBoundingClientRect().top >=
+              verses[5].getBoundingClientRect().bottom,
+            nowrap: verses.every((line) => getComputedStyle(line).whiteSpace === "nowrap"),
+          };
+        }));
+      expect(results).toHaveLength(2);
+      for (const panel of results) {
+        expect(panel.verseCount).toBe(6);
+        expect(panel.nowrap).toBe(true);
+        expect(panel.nextBorder).toBe(0);
+        expect(panel.nextFollowsRule).toBe(true);
+        for (const rule of panel.rules) {
+          expect(rule.border).toBeGreaterThan(0);
+          expect(rule.paddingInLines).toBeGreaterThan(0.24);
+        }
+        expect(Math.max(...panel.rules.map((r) => r.paddingInLines)) -
+          Math.min(...panel.rules.map((r) => r.paddingInLines))).toBeLessThan(0.01);
       }
-      expect(Math.max(...panel.rules.map((r) => r.paddingInLines)) -
-        Math.min(...panel.rules.map((r) => r.paddingInLines))).toBeLessThan(0.01);
-    }
     }
     if (url.includes("chhane-lagi")) {
       const paired = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
