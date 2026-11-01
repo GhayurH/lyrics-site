@@ -303,15 +303,13 @@ const aboutActive = path.startsWith("/about/");
             ))}
           </select>
         </label>
-        <p id="theme-urdu-preview" class="theme-font-preview" lang="ur" dir="rtl">دل کی صدا میں روشنی، لفظوں میں ایک دعا
-            راہِ وفا میں ہر قدم، دل سے نکلے مدعا</p>
+        <p id="theme-urdu-preview" class="theme-font-preview" lang="ur" dir="rtl">یہ ایک نمونہ ہے</p>
         <label for="theme-roman-font">English / Roman Urdu
           <select id="theme-roman-font">
             {FONT_CHOICES.roman.map((option) => <option value={option.value} selected={option.value === "sans"}>{option.label}</option>)}
           </select>
         </label>
-        <p id="theme-roman-preview" class="theme-font-preview" lang="en">Dil Ki Sada Mein Roshni, Lafzon Mein Ek Dua
-            Rah-e-Wafa Mein Har Qadam, Dil Se Nikle Mudda</p>
+        <p id="theme-roman-preview" class="theme-font-preview" lang="en">Sample reading text</p>
         <p class="theme-font-note" id="theme-font-install-note" hidden>Alvi Nastaleeq needs to be installed on your device. Otherwise, the default Urdu font is shown.</p>
       </fieldset>
         <button type="button" id="theme-fonts-default" class="button button-secondary theme-reset-default">Restore website defaults (fonts)</button>
