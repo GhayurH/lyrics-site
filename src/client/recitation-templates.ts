@@ -26,6 +26,7 @@ export function saveTemplate(name: string, source: RecitationSet): void {
   if (name.length < 1 || name.length > 120) throw Error("Name must be 1–120 characters");
   const set = structuredClone(source);
   delete set.live; delete set.permanent;
+  if (!set.title.trim()) set.title = name;
   if (set.items.length) validateRecitationSet(set);
   localStorage.setItem(KEY,JSON.stringify([{id:"saved:"+crypto.randomUUID(),name,set},...readTemplates()].slice(0,20)));
 }

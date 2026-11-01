@@ -340,6 +340,8 @@ test("organizer can permanently preserve, renew and delete published sets", asyn
   let published;
   let changes = 0;
   let deletes = 0;
+  const revision1 = "1".repeat(64);
+  const revision2 = "2".repeat(64);
   await page.route("**/api/recitation-sets/**", async (route) => {
     const request = route.request();
     const method = request.method();
@@ -347,15 +349,16 @@ test("organizer can permanently preserve, renew and delete published sets", asyn
     if (method === "POST" && path.endsWith("/recitation-sets/")) {
       published = request.postDataJSON();
       return route.fulfill({ status: 201, contentType: "application/json", body: JSON.stringify({
-        id, editToken, permanent: true, expiresAt: null,
+        id, editToken, permanent: true, expiresAt: null, revision: revision1,
       }) });
     }
     if (method === "PUT" && path.endsWith("/" + id)) {
       changes++;
       published = request.postDataJSON();
       expect(request.headers().authorization).toBe("Bearer " + editToken);
+      expect(request.headers()["if-match"]).toBe(`"${revision1}"`);
       return route.fulfill({ contentType: "application/json", body: JSON.stringify({
-        id, updated: true, permanent: false, expiresAt: "2028-10-27T00:00:00.000Z",
+        id, updated: true, revision: revision2, permanent: false, expiresAt: "2028-10-27T00:00:00.000Z",
       }) });
     }
     if (method === "DELETE" && path.endsWith("/" + id)) {

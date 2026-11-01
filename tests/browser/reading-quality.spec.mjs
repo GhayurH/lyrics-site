@@ -46,6 +46,7 @@ test("JSON library backup validates and restores only allowlisted data", async (
   const download = await downloadPromise;
   expect(download.suggestedFilename()).toBe("kalam-archive-backup.json");
   page.once("dialog", (dialog) => dialog.accept());
+  const reloaded = page.waitForEvent("load");
   await page.locator("#saved-import").setInputFiles({
     name: "backup.json", mimeType: "application/json",
     buffer: Buffer.from(JSON.stringify({
@@ -54,6 +55,7 @@ test("JSON library backup validates and restores only allowlisted data", async (
       entries: { "kalam:favorites": JSON.stringify(["aa-asghar-bin-tere","test-item"]) },
     })),
   });
+  await reloaded;
   await expect.poll(async () => page.evaluate(() => JSON.parse(localStorage.getItem("kalam:favorites") || "[]").length))
     .toBe(2);
 });
