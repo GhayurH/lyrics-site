@@ -49,6 +49,43 @@ test("edition preferences, Focus mode, and image enlargement work together", asy
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
 });
 
+test("mobile single-edition Focus starts with stanza one via link and button @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  const lyricUrl = "/lyrics/na-bhool-kar-bhi/";
+
+  const expectFirstStanza = async (edition) => {
+    const root = page.locator("[data-reading-root]");
+    await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
+    await expect(root).toHaveAttribute("data-reading-mode", edition);
+    await expect(root).toHaveCSS("justify-content", "flex-start");
+    await expect.poll(() => root.evaluate((element, selected) => {
+      const stanza = element.querySelector(`.lyric-reading-${selected} .lyric-stanza`);
+      if (!stanza) return false;
+      const viewport = element.getBoundingClientRect();
+      const first = stanza.getBoundingClientRect();
+      return first.top >= viewport.top && first.top < viewport.bottom;
+    }, edition)).toBe(true);
+  };
+
+  for (const edition of ["urdu", "roman"]) {
+    await page.goto(lyricUrl);
+    await page.locator("[data-reading-regular-toggle]").click();
+    await page.locator(`[data-reading-column][value="${edition}"]`).check();
+    const other = edition === "urdu" ? "roman" : "urdu";
+    await page.locator(`[data-reading-column][value="${other}"]`).uncheck();
+
+    // A shared immersive URL must open at the first stanza even with the
+    // selected edition saved from an earlier visit.
+    await page.goto(lyricUrl + "?reading=1");
+    await expectFirstStanza(edition);
+
+    // Entering via the regular reader must follow the same layout rules.
+    await page.goto(lyricUrl);
+    await page.locator("[data-reading-focus-enter]").click();
+    await expectFirstStanza(edition);
+  }
+});
+
 test("continuous reader deep links load streamed content and preserve the current page @smoke", async ({ page }) => {
   await page.goto("/basta/read/#page-138");
   const page138 = page.locator('[data-basta-page="138"]');
