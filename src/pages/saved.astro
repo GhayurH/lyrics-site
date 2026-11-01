@@ -18,6 +18,17 @@ import "../styles/saved.css";
       </p>
     </header>
 
+    <section class="saved-section saved-data-tools" aria-labelledby="saved-data-heading">
+      <h2 id="saved-data-heading">Backup and offline reading</h2>
+      <p>Export favorites, bookmarks, reading progress, appearance settings and draft programmes. Backups can include private organizer edit links: store them securely.</p>
+      <div class="saved-data-actions">
+        <button id="saved-export" type="button">Export JSON backup</button>
+        <label for="saved-import">Import backup <input id="saved-import" type="file" accept=".json,application/json" /></label>
+        <button id="saved-cache" type="button">Save bookmarked pages offline</button>
+        <button id="saved-cache-clear" type="button">Remove offline pages</button>
+      </div>
+      <p id="saved-data-message" role="status" aria-live="polite"></p>
+    </section>
     <p data-requires-js class="saved-empty">Saved and recent lyrics require JavaScript because they are stored locally in your browser. You can still <a href="/">browse the archive</a>.</p>
 
     <p id="saved-initializing" role="status" class="saved-loading" hidden>Loading your saved items…</p>
@@ -95,5 +106,7 @@ import "../styles/saved.css";
     import { initResumeBasta } from "../client/reading-progress";
     void initSavedLibrary();
     initResumeBasta();
+    import { initLibraryBackup } from "../client/library-backup";
+    initLibraryBackup();
   </script>
 </BaseLayout>
