@@ -90,7 +90,7 @@ test("all referenced shared reading tokens resolve, including spacing presets", 
       assert(declared.has(variable), file + " references undefined " + variable);
     }
   }
-  const policy = css["reading-columns.css"];
+  const policy = css["reading-columns.css"] + css["reading-utilities.css"];
   for (const mode of ["compact", "relaxed"]) {
     assert.match(policy, new RegExp('\\[data-reading-root\\]\\[data-line-spacing="' + mode + '"\\]'),
       mode + " spacing must be defined once in the shared policy");

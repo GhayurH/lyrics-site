@@ -1,5 +1,5 @@
 // Reader font options are centralized and allowlisted; user settings never become arbitrary CSS.
-import { ensureFontStyles } from "./font-assets";
+import { ensureFontStyles } from "./font-assets.ts";
 export const FONT_STORAGE_KEY = "kalam:reading-fonts";
 export const FONT_CHOICES = {
   // Alphabetical display order; stable values preserve saved reader settings.
