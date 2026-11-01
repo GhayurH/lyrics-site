@@ -490,6 +490,8 @@ test("Urdu font families are available as bundled web fonts", async ({ page }) =
     await expect(page.locator("html")).toHaveAttribute("data-urdu-font", option);
     await expect.poll(() => page.locator(".lyrics-text").first().evaluate((node) =>
       getComputedStyle(node).fontFamily)).toContain(family);
+    await expect.poll(() => page.evaluate((name) =>
+      [...document.fonts].some((face) => face.family === name), family)).toBe(true);
     const hasLoadedFace = await page.evaluate(async (fontFamily) => {
       const faces = await document.fonts.load('400 24px "' + fontFamily + '"', "غزل اردو شاعری");
       return faces.some((face) => face.family === fontFamily && face.status === "loaded");

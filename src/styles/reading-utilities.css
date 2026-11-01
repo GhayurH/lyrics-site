@@ -1,0 +1,129 @@
+/* Reader spacing, anchors, navigation and scan utilities shared by all editions. */
+/* One spacing policy for the regular, Focus, Basta, index, and recitation readers.
+   Route CSS consumes these inherited values rather than maintaining its own
+   separate compact/relaxed selectors. */
+[data-reading-root][data-line-spacing="compact"] {
+  --reading-active-urdu-leading: var(--reading-urdu-leading-compact);
+  --reading-active-roman-leading: var(--reading-roman-leading-compact);
+  --reading-active-lyric-urdu-leading: var(--reading-urdu-leading-compact);
+  --reading-active-index-urdu-leading: var(--reading-index-urdu-leading-compact);
+  --reading-active-index-roman-leading: var(--reading-index-roman-leading-compact);
+}
+[data-reading-root][data-line-spacing="relaxed"] {
+  --reading-active-urdu-leading: var(--reading-urdu-leading-relaxed);
+  --reading-active-roman-leading: var(--reading-roman-leading-relaxed);
+  --reading-active-lyric-urdu-leading: var(--reading-lyric-urdu-leading-relaxed);
+  --reading-active-index-urdu-leading: var(--reading-index-urdu-leading-relaxed);
+  --reading-active-index-roman-leading: var(--reading-index-roman-leading-relaxed);
+}
+
+.reading-bookmark-page { min-height: var(--ui-target); border: var(--ui-border); border-radius: var(--ui-radius); padding: .45rem .7rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: .82rem; font-weight: 700; cursor: pointer; }
+.reading-bookmark-page[aria-pressed="true"] { background: var(--button-background); color: var(--button-text); }
+
+/* Sticky toolbars must not hide the beginning of an anchored page or stanza. */
+:where(.basta-reader-page, .basta-index-page, .recite-work, [data-reading-root] [id]) {
+  scroll-margin-top: calc(var(--reader-scan-clearance, 7rem) + .75rem);
+}
+
+/* Clipped scan wrappers must not create a scroll container that defeats sticky. */
+[data-floating-scan="true"].basta-original-page,
+[data-floating-scan="true"].lyric-reading-image,
+[data-floating-scan="true"].basta-reader-original-image { overflow: visible; }
+
+/* Multiple scans within one recitation remain accessible through a single
+   vertically scrollable scan column rather than overflowing onto the text. */
+[data-floating-scan="true"]:has(> .recite-scan-page + .recite-scan-page) {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  justify-content: flex-start;
+}
+[data-floating-scan="true"]:has(> .recite-scan-page + .recite-scan-page) > .recite-scan-page {
+  flex: 0 0 auto;
+  max-height: none;
+  width: 100%;
+  margin-bottom: .65rem;
+}
+
+/* One navigation surface for Basta pages and index, sharing the sticky reader bar. */
+.reading-context-nav { order: 5; flex: 1 1 100%; min-width: 0; }
+.reading-context-nav .basta-pager {
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  margin: 0; padding: .5rem 0 0;
+  border: 0; border-top: var(--ui-border);
+  border-radius: 0; background: transparent; gap: .6rem;
+}
+.reading-context-nav .basta-nav-button { min-height: var(--ui-target); padding: .35rem .6rem; font-size: .84rem; }
+.reading-context-nav .basta-jump-form label span { font-size: .72rem; }
+.reading-context-nav .basta-jump-form input { width: 5rem; min-height: var(--ui-target); }
+.reading-context-nav .basta-jump-form button { min-height: var(--ui-target); }
+@media (max-width: 700px) {
+  .reading-controls > .reading-context-nav { grid-column: 1 / -1; grid-row: 2; }
+  .reading-context-nav .basta-pager { grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: .35rem; }
+  .reading-context-nav .basta-nav-button { min-height: var(--ui-target); padding: .35rem .45rem; font-size: .76rem; }
+  .reading-context-nav .basta-jump-form { gap: .3rem; min-width: 0; }
+  .reading-context-nav .basta-jump-form label span { display: none; }
+  .reading-context-nav .basta-jump-form input { width: min(4rem, 100%); min-height: var(--ui-target); padding: .3rem; text-align: center; }
+  .reading-context-nav .basta-jump-form button { min-height: var(--ui-target); padding: .4rem .45rem; }
+}
+html[data-reading-focus="true"] .reading-controls > .reading-context-nav { display: none; }
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-context-nav {
+  display: block; order: 3; flex-basis: 100%; pointer-events: auto;
+}
+html[data-reading-focus="true"] .reading-context-nav .basta-pager { background: transparent; }
+
+/* Keep embedded Basta navigation on one row regardless of the standalone pager layout. */
+.reading-context-nav .basta-pager > .basta-nav-button:first-child { grid-column: 1; grid-row: 1; }
+.reading-context-nav .basta-pager > .basta-nav-button:last-child { grid-column: 3; grid-row: 1; }
+.reading-context-nav .basta-pager > .basta-jump-form { grid-column: 2; grid-row: 1; }
+
+/* Preserve usable top-of-page Basta links when scripting is unavailable. */
+html:not([data-reader-enhanced="true"]) .reading-controls:has(> .reading-context-nav) {
+  display: block; position: static; padding: 0; border: 0; background: transparent; box-shadow: none;
+}
+html:not([data-reader-enhanced="true"]) .reading-controls > :not(.reading-context-nav) { display: none !important; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-pager {
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  padding: .6rem; border: var(--ui-border); border-radius: .7rem;
+}
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-nav-button:first-child { grid-column: 1; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-nav-button:last-child { grid-column: 2; }
+html:not([data-reader-enhanced="true"]) .reading-context-nav .basta-jump-form { display: none; }
+
+/* The floating scan's normal sticky viewport is not applied to Focus Mode. */
+html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-floating-scan="true"] { --reader-scan-clearance: 3.3rem; }
+
+/* Local bookmark controls stay out of verse flow and leave the printed source untouched. */
+.basta-selectable-kalam { position: relative; }
+.basta-selection-action {
+  position: absolute; inset-block-start: 0; inset-inline-end: 0;
+  z-index: 1; min-width: 2rem; min-height: 2rem;
+  border: var(--ui-border); border-radius: var(--ui-radius);
+  background: var(--surface-background); color: var(--secondary-text);
+  font: inherit; font-size: 1.05rem; cursor: pointer;
+  opacity: .25;
+}
+.basta-selectable-kalam:is(:hover,:focus-within) > .basta-selection-action,
+.basta-selection-action[aria-pressed="true"] { opacity: 1; }
+.basta-selection-action[aria-pressed="true"] { color: var(--primary-text); background: var(--tag-background); }
+.basta-stanza-bookmark { color: inherit; font: inherit; cursor: pointer; background: transparent; }
+.basta-stanza-bookmark[aria-pressed="true"] { color: var(--button-text); background: var(--button-background); }
+.basta-stanza-bookmark:hover { border-color: var(--primary-text); }
+.basta-selection-action:focus-visible,.basta-stanza-bookmark:focus-visible {
+  opacity: 1; outline: var(--focus-ring); outline-offset: 3px;
+}
+@media (pointer: coarse) { .basta-selection-action { opacity: .8; min-width: var(--ui-target); min-height: var(--ui-target); } }
+
+/* Desktop scroll toolbar keeps every page-navigation action available and
+   folds only edition and spacing settings. */
+@media (min-width: 701px) {
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-regular-toggle {
+    display: inline-flex;
+  }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"]:not([data-regular-options-open="true"])
+    > .reading-control-group { display: none !important; }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] { padding-block: .45rem; gap: .45rem; }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > :is(.reading-current-page,.reading-open-page,.reading-page-jump,.reading-contents-button) { order: 3; }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-context-nav { order: 4; }
+  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-bookmark-page { order: 3; }
+}
+html[data-reading-focus="true"] .reading-regular-toggle { display: none !important; }

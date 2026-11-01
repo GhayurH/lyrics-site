@@ -5,6 +5,8 @@ import {
   toggleFavorite,
 } from "./storage";
 import { initAppearance } from "./appearance";
+import { readFontPreferences } from "./fonts";
+import { ensureFontStyles } from "./font-assets";
 import { MOBILE_VIEWPORT_QUERY } from "./viewport";
 
 function syncFavoriteButtons(): void {
@@ -189,6 +191,9 @@ export function initSiteShell(): void {
   if (root.dataset.siteClientReady === "true") return;
   root.dataset.siteClientReady = "true";
 
+  const fonts = readFontPreferences();
+  void ensureFontStyles(fonts.urdu,fonts.roman).catch((error) =>
+    console.error("Unable to load selected font:",error));
   initAppearance();
   initMobileNavigation();
   initHeaderAutoHide();
