@@ -169,6 +169,12 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   text-decoration-thickness: from-font;
   text-underline-offset: 0.16em;
 }
+/* Poet credits beside an actual title share its centering, not its bold,
+   underline, or accent color. */
+.kalam-poet-credit {
+  text-align: center;
+  text-align-last: center;
+}
 
 [lang="ur"] { font-family: var(--font-urdu); }
 .pagefind-data { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
