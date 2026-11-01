@@ -3,6 +3,7 @@
 // Reading-first themes based on neutral, earthy and subdued jewel palettes.
 export const PRESET_THEME_GROUPS = [
   { label: "Essentials", themes: [
+    { id: "auto", label: "Auto (device)" },
     { id: "light", label: "Light" },
     { id: "dark", label: "Dark" },
     { id: "sepia", label: "Sepia" },
@@ -149,6 +150,20 @@ export function paletteTextColors(palette: CustomPalette): {
   };
 }
 
+/** Reports WCAG contrast for each adjustable text role and for the accent button.
+ * Both reading surfaces are considered, not just the page background. */
+export function paletteContrastScores(palette: CustomPalette): {
+  primary: number; muted: number; button: number;
+} {
+  const roles = paletteTextColors(palette);
+  const accentText = paletteForeground(palette).accentText;
+  return {
+    primary: minTextContrast(roles.primary, palette),
+    muted: minTextContrast(roles.muted, palette),
+    button: contrast(luminance(palette.accent), luminance(accentText)),
+  };
+}
+
 /** Choose the foreground maximizing contrast against *both* page and card. */
 export function paletteForeground(palette: CustomPalette): { text: string; accentText: string; ratio: number; scheme: string } {
   const backgrounds = [luminance(palette.main), luminance(palette.secondary)];
@@ -167,7 +182,7 @@ export function readTheme(): ThemeName {
   let saved: string | null = null;
   try { saved = localStorage.getItem("theme"); } catch { /* Storage can be blocked. */ }
   if (isThemeName(saved)) return saved;
-  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  return "auto";
 }
 
 export function readCustomPalette(): CustomPalette {
@@ -212,7 +227,7 @@ export function applyTheme(theme: ThemeName, palette: CustomPalette = readCustom
     root.style.setProperty("--theme-color-scheme", scheme);
     root.dataset.pfTheme = scheme;
   } else {
-    root.dataset.pfTheme = DARK_THEME_NAMES.some((name) => name === theme) ? "dark" : "light";
+    root.dataset.pfTheme = (theme === "auto" ? window.matchMedia("(prefers-color-scheme: dark)").matches : DARK_THEME_NAMES.some((name) => name === theme)) ? "dark" : "light";
   }
   root.dataset.theme = theme;
   // CSS is the source of truth for the browser-chrome colour of every preset.
