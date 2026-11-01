@@ -1,14 +1,17 @@
 // Private organizer credentials and live positions never enter reusable templates.
 import { emptyRecitationSet, validateRecitationSet, type RecitationSet } from "../lib/recitation-set";
-export interface ProgrammeTemplate { id: string; name: string; set: RecitationSet }
+export interface ProgrammeTemplate { id: string; name: string; set: RecitationSet; suggestedTypes?: string[] }
 const KEY = "kalam:recitation-templates-v1";
-function starter(id: string,name: string,occasion: string): ProgrammeTemplate {
-  return { id,name,set:{...emptyRecitationSet(),title:name,occasion,description:""} };
+function starter(id: string,name: string,occasion: string,types: string[]): ProgrammeTemplate {
+  return { id,name,suggestedTypes:types,
+    set:{...emptyRecitationSet(),title:name,occasion,
+      description:"Suggested sections (choose appropriate kalams): " + types.join(" → ") +
+        ". Confirm programme order, readings, and assigned reciters before publication."} };
 }
 export const STARTER_TEMPLATES: ProgrammeTemplate[] = [
-  starter("starter:majlis","Majlis","Majlis"),
-  starter("starter:jashn","Jashn","Jashn"),
-  starter("starter:general","General programme",""),
+  starter("starter:majlis","Majlis","Majlis",["Salam","Marsiya","Noha"]),
+  starter("starter:jashn","Jashn","Jashn",["Manqabat","Qita","Rubaiyat"]),
+  starter("starter:general","General programme","",["Salam","Manqabat","Noha"]),
 ];
 export function readTemplates(): ProgrammeTemplate[] {
   try {

@@ -367,3 +367,7 @@ html[data-reading-focus="true"] .recite-reader-exports { display: none; }
 .recite-qr-dialog { width: min(26rem,calc(100vw - 2rem)); padding: 1rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); background: var(--surface-background); color: var(--primary-text); text-align: center; }
 .recite-qr-dialog::backdrop { background: rgb(0 0 0 / .6); }
 .recite-qr-dialog img { display: block; max-width: 100%; height: auto; margin: .5rem auto; background: white; }
+
+.recite-template-stages { display: flex; flex-wrap: wrap; gap: .45rem; margin: -.35rem 0 1rem; }
+.recite-template-stages:empty { display: none; }
+.recite-template-stages .button { min-height: var(--ui-target); }

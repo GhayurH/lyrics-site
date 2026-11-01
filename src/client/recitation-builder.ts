@@ -352,27 +352,61 @@ export async function initRecitationBuilder(): Promise<void> {
     } catch (e) { say((e as Error).message); }
   }
 
+  function startFromTemplate(samples: boolean): void {
+    const template = findTemplate(elm<HTMLSelectElement>("recite-template").value);
+    if (!template) return;
+    if (samples && !catalogReady) { say("Poetry catalog is still loading."); return; }
+    if (samples && !template.suggestedTypes?.length) {
+      say("Saved templates already contain your chosen kalams; use Start from template."); return;
+    }
+    if ((draft.set.items.length || draft.set.title.trim()) &&
+        !confirm("Create a new draft? Your existing draft stays saved separately.")) return;
+    const next = createLocalDraft();
+    next.set = structuredClone(template.set);
+    next.set.items = next.set.items.map((item) => ({ ...item, uid: crypto.randomUUID() }));
+    delete next.set.live; delete next.set.permanent;
+    if (samples) {
+      const selected = new Set<string>();
+      for (const type of template.suggestedTypes || []) {
+        const item = [...catalogById.values()].find((entry) =>
+          entry.ready && entry.type === type && !selected.has(entry.kind + ":" + entry.id));
+        if (!item) continue;
+        selected.add(item.kind + ":" + item.id);
+        next.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id,
+          sourceTitle: item.title, note: "Example selection for " + type + "; review before publishing" });
+      }
+    }
+    setCurrent(next); persist(); render();
+    say(samples ? "Added sample kalams. Review every selection before sharing." :
+      "Template copied into a new draft.");
+  }
   function refreshTemplates(): void {
     const select = elm<HTMLSelectElement>("recite-template");
     const current = select.value;
     const items = [...STARTER_TEMPLATES, ...readTemplates()];
     select.replaceChildren(...items.map((entry) => option(entry.id, entry.name)));
     if (items.some((entry) => entry.id === current)) select.value = current;
+    const template = findTemplate(select.value);
     elm<HTMLButtonElement>("recite-template-delete").disabled = !select.value.startsWith("saved:");
+    elm<HTMLButtonElement>("recite-template-fill").disabled = !template?.suggestedTypes?.length;
+    const stages = elm<HTMLElement>("recite-template-stages");
+    stages.replaceChildren();
+    for (const type of template?.suggestedTypes || []) {
+      const choose = button("Find " + type, () => {
+        elm<HTMLSelectElement>("recite-source").value = "all";
+        elm<HTMLInputElement>("recite-search").value = type;
+        resultLimit = 24; renderResults();
+        elm<HTMLElement>("recite-find-heading").scrollIntoView({behavior:"smooth",block:"start"});
+        elm<HTMLInputElement>("recite-search").focus();
+      }, false, "Find kalams of type " + type);
+      choose.className = "button button-secondary";
+      stages.append(choose);
+    }
   }
   refreshTemplates();
   elm<HTMLSelectElement>("recite-template").addEventListener("change", refreshTemplates);
-  elm<HTMLButtonElement>("recite-template-use").addEventListener("click", () => {
-    const template = findTemplate(elm<HTMLSelectElement>("recite-template").value);
-    if (!template) return;
-    if ((draft.set.items.length || draft.set.title.trim()) &&
-        !confirm("Create a new draft from this template? Your current draft will stay saved.")) return;
-    const next = createLocalDraft();
-    next.set = structuredClone(template.set);
-    next.set.items = next.set.items.map((item) => ({ ...item, uid: crypto.randomUUID() }));
-    delete next.set.live; delete next.set.permanent;
-    setCurrent(next); persist(); render(); say("Template copied into a new draft.");
-  });
+  elm<HTMLButtonElement>("recite-template-use").addEventListener("click", () => startFromTemplate(false));
+  elm<HTMLButtonElement>("recite-template-fill").addEventListener("click", () => startFromTemplate(true));
   elm<HTMLButtonElement>("recite-template-save").addEventListener("click", () => {
     if (!draft.set.items.length && !draft.set.title.trim()) {
       say("Add a title or a kalam first."); return;
