@@ -1,6 +1,7 @@
 ---
 // File role: Reusable Basta index table: renders structured index entries with the correct Urdu/Roman direction, section headings, and page links.
 import type { BastaIndexEntry } from "../lib/basta";
+import { loadBastaKalamCatalog } from "../lib/basta-kalam-data";
 
 interface Props {
   entries: BastaIndexEntry[];
@@ -19,6 +20,11 @@ const {
 } = Astro.props as Props;
 
 const roman = edition === "roman";
+// Keep the printed-page href in the Page column. Title links may point to a
+// verified, whole-kalam permalink spanning several printed pages.
+const { kalams } = await loadBastaKalamCatalog();
+const kalamLinkByIndex = new Map(kalams.filter((item) => item.status === "ready")
+  .map((item) => [item.sectionRoman + ":" + item.indexNumber, "/basta/kalam/" + item.id + "/"]));
 
 const groups = new Map<string, BastaIndexEntry[]>();
 for (const entry of entries) {
@@ -105,6 +111,7 @@ for (const entry of entries) {
                               ? `#page-${entry.page}`
                               : `/basta/${entry.page}/`;
 
+                          const kalamHref = kalamLinkByIndex.get((entry.sectionRoman || "") + ":" + entry.number) || href;
                           return (
                             <tr>
                               <td class="basta-index-entry-number" dir="ltr">
@@ -114,7 +121,7 @@ for (const entry of entries) {
                               </td>
 
                               <td>
-                                <a href={href}>{name || "—"}</a>
+                                <a href={kalamHref}>{name || "—"}</a>
                               </td>
 
                               {hasHaal && (
@@ -138,9 +145,10 @@ for (const entry of entries) {
                     const name = roman ? (entry.romanName?.trim() || `Roman transcription unavailable — ${entry.name}`) : entry.name;
                     const haal = roman ? (entry.romanHaal?.trim() || entry.haal || "") : (entry.haal ?? "");
                     const href = linkMode === "continuous" ? `#page-${entry.page}` : `/basta/${entry.page}/`;
+                    const kalamHref = kalamLinkByIndex.get((entry.sectionRoman || "") + ":" + entry.number) || href;
                     return (
                       <div role="listitem" class="basta-index-mobile-item">
-                        <a class="basta-index-mobile-title" href={href}>{name || "—"}</a>
+                        <a class="basta-index-mobile-title" href={kalamHref}>{name || "—"}</a>
                         <a class="basta-index-mobile-page" href={href} aria-label={`Open page ${entry.page}`}>{roman ? "Page" : "صفحہ"} {entry.page}</a>
                         {haal && <span class="basta-index-mobile-haal">{haal}</span>}
                       </div>

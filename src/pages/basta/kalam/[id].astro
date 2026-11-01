@@ -49,6 +49,15 @@ const scanUrl = `/images/basta/original/${String(page).padStart(3, "0")}.png`;
         </button>
       </div>
     </header>
+    {kalam.stanzas.length > 0 && <details class="basta-kalam-source-map">
+      <summary>Source scans for numbered stanzas</summary>
+      <ol>
+        {kalam.stanzas.map((stanza) => <li>
+          Stanza {stanza.printedNumber || stanza.number}:
+          {stanza.pages.map((p) => <a href={`/images/basta/original/${String(p).padStart(3,"0")}.png`}>Scan of page {p}</a>)}
+        </li>)}
+      </ol>
+    </details>}
     <ReadingControls ariaLabel="Basta kalam reader" hasImage showModes={hasRoman} />
     <div
       class:list={["basta-page-grid", hasRoman && "basta-page-grid-with-roman"]}
