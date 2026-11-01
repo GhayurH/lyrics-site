@@ -1,6 +1,6 @@
 ---
-title: "چھانے لگی شامِ غریباں ہائے قیامت کا ہے سماں"
-alternateTitle: "Chhane Lagi Shaam E Ghareeban"
+title: "چھانے لگی شامِ غریباں"
+alternateTitle: "Chhane Lagi Shaam-e-Ghareeban"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,9 +8,9 @@ kalamType: "Salam"
 sixVerseLayout: "pairs"
 tags: []
 aliases:
-  - "Chhane Lagi Shaam E Ghareeban"
+  - "Chhane Lagi Shaam e Ghareeban"
 cover: "/images/lyrics/chhane-lagi-shaam-e-ghareeban.png"
-coverAlt: "Cover image for Chhane Lagi Shaam E Ghareeban"
+coverAlt: "Cover image for Chhane Lagi Shaam e Ghareeban"
 published: true
 romanLyrics: |-
   Chhane lagi shaam e ghareeban,
@@ -105,7 +105,7 @@ romanLyrics: |-
 ہائے قیامت کا ہے سماں
 
 ۳
-خوں میں ہے تر شىرِ جری کا عَلَم،
+خوں میں ہے تر شيرِ جری کا عَلَم،
 ہو گیا شبىر کا سر بھی قلم
 خوشیاں منانے لگی فوجِ ستم،
 غم سے تباہ حال ہیں اہلِ حرم
