@@ -40,7 +40,31 @@ const report = {
   sourceIssues: catalog.issues,
   editorial,
 };
-if (process.argv.includes("--json")) console.log(JSON.stringify(report, null, 2));
+if (process.argv.includes("--review")) {
+  // Every uncertain fragment is linked to its original scan; the report does
+  // not infer or silently approve OCR boundaries or printed stanza numbers.
+  console.log("# Basta editorial source review");
+  console.log("Generated from the current source/index; review against original scans before editing.");
+  console.log("\\n## Unverified indexed kalams (" + review.length + ")\\n");
+  console.log("| ID | Title | Page | Findings |");
+  console.log("| --- | --- | --- | --- |");
+  for (const item of report.review) {
+    const scan = "/images/basta/original/" + String(item.page).padStart(3,"0") + ".png";
+    const safe = (value) => String(value).replaceAll("|","\\\\|").replaceAll("\\n"," ");
+    console.log("| \`" + item.id + "` | " + safe(item.name) + " | [Page " + item.page + "](" + scan + ") | " +
+      item.issues.map(safe).join("; ") + " |");
+  }
+  console.log("\\n## Unassigned printed fragments (" + catalog.orphans.length + ")\\n");
+  console.log("| Page | Fragment | Opening text | Scan |");
+  console.log("| --- | --- | --- | --- |");
+  for (const orphan of catalog.orphans) {
+    const scan = "/images/basta/original/" + String(orphan.page).padStart(3,"0") + ".png";
+    console.log("| " + orphan.page + " | " + orphan.part + " | " +
+      orphan.opening.replaceAll("|","\\\\|").replaceAll("\\n"," ") + " | [Original scan](" + scan + ") |");
+  }
+  console.log("\\n**Editorial rule:** review each excerpt and scan manually; never assign fragments by positional guesses.");
+}
+else if (process.argv.includes("--json")) console.log(JSON.stringify(report, null, 2));
 else {
   console.log("Indexed kalams:", report.indexedKalams);
   console.log("Verified kalams:", report.mapped);

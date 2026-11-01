@@ -72,7 +72,10 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       <ol>
         {kalam.stanzas.map((stanza) => <li data-source-stanza={stanza.printedNumber || String(stanza.number)} data-source-pages={stanza.pages.join(",")}>
           Stanza {stanza.printedNumber || stanza.number}:
-          {stanza.pages.map((p) => <a href={`/images/basta/original/${String(p).padStart(3,"0")}.png`}>Scan of page {p}</a>)}
+          {stanza.pages.map((p) => <>
+            <a href={`#scan-page-${p}`}>Locate source page {p}</a>
+            <a href={sourceScanUrl(p)} aria-label={`Open full-size source scan page ${p}`}>Full scan</a>
+          </>)}
         </li>)}
       </ol>
     </details>}
@@ -89,14 +92,14 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       data-synced-scroll-root
     >
       <figure class="basta-original-page" data-pagefind-ignore data-synced-scroll-panel>
-        <a href={scanUrl} aria-label={`Enlarge original scan of page ${page}`}>
+        <a id={`scan-page-${page}`} href={scanUrl} aria-label={`Enlarge original scan of page ${page}`}>
           <img src={scanUrl} alt={`Original Basta page ${page}`} loading="lazy" width="1240" height="1754" />
         </a>
         {pages.length > 1 && <figcaption>
           <details class="basta-additional-scans">
             <summary>View all {pages.length} original source scans</summary>
             {pages.slice(1).map((p) => <div class="basta-additional-scan">
-              <a href={sourceScanUrl(p)} aria-label={`Enlarge original scan of page ${p}`}>
+              <a id={`scan-page-${p}`} href={sourceScanUrl(p)} aria-label={`Enlarge original scan of page ${p}`}>
                 <img src={sourceScanUrl(p)} alt={`Original Basta page ${p}`}
                   loading="lazy" decoding="async" width="1240" height="1754" />
               </a>
