@@ -19,6 +19,19 @@ const titleCase = text =>
   text.replace(/(^|[\s\-–—/([{])([a-z])/g, (_, boundary, letter) =>
     boundary + letter.toUpperCase());
 
+test("published lyric editions retain standalone stanza markers", () => {
+  assert.ok(files.length > 0);
+  for (const filename of files) {
+    const { metadata, urdu, roman } = editions(filename);
+    if (/^published: false$/m.test(metadata)) continue;
+    for (const [label, text] of [["Urdu", urdu], ["Roman", roman]]) {
+      if (!text?.trim()) continue;
+      assert.ok(splitLyricStanzas(text).some(stanza => stanza[0]?.number),
+        filename + " missing " + label + " stanza numbers");
+    }
+  }
+});
+
 test("paired six-verse layouts are declared only for six-verse content", () => {
   for (const filename of files) {
     const { metadata, urdu, roman } = editions(filename);
