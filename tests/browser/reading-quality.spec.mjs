@@ -86,3 +86,20 @@ test("offline search index is complete and generated after Pagefind build", asyn
   expect(data.files.length).toBeGreaterThan(0);
   expect(data.files.every((path) => /^\/pagefind\//.test(path))).toBe(true);
 });
+
+test("correction dialog preserves selected verse and resolves printed stanza", async ({ page }) => {
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  const selected = await page.locator(".lyrics-text .lyric-verse").first().evaluate((node) => {
+    const range = document.createRange();
+    range.selectNodeContents(node);
+    const selection = window.getSelection();
+    selection?.removeAllRanges();
+    selection?.addRange(range);
+    return node.textContent?.trim() || "";
+  });
+  await page.getByRole("button", { name: "Suggest correction" }).click();
+  const dialog = page.locator("#correction-dialog");
+  await expect(dialog).toBeVisible();
+  await expect(dialog.locator('[name="quote"]')).toHaveValue(selected);
+  await expect(dialog.locator("[data-correction-location]")).toContainText("stanza");
+});

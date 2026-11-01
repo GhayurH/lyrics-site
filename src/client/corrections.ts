@@ -13,8 +13,16 @@ export function selectedCorrectionReference(anchor: Node | null, root: ParentNod
     [...group.querySelectorAll(".poetry-stanza-number")].reverse().find((item) =>
       !!(item.compareDocumentPosition(verse) & Node.DOCUMENT_POSITION_FOLLOWING));
   const stanza = number?.textContent?.trim() || undefined;
-  const verses = [...group.querySelectorAll(".lyric-verse, .basta-kalam-text > span:not(.poetry-stanza-number)")];
-  const position = verses.indexOf(verse);
+  // A Basta text container holds several numbered stanzas. Count lines from
+  // the nearest preceding printed number, not from the start of the poem.
+  const lines = [...group.querySelectorAll<HTMLElement>(
+    group.classList.contains("lyric-stanza") ? ".lyric-verse" : ":scope > span"
+  )];
+  const afterNumber = group.classList.contains("lyric-stanza") ? 0 :
+    number ? Math.max(0,lines.indexOf(number as HTMLElement) + 1) : 0;
+  const verseLines = lines.slice(afterNumber).filter((line) =>
+    line.matches(".lyric-verse,.basta-verse-poetry"));
+  const position = verseLines.indexOf(verse);
   const source = stanza && "querySelector" in root ?
     root.querySelector<HTMLElement>(`[data-source-stanza="${CSS.escape(stanza)}"]`) : null;
   const sourcePages = source?.dataset.sourcePages?.split(",").map(Number).filter(Number.isSafeInteger);
@@ -29,6 +37,7 @@ export function initCorrectionDialog(): void {
   dialog.innerHTML = `<form method="dialog" class="correction-form">
     <h2>Suggest a correction</h2>
     <p>Page and stanza references are included when available. Nothing is sent until you open your email app.</p>
+    <p data-correction-location aria-live="polite"></p>
     <label>Selected text<textarea name="quote" rows="3" maxlength="1500"></textarea></label>
     <label>Suggested correction<textarea name="suggestion" required rows="4" maxlength="2500"></textarea></label>
     <div class="correction-actions"><button type="button" data-correction-send>Open email</button>
@@ -37,14 +46,32 @@ export function initCorrectionDialog(): void {
   </form>`;
   document.body.append(dialog);
   let sourceId = "", page = "", reference: CorrectionReference = {};
+  let lastSelection: { text: string; anchor: Node | null } | undefined;
+  document.addEventListener("selectionchange", () => {
+    const selection = window.getSelection();
+    const readingRoot = document.querySelector("[data-reading-root]");
+    if (!selection?.isCollapsed && selection.anchorNode && readingRoot?.contains(selection.anchorNode)) {
+      const text = selection.toString().trim().slice(0,1500);
+      if (text) lastSelection = {text,anchor:selection.anchorNode};
+    }
+  });
   for (const button of triggers) button.addEventListener("click", () => {
     sourceId = button.dataset.sourceId || location.pathname;
     page = button.dataset.sourcePage || "";
     const selection = window.getSelection();
-    reference = selectedCorrectionReference(selection?.anchorNode || null);
+    const currentText = selection?.toString().trim() || "";
+    const anchor = currentText ? selection?.anchorNode || null : lastSelection?.anchor || null;
+    reference = selectedCorrectionReference(anchor);
+    const locationNote = dialog.querySelector<HTMLElement>("[data-correction-location]");
+    if (locationNote) locationNote.textContent = [
+      "Source " + sourceId,
+      reference.stanza ? "stanza " + reference.stanza : "",
+      reference.verse ? "verse " + reference.verse : "",
+      reference.sourcePages?.length ? "printed page(s) " + reference.sourcePages.join(", ") : "page " + (page || "unspecified"),
+    ].filter(Boolean).join(" · ");
     const quote = dialog.querySelector<HTMLTextAreaElement>('[name="quote"]')!;
     const suggestion = dialog.querySelector<HTMLTextAreaElement>('[name="suggestion"]')!;
-    quote.value = selection?.toString().trim().slice(0,1500) || "";
+    quote.value = (currentText || lastSelection?.text || "").slice(0,1500);
     suggestion.value = ""; dialog.showModal(); suggestion.focus();
   });
   dialog.querySelector("[data-correction-send]")?.addEventListener("click", () => {
