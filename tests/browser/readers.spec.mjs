@@ -167,7 +167,7 @@ test("continuous reader deep links load streamed content and preserve the curren
   await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
 });
 
-test("unavailable Roman transcription shows a source scan rather than blank content @smoke", async ({ page }) => {
+test("unavailable Roman transcription shows a source scan rather than blank content", async ({ page }) => {
   await page.goto("/basta/read/#page-30");
   await expect(page.locator('[data-basta-page="30"]')).toBeAttached({ timeout: 20000 });
   const options = page.locator("[data-reading-regular-toggle]");
@@ -592,7 +592,7 @@ test("image viewer centres narrow scans and pans horizontally and vertically whe
   await viewer.getByRole("button", { name: "Close" }).click();
 });
 
-test("Basta keeps one toolbar, equal-sized pager buttons, and no redundant headings @smoke", async ({ page }) => {
+test("Basta keeps one toolbar, equal-sized pager buttons, and no redundant headings", async ({ page }) => {
   for (const width of [1280, 390]) {
     await page.setViewportSize({ width, height: 820 });
     for (const url of ["/basta/251/", "/basta/index/"]) {
@@ -664,7 +664,7 @@ test("Basta Focus scan stays centred and fully visible when Options expands", as
   expect(after.y + after.height).toBeLessThanOrEqual(900);
 });
 
-test("portrait Basta Focus scans remain above Urdu poetry @smoke", async ({ page }) => {
+test("portrait Basta Focus scans remain above Urdu poetry", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   for (const url of ["/basta/284/", "/basta/read/#page-284"]) {
     await page.goto(url);
@@ -785,7 +785,7 @@ test("standalone image plus either single text edition occupies only two columns
   }
 });
 
-test("Basta kalam and stanza bookmarks survive navigation without shifting poetry @smoke", async ({ page }) => {
+test("Basta kalam and stanza bookmarks survive navigation without shifting poetry", async ({ page }) => {
   await page.goto("/basta/200/");
   const kalam = page.locator(".basta-page-urdu .basta-kalam-text").first();
   const button = kalam.locator("[data-basta-save-selection]").first();

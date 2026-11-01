@@ -2,7 +2,7 @@
 import { test, expect } from "@playwright/test";
 const routes = ["/", "/lyrics/aa-asghar-bin-tere/", "/basta/138/", "/search/"];
 for (const route of routes) {
-  test("report browser loading metrics for " + route, async ({ page }, testInfo) => {
+  test("report browser loading metrics for " + route + " @perf", async ({ page }, testInfo) => {
     await page.addInitScript(() => {
       window.__kalamMetrics = { lcp: 0, cls: 0 };
       try {
