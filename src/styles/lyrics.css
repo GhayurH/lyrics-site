@@ -121,3 +121,7 @@
   .lyric-header-title-row { gap: .75rem; }
   .lyric-header-actions { align-self: flex-start; }
 }
+
+/* Secondary contextual corrections preserve the established primary add-to-set button. */
+.lyric-correction-action { min-height: var(--ui-target); padding: .35rem .65rem; background: var(--surface-background); color: var(--primary-text); border: var(--ui-border); border-radius: var(--ui-radius-tight); font: inherit; font-size: .85rem; cursor: pointer; }
+.lyric-correction-action:focus-visible { outline: var(--focus-ring); }

@@ -3,6 +3,8 @@ on:
   push:
     branches: [main]
   pull_request:
+  schedule:
+    - cron: '0 3 * * 0'
 concurrency:
   group: reader-${{ github.head_ref || github.ref_name }}
   cancel-in-progress: true
@@ -35,13 +37,24 @@ jobs:
         run: |
           messages="$(git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD;
             git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD^2 2>/dev/null || true)"
-          for mode in smoke full; do
-            if grep -Fq "[$mode-ci]" <<< "$messages"; then
-              echo "$mode=true" >> "$GITHUB_OUTPUT"
-            else
-              echo "$mode=false" >> "$GITHUB_OUTPUT"
-            fi
-          done
+          # Shared reader, styles, recitation server/client, and browser test changes
+          # require complete Chromium coverage even without a commit marker.
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            changed="$(git -c safe.directory="$GITHUB_WORKSPACE" diff --name-only origin/main...HEAD)"
+          else
+            changed="$(git -c safe.directory="$GITHUB_WORKSPACE" diff-tree --no-commit-id --name-only -r HEAD)"
+          fi
+          if grep -Eq '^(src/(client|components|styles|lib|layouts)/|functions/|tests/browser/|package(-lock)?\.json|playwright\.config)' <<< "$changed" || \
+             [ "${{ github.event_name }}" = "schedule" ] || grep -Fq '[full-ci]' <<< "$messages"; then
+            echo 'full=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'full=false' >> "$GITHUB_OUTPUT"
+          fi
+          if grep -Fq '[smoke-ci]' <<< "$messages"; then
+            echo 'smoke=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'smoke=false' >> "$GITHUB_OUTPUT"
+          fi
       - run: npm run build
       - name: Audit Basta page boundaries
         if: steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'

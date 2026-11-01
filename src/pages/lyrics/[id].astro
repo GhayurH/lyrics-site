@@ -111,7 +111,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
 
         <div class="lyric-header-actions" data-pagefind-ignore>
            <FavoriteButton lyricId={lyric.id} />
-           <button type="button" class="lyric-add-recitation" data-correction-open data-source-id={lyric.id}>Suggest correction</button>
+           <button type="button" class="lyric-correction-action" data-correction-open data-source-id={lyric.id}>Suggest correction</button>
            <a class="lyric-add-recitation" href={`/recite/?add=${encodeURIComponent("lyric:" + lyric.id)}`}>Add to set</a>
         </div>
       </div>
