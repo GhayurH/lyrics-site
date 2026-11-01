@@ -213,5 +213,6 @@ test("Basta route styles defer edition grid geometry to the shared reader styles
   const continuous = css["basta-reader.css"];
   assert.doesNotMatch(basta, /\.basta-page-grid(?:-image-only)?\s*\{[^}]*grid-template-columns/s);
   assert.doesNotMatch(continuous, /\.basta-reader-page-grid\s*\{[^}]*grid-template-(?:areas|columns)/s);
+  assert.doesNotMatch(continuous, /\.basta-reader-page-grid-with-roman\s*\{[^}]*grid-template-/s);
   assert.match(css["reading-columns.css"], /@container reader-shell \(max-width: 46rem\)/);
 });
