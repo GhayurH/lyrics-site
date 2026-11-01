@@ -17,7 +17,24 @@ export function initRecitationWorkflow(): void {
     }
   };
   if (sections.length) setStep(sections[0].link);
+  // A step link is an explicit navigation choice. Smooth anchor scrolling
+  // generates intermediate IntersectionObserver updates for earlier sections;
+  // do not let those stale intersections overwrite the selected step.
+  // Resume scroll-driven tracking when the visitor actively scrolls elsewhere.
+  let selectedByNavigation: HTMLAnchorElement | undefined;
+  const resumeScrollTracking = () => { selectedByNavigation = undefined; };
+  window.addEventListener("wheel", resumeScrollTracking, { passive: true });
+  window.addEventListener("touchstart", resumeScrollTracking, { passive: true });
+  document.addEventListener("pointerdown", (event) => {
+    if (!(event.target instanceof Element) || !event.target.closest(".recite-steps"))
+      resumeScrollTracking();
+  }, { passive: true });
+  document.addEventListener("keydown", (event) => {
+    if (["ArrowUp", "ArrowDown", "PageUp", "PageDown", "Home", "End", " "].includes(event.key))
+      resumeScrollTracking();
+  });
   for (const { link } of sections) link.addEventListener("click", () => {
+    selectedByNavigation = link;
     setStep(link);
     if (link.dataset.reciteStep === "share") {
       const detail = app.querySelector<HTMLDetailsElement>("#recite-share-details");
@@ -31,6 +48,7 @@ export function initRecitationWorkflow(): void {
   });
   if ("IntersectionObserver" in window && sections.length) {
     const observer = new IntersectionObserver((entries) => {
+      if (selectedByNavigation && location.hash === selectedByNavigation.hash) return;
       const visible = entries.filter((entry) => entry.isIntersecting)
         .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
       if (!visible.length) return;
