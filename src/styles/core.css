@@ -225,7 +225,7 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   html[data-js-available="true"][data-desktop-reader-header-hidden="true"]:not([data-reading-focus="true"]) .reading-controls {
     top: .5rem;
   }
-  .site-header { transition: transform 180ms ease, visibility 180ms ease; }
+  .site-header { transition: transform 180ms ease; }
   html[data-desktop-reader-header-hidden="true"]:not([data-reading-focus="true"]) .site-header {
     transform: translateY(calc(-100% - 2px));
     pointer-events: none;
@@ -302,7 +302,7 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   .reading-control-label { font-size: 0.62rem; }
 
   /* Mobile uses the same keyboard-reachable, non-layout-shifting retraction. */
-  .site-header { transition: transform 180ms ease, visibility 180ms ease; will-change: transform; }
+  .site-header { transition: transform 180ms ease; will-change: transform; }
   html[data-mobile-header-hidden="true"] .site-header {
     transform: translateY(calc(-100% - 2px));
     pointer-events: none;
