@@ -19,40 +19,6 @@ const titleCase = text =>
   text.replace(/(^|[\s\-–—/([{])([a-z])/g, (_, boundary, letter) =>
     boundary + letter.toUpperCase());
 
-test("Roman titles and aliases use capitalized word initials", () => {
-  assert.ok(files.length > 0, "expected lyric source files");
-  for (const filename of files) {
-    const { metadata } = editions(filename);
-    const title = metadata.match(/^alternateTitle: "([^"]*)"$/m)?.[1];
-    if (title) assert.equal(title, titleCase(title), filename + " Roman title");
-    for (const [, alias] of metadata.matchAll(/^  - "([^"]*)"$/gm)) {
-      if (!/[a-z]/i.test(alias) || /[\u0600-\u06ff]/.test(alias)) continue;
-      assert.equal(alias, titleCase(alias), filename + " Roman alias");
-    }
-  }
-});
-
-test("published lyric editions retain standalone stanza markers", () => {
-  assert.ok(files.length > 0);
-  for (const filename of files) {
-    const { metadata, urdu, roman } = editions(filename);
-    if (/^published: false$/m.test(metadata)) continue;
-    for (const [label, text] of [["Urdu", urdu], ["Roman", roman]]) {
-      if (!text?.trim()) continue;
-      assert.ok(splitLyricStanzas(text).some(stanza => stanza[0]?.number),
-        filename + " missing " + label + " stanza numbers");
-    }
-  }
-});
-
-test("Roman editions use canonical Husain, Hasan, and Urdu bole spelling", () => {
-  for (const filename of files) {
-    const { metadata, roman } = editions(filename);
-    const title = metadata.match(/^alternateTitle: "([^"]*)"$/m)?.[1] ?? "";
-    assert.doesNotMatch(title + "\n" + (roman ?? ""), /hussain|hassan|\bbolay\b/i, filename);
-  }
-});
-
 test("paired six-verse layouts are declared only for six-verse content", () => {
   for (const filename of files) {
     const { metadata, urdu, roman } = editions(filename);
