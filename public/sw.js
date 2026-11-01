@@ -24,6 +24,25 @@ async function putDownloaded(cache, path, opaqueAllowed = false) {
     throw Error("Unavailable " + path);
   await cache.put(path,response);
 }
+async function saveAppAssets(manifest) {
+  if (manifest.version !== 1 || !Array.isArray(manifest.assets) ||
+      manifest.assets.length > 500 || manifest.totalBytes > 55000000)
+    throw Error("Offline app assets exceed the configured download limit");
+  const cache = await caches.open(NAMES.assets);
+  let saved=0,failed=0;
+  for (const path of manifest.assets) {
+    if (typeof path !== "string" || !/^\/_astro\/[a-zA-Z0-9_.\/\-]+$/.test(path)) continue;
+    if (await cache.match(path)) continue;
+    try { await putDownloaded(cache,path); saved++; }
+    catch { failed++; }
+  }
+  return {assetsSaved:saved,assetsFailed:failed};
+}
+async function readManifest() {
+  const response = await fetch("/data/offline-search-assets.json",{cache:"no-store"});
+  if (!response.ok) throw Error("Offline asset inventory is unavailable");
+  return response.json();
+}
 async function savePages({urls,scanPages,includeScans}) {
   const pageCache = await caches.open(NAMES.pages);
   let saved = 0, failed = 0, scans = 0, scanFailed = 0;
@@ -42,10 +61,13 @@ async function savePages({urls,scanPages,includeScans}) {
       catch { scanFailed++; }
     }
   }
-  return { saved, failed, scans, scanFailed };
+  let assetsSaved=0,assetsFailed=0;
+  try { ({assetsSaved,assetsFailed} = await saveAppAssets(await readManifest())); }
+  catch { assetsFailed++; }
+  return { saved, failed, scans, scanFailed, assetsSaved,assetsFailed };
 }
 async function saveSearch() {
-  const manifest = await (await fetch("/data/offline-search-assets.json", { cache:"no-store" })).json();
+  const manifest = await readManifest();
   if (manifest.version !== 1 || !Array.isArray(manifest.files) ||
       manifest.files.length > 3000 || manifest.totalBytes > 55000000)
     throw Error("Search index exceeds the safe offline download limit");
@@ -60,7 +82,9 @@ async function saveSearch() {
     catch { failed++; }
   }
   if (failed) throw Error("Search download incomplete: " + failed + " of " + seen.size + " assets failed");
-  return { saved, failed, totalBytes: manifest.totalBytes };
+  const assets = await saveAppAssets(manifest);
+  if (assets.assetsFailed) throw Error("Some required application assets could not be saved offline");
+  return { saved, failed, totalBytes: manifest.totalBytes, ...assets };
 }
 async function cacheStatus() {
   const status = {};
@@ -87,7 +111,7 @@ self.addEventListener("message",(event) => {
         });
       } else if (data.type === "SAVE_SEARCH") result = await saveSearch();
       else if (data.type === "CLEAR_OFFLINE") {
-        await Promise.all([NAMES.pages,NAMES.scans,NAMES.search].map((n) => caches.delete(n)));
+        await Promise.all([NAMES.pages,NAMES.scans,NAMES.search,NAMES.assets].map((n) => caches.delete(n)));
         result = { cleared:true };
       } else result = await cacheStatus();
       port?.postMessage({ ok:true, ...result });

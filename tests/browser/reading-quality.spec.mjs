@@ -85,6 +85,8 @@ test("offline search index is complete and generated after Pagefind build", asyn
   expect(data.totalBytes).toBeGreaterThan(0);
   expect(data.files.length).toBeGreaterThan(0);
   expect(data.files.every((path) => /^\/pagefind\//.test(path))).toBe(true);
+  expect(data.assets.length).toBeGreaterThan(0);
+  expect(data.assets.every((path) => path.startsWith("/_astro/"))).toBe(true);
 });
 
 test("correction dialog preserves selected verse and resolves printed stanza", async ({ page }) => {
