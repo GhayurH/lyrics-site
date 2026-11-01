@@ -170,7 +170,12 @@ test("create local recitation programme and read standalone lyric @smoke", async
   await page.locator("#recite-open-reader").click();
   await expect(page).toHaveURL(/\/recite\/read\/\?draft=/);
   await expect(page.locator("#recite-reader-title")).toHaveText("Test recitation programme");
-  await expect(page.locator(".recite-work-header h2")).toBeVisible();
+  const kalamTitle = page.locator(".recite-work-header h2.kalam-reading-title");
+  await expect(kalamTitle).toBeVisible();
+  await expect(kalamTitle).toHaveCSS("text-align", "center");
+  await expect(kalamTitle).toHaveCSS("text-decoration-line", "underline");
+  expect(await kalamTitle.evaluate((node) => getComputedStyle(node).color))
+    .not.toBe(await page.evaluate(() => getComputedStyle(document.body).color));
   await page.locator("#recite-reader-view").selectOption("sequential");
   await expect(page.locator("#recite-position")).toHaveText("1 / 1");
   await expect(page.locator(".recite-editions .lyric-reading-urdu")).toBeVisible();
