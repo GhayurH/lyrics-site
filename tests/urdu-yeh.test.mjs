@@ -20,3 +20,12 @@ test("preserves Arabic quotes in Basta and the Arabic opening of Ya Sari'ar-Riza
 test("all content Markdown follows the Urdu yeh convention", async () => {
   assert.deepEqual(await checkOrWrite(), [], "run node scripts/normalize-urdu-yeh.mjs --write");
 });
+
+test("Arabic quotations embedded in Urdu prose remain Arabic", () => {
+  const prose = 'اس میں “لَهْوَ الْحَدِيثِ” اور “صوت المغنّي مع الترجيع” کا ذکر ہے، ميرے لئے';
+  assert.equal(normalizeUrduYeh("src/data/basta/pages/056.md", "---\npage: 56\n---\n" + prose),
+    '---\npage: 56\n---\nاس میں “لَهْوَ الْحَدِيثِ” اور “صوت المغنّي مع الترجيع” کا ذکر ہے، میرے لئے');
+});
+test("Roman transcription repairs an accidental Arabic yeh using Latin y", () => {
+  assert.equal(normalizeUrduYeh("src/data/basta/roman/228.md", "ىe pakri"), "ye pakri");
+});

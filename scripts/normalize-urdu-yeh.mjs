@@ -37,7 +37,17 @@ export function normalizeUrduYeh(filePath, text) {
       return line;
     }
     if (isArabicLine(filePath, line, fences === 2)) return line;
-    return line.replace(/[\u064A\u0649]/g, "ی");
+    // Roman source editions should use Latin letters, never a stray Arabic/Urdu glyph.
+    if (filePath.includes("/basta/roman/")) return line.replace(/[\u064A\u0649]/g, "y");
+    // Protect Arabic quotations embedded in an otherwise Urdu prose paragraph.
+    return line.split(/(“[^”]*”|"[^"]*")/g).map((part) => {
+      const quoted = /^(?:“.*”|".*")$/.test(part);
+      const words = quoted ? part.slice(1, -1) : part;
+      const vowels = (words.match(ARABIC_VOWELS) ?? []).length;
+      if (quoted && !URDU_LETTERS.test(words) &&
+          (vowels >= 2 || /(?:^|\s)(?:مع|ال[\u0621-\u064A]+)/u.test(words))) return part;
+      return part.replace(/[\u064A\u0649]/g, "ی");
+    }).join("");
   }).join("\n");
 }
 
