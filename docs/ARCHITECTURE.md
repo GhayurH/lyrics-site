@@ -71,7 +71,7 @@ The Saved/Recent catalog is fetched on demand from `/data/saved-catalog.json`, n
 
 ## Recitation Sets boundary
 
-`recitation-builder.ts` owns draft editing and publication; `recitation-workflow.ts` enhances builder navigation; `recitation-reader.ts` resolves source poetry without changing it; `recitation-export.ts` produces portable offline/print HTML. Shared source identifiers and set validation live under `src/lib/` and `src/data/recitation/`.
+`recitation-builder.ts` owns draft editing and publication; `recitation-catalog.ts` owns the separate, cached lyric/Basta source lookup and metadata; `recitation-workflow.ts` enhances builder navigation; `recitation-reader.ts` resolves source poetry without changing it; `recitation-export.ts` produces portable offline/print HTML. Shared source identifiers and set validation live under `src/lib/` and `src/data/recitation/`.
 
 The Recitation Sets builder keeps Plan and Find usable without a forced wizard. Publication controls show an accessible disabled explanation before a valid title and at least one kalam exist; sharing and retention choices progressively expand once publishable, or when deliberately opened from the Share step. Searching the unfiltered catalog starts with a short batch, with a Show more control.
 
