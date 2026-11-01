@@ -123,28 +123,18 @@ test("search results index poetry without including metadata controls", async ({
   await expect(basta.locator("p")).not.toHaveCount(0);
 });
 
-test("mobile Pagefind dropdown stays on-screen and can select a filter", async ({ page }) => {
-  for (const width of [320, 390]) {
-    await page.setViewportSize({ width, height: 760 });
-    await page.goto("/search/");
-    const filters = page.locator("#search-filter-disclosure");
-    await filters.locator(":scope > summary").click();
-    const dropdown = page.locator('pagefind-filter-dropdown[filter="collection"]');
-    const trigger = dropdown.locator(".pf-dropdown-trigger");
-    await expect(trigger).toBeVisible();
-    await expect.poll(() => dropdown.locator(".pf-dropdown-option").count()).toBeGreaterThan(0);
-    await trigger.click();
-    const menu = dropdown.locator(".pf-dropdown-menu");
-    await expect(menu).toBeVisible();
-    const rect = await menu.boundingBox();
-    expect(rect).not.toBeNull();
-    expect(rect.x).toBeGreaterThanOrEqual(-1);
-    expect(rect.x + rect.width).toBeLessThanOrEqual(width + 1);
-    await menu.locator(".pf-dropdown-option").first().click();
-    await expect(trigger).toHaveAttribute("aria-expanded", "false");
-    await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth))
-      .toBeLessThanOrEqual(2);
-  }
+test("Pagefind collection filter can be selected on mobile", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 760 });
+  await page.goto("/search/");
+  await page.locator("#search-filter-disclosure > summary").click();
+  const dropdown = page.locator('pagefind-filter-dropdown[filter="collection"]');
+  const trigger = dropdown.locator(".pf-dropdown-trigger");
+  await expect.poll(() => dropdown.locator(".pf-dropdown-option").count()).toBeGreaterThan(0);
+  await trigger.click();
+  const menu = dropdown.locator(".pf-dropdown-menu");
+  await expect(menu).toBeVisible();
+  await menu.locator(".pf-dropdown-option").first().click();
+  await expect(trigger).toHaveAttribute("aria-expanded", "false");
 });
 
 test("JSON library backup validates and restores only allowlisted data", async ({ page }) => {

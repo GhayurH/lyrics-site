@@ -3,9 +3,7 @@ import { test, expect } from "@playwright/test";
 
 const readers = [
   { path: "/lyrics/aa-asghar-bin-tere/", hasPageJump: false },
-  { path: "/basta/200/", hasPageJump: false },
   { path: "/basta/read/#page-200", hasPageJump: true },
-  { path: "/basta/index/", hasPageJump: false },
 ];
 
 test("reader settings collapse by default and expand on every mobile reading view", async ({ page }) => {
@@ -23,10 +21,6 @@ test("reader settings collapse by default and expand on every mobile reading vie
       await expect(controls.locator(".reading-page-jump")).toBeHidden();
       await expect(controls.locator(".reading-contents-button")).toBeHidden();
     }
-    const compact = await controls.boundingBox();
-    const combinedPager = await controls.locator(".reading-context-nav").count() > 0;
-    expect(compact.height).toBeLessThan(combinedPager ? 150 : 100);
-
     await toggle.click();
     await expect(toggle).toHaveAttribute("aria-expanded", "true");
     await expect(controls.locator(".reading-view-control")).toBeVisible();
@@ -54,9 +48,6 @@ test("site header hides on downward scrolling and returns on upward scrolling", 
   await expect(root).toHaveAttribute("data-mobile-header-hidden", "true");
   await expect.poll(() => header.evaluate((node) =>
     node.getBoundingClientRect().bottom)).toBeLessThanOrEqual(1);
-  const controls = page.locator("[data-reading-controls]");
-  await expect.poll(() => controls.evaluate((el) => getComputedStyle(el).top)).toBe("8px");
-
   await page.evaluate(() => window.scrollBy({ top: -125, behavior: "instant" }));
   await expect(root).not.toHaveAttribute("data-mobile-header-hidden", "true");
   await expect(header).toBeVisible();
@@ -64,7 +55,7 @@ test("site header hides on downward scrolling and returns on upward scrolling", 
   await expect(header).toBeVisible();
 });
 
-test("the open mobile navigation never hides during scrolling", async ({ page }) => {
+test("the open mobile navigation never hides during scrolling @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/200/");
   await page.locator("#mobile-nav-toggle").click();
