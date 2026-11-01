@@ -48,9 +48,13 @@ jobs:
           else
             changed="$(git -c safe.directory="$GITHUB_WORKSPACE" diff --name-only HEAD^ HEAD)"
           fi
-          # Only the current commit opts in. A PR's [full-ci] marker must not
-          # force another full run after merging its second parent into main.
+          # PR checkouts are synthetic merge commits; their second parent is
+          # the proposed branch head. For pushes, inspect only the current
+          # commit so PR opt-in markers do not leak into main's next run.
           messages="$(git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD)"
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            messages="$(git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD^2)"
+          fi
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || grep -Fq '[full-ci]' <<< "$messages"; then
             echo 'full=true' >> "$GITHUB_OUTPUT"
           else
