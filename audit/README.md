@@ -10,7 +10,7 @@ python3 audit/basta_error_report.py --output /tmp/basta-errors.csv
 
 This read-only scan flags uncertain OCR, encoding issues, and Latin text in Urdu pages. Verify CSV findings against scans; it never edits poetry. For routine maintenance use `npm run basta:index:check` and `npm run basta:kalams:audit`.
 
-Older **unverified** OCR review candidates (not confirmed current errors): `035 038 044 045 046 053 060 064 076 083 084 138 331 358 368 398 417`.
+Older **unverified** OCR review candidates (not confirmed current errors): `035 038 044 045 046 053 060 064 076 083 084 138 331* 358 368*** 398** 417*`.
 
 ## Pages deployment cleanup
 
