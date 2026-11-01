@@ -49,8 +49,8 @@
 .lyric-version-heading { display: none; }
 
 .lyrics-text, .roman-lyrics-text { margin-top: 0; white-space: normal; overflow-wrap: normal; unicode-bidi: plaintext; }
-.lyrics-text { font-family: var(--font-urdu); font-size: 1em; line-height: 2.7; text-align: start; }
-.roman-lyrics-text { font-family: var(--font-roman); font-size: 1em; line-height: 2; text-align: left; }
+.lyrics-text { font-family: var(--font-urdu); font-size: 1em; line-height: var(--reading-active-lyric-urdu-leading); text-align: start; }
+.roman-lyrics-text { font-family: var(--font-roman); font-size: 1em; line-height: var(--reading-active-roman-leading); text-align: left; }
 
 /* Source blank lines delimit stanzas; presentation joins six-verse
    4+2 groups and frames the closing couplet in either source form. */
