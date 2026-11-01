@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 import { readFile } from "node:fs/promises";
 
-test("offline programme export contains complete text, reciter assignments and notes @smoke", async ({ page }) => {
+test("offline programme export contains complete text, reciter assignments and notes", async ({ page }) => {
   await page.goto("/recite/");
   await page.locator("#recite-title").fill("Offline printable programme");
   await page.locator("#recite-optional-details summary").click();
@@ -53,7 +53,7 @@ test("offline programme export contains complete text, reciter assignments and n
   expect(pageCount).toBeLessThanOrEqual(3);
 });
 
-test("live navigation is opt-in and follows published entry UIDs @smoke", async ({ page }) => {
+test("live navigation is opt-in and follows published entry UIDs", async ({ page }) => {
   const id = "0123456789abcdef01234567";
   const firstUid = "391002ab-16f4-4535-bf2a-8ca02cefc956";
   const nextUid = "b61002ab-16f4-4535-bf2a-8ca02cefc956";
@@ -80,7 +80,7 @@ test("live navigation is opt-in and follows published entry UIDs @smoke", async 
 
 
 
-test("empty set disables unavailable actions and explains publishing requirements @smoke", async ({ page }) => {
+test("empty set disables unavailable actions and explains publishing requirements", async ({ page }) => {
   await page.goto("/recite/");
   const publish = page.locator("#recite-publish");
   const tooltip = page.locator("#recite-publish-control");
@@ -170,7 +170,12 @@ test("create local recitation programme and read standalone lyric @smoke", async
   await page.locator("#recite-open-reader").click();
   await expect(page).toHaveURL(/\/recite\/read\/\?draft=/);
   await expect(page.locator("#recite-reader-title")).toHaveText("Test recitation programme");
-  await expect(page.locator(".recite-work-header h2")).toBeVisible();
+  const kalamTitle = page.locator(".recite-work-header h2.kalam-reading-title");
+  await expect(kalamTitle).toBeVisible();
+  await expect(kalamTitle).toHaveCSS("text-align", "center");
+  await expect(kalamTitle).toHaveCSS("text-decoration-line", "underline");
+  expect(await kalamTitle.evaluate((node) => getComputedStyle(node).color))
+    .not.toBe(await page.evaluate(() => getComputedStyle(document.body).color));
   await page.locator("#recite-reader-view").selectOption("sequential");
   await expect(page.locator("#recite-position")).toHaveText("1 / 1");
   await expect(page.locator(".recite-editions .lyric-reading-urdu")).toBeVisible();
@@ -193,7 +198,7 @@ test("local recitation ordering and duplication", async ({ page }) => {
 });
 
 
-test("borrow and reorder verified Marsiya stanzas @smoke", async ({ page }) => {
+test("borrow and reorder verified Marsiya stanzas", async ({ page }) => {
   const index = { version: 1, kalams: [
     { id: "basta-marsiye-001", name: "پہلا مرثیہ", romanName: "Pehla Marsiya",
       sectionRoman: "Marsiye", status: "ready", numbered: true, stanzaCount: 2,
@@ -329,7 +334,7 @@ test("multi-page Basta Marsiya preserves six-verse framing and both scans", asyn
   }
 });
 
-test("organizer can permanently preserve, renew and delete published sets @smoke", async ({ page }) => {
+test("organizer can permanently preserve, renew and delete published sets", async ({ page }) => {
   const id = "123456789abcdef123456789";
   const editToken = "a".repeat(64);
   let published;

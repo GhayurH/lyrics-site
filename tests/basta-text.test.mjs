@@ -118,8 +118,24 @@ test("justifies poetry titles but excludes poets and credits", () => {
     false, false, false, true, true, true, true, false
   ]);
   assert.ok(result[0].title);
+  assert.ok(result[1].poet, "verified byline immediately after the title is marked");
+  assert.ok(bastaVerseClassNames(result[1]).includes("kalam-poet-credit"));
+  assert.ok(!bastaVerseClassNames(result[1]).includes("kalam-reading-title"));
   assert.ok(bastaVerseClassNames(result[0]).includes("basta-verse-poetry"));
   assert.ok(!bastaVerseClassNames(result[1]).includes("basta-verse-poetry"));
+  assert.ok(!result.at(-1)?.poet, "source credits are not poet bylines");
+});
+
+test("separately rendered numbered recitation prefaces retain title and poet roles", () => {
+  const preface = "Section heading\n\nTitle of a kalam\nPoet name";
+  const lines = layoutBastaKalam(preface, true, "auto", true);
+  assert.equal(lines[2].title, true);
+  assert.equal(lines[3].poet, true);
+  assert.ok(bastaVerseClassNames(lines[2]).includes("kalam-reading-title"));
+  assert.ok(bastaVerseClassNames(lines[3]).includes("kalam-poet-credit"));
+  assert.ok(!bastaVerseClassNames(lines[3]).includes("kalam-reading-title"));
+  // Without the explicit preface role, do not guess from arbitrary prose.
+  assert.equal(layoutBastaKalam(preface)[3].poet, undefined);
 });
 
 test("unformatted prose never gains the poetry-justification flag", () => {
@@ -190,6 +206,7 @@ test("page 362 Urdu and Roman opening titles and closing lines use verse fitting
     assert.ok(title, language + " title detected");
     assert.equal(title.verse, false, language + " title does not count as a verse");
     assert.ok(bastaVerseClassNames(title).includes("basta-verse-poetry"));
+    assert.ok(bastaVerseClassNames(title).includes("kalam-reading-title"));
     const verses = lines.filter(line => line.verse);
     assert.equal(verses.length, 14);
     assert.equal(verses.filter(line => line.coupletSeparator).length, 6, language + " separators");

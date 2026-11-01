@@ -1,8 +1,9 @@
 import { isMobileViewport } from "./viewport";
 // File role: Browser-side programme reader; load canonical verses on demand while keeping programme order separate from source text.
 import type { BastaKalam } from "../lib/basta-kalam-units";
-import { bastaVerseClassNames, layoutBastaKalam } from "../lib/basta-text";
-import { layoutLyricStanzas } from "../lib/lyric-stanzas";
+import { renderBastaTextBlock } from "./basta-dom";
+import { layoutLyricStanzas, lyricStanzaClassNames, lyricLineClassName } from "../lib/lyric-stanzas";
+import { parseStanzaNumber } from "../lib/stanza-numbers";
 import { romanUnavailable } from "../lib/edition-availability";
 import { validateRecitationSet, type RecitationSet, type RecitationItem } from "../lib/recitation-set";
 import { readDrafts } from "./recitation-storage";
@@ -60,21 +61,15 @@ async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Poem> {
   try { return await poemCache.get(key)!; }
   catch (e) { poemCache.delete(key); throw e; }
 }
-function addBastaText(host: HTMLElement, text: string) {
-  const block = node("div", "basta-kalam-text");
-  for (const line of layoutBastaKalam(text, true).filter((item) => !item.hidden)) {
-    block.append(node("span", bastaVerseClassNames(line), line.text));
-  }
-  host.append(block);
+function addBastaText(host: HTMLElement, text: string, prefaceOnly = false) {
+  host.append(renderBastaTextBlock(text, true, "auto", prefaceOnly));
 }
 function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerseLayout?: "pairs") {
   const block = node("div", "lyric-reading-text " + (isRoman ? "roman-lyrics-text" : "lyrics-text"));
   for (const stanza of layoutLyricStanzas(text)) {
-    const verseCount = stanza.filter((line) => !line.number).length;
-    const group = node("div", "lyric-stanza" + (verseCount === 6 ? " lyric-stanza-six" : "") +
-      (verseCount === 6 && sixVerseLayout === "pairs" ? " lyric-stanza-pairs" : ""));
+    const group = node("div", lyricStanzaClassNames(stanza, sixVerseLayout));
     for (const line of stanza) {
-      group.append(node("span", line.number ? "poetry-stanza-number" : "lyric-verse", line.text));
+      group.append(node("span", lyricLineClassName(line), line.text));
     }
     block.append(group);
   }
@@ -82,7 +77,7 @@ function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerse
 }
 function preface(roman: string): string {
   const lines = roman.split(/\r?\n/);
-  const first = lines.findIndex((line) => /^[0-9٠-٩۰-۹]+[.)۔-]?$/.test(line.trim()));
+  const first = lines.findIndex((line) => parseStanzaNumber(line) !== null);
   return lines.slice(0, first < 0 ? lines.length : first).join("\n").trim();
 }
 /**
@@ -102,7 +97,7 @@ function originalBastaEdition(parent: HTMLElement, kalam: BastaKalam, language: 
     return;
   }
   const opening = language === "urdu" ? kalam.preface : preface(source);
-  if (opening) addBastaText(parent, opening);
+  if (opening) addBastaText(parent, opening, true);
   for (const stanza of kalam.stanzas) {
     addBastaText(parent, stanza.printedNumber + "\n" +
       (language === "urdu" ? stanza.urdu : stanza.roman!));
@@ -127,9 +122,9 @@ function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, la
   const original = poem.basta!;
   const references = item.stanzaSequence || [];
   if (language === "urdu") {
-    if (original.preface) addBastaText(parent, original.preface);
+    if (original.preface) addBastaText(parent, original.preface, true);
   } else if (preface(original.roman || "")) {
-    addBastaText(parent, preface(original.roman || ""));
+    addBastaText(parent, preface(original.roman || ""), true);
   }
   for (const ref of references) {
     const source = sources.get(ref.kalamId)?.basta;
@@ -180,9 +175,10 @@ async function resolvedPoems(item: RecitationItem): Promise<{ poem: Poem; source
 function renderWork(work: HTMLElement, item: RecitationItem, index: number,
   poem: Poem, sources: Map<string, Poem>) {
   const header = node("header", "recite-work-header");
-  const headline = node("h2", "", (index + 1) + ". " + poem.title);
+  const headline = node("h2", "kalam-reading-title", (index + 1) + ". " + poem.title);
   headline.lang = poem.lang; headline.dir = poem.direction;
-  const alt = node("p", "", poem.alternateTitle || "");
+  const alt = node("p", "kalam-reading-title", poem.alternateTitle || "");
+  alt.lang = "en"; alt.dir = "ltr";
   const sourceLink = node("a", "", "Original source");
   sourceLink.href = poem.sourceUrl;
   header.append(headline);

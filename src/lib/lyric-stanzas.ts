@@ -5,6 +5,17 @@ export interface LyricDisplayLine {
   number: boolean;
 }
 
+/** Shared stanza classes for server-rendered lyrics and recitation content. */
+export function lyricStanzaClassNames(stanza: readonly LyricDisplayLine[], sixVerseLayout?: "pairs"): string {
+  const six = stanza.filter((line) => !line.number).length === 6;
+  return ["lyric-stanza", six && "lyric-stanza-six", six && sixVerseLayout === "pairs" && "lyric-stanza-pairs"]
+    .filter(Boolean).join(" ");
+}
+
+export function lyricLineClassName(line: LyricDisplayLine): string {
+  return line.number ? "poetry-stanza-number" : "lyric-verse";
+}
+
 export function splitLyricStanzas(text: string): LyricDisplayLine[][] {
   return text.replace(/\r\n?/g, "\n").trim().split(/\n(?:[ \t]*\n)+/)
     .filter(block => block.trim().length > 0)

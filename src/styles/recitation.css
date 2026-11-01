@@ -73,7 +73,6 @@ html[data-reading-focus="true"] .recite-reader-heading { display: none; }
 html[data-reading-focus="true"] .recite-works { gap: 1rem; }
 html[data-reading-focus="true"] .recite-work { border: 0; border-radius: 0; background: var(--site-background); }
 html[data-reading-focus="true"] .recite-work-header { padding: .4rem; }
-html[data-reading-focus="true"] .recite-work-header h2 { text-decoration: underline; }
 @media (max-width: 740px) {
   /* Exactly two management rows: full-width chooser, then three actions. */
   .recite-topbar { grid-template-columns: minmax(0,1fr); gap: .6rem; }
@@ -87,8 +86,8 @@ html[data-reading-focus="true"] .recite-work-header h2 { text-decoration: underl
 .recite-inline-note { flex: 1 1 10rem; max-width: 16rem; }
 .recite-inline-note input { font-size: .83rem; min-height: var(--ui-target); }
 .recite-link-disabled { opacity: .5; cursor: not-allowed; }
-.recite-editions .basta-kalam-text { line-height: 2.7; }
-.recite-editions .lyric-reading-roman .basta-kalam-text { line-height: 2; }
+.recite-editions .basta-kalam-text { line-height: var(--reading-active-lyric-urdu-leading); }
+.recite-editions .lyric-reading-roman .basta-kalam-text { line-height: var(--reading-active-roman-leading); }
 .recite-work { scroll-margin-top: 9rem; }
 html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
 

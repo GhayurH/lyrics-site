@@ -2,7 +2,7 @@
 import { test, expect } from "@playwright/test";
 
 
-test("appearance tabs, grouped fonts, and enlarged swatches work on narrow screens @smoke", async ({ page }) => {
+test("appearance tabs, grouped fonts, and enlarged swatches work on narrow screens", async ({ page }) => {
   for (const viewport of [{ width: 320, height: 640 }, { width: 844, height: 390 }]) {
     await page.setViewportSize(viewport);
     await page.goto("/lyrics/na-bhool-kar-bhi/");
@@ -73,7 +73,7 @@ test("Auto follows device changes, and restoring each submenu leaves the other i
   await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "amiri");
 });
 
-test("My Custom is preserved on preset changes and copying a preset is explicit @smoke", async ({ page }) => {
+test("My Custom is preserved on preset changes and copying a preset is explicit", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
@@ -165,7 +165,7 @@ test("light, dark and sepia presets persist between pages", async ({ page }) => 
   await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });
 
-test("custom applies three colour choices, derives text and remembers them @smoke", async ({ page }) => {
+test("custom applies three colour choices, derives text and remembers them", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");

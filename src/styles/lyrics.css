@@ -49,8 +49,8 @@
 .lyric-version-heading { display: none; }
 
 .lyrics-text, .roman-lyrics-text { margin-top: 0; white-space: normal; overflow-wrap: normal; unicode-bidi: plaintext; }
-.lyrics-text { font-family: var(--font-urdu); font-size: 1em; line-height: 2.7; text-align: start; }
-.roman-lyrics-text { font-family: var(--font-roman); font-size: 1em; line-height: 2; text-align: left; }
+.lyrics-text { font-family: var(--font-urdu); font-size: 1em; line-height: var(--reading-active-lyric-urdu-leading); text-align: start; }
+.roman-lyrics-text { font-family: var(--font-roman); font-size: 1em; line-height: var(--reading-active-roman-leading); text-align: left; }
 
 /* Source blank lines delimit stanzas; presentation joins six-verse
    4+2 groups and frames the closing couplet in either source form. */
@@ -63,16 +63,6 @@
   border-top: var(--ui-border);
   margin-top: .85em;
   padding-top: .5em;
-}
-.lyric-verse {
-  display: block;
-  unicode-bidi: plaintext;
-  white-space: nowrap;
-  text-align: justify;
-  text-align-last: justify;
-  overflow-wrap: normal;
-  word-break: normal;
-  min-inline-size: 0;
 }
 /* The six-verse form matches Basta: first four lines are end-inset,
    and the final pair has start indentation and framing rules. */
@@ -107,10 +97,6 @@
 .lyric-reading-grid[data-reading-mode="urdu"] .lyric-reading-roman, .lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-urdu { display: none; }
 .lyric-reading-grid[data-reading-mode="roman"] .lyric-reading-roman { border-right: 0; }
 
-.lyric-reading-grid[data-line-spacing="compact"] .lyrics-text { line-height: 2.2; }
-.lyric-reading-grid[data-line-spacing="compact"] .roman-lyrics-text { line-height: 1.65; }
-.lyric-reading-grid[data-line-spacing="relaxed"] .lyrics-text { line-height: 3.15; }
-.lyric-reading-grid[data-line-spacing="relaxed"] .roman-lyrics-text { line-height: 2.35; }
 
 .lyric-basta-note { max-width: var(--reading-single-width); margin: 1.25rem auto 0; color: var(--secondary-text); font-size: 0.9rem; line-height: 1.6; text-align: center; }
 .lyric-basta-note a { color: var(--primary-text); text-underline-offset: 0.2em; }
