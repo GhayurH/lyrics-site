@@ -54,3 +54,5 @@ Install Chromium once with `npx playwright install chromium`. Use the **full** s
 Local Astro preview does not emulate Pages Functions/R2 redirects; test publication with the intended Cloudflare D1 bindings. Print/export changes require a real browser check for Nastaliq fonts and page breaks.
 
 Questions and corrections: **lyricsadmin@gmail.com**.
+
+For source-mapping work, run `npm run basta:kalams:review`; CI attaches the unresolved kalam/fragment queue with original-scan links as an artifact. Do not mark an uncertain mapping verified without comparing the printed scan.
