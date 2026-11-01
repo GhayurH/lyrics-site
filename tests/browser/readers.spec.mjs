@@ -86,6 +86,52 @@ test("mobile single-edition Focus starts with stanza one via link and button @sm
   }
 });
 
+test("Urdu and Roman kalam titles are centered and theme-aware in every reading layout @smoke", async ({ page }) => {
+  const assertTitle = async (selector) => {
+    const title = page.locator(selector).first();
+    await expect(title).toBeVisible();
+    await expect(title).toHaveCSS("text-align", "center");
+    await expect(title).toHaveCSS("text-align-last", "center");
+    await expect(title).toHaveCSS("text-decoration-line", "underline");
+    const values = await title.evaluate((node) => ({
+      title: getComputedStyle(node).color,
+      body: getComputedStyle(document.body).color,
+    }));
+    expect(values.title).not.toBe(values.body);
+    return values.title;
+  };
+
+  for (const viewport of [{ width: 390, height: 844 }, { width: 1280, height: 820 }]) {
+    await page.setViewportSize(viewport);
+    await page.goto("/basta/138/");
+    await assertTitle(".basta-page-urdu .basta-kalam-title");
+    const toggle = page.locator("[data-reading-regular-toggle]");
+    if (await toggle.isVisible()) await toggle.click();
+    await page.locator('[data-reading-column][value="roman"]').check();
+    await assertTitle(".basta-page-roman .basta-kalam-title");
+  }
+
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/lyrics/na-bhool-kar-bhi/");
+  await assertTitle(".lyric-header h1.kalam-reading-title");
+  await page.locator("[data-reading-focus-enter]").click();
+  const urduTitle = ".lyric-reading-urdu .lyric-focus-title";
+  await assertTitle(urduTitle);
+  await page.locator("[data-reading-focus-options]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
+  await page.locator('[data-reading-column][value="urdu"]').uncheck();
+  const romanTitle = ".lyric-reading-roman .lyric-focus-title";
+  const original = await assertTitle(romanTitle);
+
+  // The title derives its color from each current palette, rather than
+  // persisting a fixed hue when readers change between themes.
+  await page.evaluate(() => { document.documentElement.dataset.theme = "sepia"; });
+  const sepia = await assertTitle(romanTitle);
+  await page.evaluate(() => { document.documentElement.dataset.theme = "dark"; });
+  const dark = await assertTitle(romanTitle);
+  expect(new Set([original, sepia, dark]).size).toBe(3);
+});
+
 test("continuous reader deep links load streamed content and preserve the current page @smoke", async ({ page }) => {
   await page.goto("/basta/read/#page-138");
   const page138 = page.locator('[data-basta-page="138"]');
