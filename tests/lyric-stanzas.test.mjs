@@ -1,8 +1,19 @@
 // File role: Exercise non-Basta stanza parsing and six-verse presentation contracts.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { splitLyricStanzas, layoutLyricStanzas } from "../src/lib/lyric-stanzas.ts";
+import { splitLyricStanzas, layoutLyricStanzas, lyricStanzaClassNames, lyricLineClassName } from "../src/lib/lyric-stanzas.ts";
 import { parseStanzaNumber } from "../src/lib/stanza-numbers.ts";
+
+test("one stanza class contract covers normal, six-line and paired editions", () => {
+  const numbered = { text: "۱", number: true };
+  const verse = { text: "first verse", number: false };
+  assert.equal(lyricLineClassName(numbered), "poetry-stanza-number");
+  assert.equal(lyricLineClassName(verse), "lyric-verse");
+  assert.equal(lyricStanzaClassNames([numbered, verse]), "lyric-stanza");
+  assert.equal(lyricStanzaClassNames([numbered, ...Array(6).fill(verse)]), "lyric-stanza lyric-stanza-six");
+  assert.equal(lyricStanzaClassNames([numbered, ...Array(6).fill(verse)], "pairs"),
+    "lyric-stanza lyric-stanza-six lyric-stanza-pairs");
+});
 
 test("only blank lines separate stanzas, including consecutive blank lines", () => {
   const stanzas = splitLyricStanzas("one\ntwo\n\nthree\nfour\n\n\n five\nsix");
