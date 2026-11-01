@@ -13,7 +13,7 @@ async function walk(dir) {
   return result;
 }
 const result = new Map(),examples=new Map();
-const punct=/[ \t]+([,،，.。؛;!?؟:)\]}])/gu;
+const punct=/[ \t]+([,،，.۔。؛;!?؟:…٪%)）\]}”»’])/gu;
 const category=(p)=>p.startsWith("src/data/basta/pages/")?"basta-urdu":
   p.startsWith("src/data/basta/roman/")?"basta-roman":
   p.startsWith("src/data/lyrics/")?"lyrics":"docs";
