@@ -50,7 +50,7 @@ export function initCorrectionDialog(): void {
   document.addEventListener("selectionchange", () => {
     const selection = window.getSelection();
     const readingRoot = document.querySelector("[data-reading-root]");
-    if (!selection?.isCollapsed && selection.anchorNode && readingRoot?.contains(selection.anchorNode)) {
+    if (selection && !selection.isCollapsed && selection.anchorNode && readingRoot?.contains(selection.anchorNode)) {
       const text = selection.toString().trim().slice(0,1500);
       if (text) lastSelection = {text,anchor:selection.anchorNode};
     }
