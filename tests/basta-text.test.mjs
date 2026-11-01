@@ -118,8 +118,12 @@ test("justifies poetry titles but excludes poets and credits", () => {
     false, false, false, true, true, true, true, false
   ]);
   assert.ok(result[0].title);
+  assert.ok(result[1].poet, "verified byline immediately after the title is marked");
+  assert.ok(bastaVerseClassNames(result[1]).includes("kalam-poet-credit"));
+  assert.ok(!bastaVerseClassNames(result[1]).includes("kalam-reading-title"));
   assert.ok(bastaVerseClassNames(result[0]).includes("basta-verse-poetry"));
   assert.ok(!bastaVerseClassNames(result[1]).includes("basta-verse-poetry"));
+  assert.ok(!result.at(-1)?.poet, "source credits are not poet bylines");
 });
 
 test("unformatted prose never gains the poetry-justification flag", () => {
