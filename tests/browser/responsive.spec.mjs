@@ -74,4 +74,3 @@ test("keyboard focus reveals a retracted mobile header", async ({ page }) => {
   await expect(page.locator("html")).not.toHaveAttribute("data-mobile-header-hidden", "true");
   await expect(page.locator("#theme-toggle")).toBeFocused();
 });
-

@@ -183,4 +183,3 @@ test("Urdu and Roman font choices persist after reload", async ({ page }) => {
   await expect(page.locator("html")).toHaveAttribute("data-roman-font", "lora");
   await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "lateef");
 });
-
