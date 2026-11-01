@@ -195,3 +195,30 @@ test("short touch landscape releases the sticky toolbar, but short desktop windo
   expect(await page.locator("[data-reading-controls]").evaluate((node) =>
     getComputedStyle(node).position)).toBe("sticky");
 });
+
+test("Basta stacked editions follow available container width at the mobile/tablet boundary", async ({ page }) => {
+  for (const viewport of [
+    { width: 390, height: 844 },
+    { width: 650, height: 850 },
+    { width: 760, height: 500 },
+  ]) {
+    await page.setViewportSize(viewport);
+    await page.goto("/basta/200/");
+    const menu = page.locator("[data-reading-regular-toggle]");
+    if (await menu.isVisible()) await menu.click();
+    await page.locator('[data-reading-column][value="roman"]').check();
+    await page.locator('[data-reading-column][value="image"]').check();
+    const root = page.locator(".basta-page-grid");
+    const text = page.locator(".basta-parallel-kalams-page");
+    const urdu = page.locator(".basta-page-urdu");
+    const roman = page.locator(".basta-page-roman");
+    await expect.poll(async () => {
+      const [outer, group, u, r] = await Promise.all([
+        root.boundingBox(), text.boundingBox(), urdu.boundingBox(), roman.boundingBox(),
+      ]);
+      return group.width / outer.width > 0.9 &&
+        u.width / group.width > 0.95 && r.width / group.width > 0.95 &&
+        Math.abs(u.x - r.x) < 5 && Math.abs(u.y - r.y) > 30;
+    }).toBe(true);
+  }
+});

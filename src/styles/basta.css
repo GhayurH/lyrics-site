@@ -254,7 +254,6 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 /* Page-by-page reader */
 .basta-page-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
   align-items: start;
   gap: 1.5rem;
   margin: 2rem 0 3rem;
@@ -262,11 +261,6 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 
 .basta-page.basta-page-with-roman {
   max-width: 96rem;
-}
-
-.basta-page-grid-image-only {
-  grid-template-columns: minmax(0, var(--reading-scan-width));
-  justify-content: center;
 }
 
 .basta-original-page {
@@ -440,10 +434,6 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 }
 
 @media (max-width: 760px) {
-  .basta-page-grid {
-    grid-template-columns: 1fr;
-  }
-
   .basta-pager {
     grid-template-columns: 1fr 1fr;
   }

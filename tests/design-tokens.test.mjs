@@ -205,3 +205,11 @@ test("scan floating and lyric edition layout depend on shared geometry, not devi
   assert.doesNotMatch(css["lyrics.css"], /\.lyric-reading-grid-single/);
   assert.doesNotMatch(lyricRoute, /lyric-reading-grid-single/);
 });
+
+test("Basta route styles defer edition grid geometry to the shared reader stylesheet", () => {
+  const basta = css["basta.css"];
+  const continuous = css["basta-reader.css"];
+  assert.doesNotMatch(basta, /\.basta-page-grid(?:-image-only)?\s*\{[^}]*grid-template-columns/s);
+  assert.doesNotMatch(continuous, /\.basta-reader-page-grid\s*\{[^}]*grid-template-(?:areas|columns)/s);
+  assert.match(css["reading-columns.css"], /@container reader-shell \(max-width: 46rem\)/);
+});
