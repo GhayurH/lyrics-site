@@ -58,7 +58,7 @@
 
 .basta-reader-urdu .basta-reader-text {
   font-family: var(--font-urdu);
-  font-size: var(--reading-urdu-size);
+  font-size: calc(var(--reading-urdu-size) * var(--reading-urdu-optical-scale));
   line-height: var(--reading-active-urdu-leading);
   text-align: right;
 }

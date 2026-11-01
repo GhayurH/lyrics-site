@@ -4,7 +4,7 @@ import { readFile, readdir, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join, relative, sep } from "node:path";
 import { buildBastaKalamCatalog, bastaKalamId } from "../src/lib/basta-kalam-units.ts";
-import { stanzaAnchor } from "../src/lib/recitation-identity.ts";
+import { stanzaAnchor, safeStanzaAnchorRefresh, stanzaPageLabel } from "../src/lib/recitation-identity.ts";
 
 const root = fileURLToPath(new URL("../", import.meta.url));
 const location = join(root, "src/data/recitation/identity-lock.json");
@@ -70,8 +70,10 @@ const activeBasta = kalams.map((kalam) => ({
   id: kalam.id,
   key: name(sourceIndex.find((entry) => entryId(entry) === kalam.id)),
   status: kalam.status,
+  startPage: kalam.startPage,
+  pages: kalam.pages,
   stanzas: kalam.status === "ready" ? kalam.stanzas.map((stanza) =>
-    ({ id: stanza.id, anchor: stanzaAnchor(stanza.urdu) })) : [],
+    ({ id: stanza.id, anchor: stanzaAnchor(stanza.urdu), pages: stanza.pages })) : [],
 }));
 
 let locked;
@@ -95,6 +97,21 @@ const lyricMap = new Map(activeLyrics.map((x) => [x.id, x]));
 const bastaMap = new Map(activeBasta.map((x) => [x.id, x]));
 const knownLyrics = new Map(locked.lyrics.map((x) => [x.id, x]));
 const knownBasta = new Map(locked.basta.map((x) => [x.id, x]));
+const refreshed = [];
+// An explicit sync can re-pin a single edited stanza when all other stanza
+// anchors still match in order. Never mutate the tracked registry on --check.
+if (args.has("--sync")) {
+  for (const old of locked.basta) {
+    const current = bastaMap.get(old.id);
+    if (!current || current.status !== "ready") continue;
+    const update = safeStanzaAnchorRefresh(old, current.stanzas);
+    if (!update) continue;
+    const pinned = old.stanzas.find((stanza) => stanza.id === update.id);
+    pinned.anchor = update.anchor;
+    refreshed.push(old.id + "/" + update.id + " (" +
+      stanzaPageLabel(update.pages, current.startPage) + ")");
+  }
+}
 for (const old of locked.lyrics) {
   if (!lyricMap.has(old.id) && !old.retired) errors.push(
     "Removed/renamed lyric " + old.id + " — preserve recitationId on moved Markdown or mark retired");
@@ -102,26 +119,36 @@ for (const old of locked.lyrics) {
 }
 for (const old of locked.basta) {
   const current = bastaMap.get(old.id);
-  if (!current && !old.retired) errors.push(
-    "Removed/rekeyed Basta kalam " + old.id + " — preserve recitationId in index or mark retired");
+  if (!current && !old.retired) {
+    const indexed = sourceIndex.find((entry) => name(entry) === old.key);
+    errors.push("Removed/rekeyed Basta kalam " + old.id + " (" +
+      stanzaPageLabel([], indexed?.page) + ") — preserve recitationId in index or mark retired");
+  }
   if (current && old.retired) errors.push("Retired Basta ID was reused: " + old.id);
   if (!current || current.status !== "ready" || old.retired) continue;
   const seen = new Set();
   for (const stanza of current.stanzas) {
-    if (seen.has(stanza.anchor)) errors.push("Duplicate stanza anchor in " + old.id);
+    if (seen.has(stanza.anchor)) errors.push("Duplicate stanza anchor in " + old.id +
+      " (" + stanzaPageLabel(stanza.pages, current.startPage) + ")");
     seen.add(stanza.anchor);
   }
-  for (const pinned of old.stanzas) {
-    if (!seen.has(pinned.anchor) && !pinned.retired)
-      errors.push(old.id + "/" + pinned.id + " source changed/vanished — explicitly update anchor or mark retired");
+  for (const [index, pinned] of old.stanzas.entries()) {
+    if (!seen.has(pinned.anchor) && !pinned.retired) {
+      const candidate = current.stanzas[index];
+      errors.push(old.id + "/" + pinned.id + " source changed/vanished (" +
+        stanzaPageLabel(candidate?.pages ?? [], current.startPage) +
+        ") — run npm run recitation:ids:sync for a single in-place edit; otherwise review the anchor or mark retired");
+    }
   }
   const retiredAnchors = new Set(old.stanzas.filter((x) => x.retired).map((x) => x.anchor));
   const knownAnchors = new Set(old.stanzas.map((x) => x.anchor));
   for (const stanza of current.stanzas) {
     if (retiredAnchors.has(stanza.anchor))
-      errors.push("Retired stanza anchor reused in " + old.id + " — review before restoring");
+      errors.push("Retired stanza anchor reused in " + old.id + " (" +
+        stanzaPageLabel(stanza.pages, current.startPage) + ") — review before restoring");
     if (!knownAnchors.has(stanza.anchor))
-      errors.push("New/unmapped stanza in " + old.id + " (printed " + stanza.id + ") — run ids:sync after reviewing");
+      errors.push("New/unmapped stanza in " + old.id + " (printed " + stanza.id + ", " +
+        stanzaPageLabel(stanza.pages, current.startPage) + ") — run npm run recitation:ids:sync after reviewing");
   }
 }
 const newLyrics = activeLyrics.filter((item) => !knownLyrics.has(item.id));
@@ -134,8 +161,9 @@ if (args.has("--sync")) {
   if (unresolved.length) { fail(unresolved); process.exit(1); }
   locked.lyrics.push(...newLyrics);
   for (const addition of newBasta) {
-    const { status, ...record } = addition;
-    locked.basta.push(record);
+    // Page metadata is diagnostic only, not part of the permanent lock.
+    locked.basta.push({ id: addition.id, key: addition.key,
+      stanzas: addition.stanzas.map(({ id, anchor }) => ({ id, anchor })) });
   }
   for (const old of locked.basta) {
     const current = bastaMap.get(old.id);
@@ -155,7 +183,9 @@ if (args.has("--sync")) {
   locked.basta.sort((a, b) => a.id.localeCompare(b.id));
   await mkdir(dirname(location), { recursive: true });
   await writeFile(location, JSON.stringify(locked, null, 2) + "\n");
-  console.log("Added " + newLyrics.length + " lyrics, " + newBasta.length + " Basta entries and new stanzas.");
+  console.log("Added " + newLyrics.length + " lyrics, " + newBasta.length +
+    " Basta entries and new stanzas; refreshed " + refreshed.length + " existing anchors.");
+  for (const change of refreshed) console.log(" - Updated anchor: " + change);
 } else {
   errors.push(...newLyrics.map((item) => "New lyric needs permanent ID lock: " + item.id));
   errors.push(...newBasta.map((item) => "New Basta needs permanent ID lock: " + item.id));

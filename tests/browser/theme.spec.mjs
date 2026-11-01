@@ -502,3 +502,31 @@ test("Urdu font families are available as bundled web fonts", async ({ page }) =
   await expect.poll(() => page.locator(".basta-urdu-text").first().evaluate((node) =>
     getComputedStyle(node).fontFamily)).toContain("Beaconhouse Nastaliq");
 });
+
+test("switching Urdu fonts optically resizes every reading surface and keeps verses single-line @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 820 });
+  for (const [url, panel, verse] of [
+    ["/lyrics/chhane-lagi-shaam-e-ghareeban/", ".lyric-reading-urdu", ".lyric-reading-urdu .lyric-verse"],
+    ["/basta/138/", ".basta-page-urdu .basta-urdu-text", ".basta-page-urdu .basta-verse-poetry"],
+  ]) {
+    await page.goto(url);
+    // Start each reader at the default instead of inheriting the previous loop's choice.
+    await page.evaluate(() => localStorage.removeItem("kalam:reading-fonts"));
+    await page.reload();
+    await page.evaluate(() => document.fonts.ready);
+    const before = await page.locator(panel).first().evaluate(el => parseFloat(getComputedStyle(el).fontSize));
+    await page.locator("#theme-toggle").click();
+    await page.locator("#theme-dialog").getByRole("tab", { name: "Fonts" }).click();
+    for (const [font, minimumScale] of [["naskh", 1.2], ["beaconhouse", 1.45]]) {
+      await page.locator("#theme-urdu-font").selectOption(font);
+      await expect(page.locator("html")).toHaveAttribute("data-urdu-font", font);
+      await expect.poll(() => page.locator(panel).first().evaluate(el =>
+        parseFloat(getComputedStyle(el).fontSize))).toBeGreaterThan(before * minimumScale);
+      await page.evaluate(() => document.fonts.ready);
+      await expect.poll(() => page.locator(verse).evaluateAll(lines =>
+        lines.filter(line => line.clientWidth && (line.scrollWidth > line.clientWidth + 2 ||
+          getComputedStyle(line).whiteSpace !== "nowrap")).length)).toBe(0);
+    }
+    await page.locator("#theme-dialog-done").click();
+  }
+});
