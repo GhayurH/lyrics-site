@@ -64,16 +64,6 @@
   margin-top: .85em;
   padding-top: .5em;
 }
-.lyric-verse {
-  display: block;
-  unicode-bidi: plaintext;
-  white-space: nowrap;
-  text-align: justify;
-  text-align-last: justify;
-  overflow-wrap: normal;
-  word-break: normal;
-  min-inline-size: 0;
-}
 /* The six-verse form matches Basta: first four lines are end-inset,
    and the final pair has start indentation and framing rules. */
 .lyric-stanza-six:not(.lyric-stanza-pairs) .lyric-verse:not(:nth-last-child(-n+2)) {
