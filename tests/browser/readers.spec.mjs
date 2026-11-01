@@ -578,13 +578,27 @@ test("image viewer centres narrow scans and pans horizontally and vertically whe
   await viewer.getByRole("button", { name: "Close" }).click();
 });
 
-test("Basta uses one upper contextual toolbar and no redundant edition headings", async ({ page }) => {
-  for (const url of ["/basta/138/", "/basta/index/"]) {
-    await page.goto(url);
-    const controls = page.locator("[data-reading-controls]");
-    await expect(controls.locator(".basta-pager")).toHaveCount(1);
-    await expect(page.locator(".basta-pager")).toHaveCount(1);
+test("Basta keeps one toolbar, equal-sized pager buttons, and no redundant headings @smoke", async ({ page }) => {
+  for (const width of [1280, 390]) {
+    await page.setViewportSize({ width, height: 820 });
+    for (const url of ["/basta/251/", "/basta/index/"]) {
+      await page.goto(url);
+      const controls = page.locator("[data-reading-controls]");
+      const pager = controls.locator(".basta-pager");
+      await expect(pager).toHaveCount(1);
+      await expect(page.locator(".basta-pager")).toHaveCount(1);
+      const buttons = pager.locator(":scope > .basta-nav-button");
+      await expect(buttons).toHaveCount(2);
+      const sizes = await buttons.evaluateAll((nodes) => nodes.map((node) => {
+        const { width, height } = node.getBoundingClientRect();
+        return { width, height };
+      }));
+      expect(sizes[0].width).toBeGreaterThan(60);
+      expect(Math.abs(sizes[0].width - sizes[1].width)).toBeLessThanOrEqual(1);
+      expect(Math.abs(sizes[0].height - sizes[1].height)).toBeLessThanOrEqual(1);
+    }
   }
+  await page.setViewportSize({ width: 1280, height: 820 });
   await expect(page.locator(".basta-page-text-heading, .basta-original-page figcaption")).toHaveCount(0);
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   await expect(page.locator(".lyric-language-label")).toHaveCount(0);
