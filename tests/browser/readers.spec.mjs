@@ -120,9 +120,18 @@ test("Urdu and Roman kalam titles are centered and theme-aware in every reading 
     await assertTitle(".basta-page-roman .basta-kalam-title");
   }
 
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/lyrics/na-bhool-kar-bhi/");
-  await assertTitle(".lyric-header h1.kalam-reading-title");
+  for (const viewport of [{ width: 1280, height: 820 }, { width: 390, height: 844 }]) {
+    await page.setViewportSize(viewport);
+    await page.goto("/lyrics/na-bhool-kar-bhi/");
+    await assertTitle(".lyric-header h1.kalam-reading-title");
+    await assertTitle(".lyric-header .alternate-title.kalam-reading-title");
+
+    // Even with action buttons in the header, both title blocks span the
+    // page width, so centering is not offset on wider screens.
+    const row = await page.locator(".lyric-header-title-row").boundingBox();
+    const roman = await page.locator(".lyric-header .alternate-title").boundingBox();
+    expect(Math.abs(roman.x + roman.width / 2 - row.x - row.width / 2)).toBeLessThan(2);
+  }
   await page.locator("[data-reading-focus-enter]").click();
   const urduTitle = ".lyric-reading-urdu .lyric-focus-title";
   await assertTitle(urduTitle);
