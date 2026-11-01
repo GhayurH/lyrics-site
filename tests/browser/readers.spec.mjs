@@ -200,8 +200,9 @@ test("every visible poetry verse stays on one line and within its column at mobi
 });
 test("all three couplet dividers share equal verse-six clearance in both scripts", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 820 });
-  await page.goto("/lyrics/karbala-karbala-karbala/");
-  for (const spacing of ["compact", "default", "relaxed"]) {
+  for (const url of ["/lyrics/karbala-karbala-karbala/", "/lyrics/chhane-lagi-shaam-e-ghareeban/"]) {
+    await page.goto(url);
+    for (const spacing of ["compact", "default", "relaxed"]) {
     await page.locator("[data-reading-line-spacing]").selectOption(spacing);
     const results = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
       panels.map((panel) => {
@@ -236,6 +237,24 @@ test("all three couplet dividers share equal verse-six clearance in both scripts
       }
       expect(Math.max(...panel.rules.map((r) => r.paddingInLines)) -
         Math.min(...panel.rules.map((r) => r.paddingInLines))).toBeLessThan(0.01);
+    }
+    }
+    if (url.includes("chhane-lagi")) {
+      const paired = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
+        panels.map((panel) => {
+          const stanzas = Array.from(panel.querySelectorAll(".lyric-stanza-pairs"));
+          const comma = panel.matches(".lyric-reading-urdu") ? "،" : ",";
+          return { stanzaCount: stanzas.length, correctlySplit: stanzas.every((stanza) => {
+            const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
+            return verses.length === 6 && [0, 2, 4].every((i) =>
+              verses[i].textContent.trim().endsWith(comma));
+          }) };
+        }));
+      expect(paired).toHaveLength(2);
+      for (const panel of paired) {
+        expect(panel.stanzaCount).toBe(8);
+        expect(panel.correctlySplit).toBe(true);
+      }
     }
   }
 });
