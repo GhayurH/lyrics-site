@@ -66,5 +66,3 @@ corrections do not require D1 schema changes.
 Run the project's [standard build and Chromium checks](CONTRIBUTING.md#validation). The Node suite covers programme validation, edit-token permissions, expiry, throttling, and cleanup; browser tests cover local drafts and mocked remote publication.
 
 Local Astro preview does not emulate Pages Functions or R2 redirects. Verify actual publishing, editing, and deletion on a deployment with the intended D1 binding. GitHub Actions checks built `_routes.json` and `_redirects` without contacting R2.
-
-Uncertain printed Basta fragments remain excluded from verified source selection until reviewed; use `npm run basta:kalams:audit` to inspect them.

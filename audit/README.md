@@ -21,9 +21,9 @@ The list below is preserved from the earlier OCR marker audit. **Review status i
 
 ## Cloudflare Pages deployment cleanup
 
-`audit/cleanup-pages.sh` is a **destructive manual utility**, not a validation command. It uses Wrangler OAuth credentials, requires `jq` and local `node_modules/.bin/wrangler`, and deletes non-production Pages deployments oldest-first. It protects the current production deployment and stops if production changes, but **does not preserve preview deployments** that you may still need.
+`audit/cleanup-pages.sh` is a **destructive manual utility**, not a validation command. It uses Wrangler OAuth credentials, requires `jq` and local `node_modules/.bin/wrangler`, and deletes **every deployment except the currently active production deployment**, oldest first. This includes previous production deployments and previews. The script aborts if the active production deployment changes, but **does not preserve older deployments for rollback**.
 
-Only run when old preview deployments can safely be discarded:
+Only run when old preview deployments **and previous production deployments** can safely be discarded:
 
 ```bash
 ./audit/cleanup-pages.sh 5
