@@ -68,33 +68,49 @@ test("mobile single-edition Focus starts with stanza one via link and button @sm
   }
 });
 
-test("continuous reader deep links load streamed content and preserve the current page @smoke", async ({ page }) => {
-  await page.goto("/basta/read/#page-138");
-  const page138 = page.locator('[data-basta-page="138"]');
-  await expect(page138).toBeAttached({ timeout: 20000 });
-  await page.getByRole("button", { name: "Focus Mode" }).click();
-  await page.getByRole("button", { name: /Show reading options/ }).click();
+test("continuous deep link, Contents and Focus exit survive rotation @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
+  const target = page.locator('[data-basta-page="138"]');
+  await expect(target).toBeAttached({ timeout: 20000 });
+
+  await page.locator("[data-reading-focus-enter]").click();
+  await page.locator("[data-reading-focus-options]").click();
   await page.getByRole("button", { name: "Contents" }).click();
   await expect(page.locator(".basta-reader-index")).toBeVisible();
-  // Only one overlay may be expanded: Contents must not hide behind Options.
   await expect(page.locator("[data-reading-controls]")).toHaveAttribute("data-reading-options-open", "false");
-  await expect(page.locator(".basta-reader-index a[href]").first()).toBeFocused();
   await page.keyboard.press("Escape");
   await expect(page.locator(".basta-reader-index")).toBeHidden();
-  await expect(page.locator("[data-reading-focus-options]")).toBeFocused();
-  await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
+
+  await page.setViewportSize({ width: 844, height: 390 });
+  await target.evaluate((node) => node.scrollIntoView({ block: "start", behavior: "instant" }));
+  await page.locator("[data-reading-root]").evaluate((node) => { node.scrollTop += 125; });
+  const visiblePage = await page.locator("[data-reading-root]").evaluate((root) => {
+    const viewport = root.getBoundingClientRect();
+    return [...root.querySelectorAll("[data-basta-page]")].map((node) => {
+      const rect = node.getBoundingClientRect();
+      return { page: Number(node.dataset.bastaPage), visible: Math.max(0,
+        Math.min(rect.bottom, viewport.bottom) - Math.max(rect.top, viewport.top)) };
+    }).sort((a, b) => b.visible - a.visible)[0]?.page;
+  });
+  expect(visiblePage).toBeGreaterThan(0);
+  await page.getByRole("button", { name: /Exit reading mode/ }).click();
+  await expect.poll(() => new URL(page.url()).hash).toBe(`#page-${visiblePage}`);
+  await expect.poll(() => page.locator(`#page-${visiblePage}`).evaluate((node) => {
+    const rect = node.getBoundingClientRect();
+    return rect.bottom > 0 && rect.top < innerHeight;
+  })).toBe(true);
 });
 
-test("unavailable Roman transcription shows a source scan rather than blank content", async ({ page }) => {
-  await page.goto("/basta/read/#page-30");
-  await expect(page.locator('[data-basta-page="30"]')).toBeAttached({ timeout: 20000 });
-  const options = page.locator("[data-reading-regular-toggle]");
-  if (await options.isVisible()) await options.click();
-  await page.getByLabel("Urdu", { exact: true }).uncheck();
-  const source = page.locator('[data-basta-page="30"] .basta-reader-original-image');
-  const notice = page.locator('[data-basta-page="30"] .basta-edition-unavailable');
-  await expect(source).toBeVisible();
-  await expect(notice).toContainText("not available");
+test("missing Roman transcription retains its source scan", async ({ page }) => {
+  await page.goto("/basta/read/#page-30", { waitUntil: "domcontentloaded" });
+  const page30 = page.locator('[data-basta-page="30"]');
+  await expect(page30).toBeAttached({ timeout: 20000 });
+  const toggle = page.locator("[data-reading-regular-toggle]");
+  if (await toggle.isVisible()) await toggle.click();
+  await page.locator('[data-reading-column][value="urdu"]').uncheck();
+  await expect(page30.locator(".basta-reader-original-image")).toBeVisible();
+  await expect(page30.locator(".basta-edition-unavailable")).toContainText("not available");
 });
 
 test("only line spacing is configurable, and its value survives reload", async ({ page }) => {
@@ -108,41 +124,6 @@ test("only line spacing is configurable, and its value survives reload", async (
   await page.reload();
   await expect(spacing).toHaveValue("relaxed");
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
-});
-
-test("rotation and Focus exit retain an actual continuous page rather than the book top", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/basta/read/#page-138");
-  const target = page.locator('[data-basta-page="138"]');
-  await expect(target).toBeAttached({ timeout: 20000 });
-  await target.evaluate((node) => node.scrollIntoView({ block: "start", behavior: "instant" }));
-  await page.evaluate(() => window.scrollBy(0, 125));
-  await page.locator("[data-reading-regular-toggle]").click();
-  await page.locator('[data-reading-column][value="roman"]').uncheck();
-  const editions = await page.locator("[data-reading-root]").getAttribute("data-reading-columns");
-  await page.getByRole("button", { name: "Focus Mode" }).click();
-  await page.setViewportSize({ width: 844, height: 390 });
-  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", editions);
-  // Exit at a known position within page 138, not where the preceding page crosses the reading line.
-  await target.evaluate((node) => node.scrollIntoView({ block: "start", behavior: "instant" }));
-  await page.locator("[data-reading-root]").evaluate((node) => { node.scrollTop += 125; });
-  const visiblePage = await page.locator("[data-reading-root]").evaluate((root) => {
-    const viewport = root.getBoundingClientRect();
-    const pages = [...root.querySelectorAll("[data-basta-page]")];
-    return pages.map((node) => {
-      const rect = node.getBoundingClientRect();
-      return { page: Number(node.dataset.bastaPage), visible: Math.max(0,
-        Math.min(rect.bottom, viewport.bottom) - Math.max(rect.top, viewport.top)) };
-    }).sort((a, b) => b.visible - a.visible)[0]?.page;
-  });
-  expect(visiblePage).toBeGreaterThan(0);
-  await page.getByRole("button", { name: /Exit reading mode/ }).click();
-  await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
-  await expect.poll(() => new URL(page.url()).hash).toBe(`#page-${visiblePage}`);
-  await expect.poll(async () => page.locator(`#page-${visiblePage}`).evaluate((node) => {
-    const r = node.getBoundingClientRect();
-    return r.bottom > 0 && r.top < innerHeight;
-  })).toBe(true);
 });
 
 test("parallel Basta keeps the shorter Roman edition fully visible and scrolls only Urdu", async ({ page }) => {

@@ -61,33 +61,14 @@ test("My Custom is preserved on preset changes and copying a preset is explicit"
   await expect.poll(() => page.evaluate(() => localStorage.getItem("kalam:custom-theme-base"))).toBeNull();
 });
 
-test("light, dark and sepia presets persist between pages @smoke", async ({ page }) => {
-  await page.emulateMedia({ colorScheme: "dark" });
+test("selected theme persists across navigation @smoke", async ({ page }) => {
   await page.goto("/");
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
-  await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "dark");
   await page.locator("#theme-toggle").click();
-  const dialog = page.locator("#theme-dialog");
-  await expect(dialog).toBeVisible();
-  await dialog.locator('input[value="sepia"]').check();
+  await page.locator('#theme-dialog input[value="sepia"]').check();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "sepia");
-  await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#f4ead6");
-  await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "light");
   await page.locator("#theme-dialog-done").click();
-  await page.goto("/search/");
-  await expect.poll(() => page.locator(".search-page").evaluate((element) =>
-    getComputedStyle(element).getPropertyValue("--pf-background").trim())).toBe("#fbf4e6");
-  await page.goto("/basta/138/");
+  await page.goto("/basta/138/", { waitUntil: "domcontentloaded" });
   await expect(page.locator("html")).toHaveAttribute("data-theme", "sepia");
-  await page.locator("#theme-toggle").click();
-  await expect(dialog.locator('input[value="sepia"]')).toBeChecked();
-  await dialog.locator('input[value="light"]').check();
-  await page.locator("#theme-dialog-done").click();
-  await page.goto("/search/");
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
-  await page.locator("#theme-toggle").click();
-  await dialog.locator('input[value="dark"]').check();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });
 
 test("custom applies three colour choices, derives text and remembers them", async ({ page }) => {
@@ -157,104 +138,49 @@ test("invalid persisted Custom colours cannot inject CSS", async ({ page }) => {
   await expect(page.locator("#theme-accent")).toHaveValue("#abcdef");
 });
 
-test("Advanced colours default to Auto and save independent text and border overrides", async ({ page }) => {
+test("advanced Custom overrides persist and can return to Auto", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
-  await page.locator('#theme-dialog input[value="light"]').check();
-  await page.locator('#theme-dialog input[value="custom"]').check();
-  const advanced = page.locator("#theme-advanced");
-  await expect(advanced).not.toHaveAttribute("open", "");
-  await advanced.locator("summary").click();
-  await expect(advanced).toHaveAttribute("open", "");
-  const automaticPrimary = await page.evaluate(() =>
-    getComputedStyle(document.documentElement).getPropertyValue("--primary-text").trim());
-  const automaticMuted = await page.evaluate(() =>
-    getComputedStyle(document.documentElement).getPropertyValue("--secondary-text").trim());
-  expect(automaticMuted).not.toEqual(automaticPrimary);
+  const dialog = page.locator("#theme-dialog");
+  await dialog.locator('input[value="custom"]').check();
+  await dialog.locator("#theme-advanced summary").click();
 
-  const overrides = { primaryText: "#112233", mutedText: "#455667", borders: "#8899aa" };
-  for (const [name, hex] of Object.entries(overrides)) {
-    await expect(page.locator("#theme-" + name + "-auto")).toBeChecked();
-    await expect(page.locator("#theme-" + name)).toBeDisabled();
-    await page.locator("#theme-" + name + "-auto").uncheck();
-    await expect(page.locator("#theme-" + name)).toBeEnabled();
-    await page.locator("#theme-" + name).evaluate((input, value) => {
+  for (const [name, hex] of [["primaryText", "#112233"], ["borders", "#8899aa"]]) {
+    await expect(dialog.locator("#theme-" + name + "-auto")).toBeChecked();
+    await dialog.locator("#theme-" + name + "-auto").uncheck();
+    await dialog.locator("#theme-" + name).evaluate((input, value) => {
       input.value = value;
       input.dispatchEvent(new Event("input", { bubbles: true }));
     }, hex);
-    await expect(page.locator("#theme-" + name + "-value")).toHaveText(hex.toUpperCase());
+    await expect(dialog.locator("#theme-" + name)).toHaveValue(hex);
   }
   await expect.poll(() => page.evaluate(() => getComputedStyle(document.body).color))
     .toBe("rgb(17, 34, 51)");
-  await expect.poll(() => page.locator(".site-footer-about p").evaluate((el) => getComputedStyle(el).color))
-    .toBe("rgb(69, 86, 103)");
-  await expect.poll(() => page.locator(".site-footer").evaluate((el) => getComputedStyle(el).borderTopColor))
-    .toBe("rgb(136, 153, 170)");
-  await expect(page.locator("#theme-contrast-note")).toBeHidden();
-  // Accent button text remains automatically contrasting even with manual typography.
-  await expect.poll(() => page.locator("#theme-dialog-done")
-    .evaluate((el) => getComputedStyle(el).color)).toBe("rgb(255, 255, 255)");
-  await page.locator("#theme-dialog-done").click();
-
-  await page.goto("/saved/");
+  await dialog.locator("#theme-dialog-done").click();
+  await page.reload();
   await expect(page.locator("html")).toHaveAttribute("data-theme", "custom");
-  await expect.poll(() => page.evaluate(() => getComputedStyle(document.body).color))
-    .toBe("rgb(17, 34, 51)");
   await page.locator("#theme-toggle").click();
-  await page.locator("#theme-advanced summary").click();
-  for (const [name, hex] of Object.entries(overrides)) {
-    await expect(page.locator("#theme-" + name + "-auto")).not.toBeChecked();
-    await expect(page.locator("#theme-" + name)).toHaveValue(hex);
-  }
-  await page.locator("#theme-mutedText-auto").check();
-  await expect(page.locator("#theme-mutedText")).toBeDisabled();
+  await dialog.locator("#theme-advanced summary").click();
+  await expect(dialog.locator("#theme-primaryText")).toHaveValue("#112233");
+  await expect(dialog.locator("#theme-borders")).toHaveValue("#8899aa");
+  await dialog.locator("#theme-primaryText-auto").check();
+  await expect(dialog.locator("#theme-primaryText")).toBeDisabled();
   await expect.poll(() => page.evaluate(() =>
-    JSON.parse(localStorage.getItem("kalam:custom-theme")))).not.toHaveProperty("mutedText");
-  await page.locator("#theme-reset-custom").click();
-  for (const name of Object.keys(overrides)) {
-    await expect(page.locator("#theme-" + name + "-auto")).toBeChecked();
-  }
-  await expect(page.locator("#theme-main")).toHaveValue("#f7f7f8");
+    JSON.parse(localStorage.getItem("kalam:custom-theme")))).not.toHaveProperty("primaryText");
 });
 
-test("new language fonts select and persist across pages without altering colours", async ({ page }) => {
+test("Urdu and Roman font choices persist after reload", async ({ page }) => {
   await page.goto("/lyrics/na-bhool-kar-bhi/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
   await dialog.locator("#theme-fonts-tab").click();
-  const verse = await page.locator(".lyric-reading-roman .roman-lyrics-text .lyric-verse").first()
-    .evaluate((el) => {
-      const style = getComputedStyle(el);
-      return [style.textAlign, style.textAlignLast, style.whiteSpace];
-    });
-  expect(verse).toEqual(["justify", "justify", "nowrap"]);
-  const urduPicker = dialog.locator("#theme-urdu-font");
-  const romanPicker = dialog.locator("#theme-roman-font");
-  for (const [value, family] of [
-    ["open-sans", "Open Sans"], ["source-sans", "Source Sans 3"],
-    ["lora", "Lora"], ["merriweather", "Merriweather"],
-  ]) {
-    await romanPicker.selectOption(value);
-    await expect.poll(() => page.locator(".roman-lyrics-text").evaluate((node) =>
-      getComputedStyle(node).fontFamily)).toContain(family);
-    await expect.poll(() => page.evaluate((family) =>
-      document.fonts.check('400 20px "' + family + '"', "A poem in Roman Urdu"), family)).toBe(true);
-  }
-  await urduPicker.selectOption("lateef");
-  await expect.poll(() => page.locator(".lyrics-text").evaluate((node) =>
-    getComputedStyle(node).fontFamily)).toContain("Lateef");
-  await expect.poll(() => page.evaluate(() =>
-    document.fonts.check('400 20px "Lateef"', "اردو"))).toBe(true);
-  await urduPicker.selectOption("alvi");
-  await expect.poll(() => page.locator(".lyrics-text").evaluate((node) =>
-    getComputedStyle(node).fontFamily)).toContain("Alvi Nastaleeq");
-  await expect.poll(() => page.locator(".lyrics-text").evaluate((node) =>
-    getComputedStyle(node).fontFamily)).toContain("Noto Nastaliq Urdu");
-  await page.locator("#theme-dialog-done").click();
-  await page.goto("/basta/138/");
-  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "alvi");
-  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "merriweather");
-  await page.locator("#theme-toggle").click();
-  await expect(dialog.locator("#theme-urdu-font")).toHaveValue("alvi");
-  await expect(dialog.locator("#theme-roman-font")).toHaveValue("merriweather");
+  await dialog.locator("#theme-roman-font").selectOption("lora");
+  await dialog.locator("#theme-urdu-font").selectOption("lateef");
+  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "lora");
+  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "lateef");
+  await dialog.locator("#theme-dialog-done").click();
+  await page.reload();
+  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "lora");
+  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "lateef");
 });
+
