@@ -49,7 +49,8 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-view-control { flex-basis: 100%; }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-focus-fullscreen:not([hidden]) {
-  display: block; order: 3; pointer-events: auto;
+  /* Align with the select itself, not the combined label-and-select group. */
+  display: block; order: 3; align-self: flex-end; pointer-events: auto;
 }
 html[data-reading-focus="true"] .reading-controls select { width: 100%; }
 
