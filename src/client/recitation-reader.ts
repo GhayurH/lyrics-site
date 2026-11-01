@@ -61,8 +61,8 @@ async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Poem> {
   try { return await poemCache.get(key)!; }
   catch (e) { poemCache.delete(key); throw e; }
 }
-function addBastaText(host: HTMLElement, text: string) {
-  host.append(renderBastaTextBlock(text));
+function addBastaText(host: HTMLElement, text: string, prefaceOnly = false) {
+  host.append(renderBastaTextBlock(text, true, "auto", prefaceOnly));
 }
 function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerseLayout?: "pairs") {
   const block = node("div", "lyric-reading-text " + (isRoman ? "roman-lyrics-text" : "lyrics-text"));
@@ -97,7 +97,7 @@ function originalBastaEdition(parent: HTMLElement, kalam: BastaKalam, language: 
     return;
   }
   const opening = language === "urdu" ? kalam.preface : preface(source);
-  if (opening) addBastaText(parent, opening);
+  if (opening) addBastaText(parent, opening, true);
   for (const stanza of kalam.stanzas) {
     addBastaText(parent, stanza.printedNumber + "\n" +
       (language === "urdu" ? stanza.urdu : stanza.roman!));
@@ -122,9 +122,9 @@ function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, la
   const original = poem.basta!;
   const references = item.stanzaSequence || [];
   if (language === "urdu") {
-    if (original.preface) addBastaText(parent, original.preface);
+    if (original.preface) addBastaText(parent, original.preface, true);
   } else if (preface(original.roman || "")) {
-    addBastaText(parent, preface(original.roman || ""));
+    addBastaText(parent, preface(original.roman || ""), true);
   }
   for (const ref of references) {
     const source = sources.get(ref.kalamId)?.basta;
