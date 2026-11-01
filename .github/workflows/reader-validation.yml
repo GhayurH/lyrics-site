@@ -76,13 +76,18 @@ jobs:
         run: npm run perf:assets
       - name: Generate source review queue (Basta and standalone)
         if: steps.test_mode.outputs.full == 'true'
-        run: npm run --silent content:review -- --markdown > content-review.md
+        run: |
+          npm run --silent content:review -- --markdown > content-review.md
+          npm run --silent content:review -- --csv > content-review.csv
+          grep '^Audited ' content-review.md
       - name: Save editorial review queue
         if: steps.test_mode.outputs.full == 'true'
         uses: actions/upload-artifact@v6
         with:
           name: content-review
-          path: content-review.md
+          path: |
+            content-review.md
+            content-review.csv
           retention-days: 14
       - name: Verify deployment asset redirects
         run: |
