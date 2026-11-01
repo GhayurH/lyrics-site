@@ -32,7 +32,7 @@ test("mobile header occupies one line with accessible menu and icon theme toggle
 });
 
 
-test("paired lyric actions and reader controls have matching accessible heights @smoke", async ({ page }) => {
+test("paired lyric actions and reader controls have matching accessible heights", async ({ page }) => {
   for (const { width, height } of [{ width: 320, height: 760 }, { width: 390, height: 844 }, { width: 844, height: 390 }, { width: 1024, height: 768 }]) {
     await page.setViewportSize({ width, height });
     await page.goto("/lyrics/aa-asghar-bin-tere/");
@@ -70,7 +70,7 @@ test("paired lyric actions and reader controls have matching accessible heights 
   }
 });
 
-test("selected Image Urdu Roman cells are entirely filled in every applicable reader @smoke", async ({ page }) => {
+test("selected Image Urdu Roman cells are entirely filled in every applicable reader", async ({ page }) => {
   for (const route of [
     "/lyrics/aa-asghar-bin-tere/",
     "/basta/200/",
@@ -137,27 +137,26 @@ test("Basta page-by-page fills the full width of each stacked edition in mobile 
     expect(Math.abs(u.y - r.y)).toBeGreaterThan(30);
     expect(await columns.evaluate(el => getComputedStyle(el).gridTemplateColumns.split(" ").length)).toBe(1);
   }
+  // The scan must not shrink the stacked text panels either.
+  await page.setViewportSize({ width: 342, height: 844 });
+  await page.goto("/basta/200/");
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="image"]').check();
+  const scanRoot = page.locator(".basta-page-grid");
+  const [original, text, panel] = await Promise.all([
+    scanRoot.locator(".basta-original-page").boundingBox(),
+    scanRoot.locator(".basta-parallel-kalams-page").boundingBox(),
+    scanRoot.boundingBox(),
+  ]);
+  expect(original.width / panel.width).toBeGreaterThan(.9);
+  expect(text.width / panel.width).toBeGreaterThan(.9);
+  expect(text.y).toBeGreaterThan(original.y);
+
   await page.setViewportSize({ width: 844, height: 390 });
   await page.goto("/basta/200/");
   const u = await page.locator(".basta-page-urdu").boundingBox();
   const r = await page.locator(".basta-page-roman").boundingBox();
   expect(Math.abs(u.y - r.y)).toBeLessThan(25);
-});
-
-test("Basta mobile portrait remains full width if the scan is also selected", async ({ page }) => {
-  await page.setViewportSize({ width: 342, height: 844 });
-  await page.goto("/basta/200/");
-  await page.locator("[data-reading-regular-toggle]").click();
-  await page.locator('[data-reading-column][value="image"]').check();
-  const root = page.locator(".basta-page-grid");
-  const [original, text, panel] = await Promise.all([
-    root.locator(".basta-original-page").boundingBox(),
-    root.locator(".basta-parallel-kalams-page").boundingBox(),
-    root.boundingBox(),
-  ]);
-  expect(original.width / panel.width).toBeGreaterThan(.9);
-  expect(text.width / panel.width).toBeGreaterThan(.9);
-  expect(text.y).toBeGreaterThan(original.y);
 });
 
 test("mobile readers start with an uncluttered Urdu view while desktop Basta starts with source plus Urdu @smoke", async ({ page }) => {

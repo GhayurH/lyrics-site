@@ -38,8 +38,10 @@ export interface BastaDisplayLine {
   reverseIndent?: boolean;
   /** Verse status is retained separately from title-fitting. */
   verse: boolean;
-  /** Actual poem titles also use single-line justification/fitting. */
+  /** Actual poem titles remain on one line and participate in width fitting. */
   title?: boolean;
+  /** A poet's byline immediately following a verified opening title. */
+  poet?: boolean;
   /** A rule starts each couplet after the first in a two-verse poem. */
   coupletSeparator?: boolean;
   /** Closing couplet rules are shared with a final reprise when present. */
@@ -75,6 +77,7 @@ export function layoutBastaKalam(
   text: string,
   indentStanzas = true,
   style: BastaStanzaStyle = "auto",
+  prefaceOnly = false,
 ): BastaDisplayLine[] {
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
   const display = lines.map((line) => {
@@ -126,7 +129,7 @@ export function layoutBastaKalam(
     );
   const usesCouplets = style === "couplet" || inferredCouplets;
 
-  // Justify the poem's opening title, not the section heading or poet's
+  // Identify the poem's opening title, not the section heading or poet's
   // name. The title normally repeats as the first line of the verse block.
   for (const index of prefaceBlocks) {
     const block = blocks[index];
@@ -141,6 +144,25 @@ export function layoutBastaKalam(
         /^(?:بین|Bain)$/iu.test(heading));
     if ((matchesFirstVerse || isStandAloneHeading) && !isCreditLine(heading)) {
       display[block.start].title = true;
+      // Only the adjacent second line of a verified two-line preface is a
+      // byline; standalone headings, credits, and verses are untouched.
+      if (block.end - block.start === 2 && !isCreditLine(lines[block.start + 1])) {
+        display[block.start + 1].poet = true;
+      }
+    }
+  }
+
+  // Numbered Recitation Sets render the canonical preface separately from
+  // its stanzas. The final two-line preface block is the known title/byline;
+  // unlike a full source page it has no following verse for title detection.
+  if (prefaceOnly) {
+    const byline = blocks.at(-1);
+    if (byline && byline.end - byline.start === 2 &&
+        !isStanzaNumber(lines[byline.start]) &&
+        !isCreditLine(lines[byline.start]) &&
+        !isCreditLine(lines[byline.start + 1])) {
+      display[byline.start].title = true;
+      display[byline.start + 1].poet = true;
     }
   }
 
@@ -261,6 +283,8 @@ export function bastaVerseClassNames(line: BastaDisplayLine): string {
     line.reverseIndent && "basta-verse-reverse-indent",
     (line.verse || line.title) && "basta-verse-poetry",
     line.title && "basta-kalam-title",
+    line.title && "kalam-reading-title",
+    line.poet && "kalam-poet-credit",
     line.coupletSeparator && "basta-couplet-separator",
     line.sixClosingStart && "basta-six-closing-start",
     line.sixClosingEnd && "basta-six-closing-end",

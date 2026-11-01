@@ -33,6 +33,22 @@
   --reading-roman-leading-compact: 1.65;
   --reading-urdu-leading-relaxed: 3.2;
   --reading-roman-leading-relaxed: 2.35;
+  /* Standalone/recitation poetry has slightly tighter default Urdu leading. */
+  --reading-lyric-urdu-leading: 2.7;
+  --reading-lyric-urdu-leading-relaxed: 3.15;
+  /* Basta index rows are denser than verses, regardless of language. */
+  --reading-index-urdu-leading: 2.1;
+  --reading-index-roman-leading: 1.6;
+  --reading-index-urdu-leading-compact: 1.7;
+  --reading-index-roman-leading-compact: 1.35;
+  --reading-index-urdu-leading-relaxed: 2.5;
+  --reading-index-roman-leading-relaxed: 1.9;
+  /* Active variants are inherited by all editions inside a reading root. */
+  --reading-active-urdu-leading: var(--reading-urdu-leading);
+  --reading-active-roman-leading: var(--reading-roman-leading);
+  --reading-active-lyric-urdu-leading: var(--reading-lyric-urdu-leading);
+  --reading-active-index-urdu-leading: var(--reading-index-urdu-leading);
+  --reading-active-index-roman-leading: var(--reading-index-roman-leading);
 
   /* Used until JavaScript measures the actual sticky header height. */
   --site-header-fallback-height: 4.8rem;
@@ -43,12 +59,13 @@
   --ui-radius-tight: .55rem;
   --ui-radius-card: .75rem;
   --ui-panel-radius: .8rem;
-  --ui-field-padding: .6rem .75rem;
   --focus-ring: 2px solid currentColor;
   /* One theme-aware hairline shared by controls, cards, and reader dividers. */
   --ui-border: 1px solid var(--border-colour);
   /* All theme buttons use the theme's accent, including Custom. */
   --button-background: var(--accent-color);
+  /* Kalam titles are distinct from body text without introducing a second palette. */
+  --reading-title-color: color-mix(in srgb, var(--accent-color) 40%, var(--secondary-text) 60%);
 
   /* Named preset surfaces also drive Appearance swatches. */
   --preset-light-main: #f7f7f8;

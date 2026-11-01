@@ -19,7 +19,7 @@ test("shared colours and dimensions are defined only by the token file", () => {
   for (const name of ["content-wide", "content-reading", "reading-single-width",
     "reading-scan-width", "reading-urdu-size", "reading-roman-size", "ui-target",
     "ui-radius", "ui-control-font-size", "ui-control-padding",
-    "surface-background", "primary-text", "border-colour"]) {
+    "surface-background", "primary-text", "border-colour", "reading-title-color"]) {
     assert.match(tokens, new RegExp("--" + name + ":"));
     for (const [file, source] of Object.entries(css)) {
       if (file !== "tokens.css") {
@@ -79,15 +79,22 @@ test("all referenced shared reading tokens resolve, including spacing presets", 
       assert(declared.has(variable), file + " references undefined " + variable);
     }
   }
-  for (const [file, prefix] of [["basta.css", "basta-page"], ["basta-reader.css", "basta"]]) {
-    for (const mode of ["compact", "relaxed"]) {
-      for (const language of ["urdu", "roman"]) {
-        assert.match(css[file], new RegExp("--" + prefix + "-" + language
-          + "-leading: var\\(--reading-" + language + "-leading-" + mode + "\\)"),
-          file + " must preserve the " + mode + " " + language + " line spacing");
-      }
+  const policy = css["reading-columns.css"];
+  for (const mode of ["compact", "relaxed"]) {
+    assert.match(policy, new RegExp('\\[data-reading-root\\]\\[data-line-spacing="' + mode + '"\\]'),
+      mode + " spacing must be defined once in the shared policy");
+    for (const name of ["urdu", "roman", "lyric-urdu", "index-urdu", "index-roman"]) {
+      assert.match(policy, new RegExp("--reading-active-" + name + "-leading:"),
+        "missing active spacing for " + name);
     }
   }
+  for (const file of ["lyrics.css", "basta.css", "basta-reader.css", "recitation.css"]) {
+    assert.doesNotMatch(css[file], /\[data-line-spacing="(?:compact|relaxed)"\]/,
+      file + " must not duplicate the shared reading spacing selectors");
+  }
+  assert.match(css["core.css"], /:is\(\.lyric-verse, \.basta-verse-line\.basta-verse-poetry\)/);
+  assert.doesNotMatch(css["basta.css"], /\.basta-verse-poetry\s*\{/);
+  assert.doesNotMatch(css["lyrics.css"], /\.lyric-verse\s*\{/);
 });
 
 test("feature-page widths and shared component radii come from semantic tokens", () => {
@@ -152,4 +159,24 @@ test("Auto shares Light defaults and reuses Dark semantic palette tokens", () =>
     const value = (block) => block.match(new RegExp("--" + role + ":\\s*([^;]+);"))?.[1].trim();
     assert.equal(value(autoDark), value(dark), "Auto/Dark drift in " + role);
   }
+});
+
+test("shared reader renderers own title, stanza and Basta DOM behavior", () => {
+  const parser = readFileSync("src/lib/basta-text.ts", "utf8");
+  const browserBasta = readFileSync("src/client/basta-dom.ts", "utf8");
+  const stream = readFileSync("src/client/basta-stream.ts", "utf8");
+  const recitation = readFileSync("src/client/recitation-reader.ts", "utf8");
+  const lyricComponent = readFileSync("src/components/LyricVerses.astro", "utf8");
+  const lyricModel = readFileSync("src/lib/lyric-stanzas.ts", "utf8");
+
+  assert.match(parser, /kalam-poet-credit/);
+  assert.match(css["core.css"], /\.kalam-poet-credit\s*\{/);
+  for (const source of [stream, recitation]) assert.match(source, /renderBastaTextBlock/);
+  assert.match(browserBasta, /bastaVerseClassNames\(line\)/);
+  for (const source of [lyricComponent, recitation]) {
+    assert.match(source, /lyricStanzaClassNames/);
+    assert.match(source, /lyricLineClassName/);
+  }
+  assert.match(lyricModel, /export function lyricStanzaClassNames/);
+  assert.match(tokens, /--reading-title-color:\s*color-mix\(in srgb, var\(--accent-color\)/);
 });

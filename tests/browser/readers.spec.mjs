@@ -14,22 +14,27 @@ test("all reader types expose text before JavaScript initializes @smoke", async 
   await context.close();
 });
 
-test("two text editions are stacked in portrait and parallel in landscape", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/basta/138/");
-  const urdu = page.locator(".basta-page-urdu");
-  const roman = page.locator(".basta-page-roman");
-  await page.locator("[data-reading-regular-toggle]").click();
-  await page.locator('[data-reading-column][value="roman"]').check();
-  await expect(urdu).toBeVisible();
-  await expect(roman).toBeVisible();
-  let u = await urdu.boundingBox(), r = await roman.boundingBox();
-  expect(Math.abs(u.y - r.y)).toBeGreaterThan(25);
-  await page.setViewportSize({ width: 840, height: 390 });
-  await expect.poll(async () => {
-    const left = await urdu.boundingBox(), right = await roman.boundingBox();
-    return Math.abs(left.y - right.y);
-  }).toBeLessThan(25);
+test("Urdu and Roman editions stack in portrait and align in landscape", async ({ page }) => {
+  for (const [url, uSelector, rSelector] of [
+    ["/basta/138/", ".basta-page-urdu", ".basta-page-roman"],
+    ["/lyrics/aa-asghar-bin-tere/", ".lyric-reading-urdu", ".lyric-reading-roman"],
+  ]) {
+    await page.setViewportSize({ width: 390, height: 844 });
+    await page.goto(url);
+    const urdu = page.locator(uSelector);
+    const roman = page.locator(rSelector);
+    await page.locator("[data-reading-regular-toggle]").click();
+    await page.locator('[data-reading-column][value="roman"]').check();
+    await expect(urdu).toBeVisible();
+    await expect(roman).toBeVisible();
+    const [u, r] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
+    expect(Math.abs(u.y - r.y)).toBeGreaterThan(25);
+    await page.setViewportSize({ width: 844, height: 390 });
+    await expect.poll(async () => {
+      const [left, right] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
+      return Math.abs(left.y - right.y);
+    }).toBeLessThan(25);
+  }
 });
 
 test("edition preferences, Focus mode, and image enlargement work together", async ({ page }) => {
@@ -47,6 +52,93 @@ test("edition preferences, Focus mode, and image enlargement work together", asy
   await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
   await page.getByRole("button", { name: /Exit reading mode/ }).click();
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
+});
+
+test("mobile single-edition Focus starts with stanza one via link and button @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  const lyricUrl = "/lyrics/na-bhool-kar-bhi/";
+
+  const expectFirstStanza = async (edition) => {
+    const root = page.locator("[data-reading-root]");
+    await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
+    await expect(root).toHaveAttribute("data-reading-mode", edition);
+    await expect(root).toHaveCSS("justify-content", "flex-start");
+    await expect.poll(() => root.evaluate((element, selected) => {
+      const stanza = element.querySelector(`.lyric-reading-${selected} .lyric-stanza`);
+      if (!stanza) return false;
+      const viewport = element.getBoundingClientRect();
+      const first = stanza.getBoundingClientRect();
+      return first.top >= viewport.top && first.top < viewport.bottom;
+    }, edition)).toBe(true);
+  };
+
+  for (const edition of ["urdu", "roman"]) {
+    await page.goto(lyricUrl);
+    await page.locator("[data-reading-regular-toggle]").click();
+    await page.locator(`[data-reading-column][value="${edition}"]`).check();
+    const other = edition === "urdu" ? "roman" : "urdu";
+    await page.locator(`[data-reading-column][value="${other}"]`).uncheck();
+
+    // A shared immersive URL must open at the first stanza even with the
+    // selected edition saved from an earlier visit.
+    await page.goto(lyricUrl + "?reading=1");
+    await expectFirstStanza(edition);
+
+    // Entering via the regular reader must follow the same layout rules.
+    await page.goto(lyricUrl);
+    await page.locator("[data-reading-focus-enter]").click();
+    await expectFirstStanza(edition);
+  }
+});
+
+test("Urdu and Roman kalam titles are centered and theme-aware in every reading layout", async ({ page }) => {
+  const assertTitle = async (selector) => {
+    const title = page.locator(selector).first();
+    await expect(title).toBeVisible();
+    await expect(title).toHaveCSS("text-align", "center");
+    await expect(title).toHaveCSS("text-align-last", "center");
+    await expect(title).toHaveCSS("text-decoration-line", "underline");
+    const values = await title.evaluate((node) => ({
+      title: getComputedStyle(node).color,
+      body: getComputedStyle(document.body).color,
+    }));
+    expect(values.title).not.toBe(values.body);
+    return values.title;
+  };
+
+  for (const viewport of [{ width: 390, height: 844 }, { width: 1280, height: 820 }]) {
+    await page.setViewportSize(viewport);
+    await page.goto("/basta/138/");
+    await assertTitle(".basta-page-urdu .basta-kalam-title");
+    const credit = page.locator(".basta-page-urdu .kalam-poet-credit").first();
+    await expect(credit).toBeVisible();
+    await expect(credit).toHaveCSS("text-align", "center");
+    await expect(credit).toHaveCSS("text-decoration-line", "none");
+    const toggle = page.locator("[data-reading-regular-toggle]");
+    if (await toggle.isVisible()) await toggle.click();
+    await page.locator('[data-reading-column][value="roman"]').check();
+    await assertTitle(".basta-page-roman .basta-kalam-title");
+  }
+
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/lyrics/na-bhool-kar-bhi/");
+  await assertTitle(".lyric-header h1.kalam-reading-title");
+  await page.locator("[data-reading-focus-enter]").click();
+  const urduTitle = ".lyric-reading-urdu .lyric-focus-title";
+  await assertTitle(urduTitle);
+  await page.locator("[data-reading-focus-options]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
+  await page.locator('[data-reading-column][value="urdu"]').uncheck();
+  const romanTitle = ".lyric-reading-roman .lyric-focus-title";
+  const original = await assertTitle(romanTitle);
+
+  // The title derives its color from each current palette, rather than
+  // persisting a fixed hue when readers change between themes.
+  await page.evaluate(() => { document.documentElement.dataset.theme = "sepia"; });
+  const sepia = await assertTitle(romanTitle);
+  await page.evaluate(() => { document.documentElement.dataset.theme = "dark"; });
+  const dark = await assertTitle(romanTitle);
+  expect(new Set([original, sepia, dark]).size).toBe(3);
 });
 
 test("continuous reader deep links load streamed content and preserve the current page @smoke", async ({ page }) => {
@@ -108,42 +200,61 @@ test("every visible poetry verse stays on one line and within its column at mobi
 });
 test("all three couplet dividers share equal verse-six clearance in both scripts", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 820 });
-  await page.goto("/lyrics/karbala-karbala-karbala/");
-  for (const spacing of ["compact", "default", "relaxed"]) {
-    await page.locator("[data-reading-line-spacing]").selectOption(spacing);
-    const results = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
-      panels.map((panel) => {
-        const stanza = panel.querySelector(".lyric-stanza-pairs");
-        const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
-        const next = stanza.nextElementSibling;
-        return {
-          verseCount: verses.length,
-          rules: [verses[1], verses[3], verses[5]].map((line) => {
-            const style = getComputedStyle(line);
-            return {
-              border: Number.parseFloat(style.borderBottomWidth),
-              paddingInLines: Number.parseFloat(style.paddingBottom) /
-                Number.parseFloat(style.lineHeight),
-            };
-          }),
-          nextBorder: Number.parseFloat(getComputedStyle(next).borderTopWidth),
-          nextFollowsRule: next.getBoundingClientRect().top >=
-            verses[5].getBoundingClientRect().bottom,
-          nowrap: verses.every((line) => getComputedStyle(line).whiteSpace === "nowrap"),
-        };
-      }));
-    expect(results).toHaveLength(2);
-    for (const panel of results) {
-      expect(panel.verseCount).toBe(6);
-      expect(panel.nowrap).toBe(true);
-      expect(panel.nextBorder).toBe(0);
-      expect(panel.nextFollowsRule).toBe(true);
-      for (const rule of panel.rules) {
-        expect(rule.border).toBeGreaterThan(0);
-        expect(rule.paddingInLines).toBeGreaterThan(0.24);
+  for (const url of ["/lyrics/karbala-karbala-karbala/", "/lyrics/chhane-lagi-shaam-e-ghareeban/"]) {
+    await page.goto(url);
+    for (const spacing of ["compact", "default", "relaxed"]) {
+      await page.locator("[data-reading-line-spacing]").selectOption(spacing);
+      const results = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
+        panels.map((panel) => {
+          const stanza = panel.querySelector(".lyric-stanza-pairs");
+          const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
+          const next = stanza.nextElementSibling;
+          return {
+            verseCount: verses.length,
+            rules: [verses[1], verses[3], verses[5]].map((line) => {
+              const style = getComputedStyle(line);
+              return {
+                border: Number.parseFloat(style.borderBottomWidth),
+                paddingInLines: Number.parseFloat(style.paddingBottom) /
+                  Number.parseFloat(style.lineHeight),
+              };
+            }),
+            nextBorder: Number.parseFloat(getComputedStyle(next).borderTopWidth),
+            nextFollowsRule: next.getBoundingClientRect().top >=
+              verses[5].getBoundingClientRect().bottom,
+            nowrap: verses.every((line) => getComputedStyle(line).whiteSpace === "nowrap"),
+          };
+        }));
+      expect(results).toHaveLength(2);
+      for (const panel of results) {
+        expect(panel.verseCount).toBe(6);
+        expect(panel.nowrap).toBe(true);
+        expect(panel.nextBorder).toBe(0);
+        expect(panel.nextFollowsRule).toBe(true);
+        for (const rule of panel.rules) {
+          expect(rule.border).toBeGreaterThan(0);
+          expect(rule.paddingInLines).toBeGreaterThan(0.24);
+        }
+        expect(Math.max(...panel.rules.map((r) => r.paddingInLines)) -
+          Math.min(...panel.rules.map((r) => r.paddingInLines))).toBeLessThan(0.01);
       }
-      expect(Math.max(...panel.rules.map((r) => r.paddingInLines)) -
-        Math.min(...panel.rules.map((r) => r.paddingInLines))).toBeLessThan(0.01);
+    }
+    if (url.includes("chhane-lagi")) {
+      const paired = await page.locator(".lyric-reading-panel").evaluateAll((panels) =>
+        panels.map((panel) => {
+          const stanzas = Array.from(panel.querySelectorAll(".lyric-stanza-pairs"));
+          const comma = panel.matches(".lyric-reading-urdu") ? "،" : ",";
+          return { stanzaCount: stanzas.length, correctlySplit: stanzas.every((stanza) => {
+            const verses = Array.from(stanza.querySelectorAll(".lyric-verse"));
+            return verses.length === 6 && [0, 2, 4].every((i) =>
+              verses[i].textContent.trim().endsWith(comma));
+          }) };
+        }));
+      expect(paired).toHaveLength(2);
+      for (const panel of paired) {
+        expect(panel.stanzaCount).toBe(8);
+        expect(panel.correctlySplit).toBe(true);
+      }
     }
   }
 });
@@ -191,7 +302,7 @@ test("all text-edition combinations remain readable across themes and responsive
   await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });
 
-test("rotation and Focus exit retain an actual continuous page rather than the book top @smoke", async ({ page }) => {
+test("rotation and Focus exit retain an actual continuous page rather than the book top", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138");
   const target = page.locator('[data-basta-page="138"]');
@@ -254,19 +365,17 @@ test("parallel Basta keeps the shorter Roman edition fully visible and scrolls o
   await urdu.evaluate((node) => { node.scrollTop = (node.scrollHeight - node.clientHeight) * 0.65; });
   await expect.poll(() => urdu.evaluate((node) => node.scrollTop)).toBeGreaterThan(0);
   expect(await roman.evaluate((node) => node.scrollTop)).toBe(0);
-});
-
-test("non-Basta lyrics also keep the shorter parallel edition fully visible", async ({ page }) => {
-  await page.setViewportSize({ width: 1440, height: 900 });
+  // Standalone lyrics use the same short-column policy.
   await page.goto("/lyrics/aa-asghar-bin-tere/");
-  const urdu = page.locator(".lyric-reading-urdu");
-  const roman = page.locator(".lyric-reading-roman");
-  await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
-  await expect(roman).not.toHaveAttribute("data-synced-scrollable", "true");
-  expect(await roman.evaluate((node) => node.scrollHeight - node.clientHeight)).toBeLessThan(3);
+  const lyricUrdu = page.locator(".lyric-reading-urdu");
+  const lyricRoman = page.locator(".lyric-reading-roman");
+  await expect(lyricUrdu).toHaveAttribute("data-synced-scrollable", "true");
+  await expect(lyricRoman).not.toHaveAttribute("data-synced-scrollable", "true");
+  expect(await lyricRoman.evaluate(node => node.scrollHeight - node.clientHeight)).toBeLessThan(3);
+
 });
 
-test("stacked and single-column editions use only document scrolling @smoke", async ({ page }) => {
+test("stacked and single-column editions use only document scrolling", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/138/");
   const roman = page.locator(".basta-page-roman");
@@ -342,25 +451,6 @@ test("source link is visibly separated from the category back link", async ({ pa
   expect(source.x - (back.x + back.width)).toBeGreaterThan(8);
 });
 
-test("standalone lyrics use stacked columns on narrow screens and parallel columns when wide enough", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/lyrics/aa-asghar-bin-tere/");
-  await page.locator("[data-reading-regular-toggle]").click();
-  await page.locator('[data-reading-column][value="roman"]').check();
-  const urdu = page.locator(".lyric-reading-urdu");
-  const roman = page.locator(".lyric-reading-roman");
-  await expect(urdu).toBeVisible();
-  await expect(roman).toBeVisible();
-  const narrow = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
-  expect(Math.abs(narrow[0].y - narrow[1].y)).toBeGreaterThan(25);
-
-  await page.setViewportSize({ width: 844, height: 390 });
-  await expect.poll(async () => {
-    const [left, right] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
-    return Math.abs(left.y - right.y);
-  }).toBeLessThan(25);
-});
-
 test("continuous Basta editions respond to available width, including landscape", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
@@ -428,21 +518,19 @@ test("parallel scans float below the reader toolbar, but stacked scans stay in f
   await page.setViewportSize({ width: 390, height: 844 });
   await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("false");
   await expect(scan).not.toHaveCSS("position", "sticky");
-});
-
-test("standalone scans share the same floating-column policy", async ({ page }) => {
+  // The standalone scan uses the same floating policy on wider screens.
   await page.emulateMedia({ colorScheme: "dark" });
   await page.setViewportSize({ width: 1480, height: 900 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const option = page.locator('[data-reading-column][value="image"]');
   if (await option.count()) {
     await option.check();
-    const scan = page.locator(".lyric-reading-image");
-    await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+    const lyricScan = page.locator(".lyric-reading-image");
+    await expect.poll(() => lyricScan.getAttribute("data-floating-scan")).toBe("true");
     await expect(page.locator(".lyric-reading-grid")).toHaveCSS("background-color", "rgb(23, 23, 25)");
-    // Clipping must not create a nested scrollport that traps the sticky scan.
     await expect(page.locator(".lyric-reading-grid")).toHaveCSS("overflow-x", "clip");
   }
+
 });
 
 test("a floating scan is never selected for text-column scrolling", async ({ page }) => {
@@ -454,7 +542,7 @@ test("a floating scan is never selected for text-column scrolling", async ({ pag
   await expect(scan).not.toHaveAttribute("data-synced-scrollable", "true");
 });
 
-test("image viewer centres narrow scans and pans horizontally and vertically when zoomed @smoke", async ({ page }) => {
+test("image viewer centres narrow scans and pans horizontally and vertically when zoomed", async ({ page }) => {
   await page.setViewportSize({ width: 900, height: 720 });
   // Mock the external R2 scan so geometry is deterministic in preview builds.
   await page.route("**/images/basta/original/138.png", (route) =>
