@@ -45,7 +45,7 @@ npm run test:smoke      # Critical Chromium reading/search/save/recitation journ
 npm run test:browser    # Full Chromium suite (UI, themes, export, edge cases)
 ```
 
-Install Chromium once with `npx playwright install chromium`. Use the **full** suite for reader layout, theme, routing, export, and major workflow changes. Keep one test per distinct behavior; extend tests rather than copying variants. `@smoke` is reserved for critical journeys and defaults; appearance permutations, fine geometry, optional features, and negative cases belong in full-only tests. Prefer behavior/geometry assertions over screenshots.
+Install Chromium once with `npx playwright install chromium`. Use the **full** suite for reader layout, theme, routing, export, and major workflow changes. Keep one test per distinct behavior; extend tests rather than copying variants. `@smoke` is reserved for critical journeys and defaults; appearance permutations, fine geometry, optional features, and negative cases belong in full-only tests. Prefer behavior/geometry assertions over screenshot comparisons; Playwright saves screenshots and traces on failures for inspection.
 
 **GitHub Actions:** All PR/main commits build and check IDs/assets. Add `[smoke-ci]` to the last commit message for the smoke browser suite; `[full-ci]` runs the complete Chromium suite and Basta boundary audit. `main` runs smoke and the audit automatically. Ordinary PR commits skip browsers unless marked.
 

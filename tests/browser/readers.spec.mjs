@@ -917,6 +917,8 @@ test("Basta page Focus resume restores its own scroll offset from the URL", asyn
     const saved = JSON.parse(localStorage.getItem("kalam:basta-position") || "{}");
     return saved.mode === "page" && saved.page === 200 ? saved.offset : 0;
   })).toBeGreaterThan(0.5);
+  await expect.poll(() => page.evaluate(() => new URL(location.href)
+    .searchParams.has("resume"))).toBe(false);
 });
 
 test("Escape dismisses Focus Options before exiting the reader", async ({ page }) => {

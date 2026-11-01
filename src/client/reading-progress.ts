@@ -50,8 +50,21 @@ export function initReadingProgress(): void {
         if (focus) root.scrollTo({ top: resume * scrollable, behavior: "instant" });
         else window.scrollTo({ top: resume * scrollable, behavior: "instant" });
       };
-      requestAnimationFrame(() => requestAnimationFrame(restore));
-      window.addEventListener("load", restore, { once: true });
+      const finishRestore = () => {
+        restore();
+        // Resume is a one-time navigation hint, not a permanent canonical URL.
+        // Keeping it would snap a later refresh back to the old offset.
+        const url = new URL(location.href);
+        url.searchParams.delete("resume");
+        history.replaceState(history.state, "", url.pathname + url.search + url.hash);
+      };
+      if (document.readyState === "complete") {
+        requestAnimationFrame(() => requestAnimationFrame(finishRestore));
+      } else {
+        // Establish a usable position early, then settle after images finish.
+        requestAnimationFrame(() => requestAnimationFrame(restore));
+        window.addEventListener("load", finishRestore, { once: true });
+      }
     } else update();
     window.addEventListener("scroll", update, { passive: true });
     root.addEventListener("scroll", update, { passive: true });

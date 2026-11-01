@@ -61,3 +61,11 @@ jobs:
           else
             npm run test:smoke
           fi
+      - name: Save failing browser screenshots and traces
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reader-browser-failure
+          path: test-results/
+          if-no-files-found: ignore
+          retention-days: 7
