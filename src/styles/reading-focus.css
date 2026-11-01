@@ -64,9 +64,8 @@ html[data-reading-focus="true"] .lyric-version-heading {
   color: var(--primary-text); letter-spacing: 0; text-transform: none;
 }
 html[data-reading-focus="true"] .lyric-focus-title {
-  display: block; font-size: clamp(1.25rem,3vw,1.85rem); font-weight: 750;
-  line-height: 2; text-decoration: underline;
-  text-decoration-thickness: from-font; text-underline-offset: 0.16em;
+  display: block; font-size: clamp(1.25rem,3vw,1.85rem);
+  line-height: 2;
 }
 html[data-reading-focus="true"] .lyric-focus-title[dir="ltr"] { line-height: 1.6; }
 html[data-reading-focus="true"] .basta-page-grid[data-reading-root] { align-content: start; margin: 0; gap: 0.75rem; }
