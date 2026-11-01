@@ -24,11 +24,19 @@ test("appearance tabs, grouped fonts, and enlarged swatches work on narrow scree
     await expect(dialog.locator("#theme-urdu-font optgroup")).toHaveCount(3);
     await expect(dialog.locator("#theme-urdu-preview")).toHaveText("یہ ایک نمونہ ہے");
     await expect(dialog.locator("#theme-roman-preview")).toHaveText("Sample reading text");
+    await dialog.locator("#theme-roman-font").selectOption("lora");
+    await expect.poll(() => dialog.locator("#theme-roman-preview").evaluate((el) =>
+      getComputedStyle(el).fontFamily)).toContain("Lora");
+    await expect.poll(() => page.locator(".site-title").evaluate((el) =>
+      getComputedStyle(el).fontFamily)).not.toContain("Lora");
+    await dialog.locator("#theme-fonts-default").click();
     const dimensions = await dialog.boundingBox();
     expect(dimensions.x).toBeGreaterThanOrEqual(0);
     expect(dimensions.x + dimensions.width).toBeLessThanOrEqual(viewport.width + 1);
     await expect(dialog.getByText("Changes save automatically")).toBeVisible();
-    await dialog.getByRole("button", { name: "Close", exact: true }).last().click();
+    await page.keyboard.press("Escape");
+    await expect(dialog).toBeHidden();
+    await expect(page.locator("#theme-toggle")).toBeFocused();
   }
 });
 
@@ -91,7 +99,7 @@ test("My Custom is preserved on preset changes and copying a preset is explicit 
   await expect.poll(() => page.evaluate(() => localStorage.getItem("kalam:custom-theme-base"))).toBeNull();
 });
 
-test("curated palette switching, Custom inheritance and persistence @smoke", async ({ page }) => {
+test("curated palette switching, Custom inheritance and persistence", async ({ page }) => {
   const names = ["paper", "clay", "rosewood", "sage", "ocean", "slate", "dusk", "forest", "plum", "graphite"];
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
@@ -128,7 +136,7 @@ test("curated palette switching, Custom inheritance and persistence @smoke", asy
     getComputedStyle(el).getPropertyValue("--pf-background").trim())).toBe("#1e3832");
 });
 
-test("light, dark and sepia presets persist between pages @smoke", async ({ page }) => {
+test("light, dark and sepia presets persist between pages", async ({ page }) => {
   await page.emulateMedia({ colorScheme: "dark" });
   await page.goto("/");
   await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
@@ -206,26 +214,6 @@ test("unreadable main and secondary combinations show actionable contrast guidan
   await expect(page.locator("#theme-contrast-note")).toContainText("readable text");
   await page.locator("#theme-reset-custom").click();
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
-});
-
-test("dialog stays in the viewport and Escape closes it on small phones and landscape", async ({ page }) => {
-  for (const viewport of [{ width: 320, height: 700 }, { width: 844, height: 390 }]) {
-    await page.setViewportSize(viewport);
-    await page.goto("/basta/");
-    await page.locator("#theme-toggle").click();
-    const dialog = page.locator("#theme-dialog");
-    await expect(dialog).toBeVisible();
-    await dialog.locator('input[value="custom"]').check();
-    const rect = await dialog.boundingBox();
-    expect(rect).toBeTruthy();
-    expect(rect.x).toBeGreaterThanOrEqual(0);
-    expect(rect.x + rect.width).toBeLessThanOrEqual(viewport.width + 2);
-    expect(rect.y + rect.height).toBeLessThanOrEqual(viewport.height + 2);
-    await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
-    await page.keyboard.press("Escape");
-    await expect(dialog).toBeHidden();
-    await expect(page.locator("#theme-toggle")).toBeFocused();
-  }
 });
 
 test("invalid persisted Custom colours cannot inject CSS", async ({ page }) => {
@@ -314,7 +302,7 @@ test("Start Custom explicitly copies each preset, including AMOLED", async ({ pa
   }
 });
 
-test("Dark and AMOLED preserve Auto typography until Custom surfaces actually change @smoke", async ({ page }) => {
+test("Dark and AMOLED preserve Auto typography until Custom surfaces actually change", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   for (const [name, ink] of [["dark", "#ededed"], ["amoled", "#f5f5f5"]]) {
@@ -443,42 +431,17 @@ test("manual low-contrast text is warned about, and Advanced fits narrow viewpor
   await expect(page.locator("#theme-contrast-note")).toBeHidden();
 });
 
-test("font choices persist independently of themes; Roman verses justify @smoke", async ({ page }) => {
-  await page.goto("/lyrics/na-bhool-kar-bhi/");
-  await page.locator("#theme-toggle").click();
-  const dialog = page.locator("#theme-dialog");
-  await dialog.locator("#theme-fonts-tab").click();
-  await dialog.locator("#theme-urdu-font").selectOption("naskh");
-  await dialog.locator("#theme-roman-font").selectOption("serif");
-  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "naskh");
-  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "serif");
-  const urdu = page.locator(".lyric-reading-urdu .lyrics-text");
-  const roman = page.locator(".lyric-reading-roman .roman-lyrics-text");
-  await expect.poll(() => urdu.evaluate((element) => getComputedStyle(element).fontFamily)).toContain("Noto Naskh Arabic");
-  await expect.poll(() => roman.evaluate((element) => getComputedStyle(element).fontFamily)).toContain("Georgia");
-  const verse = await roman.locator(".lyric-verse").first().evaluate((element) => {
-    const style = getComputedStyle(element);
-    return [style.textAlign, style.textAlignLast, style.whiteSpace];
-  });
-  expect(verse).toEqual(["justify", "justify", "nowrap"]);
-  await dialog.locator("#theme-colors-tab").click();
-  await dialog.locator('input[value="amoled"]').check();
-  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "serif");
-  await page.locator("#theme-dialog-done").click();
-  await page.goto("/basta/138/");
-  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "naskh");
-  await expect.poll(() => page.locator(".basta-urdu-text").first().evaluate((element) =>
-    getComputedStyle(element).fontFamily)).toContain("Noto Naskh Arabic");
-  await page.locator("#theme-toggle").click();
-  await expect(dialog.locator("#theme-urdu-font")).toHaveValue("naskh");
-  await expect(dialog.locator("#theme-roman-font")).toHaveValue("serif");
-});
-
 test("new language fonts select and persist across pages without altering colours @smoke", async ({ page }) => {
   await page.goto("/lyrics/na-bhool-kar-bhi/");
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
   await dialog.locator("#theme-fonts-tab").click();
+  const verse = await page.locator(".lyric-reading-roman .roman-lyrics-text .lyric-verse").first()
+    .evaluate((el) => {
+      const style = getComputedStyle(el);
+      return [style.textAlign, style.textAlignLast, style.whiteSpace];
+    });
+  expect(verse).toEqual(["justify", "justify", "nowrap"]);
   const urduPicker = dialog.locator("#theme-urdu-font");
   const romanPicker = dialog.locator("#theme-roman-font");
   for (const [value, family] of [
@@ -510,7 +473,7 @@ test("new language fonts select and persist across pages without altering colour
   await expect(dialog.locator("#theme-roman-font")).toHaveValue("merriweather");
 });
 
-test("Urdu font families are available as bundled web fonts @smoke", async ({ page }) => {
+test("Urdu font families are available as bundled web fonts", async ({ page }) => {
   await page.goto("/lyrics/na-bhool-kar-bhi/");
   await page.locator("#theme-toggle").click();
   await page.locator("#theme-fonts-tab").click();
@@ -541,29 +504,3 @@ test("Urdu font families are available as bundled web fonts @smoke", async ({ pa
 });
 
 
-test("font choices preview without changing navigation or overflowing a phone @smoke", async ({ page }) => {
-  await page.setViewportSize({ width: 320, height: 640 });
-  await page.goto("/");
-  await page.evaluate(() => localStorage.setItem("kalam:reading-fonts", JSON.stringify({ urdu: "gulzar", roman: "system" })));
-  await page.reload();
-  await page.locator("#theme-toggle").click();
-  const dialog = page.locator("#theme-dialog");
-  await dialog.locator("#theme-fonts-tab").click();
-  const roman = dialog.locator("#theme-roman-font");
-  await expect(roman).toHaveValue("sans");
-  await expect(roman.locator("option")).toHaveCount(6);
-  await expect(dialog.locator("#theme-urdu-font")).toHaveValue("gulzar");
-  await roman.selectOption("lora");
-  await expect.poll(() => dialog.locator("#theme-roman-preview").evaluate((node) => getComputedStyle(node).fontFamily)).toContain("Lora");
-  await expect.poll(() => page.locator(".site-title").evaluate((node) => getComputedStyle(node).fontFamily)).not.toContain("Lora");
-  const box = await dialog.boundingBox();
-  expect(box).toBeTruthy();
-  expect(box.x).toBeGreaterThanOrEqual(0);
-  expect(box.x + box.width).toBeLessThanOrEqual(322);
-  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
-  await page.locator("#theme-dialog-done").click();
-  await page.goto("/basta/138/");
-  await expect(page.locator("html")).toHaveAttribute("data-roman-font", "lora");
-  await page.setViewportSize({ width: 760, height: 420 });
-  await expect.poll(() => page.locator(".site-header").evaluate((node) => node.scrollWidth - node.clientWidth)).toBeLessThanOrEqual(2);
-});

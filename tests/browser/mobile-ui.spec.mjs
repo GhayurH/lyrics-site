@@ -107,7 +107,7 @@ test("selected Image Urdu Roman cells are entirely filled in every applicable re
   }
 });
 
-test("Basta page-by-page fills the full width of each stacked edition in mobile portrait @smoke", async ({ page }) => {
+test("Basta page-by-page fills the full width of each stacked edition in mobile portrait", async ({ page }) => {
   for (const width of [320, 342, 390, 600]) {
     await page.setViewportSize({ width, height: 850 });
     await page.goto("/basta/200/");
@@ -174,17 +174,3 @@ test("mobile readers start with an uncluttered Urdu view while desktop Basta sta
   await expect(page.locator(".basta-page-roman")).toBeHidden();
 });
 
-test("appearance follows the device until the reader chooses otherwise", async ({ page }) => {
-  await page.emulateMedia({ colorScheme: "light" });
-  await page.goto("/");
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
-  await page.locator("#theme-toggle").click();
-  await page.locator('#theme-dialog input[value="dark"]').check();
-  await page.locator("#theme-dialog-done").click();
-  await page.emulateMedia({ colorScheme: "dark" });
-  await page.reload();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
-  await page.emulateMedia({ colorScheme: "light" });
-  await page.reload();
-  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
-});

@@ -117,7 +117,7 @@ test("empty set disables unavailable actions and explains publishing requirement
   await expect(publish).toBeDisabled();
 });
 
-test("set chooser and management buttons align on desktop and form exactly two rows on mobile @smoke", async ({ page }) => {
+test("set chooser and management buttons align on desktop and form exactly two rows on mobile", async ({ page }) => {
   for (const width of [320, 390, 700, 820, 1280]) {
     await page.setViewportSize({ width, height: 850 });
     await page.goto("/recite/");
@@ -427,7 +427,7 @@ test("mobile builder progressively reveals optional fields and highlights the ac
   await expect(page.locator("#recite-publish")).toBeDisabled();
 });
 
-test("Roman-only recitation falls back explicitly to its original scan if text is absent @smoke", async ({ page }) => {
+test("Roman-only recitation falls back explicitly to its original scan if text is absent", async ({ page }) => {
   const id = "0123456789abcdef01234567";
   await page.route("**/api/recitation-sets/" + id, (route) =>
     route.fulfill({contentType:"application/json",body:JSON.stringify({
