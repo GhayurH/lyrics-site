@@ -1,7 +1,7 @@
 // About-page bilingual content, navigation, and narrow-viewport behaviour.
 import { test, expect } from "@playwright/test";
 
-test("About explains the archive and offers bilingual routes and contact @smoke", async ({ page }) => {
+test("About explains the archive and offers bilingual routes and contact", async ({ page }) => {
   await page.goto("/about/");
   await expect(page.getByRole("heading", { name: "About & contact" })).toBeVisible();
 
