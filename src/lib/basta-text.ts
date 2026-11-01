@@ -80,7 +80,7 @@ export function layoutBastaKalam(
   prefaceOnly = false,
 ): BastaDisplayLine[] {
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
-  const display = lines.map((line) => {
+  const display: BastaDisplayLine[] = lines.map((line) => {
     const stanzaNumber = parseStanzaNumber(line);
     return {
       text: stanzaNumber ?? line,

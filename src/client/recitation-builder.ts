@@ -432,7 +432,7 @@ export async function initRecitationBuilder(): Promise<void> {
   if (catalogReady && info.textContent === "Loading poetry catalog…") say("");
   if (catalogReady) {
     const add = params.get("add");
-    const item = add && catalogById.get(add);
+    const item = add ? catalogById.get(add) : undefined;
     if (item?.ready && draft.set.items.length < 40) {
       draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id, sourceTitle: item.title });
       persist(); render(); say("Added " + item.title);

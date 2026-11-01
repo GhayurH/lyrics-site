@@ -46,7 +46,7 @@ export function initAppearance(): void {
   let selected: ThemeName = readTheme();
   let palette: CustomPalette = readCustomPalette();
   let startingPalette: CustomPalette = readCustomPaletteBase();
-  const colorNames: (keyof CustomPalette)[] = ["main", "secondary", "accent"];
+  const colorNames = ["main", "secondary", "accent"] as const;
   const advancedRoles: Record<AdvancedColor, "primary" | "muted" | "borders"> = {
     primaryText: "primary", mutedText: "muted", borders: "borders",
   };
@@ -83,7 +83,8 @@ export function initAppearance(): void {
       input.checked = input.value === selected;
     });
     fields.hidden = selected !== "custom";
-    const label = PRESET_THEME_GROUPS.flatMap((group) => group.themes)
+    const label = PRESET_THEME_GROUPS.flatMap((group) =>
+      group.themes.map((theme) => ({ id: theme.id as string, label: theme.label })))
       .find((item) => item.id === selected)?.label ?? "My Custom theme";
     const current = dialog.querySelector<HTMLElement>("#theme-current-name");
     if (current) current.textContent = label;
