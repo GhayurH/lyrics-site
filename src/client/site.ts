@@ -276,6 +276,14 @@ function initThemePicker(): void {
         .find((node) => node.dataset.themeCollection === group.label);
       if (collection) collection.open = true;
     }
+    // Keep the saved Custom swatch accurate while viewing another preset.
+    const swatch = dialog.querySelector<HTMLElement>('[data-preset-swatch="custom"]');
+    if (swatch) {
+      const ink = paletteTextColors(palette).primary;
+      for (const [role, value] of Object.entries({
+        main: palette.main, surface: palette.secondary, ink, accent: palette.accent,
+      })) swatch.style.setProperty("--swatch-" + role, value);
+    }
     const alviNote = dialog.querySelector<HTMLElement>("#theme-font-install-note");
     if (alviNote) alviNote.hidden = fonts.urdu !== "alvi";
     for (const name of colorNames) {
