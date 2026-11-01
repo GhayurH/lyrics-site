@@ -659,6 +659,35 @@ test("Basta Focus scan stays centred and fully visible when Options expands", as
   expect(after.y + after.height).toBeLessThanOrEqual(900);
 });
 
+test("portrait Basta Focus scans remain above Urdu poetry @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  for (const url of ["/basta/284/", "/basta/read/#page-284"]) {
+    await page.goto(url);
+    const toggle = page.locator("[data-reading-regular-toggle]");
+    if (await toggle.isVisible()) await toggle.click();
+    await page.locator('[data-reading-column][value="image"]').check();
+    await page.locator('[data-reading-column][value="urdu"]').check();
+    await page.getByRole("button", { name: "Focus Mode" }).click();
+    const page284 = url.includes("/read/")
+      ? page.locator('.basta-reader-page[data-basta-page="284"]')
+      : page.locator(".basta-page-grid[data-reading-root]");
+    await expect(page284).toBeAttached({ timeout: 20000 });
+    await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", /image/);
+    // Streamed pages use content-visibility:auto; bring this printed page
+    // into the Focus viewport before checking its scan geometry.
+    await page284.scrollIntoViewIfNeeded();
+    const scan = page284.locator(".basta-original-page, .basta-reader-original-image").first();
+    const urdu = page284.locator(".basta-page-urdu, .basta-reader-urdu").first();
+    await expect(scan).toBeVisible();
+    await expect(urdu).toBeVisible();
+    await expect(scan).not.toHaveCSS("position", "sticky");
+    await expect.poll(async () => {
+      const [imageBox, textBox] = await Promise.all([scan.boundingBox(), urdu.boundingBox()]);
+      return textBox.y - imageBox.y - imageBox.height;
+    }).toBeGreaterThanOrEqual(-2);
+  }
+});
+
 test("standalone image selection never creates phantom columns and stays horizontally centred", async ({ page }) => {
   await page.setViewportSize({width: 1440, height: 900});
   const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";

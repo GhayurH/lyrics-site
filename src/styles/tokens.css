@@ -29,6 +29,7 @@
   /* Optical size differs across Urdu font designs; verse fitting still bounds line width. */
   --reading-urdu-optical-scale: 1;
   --reading-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
+  --reading-title-increment: .25rem;
   --reading-urdu-leading: 2.8;
   --reading-roman-leading: 2;
   --reading-urdu-leading-compact: 2.2;

@@ -325,7 +325,7 @@ html[data-reading-focus="true"] .recite-reader-exports { display: none; }
    Keep verse geometry shared with standalone and Basta readers. */
 .recite-work .recite-editions { border: 0; border-radius: 0; }
 .recite-work-header { padding: .65rem clamp(.75rem,1.8vw,1.15rem); }
-.recite-work-header h2 { font-size: clamp(1.05rem,1.8vw,1.25rem); line-height: 1.8; }
+.recite-work-header h2 { font-size: calc(var(--reading-urdu-size) + var(--reading-title-increment)); line-height: 1.8; }
 .recite-work-note { padding-inline: clamp(.75rem,1.8vw,1.15rem); font-size: .85rem; }
 .recite-works { gap: clamp(1rem,2vw,1.5rem); }
 /* Roman and Urdu need comparable internal gutters, not two bulky columns. */
