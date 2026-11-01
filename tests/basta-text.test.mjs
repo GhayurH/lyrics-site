@@ -190,6 +190,7 @@ test("page 362 Urdu and Roman opening titles and closing lines use verse fitting
     assert.ok(title, language + " title detected");
     assert.equal(title.verse, false, language + " title does not count as a verse");
     assert.ok(bastaVerseClassNames(title).includes("basta-verse-poetry"));
+    assert.ok(bastaVerseClassNames(title).includes("kalam-reading-title"));
     const verses = lines.filter(line => line.verse);
     assert.equal(verses.length, 14);
     assert.equal(verses.filter(line => line.coupletSeparator).length, 6, language + " separators");
