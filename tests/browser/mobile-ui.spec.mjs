@@ -173,4 +173,3 @@ test("mobile readers start with an uncluttered Urdu view while desktop Basta sta
   await expect(page.locator(".basta-original-page")).toBeVisible();
   await expect(page.locator(".basta-page-roman")).toBeHidden();
 });
-

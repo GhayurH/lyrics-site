@@ -502,5 +502,3 @@ test("Urdu font families are available as bundled web fonts", async ({ page }) =
   await expect.poll(() => page.locator(".basta-urdu-text").first().evaluate((node) =>
     getComputedStyle(node).fontFamily)).toContain("Beaconhouse Nastaliq");
 });
-
-

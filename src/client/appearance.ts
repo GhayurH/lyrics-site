@@ -261,4 +261,3 @@ export function initAppearance(): void {
     render(false);
   });
 }
-
