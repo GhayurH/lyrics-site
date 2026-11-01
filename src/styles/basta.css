@@ -516,7 +516,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 .basta-page-reading-controls { margin: 1rem 0 1.5rem; }
 .basta-page-grid[data-reading-root] .basta-original-page { grid-area: scan; }
 .basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) .basta-page-urdu { grid-area: urdu; }
-.basta-page-grid[data-reading-root] .basta-urdu-text { font-size: var(--reading-urdu-size); line-height: var(--reading-active-urdu-leading); }
+.basta-page-grid[data-reading-root] .basta-urdu-text { font-size: calc(var(--reading-urdu-size) * var(--reading-urdu-optical-scale)); line-height: var(--reading-active-urdu-leading); }
 .basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--reading-roman-size); line-height: var(--reading-active-roman-leading); }
 
 

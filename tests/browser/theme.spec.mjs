@@ -502,3 +502,26 @@ test("Urdu font families are available as bundled web fonts", async ({ page }) =
   await expect.poll(() => page.locator(".basta-urdu-text").first().evaluate((node) =>
     getComputedStyle(node).fontFamily)).toContain("Beaconhouse Nastaliq");
 });
+
+test("switching Urdu fonts optically resizes every reading surface and keeps verses single-line", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 820 });
+  for (const [url, panel, verse] of [
+    ["/lyrics/chhane-lagi-shaam-e-ghareeban/", ".lyric-reading-urdu", ".lyric-reading-urdu .lyric-verse"],
+    ["/basta/138/", ".basta-page-urdu .basta-urdu-text", ".basta-page-urdu .basta-verse-poetry"],
+  ]) {
+    await page.goto(url);
+    await page.evaluate(() => document.fonts.ready);
+    const before = await page.locator(panel).first().evaluate(el => parseFloat(getComputedStyle(el).fontSize));
+    await page.locator("#theme-toggle").click();
+    await page.locator("#theme-dialog").getByRole("tab", { name: "Fonts" }).click();
+    await page.locator("#theme-urdu-font").selectOption("naskh");
+    await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "naskh");
+    await expect.poll(() => page.locator(panel).first().evaluate(el =>
+      parseFloat(getComputedStyle(el).fontSize))).toBeGreaterThan(before * 1.2);
+    await page.locator("#theme-dialog-done").click();
+    await page.evaluate(() => document.fonts.ready);
+    await expect.poll(() => page.locator(verse).evaluateAll(lines =>
+      lines.filter(line => line.clientWidth && (line.scrollWidth > line.clientWidth + 2 ||
+        getComputedStyle(line).whiteSpace !== "nowrap")).length)).toBe(0);
+  }
+});

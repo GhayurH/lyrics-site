@@ -26,6 +26,8 @@
   --font-roman: var(--font-ui);
 
   --reading-urdu-size: clamp(1.35rem, 3vw, 1.8rem);
+  /* Optical size differs across Urdu font designs; verse fitting still bounds line width. */
+  --reading-urdu-optical-scale: 1;
   --reading-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
   --reading-urdu-leading: 2.8;
   --reading-roman-leading: 2;
@@ -179,16 +181,16 @@
 }
 
 /* Only named, validated options may override these font tokens. */
-html[data-urdu-font="naskh"] { --font-urdu: "Noto Naskh Arabic", "Noto Nastaliq Urdu", serif; }
-html[data-urdu-font="lateef"] { --font-urdu: "Lateef", "Noto Naskh Arabic", "Noto Nastaliq Urdu", serif; }
+html[data-urdu-font="naskh"] { --font-urdu: "Noto Naskh Arabic", "Noto Nastaliq Urdu", serif; --reading-urdu-optical-scale: 1.25; }
+html[data-urdu-font="lateef"] { --font-urdu: "Lateef", "Noto Naskh Arabic", "Noto Nastaliq Urdu", serif; --reading-urdu-optical-scale: 1.35; }
 /* Alvi is selected from the OS only; its license does not permit bundling.
    Readers without it retain the established Noto Nastaliq appearance. */
 html[data-urdu-font="alvi"] { --font-urdu: "Alvi Nastaleeq", "Alvi Lahori Nastaleeq", "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif; }
-html[data-urdu-font="gulzar"] { --font-urdu: "Gulzar", "Noto Nastaliq Urdu", serif; }
-html[data-urdu-font="scheherazade"] { --font-urdu: "Scheherazade New", "Noto Naskh Arabic", serif; }
-html[data-urdu-font="amiri"] { --font-urdu: "Amiri", "Noto Naskh Arabic", serif; }
-html[data-urdu-font="markazi"] { --font-urdu: "Markazi Text", "Noto Naskh Arabic", serif; }
-html[data-urdu-font="noto-sans-arabic"] { --font-urdu: "Noto Sans Arabic", "Noto Naskh Arabic", sans-serif; }
+html[data-urdu-font="gulzar"] { --font-urdu: "Gulzar", "Noto Nastaliq Urdu", serif; --reading-urdu-optical-scale: 1.08; }
+html[data-urdu-font="scheherazade"] { --font-urdu: "Scheherazade New", "Noto Naskh Arabic", serif; --reading-urdu-optical-scale: 1.2; }
+html[data-urdu-font="amiri"] { --font-urdu: "Amiri", "Noto Naskh Arabic", serif; --reading-urdu-optical-scale: 1.22; }
+html[data-urdu-font="markazi"] { --font-urdu: "Markazi Text", "Noto Naskh Arabic", serif; --reading-urdu-optical-scale: 1.25; }
+html[data-urdu-font="noto-sans-arabic"] { --font-urdu: "Noto Sans Arabic", "Noto Naskh Arabic", sans-serif; --reading-urdu-optical-scale: 1.17; }
 html[data-urdu-font="beaconhouse"] { --font-urdu: "Beaconhouse Nastaliq", "Noto Nastaliq Urdu", serif; }
 html[data-roman-font="serif"] { --font-roman: Georgia, "Times New Roman", serif; }
 html[data-roman-font="open-sans"] { --font-roman: "Open Sans", system-ui, sans-serif; }

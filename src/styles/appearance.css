@@ -236,7 +236,7 @@
 .theme-fonts select { min-width: 0; width: 100%; min-height: var(--ui-target); padding: .45rem .65rem; font: inherit; font-weight: 400; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); color: var(--primary-text); }
 /* Compare font choices without affecting the interface typography. */
 .theme-fonts .theme-font-preview { margin: 0; min-width: 0; overflow-wrap: anywhere; border: var(--ui-border); border-radius: var(--ui-radius); padding: .5rem .75rem; background: var(--surface-background); color: var(--primary-text); }
-#theme-urdu-preview { font-family: var(--font-urdu); font-size: 1.35rem; line-height: 2.65; text-align: center; }
+#theme-urdu-preview { font-family: var(--font-urdu); font-size: calc(1.35rem * var(--reading-urdu-optical-scale)); line-height: 2.65; text-align: center; }
 #theme-roman-preview { font-family: var(--font-roman); font-size: 1.08rem; line-height: 1.8; text-align: center; }
 .theme-contrast-results { display: grid; gap: .15rem; margin-top: .6rem; border: var(--ui-border); border-radius: var(--ui-radius); padding: .55rem .75rem; font-size: .79rem; }
 .theme-contrast-results [data-low-contrast="true"] { font-weight: 750; text-decoration: underline; text-decoration-style: dotted; }
