@@ -762,6 +762,44 @@ test("standalone scan plus Urdu/Roman is parallel when wide and centred above te
   await page.getByRole("button", { name: /Exit reading mode/ }).click();
 });
 
+
+test("Focus scans and single-language poetry never overlap at narrow widths", async ({ page }) => {
+  const imageUrl = "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png";
+  await page.route("**" + imageUrl, route => route.fulfill({
+    contentType: "image/svg+xml",
+    body: '<svg xmlns="http://www.w3.org/2000/svg" width="750" height="1200"><rect width="750" height="1200" fill="white"/></svg>',
+  }));
+  for (const viewport of [
+    { width: 390, height: 844 },
+    { width: 640, height: 360 },
+    { width: 700, height: 800 },
+  ]) {
+    for (const edition of ["urdu", "roman"]) {
+      await page.setViewportSize(viewport);
+      await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");
+      const controls = page.locator("[data-reading-controls]");
+      const menu = controls.locator("[data-reading-regular-toggle]");
+      if (await menu.isVisible()) await menu.click();
+      await controls.locator('[data-reading-column][value="image"]').check();
+      await controls.locator('[data-reading-column][value="urdu"]').setChecked(edition === "urdu");
+      await controls.locator('[data-reading-column][value="roman"]').setChecked(edition === "roman");
+      await controls.locator("[data-reading-focus-enter]").click();
+      const scan = page.locator(".lyric-reading-image");
+      const poetry = page.locator(".lyric-reading-" + edition);
+      await expect(scan).toBeVisible();
+      await expect(poetry).toBeVisible();
+      const [a, b] = await Promise.all([scan.boundingBox(), poetry.boundingBox()]);
+      expect(a).toBeTruthy();
+      expect(b).toBeTruthy();
+      const overlapX = Math.max(0, Math.min(a.x + a.width, b.x + b.width) - Math.max(a.x, b.x));
+      const overlapY = Math.max(0, Math.min(a.y + a.height, b.y + b.height) - Math.max(a.y, b.y));
+      expect(overlapX * overlapY).toBeLessThan(4);
+      await expect.poll(() => page.evaluate(() =>
+        document.documentElement.scrollWidth - innerWidth)).toBeLessThanOrEqual(2);
+    }
+  }
+});
+
 test("standalone image plus either single text edition occupies only two columns", async ({ page }) => {
   await page.setViewportSize({width: 1400, height: 900});
   await page.goto("/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar/");

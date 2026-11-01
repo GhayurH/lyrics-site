@@ -167,27 +167,3 @@ html[data-reading-focus="true"] .basta-reader-page-grid > .basta-reader-original
   width: auto; height: auto; max-width: 100%;
   max-height: calc(100dvh - 4.4rem); object-fit: contain;
 }
-
-/* In portrait Focus Mode the scan and text must be in normal document flow.
-   Bypassing the outer grid prevents named areas inherited from single-edition
-   layouts from leaving both children on the same row. The inner bilingual grid
-   still handles Urdu/Roman stacking. */
-@media (max-width: 700px) and (orientation: portrait) {
-  html[data-reading-focus="true"] .basta-page-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-mode="image"]),
-  html[data-reading-focus="true"] .basta-reader-flow[data-reading-columns~="image"]:not([data-reading-mode="image"])
-    .basta-reader-page-grid {
-    display: block !important;
-  }
-  html[data-reading-focus="true"] .lyric-reading-grid:not([data-reading-mode="image"])
-    > .lyric-reading-image[data-floating-scan="true"],
-  html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not([data-reading-mode="image"])
-    > .basta-original-page[data-floating-scan="true"],
-  html[data-reading-focus="true"] .basta-reader-flow:not([data-reading-mode="image"])
-    .basta-reader-page-grid > .basta-reader-original-image[data-floating-scan="true"] {
-    position: static;
-    top: auto;
-    height: auto;
-    max-height: none;
-    align-self: start;
-  }
-}

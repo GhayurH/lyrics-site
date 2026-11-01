@@ -21,3 +21,5 @@ Older **unverified** OCR review candidates (not confirmed current errors): `035 
 ```
 
 Run only when losing all historical deployments is acceptable.
+
+[UI and maintainability review (1 November 2026)](UI_REVIEW_2026-11-01.md) records the responsive audit, fixes, and verification matrix.

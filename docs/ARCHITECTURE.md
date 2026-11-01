@@ -34,7 +34,7 @@ Prefer static, readable HTML with progressive enhancement. Keep public URLs, sou
 Standalone lyrics, Basta pages/index/continuous mode, and Recitation Sets share `ReadingControls.astro`, `client/reader-state.ts`, and the reader CSS above.
 
 - **Editions:** Image, Urdu, and Roman may be combined; at least one remains selected. Mobile defaults to Urdu; wide text readers default to Urdu + Roman, and desktop Basta page reading to Image + Urdu. Preferences persist per reader type. Missing Roman text gets an explanation, never a silent substitution. Scans and text remain readable without JavaScript.
-- **Layout:** Container width decides stacked versus parallel columns; narrow Basta page panels have full-width stacking. `client/verse-fitting.ts` and `lib/verse-fit.ts` keep every verse on one line without horizontal scrolling.
+- **Layout:** Container width decides stacked versus parallel columns, including Focus Mode on narrow or rotated screens. Narrow Basta panels stack full-width; route CSS must not redefine edition tracks. `client/verse-fitting.ts` and `lib/verse-fit.ts` keep every verse on one line without horizontal scrolling.
 - **Scrolling:** `client/synced-columns.ts` synchronizes corresponding text, with shorter columns static. `floating-scans.ts` keeps scans alongside text when space permits, otherwise in flow. Never synchronize a scan as a text panel.
 - **Focus Mode:** `reading-focus.ts` preserves position, history, fullscreen state, and independent Options. Desktop/mobile toolbars and retracting headers must not obscure verses or anchor targets.
 - **Images:** Native scan links work without JS; `scan-viewer.ts` adds zoom/pan. Readers remain usable if R2 is unavailable.

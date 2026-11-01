@@ -213,6 +213,22 @@
   .basta-parallel-index-table.basta-parallel-index-urdu { grid-area: urdu-table; }
   .basta-parallel-index-section-heading.basta-parallel-index-roman { grid-area: roman-heading; }
   .basta-parallel-index-table.basta-parallel-index-roman { grid-area: roman-table; }
+
+  /* Focus follows the shared container breakpoint, including narrow landscape
+     and desktop windows. Scans stacked above poetry must not remain sticky. */
+  html[data-reading-focus="true"] .basta-page-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-mode="image"]),
+  html[data-reading-focus="true"] .basta-reader-flow[data-reading-columns~="image"]:not([data-reading-mode="image"]) .basta-reader-page-grid {
+    display: block;
+  }
+  html[data-reading-focus="true"] .lyric-reading-grid:not([data-reading-mode="image"]) > .lyric-reading-image[data-floating-scan="true"],
+  html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not([data-reading-mode="image"]) > .basta-original-page[data-floating-scan="true"],
+  html[data-reading-focus="true"] .basta-reader-flow:not([data-reading-mode="image"]) .basta-reader-page-grid > .basta-reader-original-image[data-floating-scan="true"] {
+    position: static;
+    top: auto;
+    height: auto;
+    max-height: none;
+    align-self: start;
+  }
 }
 /* Parallel text needs the same geometry on desktop and sufficiently wide landscape devices. */
 @container reader-shell (min-width: 46.01rem) {
