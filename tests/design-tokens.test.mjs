@@ -89,12 +89,12 @@ test("all referenced shared reading tokens resolve, including spacing presets", 
     }
   }
   for (const file of ["lyrics.css", "basta.css", "basta-reader.css", "recitation.css"]) {
-    assert.doesNotMatch(css[file], /\\[data-line-spacing="(?:compact|relaxed)"\\]/,
+    assert.doesNotMatch(css[file], /\[data-line-spacing="(?:compact|relaxed)"\]/,
       file + " must not duplicate the shared reading spacing selectors");
   }
-  assert.match(css["core.css"], /:is\\(\\.lyric-verse, \\.basta-verse-poetry\\)/);
-  assert.doesNotMatch(css["basta.css"], /\\.basta-verse-poetry\\s*\\{/);
-  assert.doesNotMatch(css["lyrics.css"], /\\.lyric-verse\\s*\\{/);
+  assert.match(css["core.css"], /:is\(\.lyric-verse, \.basta-verse-poetry\)/);
+  assert.doesNotMatch(css["basta.css"], /\.basta-verse-poetry\s*\{/);
+  assert.doesNotMatch(css["lyrics.css"], /\.lyric-verse\s*\{/);
 });
 
 test("feature-page widths and shared component radii come from semantic tokens", () => {
