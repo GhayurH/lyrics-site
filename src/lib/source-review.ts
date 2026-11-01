@@ -58,10 +58,15 @@ function checkLines(path: string, text: string, firstLine: number, script: "urdu
     if (invisible.test(line)) record(issues, path, sourceLine, "invisible-character", "Invisible/bidirectional control character; confirm intentional use");
     if (commonPlaceholders.test(line)) record(issues, path, sourceLine, "unverified-text", "Editorial/OCR placeholder present");
     if (/(?:Ã.|Â.|â€|�)/u.test(line)) record(issues, path, sourceLine, "encoding", "Possible misdecoded text");
+    const otherScript = [...line].some(ch => /\p{L}/u.test(ch) && !latin.test(ch) && !arabic.test(ch));
+    if (otherScript)
+      record(issues, path, sourceLine, "unexpected-script", "Letter from an unexpected script: " + line.trim().slice(0, 95));
     if (script === "urdu") {
       if (/[A-Za-z]/u.test(line))
         record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + line.trim().slice(0, 95));
     } else {
+      if (/\b(?:Hussain|Hassan)\b/iu.test(line))
+        record(issues, path, sourceLine, "roman-name-style", "House style uses Husain and Hasan (one s after the initial consonant)");
       if (arabic.test(line) || romanDigits.test(line))
         record(issues, path, sourceLine, "arabic-in-roman", "Arabic-script character or digit in Roman text: " + line.trim().slice(0, 95));
       // Flag Latin accents (ā, ḥ, ī, etc.), not ordinary curly punctuation.

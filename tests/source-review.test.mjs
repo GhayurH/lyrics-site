@@ -73,3 +73,11 @@ test("image-only Basta page can have an empty source body", () => {
     text: "---\npage: 4\nimageOnly: true\noriginalImage: /images/basta/original/004.png\n---\n" });
   assert.equal(file.issues.length, 0);
 });
+
+test("flags other writing systems and the established Roman name conventions", () => {
+  const file = reviewMarkdown({ path: "src/data/lyrics/foreign.md", kind: "lyrics",
+    text: lyric("سلام", "Hussain and Hassan Αli") });
+  const codes = file.issues.map(x => x.code);
+  assert(codes.includes("roman-name-style"));
+  assert(codes.includes("unexpected-script"));
+});

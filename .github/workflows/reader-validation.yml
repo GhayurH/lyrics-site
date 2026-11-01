@@ -76,7 +76,7 @@ jobs:
         run: npm run perf:assets
       - name: Generate source review queue (Basta and standalone)
         if: steps.test_mode.outputs.full == 'true'
-        run: npm run content:review -- --markdown > content-review.md
+        run: npm run --silent content:review -- --markdown > content-review.md
       - name: Save editorial review queue
         if: steps.test_mode.outputs.full == 'true'
         uses: actions/upload-artifact@v6

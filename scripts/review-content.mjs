@@ -92,6 +92,9 @@ for (const item of catalog.kalams) {
   }
 }
 for (const orphan of catalog.orphans) {
+  // The book's front matter and prose pages are not poetry entries in the
+  // printed index; they are not unassigned kalams needing editorial review.
+  if (orphan.page < settings.romanLyricsStartPage) continue;
   issue(sourcePath(orphan.page), 1, "unassigned-fragment",
     "Printed fragment " + orphan.part + " not assigned to an indexed kalam: " + orphan.opening.slice(0, 95));
 }
@@ -139,7 +142,8 @@ const report = {
     indexedKalams: catalog.kalams.length,
     verifiedKalams: catalog.kalams.filter(x => x.status === "ready").length,
     unverifiedKalams: catalog.kalams.filter(x => x.status === "review").length,
-    orphanFragments: catalog.orphans.length,
+    orphanFragments: catalog.orphans.filter(x => x.page >= settings.romanLyricsStartPage).length,
+    nonPoetryFragmentsExcluded: catalog.orphans.filter(x => x.page < settings.romanLyricsStartPage).length,
     romanMissingPages: editorial.absentRomanTranscriptions.length,
   },
   files,
