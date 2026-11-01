@@ -42,7 +42,7 @@ npm run test:browser  # Full Chromium suite at milestones
 npm run preview       # Preview the built site
 ```
 
-See [contribution and validation guidance](docs/CONTRIBUTING.md#validation) for browser tests and CI behavior.
+See [contribution and validation guidance](docs/CONTRIBUTING.md#validation) for smoke/full selection and CI behavior. Full browser tests cover 109 distinct scenarios; the reduced smoke suite targets critical user journeys.
 
 ## Repository layout
 
