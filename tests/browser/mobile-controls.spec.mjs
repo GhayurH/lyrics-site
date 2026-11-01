@@ -106,7 +106,8 @@ test("site header hides on downward scrolling and returns on upward scrolling", 
   await expect(root).not.toHaveAttribute("data-mobile-header-hidden", "true");
   await page.evaluate(() => window.scrollTo({ top: 650, behavior: "instant" }));
   await expect(root).toHaveAttribute("data-mobile-header-hidden", "true");
-  await expect(header).toBeHidden();
+  await expect.poll(() => header.evaluate((node) =>
+    node.getBoundingClientRect().bottom)).toBeLessThanOrEqual(1);
   const controls = page.locator("[data-reading-controls]");
   await expect.poll(() => controls.evaluate((el) => getComputedStyle(el).top)).toBe("8px");
 
@@ -147,7 +148,8 @@ test("desktop reading controls float as the site header hides and returns", asyn
     window.scrollTo({ top: window.scrollY + reader.getBoundingClientRect().top + 400, behavior: "instant" });
   });
   await expect(html).toHaveAttribute("data-desktop-reader-header-hidden", "true");
-  await expect(header).toBeHidden();
+  await expect.poll(() => header.evaluate((node) =>
+    node.getBoundingClientRect().bottom)).toBeLessThanOrEqual(1);
   await expect.poll(() => controls.evaluate((node) => node.getBoundingClientRect().top)).toBeGreaterThanOrEqual(7);
   await expect.poll(() => controls.evaluate((node) => node.getBoundingClientRect().top)).toBeLessThan(12);
 
@@ -235,4 +237,27 @@ test("desktop settings collapse after scrolling into the poem but navigation sta
   await expect(continuous.locator(".reading-page-jump")).toBeVisible();
   await expect(continuous.locator(".reading-open-page")).toBeVisible();
   await expect(continuous.locator(".reading-current-page")).toBeVisible();
+});
+
+test("retracted headers remain keyboard reachable without upward scrolling", async ({ page }) => {
+  for (const config of [
+    { width: 390, height: 844, url: "/basta/200/", flag: "data-mobile-header-hidden", distance: 650 },
+    { width: 1280, height: 820, url: "/basta/read/", flag: "data-desktop-reader-header-hidden", distance: 400 },
+  ]) {
+    await page.setViewportSize({ width: config.width, height: config.height });
+    await page.goto(config.url);
+    await page.evaluate(({ distance }) => {
+      const reading = document.querySelector("[data-reading-root]");
+      window.scrollTo({ top: scrollY + reading.getBoundingClientRect().top + distance, behavior: "instant" });
+    }, config);
+    await expect(page.locator("html")).toHaveAttribute(config.flag, "true");
+    const header = page.locator(".site-header");
+    await expect.poll(() => header.evaluate((node) =>
+      node.getBoundingClientRect().bottom)).toBeLessThanOrEqual(1);
+    await page.evaluate(() => document.querySelector("#theme-toggle").focus({ preventScroll: true }));
+    await expect(page.locator("#theme-toggle")).toBeFocused();
+    await expect(page.locator("html")).not.toHaveAttribute(config.flag, "true");
+    await expect.poll(() => header.evaluate((node) =>
+      node.getBoundingClientRect().bottom)).toBeGreaterThan(30);
+  }
 });

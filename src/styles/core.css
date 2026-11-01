@@ -211,9 +211,9 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 .reading-control-label { color: var(--secondary-text); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; text-align: center; }
 .reading-controls select { min-height: var(--ui-target); border: var(--ui-border); border-radius: var(--ui-radius); padding: .35rem 2rem .35rem .55rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: var(--ui-control-font-size); }
 
-/* Desktop readers keep their controls in reach once the text scrolls past.
-   The header returns on upward scroll, pushing sticky controls below it.
-   Plain pages, no-JS reading, and Focus mode retain their normal layouts. */
+/* Retract the header visually without visibility:hidden: its controls must
+   stay keyboard-focusable, allowing site.ts focusin to reveal it. Desktop
+   readers keep sticky controls below the header when it returns. */
 @media (min-width: 701px) {
   html[data-js-available="true"]:not([data-reading-focus="true"]) .reading-controls {
     position: sticky;
@@ -228,7 +228,6 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   .site-header { transition: transform 180ms ease, visibility 180ms ease; }
   html[data-desktop-reader-header-hidden="true"]:not([data-reading-focus="true"]) .site-header {
     transform: translateY(calc(-100% - 2px));
-    visibility: hidden;
     pointer-events: none;
   }
 }
@@ -302,11 +301,10 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   .reading-control-group, .reading-controls select { width: 100%; }
   .reading-control-label { font-size: 0.62rem; }
 
-  /* Transform hides the header without shifting reading anchors or page flow. */
+  /* Mobile uses the same keyboard-reachable, non-layout-shifting retraction. */
   .site-header { transition: transform 180ms ease, visibility 180ms ease; will-change: transform; }
   html[data-mobile-header-hidden="true"] .site-header {
     transform: translateY(calc(-100% - 2px));
-    visibility: hidden;
     pointer-events: none;
   }
 }
