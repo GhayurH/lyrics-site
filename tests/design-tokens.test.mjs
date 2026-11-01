@@ -18,7 +18,8 @@ test("shared colours and dimensions are defined only by the token file", () => {
   assert.match(css["core.css"], /@import "\.\/tokens\.css";/);
   for (const name of ["content-wide", "content-reading", "reading-single-width",
     "reading-scan-width", "reading-urdu-size", "reading-roman-size", "ui-target",
-    "ui-radius", "surface-background", "primary-text", "border-colour"]) {
+    "ui-radius", "ui-control-font-size", "ui-control-padding",
+    "surface-background", "primary-text", "border-colour"]) {
     assert.match(tokens, new RegExp("--" + name + ":"));
     for (const [file, source] of Object.entries(css)) {
       if (file !== "tokens.css") {
@@ -139,4 +140,16 @@ test("routes share one fallback while the browser measures sticky header height"
   assert.match(tokens, /--site-header-fallback-height:\s*4\.8rem/);
   for (const file of ["core.css", "recitation.css"])
     assert.match(css[file], /var\(--site-header-height, var\(--site-header-fallback-height\)\)/);
+});
+
+test("Auto shares Light defaults and reuses Dark semantic palette tokens", () => {
+  assert.match(tokens, /html\[data-theme="light"\],\s*html\[data-theme="auto"\]\s*\{/);
+  const dark = tokens.match(/html\[data-theme="dark"\]\s*\{([^}]*)\}/)?.[1];
+  const autoDark = tokens.match(/@media \(prefers-color-scheme: dark\)\s*\{\s*html\[data-theme="auto"\]\s*\{([^}]*)\}/)?.[1];
+  assert(dark && autoDark, "Auto dark palette must have an explicit device media rule");
+  for (const role of ["site-background", "surface-background", "header-background",
+    "primary-text", "secondary-text", "border-colour", "tag-background", "accent-color", "button-text"]) {
+    const value = (block) => block.match(new RegExp("--" + role + ":\\s*([^;]+);"))?.[1].trim();
+    assert.equal(value(autoDark), value(dark), "Auto/Dark drift in " + role);
+  }
 });
