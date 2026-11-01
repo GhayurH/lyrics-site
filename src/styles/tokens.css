@@ -37,6 +37,8 @@
   /* Used until JavaScript measures the actual sticky header height. */
   --site-header-fallback-height: 4.8rem;
   --ui-target: 2.75rem;
+  --ui-control-font-size: .85rem;
+  --ui-control-padding: .45rem .75rem;
   --ui-radius: .6rem;
   --ui-radius-tight: .55rem;
   --ui-radius-card: .75rem;

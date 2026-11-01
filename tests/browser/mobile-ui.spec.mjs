@@ -31,6 +31,43 @@ test("mobile header occupies one line with accessible menu and icon theme toggle
   }
 });
 
+
+test("paired lyric actions and reader controls have matching accessible heights @smoke", async ({ page }) => {
+  for (const width of [320, 390, 1024]) {
+    await page.setViewportSize({ width, height: 844 });
+    await page.goto("/lyrics/aa-asghar-bin-tere/");
+    const actions = page.locator(".lyric-header-actions");
+    const save = actions.locator(".favorite-button");
+    const add = actions.locator(".lyric-add-recitation");
+    await expect(save).toBeVisible();
+    await expect(add).toBeVisible();
+    const [saveBox, addBox] = await Promise.all([save.boundingBox(), add.boundingBox()]);
+    const target = await page.locator("html").evaluate((el) =>
+      Number.parseFloat(getComputedStyle(el).getPropertyValue("--ui-target")) * Number.parseFloat(getComputedStyle(el).fontSize));
+    expect(Math.abs(saveBox.height - addBox.height)).toBeLessThanOrEqual(1);
+    expect(saveBox.height).toBeGreaterThanOrEqual(target - 1);
+    expect(addBox.height).toBeGreaterThanOrEqual(target - 1);
+
+    if (width <= 700) {
+      const controls = page.locator("[data-reading-controls]");
+      const [focusBox, viewBox, menuBox, themeBox] = await Promise.all([
+        controls.locator(".reading-focus-enter").boundingBox(),
+        controls.locator(".reading-regular-toggle").boundingBox(),
+        page.locator("#mobile-nav-toggle").boundingBox(),
+        page.locator("#theme-toggle").boundingBox(),
+      ]);
+      expect(Math.abs(focusBox.height - viewBox.height)).toBeLessThanOrEqual(1);
+      expect(Math.abs(menuBox.height - themeBox.height)).toBeLessThanOrEqual(1);
+      expect(focusBox.height).toBeGreaterThanOrEqual(target - 1);
+      await controls.locator(".reading-regular-toggle").click();
+      for (const selector of [".reading-column-choice", "[data-reading-line-spacing]"]) {
+        const box = await controls.locator(selector).first().boundingBox();
+        expect(box.height).toBeGreaterThanOrEqual(target - 1);
+      }
+    }
+  }
+});
+
 test("selected Image Urdu Roman cells are entirely filled in every applicable reader @smoke", async ({ page }) => {
   for (const route of [
     "/lyrics/aa-asghar-bin-tere/",
