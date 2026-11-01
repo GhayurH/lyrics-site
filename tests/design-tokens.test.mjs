@@ -160,3 +160,23 @@ test("Auto shares Light defaults and reuses Dark semantic palette tokens", () =>
     assert.equal(value(autoDark), value(dark), "Auto/Dark drift in " + role);
   }
 });
+
+test("shared reader renderers own title, stanza and Basta DOM behavior", () => {
+  const parser = readFileSync("src/lib/basta-text.ts", "utf8");
+  const browserBasta = readFileSync("src/client/basta-dom.ts", "utf8");
+  const stream = readFileSync("src/client/basta-stream.ts", "utf8");
+  const recitation = readFileSync("src/client/recitation-reader.ts", "utf8");
+  const lyricComponent = readFileSync("src/components/LyricVerses.astro", "utf8");
+  const lyricModel = readFileSync("src/lib/lyric-stanzas.ts", "utf8");
+
+  assert.match(parser, /kalam-poet-credit/);
+  assert.match(css["core.css"], /\.kalam-poet-credit\s*\{/);
+  for (const source of [stream, recitation]) assert.match(source, /renderBastaTextBlock/);
+  assert.match(browserBasta, /bastaVerseClassNames\(line\)/);
+  for (const source of [lyricComponent, recitation]) {
+    assert.match(source, /lyricStanzaClassNames/);
+    assert.match(source, /lyricLineClassName/);
+  }
+  assert.match(lyricModel, /export function lyricStanzaClassNames/);
+  assert.match(tokens, /--reading-title-color:\s*color-mix\(in srgb, var\(--accent-color\)/);
+});
