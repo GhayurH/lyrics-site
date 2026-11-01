@@ -105,6 +105,10 @@ test("Urdu and Roman kalam titles are centered and theme-aware in every reading 
     await page.setViewportSize(viewport);
     await page.goto("/basta/138/");
     await assertTitle(".basta-page-urdu .basta-kalam-title");
+    const credit = page.locator(".basta-page-urdu .kalam-poet-credit").first();
+    await expect(credit).toBeVisible();
+    await expect(credit).toHaveCSS("text-align", "center");
+    await expect(credit).toHaveCSS("text-decoration-line", "none");
     const toggle = page.locator("[data-reading-regular-toggle]");
     if (await toggle.isVisible()) await toggle.click();
     await page.locator('[data-reading-column][value="roman"]').check();
