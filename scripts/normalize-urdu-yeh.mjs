@@ -14,7 +14,7 @@ function isArabicLine(filePath, line, inBody) {
   if (!inBody) return false;
   // Arabic invocations may already contain individual Urdu-style glyphs.
   // A short, densely vowelled line is still an Arabic quotation.
-  if (line.length < 100 && (line.match(ARABIC_VOWELS) ?? []).length >= 8) return true;
+  if (!/[“”«»]/.test(line) && line.length < 100 && (line.match(ARABIC_VOWELS) ?? []).length >= 8) return true;
   const base = path.basename(filePath);
   if (filePath.includes("/basta/pages/") && ARABIC_BASTA_PAGES.has(base)) return true;
   if (filePath.includes("/basta/pages/") && PARTIAL_ARABIC_PAGES.has(base)) {
