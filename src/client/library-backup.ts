@@ -70,6 +70,32 @@ export function initLibraryBackup(): void {
     } catch (e) { say("Import failed: " + (e as Error).message); }
     finally { input.value = ""; }
   });
+
+  async function saveOffline(urls: string[]) {
+    const ready = await Promise.race([navigator.serviceWorker.ready,
+      new Promise<never>((_,reject)=>setTimeout(()=>reject(Error("Offline worker unavailable")),7000))]);
+    if (!ready.active) throw Error("Offline worker unavailable");
+    const channel = new MessageChannel();
+    channel.port1.onmessage = (event) => {
+      const { saved=0, failed=0 } = event.data || {};
+      say(saved + " pages saved offline" + (failed ? "; " + failed + " failed" : "") +
+        ". Source scans and full search need a connection.");
+      channel.port1.close();
+    };
+    say("Saving " + urls.length + " pages…");
+    ready.active.postMessage({type:"SAVE_PAGES",urls},[channel.port2]);
+  }
+  document.getElementById("saved-cache-range")?.addEventListener("click", async () => {
+    if (!("serviceWorker" in navigator)) { say("Offline storage is unavailable."); return; }
+    const start = Number(document.querySelector<HTMLInputElement>("#offline-range-start")?.value);
+    const end = Number(document.querySelector<HTMLInputElement>("#offline-range-end")?.value);
+    if (!Number.isSafeInteger(start) || !Number.isSafeInteger(end) ||
+        start < 1 || end < start || end > 999 || end - start >= 30) {
+      say("Choose between 1 and 30 consecutive printed pages."); return;
+    }
+    try { await saveOffline(Array.from({length:end-start+1},(_,i)=>"/basta/"+(start+i)+"/")); }
+    catch(e) { say((e as Error).message); }
+  });
   document.getElementById("saved-cache")?.addEventListener("click", async () => {
     if (!("serviceWorker" in navigator) || !("caches" in window)) {
       say("Offline storage is not available in this browser."); return;
@@ -83,19 +109,8 @@ export function initLibraryBackup(): void {
       ...[...pages,...selections].map((n) => "/basta/" + n + "/"),
     ])].slice(0,80);
     if (!urls.length) { say("Bookmark some kalams or Basta pages first."); return; }
-    say("Saving " + urls.length + " pages offline…");
-    try {
-      const reg = await navigator.serviceWorker.ready;
-      if (!reg.active) throw Error("Offline worker unavailable");
-      const channel = new MessageChannel();
-      channel.port1.onmessage = (event) => {
-        const {saved=0,failed=0} = event.data || {};
-        say(saved + " pages saved for offline reading" + (failed ? "; " + failed + " failed" : "") +
-          ". Scans and full-book search still need a connection.");
-        channel.port1.close();
-      };
-      reg.active.postMessage({type:"SAVE_PAGES",urls},[channel.port2]);
-    } catch(e) { say("Offline saving failed: " + (e as Error).message); }
+    try { await saveOffline(urls); }
+    catch(e) { say("Offline saving failed: " + (e as Error).message); }
   });
   document.getElementById("saved-cache-clear")?.addEventListener("click", async () => {
     try { await caches.delete("kalam-offline-pages-v1"); say("Removed offline reading pages."); }
