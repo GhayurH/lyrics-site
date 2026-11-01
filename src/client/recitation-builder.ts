@@ -132,6 +132,7 @@ export async function initRecitationBuilder(): Promise<void> {
       : !synced ? "Publish your programme changes before controlling the live position."
       : liveActive ? "Broadcasting the selected kalam to participants who opted in."
       : "Live following is stopped.";
+    elm<HTMLButtonElement>("recite-show-qr").hidden = !draft.remoteId;
     if (draft.remoteId) {
       elm<HTMLInputElement>("recite-public-url").value = publicUrl(draft.remoteId);
       elm<HTMLInputElement>("recite-edit-url").value =

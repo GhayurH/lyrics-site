@@ -63,3 +63,11 @@ Reading does not renew expiry. Expired records return **410** until cleanup, the
 Creation is limited to **10 sets/hour/IP** (HTTP **429** with `Retry-After`); reading/authorized editing is not rate-limited by this quota. D1 stores hashed throttle keys; the optional `RECITATION_RATE_LIMIT_SECRET` protects their derivation. WAF protection can supplement this.
 
 Scheduled cleanup, metrics, schema creation, and deployment checks: [Operations](RECITATION_OPERATIONS.md).
+
+## Templates, offline reading, and publishing conflicts
+
+Programme templates are saved locally, never published. A template creates a fresh draft with fresh entry UIDs and does not copy an edit token or live navigation state. Organizers can display a QR code for the **public** link by explicitly selecting Show public QR; this contacts an external QR image provider and never sends private organizer links.
+
+Published edits require the revision returned by the server. Simultaneous organizer tabs get a 409 conflict instead of silently overwriting the previous update. Duplicate a local draft before refreshing if it contains unsent changes. Live-step updates also use document compare-and-swap.
+
+Saved & recent provides a versioned JSON backup/import, including local templates and private organizer edit links, and an optional offline cache for saved pages. Backups must be kept private. Original R2 scans and live published programmes still need a connection.

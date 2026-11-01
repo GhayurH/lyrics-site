@@ -63,3 +63,9 @@ Programme publishing uses D1 via narrowly routed Pages Functions; archives and R
 ## Performance boundaries
 
 Reserve scan dimensions and lazy-load R2 assets. Use `content-visibility` for offscreen book chunks when supported; do not measure distant pages on every scroll. Load the full book, Saved catalog, and Pagefind only where needed. Test commands and CI markers: [Validation](CONTRIBUTING.md#validation).
+
+### New archive and library capabilities
+
+Verified Basta kalams have permanent `/basta/kalam/[id]/` URLs and appear in `/basta/kalams/`; original page routes remain stable. Correction actions on individual lyric, Basta page, and kalam routes open a contextual email draft; there is no submission service or new database.
+
+`client/library-backup.ts` owns the explicit versioned allowlist of browser-local data for export/import. `public/sw.js` handles explicitly saved offline pages without caching `/api/` routes or edit tokens. `client/recitation-templates.ts` owns private reusable programme templates. `lib/search-normalization.ts` supplies alias tokens to Pagefind without changing source poem text.

@@ -4,7 +4,7 @@ import { readBastaBookmarks } from "./basta-bookmarks";
 
 export const BACKUP_KEYS = [
   ...Object.values(STORAGE_KEYS), STORAGE_KEYS.bastaSelections + ":details",
-  "kalam:recitation-drafts-v1", "kalam:reading-fonts", "theme",
+  "kalam:recitation-drafts-v1", "kalam:recitation-templates-v1", "kalam:reading-fonts", "theme",
   "kalam:custom-theme", "kalam:custom-theme-base", "kalam:recitation-view",
 ] as const;
 export interface LibraryBackup {
