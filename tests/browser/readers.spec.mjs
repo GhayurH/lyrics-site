@@ -14,22 +14,27 @@ test("all reader types expose text before JavaScript initializes @smoke", async 
   await context.close();
 });
 
-test("two text editions are stacked in portrait and parallel in landscape", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/basta/138/");
-  const urdu = page.locator(".basta-page-urdu");
-  const roman = page.locator(".basta-page-roman");
-  await page.locator("[data-reading-regular-toggle]").click();
-  await page.locator('[data-reading-column][value="roman"]').check();
-  await expect(urdu).toBeVisible();
-  await expect(roman).toBeVisible();
-  let u = await urdu.boundingBox(), r = await roman.boundingBox();
-  expect(Math.abs(u.y - r.y)).toBeGreaterThan(25);
-  await page.setViewportSize({ width: 840, height: 390 });
-  await expect.poll(async () => {
-    const left = await urdu.boundingBox(), right = await roman.boundingBox();
-    return Math.abs(left.y - right.y);
-  }).toBeLessThan(25);
+test("Urdu and Roman editions stack in portrait and align in landscape", async ({ page }) => {
+  for (const [url, uSelector, rSelector] of [
+    ["/basta/138/", ".basta-page-urdu", ".basta-page-roman"],
+    ["/lyrics/aa-asghar-bin-tere/", ".lyric-reading-urdu", ".lyric-reading-roman"],
+  ]) {
+    await page.setViewportSize({ width: 390, height: 844 });
+    await page.goto(url);
+    const urdu = page.locator(uSelector);
+    const roman = page.locator(rSelector);
+    await page.locator("[data-reading-regular-toggle]").click();
+    await page.locator('[data-reading-column][value="roman"]').check();
+    await expect(urdu).toBeVisible();
+    await expect(roman).toBeVisible();
+    const [u, r] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
+    expect(Math.abs(u.y - r.y)).toBeGreaterThan(25);
+    await page.setViewportSize({ width: 844, height: 390 });
+    await expect.poll(async () => {
+      const [left, right] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
+      return Math.abs(left.y - right.y);
+    }).toBeLessThan(25);
+  }
 });
 
 test("edition preferences, Focus mode, and image enlargement work together", async ({ page }) => {
@@ -341,16 +346,14 @@ test("parallel Basta keeps the shorter Roman edition fully visible and scrolls o
   await urdu.evaluate((node) => { node.scrollTop = (node.scrollHeight - node.clientHeight) * 0.65; });
   await expect.poll(() => urdu.evaluate((node) => node.scrollTop)).toBeGreaterThan(0);
   expect(await roman.evaluate((node) => node.scrollTop)).toBe(0);
-});
-
-test("non-Basta lyrics also keep the shorter parallel edition fully visible", async ({ page }) => {
-  await page.setViewportSize({ width: 1440, height: 900 });
+  // Standalone lyrics use the same short-column policy.
   await page.goto("/lyrics/aa-asghar-bin-tere/");
-  const urdu = page.locator(".lyric-reading-urdu");
-  const roman = page.locator(".lyric-reading-roman");
-  await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
-  await expect(roman).not.toHaveAttribute("data-synced-scrollable", "true");
-  expect(await roman.evaluate((node) => node.scrollHeight - node.clientHeight)).toBeLessThan(3);
+  const lyricUrdu = page.locator(".lyric-reading-urdu");
+  const lyricRoman = page.locator(".lyric-reading-roman");
+  await expect(lyricUrdu).toHaveAttribute("data-synced-scrollable", "true");
+  await expect(lyricRoman).not.toHaveAttribute("data-synced-scrollable", "true");
+  expect(await lyricRoman.evaluate(node => node.scrollHeight - node.clientHeight)).toBeLessThan(3);
+
 });
 
 test("stacked and single-column editions use only document scrolling @smoke", async ({ page }) => {
@@ -429,25 +432,6 @@ test("source link is visibly separated from the category back link", async ({ pa
   expect(source.x - (back.x + back.width)).toBeGreaterThan(8);
 });
 
-test("standalone lyrics use stacked columns on narrow screens and parallel columns when wide enough", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/lyrics/aa-asghar-bin-tere/");
-  await page.locator("[data-reading-regular-toggle]").click();
-  await page.locator('[data-reading-column][value="roman"]').check();
-  const urdu = page.locator(".lyric-reading-urdu");
-  const roman = page.locator(".lyric-reading-roman");
-  await expect(urdu).toBeVisible();
-  await expect(roman).toBeVisible();
-  const narrow = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
-  expect(Math.abs(narrow[0].y - narrow[1].y)).toBeGreaterThan(25);
-
-  await page.setViewportSize({ width: 844, height: 390 });
-  await expect.poll(async () => {
-    const [left, right] = await Promise.all([urdu.boundingBox(), roman.boundingBox()]);
-    return Math.abs(left.y - right.y);
-  }).toBeLessThan(25);
-});
-
 test("continuous Basta editions respond to available width, including landscape", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
@@ -515,21 +499,19 @@ test("parallel scans float below the reader toolbar, but stacked scans stay in f
   await page.setViewportSize({ width: 390, height: 844 });
   await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("false");
   await expect(scan).not.toHaveCSS("position", "sticky");
-});
-
-test("standalone scans share the same floating-column policy", async ({ page }) => {
+  // The standalone scan uses the same floating policy on wider screens.
   await page.emulateMedia({ colorScheme: "dark" });
   await page.setViewportSize({ width: 1480, height: 900 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const option = page.locator('[data-reading-column][value="image"]');
   if (await option.count()) {
     await option.check();
-    const scan = page.locator(".lyric-reading-image");
-    await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+    const lyricScan = page.locator(".lyric-reading-image");
+    await expect.poll(() => lyricScan.getAttribute("data-floating-scan")).toBe("true");
     await expect(page.locator(".lyric-reading-grid")).toHaveCSS("background-color", "rgb(23, 23, 25)");
-    // Clipping must not create a nested scrollport that traps the sticky scan.
     await expect(page.locator(".lyric-reading-grid")).toHaveCSS("overflow-x", "clip");
   }
+
 });
 
 test("a floating scan is never selected for text-column scrolling", async ({ page }) => {
