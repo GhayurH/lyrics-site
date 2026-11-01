@@ -1,8 +1,9 @@
 import { isMobileViewport } from "./viewport";
 // File role: Browser-side programme reader; load canonical verses on demand while keeping programme order separate from source text.
 import type { BastaKalam } from "../lib/basta-kalam-units";
-import { bastaVerseClassNames, layoutBastaKalam } from "../lib/basta-text";
-import { layoutLyricStanzas } from "../lib/lyric-stanzas";
+import { renderBastaTextBlock } from "./basta-dom";
+import { layoutLyricStanzas, lyricStanzaClassNames, lyricLineClassName } from "../lib/lyric-stanzas";
+import { parseStanzaNumber } from "../lib/stanza-numbers";
 import { romanUnavailable } from "../lib/edition-availability";
 import { validateRecitationSet, type RecitationSet, type RecitationItem } from "../lib/recitation-set";
 import { readDrafts } from "./recitation-storage";
@@ -61,20 +62,14 @@ async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Poem> {
   catch (e) { poemCache.delete(key); throw e; }
 }
 function addBastaText(host: HTMLElement, text: string) {
-  const block = node("div", "basta-kalam-text");
-  for (const line of layoutBastaKalam(text, true).filter((item) => !item.hidden)) {
-    block.append(node("span", bastaVerseClassNames(line), line.text));
-  }
-  host.append(block);
+  host.append(renderBastaTextBlock(text));
 }
 function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerseLayout?: "pairs") {
   const block = node("div", "lyric-reading-text " + (isRoman ? "roman-lyrics-text" : "lyrics-text"));
   for (const stanza of layoutLyricStanzas(text)) {
-    const verseCount = stanza.filter((line) => !line.number).length;
-    const group = node("div", "lyric-stanza" + (verseCount === 6 ? " lyric-stanza-six" : "") +
-      (verseCount === 6 && sixVerseLayout === "pairs" ? " lyric-stanza-pairs" : ""));
+    const group = node("div", lyricStanzaClassNames(stanza, sixVerseLayout));
     for (const line of stanza) {
-      group.append(node("span", line.number ? "poetry-stanza-number" : "lyric-verse", line.text));
+      group.append(node("span", lyricLineClassName(line), line.text));
     }
     block.append(group);
   }
@@ -82,7 +77,7 @@ function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerse
 }
 function preface(roman: string): string {
   const lines = roman.split(/\r?\n/);
-  const first = lines.findIndex((line) => /^[0-9٠-٩۰-۹]+[.)۔-]?$/.test(line.trim()));
+  const first = lines.findIndex((line) => parseStanzaNumber(line) !== null);
   return lines.slice(0, first < 0 ? lines.length : first).join("\n").trim();
 }
 /**
