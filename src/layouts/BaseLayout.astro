@@ -24,7 +24,7 @@ import "@fontsource/markazi-text/arabic-400.css";
 import "@fontsource/markazi-text/arabic-700.css";
 import "@fontsource/noto-sans-arabic/arabic-400.css";
 import "@fontsource/noto-sans-arabic/arabic-700.css";
-import { FONT_CHOICES } from "../client/fonts";
+import { FONT_CHOICES, URDU_FONT_GROUPS } from "../client/fonts";
 import { PRESET_THEME_GROUPS, PRESET_THEME_NAMES, DARK_THEME_NAMES } from "../client/theme";
 import "../styles/core.css";
 
@@ -54,7 +54,7 @@ const aboutActive = path.startsWith("/about/");
 ---
 
 <!doctype html>
-<html lang="en" dir="ltr" data-theme="dark" data-pf-theme="dark">
+<html lang="en" dir="ltr" data-theme="auto" data-pf-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -77,7 +77,7 @@ const aboutActive = path.startsWith("/about/");
         let savedMode;
         try { savedMode = localStorage.getItem("theme"); } catch {}
         const mode = [...presetThemes, "custom"].includes(savedMode)
-          ? savedMode : (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+          ? savedMode : "auto";
         root.dataset.jsAvailable = "true";
         root.dataset.theme = mode;
         // Restore saved font choice before paint independently of colour themes.
@@ -145,7 +145,7 @@ const aboutActive = path.startsWith("/about/");
           })) root.style.setProperty(key, value);
           root.dataset.pfTheme = scheme;
         } else {
-          root.dataset.pfTheme = darkThemes.includes(mode) ? "dark" : "light";
+          root.dataset.pfTheme = (mode === "auto" ? matchMedia("(prefers-color-scheme: dark)").matches : darkThemes.includes(mode)) ? "dark" : "light";
         }
         const background = getComputedStyle(root).getPropertyValue("--site-background").trim();
         document.querySelector('meta[name="theme-color"]')?.setAttribute("content",
@@ -203,22 +203,47 @@ const aboutActive = path.startsWith("/about/");
         <div><h2 id="theme-dialog-heading">Appearance</h2><p>Make the archive comfortable to read on this device.</p></div>
         <button class="theme-dialog-close" id="theme-dialog-close" type="button" aria-label="Close appearance settings">×</button>
       </div>
-      <fieldset class="theme-presets">
-        <legend>Theme</legend>
-        {PRESET_THEME_GROUPS.map((group) => (
-          <>
-            <div class="theme-preset-group">{group.label}</div>
-            {group.themes.map((theme) => (
+      <div class="theme-pref-tabs" role="tablist" aria-label="Appearance settings">
+        <button type="button" role="tab" id="theme-colors-tab" aria-controls="theme-colors-panel" aria-selected="true" tabindex="0">Colors</button>
+        <button type="button" role="tab" id="theme-fonts-tab" aria-controls="theme-fonts-panel" aria-selected="false" tabindex="-1">Fonts</button>
+      </div>
+      <div id="theme-colors-panel" class="theme-panel" role="tabpanel" aria-labelledby="theme-colors-tab">
+        <p class="theme-current-label">Current theme: <strong id="theme-current-name">Auto (device)</strong></p>
+        <fieldset class="theme-presets">
+          <legend>Theme</legend>
+          <div class="theme-preset-grid">
+            {PRESET_THEME_GROUPS[0].themes.map((theme) => (
               <label class="theme-preset">
-                <input type="radio" name="theme-mode" value={theme.id} />
-                <span class="theme-preset-swatch" data-preset-swatch={theme.id} aria-hidden="true"></span>
-                {theme.label}
+                <span class="theme-preset-swatch" data-preset-swatch={theme.id} aria-hidden="true">
+                  <span class="theme-swatch-surface"><span class="theme-swatch-text">Aa</span><span class="theme-swatch-accent"></span></span>
+                </span>
+                <span class="theme-preset-label"><input type="radio" name="theme-mode" value={theme.id} />{theme.label}</span>
               </label>
             ))}
-          </>
-        ))}
-        <label class="theme-preset theme-preset-custom"><input type="radio" name="theme-mode" value="custom" /><span class="theme-preset-swatch" data-preset-swatch="custom" aria-hidden="true"></span>Custom</label>
-      </fieldset>
+          </div>
+          {PRESET_THEME_GROUPS.slice(1).map((group) => (
+            <details class="theme-preset-collection" data-theme-collection={group.label}>
+              <summary>{group.label} ({group.themes.length})</summary>
+              <div class="theme-preset-grid">
+                {group.themes.map((theme) => (
+                  <label class="theme-preset">
+                    <span class="theme-preset-swatch" data-preset-swatch={theme.id} aria-hidden="true">
+                      <span class="theme-swatch-surface"><span class="theme-swatch-text">Aa</span><span class="theme-swatch-accent"></span></span>
+                    </span>
+                    <span class="theme-preset-label"><input type="radio" name="theme-mode" value={theme.id} />{theme.label}</span>
+                  </label>
+                ))}
+              </div>
+            </details>
+          ))}
+          <label class="theme-preset theme-preset-custom">
+            <span class="theme-preset-swatch" data-preset-swatch="custom" aria-hidden="true">
+              <span class="theme-swatch-surface"><span class="theme-swatch-text">Aa</span><span class="theme-swatch-accent"></span></span>
+            </span>
+            <span class="theme-preset-label"><input type="radio" name="theme-mode" value="custom" />My Custom theme</span>
+          </label>
+          <button type="button" id="theme-edit-current" class="button button-secondary theme-edit-preset">Start Custom from this theme (replaces saved Custom)</button>
+        </fieldset>
       <fieldset class="theme-custom-fields" id="theme-custom-fields" hidden>
         <legend>Custom colours</legend>
         <p>Start with the selected theme, then adjust and save on this device.</p>
@@ -253,28 +278,47 @@ const aboutActive = path.startsWith("/about/");
             </span>
           </div>
         </details>
+        <div class="theme-contrast-results" id="theme-contrast-results" role="status" aria-live="polite">
+          <span id="theme-contrast-primary">Main text —</span>
+          <span id="theme-contrast-muted">Muted text —</span>
+          <span id="theme-contrast-button">Button text —</span>
+        </div>
         <p class="theme-contrast-note" id="theme-contrast-note" role="status" aria-live="polite" hidden></p>
         <button type="button" id="theme-reset-custom" class="button button-secondary">Reset custom colours</button>
       </fieldset>
+        <button type="button" id="theme-colors-default" class="button button-secondary theme-reset-default">Restore website defaults (colors)</button>
+      </div>
+      <div id="theme-fonts-panel" class="theme-panel" role="tabpanel" aria-labelledby="theme-fonts-tab" hidden>
       <fieldset class="theme-fonts">
         <legend>Reading fonts</legend>
         <p>Choose how Urdu and Roman Urdu poetry looks. Your choice applies to every reading view.</p>
         <label for="theme-urdu-font">Urdu
           <select id="theme-urdu-font">
-            {FONT_CHOICES.urdu.map((option) => <option value={option.value} selected={option.value === "nastaliq"}>{option.label}</option>)}
+            {URDU_FONT_GROUPS.map((group) => (
+              <optgroup label={group.label}>
+                {FONT_CHOICES.urdu.filter((option) => group.values.some((value) => value === option.value)).map((option) => (
+                  <option value={option.value} selected={option.value === "nastaliq"}>{option.label}</option>
+                ))}
+              </optgroup>
+            ))}
           </select>
         </label>
-        <p id="theme-urdu-preview" class="theme-font-preview" lang="ur" dir="rtl">یہ ایک نمونہ ہے</p>
+        <p id="theme-urdu-preview" class="theme-font-preview" lang="ur" dir="rtl">دل کی صدا میں روشنی، لفظوں میں ایک دعا
+            راہِ وفا میں ہر قدم، دل سے نکلے مدعا</p>
         <label for="theme-roman-font">English / Roman Urdu
           <select id="theme-roman-font">
             {FONT_CHOICES.roman.map((option) => <option value={option.value} selected={option.value === "sans"}>{option.label}</option>)}
           </select>
         </label>
-        <p id="theme-roman-preview" class="theme-font-preview" lang="en">Sample reading text</p>
-        <p class="theme-font-note">Alvi Nastaleeq needs to be installed on your device. Otherwise, the default Urdu font is shown.</p>
+        <p id="theme-roman-preview" class="theme-font-preview" lang="en">Dil Ki Sada Mein Roshni, Lafzon Mein Ek Dua
+            Rah-e-Wafa Mein Har Qadam, Dil Se Nikle Mudda</p>
+        <p class="theme-font-note" id="theme-font-install-note" hidden>Alvi Nastaleeq needs to be installed on your device. Otherwise, the default Urdu font is shown.</p>
       </fieldset>
+        <button type="button" id="theme-fonts-default" class="button button-secondary theme-reset-default">Restore website defaults (fonts)</button>
+      </div>
       <div class="theme-dialog-footer">
-        <button type="button" id="theme-dialog-done" class="button">Done</button>
+        <p class="theme-save-note">Changes save automatically</p>
+        <button type="button" id="theme-dialog-done" class="button">Close</button>
       </div>
     </dialog>
 
