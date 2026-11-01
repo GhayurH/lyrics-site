@@ -91,7 +91,7 @@ test("mobile single-edition Focus starts with stanza one via link and button @sm
   }
 });
 
-test("Urdu and Roman kalam titles are centered and theme-aware in every reading layout @smoke", async ({ page }) => {
+test("Urdu and Roman kalam titles are centered and theme-aware in every reading layout", async ({ page }) => {
   const assertTitle = async (selector) => {
     const title = page.locator(selector).first();
     await expect(title).toBeVisible();
@@ -283,7 +283,7 @@ test("all text-edition combinations remain readable across themes and responsive
   await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
 });
 
-test("rotation and Focus exit retain an actual continuous page rather than the book top @smoke", async ({ page }) => {
+test("rotation and Focus exit retain an actual continuous page rather than the book top", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138");
   const target = page.locator('[data-basta-page="138"]');
@@ -356,7 +356,7 @@ test("parallel Basta keeps the shorter Roman edition fully visible and scrolls o
 
 });
 
-test("stacked and single-column editions use only document scrolling @smoke", async ({ page }) => {
+test("stacked and single-column editions use only document scrolling", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/138/");
   const roman = page.locator(".basta-page-roman");
@@ -523,7 +523,7 @@ test("a floating scan is never selected for text-column scrolling", async ({ pag
   await expect(scan).not.toHaveAttribute("data-synced-scrollable", "true");
 });
 
-test("image viewer centres narrow scans and pans horizontally and vertically when zoomed @smoke", async ({ page }) => {
+test("image viewer centres narrow scans and pans horizontally and vertically when zoomed", async ({ page }) => {
   await page.setViewportSize({ width: 900, height: 720 });
   // Mock the external R2 scan so geometry is deterministic in preview builds.
   await page.route("**/images/basta/original/138.png", (route) =>
