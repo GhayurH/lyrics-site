@@ -59,3 +59,30 @@ test("JSON library backup validates and restores only allowlisted data", async (
   await expect.poll(async () => page.evaluate(() => JSON.parse(localStorage.getItem("kalam:favorites") || "[]").length))
     .toBe(2);
 });
+
+test("individual verified Basta kalams support source navigation and archive facets", async ({ page }) => {
+  await page.goto("/basta/kalams/");
+  const link = page.locator('a[href^="/basta/kalam/"]').first();
+  await expect(link).toBeVisible();
+  await link.click();
+  await expect(page.locator('[data-pagefind-filter="collection"]')).toHaveText("Basta");
+  await expect(page.locator('[data-pagefind-filter="kalamType"]')).toBeVisible();
+  await expect(page.locator("[data-reading-root]")).toBeVisible();
+  const details = page.locator(".basta-kalam-source-map");
+  if (await details.count()) {
+    await details.locator("summary").click();
+    const original = details.locator('a[href^="#scan-page-"]').first();
+    await expect(original).toBeVisible();
+    await original.click();
+    expect(new URL(page.url()).hash).toMatch(/^#scan-page-\d+$/);
+  }
+});
+test("offline search index is complete and generated after Pagefind build", async ({ request }) => {
+  const response = await request.get("/data/offline-search-assets.json");
+  expect(response.ok()).toBe(true);
+  const data = await response.json();
+  expect(data.version).toBe(1);
+  expect(data.totalBytes).toBeGreaterThan(0);
+  expect(data.files.length).toBeGreaterThan(0);
+  expect(data.files.every((path) => /^\/pagefind\//.test(path))).toBe(true);
+});

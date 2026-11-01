@@ -71,3 +71,5 @@ Programme templates are saved locally, never published. A template creates a fre
 Published edits require the revision returned by the server. Simultaneous organizer tabs get a 409 conflict instead of silently overwriting the previous update. Duplicate a local draft before refreshing if it contains unsent changes. Live-step updates also use document compare-and-swap.
 
 Saved & recent provides a versioned JSON backup/import, including local templates and private organizer edit links, and an optional offline cache for saved pages. Backups must be kept private. Original R2 scans and live published programmes still need a connection.
+
+Starter templates now offer guided genre stages. **Start with sample kalams** inserts explicitly marked examples from verified sources, not authoritative programme recommendations; every selection should be reviewed before publishing. Live navigation also requires the current server revision and rejects stale organizer tabs.

@@ -29,3 +29,11 @@ For each: Light, Dark, Sepia, Custom high-contrast and AMOLED, default Nastaliq 
 Record cold/mobile network CSS/JS/font requests, LCP and cumulative layout shift using browser Performance tooling. `npm run perf:assets` reports emitted asset size and reveals unusually large compiled assets; it does not claim network transfer size or font usage.
 
 Do not mark any item as manually verified solely because Chromium CI passed.
+
+## Implemented vs. physical-device work
+
+- Browser tests automatically check 320×568 through 1440×900 geometry, reader-focus keyboard access, saved-data import, searchable individual kalams and source anchor links.
+- At extreme desktop/browser magnification and mobile pinch zoom, verses that would shrink below 16 px retain their single-line structure but become individually keyboard-pannable, rather than reducing text indefinitely.
+- `tests/browser/performance.spec.mjs` measures actual navigation FCP/LCP, layout shift and resource transfer sizes in Chromium. Run `npm run perf:browser` after building.
+- Run `npm run basta:kalams:review` to get a linked editorial queue for the 29 unverified kalams and unassigned source fragments; review each source image before assigning boundaries.
+- Actual devices, assistive technologies, original printed scan region coordinates, and mobile-network throttling require human verification. Automated CI is not evidence these manual checks occurred.

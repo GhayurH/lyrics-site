@@ -69,3 +69,9 @@ Reserve scan dimensions and lazy-load R2 assets. Use `content-visibility` for of
 Verified Basta kalams have permanent `/basta/kalam/[id]/` URLs and appear in `/basta/kalams/`; original page routes remain stable. Correction actions on individual lyric, Basta page, and kalam routes open a contextual email draft; there is no submission service or new database.
 
 `client/library-backup.ts` owns the explicit versioned allowlist of browser-local data for export/import. `public/sw.js` handles explicitly saved offline pages without caching `/api/` routes or edit tokens. `client/recitation-templates.ts` owns private reusable programme templates. `lib/search-normalization.ts` supplies alias tokens to Pagefind without changing source poem text.
+
+### Offline search and source review
+
+`public/sw.js` handles opt-in page, scan and Pagefind caches separately. `scripts/generate-offline-search-manifest.mjs` builds the complete same-origin Pagefind asset list after indexing. A cache-status UI and clearing controls live on Saved & recent. Source scans may be R2 redirects, so the worker uses opaque responses only for explicit scan requests; publication APIs are never cached.
+
+Optional font-face styles are loaded on selection via `client/font-assets.ts`, while the default Nastaliq and Naskh fonts load with the site shell. Reader spacing and anchors live in `styles/reading-utilities.css`, separate from edition-grid geometry in `reading-columns.css`. `npm run basta:kalams:review` links unresolved source fragments to printed scans without assigning or renumbering uncertain OCR material.
