@@ -21,7 +21,7 @@ src/
   styles/          Global primitives and feature-owned CSS
 ```
 
-`src/layouts/BaseLayout.astro` owns the site shell, not feature CSS. `src/client/storage.ts` owns browser-storage parsing and keys; other controllers should not independently implement storage formats. `src/content.config.ts` defines lyric metadata, including required `kalamType`.
+`src/layouts/BaseLayout.astro` owns the site shell, not feature CSS. `src/client/storage.ts` owns browser-local favourites, recent history, and reading-state persistence primitives; `src/client/theme.ts` and `src/client/fonts.ts` own their separate validated appearance preferences, so either Appearance reset can leave the other settings intact. `src/content.config.ts` defines lyric metadata, including required `kalamType`.
 
 ## Styling and shared components
 
