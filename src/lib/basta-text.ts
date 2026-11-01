@@ -38,7 +38,7 @@ export interface BastaDisplayLine {
   reverseIndent?: boolean;
   /** Verse status is retained separately from title-fitting. */
   verse: boolean;
-  /** Actual poem titles also use single-line justification/fitting. */
+  /** Actual poem titles remain on one line and participate in width fitting. */
   title?: boolean;
   /** A rule starts each couplet after the first in a two-verse poem. */
   coupletSeparator?: boolean;
@@ -126,7 +126,7 @@ export function layoutBastaKalam(
     );
   const usesCouplets = style === "couplet" || inferredCouplets;
 
-  // Justify the poem's opening title, not the section heading or poet's
+  // Identify the poem's opening title, not the section heading or poet's
   // name. The title normally repeats as the first line of the verse block.
   for (const index of prefaceBlocks) {
     const block = blocks[index];
@@ -261,6 +261,7 @@ export function bastaVerseClassNames(line: BastaDisplayLine): string {
     line.reverseIndent && "basta-verse-reverse-indent",
     (line.verse || line.title) && "basta-verse-poetry",
     line.title && "basta-kalam-title",
+    line.title && "kalam-reading-title",
     line.coupletSeparator && "basta-couplet-separator",
     line.sixClosingStart && "basta-six-closing-start",
     line.sixClosingEnd && "basta-six-closing-end",
