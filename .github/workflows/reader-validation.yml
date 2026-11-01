@@ -82,7 +82,7 @@ jobs:
         run: npm run basta:kalams:review > basta-review.md
       - name: Save editorial review queue
         if: steps.test_mode.outputs.full == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: basta-editorial-review
           path: basta-review.md
@@ -104,7 +104,7 @@ jobs:
           fi
       - name: Save failing browser screenshots and traces
         if: failure()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: reader-browser-failure
           path: test-results/
