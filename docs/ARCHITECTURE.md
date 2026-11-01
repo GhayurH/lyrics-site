@@ -1,6 +1,6 @@
 # Architecture
 
-This document owns implementation boundaries and reader behavior. See [CONTRIBUTING.md](CONTRIBUTING.md) for source-editing rules, [ASSET_WORKFLOW.md](ASSET_WORKFLOW.md) for R2 operations, and [RECITATION_SETS.md](RECITATION_SETS.md) for programme storage and authorization.
+This document owns implementation boundaries and reader behavior. See [CONTRIBUTING.md](CONTRIBUTING.md) for source-editing rules, [ASSET_WORKFLOW.md](ASSET_WORKFLOW.md) for R2 operations, and [RECITATION_SETS.md](RECITATION_SETS.md) for programme behavior and authorization, and [RECITATION_OPERATIONS.md](RECITATION_OPERATIONS.md) for Cloudflare operations.
 
 ## Principles and source layout
 
@@ -21,23 +21,31 @@ src/
   styles/          Global primitives and feature-owned CSS
 ```
 
-`src/layouts/BaseLayout.astro` owns the site shell, not feature CSS. `src/client/storage.ts` owns browser-storage parsing and keys; other controllers should not independently implement storage formats. `src/content.config.ts` defines lyric metadata, including required `kalamType`.
+`src/layouts/BaseLayout.astro` owns the site shell, not feature CSS. `src/client/storage.ts` owns browser-local favourites, recent history, and reading-state persistence primitives; `src/client/theme.ts` and `src/client/fonts.ts` own their separate validated appearance preferences, so either Appearance reset can leave the other settings intact. `src/content.config.ts` defines lyric metadata, including required `kalamType`.
 
 ## Styling and shared components
 
-`src/styles/tokens.css` owns shared design decisions: light, dark, AMOLED Dark, Sepia, and Custom colour roles; content and reader widths; Urdu/Roman sizes and line spacing; tap targets; radii; and the theme-aware `--ui-border` hairline. `src/styles/core.css` imports the tokens and owns the shell, resets, and shared UI primitives. The interface itself uses `--font-ui` and never changes with reader font preferences; Urdu and Roman poetry use separate `--font-urdu` and `--font-roman` tokens across every reader. Feature CSS belongs to its route. Use semantic tokens for genuinely shared decisions, but retain local values for unique components and their one-off measurements.
+`src/styles/tokens.css` owns shared design decisions: device-following Auto, Light, Dark, AMOLED Dark, Sepia, curated reading palettes, and Custom colour roles; content and reader widths; Urdu/Roman sizes and line spacing; tap targets; radii; and the theme-aware `--ui-border` hairline. `src/styles/core.css` imports the tokens and owns the shell, resets, and shared UI primitives. The Appearance UI lives in `src/components/AppearanceDialog.astro`, its browser controller in `src/client/appearance.ts`, and its styling in `src/styles/appearance.css`. `src/client/site.ts` owns the separate navigation, sticky-header and favourite behaviours. The interface itself uses `--font-ui` and never changes with reader font preferences; Urdu and Roman poetry use separate `--font-urdu` and `--font-roman` tokens across every reader. Feature CSS belongs to its route. Use semantic tokens for genuinely shared decisions, but retain local values for unique components and their one-off measurements.
 
-Content width roles are `--content-wide` (site), `--content-reading` (readers), `--content-feature` (72rem landing sections), `--content-intro` (52rem introductions), `--content-compact` (42rem text), and `--reading-single-width`/`--reading-scan-width` (individual reading columns). Control borders use `--ui-border`, which resolves against the current theme and is re-scoped for the Appearance dialog. `--site-header-fallback-height` provides a shared pre-measurement value for the sticky site header. Radius tokens distinguish compact controls, general controls, cards, and panels. Do not promote unrelated matching values to global tokens solely because their numbers happen to match.
+Content width roles are `--content-wide` (site), `--content-reading` (readers), `--content-feature` (72rem landing sections), `--content-intro` (52rem introductions), `--content-compact` (42rem text), and `--reading-single-width`/`--reading-scan-width` (individual reading columns). Control borders use `--ui-border`, which resolves against the current theme and is re-scoped for the Appearance dialog. Shared control height, padding, and font size use `--ui-target`, `--ui-control-padding`, and `--ui-control-font-size`. `--site-header-fallback-height` provides a shared pre-measurement value for the sticky site header. Radius tokens distinguish compact controls, general controls, cards, and panels. Do not promote unrelated matching values to global tokens solely because their numbers happen to match.
 
-The **46rem reader-shell stack threshold** (and its 46.01rem parallel counterpart) belongs only in `reading-columns.css`. Ordinary mobile viewport defaults share the 700px query from `src/client/viewport.ts`; media/container query conditions remain in their owning CSS because custom properties are unsupported inside those conditions. `tests/design-tokens.test.mjs` checks token ownership and breakpoint consistency. Retain the mobile portrait Basta grid exception until layout equivalence has been verified across the continuous and page-by-page readers.
-
-### Appearance
-
-`BaseLayout.astro` provides a compact Appearance dialog and a pre-paint theme bootstrap. `src/client/theme.ts` validates and saves the chosen mode and Custom palette in browser storage, synchronizes Pagefind's compatible light/dark mode, and calculates accessible text/button contrast. Custom exposes **Main** (page), **Secondary** (panels), and **Accent** (buttons), plus an optional Advanced section with Auto/manual **Primary text**, **Muted text**, and **Borders**. On entry from a preset, Auto starts with that preset's exact text and border colours; changing Custom backgrounds recalculates Auto contrast. Reset returns to the source preset's palette; invalid saved values are rejected. The editor itself keeps readable colour roles even when the user chooses low-contrast page text.
+The **46rem reader-shell stack threshold** (and its 46.01rem parallel counterpart) belongs only in `reading-columns.css`. Ordinary mobile viewport defaults share the 700px query from `src/client/viewport.ts`; media/container query conditions remain in their owning CSS because custom properties are unsupported inside those conditions. `tests/design-tokens.test.mjs` checks token ownership and breakpoint consistency. The mobile portrait Basta grid is an intentional page-by-page exception; do not remove it without verifying both the continuous and page-by-page layouts.
 
 Readers import the shared `reading-columns.css` (edition grids, container queries, and toolbar placement), `reading-focus.css` (Focus Mode), and `scan-viewer.css` (zoomable scans) through `ReadingControls.astro`. Do not add competing route-local edition grids or rebuild an override stack; consolidate CSS only when specificity, conditions, and cascade still agree. `basta.css` is the one shared Basta text stylesheet.
 
 `src/lib/catalog.ts` defines `LyricCardData`. `LyricCard.astro` and `src/client/lyric-card.ts` share that model, class contract, and bookmark attributes. Extend the model rather than maintaining separate card designs.
+
+### Appearance
+
+`BaseLayout.astro` owns the pre-paint appearance bootstrap, while `AppearanceDialog.astro` renders the tabbed **Colors / Fonts** menu and `appearance.ts` handles its state and interactions. `src/client/theme.ts` owns the allowlisted theme IDs and palette validation, while `tokens.css` owns preset values and the four-role preview swatches in `appearance.css` reference those same tokens. **Auto (device)** follows OS light/dark changes, including while the page is open; Pagefind and the browser theme colour follow the resolved appearance. Theme and font preferences save separately in browser storage.
+
+**My Custom theme** reopens saved colours without overwriting them. **Start Custom from this theme** explicitly copies the active preset, including its text/border roles; changing Custom backgrounds recalculates automatic foregrounds. Custom exposes page, panel, and accent colours plus optional manual primary/muted text and borders, with live contrast information. **Reset custom colours** restores the Custom starting palette; **Restore website defaults (colors)** clears only colour settings and returns to device-following Auto, while the Fonts reset restores only default Urdu/Roman selections. Invalid stored CSS values are rejected, and the editor remains legible even if page text is configured with poor contrast.
+
+### Reading fonts and licensing
+
+`src/client/fonts.ts` is the allowlist for Urdu and Roman fonts. The layout embeds the allowlist from this module into its early inline bootstrap to restore saved choices before the first paint, without maintaining a second list. `system` is a legacy Roman option and is normalized to `sans` (the system-default font). The Appearance dialog uses short Urdu and Roman sample text for font previews without changing navigation or form typography. Urdu options are grouped by script style in `URDU_FONT_GROUPS`; the canonical allowlist stays alphabetical and is shared with first-paint restoration.
+
+Fontsource fonts are hosted locally. The OFL-licensed Beaconhouse Nastaliq file, license, and source notice remain together in `public/fonts/beaconhouse-nastaliq/`. Alvi Nastaleeq must not be bundled because of its redistribution restrictions; use an installed font with Noto Nastaliq fallback.
 
 ## Reader contract
 
@@ -69,24 +77,15 @@ The Saved/Recent catalog is fetched on demand from `/data/saved-catalog.json`, n
 
 ## Recitation Sets boundary
 
-`recitation-builder.ts` owns draft editing and publication; `recitation-workflow.ts` enhances builder navigation; `recitation-reader.ts` resolves source poetry without changing it; `recitation-export.ts` produces portable offline/print HTML. Shared source identifiers and set validation live under `src/lib/` and `src/data/recitation/`.
+`recitation-builder.ts` owns draft editing and publication; `recitation-catalog.ts` owns the separate, cached lyric/Basta source lookup and metadata; `recitation-workflow.ts` enhances builder navigation; `recitation-reader.ts` resolves source poetry without changing it; `recitation-export.ts` produces portable offline/print HTML. Shared source identifiers and set validation live under `src/lib/` and `src/data/recitation/`.
 
 The Recitation Sets builder keeps Plan and Find usable without a forced wizard. Publication controls show an accessible disabled explanation before a valid title and at least one kalam exist; sharing and retention choices progressively expand once publishable, or when deliberately opened from the Share step. Searching the unfiltered catalog starts with a short batch, with a Show more control.
 
-Published programme documents and hashed private edit credentials use Cloudflare D1 through Pages Functions under `functions/`; source Markdown, scanned assets, and browsing remain static. `public/_routes.json` restricts dynamic invocation, root `wrangler.toml` configures Pages, and `workers/` contains independent scheduled cleanup. The [Recitation Sets reference](RECITATION_SETS.md) owns the schema, retention, exports, edit permissions, and deployment procedure.
+Published programme documents and hashed private edit credentials use Cloudflare D1 through Pages Functions under `functions/`; source Markdown, scanned assets, and browsing remain static. `public/_routes.json` restricts dynamic invocation, root `wrangler.toml` configures Pages, and `workers/` contains independent scheduled cleanup. [Recitation Sets](RECITATION_SETS.md) owns source identity, retention, exports, and permissions; [operations](RECITATION_OPERATIONS.md) owns deployment and database maintenance.
 
-## Performance and validation boundaries
+## Performance boundaries
 
 - Lazy-load noncritical R2 scans with reserved dimensions and async decoding; retain the original direct URLs.
 - Use `content-visibility` for off-screen continuous-reader content when supported, and avoid measuring distant reader panels during scrolling.
 - Do not load the full Saved catalog, entire Basta book, or Pagefind JavaScript in unrelated initial HTML.
-- Keep browser tests focused on distinct user-facing contracts: navigation, responsive geometry, unavailable editions, no-JavaScript access, and source/streamed markup parity. The smaller `@smoke` group covers core journeys, while full-only tests retain unusual viewports and feature-specific regressions. Ordinary PR commits run the build and Node checks; use `[smoke-ci]` or `[full-ci]` to select browser coverage as documented in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
-
-Validation commands and CI conditions are documented once in [CONTRIBUTING.md](CONTRIBUTING.md#validation).
-
-
-### Font assets and saved preferences
-
-`src/client/fonts.ts` is the allowlist for Urdu and Roman fonts. The layout embeds the allowlist from this module into its early inline bootstrap to restore saved choices before the first paint, without maintaining a second list. `system` is a legacy Roman option and is normalized to `sans` (the system-default font). The Appearance dialog previews poetry fonts without applying them to site navigation or forms.
-
-Fontsource fonts are hosted locally. The OFL-licensed Beaconhouse Nastaliq file, license, and source notice remain together in `public/fonts/beaconhouse-nastaliq/`. Alvi Nastaleeq must not be bundled because of its redistribution restrictions; use an installed font with Noto Nastaliq fallback.
+Browser test selection, CI markers, and validation commands are maintained in one place: [Contributing — Validation](CONTRIBUTING.md#validation).

@@ -24,6 +24,14 @@ export const FONT_CHOICES = {
     { value: "source-sans", label: "Source Sans 3" },
   ],
 } as const;
+/** Display groups are alphabetic within each letterform family.
+ * Stored IDs and the master alphabetical allowlist stay unchanged. */
+export const URDU_FONT_GROUPS = [
+  { label: "Nastaliq", values: ["alvi", "beaconhouse", "gulzar", "nastaliq"] },
+  { label: "Naskh and classical", values: ["amiri", "lateef", "markazi", "naskh", "scheherazade"] },
+  { label: "Modern sans", values: ["noto-sans-arabic"] },
+] as const;
+
 export type FontPreferences = {
   urdu: (typeof FONT_CHOICES.urdu)[number]["value"];
   roman: (typeof FONT_CHOICES.roman)[number]["value"];

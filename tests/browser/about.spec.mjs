@@ -28,7 +28,7 @@ test("About explains the archive and offers bilingual routes and contact @smoke"
   await expect(page.locator("#contact")).toBeInViewport();
 });
 
-test("About reflows with readable Urdu and a usable email link on mobile and landscape @smoke", async ({ page }) => {
+test("About reflows with readable Urdu and a usable email link on mobile and landscape", async ({ page }) => {
   await page.goto("/about/");
   for (const viewport of [
     { width: 320, height: 640 },

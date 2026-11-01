@@ -6,8 +6,15 @@
 .lyric-header h1[lang="ur"] { line-height: 1.9; }
 .lyric-header-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 1.5rem; }
 .lyric-title-block { min-width: 0; flex: 1; }
-.lyric-header-actions { display: flex; align-items: center; flex: 0 0 auto; flex-wrap: wrap; gap: 0.55rem; }
-.lyric-add-recitation { display: inline-flex; align-items: center; min-height: var(--ui-target); padding: .45rem .7rem; border: var(--ui-border); border-radius: .5rem; font-size: .83rem; font-weight: 650; text-decoration: none; }
+.lyric-header-actions { display: flex; align-items: stretch; flex: 0 0 auto; flex-wrap: wrap; gap: .55rem; }
+/* Treat Save and Add to set as one action group, including with large text. */
+.lyric-header-actions > :is(.favorite-button, .lyric-add-recitation) {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-height: var(--ui-target); padding: var(--ui-control-padding);
+  border-radius: var(--ui-radius-tight); font-size: var(--ui-control-font-size);
+  font-weight: 700; line-height: 1.3;
+}
+.lyric-add-recitation { border: var(--ui-border); text-decoration: none; }
 .lyric-add-recitation:hover { background: var(--tag-background); }
 .alternate-title { color: var(--secondary-text); font-size: 1.15rem; }
 
@@ -144,7 +151,7 @@
 
 /* Metadata remains one tap away, but does not dominate the reading area. */
 .lyric-metadata-disclosure { margin: .7rem 0 0; max-width: var(--reading-single-width); }
-.lyric-metadata-disclosure summary { width: fit-content; min-height: 2.5rem; padding: .5rem .65rem; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); cursor: pointer; font-size: .85rem; }
+.lyric-metadata-disclosure summary { width: fit-content; min-height: var(--ui-target); padding: .5rem .65rem; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); cursor: pointer; font-size: .85rem; }
 .lyric-metadata-disclosure summary strong { font-weight: 700; }
 .lyric-metadata-disclosure summary span { color: var(--secondary-text); margin-inline-start: .4rem; }
 .lyric-metadata-disclosure .lyric-details { margin: 1rem 0 0; }

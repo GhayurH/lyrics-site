@@ -1,6 +1,6 @@
 # Coding agent instructions
 
-This is the short operational entry point. Canonical details live in [CONTRIBUTING.md](docs/CONTRIBUTING.md) (content and validation), [ARCHITECTURE.md](docs/ARCHITECTURE.md) (implementation boundaries), [ASSET_WORKFLOW.md](docs/ASSET_WORKFLOW.md) (R2), and [RECITATION_SETS.md](docs/RECITATION_SETS.md) (source IDs and programme storage).
+This is the short operational entry point. Canonical details live in [CONTRIBUTING.md](docs/CONTRIBUTING.md) (content and validation), [ARCHITECTURE.md](docs/ARCHITECTURE.md) (implementation boundaries), [ASSET_WORKFLOW.md](docs/ASSET_WORKFLOW.md) (R2), and [RECITATION_SETS.md](docs/RECITATION_SETS.md) (source IDs and programme behavior), and [RECITATION_OPERATIONS.md](docs/RECITATION_OPERATIONS.md) (D1 and scheduled cleanup).
 
 ## Non-negotiable invariants
 
@@ -13,7 +13,7 @@ This is the short operational entry point. Canonical details live in [CONTRIBUTI
 - Keep static and streamed Basta markup consistent; keep scan links usable without JavaScript and missing editions explicit.
 - Roman Urdu uses **Husain**, **Hasan**, and Urdu final **-e** (e.g., `بولے` → `bole`), except where Punjabi pronunciation applies. Capitalize each word in Roman titles. Follow the reviewed refrain rules in [CONTRIBUTING.md](docs/CONTRIBUTING.md#urdu-and-roman-urdu).
 - Keep browsing/search/static assets out of Pages Functions; Pagefind loads only on the Search route. Browser reading history, bookmarks, and drafts stay local.
-- Put shared semantic design values in `src/styles/tokens.css`, global primitives in `core.css`, and route styling in feature CSS. Add purposeful `File role:` comments; remove obsolete WIP commentary.
+- Put shared semantic design values in `src/styles/tokens.css`, global primitives in `core.css`, Appearance UI in `appearance.css` / `AppearanceDialog.astro` / `appearance.ts`, and route styling in feature CSS. Keep recitation source loading in `recitation-catalog.ts` separate from programme editor state. Add purposeful `File role:` comments; remove obsolete WIP commentary.
 
 ## Before committing
 

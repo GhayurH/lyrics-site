@@ -4,10 +4,10 @@
 .reading-focus-enter { margin-inline: 0; }
 /* Each selection's *entire* cell (not just the text) is its checked surface. */
 .reading-column-choices { display: flex; flex-wrap: nowrap; overflow: hidden; width: 100%; border: var(--ui-border); border-radius: var(--ui-radius-tight); }
-.reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: 2.25rem; border-inline-end: var(--ui-border); cursor: pointer; }
+.reading-column-choice { display: flex; align-items: stretch; position: relative; flex: 1 1 0; min-width: 0; min-height: var(--ui-target); border-inline-end: var(--ui-border); cursor: pointer; }
 .reading-column-choice:last-child { border-inline-end: 0; }
 .reading-column-choice input { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
-.reading-column-choice span { display: flex; flex: 1 1 auto; align-items: center; justify-content: center; width: 100%; min-width: 0; min-height: 2.25rem; padding: .3rem .35rem; font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; }
+.reading-column-choice span { display: flex; flex: 1 1 auto; align-items: center; justify-content: center; width: 100%; min-width: 0; min-height: var(--ui-target); padding: .3rem .35rem; font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; }
 .reading-column-choice input:checked + span { background: var(--button-background); color: var(--button-text); }
 .reading-column-choice input:focus-visible + span { outline: var(--focus-ring); outline-offset: -3px; }
 .reading-page-jump { display: flex; align-items: center; gap: .4rem; }
@@ -286,7 +286,7 @@ html[data-reading-toc-open="true"] .reading-contents-button { background: var(--
 }
 
 .reading-current-page { align-self: center; padding: .25rem .5rem; color: var(--secondary-text); font-size: .8rem; font-weight: 700; white-space: nowrap; }
-.reading-open-page { align-self: center; border-radius: .45rem; padding: .45rem .6rem; color: var(--primary-text); font-size: .83rem; text-underline-offset: .2em; }
+.reading-open-page { display: inline-flex; align-items: center; align-self: center; min-height: var(--ui-target); border-radius: var(--ui-radius-tight); padding: var(--ui-control-padding); color: var(--primary-text); font-size: var(--ui-control-font-size); text-underline-offset: .2em; }
 .reading-open-page:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 html[data-reading-focus="true"] .reading-controls > .reading-open-page { display: none; }
 html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-open-page { display: inline-flex; order: 3; pointer-events: auto; }
@@ -381,7 +381,13 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
 
 /* Mobile regular reading has one compact row by default. Focus mode owns its
    own Options button and must not inherit the non-immersive visibility rules. */
-.reading-regular-toggle { display: none; }
+.reading-regular-toggle {
+  display: none; align-items: center; justify-content: center;
+  min-height: var(--ui-target); border: var(--ui-border);
+  border-radius: var(--ui-radius); padding: var(--ui-control-padding);
+  background: var(--surface-background); color: var(--primary-text);
+  font: inherit; font-size: var(--ui-control-font-size); font-weight: 700; cursor: pointer;
+}
 @media (max-width: 700px) {
   html:not([data-reading-focus="true"]) .reading-controls {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -391,13 +397,8 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
     grid-column: 1; grid-row: 1;
   }
   html:not([data-reading-focus="true"]) .reading-controls > .reading-regular-toggle {
-    display: block;
+    display: inline-flex;
     grid-column: 2; grid-row: 1;
-    min-height: var(--ui-target);
-    border: var(--ui-border); border-radius: .5rem;
-    background: var(--surface-background); color: var(--primary-text);
-    font: inherit; font-size: .85rem; font-weight: 700;
-    cursor: pointer;
   }
   .reading-regular-toggle [data-reading-regular-indicator] { margin-inline-start: .3rem; }
   html:not([data-reading-focus="true"]) .reading-controls:not([data-regular-options-open="true"])
@@ -502,13 +503,10 @@ html[data-reading-focus="true"] .reading-controls[data-reading-options-open="tru
   border: 0; border-top: var(--ui-border);
   border-radius: 0; background: transparent; gap: .6rem;
 }
-.reading-context-nav .basta-nav-button { min-height: 2.5rem; padding: .35rem .6rem; font-size: .84rem; }
+.reading-context-nav .basta-nav-button { min-height: var(--ui-target); padding: .35rem .6rem; font-size: .84rem; }
 .reading-context-nav .basta-jump-form label span { font-size: .72rem; }
-.reading-context-nav .basta-jump-form input { width: 5rem; min-height: 2.5rem; }
-.reading-context-nav .basta-jump-form button { min-height: 2.5rem; }
-@media (pointer: coarse) {
-  .reading-column-choice, .reading-column-choice span { min-height: var(--ui-target); }
-}
+.reading-context-nav .basta-jump-form input { width: 5rem; min-height: var(--ui-target); }
+.reading-context-nav .basta-jump-form button { min-height: var(--ui-target); }
 @media (max-width: 700px) {
   .reading-controls > .reading-context-nav { grid-column: 1 / -1; grid-row: 2; }
   .reading-context-nav .basta-pager { grid-template-columns: auto minmax(0, 1fr) auto; gap: .35rem; }
@@ -570,11 +568,7 @@ html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-
    folds only edition and spacing settings. */
 @media (min-width: 701px) {
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-regular-toggle {
-    display: inline-flex; align-items: center; justify-content: center;
-    min-height: var(--ui-target); border: var(--ui-border);
-    border-radius: var(--ui-radius); padding: .4rem .7rem;
-    background: var(--surface-background); color: var(--primary-text);
-    font: inherit; font-size: .83rem; font-weight: 700; cursor: pointer;
+    display: inline-flex;
   }
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"]:not([data-regular-options-open="true"])
     > .reading-control-group { display: none !important; }
@@ -582,6 +576,5 @@ html[data-reading-focus="true"] .lyric-reading-grid > .lyric-reading-image[data-
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > :is(.reading-current-page,.reading-open-page,.reading-page-jump,.reading-contents-button) { order: 3; }
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-context-nav { order: 4; }
   html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-bookmark-page { order: 3; }
-  html:not([data-reading-focus="true"]) .reading-controls[data-reader-compact="true"] > .reading-page-jump :is(input,button) { min-height: 2.45rem; }
 }
 html[data-reading-focus="true"] .reading-regular-toggle { display: none !important; }

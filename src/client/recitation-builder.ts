@@ -1,24 +1,13 @@
 // File role: Browser-side programme editor for selecting, arranging, and publishing kalams. The canonical archive is never modified.
-import type { BastaKalam, BastaStanza } from "../lib/basta-kalam-units";
+import type { BastaStanza } from "../lib/basta-kalam-units";
 import type { RecitationDraft, RecitationItem, StanzaRef, RecitationSet } from "../lib/recitation-set";
+import { catalogById, getCatalog, loadBasta, loadCatalog } from "./recitation-catalog";
 import { validateRecitationSet } from "../lib/recitation-set";
 import {
   createLocalDraft, draftFromRemote, draftUrl, duplicateDraft, editorUrl,
   findRemoteDraft, publicUrl, readDrafts, readerUrl, removeDraft, saveDraft,
 } from "./recitation-storage";
 
-interface CatalogItem {
-  kind: "lyric" | "basta";
-  id: string;
-  title: string;
-  alternateTitle?: string;
-  type: string;
-  sourceUrl: string;
-  ready: boolean;
-  numbered: boolean;
-}
-const byId = new Map<string, CatalogItem>();
-const details = new Map<string, Promise<BastaKalam>>();
 const elm = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
 const button = (title: string, callback: () => void, disabled = false, accessibleName?: string): HTMLButtonElement => {
   const b = document.createElement("button");
@@ -33,51 +22,6 @@ const div = (className: string, text?: string): HTMLDivElement => {
   return e;
 };
 const option = (value: string, text: string): HTMLOptionElement => new Option(text, value);
-function sourceKey(kind: string, id: string): string { return kind + ":" + id; }
-function getCatalog(item: RecitationItem): CatalogItem | undefined {
-  return byId.get(sourceKey(item.kind, item.id));
-}
-async function loadCatalog(): Promise<void> {
-  const responses = await Promise.all([
-    fetch("/data/recitation-lyric-catalog.json"),
-    fetch("/data/basta-kalams.json"),
-  ]);
-  if (!responses.every((r) => r.ok)) throw Error("Unable to load the poetry index");
-  const [lyrics, basta] = await Promise.all(responses.map((r) => r.json()));
-  if (!Array.isArray(lyrics) || !Array.isArray(basta.kalams)) throw Error("Invalid catalog");
-  for (const lyric of lyrics) {
-    const item: CatalogItem = {
-      kind: "lyric", id: lyric.id, title: lyric.title,
-      alternateTitle: lyric.alternateTitle, type: lyric.kalamType,
-      sourceUrl: lyric.sourceUrl, ready: true, numbered: false,
-    };
-    byId.set(sourceKey(item.kind, item.id), item);
-  }
-  for (const kalam of basta.kalams) {
-    const item: CatalogItem = {
-      kind: "basta", id: kalam.id, title: kalam.name,
-      alternateTitle: kalam.romanName, type: kalam.sectionRoman,
-      sourceUrl: kalam.sourceUrl, ready: kalam.status === "ready",
-      numbered: !!kalam.numbered && kalam.sectionRoman === "Marsiye",
-    };
-    byId.set(sourceKey(item.kind, item.id), item);
-  }
-}
-async function loadBasta(id: string): Promise<BastaKalam> {
-  if (!details.has(id)) {
-    const request = fetch("/data/basta-kalams/" + encodeURIComponent(id) + ".json")
-      .then(async (response) => {
-        if (!response.ok) throw Error("Kalam source is not verified or available");
-        const result = await response.json();
-        if (result.kalam?.id !== id || result.kalam.status !== "ready")
-          throw Error("Invalid kalam source");
-        return result.kalam as BastaKalam;
-      });
-    details.set(id, request);
-  }
-  try { return await details.get(id)!; }
-  catch (error) { details.delete(id); throw error; }
-}
 const move = <T>(items: T[], start: number, end: number): T[] => {
   const copy = items.slice();
   if (start < 0 || start >= copy.length || end < 0 || end >= copy.length) return copy;
@@ -291,7 +235,7 @@ export async function initRecitationBuilder(): Promise<void> {
   function renderResults() {
     const query = elm<HTMLInputElement>("recite-search").value.trim().toLocaleLowerCase();
     const source = elm<HTMLSelectElement>("recite-source").value;
-    const matches = Array.from(byId.values()).filter((item) => {
+    const matches = Array.from(catalogById.values()).filter((item) => {
       if (source !== "all" && item.kind !== source) return false;
       return !query || (item.title + " " + (item.alternateTitle || "") + " " + item.type)
         .toLocaleLowerCase().includes(query);
@@ -378,7 +322,7 @@ export async function initRecitationBuilder(): Promise<void> {
       }));
       const select = elm<HTMLSelectElement>("recite-borrow-kalam");
       const before = select.value || current.id;
-      select.replaceChildren(...Array.from(byId.values())
+      select.replaceChildren(...Array.from(catalogById.values())
         .filter((v) => v.numbered && v.ready)
         .map((v) => option(v.id, v.title)));
       select.value = Array.from(select.options).some((o) => o.value === before) ? before : current.id;
@@ -442,7 +386,7 @@ export async function initRecitationBuilder(): Promise<void> {
   if (catalogReady && info.textContent === "Loading poetry catalog…") say("");
   if (catalogReady) {
     const add = params.get("add");
-    const item = add && byId.get(add);
+    const item = add && catalogById.get(add);
     if (item?.ready && draft.set.items.length < 40) {
       draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id, sourceTitle: item.title });
       persist(); render(); say("Added " + item.title);
