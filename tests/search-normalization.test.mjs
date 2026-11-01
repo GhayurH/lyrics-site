@@ -1,14 +1,15 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { searchIndexAliases } from "../src/lib/search-normalization.ts";
-
-test("Roman variants are searchable without rewriting canonical verses", () => {
-  const source = "Husain Hasan bole wale Karbala";
-  const aliases = searchIndexAliases(source);
-  for (const variant of ["hussain","hussein","hassan","bolay","walay","kerbala"])
-    assert.ok(aliases.split(" ").includes(variant));
-  assert.equal(source, "Husain Hasan bole wale Karbala");
+import { searchIndexAliases, normalizeSearchToken } from "../src/lib/search-normalization.ts";
+test("search aliases cover common Roman variants in both directions", () => {
+  for (const [name,variant] of [["husain","hussain"],["hasan","hassan"],["bole","bolay"],["wale","walay"],["karbala","kerbala"],["marsiya","marsia"],["asghar","asgar"]]) {
+    assert.ok(searchIndexAliases(name).split(" ").includes(variant),name);
+    assert.ok(searchIndexAliases(variant).split(" ").includes(name),variant);
+  }
 });
-test("Urdu diacritic and Arabic-form aliases are indexed", () => {
-  assert.ok(searchIndexAliases("عَلِي يار كربلا").includes("علی"));
+test("Urdu and Arabic forms normalize without rewriting source", () => {
+  const original = "عَلِي يار كربلا";
+  assert.ok(searchIndexAliases(original).includes("علی"));
+  assert.equal(original,"عَلِي يار كربلا");
+  assert.equal(normalizeSearchToken("آلِ"),"ال");
 });

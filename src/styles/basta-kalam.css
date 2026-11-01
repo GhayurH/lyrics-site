@@ -17,3 +17,10 @@
 .basta-kalam-catalog-list li { display: flex; flex-wrap: wrap; align-items: baseline; gap: .5rem 1rem; padding: .7rem 0; border-bottom: var(--ui-border); }
 .basta-kalam-catalog-list li > a { font-size: 1.2rem; font-family: var(--font-urdu); }
 .basta-kalam-catalog-list li > span:last-child { margin-inline-start: auto; color: var(--secondary-text); font-size: .85rem; }
+
+/* Extra printed pages stay in a collapsible, inline scan gallery. */
+.basta-additional-scans { width: 100%; }
+.basta-additional-scans summary { padding: .5rem; cursor: pointer; }
+.basta-additional-scan { padding-block: .5rem 1rem; border-bottom: var(--ui-border); }
+.basta-additional-scan img { display: block; height: auto; max-height: 65dvh; object-fit: contain; margin-inline: auto; }
+.basta-additional-scan > a:last-child { display: block; margin-block: .4rem; }
