@@ -32,7 +32,8 @@
   text-decoration: underline;
 }
 
-/* Basta landing: original scan, contextual resume, and reader choices. */
+/* Basta landing: original scan, contextual resume, and reader choices.
+   Put each component's defaults here; media rules below only describe its variants. */
 .basta-home { padding: clamp(0.5rem, 2vw, 1.5rem) 0 2rem; }
 .basta-home-intro {
   display: grid;
@@ -77,13 +78,16 @@
 .basta-home-resume-kicker { color: var(--secondary-text); font-size: 0.77rem; }
 .basta-home-resume-copy strong { font-size: 1.08rem; }
 .basta-home-resume-arrow { flex: 0 0 auto; font-size: 1.4rem; }
-.basta-home-modes { margin-top: clamp(1.6rem, 4vw, 2.2rem); }
+/* Reading choices precede secondary page and index navigation. */
+.basta-home-modes { margin-top: clamp(1.2rem, 3vw, 1.8rem); }
 .basta-home-modes-heading { margin-bottom: 0.9rem; }
 .basta-home-modes-heading h2, .basta-home-find h2 { margin: 0; font-size: clamp(1.4rem, 3vw, 1.85rem); line-height: 1.25; }
+.basta-home-find h2 { font-size: clamp(1.15rem, 2.5vw, 1.5rem); }
 .basta-home-mode-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.85rem; }
 .basta-home-mode-card {
   display: flex;
   min-width: 0;
+  min-height: 10rem;
   flex-direction: column;
   border: var(--ui-border);
   border-radius: 0.8rem;
@@ -93,22 +97,25 @@
   transition: border-color 150ms ease, background-color 150ms ease;
 }
 .basta-home-mode-card:hover { background: var(--tag-background); border-color: var(--secondary-text); }
+/* Highlight the direct page-by-page path without hiding the continuous option. */
+.basta-home-mode-card:first-child { border-color: var(--secondary-text); background: var(--tag-background); }
+.basta-home-mode-card:first-child:hover { border-color: var(--primary-text); }
 .basta-home-mode-number { color: var(--secondary-text); font-size: 0.75rem; font-weight: 800; letter-spacing: 0.08em; }
-.basta-home-mode-card h3 { margin: 0.4rem 0 0; font-size: clamp(1.2rem, 2.5vw, 1.5rem); line-height: 1.3; }
-.basta-home-mode-card p { margin: 0.45rem 0 1rem; color: var(--secondary-text); }
-.basta-home-mode-action { margin-top: auto; font-weight: 700; }
+.basta-home-mode-card h3 { margin: 0.3rem 0 0; font-size: clamp(1.2rem, 2.5vw, 1.5rem); line-height: 1.3; }
+.basta-home-mode-card p { max-width: 45ch; margin: 0.45rem 0 1rem; color: var(--secondary-text); line-height: 1.5; }
+.basta-home-mode-action { margin-top: auto; font-size: 0.9rem; font-weight: 700; text-underline-offset: 0.2em; }
 .basta-home-find {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr);
   align-items: center;
   gap: clamp(1rem, 3vw, 2.5rem);
-  margin-top: 1.3rem;
+  margin-top: clamp(0.85rem, 2vw, 1.15rem);
   border: var(--ui-border);
   border-radius: 0.8rem;
   padding: clamp(1rem, 2.5vw, 1.5rem);
   background: var(--surface-background);
 }
-.basta-home-find-intro > p:not(.eyebrow) { margin: 0.4rem 0 0.65rem; color: var(--secondary-text); }
+.basta-home-find-intro > p:not(.eyebrow) { margin: 0.4rem 0 0.65rem; color: var(--secondary-text); font-size: 0.9rem; }
 .basta-home-index-link { font-weight: 700; text-underline-offset: 0.2em; }
 .basta-home-page-jump { display: grid; gap: 0.45rem; min-width: 0; border-left: var(--ui-border); padding-left: clamp(1rem, 3vw, 1.5rem); }
 .basta-home-page-jump > label { color: var(--secondary-text); font-size: 0.82rem; font-weight: 700; }
@@ -149,7 +156,7 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   align-items: center;
   justify-content: space-between;
   gap: 1.25rem;
-  margin-top: 1.9rem;
+  margin-top: 1.4rem;
   border-top: var(--ui-border);
   padding-top: 1.25rem;
 }
@@ -159,8 +166,9 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
 @media (max-width: 760px) {
   .basta-home-intro { grid-template-columns: minmax(0, 1fr) clamp(5.25rem, 22vw, 7rem); gap: 1rem; }
   .basta-home-mode-grid { grid-template-columns: 1fr; }
-  .basta-home-mode-card { padding: 0.95rem 1rem; }
-  .basta-home-mode-card p { margin-bottom: 0.65rem; }
+  .basta-home-mode-card { min-height: 0; padding: 0.95rem 1rem; }
+  .basta-home-mode-card h3 { font-size: 1.2rem; }
+  .basta-home-mode-card p { margin-block: 0.35rem 0.6rem; }
   .basta-home-find { grid-template-columns: 1fr; }
   .basta-home-page-jump { border-left: 0; border-top: var(--ui-border); padding: 0.9rem 0 0; }
 }
@@ -648,23 +656,3 @@ html:not([data-js-available="true"]) .basta-home-page-jump { display: none; }
   grid-area: auto;
 }
 
-/* Choose a reading mode first; secondary navigation comes after it. */
-.basta-home-modes { margin-top: clamp(1.2rem, 3vw, 1.8rem); }
-.basta-home-mode-card { min-height: 10rem; }
-.basta-home-mode-card:first-child {
-  border-color: var(--secondary-text);
-  background: var(--tag-background);
-}
-.basta-home-mode-card:first-child:hover { border-color: var(--primary-text); }
-.basta-home-mode-card h3 { margin-top: .3rem; }
-.basta-home-mode-card p { line-height: 1.5; max-width: 45ch; }
-.basta-home-mode-action { font-size: .9rem; text-underline-offset: .2em; }
-.basta-home-find { margin-top: clamp(.85rem, 2vw, 1.15rem); }
-.basta-home-find h2 { font-size: clamp(1.15rem, 2.5vw, 1.5rem); }
-.basta-home-find-intro > p:not(.eyebrow) { font-size: .9rem; }
-.basta-home-download { margin-top: 1.4rem; }
-@media (max-width: 760px) {
-  .basta-home-mode-card { min-height: 0; }
-  .basta-home-mode-card p { margin-block: .35rem .6rem; }
-  .basta-home-mode-card h3 { font-size: 1.2rem; }
-}
