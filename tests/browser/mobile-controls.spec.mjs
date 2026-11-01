@@ -59,7 +59,7 @@ test("Focus mode retains its independent Options behavior", async ({ page }) => 
   await expect(controls.locator("[data-reading-regular-toggle]")).toBeVisible();
 });
 
-test("Focus Options aligns fullscreen with line spacing on mobile and desktop @smoke", async ({ page }) => {
+test("Focus Options aligns fullscreen with line spacing on mobile and desktop", async ({ page }) => {
   for (const viewport of [{ width: 390, height: 844 }, { width: 1280, height: 820 }]) {
     await page.setViewportSize(viewport);
     await page.goto("/lyrics/na-bhool-kar-bhi/?reading=1");
@@ -129,7 +129,7 @@ test("the open mobile navigation never hides during scrolling", async ({ page })
   await expect(page.locator("#site-navigation")).toBeHidden();
 });
 
-test("desktop reading controls float as the site header hides and returns @smoke", async ({ page }) => {
+test("desktop reading controls float as the site header hides and returns", async ({ page }) => {
   await page.setViewportSize({ width: 1100, height: 550 });
   await page.goto("/basta/read/");
   await expect(page.locator("[data-reading-controls]")).toHaveCSS("position", "sticky");
