@@ -4,6 +4,8 @@ import {
   bastaKalamId, buildBastaKalamCatalog, normalizePrintedStanzaNumber,
   resolveStanzaSequence,
 } from "../src/lib/basta-kalam-units.ts";
+import { auditBastaEditorial } from "../src/lib/basta-editorial-audit.ts";
+import { readFile } from "node:fs/promises";
 
 const first = {
   section: "مراثی", sectionRoman: "Marsiye", number: 1,
@@ -106,4 +108,54 @@ test("a new indexed poem followed by an unindexed excerpt is not mistaken for a 
   assert.deepEqual(result.kalams[1].pages, [138]);
   assert.doesNotMatch(result.kalams[1].urdu, /ایک الگ کلام/);
   assert.equal(result.orphans[0].page, 138);
+});
+
+// Real source fixtures and editorial audit invariants.
+async function file(path) {
+  return readFile(new URL("../src/data/basta/" + path, import.meta.url), "utf8");
+}
+function body(markdown) {
+  return markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "").trim();
+}
+
+test("Basta Marsiya 117 retains stanza boundaries and both original pages", async () => {
+  const index = JSON.parse(await file("index.json")).filter(
+    (entry) => entry.sectionRoman === "Marsiye" && [117, 118].includes(entry.number),
+  );
+  const pages = await Promise.all([284, 285].map(async (page) => ({
+    page,
+    urdu: body(await file("pages/" + page + ".md")),
+    roman: body(await file("roman/" + page + ".md")),
+  })));
+  const catalog = buildBastaKalamCatalog(index, pages);
+  const kalam = catalog.kalams.find((item) => item.id === "basta-marsiye-117");
+  assert.ok(kalam);
+  assert.equal(kalam.status, "ready", kalam.issues.join("; "));
+  assert.deepEqual(kalam.pages, [284, 285]);
+  assert.equal(kalam.stanzas.length, 7);
+  assert.deepEqual(kalam.stanzas[5].pages, [284]);
+  assert.deepEqual(kalam.stanzas[6].pages, [285]);
+  for (const stanza of kalam.stanzas.slice(5)) {
+    assert.equal(stanza.urdu.split("\n").filter(Boolean).length, 6);
+    assert.equal(stanza.roman?.split("\n").filter(Boolean).length, 6);
+  }
+});
+
+test("editorial diagnostics report duplicate IDs, Roman gaps and separator mismatch without modifying sources", () => {
+  const index = [
+    { sectionRoman: "Salam", number: 1, name: "سلام", romanName: "Salam", page: 42 },
+    { sectionRoman: "Salam", number: 1, name: "دوسرا", page: 43 },
+  ];
+  const pages = [
+    { page:42, urdu:"اوّل\n---***---\nدوم", roman:"First" },
+    { page:43, urdu:"واحد" },
+  ];
+  const original = JSON.stringify({index,pages});
+  const result = auditBastaEditorial(index,pages);
+  assert.deepEqual(result.duplicateIndexEntries,["Salam:1"]);
+  assert.deepEqual(result.absentRomanTranscriptions,[43]);
+  assert.deepEqual(result.mismatchedPageBoundaries,[42]);
+  assert.deepEqual(result.missingRomanTitles,["Salam:1"]);
+  assert.deepEqual(result.nonMonotonicSectionNumbers,["Salam:1"]);
+  assert.equal(JSON.stringify({index,pages}),original);
 });
