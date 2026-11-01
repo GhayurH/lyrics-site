@@ -404,6 +404,7 @@ function initThemePicker(): void {
     dialog.querySelector<HTMLSelectElement>("#theme-" + language + "-font")?.addEventListener("change", (event) => {
       fonts = parseFontPreferences({ ...fonts, [language]: (event.currentTarget as HTMLSelectElement).value });
       applyFontPreferences(fonts);
+      render(false);
     });
   }
   dialog.querySelector<HTMLButtonElement>("#theme-reset-custom")?.addEventListener("click", () => {

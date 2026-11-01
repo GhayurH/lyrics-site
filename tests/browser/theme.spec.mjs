@@ -1,6 +1,96 @@
 // Appearance remains browser-local and works across every archive route.
 import { test, expect } from "@playwright/test";
 
+
+test("appearance tabs, grouped fonts, and enlarged swatches work on narrow screens @smoke", async ({ page }) => {
+  for (const viewport of [{ width: 320, height: 640 }, { width: 844, height: 390 }]) {
+    await page.setViewportSize(viewport);
+    await page.goto("/lyrics/na-bhool-kar-bhi/");
+    await page.locator("#theme-toggle").click();
+    const dialog = page.locator("#theme-dialog");
+    await expect(dialog.getByRole("tab", { name: "Colors" })).toHaveAttribute("aria-selected", "true");
+    await expect(dialog.locator("#theme-colors-panel")).toBeVisible();
+    await expect(dialog.locator("#theme-fonts-panel")).toBeHidden();
+    await expect(dialog.locator("#theme-current-name")).toHaveText("Auto (device)");
+    await expect(dialog.locator(".theme-preset-collection").first()).not.toHaveAttribute("open", "");
+    const swatch = await dialog.locator('[data-preset-swatch="sepia"]').boundingBox();
+    expect(swatch.width).toBeGreaterThan(70);
+    expect(swatch.height).toBeGreaterThan(40);
+    await dialog.getByRole("tab", { name: "Colors" }).focus();
+    await page.keyboard.press("ArrowRight");
+    await expect(dialog.getByRole("tab", { name: "Fonts" })).toBeFocused();
+    await expect(dialog.locator("#theme-fonts-panel")).toBeVisible();
+    await expect(dialog.locator("#theme-colors-panel")).toBeHidden();
+    await expect(dialog.locator("#theme-urdu-font optgroup")).toHaveCount(3);
+    await expect(dialog.locator("#theme-urdu-preview")).toContainText("دل کی صدا");
+    await expect(dialog.locator("#theme-roman-preview")).toContainText("Dil Ki Sada");
+    const dimensions = await dialog.boundingBox();
+    expect(dimensions.x).toBeGreaterThanOrEqual(0);
+    expect(dimensions.x + dimensions.width).toBeLessThanOrEqual(viewport.width + 1);
+    await expect(dialog.getByText("Changes save automatically")).toBeVisible();
+    await dialog.getByRole("button", { name: "Close", exact: true }).last().click();
+  }
+});
+
+test("Auto follows device changes, and restoring each submenu leaves the other intact @smoke", async ({ page }) => {
+  await page.emulateMedia({ colorScheme: "light" });
+  await page.goto("/");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
+  await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "light");
+  await page.locator("#theme-toggle").click();
+  const dialog = page.locator("#theme-dialog");
+  await dialog.locator('input[name="theme-mode"][value="dark"]').check();
+  await dialog.getByRole("tab", { name: "Fonts" }).click();
+  await dialog.locator("#theme-urdu-font").selectOption("lateef");
+  await dialog.locator("#theme-roman-font").selectOption("lora");
+  await dialog.locator("#theme-fonts-default").click();
+  await expect(dialog.locator("#theme-urdu-font")).toHaveValue("nastaliq");
+  await expect(dialog.locator("#theme-roman-font")).toHaveValue("sans");
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
+  await expect.poll(() => page.evaluate(() => localStorage.getItem("kalam:reading-fonts"))).toBeNull();
+  await dialog.locator("#theme-urdu-font").selectOption("amiri");
+  await dialog.getByRole("tab", { name: "Colors" }).click();
+  await dialog.locator("#theme-colors-default").click();
+  await expect(dialog.locator('input[name="theme-mode"][value="auto"]')).toBeChecked();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
+  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "amiri");
+  await expect.poll(() => page.evaluate(() => localStorage.getItem("theme"))).toBeNull();
+  await page.emulateMedia({ colorScheme: "dark" });
+  await expect(page.locator("html")).toHaveAttribute("data-pf-theme", "dark");
+  await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute("content", "#171719");
+  await expect.poll(() => page.evaluate(() => getComputedStyle(document.body).backgroundColor)).toBe("rgb(23, 23, 25)");
+  await page.locator("#theme-dialog-done").click();
+  await page.reload();
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "auto");
+  await expect(page.locator("html")).toHaveAttribute("data-urdu-font", "amiri");
+});
+
+test("My Custom is preserved on preset changes and copying a preset is explicit @smoke", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#theme-toggle").click();
+  const dialog = page.locator("#theme-dialog");
+  await dialog.locator('input[value="sepia"]').check();
+  await dialog.locator('input[value="custom"]').check();
+  await dialog.locator("#theme-accent").evaluate((el) => {
+    el.value = "#123456";
+    el.dispatchEvent(new Event("input", { bubbles: true }));
+  });
+  await expect(dialog.locator("#theme-contrast-button")).toContainText("Button text:");
+  await expect(dialog.locator("#theme-contrast-primary")).toContainText("Main text:");
+  await dialog.locator('input[value="dark"]').check();
+  await dialog.locator('input[value="custom"]').check();
+  await expect(dialog.locator("#theme-accent")).toHaveValue("#123456");
+  await expect(dialog.locator("#theme-main")).toHaveValue("#f4ead6");
+  await dialog.locator('input[value="dark"]').check();
+  await dialog.locator("#theme-edit-current").click();
+  await expect(dialog.locator("#theme-main")).toHaveValue("#171719");
+  await expect(dialog.locator("#theme-accent")).toHaveValue("#ededed");
+  await dialog.locator("#theme-colors-default").click();
+  await expect(dialog.locator('input[value="auto"]')).toBeChecked();
+  await expect.poll(() => page.evaluate(() => localStorage.getItem("kalam:custom-theme"))).toBeNull();
+  await expect.poll(() => page.evaluate(() => localStorage.getItem("kalam:custom-theme-base"))).toBeNull();
+});
+
 test("curated palette switching, Custom inheritance and persistence @smoke", async ({ page }) => {
   const names = ["paper", "clay", "rosewood", "sage", "ocean", "slate", "dusk", "forest", "plum", "graphite"];
   await page.setViewportSize({ width: 390, height: 844 });
