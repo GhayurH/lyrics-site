@@ -126,6 +126,18 @@ test("justifies poetry titles but excludes poets and credits", () => {
   assert.ok(!result.at(-1)?.poet, "source credits are not poet bylines");
 });
 
+test("separately rendered numbered recitation prefaces retain title and poet roles", () => {
+  const preface = "Section heading\n\nTitle of a kalam\nPoet name";
+  const lines = layoutBastaKalam(preface, true, "auto", true);
+  assert.equal(lines[2].title, true);
+  assert.equal(lines[3].poet, true);
+  assert.ok(bastaVerseClassNames(lines[2]).includes("kalam-reading-title"));
+  assert.ok(bastaVerseClassNames(lines[3]).includes("kalam-poet-credit"));
+  assert.ok(!bastaVerseClassNames(lines[3]).includes("kalam-reading-title"));
+  // Without the explicit preface role, do not guess from arbitrary prose.
+  assert.equal(layoutBastaKalam(preface)[3].poet, undefined);
+});
+
 test("unformatted prose never gains the poetry-justification flag", () => {
   assert.deepEqual(layoutBastaKalam("Prose heading\nProse paragraph", false).map((line) => line.verse), [false, false]);
 });
