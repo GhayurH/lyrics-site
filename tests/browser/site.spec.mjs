@@ -375,3 +375,26 @@ test("correction dialog preserves selected verse and resolves printed stanza", a
   await page.keyboard.press("Escape");
   await expect(dialog).toBeHidden();
 });
+
+test("empty correction can be cancelled and reopened without submitting", async ({ page }) => {
+  await page.goto("/basta/284/");
+  const open = page.locator("[data-correction-open]");
+  await open.click();
+  const dialog = page.locator("#correction-dialog");
+  const suggestion = dialog.getByRole("textbox", { name: "Suggested correction" });
+  await expect(dialog).toBeVisible();
+  await expect(suggestion).toBeEmpty();
+  await dialog.getByRole("button", { name: "Cancel" }).click();
+  await expect(dialog).toBeHidden();
+
+  await open.click();
+  await dialog.getByRole("button", { name: "Open email" }).click();
+  await expect(dialog.locator("[data-correction-message]")).toHaveText("Enter your proposed correction.");
+  await dialog.getByRole("button", { name: "Cancel" }).click();
+  await expect(dialog).toBeHidden();
+
+  await open.click();
+  await expect(dialog.locator("[data-correction-message]")).toBeEmpty();
+  await page.keyboard.press("Escape");
+  await expect(dialog).toBeHidden();
+});

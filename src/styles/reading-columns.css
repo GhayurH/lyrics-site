@@ -264,6 +264,12 @@
   html[data-reading-focus="true"] .basta-reader-flow[data-reading-columns~="image"]:not([data-reading-mode="image"]) .basta-reader-page-grid {
     display: block;
   }
+  /* The block layout above no longer provides grid gap. Keep the scan
+     clear of tall Nastaliq titles when text follows it in mobile Focus Mode. */
+  html[data-reading-focus="true"] .basta-page-grid[data-reading-root][data-reading-columns~="image"]:not([data-reading-mode="image"]) > .basta-original-page,
+  html[data-reading-focus="true"] .basta-reader-flow[data-reading-columns~="image"]:not([data-reading-mode="image"]) .basta-reader-page-grid > .basta-reader-original-image {
+    margin-block-end: 1.5rem;
+  }
   html[data-reading-focus="true"] .lyric-reading-grid:not([data-reading-mode="image"]) > .lyric-reading-image[data-floating-scan="true"],
   html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not([data-reading-mode="image"]) > .basta-original-page[data-floating-scan="true"],
   html[data-reading-focus="true"] .basta-reader-flow:not([data-reading-mode="image"]) .basta-reader-page-grid > .basta-reader-original-image[data-floating-scan="true"] {
