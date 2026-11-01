@@ -77,6 +77,7 @@ export function layoutBastaKalam(
   text: string,
   indentStanzas = true,
   style: BastaStanzaStyle = "auto",
+  prefaceOnly = false,
 ): BastaDisplayLine[] {
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
   const display = lines.map((line) => {
@@ -148,6 +149,20 @@ export function layoutBastaKalam(
       if (block.end - block.start === 2 && !isCreditLine(lines[block.start + 1])) {
         display[block.start + 1].poet = true;
       }
+    }
+  }
+
+  // Numbered Recitation Sets render the canonical preface separately from
+  // its stanzas. The final two-line preface block is the known title/byline;
+  // unlike a full source page it has no following verse for title detection.
+  if (prefaceOnly) {
+    const byline = blocks.at(-1);
+    if (byline && byline.end - byline.start === 2 &&
+        !isStanzaNumber(lines[byline.start]) &&
+        !isCreditLine(lines[byline.start]) &&
+        !isCreditLine(lines[byline.start + 1])) {
+      display[byline.start].title = true;
+      display[byline.start + 1].poet = true;
     }
   }
 
