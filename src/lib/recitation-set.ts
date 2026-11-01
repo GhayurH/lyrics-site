@@ -33,6 +33,8 @@ export interface RecitationDraft {
   remoteId?: string;
   editToken?: string;
   publishedSnapshot?: string;
+  /** Server document hash for compare-and-swap updates across organizer tabs. */
+  remoteRevision?: string;
   expiresAt?: string | null;
 }
 

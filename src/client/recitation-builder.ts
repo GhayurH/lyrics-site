@@ -370,10 +370,10 @@ export async function initRecitationBuilder(): Promise<void> {
       const existing = findRemoteDraft(requestedSet);
       draft = existing
         ? { ...existing, set, publishedSnapshot: JSON.stringify(set),
-          expiresAt: payload.expiresAt ?? null,
+          expiresAt: payload.expiresAt ?? null, remoteRevision: payload.revision,
           ...(secret ? { editToken: secret } : {}) }
         : { ...draftFromRemote(requestedSet, set, secret),
-          expiresAt: payload.expiresAt ?? null };
+          expiresAt: payload.expiresAt ?? null, remoteRevision: payload.revision };
       saveDraft(draft);
       say("Shared programme loaded");
     } catch (e) { say((e as Error).message); }
@@ -503,10 +503,21 @@ export async function initRecitationBuilder(): Promise<void> {
     const publishButton = elm<HTMLButtonElement>("recite-publish");
     publishButton.disabled = true;
     try {
+      if (update && !draft.remoteRevision) {
+        // Old locally stored drafts predate revisions. Recover only when the
+        // published snapshot is byte-for-byte identical to the server copy.
+        const current = await fetch(url, { cache: "no-store" });
+        if (!current.ok) throw Error("Cannot verify the published copy. Reload its edit link.");
+        const existing = await current.json();
+        if (JSON.stringify(validateRecitationSet(existing.set)) !== draft.publishedSnapshot)
+          throw Error("The published programme changed elsewhere. Duplicate your draft before reloading.");
+        draft.remoteRevision = existing.revision;
+      }
       const response = await fetch(url, {
         method: update ? "PUT" : "POST",
         headers: { "Content-Type": "application/json",
-          ...(update ? { Authorization: "Bearer " + draft.editToken } : {}) },
+          ...(update ? { Authorization: "Bearer " + draft.editToken,
+            "If-Match": `"${draft.remoteRevision}"` } : {}) },
         body: JSON.stringify(clean),
       });
       const result = await response.json();
@@ -515,6 +526,7 @@ export async function initRecitationBuilder(): Promise<void> {
       // organizer has checked permanent preservation.
       if (!result.permanent) delete clean.permanent;
       draft.set = clean;
+      draft.remoteRevision = result.revision;
       draft.expiresAt = result.expiresAt ?? null;
       elm<HTMLInputElement>("recite-permanent").checked = !!clean.permanent;
       if (!update) {
@@ -554,6 +566,7 @@ export async function initRecitationBuilder(): Promise<void> {
       const payload = await response.json();
       if (!response.ok) throw Error(payload.error || "Unable to change the live position");
       draft.set.live = payload.live;
+      draft.remoteRevision = payload.revision;
       draft.expiresAt = payload.expiresAt ?? null;
       draft.publishedSnapshot = JSON.stringify(draft.set);
       persist(); updateLinks();
