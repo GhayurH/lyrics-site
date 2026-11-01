@@ -180,9 +180,10 @@ async function resolvedPoems(item: RecitationItem): Promise<{ poem: Poem; source
 function renderWork(work: HTMLElement, item: RecitationItem, index: number,
   poem: Poem, sources: Map<string, Poem>) {
   const header = node("header", "recite-work-header");
-  const headline = node("h2", "", (index + 1) + ". " + poem.title);
+  const headline = node("h2", "kalam-reading-title", (index + 1) + ". " + poem.title);
   headline.lang = poem.lang; headline.dir = poem.direction;
-  const alt = node("p", "", poem.alternateTitle || "");
+  const alt = node("p", "kalam-reading-title", poem.alternateTitle || "");
+  alt.lang = "en"; alt.dir = "ltr";
   const sourceLink = node("a", "", "Original source");
   sourceLink.href = poem.sourceUrl;
   header.append(headline);
