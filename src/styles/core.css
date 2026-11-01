@@ -182,12 +182,6 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 .theme-reset-default { margin-top: .9rem; }
 .theme-edit-preset { width: 100%; margin: .7rem 0 0; }
 .theme-save-note { margin: 0; color: var(--secondary-text); font-size: .76rem; flex: 1 1 auto; }
-.theme-presets legend { margin-bottom: .3rem; }
-.theme-preset-group {
-  margin-top: .3rem;
-  color: var(--secondary-text); font-size: .73rem; font-weight: 750;
-  letter-spacing: .04em; text-transform: uppercase;
-}
 .theme-preset {
   display: flex; flex-direction: column; align-items: stretch; gap: .3rem; min-height: var(--ui-target);
   min-width: 0; border: var(--ui-border); border-radius: var(--ui-radius);
@@ -378,12 +372,12 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 }
 .theme-advanced-row input[type="color"]:disabled { opacity: .55; cursor: not-allowed; }
 .theme-custom-fields #theme-reset-custom { justify-self: start; font-size: .83rem; }
-.theme-fonts { display: grid; gap: .55rem; border: 0; border-top: var(--ui-border); min-width: 0; margin: 1rem 0 0; padding: .85rem 0 0; }
-.theme-fonts legend { padding-top: .45rem; font-size: .9rem; font-weight: 750; }
+.theme-fonts { display: grid; gap: .55rem; min-width: 0; margin: 0; border: 0; padding: 0; }
+.theme-fonts legend { font-size: .9rem; font-weight: 750; }
 .theme-fonts label { display: grid; grid-template-columns: minmax(0, 1fr); gap: .3rem; font-size: .85rem; font-weight: 650; }
 .theme-fonts select { min-width: 0; width: 100%; min-height: var(--ui-target); padding: .45rem .65rem; font: inherit; font-weight: 400; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); color: var(--primary-text); }
 /* Compare font choices without affecting the interface typography. */
- .theme-fonts .theme-font-preview { margin: 0; min-width: 0; overflow-wrap: anywhere; white-space: pre-line; border: var(--ui-border); border-radius: var(--ui-radius); padding: .5rem .75rem; background: var(--surface-background); color: var(--primary-text); }
+.theme-fonts .theme-font-preview { margin: 0; min-width: 0; overflow-wrap: anywhere; border: var(--ui-border); border-radius: var(--ui-radius); padding: .5rem .75rem; background: var(--surface-background); color: var(--primary-text); }
 #theme-urdu-preview { font-family: var(--font-urdu); font-size: 1.35rem; line-height: 2.65; text-align: center; }
 #theme-roman-preview { font-family: var(--font-roman); font-size: 1.08rem; line-height: 1.8; text-align: center; }
 .theme-contrast-results { display: grid; gap: .15rem; margin-top: .6rem; border: var(--ui-border); border-radius: var(--ui-radius); padding: .55rem .75rem; font-size: .79rem; }
@@ -391,7 +385,7 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 .theme-font-note[hidden], .theme-edit-preset[hidden] { display: none !important; }
 .theme-fonts .theme-font-note { margin: .1rem 0 0; color: var(--secondary-text); font-size: .78rem; line-height: 1.5; }
 /* Keep Done accessible in short viewports while the dialog scrolls. */
- .theme-dialog-footer { display: flex; align-items: center; gap: .75rem; justify-content: space-between; position: sticky; bottom: -.85rem; z-index: 1; margin-top: 1rem; padding: .65rem 0; border-top: var(--ui-border); background: var(--surface-background); }
+.theme-dialog-footer { display: flex; align-items: center; gap: .75rem; justify-content: space-between; position: sticky; bottom: -.85rem; z-index: 1; margin-top: 1rem; padding: .65rem 0; border-top: var(--ui-border); background: var(--surface-background); }
 .theme-dialog-footer .button { min-width: 5.5rem; }
 .theme-dialog :is(button, input, select):focus-visible, .theme-preset:focus-within { outline: var(--focus-ring); outline-offset: 2px; }
 .mobile-nav-toggle:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }

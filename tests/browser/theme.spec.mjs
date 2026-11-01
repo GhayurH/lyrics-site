@@ -22,8 +22,8 @@ test("appearance tabs, grouped fonts, and enlarged swatches work on narrow scree
     await expect(dialog.locator("#theme-fonts-panel")).toBeVisible();
     await expect(dialog.locator("#theme-colors-panel")).toBeHidden();
     await expect(dialog.locator("#theme-urdu-font optgroup")).toHaveCount(3);
-    await expect(dialog.locator("#theme-urdu-preview")).toContainText("دل کی صدا");
-    await expect(dialog.locator("#theme-roman-preview")).toContainText("Dil Ki Sada");
+    await expect(dialog.locator("#theme-urdu-preview")).toHaveText("یہ ایک نمونہ ہے");
+    await expect(dialog.locator("#theme-roman-preview")).toHaveText("Sample reading text");
     const dimensions = await dialog.boundingBox();
     expect(dimensions.x).toBeGreaterThanOrEqual(0);
     expect(dimensions.x + dimensions.width).toBeLessThanOrEqual(viewport.width + 1);
@@ -228,7 +228,7 @@ test("dialog stays in the viewport and Escape closes it on small phones and land
   }
 });
 
-test("old saved light/dark themes work and invalid palettes never inject CSS", async ({ page }) => {
+test("invalid persisted Custom colours cannot inject CSS", async ({ page }) => {
   await page.addInitScript(() => {
     localStorage.setItem("theme", "custom");
     localStorage.setItem("kalam:custom-theme", JSON.stringify({
@@ -260,7 +260,7 @@ test("AMOLED uses pure-black page and panels and persists across routes", async 
     .not.toBe("rgb(0, 0, 0)");
 });
 
-test("Custom starts from whichever preset is active, including AMOLED", async ({ page }) => {
+test("Start Custom explicitly copies each preset, including AMOLED", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   const presets = [
@@ -293,7 +293,7 @@ test("Custom starts from whichever preset is active, including AMOLED", async ({
       };
     });
     expect(roles).toEqual({ primary: preset.primary, muted: preset.muted, borders: preset.borders });
-    // Custom begins from this preset, even after an earlier Custom edit.
+    // Explicitly creating Custom from a preset replaces the previous Custom base.
     await page.locator("#theme-accent").evaluate((el) => {
       el.value = "#ff00ff";
       el.dispatchEvent(new Event("input", { bubbles: true }));

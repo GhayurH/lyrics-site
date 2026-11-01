@@ -174,35 +174,9 @@ html[data-roman-font="source-sans"] { --font-roman: "Source Sans 3", system-ui, 
 html[data-roman-font="lora"] { --font-roman: "Lora", Georgia, serif; }
 html[data-roman-font="merriweather"] { --font-roman: Merriweather, Georgia, serif; }
 
-/* Auto follows changes to the device preference even after this page loads. */
+/* Auto uses the same light palette until the device requests Dark. */
+html[data-theme="light"],
 html[data-theme="auto"] {
-  color-scheme: light;
-  --site-background: var(--preset-light-main);
-  --surface-background: var(--preset-light-surface);
-  --header-background: rgb(255 255 255 / .92);
-  --primary-text: var(--preset-light-ink);
-  --secondary-text: #66666b;
-  --border-colour: #dddddf;
-  --tag-background: #ececef;
-  --accent-color: var(--preset-light-ink);
-  --button-text: #ffffff;
-}
-@media (prefers-color-scheme: dark) {
-  html[data-theme="auto"] {
-    color-scheme: dark;
-    --site-background: var(--preset-dark-main);
-    --surface-background: var(--preset-dark-surface);
-    --header-background: rgb(34 34 37 / .92);
-    --primary-text: var(--preset-dark-ink);
-    --secondary-text: #b5b5ba;
-    --border-colour: #3a3a3f;
-    --tag-background: #35353a;
-    --accent-color: var(--preset-dark-ink);
-    --button-text: #171719;
-  }
-}
-
-html[data-theme="light"] {
   color-scheme: light;
   --site-background: var(--preset-light-main);
   --surface-background: var(--preset-light-surface);
@@ -226,6 +200,23 @@ html[data-theme="dark"] {
   --tag-background: #35353a;
   --accent-color: var(--preset-dark-ink);
   --button-text: #171719;
+}
+
+/* Override Auto only under a dark device preference. These declarations
+   mirror the canonical Dark preset; the Light/Auto base is shared above. */
+@media (prefers-color-scheme: dark) {
+  html[data-theme="auto"] {
+  color-scheme: dark;
+  --site-background: var(--preset-dark-main);
+  --surface-background: var(--preset-dark-surface);
+  --header-background: rgb(34 34 37 / 0.92);
+  --primary-text: var(--preset-dark-ink);
+  --secondary-text: #b5b5ba;
+  --border-colour: #3a3a3f;
+  --tag-background: #35353a;
+  --accent-color: var(--preset-dark-ink);
+  --button-text: #171719;
+  }
 }
 
 /* Pure-black OLED reading mode: no raised grey reading surfaces. */
