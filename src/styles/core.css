@@ -157,7 +157,7 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 .reading-controls select:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 
 /* All poetry editions use the same one-line, justified verse contract. */
-:is(.lyric-verse, .basta-verse-poetry) {
+:is(.lyric-verse, .basta-verse-line.basta-verse-poetry) {
   display: block;
   unicode-bidi: plaintext;
   white-space: nowrap;
