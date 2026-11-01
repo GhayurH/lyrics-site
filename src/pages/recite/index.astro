@@ -24,6 +24,12 @@ import "../../styles/recitation.css";
         <button type="button" id="recite-delete" class="button button-secondary" disabled>Delete local copy</button>
       </div>
     </div>
+    <div class="recite-template-bar" role="group" aria-label="Programme templates">
+      <label for="recite-template">Template <select id="recite-template"></select></label>
+      <button id="recite-template-use" type="button" class="button button-secondary">Start from template</button>
+      <button id="recite-template-save" type="button" class="button button-secondary">Save as template</button>
+      <button id="recite-template-delete" type="button" class="button button-secondary">Delete template</button>
+    </div>
     <div class="recite-builder">
       <section class="recite-panel recite-details" aria-labelledby="recite-details-heading">
         <h2 id="recite-details-heading">Programme details</h2>
@@ -106,6 +112,13 @@ import "../../styles/recitation.css";
       <div id="recite-shared-links" class="recite-shared-links" hidden>
         <label>Link to share with your group <input id="recite-public-url" type="text" readonly /></label>
         <button id="recite-copy-public" class="button button-secondary" type="button">Copy sharing link</button>
+        <button id="recite-show-qr" class="button button-secondary" type="button">Show public QR</button>
+        <dialog id="recite-qr-dialog" class="recite-qr-dialog" aria-label="Public programme QR code">
+          <h3>Share by QR</h3>
+          <p>Only the read-only public link is sent to an external QR service when you open this. Private organizer links are never shared.</p>
+          <img id="recite-qr-image" alt="QR for public programme" width="260" height="260" />
+          <form method="dialog"><button type="submit">Close</button></form>
+        </dialog>
         <label>Your private organizer link <input id="recite-edit-url" type="text" readonly /></label>
         <button id="recite-copy-edit" class="button button-secondary" type="button">Copy organizer link</button>
         <p class="recite-hint">Keep your organizer link private. Anyone who has it can change or delete your programme. Your sharing link stays the same when you make updates.</p>

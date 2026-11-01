@@ -3,6 +3,7 @@ import type { BastaStanza } from "../lib/basta-kalam-units";
 import type { RecitationDraft, RecitationItem, StanzaRef, RecitationSet } from "../lib/recitation-set";
 import { catalogById, getCatalog, loadBasta, loadCatalog } from "./recitation-catalog";
 import { validateRecitationSet } from "../lib/recitation-set";
+import { readTemplates, saveTemplate, removeTemplate, findTemplate, STARTER_TEMPLATES } from "./recitation-templates";
 import {
   createLocalDraft, draftFromRemote, draftUrl, duplicateDraft, editorUrl,
   findRemoteDraft, publicUrl, readDrafts, readerUrl, removeDraft, saveDraft,
@@ -136,6 +137,7 @@ export async function initRecitationBuilder(): Promise<void> {
       elm<HTMLInputElement>("recite-edit-url").value =
         draft.editToken ? editorUrl(draft) : "Not available on this device";
       elm<HTMLButtonElement>("recite-copy-edit").disabled = !draft.editToken;
+      elm<HTMLButtonElement>("recite-show-qr").hidden = false;
     }
   }
   function refreshDrafts() {
@@ -348,6 +350,49 @@ export async function initRecitationBuilder(): Promise<void> {
         option(s.id, "Stanza " + s.number + " · " + s.urdu.split("\n")[0].slice(0, 50))));
     } catch (e) { say((e as Error).message); }
   }
+
+  function refreshTemplates(): void {
+    const select = elm<HTMLSelectElement>("recite-template");
+    const current = select.value;
+    const items = [...STARTER_TEMPLATES, ...readTemplates()];
+    select.replaceChildren(...items.map((entry) => option(entry.id, entry.name)));
+    if (items.some((entry) => entry.id === current)) select.value = current;
+    elm<HTMLButtonElement>("recite-template-delete").disabled = !select.value.startsWith("saved:");
+  }
+  refreshTemplates();
+  elm<HTMLSelectElement>("recite-template").addEventListener("change", refreshTemplates);
+  elm<HTMLButtonElement>("recite-template-use").addEventListener("click", () => {
+    const template = findTemplate(elm<HTMLSelectElement>("recite-template").value);
+    if (!template) return;
+    if ((draft.set.items.length || draft.set.title.trim()) &&
+        !confirm("Create a new draft from this template? Your current draft will stay saved.")) return;
+    const next = createLocalDraft();
+    next.set = structuredClone(template.set);
+    next.set.items = next.set.items.map((item) => ({ ...item, uid: crypto.randomUUID() }));
+    delete next.set.live; delete next.set.permanent;
+    setCurrent(next); persist(); render(); say("Template copied into a new draft.");
+  });
+  elm<HTMLButtonElement>("recite-template-save").addEventListener("click", () => {
+    if (!draft.set.items.length && !draft.set.title.trim()) {
+      say("Add a title or a kalam first."); return;
+    }
+    const name = prompt("Template name:", draft.set.title || "Programme");
+    if (!name?.trim()) return;
+    try { saveTemplate(name.trim(), draft.set); refreshTemplates(); say("Template saved locally."); }
+    catch (e) { say((e as Error).message); }
+  });
+  elm<HTMLButtonElement>("recite-template-delete").addEventListener("click", () => {
+    const id = elm<HTMLSelectElement>("recite-template").value;
+    if (!id.startsWith("saved:") || !confirm("Delete saved template?")) return;
+    removeTemplate(id); refreshTemplates(); say("Template deleted.");
+  });
+  elm<HTMLButtonElement>("recite-show-qr").addEventListener("click", () => {
+    if (!draft.remoteId) return;
+    elm<HTMLImageElement>("recite-qr-image").src =
+      "https://api.qrserver.com/v1/create-qr-code/?size=260x260&data=" +
+      encodeURIComponent(publicUrl(draft.remoteId));
+    elm<HTMLDialogElement>("recite-qr-dialog").showModal();
+  });
 
   // Initialize local drafts before waiting for source catalogs.
   const drafts = readDrafts();
