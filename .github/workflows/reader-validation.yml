@@ -112,3 +112,34 @@ jobs:
           path: test-results/
           if-no-files-found: ignore
           retention-days: 7
+  dependency_research:
+    # Temporary audited upgrade run. Produces a reproducible npm lockfile
+    # without giving an unreviewed update process write access to the repo.
+    if: github.event_name == 'pull_request' && github.head_ref == 'chore/test-suite-lean-2026-11-01'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+      - name: Resolve current stable dependencies and lockfile
+        shell: bash
+        run: |
+          npx --yes npm-check-updates@latest -u
+          npm install --save-dev @astrojs/check@latest typescript@latest
+          npm pkg set 'scripts.check=astro check'
+          npm install
+          npm ls --depth=0
+          npm outdated || true
+          npm audit --json > dependency-audit.json || true
+          node -e "const p=require('./package.json'); console.log(JSON.stringify({dependencies:p.dependencies,devDependencies:p.devDependencies},null,2))"
+      - name: Export proposed package files
+        uses: actions/upload-artifact@v6
+        with:
+          name: npm-upgrade-proposal
+          path: |
+            package.json
+            package-lock.json
+            dependency-audit.json
+          retention-days: 2
