@@ -1,6 +1,8 @@
 // File role: Browser-side programme editor for selecting, arranging, and publishing kalams. The canonical archive is never modified.
 import type { BastaStanza } from "../lib/basta-kalam-units";
 import { elm, button, div, option, move } from "./recitation-builder-ui";
+import { sourceWarnings } from "./recitation-source-validation";
+import { publishSharedRecitation, updateSharedLivePosition, deleteSharedRecitation } from "./recitation-remote";
 import type { RecitationDraft, RecitationItem, StanzaRef, RecitationSet } from "../lib/recitation-set";
 import { catalogById, getCatalog, loadBasta, loadCatalog } from "./recitation-catalog";
 import { validateRecitationSet } from "../lib/recitation-set";
@@ -518,27 +520,6 @@ export async function initRecitationBuilder(): Promise<void> {
     delete item.stanzaSequence;
     persist(); renderSequence(); void showArrangement();
   });
-  async function sourceWarnings(set: RecitationSet): Promise<string[]> {
-    const warnings: string[] = [];
-    for (const item of set.items) {
-      const source = getCatalog(item);
-      if (!source?.ready) {
-        warnings.push("Unavailable kalam: " + (item.sourceTitle || item.id));
-        continue;
-      }
-      for (const ref of item.stanzaSequence || []) {
-        try {
-          const poem = await loadBasta(ref.kalamId);
-          if (!poem.stanzas.some((stanza) => stanza.id === ref.stanzaId)) {
-            warnings.push("Missing stanza: " + ref.kalamId + " / " + ref.stanzaId);
-          }
-        } catch {
-          warnings.push("Unavailable stanza source: " + ref.kalamId);
-        }
-      }
-    }
-    return [...new Set(warnings)];
-  }
   elm<HTMLButtonElement>("recite-publish").addEventListener("click", async () => {
     let clean: RecitationSet;
     try {
@@ -555,47 +536,13 @@ export async function initRecitationBuilder(): Promise<void> {
       if (!confirm(warnings.join("\n") +
           "\n\nPublish anyway? Missing references will be shown as warnings; they will not be removed.")) return;
     }
-    // New publication never overwrites a remote set without its edit capability.
-    const update = !!draft.remoteId && !!draft.editToken;
-    const url = update
-      ? "/api/recitation-sets/" + draft.remoteId
-      : "/api/recitation-sets/";
     const publishButton = elm<HTMLButtonElement>("recite-publish");
     publishButton.disabled = true;
     try {
-      if (update && !draft.remoteRevision) {
-        // Old locally stored drafts predate revisions. Recover only when the
-        // published snapshot is byte-for-byte identical to the server copy.
-        const current = await fetch(url, { cache: "no-store" });
-        if (!current.ok) throw Error("Cannot verify the published copy. Reload its edit link.");
-        const existing = await current.json();
-        if (JSON.stringify(validateRecitationSet(existing.set)) !== draft.publishedSnapshot)
-          throw Error("The published programme changed elsewhere. Duplicate your draft before reloading.");
-        draft.remoteRevision = existing.revision;
-      }
-      const response = await fetch(url, {
-        method: update ? "PUT" : "POST",
-        headers: { "Content-Type": "application/json",
-          ...(update ? { Authorization: "Bearer " + draft.editToken,
-            "If-Match": `"${draft.remoteRevision}"` } : {}) },
-        body: JSON.stringify(clean),
-      });
-      const result = await response.json();
-      if (!response.ok) throw Error(result.error || "Publishing failed");
-      // Preview deployments enforce temporary retention even when the
-      // organizer has checked permanent preservation.
-      if (!result.permanent) delete clean.permanent;
-      draft.set = clean;
-      draft.remoteRevision = result.revision;
-      draft.expiresAt = result.expiresAt ?? null;
-      elm<HTMLInputElement>("recite-permanent").checked = !!clean.permanent;
-      if (!update) {
-        draft.remoteId = result.id;
-        draft.editToken = result.editToken;
-      }
-      draft.publishedSnapshot = JSON.stringify(clean);
+      const updated = await publishSharedRecitation(draft, clean);
+      elm<HTMLInputElement>("recite-permanent").checked = !!draft.set.permanent;
       persist(); refreshDrafts(); updateLinks();
-      say(update ? "Shared programme updated. The public link is unchanged." :
+      say(updated ? "Shared programme updated. The public link is unchanged." :
         "Published. Share the read-only link with the group.");
     } catch (e) { say((e as Error).message); }
     finally { updateLinks(); }
@@ -620,18 +567,7 @@ export async function initRecitationBuilder(): Promise<void> {
       elm<HTMLButtonElement>(id).disabled = true;
     }
     try {
-      const response = await fetch("/api/recitation-sets/" + draft.remoteId, {
-        method: "PATCH",
-        headers: { Authorization: "Bearer " + draft.editToken,
-          "Content-Type": "application/json", "If-Match": '"' + draft.remoteRevision + '"' },
-        body: JSON.stringify({ active, currentUid: uid }),
-      });
-      const payload = await response.json();
-      if (!response.ok) throw Error(payload.error || "Unable to change the live position");
-      draft.set.live = payload.live;
-      draft.remoteRevision = payload.revision;
-      draft.expiresAt = payload.expiresAt ?? null;
-      draft.publishedSnapshot = JSON.stringify(draft.set);
+      await updateSharedLivePosition(draft, uid, active);
       persist(); updateLinks();
     } catch (e) { say((e as Error).message); }
     finally { updatingLive = false; updateLinks(); }
@@ -651,11 +587,7 @@ export async function initRecitationBuilder(): Promise<void> {
     const button = elm<HTMLButtonElement>("recite-delete-published");
     button.disabled = true;
     try {
-      const response = await fetch("/api/recitation-sets/" + draft.remoteId, {
-        method: "DELETE", headers: { Authorization: "Bearer " + draft.editToken },
-      });
-      const result = await response.json();
-      if (!response.ok) throw Error(result.error || "Unable to delete published set");
+      await deleteSharedRecitation(draft);
       const deleted = draft.id;
       removeDraft(deleted);
       setCurrent(readDrafts()[0] || createLocalDraft());
