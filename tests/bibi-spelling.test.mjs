@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { normalizeBibiText, stripCanonicalBibiNonJoiners } from "../src/lib/bibi-spelling.ts";
 
 test("Bibi has one intentional Urdu non-joiner, regardless of original separator", () => {
-  for (const original of ["بیبی", "بی بی", "بی‌بی", "بی‌بی", "بي بي"]) {
+  for (const original of ["بیبی", "بی بی", "بی‌بی", "بی‍بی", "بي بي"]) {
     assert.equal(normalizeBibiText(original), "بی\u200Cبی", original);
   }
   assert.equal(normalizeBibiText("بِی بِی"), "بِی\u200Cبِی");
@@ -21,6 +21,6 @@ test("Roman Bibi never has a separator, while other words stay unchanged", () =>
 });
 test("only the deliberate Urdu non-joiner is exempt from invisible-control checks", () => {
   assert.equal(stripCanonicalBibiNonJoiners("بی‌بی"), "بیبی");
-  assert.equal(stripCanonicalBibiNonJoiners("بی‌بی"), "بیبی");
+  assert.equal(stripCanonicalBibiNonJoiners("بی‍بی"), "بی‍بی");
   assert.equal(stripCanonicalBibiNonJoiners("بی‌بی\u200B"), "بیبی\u200B");
 });
