@@ -244,6 +244,15 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   }
   if (kind === "basta-urdu" && fields.imageOnly !== "true") checkLines(path, body, bodyLine, "urdu", issues);
   if (kind === "basta-roman") checkLines(path, body, bodyLine, "roman", issues);
+  if (kind.startsWith("basta-") && page !== undefined && page >= 85) {
+    // Prayer notices should not be stored as poetry. Only classify
+    // standalone requests, never a verse mentioning iltimas or fatiha.
+    body.split("\n").forEach((line, index) => {
+      const normalized = line.replace(/\u0640/gu, "").replace(/[\u064B-\u065F]/gu, "").trim();
+      if (/^\(?\s*(?:التماس|iltimas)(?:[\sِ-]*e)?[\sِ-]*(?:(?:سور[ۃہ]|surah|surat)(?:[\s-]*e)?[\s-]*)?(?:فاتحہ|fatiha|fateha|دعا|dua)/iu.test(normalized))
+        record(issues, path, bodyLine + index, "basta-prayer-block", "Prayer/dedication request left in poetry source");
+    });
+  }
   // Page-number sequences continue across physical pages; individual fragments may start mid-stanza.
   // Only report repeats/decreases within the same page/fragment, not gaps between pages.
   for (const part of portions(body)) {

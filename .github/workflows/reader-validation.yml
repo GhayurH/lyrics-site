@@ -112,39 +112,3 @@ jobs:
           path: test-results/
           if-no-files-found: ignore
           retention-days: 7
-
-  source_analysis:
-    if: github.event_name == 'pull_request' && github.head_ref == 'fix/basta-editorial-cleanup-2026-11-02'
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-        with:
-          ref: ${{ github.head_ref }}
-      - uses: actions/setup-node@v7
-        with:
-          node-version: '24'
-      - name: Apply reviewed Basta editorial changes once
-        shell: bash
-        run: |
-          if git log -1 --format=%B | grep -Fq '[refresh-lock]'; then
-            node --experimental-strip-types scripts/basta-id-refresh.mjs > basta-lock-review.json
-            git add src/data/recitation/identity-lock.json
-            git diff --cached --check
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit -m 'Preserve stanza IDs and register recovered Marsiya verses'
-            git push origin HEAD:${{ github.head_ref }}
-          fi
-          if git log -1 --format=%B | grep -Fq '[apply-basta]'; then
-            node --experimental-strip-types scripts/basta-editorial-cleanup.mjs --apply > basta-applied.json
-            git add src/data/basta/pages/ src/data/basta/roman/
-            git diff --cached --check
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            if ! git diff --cached --quiet; then
-              git commit -m 'Normalize Basta texts, refrains and poet credits'
-              git push origin HEAD:${{ github.head_ref }}
-            fi
-          fi

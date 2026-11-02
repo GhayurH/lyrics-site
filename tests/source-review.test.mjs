@@ -87,3 +87,23 @@ test("detects OCR uncertainty markers outside brackets in both scripts", () => {
     text: lyric("متن نامکمل", "Matn ghair wazeh") });
   assert.equal(file.issues.filter(x => x.code === "unverified-text").length, 2);
 });
+
+test("Basta source review flags prayer notices, not poetic prayer references", () => {
+  const sample = [
+    "---", "page: 135", "originalImage: /images/basta/original/135.png", "---",
+    "کر لیجئے التماس دعا ہاتھ باندھ کر",
+    "التماس سورۃ فاتحہ برائے ایصال ثواب",
+  ].join("\n");
+  const urdu = reviewMarkdown({ path: "src/data/basta/pages/135.md", kind: "basta-urdu", text: sample });
+  assert.equal(urdu.issues.filter(x => x.code === "basta-prayer-block").length, 1);
+
+  const roman = [
+    "---", "page: 137", "---",
+    "Kar lijiye iltimas-e-dua hath bandh kar",
+    "(Iltimas Surat-e-Fatiha baraye sozkhwan)",
+    "Iltimas-e-Fatiha baraye isal-e-sawab",
+    "Iltimas-e-dua-e-sehat baraye shair",
+  ].join("\n");
+  const romanFindings = reviewMarkdown({ path: "src/data/basta/roman/137.md", kind: "basta-roman", text: roman });
+  assert.equal(romanFindings.issues.filter(x => x.code === "basta-prayer-block").length, 3);
+});
