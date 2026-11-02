@@ -284,3 +284,11 @@ test("minor differences in repeated first verse do not suppress title styling", 
   const verses = layoutBastaKalam("First ordinary verse\nSecond ordinary verse\n\nThird ordinary verse\nFourth ordinary verse");
   assert.ok(verses.every(line => !line.title && !line.poet));
 });
+
+test("a repeated poem title beginning with a poet-name prefix remains a title", () => {
+  const title = "سید شہدا کی یاد میں جلتا ہے دل";
+  const lines = layoutBastaKalam([title, "", title, "اگلا مصرع", "ایک اور مصرع", "آخری مصرع"].join("\n"));
+  assert.equal(lines[0].title, true);
+  assert.equal(lines[0].poet, undefined);
+  assert.equal(lines[2].verse, true);
+});
