@@ -24,4 +24,3 @@ test("preview asset redirection preserves nested source paths and filenames", ()
     assert.equal(result.href, destination);
   }
 });
-
