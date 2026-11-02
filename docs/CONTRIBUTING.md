@@ -32,7 +32,7 @@ npm run basta:index:sync    # Only for reviewed index corrections
 
 The review command checks script mixing, extended Latin letters, stray Unicode controls, stanza and verse alignment, metadata, missing editions, and uncertain Basta index/source mapping. Its findings are advisory; inspect original scans and intended refrains before editing. **Do not** gate builds on a currently nonempty editorial queue.
 
-Stable `recitationId` values and numbered-stanza anchors are permanent. Review [Recitation Set identity rules](RECITATION_SETS.md#data-and-source-integrity) before renaming, moving or renumbering a poem.
+Stable `recitationId` values and numbered-stanza anchors are permanent. Review [Recitation Set identity rules](RECITATION_SETS.md#permanent-source-identity) before renaming, moving or renumbering a poem.
 
 ## Code and tests
 
