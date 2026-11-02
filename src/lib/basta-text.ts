@@ -63,10 +63,18 @@ function isCreditLine(line: string): boolean {
   return /^[(（]?\s*(?:بشکریہ|بہ\s*شکریہ|bashukriya|ba\s*shukriya)/i.test(line.trim());
 }
 
-/** Recognize distinctive byline conventions without classifying arbitrary
- * two-verse stanzas as title/author blocks. */
+/** Attribution cues are roles, not a list of individual poets. Evaluate
+ * them only in a separate introductory block, never in ordinary verses. */
 function isKnownByline(line: string): boolean {
-  return /^(?:پیرِ طریقت|حکیم سید|شاعرِ اہلِ بیت|مولانا|حضرت علامہ|شفق اکبر آبادی|روایتی نوحہ|سبط جعفر$|سید سبط جعفر$|Pir-e-Tariqat|Hakim Syed|Shair-e-Ahl-e-Bait|Maulana|Hazrat Allama|Shafaq Akbar Abadi|Riwayati nauha|Sibt Jafar$|Syed Sibt Jafar$)/iu.test(line.trim());
+  const value = line.trim().replace(/^[([（]\s*/u, "");
+  return /^(?:سید|سیّد|پیر|حکیم|شاعر|مولانا|حضرت|علامہ|ڈاکٹر|پروفیسر|مرزا|سردار|سبط جعفر$|شفق اکبر آبادی|روایتی نوحہ|Syed|Sayyid|Pir|Hakim|Shair|Maulana|Hazrat|Allama|Dr\.?\s|Doctor|Professor|Mirza|Sardar|Sibt Jafar$|Shafaq Akbar Abadi|Riwayati nauha)\b?/iu.test(value);
+}
+
+/** A genre or editorial section heading may not repeat in the verses.
+ * Only classify a label in its own introductory block as a title. */
+function isGenreHeading(line: string): boolean {
+  const value = line.trim().replace(/^\[|\]$/gu, "").trim();
+  return /^(?:رباعی|قطعہ|قطعات|منقبت|مناجات|سوزخوانی|مختصر زیارات|[\p{L}\sِ]+ سے خطاب|Rubai|Ruba(?:i|yat)|Qit['’]a|Qita['’]?at|Manqabat|Munajat|Soaz?khwani|Mukhtasar Ziarat|[A-Za-z\s-]+ se khitab)$/iu.test(value);
 }
 
 /** An opening title/byline is verified by a repeated first verse or
@@ -157,7 +165,13 @@ export function layoutBastaKalam(
       !prefaceBlocks.has(index + 1) &&
       (heading.includes(" / ") ||
         isStanzaNumber(lines[next.start]) ||
-        /^(?:بین|Bain)$/iu.test(heading));
+        /^(?:بین|Bain)$/iu.test(heading) ||
+        isGenreHeading(heading));
+    // A standalone attribution is not a title, even if visually short.
+    if (block.end - block.start === 1 && isKnownByline(heading)) {
+      display[block.start].poet = true;
+      continue;
+    }
     if ((matchesFirstVerse || isStandAloneHeading || hasKnownByline) && !isCreditLine(heading)) {
       display[block.start].title = true;
       // A printed separator is not a full-height empty verse after a title.
