@@ -336,6 +336,7 @@ test("Roman and Urdu Basta stanza bookmarks share a key and restore the visible 
   await expect(streamUrdu).toBeAttached();
   await expect(streamRoman).toHaveAttribute("data-basta-save-selection",
     await streamUrdu.getAttribute("data-basta-save-selection"));
+  await page.locator("[data-reading-regular-toggle]").click();
   await page.locator('[data-reading-column][value="roman"]').check();
   await page.locator('[data-reading-column][value="urdu"]').uncheck();
   await streamRoman.click();
