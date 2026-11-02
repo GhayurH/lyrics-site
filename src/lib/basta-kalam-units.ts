@@ -1,7 +1,8 @@
 // File role: Canonical, source-preserving identities for Basta poems and numbered stanzas.
 // The printed index supplies names; explicit ---***--- breaks supply boundaries.
 // Uncertain mappings are reported, never silently combined with another poem.
-import { parseStanzaNumber } from "./stanza-numbers.ts";
+import { parseStanzaNumber, stanzaNumberValue } from "./stanza-numbers.ts";
+import { splitBastaKalams } from "./basta-text.ts";
 
 export interface BastaKalamIndex {
   /** Permanent override when the printed section/number changes. */
@@ -75,20 +76,11 @@ export function bastaKalamId(entry: BastaKalamIndex): string {
 }
 
 export function splitBastaSource(text: string): string[] {
-  return text.replace(/\r\n?/g, "\n").split(/^\s*---\*\*\*---\s*$/gm)
-    .map((piece) => piece.trim()).filter(Boolean);
+  return splitBastaKalams(text);
 }
 export function normalizePrintedStanzaNumber(value: string): number | null {
-  const numeral = parseStanzaNumber(value);
-  if (!numeral) return null;
-  const western = Array.from(numeral).map((digit) => {
-    const code = digit.charCodeAt(0);
-    if (code >= 0x06F0 && code <= 0x06F9) return String(code - 0x06F0);
-    if (code >= 0x0660 && code <= 0x0669) return String(code - 0x0660);
-    return digit;
-  }).join("");
-  const number = Number(western);
-  return Number.isSafeInteger(number) && number > 0 ? number : null;
+  const number = stanzaNumberValue(value);
+  return number !== null && Number.isSafeInteger(number) && number > 0 ? number : null;
 }
 
 type NumberedLine = { line: string; page: number };

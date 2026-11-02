@@ -3,6 +3,9 @@ import { parseStanzaNumber } from "./stanza-numbers.ts";
 
 export const BASTA_KALAM_BREAK = "---***---";
 
+/** One shared delimiter contract for printed Basta fragments and all readers. */
+export const isBastaBoundary = (line: string): boolean => line.trim() === BASTA_KALAM_BREAK;
+
 export function splitBastaKalams(text: string): string[] {
   const normalized = text.replace(/\r\n?/g, "\n");
   const kalams: string[] = [];
@@ -15,7 +18,7 @@ export function splitBastaKalams(text: string): string[] {
   };
 
   for (const line of normalized.split("\n")) {
-    if (line.trim() === BASTA_KALAM_BREAK) {
+    if (isBastaBoundary(line)) {
       pushCurrent();
       continue;
     }

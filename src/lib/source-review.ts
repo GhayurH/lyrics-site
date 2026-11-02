@@ -1,6 +1,7 @@
 // Source-level, non-destructive review checks shared by Basta and standalone lyric audits.
 // Findings identify review candidates, not permission to alter uncertain printed wording.
-import { parseStanzaNumber } from "./stanza-numbers.ts";
+import { stanzaNumberValue } from "./stanza-numbers.ts";
+import { isBastaBoundary } from "./basta-text.ts";
 import { stripCanonicalBibiNonJoiners } from "./bibi-spelling.ts";
 
 export interface ReviewFinding {
@@ -29,18 +30,6 @@ export interface ReviewedMarkdown {
 
 function record(issues: ReviewFinding[], path: string, line: number, code: string, detail: string): void {
   issues.push({ path, line, code, detail });
-}
-
-function numberValue(raw: string): number | null {
-  const parsed = parseStanzaNumber(raw);
-  if (!parsed) return null;
-  const decimal = [...parsed].map((digit) => {
-    const n = digit.codePointAt(0)!;
-    if (n >= 0x06f0 && n <= 0x06f9) return String(n - 0x06f0);
-    if (n >= 0x0660 && n <= 0x0669) return String(n - 0x0660);
-    return digit;
-  }).join("");
-  return Number(decimal);
 }
 
 const arabic = /\p{Script=Arabic}/u;
@@ -97,7 +86,7 @@ function portions(value: string): Portion[] {
   const lines = value.split("\n"), sections: Portion[] = [];
   let begin = 0;
   for (let i = 0; i <= lines.length; i++) {
-    if (i === lines.length || /^\s*---\*\*\*---\s*$/u.test(lines[i])) {
+    if (i === lines.length || isBastaBoundary(lines[i])) {
       sections.push({ start: begin, text: lines.slice(begin, i).join("\n") });
       begin = i + 1;
     }
@@ -113,7 +102,7 @@ function countStanzas(text: string, baseLine: number, path: string, issues: Revi
   const lines = text.split("\n");
   const stanzas: CountedStanza[] = [];
   for (let i = 0; i < lines.length; i++) {
-    const number = numberValue(lines[i]);
+    const number = stanzaNumberValue(lines[i]);
     if (number === null) continue;
     stanzas.push({ number, line: baseLine + i, verses: 0 });
   }
@@ -121,7 +110,7 @@ function countStanzas(text: string, baseLine: number, path: string, issues: Revi
   for (let i = 0; i < stanzas.length; i++) {
     const from = stanzas[i].line - baseLine + 1;
     const until = i + 1 < stanzas.length ? stanzas[i + 1].line - baseLine : lines.length;
-    stanzas[i].verses = lines.slice(from, until).filter((line) => line.trim() && !/^\s*---\*\*\*---\s*$/u.test(line)).length;
+    stanzas[i].verses = lines.slice(from, until).filter((line) => line.trim() && !isBastaBoundary(line)).length;
     if (!stanzas[i].verses)
       record(issues, path, stanzas[i].line, "empty-stanza", "Numbered stanza has no verses");
     if (i > 0 && stanzas[i].number <= stanzas[i - 1].number)
