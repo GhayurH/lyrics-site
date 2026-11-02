@@ -144,7 +144,8 @@ const report = {
     unverifiedKalams: catalog.kalams.filter(x => x.status === "review").length,
     orphanFragments: catalog.orphans.filter(x => x.page >= settings.romanLyricsStartPage).length,
     nonPoetryFragmentsExcluded: catalog.orphans.filter(x => x.page < settings.romanLyricsStartPage).length,
-    romanMissingPages: editorial.absentRomanTranscriptions.length,
+    romanMissingPages: editorial.absentRomanTranscriptions.filter(page => page >= settings.romanLyricsStartPage).length,
+    untranscribedFrontMatterPages: editorial.absentRomanTranscriptions.filter(page => page < settings.romanLyricsStartPage).length,
   },
   files,
 };
