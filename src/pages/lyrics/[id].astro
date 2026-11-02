@@ -12,7 +12,7 @@ import LyricSearchIndex from "../../components/LyricSearchIndex.astro";
 import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-data";
 import "../../styles/lyrics.css";
 import "../../styles/corrections.css";
-import { getLyricKalamType, slugifyKalamType } from "../../lib/lyrics";
+import { getLyricKalamType, slugifyKalamType, searchUrl } from "../../lib/lyrics";
 
 export async function getStaticPaths() {
   const byCategory = groupLyricsByKalamType(await loadPublishedLyrics());
