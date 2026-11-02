@@ -63,37 +63,55 @@ export function initBastaSelections(root: HTMLElement): void {
     for (const pageNode of pages) {
       const page = Number(pageNode.dataset.bastaCurrentPage || pageNode.dataset.bastaPage);
       if (!Number.isSafeInteger(page) || page < 1) continue;
-      const kalams = Array.from(pageNode.querySelectorAll<HTMLElement>(
-        ".basta-page-urdu .basta-kalam-text, .basta-reader-urdu .basta-kalam-text"));
-      let stanzaIndex = 0;
-      kalams.forEach((block, index) => {
-        if (block.dataset.selectionMounted === "true") return;
-        block.dataset.selectionMounted = "true";
-        block.classList.add("basta-selectable-kalam");
-        const kalam = index + 1;
-        const continuous = root.dataset.readerKind === "basta-continuous";
-        block.id = (continuous ? "page-" + page + "-" : "") + "basta-kalam-" + kalam;
-        const button = document.createElement("button");
-        button.type = "button";
-        button.className = "basta-selection-action";
-        button.dataset.bastaSaveSelection = page + ":kalam:" + kalam;
-        button.textContent = "☆";
-        button.setAttribute("aria-label", "Bookmark kalam " + kalam + " on Basta page " + page);
-        block.prepend(button);
+      // The two editions are views of the same printed fragments. Each gets
+      // its own controls, but the saved page/kalam and page/stanza ordinal is
+      // shared, so switching languages never creates duplicate bookmarks.
+      const editions = [
+        { name: "urdu", selector: ".basta-page-urdu .basta-kalam-text, .basta-reader-urdu .basta-kalam-text" },
+        { name: "roman", selector: ".basta-page-roman .basta-kalam-text, .basta-reader-roman .basta-kalam-text" },
+      ] as const;
+      const hasUrdu = Boolean(pageNode.querySelector(editions[0].selector));
+      const continuous = root.dataset.readerKind === "basta-continuous";
+      for (const edition of editions) {
+        const blocks = Array.from(pageNode.querySelectorAll<HTMLElement>(edition.selector));
+        const anchorEdition = edition.name === "urdu" || !hasUrdu;
+        let stanzaIndex = 0;
+        blocks.forEach((block, index) => {
+          if (block.dataset.selectionMounted === "true") {
+            stanzaIndex += block.querySelectorAll(".basta-stanza-bookmark").length;
+            return;
+          }
+          block.dataset.selectionMounted = "true";
+          block.classList.add("basta-selectable-kalam");
+          const kalam = index + 1;
+          if (anchorEdition)
+            block.id = (continuous ? "page-" + page + "-" : "") + "basta-kalam-" + kalam;
+          const button = document.createElement("button");
+          button.type = "button";
+          button.className = "basta-selection-action";
+          button.dataset.bastaSaveSelection = page + ":kalam:" + kalam;
+          button.dataset.bastaEdition = edition.name;
+          button.textContent = "☆";
+          button.setAttribute("aria-label", "Bookmark kalam " + kalam +
+            " on Basta page " + page + " (" + edition.name + ")");
+          block.prepend(button);
 
-        block.querySelectorAll<HTMLElement>(".poetry-stanza-number").forEach((marker) => {
-          const current = ++stanzaIndex;
-          const stanza = document.createElement("button");
-          stanza.type = "button";
-          stanza.className = marker.className + " basta-stanza-bookmark";
-          stanza.textContent = marker.textContent;
-          stanza.dataset.bastaSaveSelection = page + ":stanza:" + current;
-          stanza.id = (continuous ? "page-" + page + "-" : "") + "basta-stanza-" + current;
-          stanza.setAttribute("aria-label", "Bookmark stanza " + marker.textContent?.trim() +
-            " on Basta page " + page);
-          marker.replaceWith(stanza);
+          block.querySelectorAll<HTMLElement>(".poetry-stanza-number").forEach((marker) => {
+            const current = ++stanzaIndex;
+            const stanza = document.createElement("button");
+            stanza.type = "button";
+            stanza.className = marker.className + " basta-stanza-bookmark";
+            stanza.textContent = marker.textContent;
+            stanza.dataset.bastaSaveSelection = page + ":stanza:" + current;
+            stanza.dataset.bastaEdition = edition.name;
+            if (anchorEdition)
+              stanza.id = (continuous ? "page-" + page + "-" : "") + "basta-stanza-" + current;
+            stanza.setAttribute("aria-label", "Bookmark stanza " + marker.textContent?.trim() +
+              " on Basta page " + page + " (" + edition.name + ")");
+            marker.replaceWith(stanza);
+          });
         });
-      });
+      }
     }
     // Printed labels are distinct from anchor positions. Recover metadata
     // for pre-existing bookmarks when their source page is revisited.
@@ -113,10 +131,24 @@ export function initBastaSelections(root: HTMLElement): void {
     if (changed) writeRecord(selectionDetailsKey, details);
     update();
     const hash = location.hash.slice(1);
-    if (/^(?:page-\d+-)?basta-(kalam|stanza)-\d+$/.test(hash)) {
-      const target = root.querySelector<HTMLElement>("#" + CSS.escape(hash));
-      if (target && root.dataset.lastSelectionHash !== hash) {
-        root.dataset.lastSelectionHash = hash;
+    const match = hash.match(/^(?:page-(\d+)-)?basta-(kalam|stanza)-(\d+)$/);
+    if (match) {
+      const targetPage = Number(match[1] || root.dataset.bastaCurrentPage);
+      const key = targetPage + ":" + match[2] + ":" + Number(match[3]);
+      const buttons = Array.from(root.querySelectorAll<HTMLButtonElement>(
+        "[data-basta-save-selection]")).filter(button =>
+        button.dataset.bastaSaveSelection === key);
+      // The legacy public hash stays the same. Navigate to whichever text
+      // edition is currently visible, including when Roman is the only view.
+      const visible = buttons.find(button => button.dataset.bastaEdition === "roman" &&
+        root.dataset.readingColumns?.split(" ").includes("roman") &&
+        !root.dataset.readingColumns?.split(" ").includes("urdu")) ??
+        buttons.find(button => button.getClientRects().length > 0) ??
+        root.querySelector<HTMLElement>("#" + CSS.escape(hash));
+      const target = visible ?? null;
+      const signature = hash + ":" + (target?.dataset.bastaEdition || "urdu");
+      if (target && root.dataset.lastSelectionHash !== signature) {
+        root.dataset.lastSelectionHash = signature;
         requestAnimationFrame(() => target.scrollIntoView({ block: "center" }));
       }
     }
@@ -148,5 +180,7 @@ export function initBastaSelections(root: HTMLElement): void {
     if (event.key === STORAGE_KEYS.bastaSelections) update();
   });
   window.addEventListener("basta:content-loaded", mount);
+  window.addEventListener("kalam:columns-changed", mount);
+  window.addEventListener("hashchange", mount);
   mount();
 }
