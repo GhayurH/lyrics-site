@@ -42,6 +42,8 @@ export interface BastaDisplayLine {
   title?: boolean;
   /** A poet's byline immediately following a verified opening title. */
   poet?: boolean;
+  /** Editorially marked subordinate heading, not a verse or poet attribution. */
+  subtitle?: boolean;
   /** A rule starts each couplet after the first in a two-verse poem. */
   coupletSeparator?: boolean;
   /** Closing couplet rules are shared with a final reprise when present. */
@@ -81,9 +83,12 @@ export function layoutBastaKalam(
 ): BastaDisplayLine[] {
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
   const display: BastaDisplayLine[] = lines.map((line) => {
-    const stanzaNumber = parseStanzaNumber(line);
+    const subtitle = line.startsWith("[[subtitle]] ");
+    const visibleText = subtitle ? line.slice("[[subtitle]] ".length) : line;
+    const stanzaNumber = parseStanzaNumber(visibleText);
     return {
-      text: stanzaNumber ?? line,
+      text: stanzaNumber ?? visibleText,
+      subtitle,
       stanzaNumber: stanzaNumber ?? undefined,
       indent: false,
       verse: false,
@@ -151,7 +156,7 @@ export function layoutBastaKalam(
       }
       // Only the adjacent second line of a verified two-line preface is a
       // byline; standalone headings, credits, and verses are untouched.
-      if (block.end - block.start === 2 && !isCreditLine(lines[block.start + 1])) {
+      if (block.end - block.start === 2 && !display[block.start + 1].subtitle && !isCreditLine(lines[block.start + 1])) {
         display[block.start + 1].poet = true;
       }
     }
@@ -290,6 +295,7 @@ export function bastaVerseClassNames(line: BastaDisplayLine): string {
     line.title && "basta-kalam-title",
     line.title && "kalam-reading-title",
     line.poet && "kalam-poet-credit",
+    line.subtitle && "basta-kalam-subtitle",
     line.coupletSeparator && "basta-couplet-separator",
     line.sixClosingStart && "basta-six-closing-start",
     line.sixClosingEnd && "basta-six-closing-end",
