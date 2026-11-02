@@ -7,5 +7,5 @@ Use [Contributing](docs/CONTRIBUTING.md) for poetry and tests, [Architecture](do
 - Share reader controls, source models, CSS tokens and responsive breakpoints. No page-wide horizontal text scrolling; only an individual long line may pan under extreme zoom for readability. Reading remains functional without JavaScript.
 - Keep R2 binaries outside Git and retain root-relative `/images/` and `/files/` URLs. Search is Pagefind-based; D1/Pages Functions handle published Recitation Sets, not poetry text.
 - Preserve local-only drafts, bookmarks and private organizer capabilities. Never cache or publicly share edit tokens.
-- Before committing run `git diff --check`, `npm run check`, `npm run build` and relevant browser tests. Use existing tests for additional cases instead of creating duplicate smoke/full scenarios.
+- After editing poetry Markdown run `npm run source:sync`, then `git diff --check`, `npm run check`, `npm run build` and relevant browser tests. Use existing tests for additional cases instead of creating duplicate smoke/full scenarios.
 - Document current contracts, not chronological development notes. Avoid speculative or WIP comments.

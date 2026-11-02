@@ -89,7 +89,7 @@ jobs:
           path: |
             content-review.md
             content-review.csv
-          retention-days: 14
+          retention-days: 7
       - name: Verify deployment asset redirects
         run: |
           test -f dist/_redirects
@@ -112,4 +112,4 @@ jobs:
           name: reader-browser-failure
           path: test-results/
           if-no-files-found: ignore
-          retention-days: 7
+          retention-days: 3

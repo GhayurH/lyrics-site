@@ -44,8 +44,8 @@ Source Markdown and scans are authoritative. The published catalogs `/data/recit
 `src/data/recitation/identity-lock.json` reserves permanent lyric, Basta and numbered-stanza IDs. Stanza fingerprints use two normalized opening verses, not mutable printed numbers. Renaming a source or editing its opening verses must **not** change its published identity.
 
 ```bash
-npm run recitation:ids:check
-npm run recitation:ids:sync   # Only after reviewed source edits
+npm run source:check
+npm run source:sync           # After reviewed source edits; safe anchor refreshes only
 npm run content:review
 ```
 

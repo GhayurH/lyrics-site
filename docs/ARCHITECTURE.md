@@ -34,7 +34,7 @@ Only verified individual Basta kalams generate `/basta/kalam/[id]/`; the origina
 
 Pagefind is loaded only on `/search/`; homepage search uses a standard form. `lib/search-normalization.ts` adds search-only Urdu/Roman aliases without changing displayed text. Printed Basta pages and individual kalams use common collection/type facets.
 
-`client/storage.ts` owns basic local storage, `saved-library.ts` presents saved/recent reading, `basta-kalam-favorites.ts` manages individual kalam bookmarks, and `library-backup.ts` validates versioned backup imports. Bookmarks and drafts remain device-local; backup exports may include private organizer credentials.
+`client/basta-selections.ts` owns shared Urdu/Roman stanza and kalam bookmarks, storing one page-and-ordinal key independently of edition. `client/storage.ts` owns basic local storage, `saved-library.ts` presents saved/recent reading, `basta-kalam-favorites.ts` manages individual kalam bookmarks, and `library-backup.ts` validates versioned backup imports. Bookmarks and drafts remain device-local; backup exports may include private organizer credentials.
 
 ## Offline boundaries
 

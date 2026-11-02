@@ -32,7 +32,7 @@ For each representative page test selected Urdu only, Roman only where available
 ## Reader journeys
 
 - Standalone lyrics: title/poet styling, stanza numbering, long verses, source image, correction form and bookmarks.
-- Basta page and continuous reader: scan navigation, missing Roman edition, cross-page position, scroll synchronization, Focus Options, deep links, image viewer and printed-page bookmarking.
+- Basta page and continuous reader: scan navigation, missing Roman edition, cross-page position, scroll synchronization, Focus Options, deep links, image viewer and bookmarking. Save a stanza in Roman-only mode, verify its Urdu counterpart and Saved Library deep link, and test the same in streamed pages.
 - Individual Basta: kalam index, search facets, all source-page scans, stanza-to-scan anchors and local favourites. Only verified kalams get permanent individual reading URLs.
 - Recitation Sets: local draft/template, source selection, repeat/borrow Marsiya stanzas, programme notes, publishing, read-only share, conflict handling across organizer tabs, live following, offline HTML and print/PDF.
 - Saved & recent: JSON export/import warning and conflict preview, optional offline page/scan/search downloads, storage counts and removal. Test offline after a **fresh** browser visit as well as revisiting a saved route.
