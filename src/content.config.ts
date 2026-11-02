@@ -63,6 +63,9 @@ const basta = defineCollection({
     page: z.number().int().positive(),
     originalImage: z.string(),
     imageOnly: z.boolean().default(false),
+    contentKind: z.enum(["editorial-note", "english-appendix"]).optional(),
+    romanExpected: z.boolean().optional(),
+    continuationNote: z.string().optional(),
     published: z.boolean().default(true),
   }),
 });

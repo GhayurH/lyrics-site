@@ -11,7 +11,8 @@ export function loadBastaKalamCatalog(): Promise<BastaKalamAudit> {
   if (!catalogPromise) {
     catalogPromise = (async () => {
       const [urdu, roman] = await Promise.all([
-        getCollection("basta", ({ data }) => data.published && !data.imageOnly),
+        getCollection("basta", ({ data }) =>
+          data.published && !data.imageOnly && !data.contentKind),
         getCollection("bastaRoman", ({ data }) => data.published),
       ]);
       const byPage = new Map(roman.map((item) => [item.data.page, item.body || ""]));

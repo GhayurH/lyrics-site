@@ -57,7 +57,8 @@ const sourceIndex = JSON.parse(await readFile(join(root, "src/data/basta/index.j
 const urduPages = await Promise.all((await collect(join(root, "src/data/basta/pages"))).map(async (path) => {
   const { head, body } = await readBody(path);
   if (yamlValue(head, "published") === "false" ||
-      yamlValue(head, "imageOnly") === "true") return null;
+      yamlValue(head, "imageOnly") === "true" ||
+      yamlValue(head, "contentKind") !== undefined) return null;
   return { page: Number(yamlValue(head, "page")), urdu: body };
 }));
 const roman = new Map(await Promise.all((await collect(join(root, "src/data/basta/roman"))).map(async (path) => {
