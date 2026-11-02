@@ -185,6 +185,15 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   text-align-last: center;
 }
 
+/* Subordinate editorial headings are centered but do not inherit title styling. */
+.basta-kalam-subtitle {
+  text-align: center;
+  text-align-last: center;
+  font-weight: 600;
+  font-size: .95em;
+  line-height: 1.8;
+}
+
 /* Separate title sizing from verse sizing in all Basta and recitation editions. */
 .basta-kalam-title {
   font-size: calc(1em + var(--reading-title-increment));
