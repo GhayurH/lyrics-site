@@ -36,10 +36,12 @@ npm run content:review -- --json                 # Machine-readable findings
 npm run --silent content:review -- --csv > review.csv # UTF-8 spreadsheet queue
 npm run content:review -- --strict               # Nonzero exit if review queue is not empty
 npm run content:review -- --summary --regression # CI gate: no structural or new editorial findings
-npm run basta:index:sync    # Lower-level title-only command (normally use source:sync)
+node scripts/sync-basta-index.mjs # Specialist title-only command (normally use source:sync)
 # Source separators and stanza numbers require manual review against scans.
 # The index sync command changes title labels only, never source Markdown.
 ```
+
+The public npm scripts expose workflows rather than each internal phase. Specialist scripts in `scripts/` can still run directly with Node for targeted diagnosis; their checks and mutations are orchestrated by `source:check` and `source:sync`. Synchronization runs a final editorial regression gate without repeating every specialist check.
 
 The scan's contents need not all have printed-index entries. Small interspersed poems, quotations and bylines intentionally remain part of the source pages without getting standalone IDs. Record reviewed exceptions in `src/data/basta/fragment-roles.json`: each `page:fragment` key has an exact first-line `opening` and a short `reason`. Use `role: "supplement"` for intentionally unindexed poetry, or `role: "continuation"` with its permanent `of` identity for verified unnumbered continuations. The audit validates that the fragment is still genuinely unindexed and the opening still matches, so separator or index changes invalidate stale exceptions. Never classify the whole page, suppress Urdu/Roman checks, or fabricate an index entry just to silence a warning. `contentKind: editorial-note | english-appendix` and `romanExpected: false` are available for non-poetry source pages.
 

@@ -21,6 +21,7 @@ git clone https://github.com/GhayurH/lyrics-site.git
 cd lyrics-site
 npm ci
 npm run dev             # Local development (localhost:4321)
+npm run preview         # Preview an existing production build
 npm run source:sync     # Reconcile source-linked metadata after Markdown edits
 npm run source:check    # Read-only index, fragment, source and identity checks
 npm run check           # Astro and TypeScript validation
@@ -31,6 +32,8 @@ npm run content:review  # All Basta/standalone source-review candidates
 npm run perf:assets     # Inspect built asset sizes
 npm run perf:browser    # Optional browser performance measurements
 ```
+
+The public `npm run` commands are limited to common workflows; low-level maintenance commands remain in `scripts/` for direct invocation when necessary.
 
 `npm run build` validates all source-linked metadata, regenerates Pagefind from rendered reading pages, and creates the downloadable offline search asset manifest. Urdu and Roman stanza bookmarks share one source key and appear together in Saved Library. Browser commands require a build and Chromium (`npx playwright install chromium`). Local preview does not emulate Cloudflare Functions or R2 redirects; see [Asset workflow](docs/ASSET_WORKFLOW.md).
 

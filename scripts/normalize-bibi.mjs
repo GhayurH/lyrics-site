@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Content-only normalization: npm run content:bibi:fix (or :check).
+// Content-only normalization, called by source:sync/source:check.
 // Does not touch URLs, media paths, generated files, or non-content Markdown.
 import { readFile, readdir, writeFile } from "node:fs/promises";
 import { join, relative } from "node:path";

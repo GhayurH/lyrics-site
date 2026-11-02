@@ -11,7 +11,7 @@ const root = fileURLToPath(new URL("../src/data/basta/", import.meta.url));
 const args = process.argv.slice(2);
 const approve = args.length === 1 && /^--pages=\d+(?:,\d+)*$/.test(args[0]);
 if (!approve && !(args.length === 1 && args[0] === "--check")) {
-  console.error("Usage: npm run basta:fragments:check | npm run basta:fragments:approve -- --pages=138,421");
+  console.error("Usage: node scripts/refresh-basta-fragments.mjs --check | --pages=138,421");
   process.exit(2);
 }
 const permittedPages = new Set(approve ? args[0].slice("--pages=".length).split(",").map(Number) : []);

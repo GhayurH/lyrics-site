@@ -139,7 +139,7 @@ for (const old of locked.basta) {
       const candidate = current.stanzas[index];
       errors.push(old.id + "/" + pinned.id + " source changed/vanished (" +
         stanzaPageLabel(candidate?.pages ?? [], current.startPage) +
-        ") — run npm run recitation:ids:sync for a single in-place edit; otherwise review the anchor or mark retired");
+        ") — run npm run source:sync for a single in-place edit; otherwise review the anchor or mark retired");
     }
   }
   const retiredAnchors = new Set(old.stanzas.filter((x) => x.retired).map((x) => x.anchor));
@@ -150,7 +150,7 @@ for (const old of locked.basta) {
         stanzaPageLabel(stanza.pages, current.startPage) + ") — review before restoring");
     if (!knownAnchors.has(stanza.anchor))
       errors.push("New/unmapped stanza in " + old.id + " (printed " + stanza.id + ", " +
-        stanzaPageLabel(stanza.pages, current.startPage) + ") — run npm run recitation:ids:sync after reviewing");
+        stanzaPageLabel(stanza.pages, current.startPage) + ") — run npm run source:sync after reviewing");
   }
 }
 const newLyrics = activeLyrics.filter((item) => !knownLyrics.has(item.id));

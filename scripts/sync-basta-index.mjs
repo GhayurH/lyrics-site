@@ -11,7 +11,7 @@ const indexPath = path.join(root, "src/data/basta/index.json");
 const sourceDir = path.join(root, "src/data/basta");
 const check = process.argv.includes("--check");
 if (process.argv.some((argument) => argument.startsWith("--") && argument !== "--check")) {
-  console.error("Usage: npm run basta:index:sync [-- --check]");
+  console.error("Usage: node scripts/sync-basta-index.mjs [--check]");
   process.exit(2);
 }
 const minimumScore = 0.78;
