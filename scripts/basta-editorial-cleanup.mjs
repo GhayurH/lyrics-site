@@ -92,9 +92,14 @@ for (const poem of catalog.kalams) {
     if(!text?.trim()) continue;
     const starts=text.trim().split("\n").map(x=>x.trim()).filter(Boolean);
     let first=starts[0];
-    // An occasional printed poet credit precedes the unnumbered Salam.
-    if (credit(first,kind) || (/^(?:ڈاکٹر|پروفیسر|سید)\s/u.test(first) && poem.sectionRoman==="Salam" && starts.length>2 && !/^[0-9٠-٩۰-۹]+$/u.test(starts[1])))
-      first=starts[1];
+    // A few short Salam/Qit'a pieces have a genre label or only a poet
+    // byline where the printed title would otherwise be.
+    if(poem.sectionRoman==="Salam") {
+      let skip=0;
+      if (/^(?:\[?(?:مختصر\s+)?قطعہ\]?|رباعی|Qit'?a|Rubai|Salam ba-huzur|سلام بحضور|قطعہ\s*\/)/iu.test(starts[skip])) skip++;
+      if (/^(?:ڈاکٹر|پروفیسر|سید|الحاج|علامہ|مولانا|Professor|Doctor|Allama|Maulana|Syed|Alhaj)\s/iu.test(starts[skip]||"")) skip++;
+      if(skip && starts[skip]) first=starts[skip];
+    }
     const tail = starts.at(-1);
     const lastPage = poem.pages.at(-1), startPage=poem.pages[0];
     const endDoc=docs.get(kind+":"+lastPage),beginDoc=docs.get(kind+":"+startPage);
@@ -147,7 +152,7 @@ for (const poem of catalog.kalams) {
     const content=update.match.piece.trimEnd().split("\n");
     const lastContent=content.filter(x=>x.trim()&&!bracketNote(x)).at(-1)?.trim();
     const recent=content.filter(x=>x.trim()&&!bracketNote(x)).slice(-3).map(lineNorm);
-    if(recent.includes(lineNorm(first)))continue;
+    if(recent.some(x=>x===lineNorm(first)))continue;
     if(!first || first.length<12 || /^[0-9٠-٩۰-۹]+$/u.test(first) || bracketNote(first) || credit(first,kind)) {
       report.skipped.push({id:poem.id,kind,why:"opening unsuitable",first});continue;
     }
