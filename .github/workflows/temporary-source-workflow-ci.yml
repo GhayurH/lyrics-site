@@ -1,0 +1,30 @@
+name: Temporary centralized source workflow validation
+on:
+  push:
+    branches:
+      - chore/resolve-astro-check-hints-2026-11-02
+jobs:
+  source:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Read-only unified source validation
+        run: npm run source:check
+      - name: Synchronize sources and prove idempotence
+        shell: bash
+        run: |
+          npm run source:sync
+          git diff --exit-code -- src/data
+      - name: Verify Astro type checks
+        run: npm run check
+      - name: Verify production build including Pagefind and offline index
+        run: |
+          npm run build
+          test -f dist/pagefind/pagefind.js
+          test -f dist/data/offline-search-assets.json
