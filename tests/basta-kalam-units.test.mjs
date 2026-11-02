@@ -159,3 +159,35 @@ test("an exact single-word title can identify a poem after an unindexed excerpt"
   assert.deepEqual(result.kalams[1].pages, [151]);
   assert.equal(result.orphans.length, 1);
 });
+
+
+test("editorially corrected Roman pages preserve every Urdu verse and boundary slot", async () => {
+  const pages = [
+    342,343,344,345,367,378,379,385,393,395,396,399,401,402,403,
+    428,429,430,431,432,433,435,436,437,444,445,446,447,448,449,
+    450,451,452,453,454,455,456,457,458,459,460,462,463,
+  ];
+  const layout = (text) => body(text).split("\n").map((line) =>
+    line.trim() === "---***---" ? "boundary" : line.trim() ? "verse" : "blank");
+  for (const page of pages) {
+    const [urdu, roman] = await Promise.all([
+      file("pages/" + page + ".md"), file("roman/" + page + ".md"),
+    ]);
+    assert.deepEqual(layout(roman), layout(urdu), "Basta page " + page);
+  }
+});
+
+test("page 451 is a subtitle of poem 49 rather than a new indexed identity", async () => {
+  const index = JSON.parse(await file("index.json"));
+  const entries = index.filter((item) => item.sectionRoman === "Mutafarriqat-o-Qaumiyat");
+  assert.ok(entries.some((item) => item.number === 49 && item.page === 444));
+  assert.equal(entries.some((item) => item.number === 50), false);
+  assert.ok(entries.some((item) => item.number === 51 && item.page === 454));
+  const locks = JSON.parse(await readFile(
+    new URL("../src/data/recitation/identity-lock.json", import.meta.url), "utf8"));
+  const retired = locks.basta.find((item) => item.id === "basta-mutafarriqat-o-qaumiyat-050");
+  assert.equal(retired?.retired, true);
+  for (const kind of ["pages", "roman"]) {
+    assert.match(body(await file(kind + "/451.md")), /\[\[subtitle\]\]/);
+  }
+});
