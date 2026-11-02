@@ -209,3 +209,24 @@ test("distinctive split bylines preserve proper title styling in both scripts", 
     assert.equal(lines[3].verse, true);
   }
 });
+
+test("a three-line 3-verse poem preface has a title, subtitle, and poet", () => {
+  for (const [name, secondary, poet] of [
+    ["عقل و شعور ہیں رب کی نعمت، حقِ نعمت ادا کرو", "حقِ مودّت ادا کرو", "سبط جعفر"],
+    ["Aql-o-shuur hain Rab ki nemat, Haq-e-nemat ada karo", "Haq-e-mawaddat ada karo", "Sibt Jafar"],
+  ]) {
+    const lines = layoutBastaKalam([name, secondary, poet, "", name, "verse two", "verse three"].join("\n"));
+    assert.equal(lines[0].title, true);
+    assert.equal(lines[1].subtitle, true);
+    assert.equal(lines[1].verse, false);
+    assert.equal(lines[2].poet, true);
+    assert.equal(lines[3].hidden, true);
+    assert.deepEqual(lines.slice(4).map(line => line.verse), [true,true,true]);
+  }
+});
+
+test("Noha attribution distinguishes a title from unnumbered couplets", () => {
+  const lines = layoutBastaKalam("روایتِ شامِ غریباں\nشفق اکبر آبادی\n\nکون آلِ پیمبر کا اب پوچھنے والا ہے\nدوسرا مصرع");
+  assert.equal(lines[0].title, true);
+  assert.equal(lines[1].poet, true);
+});
