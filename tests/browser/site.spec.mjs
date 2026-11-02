@@ -64,7 +64,8 @@ test("Search and Saved explain their browser-only features without JavaScript", 
     await page.goto("/search/");
     await expect(page.getByText("Search requires JavaScript", { exact: false })).toBeVisible();
     await page.goto("/saved/");
-    await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();    });
+    await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();
+  });
 });
 
 test("homepage search passes the entered term to archive search", async ({ page }) => {
@@ -80,7 +81,8 @@ test("Basta without JavaScript offers the index instead of a nonfunctional jump 
     await page.goto("/basta/");
     await expect(page.locator(".basta-home-page-jump")).toBeHidden();
     await expect(page.locator(".basta-home-nojs")).toBeVisible();
-    await expect(page.getByRole("link", { name: "Browse book index" })).toBeVisible();    });
+    await expect(page.getByRole("link", { name: "Browse book index" })).toBeVisible();
+  });
 });
 
 test("Basta bookmarks can be saved, revisited and removed from the Saved page", async ({ page }) => {

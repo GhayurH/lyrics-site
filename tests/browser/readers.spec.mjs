@@ -10,7 +10,8 @@ test("all reader types expose text before JavaScript initializes @smoke", async 
     await expect(page.locator("[data-reading-controls] .basta-pager")).toBeVisible();
     await expect(page.locator("[data-reading-controls] .reading-focus-enter")).toBeHidden();
     await page.goto("/basta/read/");
-    await expect(page.locator('.basta-reader-page[data-basta-page="3"]')).toBeVisible();    });
+    await expect(page.locator('.basta-reader-page[data-basta-page="3"]')).toBeVisible();
+  });
 });
 
 test("printed Basta genre titles, names and near-repeated headings use shared typography", async ({ page }) => {

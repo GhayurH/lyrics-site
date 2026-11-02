@@ -14,7 +14,7 @@ export function visibleReadingAnchor(root: HTMLElement): ReadingAnchor | undefin
     }
   }
   return undefined;
-  
+
 }
 export function restoreReadingAnchor(saved: ReadingAnchor | undefined, scroller: HTMLElement | Window): void {
 
@@ -23,5 +23,5 @@ export function restoreReadingAnchor(saved: ReadingAnchor | undefined, scroller:
   if (Math.abs(delta) < 1) return;
   if (scroller === window) window.scrollBy(0, delta);
   else (scroller as HTMLElement).scrollTop += delta;
-  
+
 }

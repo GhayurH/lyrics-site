@@ -19,4 +19,3 @@ export const move = <T>(items: T[], start: number, end: number): T[] => {
   copy.splice(end, 0, copy.splice(start, 1)[0]);
   return copy;
 };
-
