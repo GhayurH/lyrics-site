@@ -189,6 +189,12 @@ export function layoutBastaKalam(
         !isCreditLine(lines[byline.start + 1])) {
       display[byline.start].title = true;
       display[byline.start + 1].poet = true;
+    } else if (byline && byline.end - byline.start === 3 &&
+        isKnownByline(lines[byline.start + 2])) {
+      // Recitation Sets render this three-part preface without its next verse.
+      display[byline.start].title = true;
+      display[byline.start + 1].subtitle = true;
+      display[byline.start + 2].poet = true;
     }
   }
 
