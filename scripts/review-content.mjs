@@ -72,6 +72,7 @@ for (const page of roman) {
     issue(page.path, 2, "orphan-roman", "Roman page has no corresponding Urdu/source page");
 }
 const index = JSON.parse(await readFile(join(root, "basta/index.json"), "utf8"));
+const fragmentRoles = JSON.parse(await readFile(join(root, "basta/fragment-roles.json"), "utf8"));
 const sourcePages = urdu.filter(x => !x.imageOnly &&
   x.fields.contentKind !== "english-appendix" &&
   x.fields.contentKind !== "editorial-note").map(x => ({
@@ -80,11 +81,11 @@ const sourcePages = urdu.filter(x => !x.imageOnly &&
 const editorial = auditBastaEditorial(index, sourcePages);
 let catalog;
 try {
-  catalog = buildBastaKalamCatalog(index, sourcePages);
+  catalog = buildBastaKalamCatalog(index, sourcePages, fragmentRoles.fragments);
 } catch (error) {
   issue("src/data/basta/index.json", 1, "catalog-error",
     "Basta index-to-source mapping could not be built: " + String(error?.message ?? error));
-  catalog = { kalams: [], orphans: [], issues: [] };
+  catalog = { kalams: [], orphans: [], assignments: {}, issues: [] };
 }
 const sourcePath = (page) => pages.get(page)?.path ??
   "src/data/basta/pages/" + String(page).padStart(3, "0") + ".md";
@@ -95,9 +96,9 @@ for (const item of catalog.kalams) {
         item.id + " (" + item.name + "): " + message);
   }
 }
-const fragmentRoles = JSON.parse(await readFile(join(root, "basta/fragment-roles.json"), "utf8"));
 const reviewed = validateReviewedFragments(fragmentRoles,
-  new Map(urdu.map(page => [page.page, page.body])), catalog.orphans);
+  new Map(urdu.map(page => [page.page, page.body])),
+  catalog.orphans, catalog.assignments);
 for (const finding of reviewed.issues)
   issue("src/data/basta/fragment-roles.json", 1, finding.code,
     finding.key + ": " + finding.detail);

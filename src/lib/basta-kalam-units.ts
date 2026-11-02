@@ -56,6 +56,8 @@ export interface BastaKalam {
 export interface BastaKalamAudit {
   kalams: BastaKalam[];
   orphans: Array<{ page: number; part: number; opening: string }>;
+  /** One-based page fragment IDs mapped to published index IDs. */
+  assignments: Record<string, string>;
   issues: string[];
 }
 
@@ -169,7 +171,10 @@ function extractStanzas(fragments: BastaSourceFragment[]): {
  * cannot be mapped unambiguously. Source Markdown is never rewritten.
  * A multi-page poem is composed from its ordered page fragments.
  */
-export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSourcePage[]): BastaKalamAudit {
+export function buildBastaKalamCatalog(
+  index: BastaKalamIndex[], pages: BastaSourcePage[],
+  reviewed: Record<string, { role: string; opening: string; of?: string }> = {},
+): BastaKalamAudit {
   const poetry = index.filter((entry) => entry.sectionRoman !== "Mazameen");
   const ids = new Set<string>();
   const work = poetry.map((entry) => {
@@ -186,6 +191,7 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
     byPage.set(item.entry.page, list);
   }
   const orphans: BastaKalamAudit["orphans"] = [];
+  const assignments: Record<string, string> = {};
   const issues: string[] = [];
   let previous: Working | undefined;
   for (const page of [...pages].sort((a, b) => a.page - b.page)) {
@@ -227,7 +233,12 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
         const openingNumber = normalizePrintedStanzaNumber(
           urduPieces[0].trim().split("\n")[0],
         );
+        const declared = reviewed[page.page + ":1"];
+        const opening = urduPieces[0].split("\n").find(line => line.trim())?.trim();
         if (lastNumber !== undefined && openingNumber === lastNumber + 1)
+          continuation = 0;
+        else if (declared?.role === "continuation" &&
+                 declared.of === previous.id && declared.opening === opening)
           continuation = 0;
       }
     } else if (starts.length > 0 && previous &&
@@ -265,7 +276,10 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
       });
       if (previous && !used.has(0) && positions.every((i) => i !== 0)) continuation = 0;
     }
-    if (continuation !== -1 && previous) previous.parts.push(fragment(continuation));
+    if (continuation !== -1 && previous) {
+      previous.parts.push(fragment(continuation));
+      assignments[page.page + ":" + (continuation + 1)] = previous.id;
+    }
     const assigned = new Set<number>();
     if (continuation !== -1 && previous) assigned.add(continuation);
     starts.forEach((item, index) => {
@@ -285,6 +299,7 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
           previous.issues.push("Possible unassigned continuation at page " + page.page);
       }
       item.parts.push(fragment(position));
+      assignments[page.page + ":" + (position + 1)] = item.id;
       assigned.add(position);
       previous = item;
     });
@@ -324,7 +339,7 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
       numbered: extracted.stanzas.length > 0,
     };
   });
-  return { kalams, orphans, issues };
+  return { kalams, orphans, assignments, issues };
 }
 
 /** Recitation arrangements refer to the original source, never duplicate or edit it. */

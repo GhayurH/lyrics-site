@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import index from "../data/basta/index.json";
 import identityLock from "../data/recitation/identity-lock.json";
+import fragmentRoles from "../data/basta/fragment-roles.json";
 import { applyRecitationIds } from "./recitation-identity";
 import { buildBastaKalamCatalog, type BastaKalamAudit, type BastaSourcePage } from "./basta-kalam-units";
 
@@ -19,7 +20,7 @@ export function loadBastaKalamCatalog(): Promise<BastaKalamAudit> {
         urdu: item.body || "",
         roman: byPage.get(item.data.page),
       }));
-      const catalog = buildBastaKalamCatalog(index, pages);
+      const catalog = buildBastaKalamCatalog(index, pages, fragmentRoles.fragments);
       return { ...catalog, kalams: applyRecitationIds(catalog.kalams, { ...identityLock, version: 1 }) };
     })();
   }

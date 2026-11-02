@@ -215,6 +215,19 @@ test("exact short Urdu titles are distinct from their neighboring continuations"
   assert.equal(result.orphans.length, 0);
 });
 
+test("explicitly reviewed unnumbered page continuation attaches to its existing ID", () => {
+  const poem = { ...first, page: 142, number: 12 };
+  const firstPage = { page: 142, urdu: "گھر سے جب بہر سفر\nشروع" };
+  const nextPage = { page: 143, urdu: "پہلا حصہ جاری\nایک مصرع\n---***---\nالگ قطعہ" };
+  const reviewed = { "143:1": { role: "continuation",
+    of: "basta-marsiye-012", opening: "پہلا حصہ جاری" } };
+  const result = buildBastaKalamCatalog([poem], [firstPage, nextPage], reviewed);
+  assert.equal(result.kalams[0].status, "ready");
+  assert.deepEqual(result.kalams[0].pages, [142, 143]);
+  assert.deepEqual(result.assignments, { "142:1": "basta-marsiye-012",
+    "143:1": "basta-marsiye-012" });
+  assert.deepEqual(result.orphans.map(item => item.part), [2]);
+});
 test("a gap cannot join an indexed poem to a later appendix", () => {
   const result = buildBastaKalamCatalog([first], [
     { page: 142, urdu: "گھر سے جب بہر سفر\nشروع" },

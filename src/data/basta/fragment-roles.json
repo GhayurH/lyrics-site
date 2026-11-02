@@ -431,6 +431,17 @@
       "opening": "دم بہ دم علی علی",
       "reason": "Separately printed supplementary poem or attribution absent from the printed index"
     },
+    "370:1": {
+      "role": "continuation",
+      "of": "basta-hamd-naat-o-manaqib-012",
+      "opening": "کعبہ جس کا پڑھتے ہو، بغض اُن سے رکھتے ہو",
+      "reason": "Verified unnumbered continuation of indexed poem from previous printed page"
+    },
+    "370:2": {
+      "role": "supplement",
+      "opening": "تقسیم کی گئی ہے زکوٰۃ اُس کے نور کی",
+      "reason": "Separately printed short poem without printed index entry"
+    },
     "372:2": {
       "role": "supplement",
       "opening": "سید ہاشم رضا ہاشم",
@@ -481,6 +492,12 @@
       "opening": "ڈاکٹر پروفیسر ہلال نقوی",
       "reason": "Separately printed supplementary poem or attribution absent from the printed index"
     },
+    "421:1": {
+      "role": "continuation",
+      "of": "basta-mutafarriqat-o-qaumiyat-026",
+      "opening": "پیروں کے آستانے کتنے سجے ہوئے ہیں",
+      "reason": "Verified unnumbered continuation of indexed poem from previous printed page"
+    },
     "421:2": {
       "role": "supplement",
       "opening": "قطعہ / سید مہدی ظہیر رضوی کلیمی",
@@ -490,6 +507,12 @@
       "role": "supplement",
       "opening": "ڈاکٹر سید یاور عباس",
       "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "425:1": {
+      "role": "continuation",
+      "of": "basta-mutafarriqat-o-qaumiyat-029",
+      "opening": "برگزیدہ خاص ہیں زہرا خداوندِ دو عالم کی",
+      "reason": "Verified unnumbered continuation of indexed poem from previous printed page"
     },
     "425:2": {
       "role": "supplement",
