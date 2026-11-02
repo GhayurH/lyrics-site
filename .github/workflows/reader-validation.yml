@@ -112,16 +112,3 @@ jobs:
           path: test-results/
           if-no-files-found: ignore
           retention-days: 7
-
-  editorial_source_snapshot:
-    if: github.event_name == 'pull_request' && github.head_ref == 'fix/basta-editorial-cleanup-2026-11-02'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-      - uses: actions/upload-artifact@v7
-        with:
-          name: basta-edit-snapshot
-          path: |
-            src/data/basta/pages/
-            src/data/basta/roman/
-          retention-days: 1

@@ -247,6 +247,21 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   if (kind.startsWith("basta-") && page !== undefined && page >= 85) {
     // Prayer notices should not be stored as poetry. Only classify
     // standalone requests, never a verse mentioning iltimas or fatiha.
+    const sourceLines = body.split("\n");
+    // Keep one blank line between paragraphs, not multiple. Courtesy credits
+    // follow the poem/recurring title as their own paragraph.
+    sourceLines.forEach((line, index) => {
+      if (index > 1 && !line.trim() && !sourceLines[index - 1].trim() &&
+          sourceLines[index - 2].trim()) {
+        record(issues, path, bodyLine + index, "basta-excess-blank-lines",
+          "Two or more consecutive blank lines in a Basta source");
+      }
+      if (/^\s*\(?(?:بشکریہ|Bashukriya)(?:\s|[):]|$)/iu.test(line) &&
+          index > 0 && sourceLines[index - 1].trim()) {
+        record(issues, path, bodyLine + index, "basta-courtesy-spacing",
+          "Source acknowledgement should have one blank line above it");
+      }
+    });
     body.split("\n").forEach((line, index) => {
       const normalized = line.replace(/\u0640/gu, "").replace(/[\u064B-\u065F]/gu, "").trim();
       if (/^\(?\s*(?:التماس|iltimas)(?:[\sِ-]*e)?[\sِ-]*(?:(?:سور[ۃہ]|surah|surat)(?:[\s-]*e)?[\s-]*)?(?:فاتحہ|fatiha|fateha|دعا|dua)/iu.test(normalized))
