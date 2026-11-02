@@ -128,6 +128,15 @@ jobs:
       - name: Apply reviewed Basta editorial changes once
         shell: bash
         run: |
+          if git log -1 --format=%B | grep -Fq '[refresh-lock]'; then
+            node --experimental-strip-types scripts/basta-id-refresh.mjs > basta-lock-review.json
+            git add src/data/recitation/identity-lock.json
+            git diff --cached --check
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Preserve stanza IDs and register recovered Marsiya verses'
+            git push origin HEAD:${{ github.head_ref }}
+          fi
           if git log -1 --format=%B | grep -Fq '[apply-basta]'; then
             node --experimental-strip-types scripts/basta-editorial-cleanup.mjs --apply > basta-applied.json
             git add src/data/basta/pages/ src/data/basta/roman/
