@@ -118,6 +118,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - run: node --experimental-strip-types scripts/basta-cleanup-analysis.mjs > basta-analysis.json
+      - uses: actions/upload-artifact@v7
+        with:
+          name: basta-analysis-json
+          path: basta-analysis.json
       - uses: actions/upload-artifact@v7
         with:
           name: basta-source-analysis
