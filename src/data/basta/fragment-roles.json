@@ -1,4 +1,505 @@
 {
   "version": 1,
-  "fragments": {}
+  "fragments": {
+    "94:2": {
+      "role": "supplement",
+      "opening": "اک سمت شہیدوں میں غریب الوطنی ہے",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "94:3": {
+      "role": "supplement",
+      "opening": "دل سے نہ ہو درد کم، حسینؑ کا",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "108:2": {
+      "role": "supplement",
+      "opening": "منقبت جعفر حسینؑ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "108:4": {
+      "role": "supplement",
+      "opening": "وفا کی جان مِٹا اہلِ دل کی نظروں میں",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "108:5": {
+      "role": "supplement",
+      "opening": "کرم، صبر و وفا کی سلطنت کا نام ہے حیدرؑ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "110:3": {
+      "role": "supplement",
+      "opening": "پروفیسر مرزا قمر عباس وفا کانپوری",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "115:3": {
+      "role": "supplement",
+      "opening": "اِک دور سلامی دنیا کا صدیوں میں ایسا آتا ہے",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "116:2": {
+      "role": "supplement",
+      "opening": "تیرے بچوں کا کھلا دنیا زینبؑ ختم الرسلؐ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "117:4": {
+      "role": "supplement",
+      "opening": "صبا اکبر آبادی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "122:4": {
+      "role": "supplement",
+      "opening": "نصیریوں کو کوئی کس طرح سے سمجھائے؟!",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "125:3": {
+      "role": "supplement",
+      "opening": "خوب جی بھر کر جمالِ روئے اکبرؑ دیکھنا",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "128:4": {
+      "role": "supplement",
+      "opening": "مولانا سید ذیشان حیدر جوادی کلیم اللہ آبادی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "131:4": {
+      "role": "supplement",
+      "opening": "تھے زیست سے یوں ہاتھوں کو دھوئے سجادؑ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "138:2": {
+      "role": "supplement",
+      "opening": "بین",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "140:4": {
+      "role": "supplement",
+      "opening": "علامہ طالب جوہری مدظلہ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "158:2": {
+      "role": "supplement",
+      "opening": "رضوی چارچوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "158:3": {
+      "role": "supplement",
+      "opening": "جعفر حسین جعفر",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "159:2": {
+      "role": "supplement",
+      "opening": "وقار محسن",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "161:2": {
+      "role": "supplement",
+      "opening": "پروفیسر اقبال عظیم",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "164:2": {
+      "role": "supplement",
+      "opening": "اختر ہاشمی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "168:2": {
+      "role": "supplement",
+      "opening": "ثاقب مظفرپوری",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "169:2": {
+      "role": "supplement",
+      "opening": "اعجاز رحمانی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "169:3": {
+      "role": "supplement",
+      "opening": "نصیر ترابی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "172:2": {
+      "role": "supplement",
+      "opening": "شہاب کاظمی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "172:3": {
+      "role": "supplement",
+      "opening": "سمیع تقوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "172:4": {
+      "role": "supplement",
+      "opening": "ذاکر و شاعر آلِ عمران",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "174:2": {
+      "role": "supplement",
+      "opening": "نفس فتح پوری",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "176:2": {
+      "role": "supplement",
+      "opening": "جاوید منظر",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "176:3": {
+      "role": "supplement",
+      "opening": "واقعۂ شانِ امامت بر علیؑ کی شمشیر",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "177:2": {
+      "role": "supplement",
+      "opening": "ختم رسولا پاک ہی میں منہک رہیں",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "178:2": {
+      "role": "supplement",
+      "opening": "ہر نعمتِ خدا راہِ ہر نعمت کوئی حسرت",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "185:2": {
+      "role": "supplement",
+      "opening": "مرزا اسد اللہ خاں غالب",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "185:3": {
+      "role": "supplement",
+      "opening": "حکیم مومن خاں مومن",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "189:2": {
+      "role": "supplement",
+      "opening": "سید ہاشم رضا",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "189:3": {
+      "role": "supplement",
+      "opening": "ڈاکٹر کربلائی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "189:4": {
+      "role": "supplement",
+      "opening": "شہرت بلگرامی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "193:2": {
+      "role": "supplement",
+      "opening": "اعجاز رحمانی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "195:2": {
+      "role": "supplement",
+      "opening": "شاعر و سوزخواں ماجد رضا عابدی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "201:2": {
+      "role": "supplement",
+      "opening": "گلدستہ (جیبی بستہ)",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "205:2": {
+      "role": "supplement",
+      "opening": "عظمت بلگرامی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "208:2": {
+      "role": "supplement",
+      "opening": "رضا الہ آبادی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "222:2": {
+      "role": "supplement",
+      "opening": "پروفیسر کرار حسین",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "222:3": {
+      "role": "supplement",
+      "opening": "رفیق رضوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "229:2": {
+      "role": "supplement",
+      "opening": "حبیب جالب",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "229:3": {
+      "role": "supplement",
+      "opening": "شاہد تقوی الہ آبادی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "233:2": {
+      "role": "supplement",
+      "opening": "عاشور کاظمی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "235:2": {
+      "role": "supplement",
+      "opening": "فہیم اختر",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "241:2": {
+      "role": "supplement",
+      "opening": "ابرار عابد",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "243:2": {
+      "role": "supplement",
+      "opening": "نعیم میرٹھی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "257:2": {
+      "role": "supplement",
+      "opening": "آغا شورش کاشمیری",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "264:2": {
+      "role": "supplement",
+      "opening": "شاعرِ پاکستان صہبا اختر",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "267:2": {
+      "role": "supplement",
+      "opening": "سہیل شاہ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "269:2": {
+      "role": "supplement",
+      "opening": "تجمل لکھنوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "269:3": {
+      "role": "supplement",
+      "opening": "ثمر ہوشنگ آبادی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "281:2": {
+      "role": "supplement",
+      "opening": "اقبال کاظمی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "281:3": {
+      "role": "supplement",
+      "opening": "اعجاز اسلم",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "285:2": {
+      "role": "supplement",
+      "opening": "آصف عابدی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "286:2": {
+      "role": "supplement",
+      "opening": "سید تہوّر علی جعفری امروہوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "289:3": {
+      "role": "supplement",
+      "opening": "اسیر فیض آبادی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "289:4": {
+      "role": "supplement",
+      "opening": "مجلسِ غم میں کھڑی رہی ہیں زہرا",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "292:2": {
+      "role": "supplement",
+      "opening": "ناشِ شبیرؑ پہ یہ سوچ رہا ہے اسلام",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "292:3": {
+      "role": "supplement",
+      "opening": "پروفیسر مرزا محمد اشتیاق شوق لکھنوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "293:2": {
+      "role": "supplement",
+      "opening": "امام شافعیؒ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "293:3": {
+      "role": "supplement",
+      "opening": "حضرت خواجہ نظام الدین اولیاءؒ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "296:2": {
+      "role": "supplement",
+      "opening": "قیصر بارہوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "300:2": {
+      "role": "supplement",
+      "opening": "شاہد جعفر",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "304:2": {
+      "role": "supplement",
+      "opening": "زاہد تقوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "307:2": {
+      "role": "supplement",
+      "opening": "علمدار حسین اسلم",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "313:2": {
+      "role": "supplement",
+      "opening": "برق زیدی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "313:3": {
+      "role": "supplement",
+      "opening": "میر رضی میر",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "331:2": {
+      "role": "supplement",
+      "opening": "احمد ندیم قاسمی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "331:4": {
+      "role": "supplement",
+      "opening": "ذاکر حسین زیدی / امریکہ (از مولائے کائنات)",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "341:3": {
+      "role": "supplement",
+      "opening": "قمر زیدی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "354:2": {
+      "role": "supplement",
+      "opening": "ساگر لکھنوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "354:3": {
+      "role": "supplement",
+      "opening": "سید سبط حسن انجم",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "356:2": {
+      "role": "supplement",
+      "opening": "حضرت شاہ عبد اللطیف بھٹائی کے سُر کڈاروں کا اقتباس",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "356:3": {
+      "role": "supplement",
+      "opening": "دوسروں کو جو مر کر کنارے مائیں بہنیں روتی ہیں",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "356:4": {
+      "role": "supplement",
+      "opening": "اور",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "360:2": {
+      "role": "supplement",
+      "opening": "سید غلام سیدین رضوی تاباں جارچوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "360:4": {
+      "role": "supplement",
+      "opening": "سید علی انصر رضوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "362:2": {
+      "role": "supplement",
+      "opening": "حکیم الامت حضرت علامہ اقبالؒ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "362:3": {
+      "role": "supplement",
+      "opening": "سید ہاشم رضا ہاشم",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "364:2": {
+      "role": "supplement",
+      "opening": "شاعر و مصور و خطاط یداللہ حیدر",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "366:2": {
+      "role": "supplement",
+      "opening": "شاعر و سوزخواں سبط جعفر ہوں میں، میرے مدوح تو آج ہر جگہ",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "366:3": {
+      "role": "supplement",
+      "opening": "صرف طاہر ہی نہیں ہے ان کے غم میں نوحہ خواں",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "367:3": {
+      "role": "supplement",
+      "opening": "دم بہ دم علی علی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "372:2": {
+      "role": "supplement",
+      "opening": "سید ہاشم رضا ہاشم",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "373:2": {
+      "role": "supplement",
+      "opening": "حکیم عارف اکبر آبادی (حنفی)",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "381:2": {
+      "role": "supplement",
+      "opening": "سرفراز ابد",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "382:2": {
+      "role": "supplement",
+      "opening": "صفدر حسین ڈوگر (مدیر القائم)",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "382:3": {
+      "role": "supplement",
+      "opening": "ریحان اعظمی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "383:2": {
+      "role": "supplement",
+      "opening": "وقار انبالوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "388:2": {
+      "role": "supplement",
+      "opening": "زاہد فتح پوری",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "399:2": {
+      "role": "supplement",
+      "opening": "حضرت شاداں دہلوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "404:3": {
+      "role": "supplement",
+      "opening": "زائر امروہوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "416:3": {
+      "role": "supplement",
+      "opening": "ڈاکٹر پروفیسر ہلال نقوی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "421:2": {
+      "role": "supplement",
+      "opening": "قطعہ / سید مہدی ظہیر رضوی کلیمی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "424:2": {
+      "role": "supplement",
+      "opening": "ڈاکٹر سید یاور عباس",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "425:2": {
+      "role": "supplement",
+      "opening": "حکیم عارف اکبر آبادی",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    },
+    "430:2": {
+      "role": "supplement",
+      "opening": "حضرت معجز جونپوری",
+      "reason": "Separately printed supplementary poem or attribution absent from the printed index"
+    }
+  }
 }
