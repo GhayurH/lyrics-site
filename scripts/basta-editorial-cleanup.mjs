@@ -21,7 +21,7 @@ for (const kind of ["pages", "roman"]) {
   }
 }
 const report = {prayer:[],latin:[],poets:[],refrains:[],skipped:[]};
-const prayerStart = text => /^(?:\(?\s*)?(?:التماس|iltimas)(?:[\sِ\-]*(?:سور[ۃہ]|surah|surat))?[\sِ\-]*(?:فاتحہ|fatiha|fateha|دعا|dua)/iu
+const prayerStart = text => /^\(?\s*(?:التماس|iltimas)(?:[\sِ-]*e)?[\sِ-]*(?:(?:سور[ۃہ]|surah|surat)(?:[\s-]*e)?[\s-]*)?(?:فاتحہ|fatiha|fateha|دعا|dua)/iu
   .test(text.replace(/\u0640/gu,"").replace(/[\u064B-\u065F]/gu,"").trim());
 function removePrayers(body,kind,page) {
   const originalParts = body.split(/^\s*---\*\*\*---\s*$/gmu);
