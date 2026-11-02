@@ -29,7 +29,7 @@
   /* Optical size differs across Urdu font designs; verse fitting still bounds line width. */
   --reading-urdu-optical-scale: 1;
   /* Nastaliq right-edge ink overhang; computed in the verse's own em units. */
-  --reading-urdu-ink-clearance: .28em;
+  --reading-urdu-ink-clearance: clamp(.375rem, .28em, .65rem);
   --reading-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
   --reading-title-increment: .25rem;
   --reading-urdu-leading: 2.8;
