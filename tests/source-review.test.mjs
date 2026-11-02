@@ -84,7 +84,7 @@ test("flags other writing systems and the established Roman name conventions", (
 
 test("detects editorial OCR placeholders without flagging normal prose about ambiguity", () => {
   const file = reviewMarkdown({ path: "src/data/lyrics/uncertain.md", kind: "lyrics",
-    text: lyric("متن نامکمل\\n[دو مصرع غیر واضح]", "Matn ghair wazeh\\n[Two lines unclear]") });
+    text: lyric("متن نامکمل\n[دو مصرع غیر واضح]", "Matn ghair wazeh\n[Two lines unclear]") });
   assert.equal(file.issues.filter(x => x.code === "unverified-text").length, 2);
   const prose = reviewMarkdown({ path: "src/data/lyrics/ordinary.md", kind: "lyrics",
     text: lyric("یہ عبارت نامکمل نہیں ہے", "Matn ghair wazeh nahi hai") });
