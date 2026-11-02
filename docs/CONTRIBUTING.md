@@ -30,6 +30,8 @@ npm run basta:index:sync    # Only for reviewed index corrections
 # The index sync command changes title labels only, never source Markdown.
 ```
 
+The scan's contents need not all have printed-index entries. Small interspersed poems, quotations and bylines intentionally remain part of the source pages without getting standalone IDs. Record reviewed exceptions in `src/data/basta/fragment-roles.json`: each `page:fragment` key must have `role: "supplement"`, an exact first-line `opening`, and a short `reason`. The audit validates that the fragment is still genuinely unindexed and the opening still matches, so separator or index changes invalidate stale exceptions. Never classify the whole page, suppress Urdu/Roman checks, or fabricate an index entry just to silence a warning. `contentKind: editorial-note | english-appendix` and `romanExpected: false` are available for non-poetry source pages.
+
 The review command checks script mixing, extended Latin letters, stray Unicode controls, stanza and verse alignment, metadata, missing editions, and uncertain Basta index/source mapping. Its findings are advisory; inspect original scans and intended refrains before editing. **Do not** gate builds on a currently nonempty editorial queue.
 
 Stable `recitationId` values and numbered-stanza anchors are permanent. Review [Recitation Set identity rules](RECITATION_SETS.md#permanent-source-identity) before renaming, moving or renumbering a poem.

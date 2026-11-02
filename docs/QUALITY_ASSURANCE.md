@@ -42,5 +42,6 @@ Use keyboard Tab, Shift+Tab, Enter and Escape; test focus visibility, announceme
 
 - Test R2 image redirects on preview/production, slow or blocked scans, and book-chunk retry. Local `astro preview` cannot reproduce all Pages behavior.
 - Verify published programme create/edit/delete and expiry against the target D1 environment; do not expose edit tokens in public QR codes or caches.
+- Keep the reviewed supplementary-fragment manifest current when separators or printed index associations change. The audit must warn on missing and stale role declarations; source snippets still undergo normal Unicode, OCR, and Urdu/Roman comparisons. Do not approve uncertain scanned text automatically.
 - Use `npm run content:review` (or `npm run content:review -- --markdown > review.md`) to inspect all potential source, script, numbering, and index issues. Review uncertain Basta index/fragment mappings against original scans before editing source. Pixel-accurate highlighting requires *confirmed* scan coordinates; a linked printed page alone is not a verified image region.
 - Measure cold/mobile network font/CSS/JS requests, first/largest contentful paint and cumulative layout shift. Record browser/network conditions, not just an asset-size total.
