@@ -60,130 +60,21 @@ jobs:
           else
             echo 'full=false' >> "$GITHUB_OUTPUT"
           fi
-          # Run Astro diagnostics for code changes; packages are installed by npm ci.
-          # Pure content, styling and test changes do not need a second check.
-          # Reconcile titles only when index or source pages have changed,
-          # and in weekly/manual validation. Never infer poem boundaries.
+          # Check the source-linked index when its titles or source text changes.
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || \
-             grep -Eq '^src/data/basta/(index\.json|(pages|roman)/[^/]+\.md)
-            echo 'check=true' >> "$GITHUB_OUTPUT"
-          else
-            echo 'check=false' >> "$GITHUB_OUTPUT"
-          fi
-      - name: Verify Basta index labels
-        # The index is source-linked but never rewrite manually reviewed Markdown.
-        if: steps.test_mode.outputs.index == 'true'
-        run: npm run basta:index:check
-      - name: Validate Astro and TypeScript semantics
-        if: steps.test_mode.outputs.check == 'true'
-        run: npm run check
-      - run: npm run build
-      - name: Report JavaScript, CSS, and font asset sizes
-        run: npm run perf:assets
-      - name: Generate source review queue (Basta and standalone)
-        if: steps.test_mode.outputs.full == 'true'
-        run: |
-          npm run --silent content:review -- --markdown > content-review.md
-          npm run --silent content:review -- --csv > content-review.csv
-          grep '^Audited ' content-review.md
-      - name: Save editorial review queue
-        if: steps.test_mode.outputs.full == 'true'
-        uses: actions/upload-artifact@v7
-        with:
-          name: content-review
-          path: |
-            content-review.md
-            content-review.csv
-          retention-days: 14
-      - name: Verify deployment asset redirects
-        run: |
-          test -f dist/_redirects
-          grep -Fq '/images/* https://r2-assets.kalamarchive.com/images/:splat 302' dist/_redirects
-          grep -Fq '/files/* https://r2-assets.kalamarchive.com/files/:splat 302' dist/_redirects
-          test -f dist/_routes.json
-          node --input-type=module -e "import { readFileSync } from 'node:fs'; const routes=JSON.parse(readFileSync('dist/_routes.json','utf8')); for (const path of ['/api/recitation-sets','/api/recitation-sets/*','/r/*']) if (!routes.include.includes(path)) throw Error('Missing Pages Function route: '+path); if (routes.include.includes('/*')) throw Error('Unexpected all-static Function invocation');"
-      - name: Browser regression suite (smoke or full)
-        # Every PR/main build runs smoke; weekly/manual/opt-in checks run full.
-        run: |
-          if [ "${{ steps.test_mode.outputs.full }}" = "true" ]; then
-            npm run test:browser
-          else
-            npm run test:smoke
-          fi
-      - name: Save failing browser screenshots and traces
-        if: failure()
-        uses: actions/upload-artifact@v7
-        with:
-          name: reader-browser-failure
-          path: test-results/
-          if-no-files-found: ignore
-          retention-days: 7
- <<< "$changed"; then
+             grep -Eq '^src/data/basta/(index\.json|(pages|roman)/[^/]+\.md)$' <<< "$changed"; then
             echo 'index=true' >> "$GITHUB_OUTPUT"
           else
             echo 'index=false' >> "$GITHUB_OUTPUT"
           fi
+          # Run Astro diagnostics only for code changes or explicit opt-in.
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || \
-             grep -Eq '\.(astro|tsx?|jsx?)
+             grep -Eq '\.(astro|tsx?|jsx?)$' <<< "$changed" || grep -Fq '[check-ci]' <<< "$messages"; then
             echo 'check=true' >> "$GITHUB_OUTPUT"
           else
             echo 'check=false' >> "$GITHUB_OUTPUT"
           fi
       - name: Verify Basta index labels
-        # The index is source-linked but never rewrite manually reviewed Markdown.
-        if: steps.test_mode.outputs.index == 'true'
-        run: npm run basta:index:check
-      - name: Validate Astro and TypeScript semantics
-        if: steps.test_mode.outputs.check == 'true'
-        run: npm run check
-      - run: npm run build
-      - name: Report JavaScript, CSS, and font asset sizes
-        run: npm run perf:assets
-      - name: Generate source review queue (Basta and standalone)
-        if: steps.test_mode.outputs.full == 'true'
-        run: |
-          npm run --silent content:review -- --markdown > content-review.md
-          npm run --silent content:review -- --csv > content-review.csv
-          grep '^Audited ' content-review.md
-      - name: Save editorial review queue
-        if: steps.test_mode.outputs.full == 'true'
-        uses: actions/upload-artifact@v7
-        with:
-          name: content-review
-          path: |
-            content-review.md
-            content-review.csv
-          retention-days: 14
-      - name: Verify deployment asset redirects
-        run: |
-          test -f dist/_redirects
-          grep -Fq '/images/* https://r2-assets.kalamarchive.com/images/:splat 302' dist/_redirects
-          grep -Fq '/files/* https://r2-assets.kalamarchive.com/files/:splat 302' dist/_redirects
-          test -f dist/_routes.json
-          node --input-type=module -e "import { readFileSync } from 'node:fs'; const routes=JSON.parse(readFileSync('dist/_routes.json','utf8')); for (const path of ['/api/recitation-sets','/api/recitation-sets/*','/r/*']) if (!routes.include.includes(path)) throw Error('Missing Pages Function route: '+path); if (routes.include.includes('/*')) throw Error('Unexpected all-static Function invocation');"
-      - name: Browser regression suite (smoke or full)
-        # Every PR/main build runs smoke; weekly/manual/opt-in checks run full.
-        run: |
-          if [ "${{ steps.test_mode.outputs.full }}" = "true" ]; then
-            npm run test:browser
-          else
-            npm run test:smoke
-          fi
-      - name: Save failing browser screenshots and traces
-        if: failure()
-        uses: actions/upload-artifact@v7
-        with:
-          name: reader-browser-failure
-          path: test-results/
-          if-no-files-found: ignore
-          retention-days: 7
- <<< "$changed" || grep -Fq '[check-ci]' <<< "$messages"; then
-            echo 'check=true' >> "$GITHUB_OUTPUT"
-          else
-            echo 'check=false' >> "$GITHUB_OUTPUT"
-          fi
-      - name: Verify Basta index labels
-        # The index is source-linked but never rewrite manually reviewed Markdown.
         if: steps.test_mode.outputs.index == 'true'
         run: npm run basta:index:check
       - name: Validate Astro and TypeScript semantics
