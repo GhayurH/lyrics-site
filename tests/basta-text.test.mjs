@@ -175,3 +175,23 @@ test("Basta circle counter strips punctuation but does not change verse numeral 
   assert.ok(!lines[1].stanzaNumber);
   assert.equal(lines[1].text, "ایک مصرع");
 });
+
+
+test("explicit editorial subtitles and major refrains render without leaking markup", () => {
+  const lines = layoutBastaKalam(
+    "Opening\n[[subtitle]] Special heading\n\nOpening\nSecond verse\n\n[[refrain]] Opening"
+  );
+  const subtitle = lines[1];
+  assert.equal(subtitle.text, "Special heading");
+  assert.equal(subtitle.subtitle, true);
+  assert.equal(subtitle.poet, undefined);
+  assert.ok(bastaVerseClassNames(subtitle).includes("basta-kalam-subtitle"));
+  assert.ok(!bastaVerseClassNames(subtitle).includes("kalam-poet-credit"));
+  const refrain = lines.at(-1);
+  assert.equal(refrain.text, "Opening");
+  assert.equal(refrain.refrain, true);
+  assert.equal(refrain.verse, true);
+  assert.ok(bastaVerseClassNames(refrain).includes("basta-refrain"));
+  assert.ok(bastaVerseClassNames(refrain).includes("basta-verse-poetry"));
+});
+
