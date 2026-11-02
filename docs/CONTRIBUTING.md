@@ -16,6 +16,8 @@ Standalone poetry lives in `src/data/lyrics/` and follows `src/content.config.ts
 
 Basta index, source pages, Roman transcriptions and settings are in `src/data/basta/`. Preserve printed page numbers, title/byline prefaces and **matching** `---***---` Urdu/Roman boundaries. Never hand-edit generated streaming output. Audit results are review candidates, not permission to reconstruct OCR by guesswork.
 
+For a reviewed subordinate heading or repeated major refrain, prefix the corresponding Urdu **and** Roman lines with `[[subtitle]] ` or `[[refrain]] `, respectively. Both markers are removed from rendered text. Ordinary verses remain unmarked.
+
 ```bash
 npm run basta:index:check # Required when Basta index/source labels change
 npm run content:review       # Every source needing editorial review (Basta and standalone)
