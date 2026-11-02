@@ -1,6 +1,7 @@
 // Source-level, non-destructive review checks shared by Basta and standalone lyric audits.
 // Findings identify review candidates, not permission to alter uncertain printed wording.
 import { parseStanzaNumber } from "./stanza-numbers.ts";
+import { stripCanonicalBibiNonJoiners } from "./bibi-spelling.ts";
 
 export interface ReviewFinding {
   path: string;
@@ -59,7 +60,8 @@ function checkLines(path: string, text: string, firstLine: number, script: "urdu
     const visibleLine = line.replace(/^\[\[(?:subtitle|refrain)\]\] /u, "");
     if (/\uFFFD/u.test(line)) record(issues, path, sourceLine, "replacement-character", "Unicode replacement character (�)");
     if (/\t/u.test(line)) record(issues, path, sourceLine, "tab", "Tab inside source text");
-    if (invisible.test(line)) record(issues, path, sourceLine, "invisible-character", "Invisible/bidirectional control character; confirm intentional use");
+    if (invisible.test(stripCanonicalBibiNonJoiners(line)))
+      record(issues, path, sourceLine, "invisible-character", "Invisible/bidirectional control character; confirm intentional use");
     if (commonPlaceholders.test(line) ||
         (script === "urdu" ? urduUncertainty : romanUncertainty).test(line))
       record(issues, path, sourceLine, "unverified-text", "Editorial/OCR uncertainty or placeholder present");
@@ -236,7 +238,34 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
     if (roman !== undefined && romanLine !== undefined) {
       checkLines(path, roman, romanLine, "roman", issues);
       if (body.trim() && roman.trim() && isUrdu)
-        issues.push(...compareEditions(body, roman, path, path, bodyLine, romanLine));
+        {
+          const compared = compareEditions(body, roman, path, path, bodyLine, romanLine);
+          const exceptionText = fields.stanzaLineExceptions;
+          const declaration = exceptionText?.match(/^\[\s*\d+(?:\s*,\s*\d+)*\s*\]$/u);
+          const exceptionNumbers = declaration
+            ? declaration[0].slice(1, -1).split(",").map(value => Number(value.trim()))
+            : [];
+          if (exceptionText && !declaration)
+            record(issues, path, 2, "invalid-stanza-exception",
+              "stanzaLineExceptions must be a nonempty list of stanza numbers");
+          const approved = new Set(exceptionNumbers);
+          if (approved.size !== exceptionNumbers.length || exceptionNumbers.some(n => !Number.isSafeInteger(n) || n < 1))
+            record(issues, path, 2, "invalid-stanza-exception",
+              "stanzaLineExceptions must contain distinct positive stanza numbers");
+          const observed = new Set<number>();
+          for (const finding of compared) {
+            const stanza = Number(finding.detail.match(/^Fragment 1, stanza (\d+):/u)?.[1]);
+            if (finding.code === "stanza-line-mismatch" && approved.has(stanza)) {
+              observed.add(stanza);
+              continue;
+            }
+            issues.push(finding);
+          }
+          for (const number of approved)
+            if (!observed.has(number))
+              record(issues, path, 2, "stale-stanza-exception",
+                "Declared intentional stanza difference " + number + " no longer exists");
+        }
     }
     // Roman metadata is separate from Urdu source, and can be audited independently.
     for (const key of ["alternateTitle", "romanHaal"]) {

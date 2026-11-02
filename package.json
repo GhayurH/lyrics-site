@@ -22,7 +22,9 @@
     "recitation:ids:sync": "node --experimental-strip-types scripts/recitation-identities.mjs --sync",
     "check": "astro check",
     "perf:assets": "node scripts/report-build-assets.mjs",
-    "perf:browser": "playwright test --grep @perf"
+    "perf:browser": "playwright test --grep @perf",
+    "content:bibi:check": "node --experimental-strip-types scripts/normalize-bibi.mjs --check",
+    "content:bibi:fix": "node --experimental-strip-types scripts/normalize-bibi.mjs --write"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",

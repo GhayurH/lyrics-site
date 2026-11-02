@@ -6,7 +6,8 @@ Preserve source wording and numbering. Do not silently modernize Urdu devotional
 
 Standalone poetry lives in `src/data/lyrics/` and follows `src/content.config.ts`. `kalamType` is required. Keep poet, reciter, `haal`/`romanHaal`, occasion, language and tags in separate metadata fields. For Basta cross-references use `bastaPage` and `bastaNote: "original-selection" | "additional-stanzas"`; never add provenance lines inside verses.
 
-- Preserve reviewed Urdu wording, harakat, commas, asterisks, meaningful blanks, verse order and refrain/sixth lines.
+- Preserve reviewed Urdu wording, harakat, commas, asterisks, meaningful blanks, verse order and refrain/sixth lines. An intentional Urdu/Roman chorus-count difference may use `stanzaLineExceptions: [1, 2]`; stale declarations fail CI.
+- Write the two-syllable title as **بی‌بی** (U+200C zero-width **non-joiner**) throughout Urdu; Roman is **Bibi/bibi** with no separator. Use `npm run content:bibi:fix` to normalize and `npm run content:bibi:check` to verify. Only this exact non-joiner is exempt from the Unicode-control audit.
 - Roman Urdu follows **Husain**, **Hasan**, `ڑ` → `r`, `ے` → `e` (except Punjabi pronunciation). Preserve punctuation, vowels and izafat; capitalize Roman titles but do not gratuitously recase verses.
 - Keep separately printed stanza numbers as standalone lines in both editions; the Basta ODG middle column supplies the printed numbering. Separate poem stanzas with blank lines.
 - Default six-verse layout is 4+2. Use `sixVerseLayout: "pairs"` only for reviewed 2+2+2 text. Do not apply Basta-specific duplicate-refrain cleanup to standalone lyrics.

@@ -11,6 +11,8 @@ aliases:
 cover: "/images/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-ho-gi.png"
 coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 published: true
+# The first five Urdu stanzas include intentional extra choral responses.
+stanzaLineExceptions: [1, 2, 3, 4, 5]
 romanLyrics: |-
   Rihayi qaid se Zainab ko jab mili ho gi
   Bina Husain ke woh kaisay ghar gayi ho gi

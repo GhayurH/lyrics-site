@@ -48,6 +48,8 @@ const lyrics = defineCollection({
     romanLyrics: z.string().optional(),
     // Per-poem alternate six-verse indentation (two + two + two).
     sixVerseLayout: z.enum(["pairs"]).optional(),
+    // Printed Urdu includes intentionally longer choral responses than Roman.
+    stanzaLineExceptions: z.array(z.number().int().positive()).optional(),
   }),
 });
 

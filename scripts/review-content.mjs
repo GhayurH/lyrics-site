@@ -161,6 +161,7 @@ const hardErrors = new Set([
   "stale-fragment-role", "invalid-fragment-role", "basta-source-mapping",
   "duplicate-index", "index-order", "fragment-count", "stanza-number-mismatch",
   "missing-roman-title", "orphan-roman", "page-metadata", "frontmatter",
+  "invalid-stanza-exception", "stale-stanza-exception",
 ]);
 const regressions = [];
 if (baseline) {
