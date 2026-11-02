@@ -67,14 +67,14 @@ function isCreditLine(line: string): boolean {
  * them only in a separate introductory block, never in ordinary verses. */
 function isKnownByline(line: string): boolean {
   const value = line.trim().replace(/^[([（]\s*/u, "");
-  return /^(?:سید|سیّد|پیر|حکیم|شاعر|مولانا|حضرت|علامہ|ڈاکٹر|پروفیسر|مرزا|سردار|سبط جعفر$|شفق اکبر آبادی|روایتی نوحہ|Syed|Sayyid|Pir|Hakim|Shair|Maulana|Hazrat|Allama|Dr\.?\s|Doctor|Professor|Mirza|Sardar|Sibt Jafar$|Shafaq Akbar Abadi|Riwayati nauha)\b?/iu.test(value);
+  return /^(?:سید|سیّد|پیر|حکیم|شاعر|مولانا|حضرت|علامہ|ڈاکٹر|پروفیسر|مرزا|سردار|سبط جعفر$|شفق اکبر آبادی|روایتی نوحہ|Syed|Sayyid|Pir|Hakim|Shair|Maulana|Hazrat|Allama|Dr\.?\s|Doctor|Professor|Mirza|Sardar|Sibt Jafar$|Shafaq Akbar Abadi|Riwayati nauha)/iu.test(value);
 }
 
 /** A genre or editorial section heading may not repeat in the verses.
  * Only classify a label in its own introductory block as a title. */
 function isGenreHeading(line: string): boolean {
   const value = line.trim().replace(/^\[|\]$/gu, "").trim();
-  return /^(?:رباعی|قطعہ|قطعات|منقبت|مناجات|سوزخوانی|مختصر زیارات|[\p{L}\sِ]+ سے خطاب|Rubai|Ruba(?:i|yat)|Qit['’]a|Qita['’]?at|Manqabat|Munajat|Soaz?khwani|Mukhtasar Ziarat|[A-Za-z\s-]+ se khitab)$/iu.test(value);
+  return /^(?:رباعی|قطعہ|قطعات|منقبت|مناجات|سوزخوانی|مختصر زیارات|[\p{L}\sِ]+ سے خطاب|Rubai|Ruba(?:i|yat)|Qit['’]a|Qita['’]?at|Manqabat|Munajat|(?:Soz|Soaz)khwani|Mukhtasar Ziarat|[A-Za-z\s-]+ se khitab)$/iu.test(value);
 }
 
 /** An opening title/byline is verified by a repeated first verse or
