@@ -5765,7 +5765,8 @@
     {
       "id": "basta-mutafarriqat-o-qaumiyat-050",
       "key": "Mutafarriqat-o-Qaumiyat:50",
-      "stanzas": []
+      "stanzas": [],
+      "retired": true
     },
     {
       "id": "basta-mutafarriqat-o-qaumiyat-051",
