@@ -34,6 +34,32 @@ test("flags mixed scripts, non-ASCII Latin transliteration and control character
   assert(issues.some(x => x.code === "latin-in-urdu" && x.line > 8));
 });
 
+test("the canonical Urdu Bibi non-joiner is intentional, but a joiner is not", () => {
+  const good = reviewMarkdown({ path: "src/data/lyrics/bibi.md", kind: "lyrics",
+    text: lyric("۱\nبی‌بی کا سلام", "1\nBibi ka salam") });
+  assert(!good.issues.some(x => x.code === "invisible-character"));
+  const bad = reviewMarkdown({ path: "src/data/lyrics/bibi.md", kind: "lyrics",
+    text: lyric("۱\nبی‍بی کا سلام", "1\nBibi ka salam") });
+  assert(bad.issues.some(x => x.code === "invisible-character"));
+});
+
+test("intentional Urdu chorus extensions require explicit, still-current stanza numbers", () => {
+  const raw = lyric("۱\nپہلا مصرع\nدوسرا مصرع\nاضافی جواب", "1\nPehla misra\nDusra misra");
+  const withException = raw.replace('kalamType: "Salam"', 'kalamType: "Salam"\nstanzaLineExceptions: [1]');
+  const approved = reviewMarkdown({ path: "src/data/lyrics/chorus.md", kind: "lyrics",
+    text: withException });
+  assert(!approved.issues.some(x => x.code === "stanza-line-mismatch"));
+  assert(!approved.issues.some(x => x.code === "stale-stanza-exception"));
+
+  const unapproved = reviewMarkdown({ path: "src/data/lyrics/chorus.md", kind: "lyrics",
+    text: raw });
+  assert(unapproved.issues.some(x => x.code === "stanza-line-mismatch"));
+
+  const stale = reviewMarkdown({ path: "src/data/lyrics/chorus.md", kind: "lyrics",
+    text: withException.replace("اضافی جواب\n", "") });
+  assert(stale.issues.some(x => x.code === "stale-stanza-exception"));
+});
+
 test("does not confuse Roman curly apostrophes and punctuation with extended Latin letters", () => {
   const issues = reviewMarkdown({ path: "src/data/lyrics/punctuation.md", kind: "lyrics",
     text: lyric("سلام", "AhlulBait’s—'text'") }).issues;
