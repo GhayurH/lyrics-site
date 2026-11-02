@@ -242,6 +242,8 @@ test("Basta generic headings and unlisted poet bylines use shared title/credit s
   for (const [heading, poet, firstVerse] of [
     ["رباعی", "سید ذیشان حیدر ذیشان", "دشوار سہی کام یہ کرنا ہوگا"],
     ["Rubai", "Syed Zeeshan Haider Zeeshan", "Dushwar sahi kam ye karna hoga"],
+    ["رباعی", "ذیشان حیدر ذیشان", "دشوار سہی کام یہ کرنا ہوگا"],
+    ["Rubai", "Zeeshan Haider Zeeshan", "Dushwar sahi kam ye karna hoga"],
     ["زید شہید", "حکیم سید محمد کاظم زیدی", "زید شہید قدرتِ داور کا شاہکار"],
     ["Zaid Shahid", "Hakim Syed Muhammad Kazim Zaidi", "Zaid Shahid qudrat-e-Dawar ka shahkar"],
   ]) {
