@@ -16,10 +16,8 @@ const references = new Set([...allCss.matchAll(/var\(\s*(--[\w-]+)/g)].map(match
 // Values assigned by the browser at runtime, or supplied by Pagefind itself.
 const themeSource = readFileSync("src/client/theme.ts", "utf8");
 const siteSource = readFileSync("src/client/site.ts", "utf8");
-const runtimeAssignments = new Set([...themeSource, ...siteSource].length
-  ? [...(themeSource + "\n" + siteSource).matchAll(/style\.setProperty\(["'](--[\w-]+)/g)]
-      .map(match => match[1])
-  : []);
+const runtimeAssignments = new Set([...(themeSource + "\n" + siteSource)
+  .matchAll(/style\.setProperty\(["'](--[\w-]+)/g)].map(match => match[1]));
 const external = new Set(["--pf-dropdown-max-height"]);
 
 test("every CSS variable has a defined, runtime, or vendor-provided owner", () => {

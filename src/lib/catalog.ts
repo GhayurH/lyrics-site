@@ -1,6 +1,7 @@
 // File role: Canonical lightweight lyric-card/catalog model shared by browse pages and the Saved/Recent client renderer.
 import type { CollectionEntry } from "astro:content";
 import { getLyricKalamType } from "./lyrics";
+import { recitationLyricId } from "./lyrics-data";
 
 export interface LyricCardData {
   id: string;
@@ -37,7 +38,7 @@ export function toLyricCardData(
 /** Stable compact API view for the programme builder. */
 export function toRecitationLyricCard(lyric: CollectionEntry<"lyrics">) {
   return {
-    id: lyric.data.recitationId || lyric.id,
+    id: recitationLyricId(lyric),
     title: lyric.data.title,
     alternateTitle: lyric.data.alternateTitle,
     kalamType: getLyricKalamType(lyric.data),
