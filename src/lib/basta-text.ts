@@ -111,7 +111,8 @@ function hasIntroductoryBlock(lines: string[], blocks: Array<{ start: number; en
   const size = first.end - first.start;
   if (size === 1) return !isStanzaNumber(lines[first.start]);
   const repeats = matchesOpeningTitle(lines[first.start], lines[blocks[1].start]);
-  return (size === 2 && (repeats || isKnownByline(lines[first.start + 1]))) ||
+  return (size === 2 && (repeats || isKnownByline(lines[first.start + 1]) ||
+      isGenreHeading(lines[first.start]))) ||
     (size === 3 && repeats && isKnownByline(lines[first.start + 2]));
 }
 
@@ -158,7 +159,8 @@ export function layoutBastaKalam(
     const count = block.end - block.start;
     const repeats = matchesOpeningTitle(lines[block.start], lines[blocks[index + 1].start]);
     if (!isStanzaNumber(lines[block.start]) &&
-        ((count === 2 && (repeats || isKnownByline(lines[block.start + 1]))) ||
+        ((count === 2 && (repeats || isKnownByline(lines[block.start + 1]) ||
+          isGenreHeading(lines[block.start]))) ||
          (count === 3 && repeats && isKnownByline(lines[block.start + 2])))) {
       prefaceBlocks.add(index);
     }
@@ -186,7 +188,8 @@ export function layoutBastaKalam(
     if (!next) continue;
     const heading = lines[block.start].trim();
     const matchesFirstVerse = matchesOpeningTitle(heading, lines[next.start]);
-    const hasKnownByline = block.end - block.start === 2 && isKnownByline(lines[block.start + 1]);
+    const hasKnownByline = block.end - block.start === 2 &&
+      (isKnownByline(lines[block.start + 1]) || isGenreHeading(heading));
     const isStandAloneHeading = block.end - block.start === 1 &&
       !prefaceBlocks.has(index + 1) &&
       (heading.includes(" / ") ||
