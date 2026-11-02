@@ -66,7 +66,7 @@ function isCreditLine(line: string): boolean {
 /** Recognize distinctive byline conventions without classifying arbitrary
  * two-verse stanzas as title/author blocks. */
 function isKnownByline(line: string): boolean {
-  return /^(?:پیرِ طریقت|حکیم سید|شاعرِ اہلِ بیت|مولانا|حضرت علامہ|سبط جعفر$|سید سبط جعفر$|Pir-e-Tariqat|Hakim Syed|Shair-e-Ahl-e-Bait|Maulana|Hazrat Allama|Sibt Jafar$|Syed Sibt Jafar$)/iu.test(line.trim());
+  return /^(?:پیرِ طریقت|حکیم سید|شاعرِ اہلِ بیت|مولانا|حضرت علامہ|شفق اکبر آبادی|روایتی نوحہ|سبط جعفر$|سید سبط جعفر$|Pir-e-Tariqat|Hakim Syed|Shair-e-Ahl-e-Bait|Maulana|Hazrat Allama|Shafaq Akbar Abadi|Riwayati nauha|Sibt Jafar$|Syed Sibt Jafar$)/iu.test(line.trim());
 }
 
 /** An opening title/byline is verified by a repeated first verse or
@@ -76,8 +76,9 @@ function hasIntroductoryBlock(lines: string[], blocks: Array<{ start: number; en
   const first = blocks[0];
   const size = first.end - first.start;
   if (size === 1) return !isStanzaNumber(lines[first.start]);
-  return size === 2 && (lines[first.start].trim() === lines[blocks[1].start].trim() ||
-    isKnownByline(lines[first.start + 1]));
+  const repeats = lines[first.start].trim() === lines[blocks[1].start].trim();
+  return (size === 2 && (repeats || isKnownByline(lines[first.start + 1]))) ||
+    (size === 3 && repeats && isKnownByline(lines[first.start + 2]));
 }
 
 /** Preserve every line; only attach indentation to actual verses. */
@@ -120,12 +121,11 @@ export function layoutBastaKalam(
   if (hasIntroductoryBlock(lines, blocks)) prefaceBlocks.add(0);
   for (let index = 0; index + 1 < blocks.length; index++) {
     const block = blocks[index];
-    if (
-      block.end - block.start === 2 &&
-      !isStanzaNumber(lines[block.start]) &&
-      (lines[block.start].trim() === lines[blocks[index + 1].start].trim() ||
-        isKnownByline(lines[block.start + 1]))
-    ) {
+    const count = block.end - block.start;
+    const repeats = lines[block.start].trim() === lines[blocks[index + 1].start].trim();
+    if (!isStanzaNumber(lines[block.start]) &&
+        ((count === 2 && (repeats || isKnownByline(lines[block.start + 1]))) ||
+         (count === 3 && repeats && isKnownByline(lines[block.start + 2])))) {
       prefaceBlocks.add(index);
     }
   }
@@ -169,6 +169,11 @@ export function layoutBastaKalam(
       // byline; standalone headings, credits, and verses are untouched.
       if (block.end - block.start === 2 && !display[block.start + 1].subtitle && !isCreditLine(lines[block.start + 1])) {
         display[block.start + 1].poet = true;
+      }
+      if (block.end - block.start === 3 && matchesFirstVerse &&
+          isKnownByline(lines[block.start + 2])) {
+        display[block.start + 1].subtitle = true;
+        display[block.start + 2].poet = true;
       }
     }
   }
