@@ -55,6 +55,8 @@ function checkLines(path: string, text: string, firstLine: number, script: "urdu
   text.split("\n").forEach((line, index) => {
     const sourceLine = firstLine + index;
     if (!line.trim()) return;
+    // Explicit editorial labels are metadata, not Arabic-to-Latin script mixing.
+    const visibleLine = line.replace(/^\[\[(?:subtitle|refrain)\]\] /u, "");
     if (/\uFFFD/u.test(line)) record(issues, path, sourceLine, "replacement-character", "Unicode replacement character (�)");
     if (/\t/u.test(line)) record(issues, path, sourceLine, "tab", "Tab inside source text");
     if (invisible.test(line)) record(issues, path, sourceLine, "invisible-character", "Invisible/bidirectional control character; confirm intentional use");
@@ -67,8 +69,8 @@ function checkLines(path: string, text: string, firstLine: number, script: "urdu
     if (otherScript)
       record(issues, path, sourceLine, "unexpected-script", "Letter from an unexpected script: " + line.trim().slice(0, 95));
     if (script === "urdu") {
-      if (/[A-Za-z]/u.test(line))
-        record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + line.trim().slice(0, 95));
+      if (/[A-Za-z]/u.test(visibleLine))
+        record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + visibleLine.trim().slice(0, 95));
     } else {
       if (/\b(?:Hussain|Hassan)\b/iu.test(line))
         record(issues, path, sourceLine, "roman-name-style", "House style uses Husain and Hasan (one s after the initial consonant)");
