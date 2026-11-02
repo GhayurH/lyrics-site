@@ -74,3 +74,33 @@ test("keyboard focus reveals a retracted mobile header", async ({ page }) => {
   await expect(page.locator("html")).not.toHaveAttribute("data-mobile-header-hidden", "true");
   await expect(page.locator("#theme-toggle")).toBeFocused();
 });
+
+test("Urdu Nastaliq ink clearance preserves verse width across readers @smoke", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  const cases = [
+    ["/lyrics/aa-asghar-bin-tere/", ".lyric-reading-urdu .lyric-verse"],
+    ["/basta/140/", ".basta-page-urdu .basta-verse-line.basta-verse-poetry"],
+    ["/basta/read/#page-138", '[data-basta-page="138"] .basta-reader-urdu .basta-verse-line.basta-verse-poetry'],
+  ];
+  for (const [url, selector] of cases) {
+    await page.goto(url, { waitUntil: "domcontentloaded" });
+    const line = page.locator(selector).first();
+    await expect(line).toBeVisible();
+    const metrics = await line.evaluate((node) => {
+      const style = getComputedStyle(node);
+      const startPadding = Number.parseFloat(style.paddingInlineStart);
+      const endMargin = Number.parseFloat(style.marginInlineEnd);
+      return { direction: style.direction, startPadding, endMargin,
+        contentWidth: node.clientWidth - startPadding -
+          (Number.parseFloat(style.paddingInlineEnd) || 0),
+        parentWidth: node.parentElement.clientWidth };
+    });
+    expect(metrics.direction).toBe("rtl");
+    expect(metrics.startPadding).toBeGreaterThan(3);
+    expect(metrics.endMargin).toBeLessThan(-3);
+    expect(Math.abs(metrics.startPadding + metrics.endMargin)).toBeLessThan(1);
+    // The right-side gutter must not steal the usable width for verse fitting.
+    expect(metrics.contentWidth).toBeGreaterThanOrEqual(metrics.parentWidth - 2);
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1)).toBe(true);
+  }
+});
