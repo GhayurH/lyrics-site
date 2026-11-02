@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "npm test && npm run recitation:ids:check",
+    "prebuild": "npm test && npm run source:check",
     "build": "astro build && pagefind && node scripts/generate-offline-search-manifest.mjs",
     "preview": "astro preview",
     "search-preview": "npm run build && astro preview",
@@ -24,7 +24,11 @@
     "perf:assets": "node scripts/report-build-assets.mjs",
     "perf:browser": "playwright test --grep @perf",
     "content:bibi:check": "node --experimental-strip-types scripts/normalize-bibi.mjs --check",
-    "content:bibi:fix": "node --experimental-strip-types scripts/normalize-bibi.mjs --write"
+    "content:bibi:fix": "node --experimental-strip-types scripts/normalize-bibi.mjs --write",
+    "source:check": "node scripts/source-workflow.mjs --check",
+    "source:sync": "node scripts/source-workflow.mjs --sync",
+    "basta:fragments:check": "node --experimental-strip-types scripts/refresh-basta-fragments.mjs --check",
+    "basta:fragments:approve": "node --experimental-strip-types scripts/refresh-basta-fragments.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",

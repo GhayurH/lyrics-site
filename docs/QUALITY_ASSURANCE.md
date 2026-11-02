@@ -5,6 +5,7 @@ Use this checklist for shared reader, appearance, search, offline and publishing
 ## Automated checks
 
 ```bash
+npm run source:check  # Every Markdown source, Basta index, reviewed fragments, permanent IDs and editorial regressions
 npm run check
 npm run build
 npm run test:smoke
@@ -13,7 +14,7 @@ npm run perf:assets
 npm run perf:browser  # Optional, non-gating browser measurements
 ```
 
-GitHub Actions runs **smoke Chromium on every PR and main push**, and **full Chromium every Sunday**, through manual workflow dispatch, or when the latest commit contains `[full-ci]`. Node unit and identity checks run during every build; index labels are checked whenever the Basta index or transcriptions change (and weekly/manual); Astro diagnostics run when `.astro`, TypeScript or JavaScript sources change (or during full scheduled/manual runs). Every PR also runs `npm run content:review -- --summary --regression`: all structural index/mapping errors and any increases over the tracked per-file editorial baseline fail validation. Lower counts are permitted; the baseline must only be updated after explicit source review. The Sunday full run generates the `content-review` artifact, covering every Basta and standalone Markdown file with source-alignment, Unicode, metadata and mapping checks. The same `content:review` command also supports `--summary`, `--json`, and `--csv` output. Run `npm run test:browser` locally when changing an integration not covered by smoke.
+GitHub Actions runs **smoke Chromium on every PR and main push**, and **full Chromium every Sunday**, through manual workflow dispatch, or when the latest commit contains `[full-ci]`. Every build runs Node unit tests and `source:check` across **all** Markdown sources, index labels, reviewed fragments and permanent IDs (not only files detected as changed); Astro diagnostics run when `.astro`, TypeScript or JavaScript sources change (or during full scheduled/manual runs). The unified `source:check` runs `npm run content:review -- --summary --regression`: all structural index/mapping errors and any increases over the tracked per-file editorial baseline fail validation. Lower counts are permitted; the baseline must only be updated after explicit source review. The Sunday full run generates the `content-review` artifact, covering every Basta and standalone Markdown file with source-alignment, Unicode, metadata and mapping checks. The same `content:review` command also supports `--summary`, `--json`, and `--csv` output. Run `npm run test:browser` locally when changing an integration not covered by smoke.
 
 ## Viewports and input
 
@@ -42,6 +43,7 @@ Use keyboard Tab, Shift+Tab, Enter and Escape; test focus visibility, announceme
 
 - Test R2 image redirects on preview/production, slow or blocked scans, and book-chunk retry. Local `astro preview` cannot reproduce all Pages behavior.
 - Verify published programme create/edit/delete and expiry against the target D1 environment; do not expose edit tokens in public QR codes or caches.
+- Run `npm run source:sync` after changes to any Markdown source. If a reviewed fragment opening changes, recheck it against the scan and approve the printed page explicitly with `--approve-fragments=PAGE`; never silently refresh a role or permanent ID. `source:check` gates every build and PR, including unchanged Markdown.
 - Keep the reviewed supplementary-fragment manifest current when separators or printed index associations change. The audit must warn on missing and stale role declarations; source snippets still undergo normal Unicode, OCR, and Urdu/Roman comparisons. Do not approve uncertain scanned text automatically.
 - Use `npm run content:review` (or `npm run content:review -- --markdown > review.md`) to inspect all potential source, script, numbering, and index issues. Review uncertain Basta index/fragment mappings against original scans before editing source. Pixel-accurate highlighting requires *confirmed* scan coordinates; a linked printed page alone is not a verified image region.
 - Measure cold/mobile network font/CSS/JS requests, first/largest contentful paint and cumulative layout shift. Record browser/network conditions, not just an asset-size total.

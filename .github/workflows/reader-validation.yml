@@ -37,7 +37,7 @@ jobs:
           node-version: '24'
           cache: npm
       - run: npm ci
-      # Production builds always run Node tests and identity checks. Browser
+      # Production builds run Node tests and the unified source checks. Browser
       # smoke covers every PR/main push; reserve the wider matrix for weekly
       # checks, manual runs, or an explicit [full-ci] commit marker.
       - id: test_mode
@@ -60,13 +60,6 @@ jobs:
           else
             echo 'full=false' >> "$GITHUB_OUTPUT"
           fi
-          # Check the source-linked index when its titles or source text changes.
-          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || \
-             grep -Eq '^src/data/basta/(index\.json|(pages|roman)/[^/]+\.md)$' <<< "$changed"; then
-            echo 'index=true' >> "$GITHUB_OUTPUT"
-          else
-            echo 'index=false' >> "$GITHUB_OUTPUT"
-          fi
           # Run Astro diagnostics only for code changes or explicit opt-in.
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || \
              grep -Eq '\.(astro|tsx?|jsx?)$' <<< "$changed" || grep -Fq '[check-ci]' <<< "$messages"; then
@@ -74,13 +67,8 @@ jobs:
           else
             echo 'check=false' >> "$GITHUB_OUTPUT"
           fi
-      - name: Verify Basta index labels
-        if: steps.test_mode.outputs.index == 'true'
-        run: npm run basta:index:check
-      - name: Verify canonical Bibi typography across every poetry Markdown
-        run: npm run content:bibi:check
-      - name: Enforce stable Basta mappings and editorial review baseline
-        run: npm run content:review -- --summary --regression
+      - name: Verify all Markdown-linked metadata using one source workflow
+        run: npm run source:check
       - name: Validate Astro and TypeScript semantics
         if: steps.test_mode.outputs.check == 'true'
         run: npm run check
