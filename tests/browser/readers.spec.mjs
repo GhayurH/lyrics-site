@@ -303,7 +303,7 @@ test("Roman and Urdu Basta stanza bookmarks share a key and restore the visible 
   await expect(urdu).toBeAttached();
   await expect(roman).toBeAttached();
   const key = await roman.getAttribute("data-basta-save-selection");
-  expect(key).toMatch(/^200:stanza:\\d+$/);
+  expect(key).toMatch(/^200:stanza:\d+$/);
   await expect(urdu).toHaveAttribute("data-basta-save-selection", key);
 
   // Save in Roman-only mode and verify the equivalent Urdu button updates.
