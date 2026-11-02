@@ -25,6 +25,7 @@ npm run check           # Astro and TypeScript validation
 npm run build           # Unit tests, stable IDs, Astro and Pagefind
 npm run test:smoke      # Critical Chromium journeys
 npm run test:browser    # Full functional Chromium regression
+npm run content:review  # All Basta/standalone source-review candidates
 npm run perf:assets     # Inspect built asset sizes
 npm run perf:browser    # Optional browser performance measurements
 ```

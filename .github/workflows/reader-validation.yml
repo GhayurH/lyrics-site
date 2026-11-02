@@ -5,6 +5,7 @@ on:
   pull_request:
   schedule:
     - cron: '0 3 * * 0'
+  workflow_dispatch:
 concurrency:
   group: reader-${{ github.head_ref || github.ref_name }}
   cancel-in-progress: true
@@ -18,60 +19,75 @@ jobs:
       options: --ipc=host
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
       # The checkout action owns .git as root; container commands run as
       # pwuser, so scope Git's trust exception to this checkout only.
-      - run: git -c safe.directory="$GITHUB_WORKSPACE" diff --check origin/main...HEAD
-      - uses: actions/setup-node@v5
+      - name: Check patch whitespace
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            git -c safe.directory="$GITHUB_WORKSPACE" diff --check origin/main...HEAD
+          else
+            git -c safe.directory="$GITHUB_WORKSPACE" diff --check HEAD^ HEAD
+          fi
+      - uses: actions/setup-node@v7
         with:
           node-version: '24'
           cache: npm
       - run: npm ci
-      - name: Validate Astro and TypeScript semantics
-        run: npm run check
-      # Every build runs Node tests and stable-ID checks through prebuild.
-      # Ordinary PR updates skip browsers. Explicit commit markers control
-      # milestones; main always receives at least a browser smoke pass.
+      # Production builds always run Node tests and identity checks. Browser
+      # smoke covers every PR/main push; reserve the wider matrix for weekly
+      # checks, manual runs, or an explicit [full-ci] commit marker.
       - id: test_mode
         shell: bash
         run: |
-          messages="$(git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD;
-            git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD^2 2>/dev/null || true)"
-          # Shared reader, styles, recitation server/client, and browser test changes
-          # require complete Chromium coverage even without a commit marker.
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             changed="$(git -c safe.directory="$GITHUB_WORKSPACE" diff --name-only origin/main...HEAD)"
           else
-            changed="$(git -c safe.directory="$GITHUB_WORKSPACE" diff-tree --no-commit-id --name-only -r HEAD)"
+            changed="$(git -c safe.directory="$GITHUB_WORKSPACE" diff --name-only HEAD^ HEAD)"
           fi
-          if grep -Eq '^(src/(client|components|styles|lib|layouts)/|functions/|tests/browser/|package(-lock)?\.json|playwright\.config)' <<< "$changed" || \
-             [ "${{ github.event_name }}" = "schedule" ] || grep -Fq '[full-ci]' <<< "$messages"; then
+          # PR checkouts are synthetic merge commits; their second parent is
+          # the proposed branch head. For pushes, inspect only the current
+          # commit so PR opt-in markers do not leak into main's next run.
+          messages="$(git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD)"
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            messages="$(git -c safe.directory="$GITHUB_WORKSPACE" log -1 --pretty=%B HEAD^2)"
+          fi
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || grep -Fq '[full-ci]' <<< "$messages"; then
             echo 'full=true' >> "$GITHUB_OUTPUT"
           else
             echo 'full=false' >> "$GITHUB_OUTPUT"
           fi
-          if grep -Fq '[smoke-ci]' <<< "$messages"; then
-            echo 'smoke=true' >> "$GITHUB_OUTPUT"
+          # Astro diagnostics need a fresh optional install; avoid that work
+          # for pure CSS, Markdown, content, or test-only revisions.
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || \
+             grep -Eq '\.(astro|tsx?|jsx?)$' <<< "$changed" || grep -Fq '[check-ci]' <<< "$messages"; then
+            echo 'check=true' >> "$GITHUB_OUTPUT"
           else
-            echo 'smoke=false' >> "$GITHUB_OUTPUT"
+            echo 'check=false' >> "$GITHUB_OUTPUT"
           fi
+      - name: Validate Astro and TypeScript semantics
+        if: steps.test_mode.outputs.check == 'true'
+        run: npm run check
       - run: npm run build
       - name: Report JavaScript, CSS, and font asset sizes
         run: npm run perf:assets
-      - name: Audit Basta page boundaries
-        if: steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'
-        run: npm run basta:kalams:audit
-      - name: Generate scan-linked editorial review queue
-        if: steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'
-        run: npm run basta:kalams:review > basta-review.md
+      - name: Generate source review queue (Basta and standalone)
+        if: steps.test_mode.outputs.full == 'true'
+        run: |
+          npm run --silent content:review -- --markdown > content-review.md
+          npm run --silent content:review -- --csv > content-review.csv
+          grep '^Audited ' content-review.md
       - name: Save editorial review queue
-        if: steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'
-        uses: actions/upload-artifact@v4
+        if: steps.test_mode.outputs.full == 'true'
+        uses: actions/upload-artifact@v7
         with:
-          name: basta-editorial-review
-          path: basta-review.md
+          name: content-review
+          path: |
+            content-review.md
+            content-review.csv
           retention-days: 14
       - name: Verify deployment asset redirects
         run: |
@@ -80,8 +96,8 @@ jobs:
           grep -Fq '/files/* https://r2-assets.kalamarchive.com/files/:splat 302' dist/_redirects
           test -f dist/_routes.json
           node --input-type=module -e "import { readFileSync } from 'node:fs'; const routes=JSON.parse(readFileSync('dist/_routes.json','utf8')); for (const path of ['/api/recitation-sets','/api/recitation-sets/*','/r/*']) if (!routes.include.includes(path)) throw Error('Missing Pages Function route: '+path); if (routes.include.includes('/*')) throw Error('Unexpected all-static Function invocation');"
-      - name: Browser regression suite (selected checks)
-        if: steps.test_mode.outputs.smoke == 'true' || steps.test_mode.outputs.full == 'true' || github.ref == 'refs/heads/main'
+      - name: Browser regression suite (smoke or full)
+        # Every PR/main build runs smoke; weekly/manual/opt-in checks run full.
         run: |
           if [ "${{ steps.test_mode.outputs.full }}" = "true" ]; then
             npm run test:browser
@@ -90,7 +106,7 @@ jobs:
           fi
       - name: Save failing browser screenshots and traces
         if: failure()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: reader-browser-failure
           path: test-results/

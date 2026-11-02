@@ -46,8 +46,7 @@ Source Markdown and scans are authoritative. The published catalogs `/data/recit
 ```bash
 npm run recitation:ids:check
 npm run recitation:ids:sync   # Only after reviewed source edits
-npm run basta:kalams:audit
-npm run basta:kalams:review
+npm run content:review
 ```
 
 The sync command may refresh a single unambiguous existing stanza anchor when all other anchors still match. Multiple edits, insertions, removals or renumbering require manual comparison with the source. Mark removed IDs `retired: true` rather than recycling them. Builds validate the lockfile without modifying it.

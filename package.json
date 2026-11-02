@@ -20,16 +20,15 @@
     "test": "node --experimental-strip-types --test tests/*.test.mjs",
     "test:smoke": "playwright test --grep @smoke",
     "test:browser": "playwright test --grep-invert @perf",
-    "basta:kalams:audit": "node --experimental-strip-types scripts/audit-basta-kalams.mjs",
+    "content:review": "node --experimental-strip-types scripts/review-content.mjs",
     "recitation:ids:check": "node --experimental-strip-types scripts/recitation-identities.mjs --check",
     "recitation:ids:sync": "node --experimental-strip-types scripts/recitation-identities.mjs --sync",
-    "check": "npm install --no-save --package-lock=false @astrojs/check@0.9.12 typescript@6.0.2 && astro check",
+    "check": "astro check",
     "perf:assets": "node scripts/report-build-assets.mjs",
-    "basta:kalams:review": "node --experimental-strip-types scripts/audit-basta-kalams.mjs --review",
     "perf:browser": "playwright test --grep @perf"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.3",
+    "@astrojs/sitemap": "^3.7.4",
     "@fontsource/amiri": "^5.3.0",
     "@fontsource/gulzar": "^5.3.0",
     "@fontsource/lateef": "^5.3.0",
@@ -41,15 +40,18 @@
     "@fontsource/noto-sans-arabic": "^5.3.0",
     "@fontsource/open-sans": "^5.3.0",
     "@fontsource/scheherazade-new": "^5.3.0",
-    "@fontsource/source-sans-3": "^5.3.0",
-    "astro": "^7.1.4"
+    "@fontsource/source-sans-3": "^5.3.1",
+    "astro": "^7.4.4"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.12",
     "@playwright/test": "1.64.1",
-    "pagefind": "^1.5.2",
-    "wrangler": "^4.154.0"
+    "pagefind": "^1.6.0",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.156.1"
   },
   "allowScripts": {
-    "esbuild@0.28.1": true
+    "esbuild@0.28.2": true,
+    "workerd@1.20261101.1": true
   }
 }

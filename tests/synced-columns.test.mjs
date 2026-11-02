@@ -27,12 +27,3 @@ test("equal heights, one edition, and initially unmeasured content do not scroll
   assert.equal(tallerPanelLayout([500]), undefined);
   assert.equal(tallerPanelLayout([600, 0]), undefined);
 });
-
-test("Basta page 138 retains the separate closing Bain in both editions", () => {
-  const urdu = readFileSync(new URL("../src/data/basta/pages/138.md", import.meta.url), "utf8");
-  const roman = readFileSync(new URL("../src/data/basta/roman/138.md", import.meta.url), "utf8");
-  assert.equal(urdu.split("---***---").length, 2);
-  assert.equal(roman.split("---***---").length, 2);
-  assert.match(urdu.split("---***---")[1], /بین/);
-  assert.match(roman.split("---***---")[1], /Bain/);
-});

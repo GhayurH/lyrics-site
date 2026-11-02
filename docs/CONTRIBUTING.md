@@ -18,11 +18,16 @@ Basta index, source pages, Roman transcriptions and settings are in `src/data/ba
 
 ```bash
 npm run basta:index:check
-npm run basta:kalams:audit
-npm run basta:kalams:review  # Scan-linked review queue
+npm run content:review       # Every source needing editorial review (Basta and standalone)
+npm run content:review -- --markdown > review.md # Scan-linked review report
+npm run content:review -- --json                 # Machine-readable findings
+npm run --silent content:review -- --csv > review.csv # UTF-8 spreadsheet queue
+npm run content:review -- --strict               # Nonzero exit if review queue is not empty
 npm run basta:index:sync    # Only for reviewed index corrections
 npm run basta:breaks:rebuild # Only for reviewed source boundaries
 ```
+
+The review command checks script mixing, extended Latin letters, stray Unicode controls, stanza and verse alignment, metadata, missing editions, and uncertain Basta index/source mapping. Its findings are advisory; inspect original scans and intended refrains before editing. **Do not** gate builds on a currently nonempty editorial queue.
 
 Stable `recitationId` values and numbered-stanza anchors are permanent. Review [Recitation Set identity rules](RECITATION_SETS.md#data-and-source-integrity) before renaming, moving or renumbering a poem.
 
@@ -47,12 +52,12 @@ Install Chromium with `npx playwright install chromium`. Browser tests need a pr
 
 - **Unit (`tests/*.test.mjs`):** parser, source identity, storage-independent logic, editorial boundaries and static build contracts. Extend the owning file; do not create a one-test file for a closely related function.
 - **Smoke (`@smoke`):** a small set of representative no-JavaScript reading, responsive navigation, Focus, search, favourites, theme, and Recitation Set creation journeys. Each should protect a distinct critical workflow.
-- **Full browser:** additional edition/viewport/theme permutations, edge cases, error handling, publishing, offline support, font loading, and regression geometry. These must stay in full even when not smoke.
+- **Full browser:** distinct user journeys not represented by smoke: error states, cross-page navigation, backup/restore, editor flows, and publishing. Avoid CSS pixel assertions and repeated device/theme permutations after the shared layout owns them.
 - **Performance (`@perf`):** non-gating Chromium measurements run separately with `npm run perf:browser` rather than making functional CI depend on noisy timing values.
 
-Do not copy a scenario merely to run it in smoke: mark its existing browser test. Prefer behavior and geometry assertions to screenshot goldens. CI retains screenshots/traces for failures.
+Do not copy a scenario merely to run it in smoke: mark its existing browser test. Test observable behavior and state, not fixed dimensions, individual historical fixes or arbitrary source-page screenshots. Keep a representative check when a dynamic layout algorithm can actually regress; reserve broader device/theme exploration for manual QA. CI retains screenshots/traces for failures.
 
-**CI:** Every PR/main change runs tests, typechecking and build checks. Changes to readers, shared code or browser tests run full Chromium; content-only PRs need an explicit `[smoke-ci]` or `[full-ci]` commit marker to add browser coverage. Main runs at least smoke; the scheduled Sunday check runs full. Inspect the successful run for the **final** commit, not an earlier commit.
+**CI:** Every PR/main push runs the production build (including Node tests and stable IDs) plus Chromium smoke. Astro diagnostics run for changed `.astro`, `.ts`, `.tsx`, `.js` or `.jsx` sources, or on scheduled/manual full runs. Full Chromium runs each Sunday and via **Actions → Reader validation → Run workflow** or an explicit `[full-ci]` commit marker. Use `[check-ci]` to force Astro diagnostics on other changes. The full run also generates the complete Basta-and-standalone content review queue; inspect CI for the final commit, not an earlier commit.
 
 Never commit `dist/`, `.astro/`, `node_modules/`, temporary test output or R2 binaries. Source edits should keep permanent IDs stable and regenerate identity locks only through reviewed `npm run recitation:ids:sync` changes.
 

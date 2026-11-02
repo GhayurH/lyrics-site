@@ -13,7 +13,7 @@ npm run perf:assets
 npm run perf:browser  # Optional, non-gating browser measurements
 ```
 
-GitHub Actions runs full functional Chromium for shared code changes and weekly on Sunday. Source/identity checks run during the build. The generated `basta-editorial-review` workflow artifact links unresolved index entries and fragments to their original scans.
+GitHub Actions runs **smoke Chromium on every PR and main push**, and **full Chromium every Sunday**, through manual workflow dispatch, or when the latest commit contains `[full-ci]`. Node unit and identity checks run during every build; Astro diagnostics run when `.astro`, TypeScript or JavaScript sources change (or during full scheduled/manual runs). The Sunday full run generates the `content-review` artifact, covering every Basta and standalone Markdown file with source-alignment, Unicode, metadata and mapping checks. The same `content:review` command also supports `--summary`, `--json`, and `--csv` output. Run `npm run test:browser` locally when changing an integration not covered by smoke.
 
 ## Viewports and input
 
@@ -42,5 +42,5 @@ Use keyboard Tab, Shift+Tab, Enter and Escape; test focus visibility, announceme
 
 - Test R2 image redirects on preview/production, slow or blocked scans, and book-chunk retry. Local `astro preview` cannot reproduce all Pages behavior.
 - Verify published programme create/edit/delete and expiry against the target D1 environment; do not expose edit tokens in public QR codes or caches.
-- Use `npm run basta:kalams:review` to inspect uncertain index/fragment mappings against original scans before editing source. Pixel-accurate highlighting requires *confirmed* scan coordinates; a linked printed page alone is not a verified image region.
+- Use `npm run content:review` (or `npm run content:review -- --markdown > review.md`) to inspect all potential source, script, numbering, and index issues. Review uncertain Basta index/fragment mappings against original scans before editing source. Pixel-accurate highlighting requires *confirmed* scan coordinates; a linked printed page alone is not a verified image region.
 - Measure cold/mobile network font/CSS/JS requests, first/largest contentful paint and cumulative layout shift. Record browser/network conditions, not just an asset-size total.

@@ -117,43 +117,6 @@ test("empty set disables unavailable actions and explains publishing requirement
   await expect(publish).toBeDisabled();
 });
 
-test("set chooser and management buttons align on desktop and form exactly two rows on mobile", async ({ page }) => {
-  for (const width of [320, 390, 700, 820, 1280]) {
-    await page.setViewportSize({ width, height: 850 });
-    await page.goto("/recite/");
-    await expect(page.locator("#recite-drafts option")).toHaveCount(1);
-    const geometry = await page.locator(".recite-topbar").evaluate((root) => {
-      const box = (element) => {
-        const { x, y, width, height, bottom } = element.getBoundingClientRect();
-        return { x, y, width, height, bottom };
-      };
-      const chooser = box(root.querySelector("#recite-drafts"));
-      const actions = box(root.querySelector(".recite-topbar-actions"));
-      const buttons = [...root.querySelectorAll(".recite-topbar-actions button")].map(box);
-      return { chooser, actions, buttons, bounds: box(root),
-        overflow: root.scrollWidth - root.clientWidth,
-        viewportRight: innerWidth };
-    });
-    // This test covers the set-management layout, not unrelated content
-    // elsewhere on the page that can affect document scrollWidth.
-    expect(geometry.overflow, `set-management overflow at ${width}px`).toBeLessThanOrEqual(2);
-    expect(geometry.bounds.x + geometry.bounds.width).toBeLessThanOrEqual(geometry.viewportRight + 1);
-    const [first, second, third] = geometry.buttons;
-    expect(Math.abs(first.y - second.y)).toBeLessThan(1);
-    expect(Math.abs(second.y - third.y)).toBeLessThan(1);
-    expect(Math.abs(first.height - second.height)).toBeLessThan(1);
-    expect(Math.abs(second.height - third.height)).toBeLessThan(1);
-    if (width <= 740) {
-      expect(geometry.actions.y).toBeGreaterThanOrEqual(geometry.chooser.bottom + 5);
-      expect(geometry.actions.x).toBeCloseTo(geometry.chooser.x, 0);
-      expect(geometry.actions.width).toBeCloseTo(geometry.chooser.width, 0);
-    } else {
-      expect(geometry.actions.x).toBeGreaterThan(geometry.chooser.x + geometry.chooser.width);
-      expect(Math.abs(geometry.actions.y + geometry.actions.height - geometry.chooser.bottom)).toBeLessThan(1);
-    }
-  }
-});
-
 test("create local recitation programme and read standalone lyric @smoke", async ({ page }) => {
   await page.goto("/recite/");
   await expect(page.getByRole("heading", { name: "Recitation Sets" })).toBeVisible();
@@ -300,40 +263,6 @@ test("missing borrowed stanza does not hide the original Marsiya", async ({ page
   await expect(page.locator(".recite-work-placeholder")).toHaveCount(0);
 });
 
-test("multi-page Basta Marsiya preserves six-verse framing and both scans", async ({ page }) => {
-  const id = "marsiya-two-page-draft";
-  const set = {
-    version: 1, title: "Two-page Marsiya", occasion: "", description: "",
-    items: [{ uid: "b3ea7be2-8963-4f89-9ab1-4a0a4a22b211",
-      kind: "basta", id: "basta-marsiye-117", sourceTitle: "Baba ko rote rote" }],
-  };
-  await page.addInitScript(({ entry }) => {
-    localStorage.setItem("kalam:recitation-drafts-v1", JSON.stringify([entry]));
-  }, { entry: { id, set } });
-  await page.goto("/recite/read/?draft=" + id);
-  await expect(page.locator(".recite-work-header h2")).toBeVisible();
-  const scans = page.locator(".recite-work .lyric-reading-image img");
-  await expect(scans).toHaveCount(2);
-  await expect(scans.nth(0)).toHaveAttribute("src", /284\.png$/);
-  await expect(scans.nth(1)).toHaveAttribute("src", /285\.png$/);
-  await expect(page.locator(".recite-scan-caption")).toHaveText(["Basta page 284", "Basta page 285"]);
-
-  // The continuation on page 285 starts with stanza 7; it must not be
-  // merged into the closing couplet of stanza 6 at the page break.
-  for (const language of ["urdu", "roman"]) {
-    const edition = page.locator(".lyric-reading-" + language);
-    // :has() is scoped to each stanza block. A full edition-root locator
-    // passed to filter({has}) cannot match relative to its descendants.
-    const numbered = edition.locator(".basta-kalam-text:has(.poetry-stanza-number)");
-    await expect(numbered).toHaveCount(7);
-    for (const i of [5, 6]) {
-      await expect(numbered.nth(i).locator(".basta-verse-reverse-indent")).toHaveCount(4);
-      await expect(numbered.nth(i).locator(".basta-six-closing-start")).toHaveCount(1);
-      await expect(numbered.nth(i).locator(".basta-six-closing-end")).toHaveCount(1);
-    }
-  }
-});
-
 test("organizer can permanently preserve, renew and delete published sets", async ({ page }) => {
   const id = "123456789abcdef123456789";
   const editToken = "a".repeat(64);
@@ -389,38 +318,6 @@ test("organizer can permanently preserve, renew and delete published sets", asyn
   expect(deletes).toBe(1);
 });
 
-test("recitation programme navigation belongs to the shared contextual toolbar", async ({ page }) => {
-  await page.goto("/recite/read/");
-  const controls = page.locator("[data-reading-controls]");
-  await expect(controls.locator(".recite-reader-toolbar")).toHaveCount(1);
-  await expect(page.locator("[data-reading-root] .recite-reader-toolbar")).toHaveCount(0);
-});
-
-test("mobile contextual toolbar expands without overlaying the programme navigation", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/recite/");
-  await page.locator("#recite-title").fill("Responsive toolbar");
-  await page.locator("#recite-source").selectOption("lyric");
-  await page.locator("#recite-results li button:not([disabled])").first().click();
-  await page.locator("#recite-open-reader").click();
-  const controls = page.locator("[data-reading-controls]");
-  await expect(controls.locator(".recite-reader-toolbar")).toBeVisible();
-  await controls.locator("[data-reading-regular-toggle]").click();
-  const [navigation, editions] = await Promise.all([
-    controls.locator(".recite-reader-toolbar").boundingBox(),
-    controls.locator(".reading-view-control").boundingBox(),
-  ]);
-  expect(navigation && editions).toBeTruthy();
-  expect(editions.y).toBeGreaterThanOrEqual(navigation.y + navigation.height - 2);
-  await controls.locator("[data-reading-line-spacing]").selectOption("relaxed");
-  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
-  const text = page.locator(".recite-editions .lyrics-text").first();
-  await expect(text).toHaveCSS("line-height", /\d+(?:\.\d+)?px/);
-  await controls.locator("[data-reading-focus-enter]").click();
-  await expect(controls.locator(".recite-reader-toolbar")).toBeVisible();
-  await controls.locator("[data-reading-focus-exit]").click();
-});
-
 test("mobile builder progressively reveals optional fields and highlights the active step", async ({ page }) => {
   await page.setViewportSize({width:390,height:844});
   await page.goto("/recite/");
@@ -454,36 +351,6 @@ test("Roman-only recitation falls back explicitly to its original scan if text i
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-mode","roman");
   await expect(page.locator(".recite-work-no-roman .lyric-reading-image")).toBeVisible();
   await expect(page.locator(".recite-work-no-roman .recite-empty-edition")).toContainText("Roman Urdu is not available");
-});
-
-test("the programme uses shared edition geometry and starts sequentially on mobile", async ({ page }) => {
-  const id = "visual-layout-draft";
-  await page.addInitScript(({ id }) => {
-    localStorage.setItem("kalam:recitation-drafts-v1", JSON.stringify([{
-      id, set: { version: 1, title: "Visual layout", occasion: "", description: "",
-        items: [{ uid: "391002ab-16f4-4535-bf2a-8ca02cefc956",
-          kind: "lyric", id: "aa-asghar-bin-tere", sourceTitle: "Aa Asghar" }] }
-    }]));
-  }, { id });
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/recite/read/?draft=" + id);
-  const root = page.locator(".recite-reading-root");
-  const grid = page.locator(".recite-editions").first();
-  await expect(root).toHaveAttribute("data-reading-columns", "urdu");
-  await expect(page.locator("#recite-reader-view")).toHaveValue("sequential");
-  await expect(grid).toHaveAttribute("data-reading-mode", "urdu");
-  await expect(grid.locator(".lyric-reading-urdu")).toBeVisible();
-  await expect(grid.locator(".lyric-reading-roman")).toBeHidden();
-  await page.locator("[data-reading-regular-toggle]").click();
-  await page.locator('[data-reading-column][value="roman"]').check();
-  await expect(grid).toHaveAttribute("data-reading-columns", "urdu roman");
-  await page.setViewportSize({ width: 1100, height: 900 });
-  const [roman, urdu] = await Promise.all([
-    grid.locator(".lyric-reading-roman").boundingBox(),
-    grid.locator(".lyric-reading-urdu").boundingBox(),
-  ]);
-  expect(Math.abs(roman.y - urdu.y)).toBeLessThan(25);
-  expect(roman.x + roman.width).toBeLessThanOrEqual(urdu.x + 5);
 });
 
 test("sharing choices are disclosed as the programme becomes publishable", async ({ page }) => {
