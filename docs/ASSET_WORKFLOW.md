@@ -33,4 +33,4 @@ rclone check ~/KalamArchiveAssets/files  r2:kalam-archive-assets/files  --one-wa
 
 `rclone copy` adds/replaces without deleting unrelated objects; **never use `sync` for normal publishing**. Don't use `--immutable` when replacements are intended; checksum behavior depends on backend support.
 
-Commit Markdown/code changes separately from binaries; validate changed public/preview URLs. Purge affected Cloudflare cache entries if a replaced file stays stale. Follow [Contributing](CONTRIBUTING.md#validation) for build/tests.
+Commit Markdown/code changes separately from binaries; validate changed public/preview URLs. Purge affected Cloudflare cache entries if a replaced file stays stale. Follow [Contributing](CONTRIBUTING.md#code-and-tests) for build/tests.

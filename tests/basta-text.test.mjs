@@ -175,3 +175,122 @@ test("Basta circle counter strips punctuation but does not change verse numeral 
   assert.ok(!lines[1].stanzaNumber);
   assert.equal(lines[1].text, "ایک مصرع");
 });
+
+
+test("explicit editorial subtitles and major refrains render without leaking markup", () => {
+  const lines = layoutBastaKalam(
+    "Opening\n[[subtitle]] Special heading\n\nOpening\nSecond verse\n\n[[refrain]] Opening"
+  );
+  const subtitle = lines[1];
+  assert.equal(subtitle.text, "Special heading");
+  assert.equal(subtitle.subtitle, true);
+  assert.equal(subtitle.poet, undefined);
+  assert.ok(bastaVerseClassNames(subtitle).includes("basta-kalam-subtitle"));
+  assert.ok(!bastaVerseClassNames(subtitle).includes("kalam-poet-credit"));
+  const refrain = lines.at(-1);
+  assert.equal(refrain.text, "Opening");
+  assert.equal(refrain.refrain, true);
+  assert.equal(refrain.verse, true);
+  assert.ok(bastaVerseClassNames(refrain).includes("basta-refrain"));
+  assert.ok(bastaVerseClassNames(refrain).includes("basta-verse-poetry"));
+});
+
+test("distinctive split bylines preserve proper title styling in both scripts", () => {
+  for (const [title, credit, verse] of [
+    ["رباعی", "پیرِ طریقت حضرت عنبر شاہ وارثیؒ", "الحمد کہ من بندۂ حیدر ہستم"],
+    ["Rubai", "Pir-e-Tariqat Hazrat Anbar Shah Warsi", "Alhamd ke man banda-e-Haider hastam"],
+    ["منقبت", "سید سبط جعفر", "انسان کہاں، وہ لوگ ہمیں شیطان دکھائی دیتے ہیں"],
+    ["Manqabat", "Syed Sibt Jafar", "Insan kahan, wo log hamein shaitan dikhai dete hain"],
+  ]) {
+    const lines = layoutBastaKalam([title, credit, "", verse, "second verse"].join("\n"));
+    assert.equal(lines[0].title, true, title);
+    assert.equal(lines[1].poet, true, credit);
+    assert.equal(lines[2].hidden, true);
+    assert.equal(lines[3].verse, true);
+  }
+});
+
+test("a three-line 3-verse poem preface has a title, subtitle, and poet", () => {
+  for (const [name, secondary, poet] of [
+    ["عقل و شعور ہیں رب کی نعمت، حقِ نعمت ادا کرو", "حقِ مودّت ادا کرو", "سبط جعفر"],
+    ["Aql-o-shuur hain Rab ki nemat, Haq-e-nemat ada karo", "Haq-e-mawaddat ada karo", "Sibt Jafar"],
+  ]) {
+    const lines = layoutBastaKalam([name, secondary, poet, "", name, "verse two", "verse three"].join("\n"));
+    assert.equal(lines[0].title, true);
+    assert.equal(lines[1].subtitle, true);
+    assert.equal(lines[1].verse, false);
+    assert.equal(lines[2].poet, true);
+    assert.equal(lines[3].hidden, true);
+    assert.deepEqual(lines.slice(4).map(line => line.verse), [true,true,true]);
+  }
+});
+
+test("Noha attribution distinguishes a title from unnumbered couplets", () => {
+  const lines = layoutBastaKalam("روایتِ شامِ غریباں\nشفق اکبر آبادی\n\nکون آلِ پیمبر کا اب پوچھنے والا ہے\nدوسرا مصرع");
+  assert.equal(lines[0].title, true);
+  assert.equal(lines[1].poet, true);
+});
+
+test("recitation preface alone retains a three-line title, subtitle, and poet", () => {
+  const lines = layoutBastaKalam("عقل و شعور ہیں رب کی نعمت\nحقِ مودّت ادا کرو\nسبط جعفر", true, "auto", true);
+  assert.equal(lines[0].title, true);
+  assert.equal(lines[1].subtitle, true);
+  assert.equal(lines[2].poet, true);
+});
+
+test("Basta generic headings and unlisted poet bylines use shared title/credit styles", () => {
+  for (const [heading, poet, firstVerse] of [
+    ["رباعی", "سید ذیشان حیدر ذیشان", "دشوار سہی کام یہ کرنا ہوگا"],
+    ["Rubai", "Syed Zeeshan Haider Zeeshan", "Dushwar sahi kam ye karna hoga"],
+    ["رباعی", "ذیشان حیدر ذیشان", "دشوار سہی کام یہ کرنا ہوگا"],
+    ["Rubai", "Zeeshan Haider Zeeshan", "Dushwar sahi kam ye karna hoga"],
+    ["زید شہید", "حکیم سید محمد کاظم زیدی", "زید شہید قدرتِ داور کا شاہکار"],
+    ["Zaid Shahid", "Hakim Syed Muhammad Kazim Zaidi", "Zaid Shahid qudrat-e-Dawar ka shahkar"],
+  ]) {
+    const lines = layoutBastaKalam([heading, poet, "", firstVerse, "Second verse", "Third verse"].join("\n"));
+    assert.ok(lines[0].title, heading);
+    assert.ok(bastaVerseClassNames(lines[0]).includes("kalam-reading-title"));
+    assert.ok(lines[1].poet, poet);
+    assert.ok(bastaVerseClassNames(lines[1]).includes("kalam-poet-credit"));
+    assert.ok(!lines[1].verse);
+    assert.ok(lines[2].hidden);
+  }
+});
+
+test("standalone genre headings are titles, standalone attribution lines are not", () => {
+  for (const heading of ["[قطعہ]", "[Qit'a]", "قطعہ", "Qit'a", "سوزخوانی", "Sozkhwani", "عزاداروں سے خطاب", "Azadaron se khitab"]) {
+    const lines = layoutBastaKalam([heading, "", "Verse one", "Verse two", "Verse three", "Verse four"].join("\n"));
+    assert.equal(lines[0].title, true, heading);
+    assert.equal(lines[0].poet, undefined, heading);
+    assert.ok(lines[1].hidden);
+  }
+  for (const poet of ["علامہ طالب جوہری مدظلہ", "Allama Talib Jauhari Muddazillahu", "مرزا ادیب", "Mirza Adib"]) {
+    const lines = layoutBastaKalam([poet, "", "Verse one", "Verse two", "Verse three", "Verse four"].join("\n"));
+    assert.equal(lines[0].title, undefined, poet);
+    assert.equal(lines[0].poet, true, poet);
+    assert.ok(bastaVerseClassNames(lines[0]).includes("kalam-poet-credit"));
+  }
+});
+
+test("minor differences in repeated first verse do not suppress title styling", () => {
+  for (const [title, firstVerse] of [
+    ["حسینؑ جب کہ چلے بعد دوپہر رن کو", "حسینؑ جب چلے بعد دوپہر رن کو"],
+    ["Husain jab ke chale baad dopehar ran ko", "Husain jab chale baad dopehar ran ko"],
+  ]) {
+    const lines = layoutBastaKalam([title, "", firstVerse, "Verse two", "Verse three", "Verse four"].join("\n"));
+    assert.ok(lines[0].title, title);
+    assert.equal(lines[2].title, undefined);
+    assert.ok(lines[2].verse);
+  }
+  // Distinct verses and ordinary two-line stanzas are never promoted.
+  const verses = layoutBastaKalam("First ordinary verse\nSecond ordinary verse\n\nThird ordinary verse\nFourth ordinary verse");
+  assert.ok(verses.every(line => !line.title && !line.poet));
+});
+
+test("a repeated poem title beginning with a poet-name prefix remains a title", () => {
+  const title = "سید شہدا کی یاد میں جلتا ہے دل";
+  const lines = layoutBastaKalam([title, "", title, "اگلا مصرع", "ایک اور مصرع", "آخری مصرع"].join("\n"));
+  assert.equal(lines[0].title, true);
+  assert.equal(lines[0].poet, undefined);
+  assert.equal(lines[2].verse, true);
+});

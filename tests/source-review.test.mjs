@@ -87,3 +87,53 @@ test("detects OCR uncertainty markers outside brackets in both scripts", () => {
     text: lyric("متن نامکمل", "Matn ghair wazeh") });
   assert.equal(file.issues.filter(x => x.code === "unverified-text").length, 2);
 });
+
+test("Basta source review flags prayer notices, not poetic prayer references", () => {
+  const sample = [
+    "---", "page: 135", "originalImage: /images/basta/original/135.png", "---",
+    "کر لیجئے التماس دعا ہاتھ باندھ کر",
+    "التماس سورۃ فاتحہ برائے ایصال ثواب",
+  ].join("\n");
+  const urdu = reviewMarkdown({ path: "src/data/basta/pages/135.md", kind: "basta-urdu", text: sample });
+  assert.equal(urdu.issues.filter(x => x.code === "basta-prayer-block").length, 1);
+
+  const roman = [
+    "---", "page: 137", "---",
+    "Kar lijiye iltimas-e-dua hath bandh kar",
+    "(Iltimas Surat-e-Fatiha baraye sozkhwan)",
+    "Iltimas-e-Fatiha baraye isal-e-sawab",
+    "Iltimas-e-dua-e-sehat baraye shair",
+  ].join("\n");
+  const romanFindings = reviewMarkdown({ path: "src/data/basta/roman/137.md", kind: "basta-roman", text: roman });
+  assert.equal(romanFindings.issues.filter(x => x.code === "basta-prayer-block").length, 3);
+});
+
+test("Basta source formatting flags double blank separators and attached acknowledgements", () => {
+  const body = [
+    "عنوان", "۱", "شعر", "", "", "", "دوسرا شعر", "(بشکریہ سوزخواں)", "", "تیسرا شعر",
+  ].join("\n");
+  const md = ["---", "page: 140",
+    "originalImage: /images/basta/original/140.png", "---", body].join("\n");
+  const file = reviewMarkdown({
+    path: "src/data/basta/pages/140.md", kind: "basta-urdu", text: md,
+  });
+  assert(file.issues.some(x => x.code === "basta-excess-blank-lines"));
+  assert(file.issues.some(x => x.code === "basta-courtesy-spacing"));
+});
+
+
+test("explicit Basta subtitles and refrains are not mistaken for Urdu-script contamination", () => {
+  const urdu = [
+    "---", "page: 398", "originalImage: /images/basta/original/398.png", "---",
+    "[[subtitle]] عنوانِ ثانوی", "", "[[refrain]] آئیے اپنے مولا سے باتیں کریں",
+  ].join("\n");
+  const file = reviewMarkdown({
+    path: "src/data/basta/pages/398.md", kind: "basta-urdu", text: urdu,
+  });
+  assert.ok(!file.issues.some(x => x.code === "latin-in-urdu"));
+  const bad = reviewMarkdown({
+    path: "src/data/basta/pages/398.md", kind: "basta-urdu",
+    text: urdu + "\nIncorrect Latin prose",
+  });
+  assert.ok(bad.issues.some(x => x.code === "latin-in-urdu"));
+});

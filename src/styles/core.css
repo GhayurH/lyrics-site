@@ -155,6 +155,16 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
   text-align-last: justify;
 }
 
+/* Nastaliq glyphs can paint to the right of their RTL advance box.
+   Reserve optical ink clearance at the right edge, borrowing equal space
+   from the opposite (left) margin to preserve the full fitting width and
+   original font size. This applies to Basta and standalone/recitation lyrics,
+   including focus mode and the first/title lines. */
+[data-reading-root] [lang="ur"] :is(.basta-verse-line, .lyric-verse) {
+  padding-inline-start: var(--reading-urdu-ink-clearance);
+  margin-inline-end: calc(-1 * var(--reading-urdu-ink-clearance));
+}
+
 /* Only actual kalam titles (not poets, verses, or page/navigation headings)
    share centered emphasis across Urdu, Roman, Basta, and recitation readers. */
 .kalam-reading-title,
@@ -173,6 +183,15 @@ html:not([data-js-available="true"]) .theme-toggle { display: none; }
 .kalam-poet-credit {
   text-align: center;
   text-align-last: center;
+}
+
+/* Subordinate editorial headings are centered but do not inherit title styling. */
+.basta-kalam-subtitle {
+  text-align: center;
+  text-align-last: center;
+  font-weight: 600;
+  font-size: .95em;
+  line-height: 1.8;
 }
 
 /* Separate title sizing from verse sizing in all Basta and recitation editions. */

@@ -55,6 +55,8 @@ function checkLines(path: string, text: string, firstLine: number, script: "urdu
   text.split("\n").forEach((line, index) => {
     const sourceLine = firstLine + index;
     if (!line.trim()) return;
+    // Explicit editorial labels are metadata, not Arabic-to-Latin script mixing.
+    const visibleLine = line.replace(/^\[\[(?:subtitle|refrain)\]\] /u, "");
     if (/\uFFFD/u.test(line)) record(issues, path, sourceLine, "replacement-character", "Unicode replacement character (�)");
     if (/\t/u.test(line)) record(issues, path, sourceLine, "tab", "Tab inside source text");
     if (invisible.test(line)) record(issues, path, sourceLine, "invisible-character", "Invisible/bidirectional control character; confirm intentional use");
@@ -67,8 +69,8 @@ function checkLines(path: string, text: string, firstLine: number, script: "urdu
     if (otherScript)
       record(issues, path, sourceLine, "unexpected-script", "Letter from an unexpected script: " + line.trim().slice(0, 95));
     if (script === "urdu") {
-      if (/[A-Za-z]/u.test(line))
-        record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + line.trim().slice(0, 95));
+      if (/[A-Za-z]/u.test(visibleLine))
+        record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + visibleLine.trim().slice(0, 95));
     } else {
       if (/\b(?:Hussain|Hassan)\b/iu.test(line))
         record(issues, path, sourceLine, "roman-name-style", "House style uses Husain and Hasan (one s after the initial consonant)");
@@ -244,6 +246,30 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   }
   if (kind === "basta-urdu" && fields.imageOnly !== "true") checkLines(path, body, bodyLine, "urdu", issues);
   if (kind === "basta-roman") checkLines(path, body, bodyLine, "roman", issues);
+  if (kind.startsWith("basta-") && page !== undefined && page >= 85) {
+    // Prayer notices should not be stored as poetry. Only classify
+    // standalone requests, never a verse mentioning iltimas or fatiha.
+    const sourceLines = body.split("\n");
+    // Keep one blank line between paragraphs, not multiple. Courtesy credits
+    // follow the poem/recurring title as their own paragraph.
+    sourceLines.forEach((line, index) => {
+      if (index > 1 && !line.trim() && !sourceLines[index - 1].trim() &&
+          sourceLines[index - 2].trim()) {
+        record(issues, path, bodyLine + index, "basta-excess-blank-lines",
+          "Two or more consecutive blank lines in a Basta source");
+      }
+      if (/^\s*\(?(?:بشکریہ|Bashukriya)(?:\s|[):]|$)/iu.test(line) &&
+          index > 0 && sourceLines[index - 1].trim()) {
+        record(issues, path, bodyLine + index, "basta-courtesy-spacing",
+          "Source acknowledgement should have one blank line above it");
+      }
+    });
+    body.split("\n").forEach((line, index) => {
+      const normalized = line.replace(/\u0640/gu, "").replace(/[\u064B-\u065F]/gu, "").trim();
+      if (/^\(?\s*(?:التماس|iltimas)(?:[\sِ-]*e)?[\sِ-]*(?:(?:سور[ۃہ]|surah|surat)(?:[\s-]*e)?[\s-]*)?(?:فاتحہ|fatiha|fateha|دعا|dua)/iu.test(normalized))
+        record(issues, path, bodyLine + index, "basta-prayer-block", "Prayer/dedication request left in poetry source");
+    });
+  }
   // Page-number sequences continue across physical pages; individual fragments may start mid-stanza.
   // Only report repeats/decreases within the same page/fragment, not gaps between pages.
   for (const part of portions(body)) {

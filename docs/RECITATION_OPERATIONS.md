@@ -1,6 +1,6 @@
 # Recitation Sets operations
 
-Infrastructure and maintenance for [Recitation Sets](RECITATION_SETS.md). [Validation](CONTRIBUTING.md#validation) owns build/CI commands.
+Infrastructure and maintenance for [Recitation Sets](RECITATION_SETS.md). [Validation](CONTRIBUTING.md#code-and-tests) owns build/CI commands.
 
 ## Cloudflare configuration
 

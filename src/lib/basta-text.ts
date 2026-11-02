@@ -42,6 +42,8 @@ export interface BastaDisplayLine {
   title?: boolean;
   /** A poet's byline immediately following a verified opening title. */
   poet?: boolean;
+  /** Editorially marked subordinate heading, not a verse or poet attribution. */
+  subtitle?: boolean;
   /** A rule starts each couplet after the first in a two-verse poem. */
   coupletSeparator?: boolean;
   /** Closing couplet rules are shared with a final reprise when present. */
@@ -61,15 +63,57 @@ function isCreditLine(line: string): boolean {
   return /^[(（]?\s*(?:بشکریہ|بہ\s*شکریہ|bashukriya|ba\s*shukriya)/i.test(line.trim());
 }
 
-/** Ignore the heading/poet preface when it is separated from the verses.
- * A two-line preface is only recognized when its title repeats in the next
- * block; do not infer arbitrary author names from the source text. */
+/** Attribution cues are roles, not a list of individual poets. Evaluate
+ * them only in a separate introductory block, never in ordinary verses. */
+function isKnownByline(line: string): boolean {
+  const value = line.trim().replace(/^[([（]\s*/u, "");
+  return /^(?:سید|سیّد|پیر|حکیم|شاعر|مولانا|حضرت|علامہ|ڈاکٹر|پروفیسر|مرزا|سردار|سبط جعفر$|شفق اکبر آبادی|روایتی نوحہ|Syed|Sayyid|Pir|Hakim|Shair|Maulana|Hazrat|Allama|Dr\.?\s|Doctor|Professor|Mirza|Sardar|Sibt Jafar$|Shafaq Akbar Abadi|Riwayati nauha)/iu.test(value);
+}
+
+/** A genre or editorial section heading may not repeat in the verses.
+ * Only classify a label in its own introductory block as a title. */
+function isGenreHeading(line: string): boolean {
+  const value = line.trim().replace(/^\[|\]$/gu, "").trim();
+  return /^(?:رباعی|قطعہ|قطعات|منقبت|مناجات|سوزخوانی|مختصر زیارات|[\p{L}\sِ]+ سے خطاب|Rubai|Ruba(?:i|yat)|Qit['’]a|Qita['’]?at|Manqabat|Munajat|(?:Soz|Soaz)khwani|Mukhtasar Ziarat|[A-Za-z\s-]+ se khitab)$/iu.test(value);
+}
+
+/** Scan transcriptions can vary slightly between a printed heading and
+ * its repeated first verse (harakat, punctuation or a short omitted word).
+ * Match only long, near-identical lines so ordinary stanza lines stay verses. */
+function matchesOpeningTitle(title: string, opening: string): boolean {
+  const normalize = (value: string) => value.normalize("NFKC")
+    .replace(/[\u064B-\u065F\u0670\u06D6-\u06EDؐؑؒؓ]/gu, "")
+    .replace(/[^\p{L}\p{N}]/gu, "").toLowerCase();
+  const a = normalize(title), b = normalize(opening);
+  if (a === b) return Boolean(a);
+  if (Math.min(a.length, b.length) < 18 || Math.abs(a.length - b.length) > 3)
+    return false;
+  let previous = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    const current = [i];
+    for (let j = 1; j <= b.length; j++) {
+      current[j] = Math.min(
+        current[j - 1] + 1, previous[j] + 1,
+        previous[j - 1] + Number(a[i - 1] !== b[j - 1]),
+      );
+    }
+    if (Math.min(...current) > 3) return false;
+    previous = current;
+  }
+  return previous[b.length] <= 3;
+}
+
+/** An opening title/byline is verified by a repeated first verse or
+ * distinctive author attribution, not by its arbitrary line count. */
 function hasIntroductoryBlock(lines: string[], blocks: Array<{ start: number; end: number }>): boolean {
   if (blocks.length < 2) return false;
   const first = blocks[0];
   const size = first.end - first.start;
   if (size === 1) return !isStanzaNumber(lines[first.start]);
-  return size === 2 && lines[first.start].trim() === lines[blocks[1].start].trim();
+  const repeats = matchesOpeningTitle(lines[first.start], lines[blocks[1].start]);
+  return (size === 2 && (repeats || isKnownByline(lines[first.start + 1]) ||
+      isGenreHeading(lines[first.start]))) ||
+    (size === 3 && repeats && isKnownByline(lines[first.start + 2]));
 }
 
 /** Preserve every line; only attach indentation to actual verses. */
@@ -81,12 +125,18 @@ export function layoutBastaKalam(
 ): BastaDisplayLine[] {
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
   const display: BastaDisplayLine[] = lines.map((line) => {
-    const stanzaNumber = parseStanzaNumber(line);
+    const subtitle = line.startsWith("[[subtitle]] ");
+    const explicitRefrain = line.startsWith("[[refrain]] ");
+    const visibleText = subtitle ? line.slice("[[subtitle]] ".length)
+      : explicitRefrain ? line.slice("[[refrain]] ".length) : line;
+    const stanzaNumber = parseStanzaNumber(visibleText);
     return {
-      text: stanzaNumber ?? line,
+      text: stanzaNumber ?? visibleText,
+      subtitle,
       stanzaNumber: stanzaNumber ?? undefined,
       indent: false,
-      verse: false,
+      verse: explicitRefrain,
+      refrain: explicitRefrain,
     };
   });
   const blocks: Array<{ start: number; end: number }> = [];
@@ -106,11 +156,12 @@ export function layoutBastaKalam(
   if (hasIntroductoryBlock(lines, blocks)) prefaceBlocks.add(0);
   for (let index = 0; index + 1 < blocks.length; index++) {
     const block = blocks[index];
-    if (
-      block.end - block.start === 2 &&
-      !isStanzaNumber(lines[block.start]) &&
-      lines[block.start].trim() === lines[blocks[index + 1].start].trim()
-    ) {
+    const count = block.end - block.start;
+    const repeats = matchesOpeningTitle(lines[block.start], lines[blocks[index + 1].start]);
+    if (!isStanzaNumber(lines[block.start]) &&
+        ((count === 2 && (repeats || isKnownByline(lines[block.start + 1]) ||
+          isGenreHeading(lines[block.start]))) ||
+         (count === 3 && repeats && isKnownByline(lines[block.start + 2])))) {
       prefaceBlocks.add(index);
     }
   }
@@ -136,13 +187,22 @@ export function layoutBastaKalam(
     const next = blocks[index + 1];
     if (!next) continue;
     const heading = lines[block.start].trim();
-    const matchesFirstVerse = heading === lines[next.start].trim();
+    const matchesFirstVerse = matchesOpeningTitle(heading, lines[next.start]);
+    const hasKnownByline = block.end - block.start === 2 &&
+      (isKnownByline(lines[block.start + 1]) || isGenreHeading(heading));
     const isStandAloneHeading = block.end - block.start === 1 &&
       !prefaceBlocks.has(index + 1) &&
       (heading.includes(" / ") ||
         isStanzaNumber(lines[next.start]) ||
-        /^(?:بین|Bain)$/iu.test(heading));
-    if ((matchesFirstVerse || isStandAloneHeading) && !isCreditLine(heading)) {
+        /^(?:بین|Bain)$/iu.test(heading) ||
+        isGenreHeading(heading));
+    // A standalone attribution is not a title, even if visually short.
+    if (block.end - block.start === 1 && isKnownByline(heading) &&
+        !matchesFirstVerse && !isStandAloneHeading) {
+      display[block.start].poet = true;
+      continue;
+    }
+    if ((matchesFirstVerse || isStandAloneHeading || hasKnownByline) && !isCreditLine(heading)) {
       display[block.start].title = true;
       // A printed separator is not a full-height empty verse after a title.
       // Preserve gaps elsewhere, including ordinary stanza boundaries.
@@ -151,8 +211,13 @@ export function layoutBastaKalam(
       }
       // Only the adjacent second line of a verified two-line preface is a
       // byline; standalone headings, credits, and verses are untouched.
-      if (block.end - block.start === 2 && !isCreditLine(lines[block.start + 1])) {
+      if (block.end - block.start === 2 && !display[block.start + 1].subtitle && !isCreditLine(lines[block.start + 1])) {
         display[block.start + 1].poet = true;
+      }
+      if (block.end - block.start === 3 && matchesFirstVerse &&
+          isKnownByline(lines[block.start + 2])) {
+        display[block.start + 1].subtitle = true;
+        display[block.start + 2].poet = true;
       }
     }
   }
@@ -168,6 +233,12 @@ export function layoutBastaKalam(
         !isCreditLine(lines[byline.start + 1])) {
       display[byline.start].title = true;
       display[byline.start + 1].poet = true;
+    } else if (byline && byline.end - byline.start === 3 &&
+        isKnownByline(lines[byline.start + 2])) {
+      // Recitation Sets render this three-part preface without its next verse.
+      display[byline.start].title = true;
+      display[byline.start + 1].subtitle = true;
+      display[byline.start + 2].poet = true;
     }
   }
 
@@ -290,6 +361,7 @@ export function bastaVerseClassNames(line: BastaDisplayLine): string {
     line.title && "basta-kalam-title",
     line.title && "kalam-reading-title",
     line.poet && "kalam-poet-credit",
+    line.subtitle && "basta-kalam-subtitle",
     line.coupletSeparator && "basta-couplet-separator",
     line.sixClosingStart && "basta-six-closing-start",
     line.sixClosingEnd && "basta-six-closing-end",

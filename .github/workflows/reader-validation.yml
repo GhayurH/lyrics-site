@@ -60,14 +60,23 @@ jobs:
           else
             echo 'full=false' >> "$GITHUB_OUTPUT"
           fi
-          # Astro diagnostics need a fresh optional install; avoid that work
-          # for pure CSS, Markdown, content, or test-only revisions.
+          # Check the source-linked index when its titles or source text changes.
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || \
+             grep -Eq '^src/data/basta/(index\.json|(pages|roman)/[^/]+\.md)$' <<< "$changed"; then
+            echo 'index=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'index=false' >> "$GITHUB_OUTPUT"
+          fi
+          # Run Astro diagnostics only for code changes or explicit opt-in.
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || \
              grep -Eq '\.(astro|tsx?|jsx?)$' <<< "$changed" || grep -Fq '[check-ci]' <<< "$messages"; then
             echo 'check=true' >> "$GITHUB_OUTPUT"
           else
             echo 'check=false' >> "$GITHUB_OUTPUT"
           fi
+      - name: Verify Basta index labels
+        if: steps.test_mode.outputs.index == 'true'
+        run: npm run basta:index:check
       - name: Validate Astro and TypeScript semantics
         if: steps.test_mode.outputs.check == 'true'
         run: npm run check

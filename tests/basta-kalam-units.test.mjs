@@ -136,3 +136,56 @@ test("editorial diagnostics report duplicate IDs, Roman gaps and separator misma
   assert.deepEqual(result.nonMonotonicSectionNumbers,["Salam:1"]);
   assert.equal(JSON.stringify({index,pages}),original);
 });
+
+test("an exact single-word title can identify a poem after an unindexed excerpt", () => {
+  const entries = [
+    { ...first, name: "پچھلا کلام", number: 1, page: 150 },
+    { ...second, name: "رخصتی", number: 2, page: 151 },
+  ];
+  const result = buildBastaKalamCatalog(entries, [
+    { page: 150, urdu: "پچھلا کلام\n۱\nپہلی سطر" },
+    {
+      page: 151,
+      urdu: [
+        "۲", "دوسری سطر", "---***---",
+        "ایک الگ غیر درج کلام", "ایک اور سطر", "---***---",
+        "رخصتی", "یہ عنوان ہے", "دوسری سطر",
+      ].join("\n"),
+    },
+  ]);
+  assert.equal(result.kalams[0].status, "ready");
+  assert.equal(result.kalams[1].status, "ready");
+  assert.equal(result.kalams[1].startPage, 151);
+  assert.deepEqual(result.kalams[1].pages, [151]);
+  assert.equal(result.orphans.length, 1);
+});
+
+
+test("representative complex Basta pages retain aligned Roman and Urdu poem structures", async () => {
+  // Multi-kalam boundaries, split bylines, editorial subtitles, refrains,
+  // and varied stanza lengths are permanent rendering contracts.
+  const pages = [342, 344, 367, 375, 385, 393, 398, 399, 428, 435, 451];
+  const layout = (text) => body(text).split("\n").map((line) =>
+    line.trim() === "---***---" ? "boundary" : line.trim() ? "verse" : "blank");
+  for (const page of pages) {
+    const [urdu, roman] = await Promise.all([
+      file("pages/" + page + ".md"), file("roman/" + page + ".md"),
+    ]);
+    assert.deepEqual(layout(roman), layout(urdu), "Basta page " + page);
+  }
+});
+
+test("page 451 is a subtitle of poem 49 rather than a new indexed identity", async () => {
+  const index = JSON.parse(await file("index.json"));
+  const entries = index.filter((item) => item.sectionRoman === "Mutafarriqat-o-Qaumiyat");
+  assert.ok(entries.some((item) => item.number === 49 && item.page === 444));
+  assert.equal(entries.some((item) => item.number === 50), false);
+  assert.ok(entries.some((item) => item.number === 51 && item.page === 454));
+  const locks = JSON.parse(await readFile(
+    new URL("../src/data/recitation/identity-lock.json", import.meta.url), "utf8"));
+  const retired = locks.basta.find((item) => item.id === "basta-mutafarriqat-o-qaumiyat-050");
+  assert.equal(retired?.retired, true);
+  for (const kind of ["pages", "roman"]) {
+    assert.match(body(await file(kind + "/451.md")), /\[\[subtitle\]\]/);
+  }
+});
