@@ -14,6 +14,22 @@ test("all reader types expose text before JavaScript initializes @smoke", async 
   await context.close();
 });
 
+test("printed Basta genre titles, names and near-repeated headings use shared typography", async ({ page }) => {
+  await page.goto("/basta/140/");
+  for (const [edition, rubai, qita, poet, finalTitle] of [
+    ["urdu", "رباعی", "[قطعہ]", "علامہ طالب جوہری مدظلہ", "حسینؑ جب کہ چلے بعد دوپہر رن کو"],
+    ["roman", "Rubai", "[Qit'a]", "Allama Talib Jauhari Muddazillahu", "Husain jab ke chale baad dopehar ran ko"],
+  ]) {
+    const poems = page.locator(`.basta-page-${edition} .basta-kalam-text`);
+    await expect(poems.nth(1).locator(".kalam-reading-title")).toHaveText(rubai);
+    await expect(poems.nth(1).locator(".kalam-poet-credit")).toHaveCount(1);
+    await expect(poems.nth(2).locator(".kalam-reading-title")).toHaveText(qita);
+    await expect(poems.nth(3).locator(".kalam-poet-credit")).toHaveText(poet);
+    await expect(poems.nth(3).locator(".kalam-reading-title")).toHaveCount(0);
+    await expect(poems.nth(5).locator(".kalam-reading-title")).toHaveText(finalTitle);
+  }
+});
+
 test("edition preferences, Focus mode, and image enlargement work together", async ({ page }) => {
   await page.goto("/basta/138/");
   const image = page.locator(".basta-original-page");
