@@ -65,7 +65,7 @@ html[data-theme="sepia"] {
   --site-background: var(--preset-sepia-main);
   --surface-background: var(--preset-sepia-surface);
   --header-background: rgb(251 244 230 / .94);
-  --primary-text: #352b21;
+  --primary-text: var(--preset-sepia-ink);
   --secondary-text: #6b5947;
   --border-colour: #d5c4a8;
   --tag-background: #eadcc5;

@@ -113,6 +113,6 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
     min-width: 0 !important;
     width: 100% !important;
     max-width: 100% !important;
-    max-height: min(var(--pf-dropdown-max-height), 50dvh);
+    max-height: min(var(--pf-dropdown-max-height, 50dvh), 50dvh);
   }
 }

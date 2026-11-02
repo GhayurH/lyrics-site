@@ -79,7 +79,7 @@
 [data-preset-swatch="sepia"] {
   --swatch-main: var(--preset-sepia-main);
   --swatch-surface: var(--preset-sepia-surface);
-  --swatch-ink: #352b21;
+  --swatch-ink: var(--preset-sepia-ink);
   --swatch-accent: var(--preset-sepia-accent);
 }
 [data-preset-swatch="amoled"] {
