@@ -122,6 +122,11 @@ jobs:
         with:
           node-version: '24'
       - run: node --experimental-strip-types scripts/basta-cleanup-analysis.mjs > basta-analysis.json
+      - run: node --experimental-strip-types scripts/basta-editorial-cleanup.mjs > basta-cleanup-plan.json
+      - uses: actions/upload-artifact@v7
+        with:
+          name: basta-cleanup-plan
+          path: basta-cleanup-plan.json
       - uses: actions/upload-artifact@v7
         with:
           name: basta-analysis-json
