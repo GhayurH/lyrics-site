@@ -46,7 +46,7 @@ const arabic = /\p{Script=Arabic}/u;
 const latin = /\p{Script=Latin}/u;
 const unusualLatin = /[^\x00-\x7f]/u;
 const romanDigits = /[٠-٩۰-۹]/u;
-const commonPlaceholders = /(?:\b(?:TODO|TBD|FIXME|OCR|PLACEHOLDER)\b|\?{2,})/iu;
+const commonPlaceholders = /(?:\b(?:TODO|TBD|FIXME|OCR|PLACEHOLDER)\b|\bmissing\s+v\d+(?:-\d+)?\b|\?{2,})/iu;
 const urduUncertainty = /\[[^\]\n]*(?:جزوی\s*طور\s*پر\s*غیر\s*واضح|غیر\s*واضح|واضح\s*نہیں|مبہم|نامعلوم|نامکمل|ناقابل|پڑھ(?:ا|ی|ے)?\s*نہیں\s*(?:جا\s*)?سک(?:ا|ی|ے)?)[^\]\n]*\]/iu;
 const romanUncertainty = /\[[^\]\n]*(?:juzwi\s+taur\s+par\s+ghair[-\s]?wazeh|ghair[-\s]?wazeh|wazeh\s+nah(?:i|ee)n|na[-\s]?qabil|unclear|illegible|unknown|incomplete|unreadable|not\s+clear|cannot\s+read)[^\]\n]*\]/iu;
 const invisible = /[\u200B\u200C\u200D\u200E\u200F\u202A-\u202E\u2066-\u2069\uFEFF]/u;
