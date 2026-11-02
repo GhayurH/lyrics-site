@@ -356,9 +356,13 @@ export async function initRecitationReader(): Promise<void> {
     }
     try {
       const html = await snapshot();
-      tab.document.open();
-      tab.document.write(html);
-      tab.document.close();
+      // Preserve the complete standalone document (including its doctype)
+      // without the deprecated document.write API.
+      const snapshotDocument = new DOMParser().parseFromString(html, "text/html");
+      tab.document.replaceChildren(
+        tab.document.importNode(snapshotDocument.doctype!, true),
+        tab.document.importNode(snapshotDocument.documentElement, true),
+      );
       // Printing before the embedded Nastaliq faces load causes silent fallback
       // to Naskh, even though the HTML declares the right font.
       await tab.document.fonts.ready;

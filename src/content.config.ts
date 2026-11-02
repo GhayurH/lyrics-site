@@ -48,6 +48,8 @@ const lyrics = defineCollection({
     romanLyrics: z.string().optional(),
     // Per-poem alternate six-verse indentation (two + two + two).
     sixVerseLayout: z.enum(["pairs"]).optional(),
+    // Printed Urdu includes intentionally longer choral responses than Roman.
+    stanzaLineExceptions: z.array(z.number().int().positive()).optional(),
   }),
 });
 
@@ -63,6 +65,9 @@ const basta = defineCollection({
     page: z.number().int().positive(),
     originalImage: z.string(),
     imageOnly: z.boolean().default(false),
+    contentKind: z.enum(["editorial-note", "english-appendix"]).optional(),
+    romanExpected: z.boolean().optional(),
+    continuationNote: z.string().optional(),
     published: z.boolean().default(true),
   }),
 });

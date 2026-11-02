@@ -61,7 +61,7 @@ test("My Custom is preserved on preset changes and copying a preset is explicit"
   await expect.poll(() => page.evaluate(() => localStorage.getItem("kalam:custom-theme-base"))).toBeNull();
 });
 
-test("selected theme persists across navigation @smoke", async ({ page }) => {
+test("selected theme persists across navigation", async ({ page }) => {
   await page.goto("/");
   await page.locator("#theme-toggle").click();
   await page.locator('#theme-dialog input[value="sepia"]').check();

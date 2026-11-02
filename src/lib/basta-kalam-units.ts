@@ -56,6 +56,8 @@ export interface BastaKalam {
 export interface BastaKalamAudit {
   kalams: BastaKalam[];
   orphans: Array<{ page: number; part: number; opening: string }>;
+  /** One-based page fragment IDs mapped to published index IDs. */
+  assignments: Record<string, string>;
   issues: string[];
 }
 
@@ -102,7 +104,7 @@ function likelyTitle(segment: string, name: string): boolean {
     // An exact one-word title at a fragment's opening is unambiguous.
     // Do not guess from a repeated word later inside a stanza.
     const opening = segment.split("\n").find((line) => Boolean(line.trim())) || "";
-    return normalizedTitle.length >= 4 && stripHeading(opening) === normalizedTitle;
+    return normalizedTitle.length >= 2 && stripHeading(opening) === normalizedTitle;
   }
   return segment.split("\n").slice(0, 12).some((line) => {
     const normalized = stripHeading(line);
@@ -169,7 +171,10 @@ function extractStanzas(fragments: BastaSourceFragment[]): {
  * cannot be mapped unambiguously. Source Markdown is never rewritten.
  * A multi-page poem is composed from its ordered page fragments.
  */
-export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSourcePage[]): BastaKalamAudit {
+export function buildBastaKalamCatalog(
+  index: BastaKalamIndex[], pages: BastaSourcePage[],
+  reviewed: Record<string, { role: string; opening: string; of?: string }> = {},
+): BastaKalamAudit {
   const poetry = index.filter((entry) => entry.sectionRoman !== "Mazameen");
   const ids = new Set<string>();
   const work = poetry.map((entry) => {
@@ -186,9 +191,14 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
     byPage.set(item.entry.page, list);
   }
   const orphans: BastaKalamAudit["orphans"] = [];
+  const assignments: Record<string, string> = {};
   const issues: string[] = [];
   let previous: Working | undefined;
   for (const page of [...pages].sort((a, b) => a.page - b.page)) {
+    // A gap or a non-poetry page terminates continuation context. Never
+    // silently join the next printed page to an unrelated indexed poem.
+    if (previous && page.page !== previous.parts.at(-1)!.page + 1)
+      previous = undefined;
     const starts = byPage.get(page.page) || [];
     const urduPieces = splitBastaSource(page.urdu);
     if (!urduPieces.length) continue;
@@ -211,7 +221,28 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
       continuation = 0;
     } else if (starts.length === urduPieces.length) {
       positions = starts.map((_, index) => index);
-    } else if (previous && starts.length + 1 === urduPieces.length) {
+    } else if (!starts.length && previous) {
+      // Most pages following an indexed poem have no new index entry: they
+      // are single-fragment continuations, not ambiguous unindexed poetry.
+      if (urduPieces.length === 1) {
+        continuation = 0;
+      } else {
+        // On pages with separately delimited supplements, preserve a
+        // numbered continuation only when its number follows the last one.
+        const lastNumber = extractStanzas(previous.parts).stanzas.at(-1)?.number;
+        const openingNumber = normalizePrintedStanzaNumber(
+          urduPieces[0].trim().split("\n")[0],
+        );
+        const declared = reviewed[page.page + ":1"];
+        const opening = urduPieces[0].split("\n").find(line => line.trim())?.trim();
+        if (lastNumber !== undefined && openingNumber === lastNumber + 1)
+          continuation = 0;
+        else if (declared?.role === "continuation" &&
+                 declared.of === previous.id && declared.opening === opening)
+          continuation = 0;
+      }
+    } else if (starts.length > 0 && previous &&
+               starts.length + 1 === urduPieces.length) {
       // An extra part can be either an opening continuation or an ending
       // unindexed excerpt. Never shift the indexed poem automatically.
       const firstMatches = starts.length > 0 &&
@@ -232,8 +263,6 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
         positions = starts.map(() => -1);
         previous.issues.push("Ambiguous fragment boundary on page " + page.page);
       }
-    } else if (!starts.length && previous && urduPieces.length === 1) {
-      continuation = 0;
     } else if (starts.length) {
       // Extra unindexed fragments: match by a distinctive opening line, not
       // by positional guesswork. Ambiguous names remain unresolved.
@@ -247,7 +276,10 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
       });
       if (previous && !used.has(0) && positions.every((i) => i !== 0)) continuation = 0;
     }
-    if (continuation !== -1 && previous) previous.parts.push(fragment(continuation));
+    if (continuation !== -1 && previous) {
+      previous.parts.push(fragment(continuation));
+      assignments[page.page + ":" + (continuation + 1)] = previous.id;
+    }
     const assigned = new Set<number>();
     if (continuation !== -1 && previous) assigned.add(continuation);
     starts.forEach((item, index) => {
@@ -267,6 +299,7 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
           previous.issues.push("Possible unassigned continuation at page " + page.page);
       }
       item.parts.push(fragment(position));
+      assignments[page.page + ":" + (position + 1)] = item.id;
       assigned.add(position);
       previous = item;
     });
@@ -306,7 +339,7 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
       numbered: extracted.stanzas.length > 0,
     };
   });
-  return { kalams, orphans, issues };
+  return { kalams, orphans, assignments, issues };
 }
 
 /** Recitation arrangements refer to the original source, never duplicate or edit it. */

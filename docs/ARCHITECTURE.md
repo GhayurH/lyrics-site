@@ -13,6 +13,8 @@ Kalam Archive uses Astro-generated static reading pages with progressive enhance
 | `src/styles/` | Design tokens, reader layouts and feature presentation |
 | `functions/`, `workers/`, `schema/` | Cloudflare API, cleanup Worker and D1 schema |
 
+**Source update contract:** `scripts/source-workflow.mjs` is the single write/check entrypoint. Markdown is authoritative text; `basta/index.json` retains printed index identities; `fragment-roles.json` retains human-reviewed boundaries; `recitation/identity-lock.json` retains published IDs. Its ordered checks use the same catalog parser as the live readers. A build regenerates rendered pages, Pagefind and the offline search manifest; none is separately maintained. A changed reviewed fragment opening requires explicit page-scoped approval, and ambiguous recitation identity edits stop synchronization rather than silently generating new IDs.
+
 Only verified individual Basta kalams generate `/basta/kalam/[id]/`; the original `/basta/[page]/` links remain authoritative. `/basta/kalams/` lists both verified and review-pending entries. `lib/basta-kalam-data.ts` and `lib/basta-kalam-units.ts` own boundaries and source-page mapping. The editorial review command reports uncertain mappings without guessing.
 
 ## Shared reader contract
@@ -32,7 +34,7 @@ Only verified individual Basta kalams generate `/basta/kalam/[id]/`; the origina
 
 Pagefind is loaded only on `/search/`; homepage search uses a standard form. `lib/search-normalization.ts` adds search-only Urdu/Roman aliases without changing displayed text. Printed Basta pages and individual kalams use common collection/type facets.
 
-`client/storage.ts` owns basic local storage, `saved-library.ts` presents saved/recent reading, `basta-kalam-favorites.ts` manages individual kalam bookmarks, and `library-backup.ts` validates versioned backup imports. Bookmarks and drafts remain device-local; backup exports may include private organizer credentials.
+`client/basta-selections.ts` owns shared Urdu/Roman stanza and kalam bookmarks, storing one page-and-ordinal key independently of edition. `client/storage.ts` owns basic local storage, `saved-library.ts` presents saved/recent reading, `basta-kalam-favorites.ts` manages individual kalam bookmarks, and `library-backup.ts` validates versioned backup imports. Bookmarks and drafts remain device-local; backup exports may include private organizer credentials.
 
 ## Offline boundaries
 

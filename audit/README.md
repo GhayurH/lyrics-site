@@ -4,6 +4,8 @@ These are maintenance tools, not an implementation diary. Run them from the repo
 
 ## Markdown source review
 
+Use `npm run source:sync` after changing poetry Markdown and `npm run source:check` for read-only verification. The source reviewer below reports scan-linked editorial candidates; existing OCR uncertainties remain visible, and the regression gate rejects new findings. Pagefind and offline search data are build outputs.
+
 ```bash
 npm run content:review                           # Lists all Markdown files with findings
 npm run content:review -- --summary              # Findings counts only
@@ -12,7 +14,7 @@ npm run --silent content:review -- --csv > review.csv      # Excel-friendly UTF-
 npm run --silent content:review -- --json > review.json    # Structured report
 ```
 
-The single source reviewer covers all standalone lyrics and both Basta editions. It checks stanza labels, verse/fragment alignment, Unicode/script contamination, extended Latin transliteration, known editorial uncertainty phrases, frontmatter, missing editions, and indexed Basta source mapping. It replaces the older separate Basta catalog and Python OCR reports. **Findings are advisory and never change source text.** Inspect scans before correcting uncertain readings. Weekly CI uploads the scan-linked `content-review` artifact.
+The single source reviewer covers all standalone lyrics and both Basta editions. It checks stanza labels, verse/fragment alignment, Unicode/script contamination, extended Latin transliteration, known editorial uncertainty phrases, frontmatter, missing editions, and indexed Basta source mapping. It replaces the older separate Basta catalog and Python OCR reports. **Findings are advisory and never change source text.** Inspect scans before correcting uncertain readings. Weekly CI uploads the scan-linked `content-review` artifact with a short retention period.
 
 ## Pages deployment cleanup
 

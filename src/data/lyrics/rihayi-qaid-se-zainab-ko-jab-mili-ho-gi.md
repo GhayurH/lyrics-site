@@ -11,6 +11,8 @@ aliases:
 cover: "/images/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-ho-gi.png"
 coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 published: true
+# The first five Urdu stanzas include intentional extra choral responses.
+stanzaLineExceptions: [1, 2, 3, 4, 5]
 romanLyrics: |-
   Rihayi qaid se Zainab ko jab mili ho gi
   Bina Husain ke woh kaisay ghar gayi ho gi
@@ -124,7 +126,7 @@ romanLyrics: |-
 
 ۵
 گیا جو قافلہ مقتل میں، آلِ احمدؑ کا
-ویران دشت میں ہر بی بی، اپنے پیاروں کو
+ویران دشت میں ہر بی‌بی، اپنے پیاروں کو
 
 جوان ہائے جوان،
 شبیہہِ مصطفیٰ، وزیرِ مرتضیٰ
@@ -137,7 +139,7 @@ romanLyrics: |-
 وہ اب بھی دیکھتی، ہے تیرا راستہ
 جوان، ہائے جوان، ہائے جوان، ہائے جوان
 
-ویران دشت میں ہر بی بی، اپنے پیاروں کو
+ویران دشت میں ہر بی‌بی، اپنے پیاروں کو
 کڑکتی دھوپ میں، رو رو کے ڈھونڈتی ہوگی
 
 ۶

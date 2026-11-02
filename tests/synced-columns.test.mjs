@@ -2,7 +2,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { progressOf, tallerPanelLayout } from "../src/client/synced-columns.ts";
-import { readFileSync } from "node:fs";
 
 const panel = (scrollHeight, clientHeight, scrollTop = 0) =>
   ({ scrollHeight, clientHeight, scrollTop });

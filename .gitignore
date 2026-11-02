@@ -25,12 +25,19 @@ pnpm-debug.log*
 # Local one-off maintenance work; production source belongs under src/.
 /tools/
 /trash/
+old/
 audit/.~*
 
 # Large public binaries are stored in Cloudflare R2 and mounted/symlinked locally.
 public/images/
 public/files/
 
-# Browser test artifacts
+# Browser test artifacts and untracked local reports
 playwright-report/
 test-results/
+artifacts/
+coverage/
+*.trace.zip
+*.log
+.cache/
+.tmp/

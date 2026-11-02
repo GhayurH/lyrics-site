@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import index from "../data/basta/index.json";
 import identityLock from "../data/recitation/identity-lock.json";
+import fragmentRoles from "../data/basta/fragment-roles.json";
 import { applyRecitationIds } from "./recitation-identity";
 import { buildBastaKalamCatalog, type BastaKalamAudit, type BastaSourcePage } from "./basta-kalam-units";
 
@@ -10,7 +11,8 @@ export function loadBastaKalamCatalog(): Promise<BastaKalamAudit> {
   if (!catalogPromise) {
     catalogPromise = (async () => {
       const [urdu, roman] = await Promise.all([
-        getCollection("basta", ({ data }) => data.published && !data.imageOnly),
+        getCollection("basta", ({ data }) =>
+          data.published && !data.imageOnly && !data.contentKind),
         getCollection("bastaRoman", ({ data }) => data.published),
       ]);
       const byPage = new Map(roman.map((item) => [item.data.page, item.body || ""]));
@@ -19,7 +21,7 @@ export function loadBastaKalamCatalog(): Promise<BastaKalamAudit> {
         urdu: item.body || "",
         roman: byPage.get(item.data.page),
       }));
-      const catalog = buildBastaKalamCatalog(index, pages);
+      const catalog = buildBastaKalamCatalog(index, pages, fragmentRoles.fragments);
       return { ...catalog, kalams: applyRecitationIds(catalog.kalams, { ...identityLock, version: 1 }) };
     })();
   }

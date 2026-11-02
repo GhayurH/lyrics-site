@@ -47,7 +47,7 @@ test("edition preferences, Focus mode, and image enlargement work together", asy
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
 });
 
-test("mobile single-edition Focus starts with stanza one via link and button @smoke", async ({ page }) => {
+test("mobile single-edition Focus starts with stanza one via link and button", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   const lyricUrl = "/lyrics/na-bhool-kar-bhi/";
 
@@ -84,7 +84,7 @@ test("mobile single-edition Focus starts with stanza one via link and button @sm
   }
 });
 
-test("continuous deep link, Contents and Focus exit survive rotation @smoke", async ({ page }) => {
+test("continuous deep link, Contents and Focus exit survive rotation", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
   const target = page.locator('[data-basta-page="138"]');
@@ -294,6 +294,53 @@ test("Basta kalam and stanza bookmarks survive navigation without shifting poetr
   await expect(page.locator("#basta-selections-list a").first()).toContainText("Basta");
   await page.locator("#basta-selections-list a").first().click();
   await expect(page.locator("[data-reading-root]")).toBeVisible();
+});
+
+test("Roman and Urdu Basta stanza bookmarks share a key and restore the visible edition", async ({ page }) => {
+  await page.goto("/basta/200/");
+  const urdu = page.locator(".basta-page-urdu .basta-stanza-bookmark").first();
+  const roman = page.locator(".basta-page-roman .basta-stanza-bookmark").first();
+  await expect(urdu).toBeAttached();
+  await expect(roman).toBeAttached();
+  const key = await roman.getAttribute("data-basta-save-selection");
+  expect(key).toMatch(/^200:stanza:\d+$/);
+  await expect(urdu).toHaveAttribute("data-basta-save-selection", key);
+
+  // Save in Roman-only mode and verify the equivalent Urdu button updates.
+  await page.locator('[data-reading-column][value="roman"]').check();
+  await page.locator('[data-reading-column][value="urdu"]').uncheck();
+  await expect(roman).toBeVisible();
+  await roman.click();
+  await expect(roman).toHaveAttribute("aria-pressed", "true");
+  await expect(urdu).toHaveAttribute("aria-pressed", "true");
+  await page.goto("/saved/");
+  const saved = page.locator('#basta-selections-list a[href*="basta-stanza"]').first();
+  await expect(saved).toBeVisible();
+  await saved.click();
+  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", /roman/);
+  await expect(page.locator(".basta-page-roman .basta-stanza-bookmark").first()).toHaveAttribute("aria-pressed", "true");
+  await expect.poll(async () => page.locator(".basta-page-roman .basta-stanza-bookmark").first().evaluate((node) => {
+    const bounds = node.getBoundingClientRect();
+    return bounds.bottom > 0 && bounds.top < innerHeight;
+  })).toBe(true);
+  await page.locator(".basta-page-roman .basta-stanza-bookmark").first().click();
+  await expect(page.locator(".basta-page-urdu .basta-stanza-bookmark").first()).toHaveAttribute("aria-pressed", "false");
+
+  // Streamed pages have the same controls and storage identities.
+  await page.goto("/basta/read/#page-200", { waitUntil: "domcontentloaded" });
+  const printed = page.locator('[data-basta-page="200"]');
+  await expect(printed).toBeAttached({ timeout: 20000 });
+  const streamRoman = printed.locator(".basta-reader-roman .basta-stanza-bookmark").first();
+  const streamUrdu = printed.locator(".basta-reader-urdu .basta-stanza-bookmark").first();
+  await expect(streamRoman).toBeAttached();
+  await expect(streamUrdu).toBeAttached();
+  await expect(streamRoman).toHaveAttribute("data-basta-save-selection",
+    await streamUrdu.getAttribute("data-basta-save-selection"));
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="roman"]').check();
+  await page.locator('[data-reading-column][value="urdu"]').uncheck();
+  await streamRoman.click();
+  await expect(streamUrdu).toHaveAttribute("aria-pressed", "true");
 });
 
 test("Basta page progress tracks the Focus scroller instead of document scroll", async ({ page }) => {

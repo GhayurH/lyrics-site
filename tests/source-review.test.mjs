@@ -1,6 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { compareEditions, reviewMarkdown } from "../src/lib/source-review.ts";
+import { normalizeBibiText } from "../src/lib/bibi-spelling.ts";
 
 const lyric = (urdu, roman) =>
   "---\ntitle: \"سلام\"\nlanguage: \"Urdu\"\nlang: \"ur\"\ndirection: \"rtl\"\nkalamType: \"Salam\"\nromanLyrics: |-\n" +
@@ -32,6 +33,49 @@ test("flags mixed scripts, non-ASCII Latin transliteration and control character
     assert(codes.includes(code), code);
   assert(issues.every(x => x.path === "src/data/lyrics/mixed.md"));
   assert(issues.some(x => x.code === "latin-in-urdu" && x.line > 8));
+});
+
+test("Bibi spelling normalizes Urdu separators and preserves inflections", () => {
+  for (const input of ["بیبی", "بی بی", "بی‌بی", "بی‍بی", "بي بي"])
+    assert.equal(normalizeBibiText(input), "بی\u200Cبی");
+  assert.equal(normalizeBibiText("بِی بِی"), "بِی\u200Cبِی");
+  assert.equal(normalizeBibiText("بی بیوں"), "بی\u200Cبیوں");
+  assert.equal(normalizeBibiText("بیبیاں"), "بی\u200Cبیاں");
+  assert.equal(normalizeBibiText("علیبیبی"), "علیبیبی");
+});
+
+test("Bibi spelling normalizes Roman variants without altering unrelated words", () => {
+  for (const input of ["Bibi", "Bi Bi", "Bee Bee", "Bi-Bi", "Bi‌Bi"])
+    assert.equal(normalizeBibiText(input), "Bibi");
+  for (const [input, expected] of [["bi bi", "bibi"], ["bibiyan", "bibiyan"],
+    ["habibi", "habibi"], ["BIBI", "BIBI"]])
+    assert.equal(normalizeBibiText(input), expected);
+});
+
+test("the canonical Urdu Bibi non-joiner is intentional, but a joiner is not", () => {
+  const good = reviewMarkdown({ path: "src/data/lyrics/bibi.md", kind: "lyrics",
+    text: lyric("۱\nبی‌بی کا سلام", "1\nBibi ka salam") });
+  assert(!good.issues.some(x => x.code === "invisible-character"));
+  const bad = reviewMarkdown({ path: "src/data/lyrics/bibi.md", kind: "lyrics",
+    text: lyric("۱\nبی‍بی کا سلام", "1\nBibi ka salam") });
+  assert(bad.issues.some(x => x.code === "invisible-character"));
+});
+
+test("intentional Urdu chorus extensions require explicit, still-current stanza numbers", () => {
+  const raw = lyric("۱\nپہلا مصرع\nدوسرا مصرع\nاضافی جواب", "1\nPehla misra\nDusra misra");
+  const withException = raw.replace('kalamType: "Salam"', 'kalamType: "Salam"\nstanzaLineExceptions: [1]');
+  const approved = reviewMarkdown({ path: "src/data/lyrics/chorus.md", kind: "lyrics",
+    text: withException });
+  assert(!approved.issues.some(x => x.code === "stanza-line-mismatch"));
+  assert(!approved.issues.some(x => x.code === "stale-stanza-exception"));
+
+  const unapproved = reviewMarkdown({ path: "src/data/lyrics/chorus.md", kind: "lyrics",
+    text: raw });
+  assert(unapproved.issues.some(x => x.code === "stanza-line-mismatch"));
+
+  const stale = reviewMarkdown({ path: "src/data/lyrics/chorus.md", kind: "lyrics",
+    text: withException.replace("اضافی جواب", "") });
+  assert(stale.issues.some(x => x.code === "stale-stanza-exception"));
 });
 
 test("does not confuse Roman curly apostrophes and punctuation with extended Latin letters", () => {
@@ -74,6 +118,13 @@ test("image-only Basta page can have an empty source body", () => {
   assert.equal(file.issues.length, 0);
 });
 
+test("English Basta appendices preserve Latin script without false Urdu-script findings", () => {
+  const file = reviewMarkdown({
+    path: "src/data/basta/pages/471.md", kind: "basta-urdu",
+    text: "---\npage: 471\ncontentKind: english-appendix\noriginalImage: /images/basta/original/471.png\n---\nSalient Features of Soazkhwani",
+  });
+  assert.ok(!file.issues.some(x => x.code === "latin-in-urdu"));
+});
 test("flags other writing systems and the established Roman name conventions", () => {
   const file = reviewMarkdown({ path: "src/data/lyrics/foreign.md", kind: "lyrics",
     text: lyric("سلام", "Hussain and Hassan Αli") });
@@ -82,10 +133,13 @@ test("flags other writing systems and the established Roman name conventions", (
   assert(codes.includes("unexpected-script"));
 });
 
-test("detects OCR uncertainty markers outside brackets in both scripts", () => {
+test("detects editorial OCR placeholders without flagging normal prose about ambiguity", () => {
   const file = reviewMarkdown({ path: "src/data/lyrics/uncertain.md", kind: "lyrics",
-    text: lyric("متن نامکمل", "Matn ghair wazeh") });
+    text: lyric("متن نامکمل\n[دو مصرع غیر واضح]", "Matn ghair wazeh\n[Two lines unclear]") });
   assert.equal(file.issues.filter(x => x.code === "unverified-text").length, 2);
+  const prose = reviewMarkdown({ path: "src/data/lyrics/ordinary.md", kind: "lyrics",
+    text: lyric("یہ عبارت نامکمل نہیں ہے", "Matn ghair wazeh nahi hai") });
+  assert.equal(prose.issues.filter(x => x.code === "unverified-text").length, 0);
 });
 
 test("Basta source review flags prayer notices, not poetic prayer references", () => {

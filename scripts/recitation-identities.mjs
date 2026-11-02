@@ -57,7 +57,8 @@ const sourceIndex = JSON.parse(await readFile(join(root, "src/data/basta/index.j
 const urduPages = await Promise.all((await collect(join(root, "src/data/basta/pages"))).map(async (path) => {
   const { head, body } = await readBody(path);
   if (yamlValue(head, "published") === "false" ||
-      yamlValue(head, "imageOnly") === "true") return null;
+      yamlValue(head, "imageOnly") === "true" ||
+      yamlValue(head, "contentKind") !== undefined) return null;
   return { page: Number(yamlValue(head, "page")), urdu: body };
 }));
 const roman = new Map(await Promise.all((await collect(join(root, "src/data/basta/roman"))).map(async (path) => {
@@ -65,7 +66,8 @@ const roman = new Map(await Promise.all((await collect(join(root, "src/data/bast
   return [Number(yamlValue(head, "page")), body];
 })));
 const pages = urduPages.filter(Boolean).map((p) => ({ ...p, roman: roman.get(p.page) }));
-const { kalams } = buildBastaKalamCatalog(sourceIndex, pages);
+const roles = JSON.parse(await readFile(join(root, "src/data/basta/fragment-roles.json"), "utf8"));
+const { kalams } = buildBastaKalamCatalog(sourceIndex, pages, roles.fragments);
 const activeBasta = kalams.map((kalam) => ({
   id: kalam.id,
   key: name(sourceIndex.find((entry) => entryId(entry) === kalam.id)),
