@@ -237,3 +237,50 @@ test("recitation preface alone retains a three-line title, subtitle, and poet", 
   assert.equal(lines[1].subtitle, true);
   assert.equal(lines[2].poet, true);
 });
+
+test("Basta generic headings and unlisted poet bylines use shared title/credit styles", () => {
+  for (const [heading, poet, firstVerse] of [
+    ["رباعی", "سید ذیشان حیدر ذیشان", "دشوار سہی کام یہ کرنا ہوگا"],
+    ["Rubai", "Syed Zeeshan Haider Zeeshan", "Dushwar sahi kam ye karna hoga"],
+    ["زید شہید", "حکیم سید محمد کاظم زیدی", "زید شہید قدرتِ داور کا شاہکار"],
+    ["Zaid Shahid", "Hakim Syed Muhammad Kazim Zaidi", "Zaid Shahid qudrat-e-Dawar ka shahkar"],
+  ]) {
+    const lines = layoutBastaKalam([heading, poet, "", firstVerse, "Second verse", "Third verse"].join("\n"));
+    assert.ok(lines[0].title, heading);
+    assert.ok(bastaVerseClassNames(lines[0]).includes("kalam-reading-title"));
+    assert.ok(lines[1].poet, poet);
+    assert.ok(bastaVerseClassNames(lines[1]).includes("kalam-poet-credit"));
+    assert.ok(!lines[1].verse);
+    assert.ok(lines[2].hidden);
+  }
+});
+
+test("standalone genre headings are titles, standalone attribution lines are not", () => {
+  for (const heading of ["[قطعہ]", "[Qit'a]", "قطعہ", "Qit'a", "سوزخوانی", "Sozkhwani", "عزاداروں سے خطاب", "Azadaron se khitab"]) {
+    const lines = layoutBastaKalam([heading, "", "Verse one", "Verse two", "Verse three", "Verse four"].join("\n"));
+    assert.equal(lines[0].title, true, heading);
+    assert.equal(lines[0].poet, undefined, heading);
+    assert.ok(lines[1].hidden);
+  }
+  for (const poet of ["علامہ طالب جوہری مدظلہ", "Allama Talib Jauhari Muddazillahu", "مرزا ادیب", "Mirza Adib"]) {
+    const lines = layoutBastaKalam([poet, "", "Verse one", "Verse two", "Verse three", "Verse four"].join("\n"));
+    assert.equal(lines[0].title, undefined, poet);
+    assert.equal(lines[0].poet, true, poet);
+    assert.ok(bastaVerseClassNames(lines[0]).includes("kalam-poet-credit"));
+  }
+});
+
+test("minor differences in repeated first verse do not suppress title styling", () => {
+  for (const [title, firstVerse] of [
+    ["حسینؑ جب کہ چلے بعد دوپہر رن کو", "حسینؑ جب چلے بعد دوپہر رن کو"],
+    ["Husain jab ke chale baad dopehar ran ko", "Husain jab chale baad dopehar ran ko"],
+  ]) {
+    const lines = layoutBastaKalam([title, "", firstVerse, "Verse two", "Verse three", "Verse four"].join("\n"));
+    assert.ok(lines[0].title, title);
+    assert.equal(lines[2].title, undefined);
+    assert.ok(lines[2].verse);
+  }
+  // Distinct verses and ordinary two-line stanzas are never promoted.
+  const verses = layoutBastaKalam("First ordinary verse\nSecond ordinary verse\n\nThird ordinary verse\nFourth ordinary verse");
+  assert.ok(verses.every(line => !line.title && !line.poet));
+});
