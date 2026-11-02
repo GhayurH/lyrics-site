@@ -2664,7 +2664,40 @@
     {
       "id": "basta-marsiye-064",
       "key": "Marsiye:64",
-      "stanzas": []
+      "stanzas": [
+        {
+          "id": "stanza-001",
+          "anchor": "1nhsvfmsfs26j"
+        },
+        {
+          "id": "stanza-002",
+          "anchor": "23399spl0tgav"
+        },
+        {
+          "id": "stanza-003",
+          "anchor": "32vmq8v40wbjr"
+        },
+        {
+          "id": "stanza-004",
+          "anchor": "2n00mxbixqa3w"
+        },
+        {
+          "id": "stanza-005",
+          "anchor": "p84lk0ic88kl"
+        },
+        {
+          "id": "stanza-006",
+          "anchor": "1o29dv48rj7zt"
+        },
+        {
+          "id": "stanza-007",
+          "anchor": "181njcpa5hja5"
+        },
+        {
+          "id": "stanza-008",
+          "anchor": "3gq6kwbanxw7k"
+        }
+      ]
     },
     {
       "id": "basta-marsiye-065",
@@ -4199,7 +4232,36 @@
     {
       "id": "basta-marsiye-114",
       "key": "Marsiye:114",
-      "stanzas": []
+      "stanzas": [
+        {
+          "id": "stanza-001",
+          "anchor": "fpq51uiygdeq"
+        },
+        {
+          "id": "stanza-002",
+          "anchor": "2n19xf2njzyi9"
+        },
+        {
+          "id": "stanza-003",
+          "anchor": "1dwrh3q7b2ou9"
+        },
+        {
+          "id": "stanza-004",
+          "anchor": "3u596p8q6rlgt"
+        },
+        {
+          "id": "stanza-005",
+          "anchor": "7v8hn4ypdtbw"
+        },
+        {
+          "id": "stanza-006",
+          "anchor": "30vwk9q179tdk"
+        },
+        {
+          "id": "stanza-007",
+          "anchor": "35cr60l0jahnk"
+        }
+      ]
     },
     {
       "id": "basta-marsiye-115",
@@ -4716,7 +4778,44 @@
     {
       "id": "basta-marsiye-133",
       "key": "Marsiye:133",
-      "stanzas": []
+      "stanzas": [
+        {
+          "id": "stanza-001",
+          "anchor": "31lya701mco6f"
+        },
+        {
+          "id": "stanza-002",
+          "anchor": "2ilmli6t7vkqu"
+        },
+        {
+          "id": "stanza-003",
+          "anchor": "38janu82v2ck0"
+        },
+        {
+          "id": "stanza-004",
+          "anchor": "7zfqypisl10e"
+        },
+        {
+          "id": "stanza-005",
+          "anchor": "3cqn8sbxruct0"
+        },
+        {
+          "id": "stanza-006",
+          "anchor": "3qimjud759qv7"
+        },
+        {
+          "id": "stanza-007",
+          "anchor": "yiufuemny3xp"
+        },
+        {
+          "id": "stanza-008",
+          "anchor": "22dpoterg0ezz"
+        },
+        {
+          "id": "stanza-009",
+          "anchor": "3lp3knd1zf7i2"
+        }
+      ]
     },
     {
       "id": "basta-marsiye-134",
@@ -5221,7 +5320,44 @@
     {
       "id": "basta-marsiye-150",
       "key": "Marsiye:150",
-      "stanzas": []
+      "stanzas": [
+        {
+          "id": "stanza-001",
+          "anchor": "2t8y6q00sgqcx"
+        },
+        {
+          "id": "stanza-002",
+          "anchor": "j0tqa9um4the"
+        },
+        {
+          "id": "stanza-003",
+          "anchor": "2tmsv7v4i4gum"
+        },
+        {
+          "id": "stanza-004",
+          "anchor": "3blsjwk833ewp"
+        },
+        {
+          "id": "stanza-005",
+          "anchor": "3t2dg9fot0r5q"
+        },
+        {
+          "id": "stanza-006",
+          "anchor": "2b9jwl21atdyr"
+        },
+        {
+          "id": "stanza-007",
+          "anchor": "20fqfsa4d937t"
+        },
+        {
+          "id": "stanza-008",
+          "anchor": "1ywvdy0wscedj"
+        },
+        {
+          "id": "stanza-009",
+          "anchor": "d9m5gzicg7si"
+        }
+      ]
     },
     {
       "id": "basta-marsiye-151",
