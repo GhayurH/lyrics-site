@@ -115,8 +115,7 @@ jobs:
   dependency_research:
     permissions:
       contents: write
-    # Temporary audited upgrade run. Produces a reproducible npm lockfile
-    # without giving an unreviewed update process write access to the repo.
+    # Temporary same-repository dependency upgrade; restricted to this PR branch.
     if: github.event_name == 'pull_request' && github.head_ref == 'chore/test-suite-lean-2026-11-01'
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -134,7 +133,7 @@ jobs:
           npm install --save-dev @astrojs/check@latest typescript@6.0.3
           npm pkg set 'scripts.check=astro check'
           npm install
-          node -e "const fs=require('fs');const f='package.json',p=JSON.parse(fs.readFileSync(f));const l=JSON.parse(fs.readFileSync('package-lock.json')); const v=l.packages['node_modules/esbuild']?.version;if(!v)throw Error('esbuild missing'); p.allowScripts={'esbuild@'+v:true};fs.writeFileSync(f,JSON.stringify(p,null,2)+'\\n')"
+          node -e "const fs=require('fs');const f='package.json',p=JSON.parse(fs.readFileSync(f));const l=JSON.parse(fs.readFileSync('package-lock.json')); const v=l.packages['node_modules/esbuild']?.version;if(!v)throw Error('esbuild missing'); p.allowScripts={['esbuild@'+v]:true};fs.writeFileSync(f,JSON.stringify(p,null,2)+'\\n')"
           npm ls --depth=0
           npm outdated || true
           npm audit --json > dependency-audit.json || true
