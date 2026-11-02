@@ -1,7 +1,7 @@
 // Saved language fonts must be independent, backwards-compatible and safe.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { DEFAULT_FONTS, FONT_CHOICES, URDU_FONT_GROUPS, parseFontPreferences } from "../src/client/fonts.ts";
+import { DEFAULT_FONTS, FONT_CHOICES, parseFontPreferences } from "../src/client/fonts.ts";
 
 test("defaults preserve current typography", () => {
   assert.deepEqual(parseFontPreferences(null), DEFAULT_FONTS);

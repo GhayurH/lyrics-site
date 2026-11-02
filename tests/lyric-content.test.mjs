@@ -15,10 +15,6 @@ function editions(filename) {
   return { metadata: match[1], roman, urdu: match[2] };
 }
 
-const titleCase = text =>
-  text.replace(/(^|[\s\-–—/([{])([a-z])/g, (_, boundary, letter) =>
-    boundary + letter.toUpperCase());
-
 test("published lyric editions retain standalone stanza markers", () => {
   assert.ok(files.length > 0);
   for (const filename of files) {

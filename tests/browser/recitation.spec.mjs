@@ -73,7 +73,7 @@ test("live navigation is opt-in and follows published entry UIDs", async ({ page
   });
   await expect(page.locator("#recite-position")).toHaveText("2 / 2");
   await expect(page.locator("#recite-live-status")).toContainText("Following organizer");
-  await page.locator("#recite-previous").evaluate((button) => button.click());
+  await page.locator("#recite-previous").click();
   await expect(page.locator("#recite-follow-live")).not.toBeChecked();
   await expect(page.locator("#recite-position")).toHaveText("1 / 2");
 });

@@ -2,7 +2,7 @@
 // Read-only source review across standalone lyrics and both Basta editions.
 // Usage: npm run content:review [-- --json|--markdown|--summary|--strict]
 import { readFile, readdir } from "node:fs/promises";
-import { join, basename } from "node:path";
+import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { buildBastaKalamCatalog } from "../src/lib/basta-kalam-units.ts";
 import { auditBastaEditorial } from "../src/lib/basta-editorial-audit.ts";
@@ -81,7 +81,6 @@ try {
     "Basta index-to-source mapping could not be built: " + String(error?.message ?? error));
   catalog = { kalams: [], orphans: [], issues: [] };
 }
-const indexed = index.filter(x => x.sectionRoman !== "Mazameen");
 const sourcePath = (page) => pages.get(page)?.path ??
   "src/data/basta/pages/" + String(page).padStart(3, "0") + ".md";
 for (const item of catalog.kalams) {

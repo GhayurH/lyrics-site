@@ -25,6 +25,3 @@ test("preview asset redirection preserves nested source paths and filenames", ()
   }
 });
 
-// Static route source contracts complement the browser navigation journeys.
-const home = readFileSync(new URL("../src/pages/index.astro", import.meta.url), "utf8");
-const basta = readFileSync(new URL("../src/pages/basta/index.astro", import.meta.url), "utf8");

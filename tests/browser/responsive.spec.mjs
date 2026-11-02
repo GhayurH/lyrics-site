@@ -1,11 +1,6 @@
 // Responsive navigation, toolbar, and reader geometry across real viewport sizes.
 import { test, expect } from "@playwright/test";
 
-const readers = [
-  { path: "/lyrics/aa-asghar-bin-tere/", hasPageJump: false },
-  { path: "/basta/read/#page-200", hasPageJump: true },
-];
-
 test("mobile reader settings expand and collapse", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/lyrics/aa-asghar-bin-tere/", { waitUntil: "domcontentloaded" });
