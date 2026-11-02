@@ -41,7 +41,7 @@ jobs:
           npm install --save-dev \
             @astrojs/check@latest \
             pagefind@latest \
-            typescript@latest \
+            typescript@^6.0.3 \
             wrangler@latest
           npm install --save-dev --save-exact @playwright/test@latest
       - name: Apply safe transitive security updates
