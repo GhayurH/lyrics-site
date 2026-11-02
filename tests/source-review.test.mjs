@@ -56,7 +56,7 @@ test("intentional Urdu chorus extensions require explicit, still-current stanza 
   assert(unapproved.issues.some(x => x.code === "stanza-line-mismatch"));
 
   const stale = reviewMarkdown({ path: "src/data/lyrics/chorus.md", kind: "lyrics",
-    text: withException.replace("اضافی جواب\n", "") });
+    text: withException.replace("اضافی جواب", "") });
   assert(stale.issues.some(x => x.code === "stale-stanza-exception"));
 });
 
