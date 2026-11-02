@@ -1537,15 +1537,35 @@
       "stanzas": [
         {
           "id": "stanza-001",
-          "anchor": "3krwfw1t10avu"
+          "anchor": "rh7g7tif2k2q"
         },
         {
           "id": "stanza-002",
-          "anchor": "1g41rdjsgx6wy"
+          "anchor": "2ifhuj0tj3x29"
         },
         {
           "id": "stanza-003",
           "anchor": "2wds50x40sx8m"
+        },
+        {
+          "id": "stanza-004",
+          "anchor": "14sigy5nl6605"
+        },
+        {
+          "id": "stanza-005",
+          "anchor": "2la2t8izqc4k8"
+        },
+        {
+          "id": "stanza-006",
+          "anchor": "2chbwi3o32n5r"
+        },
+        {
+          "id": "stanza-007",
+          "anchor": "1oqezdk8whqva"
+        },
+        {
+          "id": "stanza-008",
+          "anchor": "30f9zz64eaiyz"
         }
       ]
     },
@@ -1559,7 +1579,7 @@
         },
         {
           "id": "stanza-002",
-          "anchor": "up12x7v0l6m7"
+          "anchor": "2ctryze1i0glw"
         },
         {
           "id": "stanza-003",
@@ -1567,11 +1587,31 @@
         },
         {
           "id": "stanza-004",
-          "anchor": "1xsvmzg4v2yn6"
+          "anchor": "1fry6tnnkfd4x"
+        },
+        {
+          "id": "stanza-006",
+          "anchor": "231i280ampakh"
         },
         {
           "id": "stanza-005",
-          "anchor": "27k7p5kmgsqfm"
+          "anchor": "2n11660ono6da"
+        },
+        {
+          "id": "stanza-007",
+          "anchor": "b0x5y0eemjkc"
+        },
+        {
+          "id": "stanza-008",
+          "anchor": "2etk4mf3uu1xo"
+        },
+        {
+          "id": "stanza-009",
+          "anchor": "1fphv94kunqy5"
+        },
+        {
+          "id": "stanza-010",
+          "anchor": "1b41b0ydfxzsq"
         }
       ]
     },
