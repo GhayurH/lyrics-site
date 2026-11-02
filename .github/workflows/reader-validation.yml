@@ -127,7 +127,7 @@ jobs:
         shell: bash
         run: |
           npx --yes npm-check-updates@latest -u
-          npm install --save-dev @astrojs/check@latest typescript@latest
+          npm install --save-dev @astrojs/check@latest typescript@6.0.3
           npm pkg set 'scripts.check=astro check'
           npm install
           npm ls --depth=0
