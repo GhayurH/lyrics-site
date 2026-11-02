@@ -6,6 +6,7 @@ import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { buildBastaKalamCatalog } from "../src/lib/basta-kalam-units.ts";
 import { auditBastaEditorial } from "../src/lib/basta-editorial-audit.ts";
+import { validateReviewedFragments } from "../src/lib/basta-fragment-roles.ts";
 import { compareEditions, reviewMarkdown } from "../src/lib/source-review.ts";
 
 const flags = new Set(process.argv.slice(2));
@@ -94,7 +95,14 @@ for (const item of catalog.kalams) {
         item.id + " (" + item.name + "): " + message);
   }
 }
+const fragmentRoles = JSON.parse(await readFile(join(root, "basta/fragment-roles.json"), "utf8"));
+const reviewed = validateReviewedFragments(fragmentRoles,
+  new Map(urdu.map(page => [page.page, page.body])), catalog.orphans);
+for (const finding of reviewed.issues)
+  issue("src/data/basta/fragment-roles.json", 1, finding.code,
+    finding.key + ": " + finding.detail);
 for (const orphan of catalog.orphans) {
+  if (reviewed.approved.has(orphan.page + ":" + orphan.part)) continue;
   // The book's front matter and prose pages are not poetry entries in the
   // printed index; they are not unassigned kalams needing editorial review.
   if (orphan.page < settings.romanLyricsStartPage) continue;
@@ -145,7 +153,10 @@ const report = {
     indexedKalams: catalog.kalams.length,
     verifiedKalams: catalog.kalams.filter(x => x.status === "ready").length,
     unverifiedKalams: catalog.kalams.filter(x => x.status === "review").length,
-    orphanFragments: catalog.orphans.filter(x => x.page >= settings.romanLyricsStartPage).length,
+    orphanFragments: catalog.orphans.filter(x =>
+      x.page >= settings.romanLyricsStartPage &&
+      !reviewed.approved.has(x.page + ":" + x.part)).length,
+    reviewedSupplements: reviewed.approved.size,
     nonPoetryFragmentsExcluded: catalog.orphans.filter(x => x.page < settings.romanLyricsStartPage).length,
     romanMissingPages: editorial.absentRomanTranscriptions.filter(page => page >= settings.romanLyricsStartPage).length,
     untranscribedFrontMatterPages: editorial.absentRomanTranscriptions.filter(page => page < settings.romanLyricsStartPage).length,
