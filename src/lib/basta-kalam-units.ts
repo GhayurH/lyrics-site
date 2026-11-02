@@ -102,7 +102,7 @@ function likelyTitle(segment: string, name: string): boolean {
     // An exact one-word title at a fragment's opening is unambiguous.
     // Do not guess from a repeated word later inside a stanza.
     const opening = segment.split("\n").find((line) => Boolean(line.trim())) || "";
-    return normalizedTitle.length >= 4 && stripHeading(opening) === normalizedTitle;
+    return normalizedTitle.length >= 2 && stripHeading(opening) === normalizedTitle;
   }
   return segment.split("\n").slice(0, 12).some((line) => {
     const normalized = stripHeading(line);
@@ -189,6 +189,10 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
   const issues: string[] = [];
   let previous: Working | undefined;
   for (const page of [...pages].sort((a, b) => a.page - b.page)) {
+    // A gap or a non-poetry page terminates continuation context. Never
+    // silently join the next printed page to an unrelated indexed poem.
+    if (previous && page.page !== previous.parts.at(-1)!.page + 1)
+      previous = undefined;
     const starts = byPage.get(page.page) || [];
     const urduPieces = splitBastaSource(page.urdu);
     if (!urduPieces.length) continue;
@@ -211,7 +215,23 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
       continuation = 0;
     } else if (starts.length === urduPieces.length) {
       positions = starts.map((_, index) => index);
-    } else if (previous && starts.length + 1 === urduPieces.length) {
+    } else if (!starts.length && previous) {
+      // Most pages following an indexed poem have no new index entry: they
+      // are single-fragment continuations, not ambiguous unindexed poetry.
+      if (urduPieces.length === 1) {
+        continuation = 0;
+      } else {
+        // On pages with separately delimited supplements, preserve a
+        // numbered continuation only when its number follows the last one.
+        const lastNumber = extractStanzas(previous.parts).stanzas.at(-1)?.number;
+        const openingNumber = normalizePrintedStanzaNumber(
+          urduPieces[0].trim().split("\n")[0],
+        );
+        if (lastNumber !== undefined && openingNumber === lastNumber + 1)
+          continuation = 0;
+      }
+    } else if (starts.length > 0 && previous &&
+               starts.length + 1 === urduPieces.length) {
       // An extra part can be either an opening continuation or an ending
       // unindexed excerpt. Never shift the indexed poem automatically.
       const firstMatches = starts.length > 0 &&
@@ -231,21 +251,6 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
         // stanza number. Mark for source-image verification.
         positions = starts.map(() => -1);
         previous.issues.push("Ambiguous fragment boundary on page " + page.page);
-      }
-    } else if (!starts.length && previous) {
-      if (urduPieces.length === 1) {
-        continuation = 0;
-      } else {
-        // A numbered continuation can share a printed page with separately
-        // delimited, unindexed excerpts (e.g. pages 174 and 176). Attach only
-        // the first fragment when its number follows the previous stanza;
-        // the later fragments remain explicitly unassigned.
-        const lastNumber = extractStanzas(previous.parts).stanzas.at(-1)?.number;
-        const openingNumber = normalizePrintedStanzaNumber(
-          urduPieces[0].trim().split("\n")[0],
-        );
-        if (lastNumber !== undefined && openingNumber === lastNumber + 1)
-          continuation = 0;
       }
     } else if (starts.length) {
       // Extra unindexed fragments: match by a distinctive opening line, not

@@ -47,11 +47,11 @@ const latin = /\p{Script=Latin}/u;
 const unusualLatin = /[^\x00-\x7f]/u;
 const romanDigits = /[٠-٩۰-۹]/u;
 const commonPlaceholders = /(?:\b(?:TODO|TBD|FIXME|OCR|PLACEHOLDER)\b|\?{2,})/iu;
-const urduUncertainty = /(?:جزوی\s*طور\s*پر\s*غیر\s*واضح|غیر\s*واضح|واضح\s*نہیں|مبہم|نامعلوم|نامکمل|ناقابل[ِ\s-]*(?:قرأت|قراءت|قرأت|خواندگی)|پڑھ(?:ا|ی|ے)?\s*نہیں\s*(?:جا\s*)?سک(?:ا|ی|ے)?)/iu;
-const romanUncertainty = /(?:juzwi\s+taur\s+par\s+ghair[-\s]?wazeh|ghair[-\s]?wazeh|wazeh\s+nah(?:i|ee)n|na[-\s]?qabil[-\s]?e[-\s]?(?:qiraat|parhna|khwandagi)|\b(?:unclear|illegible|unknown|incomplete|unreadable)\b|\bnot\s+clear\b|\bcannot\s+read\b)/iu;
+const urduUncertainty = /\[[^\]\n]*(?:جزوی\s*طور\s*پر\s*غیر\s*واضح|غیر\s*واضح|واضح\s*نہیں|مبہم|نامعلوم|نامکمل|ناقابل|پڑھ(?:ا|ی|ے)?\s*نہیں\s*(?:جا\s*)?سک(?:ا|ی|ے)?)[^\]\n]*\]/iu;
+const romanUncertainty = /\[[^\]\n]*(?:juzwi\s+taur\s+par\s+ghair[-\s]?wazeh|ghair[-\s]?wazeh|wazeh\s+nah(?:i|ee)n|na[-\s]?qabil|unclear|illegible|unknown|incomplete|unreadable|not\s+clear|cannot\s+read)[^\]\n]*\]/iu;
 const invisible = /[\u200B\u200C\u200D\u200E\u200F\u202A-\u202E\u2066-\u2069\uFEFF]/u;
 
-function checkLines(path: string, text: string, firstLine: number, script: "urdu" | "roman", issues: ReviewFinding[]): void {
+function checkLines(path: string, text: string, firstLine: number, script: "urdu" | "roman", issues: ReviewFinding[], allowLatin = false): void {
   text.split("\n").forEach((line, index) => {
     const sourceLine = firstLine + index;
     if (!line.trim()) return;
@@ -69,7 +69,10 @@ function checkLines(path: string, text: string, firstLine: number, script: "urdu
     if (otherScript)
       record(issues, path, sourceLine, "unexpected-script", "Letter from an unexpected script: " + line.trim().slice(0, 95));
     if (script === "urdu") {
-      if (/[A-Za-z]/u.test(visibleLine))
+      // Latin text in book front matter, English appendices and quoted
+      // credits is an intentional source feature, not an OCR script error.
+      const credit = /^\s*(?:\([^\n]*\)|(?:بشکریہ|شاعرِ|شاعر\s)[^\n]*)$/u.test(visibleLine);
+      if (!allowLatin && !credit && /[A-Za-z]/u.test(visibleLine))
         record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + visibleLine.trim().slice(0, 95));
     } else {
       if (/\b(?:Hussain|Hassan)\b/iu.test(line))
@@ -244,7 +247,9 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
     }
     return { path, kind, body, bodyLine, roman, romanLine, fields, issues };
   }
-  if (kind === "basta-urdu" && fields.imageOnly !== "true") checkLines(path, body, bodyLine, "urdu", issues);
+  if (kind === "basta-urdu" && fields.imageOnly !== "true")
+    checkLines(path, body, bodyLine, "urdu", issues,
+      (page ?? 0) < 85 || fields.contentKind === "english-appendix");
   if (kind === "basta-roman") checkLines(path, body, bodyLine, "roman", issues);
   if (kind.startsWith("basta-") && page !== undefined && page >= 85) {
     // Prayer notices should not be stored as poetry. Only classify

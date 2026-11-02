@@ -50,13 +50,15 @@ function issue(path, line, code, detail) {
 const settings = JSON.parse(await readFile(join(root, "basta/settings.json"), "utf8"));
 for (const page of urdu) {
   const match = romans.get(page.page);
-  if (page.imageOnly) {
+  if (page.imageOnly || page.fields.contentKind === "english-appendix" ||
+      page.fields.contentKind === "editorial-note") {
     if (match?.body.trim())
       issue(match.path, match.bodyLine, "image-only-transcription", "Roman text is present for an image-only Basta page; verify it belongs here");
     continue;
   }
   if (!match) {
-    if (page.page >= settings.romanLyricsStartPage)
+    if (page.fields.romanExpected !== "false" &&
+        page.page >= settings.romanLyricsStartPage)
       issue(page.path, page.bodyLine, "missing-roman", "Roman source Markdown is missing for a page expected to have Roman text");
     continue;
   }
@@ -69,7 +71,9 @@ for (const page of roman) {
     issue(page.path, 2, "orphan-roman", "Roman page has no corresponding Urdu/source page");
 }
 const index = JSON.parse(await readFile(join(root, "basta/index.json"), "utf8"));
-const sourcePages = urdu.filter(x => !x.imageOnly).map(x => ({
+const sourcePages = urdu.filter(x => !x.imageOnly &&
+  x.fields.contentKind !== "english-appendix" &&
+  x.fields.contentKind !== "editorial-note").map(x => ({
   page: x.page, urdu: x.body, roman: romans.get(x.page)?.body || undefined,
 }));
 const editorial = auditBastaEditorial(index, sourcePages);

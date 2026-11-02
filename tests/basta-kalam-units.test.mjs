@@ -197,6 +197,33 @@ test("representative complex Basta pages retain aligned Roman and Urdu poem stru
   }
 });
 
+test("exact short Urdu titles are distinct from their neighboring continuations", () => {
+  const result = buildBastaKalamCatalog([
+    { ...first, page: 434, number: 38, name: "اے خمینی زندہ باد" },
+    { ...first, page: 435, number: 39, name: "اے پاک وطن پائندہ باد" },
+    { ...first, page: 435, number: 40, name: "ماں" },
+  ], [
+    { page: 434, urdu: "اے خمینی زندہ باد\nپہلا شعر" },
+    { page: 435, urdu: [
+      "بقیہ کلام", "---***---",
+      "(مطبوعہ حاشیہ)", "اے پاک وطن پائندہ باد", "پہلا شعر",
+      "---***---", "ماں", "دوسرا شعر",
+    ].join("\n") },
+  ]);
+  assert.deepEqual(result.kalams.map(k => k.status), ["ready", "ready", "ready"]);
+  assert.deepEqual(result.kalams.map(k => k.pages), [[434, 435], [435], [435]]);
+  assert.equal(result.orphans.length, 0);
+});
+
+test("a gap cannot join an indexed poem to a later appendix", () => {
+  const result = buildBastaKalamCatalog([first], [
+    { page: 142, urdu: "گھر سے جب بہر سفر\nشروع" },
+    { page: 150, urdu: "An English appendix without an index entry" },
+  ]);
+  assert.deepEqual(result.kalams[0].pages, [142]);
+  assert.equal(result.orphans.length, 1);
+});
+
 test("page 451 is a subtitle of poem 49 rather than a new indexed identity", async () => {
   const index = JSON.parse(await file("index.json"));
   const entries = index.filter((item) => item.sectionRoman === "Mutafarriqat-o-Qaumiyat");
