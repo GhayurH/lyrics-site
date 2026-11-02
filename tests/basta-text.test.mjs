@@ -194,3 +194,18 @@ test("explicit editorial subtitles and major refrains render without leaking mar
   assert.ok(bastaVerseClassNames(refrain).includes("basta-refrain"));
   assert.ok(bastaVerseClassNames(refrain).includes("basta-verse-poetry"));
 });
+
+test("distinctive split bylines preserve proper title styling in both scripts", () => {
+  for (const [title, credit, verse] of [
+    ["رباعی", "پیرِ طریقت حضرت عنبر شاہ وارثیؒ", "الحمد کہ من بندۂ حیدر ہستم"],
+    ["Rubai", "Pir-e-Tariqat Hazrat Anbar Shah Warsi", "Alhamd ke man banda-e-Haider hastam"],
+    ["منقبت", "سید سبط جعفر", "انسان کہاں، وہ لوگ ہمیں شیطان دکھائی دیتے ہیں"],
+    ["Manqabat", "Syed Sibt Jafar", "Insan kahan, wo log hamein shaitan dikhai dete hain"],
+  ]) {
+    const lines = layoutBastaKalam([title, credit, "", verse, "second verse"].join("\n"));
+    assert.equal(lines[0].title, true, title);
+    assert.equal(lines[1].poet, true, credit);
+    assert.equal(lines[2].hidden, true);
+    assert.equal(lines[3].verse, true);
+  }
+});
