@@ -230,3 +230,10 @@ test("Noha attribution distinguishes a title from unnumbered couplets", () => {
   assert.equal(lines[0].title, true);
   assert.equal(lines[1].poet, true);
 });
+
+test("recitation preface alone retains a three-line title, subtitle, and poet", () => {
+  const lines = layoutBastaKalam("عقل و شعور ہیں رب کی نعمت\nحقِ مودّت ادا کرو\nسبط جعفر", true, "auto", true);
+  assert.equal(lines[0].title, true);
+  assert.equal(lines[1].subtitle, true);
+  assert.equal(lines[2].poet, true);
+});
