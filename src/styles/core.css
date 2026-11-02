@@ -1,5 +1,6 @@
 /* File role: Global reset, site shell and shared components. Design tokens live in tokens.css. */
 @import "./tokens.css";
+@import "./theme-palettes.css";
 :root {
   font-family: var(--font-ui);
   line-height: 1.6;

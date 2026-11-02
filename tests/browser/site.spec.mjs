@@ -1,3 +1,4 @@
+import { withoutJavaScript } from "./no-js.mjs";
 // File role: Cross-route functionality and narrow-screen layout checks (no image assertions).
 import { test, expect } from "@playwright/test";
 
@@ -59,13 +60,11 @@ test("Search exposes primary and secondary filters accessibly @smoke", async ({ 
   await expect(page.locator(".search-secondary-filters")).toBeVisible();
 });
 test("Search and Saved explain their browser-only features without JavaScript", async ({ browser }) => {
-  const context = await browser.newContext({ javaScriptEnabled: false });
-  const page = await context.newPage();
-  await page.goto("/search/");
-  await expect(page.getByText("Search requires JavaScript", { exact: false })).toBeVisible();
-  await page.goto("/saved/");
-  await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();
-  await context.close();
+  await withoutJavaScript(browser, async (page) => {
+    await page.goto("/search/");
+    await expect(page.getByText("Search requires JavaScript", { exact: false })).toBeVisible();
+    await page.goto("/saved/");
+    await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();    });
 });
 
 test("homepage search passes the entered term to archive search", async ({ page }) => {
@@ -77,13 +76,11 @@ test("homepage search passes the entered term to archive search", async ({ page 
 });
 
 test("Basta without JavaScript offers the index instead of a nonfunctional jump form", async ({ browser }) => {
-  const context = await browser.newContext({ javaScriptEnabled: false });
-  const page = await context.newPage();
-  await page.goto("/basta/");
-  await expect(page.locator(".basta-home-page-jump")).toBeHidden();
-  await expect(page.locator(".basta-home-nojs")).toBeVisible();
-  await expect(page.getByRole("link", { name: "Browse book index" })).toBeVisible();
-  await context.close();
+  await withoutJavaScript(browser, async (page) => {
+    await page.goto("/basta/");
+    await expect(page.locator(".basta-home-page-jump")).toBeHidden();
+    await expect(page.locator(".basta-home-nojs")).toBeVisible();
+    await expect(page.getByRole("link", { name: "Browse book index" })).toBeVisible();    });
 });
 
 test("Basta bookmarks can be saved, revisited and removed from the Saved page", async ({ page }) => {

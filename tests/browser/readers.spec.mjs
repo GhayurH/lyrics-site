@@ -1,17 +1,16 @@
+import { withoutJavaScript } from "./no-js.mjs";
 import { test, expect } from "@playwright/test";
 
 test("all reader types expose text before JavaScript initializes @smoke", async ({ browser }) => {
-  const context = await browser.newContext({ javaScriptEnabled: false });
-  const page = await context.newPage();
-  await page.goto("/lyrics/aa-asghar-bin-tere/");
-  await expect(page.locator(".lyric-reading-urdu .lyric-verse").first()).toBeVisible();
-  await page.goto("/basta/138/");
-  await expect(page.locator(".basta-page-urdu .basta-verse-line").first()).toBeVisible();
-  await expect(page.locator("[data-reading-controls] .basta-pager")).toBeVisible();
-  await expect(page.locator("[data-reading-controls] .reading-focus-enter")).toBeHidden();
-  await page.goto("/basta/read/");
-  await expect(page.locator('.basta-reader-page[data-basta-page="3"]')).toBeVisible();
-  await context.close();
+  await withoutJavaScript(browser, async (page) => {
+    await page.goto("/lyrics/aa-asghar-bin-tere/");
+    await expect(page.locator(".lyric-reading-urdu .lyric-verse").first()).toBeVisible();
+    await page.goto("/basta/138/");
+    await expect(page.locator(".basta-page-urdu .basta-verse-line").first()).toBeVisible();
+    await expect(page.locator("[data-reading-controls] .basta-pager")).toBeVisible();
+    await expect(page.locator("[data-reading-controls] .reading-focus-enter")).toBeHidden();
+    await page.goto("/basta/read/");
+    await expect(page.locator('.basta-reader-page[data-basta-page="3"]')).toBeVisible();    });
 });
 
 test("printed Basta genre titles, names and near-repeated headings use shared typography", async ({ page }) => {

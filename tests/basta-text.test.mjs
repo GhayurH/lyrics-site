@@ -1,7 +1,9 @@
 // Pure stanza-layout contracts; source-specific editorial examples are covered by content validation.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams } from "../src/lib/basta-text.ts";
+import { splitBastaSource, normalizePrintedStanzaNumber } from "../src/lib/basta-kalam-units.ts";
+import { stanzaNumberValue } from "../src/lib/stanza-numbers.ts";
+import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, isBastaBoundary } from "../src/lib/basta-text.ts";
 
 const indents = (text, enabled = true) => layoutBastaKalam(text, enabled)
   .filter((line) => line.text.trim() && !/^\d+$/.test(line.text.trim()))
@@ -293,4 +295,14 @@ test("a repeated poem title beginning with a poet-name prefix remains a title", 
   assert.equal(lines[0].title, true);
   assert.equal(lines[0].poet, undefined);
   assert.equal(lines[2].verse, true);
+});
+
+test("readers and editorial mapping share source separators and numeral parsing", () => {
+  const text = "one\n \n ---***--- \n two\n\n---***---\nthree";
+  assert.equal(isBastaBoundary(" ---***--- "), true);
+  assert.deepEqual(splitBastaKalams(text), splitBastaSource(text));
+  for (const [printed, value] of [["12", 12], ["١٢.", 12], ["۱۲", 12], ["0", 0]]) {
+    assert.equal(stanzaNumberValue(printed), value);
+    assert.equal(normalizePrintedStanzaNumber(printed), value > 0 ? value : null);
+  }
 });
