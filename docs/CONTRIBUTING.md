@@ -17,14 +17,15 @@ Standalone poetry lives in `src/data/lyrics/` and follows `src/content.config.ts
 Basta index, source pages, Roman transcriptions and settings are in `src/data/basta/`. Preserve printed page numbers, title/byline prefaces and **matching** `---***---` Urdu/Roman boundaries. Never hand-edit generated streaming output. Audit results are review candidates, not permission to reconstruct OCR by guesswork.
 
 ```bash
-npm run basta:index:check
+npm run basta:index:check # Required when Basta index/source labels change
 npm run content:review       # Every source needing editorial review (Basta and standalone)
 npm run content:review -- --markdown > review.md # Scan-linked review report
 npm run content:review -- --json                 # Machine-readable findings
 npm run --silent content:review -- --csv > review.csv # UTF-8 spreadsheet queue
 npm run content:review -- --strict               # Nonzero exit if review queue is not empty
 npm run basta:index:sync    # Only for reviewed index corrections
-npm run basta:breaks:rebuild # Only for reviewed source boundaries
+# Source separators and stanza numbers require manual review against scans.
+# The index sync command changes title labels only, never source Markdown.
 ```
 
 The review command checks script mixing, extended Latin letters, stray Unicode controls, stanza and verse alignment, metadata, missing editions, and uncertain Basta index/source mapping. Its findings are advisory; inspect original scans and intended refrains before editing. **Do not** gate builds on a currently nonempty editorial queue.
