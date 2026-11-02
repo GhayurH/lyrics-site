@@ -96,7 +96,7 @@ for (const poem of catalog.kalams) {
     // byline where the printed title would otherwise be.
     if(poem.sectionRoman==="Salam") {
       let skip=0;
-      if (/^(?:\[?(?:مختصر\s+)?قطعہ\]?|رباعی|Qit'?a|Rubai|Salam ba-huzur|سلام بحضور|قطعہ\s*\/)/iu.test(starts[skip])) skip++;
+      if (/^(?:\[?(?:مختصر\s+)?قطعہ\]?|\[?Qit'?a\]?|\[?Rubai\]?|رباعی|Salam ba-huzur|سلام بحضور|قطعہ\s*\/)/iu.test(starts[skip])) skip++;
       if (/^(?:ڈاکٹر|پروفیسر|سید|الحاج|علامہ|مولانا|Professor|Doctor|Allama|Maulana|Syed|Alhaj)\s/iu.test(starts[skip]||"")) skip++;
       if(skip && starts[skip]) first=starts[skip];
     }
