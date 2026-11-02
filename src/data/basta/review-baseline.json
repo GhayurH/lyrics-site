@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "notes": "Maximum accepted existing finding counts by source file and code. Do not auto-update; review any new editorial issue.",
+  "counts": {
+    "src/data/basta/pages/035.md": {
+      "unverified-text": 4
+    },
+    "src/data/basta/pages/038.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/pages/044.md": {
+      "unverified-text": 2
+    },
+    "src/data/basta/pages/045.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/pages/046.md": {
+      "unverified-text": 2
+    },
+    "src/data/basta/pages/053.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/pages/054.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/pages/060.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/pages/064.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/pages/076.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/pages/083.md": {
+      "unverified-text": 2
+    },
+    "src/data/basta/pages/084.md": {
+      "unverified-text": 2
+    },
+    "src/data/basta/pages/138.md": {
+      "unverified-text": 2
+    },
+    "src/data/basta/pages/331.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/pages/417.md": {
+      "unverified-text": 3
+    },
+    "src/data/basta/roman/138.md": {
+      "unverified-text": 2
+    },
+    "src/data/basta/roman/331.md": {
+      "unverified-text": 1
+    },
+    "src/data/basta/roman/417.md": {
+      "unverified-text": 3
+    },
+    "src/data/lyrics/haye-khadijatul-kubra.md": {
+      "invisible-character": 2
+    },
+    "src/data/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-ho-gi.md": {
+      "stanza-line-mismatch": 5
+    }
+  }
+}

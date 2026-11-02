@@ -25,6 +25,7 @@ npm run content:review -- --markdown > review.md # Scan-linked review report
 npm run content:review -- --json                 # Machine-readable findings
 npm run --silent content:review -- --csv > review.csv # UTF-8 spreadsheet queue
 npm run content:review -- --strict               # Nonzero exit if review queue is not empty
+npm run content:review -- --summary --regression # CI gate: no structural or new editorial findings
 npm run basta:index:sync    # Only for reviewed index corrections
 # Source separators and stanza numbers require manual review against scans.
 # The index sync command changes title labels only, never source Markdown.

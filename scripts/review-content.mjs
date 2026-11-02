@@ -10,16 +10,16 @@ import { validateReviewedFragments } from "../src/lib/basta-fragment-roles.ts";
 import { compareEditions, reviewMarkdown } from "../src/lib/source-review.ts";
 
 const flags = new Set(process.argv.slice(2));
-const allowed = new Set(["--json", "--markdown", "--csv", "--summary", "--strict", "--help"]);
+const allowed = new Set(["--json", "--markdown", "--csv", "--summary", "--strict", "--regression", "--help"]);
 if ([...flags].some(x => !allowed.has(x))) {
-  console.error("Usage: npm run content:review -- [--json|--markdown|--csv|--summary] [--strict]");
+  console.error("Usage: npm run content:review -- [--json|--markdown|--csv|--summary] [--strict|--regression]");
   process.exit(2);
 }
 if (flags.has("--help")) {
   console.log("Read-only editorial audit of ALL Basta and standalone Markdown sources.");
   console.log("Default: list every file needing review with line references and findings.");
   console.log("--markdown: scan-linked report; --json: structured report; --csv: spreadsheet-ready findings;");
-  console.log("--summary: counts only; --strict: fail when unresolved review findings exist.");
+  console.log("--summary: counts only; --strict: fail on all findings; --regression: fail on mapping errors or new editorial debt.");
   process.exit(0);
 }
 if (["--json", "--markdown", "--csv", "--summary"].filter(x => flags.has(x)).length > 1) {
@@ -153,11 +153,33 @@ const files = [...byFile].map(([path, issues]) => ({
 }));
 const byCode = Object.fromEntries([...new Set(all.map(x => x.code))].sort().map(code =>
   [code, all.filter(x => x.code === code).length]));
+const baseline = flags.has("--regression")
+  ? JSON.parse(await readFile(join(root, "basta/review-baseline.json"), "utf8"))
+  : undefined;
+const hardErrors = new Set([
+  "catalog-error", "basta-index-mapping", "unassigned-fragment",
+  "stale-fragment-role", "invalid-fragment-role", "basta-source-mapping",
+  "duplicate-index", "index-order", "fragment-count", "stanza-number-mismatch",
+  "missing-roman-title", "orphan-roman", "page-metadata", "frontmatter",
+]);
+const regressions = [];
+if (baseline) {
+  if (baseline.version !== 1 || !baseline.counts) throw Error("Invalid editorial baseline");
+  const countsByFile = new Map();
+  for (const finding of all) {
+    const key = finding.path + "\0" + finding.code;
+    countsByFile.set(key, (countsByFile.get(key) || 0) + 1);
+    const permitted = baseline.counts[finding.path]?.[finding.code] ?? 0;
+    if (hardErrors.has(finding.code) || countsByFile.get(key) > permitted)
+      regressions.push(finding);
+  }
+}
 const report = {
   scanned: { lyrics: lyrics.length, bastaUrdu: urdu.length, bastaRoman: roman.length },
   filesNeedingReview: files.length,
   totalFindings: all.length,
   findingCounts: byCode,
+  ...(baseline ? { regressions: regressions.length } : {}),
   bastaCatalog: {
     indexedKalams: catalog.kalams.length,
     verifiedKalams: catalog.kalams.filter(x => x.status === "ready").length,
@@ -211,5 +233,11 @@ else if (flags.has("--summary")) {
     for (const f of file.issues) console.log("  L" + f.line + " [" + f.code + "] " + f.detail);
   }
   console.log("\nRun with --markdown for scan links, --csv for spreadsheet review, --json for structured data, or --summary for counts.");
+}
+if (baseline) {
+  console.log("\nEditorial regression gate: " + regressions.length + " new or structural findings.");
+  for (const issue of regressions.slice(0, 30))
+    console.log("  " + issue.path + ":" + issue.line + " [" + issue.code + "] " + issue.detail);
+  if (regressions.length) process.exitCode = 1;
 }
 if (flags.has("--strict") && all.length) process.exitCode = 1;

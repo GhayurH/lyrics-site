@@ -77,6 +77,8 @@ jobs:
       - name: Verify Basta index labels
         if: steps.test_mode.outputs.index == 'true'
         run: npm run basta:index:check
+      - name: Enforce stable Basta mappings and editorial review baseline
+        run: npm run content:review -- --summary --regression
       - name: Validate Astro and TypeScript semantics
         if: steps.test_mode.outputs.check == 'true'
         run: npm run check
