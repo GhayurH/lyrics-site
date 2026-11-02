@@ -120,3 +120,20 @@ test("Basta source formatting flags double blank separators and attached acknowl
   assert(file.issues.some(x => x.code === "basta-excess-blank-lines"));
   assert(file.issues.some(x => x.code === "basta-courtesy-spacing"));
 });
+
+
+test("explicit Basta subtitles and refrains are not mistaken for Urdu-script contamination", () => {
+  const urdu = [
+    "---", "page: 398", "originalImage: /images/basta/original/398.png", "---",
+    "[[subtitle]] عنوانِ ثانوی", "", "[[refrain]] آئیے اپنے مولا سے باتیں کریں",
+  ].join("\n");
+  const file = reviewMarkdown({
+    path: "src/data/basta/pages/398.md", kind: "basta-urdu", text: urdu,
+  });
+  assert.ok(!file.issues.some(x => x.code === "latin-in-urdu"));
+  const bad = reviewMarkdown({
+    path: "src/data/basta/pages/398.md", kind: "basta-urdu",
+    text: urdu + "\nIncorrect Latin prose",
+  });
+  assert.ok(bad.issues.some(x => x.code === "latin-in-urdu"));
+});
