@@ -4153,10 +4153,10 @@
     "section": "نوحہ / بین",
     "sectionRoman": "Noha / Bain",
     "number": 26,
-    "name": "روایتِ شامِ غریباں / شفق اکبر آبادی",
+    "name": "روایتِ شامِ غریباں",
     "haal": "",
     "page": 342,
-    "romanName": "Riwayat-e-Sham-e-Ghariban / Shafaq Akbar Abadi",
+    "romanName": "Riwayat-e-Sham-e-Ghariban",
     "romanHaal": ""
   },
   {
@@ -4503,20 +4503,20 @@
     "section": "حمد، نعت و مناقب",
     "sectionRoman": "Hamd, Naat-o-Manaqib",
     "number": 8,
-    "name": "لا فتیٰ علیؑ / پیرِ طریقت حضرت بدیع شاہ وارثیؒ",
+    "name": "لا فتیٰ علیؑ",
     "haal": "",
     "page": 367,
-    "romanName": "La Fata Ali / Pir-e-Tariqat Hazrat Badi Shah Warsi",
+    "romanName": "La Fata Ali",
     "romanHaal": ""
   },
   {
     "section": "حمد، نعت و مناقب",
     "sectionRoman": "Hamd, Naat-o-Manaqib",
     "number": 9,
-    "name": "رباعی / پیرِ طریقت حضرت بدیع شاہ وارثیؒ",
+    "name": "رباعی",
     "haal": "",
     "page": 367,
-    "romanName": "Rubai / Pir-e-Tariqat Hazrat Badi Shah Warsi",
+    "romanName": "Rubai",
     "romanHaal": ""
   },
   {
@@ -4703,10 +4703,10 @@
     "section": "حمد، نعت و مناقب",
     "sectionRoman": "Hamd, Naat-o-Manaqib",
     "number": 28,
-    "name": "نہیں ہے دوسرا قبّہ علی نقیؑ جیسا",
+    "name": "زمانہ لائے تو آقا علی نقیؑ جیسا",
     "haal": "",
     "page": 385,
-    "romanName": "Nahin hai dusra qubba Ali Naqi jaisa",
+    "romanName": "Zamana laye to Aqa Ali Naqi jaisa",
     "romanHaal": ""
   },
   {
@@ -4803,10 +4803,10 @@
     "section": "حمد، نعت و مناقب",
     "sectionRoman": "Hamd, Naat-o-Manaqib",
     "number": 38,
-    "name": "سید سبط جعفر",
+    "name": "منقبت",
     "haal": "",
     "page": 393,
-    "romanName": "Syed Sibt Jafar",
+    "romanName": "Manqabat",
     "romanHaal": ""
   },
   {
@@ -5183,10 +5183,10 @@
     "section": "متفرقات و قومیات",
     "sectionRoman": "Mutafarriqat-o-Qaumiyat",
     "number": 32,
-    "name": "حقِ مودّت ادا کرو",
+    "name": "عقل و شعور ہیں رب کی نعمت، حقِ نعمت ادا کرو",
     "haal": "",
     "page": 428,
-    "romanName": "Mard bano maidan mein aao, Haq-e-shujaat ada karo",
+    "romanName": "Aql-o-shuur hain Rab ki nemat, Haq-e-nemat ada karo",
     "romanHaal": ""
   },
   {
@@ -5263,10 +5263,10 @@
     "section": "متفرقات و قومیات",
     "sectionRoman": "Mutafarriqat-o-Qaumiyat",
     "number": 40,
-    "name": "ماں / شاعرِ اہلِ بیت سید صفدر علی زیدی (U.A.E.)",
+    "name": "ماں",
     "haal": "",
     "page": 435,
-    "romanName": "Man / Shair-e-Ahl-e-Bait Syed Safdar Ali Zaidi (U.A.E.)",
+    "romanName": "Man",
     "romanHaal": ""
   },
   {
@@ -5357,16 +5357,6 @@
     "haal": "",
     "page": 444,
     "romanName": "Wasila-e-Hayat (Man, Bap)",
-    "romanHaal": ""
-  },
-  {
-    "section": "متفرقات و قومیات",
-    "sectionRoman": "Mutafarriqat-o-Qaumiyat",
-    "number": 50,
-    "name": "جدید اشعار بعنوان ماں",
-    "haal": "",
-    "page": 451,
-    "romanName": "Jadid ashar ba-unwan Man",
     "romanHaal": ""
   },
   {
