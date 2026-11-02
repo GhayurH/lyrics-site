@@ -42,4 +42,5 @@ test("semantic colors and dropdown sizing have safe fallbacks", () => {
   assert.match(sheets["search.css"], /var\(--pf-dropdown-max-height,\s*50dvh\)/);
   assert.match(sheets["tokens.css"], /--preset-sepia-ink:\s*#[0-9a-f]{6}/i);
   assert.match(sheets["theme-palettes.css"], /--primary-text:\s*var\(--preset-sepia-ink\)/);
+  assert.match(sheets["appearance.css"], /--swatch-ink:\s*var\(--theme-foreground,\s*var\(--preset-sepia-ink\)\)/);
 });

@@ -1,6 +1,6 @@
 /* File role: Search-only Pagefind layout, filter controls, active-filter chips, and responsive behavior. */
 .search-page { max-width: var(--content-feature); margin: auto; }
-.search-header { max-width: var(--content-intro); margin-bottom: 2rem; }
+.search-header { max-width: var(--content-intro); margin-bottom: 1.2rem; }
 .search-header h1 { margin: 0 0 0.75rem; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; }
 .search-share-note { color: var(--secondary-text); font-size: 0.9rem; }
 .search-input-row { display: flex; align-items: center; gap: 0.7rem; max-width: 58rem; }
@@ -21,7 +21,7 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 .search-filter-chip:hover { background: var(--surface-background); }
 .search-filter-chip:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
 .search-filter-chip span { margin-left: 0.25rem; font-weight: 800; }
-.search-results-shell { margin-top: 2rem; border-top: var(--ui-border); padding-top: 1.5rem; }
+.search-results-shell { margin-top: 1.5rem; border-top: var(--ui-border); padding-top: 1.5rem; }
 @media (max-width: 920px) {
   .search-primary-filters, .search-secondary-filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
@@ -48,8 +48,6 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
 .search-filter-disclosure, .search-more-filters { border-radius: var(--ui-panel-radius); }
 .search-filter-disclosure > summary, .search-more-filters > summary { min-height: var(--ui-target); }
 
-.search-header { margin-bottom: 1.2rem; }
-.search-results-shell { margin-top: 1.5rem; }
 @media (max-width: 700px) { .search-header { margin-bottom: .8rem; } }
 
 /* Pagefind's component UI inherits the same palettes, including AMOLED,
