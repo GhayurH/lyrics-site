@@ -63,15 +63,21 @@ function isCreditLine(line: string): boolean {
   return /^[(（]?\s*(?:بشکریہ|بہ\s*شکریہ|bashukriya|ba\s*shukriya)/i.test(line.trim());
 }
 
-/** Ignore the heading/poet preface when it is separated from the verses.
- * A two-line preface is only recognized when its title repeats in the next
- * block; do not infer arbitrary author names from the source text. */
+/** Recognize distinctive byline conventions without classifying arbitrary
+ * two-verse stanzas as title/author blocks. */
+function isKnownByline(line: string): boolean {
+  return /^(?:پیرِ طریقت|حکیم سید|شاعرِ اہلِ بیت|مولانا|حضرت علامہ|سبط جعفر$|سید سبط جعفر$|Pir-e-Tariqat|Hakim Syed|Shair-e-Ahl-e-Bait|Maulana|Hazrat Allama|Sibt Jafar$|Syed Sibt Jafar$)/iu.test(line.trim());
+}
+
+/** An opening title/byline is verified by a repeated first verse or
+ * distinctive author attribution, not by its arbitrary line count. */
 function hasIntroductoryBlock(lines: string[], blocks: Array<{ start: number; end: number }>): boolean {
   if (blocks.length < 2) return false;
   const first = blocks[0];
   const size = first.end - first.start;
   if (size === 1) return !isStanzaNumber(lines[first.start]);
-  return size === 2 && lines[first.start].trim() === lines[blocks[1].start].trim();
+  return size === 2 && (lines[first.start].trim() === lines[blocks[1].start].trim() ||
+    isKnownByline(lines[first.start + 1]));
 }
 
 /** Preserve every line; only attach indentation to actual verses. */
@@ -117,7 +123,8 @@ export function layoutBastaKalam(
     if (
       block.end - block.start === 2 &&
       !isStanzaNumber(lines[block.start]) &&
-      lines[block.start].trim() === lines[blocks[index + 1].start].trim()
+      (lines[block.start].trim() === lines[blocks[index + 1].start].trim() ||
+        isKnownByline(lines[block.start + 1]))
     ) {
       prefaceBlocks.add(index);
     }
@@ -145,12 +152,13 @@ export function layoutBastaKalam(
     if (!next) continue;
     const heading = lines[block.start].trim();
     const matchesFirstVerse = heading === lines[next.start].trim();
+    const hasKnownByline = block.end - block.start === 2 && isKnownByline(lines[block.start + 1]);
     const isStandAloneHeading = block.end - block.start === 1 &&
       !prefaceBlocks.has(index + 1) &&
       (heading.includes(" / ") ||
         isStanzaNumber(lines[next.start]) ||
         /^(?:بین|Bain)$/iu.test(heading));
-    if ((matchesFirstVerse || isStandAloneHeading) && !isCreditLine(heading)) {
+    if ((matchesFirstVerse || isStandAloneHeading || hasKnownByline) && !isCreditLine(heading)) {
       display[block.start].title = true;
       // A printed separator is not a full-height empty verse after a title.
       // Preserve gaps elsewhere, including ordinary stanza boundaries.
