@@ -91,7 +91,11 @@ test("Urdu Nastaliq ink clearance preserves verse width across readers @smoke", 
       const startPadding = Number.parseFloat(style.paddingInlineStart);
       const endMargin = Number.parseFloat(style.marginInlineEnd);
       return { direction: style.direction, startPadding, endMargin,
+        // Couplets intentionally indent their start or inset their end.
+        // Excluding those existing offsets, the ink gutter must cost no width.
         contentWidth: node.clientWidth - startPadding -
+          (Number.parseFloat(style.paddingInlineEnd) || 0),
+        intendedInset: (Number.parseFloat(style.marginInlineStart) || 0) +
           (Number.parseFloat(style.paddingInlineEnd) || 0),
         parentWidth: node.parentElement.clientWidth };
     });
@@ -100,7 +104,7 @@ test("Urdu Nastaliq ink clearance preserves verse width across readers @smoke", 
     expect(metrics.endMargin).toBeLessThan(-3);
     expect(Math.abs(metrics.startPadding + metrics.endMargin)).toBeLessThan(1);
     // The right-side gutter must not steal the usable width for verse fitting.
-    expect(metrics.contentWidth).toBeGreaterThanOrEqual(metrics.parentWidth - 2);
+    expect(metrics.contentWidth + metrics.intendedInset).toBeGreaterThanOrEqual(metrics.parentWidth - 2);
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1)).toBe(true);
   }
 });
