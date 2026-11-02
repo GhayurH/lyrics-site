@@ -140,9 +140,11 @@ export function initBastaSelections(root: HTMLElement): void {
         button.dataset.bastaSaveSelection === key);
       // The legacy public hash stays the same. Navigate to whichever text
       // edition is currently visible, including when Roman is the only view.
-      const visible = buttons.find(button => button.dataset.bastaEdition === "roman" &&
-        root.dataset.readingColumns?.split(" ").includes("roman") &&
-        !root.dataset.readingColumns?.split(" ").includes("urdu")) ??
+      const romanOnly = root.dataset.readingColumns?.split(" ").includes("roman") &&
+        !root.dataset.readingColumns?.split(" ").includes("urdu");
+      const visible = buttons.find(button =>
+        button.dataset.bastaEdition === (romanOnly ? "roman" : "urdu") &&
+        button.getClientRects().length > 0) ??
         buttons.find(button => button.getClientRects().length > 0) ??
         root.querySelector<HTMLElement>("#" + CSS.escape(hash));
       const target = visible ?? null;
