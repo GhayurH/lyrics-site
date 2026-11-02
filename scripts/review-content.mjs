@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // Read-only source review across standalone lyrics and both Basta editions.
 // Usage: npm run content:review [-- --json|--markdown|--summary|--strict]
-import { readFile, readdir } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
+import { markdownFiles } from "./lib/source-files.mjs";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { buildBastaKalamCatalog } from "../src/lib/basta-kalam-units.ts";
@@ -30,10 +31,10 @@ if (["--json", "--markdown", "--csv", "--summary"].filter(x => flags.has(x)).len
 const root = fileURLToPath(new URL("../src/data/", import.meta.url));
 async function collect(relative, kind) {
   const dir = join(root, relative);
-  const names = (await readdir(dir)).filter(x => x.endsWith(".md")).sort();
-  return Promise.all(names.map(async (name) => {
-    const path = "src/data/" + relative + "/" + name;
-    return reviewMarkdown({ path, kind, text: await readFile(join(dir, name), "utf8") });
+  const names = await markdownFiles(dir, relative === "lyrics");
+  return Promise.all(names.map(async (file) => {
+    const path = "src/data/" + relative + "/" + file.slice(dir.length + 1).replaceAll("\\", "/");
+    return reviewMarkdown({ path, kind, text: await readFile(file, "utf8") });
   }));
 }
 

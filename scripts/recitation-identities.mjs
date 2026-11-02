@@ -1,6 +1,7 @@
 // Maintain permanently published source IDs: check for accidental changes,
 // or append new IDs after reviewing newly published poems and stanzas.
-import { readFile, readdir, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { markdownFiles, readSourceMarkdown, frontmatterScalar } from "./lib/source-files.mjs";
 import { fileURLToPath } from "node:url";
 import { dirname, join, relative, sep } from "node:path";
 import { buildBastaKalamCatalog, bastaKalamId } from "../src/lib/basta-kalam-units.ts";
@@ -18,52 +19,29 @@ const fail = (list) => {
     process.exitCode = 1;
   }
 };
-async function readBody(path) {
-  const source = await readFile(path, "utf8");
-  const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/);
-  if (!match) throw Error("Missing frontmatter: " + path);
-  return { head: match[1], body: source.slice(match[0].length) };
-}
-function yamlValue(head, key) {
-  const match = head.match(new RegExp("^" + key + ":\\s*(.*)$", "m"));
-  if (!match) return undefined;
-  const text = match[1].trim();
-  if (text.startsWith('"') && text.endsWith('"')) return JSON.parse(text);
-  if (text.startsWith("'") && text.endsWith("'"))
-    return text.slice(1, -1).replace(/''/g, "'");
-  return text;
-}
-async function collect(directory) {
-  const files = [];
-  for (const item of await readdir(directory, { withFileTypes: true })) {
-    if (item.isDirectory()) files.push(...await collect(join(directory, item.name)));
-    else if (item.name.endsWith(".md")) files.push(join(directory, item.name));
-  }
-  return files.sort();
-}
 function entryId(entry) {
   return entry.recitationId || bastaKalamId(entry);
 }
-const lyrics = await Promise.all((await collect(join(root, "src/data/lyrics"))).map(async (path) => {
-  const { head } = await readBody(path);
-  if (yamlValue(head, "published") === "false") return null;
+const lyrics = await Promise.all((await markdownFiles(join(root, "src/data/lyrics"), true)).map(async (path) => {
+  const { header: head } = await readSourceMarkdown(path);
+  if (frontmatterScalar(head, "published") === "false") return null;
   const relativePath = relative(join(root, "src/data/lyrics"), path).split(sep).join("/");
-  return { id: yamlValue(head, "recitationId") || relativePath.replace(/\.md$/, ""),
+  return { id: frontmatterScalar(head, "recitationId") || relativePath.replace(/\.md$/, ""),
     path: relativePath };
 }));
 const activeLyrics = lyrics.filter(Boolean);
 const sourceIndex = JSON.parse(await readFile(join(root, "src/data/basta/index.json"), "utf8"))
   .filter((entry) => entry.sectionRoman !== "Mazameen");
-const urduPages = await Promise.all((await collect(join(root, "src/data/basta/pages"))).map(async (path) => {
-  const { head, body } = await readBody(path);
-  if (yamlValue(head, "published") === "false" ||
-      yamlValue(head, "imageOnly") === "true" ||
-      yamlValue(head, "contentKind") !== undefined) return null;
-  return { page: Number(yamlValue(head, "page")), urdu: body };
+const urduPages = await Promise.all((await markdownFiles(join(root, "src/data/basta/pages"), true)).map(async (path) => {
+  const { header: head, body } = await readSourceMarkdown(path);
+  if (frontmatterScalar(head, "published") === "false" ||
+      frontmatterScalar(head, "imageOnly") === "true" ||
+      frontmatterScalar(head, "contentKind") !== undefined) return null;
+  return { page: Number(frontmatterScalar(head, "page")), urdu: body };
 }));
-const roman = new Map(await Promise.all((await collect(join(root, "src/data/basta/roman"))).map(async (path) => {
-  const { head, body } = await readBody(path);
-  return [Number(yamlValue(head, "page")), body];
+const roman = new Map(await Promise.all((await markdownFiles(join(root, "src/data/basta/roman"), true)).map(async (path) => {
+  const { header: head, body } = await readSourceMarkdown(path);
+  return [Number(frontmatterScalar(head, "page")), body];
 })));
 const pages = urduPages.filter(Boolean).map((p) => ({ ...p, roman: roman.get(p.page) }));
 const roles = JSON.parse(await readFile(join(root, "src/data/basta/fragment-roles.json"), "utf8"));

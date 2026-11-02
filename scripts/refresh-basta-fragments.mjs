@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // A reviewed fragment's role is durable editorial data; only its opening
 // fingerprint may be reapproved, explicitly by printed page, after an edit.
-import { readFile, readdir, writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
+import { bastaPageSources } from "./lib/source-files.mjs";
 import { fileURLToPath } from "node:url";
 import { join } from "node:path";
 import { buildBastaKalamCatalog, splitBastaSource } from "../src/lib/basta-kalam-units.ts";
@@ -15,22 +16,9 @@ if (!approve && !(args.length === 1 && args[0] === "--check")) {
   process.exit(2);
 }
 const permittedPages = new Set(approve ? args[0].slice("--pages=".length).split(",").map(Number) : []);
-const files = (await readdir(join(root, "pages"))).filter(name => /^\d+\.md$/.test(name));
-const readBody = async path => {
-  const raw = await readFile(path, "utf8");
-  const matched = raw.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/u);
-  if (!matched) throw Error("Invalid frontmatter: " + path);
-  return { header: matched[1], body: raw.slice(matched[0].length) };
-};
-const urdu = new Map();
-for (const file of files) {
-  const page = Number(file.slice(0, -3));
-  urdu.set(page, await readBody(join(root, "pages", file)));
-}
-const roman = new Map();
-for (const file of (await readdir(join(root, "roman"))).filter(name => /^\d+\.md$/.test(name))) {
-  roman.set(Number(file.slice(0, -3)), (await readBody(join(root, "roman", file))).body);
-}
+const urdu = await bastaPageSources(join(root, "pages"));
+const roman = new Map([...await bastaPageSources(join(root, "roman"))]
+  .map(([page, source]) => [page, source.body]));
 const sourcePages = [...urdu].filter(([_, data]) =>
   !/^imageOnly:\s*true$/m.test(data.header) &&
   !/^published:\s*false$/m.test(data.header) &&

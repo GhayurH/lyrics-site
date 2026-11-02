@@ -5,6 +5,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { bastaPageSources } from "./lib/source-files.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const indexPath = path.join(root, "src/data/basta/index.json");
@@ -75,18 +76,11 @@ function similarity(seed, candidate, script) {
   return Math.min(value, 1);
 }
 async function loadPages(kind) {
-  const directory = path.join(sourceDir, kind);
-  const files = (await fs.readdir(directory)).filter((file) => /^\d+\.md$/.test(file));
-  const result = new Map();
-  for (const file of files) {
-    const raw = (await fs.readFile(path.join(directory, file), "utf8")).replace(/\r\n?/g, "\n");
-    const head = raw.match(/^---\n[\s\S]*?\n---(?:\n|$)/u);
-    if (!head) throw Error("Unterminated Markdown frontmatter: " + file);
-    const lines = raw.slice(head[0].length).split("\n")
-      .map((line) => line.trim()).filter((line) => line && line !== "---***---");
-    result.set(Number(file.slice(0, -3)), lines);
-  }
-  return result;
+  const sources = await bastaPageSources(path.join(sourceDir, kind));
+  return new Map([...sources].map(([page, source]) => [
+    page, source.body.replace(/\r\n?/g, "\n").split("\n")
+      .map(line => line.trim()).filter(line => line && line !== "---***---"),
+  ]));
 }
 function bestMatch(label, lines, script) {
   // On ties, prefer the earliest match. Titles and refrains may share wording.
