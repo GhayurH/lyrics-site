@@ -89,6 +89,24 @@ jobs:
             content-review.md
             content-review.csv
           retention-days: 14
+      - name: Full Basta index reconciliation diagnostics
+        if: github.event_name == 'pull_request' && github.head_ref == 'fix/basta-editorial-cleanup-2026-11-02'
+        shell: bash
+        run: |
+          npm run basta:index:check > basta-index-check.txt 2>&1 || true
+          npm run --silent content:review -- --json > basta-content-review.json
+      - name: Export source and index audit snapshot
+        if: github.event_name == 'pull_request' && github.head_ref == 'fix/basta-editorial-cleanup-2026-11-02'
+        uses: actions/upload-artifact@v7
+        with:
+          name: temporary-basta-index-review
+          path: |
+            src/data/basta/index.json
+            src/data/basta/pages/
+            src/data/basta/roman/
+            basta-index-check.txt
+            basta-content-review.json
+          retention-days: 2
       - name: Verify deployment asset redirects
         run: |
           test -f dist/_redirects
