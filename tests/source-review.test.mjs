@@ -107,3 +107,16 @@ test("Basta source review flags prayer notices, not poetic prayer references", (
   const romanFindings = reviewMarkdown({ path: "src/data/basta/roman/137.md", kind: "basta-roman", text: roman });
   assert.equal(romanFindings.issues.filter(x => x.code === "basta-prayer-block").length, 3);
 });
+
+test("Basta source formatting flags double blank separators and attached acknowledgements", () => {
+  const body = [
+    "عنوان", "۱", "شعر", "", "", "", "دوسرا شعر", "(بشکریہ سوزخواں)", "", "تیسرا شعر",
+  ].join("\n");
+  const md = ["---", "page: 140",
+    "originalImage: /images/basta/original/140.png", "---", body].join("\n");
+  const file = reviewMarkdown({
+    path: "src/data/basta/pages/140.md", kind: "basta-urdu", text: md,
+  });
+  assert(file.issues.some(x => x.code === "basta-excess-blank-lines"));
+  assert(file.issues.some(x => x.code === "basta-courtesy-spacing"));
+});
