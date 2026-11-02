@@ -96,8 +96,14 @@ function stripHeading(value: string): string {
     .replace(/[^\p{L}\p{N}]+/gu, " ").trim().toLowerCase();
 }
 function likelyTitle(segment: string, name: string): boolean {
-  const words = stripHeading(name).split(" ").filter((word) => word.length >= 3).slice(0, 8);
-  if (words.length < 2) return false;
+  const normalizedTitle = stripHeading(name);
+  const words = normalizedTitle.split(" ").filter((word) => word.length >= 3).slice(0, 8);
+  if (words.length < 2) {
+    // An exact one-word title at a fragment's opening is unambiguous.
+    // Do not guess from a repeated word later inside a stanza.
+    const opening = segment.split("\n").find((line) => Boolean(line.trim())) || "";
+    return normalizedTitle.length >= 4 && stripHeading(opening) === normalizedTitle;
+  }
   return segment.split("\n").slice(0, 12).some((line) => {
     const normalized = stripHeading(line);
     return words.filter((word) => normalized.includes(word)).length / words.length >= 0.75;

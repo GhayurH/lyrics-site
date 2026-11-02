@@ -136,3 +136,26 @@ test("editorial diagnostics report duplicate IDs, Roman gaps and separator misma
   assert.deepEqual(result.nonMonotonicSectionNumbers,["Salam:1"]);
   assert.equal(JSON.stringify({index,pages}),original);
 });
+
+test("an exact single-word title can identify a poem after an unindexed excerpt", () => {
+  const entries = [
+    { ...first, name: "پچھلا کلام", number: 1, page: 150 },
+    { ...second, name: "رخصتی", number: 2, page: 151 },
+  ];
+  const result = buildBastaKalamCatalog(entries, [
+    { page: 150, urdu: "پچھلا کلام\n۱\nپہلی سطر" },
+    {
+      page: 151,
+      urdu: [
+        "۲", "دوسری سطر", "---***---",
+        "ایک الگ غیر درج کلام", "ایک اور سطر", "---***---",
+        "رخصتی", "یہ عنوان ہے", "دوسری سطر",
+      ].join("\n"),
+    },
+  ]);
+  assert.equal(result.kalams[0].status, "ready");
+  assert.equal(result.kalams[1].status, "ready");
+  assert.equal(result.kalams[1].startPage, 151);
+  assert.deepEqual(result.kalams[1].pages, [151]);
+  assert.equal(result.orphans.length, 1);
+});
