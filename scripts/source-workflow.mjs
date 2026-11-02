@@ -15,9 +15,11 @@ const commands = mode === "--check"
   ? [
       ["Bibi spelling", ["run", "content:bibi:check"]],
       ["Basta index", ["run", "basta:index:check"]],
-      ["Reviewed fragment boundaries", ["run", "basta:fragments:check"]],
       ["Recitation IDs", ["run", "recitation:ids:check"]],
-      ["Fragment classification and editorial regression", ["run", "content:review", "--", "--summary", "--regression"]],
+      // The reviewer validates all reviewed fragment fingerprints and their
+      // index assignments; repeating the standalone fragment audit here
+      // would reread the same source files without adding coverage.
+      ["Fragment roles, mapping and editorial regression", ["run", "content:review", "--", "--summary", "--regression"]],
     ]
   : [
       ["Canonical Bibi spelling", ["run", "content:bibi:fix"]],

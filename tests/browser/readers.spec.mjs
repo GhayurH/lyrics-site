@@ -47,7 +47,7 @@ test("edition preferences, Focus mode, and image enlargement work together", asy
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
 });
 
-test("mobile single-edition Focus starts with stanza one via link and button @smoke", async ({ page }) => {
+test("mobile single-edition Focus starts with stanza one via link and button", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   const lyricUrl = "/lyrics/na-bhool-kar-bhi/";
 
@@ -84,7 +84,7 @@ test("mobile single-edition Focus starts with stanza one via link and button @sm
   }
 });
 
-test("continuous deep link, Contents and Focus exit survive rotation @smoke", async ({ page }) => {
+test("continuous deep link, Contents and Focus exit survive rotation", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
   const target = page.locator('[data-basta-page="138"]');

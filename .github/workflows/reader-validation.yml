@@ -37,7 +37,7 @@ jobs:
           node-version: '24'
           cache: npm
       - run: npm ci
-      # Production builds run Node tests and the unified source checks. Browser
+      # Prebuild owns unit tests and unified source checks exactly once. Browser
       # smoke covers every PR/main push; reserve the wider matrix for weekly
       # checks, manual runs, or an explicit [full-ci] commit marker.
       - id: test_mode
@@ -67,28 +67,22 @@ jobs:
           else
             echo 'check=false' >> "$GITHUB_OUTPUT"
           fi
-      - name: Verify all Markdown-linked metadata using one source workflow
-        run: npm run source:check
       - name: Validate Astro and TypeScript semantics
         if: steps.test_mode.outputs.check == 'true'
         run: npm run check
-      - run: npm run build
+      - name: Production build (unit tests, source checks, Astro and Pagefind)
+        run: npm run build
       - name: Report JavaScript, CSS, and font asset sizes
         run: npm run perf:assets
-      - name: Generate source review queue (Basta and standalone)
+      - name: Generate editorial review report (Basta and standalone)
         if: steps.test_mode.outputs.full == 'true'
-        run: |
-          npm run --silent content:review -- --markdown > content-review.md
-          npm run --silent content:review -- --csv > content-review.csv
-          grep '^Audited ' content-review.md
+        run: npm run --silent content:review -- --markdown > content-review.md
       - name: Save editorial review queue
         if: steps.test_mode.outputs.full == 'true'
         uses: actions/upload-artifact@v7
         with:
           name: content-review
-          path: |
-            content-review.md
-            content-review.csv
+          path: content-review.md
           retention-days: 7
       - name: Verify deployment asset redirects
         run: |

@@ -5,16 +5,15 @@ Use this checklist for shared reader, appearance, search, offline and publishing
 ## Automated checks
 
 ```bash
-npm run source:check  # Every Markdown source, Basta index, reviewed fragments, permanent IDs and editorial regressions
-npm run check
-npm run build
-npm run test:smoke
-npm run test:browser
-npm run perf:assets
-npm run perf:browser  # Optional, non-gating browser measurements
+npm run build         # Unit tests, source/index/ID checks, Astro and Pagefind (once)
+npm run check         # Astro and TypeScript diagnostics
+npm run test:smoke    # Five distinct critical browser journeys
+npm run test:browser  # Complete functional browser suite (includes smoke)
+npm run perf:assets   # Built asset sizes
+npm run perf:browser  # Optional non-gating measurements
 ```
 
-GitHub Actions runs **smoke Chromium on every PR and main push**, and **full Chromium every Sunday**, through manual workflow dispatch, or when the latest commit contains `[full-ci]`. Every build runs Node unit tests and `source:check` across **all** Markdown sources, index labels, reviewed fragments and permanent IDs (not only files detected as changed); Astro diagnostics run when `.astro`, TypeScript or JavaScript sources change (or during full scheduled/manual runs). The unified `source:check` runs `npm run content:review -- --summary --regression`: all structural index/mapping errors and any increases over the tracked per-file editorial baseline fail validation. Lower counts are permitted; the baseline must only be updated after explicit source review. The Sunday full run generates the `content-review` artifact, covering every Basta and standalone Markdown file with source-alignment, Unicode, metadata and mapping checks. The same `content:review` command also supports `--summary`, `--json`, and `--csv` output. Run `npm run test:browser` locally when changing an integration not covered by smoke.
+GitHub Actions runs **smoke Chromium on every PR and main push**, and **full Chromium every Sunday**, through manual workflow dispatch, or when the latest commit contains `[full-ci]`. The build's prebuild hook runs Node unit tests and `source:check` exactly once across **all** Markdown sources, index labels, reviewed fragments and permanent IDs (not only files detected as changed); Astro diagnostics run when `.astro`, TypeScript or JavaScript sources change (or during full scheduled/manual runs). The unified `source:check` runs `npm run content:review -- --summary --regression`: all structural index/mapping errors and any increases over the tracked per-file editorial baseline fail validation. Lower counts are permitted; the baseline must only be updated after explicit source review. The Sunday full run generates one Markdown `content-review` artifact (rather than rereading the corpus separately for Markdown and CSV), covering every Basta and standalone Markdown file with source-alignment, Unicode, metadata and mapping checks. The same `content:review` command also supports `--summary`, `--json`, and `--csv` output. Run `npm run test:browser` locally when changing an integration not covered by smoke.
 
 ## Viewports and input
 

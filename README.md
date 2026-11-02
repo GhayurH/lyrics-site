@@ -24,7 +24,7 @@ npm run dev             # Local development (localhost:4321)
 npm run source:sync     # Reconcile source-linked metadata after Markdown edits
 npm run source:check    # Read-only index, fragment, source and identity checks
 npm run check           # Astro and TypeScript validation
-npm run build           # Unit tests, stable IDs, Astro and Pagefind
+npm run build           # Unit tests and source checks once, then Astro and Pagefind
 npm run test:smoke      # Critical Chromium journeys
 npm run test:browser    # Full functional Chromium regression
 npm run content:review  # All Basta/standalone source-review candidates

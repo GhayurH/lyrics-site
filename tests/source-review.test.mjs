@@ -1,6 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { compareEditions, reviewMarkdown } from "../src/lib/source-review.ts";
+import { normalizeBibiText } from "../src/lib/bibi-spelling.ts";
 
 const lyric = (urdu, roman) =>
   "---\ntitle: \"سلام\"\nlanguage: \"Urdu\"\nlang: \"ur\"\ndirection: \"rtl\"\nkalamType: \"Salam\"\nromanLyrics: |-\n" +
@@ -32,6 +33,23 @@ test("flags mixed scripts, non-ASCII Latin transliteration and control character
     assert(codes.includes(code), code);
   assert(issues.every(x => x.path === "src/data/lyrics/mixed.md"));
   assert(issues.some(x => x.code === "latin-in-urdu" && x.line > 8));
+});
+
+test("Bibi spelling normalizes Urdu separators and preserves inflections", () => {
+  for (const input of ["بیبی", "بی بی", "بی‌بی", "بی‍بی", "بي بي"])
+    assert.equal(normalizeBibiText(input), "بی\u200Cبی");
+  assert.equal(normalizeBibiText("بِی بِی"), "بِی\u200Cبِی");
+  assert.equal(normalizeBibiText("بی بیوں"), "بی\u200Cبیوں");
+  assert.equal(normalizeBibiText("بیبیاں"), "بی\u200Cبیاں");
+  assert.equal(normalizeBibiText("علیبیبی"), "علیبیبی");
+});
+
+test("Bibi spelling normalizes Roman variants without altering unrelated words", () => {
+  for (const input of ["Bibi", "Bi Bi", "Bee Bee", "Bi-Bi", "Bi‌Bi"])
+    assert.equal(normalizeBibiText(input), "Bibi");
+  for (const [input, expected] of [["bi bi", "bibi"], ["bibiyan", "bibiyan"],
+    ["habibi", "habibi"], ["BIBI", "BIBI"]])
+    assert.equal(normalizeBibiText(input), expected);
 });
 
 test("the canonical Urdu Bibi non-joiner is intentional, but a joiner is not", () => {

@@ -56,7 +56,7 @@ Use Node.js **24** (minimum **22.23.4**) and `npm ci`. Reuse shared parsers, com
 ```bash
 npm test               # Node models, editorial/content contracts, tokens
 npm run check          # Strict Astro/TypeScript diagnostics
-npm run build          # Tests, stable IDs, Astro, Pagefind and offline manifest
+npm run build          # One unit-test + source-check pass, then Astro, Pagefind and offline manifest
 npm run test:smoke      # Critical Chromium journeys (@smoke)
 npm run test:browser    # Functional Chromium regression, excluding measurements
 npm run perf:assets     # Built file sizes (after build)
@@ -69,13 +69,13 @@ Install Chromium with `npx playwright install chromium`. Browser tests need a pr
 ### Choosing test coverage
 
 - **Unit (`tests/*.test.mjs`):** parser, source identity, storage-independent logic, editorial boundaries and static build contracts. Extend the owning file; do not create a one-test file for a closely related function.
-- **Smoke (`@smoke`):** a small set of representative no-JavaScript reading, responsive navigation, Focus, search, favourites, theme, and Recitation Set creation journeys. Each should protect a distinct critical workflow.
+- **Smoke (`@smoke`):** five core journeys: no-JavaScript readers, homepage/category navigation, saved lyric favourites, search filters, and local Recitation Set creation. Each should protect a distinct critical workflow.
 - **Full browser:** distinct user journeys not represented by smoke: error states, cross-page navigation, backup/restore, editor flows, and publishing. Avoid CSS pixel assertions and repeated device/theme permutations after the shared layout owns them.
 - **Performance (`@perf`):** non-gating Chromium measurements run separately with `npm run perf:browser` rather than making functional CI depend on noisy timing values.
 
-Do not copy a scenario merely to run it in smoke: mark its existing browser test. Test observable behavior and state, not fixed dimensions, individual historical fixes or arbitrary source-page screenshots. Keep a representative check when a dynamic layout algorithm can actually regress; reserve broader device/theme exploration for manual QA. CI retains failure-only screenshots/traces temporarily; these are GitHub Actions artifacts and must not be committed.
+Full Chromium includes these same five smoke tests; CI chooses smoke **or** full, never both. The build hook alone owns unit tests and source/index/ID checks; don't duplicate these in workflow steps. Do not copy a scenario merely to run it in smoke: mark its existing browser test. Test observable behavior and state, not fixed dimensions, individual historical fixes or arbitrary source-page screenshots. Keep a representative check when a dynamic layout algorithm can actually regress; reserve broader device/theme exploration for manual QA. CI retains failure-only screenshots/traces temporarily; these are GitHub Actions artifacts and must not be committed.
 
-**CI:** Every PR/main push runs the production build (including Node tests and stable IDs) plus Chromium smoke. Astro diagnostics run for changed `.astro`, `.ts`, `.tsx`, `.js` or `.jsx` sources, or on scheduled/manual full runs. Full Chromium runs each Sunday and via **Actions → Reader validation → Run workflow** or an explicit `[full-ci]` commit marker. Use `[check-ci]` to force Astro diagnostics on other changes. The full run also generates the complete Basta-and-standalone content review queue; inspect CI for the final commit, not an earlier commit.
+**CI:** Every PR/main push runs a single production build (including Node tests and the unified source/index/ID audit) plus Chromium smoke. Astro diagnostics run for changed `.astro`, `.ts`, `.tsx`, `.js` or `.jsx` sources, or on scheduled/manual full runs. Full Chromium runs each Sunday and via **Actions → Reader validation → Run workflow** or an explicit `[full-ci]` commit marker. Use `[check-ci]` to force Astro diagnostics on other changes. The full run also generates the complete Basta-and-standalone content review queue; inspect CI for the final commit, not an earlier commit.
 
 Never commit `dist/`, `.astro/`, `node_modules/`, temporary test output or R2 binaries. Source edits must keep permanent IDs stable; use `npm run source:sync` for safe in-place identity updates and explicitly review anything it refuses.
 
