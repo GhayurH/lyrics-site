@@ -24,16 +24,16 @@ jobs:
         run: npm run content:bibi:fix
       - name: Synchronize printed Basta index titles
         run: npm run basta:index:sync
-      - name: Report recitation lock changes, if any
-        shell: bash
+      - name: Refresh only verified in-place recitation anchor changes
         run: |
-          npm run recitation:ids:check || true
+          npm run recitation:ids:sync
+          npm run recitation:ids:check
       - name: Commit only revised poetry and index files
         shell: bash
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add src/data/lyrics src/data/basta/pages src/data/basta/roman src/data/basta/index.json
+          git add src/data/lyrics src/data/basta/pages src/data/basta/roman src/data/basta/index.json src/data/recitation/identity-lock.json
           if ! git diff --cached --quiet; then
             git commit -m 'fix: standardize Bibi spelling across Urdu and Roman editions'
             git push origin HEAD:chore/resolve-astro-check-hints-2026-11-02
