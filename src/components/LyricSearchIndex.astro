@@ -1,0 +1,49 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getLyricKalamType } from "../lib/lyrics";
+import { searchIndexAliases } from "../lib/search-normalization";
+interface Props { lyric: CollectionEntry<"lyrics"> }
+const { lyric } = Astro.props as Props;
+const { data } = lyric;
+const category = getLyricKalamType(data);
+const displayHaal = data.romanHaal?.trim() || data.haal;
+const searchTerms = [
+  data.alternateTitle,
+  data.poet,
+  data.reciter,
+  data.occasion,
+  data.haal,
+  data.romanHaal,
+  category,
+  ...data.tags,
+  ...data.aliases,
+].filter(Boolean).join(" ");
+---
+<div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
+      <span data-pagefind-meta="searchTerms">{searchTerms}</span>
+      <span data-pagefind-filter="collection">Lyrics</span>
+      <span data-pagefind-meta="collection">Standalone kalam</span>
+      {data.alternateTitle && <span data-pagefind-meta="roman_title">{data.alternateTitle}</span>}
+      <span data-pagefind-filter="kalamType">{category}</span>
+      <span data-pagefind-filter="language">{data.language}</span>
+
+      {displayHaal && <span data-pagefind-filter="haal">{displayHaal}</span>}
+      {data.poet && <span data-pagefind-filter="poet">{data.poet}</span>}
+      {data.reciter && <span data-pagefind-filter="reciter">{data.reciter}</span>}
+      {data.occasion && <span data-pagefind-filter="occasion">{data.occasion}</span>}
+      {data.tags.map((tag) => <span data-pagefind-filter="tag">{tag}</span>)}
+    </div>
+
+    {/* Index only real poetry. Paragraphs keep distinct source lines apart
+        so Pagefind cannot join them into unreadable search excerpts. */}
+    <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
+      <p>{searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" "))}</p>
+      <p>{data.title}</p>
+      {data.alternateTitle && <p>{data.alternateTitle}</p>}
+      {(lyric.body ?? "").split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+        <p lang={data.lang} dir={data.direction}>{line}</p>
+      ))}
+      {data.romanLyrics?.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+        <p lang="en" dir="ltr">{line}</p>
+      ))}
+    </div>
