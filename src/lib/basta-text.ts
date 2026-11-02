@@ -194,7 +194,8 @@ export function layoutBastaKalam(
         /^(?:بین|Bain)$/iu.test(heading) ||
         isGenreHeading(heading));
     // A standalone attribution is not a title, even if visually short.
-    if (block.end - block.start === 1 && isKnownByline(heading)) {
+    if (block.end - block.start === 1 && isKnownByline(heading) &&
+        !matchesFirstVerse && !isStandAloneHeading) {
       display[block.start].poet = true;
       continue;
     }
