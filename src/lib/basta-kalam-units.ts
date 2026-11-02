@@ -232,8 +232,21 @@ export function buildBastaKalamCatalog(index: BastaKalamIndex[], pages: BastaSou
         positions = starts.map(() => -1);
         previous.issues.push("Ambiguous fragment boundary on page " + page.page);
       }
-    } else if (!starts.length && previous && urduPieces.length === 1) {
-      continuation = 0;
+    } else if (!starts.length && previous) {
+      if (urduPieces.length === 1) {
+        continuation = 0;
+      } else {
+        // A numbered continuation can share a printed page with separately
+        // delimited, unindexed excerpts (e.g. pages 174 and 176). Attach only
+        // the first fragment when its number follows the previous stanza;
+        // the later fragments remain explicitly unassigned.
+        const lastNumber = extractStanzas(previous.parts).stanzas.at(-1)?.number;
+        const openingNumber = normalizePrintedStanzaNumber(
+          urduPieces[0].trim().split("\n")[0],
+        );
+        if (lastNumber !== undefined && openingNumber === lastNumber + 1)
+          continuation = 0;
+      }
     } else if (starts.length) {
       // Extra unindexed fragments: match by a distinctive opening line, not
       // by positional guesswork. Ambiguous names remain unresolved.

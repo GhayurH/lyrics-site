@@ -96,6 +96,28 @@ test("extra unindexed parts are audited instead of assigned to indexed poems", (
 });
 
 
+test("multi-fragment pages retain the numbered continuation but not adjacent poems", () => {
+  const result = buildBastaKalamCatalog([
+    { ...first, page: 173, number: 27, name: "پچھلا مرثیہ" },
+    { ...second, page: 175, number: 28, name: "نیا مرثیہ" },
+  ], [
+    { page: 173, urdu: "پچھلا مرثیہ\n۱\nپہلا\n۲\nدوسرا",
+      roman: "Pichhla marsiya\n1\nPehla\n2\nDusra" },
+    { page: 174, urdu: "۳\nتیسرا\n---***---\nالگ کلام",
+      roman: "3\nTisra\n---***---\nAlag kalam" },
+    { page: 175, urdu: "نیا مرثیہ\n۱\nاوّل\n۲\nدوم",
+      roman: "Naya marsiya\n1\nAwwal\n2\nDom" },
+    { page: 176, urdu: "۳\nسوم\n---***---\nایک الگ شعر\n---***---\nدوسرا الگ شعر",
+      roman: "3\nSom\n---***---\nEk alag sher\n---***---\nDusra alag sher" },
+  ]);
+  assert.deepEqual(result.kalams.map(k => k.pages), [[173, 174], [175, 176]]);
+  assert.deepEqual(result.kalams.map(k => k.stanzas.map(s => s.number)), [[1, 2, 3], [1, 2, 3]]);
+  assert.deepEqual(result.kalams.map(k => k.status), ["ready", "ready"]);
+  assert.equal(result.orphans.length, 3);
+  assert.deepEqual(result.orphans.map(o => o.page), [174, 176, 176]);
+  assert.doesNotMatch(result.kalams[1].urdu, /ایک الگ شعر/);
+});
+
 test("a new indexed poem followed by an unindexed excerpt is not mistaken for a continuation", () => {
   const previous = { ...first, number: 81, page: 137, name: "پچھلا کلام" };
   const current = { ...first, number: 82, page: 138, name: "اے چاند کربلا کے تو نے تو دیکھے" };
