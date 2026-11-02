@@ -84,14 +84,17 @@ export function layoutBastaKalam(
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
   const display: BastaDisplayLine[] = lines.map((line) => {
     const subtitle = line.startsWith("[[subtitle]] ");
-    const visibleText = subtitle ? line.slice("[[subtitle]] ".length) : line;
+    const explicitRefrain = line.startsWith("[[refrain]] ");
+    const visibleText = subtitle ? line.slice("[[subtitle]] ".length)
+      : explicitRefrain ? line.slice("[[refrain]] ".length) : line;
     const stanzaNumber = parseStanzaNumber(visibleText);
     return {
       text: stanzaNumber ?? visibleText,
       subtitle,
       stanzaNumber: stanzaNumber ?? undefined,
       indent: false,
-      verse: false,
+      verse: explicitRefrain,
+      refrain: explicitRefrain,
     };
   });
   const blocks: Array<{ start: number; end: number }> = [];
