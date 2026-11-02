@@ -33,3 +33,14 @@ export function toLyricCardData(
       : undefined,
   };
 }
+
+/** Stable compact API view for the programme builder. */
+export function toRecitationLyricCard(lyric: CollectionEntry<"lyrics">) {
+  return {
+    id: lyric.data.recitationId || lyric.id,
+    title: lyric.data.title,
+    alternateTitle: lyric.data.alternateTitle,
+    kalamType: getLyricKalamType(lyric.data),
+    sourceUrl: "/lyrics/" + lyric.id + "/",
+  };
+}

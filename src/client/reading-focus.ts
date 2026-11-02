@@ -1,8 +1,9 @@
 // File role: Distraction-free reading, deep links, mobile navigation, and viewport position retention.
 import { pageAtReadingLine } from "./reading-position";
+import { visibleReadingAnchor, restoreReadingAnchor, type ReadingAnchor } from "./reading-focus-position";
 import { readingScrollBehavior } from "./viewport";
 
-type Anchor = { node: HTMLElement; top: number };
+type Anchor = ReadingAnchor;
 type ExitSnapshot = { anchor?: Anchor; page?: HTMLElement; pageNumber?: number };
 const FOCUS_FLAG = "__kalamReadingFocus";
 
@@ -46,19 +47,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     return url.pathname + url.search + url.hash;
   }
 
-  const visibleAnchor = (): Anchor | undefined => {
-    for (const y of [0.4, 0.65, 0.25]) {
-      for (const x of [0.5, 0.75, 0.25]) {
-        const candidate = document.elementFromPoint(innerWidth * x, innerHeight * y);
-        if (!(candidate instanceof HTMLElement) || !root.contains(candidate)) continue;
-        const node = candidate.closest<HTMLElement>(
-          ".basta-kalam-text, .lyric-stanza, .basta-reader-page, .basta-original-page, .lyric-reading-panel",
-        ) ?? candidate;
-        return { node, top: node.getBoundingClientRect().top };
-      }
-    }
-    return undefined;
-  };
+  const visibleAnchor = (): Anchor | undefined => visibleReadingAnchor(root);
 
   const saveAnchor = () => { if (active) anchor = visibleAnchor(); };
 
@@ -84,13 +73,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     const page = pages.find((node) => Number(node.dataset.bastaPage) === pageNumber);
     return { anchor: current, page, pageNumber };
   };
-  const restoreAnchor = (saved: Anchor | undefined, scroller: HTMLElement | Window) => {
-    if (!saved?.node.isConnected) return;
-    const delta = saved.node.getBoundingClientRect().top - saved.top;
-    if (Math.abs(delta) < 1) return;
-    if (scroller === window) window.scrollBy(0, delta);
-    else (scroller as HTMLElement).scrollTop += delta;
-  };
+  const restoreAnchor = restoreReadingAnchor;
 
   const optionsOpen = (open: boolean) => {
     controls.dataset.readingOptionsOpen = String(open);
