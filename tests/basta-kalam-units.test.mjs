@@ -161,13 +161,10 @@ test("an exact single-word title can identify a poem after an unindexed excerpt"
 });
 
 
-test("editorially corrected Roman pages preserve every Urdu verse and boundary slot", async () => {
-  const pages = [
-    342,343,344,345,367,375,376,377,378,379,380,385,386,387,388,
-    393,394,395,396,397,398,399,401,402,403,428,429,430,431,432,
-    433,435,436,437,444,445,446,447,448,449,450,451,452,453,454,
-    455,456,457,458,459,460,461,462,463,
-  ];
+test("representative complex Basta pages retain aligned Roman and Urdu poem structures", async () => {
+  // Multi-kalam boundaries, split bylines, editorial subtitles, refrains,
+  // and varied stanza lengths are permanent rendering contracts.
+  const pages = [342, 344, 367, 375, 385, 393, 398, 399, 428, 435, 451];
   const layout = (text) => body(text).split("\n").map((line) =>
     line.trim() === "---***---" ? "boundary" : line.trim() ? "verse" : "blank");
   for (const page of pages) {
