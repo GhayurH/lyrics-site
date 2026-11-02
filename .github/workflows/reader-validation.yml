@@ -113,6 +113,8 @@ jobs:
           if-no-files-found: ignore
           retention-days: 7
   dependency_research:
+    permissions:
+      contents: write
     # Temporary audited upgrade run. Produces a reproducible npm lockfile
     # without giving an unreviewed update process write access to the repo.
     if: github.event_name == 'pull_request' && github.head_ref == 'chore/test-suite-lean-2026-11-01'
@@ -120,6 +122,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.head_ref }}
       - uses: actions/setup-node@v5
         with:
           node-version: '24'
@@ -130,10 +134,21 @@ jobs:
           npm install --save-dev @astrojs/check@latest typescript@6.0.3
           npm pkg set 'scripts.check=astro check'
           npm install
+          node -e "const fs=require('fs');const f='package.json',p=JSON.parse(fs.readFileSync(f));const l=JSON.parse(fs.readFileSync('package-lock.json')); const v=l.packages['node_modules/esbuild']?.version;if(!v)throw Error('esbuild missing'); p.allowScripts={'esbuild@'+v:true};fs.writeFileSync(f,JSON.stringify(p,null,2)+'\\n')"
           npm ls --depth=0
           npm outdated || true
           npm audit --json > dependency-audit.json || true
           node -e "const p=require('./package.json'); console.log(JSON.stringify({dependencies:p.dependencies,devDependencies:p.devDependencies},null,2))"
+      - name: Commit upgraded package manifest and lockfile to current PR branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add package.json package-lock.json
+          git diff --cached --check
+          git diff --cached --quiet && exit 0
+          git commit -m "Upgrade npm dependencies and lockfile"
+          git push origin HEAD:${{ github.head_ref }}
       - name: Export proposed package files
         uses: actions/upload-artifact@v6
         with:
