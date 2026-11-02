@@ -15,6 +15,7 @@ const commands = mode === "--check"
   ? [
       ["Bibi spelling", ["run", "content:bibi:check"]],
       ["Basta index", ["run", "basta:index:check"]],
+      ["Reviewed fragment boundaries", ["run", "basta:fragments:check"]],
       ["Recitation IDs", ["run", "recitation:ids:check"]],
       ["Fragment classification and editorial regression", ["run", "content:review", "--", "--summary", "--regression"]],
     ]
