@@ -133,7 +133,8 @@ test("invalid stored inherited colours never become CSS values", () => {
 });
 
 test("all reading presets have readable text and actions on their actual surfaces", () => {
-  const css = readFileSync("src/styles/tokens.css", "utf8");
+  const css = readFileSync("src/styles/tokens.css", "utf8") + "\n" +
+    readFileSync("src/styles/theme-palettes.css", "utf8");
   const curated = ["paper", "clay", "rosewood", "sage", "ocean", "slate", "dusk", "forest", "plum", "graphite"];
   const value = (id, role) => {
     const prefix = "--preset-" + id + "-" + role + ": ";
