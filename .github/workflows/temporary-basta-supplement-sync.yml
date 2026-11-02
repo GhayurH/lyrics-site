@@ -1,0 +1,51 @@
+name: Temporary reviewed Basta supplement manifest generation
+on:
+  push:
+    branches:
+      - chore/resolve-astro-check-hints-2026-11-02
+permissions:
+  contents: write
+jobs:
+  classify:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: chore/resolve-astro-check-hints-2026-11-02
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - name: Create fingerprinted supplement declarations from the reviewed printed fragments
+        run: |
+          node --input-type=module <<'NODE'
+          import { readFileSync, writeFileSync } from 'node:fs';
+          const approved = "94:2 94:3 108:2 108:4 108:5 110:3 115:3 116:2 117:4 122:4 125:3 128:4 131:4 138:2 140:4 158:2 158:3 159:2 161:2 164:2 168:2 169:2 169:3 172:2 172:3 172:4 174:2 176:2 176:3 177:2 178:2 185:2 185:3 189:2 189:3 189:4 193:2 195:2 201:2 205:2 208:2 222:2 222:3 229:2 229:3 233:2 235:2 241:2 243:2 257:2 264:2 267:2 269:2 269:3 281:2 281:3 285:2 286:2 289:3 289:4 292:2 292:3 293:2 293:3 296:2 300:2 304:2 307:2 313:2 313:3 331:2 331:4 341:3 354:2 354:3 356:2 356:3 356:4 360:2 360:4 362:2 362:3 364:2 366:2 366:3 367:3 372:2 373:2 381:2 382:2 382:3 383:2 388:2 399:2 404:3 416:3 421:2 424:2 425:2 430:2".trim().split(/\s+/);
+          const fragments = {};
+          for (const key of approved) {
+            const [page, part] = key.split(':').map(Number);
+            const file = 'src/data/basta/pages/' + String(page).padStart(3,'0') + '.md';
+            const text = readFileSync(file,'utf8').replace(/^---\r?\n[\s\S]*?\r?\n---(?:\r?\n|$)/,'');
+            const sections = text.split(/^\s*---\*\*\*---\s*$/gm).map(x=>x.trim());
+            const opening = sections[part-1]?.split('\n').find(x=>x.trim())?.trim();
+            if (!opening) throw Error('Unresolvable printed segment: '+key);
+            fragments[key]={role:'supplement',opening,
+              reason:'Separately printed supplementary poem or attribution absent from the printed index'};
+          }
+          const sorted=Object.fromEntries(Object.entries(fragments).sort(([a],[b])=>{
+            const [ap,an]=a.split(':').map(Number),[bp,bn]=b.split(':').map(Number);
+            return ap-bp || an-bn;
+          }));
+          writeFileSync('src/data/basta/fragment-roles.json',JSON.stringify({version:1,fragments:sorted},null,2)+'\n');
+          console.log('Classified '+Object.keys(sorted).length+' supplements');
+          NODE
+      - name: Commit reviewed fragment manifest
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/basta/fragment-roles.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: record source-fingerprinted unindexed poetry exceptions'
+            git push origin HEAD:chore/resolve-astro-check-hints-2026-11-02
+          fi
