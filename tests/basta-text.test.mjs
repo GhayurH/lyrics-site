@@ -194,4 +194,3 @@ test("explicit editorial subtitles and major refrains render without leaking mar
   assert.ok(bastaVerseClassNames(refrain).includes("basta-refrain"));
   assert.ok(bastaVerseClassNames(refrain).includes("basta-verse-poetry"));
 });
-
