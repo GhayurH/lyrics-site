@@ -74,6 +74,13 @@ test("image-only Basta page can have an empty source body", () => {
   assert.equal(file.issues.length, 0);
 });
 
+test("English Basta appendices preserve Latin script without false Urdu-script findings", () => {
+  const file = reviewMarkdown({
+    path: "src/data/basta/pages/471.md", kind: "basta-urdu",
+    text: "---\npage: 471\ncontentKind: english-appendix\noriginalImage: /images/basta/original/471.png\n---\nSalient Features of Soazkhwani",
+  });
+  assert.ok(!file.issues.some(x => x.code === "latin-in-urdu"));
+});
 test("flags other writing systems and the established Roman name conventions", () => {
   const file = reviewMarkdown({ path: "src/data/lyrics/foreign.md", kind: "lyrics",
     text: lyric("سلام", "Hussain and Hassan Αli") });

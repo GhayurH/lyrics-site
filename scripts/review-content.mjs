@@ -51,10 +51,18 @@ function issue(path, line, code, detail) {
 const settings = JSON.parse(await readFile(join(root, "basta/settings.json"), "utf8"));
 for (const page of urdu) {
   const match = romans.get(page.page);
-  if (page.imageOnly || page.fields.contentKind === "english-appendix" ||
-      page.fields.contentKind === "editorial-note") {
+  if (page.imageOnly) {
     if (match?.body.trim())
       issue(match.path, match.bodyLine, "image-only-transcription", "Roman text is present for an image-only Basta page; verify it belongs here");
+    continue;
+  }
+  if (page.fields.contentKind === "editorial-note") continue;
+  if (page.fields.contentKind === "english-appendix") {
+    // This appendix is already English in the original book. A second file
+    // may mirror it for edition parity; it is not a missing translation.
+    if (match?.body && match.body.trim() !== page.body.trim())
+      issue(match.path, match.bodyLine, "appendix-edition-diff",
+        "English appendix duplicate differs from the original source page");
     continue;
   }
   if (!match) {
