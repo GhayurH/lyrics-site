@@ -1,10 +1,11 @@
 // File role: Browser-side programme editor for selecting, arranging, and publishing kalams. The canonical archive is never modified.
 import type { BastaStanza } from "../lib/basta-kalam-units";
-import { elm, button, div, option, move } from "./recitation-builder-ui";
+import { elm, button, option, move } from "./recitation-builder-ui";
 import { sourceWarnings } from "./recitation-source-validation";
 import { publishSharedRecitation, updateSharedLivePosition, deleteSharedRecitation } from "./recitation-remote";
 import type { RecitationDraft, RecitationItem, StanzaRef, RecitationSet } from "../lib/recitation-set";
-import { catalogById, getCatalog, loadBasta, loadCatalog } from "./recitation-catalog";
+import { catalogById, loadBasta, loadCatalog } from "./recitation-catalog";
+import { renderProgrammeSequence, renderCatalogueResults, renderStanzaArrangement } from "./recitation-builder-view";
 import { validateRecitationSet } from "../lib/recitation-set";
 import { readTemplates, saveTemplate, removeTemplate, findTemplate, STARTER_TEMPLATES } from "./recitation-templates";
 import {
@@ -24,7 +25,6 @@ export async function initRecitationBuilder(): Promise<void> {
   // Keep an unfiltered catalog from overwhelming the programme workflow.
   let resultLimit = 8;
   let catalogReady = false;
-  let dragging: string | undefined;
 
   function persist() {
     try { saveDraft(draft); } catch (e) { say((e as Error).message); }
@@ -131,86 +131,31 @@ export async function initRecitationBuilder(): Promise<void> {
     chooser.value = draft.id;
   }
   function renderSequence() {
-    const list = elm<HTMLOListElement>("recite-sequence");
-    list.replaceChildren();
-    elm<HTMLElement>("recite-count").textContent = draft.set.items.length +
-      " kalam" + (draft.set.items.length === 1 ? "" : "s");
-    elm<HTMLElement>("recite-empty").hidden = draft.set.items.length > 0;
-    const programmePanel = document.querySelector<HTMLElement>(".recite-programme");
-    if (programmePanel) programmePanel.dataset.empty = String(draft.set.items.length === 0);
-    draft.set.items.forEach((item, index) => {
-      const metadata = getCatalog(item);
-      const row = document.createElement("li");
-      row.className = "recite-list-row"; row.draggable = true;
-      const name = div("recite-list-info");
-      const strong = document.createElement("strong");
-      const itemTitle = metadata?.title || item.sourceTitle || item.id;
-      strong.textContent = (index + 1) + ". " + itemTitle;
-      if (/[\u0600-\u06ff]/u.test(metadata?.title || "")) { strong.lang = "ur"; strong.dir = "rtl"; }
-      name.append(strong);
-      const sub = document.createElement("small");
-      sub.textContent = (!metadata || !metadata.ready ? "SOURCE UNAVAILABLE — kept in programme · " : "") +
-        (metadata?.type === "Marsiye" ? "Marsiya" : metadata?.type || item.kind) +
-        (item.stanzaSequence ? " · Custom stanzas (" + item.stanzaSequence.length + ")" : "");
-      name.append(sub);
-      const actions = div("recite-list-actions");
-      actions.append(
-        button("↑", () => reorder(index, index - 1), index === 0, `Move ${itemTitle} up`),
-        button("↓", () => reorder(index, index + 1), index === draft.set.items.length - 1, `Move ${itemTitle} down`),
-      );
-      if (metadata?.numbered) {
-        const arrange = button("Arrange stanzas", () => {
-          arranging = item.uid;
-          arrangementTrigger = arrange;
-          // Reveal the editor after the programme rather than under search results.
-          elm<HTMLOListElement>("recite-sequence").after(elm<HTMLElement>("recite-arrangement"));
-          const heading = elm<HTMLElement>("recite-arrangement-heading");
-          heading.tabIndex = -1;
-          heading.scrollIntoView({ block: "start" });
-          heading.focus({ preventScroll: true });
-          void showArrangement();
-        }, false, `Arrange stanzas for ${itemTitle}`);
-        actions.append(arrange);
-      }
-      actions.append(button("Remove", () => {
-        draft.set.items.splice(index, 1); if (arranging === item.uid) arranging = undefined;
+    renderProgrammeSequence(draft, {
+      reorder,
+      arrange(item, trigger) {
+        arranging = item.uid;
+        arrangementTrigger = trigger;
+        // The editor follows programme order and receives focus after a direct action.
+        elm<HTMLOListElement>("recite-sequence").after(elm<HTMLElement>("recite-arrangement"));
+        const heading = elm<HTMLElement>("recite-arrangement-heading");
+        heading.tabIndex = -1;
+        heading.scrollIntoView({ block: "start" });
+        heading.focus({ preventScroll: true });
+        void showArrangement();
+      },
+      remove(item) {
+        const index = draft.set.items.findIndex(candidate => candidate.uid === item.uid);
+        if (index < 0) return;
+        draft.set.items.splice(index, 1);
+        if (arranging === item.uid) arranging = undefined;
         persist(); render();
-      }, false, `Remove ${itemTitle} from programme`));
-      const label = document.createElement("label");
-      label.textContent = "Reciter for " + itemTitle + " (optional)";
-      label.className = "recite-inline-note";
-      const input = document.createElement("input");
-      input.maxLength = 100; input.placeholder = "Assigned reciter";
-      input.value = item.reciter || "";
-      input.addEventListener("change", () => {
-        item.reciter = input.value; persist(); refreshDrafts();
-      });
-      label.append(input);
-      const noteLabel = document.createElement("label");
-      noteLabel.textContent = "Note for " + itemTitle + " (optional)";
-      noteLabel.className = "recite-inline-note";
-      const note = document.createElement("input");
-      note.maxLength = 400; note.placeholder = "Optional note";
-      note.value = item.note || "";
-      note.addEventListener("change", () => { item.note = note.value; persist(); });
-      noteLabel.append(note);
-      row.append(name, actions, label, noteLabel);
-      row.addEventListener("dragstart", (e) => {
-        dragging = item.uid; e.dataTransfer?.setData("text/plain", item.uid);
-        if (e.dataTransfer) e.dataTransfer.effectAllowed = "move";
-      });
-      row.addEventListener("dragover", (e) => {
-        e.preventDefault(); row.classList.add("recite-drag-over");
-      });
-      row.addEventListener("dragleave", () => row.classList.remove("recite-drag-over"));
-      row.addEventListener("drop", (e) => {
-        e.preventDefault(); row.classList.remove("recite-drag-over");
-        const source = draft.set.items.findIndex((x) => x.uid === dragging);
-        if (source >= 0) reorder(source, index);
-        dragging = undefined;
-      });
-      row.addEventListener("dragend", () => { dragging = undefined; row.classList.remove("recite-drag-over"); });
-      list.append(row);
+      },
+      update(item, field, value) {
+        item[field] = value;
+        persist();
+        if (field === "reciter") refreshDrafts();
+      },
     });
   }
   function reorder(from: number, to: number) {
@@ -218,43 +163,16 @@ export async function initRecitationBuilder(): Promise<void> {
     persist(); renderSequence();
   }
   function renderResults() {
-    const query = elm<HTMLInputElement>("recite-search").value.trim().toLocaleLowerCase();
-    const source = elm<HTMLSelectElement>("recite-source").value;
-    const matches = Array.from(catalogById.values()).filter((item) => {
-      if (source !== "all" && item.kind !== source) return false;
-      return !query || (item.title + " " + (item.alternateTitle || "") + " " + item.type)
-        .toLocaleLowerCase().includes(query);
+    renderCatalogueResults(catalogById.values(), {
+      query: elm<HTMLInputElement>("recite-search").value,
+      source: elm<HTMLSelectElement>("recite-source").value,
+      limit: resultLimit,
+    }, item => {
+      if (draft.set.items.length >= 40) { say("A set can contain up to 40 kalams"); return; }
+      draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id, sourceTitle: item.title });
+      persist(); renderSequence(); refreshDrafts();
+      say("Added to programme: " + item.title);
     });
-    const list = elm<HTMLUListElement>("recite-results");
-    list.replaceChildren(...matches.slice(0, resultLimit).map((item) => {
-      const li = document.createElement("li");
-      const label = div("");
-      const title = document.createElement("strong");
-      const view = document.createElement("a");
-      view.href = item.sourceUrl;
-      view.target = "_blank"; view.rel = "noopener noreferrer";
-      view.textContent = item.title;
-      if (/[\u0600-\u06ff]/u.test(item.title)) { view.lang = "ur"; view.dir = "rtl"; }
-      title.append(view); label.append(title);
-      if (item.alternateTitle) label.append(div("recite-hint", item.alternateTitle));
-      const type = document.createElement("small");
-      type.textContent = (item.kind === "basta" ? "Basta · " : "Lyrics · ") + item.type +
-        (!item.ready ? " · Awaiting verification" : "");
-      label.append(type);
-      const add = button("Add", () => {
-        if (draft.set.items.length >= 40) { say("A set can contain up to 40 kalams"); return; }
-        draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id, sourceTitle: item.title });
-        persist(); renderSequence(); refreshDrafts();
-        say("Added to programme: " + item.title);
-      }, !item.ready);
-      li.append(label, add);
-      return li;
-    }));
-    const more = elm<HTMLButtonElement>("recite-more");
-    const remaining = Math.max(0, matches.length - resultLimit);
-    more.hidden = remaining === 0;
-    more.disabled = remaining === 0;
-    more.textContent = remaining ? `Show more (${remaining} remaining)` : "All matching kalams shown";
   }
   function render() {
     elm<HTMLInputElement>("recite-title").value = draft.set.title;
@@ -266,55 +184,13 @@ export async function initRecitationBuilder(): Promise<void> {
     else elm<HTMLElement>("recite-arrangement").hidden = true;
   }
   async function showArrangement() {
-    const item = draft.set.items.find((candidate) => candidate.uid === arranging);
-    const panel = elm<HTMLElement>("recite-arrangement");
-    if (!item) { panel.hidden = true; return; }
-    panel.hidden = false;
-    elm<HTMLElement>("recite-arrangement-title").textContent =
-      getCatalog(item)?.title || item.id;
-    const list = elm<HTMLOListElement>("recite-stanzas");
-    list.replaceChildren(div("recite-hint", "Loading numbered stanzas…"));
-    try {
-      const current = await loadBasta(item.id);
-      if (arranging !== item.uid) return;
-      if (current.sectionRoman !== "Marsiye" || !current.stanzas.length)
-        throw Error("This kalam has no verified numbered stanzas");
-      const sequence = item.stanzaSequence || current.stanzas.map((stanza) =>
-        ({ kalamId: current.id, stanzaId: stanza.id }));
-      const sources = await Promise.all(sequence.map((ref) => loadBasta(ref.kalamId).catch(() => undefined)));
-      if (arranging !== item.uid) return;
-      list.replaceChildren(...sequence.map((ref, index) => {
-        const origin = sources[index];
-        const stanza = origin?.stanzas.find((s) => s.id === ref.stanzaId);
-        const li = document.createElement("li");
-        li.className = "recite-list-row";
-        const description = div("recite-list-info");
-        const name = document.createElement("strong");
-        name.textContent = (index + 1) + ". Stanza " + (stanza?.number ?? "?");
-        const excerpt = document.createElement("small");
-        excerpt.textContent = (origin?.name || ref.kalamId) +
-          (stanza ? " · " + stanza.urdu.split("\n").find((s) => !!s.trim())?.slice(0, 80) :
-            " · SOURCE UNAVAILABLE — reference preserved");
-        description.append(name, excerpt);
-        const actions = div("recite-list-actions");
-        actions.append(
-          button("↑", () => adjustStanza(item, move(sequence, index, index - 1)), index === 0, `Move stanza ${stanza?.number ?? index + 1} up`),
-          button("↓", () => adjustStanza(item, move(sequence, index, index + 1)), index === sequence.length - 1, `Move stanza ${stanza?.number ?? index + 1} down`),
-          button("Remove", () => adjustStanza(item, sequence.filter((_, pos) => pos !== index)), false, `Remove stanza ${stanza?.number ?? index + 1}`),
-        );
-        li.append(description, actions);
-        return li;
-      }));
-      const select = elm<HTMLSelectElement>("recite-borrow-kalam");
-      const before = select.value || current.id;
-      select.replaceChildren(...Array.from(catalogById.values())
-        .filter((v) => v.numbered && v.ready)
-        .map((v) => option(v.id, v.title)));
-      select.value = Array.from(select.options).some((o) => o.value === before) ? before : current.id;
-      await refreshBorrowStanzas();
-    } catch (e) {
-      list.replaceChildren(div("recite-hint", (e as Error).message));
-    }
+    const item = draft.set.items.find(candidate => candidate.uid === arranging);
+    if (!item) { elm<HTMLElement>("recite-arrangement").hidden = true; return; }
+    await renderStanzaArrangement(item, {
+      current: () => arranging === item.uid,
+      adjust: sequence => adjustStanza(item, sequence),
+      refreshBorrow: refreshBorrowStanzas,
+    });
   }
   function adjustStanza(item: RecitationItem, sequence: StanzaRef[]) {
     if (!sequence.length) { say("Keep at least one stanza, or use Restore original"); return; }
