@@ -1,7 +1,7 @@
 // File role: Canonical, source-preserving identities for Basta poems and numbered stanzas.
 // The printed index supplies names; explicit ---***--- breaks supply boundaries.
 // Uncertain mappings are reported, never silently combined with another poem.
-import { extractBastaStanzas, normalizePrintedStanzaNumber, type BastaSourceFragment, type BastaStanza } from "./basta-stanzas.ts";
+import { extractBastaStanzas, normalizePrintedStanzaNumber, type BastaSourceFragment, type BastaStanza, type BastaResolvedStanza } from "./basta-stanzas.ts";
 export { normalizePrintedStanzaNumber } from "./basta-stanzas.ts";
 export type { BastaSourceFragment, BastaStanza, BastaResolvedStanza } from "./basta-stanzas.ts";
 import { splitBastaKalams } from "./basta-text.ts";

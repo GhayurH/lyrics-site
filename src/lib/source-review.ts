@@ -228,7 +228,7 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   }
   // Page-number sequences continue across physical pages; individual fragments may start mid-stanza.
   // Only report repeats/decreases within the same page/fragment, not gaps between pages.
-  for (const part of portions(body)) {
+  for (const part of splitBastaSource(body)) {
     countStanzas(part.text, bodyLine + part.start, path, issues, false);
   }
   return { path, kind, page, imageOnly: fields.imageOnly === "true", body, bodyLine, fields, issues };
