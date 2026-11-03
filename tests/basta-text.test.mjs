@@ -68,27 +68,27 @@ test("kalam separators keep boundaries independent", () => {
 });
 
 test("source fragment parser retains physical line offsets even for empty fragments", () => {
-  const source = "a\\n---***---\\n\\n---***---\\nb\\nc";
+  const source = "a\n---***---\n\n---***---\nb\nc";
   const portions = splitBastaSource(source);
   assert.deepEqual(portions, [
     { start: 0, text: "a" },
     { start: 2, text: "" },
-    { start: 4, text: "b\\nc" },
+    { start: 4, text: "b\nc" },
   ]);
-  assert.deepEqual(splitBastaKalams(source), ["a", "b\\nc"]);
+  assert.deepEqual(splitBastaKalams(source), ["a", "b\nc"]);
 });
 
 test("numbered stanza extraction preserves printed page identities and aligned Roman text", () => {
   const extracted = extractBastaStanzas([
-    { page: 10, urdu: "Opening\\n۱\\nA\\nB", roman: "Opening\\n1\\nRoman A\\nRoman B" },
-    { page: 11, urdu: "۲\\nC\\nD", roman: "2\\nRoman C\\nRoman D" },
+    { page: 10, urdu: "Opening\n۱\nA\nB", roman: "Opening\n1\nRoman A\nRoman B" },
+    { page: 11, urdu: "۲\nC\nD", roman: "2\nRoman C\nRoman D" },
   ]);
   assert.equal(extracted.preface, "Opening");
   assert.deepEqual(extracted.issues, []);
   assert.deepEqual(extracted.stanzas.map(s => [s.id, s.number, s.pages]), [
     ["stanza-001", 1, [10]], ["stanza-002", 2, [11]],
   ]);
-  assert.equal(extracted.stanzas[1].roman, "Roman C\\nRoman D");
+  assert.equal(extracted.stanzas[1].roman, "Roman C\nRoman D");
 });
 
 test("Salam unbroken six lines are three couplets, unlike Marsiya six-line stanzas", () => {
