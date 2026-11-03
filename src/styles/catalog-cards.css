@@ -1,0 +1,39 @@
+/* One listing/card surface for homepage, category, Saved and Recent. */
+/* Canonical lyric cards used by browse, categories, Saved, and Recent. */
+.lyric-list { display: grid; grid-template-columns: repeat(auto-fill,minmax(min(100%,22rem),1fr)); align-items: stretch; gap: .65rem; margin: 1.5rem 0 0; padding: 0; list-style: none; }
+
+.lyric-card { position: relative; width: 100%; min-width: 0; }
+
+.lyric-card-link { display: flex; flex-direction: column; width: 100%; height: 100%; min-width: 0; gap: 0.12rem; overflow: hidden; border: var(--ui-border); border-radius: var(--ui-radius); padding: 0.62rem 2.75rem 0.58rem 0.78rem; padding-inline-end: 3.15rem; background: var(--surface-background); text-decoration: none; }
+
+.lyric-card-link:hover { background: var(--tag-background); }
+
+.lyric-card-unsaveable .lyric-card-link { padding-inline-end: 0.78rem; }
+
+.lyric-card-link:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+
+.lyric-card-title, .lyric-card-roman { width: fit-content; max-width: 100%; }
+
+.lyric-card-title { font-size: 1.15rem; line-height: 2; }
+
+.lyric-card-roman { color: var(--secondary-text); font-size: 0.9rem; text-align: left; }
+
+.lyric-card-meta { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.25rem; }
+
+.lyric-card-meta:empty { display: none; }
+
+.metadata-chip { border-radius: 999px; padding: 0.18rem 0.5rem; background: var(--tag-background); color: var(--secondary-text); font-size: 0.72rem; line-height: 1.35; }
+
+.favorite-icon-button { display: inline-grid; width: var(--ui-target); height: var(--ui-target); min-width: var(--ui-target); min-height: var(--ui-target); place-items: center; flex: 0 0 var(--ui-target); border-radius: var(--ui-radius-tight); padding: 0; }
+
+.favorite-icon-button svg { width: 1.05rem; height: 1.05rem; fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.7; }
+
+.favorite-icon-button[aria-pressed="true"] svg, .favorite-icon-button[data-saved="true"] svg { fill: currentColor; }
+
+.lyric-card-save { position: absolute; top: .35rem; right: .35rem; z-index: 3; width: var(--ui-target); height: var(--ui-target); margin: 0; border-radius: var(--ui-radius-tight); }
+
+.lyric-card-save svg { width: 0.92rem; height: 0.92rem; }
+
+@media (max-width: 700px) {
+.lyric-list { grid-template-columns: minmax(0,1fr); }
+}
