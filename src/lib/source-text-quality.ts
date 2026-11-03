@@ -16,7 +16,7 @@ export function record(issues: ReviewFinding[], path: string, line: number, code
 
 export const arabic = /\p{Script=Arabic}/u;
 export const latin = /\p{Script=Latin}/u;
-undefined /[^\x00-\x7f]/u;
+export const unusualLatin = /[^\x00-\x7f]/u;
 const romanDigits = /[٠-٩۰-۹]/u;
 const commonPlaceholders = /(?:\b(?:TODO|TBD|FIXME|OCR|PLACEHOLDER)\b|\bmissing\s+v\d+(?:-\d+)?\b|\?{2,})/iu;
 const urduUncertainty = /\[[^\]\n]*(?:جزوی\s*طور\s*پر\s*غیر\s*واضح|غیر\s*واضح|واضح\s*نہیں|مبہم|نامعلوم|نامکمل|ناقابل|پڑھ(?:ا|ی|ے)?\s*نہیں\s*(?:جا\s*)?سک(?:ا|ی|ے)?)[^\]\n]*\]/iu;
