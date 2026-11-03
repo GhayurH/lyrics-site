@@ -326,3 +326,12 @@ test("simultaneous organizer edits return 409 rather than silently overwriting",
     request: editRequest(id, "PUT", editToken, secondTab, freshRevision) });
   assert.equal(fresh.status, 200);
 });
+
+test("one canonical validator strips extraneous client and server metadata", () => {
+  const raw = { ...example, privateEditToken: "must-never-persist",
+    items: example.items.map(item => ({ ...item, futureInternalFlag: "ignored" })) };
+  const expected = validateRecitationSet(raw);
+  assert.equal("privateEditToken" in expected, false);
+  assert.equal("futureInternalFlag" in expected.items[0], false);
+  assert.deepEqual(expected, validateDocument(raw));
+});
