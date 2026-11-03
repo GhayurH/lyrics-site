@@ -1,6 +1,6 @@
 // File role: Appearance tabs, color and font preferences, previews, and independent resets.
 import {
-  DEFAULT_PALETTE, PALETTE_KEY, PALETTE_BASE_KEY, readCustomPalette,
+  applyTheme, DEFAULT_PALETTE, PALETTE_KEY, PALETTE_BASE_KEY, readCustomPalette,
   readCustomPaletteBase, readTheme, normalizeCssHex, paletteTextColors,
   type CustomPalette, type ThemeName,
 } from "./theme";
@@ -67,8 +67,12 @@ export function initAppearance(): void {
     };
   };
 
-  const render = (save: boolean) =>
-    renderAppearancePreferences(dialog, fields, note, { selected, palette, fonts }, save);
+  /** Apply/persist preferences once, then render the controls without further storage writes. */
+  const render = (save: boolean) => {
+    const ratio = applyTheme(selected, palette, save);
+    applyFontPreferences(fonts, false);
+    renderAppearancePreferences(dialog, fields, note, { selected, palette, fonts }, ratio);
+  };
 
   // The bootstrap already applied the stored theme before paint. Sync UI
   // without turning an automatic device preference into a manual preference.

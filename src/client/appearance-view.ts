@@ -1,9 +1,9 @@
 // Theme/font presentation only. Preference storage and event handling stay in appearance.ts.
 import {
-  applyTheme, paletteTextColors, paletteContrastScores, PRESET_THEME_GROUPS,
+  paletteTextColors, paletteContrastScores, PRESET_THEME_GROUPS,
   type CustomPalette, type ThemeName, type AdvancedColor,
 } from "./theme";
-import { applyFontPreferences, type FontPreferences } from "./fonts";
+import type { FontPreferences } from "./fonts";
 
 interface AppearanceViewState {
   selected: ThemeName;
@@ -20,10 +20,8 @@ export const APPEARANCE_ADVANCED_NAMES = Object.keys(APPEARANCE_ADVANCED_ROLES) 
 /** Render every appearance control from validated state without persisting automatic theme mode. */
 export function renderAppearancePreferences(
   dialog: HTMLDialogElement, fields: HTMLFieldSetElement, note: HTMLElement,
-  { selected, palette, fonts }: AppearanceViewState, save: boolean,
+  { selected, palette, fonts }: AppearanceViewState, ratio: number,
 ): void {
-  const ratio = applyTheme(selected, palette, save);
-  applyFontPreferences(fonts, false);
   for (const language of ["urdu", "roman"] as const) {
     const select = dialog.querySelector<HTMLSelectElement>("#theme-" + language + "-font");
     if (select) select.value = fonts[language];
