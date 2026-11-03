@@ -270,6 +270,68 @@ test("Basta fits each numbered stanza independently instead of using the longest
   }
 });
 
+test("Basta page scans remain parallel and sticky at wide widths, stacking only when space is tight", async ({ page }) => {
+  await page.setViewportSize({ width: 1600, height: 900 });
+  await page.goto("/basta/138/");
+  for (const edition of ["image", "urdu", "roman"])
+    await page.locator(`[data-reading-column][value="${edition}"]`).check();
+  const outer = page.locator(".basta-page-grid[data-reading-root]");
+  const scan = outer.locator(".basta-original-page");
+  const text = outer.locator(".basta-parallel-kalams-page");
+  await expect(scan).toBeVisible();
+  await expect(text).toBeVisible();
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+
+  const wide = await outer.evaluate(node => {
+    const figure = node.querySelector(".basta-original-page");
+    const image = figure.getBoundingClientRect();
+    const text = node.querySelector(".basta-parallel-kalams-page").getBoundingClientRect();
+    return {
+      parallel: image.right <= text.left + 3 && Math.abs(image.top - text.top) < 20,
+      sticky: getComputedStyle(figure).position === "sticky",
+      width: image.width,
+    };
+  });
+  expect(wide.parallel).toBe(true);
+  expect(wide.sticky).toBe(true);
+  expect(wide.width).toBeGreaterThan(250);
+
+  await page.setViewportSize({ width: 1024, height: 900 });
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("false");
+  const narrow = await outer.evaluate(node => {
+    const image = node.querySelector(".basta-original-page").getBoundingClientRect();
+    const text = node.querySelector(".basta-parallel-kalams-page").getBoundingClientRect();
+    return { stacked: image.bottom <= text.top + 3, width: image.width };
+  });
+  expect(narrow.stacked).toBe(true);
+  expect(narrow.width).toBeGreaterThan(250);
+});
+
+test("continuous Basta pages also float original scans beside bilingual text on wide screens", async ({ page }) => {
+  await page.setViewportSize({ width: 1600, height: 900 });
+  await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
+  for (const edition of ["image", "urdu", "roman"])
+    await page.locator(`[data-reading-column][value="${edition}"]`).check();
+  const target = page.locator('[data-basta-page="138"]');
+  await expect(target).toBeAttached({ timeout: 20000 });
+  const scan = target.locator(".basta-reader-original-image");
+  await expect(scan).toBeVisible({ timeout: 20000 });
+  await expect.poll(() => scan.getAttribute("data-floating-scan"), { timeout: 20000 }).toBe("true");
+  const layout = await target.evaluate(node => {
+    const figure = node.querySelector(".basta-reader-original-image");
+    const image = figure.getBoundingClientRect();
+    const text = node.querySelector(".basta-parallel-kalams-reader").getBoundingClientRect();
+    return {
+      parallel: image.right <= text.left + 3 && Math.abs(image.top - text.top) < 20,
+      sticky: getComputedStyle(figure).position === "sticky",
+      width: image.width,
+    };
+  });
+  expect(layout.parallel).toBe(true);
+  expect(layout.sticky).toBe(true);
+  expect(layout.width).toBeGreaterThan(200);
+});
+
 test("the three-edition lyric reader gives the original scan a full row on wide screens", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");

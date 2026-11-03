@@ -177,6 +177,9 @@
   padding-inline: 0;
 }
 
+/* Basta retains the original side-by-side, floating scan beside its text
+   when the reader container is wider than 76rem. Only narrower containers
+   stack the scan above Urdu/Roman; standalone lyrics have a separate policy. */
 @container reader-shell (max-width: 76rem) {
 .basta-page-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"].basta-page-grid-with-roman,
   .basta-reader-flow[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-reader-page-grid-with-roman {
