@@ -1,0 +1,193 @@
+/* Printed Basta page and kalam typography; both static Astro and streamed readers use this. */
+/* Page-by-page reader */
+.basta-page-grid {
+  display: grid;
+  align-items: start;
+  gap: 1.5rem;
+  margin: 2rem 0 3rem;
+}
+
+.basta-page.basta-page-with-roman {
+  max-width: 96rem;
+}
+
+.basta-original-page {
+  margin: 0;
+  overflow: hidden;
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-card);
+  background: var(--surface-background);
+}
+
+.basta-original-page a {
+  display: block;
+  padding: 0.75rem;
+}
+
+.basta-original-page img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto 1240 / 1754;
+  object-fit: contain;
+}
+
+.basta-page-text {
+  min-width: 0;
+}
+
+.basta-urdu-text {
+  font-family: var(--font-urdu);
+  line-height: var(--reading-active-urdu-leading);
+  text-align: right;
+}
+
+.basta-roman-text {
+  font-family: var(--font-roman);
+  text-align: left;
+}
+
+/* Page reader typography uses the same inherited language defaults as the
+   full-book reader; the shared spacing selector lives in reading-columns.css. */
+.basta-page-reading-controls { margin: 1rem 0 1.5rem; }
+.basta-page-grid[data-reading-root] .basta-original-page { grid-area: scan; }
+.basta-page-grid[data-reading-root]:not(.basta-page-grid-with-roman) .basta-page-urdu { grid-area: urdu; }
+.basta-page-grid[data-reading-root] .basta-urdu-text { font-size: calc(var(--reading-urdu-size) * var(--reading-urdu-optical-scale)); line-height: var(--reading-active-urdu-leading); }
+.basta-page-grid[data-reading-root] .basta-roman-text { font-size: var(--reading-roman-size); line-height: var(--reading-active-roman-leading); }
+
+
+
+/* Kalam layout shared by static and streamed Basta readers. */
+.basta-kalam-text {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  min-width: 0;
+  max-width: 100%;
+  /* Font fitting keeps each verse on one line inside the column. */
+  overflow-x: visible;
+}
+
+/* Direction-aware verse indentation offsets the second verse of a couplet.
+   Six-line stanza endings use separate horizontal framing rules. */
+.basta-verse-line {
+  display: block;
+  white-space: pre-wrap;
+  unicode-bidi: plaintext;
+}
+
+
+.basta-verse-line:empty::before {
+  content: " ";
+  white-space: pre;
+}
+
+/* Opposing inset margins create the alternating couplet silhouette.
+   End padding preserves the separator rule's full width on the first verse. */
+.basta-verse-indent {
+  margin-inline-start: clamp(1.75rem, 6%, 3rem);
+}
+
+.basta-verse-reverse-indent {
+  padding-inline-end: clamp(1.75rem, 6%, 3rem);
+}
+
+/* Each following couplet starts with one horizontal separator. */
+.basta-couplet-separator {
+  border-top: var(--ui-border);
+  margin-block-start: .65em;
+  padding-block-start: .34em;
+}
+
+/* Six-verse stanzas: verses 1–4 use the reverse end inset;
+   the closing pair reuses .basta-verse-indent and stays framed with
+   horizontal rules. No extra inset or blank verse between lines 4 and 5. */
+.basta-six-closing-start {
+  border-top: var(--ui-border);
+}
+
+.basta-six-closing-end {
+  border-bottom: var(--ui-border);
+}
+
+/* Refrains share the closing couplet's rule when both occur together. */
+.basta-refrain {
+  font-weight: 750;
+  border-top: var(--ui-border);
+  margin-block-start: .5em;
+  padding-block-start: .22em;
+}
+
+.basta-refrain-shared-rule {
+  border-top: 0;
+  margin-block-start: 0;
+  padding-block-start: 0;
+}
+
+/* Each edition keeps its own kalam boundaries and natural content height.
+   The browser controller synchronizes percentage scrolled, not row heights. */
+.basta-parallel-kalams {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  min-width: 0;
+}
+/* A divider in each language's own flow rather than a shared-height row. */
+.basta-kalam-break {
+  display: grid;
+  grid-template-columns: minmax(2rem, 1fr) auto minmax(2rem, 1fr);
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  margin: clamp(1.1rem, 2.1vw, 1.65rem) 0;
+  color: var(--secondary-text);
+  font-family: var(--font-roman);
+  line-height: 1;
+  opacity: 0.58;
+}
+.basta-kalam-break::before,
+.basta-kalam-break::after { content: ""; border-top: 1px solid currentColor; }
+.basta-kalam-break > span { display: block; font-size: 0.62rem; line-height: 1; }
+
+/* Page-by-page: scan on the left, two editions inside the text region. */
+.basta-page-grid-with-roman {
+  grid-template-columns: minmax(18rem, 0.78fr) minmax(0, 1.72fr);
+}
+.basta-page-grid-with-roman > .basta-parallel-kalams-page {
+  min-width: 0;
+  grid-area: text;
+}
+.basta-parallel-kalams-page .basta-page-roman {
+  border-right: var(--ui-border);
+  padding-right: clamp(1rem, 2.5vw, 2rem);
+}
+.basta-parallel-kalams-page .basta-page-urdu {
+  padding-left: clamp(1rem, 2.5vw, 2rem);
+}
+
+
+.basta-parallel-kalams-reader .basta-reader-roman,
+.basta-parallel-kalams-reader .basta-reader-urdu { grid-area: auto; }
+
+/* Single-language modes return to a natural, unconstrained column. */
+[data-reading-mode="urdu"] .basta-parallel-kalams-page .basta-page-roman,
+[data-reading-mode="roman"] .basta-parallel-kalams-page .basta-page-urdu { display: none; }
+[data-reading-mode="urdu"] .basta-parallel-kalams,
+[data-reading-mode="roman"] .basta-parallel-kalams {
+  grid-template-columns: minmax(0, var(--reading-single-width));
+  justify-content: center;
+}
+[data-reading-mode="urdu"] .basta-parallel-kalams > .basta-page-urdu,
+[data-reading-mode="roman"] .basta-parallel-kalams > .basta-page-roman,
+[data-reading-mode="urdu"] .basta-parallel-kalams > .basta-reader-urdu,
+[data-reading-mode="roman"] .basta-parallel-kalams > .basta-reader-roman {
+  border: 0;
+  padding-inline: 0;
+}
+
+
+
+/* The continuous reader's generic single-edition grid rule must not override
+   the nested language grid's automatic placement. */
+.basta-reader-flow[data-reading-mode="urdu"] .basta-parallel-kalams-reader > .basta-reader-urdu,
+.basta-reader-flow[data-reading-mode="roman"] .basta-parallel-kalams-reader > .basta-reader-roman {
+  grid-area: auto;
+}

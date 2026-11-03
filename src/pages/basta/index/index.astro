@@ -7,7 +7,9 @@ import ReadingControls from "../../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../../lib/basta";
 import { loadBastaNavigationData } from "../../../lib/basta-pages";
 import indexEntries from "../../../data/basta/index.json";
-import "../../../styles/basta.css";
+import "../../../styles/basta-shell.css";
+import "../../../styles/basta-navigation.css";
+import "../../../styles/basta-index.css";
 import "../../../styles/basta-reader.css";
 
 const entries = indexEntries as BastaIndexEntry[];
