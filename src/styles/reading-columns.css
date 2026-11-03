@@ -177,10 +177,11 @@
   padding-inline: 0;
 }
 
-/* Basta retains the original side-by-side, floating scan beside its text
-   when the reader container is wider than 76rem. Only narrower containers
-   stack the scan above Urdu/Roman; standalone lyrics have a separate policy. */
-@container reader-shell (max-width: 76rem) {
+/* Individual kalam pages cap the reader at 72rem, so the former 76rem
+   threshold made their scans stack at every desktop width. At 64rem both
+   editions plus a readable scan fit; below that, stack for legibility.
+   Standalone lyrics deliberately use a separate top-row scan policy. */
+@container reader-shell (max-width: 64rem) {
 .basta-page-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"].basta-page-grid-with-roman,
   .basta-reader-flow[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-reader-page-grid-with-roman {
     grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important;

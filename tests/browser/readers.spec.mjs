@@ -320,6 +320,42 @@ test("Basta inline scans have no card background, padding, or image border in an
   await expect(scan.locator("img")).toHaveCSS("border-top-left-radius", "0px");
 });
 
+test("Marsiye 117 shows a parallel floating scan on desktop without the solid raster edge", async ({ page }) => {
+  await page.setViewportSize({ width: 1530, height: 964 });
+  await page.goto("/basta/kalam/basta-marsiye-117/");
+  for (const edition of ["image", "urdu", "roman"])
+    await page.locator(`[data-reading-column][value="${edition}"]`).check();
+  const root = page.locator(".basta-page-grid[data-reading-root]");
+  const scan = root.locator(".basta-original-page");
+  const text = root.locator(".basta-parallel-kalams-page");
+  await expect(scan).toBeVisible();
+  await expect(text).toBeVisible();
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+  const wide = await root.evaluate(element => {
+    const scan = element.querySelector(".basta-original-page");
+    const image = scan.getBoundingClientRect();
+    const text = element.querySelector(".basta-parallel-kalams-page").getBoundingClientRect();
+    const img = scan.querySelector(":scope > a > img");
+    return {
+      parallel: image.right <= text.left + 3 && Math.abs(image.top - text.top) < 20,
+      sticky: getComputedStyle(scan).position === "sticky",
+      readable: image.width > 280,
+      frameless: getComputedStyle(scan).borderTopWidth === "0px" &&
+        getComputedStyle(img).borderTopWidth === "0px",
+      cropped: getComputedStyle(img).clipPath === "inset(0.55%)",
+    };
+  });
+  expect(wide).toEqual({ parallel: true, sticky: true, readable: true, frameless: true, cropped: true });
+  await page.setViewportSize({ width: 990, height: 900 });
+  await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("false");
+  const stacked = await root.evaluate(element => {
+    const scan = element.querySelector(".basta-original-page").getBoundingClientRect();
+    const text = element.querySelector(".basta-parallel-kalams-page").getBoundingClientRect();
+    return scan.bottom <= text.top + 3;
+  });
+  expect(stacked).toBe(true);
+});
+
 test("Basta page scans remain parallel and sticky at wide widths, stacking only when space is tight", async ({ page }) => {
   await page.setViewportSize({ width: 1600, height: 900 });
   await page.goto("/basta/138/");

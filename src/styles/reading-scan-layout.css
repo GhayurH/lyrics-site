@@ -42,6 +42,13 @@ html[data-reading-focus="true"] .lyric-reading-grid:not([data-reading-mode="imag
   }
 }
 
+/* Scanned Basta pages have a very thin solid outer raster edge outside
+   the original decorative printed frame. Clip only that outer half-percent;
+   this does not modify source assets or the full-size scan viewer. */
+:is(.basta-original-page, .basta-reader-original-image) img {
+  clip-path: inset(0.55%);
+}
+
 /* A scan follows the poetry only while both occupy the same grid row.
    Its viewport is centred below the visible sticky navigation. */
 [data-floating-scan="true"] {
