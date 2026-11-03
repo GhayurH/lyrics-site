@@ -7,7 +7,7 @@ import type { RecitationDraft, RecitationItem, StanzaRef, RecitationSet } from "
 import { catalogById, loadBasta, loadCatalog } from "./recitation-catalog";
 import { renderProgrammeSequence, renderCatalogueResults, renderStanzaArrangement } from "./recitation-builder-view";
 import { validateRecitationSet } from "../lib/recitation-set";
-import { readTemplates, saveTemplate, removeTemplate, findTemplate, STARTER_TEMPLATES } from "./recitation-templates";
+import { readTemplates, saveTemplate, removeTemplate, findTemplate, STARTER_TEMPLATES, materializeTemplate } from "./recitation-templates";
 import {
   createLocalDraft, draftFromRemote, draftUrl, duplicateDraft, editorUrl,
   findRemoteDraft, publicUrl, readDrafts, readerUrl, removeDraft, saveDraft,
@@ -220,20 +220,7 @@ export async function initRecitationBuilder(): Promise<void> {
     if ((draft.set.items.length || draft.set.title.trim()) &&
         !confirm("Create a new draft? Your existing draft stays saved separately.")) return;
     const next = createLocalDraft();
-    next.set = structuredClone(template.set);
-    next.set.items = next.set.items.map((item) => ({ ...item, uid: crypto.randomUUID() }));
-    delete next.set.live; delete next.set.permanent;
-    if (samples) {
-      const selected = new Set<string>();
-      for (const type of template.suggestedTypes || []) {
-        const item = [...catalogById.values()].find((entry) =>
-          entry.ready && entry.type === type && !selected.has(entry.kind + ":" + entry.id));
-        if (!item) continue;
-        selected.add(item.kind + ":" + item.id);
-        next.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id,
-          sourceTitle: item.title, note: "Example selection for " + type + "; review before publishing" });
-      }
-    }
+    next.set = materializeTemplate(template, samples, catalogById.values());
     setCurrent(next); persist(); render();
     say(samples ? "Added sample kalams. Review every selection before sharing." :
       "Template copied into a new draft.");

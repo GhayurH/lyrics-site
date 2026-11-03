@@ -1,5 +1,6 @@
 // Private organizer credentials and live positions never enter reusable templates.
 import { emptyRecitationSet, validateRecitationSet, type RecitationSet } from "../lib/recitation-set";
+import type { CatalogItem } from "./recitation-catalog";
 export interface ProgrammeTemplate { id: string; name: string; set: RecitationSet; suggestedTypes?: string[] }
 const KEY = "kalam:recitation-templates-v1";
 function starter(id: string,name: string,occasion: string,types: string[]): ProgrammeTemplate {
@@ -35,4 +36,31 @@ export function saveTemplate(name: string, source: RecitationSet): void {
 }
 export function removeTemplate(id: string): void {
   localStorage.setItem(KEY,JSON.stringify(readTemplates().filter((t)=>t.id!==id)));
+}
+
+/** Materialize an independent, unpublished programme from a reusable template.
+ * Private publication capabilities, live pointers and permanent-retention flags
+ * never carry over. Samples are deliberate choices from verified sources.
+ */
+export function materializeTemplate(
+  template: ProgrammeTemplate, withSamples: boolean, catalog: Iterable<CatalogItem>,
+): RecitationSet {
+  const set = structuredClone(template.set);
+  set.items = set.items.map(item => ({ ...item, uid: crypto.randomUUID() }));
+  delete set.live;
+  delete set.permanent;
+  if (!withSamples) return set;
+  const entries = Array.from(catalog);
+  const selected = new Set<string>();
+  for (const type of template.suggestedTypes || []) {
+    const entry = entries.find(item =>
+      item.ready && item.type === type && !selected.has(item.kind + ":" + item.id));
+    if (!entry) continue;
+    selected.add(entry.kind + ":" + entry.id);
+    set.items.push({
+      uid: crypto.randomUUID(), kind: entry.kind, id: entry.id, sourceTitle: entry.title,
+      note: "Example selection for " + type + "; review before publishing",
+    });
+  }
+  return set;
 }
