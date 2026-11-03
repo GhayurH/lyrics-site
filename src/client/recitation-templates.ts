@@ -1,5 +1,5 @@
 // Private organizer credentials and live positions never enter reusable templates.
-import { emptyRecitationSet, validateRecitationSet, type RecitationSet } from "../lib/recitation-set";
+import { emptyRecitationSet, validateRecitationSet, type RecitationSet } from "../lib/recitation-set.ts";
 import type { CatalogItem } from "./recitation-catalog";
 export interface ProgrammeTemplate { id: string; name: string; set: RecitationSet; suggestedTypes?: string[] }
 const KEY = "kalam:recitation-templates-v1";
