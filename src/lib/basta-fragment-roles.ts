@@ -1,7 +1,7 @@
 // Reviewed exceptions are applied ONLY to unindexed source fragments, not to
 // Urdu/Roman content checks or stable recitation IDs. Each decision is tied
 // to its source opening so separator changes cannot hide new mapping errors.
-import { splitBastaSource } from "./basta-kalam-units.ts";
+import { splitBastaKalams } from "./basta-text.ts";
 
 export interface ReviewedFragment {
   role: "supplement" | "continuation";
@@ -40,7 +40,7 @@ export function validateReviewedFragments(
     }
     const [page, part] = key.split(":").map(Number);
     const body = pageBodies.get(page);
-    const current = body && splitBastaSource(body)[part - 1]?.split("\n")
+    const current = body && splitBastaKalams(body)[part - 1]?.split("\n")
       .find(line => line.trim())?.trim();
     const valid = decision.role === "supplement"
       ? orphansByKey.has(key) && assignments[key] === undefined

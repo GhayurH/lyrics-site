@@ -75,9 +75,6 @@ export function bastaKalamId(entry: BastaKalamIndex): string {
   return "basta-" + section + "-" + String(entry.number).padStart(3, "0");
 }
 
-export function splitBastaSource(text: string): string[] {
-  return splitBastaKalams(text);
-}
 export function normalizePrintedStanzaNumber(value: string): number | null {
   const number = stanzaNumberValue(value);
   return number !== null && Number.isSafeInteger(number) && number > 0 ? number : null;
@@ -192,9 +189,9 @@ export function buildBastaKalamCatalog(
     if (previous && page.page !== previous.parts.at(-1)!.page + 1)
       previous = undefined;
     const starts = byPage.get(page.page) || [];
-    const urduPieces = splitBastaSource(page.urdu);
+    const urduPieces = splitBastaKalams(page.urdu);
     if (!urduPieces.length) continue;
-    const romanPieces = page.roman ? splitBastaSource(page.roman) : [];
+    const romanPieces = page.roman ? splitBastaKalams(page.roman) : [];
     const romanMatches = romanPieces.length === urduPieces.length;
     const fragment = (part: number): BastaSourceFragment => ({
       page: page.page, urdu: urduPieces[part],

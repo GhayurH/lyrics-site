@@ -5,7 +5,8 @@ import { readFile, writeFile } from "node:fs/promises";
 import { bastaPageSources } from "./lib/source-files.mjs";
 import { fileURLToPath } from "node:url";
 import { join } from "node:path";
-import { buildBastaKalamCatalog, splitBastaSource } from "../src/lib/basta-kalam-units.ts";
+import { buildBastaKalamCatalog } from "../src/lib/basta-kalam-units.ts";
+import { splitBastaKalams } from "../src/lib/basta-text.ts";
 import { validateReviewedFragments } from "../src/lib/basta-fragment-roles.ts";
 
 const root = fileURLToPath(new URL("../src/data/basta/", import.meta.url));
@@ -32,7 +33,7 @@ const changed = [];
 for (const [key, decision] of Object.entries(updated.fragments)) {
   const [page, part] = key.split(":").map(Number);
   const source = urdu.get(page);
-  const opening = source && splitBastaSource(source.body)[part - 1]
+  const opening = source && splitBastaKalams(source.body)[part - 1]
     ?.split("\n").find(line => line.trim())?.trim();
   if (opening === decision.opening) continue;
   changed.push({ key, before: decision.opening, after: opening });

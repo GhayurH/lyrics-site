@@ -1,7 +1,8 @@
 // Pure stanza-layout contracts; source-specific editorial examples are covered by content validation.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { splitBastaSource, normalizePrintedStanzaNumber } from "../src/lib/basta-kalam-units.ts";
+import { normalizePrintedStanzaNumber } from "../src/lib/basta-kalam-units.ts";
+import { isStanzaNumber, isCreditLine, isGenreHeading, matchesOpeningTitle } from "../src/lib/basta-source-roles.ts";
 import { stanzaNumberValue } from "../src/lib/stanza-numbers.ts";
 import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, isBastaBoundary } from "../src/lib/basta-text.ts";
 
@@ -300,9 +301,17 @@ test("a repeated poem title beginning with a poet-name prefix remains a title", 
 test("readers and editorial mapping share source separators and numeral parsing", () => {
   const text = "one\n \n ---***--- \n two\n\n---***---\nthree";
   assert.equal(isBastaBoundary(" ---***--- "), true);
-  assert.deepEqual(splitBastaKalams(text), splitBastaSource(text));
+  assert.deepEqual(splitBastaKalams(text), ["one", "two", "three"]);
   for (const [printed, value] of [["12", 12], ["١٢.", 12], ["۱۲", 12], ["0", 0]]) {
     assert.equal(stanzaNumberValue(printed), value);
     assert.equal(normalizePrintedStanzaNumber(printed), value > 0 ? value : null);
   }
+});
+
+test("printed source role classifiers respect standalone numerals and headings", () => {
+  assert.equal(isStanzaNumber("۱۲."), true);
+  assert.equal(isStanzaNumber("Line 12"), false);
+  assert.equal(isCreditLine("(بشکریہ شاعر)"), true);
+  assert.equal(isGenreHeading("[قطعہ]"), true);
+  assert.equal(matchesOpeningTitle("گھر سے جب بہر سفر", "گھر سے جب بہر سفر"), true);
 });
