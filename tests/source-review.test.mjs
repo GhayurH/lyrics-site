@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { compareEditions, reviewMarkdown } from "../src/lib/source-review.ts";
+import { compareEditions, reviewMarkdown, reviewPublicationConventions } from "../src/lib/source-review.ts";
 import { normalizeBibiText } from "../src/lib/bibi-spelling.ts";
 
 const basta = (page, urdu, roman) =>
@@ -203,4 +203,35 @@ test("explicit Basta subtitles and refrains are not mistaken for Urdu-script con
     text: urdu + "\nIncorrect Latin prose",
   });
   assert.ok(bad.issues.some(x => x.code === "latin-in-urdu"));
+});
+
+test("publication checks enforce EOF and never require missing Basta Roman", () => {
+  const valid = basta(200, "۱\nالف", undefined) + "\n";
+  const reviewed = reviewMarkdown({ path: "src/data/basta/pages/200.md", kind: "basta-urdu", text: valid });
+  assert.deepEqual(reviewPublicationConventions(reviewed, valid), []);
+  for (const text of [valid.trimEnd(), valid + "\n"]) {
+    const file = reviewMarkdown({ path: reviewed.path, kind: reviewed.kind, text });
+    assert(reviewPublicationConventions(file, text).some(f => f.code === "source-final-newline"));
+  }
+  const emptyRoman = basta(200, "۱\nالف", "") + "\n";
+  const file = reviewMarkdown({ path: reviewed.path, kind: reviewed.kind, text: emptyRoman });
+  assert(reviewPublicationConventions(file, emptyRoman).some(f => f.code === "empty-basta-roman"));
+});
+
+test("publication checks own lyric stanza-number and pairs declarations", () => {
+  const path = "src/data/lyrics/sample.md";
+  const check = (text) => {
+    const file = reviewMarkdown({ path, kind: "lyrics", text });
+    return reviewPublicationConventions(file, text).map(issue => issue.code);
+  };
+  const missing = lyric("پہلی\nدوسری", "First\nSecond") + "\n";
+  assert.equal(check(missing).filter(code => code === "missing-lyric-stanza-number").length, 2);
+  const pairs = lyric("۱\nپہلی\nدوسری", "1\nFirst\nSecond")
+    .replace('kalamType: "Salam"', 'kalamType: "Salam"\nsixVerseLayout: "pairs"') + "\n";
+  assert.equal(check(pairs).filter(code => code === "invalid-six-verse-layout").length, 2);
+  const valid = lyric("۱\n" + Array(6).fill("پہلی").join("\n"),
+    "1\n" + Array(6).fill("First").join("\n"))
+    .replace('kalamType: "Salam"', 'kalamType: "Salam"\nsixVerseLayout: "pairs"') + "\n";
+  assert.deepEqual(check(valid), []);
+  assert.deepEqual(check(pairs.replace('sixVerseLayout: "pairs"', 'published: false\nsixVerseLayout: "pairs"')), []);
 });

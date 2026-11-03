@@ -15,7 +15,7 @@ test("mobile reader settings expand and collapse", async ({ page }) => {
   await expect(toggle).toHaveAttribute("aria-expanded", "false");
 });
 
-test("site header hides on downward scrolling and returns on upward scrolling", async ({ page }) => {
+test("mobile header scroll lifecycle preserves navigation and keyboard focus", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/200/");
   const header = page.locator(".site-header");
@@ -24,25 +24,29 @@ test("site header hides on downward scrolling and returns on upward scrolling", 
   await expect(root).not.toHaveAttribute("data-mobile-header-hidden", "true");
   await page.evaluate(() => window.scrollTo({ top: 650, behavior: "instant" }));
   await expect(root).toHaveAttribute("data-mobile-header-hidden", "true");
-  await expect.poll(() => header.evaluate((node) =>
-    node.getBoundingClientRect().bottom)).toBeLessThanOrEqual(1);
+  await expect.poll(() => header.evaluate(node => node.getBoundingClientRect().bottom))
+    .toBeLessThanOrEqual(1);
   await page.evaluate(() => window.scrollBy({ top: -125, behavior: "instant" }));
   await expect(root).not.toHaveAttribute("data-mobile-header-hidden", "true");
-  await expect(header).toBeVisible();
   await page.evaluate(() => window.scrollTo({ top: 0, behavior: "instant" }));
   await expect(header).toBeVisible();
-});
 
-test("the open mobile navigation never hides during scrolling", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/basta/200/");
+  // Keeping the mobile navigation open overrides scroll-away behavior.
   await page.locator("#mobile-nav-toggle").click();
   await expect(page.locator("#site-navigation")).toBeVisible();
   await page.evaluate(() => window.scrollTo({ top: 650, behavior: "instant" }));
-  await expect(page.locator(".site-header")).toBeVisible();
-  await expect(page.locator("html")).not.toHaveAttribute("data-mobile-header-hidden", "true");
+  await expect(header).toBeVisible();
+  await expect(root).not.toHaveAttribute("data-mobile-header-hidden", "true");
   await page.keyboard.press("Escape");
   await expect(page.locator("#site-navigation")).toBeHidden();
+
+  // Once the menu is closed, keyboard focus still recovers a hidden header.
+  await page.evaluate(() => window.scrollTo({ top: 0, behavior: "instant" }));
+  await page.evaluate(() => window.scrollTo({ top: 650, behavior: "instant" }));
+  await expect(root).toHaveAttribute("data-mobile-header-hidden", "true");
+  await page.evaluate(() => document.querySelector("#theme-toggle").focus({ preventScroll: true }));
+  await expect(root).not.toHaveAttribute("data-mobile-header-hidden", "true");
+  await expect(page.locator("#theme-toggle")).toBeFocused();
 });
 
 test("desktop reader settings compact on scroll without hiding navigation", async ({ page }) => {
@@ -58,16 +62,6 @@ test("desktop reader settings compact on scroll without hiding navigation", asyn
   await expect(controls.locator(".basta-pager")).toBeVisible();
   await controls.locator("[data-reading-regular-toggle]").click();
   await expect(controls.locator(".reading-view-control")).toBeVisible();
-});
-
-test("keyboard focus reveals a retracted mobile header", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/basta/200/", { waitUntil: "domcontentloaded" });
-  await page.evaluate(() => window.scrollTo({ top: 650, behavior: "instant" }));
-  await expect(page.locator("html")).toHaveAttribute("data-mobile-header-hidden", "true");
-  await page.evaluate(() => document.querySelector("#theme-toggle").focus({ preventScroll: true }));
-  await expect(page.locator("html")).not.toHaveAttribute("data-mobile-header-hidden", "true");
-  await expect(page.locator("#theme-toggle")).toBeFocused();
 });
 
 test("Urdu Nastaliq ink clearance preserves verse width across readers", async ({ page }) => {

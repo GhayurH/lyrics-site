@@ -2,13 +2,14 @@
 // Read-only review across standalone lyrics and both editions in each Basta page source.
 // Usage: npm run content:review [-- --json|--markdown|--summary|--strict]
 import { readFile } from "node:fs/promises";
+import { existsSync } from "node:fs";
 import { markdownFiles } from "./lib/source-files.mjs";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { buildBastaKalamCatalog } from "../src/lib/basta-kalam-units.ts";
 import { auditBastaEditorial } from "../src/lib/basta-editorial-audit.ts";
 import { validateReviewedFragments } from "../src/lib/basta-fragment-roles.ts";
-import { reviewMarkdown } from "../src/lib/source-review.ts";
+import { reviewMarkdown, reviewPublicationConventions } from "../src/lib/source-review.ts";
 
 const flags = new Set(process.argv.slice(2));
 const allowed = new Set(["--json", "--markdown", "--csv", "--summary", "--strict", "--regression", "--help"]);
@@ -34,7 +35,10 @@ async function collect(relative, kind) {
   const names = await markdownFiles(dir, relative === "lyrics");
   return Promise.all(names.map(async (file) => {
     const path = "src/data/" + relative + "/" + file.slice(dir.length + 1).replaceAll("\\", "/");
-    return reviewMarkdown({ path, kind, text: await readFile(file, "utf8") });
+    const text = await readFile(file, "utf8");
+    const reviewed = reviewMarkdown({ path, kind, text });
+    reviewed.issues.push(...reviewPublicationConventions(reviewed, text));
+    return reviewed;
   }));
 }
 
@@ -44,6 +48,11 @@ const [lyrics, pagesList] = await Promise.all([
 ]);
 const pages = new Map(pagesList.map(x => [x.page, x]));
 const findings = [...lyrics, ...pagesList].flatMap(x => x.issues);
+// One combined source file per printed Basta page is the publication contract.
+// The legacy separate Roman directory must never silently reappear.
+if (existsSync(join(root, "basta/roman")))
+  findings.push({ path: "src/data/basta/roman", line: 1, code: "legacy-basta-roman",
+    detail: "Separate Basta Roman files are unsupported; keep only the existing Roman literal in its printed-page Markdown" });
 function issue(path, line, code, detail) {
   findings.push({ path, line, code, detail });
 }
@@ -141,6 +150,8 @@ const hardErrors = new Set([
   "duplicate-index", "index-order", "fragment-count", "stanza-number-mismatch",
   "missing-roman-title", "page-metadata", "frontmatter",
   "invalid-stanza-exception", "stale-stanza-exception",
+  "legacy-basta-roman", "source-final-newline", "empty-basta-roman",
+  "missing-lyric-stanza-number", "invalid-six-verse-layout",
 ]);
 const regressions = [];
 if (baseline) {

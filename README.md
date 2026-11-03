@@ -20,7 +20,7 @@ npm run build            # Tests + source integrity, then Astro, Pagefind and of
 npm run preview          # Inspect the built site
 ```
 
-When changing poetry, run `npm run source:sync` and **review its diff** before building. Builds run `source:check` read-only. For integration changes, run `npm run test:browser` against a production build; `test:smoke` selects only critical journeys. Use `npm run content:review` for the editorial review queue and `perf:assets` / `perf:browser` for performance checks. Browser tests require Chromium (`npx playwright install chromium`).
+When changing poetry, run `npm run source:sync` and **review its diff** before building. Builds run `source:check` read-only. For integration changes, run `npm run test:browser` against a production build; `test:smoke` selects tagged critical journeys (which are included in full). Use `npm run content:review` for the editorial review queue and `perf:assets` / `perf:browser` for performance checks. Browser tests require Chromium (`npx playwright install chromium`).
 
 Local Astro preview does not emulate Cloudflare D1 Functions or R2 routing; test those in an appropriate Pages deployment.
 

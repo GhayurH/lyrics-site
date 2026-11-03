@@ -25,10 +25,10 @@ test("Basta page jump opens the requested page", async ({ page }) => {
   await page.getByRole("button", { name: "Go", exact: true }).click();
   await expect(page).toHaveURL(/\/basta\/138\/$/);
   await expect(page.locator("[data-reading-root]")).toBeVisible();
-  // Responsive geometry is checked in the same page-jump journey.
+  // Responsive geometry needs one document, not five redundant page loads.
+  await page.goto("/basta/");
   for (const width of [320, 342, 390, 430, 560]) {
     await page.setViewportSize({ width, height: 844 });
-    await page.goto("/basta/");
     const input = await page.locator("#basta-home-page-number").boundingBox();
     const button = await page.locator(".basta-home-page-jump button").boundingBox();
     expect(Math.abs(input.y - button.y)).toBeLessThan(2);

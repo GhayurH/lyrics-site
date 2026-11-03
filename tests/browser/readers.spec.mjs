@@ -30,7 +30,7 @@ test("printed Basta genre titles, names and near-repeated headings use shared ty
   }
 });
 
-test("edition preferences, Focus mode, and image enlargement work together", async ({ page }) => {
+test("edition preferences, Focus mode, and image enlargement work together @smoke", async ({ page }) => {
   await page.goto("/basta/138/");
   const image = page.locator(".basta-original-page");
   await expect(image).toBeVisible();
@@ -320,7 +320,7 @@ test("Basta inline scans have no card background, padding, or image border in an
   await expect(scan.locator("img")).toHaveCSS("border-top-left-radius", "0px");
 });
 
-test("multi-page Basta kalams show one scan with previous/next navigation", async ({ page }) => {
+test("multi-page Basta kalams show one scan with previous/next navigation @smoke", async ({ page }) => {
   await page.setViewportSize({ width: 1530, height: 964 });
   const route = "/basta/kalam/basta-marsiye-117/";
   await page.goto(route);
@@ -337,6 +337,8 @@ test("multi-page Basta kalams show one scan with previous/next navigation", asyn
   await expect(scans).toHaveCount(2);
   await expect(first).toBeVisible();
   await expect(second).toBeHidden();
+  await expect(first).toHaveCSS("outline-style", "none");
+  await expect(first.locator("img")).toHaveCSS("clip-path", "none");
   await expect(previous).toBeDisabled();
   await expect(next).toBeEnabled();
   await expect(status).toHaveText("Page 284 · 1 of 2");
@@ -346,6 +348,9 @@ test("multi-page Basta kalams show one scan with previous/next navigation", asyn
   await next.click();
   await expect(first).toBeHidden();
   await expect(second).toBeVisible();
+  await expect(second).toHaveCSS("outline-style", "none");
+  await expect(second.locator("img")).toHaveCSS("border-top-width", "0px");
+  await expect(second.locator("img")).toHaveCSS("clip-path", "none");
   await expect(previous).toBeEnabled();
   await expect(next).toBeDisabled();
   await expect(status).toHaveText("Page 285 · 2 of 2");
@@ -419,20 +424,6 @@ test("Marsiye 117 floats an uncropped original scan beside both languages", asyn
     return scan.bottom <= text.top + 3;
   });
   expect(stacked).toBe(true);
-});
-
-test("Basta source anchors never overlay a decorative CSS frame on printed scan pixels", async ({ page }) => {
-  await page.setViewportSize({ width: 1530, height: 964 });
-  await page.goto("/basta/kalam/basta-marsiye-117/#scan-page-284");
-  const first = page.locator("#scan-page-284");
-  const image = first.locator("img");
-  await expect(first).toHaveCSS("outline-style", "none");
-  await expect(image).toHaveCSS("clip-path", "none");
-  await expect(image).toHaveCSS("border-top-width", "0px");
-  await page.goto("/basta/kalam/basta-marsiye-117/#scan-page-285");
-  const additional = page.locator("#scan-page-285");
-  await expect(additional).toHaveCSS("outline-style", "none");
-  await expect(additional.locator("img")).toHaveCSS("clip-path", "none");
 });
 
 test("Basta page scans remain parallel and sticky at wide widths, stacking only when space is tight", async ({ page }) => {

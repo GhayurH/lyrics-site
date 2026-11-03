@@ -2,6 +2,7 @@
 // Findings identify review candidates, not permission to alter uncertain printed wording.
 import { stanzaNumberValue } from "./stanza-numbers.ts";
 import { isBastaBoundary, splitBastaSource } from "./basta-text.ts";
+import { splitLyricStanzas, layoutLyricStanzas } from "./lyric-stanzas.ts";
 import { arabic, latin, unusualLatin, record, checkLines, type ReviewFinding } from "./source-text-quality.ts";
 export type { ReviewFinding } from "./source-text-quality.ts";
 
@@ -235,4 +236,37 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   }
   return { path, kind, page, imageOnly: fields.imageOnly === "true",
     body, bodyLine, roman, romanLine, fields, issues };
+}
+
+/** Publication-wide file conventions run from the single editorial scan, not
+ * from separate filesystem-walking tests. They must never rewrite verse text.
+ * Keep these separate from reviewMarkdown so synthetic parser fixtures need
+ * not include the publication's EOF and numbered-stanza requirements.
+ */
+export function reviewPublicationConventions(file: ReviewedMarkdown, text: string): ReviewFinding[] {
+  const issues: ReviewFinding[] = [];
+  const { path, kind, fields, body, roman } = file;
+  if (!text.endsWith("\n") || text.endsWith("\n\n"))
+    record(issues, path, text.split("\n").length, "source-final-newline",
+      "Published Markdown must have exactly one final newline");
+
+  if (kind === "basta-urdu" && roman !== undefined && !roman.trim())
+    record(issues, path, file.romanLine ?? 2, "empty-basta-roman",
+      "Omit the Roman literal when no transcription exists; never invent missing Roman text");
+
+  if (kind !== "lyrics" || fields.published === "false") return issues;
+  // A paired 4+2/2+2+2 stanza is a layout declaration, not permission to
+  // invent missing lines or ignore an edition with different source text.
+  for (const [label, edition] of [["Urdu", body], ["Roman", roman]] as const) {
+    if (!edition?.trim()) continue;
+    if (!splitLyricStanzas(edition).some(stanza => stanza[0]?.number))
+      record(issues, path, label === "Urdu" ? file.bodyLine : file.romanLine ?? 2,
+        "missing-lyric-stanza-number", label + " edition has no numbered stanza");
+    if (fields.sixVerseLayout === "pairs" &&
+        !layoutLyricStanzas(edition).some(stanza =>
+          stanza.filter(line => !line.number).length === 6))
+      record(issues, path, label === "Urdu" ? file.bodyLine : file.romanLine ?? 2,
+        "invalid-six-verse-layout", label + " pairs layout has no six-verse stanza");
+  }
+  return issues;
 }

@@ -8,11 +8,11 @@ Test **contracts and user journeys**, not the current selector structure. Automa
 | --- | --- |
 | `npm run check` | Astro and TypeScript diagnostics |
 | `npm run build` | Node unit tests + read-only editorial/source/ID regression, then production pages, Pagefind and offline manifest |
-| `npm run test:smoke` | Fast critical Chromium journeys |
-| `npm run test:browser` | Complete functional Chromium suite (already includes smoke) |
+| `npm run test:smoke` | Critical Chromium journeys explicitly tagged `@smoke` |
+| `npm run test:browser` | All functional Chromium journeys, including smoke; excludes opt-in `@perf` |
 | `npm run perf:assets` / `npm run perf:browser` | Opt-in asset and browser performance review |
 
-CI runs a single build and selects **smoke or full**, never both. Full runs on schedule, manual dispatch or the `[full-ci]` marker. Code changes should have diagnostics; all builds inspect source integrity across the entire Markdown corpus. Existing reviewed OCR debt does not make a build fail, but **new findings and structural mapping errors** do. Failure-only traces and screenshots are CI artifacts, not tracked files.
+CI runs **one build** and selects smoke or full, never both. The smoke subset protects no-JS source access, homepage/browse/search, saved lyrics, a local Recitation Set, Basta page navigation, edition controls/Focus, and one-at-a-time kalam scans. Full runs on schedule, manual dispatch or a `[full-ci]` commit marker and includes smoke. Independent browser journeys run in parallel, limited to two CI workers; tests use event/locator assertions rather than arbitrary sleeps. Every build runs the corpus-wide source regression gate once; the separate detailed editorial artifact is reserved for scheduled/manual reviews. Existing reviewed OCR debt does not fail builds, but **new findings and structural mapping errors** do. Failure-only traces and screenshots are CI artifacts, not tracked files.
 
 ## Representative manual matrix
 
@@ -24,7 +24,7 @@ CI runs a single build and selects **smoke or full**, never both. Full runs on s
 | 1440×900 desktop | Parallel alignment, one scrolling long column, sticky scan/toolbar |
 | 200–400% zoom | No page-wide horizontal scroll; very long lines pan **individually** with keyboard access |
 
-Verify that each Basta page stores only existing Roman transcription as a `romanLyrics: |-` frontmatter literal, and that intentionally untranslated pages remain Urdu-only. Audit EOF blank-line cleanup without changing verse spacing, source separators or permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
+Verify each Basta page stores only existing Roman transcription as a `romanLyrics: |-` literal, and that intentionally untranslated pages remain Urdu-only. Poetry Markdown must end with exactly one newline while preserving internal stanza spacing, source separators and permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
 
 ## Journeys to protect
 

@@ -2,6 +2,10 @@ import { defineConfig, devices } from "@playwright/test";
 
 export default defineConfig({
   testDir: "./tests/browser",
+  // Every browser test owns an isolated Playwright context; distribute the
+  // large reader suite across workers instead of serializing the entire file.
+  fullyParallel: true,
+  workers: process.env.CI ? 2 : undefined,
   projects: [
     { name: "chromium", use: { ...devices["Desktop Chrome"] } },
   ],

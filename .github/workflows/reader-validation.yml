@@ -75,10 +75,13 @@ jobs:
       - name: Report JavaScript, CSS, and font asset sizes
         run: npm run perf:assets
       - name: Generate editorial review report (Basta and standalone)
-        if: steps.test_mode.outputs.full == 'true'
+        # The build already runs the complete regression gate. Create the
+        # detailed advisory report only for requested/weekly editorial review,
+        # not again for each [full-ci] PR iteration.
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: npm run --silent content:review -- --markdown > content-review.md
       - name: Save editorial review queue
-        if: steps.test_mode.outputs.full == 'true'
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         uses: actions/upload-artifact@v7
         with:
           name: content-review
