@@ -25,7 +25,7 @@ Keep `src/lib/` free of browser globals. The common browser `client/dom.ts` crea
 | Owner | Contract |
 | --- | --- |
 | `src/data/lyrics/*.md` | Standalone Urdu text and Roman `romanLyrics` metadata |
-| `src/data/basta/{pages,roman}/*.md` | Original printed source and separate Roman transcription |
+| `src/data/basta/pages/*.md` | Printed Urdu body, optional `romanLyrics: |-` block, original scan and page metadata in one file |
 | `src/data/basta/index.json` | Printed index entries, source locations and index identity |
 | `src/data/basta/fragment-roles.json` | Explicitly reviewed non-indexed/continuation fragment decisions |
 | `src/data/recitation/identity-lock.json` | Permanent lyric, kalam and stanza anchors |

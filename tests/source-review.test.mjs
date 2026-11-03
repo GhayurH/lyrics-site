@@ -3,6 +3,13 @@ import assert from "node:assert/strict";
 import { compareEditions, reviewMarkdown } from "../src/lib/source-review.ts";
 import { normalizeBibiText } from "../src/lib/bibi-spelling.ts";
 
+const basta = (page, urdu, roman) =>
+  "---\npage: " + page + "\noriginalImage: /images/basta/original/" +
+  String(page).padStart(3, "0") + ".png\n" +
+  (roman === undefined ? "" : "romanLyrics: |-\n" +
+    roman.split("\n").map(line => line ? "  " + line : "").join("\n") + "\n") +
+  "---\n" + urdu;
+
 const lyric = (urdu, roman) =>
   "---\ntitle: \"سلام\"\nlanguage: \"Urdu\"\nlang: \"ur\"\ndirection: \"rtl\"\nkalamType: \"Salam\"\nromanLyrics: |-\n" +
   roman.split("\n").map(x => "  " + x).join("\n") + "\n---\n" + urdu;
@@ -92,15 +99,22 @@ test("reports empty/broken frontmatter and missing Roman text", () => {
   assert(missing.issues.some(x => x.code === "missing-roman"));
 });
 
-test("Basta metadata, source separators, and physical page continuation are treated separately", () => {
-  const u = reviewMarkdown({ path: "src/data/basta/pages/200.md", kind: "basta-urdu",
-    text: "---\npage: 200\noriginalImage: /images/basta/original/200.png\n---\n۴\nپہلی\n---***---\n۵\nدوسری" });
-  const r = reviewMarkdown({ path: "src/data/basta/roman/200.md", kind: "basta-roman",
-    text: "---\npage: 200\n---\n4\nFirst\n---***---\n5\nSecond" });
-  assert.equal(u.issues.length, 0);
-  assert.equal(r.issues.length, 0);
-  assert.deepEqual(compareEditions(u.body, r.body, u.path, r.path), []);
-  assert(compareEditions(u.body, "4\nFirst", u.path, r.path).some(x => x.code === "fragment-count"));
+test("Basta Roman literal is audited against its Urdu body without external files", () => {
+  const text = basta(200, "۴\nپہلی\n---***---\n۵\nدوسری",
+    "4\nFirst\n---***---\n5\nSecond");
+  const file = reviewMarkdown({ path: "src/data/basta/pages/200.md", kind: "basta-urdu", text });
+  assert.deepEqual(file.issues, []);
+  assert.equal(file.roman, "4\nFirst\n---***---\n5\nSecond");
+  assert.deepEqual(compareEditions(file.body, file.roman, file.path, file.path), []);
+  assert(compareEditions(file.body, "4\nFirst", file.path, file.path)
+    .some(x => x.code === "fragment-count"));
+});
+
+test("missing Basta Roman transcription is deliberately absent, not a regression", () => {
+  const source = reviewMarkdown({ path: "src/data/basta/pages/200.md", kind: "basta-urdu",
+    text: basta(200, "۱\nالف", undefined) });
+  assert.equal(source.roman, undefined);
+  assert(!source.issues.some(issue => issue.code === "missing-roman"));
 });
 
 test("Basta metadata mismatch and verified OCR placeholders are surfaced without changing content", () => {
@@ -151,14 +165,13 @@ test("Basta source review flags prayer notices, not poetic prayer references", (
   const urdu = reviewMarkdown({ path: "src/data/basta/pages/135.md", kind: "basta-urdu", text: sample });
   assert.equal(urdu.issues.filter(x => x.code === "basta-prayer-block").length, 1);
 
-  const roman = [
-    "---", "page: 137", "---",
+  const roman = basta(137, "اردو مصرع", [
     "Kar lijiye iltimas-e-dua hath bandh kar",
     "(Iltimas Surat-e-Fatiha baraye sozkhwan)",
     "Iltimas-e-Fatiha baraye isal-e-sawab",
     "Iltimas-e-dua-e-sehat baraye shair",
-  ].join("\n");
-  const romanFindings = reviewMarkdown({ path: "src/data/basta/roman/137.md", kind: "basta-roman", text: roman });
+  ].join("\n"));
+  const romanFindings = reviewMarkdown({ path: "src/data/basta/pages/137.md", kind: "basta-urdu", text: roman });
   assert.equal(romanFindings.issues.filter(x => x.code === "basta-prayer-block").length, 3);
 });
 

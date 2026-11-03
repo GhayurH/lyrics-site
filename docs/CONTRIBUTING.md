@@ -5,7 +5,7 @@ The repository stores culturally and religiously significant source text. Treat 
 ## Editing poetry
 
 - Standalone poems are `src/data/lyrics/*.md`; source schema is `src/content.config.ts`. Retain required `kalamType` and independently meaningful poet, reciter, language, occasion, `haal` and `romanHaal` metadata. Roman text is a correctly indented `romanLyrics: |-` literal block.
-- Basta Urdu and Roman pages are independent editions under `src/data/basta/`. Preserve printed page numbers, stanza numbers, intentional line breaks, meaningful punctuation and the literal between-kalam `---***---` marker. The printed index is not a reason to invent missing poem boundaries.
+- A Basta page is a single `src/data/basta/pages/NNN.md` record. Its printed Urdu text remains the Markdown body; only an existing Roman transcription belongs in a correctly indented `romanLyrics: |-` frontmatter block. **Never create Roman for pages with no transcription**—absence is intentional. Preserve printed page numbers, stanza numbers, meaningful line breaks, punctuation and the literal between-kalam `---***---` marker. The index is not a reason to invent missing boundaries.
 - Roman house style uses **Husain**, **Hasan**, `ڑ` → `r`, and Urdu `ے` → `e` (distinguish genuine Punjabi readings). Do not remove izafat, commas or meaningful words to make editions artificially align.
 - For **بی‌بی**, retain the canonical U+200C non-joiner; Roman is **Bibi** without a separator. Other invisible code points remain subject to review.
 - Standalone `sixVerseLayout: "pairs"` is used only for reviewed 2+2+2 forms; default six-verse layout is 4+2. Intentional different Urdu/Roman stanza verse counts require a *current* `stanzaLineExceptions` declaration.
@@ -34,6 +34,8 @@ npm run source:sync -- --approve-fragments=138,421
 Use actual reviewed page numbers; never bulk-approve uncertainty. The `fragment-roles.json` record has an exact `page:part` identity, reviewed opening and reason; `supplement` identifies intentionally unindexed poetry and `continuation` links to an existing permanent kalam. Stale or incorrect approvals should fail, not be silently rewritten. The complete editorial queue can be inspected with `npm run content:review` and `-- --markdown`, `-- --json`, `-- --csv`, `-- --summary`, or `-- --strict`.
 
 Stable `recitationId`, Basta IDs and stanza anchors must never be regenerated to match a new filename or verse number. Ambiguous changes require an explicit editorial/identity review. See [Recitation Sets](RECITATION_SETS.md#permanent-source-identity).
+
+Remove extra blank lines at the *end* of poetry Markdown only; keep one final newline and preserve all internal stanza spacing and source wording.
 
 ## Engineering standards
 

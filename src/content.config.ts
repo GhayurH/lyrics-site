@@ -1,4 +1,4 @@
-// File role: Content collection contract: validates lyric metadata plus Basta page and Roman-transliteration records before Astro builds routes.
+// File role: Content collection contract: validates standalone lyrics and single-file bilingual Basta pages before Astro builds routes.
 import { defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 import { z } from "astro/zod";
@@ -68,19 +68,8 @@ const basta = defineCollection({
     contentKind: z.enum(["editorial-note", "english-appendix"]).optional(),
     romanExpected: z.boolean().optional(),
     continuationNote: z.string().optional(),
-    published: z.boolean().default(true),
-  }),
-});
-
-const bastaRoman = defineCollection({
-  loader: glob({
-    pattern: "**/*.md",
-    base: "./src/data/basta/roman",
-    retainBody: true,
-  }),
-
-  schema: z.object({
-    page: z.number().int().positive(),
+    // Only original transcriptions have this block; its absence is intentional.
+    romanLyrics: z.string().optional(),
     published: z.boolean().default(true),
   }),
 });
@@ -88,5 +77,4 @@ const bastaRoman = defineCollection({
 export const collections = {
   lyrics,
   basta,
-  bastaRoman,
 };

@@ -1,7 +1,7 @@
 // Maintain permanently published source IDs: check for accidental changes,
 // or append new IDs after reviewing newly published poems and stanzas.
 import { readFile, writeFile, mkdir } from "node:fs/promises";
-import { markdownFiles, readSourceMarkdown, frontmatterScalar } from "./lib/source-files.mjs";
+import { markdownFiles, readSourceMarkdown, frontmatterScalar, romanLyricsFromHeader } from "./lib/source-files.mjs";
 import { fileURLToPath } from "node:url";
 import { dirname, join, relative, sep } from "node:path";
 import { buildBastaKalamCatalog, bastaKalamId } from "../src/lib/basta-kalam-units.ts";
@@ -37,13 +37,9 @@ const urduPages = await Promise.all((await markdownFiles(join(root, "src/data/ba
   if (frontmatterScalar(head, "published") === "false" ||
       frontmatterScalar(head, "imageOnly") === "true" ||
       frontmatterScalar(head, "contentKind") !== undefined) return null;
-  return { page: Number(frontmatterScalar(head, "page")), urdu: body };
+  return { page: Number(frontmatterScalar(head, "page")), urdu: body, roman: romanLyricsFromHeader(head) };
 }));
-const roman = new Map(await Promise.all((await markdownFiles(join(root, "src/data/basta/roman"), true)).map(async (path) => {
-  const { header: head, body } = await readSourceMarkdown(path);
-  return [Number(frontmatterScalar(head, "page")), body];
-})));
-const pages = urduPages.filter(Boolean).map((p) => ({ ...p, roman: roman.get(p.page) }));
+const pages = urduPages.filter(Boolean);
 const roles = JSON.parse(await readFile(join(root, "src/data/basta/fragment-roles.json"), "utf8"));
 const { kalams } = buildBastaKalamCatalog(sourceIndex, pages, roles.fragments);
 const activeBasta = kalams.map((kalam) => ({

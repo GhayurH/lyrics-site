@@ -5,7 +5,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { bastaPageSources } from "./lib/source-files.mjs";
+import { bastaPageSources, romanLyricsFromHeader } from "./lib/source-files.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const indexPath = path.join(root, "src/data/basta/index.json");
@@ -75,12 +75,13 @@ function similarity(seed, candidate, script) {
     value = Math.max(value, 0.85 * Math.min(a.length, b.length) / Math.max(a.length, b.length) + 0.1);
   return Math.min(value, 1);
 }
-async function loadPages(kind) {
-  const sources = await bastaPageSources(path.join(sourceDir, kind));
-  return new Map([...sources].map(([page, source]) => [
-    page, source.body.replace(/\r\n?/g, "\n").split("\n")
-      .map(line => line.trim()).filter(line => line && line !== "---***---"),
-  ]));
+async function loadPages(script) {
+  const sources = await bastaPageSources(path.join(sourceDir, "pages"));
+  return new Map([...sources].flatMap(([page, source]) => {
+    const text = script === "roman" ? romanLyricsFromHeader(source.header) : source.body;
+    return text === undefined ? [] : [[page, text.replace(/\r\n?/g, "\n").split("\n")
+      .map(line => line.trim()).filter(line => line && line !== "---***---")]];
+  }));
 }
 function bestMatch(label, lines, script) {
   // On ties, prefer the earliest match. Titles and refrains may share wording.
@@ -94,7 +95,7 @@ function bestMatch(label, lines, script) {
 async function main() {
   const original = await fs.readFile(indexPath, "utf8");
   const entries = JSON.parse(original);
-  const [urdu, roman] = await Promise.all([loadPages("pages"), loadPages("roman")]);
+  const [urdu, roman] = await Promise.all([loadPages("urdu"), loadPages("roman")]);
   const warnings = [];
   let changedUrdu = 0, changedRoman = 0;
   const ids = new Set();

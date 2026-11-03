@@ -1,4 +1,4 @@
-// File role: Server-only Basta reader loader: joins Urdu/Roman collections once and produces streamable page chunks around the physical index gap.
+// File role: Server-only Basta reader loader: consumes each page's optional Roman literal and produces streamable chunks around the printed index.
 import { getCollection } from "astro:content";
 import settings from "../data/basta/settings.json";
 import { getBastaStanzaStyleForPage } from "./basta-categories";
@@ -19,16 +19,13 @@ export async function loadBastaReaderDataset(): Promise<BastaReaderDataset> {
   const bookPages = (
     await getCollection("basta", ({ data }) => data.published)
   ).sort((a, b) => a.data.page - b.data.page);
-  const romanPages = await getCollection("bastaRoman", ({ data }) => data.published);
-  const romanByPage = new Map(romanPages.map((entry) => [entry.data.page, entry]));
-
   const visibleEntries = bookPages.filter(
     (entry) => entry.data.page < indexStartPage || entry.data.page > indexEndPage,
   );
   const lastVisiblePage = visibleEntries.at(-1)?.data.page;
 
   const pages: BastaReaderPageData[] = visibleEntries.map((entry) => {
-    const romanText = (romanByPage.get(entry.data.page)?.body ?? "").trim();
+    const romanText = (entry.data.romanLyrics ?? "").trim();
     return {
       page: entry.data.page,
       originalImage: entry.data.originalImage,

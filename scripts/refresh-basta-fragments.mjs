@@ -2,7 +2,7 @@
 // A reviewed fragment's role is durable editorial data; only its opening
 // fingerprint may be reapproved, explicitly by printed page, after an edit.
 import { readFile, writeFile } from "node:fs/promises";
-import { bastaPageSources } from "./lib/source-files.mjs";
+import { bastaPageSources, romanLyricsFromHeader } from "./lib/source-files.mjs";
 import { fileURLToPath } from "node:url";
 import { join } from "node:path";
 import { buildBastaKalamCatalog } from "../src/lib/basta-kalam-units.ts";
@@ -18,13 +18,11 @@ if (!approve && !(args.length === 1 && args[0] === "--check")) {
 }
 const permittedPages = new Set(approve ? args[0].slice("--pages=".length).split(",").map(Number) : []);
 const urdu = await bastaPageSources(join(root, "pages"));
-const roman = new Map([...await bastaPageSources(join(root, "roman"))]
-  .map(([page, source]) => [page, source.body]));
 const sourcePages = [...urdu].filter(([_, data]) =>
   !/^imageOnly:\s*true$/m.test(data.header) &&
   !/^published:\s*false$/m.test(data.header) &&
   !/^contentKind:/m.test(data.header)).map(([page, data]) =>
-    ({ page, urdu: data.body, roman: roman.get(page) }));
+    ({ page, urdu: data.body, roman: romanLyricsFromHeader(data.header) }));
 const manifestPath = join(root, "fragment-roles.json");
 const original = await readFile(manifestPath, "utf8");
 const manifest = JSON.parse(original);

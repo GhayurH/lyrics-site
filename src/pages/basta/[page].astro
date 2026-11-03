@@ -9,7 +9,7 @@ import BastaText from "../../components/BastaText.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
 import { getBastaKalamTypesForPage, getBastaStanzaStyleForPage } from "../../lib/basta-categories";
-import { loadBastaNavigationData, loadBastaRomanByPage } from "../../lib/basta-pages";
+import { loadBastaNavigationData } from "../../lib/basta-pages";
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
 import "../../styles/basta-shell.css";
@@ -28,7 +28,6 @@ export async function getStaticPaths() {
     lastBeforeIndex,
     firstAfterIndex,
   } = await loadBastaNavigationData();
-  const romanByPage = await loadBastaRomanByPage();
 
   return pages.map((entry, index) => {
     const page = entry.data.page;
@@ -47,7 +46,6 @@ export async function getStaticPaths() {
       params: { page: String(page) },
       props: {
         entry,
-        romanEntry: romanByPage.get(page),
         previousHref,
         nextHref,
         availablePages,
@@ -58,7 +56,6 @@ export async function getStaticPaths() {
 
 interface Props {
   entry: CollectionEntry<"basta">;
-  romanEntry?: CollectionEntry<"bastaRoman">;
   previousHref?: string;
   nextHref?: string;
   availablePages: number[];
@@ -66,7 +63,6 @@ interface Props {
 
 const {
   entry,
-  romanEntry,
   previousHref,
   nextHref,
   availablePages,
@@ -75,7 +71,7 @@ const {
 const page = entry.data.page;
 const stanzaStyle = getBastaStanzaStyleForPage(page);
 const urduText = (entry.body ?? "").trim();
-const romanText = (romanEntry?.body ?? "").trim();
+const romanText = (entry.data.romanLyrics ?? "").trim();
 const hasRomanText = romanText.length > 0;
 
 const pageIndexEntries = typedIndexEntries.filter(

@@ -41,3 +41,19 @@ export async function bastaPageSources(directory) {
   }));
   return new Map(entries);
 }
+
+/** Read a two-space-indented Markdown YAML literal without interpreting poetry as YAML keys.
+ * Missing romanLyrics means deliberately untranslated, not an empty translation.
+ */
+export function romanLyricsFromHeader(header) {
+  const lines = header.replace(/\r\n?/gu, "\n").split("\n");
+  const start = lines.findIndex(line => /^romanLyrics:\s*\|-\s*$/u.test(line));
+  if (start < 0) return undefined;
+  const verses = [];
+  for (const line of lines.slice(start + 1)) {
+    if (line.trim() && !/^\s/u.test(line)) break;
+    if (line.trim() && !line.startsWith("  ")) throw Error("Invalid Roman literal indentation");
+    verses.push(line.startsWith("  ") ? line.slice(2) : line);
+  }
+  return verses.join("\n").trimEnd();
+}

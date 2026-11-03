@@ -24,7 +24,7 @@ CI runs a single build and selects **smoke or full**, never both. Full runs on s
 | 1440×900 desktop | Parallel alignment, one scrolling long column, sticky scan/toolbar |
 | 200–400% zoom | No page-wide horizontal scroll; very long lines pan **individually** with keyboard access |
 
-Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
+Verify that each Basta page stores only existing Roman transcription as a `romanLyrics: |-` frontmatter literal, and that intentionally untranslated pages remain Urdu-only. Audit EOF blank-line cleanup without changing verse spacing, source separators or permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
 
 ## Journeys to protect
 

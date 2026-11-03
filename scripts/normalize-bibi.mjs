@@ -12,7 +12,7 @@ if ([...args].some(arg => !["--write", "--check"].includes(arg)) ||
     (args.has("--write") && args.has("--check")))
   throw Error("Use --write or --check, not both");
 const root = fileURLToPath(new URL("../", import.meta.url));
-const dirs = ["src/data/lyrics", "src/data/basta/pages", "src/data/basta/roman"];
+const dirs = ["src/data/lyrics", "src/data/basta/pages"];
 const files = (await Promise.all(dirs.map(dir =>
   markdownFiles(join(root, dir), dir === "src/data/lyrics")
 ))).flat();

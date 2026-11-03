@@ -1,0 +1,115 @@
+name: One-time Basta consolidation
+on:
+  push:
+    branches:
+      - refactor/npm-scripts-repository-audit-2026-11-02
+permissions:
+  contents: write
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - name: Move existing Roman transcriptions into their page Markdown and clean EOF
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import { existsSync, readdirSync, readFileSync, writeFileSync, unlinkSync, rmdirSync } from "node:fs";
+          import { join } from "node:path";
+          const base = "src/data/basta";
+          const pagesDir = join(base, "pages"), romanDir = join(base, "roman");
+          const lyricsDir = "src/data/lyrics";
+          const names = readdirSync(pagesDir).filter(name => name.endsWith(".md"));
+          if (names.length !== 454) throw Error("Unexpected printed Basta page count: " + names.length);
+
+          // Remove only trailing empty lines, not internal stanza gaps or the final source verse.
+          function cleanEOF(text) {
+            return text.replace(/\n(?:[ \t]*\n)*[ \t]*$/u, "\n").replace(/([^\n])$/u, "$1\n");
+          }
+          function readSource(text, path) {
+            const match = /^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/u.exec(text);
+            if (!match) throw Error("Unterminated frontmatter: " + path);
+            return { head: match[1], body: text.slice(match[0].length) };
+          }
+          let moved = 0, whitespaceTrimmed = 0;
+          for (const name of readdirSync(romanDir).filter(name => name.endsWith(".md"))) {
+            const romanPath = join(romanDir, name), pagePath = join(pagesDir, name);
+            if (!existsSync(pagePath)) throw Error("Orphan Roman source: " + romanPath);
+            const roman = readSource(readFileSync(romanPath, "utf8"), romanPath);
+            const page = readSource(readFileSync(pagePath, "utf8"), pagePath);
+            const number = Number(name.slice(0, -3));
+            if (Number(page.head.match(/^page:\s*(\d+)\s*$/mu)?.[1]) !== number ||
+                Number(roman.head.match(/^page:\s*(\d+)\s*$/mu)?.[1]) !== number)
+              throw Error("Printed page mismatch: " + name);
+            if (/^romanLyrics:/mu.test(page.head)) throw Error("Duplicate Roman block: " + name);
+            if (/^published:\s*false\s*$/mu.test(roman.head))
+              throw Error("Unpublished Roman metadata needs manual preservation: " + name);
+            const romanText = roman.body.replace(/\r\n?/gu, "\n")
+              .replace(/\n(?:[ \t]*\n)*[ \t]*$/u, "");
+            if (!romanText.trim()) throw Error("Empty source transcription: " + name);
+            const lines = romanText.split("\n");
+            const restored = lines.map(line => {
+              const plain = line.trimEnd();
+              if (plain !== line) whitespaceTrimmed++;
+              return plain;
+            });
+            const block = restored.map(line => line ? "  " + line : "").join("\n");
+            const merged = cleanEOF("---\n" + page.head + "\nromanLyrics: |-\n" +
+              block + "\n---\n" + page.body);
+            const after = readSource(merged, pagePath);
+            if (after.body.trim() !== page.body.trim())
+              throw Error("Urdu text changed during migration: " + name);
+            const extracted = after.head.split("\nromanLyrics: |-\n")[1].split("\n")
+              .map(line => line.startsWith("  ") ? line.slice(2) : line).join("\n").trimEnd();
+            if (extracted !== restored.join("\n"))
+              throw Error("Roman text changed during migration: " + name);
+            writeFileSync(pagePath, merged, "utf8");
+            unlinkSync(romanPath);
+            moved++;
+          }
+          if (readdirSync(romanDir).length) throw Error("Unexpected files remain in Roman directory");
+          rmdirSync(romanDir);
+
+          for (const dir of [pagesDir, lyricsDir]) {
+            for (const name of readdirSync(dir).filter(name => name.endsWith(".md"))) {
+              const path = join(dir, name);
+              const before = readFileSync(path, "utf8"), after = cleanEOF(before);
+              if (before !== after) writeFileSync(path, after, "utf8");
+            }
+          }
+
+          let present = 0, missing = 0;
+          for (const name of names) {
+            const text = readFileSync(join(pagesDir, name), "utf8");
+            const { head } = readSource(text, name);
+            if (/^romanLyrics:\s*\|-\s*$/mu.test(head)) present++;
+            else missing++;
+            if (!text.endsWith("\n") || text.endsWith("\n\n"))
+              throw Error("Invalid source EOF: " + name);
+          }
+          if (present !== 379 || missing !== 75)
+            throw Error("Roman/Urdu-only counts changed: " + present + "/" + missing);
+          console.log("Merged " + moved + " remaining Roman sources; " + present +
+            " pages have Roman, " + missing + " intentionally do not; trimmed " +
+            whitespaceTrimmed + " nonsemantic trailing spaces in Roman lines.");
+          NODE
+      - name: Install dependencies and verify full source/build contracts
+        run: |
+          npm ci
+          npm run check
+          npm run build
+      - name: Commit verified migration and remove temporary workflow
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/migrate-basta-once.yml
+          git add -A src/data/basta src/data/lyrics
+          git diff --cached --check
+          git commit -m "refactor: consolidate existing Basta Roman sources into page frontmatter"
+          git push origin HEAD:refs/heads/refactor/npm-scripts-repository-audit-2026-11-02

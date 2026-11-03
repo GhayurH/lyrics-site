@@ -7,7 +7,7 @@ export type { ReviewFinding } from "./source-text-quality.ts";
 
 export interface MarkdownSource {
   path: string;
-  kind: "lyrics" | "basta-urdu" | "basta-roman";
+  kind: "lyrics" | "basta-urdu";
   text: string;
 }
 export interface ReviewedMarkdown {
@@ -128,6 +128,23 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
     if (fields.originalImage && imagePage !== page)
       record(issues, path, 2, "image-page-mismatch", "Source image filename does not match printed page " + page);
   }
+  const start = lines.findIndex(l => /^romanLyrics:\s*\|[-+]?\s*$/u.test(l));
+  let roman: string | undefined, romanLine: number | undefined;
+  if (start >= 0) {
+    romanLine = 2 + start + 1;
+    const values: string[] = [];
+    for (const line of lines.slice(start + 1)) {
+      if (line.trim() && !/^[ \t]/u.test(line)) break;
+      if (line.trim() && !/^ {2}/u.test(line)) {
+        record(issues, path, romanLine + values.length, "roman-indentation", "Roman lyrics block has invalid indentation");
+      }
+      values.push(line.startsWith("  ") ? line.slice(2) : line);
+    }
+    roman = values.join("\n").trimEnd();
+  } else if ("romanLyrics" in fields && fields.romanLyrics) {
+    record(issues, path, 2, "roman-format", "Roman text should be a YAML literal block (romanLyrics: |-)");
+  }
+
   if (kind === "lyrics") {
     for (const field of ["title", "language", "lang", "direction", "kalamType"]) {
       if (!fields[field]) record(issues, path, 2, "missing-metadata", "Missing " + field + " field");
@@ -140,22 +157,6 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
       checkLines(path, body, bodyLine, "urdu", issues);
     } else if (fields.lang === "en") checkLines(path, body, bodyLine, "roman", issues);
 
-    const start = lines.findIndex(l => /^romanLyrics:\s*\|[-+]?\s*$/u.test(l));
-    let roman: string | undefined, romanLine: number | undefined;
-    if (start >= 0) {
-      romanLine = 2 + start + 1;
-      const values: string[] = [];
-      for (const line of lines.slice(start + 1)) {
-        if (line.trim() && !/^[ \t]/u.test(line)) break;
-        if (line.trim() && !/^ {2}/u.test(line)) {
-          record(issues, path, romanLine + values.length, "roman-indentation", "Roman lyrics block has invalid indentation");
-        }
-        values.push(line.startsWith("  ") ? line.slice(2) : line);
-      }
-      roman = values.join("\n").trimEnd();
-    } else if ("romanLyrics" in fields && fields.romanLyrics) {
-      record(issues, path, 2, "roman-format", "Roman text should be a YAML literal block (romanLyrics: |-)");
-    }
     if (isUrdu && !roman?.trim()) record(issues, path, 2, "missing-roman", "No Roman Urdu edition found");
     if (roman !== undefined && romanLine !== undefined) {
       checkLines(path, roman, romanLine, "roman", issues);
@@ -201,35 +202,37 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   if (kind === "basta-urdu" && fields.imageOnly !== "true")
     checkLines(path, body, bodyLine, "urdu", issues,
       (page ?? 0) < 85 || fields.contentKind === "english-appendix");
-  if (kind === "basta-roman") checkLines(path, body, bodyLine, "roman", issues);
-  if (kind.startsWith("basta-") && page !== undefined && page >= 85) {
-    // Prayer notices should not be stored as poetry. Only classify
-    // standalone requests, never a verse mentioning iltimas or fatiha.
-    const sourceLines = body.split("\n");
-    // Keep one blank line between paragraphs, not multiple. Courtesy credits
-    // follow the poem/recurring title as their own paragraph.
-    sourceLines.forEach((line, index) => {
-      if (index > 1 && !line.trim() && !sourceLines[index - 1].trim() &&
-          sourceLines[index - 2].trim()) {
-        record(issues, path, bodyLine + index, "basta-excess-blank-lines",
-          "Two or more consecutive blank lines in a Basta source");
-      }
-      if (/^\s*\(?(?:بشکریہ|Bashukriya)(?:\s|[):]|$)/iu.test(line) &&
-          index > 0 && sourceLines[index - 1].trim()) {
-        record(issues, path, bodyLine + index, "basta-courtesy-spacing",
-          "Source acknowledgement should have one blank line above it");
-      }
-    });
-    body.split("\n").forEach((line, index) => {
-      const normalized = line.replace(/\u0640/gu, "").replace(/[\u064B-\u065F]/gu, "").trim();
-      if (/^\(?\s*(?:التماس|iltimas)(?:[\sِ-]*e)?[\sِ-]*(?:(?:سور[ۃہ]|surah|surat)(?:[\s-]*e)?[\s-]*)?(?:فاتحہ|fatiha|fateha|دعا|dua)/iu.test(normalized))
-        record(issues, path, bodyLine + index, "basta-prayer-block", "Prayer/dedication request left in poetry source");
-    });
+  if (kind === "basta-urdu" && roman !== undefined && romanLine !== undefined) {
+    checkLines(path, roman, romanLine, "roman", issues);
+    if (body.trim() && roman.trim())
+      issues.push(...compareEditions(body, roman, path, path, bodyLine, romanLine, false));
   }
-  // Page-number sequences continue across physical pages; individual fragments may start mid-stanza.
-  // Only report repeats/decreases within the same page/fragment, not gaps between pages.
-  for (const part of splitBastaSource(body)) {
-    countStanzas(part.text, bodyLine + part.start, path, issues, false);
+  if (kind === "basta-urdu" && page !== undefined && page >= 85) {
+    // Physical lines and review locations are preserved across both editions.
+    // A Roman literal lives above the Urdu body, but uses the same audit rules.
+    const editions = [{ text: body, line: bodyLine },
+      ...(roman === undefined || romanLine === undefined ? [] : [{ text: roman, line: romanLine }])];
+    for (const edition of editions) {
+      const sourceLines = edition.text.split("\n");
+      sourceLines.forEach((line, index) => {
+        if (index > 1 && !line.trim() && !sourceLines[index - 1].trim() &&
+            sourceLines[index - 2].trim())
+          record(issues, path, edition.line + index, "basta-excess-blank-lines",
+            "Two or more consecutive blank lines in a Basta source");
+        if (/^\s*\(?(?:بشکریہ|Bashukriya)(?:\s|[):]|$)/iu.test(line) &&
+            index > 0 && sourceLines[index - 1].trim())
+          record(issues, path, edition.line + index, "basta-courtesy-spacing",
+            "Source acknowledgement should have one blank line above it");
+        const normalized = line.replace(/\u0640/gu, "").replace(/[\u064B-\u065F]/gu, "").trim();
+        if (/^\(?\s*(?:التماس|iltimas)(?:[\sِ-]*e)?[\sِ-]*(?:(?:سور[ۃہ]|surah|surat)(?:[\s-]*e)?[\s-]*)?(?:فاتحہ|fatiha|fateha|دعا|dua)/iu.test(normalized))
+          record(issues, path, edition.line + index, "basta-prayer-block",
+            "Prayer/dedication request left in poetry source");
+      });
+      // Continuations cross pages. Only detect repeats/decreases inside each fragment.
+      for (const part of splitBastaSource(edition.text))
+        countStanzas(part.text, edition.line + part.start, path, issues, false);
+    }
   }
-  return { path, kind, page, imageOnly: fields.imageOnly === "true", body, bodyLine, fields, issues };
+  return { path, kind, page, imageOnly: fields.imageOnly === "true",
+    body, bodyLine, roman, romanLine, fields, issues };
 }

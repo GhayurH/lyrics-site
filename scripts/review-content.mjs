@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Read-only source review across standalone lyrics and both Basta editions.
+// Read-only review across standalone lyrics and both editions in each Basta page source.
 // Usage: npm run content:review [-- --json|--markdown|--summary|--strict]
 import { readFile } from "node:fs/promises";
 import { markdownFiles } from "./lib/source-files.mjs";
@@ -38,54 +38,32 @@ async function collect(relative, kind) {
   }));
 }
 
-const [lyrics, urdu, roman] = await Promise.all([
+const [lyrics, pagesList] = await Promise.all([
   collect("lyrics", "lyrics"),
   collect("basta/pages", "basta-urdu"),
-  collect("basta/roman", "basta-roman"),
 ]);
-const pages = new Map(urdu.map(x => [x.page, x]));
-const romans = new Map(roman.map(x => [x.page, x]));
-const findings = [...lyrics, ...urdu, ...roman].flatMap(x => x.issues);
+const pages = new Map(pagesList.map(x => [x.page, x]));
+const findings = [...lyrics, ...pagesList].flatMap(x => x.issues);
 function issue(path, line, code, detail) {
   findings.push({ path, line, code, detail });
 }
 const settings = JSON.parse(await readFile(join(root, "basta/settings.json"), "utf8"));
-for (const page of urdu) {
-  const match = romans.get(page.page);
-  if (page.imageOnly) {
-    if (match?.body.trim())
-      issue(match.path, match.bodyLine, "image-only-transcription", "Roman text is present for an image-only Basta page; verify it belongs here");
-    continue;
-  }
-  if (page.fields.contentKind === "editorial-note") continue;
-  if (page.fields.contentKind === "english-appendix") {
-    // This appendix is already English in the original book. A second file
-    // may mirror it for edition parity; it is not a missing translation.
-    if (match?.body && match.body.trim() !== page.body.trim())
-      issue(match.path, match.bodyLine, "appendix-edition-diff",
-        "English appendix duplicate differs from the original source page");
-    continue;
-  }
-  if (!match) {
-    if (page.fields.romanExpected !== "false" &&
-        page.page >= settings.romanLyricsStartPage)
-      issue(page.path, page.bodyLine, "missing-roman", "Roman source Markdown is missing for a page expected to have Roman text");
-    continue;
-  }
-  if (!match.body.trim() || !page.body.trim()) continue;
-  findings.push(...compareEditions(page.body, match.body, page.path, match.path,
-    page.bodyLine, match.bodyLine, false));
-}
-for (const page of roman) {
-  if (!pages.has(page.page))
-    issue(page.path, 2, "orphan-roman", "Roman page has no corresponding Urdu/source page");
+for (const page of pagesList) {
+  if (page.imageOnly && page.roman?.trim())
+    issue(page.path, page.romanLine ?? 2, "image-only-transcription",
+      "Roman text is present for an image-only Basta page; verify it belongs here");
+  // No romanLyrics key means intentionally untranscribed: never generate or require it.
+  if (page.fields.contentKind === "english-appendix" &&
+      page.roman?.trim() && page.roman.trim() !== page.body.trim())
+    issue(page.path, page.romanLine ?? 2, "appendix-edition-diff",
+      "English appendix duplicate differs from the original source page");
 }
 const index = JSON.parse(await readFile(join(root, "basta/index.json"), "utf8"));
 const fragmentRoles = JSON.parse(await readFile(join(root, "basta/fragment-roles.json"), "utf8"));
-const sourcePages = urdu.filter(x => !x.imageOnly &&
+const sourcePages = pagesList.filter(x => !x.imageOnly &&
   x.fields.contentKind !== "english-appendix" &&
   x.fields.contentKind !== "editorial-note").map(x => ({
-  page: x.page, urdu: x.body, roman: romans.get(x.page)?.body || undefined,
+  page: x.page, urdu: x.body, roman: x.roman || undefined,
 }));
 const editorial = auditBastaEditorial(index, sourcePages);
 let catalog;
@@ -106,7 +84,7 @@ for (const item of catalog.kalams) {
   }
 }
 const reviewed = validateReviewedFragments(fragmentRoles,
-  new Map(urdu.map(page => [page.page, page.body])),
+  new Map(pagesList.map(page => [page.page, page.body])),
   catalog.orphans, catalog.assignments);
 for (const finding of reviewed.issues)
   issue("src/data/basta/fragment-roles.json", 1, finding.code,
@@ -147,7 +125,7 @@ for (const f of all) {
 }
 const files = [...byFile].map(([path, issues]) => ({
   path, issues, scan: (() => {
-    const n = Number(path.match(/src\/data\/basta\/(?:pages|roman)\/(\d+)\.md$/)?.[1]);
+    const n = Number(path.match(/src\/data\/basta\/pages\/(\d+)\.md$/)?.[1]);
     if (!Number.isSafeInteger(n) || !n) return null;
     return "https://kalamarchive.com/images/basta/original/" + String(n).padStart(3, "0") + ".png";
   })(),
@@ -161,7 +139,7 @@ const hardErrors = new Set([
   "catalog-error", "basta-index-mapping", "unassigned-fragment",
   "stale-fragment-role", "invalid-fragment-role", "basta-source-mapping",
   "duplicate-index", "index-order", "fragment-count", "stanza-number-mismatch",
-  "missing-roman-title", "orphan-roman", "page-metadata", "frontmatter",
+  "missing-roman-title", "page-metadata", "frontmatter",
   "invalid-stanza-exception", "stale-stanza-exception",
 ]);
 const regressions = [];
@@ -177,7 +155,8 @@ if (baseline) {
   }
 }
 const report = {
-  scanned: { lyrics: lyrics.length, bastaUrdu: urdu.length, bastaRoman: roman.length },
+  scanned: { lyrics: lyrics.length, bastaPages: pagesList.length,
+    bastaPagesWithRoman: pagesList.filter(page => Boolean(page.roman?.trim())).length },
   filesNeedingReview: files.length,
   totalFindings: all.length,
   findingCounts: byCode,
@@ -196,9 +175,10 @@ const report = {
   },
   files,
 };
-const intro = "Audited " + (lyrics.length + urdu.length + roman.length) +
-  " Markdown files (" + lyrics.length + " standalone, " + urdu.length +
-  " Basta Urdu, " + roman.length + " Basta Roman). " + files.length +
+const intro = "Audited " + (lyrics.length + pagesList.length) +
+  " Markdown files (" + lyrics.length + " standalone, " + pagesList.length +
+  " Basta pages, " + pagesList.filter(page => Boolean(page.roman?.trim())).length +
+  " with Roman). " + files.length +
   " files need review (" + all.length + " findings).";
 if (flags.has("--csv")) {
   // UTF-8 BOM lets spreadsheet applications recognize Urdu without re-encoding.
