@@ -25,5 +25,9 @@
 .basta-additional-scan img { display: block; height: auto; max-height: 65dvh; object-fit: contain; margin-inline: auto; }
 .basta-additional-scan > a:last-child { display: block; margin-block: .4rem; }
 
-/* Source anchors highlight the verified printed page, not an unverified pixel region. */
-.basta-kalam-page :is(.basta-original-page > a, .basta-additional-scan > a):target { outline: 3px solid var(--accent-color); outline-offset: .2rem; scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 4rem); }
+/* Source-page anchors scroll the printed scan into view without drawing an
+   artificial outline on top of the scan's own printed decorative border.
+   Keyboard focus indicators remain controlled by the shared accessibility CSS. */
+.basta-kalam-page :is(.basta-original-page > a, .basta-additional-scan > a):target {
+  scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 4rem);
+}
