@@ -310,10 +310,15 @@ test("Basta page scans remain parallel and sticky at wide widths, stacking only 
 test("continuous Basta pages also float original scans beside bilingual text on wide screens", async ({ page }) => {
   await page.setViewportSize({ width: 1600, height: 900 });
   await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
+  // The continuous reader keeps its edition checkboxes inside the compact
+  // Show menu; Playwright cannot check hidden inputs until it is expanded.
+  const options = page.locator("[data-reading-regular-toggle]");
+  await options.click();
   for (const edition of ["image", "urdu", "roman"])
     await page.locator(`[data-reading-column][value="${edition}"]`).check();
   const target = page.locator('[data-basta-page="138"]');
   await expect(target).toBeAttached({ timeout: 20000 });
+  await target.scrollIntoViewIfNeeded();
   const scan = target.locator(".basta-reader-original-image");
   await expect(scan).toBeVisible({ timeout: 20000 });
   await expect.poll(() => scan.getAttribute("data-floating-scan"), { timeout: 20000 }).toBe("true");
