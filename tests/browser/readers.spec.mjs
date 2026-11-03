@@ -234,12 +234,11 @@ test("widening the Roman reader grows stanza type instead of justifying its long
     };
   });
   expect(widest).toEqual({ anchors: 1, natural: true, justified: true, fitted: true });
-  const box = await divider.boundingBox();
-  await page.mouse.move(box.x + box.width / 2, box.y + 30);
-  await page.mouse.down();
-  await page.mouse.move(box.x + box.width / 2 - 220, box.y + 30, { steps: 8 });
-  await page.mouse.up();
-  await expect.poll(async () => Number(await divider.getAttribute("aria-valuenow"))).toBeLessThan(85);
+  // Dragging is covered above. Verify the keyboard's end-stop can also
+  // reduce a grown stanza without leaving the cap applied.
+  await divider.focus();
+  for (let i = 0; i < 5; i++) await page.keyboard.press("Shift+ArrowLeft");
+  await expect(divider).toHaveAttribute("aria-valuenow", "60");
   await expect.poll(async () => stanza.locator(".lyric-verse").first()
     .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize)))
     .toBeLessThan(wideSize - 2);
@@ -248,6 +247,7 @@ test("widening the Roman reader grows stanza type instead of justifying its long
 test("Basta fits each numbered stanza independently instead of using the longest verse in the poem", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/kalam/basta-marsiye-117/");
+  await page.locator('[data-reading-column][value="roman"]').check();
   const panel = page.locator(".basta-page-roman");
   await expect(panel).toBeVisible();
   await expect.poll(() => panel.locator(".poetry-fitted-anchor").count()).toBeGreaterThanOrEqual(7);
