@@ -1,6 +1,6 @@
 // File role: Keep every printed verse on one line without horizontal scrolling.
 // Verse size is automatic; no reader-facing text-size or wrap preference exists.
-import { fitLine, MAX_VERSE_GROWTH } from "../lib/verse-fit";
+import { canUseNaturalVerseSpacing, fitLine, MAX_VERSE_GROWTH } from "../lib/verse-fit";
 
 function readableWidth(verse: HTMLElement): number {
   const style = getComputedStyle(verse);
@@ -49,8 +49,8 @@ function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D, maxGrowth
   if (maxGrowth > 1) {
     const widest = metrics.reduce((a, b) =>
       b.natural / b.available > a.natural / a.available ? b : a);
-    // The naturally widest verse is not justified; only shorter verses
-    // distribute their extra space. This also handles the growth ceiling.
+    // Measure actual un-justified ink after fitting before deciding whether
+    // this line has earned natural alignment. Capped growth can leave it short.
     widest.line.classList.add("poetry-fitted-anchor");
   }
   const pan = readingIsMagnified() && metrics.some(({ base }) => base * ratio < 16);
@@ -78,6 +78,17 @@ function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D, maxGrowth
       const current = Number.parseFloat(line.style.fontSize) || base;
       line.style.fontSize = `${(current * adjustment).toFixed(3)}px`;
     }
+  }
+
+  // Canvas font metrics can differ from the final Nastaliq/Latin shaping.
+  // A DOM Range on the temporarily un-justified candidate measures the
+  // visible glyph run after fitting, including overflow corrections.
+  const candidate = metrics.find(({ line }) => line.classList.contains("poetry-fitted-anchor"));
+  if (candidate) {
+    const range = document.createRange();
+    range.selectNodeContents(candidate.line);
+    if (!canUseNaturalVerseSpacing(range.getBoundingClientRect().width, candidate.available))
+      candidate.line.classList.remove("poetry-fitted-anchor");
   }
 }
 

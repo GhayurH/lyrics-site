@@ -223,17 +223,24 @@ test("widening the Roman reader grows stanza type instead of justifying its long
     .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize));
   const widest = await stanza.evaluate(node => {
     const verses = [...node.querySelectorAll(".lyric-verse")];
+    const anchors = verses.filter(verse => verse.classList.contains("poetry-fitted-anchor"));
     return {
-      anchors: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor")).length,
-      natural: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor"))
-        .every(verse => getComputedStyle(verse).textAlignLast === "start"),
+      anchors: anchors.length,
+      coverage: anchors.map(verse => {
+        const range = document.createRange();
+        range.selectNodeContents(verse);
+        return range.getBoundingClientRect().width / verse.clientWidth;
+      }),
+      natural: anchors.every(verse => getComputedStyle(verse).textAlignLast === "start"),
       justified: verses.filter(verse => !verse.classList.contains("poetry-fitted-anchor"))
         .every(verse => getComputedStyle(verse).textAlignLast === "justify"),
       fitted: verses.every(verse => verse.scrollWidth <= verse.clientWidth + 3 &&
         getComputedStyle(verse).whiteSpace === "nowrap"),
     };
   });
-  expect(widest).toEqual({ anchors: 1, natural: true, justified: true, fitted: true });
+  expect(widest.anchors).toBeLessThanOrEqual(1);
+  expect(widest.natural && widest.justified && widest.fitted).toBe(true);
+  for (const coverage of widest.coverage) expect(coverage).toBeGreaterThanOrEqual(.945);
   // Dragging is covered above. Verify the keyboard's end-stop can also
   // reduce a grown stanza without leaving the cap applied.
   await divider.focus();
@@ -250,7 +257,7 @@ test("Basta fits each numbered stanza independently instead of using the longest
   await page.locator('[data-reading-column][value="roman"]').check();
   const panel = page.locator(".basta-page-roman");
   await expect(panel).toBeVisible();
-  await expect.poll(() => panel.locator(".poetry-fitted-anchor").count()).toBeGreaterThanOrEqual(7);
+  await expect.poll(() => panel.locator(".basta-verse-poetry").count()).toBeGreaterThan(35);
   const groups = await panel.locator(".basta-kalam-text").evaluate(node => {
     const stanzas = [];
     for (const element of node.children) {
@@ -260,13 +267,23 @@ test("Basta fits each numbered stanza independently instead of using the longest
     }
     return stanzas.map(verses => ({
       anchors: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor")).length,
+      justified: verses.every(verse => verse.classList.contains("poetry-fitted-anchor") ||
+        getComputedStyle(verse).textAlignLast === "justify"),
+      coverage: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor"))
+        .map(verse => {
+          const range = document.createRange();
+          range.selectNodeContents(verse);
+          return range.getBoundingClientRect().width / verse.clientWidth;
+        }),
       sizes: verses.map(verse => Number.parseFloat(getComputedStyle(verse).fontSize)),
       fits: verses.every(verse => verse.scrollWidth <= verse.clientWidth + 3),
     }));
   });
   expect(groups).toHaveLength(7);
   for (const [index, group] of groups.entries()) {
-    expect(group.anchors, "stanza " + (index + 1)).toBe(1);
+    expect(group.anchors, "stanza " + (index + 1)).toBeLessThanOrEqual(1);
+    expect(group.justified, "stanza " + (index + 1)).toBe(true);
+    for (const coverage of group.coverage) expect(coverage).toBeGreaterThanOrEqual(.945);
     expect(group.fits, "stanza " + (index + 1)).toBe(true);
     expect(Math.max(...group.sizes) - Math.min(...group.sizes)).toBeLessThan(.1);
   }
