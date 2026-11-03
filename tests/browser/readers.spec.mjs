@@ -203,14 +203,14 @@ test("dragging lyric divider refits one-line verses and supports keyboard and re
   await expect(root).toHaveCSS("flex-direction", "column");
 });
 
-test("widening the Roman reader grows stanza type instead of justifying its longest verse", async ({ page }) => {
+test("widening the Roman column grows the stanza font while every verse stays justified", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");
   const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
   const stanza = page.locator(".lyric-reading-roman .lyric-stanza").first();
   await expect(divider).toBeVisible();
   await expect(divider).toHaveAttribute("aria-valuemax", "85");
-  await expect.poll(() => stanza.locator(".poetry-fitted-anchor").count()).toBe(1);
+  await expect.poll(() => stanza.locator(".lyric-verse").count()).toBeGreaterThan(1);
   const initialSize = await stanza.locator(".lyric-verse").first()
     .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize));
   await divider.focus();
@@ -221,26 +221,15 @@ test("widening the Roman reader grows stanza type instead of justifying its long
     .toBeGreaterThan(initialSize + 2);
   const wideSize = await stanza.locator(".lyric-verse").first()
     .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize));
-  const widest = await stanza.evaluate(node => {
-    const verses = [...node.querySelectorAll(".lyric-verse")];
-    const anchors = verses.filter(verse => verse.classList.contains("poetry-fitted-anchor"));
-    return {
-      anchors: anchors.length,
-      coverage: anchors.map(verse => {
-        const range = document.createRange();
-        range.selectNodeContents(verse);
-        return range.getBoundingClientRect().width / verse.clientWidth;
-      }),
-      natural: anchors.every(verse => getComputedStyle(verse).textAlignLast === "start"),
-      justified: verses.filter(verse => !verse.classList.contains("poetry-fitted-anchor"))
-        .every(verse => getComputedStyle(verse).textAlignLast === "justify"),
-      fitted: verses.every(verse => verse.scrollWidth <= verse.clientWidth + 3 &&
-        getComputedStyle(verse).whiteSpace === "nowrap"),
-    };
-  });
-  expect(widest.anchors).toBeLessThanOrEqual(1);
-  expect(widest.natural && widest.justified && widest.fitted).toBe(true);
-  for (const coverage of widest.coverage) expect(coverage).toBeGreaterThanOrEqual(.945);
+  const lines = await stanza.evaluate(node =>
+    [...node.querySelectorAll(".lyric-verse")].map(verse => ({
+      justified: getComputedStyle(verse).textAlignLast === "justify",
+      nowrap: getComputedStyle(verse).whiteSpace === "nowrap",
+      fits: verse.scrollWidth <= verse.clientWidth + 3,
+    }))
+  );
+  expect(lines.length).toBeGreaterThan(1);
+  expect(lines.every(line => line.justified && line.nowrap && line.fits)).toBe(true);
   // Dragging is covered above. Verify the keyboard's end-stop can also
   // reduce a grown stanza without leaving the cap applied.
   await divider.focus();
@@ -266,31 +255,49 @@ test("Basta fits each numbered stanza independently instead of using the longest
                !element.classList.contains("basta-refrain")) stanzas.at(-1).push(element);
     }
     return stanzas.map(verses => ({
-      anchors: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor")).length,
-      justified: verses.every(verse => verse.classList.contains("poetry-fitted-anchor") ||
-        getComputedStyle(verse).textAlignLast === "justify"),
-      coverage: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor"))
-        .map(verse => {
-          const range = document.createRange();
-          range.selectNodeContents(verse);
-          const style = getComputedStyle(verse);
-          const textWidth = verse.clientWidth -
-            (Number.parseFloat(style.paddingInlineStart) || 0) -
-            (Number.parseFloat(style.paddingInlineEnd) || 0);
-          return range.getBoundingClientRect().width / textWidth;
-        }),
+      justified: verses.every(verse => getComputedStyle(verse).textAlignLast === "justify"),
+      nowrap: verses.every(verse => getComputedStyle(verse).whiteSpace === "nowrap"),
       sizes: verses.map(verse => Number.parseFloat(getComputedStyle(verse).fontSize)),
       fits: verses.every(verse => verse.scrollWidth <= verse.clientWidth + 3),
     }));
   });
   expect(groups).toHaveLength(7);
   for (const [index, group] of groups.entries()) {
-    expect(group.anchors, "stanza " + (index + 1)).toBeLessThanOrEqual(1);
     expect(group.justified, "stanza " + (index + 1)).toBe(true);
-    for (const coverage of group.coverage) expect(coverage).toBeGreaterThanOrEqual(.945);
+    expect(group.nowrap, "stanza " + (index + 1)).toBe(true);
     expect(group.fits, "stanza " + (index + 1)).toBe(true);
     expect(Math.max(...group.sizes) - Math.min(...group.sizes)).toBeLessThan(.1);
   }
+});
+
+test("the three-edition lyric reader gives the original scan a full row on wide screens", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  const grid = page.locator(".lyric-reading-grid");
+  const figure = grid.locator(".lyric-reading-image");
+  const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
+  await expect(figure).toBeVisible();
+  await expect(grid.locator(".lyric-reading-roman")).toBeVisible();
+  await expect(grid.locator(".lyric-reading-urdu")).toBeVisible();
+  await expect(divider).toBeVisible();
+  for (const width of [1440, 1024]) {
+    await page.setViewportSize({ width, height: 900 });
+    await expect.poll(async () => grid.evaluate(element => {
+      const image = element.querySelector(".lyric-reading-image").getBoundingClientRect();
+      const roman = element.querySelector(".lyric-reading-roman").getBoundingClientRect();
+      const urdu = element.querySelector(".lyric-reading-urdu").getBoundingClientRect();
+      return image.width >= 400 && image.bottom <= roman.top + 2 &&
+        Math.abs(roman.top - urdu.top) < 2 && roman.right <= urdu.left + 2;
+    })).toBe(true);
+    await expect(divider).toBeVisible();
+  }
+  // A narrow viewport retains the readable scan and stacks both editions.
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect(figure).toBeVisible();
+  await expect(divider).toBeHidden();
+  const figureWidth = await figure.evaluate(node => node.getBoundingClientRect().width);
+  expect(figureWidth).toBeGreaterThan(250);
 });
 
 test("stacked and single-column editions use only document scrolling", async ({ page }) => {

@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { canUseNaturalVerseSpacing, fitLine, MAX_VERSE_GROWTH } from "../src/lib/verse-fit.ts";
+import { fitLine, MAX_VERSE_GROWTH, MIN_VERSE_COVERAGE } from "../src/lib/verse-fit.ts";
 
 test("a naturally short stanza line grows rather than stretching its word spaces", () => {
   const fitted = fitLine(20, 500, 250);
@@ -34,11 +34,11 @@ test("unmeasurable lines retain their original size", () => {
   assert.equal(fitLine(24, 500, 300, 0), 24);
 });
 
-test("longest lines justify when capped growth leaves a substantial right gap", () => {
-  assert.equal(canUseNaturalVerseSpacing(970, 1000), true);
-  assert.equal(canUseNaturalVerseSpacing(950, 1000), true);
-  assert.equal(canUseNaturalVerseSpacing(940, 1000), false);
-  assert.equal(canUseNaturalVerseSpacing(760, 1000), false);
-  assert.equal(canUseNaturalVerseSpacing(NaN, 1000), false);
-  assert.equal(canUseNaturalVerseSpacing(500, 0), false);
+test("95% coverage controls growth only, not verse justification", () => {
+  assert.equal(MIN_VERSE_COVERAGE, 0.95);
+  assert.equal(fitLine(24, 1000, 950), 24);
+  assert.equal(fitLine(24, 1000, 970), 24);
+  assert.ok(fitLine(24, 1000, 940) > 24);
+  assert.equal(fitLine(24, 1000, 200), 24 * MAX_VERSE_GROWTH);
+  assert.ok(fitLine(24, 1000, 1010) < 24);
 });

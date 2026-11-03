@@ -1,32 +1,33 @@
 /* Floating scan geometry: sticky alongside columns, static when stacked. */
-@container reader-shell (max-width: 76rem) {
-/* When three independent columns would make verses unreasonably narrow,
-     show a centred, viewport-bounded scan above the two parallel text editions.
-     The scan must not expand to the entire page width or remain sticky on a
-     different row from the poetry. */
-  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-    > .lyric-reading-image:not([data-floating-scan="true"]) {
-    justify-self: center;
-    width: min(100%,var(--reading-scan-width));
-    padding: clamp(.5rem,1.5vw,1rem);
-  }
+/* A three-edition standalone lyric needs an actual legible scan, rather
+   than the thumbnail produced by a third narrow grid track on desktop. */
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+  > .lyric-reading-image {
+  justify-self: center;
+  align-self: start;
+  position: static;
+  top: auto;
+  width: min(100%,var(--reading-scan-width));
+  height: auto;
+  max-height: none;
+  padding: clamp(.5rem,1.5vw,1rem);
+}
 
 .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-    > .lyric-reading-image:not([data-floating-scan="true"]) > a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-  }
+  > .lyric-reading-image > a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
 
 .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-    > .lyric-reading-image:not([data-floating-scan="true"]) img {
-    display: block;
-    width: auto;
-    max-width: 100%;
-    max-height: min(67dvh,44rem);
-    margin-inline: auto;
-  }
+  > .lyric-reading-image img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: min(78dvh,55rem);
+  margin-inline: auto;
 }
 
 @container reader-shell (max-width: 46rem) {

@@ -1,6 +1,6 @@
 // File role: Keep every printed verse on one line without horizontal scrolling.
 // Verse size is automatic; no reader-facing text-size or wrap preference exists.
-import { canUseNaturalVerseSpacing, fitLine, MAX_VERSE_GROWTH } from "../lib/verse-fit";
+import { fitLine, MAX_VERSE_GROWTH } from "../lib/verse-fit";
 
 function readableWidth(verse: HTMLElement): number {
   const style = getComputedStyle(verse);
@@ -15,9 +15,8 @@ function naturalWidth(verse: HTMLElement, ctx: CanvasRenderingContext2D): number
   return ctx.measureText(verse.textContent?.trim() ?? "").width;
 }
 
-/** Keep one font size within each stanza, scaling up when its longest line
- * would otherwise acquire stretched word spacing. */
-
+/** Match stanza type size to its longest natural line while keeping every
+ * displayed verse fully justified. */
 function readingIsMagnified(): boolean {
   // Desktop browser zoom reduces the CSS viewport without shrinking the outer window.
   // Pinch zoom on mobile is reported separately by VisualViewport.scale.
@@ -27,7 +26,7 @@ function readingIsMagnified(): boolean {
 function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D, maxGrowth = MAX_VERSE_GROWTH): void {
   for (const line of lines) {
     line.style.removeProperty("font-size");
-    line.classList.remove("poetry-overflow-line", "poetry-fitted-anchor");
+    line.classList.remove("poetry-overflow-line");
     if (line.dataset.zoomPan === "true") {
       line.removeAttribute("tabindex");
       line.removeAttribute("aria-label");
@@ -41,18 +40,11 @@ function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D, maxGrowth
   }).filter(({ base, available }) => base > 0 && available > 0);
   if (!metrics.length) return;
 
-  // The tightest natural-width/available-width ratio determines the font
-  // scale for the whole stanza. When the chosen width exceeds its glyphs,
-  // grow instead of relying on justify to insert exaggerated word spaces.
+  // The tightest natural-width/available-width ratio sizes the stanza.
+  // Grow when the longest line covers under 95% of its text track; every
+  // line stays justified, including when the maximum growth is reached.
   const ratio = Math.min(...metrics.map(({ base, available, natural }) =>
     natural > 0 ? fitLine(base, available, natural, maxGrowth) / base : 1));
-  if (maxGrowth > 1) {
-    const widest = metrics.reduce((a, b) =>
-      b.natural / b.available > a.natural / a.available ? b : a);
-    // Measure actual un-justified ink after fitting before deciding whether
-    // this line has earned natural alignment. Capped growth can leave it short.
-    widest.line.classList.add("poetry-fitted-anchor");
-  }
   const pan = readingIsMagnified() && metrics.some(({ base }) => base * ratio < 16);
   for (const { line, base } of metrics) {
     if (pan) {
@@ -80,16 +72,6 @@ function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D, maxGrowth
     }
   }
 
-  // Canvas font metrics can differ from the final Nastaliq/Latin shaping.
-  // A DOM Range on the temporarily un-justified candidate measures the
-  // visible glyph run after fitting, including overflow corrections.
-  const candidate = metrics.find(({ line }) => line.classList.contains("poetry-fitted-anchor"));
-  if (candidate) {
-    const range = document.createRange();
-    range.selectNodeContents(candidate.line);
-    if (!canUseNaturalVerseSpacing(range.getBoundingClientRect().width, candidate.available))
-      candidate.line.classList.remove("poetry-fitted-anchor");
-  }
 }
 
 function fitStanza(stanza: HTMLElement, ctx: CanvasRenderingContext2D): void {

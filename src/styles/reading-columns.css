@@ -44,7 +44,13 @@
 
 .lyric-reading-grid[data-reading-columns] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr)); }
 
-.lyric-reading-grid[data-reading-columns~="image"] { grid-template-areas: "image roman urdu"; grid-template-columns: minmax(0,.38fr) minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr)); max-width: none; }
+/* With all three editions selected, the image spans a full row and the
+   bilingual text uses the existing adjustable two-column split below. */
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
+  grid-template-areas: "image image" "roman urdu";
+  grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr));
+  max-width: none;
+}
 
 /* Include the selected text edition in each two-column selector so image-only
    pages never reserve an empty text track. */
@@ -172,11 +178,6 @@
 }
 
 @container reader-shell (max-width: 76rem) {
-.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
-    grid-template-areas: "image image" "roman urdu";
-    grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr));
-  }
-
 .basta-page-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"].basta-page-grid-with-roman,
   .basta-reader-flow[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-reader-page-grid-with-roman {
     grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important;
