@@ -301,7 +301,7 @@ test("Basta inline scans have no card background, padding, or image border in an
     await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
     await page.locator("[data-reading-focus-enter]").click();
     await expect(scan).toHaveCSS("background-color", "rgba(0, 0, 0, 0)");
-    await expect(scan.locator(":scope > a > img")).toHaveCSS("border-top-width", "0px");
+    await expect(scan.locator(":scope > a:not([hidden]) > img")).toHaveCSS("border-top-width", "0px");
   }
 
   // Streamed pages use a separate figure, but share the same frameless scan
