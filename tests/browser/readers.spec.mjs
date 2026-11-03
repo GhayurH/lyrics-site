@@ -273,7 +273,11 @@ test("Basta fits each numbered stanza independently instead of using the longest
         .map(verse => {
           const range = document.createRange();
           range.selectNodeContents(verse);
-          return range.getBoundingClientRect().width / verse.clientWidth;
+          const style = getComputedStyle(verse);
+          const textWidth = verse.clientWidth -
+            (Number.parseFloat(style.paddingInlineStart) || 0) -
+            (Number.parseFloat(style.paddingInlineEnd) || 0);
+          return range.getBoundingClientRect().width / textWidth;
         }),
       sizes: verses.map(verse => Number.parseFloat(getComputedStyle(verse).fontSize)),
       fits: verses.every(verse => verse.scrollWidth <= verse.clientWidth + 3),
