@@ -29,10 +29,10 @@ romanLyrics: |-
   Husain kiya hai namaz kiya hai
   
   2
-  namaz ki ibteda wuzu hai
+  namaz ki ibtida wuzu hai
   to us ko pani se benayazi
   
-  namaz ji inteha taharat
+  namaz ki intiha taharat
   Husain shaahkar e pak daaman
   
   namaz hai baarha ibadat
