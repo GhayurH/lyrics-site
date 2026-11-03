@@ -29,5 +29,8 @@
    artificial outline on top of the scan's own printed decorative border.
    Keyboard focus indicators remain controlled by the shared accessibility CSS. */
 .basta-kalam-page :is(.basta-original-page > a, .basta-additional-scan > a):target {
+  /* Fragment navigation focuses the anchor in Chromium; avoid the generic
+     focus ring looking like a second border around the printed scan. */
+  outline: 0;
   scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 4rem);
 }
