@@ -19,10 +19,9 @@ function renderKalamBreak(): HTMLElement {
   return separator;
 }
 
-/** One scan renderer for image-only pages and synchronized parallel pages. */
-function renderOriginalImage(page: BastaReaderPageData, sync = false): HTMLElement {
+/** One scan renderer for image-only pages and parallel pages. */
+function renderOriginalImage(page: BastaReaderPageData): HTMLElement {
   const figure = node("figure", "basta-reader-original-image");
-  if (sync) figure.dataset.syncedScrollPanel = "";
   const image = node("img");
   image.src = page.originalImage;
   image.alt = `Original scan of Basta page ${page.page}`;
@@ -52,7 +51,6 @@ function renderParallelText(page: BastaReaderPageData): HTMLElement {
   const roman = node("section", "basta-reader-column basta-reader-roman");
   roman.lang = "en";
   roman.dir = "ltr";
-  roman.dataset.syncedScrollPanel = "";
   roman.setAttribute("aria-label", `Roman Urdu text of Basta page ${page.page}`);
   const romanText = node("div", "basta-reader-text");
   appendBastaText(romanText, page.romanText, true, page.stanzaStyle);
@@ -61,7 +59,6 @@ function renderParallelText(page: BastaReaderPageData): HTMLElement {
   const urdu = node("section", "basta-reader-column basta-reader-urdu");
   urdu.lang = "ur";
   urdu.dir = "rtl";
-  urdu.dataset.syncedScrollPanel = "";
   urdu.setAttribute("aria-label", `Urdu text of Basta page ${page.page}`);
   const urduText = node("div", "basta-reader-text");
   appendBastaText(urduText, page.urduText, true, page.stanzaStyle);
@@ -79,13 +76,12 @@ export function renderBastaPage(page: BastaReaderPageData): HTMLElement {
   section.id = `page-${page.page}`;
   section.dataset.bastaPage = String(page.page);
   section.dataset.pageHasRoman = String(page.hasRoman);
-  section.dataset.syncedScrollRoot = "";
 
   if (page.imageOnly) {
     section.append(renderOriginalImage(page));
   } else if (page.hasRoman) {
     const grid = node("div", "basta-reader-page-grid basta-reader-page-grid-with-roman");
-    grid.append(renderOriginalImage(page, true), renderParallelText(page));
+    grid.append(renderOriginalImage(page), renderParallelText(page));
     section.append(grid);
   } else {
     const grid = node("div", "basta-reader-page-grid");

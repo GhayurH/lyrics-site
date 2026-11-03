@@ -83,7 +83,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       data-reading-mode={data.romanLyrics ? "parallel" : "urdu"}
       data-reading-columns={data.romanLyrics ? "urdu roman" : "urdu"}
       data-line-spacing="default"
-      data-synced-scroll-root
+
     >
       {data.cover && (
         <figure class="lyric-reading-image" data-synced-scroll-panel aria-label="Original lyric sheet">
@@ -94,7 +94,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       )}
       <section
         class="lyric-reading-panel lyric-reading-urdu"
-        data-synced-scroll-panel
+
         dir={data.direction}
         lang={data.lang}
         aria-label={`${data.language} lyrics`}
@@ -109,7 +109,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         data.romanLyrics && (
           <section
             class="lyric-reading-panel lyric-reading-roman"
-            data-synced-scroll-panel
+
             lang="en"
             dir="ltr"
             aria-label="Roman Urdu lyrics"

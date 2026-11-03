@@ -146,14 +146,11 @@ export function renderWork(work: HTMLElement, item: RecitationItem, index: numbe
   editions.dataset.readingMode = readingRoot?.dataset.readingMode ?? "parallel";
   editions.dataset.readingColumns = readingRoot?.dataset.readingColumns ?? "urdu roman";
   editions.dataset.lineSpacing = readingRoot?.dataset.lineSpacing ?? "default";
-  editions.dataset.syncedScrollRoot = "";
   const urdu = node("section", "lyric-reading-panel lyric-reading-urdu");
   urdu.lang = poem.lang; urdu.dir = poem.direction;
-  urdu.dataset.syncedScrollPanel = "";
   urdu.setAttribute("aria-label", "Original poem text");
   const roman = node("section", "lyric-reading-panel lyric-reading-roman");
   roman.lang = "en"; roman.dir = "ltr";
-  roman.dataset.syncedScrollPanel = "";
   roman.setAttribute("aria-label", "Roman Urdu text");
   if (item.stanzaSequence) {
     stanzaSection(urdu, poem, item, "urdu", sources, hasScan);

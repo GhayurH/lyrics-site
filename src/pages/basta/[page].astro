@@ -155,7 +155,6 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       </div>
     </header>
 
-
     {/* Search-only source separates printed lines from reader controls,
         navigation, scans, and stanza buttons. */}
     <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
@@ -205,7 +204,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       data-reading-columns={entry.data.imageOnly ? "image" : hasRomanText ? "urdu roman" : "urdu"}
       data-basta-current-page={page}
       data-line-spacing="default"
-      data-synced-scroll-root={!entry.data.imageOnly ? "" : undefined}
+
     >
       <figure class="basta-original-page" data-pagefind-ignore data-synced-scroll-panel>
         <a href={entry.data.originalImage}>

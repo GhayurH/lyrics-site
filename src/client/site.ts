@@ -83,9 +83,7 @@ function initHeaderAutoHide(): void {
   let previousY = window.scrollY;
   let lastDirection = 0;
   let distance = 0;
-  let lastSource: Window | HTMLElement = window;
   let pending = false;
-  const panelPositions = new WeakMap<HTMLElement, number>();
 
   const show = () => {
     delete root.dataset.mobileHeaderHidden;
@@ -101,11 +99,7 @@ function initHeaderAutoHide(): void {
   const readingStarted = () =>
     Boolean(reading && reading.getBoundingClientRect().top <= header.offsetHeight + 4);
 
-  const recordDirection = (source: Window | HTMLElement, delta: number, canHide: boolean) => {
-    if (source !== lastSource) {
-      lastSource = source;
-      reset();
-    }
+  const recordDirection = (delta: number, canHide: boolean) => {
     if (Math.abs(delta) < 1) return;
     const direction = Math.sign(delta);
     if (direction !== lastDirection) distance = 0;
@@ -140,7 +134,7 @@ function initHeaderAutoHide(): void {
         reset();
         return;
       }
-      recordDirection(window, delta, y > 120);
+      recordDirection(delta, y > 120);
     } else {
       delete root.dataset.mobileHeaderHidden;
       if (!readingStarted()) {
@@ -148,7 +142,7 @@ function initHeaderAutoHide(): void {
         reset();
         return;
       }
-      recordDirection(window, delta, true);
+      recordDirection(delta, true);
     }
   };
   window.addEventListener("scroll", () => {
@@ -157,23 +151,8 @@ function initHeaderAutoHide(): void {
     requestAnimationFrame(updateWindow);
   }, { passive: true });
 
-  // A long Urdu column can scroll without moving the document. Apply the
-  // same direction behavior once the reader has reached the sticky toolbar.
-  document.addEventListener("scroll", (event) => {
-    const panel = event.target;
-    if (!(panel instanceof HTMLElement) ||
-        panel.dataset.syncedScrollable !== "true" ||
-        !reading?.contains(panel)) return;
-    const previous = panelPositions.get(panel) ?? 0;
-    panelPositions.set(panel, panel.scrollTop);
-    if (!mobile.matches && root.dataset.readingFocus !== "true" && readingStarted()) {
-      recordDirection(panel, panel.scrollTop - previous, true);
-    }
-  }, true);
-
   const resetOnResize = () => {
     previousY = window.scrollY;
-    lastSource = window;
     reset();
     show();
     measureHeader();

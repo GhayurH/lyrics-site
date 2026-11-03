@@ -74,19 +74,14 @@ export function programmeHtml(set: RecitationSet, works: HTMLElement[]): string 
     clone.removeAttribute("id");
     // The source images are held in a separate R2 bucket. A portable
     // document must never suggest those network-only images are available offline.
-    clone.querySelectorAll("figure.lyric-reading-image, script, iframe, button").forEach((el) => el.remove());
+    clone.querySelectorAll("figure.lyric-reading-image, .reading-column-divider, script, iframe, button").forEach((el) => el.remove());
     // On-screen JS measures and sets pixel sizes for a different viewport.
     // Preserve authored text, not those screen-specific height/font overrides.
     clone.querySelectorAll(".lyric-reading-panel[style], .lyric-verse[style], .basta-verse-line[style], .basta-kalam-text span[style]")
       .forEach((el) => el.removeAttribute("style"));
     clone.querySelectorAll("a").forEach((link) => link.replaceWith(
       document.createTextNode(link.textContent || "")));
-    clone.querySelectorAll("[id], [data-synced-scroll-root], [data-synced-scroll-panel]")
-      .forEach((el) => {
-        el.removeAttribute("id");
-        el.removeAttribute("data-synced-scroll-root");
-        el.removeAttribute("data-synced-scroll-panel");
-      });
+    clone.querySelectorAll("[id]").forEach((el) => el.removeAttribute("id"));
     const editions = clone.querySelector<HTMLElement>(".recite-editions");
     if (editions) makePrintRows(editions);
     const firstRow = editions?.querySelector(".recite-print-row");

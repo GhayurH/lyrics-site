@@ -31,6 +31,9 @@
   /* Nastaliq right-edge ink overhang; computed in the verse's own em units. */
   --reading-urdu-ink-clearance: clamp(.375rem, .28em, .65rem);
   --reading-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
+  /* Shared default split; JS overrides these roles per reader kind when resized. */
+  --reading-roman-share: .44fr;
+  --reading-urdu-share: .56fr;
   --reading-title-increment: .25rem;
   --reading-urdu-leading: 2.8;
   --reading-roman-leading: 2;
