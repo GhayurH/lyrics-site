@@ -67,9 +67,11 @@ Published sets hold source references and organizer metadata in D1, **not copies
 
 1. `tokens.css` and `theme-palettes.css` — semantic dimensions, typography and validated theme roles.
 2. `base.css`, `site-shell.css` and `catalog-cards.css` — shared surfaces, navigation and browse cards.
-3. `reading-foundations.css` — canonical poetry typography, stanza numbers and reader foundation.
+3. `reading-foundations.css` — canonical poetry typography, stanza numbers, reader shell width/container and shared navigation style.
 
-`ReadingControls.astro` imports `reading-focus.css`, `reading-toolbar.css`, `reading-columns.css`, `reading-index-layout.css`, `reading-scan-layout.css`, `reading-utilities.css` and `scan-viewer.css`. Edition geometry uses a reader **container threshold of 46rem**; `client/viewport.ts` owns the 700px browser-mode breakpoint. Avoid new route-specific counterparts.
+`ReadingControls.astro` imports `reading-focus.css`, `reading-toolbar.css`, `reading-columns.css`, `reading-index-layout.css`, `reading-scan-layout.css`, `reading-utilities.css` and `scan-viewer.css`. Edition geometry uses shared **64rem** (scan above two text editions) and **46rem** (all editions stacked) reader container thresholds; `client/viewport.ts` owns the 700px browser-mode breakpoint. Avoid new route-specific counterparts.
+
+All reader articles opt into `data-reader-shell`, so their maximum width and breakpoint geometry cannot drift. `ReaderSubnav.astro` owns reader breadcrumbs across Basta, standalone lyrics and recitation; routes supply only their links. `client/floating-scans.ts` handles inline scan behavior by geometry, not route-specific JavaScript.
 
 Basta CSS is separated by *actual consumers*: `basta-shell`, `basta-home`, `basta-navigation`, `basta-index`, `basta-text` and continuous-only `basta-reader`. Recitation pages load `recitation-common` plus either `recitation-builder` or `recitation-reader`. Individual routes import only the styles required for their features.
 

@@ -4,6 +4,7 @@ import BaseLayout from "../../../layouts/BaseLayout.astro";
 import BastaText from "../../../components/BastaText.astro";
 import BastaParallelText from "../../../components/BastaParallelText.astro";
 import ReadingControls from "../../../components/ReadingControls.astro";
+import ReaderSubnav from "../../../components/ReaderSubnav.astro";
 import { loadBastaKalamCatalog } from "../../../lib/basta-kalam-data";
 import type { BastaKalam } from "../../../lib/basta-kalam-units";
 import "../../../styles/basta-shell.css";
@@ -31,7 +32,7 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
   title={`${kalam.romanName || kalam.name} | Basta | Kalam Archive`}
   description={`Read ${kalam.romanName || kalam.name} in Urdu${hasRoman ? " and Roman Urdu" : ""}, with the original Basta page scans.`}
 >
-  <article class="basta-page basta-kalam-page">
+  <article class="basta-page basta-kalam-page" data-reader-shell>
     <div class="pagefind-data" aria-hidden="true">
       <span data-pagefind-filter="collection">Basta</span>
       <span data-pagefind-meta="collection">Basta · Individual kalam</span>
@@ -46,11 +47,11 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       {kalam.urdu.split(/\r?\n/u).filter(Boolean).map((verse) => <p lang="ur" dir="rtl">{verse}</p>)}
       {kalam.roman?.split(/\r?\n/u).filter(Boolean).map((verse) => <p lang="en" dir="ltr">{verse}</p>)}
     </div>
-    <nav class="basta-subnav" aria-label="Basta navigation" data-pagefind-ignore>
-      <a href="/basta/">Basta</a><span aria-hidden="true">/</span>
-      <a href="/basta/index/">Index</a><span aria-hidden="true">/</span>
-      <a href={`/basta/${page}/`}>Printed page {page}</a>
-    </nav>
+    <ReaderSubnav ariaLabel="Basta navigation" items={[
+        { label: "Basta", href: "/basta/" },
+        { label: "Index", href: "/basta/index/" },
+        { label: `Printed page ${page}`, href: `/basta/${page}/` },
+      ]} />
     <header class="basta-kalam-heading" data-pagefind-ignore>
       <p class="eyebrow">{kalam.sectionRoman} · {kalam.indexNumber}</p>
       <h1 lang="ur" dir="rtl">{kalam.name}</h1>

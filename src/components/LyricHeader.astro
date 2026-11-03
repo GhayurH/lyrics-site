@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import FavoriteButton from "./FavoriteButton.astro";
+import ReaderSubnav from "./ReaderSubnav.astro";
 import { getLyricKalamType, searchUrl, slugifyKalamType } from "../lib/lyrics";
 interface Props { lyric: CollectionEntry<"lyrics"> }
 const { lyric } = Astro.props as Props;
@@ -9,10 +10,10 @@ const category = getLyricKalamType(data);
 const displayHaal = data.romanHaal?.trim() || data.haal;
 ---
 <header class="lyric-header">
-      <a class="back-link" href={`/categories/${slugifyKalamType(category)}/`}>
-        ← {category}
-      </a>
-      {data.cover && <span class="source-scan-link-wrap"><span aria-hidden="true"> · </span><a class="source-scan-link" href={data.cover}>Original lyric sheet</a></span>}
+      <ReaderSubnav ariaLabel="Lyric navigation" items={[
+        { label: `← ${category}`, href: `/categories/${slugifyKalamType(category)}/` },
+        ...(data.cover ? [{ label: "Original lyric sheet", href: data.cover }] : []),
+      ]} />
 
       <div class="lyric-header-title-row">
         <div class="lyric-title-block">

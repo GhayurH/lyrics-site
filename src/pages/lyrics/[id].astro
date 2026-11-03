@@ -58,10 +58,8 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
   description={`Read ${data.title} in Urdu${data.romanLyrics ? " and Roman Urdu" : ""}.`}
 >
   <article
-    class:list={[
-      "lyric-page",
-      data.romanLyrics && "lyric-page-parallel",
-    ]}
+    class="lyric-page"
+    data-reader-shell
     data-lyric-id={lyric.id}
   >
     <LyricHeader lyric={lyric} />

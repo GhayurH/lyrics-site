@@ -7,10 +7,6 @@
   margin: 2rem 0 3rem;
 }
 
-.basta-page.basta-page-with-roman {
-  max-width: 96rem;
-}
-
 /* The source scan is part of the reading canvas, not a themed card.
    Keep the original image unobstructed in page, kalam and image-only views;
    the floating layout is controlled independently by reading-scan-layout.css. */

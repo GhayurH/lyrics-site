@@ -1,8 +1,8 @@
 /* Shared Basta page shell and cross-edition navigation headings. */
 
 .basta-home,
-.basta-page,
-.basta-index-page {
+.basta-page:not([data-reader-shell]),
+.basta-index-page:not([data-reader-shell]) {
   max-width: var(--content-feature);
   margin: 0 auto;
 }
@@ -12,22 +12,4 @@
   margin: 0.5rem 0 0.75rem;
   font-size: clamp(2rem, 5vw, 3.5rem);
   line-height: 1.25;
-}
-
-.basta-subnav {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.55rem;
-  margin-bottom: 0.75rem;
-  color: var(--secondary-text);
-}
-
-.basta-subnav a {
-  color: var(--primary-text);
-  text-decoration: none;
-}
-
-.basta-subnav a:hover {
-  text-decoration: underline;
 }

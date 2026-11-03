@@ -1,6 +1,38 @@
 // Responsive navigation, toolbar, and reader geometry across real viewport sizes.
 import { test, expect } from "@playwright/test";
 
+test("reader routes share article width and breadcrumb styling", async ({ page }) => {
+  await page.setViewportSize({ width: 1530, height: 900 });
+  const routes = [
+    "/lyrics/ab-aey-hawaon-kuch-khak-urao/",
+    "/basta/138/",
+    "/basta/kalam/basta-marsiye-117/",
+    "/basta/read/",
+    "/basta/index/",
+    "/recite/read/",
+  ];
+  let reference;
+  for (const route of routes) {
+    await page.goto(route, { waitUntil: "domcontentloaded" });
+    const nav = page.locator(".reader-subnav");
+    await expect(nav).toBeVisible();
+    const geometry = await page.locator("[data-reader-shell]").evaluate(shell => {
+      const nav = shell.querySelector(".reader-subnav");
+      const css = getComputedStyle(nav);
+      return {
+        width: Math.round(shell.getBoundingClientRect().width),
+        display: css.display,
+        gap: css.columnGap,
+        fontSize: css.fontSize,
+        linkDecoration: getComputedStyle(nav.querySelector("a")).textDecorationLine,
+      };
+    });
+    expect(geometry.width, route).toBeGreaterThan(1200);
+    if (reference) expect(geometry, route).toEqual(reference);
+    else reference = geometry;
+  }
+});
+
 test("mobile reader settings expand and collapse", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/lyrics/aa-asghar-bin-tere/", { waitUntil: "domcontentloaded" });

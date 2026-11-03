@@ -21,7 +21,7 @@ CI runs **one build** and selects smoke or full, never both. The smoke subset pr
 | 320×568 and 390×844 portrait | Single Urdu, Roman, scan-only, stacked editions, toolbar collapse, legible headings |
 | 640×360 touch landscape | Focus entry/exit, scan not overlapping poems, safe-area controls |
 | 768×1024 portrait | Container breakpoints and bilingual index readability |
-| 1440×900 desktop | Parallel alignment, one scrolling long column, sticky scan/toolbar |
+| 1440×900 desktop | All three editions parallel where space permits, shared article width/navigation, sticky scan/toolbar |
 | 200–400% zoom | No page-wide horizontal scroll; very long lines pan **individually** with keyboard access |
 
 Verify each Basta page stores only existing Roman transcription as a `romanLyrics: |-` literal, and that intentionally untranslated pages remain Urdu-only. Poetry Markdown must end with exactly one newline while preserving internal stanza spacing, source separators and permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
@@ -29,7 +29,7 @@ Verify each Basta page stores only existing Roman transcription as a `romanLyric
 ## Journeys to protect
 
 1. **Standalone lyrics:** page content without JavaScript, Urdu/Roman stanza layout, title and poet roles, images, bookmarks, corrections and search aliases.
-2. **Basta:** frameless, uncropped original scans (preserving their printed borders) across page, individual-kalam, continuous and Focus readers; individual kalam pages must float scans beside text above 64rem, despite their 72rem article maximum; adjustable bilingual width up to 85% Roman, 95%-triggered font growth with every verse justified, single-line fitting and shared scrolling, printed-page navigation, image-only/missing-Roman fallback, continuous chunk retry, `#page-N` direct links, Focus back/exit restoration, Urdu–Roman bookmark identity and verified individual-kalam scans (Previous/Next, one source visible, direct `#scan-page-N` links, Focus and mobile).
+2. **Basta:** frameless, uncropped original scans (preserving their printed borders) across page, individual-kalam, continuous and Focus readers; all eligible three-edition readers float scans beside text above 64rem and stack scans above two resizable texts below it; individual kalam pages use the same wide reader shell; adjustable bilingual width up to 85% Roman, 95%-triggered font growth with every verse justified, single-line fitting and shared scrolling, printed-page navigation, image-only/missing-Roman fallback, continuous chunk retry, `#page-N` direct links, Focus back/exit restoration, Urdu–Roman bookmark identity and verified individual-kalam scans (Previous/Next, one source visible, direct `#scan-page-N` links, Focus and mobile).
 3. **Recitation editor:** create/duplicate/reorder drafts, templates, 40-item cap, reciter/notes, borrowed/repeated Marsiya stanzas, source warnings and saved drafts after navigation.
 4. **Published programmes:** read-only public link, private capability, concurrent edit conflicts, expiry, authorized deletion, opt-in live follower, full offline HTML and browser print.
 5. **Saved/offline/search:** backup preview/restore, fresh-device offline downloads, Pagefind filters, keyboard-accessible menus and no unsafe caching of private capabilities.

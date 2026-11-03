@@ -1,4 +1,27 @@
 /* Canonical stanza, verse, title, Focus toolbar base and synced panel contract. */
+/* All reader articles share one width and query container. Route-only layout
+   styles must not introduce a smaller article cap. */
+[data-reader-shell] {
+  width: 100%;
+  max-width: var(--content-wide);
+  margin-inline: auto;
+  container: reader-shell / inline-size;
+}
+/* The same breadcrumb layout serves each reader, with route-specific links. */
+.reader-subnav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .55rem;
+  margin: 0 0 .75rem;
+  color: var(--secondary-text);
+  font-size: .9rem;
+  line-height: 1.5;
+}
+.reader-subnav a { color: var(--primary-text); text-decoration: none; text-underline-offset: .2em; }
+.reader-subnav a:hover { text-decoration: underline; }
+.reader-subnav > span { color: var(--secondary-text); }
+
 /* All poetry editions use the same one-line, justified verse contract. */
 :is(.lyric-verse, .basta-verse-line.basta-verse-poetry) {
   display: block;

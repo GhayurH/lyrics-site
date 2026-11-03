@@ -179,7 +179,7 @@ test("widening the Roman column grows the stanza font while every verse stays ju
     .toBeLessThan(wideSize - 2);
 });
 
-test("the three-edition lyric reader gives the original scan a full row on wide screens", async ({ page }) => {
+test("three-edition lyrics follow the shared responsive scan and text layout", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");
   await page.locator('[data-reading-column][value="image"]').check();
@@ -189,24 +189,34 @@ test("the three-edition lyric reader gives the original scan a full row on wide 
   await expect(figure).toBeVisible();
   await expect(grid.locator(".lyric-reading-roman")).toBeVisible();
   await expect(grid.locator(".lyric-reading-urdu")).toBeVisible();
+  await expect.poll(() => figure.getAttribute("data-floating-scan")).toBe("true");
+  await expect.poll(async () => grid.evaluate(element => {
+    const image = element.querySelector(".lyric-reading-image").getBoundingClientRect();
+    const roman = element.querySelector(".lyric-reading-roman").getBoundingClientRect();
+    const urdu = element.querySelector(".lyric-reading-urdu").getBoundingClientRect();
+    return image.width >= 280 && image.right <= roman.left + 3 &&
+      Math.abs(image.top - roman.top) < 20 && Math.abs(roman.top - urdu.top) < 20 &&
+      roman.right <= urdu.left + 3;
+  })).toBe(true);
   await expect(divider).toBeVisible();
-  for (const width of [1440, 1024]) {
-    await page.setViewportSize({ width, height: 900 });
-    await expect.poll(async () => grid.evaluate(element => {
-      const image = element.querySelector(".lyric-reading-image").getBoundingClientRect();
-      const roman = element.querySelector(".lyric-reading-roman").getBoundingClientRect();
-      const urdu = element.querySelector(".lyric-reading-urdu").getBoundingClientRect();
-      return image.width >= 400 && image.bottom <= roman.top + 2 &&
-        Math.abs(roman.top - urdu.top) < 2 && roman.right <= urdu.left + 2;
-    })).toBe(true);
-    await expect(divider).toBeVisible();
-  }
-  // A narrow viewport retains the readable scan and stacks both editions.
+
+  // Below 64rem the scan is above the two resizable text editions.
+  await page.setViewportSize({ width: 1024, height: 900 });
+  await expect.poll(() => figure.getAttribute("data-floating-scan")).toBe("false");
+  await expect.poll(async () => grid.evaluate(element => {
+    const image = element.querySelector(".lyric-reading-image").getBoundingClientRect();
+    const roman = element.querySelector(".lyric-reading-roman").getBoundingClientRect();
+    const urdu = element.querySelector(".lyric-reading-urdu").getBoundingClientRect();
+    return image.width >= 400 && image.bottom <= roman.top + 3 &&
+      Math.abs(roman.top - urdu.top) < 20 && roman.right <= urdu.left + 3;
+  })).toBe(true);
+  await expect(divider).toBeVisible();
+
+  // Phones stack all three surfaces, retaining a readable scan.
   await page.setViewportSize({ width: 390, height: 844 });
   await expect(figure).toBeVisible();
   await expect(divider).toBeHidden();
-  const figureWidth = await figure.evaluate(node => node.getBoundingClientRect().width);
-  expect(figureWidth).toBeGreaterThan(250);
+  expect(await figure.evaluate(node => node.getBoundingClientRect().width)).toBeGreaterThan(250);
 });
 
 test("stacked and single-column editions use only document scrolling", async ({ page }) => {

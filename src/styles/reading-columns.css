@@ -1,6 +1,6 @@
 /* Reader edition layout: container queries keep Urdu, Roman and scans readable. */
 /* File role: One responsive layout policy for all reading editions; containers determine column viability. */
-:is(.lyric-page, .basta-page, .basta-reader, .basta-index-page) { container: reader-shell / inline-size; }
+/* [data-reader-shell] defines the common container in reading-foundations.css. */
 
 /* All routes supply static data-reading-columns to keep text visible without JavaScript. */
 [data-reading-root]:not([data-reading-columns~="urdu"]) :is(.lyric-reading-urdu,.basta-page-urdu,.basta-reader-urdu,.basta-parallel-index-urdu) { display: none !important; }
@@ -44,11 +44,11 @@
 
 .lyric-reading-grid[data-reading-columns] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr)); }
 
-/* With all three editions selected, the image spans a full row and the
-   bilingual text uses the existing adjustable two-column split below. */
+/* Three parallel tracks use the same scan/text proportions as Basta.
+   The two text tracks remain resizable together by the shared controller. */
 .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
-  grid-template-areas: "image image" "roman urdu";
-  grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr));
+  grid-template-areas: "image roman urdu";
+  grid-template-columns: minmax(0,var(--reading-scan-share)) minmax(0,var(--reading-roman-share)) minmax(0,var(--reading-urdu-share));
   max-width: none;
 }
 
@@ -177,11 +177,18 @@
   padding-inline: 0;
 }
 
-/* Individual kalam pages cap the reader at 72rem, so the former 76rem
-   threshold made their scans stack at every desktop width. At 64rem both
-   editions plus a readable scan fit; below that, stack for legibility.
-   Standalone lyrics deliberately use a separate top-row scan policy. */
+/* The shared 64rem threshold stacks scans above two editable text tracks.
+   Below 46rem, all editions stack vertically on the same policy. */
 @container reader-shell (max-width: 64rem) {
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
+    grid-template-areas: "image image" "roman urdu";
+    grid-template-columns: minmax(0,var(--reading-roman-share)) minmax(0,var(--reading-urdu-share));
+  }
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] > .lyric-reading-image {
+    justify-self: center;
+    align-self: start;
+    width: min(100%,var(--reading-scan-width));
+  }
 .basta-page-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"].basta-page-grid-with-roman,
   .basta-reader-flow[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] .basta-reader-page-grid-with-roman {
     grid-template-areas: "scan" "text" !important; grid-template-columns: minmax(0,1fr) !important;

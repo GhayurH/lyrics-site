@@ -19,6 +19,8 @@
   --content-compact: 42rem;
   --reading-single-width: 48rem;
   --reading-scan-width: 42rem;
+  /* A readable ~32% scan beside the resizable Urdu/Roman pair. */
+  --reading-scan-share: 47fr;
 
   /* Language typography defaults shared by every reader and the site shell. */
   --font-urdu: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
@@ -32,8 +34,8 @@
   --reading-urdu-ink-clearance: clamp(.375rem, .28em, .65rem);
   --reading-roman-size: clamp(1.05rem, 2.5vw, 1.25rem);
   /* Shared default split; JS overrides these roles per reader kind when resized. */
-  --reading-roman-share: .44fr;
-  --reading-urdu-share: .56fr;
+  --reading-roman-share: 44fr;
+  --reading-urdu-share: 56fr;
   --reading-title-increment: .25rem;
   --reading-urdu-leading: 2.8;
   --reading-roman-leading: 2;

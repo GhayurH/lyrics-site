@@ -4,6 +4,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BastaContinuousPage from "../../components/BastaContinuousPage.astro";
 import BastaParallelIndex from "../../components/BastaParallelIndex.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
+import ReaderSubnav from "../../components/ReaderSubnav.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
 import { loadBastaReaderDataset } from "../../lib/basta-reader-data";
 import indexEntries from "../../data/basta/index.json";
@@ -25,13 +26,12 @@ const availablePages = [...beforeChunks, ...afterChunks].flatMap((chunk) => chun
   title="Basta — Continuous reader | Kalam Archive"
   description="Read Basta continuously in parallel Urdu and Roman Urdu, Urdu only, or Roman Urdu only."
 >
-  <article class="basta-reader">
+  <article class="basta-reader" data-reader-shell>
     <header class="basta-reader-header" data-pagefind-ignore>
-      <div class="basta-subnav">
-        <a href="/basta/">Basta</a>
-        <span aria-hidden="true">·</span>
-        <a href="/basta/index/">Index</a>
-      </div>
+      <ReaderSubnav ariaLabel="Basta navigation" items={[
+        { label: "Basta", href: "/basta/" },
+        { label: "Index", href: "/basta/index/" },
+      ]} />
       <h1>Basta — Continuous reader</h1>
       <p>
         Read the complete text as one continuous edition. Select any combination

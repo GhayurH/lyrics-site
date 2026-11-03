@@ -1,33 +1,20 @@
-/* Floating scan geometry: sticky alongside columns, static when stacked. */
-/* A three-edition standalone lyric needs an actual legible scan, rather
-   than the thumbnail produced by a third narrow grid track on desktop. */
-.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-  > .lyric-reading-image {
-  justify-self: center;
-  align-self: start;
-  position: static;
-  top: auto;
-  width: min(100%,var(--reading-scan-width));
-  height: auto;
-  max-height: none;
-  padding: clamp(.5rem,1.5vw,1rem);
-}
-
-.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-  > .lyric-reading-image > a {
+/* Floating scan geometry is shared with Basta and Recitation Sets.
+   Container queries decide whether the scan is in the same row as text. */
+.lyric-reading-grid > .lyric-reading-image > a {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
 }
-
-.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
-  > .lyric-reading-image img {
+.lyric-reading-grid > .lyric-reading-image img {
   display: block;
   width: auto;
   max-width: 100%;
-  max-height: min(78dvh,55rem);
   margin-inline: auto;
+}
+/* The shared floating-scan height budget takes precedence for sticky images. */
+.lyric-reading-grid > .lyric-reading-image:not([data-floating-scan="true"]) img {
+  max-height: min(78dvh,55rem);
 }
 
 @container reader-shell (max-width: 46rem) {

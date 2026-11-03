@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../../layouts/BaseLayout.astro";
+import ReaderSubnav from "../../../components/ReaderSubnav.astro";
 import { loadBastaKalamCatalog } from "../../../lib/basta-kalam-data";
 import "../../../styles/basta-kalam.css";
 const { kalams } = await loadBastaKalamCatalog();
@@ -13,7 +14,10 @@ for (const kalam of kalams) {
 <BaseLayout title="Individual Basta kalams | Kalam Archive"
   description="Find and share individual kalams from the Basta book, with Urdu, Roman Urdu and source pages.">
   <article class="basta-page basta-kalam-catalog">
-    <nav class="basta-subnav"><a href="/basta/">Basta</a> / <a href="/basta/index/">Printed index</a></nav>
+    <ReaderSubnav ariaLabel="Basta navigation" items={[
+        { label: "Basta", href: "/basta/" },
+        { label: "Printed index", href: "/basta/index/" },
+      ]} />
     <header class="page-header-simple">
       <h1>Individual Basta kalams</h1>
       <p>Read and share a complete kalam, even when its text spans several printed pages.

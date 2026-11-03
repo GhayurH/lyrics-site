@@ -1,0 +1,12 @@
+---
+/** Reader navigation uses one semantic, accessible component on every route. */
+interface Item { label: string; href: string; id?: string }
+interface Props { items: Item[]; ariaLabel?: string }
+const { items, ariaLabel = "Reader navigation" } = Astro.props as Props;
+---
+<nav class="reader-subnav" aria-label={ariaLabel} data-pagefind-ignore>
+  {items.map((item, index) => <>
+    <a href={item.href} id={item.id}>{item.label}</a>
+    {index < items.length - 1 && <span aria-hidden="true">·</span>}
+  </>)}
+</nav>
