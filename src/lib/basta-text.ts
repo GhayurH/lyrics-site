@@ -86,7 +86,10 @@ export function layoutBastaKalam(
       continue;
     }
     const start = pos;
-    while (pos < lines.length && lines[pos].trim()) pos++;
+    // Printed-page fragments can join at a stanza counter with no blank line.
+    // Keep numbered stanzas separate so their 4+2 closing rules still apply.
+    while (pos < lines.length && lines[pos].trim() &&
+           (pos === start || !isStanzaNumber(lines[pos]))) pos++;
     blocks.push({ start, end: pos });
   }
 

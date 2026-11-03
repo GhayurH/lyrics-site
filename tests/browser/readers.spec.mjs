@@ -383,6 +383,39 @@ test("Basta page progress tracks the Focus scroller instead of document scroll",
   expect(await page.evaluate(() => window.scrollY)).toBeLessThan(2000);
 });
 
+test("Marsiye 117 preserves closing rules in Urdu and Roman stanzas across pages 284–285", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/basta/kalam/basta-marsiye-117/");
+  for (const edition of ["roman", "urdu"]) {
+    const panel = page.locator(`.basta-page-${edition}`);
+    await expect(panel.locator(".poetry-stanza-number")).toHaveCount(7);
+    const stanzas = await panel.evaluate(element => {
+      const groups = [];
+      for (const line of element.querySelectorAll(".poetry-stanza-number, .basta-verse-line")) {
+        if (line.classList.contains("poetry-stanza-number")) groups.push([]);
+        else if (groups.length && line.classList.contains("basta-verse-poetry") &&
+                 !line.classList.contains("basta-refrain")) {
+          groups.at(-1).push({
+            reverse: line.classList.contains("basta-verse-reverse-indent"),
+            indent: line.classList.contains("basta-verse-indent"),
+            upper: line.classList.contains("basta-six-closing-start"),
+            lower: line.classList.contains("basta-six-closing-end"),
+          });
+        }
+      }
+      return groups;
+    });
+    for (const number of [6, 7]) {
+      const verses = stanzas[number - 1];
+      expect(verses, edition + " stanza " + number).toHaveLength(6);
+      expect(verses.map(x => x.reverse)).toEqual([true, true, true, true, false, false]);
+      expect(verses.map(x => x.indent)).toEqual([false, false, false, false, true, true]);
+      expect(verses.map(x => x.upper)).toEqual([false, false, false, false, true, false]);
+      expect(verses.map(x => x.lower)).toEqual([false, false, false, false, false, true]);
+    }
+  }
+});
+
 test("Basta page Focus resume restores its own scroll offset from the URL", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/200/?reading=1&resume=0.65");

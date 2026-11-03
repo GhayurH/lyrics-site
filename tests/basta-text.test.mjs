@@ -38,6 +38,31 @@ test("numbered 4+2 stanza frames its closing pair, removes the separating gap, a
   assert.equal(lines[8].sixClosingEnd, undefined);
 });
 
+test("a printed-page seam immediately before stanza seven preserves both six-verse frames", () => {
+  // Marsiya 117 has 6 on page 284 and 7 on page 285; the catalog joins
+  // the pages with one newline, without a blank after stanza 6.
+  const text = [
+    "۶", "one", "two", "three", "four", "",
+    "five", "six", "۷", "seven one", "seven two", "seven three",
+    "seven four", "", "seven five", "seven six",
+  ].join("\n");
+  const lines = layoutBastaKalam(text);
+  for (const [counter, next] of [["۶", "۷"], ["۷", undefined]]) {
+    const start = lines.findIndex(line => line.stanzaNumber === counter);
+    const end = next ? lines.findIndex(line => line.stanzaNumber === next) : lines.length;
+    assert.ok(start >= 0 && end > start, "Stanza " + counter + " boundary");
+    const verses = lines.slice(start + 1, end).filter(line => line.verse);
+    assert.equal(verses.length, 6, "Stanza " + counter + " has six verses");
+    assert.deepEqual(verses.map(line => Boolean(line.reverseIndent)),
+      [true, true, true, true, false, false]);
+    assert.deepEqual(verses.map(line => line.indent),
+      [false, false, false, false, true, true]);
+    assert.equal(verses[4].sixClosingStart, true);
+    assert.equal(verses[5].sixClosingEnd, true);
+    assert.ok(!verses.some(line => line.coupletSeparator));
+  }
+});
+
 test("blank lines survive and prose pages can opt out", () => {
   const content = "a\nb\n\nc\nd";
   assert.equal(layoutBastaKalam(content)[2].text, "");
