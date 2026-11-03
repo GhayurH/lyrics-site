@@ -81,7 +81,7 @@ export function renderProgrammeSequence(draft: RecitationDraft, handlers: Sequen
       row.addEventListener("drop", (e) => {
         e.preventDefault(); row.classList.remove("recite-drag-over");
         const source = draft.set.items.findIndex((x) => x.uid === dragging);
-        if (source >= 0) reorder(source, index);
+        if (source >= 0) handlers.reorder(source, index);
         dragging = undefined;
       });
       row.addEventListener("dragend", () => { dragging = undefined; row.classList.remove("recite-drag-over"); });
