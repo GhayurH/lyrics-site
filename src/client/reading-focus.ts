@@ -1,10 +1,10 @@
 // File role: Distraction-free reading, deep links, mobile navigation, and viewport position retention.
-import { pageAtReadingLine } from "./reading-position";
-import { visibleReadingAnchor, restoreReadingAnchor, type ReadingAnchor } from "./reading-focus-position";
+import { visibleReadingAnchor, restoreReadingAnchor, captureReadingExit, type ReadingAnchor, type ReadingExitSnapshot } from "./reading-focus-position";
+import { resolveBastaJumpForm } from "./basta-navigation";
 import { readingScrollBehavior } from "./viewport";
 
 type Anchor = ReadingAnchor;
-type ExitSnapshot = { anchor?: Anchor; page?: HTMLElement; pageNumber?: number };
+type ExitSnapshot = ReadingExitSnapshot;
 const FOCUS_FLAG = "__kalamReadingFocus";
 
 export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void {
@@ -53,26 +53,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
 
   // The fixed continuous reader scrolls independently of the document.
   // Identify the page crossing the upper reading line, never the stale URL hash.
-  const captureExit = (): ExitSnapshot => {
-    const current = visibleAnchor();
-    if (!isContinuous) return { anchor: current };
-    const bounds = root.getBoundingClientRect();
-    const pages = Array.from(root.querySelectorAll<HTMLElement>("[data-basta-page]"));
-    const pageRects = pages.map((node) => {
-      const rect = node.getBoundingClientRect();
-      return { id: Number(node.dataset.bastaPage), top: rect.top, bottom: rect.bottom };
-    });
-    // Rotation can leave the upper reading line in a sliver of the previous page.
-    // Exiting Focus should return to the page occupying most of the viewport.
-    const visible = pageRects.map((item) => ({
-      id: item.id,
-      height: Math.max(0, Math.min(item.bottom, bounds.bottom) - Math.max(item.top, bounds.top)),
-    })).sort((a, b) => b.height - a.height);
-    const pageNumber = visible[0]?.height
-      ? visible[0].id : pageAtReadingLine(pageRects, bounds.top, bounds.height);
-    const page = pages.find((node) => Number(node.dataset.bastaPage) === pageNumber);
-    return { anchor: current, page, pageNumber };
-  };
+  const captureExit = (): ExitSnapshot => captureReadingExit(root, isContinuous);
   const restoreAnchor = restoreReadingAnchor;
 
   const optionsOpen = (open: boolean) => {
@@ -270,24 +251,20 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     event.preventDefault();
     const input = jumpForm.querySelector<HTMLInputElement>('input[name="page"]');
     if (!input) return;
-    const page = Number(input.value);
-    const available = new Set((jumpForm.dataset.availablePages ?? "").split(",").map(Number));
-    const indexStart = Number(jumpForm.dataset.indexStartPage);
-    const indexEnd = Number(jumpForm.dataset.indexEndPage);
-    if (!Number.isSafeInteger(page) || page < 1) {
-      input.setCustomValidity("Enter a valid page number."); input.reportValidity(); return;
+    const target = resolveBastaJumpForm(jumpForm, input);
+    if (target.kind === "invalid") {
+      input.setCustomValidity(target.message);
+      input.reportValidity();
+      return;
     }
-    if (page >= indexStart && page <= indexEnd) {
+    if (target.kind === "index") {
       if (active) contentsOpen(true);
       else { location.hash = "index"; window.dispatchEvent(new Event("basta:navigate-to-page")); }
       return;
     }
-    if (!available.has(page)) {
-      input.setCustomValidity("That Basta page is not available."); input.reportValidity(); return;
-    }
     // Replace rather than push: mobile Back exits Focus mode, not every jump.
     const url = new URL(location.href);
-    url.hash = `page-${page}`;
+    url.hash = `page-${target.page}`;
     history.replaceState(history.state, "", url.pathname + url.search + url.hash);
     contentsOpen(false);
     window.dispatchEvent(new Event("basta:navigate-to-page"));
