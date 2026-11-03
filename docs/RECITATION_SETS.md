@@ -1,63 +1,45 @@
 # Recitation Sets
 
-Recitation Sets let organizers arrange standalone lyrics and **verified** Basta kalams at `/recite/`. The reader at `/recite/read/` supports sequential and continuous programmes, Urdu/Roman editions, source scans and Focus Mode.
+A Recitation Set is an ordered **programme of references** to published standalone lyrics and verified Basta kalams. The editor (`/recite/`) saves drafts locally; the reader (`/recite/read/`) supports readable Urdu/Roman editions, scans, Focus Mode and optional live navigation.
 
-## Building a programme
+## Draft contract
 
-Each position can use its own reciter and notes; the same kalam may appear more than once. Numbered verified Marsiyas allow stanza selection, repetition, reordering and borrowing from other Marsiyas, with source attribution preserved. Missing or retired sources remain visible as labelled warnings, never silently replaced.
+A programme has a title, optional occasion/description, and up to **40** ordered entries. Each entry has a unique UID so repeating the same kalam remains distinct; it may include an assigned reciter, notes and an optional verified Marsiya stanza sequence. A verified numbered Marsiya may reorder, repeat or borrow stanzas from another verified Marsiya. Attribution and source-page references remain attached; unavailable sources show warnings rather than guessed replacements.
 
-Organizers may save local templates or start from guided genre-based examples. **Start with sample kalams** selects illustrative verified sources that must be reviewed before publishing; it is not a recommended or canonical majlis order. Templates create a fresh draft with new entry UIDs; they never copy a private edit token or live pointer.
+Templates live only in local browser storage. Starting a template creates independent entry UIDs and excludes live state, permanent-retention status and organizer capabilities. Guided samples select only ready catalog entries and require organizer review before publishing.
 
-Drafts and templates remain in browser storage. [Saved & recent](https://kalamarchive.com/saved/) can export/import them in a versioned JSON backup; a backup may include **private organizer edit links** and must be stored securely.
+`/saved/` supports JSON backup/restore. A backup may contain **private edit capabilities**; handle it as a secret, not a harmless public reading list.
 
-## Printing and offline use
+## Published access
 
-- **Save offline HTML** creates a self-contained programme with ordered text, notes, reciters, attribution and embedded Nastaliq fonts. Missing source verses are not substituted.
-- **Print / Save as PDF** uses the browser's print dialog. Layout aims to keep stanza rows and headings together; there is no server PDF generator.
-- Offline programme exports omit original scans and live navigation. This differs from **Saved & recent**, where visitors can optionally cache individual reading pages, R2 source scans and the Pagefind search index for offline browsing.
+Publishing is explicit. D1 stores references plus organizer metadata, never a duplicate copy of the source poems. The server returns:
 
-Keep the printed source scans reachable as normal web links when online. The standalone HTML export does not require the archive or D1 after it has been saved.
+| Link | Permission |
+| --- | --- |
+| `/r/{id}` | Public, read-only; suitable for QR sharing |
+| `/recite/?set={id}#edit={token}` | Private organizer capability: edit, live navigation, renewal, deletion |
 
-## Publishing and authorization
+There is no account or token recovery. Anyone possessing the private link controls the set; only a **hash** of the edit capability is stored server-side. Never expose edit tokens in search, a public QR code, logs or offline caches.
 
-Publishing creates a D1-backed set of *source references and organizer metadata*, not a new copy of the poems. It returns two different links:
+`POST /api/recitation-sets` creates a set. `GET/PUT/PATCH/DELETE /api/recitation-sets/{id}` read or perform capability-protected updates. Edits and live updates require the current `If-Match` revision; simultaneous changes return 409 instead of silently overwriting a newer version. Missing D1 bindings fail explicitly while local drafts remain usable.
 
-- **Public read-only:** `/r/{id}` (can be copied or shown as a QR code).
-- **Private organizer:** `/recite/?set={id}#edit={token}` (can edit, renew or permanently delete the published set).
+## Live following and offline output
 
-Anyone possessing the private link can edit it. There are no user accounts and no token recovery. D1 stores the SHA-256 **hash** of the edit token rather than plaintext. Never put the edit URL in a public QR code, an offline cache or a publicly shared backup.
+Only the organizer can advance/stop live position; navigation tracks **entry UIDs**, not just kalam IDs. Local changes must be published before resuming live updates. Readers explicitly opt into following and can leave to navigate independently; network access is required for live updates.
 
-`POST /api/recitation-sets` publishes; `GET/PUT/PATCH/DELETE /api/recitation-sets/{id}` handles reading and authorized changes. The redirect `/r/{id}` is read-only. Without a configured D1 binding, publication fails explicitly (503) while local drafts remain usable.
-
-### Concurrent edits and live navigation
-
-Published edits require the current server revision via `If-Match`. A competing organizer tab gets **409 Conflict** rather than overwriting another change; an update without the revision gets **428 Precondition Required**. Preserve unsent edits in a local draft before reloading.
-
-An organizer with the private capability can enable Live Navigation. Previous/Next/Stop update an **entry UID**, so repeated kalams are distinct. Live `PATCH` uses the same revision checks and database compare-and-swap. Unpublished local edits must be published before live navigation resumes.
-
-Readers must explicitly enable **Follow organizer live** (off by default). It polls the public endpoint about every ten seconds while visible; manual navigation stops following. Live following requires a network connection.
+Offline HTML exports include ordered text, notes, reciters, source attribution and embedded eligible fonts; they omit scans and live features. Browser Print/Save as PDF is a separate print workflow, not a server-side PDF service. Offline browsing of archive pages/scans/search is handled separately in Saved & Recent.
 
 ## Permanent source identity
 
-Source Markdown and scans are authoritative. The published catalogs `/data/recitation-lyric-catalog.json` and `/data/basta-kalams.json` provide stable source links; their individual JSON endpoints provide canonical poem/stanza text. Ambiguous Basta boundaries are reported for editorial review and are not published as verified individual kalams.
+`src/data/recitation/identity-lock.json` reserves lyric, Basta and numbered-stanza IDs. These IDs **must not** change after title edits, filename changes, punctuation fixes or source-page movement. Stanza anchors use reviewed opening fingerprints, not current stanza numbers. Retired IDs are not recycled; ambiguous multi-stanza edits require source review.
 
-`src/data/recitation/identity-lock.json` reserves permanent lyric, Basta and numbered-stanza IDs. Stanza fingerprints use two normalized opening verses, not mutable printed numbers. Renaming a source or editing its opening verses must **not** change its published identity.
+After changing source Markdown, run `npm run source:sync`, verify the diff and run `npm run build`. `source:check` validates identities read-only on every build. See [Contributing](CONTRIBUTING.md#source-synchronization-and-approvals).
 
-```bash
-npm run source:check
-npm run source:sync           # After reviewed source edits; safe anchor refreshes only
-npm run content:review
-```
+## Retention and limits
 
-The sync command may refresh a single unambiguous existing stanza anchor when all other anchors still match. Multiple edits, insertions, removals or renumbering require manual comparison with the source. Mark removed IDs `retired: true` rather than recycling them. Builds validate the lockfile without modifying it.
-
-## Retention and rate limits
-
-| Environment | Expiry after publication/authorized edit | Permanent option |
+| Environment | Retention from publication or authorized edit | Permanent |
 | --- | --- | --- |
-| Production | 24 calendar months | Yes |
-| Preview | 30 days | No |
+| Production | 24 calendar months | Organizer may choose permanent |
+| Preview | 30 days | Not available |
 
-Reading a published set does not renew expiry. Expired records return **410** until cleanup, then **404**. Authorized deletion revokes access immediately. Creation is limited to **10 sets per hour per IP** (**429** with `Retry-After`); authorized updates do not consume this creation quota. Throttle keys are hashed, and `RECITATION_RATE_LIMIT_SECRET` can protect their derivation.
-
-For D1 bindings, migrations, cleanup Worker, monitoring and deployment verification, see [Recitation Sets operations](RECITATION_OPERATIONS.md).
+Reading does not renew expiration. Expired rows return 410 until cleanup, then 404; deletion revokes access. Creation is limited to **10 sets/hour/IP**, with 429 + `Retry-After` when exceeded. Authorized updates are not charged against this creation quota. See [Operations](RECITATION_OPERATIONS.md) for schema, Worker and binding details.

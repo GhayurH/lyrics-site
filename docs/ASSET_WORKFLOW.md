@@ -1,36 +1,35 @@
-# Asset workflow
+# Asset storage and delivery
 
-Large scans, images, and PDFs belong in Cloudflare R2 bucket `kalam-archive-assets`, **not Git**. Source Markdown keeps stable root-relative paths such as `/images/lyrics/example.png`, `/images/basta/original/000.jpg`, and `/files/example.pdf`.
+R2 owns large source scans and PDFs; Git owns Markdown, code, small public icons and **license-compliant** self-hosted fonts. Poetry references stable root-relative paths (`/images/...` and `/files/...`), not the provider hostname.
 
-## Public URLs and previews
+## Delivery paths
 
-Production `kalamarchive.com/images/*` and `/files/*` use Cloudflare Cloud Connector. Preview deployments (`*.lyrics-site.pages.dev`) use `public/_redirects` to redirect those paths (302) to `https://r2-assets.kalamarchive.com`. **Do not** put the R2 hostname in source files. Confirm `dist/_redirects` if previews fail; local `astro preview` does not apply Pages redirects.
+- **Production:** Cloudflare Cloud Connector serves `/images/*` and `/files/*` from the R2 bucket `kalam-archive-assets`.
+- **Pages previews:** `public/_redirects` forwards those paths to `https://r2-assets.kalamarchive.com` because preview hostnames do not inherit the production connector.
+- **Local `astro preview`:** does not apply Cloudflare redirects. Symlink local assets only where required for editing.
 
-## Local development
+The separate paths are deliberate; never replace source Markdown image URLs with absolute R2 URLs.
 
-Store master assets outside the checkout and link the directories into `public/` (links are Git-ignored):
+## Working on binary assets
+
+Keep masters outside Git. For local editing, create nontracked symlinks if the destinations do not already exist:
 
 ```bash
-# ~/KalamArchiveAssets/{images,files}/
-cd ~/Projects/lyrics-site
 ln -s ~/KalamArchiveAssets/images public/images
 ln -s ~/KalamArchiveAssets/files public/files
 ```
 
-Only create symlinks when those paths are absent; don't replace existing directories.
-
-## Upload and verify
-
-Use the command(s) for the changed subtree:
+Upload only changed subtrees, verifying remote objects before publishing:
 
 ```bash
-rclone copy ~/KalamArchiveAssets/images r2:kalam-archive-assets/images --checksum --progress
-rclone copy ~/KalamArchiveAssets/files  r2:kalam-archive-assets/files  --checksum --progress
-
+rclone copy ~/KalamArchiveAssets/images r2:kalam-archive-assets/images --checksum
+rclone copy ~/KalamArchiveAssets/files  r2:kalam-archive-assets/files  --checksum
 rclone check ~/KalamArchiveAssets/images r2:kalam-archive-assets/images --one-way
 rclone check ~/KalamArchiveAssets/files  r2:kalam-archive-assets/files  --one-way
 ```
 
-`rclone copy` adds/replaces without deleting unrelated objects; **never use `sync` for normal publishing**. Don't use `--immutable` when replacements are intended; checksum behavior depends on backend support.
+`copy` does not delete unrelated assets; avoid `sync` for routine publishing. Check generated `dist/_redirects`, affected preview/production URLs and the Cloudflare cache if an intentionally replaced scan remains stale.
 
-Commit Markdown/code changes separately from binaries; validate changed public/preview URLs. Purge affected Cloudflare cache entries if a replaced file stays stale. Follow [Contributing](CONTRIBUTING.md#code-and-tests) for build/tests.
+Fonts are separate: the normal reading fonts come from licensed packages; optional faces load on demand. Keep original copyright/OFL notices beside any bundled font; do not embed fonts whose licenses prohibit redistribution.
+
+The service worker downloads scans only at the reader's request. Large scans never belong in the unconditional application cache. See [Architecture](ARCHITECTURE.md#offline-and-infrastructure-boundaries).

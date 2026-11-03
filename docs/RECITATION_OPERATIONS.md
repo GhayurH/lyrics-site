@@ -1,26 +1,40 @@
-# Recitation Sets operations
+# Recitation Set operations
 
-Infrastructure and maintenance for [Recitation Sets](RECITATION_SETS.md). [Validation](CONTRIBUTING.md#code-and-tests) owns build/CI commands.
+For product behavior, identity and private link security see [Recitation Sets](RECITATION_SETS.md). This document covers **infrastructure**, not editorial sources or the main-site build.
 
-## Cloudflare configuration
+## Ownership and environments
 
-| Config | Purpose |
+| File / binding | Role |
 | --- | --- |
-| Root `wrangler.toml` | `lyrics-site` Pages, `dist`, production/preview D1 bindings |
-| `workers/wrangler.cleanup.jsonc` | Independently deployed `kalam-recitation-cleanup` Worker |
+| `wrangler.toml` | Pages configuration and separate production/preview D1 bindings |
+| `schema/recitation.sql` | **Fresh database bootstrap only**, not a repeatable migration |
+| `functions/api/recitation-sets/` | Capability-protected published programme API |
+| `functions/_lib/recitation*.js` | Validation, rate limits and retention contracts |
+| `workers/wrangler.cleanup.jsonc` | Independently deployed scheduled cleanup Worker |
 
-| Pages environment | `RECITATION_DB` | `RECITATION_RETENTION_MODE` |
-| --- | --- | --- |
-| Production | `kalam-recitation-sets` | `production` |
-| Preview | `kalam-recitation-sets-preview` | `preview` |
+Production binds `RECITATION_DB` to `kalam-recitation-sets` with `RECITATION_RETENTION_MODE=production`. Preview uses `kalam-recitation-sets-preview` and `preview`. Do not reuse preview data as production fixtures. `RECITATION_RATE_LIMIT_SECRET` may protect IP limiter derivation; treat it as a secret.
 
-Deploy the independent Worker from the repository root:
+## Bootstrap and migrations
+
+Only for a **new, empty** D1 database:
+
+```bash
+npx wrangler d1 execute NEW_DATABASE_NAME --remote --file=schema/recitation.sql
+```
+
+**Never replay** this schema against existing production/preview databases. Prepare reviewed incremental migrations for future schema changes, with rollback/recovery plans. Source Markdown changes do not require database migrations.
+
+## Scheduled retention cleanup
+
+Deploy the independent Worker from the project root:
 
 ```bash
 npx wrangler deploy --config workers/wrangler.cleanup.jsonc
 ```
 
-Its Cron schedule is `0 3 * * *` (03:00 UTC daily), with `PRODUCTION_RECITATION_DB` and `PREVIEW_RECITATION_DB` bindings. The HTTP handler returns 404; no public admin endpoint exists. Cleanup deletes expired sets and rate-limit records in bounded batches, excluding permanent production sets. Metrics have 90-day retention in `recitation_maintenance_metrics`; inspect Workers Observability for failures.
+It runs daily at **03:00 UTC** (`0 3 * * *`), with `PRODUCTION_RECITATION_DB` and `PREVIEW_RECITATION_DB` bindings. Expired ordinary sets and stale rate-limit rows are deleted in bounded batches; permanent production sets are preserved. There is no public administrative endpoint. Metrics are retained for 90 days in `recitation_maintenance_metrics`.
+
+Example read-only operational query:
 
 ```sql
 SELECT day, sets_total, sets_permanent, sets_expired_pending,
@@ -29,16 +43,14 @@ FROM recitation_maintenance_metrics
 ORDER BY day DESC LIMIT 30;
 ```
 
-Document bytes are estimates, excluding SQLite/index overhead.
+Document byte counts are estimates and exclude SQLite/index overhead.
 
-## Schema and verification
+## Deployment verification
 
-`schema/recitation.sql` creates a **new empty** database:
+1. Verify the intended Pages environment bindings and Worker configuration before deploy.
+2. Confirm `dist/_routes.json` includes the API and public redirect, and `dist/_redirects` handles preview scan routing.
+3. On a disposable preview set, verify create, read, capability edit, concurrent-edit rejection, deletion and preview expiry policy.
+4. Check scheduled Worker logs and recent metrics for failed deletions or unusual growth.
+5. Confirm public caches and search contain no edit tokens or published private responses.
 
-```bash
-npx wrangler d1 execute NEW_DATABASE_NAME --remote --file=schema/recitation.sql
-```
-
-**Never replay this schema against existing production or preview D1 databases.** Use reviewed incremental migrations instead; source-poetry changes do not need schema migrations.
-
-Local Astro preview lacks Pages Functions and R2 redirects. Validate live publication/edit/delete on a deployment with the correct bindings. CI checks generated `_routes.json` and `_redirects` without downloading R2 assets.
+Local `astro preview` does not emulate Pages Functions, D1 or Cloudflare redirects; inspect the target deployment for those features. Build/test commands are owned by [Quality assurance](QUALITY_ASSURANCE.md).

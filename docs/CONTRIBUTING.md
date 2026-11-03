@@ -1,88 +1,66 @@
 # Contributing
 
-Preserve source wording and numbering. Do not silently modernize Urdu devotional poetry or infer uncertain source boundaries. [Architecture](ARCHITECTURE.md) defines code ownership; [Assets](ASSET_WORKFLOW.md) defines binary storage.
+The repository stores culturally and religiously significant source text. Treat Markdown and reviewed printed-source identities as editorial records, **not material to normalize for code convenience**. Start by identifying the actual contract in [Architecture](ARCHITECTURE.md), not by duplicating the nearest existing implementation.
 
-## Poetry and metadata
+## Editing poetry
 
-Standalone poetry lives in `src/data/lyrics/` and follows `src/content.config.ts`. `kalamType` is required. Keep poet, reciter, `haal`/`romanHaal`, occasion, language and tags in separate metadata fields. For Basta cross-references use `bastaPage` and `bastaNote: "original-selection" | "additional-stanzas"`; never add provenance lines inside verses.
+- Standalone poems are `src/data/lyrics/*.md`; source schema is `src/content.config.ts`. Retain required `kalamType` and independently meaningful poet, reciter, language, occasion, `haal` and `romanHaal` metadata. Roman text is a correctly indented `romanLyrics: |-` literal block.
+- Basta Urdu and Roman pages are independent editions under `src/data/basta/`. Preserve printed page numbers, stanza numbers, intentional line breaks, meaningful punctuation and the literal between-kalam `---***---` marker. The printed index is not a reason to invent missing poem boundaries.
+- Roman house style uses **Husain**, **Hasan**, `ڑ` → `r`, and Urdu `ے` → `e` (distinguish genuine Punjabi readings). Do not remove izafat, commas or meaningful words to make editions artificially align.
+- For **بی‌بی**, retain the canonical U+200C non-joiner; Roman is **Bibi** without a separator. Other invisible code points remain subject to review.
+- Standalone `sixVerseLayout: "pairs"` is used only for reviewed 2+2+2 forms; default six-verse layout is 4+2. Intentional different Urdu/Roman stanza verse counts require a *current* `stanzaLineExceptions` declaration.
+- `[[subtitle]] ` and `[[refrain]] ` may mark explicitly reviewed subordinate headings/refrains in **both** editions. These markers are metadata for visual roles; they are hidden by the renderer. Do not infer them automatically from arbitrary lines.
+- Provenance links are metadata (`bastaPage`, `bastaNote`), not in-verse credits.
 
-- Preserve reviewed Urdu wording, harakat, commas, asterisks, meaningful blanks, verse order and refrain/sixth lines. An intentional Urdu/Roman chorus-count difference may use `stanzaLineExceptions: [1, 2]`; stale declarations fail CI.
-- Write the two-syllable title as **بی‌بی** (U+200C zero-width **non-joiner**) throughout Urdu; Roman is **Bibi/bibi** with no separator. The unified `source:sync` / `source:check` commands handle this automatically. Only this exact non-joiner is exempt from the Unicode-control audit.
-- Roman Urdu follows **Husain**, **Hasan**, `ڑ` → `r`, `ے` → `e` (except Punjabi pronunciation). Preserve punctuation, vowels and izafat; capitalize Roman titles but do not gratuitously recase verses.
-- Keep separately printed stanza numbers as standalone lines in both editions; the Basta ODG middle column supplies the printed numbering. Separate poem stanzas with blank lines.
-- Default six-verse layout is 4+2. Use `sixVerseLayout: "pairs"` only for reviewed 2+2+2 text. Do not apply Basta-specific duplicate-refrain cleanup to standalone lyrics.
-- Keep `romanLyrics: |-` YAML indentation intact; do not change the title when splitting body lines.
+## Source synchronization and approvals
 
-## Basta
-
-Basta index, source pages, Roman transcriptions and settings are in `src/data/basta/`. Preserve printed page numbers, title/byline prefaces and **matching** `---***---` Urdu/Roman boundaries. Never hand-edit generated streaming output. Audit results are review candidates, not permission to reconstruct OCR by guesswork.
-
-### After changing any source Markdown
-
-Run `npm run source:sync` after editing Basta or standalone poetry. It normalizes known spelling conventions, synchronizes index **title labels**, verifies fragment assignments, safely refreshes existing recitation stanza fingerprints, and runs the full read-only source audit. Inspect the diff before committing. Use `npm run source:check` to validate without writing anything; every production build and PR uses the same check.
-
-If an explicitly reviewed fragment's **first line** changes, synchronization stops rather than silently reapproving it. After checking the printed scan and fragment boundaries, run `npm run source:sync -- --approve-fragments=138,421` (replace page numbers with those reported). The command updates only the approved opening fingerprints after checking that each fragment still has its original supplementary/continuation assignment. If fragments are inserted/reordered, review the `page:part` keys and mappings manually first. Newly printed-indexed poems or changes affecting multiple published IDs cannot be automatically approved.
-
-Astro reads the current Markdown whenever it builds. `npm run build` then regenerates the rendered pages, the Pagefind search index and the offline-search manifest; no search index needs to be edited or committed separately.
-
-For a reviewed subordinate heading or repeated major refrain, prefix the corresponding Urdu **and** Roman lines with `[[subtitle]] ` or `[[refrain]] `, respectively. Both markers are removed from rendered text. Ordinary verses remain unmarked.
+After **any** source Markdown change:
 
 ```bash
-npm run source:sync       # Normal after editing any poetry Markdown
-npm run source:check      # Read-only CI/build verification
-npm run content:review       # Every source needing editorial review (Basta and standalone)
-npm run content:review -- --markdown > review.md # Scan-linked review report
-npm run content:review -- --json                 # Machine-readable findings
-npm run --silent content:review -- --csv > review.csv # UTF-8 spreadsheet queue
-npm run content:review -- --strict               # Nonzero exit if review queue is not empty
-npm run content:review -- --summary --regression # CI gate: no structural or new editorial findings
-node scripts/sync-basta-index.mjs # Specialist title-only command (normally use source:sync)
-# Source separators and stanza numbers require manual review against scans.
-# The index sync command changes title labels only, never source Markdown.
+npm run source:sync
+git diff --check
+git diff                  # Verify wording, metadata, identities and regenerated labels
+npm run build
 ```
 
-The public npm scripts expose workflows rather than each internal phase. Specialist scripts in `scripts/` can still run directly with Node for targeted diagnosis; their checks and mutations are orchestrated by `source:check` and `source:sync`. Synchronization runs a final editorial regression gate without repeating every specialist check.
+`source:sync` orchestrates spelling normalization, index title labels, reviewed fragment checks, safe ID reconciliation and the final editorial regression gate. `source:check` performs the corresponding read-only validations and is already part of `npm run build`. Search pages, Pagefind and offline manifests are generated by the build, not hand-edited.
 
-The scan's contents need not all have printed-index entries. Small interspersed poems, quotations and bylines intentionally remain part of the source pages without getting standalone IDs. Record reviewed exceptions in `src/data/basta/fragment-roles.json`: each `page:fragment` key has an exact first-line `opening` and a short `reason`. Use `role: "supplement"` for intentionally unindexed poetry, or `role: "continuation"` with its permanent `of` identity for verified unnumbered continuations. The audit validates that the fragment is still genuinely unindexed and the opening still matches, so separator or index changes invalidate stale exceptions. Never classify the whole page, suppress Urdu/Roman checks, or fabricate an index entry just to silence a warning. `contentKind: editorial-note | english-appendix` and `romanExpected: false` are available for non-poetry source pages.
+A reviewed Basta fragment whose opening changes must be checked against the scan. Only after verifying the mapping run:
 
-Basta stanza and kalam bookmarks use the same page-and-ordinal key in Urdu and Roman, including streamed pages. Do not create separate IDs for editions.
+```bash
+npm run source:sync -- --approve-fragments=138,421
+```
 
-The review command checks script mixing, extended Latin letters, stray Unicode controls, stanza and verse alignment, metadata, missing editions, and uncertain Basta index/source mapping. Its findings are advisory; inspect original scans and intended refrains before editing. Do not fail builds merely because the existing reviewed OCR backlog is nonempty; the regression gate still rejects new findings and structural mistakes.
+Use actual reviewed page numbers; never bulk-approve uncertainty. The `fragment-roles.json` record has an exact `page:part` identity, reviewed opening and reason; `supplement` identifies intentionally unindexed poetry and `continuation` links to an existing permanent kalam. Stale or incorrect approvals should fail, not be silently rewritten. The complete editorial queue can be inspected with `npm run content:review` and `-- --markdown`, `-- --json`, `-- --csv`, `-- --summary`, or `-- --strict`.
 
-Stable `recitationId` values and numbered-stanza anchors are permanent. Review [Recitation Set identity rules](RECITATION_SETS.md#permanent-source-identity) before renaming, moving or renumbering a poem.
+Stable `recitationId`, Basta IDs and stanza anchors must never be regenerated to match a new filename or verse number. Ambiguous changes require an explicit editorial/identity review. See [Recitation Sets](RECITATION_SETS.md#permanent-source-identity).
+
+## Engineering standards
+
+- **One source of truth per behavior.** Parsing and source roles belong in `src/lib/`; server HTML in Astro; client DOM rendering in specialized view modules; browser interaction/state in controllers; remote API effects in services. Avoid a new implementation just because a route or device has a different entrypoint.
+- **Design from contracts.** Reject patch-on-patch CSS and historical file placement as architectural requirements. Tokens own reusable values, modules own feature-specific rules, and browser/container breakpoints follow the common reader contract.
+- **Progressive enhancement.** Render readable lyrics and real source links before JavaScript. Failures in lazy loading, external scans, D1 or offline storage should preserve source access and show meaningful errors.
+- **Comments are architectural documentation.** Explain *why* a function exists, its input/identity contract, error recovery and non-obvious invariants. Avoid line-by-line narration, outdated alternatives, TODO-as-documentation and one-off test artifacts.
+- **Explicit security boundaries.** Browser-local drafts are never published until instructed by the organizer. Private editor links or capabilities must never be indexed, logged, embedded in public QR codes or stored in offline caches.
+- **Minimal tests.** Prefer observable behavior, source integrity and pure boundary cases; extend existing suites, avoid duplicated smoke/full journeys and do not bake temporary screenshots or geometry into the repository.
 
 ## Code and tests
 
-Use Node.js **24** (minimum **22.23.4**) and `npm ci`. Reuse shared parsers, components and design tokens; avoid adding route-specific patches for cross-reader behavior. Write comments that explain non-obvious invariants, not progress notes.
-
 ```bash
-npm test               # Node models, editorial/content contracts, tokens
-npm run check          # Strict Astro/TypeScript diagnostics
-npm run build          # One unit-test + source-check pass, then Astro, Pagefind and offline manifest
-npm run test:smoke      # Critical Chromium journeys (@smoke)
-npm run test:browser    # Functional Chromium regression, excluding measurements
-npm run perf:assets     # Built file sizes (after build)
-npm run perf:browser    # Opt-in FCP/LCP, layout shift and resource transfer report (@perf)
+npm ci
+npm run check           # TypeScript + Astro semantic diagnostics
+npm run build           # Node tests + source integrity, then Astro + Pagefind
+npm run test:smoke      # Critical Chromium journeys
+npm run test:browser    # All functional Chromium journeys, including smoke
+npm run perf:assets     # Optional compiled asset report
+npm run perf:browser    # Non-gating performance scenarios
 git diff --check
 ```
 
-Install Chromium with `npx playwright install chromium`. Browser tests need a production build first; `astro preview` does not reproduce Cloudflare Pages Functions or R2 redirects.
+Use Node.js 24 (minimum 22.23.4). Browser tests require `npx playwright install chromium` and a built site. Do not run `npm test` and `source:check` separately **in addition to** `npm run build` unless debugging them: the prebuild hook already owns both.
 
-### Choosing test coverage
+CI runs one build plus smoke for ordinary PRs. Full browser runs on the scheduled/manual workflow or a `[full-ci]` commit marker; `[check-ci]` forces diagnostics when otherwise skipped. Full includes smoke—do not execute both suites in one job.
 
-- **Unit (`tests/*.test.mjs`):** parser, source identity, storage-independent logic, editorial boundaries and static build contracts. Extend the owning file; do not create a one-test file for a closely related function.
-- **Smoke (`@smoke`):** five core journeys: no-JavaScript readers, homepage/category navigation, saved lyric favourites, search filters, and local Recitation Set creation. Each should protect a distinct critical workflow.
-- **Full browser:** distinct user journeys not represented by smoke: error states, cross-page navigation, backup/restore, editor flows, and publishing. Avoid CSS pixel assertions and repeated device/theme permutations after the shared layout owns them.
-- **Performance (`@perf`):** non-gating Chromium measurements run separately with `npm run perf:browser` rather than making functional CI depend on noisy timing values.
+## PR review
 
-Full Chromium includes these same five smoke tests; CI chooses smoke **or** full, never both. The build hook alone owns unit tests and source/index/ID checks; don't duplicate these in workflow steps. Do not copy a scenario merely to run it in smoke: mark its existing browser test. Test observable behavior and state, not fixed dimensions, individual historical fixes or arbitrary source-page screenshots. Keep a representative check when a dynamic layout algorithm can actually regress; reserve broader device/theme exploration for manual QA. CI retains failure-only screenshots/traces temporarily; these are GitHub Actions artifacts and must not be committed.
-
-**CI:** Every PR/main push runs a single production build (including Node tests and the unified source/index/ID audit) plus Chromium smoke. Astro diagnostics run for changed `.astro`, `.ts`, `.tsx`, `.js` or `.jsx` sources, or on scheduled/manual full runs. Full Chromium runs each Sunday and via **Actions → Reader validation → Run workflow** or an explicit `[full-ci]` commit marker. Use `[check-ci]` to force Astro diagnostics on other changes. The full run also generates the complete Basta-and-standalone content review queue; inspect CI for the final commit, not an earlier commit.
-
-Never commit `dist/`, `.astro/`, `node_modules/`, temporary test output or R2 binaries. Source edits must keep permanent IDs stable; use `npm run source:sync` for safe in-place identity updates and explicitly review anything it refuses.
-
-## Manual review
-
-Follow [Quality assurance](QUALITY_ASSURANCE.md) for real viewport, zoom, font, accessibility and deployment checks. Full CI does not certify a screen reader or physical device. Confirm PDF export page breaks and Nastaliq rendering with an actual browser; verify published programme editing against deployed D1 bindings.
-
-Questions and corrections: **lyricsadmin@gmail.com**.
+Describe the ownership change, canonical sources affected, validation performed and any relevant user-visible changes. Keep the change scoped and explain exceptions. Check responsive/no-JS behavior, source text diffs, identity-lock changes, accessibility/focus, security and build outputs. Review [Quality assurance](QUALITY_ASSURANCE.md) before merging.

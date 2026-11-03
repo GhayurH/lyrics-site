@@ -1,50 +1,36 @@
 # Kalam Archive
 
-[Kalam Archive](https://kalamarchive.com) is a searchable collection of Urdu devotional poetry with Roman Urdu editions and original scans where available.
+[Kalam Archive](https://kalamarchive.com) is a static-first archive of Urdu devotional poetry, Roman Urdu readings and original source scans. It supports browsing, search, bookmarks, offline reading and organizer-created recitation programmes without user accounts.
 
-## Features
+## Architecture
 
-- **Kalam:** Browse by type, search Urdu/Roman titles and verses, and save favourites.
-- **Basta:** Read the original book page by page or continuously; verified individual kalams have shareable URLs, indexed source pages, and source scans.
-- **Readers:** Choose Urdu, Roman, and image editions, fonts and themes; use Focus Mode, bookmarks and reading progress.
-- **Saved & recent:** Keep browser-local bookmarks and drafts, import/export a JSON backup, and optionally download selected pages, source scans, and the search index for offline use.
-- **Recitation Sets:** Arrange kalams and verified Marsiya stanzas, assign reciters, use optional programme templates, share read-only links and public QR codes, print/save as PDF, export standalone offline HTML, and optionally guide live navigation.
+Astro builds accessible HTML from editorially maintained Markdown. Pagefind indexes the rendered pages. Cloudflare Pages serves the site; R2 holds large image/PDF assets; Pages Functions and D1 are used **only** for explicitly published Recitation Sets. Saved items, reading preferences and unfinished programme drafts live in the visitor's browser.
 
-Built with Astro and Pagefind on Cloudflare Pages. R2 stores scans and PDFs; Pages Functions and D1 store explicitly published Recitation Sets. Browsing, saved items and drafts do not require an account.
+Source text remains authoritative: neither the search pipeline nor browser rendering rewrites poetry. The same parsing and design contracts serve page readers, the continuous Basta reader and recitation exports.
 
-## Development
+## Develop
 
-Use Node.js **24** (minimum **22.23.4**).
+Node.js 24 is recommended (minimum 22.23.4).
 
 ```bash
-git clone https://github.com/GhayurH/lyrics-site.git
-cd lyrics-site
 npm ci
-npm run dev             # Local development (localhost:4321)
-npm run preview         # Preview an existing production build
-npm run source:sync     # Reconcile source-linked metadata after Markdown edits
-npm run source:check    # Read-only index, fragment, source and identity checks
-npm run check           # Astro and TypeScript validation
-npm run build           # Unit tests and source checks once, then Astro and Pagefind
-npm run test:smoke      # Critical Chromium journeys
-npm run test:browser    # Full functional Chromium regression
-npm run content:review  # All Basta/standalone source-review candidates
-npm run perf:assets     # Inspect built asset sizes
-npm run perf:browser    # Optional browser performance measurements
+npm run dev              # Local Astro development
+npm run check            # Astro + TypeScript
+npm run build            # Tests + source integrity, then Astro, Pagefind and offline manifest
+npm run preview          # Inspect the built site
 ```
 
-The public `npm run` commands are limited to common workflows; low-level maintenance commands remain in `scripts/` for direct invocation when necessary.
+When changing poetry, run `npm run source:sync` and **review its diff** before building. Builds run `source:check` read-only. For integration changes, run `npm run test:browser` against a production build; `test:smoke` selects only critical journeys. Use `npm run content:review` for the editorial review queue and `perf:assets` / `perf:browser` for performance checks. Browser tests require Chromium (`npx playwright install chromium`).
 
-`npm run build` validates all source-linked metadata, regenerates Pagefind from rendered reading pages, and creates the downloadable offline search asset manifest. Urdu and Roman stanza bookmarks share one source key and appear together in Saved Library. Browser commands require a build and Chromium (`npx playwright install chromium`). Local preview does not emulate Cloudflare Functions or R2 redirects; see [Asset workflow](docs/ASSET_WORKFLOW.md).
+Local Astro preview does not emulate Cloudflare D1 Functions or R2 routing; test those in an appropriate Pages deployment.
 
-## Documentation
+## Contributor documentation
 
-- [Contributing](docs/CONTRIBUTING.md) — editorial conventions and validation
-- [Architecture](docs/ARCHITECTURE.md) — code ownership and reader contracts
-- [Quality assurance](docs/QUALITY_ASSURANCE.md) — responsive, accessibility and deployment checks
-- [Assets](docs/ASSET_WORKFLOW.md) — R2 and local media
-- [Recitation Sets](docs/RECITATION_SETS.md) — features, IDs, publishing and permissions
-- [Operations](docs/RECITATION_OPERATIONS.md) — D1, Worker and retention
-- [Manual audits](audit/README.md) — maintenance commands
+- [Architecture](docs/ARCHITECTURE.md) — dependency boundaries and **single owners** for source models, browser features and CSS.
+- [Contributing](docs/CONTRIBUTING.md) — editorial conventions, change procedure and engineering standards.
+- [Quality assurance](docs/QUALITY_ASSURANCE.md) — automated and manual verification.
+- [Assets](docs/ASSET_WORKFLOW.md) — external scans, fonts, upload and preview routing.
+- [Recitation Sets](docs/RECITATION_SETS.md) — product behavior, source identity and security.
+- [Operations](docs/RECITATION_OPERATIONS.md) — D1, scheduled cleanup and deployment.
 
-Corrections or additions: **lyricsadmin@gmail.com**.
+Suggest poetry corrections at **lyricsadmin@gmail.com**.
