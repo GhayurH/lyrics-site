@@ -374,7 +374,7 @@ html[data-reading-focus="true"][data-reading-toc-open="true"] .basta-reader-inde
 
 .reading-column-choice { flex: 1; justify-content: center; }
 }
- 
+
 /* Measured overlay works for a two-column pair beside or below an optional scan. */
 .lyric-reading-grid, .basta-parallel-kalams { position: relative; }
 .reading-column-divider {
