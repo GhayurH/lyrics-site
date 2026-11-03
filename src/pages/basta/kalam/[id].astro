@@ -24,7 +24,6 @@ const { kalam } = Astro.props as { kalam: BastaKalam };
 const page = kalam.startPage;
 const pages = [...new Set(kalam.pages)].sort((a, b) => a - b);
 const hasRoman = Boolean(kalam.roman?.trim());
-const scanUrl = `/images/basta/original/${String(page).padStart(3, "0")}.png`;
 const kalamType = getBastaKalamTypeForSection(kalam.sectionRoman);
 const sourceScanUrl = (value: number) => `/images/basta/original/${String(value).padStart(3, "0")}.png`;
 ---
@@ -92,21 +91,27 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       data-line-spacing="default"
 
     >
-      <figure class="basta-original-page" data-pagefind-ignore data-synced-scroll-panel>
-        <a id={`scan-page-${page}`} href={scanUrl} aria-label={`Enlarge original scan of page ${page}`}>
-          <img src={scanUrl} alt={`Original Basta page ${page}`} loading="lazy" width="1240" height="1754" />
-        </a>
-        {pages.length > 1 && <figcaption>
-          <details class="basta-additional-scans">
-            <summary>View all {pages.length} original source scans</summary>
-            {pages.slice(1).map((p) => <div class="basta-additional-scan">
-              <a id={`scan-page-${p}`} href={sourceScanUrl(p)} aria-label={`Enlarge original scan of page ${p}`}>
-                <img src={sourceScanUrl(p)} alt={`Original Basta page ${p}`}
-                  loading="lazy" decoding="async" width="1240" height="1754" />
-              </a>
-              <a href={`/basta/${p}/`}>Read original page {p}</a>
-            </div>)}
-          </details>
+      <figure class="basta-original-page basta-kalam-scans" data-pagefind-ignore
+        data-synced-scroll-panel data-basta-scan-pages>
+        {/* Stable anchors keep stanza source links working while only one image
+            occupies the reader. The other scans remain hidden until selected. */}
+        {pages.map((p) => <a id={`scan-page-${p}`} href={sourceScanUrl(p)}
+          data-basta-scan-page={p} hidden={p !== page}
+          aria-label={`Enlarge original scan of page ${p}`}>
+          <img src={sourceScanUrl(p)} alt={`Original Basta page ${p}`}
+            loading="lazy" decoding="async" width="1240" height="1754" />
+        </a>)}
+        {pages.length > 1 && <figcaption class="basta-kalam-scan-nav"
+          aria-label="Original source scan pages">
+          <button type="button" data-basta-scan-prev aria-label="Previous source scan" disabled>
+            ← Previous
+          </button>
+          <span data-basta-scan-status role="status" aria-live="polite" aria-atomic="true">
+            Page {page} · 1 of {pages.length}
+          </span>
+          <button type="button" data-basta-scan-next aria-label="Next source scan">
+            Next →
+          </button>
         </figcaption>}
       </figure>
       {hasRoman
@@ -122,10 +127,12 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
     import { initScanViewer } from "../../../client/scan-viewer";
     import { initCorrectionDialog } from "../../../client/corrections";
     import { initBastaKalamFavorites } from "../../../client/basta-kalam-favorites";
+    import { initBastaKalamScans } from "../../../client/basta-kalam-scans";
     initReadingControls();
     initVerseFitting();
     initScanViewer();
     initCorrectionDialog();
     initBastaKalamFavorites();
+    initBastaKalamScans();
   </script>
 </BaseLayout>

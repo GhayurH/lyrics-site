@@ -320,6 +320,71 @@ test("Basta inline scans have no card background, padding, or image border in an
   await expect(scan.locator("img")).toHaveCSS("border-top-left-radius", "0px");
 });
 
+test("multi-page Basta kalams show one scan with previous/next navigation", async ({ page }) => {
+  await page.setViewportSize({ width: 1530, height: 964 });
+  const route = "/basta/kalam/basta-marsiye-117/";
+  await page.goto(route);
+  for (const edition of ["image", "urdu", "roman"])
+    await page.locator(`[data-reading-column][value="${edition}"]`).check();
+
+  const figure = page.locator(".basta-kalam-scans");
+  const scans = figure.locator(":scope > a[data-basta-scan-page]");
+  const first = figure.locator("#scan-page-284");
+  const second = figure.locator("#scan-page-285");
+  const previous = figure.getByRole("button", { name: "Previous source scan" });
+  const next = figure.getByRole("button", { name: "Next source scan" });
+  const status = figure.locator("[data-basta-scan-status]");
+  await expect(scans).toHaveCount(2);
+  await expect(first).toBeVisible();
+  await expect(second).toBeHidden();
+  await expect(previous).toBeDisabled();
+  await expect(next).toBeEnabled();
+  await expect(status).toHaveText("Page 284 · 1 of 2");
+  await expect(figure.locator(":scope > a[data-basta-scan-page]:visible")).toHaveCount(1);
+  await expect.poll(() => figure.getAttribute("data-floating-scan")).toBe("true");
+
+  await next.click();
+  await expect(first).toBeHidden();
+  await expect(second).toBeVisible();
+  await expect(previous).toBeEnabled();
+  await expect(next).toBeDisabled();
+  await expect(status).toHaveText("Page 285 · 2 of 2");
+  await expect(page).toHaveURL(/#scan-page-285$/);
+  await expect(figure.locator(":scope > a[data-basta-scan-page]:visible")).toHaveCount(1);
+  await second.click();
+  const viewer = page.locator("dialog.scan-viewer");
+  await expect(viewer).toBeVisible();
+  await expect(viewer.locator("img")).toHaveAttribute("src", /\/285\.png$/);
+  await viewer.getByRole("button", { name: "Close" }).click();
+
+  await previous.click();
+  await expect(first).toBeVisible();
+  await expect(second).toBeHidden();
+  await expect(page).toHaveURL(/#scan-page-284$/);
+  await page.locator("[data-reading-focus-enter]").click();
+  await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
+  await next.click();
+  await expect(second).toBeVisible();
+  await expect(first).toBeHidden();
+  await expect(status).toHaveText("Page 285 · 2 of 2");
+  await expect(page).toHaveURL(/reading=1/);
+  await page.locator("[data-reading-focus-exit]").click();
+  await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
+
+  // Source-page fragments and stanza provenance links select the same scan.
+  await page.goto(route + "#scan-page-285");
+  await expect(second).toBeVisible();
+  await expect(first).toBeHidden();
+  await page.locator(".basta-kalam-source-map summary").click();
+  await page.locator('.basta-kalam-source-map a[href="#scan-page-284"]').first().click();
+  await expect(first).toBeVisible();
+  await expect(second).toBeHidden();
+
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect(figure.locator(":scope > a[data-basta-scan-page]:visible")).toHaveCount(1);
+  await expect(next).toBeEnabled();
+});
+
 test("Marsiye 117 floats an uncropped original scan beside both languages", async ({ page }) => {
   await page.setViewportSize({ width: 1530, height: 964 });
   await page.goto("/basta/kalam/basta-marsiye-117/");
