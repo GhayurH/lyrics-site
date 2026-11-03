@@ -19,3 +19,107 @@
 .reading-controls :is(button, input, select):focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 .reading-scroll-top[hidden] { display: none !important; }
 .reading-scroll-top { display: none; }
+
+/* Responsive toolbar visibility and page navigation across all reading routes. */
+html[data-reading-focus="true"] .reading-controls > .reading-contents-button { display: none; }
+
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-contents-button { display: block; order: 3; pointer-events: auto; }
+
+html[data-reading-toc-open="true"] .reading-contents-button { background: var(--button-background); color: var(--button-text); }
+
+@media (max-width: 700px) {
+.reading-controls { justify-items: center; }
+
+.reading-page-jump { grid-column: 1 / -1; }
+}
+
+@media (pointer: coarse) {
+.reading-scroll-top:not([hidden]) { position: fixed; right: max(.75rem,env(safe-area-inset-right)); bottom: max(.75rem,env(safe-area-inset-bottom)); z-index: 105; display: block; box-shadow: 0 .3rem 1rem rgb(0 0 0 / .25); }
+}
+
+@media (orientation: landscape) and (pointer: coarse) and (max-height: 600px) {
+/* Match the JS-enhanced desktop rule's specificity so the static layout wins. */
+  html[data-js-available="true"]:not([data-reading-focus="true"]) .reading-controls {
+    position: static;
+    box-shadow: none;
+  }
+}
+
+@media (max-width: 700px) {
+.reading-controls .reading-focus-enter { grid-column: 1; grid-row: 1; width: 100%; }
+
+.reading-controls .reading-view-control { grid-row: 2; }
+
+.reading-controls > .reading-control-group:not(.reading-view-control) { grid-column: 2; }
+
+html[data-reading-focus="true"] .reading-controls > .reading-control-group:not(.reading-view-control) { display: none; }
+
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-control-group { display: grid; }
+}
+
+.reading-current-page { align-self: center; padding: .25rem .5rem; color: var(--secondary-text); font-size: .8rem; font-weight: 700; white-space: nowrap; }
+
+.reading-open-page { display: inline-flex; align-items: center; align-self: center; min-height: var(--ui-target); border-radius: var(--ui-radius-tight); padding: var(--ui-control-padding); color: var(--primary-text); font-size: var(--ui-control-font-size); text-underline-offset: .2em; }
+
+.reading-open-page:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+
+html[data-reading-focus="true"] .reading-controls > .reading-open-page { display: none; }
+
+html[data-reading-focus="true"] .reading-controls[data-reading-options-open="true"] > .reading-open-page { display: inline-flex; order: 3; pointer-events: auto; }
+
+.reading-view-control-only { display: none !important; }
+
+/* Mobile regular reading has one compact row by default. Focus mode owns its
+   own Options button and must not inherit the non-immersive visibility rules. */
+.reading-regular-toggle {
+  display: none; align-items: center; justify-content: center;
+  min-height: var(--ui-target); border: var(--ui-border);
+  border-radius: var(--ui-radius); padding: var(--ui-control-padding);
+  background: var(--surface-background); color: var(--primary-text);
+  font: inherit; font-size: var(--ui-control-font-size); font-weight: 700; cursor: pointer;
+}
+
+@media (max-width: 700px) {
+html:not([data-reading-focus="true"]) .reading-controls {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    justify-items: stretch;
+  }
+
+html:not([data-reading-focus="true"]) .reading-controls > .reading-focus-enter {
+    grid-column: 1; grid-row: 1;
+  }
+
+html:not([data-reading-focus="true"]) .reading-controls > .reading-regular-toggle {
+    display: inline-flex;
+    grid-column: 2; grid-row: 1;
+  }
+
+.reading-regular-toggle [data-reading-regular-indicator] { margin-inline-start: .3rem; }
+
+html:not([data-reading-focus="true"]) .reading-controls:not([data-regular-options-open="true"])
+    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump,.reading-bookmark-page) {
+    display: none !important;
+  }
+
+html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"]
+    > :is(.reading-control-group,.reading-current-page,.reading-open-page,.reading-contents-button,.reading-page-jump,.reading-bookmark-page) {
+    grid-row: auto;
+  }
+
+html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"] > .reading-view-control {
+    grid-column: 1 / -1;
+  }
+
+html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"]
+    > .reading-control-group:not(.reading-view-control) {
+    grid-column: 1 / -1;
+  }
+
+html:not([data-reading-focus="true"]) .reading-controls[data-regular-options-open="true"] > .reading-page-jump {
+    grid-column: 1 / -1; justify-self: center;
+  }
+
+html[data-mobile-header-hidden="true"]:not([data-reading-focus="true"]) .reading-controls {
+    top: .5rem;
+  }
+}

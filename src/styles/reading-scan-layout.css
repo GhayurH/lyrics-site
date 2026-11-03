@@ -1,0 +1,79 @@
+/* Floating scan geometry: sticky alongside columns, static when stacked. */
+@container reader-shell (max-width: 76rem) {
+/* When three independent columns would make verses unreasonably narrow,
+     show a centred, viewport-bounded scan above the two parallel text editions.
+     The scan must not expand to the entire page width or remain sticky on a
+     different row from the poetry. */
+  .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) {
+    justify-self: center;
+    width: min(100%,var(--reading-scan-width));
+    padding: clamp(.5rem,1.5vw,1rem);
+  }
+
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) > a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+.lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"]
+    > .lyric-reading-image:not([data-floating-scan="true"]) img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    max-height: min(67dvh,44rem);
+    margin-inline: auto;
+  }
+}
+
+@container reader-shell (max-width: 46rem) {
+html[data-reading-focus="true"] .lyric-reading-grid:not([data-reading-mode="image"]) > .lyric-reading-image[data-floating-scan="true"],
+  html[data-reading-focus="true"] .basta-page-grid[data-reading-root]:not([data-reading-mode="image"]) > .basta-original-page[data-floating-scan="true"],
+  html[data-reading-focus="true"] .basta-reader-flow:not([data-reading-mode="image"]) .basta-reader-page-grid > .basta-reader-original-image[data-floating-scan="true"] {
+    position: static;
+    top: auto;
+    height: auto;
+    max-height: none;
+    align-self: start;
+  }
+}
+
+/* A scan follows the poetry only while both occupy the same grid row.
+   Its viewport is centred below the visible sticky navigation. */
+[data-floating-scan="true"] {
+  position: sticky;
+  top: var(--reader-scan-clearance, 5rem);
+  height: max(6rem, calc(100dvh - var(--reader-scan-clearance, 5rem) - .75rem));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-self: start;
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  overflow: visible;
+}
+
+[data-floating-scan="true"] > a,
+[data-floating-scan="true"] > .recite-scan-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+[data-floating-scan="true"] img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: max(5rem, calc(100dvh - var(--reader-scan-clearance, 5rem) - 1.5rem));
+  object-fit: contain;
+  border: var(--ui-border);
+  border-radius: .65rem;
+}
