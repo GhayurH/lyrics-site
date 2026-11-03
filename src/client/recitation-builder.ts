@@ -5,15 +5,15 @@ import { sourceWarnings } from "./recitation-source-validation";
 import { publishSharedRecitation, updateSharedLivePosition, deleteSharedRecitation } from "./recitation-remote";
 import type { RecitationDraft, RecitationItem, StanzaRef, RecitationSet } from "../lib/recitation-set";
 import { catalogById, loadBasta, loadCatalog } from "./recitation-catalog";
-import { renderProgrammeSequence, renderCatalogueResults, renderStanzaArrangement } from "./recitation-builder-view";
+import { renderProgrammeSequence, renderCatalogueResults, renderStanzaArrangement, renderRecitationControls, renderDraftSelector } from "./recitation-builder-view";
 import { validateRecitationSet } from "../lib/recitation-set";
 import { readTemplates, saveTemplate, removeTemplate, findTemplate, STARTER_TEMPLATES, materializeTemplate } from "./recitation-templates";
 import {
-  createLocalDraft, draftFromRemote, draftUrl, duplicateDraft, editorUrl,
-  findRemoteDraft, publicUrl, readDrafts, readerUrl, removeDraft, saveDraft,
+  createLocalDraft, draftFromRemote, draftUrl, duplicateDraft,
+  findRemoteDraft, publicUrl, readDrafts, removeDraft, saveDraft,
 } from "./recitation-storage";
 
-/** Own one mutable draft session; views receive commands, not storage or publishing access. */
+/** Own one mutable draft session; view modules receive current state and user commands, but cannot mutate stored drafts or publish. */
 export async function initRecitationBuilder(): Promise<void> {
   const app = elm<HTMLElement>("recite-app");
   if (!app) return;
@@ -30,7 +30,7 @@ export async function initRecitationBuilder(): Promise<void> {
   /** Save locally, then recalculate all dependent published and reader actions. */
   function persist() {
     try { saveDraft(draft); } catch (e) { say((e as Error).message); }
-    updateLinks();
+    renderRecitationControls(draft);
   }
   /** Switch drafts without destroying the previous draft or its private capability. */
   function setCurrent(next: RecitationDraft) {
@@ -39,101 +39,6 @@ export async function initRecitationBuilder(): Promise<void> {
     history.replaceState(null, "", draftUrl(draft.id));
     arranging = undefined;
     render();
-  }
-  /** Derive share, expiry, live and disabled controls from a single draft snapshot. */
-  function updateLinks() {
-    const hasTitle = !!draft.set.title.trim();
-    const hasKalams = draft.set.items.length > 0;
-    const complete = hasTitle && hasKalams;
-    const sharePanel = document.querySelector<HTMLElement>(".recite-share");
-    if (sharePanel) sharePanel.dataset.ready = String(complete);
-    const shareDetails = elm<HTMLDetailsElement>("recite-share-details");
-    // Manual disclosure choices are respected until another draft is selected.
-    if (!shareDetails.dataset.userToggled) shareDetails.open = complete || Boolean(draft.remoteId);
-    for (const [stage, available] of [["plan", true], ["find", true], ["share", complete]] as const) {
-      const link = document.querySelector<HTMLAnchorElement>(`.recite-steps [data-recite-step="${stage}"]`);
-      if (link) link.dataset.stageReady = String(available);
-    }
-    // A fresh blank draft already exists; avoid creating or copying empty
-    // entries that all appear identical in the set picker.
-    const hasDraftContent = hasTitle || hasKalams ||
-      !!draft.set.occasion.trim() || !!draft.set.description.trim();
-    elm<HTMLButtonElement>("recite-new").disabled = !hasDraftContent;
-    elm<HTMLButtonElement>("recite-duplicate").disabled = !hasKalams;
-    elm<HTMLButtonElement>("recite-delete").disabled = !hasKalams;
-    const read = elm<HTMLAnchorElement>("recite-open-reader");
-    read.href = complete ? readerUrl(draft) : "/recite/";
-    read.setAttribute("aria-disabled", String(!complete));
-    read.title = complete ? "Open this programme for reading" : (!hasTitle ? "Give your set a title before reading" : "Add a kalam before reading");
-    read.classList.toggle("recite-link-disabled", !complete);
-    const publish = elm<HTMLButtonElement>("recite-publish");
-    publish.disabled = !complete;
-    publish.textContent = draft.remoteId && draft.editToken ? "Update shared set" : "Publish set";
-    const reason = !hasTitle && !hasKalams
-      ? "Give your set a title and add at least one kalam to publish."
-      : !hasTitle ? "Give your set a title to publish."
-      : !hasKalams ? "Add at least one kalam to publish." : "";
-    const publishWrapper = elm<HTMLElement>("recite-publish-control");
-    publishWrapper.dataset.unavailable = String(!complete);
-    publishWrapper.dataset.reason = reason;
-    publishWrapper.tabIndex = complete ? -1 : 0;
-    elm<HTMLElement>("recite-publish-help").textContent = reason;
-    const state = elm<HTMLElement>("recite-publish-state");
-    state.textContent = draft.remoteId
-      ? draft.editToken
-        ? draft.publishedSnapshot === JSON.stringify(draft.set) ? "Shared · Up to date" : "You have changes to share"
-        : "You can publish your own copy"
-      : "Not shared yet";
-    const expiry = elm<HTMLElement>("recite-expiration");
-    const published = draft.remoteId && draft.publishedSnapshot === JSON.stringify(draft.set);
-    expiry.textContent = !draft.remoteId
-      ? "Your draft is saved on this device. Share it when you are ready."
-      : !published ? "Publish again to share your latest changes."
-      : draft.set.permanent ? "Your shared programme stays available until you delete it."
-      : draft.expiresAt ? "Your sharing link is available until " +
-        new Date(draft.expiresAt).toLocaleDateString() + ". Updating the programme extends this date."
-      : "Your sharing link follows the usual two-year expiry period.";
-    const deletePublished = elm<HTMLButtonElement>("recite-delete-published");
-    deletePublished.hidden = !(draft.remoteId && draft.editToken);
-    const shared = elm<HTMLElement>("recite-shared-links");
-    shared.hidden = !draft.remoteId;
-    const liveControls = elm<HTMLElement>("recite-live-controls");
-    liveControls.hidden = !(draft.remoteId && draft.editToken);
-    const liveIndex = Math.max(0, draft.set.items.findIndex((item) =>
-      item.uid === draft.set.live?.currentUid));
-    const synced = !!draft.remoteId && !!draft.editToken &&
-      draft.publishedSnapshot === JSON.stringify(draft.set);
-    const liveActive = draft.set.live?.active === true;
-    elm<HTMLElement>("recite-live-position").textContent = draft.set.items.length
-      ? "Kalam " + (liveIndex + 1) + " / " + draft.set.items.length + (liveActive ? " · Live" : " · Stopped")
-      : "No kalams";
-    for (const id of ["recite-live-prev", "recite-live-next", "recite-live-start", "recite-live-stop"]) {
-      elm<HTMLButtonElement>(id).disabled = !synced || !draft.set.items.length;
-    }
-    elm<HTMLButtonElement>("recite-live-prev").disabled ||= liveIndex === 0;
-    elm<HTMLButtonElement>("recite-live-next").disabled ||= liveIndex >= draft.set.items.length - 1;
-    elm<HTMLButtonElement>("recite-live-start").disabled ||= liveActive;
-    elm<HTMLButtonElement>("recite-live-stop").disabled ||= !liveActive;
-    elm<HTMLElement>("recite-live-message").textContent = !draft.remoteId ? ""
-      : !synced ? "Publish your programme changes before controlling the live position."
-      : liveActive ? "Broadcasting the selected kalam to participants who opted in."
-      : "Live following is stopped.";
-    elm<HTMLButtonElement>("recite-show-qr").hidden = !draft.remoteId;
-    if (draft.remoteId) {
-      elm<HTMLInputElement>("recite-public-url").value = publicUrl(draft.remoteId);
-      elm<HTMLInputElement>("recite-edit-url").value =
-        draft.editToken ? editorUrl(draft) : "Not available on this device";
-      elm<HTMLButtonElement>("recite-copy-edit").disabled = !draft.editToken;
-      elm<HTMLButtonElement>("recite-show-qr").hidden = false;
-    }
-  }
-  /** Preserve selected identity while rebuilding the local-draft chooser. */
-  function refreshDrafts() {
-    const chooser = elm<HTMLSelectElement>("recite-drafts");
-    chooser.replaceChildren(...readDrafts().map((entry) =>
-      option(entry.id, (entry.set.title || "Untitled set") +
-        (entry.remoteId ? " · shared" : " · draft"))));
-    chooser.value = draft.id;
   }
   /** Bind stateless item rows to source-preserving draft mutations. */
   function renderSequence() {
@@ -160,7 +65,7 @@ export async function initRecitationBuilder(): Promise<void> {
       update(item, field, value) {
         item[field] = value;
         persist();
-        if (field === "reciter") refreshDrafts();
+        if (field === "reciter") renderDraftSelector(draft);
       },
     });
   }
@@ -178,7 +83,7 @@ export async function initRecitationBuilder(): Promise<void> {
     }, item => {
       if (draft.set.items.length >= 40) { say("A set can contain up to 40 kalams"); return; }
       draft.set.items.push({ uid: crypto.randomUUID(), kind: item.kind, id: item.id, sourceTitle: item.title });
-      persist(); renderSequence(); refreshDrafts();
+      persist(); renderSequence(); renderDraftSelector(draft);
       say("Added to programme: " + item.title);
     });
   }
@@ -188,7 +93,7 @@ export async function initRecitationBuilder(): Promise<void> {
     elm<HTMLInputElement>("recite-occasion").value = draft.set.occasion;
     elm<HTMLTextAreaElement>("recite-description").value = draft.set.description;
     elm<HTMLInputElement>("recite-permanent").checked = draft.set.permanent === true;
-    refreshDrafts(); renderSequence(); renderResults(); updateLinks();
+    renderDraftSelector(draft); renderSequence(); renderResults(); renderRecitationControls(draft);
     if (arranging) void showArrangement();
     else elm<HTMLElement>("recite-arrangement").hidden = true;
   }
@@ -361,7 +266,7 @@ export async function initRecitationBuilder(): Promise<void> {
   ] as const) {
     elm<HTMLInputElement | HTMLTextAreaElement>(id).addEventListener("input", (e) => {
       draft.set[field] = (e.target as HTMLInputElement).value;
-      persist(); refreshDrafts();
+      persist(); renderDraftSelector(draft);
     });
   }
   elm<HTMLInputElement>("recite-permanent").addEventListener("change", (event) => {
@@ -418,11 +323,11 @@ export async function initRecitationBuilder(): Promise<void> {
     try {
       const updated = await publishSharedRecitation(draft, clean);
       elm<HTMLInputElement>("recite-permanent").checked = !!draft.set.permanent;
-      persist(); refreshDrafts(); updateLinks();
+      persist(); renderDraftSelector(draft); renderRecitationControls(draft);
       say(updated ? "Shared programme updated. The public link is unchanged." :
         "Published. Share the read-only link with the group.");
     } catch (e) { say((e as Error).message); }
-    finally { updateLinks(); }
+    finally { renderRecitationControls(draft); }
   });
   let updatingLive = false;
   /** Never broadcast unpublished draft changes; remote revisions guard concurrent edits. */
@@ -446,9 +351,9 @@ export async function initRecitationBuilder(): Promise<void> {
     }
     try {
       await updateSharedLivePosition(draft, uid, active);
-      persist(); updateLinks();
+      persist(); renderRecitationControls(draft);
     } catch (e) { say((e as Error).message); }
-    finally { updatingLive = false; updateLinks(); }
+    finally { updatingLive = false; renderRecitationControls(draft); }
   }
   elm<HTMLButtonElement>("recite-live-start").addEventListener("click", () => { void updateLive(0, true); });
   elm<HTMLButtonElement>("recite-live-stop").addEventListener("click", () => { void updateLive(0, false); });

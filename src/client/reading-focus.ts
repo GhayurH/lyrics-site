@@ -2,6 +2,7 @@
 import { visibleReadingAnchor, restoreReadingAnchor, captureReadingExit, type ReadingAnchor, type ReadingExitSnapshot } from "./reading-focus-position";
 import { resolveBastaJumpForm } from "./basta-navigation";
 import { readingScrollBehavior } from "./viewport";
+import { createReadingFocusShell } from "./reading-focus-shell";
 
 type Anchor = ReadingAnchor;
 type ExitSnapshot = ReadingExitSnapshot;
@@ -18,28 +19,14 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   if (!enterButton || !exitButton || !optionsButton || !fullscreenButton || !topButton) return;
 
   const html = document.documentElement;
-  const article = root.closest("article");
   const isContinuous = root.dataset.readerKind === "basta-continuous";
   let active = false;
   let anchor: Anchor | undefined;
   let lastPanel: HTMLElement | null = null;
   let previousFocus: HTMLElement | null = null;
-  let previousInert: Array<{ node: HTMLElement; value: boolean }> = [];
   let pendingExit: ExitSnapshot | undefined;
-  let savedScrollRestoration: ScrollRestoration | undefined;
 
-  const rememberScrollRestoration = () => {
-    if (savedScrollRestoration === undefined) {
-      savedScrollRestoration = history.scrollRestoration;
-      history.scrollRestoration = "manual";
-    }
-  };
-  const restoreScrollRestoration = () => {
-    if (savedScrollRestoration !== undefined) {
-      history.scrollRestoration = savedScrollRestoration;
-      savedScrollRestoration = undefined;
-    }
-  };
+  const shell = createReadingFocusShell(root, controls);
 
   /** Change only the reading parameter while keeping stanza and page hashes. */
   function readingUrl(enabled: boolean): string {
@@ -86,32 +73,13 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   fullscreenButton.hidden = !document.fullscreenEnabled;
   document.addEventListener("fullscreenchange", syncFullscreen);
 
-  /** Restore each landmark's prior inert state rather than blindly enabling it. */
-  const setOutsideInert = (enabled: boolean) => {
-    if (enabled) {
-      const others = [
-        document.querySelector<HTMLElement>(".site-header"),
-        document.querySelector<HTMLElement>(".site-footer"),
-        ...(article ? Array.from(article.children).filter((node): node is HTMLElement =>
-          node instanceof HTMLElement && node !== root && node !== controls) : []),
-      ];
-      previousInert = others.filter((node): node is HTMLElement => Boolean(node))
-        .map((node) => ({ node, value: node.inert }));
-      previousInert.forEach(({ node }) => { node.inert = true; });
-    } else {
-      previousInert.forEach(({ node, value }) => { node.inert = value; });
-      previousInert = [];
-    }
-  };
-
   /** Create one history entry and retain the currently visible reading anchor. */
   const enter = (updateHistory: boolean) => {
     if (active) return;
     const current = visibleAnchor();
     previousFocus = document.activeElement instanceof HTMLElement ? document.activeElement : null;
     active = true;
-    rememberScrollRestoration();
-    setOutsideInert(true);
+    shell.enter();
     html.dataset.readingFocus = "true";
     optionsOpen(false);
     contentsOpen(false);
@@ -141,7 +109,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     delete html.dataset.readingFocus;
     optionsOpen(false);
     contentsOpen(false);
-    setOutsideInert(false);
+    shell.leave();
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
 
     // Keep the normal reader's URL anchored to the page visible on exit.
@@ -172,7 +140,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
       restoreReadingPosition();
       requestAnimationFrame(() => {
         restoreReadingPosition();
-        restoreScrollRestoration();
+        shell.restoreScrollRestoration();
         window.dispatchEvent(new Event("resize"));
         (previousFocus?.isConnected ? previousFocus : enterButton).focus({ preventScroll: true });
         refreshTopButton();

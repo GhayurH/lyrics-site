@@ -47,7 +47,7 @@ The `scripts/source-workflow.mjs` command orchestrates source checks and sync. T
 
 ## Browser features
 
-The entrypoint initializes focused controllers. `ReadingControls.astro` + `client/reader-state.ts` own edition and spacing preferences. `client/reading-focus.ts` owns immersive mode/history; `reading-focus-position.ts` owns anchor/page position snapshots. `basta-navigation.ts` is the **only** printed-page jump validator, used by regular and Focus navigation.
+The entrypoint initializes focused controllers. `ReadingControls.astro` + `client/reader-state.ts` own edition and spacing preferences. `client/reading-focus.ts` owns immersive navigation/history; `reading-focus-shell.ts` isolates outside landmarks and retains the browser scroll policy; `reading-focus-position.ts` owns anchor/page position snapshots. `basta-navigation.ts` is the **only** printed-page jump validator, used by regular and Focus navigation.
 
 `client/basta-stream.ts` loads chunks and resolves deep links; `basta-stream-render.ts` creates pages; `basta-dom.ts` renders the canonical Basta display lines. `synced-columns.ts` manages only genuinely taller parallel panels. `floating-scans.ts` and `scan-viewer.ts` own scan positioning and enlargement. `verse-fitting.ts` enforces single-line verse readability; `reading-progress.ts` stores position in the actual scroll container.
 
@@ -55,7 +55,7 @@ The entrypoint initializes focused controllers. `ReadingControls.astro` + `clien
 
 ### Recitation Sets
 
-`recitation-builder.ts` owns draft selection, editing state and event orchestration; `recitation-builder-view.ts` renders programme/search/stanza controls; `recitation-templates.ts` materializes independently cloned templates; `recitation-source-validation.ts` checks references; `recitation-remote.ts` owns publishing/edit/live API calls.
+`recitation-builder.ts` owns draft selection, editing state and event orchestration; `recitation-builder-view.ts` renders programme/search/stanza, publishing-status and saved-draft controls; `recitation-templates.ts` materializes independently cloned templates; `recitation-source-validation.ts` checks references; `recitation-remote.ts` owns publishing/edit/live API calls.
 
 `recitation-catalog.ts` caches indexed sources; `recitation-poem-source.ts` retrieves canonical text. `recitation-reader.ts` controls navigation and live following; `recitation-reader-view.ts` renders source editions. `recitation-export.ts` builds portable HTML/print representations. No module duplicates permanent IDs, title detection or stanza layout.
 
@@ -72,6 +72,8 @@ Published sets hold source references and organizer metadata in D1, **not copies
 `ReadingControls.astro` imports `reading-focus.css`, `reading-toolbar.css`, `reading-columns.css`, `reading-index-layout.css`, `reading-scan-layout.css`, `reading-utilities.css` and `scan-viewer.css`. Edition geometry uses a reader **container threshold of 46rem**; `client/viewport.ts` owns the 700px browser-mode breakpoint. Avoid new route-specific counterparts.
 
 Basta CSS is separated by *actual consumers*: `basta-shell`, `basta-home`, `basta-navigation`, `basta-index`, `basta-text` and continuous-only `basta-reader`. Recitation pages load `recitation-common` plus either `recitation-builder` or `recitation-reader`. Individual routes import only the styles required for their features.
+
+`appearance.ts` owns preference changes and storage events; `appearance-view.ts` renders color, font and contrast controls. The narrow/wide edition rules intentionally share selectors under mutually exclusive container thresholds.
 
 A CSS custom property must have one owner: static tokens in `tokens.css`, preset variables in `theme-palettes.css`, scoped layout variables where used, runtime `--theme-*` values in `client/theme.ts`, and vendor `--pf-*` inputs in Pagefind. `tests/design-tokens.test.mjs` enforces definition/reference ownership; unused first-party tokens and undefined references are regressions. Do not remove vendor inputs because CSS-only scans see no `var()` reads.
 

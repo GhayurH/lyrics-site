@@ -339,8 +339,7 @@
     grid-area: auto; grid-column: 2; grid-row: 1; border: 0; padding: 0 0 0 clamp(.4rem,1.3vw,1rem);
   }
 
-[data-reading-root][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .basta-parallel-kalams,
-  [data-reading-root][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .basta-parallel-kalams { grid-template-columns: minmax(0,var(--reading-single-width)); }
+
 }
 
 /* Do not leave phantom second cells when only one edition is selected. */
