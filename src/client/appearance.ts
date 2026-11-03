@@ -8,6 +8,7 @@ import {
 import { applyFontPreferences, DEFAULT_FONTS, FONT_STORAGE_KEY, parseFontPreferences, readFontPreferences, type FontPreferences } from "./fonts";
 
 /** One compact toolbar icon opens preset and custom appearance controls. */
+/** Keep font and theme preferences independent and preserve saved Custom colours. */
 export function initAppearance(): void {
   const trigger = document.querySelector<HTMLButtonElement>("#theme-toggle");
   const dialog = document.querySelector<HTMLDialogElement>("#theme-dialog");
@@ -17,6 +18,7 @@ export function initAppearance(): void {
 
   type AppearanceTab = "colors" | "fonts";
   let activeTab: AppearanceTab = "colors";
+  /** Maintain roving keyboard focus, ARIA selection and hidden-panel state together. */
   const switchTab = (tab: AppearanceTab, focus = false) => {
     activeTab = tab;
     for (const name of ["colors", "fonts"] as const) {
@@ -72,6 +74,7 @@ export function initAppearance(): void {
     };
   };
 
+  /** Derive all visible controls from validated state without accidentally persisting Auto. */
   const render = (save: boolean) => {
     const ratio = applyTheme(selected, palette, save);
     applyFontPreferences(fonts, false);

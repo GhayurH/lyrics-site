@@ -62,6 +62,7 @@ export interface BastaKalamAudit {
   issues: string[];
 }
 
+/** Generate stable IDs from printed section and index number, never mutable titles. */
 export function bastaKalamId(entry: BastaKalamIndex): string {
   if (entry.recitationId) {
     if (!/^basta-[a-z0-9-]+$/.test(entry.recitationId))
@@ -75,17 +76,20 @@ export function bastaKalamId(entry: BastaKalamIndex): string {
   return "basta-" + section + "-" + String(entry.number).padStart(3, "0");
 }
 
+/** Reject invalid/zero counters instead of inventing numbered stanza IDs. */
 export function normalizePrintedStanzaNumber(value: string): number | null {
   const number = stanzaNumberValue(value);
   return number !== null && Number.isSafeInteger(number) && number > 0 ? number : null;
 }
 
 type NumberedLine = { line: string; page: number };
+/** Compare title candidates without changing the source spelling. */
 function stripHeading(value: string): string {
   return value.normalize("NFKC").replace(/[\u064B-\u065F\u0670\u06D6-\u06EDؐؑ]/gu, "")
     .replace(/[أإآ]/gu, "ا").replace(/[يى]/gu, "ی").replace(/ك/gu, "ک")
     .replace(/[^\p{L}\p{N}]+/gu, " ").trim().toLowerCase();
 }
+/** Match only sufficiently supported printed headings; ambiguous fragments require review. */
 function likelyTitle(segment: string, name: string): boolean {
   const normalizedTitle = stripHeading(name);
   const words = normalizedTitle.split(" ").filter((word) => word.length >= 3).slice(0, 8);
@@ -110,6 +114,7 @@ function collectLines(fragments: BastaSourceFragment[], kind: "urdu" | "roman"):
     return text.split("\n").map((line) => ({ line, page: fragment.page }));
   });
 }
+/** Preserve printed source pages in each numbered stanza's identity metadata. */
 function extractStanzas(fragments: BastaSourceFragment[]): {
   preface: string; stanzas: BastaStanza[]; issues: string[];
 } {
@@ -160,6 +165,7 @@ function extractStanzas(fragments: BastaSourceFragment[]): {
  * cannot be mapped unambiguously. Source Markdown is never rewritten.
  * A multi-page poem is composed from its ordered page fragments.
  */
+/** Map reviewed physical fragments to permanent kalams without silently assigning orphans. */
 export function buildBastaKalamCatalog(
   index: BastaKalamIndex[], pages: BastaSourcePage[],
   reviewed: Record<string, { role: string; opening: string; of?: string }> = {},
@@ -338,6 +344,7 @@ export interface RecitationKalamArrangement {
   /** Undefined = full original poem; supplied sequence can mix other poems. */
   stanzaSequence?: RecitationStanzaReference[];
 }
+/** Resolve reordered/borrowed stanzas while preserving explicit source attribution. */
 export function resolveStanzaSequence(
   arrangement: RecitationKalamArrangement, catalog: BastaKalam[],
 ): BastaResolvedStanza[] {

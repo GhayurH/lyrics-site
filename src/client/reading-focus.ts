@@ -7,6 +7,7 @@ type Anchor = ReadingAnchor;
 type ExitSnapshot = ReadingExitSnapshot;
 const FOCUS_FLAG = "__kalamReadingFocus";
 
+/** Preserve reading anchors, history and focus across immersive layout transitions. */
 export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void {
   const enterButton = controls.querySelector<HTMLButtonElement>("[data-reading-focus-enter]");
   const exitButton = controls.querySelector<HTMLButtonElement>("[data-reading-focus-exit]");
@@ -40,6 +41,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     }
   };
 
+  /** Change only the reading parameter while keeping stanza and page hashes. */
   function readingUrl(enabled: boolean): string {
     const url = new URL(location.href);
     if (enabled) url.searchParams.set("reading", "1");
@@ -84,6 +86,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   fullscreenButton.hidden = !document.fullscreenEnabled;
   document.addEventListener("fullscreenchange", syncFullscreen);
 
+  /** Restore each landmark's prior inert state rather than blindly enabling it. */
   const setOutsideInert = (enabled: boolean) => {
     if (enabled) {
       const others = [
@@ -101,6 +104,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     }
   };
 
+  /** Create one history entry and retain the currently visible reading anchor. */
   const enter = (updateHistory: boolean) => {
     if (active) return;
     const current = visibleAnchor();
@@ -121,6 +125,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     });
   };
 
+  /** Restore the normal reader only after fixed-to-flow reflow and history navigation. */
   const exit = (updateHistory: boolean, saved?: ExitSnapshot) => {
     if (!active) return;
     // Return to the non-Focus history entry before restoring the position;
@@ -225,6 +230,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     active ? root.scrollTop : window.scrollY,
     lastPanel?.isConnected && lastPanel.getClientRects().length ? lastPanel.scrollTop : 0,
   );
+  /** Use whichever scroll container currently owns the reading position. */
   function refreshTopButton(): void {
     topButton!.hidden = scrollPosition() < 250;
   }

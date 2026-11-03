@@ -12,6 +12,7 @@ import { programmeHtml, downloadProgramme } from "./recitation-export";
 
 const viewKey = "kalam:recitation-view";
 const dom = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+/** Load public set or private local draft without exposing organizer edit permissions. */
 async function readSet(): Promise<{ set: RecitationSet; local: boolean; draftId?: string }> {
   const params = new URLSearchParams(location.search);
   const remote = params.get("set");
@@ -34,6 +35,7 @@ async function readSet(): Promise<{ set: RecitationSet; local: boolean; draftId?
   throw Error("Open a saved or shared Recitation Set to begin reading");
 }
 
+/** Coordinate lazy source loading, navigation and opt-in live following. */
 export async function initRecitationReader(): Promise<void> {
   const page = dom<HTMLElement>("recite-reader");
   if (!page) return;
@@ -83,6 +85,7 @@ export async function initRecitationReader(): Promise<void> {
   });
   let position = 0;
   const loading = new Map<number, Promise<void>>();
+  /** Deduplicate in-flight source requests; missing sources remain explicit warnings. */
   async function load(index: number): Promise<void> {
     if (index < 0 || index >= works.length) return;
     if (!loading.has(index)) {
@@ -111,6 +114,7 @@ export async function initRecitationReader(): Promise<void> {
   }
   // Build complete snapshots only when requested, never during normal
   // streaming/lazy reading. Batches avoid a burst of 40 network requests.
+  /** Fetch remaining text only for exports, in bounded batches. */
   async function loadAll(): Promise<void> {
     for (let index = 0; index < works.length; index += 4) {
       await Promise.all(works.slice(index, index + 4).map((_, offset) => load(index + offset)));
@@ -120,6 +124,7 @@ export async function initRecitationReader(): Promise<void> {
   const offlineButton = dom<HTMLButtonElement>("recite-download-offline");
   const printButton = dom<HTMLButtonElement>("recite-print");
   let exporting = false;
+  /** Export a consistent programme and restore controls even after errors. */
   async function snapshot(): Promise<string> {
     if (exporting) throw Error("An export is already in progress");
     exporting = true;
@@ -176,6 +181,7 @@ export async function initRecitationReader(): Promise<void> {
   followLabel.hidden = !remoteId;
   let following = false;
   let livePolling = false;
+  /** Poll only with consent and a visible page; repeated kalams use entry UIDs. */
   async function pollLive(): Promise<void> {
     if (!following || !remoteId || livePolling || document.hidden || !page.isConnected) return;
     livePolling = true;
@@ -206,6 +212,7 @@ export async function initRecitationReader(): Promise<void> {
   });
   // Only consenting participants poll; hidden pages do not generate traffic.
   window.setInterval(() => { if (following) void pollLive(); }, 10000);
+  /** Clamp the active entry and synchronize controls without mutating saved state. */
   function setPosition(index: number) {
     position = Math.min(works.length - 1, Math.max(0, index));
     dom<HTMLElement>("recite-position").textContent = (position + 1) + " / " + works.length;
@@ -213,6 +220,7 @@ export async function initRecitationReader(): Promise<void> {
     previous.disabled = position === 0;
     next.disabled = position === works.length - 1;
   }
+  /** Switch sequential/continuous presentation without editing programme order. */
   async function go(index: number, scroll = true) {
     setPosition(index);
     if (mode === "sequential") {

@@ -13,6 +13,7 @@ import {
   findRemoteDraft, publicUrl, readDrafts, readerUrl, removeDraft, saveDraft,
 } from "./recitation-storage";
 
+/** Own one mutable draft session; views receive commands, not storage or publishing access. */
 export async function initRecitationBuilder(): Promise<void> {
   const app = elm<HTMLElement>("recite-app");
   if (!app) return;
@@ -26,10 +27,12 @@ export async function initRecitationBuilder(): Promise<void> {
   let resultLimit = 8;
   let catalogReady = false;
 
+  /** Save locally, then recalculate all dependent published and reader actions. */
   function persist() {
     try { saveDraft(draft); } catch (e) { say((e as Error).message); }
     updateLinks();
   }
+  /** Switch drafts without destroying the previous draft or its private capability. */
   function setCurrent(next: RecitationDraft) {
     delete elm<HTMLDetailsElement>("recite-share-details").dataset.userToggled;
     draft = next;
@@ -37,6 +40,7 @@ export async function initRecitationBuilder(): Promise<void> {
     arranging = undefined;
     render();
   }
+  /** Derive share, expiry, live and disabled controls from a single draft snapshot. */
   function updateLinks() {
     const hasTitle = !!draft.set.title.trim();
     const hasKalams = draft.set.items.length > 0;
@@ -123,6 +127,7 @@ export async function initRecitationBuilder(): Promise<void> {
       elm<HTMLButtonElement>("recite-show-qr").hidden = false;
     }
   }
+  /** Preserve selected identity while rebuilding the local-draft chooser. */
   function refreshDrafts() {
     const chooser = elm<HTMLSelectElement>("recite-drafts");
     chooser.replaceChildren(...readDrafts().map((entry) =>
@@ -130,6 +135,7 @@ export async function initRecitationBuilder(): Promise<void> {
         (entry.remoteId ? " · shared" : " · draft"))));
     chooser.value = draft.id;
   }
+  /** Bind stateless item rows to source-preserving draft mutations. */
   function renderSequence() {
     renderProgrammeSequence(draft, {
       reorder,
@@ -158,10 +164,12 @@ export async function initRecitationBuilder(): Promise<void> {
       },
     });
   }
+  /** Reorder entry UIDs without modifying underlying poem identity. */
   function reorder(from: number, to: number) {
     draft.set.items = move(draft.set.items, from, to);
     persist(); renderSequence();
   }
+  /** Delegate catalog display; this controller alone can add persistent entries. */
   function renderResults() {
     renderCatalogueResults(catalogById.values(), {
       query: elm<HTMLInputElement>("recite-search").value,
@@ -174,6 +182,7 @@ export async function initRecitationBuilder(): Promise<void> {
       say("Added to programme: " + item.title);
     });
   }
+  /** Reconcile editor fields and panels whenever a draft or catalog changes. */
   function render() {
     elm<HTMLInputElement>("recite-title").value = draft.set.title;
     elm<HTMLInputElement>("recite-occasion").value = draft.set.occasion;
@@ -183,6 +192,7 @@ export async function initRecitationBuilder(): Promise<void> {
     if (arranging) void showArrangement();
     else elm<HTMLElement>("recite-arrangement").hidden = true;
   }
+  /** Ignore stale asynchronous Marsiya responses after a selection change. */
   async function showArrangement() {
     const item = draft.set.items.find(candidate => candidate.uid === arranging);
     if (!item) { elm<HTMLElement>("recite-arrangement").hidden = true; return; }
@@ -192,11 +202,13 @@ export async function initRecitationBuilder(): Promise<void> {
       refreshBorrow: refreshBorrowStanzas,
     });
   }
+  /** Keep all custom source references intact and disallow an empty sequence. */
   function adjustStanza(item: RecitationItem, sequence: StanzaRef[]) {
     if (!sequence.length) { say("Keep at least one stanza, or use Restore original"); return; }
     item.stanzaSequence = sequence;
     persist(); renderSequence(); void showArrangement();
   }
+  /** Populate only the currently selected verified borrowing source. */
   async function refreshBorrowStanzas() {
     const select = elm<HTMLSelectElement>("recite-borrow-stanza");
     const kalamId = elm<HTMLSelectElement>("recite-borrow-kalam").value;
@@ -210,6 +222,7 @@ export async function initRecitationBuilder(): Promise<void> {
     } catch (e) { say((e as Error).message); }
   }
 
+  /** Create an independent, unprivileged programme from the template contract. */
   function startFromTemplate(samples: boolean): void {
     const template = findTemplate(elm<HTMLSelectElement>("recite-template").value);
     if (!template) return;
@@ -225,6 +238,7 @@ export async function initRecitationBuilder(): Promise<void> {
     say(samples ? "Added sample kalams. Review every selection before sharing." :
       "Template copied into a new draft.");
   }
+  /** Reconcile built-in and user-saved choices without replacing the open draft. */
   function refreshTemplates(): void {
     const select = elm<HTMLSelectElement>("recite-template");
     const current = select.value;
@@ -411,6 +425,7 @@ export async function initRecitationBuilder(): Promise<void> {
     finally { updateLinks(); }
   });
   let updatingLive = false;
+  /** Never broadcast unpublished draft changes; remote revisions guard concurrent edits. */
   async function updateLive(offset: number, active: boolean): Promise<void> {
     if (updatingLive || !draft.remoteId || !draft.editToken) return;
     if (draft.publishedSnapshot !== JSON.stringify(draft.set)) {

@@ -7,6 +7,7 @@ import { romanUnavailable } from "../lib/edition-availability";
 import settings from "../data/basta/settings.json";
 import { node } from "./dom";
 
+/** Mark printed poem boundaries, not individual verse breaks. */
 function renderKalamBreak(): HTMLElement {
   const separator = node("div", "basta-kalam-break");
   separator.setAttribute("role", "separator");
@@ -35,6 +36,7 @@ function renderOriginalImage(page: BastaReaderPageData, sync = false): HTMLEleme
   return figure;
 }
 
+/** Use the same pure stanza model as static Astro pages and Recitation Sets. */
 function appendBastaText(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
   splitBastaKalams(value).forEach((kalam, index) => {
     if (index > 0) container.append(renderKalamBreak());
@@ -42,6 +44,7 @@ function appendBastaText(container: HTMLElement, value: string, indentStanzas = 
   });
 }
 
+/** Keep streamed Urdu/Roman structure, roles and column order aligned with static markup. */
 function renderParallelText(page: BastaReaderPageData): HTMLElement {
   // Mirror BastaParallelText.astro for chunks loaded after the first one.
   const wrapper = node("div", "basta-parallel-kalams basta-parallel-kalams-reader");
