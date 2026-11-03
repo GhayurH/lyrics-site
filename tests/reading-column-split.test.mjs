@@ -9,10 +9,11 @@ test("default ratio is asymmetric and invalid stored values recover", () => {
 });
 test("pointer and keyboard widths clamp to usable fractions", () => {
   assert.equal(normalizeRomanWidth(-20), 25);
-  assert.equal(normalizeRomanWidth(100), 75);
+  assert.equal(normalizeRomanWidth(100), 85);
   assert.equal(normalizeRomanWidth(51.6), 52);
+  assert.equal(normalizeRomanWidth(84.6), 85);
   assert.equal(romanWidthFromPointer(350, 100, 600), 50);
   assert.equal(romanWidthFromPointer(0, 100, 600), 25);
-  assert.equal(romanWidthFromPointer(900, 100, 600), 75);
+  assert.equal(romanWidthFromPointer(900, 100, 600), 85);
   assert.equal(romanWidthFromPointer(300, 600, 100), DEFAULT_ROMAN_WIDTH);
 });

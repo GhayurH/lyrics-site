@@ -29,7 +29,7 @@ Verify that each Basta page stores only existing Roman transcription as a `roman
 ## Journeys to protect
 
 1. **Standalone lyrics:** page content without JavaScript, Urdu/Roman stanza layout, title and poet roles, images, bookmarks, corrections and search aliases.
-2. **Basta:** adjustable bilingual width and shared scrolling, printed-page navigation, image-only/missing-Roman fallback, continuous chunk retry, `#page-N` direct links, Focus back/exit restoration, Urdu–Roman bookmark identity and verified individual-kalam scans.
+2. **Basta:** adjustable bilingual width up to 85% Roman, natural-width font growth, single-line fitting and shared scrolling, printed-page navigation, image-only/missing-Roman fallback, continuous chunk retry, `#page-N` direct links, Focus back/exit restoration, Urdu–Roman bookmark identity and verified individual-kalam scans.
 3. **Recitation editor:** create/duplicate/reorder drafts, templates, 40-item cap, reciter/notes, borrowed/repeated Marsiya stanzas, source warnings and saved drafts after navigation.
 4. **Published programmes:** read-only public link, private capability, concurrent edit conflicts, expiry, authorized deletion, opt-in live follower, full offline HTML and browser print.
 5. **Saved/offline/search:** backup preview/restore, fresh-device offline downloads, Pagefind filters, keyboard-accessible menus and no unsafe caching of private capabilities.

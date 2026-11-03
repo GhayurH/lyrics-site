@@ -1,7 +1,7 @@
 // Pure proportional width policy shared by every bilingual reader and tests.
 export const DEFAULT_ROMAN_WIDTH = 44;
 export const MIN_ROMAN_WIDTH = 25;
-export const MAX_ROMAN_WIDTH = 75;
+export const MAX_ROMAN_WIDTH = 85;
 
 /** Bad saved values restore the default; dragging never makes a column unusable. */
 export function normalizeRomanWidth(value: unknown): number {

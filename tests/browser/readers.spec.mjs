@@ -203,6 +203,75 @@ test("dragging lyric divider refits one-line verses and supports keyboard and re
   await expect(root).toHaveCSS("flex-direction", "column");
 });
 
+test("widening the Roman reader grows stanza type instead of justifying its longest verse", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");
+  const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
+  const stanza = page.locator(".lyric-reading-roman .lyric-stanza").first();
+  await expect(divider).toBeVisible();
+  await expect(divider).toHaveAttribute("aria-valuemax", "85");
+  await expect.poll(() => stanza.locator(".poetry-fitted-anchor").count()).toBe(1);
+  const initialSize = await stanza.locator(".lyric-verse").first()
+    .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize));
+  await divider.focus();
+  await page.keyboard.press("End");
+  await expect(divider).toHaveAttribute("aria-valuenow", "85");
+  await expect.poll(async () => stanza.locator(".lyric-verse").first()
+    .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize)))
+    .toBeGreaterThan(initialSize + 2);
+  const wideSize = await stanza.locator(".lyric-verse").first()
+    .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize));
+  const widest = await stanza.evaluate(node => {
+    const verses = [...node.querySelectorAll(".lyric-verse")];
+    return {
+      anchors: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor")).length,
+      natural: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor"))
+        .every(verse => getComputedStyle(verse).textAlignLast === "start"),
+      justified: verses.filter(verse => !verse.classList.contains("poetry-fitted-anchor"))
+        .every(verse => getComputedStyle(verse).textAlignLast === "justify"),
+      fitted: verses.every(verse => verse.scrollWidth <= verse.clientWidth + 3 &&
+        getComputedStyle(verse).whiteSpace === "nowrap"),
+    };
+  });
+  expect(widest).toEqual({ anchors: 1, natural: true, justified: true, fitted: true });
+  const box = await divider.boundingBox();
+  await page.mouse.move(box.x + box.width / 2, box.y + 30);
+  await page.mouse.down();
+  await page.mouse.move(box.x + box.width / 2 - 220, box.y + 30, { steps: 8 });
+  await page.mouse.up();
+  await expect.poll(async () => Number(await divider.getAttribute("aria-valuenow"))).toBeLessThan(85);
+  await expect.poll(async () => stanza.locator(".lyric-verse").first()
+    .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize)))
+    .toBeLessThan(wideSize - 2);
+});
+
+test("Basta fits each numbered stanza independently instead of using the longest verse in the poem", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/basta/kalam/basta-marsiye-117/");
+  const panel = page.locator(".basta-page-roman");
+  await expect(panel).toBeVisible();
+  await expect.poll(() => panel.locator(".poetry-fitted-anchor").count()).toBeGreaterThanOrEqual(7);
+  const groups = await panel.locator(".basta-kalam-text").evaluate(node => {
+    const stanzas = [];
+    for (const element of node.children) {
+      if (element.classList.contains("poetry-stanza-number")) stanzas.push([]);
+      else if (stanzas.length && element.classList.contains("basta-verse-poetry") &&
+               !element.classList.contains("basta-refrain")) stanzas.at(-1).push(element);
+    }
+    return stanzas.map(verses => ({
+      anchors: verses.filter(verse => verse.classList.contains("poetry-fitted-anchor")).length,
+      sizes: verses.map(verse => Number.parseFloat(getComputedStyle(verse).fontSize)),
+      fits: verses.every(verse => verse.scrollWidth <= verse.clientWidth + 3),
+    }));
+  });
+  expect(groups).toHaveLength(7);
+  for (const [index, group] of groups.entries()) {
+    expect(group.anchors, "stanza " + (index + 1)).toBe(1);
+    expect(group.fits, "stanza " + (index + 1)).toBe(true);
+    expect(Math.max(...group.sizes) - Math.min(...group.sizes)).toBeLessThan(.1);
+  }
+});
+
 test("stacked and single-column editions use only document scrolling", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/basta/138/");

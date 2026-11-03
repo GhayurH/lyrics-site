@@ -11,6 +11,12 @@
   text-align-last: justify;
 }
 
+/* Natural glyph spacing anchors the longest line of each fitted stanza.
+   Only the shorter lines use justification to fill their edition track. */
+:is(.lyric-verse, .basta-verse-line.basta-verse-poetry).poetry-fitted-anchor {
+  text-align-last: start;
+}
+
 /* Nastaliq glyphs can paint to the right of their RTL advance box.
    Reserve optical ink clearance at the right edge, borrowing equal space
    from the opposite (left) margin to preserve the full fitting width and

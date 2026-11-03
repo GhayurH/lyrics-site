@@ -1,6 +1,6 @@
 // File role: Keep every printed verse on one line without horizontal scrolling.
 // Verse size is automatic; no reader-facing text-size or wrap preference exists.
-import { fitLine } from "../lib/verse-fit";
+import { fitLine, MAX_VERSE_GROWTH } from "../lib/verse-fit";
 
 function readableWidth(verse: HTMLElement): number {
   const style = getComputedStyle(verse);
@@ -15,17 +15,19 @@ function naturalWidth(verse: HTMLElement, ctx: CanvasRenderingContext2D): number
   return ctx.measureText(verse.textContent?.trim() ?? "").width;
 }
 
-/** Keep equal size within each couplet/stanza; other stanzas aren't penalized. */
+/** Keep one font size within each stanza, scaling up when its longest line
+ * would otherwise acquire stretched word spacing. */
+
 function readingIsMagnified(): boolean {
   // Desktop browser zoom reduces the CSS viewport without shrinking the outer window.
   // Pinch zoom on mobile is reported separately by VisualViewport.scale.
   return (window.visualViewport?.scale || 1) >= 1.75 ||
     (window.innerWidth < 800 && window.outerWidth / Math.max(window.innerWidth, 1) >= 1.75);
 }
-function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D): void {
+function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D, maxGrowth = MAX_VERSE_GROWTH): void {
   for (const line of lines) {
     line.style.removeProperty("font-size");
-    line.classList.remove("poetry-overflow-line");
+    line.classList.remove("poetry-overflow-line", "poetry-fitted-anchor");
     if (line.dataset.zoomPan === "true") {
       line.removeAttribute("tabindex");
       line.removeAttribute("aria-label");
@@ -39,8 +41,18 @@ function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D): void {
   }).filter(({ base, available }) => base > 0 && available > 0);
   if (!metrics.length) return;
 
-  const ratio = Math.min(1, ...metrics.map(({ base, available, natural }) =>
-    natural > 0 ? fitLine(base, available, natural) / base : 1));
+  // The tightest natural-width/available-width ratio determines the font
+  // scale for the whole stanza. When the chosen width exceeds its glyphs,
+  // grow instead of relying on justify to insert exaggerated word spaces.
+  const ratio = Math.min(...metrics.map(({ base, available, natural }) =>
+    natural > 0 ? fitLine(base, available, natural, maxGrowth) / base : 1));
+  if (maxGrowth > 1) {
+    const widest = metrics.reduce((a, b) =>
+      b.natural / b.available > a.natural / a.available ? b : a);
+    // The naturally widest verse is not justified; only shorter verses
+    // distribute their extra space. This also handles the growth ceiling.
+    widest.line.classList.add("poetry-fitted-anchor");
+  }
   const pan = readingIsMagnified() && metrics.some(({ base }) => base * ratio < 16);
   for (const { line, base } of metrics) {
     if (pan) {
@@ -51,7 +63,7 @@ function fitGroup(lines: HTMLElement[], ctx: CanvasRenderingContext2D): void {
       line.tabIndex = 0;
       line.dataset.zoomPan = "true";
       line.setAttribute("aria-label", "Long poetry line. Use horizontal scroll or arrow keys to read.");
-    } else if (ratio < 0.999) line.style.fontSize = `${(base * ratio).toFixed(3)}px`;
+    } else if (Math.abs(ratio - 1) > 0.001) line.style.fontSize = `${(base * ratio).toFixed(3)}px`;
   }
   if (pan) return;
 
@@ -73,18 +85,36 @@ function fitStanza(stanza: HTMLElement, ctx: CanvasRenderingContext2D): void {
   fitGroup(Array.from(stanza.querySelectorAll<HTMLElement>(".lyric-verse")), ctx);
 }
 
+/** Split at printed stanza counters, actual blank stanza breaks, and ruled
+ * couplet separators. A 4+2 stanza stays together because its internal
+ * blank is suppressed by the shared Basta layout renderer.
+ */
 function fitKalam(kalam: HTMLElement, ctx: CanvasRenderingContext2D): void {
-  const verses = Array.from(kalam.querySelectorAll<HTMLElement>(".basta-verse-poetry"));
-  // Fit a heading independently so a long title cannot shrink stanza one.
-  for (const title of verses.filter((line) => line.classList.contains("kalam-reading-title"))) {
-    fitGroup([title], ctx);
+  let group: HTMLElement[] = [];
+  const flush = () => {
+    if (group.length) fitGroup(group, ctx);
+    group = [];
+  };
+  for (const child of kalam.children) {
+    if (!(child instanceof HTMLElement)) continue;
+    if (child.classList.contains("kalam-reading-title")) {
+      flush();
+      // Headings retain their independent sizing and centered presentation.
+      fitGroup([child], ctx, 1);
+      continue;
+    }
+    if (child.classList.contains("poetry-stanza-number") ||
+        child.classList.contains("basta-couplet-separator") ||
+        (child.classList.contains("basta-verse-line") && !child.textContent?.trim()))
+      flush();
+    if (child.classList.contains("basta-refrain")) {
+      flush();
+      fitGroup([child], ctx);
+      continue;
+    }
+    if (child.classList.contains("basta-verse-poetry")) group.push(child);
   }
-  const groups: HTMLElement[][] = [];
-  for (const verse of verses.filter((line) => !line.classList.contains("kalam-reading-title"))) {
-    if (!groups.length || verse.classList.contains("basta-couplet-separator")) groups.push([]);
-    groups[groups.length - 1].push(verse);
-  }
-  for (const group of groups) fitGroup(group, ctx);
+  flush();
 }
 
 export function initVerseFitting(): void {
