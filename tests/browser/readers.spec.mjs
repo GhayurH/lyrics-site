@@ -387,9 +387,12 @@ test("Basta numbered stanza gaps are identical across Roman, Urdu, and stitched 
   await page.setViewportSize({ width: 1440, height: 900 });
   for (const url of ["/basta/284/", "/basta/kalam/basta-marsiye-117/"]) {
     await page.goto(url);
+    await page.locator('[data-reading-column][value="roman"]').check();
+    await page.locator('[data-reading-column][value="urdu"]').check();
     const gaps = [];
     for (const edition of ["roman", "urdu"]) {
       const panel = page.locator(`.basta-page-${edition}`);
+      await expect(panel).toBeVisible();
       const stats = await panel.evaluate((element) => {
         const counters = [...element.querySelectorAll(".basta-kalam-text > .poetry-stanza-number")];
         return counters.map((counter) => {
@@ -421,7 +424,6 @@ test("Basta numbered stanza gaps are identical across Roman, Urdu, and stitched 
       }
       gaps.push(stats);
     }
-    console.info("Basta stanza spacing measurements", url, JSON.stringify(gaps.map(items => items.slice(0, 7))));
     for (const index of [1, 5, ...(url.includes("/kalam/") ? [6] : [])]) {
       const roman = gaps[0][index], urdu = gaps[1][index];
       for (const metric of ["marginTop", "marginBottom", "height", "gapBefore", "gapAfter"])
