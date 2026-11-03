@@ -421,6 +421,7 @@ test("Basta numbered stanza gaps are identical across Roman, Urdu, and stitched 
       }
       gaps.push(stats);
     }
+    console.info("Basta stanza spacing measurements", url, JSON.stringify(gaps.map(items => items.slice(0, 7))));
     for (const index of [1, 5, ...(url.includes("/kalam/") ? [6] : [])]) {
       const roman = gaps[0][index], urdu = gaps[1][index];
       for (const metric of ["marginTop", "marginBottom", "height", "gapBefore", "gapAfter"])
