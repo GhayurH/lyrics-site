@@ -8,7 +8,7 @@ import { fileURLToPath } from "node:url";
 import { buildBastaKalamCatalog } from "../src/lib/basta-kalam-units.ts";
 import { auditBastaEditorial } from "../src/lib/basta-editorial-audit.ts";
 import { validateReviewedFragments } from "../src/lib/basta-fragment-roles.ts";
-import { compareEditions, reviewMarkdown } from "../src/lib/source-review.ts";
+import { reviewMarkdown } from "../src/lib/source-review.ts";
 
 const flags = new Set(process.argv.slice(2));
 const allowed = new Set(["--json", "--markdown", "--csv", "--summary", "--strict", "--regression", "--help"]);

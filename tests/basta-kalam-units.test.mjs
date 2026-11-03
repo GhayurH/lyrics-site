@@ -6,6 +6,7 @@ import {
 } from "../src/lib/basta-kalam-units.ts";
 import { auditBastaEditorial } from "../src/lib/basta-editorial-audit.ts";
 import { readFile } from "node:fs/promises";
+import { romanLyricsFromHeader } from "../scripts/lib/source-files.mjs";
 
 const first = {
   section: "مراثی", sectionRoman: "Marsiye", number: 1,
@@ -139,6 +140,11 @@ async function file(path) {
 function body(markdown) {
   return markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "").trim();
 }
+function romanBody(markdown) {
+  const header = /^---\r?\n([\s\S]*?)\r?\n---\r?\n/u.exec(markdown)?.[1];
+  if (!header) throw Error("Missing source frontmatter");
+  return romanLyricsFromHeader(header);
+}
 
 test("editorial diagnostics report duplicate IDs, Roman gaps and separator mismatch without modifying sources", () => {
   const index = [
@@ -190,10 +196,10 @@ test("representative complex Basta pages retain aligned Roman and Urdu poem stru
   const layout = (text) => body(text).split("\n").map((line) =>
     line.trim() === "---***---" ? "boundary" : line.trim() ? "verse" : "blank");
   for (const page of pages) {
-    const [urdu, roman] = await Promise.all([
-      file("pages/" + page + ".md"), file("roman/" + page + ".md"),
-    ]);
-    assert.deepEqual(layout(roman), layout(urdu), "Basta page " + page);
+    const source = await file("pages/" + page + ".md");
+    const roman = romanBody(source);
+    assert.ok(roman, "Basta page " + page + " intentionally has Roman here");
+    assert.deepEqual(layout(roman), layout(source), "Basta page " + page);
   }
 });
 
@@ -247,7 +253,7 @@ test("page 451 is a subtitle of poem 49 rather than a new indexed identity", asy
     new URL("../src/data/recitation/identity-lock.json", import.meta.url), "utf8"));
   const retired = locks.basta.find((item) => item.id === "basta-mutafarriqat-o-qaumiyat-050");
   assert.equal(retired?.retired, true);
-  for (const kind of ["pages", "roman"]) {
-    assert.match(body(await file(kind + "/451.md")), /\[\[subtitle\]\]/);
-  }
+  const source = await file("pages/451.md");
+  assert.match(body(source), /\[\[subtitle\]\]/);
+  assert.match(romanBody(source), /\[\[subtitle\]\]/);
 });
