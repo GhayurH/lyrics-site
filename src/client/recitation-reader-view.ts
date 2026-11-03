@@ -7,15 +7,8 @@ import { layoutLyricStanzas, lyricStanzaClassNames, lyricLineClassName } from ".
 import { parseStanzaNumber } from "../lib/stanza-numbers";
 import { romanUnavailable } from "../lib/edition-availability";
 import type { RecitationItem } from "../lib/recitation-set";
+import { node } from "./dom";
 
-export function node<K extends keyof HTMLElementTagNameMap>(
-  name: K, className?: string, text?: string,
-): HTMLElementTagNameMap[K] {
-  const el = document.createElement(name);
-  if (className) el.className = className;
-  if (text !== undefined) el.textContent = text;
-  return el;
-}
 function addBastaText(host: HTMLElement, text: string, prefaceOnly = false) {
   host.append(renderBastaTextBlock(text, true, "auto", prefaceOnly));
 }

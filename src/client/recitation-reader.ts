@@ -1,7 +1,8 @@
 import { isMobileViewport } from "./viewport";
 // File role: Browser-side programme reader; load canonical verses on demand while keeping programme order separate from source text.
 import { validateRecitationSet, type RecitationSet } from "../lib/recitation-set";
-import { node, resolvedPoems, renderWork } from "./recitation-reader-view";
+import { resolvedPoems, renderWork } from "./recitation-reader-view";
+import { node } from "./dom";
 import { readDrafts } from "./recitation-storage";
 import { initReadingControls } from "./reader-state";
 import { initVerseFitting } from "./verse-fitting";
