@@ -22,7 +22,6 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   const isContinuous = root.dataset.readerKind === "basta-continuous";
   let active = false;
   let anchor: Anchor | undefined;
-  let lastPanel: HTMLElement | null = null;
   let previousFocus: HTMLElement | null = null;
   let pendingExit: ExitSnapshot | undefined;
 
@@ -193,28 +192,14 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     }
   });
 
-  // Normal and immersive views use different scrolling elements.
-  const scrollPosition = () => Math.max(
-    active ? root.scrollTop : window.scrollY,
-    lastPanel?.isConnected && lastPanel.getClientRects().length ? lastPanel.scrollTop : 0,
-  );
-  /** Use whichever scroll container currently owns the reading position. */
-  function refreshTopButton(): void {
-    topButton!.hidden = scrollPosition() < 250;
-  }
+  // Both languages share the document or fixed Focus scroller, never a local panel.
+  const scrollPosition = () => active ? root.scrollTop : window.scrollY;
+  function refreshTopButton(): void { topButton!.hidden = scrollPosition() < 250; }
   topButton.addEventListener("click", () => {
     const behavior = readingScrollBehavior();
-    if (lastPanel?.isConnected && lastPanel.scrollTop > 150 &&
-        lastPanel.getClientRects().length) {
-      lastPanel.scrollTo({ top: 0, behavior });
-    } else if (active) root.scrollTo({ top: 0, behavior });
+    if (active) root.scrollTo({ top: 0, behavior });
     else window.scrollTo({ top: 0, behavior });
   });
-  document.addEventListener("scroll", (event) => {
-    if (event.target instanceof HTMLElement &&
-        event.target.matches("[data-synced-scroll-panel]")) lastPanel = event.target;
-    refreshTopButton();
-  }, true);
   window.addEventListener("scroll", refreshTopButton, { passive: true });
 
   const jumpForm = controls.querySelector<HTMLFormElement>("[data-reading-page-jump]");

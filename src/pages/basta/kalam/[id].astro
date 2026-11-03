@@ -119,13 +119,11 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
   <script>
     import { initReadingControls } from "../../../client/reader-state";
     import { initVerseFitting } from "../../../client/verse-fitting";
-    import { initSyncedColumns } from "../../../client/synced-columns";
     import { initScanViewer } from "../../../client/scan-viewer";
     import { initCorrectionDialog } from "../../../client/corrections";
     import { initBastaKalamFavorites } from "../../../client/basta-kalam-favorites";
     initReadingControls();
     initVerseFitting();
-    initSyncedColumns();
     initScanViewer();
     initCorrectionDialog();
     initBastaKalamFavorites();

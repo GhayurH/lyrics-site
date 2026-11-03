@@ -121,7 +121,6 @@ const availablePages = [...beforeChunks, ...afterChunks].flatMap((chunk) => chun
 
   <script>
     import { initReadingControls } from "../../client/reader-state";
-    import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initScanViewer } from "../../client/scan-viewer";
     import { initReadingProgress } from "../../client/reading-progress";
@@ -131,6 +130,5 @@ const availablePages = [...beforeChunks, ...afterChunks].flatMap((chunk) => chun
     initVerseFitting();
     initScanViewer();
     initReadingProgress();
-    initSyncedColumns();
   </script>
 </BaseLayout>

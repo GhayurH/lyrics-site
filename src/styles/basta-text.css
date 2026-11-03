@@ -126,7 +126,7 @@
    The browser controller synchronizes percentage scrolled, not row heights. */
 .basta-parallel-kalams {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr));
   align-items: start;
   min-width: 0;
 }

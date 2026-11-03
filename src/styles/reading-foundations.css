@@ -129,18 +129,7 @@ html[data-js-available="true"][data-desktop-reader-header-hidden="true"]:not([da
   unicode-bidi: isolate;
 }
 
-/* JavaScript marks only genuinely side-by-side panels. Let shorter panels
-   keep their natural height; only the tallest gets a measured scroll viewport. */
-[data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-active="true"] {
-  align-self: start;
-}
-
-[data-reading-mode="parallel"] [data-synced-scroll-panel][data-synced-scrollable="true"] {
-  box-sizing: border-box;
-  min-height: 0;
-  overflow-y: auto;
-  scrollbar-width: thin;
-}
+/* Parallel editions keep natural height and share the page/Focus scrollbar. */
 
 /* Dynamically inserted resume links are hidden until a local reading position exists. */
 [data-resume-basta][hidden] { display: none !important; }

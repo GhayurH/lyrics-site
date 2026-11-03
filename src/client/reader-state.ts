@@ -10,6 +10,8 @@ import { initFloatingScans } from "./floating-scans";
 import { initBastaBookmarks } from "./basta-bookmarks";
 import { initBastaSelections } from "./basta-selections";
 import { isMobileViewport } from "./viewport";
+import { initReadingColumnSplit } from "./reading-column-split";
+import { DEFAULT_ROMAN_WIDTH, normalizeRomanWidth } from "../lib/reading-split";
 
 import { defaultEditionsForReader, isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
 const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
@@ -17,6 +19,7 @@ const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
 interface ReadingPrefs extends Record<string, unknown> {
   columnsByReader: Record<string, Edition[]>;
   spacing: string;
+  romanWidthsByReader: Record<string, number>;
 }
 
 /** Selected editions are saved per reader type, not imposed on unrelated pages. */
@@ -39,8 +42,17 @@ export function initReadingControls(): void {
     }
   }
 
+  const romanWidthsByReader: Record<string, number> = {};
+  if (saved.romanWidthsByReader && typeof saved.romanWidthsByReader === "object") {
+    for (const [key, value] of Object.entries(saved.romanWidthsByReader)) {
+      if (typeof value === "number" && Number.isFinite(value))
+        romanWidthsByReader[key] = normalizeRomanWidth(value);
+    }
+  }
+
   const prefs: ReadingPrefs = {
     columnsByReader,
+    romanWidthsByReader,
     spacing:
       typeof saved.spacing === "string" && VALID_SPACINGS.has(saved.spacing)
         ? saved.spacing : "default",
@@ -136,6 +148,10 @@ export function initReadingControls(): void {
   syncCompact();
 
   applyPrefs();
+  initReadingColumnSplit(root, prefs.romanWidthsByReader[kind] ?? DEFAULT_ROMAN_WIDTH, (ratio) => {
+    prefs.romanWidthsByReader[kind] = ratio;
+    storePrefs();
+  });
   initReadingFocus(root, controls);
   initFloatingScans();
   initBastaBookmarks(root, controls);

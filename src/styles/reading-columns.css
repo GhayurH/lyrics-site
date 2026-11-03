@@ -42,9 +42,9 @@
 
 .lyric-reading-image img { display: block; width: 100%; height: auto; object-fit: contain; }
 
-.lyric-reading-grid[data-reading-columns] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+.lyric-reading-grid[data-reading-columns] { display: grid; grid-template-areas: "roman urdu"; grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr)); }
 
-.lyric-reading-grid[data-reading-columns~="image"] { grid-template-areas: "image roman urdu"; grid-template-columns: minmax(0,.85fr) repeat(2,minmax(0,1fr)); max-width: none; }
+.lyric-reading-grid[data-reading-columns~="image"] { grid-template-areas: "image roman urdu"; grid-template-columns: minmax(0,.38fr) minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr)); max-width: none; }
 
 /* Include the selected text edition in each two-column selector so image-only
    pages never reserve an empty text track. */
@@ -174,7 +174,7 @@
 @container reader-shell (max-width: 76rem) {
 .lyric-reading-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"] {
     grid-template-areas: "image image" "roman urdu";
-    grid-template-columns: repeat(2,minmax(0,1fr));
+    grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr));
   }
 
 .basta-page-grid[data-reading-columns~="image"][data-reading-columns~="urdu"][data-reading-columns~="roman"].basta-page-grid-with-roman,
@@ -320,7 +320,7 @@
 /* The bilingual Focus grid is centred only once two columns are viable.
      Below this same container threshold it is a vertical flex layout. */
   html[data-reading-focus="true"] .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"]:not([data-reading-columns~="image"]) {
-    grid-template-columns: repeat(2,minmax(0,min(50%,34rem)));
+    grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr));
     justify-content: center;
     column-gap: 0;
   }
@@ -328,7 +328,7 @@
 .lyric-reading-grid[data-reading-columns~="urdu"][data-reading-columns~="roman"] .lyric-reading-roman { border-top: 0; border-right: var(--ui-border); }
 
 .basta-parallel-kalams-page:has(> .basta-page-urdu:not([hidden])) ,
-  .basta-parallel-kalams-reader { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .basta-parallel-kalams-reader { grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr)); }
 
 .basta-parallel-kalams-page > .basta-page-roman, .basta-parallel-kalams-reader > .basta-reader-roman {
     grid-area: auto; grid-column: 1; grid-row: 1; border-top: 0; border-bottom: 0;
@@ -374,3 +374,29 @@ html[data-reading-focus="true"][data-reading-toc-open="true"] .basta-reader-inde
 
 .reading-column-choice { flex: 1; justify-content: center; }
 }
+ 
+/* Measured overlay works for a two-column pair beside or below an optional scan. */
+.lyric-reading-grid, .basta-parallel-kalams { position: relative; }
+.reading-column-divider {
+  display: none; position: absolute; z-index: 5; width: 1.05rem; min-height: 2.5rem;
+  transform: translateX(-50%); cursor: col-resize; touch-action: none;
+  user-select: none; -webkit-user-select: none; outline: none;
+}
+.reading-column-divider::before {
+  content: ""; position: absolute; inset-block: 0; left: calc(50% - 1px);
+  width: 2px; background: var(--border-colour);
+}
+.reading-column-divider::after {
+  content: "⋮"; position: absolute; top: 1rem; left: 50%; transform: translateX(-50%);
+  border: var(--ui-border); border-radius: 1rem; padding: .25rem .18rem;
+  color: var(--primary-text); background: var(--surface-background);
+  font: 700 1rem/1 var(--font-ui);
+}
+.reading-column-divider:is(:hover,:focus-visible,[data-dragging="true"])::before {
+  width: 3px; background: var(--accent-color);
+}
+.reading-column-divider:focus-visible::after { outline: var(--focus-ring); outline-offset: 2px; }
+@container reader-shell (min-width: 46.01rem) {
+  [data-split-active="true"] > .reading-column-divider { display: block; }
+}
+[data-split-active="true"] > :is(.lyric-reading-roman,.basta-page-roman,.basta-reader-roman) { border-right: 0; }

@@ -6,7 +6,6 @@ import { node } from "./dom";
 import { readDrafts } from "./recitation-storage";
 import { initReadingControls } from "./reader-state";
 import { initVerseFitting } from "./verse-fitting";
-import { initSyncedColumns } from "./synced-columns";
 import { initScanViewer } from "./scan-viewer";
 import { programmeHtml, downloadProgramme } from "./recitation-export";
 
@@ -269,7 +268,6 @@ export async function initRecitationReader(): Promise<void> {
   // Each poem is its own synchronization group, preventing cross-poem scrolling.
   initReadingControls();
   initVerseFitting();
-  initSyncedColumns();
   initScanViewer();
   const obs = "IntersectionObserver" in window ? new IntersectionObserver((events) => {
     if (mode !== "continuous") return;

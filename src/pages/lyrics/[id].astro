@@ -200,7 +200,6 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       initReadingControls,
       recordRecentLyric,
     } from "../../client/reader-state";
-    import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initScanViewer } from "../../client/scan-viewer";
     import { initCorrectionDialog } from "../../client/corrections";
@@ -213,6 +212,5 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     initVerseFitting();
     initScanViewer();
     initCorrectionDialog();
-    initSyncedColumns();
   </script>
 </BaseLayout>

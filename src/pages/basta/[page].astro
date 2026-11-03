@@ -248,7 +248,6 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
 
   <script>
     import { initReadingControls } from "../../client/reader-state";
-    import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initScanViewer } from "../../client/scan-viewer";
     import { initCorrectionDialog } from "../../client/corrections";
@@ -258,6 +257,5 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
     initScanViewer();
     initCorrectionDialog();
     initReadingProgress();
-    initSyncedColumns();
   </script>
 </BaseLayout>
