@@ -270,6 +270,56 @@ test("Basta fits each numbered stanza independently instead of using the longest
   }
 });
 
+test("Basta inline scans have no card background, padding, or image border in any reader", async ({ page }) => {
+  await page.setViewportSize({ width: 1600, height: 900 });
+  for (const url of ["/basta/284/", "/basta/kalam/basta-marsiye-117/"]) {
+    await page.goto(url);
+    await page.locator('[data-reading-column][value="image"]').check();
+    const scan = page.locator(".basta-original-page");
+    await expect(scan).toBeVisible();
+    const styles = await scan.evaluate(figure => {
+      const wrapper = getComputedStyle(figure);
+      const link = getComputedStyle(figure.querySelector(":scope > a"));
+      const image = getComputedStyle(figure.querySelector(":scope > a > img"));
+      return {
+        background: wrapper.backgroundColor,
+        outerBorder: wrapper.borderTopWidth,
+        outerRadius: wrapper.borderTopLeftRadius,
+        innerPadding: link.paddingTop,
+        imageBorder: image.borderTopWidth,
+        imageRadius: image.borderTopLeftRadius,
+      };
+    });
+    expect(styles, url).toEqual({
+      background: "rgba(0, 0, 0, 0)",
+      outerBorder: "0px",
+      outerRadius: "0px",
+      innerPadding: "0px",
+      imageBorder: "0px",
+      imageRadius: "0px",
+    });
+    await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("true");
+    await page.locator("[data-reading-focus-enter]").click();
+    await expect(scan).toHaveCSS("background-color", "rgba(0, 0, 0, 0)");
+    await expect(scan.locator("img")).toHaveCSS("border-top-width", "0px");
+  }
+
+  // Streamed pages use a separate figure, but share the same frameless scan
+  // presentation even when the image is sticky alongside both text editions.
+  await page.goto("/basta/read/#page-284", { waitUntil: "domcontentloaded" });
+  await page.locator("[data-reading-regular-toggle]").click();
+  await page.locator('[data-reading-column][value="image"]').check();
+  const target = page.locator('[data-basta-page="284"]');
+  await expect(target).toBeAttached({ timeout: 20000 });
+  await target.scrollIntoViewIfNeeded();
+  const scan = target.locator(".basta-reader-original-image");
+  await expect(scan).toBeVisible({ timeout: 20000 });
+  await expect.poll(() => scan.getAttribute("data-floating-scan"), { timeout: 20000 }).toBe("true");
+  await expect(scan).toHaveCSS("background-color", "rgba(0, 0, 0, 0)");
+  await expect(scan.locator("img")).toHaveCSS("border-top-width", "0px");
+  await expect(scan.locator("img")).toHaveCSS("border-top-left-radius", "0px");
+});
+
 test("Basta page scans remain parallel and sticky at wide widths, stacking only when space is tight", async ({ page }) => {
   await page.setViewportSize({ width: 1600, height: 900 });
   await page.goto("/basta/138/");

@@ -69,12 +69,14 @@ html[data-reading-focus="true"] .lyric-reading-grid:not([data-reading-mode="imag
   max-height: 100%;
 }
 
+/* No artificial image frame: scans should blend with the reader background
+   whether sticky, Focus, or a normal stacked page. */
 [data-floating-scan="true"] img {
   width: auto;
   height: auto;
   max-width: 100%;
   max-height: max(5rem, calc(100dvh - var(--reader-scan-clearance, 5rem) - 1.5rem));
   object-fit: contain;
-  border: var(--ui-border);
-  border-radius: .65rem;
+  border: 0;
+  border-radius: 0;
 }

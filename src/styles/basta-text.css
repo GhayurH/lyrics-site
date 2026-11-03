@@ -11,17 +11,19 @@
   max-width: 96rem;
 }
 
+/* The source scan is part of the reading canvas, not a themed card.
+   Keep the original image unobstructed in page, kalam and image-only views;
+   the floating layout is controlled independently by reading-scan-layout.css. */
 .basta-original-page {
   margin: 0;
-  overflow: hidden;
-  border: var(--ui-border);
-  border-radius: var(--ui-radius-card);
-  background: var(--surface-background);
+  border: 0;
+  border-radius: 0;
+  background: transparent;
 }
 
-.basta-original-page a {
+.basta-original-page > a {
   display: block;
-  padding: 0.75rem;
+  padding: 0;
 }
 
 .basta-original-page img {
