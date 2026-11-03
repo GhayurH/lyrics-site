@@ -60,7 +60,9 @@ export function initReadingColumnSplit(root: HTMLElement, initial: number, save:
   // Observe entry into the viewport: continuous Basta chunks can be initially unmeasured.
   const visible = new IntersectionObserver(schedule, { rootMargin: "450px 0px" });
   const install = () => {
-    for (const grid of root.querySelectorAll<HTMLElement>(GRID)) {
+    // Standalone lyric pages use the reading root itself as the edition grid.
+    const candidates = [...(root.matches(GRID) ? [root] : []), ...root.querySelectorAll<HTMLElement>(GRID)];
+    for (const grid of candidates) {
       if (pairs.has(grid)) continue;
       const roman = [...grid.children].find((n): n is HTMLElement => n instanceof HTMLElement && n.matches(ROMAN));
       const urdu = [...grid.children].find((n): n is HTMLElement => n instanceof HTMLElement && n.matches(URDU));

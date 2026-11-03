@@ -142,42 +142,65 @@ test("only line spacing is configurable, and its value survives reload", async (
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
 });
 
-test("parallel Basta keeps the shorter Roman edition fully visible and scrolls only Urdu", async ({ page }) => {
+test("parallel Urdu/Roman use unequal natural-width columns and a shared page scrollbar", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/138/");
   await page.locator('[data-reading-column][value="image"]').uncheck();
   await page.locator('[data-reading-column][value="roman"]').check();
   const roman = page.locator(".basta-page-roman");
   const urdu = page.locator(".basta-page-urdu");
-  await expect(roman).toHaveAttribute("data-synced-active", "true");
-  await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
-  await expect(roman).not.toHaveAttribute("data-synced-scrollable", "true");
-  expect(await roman.locator(".basta-kalam-text").count()).toBeGreaterThan(1);
-  expect(await urdu.locator(".basta-kalam-text").count()).toBeGreaterThan(1);
-  const sizes = await page.evaluate(() => {
-    const roman = document.querySelector(".basta-page-roman");
-    const urdu = document.querySelector(".basta-page-urdu");
-    return {
-      romanOverflow: roman.scrollHeight - roman.clientHeight,
-      urduOverflow: urdu.scrollHeight - urdu.clientHeight,
-      romanHeight: roman.getBoundingClientRect().height,
-      urduHeight: urdu.getBoundingClientRect().height,
-    };
+  const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
+  await expect(divider).toBeVisible();
+  await expect(divider).toHaveAttribute("aria-valuenow", "44");
+  for (const panel of [roman, urdu]) {
+    await expect(panel).not.toHaveAttribute("data-synced-scrollable", "true");
+    expect(await panel.evaluate((node) => ({
+      overflow: getComputedStyle(node).overflowY,
+      height: node.style.height,
+    }))).toEqual({ overflow: "visible", height: "" });
+  }
+  const proportions = await page.evaluate(() => {
+    const roman = document.querySelector(".basta-page-roman").getBoundingClientRect();
+    const urdu = document.querySelector(".basta-page-urdu").getBoundingClientRect();
+    return roman.width / (roman.width + urdu.width);
   });
-  expect(sizes.romanOverflow).toBeLessThan(3);
-  expect(sizes.urduOverflow).toBeGreaterThan(10);
-  expect(Math.abs(sizes.romanHeight - sizes.urduHeight)).toBeLessThan(3);
-  await urdu.evaluate((node) => { node.scrollTop = (node.scrollHeight - node.clientHeight) * 0.65; });
-  await expect.poll(() => urdu.evaluate((node) => node.scrollTop)).toBeGreaterThan(0);
-  expect(await roman.evaluate((node) => node.scrollTop)).toBe(0);
-  // Standalone lyrics use the same short-column policy.
-  await page.goto("/lyrics/aa-asghar-bin-tere/");
-  const lyricUrdu = page.locator(".lyric-reading-urdu");
-  const lyricRoman = page.locator(".lyric-reading-roman");
-  await expect(lyricUrdu).toHaveAttribute("data-synced-scrollable", "true");
-  await expect(lyricRoman).not.toHaveAttribute("data-synced-scrollable", "true");
-  expect(await lyricRoman.evaluate(node => node.scrollHeight - node.clientHeight)).toBeLessThan(3);
+  expect(proportions).toBeGreaterThan(0.36);
+  expect(proportions).toBeLessThan(0.50);
 
+  await divider.focus();
+  await page.keyboard.press("Shift+ArrowRight");
+  await expect(divider).toHaveAttribute("aria-valuenow", "49");
+  await page.reload();
+  await expect(page.getByRole("separator", { name: "Resize Roman and Urdu columns" })).toHaveAttribute("aria-valuenow", "49");
+});
+
+test("dragging lyric divider refits one-line verses and supports keyboard and responsive stacking", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/lyrics/aik-tehreer-uthaye-boli-darbar-mein-aa-kar-zahra/");
+  const root = page.locator(".lyric-reading-grid");
+  const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
+  await expect(divider).toBeVisible();
+  const original = await root.evaluate(el => {
+    const roman = el.querySelector(".lyric-reading-roman").getBoundingClientRect();
+    return roman.width;
+  });
+  const rect = await divider.boundingBox();
+  await page.mouse.move(rect.x + rect.width / 2, rect.y + 32);
+  await page.mouse.down();
+  await page.mouse.move(rect.x + rect.width / 2 - 170, rect.y + 32, { steps: 10 });
+  await page.mouse.up();
+  await expect.poll(() => divider.getAttribute("aria-valuenow")).not.toBe("44");
+  const resized = await root.evaluate(el => el.querySelector(".lyric-reading-roman").getBoundingClientRect().width);
+  expect(resized).toBeLessThan(original - 50);
+  await expect.poll(async () => root.evaluate(el =>
+    [...el.querySelectorAll(".lyric-reading-roman .lyric-verse")]
+      .every(v => v.scrollWidth <= v.clientWidth + 2 && getComputedStyle(v).whiteSpace === "nowrap")
+  )).toBe(true);
+  await divider.dblclick();
+  await expect(divider).toHaveAttribute("aria-valuenow", "44");
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect(divider).toBeHidden();
+  await expect(root).toHaveCSS("flex-direction", "column");
 });
 
 test("stacked and single-column editions use only document scrolling", async ({ page }) => {
