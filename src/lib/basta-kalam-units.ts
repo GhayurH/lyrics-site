@@ -1,7 +1,9 @@
 // File role: Canonical, source-preserving identities for Basta poems and numbered stanzas.
 // The printed index supplies names; explicit ---***--- breaks supply boundaries.
 // Uncertain mappings are reported, never silently combined with another poem.
-import { parseStanzaNumber, stanzaNumberValue } from "./stanza-numbers.ts";
+import { extractBastaStanzas, normalizePrintedStanzaNumber, type BastaSourceFragment, type BastaStanza } from "./basta-stanzas.ts";
+export { normalizePrintedStanzaNumber } from "./basta-stanzas.ts";
+export type { BastaSourceFragment, BastaStanza, BastaResolvedStanza } from "./basta-stanzas.ts";
 import { splitBastaKalams } from "./basta-text.ts";
 
 export interface BastaKalamIndex {
@@ -18,23 +20,6 @@ export interface BastaSourcePage {
   page: number;
   urdu: string;
   roman?: string;
-}
-export interface BastaSourceFragment {
-  page: number;
-  urdu: string;
-  roman?: string;
-}
-export interface BastaStanza {
-  id: string;
-  number: number;
-  printedNumber: string;
-  urdu: string;
-  roman?: string;
-  pages: number[];
-}
-export interface BastaResolvedStanza extends BastaStanza {
-  sourceKalamId: string;
-  sourceKalamName: string;
 }
 export interface BastaKalam {
   id: string;
@@ -76,13 +61,6 @@ export function bastaKalamId(entry: BastaKalamIndex): string {
   return "basta-" + section + "-" + String(entry.number).padStart(3, "0");
 }
 
-/** Reject invalid/zero counters instead of inventing numbered stanza IDs. */
-export function normalizePrintedStanzaNumber(value: string): number | null {
-  const number = stanzaNumberValue(value);
-  return number !== null && Number.isSafeInteger(number) && number > 0 ? number : null;
-}
-
-type NumberedLine = { line: string; page: number };
 /** Compare title candidates without changing the source spelling. */
 function stripHeading(value: string): string {
   return value.normalize("NFKC").replace(/[\u064B-\u065F\u0670\u06D6-\u06EDؐؑ]/gu, "")
@@ -104,62 +82,6 @@ function likelyTitle(segment: string, name: string): boolean {
     return words.filter((word) => normalized.includes(word)).length / words.length >= 0.75;
   });
 }
-function uniquePages(lines: NumberedLine[]): number[] {
-  return [...new Set(lines.map((item) => item.page))];
-}
-function collectLines(fragments: BastaSourceFragment[], kind: "urdu" | "roman"): NumberedLine[] {
-  return fragments.flatMap((fragment) => {
-    const text = fragment[kind];
-    if (!text) return [];
-    return text.split("\n").map((line) => ({ line, page: fragment.page }));
-  });
-}
-/** Preserve printed source pages in each numbered stanza's identity metadata. */
-function extractStanzas(fragments: BastaSourceFragment[]): {
-  preface: string; stanzas: BastaStanza[]; issues: string[];
-} {
-  const lines = collectLines(fragments, "urdu");
-  const romanAvailable = fragments.every((part) => Boolean(part.roman));
-  const romanLines = romanAvailable ? collectLines(fragments, "roman") : [];
-  const starts = lines.flatMap((line, index) => {
-    const number = normalizePrintedStanzaNumber(line.line);
-    return number === null ? [] : [{ index, number, printed: parseStanzaNumber(line.line)! }];
-  });
-  const romanStarts = romanLines.flatMap((line, index) => {
-    const number = normalizePrintedStanzaNumber(line.line);
-    return number === null ? [] : [{ index, number }];
-  });
-  const romanAligned = romanAvailable && starts.length === romanStarts.length &&
-    starts.every((item, index) => item.number === romanStarts[index].number);
-  const issues: string[] = [];
-  const numbers = new Set<number>();
-  for (const item of starts) {
-    if (numbers.has(item.number)) issues.push("Repeated stanza number " + item.number);
-    numbers.add(item.number);
-  }
-  if (romanAvailable && starts.length && !romanAligned)
-    issues.push("Urdu and Roman stanza numbering differs");
-  const preface = lines.slice(0, starts[0]?.index ?? lines.length)
-    .map((line) => line.line).join("\n").trim();
-  const stanzas: BastaStanza[] = starts.map((item, index) => {
-    const group = lines.slice(item.index + 1, starts[index + 1]?.index);
-    const romanGroup = romanAligned
-      ? romanLines.slice(romanStarts[index].index + 1, romanStarts[index + 1]?.index)
-      : [];
-    return {
-      id: "stanza-" + String(item.number).padStart(3, "0"),
-      number: item.number,
-      printedNumber: item.printed,
-      urdu: group.map((line) => line.line).join("\n").trim(),
-      ...(romanAligned ? { roman: romanGroup.map((line) => line.line).join("\n").trim() } : {}),
-      pages: uniquePages([lines[item.index], ...group]),
-    };
-  });
-  if (stanzas.some((stanza) => !stanza.urdu))
-    issues.push("Empty numbered stanza");
-  return { preface, stanzas, issues };
-}
-
 /**
  * Split pages against the book index, retaining a review state when an entry
  * cannot be mapped unambiguously. Source Markdown is never rewritten.
@@ -224,7 +146,7 @@ export function buildBastaKalamCatalog(
       } else {
         // On pages with separately delimited supplements, preserve a
         // numbered continuation only when its number follows the last one.
-        const lastNumber = extractStanzas(previous.parts).stanzas.at(-1)?.number;
+        const lastNumber = extractBastaStanzas(previous.parts).stanzas.at(-1)?.number;
         const openingNumber = normalizePrintedStanzaNumber(
           urduPieces[0].trim().split("\n")[0],
         );
@@ -318,7 +240,7 @@ export function buildBastaKalamCatalog(
       issues.push("Roman source fragment count differs on page " + page.page);
   }
   const kalams = work.map((item): BastaKalam => {
-    const extracted = extractStanzas(item.parts);
+    const extracted = extractBastaStanzas(item.parts);
     const pages = [...new Set(item.parts.map((part) => part.page))];
     const problems = [...item.issues, ...extracted.issues];
     if (!item.parts.length) problems.push("No source fragments assigned");

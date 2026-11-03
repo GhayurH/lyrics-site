@@ -1,7 +1,7 @@
 // Source-level, non-destructive review checks shared by Basta and standalone lyric audits.
 // Findings identify review candidates, not permission to alter uncertain printed wording.
 import { stanzaNumberValue } from "./stanza-numbers.ts";
-import { isBastaBoundary } from "./basta-text.ts";
+import { isBastaBoundary, splitBastaSource } from "./basta-text.ts";
 import { arabic, latin, unusualLatin, record, checkLines, type ReviewFinding } from "./source-text-quality.ts";
 export type { ReviewFinding } from "./source-text-quality.ts";
 
@@ -23,23 +23,6 @@ export interface ReviewedMarkdown {
   issues: ReviewFinding[];
 }
 
-/** One physical Basta fragment retains its original line offset for diagnostics. */
-interface Portion {
-  start: number;
-  text: string;
-}
-/** Split only on the canonical printed boundary marker, not on blank lines. */
-function portions(value: string): Portion[] {
-  const lines = value.split("\n"), sections: Portion[] = [];
-  let begin = 0;
-  for (let i = 0; i <= lines.length; i++) {
-    if (i === lines.length || isBastaBoundary(lines[i])) {
-      sections.push({ start: begin, text: lines.slice(begin, i).join("\n") });
-      begin = i + 1;
-    }
-  }
-  return sections;
-}
 interface CountedStanza {
   number: number;
   line: number;
@@ -75,7 +58,7 @@ export function compareEditions(
   urduStart = 1, romanStart = 1, checkSequence = true,
 ): ReviewFinding[] {
   const issues: ReviewFinding[] = [];
-  const uParts = portions(urdu), rParts = portions(roman);
+  const uParts = splitBastaSource(urdu), rParts = splitBastaSource(roman);
   if (uParts.length !== rParts.length) {
     record(issues, urduPath, urduStart, "fragment-count", "Urdu has " + uParts.length + " source fragments; Roman has " + rParts.length);
   }

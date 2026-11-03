@@ -8,27 +8,23 @@ export const BASTA_KALAM_BREAK = "---***---";
 /** One shared delimiter contract for printed Basta fragments and all readers. */
 export const isBastaBoundary = (line: string): boolean => line.trim() === BASTA_KALAM_BREAK;
 
-export function splitBastaKalams(text: string): string[] {
-  const normalized = text.replace(/\r\n?/g, "\n");
-  const kalams: string[] = [];
-  let current: string[] = [];
-
-  const pushCurrent = () => {
-    const value = current.join("\n").trim();
-    if (value) kalams.push(value);
-    current = [];
-  };
-
-  for (const line of normalized.split("\n")) {
-    if (isBastaBoundary(line)) {
-      pushCurrent();
-      continue;
+/** Retain physical fragment offsets so both rendering and editorial review parse one boundary contract. */
+export function splitBastaSource(text: string): Array<{ start: number; text: string }> {
+  const lines = text.replace(/\r\n?/g, "\n").split("\n");
+  const parts: Array<{ start: number; text: string }> = [];
+  let begin = 0;
+  for (let index = 0; index <= lines.length; index++) {
+    if (index === lines.length || isBastaBoundary(lines[index])) {
+      parts.push({ start: begin, text: lines.slice(begin, index).join("\n") });
+      begin = index + 1;
     }
-    current.push(line);
   }
+  return parts;
+}
 
-  pushCurrent();
-  return kalams;
+/** Display and catalog consumers ignore empty physical fragments but retain their nonempty source. */
+export function splitBastaKalams(text: string): string[] {
+  return splitBastaSource(text).map((part) => part.text.trim()).filter(Boolean);
 }
 
 /** Explicit couplet mode for Salam; auto mode detects long unnumbered

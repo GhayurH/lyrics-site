@@ -90,4 +90,3 @@ export function renderAppearancePreferences(
     (scores.button < 4.5 ? "Button text has low contrast. Choose a darker or lighter accent colour."
       : "For readable text, increase contrast between the text and both backgrounds, or switch text colours to Auto.");
 };
-
