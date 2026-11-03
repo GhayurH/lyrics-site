@@ -66,6 +66,19 @@
   overflow-x: visible;
 }
 
+
+/* Numbered Basta stanzas use one physical gap in both languages.
+   Source blank lines adjacent to counters are suppressed by layoutBastaKalam,
+   so Roman and Urdu leading cannot accidentally add unequal extra lines.
+   Fixed rem units also keep the circle and margins consistent when verse
+   fitting changes individual stanza font sizes. */
+.basta-kalam-text > .poetry-stanza-number {
+  font-size: .9rem;
+  inline-size: 2.25rem;
+  block-size: 2.25rem;
+  margin-block: 1.5rem .75rem;
+}
+
 /* Direction-aware verse indentation offsets the second verse of a couplet.
    Six-line stanza endings use separate horizontal framing rules. */
 .basta-verse-line {

@@ -79,6 +79,17 @@ export function layoutBastaKalam(
       refrain: explicitRefrain,
     };
   });
+  // Source blank lines adjacent to a printed stanza number are layout
+  // delimiters, not verse-height spacers. Remove them from both editions so
+  // their different font leading cannot change the gap before/after a stanza.
+  // Other source blank lines remain visible unless they form a 4+2 closing pair.
+  for (let index = 0; index < lines.length; index++) {
+    if (display[index].stanzaNumber === undefined) continue;
+    for (let before = index - 1; before >= 0 && !lines[before].trim(); before--)
+      display[before].hidden = true;
+    for (let after = index + 1; after < lines.length && !lines[after].trim(); after++)
+      display[after].hidden = true;
+  }
   const blocks: Array<{ start: number; end: number }> = [];
   for (let pos = 0; pos < lines.length;) {
     if (!lines[pos].trim()) {

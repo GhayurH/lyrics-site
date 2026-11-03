@@ -383,6 +383,52 @@ test("Basta page progress tracks the Focus scroller instead of document scroll",
   expect(await page.evaluate(() => window.scrollY)).toBeLessThan(2000);
 });
 
+test("Basta numbered stanza gaps are identical across Roman, Urdu, and stitched kalam pages", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  for (const url of ["/basta/284/", "/basta/kalam/basta-marsiye-117/"]) {
+    await page.goto(url);
+    const gaps = [];
+    for (const edition of ["roman", "urdu"]) {
+      const panel = page.locator(`.basta-page-${edition}`);
+      const stats = await panel.evaluate((element) => {
+        const counters = [...element.querySelectorAll(".basta-kalam-text > .poetry-stanza-number")];
+        return counters.map((counter) => {
+          const before = counter.previousElementSibling;
+          const after = counter.nextElementSibling;
+          const style = getComputedStyle(counter);
+          const rect = counter.getBoundingClientRect();
+          return {
+            label: counter.textContent.trim(),
+            marginTop: parseFloat(style.marginTop),
+            marginBottom: parseFloat(style.marginBottom),
+            height: rect.height,
+            gapBefore: before ? rect.top - before.getBoundingClientRect().bottom : null,
+            gapAfter: after ? after.getBoundingClientRect().top - rect.bottom : null,
+            beforeBlank: before?.textContent.trim() === "",
+            afterBlank: after?.textContent.trim() === "",
+          };
+        });
+      });
+      expect(stats.length).toBeGreaterThan(5);
+      const sixth = stats[5];
+      expect(sixth.marginTop).toBeGreaterThan(15);
+      expect(sixth.marginBottom).toBeGreaterThan(8);
+      expect(sixth.beforeBlank).toBe(false);
+      expect(sixth.afterBlank).toBe(false);
+      if (url.includes("/kalam/")) {
+        expect(stats).toHaveLength(7);
+        expect(stats[6].gapBefore).toBeGreaterThan(15);
+      }
+      gaps.push(stats);
+    }
+    for (const index of [1, 5, ...(url.includes("/kalam/") ? [6] : [])]) {
+      const roman = gaps[0][index], urdu = gaps[1][index];
+      for (const metric of ["marginTop", "marginBottom", "height", "gapBefore", "gapAfter"])
+        expect(Math.abs(roman[metric] - urdu[metric]), url + " stanza " + (index + 1) + " " + metric).toBeLessThan(2);
+    }
+  }
+});
+
 test("Marsiye 117 preserves closing rules in Urdu and Roman stanzas across pages 284–285", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/kalam/basta-marsiye-117/");

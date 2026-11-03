@@ -63,6 +63,27 @@ test("a printed-page seam immediately before stanza seven preserves both six-ver
   }
 });
 
+test("numbered stanza spacing discards font-dependent blank delimiters", () => {
+  // Roman and Urdu source pages do not always have the same number of
+  // trailing empty lines. The stanza number, not those lines, owns spacing.
+  for (const text of [
+    "۱\nA\nB\nC\nD\n\nE\nF\n\n۲\nG\nH\nI\nJ\n\nK\nL",
+    "1\nA\nB\nC\nD\n\nE\nF\n2\nG\nH\nI\nJ\n\nK\nL",
+  ]) {
+    const lines = layoutBastaKalam(text);
+    const number = lines.findIndex(line => line.stanzaNumber === "۲" || line.stanzaNumber === "2");
+    assert.ok(number > 0);
+    for (let i = number - 1; i >= 0 && !lines[i].text.trim(); i--)
+      assert.equal(lines[i].hidden, true, "counter-adjacent blank is not a verse-height spacer");
+    assert.equal(lines.filter(line => line.sixClosingStart).length, 2);
+    assert.equal(lines.filter(line => line.sixClosingEnd).length, 2);
+  }
+  const stanza = layoutBastaKalam("1\n\nA\nB");
+  assert.equal(stanza[1].hidden, true, "blank after stanza counter is also structural");
+  const prose = layoutBastaKalam("A\n\nB");
+  assert.equal(prose[1].hidden, undefined, "independent paragraph spacing is preserved");
+});
+
 test("blank lines survive and prose pages can opt out", () => {
   const content = "a\nb\n\nc\nd";
   assert.equal(layoutBastaKalam(content)[2].text, "");
