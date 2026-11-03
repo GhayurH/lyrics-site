@@ -1,7 +1,11 @@
 // Pure stanza-layout contracts; source-specific editorial examples are covered by content validation.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams } from "../src/lib/basta-text.ts";
+import { normalizePrintedStanzaNumber } from "../src/lib/basta-kalam-units.ts";
+import { extractBastaStanzas } from "../src/lib/basta-stanzas.ts";
+import { isStanzaNumber, isCreditLine, isGenreHeading, matchesOpeningTitle } from "../src/lib/basta-source-roles.ts";
+import { stanzaNumberValue } from "../src/lib/stanza-numbers.ts";
+import { bastaVerseClassNames, layoutBastaKalam, splitBastaKalams, splitBastaSource, isBastaBoundary } from "../src/lib/basta-text.ts";
 
 const indents = (text, enabled = true) => layoutBastaKalam(text, enabled)
   .filter((line) => line.text.trim() && !/^\d+$/.test(line.text.trim()))
@@ -34,6 +38,52 @@ test("numbered 4+2 stanza frames its closing pair, removes the separating gap, a
   assert.equal(lines[8].sixClosingEnd, undefined);
 });
 
+test("a printed-page seam immediately before stanza seven preserves both six-verse frames", () => {
+  // Marsiya 117 has 6 on page 284 and 7 on page 285; the catalog joins
+  // the pages with one newline, without a blank after stanza 6.
+  const text = [
+    "۶", "one", "two", "three", "four", "",
+    "five", "six", "۷", "seven one", "seven two", "seven three",
+    "seven four", "", "seven five", "seven six",
+  ].join("\n");
+  const lines = layoutBastaKalam(text);
+  for (const [counter, next] of [["۶", "۷"], ["۷", undefined]]) {
+    const start = lines.findIndex(line => line.stanzaNumber === counter);
+    const end = next ? lines.findIndex(line => line.stanzaNumber === next) : lines.length;
+    assert.ok(start >= 0 && end > start, "Stanza " + counter + " boundary");
+    const verses = lines.slice(start + 1, end).filter(line => line.verse);
+    assert.equal(verses.length, 6, "Stanza " + counter + " has six verses");
+    assert.deepEqual(verses.map(line => Boolean(line.reverseIndent)),
+      [true, true, true, true, false, false]);
+    assert.deepEqual(verses.map(line => line.indent),
+      [false, false, false, false, true, true]);
+    assert.equal(verses[4].sixClosingStart, true);
+    assert.equal(verses[5].sixClosingEnd, true);
+    assert.ok(!verses.some(line => line.coupletSeparator));
+  }
+});
+
+test("numbered stanza spacing discards font-dependent blank delimiters", () => {
+  // Roman and Urdu source pages do not always have the same number of
+  // trailing empty lines. The stanza number, not those lines, owns spacing.
+  for (const text of [
+    "۱\nA\nB\nC\nD\n\nE\nF\n\n۲\nG\nH\nI\nJ\n\nK\nL",
+    "1\nA\nB\nC\nD\n\nE\nF\n2\nG\nH\nI\nJ\n\nK\nL",
+  ]) {
+    const lines = layoutBastaKalam(text);
+    const number = lines.findIndex(line => line.stanzaNumber === "۲" || line.stanzaNumber === "2");
+    assert.ok(number > 0);
+    for (let i = number - 1; i >= 0 && !lines[i].text.trim(); i--)
+      assert.equal(lines[i].hidden, true, "counter-adjacent blank is not a verse-height spacer");
+    assert.equal(lines.filter(line => line.sixClosingStart).length, 2);
+    assert.equal(lines.filter(line => line.sixClosingEnd).length, 2);
+  }
+  const stanza = layoutBastaKalam("1\n\nA\nB");
+  assert.equal(stanza[1].hidden, true, "blank after stanza counter is also structural");
+  const prose = layoutBastaKalam("A\n\nB");
+  assert.equal(prose[1].hidden, undefined, "independent paragraph spacing is preserved");
+});
+
 test("blank lines survive and prose pages can opt out", () => {
   const content = "a\nb\n\nc\nd";
   assert.equal(layoutBastaKalam(content)[2].text, "");
@@ -61,6 +111,30 @@ test("kalam separators keep boundaries independent", () => {
     [false, true],
     [false, true],
   ]);
+});
+
+test("source fragment parser retains physical line offsets even for empty fragments", () => {
+  const source = "a\n---***---\n\n---***---\nb\nc";
+  const portions = splitBastaSource(source);
+  assert.deepEqual(portions, [
+    { start: 0, text: "a" },
+    { start: 2, text: "" },
+    { start: 4, text: "b\nc" },
+  ]);
+  assert.deepEqual(splitBastaKalams(source), ["a", "b\nc"]);
+});
+
+test("numbered stanza extraction preserves printed page identities and aligned Roman text", () => {
+  const extracted = extractBastaStanzas([
+    { page: 10, urdu: "Opening\n۱\nA\nB", roman: "Opening\n1\nRoman A\nRoman B" },
+    { page: 11, urdu: "۲\nC\nD", roman: "2\nRoman C\nRoman D" },
+  ]);
+  assert.equal(extracted.preface, "Opening");
+  assert.deepEqual(extracted.issues, []);
+  assert.deepEqual(extracted.stanzas.map(s => [s.id, s.number, s.pages]), [
+    ["stanza-001", 1, [10]], ["stanza-002", 2, [11]],
+  ]);
+  assert.equal(extracted.stanzas[1].roman, "Roman C\nRoman D");
 });
 
 test("Salam unbroken six lines are three couplets, unlike Marsiya six-line stanzas", () => {
@@ -293,4 +367,22 @@ test("a repeated poem title beginning with a poet-name prefix remains a title", 
   assert.equal(lines[0].title, true);
   assert.equal(lines[0].poet, undefined);
   assert.equal(lines[2].verse, true);
+});
+
+test("readers and editorial mapping share source separators and numeral parsing", () => {
+  const text = "one\n \n ---***--- \n two\n\n---***---\nthree";
+  assert.equal(isBastaBoundary(" ---***--- "), true);
+  assert.deepEqual(splitBastaKalams(text), ["one", "two", "three"]);
+  for (const [printed, value] of [["12", 12], ["١٢.", 12], ["۱۲", 12], ["0", 0]]) {
+    assert.equal(stanzaNumberValue(printed), value);
+    assert.equal(normalizePrintedStanzaNumber(printed), value > 0 ? value : null);
+  }
+});
+
+test("printed source role classifiers respect standalone numerals and headings", () => {
+  assert.equal(isStanzaNumber("۱۲."), true);
+  assert.equal(isStanzaNumber("Line 12"), false);
+  assert.equal(isCreditLine("(بشکریہ شاعر)"), true);
+  assert.equal(isGenreHeading("[قطعہ]"), true);
+  assert.equal(matchesOpeningTitle("گھر سے جب بہر سفر", "گھر سے جب بہر سفر"), true);
 });

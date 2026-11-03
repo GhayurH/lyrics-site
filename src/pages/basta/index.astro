@@ -2,7 +2,8 @@
 // File role: Basta landing: original scan, reading modes, browser-local resume, index, page jump, and PDF.
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { loadBastaNavigationData } from "../../lib/basta-pages";
-import "../../styles/basta.css";
+import "../../styles/basta-shell.css";
+import "../../styles/basta-home.css";
 
 const { availablePages, indexStartPage, indexEndPage } = await loadBastaNavigationData();
 const firstPage = availablePages[0];

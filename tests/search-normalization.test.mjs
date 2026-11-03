@@ -13,3 +13,8 @@ test("Urdu and Arabic forms normalize without rewriting source", () => {
   assert.equal(original,"عَلِي يار كربلا");
   assert.equal(normalizeSearchToken("آلِ"),"ال");
 });
+
+test("search alias tokens are unique after bidirectional expansion", () => {
+  const aliases = searchIndexAliases("Husain hussain Hussein hussayn").split(" ");
+  assert.equal(new Set(aliases).size, aliases.length);
+});

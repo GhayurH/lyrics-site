@@ -1,17 +1,21 @@
 ---
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import ReadingControls from "../../../components/ReadingControls.astro";
+import ReaderSubnav from "../../../components/ReaderSubnav.astro";
 import "../../../styles/lyrics.css";
-import "../../../styles/basta.css";
-import "../../../styles/recitation.css";
+import "../../../styles/basta-text.css";
+import "../../../styles/recitation-common.css";
+import "../../../styles/recitation-reader.css";
 ---
 <BaseLayout title="Recitation reader | Kalam Archive" description="Read a complete ordered programme in Urdu or Roman Urdu, sequentially or continuously.">
-  <article class="recite-reader" id="recite-reader" data-pagefind-ignore>
+  <article class="recite-reader" id="recite-reader" data-reader-shell data-pagefind-ignore>
     <header class="recite-reader-heading">
       <p class="eyebrow">Recitation programme</p>
       <h1 id="recite-reader-title">Loading programme…</h1>
       <p id="recite-reader-description"></p>
-      <a href="/recite/" id="recite-reader-edit">← Recitation Sets</a>
+      <ReaderSubnav ariaLabel="Recitation navigation" items={[
+        { label: "← Recitation Sets", href: "/recite/", id: "recite-reader-edit" },
+      ]} />
       <a href="/recite/" id="recite-reader-copy">Use this set as a template</a>
     </header>
     <p id="recite-reader-error" role="alert" hidden>Unable to load this programme.</p>

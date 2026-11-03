@@ -1,0 +1,16 @@
+/* Shared programme editor/reader controls; definitions intentionally apply to both routes. */
+/* Route-owned composition and programme reader styles. Uses existing theme and typography tokens. */
+.recite-app, .recite-reader { max-width: var(--content-wide); margin: 0 auto; }
+
+.recite-app h1, .recite-reader-heading h1 { font-size: clamp(2rem,5vw,3.5rem); line-height: 1.3; margin: 0 0 .7rem; }
+
+.recite-app input, .recite-app select, .recite-app textarea,
+.recite-reader-toolbar select { width: 100%; min-height: var(--ui-target); border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); color: var(--primary-text); padding: .6rem .75rem; font: inherit; }
+
+.recite-app :is(button,input,select,textarea):focus-visible, .recite-reader :is(button,select,a):focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+
+.recite-list-actions button, .recite-reader-toolbar button { border: var(--ui-border); background: var(--surface-background); color: var(--primary-text); padding: .4rem .65rem; border-radius: .5rem; min-height: var(--ui-target); font: inherit; cursor: pointer; }
+
+.recite-list-actions button:disabled, .recite-reader-toolbar button:disabled { opacity: .4; cursor: default; }
+
+.recite-work[hidden], .recite-panel[hidden], .recite-shared-links[hidden] { display: none !important; }

@@ -79,7 +79,7 @@
 [data-preset-swatch="sepia"] {
   --swatch-main: var(--preset-sepia-main);
   --swatch-surface: var(--preset-sepia-surface);
-  --swatch-ink: #352b21;
+  --swatch-ink: var(--preset-sepia-ink);
   --swatch-accent: var(--preset-sepia-accent);
 }
 [data-preset-swatch="amoled"] {
@@ -165,7 +165,7 @@
 [data-preset-swatch="custom"] {
   --swatch-main: var(--theme-main, var(--preset-sepia-main));
   --swatch-surface: var(--theme-secondary, var(--preset-sepia-surface));
-  --swatch-ink: var(--theme-foreground, #352b21);
+  --swatch-ink: var(--theme-foreground, var(--preset-sepia-ink));
   --swatch-accent: var(--theme-accent, var(--preset-sepia-accent));
 }
 .theme-custom-fields { display: grid; gap: .65rem; margin-top: 1.15rem; border-top: var(--ui-border); padding-top: 1rem; }

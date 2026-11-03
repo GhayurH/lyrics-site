@@ -1,11 +1,15 @@
-# Coding agent contract
+# Engineering and editorial contract
 
-Use [Contributing](docs/CONTRIBUTING.md) for poetry and tests, [Architecture](docs/ARCHITECTURE.md) for ownership, [Quality assurance](docs/QUALITY_ASSURANCE.md) for validation, and [Operations](docs/RECITATION_OPERATIONS.md) for production bindings.
+Read [Architecture](docs/ARCHITECTURE.md) for ownership, [Contributing](docs/CONTRIBUTING.md) for source changes, [Quality assurance](docs/QUALITY_ASSURANCE.md) for testing and [Operations](docs/RECITATION_OPERATIONS.md) before touching Cloudflare resources.
 
-- Preserve reviewed Urdu/Roman wording, stanza order and numbers, meaningful punctuation, printed Basta pages, public routes and permanent recitation IDs. Do not auto-approve uncertain source mappings.
-- Roman spelling conventions: **Husain**, **Hasan**, `ڑ` → `r`, Urdu `ے` → `e`, with Punjabi pronunciation treated separately.
-- Share reader controls, source models, CSS tokens and responsive breakpoints. No page-wide horizontal text scrolling; only an individual long line may pan under extreme zoom for readability. Reading remains functional without JavaScript.
-- Keep R2 binaries outside Git and retain root-relative `/images/` and `/files/` URLs. Search is Pagefind-based; D1/Pages Functions handle published Recitation Sets, not poetry text.
-- Preserve local-only drafts, bookmarks and private organizer capabilities. Never cache or publicly share edit tokens.
-- After editing poetry Markdown run `npm run source:sync`, then `git diff --check`, `npm run check`, `npm run build` and relevant browser tests. Use existing tests for additional cases; full browser includes smoke, and build already runs unit and source checks, so never run those twice in CI.
-- Document current contracts, not chronological development notes. Avoid speculative or WIP comments.
+## Non-negotiable invariants
+
+- **Source authority:** reviewed Urdu/Roman wording, punctuation, printed Basta page identities, explicit `---***---` boundaries and existing recitation/stanza IDs must remain stable. Never resolve uncertain OCR or published identity mappings by guesswork.
+- **Edition parity:** Urdu, Roman and scan editions share stanza interpretation, titles, bookmarking and reader controls. Static HTML remains useful without JavaScript. Keep individual verses on one line; only that line may pan at extreme zoom.
+- **One owner per concern:** source parsers and identity rules in `src/lib/`; stateful browser controllers in `src/client/`; static markup in Astro components; CSS roles in domain stylesheets. Reuse an existing owner rather than copying logic into another route.
+- **Security:** source scans live in R2; drafts and private organizer edit capabilities remain browser-local unless explicitly published. Never log, index, cache or expose organizer edit tokens.
+- **Comments:** explain contracts, boundary conditions, reasons and failure behavior. Do not narrate individual statements or retain chronological/WIP commentary. Documentation describes **current architecture**, not a changelog.
+
+## Verification
+
+After Markdown edits: `npm run source:sync`, inspect the exact diff, then `npm run build`. After code changes: `npm run check`, `npm run build` and the relevant Chromium suite. Run `git diff --check`. The build already runs Node tests and source integrity checks: never duplicate those gates in CI.

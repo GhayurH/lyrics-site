@@ -1,0 +1,126 @@
+/* Reset, accessibility, shared controls and general content typography. */
+/* File role: Global reset, site shell and shared components. Design tokens live in tokens.css. */
+
+
+:root {
+  font-family: var(--font-ui);
+  line-height: 1.6;
+}
+
+* { box-sizing: border-box; }
+
+html { min-height: 100%; }
+
+body { min-height: 100vh; margin: 0; transition: background-color 150ms ease, color 150ms ease; }
+
+a { color: inherit; }
+
+img { display: block; max-width: 100%; }
+
+html, body { background: var(--site-background); color: var(--primary-text); }
+
+/* Direct hash links also clear the measured sticky header. */
+[id]:target { scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 1rem); }
+
+.button:hover:not(.button-secondary) { filter: brightness(0.92); }
+
+/* Shared layout/UI */
+.button {
+  cursor: pointer;
+  font: inherit;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--ui-target);
+  margin-top: 1rem;
+  border: 1px solid transparent;
+  border-radius: var(--ui-radius);
+  padding: .65rem 1rem;
+  background: var(--button-background);
+  color: var(--button-text);
+  font-weight: 600;
+  line-height: 1.3;
+  text-align: center;
+  text-decoration: none;
+}
+
+.button-secondary { border: var(--ui-border); background: var(--surface-background); color: var(--primary-text); }
+
+.button-secondary:hover { background: var(--tag-background); }
+
+.section-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
+
+.eyebrow { margin: 0 0 0.45rem; color: var(--secondary-text); font-size: 0.78rem; font-weight: 800; letter-spacing: 0.09em; text-transform: uppercase; }
+
+.page-header-simple { max-width: var(--content-intro); margin-bottom: 2.5rem; }
+
+.page-header-simple h1 { margin: 0 0 0.7rem; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; }
+
+.page-header-simple > p:last-child { color: var(--secondary-text); }
+
+.back-link { display: inline-block; margin-bottom: 2rem; }
+
+.theme-toggle,
+.favorite-button,
+.text-button {
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-tight);
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font: inherit;
+  cursor: pointer;
+}
+
+html:not([data-js-available="true"]) .theme-toggle { display: none; }
+
+.favorite-button:not(.favorite-icon-button), .text-button {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-height: var(--ui-target); padding: var(--ui-control-padding);
+  font-size: var(--ui-control-font-size); font-weight: 700; line-height: 1.3;
+}
+
+.theme-toggle:hover, .favorite-button:hover, .text-button:hover { background: var(--tag-background); }
+
+.favorite-button[aria-pressed="true"], .favorite-button[data-saved="true"] { background: var(--button-background); color: var(--button-text); }
+
+[lang="ur"] { font-family: var(--font-urdu); }
+
+.pagefind-data { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+
+.visually-hidden { position: absolute !important; width: 1px !important; height: 1px !important; margin: -1px !important; overflow: hidden !important; clip: rect(0 0 0 0) !important; white-space: nowrap !important; border: 0 !important; padding: 0 !important; }
+
+@media (prefers-reduced-motion: reduce) {
+*, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; }
+}
+
+/* No-script guidance is real HTML rather than contents of a parser-dependent noscript. */
+html[data-js-available="true"] [data-requires-js] { display: none !important; }
+
+/* Keep basic controls visually consistent across browsing and reading pages. */
+:where(.button, .lyric-add-recitation, .basta-nav-button, .recite-steps a) { min-height: var(--ui-target); }
+
+:where(button, input, select, textarea):disabled { cursor: not-allowed; }
+
+/* Keyboard visibility and neutral status treatment are the same across modes. */
+:where(.button, .text-button, .reading-focus-enter, .reading-focus-actions button, .recite-app :is(input,select,textarea), .search-filter-chip) {
+  border-radius: var(--ui-radius);
+}
+
+:where(.recite-app input, .recite-app select, .recite-app textarea, .reading-controls select) {
+  accent-color: var(--accent-color);
+}
+
+:where([aria-disabled="true"], :disabled) { cursor: not-allowed; }
+
+:where(a, button, input, select, textarea, summary):focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
+}
+
+:where(.home-collection-card,.home-type-card,.lyric-card-link,.recite-steps a) {
+  transition: background-color 150ms ease, border-color 150ms ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+:where(.home-collection-card,.home-type-card,.lyric-card-link,.recite-steps a) { transition: none; }
+}

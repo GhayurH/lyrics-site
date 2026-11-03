@@ -4,10 +4,13 @@ import BaseLayout from "../../../layouts/BaseLayout.astro";
 import BastaParallelIndex from "../../../components/BastaParallelIndex.astro";
 import BastaPager from "../../../components/BastaPager.astro";
 import ReadingControls from "../../../components/ReadingControls.astro";
+import ReaderSubnav from "../../../components/ReaderSubnav.astro";
 import type { BastaIndexEntry } from "../../../lib/basta";
 import { loadBastaNavigationData } from "../../../lib/basta-pages";
 import indexEntries from "../../../data/basta/index.json";
-import "../../../styles/basta.css";
+import "../../../styles/basta-shell.css";
+import "../../../styles/basta-navigation.css";
+import "../../../styles/basta-index.css";
 import "../../../styles/basta-reader.css";
 
 const entries = indexEntries as BastaIndexEntry[];
@@ -24,13 +27,12 @@ const {
   title="Basta Index | Kalam Archive"
   description="Complete linked Urdu and Roman Urdu index of Basta."
 >
-  <article class="basta-index-page basta-index-page-modes">
+  <article class="basta-index-page basta-index-page-modes" data-reader-shell>
     <header class="basta-index-header">
-      <div class="basta-subnav" data-pagefind-ignore>
-        <a href="/basta/">Basta</a>
-        <span aria-hidden="true">·</span>
-        <a href="/basta/read/#index">Continuous reader</a>
-      </div>
+      <ReaderSubnav ariaLabel="Basta navigation" items={[
+        { label: "Basta", href: "/basta/" },
+        { label: "Continuous reader", href: "/basta/read/#index" },
+      ]} />
       <h1>Basta Index</h1>
     </header>
 

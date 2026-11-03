@@ -1,6 +1,6 @@
 ---
 // File role: Shared bilingual Basta renderer with independently sized Roman and
-// Urdu editions; the shared browser controller synchronizes scroll percentages.
+// Urdu editions; the shared resizer keeps both columns in natural document flow.
 import BastaText from "./BastaText.astro";
 import type { BastaStanzaStyle } from "../lib/basta-text";
 
@@ -25,7 +25,7 @@ const isPage = variant === "page";
 <div class:list={["basta-parallel-kalams", `basta-parallel-kalams-${variant}`]}>
   <section
     class={isPage ? "basta-page-text basta-page-roman" : "basta-reader-column basta-reader-roman"}
-    data-synced-scroll-panel
+
     lang="en"
     dir="ltr"
     aria-label={`Roman Urdu text of Basta page ${page}`}
@@ -34,7 +34,7 @@ const isPage = variant === "page";
   </section>
   <section
     class={isPage ? "basta-page-text basta-page-urdu" : "basta-reader-column basta-reader-urdu"}
-    data-synced-scroll-panel
+
     lang="ur"
     dir="rtl"
     aria-label={`Urdu text of Basta page ${page}`}

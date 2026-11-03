@@ -1,9 +1,4 @@
 /* File role: Continuous Basta reader styles: controls the full-book flow, bilingual page/index layouts, reading modes, and reader-specific responsive behavior. */
-.basta-reader {
-  max-width: var(--content-wide);
-  margin: 0 auto;
-}
-
 .basta-reader-header {
   max-width: 56rem;
   margin-bottom: 1.5rem;
@@ -22,11 +17,6 @@
 
 .basta-reading-controls {
   margin-bottom: 1rem;
-}
-
-.basta-reader-flow {
-  max-width: var(--content-wide);
-  margin: 0 auto;
 }
 
 .basta-reader-page,
@@ -119,10 +109,6 @@
 /* =========================================================
    Anchored bilingual index
    ========================================================= */
-
-.basta-index-page.basta-index-page-modes {
-  max-width: var(--content-wide);
-}
 
 .basta-index-reading-controls {
   margin-top: 1.5rem;

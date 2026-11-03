@@ -1,0 +1,235 @@
+/* Programme reader: verified editions, live navigation and portable export controls. */
+.recite-reader-heading { margin-bottom: 1.25rem; }
+
+.recite-reader-heading p { color: var(--secondary-text); }
+
+.recite-reading-root { container: reader-shell / inline-size; min-width: 0; }
+
+.recite-reader-toolbar { position: static; display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; justify-content: center; background: var(--surface-background); border: var(--ui-border); border-radius: var(--ui-radius-card); padding: .5rem; margin-bottom: 1rem; }
+
+.recite-reader-toolbar select { width: min(18rem,100%); max-width: 100%; }
+
+.recite-reader-toolbar .recite-reader-progress { color: var(--secondary-text); font-size: .85rem; font-weight: 700; }
+
+.recite-reader-view-label { display: flex; align-items: center; gap: .4rem; color: var(--secondary-text); font-size: .8rem; }
+
+.recite-works { display: grid; }
+
+.recite-work { border: var(--ui-border); border-radius: var(--ui-radius-card); background: var(--site-background); overflow: clip; }
+
+.recite-work-header { border-bottom: var(--ui-border); }
+
+.recite-work-header h2 { margin: 0; }
+
+.recite-work-header p { color: var(--secondary-text); font-size: .82rem; margin: .15rem 0; }
+
+.recite-editions > .lyric-reading-panel { min-width: 0; }
+
+.recite-editions .lyric-reading-image img { width: 100%; height: auto; max-height: 80vh; object-fit: contain; }
+
+.recite-scan-page { width: 100%; min-width: 0; margin-block: 0 1.25rem; text-align: center; }
+
+.recite-scan-page a { display: block; max-width: 100%; }
+
+.recite-scan-page img { width: auto; max-width: 100%; margin-inline: auto; }
+
+.recite-scan-caption { color: var(--secondary-text); font-size: .8rem; margin-top: .35rem; }
+
+.recite-reading-root:not([data-reading-columns~="image"]) .recite-work-no-image .lyric-reading-image { display: none; }
+
+.recite-reading-root[data-reading-columns~="image"] .recite-work-no-image .lyric-reading-image { display: block; }
+
+.recite-editions .recite-empty-edition { padding: 1rem; color: var(--secondary-text); font-size: .9rem; }
+
+.recite-work-placeholder { padding: 1.5rem; color: var(--secondary-text); }
+
+.recite-stanza-source { font-size: .73rem; padding: .35rem 0; color: var(--secondary-text); }
+
+.recite-stanza-source a { color: inherit; }
+
+.recite-work-note { padding: .55rem 1rem; margin: 0; border-bottom: var(--ui-border); color: var(--secondary-text); }
+
+html[data-reading-focus="true"] .recite-reader-heading { display: none; }
+
+html[data-reading-focus="true"] .recite-works { gap: 1rem; }
+
+html[data-reading-focus="true"] .recite-work { border: 0; border-radius: 0; background: var(--site-background); }
+
+html[data-reading-focus="true"] .recite-work-header { padding: .4rem; }
+
+@media (max-width: 740px) {
+.recite-reader-toolbar select { width: min(13rem,100%); }
+.recite-work-header h2 { line-height: 1.9; }
+}
+
+.recite-editions .basta-kalam-text { line-height: var(--reading-active-lyric-urdu-leading); }
+
+.recite-editions .lyric-reading-roman .basta-kalam-text { line-height: var(--reading-active-roman-leading); }
+
+.recite-work { scroll-margin-top: 9rem; }
+
+html[data-reading-focus="true"] .recite-work { scroll-margin-top: 5rem; }
+
+/* Missing sources are explicitly visible but never removed from programme order. */
+.recite-missing-stanza {
+  border-inline-start: .2rem solid var(--secondary-text);
+  padding: .55rem .8rem;
+  margin: .75rem 0;
+  color: var(--primary-text);
+  background: var(--tag-background);
+  font-size: .85rem;
+  line-height: 1.7;
+}
+
+/* Portable exports and live following remain opt-in. Print uses a self-contained
+   snapshot, independent of lazy-loaded reader pages and network fonts. */
+.recite-reader-tools { display: flex; align-items: center; flex-wrap: wrap; gap: .65rem; margin-bottom: .75rem; }
+
+.recite-reader-tools button { min-height: var(--ui-target); border: var(--ui-border); border-radius: var(--ui-radius-tight); padding: .45rem .75rem; background: var(--surface-background); color: var(--primary-text); font: inherit; cursor: pointer; }
+
+.recite-reader-tools button:disabled { opacity: .5; cursor: progress; }
+
+.recite-reader-tools p { flex-basis: 100%; margin: 0; }
+
+.recite-reader-live-label { display: inline-flex; align-items: center; gap: .4rem; font-size: .83rem; }
+
+.recite-reader-live-label[hidden] { display: none !important; }
+
+.recite-reader-live-label input { width: 1.2rem; height: 1.2rem; }
+
+#recite-live-status { max-width: 18rem; }
+
+html[data-reading-focus="true"] .recite-reader-tools { display: none; }
+
+/* Recitation uses the common reader toolbar, not a second sticky header. */
+.reading-controls-recitation { align-items: center; }
+
+.reading-controls-recitation .recite-reader-toolbar {
+  order: 5; flex: 1 1 100%; min-width: 0;
+  margin: .2rem 0 0; padding: .45rem 0 0;
+  border: 0; border-top: var(--ui-border);
+  border-radius: 0; background: transparent; box-shadow: none;
+}
+
+.reading-controls-recitation .recite-reader-toolbar select { width: min(15rem, 100%); }
+
+.reading-controls-recitation .recite-reader-view-label select { width: min(11rem, 100%); }
+
+html[data-reading-focus="true"] .reading-controls-recitation { width: min(58rem, calc(100vw - .9rem)); }
+
+html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-toolbar {
+  display: flex; order: 2; pointer-events: auto;
+  flex: 1 1 100%; margin: 0; padding: .35rem;
+  border: 0; border-radius: var(--ui-radius-tight); background: var(--surface-background);
+}
+
+@media (max-width: 700px) {
+.reading-controls-recitation .recite-reader-toolbar {
+    grid-column: 1 / -1; grid-row: 2; justify-content: space-between; flex-wrap: wrap;
+  }
+.reading-controls-recitation:not([data-regular-options-open="true"]) .recite-reader-toolbar
+    > :is(#recite-reader-contents, .recite-reader-view-label, .recite-reader-live-label, #recite-live-status) { display: none !important; }
+.reading-controls-recitation .recite-reader-progress { font-size: .76rem; }
+.reading-controls-recitation[data-regular-options-open="true"] > .reading-view-control { grid-row: 3; }
+.reading-controls-recitation[data-regular-options-open="true"] > .reading-control-group:not(.reading-view-control) { grid-row: 4; }
+html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-toolbar {
+    display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center;
+  }
+html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-toolbar
+    > :is(#recite-reader-contents,.recite-reader-view-label,.recite-reader-live-label,#recite-live-status) { display: none; }
+html[data-reading-focus="true"] .reading-controls-recitation[data-reading-options-open="true"] .recite-reader-toolbar
+    > :is(#recite-reader-contents,.recite-reader-view-label,.recite-reader-live-label,#recite-live-status) { display: flex; }
+html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-toolbar #recite-reader-contents { grid-column: 1 / -1; width: 100%; }
+}
+
+/* Recitation fallback mirrors the Basta reader: an unavailable Roman-only
+   selection retains its message and exposes the original scan if it exists. */
+.recite-reading-root[data-reading-mode="roman"]
+  .recite-work-no-roman:not(.recite-work-no-image) .lyric-reading-image {
+  display: block !important;
+}
+
+.recite-reading-root[data-reading-mode="roman"]
+  .recite-work-no-roman:not(.recite-work-no-image) .recite-editions {
+  grid-template-areas: "image" "roman"; grid-template-columns: minmax(0,1fr);
+}
+
+.recite-reading-root[data-reading-mode="roman"]
+  .recite-work-no-roman .lyric-reading-roman { grid-area: roman; }
+
+/* Consistent contextual guidance even when the selected format has no content. */
+.recite-empty-edition, .basta-edition-unavailable {
+  color: var(--secondary-text); font-size: .86rem; line-height: 1.6;
+}
+
+/* Programme poems inherit edition breakpoints; clip only their reading surface. */
+.recite-editions { width: 100%; overflow: clip; }
+
+.recite-reader-toolbar :is(#recite-previous,#recite-next) { font-weight: 700; }
+
+.recite-reader-progress { font-variant-numeric: tabular-nums; }
+
+/* Do not duplicate a missing-Roman warning beside usable Urdu verses. */
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-roman .lyric-reading-roman { display: none !important; }
+
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-roman .recite-editions {
+  grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr);
+}
+
+.recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="image"] .recite-work-no-roman .recite-editions {
+  grid-template-areas: "image urdu"; grid-template-columns: minmax(0,.8fr) minmax(0,1.5fr);
+}
+
+/* A programme may contain a mixture of original scans and text-only entries. */
+.recite-reading-root[data-reading-columns~="urdu"] .recite-work-no-image .lyric-reading-image,
+.recite-reading-root[data-reading-columns~="roman"] .recite-work-no-image .lyric-reading-image { display: none !important; }
+
+.recite-reading-root[data-reading-columns~="urdu"][data-reading-columns~="roman"] .recite-work-no-image .recite-editions {
+  grid-template-areas: "roman urdu"; grid-template-columns: minmax(0,var(--reading-roman-share,.44fr)) minmax(0,var(--reading-urdu-share,.56fr));
+}
+
+.recite-reading-root[data-reading-mode="urdu"] .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
+
+.recite-reading-root[data-reading-mode="roman"] .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
+
+/* When a programme item lacks a scan, a selected text edition owns the width. */
+.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="urdu"]:not([data-reading-columns~="roman"]) .recite-work-no-image .recite-editions { grid-template-areas: "urdu"; grid-template-columns: minmax(0,1fr); }
+
+.recite-reading-root[data-reading-columns~="image"][data-reading-columns~="roman"]:not([data-reading-columns~="urdu"]) .recite-work-no-image .recite-editions { grid-template-areas: "roman"; grid-template-columns: minmax(0,1fr); }
+
+/* Export and printing actions remain discoverable without competing with
+   the programme's primary Previous / Current / Next navigation. */
+.recite-reader-exports { margin: 0 0 1rem; }
+
+.recite-reader-exports summary {
+  width: fit-content; min-height: var(--ui-target); cursor: pointer;
+  border: var(--ui-border); border-radius: var(--ui-radius);
+  background: var(--surface-background); padding: .5rem .8rem;
+  font-size: .85rem; font-weight: 650;
+}
+
+.recite-reader-exports .recite-reader-tools { margin-top: .65rem; }
+
+html[data-reading-focus="true"] .recite-reader-exports { display: none; }
+
+/* A programme item is a single reading surface, not two nested cards.
+   Keep verse geometry shared with standalone and Basta readers. */
+.recite-work .recite-editions { border: 0; border-radius: 0; }
+
+.recite-work-header { padding: .65rem clamp(.75rem,1.8vw,1.15rem); }
+
+.recite-work-header h2 { font-size: calc(var(--reading-urdu-size) + var(--reading-title-increment)); line-height: 1.8; }
+
+.recite-work-note { padding-inline: clamp(.75rem,1.8vw,1.15rem); font-size: .85rem; }
+
+.recite-works { gap: clamp(1rem,2vw,1.5rem); }
+
+/* Roman and Urdu need comparable internal gutters, not two bulky columns. */
+.recite-editions > .lyric-reading-panel {
+  padding-inline: clamp(.7rem,1.9vw,1.4rem);
+}
+
+@media (max-width: 700px) {
+.recite-editions > .lyric-reading-panel { padding-inline: clamp(.55rem,2.2vw,.85rem); }
+.recite-work-header { padding-block: .45rem; }
+}

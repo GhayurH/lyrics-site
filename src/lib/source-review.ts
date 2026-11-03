@@ -1,17 +1,14 @@
 // Source-level, non-destructive review checks shared by Basta and standalone lyric audits.
 // Findings identify review candidates, not permission to alter uncertain printed wording.
-import { parseStanzaNumber } from "./stanza-numbers.ts";
-import { stripCanonicalBibiNonJoiners } from "./bibi-spelling.ts";
+import { stanzaNumberValue } from "./stanza-numbers.ts";
+import { isBastaBoundary, splitBastaSource } from "./basta-text.ts";
+import { splitLyricStanzas, layoutLyricStanzas } from "./lyric-stanzas.ts";
+import { arabic, latin, unusualLatin, record, checkLines, type ReviewFinding } from "./source-text-quality.ts";
+export type { ReviewFinding } from "./source-text-quality.ts";
 
-export interface ReviewFinding {
-  path: string;
-  line: number;
-  code: string;
-  detail: string;
-}
 export interface MarkdownSource {
   path: string;
-  kind: "lyrics" | "basta-urdu" | "basta-roman";
+  kind: "lyrics" | "basta-urdu";
   text: string;
 }
 export interface ReviewedMarkdown {
@@ -27,93 +24,17 @@ export interface ReviewedMarkdown {
   issues: ReviewFinding[];
 }
 
-function record(issues: ReviewFinding[], path: string, line: number, code: string, detail: string): void {
-  issues.push({ path, line, code, detail });
-}
-
-function numberValue(raw: string): number | null {
-  const parsed = parseStanzaNumber(raw);
-  if (!parsed) return null;
-  const decimal = [...parsed].map((digit) => {
-    const n = digit.codePointAt(0)!;
-    if (n >= 0x06f0 && n <= 0x06f9) return String(n - 0x06f0);
-    if (n >= 0x0660 && n <= 0x0669) return String(n - 0x0660);
-    return digit;
-  }).join("");
-  return Number(decimal);
-}
-
-const arabic = /\p{Script=Arabic}/u;
-const latin = /\p{Script=Latin}/u;
-const unusualLatin = /[^\x00-\x7f]/u;
-const romanDigits = /[٠-٩۰-۹]/u;
-const commonPlaceholders = /(?:\b(?:TODO|TBD|FIXME|OCR|PLACEHOLDER)\b|\bmissing\s+v\d+(?:-\d+)?\b|\?{2,})/iu;
-const urduUncertainty = /\[[^\]\n]*(?:جزوی\s*طور\s*پر\s*غیر\s*واضح|غیر\s*واضح|واضح\s*نہیں|مبہم|نامعلوم|نامکمل|ناقابل|پڑھ(?:ا|ی|ے)?\s*نہیں\s*(?:جا\s*)?سک(?:ا|ی|ے)?)[^\]\n]*\]/iu;
-const romanUncertainty = /\[[^\]\n]*(?:juzwi\s+taur\s+par\s+ghair[-\s]?wazeh|ghair[-\s]?wazeh|wazeh\s+nah(?:i|ee)n|na[-\s]?qabil|unclear|illegible|unknown|incomplete|unreadable|not\s+clear|cannot\s+read)[^\]\n]*\]/iu;
-const invisible = /[\u200B\u200C\u200D\u200E\u200F\u202A-\u202E\u2066-\u2069\uFEFF]/u;
-
-function checkLines(path: string, text: string, firstLine: number, script: "urdu" | "roman", issues: ReviewFinding[], allowLatin = false): void {
-  text.split("\n").forEach((line, index) => {
-    const sourceLine = firstLine + index;
-    if (!line.trim()) return;
-    // Explicit editorial labels are metadata, not Arabic-to-Latin script mixing.
-    const visibleLine = line.replace(/^\[\[(?:subtitle|refrain)\]\] /u, "");
-    if (/\uFFFD/u.test(line)) record(issues, path, sourceLine, "replacement-character", "Unicode replacement character (�)");
-    if (/\t/u.test(line)) record(issues, path, sourceLine, "tab", "Tab inside source text");
-    if (invisible.test(stripCanonicalBibiNonJoiners(line)))
-      record(issues, path, sourceLine, "invisible-character", "Invisible/bidirectional control character; confirm intentional use");
-    if (commonPlaceholders.test(line) ||
-        (script === "urdu" ? urduUncertainty : romanUncertainty).test(line))
-      record(issues, path, sourceLine, "unverified-text", "Editorial/OCR uncertainty or placeholder present");
-    if (/(?:ï¿½|Ã.|Â.|â€|Ø.|Ù.|�)/u.test(line))
-      record(issues, path, sourceLine, "encoding", "Possible misdecoded text");
-    const otherScript = [...line].some(ch => /\p{L}/u.test(ch) && !latin.test(ch) && !arabic.test(ch));
-    if (otherScript)
-      record(issues, path, sourceLine, "unexpected-script", "Letter from an unexpected script: " + line.trim().slice(0, 95));
-    if (script === "urdu") {
-      // Latin text in book front matter, English appendices and quoted
-      // credits is an intentional source feature, not an OCR script error.
-      const credit = /^\s*(?:\([^\n]*\)|(?:بشکریہ|شاعرِ|شاعر\s)[^\n]*)$/u.test(visibleLine);
-      if (!allowLatin && !credit && /[A-Za-z]/u.test(visibleLine))
-        record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + visibleLine.trim().slice(0, 95));
-    } else {
-      if (/\b(?:Hussain|Hassan)\b/iu.test(line))
-        record(issues, path, sourceLine, "roman-name-style", "House style uses Husain and Hasan (one s after the initial consonant)");
-      if (arabic.test(line) || romanDigits.test(line))
-        record(issues, path, sourceLine, "arabic-in-roman", "Arabic-script character or digit in Roman text: " + line.trim().slice(0, 95));
-      // Flag Latin accents (ā, ḥ, ī, etc.), not ordinary curly punctuation.
-      if ([...line].some((ch) => latin.test(ch) && unusualLatin.test(ch)) ||
-          /[\u0300-\u036F]/u.test(line))
-        record(issues, path, sourceLine, "extended-latin-in-roman", "Non-ASCII Latin letter/diacritic in Roman text: " + line.trim().slice(0, 95));
-    }
-  });
-}
-
-interface Portion {
-  start: number;
-  text: string;
-}
-function portions(value: string): Portion[] {
-  const lines = value.split("\n"), sections: Portion[] = [];
-  let begin = 0;
-  for (let i = 0; i <= lines.length; i++) {
-    if (i === lines.length || /^\s*---\*\*\*---\s*$/u.test(lines[i])) {
-      sections.push({ start: begin, text: lines.slice(begin, i).join("\n") });
-      begin = i + 1;
-    }
-  }
-  return sections;
-}
 interface CountedStanza {
   number: number;
   line: number;
   verses: number;
 }
+/** Count separately numbered stanzas without inventing cross-page continuity. */
 function countStanzas(text: string, baseLine: number, path: string, issues: ReviewFinding[], checkSequence: boolean): CountedStanza[] {
   const lines = text.split("\n");
   const stanzas: CountedStanza[] = [];
   for (let i = 0; i < lines.length; i++) {
-    const number = numberValue(lines[i]);
+    const number = stanzaNumberValue(lines[i]);
     if (number === null) continue;
     stanzas.push({ number, line: baseLine + i, verses: 0 });
   }
@@ -121,7 +42,7 @@ function countStanzas(text: string, baseLine: number, path: string, issues: Revi
   for (let i = 0; i < stanzas.length; i++) {
     const from = stanzas[i].line - baseLine + 1;
     const until = i + 1 < stanzas.length ? stanzas[i + 1].line - baseLine : lines.length;
-    stanzas[i].verses = lines.slice(from, until).filter((line) => line.trim() && !/^\s*---\*\*\*---\s*$/u.test(line)).length;
+    stanzas[i].verses = lines.slice(from, until).filter((line) => line.trim() && !isBastaBoundary(line)).length;
     if (!stanzas[i].verses)
       record(issues, path, stanzas[i].line, "empty-stanza", "Numbered stanza has no verses");
     if (i > 0 && stanzas[i].number <= stanzas[i - 1].number)
@@ -138,7 +59,7 @@ export function compareEditions(
   urduStart = 1, romanStart = 1, checkSequence = true,
 ): ReviewFinding[] {
   const issues: ReviewFinding[] = [];
-  const uParts = portions(urdu), rParts = portions(roman);
+  const uParts = splitBastaSource(urdu), rParts = splitBastaSource(roman);
   if (uParts.length !== rParts.length) {
     record(issues, urduPath, urduStart, "fragment-count", "Urdu has " + uParts.length + " source fragments; Roman has " + rParts.length);
   }
@@ -172,6 +93,8 @@ export function compareEditions(
   return issues;
 }
 
+/** Report source and structural violations without editing source or resetting the baseline.
+ * Unknown frontmatter is returned as a finding so the audit can continue. */
 export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   const { path, kind, text } = source;
   const issues: ReviewFinding[] = [];
@@ -206,6 +129,23 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
     if (fields.originalImage && imagePage !== page)
       record(issues, path, 2, "image-page-mismatch", "Source image filename does not match printed page " + page);
   }
+  const start = lines.findIndex(l => /^romanLyrics:\s*\|[-+]?\s*$/u.test(l));
+  let roman: string | undefined, romanLine: number | undefined;
+  if (start >= 0) {
+    romanLine = 2 + start + 1;
+    const values: string[] = [];
+    for (const line of lines.slice(start + 1)) {
+      if (line.trim() && !/^[ \t]/u.test(line)) break;
+      if (line.trim() && !/^ {2}/u.test(line)) {
+        record(issues, path, romanLine + values.length, "roman-indentation", "Roman lyrics block has invalid indentation");
+      }
+      values.push(line.startsWith("  ") ? line.slice(2) : line);
+    }
+    roman = values.join("\n").trimEnd();
+  } else if ("romanLyrics" in fields && fields.romanLyrics) {
+    record(issues, path, 2, "roman-format", "Roman text should be a YAML literal block (romanLyrics: |-)");
+  }
+
   if (kind === "lyrics") {
     for (const field of ["title", "language", "lang", "direction", "kalamType"]) {
       if (!fields[field]) record(issues, path, 2, "missing-metadata", "Missing " + field + " field");
@@ -218,22 +158,6 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
       checkLines(path, body, bodyLine, "urdu", issues);
     } else if (fields.lang === "en") checkLines(path, body, bodyLine, "roman", issues);
 
-    const start = lines.findIndex(l => /^romanLyrics:\s*\|[-+]?\s*$/u.test(l));
-    let roman: string | undefined, romanLine: number | undefined;
-    if (start >= 0) {
-      romanLine = 2 + start + 1;
-      const values: string[] = [];
-      for (const line of lines.slice(start + 1)) {
-        if (line.trim() && !/^[ \t]/u.test(line)) break;
-        if (line.trim() && !/^ {2}/u.test(line)) {
-          record(issues, path, romanLine + values.length, "roman-indentation", "Roman lyrics block has invalid indentation");
-        }
-        values.push(line.startsWith("  ") ? line.slice(2) : line);
-      }
-      roman = values.join("\n").trimEnd();
-    } else if ("romanLyrics" in fields && fields.romanLyrics) {
-      record(issues, path, 2, "roman-format", "Roman text should be a YAML literal block (romanLyrics: |-)");
-    }
     if (isUrdu && !roman?.trim()) record(issues, path, 2, "missing-roman", "No Roman Urdu edition found");
     if (roman !== undefined && romanLine !== undefined) {
       checkLines(path, roman, romanLine, "roman", issues);
@@ -279,35 +203,70 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   if (kind === "basta-urdu" && fields.imageOnly !== "true")
     checkLines(path, body, bodyLine, "urdu", issues,
       (page ?? 0) < 85 || fields.contentKind === "english-appendix");
-  if (kind === "basta-roman") checkLines(path, body, bodyLine, "roman", issues);
-  if (kind.startsWith("basta-") && page !== undefined && page >= 85) {
-    // Prayer notices should not be stored as poetry. Only classify
-    // standalone requests, never a verse mentioning iltimas or fatiha.
-    const sourceLines = body.split("\n");
-    // Keep one blank line between paragraphs, not multiple. Courtesy credits
-    // follow the poem/recurring title as their own paragraph.
-    sourceLines.forEach((line, index) => {
-      if (index > 1 && !line.trim() && !sourceLines[index - 1].trim() &&
-          sourceLines[index - 2].trim()) {
-        record(issues, path, bodyLine + index, "basta-excess-blank-lines",
-          "Two or more consecutive blank lines in a Basta source");
-      }
-      if (/^\s*\(?(?:بشکریہ|Bashukriya)(?:\s|[):]|$)/iu.test(line) &&
-          index > 0 && sourceLines[index - 1].trim()) {
-        record(issues, path, bodyLine + index, "basta-courtesy-spacing",
-          "Source acknowledgement should have one blank line above it");
-      }
-    });
-    body.split("\n").forEach((line, index) => {
-      const normalized = line.replace(/\u0640/gu, "").replace(/[\u064B-\u065F]/gu, "").trim();
-      if (/^\(?\s*(?:التماس|iltimas)(?:[\sِ-]*e)?[\sِ-]*(?:(?:سور[ۃہ]|surah|surat)(?:[\s-]*e)?[\s-]*)?(?:فاتحہ|fatiha|fateha|دعا|dua)/iu.test(normalized))
-        record(issues, path, bodyLine + index, "basta-prayer-block", "Prayer/dedication request left in poetry source");
-    });
+  if (kind === "basta-urdu" && roman !== undefined && romanLine !== undefined) {
+    checkLines(path, roman, romanLine, "roman", issues);
+    if (body.trim() && roman.trim())
+      issues.push(...compareEditions(body, roman, path, path, bodyLine, romanLine, false));
   }
-  // Page-number sequences continue across physical pages; individual fragments may start mid-stanza.
-  // Only report repeats/decreases within the same page/fragment, not gaps between pages.
-  for (const part of portions(body)) {
-    countStanzas(part.text, bodyLine + part.start, path, issues, false);
+  if (kind === "basta-urdu" && page !== undefined && page >= 85) {
+    // Physical lines and review locations are preserved across both editions.
+    // A Roman literal lives above the Urdu body, but uses the same audit rules.
+    const editions = [{ text: body, line: bodyLine },
+      ...(roman === undefined || romanLine === undefined ? [] : [{ text: roman, line: romanLine }])];
+    for (const edition of editions) {
+      const sourceLines = edition.text.split("\n");
+      sourceLines.forEach((line, index) => {
+        if (index > 1 && !line.trim() && !sourceLines[index - 1].trim() &&
+            sourceLines[index - 2].trim())
+          record(issues, path, edition.line + index, "basta-excess-blank-lines",
+            "Two or more consecutive blank lines in a Basta source");
+        if (/^\s*\(?(?:بشکریہ|Bashukriya)(?:\s|[):]|$)/iu.test(line) &&
+            index > 0 && sourceLines[index - 1].trim())
+          record(issues, path, edition.line + index, "basta-courtesy-spacing",
+            "Source acknowledgement should have one blank line above it");
+        const normalized = line.replace(/\u0640/gu, "").replace(/[\u064B-\u065F]/gu, "").trim();
+        if (/^\(?\s*(?:التماس|iltimas)(?:[\sِ-]*e)?[\sِ-]*(?:(?:سور[ۃہ]|surah|surat)(?:[\s-]*e)?[\s-]*)?(?:فاتحہ|fatiha|fateha|دعا|dua)/iu.test(normalized))
+          record(issues, path, edition.line + index, "basta-prayer-block",
+            "Prayer/dedication request left in poetry source");
+      });
+      // Continuations cross pages. Only detect repeats/decreases inside each fragment.
+      for (const part of splitBastaSource(edition.text))
+        countStanzas(part.text, edition.line + part.start, path, issues, false);
+    }
   }
-  return { path, kind, page, imageOnly: fields.imageOnly === "true", body, bodyLine, fields, issues };
+  return { path, kind, page, imageOnly: fields.imageOnly === "true",
+    body, bodyLine, roman, romanLine, fields, issues };
+}
+
+/** Publication-wide file conventions run from the single editorial scan, not
+ * from separate filesystem-walking tests. They must never rewrite verse text.
+ * Keep these separate from reviewMarkdown so synthetic parser fixtures need
+ * not include the publication's EOF and numbered-stanza requirements.
+ */
+export function reviewPublicationConventions(file: ReviewedMarkdown, text: string): ReviewFinding[] {
+  const issues: ReviewFinding[] = [];
+  const { path, kind, fields, body, roman } = file;
+  if (!text.endsWith("\n") || text.endsWith("\n\n"))
+    record(issues, path, text.split("\n").length, "source-final-newline",
+      "Published Markdown must have exactly one final newline");
+
+  if (kind === "basta-urdu" && roman !== undefined && !roman.trim())
+    record(issues, path, file.romanLine ?? 2, "empty-basta-roman",
+      "Omit the Roman literal when no transcription exists; never invent missing Roman text");
+
+  if (kind !== "lyrics" || fields.published === "false") return issues;
+  // A paired 4+2/2+2+2 stanza is a layout declaration, not permission to
+  // invent missing lines or ignore an edition with different source text.
+  for (const [label, edition] of [["Urdu", body], ["Roman", roman]] as const) {
+    if (!edition?.trim()) continue;
+    if (!splitLyricStanzas(edition).some(stanza => stanza[0]?.number))
+      record(issues, path, label === "Urdu" ? file.bodyLine : file.romanLine ?? 2,
+        "missing-lyric-stanza-number", label + " edition has no numbered stanza");
+    if (fields.sixVerseLayout === "pairs" &&
+        !layoutLyricStanzas(edition).some(stanza =>
+          stanza.filter(line => !line.number).length === 6))
+      record(issues, path, label === "Urdu" ? file.bodyLine : file.romanLine ?? 2,
+        "invalid-six-verse-layout", label + " pairs layout has no six-verse stanza");
+  }
+  return issues;
 }

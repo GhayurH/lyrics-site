@@ -7,16 +7,12 @@ import {
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
 import LyricVerses from "../../components/LyricVerses.astro";
-import FavoriteButton from "../../components/FavoriteButton.astro";
+import LyricHeader from "../../components/LyricHeader.astro";
+import LyricSearchIndex from "../../components/LyricSearchIndex.astro";
 import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-data";
 import "../../styles/lyrics.css";
 import "../../styles/corrections.css";
-import { searchIndexAliases } from "../../lib/search-normalization";
-import {
-  getLyricKalamType,
-  searchUrl,
-  slugifyKalamType,
-} from "../../lib/lyrics";
+import { getLyricKalamType, slugifyKalamType, searchUrl } from "../../lib/lyrics";
 
 export async function getStaticPaths() {
   const byCategory = groupLyricsByKalamType(await loadPublishedLyrics());
@@ -52,22 +48,6 @@ const {
 } = Astro.props as Props;
 const { data } = lyric;
 const category = getLyricKalamType(data);
-const displayHaal = data.romanHaal?.trim() || data.haal;
-
-const searchTerms = [
-  data.alternateTitle,
-  data.poet,
-  data.reciter,
-  data.occasion,
-  data.haal,
-  data.romanHaal,
-  category,
-  ...data.tags,
-  ...data.aliases,
-]
-  .filter(Boolean)
-  .join(" ");
-
 function neighborTitle(entry: CollectionEntry<"lyrics">) {
   return entry.data.alternateTitle ?? entry.data.title;
 }
@@ -78,150 +58,13 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
   description={`Read ${data.title} in Urdu${data.romanLyrics ? " and Roman Urdu" : ""}.`}
 >
   <article
-    class:list={[
-      "lyric-page",
-      data.romanLyrics && "lyric-page-parallel",
-    ]}
+    class="lyric-page"
+    data-reader-shell
     data-lyric-id={lyric.id}
   >
-    <header class="lyric-header">
-      <a class="back-link" href={`/categories/${slugifyKalamType(category)}/`}>
-        ← {category}
-      </a>
-      {data.cover && <span class="source-scan-link-wrap"><span aria-hidden="true"> · </span><a class="source-scan-link" href={data.cover}>Original lyric sheet</a></span>}
+    <LyricHeader lyric={lyric} />
 
-      <div class="lyric-header-title-row">
-        <div class="lyric-title-block">
-           <h1
-            class="kalam-reading-title"
-            lang={data.lang}
-            dir={data.direction}
-            data-pagefind-meta="title"
-          >
-            {data.title}
-          </h1>
-
-          {
-            data.alternateTitle && (
-              <p class="alternate-title kalam-reading-title" lang="en" dir="ltr">
-                {data.alternateTitle}
-              </p>
-            )
-          }
-        </div>
-
-        <div class="lyric-header-actions" data-pagefind-ignore>
-           <FavoriteButton lyricId={lyric.id} />
-           <button type="button" class="lyric-correction-action" data-correction-open data-source-id={lyric.id}>Suggest correction</button>
-           <a class="lyric-add-recitation" href={`/recite/?add=${encodeURIComponent("lyric:" + lyric.id)}`}>Add to set</a>
-        </div>
-      </div>
-
-      <details class="lyric-metadata-disclosure">
-        <summary><strong>About this kalam</strong>{displayHaal && <span>{displayHaal}</span>}{data.poet && <span>· {data.poet}</span>}</summary>
-      <dl class="lyric-details">
-        <div>
-          <dt>Language</dt>
-          <dd>
-            <a href={searchUrl({ collection: "Lyrics", language: data.language })}>
-              {data.language}
-            </a>
-          </dd>
-        </div>
-
-         {
-          displayHaal && (
-            <div>
-              <dt>Haal</dt>
-              <dd>
-                <a href={searchUrl({ collection: "Lyrics", haal: displayHaal })}>
-                  {displayHaal}
-                </a>
-              </dd>
-            </div>
-          )
-        }
-
-        {
-          data.poet && (
-            <div>
-              <dt>Poet</dt>
-              <dd>
-                <a href={searchUrl({ collection: "Lyrics", poet: data.poet })}>
-                  {data.poet}
-                </a>
-              </dd>
-            </div>
-          )
-        }
-
-        {
-          data.reciter && (
-            <div>
-              <dt>Reciter</dt>
-              <dd>
-                <a href={searchUrl({ collection: "Lyrics", reciter: data.reciter })}>
-                  {data.reciter}
-                </a>
-              </dd>
-            </div>
-          )
-        }
-
-        {
-          data.occasion && (
-            <div>
-              <dt>Occasion</dt>
-              <dd>
-                <a href={searchUrl({ collection: "Lyrics", occasion: data.occasion })}>
-                  {data.occasion}
-                </a>
-              </dd>
-            </div>
-          )
-        }
-
-        {
-          data.year && (
-            <div>
-              <dt>Year</dt>
-              <dd>{data.year}</dd>
-            </div>
-          )
-        }
-      </dl>
-      </details>
-
-    </header>
-
-    <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
-      <span data-pagefind-meta="searchTerms">{searchTerms}</span>
-      <span data-pagefind-filter="collection">Lyrics</span>
-      <span data-pagefind-meta="collection">Standalone kalam</span>
-      {data.alternateTitle && <span data-pagefind-meta="roman_title">{data.alternateTitle}</span>}
-      <span data-pagefind-filter="kalamType">{category}</span>
-      <span data-pagefind-filter="language">{data.language}</span>
-
-      {displayHaal && <span data-pagefind-filter="haal">{displayHaal}</span>}
-      {data.poet && <span data-pagefind-filter="poet">{data.poet}</span>}
-      {data.reciter && <span data-pagefind-filter="reciter">{data.reciter}</span>}
-      {data.occasion && <span data-pagefind-filter="occasion">{data.occasion}</span>}
-      {data.tags.map((tag) => <span data-pagefind-filter="tag">{tag}</span>)}
-    </div>
-
-    {/* Index only real poetry. Paragraphs keep distinct source lines apart
-        so Pagefind cannot join them into unreadable search excerpts. */}
-    <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      <p>{searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" "))}</p>
-      <p>{data.title}</p>
-      {data.alternateTitle && <p>{data.alternateTitle}</p>}
-      {(lyric.body ?? "").split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
-        <p lang={data.lang} dir={data.direction}>{line}</p>
-      ))}
-      {data.romanLyrics?.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
-        <p lang="en" dir="ltr">{line}</p>
-      ))}
-    </div>
+    <LyricSearchIndex lyric={lyric} />
 
     <ReadingControls
       ariaLabel="Reading controls"
@@ -238,7 +81,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       data-reading-mode={data.romanLyrics ? "parallel" : "urdu"}
       data-reading-columns={data.romanLyrics ? "urdu roman" : "urdu"}
       data-line-spacing="default"
-      data-synced-scroll-root
+
     >
       {data.cover && (
         <figure class="lyric-reading-image" data-synced-scroll-panel aria-label="Original lyric sheet">
@@ -249,7 +92,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       )}
       <section
         class="lyric-reading-panel lyric-reading-urdu"
-        data-synced-scroll-panel
+
         dir={data.direction}
         lang={data.lang}
         aria-label={`${data.language} lyrics`}
@@ -264,7 +107,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         data.romanLyrics && (
           <section
             class="lyric-reading-panel lyric-reading-roman"
-            data-synced-scroll-panel
+
             lang="en"
             dir="ltr"
             aria-label="Roman Urdu lyrics"
@@ -355,7 +198,6 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       initReadingControls,
       recordRecentLyric,
     } from "../../client/reader-state";
-    import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initScanViewer } from "../../client/scan-viewer";
     import { initCorrectionDialog } from "../../client/corrections";
@@ -368,6 +210,5 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     initVerseFitting();
     initScanViewer();
     initCorrectionDialog();
-    initSyncedColumns();
   </script>
 </BaseLayout>

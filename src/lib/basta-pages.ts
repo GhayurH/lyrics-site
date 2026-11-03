@@ -1,4 +1,4 @@
-// File role: Server-only Basta navigation loader: centralizes published-page sorting, physical-index exclusion, and Roman page lookup.
+// File role: Server-only Basta navigation loader: centralizes published-page sorting, physical-index exclusion, and published-page metadata.
 import { getCollection, type CollectionEntry } from "astro:content";
 import settings from "../data/basta/settings.json";
 
@@ -31,11 +31,4 @@ export async function loadBastaNavigationData(): Promise<BastaNavigationData> {
     indexStartPage,
     indexEndPage,
   };
-}
-
-export async function loadBastaRomanByPage(): Promise<
-  Map<number, CollectionEntry<"bastaRoman">>
-> {
-  const romanPages = await getCollection("bastaRoman", ({ data }) => data.published);
-  return new Map(romanPages.map((entry) => [entry.data.page, entry]));
 }

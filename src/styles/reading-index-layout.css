@@ -1,0 +1,91 @@
+/* Basta bilingual index structure, including narrow-screen list alternatives. */
+@container reader-shell (max-width: 46rem) {
+.basta-parallel-index-section { grid-template-areas: "urdu-heading" "urdu-table" "roman-heading" "roman-table"; grid-template-columns: minmax(0,1fr); }
+
+.basta-parallel-index-overall-headings { grid-template-areas: "urdu" "roman"; grid-template-columns: minmax(0,1fr); }
+
+.basta-parallel-index-overall-headings > .basta-parallel-index-urdu,
+  .basta-parallel-index-overall-headings > .basta-parallel-index-roman,
+  .basta-parallel-index-section-heading,
+  .basta-parallel-index-table { padding-inline: 0; }
+
+.basta-parallel-index-section-heading.basta-parallel-index-urdu,
+  .basta-parallel-index-section-heading.basta-parallel-index-roman { margin-block: .6rem; }
+
+.basta-parallel-index-table.basta-parallel-index-roman { border-right: 0; }
+
+.basta-parallel-index-section-heading.basta-parallel-index-urdu { grid-area: urdu-heading; }
+
+.basta-parallel-index-table.basta-parallel-index-urdu { grid-area: urdu-table; }
+
+.basta-parallel-index-section-heading.basta-parallel-index-roman { grid-area: roman-heading; }
+
+.basta-parallel-index-table.basta-parallel-index-roman { grid-area: roman-table; }
+}
+
+@container reader-shell (min-width: 46.01rem) {
+.basta-parallel-index-section { grid-template-areas: "roman-heading urdu-heading" "roman-table urdu-table"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+
+.basta-parallel-index-overall-headings { grid-template-areas: "roman urdu"; grid-template-columns: repeat(2,minmax(0,1fr)); }
+
+.basta-parallel-index-section-heading.basta-parallel-index-urdu { grid-area: urdu-heading; }
+
+.basta-parallel-index-table.basta-parallel-index-urdu { grid-area: urdu-table; }
+
+.basta-parallel-index-section-heading.basta-parallel-index-roman { grid-area: roman-heading; }
+
+.basta-parallel-index-table.basta-parallel-index-roman { grid-area: roman-table; }
+}
+
+/* Index tables become readable linked entries on very narrow containers. */
+.basta-index-mobile-list { display: none; }
+
+@container reader-shell (max-width: 30rem) {
+.basta-index-table-wrap { display: none; }
+
+.basta-index-mobile-list { display: grid; gap: .45rem; }
+
+.basta-index-mobile-item {
+    display: grid; grid-template-columns: minmax(0,1fr) auto;
+    gap: .25rem .75rem; align-items: start; padding: .7rem .8rem;
+    border: var(--ui-border); border-radius: .6rem;
+    background: var(--surface-background);
+  }
+
+.basta-index-mobile-title { grid-column: 1; font-weight: 700; line-height: 1.7; }
+
+.basta-index-mobile-page { grid-column: 2; font-size: .85rem; white-space: nowrap; }
+
+.basta-index-mobile-haal { grid-column: 1 / -1; color: var(--secondary-text); font-size: .88rem; }
+}
+
+@container reader-shell (max-width: 46rem) {
+:is(.basta-index-mode-shell, .basta-reader-flow)[data-reading-mode="parallel"] .basta-parallel-index-overall-headings {
+    grid-template-areas: "urdu" "roman";
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+
+:is(.basta-index-mode-shell, .basta-reader-flow)[data-reading-mode="parallel"] .basta-parallel-index-section {
+    grid-template-areas: "urdu-heading" "urdu-table" "roman-heading" "roman-table";
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+:is(.basta-index-mode-shell, .basta-reader-flow) .basta-parallel-index-overall-headings > h2 {
+    padding-inline: 0; text-align: start;
+  }
+}
+
+@container reader-shell (min-width: 46.01rem) and (max-width: 70rem) {
+.basta-parallel-index-overall-headings {
+    grid-template-areas: "urdu" "roman";
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+.basta-parallel-index-section {
+    grid-template-areas: "urdu-heading" "urdu-table" "roman-heading" "roman-table";
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+.basta-parallel-index-table.basta-parallel-index-roman { border-inline-end: 0; }
+}

@@ -10,16 +10,12 @@ let catalogPromise: Promise<BastaKalamAudit> | undefined;
 export function loadBastaKalamCatalog(): Promise<BastaKalamAudit> {
   if (!catalogPromise) {
     catalogPromise = (async () => {
-      const [urdu, roman] = await Promise.all([
-        getCollection("basta", ({ data }) =>
-          data.published && !data.imageOnly && !data.contentKind),
-        getCollection("bastaRoman", ({ data }) => data.published),
-      ]);
-      const byPage = new Map(roman.map((item) => [item.data.page, item.body || ""]));
-      const pages: BastaSourcePage[] = urdu.map((item) => ({
+      const sources = await getCollection("basta", ({ data }) =>
+        data.published && !data.imageOnly && !data.contentKind);
+      const pages: BastaSourcePage[] = sources.map((item) => ({
         page: item.data.page,
         urdu: item.body || "",
-        roman: byPage.get(item.data.page),
+        roman: item.data.romanLyrics,
       }));
       const catalog = buildBastaKalamCatalog(index, pages, fragmentRoles.fragments);
       return { ...catalog, kalams: applyRecitationIds(catalog.kalams, { ...identityLock, version: 1 }) };

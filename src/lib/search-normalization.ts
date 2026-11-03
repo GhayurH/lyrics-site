@@ -1,7 +1,7 @@
 // Search-only aliases. Canonical text and displayed Roman spellings remain untouched.
 // Bidirectional variants cover established alternate spellings without fuzzy-matching unrelated words.
 const groups = [
-  ["husain","hussain","hussein","hussayn","hussain"],
+  ["husain","hussain","hussein","hussayn"],
   ["hasan","hassan"], ["bole","bolay"], ["wale","walay"],
   ["karbala","kerbala"], ["ali","alee"], ["zahra","zehra","zohra"],
   ["fatima","fatimah","fatma"], ["zainab","zaynab","zeinab","zenab"],

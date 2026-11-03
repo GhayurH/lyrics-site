@@ -1,7 +1,8 @@
 #!/usr/bin/env node
-// Content-only normalization: npm run content:bibi:fix (or :check).
+// Content-only normalization, called by source:sync/source:check.
 // Does not touch URLs, media paths, generated files, or non-content Markdown.
-import { readFile, readdir, writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
+import { markdownFiles } from "./lib/source-files.mjs";
 import { join, relative } from "node:path";
 import { fileURLToPath } from "node:url";
 import { normalizeBibiText } from "../src/lib/bibi-spelling.ts";
@@ -11,13 +12,10 @@ if ([...args].some(arg => !["--write", "--check"].includes(arg)) ||
     (args.has("--write") && args.has("--check")))
   throw Error("Use --write or --check, not both");
 const root = fileURLToPath(new URL("../", import.meta.url));
-const dirs = ["src/data/lyrics", "src/data/basta/pages", "src/data/basta/roman"];
-const files = [];
-for (const dir of dirs) {
-  for (const name of (await readdir(join(root, dir))).sort()) {
-    if (name.endsWith(".md")) files.push(join(root, dir, name));
-  }
-}
+const dirs = ["src/data/lyrics", "src/data/basta/pages"];
+const files = (await Promise.all(dirs.map(dir =>
+  markdownFiles(join(root, dir), dir === "src/data/lyrics")
+))).flat();
 let affected = 0, replacements = 0;
 for (const path of files) {
   const before = await readFile(path, "utf8");

@@ -2,6 +2,8 @@ import { defineConfig, devices } from "@playwright/test";
 
 export default defineConfig({
   testDir: "./tests/browser",
+  // Keep each spec sequential and parallelize across spec files; this
+  // avoids repeatedly loading large font assets across simultaneous readers.
   projects: [
     { name: "chromium", use: { ...devices["Desktop Chrome"] } },
   ],

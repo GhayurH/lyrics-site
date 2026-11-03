@@ -1,3 +1,4 @@
+import { withoutJavaScript } from "./no-js.mjs";
 // File role: Cross-route functionality and narrow-screen layout checks (no image assertions).
 import { test, expect } from "@playwright/test";
 
@@ -18,16 +19,16 @@ test("homepage categories link to their listings and Basta modes remain reachabl
   await expect(page.locator('a[href="/basta/index/"]')).toBeVisible();
 });
 
-test("Basta page jump opens the requested page", async ({ page }) => {
+test("Basta page jump opens the requested page @smoke", async ({ page }) => {
   await page.goto("/basta/");
   await page.locator("#basta-home-page-number").fill("138");
   await page.getByRole("button", { name: "Go", exact: true }).click();
   await expect(page).toHaveURL(/\/basta\/138\/$/);
   await expect(page.locator("[data-reading-root]")).toBeVisible();
-  // Responsive geometry is checked in the same page-jump journey.
+  // Responsive geometry needs one document, not five redundant page loads.
+  await page.goto("/basta/");
   for (const width of [320, 342, 390, 430, 560]) {
     await page.setViewportSize({ width, height: 844 });
-    await page.goto("/basta/");
     const input = await page.locator("#basta-home-page-number").boundingBox();
     const button = await page.locator(".basta-home-page-jump button").boundingBox();
     expect(Math.abs(input.y - button.y)).toBeLessThan(2);
@@ -58,14 +59,18 @@ test("Search exposes primary and secondary filters accessibly @smoke", async ({ 
   await advanced.locator("summary").click();
   await expect(page.locator(".search-secondary-filters")).toBeVisible();
 });
-test("Search and Saved explain their browser-only features without JavaScript", async ({ browser }) => {
-  const context = await browser.newContext({ javaScriptEnabled: false });
-  const page = await context.newPage();
-  await page.goto("/search/");
-  await expect(page.getByText("Search requires JavaScript", { exact: false })).toBeVisible();
-  await page.goto("/saved/");
-  await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();
-  await context.close();
+test("Search, Saved, and Basta provide usable no-JavaScript fallbacks", async ({ browser }) => {
+  // One disabled-JavaScript browser context covers all three static fallbacks.
+  await withoutJavaScript(browser, async (page) => {
+    await page.goto("/search/");
+    await expect(page.getByText("Search requires JavaScript", { exact: false })).toBeVisible();
+    await page.goto("/saved/");
+    await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();
+    await page.goto("/basta/");
+    await expect(page.locator(".basta-home-page-jump")).toBeHidden();
+    await expect(page.locator(".basta-home-nojs")).toBeVisible();
+    await expect(page.getByRole("link", { name: "Browse book index" })).toBeVisible();
+  });
 });
 
 test("homepage search passes the entered term to archive search", async ({ page }) => {
@@ -74,16 +79,6 @@ test("homepage search passes the entered term to archive search", async ({ page 
   await page.locator(".home-search button").click();
   await expect(page).toHaveURL(/\/search\/\?q=Ali$/);
   await expect(page.locator("pagefind-input")).toBeAttached();
-});
-
-test("Basta without JavaScript offers the index instead of a nonfunctional jump form", async ({ browser }) => {
-  const context = await browser.newContext({ javaScriptEnabled: false });
-  const page = await context.newPage();
-  await page.goto("/basta/");
-  await expect(page.locator(".basta-home-page-jump")).toBeHidden();
-  await expect(page.locator(".basta-home-nojs")).toBeVisible();
-  await expect(page.getByRole("link", { name: "Browse book index" })).toBeVisible();
-  await context.close();
 });
 
 test("Basta bookmarks can be saved, revisited and removed from the Saved page", async ({ page }) => {

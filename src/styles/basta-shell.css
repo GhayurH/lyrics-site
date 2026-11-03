@@ -1,0 +1,15 @@
+/* Shared Basta page shell and cross-edition navigation headings. */
+
+.basta-home,
+.basta-page:not([data-reader-shell]),
+.basta-index-page:not([data-reader-shell]) {
+  max-width: var(--content-feature);
+  margin: 0 auto;
+}
+
+.basta-page-header h1,
+.basta-index-header h1 {
+  margin: 0.5rem 0 0.75rem;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  line-height: 1.25;
+}

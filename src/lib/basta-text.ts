@@ -1,29 +1,30 @@
 // File role: Shared Basta text helpers for detecting the explicit between-kalam marker and rendering each kalam as a separate text block.
 import { parseStanzaNumber } from "./stanza-numbers.ts";
+import { isStanzaNumber, isCreditLine, isKnownByline, isGenreHeading,
+  matchesOpeningTitle, hasIntroductoryBlock } from "./basta-source-roles.ts";
 
 export const BASTA_KALAM_BREAK = "---***---";
 
-export function splitBastaKalams(text: string): string[] {
-  const normalized = text.replace(/\r\n?/g, "\n");
-  const kalams: string[] = [];
-  let current: string[] = [];
+/** One shared delimiter contract for printed Basta fragments and all readers. */
+export const isBastaBoundary = (line: string): boolean => line.trim() === BASTA_KALAM_BREAK;
 
-  const pushCurrent = () => {
-    const value = current.join("\n").trim();
-    if (value) kalams.push(value);
-    current = [];
-  };
-
-  for (const line of normalized.split("\n")) {
-    if (line.trim() === BASTA_KALAM_BREAK) {
-      pushCurrent();
-      continue;
+/** Retain physical fragment offsets so both rendering and editorial review parse one boundary contract. */
+export function splitBastaSource(text: string): Array<{ start: number; text: string }> {
+  const lines = text.replace(/\r\n?/g, "\n").split("\n");
+  const parts: Array<{ start: number; text: string }> = [];
+  let begin = 0;
+  for (let index = 0; index <= lines.length; index++) {
+    if (index === lines.length || isBastaBoundary(lines[index])) {
+      parts.push({ start: begin, text: lines.slice(begin, index).join("\n") });
+      begin = index + 1;
     }
-    current.push(line);
   }
+  return parts;
+}
 
-  pushCurrent();
-  return kalams;
+/** Display and catalog consumers ignore empty physical fragments but retain their nonempty source. */
+export function splitBastaKalams(text: string): string[] {
+  return splitBastaSource(text).map((part) => part.text.trim()).filter(Boolean);
 }
 
 /** Explicit couplet mode for Salam; auto mode detects long unnumbered
@@ -55,67 +56,6 @@ export interface BastaDisplayLine {
   refrainSharesRule?: boolean;
 }
 
-function isStanzaNumber(line: string): boolean {
-  return parseStanzaNumber(line) !== null;
-}
-
-function isCreditLine(line: string): boolean {
-  return /^[(（]?\s*(?:بشکریہ|بہ\s*شکریہ|bashukriya|ba\s*shukriya)/i.test(line.trim());
-}
-
-/** Attribution cues are roles, not a list of individual poets. Evaluate
- * them only in a separate introductory block, never in ordinary verses. */
-function isKnownByline(line: string): boolean {
-  const value = line.trim().replace(/^[([（]\s*/u, "");
-  return /^(?:سید|سیّد|پیر|حکیم|شاعر|مولانا|حضرت|علامہ|ڈاکٹر|پروفیسر|مرزا|سردار|سبط جعفر$|شفق اکبر آبادی|روایتی نوحہ|Syed|Sayyid|Pir|Hakim|Shair|Maulana|Hazrat|Allama|Dr\.?\s|Doctor|Professor|Mirza|Sardar|Sibt Jafar$|Shafaq Akbar Abadi|Riwayati nauha)/iu.test(value);
-}
-
-/** A genre or editorial section heading may not repeat in the verses.
- * Only classify a label in its own introductory block as a title. */
-function isGenreHeading(line: string): boolean {
-  const value = line.trim().replace(/^\[|\]$/gu, "").trim();
-  return /^(?:رباعی|قطعہ|قطعات|منقبت|مناجات|سوزخوانی|مختصر زیارات|[\p{L}\sِ]+ سے خطاب|Rubai|Ruba(?:i|yat)|Qit['’]a|Qita['’]?at|Manqabat|Munajat|(?:Soz|Soaz)khwani|Mukhtasar Ziarat|[A-Za-z\s-]+ se khitab)$/iu.test(value);
-}
-
-/** Scan transcriptions can vary slightly between a printed heading and
- * its repeated first verse (harakat, punctuation or a short omitted word).
- * Match only long, near-identical lines so ordinary stanza lines stay verses. */
-function matchesOpeningTitle(title: string, opening: string): boolean {
-  const normalize = (value: string) => value.normalize("NFKC")
-    .replace(/[\u064B-\u065F\u0670\u06D6-\u06EDؐؑؒؓ]/gu, "")
-    .replace(/[^\p{L}\p{N}]/gu, "").toLowerCase();
-  const a = normalize(title), b = normalize(opening);
-  if (a === b) return Boolean(a);
-  if (Math.min(a.length, b.length) < 18 || Math.abs(a.length - b.length) > 3)
-    return false;
-  let previous = Array.from({ length: b.length + 1 }, (_, i) => i);
-  for (let i = 1; i <= a.length; i++) {
-    const current = [i];
-    for (let j = 1; j <= b.length; j++) {
-      current[j] = Math.min(
-        current[j - 1] + 1, previous[j] + 1,
-        previous[j - 1] + Number(a[i - 1] !== b[j - 1]),
-      );
-    }
-    if (Math.min(...current) > 3) return false;
-    previous = current;
-  }
-  return previous[b.length] <= 3;
-}
-
-/** An opening title/byline is verified by a repeated first verse or
- * distinctive author attribution, not by its arbitrary line count. */
-function hasIntroductoryBlock(lines: string[], blocks: Array<{ start: number; end: number }>): boolean {
-  if (blocks.length < 2) return false;
-  const first = blocks[0];
-  const size = first.end - first.start;
-  if (size === 1) return !isStanzaNumber(lines[first.start]);
-  const repeats = matchesOpeningTitle(lines[first.start], lines[blocks[1].start]);
-  return (size === 2 && (repeats || isKnownByline(lines[first.start + 1]) ||
-      isGenreHeading(lines[first.start]))) ||
-    (size === 3 && repeats && isKnownByline(lines[first.start + 2]));
-}
-
 /** Preserve every line; only attach indentation to actual verses. */
 export function layoutBastaKalam(
   text: string,
@@ -139,6 +79,17 @@ export function layoutBastaKalam(
       refrain: explicitRefrain,
     };
   });
+  // Source blank lines adjacent to a printed stanza number are layout
+  // delimiters, not verse-height spacers. Remove them from both editions so
+  // their different font leading cannot change the gap before/after a stanza.
+  // Other source blank lines remain visible unless they form a 4+2 closing pair.
+  for (let index = 0; index < lines.length; index++) {
+    if (display[index].stanzaNumber === undefined) continue;
+    for (let before = index - 1; before >= 0 && !lines[before].trim(); before--)
+      display[before].hidden = true;
+    for (let after = index + 1; after < lines.length && !lines[after].trim(); after++)
+      display[after].hidden = true;
+  }
   const blocks: Array<{ start: number; end: number }> = [];
   for (let pos = 0; pos < lines.length;) {
     if (!lines[pos].trim()) {
@@ -146,7 +97,10 @@ export function layoutBastaKalam(
       continue;
     }
     const start = pos;
-    while (pos < lines.length && lines[pos].trim()) pos++;
+    // Printed-page fragments can join at a stanza counter with no blank line.
+    // Keep numbered stanzas separate so their 4+2 closing rules still apply.
+    while (pos < lines.length && lines[pos].trim() &&
+           (pos === start || !isStanzaNumber(lines[pos]))) pos++;
     blocks.push({ start, end: pos });
   }
 

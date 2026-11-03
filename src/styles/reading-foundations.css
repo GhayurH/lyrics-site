@@ -1,0 +1,164 @@
+/* Canonical stanza, verse, title, Focus toolbar base and synced panel contract. */
+/* All reader articles share one width and query container. Route-only layout
+   styles must not introduce a smaller article cap. */
+[data-reader-shell] {
+  width: 100%;
+  max-width: var(--content-wide);
+  margin-inline: auto;
+  container: reader-shell / inline-size;
+}
+/* The same breadcrumb layout serves each reader, with route-specific links. */
+.reader-subnav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .55rem;
+  margin: 0 0 .75rem;
+  color: var(--secondary-text);
+  font-size: .9rem;
+  line-height: 1.5;
+}
+.reader-subnav a { color: var(--primary-text); text-decoration: none; text-underline-offset: .2em; }
+.reader-subnav a:hover { text-decoration: underline; }
+.reader-subnav > span { color: var(--secondary-text); }
+
+/* All poetry editions use the same one-line, justified verse contract. */
+:is(.lyric-verse, .basta-verse-line.basta-verse-poetry) {
+  display: block;
+  unicode-bidi: plaintext;
+  white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: normal;
+  min-inline-size: 0;
+  text-align: justify;
+  text-align-last: justify;
+}
+
+/* Nastaliq glyphs can paint to the right of their RTL advance box.
+   Reserve optical ink clearance at the right edge, borrowing equal space
+   from the opposite (left) margin to preserve the full fitting width and
+   original font size. This applies to Basta and standalone/recitation lyrics,
+   including focus mode and the first/title lines. */
+[data-reading-root] [lang="ur"] :is(.basta-verse-line, .lyric-verse) {
+  padding-inline-start: var(--reading-urdu-ink-clearance);
+  margin-inline-end: calc(-1 * var(--reading-urdu-ink-clearance));
+}
+
+/* Only actual kalam titles (not poets, verses, or page/navigation headings)
+   share centered emphasis across Urdu, Roman, Basta, and recitation readers. */
+.kalam-reading-title,
+.basta-verse-poetry.kalam-reading-title,
+.recite-work-header .kalam-reading-title {
+  color: var(--reading-title-color);
+  font-weight: 750;
+  text-align: center;
+  text-align-last: center;
+  text-decoration: underline;
+  text-decoration-thickness: from-font;
+  text-underline-offset: 0.16em;
+}
+
+/* Poet credits beside an actual title share its centering, not its bold,
+   underline, or accent color. */
+.kalam-poet-credit {
+  text-align: center;
+  text-align-last: center;
+}
+
+/* Subordinate editorial headings are centered but do not inherit title styling. */
+.basta-kalam-subtitle {
+  text-align: center;
+  text-align-last: center;
+  font-weight: 600;
+  font-size: .95em;
+  line-height: 1.8;
+}
+
+/* Separate title sizing from verse sizing in all Basta and recitation editions. */
+.basta-kalam-title {
+  font-size: calc(1em + var(--reading-title-increment));
+  line-height: 2.05;
+}
+
+.basta-kalam-title:lang(en) { line-height: 1.55; }
+
+/* Shared reader controls. Route styles own the reading content itself. */
+.reading-controls { display: flex; align-items: end; flex-wrap: wrap; gap: 0.8rem; margin: 0 0 1rem; border: var(--ui-border); border-radius: var(--ui-panel-radius); padding: 0.75rem; background: var(--surface-background); }
+
+.reading-control-group { display: grid; gap: 0.35rem; }
+
+.reading-control-label { color: var(--secondary-text); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; text-align: center; }
+
+.reading-controls select { min-height: var(--ui-target); border: var(--ui-border); border-radius: var(--ui-radius); padding: .35rem 2rem .35rem .55rem; background: var(--surface-background); color: var(--primary-text); font: inherit; font-size: var(--ui-control-font-size); }
+
+@media (min-width: 701px) {
+html[data-js-available="true"]:not([data-reading-focus="true"]) .reading-controls {
+    position: sticky;
+    top: calc(var(--site-header-height, var(--site-header-fallback-height)) + .5rem);
+    z-index: 15;
+    box-shadow: 0 .35rem 1.1rem rgb(0 0 0 / .12);
+    transition: top 180ms ease;
+  }
+
+html[data-js-available="true"][data-desktop-reader-header-hidden="true"]:not([data-reading-focus="true"]) .reading-controls {
+    top: .5rem;
+  }
+}
+
+@media (max-width: 700px) {
+/* Compact, always-reachable controls for long reading pages. */
+  .reading-controls {
+    position: sticky;
+    top: 3.85rem;
+    z-index: 15;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: end;
+    gap: 0.45rem;
+    padding: 0.5rem;
+    box-shadow: 0 0.35rem 1.1rem rgb(0 0 0 / 0.12);
+  }
+
+.reading-view-control { grid-column: 1 / -1; }
+
+.reading-control-group, .reading-controls select { width: 100%; }
+
+.reading-control-label { font-size: 0.62rem; }
+}
+
+/* Circled stanza numbers shared by Basta and standalone lyrics. */
+/* Specificity exceeds per-reader line display rules without affecting poetry fitting. */
+.poetry-stanza-number {
+  display: flex;
+  inline-size: 2em;
+  block-size: 2em;
+  min-inline-size: 0;
+  padding: 0;
+  margin-block: 0.65em 0.4em;
+  margin-inline: auto;
+  border: var(--ui-border);
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary-text);
+  font-family: "Noto Naskh Arabic", "Noto Nastaliq Urdu", system-ui, sans-serif;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  text-align-last: center;
+  white-space: nowrap;
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+/* Parallel editions keep natural height and share the page/Focus scrollbar. */
+
+/* Dynamically inserted resume links are hidden until a local reading position exists. */
+[data-resume-basta][hidden] { display: none !important; }
+
+/* Show a usable static reader, not inert JavaScript buttons, when scripting is unavailable. */
+html:not([data-reader-enhanced="true"]) .reading-controls { display: none; }
+
+/* The visible, intentionally selected surface is never communicated by colour alone. */
+.reading-column-choice input:checked + span { font-weight: 800; }

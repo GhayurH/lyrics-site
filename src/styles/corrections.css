@@ -4,7 +4,7 @@
 .correction-form { display: grid; gap: .8rem; }
 .correction-form :is(h2,p) { margin: 0; }
 .correction-form label { display: grid; gap: .3rem; font-weight: 600; }
-.correction-form textarea { max-width: 100%; resize: vertical; font: inherit; color: var(--primary-text); background: var(--page-background); border: var(--ui-border); border-radius: var(--ui-radius-tight); padding: .5rem; }
+.correction-form textarea { max-width: 100%; resize: vertical; font: inherit; color: var(--primary-text); background: var(--site-background); border: var(--ui-border); border-radius: var(--ui-radius-tight); padding: .5rem; }
 .correction-actions { display: flex; gap: .5rem; flex-wrap: wrap; }
 .correction-actions button, .basta-report-correction { min-height: var(--ui-target); padding: .5rem .8rem; font: inherit; background: var(--surface-background); color: var(--primary-text); border: var(--ui-border); border-radius: var(--ui-radius-tight); cursor: pointer; }
 .correction-dialog :focus-visible, .basta-report-correction:focus-visible { outline: var(--focus-ring); }

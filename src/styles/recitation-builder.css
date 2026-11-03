@@ -1,0 +1,297 @@
+/* Programme editor: source discovery, ordering, templates and publication. */
+.recite-app h2 { margin: 0 0 .75rem; font-size: 1.25rem; }
+
+.recite-app label { display: grid; gap: .35rem; min-width: 0; font-weight: 650; font-size: .88rem; }
+
+.recite-app .button { min-height: var(--ui-target); margin: 0; cursor: pointer; font-size: .88rem; }
+
+.recite-app .button:disabled { opacity: .45; cursor: not-allowed; }
+
+.recite-panel { border: var(--ui-border); border-radius: var(--ui-panel-radius); padding: clamp(1rem,2.5vw,1.55rem); background: var(--surface-background); min-width: 0; margin-bottom: 1.25rem; }
+
+.recite-section-heading, .recite-actions { display: flex; align-items: center; gap: .7rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
+
+/* A single aligned desktop row, independent of label height. */
+.recite-topbar { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: .7rem; align-items: end; margin-bottom: 1.2rem; }
+
+.recite-topbar-actions { display: flex; align-items: stretch; gap: .7rem; min-width: 0; }
+
+.recite-topbar-actions .button { height: var(--ui-target); padding: .35rem .8rem; white-space: nowrap; }
+
+.recite-section-heading { justify-content: space-between; margin-bottom: .7rem; }
+
+.recite-section-heading h2, .recite-section-heading p { margin: 0; }
+
+.recite-builder { display: grid; grid-template-columns: minmax(16rem,1fr) minmax(0,1.65fr); gap: 1.15rem; }
+
+.recite-details label + label { margin-top: .8rem; }
+
+.recite-hint { color: var(--secondary-text); font-size: .84rem; line-height: 1.6; }
+
+.recite-message { min-height: 1.5rem; color: var(--secondary-text); }
+
+.recite-list { list-style: none; padding: 0; margin: .8rem 0; display: grid; gap: .6rem; }
+
+.recite-list-row { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; padding: .7rem .8rem; border: var(--ui-border); border-radius: .6rem; background: var(--site-background); min-width: 0; }
+
+.recite-list-row[draggable="true"] { cursor: grab; }
+
+.recite-list-row.recite-drag-over { outline: 2px dashed var(--primary-text); }
+
+.recite-list-info { flex: 1 1 12rem; min-width: 0; }
+
+.recite-list-info strong { display: block; line-height: 1.8; overflow-wrap: anywhere; }
+
+.recite-list-info small { display: block; color: var(--secondary-text); line-height: 1.5; }
+
+.recite-list-actions { display: flex; flex-wrap: wrap; gap: .35rem; }
+
+.recite-search-row { display: flex; flex-wrap: wrap; gap: .8rem; align-items: end; }
+
+.recite-search-row label:first-child { flex: 1 1 18rem; }
+
+.recite-search-row label:last-child { flex: 0 1 13rem; }
+
+.recite-results { padding: 0; margin: 1rem 0; list-style: none; display: grid; gap: .45rem; grid-template-columns: repeat(auto-fit,minmax(min(100%,23rem),1fr)); }
+
+.recite-results li { min-width: 0; border: var(--ui-border); border-radius: var(--ui-radius-tight); padding: .65rem .75rem; display: flex; gap: .7rem; justify-content: space-between; align-items: center; }
+
+.recite-results li strong { display: block; font-weight: 650; line-height: 1.8; }
+
+.recite-results li small { display: block; color: var(--secondary-text); }
+
+.recite-results li button { white-space: nowrap; min-height: var(--ui-target); padding: .35rem .7rem; border: var(--ui-border); background: var(--site-background); color: var(--primary-text); border-radius: .5rem; cursor: pointer; }
+
+.recite-stanza-add { display: flex; flex-wrap: wrap; align-items: end; gap: .7rem; }
+
+.recite-stanza-add label { flex: 1 1 13rem; }
+
+.recite-stanza-add .button { margin: 0; }
+
+.recite-shared-links { display: grid; gap: .7rem; margin-top: 1rem; max-width: 50rem; }
+
+.recite-shared-links input { font-size: .8rem; }
+
+@media (max-width: 740px) {
+/* Exactly two management rows: full-width chooser, then three actions. */
+  .recite-topbar { grid-template-columns: minmax(0,1fr); gap: .6rem; }
+.recite-topbar-actions { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: .45rem; }
+.recite-topbar-actions .button { min-width: 0; height: 100%; min-height: 3rem; padding: .5rem .25rem; white-space: normal; overflow-wrap: normal; font-size: clamp(.72rem,2.6vw,.86rem); line-height: 1.3; }
+.recite-builder { grid-template-columns: minmax(0,1fr); gap: 0; }
+}
+
+.recite-inline-note { flex: 1 1 10rem; max-width: 16rem; }
+
+.recite-inline-note input { font-size: .83rem; min-height: var(--ui-target); }
+
+.recite-link-disabled { opacity: .5; cursor: not-allowed; }
+
+.recite-results li a { color: inherit; text-underline-offset: .22em; }
+
+.recite-results li a:hover { text-decoration-thickness: 2px; }
+
+.recite-results li strong[lang="ur"], .recite-list-info strong[lang="ur"] { line-height: 2.25; }
+
+/* Retention is an explicit organizer choice, never a global browser preference. */
+.recite-app .recite-retention-option {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  margin-block: .5rem .35rem;
+  font-weight: 650;
+}
+
+.recite-app .recite-retention-option input[type="checkbox"] {
+  width: 1.15rem;
+  min-height: 1.15rem;
+  height: 1.15rem;
+  flex: none;
+  accent-color: currentColor;
+}
+
+.recite-app .button-danger {
+  justify-self: start;
+  border: 1px solid currentColor;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font-weight: 650;
+}
+
+.recite-app .button-danger:hover { text-decoration: underline; }
+
+.recite-live-controls { border-top: var(--ui-border); margin-top: .8rem; padding-top: 1rem; }
+
+.recite-live-controls[hidden] { display: none !important; }
+
+.recite-live-controls h3 { margin: 0 0 .35rem; font-size: 1.05rem; }
+
+.recite-live-controls .recite-actions { margin: .5rem 0; }
+
+.recite-live-controls button { border: var(--ui-border); border-radius: .5rem; background: var(--site-background); color: var(--primary-text); padding: var(--ui-control-padding); min-height: var(--ui-target); cursor: pointer; }
+
+.recite-live-controls button:disabled { opacity: .5; cursor: not-allowed; }
+
+/* Disabled controls cannot receive mouse/keyboard focus, so their wrapper
+   exposes the reason on hover or keyboard focus. The same explanation is
+   visible below the button for touch and assistive technology. */
+.recite-publish-control { position: relative; display: inline-flex; max-width: 100%; }
+
+.recite-publish-control[data-unavailable="true"] { cursor: not-allowed; }
+
+.recite-publish-control[data-unavailable="true"] .button { pointer-events: none; }
+
+.recite-publish-control[data-unavailable="true"]::after {
+  content: attr(data-reason);
+  position: absolute;
+  z-index: 10;
+  left: 0;
+  bottom: calc(100% + .45rem);
+  width: max-content;
+  /* Prevent even a hidden tooltip from creating sideways document overflow on 320px screens. */
+  max-width: min(22rem,calc(100vw - 6rem));
+  white-space: normal;
+  padding: .55rem .7rem;
+  border: var(--ui-border);
+  border-radius: .5rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font-size: .8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  box-shadow: 0 .35rem 1rem rgb(0 0 0 / .2);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.recite-publish-control[data-unavailable="true"]:is(:hover,:focus-visible)::after { opacity: 1; visibility: visible; }
+
+.recite-publish-control:focus-visible { outline: var(--focus-ring); outline-offset: 3px; border-radius: .5rem; }
+
+.recite-share > #recite-publish-help:empty { display: none; }
+
+/* A compact progression through the builder without hiding necessary functions. */
+.recite-steps { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0; }
+
+.recite-steps a { display: inline-flex; align-items: center; gap: .45rem; min-height: var(--ui-target); padding: .35rem .75rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); background: var(--surface-background); text-decoration: none; font-size: .88rem; font-weight: 650; }
+
+.recite-steps a:hover { background: var(--tag-background); }
+
+.recite-steps a span { display: inline-grid; place-items: center; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--tag-background); font-size: .75rem; }
+
+.recite-sharing-policy { margin: .45rem 0 1rem; color: var(--secondary-text); }
+
+.recite-sharing-policy summary { min-height: var(--ui-target); padding: .5rem 0; cursor: pointer; font-weight: 600; }
+
+.recite-sharing-policy p { margin: 0 0 .5rem; }
+
+.recite-panel { scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 2rem); }
+
+/* A single step path with accessible current-step indication. */
+.recite-steps a[aria-current="step"] { border-color: var(--primary-text); background: var(--tag-background); }
+
+.recite-steps a[aria-current="step"] span { background: var(--button-background); color: var(--button-text); }
+
+.recite-optional-details { margin-top: .8rem; border-top: var(--ui-border); padding-top: .35rem; }
+
+.recite-optional-details > summary { min-height: var(--ui-target); display: list-item; padding: .55rem .1rem; font-size: .86rem; font-weight: 700; cursor: pointer; }
+
+.recite-optional-caption { color: var(--secondary-text); font-weight: 500; }
+
+.recite-optional-fields { padding-block: .5rem .7rem; }
+
+.recite-optional-fields label + label { margin-top: .75rem; }
+
+@media (max-width: 700px) {
+.recite-steps { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); }
+.recite-steps a { min-width: 0; justify-content: center; padding: .4rem .35rem; font-size: .8rem; }
+}
+
+/* A new programme is a prompt to add kalam, not an imposing empty panel. */
+.recite-programme[data-empty="true"] { padding-block: .85rem; }
+
+.recite-programme[data-empty="true"] .recite-list,
+.recite-programme[data-empty="true"] > .recite-hint:last-child { display: none; }
+
+/* Retention and expiry decisions become relevant only when publication is possible. */
+.recite-share[data-ready="false"] .recite-retention-option,
+.recite-share[data-ready="false"] .recite-sharing-policy { display: none; }
+
+.recite-share[data-ready="false"] { padding-block: .85rem; }
+
+/* Publication is the final step: retain a visible disabled Publish action for
+   explanation, while its advanced link/expiry choices stay in a disclosure
+   until the draft is ready. Navigation can reveal them at any point. */
+.recite-share-details { margin: .45rem 0 .7rem; }
+
+.recite-share-details > summary {
+  display: list-item; width: fit-content; min-height: var(--ui-target);
+  cursor: pointer; padding: .55rem .15rem; font-size: .88rem; font-weight: 700;
+}
+
+.recite-share-details-body { padding: .15rem 0 .55rem; max-width: 53rem; }
+
+.recite-share-details .recite-sharing-policy { margin-bottom: .35rem; }
+
+.recite-share[data-ready="false"] > #recite-expiration { display: none; }
+
+.recite-share[data-ready="false"] { background: transparent; }
+
+.recite-steps a[data-stage-ready="false"]:not([aria-current="step"]) {
+  color: var(--secondary-text); border-style: dashed;
+}
+
+.recite-steps a[data-stage-ready="true"] { text-decoration-thickness: from-font; }
+
+.recite-steps a:focus-visible, .recite-share-details > summary:focus-visible {
+  outline: var(--focus-ring); outline-offset: 3px;
+}
+
+/* A short initial catalogue leaves room for the actual programme order. */
+.recite-results { align-items: stretch; }
+
+.recite-results li { padding-block: .55rem; }
+
+.recite-results li strong { line-height: 1.5; }
+
+.recite-find > .recite-hint { max-width: 62ch; }
+
+/* In an empty programme, don't stretch a mostly blank order card to match
+   the title/details panel. Preserve natural height once items are added. */
+.recite-programme[data-empty="true"] { align-self: start; min-height: 0; }
+
+.recite-steps { margin-bottom: .85rem; }
+
+.recite-app > .page-header-simple { margin-bottom: 1.1rem; }
+
+.recite-app > .page-header-simple > p:last-child {
+  max-width: 58ch; line-height: 1.5;
+}
+
+@media (max-width: 700px) {
+.recite-steps { margin-bottom: .65rem; }
+.recite-app > .page-header-simple { margin-bottom: .85rem; }
+}
+
+/* Utility button rules set display, which can override the native [hidden]
+   attribute. A completed catalog must not leave a disabled 'Show more' visible. */
+.recite-app #recite-more[hidden] { display: none !important; }
+
+/* Optional reusable programme templates and deliberate public QR sharing. */
+.recite-template-bar { display: flex; align-items: center; flex-wrap: wrap; gap: .5rem; margin: .75rem 0; }
+
+.recite-template-bar label { display: flex; align-items: center; gap: .4rem; }
+
+.recite-template-bar select { min-height: var(--ui-target); padding: .4rem; background: var(--surface-background); color: var(--primary-text); border: var(--ui-border); border-radius: var(--ui-radius-tight); font: inherit; }
+
+.recite-qr-dialog { width: min(26rem,calc(100vw - 2rem)); padding: 1rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); background: var(--surface-background); color: var(--primary-text); text-align: center; }
+
+.recite-qr-dialog::backdrop { background: rgb(0 0 0 / .6); }
+
+.recite-qr-dialog img { display: block; max-width: 100%; height: auto; margin: .5rem auto; background: white; }
+
+.recite-template-stages { display: flex; flex-wrap: wrap; gap: .45rem; margin: -.35rem 0 1rem; }
+
+.recite-template-stages:empty { display: none; }
+
+.recite-template-stages .button { min-height: var(--ui-target); }

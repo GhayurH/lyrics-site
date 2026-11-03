@@ -1,5 +1,6 @@
 // Non-destructive editorial diagnostics. Absence of a Roman edition can be intentional.
-import { splitBastaSource, type BastaKalamIndex, type BastaSourcePage } from "./basta-kalam-units.ts";
+import { type BastaKalamIndex, type BastaSourcePage } from "./basta-kalam-units.ts";
+import { splitBastaKalams } from "./basta-text.ts";
 
 export interface BastaEditorialFindings {
   duplicateIndexEntries: string[];
@@ -32,7 +33,7 @@ export function auditBastaEditorial(index: BastaKalamIndex[], pages: BastaSource
       absentRomanTranscriptions.push(page.page);
       continue;
     }
-    if (splitBastaSource(page.urdu).length !== splitBastaSource(page.roman).length)
+    if (splitBastaKalams(page.urdu).length !== splitBastaKalams(page.roman).length)
       mismatchedPageBoundaries.push(page.page);
   }
   return { duplicateIndexEntries, absentRomanTranscriptions, mismatchedPageBoundaries,

@@ -1,0 +1,8 @@
+/* Global stylesheet entrypoint. Each subsystem has one stylesheet owner.
+   Tokens and themes precede all consumers; route-only CSS stays route-scoped. */
+@import "./tokens.css";
+@import "./theme-palettes.css";
+@import "./base.css";
+@import "./site-shell.css";
+@import "./catalog-cards.css";
+@import "./reading-foundations.css";

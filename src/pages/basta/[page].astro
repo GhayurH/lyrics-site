@@ -7,12 +7,15 @@ import BastaPager from "../../components/BastaPager.astro";
 import BastaParallelText from "../../components/BastaParallelText.astro";
 import BastaText from "../../components/BastaText.astro";
 import ReadingControls from "../../components/ReadingControls.astro";
+import ReaderSubnav from "../../components/ReaderSubnav.astro";
 import type { BastaIndexEntry } from "../../lib/basta";
 import { getBastaKalamTypesForPage, getBastaStanzaStyleForPage } from "../../lib/basta-categories";
-import { loadBastaNavigationData, loadBastaRomanByPage } from "../../lib/basta-pages";
+import { loadBastaNavigationData } from "../../lib/basta-pages";
 import indexEntries from "../../data/basta/index.json";
 import settings from "../../data/basta/settings.json";
-import "../../styles/basta.css";
+import "../../styles/basta-shell.css";
+import "../../styles/basta-navigation.css";
+import "../../styles/basta-text.css";
 import "../../styles/corrections.css";
 import { searchIndexAliases } from "../../lib/search-normalization";
 
@@ -26,7 +29,6 @@ export async function getStaticPaths() {
     lastBeforeIndex,
     firstAfterIndex,
   } = await loadBastaNavigationData();
-  const romanByPage = await loadBastaRomanByPage();
 
   return pages.map((entry, index) => {
     const page = entry.data.page;
@@ -45,7 +47,6 @@ export async function getStaticPaths() {
       params: { page: String(page) },
       props: {
         entry,
-        romanEntry: romanByPage.get(page),
         previousHref,
         nextHref,
         availablePages,
@@ -56,7 +57,6 @@ export async function getStaticPaths() {
 
 interface Props {
   entry: CollectionEntry<"basta">;
-  romanEntry?: CollectionEntry<"bastaRoman">;
   previousHref?: string;
   nextHref?: string;
   availablePages: number[];
@@ -64,7 +64,6 @@ interface Props {
 
 const {
   entry,
-  romanEntry,
   previousHref,
   nextHref,
   availablePages,
@@ -73,7 +72,7 @@ const {
 const page = entry.data.page;
 const stanzaStyle = getBastaStanzaStyleForPage(page);
 const urduText = (entry.body ?? "").trim();
-const romanText = (romanEntry?.body ?? "").trim();
+const romanText = (entry.data.romanLyrics ?? "").trim();
 const hasRomanText = romanText.length > 0;
 
 const pageIndexEntries = typedIndexEntries.filter(
@@ -117,17 +116,15 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       "basta-page",
       hasRomanText && "basta-page-with-roman",
     ]}
+    data-reader-shell
   >
     <header class="basta-page-header">
-      <div class="basta-subnav" data-pagefind-ignore>
-        <a href="/basta/">Basta</a>
-        <span aria-hidden="true">·</span>
-        <a href={`/basta/read/#page-${page}`}>Continuous reader</a>
-        <span aria-hidden="true">·</span>
-        <a href="/basta/index/">Index</a>
-        <span aria-hidden="true">·</span>
-        <a href={entry.data.originalImage}>Original scan</a>
-      </div>
+      <ReaderSubnav ariaLabel="Basta navigation" items={[
+        { label: "Basta", href: "/basta/" },
+        { label: "Continuous reader", href: `/basta/read/#page-${page}` },
+        { label: "Index", href: "/basta/index/" },
+        { label: "Original scan", href: entry.data.originalImage },
+      ]} />
 
       <h1 data-pagefind-meta="title">Basta — Page {page}</h1>
       <button type="button" class="basta-report-correction" data-correction-open data-source-id={`basta-page-${page}`} data-source-page={String(page)}>Suggest correction</button>
@@ -152,7 +149,6 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
         ))}
       </div>
     </header>
-
 
     {/* Search-only source separates printed lines from reader controls,
         navigation, scans, and stanza buttons. */}
@@ -203,7 +199,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       data-reading-columns={entry.data.imageOnly ? "image" : hasRomanText ? "urdu roman" : "urdu"}
       data-basta-current-page={page}
       data-line-spacing="default"
-      data-synced-scroll-root={!entry.data.imageOnly ? "" : undefined}
+
     >
       <figure class="basta-original-page" data-pagefind-ignore data-synced-scroll-panel>
         <a href={entry.data.originalImage}>
@@ -246,7 +242,6 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
 
   <script>
     import { initReadingControls } from "../../client/reader-state";
-    import { initSyncedColumns } from "../../client/synced-columns";
     import { initVerseFitting } from "../../client/verse-fitting";
     import { initScanViewer } from "../../client/scan-viewer";
     import { initCorrectionDialog } from "../../client/corrections";
@@ -256,6 +251,5 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
     initScanViewer();
     initCorrectionDialog();
     initReadingProgress();
-    initSyncedColumns();
   </script>
 </BaseLayout>

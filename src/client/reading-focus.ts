@@ -1,11 +1,14 @@
 // File role: Distraction-free reading, deep links, mobile navigation, and viewport position retention.
-import { pageAtReadingLine } from "./reading-position";
+import { visibleReadingAnchor, restoreReadingAnchor, captureReadingExit, type ReadingAnchor, type ReadingExitSnapshot } from "./reading-focus-position";
+import { resolveBastaJumpForm } from "./basta-navigation";
 import { readingScrollBehavior } from "./viewport";
+import { createReadingFocusShell } from "./reading-focus-shell";
 
-type Anchor = { node: HTMLElement; top: number };
-type ExitSnapshot = { anchor?: Anchor; page?: HTMLElement; pageNumber?: number };
+type Anchor = ReadingAnchor;
+type ExitSnapshot = ReadingExitSnapshot;
 const FOCUS_FLAG = "__kalamReadingFocus";
 
+/** Preserve reading anchors, history and focus across immersive layout transitions. */
 export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void {
   const enterButton = controls.querySelector<HTMLButtonElement>("[data-reading-focus-enter]");
   const exitButton = controls.querySelector<HTMLButtonElement>("[data-reading-focus-exit]");
@@ -16,29 +19,15 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   if (!enterButton || !exitButton || !optionsButton || !fullscreenButton || !topButton) return;
 
   const html = document.documentElement;
-  const article = root.closest("article");
   const isContinuous = root.dataset.readerKind === "basta-continuous";
   let active = false;
   let anchor: Anchor | undefined;
-  let lastPanel: HTMLElement | null = null;
   let previousFocus: HTMLElement | null = null;
-  let previousInert: Array<{ node: HTMLElement; value: boolean }> = [];
   let pendingExit: ExitSnapshot | undefined;
-  let savedScrollRestoration: ScrollRestoration | undefined;
 
-  const rememberScrollRestoration = () => {
-    if (savedScrollRestoration === undefined) {
-      savedScrollRestoration = history.scrollRestoration;
-      history.scrollRestoration = "manual";
-    }
-  };
-  const restoreScrollRestoration = () => {
-    if (savedScrollRestoration !== undefined) {
-      history.scrollRestoration = savedScrollRestoration;
-      savedScrollRestoration = undefined;
-    }
-  };
+  const shell = createReadingFocusShell(root, controls);
 
+  /** Change only the reading parameter while keeping stanza and page hashes. */
   function readingUrl(enabled: boolean): string {
     const url = new URL(location.href);
     if (enabled) url.searchParams.set("reading", "1");
@@ -46,51 +35,14 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     return url.pathname + url.search + url.hash;
   }
 
-  const visibleAnchor = (): Anchor | undefined => {
-    for (const y of [0.4, 0.65, 0.25]) {
-      for (const x of [0.5, 0.75, 0.25]) {
-        const candidate = document.elementFromPoint(innerWidth * x, innerHeight * y);
-        if (!(candidate instanceof HTMLElement) || !root.contains(candidate)) continue;
-        const node = candidate.closest<HTMLElement>(
-          ".basta-kalam-text, .lyric-stanza, .basta-reader-page, .basta-original-page, .lyric-reading-panel",
-        ) ?? candidate;
-        return { node, top: node.getBoundingClientRect().top };
-      }
-    }
-    return undefined;
-  };
+  const visibleAnchor = (): Anchor | undefined => visibleReadingAnchor(root);
 
   const saveAnchor = () => { if (active) anchor = visibleAnchor(); };
 
   // The fixed continuous reader scrolls independently of the document.
   // Identify the page crossing the upper reading line, never the stale URL hash.
-  const captureExit = (): ExitSnapshot => {
-    const current = visibleAnchor();
-    if (!isContinuous) return { anchor: current };
-    const bounds = root.getBoundingClientRect();
-    const pages = Array.from(root.querySelectorAll<HTMLElement>("[data-basta-page]"));
-    const pageRects = pages.map((node) => {
-      const rect = node.getBoundingClientRect();
-      return { id: Number(node.dataset.bastaPage), top: rect.top, bottom: rect.bottom };
-    });
-    // Rotation can leave the upper reading line in a sliver of the previous page.
-    // Exiting Focus should return to the page occupying most of the viewport.
-    const visible = pageRects.map((item) => ({
-      id: item.id,
-      height: Math.max(0, Math.min(item.bottom, bounds.bottom) - Math.max(item.top, bounds.top)),
-    })).sort((a, b) => b.height - a.height);
-    const pageNumber = visible[0]?.height
-      ? visible[0].id : pageAtReadingLine(pageRects, bounds.top, bounds.height);
-    const page = pages.find((node) => Number(node.dataset.bastaPage) === pageNumber);
-    return { anchor: current, page, pageNumber };
-  };
-  const restoreAnchor = (saved: Anchor | undefined, scroller: HTMLElement | Window) => {
-    if (!saved?.node.isConnected) return;
-    const delta = saved.node.getBoundingClientRect().top - saved.top;
-    if (Math.abs(delta) < 1) return;
-    if (scroller === window) window.scrollBy(0, delta);
-    else (scroller as HTMLElement).scrollTop += delta;
-  };
+  const captureExit = (): ExitSnapshot => captureReadingExit(root, isContinuous);
+  const restoreAnchor = restoreReadingAnchor;
 
   const optionsOpen = (open: boolean) => {
     controls.dataset.readingOptionsOpen = String(open);
@@ -120,30 +72,13 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   fullscreenButton.hidden = !document.fullscreenEnabled;
   document.addEventListener("fullscreenchange", syncFullscreen);
 
-  const setOutsideInert = (enabled: boolean) => {
-    if (enabled) {
-      const others = [
-        document.querySelector<HTMLElement>(".site-header"),
-        document.querySelector<HTMLElement>(".site-footer"),
-        ...(article ? Array.from(article.children).filter((node): node is HTMLElement =>
-          node instanceof HTMLElement && node !== root && node !== controls) : []),
-      ];
-      previousInert = others.filter((node): node is HTMLElement => Boolean(node))
-        .map((node) => ({ node, value: node.inert }));
-      previousInert.forEach(({ node }) => { node.inert = true; });
-    } else {
-      previousInert.forEach(({ node, value }) => { node.inert = value; });
-      previousInert = [];
-    }
-  };
-
+  /** Create one history entry and retain the currently visible reading anchor. */
   const enter = (updateHistory: boolean) => {
     if (active) return;
     const current = visibleAnchor();
     previousFocus = document.activeElement instanceof HTMLElement ? document.activeElement : null;
     active = true;
-    rememberScrollRestoration();
-    setOutsideInert(true);
+    shell.enter();
     html.dataset.readingFocus = "true";
     optionsOpen(false);
     contentsOpen(false);
@@ -157,6 +92,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     });
   };
 
+  /** Restore the normal reader only after fixed-to-flow reflow and history navigation. */
   const exit = (updateHistory: boolean, saved?: ExitSnapshot) => {
     if (!active) return;
     // Return to the non-Focus history entry before restoring the position;
@@ -172,7 +108,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     delete html.dataset.readingFocus;
     optionsOpen(false);
     contentsOpen(false);
-    setOutsideInert(false);
+    shell.leave();
     if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
 
     // Keep the normal reader's URL anchored to the page visible on exit.
@@ -203,7 +139,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
       restoreReadingPosition();
       requestAnimationFrame(() => {
         restoreReadingPosition();
-        restoreScrollRestoration();
+        shell.restoreScrollRestoration();
         window.dispatchEvent(new Event("resize"));
         (previousFocus?.isConnected ? previousFocus : enterButton).focus({ preventScroll: true });
         refreshTopButton();
@@ -256,27 +192,14 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     }
   });
 
-  // Normal and immersive views use different scrolling elements.
-  const scrollPosition = () => Math.max(
-    active ? root.scrollTop : window.scrollY,
-    lastPanel?.isConnected && lastPanel.getClientRects().length ? lastPanel.scrollTop : 0,
-  );
-  function refreshTopButton(): void {
-    topButton!.hidden = scrollPosition() < 250;
-  }
+  // Both languages share the document or fixed Focus scroller, never a local panel.
+  const scrollPosition = () => active ? root.scrollTop : window.scrollY;
+  function refreshTopButton(): void { topButton!.hidden = scrollPosition() < 250; }
   topButton.addEventListener("click", () => {
     const behavior = readingScrollBehavior();
-    if (lastPanel?.isConnected && lastPanel.scrollTop > 150 &&
-        lastPanel.getClientRects().length) {
-      lastPanel.scrollTo({ top: 0, behavior });
-    } else if (active) root.scrollTo({ top: 0, behavior });
+    if (active) root.scrollTo({ top: 0, behavior });
     else window.scrollTo({ top: 0, behavior });
   });
-  document.addEventListener("scroll", (event) => {
-    if (event.target instanceof HTMLElement &&
-        event.target.matches("[data-synced-scroll-panel]")) lastPanel = event.target;
-    refreshTopButton();
-  }, true);
   window.addEventListener("scroll", refreshTopButton, { passive: true });
 
   const jumpForm = controls.querySelector<HTMLFormElement>("[data-reading-page-jump]");
@@ -287,24 +210,20 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
     event.preventDefault();
     const input = jumpForm.querySelector<HTMLInputElement>('input[name="page"]');
     if (!input) return;
-    const page = Number(input.value);
-    const available = new Set((jumpForm.dataset.availablePages ?? "").split(",").map(Number));
-    const indexStart = Number(jumpForm.dataset.indexStartPage);
-    const indexEnd = Number(jumpForm.dataset.indexEndPage);
-    if (!Number.isSafeInteger(page) || page < 1) {
-      input.setCustomValidity("Enter a valid page number."); input.reportValidity(); return;
+    const target = resolveBastaJumpForm(jumpForm, input);
+    if (target.kind === "invalid") {
+      input.setCustomValidity(target.message);
+      input.reportValidity();
+      return;
     }
-    if (page >= indexStart && page <= indexEnd) {
+    if (target.kind === "index") {
       if (active) contentsOpen(true);
       else { location.hash = "index"; window.dispatchEvent(new Event("basta:navigate-to-page")); }
       return;
     }
-    if (!available.has(page)) {
-      input.setCustomValidity("That Basta page is not available."); input.reportValidity(); return;
-    }
     // Replace rather than push: mobile Back exits Focus mode, not every jump.
     const url = new URL(location.href);
-    url.hash = `page-${page}`;
+    url.hash = `page-${target.page}`;
     history.replaceState(history.state, "", url.pathname + url.search + url.hash);
     contentsOpen(false);
     window.dispatchEvent(new Event("basta:navigate-to-page"));

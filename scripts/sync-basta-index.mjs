@@ -5,13 +5,14 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { bastaPageSources, romanLyricsFromHeader } from "./lib/source-files.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const indexPath = path.join(root, "src/data/basta/index.json");
 const sourceDir = path.join(root, "src/data/basta");
 const check = process.argv.includes("--check");
 if (process.argv.some((argument) => argument.startsWith("--") && argument !== "--check")) {
-  console.error("Usage: npm run basta:index:sync [-- --check]");
+  console.error("Usage: node scripts/sync-basta-index.mjs [--check]");
   process.exit(2);
 }
 const minimumScore = 0.78;
@@ -74,19 +75,13 @@ function similarity(seed, candidate, script) {
     value = Math.max(value, 0.85 * Math.min(a.length, b.length) / Math.max(a.length, b.length) + 0.1);
   return Math.min(value, 1);
 }
-async function loadPages(kind) {
-  const directory = path.join(sourceDir, kind);
-  const files = (await fs.readdir(directory)).filter((file) => /^\d+\.md$/.test(file));
-  const result = new Map();
-  for (const file of files) {
-    const raw = (await fs.readFile(path.join(directory, file), "utf8")).replace(/\r\n?/g, "\n");
-    const head = raw.match(/^---\n[\s\S]*?\n---(?:\n|$)/u);
-    if (!head) throw Error("Unterminated Markdown frontmatter: " + file);
-    const lines = raw.slice(head[0].length).split("\n")
-      .map((line) => line.trim()).filter((line) => line && line !== "---***---");
-    result.set(Number(file.slice(0, -3)), lines);
-  }
-  return result;
+async function loadPages(script) {
+  const sources = await bastaPageSources(path.join(sourceDir, "pages"));
+  return new Map([...sources].flatMap(([page, source]) => {
+    const text = script === "roman" ? romanLyricsFromHeader(source.header) : source.body;
+    return text === undefined ? [] : [[page, text.replace(/\r\n?/g, "\n").split("\n")
+      .map(line => line.trim()).filter(line => line && line !== "---***---")]];
+  }));
 }
 function bestMatch(label, lines, script) {
   // On ties, prefer the earliest match. Titles and refrains may share wording.
@@ -100,7 +95,7 @@ function bestMatch(label, lines, script) {
 async function main() {
   const original = await fs.readFile(indexPath, "utf8");
   const entries = JSON.parse(original);
-  const [urdu, roman] = await Promise.all([loadPages("pages"), loadPages("roman")]);
+  const [urdu, roman] = await Promise.all([loadPages("urdu"), loadPages("roman")]);
   const warnings = [];
   let changedUrdu = 0, changedRoman = 0;
   const ids = new Set();

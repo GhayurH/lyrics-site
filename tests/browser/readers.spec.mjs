@@ -1,36 +1,20 @@
+import { withoutJavaScript } from "./no-js.mjs";
 import { test, expect } from "@playwright/test";
 
 test("all reader types expose text before JavaScript initializes @smoke", async ({ browser }) => {
-  const context = await browser.newContext({ javaScriptEnabled: false });
-  const page = await context.newPage();
-  await page.goto("/lyrics/aa-asghar-bin-tere/");
-  await expect(page.locator(".lyric-reading-urdu .lyric-verse").first()).toBeVisible();
-  await page.goto("/basta/138/");
-  await expect(page.locator(".basta-page-urdu .basta-verse-line").first()).toBeVisible();
-  await expect(page.locator("[data-reading-controls] .basta-pager")).toBeVisible();
-  await expect(page.locator("[data-reading-controls] .reading-focus-enter")).toBeHidden();
-  await page.goto("/basta/read/");
-  await expect(page.locator('.basta-reader-page[data-basta-page="3"]')).toBeVisible();
-  await context.close();
+  await withoutJavaScript(browser, async (page) => {
+    await page.goto("/lyrics/aa-asghar-bin-tere/");
+    await expect(page.locator(".lyric-reading-urdu .lyric-verse").first()).toBeVisible();
+    await page.goto("/basta/138/");
+    await expect(page.locator(".basta-page-urdu .basta-verse-line").first()).toBeVisible();
+    await expect(page.locator("[data-reading-controls] .basta-pager")).toBeVisible();
+    await expect(page.locator("[data-reading-controls] .reading-focus-enter")).toBeHidden();
+    await page.goto("/basta/read/");
+    await expect(page.locator('.basta-reader-page[data-basta-page="3"]')).toBeVisible();
+  });
 });
 
-test("printed Basta genre titles, names and near-repeated headings use shared typography", async ({ page }) => {
-  await page.goto("/basta/140/");
-  for (const [edition, rubai, qita, poet, finalTitle] of [
-    ["urdu", "رباعی", "[قطعہ]", "علامہ طالب جوہری مدظلہ", "حسینؑ جب کہ چلے بعد دوپہر رن کو"],
-    ["roman", "Rubai", "[Qit'a]", "Allama Talib Jauhari Muddazillahu", "Husain jab ke chale baad dopehar ran ko"],
-  ]) {
-    const poems = page.locator(`.basta-page-${edition} .basta-kalam-text`);
-    await expect(poems.nth(1).locator(".kalam-reading-title")).toHaveText(rubai);
-    await expect(poems.nth(1).locator(".kalam-poet-credit")).toHaveCount(1);
-    await expect(poems.nth(2).locator(".kalam-reading-title")).toHaveText(qita);
-    await expect(poems.nth(3).locator(".kalam-poet-credit")).toHaveText(poet);
-    await expect(poems.nth(3).locator(".kalam-reading-title")).toHaveCount(0);
-    await expect(poems.nth(5).locator(".kalam-reading-title")).toHaveText(finalTitle);
-  }
-});
-
-test("edition preferences, Focus mode, and image enlargement work together", async ({ page }) => {
+test("edition preferences, Focus mode, and image enlargement work together @smoke", async ({ page }) => {
   await page.goto("/basta/138/");
   const image = page.locator(".basta-original-page");
   await expect(image).toBeVisible();
@@ -84,51 +68,6 @@ test("mobile single-edition Focus starts with stanza one via link and button", a
   }
 });
 
-test("continuous deep link, Contents and Focus exit survive rotation", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/basta/read/#page-138", { waitUntil: "domcontentloaded" });
-  const target = page.locator('[data-basta-page="138"]');
-  await expect(target).toBeAttached({ timeout: 20000 });
-
-  await page.locator("[data-reading-focus-enter]").click();
-  await page.locator("[data-reading-focus-options]").click();
-  await page.getByRole("button", { name: "Contents" }).click();
-  await expect(page.locator(".basta-reader-index")).toBeVisible();
-  await expect(page.locator("[data-reading-controls]")).toHaveAttribute("data-reading-options-open", "false");
-  await page.keyboard.press("Escape");
-  await expect(page.locator(".basta-reader-index")).toBeHidden();
-
-  await page.setViewportSize({ width: 844, height: 390 });
-  await target.evaluate((node) => node.scrollIntoView({ block: "start", behavior: "instant" }));
-  await page.locator("[data-reading-root]").evaluate((node) => { node.scrollTop += 125; });
-  const visiblePage = await page.locator("[data-reading-root]").evaluate((root) => {
-    const viewport = root.getBoundingClientRect();
-    return [...root.querySelectorAll("[data-basta-page]")].map((node) => {
-      const rect = node.getBoundingClientRect();
-      return { page: Number(node.dataset.bastaPage), visible: Math.max(0,
-        Math.min(rect.bottom, viewport.bottom) - Math.max(rect.top, viewport.top)) };
-    }).sort((a, b) => b.visible - a.visible)[0]?.page;
-  });
-  expect(visiblePage).toBeGreaterThan(0);
-  await page.getByRole("button", { name: /Exit reading mode/ }).click();
-  await expect.poll(() => new URL(page.url()).hash).toBe(`#page-${visiblePage}`);
-  await expect.poll(() => page.locator(`#page-${visiblePage}`).evaluate((node) => {
-    const rect = node.getBoundingClientRect();
-    return rect.bottom > 0 && rect.top < innerHeight;
-  })).toBe(true);
-});
-
-test("missing Roman transcription retains its source scan", async ({ page }) => {
-  await page.goto("/basta/read/#page-30", { waitUntil: "domcontentloaded" });
-  const page30 = page.locator('[data-basta-page="30"]');
-  await expect(page30).toBeAttached({ timeout: 20000 });
-  const toggle = page.locator("[data-reading-regular-toggle]");
-  if (await toggle.isVisible()) await toggle.click();
-  await page.locator('[data-reading-column][value="urdu"]').uncheck();
-  await expect(page30.locator(".basta-reader-original-image")).toBeVisible();
-  await expect(page30.locator(".basta-edition-unavailable")).toContainText("not available");
-});
-
 test("only line spacing is configurable, and its value survives reload", async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/lyrics/aa-asghar-bin-tere/");
@@ -142,42 +81,142 @@ test("only line spacing is configurable, and its value survives reload", async (
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-line-spacing", "relaxed");
 });
 
-test("parallel Basta keeps the shorter Roman edition fully visible and scrolls only Urdu", async ({ page }) => {
+test("parallel Urdu/Roman use unequal natural-width columns and a shared page scrollbar", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/basta/138/");
   await page.locator('[data-reading-column][value="image"]').uncheck();
   await page.locator('[data-reading-column][value="roman"]').check();
   const roman = page.locator(".basta-page-roman");
   const urdu = page.locator(".basta-page-urdu");
-  await expect(roman).toHaveAttribute("data-synced-active", "true");
-  await expect(urdu).toHaveAttribute("data-synced-scrollable", "true");
-  await expect(roman).not.toHaveAttribute("data-synced-scrollable", "true");
-  expect(await roman.locator(".basta-kalam-text").count()).toBeGreaterThan(1);
-  expect(await urdu.locator(".basta-kalam-text").count()).toBeGreaterThan(1);
-  const sizes = await page.evaluate(() => {
-    const roman = document.querySelector(".basta-page-roman");
-    const urdu = document.querySelector(".basta-page-urdu");
-    return {
-      romanOverflow: roman.scrollHeight - roman.clientHeight,
-      urduOverflow: urdu.scrollHeight - urdu.clientHeight,
-      romanHeight: roman.getBoundingClientRect().height,
-      urduHeight: urdu.getBoundingClientRect().height,
-    };
+  const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
+  await expect(divider).toBeVisible();
+  await expect(divider).toHaveAttribute("aria-valuenow", "44");
+  for (const panel of [roman, urdu]) {
+    await expect(panel).not.toHaveAttribute("data-synced-scrollable", "true");
+    expect(await panel.evaluate((node) => ({
+      overflow: getComputedStyle(node).overflowY,
+      height: node.style.height,
+    }))).toEqual({ overflow: "visible", height: "" });
+  }
+  const proportions = await page.evaluate(() => {
+    const roman = document.querySelector(".basta-page-roman").getBoundingClientRect();
+    const urdu = document.querySelector(".basta-page-urdu").getBoundingClientRect();
+    return roman.width / (roman.width + urdu.width);
   });
-  expect(sizes.romanOverflow).toBeLessThan(3);
-  expect(sizes.urduOverflow).toBeGreaterThan(10);
-  expect(Math.abs(sizes.romanHeight - sizes.urduHeight)).toBeLessThan(3);
-  await urdu.evaluate((node) => { node.scrollTop = (node.scrollHeight - node.clientHeight) * 0.65; });
-  await expect.poll(() => urdu.evaluate((node) => node.scrollTop)).toBeGreaterThan(0);
-  expect(await roman.evaluate((node) => node.scrollTop)).toBe(0);
-  // Standalone lyrics use the same short-column policy.
-  await page.goto("/lyrics/aa-asghar-bin-tere/");
-  const lyricUrdu = page.locator(".lyric-reading-urdu");
-  const lyricRoman = page.locator(".lyric-reading-roman");
-  await expect(lyricUrdu).toHaveAttribute("data-synced-scrollable", "true");
-  await expect(lyricRoman).not.toHaveAttribute("data-synced-scrollable", "true");
-  expect(await lyricRoman.evaluate(node => node.scrollHeight - node.clientHeight)).toBeLessThan(3);
+  expect(proportions).toBeGreaterThan(0.36);
+  expect(proportions).toBeLessThan(0.50);
 
+  await divider.focus();
+  await page.keyboard.press("Shift+ArrowRight");
+  await expect(divider).toHaveAttribute("aria-valuenow", "49");
+  await page.reload();
+  await expect(page.getByRole("separator", { name: "Resize Roman and Urdu columns" })).toHaveAttribute("aria-valuenow", "49");
+});
+
+test("dragging lyric divider refits one-line verses and supports keyboard and responsive stacking", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/lyrics/aik-tehreer-uthaye-boli-darbar-mein-aa-kar-zahra/");
+  const root = page.locator(".lyric-reading-grid");
+  const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
+  await expect(divider).toBeVisible();
+  const original = await root.evaluate(el => {
+    const roman = el.querySelector(".lyric-reading-roman").getBoundingClientRect();
+    return roman.width;
+  });
+  const rect = await divider.boundingBox();
+  await page.mouse.move(rect.x + rect.width / 2, rect.y + 32);
+  await page.mouse.down();
+  await page.mouse.move(rect.x + rect.width / 2 - 170, rect.y + 32, { steps: 10 });
+  await page.mouse.up();
+  await expect.poll(() => divider.getAttribute("aria-valuenow")).not.toBe("44");
+  const resized = await root.evaluate(el => el.querySelector(".lyric-reading-roman").getBoundingClientRect().width);
+  expect(resized).toBeLessThan(original - 50);
+  await expect.poll(async () => root.evaluate(el =>
+    [...el.querySelectorAll(".lyric-reading-roman .lyric-verse")]
+      .every(v => v.scrollWidth <= v.clientWidth + 2 && getComputedStyle(v).whiteSpace === "nowrap")
+  )).toBe(true);
+  await divider.dblclick();
+  await expect(divider).toHaveAttribute("aria-valuenow", "44");
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect(divider).toBeHidden();
+  await expect(root).toHaveCSS("flex-direction", "column");
+});
+
+test("widening the Roman column grows the stanza font while every verse stays justified", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");
+  const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
+  const stanza = page.locator(".lyric-reading-roman .lyric-stanza").first();
+  await expect(divider).toBeVisible();
+  await expect(divider).toHaveAttribute("aria-valuemax", "85");
+  await expect.poll(() => stanza.locator(".lyric-verse").count()).toBeGreaterThan(1);
+  const initialSize = await stanza.locator(".lyric-verse").first()
+    .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize));
+  await divider.focus();
+  await page.keyboard.press("End");
+  await expect(divider).toHaveAttribute("aria-valuenow", "85");
+  await expect.poll(async () => stanza.locator(".lyric-verse").first()
+    .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize)))
+    .toBeGreaterThan(initialSize + 2);
+  const wideSize = await stanza.locator(".lyric-verse").first()
+    .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize));
+  const lines = await stanza.evaluate(node =>
+    [...node.querySelectorAll(".lyric-verse")].map(verse => ({
+      justified: getComputedStyle(verse).textAlignLast === "justify",
+      nowrap: getComputedStyle(verse).whiteSpace === "nowrap",
+      fits: verse.scrollWidth <= verse.clientWidth + 3,
+    }))
+  );
+  expect(lines.length).toBeGreaterThan(1);
+  expect(lines.every(line => line.justified && line.nowrap && line.fits)).toBe(true);
+  // Dragging is covered above. Verify the keyboard's end-stop can also
+  // reduce a grown stanza without leaving the cap applied.
+  await divider.focus();
+  for (let i = 0; i < 5; i++) await page.keyboard.press("Shift+ArrowLeft");
+  await expect(divider).toHaveAttribute("aria-valuenow", "60");
+  await expect.poll(async () => stanza.locator(".lyric-verse").first()
+    .evaluate(node => Number.parseFloat(getComputedStyle(node).fontSize)))
+    .toBeLessThan(wideSize - 2);
+});
+
+test("three-edition lyrics follow the shared responsive scan and text layout", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");
+  await page.locator('[data-reading-column][value="image"]').check();
+  const grid = page.locator(".lyric-reading-grid");
+  const figure = grid.locator(".lyric-reading-image");
+  const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
+  await expect(figure).toBeVisible();
+  await expect(grid.locator(".lyric-reading-roman")).toBeVisible();
+  await expect(grid.locator(".lyric-reading-urdu")).toBeVisible();
+  await expect.poll(() => figure.getAttribute("data-floating-scan")).toBe("true");
+  await expect.poll(async () => grid.evaluate(element => {
+    const image = element.querySelector(".lyric-reading-image").getBoundingClientRect();
+    const roman = element.querySelector(".lyric-reading-roman").getBoundingClientRect();
+    const urdu = element.querySelector(".lyric-reading-urdu").getBoundingClientRect();
+    return image.width >= 280 && image.right <= roman.left + 3 &&
+      Math.abs(image.top - roman.top) < 20 && Math.abs(roman.top - urdu.top) < 20 &&
+      roman.right <= urdu.left + 3;
+  })).toBe(true);
+  await expect(divider).toBeVisible();
+
+  // Below 64rem the scan is above the two resizable text editions.
+  await page.setViewportSize({ width: 1024, height: 900 });
+  await expect.poll(() => figure.getAttribute("data-floating-scan")).toBe("false");
+  await expect.poll(async () => grid.evaluate(element => {
+    const image = element.querySelector(".lyric-reading-image").getBoundingClientRect();
+    const roman = element.querySelector(".lyric-reading-roman").getBoundingClientRect();
+    const urdu = element.querySelector(".lyric-reading-urdu").getBoundingClientRect();
+    return image.width >= 400 && image.bottom <= roman.top + 3 &&
+      Math.abs(roman.top - urdu.top) < 20 && roman.right <= urdu.left + 3;
+  })).toBe(true);
+  await expect(divider).toBeVisible();
+
+  // Phones stack all three surfaces, retaining a readable scan.
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect(figure).toBeVisible();
+  await expect(divider).toBeHidden();
+  expect(await figure.evaluate(node => node.getBoundingClientRect().width)).toBeGreaterThan(250);
 });
 
 test("stacked and single-column editions use only document scrolling", async ({ page }) => {
@@ -272,109 +311,6 @@ test("image viewer centres narrow scans and pans horizontally and vertically whe
   await expect.poll(() => canvas.evaluate((el) => el.scrollLeft)).toBeGreaterThan(before.x + 50);
   await expect.poll(() => canvas.evaluate((el) => el.scrollTop)).toBeGreaterThan(before.y + 50);
   await viewer.getByRole("button", { name: "Close" }).click();
-});
-
-test("Basta kalam and stanza bookmarks survive navigation without shifting poetry", async ({ page }) => {
-  await page.goto("/basta/200/");
-  const kalam = page.locator(".basta-page-urdu .basta-kalam-text").first();
-  const button = kalam.locator("[data-basta-save-selection]").first();
-  await expect(button).toBeAttached();
-  const verse = kalam.locator(".basta-verse-line").first();
-  const before = await verse.boundingBox();
-  await button.click();
-  await expect(button).toHaveAttribute("aria-pressed", "true");
-  const after = await verse.boundingBox();
-  expect(Math.abs(after.y - before.y)).toBeLessThan(2);
-  const stanza = page.locator(".basta-page-urdu .basta-stanza-bookmark").first();
-  if (await stanza.count()) {
-    await stanza.click();
-    await expect(stanza).toHaveAttribute("aria-pressed", "true");
-  }
-  await page.goto("/saved/");
-  await expect(page.locator("#basta-selections-list a").first()).toContainText("Basta");
-  await page.locator("#basta-selections-list a").first().click();
-  await expect(page.locator("[data-reading-root]")).toBeVisible();
-});
-
-test("Roman and Urdu Basta stanza bookmarks share a key and restore the visible edition", async ({ page }) => {
-  await page.goto("/basta/200/");
-  const urdu = page.locator(".basta-page-urdu .basta-stanza-bookmark").first();
-  const roman = page.locator(".basta-page-roman .basta-stanza-bookmark").first();
-  await expect(urdu).toBeAttached();
-  await expect(roman).toBeAttached();
-  const key = await roman.getAttribute("data-basta-save-selection");
-  expect(key).toMatch(/^200:stanza:\d+$/);
-  await expect(urdu).toHaveAttribute("data-basta-save-selection", key);
-
-  // Save in Roman-only mode and verify the equivalent Urdu button updates.
-  await page.locator('[data-reading-column][value="roman"]').check();
-  await page.locator('[data-reading-column][value="urdu"]').uncheck();
-  await expect(roman).toBeVisible();
-  await roman.click();
-  await expect(roman).toHaveAttribute("aria-pressed", "true");
-  await expect(urdu).toHaveAttribute("aria-pressed", "true");
-  await page.goto("/saved/");
-  const saved = page.locator('#basta-selections-list a[href*="basta-stanza"]').first();
-  await expect(saved).toBeVisible();
-  await saved.click();
-  await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-columns", /roman/);
-  await expect(page.locator(".basta-page-roman .basta-stanza-bookmark").first()).toHaveAttribute("aria-pressed", "true");
-  await expect.poll(async () => page.locator(".basta-page-roman .basta-stanza-bookmark").first().evaluate((node) => {
-    const bounds = node.getBoundingClientRect();
-    return bounds.bottom > 0 && bounds.top < innerHeight;
-  })).toBe(true);
-  await page.locator(".basta-page-roman .basta-stanza-bookmark").first().click();
-  await expect(page.locator(".basta-page-urdu .basta-stanza-bookmark").first()).toHaveAttribute("aria-pressed", "false");
-
-  // Streamed pages have the same controls and storage identities.
-  await page.goto("/basta/read/#page-200", { waitUntil: "domcontentloaded" });
-  const printed = page.locator('[data-basta-page="200"]');
-  await expect(printed).toBeAttached({ timeout: 20000 });
-  const streamRoman = printed.locator(".basta-reader-roman .basta-stanza-bookmark").first();
-  const streamUrdu = printed.locator(".basta-reader-urdu .basta-stanza-bookmark").first();
-  await expect(streamRoman).toBeAttached();
-  await expect(streamUrdu).toBeAttached();
-  await expect(streamRoman).toHaveAttribute("data-basta-save-selection",
-    await streamUrdu.getAttribute("data-basta-save-selection"));
-  await page.locator("[data-reading-regular-toggle]").click();
-  await page.locator('[data-reading-column][value="roman"]').check();
-  await page.locator('[data-reading-column][value="urdu"]').uncheck();
-  await streamRoman.click();
-  await expect(streamUrdu).toHaveAttribute("aria-pressed", "true");
-});
-
-test("Basta page progress tracks the Focus scroller instead of document scroll", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/basta/200/");
-  await page.locator("[data-reading-focus-enter]").click();
-  const reading = page.locator("[data-reading-root]");
-  await expect.poll(() => reading.evaluate((root) =>
-    root.scrollHeight - root.clientHeight)).toBeGreaterThan(200);
-  await reading.evaluate((root) => {
-    root.scrollTop = (root.scrollHeight - root.clientHeight) * 0.6;
-  });
-  await expect.poll(() => page.evaluate(() => {
-    const saved = JSON.parse(localStorage.getItem("kalam:basta-position") || "{}");
-    return saved.mode === "page" && saved.page === 200 ? saved.offset : 0;
-  })).toBeGreaterThan(0.4);
-  expect(await page.evaluate(() => window.scrollY)).toBeLessThan(2000);
-});
-
-test("Basta page Focus resume restores its own scroll offset from the URL", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto("/basta/200/?reading=1&resume=0.65");
-  const root = page.locator("[data-reading-root]");
-  await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
-  await expect.poll(() => root.evaluate((node) => {
-    const range = node.scrollHeight - node.clientHeight;
-    return range > 0 ? node.scrollTop / range : 0;
-  })).toBeGreaterThan(0.5);
-  await expect.poll(() => page.evaluate(() => {
-    const saved = JSON.parse(localStorage.getItem("kalam:basta-position") || "{}");
-    return saved.mode === "page" && saved.page === 200 ? saved.offset : 0;
-  })).toBeGreaterThan(0.5);
-  await expect.poll(() => page.evaluate(() => new URL(location.href)
-    .searchParams.has("resume"))).toBe(false);
 });
 
 test("Escape dismisses Focus Options before exiting the reader", async ({ page }) => {

@@ -1,0 +1,72 @@
+/* Page navigation */
+.basta-pager {
+  display: grid;
+  grid-template-columns: minmax(7rem, 1fr) auto minmax(7rem, 1fr);
+  align-items: end;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-card);
+  padding: 0.9rem;
+  background: var(--surface-background);
+}
+
+.basta-nav-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 0;
+  min-height: var(--ui-target);
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-tight);
+  padding: 0.55rem 0.8rem;
+  text-decoration: none;
+}
+
+.basta-nav-button:hover {
+  background: var(--tag-background);
+}
+
+.basta-nav-button.is-disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.basta-jump-form {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.basta-jump-form label {
+  display: grid;
+  gap: 0.25rem;
+  color: var(--secondary-text);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.basta-jump-form input {
+  width: 8rem;
+  min-height: var(--ui-target);
+  border: var(--ui-border);
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.7rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  font: inherit;
+}
+
+.basta-jump-form button {
+  min-height: var(--ui-target);
+  border: 0;
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.9rem;
+  background: var(--button-background);
+  color: var(--button-text);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}

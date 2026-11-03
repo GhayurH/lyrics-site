@@ -4,9 +4,11 @@ import BaseLayout from "../../../layouts/BaseLayout.astro";
 import BastaText from "../../../components/BastaText.astro";
 import BastaParallelText from "../../../components/BastaParallelText.astro";
 import ReadingControls from "../../../components/ReadingControls.astro";
+import ReaderSubnav from "../../../components/ReaderSubnav.astro";
 import { loadBastaKalamCatalog } from "../../../lib/basta-kalam-data";
 import type { BastaKalam } from "../../../lib/basta-kalam-units";
-import "../../../styles/basta.css";
+import "../../../styles/basta-shell.css";
+import "../../../styles/basta-text.css";
 import "../../../styles/basta-kalam.css";
 import "../../../styles/corrections.css";
 import { searchIndexAliases } from "../../../lib/search-normalization";
@@ -23,7 +25,6 @@ const { kalam } = Astro.props as { kalam: BastaKalam };
 const page = kalam.startPage;
 const pages = [...new Set(kalam.pages)].sort((a, b) => a - b);
 const hasRoman = Boolean(kalam.roman?.trim());
-const scanUrl = `/images/basta/original/${String(page).padStart(3, "0")}.png`;
 const kalamType = getBastaKalamTypeForSection(kalam.sectionRoman);
 const sourceScanUrl = (value: number) => `/images/basta/original/${String(value).padStart(3, "0")}.png`;
 ---
@@ -31,7 +32,7 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
   title={`${kalam.romanName || kalam.name} | Basta | Kalam Archive`}
   description={`Read ${kalam.romanName || kalam.name} in Urdu${hasRoman ? " and Roman Urdu" : ""}, with the original Basta page scans.`}
 >
-  <article class="basta-page basta-kalam-page">
+  <article class="basta-page basta-kalam-page" data-reader-shell>
     <div class="pagefind-data" aria-hidden="true">
       <span data-pagefind-filter="collection">Basta</span>
       <span data-pagefind-meta="collection">Basta · Individual kalam</span>
@@ -46,11 +47,11 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       {kalam.urdu.split(/\r?\n/u).filter(Boolean).map((verse) => <p lang="ur" dir="rtl">{verse}</p>)}
       {kalam.roman?.split(/\r?\n/u).filter(Boolean).map((verse) => <p lang="en" dir="ltr">{verse}</p>)}
     </div>
-    <nav class="basta-subnav" aria-label="Basta navigation" data-pagefind-ignore>
-      <a href="/basta/">Basta</a><span aria-hidden="true">/</span>
-      <a href="/basta/index/">Index</a><span aria-hidden="true">/</span>
-      <a href={`/basta/${page}/`}>Printed page {page}</a>
-    </nav>
+    <ReaderSubnav ariaLabel="Basta navigation" items={[
+        { label: "Basta", href: "/basta/" },
+        { label: "Index", href: "/basta/index/" },
+        { label: `Printed page ${page}`, href: `/basta/${page}/` },
+      ]} />
     <header class="basta-kalam-heading" data-pagefind-ignore>
       <p class="eyebrow">{kalam.sectionRoman} · {kalam.indexNumber}</p>
       <h1 lang="ur" dir="rtl">{kalam.name}</h1>
@@ -89,23 +90,29 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       data-reading-columns={hasRoman ? "urdu roman" : "urdu"}
       data-reading-mode={hasRoman ? "parallel" : "urdu"}
       data-line-spacing="default"
-      data-synced-scroll-root
+
     >
-      <figure class="basta-original-page" data-pagefind-ignore data-synced-scroll-panel>
-        <a id={`scan-page-${page}`} href={scanUrl} aria-label={`Enlarge original scan of page ${page}`}>
-          <img src={scanUrl} alt={`Original Basta page ${page}`} loading="lazy" width="1240" height="1754" />
-        </a>
-        {pages.length > 1 && <figcaption>
-          <details class="basta-additional-scans">
-            <summary>View all {pages.length} original source scans</summary>
-            {pages.slice(1).map((p) => <div class="basta-additional-scan">
-              <a id={`scan-page-${p}`} href={sourceScanUrl(p)} aria-label={`Enlarge original scan of page ${p}`}>
-                <img src={sourceScanUrl(p)} alt={`Original Basta page ${p}`}
-                  loading="lazy" decoding="async" width="1240" height="1754" />
-              </a>
-              <a href={`/basta/${p}/`}>Read original page {p}</a>
-            </div>)}
-          </details>
+      <figure class="basta-original-page basta-kalam-scans" data-pagefind-ignore
+        data-synced-scroll-panel data-basta-scan-pages>
+        {/* Stable anchors keep stanza source links working while only one image
+            occupies the reader. The other scans remain hidden until selected. */}
+        {pages.map((p) => <a id={`scan-page-${p}`} href={sourceScanUrl(p)}
+          data-basta-scan-page={p} hidden={p !== page}
+          aria-label={`Enlarge original scan of page ${p}`}>
+          <img src={sourceScanUrl(p)} alt={`Original Basta page ${p}`}
+            loading="lazy" decoding="async" width="1240" height="1754" />
+        </a>)}
+        {pages.length > 1 && <figcaption class="basta-kalam-scan-nav"
+          aria-label="Original source scan pages">
+          <button type="button" data-basta-scan-prev aria-label="Previous source scan" disabled>
+            ← Previous
+          </button>
+          <span data-basta-scan-status role="status" aria-live="polite" aria-atomic="true">
+            Page {page} · 1 of {pages.length}
+          </span>
+          <button type="button" data-basta-scan-next aria-label="Next source scan">
+            Next →
+          </button>
         </figcaption>}
       </figure>
       {hasRoman
@@ -118,15 +125,15 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
   <script>
     import { initReadingControls } from "../../../client/reader-state";
     import { initVerseFitting } from "../../../client/verse-fitting";
-    import { initSyncedColumns } from "../../../client/synced-columns";
     import { initScanViewer } from "../../../client/scan-viewer";
     import { initCorrectionDialog } from "../../../client/corrections";
     import { initBastaKalamFavorites } from "../../../client/basta-kalam-favorites";
+    import { initBastaKalamScans } from "../../../client/basta-kalam-scans";
     initReadingControls();
     initVerseFitting();
-    initSyncedColumns();
     initScanViewer();
     initCorrectionDialog();
     initBastaKalamFavorites();
+    initBastaKalamScans();
   </script>
 </BaseLayout>

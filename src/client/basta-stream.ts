@@ -1,148 +1,16 @@
 // File role: Progressive continuous-reader loader: hydrates static page chunks near the viewport and resolves deep #page-N links without shipping the full book HTML initially.
-import type { BastaReaderChunk, BastaReaderPageData } from "../lib/basta";
-import { splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
-import { renderBastaTextBlock } from "./basta-dom";
-import settings from "../data/basta/settings.json";
-import { romanUnavailable } from "../lib/edition-availability";
+import type { BastaReaderChunk } from "../lib/basta";
+import { renderBastaPage } from "./basta-stream-render";
+import { node } from "./dom";
 
-function element<K extends keyof HTMLElementTagNameMap>(
-  tag: K,
-  className?: string,
-): HTMLElementTagNameMap[K] {
-  const node = document.createElement(tag);
-  if (className) node.className = className;
-  return node;
-}
-
-function renderKalamBreak(): HTMLElement {
-  const separator = element("div", "basta-kalam-break");
-  separator.setAttribute("role", "separator");
-  separator.setAttribute("aria-label", "Kalam separator");
-  const mark = element("span");
-  mark.setAttribute("aria-hidden", "true");
-  mark.textContent = "✦";
-  separator.append(mark);
-  return separator;
-}
-
-/** One scan renderer for image-only pages and synchronized parallel pages. */
-function renderOriginalImage(page: BastaReaderPageData, sync = false): HTMLElement {
-  const figure = element("figure", "basta-reader-original-image");
-  if (sync) figure.dataset.syncedScrollPanel = "";
-  const image = element("img");
-  image.src = page.originalImage;
-  image.alt = `Original scan of Basta page ${page.page}`;
-  image.loading = "lazy";
-  image.decoding = "async";
-  const link = element("a", "scan-viewer-trigger");
-  link.href = page.originalImage;
-  link.setAttribute("aria-label", `Enlarge scan of Basta page ${page.page}`);
-  link.append(image);
-  figure.append(link);
-  return figure;
-}
-
-function appendBastaText(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
-  splitBastaKalams(value).forEach((kalam, index) => {
-    if (index > 0) container.append(renderKalamBreak());
-    container.append(renderBastaTextBlock(kalam, indentStanzas, stanzaStyle));
-  });
-}
-
-function renderParallelText(page: BastaReaderPageData): HTMLElement {
-  // Mirror BastaParallelText.astro for chunks loaded after the first one.
-  const wrapper = element("div", "basta-parallel-kalams basta-parallel-kalams-reader");
-
-  const roman = element("section", "basta-reader-column basta-reader-roman");
-  roman.lang = "en";
-  roman.dir = "ltr";
-  roman.dataset.syncedScrollPanel = "";
-  roman.setAttribute("aria-label", `Roman Urdu text of Basta page ${page.page}`);
-  const romanText = element("div", "basta-reader-text");
-  appendBastaText(romanText, page.romanText, true, page.stanzaStyle);
-  roman.append(romanText);
-
-  const urdu = element("section", "basta-reader-column basta-reader-urdu");
-  urdu.lang = "ur";
-  urdu.dir = "rtl";
-  urdu.dataset.syncedScrollPanel = "";
-  urdu.setAttribute("aria-label", `Urdu text of Basta page ${page.page}`);
-  const urduText = element("div", "basta-reader-text");
-  appendBastaText(urduText, page.urduText, true, page.stanzaStyle);
-  urdu.append(urduText);
-
-  wrapper.append(roman, urdu);
-  return wrapper;
-}
-
-function renderPage(page: BastaReaderPageData): HTMLElement {
-  const section = element("section", "basta-reader-page");
-  if (page.imageOnly) section.classList.add("basta-reader-page-image-only");
-  if (!page.hasRoman && !page.imageOnly) section.classList.add("basta-reader-page-no-roman");
-  section.id = `page-${page.page}`;
-  section.dataset.bastaPage = String(page.page);
-  section.dataset.pageHasRoman = String(page.hasRoman);
-  section.dataset.syncedScrollRoot = "";
-
-  if (page.imageOnly) {
-    section.append(renderOriginalImage(page));
-  } else if (page.hasRoman) {
-    const grid = element("div", "basta-reader-page-grid basta-reader-page-grid-with-roman");
-    grid.append(renderOriginalImage(page, true), renderParallelText(page));
-    section.append(grid);
-  } else {
-    const grid = element("div", "basta-reader-page-grid");
-    const original = renderOriginalImage(page);
-    original.dataset.readingImageExtra = "";
-    grid.append(original);
-
-    const roman = element("section", "basta-reader-column basta-reader-roman");
-    roman.lang = "en";
-    roman.dir = "ltr";
-    roman.setAttribute("aria-label", `Roman Urdu text of Basta page ${page.page}`);
-    const missing = element("p", "basta-transliteration-missing");
-    missing.textContent = romanUnavailable("page", true);
-    roman.append(missing);
-
-    const urdu = element("section", "basta-reader-column basta-reader-urdu");
-    urdu.lang = "ur";
-    urdu.dir = "rtl";
-    urdu.setAttribute("aria-label", `Urdu text of Basta page ${page.page}`);
-    const urduText = element("div", "basta-reader-text");
-    appendBastaText(urduText, page.urduText, page.page >= settings.romanLyricsStartPage, page.stanzaStyle);
-    urdu.append(urduText);
-
-    grid.append(roman, urdu);
-    section.append(grid);
-  }
-
-  if (!page.imageOnly && !page.hasRoman) {
-    const notice = element("p", "basta-edition-unavailable");
-    notice.setAttribute("role", "status");
-    notice.textContent = romanUnavailable("page", true);
-    section.append(notice);
-  }
-
-  const pageNumber = element("p", "basta-reader-page-number");
-  pageNumber.dir = "ltr";
-  pageNumber.textContent = String(page.page);
-  section.append(pageNumber);
-
-  if (page.showBreak) {
-    const rule = element("hr", "basta-reader-page-break");
-    rule.setAttribute("aria-hidden", "true");
-    section.append(rule);
-  }
-
-  return section;
-}
-
+/** Reject malformed JSON before the streaming controller alters the visible page list. */
 function validChunk(value: unknown): value is BastaReaderChunk {
   if (!value || typeof value !== "object") return false;
   const chunk = value as Partial<BastaReaderChunk>;
   return typeof chunk.id === "string" && Array.isArray(chunk.pages);
 }
 
+/** One chunk has a single in-flight request; errors preserve a retry action. */
 async function loadChunk(shell: HTMLElement): Promise<void> {
   if (shell.dataset.chunkLoaded === "true" || shell.dataset.chunkLoading === "true") return;
   const url = shell.dataset.chunkUrl;
@@ -157,7 +25,7 @@ async function loadChunk(shell: HTMLElement): Promise<void> {
     const data: unknown = await response.json();
     if (!validChunk(data)) throw new Error("Invalid Basta chunk response");
 
-    shell.replaceChildren(...data.pages.map(renderPage));
+    shell.replaceChildren(...data.pages.map(renderBastaPage));
     window.dispatchEvent(new Event("basta:content-loaded"));
     shell.dataset.chunkLoaded = "true";
     delete shell.dataset.chunkLoading;
@@ -168,9 +36,9 @@ async function loadChunk(shell: HTMLElement): Promise<void> {
     shell.removeAttribute("aria-busy");
     shell.classList.add("basta-reader-chunk-error");
 
-    const message = element("p", "basta-reader-chunk-message");
+    const message = node("p", "basta-reader-chunk-message");
     message.textContent = "These pages could not be loaded.";
-    const retry = element("button", "text-button");
+    const retry = node("button", "text-button");
     retry.type = "button";
     retry.dataset.retryBastaChunk = "";
     retry.textContent = "Retry";
@@ -195,6 +63,7 @@ function settlePageHash(target: HTMLElement): void {
   }));
 }
 
+/** Resolve deep links even when their numbered page has not been hydrated. */
 async function resolveHash(): Promise<void> {
   // The index is already in the document, but loading preceding chunks first
   // prevents it from jumping downward after a direct #index navigation.
@@ -231,6 +100,7 @@ async function resolveHash(): Promise<void> {
   if (loaded) settlePageHash(loaded);
 }
 
+/** Install a single progressive loader and delegated retries for the reading route. */
 export function initBastaStreamingReader(): void {
   const stream = document.querySelector<HTMLElement>("[data-basta-stream]");
   if (!stream || stream.dataset.streamReady === "true") return;

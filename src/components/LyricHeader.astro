@@ -1,0 +1,120 @@
+---
+import type { CollectionEntry } from "astro:content";
+import FavoriteButton from "./FavoriteButton.astro";
+import ReaderSubnav from "./ReaderSubnav.astro";
+import { getLyricKalamType, searchUrl, slugifyKalamType } from "../lib/lyrics";
+interface Props { lyric: CollectionEntry<"lyrics"> }
+const { lyric } = Astro.props as Props;
+const { data } = lyric;
+const category = getLyricKalamType(data);
+const displayHaal = data.romanHaal?.trim() || data.haal;
+---
+<header class="lyric-header">
+      <ReaderSubnav ariaLabel="Lyric navigation" items={[
+        { label: `← ${category}`, href: `/categories/${slugifyKalamType(category)}/` },
+        ...(data.cover ? [{ label: "Original lyric sheet", href: data.cover }] : []),
+      ]} />
+
+      <div class="lyric-header-title-row">
+        <div class="lyric-title-block">
+           <h1
+            class="kalam-reading-title"
+            lang={data.lang}
+            dir={data.direction}
+            data-pagefind-meta="title"
+          >
+            {data.title}
+          </h1>
+
+          {
+            data.alternateTitle && (
+              <p class="alternate-title kalam-reading-title" lang="en" dir="ltr">
+                {data.alternateTitle}
+              </p>
+            )
+          }
+        </div>
+
+        <div class="lyric-header-actions" data-pagefind-ignore>
+           <FavoriteButton lyricId={lyric.id} />
+           <button type="button" class="lyric-correction-action" data-correction-open data-source-id={lyric.id}>Suggest correction</button>
+           <a class="lyric-add-recitation" href={`/recite/?add=${encodeURIComponent("lyric:" + lyric.id)}`}>Add to set</a>
+        </div>
+      </div>
+
+      <details class="lyric-metadata-disclosure">
+        <summary><strong>About this kalam</strong>{displayHaal && <span>{displayHaal}</span>}{data.poet && <span>· {data.poet}</span>}</summary>
+      <dl class="lyric-details">
+        <div>
+          <dt>Language</dt>
+          <dd>
+            <a href={searchUrl({ collection: "Lyrics", language: data.language })}>
+              {data.language}
+            </a>
+          </dd>
+        </div>
+
+         {
+          displayHaal && (
+            <div>
+              <dt>Haal</dt>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", haal: displayHaal })}>
+                  {displayHaal}
+                </a>
+              </dd>
+            </div>
+          )
+        }
+
+        {
+          data.poet && (
+            <div>
+              <dt>Poet</dt>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", poet: data.poet })}>
+                  {data.poet}
+                </a>
+              </dd>
+            </div>
+          )
+        }
+
+        {
+          data.reciter && (
+            <div>
+              <dt>Reciter</dt>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", reciter: data.reciter })}>
+                  {data.reciter}
+                </a>
+              </dd>
+            </div>
+          )
+        }
+
+        {
+          data.occasion && (
+            <div>
+              <dt>Occasion</dt>
+              <dd>
+                <a href={searchUrl({ collection: "Lyrics", occasion: data.occasion })}>
+                  {data.occasion}
+                </a>
+              </dd>
+            </div>
+          )
+        }
+
+        {
+          data.year && (
+            <div>
+              <dt>Year</dt>
+              <dd>{data.year}</dd>
+            </div>
+          )
+        }
+      </dl>
+      </details>
+
+    </header>

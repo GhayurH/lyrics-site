@@ -1,0 +1,229 @@
+/* Theme palettes and validated custom overrides.
+   Shared dimensions and reading typography remain in tokens.css. */
+/* Auto uses the same light palette until the device requests Dark. */
+html[data-theme="light"],
+html[data-theme="auto"] {
+  color-scheme: light;
+  --site-background: var(--preset-light-main);
+  --surface-background: var(--preset-light-surface);
+  --header-background: rgb(255 255 255 / 0.92);
+  --primary-text: var(--preset-light-ink);
+  --secondary-text: #66666b;
+  --border-colour: #dddddf;
+  --tag-background: #ececef;
+  --accent-color: var(--preset-light-ink);
+  --button-text: #ffffff;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --site-background: var(--preset-dark-main);
+  --surface-background: var(--preset-dark-surface);
+  --header-background: var(--preset-dark-header);
+  --primary-text: var(--preset-dark-ink);
+  --secondary-text: var(--preset-dark-muted);
+  --border-colour: var(--preset-dark-border);
+  --tag-background: var(--preset-dark-tag);
+  --accent-color: var(--preset-dark-ink);
+  --button-text: var(--preset-dark-button);
+}
+
+/* Override Auto only under a dark device preference. These declarations
+   mirror the canonical Dark preset; the Light/Auto base is shared above. */
+@media (prefers-color-scheme: dark) {
+  html[data-theme="auto"] {
+  color-scheme: dark;
+  --site-background: var(--preset-dark-main);
+  --surface-background: var(--preset-dark-surface);
+  --header-background: var(--preset-dark-header);
+  --primary-text: var(--preset-dark-ink);
+  --secondary-text: var(--preset-dark-muted);
+  --border-colour: var(--preset-dark-border);
+  --tag-background: var(--preset-dark-tag);
+  --accent-color: var(--preset-dark-ink);
+  --button-text: var(--preset-dark-button);
+  }
+}
+
+/* Pure-black OLED reading mode: no raised grey reading surfaces. */
+html[data-theme="amoled"] {
+  color-scheme: dark;
+  --site-background: var(--preset-amoled-main);
+  --surface-background: var(--preset-amoled-main);
+  --header-background: rgb(0 0 0 / .96);
+  --primary-text: var(--preset-amoled-ink);
+  --secondary-text: #b5b5b5;
+  --border-colour: #333333;
+  --tag-background: #181818;
+  --accent-color: var(--preset-amoled-ink);
+  --button-text: #000000;
+}
+
+/* Sepia stays warm across the page, cards, controls, and reader surfaces. */
+html[data-theme="sepia"] {
+  color-scheme: light;
+  --site-background: var(--preset-sepia-main);
+  --surface-background: var(--preset-sepia-surface);
+  --header-background: rgb(251 244 230 / .94);
+  --primary-text: var(--preset-sepia-ink);
+  --secondary-text: #6b5947;
+  --border-colour: #d5c4a8;
+  --tag-background: #eadcc5;
+  --accent-color: var(--preset-sepia-accent);
+  --button-text: #ffffff;
+}
+
+html[data-theme="paper"] {
+  color-scheme: light;
+  --site-background: var(--preset-paper-main);
+  --surface-background: var(--preset-paper-surface);
+  --header-background: var(--preset-paper-surface);
+  --primary-text: var(--preset-paper-ink);
+  --secondary-text: var(--preset-paper-muted);
+  --border-colour: var(--preset-paper-border);
+  --tag-background: var(--preset-paper-tag);
+  --accent-color: var(--preset-paper-accent);
+  --button-text: var(--preset-paper-button);
+}
+
+html[data-theme="clay"] {
+  color-scheme: light;
+  --site-background: var(--preset-clay-main);
+  --surface-background: var(--preset-clay-surface);
+  --header-background: var(--preset-clay-surface);
+  --primary-text: var(--preset-clay-ink);
+  --secondary-text: var(--preset-clay-muted);
+  --border-colour: var(--preset-clay-border);
+  --tag-background: var(--preset-clay-tag);
+  --accent-color: var(--preset-clay-accent);
+  --button-text: var(--preset-clay-button);
+}
+
+html[data-theme="rosewood"] {
+  color-scheme: light;
+  --site-background: var(--preset-rosewood-main);
+  --surface-background: var(--preset-rosewood-surface);
+  --header-background: var(--preset-rosewood-surface);
+  --primary-text: var(--preset-rosewood-ink);
+  --secondary-text: var(--preset-rosewood-muted);
+  --border-colour: var(--preset-rosewood-border);
+  --tag-background: var(--preset-rosewood-tag);
+  --accent-color: var(--preset-rosewood-accent);
+  --button-text: var(--preset-rosewood-button);
+}
+
+html[data-theme="sage"] {
+  color-scheme: light;
+  --site-background: var(--preset-sage-main);
+  --surface-background: var(--preset-sage-surface);
+  --header-background: var(--preset-sage-surface);
+  --primary-text: var(--preset-sage-ink);
+  --secondary-text: var(--preset-sage-muted);
+  --border-colour: var(--preset-sage-border);
+  --tag-background: var(--preset-sage-tag);
+  --accent-color: var(--preset-sage-accent);
+  --button-text: var(--preset-sage-button);
+}
+
+html[data-theme="ocean"] {
+  color-scheme: light;
+  --site-background: var(--preset-ocean-main);
+  --surface-background: var(--preset-ocean-surface);
+  --header-background: var(--preset-ocean-surface);
+  --primary-text: var(--preset-ocean-ink);
+  --secondary-text: var(--preset-ocean-muted);
+  --border-colour: var(--preset-ocean-border);
+  --tag-background: var(--preset-ocean-tag);
+  --accent-color: var(--preset-ocean-accent);
+  --button-text: var(--preset-ocean-button);
+}
+
+html[data-theme="slate"] {
+  color-scheme: light;
+  --site-background: var(--preset-slate-main);
+  --surface-background: var(--preset-slate-surface);
+  --header-background: var(--preset-slate-surface);
+  --primary-text: var(--preset-slate-ink);
+  --secondary-text: var(--preset-slate-muted);
+  --border-colour: var(--preset-slate-border);
+  --tag-background: var(--preset-slate-tag);
+  --accent-color: var(--preset-slate-accent);
+  --button-text: var(--preset-slate-button);
+}
+
+html[data-theme="dusk"] {
+  color-scheme: dark;
+  --site-background: var(--preset-dusk-main);
+  --surface-background: var(--preset-dusk-surface);
+  --header-background: var(--preset-dusk-surface);
+  --primary-text: var(--preset-dusk-ink);
+  --secondary-text: var(--preset-dusk-muted);
+  --border-colour: var(--preset-dusk-border);
+  --tag-background: var(--preset-dusk-tag);
+  --accent-color: var(--preset-dusk-accent);
+  --button-text: var(--preset-dusk-button);
+}
+
+html[data-theme="forest"] {
+  color-scheme: dark;
+  --site-background: var(--preset-forest-main);
+  --surface-background: var(--preset-forest-surface);
+  --header-background: var(--preset-forest-surface);
+  --primary-text: var(--preset-forest-ink);
+  --secondary-text: var(--preset-forest-muted);
+  --border-colour: var(--preset-forest-border);
+  --tag-background: var(--preset-forest-tag);
+  --accent-color: var(--preset-forest-accent);
+  --button-text: var(--preset-forest-button);
+}
+
+html[data-theme="plum"] {
+  color-scheme: dark;
+  --site-background: var(--preset-plum-main);
+  --surface-background: var(--preset-plum-surface);
+  --header-background: var(--preset-plum-surface);
+  --primary-text: var(--preset-plum-ink);
+  --secondary-text: var(--preset-plum-muted);
+  --border-colour: var(--preset-plum-border);
+  --tag-background: var(--preset-plum-tag);
+  --accent-color: var(--preset-plum-accent);
+  --button-text: var(--preset-plum-button);
+}
+
+html[data-theme="graphite"] {
+  color-scheme: dark;
+  --site-background: var(--preset-graphite-main);
+  --surface-background: var(--preset-graphite-surface);
+  --header-background: var(--preset-graphite-surface);
+  --primary-text: var(--preset-graphite-ink);
+  --secondary-text: var(--preset-graphite-muted);
+  --border-colour: var(--preset-graphite-border);
+  --tag-background: var(--preset-graphite-tag);
+  --accent-color: var(--preset-graphite-accent);
+  --button-text: var(--preset-graphite-button);
+}
+
+/* Custom colours are supplied as validated six-digit hex values before the
+   first paint. The browser controller derives readable foreground colours. */
+html[data-theme="custom"] {
+  color-scheme: var(--theme-color-scheme, light);
+  --site-background: var(--theme-main, var(--preset-sepia-main));
+  --surface-background: var(--theme-secondary, var(--preset-sepia-surface));
+  --header-background: var(--theme-secondary, var(--preset-sepia-surface));
+  --primary-text: var(--theme-foreground, #25201c);
+  --secondary-text: var(--theme-muted, #51443c);
+  --border-colour: var(--theme-border, var(--theme-border-auto, color-mix(in srgb, var(--primary-text) 22%, var(--site-background))));
+  --tag-background: color-mix(in srgb, var(--site-background) 75%, var(--primary-text));
+  --accent-color: var(--theme-accent, var(--preset-sepia-accent));
+  --button-text: var(--theme-accent-text, #ffffff);
+}
+
+/* The theme editor must stay legible while users preview low-contrast text.
+   Only this dialog overrides the site's semantic foreground/border roles. */
+html[data-theme="custom"] .theme-dialog {
+  --primary-text: var(--theme-editor-text, #171719);
+  --secondary-text: var(--theme-editor-muted, #555555);
+  --border-colour: color-mix(in srgb, var(--primary-text) 26%, var(--surface-background));
+  --ui-border: 1px solid var(--border-colour);
+  color-scheme: var(--theme-editor-scheme, light);
+}

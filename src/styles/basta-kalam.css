@@ -7,7 +7,59 @@
 .basta-kalam-actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .75rem; margin: 1rem 0; }
 .basta-kalam-actions :is(a,button) { min-height: var(--ui-target); padding: .5rem .8rem; background: var(--surface-background); color: var(--primary-text); border: var(--ui-border); border-radius: var(--ui-radius-tight); font: inherit; cursor: pointer; }
 .basta-kalam-actions :is(a,button):focus-visible { outline: var(--focus-ring); }
-.basta-kalam-page .basta-original-page figcaption { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: .5rem; }
+/* The selected scan alone occupies the reading canvas. Explicitly hide
+   inactive links even when global sticky-scan styles display flex anchors. */
+.basta-kalam-scans > a[hidden] { display: none !important; }
+
+/* Previous/Next navigates the printed sources independently of the poem. */
+.basta-kalam-scans > .basta-kalam-scan-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: .45rem;
+  width: 100%;
+  margin-top: .5rem;
+  font-size: .85rem;
+}
+
+.basta-kalam-scan-nav button {
+  min-height: 2.2rem;
+  border: var(--ui-border);
+  border-radius: var(--ui-radius-tight);
+  padding: .3rem .55rem;
+  background: var(--surface-background);
+  color: var(--primary-text);
+  cursor: pointer;
+  font: inherit;
+}
+
+.basta-kalam-scan-nav button:focus-visible { outline: var(--focus-ring); }
+.basta-kalam-scan-nav button:disabled { opacity: .5; cursor: default; }
+.basta-kalam-scan-nav [data-basta-scan-status] {
+  color: var(--secondary-text);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* A sticky figure reserves room for controls; the active image can fill
+   the remainder without growing taller than the viewport. */
+.basta-kalam-scans[data-floating-scan="true"] > a:not([hidden]) {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-height: calc(100% - 3.5rem);
+  min-height: 0;
+}
+.basta-kalam-scans[data-floating-scan="true"] > a:not([hidden]) img {
+  width: auto;
+  max-height: 100%;
+}
+.basta-kalam-scans[data-floating-scan="true"] > .basta-kalam-scan-nav {
+  flex: 0 0 auto;
+}
 
 .basta-kalam-source-map { margin: .7rem 0 1rem; padding: .6rem .85rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); }
 .basta-kalam-source-map summary { cursor: pointer; font-weight: 600; }
@@ -18,12 +70,12 @@
 .basta-kalam-catalog-list li > a { font-size: 1.2rem; font-family: var(--font-urdu); }
 .basta-kalam-catalog-list li > span:last-child { margin-inline-start: auto; color: var(--secondary-text); font-size: .85rem; }
 
-/* Extra printed pages stay in a collapsible, inline scan gallery. */
-.basta-additional-scans { width: 100%; }
-.basta-additional-scans summary { padding: .5rem; cursor: pointer; }
-.basta-additional-scan { padding-block: .5rem 1rem; border-bottom: var(--ui-border); }
-.basta-additional-scan img { display: block; height: auto; max-height: 65dvh; object-fit: contain; margin-inline: auto; }
-.basta-additional-scan > a:last-child { display: block; margin-block: .4rem; }
-
-/* Source anchors highlight the verified printed page, not an unverified pixel region. */
-.basta-kalam-page :is(.basta-original-page > a, .basta-additional-scan > a):target { outline: 3px solid var(--accent-color); outline-offset: .2rem; scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 4rem); }
+/* Source-page anchors scroll the printed scan into view without drawing an
+   artificial outline on top of the scan's own printed decorative border.
+   Keyboard focus indicators remain controlled by the shared accessibility CSS. */
+.basta-kalam-page .basta-original-page > a:target {
+  /* Fragment navigation focuses the anchor in Chromium; avoid the generic
+     focus ring looking like a second border around the printed scan. */
+  outline: 0;
+  scroll-margin-top: calc(var(--site-header-height, var(--site-header-fallback-height)) + 4rem);
+}
