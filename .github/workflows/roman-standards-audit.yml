@@ -1,4 +1,5 @@
 name: One-time Roman corpus standards audit
+# Recheck post-migration sources, metadata and residual exceptions.
 on:
   push:
     branches: [feat/roman-transliteration-standard-2026-11-04]
