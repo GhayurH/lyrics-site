@@ -1,6 +1,6 @@
 ---
 title: "چلے آؤ اے ابنِ مشکل کشا"
-alternateTitle: "Chale Aao Aye Ibn E Mushkil Kusha"
+alternateTitle: "Chale Aao Ae Ibn E Mushkil Kusha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

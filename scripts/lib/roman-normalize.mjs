@@ -94,7 +94,7 @@ export function normalizeRomanMarkdown(content, path = "") {
     const matches = [...line.matchAll(/(?<![\p{L}\p{M}-])(?:Ae|Aye|Ay|Ey|E)(?![\p{L}\p{M}-])/giu)];
     const existing = matches.filter(m => /^ae$/iu.test(m[0]));
     const variants = matches.filter(m => !/^ae$/iu.test(m[0]));
-    if (!variants.length) return line;
+    if (!variants.length || existing.length >= urduCount) return line;
     if (matches.length > urduCount) {
       // If canonical Ae is already present, any extra E may be izafat.
       // Otherwise a line may contain both izafat and an uncorrected vocative.
@@ -187,7 +187,7 @@ export function normalizeRomanMarkdown(content, path = "") {
     ...updated.map((line, i) => original[i].startsWith("  ") ? "  " + line : line),
     ...head.slice(end)].join("\n")
     .replace(/^(alternateTitle|romanHaal): (["']?)(.*?)\2$/gmu,
-      (whole, field, quote, value) => field + ": " + quote +
+      (_whole, field, quote, value) => field + ": " + quote +
         value.replace(/\b(hussain|hassan|kyun)\b/giu, word =>
           cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()])) + quote);
   // Titles have a direct Urdu title available, unlike unrelated metadata.
@@ -195,7 +195,7 @@ export function normalizeRomanMarkdown(content, path = "") {
   const urduTitle = /^title:\s*(?:"([^"]*)"|'([^']*)'|(.+))$/mu.exec(match[1]);
   const printedTitle = urduTitle?.[1] ?? urduTitle?.[2] ?? urduTitle?.[3] ?? "";
   const safeHead = rewrittenHead.replace(/^(alternateTitle:\s*)(["'])(.*?)\2$/gmu,
-    (whole, key, quote, title) =>
+    (_whole, key, quote, title) =>
       key + quote + normalizeVocative(title, printedTitle, path + " alternateTitle") + quote);
   const result = "---\n" + safeHead + "\n---\n" + body;
   return { text: result, changed: result !== content, findings, underlined: repeated,

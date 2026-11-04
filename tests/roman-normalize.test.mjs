@@ -76,7 +76,7 @@ test("vocative standalone E and Ay are Ae only when Urdu spells اے", () => {
   assert(izafat.text.includes("Gham E Akbar"), "a standalone E is not always اے");
   const unclear = normalizeRomanMarkdown(md("اے حسین غمِ اکبر", "Ae Husain Gham E Akbar"));
   assert(unclear.text.includes("Ae Husain Gham E Akbar"));
-  assert(unclear.findings.some(x => x.includes("Ambiguous")));
+  assert.equal(unclear.findings.length, 0, "already-correct Ae must preserve unrelated izafat E");
 });
 
 test("alternate title E is corrected only when source Urdu title uses اے", () => {
@@ -85,4 +85,12 @@ test("alternate title E is corrected only when source Urdu title uses اے", () 
   assert(normalizeRomanMarkdown(source).text.includes('alternateTitle: "Ae Husain"'));
   const izafat = base.replace("title: نام", "title: غمِ حسین\nalternateTitle: \"Gham E Husain\"");
   assert(normalizeRomanMarkdown(izafat).text.includes('alternateTitle: "Gham E Husain"'));
+});
+
+test("mixed vocative and izafat in canonical title stay distinct", () => {
+  const source = md("اے حسین", "Ae Husain")
+    .replace("title: نام", "title: اے حسین ابنِ علی\nalternateTitle: \"Ae Husain Ibn E Ali\"");
+  const result = normalizeRomanMarkdown(source, "src/data/lyrics/sample.md");
+  assert.equal(result.changed, false);
+  assert.deepEqual(result.findings, []);
 });
