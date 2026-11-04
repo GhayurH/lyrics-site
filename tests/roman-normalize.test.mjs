@@ -2,250 +2,338 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { normalizeRomanMarkdown } from "../scripts/lib/roman-normalize.mjs";
 
-const md = (u, r) => "---\ntitle: نام\nromanLyrics: |-\n" +
-  r.split("\n").map(x => x ? "  " + x : "").join("\n") +
-  "\n---\n" + u + "\n";
-test("normalizes only Urdu-verified Roman vowels and nasalization", () => {
-  const source = md("حسین کے خون میں کیوں نہیں ہیں", "Hussain ke khoon mein kyun nahin hain");
-  const { text, paired } = normalizeRomanMarkdown(source, "src/data/lyrics/example.md");
-  assert.equal(paired, 1);
-  assert(text.includes("Husain ke khun meiṅ kiuṅ nahiṅ haiṅ"));
-  assert.equal(text.slice(text.indexOf("---\n", 5) + 4), "حسین کے خون میں کیوں نہیں ہیں\n");
+const md = (urdu, roman) => "---\ntitle: نام\nromanLyrics: |-\n" +
+  roman.split("\n").map(line => line ? "  " + line : "").join("\n") +
+  "\n---\n" + urdu + "\n";
+const normalize = (urdu, roman) => normalizeRomanMarkdown(md(urdu, roman), "src/data/lyrics/sample.md");
+
+/** Every case must produce the expected complete Roman line and a stable result. */
+function assertReading(urdu, input, expected) {
+  const first = normalize(urdu, input);
+  const line = first.text.split("romanLyrics: |-\n")[1]?.split("\n")[0];
+  assert.equal(line, "  " + expected, JSON.stringify({ urdu, input }));
+  const again = normalizeRomanMarkdown(first.text, "src/data/lyrics/sample.md");
+  assert.equal(again.changed, false, "normalization must converge after one pass");
+}
+
+test("Urdu-backed vowels, consonants, nasalization and joined endings", () => {
+  for (const [urdu, input, expected] of [
+      [
+          "حسین کے خون میں کیوں نہیں ہیں",
+          "Hussain ke khoon mein kyun nahin hain",
+          "Husain ke khun meiṅ kiuṅ nahiṅ haiṅ"
+      ],
+      [
+          "جواں وہاں زماں حسین امین",
+          "jawan wahan zaman Husain amin",
+          "jawaṅ wahaṅ zamaṅ Husain amin"
+      ],
+      [
+          "امام زماں",
+          "Imam-e-Zaman",
+          "Imam-e-Zamaṅ"
+      ],
+      [
+          "یوں ہوا رواں",
+          "Youn hua Rawan",
+          "Youṅ hua Rawaṅ"
+      ],
+      [
+          "تڑپ بڑی گھڑی",
+          "tadap badi ghadi",
+          "tarap bari ghari"
+      ],
+      [
+          "دوڑو",
+          "Dauro",
+          "Dauro"
+      ],
+      [
+          "میرے کہنے سے",
+          "Merey Kehney se",
+          "Mere Kehne se"
+      ],
+      [
+          "آئے گئے",
+          "Aaey Gaey",
+          "Aaye Gaye"
+      ],
+      [
+          "ہے",
+          "Haey",
+          "Hai"
+      ],
+      [
+          "بچوں کو ویراں",
+          "bachchon ko viran",
+          "bachchoṅ ko viraaṅ"
+      ],
+      [
+          "کیوں کر ایسا ہوا",
+          "Kyunkar aisa hua",
+          "Kiuṅkar aisa hua"
+      ],
+      [
+          "بچیوں کی آنکھوں",
+          "bachchiyon ki aakhon",
+          "bachchiyoṅ ki aankhoṅ"
+      ],
+      [
+          "گیسوؤں میں",
+          "gaisuo'n meiṅ",
+          "gaisuoṅ meiṅ"
+      ],
+      [
+          "وہ خون رو کے یہ کہتا",
+          "Wo khoon ro ke kehta",
+          "Wo khun ro ke kehta"
+      ],
+      [
+          "ہوں گے",
+          "honge",
+          "hoṅge"
+      ],
+      [
+          "آئیں گے",
+          "aayenge",
+          "aayeṅge"
+      ],
+      [
+          "کہیں گی",
+          "kahengi",
+          "kaheṅgi"
+      ],
+      [
+          "کریں گے",
+          "karenge",
+          "kareṅge"
+      ],
+      [
+          "دیں گے",
+          "denge",
+          "deṅge"
+      ],
+      [
+          "رولیں",
+          "ro len",
+          "ro leṅ"
+      ],
+      [
+          "میں نے",
+          "Maine",
+          "Maiṅ ne"
+      ]
+  ])
+    assertReading(urdu, input, expected);
 });
-test("keeps poem-specific Zehra/Zahra, removes repetition marks and normalizes compounds", () => {
-  const source = md("شب و روز بے وفا بار بار زہرا", "Shab-o-Roz be-wafa bar-bar Zehra");
-  const r = normalizeRomanMarkdown(source);
-  assert(r.text.includes("Shab o Roz bewafa baar baar Zehra"));
-  assert(!r.text.includes("Zahra"));
-  const r2 = normalizeRomanMarkdown(md("زہرا", "Zahra"));
-  assert(r2.text.includes("Zahra"));
-  const r3 = normalizeRomanMarkdown(md("وہ مارتی تھیں", "Wo maarti thin (x2)"));
-  assert(r3.text.includes("Wo maarti thiṅ\n---\n"));
-  assert.equal(r3.removedRepetitions, 1);
-  const mid = normalizeRomanMarkdown(md("وہ مارتی تھیں سکینہ کو", "Wo maarti thin (x2) Sakina ko"));
-  assert(mid.text.includes("Wo maarti thiṅ, Sakina ko"));
-  assert.equal(mid.removedRepetitions, 1);
-  const start = normalizeRomanMarkdown(md("وہ مارتی تھیں", "(x2) Wo maarti thin"));
-  assert(start.text.includes("Wo maarti thiṅ\n---\n"));
-  assert(!mid.text.includes("(x2)"));
-  assert(!mid.text.includes("<u>"));
+
+test("Phonetic ayn/hamza substitutions work in Urdu and Arabic quotations", () => {
+  for (const [urdu, input, expected] of [
+      [
+          "قطعات",
+          "Qita'aat",
+          "Qitaat"
+      ],
+      [
+          "قطعہ",
+          "Qit'a",
+          "Qita"
+      ],
+      [
+          "زعفر",
+          "Za'far",
+          "Zafar"
+      ],
+      [
+          "شفاعت",
+          "shafa’at",
+          "shafaat"
+      ],
+      [
+          "معذور",
+          "Ma’zur",
+          "Maazur"
+      ],
+      [
+          "تعجیل",
+          "ta’jil",
+          "taajil"
+      ],
+      [
+          "جھکتی",
+          "jhuk'ti",
+          "jhukti"
+      ],
+      [
+          "اٹھتا",
+          "uth'ta",
+          "uthta"
+      ],
+      [
+          "سائلوں",
+          "Sa'ilon",
+          "Sailoṅ"
+      ],
+      [
+          "لعینوں",
+          "la'inon",
+          "lainoṅ"
+      ],
+      [
+          "ساعت",
+          "Saa’at",
+          "Saaat"
+      ],
+      [
+          "يَا سَرِيعَ الرِّضَا",
+          "Ya Sari'ar-Riza",
+          "Ya Saria-r-Riza"
+      ],
+      [
+          "الدُّعَاءَ",
+          "Du'a",
+          "Duaa"
+      ],
+      [
+          "فَعَّالٌ",
+          "Fa''alun",
+          "Faaalun"
+      ],
+      [
+          "تَشَاءُ",
+          "Tasha'",
+          "Tashaa"
+      ],
+      [
+          "دَوَاءٌ",
+          "Dawa'un",
+          "Dawaaun"
+      ],
+      [
+          "شِفَاءٌ",
+          "Shifa'un",
+          "Shifaaun"
+      ],
+      [
+          "طَاعَتُهُ",
+          "Ta'atuhu",
+          "Taaatuhu"
+      ],
+      [
+          "ائِمّہ",
+          "A'imma",
+          "Aimma"
+      ],
+      [
+          "شیعیان",
+          "Shia'an",
+          "Shiaan"
+      ],
+      [
+          "اَسئَلُکُم",
+          "as'alukum",
+          "asalukum"
+      ],
+      [
+          "السَّمَاءُ",
+          "s-sama'u",
+          "s-samaau"
+      ],
+      [
+          "وُقُوعُ",
+          "Wuq'u",
+          "Wuqua"
+      ],
+      [
+          "گلعِزار",
+          "gul'izaar",
+          "gulaizaar"
+      ]
+  ])
+    assertReading(urdu, input, expected);
+  assertReading("یاعلی کی", "'Ya Ali' ki", "'Ya Ali' ki");
+  assertReading("شاعری", "Qit'a", "Qit'a"); // Different source word: no guessed edit
 });
-test("preserves intentionally untranscribed Basta and flags missing standalone Roman", () => {
-  const source = "---\npage: 140\n---\nاردو\n";
-  const a = normalizeRomanMarkdown(source, "src/data/basta/pages/140.md");
+
+test("Canonically spelled words are not rewritten by misleading Urdu token positions", () => {
+  assertReading("جو دعا کی تھی علی نے اس کے مقصد کی آمین",
+    "Jo dua ki thi Ali ne us ke maqsad ki amin",
+    "Jo dua ki thi Ali ne us ke maqsad ki amin");
+  assertReading("کہاں ہے میرا حسین", "Kahan hai mera Husain", "Kahaṅ hai mera Husain");
+  assertReading("بچن اپنا", "bachchon apna", "bachchon apna");
+  assertReading("امن میں", "aman meiṅ", "aman meiṅ");
+  assertReading("ہونہ", "honge", "honge");
+  assertReading("زہرا", "Zahra", "Zahra");
+});
+
+test("Vocative Ae and explicitly marked izafat are distinct", () => {
+  for (const [urdu, input, expected] of [
+    ["اے فرضی باپ کے بیٹوں", "E farzi baap ke betoṅ", "Ae farzi baap ke betoṅ"],
+    ["چلے آؤ اے ابن", "Chale aao e Ibn", "Chale aao ae Ibn"],
+    ["اے مولا", "Ay Maula", "Ae Maula"],
+    ["غمِ اکبر میں", "Gham E Akbar meiṅ", "Gham-e-Akbar meiṅ"],
+    ["غم اکبر میں", "Gham E Akbar meiṅ", "Gham E Akbar meiṅ"],
+    ["اے حسین غمِ اکبر", "Ae Husain Gham E Akbar", "Ae Husain Gham-e-Akbar"],
+  ]) assertReading(urdu, input, expected);
+});
+
+test("Compound boundaries, poem-specific name readings and (x2) notation", () => {
+  assertReading("شب و روز بے وفا بار بار زہرا",
+    "Shab-o-Roz be-wafa bar-bar Zehra", "Shab o Roz bewafa baar baar Zehra");
+  assertReading("بار بار", "baar-baar", "baar baar");
+  for (const [urdu, input, expected] of [
+    ["وہ مارتی تھیں", "Wo maarti thin (x2)", "Wo maarti thiṅ"],
+    ["وہ مارتی تھیں", "(x2) Wo maarti thin", "Wo maarti thiṅ"],
+    ["وہ مارتی تھیں سکینہ کو", "Wo maarti thin (x2) Sakina ko", "Wo maarti thiṅ, Sakina ko"],
+  ]) {
+    const result = normalize(urdu, input);
+    const line = result.text.split("romanLyrics: |-\n")[1]?.split("\n")[0];
+    assert.equal(line, "  " + expected);
+    assert.equal(result.removedRepetitions, 1);
+    assert(!/<\/?u>|\(x2\)/iu.test(result.text));
+  }
+});
+
+test("Roman titles, haal and accessible captions use the same spelling policy", () => {
+  const source = md("میرے امام زماں", "Mere Imam-e-Zaman").replace(
+    "title: نام", [
+      'title: "میرے امام زماں"',
+      'alternateTitle: "Mere Imam Zaman"',
+      'coverAlt: "Cover image for Mere Imam Zaman"',
+      'haal: "امام زماں"',
+      'romanHaal: "Imam Zaman"',
+      'aliases:',
+      '  - "Mere Imam Zaman"',
+    ].join("\n"));
+  const result = normalizeRomanMarkdown(source, "src/data/lyrics/sample.md");
+  assert(result.text.includes('alternateTitle: "Mere Imam Zamaṅ"'));
+  assert(result.text.includes('coverAlt: "Cover image for Mere Imam Zamaṅ"'));
+  assert(result.text.includes('romanHaal: "Imam Zamaṅ"'));
+  assert(result.text.includes('  - "Mere Imam Zaman"'), "historical search aliases are immutable");
+  const vocative = md("اے حسین", "Ae Husain").replace("title: نام",
+    'title: "اے حسین"\nalternateTitle: "E Husain"');
+  assert(normalizeRomanMarkdown(vocative).text.includes('alternateTitle: "Ae Husain"'));
+  const izafat = md("غمِ حسین", "Gham E Husain").replace("title: نام",
+    'title: "غمِ حسین"\nalternateTitle: "Gham E Husain"');
+  assert(normalizeRomanMarkdown(izafat).text.includes('alternateTitle: "Gham-e-Husain"'));
+  const mixed = md("اے حسین ابنِ علی", "Ae Husain Ibn E Ali").replace("title: نام",
+    'title: "اے حسین ابنِ علی"\nalternateTitle: "Ae Husain Ibn E Ali"');
+  assert(normalizeRomanMarkdown(mixed).text.includes('alternateTitle: "Ae Husain Ibn-e-Ali"'));
+});
+
+test("Source scope prevents overwriting missing Basta translations or English appendices", () => {
+  const missing = "---\npage: 140\n---\nاردو\n";
+  const a = normalizeRomanMarkdown(missing, "src/data/basta/pages/140.md");
   assert.equal(a.changed, false);
   assert.deepEqual(a.findings, []);
-  const b = normalizeRomanMarkdown(source, "src/data/lyrics/sample.md");
-  assert(b.findings.some(x => x.includes("no Roman")));
-});
-
-test("long u and i remain standard even when Roman word counts differ", () => {
-  const s = md("وہ خون رو کے یہ کہتا", "Wo khoon ro ke kehta");
-  const r = normalizeRomanMarkdown(s);
-  assert(r.text.includes("Wo khun ro ke kehta"));
-  const repeated = normalizeRomanMarkdown(md("بار بار", "baar-baar"));
-  assert(repeated.text.includes("baar baar"));
-});
-
-test("English Basta appendices are exact untouched duplicates", () => {
-  const content = "---\npage: 471\ncontentKind: english-appendix\nromanLyrics: |-\n" +
+  assert(normalizeRomanMarkdown(missing, "src/data/lyrics/sample.md")
+    .findings.some(finding => finding.includes("no Roman")));
+  const appendix = "---\npage: 471\ncontentKind: english-appendix\nromanLyrics: |-\n" +
     "  Schoolbook example\n---\nSchoolbook example\n";
-  const result = normalizeRomanMarkdown(content, "src/data/basta/pages/471.md");
-  assert.equal(result.text, content);
-  assert.equal(result.changed, false);
-});
-
-test("normal noon is never nasalized by misleading token positions", () => {
-  const safe = md("جو دعا کی تھی علی نے اس کے مقصد کی آمین",
-    "Jo dua ki thi Ali ne us ke maqsad ki amin");
-  const r = normalizeRomanMarkdown(safe);
-  assert(r.text.includes("ki amin"), "آمین ends in normal ن");
-  assert(!r.text.includes("amiṅ"));
-  const mixed = md("کہاں ہے میرا حسین", "Kahan hai mera Husain");
-  const mixedResult = normalizeRomanMarkdown(mixed);
-  assert(mixedResult.text.includes("Kahaṅ hai mera Husain"));
-  assert(!mixedResult.text.includes("Husaiṅ"));
-});
-
-test("vocative standalone E and Ay are Ae only when Urdu spells اے", () => {
-  const matching = md("اے فرضی باپ کے بیٹوں", "E farzi baap ke betoṅ");
-  const corrected = normalizeRomanMarkdown(matching);
-  assert(corrected.text.includes("Ae farzi baap ke betoṅ"));
-  const lower = normalizeRomanMarkdown(md("چلے آؤ اے ابن", "Chale aao e Ibn"));
-  assert(lower.text.includes("Chale aao ae Ibn"));
-  const older = normalizeRomanMarkdown(md("اے مولا", "Ay Maula"));
-  assert(older.text.includes("Ae Maula"));
-  const izafat = normalizeRomanMarkdown(md("غمِ اکبر میں", "Gham E Akbar meiṅ"));
-  assert(izafat.text.includes("Gham-e-Akbar"), "izafat E is not the Urdu vocative اے");
-  const unclear = normalizeRomanMarkdown(md("اے حسین غمِ اکبر", "Ae Husain Gham E Akbar"));
-  assert(unclear.text.includes("Ae Husain Gham-e-Akbar"));
-  assert.equal(unclear.findings.length, 0, "already-correct Ae must preserve unrelated izafat E");
-});
-
-test("alternate title E is corrected only when source Urdu title uses اے", () => {
-  const base = md("اے حسین", "Ae Husain");
-  const source = base.replace("title: نام", "title: اے حسین\nalternateTitle: \"E Husain\"");
-  assert(normalizeRomanMarkdown(source).text.includes('alternateTitle: "Ae Husain"'));
-  const izafat = base.replace("title: نام", "title: غمِ حسین\nalternateTitle: \"Gham E Husain\"");
-  assert(normalizeRomanMarkdown(izafat).text.includes('alternateTitle: "Gham-e-Husain"'));
-});
-
-test("mixed vocative and izafat in canonical title stay distinct", () => {
-  const source = md("اے حسین", "Ae Husain")
-    .replace("title: نام", "title: اے حسین ابنِ علی\nalternateTitle: \"Ae Husain Ibn E Ali\"");
-  const result = normalizeRomanMarkdown(source, "src/data/lyrics/sample.md");
-  assert(result.text.includes('alternateTitle: "Ae Husain Ibn-e-Ali"'));
-  assert.deepEqual(result.findings, []);
-});
-
-
-test("normalizes matching noon-ghunna without corrupting ordinary noon", () => {
-  const source = md("جواں وہاں زماں حسین امین", "jawan wahan zaman Husain amin");
-  const after = normalizeRomanMarkdown(source).text;
-  assert(after.includes("jawaṅ wahaṅ zamaṅ Husain amin"), after);
-  const compounds = normalizeRomanMarkdown(md("امام زماں", "Imam-e-Zaman"));
-  assert(compounds.text.includes("Imam-e-Zamaṅ"));
-  const vowels = normalizeRomanMarkdown(md("یوں ہوا رواں", "Youn hua Rawan"));
-  assert(vowels.text.includes("Youṅ hua Rawaṅ"), vowels.text);
-});
-
-test("transliterates Urdu ڑ as r without replacing other d consonants", () => {
-  const one = normalizeRomanMarkdown(md("تڑپ بڑی گھڑی", "tadap badi ghadi"));
-  assert(one.text.includes("tarap bari ghari"), one.text);
-  const distinct = normalizeRomanMarkdown(md("دوڑو", "Dauro"));
-  assert(distinct.text.includes("Dauro"));
-});
-
-test("normalizes ye endings only against corresponding Urdu word", () => {
-  const r = normalizeRomanMarkdown(md("میرے کہنے سے", "Merey Kehney se"));
-  assert(r.text.includes("Mere Kehne se"), r.text);
-  const s = normalizeRomanMarkdown(md("آئے گئے", "Aaey Gaey"));
-  assert(s.text.includes("Aaye Gaye"), s.text);
-  const h = normalizeRomanMarkdown(md("ہے", "Haey"));
-  assert(h.text.includes("Hai"), h.text);
-});
-
-test("izafat is joined only when the Urdu has the explicit kasra", () => {
-  const source = md("غمِ اکبر میں", "Gham E Akbar meiṅ");
-  assert(normalizeRomanMarkdown(source).text.includes("Gham-e-Akbar meiṅ"));
-  const unmarked = md("غم اکبر میں", "Gham E Akbar meiṅ");
-  assert(normalizeRomanMarkdown(unmarked).text.includes("Gham E Akbar meiṅ"));
-  const title = md("بوقتِ عصر صدا", "Bawaqt E Asr Sada")
-    .replace("title: نام", 'title: "بوقتِ عصر صدا"\nalternateTitle: "Bawaqt E Asr Sada"');
-  assert(normalizeRomanMarkdown(title).text.includes('alternateTitle: "Bawaqt-e-Asr Sada"'));
-});
-test("roman titles receive the same source-backed nasal and vowel rules", () => {
-  const doc = md("امام زماں", "Imam Zaman")
-    .replace("title: نام", 'title: "امام زماں"\nalternateTitle: "Imam Zaman"');
-  assert(normalizeRomanMarkdown(doc).text.includes('alternateTitle: "Imam Zamaṅ"'));
-});
-
-
-test("source-backed nasal inflections cover compounds without changing normal noon", () => {
-  const a = normalizeRomanMarkdown(md("بچوں کو ویراں", "bachchon ko viran"));
-  assert(a.text.includes("bachchoṅ ko viraaṅ"), a.text);
-  const b = normalizeRomanMarkdown(md("کیوں کر ایسا ہوا", "Kyunkar aisa hua"));
-  assert(b.text.includes("Kiuṅkar aisa hua"), b.text);
-  const c = normalizeRomanMarkdown(md("بچیوں کی آنکھوں", "bachchiyon ki aakhon"));
-  assert(c.text.includes("bachchiyoṅ ki aankhoṅ"), c.text);
-  const normal = normalizeRomanMarkdown(md("بچن اپنا", "bachchon apna"));
-  assert(normal.text.includes("bachchon apna"), normal.text);
-});
-
-test("Roman apostrophe+n nasal is removed only with a nasal Urdu source", () => {
-  const a = normalizeRomanMarkdown(md("گیسوؤں میں", "gaisuo'n meiṅ"));
-  assert(a.text.includes("gaisuoṅ meiṅ"), a.text);
-  const b = normalizeRomanMarkdown(md("امن میں", "aman meiṅ"));
-  assert(b.text.includes("aman meiṅ"), b.text);
-});
-
-
-test("Urdu-backed scholarly apostrophes become plain Roman vowels", () => {
-  const cases = [
-    ["قطعات", "Qita'aat", "Qitaat"],
-    ["قطعہ", "Qit'a", "Qita"],
-    ["زعفر", "Za'far", "Zafar"],
-    ["شفاعت", "shafa’at", "shafaat"],
-    ["معذور", "Ma’zur", "Maazur"],
-    ["تعجیل", "ta’jil", "taajil"],
-    ["جھکتی", "jhuk'ti", "jhukti"],
-    ["اٹھتا", "uth'ta", "uthta"],
-    ["سائلوں", "Sa'ilon", "Sailoṅ"],
-  ];
-  for (const [urdu, old, canonical] of cases) {
-    const result = normalizeRomanMarkdown(md(urdu, old), "src/data/lyrics/ex.md");
-    assert(result.text.includes("  " + canonical), JSON.stringify({ urdu, old, result: result.text }));
-  }
-  assert(normalizeRomanMarkdown(md("شاعری", "Qit'a")).text.includes("Qit'a"),
-    "Do not replace a different Urdu word with guessed phonetics");
-});
-
-
-test("displayed Roman titles also normalize generic accessible cover labels", () => {
-  const src = md("میرے امام زماں", "Mere Imam-e-Zaman")
-    .replace("title: نام",
-      'title: "میرے امام زماں"\nalternateTitle: "Mere Imam Zaman"\n' +
-      'coverAlt: "Cover image for Mere Imam Zaman"\n' +
-      'aliases:\n  - "Mere Imam Zaman"');
-  const x = normalizeRomanMarkdown(src, "src/data/lyrics/test.md");
-  assert(x.text.includes('alternateTitle: "Mere Imam Zamaṅ"'));
-  assert(x.text.includes('coverAlt: "Cover image for Mere Imam Zamaṅ"'));
-  assert(x.text.includes('  - "Mere Imam Zaman"'), "historical aliases remain searchable");
-});
-test("romanHaal uses Urdu haal and preserves independent metadata", () => {
-  const src = md("اردو", "Roman").replace("title: نام",
-    'title: "اردو"\nhaal: "امام زماں"\nromanHaal: "Imam Zaman"');
-  assert(normalizeRomanMarkdown(src).text.includes('romanHaal: "Imam Zamaṅ"'));
-});
-
-
-test("source-backed Arabic and Urdu ayn/hamza spellings use a, not apostrophes", () => {
-  const examples = [
-    ["لعینوں", "la'inon", "lainoṅ"],
-    ["ساعت", "Saa’at", "Saaat"],
-    ["يَا سَرِيعَ الرِّضَا", "Ya Sari'ar-Riza", "Ya Saria-r-Riza"],
-    ["الدُّعَاءَ", "Du'a", "Duaa"],
-    ["فَعَّالٌ", "Fa''alun", "Faaalun"],
-    ["تَشَاءُ", "Tasha'", "Tashaa"],
-    ["دَوَاءٌ", "Dawa'un", "Dawaaun"],
-    ["شِفَاءٌ", "Shifa'un", "Shifaaun"],
-    ["طَاعَتُهُ", "Ta'atuhu", "Taaatuhu"],
-    ["ائِمّہ", "A'imma", "Aimma"],
-    ["شیعیان", "Shia'an", "Shiaan"],
-  ];
-  for (const [urdu, input, expected] of examples) {
-    const result = normalizeRomanMarkdown(md(urdu, input), "src/data/basta/pages/999.md");
-    assert(result.text.includes("  " + expected), JSON.stringify({urdu,input,actual:result.text}));
-  }
-  const quoted = normalizeRomanMarkdown(md("یاعلی کی", "'Ya Ali' ki"));
-  assert(quoted.text.includes("'Ya Ali' ki"), "quoted speech is not Arabic transliteration markup");
-});
-
-
-test("source-backed joined nasal verb endings have dotted n", () => {
-  for (const [urdu, old, corrected] of [
-    ["ہوں گے", "honge", "hoṅge"],
-    ["آئیں گے", "aayenge", "aayeṅge"],
-    ["کہیں گی", "kahengi", "kaheṅgi"],
-    ["کریں گے", "karenge", "kareṅge"],
-    ["دیں گے", "denge", "deṅge"],
-    ["رولیں", "ro len", "ro leṅ"],
-    ["میں نے", "Maine", "Maiṅ ne"],
-  ]) {
-    const result = normalizeRomanMarkdown(md(urdu, old), "src/data/lyrics/sample.md");
-    assert(result.text.includes("  " + corrected), JSON.stringify({urdu,old,actual:result.text}));
-  }
-  const ordinary = normalizeRomanMarkdown(md("ہونہ", "honge"));
-  assert(ordinary.text.includes("honge"));
-});
-test("Arabic excerpts preserve vowel reading without scholarly apostrophes", () => {
-  for (const [urdu, roman, expected] of [
-    ["اَسئَلُکُم", "as'alukum", "asalukum"],
-    ["السَّمَاءُ", "s-sama'u", "s-samaau"],
-    ["وُقُوعُ", "Wuq'u", "Wuqua"],
-    ["گلعِزار", "gul'izaar", "gulaizaar"],
-  ]) {
-    const result = normalizeRomanMarkdown(md(urdu, roman));
-    assert(result.text.includes("  " + expected), JSON.stringify({urdu,roman,result:result.text}));
-  }
+  assert.equal(normalizeRomanMarkdown(appendix, "src/data/basta/pages/471.md").text, appendix);
+  const urdu = "حسین کے خون میں کیوں نہیں ہیں";
+  const source = md(urdu, "Hussain ke khoon mein kyun nahin hain");
+  const changed = normalizeRomanMarkdown(source, "src/data/lyrics/sample.md");
+  assert.equal(changed.paired, 1);
+  assert(changed.text.endsWith("---\n" + urdu + "\n"), "never edit authoritative Urdu");
 });
