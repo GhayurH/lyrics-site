@@ -55,7 +55,7 @@ romanLyrics: |-
   Saghir haaye Saghir
   Saghir-e-Karbala, ae kushta-e-jafa
   Kisi ki dushmani, hai tum se kya bhala
-  Tumhara sin abhi, nahin hai jang ka
+  Tumhara sin abhi, nahiṅ hai jang ka
   Qaza ka tir hai, ba dast-e-Harmala
   Tumhara phul se, bhi narm hai gala
   Rubab kis tarah, karegi hausla
@@ -103,7 +103,7 @@ romanLyrics: |-
 
   6
   Gayi thi saath tumhare, Sakina Karbal meiṅ
-  Kahaaṅ hai bhaiya mujhe kiuṅ, nazar nahin aati
+  Kahaaṅ hai bhaiya mujhe kiuṅ, nazar nahiṅ aati
   Bimar Sughra yeh, Abid se puchhti hogi
 
   7
