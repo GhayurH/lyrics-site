@@ -1,0 +1,51 @@
+# Temporary one-time migration; remove after corpus changes are committed.
+name: Roman Urdu source migration
+on:
+  push:
+    branches:
+      - feat/roman-transliteration-standard-2026-11-04
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - name: Apply Urdu-backed spelling normalizer
+        run: npm run --silent roman:sync > roman-migration-report.json
+      - name: Sync dependent source metadata and permanent identities
+        run: npm run source:sync
+      - name: Check normalized source is stable
+        run: npm run roman:check
+      - name: Verify TypeScript and Astro
+        run: npm run check
+      - name: Build with source and unit tests
+        run: npm run build
+      - name: Publish reviewed automatic source adjustments to feature branch
+        shell: bash
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/lyrics src/data/basta src/data/recitation
+          if ! git diff --cached --quiet; then
+            git commit -m "Apply conservative Roman Urdu source normalization"
+            git push origin HEAD:refs/heads/feat/roman-transliteration-standard-2026-11-04
+          fi
+      - name: Preserve corpus migration findings
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: roman-migration-report
+          path: roman-migration-report.json
+          if-no-files-found: ignore
+          retention-days: 7
