@@ -97,3 +97,30 @@ test("mixed vocative and izafat in canonical title stay distinct", () => {
   assert.equal(result.changed, false);
   assert.deepEqual(result.findings, []);
 });
+
+
+test("normalizes matching noon-ghunna without corrupting ordinary noon", () => {
+  const source = md("جواں وہاں زماں حسین امین", "jawan wahan zaman Husain amin");
+  const after = normalizeRomanMarkdown(source).text;
+  assert(after.includes("jawaṅ wahaṅ zamaṅ Husain amin"), after);
+  const compounds = normalizeRomanMarkdown(md("امام زماں", "Imam-e-Zaman"));
+  assert(compounds.text.includes("Imam-e-Zamaṅ"));
+  const vowels = normalizeRomanMarkdown(md("یوں ہوا رواں", "Youn hua Rawan"));
+  assert(vowels.text.includes("Youṅ hua Rawaṅ"), vowels.text);
+});
+
+test("transliterates Urdu ڑ as r without replacing other d consonants", () => {
+  const one = normalizeRomanMarkdown(md("تڑپ بڑی گھڑی", "tadap badi ghadi"));
+  assert(one.text.includes("tarap bari ghari"), one.text);
+  const distinct = normalizeRomanMarkdown(md("دوڑو", "Dauro"));
+  assert(distinct.text.includes("Dauro"));
+});
+
+test("normalizes ye endings only against corresponding Urdu word", () => {
+  const r = normalizeRomanMarkdown(md("میرے کہنے سے", "Merey Kehney se"));
+  assert(r.text.includes("Mere Kehne se"), r.text);
+  const s = normalizeRomanMarkdown(md("آئے گئے", "Aaey Gaey"));
+  assert(s.text.includes("Aaye Gaye"), s.text);
+  const h = normalizeRomanMarkdown(md("ہے", "Haey"));
+  assert(h.text.includes("Hai"), h.text);
+});
