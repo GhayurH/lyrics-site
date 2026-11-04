@@ -54,8 +54,23 @@ export function normalizeRomanMarkdown(content, path = "") {
     const vowelMarks = /[\u064B-\u065F\u0670\u06D6-\u06ED]/gu;
     const romanSkeleton = word => word.toLowerCase().replaceAll("ṅ", "n")
       .replaceAll("Ṅ", "n").replace(/[^a-z]/gu, "").replace(/[aeiou]/gu, "");
-    const urduSkeleton = word => [...plain(word).replace(vowelMarks, "")]
-      .map(ch => consonants[ch] || "").join("");
+    // و and ی can be either glides or vowels; compare both skeletons.
+    // Prefer spellings that retain more consonantal evidence.
+    const urduSkeletons = word => {
+      const options = [{ value: "", omissions: 0 }];
+      for (const ch of [...plain(word).replace(vowelMarks, "")]) {
+        const value = consonants[ch] || "";
+        for (const option of options) option.value += value;
+        if (/[ویےؤئ]/u.test(ch) && value && options.length < 16) {
+          const added = options.slice(0, 8).map(option => ({
+            value: option.value.slice(0, -value.length),
+            omissions: option.omissions + 1,
+          })).filter(option => option.omissions <= 2);
+          options.push(...added);
+        }
+      }
+      return options;
+    };
     const distance = (a, b) => {
       if (Math.abs(a.length - b.length) > 2) return 3;
       const rows = Array.from({ length: b.length + 1 }, (_, j) => j);
@@ -73,7 +88,7 @@ export function normalizeRomanMarkdown(content, path = "") {
     const sources = [...urdu.matchAll(/[\p{Script=Arabic}\p{M}\u200C]+/gu)]
       .map(m => ({
         text: plain(m[0]).replace(vowelMarks, ""),
-        skeleton: urduSkeleton(m[0]),
+        skeletons: urduSkeletons(m[0]),
         position: (m.index + m[0].length / 2) / Math.max(urdu.length, 1),
       }));
     const latin = [...line.matchAll(/[A-Za-zṅṄ]+/gu)];
@@ -87,7 +102,7 @@ export function normalizeRomanMarkdown(content, path = "") {
       const stem = romanSkeleton(word);
       const pos = (m.index + word.length / 2) / Math.max(line.length, 1);
       const ranked = sources.flatMap(source => {
-        if (!source.skeleton || !stem) return [];
+        if (!source.skeletons.length || !stem) return [];
         const options = [{ candidate: word, retroflex: false }];
         // Only replace a d which actually corresponds to Urdu ڑ. Initial
         // d in دوڑ / daur represents د and must never become r.
@@ -98,17 +113,16 @@ export function normalizeRomanMarkdown(content, path = "") {
         let best = null;
         for (const option of options) {
           const candidateStem = romanSkeleton(option.candidate);
-          const d = distance(candidateStem, source.skeleton);
-          // Final ی/ے often spells a vowel: it need not appear as a
-          // consonantal y in the Roman skeleton (bari, ghari, tukre).
-          const finalVowel = /[یے]$/u.test(source.text) &&
-            source.skeleton === candidateStem + "y";
-          const sameEdges = candidateStem[0] === source.skeleton[0] &&
-            (candidateStem.at(-1) === source.skeleton.at(-1) || finalVowel);
-          const near = Math.abs(pos - source.position);
-          if (d > 1 || (d && !sameEdges) || (d && near > .30)) continue;
-          const score = d * 10 + near;
-          if (!best || score < best.score) best = { ...option, source, score, d };
+          for (const variant of source.skeletons) {
+            const d = distance(candidateStem, variant.value);
+            const sameEdges = candidateStem[0] === variant.value[0] &&
+              candidateStem.at(-1) === variant.value.at(-1);
+            const near = Math.abs(pos - source.position);
+            if (d > 1 || (d && !sameEdges) || (d && near > .30)) continue;
+            const score = d * 10 + variant.omissions * .04 + near;
+            if (!best || score < best.score)
+              best = { ...option, source, score, d };
+          }
         }
         return best ? [best] : [];
       }).sort((a,b) => a.score - b.score);
