@@ -27,7 +27,7 @@ romanLyrics: |-
   
   3
   Le Chale Qaidi Bana Kar Jo Ali Ko Dushman
-  Maine Chhora Nahi Haider Ki Aba Ka Daaman
+  Maiṅ ne Chhora Nahi Haider Ki Aba Ka Daaman
   Taaziyano Ne Magar Mujhse Chhuraya Baba
   
   4
@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Zakhmi Haalat Meiṅ Bhi Dehliz Se Bahar Aayi
   Aur Aliyun Waliullah Bacha Kar Laayi
-  Ehd Jo Maine Kiya Tha Woh Nibhaya Baba
+  Ehd Jo Maiṅ ne Kiya Tha Woh Nibhaya Baba
   
   6
   Kaun Sa Dar Hai Jahaṅ Aap Ki Beti Na Gayi

@@ -52,7 +52,7 @@ romanLyrics: |-
   8
   Hamare amal meiṅ dikhawa na ho
   Muhabbat ka bas jhuta dawa na ho
-  Phir ashkoṅ ke lab khud yeh denge sada
+  Phir ashkoṅ ke lab khud yeh deṅge sada
 
   9
   Zamane meiṅ hote hue aap ke

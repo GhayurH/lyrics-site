@@ -50,7 +50,7 @@ romanLyrics: |-
   Chehlum To Kar Chuki Maiṅ Dil-Afgar Ya Husain
   Ab Rauza Kis Tarha Se Ho Tayyar Ya Husain
   Beta Bhi Aur Behen Bhi Hai Nadar Ya Husain
-  Aakhir Kabhi To Aayenge Zawwar Ya Husain
+  Aakhir Kabhi To Aayeṅge Zawwar Ya Husain
   Takya Hai Kaar-Sazi-e-Parwardigar Par
   Is Dam To Sayebaṅ Bhi Nahiṅ Hai Mazar Par
   

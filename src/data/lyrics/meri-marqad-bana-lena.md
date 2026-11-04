@@ -49,7 +49,7 @@ romanLyrics: |-
   
   4
   Asr ko tan se sar mera hoga juda
-  Meri hurmat karenge na ahl-e-Saqar
+  Meri hurmat kareṅge na ahl-e-Saqar
   Dushmani me wo had se guzar jayenge
   Ghore dauraayenge wo meri laash par
 

@@ -60,7 +60,7 @@ romanLyrics: |-
   Vo bohat hi andheri jagah hai wahaṅ
   Koi yawar nahi koi apna nahiṅ
   
-  Tumse milne lahad meiṅ ali aayenge
+  Tumse milne lahad meiṅ ali aayeṅge
   Bolo tanhai me aur kya chahiye
 ---
 

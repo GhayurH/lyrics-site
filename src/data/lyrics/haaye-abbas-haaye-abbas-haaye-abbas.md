@@ -59,7 +59,7 @@ romanLyrics: |-
   8
   Noha Rehan yeh Zainab ka tha baad-e-Abbas
   Kiuṅ nahiṅ karte ho Abbas hamara ehsaas
-  Qafila besar o saman suwe Shaam chala
+  Qafila besar o samaṅ suwe Shaam chala
 ---
 
 ہائے عباس ہائے عباس ہائے عباس

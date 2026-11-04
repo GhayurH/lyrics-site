@@ -59,7 +59,7 @@ romanLyrics: |-
   6
   Abid Se Phir Ye Kehne Lage Shah-e-Karbala
   Bewaaoṅ Ka Aur Yatimoṅ Ka Ab Tum Ho Aasra
-  Jo Imtehan Mera Tha Sab Maine De Diya
+  Jo Imtehan Mera Tha Sab Maiṅ ne De Diya
   Aage Tera Jihad Hai Bimar-e-Karbala
   Bimar Beta Baap Se Jis Dam Juda Hua
   Kohraam Mach Gaya, Kohraam Mach Gaya

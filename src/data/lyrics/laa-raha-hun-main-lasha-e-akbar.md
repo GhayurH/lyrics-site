@@ -28,7 +28,7 @@ romanLyrics: |-
   
   2
   Iske sine se kehke naam-e-Ali
-  Maine barchi abhi nikaali hai
+  Maiṅ ne barchi abhi nikaali hai
   Imtehaṅ de chuki meri ghurbat
   Ab teri bekasi ki baari hai
   Tu bhi is waqt ya Ali keh kar
@@ -38,7 +38,7 @@ romanLyrics: |-
   Do nagine the iski jholi may
   Dono Akbar pe kar diye sadqa
   Sabr aisa ke apne betoṅ par
-  Maine rote ise nahi dekha
+  Maiṅ ne rote ise nahi dekha
   Hai magar ab ye lasha e Akbar
   Umme Laila Sambhaal Zainab Ko
   

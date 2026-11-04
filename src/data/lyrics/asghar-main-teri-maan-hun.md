@@ -64,7 +64,7 @@ romanLyrics: |-
   jab raat hogi ran meiṅ
   hojayega andhera
   darna nahi ae beta
-  dadi kahengi tumse
+  dadi kaheṅgi tumse
   aa maiṅ tujhe sulaauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
   

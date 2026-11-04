@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Yahin Kahiṅ Aas Paas Hoga, Woh Aane Wala Tha Aa Chuka Hai
-  Hawari-e-Isa Ke Saath Honge, Mawali Maula Ke Saath Honge
+  Hawari-e-Isa Ke Saath Hoṅge, Mawali Maula Ke Saath Hoṅge
   Zahur Ka Waqt Aa Gaya Hai, Mawaliyoṅ Se Banaye Rakhna
 
   5

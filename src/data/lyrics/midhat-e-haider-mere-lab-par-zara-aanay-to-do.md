@@ -21,7 +21,7 @@ romanLyrics: |-
   Tum muhibban-e Ali ko josh meiṅ aane to do
 
   3
-  Khud ba khud phirte nazar aayenge tufanoṅ ke rukh
+  Khud ba khud phirte nazar aayeṅge tufanoṅ ke rukh
   Tum fiza meiṅ parcham-e Abbas lehrane to do
 
   4

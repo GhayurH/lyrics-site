@@ -39,7 +39,7 @@ romanLyrics: |-
   
   4
   Jab saans tumhari, bachoṅ ho ukharne wali
-  Us waqt sarhaane, aayengi madar meri
+  Us waqt sarhaane, aayeṅgi madar meri
   Dil ki yeh meri khwaahish hai, us dam meri maa se
   Zakhmoṅ ko tum chhupaana
   

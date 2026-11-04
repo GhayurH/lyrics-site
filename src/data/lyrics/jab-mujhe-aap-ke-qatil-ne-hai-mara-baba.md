@@ -17,7 +17,7 @@ romanLyrics: |-
   
   1
   Mujhe Baloṅ Se Pakar Kar Haiṅ Tamache Maare
-  Maine Sar Shimr Se Maanga Jo Tumhara Baba
+  Maiṅ ne Sar Shimr Se Maanga Jo Tumhara Baba
   
   2
   Wo Jo Dur Aap Ne Tohfe Meiṅ Mujhe Bakshe The

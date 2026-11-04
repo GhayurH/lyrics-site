@@ -33,7 +33,7 @@ romanLyrics: |-
   teri khatir na kiuṅ apna sar de diya
   
   4
-  gar jiye saal bhar phir karenge yeh gham
+  gar jiye saal bhar phir kareṅge yeh gham
   royenge phir tere gham meiṅ mil kar baham
   aur agar mar gaye to yeh hoga alam
   haaye afsos ji bhar ke roye na hum

@@ -12,7 +12,7 @@ cover: "/images/lyrics/aao-ro-lein-shahe-karbala-ko.png"
 coverAlt: "Cover image for Aao Ro Lein Shahe Karbala Ko"
 published: true
 romanLyrics: |-
-  Aao ro len Shah-e Karbala ko
+  Aao ro leṅ Shah-e Karbala ko
   Zindagi ka bharosa nahiṅ hai
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
   Koi bekaar jata nahiṅ hai
 
   2
-  Jab jale honge khaime haram ke
+  Jab jale hoṅge khaime haram ke
   Jab chhini hongi sar se ridayeṅ
   Kya bani hogi Sayyidaniyoṅ par
   Woh samaaṅ dil se jata nahiṅ hai

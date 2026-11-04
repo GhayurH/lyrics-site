@@ -17,7 +17,7 @@ romanLyrics: |-
   Kalma Go Kursi Nashiṅ Hai, Aur Maiṅ Kab Se Khari Huṅ
   
   1
-  Jitne Dukh Maine Sahe, Gar Woh Din Par Bhi Pareiṅ, Woh Siyah Raat Baneiṅ
+  Jitne Dukh Maiṅ ne Sahe, Gar Woh Din Par Bhi Pareiṅ, Woh Siyah Raat Baneiṅ
   Yehi Dukh Kam To Nahiṅ Hai, Is Qadar Tanha Madine Meiṅ Hui Huṅ
   Koi Sunta Hi Nahiṅ Hai, Ke Maiṅ Kya Bol Rahi Huṅ
   
@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Woh To Kamsin Hai Abhi, Dur Hai Shaam Se Bhi, Seh Na Payegi Kabhi
   Mujh Se Zainab Ne Yeh Pucha, Kahaṅ Jati Ho Batao Ae Amma
-  Maine Zainab Se Chhupaya, Ke Maiṅ Darbar Chali Huṅ
+  Maiṅ ne Zainab Se Chhupaya, Ke Maiṅ Darbar Chali Huṅ
   
   5
   Mera Haq Chhin Liya, Ajr Yeh Mujh Ko Diya, Yeh Sitam Mujh Pe Kiya

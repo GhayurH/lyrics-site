@@ -55,7 +55,7 @@ romanLyrics: |-
   5
   khun ban kar ragoṅ meiṅ hai nauha
   meri nasloṅ meiṅ bhi rahe nauha
-  jaise maine parha hai bachpan se
+  jaise maiṅ ne parha hai bachpan se
   mere bache bhi yuṅ parheiṅ nauha
 
   ae meri bibi, inke dil meiṅ wilayah-e-Haider

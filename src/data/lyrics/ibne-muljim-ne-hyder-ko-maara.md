@@ -61,7 +61,7 @@ romanLyrics: |-
   
   12
   Umme Kulsum Zainab Se Boliṅ, Aaj Baba Ne Aankheṅ Na Kholiṅ
-  Maine Shaana Hila Kar Pukara, Rozadaron Qayamat Ke Din Haiṅ
+  Maiṅ ne Shaana Hila Kar Pukara, Rozadaron Qayamat Ke Din Haiṅ
   
   13
   Sina-Kobi Ko Rehan o Mesum, Kiuṅ Na Farsh-e-Aza Pe Chaleiṅ Hum

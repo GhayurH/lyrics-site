@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Tere Mimbar Pe Bethe Ghasib Ko Teri Tehrir Bhi Dikhayi Hai
   Karke Tukre Lain Ne Baba Bhare Darbar Meiṅ Urayi Hai
-  Paak Tehrir Ko Hai Tukroṅ Meiṅ Maine Darbar Se Uthaya Hai
+  Paak Tehrir Ko Hai Tukroṅ Meiṅ Maiṅ ne Darbar Se Uthaya Hai
   
   3
   Maiṅ To Wo Huṅ Ke Ya Rasul Allah Jiski Taazim Aap Karte The

@@ -13,7 +13,7 @@ coverAlt: "Cover image for Tukre Nahiṅ Chadar Meiṅ, Farwa Tera Beta Hai"
 published: true
 romanLyrics: |-
   Tukre nahiṅ chadar meiṅ, farwa tera beta hai
-  Maqtal me isse maine, chun chun ke uthayya hai
+  Maqtal me isse maiṅ ne, chun chun ke uthayya hai
   
   1
   Rukh kar ke baqayya ka, sheh kehte rahe bhai
