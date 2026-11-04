@@ -18,237 +18,57 @@ function assertReading(urdu, input, expected) {
 
 test("Urdu-backed vowels, consonants, nasalization and joined endings", () => {
   for (const [urdu, input, expected] of [
-      [
-          "حسین کے خون میں کیوں نہیں ہیں",
-          "Hussain ke khoon mein kyun nahin hain",
-          "Husain ke khun meiṅ kiuṅ nahiṅ haiṅ"
-      ],
-      [
-          "جواں وہاں زماں حسین امین",
-          "jawan wahan zaman Husain amin",
-          "jawaṅ wahaṅ zamaṅ Husain amin"
-      ],
-      [
-          "امام زماں",
-          "Imam-e-Zaman",
-          "Imam-e-Zamaṅ"
-      ],
-      [
-          "یوں ہوا رواں",
-          "Youn hua Rawan",
-          "Youṅ hua Rawaṅ"
-      ],
-      [
-          "تڑپ بڑی گھڑی",
-          "tadap badi ghadi",
-          "tarap bari ghari"
-      ],
-      [
-          "دوڑو",
-          "Dauro",
-          "Dauro"
-      ],
-      [
-          "میرے کہنے سے",
-          "Merey Kehney se",
-          "Mere Kehne se"
-      ],
-      [
-          "آئے گئے",
-          "Aaey Gaey",
-          "Aaye Gaye"
-      ],
-      [
-          "ہے",
-          "Haey",
-          "Hai"
-      ],
-      [
-          "بچوں کو ویراں",
-          "bachchon ko viran",
-          "bachchoṅ ko viraaṅ"
-      ],
-      [
-          "کیوں کر ایسا ہوا",
-          "Kyunkar aisa hua",
-          "Kiuṅkar aisa hua"
-      ],
-      [
-          "بچیوں کی آنکھوں",
-          "bachchiyon ki aakhon",
-          "bachchiyoṅ ki aankhoṅ"
-      ],
-      [
-          "گیسوؤں میں",
-          "gaisuo'n meiṅ",
-          "gaisuoṅ meiṅ"
-      ],
-      [
-          "وہ خون رو کے یہ کہتا",
-          "Wo khoon ro ke kehta",
-          "Wo khun ro ke kehta"
-      ],
-      [
-          "ہوں گے",
-          "honge",
-          "hoṅge"
-      ],
-      [
-          "آئیں گے",
-          "aayenge",
-          "aayeṅge"
-      ],
-      [
-          "کہیں گی",
-          "kahengi",
-          "kaheṅgi"
-      ],
-      [
-          "کریں گے",
-          "karenge",
-          "kareṅge"
-      ],
-      [
-          "دیں گے",
-          "denge",
-          "deṅge"
-      ],
-      [
-          "رولیں",
-          "ro len",
-          "ro leṅ"
-      ],
-      [
-          "میں نے",
-          "Maine",
-          "Maiṅ ne"
-      ]
+      ["حسین کے خون میں کیوں نہیں ہیں", "Hussain ke khoon mein kyun nahin hain", "Husain ke khun meiṅ kiuṅ nahiṅ haiṅ"],
+      ["جواں وہاں زماں حسین امین", "jawan wahan zaman Husain amin", "jawaṅ wahaṅ zamaṅ Husain amin"],
+      ["امام زماں", "Imam-e-Zaman", "Imam-e-Zamaṅ"],
+      ["یوں ہوا رواں", "Youn hua Rawan", "Youṅ hua Rawaṅ"],
+      ["تڑپ بڑی گھڑی", "tadap badi ghadi", "tarap bari ghari"],
+      ["دوڑو", "Dauro", "Dauro"],
+      ["میرے کہنے سے", "Merey Kehney se", "Mere Kehne se"],
+      ["آئے گئے", "Aaey Gaey", "Aaye Gaye"],
+      ["ہے", "Haey", "Hai"],
+      ["بچوں کو ویراں", "bachchon ko viran", "bachchoṅ ko viraaṅ"],
+      ["کیوں کر ایسا ہوا", "Kyunkar aisa hua", "Kiuṅkar aisa hua"],
+      ["بچیوں کی آنکھوں", "bachchiyon ki aakhon", "bachchiyoṅ ki aankhoṅ"],
+      ["گیسوؤں میں", "gaisuo'n meiṅ", "gaisuoṅ meiṅ"],
+      ["وہ خون رو کے یہ کہتا", "Wo khoon ro ke kehta", "Wo khun ro ke kehta"],
+      ["ہوں گے", "honge", "hoṅge"],
+      ["آئیں گے", "aayenge", "aayeṅge"],
+      ["کہیں گی", "kahengi", "kaheṅgi"],
+      ["کریں گے", "karenge", "kareṅge"],
+      ["دیں گے", "denge", "deṅge"],
+      ["رولیں", "ro len", "ro leṅ"],
+      ["میں نے", "Maine", "Maiṅ ne"]
   ])
     assertReading(urdu, input, expected);
 });
 
 test("Phonetic ayn/hamza substitutions work in Urdu and Arabic quotations", () => {
   for (const [urdu, input, expected] of [
-      [
-          "قطعات",
-          "Qita'aat",
-          "Qitaat"
-      ],
-      [
-          "قطعہ",
-          "Qit'a",
-          "Qita"
-      ],
-      [
-          "زعفر",
-          "Za'far",
-          "Zafar"
-      ],
-      [
-          "شفاعت",
-          "shafa’at",
-          "shafaat"
-      ],
-      [
-          "معذور",
-          "Ma’zur",
-          "Maazur"
-      ],
-      [
-          "تعجیل",
-          "ta’jil",
-          "taajil"
-      ],
-      [
-          "جھکتی",
-          "jhuk'ti",
-          "jhukti"
-      ],
-      [
-          "اٹھتا",
-          "uth'ta",
-          "uthta"
-      ],
-      [
-          "سائلوں",
-          "Sa'ilon",
-          "Sailoṅ"
-      ],
-      [
-          "لعینوں",
-          "la'inon",
-          "lainoṅ"
-      ],
-      [
-          "ساعت",
-          "Saa’at",
-          "Saaat"
-      ],
-      [
-          "يَا سَرِيعَ الرِّضَا",
-          "Ya Sari'ar-Riza",
-          "Ya Saria-r-Riza"
-      ],
-      [
-          "الدُّعَاءَ",
-          "Du'a",
-          "Duaa"
-      ],
-      [
-          "فَعَّالٌ",
-          "Fa''alun",
-          "Faaalun"
-      ],
-      [
-          "تَشَاءُ",
-          "Tasha'",
-          "Tashaa"
-      ],
-      [
-          "دَوَاءٌ",
-          "Dawa'un",
-          "Dawaaun"
-      ],
-      [
-          "شِفَاءٌ",
-          "Shifa'un",
-          "Shifaaun"
-      ],
-      [
-          "طَاعَتُهُ",
-          "Ta'atuhu",
-          "Taaatuhu"
-      ],
-      [
-          "ائِمّہ",
-          "A'imma",
-          "Aimma"
-      ],
-      [
-          "شیعیان",
-          "Shia'an",
-          "Shiaan"
-      ],
-      [
-          "اَسئَلُکُم",
-          "as'alukum",
-          "asalukum"
-      ],
-      [
-          "السَّمَاءُ",
-          "s-sama'u",
-          "s-samaau"
-      ],
-      [
-          "وُقُوعُ",
-          "Wuq'u",
-          "Wuqua"
-      ],
-      [
-          "گلعِزار",
-          "gul'izaar",
-          "gulaizaar"
-      ]
+      ["قطعات", "Qita'aat", "Qitaat"],
+      ["قطعہ", "Qit'a", "Qita"],
+      ["زعفر", "Za'far", "Zafar"],
+      ["شفاعت", "shafa’at", "shafaat"],
+      ["معذور", "Ma’zur", "Maazur"],
+      ["تعجیل", "ta’jil", "taajil"],
+      ["جھکتی", "jhuk'ti", "jhukti"],
+      ["اٹھتا", "uth'ta", "uthta"],
+      ["سائلوں", "Sa'ilon", "Sailoṅ"],
+      ["لعینوں", "la'inon", "lainoṅ"],
+      ["ساعت", "Saa’at", "Saaat"],
+      ["يَا سَرِيعَ الرِّضَا", "Ya Sari'ar-Riza", "Ya Saria-r-Riza"],
+      ["الدُّعَاءَ", "Du'a", "Duaa"],
+      ["فَعَّالٌ", "Fa''alun", "Faaalun"],
+      ["تَشَاءُ", "Tasha'", "Tashaa"],
+      ["دَوَاءٌ", "Dawa'un", "Dawaaun"],
+      ["شِفَاءٌ", "Shifa'un", "Shifaaun"],
+      ["طَاعَتُهُ", "Ta'atuhu", "Taaatuhu"],
+      ["ائِمّہ", "A'imma", "Aimma"],
+      ["شیعیان", "Shia'an", "Shiaan"],
+      ["اَسئَلُکُم", "as'alukum", "asalukum"],
+      ["السَّمَاءُ", "s-sama'u", "s-samaau"],
+      ["وُقُوعُ", "Wuq'u", "Wuqua"],
+      ["گلعِزار", "gul'izaar", "gulaizaar"]
   ])
     assertReading(urdu, input, expected);
   assertReading("یاعلی کی", "'Ya Ali' ki", "'Ya Ali' ki");
