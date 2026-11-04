@@ -21,7 +21,7 @@ test("keeps poem-specific Zehra/Zahra, marks repetition and canonical compounds"
   const r2 = normalizeRomanMarkdown(md("زہرا", "Zahra"));
   assert(r2.text.includes("Zahra"));
   const r3 = normalizeRomanMarkdown(md("وہ مارتی تھیں", "Wo maarti thin (x2)"));
-  assert(r3.text.includes("<u>Wo maarti thin</u>"));
+  assert(r3.text.includes("<u>Wo maarti thiṅ</u>"));
   assert.deepEqual(romanTextParts("A <u>repeat here</u> end"), [
     { text: "A ", underline: false }, { text: "repeat here", underline: true },
     { text: " end", underline: false },
