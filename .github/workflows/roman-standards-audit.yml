@@ -54,7 +54,9 @@ jobs:
               if(/(?<![\p{L}])[A-Za-z]+-o-[A-Za-z]+/u.test(s))add('hyphenated-o',file,n,s,u);
               if(/(?<![\p{L}])be-[a-z]+/iu.test(s))add('negative-be-hyphen',file,n,s,u);
               if(/(?<![\p{L}])([A-Za-zṅ]+)-\1(?![\p{L}])/iu.test(s))add('repetition-hyphen',file,n,s,u);
-              if(/oo/iu.test(s))add('oo-spelling',file,n,s,u);
+              if(/['’ʿʾ]/u.test(s))add('roman-apostrophe-or-ayn',file,n,s,u,100);
+          if(/kyun/iu.test(s))add('kyun-substring',file,n,s,u,50);
+          if(/oo/iu.test(s))add('oo-spelling',file,n,s,u);
               if(/ee/iu.test(s))add('ee-spelling',file,n,s,u);
               if(/[āīūēḍṭṣḥʿʾńñãîôê]/iu.test(s)||/[\u0300-\u036f]/u.test(s))add('foreign-latin-diacritics',file,n,s,u);
               const us=wordsFrom(u),rs=romanWords(s);
