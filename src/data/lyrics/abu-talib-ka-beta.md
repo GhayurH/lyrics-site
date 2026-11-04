@@ -35,7 +35,7 @@ romanLyrics: |-
 
   5
   Use kehte ho kafir, Payambar ka jo chacha hai
-  E farzi baap ke betoṅ, woh sab kuch dekh raha hai
+  Ae farzi baap ke betoṅ, woh sab kuch dekh raha hai
   Hai ab bhi ghaib meiṅ baitha, Abu Talib ka beta
 
   6
