@@ -49,14 +49,16 @@ export function checkLines(path: string, text: string, firstLine: number, script
       if (!allowLatin && !credit && /[A-Za-z]/u.test(visibleLine))
         record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + visibleLine.trim().slice(0, 95));
     } else {
+      if (/\(x\d+\)/iu.test(line))
+        record(issues, path, sourceLine, "roman-repeat-notation", "Replace (x2) repetition markers with underlined source text");
       if (/\b(?:Hussain|Hassan)\b/iu.test(line))
         record(issues, path, sourceLine, "roman-name-style", "House style uses Husain and Hasan (one s after the initial consonant)");
       if (arabic.test(line) || romanDigits.test(line))
         record(issues, path, sourceLine, "arabic-in-roman", "Arabic-script character or digit in Roman text: " + line.trim().slice(0, 95));
       // Flag Latin accents (ā, ḥ, ī, etc.), not ordinary curly punctuation.
-      if ([...line].some((ch) => latin.test(ch) && unusualLatin.test(ch)) ||
+      if ([...line].some((ch) => latin.test(ch) && unusualLatin.test(ch) && ch !== "ṅ" && ch !== "Ṅ") ||
           /[\u0300-\u036F]/u.test(line))
-        record(issues, path, sourceLine, "extended-latin-in-roman", "Non-ASCII Latin letter/diacritic in Roman text: " + line.trim().slice(0, 95));
+        record(issues, path, sourceLine, "extended-latin-in-roman", "Non-ASCII Latin letter/diacritic other than nasal ṅ in Roman text: " + line.trim().slice(0, 95));
     }
   });
 }

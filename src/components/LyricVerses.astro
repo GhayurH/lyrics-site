@@ -1,5 +1,6 @@
 ---
 /* File role: Render source stanzas and six-verse 4+2 groups consistently in Urdu and Roman. */
+import { romanTextParts } from "../lib/roman-text-parts";
 import { layoutLyricStanzas, lyricStanzaClassNames, lyricLineClassName } from "../lib/lyric-stanzas";
 
 interface Props {
@@ -16,7 +17,7 @@ const stanzas = layoutLyricStanzas(text);
   {stanzas.map((stanza) => (
     <div class={lyricStanzaClassNames(stanza, sixVerseLayout)}>
       {stanza.map((line) => (
-        <span class={lyricLineClassName(line)}>{line.text}</span>
+        <span class={lyricLineClassName(line)}>{romanTextParts(line.text).map((part) => part.underline ? <u>{part.text}</u> : part.text)}</span>
       ))}
     </div>
   ))}
