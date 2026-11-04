@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Naad E Ali Parhte Raho"
 cover: "/images/lyrics/naad-e-ali-parhte-raho.png"
-coverAlt: "Cover image for Naad E Ali Parhte Raho"
+coverAlt: "Cover image for Naad-e-Ali Parhte Raho"
 published: true
 romanLyrics: |-
   Hai mashwara Ae mohataram

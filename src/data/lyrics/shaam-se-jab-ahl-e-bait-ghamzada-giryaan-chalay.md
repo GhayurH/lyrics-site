@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
 cover: "/images/lyrics/shaam-se-jab-ahl-e-bait-ghamzada-giryaan-chalay.png"
-coverAlt: "Cover image for Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
+coverAlt: "Cover image for Shaam Se Jab Ahl-e-Bait, Ghamzada Giryaaṅ Chale"
 bastaPage: 264
 bastaNote: original-selection
 published: true

@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Sajjad Mai Zainab Hun Mere Sar Pe Rida Koi Nai Bazaare Jafa"
 cover: "/images/lyrics/sajjad-mai-zainab-hun-mere-sar-pe-rida-koi-nai-bazaare-jafa.png"
-coverAlt: "Cover image for Sajjad Mai Zainab Hun Mere Sar Pe Rida Koi Nai Bazaare Jafa"
+coverAlt: "Cover image for Sajjad Mai Zainab Huṅ Mere Sar Pe Rida Koi Nai Bazaare Jafa"
 published: true
 romanLyrics: |-
   Sajjad Mai Zainab Huṅ, Mere Sar Pe Rida Koi Nai, Bazaare Jafa

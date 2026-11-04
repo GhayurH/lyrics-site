@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Nana Beemar Nai Maan Zakhmi Ae"
 cover: "/images/lyrics/nana-beemar-nai-maan-zakhmi-ae.png"
-coverAlt: "Cover image for Nana Beemar Nai Maan Zakhmi Ae"
+coverAlt: "Cover image for Nana Bimar Nai Maaṅ Zakhmi Ae"
 published: true
 romanLyrics: |-
   Nana Di Qabar Te Kehnde Rae

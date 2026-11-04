@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Aye Rab-E-Panjtan"
 cover: "/images/lyrics/aye-rab-e-panjtan.png"
-coverAlt: "Cover image for Aye Rab-E-Panjtan"
+coverAlt: "Cover image for Ae Rab-e-Panjtan"
 published: true
 romanLyrics: |-
   Ae Rab-e-Panjtan, Meri Tujh Se Hai Yeh Dua

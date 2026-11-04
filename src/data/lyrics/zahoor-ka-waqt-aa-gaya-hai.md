@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Zahoor Ka Waqt Aa Gaya Hai"
 cover: "/images/lyrics/zahoor-ka-waqt-aa-gaya-hai.png"
-coverAlt: "Cover image for Zahoor Ka Waqt Aa Gaya Hai"
+coverAlt: "Cover image for Zahur Ka Waqt Aa Gaya Hai"
 bastaPage: 388
 bastaNote: additional-stanzas
 published: true

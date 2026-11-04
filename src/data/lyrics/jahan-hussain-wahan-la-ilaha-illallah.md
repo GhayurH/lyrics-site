@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Jahan Husain Wahan La Ilaha Illallah"
 cover: "/images/lyrics/jahan-hussain-wahan-la-ilaha-illallah.png"
-coverAlt: "Cover image for Jahan Husain Wahan La Ilaha Illallah"
+coverAlt: "Cover image for Jahaṅ Husain Wahaṅ La Ilaha Illallah"
 published: true
 romanLyrics: |-
   1

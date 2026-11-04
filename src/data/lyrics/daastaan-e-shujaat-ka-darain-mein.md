@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Daastaan-E-Shujaat Ka Darain Mein"
 cover: "/images/lyrics/daastaan-e-shujaat-ka-darain-mein.png"
-coverAlt: "Cover image for Daastaan-E-Shujaat Ka Darain Mein"
+coverAlt: "Cover image for Daastaan-e-Shujaat Ka Daraiṅ Meiṅ"
 published: true
 romanLyrics: |-
   Daastaan-e-Shujaat ka daraiṅ meiṅ

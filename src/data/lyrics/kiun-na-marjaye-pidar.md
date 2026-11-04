@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Kiun Na Marjaye Pidar"
 cover: "/images/lyrics/kiun-na-marjaye-pidar.png"
-coverAlt: "Cover image for Kiun Na Marjaye Pidar"
+coverAlt: "Cover image for Kiuṅ Na Marjaye Pidar"
 published: true
 romanLyrics: |-
   kiuṅ na mar jaye pidar jite ji Sarwar jaisa

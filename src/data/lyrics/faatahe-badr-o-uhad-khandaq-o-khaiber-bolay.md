@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Faatahe Badr-O-Uhad Khandaq O Khaiber Bole"
 cover: "/images/lyrics/faatahe-badr-o-uhad-khandaq-o-khaiber-bolay.png"
-coverAlt: "Cover image for Faatahe Badr-O-Uhad Khandaq O Khaiber Bole"
+coverAlt: "Cover image for Faatahe Badr-O-Uhad Khandaq o Khaiber Bole"
 published: true
 romanLyrics: |-
   1

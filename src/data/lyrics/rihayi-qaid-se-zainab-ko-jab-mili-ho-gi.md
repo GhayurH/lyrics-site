@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 cover: "/images/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-ho-gi.png"
-coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
+coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Hogi"
 published: true
 romanLyrics: |-
   Rihayi qaid se Zainab ko jab mili hogi

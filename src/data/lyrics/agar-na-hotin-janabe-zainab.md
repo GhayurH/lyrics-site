@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Agar Na Hotin Janabe Zainab"
 cover: "/images/lyrics/agar-na-hotin-janabe-zainab.png"
-coverAlt: "Cover image for Agar Na Hotin Janabe Zainab"
+coverAlt: "Cover image for Agar Na Hotiṅ Janabe Zainab"
 published: true
 romanLyrics: |-
   1

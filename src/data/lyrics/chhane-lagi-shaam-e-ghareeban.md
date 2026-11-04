@@ -10,7 +10,7 @@ tags: []
 aliases:
   - "Chhane Lagi Shaam e Ghareeban"
 cover: "/images/lyrics/chhane-lagi-shaam-e-ghareeban.png"
-coverAlt: "Cover image for Chhane Lagi Shaam e Ghareeban"
+coverAlt: "Cover image for Chhane Lagi Shaam-e-Gharibaṅ"
 published: true
 romanLyrics: |-
   Chhane lagi shaam-e-gharibaṅ,

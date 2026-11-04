@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Taqaddam Waladi"
 cover: "/images/lyrics/taqaddam-waladi.png"
-coverAlt: "Cover image for taqaddam waladi"
+coverAlt: "Cover image for Karbala Ho Chuki Tayyar, Taqaddam Waladi"
 published: true
 romanLyrics: |-
   1

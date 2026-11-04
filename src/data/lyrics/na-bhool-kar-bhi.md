@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Na Bhool Kar Bhi"
 cover: "/images/lyrics/na-bhool-kar-bhi.png"
-coverAlt: "Cover image for Na Bhool Kar Bhi"
+coverAlt: "Cover image for Na Bhul Kar Bhi"
 published: true
 romanLyrics: |-
   1

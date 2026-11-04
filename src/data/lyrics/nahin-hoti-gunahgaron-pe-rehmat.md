@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Nahin Hoti Gunahgaron Pe Rehmat"
 cover: "/images/lyrics/nahin-hoti-gunahgaron-pe-rehmat.png"
-coverAlt: "Cover image for Nahin Hoti Gunahgaron Pe Rehmat"
+coverAlt: "Cover image for Nahiṅ Hoti Gunahgaroṅ Pe Rehmat"
 published: true
 romanLyrics: |-
   1

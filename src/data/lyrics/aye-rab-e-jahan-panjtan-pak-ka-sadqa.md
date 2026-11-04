@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
 cover: "/images/lyrics/aye-rab-e-jahan-panjtan-pak-ka-sadqa.png"
-coverAlt: "Cover image for Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
+coverAlt: "Cover image for Ae Rab-e-Jahaṅ Panjtan Pak Ka Sadqa"
 published: true
 romanLyrics: |-
   1

@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Munajat Imam E Zamana"
 cover: "/images/lyrics/munajat-imam-e-zamana.png"
-coverAlt: "Cover image for munajat imam e zamana"
+coverAlt: "Cover image for Chale Aao Ae Ibn-e-Mushkil Kusha"
 published: true
 romanLyrics: |-
   Bulate haiṅ ro ro ke ahl-e aza

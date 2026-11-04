@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
 cover: "/images/lyrics/maan-na-roegi-tumhe-aun-o-mohammad-kyunkar.png"
-coverAlt: "Cover image for Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
+coverAlt: "Cover image for Maaṅ Na Roegi Tumheiṅ Aun o Mohammad Kiuṅkar"
 published: true
 romanLyrics: |-
   Maaṅ na roegi tumheiṅ Aun o Mohammad kiuṅkar

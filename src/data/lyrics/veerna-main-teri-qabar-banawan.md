@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Veerna Main Teri Qabar Banawan"
 cover: "/images/lyrics/veerna-main-teri-qabar-banawan.png"
-coverAlt: "Cover image for Veerna Main Teri Qabar Banawan"
+coverAlt: "Cover image for Virna Maiṅ Teri Qabar Banawaṅ"
 published: true
 romanLyrics: |-
   Virna maiṅ teri qabar banawaṅ ya shaam nu jaawaṅ

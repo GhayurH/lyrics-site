@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
 cover: "/images/lyrics/karbala-muntazir-e-ma-ast-biya-ta-be-raweem.png"
-coverAlt: "Cover image for Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
+coverAlt: "Cover image for Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim"
 published: true
 romanLyrics: |-
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim

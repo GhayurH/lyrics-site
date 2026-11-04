@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Asghar Main Teri Maan Hun"
 cover: "/images/lyrics/asghar-main-teri-maan-hun.png"
-coverAlt: "Cover image for Asghar Main Teri Maan Hun"
+coverAlt: "Cover image for Asghar Maiṅ Teri Maaṅ Huṅ"
 published: true
 romanLyrics: |-
   aajao chand mere

@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Laa Raha Hun Main Lasha E Akbar"
 cover: "/images/lyrics/laa-raha-hun-main-lasha-e-akbar.png"
-coverAlt: "Cover image for Laa Raha Hun Main Lasha E Akbar"
+coverAlt: "Cover image for Laa Raha Huṅ Maiṅ Lasha E Akbar"
 published: true
 romanLyrics: |-
   Laa raha huṅ maiṅ lasha e Akbar

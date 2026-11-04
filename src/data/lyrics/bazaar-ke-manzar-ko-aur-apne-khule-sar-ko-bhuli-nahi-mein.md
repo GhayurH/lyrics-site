@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Mein"
 cover: "/images/lyrics/bazaar-ke-manzar-ko-aur-apne-khule-sar-ko-bhuli-nahi-mein.png"
-coverAlt: "Cover image for Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Mein"
+coverAlt: "Cover image for Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Meiṅ"
 published: true
 romanLyrics: |-
   Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Meiṅ

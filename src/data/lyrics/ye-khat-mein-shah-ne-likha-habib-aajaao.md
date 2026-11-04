@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Ye Khat Mein Shah Ne Likha, Habib Aajaao"
 cover: "/images/lyrics/ye-khat-mein-shah-ne-likha-habib-aajaao.png"
-coverAlt: "Cover image for Ye Khat Mein Shah Ne Likha, Habib Aajaao"
+coverAlt: "Cover image for Ye Khat Meiṅ Shah Ne Likha, Habib Aajaao"
 published: true
 romanLyrics: |-
   Ye khat meiṅ Shah ne likha, Habib aajaao

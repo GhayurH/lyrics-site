@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Besar Jab Apne Baap Ko Dekha Nashaib Mein"
 cover: "/images/lyrics/besar-jab-apne-baap-ko-dekha-nashaib-mein.png"
-coverAlt: "Cover image for Besar Jab Apne Baap Ko Dekha Nashaib Mein"
+coverAlt: "Cover image for Besar Jab Apne Baap Ko Dekha Nashaib Meiṅ"
 published: true
 romanLyrics: |-
   sunsaan ban wo raat wo uthta hua dhuaṅ

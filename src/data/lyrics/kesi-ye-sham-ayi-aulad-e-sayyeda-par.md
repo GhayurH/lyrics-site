@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Kesi Ye Sham Ayi Aulad E Sayyeda Par"
 cover: "/images/lyrics/kesi-ye-sham-ayi-aulad-e-sayyeda-par.png"
-coverAlt: "Cover image for Kesi Ye Sham Ayi Aulad E Sayyeda Par"
+coverAlt: "Cover image for Kesi Ye Sham Ayi Aulad-e-Sayyeda Par"
 published: true
 romanLyrics: |-
   Kesi ye sham ayi aulad-e-Sayyeda par

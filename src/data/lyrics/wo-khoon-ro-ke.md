@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Wo Khoon Ro Ke"
 cover: "/images/lyrics/wo-khoon-ro-ke.png"
-coverAlt: "Cover image for Wo Khoon Ro Ke"
+coverAlt: "Cover image for Wo Khun Ro Ke"
 published: true
 romanLyrics: |-
   Wo khun ro ke kehta raha zamane se

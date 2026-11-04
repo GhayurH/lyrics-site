@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Mazhar E Rab E Zuljalal Ali"
 cover: "/images/lyrics/mazhar-e-rab-e-zuljalal-ali.png"
-coverAlt: "Cover image for Mazhar E Rab E Zuljalal Ali"
+coverAlt: "Cover image for Mazhar-e-Rab-e-Zuljalal Ali"
 published: true
 romanLyrics: |-
   1

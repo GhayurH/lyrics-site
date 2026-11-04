@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Bahar Aayi Bahar Aayi Zehra Ke Ghar"
 cover: "/images/lyrics/bahar-aayi-bahar-aayi-zehra-ke-ghar.png"
-coverAlt: "Cover image for Bahar Aayi Bahar Aayi Zehra ke Ghar"
+coverAlt: "Cover image for Bahar Aayi Bahar Aayi"
 published: true
 romanLyrics: |-
   1

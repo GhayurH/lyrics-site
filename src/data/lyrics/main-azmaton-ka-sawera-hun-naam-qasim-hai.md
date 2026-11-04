@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
 cover: "/images/lyrics/main-azmaton-ka-sawera-hun-naam-qasim-hai.png"
-coverAlt: "Cover image for Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
+coverAlt: "Cover image for Maiṅ Azmatoṅ Ka Sawera Huṅ, Naam Qasim Hai"
 published: true
 romanLyrics: |-
   1

@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Aye Chand Muharram Kai"
 cover: "/images/lyrics/aye-chand-muharram-kai.png"
-coverAlt: "Cover image for Aye Chand Muharram Kai"
+coverAlt: "Cover image for Ae Chand Muharram Kai"
 published: true
 romanLyrics: |-
   Ae chand muharram kai, tu badli meiṅ chala jaa

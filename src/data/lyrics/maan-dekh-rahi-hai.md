@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Maan Dekh Rahi Hai"
 cover: "/images/lyrics/maan-dekh-rahi-hai.png"
-coverAlt: "Cover image for Maan Dekh Rahi Hai"
+coverAlt: "Cover image for Cheh Mah Ka Mujahid, Suwe Maidaan Chala Hai, Maaṅ Dekh Rahi Hai"
 published: true
 romanLyrics: |-
   Cheh mah ka mujahid, suwe maidaan chala hai, Maaṅ dekh rahi hai

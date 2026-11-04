@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Goonji Bawaqt E Asr"
 cover: "/images/lyrics/goonji-bawaqt-e-asr.png"
-coverAlt: "Cover image for Goonji bawaqt e asr"
+coverAlt: "Cover image for Gunji Bawaqt-e-Asr Sada, Maiṅ Husain Huṅ"
 published: true
 romanLyrics: |-
   Gunji bawaqt-e-asr sada, maiṅ Husain huṅ

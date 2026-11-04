@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Alwida Alwida Alwida Ay Husain"
 cover: "/images/lyrics/alwida-alwida-alwida-ay-hussain.png"
-coverAlt: "Cover image for Alwida Alwida Alwida Ay Husain"
+coverAlt: "Cover image for Alwida Alwida Alwida Ae Husain"
 published: true
 romanLyrics: |-
   alwida alwida alwida ae Husain

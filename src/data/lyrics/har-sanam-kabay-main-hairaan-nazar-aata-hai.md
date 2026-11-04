@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Har Sanam Kabay Main Hairaan Nazar Aata Hai"
 cover: "/images/lyrics/har-sanam-kabay-main-hairaan-nazar-aata-hai.png"
-coverAlt: "Cover image for Har Sanam Kabay Main Hairaan Nazar Aata Hai"
+coverAlt: "Cover image for Har Sanam Kabe Maiṅ Hairaan Nazar Aata Hai"
 published: true
 romanLyrics: |-
   1

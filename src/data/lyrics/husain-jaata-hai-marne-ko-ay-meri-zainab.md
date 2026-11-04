@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Husain Jaata Hai Marne Ko Ay Meri Zainab"
 cover: "/images/lyrics/husain-jaata-hai-marne-ko-ay-meri-zainab.png"
-coverAlt: "Cover image for Husain Jaata Hai Marne Ko Ay Meri Zainab"
+coverAlt: "Cover image for Husain Jaata Hai Marne Ko Ae Meri Zainab"
 published: true
 romanLyrics: |-
   Husain jaata hai marne ko ae meri Zainab

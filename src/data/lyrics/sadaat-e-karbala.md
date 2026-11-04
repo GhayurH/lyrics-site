@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Sadaat-E-Karbala"
 cover: "/images/lyrics/sadaat-e-karbala.png"
-coverAlt: "Cover image for Sadaat-E-Karbala"
+coverAlt: "Cover image for Sadaat-e-Karbala"
 published: true
 romanLyrics: |-
   Chehlum Ko Karbala Meiṅ Jab Aayi Wo Bibiyaṅ
