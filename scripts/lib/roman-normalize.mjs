@@ -99,8 +99,12 @@ export function normalizeRomanMarkdown(content, path = "") {
         for (const option of options) {
           const candidateStem = romanSkeleton(option.candidate);
           const d = distance(candidateStem, source.skeleton);
+          // Final ی/ے often spells a vowel: it need not appear as a
+          // consonantal y in the Roman skeleton (bari, ghari, tukre).
+          const finalVowel = /[یے]$/u.test(source.text) &&
+            source.skeleton === candidateStem + "y";
           const sameEdges = candidateStem[0] === source.skeleton[0] &&
-            candidateStem.at(-1) === source.skeleton.at(-1);
+            (candidateStem.at(-1) === source.skeleton.at(-1) || finalVowel);
           const near = Math.abs(pos - source.position);
           if (d > 1 || (d && !sameEdges) || (d && near > .30)) continue;
           const score = d * 10 + near;
