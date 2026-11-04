@@ -107,7 +107,7 @@ export function normalizeRomanMarkdown(content, path = "") {
     }
     let edited = line;
     for (const m of variants.reverse()) {
-      const old = m[0], replacement = old === old.toUpperCase()
+      const old = m[0], replacement = old.length > 1 && old === old.toUpperCase()
         ? "AE" : old[0] === old[0].toUpperCase() ? "Ae" : "ae";
       edited = edited.slice(0, m.index) + replacement + edited.slice(m.index + old.length);
     }
