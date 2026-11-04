@@ -33,7 +33,7 @@ romanLyrics: |-
   
   4
   Woh To Kamsin Hai Abhi, Dur Hai Shaam Se Bhi, Seh Na Payegi Kabhi
-  Mujh Se Zainab Ne Yeh Pucha, Kahaṅ Jati Ho Batao E Amma
+  Mujh Se Zainab Ne Yeh Pucha, Kahaṅ Jati Ho Batao Ae Amma
   Maine Zainab Se Chhupaya, Ke Maiṅ Darbar Chali Huṅ
   
   5

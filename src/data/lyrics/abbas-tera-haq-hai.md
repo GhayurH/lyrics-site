@@ -24,7 +24,7 @@ romanLyrics: |-
   sheh us ghadi akbar se zyada tujhe roye
   
   3
-  zainab ne kaha sham-e-ghariban may ay ghazi
+  zainab ne kaha sham-e-ghariban may ae ghazi
   beparda mujhe dekh ke baba tujhe roye
   
   4

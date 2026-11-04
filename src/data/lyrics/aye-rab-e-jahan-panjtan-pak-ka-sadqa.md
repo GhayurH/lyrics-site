@@ -1,6 +1,6 @@
 ---
 title: "اے ربِ جہاں، پنجتنؑ پاک کا صدقہ"
-alternateTitle: "Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
+alternateTitle: "Ae Rab-E-Jahan Panjtan Pak Ka Sadqa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,7 +13,7 @@ coverAlt: "Cover image for Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
 published: true
 romanLyrics: |-
   1
-  Aye Rab-e-Jahan, Panjtan Pak Ka Sadqa
+  Ae Rab-e-Jahan, Panjtan Pak Ka Sadqa
   Iss Qaum Ka Daman Gham-e-Shabbir Se Bhar De
   
   2

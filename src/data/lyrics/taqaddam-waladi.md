@@ -31,7 +31,7 @@ romanLyrics: |-
   Karbala ho chuki tayyar, taqaddam waladi
 
   3
-  E mere lakht-e jigar, e mere pyare farzand
+  Ae mere lakht-e jigar, ae mere pyare farzand
   Haiṅ yeh nau laakh to kya, azm to hai apna buland
   Aage aage saf-e awwal ke rahe apna samand
   Mere ashab ko pahunche na kahiṅ koi gazand

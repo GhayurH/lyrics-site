@@ -16,8 +16,8 @@ romanLyrics: |-
   Kave Zainab ujri jang Karbala di mukk gayi lutiyaṅ gayiaṅ ridaawan
   
   1
-  Kiwen shaam le jawan Sajjad bimar e
-  Hosh nai aundi ess nu eh sakht lachaar e
+  Kiwen shaam le jawan Sajjad bimar ae
+  Hosh nai aundi ess nu eh sakht lachaar ae
   Mainu samajh nai aundi viran disaa maiṅ kiwen ennu maut toṅ bachawan
   
   2

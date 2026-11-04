@@ -45,7 +45,7 @@ romanLyrics: |-
   
   8
   Phir Nazar Ki Su-e-Neher-e-Alqama Aur Yeh Kaha
-  Mere Ghairatdaar Ay Saaqii-e-Kausar, Alwida
+  Mere Ghairatdaar Ae Saaqii-e-Kausar, Alwida
   
   9
   Yeh Khalish Dil Se Na Jaye Gi Qayamat Tak Kabhi

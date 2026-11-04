@@ -71,10 +71,10 @@ romanLyrics: |-
   Kuch Khaak-e-Paak Lelo Ke Sughra Alil Hai
   
   8
-  Ay Karbala-e-Sarwar-e-Dilgir Alwida
-  Ay Qatl-Gah-e-Hazrat-e-Shabbir Alwida
-  Ay Qabr-e-Ibn-e-Sahib-e-Tathir Alwida
-  E Bhai Jaan, Jaati Hai Humshir, Alwida
+  Ae Karbala-e-Sarwar-e-Dilgir Alwida
+  Ae Qatl-Gah-e-Hazrat-e-Shabbir Alwida
+  Ae Qabr-e-Ibn-e-Sahib-e-Tathir Alwida
+  Ae Bhai Jaan, Jaati Hai Humshir, Alwida
   Kya Gham Nasib Hai Ye Nawasi Rasul Ki
   Tum Ne Mujawiri Na Hamari Qubul Ki
   
@@ -90,7 +90,7 @@ romanLyrics: |-
   Kab Se Tumheiṅ Pukar Rahi Huṅ Maiṅ Khasta-Tan
   Haye Haye Jawab Bhi Nahiṅ Dete Shah-e-Zaman
   Bhaiyya Gale Laga Luṅ To Jaauṅ Su-e-Watan
-  Aayi Nida, Sidhaaro, Khuda Hafiz E Behen
+  Aayi Nida, Sidhaaro, Khuda Hafiz Ae Behen
   Sughra Ko Meri Simt Se Bhi Pyar Kijiyo
   Hoga Sawab Khatir-e-Bimar Kijiyo
 ---

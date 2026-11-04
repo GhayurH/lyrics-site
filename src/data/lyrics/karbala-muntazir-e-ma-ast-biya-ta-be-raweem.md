@@ -96,16 +96,16 @@ romanLyrics: |-
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   11
-  Kaash E Kaash Koi Hota Wafa Ka Meyaar
-  Kaash E Kaash Koi Rakhta Mukammal Kirdar
+  Kaash Ae Kaash Koi Hota Wafa Ka Meyaar
+  Kaash Ae Kaash Koi Rakhta Mukammal Kirdar
   Koi Tamir Kara Deta Baqiye Ka Mazaar
   Kaash Hum Meiṅ Koi Hota Janab-e-Mukhtar
   Hai Kahaṅ Aisa Musalmaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   12
-  Kaash E Kaash Bane Karb o Bala Ka Lashkar
-  Kaash E Kaash Mile Aakhri Wo Fath o Zafar
+  Kaash Ae Kaash Bane Karb o Bala Ka Lashkar
+  Kaash Ae Kaash Mile Aakhri Wo Fath o Zafar
   Kaash Jaari Rahe Moula Ki Ye Nusrat Ka Safar
   Karbala Muntazir-e-Mehdi-e-Dauraan Hai, Qamar
   Dekho Tayyar Hai Maidaan, Biya Ta Be Rawim

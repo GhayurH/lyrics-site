@@ -12,7 +12,7 @@ cover: "/images/lyrics/meri-marqad-bana-lena.png"
 coverAlt: "Cover image for Meri Marqad Bana Lena"
 published: true
 romanLyrics: |-
-  Aye bani asad walo,
+  Ae bani asad walo,
   mera laasha utha lena,
   Aur kafan bhi pinha dena,
   

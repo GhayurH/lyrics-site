@@ -12,46 +12,46 @@ cover: "/images/lyrics/islam-ko-hayaat-mili-zahra-ke-dar-se.png"
 coverAlt: "Cover image for Islam Ko Hayaat Mili Zahra Ke Dar Se"
 published: true
 romanLyrics: |-
-  Islam Ko Hayaat Mili Zahra Ke Dar Se Aye Kalmago Suno
+  Islam Ko Hayaat Mili Zahra Ke Dar Se Ae Kalmago Suno
 
   Quran Sar Buland Hua, Bach Gayi Namaz
-  Ik Sani-e-Batul Ke Khutboṅ Ke Asar Se Aye Kalmago Suno
+  Ik Sani-e-Batul Ke Khutboṅ Ke Asar Se Ae Kalmago Suno
   
   1
   Ik Sajda-e-Shabbir Se Islam Bach Gaya
   Khun-e-Husain Din Ki Rag Rag Meiṅ Rach Gaya
   Quran Ke Hafizoṅ Ne Jalaya Nabi Ka Ghar
-  Luti Rida Batul Ki Hai Beti Ke Sar Se Aye Kalmago Suno
+  Luti Rida Batul Ki Hai Beti Ke Sar Se Ae Kalmago Suno
   
   2
   Ye Aaj Subh o Shaam Jo Sunta Hai Tu Azaaṅ
   Takmil Isko De Gaya Akbar Sa Nojawan
   Islam Ki Baqa Ke Liye Karb o Bala Meiṅ
-  Khenchi Sina Husain Ne Bete Ke Jigar Se Aye Kalmago Suno
+  Khenchi Sina Husain Ne Bete Ke Jigar Se Ae Kalmago Suno
   
   3
   Zahra Ki Paak Chadreiṅ Tathir Ke Tale
   Islam Aur Husain Haiṅ Ek Saath Hi Pale
   Dete Na Jo Husain Agar Din Ko Panah
-  Islam Ne Mar Jana Tha Pehle Hi Asr Se Aye Kalmago Suno
+  Islam Ne Mar Jana Tha Pehle Hi Asr Se Ae Kalmago Suno
   
   4
   Asghar Masum Pyaas Ki Shiddat Se Mar Gaya
   Aur Apni Maa Ki God Ko Viran Kar Gaya
   Jiske Gale Pe Maar Diya Hurmala Ne Tir
-  Paani To Iske Waaste Maanga Tha Shimr Se Aye Kalmago Suno
+  Paani To Iske Waaste Maanga Tha Shimr Se Ae Kalmago Suno
   
   5
   Girte Haiṅ Phir Sambhalte Haiṅ Rahoṅ Meiṅ Abidin
   Sar Pe Ghamoṅ Ki Dhup Hai, Saaya Kahiṅ Nahi
   Barsaat Sang o Khisht Ki Aakhir Hai Chaar Su
-  Aal-e-Nabi Ka Kafila Hai Guzra Jidhar Se Aye Kalmago Suno
+  Aal-e-Nabi Ka Kafila Hai Guzra Jidhar Se Ae Kalmago Suno
   
   6
   Bazar-e-Shaam Abid-e-Maghmum Aa Gaya
   Jo Saath Le Ke Zainab o Kulsum Aa Gaya
   Maula Ali Ki Beti Yahaṅ Haathoṅ Meiṅ Hai Rasan
-  Sehmi Khari Haiṅ Bibiyaaṅ Hai Shimr Ke Dar Se Aye Kalmago Suno
+  Sehmi Khari Haiṅ Bibiyaaṅ Hai Shimr Ke Dar Se Ae Kalmago Suno
 ---
 
 اسلام کو حیات ملی زہرا کے در سے، اے کلمہ گو سنو

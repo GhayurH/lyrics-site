@@ -51,7 +51,7 @@ romanLyrics: |-
   5
   Beti Ko Jab Supurd-e-Behan Kar Chuke Imam
   Ro Kar Behan Se Kehne Lage Aasmaaṅ Maqam
-  Jana Watan Jo Qaid Se Chhut Kar E Tishna Kaam
+  Jana Watan Jo Qaid Se Chhut Kar Ae Tishna Kaam
   Kehna Lahad Pe Maaṅ Ki Mera Aakhri Salam
   Aaya Jo Lab Pe Fatima Zehra Ka Tazkira
   Kohraam Mach Gaya, Kohraam Mach Gaya
@@ -75,7 +75,7 @@ romanLyrics: |-
   8
   Bhai Ko Tanha Dekh Ke Zainab Tarap Gayi
   Roti Hui Husain Ke Nazdik Aagayi
-  Aur Phir Raqab Thaam Ke Boli Ay Shah-e-Din
+  Aur Phir Raqab Thaam Ke Boli Ae Shah-e-Din
   Lo Maiṅ Sawar Karti Huṅ Abbas Gar Nahiṅ
   Waiz Hua Sawar Jo Zehra Ka Laadla
   Kohraam Mach Gaya, Kohraam Mach Gaya

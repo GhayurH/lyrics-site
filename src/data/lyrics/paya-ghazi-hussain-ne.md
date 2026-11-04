@@ -29,7 +29,7 @@ romanLyrics: |-
 
   3
   Chaar Shaban ki ghari aayi
-  Bolo Zainab ke e mere bhai
+  Bolo Zainab ke ae mere bhai
   Rab se manga tha maa ne tujhe
   Rab ne bheja tha ata ata keh ke
 

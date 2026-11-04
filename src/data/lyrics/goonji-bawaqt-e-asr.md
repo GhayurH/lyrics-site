@@ -36,7 +36,7 @@ romanLyrics: |-
   Akbar kahaṅ hai dard bata maiṅ Husain huṅ
   
   6
-  Ay shamiyo kafan na diya mujhko gham nahi
+  Ae shamiyo kafan na diya mujhko gham nahi
   Dedo meri behan ko rida maiṅ Husain huṅ
   
   7

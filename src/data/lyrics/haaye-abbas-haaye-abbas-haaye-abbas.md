@@ -47,9 +47,9 @@ romanLyrics: |-
   Umar lag jaaye meri zinda rahe bhai mera
   
   6
-  Ji ke ab kya karuṅ e bhai tumhare gham meiṅ
+  Ji ke ab kya karuṅ ae bhai tumhare gham meiṅ
   Zindagi guzre gi Zainab ki tere maatam meiṅ
-  Mujh ko tarpaye gi e bhai teri yaad sada
+  Mujh ko tarpaye gi ae bhai teri yaad sada
   
   7
   Khali kuze liye bacche haiṅ dar-e-khaima par

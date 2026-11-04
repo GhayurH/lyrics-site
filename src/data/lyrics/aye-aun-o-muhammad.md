@@ -1,6 +1,6 @@
 ---
 title: "اے عون و محمد"
-alternateTitle: "Aye Aun O Muhammad"
+alternateTitle: "Ae Aun O Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

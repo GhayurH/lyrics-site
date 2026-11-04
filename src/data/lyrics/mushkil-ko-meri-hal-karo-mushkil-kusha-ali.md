@@ -12,7 +12,7 @@ cover: "/images/lyrics/mushkil-ko-meri-hal-karo-mushkil-kusha-ali.png"
 coverAlt: "Cover image for Mushkil Ko Meri Hal Karo Mushkil Kusha Ali"
 published: true
 romanLyrics: |-
-  E Kul Ke Madadgar Sardaroṅ Ke Sardar
+  Ae Kul Ke Madadgar Sardaroṅ Ke Sardar
   Mushkil Kushai Ho Mere Moula Mere Sarkar
   Gar Tum Na Karoge To Karam Kaun Karega
   Gar Tum Na Sunoge To Meri Kaun Sunega
@@ -31,7 +31,7 @@ romanLyrics: |-
   Tum Bin Nahiṅ Hai Koi Mera Aasra Ali
   
   3
-  E Kibriya Ki Shan Muhammad Ke Dil Nashiṅ
+  Ae Kibriya Ki Shan Muhammad Ke Dil Nashiṅ
   Aansu Rawan Haiṅ Aankh Se Dil Ko Sukuṅ Nahiṅ
   Ye Dil Se Aa Rahi Musalsal Sada Ali
   

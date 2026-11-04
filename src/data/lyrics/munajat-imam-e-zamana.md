@@ -13,11 +13,11 @@ coverAlt: "Cover image for munajat imam e zamana"
 published: true
 romanLyrics: |-
   Bulate haiṅ ro ro ke ahl-e aza
-  Chale aao e Ibn-e Mushkil Kusha
+  Chale aao ae Ibn-e Mushkil Kusha
 
   1
   Tumheiṅ haq-e Zahra ka hai wasta
-  Chale aao e Ibn-e Mushkil Kusha
+  Chale aao ae Ibn-e Mushkil Kusha
 
   2
   Hai phaili jahaṅ meiṅ ajab si waba
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   6
   Mera khwab bhi mahv-e tabir ho
-  E Maula Baqiyya ki taamir ho
+  Ae Maula Baqiyya ki taamir ho
   Laboṅ par musalsal yahi hai dua
 
   7
@@ -66,7 +66,7 @@ romanLyrics: |-
 
   11
   Hilal aur Misam ki hai iltija
-  Tumhari zabaṅ se e kaash ek dafa
+  Tumhari zabaṅ se ae kaash ek dafa
   Suneiṅ hum bhi rote hue Nahiya
 
 ---

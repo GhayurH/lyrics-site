@@ -1,6 +1,6 @@
 ---
 title: "اے ربِ پنجتن"
-alternateTitle: "Aye Rab-E-Panjtan"
+alternateTitle: "Ae Rab-E-Panjtan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/aye-rab-e-panjtan.png"
 coverAlt: "Cover image for Aye Rab-E-Panjtan"
 published: true
 romanLyrics: |-
-  Aye Rab-e-Panjtan, Meri Tujh Se Hai Yeh Dua
+  Ae Rab-e-Panjtan, Meri Tujh Se Hai Yeh Dua
   
   1
   Parwardigar, Tu Hi Rahim o Karim Hai

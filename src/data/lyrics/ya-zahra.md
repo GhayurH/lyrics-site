@@ -13,7 +13,7 @@ coverAlt: "Cover image for Ya Zahra"
 published: true
 romanLyrics: |-
   Ya Zahra Ya Zahra
-  e meri bibi, tere dar pe istighasa hai
+  ae meri bibi, tere dar pe istighasa hai
   tera mamnun meri shahzadi yeh jahaṅ sara hai
   
   1
@@ -22,7 +22,7 @@ romanLyrics: |-
   teri qudrat meiṅ kya nahi bibi
   tu jise chahe do jahaṅ de de
 
-  e meri bibi, aansuoṅ ne dua maangi hai
+  ae meri bibi, aansuoṅ ne dua maangi hai
   teri tasbih parh ke dil ne tujhe pukara hai
   
   2
@@ -31,7 +31,7 @@ romanLyrics: |-
   jin ki godi bhari nahi bibi
   unko aulaad tu ata kar de
 
-  e meri bibi, bas tu hi murad deti hai
+  ae meri bibi, bas tu hi murad deti hai
   teri chaukhat dar-e-ilahi ka istiara hai
   
   3
@@ -40,16 +40,16 @@ romanLyrics: |-
   hum raheiṅ na raheiṅ magar bibi
   ta qayamat rahe gham-e-Sarwar
 
-  e meri bibi, tere bachoṅ ka gham manate haiṅ
+  ae meri bibi, tere bachoṅ ka gham manate haiṅ
   apni aulaad se kahiṅ barh ke gham yeh pyara hai
   
   4
   un shahidoṅ ka yeh muqaddar hai
   saibaṅ in ka teri chadar hai
-  unke sinoṅ pe e meri bibi
+  unke sinoṅ pe ae meri bibi
   daagh-e-matam nishan-e-Haider hai
 
-  e meri bibi, khuld meiṅ shahid jab jaye
+  ae meri bibi, khuld meiṅ shahid jab jaye
   teri awaaz aaye aane do yeh hamara hai
   
   5
@@ -58,7 +58,7 @@ romanLyrics: |-
   jaise maine parha hai bachpan se
   mere bache bhi yun parheiṅ nauha
 
-  ay meri bibi, inke dil meiṅ wilayah-e-Haider
+  ae meri bibi, inke dil meiṅ wilayah-e-Haider
   mere maa baap ki taharat ka ek ishara hai
   
   6
@@ -67,7 +67,7 @@ romanLyrics: |-
   aasman o zamiṅ pe gar hote
   misl-e-shab woh siyah ho jate
 
-  e meri bibi, dekh kar teri musibat ko
+  ae meri bibi, dekh kar teri musibat ko
   sare aalam ka dil masaib se para para hai
   
   7
@@ -76,7 +76,7 @@ romanLyrics: |-
   tujh ko baba ke baad ummat ne
   haaye darbar meiṅ bulaya hai
 
-  e meri bibi, kitne sadme uthaye haiṅ tu ne
+  ae meri bibi, kitne sadme uthaye haiṅ tu ne
   jite ji tujh ko meri shahzadi gham ne maara hai
   
   8
@@ -85,7 +85,7 @@ romanLyrics: |-
   saath Irfan ke rahe jaari
   tere sadqe meiṅ karwan-e-aza
 
-  e meri bibi, tere dar pe sar jhukate haiṅ
+  ae meri bibi, tere dar pe sar jhukate haiṅ
   har Husaini ka tere tukroṅ pe hi guzara hai
 ---
 

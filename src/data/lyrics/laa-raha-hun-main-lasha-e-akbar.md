@@ -59,7 +59,7 @@ romanLyrics: |-
   Umme Laila Sambhaal Zainab Ko
   
   6
-  E takallum wo shaam o kufa ka
+  Ae takallum wo shaam o kufa ka
   Te hua hoga is tarah se safar
   Amma Zainab sambhaalna maa ko
   Kehte honge sina se yeh Akbar

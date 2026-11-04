@@ -42,20 +42,20 @@ romanLyrics: |-
   Sadaat-e-Karbala
   
   5
-  Bano Ye Bain Karti Thi Ay Mere Bezubaan
+  Bano Ye Bain Karti Thi Ae Mere Bezubaan
   Maaṅ Dhunde Ab Kahaṅ
-  Batla De Hai Kahaṅ Mera Asghar E Karbala
+  Batla De Hai Kahaṅ Mera Asghar Ae Karbala
   Sadaat-e-Karbala
   
   6
-  Qurban Tere Ay Mere Maajaye beWatan
+  Qurban Tere Ae Mere Maajaye beWatan
   Majbur Thi Behan
   Zindaan Meiṅ Mujh Se Teri Amanat Hui Juda
   Sadaat-e-Karbala
   
   7
   Rote Haiṅ Khaas o Aam Tera Sun Ke Ye Kalam
-  E Shah Ke Ghulam
+  Ae Shah Ke Ghulam
   Nauha Tera Anis Hai Maqbul-e-Bargah
   Sadaat-e-Karbala
 ---

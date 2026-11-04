@@ -31,7 +31,7 @@ romanLyrics: |-
   Ye Intezaam Bhi Chauthe Imam Kar Ke Chale
   
   4
-  Zafar Sada Yehi Aati Thi E Mere Baba
+  Zafar Sada Yehi Aati Thi Ae Mere Baba
   Sabhi Watan Gaye Maiṅ Qaid Meiṅ Rahi Tanha
   Lahad Pe Ahl-e-Haram Jab Salaam Kar Ke Chale
 ---

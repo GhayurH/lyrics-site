@@ -91,7 +91,7 @@ romanLyrics: |-
   Le le ke shohar ka naam, khub sa matam kiya
   Laasha-e-Abbas ke, tukre jo the jaa bajaa
   Chun ke har ek uzu ko, sar se mila kar kaha
-  Aao ay Zain-ul-Aba, khaak uraati huṅ maiṅ
+  Aao ae Zain-ul-Aba, khaak uraati huṅ maiṅ
   Yaani sar Abbas ka, tan se milaati huṅ maiṅ
 ---
 

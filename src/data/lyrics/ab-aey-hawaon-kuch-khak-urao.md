@@ -37,7 +37,7 @@ romanLyrics: |-
   Kiuṅ Sar Pe Tere Hai Zakhm Tari
   
   3
-  Ay Zuljana-e-Sibt-e-Payambar
+  Ae Zuljana-e-Sibt-e-Payambar
   Batala Kahaṅ Hai Mera Biradar
   Pyasi Sakina Karti Hai Noha
   Baba Na Aaye Maqtal Se Kiunkar

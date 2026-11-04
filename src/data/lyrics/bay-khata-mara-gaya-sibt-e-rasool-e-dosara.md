@@ -17,7 +17,7 @@ romanLyrics: |-
   
   1
   Khuṅ Ugalte Hue Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
-  Teri Ghurbat Pe Ay Bhai, Teri Zainab Ho Fida, Wa Hasan-e-Sabz Qaba
+  Teri Ghurbat Pe Ae Bhai, Teri Zainab Ho Fida, Wa Hasan-e-Sabz Qaba
   
   2
   Maaṅ Ke Dukh Se Abhi Azad Kahaṅ Thi Zainab, Ho Gaya Kaisa Ghazab

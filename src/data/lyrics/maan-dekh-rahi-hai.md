@@ -22,7 +22,7 @@ romanLyrics: |-
   Maaṅ dekh tahi hai
   
   2
-  E behn tere samne baba ke haiṅ haalaat
+  Ae behn tere samne baba ke haiṅ haalaat
   Ab sham-e-ghariban ko hi hoti hai mulaaqaat
   Mur mur ke Sakina ki taraf dekh raha hai
   Maaṅ dekh rahi hai

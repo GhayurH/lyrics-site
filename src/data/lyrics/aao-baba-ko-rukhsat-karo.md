@@ -59,7 +59,7 @@ romanLyrics: |-
   Yaad hai tumko baba ne jate hue
   Haath rakha tumhara mere haath pe
   Tumko shab ki namazoṅ meiṅ manga gaya
-  E mere bhai Karbobala ke liye
+  Ae mere bhai Karbobala ke liye
   Kya yeh sadma hai kam, haiṅ yatim aaj hum
   Haye aghaz-e Karbobala hai yeh gham
 
@@ -68,7 +68,7 @@ romanLyrics: |-
   Dekho baba ke pehlu meiṅ baithi haiṅ maa
   Haye ghurbat wohi haath pehlu pe hai
   Taziyanoṅ ke jis par haiṅ ab bhi nishan
-  Dekho e ba wafa, saath haiṅ Mustafa
+  Dekho ae ba wafa, saath haiṅ Mustafa
   Chal ke baba ko ab bol do alvida
 
   7
@@ -83,7 +83,7 @@ romanLyrics: |-
   Baat behnoṅ ki aayi to Ghazi uthe
   Apne baba ki mayyat ki janib chale
   Aa ke baba ke qadmoṅ ka bosa liya
-  E Raza haal Zishan kaise likhe
+  Ae Raza haal Zishan kaise likhe
   Jab janaza utha, ghar meiṅ kohraam tha
   Ro ke Abbas ne bhaiyoṅ se kaha
 

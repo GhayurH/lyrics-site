@@ -15,7 +15,7 @@ romanLyrics: |-
   ran ko jaate huwe sar jhukaye hue
   Sheh ne ro kar kaha alwida alwida
   
-  aaya waqt-e-safar ay behan aaj ham
+  aaya waqt-e-safar ae behan aaj ham
   ho rahe haiṅ juda alwida alwida
   
   1
@@ -41,7 +41,7 @@ romanLyrics: |-
   
   4
   bola bemaar bete se aaqa mera
-  ab na aayega e beta baba tera
+  ab na aayega ae beta baba tera
   beta baba tera
   maut ki aahateiṅ tez hone lagiṅ
   aa rahi hai sada alwida alwida
@@ -58,7 +58,7 @@ romanLyrics: |-
   aao zainab ke bhai ko rukhsat karo
   haye rukhsat karo
   aik ek laash-e-besar se aayi sada
-  ay shah-e-karbala alwida alwida
+  ae shah-e-karbala alwida alwida
   
   7
   aisa matam karo aisa matam karo

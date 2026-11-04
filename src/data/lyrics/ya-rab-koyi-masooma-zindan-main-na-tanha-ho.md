@@ -28,7 +28,7 @@ romanLyrics: |-
   Bhai Se Aur Phuphi Se, Jisko Juda Kiya Ho
   
   4
-  Zindan Maiṅ Aye Najafi, Yaad Aayi Sakina Ki
+  Zindan Maiṅ Ae Najafi, Yaad Aayi Sakina Ki
   Dil Ro Ro Keh Raha Hai, Ab Na Ujala Ho
 ---
 

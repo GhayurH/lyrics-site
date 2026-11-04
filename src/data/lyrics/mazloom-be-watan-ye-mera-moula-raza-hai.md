@@ -37,7 +37,7 @@ romanLyrics: |-
   
   5
   Masuma-e-Qum Deti Haiṅ Ro, Ro Ke Duhai
-  E Kash Mila De Koi Mujh Se Mera Bhai
+  Ae Kash Mila De Koi Mujh Se Mera Bhai
   Sughra Ki Tarha Haye Behan, Jis Se Juda Hai
   
   6

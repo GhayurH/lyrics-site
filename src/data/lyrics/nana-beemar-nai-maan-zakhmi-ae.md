@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Nana Di Qabar Te Kehnde Rae
   Ro Ro Ke Hasan Husain
-  Tur Chali E Nana Dunya Tuṅ
+  Tur Chali Ae Nana Dunya Tuṅ
   Teri Dhi Tere Dil Da Chain
   Atuṅ Apne Zulm Chupaon Layi Darbari Aehon Kehan
   Bimar Taiyuṅ Kardi Ae Dhi Paak Nabi Di Ven

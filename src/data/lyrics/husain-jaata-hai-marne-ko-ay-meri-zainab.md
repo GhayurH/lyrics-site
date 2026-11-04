@@ -1,6 +1,6 @@
 ---
 title: "حسین جاتا ہے مرنے کو اے میری زینب"
-alternateTitle: "Husain Jaata Hai Marne Ko Ay Meri Zainab"
+alternateTitle: "Husain Jaata Hai Marne Ko Ae Meri Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,9 +12,9 @@ cover: "/images/lyrics/husain-jaata-hai-marne-ko-ay-meri-zainab.png"
 coverAlt: "Cover image for Husain Jaata Hai Marne Ko Ay Meri Zainab"
 published: true
 romanLyrics: |-
-  Husain jaata hai marne ko e meri Zainab
+  Husain jaata hai marne ko ae meri Zainab
   Qarib aa gaya ab waqt-e-aakhri Zainab
-  Salam tum pe e Baba ki laadli Zainab
+  Salam tum pe ae Baba ki laadli Zainab
   
   Zainab ne kaha kaun hai pardes meiṅ mera
   Kiuṅ jaate ho tum chhor ke bhaiya mujhe tanha

@@ -26,7 +26,7 @@ romanLyrics: |-
   Woh samaaṅ dil se jata nahiṅ hai
 
   3
-  Bahr-e tazim utho e Akbar
+  Bahr-e tazim utho ae Akbar
   Parda dari karo mere dilbar
   Aa rahi hai sawari phuphi ki
   Jis ka koi sahara nahiṅ hai

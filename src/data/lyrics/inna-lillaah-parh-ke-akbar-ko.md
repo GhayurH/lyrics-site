@@ -50,7 +50,7 @@ romanLyrics: |-
   Arsh jaise zamiṅ pe girta hai
   
   6
-  e raza is jawan ke sine se
+  ae raza is jawan ke sine se
   khun rukta nahi hai roke se
   sheh ka daaman lahu may dub gaya
   zakhm na jaane kitna gehra hai

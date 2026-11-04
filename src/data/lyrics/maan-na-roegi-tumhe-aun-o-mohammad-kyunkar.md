@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Jab ke zindan meiṅ tum dono ka sar aya tha
   Maaṅ na royi thi tumhe tumko gila to hoga
-  Muaaf karna jo agar ho sake aye lakhte jigar
+  Muaaf karna jo agar ho sake ae lakhte jigar
   
   2
   Mujhse puchenge jo Abdullah kahaṅ haiṅ bachche
@@ -42,13 +42,13 @@ romanLyrics: |-
   Kaun ab mujhko pukarega bhala maa kehkar
   
   6
-  Ay mere laal tere baad ghazab hum pe hua
+  Ae mere laal tere baad ghazab hum pe hua
   Haey is chashm-e-falak ne bhi ye manzar dekha
   Sar barehna ye lain laigaye humko dar dar
   
   7
   Bain sunkar ye uthi Zain baqayya se sada
-  Gham na kha ay meri beti ke ye maa tumpe fida
+  Gham na kha ae meri beti ke ye maa tumpe fida
   Haiṅ mere paas mere Aun o Mohammad dilbar
 ---
 

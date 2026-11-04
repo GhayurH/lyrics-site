@@ -1,6 +1,6 @@
 ---
 title: "اے چاند محرم کے"
-alternateTitle: "Aye Chand Muharram Kai"
+alternateTitle: "Ae Chand Muharram Kai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/aye-chand-muharram-kai.png"
 coverAlt: "Cover image for Aye Chand Muharram Kai"
 published: true
 romanLyrics: |-
-  Aye chand muharram kai, tu badli meiṅ chala jaa
+  Ae chand muharram kai, tu badli meiṅ chala jaa
   Tujhe daikh ke mar jaye na, bimar hai Sughra
   
   1

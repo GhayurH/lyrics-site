@@ -29,7 +29,7 @@ romanLyrics: |-
   To phir hai wahm o gumaṅ La ilaha illa Allah
 
   5
-  Ali ko dil meiṅ basa kar to dekh lo e waiz
+  Ali ko dil meiṅ basa kar to dekh lo ae waiz
   To khud kahegi zabaṅ La ilaha illa Allah
 
   6
@@ -53,7 +53,7 @@ romanLyrics: |-
   To aaj tak hai jawan La ilaha illa Allah
 
   11
-  Dar-e Batul nahiṅ jal raha tha e Majid
+  Dar-e Batul nahiṅ jal raha tha ae Majid
   Woh ho raha tha dhuaṅ La ilaha illa Allah
 
 ---

@@ -27,7 +27,7 @@ romanLyrics: |-
   2
   dhup may tu tha shajar tujhse aabaad tha ghar
   hai barehna mera sar kya nahi tujhko khabar
-  ay alamdar-e-wafa is behan ko ba-khuda
+  ae alamdar-e-wafa is behan ko ba-khuda
   tujhse dhaaras thi bari
   
   3
@@ -37,7 +37,7 @@ romanLyrics: |-
   baaraha hum pe hansi
   
   4
-  kitni bebas thi behan ay shehenshahe wafa
+  kitni bebas thi behan ae shehenshahe wafa
   naam le le ke mera jab ye zaalim ne kaha
   naaz tha jispe tujhe ab bulao na usay
   aur maiṅ roti rahi
@@ -49,13 +49,13 @@ romanLyrics: |-
   mujh pe hai tashnalabi
   
   6
-  kya sakina se kahuṅ e mere dil ke sukuṅ
+  kya sakina se kahuṅ ae mere dil ke sukuṅ
   haye pani ke liye beh gaya sab tera khuṅ
   ab koi aas nahi tu mere paas nahi
   rassi shaanoṅ meiṅ bandhi
   
   7
-  jab chali sheh pe churi ay mere sher-e-jari
+  jab chali sheh pe churi ae mere sher-e-jari
   haath malti thi behan kuch qadam dur khari
   kat gaya sheh ka gala haye bhai ne sada
   mujhko har zarb pa di

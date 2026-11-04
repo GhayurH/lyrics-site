@@ -43,7 +43,7 @@ romanLyrics: |-
   5
   Ro kar kahe Qasim ki maaṅ
   Mara gaya Qasim jawaan
-  E laal mei dhundhun kahaṅ
+  Ae laal mei dhundhun kahaṅ
   mehndi teri sehra tera
   Maula haq imam....
   

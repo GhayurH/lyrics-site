@@ -26,7 +26,7 @@ romanLyrics: |-
   
   3
   Jab se ye chand muharram ka nazar aaya hai
-  Amma roti hai tujhe e mere maa jaye Husain
+  Amma roti hai tujhe ae mere maa jaye Husain
   
   4
   Koi taswir to Zahra ki rahi parde maiṅ

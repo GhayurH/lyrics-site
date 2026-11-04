@@ -59,11 +59,11 @@ romanLyrics: |-
   Bharam Duaoṅ Ka Meri Bhi Aaj Rakh Lena
   
   6
-  Shikasta Pehlu-e-Zahra Ka Wasta Ay Khuda
+  Shikasta Pehlu-e-Zahra Ka Wasta Ae Khuda
   Jo Waqt-e-Ghusl Ali Ne Basad Buka Dekha
   To Apne Aansu Ali Sa Jari Na Rok Saka
   Khuda Ka Sher Bhi Ek Chikh Maar Kar Roya
-  Usi Rasul Ki Beti Ka Wasta E Khuda
+  Usi Rasul Ki Beti Ka Wasta Ae Khuda
   Ho Walidain Ko Sehat Ke Sath Umr Ata
   
   7

@@ -1,6 +1,6 @@
 ---
 title: "اے دشمنِ شبیر تیرے پیر پہ لعنت"
-alternateTitle: "Aye Dushmane Shabbir Tery Peer Pe Lanat"
+alternateTitle: "Ae Dushmane Shabbir Tery Peer Pe Lanat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
 
   1
-  Aye Dushmane Shabbir Tery Pir pa Lanat
+  Ae Dushmane Shabbir Tery Pir pa Lanat
   tashrik pa tashkik pa takfir pa lanaat
   Har ehad ke jhutoṅ ke bare pir pa laanat
   

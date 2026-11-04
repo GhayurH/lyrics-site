@@ -56,7 +56,7 @@ romanLyrics: |-
   
   9
   Aaj Bhi Aati Hai Yeh Qabr-e-Sakina Se Sada
-  E Chacha Aati Na Zindaan Meiṅ Hum Ko Yun Qaza
+  Ae Chacha Aati Na Zindaan Meiṅ Hum Ko Yun Qaza
   Saath Gar Hum Bhi Tumhare Jaate
   
   10
