@@ -32,6 +32,6 @@ Remove legacy `(x2)` directions from Roman lyrics rather than displaying them or
 2. Normalize **only** unambiguous spellings. Review context-sensitive vowels, nasal placement, `Zehra/Zahra`, ع/ء and compound boundaries line-by-line.
 3. Check all views: static pages, streamed Basta, individual kalam, Recitation Sets and exports. Ensure HTML source markup is not shown to readers.
 4. Run `npm run source:sync`, `npm run content:review` and `npm run build`. Compare diffs and verify stable recitation/stanza IDs.
-5. Search aliases remain tolerant of old spellings; they must never silently rewrite canonical content.
+5. Displayed Roman titles, `romanHaal`, generated Basta index labels, and generic accessible `coverAlt` labels follow the same rules. Historical aliases and stable URLs remain unchanged so old searches and links still work.
 
 **Do not** programmatically manufacture missing lyrics from OCR guesses, or silence deliberate uncertainty with matching counts.

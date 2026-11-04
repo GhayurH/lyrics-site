@@ -179,3 +179,21 @@ test("Urdu-backed scholarly apostrophes become plain Roman vowels", () => {
   assert(normalizeRomanMarkdown(md("شاعری", "Qit'a")).text.includes("Qit'a"),
     "Do not replace a different Urdu word with guessed phonetics");
 });
+
+
+test("displayed Roman titles also normalize generic accessible cover labels", () => {
+  const src = md("میرے امام زماں", "Mere Imam-e-Zaman")
+    .replace("title: نام",
+      'title: "میرے امام زماں"\nalternateTitle: "Mere Imam Zaman"\n' +
+      'coverAlt: "Cover image for Mere Imam Zaman"\n' +
+      'aliases:\n  - "Mere Imam Zaman"');
+  const x = normalizeRomanMarkdown(src, "src/data/lyrics/test.md");
+  assert(x.text.includes('alternateTitle: "Mere Imam Zamaṅ"'));
+  assert(x.text.includes('coverAlt: "Cover image for Mere Imam Zamaṅ"'));
+  assert(x.text.includes('  - "Mere Imam Zaman"'), "historical aliases remain searchable");
+});
+test("romanHaal uses Urdu haal and preserves independent metadata", () => {
+  const src = md("اردو", "Roman").replace("title: نام",
+    'title: "اردو"\nhaal: "امام زماں"\nromanHaal: "Imam Zaman"');
+  assert(normalizeRomanMarkdown(src).text.includes('romanHaal: "Imam Zamaṅ"'));
+});
