@@ -1,6 +1,6 @@
 ---
 title: "یا رب کوئی معصومہ، زندان میں نہ تنہا ہو"
-alternateTitle: "Ya Rab Koyi Masooma Zindan Maiṅ Na Tanha Ho"
+alternateTitle: "Ya Rab Koyi Masuma, Zindan Meiṅ Na Tanha Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/ya-rab-koyi-masooma-zindan-main-na-tanha-ho.png"
 coverAlt: "Cover image for Ya Rab Koyi Masooma Zindan Main Na Tanha Ho"
 published: true
 romanLyrics: |-
-  Ya Rab Koyi Masuma, Zindan Maiṅ Na Tanha Ho
+  Ya Rab Koyi Masuma, Zindan Meiṅ Na Tanha Ho
   Paband Na Hoṅ Aaheiṅ, Rone Pe Na Pehra Ho
   
   1

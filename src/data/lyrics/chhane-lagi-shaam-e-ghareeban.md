@@ -62,7 +62,7 @@ romanLyrics: |-
   Maaṅ huṅ har ek ranj uthauṅ gi maiṅ,
   rote hue khud chali jauṅ gi maiṅ
   Dhund ke besher ko lauṅ gi maiṅ,
-  is ke bina ji nahiṅ pauṅ gi maiṅ
+  is ke bina ji nahiṅ paauṅ gi maiṅ
   Reh gaya haaye mera bachcha kahaṅ,
   haaye qiyamat ka hai samaaṅ
   

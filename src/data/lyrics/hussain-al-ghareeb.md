@@ -1,6 +1,6 @@
 ---
 title: "حسینؑ الغریب الغریب الحسینؑ"
-alternateTitle: "Husain Al Ghareeb"
+alternateTitle: "Husain Al Gharib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

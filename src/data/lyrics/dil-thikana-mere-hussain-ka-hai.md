@@ -30,7 +30,7 @@ romanLyrics: |-
   
   5
   Ye jo Kaba hai Tum na Samjho ge
-  Ghar Poorana Mere Husain ka hai
+  Ghar Purana Mere Husain ka hai
   
   6
   Aana Farsh-e-Aza pe beparda

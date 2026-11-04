@@ -1,6 +1,6 @@
 ---
 title: "ماں نہ روئے گی تمہیں عون و محمد کیوں کر"
-alternateTitle: "Maaṅ Na Roegi Tumhe Aun o Mohammad Kiuṅkar"
+alternateTitle: "Maaṅ Na Roegi Tumheiṅ Aun o Mohammad Kiuṅkar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/maan-na-roegi-tumhe-aun-o-mohammad-kyunkar.png"
 coverAlt: "Cover image for Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
 published: true
 romanLyrics: |-
-  Maaṅ na roegi tumhe Aun o Mohammad kiuṅkar
+  Maaṅ na roegi tumheiṅ Aun o Mohammad kiuṅkar
   
   Jab madine meiṅ nazar aaegi viraniy-e-ghar
   

@@ -1,6 +1,6 @@
 ---
 title: "ویرنا مَیں تیری قبر بناواں یا شام نوں جاواں"
-alternateTitle: "Veerna Maiṅ Teri Qabar Banawaṅ"
+alternateTitle: "Virna Maiṅ Teri Qabar Banawaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

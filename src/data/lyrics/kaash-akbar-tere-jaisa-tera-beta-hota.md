@@ -37,7 +37,7 @@ romanLyrics: |-
   
   5
   Dekhta Aankhoṅ Se Jab Nur-e-Nazar Ke Tukre
-  Baap Ke Moo Se Nikal Aate Jigar Ke Tukre
+  Baap Ke Munh Se Nikal Aate Jigar Ke Tukre
   Saath Barchi Ke Jo Haathoṅ Pe Kaleja Hota
   
   6
