@@ -235,7 +235,22 @@ export function normalizeRomanMarkdown(content, path = "") {
       [/شیعیان/u, /\bshia['’]an\b/giu, "shiaan"],
       [/طعنہ/u, /\bta['’]na\b/giu, "taana"],
       [/طعن/u, /\bta['’]n\b/giu, "taan"],
-      [/نزع/u, /\bnaz['’]\b/giu, "naza"],
+      [/نزع/u, /\bnaz['’](?=\s|$)/giu, "naza"],
+      [/لعین|لعیں/u, /\bla['’]in/giu, "lain"],
+      [/ساعت/u, /\bsaa['’]at\b/giu, "saaat"],
+      [/سَرِيعَ|سَرِیعَ/u, /\bsari['’]ar-riza\b/giu, "saria-r-riza"],
+      [/الدُّعَاءَ/u, /\bdu['’]a\b/giu, "duaa"],
+      [/فَعَّالٌ/u, /\bfa['’]{2}alun\b/giu, "faaalun"],
+      [/تَشَاءُ/u, /\btasha['’](?=\s|$)/giu, "tashaa"],
+      [/دَوَاءٌ/u, /\bdawa['’]un\b/giu, "dawaaun"],
+      [/شِفَاءٌ/u, /\bshifa['’]un\b/giu, "shifaaun"],
+      [/طَاعَتُهُ/u, /\bta['’]atuhu\b/giu, "taaatuhu"],
+      [/ائِمَّہ|ائمہ|ائِمّہ/u, /\ba['’]imma\b/giu, "aimma"],
+      [/شیعیان/u, /\bshia['’]an\b/giu, "shiaan"],
+      [/تَشَاءُون|تشاءون/u, /\btasha['’]un\b/giu, "tashaaun"],
+      [/أَنْعَمْتَ/u, /\ban['’]amta\b/giu, "anaamta"],
+      [/جَمِیعُ|جمیع/u, /\bjami['’]u\b/giu, "jamiau"],
+      [/وقوع/u, /\bwuq['’]u\b/giu, "wuqau"],
     ];
     let result = line;
     for (const [printed, variant, canonical] of mappings)

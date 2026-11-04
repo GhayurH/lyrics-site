@@ -197,3 +197,26 @@ test("romanHaal uses Urdu haal and preserves independent metadata", () => {
     'title: "اردو"\nhaal: "امام زماں"\nromanHaal: "Imam Zaman"');
   assert(normalizeRomanMarkdown(src).text.includes('romanHaal: "Imam Zamaṅ"'));
 });
+
+
+test("source-backed Arabic and Urdu ayn/hamza spellings use a, not apostrophes", () => {
+  const examples = [
+    ["لعینوں", "la'inon", "lainoṅ"],
+    ["ساعت", "Saa’at", "Saaat"],
+    ["يَا سَرِيعَ الرِّضَا", "Ya Sari'ar-Riza", "Ya Saria-r-Riza"],
+    ["الدُّعَاءَ", "Du'a", "Duaa"],
+    ["فَعَّالٌ", "Fa''alun", "Faaalun"],
+    ["تَشَاءُ", "Tasha'", "Tashaa"],
+    ["دَوَاءٌ", "Dawa'un", "Dawaaun"],
+    ["شِفَاءٌ", "Shifa'un", "Shifaaun"],
+    ["طَاعَتُهُ", "Ta'atuhu", "Taaatuhu"],
+    ["ائِمّہ", "A'imma", "Aimma"],
+    ["شیعیان", "Shia'an", "Shiaan"],
+  ];
+  for (const [urdu, input, expected] of examples) {
+    const result = normalizeRomanMarkdown(md(urdu, input), "src/data/basta/pages/999.md");
+    assert(result.text.includes("  " + expected), JSON.stringify({urdu,input,actual:result.text}));
+  }
+  const quoted = normalizeRomanMarkdown(md("یاعلی کی", "'Ya Ali' ki"));
+  assert(quoted.text.includes("'Ya Ali' ki"), "quoted speech is not Arabic transliteration markup");
+});
