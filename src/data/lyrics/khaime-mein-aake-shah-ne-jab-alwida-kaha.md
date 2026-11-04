@@ -17,7 +17,7 @@ romanLyrics: |-
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   1
-  Tha Jiska Intezar Wo Saa’at Qarib Hai
+  Tha Jiska Intezar Wo Saaat Qarib Hai
   Din Dhal Raha Hai Shaam-e-Musibat Qarib Hai
   Kuch Der Ki Hai Baat Qayamat Qarib Hai
   Zainab Gharib Bhai Ki Rukhsat Qarib Hai

@@ -1,6 +1,6 @@
 ---
 title: "يَا سَرِيعَ الرِّضَا"
-alternateTitle: "Ya Sari'ar-Riza"
+alternateTitle: "Ya Saria-r-Riza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,14 +9,14 @@ tags: []
 aliases:
   - "Ya Sari'ar-Riza"
 cover: "/images/lyrics/ya-sari-ar-riza.png"
-coverAlt: "Cover image for Ya Sari'ar-Riza"
+coverAlt: "Cover image for Ya Saria-r-Riza"
 published: true
 romanLyrics: |-
-  Ya Sari'ar-Riza Ya Sari'ar-Riza
-  Ighfir Liman La Yamliku Illad-Du'a
-  Fa-Innaka Fa''alun Lima Tasha'
-  Ya Man Ismuhu Dawa'un Wa Zikruhu Shifa'un
-  Wa Ta'atuhu Ghina
+  Ya Saria-r-Riza Ya Saria-r-Riza
+  Ighfir Liman La Yamliku Illad-Duaa
+  Fa-Innaka Faaalun Lima Tashaa
+  Ya Man Ismuhu Dawaaun Wa Zikruhu Shifaaun
+  Wa Taaatuhu Ghina
   
   1
   Tu Hi Kabir Tu Hi Kibriya Tu Rahnuma
