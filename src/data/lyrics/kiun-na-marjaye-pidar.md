@@ -12,28 +12,28 @@ cover: "/images/lyrics/kiun-na-marjaye-pidar.png"
 coverAlt: "Cover image for Kiun Na Marjaye Pidar"
 published: true
 romanLyrics: |-
-  kyun na mar jaye pidar jeete ji Sarwar jaisa
+  kiuṅ na mar jaye pidar jite ji Sarwar jaisa
   qatl ho jaye pisar jab Ali Akbar jaisa
   
   1
-  baap logon se yun, bete ka pata poochta tha
-  tum ne dekha hai koi, rann mein Payambar jaisa
+  baap logoṅ se yuṅ, bete ka pata puchta tha
+  tum ne dekha hai koi, rann meiṅ Payambar jaisa
   
   2
-  baap ke saamne hi tor di seene mein sinaan
+  baap ke saamne hi tor di sine meiṅ sinaaṅ
   kis qadar dil hai sitamgar tera patthar jaisa
   
   3
-  laash tak bete ki, Shabbir ka aana mat pooch
+  laash tak bete ki, Shabbir ka aana mat puch
   marhala yeh bhi tha ek, Shimr ke khanjar jaisa
   
   4
-  yun bhi patthar use, maare hain sitamgaron ne
+  yun bhi patthar use, maare haiṅ sitamgaron ne
   sar-e-Akbar bhi tha unko sar-e-Haider jaisa
   
   5
   jo ke tujh jaise pisar ki bhi shahadat seh le
-  hai koi sabr mein, Akbar teri madar jaisa
+  hai koi sabr meiṅ, Akbar teri madar jaisa
   
   6
   kaise samjhega tu, Sughra ki museebat Maisam

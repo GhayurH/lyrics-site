@@ -16,34 +16,34 @@ romanLyrics: |-
   Tujhko Andaza Mere Dard-e-Jigar Ka Hota
   
   1
-  Maangne Aata Jawani Mein Woh Marne Ki Riza
+  Maangne Aata Jawani Meiṅ Woh Marne Ki Riza
   Aur Beta Bhi Tera Hota Mohammad Jaisa
-  Pooch Kar Dil Se Bata Haal Tera Kya Hota
+  Puch Kar Dil Se Bata Haal Tera Kya Hota
   
   2
-  Kis Tarha Karta Jawan Laal Ko Rukhsat Beta
-  Kaise Deta Usay Marne Ki Ijazat Beta
+  Kis Tarha Karta Jawaṅ Laal Ko Rukhsat Beta
+  Kaise Deta Use Marne Ki Ijazat Beta
   Teri Behno Ne Jise Naaz Se Paala Hota
   
   3
-  Kaampte Haath Larazte Huay Saanson Ke Qadam
-  Kis Tarha Dekhta Aankhon Se Nikalte Huay Dam
+  Kaampte Haath Larazte Hue Saansoṅ Ke Qadam
+  Kis Tarha Dekhta Aankhoṅ Se Nikalte Hue Dam
   Pyaar Bhi Us Se Tujhe Sab Se Zyada Hota
   
   4
-  Tere Hisse Mein Meri Jaisi Ghareebi Aati
-  Waqt Se Pehle Mere Laal Zaeefi Aati
-  Woh Pisar Saamne Jab Khoon Mein Dooba Hota
+  Tere Hisse Meiṅ Meri Jaisi Gharibi Aati
+  Waqt Se Pehle Mere Laal Zaifi Aati
+  Woh Pisar Saamne Jab Khun Meiṅ Duba Hota
   
   5
   Dekhta Aankhon Se Jab Noor-e-Nazar Ke Tukde
   Baap Ke Moo Se Nikal Aate Jigar Ke Tukde
-  Saath Barchi Ke Jo Haathon Pe Kaleja Hota
+  Saath Barchi Ke Jo Haathoṅ Pe Kaleja Hota
   
   6
-  Khaak Par Khoon Mein Tadapti Ho Nabi Ki Tasveer
-  Sabr Kar Leta Bata Haath Mein Rakh Ke Shamsheer
-  Jab Ke Haste Huay Qaatil Ko Bhi Dekha Hota
+  Khaak Par Khuṅ Meiṅ Tadapti Ho Nabi Ki Tasvir
+  Sabr Kar Leta Bata Haath Meiṅ Rakh Ke Shamshir
+  Jab Ke Haste Hue Qaatil Ko Bhi Dekha Hota
   
   7
   Tujhko Maaloom Bhi Hota Na Uthega Ye Pisar
@@ -52,7 +52,7 @@ romanLyrics: |-
   
   8
   Bas Ye Kehte The Takallum Shah-e-Waala Ro Kar
-  Hoti Akbar Teri Aulaad Zamane Mein Agar
+  Hoti Akbar Teri Aulaad Zamane Meiṅ Agar
   Tujhko Ehsaas Mere Dil Ki Tarap Ka Hota
 ---
 

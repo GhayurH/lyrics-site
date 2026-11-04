@@ -20,39 +20,39 @@ romanLyrics: |-
   jaise koi janaza jaata hai
   
   1
-  maut jeene ki kar rahi hai dua
+  maut jine ki kar rahi hai dua
   aur akbar chale hai marne ko
   umm-e-laila ka mustafa beta
-  zakhm seene pe khaane jaata hai
+  zakhm sine pe khaane jaata hai
   
   2
   jaise dil jaa raha ho maqtal may
-  jaise jaati ho jaan seene se
-  aise apne jawan ke peeche
-  ek mazloom baap chalta hai
+  jaise jaati ho jaan sine se
+  aise apne jawaṅ ke piche
+  ek mazlum baap chalta hai
   
   3
   kitna pyara hai shaah ko akbar
   saare zaalim ye baat jaante hai
-  taygh akbar pe chal rahi ha yahan
-  ibne zahra wahan tarapta hai
+  taygh akbar pe chal rahi ha yahaṅ
+  ibne zahra wahaṅ tarapta hai
   
   4
   quwwat e murtaza ye poochti hai
   sabr e shabbir itna batla de
   wo to khyber ke dar se wazni tha
-  kaise laasha jawan uthaya hai
+  kaise laasha jawaṅ uthaya hai
   
   5
-  ran may rahwaar se giray akbar
+  ran may rahwaar se gire akbar
   shah khaime ke dar se uth na sake
-  aise dil thaam ke giray maula
-  Arsh jaise zameen pe girta hai
+  aise dil thaam ke gire maula
+  Arsh jaise zamiṅ pe girta hai
   
   6
-  ay raza is jawan ke seene se
-  khoon rukta nahi hai roke se
-  sheh ka daaman lahoo may dub gaya
+  e raza is jawan ke sine se
+  khun rukta nahi hai roke se
+  sheh ka daaman lahu may dub gaya
   zakhm na jaane kitna gehra hai
 ---
 

@@ -12,57 +12,57 @@ cover: "/images/lyrics/aye-chand-muharram-kai.png"
 coverAlt: "Cover image for Aye Chand Muharram Kai"
 published: true
 romanLyrics: |-
-  Aye chand muharram kai, tu badli mein chala jaa
-  Tujhay daikh ke mar jaye na, beemar hai Sughra
+  Aye chand muharram kai, tu badli meiṅ chala jaa
+  Tujhe daikh ke mar jaye na, bimar hai Sughra
   
   1
   Ghar Zahra ka lutne ki, khabar tu ne sunai
-  Tujhe dekh ke roti hai, muharram mein khudai
-  Chauda sau baras beete hain, sab karte hain shikwa.
+  Tujhe dekh ke roti hai, muharram meiṅ khudai
+  Chauda sau baras bite haiṅ, sab karte haiṅ shikwa.
   
   2
   Milne ke liye bhai, ko bechain bari hai
-  Kab se Ali Akbar ki ye, raahon mein khari hai
+  Kab se Ali Akbar ki ye, raahoṅ meiṅ khari hai
   Bichri hai yeh muddat se, isse tu na nazar aa.
   
   3
-  Veeran gharon mein na, isse neend hai aati
-  Akbar ki judai hai, isse khoon rulati
+  Viran gharoṅ meiṅ na, isse nind hai aati
+  Akbar ki judai hai, isse khun rulati
   Qadmon ke nishan dhanp ke, bethi hai sar-e-raah.
   
   4
-  Gin gin ke jo Sughra ne, yeh din hain guzare
-  Zinda hai tu Akbar ke, wadon ke sahare
+  Gin gin ke jo Sughra ne, yeh din haiṅ guzare
+  Zinda hai tu Akbar ke, wadoṅ ke sahare
   Din raat tarapti hai, isse aur na tarpa.
   
   5
-  Bhayya ki judai mein, pareshan hai rehti
+  Bhayya ki judai meiṅ, pareshan hai rehti
   Har roz yeh nana ko, ro ro ke hai kehti
   Akbar na mila nana, main mar jaaungi tanha.
   
   6
-  Qasid ko diya khat mein, yeh paigham likhaa ke
+  Qasid ko diya khat meiṅ, yeh paigham likhaa ke
   Ik bar tu miljaa mujhe, seene se laga ke
   Pathraati huwi nazrein, kab dekheingi chehra.
   
   7
-  Waadaa jo kiya behan ko, seene se laga ke
+  Waadaa jo kiya behan ko, sine se laga ke
   Main shadi karon ga to, tere paas hi aa ke
   Main saat muharram ko, lautunga na ghabra.
   
   8
-  Rone nahi dete mujhe, raton ko musalmaan
-  Bemari se be-haal hoon, kuch roz ki mehmaan
+  Rone nahi dete mujhe, ratoṅ ko musalmaaṅ
+  Bemari se behaal huṅ, kuch roz ki mehmaan
   Har simt se hai mujh ko, ab maut ne ghaira.
   
   9
-  Behnon ka to bhaiyon se, rishta hi ajab hai
+  Behnoṅ ka to bhaiyoṅ se, rishta hi ajab hai
   Tum bhul gaye mujhko, yeh kaisa ghazab hai
-  Iss aas pe zinda hoon, dekhun tera sehra.
+  Iss aas pe zinda huṅ, dekhuṅ tera sehra.
   
   10
-  Sughra ke naseebon mein, rona hi likha hai
-  :sardar: masooma ko, mili kaisi saza hai
+  Sughra ke nasiboṅ meiṅ, rona hi likha hai
+  :sardar: masuma ko, mili kaisi saza hai
   Khat aaya na akbar ka, roti rahi Sughra.
 ---
 

@@ -15,12 +15,12 @@ bastaNote: original-selection
 published: true
 romanLyrics: |-
   1
-  Chut Kar Pidar Se Be-Kas-o-Tanha The Askari
+  Chut Kar Pidar Se beKas o Tanha The Askari
   Paband-e-Hukm-e-Khaliq-e-Yakta The Askari
   Haq Ke Wali The Khalq Ke Maula The Askari
   Ehsan Tha Jis Ka Josh Wo Darya The Askari
   Abr-e-Karam The Bahr-e-Sakha The Zamane Mein
-  Waise Hi Jaise Hote Rahe Is Gharane Mein
+  Waise Hi Jaise Hote Rahe Is Gharane Meiṅ
   
   2
   Tha Kaun Iss Kharabe Mein Ghamkhwar-e-Ahl-e-Bait
@@ -28,29 +28,29 @@ romanLyrics: |-
   Dam Torta Tha Qafila Salar-e-Ahl-e-Bait
   Majboor Tha Para Hua Mukhtar-e-Ahl-e-Bait
   Bistar Zameen-e-Sakht Ka, Takiya Tha Khisht Ka
-  Veerane Mein Aseer Tha Maalik Behisht Ka
+  Virane Meiṅ Asir Tha Maalik Behisht Ka
   
   3
-  Mauqa Mila To Zehr Diya Shah Ko Be-Gunah
+  Mauqa Mila To Zehr Diya Shah Ko beGunah
   Lakht-e-Dil-e-Rasool Ki Halat Hui Tabah
   Beemar Ho Ke Uth Na Saka Hujjat-e-Ilaah
   Makkar Mutamid Sa Na Hoga Khuda Gawah
   Bheje Tabeeb Us Ne Dawa Karne Ke Liye
-  Posheeda Apna Haal-e-Jafa Karne Ke Liye
+  Poshida Apna Haal-e-Jafa Karne Ke Liye
   
   4
   Shiddat Wo Tap Ki Zehr Ka Wo Sadma-e-Giraan
   Aisa Tha Zof Kanpta Tha Jism-e-Natawaan
   Kamsin Abhi The Hujjat-e-Haq Sahib-uz-Zaman
-  Tha Doosra Baras, Koi Kehta Hai Panchwan
+  Tha Dusra Baras, Koi Kehta Hai Panchwaṅ
   Jaan-e-Nabi Ne Bar-e-Imamat Utha Liya
   Is Kam Sini Mein Koh-e-Museebat Utha Liya
   
   5
-  Jab Zehr Se Shaheed Huye Gyarhwin Imam
+  Jab Zehr Se Shahid Huye Gyarhwiṅ Imam
   Samarra Wale Khaak Urane Lage Tamam
   Bazar Band Kar Diye, Chhore Sab Apne Kaam
-  Matam Mein Askari Ke Huye Mahv Khaas-o-Aam
+  Matam Meiṅ Askari Ke Huye Mahv Khaas o Aam
   Darwaza-e-Imam Pe Aisi Fughan Hui
   Samarra Mein Qayamat-e-Sughra Ayan Hui
   
@@ -59,22 +59,22 @@ romanLyrics: |-
   Us Mein Hi Dafn Laash-e-Hasan Askari Hui
   Ghar Ghar Se Thi Buland Sada Aah Aah Ki
   Untees Saal Bhi Na Hui Umr-e-Askari
-  Madfoon Khoob Askari-e-, Be-Watan Huwa
+  Madfoon Khoob Askari-e-, beWatan Huwa
   Pyase Husain Ko Na Mayassar Kafan Huwa
   
   7
-  Ab Is Qalaq Se Hote Hain Tukre Dil-o-Jigar
+  Ab Is Qalaq Se Hote Haiṅ Tukre Dil o Jigar
   Zulm Ahl-e-Bait Par Kiye Aada Ne Is Qadar
   Sajjad Jaise Roye Na Laash-e-Husain Par
-  Yoon Hi Na Roya Askari Ki Laash Par Pisar
-  Durre Uthaye Gard Wahan Nabkaar The
+  Yuṅ Hi Na Roya Askari Ki Laash Par Pisar
+  Durre Uthaye Gard Wahaṅ Nabkaar The
   Aamada-e-Qatl Par Yahan Bidat-Shiar The
   
   8
   Maula Imam-e-Asr Huye Aap To Nihan
-  Bachte To Kaise Abid-e-Beemar-o-Natawan
-  Dena Tha Un Ko Sabr-o-Tahammul Ka Imtihan
-  Wo Kufa-o-Dimashq Gaye Pehne Beriyan
+  Bachte To Kaise Abid-e-Beemar o Natawan
+  Dena Tha Un Ko Sabr o Tahammul Ka Imtihaṅ
+  Wo Kufa o Dimashq Gaye Pehne Beriyaṅ
   Islam Ka Tha Bar Mujahid Ki Pusht Par
   Durre Baraste Rehte The Abid Ki Pusht Par
 ---

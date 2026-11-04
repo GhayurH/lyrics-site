@@ -18,7 +18,7 @@ romanLyrics: |-
   
   1
   Tha jis ka bhayi Abbas-e-Ghazi, hai aaj qaidi wo shahazadi
-  Ye shor sun kar ghairat ke maare, kahin mar na jaaye beti Ali ki
+  Ye shor sun kar ghairat ke maare, kahiṅ mar na jaaye beti Ali ki
   
   2
   Chaaro taraf hai mahaul aisa, jaise laga ho koyi tamasha
@@ -29,15 +29,15 @@ romanLyrics: |-
   Bazoo bandhe hai bebas hai khud ko, kaise bachaaye beti Ali ki
   
   4
-  Zulfe pakar kar Shimr-e layeen ne, maare tamaache tarpi Sakina
-  Zainab ke dono bazoo bandhe hai, kaise churaaye beti Ali ki
+  Zulfe pakar kar Shimr-e layiṅ ne, maare tamaache tarpi Sakina
+  Zainab ke dono bazu bandhe hai, kaise churaaye beti Ali ki
   
   5
   Wada kiya tha usne khuda se, roshan karegi tera naam chahey
   Bazaar jaye darbaar jaye, zindan jaye beti ali ki
   
   6
-  Sajdey bachaye kaaba bachaye, quran bachaye deen ko bachaye
+  Sajdey bachaye kaaba bachaye, quran bachaye diṅ ko bachaye
   Farsh e aza par ashk e aza ko, Gohar banaye beti Ali ki
   
   7

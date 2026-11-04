@@ -15,51 +15,51 @@ romanLyrics: |-
   Haaye Abbas haaye Abbas haaye Abbas
   Haaye Abbas haaye Abbas haaye Abbas haaye Abbas
   
-  Jalte khaimon se sada aai sar Karb o Bala
+  Jalte khaimoṅ se sada aai sar Karb o Bala
   Haaye Abbas haaye Abbas haaye Abbas haaye Abbas
   
   Lo khabar jald ke ab bistar-e-Sajjad jala
   Haaye Abbas haaye Abbas haaye Abbas haaye Abbas
   
   1
-  Tanha athara baradar ki bahan hai ban mein
-  Neend kyon aagai hai bhai batao ran mein
+  Tanha athara baradar ki bahan hai ban meiṅ
+  Nind kyoṅ aagai hai bhai batao ran meiṅ
   Neend se jago chhini Zainab-e-muztar ki rida
   
   2
   Mere Ghazi mere Safdar, mere Mir-e-lashkar
-  Dekh be aas hai pardes mein teri khwahar
+  Dekh be aas hai pardes meiṅ teri khwahar
   Kat gaya sibt-e-payambar ka bhi sajde mein gala
   
   3
-  Bain karti hui lashe pe chali aaon gi
-  Kitne nasoor kaleje mein hai dikhlaoon gi
-  Meri taqdeer mein kuchh bhi nahin ashkon ke siwa
+  Bain karti hui lashe pe chali aaoṅ gi
+  Kitne nasur kaleje meiṅ hai dikhlaooṅ gi
+  Meri taqdir meiṅ kuchh bhi nahiṅ ashkoṅ ke siwa
   
   4
   Mera Akbar mera Qasim mera Asghar na raha
-  Do mere laal the donon mein se koi na bacha
+  Do mere laal the donoṅ meiṅ se koi na bacha
   Na koi bhai bhatija na koi hai beta
   
   5
-  Bhaiyon se to bari aas hua karti hai
-  Har bahan bhai ke haq mein yeh dua karti hai
+  Bhaiyoṅ se to bari aas hua karti hai
+  Har bahan bhai ke haq meiṅ yeh dua karti hai
   Umar lag jaaye meri zinda rahe bhai mera
   
   6
-  Ji ke ab kya karun ay bhai tumhare gham mein
-  Zindagi guzre gi Zainab ki tere maatam mein
-  Mujh ko tarpaye gi ay bhai teri yaad sada
+  Ji ke ab kya karuṅ e bhai tumhare gham meiṅ
+  Zindagi guzre gi Zainab ki tere maatam meiṅ
+  Mujh ko tarpaye gi e bhai teri yaad sada
   
   7
-  Khali kuze liye bacche hain dar-e-khaima par
+  Khali kuze liye bacche haiṅ dar-e-khaima par
   Soe darya hai lagi bali Sakina ki nazar
-  Kehti hai bachon se aate hain abhi mere chacha
+  Kehti hai bachoṅ se aate haiṅ abhi mere chacha
   
   8
   Noha Rehan yeh Zainab ka tha baad-e-Abbas
-  Kyun nahin karte ho Abbas hamara ehsaas
-  Qafila be-sar-o-saman suwe Shaam chala
+  Kiuṅ nahiṅ karte ho Abbas hamara ehsaas
+  Qafila besar-o-saman suwe Shaam chala
 ---
 
 ہائے عباس ہائے عباس ہائے عباس

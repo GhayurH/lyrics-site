@@ -20,11 +20,11 @@ romanLyrics: |-
   Dewaar bade kufr ke dha aayi hai Zainab ay Shehr-e-Madina
   
   2
-  Jis shehr may Shehzaadiyo ki tarha rahi thi naazon se pali thi
+  Jis shehr may Shehzaadiyo ki tarha rahi thi naazoṅ se pali thi
   Sar nange usi shehr may ho aayi hai Zainab ay Shehr-e-Madina
   
   3
-  Jo hijre padar may rahe har waqt pareshan soyi nahi ek aan
+  Jo hijre padar may rahe har waqt pareshaṅ soyi nahi ek aan
   Us bachi ko zindaan may sulaa aayi hai Zainab ay Shehr-e-Madina
   
   4
@@ -32,11 +32,11 @@ romanLyrics: |-
   Saahil pe akela usay choad aayi hai Zainab ay Shehr-e-Madina
   
   5
-  Chhey maah ke Asghar ko bhi jhoole ke bajaaye dukh dard chipaaye
+  Chhey maah ke Asghar ko bhi jhule ke bajaaye dukh dard chipaaye
   Aaghosh may turbat ke sulaa aayi hai Zainab ay Shehr-e-Madina
   
   6
-  The Aun-o-Mohammad jo meri aankhon ke taare mamu ke dulaare
+  The Aun o Mohammad jo meri aankhoṅ ke taare mamu ke dulaare
   Qurbaan unhe Bhai par kar aayi hai Zainab ay Shehr-e-Madina
   
   7
@@ -44,11 +44,11 @@ romanLyrics: |-
   Marqad may akela usay choad aayi hai Zainab ay Shehr-e-Madina
   
   8
-  Naadim hai bahot laa saki Qasim ko na humra wa hasrat-o-darda
+  Naadim hai bahot laa saki Qasim ko na humra wa hasrat o darda
   Kubra ko magar saath liye aayi hai Zainab ay Shehr-e-Madina
   
   9
-  Pani jo piye ehle watan pyaas na bhulay moo ashkon se dholay
+  Pani jo piye ehle watan pyaas na bhule moo ashkoṅ se dhole
   Kehne ko ye Bhai ka payaam aayi hai Zainab ay Shehr-e-Madina
   
   10

@@ -12,56 +12,56 @@ cover: "/images/lyrics/mere-hath-nahin-hain.png"
 coverAlt: "Cover image for Mere Hath Nahin Hain"
 published: true
 romanLyrics: |-
-  Main kaise uthun aaqa, mere haath nahin hain
-  Mere haath nahin hain
+  Maiṅ kaise uthuṅ aaqa, mere haath nahiṅ haiṅ
+  Mere haath nahiṅ haiṅ
   
-  Paaun nhi chu sakta, mere haath nahin hain
-  Mere haath nahin hai
+  Paauṅ nhi chu sakta, mere haath nahiṅ haiṅ
+  Mere haath nahiṅ hai
   
   1
   Aaqa ye ghulaami ka sila kaisa diya hai
   Kis pyaar se sar aapne zaanu pa rakha hai
-  Uthkar salaam karta, mere haath nahin hai
+  Uthkar salaam karta, mere haath nahiṅ hai
   
   2
   Jo haath tere kaam na aye mere maula
   Bachpan me hi kat jate to hota bohot acha
-  Tum inko nahin chuna, mere haath nahin hain
+  Tum inko nahiṅ chuna, mere haath nahiṅ haiṅ
   
   3
-  Aaza-e-badan tum ho to paikar nahin hota
-  Ma’zur pe gharwala bhi muztar nahin hota
-  Ghar mujhko na le jana, mere haath nahin hai
+  Aaza-e-badan tum ho to paikar nahiṅ hota
+  Ma’zur pe gharwala bhi muztar nahiṅ hota
+  Ghar mujhko na le jana, mere haath nahiṅ hai
   
   4
-  Dil rota hai marte hue, kiya be-adabi hai,
+  Dil rota hai marte hue, kiya beadabi hai,
   Jin haatho ke katne se qamar Sheh ki jhuki hai
-  Sidhi nahin kar sakta, mere haath nahin hain
+  Sidhi nahiṅ kar sakta, mere haath nahiṅ haiṅ
   
   5
   Bhaari hai alam tum na uthao ise maula
   Tuti hai qamar dekhiye tanha na uthega
-  Aqa main hun sharminda, mere haath nahin hai
+  Aqa maiṅ huṅ sharminda, mere haath nahiṅ hai
   
   6
   Godi main Sakina ko uthauga main kaise
   Kis tarha nibhaunga ghulaami ke tarike
-  Ye kam to nahin sadma, mere haath nahin hain
+  Ye kam to nahiṅ sadma, mere haath nahiṅ haiṅ
   
   7
   Main zaamin-e-chaadar tha, muhaafiz tha haram ka
-  Ab zinda bhi reh jaun to kya faida Aaqa
-  Zainab ko bata dena, mere haath nahin hain
+  Ab zinda bhi reh jauṅ to kya faida Aaqa
+  Zainab ko bata dena, mere haath nahiṅ haiṅ
   
   8
   Jab zeen se zamin ki taraf aane laga maula
   Na koi madadgaar tha, na koi sahara
-  Us waqt khayaal aya, mere haath nahin hain
+  Us waqt khayaal aya, mere haath nahiṅ haiṅ
   
   9
   Ye nauha-e-Ghazi sar-e-majlis jo Raza hai
   Rehan-e-aza kehta hai ye maujiza kya hai
-  Ye haath hai Ghazi ka, mere haath nahin hain
+  Ye haath hai Ghazi ka, mere haath nahiṅ haiṅ
 ---
 
 میں کیسے اٹھوں آقا میرے ہاتھ نہیں ہیں

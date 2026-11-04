@@ -13,48 +13,48 @@ coverAlt: "Cover image for Meri Basti Ke Musalman Bare Bhole Hain"
 published: true
 romanLyrics: |-
   1
-  Haq ke baato se hain anjaan bare bhole hain
-  meri basti ke musalman bare bhole hain
+  Haq ke baato se haiṅ anjaan bare bhole haiṅ
+  meri basti ke musalman bare bhole haiṅ
   
   2
-  Hain tabbarre se pareshan bare bhole hain
-  Lanatien kyun Na Ho qurban bare bhole Hain
+  Haiṅ tabbarre se pareshan bare bhole haiṅ
+  Lanatieṅ kiuṅ Na Ho qurban bare bhole Haiṅ
   
   3
   Ghar se nikale thai kharidaar-e-Jannat ke liye
-  Bech kar aa gaye imaan bare bhole Hain
+  Bech kar aa gaye imaan bare bhole Haiṅ
   
   4
-  Roz parhte Hain Magar ghaur nahi kar paate
-  Aaj ke Hafiz-e-Quran bare bhole hain
+  Roz parhte Haiṅ Magar ghaur nahi kar paate
+  Aaj ke Hafiz-e-Quran bare bhole haiṅ
   
   5
-  Ae Khadija tere tukron pe ye palne wale
-  Arey bhool baithe tere ahsaan bare bhole hain
+  Ae Khadija tere tukroṅ pe ye palne wale
+  Arey bhul baithe tere ahsaan bare bhole haiṅ
   
   6
   Inko aashur ke faqe se nhi rabt koyi
-  Naam hai maulvi ramzan bare bhole hain
+  Naam hai maulvi ramzan bare bhole haiṅ
   
   7
-  bughz e haider mein suwe naar chale jaate hain
-  haye bechare musalmaan bare bhole hain
+  bughz e haider mein suwe naar chale jaate haiṅ
+  haye bechare musalmaan bare bhole haiṅ
   
   8
   mein likhun unka taarruf ye mere bas mein kahan
-  unki hai bas ye pehchan bare bhole hain
+  unki hai bas ye pehchan bare bhole haiṅ
   
   9
-  Ghar mein khaliq ke saqifah ke Khalifa ki tarah
-  Yeh tarashe hue Bhagwan bare bhole hain
+  Ghar meiṅ khaliq ke saqifah ke Khalifa ki tarah
+  Yeh tarashe hue Bhagwan bare bhole haiṅ
   
   10
   nargha-e-kufr mein mehboob-e-khuda ko tanha
-  chor aaye sar-e-maidan bare bhole hain
+  chor aaye sar-e-maidan bare bhole haiṅ
   
   11
-  karke bethay hain gham-e-shah-e-huda ka sauda
-  are qaum-o-millat ke nighehbaan bare bhole hain
+  karke bethay haiṅ gham-e-shah-e-huda ka sauda
+  are qaum o millat ke nighehbaan bare bhole haiṅ
 ---
 
 ۱

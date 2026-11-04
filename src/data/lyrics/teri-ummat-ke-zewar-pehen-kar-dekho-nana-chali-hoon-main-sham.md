@@ -13,52 +13,52 @@ coverAlt: "Cover image for Teri Ummat Ke Zewar Pehen Kar Dekho Nana Chali Hoon M
 published: true
 romanLyrics: |-
   Teri Ummat Ke Zewar Pehen Kar
-  Dekho Nana Chali Hoon Main Sham
+  Dekho Nana Chali Huṅ Maiṅ Sham
   
   1
-  Main Deti Kafan Tujh Ko Bhaiya
+  Maiṅ Deti Kafan Tujh Ko Bhaiya
   Gar Sar Pe Rida Mere Hoti
   Gar Hote Khule Haath Mere
-  Tere Zakhmon Ko Haathon Se Dhoti
+  Tere Zakhmoṅ Ko Haathoṅ Se Dhoti
   Paband-e-Rasan Sar Barahna
-  Dekho Bhaiya Chali Hoon Main Sham
+  Dekho Bhaiya Chali Huṅ Maiṅ Sham
   
   2
-  Tere Bachchon Ko Le Kar Gayi Main
-  Shab Bhar Saari Roti Rahi Hoon
+  Tere Bachchoṅ Ko Le Kar Gayi Maiṅ
+  Shab Bhar Saari Roti Rahi Huṅ
   Kabhi Ghazi Ka Lehja Badal Kar
-  Main Pehre Bhi Deti Rahi Hoon
-  In Bewa Bahu Betiyon Se
-  Kyun Karte Nahin Ho Kalaam
+  Maiṅ Pehre Bhi Deti Rahi Huṅ
+  In Bewa Bahu Betiyoṅ Se
+  Kiuṅ Karte Nahiṅ Ho Kalaam
   
   3
   Mere Abid Pe Taari Ghashi Thi
-  Aur Kulsoom Sehmi Khari Thi
-  Kabhi Dekhoon Main Zakhmi Sakina
-  Jis Ke Daaman Mein Aag Lagi Thi
-  Kabhi Roun Main Apni Rida Ko
-  Kabhi Dekhoon Main Jalte Khiyam
+  Aur Kulsum Sehmi Khari Thi
+  Kabhi Dekhuṅ Maiṅ Zakhmi Sakina
+  Jis Ke Daaman Meiṅ Aag Lagi Thi
+  Kabhi Rouṅ Maiṅ Apni Rida Ko
+  Kabhi Dekhuṅ Maiṅ Jalte Khiyam
   
   4
-  Haye Nana Main Kaise Sunaun
+  Haye Nana Maiṅ Kaise Sunauṅ
   Darbar-e-Shaqi Ka Woh Manzar
-  Sabhi Qari-o-Hafiz The Baithe
+  Sabhi Qari o Hafiz The Baithe
   Aur Sar Pe Na Thi Mere Chadar
-  Haye Nana Teri Betiyon Ko
-  Yun Laye Hain Sar Nange Aam
+  Haye Nana Teri Betiyoṅ Ko
+  Yuṅ Laye Haiṅ Sar Nange Aam
   
   5
   Jis Zainab Ko Tum Ne Baradar
-  Kabhi Nazrein Utha Kar Na Dekha
-  Haath Rassi Mein Mere Bandhe Hain
-  Aur Sar Par Nahin Mere Chadar
+  Kabhi Nazreiṅ Utha Kar Na Dekha
+  Haath Rassi Meiṅ Mere Bandhe Haiṅ
+  Aur Sar Par Nahiṅ Mere Chadar
   Kaise Koofe Mein Jaungi Ghazi
   Jab Majma Mein Aayega Naam
   
   6
   Jaise Darbar Paas Aa Raha Hai
-  Mera Dil Doobta Ja Raha Hai
-  Main To Ghar Mein Bhi Kam Bolti Thi
+  Mera Dil Dubta Ja Raha Hai
+  Maiṅ To Ghar Meiṅ Bhi Kam Bolti Thi
   Bhai Tum Ko To Sab Kuch Pata Hai
   Kis Tarah Se Karegi Bata Do
   Ik Sharabi Se Zainab Kalaam
@@ -66,42 +66,42 @@ romanLyrics: |-
   7
   Jab Roti Thi Baali Sakina
   Aur Baba Ko Apne Bulati
-  Main Deti Thi Us Ko Tasalli
-  Aur Seene Pe Apne Sulati
-  Dhoond Zindan Mein Masoom Bachchi
+  Maiṅ Deti Thi Us Ko Tasalli
+  Aur Sine Pe Apne Sulati
+  Dhund Zindan Meiṅ Masum Bachchi
   Le Le Ke Woh Baba Ka Naam
   
   8
   Jis Zainab Ko Tum Ne Baradar
-  Kabhi Nazrein Utha Kar Na Dekha
-  Haath Rassi Se Mere Bandhe Hain
-  Aur Sar Par Nahin Mere Parda
+  Kabhi Nazreiṅ Utha Kar Na Dekha
+  Haath Rassi Se Mere Bandhe Haiṅ
+  Aur Sar Par Nahiṅ Mere Parda
   Kaise Koofe Mein Jaungi Ghazi
   Jab Balwe Mein Aayega Naam
   
   9
   Jaise Darbar Paas Aa Raha Hai
-  Mera Dil Doobta Ja Raha Hai
-  Main To Ghar Mein Bhi Kam Bolti Thi
+  Mera Dil Dubta Ja Raha Hai
+  Maiṅ To Ghar Meiṅ Bhi Kam Bolti Thi
   Bhai Tum Ko To Sab Kuch Pata Hai
   Kis Tarah Se Karegi Bata De
   Ik Sharabi Se Zainab Kalaam
   
   10
   Dil Yeh Kehta Hai Ro Ro Ke Bhaiya
-  Kash Abbas Maujood Hota
-  Kaat Deta Woh Us Ki Zaban Ko
+  Kash Abbas Maujud Hota
+  Kaat Deta Woh Us Ki Zabaṅ Ko
   Koi Baghi Agar Mujh Ko Kehta
-  Dekhti Phir Main Kis Tarah Leta
-  Koi Zainab Ka Majma Mein Naam
+  Dekhti Phir Maiṅ Kis Tarah Leta
+  Koi Zainab Ka Majma Meiṅ Naam
   
   11
-  Keh Rahe Hain Yeh Hans Hans Ke Shami
-  Aane Wale Hain Darbar Baghi
+  Keh Rahe Haiṅ Yeh Hans Hans Ke Shami
+  Aane Wale Haiṅ Darbar Baghi
   Jis Ne Ajdad Mare Hamare
-  Aa Rahi Hai Yahan Us Ki Beti
-  Kholta Pani Phenko Chhaton Se
-  Pattharon Ka Karo Intizam
+  Aa Rahi Hai Yahaṅ Us Ki Beti
+  Kholta Pani Phenko Chhatoṅ Se
+  Pattharoṅ Ka Karo Intizam
 ---
 
 تیری امت کے زیور پہن کر

@@ -12,32 +12,32 @@ cover: "/images/lyrics/veerna-main-teri-qabar-banawan.png"
 coverAlt: "Cover image for Veerna Main Teri Qabar Banawan"
 published: true
 romanLyrics: |-
-  Veerna main teri qabar banawan ya shaam nu jaawan
-  Kavay Zainab ujri jang Karbala di mukk gayi lutiyan gayian ridaawan
+  Virna maiṅ teri qabar banawaṅ ya shaam nu jaawaṅ
+  Kave Zainab ujri jang Karbala di mukk gayi lutiyaṅ gayiaṅ ridaawaṅ
   
   1
-  Kiwen shaam lay jawan Sajjad beemar ay
-  Hosh nai aundi ess nu eh sakht lachaar ay
-  Mainu samajh nai aundi veeran disaa main kiwen ennu maut ton bachawan
+  Kiweṅ shaam le jawaṅ Sajjad bimar e
+  Hosh nai aundi ess nu eh sakht lachaar e
+  Mainu samajh nai aundi viran disaa maiṅ kiweṅ ennu maut toṅ bachawaṅ
   
   2
-  Paa paa khaak sirran vich ess vaal lukaaye
-  Ummat nay rasiyan day sanu zewar paaye
-  Main suneya eh veeran hayee shaam day shehar diyan bohat okhiyan nay rahwan
+  Paa paa khaak sirraṅ vich ess vaal lukaaye
+  Ummat ne rasiyaṅ de sanu zewar paaye
+  Maiṅ suneya eh viran hayee shaam de shehar diyaṅ bohat okhiyaṅ ne rahwaṅ
   
   3
   Uth ton main lath payi aan par ro nai sakdi
-  Laash uttay pathran da main dher han takdi
+  Laash utte pathraṅ da maiṅ dher haṅ takdi
   Meray hath paband hin kiwen laash ton main teri pathran nu aa hathawan
   
   4
-  Shaam shehar vich kis nay saday parday banaunayy
-  Maloona day majmay saday raah chon hathaunay
-  Mera Ghazi veeran jaa nehar day kinaray sonweya kataa kay bahwaan
+  Shaam shehar vich kis ne sade parde banaunayy
+  Maluna de majme sade raah choṅ hathaune
+  Mera Ghazi viran jaa nehar de kinare sonweya kataa ke bahwaaṅ
   
   5
   Akhtar dunya faani ek din mukk jaani
-  Rehni eh do jag tay syedan di kahani
+  Rehni eh do jag te syedaṅ di kahani
   Lakh ro kay dunya pursay nu qaim rakhna Zahra diyan duawaan
 ---
 

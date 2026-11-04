@@ -15,8 +15,8 @@ romanLyrics: |-
   Daastaan-e-Shujaat ka darain mein
   aik bemisl kirdar abbas hai
   
-  Hain Ali ke Athara Hi bete Ali
-  Par sabhi mein Alamdar Abbas Hai
+  Haiṅ Ali ke Athara Hi bete Ali
+  Par sabhi meiṅ Alamdar Abbas Hai
   
   1
   Inke lehje mein hashim ki hashmat bhi hai
@@ -28,10 +28,10 @@ romanLyrics: |-
   Aur hassnain ka pyaar abbas hai
   
   2
-  Naql-e-azmat ka shireen samar hain yehin
-  Ismaton ke sadaf ke gohar hain yehin
-  Noor ki sidrat-ul-muntaha hain yehin
-  Hashimi aasman ke qamar hain yehin
+  Naql-e-azmat ka shireen samar haiṅ yehin
+  Ismatoṅ ke sadaf ke gohar haiṅ yehin
+  Noor ki sidrat-ul-muntaha haiṅ yehin
+  Hashimi aasmaṅ ke qamar haiṅ yehin
   
   Jinke saaye me akber bhi palte rahe
   Husn ka aisa minaar abbas hai
@@ -43,7 +43,7 @@ romanLyrics: |-
   Sari makhloq inki gadageer hai
   
   Jo ali ki shujaat ka waris bhi hai
-  Aisa aala zameendar abbas hai
+  Aisa aala zamindar abbas hai
   
   4
   Sahib-e-takht-e-aqli ki gairat hai ye
@@ -52,13 +52,13 @@ romanLyrics: |-
   Haq to ye hai ke haq ki haqeeqat hai
   
   Vo duwaayen jo bibi ne sajdon mein kin
-  un duaon ka meyar abbas hai
+  un duaoṅ ka meyar abbas hai
   
   5
-  Qabr kya hai andhera sa ghar hai jahan
-  Marefat ke siva koi sapna nahin
-  Vo bohat hi andheri jagah hai wahan
-  Koi yawar nahi koi apna nahin
+  Qabr kya hai andhera sa ghar hai jahaṅ
+  Marefat ke siva koi sapna nahiṅ
+  Vo bohat hi andheri jagah hai wahaṅ
+  Koi yawar nahi koi apna nahiṅ
   
   Tumse milne lahad mein ali aayenge
   Bolo tanhai me aur kya chahiye

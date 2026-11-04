@@ -13,7 +13,7 @@ coverAlt: "Cover image for Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 published: true
 romanLyrics: |-
   1
-  Naazan hai hum ke hum ko dare murtaza Milaa
+  Naazaṅ hai hum ke hum ko dare murtaza Milaa
   Yei dar hummay Milla to dare murtaza Milaa
   
   2
@@ -22,10 +22,10 @@ romanLyrics: |-
   
   3
   Aalam tamam bol rahaa thaa Ali Ali
-  Mai bhi sadaaein deta huwa un se ja mila
+  Mai bhi sadaaeiṅ deta huwa un se ja mila
   
   4
-  Chayra jahan Ali ki wilaayat ka tazkera
+  Chayra jahaṅ Ali ki wilaayat ka tazkera
   Murjhaa gayaa koyi koyi Chehra khila mila
   
   5
@@ -33,8 +33,8 @@ romanLyrics: |-
   Shabbir mil gaye jisay usko khudaa mila
   
   6
-  laakhon hazarzon saal ke sajde hawa huwe
-  iblis ko batao to sajdon se kiya mila
+  laakhoṅ hazarzoṅ saal ke sajde hawa huwe
+  iblis ko batao to sajdoṅ se kiya mila
   
   7
   dunya ki chah mein huwi dunya bhi uski ghair

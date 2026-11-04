@@ -12,7 +12,7 @@ cover: "/images/lyrics/akeli-hai-zehra.png"
 coverAlt: "Cover image for Akeli Hai Zehra"
 published: true
 romanLyrics: |-
-  Kahan Jaaye Aakhir Bayaban Har Su
+  Kahaṅ Jaaye Aakhir Bayabaṅ Har Su
   Shikasta Hai Pehlu, Akeli Hai Zehra
   Rone Pe Pehra, Masaib Ka Sehra
   Akeli Hai Zehra
@@ -24,22 +24,22 @@ romanLyrics: |-
   Ali Ko Bulao, Akeli Hai Zehra
   
   2
-  Bayan Kis Se Ja Kar Karun Dard Apna
-  Hai Ghairon Ki Dunya, Nahin Koi Apna
+  Bayaṅ Kis Se Ja Kar Karuṅ Dard Apna
+  Hai Ghairoṅ Ki Dunya, Nahiṅ Koi Apna
   Koi Ja Ke Baba Se Ja Kar Ye Kehdo
   Ke Le Jao Aa Kar, Akeli Hai Zehra
   
   3
-  Ay Lakhte Jigar, Ay Hasan Ibne Hyder
-  Ye Nana Ke Pehlu Mein Sone Na De Gar
-  Tum Aa Jana Pehlu Mein So Jana Maan Ke
-  Baqi Mein Yahan Par, Akeli Hai Zehra
+  E Lakhte Jigar, E Hasan Ibne Hyder
+  Ye Nana Ke Pehlu Meiṅ Sone Na De Gar
+  Tum Aa Jana Pehlu Meiṅ So Jana Maaṅ Ke
+  Baqi Meiṅ Yahaṅ Par, Akeli Hai Zehra
   
   4
-  Shahe Karbala Ne Kaha Ro Ke Maan Se
-  Ye Mazloom Bete Ne Mazloom Maan Se
-  Akela Hoon Main Bhi, Akeli Hai Zainab
-  Akele Hain Baba, Akeli Hai Zehra
+  Shahe Karbala Ne Kaha Ro Ke Maaṅ Se
+  Ye Mazlum Bete Ne Mazlum Maaṅ Se
+  Akela Huṅ Maiṅ Bhi, Akeli Hai Zainab
+  Akele Haiṅ Baba, Akeli Hai Zehra
   
   5
   Sare Marg Akhtar Tha Zehra Ka Nauha

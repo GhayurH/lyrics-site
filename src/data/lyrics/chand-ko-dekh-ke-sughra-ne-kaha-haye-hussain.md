@@ -17,35 +17,35 @@ romanLyrics: |-
   Aageya mah e muharram haan nahi aaye Husain
   
   1
-  Yaad pardais main aati hai lahad amman ki
-  Dil ka ahwal sunane ko kahan jaye Husain
+  Yaad pardais maiṅ aati hai lahad ammaṅ ki
+  Dil ka ahwal sunane ko kahaṅ jaye Husain
   
   2
   Aap aaye na khabar aayi na Akbar aaye
-  Kaisay is haal main Sughra se jiya jaye Husain
+  Kaise is haal maiṅ Sughra se jiya jaye Husain
   
   3
   Jab se ye chand muharram ka nazar aaya hai
-  Amma roti hai tujhe ay mere maa jaye Husain
+  Amma roti hai tujhe e mere maa jaye Husain
   
   4
-  Koi tasweer to Zahra ki rahi parde main
+  Koi taswir to Zahra ki rahi parde maiṅ
   Ye to acha huwa Sughra ko nahi laye Husain
   
   5
-  Naam par Shah ne Akbar ke kharidi hai zameen
-  Kaisay jaagir tujhe bhai ki dikhlaye Husain
+  Naam par Shah ne Akbar ke kharidi hai zamiṅ
+  Kaise jaagir tujhe bhai ki dikhlaye Husain
   
   6
-  Eid bhi sog ke aalam main guzari us ne
+  Eid bhi sog ke aalam maiṅ guzari us ne
   Haye Akbar kabhi kahti thi kabhi haye Husain
   
   7
-  Mustaqil Shah ki aakhon se the aansun jari
+  Mustaqil Shah ki aakhoṅ se the aansuṅ jari
   Khat-e-Sughra ko mukammal nahi parh paye Husain
   
   8
-  Aik ik beti se rukhsat huwe khamein main magar
+  Aik ik beti se rukhsat huwe khamein maiṅ magar
   Haye afsos ke Sughra se na mil paye Husain
   
   9

@@ -13,15 +13,15 @@ coverAlt: "Cover image for Abu Talib Ka Beta"
 published: true
 romanLyrics: |-
   1
-  Ali murdon ko jilaye, Ali sooraj palataye
+  Ali murdoṅ ko jilaye, Ali suraj palataye
   Karishme dekh ke jis ke, zamana dhoka khaye
-  Naseeri samajh na paye, Khuda hai ya hai banda
+  Nasiri samajh na paye, Khuda hai ya hai banda
   Abu Talib ka beta
 
   2
-  Nabi ne sab ko rukaya, Ghadeer-e Khum mein bataya
-  Ke jis ka main hoon Maula, Ali hai us ka Maula
-  Ghadeer-e Khum ka dulha, Abu Talib ka beta
+  Nabi ne sab ko rukaya, Ghadir-e Khum meiṅ bataya
+  Ke jis ka maiṅ huṅ Maula, Ali hai us ka Maula
+  Ghadir-e Khum ka dulha, Abu Talib ka beta
 
   3
   Nasab kuch aisa paya, Nabi ne beti de di
@@ -35,27 +35,27 @@ romanLyrics: |-
 
   5
   Use kehte ho kafir, Payambar ka jo chacha hai
-  Ay farzi baap ke beton, woh sab kuch dekh raha hai
-  Hai ab bhi ghaib mein baitha, Abu Talib ka beta
+  E farzi baap ke betoṅ, woh sab kuch dekh raha hai
+  Hai ab bhi ghaib meiṅ baitha, Abu Talib ka beta
 
   6
   Mera iman Ali hai, meri pehchan Ali hai
-  Zamane walon sun lo, mera Sultan Ali hai
+  Zamane waloṅ sun lo, mera Sultan Ali hai
   Shehenshahi ka idara, Abu Talib ka beta
 
   7
-  Hui jab in ki wiladat, buton ki aayi shamat
-  Muqaddar deen ka jaga, mili Kaabe ko taharat
+  Hui jab in ki wiladat, butoṅ ki aayi shamat
+  Muqaddar din ka jaga, mili Kaabe ko taharat
   Waqar-e khana-e Kaaba, Abu Talib ka beta
 
   8
   Yahi hai Fateh-e Khyber, yahi hai Saqi-e Kausar
-  Yeh sooraj chaand sitare, is ke qadmon ki thokar
-  Fazeelat ka minara, Abu Talib ka beta
+  Yeh suraj chaand sitare, is ke qadmoṅ ki thokar
+  Fazilat ka minara, Abu Talib ka beta
 
   9
-  Mila jab maal-e ghaneemat, ikattha ho gayi ummat
-  Magar jab deen-e Nabi ko, pari hai khoon ki zaroorat
+  Mila jab maal-e ghanimat, ikattha ho gayi ummat
+  Magar jab din-e Nabi ko, pari hai khuṅ ki zarurat
   Nikal kar samne aaya, Abu Talib ka beta
 
   10
@@ -64,7 +64,7 @@ romanLyrics: |-
   Utha le jayega darya, Abu Talib ka beta
 
   11
-  Jab ek halka sa tabassum, bana shamsheer-e jalalat
+  Jab ek halka sa tabassum, bana shamshir-e jalalat
   To phir Fayyaz na jane, woh hoti kaisi qayamat
   Agar khul kar hans deta, Abu Talib ka beta
 

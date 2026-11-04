@@ -12,8 +12,8 @@ cover: "/images/lyrics/jab-ghir-gae-kufe-mein.png"
 coverAlt: "Cover image for Jab Ghir Gae Kufe Mein"
 published: true
 romanLyrics: |-
-  jab ghir gaye Kufe mein Muslim ke dulare
-  pardes mein tanha the taqdeer ke maare
+  jab ghir gaye Kufe meiṅ Muslim ke dulare
+  pardes meiṅ tanha the taqdir ke maare
   
   1
   dono bachon ka wahan koi madadgar na tha
@@ -24,99 +24,99 @@ romanLyrics: |-
   chalta tha bada bhai use god mein lekar
   
   2
-  chhote bhai ne bade bhai se ro kar poocha
-  bhaiya itna to bata do ke kahan hain baba
-  hum musafir hain yahan koi nahi hai apna
+  chhote bhai ne bade bhai se ro kar pucha
+  bhaiya itna to bata do ke kahaṅ haiṅ baba
+  hum musafir haiṅ yahaṅ koi nahi hai apna
   hum ko pardes mein ab kaun sahara dega
   har samt andhera hai kahan jayenge bhai
   lagta hai humein baba na mil payenge bhai
   
   3
-  raat kaali thi andhere mein woh dono bache
+  raat kaali thi andhere meiṅ woh dono bache
   sahme sahme hue ek ped pe chhup kar baithe
-  raat bhar lipte the aapas mein woh gham ke maare
-  siskiyan lete the aur rote the chupke chupke
+  raat bhar lipte the aapas meiṅ woh gham ke maare
+  siskiyaṅ lete the aur rote the chupke chupke
   aahat jo koi hoti thi to ghabrate the dono
   patte bhi khadakte the to dar jate the dono
   
   4
   ek kaneez aayi subah usko tha pani bharna
-  us ne masoomon ka pani mein jo dekha chehra
-  dono bachon se yeh ghabra ke usi dam poocha
-  kaun ho aaye kahan se ho bata do itna
-  dono ne kaha zakhm bahut khaye hain bibi
-  hum log Madine se yahan aaye hain bibi
+  us ne masumoṅ ka pani meiṅ jo dekha chehra
+  dono bachoṅ se yeh ghabra ke usi dam pucha
+  kaun ho aaye kahaṅ se ho bata do itna
+  dono ne kaha zakhm bahut khaye haiṅ bibi
+  hum log Madine se yahaṅ aaye haiṅ bibi
   
   5
   naam Yasrib ka suna jab to woh tadpi ik baar
-  le ke bachon ko chali ghar ki taraf woh dildar
+  le ke bachoṅ ko chali ghar ki taraf woh dildar
   ja ke malkin se batane lagi sab haal-e-zaar
-  Momina ne kiya shahzadon ko ro ro kar pyar
+  Momina ne kiya shahzadoṅ ko ro ro kar pyar
   kehne lagi darna na meri jaan ho dono
-  aqa ke dularon mere mehmaan ho dono
+  aqa ke dularoṅ mere mehmaan ho dono
   
   6
   mutmain ho gaye jis waqt ke woh mah-e-laqa
   le gayi bachon ko hujre mein kaneez-e-Zahra
-  khana pani jo mila bachon ka dil bhar aaya
-  saamne nazron ke maa baap ka chehra aaya
+  khana pani jo mila bachoṅ ka dil bhar aaya
+  saamne nazroṅ ke maa baap ka chehra aaya
   baba ke liye mahv-e-buka ho gaye dono
   bin khaye piye rote hue so gaye dono
   
   7
   haaye Muslim ke pisar chand sitare dono
   khwab se chaunk ke uthe jo dulare dono
-  aahein bharne lage hujre mein woh pyare dono
-  roye be-sakhta taqdeer ke maare dono
+  aaheiṅ bharne lage hujre meiṅ woh pyare dono
+  roye besakhta taqdeer ke maare dono
   rone ki sada sun ke utha Haris-e-maloon
   khanjar liye hujre mein gaya Haris-e-maloon
   
   8
-  dekha Haris ko to masoom bahut ghabraye
-  zulfen zalim ne jo pakri to jigar tharraye
-  le chala khainchta masoomon ko zalim haaye
+  dekha Haris ko to masum bahut ghabraye
+  zulfeṅ zalim ne jo pakri to jigar tharraye
+  le chala khainchta masumoṅ ko zalim haaye
   Momina ne kaha Haris tujhe maut aa jaye
-  masoom hain pardesi hain in par na sitam kar
-  Haider ke gul-e-tar hain yeh Zahra ke gul-e-tar
+  masum haiṅ pardesi haiṅ in par na sitam kar
+  Haider ke gul-e-tar haiṅ yeh Zahra ke gul-e-tar
   
   9
-  kitna maloon tha Haris ko taras na aaya
+  kitna malun tha Haris ko taras na aaya
   Momina ki na suni ek use qatl kiya
-  baal bachon ke pakar kar woh sitamgar nikla
+  baal bachoṅ ke pakar kar woh sitamgar nikla
   bache kehte the humein maar ke kya payega
   dirham tujhe dilwayenge jitna tu bata de
-  le chal ke Madine humein amma se mila de
+  le chal ke Madine humeiṅ amma se mila de
   
   10
-  le ke maloon yateemon ko nahr par pahuncha
-  tegh masoomon ko dikhla ke woh zalim bola
-  tum hi batlao gala kaatoon main pehle kis ka
+  le ke malun yatimoṅ ko nahr par pahuncha
+  tegh masumoṅ ko dikhla ke woh zalim bola
+  tum hi batlao gala kaatuṅ maiṅ pehle kis ka
   chhote bhai ne gala apna barha kar yeh kaha
-  main deta hoon sar tegh idhar mor de Haris
+  maiṅ deta huṅ sar tegh idhar mor de Haris
   bas mere bare bhai ko ab chor de Haris
   
   11
   phir bade bhai ne chhote ko hataya barh kar
-  rakh diya apna gala tegh ke neeche ja kar
+  rakh diya apna gala tegh ke niche ja kar
   bola Haris se ke ehsan yeh karna mujh par
   mere bhai ko dikha kar na chalana khanjar
-  maloon tha be-deen tha woh dushman-e-Haider
+  maloon tha bedeen tha woh dushman-e-Haider
   sar kaata bare bhai ka chhote ko dikha kar
   
   12
   chhote bhai ne lahu dekha jis dam
   lot kar khoon mein bhai ke woh tadpa pur-gham
   dekh kar soo-e-nahr kehta tha ke haaye matam
-  bhai thehro ke zara der mein aate hain hum
-  yeh dekh ke maloon ne talwar chalayi
-  aur ho gayi be-kas ke sar-o-tan mein judai
+  bhai thehro ke zara der meiṅ aate haiṅ hum
+  yeh dekh ke malun ne talwar chalayi
+  aur ho gayi bekas ke sar o tan mein judai
   
   13
-  sar ko jab kaat chuka tan ko nahr mein dala
+  sar ko jab kaat chuka tan ko nahr meiṅ dala
   chhote bhai ki taraf bhai ka laasha aaya
-  haaye shahzadon ka aapas mein jo lipta laasha
-  dono mazlumon ki mazloomi pe roya darya
-  Waiz jo sitam dono yateemon pe hua hai
+  haaye shahzadoṅ ka aapas meiṅ jo lipta laasha
+  dono mazlumoṅ ki mazlumi pe roya darya
+  Waiz jo sitam dono yatimoṅ pe hua hai
   us zulm ko likh kar ke qalam kaanp raha hai
 ---
 

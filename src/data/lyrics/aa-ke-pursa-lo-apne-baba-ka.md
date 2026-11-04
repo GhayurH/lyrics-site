@@ -16,25 +16,25 @@ romanLyrics: |-
   Samarra se utha hai ik laasha, al-ajal al-ajal Imam-e-Zaman
   
   1
-  Aaj gyaara Imam rote hain
-  Khud Rasool-e-Anam rote hain
-  Bain karti hain Fatima Zahra
+  Aaj gyaara Imam rote haiṅ
+  Khud Rasool-e-Anam rote haiṅ
+  Bain karti haiṅ Fatima Zahra
   al-ajal al-ajal Imam-e-Zaman
   
   2
-  Thartharati hai Samarra ki zameen
-  Kaun sa ghar hai jis mein sog nahin
-  Khud Baqayya se aayi hain Zahra
+  Thartharati hai Samarra ki zamiṅ
+  Kaun sa ghar hai jis meiṅ sog nahiṅ
+  Khud Baqayya se aayi haiṅ Zahra
   al-ajal al-ajal Imam-e-Zaman
   
   3
   Aa gayi Qum se aik Shehzadi
   Aur Zainab bhi Shaam se aayi
-  Lab pe donon ke hai yehi noha
+  Lab pe donoṅ ke hai yehi noha
   al-ajal al-ajal Imam-e-Zaman
   
   4
-  Samarra mein hua hai hashr bapa
+  Samarra meiṅ hua hai hashr bapa
   Phir se Saadaat pe hai waqt kara
   Muntazir hai namaaz ko laasha
   al-ajal al-ajal Imam-e-Zaman
@@ -48,7 +48,7 @@ romanLyrics: |-
   6
   Laash pe haye bain kaun kare
   Na hai dukhtar na paas beta hai
-  Yaad aane lagi hai Karb-o-Bala
+  Yaad aane lagi hai Karb o Bala
   al-ajal al-ajal Imam-e-Zaman
 ---
 

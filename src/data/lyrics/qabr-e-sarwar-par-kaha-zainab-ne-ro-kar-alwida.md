@@ -17,18 +17,18 @@ romanLyrics: |-
   
   1
   Aag Khaimon Mein Laga Di Lashkar-e-Kuffaar Ne
-  Chheen Leen Saidaniyon Ke Sar Se Chadar, Alwida
+  Chhin Liṅ Saidaniyoṅ Ke Sar Se Chadar, Alwida
   
   2
-  Kunbe Wale Saath The Jab Main Watan Se Aayi Thi
-  Aaj Jaati Hoon Akeli Ghar Luta Kar, Alwida
+  Kunbe Wale Saath The Jab Maiṅ Watan Se Aayi Thi
+  Aaj Jaati Huṅ Akeli Ghar Luta Kar, Alwida
   
   3
-  Be-Khata Maare Sakina Ko Tamachey Shimr Ne
-  Le Liye Masoom Ke Kaanon Se Gauhar, Alwida
+  beKhata Maare Sakina Ko Tamachey Shimr Ne
+  Le Liye Masum Ke Kaanoṅ Se Gauhar, Alwida
   
   4
-  Neend Kaisi Aayi Hai Soya Karo Gay Kab Talak
+  Nind Kaisi Aayi Hai Soya Karo Ge Kab Talak
   Lo Phupi Jaati Hai Uttho, Mere Akbar, Alwida
   
   5
@@ -40,7 +40,7 @@ romanLyrics: |-
   The Rasan-Basta Wahan Aal-e-Payambar, Alwida
   
   7
-  Thi Bohat Ummeed Hai Abbas Sa Bhai Mera
+  Thi Bohat Ummid Hai Abbas Sa Bhai Mera
   Main Na Jaoongi Kabhi Koofa Khule-Sar, Alwida
   
   8

@@ -12,46 +12,46 @@ cover: "/images/lyrics/aap-par-darood-aur-salam-aye-mere-imam.png"
 coverAlt: "Cover image for Aap Par Darood Aur Salam Aye Mere Imam"
 published: true
 romanLyrics: |-
-  Aap Par Darood Aur Salam Aye Mere Imam
-  Bas Yehi Sada Hai Subh-o-Sham Aye Mere Imam
+  Aap Par Darud Aur Salam Aye Mere Imam
+  Bas Yehi Sada Hai Subh o Sham Aye Mere Imam
   
   1
-  Aa Rahe Hain Aap, Chal Rahi Hai Yeh Khabar
+  Aa Rahe Haiṅ Aap, Chal Rahi Hai Yeh Khabar
   Khana-e-Khuda Pe Hai Tiki Hui Nazar
-  Saj Rahe Hain Raste Tamam Aye Mere Imam
+  Saj Rahe Haiṅ Raste Tamam Aye Mere Imam
   
   2
   Har Nafas Tujhe Mera Salam Arz Hai
-  Main Tu Kya Hoon Har Nabi Wali Pe Farz Hai
-  Do Jahan Mein Tera Ahteram Aye Mere Imam
+  Maiṅ Tu Kya Huṅ Har Nabi Wali Pe Farz Hai
+  Do Jahaṅ Meiṅ Tera Ahteram Aye Mere Imam
   
   3
-  Do Jahan Ki Badshah Teri Zaat Hai
+  Do Jahaṅ Ki Badshah Teri Zaat Hai
   Tu Hai Us Ka Hath Jo Khuda Ka Hath Hai
-  Tere Hath Baiattein Tamam Aye Mere Imam
+  Tere Hath Baiatteiṅ Tamam Aye Mere Imam
   
   4
-  Iss Liye Tumhara Intezar Hai Shadeed
-  Sar Uthaye Phir Rahe Hain Waqt Ke Yazid
+  Iss Liye Tumhara Intezar Hai Shadid
+  Sar Uthaye Phir Rahe Haiṅ Waqt Ke Yazid
   Aa Ke Un Se Lijiye Inteqam Aye Mere Imam
   
   5
   Zikr-e-Khair Aap Ka Wazifa Hai Mera
-  Manqabat Nahi Hai Yeh Areeza Hai Mera
-  Parh Raha Hoon Roz Subh-o-Sham Aye Mere Imam
+  Manqabat Nahi Hai Yeh Ariza Hai Mera
+  Parh Raha Huṅ Roz Subh o Sham Aye Mere Imam
   
   6
   Khana-e-Khuda Ko Qaid Se Chhuraiye
   Moula Jald Aaiye, Ab Aa Bhi Jaiye
-  Le Ke Zulfiqar Be-Niyaam Aye Mere Imam
+  Le Ke Zulfiqar beNiyaam Aye Mere Imam
   
   7
-  Mangte Hain Aur Youn Zahoor Ki Dua
+  Mangte Haiṅ Aur Youṅ Zahur Ki Dua
   Dekhna Hai Hum Ko Inteqam-e-Karbala
   Chahe Phir Ho Zindagi Tamam Aye Mere Imam
   
   8
-  Chomte Hain Paon Aa Ke Taare Aap Ke
+  Chomte Haiṅ Paoṅ Aa Ke Taare Aap Ke
   Chal Raha Hai Dekh Ke Ishare Aap Ke
   Sari Kainat Ka Nizam Aye Mere Imam
 ---

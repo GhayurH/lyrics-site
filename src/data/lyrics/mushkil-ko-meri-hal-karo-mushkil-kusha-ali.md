@@ -12,57 +12,57 @@ cover: "/images/lyrics/mushkil-ko-meri-hal-karo-mushkil-kusha-ali.png"
 coverAlt: "Cover image for Mushkil Ko Meri Hal Karo Mushkil Kusha Ali"
 published: true
 romanLyrics: |-
-  Ay Kul Ke Madadgar Sardaron Ke Sardar
+  E Kul Ke Madadgar Sardaroṅ Ke Sardar
   Mushkil Kushai Ho Mere Moula Mere Sarkar
   Gar Tum Na Karoge To Karam Kaun Karega
   Gar Tum Na Sunoge To Meri Kaun Sunega
   
-  Zahra Ki Musibat Ka Tumhein Wasta Ali
+  Zahra Ki Musibat Ka Tumheiṅ Wasta Ali
   Mushkil Ko Meri Hal Karo Mushkil Kusha Ali
   
   1
-  Moula Meri Nigahon Ko Haasil Ho Ye Sharaf
-  Jeete Ji Ek Baar Dikha Do Mujhe Najaf
-  Sanson Ka Ruk Na Jaye Kahin Silsila Ali
+  Moula Meri Nigahoṅ Ko Haasil Ho Ye Sharaf
+  Jite Ji Ek Baar Dikha Do Mujhe Najaf
+  Sansoṅ Ka Ruk Na Jaye Kahiṅ Silsila Ali
   
   2
   Mushkil Ghari Hai Kijiye Aasan Raste
   Sab Par Karam Ho Bali Sakina Ke Waste
-  Tum Bin Nahin Hai Koi Mera Aasra Ali
+  Tum Bin Nahiṅ Hai Koi Mera Aasra Ali
   
   3
-  Ay Kibriya Ki Shan Muhammad Ke Dil Nasheen
-  Aansoo Rawan Hain Aankh Se Dil Ko Sukoon Nahin
+  E Kibriya Ki Shan Muhammad Ke Dil Nashiṅ
+  Aansu Rawaṅ Haiṅ Aankh Se Dil Ko Sukuṅ Nahiṅ
   Ye Dil Se Aa Rahi Musalsal Sada Ali
   
   4
   Ek Ghar Mujhe Bhi Chahiye Kaabe Ke Mohtaram
   Jis Par Laga Ho Hazrat-e-Abbas Ka Alam
-  Ghurbat Mein Muflisi Mein Yehi Hai Dua Ali
+  Ghurbat Meiṅ Muflisi Meiṅ Yehi Hai Dua Ali
   
   5
   Beemar-e-Karbala Se Wafa Ka Sila Mile
-  Beemar Jo Hain Un Ko Mukammal Shifa Mile
-  Us Ki Qasam Jo Kanton Pe Chalta Raha Ali
+  Bimar Jo Haiṅ Un Ko Mukammal Shifa Mile
+  Us Ki Qasam Jo Kantoṅ Pe Chalta Raha Ali
   
   6
-  Haye Husain Haye Zaeefi Ka Wo Samaan
-  Dekhi Jawan Bete Ke Seene Mein Jab Sinaan
-  Rakh Kar Sinaan Pe Hath Tarap Kar Kaha Ali
+  Haye Husain Haye Zaifi Ka Wo Samaaṅ
+  Dekhi Jawan Bete Ke Sine Meiṅ Jab Sinaaṅ
+  Rakh Kar Sinaaṅ Pe Hath Tarap Kar Kaha Ali
   
   7
-  Jis Dam Aseer Ho Ke Chalein Shaam Ki Taraf
+  Jis Dam Asir Ho Ke Chaleiṅ Shaam Ki Taraf
   Zainab Pukarein Dekh Ke Haye Soo-e-Najaf
-  Kis Tarah Shaam Jaungi Main Be-Rida Ali
+  Kis Tarah Shaam Jaungi Main beRida Ali
   
   8
-  Zindaan Mein Jab Behan Ka Janaza Na Uth Saka
+  Zindaaṅ Meiṅ Jab Behan Ka Janaza Na Uth Saka
   Haye Tarap Ke Syed-e-Sajjad Ne Kaha
   Waqt-e-Madad Hai Aaiye Ya Murtaza Ali
   
   9
-  Zeeshan Aur Raza Ke Labon Par Dua Hai Ye
-  Ghaibat Se Jald Barhwein Bete Ko Bhejiye
+  Zishan Aur Raza Ke Laboṅ Par Dua Hai Ye
+  Ghaibat Se Jald Barhweiṅ Bete Ko Bhejiye
   Mushkil Hai Sans Lena Ab Un Ke Bina Ali
 ---
 

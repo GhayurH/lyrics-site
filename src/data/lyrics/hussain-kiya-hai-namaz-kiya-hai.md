@@ -19,7 +19,7 @@ romanLyrics: |-
   Husain panjetan ka noor-e-panjam
   namaz hoti hai panjgana
 
-  namaz mein ijz o inkisari
+  namaz meiṅ ijz o inkisari
   Husain ki shan fatehana
   
   namaaz qible ko dhundti hai
@@ -43,12 +43,12 @@ romanLyrics: |-
   
   3
   namaz hai Roshni ki taalib
-  Husain shamein bujha raha hai
+  Husain shameiṅ bujha raha hai
   
   namaz kasrat ko chahti hai
   ye shan-e-wehdat dikha raha hai
   
-  namaz peeche hai mustufa ke
+  namaz piche hai mustufa ke
   ye dosh per jagmaga raha hai
   
   tu ab bhi mujhse ye puchta hai
@@ -56,9 +56,9 @@ romanLyrics: |-
   
   4
   namaz darti rahi lahu se
-  ye khun ki masnad bicha raha hai
+  ye khuṅ ki masnad bicha raha hai
   
-  namaz zindon ka hai wazifa
+  namaz zindoṅ ka hai wazifa
   Husain marna sikha raha hai
   
   namaz hai kibriya ki talib
@@ -74,7 +74,7 @@ romanLyrics: |-
   naamaz ki shukr inteha hai
   to iska mashkoor hai zamana
   
-  namaaz logon ko hai bulati
+  namaaz logoṅ ko hai bulati
   ye dast-e-baiyat utha raha hai
   
   tu ab bhi mujhse ye puchta hai

@@ -12,7 +12,7 @@ cover: "/images/lyrics/karte-hain-matam-haram-abbas-ka.png"
 coverAlt: "Cover image for Karte Hain Matam Haram Abbas Ka"
 published: true
 romanLyrics: |-
-  Karte Hain Matam Haram Abbas Ka
+  Karte Haiṅ Matam Haram Abbas Ka
   Ho Gaya Marna Sitam Abbas Ka
   Aata Hai Zakhmi Alam Abbas Ka
   Ho Gaya Marna Sitam Abbas Ka
@@ -20,17 +20,17 @@ romanLyrics: |-
   1
   Haye Lab-e-Neher Hua Kya Ghazab
   Teer Laga Mashk-e-Sakina Pe Jab
-  Aa Gaya Honton Pe Dam Abbas Ka
+  Aa Gaya Hontoṅ Pe Dam Abbas Ka
   
   2
-  Kehte Hain Ro Ro Ke Yeh Ahle Haram
-  Jaah-o-Hasham, Sabr-o-Raza-o-Karam
+  Kehte Haiṅ Ro Ro Ke Yeh Ahle Haram
+  Jaah o Hasham, Sabr o Raza o Karam
   Kis Tarah Bhoolenge Gham Abbas Ka
   
   3
   Leke Shehenshah-e-Wafa Se Hayat
-  Choomne Qadmon Ko Barhi Khud Furaat
-  Dekh Ke Jaah-o-Hasham Abbas Ka
+  Chumne Qadmoṅ Ko Barhi Khud Furaat
+  Dekh Ke Jaah o Hasham Abbas Ka
   
   4
   Shah Ke Ghamkhwaar Pe Har Ek Pal
@@ -40,12 +40,12 @@ romanLyrics: |-
   5
   Phir Mere Maula Se Na Sambhla Alam
   Paani Baha, Ho Gaya Thanda Alam
-  Mashk Mein Shayad Tha Dam Abbas Ka
+  Mashk Meiṅ Shayad Tha Dam Abbas Ka
   
   6
   Ab Bhi Hai Besheer Ke Maqtal Ki Yaad
   Ab Bhi Hai Baqi Shahe Karbal Ki Yaad
-  Karte Hain Ooncha Alam Abbas Ka
+  Karte Haiṅ Uncha Alam Abbas Ka
   
   7
   Nafs-e-Sakina To Wahin Ruk Gayi
@@ -54,7 +54,7 @@ romanLyrics: |-
   
   8
   Ab Kahan Bujh Payegi Dukhya Ki Pyaas
-  Toot Gayi Baali Sakina Ki Aas
+  Tut Gayi Baali Sakina Ki Aas
   Ho Gaya Baazu Qalam Abbas Ka
   
   9

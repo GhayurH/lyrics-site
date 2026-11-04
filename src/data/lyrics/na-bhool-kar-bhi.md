@@ -13,43 +13,43 @@ coverAlt: "Cover image for Na Bhool Kar Bhi"
 published: true
 romanLyrics: |-
   1
-  Na bhool kar bhi kabhi tum kisi ki baat karo
+  Na bhul kar bhi kabhi tum kisi ki baat karo
   Ali ka zikr karo bas Ali ki baat karo
   
   2
   Kisi ka nafs kisi ka wasi kisi ka wali
-  Ye sab sifaat hon jis mein usi ki baat karo
+  Ye sab sifaat hoṅ jis meiṅ usi ki baat karo
   
   3
-  Ali ke naqsh-e-qadam ka main zikr karta hoon
+  Ali ke naqsh-e-qadam ka main zikr karta huṅ
   Tum us ke saath hi dosh-e-Nabi ki baat karo
   
   4
   Ye zikr zikr-e-Nabi hai yehi hai zikr-e-Khuda
-  Ali ke hote huay kyun kisi ki baat karo
+  Ali ke hote hue kiuṅ kisi ki baat karo
   
   5
   Sar-e-niyaaz jhuka do Ali chaukhat par
-  Ghuroor-o-naaz se phir bandagi ki baat karo
+  Ghurur o naaz se phir bandagi ki baat karo
   
   6
-  Samajh mein aa na sakay ga kabhi Ali ka maqaam
-  Na is tarha kabhi deewangi ki baat karo
+  Samajh meiṅ aa na sake ga kabhi Ali ka maqaam
+  Na is tarha kabhi diwangi ki baat karo
   
   7
-  Azal se saaqi-e-kausar se hoon main waabasta
-  Na meray aagay kisi tishnigi ki baat karo
+  Azal se saaqi-e-kausar se huṅ main waabasta
+  Na mere aage kisi tishnigi ki baat karo
   
   8
-  Lehad mein meri andhera ho ghair mumkin hai
-  Jahan Ali ho wahan roshni ki baat karo
+  Lehad meiṅ meri andhera ho ghair mumkin hai
+  Jahaṅ Ali ho wahaṅ roshni ki baat karo
   
   9
-  Hai waqt nazaa ka baali pa aayay hain Mola
-  Kahan ki maut bas ab zindagi ki baat karo
+  Hai waqt nazaa ka baali pa aaye haiṅ Mola
+  Kahaṅ ki maut bas ab zindagi ki baat karo
   
   10
-  Farishton kaisa sawal-o-jawab turbat mein
+  Farishtoṅ kaisa sawal o jawab turbat meiṅ
   Ab aa gaye ho to betho Ali ki baat karo
   
   11

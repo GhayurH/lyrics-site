@@ -12,57 +12,57 @@ cover: "/images/lyrics/laa-raha-hun-main-lasha-e-akbar.png"
 coverAlt: "Cover image for Laa Raha Hun Main Lasha E Akbar"
 published: true
 romanLyrics: |-
-  Laa raha hun main lasha e Akbar
+  Laa raha huṅ main lasha e Akbar
   Umme Laila sambhaal Zainab ko
   
   Bole honge Husain ye rokar
   Umme Laila sambhaal Zainab ko
   
   1
-  Naujawan laash hai zaeefi hai
-  Meri nazron se dekh manzar ko
+  Naujawaṅ laash hai zaifi hai
+  Meri nazroṅ se dekh manzar ko
   Kaise hamsheer ko sambhalunga
-  Mai sambhale hue hun Akbar ko
+  Mai sambhale hue huṅ Akbar ko
   Tera ehsaan hoga ye mujh par
   Umme Laila Sambhaal Zainab Ko
   
   2
   Iske seene se kehke naam-e-Ali
   Maine barchi abhi nikaali hai
-  Imtehan de chuki meri ghurbat
+  Imtehaṅ de chuki meri ghurbat
   Ab teri bekasi ki baari hai
   Tu bhi is waqt ya Ali keh kar
   Umme Laila Sambhaal Zainab Ko
   
   3
-  Do nageene the iski jholi may
+  Do nagine the iski jholi may
   Dono Akbar pe kar diye sadqa
-  Sabr aisa ke apne beton par
+  Sabr aisa ke apne betoṅ par
   Maine rote isay nahi dekha
   Hai magar ab ye lasha e Akbar
   Umme Laila Sambhaal Zainab Ko
   
   4
-  Rok rakha hai apne ashkon ko
-  Sab se chhup chhup ke aahen bharti hai
-  Main samajhta hun maadar e Akbar
+  Rok rakha hai apne ashkoṅ ko
+  Sab se chhup chhup ke aaheṅ bharti hai
+  Main samajhta huṅ maadar e Akbar
   Teri mamta pe jo guzarti hai
   Rakh ke apne kaleje par pathar
   Umme Laila Sambhaal Zainab Ko
   
   5
-  Kaise laash-e-jawan uthaye hun
-  Aeriyan khat banati aati hai
-  In nishano ko peeche peeche mere
+  Kaise laash-e-jawan uthaye huṅ
+  Aeriyaṅ khat banati aati hai
+  In nishano ko piche piche mere
   Amma Zehra mitati aati hai
   Uski nazrein na dekhein ye manzar
   Umme Laila Sambhaal Zainab Ko
   
   6
-  Ay takallum wo shaam o kufa ka
-  Tay hua hoga is tarah se safar
+  E takallum wo shaam o kufa ka
+  Te hua hoga is tarah se safar
   Amma Zainab sambhaalna maa ko
-  Kehte hongay sina se yeh Akbar
+  Kehte honge sina se yeh Akbar
   Aur hoga Husain ke lab par
   Umme Laila Sambhaal Zainab Ko
 ---

@@ -17,35 +17,35 @@ romanLyrics: |-
   
   1
   Har Ek Sawaal Ka Behtar Jawaab Zinda Hai
-  Sadaaqaton Ka Mukammal Nisaab Zinda Hai
+  Sadaaqatoṅ Ka Mukammal Nisaab Zinda Hai
   Bahaar-e-Baagh-e-Risaalat Ma-aab Zinda Hai
   Khuda Ke Bando, Khuda Ki Kitaab Zinda Hai
   Bayaan Azmat-e-Khatoon-e-Kaaenaat Suno
-  Mubahele Ki Zubaan Se Khuda Ki Baat Suno
+  Mubahele Ki Zubaaṅ Se Khuda Ki Baat Suno
   
   2
-  Kaha Jo Bizato Minni To Ho Gaya Maaloom
+  Kaha Jo Bizato Minni To Ho Gaya Maalum
   Dil-e-Rasool Ki Surat Hai Fatema Maasoom
   Kamaal-e-Ilm Se Aisa Bana Diya Maqsoom
-  Naseeb Ho Gaye Gyarah Imaamaton Ke Nuzool
+  Nasib Ho Gaye Gyarah Imaamatoṅ Ke Nuzul
   Waqaar-e-Bint-e-Nabi Mein Na Kuch Kami Aaye
-  Khuda Ke Ghar Mein Isi Waaste Ali Aaye
+  Khuda Ke Ghar Meiṅ Isi Waaste Ali Aaye
   
   3
-  Ali Ne Shukr Se Mazdooriyon Mein Din Kaate
-  Nabi Ki Beti Ne Chakki Mein Khushk Jao Peese
-  Ali Ne Baaghon Mein Paani Diya, Jihaad Kiye
-  Nabi Ki Beti Ne Faaqon Mein Bhar Diye Sajde
+  Ali Ne Shukr Se Mazduriyoṅ Meiṅ Din Kaate
+  Nabi Ki Beti Ne Chakki Meiṅ Khushk Jao Pise
+  Ali Ne Baaghoṅ Meiṅ Paani Diya, Jihaad Kiye
+  Nabi Ki Beti Ne Faaqoṅ Meiṅ Bhar Diye Sajde
   Jihaad-e-Nafs Ka Maidaan Ali Ke Haath Raha
-  Kamaal-e-Sabr-o-Riza Fatema Ke Saath Raha
+  Kamaal-e-Sabr o Riza Fatema Ke Saath Raha
   
   4
-  Wo Ek Chhota Sa Ghar Poori Kaaenaat Ka Dil
-  Wo Ek Hujra Imaamat Ke Noor Ki Manzil
-  Wo Baam-o-Dar Jinhe Sajda Kare Mah-e-Kaamil
-  Wo Ek Nakhl Ke Saaye Mein Khuld Ki Mehfil
-  Adab Ke Saath Bulandi Ka Har Nishaan Jhuke
-  Jahan Kaneez Ke Rutbe Pe Aasmaan Jhuke
+  Wo Ek Chhota Sa Ghar Puri Kaaenaat Ka Dil
+  Wo Ek Hujra Imaamat Ke Nur Ki Manzil
+  Wo Baam o Dar Jinhe Sajda Kare Mah-e-Kaamil
+  Wo Ek Nakhl Ke Saaye Meiṅ Khuld Ki Mehfil
+  Adab Ke Saath Bulandi Ka Har Nishaaṅ Jhuke
+  Jahaṅ Kaniz Ke Rutbe Pe Aasmaaṅ Jhuke
   
   5
   Ba-Naam-e-Fatema Ummat Ki Betiyan Jaagein
@@ -56,17 +56,17 @@ romanLyrics: |-
   Rasool-e-Paak Ki Beti Se Sharmsaar Na Ho
   
   6
-  Dhuaan Tanoor Se Uttha To Saaelon Ke Liye
-  Khameer Ho Gaya Aata Musaafiron Ke Liye
+  Dhuaaṅ Tanur Se Uttha To Saaeloṅ Ke Liye
+  Khamir Ho Gaya Aata Musaafiroṅ Ke Liye
   Sukoon-e-Qalb Ka Saamaan Bekason Ke Liye
-  Ghiza-e-Sabr-o-Riza Apne Kamsinon Ke Liye
-  Isi Maqaam Pe Khair-ul-Amal Ke Jalwe Hain
-  Yahi Wo Ghar Hai Jahan Inqilaab Palte Hain
+  Ghiza-e-Sabr o Riza Apne Kamsinon Ke Liye
+  Isi Maqaam Pe Khair-ul-Amal Ke Jalwe Haiṅ
+  Yahi Wo Ghar Hai Jahaṅ Inqilaab Palte Haiṅ
   
   7
   Ali Ke Chehra-e-Aqdas Pe Ambiya Ka Jalaal
   Wujood-e-Fatema Zahra Pe Mustafa Ka Jamaal
-  Ali Ke Dam Se Jahan Mein Tajalliyon Ke Nihaal
+  Ali Ke Dam Se Jahaṅ Meiṅ Tajalliyoṅ Ke Nihaal
   Mataa-e-Fatema Zahra Hasan Husain Se Laal
   Ali Ne Masjid-e-Kufa Mein Zakhm Khaaya Hai
   Zamaane Walo Ne Zahra Ko Bhi Rulaaya Hai

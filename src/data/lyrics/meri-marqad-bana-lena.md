@@ -30,16 +30,16 @@ romanLyrics: |-
   Meri marqad bana dena
   
   2
-  Main nabi ka nawasa hun ae doston
-  Fatima ka dulara hun ae doston
+  Maiṅ nabi ka nawasa huṅ ae dostoṅ
+  Fatima ka dulara huṅ ae dostoṅ
   Tumse Shabbir kuch bhi nahi maangta
-  Sirf ik baat kehta hun ae doston
+  Sirf ik baat kehta huṅ ae dostoṅ
 
   Karbala ko saja dena
   Meri marqad bana dena
   
   3
-  Jab bhi zaair ziyarat ko aayen miri
+  Jab bhi zaair ziyarat ko aayeṅ miri
   Usko mehmaan rakhna yahan teen din
   Usko paani pilana meri simt se
   Usko khana khilana yahan teen din
@@ -57,25 +57,25 @@ romanLyrics: |-
   Meri marqad bana dena
   
   5
-  Phir asad ke qabile ke bacchon se bhi
+  Phir asad ke qabile ke bacchoṅ se bhi
   Is tarha mera maula mukhatib hua
   Apni mutthi me matti uthaa kar tumhi
   Ho sake to meri laash par daalna
 
-  Meri maan se dua lena
+  Meri maaṅ se dua lena
   Meri marqad bana dena
   
   6
   Dekhna tum ke kuch waqt guzrega jab
   Aur roze hamare banenge yahan
   Naam to is jagah ka hai karbobala
-  Kal ise sab pukarenge rashk e jinan
+  Kal ise sab pukarenge rashk e jinaṅ
 
   Tum bhi jannat ko paa lena
   Meri marqad bana dena
   
   7
-  Mein kahan jaunga bekas-o-bewatan
+  Mein kahan jaunga bekas o bewatan
   Sab kahenge mujhe shah-e-tashna dahan
   Ran me teeron ka hoga mera pairahan
   Khaak-e-karbobala hogi mera kafan
@@ -87,7 +87,7 @@ romanLyrics: |-
   Ab bhi ashoor ko rauza-e-shah par
   Aata hai sab kabila asad ka nazar
   Shah-e-deen ki wasiyat unhein yaad hai
-  Ab bhi Majid ye kehte hain wo nauhagar
+  Ab bhi Majid ye kehte haiṅ wo nauhagar
 
   Sheh ka laasha uthaa lena
   Sheh ki marqad bana dena

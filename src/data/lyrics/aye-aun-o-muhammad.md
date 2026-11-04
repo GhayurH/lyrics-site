@@ -13,58 +13,58 @@ coverAlt: "Cover image for Aye Aun O Muhammad"
 published: true
 romanLyrics: |-
 
-  Kehti thi yeh Zainab, yun maa ka maan nibhana
+  Kehti thi yeh Zainab, yuṅ maa ka maan nibhana
   Ae Aun o Muhammad
   
-  Shabbir ka tum sadqa ho, ab kheme mein beta
+  Shabbir ka tum sadqa ho, ab kheme meiṅ beta
   Tum laut kar na aana
   
   1
-  Hai maan ko yaqeen, tum maa ki baat rakhoge
-  Yeh yaad rahe, khemon mein hain pyaase bachche
-  Darya pe agar jaana ho, seh roz ke pyaason
+  Hai maaṅ ko yaqin, tum maa ki baat rakhoge
+  Yeh yaad rahe, khemoṅ meiṅ hain pyaase bachche
+  Darya pe agar jaana ho, seh roz ke pyaasoṅ
   Tum pyaas na bujhana
   
   2
   Har haal mein tum par, laazim hai shukr
   Khuda ka Ae shehzadon, hai sabr tumhara virsa
-  Farzand ho tum Zainab ke, shikwa nahin karna
+  Farzand ho tum Zainab ke, shikwa nahiṅ karna
   Jab zakhm koi khana
   
   3
-  Kab hum pe sitam, karne ke liye aaye hain
-  Yeh Badr o Uhud ke, badle ke liye aaye hain
-  Laazim hai rajaz se pehle, maidan mein tum par
+  Kab hum pe sitam, karne ke liye aaye haiṅ
+  Yeh Badr o Uhud ke, badle ke liye aaye haiṅ
+  Laazim hai rajaz se pehle, maidan meiṅ tum par
   Madh-e-Ali sunaana
   
   4
-  Jab saans tumhari, bachon ho ukharnay wali
+  Jab saans tumhari, bachoṅ ho ukharne wali
   Us waqt sarhaane, aayengi madar meri
   Dil ki yeh meri khwaahish hai, us dam meri maa se
-  Zakhmon ko tum chhupaana
+  Zakhmoṅ ko tum chhupaana
   
   5
   Qaatil pe karam, nana ki tarah kar dena
-  Yoon laaj mere, bhai ke naam ki rakhna
-  Jo waasta de bhai ka, maidan mein us par
+  Yuṅ laaj mere, bhai ke naam ki rakhna
+  Jo waasta de bhai ka, maidan meiṅ us par
   Tum tegh na chalana
   
   6
   Jab laashe utha kar, kheme mein laye
   Sarwar Zainab yeh boli, ashkon ko apne chupa kar
-  Main bhi na tumhe roongi, aur mere liye bhi
-  Aansoo na tum bahaana
+  Maiṅ bhi na tumhe rungi, aur mere liye bhi
+  Aansu na tum bahaana
   
   7
-  Tazeem ki khatir, kyon uthte nahin ab beta
-  Dekho to sarhaane, aaye hain mere bhaiya
-  Jago mere shehzadon, kya bhool gaye ho
-  Qadmon pe sar jhukaana
+  Tazim ki khatir, kyoṅ uthte nahiṅ ab beta
+  Dekho to sarhaane, aaye haiṅ mere bhaiya
+  Jago mere shehzadoṅ, kya bhul gaye ho
+  Qadmoṅ pe sar jhukaana
   
   8
-  Shabash mere bachon, hoon main tum se raazi
+  Shabash mere bachoṅ, huṅ maiṅ tum se raazi
   Yeh keh ke takallum, khamosh hui Shehzadi
-  Nezon pe safar kar ke, hamrah hamare
+  Nezoṅ pe safar kar ke, hamrah hamare
   Tum ko hai Shaam jaana
 ---
 

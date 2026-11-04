@@ -15,22 +15,22 @@ romanLyrics: |-
   Qadam qadam pe Ali ko pukarte rehna
 
   1
-  Raah-e hayat mein manzil ko dhoondne walo
-  Talash-e haq mein na dar dar ki thokrein khao
-  Hamari mano to soo-e Najaf chale aao
+  Raah-e hayat meiṅ manzil ko dhundne walo
+  Talash-e haq meiṅ na dar dar ki thokreiṅ khao
+  Hamari mano to su-e Najaf chale aao
   Is aastane pe qismat sanwarte rehna
 
   2
-  Rawan hai kashti-e iman isi sahare se
-  Na ruk sakegi yeh zulm-o-sitam ke dhare se
+  Rawaṅ hai kashti-e iman isi sahare se
+  Na ruk sakegi yeh zulm o sitam ke dhare se
   Ali ke naam pe lag jayegi kinare se
   Har ek mauj se sahil ubharte rehna
 
   3
   Ali hai naam-e Khuda aur ism-e aazam hai
   Yahi woh naam hai jis par baqa-e alam hai
-  Khuda ke ghar mein jo ubhra woh naqsh-e muhkam hai
-  Yeh naqsh dil mein har ek ke utarte rehna
+  Khuda ke ghar meiṅ jo ubhra woh naqsh-e muhkam hai
+  Yeh naqsh dil meiṅ har ek ke utarte rehna
 
   4
   Nabi gawah hai zikr-e Ali ibadat hai
@@ -39,16 +39,16 @@ romanLyrics: |-
   Naza ke waqt bhi us ko pukarte rehna
 
   5
-  Na koi ghazwa-e Khyber mein jabke kaam aaya
-  Rasool-e Pak ke lab par Ali ka naam aaya
+  Na koi ghazwa-e Khyber meiṅ jabke kaam aaya
+  Rasul-e Pak ke lab par Ali ka naam aaya
   Idhar zaban hili thi udhar Imam aaya
   Ke jis ka kaam hai bigri sanwarte rehna
 
   6
   Kabhi jo maarka-e haq ki baat aaye gi
   Nigah-e fikr-e hunar aap par bhi jaye gi
-  Hunain-o-Badr-o-Uhad Karbala bataye gi
-  Likha hai kis ke muqaddar mein harte rehna
+  Hunain o Badr o Uhad Karbala bataye gi
+  Likha hai kis ke muqaddar meiṅ harte rehna
 
   7
   Bataye soch ke woh hifz jin ko Quran hai

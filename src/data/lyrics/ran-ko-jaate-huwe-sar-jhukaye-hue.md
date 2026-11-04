@@ -16,13 +16,13 @@ romanLyrics: |-
   Sheh ne ro kar kaha alwida alwida
   
   aaya waqt-e-safar ay behan aaj ham
-  ho rahe hain juda alwida alwida
+  ho rahe haiṅ juda alwida alwida
   
   1
   shah barh kar behan ke gale lag gaye
   aur dukhiya behan se ye kehne lage
   se ye kehne lage
-  meri mazloom pyasi musafir behan
+  meri mazlum pyasi musafir behan
   tera haafiz khuda alwida alwida
   
   2
@@ -34,37 +34,37 @@ romanLyrics: |-
   
   3
   le ke bali sakina ko aaghosh mein
-  nanhe nanhe se haathon ke bose liye
+  nanhe nanhe se haathoṅ ke bose liye
   ro ke bose liye
   sheh ne hasrat se beti ko takte huwe
   aah bhar kar kaha alwida alwida
   
   4
   bola bemaar bete se aaqa mera
-  ab na aayega ay beta baba tera
+  ab na aayega e beta baba tera
   beta baba tera
-  maut ki aahatein tez hone lagin
+  maut ki aahateiṅ tez hone lagiṅ
   aa rahi hai sada alwida alwida
   
   5
   aaya khaime se baahir jo maula mera
   bhai beta bhatija koi bhi na tha
   haye koi bhi na tha
-  aik hasrat se charon taraf dekh kar
+  aik hasrat se charoṅ taraf dekh kar
   sheh ne khud hi kaha alwida alwida
   
   6
-  jab tarap kar kaha mere sheron utho
+  jab tarap kar kaha mere sheroṅ utho
   aao zainab ke bhai ko rukhsat karo
   haye rukhsat karo
-  aik ek laash-e-be-sar se aayi sada
+  aik ek laash-e-besar se aayi sada
   ay shah-e-karbala alwida alwida
   
   7
   aisa matam karo aisa matam karo
-  paak bibi kahain marhaba marhaba
+  paak bibi kahaiṅ marhaba marhaba
   marhaba marhaba
-  khoon ugalte huwe aik ek zakhm se
+  khuṅ ugalte huwe aik ek zakhm se
   aaj aaye sada alwida alwida
 ---
 

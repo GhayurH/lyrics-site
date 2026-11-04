@@ -12,23 +12,23 @@ cover: "/images/lyrics/ya-rab-koyi-masooma-zindan-main-na-tanha-ho.png"
 coverAlt: "Cover image for Ya Rab Koyi Masooma Zindan Main Na Tanha Ho"
 published: true
 romanLyrics: |-
-  Ya Rab Koyi Masooma, Zindan Main Na Tanha Ho
-  Paband Na Hon Aahein, Rone Pe Na Pehra Ho
+  Ya Rab Koyi Masuma, Zindan Maiṅ Na Tanha Ho
+  Paband Na Hoṅ Aaheiṅ, Rone Pe Na Pehra Ho
   
   1
-  Thi Jis Ko Neend Aati, Shabbir Ke Seene Par
+  Thi Jis Ko Nind Aati, Shabbir Ke Sine Par
   Zinda Dar-e-Zindan, Uske Liye Qaza Ho
   
   2
-  Zindanon Se Aati Thi, Awaaz Sisakne Ki
-  Jaise Ke Sakina Ko, Har Zindan Ro Raha Ho
+  Zindanoṅ Se Aati Thi, Awaaz Sisakne Ki
+  Jaise Ke Sakina Ko, Har Zindaṅ Ro Raha Ho
   
   3
-  Takraye Na Woh Kyun Kar, Zindan Ki Deewaron Se
+  Takraye Na Woh Kiuṅ Kar, Zindan Ki Diwaroṅ Se
   Bhai Se Aur Phuphi Se, Jisko Juda Kiya Ho
   
   4
-  Zindan Main Aye Najafi, Yaad Aayi Sakina Ki
+  Zindan Maiṅ Aye Najafi, Yaad Aayi Sakina Ki
   Dil Ro Ro Keh Raha Hai, Ab Na Ujala Ho
 ---
 

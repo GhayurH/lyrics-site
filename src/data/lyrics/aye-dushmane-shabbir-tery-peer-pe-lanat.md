@@ -14,34 +14,34 @@ published: true
 romanLyrics: |-
 
   1
-  Aye Dushmane Shabbir Tery Peer pa Lanat  
-  tashreek pa tashkeek pa takfeer pa lanaat  
-  Har ehad ke jhooton ke bare peer pa laanat
+  Aye Dushmane Shabbir Tery Pir pa Lanat
+  tashrik pa tashkik pa takfir pa lanaat
+  Har ehad ke jhutoṅ ke bare pir pa laanat
   
   2
-  Farzand-e-Ali ibn-e-Abi Bakr pa rahmat  
-  Momin nahin jo aap se rakhta ho adawat  
-  Haider ki adu aap ki hamsheer pa laanat
+  Farzand-e-Ali ibn-e-Abi Bakr pa rahmat
+  Momin nahiṅ jo aap se rakhta ho adawat
+  Haider ki adu aap ki hamshir pa laanat
   
   3
   Haq isme nikalta ho agar Aal-e-Nabi ka,
-  Bebaaq na qarza ho agar Aal-e-Nabi ka  
-  Us maal o zar o mansab o jaageer pa laanat
+  Bebaaq na qarza ho agar Aal-e-Nabi ka
+  Us maal o zar o mansab o jaagir pa laanat
   
   4
-  Jo Haq ki hifazat ke liye kaam na aayein  
-  Mazloomon ko kamzoron ko nahaq jo darayein  
-  Shamsheer o Sinan o Tabar o Teer pa laanat
+  Jo Haq ki hifazat ke liye kaam na aayeiṅ
+  Mazlumoṅ ko kamzoroṅ ko nahaq jo darayeiṅ
+  Shamshir o Sinan o Tabar o Tir pa laanat
   
   5
-  Iblis ho Firaun ho ya Aal-e-Umayyah  
-  Shabbir ka dushman hai jo dushman hai Khuda ka  
+  Iblis ho Firaun ho ya Aal-e-Umayyah
+  Shabbir ka dushman hai jo dushman hai Khuda ka
   Har daur ke Har Dushman-e-Shabbir pa laanat
   
   6
-  Hakim ke mazalim ko chupane ke liye tha  
+  Hakim ke mazalim ko chupane ke liye tha
   Jo Khutba-e-Sajjad dabane ke liye tha
-  Takbeer ke us naraye Takbeer pa laanat
+  Takbir ke us naraye Takbir pa laanat
   
   7
   Nahaq hua taraaj Mohammad ka gharana,
@@ -51,7 +51,7 @@ romanLyrics: |-
   8
   Awlaad-e-Umayyah ho ke ho woh Banu Abbas
   Ho Aal-e-Mohammad ka na jinko Adab o Paas
-  Us Fikr per, Us Khoon per, Us Sheer pa laanat
+  Us Fikr per, Us Khun per, Us Shir pa laanat
 ---
 
 ۱

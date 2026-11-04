@@ -12,7 +12,7 @@ cover: "/images/lyrics/ye-khat-mein-shah-ne-likha-habib-aajaao.png"
 coverAlt: "Cover image for Ye Khat Mein Shah Ne Likha, Habib Aajaao"
 published: true
 romanLyrics: |-
-  Ye khat mein Shah ne likha, Habib aajaao
+  Ye khat meiṅ Shah ne likha, Habib aajaao
   Tumhara dost hai tanha, Habib aajaao
   
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Lagaao is sey bhi andaazey meri ghurbat ke
   Jahaan pey ibn-e-Ali likhna tha wahaan mein ne
-  Diya hai maan ka hawala, Habib aajaao
+  Diya hai maaṅ ka hawala, Habib aajaao
   
   3
   Bata raha tha usey koi bhi nahi hai mera
@@ -31,24 +31,24 @@ romanLyrics: |-
   Hai usko tumpey bharosa, Habib aajaao
   
   4
-  Wo jab ye sunti hai Kufe se aarahey hain shaqi
+  Wo jab ye sunti hai Kufe se aarahey haiṅ shaqi
   To puchti hai hamaara bhi aayega koi
   Duaaein deygi Sakina, Habib aajaao
   
   5
-  Gawara kar nahin sakti Husain ki ghairat
+  Gawara kar nahiṅ sakti Husain ki ghairat
   Tumhari zauja ki chaadar ko lootley ummat
   Tum usko chorhkey Kufa Habib aajaao
   
   6
   Mujhey hai yaad wo lamha Jo rab ki marzi se
   Tum ho key zinda Meri baat sunney aaye they
-  Bula raha hun dubara Habib aajaao
+  Bula raha huṅ dubara Habib aajaao
   
   7
   Dar-e-Batool dobaara jalaaya jaayega
   Tumhaarey dost pey khanjar chalaaya jaayega
-  Nahin hai waqt zyaada Habib aajaao
+  Nahiṅ hai waqt zyaada Habib aajaao
   
   8
   Chamaktey chaand ki humko bhi deed hojaaye
@@ -56,8 +56,8 @@ romanLyrics: |-
   Bohat udaas hai kunba Habib aajaao
   
   9
-  Ye khat nahin isey behnon ki aarzu samjho
-  Hamaarey lafzon ko Zainab ki guftagu samjho
+  Ye khat nahiṅ isey behnoṅ ki aarzu samjho
+  Hamaarey lafzoṅ ko Zainab ki guftagu samjho
   Behan ye kehti hai bhayya Habib aajaao
   
   10

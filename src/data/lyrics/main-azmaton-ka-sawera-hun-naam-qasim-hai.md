@@ -13,52 +13,52 @@ coverAlt: "Cover image for Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
 published: true
 romanLyrics: |-
   1
-  Main azmaton ka sawera hoon, naam Qasim hai
-  Mataa-e Fatima Zahra hoon, naam Qasim hai
-  Shujaaton ki tamanna hoon, naam Qasim hai
-  Qaseem-e Khuld ka pota hoon, naam Qasim hai
-  Kitab-e jang mein tarmeem karne aaya hoon
-  Tumhare jismon ko taqseem karne aaya hoon
+  Maiṅ azmatoṅ ka sawera huṅ, naam Qasim hai
+  Mataa-e Fatima Zahra huṅ, naam Qasim hai
+  Shujaatoṅ ki tamanna huṅ, naam Qasim hai
+  Qasim-e Khuld ka pota huṅ, naam Qasim hai
+  Kitab-e jang meiṅ tarmim karne aaya huṅ
+  Tumhare jismoṅ ko taqsim karne aaya huṅ
 
   2
   Hayat chhor ke shamshan lo to behtar hai
-  Haqeeqaton ko abhi jaan lo to behtar hai
-  Jo keh raha hoon use maan lo to behtar hai
-  Main kaun hoon mujhe pehchan lo to behtar hai
-  Shujaaton ke saheefon ka main nateeja hoon
-  Yahi bohat hai ke Abbas ka bhateeja hoon
+  Haqiqatoṅ ko abhi jaan lo to behtar hai
+  Jo keh raha huṅ use maan lo to behtar hai
+  Maiṅ kaun huṅ mujhe pehchan lo to behtar hai
+  Shujaatoṅ ke sahifoṅ ka maiṅ natija huṅ
+  Yahi bohat hai ke Abbas ka bhatija huṅ
 
   3
-  Galon ko tegh ka pani pila ke dam loon ga
-  Ali ki yaad jahan ko dila ke dam loon ga
-  Charagh-e fatah-e Husaini jala ke dam loon ga
+  Galoṅ ko tegh ka pani pila ke dam luṅ ga
+  Ali ki yaad jahaṅ ko dila ke dam luṅ ga
+  Charagh-e fatah-e Husaini jala ke dam luṅ ga
   Sitamgaron ko jahan se mita ke dam loon ga
-  Bahaduri ke liye naqsha-e kamal hoon main
-  Ali ka noor-e nazar hoon, Hasan ka laal hoon main
+  Bahaduri ke liye naqsha-e kamal huṅ maiṅ
+  Ali ka nur-e nazar huṅ, Hasan ka laal huṅ maiṅ
 
   4
   Woh daagh-dar nasab aaina dikhao use
   Ke haarne ki khabar tum zara sunao use
-  Kahan hai Shaam ka Marhab, bula ke lao use
+  Kahaṅ hai Shaam ka Marhab, bula ke lao use
   Na aa raha ho to maqsad mera batao use
-  Khuda ke sher ke johar dikhane aaya hoon
-  Main aaj phir dar-e Khyber uthane aaya hoon
+  Khuda ke sher ke johar dikhane aaya huṅ
+  Maiṅ aaj phir dar-e Khyber uthane aaya huṅ
 
   5
-  Yeh waqt arsa-e mahshar se jor sakta hoon
-  Hayat-o-maut ke dhare ko mor sakta hoon
-  Har ek zulm ke Khyber ko tor sakta hoon
-  Badan se rooh ka pani nichor sakta hoon
-  Kitab-e fatah se wannaas likh ke aaya hoon
-  Main apne shanon pe Abbas likh ke aaya hoon
+  Yeh waqt arsa-e mahshar se jor sakta huṅ
+  Hayat o maut ke dhare ko mor sakta huṅ
+  Har ek zulm ke Khyber ko tor sakta huṅ
+  Badan se ruh ka pani nichor sakta huṅ
+  Kitab-e fatah se wannaas likh ke aaya huṅ
+  Maiṅ apne shanoṅ pe Abbas likh ke aaya huṅ
 
   6
-  Jama ke dushman-e deen pe nazar barhe Qasim
-  Yaqeen se pa-e fatah-o-zafar barhe Qasim
+  Jama ke dushman-e diṅ pe nazar barhe Qasim
+  Yaqin se pa-e fatah o zafar barhe Qasim
   Dikhane tegh-e Ali ka hunar barhe Qasim
   Jidhar tha Azraq-e Shami udhar barhe Qasim
-  Kuch is tarah se laeen ko supurd-e naar kiya
-  Ke ek waar mein do aur do ko chaar kiya
+  Kuch is tarah se lain ko supurd-e naar kiya
+  Ke ek waar meiṅ do aur do ko chaar kiya
 
 ---
 

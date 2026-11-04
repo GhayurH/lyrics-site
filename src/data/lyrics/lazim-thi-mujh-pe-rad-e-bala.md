@@ -17,19 +17,19 @@ romanLyrics: |-
   Nad-e Ali se kaam liya, kya bura kiya
 
   2
-  Khaliq se milti julti hai tasveer aap ki
-  Is mein Naseeriyon ne bhala, kya bura kiya
+  Khaliq se milti julti hai tasvir aap ki
+  Is meiṅ Nasiriyoṅ ne bhala, kya bura kiya
 
   3
-  Jis mein sharab-e ishq-e Ali ki ramaq na thi
-  Woh jaam main ne tor diya, kya bura kiya
+  Jis meiṅ sharab-e ishq-e Ali ki ramaq na thi
+  Woh jaam maiṅ ne tor diya, kya bura kiya
 
   4
-  Jis ne halakaton se bachaya tha Sheikh ko
-  Main ne usi ka naam liya, kya bura kiya
+  Jis ne halakatoṅ se bachaya tha Sheikh ko
+  Maiṅ ne usi ka naam liya, kya bura kiya
 
   5
-  Khaliq ki bargah mein takheer dekh kar
+  Khaliq ki bargah meiṅ takhir dekh kar
   Mangi Ali ke dar pe dua, kya bura kiya
 
   6
@@ -37,8 +37,8 @@ romanLyrics: |-
   Phir main ne ja ke Karbobala, kya bura kiya
 
   7
-  Badlo na ittihad ke bistar pe karwaten
-  Main ne kaha bure ko bura, kya bura kiya
+  Badlo na ittihad ke bistar pe karwateṅ
+  Maiṅ ne kaha bure ko bura, kya bura kiya
 
   8
   Karni thi mujh ko Hazrat Abbas ki sana

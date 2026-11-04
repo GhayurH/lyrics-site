@@ -16,11 +16,11 @@ romanLyrics: |-
   Zehr Se Tukray Jigar, Khoon Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
   
   1
-  Khoon Ugalte Huay Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
+  Khuṅ Ugalte Hue Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
   Teri Ghurbat Pe Ay Bhai, Teri Zainab Ho Fida, Wa Hasan-e-Sabz Qaba
   
   2
-  Maan Ke Dukh Se Abhi Azad Kahan Thi Zainab, Ho Gaya Kaisa Ghazab
+  Maaṅ Ke Dukh Se Abhi Azad Kahaṅ Thi Zainab, Ho Gaya Kaisa Ghazab
   Baap Zinda Na Raha, Bhai Su-e-Khuld Chala, Wa Hasan-e-Sabz Qaba
   
   3
@@ -36,7 +36,7 @@ romanLyrics: |-
   Teer Aate Na Janazay Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
   
   6
-  Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb-o-Bala
+  Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb o Bala
   Tukray Qasim Ke Uthate Huay Moula Ne Kaha, Wa Hasan-e-Sabz Qaba
 ---
 

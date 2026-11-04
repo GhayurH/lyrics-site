@@ -13,31 +13,31 @@ coverAlt: "Cover image for Wo Khoon Ro Ke"
 published: true
 romanLyrics: |-
   Wo khoon ro ke kehta raha zamanay se
-  Ridaein cheeno naa (x2) logo mere gharanay se
+  <u>Ridaein cheeno naa</u> logo mere gharanay se
   
   1
-  Sawal-e-aab pe sonay pe us ke ronay pe (x2)
-  Wo maartay the (x2) sakina ko her bahaanay se
+  <u>Sawal-e-aab pe sonay pe us ke rone pe</u>
+  <u>Wo maartay the</u> sakina ko her bahaanay se
   
   2
-  Bulaey kis tarha abbas ko madad kai leeyai (x2)
-  Wo berida thee (x2) jhijhakti rahi bulanay se
+  <u>Bulaey kis tarha abbas ko madad kai leeyai</u>
+  <u>Wo berida thee</u> jhijhakti rahi bulane se
   
   3
-  Sulaya jaata tha bayhosh ker ke durron se (x2)
-  Jagaya jata tha (x2) abid ko taazianay se
+  <u>Sulaya jaata tha bayhosh ker ke durron se</u>
+  <u>Jagaya jata tha</u> abid ko taazianay se
   
   4
-  Kuch is terha sar-e-kerbobala wo ujray the (x2)
-  Ke dar rahe hain (x2) abhi tak wo ghar basaanay se
+  <u>Kuch is terha sar-e-kerbobala wo ujray the</u>
+  <u>Ke dar rahe haiṅ</u> abhi tak wo ghar basaanay se
   
   5
-  Kaha ye ganj-e-shaheedan mei baap ke sar ne (x2)
-  Mujhai sakina (x2) bulati hai qaid khaanay se
+  <u>Kaha ye ganj-e-shaheedan mei baap ke sar ne</u>
+  <u>Mujhai sakina</u> bulati hai qaid khaanay se
   
   6
-  Rida-e-saani-e-zehra mei dhal gaya akbar (x2)
-  Ghubaar utha jo laashon ke thar tharaanay se
+  <u>Rida-e-saani-e-zehra mei dhal gaya akbar</u>
+  Ghubaar utha jo laashoṅ ke thar tharaane se
 ---
 
 وہ خون رو کے یہ کہتا رہا زمانے سے

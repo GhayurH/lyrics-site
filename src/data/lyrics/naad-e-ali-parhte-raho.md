@@ -25,8 +25,8 @@ romanLyrics: |-
   Naad e Ali parhte raho
   
   2
-  Kashti giri Jb Nooh ki
-  Hatif ne yun awaz di
+  Kashti giri Jb Nuh ki
+  Hatif ne yuṅ awaz di
   Toofan jayega ye tham
   Naad e Ali parhte raho
   

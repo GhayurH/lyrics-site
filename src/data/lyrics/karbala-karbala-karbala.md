@@ -14,48 +14,48 @@ published: true
 sixVerseLayout: "pairs"
 romanLyrics: |-
   Karbala Karbala Karbala
-  Main ho gayi be rida, wa Husaina
+  Maiṅ ho gayi be rida, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
 
   1
-  Karbobala ke ban mein Akbar ne barchhi khai
-  Sughra watan mein roti deti rahi duhai
+  Karbobala ke ban meiṅ Akbar ne barchhi khai
+  Sughra watan meiṅ roti deti rahi duhai
   Mera bhayya na raha, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala
 
   2
   Qasim ki lash thi ke Furwa ke dil ke tukre
-  Ek gathri mein lapete kheme mein Shah lae
+  Ek gathri meiṅ lapete kheme meiṅ Shah lae
   Mera Qasim na raha, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala
 
   3
-  Asghar jo teer kha ke maqtal mein so gaya hai
-  Us se kaleja maan ka bhi chhalni ho gaya hai
+  Asghar jo tir kha ke maqtal meiṅ so gaya hai
+  Us se kaleja maaṅ ka bhi chhalni ho gaya hai
   Mera Asghar na raha, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala
 
   4
-  Neze pe lash Asghar ki jhoolne lagi hai
-  Kheme mein dil ko thame maan bain kar rahi hai
+  Neze pe lash Asghar ki jhulne lagi hai
+  Kheme meiṅ dil ko thame maaṅ bain kar rahi hai
   Mera Asghar na raha, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala
 
   5
-  Rukhsar bhi hain zakhmi kano se khoon jari
+  Rukhsar bhi haiṅ zakhmi kano se khun jari
   Ghazi ki ladli ye rote hue pukari
   Mera chacha na raha, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala
 
   6
@@ -63,23 +63,23 @@ romanLyrics: |-
   Bali Sughra roti faryad kar rahi hai
   Mera baba na raha, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala
 
   7
-  Lash-e Husain ran mein pamal ho rahi hai
-  Zainab duhai de kar sajde mein gir gayi hai
+  Lash-e Husain ran meiṅ pamal ho rahi hai
+  Zainab duhai de kar sajde meiṅ gir gayi hai
   Mera bhayya na raha, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala
 
   8
-  Safdar jo Karbala mein sham-e ghariban ayi
-  Sun sun ke ye sadaein roti rahi khudayi
-  Main ho gayi be rida, wa Husaina
+  Safdar jo Karbala meiṅ sham-e gharibaṅ ayi
+  Sun sun ke ye sadaeiṅ roti rahi khudayi
+  Maiṅ ho gayi be rida, wa Husaina
   Mera koi na raha, wa Husaina
-  Ab kis ko dun main sada
+  Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala
 ---
 کربلا کربلا کربلا

@@ -14,14 +14,14 @@ published: true
 romanLyrics: |-
   Al-Ajal Al-Ajal, Ya Imam-e-Zamana, Al-Ajal
 
-  Gar Ho Meri Hayaat Mere Ikhteyar Mein,
+  Gar Ho Meri Hayaat Mere Ikhteyar Meiṅ,
   Sadiyan Guzar Dunga Tere Intezar Mein
   Maula Ab Aap Parda-e-Ghaibat Uthaiye,
-  Do Din To Zindagi Ke Guzarun Bahar Mein
+  Do Din To Zindagi Ke Guzaruṅ Bahar Meiṅ
   
   1
-  Is Waqt Garche Adl Se Khali Zameen Hai
-  Mazloom Ke Makaan Mein Zalim Makeen Hai
+  Is Waqt Garche Adl Se Khali Zamin Hai
+  Mazlum Ke Makaan Meiṅ Zalim Makin Hai
   Duniya Sitam-Shaar Hai, Maghloob Deen Hai
   Moula Zaroor Aaenge, Mujhko Yaqeen Hai
   
@@ -30,8 +30,8 @@ romanLyrics: |-
   
   2
   Sab Log Khwahishat Ke Ab Ho Gaye Ghulam
-  Iblisiyat Ka Daur Hai, Be-Pardagi Hai Aam
-  Peene Lage Lahoo Hain, To Khane Lage Haram
+  Iblisiyat Ka Daur Hai, bePardagi Hai Aam
+  Pine Lage Lahu Haiṅ, To Khane Lage Haram
   Kehta Hai Dil Ke Bas Abhi Aajaiye Imam
   
   Gar Der Hai Mashiyat-e-Parwardigaar Mein
@@ -39,7 +39,7 @@ romanLyrics: |-
   
   3
   Mushkil Ke Waqt Humne Pukara Hai Ya Husain
-  Ghaibat Ke Imtehan Mein Sahara Hai Ya Husain
+  Ghaibat Ke Imtehaṅ Meiṅ Sahara Hai Ya Husain
   Quran-e-Ahl-e-Bait Ka Paara Hai Ya Husain
   Haq Ne Hamare Dil Pe Utara Hai Ya Husain
   
@@ -47,26 +47,26 @@ romanLyrics: |-
   Sadiyan Guzar Dunga Tere Intezar Mein
   
   4
-  Is Daur-e-Pur-Khatar Mein Hain Dushwar Manzilein
-  Moula Is Imtehan Mein Dil Ko Sukoon De
-  Roza, Namaz, Haq Ke Manasik Ada Karein
-  Hum Sham, Karbala Ki Ziyarat Ko Ja Sakein
+  Is Daur-e-Pur-Khatar Mein Haiṅ Dushwar Manzilein
+  Moula Is Imtehan Meiṅ Dil Ko Sukun De
+  Roza, Namaz, Haq Ke Manasik Ada Kareiṅ
+  Hum Sham, Karbala Ki Ziyarat Ko Ja Sakeiṅ
   
-  Aa Jaega Qaraar Dil-e-Be-Qaraar Mein
+  Aa Jaega Qaraar Dil-e-beQaraar Mein
   Sadiyan Guzar Dunga Tere Intezar Mein
   
   5
-  Khud-Kash Hain Bam Dhamake, Hadd-e-Zulm-o-Jaur Hai
+  Khud-Kash Haiṅ Bam Dhamake, Hadd-e-Zulm o Jaur Hai
   Kuch Saamne Hai Aur Pas-e-Manzar Kuch Aur Hai
   Abhi Yazidiyat Ke Mazalim Ka Taur Hai
-  Garche Ye Momineen Pe Mushkil Ka Daur Hai
+  Garche Ye Mominin Pe Mushkil Ka Daur Hai
   
-  Duniya Ke Dard-o-Gham Hain Bhala Kis Shumaar Mein
+  Duniya Ke Dard o Gham Haiṅ Bhala Kis Shumaar Meiṅ
   Sadiyan Guzar Dunga Tere Intezar Mein
   
   6
-  Ahl-e-Aza Ko Jurat-o-Tadbeer Chahiye
-  Dekha Hai Khwab, Khwab Ki Tabeer Chahiye
+  Ahl-e-Aza Ko Jurat o Tadbeer Chahiye
+  Dekha Hai Khwab, Khwab Ki Tabir Chahiye
   Taskeen-e-Qalb-e-Madar-e-Shabbir Chahiye
   Ab Jannat-ul-Baqi Ki Tameer Chahiye
   
@@ -74,21 +74,21 @@ romanLyrics: |-
   Sadiyan Guzar Dunga Tere Intezar Mein
   
   7
-  Alfaaz Se Dilon Pe Hukumat Mili Mujhe
+  Alfaaz Se Diloṅ Pe Hukumat Mili Mujhe
   Mazlumi-e-Husain Se Taqat Mili Mujhe
   Mimbar Mila Husain Ka, Izzat Mili Mujhe
-  Badle Mein Ek Ashk Ke Jannat Mili Mujhe
+  Badle Meiṅ Ek Ashk Ke Jannat Mili Mujhe
   
-  Ghaata Kabhi Hua Nahin Is Karobaar Mein
+  Ghaata Kabhi Hua Nahiṅ Is Karobaar Meiṅ
   Sadiyan Guzar Dunga Tere Intezar Mein
   
   8
-  Dar Par Tumhare Hote Hain Har Roz Mojize
-  Kitne Ameer Ho Gaye Is Dar Ki Bheek Se
+  Dar Par Tumhare Hote Haiṅ Har Roz Mojize
+  Kitne Amir Ho Gaye Is Dar Ki Bhik Se
   Sab Apne Apne Hisse Ki Khairat Le Gaye
   Zikr-e-Imam-e-Asr Mein Hissa Qamar Mile
   
-  Main Mutmain Hoon, Main Bhi Khara Hoon Qataar Mein
+  Maiṅ Mutmain Huṅ, Maiṅ Bhi Khara Huṅ Qataar Meiṅ
   Sadiyan Guzar Dunga Tere Intezar Mein
 ---
 

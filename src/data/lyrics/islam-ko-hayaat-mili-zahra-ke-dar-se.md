@@ -20,38 +20,38 @@ romanLyrics: |-
   1
   Ik Sajda-e-Shabbir Se Islam Bach Gaya
   Khoon-e-Husain Deen Ki Rag Rag Mein Rach Gaya
-  Quran Ke Hafizon Ne Jalaya Nabi Ka Ghar
+  Quran Ke Hafizoṅ Ne Jalaya Nabi Ka Ghar
   Looti Rida Batool Ki Hai Beti Ke Sar Se Aye Kalmago Suno
   
   2
-  Ye Aaj Subh-o-Shaam Jo Sunta Hai Tu Azaan
+  Ye Aaj Subh o Shaam Jo Sunta Hai Tu Azaaṅ
   Takmeel Isko De Gaya Akbar Sa Nojawan
-  Islam Ki Baqa Ke Liye Karb-o-Bala Mein
+  Islam Ki Baqa Ke Liye Karb o Bala Meiṅ
   Khenchi Sina Husain Ne Bete Ke Jigar Se Aye Kalmago Suno
   
   3
-  Zahra Ki Paak Chadrein Tatheer Ke Talay
-  Islam Aur Husain Hain Ek Saath Hi Palay
-  Dete Na Jo Husain Agar Deen Ko Panah
+  Zahra Ki Paak Chadreiṅ Tathir Ke Tale
+  Islam Aur Husain Haiṅ Ek Saath Hi Pale
+  Dete Na Jo Husain Agar Din Ko Panah
   Islam Ne Mar Jana Tha Pehle Hi Asr Se Aye Kalmago Suno
   
   4
-  Asghar Masoom Pyaas Ki Shiddat Se Mar Gaya
-  Aur Apni Maa Ki God Ko Veeran Kar Gaya
+  Asghar Masum Pyaas Ki Shiddat Se Mar Gaya
+  Aur Apni Maa Ki God Ko Viran Kar Gaya
   Jiske Gale Pe Maar Diya Hurmala Ne Teer
   Paani To Iske Waaste Maanga Tha Shimr Se Aye Kalmago Suno
   
   5
-  Girte Hain Phir Sambhalte Hain Rahon Mein Abideen
-  Sar Pe Ghamon Ki Dhoop Hai, Saaya Kahin Nahi
-  Barsaat Sang-o-Khisht Ki Aakhir Hai Chaar Su
+  Girte Haiṅ Phir Sambhalte Haiṅ Rahoṅ Meiṅ Abidin
+  Sar Pe Ghamoṅ Ki Dhup Hai, Saaya Kahiṅ Nahi
+  Barsaat Sang o Khisht Ki Aakhir Hai Chaar Su
   Aal-e-Nabi Ka Kafila Hai Guzra Jidhar Se Aye Kalmago Suno
   
   6
   Bazar-e-Shaam Abid-e-Maghmoom Aa Gaya
-  Jo Saath Le Ke Zainab-o-Kulsoom Aa Gaya
-  Maula Ali Ki Beti Yahan Haathon Mein Hai Rasan
-  Sehmi Khari Hain Bibiyaan Hai Shimr Ke Dar Se Aye Kalmago Suno
+  Jo Saath Le Ke Zainab o Kulsum Aa Gaya
+  Maula Ali Ki Beti Yahaṅ Haathoṅ Meiṅ Hai Rasan
+  Sehmi Khari Haiṅ Bibiyaan Hai Shimr Ke Dar Se Aye Kalmago Suno
 ---
 
 اسلام کو حیات ملی زہرا کے در سے، اے کلمہ گو سنو

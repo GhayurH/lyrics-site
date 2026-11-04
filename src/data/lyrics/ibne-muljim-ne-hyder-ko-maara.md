@@ -12,60 +12,60 @@ cover: "/images/lyrics/ibne-muljim-ne-hyder-ko-maara.png"
 coverAlt: "Cover image for Ibne Muljim Ne Hyder Ko Maara"
 published: true
 romanLyrics: |-
-  Ibne Muljim Ne Hyder Ko Maara, Rozadaron Qayamat Ke Din Hain
-  Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Hain
+  Ibne Muljim Ne Hyder Ko Maara, Rozadaron Qayamat Ke Din Haiṅ
+  Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Haiṅ
   
   1
   Sooni Qabr-e-Rasool-e-Khuda Hai, Ghar Mein Zehra Ke Matam Bapa Hai
-  Khaak Urata Hai Hyder Ka Kunba, Rozadaron Qayamat Ke Din Hain
+  Khaak Urata Hai Hyder Ka Kunba, Rozadaron Qayamat Ke Din Haiṅ
   
   2
   Aal-e-Ahmed Pe Aafat Hai Aayi, Bekason Par Yateemi Hai Chhayi
-  Uth Gaya Sar Se Hyder Ka Saaya, Rozadaron Qayamat Ke Din Hain
+  Uth Gaya Sar Se Hyder Ka Saaya, Rozadaron Qayamat Ke Din Haiṅ
   
   3
   Ghar Mein Khaliq Ke Hyder Ko Maara, Janasheen-e-Payambar Ko Maara
-  Haye Sajde Mein Sarwar Ko Maara, Rozadaron Qayamat Ke Din Hain
+  Haye Sajde Mein Sarwar Ko Maara, Rozadaron Qayamat Ke Din Haiṅ
   
   4
-  Kyun Na Roye Ye Woh Gham Nahin Hai, Shab Ye Ashoor Se Kam Nahin Hai
-  Khuld Mein Bhi Ye Matam Hai Barpa, Rozadaron Qayamat Ke Din Hain
+  Kiuṅ Na Roye Ye Woh Gham Nahiṅ Hai, Shab Ye Ashur Se Kam Nahiṅ Hai
+  Khuld Mein Bhi Ye Matam Hai Barpa, Rozadaron Qayamat Ke Din Haiṅ
   
   5
-  Dil Hilate Hain Zainab Ke Naale, Khaak Urate Hain Sab Kunbe Wale
-  Uth Raha Hai Ali Ka Janaza, Rozadaron Qayamat Ke Din Hain
+  Dil Hilate Haiṅ Zainab Ke Naale, Khaak Urate Haiṅ Sab Kunbe Wale
+  Uth Raha Hai Ali Ka Janaza, Rozadaron Qayamat Ke Din Haiṅ
   
   6
-  Khaak-e-Bewarisi Hai Saron Par, Kale Parcham Lage Hain Gharon Par
-  Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Hain
+  Khaak-e-Bewarisi Hai Saron Par, Kale Parcham Lage Haiṅ Gharon Par
+  Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Haiṅ
   
   7
-  Shab Ye Unneesween Kaisi Aayi, Khoon Mein Dooba Muhammad Ka Bhai
-  Ro Raha Hai Sahar Ka Sitara, Rozadaron Qayamat Ke Din Hain
+  Shab Ye Unniswiṅ Kaisi Aayi, Khun Meiṅ Duba Muhammad Ka Bhai
+  Ro Raha Hai Sahar Ka Sitara, Rozadaron Qayamat Ke Din Haiṅ
   
   8
-  Ibne Muljim Ne Sitam Kaisa Dhaya, Qabr Mein Sayyeda Ko Rulaya
-  Kaise Bachon Ka Hoga Guzara, Rozadaron Qayamat Ke Din Hain
+  Ibne Muljim Ne Sitam Kaisa Dhaya, Qabr Meiṅ Sayyeda Ko Rulaya
+  Kaise Bachon Ka Hoga Guzara, Rozadaron Qayamat Ke Din Haiṅ
   
   9
   Taigh Sar Pe Ali Ke Lagi Hai, Aaj Shamm-e-Imamat Bujhi Hai
-  Dil Yateemon Ka Hai Para Para, Rozadaron Qayamat Ke Din Hain
+  Dil Yateemon Ka Hai Para Para, Rozadaron Qayamat Ke Din Haiṅ
   
   10
-  Maan Ke Marne Ka Gham Kam Nahin Tha, Ek Koh-e-Alam Aur Toota
-  Sog Mein Ghar Hai Zehra Ka Sara, Rozadaron Qayamat Ke Din Hain
+  Maan Ke Marne Ka Gham Kam Nahiṅ Tha, Ek Koh-e-Alam Aur Toota
+  Sog Mein Ghar Hai Zehra Ka Sara, Rozadaron Qayamat Ke Din Haiṅ
   
   11
-  Ghar Mein Hyder Ke Aah-o-Fughan Hai, Eid Nazdeek Gham Ka Samaan Hai
-  Aisa Ramzan Na Aaye Dobara, Rozadaron Qayamat Ke Din Hain
+  Ghar Meiṅ Hyder Ke Aah o Fughaṅ Hai, Eid Nazdik Gham Ka Samaaṅ Hai
+  Aisa Ramzan Na Aaye Dobara, Rozadaron Qayamat Ke Din Haiṅ
   
   12
-  Umme Kulsoom Zainab Se Boleen, Aaj Baba Ne Aankhen Na Kholeen
-  Maine Shaana Hila Kar Pukara, Rozadaron Qayamat Ke Din Hain
+  Umme Kulsum Zainab Se Boliṅ, Aaj Baba Ne Aankheṅ Na Kholiṅ
+  Maine Shaana Hila Kar Pukara, Rozadaron Qayamat Ke Din Haiṅ
   
   13
-  Seena-Kobi Ko Rehan-o-Mesum, Kyun Na Farsh-e-Aza Pe Chalein Hum
-  Ghamzada Chaar Su Hai Nazara, Rozadaron Qayamat Ke Din Hain
+  Seena-Kobi Ko Rehan o Mesum, Kiuṅ Na Farsh-e-Aza Pe Chalein Hum
+  Ghamzada Chaar Su Hai Nazara, Rozadaron Qayamat Ke Din Haiṅ
 ---
 
 ابنِ ملجم نے حیدر کو مارا، روزہ دارو قیامت کے دن ہیں

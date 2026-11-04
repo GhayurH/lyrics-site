@@ -14,63 +14,63 @@ published: true
 romanLyrics: |-
   Nana Di Qabar Te Kehnde Rae
   Ro Ro Ke Hasan Husain
-  Tur Chali Ay Nana Dunya Tun
+  Tur Chali E Nana Dunya Tuṅ
   Teri Dhi Tere Dil Da Chain
-  Atun Apne Zulm Chupaon Layi Darbari Aehon Kehan
-  Beemar Taiyun Kardi Ae Dhi Paak Nabi Di Ven
+  Atuṅ Apne Zulm Chupaon Layi Darbari Aehon Kehan
+  Bimar Taiyuṅ Kardi Ae Dhi Paak Nabi Di Ven
   
-  Nana Beemar Nai Maan Zakhmi Ae
-  Jis Roz Toon Buha Dugya Ae
+  Nana Bimar Nai Maaṅ Zakhmi Ae
+  Jis Roz Tuṅ Buha Dugya Ae
   Hath Paase Te Rakh Ke
   Bas Rondi Rehndi Ae
   
   1
-  Zainab Diyan Banwan Te Umri
+  Zainab Diyaṅ Banwaṅ Te Umri
   De De Ke Bose Aakhe
   Ae Si Darbar Madine Da
-  Oo Sham Ae Zainab
-  Teri Peshi Ookhi Ae
+  U Sham Ae Zainab
+  Teri Peshi Ukhi Ae
   
   2
   Ki Haal Dasa Tun Janda Aen
   Darwaze Heath Si Umri
-  Bas Ae Das Daan Teri Ummat
-  Darwaze Tun Nana
+  Bas Ae Das Daaṅ Teri Ummat
+  Darwaze Tuṅ Nana
   Turdi Hui Guzri Ae
   
   3
-  Raatan Di Khamoshi De Ander
-  Jiven Goonjan Azanaan
-  Oodhi Pasliyan De Do Howan Di
+  Raataṅ Di Khamoshi De Ander
+  Jiveṅ Gunjan Azanaaṅ
+  Udhi Pasliyaṅ De Do Howan Di
   Awaaz Vi Nana
-  Yasrab Vich Goonji Ae
+  Yasrab Vich Gunji Ae
   
   4
   Ae Ven Si Mere Babe Da
   Haye Kaash Ali Mar Janda
   Umri Nal Hui Gustakhi
-  Tere Veer Ali Ne
-  Ankhiyan Nal Wekhi Ae
+  Tere Vir Ali Ne
+  Ankhiyaṅ Nal Wekhi Ae
   
   5
-  Tehreer De Tukre Jis Din Di
-  Darbaron Naal Liyai
+  Tehrir De Tukre Jis Din Di
+  Darbaroṅ Naal Liyai
   Rab Jane Kis Taiyari Layi
-  Har Tukre Di Sitran
-  Zainab Nun Sunandi Ae
+  Har Tukre Di Sitraṅ
+  Zainab Nuṅ Sunandi Ae
   
   6
-  Jadun Putar De Samne Umri De
-  Chehre Te Aya Neel Ae
-  Is Roz Tun Izzatan Wali Maan
-  Mere Veer Hasan De
+  Jaduṅ Putar De Samne Umri De
+  Chehre Te Aya Nil Ae
+  Is Roz Tuṅ Izzataṅ Wali Maaṅ
+  Mere Vir Hasan De
   Nai Samne Aandi Ae
   
   7
   Akbar Shabbir Ne Ven Kita
-  Yaqoob Vi Khoon Si Roya
-  Jinan Yousuf Layi Oo Roya Si
-  Maan Roz Hi Ohnan
+  Yaqub Vi Khun Si Roya
+  Jinaṅ Yousuf Layi U Roya Si
+  Maaṅ Roz Hi Ohnaṅ
   Mohsin Layi Rondi Ae
 ---
 

@@ -16,35 +16,35 @@ romanLyrics: |-
   Har Tamache Pe Sakina Ne Pukara Baba
   
   1
-  Mujhe Balon Se Pakar Kar Hain Tamache Maare
+  Mujhe Baloṅ Se Pakar Kar Haiṅ Tamache Maare
   Maine Sar Shimr Se Maanga Jo Tumhara Baba
   
   2
-  Wo Jo Dur Aap Ne Tohfe Mein Mujhe Bakshe The
+  Wo Jo Dur Aap Ne Tohfe Meiṅ Mujhe Bakshe The
   Un Ko Be Dardi Se Zalim Ne Utara Baba
   
   3
-  Aap Ke Seene Pe Aaram Se Sone Wali
+  Aap Ke Sine Pe Aaram Se Sone Wali
   So Ke Ab Khaak Pe Karti Hai Guzara Baba
   
   4
-  Saath Rehwaron Ke Dauraya Gaya Hai Mujh Ko
-  Chur Zakhmon Se Badan Mera Hai Sara Baba
+  Saath Rehwaroṅ Ke Dauraya Gaya Hai Mujh Ko
+  Chur Zakhmoṅ Se Badan Mera Hai Sara Baba
   
   5
   Meri Ghurbat Pe Chacha Jaan Ka Sar Rota Hai
-  Un Ki Ghurbat Mein Karun Kaise Gawara Baba
+  Un Ki Ghurbat Meiṅ Karuṅ Kaise Gawara Baba
   
   6
   Nok-e-Naiza Pe Usay Dekhun To Dekhun Kaise
   Mera Asghar Tha Mujhe Jaan Se Bhi Pyara Baba
   
   7
-  Be Kafan Aap Hain, Be Kafan Rahe Gi Beti
+  Be Kafan Aap Haiṅ, Be Kafan Rahe Gi Beti
   Aik Jaisa Hi Muqaddar Hai Hamara Baba
   
   8
-  Ye Sada Qabr Se Masooma Ki Aaye Mohsin
+  Ye Sada Qabr Se Masuma Ki Aaye Mohsin
   Saath Qaim Ke Chale Aana Dubara Baba
 ---
 

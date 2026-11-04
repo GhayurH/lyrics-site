@@ -22,7 +22,7 @@ romanLyrics: |-
   
   3
   Bola Din e khuda ye mushkil mein
-  Ghir raha hoon mujhay sambhal ALI
+  Ghir raha huṅ mujhe sambhal ALI
   
   4
   Jis ka koi sawaal mil na ska
@@ -33,16 +33,16 @@ romanLyrics: |-
   Aagayaa apka khayal ALI
   
   6
-  Gaa rahy hain wo geet ghairon ke
-  aur khaate hain tera maal ALI
+  Gaa rahy haiṅ wo git ghairoṅ ke
+  aur khaate haiṅ tera maal ALI
   
   7
   Pucha kisne azaan sikhlaiii
   Bole ye hazrat e bilal ALI
   
   8
-  Aik abbas hain zamanay me
-  warna teri kahan misaal ALI
+  Aik abbas haiṅ zamane me
+  warna teri kahaṅ misaal ALI
 ---
 
 ۱

@@ -16,39 +16,39 @@ romanLyrics: |-
   Tu Shahenshah-e-Dard Hai, Batla Rahi Hai Shaam
   
   1
-  Chala Bekason Ka Kaarvan, Bemaar Logo Saarban
+  Chala Bekasoṅ Ka Kaarvaṅ, Bemaar Logo Saarbaṅ
   Hai Sang Sar-e-Uriyan, Sheh-e-La-Fata Ki Betiyan
-  Karb-o-Bala Ke Dasht Mein Barpa Hai Kohraam
+  Karb o Bala Ke Dasht Meiṅ Barpa Hai Kohraam
   
   2
-  Zainab Pukari Be-Watan, Bhai Mera Hai Be-Kafan
-  Kar De Isay Koi Dafan, Mere Haathon Mein Bandhi Rasan
+  Zainab Pukari beWatan, Bhai Mera Hai beKafan
+  Kar De Ise Koi Dafan, Mere Haathoṅ Meiṅ Bandhi Rasan
   Haye Kaise Suna Hoga Bemaar Ne Paighaam
   
   3
-  Mastooron Mein Ek Mard Hai, Ghairat Se Chehra Zard Hai
-  Karbal Ki Zameen Gard Hai, Zainab Ke Dil Mein Dard Hai
+  Masturoṅ Meiṅ Ek Mard Hai, Ghairat Se Chehra Zard Hai
+  Karbal Ki Zamiṅ Gard Hai, Zainab Ke Dil Meiṅ Dard Hai
   Rota Hai Sar Jhuka Ke, Karta Nahi Kalaam
   
   4
-  Mushkil Thi Bari Woh Ghari, Darbar Mein Zainab Khari
+  Mushkil Thi Bari Woh Ghari, Darbar Meiṅ Zainab Khari
   Shabbir Ke Lab Par Chhari, Sajjad Ne Pehni Kari
-  Darbar-e-Yazeedi Ke Larze The Dar-o-Baam
+  Darbar-e-Yazeedi Ke Larze The Dar o Baam
   
   5
-  Kat Jaate Sayyadon Ke Sar, Zainab Na Jaati Dar Badar
-  Bemaar Ka Tukre Jigar, Rota Hai Lahoo Har Nagar
-  Har Manzilon Pe Tarapna, Sajjad Tera Kaam
+  Kat Jaate Sayyadoṅ Ke Sar, Zainab Na Jaati Dar Badar
+  Bemaar Ka Tukre Jigar, Rota Hai Lahu Har Nagar
+  Har Manziloṅ Pe Tarapna, Sajjad Tera Kaam
   
   6
   Zindan Siyaah Posh Hai, Tanhai Ki Aaghosh Hai
-  Abid Kahe Na Hosh Hai, Dum Toota Hai Khamosh Hai
+  Abid Kahe Na Hosh Hai, Dum Tuta Hai Khamosh Hai
   Ummat Ne Sakina Ko Diya Maut Ka Inaam
   
   7
-  Karbal Ki Siyaah Khaak Par, Adil Lahoo Poshaak Par
+  Karbal Ki Siyaah Khaak Par, Adil Lahu Poshaak Par
   Charche Huay Aflaak Par, Sultan-e-Loulaak Par
-  Hai Jinn-o-Malayak Bhi Sajjad Ke Khudaam
+  Hai Jinn o Malayak Bhi Sajjad Ke Khudaam
 ---
 
 رونے کے لیے کافی ہے سجاد تیرا نام

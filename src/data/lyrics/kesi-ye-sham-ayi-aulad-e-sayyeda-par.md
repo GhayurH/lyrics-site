@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Kesi ye sham ayi aulad e Sayyeda par
   
-  Sajjad ro rahe hain Zainab se mun chupa kar
+  Sajjad ro rahe haiṅ Zainab se mun chupa kar
   
   1
   Ik simt be kafan hai bhai ka uske lasha
@@ -22,24 +22,24 @@ romanLyrics: |-
   Ab sochti hai Zainab maangey kafan ya chadar
   
   2
-  Bazu kahin parey hain lasha kahin para hai
+  Bazu kahiṅ parey haiṅ lasha kahiṅ para hai
   Zainab ki bebasi par Ghazi tarap raha hai
   Roti hai bekasi bhi farsh e aza bicha kar
   
   3
-  Jo ghar me do qadam bhi paidal nahin chali hai
+  Jo ghar me do qadam bhi paidal nahiṅ chali hai
   Ik din me wahi Zainab Abbas ban gayi hai
   Pehre pe aa gayi hai tanha alam utha kar
   
   4
   Sajjad se lipat kar kehti rahi Sakina
-  Ehsaas ho raha hai main ho gayi yateema
+  Ehsaas ho raha hai maiṅ ho gayi yatima
   Zalim dara raha hai naiza dikha dikha kar
   
   5
-  Lashon ke darmiyan wo baba ko dhoondhti hai
-  Mun apna peet kar ye faryad kar rahi hai
-  Qadmon mein hi sula do baba mujhe bula kar
+  Lashoṅ ke darmiyaṅ wo baba ko dhundhti hai
+  Mun apna pit kar ye faryad kar rahi hai
+  Qadmoṅ meiṅ hi sula do baba mujhe bula kar
   
   6
   Jab aa gaye Najaf se beti ko milne baba
@@ -47,7 +47,7 @@ romanLyrics: |-
   Zainab ujar gayi hai Karbobala basa kar
   
   7
-  Khaimon ke sath jhola bistar bhi jal gaya hai
+  Khaimoṅ ke sath jhola bistar bhi jal gaya hai
   Namoos e Mustafa ko baghi kaha gaya hai
   Le jayenge subah ko qaidi hamein bana kar
   

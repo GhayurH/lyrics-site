@@ -12,11 +12,11 @@ cover: "/images/lyrics/alwida-alwida-alwida-ay-hussain.png"
 coverAlt: "Cover image for Alwida Alwida Alwida Ay Husain"
 published: true
 romanLyrics: |-
-  alwida alwida alwida ay Husain
+  alwida alwida alwida e Husain
   
   1
-  ye sadaaye fughan aur yeh majlisein
-  matam-o-nauha-o-gham ki yeh zeenatein
+  ye sadaaye fughaṅ aur yeh majliseiṅ
+  matam o nauha o gham ki yeh zinateiṅ
   chahta hai yeh dil yunhi qaim rahe
   aah phatta hai dil kis tarah yeh kahe
   
@@ -24,22 +24,22 @@ romanLyrics: |-
   mere mehmaan hai aakhri yeh salam
   tujh pe qurbaan hai aakhri yeh salam
   shah-e-zeeshan hai aakhri yeh salam
-  dil hai veeran hai aakhri yeh salam
+  dil hai viran hai aakhri yeh salam
   
   3
   bakhsh de ho gayi ho jo koi khata
   haq-e-khidmat na hum se ada ho saka
-  gham yahi hai na jee bhar ke matam kiya
-  teri khatir na kyun apna sar de diya
+  gham yahi hai na ji bhar ke matam kiya
+  teri khatir na kiuṅ apna sar de diya
   
   4
   gar jiye saal bhar phir karenge yeh gham
   royenge phir tere gham mein mil kar baham
   aur agar mar gaye to yeh hoga alam
-  haaye afsos jee bhar ke roye na hum
+  haaye afsos ji bhar ke roye na hum
   
   5
-  alwida ay Husain ay Husain alwida
+  alwida e Husain e Husain alwida
   alwida ay shah-e-mashriqain alwida
   bint-e-Ahmad ke ay noor-e-ain alwida
   hai Mujahid ke lab par yeh bain alwida

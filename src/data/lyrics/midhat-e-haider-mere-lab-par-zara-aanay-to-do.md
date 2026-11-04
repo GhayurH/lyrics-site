@@ -18,11 +18,11 @@ romanLyrics: |-
 
   2
   Hosh mein aa jayegi foran sipah-e bad-sifaat
-  Tum muhibban-e Ali ko josh mein aane to do
+  Tum muhibban-e Ali ko josh meiṅ aane to do
 
   3
-  Khud ba khud phirte nazar aayenge toofanon ke rukh
-  Tum fiza mein parcham-e Abbas lehrane to do
+  Khud ba khud phirte nazar aayenge tufanoṅ ke rukh
+  Tum fiza meiṅ parcham-e Abbas lehrane to do
 
   4
   Kaun roya kaun soya sab pata chal jayega
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   6
   Saaf aayega nazar maidan ta hadd-e nazar
-  Hazrat-e Abbas ko maidan mein aane to do
+  Hazrat-e Abbas ko maidan meiṅ aane to do
 
 ---
 

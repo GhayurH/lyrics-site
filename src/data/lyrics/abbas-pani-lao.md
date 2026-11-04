@@ -17,26 +17,26 @@ romanLyrics: |-
   1
   Zainab ye roke boli bhaiya na dil dukhao
   Kya der ka sabab hai ye to hame batao
-  Mashkeeza bhar ke jaldi darya se laut aao
+  Mashkiza bhar ke jaldi darya se laut aao
   Bachi ki tashnagi ko tum aake khud bujhao
   
   2
-  Wo ghamzada yakeenan yaadon may kho gayi hai
+  Wo ghamzada yakinan yaadoṅ may kho gayi hai
   Baba ko rote rote khud thak ke sogayi hai
   Yan tashnalab sakina behosh ho gayi hai
-  Pani ka deke cheenta tum hi usay jagao
+  Pani ka deke chinta tum hi use jagao
   
   3
-  Hathon may khaali kuze bache liye hue hai
-  Gird-e-Sakina dekho halqa kiye hue hain
-  Bache na jaane kab ka pani piye hue hain
+  Hathoṅ may khaali kuze bache liye hue hai
+  Gird-e-Sakina dekho halqa kiye hue haiṅ
+  Bache na jaane kab ka pani piye hue haiṅ
   Bin aab mar na jaaye pani unhe pilao
   
   4
   is bekasi pe haaye aata hai mujko rona
   Purhaul hai andhera aur khaak ka bichona
-  Seene pe soni wali kya jaane aise sona
-  Pyasi hai mustarib hai aakar usay sulao
+  Sine pe soni wali kya jaane aise sona
+  Pyasi hai mustarib hai aakar use sulao
   
   5
   Kanon may al-atash ki awaaz aa rahi hai
@@ -48,7 +48,7 @@ romanLyrics: |-
   Ulfat ki aag dil may payham lagi hui hai
   Rouza tumhara dekhe ye hasrat-e-dili ha
   Zzaair bane tumhara ye kheahish-e-Zaki hai
-  Aankhon ki tashnagi ko tum hi isay bujhao
+  Aankhoṅ ki tashnagi ko tum hi ise bujhao
 ---
 
 عباس عباس عباس پانی لائو

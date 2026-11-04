@@ -13,10 +13,10 @@ coverAlt: "Cover image for Sajjad Ko Bemaut Ye Gham Maar Gaya Hai"
 published: true
 romanLyrics: |-
   Sajjad ko bemaut ye gham maar gaya hai
-  Beparda haram saath hain aur shaam chala hai
+  Beparda haram saath haiṅ aur shaam chala hai
   
   1
-  Naa maar Sakina ko tamachay ay sitamgar
+  Naa maar Sakina ko tamache e sitamgar
   Ehsaas-e-yateemi hi bari sakht saza hai
   
   2
@@ -24,36 +24,36 @@ romanLyrics: |-
   Aabid to bari dair se behosh parha hai
   
   3
-  Lo aagai zindan se riha ho ke Sakina
-  Sajjad ke seene se jo aik laasha laga hai
+  Lo aagai zindaṅ se riha ho ke Sakina
+  Sajjad ke sine se jo aik laasha laga hai
   
   4
-  Shikwa nahin zindan se koi Bint-e-Ali ko
-  Kia kam hai ke deewaron ne parda to kiya hai
+  Shikwa nahiṅ zindan se koi Bint-e-Ali ko
+  Kia kam hai ke diwaroṅ ne parda to kiya hai
   
   5
   Sar Ghazi ka tharra ke gira nok-e-sina se
   Shaayad sar-e-Zainab ko khula dekh liya hai
   
   6
-  Kehti thi ye Sughra huwa kia Karb-o-bala main
+  Kehti thi ye Sughra huwa kia Karb o bala maiṅ
   Qaasid tere daaman pe lahu kis ka laga hai
   
   7
-  Maqtal se chali aati hai Zahra ki sadaain
-  Ya Rab ye kahan ka qafla saalaar chala hai
+  Maqtal se chali aati hai Zahra ki sadaaiṅ
+  Ya Rab ye kahaṅ ka qafla saalaar chala hai
   
   8
-  Behta hai shab-o-roz lahu aankhon se ab tak
-  Sajjad ne tashheer ka wo zehr piya hai
+  Behta hai shab o roz lahu aankhoṅ se ab tak
+  Sajjad ne tashhir ka wo zehr piya hai
   
   9
-  Zanjeeron ki aawaz ubharti rahi shab bhar
-  Is qaidi ko kia rog hai kyun jaag raha hai
+  Zanjiroṅ ki aawaz ubharti rahi shab bhar
+  Is qaidi ko kia rog hai kiuṅ jaag raha hai
   
   10
-  Darbar-e-jafaakaar me yun aatin hain Zainab
-  Chehray pe lahu Aun o Muhammad ka mala hai
+  Darbar-e-jafaakaar me yun aatin haiṅ Zainab
+  Chehre pe lahu Aun o Muhammad ka mala hai
 ---
 
 سجاد کو بے موت یہ غم مار گیا ہے

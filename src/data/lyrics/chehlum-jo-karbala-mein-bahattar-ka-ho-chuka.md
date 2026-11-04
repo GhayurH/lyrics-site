@@ -15,36 +15,36 @@ bastaNote: original-selection
 published: true
 romanLyrics: |-
   1
-  Chehlum Jo Karbala Mein Bahattar Ka Ho Chuka
-  Paiwand Bekason Ke Tan-o-Sar Ka Ho Chuka
+  Chehlum Jo Karbala Meiṅ Bahattar Ka Ho Chuka
+  Paiwand Bekason Ke Tan o Sar Ka Ho Chuka
   Aur Fatiha Husain Ke Lashkar Ka Ho Chuka
   Qabron Pe Shor Aal-e-Payambar Ka Ho Chuka
-  Matam Mein Teen Roz Rahe Shor-o-Shain Se
+  Matam Meiṅ Tin Roz Rahe Shor o Shain Se
   Roye Lipat Lipat Ke Mazar-e-Husain Se
   
   2
   Misle Charagh Gor-e-Ghariban Pe Dil Jalaye
   Phoolon Ke Badle Qabron Pe Lakht-e-Jigar Charhaye
-  Pyaron Ki Bood-o-Baash Ke Saman Jo Yaad Aaye
+  Pyaroṅ Ki Bud o Baash Ke Samaṅ Jo Yaad Aaye
   Be Sakhta Pukare Kaleja Pakar Ke Haye
   Kunbe Ke Saath Dakhla-e-Karbala Hua
   Laya Jo Tha Madine Se Hum Ko Wo Kya Hua
   
   3
-  Mar Jayen Sab Yatimon Ke Sar Par Rahoon To Main
+  Mar Jayeṅ Sab Yatimoṅ Ke Sar Par Rahuṅ To Maiṅ
   Bachpan Mein Unki Qaid Ki Eeza Sahoon To Main
-  Behlane Ko Tumhari Kahani Kahoon To Main
-  Maan Hoon To Main, Phuphi Hoon To Main, Baap Hoon To Main
+  Behlane Ko Tumhari Kahani Kahuṅ To Maiṅ
+  Maaṅ Huṅ To Maiṅ, Phuphi Huṅ To Maiṅ, Baap Huṅ To Maiṅ
   In Ka Bhi Daagh Aaj Mile Ya Ke Kal Mile
-  Aise Nahin Naseeb Ke Khidmat Ka Phal Mile
+  Aise Nahiṅ Nasib Ke Khidmat Ka Phal Mile
   
   4
-  Main Jaanti Thi Shehr Basa Hoga Bhai Ka
-  Hoga Hujoom Qabr Pe Saari Khudai Ka
+  Maiṅ Jaanti Thi Shehr Basa Hoga Bhai Ka
+  Hoga Hujum Qabr Pe Saari Khudai Ka
   Chehlum Karungi Dhoom Se Main Karbalai Ka
-  Pursan Bhi Yaan Nahin Koi Zahra Ki Jayi Ka
-  Mun Dhanpne Ko Aap Hi Palla Bhi Leti Hoon
-  Aur Apne Dil Ko Aap Hi Pursa Bhi Deti Hoon
+  Pursaṅ Bhi Yaaṅ Nahiṅ Koi Zahra Ki Jayi Ka
+  Mun Dhanpne Ko Aap Hi Palla Bhi Leti Huṅ
+  Aur Apne Dil Ko Aap Hi Pursa Bhi Deti Huṅ
   
   5
   Chehlum To Kar Chuki Main Dil-Afgar Ya Husain
@@ -52,45 +52,45 @@ romanLyrics: |-
   Beta Bhi Aur Behen Bhi Hai Nadar Ya Husain
   Aakhir Kabhi To Aayenge Zawwar Ya Husain
   Takya Hai Kaar-Sazi-e-Parwardigar Par
-  Is Dam To Sayeban Bhi Nahin Hai Mazar Par
+  Is Dam To Sayebaṅ Bhi Nahiṅ Hai Mazar Par
   
   6
   Hazrat Ki Qabr Hil Gayi Zainab Ke Bain Se
   Aa Kar Kaha Basheer Ne Ibn-e-Husain Se
-  Shehzade Jaan-Balab Hai Phuphi Shor-o-Shain Se
+  Shehzade Jaan-Balab Hai Phuphi Shor o Shain Se
   Chaliye Watan Ko Qabr-e-Shah-e-Mashraqain Se
-  Abid Ne Poocha Kyun Phuphi Amma Qubool Hai
-  Wo Bolin Ikhtiyar Hai Kya, Haan Qubool Hai
+  Abid Ne Pucha Kiuṅ Phuphi Amma Qubul Hai
+  Wo Boliṅ Ikhtiyar Hai Kya, Haaṅ Qubul Hai
   
   7
   Aaye The Kis Tarha Se Watan, Kis Tarha Chale
-  Na Sheh Rahe Na Godiyon Mein God Ke Pale
-  Sote The Qabr Mein Jo Kataye Huye Gale
+  Na Sheh Rahe Na Godiyoṅ Meiṅ God Ke Pale
+  Sote The Qabr Meiṅ Jo Kataye Huye Gale
   Ye Waqt Wo Tha Phirte The Sab Aankh Ke Tale
-  Abid Se Bano Kehti Thin Muhlat Qaleel Hai
+  Abid Se Bano Kehti Thiṅ Muhlat Qalil Hai
   Kuch Khaak-e-Paak Lelo Ke Sughra Aleel Hai
   
   8
   Ay Karbala-e-Sarwar-e-Dilgeer Alwida
   Ay Qatl-Gah-e-Hazrat-e-Shabbir Alwida
   Ay Qabr-e-Ibn-e-Sahib-e-Tatheer Alwida
-  Ay Bhai Jaan, Jaati Hai Humsheer, Alwida
-  Kya Gham Naseeb Hai Ye Nawasi Rasool Ki
-  Tum Ne Mujawiri Na Hamari Qubool Ki
+  E Bhai Jaan, Jaati Hai Humshir, Alwida
+  Kya Gham Nasib Hai Ye Nawasi Rasul Ki
+  Tum Ne Mujawiri Na Hamari Qubul Ki
   
   9
-  Bhaiyya Utho Kujave Mein Mujh Ko Tumhi Bithao
-  Bhaiyya Main Be-Naqab Hoon, Rehgeeron Ko Hatao
-  Rokein Qanaat, Akbar-o-Abbas Ko Bulao
+  Bhaiyya Utho Kujave Meiṅ Mujh Ko Tumhi Bithao
+  Bhaiyya Main beNaqab Huṅ, Rehgeeron Ko Hatao
+  Rokeiṅ Qanaat, Akbar o Abbas Ko Bulao
   Khaali Hai God Bhabhi Ki, Asghar Ko Lete Aao
-  Sardar Sare Qafile Ke Aage Hote Hain
-  Tayyar Karwan Hua Aur Aap Sote Hain
+  Sardar Sare Qafile Ke Aage Hote Haiṅ
+  Tayyar Karwaṅ Hua Aur Aap Sote Haiṅ
   
   10
-  Kab Se Tumhein Pukar Rahi Hoon Main Khasta-Tan
-  Haye Haye Jawab Bhi Nahin Dete Shah-e-Zaman
+  Kab Se Tumhein Pukar Rahi Huṅ Main Khasta-Tan
+  Haye Haye Jawab Bhi Nahiṅ Dete Shah-e-Zaman
   Bhaiyya Gale Laga Loon To Jaaun Su-e-Watan
-  Aayi Nida, Sidhaaro, Khuda Hafiz Ay Behen
+  Aayi Nida, Sidhaaro, Khuda Hafiz E Behen
   Sughra Ko Meri Simt Se Bhi Pyar Kijiyo
   Hoga Sawab Khatir-e-Beemar Kijiyo
 ---

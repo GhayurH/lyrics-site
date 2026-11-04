@@ -17,44 +17,44 @@ romanLyrics: |-
   La ilaha illa Allah, La ilaha illa Allah
 
   2
-  Na poochiye hai kahan La ilaha illa Allah
-  Jahan Husain wahan La ilaha illa Allah
+  Na puchiye hai kahaṅ La ilaha illa Allah
+  Jahaṅ Husain wahaṅ La ilaha illa Allah
 
   3
-  Ali ki tegh se tareekh poochiye sab ki
-  Parha tha kis ne kahan La ilaha illa Allah
+  Ali ki tegh se tarikh puchiye sab ki
+  Parha tha kis ne kahaṅ La ilaha illa Allah
 
   4
-  Agar wilayat-e Haider nahin hai kalma mein
-  To phir hai wahm-o-guman La ilaha illa Allah
+  Agar wilayat-e Haider nahiṅ hai kalma meiṅ
+  To phir hai wahm o gumaṅ La ilaha illa Allah
 
   5
-  Ali ko dil mein basa kar to dekh lo ay waiz
+  Ali ko dil meiṅ basa kar to dekh lo e waiz
   To khud kahegi zaban La ilaha illa Allah
 
   6
-  Naseeriyon ko yaqeen La ilaha illa Ali
-  Hai Muslimon ko guman La ilaha illa Allah
+  Nasiriyoṅ ko yaqiṅ La ilaha illa Ali
+  Hai Muslimoṅ ko gumaṅ La ilaha illa Allah
 
   7
-  Jise naseeb nahin hubb-e Ahl-e Bait-e Rasool
-  Use naseeb kahan La ilaha illa Allah
+  Jise nasib nahiṅ hubb-e Ahl-e Bait-e Rasul
+  Use nasib kahaṅ La ilaha illa Allah
 
   8
   Husain zinda hai jab tak zamana baqi hai
-  Kahan Yazeed kahan La ilaha illa Allah
+  Kahaṅ Yazid kahaṅ La ilaha illa Allah
 
   9
   Pata Khuda ka batate agar na Aal-e Nabi
-  Azaan mein tha kahan La ilaha illa Allah
+  Azaan meiṅ tha kahaṅ La ilaha illa Allah
 
   10
-  Azaan mein Ali Akbar ne La ilaha illa Allah kaha
-  To aaj tak hai jawan La ilaha illa Allah
+  Azaan meiṅ Ali Akbar ne La ilaha illa Allah kaha
+  To aaj tak hai jawaṅ La ilaha illa Allah
 
   11
-  Dar-e Batool nahin jal raha tha ay Majid
-  Woh ho raha tha dhuan La ilaha illa Allah
+  Dar-e Batul nahiṅ jal raha tha e Majid
+  Woh ho raha tha dhuaṅ La ilaha illa Allah
 
 ---
 

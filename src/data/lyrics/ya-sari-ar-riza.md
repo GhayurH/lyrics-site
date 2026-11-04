@@ -21,25 +21,25 @@ romanLyrics: |-
   1
   Tu Hi Kabir Tu Hi Kibriya Tu Rahnuma
   Rag-e-Gulu Se Bhi Nazdik Tu Har Ek Lamha
-  Hai Tere Naam Ki Taseer Har Maraz Ki Dawa
-  Hai Tere Zikr Mein Poshida Mere Haq Mein Shifa
+  Hai Tere Naam Ki Tasir Har Maraz Ki Dawa
+  Hai Tere Zikr Meiṅ Poshida Mere Haq Meiṅ Shifa
   Baghair Maange Hi Karta Hai Tu Ata Pe Ata
   Sada Se Pehle Hi Sunta Hai Sa'ilon Ki Sada
   
   2
-  Ali Waseela Bane Aur Kumail Paaye Shifa
-  Usi Ke Naam Se Mansoob Ho Gayi Ye Dua
+  Ali Wasila Bane Aur Kumail Paaye Shifa
+  Usi Ke Naam Se Mansub Ho Gayi Ye Dua
   Shab-e-Juma Hai Dua-e-Kumail Shukr Tera
   Ye Ibtida Hai Tu Hai Inteha Hadith-e-Qissa
-  Ilahi Teri Riza Ke Siwa Kuch Aur Nahin
-  Ke Mere Paas Dua Ke Siwa Kuch Aur Nahin
+  Ilahi Teri Riza Ke Siwa Kuch Aur Nahiṅ
+  Ke Mere Paas Dua Ke Siwa Kuch Aur Nahiṅ
   
   3
-  Mere Khuda Wo Zabanein Jo Teri Hamd Karein
+  Mere Khuda Wo Zabaneiṅ Jo Teri Hamd Kareiṅ
   Wo Tere Panjtan-e-Pak Ki Dua Mein Rahein
   Kabhi Wo Nar-e-Jahannam Ki Sakhtiyan Na Sahein
-  Pul-e-Siraat Se Be-Khauf-o-Be-Khatar Guzrein
-  Gunahgaron Ko Ye Aasra Hai Subh-o-Masa
+  Pul-e-Siraat Se beKhauf o beKhatar Guzrein
+  Gunahgaron Ko Ye Aasra Hai Subh o Masa
   Khula Hua Hai Musalsal Tera Dar-e-Tauba
   
   4
@@ -48,38 +48,38 @@ romanLyrics: |-
   Khula Rahe Mere Bachon Pe Shahr-e-Ilm Ka Dar
   Rahe Jawano Ki Har Dam Teri Riza Pe Nazar
   Teri Riza Ke Bina Rizq-e-Ilm Kya Ho Ata
-  Jo Tu Na Chahe Dar-e-Ilm Khul Nahin Sakta
+  Jo Tu Na Chahe Dar-e-Ilm Khul Nahiṅ Sakta
   
   5
   Tu Mere Aib Chhupata Hai Daal Kar Parda
-  Ilahi Deta Hoon Main Tujh Ko Wasta Us Ka
+  Ilahi Deta Huṅ Maiṅ Tujh Ko Wasta Us Ka
   Wohi Jo Sham-e-Ghareeban Mein De Rahi Thi Sada
-  Nahin Hai Kuch Bhi Mere Paas Is Rida Ke Siwa
+  Nahiṅ Hai Kuch Bhi Mere Paas Is Rida Ke Siwa
   Rasoolzadi Ke Parde Ki Laaj Rakh Lena
-  Bharam Duaon Ka Meri Bhi Aaj Rakh Lena
+  Bharam Duaoṅ Ka Meri Bhi Aaj Rakh Lena
   
   6
   Shikasta Pehlu-e-Zahra Ka Wasta Ay Khuda
   Jo Waqt-e-Ghusl Ali Ne Basad Buka Dekha
   To Apne Aansu Ali Sa Jari Na Rok Saka
-  Khuda Ka Sher Bhi Ek Cheekh Maar Kar Roya
-  Usi Rasool Ki Beti Ka Wasta Ay Khuda
+  Khuda Ka Sher Bhi Ek Chikh Maar Kar Roya
+  Usi Rasul Ki Beti Ka Wasta E Khuda
   Ho Walidain Ko Sehat Ke Sath Umr Ata
   
   7
-  Wo Ek Mareez Jo Ash-Shaam Keh Ke Rota Tha
+  Wo Ek Mariz Jo Ash-Shaam Keh Ke Rota Tha
   Jhukaye Sar Wo Hayadar Rota Jata Tha
-  Pahan Ke Beriyan Jo Karbala Se Sham Gaya
-  Usi Mareez Ke Sadqe Se Maangte Hain Shifa
+  Pahan Ke Beriyaṅ Jo Karbala Se Sham Gaya
+  Usi Mariz Ke Sadqe Se Maangte Haiṅ Shifa
   Maraz Se Pehle Dawa Khalq Tu Ne Ki Hai Khuda
   Baraye Syed-e-Sajjad De Hamein Bhi Shifa
   
   8
-  Ilahi Sayyidi Maulaya Ya Aziz-o-Hakim
-  Jalil-o-Qadir-o-Jabbar-il-Ali-o-Azim
-  Teri Hi Hamd Hai Tu Rabb-ul-Alamin-o-Rahim
+  Ilahi Sayyidi Maulaya Ya Aziz o Hakim
+  Jalil o Qadir o Jabbar-il-Ali o Azim
+  Teri Hi Hamd Hai Tu Rabb-ul-Alamin o Rahim
   Gham-e-Husain Ke Sadqe Karam Ho Hum Par Karim
-  Sada-e-Sarwar-o-Raihan Sun Mere Allah
+  Sada-e-Sarwar o Raihan Sun Mere Allah
   Baroz-e-Hashr Ho Saya Rida-e-Zahra Ka
 ---
 

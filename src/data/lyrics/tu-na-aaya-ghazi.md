@@ -15,7 +15,7 @@ romanLyrics: |-
   jab rida sar se chini mai sada deti rahi
   tu na aaya ghazi
   
-  aale imran kahan aur zindan kahan
+  aale imran kahaṅ aur zindan kahaṅ
   le behan qaid hui tu na aaya ghazi
   
   1
@@ -32,7 +32,7 @@ romanLyrics: |-
   
   3
   kya kahun sher mere berida humko liye
-  ye musalman saare shehr dar shehr gaye
+  ye musalmaṅ saare shehr dar shehr gaye
   khilqate koofa kabhi khilqate shaam kabhi
   baaraha hum pe hansi
   
@@ -40,19 +40,19 @@ romanLyrics: |-
   kitni bebas thi behan ay shehenshahe wafa
   naam le le ke mera jab ye zaalim ne kaha
   naaz tha jispe tujhe ab bulao na usay
-  aur main roti rahi
+  aur maiṅ roti rahi
   
   5
   humko pani na mile teri khusboo to rahe
-  tere baazu na katein chahe mashkeeza chiday
-  ye magar ho na saka tere baazu hain juda
+  tere baazu na kateiṅ chahe mashkiza chide
+  ye magar ho na saka tere baazu haiṅ juda
   mujh pe hai tashnalabi
   
   6
-  kya sakina se kahun ay mere dil ke sukoon
-  haye pani ke liye beh gaya sab tera khun
+  kya sakina se kahuṅ e mere dil ke sukuṅ
+  haye pani ke liye beh gaya sab tera khuṅ
   ab koi aas nahi tu mere paas nahi
-  rassi shaanon mein bandhi
+  rassi shaanoṅ meiṅ bandhi
   
   7
   jab chali sheh pe churi ay mere sher-e-jari
@@ -64,13 +64,13 @@ romanLyrics: |-
   qaid khane may qaza jab sakina ko mili
   deke kurte ka kafan bachi dafnayi gayi
   us ghari naam tera surat-e-nad-e-Ali
-  bas main duhrati rahi
+  bas maiṅ duhrati rahi
   
   9
   roya rehaan qalam karke ye baat raqam
-  khoon may doob gaya mere ghazi ka alam
+  khun may dub gaya mere ghazi ka alam
   zakhmi zainab ka jigar khoon-fishan shaah ka sar
-  aaye khaimon may shaqi
+  aaye khaimoṅ may shaqi
 ---
 
 جب ردا سر سے چھنی میں سدا دیتی رہی

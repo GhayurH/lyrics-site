@@ -12,11 +12,11 @@ cover: "/images/lyrics/laye-mazdoor-utha-kar-tera-lasha-kazim.png"
 coverAlt: "Cover image for Laye Mazdoor Utha Kar Tera Lasha Kazim"
 published: true
 romanLyrics: |-
-  laye mazdoor utha kar tera laasha Kazim
+  laye mazdur utha kar tera laasha Kazim
   pul pe Baghdad ke rakha hai janaza Kazim
   
   1
-  jism par lipti hain zanjeerein rihayi kaisi
+  jism par lipti haiṅ zanjireiṅ rihayi kaisi
   mar ke bhi qaid raha tera sarapa Kazim
   
   2
@@ -25,7 +25,7 @@ romanLyrics: |-
   
   3
   misl-e-Sughra woh tadapti rahi furqat mein teri
-  betiyan takti rahin tera rasta Kazim
+  betiyaṅ takti rahiṅ tera rasta Kazim
 ---
 
 لائے مزدور اُٹھا کر تیرا لاشہ کاظم

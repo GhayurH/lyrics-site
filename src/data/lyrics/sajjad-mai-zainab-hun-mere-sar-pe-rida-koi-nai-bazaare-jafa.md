@@ -12,8 +12,8 @@ cover: "/images/lyrics/sajjad-mai-zainab-hun-mere-sar-pe-rida-koi-nai-bazaare-ja
 coverAlt: "Cover image for Sajjad Mai Zainab Hun Mere Sar Pe Rida Koi Nai Bazaare Jafa"
 published: true
 romanLyrics: |-
-  Sajjad Mai Zainab Hun, Mere Sar Pe Rida Koi Nai, Bazaare Jafa
-  Majma Hai Koofiyon Ka, Mere Chalne Ki Jaa Koi Nai, Bazaare Jafa
+  Sajjad Mai Zainab Huṅ, Mere Sar Pe Rida Koi Nai, Bazaare Jafa
+  Majma Hai Kufiyoṅ Ka, Mere Chalne Ki Jaa Koi Nai, Bazaare Jafa
   
   1
   Sajjad Mere Sar Se Aadaa Ne Chini Chadar
@@ -26,28 +26,28 @@ romanLyrics: |-
   Sar Mere Khula Dekh Ke Gham Is Se Bara Koi Nai, Bazaare Jafa
   
   3
-  Sajjad Chaloon Kaise, Lakhon Hain Tamashayi
+  Sajjad Chaluṅ Kaise, Lakhoṅ Haiṅ Tamashayi
   Yaad Aata Hai Reh Reh Ke Abbas Mera Bhai
   Faryad Karoon Tujhse, Ab Tere Siwa Koi Nai, Bazaare Jafa
   
   4
-  Maloom Hai Aada Ko Ghazi Ki Behan Hun Mai
-  Be-Dast Hai Wo Ghazi, Pabande Rasan Hun Mai
+  Malum Hai Aada Ko Ghazi Ki Behan Huṅ Mai
+  beDast Hai Wo Ghazi, Pabande Rasan Huṅ Mai
   Yaad Aayi Wafa Uski Jab Paas Raha Koi Nai, Bazaare Jafa
   
   5
-  Majboor hun be-bas hun main ro bhi nahin sakti
-  durron ki aziyat se main so bhi nahin sakti
-  is darja musibat mein hamdard mera Koi Nai, Bazaare Jafa
+  Majboor huṅ bebas huṅ main ro bhi nahiṅ sakti
+  durroṅ ki aziyat se maiṅ so bhi nahiṅ sakti
+  is darja musibat meiṅ hamdard mera Koi Nai, Bazaare Jafa
 
   6
   Sajjad Teri Haalat Dekhi Nahi Jati Hai
-  Be-Parda Mujhe Dekhe, Ye Baat Rulati Hai
-  Sajjad Teri Tarha Kanton Pe Chala Koi Nai, Bazaare Jafa
+  beParda Mujhe Dekhe, Ye Baat Rulati Hai
+  Sajjad Teri Tarha Kantoṅ Pe Chala Koi Nai, Bazaare Jafa
   
   7
-  Jata Hai Suye Zindan Ab Kunba Mohamed Ka
-  Rassi Mai Bandhe Qaidi, Kanton Se Bhara Rasta
+  Jata Hai Suye Zindaṅ Ab Kunba Mohamed Ka
+  Rassi Mai Bandhe Qaidi, Kantoṅ Se Bhara Rasta
   Ummat Ne Sitam Dhaye, Kismat Se Gila Koi Nai, Bazaare Jafa
   
   8
@@ -57,7 +57,7 @@ romanLyrics: |-
   
   9
   Bazaare Sitam Mai Tha Zainab Ka Ajab Aalam
-  Mazhar Mai Likhoon Kaise, Zalim Ne Kaha Jis Dam
+  Mazhar Mai Likhuṅ Kaise, Zalim Ne Kaha Jis Dam
   Hai Kaun Tera Waris, Zainab Ne Kaha Koi Nai, Bazaare Jafa
 ---
 

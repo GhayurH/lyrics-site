@@ -12,12 +12,12 @@ cover: "/images/lyrics/husain-jaata-hai-marne-ko-ay-meri-zainab.png"
 coverAlt: "Cover image for Husain Jaata Hai Marne Ko Ay Meri Zainab"
 published: true
 romanLyrics: |-
-  Husain jaata hai marne ko ay meri Zainab
+  Husain jaata hai marne ko e meri Zainab
   Qareeb aa gaya ab waqt-e-aakhri Zainab
-  Salam tum pe ay Baba ki laadli Zainab
+  Salam tum pe e Baba ki laadli Zainab
   
-  Zainab ne kaha kaun hai pardes mein mera
-  Kyun jaate ho tum chhor ke bhaiya mujhe tanha
+  Zainab ne kaha kaun hai pardes meiṅ mera
+  Kiuṅ jaate ho tum chhor ke bhaiya mujhe tanha
   
   Zainab ko har ek mor pe tarpayegi dunya
   Yaad aaoge bhaiya
@@ -33,8 +33,8 @@ romanLyrics: |-
   Dawat koi shaadi ki Madine mein jo dega
   
   3
-  Is maah se mansoob thi bhaiya meri khushiyan
-  Thi sab se badi Eid meri teesri Shaban
+  Is maah se mansub thi bhaiya meri khushiyaṅ
+  Thi sab se badi Eid meri tisri Shabaṅ
   Shaban ke jab chand ko dekhegi ye behna
   
   4
@@ -48,8 +48,8 @@ romanLyrics: |-
   Soyegi nahi jab meri lori se Sakina
   
   6
-  Hota tha Takallum yun juda bhai behan se
-  Jis tarha koi rooh nikalti ho badan se
+  Hota tha Takallum yuṅ juda bhai behan se
+  Jis tarha koi ruh nikalti ho badan se
   Sheh ran ko chale kehti rahi Sani-e-Zahra
 ---
 

@@ -12,38 +12,38 @@ cover: "/images/lyrics/tukre-nahin-chadar-mein-farwa-tera-beta-hai.png"
 coverAlt: "Cover image for Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
 published: true
 romanLyrics: |-
-  Tukre nahin chadar mein, farwa tera beta hai
+  Tukre nahiṅ chadar meiṅ, farwa tera beta hai
   Maqtal me issey maine, chun chun ke uthayya hai
   
   1
   Rukh kar key baqayya ka, sheh kehtey rahe bhai
-  Betay ki tere mayyat, puri nahi mil payi
-  Dhunda to bohot mein ne
+  Bete ki tere mayyat, puri nahi mil payi
+  Dhunda to bohot meiṅ ne
   Par mil nahi paya hai
   
   2
   Tukron mein badan hoker, maidan me phela hai
-  Tareekh mein dunya ki, ye pehla janaza hai
-  Naa pooch ye gathri mein
+  Tarikh meiṅ dunya ki, ye pehla janaza hai
+  Naa puch ye gathri meiṅ
   Kis terha samaaya hai
   
   3
-  Haathon ko kabhi ser ko, seenay ko uthata tha
-  Aur baqi janazay ko, mein dhundhta jaata tha
+  Haathoṅ ko kabhi ser ko, sine ko uthata tha
+  Aur baqi janaze ko, meiṅ dhundhta jaata tha
   Isnay mujhey ghurbat ka
   Ehsaas dilaya hai
   
   4
-  Qasim main teri maa ko, kis tarhan se batlaon
+  Qasim maiṅ teri maa ko, kis tarhan se batlaoṅ
   Ye hee hay tera beta, kaisay usay samjhaon
-  Ye soch ke ankhon se
-  Khun Sheh ne bahaya hay
+  Ye soch ke ankhoṅ se
+  Khun Sheh ne bahaya he
   
   5
-  Poocha jo ye zainab ne, gathri main hay kiya bhai
+  Pucha jo ye zainab ne, gathri maiṅ he kiya bhai
   Sarwar ne kaha roker, qasim ki hay lash haye
   Is lash ka zalim ne
-  Wo haal banaya hay
+  Wo haal banaya he
 ---
 
 ٹکڑے نہیں چادر میں، فروا تیرا بیٹا ہے

@@ -17,13 +17,13 @@ romanLyrics: |-
   Jab madine mein nazar aaegi viraniy-e-ghar
   
   1
-  Jab ke zindan mein tum dono ka sar aya tha
+  Jab ke zindan meiṅ tum dono ka sar aya tha
   Maan na royi thi tumhe tumko gila to hoga
   Muaaf karna jo agar ho sake aye lakhte jigar
   
   2
-  Mujhse poochenge jo Abdullah kahan hain bachche
-  Kya waja hai meri nazron se nihan hain bachche
+  Mujhse poochenge jo Abdullah kahan haiṅ bachche
+  Kya waja hai meri nazroṅ se nihaṅ haiṅ bachche
   Kya jawab unko ye maa degi mere noore nazar
   
   3
@@ -37,8 +37,8 @@ romanLyrics: |-
   Kaash mar jati tere sath hi dukhiya madar
   
   5
-  Tum nahi ho to maza kuch bhi nahi jeene mein
-  Haey is gham se phataa jata hai dil seene mein
+  Tum nahi ho to maza kuch bhi nahi jine meiṅ
+  Haey is gham se phataa jata hai dil sine meiṅ
   Kaun ab mujhko pukarega bhala maa kehkar
   
   6
@@ -49,7 +49,7 @@ romanLyrics: |-
   7
   Bain sunkar ye uthi Zain baqayya se sada
   Gham na kha ay meri beti ke ye maa tumpe fida
-  Hain mere paas mere Aun o Mohammad dilbar
+  Haiṅ mere paas mere Aun o Mohammad dilbar
 ---
 
 ماں نہ روئے گی تمہیں عون و محمد کیوں کر

@@ -14,8 +14,8 @@ published: true
 romanLyrics: |-
   Tarap Ke Laasha-e-Akbar Pe Bole, Sibt-e-Nabi
   Hamare Noor-e-Nazar Ko Lagi, Nazar Kis Ki
-  Sitam Ghareeb Musafir Pe Ye, Mazeed Kiya
-  Batao Kis Ne Mere Sher Ko, Shaheed Kiya
+  Sitam Gharib Musafir Pe Ye, Mazid Kiya
+  Batao Kis Ne Mere Sher Ko, Shahid Kiya
   
   Sinaa Kaleje Pe Akbar Ke, Marne Wale
   Pata Hai Kis Tarha Beta Jawaan Hota Hai
@@ -23,50 +23,50 @@ romanLyrics: |-
   1
   Bare Hi Naaz Se Paala Hai, Ye Jawaan Pisar
   Ye Mere Ghar Ka Ujala, Ye Mera Noor-e-Nazar
-  Ye Mera Hansliyon Wala, Riyazaton Ka Samar
-  Lahoo Mein Dooba Hua, Eriyan Ragarta Hai
+  Ye Mera Hansliyoṅ Wala, Riyazatoṅ Ka Samar
+  Lahu Meiṅ Duba Hua, Eriyaṅ Ragarta Hai
   
   2
-  Ye Meri God Mein Quran, Ki Tarha Rehta Tha
-  Ye Noor Ban Ke Meri Aankh, Mein Chamakta Tha
+  Ye Meri God Meiṅ Quran, Ki Tarha Rehta Tha
+  Ye Nur Ban Ke Meri Aankh, Meiṅ Chamakta Tha
   Ye Saaya Ban Ke Mere, Saath Saath Chalta Tha
   Meri Sada Pe Na, Koi Jawaab Deta Hai
   
   3
-  Ali Ki Betiyan Jhoola, Ise Jhulati Thin
+  Ali Ki Betiyaṅ Jhula, Ise Jhulati Thiṅ
   Hijaab-e-Noor Mein Lori, Ise Sunati Thin
   Janaab-e-Umme Baneen, Is Ke Naaz Uthati Thin
-  Aur Ab Husain Yahan, Is Ki Laash Uthata Hai
+  Aur Ab Husain Yahaṅ, Is Ki Laash Uthata Hai
   
   4
-  Jo Bachpane Mein Pakar Ke, Ye Mera Haath Chala
+  Jo Bachpane Meiṅ Pakar Ke, Ye Mera Haath Chala
   To Haath Utha Ke Ise Di, Thi Zindagi Ki Dua
   Khabar Na Thi Ke Mujhe, Ye Bhi Dekhna Hoga
-  Aaj Haathon Pe, Akbar Tera Janaza Hai
+  Aaj Haathoṅ Pe, Akbar Tera Janaza Hai
   
   5
   Batao Tum Mein Koi Ho, Jo Sahib-e-Aulad
-  Jawaan Laal Ho Jis Mein, Hai Wohi Ghar Abaad
-  Sitamgaron Ne Kiya, Haye Mera Ghar Barbaad
+  Jawaan Laal Ho Jis Meiṅ, Hai Wohi Ghar Abaad
+  Sitamgaroṅ Ne Kiya, Haye Mera Ghar Barbaad
   Hawa-e-Zulm Se, Ghar Ka Charaag Bujhta Hai
   
   6
-  Hamare Seene Se Nikla, Hai Dil Lahoo Rota
+  Hamare Sine Se Nikla, Hai Dil Lahu Rota
   Aur Apne Khaime Se Nikli, Hai Zainab-e-Kubra
   Najaf Se Nikle Ali, Aur Madine Se Nana
-  Jab Is Ke Seene Se, Barchhi Ka Phal Nikala Hai
+  Jab Is Ke Sine Se, Barchhi Ka Phal Nikala Hai
   
   7
   Salaam-e-Aakhri Mujh Ko, Kiya Tha Jab Is Ne
-  Na Pooch Hum Se Ke Aaye, Yahan Pe Hum Kaise
-  Kabhi Uthe Kabhi, Maqtal Ki Khaak Pe Hain Gire
-  Zaeef Baap Se, Ye Gham Kahan Se Uthta Hai
+  Na Puch Hum Se Ke Aaye, Yahaṅ Pe Hum Kaise
+  Kabhi Uthe Kabhi, Maqtal Ki Khaak Pe Haiṅ Gire
+  Zaif Baap Se, Ye Gham Kahaṅ Se Uthta Hai
   
   8
-  Hua Hai Nauha Jo Mesum, Teri Zabaan Se Ada
-  Ye Josh-e-Girya-o-Matam, Bata Raha Hai Raza
-  Ke Nauha Sunne Yahan, Aa Gaye Mere Maula
-  Har Ek Zabaan Pe, Akbar Tera Hi Nauha Hai
+  Hua Hai Nauha Jo Mesum, Teri Zabaaṅ Se Ada
+  Ye Josh-e-Girya o Matam, Bata Raha Hai Raza
+  Ke Nauha Sunne Yahaṅ, Aa Gaye Mere Maula
+  Har Ek Zabaaṅ Pe, Akbar Tera Hi Nauha Hai
 ---
 
 تڑپ کے لاشۂ اکبر پہ بولے، سبطِ نبی

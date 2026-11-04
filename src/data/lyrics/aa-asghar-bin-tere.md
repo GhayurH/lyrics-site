@@ -12,33 +12,33 @@ cover: "/images/lyrics/aa-asghar-bin-tere.png"
 coverAlt: "Cover image for Aa Asghar Bin Tere"
 published: true
 romanLyrics: |-
-  Aa Asghar bin tere, mai chayn kahan se paaun
+  Aa Asghar bin tere, mai chayn kahaṅ se paauṅ
   Aa laut ke aaja laal mere, jee bhar ke naaz uthaun
   
   1
   Meri aankh ka taara hai tu, mujhko jaan se pyaara hai
-  Maa dukhyari ke jeene ka, tu hi laal sahara hai
-  Tujhe chhor ke tanha maqtal mein, main kaise shaam ko jaaun
+  Maa dukhyari ke jine ka, tu hi laal sahara hai
+  Tujhe chhor ke tanha maqtal meiṅ, maiṅ kaise shaam ko jaauṅ
   
   2
-  Teri wo masoom adayein, teri yaad dilati hain
-  Tere pyaar ki wo sab baatein, mujhko bohot rulati hain
-  Main teri judayi mein beta, ro ro ke mar na jaaun
+  Teri wo masum adayeiṅ, teri yaad dilati haiṅ
+  Tere pyaar ki wo sab baatein, mujhko bohot rulati haiṅ
+  Maiṅ teri judayi meiṅ beta, ro ro ke mar na jaauṅ
   
   3
-  Loriyon wale ye to tere, naaz uthane ke din the
-  Aankhon mein teri khushiyon ke, khwab sajane ke din the
+  Loriyoṅ wale ye to tere, naaz uthane ke din the
+  Aankhoṅ meiṅ teri khushiyoṅ ke, khwab sajane ke din the
   Aa laut ke Asghar aa beta, tera kurta mai badlaun
   
   4
-  Bhool nahi sakti maan Asghar, pyaase honth tere beta
-  Khaali god hai aur zindaan hai, aaja maan ke paas aaja
-  Aa nanhe mujahid mai teri, ashkon se pyaas bujhaun
+  Bhul nahi sakti maaṅ Asghar, pyaase honth tere beta
+  Khaali god hai aur zindaaṅ hai, aaja maaṅ ke paas aaja
+  Aa nanhe mujahid mai teri, ashkoṅ se pyaas bujhauṅ
   
   5
   Kitni hai bechain sakina, tere naaz uthane ko
-  Subh-o-shaam tarasti hai woh, tera dil behlane ko
-  Teri laadli behen sakina ka, main dil kaise behlaun
+  Subh o shaam tarasti hai woh, tera dil behlane ko
+  Teri laadli behen sakina ka, maiṅ dil kaise behlauṅ
 ---
 
 آ اصغر بن تیرے میں چین کہاں سے پاوں

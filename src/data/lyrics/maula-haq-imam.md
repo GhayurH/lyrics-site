@@ -16,56 +16,56 @@ romanLyrics: |-
   Wo Aabid-e-beemar tha
   Chalne se jo lachaar tha
   Aur shaam ka bazaar tha
-  Aur Mustafa ki betiyaan
+  Aur Mustafa ki betiyaaṅ
   Maula haq imam....
   
   2
   Shabbir ki wo laadli
   Sine pe jo shah ke pali
   Jiski abaa ban me jali
-  Mun per tamanchon ke nishaan
+  Mun per tamanchoṅ ke nishaan
   Maula haq imam....
   
   3
-  Wo zainab o kulsoom thin
-  Chaadar se jo mehroom thin
+  Wo zainab o kulsum thiṅ
+  Chaadar se jo mehrum thiṅ
   Na mehramon ke darmiyaan
-  Aur murtaza ki betiyaan
+  Aur murtaza ki betiyaaṅ
   Ghazi bawafa....
   
   4
   Wo bawafa abbas tha
-  dukhiyon ki jo eik aas tha
+  dukhiyoṅ ki jo eik aas tha
   Paani liya par na piya
-  Masoom ka ehsaas tha
+  Masum ka ehsaas tha
   Ghazi bawafa....
   
   5
   Ro kar kahe Qasim ki maan
-  Mara gaya Qasim jawaan
-  Ay laal mei dhundhun kahan
+  Mara gaya Qasim jawaaṅ
+  E laal mei dhundhuṅ kahaṅ
   mehndi teri sehra tera
   Maula haq imam....
   
   6
   Wo Asghar-e-besheer tha
-  Aur Hurmala ka teer tha
-  Pyasa ghala kyun kar kata
-  Royi zameen aur aasmaan
+  Aur Hurmala ka tir tha
+  Pyasa ghala kiun kar kata
+  Royi zamiṅ aur aasmaaṅ
   Maula haq imam....
   
   7
   Pyaase gale khanjar chale
   Chaadar chini khaime jale
   Abbas ke parcham tale
-  Roti rahin sedaniyan
+  Roti rahiṅ sedaniyaṅ
   Maula haq imam....
   
   8
   Sham-e-ghareeban chagayi
   Abid ko ghairat khaa gayi
   pehre pe Zainab aagayi
-  Abbas aur Akbar kahan
+  Abbas aur Akbar kahaṅ
   Maula haq imam....
 ---
 
