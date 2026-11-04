@@ -86,7 +86,9 @@ export function normalizeRomanMarkdown(content, path = "") {
         repeated++;
       }
     } else if (x2?.length) findings.push("Unresolved (x2) marker at Roman line " + (index + 1));
-    return s;
+    // YAML literal verses do not use Markdown hard-break whitespace.
+    // A modified line must never introduce a git diff --check failure.
+    return s.replace(/[ \t]+$/gu, "");
   });
   const rewrittenHead = [...head.slice(0, start + 1),
     ...updated.map((line, i) => original[i].startsWith("  ") ? "  " + line : line),
