@@ -13,11 +13,11 @@ coverAlt: "Cover image for Wo Khoon Ro Ke"
 published: true
 romanLyrics: |-
   Wo khun ro ke kehta raha zamanay se
-  Ridaeiṅ chino naa, logo mere gharanay se
+  Ridaeiṅ chino naa, logo mere gharane se
   
   1
   Sawal-e-aab pe sonay pe us ke rone pe
-  Wo maartay the, sakina ko her bahaanay se
+  Wo maarte the, sakina ko her bahaane se
   
   2
   Bulaey kis tarha abbas ko madad kai liyai
@@ -25,15 +25,15 @@ romanLyrics: |-
   
   3
   Sulaya jaata tha bayhosh ker ke durron se
-  Jagaya jata tha, abid ko taazianay se
+  Jagaya jata tha, abid ko taaziane se
   
   4
   Kuch is terha sar-e-kerbobala wo ujray the
-  Ke dar rahe haiṅ, abhi tak wo ghar basaanay se
+  Ke dar rahe haiṅ, abhi tak wo ghar basaane se
   
   5
   Kaha ye ganj-e-shahidan mei baap ke sar ne
-  Mujhai sakina, bulati hai qaid khaanay se
+  Mujhai sakina, bulati hai qaid khaane se
   
   6
   Rida-e-saani-e-zehra mei dhal gaya akbar
