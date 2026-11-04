@@ -22,7 +22,7 @@ jobs:
           const roots=['src/data/lyrics','src/data/basta/pages'];
           const files=(await Promise.all(roots.map(async root=> (await fs.readdir(root)).filter(p=>p.endsWith('.md')).map(p=>root+'/'+p)))).flat();
           const cases=new Map(), words=new Map(), totals={files:0,withRoman:0,aligned:0,romanLines:0,unmatched:0,englishAppendices:0};
-          const add=(code,path,line,roman,urdu='',limit=12)=>{
+          const add=(code,path,line,roman,urdu='',limit=80)=>{
             const item=cases.get(code)||{count:0,files:new Set(),examples:[]};
             item.count++;item.files.add(path);
             if(item.examples.length<limit)item.examples.push({path,line,roman:roman.trim().slice(0,160),urdu:urdu.trim().slice(0,160)});
@@ -60,10 +60,10 @@ jobs:
               if(us.length===rs.length){
                 for(let i=0;i<us.length;i++){
                   const w=us[i].normalize('NFC'),t=rs[i],k=w.replace(/[\u064b-\u065f\u0670]/gu,'');
-                  if(k.endsWith('ں')&&/n$/iu.test(t)&&!/[ṅṄ]$/u.test(t))add('aligned-noon-ghunna-not-dotted',file,n,t,w,6);
+                  if(k.endsWith('ں')&&/n$/iu.test(t)&&!/[ṅṄ]$/u.test(t))add('aligned-noon-ghunna-not-dotted',file,n,t,w,80);
                   if(k.endsWith('ن')&&/[ṅṄ]$/u.test(t))add('aligned-regular-noon-dotted',file,n,t,w,6);
-                  if(k.endsWith('ے')&&/(?:ay|ey)$/iu.test(t))add('aligned-urdu-ye-roman-ay-ey',file,n,t,w,8);
-                  if(k.includes('ڑ')&&/(?:[dD](?!h))/.test(t))add('aligned-urdu-reh-roman-d',file,n,t,w,5);
+                  if(k.endsWith('ے')&&/(?:ay|ey)$/iu.test(t))add('aligned-urdu-ye-roman-ay-ey',file,n,t,w,80);
+                  if(k.includes('ڑ')&&/(?:[dD](?!h))/.test(t))add('aligned-urdu-reh-roman-d',file,n,t,w,80);
                   if(k==='اے'&& !/^Ae$/iu.test(t))add('aligned-urdu-ae-not-Ae',file,n,t,w,12);
                   if(/^[\p{Script=Arabic}\p{M}]+$/u.test(w)){
                     const key=w.normalize('NFKC').replace(/[\u064b-\u065f\u0670]/gu,'');
@@ -73,7 +73,7 @@ jobs:
                   }
                 }
               }else if(us.some(s=>s.includes('ں'))){
-                if(/[ṅṄ]/u.test(s)===false)add('unaligned-no-dotted-n',file,n,s,u,6);
+                if(/[ṅṄ]/u.test(s)===false)add('unaligned-no-dotted-n',file,n,s,u,40);
               }
             };
             for(let i=0;i<rr.length;i++)check(rr[i].s,uu[i].s,start+rr[i].i+2);
