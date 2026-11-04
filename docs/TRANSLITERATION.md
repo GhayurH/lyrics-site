@@ -11,6 +11,7 @@ An intentionally untranscribed **whole Basta page** remains untranscribed. This 
 - Urdu **ے → e** in Urdu contexts: `bole`, `wale`, `mere`; actual Punjabi pronunciation is a separately reviewed exception.
 - Urdu **ڑ → r**. Aspirates and distinct consonants use `bh`, `ph`, `th`, `dh`, `kh`, `gh`, `jh`, `chh` where appropriate; preserve `q` for ق, `k` for ک, `z` for ز/ذ/ض/ظ, `s` for س/ث/ص.
 - Represent **ع** and **ء** as **a** in words where they are pronounced; apply this phonetic convention using the Urdu reading, rather than mechanically inserting an extra `a` in every word. Do not write scholarly apostrophe/ayn characters.
+- This convention also applies to Roman transcriptions of Arabic invocations and quoted Arabic lines. Remove scholarly ayn/hamza apostrophes only after checking the original word; retain normal quotation marks around genuinely quoted speech.
 - Distinguish **main** (I), **mein** (in), **kya** (what), **kiya** (did) by meaning, and preserve separately pronounced word forms.
 - **Kiun** (written **Kiuṅ** with Urdu nasal ں), never `kyun`. Canonical **Husain**, **Hasan**, **Bibi**. **Zehra** and **Zahra** are both legitimate when supported by the pronunciation of the *specific poem*; never globally replace one with the other.
 - The standalone Urdu vocative **اے** is **Ae** (or lowercase **ae** inside a lowercase verse); never standalone **E**, **Ay**, **Aye** or **Ey** for that word. Isolated Roman **e** can also indicate izafat and must be matched to the Urdu before replacement.
