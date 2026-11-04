@@ -5,6 +5,10 @@ export function normalizeRomanMarkdown(content, path = "") {
   const match = /^---\n([\s\S]*?)\n---(?:\n|$)/u.exec(content);
   if (!match) return { text: content, changed: false, findings: ["Missing YAML frontmatter"] };
   const head = match[1].split("\n");
+  // English-language appendices reproduce the same printed prose in both
+  // fields. They are not Urdu transliteration and must remain byte-identical.
+  if (/^contentKind:\s*english-appendix\s*$/mu.test(match[1]))
+    return { text: content, changed: false, findings };
   const body = content.slice(match[0].length);
   const start = head.findIndex(x => /^romanLyrics:\s*\|-\s*$/u.test(x));
   if (start < 0) {

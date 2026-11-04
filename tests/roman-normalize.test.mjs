@@ -43,3 +43,11 @@ test("long u and i remain standard even when Roman word counts differ", () => {
   const repeated = normalizeRomanMarkdown(md("بار بار", "baar-baar"));
   assert(repeated.text.includes("baar baar"));
 });
+
+test("English Basta appendices are exact untouched duplicates", () => {
+  const content = "---\npage: 471\ncontentKind: english-appendix\nromanLyrics: |-\n" +
+    "  Schoolbook example\n---\nSchoolbook example\n";
+  const result = normalizeRomanMarkdown(content, "src/data/basta/pages/471.md");
+  assert.equal(result.text, content);
+  assert.equal(result.changed, false);
+});
