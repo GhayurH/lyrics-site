@@ -89,3 +89,26 @@ jobs:
           for(const [category,data]of [...cases.entries()].sort((a,b)=>b[1].count-a[1].count))console.log('## CATEGORY '+category+' count='+data.count+' files='+data.files.size+'\n'+JSON.stringify(data.examples));
           console.log('## FREQUENT URDU TO ROMAN VARIANTS '+JSON.stringify(hist.slice(0,55)));
           NODE
+      - name: Preview normalized word-level changes without writing sources
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import { readFile, readdir } from 'node:fs/promises';
+          import { normalizeRomanMarkdown } from './scripts/lib/roman-normalize.mjs';
+          const sources=(await Promise.all(['src/data/lyrics','src/data/basta/pages'].map(async dir=>(await readdir(dir)).filter(x=>x.endsWith('.md')).map(x=>dir+'/'+x)))).flat();
+          const changes=[],categories={onlyN:0,retroflex:0,ye:0,mixed:0},samples=[];
+          for(const path of sources){
+            const prior=await readFile(path,'utf8');let next=prior,rounds=0;
+            while(rounds++<8){const r=normalizeRomanMarkdown(next,path);if(!r.changed)break;next=r.text}
+            if(next===prior)continue;changes.push(path);
+            const a=prior.split('\n'),b=next.split('\n');
+            for(let i=0;i<Math.max(a.length,b.length);i++)if(a[i]!==b[i]){
+              const old=a[i]||'',now=b[i]||'';
+              const onlyN=old.replaceAll('n','ṅ')===now || old.replaceAll('N','Ṅ')===now;
+              const type=onlyN?'onlyN': (/[dD]/.test(old)&&/[rR]/.test(now)&&old.length===now.length?'retroflex':(/[ye]/i.test(old)&&old.length>now.length?'ye':'mixed'));
+              categories[type]++;
+              if(samples.length<100 && (samples.length<50|| type!=='onlyN'))samples.push({path,line:i+1,old,now});
+            }
+          }
+          console.log('## NORMALIZER DRY RUN '+JSON.stringify({filesChanged:changes.length,categories,samples}));
+          NODE
