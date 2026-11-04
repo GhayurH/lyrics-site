@@ -51,3 +51,15 @@ test("English Basta appendices are exact untouched duplicates", () => {
   assert.equal(result.text, content);
   assert.equal(result.changed, false);
 });
+
+test("normal noon is never nasalized by misleading token positions", () => {
+  const safe = md("جو دعا کی تھی علی نے اس کے مقصد کی آمین",
+    "Jo dua ki thi Ali ne us ke maqsad ki amin");
+  const r = normalizeRomanMarkdown(safe);
+  assert(r.text.includes("ki amin"), "آمین ends in normal ن");
+  assert(!r.text.includes("amiṅ"));
+  const mixed = md("کہاں ہے میرا حسین", "Kahan hai mera Husain");
+  const mixedResult = normalizeRomanMarkdown(mixed);
+  assert(mixedResult.text.includes("Kahaṅ hai mera Husain"));
+  assert(!mixedResult.text.includes("Husaiṅ"));
+});

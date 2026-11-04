@@ -36,6 +36,51 @@ export function normalizeRomanMarkdown(content, path = "") {
         ? replacement[0].toUpperCase() + replacement.slice(1) : replacement;
   const plain = s => s.replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/gu, "")
     .replace(/[يى]/gu, "ی");
+
+  /** Assign nasal n only to matching Urdu words ending in noon ghunna.
+   * Roman/Urdu token counts often differ at izafat and compounds, so positional
+   * indexing alone must never turn an ordinary ن into nasal ṅ. */
+  function reconcileNasals(line, urdu) {
+    const consonants = {
+      "ب":"b","پ":"p","ت":"t","ٹ":"t","ث":"s","ج":"j","چ":"ch",
+      "ح":"h","خ":"kh","د":"d","ڈ":"d","ذ":"z","ر":"r","ڑ":"r",
+      "ز":"z","ژ":"zh","س":"s","ش":"sh","ص":"s","ض":"z",
+      "ط":"t","ظ":"z","غ":"gh","ف":"f","ق":"q","ک":"k","ك":"k",
+      "گ":"g","ل":"l","م":"m","ن":"n","ں":"n","ہ":"h",
+      "ھ":"h","ۃ":"h","ة":"h",
+    };
+    const uWords = urdu.match(/[\p{Script=Arabic}\p{M}\u200C]+/gu) || [];
+    const skeletonUrdu = word => [...plain(word)].map(ch => consonants[ch] || "").join("");
+    const skeletonRoman = word => word.toLowerCase().replaceAll("ṅ", "n")
+      .replace(/[^a-z]/gu, "").replace(/[aeiouy]/gu, "");
+    const latin = [...line.matchAll(/[A-Za-zṅṄ]+(?:-[A-Za-zṅṄ]+)*/gu)]
+      .filter(m => {
+        // Explicit <u>...</u> emphasis is not part of the transcribed words.
+        const prefix = line.slice(0, m.index);
+        return prefix.lastIndexOf("<") <= prefix.lastIndexOf(">");
+      });
+    const edits = [];
+    latin.forEach((m, j) => {
+      const raw = m[0], plainWord = raw.replace(/ṅ/gu, "n").replace(/Ṅ/gu, "N");
+      if (!/n$/iu.test(plainWord) && !/[ṅṄ]/u.test(raw)) return;
+      const key = skeletonRoman(plainWord);
+      let closest = -1, distance = Infinity;
+      if (key.length >= 2) uWords.forEach((uWord, i) => {
+        if (skeletonUrdu(uWord) !== key) return;
+        const gap = Math.abs((j + .5) / latin.length - (i + .5) / uWords.length);
+        if (gap < distance) { closest = i; distance = gap; }
+      });
+      const sourceNasal = closest >= 0 && plain(uWords[closest]).endsWith("ں");
+      const replacement = sourceNasal
+        ? plainWord.replace(/n$/iu, ch => ch === "N" ? "Ṅ" : "ṅ")
+        : plainWord;
+      if (replacement !== raw) edits.push({ start: m.index, end: m.index + raw.length, value: replacement });
+    });
+    for (const e of edits.reverse())
+      line = line.slice(0, e.start) + e.value + line.slice(e.end);
+    return line;
+  }
+
   function sourceAware(line, urdu) {
     let s = line.replace(/\b(hussain|hassan|kyun)\b/giu, word =>
       cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()]));
@@ -86,7 +131,7 @@ export function normalizeRomanMarkdown(content, path = "") {
       ["ہوں", /\b(?:hoon|hun)\b/giu, "huṅ"],
       ["ہاں", /\bhaan\b/giu, "haaṅ"],
     ]) if (u.includes(urduToken)) s = s.replace(latin, word => cap(word, corrected));
-    return s;
+    return reconcileNasals(s, u);
   }
   let repeated = 0;
   const updated = roman.map((line, index) => {
