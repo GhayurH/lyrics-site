@@ -18,7 +18,10 @@
     "source:sync": "node scripts/source-workflow.mjs --sync",
     "content:review": "node --experimental-strip-types scripts/review-content.mjs",
     "perf:assets": "node scripts/report-build-assets.mjs",
-    "perf:browser": "playwright test --grep @perf"
+    "perf:browser": "playwright test --grep @perf",
+    "roman:sync": "node scripts/normalize-roman.mjs --write",
+    "roman:check": "node scripts/normalize-roman.mjs --check",
+    "roman:review": "node scripts/normalize-roman.mjs --report"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
