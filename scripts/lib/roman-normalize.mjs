@@ -238,7 +238,7 @@ export function normalizeRomanMarkdown(content, path = "") {
       [/نزع/u, /\bnaz['’](?=\s|$)/giu, "naza"],
       [/لعین|لعیں/u, /\bla['’]in/giu, "lain"],
       [/ساعت/u, /\bsaa['’]at\b/giu, "saaat"],
-      [/سَرِيعَ|سَرِیعَ/u, /\bsari['’]ar-riza\b/giu, "saria-r-riza"],
+      [/سَرِيعَ|سَرِیعَ/u, /\bsari['’]ar-riza\b/giu, "saria-r-Riza"],
       [/الدُّعَاءَ/u, /\bdu['’]a\b/giu, "duaa"],
       [/فَعَّالٌ/u, /\bfa['’]{2}alun\b/giu, "faaalun"],
       [/تَشَاءُ/u, /\btasha['’](?=\s|$)/giu, "tashaa"],
