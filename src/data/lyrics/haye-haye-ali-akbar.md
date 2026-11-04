@@ -41,7 +41,7 @@ romanLyrics: |-
   Ham shakal e payambar
   
   6
-  Thehro keh maiṅ atharwiṅ mannat tu barha duṅ
+  Thehro keh maiṅ atharwin mannat tu barha duṅ
   Phir le ke balaeiṅ tujhey jine ki dua duṅ
   Sadqe ho yeh madar
   
@@ -52,11 +52,11 @@ romanLyrics: |-
   
   8
   Tum hichkiya'n le le ke jo dam tor rahe ho
-  Mun maaṅ se hamesha ke liye mor rahe ho
+  Muṅ maaṅ se hamesha ke liye mor rahe ho
   Kiuṅ ruthe ho dilbar
   
   9
-  Aayen jo hamein lutne kheme mein sitamgar
+  Aayen jo hameiṅ lutne kheme meiṅ sitamgar
   Maa de gi sadayeṅ ali akbar ali akbar
   Chin jayegi chadar
   

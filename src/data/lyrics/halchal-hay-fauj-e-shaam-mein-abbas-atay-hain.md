@@ -12,7 +12,7 @@ cover: "/images/lyrics/halchal-hay-fauj-e-shaam-mein-abbas-atay-hain.png"
 coverAlt: "Cover image for Halchal Hay Fauj E Shaam Mein Abbas Atay Hain"
 published: true
 romanLyrics: |-
-  Halchal hay fauj e shaam mein Abbas atay haiṅ
+  Halchal hay fauj e shaam meiṅ Abbas atay haiṅ
   
   Tiroṅ pe tir naizoṅ pe naize chalaty haiṅ
   

@@ -23,11 +23,11 @@ romanLyrics: |-
   2
   Ek Chand Tha Badli Meiṅ Chhupta Tha Nikalta Tha
   Parda Dar-e-Khaima Ka Uthta Kabhi Girta Tha
-  Woh Khaima-e-Laila Se Haye Rukhsat-e-Akbar Ko Bhuli Nahi Mein
+  Woh Khaima-e-Laila Se Haye Rukhsat-e-Akbar Ko Bhuli Nahi Meiṅ
   
   3
   Yaad Aata Hai Dulhan Ko Ghash Kis Tarha Aaye The
-  Ek Gathri Shah-e-Wala Jab Kandhon Pe Laye The
+  Ek Gathri Shah-e-Wala Jab Kandhoṅ Pe Laye The
   Us Laash Ki Gathri Ko Us Khuṅ Bhari Chadar Ko Bhuli Nahi Meiṅ
   
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
   
   7
   Masum Sakina Ko Barhte Hue Nezoṅ Ko
-  Riste Huay Gaalon Ko beRehm Tamachon Ko
+  Riste Huay Gaaloṅ Ko beRehm Tamachon Ko
   Dukhte Hue Kaanoṅ Ko Khinchte Hue Gohar Ko Bhuli Nahi Meiṅ
   
   8

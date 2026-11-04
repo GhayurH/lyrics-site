@@ -35,12 +35,12 @@ romanLyrics: |-
   
   4
   Allah mere Allah ye duhaai hai duhaai
-  Ummat ne Sayyada ki yuṅ luti hai kamai
+  Ummat ne Sayyada ki yun luti hai kamai
   Aik behen ne bhai ka lahu muh pe mala hai
   Maaṅ dekh rahi hai
   
   5
-  Socha tha ke ji legi wo yaadon ke sahare
+  Socha tha ke ji legi wo yaadoṅ ke sahare
   Ummat ne jala daale hai armaan hi saare
   Asghar tera jhula tmra kurta bhi jala hai
   Maaṅ dekh rahi hai

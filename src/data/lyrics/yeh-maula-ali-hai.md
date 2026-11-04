@@ -56,7 +56,7 @@ romanLyrics: |-
   Yeh mai-e wala hum ne bari shaan se pi hai
   Hum se jo bachi thi use Jibrail ne pi hai
   Misam ne ise charh ke sar-e daar pe pi hai
-  Shab roz Abu Zar ne jila-watani mein pi hai
+  Shab roz Abu Zar ne jila-watani meiṅ pi hai
   Is maikada-e Kausar ka faqat ek dhani hai
   Ye Maula Ali Maula Ali Maula Ali hai
 

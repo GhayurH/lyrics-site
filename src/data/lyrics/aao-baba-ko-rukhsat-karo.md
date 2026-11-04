@@ -53,7 +53,7 @@ romanLyrics: |-
   Keh ke yeh baat Shabbir rone lage
   Aur phir haath sine pe rakh kar kaha
   Aisa na ho kabhi, baap uthaye koi
-  Apne kandhe pe mayyat jawaṅ laal ki
+  Apne kandhe pe mayyat jawan laal ki
 
   5
   Yaad hai tumko baba ne jate hue
@@ -82,10 +82,10 @@ romanLyrics: |-
   8
   Baat behnoṅ ki aayi to Ghazi uthe
   Apne baba ki mayyat ki janib chale
-  Aa ke baba ke qadmon ka bosa liya
+  Aa ke baba ke qadmoṅ ka bosa liya
   E Raza haal Zishan kaise likhe
   Jab janaza utha, ghar meiṅ kohraam tha
-  Ro ke Abbas ne bhaiyon se kaha
+  Ro ke Abbas ne bhaiyoṅ se kaha
 
 ---
 

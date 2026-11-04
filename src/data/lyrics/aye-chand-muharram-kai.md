@@ -28,31 +28,31 @@ romanLyrics: |-
   3
   Viran gharoṅ meiṅ na, isse nind hai aati
   Akbar ki judai hai, isse khun rulati
-  Qadmon ke nishan dhanp ke, bethi hai sar-e-raah.
+  Qadmoṅ ke nishaṅ dhanp ke, bethi hai sar-e-raah.
   
   4
   Gin gin ke jo Sughra ne, yeh din haiṅ guzare
-  Zinda hai tu Akbar ke, wadoṅ ke sahare
+  Zinda hai tu Akbar ke, wadon ke sahare
   Din raat tarapti hai, isse aur na tarpa.
   
   5
   Bhayya ki judai meiṅ, pareshan hai rehti
   Har roz yeh nana ko, ro ro ke hai kehti
-  Akbar na mila nana, main mar jaaungi tanha.
+  Akbar na mila nana, maiṅ mar jaaungi tanha.
   
   6
   Qasid ko diya khat meiṅ, yeh paigham likhaa ke
   Ik bar tu miljaa mujhe, sine se laga ke
-  Pathraati huwi nazrein, kab dekheingi chehra.
+  Pathraati huwi nazreiṅ, kab dekheingi chehra.
   
   7
   Waadaa jo kiya behan ko, sine se laga ke
-  Main shadi karon ga to, tere paas hi aa ke
-  Main saat muharram ko, lautunga na ghabra.
+  Maiṅ shadi karoṅ ga to, tere paas hi aa ke
+  Maiṅ saat muharram ko, lautunga na ghabra.
   
   8
   Rone nahi dete mujhe, ratoṅ ko musalmaaṅ
-  Bemari se behaal huṅ, kuch roz ki mehmaan
+  Bemari se behaal huṅ, kuch roz ki mehmaaṅ
   Har simt se hai mujh ko, ab maut ne ghaira.
   
   9

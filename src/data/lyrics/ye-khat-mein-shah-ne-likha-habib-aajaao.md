@@ -22,7 +22,7 @@ romanLyrics: |-
   
   2
   Lagaao is sey bhi andaazey meri ghurbat ke
-  Jahaan pey ibn-e-Ali likhna tha wahaan mein ne
+  Jahaaṅ pey ibn-e-Ali likhna tha wahaan meiṅ ne
   Diya hai maaṅ ka hawala, Habib aajaao
   
   3
@@ -33,7 +33,7 @@ romanLyrics: |-
   4
   Wo jab ye sunti hai Kufe se aarahey haiṅ shaqi
   To puchti hai hamaara bhi aayega koi
-  Duaaein deygi Sakina, Habib aajaao
+  Duaaeiṅ deygi Sakina, Habib aajaao
   
   5
   Gawara kar nahiṅ sakti Husain ki ghairat
@@ -52,7 +52,7 @@ romanLyrics: |-
   
   8
   Chamaktey chaand ki humko bhi did hojaaye
-  Tum aao to merey bachon mein Eid hojaaye
+  Tum aao to merey bachoṅ meiṅ Eid hojaaye
   Bohat udaas hai kunba Habib aajaao
   
   9
@@ -62,7 +62,7 @@ romanLyrics: |-
   
   10
   Bahan ney usko takallum Jo bhai samjhaa tha
-  Pukaari sham-e-ghariban mein Thaaniy-e-Zehra
+  Pukaari sham-e-ghariban meiṅ Thaaniy-e-Zehra
   Hamaara lut'taa hai pardaa Habib aajaao
 ---
 

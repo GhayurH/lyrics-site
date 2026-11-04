@@ -33,7 +33,7 @@ romanLyrics: |-
   
   4
   akh wich bhira de hai tir lagiya
-  raj raj ke faujaṅ jiweṅ aanr lutya
+  raj raj ke faujaṅ jiwen aanr lutya
   na dekh sagda, ghazi da haal ae
   
   5
@@ -44,7 +44,7 @@ romanLyrics: |-
   6
   asghar kuṅ pani da ghut na milya
   gardan te hurmal da tir chalya
-  mawaṅ te kus gaye, che mah da baal ae
+  mawan te kus gaye, che mah da baal ae
   
   7
   shabbir aakha chadar hataa chaa

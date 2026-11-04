@@ -17,7 +17,7 @@ romanLyrics: |-
   Fard hai eik zamana ise lashkar bole
   
   2
-  Gaarh kar run mein Alam, Faatah-e-khyber bole
+  Gaarh kar run meiṅ Alam, Faatah-e-khyber bole
   Hai Ali naam mera maaṅ mujhe Haider bole
   
   3
@@ -29,12 +29,12 @@ romanLyrics: |-
   haye marhab hai kahaṅ ab koi antar bole
   
   5
-  *aaj to arsh-e-mualla pe hai rindon ka dimaagh
+  *aaj to arsh-e-mualla pe hai rindoṅ ka dimaagh
   aaj pine ke liye ke liye saqi-e-kauthar bole
   
   6
   *Baakhuda is meiṅ nusairi ki nahiṅ koyi khataa
-  Madh-e-Hyder mein payambar haiṅ sambhal kar bole
+  Madh-e-Hyder meiṅ payambar haiṅ sambhal kar bole
   
   7
   ye zacha khaana-e-farzand-e-abu talib hai
@@ -49,7 +49,7 @@ romanLyrics: |-
   muskurati huwi diwaar barhi dar bole
   
   10
-  Hamil-e-wahi-e-illahi ne chusaayi hai zaban
+  Hamil-e-wahi-e-illahi ne chusaayi hai zabaṅ
   Ilm ka shehr ise Ilm ka hai dar bole
   
   11

@@ -15,15 +15,15 @@ romanLyrics: |-
   Allah Hu, Allah Hu, Allah Hu
   
   1
-  Chand Taron Ki Shan-e-Jamali Mein Tu
-  Sabz Pattoṅ Meiṅ Pholoṅ Ki Lali Meiṅ Tu
+  Chand Taroṅ Ki Shan-e-Jamali Meiṅ Tu
+  Sabz Patton Meiṅ Pholoṅ Ki Lali Meiṅ Tu
   Khoshe Khoshe Meiṅ Tu, Bali Bali Meiṅ Tu
   Tehni Tehni Meiṅ Tu, Dali Dali Meiṅ Tu
   Bute Bute Meiṅ Gul, Gul Meiṅ Bu, Bu Meiṅ Tu
   Allah Hu, Allah Hu, Allah Hu
   
   2
-  Youṅ Tu Har Ik Nabi Tujh Se Mansub Hai
+  Youn Tu Har Ik Nabi Tujh Se Mansub Hai
   Tera Bheja Howa Hai Bohat Khub Hai
   Haaṅ Magar Un Meiṅ Ik Tera Mehbub Hai
   Jis Ki Har Ik Ada Tujh Ko Margub Hai
@@ -33,8 +33,8 @@ romanLyrics: |-
   3
   Dakhl Mumkin Nahiṅ Tere Asrar Meiṅ
   Kis Ko Yara Bhala Teri Sarkar Meiṅ
-  Kis Ko Taab-e-Sukhan Tere Darbar Mein
-  Husn-e-Yousuf Sa Bik Jaye Bazar Mein
+  Kis Ko Taab-e-Sukhan Tere Darbar Meiṅ
+  Husn-e-Yousuf Sa Bik Jaye Bazar Meiṅ
   Aur Nafs-e-Nabi Ka Kharidar Tu
   Allah Hu, Allah Hu, Allah Hu
   

@@ -12,7 +12,7 @@ cover: "/images/lyrics/duaein-roke-karta-tha-ridayen-maangne-wala.png"
 coverAlt: "Cover image for Duaein Roke Karta Tha Ridayen Maangne Wala"
 published: true
 romanLyrics: |-
-  Duaein Roke Karta Tha Ridayen Maangne Wala
+  Duaeiṅ Roke Karta Tha Ridayeṅ Maangne Wala
   Kahiṅ Mil Jaaye Nah Yah Rab Koi Pehchanne Wala
   
   1
@@ -28,7 +28,7 @@ romanLyrics: |-
   Nahiṅ Zinda Koi Zainab Ko Bhi Maa Bolne Wala
   
   4
-  Sabhi Qaidi Haiṅ Yah Rab Bhejde Ab Aasmanon Se
+  Sabhi Qaidi Haiṅ Yah Rab Bhejde Ab Aasmanoṅ Se
   Koi Sajjad Ki Aankhoṅ Se Aansu Pochne Wala
   
   5

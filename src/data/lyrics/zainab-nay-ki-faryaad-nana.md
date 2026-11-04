@@ -25,7 +25,7 @@ romanLyrics: |-
   
   3
   Tauq o Salasil Gardan Meiṅ Daale, Zanjir o Bairi Hathoṅ Mei Pehne
-  Chalte Rahe Yuṅ Sajjad Nana, Sajjad Nana Sajjad Nana
+  Chalte Rahe Yun Sajjad Nana, Sajjad Nana Sajjad Nana
   
   4
   Akbar Nahieṅ Hai Asghar Nahieṅ Hai, Qasim Nahieṅ Hai Sarwar Nahieṅ Hai
@@ -36,7 +36,7 @@ romanLyrics: |-
   aur Hum Houe Haiṅ Azaad Nana, Azaad Nana Azaad Nana
   
   6
-  Chader Nahien Thi Afsos Ser Per, Hum Bayrida The Shirin Ke Dar Per
+  Chader Nahieṅ Thi Afsos Ser Per, Hum Bayrida The Shirin Ke Dar Per
   Kaisi Thi haaye Uftaad Nana, Uftaad Nana Uftaad Nana
   
   7
@@ -44,11 +44,11 @@ romanLyrics: |-
   Karbobala Hai Abaad Nana, Abaad Nana Abaad Nana
   
   8
-  Nana Tumhare Tathir Wale, Ummat Ke Hathon Mein Bayrida The
+  Nana Tumhare Tathir Wale, Ummat Ke Hathoṅ Meiṅ Bayrida The
   Koi To Kerta Imdad Nana, Imdad Nana Imdad Nana
   
   9
-  Hiltha Tha Roza Hasnain o Qaiser, Zainab Jo Bolin Qabr-e-Nabi Per
+  Hiltha Tha Roza Hasnain o Qaiser, Zainab Jo Boliṅ Qabr-e-Nabi Per
   Sunlay Humari Rudaad Nana, Rudaad Nana Rudaad Nana
 ---
 زینبؑ نے کی فریاد نانا، فریاد نانا فریاد نانا

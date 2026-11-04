@@ -44,17 +44,17 @@ romanLyrics: |-
   Aqa maiṅ huṅ sharminda, mere haath nahiṅ hai
   
   6
-  Godi main Sakina ko uthauga main kaise
+  Godi maiṅ Sakina ko uthauga maiṅ kaise
   Kis tarha nibhaunga ghulaami ke tarike
   Ye kam to nahiṅ sadma, mere haath nahiṅ haiṅ
   
   7
-  Main zaamin-e-chaadar tha, muhaafiz tha haram ka
+  Maiṅ zaamin-e-chaadar tha, muhaafiz tha haram ka
   Ab zinda bhi reh jauṅ to kya faida Aaqa
   Zainab ko bata dena, mere haath nahiṅ haiṅ
   
   8
-  Jab zin se zamin ki taraf aane laga maula
+  Jab ziṅ se zamiṅ ki taraf aane laga maula
   Na koi madadgaar tha, na koi sahara
   Us waqt khayaal aya, mere haath nahiṅ haiṅ
   

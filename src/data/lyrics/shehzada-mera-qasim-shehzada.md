@@ -27,7 +27,7 @@ romanLyrics: |-
   Qasim Shehzada
   
   2
-  Hai is ki ragon mein khun-e-Abutalib
+  Hai is ki ragon meiṅ khun-e-Abutalib
   Ye sher rahega har ek pe ghalib
   
   Allah ka din bachane,
@@ -67,7 +67,7 @@ romanLyrics: |-
   Qasim Shehzada
   
   7
-  Yun dasht-e-bala mein, barpa huyi shadi
+  Yun dasht-e-bala meiṅ, barpa huyi shadi
   Dulha bhi pyaasa. baraat bhi pyaasi
   
   Allah ka din bachane,

@@ -30,7 +30,7 @@ romanLyrics: |-
 
   4
   Jo un se bughz rakhega, bari mushkil se marega
-  Yahan bhi haath malega, wahan bhi haath malega
+  Yahaṅ bhi haath malega, wahan bhi haath malega
   Hai bakhshish ka darwaza, Abu Talib ka beta
 
   5
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   6
   Mera iman Ali hai, meri pehchan Ali hai
-  Zamane waloṅ sun lo, mera Sultan Ali hai
+  Zamane walon sun lo, mera Sultan Ali hai
   Shehenshahi ka idara, Abu Talib ka beta
 
   7

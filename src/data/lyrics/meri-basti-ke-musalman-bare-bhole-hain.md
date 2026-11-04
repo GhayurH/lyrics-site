@@ -37,11 +37,11 @@ romanLyrics: |-
   Naam hai maulvi ramzan bare bhole haiṅ
   
   7
-  bughz e haider mein suwe naar chale jaate haiṅ
+  bughz e haider meiṅ suwe naar chale jaate haiṅ
   haye bechare musalmaan bare bhole haiṅ
   
   8
-  mein likhun unka taarruf ye mere bas mein kahan
+  meiṅ likhuṅ unka taarruf ye mere bas meiṅ kahaṅ
   unki hai bas ye pehchan bare bhole haiṅ
   
   9
@@ -49,7 +49,7 @@ romanLyrics: |-
   Yeh tarashe hue Bhagwan bare bhole haiṅ
   
   10
-  nargha-e-kufr mein mehbub-e-khuda ko tanha
+  nargha-e-kufr meiṅ mehbub-e-khuda ko tanha
   chor aaye sar-e-maidan bare bhole haiṅ
   
   11

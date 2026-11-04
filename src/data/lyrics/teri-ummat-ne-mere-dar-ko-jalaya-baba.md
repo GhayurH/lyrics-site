@@ -17,7 +17,7 @@ romanLyrics: |-
   
   1
   Raakh Thi, Shole The, Sehme Hue Bache Ya Dhuaṅ
-  Mere Aangan Mein Tha Ek Shaam-e-Ghariban Ka Samaan
+  Mere Aangan Meiṅ Tha Ek Shaam-e-Ghariban Ka Samaaṅ
   Dar Hata Kar Mujhe Fizza Ne Uthaya Baba
   
   2
@@ -42,17 +42,17 @@ romanLyrics: |-
   
   6
   Kaun Sa Dar Hai Jahaṅ Aap Ki Beti Na Gayi
-  Baat Sunna To Kuja, Yuṅ Hui Izzat Meri
+  Baat Sunna To Kuja, Yun Hui Izzat Meri
   Koi Darwaze Se Bahar Nahi Aaya Baba
   
   7
-  Khud Yeh Dekha Hai Tere Shehr Ki Diwaroṅ Ne
+  Khud Yeh Dekha Hai Tere Shehr Ki Diwaron Ne
   Aisi Ghurbat Thi Ke Haathoṅ Meiṅ Sitamgaaroṅ Ne
-  Rassiyaṅ Baandh Ke Haider Ko Phiraya Baba
+  Rassiyan Baandh Ke Haider Ko Phiraya Baba
   
   8
   Jis Jagah Aap Ne Ruk Ruk Ke Ijazat Maangi
-  Wahaṅ Ghustaakh Musalmano Ne Baiat Maangi
+  Wahan Ghustaakh Musalmano Ne Baiat Maangi
   Koi Shole To Koi Lakriyaṅ Laya Baba
   
   9

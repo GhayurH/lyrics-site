@@ -32,7 +32,7 @@ romanLyrics: |-
   Galoṅ ko tegh ka pani pila ke dam luṅ ga
   Ali ki yaad jahaṅ ko dila ke dam luṅ ga
   Charagh-e fatah-e Husaini jala ke dam luṅ ga
-  Sitamgaron ko jahan se mita ke dam lun ga
+  Sitamgaron ko jahaṅ se mita ke dam luṅ ga
   Bahaduri ke liye naqsha-e kamal huṅ maiṅ
   Ali ka nur-e nazar huṅ, Hasan ka laal huṅ maiṅ
 

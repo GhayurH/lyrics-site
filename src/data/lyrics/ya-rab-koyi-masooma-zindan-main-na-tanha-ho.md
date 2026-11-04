@@ -24,7 +24,7 @@ romanLyrics: |-
   Jaise Ke Sakina Ko, Har Zindaṅ Ro Raha Ho
   
   3
-  Takraye Na Woh Kiuṅ Kar, Zindan Ki Diwaroṅ Se
+  Takraye Na Woh Kiuṅ Kar, Zindan Ki Diwaron Se
   Bhai Se Aur Phuphi Se, Jisko Juda Kiya Ho
   
   4

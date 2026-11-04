@@ -23,13 +23,13 @@ romanLyrics: |-
   Shabbir ki wo laadli
   Sine pe jo shah ke pali
   Jiski abaa ban me jali
-  Mun per tamanchoṅ ke nishaan
+  Mun per tamanchon ke nishaan
   Maula haq imam....
   
   3
   Wo zainab o kulsum thiṅ
   Chaadar se jo mehrum thiṅ
-  Na mehramon ke darmiyaan
+  Na mehramon ke darmiyaaṅ
   Aur murtaza ki betiyaaṅ
   Ghazi bawafa....
   
@@ -41,9 +41,9 @@ romanLyrics: |-
   Ghazi bawafa....
   
   5
-  Ro kar kahe Qasim ki maan
-  Mara gaya Qasim jawaaṅ
-  E laal mei dhundhuṅ kahaṅ
+  Ro kar kahe Qasim ki maaṅ
+  Mara gaya Qasim jawaan
+  E laal mei dhundhun kahaṅ
   mehndi teri sehra tera
   Maula haq imam....
   

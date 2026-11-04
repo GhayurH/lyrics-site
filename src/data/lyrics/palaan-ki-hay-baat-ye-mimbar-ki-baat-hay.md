@@ -16,7 +16,7 @@ romanLyrics: |-
   Maydan-e-Khum wilayat-e-Haidar ki baat hai
   
   1
-  Jibril laykay jao ye balligh ki ayatein
+  Jibril laykay jao ye balligh ki ayateiṅ
   Kehdo ke ab ye kaare Payambar ki baat hai
   
   2
@@ -48,7 +48,7 @@ romanLyrics: |-
   Meri nahi ye Sura-e-Kawsar ki baat hai
   
   9
-  Baade Ghadir bazm-e-saqifa mein baithna
+  Baade Ghadir bazm-e-saqifa meiṅ baithna
   Aawaragi-e-fikar hay yay shar ki baat hai
 ---
 

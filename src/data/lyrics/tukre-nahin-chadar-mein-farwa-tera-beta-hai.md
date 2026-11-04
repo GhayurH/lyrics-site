@@ -22,7 +22,7 @@ romanLyrics: |-
   Par mil nahi paya hai
   
   2
-  Tukron mein badan hoker, maidan me phela hai
+  Tukroṅ meiṅ badan hoker, maidan me phela hai
   Tarikh meiṅ dunya ki, ye pehla janaza hai
   Naa puch ye gathri meiṅ
   Kis terha samaaya hai
@@ -35,7 +35,7 @@ romanLyrics: |-
   
   4
   Qasim maiṅ teri maa ko, kis tarhan se batlaoṅ
-  Ye hi hay tera beta, kaisay usay samjhaon
+  Ye hi hay tera beta, kaisay usay samjhaoṅ
   Ye soch ke ankhoṅ se
   Khun Sheh ne bahaya he
   

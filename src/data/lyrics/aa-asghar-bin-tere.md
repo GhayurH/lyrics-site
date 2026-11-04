@@ -13,7 +13,7 @@ coverAlt: "Cover image for Aa Asghar Bin Tere"
 published: true
 romanLyrics: |-
   Aa Asghar bin tere, mai chayn kahaṅ se paauṅ
-  Aa laut ke aaja laal mere, ji bhar ke naaz uthaun
+  Aa laut ke aaja laal mere, ji bhar ke naaz uthauṅ
   
   1
   Meri aankh ka taara hai tu, mujhko jaan se pyaara hai
@@ -22,13 +22,13 @@ romanLyrics: |-
   
   2
   Teri wo masum adayeiṅ, teri yaad dilati haiṅ
-  Tere pyaar ki wo sab baatein, mujhko bohot rulati haiṅ
+  Tere pyaar ki wo sab baateiṅ, mujhko bohot rulati haiṅ
   Maiṅ teri judayi meiṅ beta, ro ro ke mar na jaauṅ
   
   3
   Loriyoṅ wale ye to tere, naaz uthane ke din the
   Aankhoṅ meiṅ teri khushiyoṅ ke, khwab sajane ke din the
-  Aa laut ke Asghar aa beta, tera kurta mai badlaun
+  Aa laut ke Asghar aa beta, tera kurta mai badlauṅ
   
   4
   Bhul nahi sakti maaṅ Asghar, pyaase honth tere beta

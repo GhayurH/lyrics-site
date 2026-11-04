@@ -13,7 +13,7 @@ coverAlt: "Cover image for Khutba E Moula Abbas"
 published: true
 romanLyrics: |-
   1
-  Kahin hurmat Khuda ke ghar ki na pamaal ho jaye
+  Kahiṅ hurmat Khuda ke ghar ki na pamaal ho jaye
   Tabhi farzand-e-Kaaba Hajj ko umre se badal aaye
   Husain Ibn-e-Ali se taalib-e-bait jo dar aaye
   Ali ka sher bhikra ghaz-se-maathe pe bal aaye
@@ -23,13 +23,13 @@ romanLyrics: |-
   2
   Sabhi hamd o sana uski k jo hai Khaaliq-e-Akbar
   Zacha khaana mere Baba ka ban jaata hai jis ka ghar
-  Ye iton ka makaan kaaba bana jab aa gye Haider
+  Ye iton ka makaaṅ kaaba bana jab aa gye Haider
   Aur Sadaf ki qadr o qimat kuchh nahi hoti be gohar
-  Ye qibla gaah-e-aalam asal mein tathir ka ghar hai
+  Ye qibla gaah-e-aalam asal meiṅ tathir ka ghar hai
   Wirasat hai mere ajdaad ki… Shabbir ka ghar hai
 
   3
-  Aray o kafiron roka hai jin ka raasta tumne
+  Aray o kafiroṅ roka hai jin ka raasta tumne
   Hai inke qurbate nazdiktar Allah ke ghar se
   Agar maabud ki marzi nahi hoti to khud badh ke
   Ye hajr-e-Aswad kaaba mere Moula ke le bose
@@ -38,23 +38,23 @@ romanLyrics: |-
 
   4
   Agar marzi-e-Haq mansha mere Moula ki na hoti
-  Uqaab-e-Hashmi ban kar karun parwaaz main aisi
-  Parinde jitne urte haiṅ hawaoṅ meiṅ ye baiat ki
+  Uqaab-e-Hashmi ban kar karuṅ parwaaz maiṅ aisi
+  Parinde jitne urte haiṅ hawaon meiṅ ye baiat ki
   Gireiṅ kat kat ke reti par bache na koi bhi baaqi
   Husain Ibn-e-Ali ke waaste sar ko kata dunga
   Jo uthi aankh Aaqa ki taraf to noch daalunga
 
   5
   Are u buzdiloṅ tm maut se kis ko darate ho
-  Hame tegho sina tiro kama kyn kar dikhate ho
+  Hame tegho sina tiro kama kyṅ kar dikhate ho
   Bani hashim ki jurrat aur Shujaet azmate ho
   Ali ke sher ko lalkaar kar ghairat dilate ho
   Saja rakhte haiṅ par le maut ko ham apni rahuṅ meiṅ
   Hamare ghar ke bache khelte haiṅ iski bahoṅ meiṅ
 
   6
-  Kahan woh bad-nasab faasiq sharabi-gasib -o-makkaar
-  Kahan Aali nasab aur chashma-e-kosar ka yeh sardar
+  Kahaṅ woh bad-nasab faasiq sharabi-gasib -o-makkaar
+  Kahaṅ Aali nasab aur chashma-e-kosar ka yeh sardar
   Zara socho ke kis ka ghar raha baad o bad kirdaar
   Utara kis ke ghar Allah ne Quran sa shaahkaar
   Burayi ka sarapa woh yeh sachayi ka paiker hai
@@ -63,7 +63,7 @@ romanLyrics: |-
   7
   Chali rasam jahalat phir Quraishi hum sifat tum se
   Woh pyase Mustafa ke khun ke the tum naawase ke
-  Na kar paye jafa Ahd-e-Ali mein ashqiya jaise
+  Na kar paye jafa Ahd-e-Ali meiṅ ashqiya jaise
   Hai zinda jab talak Abbas… tum kuchh kar nahi sakte
   Koi hasil nahi mansuba e batil ka ahle shar
   Khuda ka ghaiz tmpar aur tmhari saari naslo par

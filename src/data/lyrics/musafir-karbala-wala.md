@@ -18,7 +18,7 @@ romanLyrics: |-
   (Musafir, Karbala wala musafir)
   
   
-  Jinwaiṅ ujra hai karbal which, Inwaiṅ ujre na koi shala
+  Jinwain ujra hai karbal which, Inwain ujre na koi shala
   (Musafir, Karbala wala musafir)
   
   1
@@ -28,19 +28,19 @@ romanLyrics: |-
   Tha kitna hosle wala (Musafir, Karbala wala musafir)
   
   2
-  Luta inwaiṅ hai jungle which, (Musafir karbala wala)
+  Luta inwain hai jungle which, (Musafir karbala wala)
   Thia pamal maqtal which, (Musafir karbala wala)
-  Hai nazaṅ naal Bauṅ okha, Jinun zehra ney hai pala
+  Hai nazaṅ naal Baun okha, Jinun zehra ney hai pala
   (Musafir, Karbala wala musafir)
   
   3
   Lara no lakh tiroṅ se, (Musafir karbala wala)
-  Hua mehrum bacchoṅ se, (Musafir karbala wala)
+  Hua mehrum bacchon se, (Musafir karbala wala)
   Juda ghazi hua jiska, Jo tanha aik lashkar tha,
   Jo tha mashk o alam wala (Musafir, Karbala wala musafir)
   
   4
-  Reya bauṅ dair tiraṅ tae, (Musafir karbala wala)
+  Reya baun dair tiraṅ tae, (Musafir karbala wala)
   Peya be dafn raitaṅ tae, (Musafir karbala wala)
   Sitam kita Musafir da, Har ek khaima jala dala
   (Musafir, Karbala wala musafir)
@@ -76,9 +76,9 @@ romanLyrics: |-
   Azadaroṅ ka hai mola (Musafir, Karbala wala musafir)
   
   10
-  Likhe hasnain ae kiwaiṅ, (Musafir karbala wala)
-  Thia taqsim hai jiwaiṅ, (Musafir karbala wala)
-  Bikhar waindi Hai jaa jaa tae, Jiwaiṅ tasbih de koi mala
+  Likhe hasnain ae kiwain, (Musafir karbala wala)
+  Thia taqsim hai jiwain, (Musafir karbala wala)
+  Bikhar waindi Hai jaa jaa tae, Jiwain tasbih de koi mala
   (Musafir, Karbala wala musafir)
 ---
 

@@ -18,7 +18,7 @@ romanLyrics: |-
   
   1
   Kare Jo Humsari Kisi Ki Kya Majal Hai
-  Jahan Mein Har Lehaz Se Husain beMisal Hai
+  Jahaṅ Meiṅ Har Lehaz Se Husain beMisal Hai
   Yeh Ho Chuka Hai Faisla, Na Koi Dosra Khuda
   Na Koi Dosra Husain Hai
   
@@ -29,7 +29,7 @@ romanLyrics: |-
   Azim Rehnuma Husain Hai
   
   3
-  Karo Ge Gar Mukhalifat Gham-e-Husain Ki Yahan
+  Karo Ge Gar Mukhalifat Gham-e-Husain Ki Yahaṅ
   Woh Hashar Hoga Hashar Meiṅ Ke Al-Hafiz o Al-Amaaṅ
   Jahaṅ Bhi Chupne Jao Ge, Kahiṅ Pe Bach Na Pao Ge
   Ke Har Jagah Mera Husain Hai
@@ -48,14 +48,14 @@ romanLyrics: |-
   
   6
   Hai Jis Ki Fikr Karbala, Husain Woh Dimagh Hai
-  Yeh Panjtan Ki Anjuman Ka Panchwaṅ Charagh Hai
+  Yeh Panjtan Ki Anjuman Ka Panchwan Charagh Hai
   Hasan Ka Pehla Humsafar, Ali Ka Dosra Pisar
   Imam Tisra Husain Hai
   
   7
   Shahid-e-Karbala Ka Gham Jise Bhi Na-Gawar Hai
   Woh Bad-Amal Hai, Bad-Nasab, Usi Pe beShumar Hai
-  Are O Dushman-e-Aza, Tu Mar Zara Lehad Mein Ja
+  Are O Dushman-e-Aza, Tu Mar Zara Lehad Meiṅ Ja
   Pata Chalega Kya Husain Hai
   
   8
@@ -67,12 +67,12 @@ romanLyrics: |-
   9
   Kisi Ko Hosla Diya, Kisi Ko Bakhsh Di Sehar
   Diye Kisi Ko Baal o Par, Kisi Ko De Diye Pisar
-  Pukari Banda-Parwari, Lughat Mein Ahl-e-Ishq Ki
+  Pukari Banda-Parwari, Lughat Meiṅ Ahl-e-Ishq Ki
   Madad Ka Tarjuma Husain Hai
   
   10
   Hidayat-e-Husain Par Amal Karo Husainiyo
-  Rahenge Hum Bahisht Mein, Yaqin Rakho Husainiyo
+  Rahenge Hum Bahisht Meiṅ, Yaqin Rakho Husainiyo
   Qabul Hogi Har Dua, Kisi Se Kiuṅ Dareiṅ Bhala
   Hamara Wasta Husain Hai
   

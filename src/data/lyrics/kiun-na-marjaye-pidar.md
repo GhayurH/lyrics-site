@@ -16,7 +16,7 @@ romanLyrics: |-
   qatl ho jaye pisar jab Ali Akbar jaisa
   
   1
-  baap logoṅ se yuṅ, bete ka pata puchta tha
+  baap logoṅ se yun, bete ka pata puchta tha
   tum ne dekha hai koi, rann meiṅ Payambar jaisa
   
   2

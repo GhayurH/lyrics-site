@@ -12,17 +12,17 @@ cover: "/images/lyrics/maan-na-roegi-tumhe-aun-o-mohammad-kyunkar.png"
 coverAlt: "Cover image for Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
 published: true
 romanLyrics: |-
-  Maan na roegi tumhe Aun o Mohammad kyunkar
+  Maaṅ na roegi tumhe Aun o Mohammad kyunkar
   
-  Jab madine mein nazar aaegi viraniy-e-ghar
+  Jab madine meiṅ nazar aaegi viraniy-e-ghar
   
   1
   Jab ke zindan meiṅ tum dono ka sar aya tha
-  Maan na royi thi tumhe tumko gila to hoga
+  Maaṅ na royi thi tumhe tumko gila to hoga
   Muaaf karna jo agar ho sake aye lakhte jigar
   
   2
-  Mujhse puchenge jo Abdullah kahan haiṅ bachche
+  Mujhse puchenge jo Abdullah kahaṅ haiṅ bachche
   Kya waja hai meri nazroṅ se nihaṅ haiṅ bachche
   Kya jawab unko ye maa degi mere nure nazar
   
@@ -32,8 +32,8 @@ romanLyrics: |-
   Ab nahi lautke aaenge mere rashqe qamar
   
   4
-  Tum nahi paas to ab naaz uthaun kiske
-  Hujre hathon se bhala ab mai sajaun kiske
+  Tum nahi paas to ab naaz uthauṅ kiske
+  Hujre hathoṅ se bhala ab mai sajauṅ kiske
   Kaash mar jati tere sath hi dukhiya madar
   
   5

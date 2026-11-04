@@ -15,11 +15,11 @@ romanLyrics: |-
   Islam Ko Hayaat Mili Zahra Ke Dar Se Aye Kalmago Suno
 
   Quran Sar Buland Hua, Bach Gayi Namaz
-  Ik Sani-e-Batul Ke Khutbon Ke Asar Se Aye Kalmago Suno
+  Ik Sani-e-Batul Ke Khutboṅ Ke Asar Se Aye Kalmago Suno
   
   1
   Ik Sajda-e-Shabbir Se Islam Bach Gaya
-  Khun-e-Husain Din Ki Rag Rag Mein Rach Gaya
+  Khun-e-Husain Din Ki Rag Rag Meiṅ Rach Gaya
   Quran Ke Hafizoṅ Ne Jalaya Nabi Ka Ghar
   Luti Rida Batul Ki Hai Beti Ke Sar Se Aye Kalmago Suno
   
@@ -51,7 +51,7 @@ romanLyrics: |-
   Bazar-e-Shaam Abid-e-Maghmum Aa Gaya
   Jo Saath Le Ke Zainab o Kulsum Aa Gaya
   Maula Ali Ki Beti Yahaṅ Haathoṅ Meiṅ Hai Rasan
-  Sehmi Khari Haiṅ Bibiyaan Hai Shimr Ke Dar Se Aye Kalmago Suno
+  Sehmi Khari Haiṅ Bibiyaaṅ Hai Shimr Ke Dar Se Aye Kalmago Suno
 ---
 
 اسلام کو حیات ملی زہرا کے در سے، اے کلمہ گو سنو

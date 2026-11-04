@@ -31,7 +31,7 @@ romanLyrics: |-
   tujhse dhaaras thi bari
   
   3
-  kya kahun sher mere berida humko liye
+  kya kahuṅ sher mere berida humko liye
   ye musalmaṅ saare shehr dar shehr gaye
   khilqate kufa kabhi khilqate shaam kabhi
   baaraha hum pe hansi

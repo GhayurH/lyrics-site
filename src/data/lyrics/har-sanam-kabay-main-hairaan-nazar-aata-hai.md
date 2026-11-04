@@ -22,7 +22,7 @@ romanLyrics: |-
   
   3
   Fatima bint-e-Asad se kaha Ka‘be meiṅ chaleṅ
-  beAli ghar mera sunsaan nazar aata hai
+  beAli ghar mera sunsaaṅ nazar aata hai
   
   4
   aaj haathoṅ pe uthaye haiṅ ali ko ahmad
@@ -30,10 +30,10 @@ romanLyrics: |-
   
   5
   Mezbaṅ arsh pe ik roz yahi to hoga
-  Aaj Ka‘bay mein jo mehman nazar aata hai
+  Aaj Ka‘bay meiṅ jo mehman nazar aata hai
   
   6
-  naara-e-haideri maston ki zabaan se sunkar
+  naara-e-haideri mastoṅ ki zabaaṅ se sunkar
   maulvi sakht pareshaan nazar aata hai
   
   7
@@ -45,8 +45,8 @@ romanLyrics: |-
   khaandan-e-abu sufyan nazar aata hai
   
   9
-  Pa ke har bait ke badlay mein Asar bait-e-jinan
-  Milk mein mulk-e-Suleman nazar aata hai
+  Pa ke har bait ke badlay meiṅ Asar bait-e-jinan
+  Milk meiṅ mulk-e-Suleman nazar aata hai
 ---
 
 ۱

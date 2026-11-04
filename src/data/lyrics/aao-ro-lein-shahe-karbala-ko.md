@@ -21,8 +21,8 @@ romanLyrics: |-
 
   2
   Jab jale honge khaime haram ke
-  Jab chhini hongi sar se ridayen
-  Kya bani hogi Sayyidaniyon par
+  Jab chhini hongi sar se ridayeṅ
+  Kya bani hogi Sayyidaniyoṅ par
   Woh samaaṅ dil se jata nahiṅ hai
 
   3
@@ -32,13 +32,13 @@ romanLyrics: |-
   Jis ka koi sahara nahiṅ hai
 
   4
-  Karbala mein jo jayegi Zainab
+  Karbala meiṅ jo jayegi Zainab
   Kya batayegi bhai ko Zainab
   Chhut ke zindaṅ se jo aa rahi haiṅ
   Un meiṅ pyari Sakina nahiṅ hai
 
   5
-  Jab Madine mein jayegi Zainab
+  Jab Madine meiṅ jayegi Zainab
   Kya batayegi Sughra ko Zainab
   Woh nishan-e rasan bazuoṅ par
   Nil ab tak bhi chhuta nahiṅ hai

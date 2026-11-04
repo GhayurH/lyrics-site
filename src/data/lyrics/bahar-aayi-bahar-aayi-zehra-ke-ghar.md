@@ -13,7 +13,7 @@ coverAlt: "Cover image for Bahar Aayi Bahar Aayi Zehra ke Ghar"
 published: true
 romanLyrics: |-
   1
-  Bahar aane ko hai yuṅ to jahaṅ maiṅ hai hazar aayi
+  Bahar aane ko hai yun to jahaṅ maiṅ hai hazar aayi
   Magar aisi bahare be khizaaṅ hai pehli bar aayi
   
   2
@@ -29,7 +29,7 @@ romanLyrics: |-
   Wo aayi daykhiye sar par wo aayi Zulfiqar aayi
   
   5
-  Ali ka naam le kar meinay kholi aankh marqad main
+  Ali ka naam le kar meinay kholi aankh marqad maiṅ
   Madad Maula ki meri qabar may qabl az fishar aayi
 ---
 

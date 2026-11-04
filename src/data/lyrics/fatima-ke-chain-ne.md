@@ -40,14 +40,14 @@ romanLyrics: |-
   Haq ki raah par lahu se ek diya jala diya
 
   5
-  Barhte barhte baat jab usul-e din pe aa gayi
+  Barhte barhte baat jab usul-e diṅ pe aa gayi
   Aur Yazidiyat ki shakl meiṅ uruj paa gayi
   Barh ke phir diler ne sher-e haq ke sher ne
   Do pehar meiṅ takht o taj o qasr-e Shaam dha diya
 
   6
   Halq-e bezabaan se zulm ki kamaan tor di
-  Shah-rag-e gulu se khanjarun ki dhaar mor di
+  Shah-rag-e gulu se khanjaruṅ ki dhaar mor di
   Nazish-e hayat ne fakhr-e kainat ne
   Sar kata ke aadmi ka sar buland kar diya
 

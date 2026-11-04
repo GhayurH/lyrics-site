@@ -29,7 +29,7 @@ romanLyrics: |-
   Us maal o zar o mansab o jaagir pa laanat
   
   4
-  Jo Haq ki hifazat ke liye kaam na aayeiṅ
+  Jo Haq ki hifazat ke liye kaam na aayein
   Mazlumoṅ ko kamzoroṅ ko nahaq jo darayeiṅ
   Shamshir o Sinan o Tabar o Tir pa laanat
   
@@ -45,7 +45,7 @@ romanLyrics: |-
   
   7
   Nahaq hua taraaj Mohammad ka gharana,
-  Woh summate-e-aasi ko bari der mein aaya
+  Woh summate-e-aasi ko bari der meiṅ aaya
   Ehsaas-e-pashemani ki taakhir pa laanat
   
   8

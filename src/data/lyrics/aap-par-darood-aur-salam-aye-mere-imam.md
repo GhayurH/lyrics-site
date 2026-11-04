@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Do Jahaṅ Ki Badshah Teri Zaat Hai
   Tu Hai Us Ka Hath Jo Khuda Ka Hath Hai
-  Tere Hath Baiatteiṅ Tamam Aye Mere Imam
+  Tere Hath Baiattein Tamam Aye Mere Imam
   
   4
   Iss Liye Tumhara Intezar Hai Shadid
@@ -46,7 +46,7 @@ romanLyrics: |-
   Le Ke Zulfiqar beNiyaam Aye Mere Imam
   
   7
-  Mangte Haiṅ Aur Youṅ Zahur Ki Dua
+  Mangte Haiṅ Aur Youn Zahur Ki Dua
   Dekhna Hai Hum Ko Inteqam-e-Karbala
   Chahe Phir Ho Zindagi Tamam Aye Mere Imam
   

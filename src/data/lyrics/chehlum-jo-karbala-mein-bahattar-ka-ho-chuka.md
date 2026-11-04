@@ -18,13 +18,13 @@ romanLyrics: |-
   Chehlum Jo Karbala Meiṅ Bahattar Ka Ho Chuka
   Paiwand Bekason Ke Tan o Sar Ka Ho Chuka
   Aur Fatiha Husain Ke Lashkar Ka Ho Chuka
-  Qabron Pe Shor Aal-e-Payambar Ka Ho Chuka
+  Qabroṅ Pe Shor Aal-e-Payambar Ka Ho Chuka
   Matam Meiṅ Tin Roz Rahe Shor o Shain Se
   Roye Lipat Lipat Ke Mazar-e-Husain Se
   
   2
   Misle Charagh Gor-e-Ghariban Pe Dil Jalaye
-  Phulon Ke Badle Qabron Pe Lakht-e-Jigar Charhaye
+  Phuloṅ Ke Badle Qabroṅ Pe Lakht-e-Jigar Charhaye
   Pyaroṅ Ki Bud o Baash Ke Samaṅ Jo Yaad Aaye
   Be Sakhta Pukare Kaleja Pakar Ke Haye
   Kunbe Ke Saath Dakhla-e-Karbala Hua
@@ -32,7 +32,7 @@ romanLyrics: |-
   
   3
   Mar Jayeṅ Sab Yatimoṅ Ke Sar Par Rahuṅ To Maiṅ
-  Bachpan Mein Unki Qaid Ki Iza Sahun To Main
+  Bachpan Meiṅ Unki Qaid Ki Iza Sahuṅ To Maiṅ
   Behlane Ko Tumhari Kahani Kahuṅ To Maiṅ
   Maaṅ Huṅ To Maiṅ, Phuphi Huṅ To Maiṅ, Baap Huṅ To Maiṅ
   In Ka Bhi Daagh Aaj Mile Ya Ke Kal Mile
@@ -41,13 +41,13 @@ romanLyrics: |-
   4
   Maiṅ Jaanti Thi Shehr Basa Hoga Bhai Ka
   Hoga Hujum Qabr Pe Saari Khudai Ka
-  Chehlum Karungi Dhum Se Main Karbalai Ka
-  Pursaṅ Bhi Yaaṅ Nahiṅ Koi Zahra Ki Jayi Ka
+  Chehlum Karungi Dhum Se Maiṅ Karbalai Ka
+  Pursaṅ Bhi Yaan Nahiṅ Koi Zahra Ki Jayi Ka
   Mun Dhanpne Ko Aap Hi Palla Bhi Leti Huṅ
   Aur Apne Dil Ko Aap Hi Pursa Bhi Deti Huṅ
   
   5
-  Chehlum To Kar Chuki Main Dil-Afgar Ya Husain
+  Chehlum To Kar Chuki Maiṅ Dil-Afgar Ya Husain
   Ab Rauza Kis Tarha Se Ho Tayyar Ya Husain
   Beta Bhi Aur Behen Bhi Hai Nadar Ya Husain
   Aakhir Kabhi To Aayenge Zawwar Ya Husain
@@ -80,16 +80,16 @@ romanLyrics: |-
   
   9
   Bhaiyya Utho Kujave Meiṅ Mujh Ko Tumhi Bithao
-  Bhaiyya Main beNaqab Huṅ, Rehgiron Ko Hatao
+  Bhaiyya Maiṅ beNaqab Huṅ, Rehgiroṅ Ko Hatao
   Rokeiṅ Qanaat, Akbar o Abbas Ko Bulao
   Khaali Hai God Bhabhi Ki, Asghar Ko Lete Aao
   Sardar Sare Qafile Ke Aage Hote Haiṅ
-  Tayyar Karwaṅ Hua Aur Aap Sote Haiṅ
+  Tayyar Karwan Hua Aur Aap Sote Haiṅ
   
   10
-  Kab Se Tumhein Pukar Rahi Huṅ Main Khasta-Tan
+  Kab Se Tumheiṅ Pukar Rahi Huṅ Maiṅ Khasta-Tan
   Haye Haye Jawab Bhi Nahiṅ Dete Shah-e-Zaman
-  Bhaiyya Gale Laga Lun To Jaaun Su-e-Watan
+  Bhaiyya Gale Laga Luṅ To Jaauṅ Su-e-Watan
   Aayi Nida, Sidhaaro, Khuda Hafiz E Behen
   Sughra Ko Meri Simt Se Bhi Pyar Kijiyo
   Hoga Sawab Khatir-e-Bimar Kijiyo

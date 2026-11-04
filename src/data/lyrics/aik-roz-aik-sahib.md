@@ -38,7 +38,7 @@ romanLyrics: |-
   Bole ke ghar meiṅ rehne do yeh ghar ki baat hai
 
   5
-  Main ne Nabi ki but-shikani ka kiya jo zikr
+  Maiṅ ne Nabi ki but-shikani ka kiya jo zikr
   Bole ke dukhti hui rag ko na chhediye
   Pa-e Ali o dosh-e Payambar ki baat hai
 

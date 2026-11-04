@@ -18,27 +18,27 @@ romanLyrics: |-
   Sadaat-e-Karbala
   
   1
-  Kuch Bibiyaṅ Yahaṅ Haiṅ, Kuch Bibiyaṅ Wahaṅ
+  Kuch Bibiyaṅ Yahaṅ Haiṅ, Kuch Bibiyaṅ Wahan
   Karti Hui Fughaṅ
-  Bikhri Hui Thin Maqtal-e-Sarwar Mein Ja Baja
+  Bikhri Hui Thiṅ Maqtal-e-Sarwar Meiṅ Ja Baja
   Sadaat-e-Karbala
   
   2
-  Ek Bibi Dasht-e-Khuni Mein Jaati Hai Nehr Par
+  Ek Bibi Dasht-e-Khuni Meiṅ Jaati Hai Nehr Par
   Kehti Ba-Chashm-e-Tar
   Abbas Dene Aayi Huṅ Pursa Sakina Ka
   Sadaat-e-Karbala
   
   3
   Ghut Ghut Ke Laadli Teri Zindan Meiṅ Mar Gayi
-  Turbat Wahiṅ Bani
+  Turbat Wahin Bani
   Bhaiya Wo Qaid Se Na Hui Mar Ke Bhi Juda
   Sadaat-e-Karbala
   
   4
   Akbar Ki Qabr Par Yun Hui Laila Nauhagar
   Dekha Na Saal Bhar
-  Aayi Huṅ Qaid-e-Sham Se Ab Ho Ke Main Reha
+  Aayi Huṅ Qaid-e-Sham Se Ab Ho Ke Maiṅ Reha
   Sadaat-e-Karbala
   
   5

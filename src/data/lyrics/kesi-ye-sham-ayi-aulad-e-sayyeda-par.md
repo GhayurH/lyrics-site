@@ -49,7 +49,7 @@ romanLyrics: |-
   7
   Khaimoṅ ke sath jhola bistar bhi jal gaya hai
   Namus e Mustafa ko baghi kaha gaya hai
-  Le jayenge subah ko qaidi hamein bana kar
+  Le jayenge subah ko qaidi hameiṅ bana kar
   
   8
   Guzregi kaise Yawar maqtal se shahzaadi

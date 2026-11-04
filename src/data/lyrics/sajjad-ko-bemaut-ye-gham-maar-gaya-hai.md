@@ -28,8 +28,8 @@ romanLyrics: |-
   Sajjad ke sine se jo aik laasha laga hai
   
   4
-  Shikwa nahiṅ zindan se koi Bint-e-Ali ko
-  Kia kam hai ke diwaroṅ ne parda to kiya hai
+  Shikwa nahiṅ zindaṅ se koi Bint-e-Ali ko
+  Kia kam hai ke diwaron ne parda to kiya hai
   
   5
   Sar Ghazi ka tharra ke gira nok-e-sina se
@@ -52,7 +52,7 @@ romanLyrics: |-
   Is qaidi ko kia rog hai kiuṅ jaag raha hai
   
   10
-  Darbar-e-jafaakaar me yun aatin haiṅ Zainab
+  Darbar-e-jafaakaar me yun aatiṅ haiṅ Zainab
   Chehre pe lahu Aun o Muhammad ka mala hai
 ---
 

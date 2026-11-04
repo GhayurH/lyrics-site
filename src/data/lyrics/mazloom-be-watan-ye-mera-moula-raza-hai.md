@@ -31,7 +31,7 @@ romanLyrics: |-
   Woh Bibi Hai Karbal Meiṅ, Jali Jis Ki Abaa Hai
   
   4
-  Yuṅ Luta Musalmano Ne Zahra Ke Chaman Ko
+  Yun Luta Musalmano Ne Zahra Ke Chaman Ko
   Haye Zehar Diya Jaise Mere Maula Hasan Ko
   Dohrayi Gayi Haye, Wohi Is Pe Jafa Hai
   
@@ -47,7 +47,7 @@ romanLyrics: |-
   
   7
   Rote Haiṅ Farishte Bhi Zamiṅ, Aur Zamaaṅ Bhi
-  Haye Loh o Qalam Arsh-e-Barin Kaun o Makaan Bhi
+  Haye Loh o Qalam Arsh-e-Barin Kaun o Makaaṅ Bhi
   Khair-Un-Nisa Ke Laal, Ke Matam Ki Sada Hai
 ---
 

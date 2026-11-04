@@ -12,7 +12,7 @@ cover: "/images/lyrics/goonji-bawaqt-e-asr.png"
 coverAlt: "Cover image for Goonji bawaqt e asr"
 published: true
 romanLyrics: |-
-  Gunji bawaqt e asr sada, main Husain huṅ
+  Gunji bawaqt e asr sada, maiṅ Husain huṅ
   Kaato na mera khushk gala, maiṅ Husain huṅ
   
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
   Maiṅ baar baar kehta raha maiṅ Husain huṅ
   
   2
-  Sukhi hui shimr mere halq ki ragein
+  Sukhi hui shimr mere halq ki rageiṅ
   Aahista tu churi ko chala maiṅ Husain huṅ
   
   3
@@ -29,7 +29,7 @@ romanLyrics: |-
   
   4
   Darbaar may lain ke kohraam mach gaya
-  Mukhtar se jo sar ne kaha main Husain huṅ
+  Mukhtar se jo sar ne kaha maiṅ Husain huṅ
   
   5
   Zaanu pe rakh ke sar ko kaha ek zaif ne
@@ -37,11 +37,11 @@ romanLyrics: |-
   
   6
   Ay shamiyo kafan na diya mujhko gham nahi
-  Dedo meri behan ko rida main Husain huṅ
+  Dedo meri behan ko rida maiṅ Husain huṅ
   
   7
   Mehsus ho raha hai ke maqtal se aaj bhi
-  Awaaz aa rahi hai Raza main Husain huṅ
+  Awaaz aa rahi hai Raza maiṅ Husain huṅ
 ---
 
 گونجی بوقتِ عصر صدا، میں حسین ہوں

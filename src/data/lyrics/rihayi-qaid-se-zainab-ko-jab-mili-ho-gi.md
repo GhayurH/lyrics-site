@@ -40,7 +40,7 @@ romanLyrics: |-
   Pahen ke beriyaṅ, jidhar bhi tu gaya
   Woh rasta jo tha, lahu lahu hua
   Na jaane kis tarah, yeh tu ne seh liya
-  Woh Zainab-e-haziṅ, ka sar khula hua
+  Woh Zainab-e-hazin, ka sar khula hua
   Phir us ke baad tu, hai jab talak jiya
   Tumhari aankh se, sada hai khuṅ baha
   Sajjad, haaye Sajjad, haaye Sajjad, haaye Sajjad
@@ -68,7 +68,7 @@ romanLyrics: |-
   Batul lahad meiṅ, munh apna pitti hogi
 
   4
-  Pare the lashe jawanoṅ ke, dasht-e-Karbal meiṅ
+  Pare the lashe jawanon ke, dasht-e-Karbal meiṅ
   Para tha Ghazi ka lasha, baghair shanoṅ ke
 
   Abbas haaye Abbas
@@ -90,7 +90,7 @@ romanLyrics: |-
   Jawan haaye Jawan
   Shabih-e-Mustafa, Wazir-e-Murtaza
   Athara saal tak, tu burqe meiṅ pala
-  Phuphi ne naaz se, tujhe jawaaṅ kiya
+  Phuphi ne naaz se, tujhe jawaan kiya
   Khuda ke waste, abhi na ran meiṅ ja
   Husain kis tarah, yeh dekh paayega
   Jawan ka jigar, sina ka tutna

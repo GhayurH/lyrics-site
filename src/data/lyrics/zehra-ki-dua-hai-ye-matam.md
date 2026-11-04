@@ -39,14 +39,14 @@ romanLyrics: |-
   Aayi Hai Yahaṅ Ek Shehzaadi, Umid Ka Daaman Phailaye
   
   5
-  Wo Waqt Hai Ab Tak Aankhon Mein, Tha Khun Mein Ghaltan Ibn-e-Ali
+  Wo Waqt Hai Ab Tak Aankhoṅ Meiṅ, Tha Khun Meiṅ Ghaltaṅ Ibn-e-Ali
   Aur Gunj Rahi Thi Maqtal Meiṅ, Faryad o Fughaṅ Ek Dukhiya Ki
   Sine Se Baheiṅ Khun Ki Dhaare, Aur Haath Na Rukne Paaye Kabhi
   Mazlum Ka Matam Hota Rahe, Zehra Ki Sada Jab Tak Aaye
   
   6
   Ye Matam Hai Hal Min Ki Sada, Har Ashk Hai Jazba-e-Nusrat Ka
-  Yuṅ Haq Ki Taraf Aa Jaane Ka, Haasil Hai Abhi Tak Ek Mauqa
+  Yun Haq Ki Taraf Aa Jaane Ka, Haasil Hai Abhi Tak Ek Mauqa
   Pehchan Zamir o Dil Ki Sada, Is Matam Meiṅ Shaamil Ho Ja
   Shabbir Bulaate Haiṅ Ab Tak, Gar Hurr Ho Kahiṅ To Aa Jaye
 ---

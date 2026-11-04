@@ -29,10 +29,10 @@ romanLyrics: |-
   2
   Mere Ghazi mere Safdar, mere Mir-e-lashkar
   Dekh be aas hai pardes meiṅ teri khwahar
-  Kat gaya sibt-e-payambar ka bhi sajde mein gala
+  Kat gaya sibt-e-payambar ka bhi sajde meiṅ gala
   
   3
-  Bain karti hui lashe pe chali aaoṅ gi
+  Bain karti hui lashe pe chali aaon gi
   Kitne nasur kaleje meiṅ hai dikhlauṅ gi
   Meri taqdir meiṅ kuchh bhi nahiṅ ashkoṅ ke siwa
   

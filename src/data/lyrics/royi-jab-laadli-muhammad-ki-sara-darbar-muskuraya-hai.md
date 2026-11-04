@@ -16,24 +16,24 @@ romanLyrics: |-
   Haye Baad-e-Rasul Zehra Par Kaisa Ghurbat Ka Waqt Aaya Hai
   
   1
-  Jese Jese Batul Roti Thin Qehqahay Unke Barhtay Jate The
-  Sath Jinko Batul Laayi Thin Ashk Dono Gawah Bahatay The
+  Jese Jese Batul Roti Thiṅ Qehqahay Unke Barhtay Jate The
+  Sath Jinko Batul Laayi Thiṅ Ashk Dono Gawah Bahatay The
   Sab The Masruf Muskurane Meiṅ Na Kisi Ko Bhi Tars Aaya Hai
   
   2
   Tere Mimbar Pe Bethe Ghasib Ko Teri Tehrir Bhi Dikhayi Hai
-  Karke Tukray Lain Ne Baba Bharay Darbar Mein Urayi Hai
-  Paak Tehrir Ko Hai Tukron Mein Maine Darbar Se Uthaya Hai
+  Karke Tukray Lain Ne Baba Bharay Darbar Meiṅ Urayi Hai
+  Paak Tehrir Ko Hai Tukroṅ Meiṅ Maine Darbar Se Uthaya Hai
   
   3
-  Main To Wo Huṅ Ke Ya Rasul Allah Jiski Taazim Aap Kartay The
+  Maiṅ To Wo Huṅ Ke Ya Rasul Allah Jiski Taazim Aap Kartay The
   Naam Lena Ho Jab Mera Baba Aap Pehle Durud Parhte The
   Kya Batauṅ Ke Mujh Pe Kya Guzri Us Ne To Keh Ke Jab Bulaya Hai
   
   4
   Ye Wo Bibi Hai Ke Muhammad Bhi Jisko Umme Abiha Kehte The
   Wo Sawali Bani Khari Thi Magar Samne Kursiyoṅ Par Bethe The
-  Usko Muslim Kahun Bhala Kiuṅ Kar Jisne Bibi Ka Dil Dukhaya Hai
+  Usko Muslim Kahuṅ Bhala Kiuṅ Kar Jisne Bibi Ka Dil Dukhaya Hai
 ---
 
 روئی جب لاڈلی محمد کی سارا دربار مسکرایا ہے

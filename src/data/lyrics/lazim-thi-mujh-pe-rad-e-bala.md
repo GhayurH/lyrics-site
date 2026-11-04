@@ -34,10 +34,10 @@ romanLyrics: |-
 
   6
   Jata hai khud tawaf ko Kaaba bhi Karbala
-  Phir main ne ja ke Karbobala, kya bura kiya
+  Phir maiṅ ne ja ke Karbobala, kya bura kiya
 
   7
-  Badlo na ittihad ke bistar pe karwateṅ
+  Badlo na ittihad ke bistar pe karwaten
   Maiṅ ne kaha bure ko bura, kya bura kiya
 
   8

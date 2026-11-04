@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Is Tarha Lagti Na Akbar Ke Kaleje Pe Sinaaṅ
   Is Tarha Hoti Na Sadaat Ke Khaimoṅ Meiṅ Fughaaṅ
-  Yuṅ Na Zainab Ke Sahare Jaate
+  Yun Na Zainab Ke Sahare Jaate
   
   3
   Kaash Hote To Utha Laate Alamdaar Ki Laash
@@ -30,13 +30,13 @@ romanLyrics: |-
   Gar Na Zainab Ke Dulare Jaate
   
   4
-  Gardan-e-Shah Pe Yun Ran Mein Na Khanjar Chalta
+  Gardan-e-Shah Pe Yun Ran Meiṅ Na Khanjar Chalta
   Yun Na Khurshid-e-Imamat Sar-e-Maqtal Dhalta
-  Yuṅ Na Sar Naizoṅ Pe Saare Jaate
+  Yun Na Sar Naizoṅ Pe Saare Jaate
   
   5
   Hote Abbas To Chinti Na Rida Zainab Ki
-  Paaon Mein Abid-e-Muztar Ke Na Beri Dalti
+  Paaoṅ Meiṅ Abid-e-Muztar Ke Na Beri Dalti
   Taziyane Bhi Na Maare Jaate
   
   6
@@ -52,11 +52,11 @@ romanLyrics: |-
   8
   Kabhi Chehra Kabhi Baazu Kabhi Sina Pita
   Qaidkhane Se Watan Aayi To Zainab Ne Kaha
-  Din Na Yuṅ Gham Meiṅ Guzare Jaate
+  Din Na Yun Gham Meiṅ Guzare Jaate
   
   9
   Aaj Bhi Aati Hai Yeh Qabr-e-Sakina Se Sada
-  E Chacha Aati Na Zindaan Meiṅ Hum Ko Yuṅ Qaza
+  E Chacha Aati Na Zindaan Meiṅ Hum Ko Yun Qaza
   Saath Gar Hum Bhi Tumhare Jaate
   
   10

@@ -15,7 +15,7 @@ romanLyrics: |-
   Al-Ajal Al-Ajal, Ya Imam-e-Zamana, Al-Ajal
 
   Gar Ho Meri Hayaat Mere Ikhteyar Meiṅ,
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   Maula Ab Aap Parda-e-Ghaibat Uthaiye,
   Do Din To Zindagi Ke Guzaruṅ Bahar Meiṅ
   
@@ -25,8 +25,8 @@ romanLyrics: |-
   Duniya Sitam-Shaar Hai, Maghlub Din Hai
   Moula Zarur Aaenge, Mujhko Yaqin Hai
   
-  Aaegi Kuch Kami Na Mere Aitbaar Mein
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Aaegi Kuch Kami Na Mere Aitbaar Meiṅ
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   
   2
   Sab Log Khwahishat Ke Ab Ho Gaye Ghulam
@@ -34,8 +34,8 @@ romanLyrics: |-
   Pine Lage Lahu Haiṅ, To Khane Lage Haram
   Kehta Hai Dil Ke Bas Abhi Aajaiye Imam
   
-  Gar Der Hai Mashiyat-e-Parwardigaar Mein
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Gar Der Hai Mashiyat-e-Parwardigaar Meiṅ
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   
   3
   Mushkil Ke Waqt Humne Pukara Hai Ya Husain
@@ -43,17 +43,17 @@ romanLyrics: |-
   Quran-e-Ahl-e-Bait Ka Paara Hai Ya Husain
   Haq Ne Hamare Dil Pe Utara Hai Ya Husain
   
-  Reh Kar Dua-e-Bint-e-Nabi Ke Hisaar Mein
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Reh Kar Dua-e-Bint-e-Nabi Ke Hisaar Meiṅ
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   
   4
-  Is Daur-e-Pur-Khatar Mein Haiṅ Dushwar Manzilein
+  Is Daur-e-Pur-Khatar Meiṅ Haiṅ Dushwar Manzileiṅ
   Moula Is Imtehan Meiṅ Dil Ko Sukun De
   Roza, Namaz, Haq Ke Manasik Ada Kareiṅ
   Hum Sham, Karbala Ki Ziyarat Ko Ja Sakeiṅ
   
-  Aa Jaega Qaraar Dil-e-beQaraar Mein
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Aa Jaega Qaraar Dil-e-beQaraar Meiṅ
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   
   5
   Khud-Kash Haiṅ Bam Dhamake, Hadd-e-Zulm o Jaur Hai
@@ -62,7 +62,7 @@ romanLyrics: |-
   Garche Ye Mominin Pe Mushkil Ka Daur Hai
   
   Duniya Ke Dard o Gham Haiṅ Bhala Kis Shumaar Meiṅ
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   
   6
   Ahl-e-Aza Ko Jurat o Tadbir Chahiye
@@ -70,8 +70,8 @@ romanLyrics: |-
   Taskin-e-Qalb-e-Madar-e-Shabbir Chahiye
   Ab Jannat-ul-Baqi Ki Tamir Chahiye
   
-  Aa Jaegi Bahar Is Ujde Dayaar Mein
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Aa Jaegi Bahar Is Ujde Dayaar Meiṅ
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   
   7
   Alfaaz Se Diloṅ Pe Hukumat Mili Mujhe
@@ -80,16 +80,16 @@ romanLyrics: |-
   Badle Meiṅ Ek Ashk Ke Jannat Mili Mujhe
   
   Ghaata Kabhi Hua Nahiṅ Is Karobaar Meiṅ
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   
   8
   Dar Par Tumhare Hote Haiṅ Har Roz Mojize
   Kitne Amir Ho Gaye Is Dar Ki Bhik Se
   Sab Apne Apne Hisse Ki Khairat Le Gaye
-  Zikr-e-Imam-e-Asr Mein Hissa Qamar Mile
+  Zikr-e-Imam-e-Asr Meiṅ Hissa Qamar Mile
   
   Maiṅ Mutmain Huṅ, Maiṅ Bhi Khara Huṅ Qataar Meiṅ
-  Sadiyan Guzar Dunga Tere Intezar Mein
+  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
 ---
 
 العجل العجل، یا امامِ زمانہؑ، العجل

@@ -27,16 +27,16 @@ romanLyrics: |-
   Naraz Hum Se Ho Na Kabhi Aal-e-Mustafa
   
   3
-  Tanhaiyon Ka Teri Raha Hai Jo Humsafar
+  Tanhaiyoṅ Ka Teri Raha Hai Jo Humsafar
   Woh Mustafa Jo Baad Tere Sab Se Moatbar
-  Hai Qarz Jis Ka Ajr-e-Risalat Jahan Par
+  Hai Qarz Jis Ka Ajr-e-Risalat Jahaṅ Par
   Har Qarz Kar De Ghaib Se Maqruz Ka Ada
   
   4
   Tujh Sa Ali Bhi Kehta Hai Khaliq Jise Ali
   Ungli Pakar Ke Jis Ki Shariyat Teri Chali
-  Raziq Hai Do Jahaṅ Ka, Waliyoṅ Ka Hai Wali
-  Sadqe Meiṅ Us Ke Rizq Meiṅ Huṅ Wusateiṅ Atta
+  Raziq Hai Do Jahaṅ Ka, Waliyon Ka Hai Wali
+  Sadqe Meiṅ Us Ke Rizq Meiṅ Huṅ Wusatein Atta
   
   5
   Woh Fatima, Hijab Bhi Nuri Mila Jise
@@ -54,7 +54,7 @@ romanLyrics: |-
   Mabud, Woh Husain Jo Mehbub Hai Tera
   Sar Kaat Kar Bhi Jis Ka Na Zalim Jhuka Saka
   Jis Ne Zamin Ko Arsh-e-Mualla Bana Diya
-  Dikhla De Hum Faqiron Ko Roza-e-Husain Ka
+  Dikhla De Hum Faqiroṅ Ko Roza-e-Husain Ka
   
   8
   Mushkil Ko Taal, Hal-e-Masaib Ko Bhej De

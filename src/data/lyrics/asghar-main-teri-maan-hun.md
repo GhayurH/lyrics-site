@@ -25,7 +25,7 @@ romanLyrics: |-
   mere saamne khara hai
   jaane kiuṅ hans raha hai
   chadar bhi lut chuki hai
-  Mun kis tarha chupauṅ
+  Mun kis tarha chupaun
   Asghar Maiṅ Teri Maaṅ Huṅ
   
   2

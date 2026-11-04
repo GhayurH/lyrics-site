@@ -22,15 +22,15 @@ romanLyrics: |-
   
   2
   Ashraf-e-Shahr Ko Hui Maalum Ye Khabar
-  Aayi Hai Qum Mein Khwahar-e-Sultan Bahr o Bar
+  Aayi Hai Qum Meiṅ Khwahar-e-Sultan Bahr o Bar
   Purse Ke Waste Huye Sab Jama Nauhagar
   Jo Sunte Chaak Garebaṅ Barahna Sar
-  Har Su Ye Dil Figar Jo Surat Ayaṅ Hui
+  Har Su Ye Dil Figar Jo Surat Ayan Hui
   Masuma Ek Shia Ke Ghar Mehmaan Hui
   
   3
   Din Raat Gham Meiṅ Bhai Ke Rehti Thi Dil Haziṅ
-  Har Waqt Ashk-e-Gham Se Thi Aaludah Aastin
+  Har Waqt Ashk-e-Gham Se Thi Aaludah Aastiṅ
   Chhote Bare Nauha Karte The Har Aan Mominin
   Matam Sara Meiṅ Aurateiṅ Rone Ko Aati Thiṅ
   Gham Tha Musafarat Meiṅ Musibat Uthati Hai
@@ -41,15 +41,15 @@ romanLyrics: |-
   Pursa Diya Kisi Ne Na Zainab Ko Bhai Ka
   Jo Haal Karbala Meiṅ Tha Zahra Ki Jai Ka
   Gham Khwahar-e-Raza Ko Tha Shah Ki Judai Ka
-  Koh-e-Malal Dil Pe Uthane Se Uth Gayin
+  Koh-e-Malal Dil Pe Uthane Se Uth Gayiṅ
   Aakhir Usi Qalaq Meiṅ Zamane Se Uth Gayiṅ
   
   5
   Kal Solah Roz Qum Meiṅ Rahiṅ Badal Haziṅ
-  Jannat Mein Ki Ziyarat Shah-e-Falak Nashin
-  Taklif Dard-e-Hijr Se Jaan Bar Hui Nahiṅ
-  Bhai Ki Shakl Aankhon Mein Thi Waqt-e-Wapasin
-  Bagh-e-Jahan Se Sue Jinaan Kuch Kar Gayin
+  Jannat Meiṅ Ki Ziyarat Shah-e-Falak Nashiṅ
+  Taklif Dard-e-Hijr Se Jaaṅ Bar Hui Nahiṅ
+  Bhai Ki Shakl Aankhoṅ Meiṅ Thi Waqt-e-Wapasin
+  Bagh-e-Jahan Se Sue Jinaaṅ Kuch Kar Gayiṅ
   Bas Haye Bhai Keh Aur Mar Gayiṅ
   
   6
@@ -58,7 +58,7 @@ romanLyrics: |-
   Qadir Ghulam Aap Ka Hai Mard-e-Parsa
   Masuma Ko Muhammad Ne Utare Wo Ba-Haya
   Is Khidmat-e-Jalil Ke Qabil Koi Nahiṅ
-  Yaaṅ Koi Aur Is Se Siwa Muttaqi Nahiṅ
+  Yaan Koi Aur Is Se Siwa Muttaqi Nahiṅ
   
   7
   Ye Bateiṅ Ho Rahi Thiṅ Yakayak Utha Ghubar

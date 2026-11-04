@@ -52,17 +52,17 @@ romanLyrics: |-
   8
   Hamare amal meiṅ dikhawa na ho
   Muhabbat ka bas jhuta dawa na ho
-  Phir ashkon ke lab khud yeh denge sada
+  Phir ashkoṅ ke lab khud yeh denge sada
 
   9
-  Zamane mein hote hue aap ke
+  Zamane meiṅ hote hue aap ke
   Kaheṅ apni rodaad kiuṅ ghair se
   Meri ghairatoṅ ki tumhi ho ana
 
   10
-  Tumhein to zamane ke ho chara-gar
+  Tumheiṅ to zamane ke ho chara-gar
   Meri mujh se behtar tumheiṅ hai khabar
-  Kahun kya main haal-e dil-e gham-zada
+  Kahuṅ kya maiṅ haal-e dil-e gham-zada
 
   11
   Hilal aur Misam ki hai iltija

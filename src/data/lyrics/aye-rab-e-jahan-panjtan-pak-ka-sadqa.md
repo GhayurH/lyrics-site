@@ -18,14 +18,14 @@ romanLyrics: |-
   
   2
   Bachoṅ Ko Atta Kar Ali Asghar Ka Tabasum
-  Burhun Ko Habib Ibn-e-Muzahir Ki Nazar De
+  Burhuṅ Ko Habib Ibn-e-Muzahir Ki Nazar De
   
   3
   Kam Sin Ko Mile Walwala-e-Aoun o Muhammad
   Har Ik Jawaan Ko Ali Akbar Ka Jigar De
   
   4
-  Maoun Ko Sikha Sani-e-Zahra Ka Saliqa
+  Maouṅ Ko Sikha Sani-e-Zahra Ka Saliqa
   Behno Ko Sakina Ki Duaoṅ Ka Asar De
   
   5
@@ -41,7 +41,7 @@ romanLyrics: |-
   Be Jurm Asiroṅ Ko Rehai Ki Khabar De
   
   8
-  Jo Maein Bhi Roti Haiṅ beYad-e-Ali Asghar
+  Jo Maeiṅ Bhi Roti Haiṅ beYad-e-Ali Asghar
   Unn Maouṅ Ki Aagosh Ko Aulaad Se Bhar De
   
   9
@@ -53,8 +53,8 @@ romanLyrics: |-
   Maiṅ Yeh Nahiṅ Kehta Ke Mujhe Laal o Gohar De
   
   11
-  Aankhon Ko Dikha Roza-e-Mazlum Ka Manzar
-  Qadmon Ko Najaf Tak Bhi Kabhi Izn-e-Safar De
+  Aankhoṅ Ko Dikha Roza-e-Mazlum Ka Manzar
+  Qadmoṅ Ko Najaf Tak Bhi Kabhi Izn-e-Safar De
   
   12
   Jo Chadar-e-Zainab Ki Azadar Haiṅ Maula
@@ -69,7 +69,7 @@ romanLyrics: |-
   Waris Mera Parde Meiṅ Hai, Zahir Usse Kar De
   
   15
-  Manzur Hai Khwaboṅ Meiṅ Hi Aaqa Ki Ziyarat
+  Manzur Hai Khwabon Meiṅ Hi Aaqa Ki Ziyarat
   Parwaz Ki Khwahish Meiṅ Na Jibril Ke Par De
   
   16

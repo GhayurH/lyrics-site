@@ -15,24 +15,24 @@ bastaNote: original-selection
 published: true
 romanLyrics: |-
   1
-  Shaam se jab Ahl-e-Bait, ghamzada giryaan chale
-  Yaani su-e-Karbala, chaak girebaan chale
-  Le ke shahidon ke sar, besar o saamaan chale
-  Kartay huay ye bayaan baa-dil-e-naalaan chale
+  Shaam se jab Ahl-e-Bait, ghamzada giryaaṅ chale
+  Yaani su-e-Karbala, chaak girebaaṅ chale
+  Le ke shahidoṅ ke sar, besar o saamaaṅ chale
+  Kartay huay ye bayaaṅ baa-dil-e-naalaan chale
   Aaj hai chaaliswaan Hazrat-e-Shabbir ka
   Tishna-dahan kushta-e-khanjar o taqdir ka
   
   2
   Raah meiṅ un se koi, puchta gar aan kar
   Kis ke ho naamus tum, kis ke ho lakht-e-jigar
-  Kis ne hai luta tumhein, kis ne kiya bepadar
+  Kis ne hai luta tumheiṅ, kis ne kiya bepadar
   Kehte the Ahl-e-Haram un se yun ba-chashm-e-tar
   Tum se bayaaṅ kya kareiṅ apne hum ehwaal ko
   Dafn haiṅ karne chale Fatima ke laal ko
   
   3
   Woh jo haram mohtaram, Shah ke ba-sad bukaa
-  Manzilein tay kartay haaye, pohanchay dar-e-Karbala
+  Manzileiṅ tay kartay haaye, pohanchay dar-e-Karbala
   Dur se woh qatl-gaah, un ko dikhayi diya
   Ro ke yeh kehnay lagay Hazrat-e-Zain-ul-Aba
   Untoṅ se utro tum ab karte hue shor o shain
@@ -42,7 +42,7 @@ romanLyrics: |-
   Hazrat Sajjad se sun ke Haram yeh kalaam
   Pit-te rote hue untoṅ se utre tamaam
   Aaye jo laashoṅ ke paas, haaye woh naashaad kaam
-  Sar ko lage pitne, waarisoṅ ke le ke naam
+  Sar ko lage pitne, waarison ke le ke naam
   Chaadareiṅ sar se utaar aansu bahane lage
   Haathoṅ se us ban ki khaak sar pe uraane lage
   
@@ -51,7 +51,7 @@ romanLyrics: |-
   Bibiyoṅ ko saath le, khub sa maatam kiya
   Sar jo shahidoṅ ke the, bich meiṅ un ko rakha
   Sina o sar pit kar, ro ro yeh nauha parha
-  Zahra ke masum ka aaj hai chaaliswaaṅ
+  Zahra ke masum ka aaj hai chaaliswaan
   Syed-e-Mazlum ka aaj hai chaaliswaan
   
   6
@@ -59,14 +59,14 @@ romanLyrics: |-
   Biyaah ke din haaye haaye, qatl hua tishna-lab
   Shaadi ka jora jo tha, mil gaya mitti meiṅ sab
   Us ka bhi chehlum hai aaj, haaye sitam hai ghazab
-  Akbar o Asghar ka bhi aaj hai chaaliswaaṅ
-  Shah ke lashkar ka bhi aaj hai chaaliswaaṅ
+  Akbar o Asghar ka bhi aaj hai chaaliswaan
+  Shah ke lashkar ka bhi aaj hai chaaliswaan
   
   7
   Hazrat-e-Zain-ul-Aba, noha ye jab parh chukay
   Bibiyoṅ se iss tarah, ro ro ye kehne lage
   Pehle kaho kis ki laash, qabr meiṅ Abid rakhe
-  Bano-e-Abbas yun, boli main sadqe tere
+  Bano-e-Abbas yun, boli maiṅ sadqe tere
   Pehle mere saaeiṅ ki, laash tou dhundwaaio
   De ke kafan qabr meiṅ, phir usse dalwaaio
   
@@ -91,7 +91,7 @@ romanLyrics: |-
   Le le ke shohar ka naam, khub sa matam kiya
   Laasha-e-Abbas ke, tukre jo the jaa bajaa
   Chun ke har ek uzu ko, sar se mila kar kaha
-  Aao ay Zain-ul-Aba, khaak uraati huṅ main
+  Aao ay Zain-ul-Aba, khaak uraati huṅ maiṅ
   Yaani sar Abbas ka, tan se milaati huṅ maiṅ
 ---
 

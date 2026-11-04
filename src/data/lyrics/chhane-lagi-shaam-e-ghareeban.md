@@ -13,9 +13,9 @@ cover: "/images/lyrics/chhane-lagi-shaam-e-ghareeban.png"
 coverAlt: "Cover image for Chhane Lagi Shaam e Ghareeban"
 published: true
 romanLyrics: |-
-  Chhane lagi shaam e ghariban,
+  Chhane lagi shaam e gharibaṅ,
   haaye qiyamat ka hai samaaṅ
-  Khaima e sadaat se utha dhuaan,
+  Khaima e sadaat se utha dhuaaṅ,
   haaye qiyamat ka hai samaaṅ
   
   1
@@ -31,13 +31,13 @@ romanLyrics: |-
   Zainab dilgir ke pyaare gaye
   Shah ke ansar bhi maare gaye,
   aas thi jin par woh sahaare gaye
-  Lut liya maut ne yeh karwaṅ,
+  Lut liya maut ne yeh karwan,
   haaye qiyamat ka hai samaaṅ
   
   3
-  Khun mein hai tar sher e jari ka alam,
+  Khuṅ meiṅ hai tar sher e jari ka alam,
   ho gaya Shabbir ka sar bhi qalam
-  Khushiyan manane lagi fauj e sitam,
+  Khushiyaṅ manane lagi fauj e sitam,
   gham se tabaah haal haiṅ ahl e haram
   Lut gayiṅ konain ki shehzadiyaṅ,
   haaye qiyamat ka hai samaaṅ
@@ -47,7 +47,7 @@ romanLyrics: |-
   Sarwar o Abbas-e-dilawar nahiṅ
   Haaye koi munis o yawar nahiṅ,
   khaima nahiṅ maqna o chadar nahiṅ
-  Dasht mein be haiṅ aal-e-nabi beamaan,
+  Dasht meiṅ be haiṅ aal-e-nabi beamaan,
   haaye qiyamat ka hai samaaṅ
   
   5
@@ -55,7 +55,7 @@ romanLyrics: |-
   deta hai jab koi tasalli use
   Kehti hai dil thaam ke rote hue,
   khogaye is ban meiṅ sahaare mere
-  Mar gaya haaye mera karyal jawaaṅ,
+  Mar gaya haaye mera karyal jawaan,
   haaye qiyamat ka hai samaaṅ
   
   6
@@ -77,7 +77,7 @@ romanLyrics: |-
   8
   Hai ye Gohar azmat e bint e Ali,
   sab ko sambhala bhi hifazat bhi ki
-  Gham mein Shah-e-din ke bhi roti rahi,
+  Gham meiṅ Shah-e-din ke bhi roti rahi,
   mamta pe aanch bhi aane na di
   Maaṅ to hai bas Aun o Muhammad ki maaṅ,
   haaye qiyamat ka hai samaaṅ

@@ -13,7 +13,7 @@ coverAlt: "Cover image for Aye Aun O Muhammad"
 published: true
 romanLyrics: |-
 
-  Kehti thi yeh Zainab, yuṅ maa ka maan nibhana
+  Kehti thi yeh Zainab, yun maa ka maan nibhana
   Ae Aun o Muhammad
   
   Shabbir ka tum sadqa ho, ab kheme meiṅ beta
@@ -26,8 +26,8 @@ romanLyrics: |-
   Tum pyaas na bujhana
   
   2
-  Har haal mein tum par, laazim hai shukr
-  Khuda ka Ae shehzadon, hai sabr tumhara virsa
+  Har haal meiṅ tum par, laazim hai shukr
+  Khuda ka Ae shehzadoṅ, hai sabr tumhara virsa
   Farzand ho tum Zainab ke, shikwa nahiṅ karna
   Jab zakhm koi khana
   
@@ -45,13 +45,13 @@ romanLyrics: |-
   
   5
   Qaatil pe karam, nana ki tarah kar dena
-  Yuṅ laaj mere, bhai ke naam ki rakhna
+  Yun laaj mere, bhai ke naam ki rakhna
   Jo waasta de bhai ka, maidan meiṅ us par
   Tum tegh na chalana
   
   6
-  Jab laashe utha kar, kheme mein laye
-  Sarwar Zainab yeh boli, ashkon ko apne chupa kar
+  Jab laashe utha kar, kheme meiṅ laye
+  Sarwar Zainab yeh boli, ashkoṅ ko apne chupa kar
   Maiṅ bhi na tumhe rungi, aur mere liye bhi
   Aansu na tum bahaana
   

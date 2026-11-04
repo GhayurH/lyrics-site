@@ -21,7 +21,7 @@ romanLyrics: |-
   Ye sab sifaat hoṅ jis meiṅ usi ki baat karo
   
   3
-  Ali ke naqsh-e-qadam ka main zikr karta huṅ
+  Ali ke naqsh-e-qadam ka maiṅ zikr karta huṅ
   Tum us ke saath hi dosh-e-Nabi ki baat karo
   
   4
@@ -37,12 +37,12 @@ romanLyrics: |-
   Na is tarha kabhi diwangi ki baat karo
   
   7
-  Azal se saaqi-e-kausar se huṅ main waabasta
+  Azal se saaqi-e-kausar se huṅ maiṅ waabasta
   Na mere aage kisi tishnigi ki baat karo
   
   8
   Lehad meiṅ meri andhera ho ghair mumkin hai
-  Jahaṅ Ali ho wahaṅ roshni ki baat karo
+  Jahaṅ Ali ho wahan roshni ki baat karo
   
   9
   Hai waqt nazaa ka baali pa aaye haiṅ Mola
@@ -53,7 +53,7 @@ romanLyrics: |-
   Ab aa gaye ho to betho Ali ki baat karo
   
   11
-  Bawaqt-e-nazaa kahunga mein mominon se Said
+  Bawaqt-e-nazaa kahunga meiṅ mominoṅ se Said
   Nikal raha hai mera dam Ali ki baat karo
 ---
 

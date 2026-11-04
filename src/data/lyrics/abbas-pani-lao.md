@@ -39,7 +39,7 @@ romanLyrics: |-
   Pyasi hai mustarib hai aakar use sulao
   
   5
-  Kanon may al-atash ki awaaz aa rahi hai
+  Kanoṅ may al-atash ki awaaz aa rahi hai
   Aur uspe fauj-e-aada ye zulm dha rahi hai
   Unko dikha dikha kar pani baha raha hai
   Bache hai sheh ke pyase aada ko ye batao

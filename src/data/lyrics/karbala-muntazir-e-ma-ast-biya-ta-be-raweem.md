@@ -32,11 +32,11 @@ romanLyrics: |-
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   3
-  Tashnalab Logon Ke Ye Khun Ka Darya Dekho
+  Tashnalab Logoṅ Ke Ye Khun Ka Darya Dekho
   Tukde Tukde Jo Hai Qasim Ka Ye Laasha Dekho
   Bhai Abbas Ke Ye Dast-e-Burida Dekho
   Laasha-e-Asghar Liye Ye Kaun Hai Tanha Dekho
-  Bhar Gaya Laashon Se Maidaan, Biya Ta Be Rawim
+  Bhar Gaya Laashoṅ Se Maidaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   4
@@ -49,7 +49,7 @@ romanLyrics: |-
   
   5
   Koi Iza Na Pahunch Paaye Nabi Ke Ghar Ko
-  Raah-e-Shabbir Mein Hum Ab Bhi Kata Dein Sar Ko
+  Raah-e-Shabbir Meiṅ Hum Ab Bhi Kata Deiṅ Sar Ko
   Tir Lag Jaaye Na Hurmala Ka Ali Asghar Ko
   Koi Barchhi Na Kahiṅ Lag Jaaye Ali Akbar Ko
   Jaan Par Waar Do Tum Jaan, Biya Ta Be Rawim
@@ -73,9 +73,9 @@ romanLyrics: |-
   
   8
   Muntaqim Karb o Bala Ka Wo Abhi Aayega
-  Jo Husaini Hai Wo Lashkar Mein Abhi Pahunchega
+  Jo Husaini Hai Wo Lashkar Meiṅ Abhi Pahunchega
   Kaun Aulaad Ko Nusrat Ke Liye Bhejega
-  Kaun Akbar Ke Kaleje Se Sinaan Khenchega
+  Kaun Akbar Ke Kaleje Se Sinaaṅ Khenchega
   Ye Husaini Ka Hai Paighaam, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
@@ -91,7 +91,7 @@ romanLyrics: |-
   Nasir-e-Mehdi-e-Haq, Janib-e-Kaaba Aaja
   Chhod Kar Daulat-e-Duniya Ki Tamanna Aaja
   Faisla Hurr Ki Tarah Karke Tu Aaja, Aaja
-  Muntazir Teri Hi Ghaibat Mein Hai Moula, Aaja
+  Muntazir Teri Hi Ghaibat Meiṅ Hai Moula, Aaja
   Tujhpe Qurbaan Meri Jaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
@@ -99,8 +99,8 @@ romanLyrics: |-
   Kaash E Kaash Koi Hota Wafa Ka Meyaar
   Kaash E Kaash Koi Rakhta Mukammal Kirdar
   Koi Tamir Kara Deta Baqiye Ka Mazaar
-  Kaash Hum Mein Koi Hota Janab-e-Mukhtar
-  Hai Kahan Aisa Musalmaan, Biya Ta Be Rawim
+  Kaash Hum Meiṅ Koi Hota Janab-e-Mukhtar
+  Hai Kahaṅ Aisa Musalmaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   12

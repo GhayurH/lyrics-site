@@ -36,16 +36,16 @@ romanLyrics: |-
   
   3
   Mere Khuda Wo Zabaneiṅ Jo Teri Hamd Kareiṅ
-  Wo Tere Panjtan-e-Pak Ki Dua Mein Rahein
-  Kabhi Wo Nar-e-Jahannam Ki Sakhtiyan Na Sahein
-  Pul-e-Siraat Se beKhauf o beKhatar Guzrein
+  Wo Tere Panjtan-e-Pak Ki Dua Meiṅ Raheiṅ
+  Kabhi Wo Nar-e-Jahannam Ki Sakhtiyaṅ Na Saheiṅ
+  Pul-e-Siraat Se beKhauf o beKhatar Guzreiṅ
   Gunahgaron Ko Ye Aasra Hai Subh o Masa
   Khula Hua Hai Musalsal Tera Dar-e-Tauba
   
   4
-  Rasul-e-Pak Ke Sadqe Mein Aaye Khuda Ghar Ghar
-  Shua-e-Ilm Ki Kirnon Ka Mustaqil Ho Guzar
-  Khula Rahe Mere Bachon Pe Shahr-e-Ilm Ka Dar
+  Rasul-e-Pak Ke Sadqe Meiṅ Aaye Khuda Ghar Ghar
+  Shua-e-Ilm Ki Kirnoṅ Ka Mustaqil Ho Guzar
+  Khula Rahe Mere Bachoṅ Pe Shahr-e-Ilm Ka Dar
   Rahe Jawano Ki Har Dam Teri Riza Pe Nazar
   Teri Riza Ke Bina Rizq-e-Ilm Kya Ho Ata
   Jo Tu Na Chahe Dar-e-Ilm Khul Nahiṅ Sakta
@@ -53,7 +53,7 @@ romanLyrics: |-
   5
   Tu Mere Aib Chhupata Hai Daal Kar Parda
   Ilahi Deta Huṅ Maiṅ Tujh Ko Wasta Us Ka
-  Wohi Jo Sham-e-Ghariban Mein De Rahi Thi Sada
+  Wohi Jo Sham-e-Ghariban Meiṅ De Rahi Thi Sada
   Nahiṅ Hai Kuch Bhi Mere Paas Is Rida Ke Siwa
   Rasulzadi Ke Parde Ki Laaj Rakh Lena
   Bharam Duaoṅ Ka Meri Bhi Aaj Rakh Lena
@@ -72,7 +72,7 @@ romanLyrics: |-
   Pahan Ke Beriyaṅ Jo Karbala Se Sham Gaya
   Usi Mariz Ke Sadqe Se Maangte Haiṅ Shifa
   Maraz Se Pehle Dawa Khalq Tu Ne Ki Hai Khuda
-  Baraye Syed-e-Sajjad De Hamein Bhi Shifa
+  Baraye Syed-e-Sajjad De Hameiṅ Bhi Shifa
   
   8
   Ilahi Sayyidi Maulaya Ya Aziz o Hakim

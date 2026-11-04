@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   1
   Nad-e Ali ka wird jo karti chali gayi
-  Umr-e rawaṅ sukun se guzarti chali gayi
+  Umr-e rawan sukun se guzarti chali gayi
 
   2
   Jis ne dar-e Husain pe sar ko jhuka diya
@@ -33,7 +33,7 @@ romanLyrics: |-
   Duniya yeh arzu liye marti chali gayi
 
   6
-  Maidan mein tez-dasti-e tegh-e Ali na puch
+  Maidaṅ meiṅ tez-dasti-e tegh-e Ali na puch
   Sar se chali badan meiṅ utarti chali gayi
 
   7

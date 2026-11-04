@@ -12,26 +12,26 @@ cover: "/images/lyrics/daastaan-e-shujaat-ka-darain-mein.png"
 coverAlt: "Cover image for Daastaan-E-Shujaat Ka Darain Mein"
 published: true
 romanLyrics: |-
-  Daastaan-e-Shujaat ka darain mein
+  Daastaan-e-Shujaat ka daraiṅ meiṅ
   aik bemisl kirdar abbas hai
   
   Haiṅ Ali ke Athara Hi bete Ali
   Par sabhi meiṅ Alamdar Abbas Hai
   
   1
-  Inke lehje mein hashim ki hashmat bhi hai
-  Inke tewar mein hamza ki haibat bhi
+  Inke lehje meiṅ hashim ki hashmat bhi hai
+  Inke tewar meiṅ hamza ki haibat bhi
   Har ada inki imran ka aqs hai
-  Inki bahon mein jaafar ki taaqat bhi hai
+  Inki bahon meiṅ jaafar ki taaqat bhi hai
   
   Pyaar hai mustufa ka husain o hasan
   Aur hassnain ka pyaar abbas hai
   
   2
-  Naql-e-azmat ka shirin samar haiṅ yehin
-  Ismatoṅ ke sadaf ke gohar haiṅ yehin
-  Nur ki sidrat-ul-muntaha haiṅ yehin
-  Hashimi aasmaṅ ke qamar haiṅ yehin
+  Naql-e-azmat ka shiriṅ samar haiṅ yehiṅ
+  Ismatoṅ ke sadaf ke gohar haiṅ yehiṅ
+  Nur ki sidrat-ul-muntaha haiṅ yehiṅ
+  Hashimi aasmaṅ ke qamar haiṅ yehiṅ
   
   Jinke saaye me akber bhi palte rahe
   Husn ka aisa minaar abbas hai
@@ -51,16 +51,16 @@ romanLyrics: |-
   durr-e-shehwaar Behr-e-saqawat hai ye
   Haq to ye hai ke haq ki haqiqat hai
   
-  Vo duwaayen jo bibi ne sajdon mein kin
+  Vo duwaayen jo bibi ne sajdoṅ meiṅ kiṅ
   un duaoṅ ka meyar abbas hai
   
   5
   Qabr kya hai andhera sa ghar hai jahaṅ
   Marefat ke siva koi sapna nahiṅ
-  Vo bohat hi andheri jagah hai wahaṅ
+  Vo bohat hi andheri jagah hai wahan
   Koi yawar nahi koi apna nahiṅ
   
-  Tumse milne lahad mein ali aayenge
+  Tumse milne lahad meiṅ ali aayenge
   Bolo tanhai me aur kya chahiye
 ---
 

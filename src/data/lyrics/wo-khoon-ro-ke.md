@@ -13,7 +13,7 @@ coverAlt: "Cover image for Wo Khoon Ro Ke"
 published: true
 romanLyrics: |-
   Wo khun ro ke kehta raha zamanay se
-  <u>Ridaein chino naa</u> logo mere gharanay se
+  <u>Ridaeiṅ chino naa</u> logo mere gharanay se
   
   1
   <u>Sawal-e-aab pe sonay pe us ke rone pe</u>

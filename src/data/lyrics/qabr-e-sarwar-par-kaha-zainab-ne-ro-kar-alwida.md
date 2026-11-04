@@ -16,7 +16,7 @@ romanLyrics: |-
   Kuch Khabar Hai Hum Pe Kya Guzri Baradar, Alwida
   
   1
-  Aag Khaimon Mein Laga Di Lashkar-e-Kuffaar Ne
+  Aag Khaimoṅ Meiṅ Laga Di Lashkar-e-Kuffaar Ne
   Chhin Liṅ Saidaniyoṅ Ke Sar Se Chadar, Alwida
   
   2
@@ -32,16 +32,16 @@ romanLyrics: |-
   Lo Phupi Jaati Hai Uttho, Mere Akbar, Alwida
   
   5
-  Ho Gayi Shart-e-Wafa Par Tum Na Aye Shaam Mein
+  Ho Gayi Shart-e-Wafa Par Tum Na Aye Shaam Meiṅ
   Taazianey Maartey The Jab Sitamgar, Alwida
   
   6
-  Shaam Ke Darbaar Mein The Saat Sau Kursi-Nashin
+  Shaam Ke Darbaar Meiṅ The Saat Sau Kursi-Nashin
   The Rasan-Basta Wahan Aal-e-Payambar, Alwida
   
   7
   Thi Bohat Ummid Hai Abbas Sa Bhai Mera
-  Main Na Jaungi Kabhi Kufa Khule-Sar, Alwida
+  Maiṅ Na Jaungi Kabhi Kufa Khule-Sar, Alwida
   
   8
   Phir Nazar Ki Su-e-Neher-e-Alqama Aur Yeh Kaha
@@ -49,7 +49,7 @@ romanLyrics: |-
   
   9
   Yeh Khalish Dil Se Na Jaye Gi Qayamat Tak Kabhi
-  Haye Kufe Mein Gayi Zainab Khule-Sar, Alwida
+  Haye Kufe Meiṅ Gayi Zainab Khule-Sar, Alwida
 ---
 
 قبرِ سرور پر کہا زینب نے رو کر، الوداع

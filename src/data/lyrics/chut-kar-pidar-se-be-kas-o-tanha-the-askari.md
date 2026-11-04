@@ -19,12 +19,12 @@ romanLyrics: |-
   Paband-e-Hukm-e-Khaliq-e-Yakta The Askari
   Haq Ke Wali The Khalq Ke Maula The Askari
   Ehsan Tha Jis Ka Josh Wo Darya The Askari
-  Abr-e-Karam The Bahr-e-Sakha The Zamane Mein
+  Abr-e-Karam The Bahr-e-Sakha The Zamane Meiṅ
   Waise Hi Jaise Hote Rahe Is Gharane Meiṅ
   
   2
-  Tha Kaun Iss Kharabe Mein Ghamkhwar-e-Ahl-e-Bait
-  Kis Ghar Mein Thi Luti Hui Sarkar-e-Ahl-e-Bait
+  Tha Kaun Iss Kharabe Meiṅ Ghamkhwar-e-Ahl-e-Bait
+  Kis Ghar Meiṅ Thi Luti Hui Sarkar-e-Ahl-e-Bait
   Dam Torta Tha Qafila Salar-e-Ahl-e-Bait
   Majbur Tha Para Hua Mukhtar-e-Ahl-e-Bait
   Bistar Zamin-e-Sakht Ka, Takiya Tha Khisht Ka
@@ -42,21 +42,21 @@ romanLyrics: |-
   Shiddat Wo Tap Ki Zehr Ka Wo Sadma-e-Giraan
   Aisa Tha Zof Kanpta Tha Jism-e-Natawaan
   Kamsin Abhi The Hujjat-e-Haq Sahib-uz-Zaman
-  Tha Dusra Baras, Koi Kehta Hai Panchwaṅ
+  Tha Dusra Baras, Koi Kehta Hai Panchwan
   Jaan-e-Nabi Ne Bar-e-Imamat Utha Liya
-  Is Kam Sini Mein Koh-e-Musibat Utha Liya
+  Is Kam Sini Meiṅ Koh-e-Musibat Utha Liya
   
   5
-  Jab Zehr Se Shahid Huye Gyarhwiṅ Imam
+  Jab Zehr Se Shahid Huye Gyarhwin Imam
   Samarra Wale Khaak Urane Lage Tamam
   Bazar Band Kar Diye, Chhore Sab Apne Kaam
   Matam Meiṅ Askari Ke Huye Mahv Khaas o Aam
-  Darwaza-e-Imam Pe Aisi Fughan Hui
-  Samarra Mein Qayamat-e-Sughra Ayan Hui
+  Darwaza-e-Imam Pe Aisi Fughaṅ Hui
+  Samarra Meiṅ Qayamat-e-Sughra Ayan Hui
   
   6
-  Jis Ghar Mein Thi Bani Hui Qabr-e-Ali Naqi
-  Us Mein Hi Dafn Laash-e-Hasan Askari Hui
+  Jis Ghar Meiṅ Thi Bani Hui Qabr-e-Ali Naqi
+  Us Meiṅ Hi Dafn Laash-e-Hasan Askari Hui
   Ghar Ghar Se Thi Buland Sada Aah Aah Ki
   Untis Saal Bhi Na Hui Umr-e-Askari
   Madfun Khub Askari-e-, beWatan Huwa
@@ -66,12 +66,12 @@ romanLyrics: |-
   Ab Is Qalaq Se Hote Haiṅ Tukre Dil o Jigar
   Zulm Ahl-e-Bait Par Kiye Aada Ne Is Qadar
   Sajjad Jaise Roye Na Laash-e-Husain Par
-  Yuṅ Hi Na Roya Askari Ki Laash Par Pisar
-  Durre Uthaye Gard Wahaṅ Nabkaar The
-  Aamada-e-Qatl Par Yahan Bidat-Shiar The
+  Yun Hi Na Roya Askari Ki Laash Par Pisar
+  Durre Uthaye Gard Wahan Nabkaar The
+  Aamada-e-Qatl Par Yahaṅ Bidat-Shiar The
   
   8
-  Maula Imam-e-Asr Huye Aap To Nihan
+  Maula Imam-e-Asr Huye Aap To Nihaṅ
   Bachte To Kaise Abid-e-Bimar o Natawan
   Dena Tha Un Ko Sabr o Tahammul Ka Imtihaṅ
   Wo Kufa o Dimashq Gaye Pehne Beriyaṅ

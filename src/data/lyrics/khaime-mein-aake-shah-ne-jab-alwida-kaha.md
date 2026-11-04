@@ -25,9 +25,9 @@ romanLyrics: |-
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   2
-  Kuch Dur Hat Ke Khaime Mein Bole Sheh-e-Zaman
+  Kuch Dur Hat Ke Khaime Meiṅ Bole Sheh-e-Zaman
   Zehmat Na Ho To Baazu Barhao Zara Behan
-  Main Bose Lun Wahan Ke Bandhegi Jahan Rasan
+  Maiṅ Bose Luṅ Wahan Ke Bandhegi Jahaṅ Rasan
   Baazu Barha Ke Roti Thi Hamshir-e-Khasta Tan
   Bhai Behan Ke Baazuoṅ Ko Chumne Laga
   Kohraam Mach Gaya, Kohraam Mach Gaya
@@ -36,7 +36,7 @@ romanLyrics: |-
   Ye Sun Ke Bint-e-Fatima Zehra Tarap Gayi
   Boli Gala Barhao Bas Ab Jald Ya Akhi
   Amma Ki Baat Aaj Mujhe Yaad Aagayi
-  Main Bose Lun Wahan Ke Chalegi Jahan Chhuri
+  Maiṅ Bose Luṅ Wahan Ke Chalegi Jahaṅ Chhuri
   Zainab Ne Barh Ke Chuma Baradar Ka Jab Gala
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
@@ -58,7 +58,7 @@ romanLyrics: |-
   
   6
   Abid Se Phir Ye Kehne Lage Shah-e-Karbala
-  Bewaaoṅ Ka Aur Yatimoṅ Ka Ab Tum Ho Aasra
+  Bewaaon Ka Aur Yatimoṅ Ka Ab Tum Ho Aasra
   Jo Imtehan Mera Tha Sab Maine De Diya
   Aage Tera Jihad Hai Bimar-e-Karbala
   Bimar Beta Baap Se Jis Dam Juda Hua

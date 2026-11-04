@@ -25,7 +25,7 @@ romanLyrics: |-
   
   3
   Jo hijre padar may rahe har waqt pareshaṅ soyi nahi ek aan
-  Us bachi ko zindaan may sulaa aayi hai Zainab ay Shehr-e-Madina
+  Us bachi ko zindaaṅ may sulaa aayi hai Zainab ay Shehr-e-Madina
   
   4
   Dhaaras thi bahot Bhai ko jis Bhai ke dam se dil phat-ta hai gham se
@@ -40,7 +40,7 @@ romanLyrics: |-
   Qurbaan unhe Bhai par kar aayi hai Zainab ay Shehr-e-Madina
   
   7
-  Tha Akbar-e-Nashaad jo is ghar ka ujaala wo Gaysuon wala
+  Tha Akbar-e-Nashaad jo is ghar ka ujaala wo Gaysuoṅ wala
   Marqad may akela usay choad aayi hai Zainab ay Shehr-e-Madina
   
   8

@@ -25,7 +25,7 @@ romanLyrics: |-
   Waqt yeh woh hai ke talwar utha len hum log
   Din-e haq ko kisi surat se bacha len hum log
   Kiuṅ kisi aur pe is baar ko daleṅ hum log
-  Kiuṅ na yeh maarka khud aap sambhaleṅ hum log
+  Kiuṅ na yeh maarka khud aap sambhalen hum log
 
   Khinch kar niyam se talwar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
@@ -76,9 +76,9 @@ romanLyrics: |-
   Karbala ho chuki tayyar, taqaddam waladi
 
   8
-  Kahin aisa na ho Abbas-e Ali, batal-e jalil
+  Kahiṅ aisa na ho Abbas-e Ali, batal-e jalil
   Is tarah dekh ke barbadi-e gulzar-e Khalil
-  Tum se pehle hi woh kar jayen wigha mein ta’jil
+  Tum se pehle hi woh kar jayeṅ wigha meiṅ ta’jil
   Kar ke Qasim ke hawale alam-e fauj-e qalil
 
   Khud barheṅ tol ke talwar, taqaddam waladi

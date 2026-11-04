@@ -33,12 +33,12 @@ romanLyrics: |-
   Shabbir mil gaye jisay usko khudaa mila
   
   6
-  laakhoṅ hazarzoṅ saal ke sajde hawa huwe
+  laakhoṅ hazarzon saal ke sajde hawa huwe
   iblis ko batao to sajdoṅ se kiya mila
   
   7
-  dunya ki chah mein huwi dunya bhi uski ghair
-  haider ki dushmani mein bhala usko kiya mila
+  dunya ki chah meiṅ huwi dunya bhi uski ghair
+  haider ki dushmani meiṅ bhala usko kiya mila
   
   8
   Himmat hai shart aik qadam ka hai faaslaa

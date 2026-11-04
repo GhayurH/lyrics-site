@@ -15,21 +15,21 @@ romanLyrics: |-
   1
   Sharik-e-dawat-e-Islam haiṅ Abu Talib
   Nabi ko haq ka ik inaam haiṅ Abu Talib
-  Harim-e-wahi main ilhaam haiṅ Abu Talib
+  Harim-e-wahi maiṅ ilhaam haiṅ Abu Talib
   Haram ke azm ka ehram haiṅ Abu Talib
-  Yay chunkay laeyn jo ghuncha wo phul hojaey
+  Yay chunkay laeyṅ jo ghuncha wo phul hojaey
   Phir inki gaud may pal kar Rasul hojaey
 
   2
   Rasul-e-Rab ke nigehban haiṅ Abu Talib
   Nabi hay din to eman haiṅ Abu Talib
   Nazul-e-wahi ka unwan haiṅ Abu Talib
-  Baghair lafzon ka Quran haiṅ Abu Talib
+  Baghair lafzoṅ ka Quran haiṅ Abu Talib
   Inhi ke dum se huwi ibtida-e-bismillah
   Inhi ne nukta diya zair-e-ba-e-bismillah
 
   3
-  Payambari ki balaon ka rad Abu Talib
+  Payambari ki balaoṅ ka rad Abu Talib
   Madad Khuda ki hay shakalay madad Abu Talib
   Nabi ki dhaal damay jiddo kud Abu Talib
   Nishana khutmay Rasul aur zud Abu Talib
@@ -79,7 +79,7 @@ romanLyrics: |-
   9
   Yay baat agar ho ijazut to puchlu mai yahi
   Husain Ibn-e-Ali kya nahi the Mohsin-e-Din
-  Hum inko roaein to phir kyu ho koyi jiba jabin
+  Hum inko roaeiṅ to phir kyu ho koyi jiba jabiṅ
   Bane the inka to naqa Rasul-e-Arsh-e-Nashi
   Husain soway Shah-e-Mursali ke sinay pur
   Ghazub he Shimar ka zanu unhi ke sine pur

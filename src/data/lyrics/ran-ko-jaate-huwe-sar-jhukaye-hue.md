@@ -27,13 +27,13 @@ romanLyrics: |-
   
   2
   jis se darti thi tum wo ghari aagayi
-  dekho charon taraf tirgi cha gayi
+  dekho charoṅ taraf tirgi cha gayi
   tirgi cha gayi
-  dasht-e-pur-haul main sham hone ko hai
+  dasht-e-pur-haul maiṅ sham hone ko hai
   lo musafir chala alwida alwida
   
   3
-  le ke bali sakina ko aaghosh mein
+  le ke bali sakina ko aaghosh meiṅ
   nanhe nanhe se haathoṅ ke bose liye
   ro ke bose liye
   sheh ne hasrat se beti ko takte huwe

@@ -24,7 +24,7 @@ romanLyrics: |-
   sar utha sakte nahi Maula Musa Kazim
   
   3
-  misl-e-Sughra woh tadapti rahi furqat mein teri
+  misl-e-Sughra woh tadapti rahi furqat meiṅ teri
   betiyaṅ takti rahiṅ tera rasta Kazim
 ---
 

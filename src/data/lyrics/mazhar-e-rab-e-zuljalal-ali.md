@@ -21,7 +21,7 @@ romanLyrics: |-
   Dekh kr apka jamaal Ali
   
   3
-  Bola Din e khuda ye mushkil mein
+  Bola Din e khuda ye mushkil meiṅ
   Ghir raha huṅ mujhe sambhal ALI
   
   4

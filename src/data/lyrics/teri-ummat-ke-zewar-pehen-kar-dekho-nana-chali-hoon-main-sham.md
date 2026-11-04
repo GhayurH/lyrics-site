@@ -24,7 +24,7 @@ romanLyrics: |-
   Dekho Bhaiya Chali Huṅ Maiṅ Sham
   
   2
-  Tere Bachchoṅ Ko Le Kar Gayi Maiṅ
+  Tere Bachchon Ko Le Kar Gayi Maiṅ
   Shab Bhar Saari Roti Rahi Huṅ
   Kabhi Ghazi Ka Lehja Badal Kar
   Maiṅ Pehre Bhi Deti Rahi Huṅ
@@ -45,15 +45,15 @@ romanLyrics: |-
   Sabhi Qari o Hafiz The Baithe
   Aur Sar Pe Na Thi Mere Chadar
   Haye Nana Teri Betiyoṅ Ko
-  Yuṅ Laye Haiṅ Sar Nange Aam
+  Yun Laye Haiṅ Sar Nange Aam
   
   5
   Jis Zainab Ko Tum Ne Baradar
   Kabhi Nazreiṅ Utha Kar Na Dekha
   Haath Rassi Meiṅ Mere Bandhe Haiṅ
   Aur Sar Par Nahiṅ Mere Chadar
-  Kaise Kufe Mein Jaungi Ghazi
-  Jab Majma Mein Aayega Naam
+  Kaise Kufe Meiṅ Jaungi Ghazi
+  Jab Majma Meiṅ Aayega Naam
   
   6
   Jaise Darbar Paas Aa Raha Hai
@@ -76,8 +76,8 @@ romanLyrics: |-
   Kabhi Nazreiṅ Utha Kar Na Dekha
   Haath Rassi Se Mere Bandhe Haiṅ
   Aur Sar Par Nahiṅ Mere Parda
-  Kaise Kufe Mein Jaungi Ghazi
-  Jab Balwe Mein Aayega Naam
+  Kaise Kufe Meiṅ Jaungi Ghazi
+  Jab Balwe Meiṅ Aayega Naam
   
   9
   Jaise Darbar Paas Aa Raha Hai
@@ -101,7 +101,7 @@ romanLyrics: |-
   Jis Ne Ajdad Mare Hamare
   Aa Rahi Hai Yahaṅ Us Ki Beti
   Kholta Pani Phenko Chhatoṅ Se
-  Pattharoṅ Ka Karo Intizam
+  Pattharon Ka Karo Intizam
 ---
 
 تیری امت کے زیور پہن کر

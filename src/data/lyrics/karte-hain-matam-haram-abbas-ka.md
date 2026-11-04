@@ -53,18 +53,18 @@ romanLyrics: |-
   Jab Hua Baazu Qalam Abbas Ka
   
   8
-  Ab Kahan Bujh Payegi Dukhya Ki Pyaas
+  Ab Kahaṅ Bujh Payegi Dukhya Ki Pyaas
   Tut Gayi Baali Sakina Ki Aas
   Ho Gaya Baazu Qalam Abbas Ka
   
   9
   Ashq-e-Lahu Ro Diya Charkh-e-Gohar
-  Ro Diye Besaakhta Shahe Zaman
+  Ro Diye Besaakhta Shahe Zamaṅ
   Dekh Ke Chhalni Alam Abbas Ka
   
   10
   Naize Pe Us Qaari-e-Quran Ke Saath
-  Daaem-e-Ghamkhwaar Bhi Yazdaan Ke Saath
+  Daaem-e-Ghamkhwaar Bhi Yazdaaṅ Ke Saath
   Karta Hai Nauha Raqam Abbas Ka
 ---
 

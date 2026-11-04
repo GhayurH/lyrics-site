@@ -16,20 +16,20 @@ romanLyrics: |-
   pardes meiṅ tanha the taqdir ke maare
   
   1
-  dono bachon ka wahan koi madadgar na tha
+  dono bachoṅ ka wahan koi madadgar na tha
   sirf tanhai thi yaawar na the gham-khwar na tha
   woh bhatakte rahe dar dar koi dildar na tha
   koi dono ki madad karne ko tayyar na tha
   thak kar ke jo girta tha kabhi chhota baradar
-  chalta tha bada bhai use god mein lekar
+  chalta tha bada bhai use god meiṅ lekar
   
   2
   chhote bhai ne bade bhai se ro kar pucha
   bhaiya itna to bata do ke kahaṅ haiṅ baba
   hum musafir haiṅ yahaṅ koi nahi hai apna
-  hum ko pardes mein ab kaun sahara dega
-  har samt andhera hai kahan jayenge bhai
-  lagta hai humein baba na mil payenge bhai
+  hum ko pardes meiṅ ab kaun sahara dega
+  har samt andhera hai kahaṅ jayenge bhai
+  lagta hai humeiṅ baba na mil payenge bhai
   
   3
   raat kaali thi andhere meiṅ woh dono bache
@@ -57,7 +57,7 @@ romanLyrics: |-
   
   6
   mutmain ho gaye jis waqt ke woh mah-e-laqa
-  le gayi bachon ko hujre mein kaniz-e-Zahra
+  le gayi bachoṅ ko hujre meiṅ kaniz-e-Zahra
   khana pani jo mila bachoṅ ka dil bhar aaya
   saamne nazroṅ ke maa baap ka chehra aaya
   baba ke liye mahv-e-buka ho gaye dono
@@ -69,7 +69,7 @@ romanLyrics: |-
   aaheiṅ bharne lage hujre meiṅ woh pyare dono
   roye besakhta taqdir ke maare dono
   rone ki sada sun ke utha Haris-e-malun
-  khanjar liye hujre mein gaya Haris-e-malun
+  khanjar liye hujre meiṅ gaya Haris-e-malun
   
   8
   dekha Haris ko to masum bahut ghabraye
@@ -83,7 +83,7 @@ romanLyrics: |-
   kitna malun tha Haris ko taras na aaya
   Momina ki na suni ek use qatl kiya
   baal bachoṅ ke pakar kar woh sitamgar nikla
-  bache kehte the humein maar ke kya payega
+  bache kehte the humeiṅ maar ke kya payega
   dirham tujhe dilwayenge jitna tu bata de
   le chal ke Madine humeiṅ amma se mila de
   
@@ -105,11 +105,11 @@ romanLyrics: |-
   
   12
   chhote bhai ne lahu dekha jis dam
-  lot kar khun mein bhai ke woh tadpa pur-gham
+  lot kar khun meiṅ bhai ke woh tadpa pur-gham
   dekh kar su-e-nahr kehta tha ke haaye matam
   bhai thehro ke zara der meiṅ aate haiṅ hum
   yeh dekh ke malun ne talwar chalayi
-  aur ho gayi bekas ke sar o tan mein judai
+  aur ho gayi bekas ke sar o tan meiṅ judai
   
   13
   sar ko jab kaat chuka tan ko nahr meiṅ dala

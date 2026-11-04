@@ -27,7 +27,7 @@ romanLyrics: |-
   
   2
   qarz maqruz ka ada kar de
-  muflison ka nasib wa kar de
+  muflisoṅ ka nasib wa kar de
   jin ki godi bhari nahi bibi
   unko aulaad tu ata kar de
 
@@ -36,7 +36,7 @@ romanLyrics: |-
   
   3
   farsh-e-majlis pe aur musalle par
-  har jawaṅ keh raha hai ro ro kar
+  har jawan keh raha hai ro ro kar
   hum raheiṅ na raheiṅ magar bibi
   ta qayamat rahe gham-e-Sarwar
 
@@ -56,9 +56,9 @@ romanLyrics: |-
   khun ban kar ragoṅ meiṅ hai nauha
   meri nasloṅ meiṅ bhi rahe nauha
   jaise maine parha hai bachpan se
-  mere bache bhi yuṅ parheiṅ nauha
+  mere bache bhi yun parheiṅ nauha
 
-  ay meri bibi, inke dil mein wilayah-e-Haider
+  ay meri bibi, inke dil meiṅ wilayah-e-Haider
   mere maa baap ki taharat ka ek ishara hai
   
   6
@@ -71,7 +71,7 @@ romanLyrics: |-
   sare aalam ka dil masaib se para para hai
   
   7
-  tujh ko ummat ne yuṅ sataya hai
+  tujh ko ummat ne yun sataya hai
   marg-e-Mohsin pe bhi rulaya hai
   tujh ko baba ke baad ummat ne
   haaye darbar meiṅ bulaya hai
@@ -83,7 +83,7 @@ romanLyrics: |-
   hai yahi Mazhar Abidi ki dua
   tere bachoṅ ka gham rahe zinda
   saath Irfan ke rahe jaari
-  tere sadqe mein karwan-e-aza
+  tere sadqe meiṅ karwan-e-aza
 
   e meri bibi, tere dar pe sar jhukate haiṅ
   har Husaini ka tere tukroṅ pe hi guzara hai

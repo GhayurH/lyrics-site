@@ -28,7 +28,7 @@ romanLyrics: |-
   Dil-e-Rasul Ki Surat Hai Fatema Maasum
   Kamaal-e-Ilm Se Aisa Bana Diya Maqsum
   Nasib Ho Gaye Gyarah Imaamatoṅ Ke Nuzul
-  Waqaar-e-Bint-e-Nabi Mein Na Kuch Kami Aaye
+  Waqaar-e-Bint-e-Nabi Meiṅ Na Kuch Kami Aaye
   Khuda Ke Ghar Meiṅ Isi Waaste Ali Aaye
   
   3
@@ -36,7 +36,7 @@ romanLyrics: |-
   Nabi Ki Beti Ne Chakki Meiṅ Khushk Jao Pise
   Ali Ne Baaghoṅ Meiṅ Paani Diya, Jihaad Kiye
   Nabi Ki Beti Ne Faaqoṅ Meiṅ Bhar Diye Sajde
-  Jihaad-e-Nafs Ka Maidaan Ali Ke Haath Raha
+  Jihaad-e-Nafs Ka Maidaaṅ Ali Ke Haath Raha
   Kamaal-e-Sabr o Riza Fatema Ke Saath Raha
   
   4
@@ -48,17 +48,17 @@ romanLyrics: |-
   Jahaṅ Kaniz Ke Rutbe Pe Aasmaaṅ Jhuke
   
   5
-  Ba-Naam-e-Fatema Ummat Ki Betiyan Jaagein
-  Nigaah-e-Aql Se Raftaar-e-Zindagi Dekhein
-  Baraaye Ghairat-e-Dil Apne Aap Se Puchhein
-  Kise Milegi Jagah Fatema Ki Mehfil Mein
+  Ba-Naam-e-Fatema Ummat Ki Betiyaṅ Jaageiṅ
+  Nigaah-e-Aql Se Raftaar-e-Zindagi Dekheiṅ
+  Baraaye Ghairat-e-Dil Apne Aap Se Puchheiṅ
+  Kise Milegi Jagah Fatema Ki Mehfil Meiṅ
   Khuda Kare Wo Tamaasha-e-Rozgaar Na Ho
   Rasul-e-Paak Ki Beti Se Sharmsaar Na Ho
   
   6
   Dhuaaṅ Tanur Se Uttha To Saaeloṅ Ke Liye
   Khamir Ho Gaya Aata Musaafiroṅ Ke Liye
-  Sukun-e-Qalb Ka Saamaan Bekason Ke Liye
+  Sukun-e-Qalb Ka Saamaaṅ Bekason Ke Liye
   Ghiza-e-Sabr o Riza Apne Kamsinon Ke Liye
   Isi Maqaam Pe Khair-ul-Amal Ke Jalwe Haiṅ
   Yahi Wo Ghar Hai Jahaṅ Inqilaab Palte Haiṅ
@@ -66,9 +66,9 @@ romanLyrics: |-
   7
   Ali Ke Chehra-e-Aqdas Pe Ambiya Ka Jalaal
   Wujud-e-Fatema Zahra Pe Mustafa Ka Jamaal
-  Ali Ke Dam Se Jahaṅ Meiṅ Tajalliyoṅ Ke Nihaal
+  Ali Ke Dam Se Jahaṅ Meiṅ Tajalliyon Ke Nihaal
   Mataa-e-Fatema Zahra Hasan Husain Se Laal
-  Ali Ne Masjid-e-Kufa Mein Zakhm Khaaya Hai
+  Ali Ne Masjid-e-Kufa Meiṅ Zakhm Khaaya Hai
   Zamaane Walo Ne Zahra Ko Bhi Rulaaya Hai
 ---
 

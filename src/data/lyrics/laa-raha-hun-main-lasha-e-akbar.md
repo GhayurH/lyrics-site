@@ -12,14 +12,14 @@ cover: "/images/lyrics/laa-raha-hun-main-lasha-e-akbar.png"
 coverAlt: "Cover image for Laa Raha Hun Main Lasha E Akbar"
 published: true
 romanLyrics: |-
-  Laa raha huṅ main lasha e Akbar
+  Laa raha huṅ maiṅ lasha e Akbar
   Umme Laila sambhaal Zainab ko
   
   Bole honge Husain ye rokar
   Umme Laila sambhaal Zainab ko
   
   1
-  Naujawaṅ laash hai zaifi hai
+  Naujawan laash hai zaifi hai
   Meri nazroṅ se dekh manzar ko
   Kaise hamshir ko sambhalunga
   Mai sambhale hue huṅ Akbar ko
@@ -45,7 +45,7 @@ romanLyrics: |-
   4
   Rok rakha hai apne ashkoṅ ko
   Sab se chhup chhup ke aaheṅ bharti hai
-  Main samajhta huṅ maadar e Akbar
+  Maiṅ samajhta huṅ maadar e Akbar
   Teri mamta pe jo guzarti hai
   Rakh ke apne kaleje par pathar
   Umme Laila Sambhaal Zainab Ko
@@ -55,7 +55,7 @@ romanLyrics: |-
   Aeriyaṅ khat banati aati hai
   In nishano ko piche piche mere
   Amma Zehra mitati aati hai
-  Uski nazrein na dekhein ye manzar
+  Uski nazreiṅ na dekheiṅ ye manzar
   Umme Laila Sambhaal Zainab Ko
   
   6

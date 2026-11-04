@@ -17,7 +17,7 @@ romanLyrics: |-
   Daad mujh ko phir tumhara dil agar maane to do
 
   2
-  Hosh mein aa jayegi foran sipah-e bad-sifaat
+  Hosh meiṅ aa jayegi foran sipah-e bad-sifaat
   Tum muhibban-e Ali ko josh meiṅ aane to do
 
   3

@@ -18,7 +18,7 @@ romanLyrics: |-
 
   2
   Na puchiye hai kahaṅ La ilaha illa Allah
-  Jahaṅ Husain wahaṅ La ilaha illa Allah
+  Jahaṅ Husain wahan La ilaha illa Allah
 
   3
   Ali ki tegh se tarikh puchiye sab ki
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   5
   Ali ko dil meiṅ basa kar to dekh lo e waiz
-  To khud kahegi zaban La ilaha illa Allah
+  To khud kahegi zabaṅ La ilaha illa Allah
 
   6
   Nasiriyoṅ ko yaqiṅ La ilaha illa Ali
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   10
   Azaan meiṅ Ali Akbar ne La ilaha illa Allah kaha
-  To aaj tak hai jawaṅ La ilaha illa Allah
+  To aaj tak hai jawan La ilaha illa Allah
 
   11
   Dar-e Batul nahiṅ jal raha tha e Majid

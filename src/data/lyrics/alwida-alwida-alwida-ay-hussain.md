@@ -34,7 +34,7 @@ romanLyrics: |-
   
   4
   gar jiye saal bhar phir karenge yeh gham
-  royenge phir tere gham mein mil kar baham
+  royenge phir tere gham meiṅ mil kar baham
   aur agar mar gaye to yeh hoga alam
   haaye afsos ji bhar ke roye na hum
   

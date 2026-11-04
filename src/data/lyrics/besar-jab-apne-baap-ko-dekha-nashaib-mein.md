@@ -12,11 +12,11 @@ cover: "/images/lyrics/besar-jab-apne-baap-ko-dekha-nashaib-mein.png"
 coverAlt: "Cover image for Besar Jab Apne Baap Ko Dekha Nashaib Mein"
 published: true
 romanLyrics: |-
-  sunsaan ban wo raat wo uth'ta hua dhuan
+  sunsaan ban wo raat wo uth'ta hua dhuaṅ
   nikli padar ko dhundne nanhi si ek jaaṅ
 
-  daaman jala huwa tha to kaanoṅ se khun rawaaṅ
-  nilai thai donoṅ gaal tamachoṅ ke thai nishaaṅ
+  daaman jala huwa tha to kaanoṅ se khun rawaan
+  nilai thai donoṅ gaal tamachon ke thai nishaaṅ
   tuta tha kamsini meiṅ masayib ka aasmaaṅ
   khati huwi wo thokareiṅ lashoṅ ke darmiyaṅ
 
@@ -25,7 +25,7 @@ romanLyrics: |-
   lekar usi sada ka sahara puhanch gayi
   roti hui nashaib mieṅ dukhiya puhanch gayi
   
-  besar jo apne baap ko dekha nashaib mein
+  besar jo apne baap ko dekha nashaib meiṅ
   royi bohat yatim sakina nashaib meiṅ
   
   1
@@ -37,7 +37,7 @@ romanLyrics: |-
   royi bohat yatim sakina...
 
   2
-  likha hai raawiyoṅ ne wo manzar bada ajib
+  likha hai raawiyon ne wo manzar bada ajib
   jangal wo kali raat wo ghurbat wo gham nasib
   awaaz sun ke baap ki pahunchi hai jab kharib
   haalat pidar ki dekh ke royi bohat gharib
@@ -56,7 +56,7 @@ romanLyrics: |-
   khaali na paayi jism pe tiroṅ se koi jaa
   karne lagi tawaaf wo baba ki laash ka
   mayus ho ke payinti baithi wo ghamzada
-  rukhsaar apne baap ke talwoṅ pe rakh diya
+  rukhsaar apne baap ke talwon pe rakh diya
   le kar padar ke paaoṅ ka bosa nashaib meiṅ
   royi bohat yatim sakina...
   
@@ -64,7 +64,7 @@ romanLyrics: |-
   apne pidar ki laash pe le le ke siskiyaṅ
   wo apne dard baap se karne lagi bayaṅ
   rukh par bani thi saaf jo zaalim ki ungliyaṅ
-  bachi ne jab dikhaye tamachoṅ ke wo nishaṅ
+  bachi ne jab dikhaye tamachon ke wo nishaṅ
   zakhmi badan husain ka tadpa nashaib meiṅ
   royi bohat yatim sakina...
 
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   7
   kehti thi mai yatim hu mujh par na waar kar
-  ki minnateiṅ bahot ki zara intezaar kar
+  ki minnatein bahot ki zara intezaar kar
   mai de rahi thi shimr ko bunde utaar kar
   chine hai be rehm ne magar mujhko maar kar
   ye dard jab pidar ko sunaya nashaib meiṅ

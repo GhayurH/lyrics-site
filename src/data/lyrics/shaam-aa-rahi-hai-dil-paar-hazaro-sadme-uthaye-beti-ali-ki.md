@@ -45,7 +45,7 @@ romanLyrics: |-
   Zainab ke sar par chadar nahi hai, kis tarha jaye beti ali ki
   
   8
-  Jo ke pali thi tukro pe unke, azaad hai wo adnaa kanizein
+  Jo ke pali thi tukro pe unke, azaad hai wo adnaa kanizeiṅ
   Kaisi qayamat aayi hai Ya Rab, qaidi hai haaye beti ali ki
 ---
 

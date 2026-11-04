@@ -26,7 +26,7 @@ romanLyrics: |-
   
   2
   Kashti giri Jb Nuh ki
-  Hatif ne yuṅ awaz di
+  Hatif ne yun awaz di
   Tufan jayega ye tham
   Naad e Ali parhte raho
   

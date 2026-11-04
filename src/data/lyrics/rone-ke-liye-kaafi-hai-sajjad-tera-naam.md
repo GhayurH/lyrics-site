@@ -16,8 +16,8 @@ romanLyrics: |-
   Tu Shahenshah-e-Dard Hai, Batla Rahi Hai Shaam
   
   1
-  Chala Bekasoṅ Ka Kaarvaṅ, Bemaar Logo Saarbaṅ
-  Hai Sang Sar-e-Uriyan, Sheh-e-La-Fata Ki Betiyan
+  Chala Bekasoṅ Ka Kaarvan, Bemaar Logo Saarbaṅ
+  Hai Sang Sar-e-Uriyan, Sheh-e-La-Fata Ki Betiyaṅ
   Karb o Bala Ke Dasht Meiṅ Barpa Hai Kohraam
   
   2

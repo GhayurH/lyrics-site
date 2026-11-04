@@ -25,14 +25,14 @@ romanLyrics: |-
   Bas Rondi Rehndi Ae
   
   1
-  Zainab Diyaṅ Banwaṅ Te Umri
+  Zainab Diyaṅ Banwan Te Umri
   De De Ke Bose Aakhe
   Ae Si Darbar Madine Da
   U Sham Ae Zainab
   Teri Peshi Ukhi Ae
   
   2
-  Ki Haal Dasa Tun Janda Aen
+  Ki Haal Dasa Tuṅ Janda Aen
   Darwaze Heath Si Umri
   Bas Ae Das Daaṅ Teri Ummat
   Darwaze Tuṅ Nana
@@ -40,7 +40,7 @@ romanLyrics: |-
   
   3
   Raataṅ Di Khamoshi De Ander
-  Jiveṅ Gunjan Azanaaṅ
+  Jiven Gunjan Azanaaṅ
   Udhi Pasliyaṅ De Do Howan Di
   Awaaz Vi Nana
   Yasrab Vich Gunji Ae
@@ -50,7 +50,7 @@ romanLyrics: |-
   Haye Kaash Ali Mar Janda
   Umri Nal Hui Gustakhi
   Tere Vir Ali Ne
-  Ankhiyaṅ Nal Wekhi Ae
+  Ankhiyan Nal Wekhi Ae
   
   5
   Tehrir De Tukre Jis Din Di
@@ -62,7 +62,7 @@ romanLyrics: |-
   6
   Jaduṅ Putar De Samne Umri De
   Chehre Te Aya Nil Ae
-  Is Roz Tuṅ Izzataṅ Wali Maaṅ
+  Is Roz Tuṅ Izzatan Wali Maaṅ
   Mere Vir Hasan De
   Nai Samne Aandi Ae
   

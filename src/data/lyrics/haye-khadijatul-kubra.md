@@ -12,7 +12,7 @@ cover: "/images/lyrics/haye-khadijatul-kubra.png"
 coverAlt: "Cover image for Haye Khadijatul Kubra"
 published: true
 romanLyrics: |-
-  do jahan mein matam hai, rehlat-e-Khadija se
+  do jahan meiṅ matam hai, rehlat-e-Khadija se
   haaye Khadijatul Kubra
   farsh o arsh par gham hai, rehlat-e-Khadija se
   haaye Khadijatul Kubra
@@ -24,7 +24,7 @@ romanLyrics: |-
   
   2
   saal bhar bichega ab, farsh-e-majlis o matam
-  Ahl-e-Bayt ke ghar mein, hoga hashr ka aalam
+  Ahl-e-Bayt ke ghar meiṅ, hoga hashr ka aalam
   chashm-e-Fatima nam hai, rehlat-e-Khadija se
   
   3
@@ -33,12 +33,12 @@ romanLyrics: |-
   jaari ashk paiham haiṅ, rehlat-e-Khadija se
   
   4
-  kaun kalma goyon ko, zulmaton mein paalega
-  kaun ab Muhammad ko, karb mein sambhalega
+  kaun kalma goyoṅ ko, zulmatoṅ meiṅ paalega
+  kaun ab Muhammad ko, karb meiṅ sambhalega
   pusht-e-Mustafa kham hai, rehlat-e-Khadija se
   
   5
-  gham hai dasweiṅ roze meiṅ, jaise das Muharram ka
+  gham hai daswein roze meiṅ, jaise das Muharram ka
   haath khud hi matam ko, utha Ahl-e-Matam ka
   haaṅ aza ka mausam hai, rehlat-e-Khadija se
   
@@ -49,7 +49,7 @@ romanLyrics: |-
   
   7
   har taraf se chalti hai, gham ki aandhiyaṅ Hamid
-  Ahl-e-Bayt ke ghar mein, ab khushi kahan Hamid
+  Ahl-e-Bayt ke ghar meiṅ, ab khushi kahaṅ Hamid
   gham hi gham muqaddam hai, rehlat-e-Khadija se
 ---
 

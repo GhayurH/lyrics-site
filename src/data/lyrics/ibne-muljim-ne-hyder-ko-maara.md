@@ -16,44 +16,44 @@ romanLyrics: |-
   Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Haiṅ
   
   1
-  Suni Qabr-e-Rasul-e-Khuda Hai, Ghar Mein Zehra Ke Matam Bapa Hai
+  Suni Qabr-e-Rasul-e-Khuda Hai, Ghar Meiṅ Zehra Ke Matam Bapa Hai
   Khaak Urata Hai Hyder Ka Kunba, Rozadaron Qayamat Ke Din Haiṅ
   
   2
-  Aal-e-Ahmed Pe Aafat Hai Aayi, Bekason Par Yatimi Hai Chhayi
+  Aal-e-Ahmed Pe Aafat Hai Aayi, Bekasoṅ Par Yatimi Hai Chhayi
   Uth Gaya Sar Se Hyder Ka Saaya, Rozadaron Qayamat Ke Din Haiṅ
   
   3
-  Ghar Mein Khaliq Ke Hyder Ko Maara, Janashin-e-Payambar Ko Maara
-  Haye Sajde Mein Sarwar Ko Maara, Rozadaron Qayamat Ke Din Haiṅ
+  Ghar Meiṅ Khaliq Ke Hyder Ko Maara, Janashin-e-Payambar Ko Maara
+  Haye Sajde Meiṅ Sarwar Ko Maara, Rozadaron Qayamat Ke Din Haiṅ
   
   4
   Kiuṅ Na Roye Ye Woh Gham Nahiṅ Hai, Shab Ye Ashur Se Kam Nahiṅ Hai
-  Khuld Mein Bhi Ye Matam Hai Barpa, Rozadaron Qayamat Ke Din Haiṅ
+  Khuld Meiṅ Bhi Ye Matam Hai Barpa, Rozadaron Qayamat Ke Din Haiṅ
   
   5
   Dil Hilate Haiṅ Zainab Ke Naale, Khaak Urate Haiṅ Sab Kunbe Wale
   Uth Raha Hai Ali Ka Janaza, Rozadaron Qayamat Ke Din Haiṅ
   
   6
-  Khaak-e-Bewarisi Hai Saron Par, Kale Parcham Lage Haiṅ Gharon Par
+  Khaak-e-Bewarisi Hai Saroṅ Par, Kale Parcham Lage Haiṅ Gharoṅ Par
   Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Haiṅ
   
   7
-  Shab Ye Unniswiṅ Kaisi Aayi, Khun Meiṅ Duba Muhammad Ka Bhai
+  Shab Ye Unniswin Kaisi Aayi, Khun Meiṅ Duba Muhammad Ka Bhai
   Ro Raha Hai Sahar Ka Sitara, Rozadaron Qayamat Ke Din Haiṅ
   
   8
   Ibne Muljim Ne Sitam Kaisa Dhaya, Qabr Meiṅ Sayyeda Ko Rulaya
-  Kaise Bachon Ka Hoga Guzara, Rozadaron Qayamat Ke Din Haiṅ
+  Kaise Bachoṅ Ka Hoga Guzara, Rozadaron Qayamat Ke Din Haiṅ
   
   9
   Taigh Sar Pe Ali Ke Lagi Hai, Aaj Shamm-e-Imamat Bujhi Hai
-  Dil Yatimon Ka Hai Para Para, Rozadaron Qayamat Ke Din Haiṅ
+  Dil Yatimoṅ Ka Hai Para Para, Rozadaron Qayamat Ke Din Haiṅ
   
   10
-  Maan Ke Marne Ka Gham Kam Nahiṅ Tha, Ek Koh-e-Alam Aur Tuta
-  Sog Mein Ghar Hai Zehra Ka Sara, Rozadaron Qayamat Ke Din Haiṅ
+  Maaṅ Ke Marne Ka Gham Kam Nahiṅ Tha, Ek Koh-e-Alam Aur Tuta
+  Sog Meiṅ Ghar Hai Zehra Ka Sara, Rozadaron Qayamat Ke Din Haiṅ
   
   11
   Ghar Meiṅ Hyder Ke Aah o Fughaṅ Hai, Eid Nazdik Gham Ka Samaaṅ Hai
@@ -64,7 +64,7 @@ romanLyrics: |-
   Maine Shaana Hila Kar Pukara, Rozadaron Qayamat Ke Din Haiṅ
   
   13
-  Sina-Kobi Ko Rehan o Mesum, Kiuṅ Na Farsh-e-Aza Pe Chalein Hum
+  Sina-Kobi Ko Rehan o Mesum, Kiuṅ Na Farsh-e-Aza Pe Chaleiṅ Hum
   Ghamzada Chaar Su Hai Nazara, Rozadaron Qayamat Ke Din Haiṅ
 ---
 

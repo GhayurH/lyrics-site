@@ -32,7 +32,7 @@ romanLyrics: |-
   
   3
   E Kibriya Ki Shan Muhammad Ke Dil Nashiṅ
-  Aansu Rawaṅ Haiṅ Aankh Se Dil Ko Sukuṅ Nahiṅ
+  Aansu Rawan Haiṅ Aankh Se Dil Ko Sukuṅ Nahiṅ
   Ye Dil Se Aa Rahi Musalsal Sada Ali
   
   4
@@ -52,8 +52,8 @@ romanLyrics: |-
   
   7
   Jis Dam Asir Ho Ke Chaleiṅ Shaam Ki Taraf
-  Zainab Pukarein Dekh Ke Haye Su-e-Najaf
-  Kis Tarah Shaam Jaungi Main beRida Ali
+  Zainab Pukareiṅ Dekh Ke Haye Su-e-Najaf
+  Kis Tarah Shaam Jaungi Maiṅ beRida Ali
   
   8
   Zindaaṅ Meiṅ Jab Behan Ka Janaza Na Uth Saka
@@ -62,7 +62,7 @@ romanLyrics: |-
   
   9
   Zishan Aur Raza Ke Laboṅ Par Dua Hai Ye
-  Ghaibat Se Jald Barhweiṅ Bete Ko Bhejiye
+  Ghaibat Se Jald Barhwein Bete Ko Bhejiye
   Mushkil Hai Sans Lena Ab Un Ke Bina Ali
 ---
 

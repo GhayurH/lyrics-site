@@ -34,8 +34,8 @@ romanLyrics: |-
   
   3
   Ali Ki Betiyaṅ Jhula, Ise Jhulati Thiṅ
-  Hijaab-e-Nur Mein Lori, Ise Sunati Thin
-  Janaab-e-Umme Banin, Is Ke Naaz Uthati Thin
+  Hijaab-e-Nur Meiṅ Lori, Ise Sunati Thiṅ
+  Janaab-e-Umme Banin, Is Ke Naaz Uthati Thiṅ
   Aur Ab Husain Yahaṅ, Is Ki Laash Uthata Hai
   
   4
@@ -45,7 +45,7 @@ romanLyrics: |-
   Aaj Haathoṅ Pe, Akbar Tera Janaza Hai
   
   5
-  Batao Tum Mein Koi Ho, Jo Sahib-e-Aulad
+  Batao Tum Meiṅ Koi Ho, Jo Sahib-e-Aulad
   Jawaan Laal Ho Jis Meiṅ, Hai Wohi Ghar Abaad
   Sitamgaroṅ Ne Kiya, Haye Mera Ghar Barbaad
   Hawa-e-Zulm Se, Ghar Ka Charaag Bujhta Hai

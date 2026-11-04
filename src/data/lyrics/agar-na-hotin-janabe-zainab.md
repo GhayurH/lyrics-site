@@ -49,7 +49,7 @@ romanLyrics: |-
   Agar na hotiṅ Janab-e Zainab, kahiṅ na milta Khuda ka banda
 
   10
-  The saath go Imam-e dauran bhi aur ahl-e haram bhi lekin
+  The saath go Imam-e dauraṅ bhi aur ahl-e haram bhi lekin
   Agar na hotiṅ Janab-e Zainab, na hoti taskhir-e Shaam o Kufa
 
   11
