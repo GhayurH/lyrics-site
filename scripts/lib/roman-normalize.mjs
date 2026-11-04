@@ -250,7 +250,22 @@ export function normalizeRomanMarkdown(content, path = "") {
       [/تَشَاءُون|تشاءون/u, /\btasha['’]un\b/giu, "tashaaun"],
       [/أَنْعَمْتَ/u, /\ban['’]amta\b/giu, "anaamta"],
       [/جَمِیعُ|جمیع/u, /\bjami['’]u\b/giu, "jamiau"],
-      [/وقوع/u, /\bwuq['’]u\b/giu, "wuqau"],
+      [/وقوع/u, /\bwuq['’]u\b/giu, "wuqua"],
+      [/اَسئَلُکُم|اسئَلُکُم/u, /\bas['’]alukum\b/giu, "asalukum"],
+      [/السَّمَاءُ/u, /\bs-sama['’]u\b/giu, "s-samaau"],
+      [/گلعِزار/u, /\bgul['’]izaar\b/giu, "gulaizaar"],
+      // Verbal endings often join two printed Urdu words; apply only when
+      // those exact words occur in the corresponding Urdu verse.
+      [/ہوں\s+گے/u, /\bhonge\b/giu, "hoṅge"],
+      [/آئیں\s+گے/u, /\baayenge\b/giu, "aayeṅge"],
+      [/آئیں\s+گی/u, /\baayengi\b/giu, "aayeṅgi"],
+      [/کہیں\s+گی/u, /\bkahengi\b/giu, "kaheṅgi"],
+      [/کریں\s+گے/u, /\bkarenge\b/giu, "kareṅge"],
+      [/کریں\s+گی/u, /\bkarengi\b/giu, "kareṅgi"],
+      [/دیں\s+گے/u, /\bdenge\b/giu, "deṅge"],
+      [/رولیں/u, /\bro\s+len\b/giu, "ro leṅ"],
+      [/میں\s+نے/u, /\bmaine\b/giu, "maiṅ ne"],
+      [/سروساماں/u, /\bsaman\b/giu, "samaṅ"],
     ];
     let result = line;
     for (const [printed, variant, canonical] of mappings)

@@ -220,3 +220,32 @@ test("source-backed Arabic and Urdu ayn/hamza spellings use a, not apostrophes",
   const quoted = normalizeRomanMarkdown(md("یاعلی کی", "'Ya Ali' ki"));
   assert(quoted.text.includes("'Ya Ali' ki"), "quoted speech is not Arabic transliteration markup");
 });
+
+
+test("source-backed joined nasal verb endings have dotted n", () => {
+  for (const [urdu, old, corrected] of [
+    ["ہوں گے", "honge", "hoṅge"],
+    ["آئیں گے", "aayenge", "aayeṅge"],
+    ["کہیں گی", "kahengi", "kaheṅgi"],
+    ["کریں گے", "karenge", "kareṅge"],
+    ["دیں گے", "denge", "deṅge"],
+    ["رولیں", "ro len", "ro leṅ"],
+    ["میں نے", "Maine", "Maiṅ ne"],
+  ]) {
+    const result = normalizeRomanMarkdown(md(urdu, old), "src/data/lyrics/sample.md");
+    assert(result.text.includes("  " + corrected), JSON.stringify({urdu,old,actual:result.text}));
+  }
+  const ordinary = normalizeRomanMarkdown(md("ہونہ", "honge"));
+  assert(ordinary.text.includes("honge"));
+});
+test("Arabic excerpts preserve vowel reading without scholarly apostrophes", () => {
+  for (const [urdu, roman, expected] of [
+    ["اَسئَلُکُم", "as'alukum", "asalukum"],
+    ["السَّمَاءُ", "s-sama'u", "s-samaau"],
+    ["وُقُوعُ", "Wuq'u", "Wuqua"],
+    ["گلعِزار", "gul'izaar", "gulaizaar"],
+  ]) {
+    const result = normalizeRomanMarkdown(md(urdu, roman));
+    assert(result.text.includes("  " + expected), JSON.stringify({urdu,roman,result:result.text}));
+  }
+});
