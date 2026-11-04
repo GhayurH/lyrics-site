@@ -250,7 +250,7 @@ export function normalizeRomanMarkdown(content, path = "") {
       [/تَشَاءُون|تشاءون/u, /\btasha['’]un\b/giu, "tashaaun"],
       [/أَنْعَمْتَ/u, /\ban['’]amta\b/giu, "anaamta"],
       [/جَمِیعُ|جمیع/u, /\bjami['’]u\b/giu, "jamiau"],
-      [/وقوع/u, /\bwuq['’]u\b/giu, "wuqua"],
+      [/وُقُوعُ|وقوع/u, /\bwuq['’]u\b/giu, "wuqua"],
       [/اَسئَلُکُم|اسئَلُکُم/u, /\bas['’]alukum\b/giu, "asalukum"],
       [/السَّمَاءُ/u, /\bs-sama['’]u\b/giu, "s-samaau"],
       [/گلعِزار/u, /\bgul['’]izaar\b/giu, "gulaizaar"],
