@@ -124,3 +124,18 @@ test("normalizes ye endings only against corresponding Urdu word", () => {
   const h = normalizeRomanMarkdown(md("ہے", "Haey"));
   assert(h.text.includes("Hai"), h.text);
 });
+
+test("izafat is joined only when the Urdu has the explicit kasra", () => {
+  const source = md("غمِ اکبر میں", "Gham E Akbar meiṅ");
+  assert(normalizeRomanMarkdown(source).text.includes("Gham-e-Akbar meiṅ"));
+  const unmarked = md("غم اکبر میں", "Gham E Akbar meiṅ");
+  assert(normalizeRomanMarkdown(unmarked).text.includes("Gham E Akbar meiṅ"));
+  const title = md("بوقتِ عصر صدا", "Bawaqt E Asr Sada")
+    .replace("title: نام", 'title: "بوقتِ عصر صدا"\nalternateTitle: "Bawaqt E Asr Sada"');
+  assert(normalizeRomanMarkdown(title).text.includes('alternateTitle: "Bawaqt-e-Asr Sada"'));
+});
+test("roman titles receive the same source-backed nasal and vowel rules", () => {
+  const doc = md("امام زماں", "Imam Zaman")
+    .replace("title: نام", 'title: "امام زماں"\nalternateTitle: "Imam Zaman"');
+  assert(normalizeRomanMarkdown(doc).text.includes('alternateTitle: "Imam Zamaṅ"'));
+});

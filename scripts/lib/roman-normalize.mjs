@@ -186,6 +186,17 @@ export function normalizeRomanMarkdown(content, path = "") {
     return edited;
   }
 
+  /** Join only source-marked izafat. A bare Roman e may be a word or
+   * an unmarked editorial reading, so the printed Urdu kasra is the proof. */
+  function normalizeIzafat(line, urdu) {
+    const marked = [...urdu.matchAll(/ِ/gu)].length;
+    if (!marked) return line;
+    const joined = [...line.matchAll(/(?<![A-Za-zṅṄ])([A-Za-zṅṄ]+)\s+[eE]\s+([A-Za-zṅṄ]+)(?![A-Za-zṅṄ])/gu)];
+    if (!joined.length || joined.length > marked) return line;
+    return line.replace(/(?<![A-Za-zṅṄ])([A-Za-zṅṄ]+)\s+[eE]\s+([A-Za-zṅṄ]+)(?![A-Za-zṅṄ])/gu,
+      (_whole, head, tail) => head + "-e-" + tail);
+  }
+
   function sourceAware(line, urdu) {
     let s = line.replace(/\b(hussain|hassan|kyun)\b/giu, word =>
       cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()]));
@@ -198,6 +209,7 @@ export function normalizeRomanMarkdown(content, path = "") {
     if (!urdu) return s;
     const u = plain(urdu);
     s = normalizeVocative(s, u, path + " Roman/Urdu line");
+    s = normalizeIzafat(s, urdu);
     // Long u/i never use oo/ee in Roman Urdu. A corresponding Urdu source
     // line must contain the respective vowel before touching a token.
     // Long vowels must be anchored to the corresponding Urdu word; a
@@ -248,8 +260,12 @@ export function normalizeRomanMarkdown(content, path = "") {
   const urduTitle = /^title:\s*(?:"([^"]*)"|'([^']*)'|(.+))$/mu.exec(match[1]);
   const printedTitle = urduTitle?.[1] ?? urduTitle?.[2] ?? urduTitle?.[3] ?? "";
   const safeHead = rewrittenHead.replace(/^(alternateTitle:\s*)(["'])(.*?)\2$/gmu,
-    (_whole, key, quote, title) =>
-      key + quote + normalizeVocative(title, printedTitle, path + " alternateTitle") + quote);
+    (_whole, key, quote, title) => {
+      let changed = normalizeVocative(title, printedTitle, path + " alternateTitle");
+      changed = normalizeIzafat(changed, printedTitle);
+      changed = reconcileSourceWords(changed, printedTitle);
+      return key + quote + changed + quote;
+    });
   const result = "---\n" + safeHead + "\n---\n" + body;
   return { text: result, changed: result !== content, findings, removedRepetitions,
     paired: pairs.size, totalRomanLines: romanSource.length };
