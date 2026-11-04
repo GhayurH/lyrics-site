@@ -139,3 +139,22 @@ test("roman titles receive the same source-backed nasal and vowel rules", () => 
     .replace("title: نام", 'title: "امام زماں"\nalternateTitle: "Imam Zaman"');
   assert(normalizeRomanMarkdown(doc).text.includes('alternateTitle: "Imam Zamaṅ"'));
 });
+
+
+test("source-backed nasal inflections cover compounds without changing normal noon", () => {
+  const a = normalizeRomanMarkdown(md("بچوں کو ویراں", "bachchon ko viran"));
+  assert(a.text.includes("bachchoṅ ko viraaṅ"), a.text);
+  const b = normalizeRomanMarkdown(md("کیوں کر ایسا ہوا", "Kyunkar aisa hua"));
+  assert(b.text.includes("Kiuṅkar aisa hua"), b.text);
+  const c = normalizeRomanMarkdown(md("بچیوں کی آنکھوں", "bachchiyon ki aakhon"));
+  assert(c.text.includes("bachchiyoṅ ki aankhoṅ"), c.text);
+  const normal = normalizeRomanMarkdown(md("بچن اپنا", "bachchon apna"));
+  assert(normal.text.includes("bachchon apna"), normal.text);
+});
+
+test("Roman apostrophe+n nasal is removed only with a nasal Urdu source", () => {
+  const a = normalizeRomanMarkdown(md("گیسوؤں میں", "gaisuo'n meiṅ"));
+  assert(a.text.includes("gaisuoṅ meiṅ"), a.text);
+  const b = normalizeRomanMarkdown(md("امن میں", "aman meiṅ"));
+  assert(b.text.includes("aman meiṅ"), b.text);
+});

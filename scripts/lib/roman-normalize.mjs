@@ -203,11 +203,39 @@ export function normalizeRomanMarkdown(content, path = "") {
       (_whole, head, tail) => head + "-e-" + tail);
   }
 
+  /** Frequent inflected/compound words whose Roman spelling cannot be
+   * aligned by consonants alone. Each correction requires the precise Urdu
+   * source form in the same physical verse (not a corpus-wide word swap). */
+  function normalizeSourceBoundInflections(line, urdu) {
+    const mappings = [
+      [/بچّ?وں/u, /\bbachchon\b/giu, "bachchoṅ"],
+      [/بچیوں/u, /\bbachchiyon\b/giu, "bachchiyoṅ"],
+      [/ویراں/u, /\bviran\b/giu, "viraaṅ"],
+      [/آنکھوں/u, /\baakhon\b/giu, "aankhoṅ"],
+      [/اکھیاں/u, /\bankhiyan\b/giu, "ankhiyaṅ"],
+      [/ایویں|اِیوَیں/u, /\binwain\b/giu, "inwaiṅ"],
+      [/کیوں\s*کر/u, /\bkiunkar\b/giu, "kiuṅkar"],
+      [/کر\s*دیں/u, /\bdein\b/giu, "deiṅ"],
+      [/رولوں/u, /\blun\b/giu, "luṅ"],
+      [/خواں/u, /\bkhwan\b/giu, "khwaṅ"],
+    ];
+    let result = line;
+    for (const [printed, variant, canonical] of mappings)
+      if (printed.test(urdu))
+        result = result.replace(variant, word => cap(word, canonical));
+    // A few older Roman editions spelled nasal n as an apostrophe + n.
+    if (urdu.includes("ں"))
+      result = result.replace(/['’]n\b/giu, "ṅ");
+    return result;
+  }
+
   function sourceAware(line, urdu) {
     let s = line.replace(/\b(hussain|hassan|kyun)\b/giu, word =>
       cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()]));
     // House-style separators are unambiguous even where the Urdu edition
     // has an omitted verse; never alter the source's words or line structure.
+    s = s.replace(/kyun/giu, word => cap(word, "kiun"))
+      .replace(/-E-/gu, "-e-");
     s = s.replace(/([A-Za-z]+)-o-([A-Za-z]+)/giu, "$1 o $2")
       .replace(/\bbe-([A-Za-z]+)/giu, "be$1")
       .replace(/\bbar[ -]+bar\b/giu, word => cap(word, "baar baar"))
@@ -215,7 +243,13 @@ export function normalizeRomanMarkdown(content, path = "") {
     if (!urdu) return s;
     const u = plain(urdu);
     s = normalizeVocative(s, u, path + " Roman/Urdu line");
+    s = normalizeSourceBoundInflections(s, urdu);
     s = normalizeIzafat(s, urdu);
+    if (/\sو\s/u.test(urdu))
+      s = s.replace(/(?<=\s)O(?=\s)/gu, "o");
+    if (/بے\s+\S/u.test(urdu))
+      s = s.replace(/\b[Bb]e\s+([A-Za-z]+)/gu, (_whole, component) =>
+        s.match(/^\s*Be\b/u) ? "Be" + component.toLowerCase() : "be" + component.toLowerCase());
     // Long u/i never use oo/ee in Roman Urdu. A corresponding Urdu source
     // line must contain the respective vowel before touching a token.
     // Long vowels must be anchored to the corresponding Urdu word; a
@@ -260,7 +294,9 @@ export function normalizeRomanMarkdown(content, path = "") {
     .replace(/^(alternateTitle|romanHaal): (["']?)(.*?)\2$/gmu,
       (_whole, field, quote, value) => field + ": " + quote +
         value.replace(/\b(hussain|hassan|kyun)\b/giu, word =>
-          cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()])) + quote);
+          cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()]))
+          .replace(/kyun/giu, word => cap(word, "kiun"))
+          .replace(/-E-/gu, "-e-") + quote);
   // Titles have a direct Urdu title available, unlike unrelated metadata.
   // Never rewrite aliases globally: their historical spellings support search.
   const urduTitle = /^title:\s*(?:"([^"]*)"|'([^']*)'|(.+))$/mu.exec(match[1]);
@@ -270,6 +306,9 @@ export function normalizeRomanMarkdown(content, path = "") {
       let changed = normalizeVocative(title, printedTitle, path + " alternateTitle");
       changed = normalizeIzafat(changed, printedTitle);
       changed = reconcileSourceWords(changed, printedTitle);
+      changed = normalizeSourceBoundInflections(changed, printedTitle);
+      if (/\sو\s/u.test(printedTitle))
+        changed = changed.replace(/(?<=\s)O(?=\s)/gu, "o");
       return key + quote + changed + quote;
     });
   const result = "---\n" + safeHead + "\n---\n" + body;
