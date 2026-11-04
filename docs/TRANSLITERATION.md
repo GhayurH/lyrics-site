@@ -24,8 +24,8 @@ An intentionally untranscribed **whole Basta page** remains untranscribed. This 
 - Other compounds are judged by source morphology; do not globally strip hyphens from izafat.
 - The source meaning and poem-specific reading take priority over a broad search/replace.
 
-## Reciter repetitions and underlining
-Where Roman sources previously used `(x2)` to signal a repeated span, **remove that marker** and wrap the repeated words in `<u>...</u>`, e.g. `<u>Wo marte the</u> Sakina ko`. This is an explicit display annotation; only this exact underline tag pair is parsed by readers, safely as text and `<u>` DOM elements (never arbitrary HTML). Do not invent an additional verse or alter Urdu to represent performance-only repetition. If a marker's scope is unclear, flag it for editorial review rather than underlining a guessed span.
+## Reciter repetitions
+Remove legacy `(x2)` directions from Roman lyrics rather than displaying them or adding formatting. When the marker is **between two phrases on the same line**, replace it with a comma and a space: `Wo marte the (x2) Sakina ko` → `Wo marte the, Sakina ko`. At the **end of a verse**, remove the marker and its preceding space entirely. Keep the same words, verse order and Urdu source. Readers render Roman text literally with no inline-markup parser.
 
 ## Review workflow
 1. Align each Roman stanza and verse to the corresponding Urdu source; resolve missing, extra and out-of-order lines before spellings.

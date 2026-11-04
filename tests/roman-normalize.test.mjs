@@ -1,7 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { normalizeRomanMarkdown } from "../scripts/lib/roman-normalize.mjs";
-import { romanTextParts } from "../src/lib/roman-text-parts.ts";
 
 const md = (u, r) => "---\ntitle: نام\nromanLyrics: |-\n" +
   r.split("\n").map(x => x ? "  " + x : "").join("\n") +
@@ -13,7 +12,7 @@ test("normalizes only Urdu-verified Roman vowels and nasalization", () => {
   assert(text.includes("Husain ke khun meiṅ kiuṅ nahiṅ haiṅ"));
   assert.equal(text.slice(text.indexOf("---\n", 5) + 4), "حسین کے خون میں کیوں نہیں ہیں\n");
 });
-test("keeps poem-specific Zehra/Zahra, marks repetition and canonical compounds", () => {
+test("keeps poem-specific Zehra/Zahra, removes repetition marks and normalizes compounds", () => {
   const source = md("شب و روز بے وفا بار بار زہرا", "Shab-o-Roz be-wafa bar-bar Zehra");
   const r = normalizeRomanMarkdown(source);
   assert(r.text.includes("Shab o Roz bewafa baar baar Zehra"));
@@ -21,11 +20,15 @@ test("keeps poem-specific Zehra/Zahra, marks repetition and canonical compounds"
   const r2 = normalizeRomanMarkdown(md("زہرا", "Zahra"));
   assert(r2.text.includes("Zahra"));
   const r3 = normalizeRomanMarkdown(md("وہ مارتی تھیں", "Wo maarti thin (x2)"));
-  assert(r3.text.includes("<u>Wo maarti thiṅ</u>"));
-  assert.deepEqual(romanTextParts("A <u>repeat here</u> end"), [
-    { text: "A ", underline: false }, { text: "repeat here", underline: true },
-    { text: " end", underline: false },
-  ]);
+  assert(r3.text.includes("Wo maarti thiṅ\n---\n"));
+  assert.equal(r3.removedRepetitions, 1);
+  const mid = normalizeRomanMarkdown(md("وہ مارتی تھیں سکینہ کو", "Wo maarti thin (x2) Sakina ko"));
+  assert(mid.text.includes("Wo maarti thiṅ, Sakina ko"));
+  assert.equal(mid.removedRepetitions, 1);
+  const start = normalizeRomanMarkdown(md("وہ مارتی تھیں", "(x2) Wo maarti thin"));
+  assert(start.text.includes("Wo maarti thiṅ\n---\n"));
+  assert(!mid.text.includes("(x2)"));
+  assert(!mid.text.includes("<u>"));
 });
 test("preserves intentionally untranscribed Basta and flags missing standalone Roman", () => {
   const source = "---\npage: 140\n---\nاردو\n";

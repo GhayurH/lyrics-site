@@ -50,7 +50,9 @@ export function checkLines(path: string, text: string, firstLine: number, script
         record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + visibleLine.trim().slice(0, 95));
     } else {
       if (/\(x\d+\)/iu.test(line))
-        record(issues, path, sourceLine, "roman-repeat-notation", "Replace (x2) repetition markers with underlined source text");
+        record(issues, path, sourceLine, "roman-repeat-notation", "Remove repetition marker; use a comma when it separates two phrases");
+      if (/<\/?u>/iu.test(line))
+        record(issues, path, sourceLine, "roman-inline-underline", "Legacy underline markup must be removed from Roman text");
       if (/\b(?:Hussain|Hassan)\b/iu.test(line))
         record(issues, path, sourceLine, "roman-name-style", "House style uses Husain and Hasan (one s after the initial consonant)");
       if (arabic.test(line) || romanDigits.test(line))

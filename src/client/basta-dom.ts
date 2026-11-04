@@ -1,7 +1,6 @@
 // File role: One browser renderer for Basta text shared by streamed pages and recitation programmes.
 import { bastaVerseClassNames, layoutBastaKalam, type BastaStanzaStyle } from "../lib/basta-text";
 import { node } from "./dom";
-import { romanTextParts } from "../lib/roman-text-parts";
 
 /** The source parser owns title/byline/stanza semantics; consumers only place blocks. */
 export function renderBastaTextBlock(
@@ -13,12 +12,7 @@ export function renderBastaTextBlock(
   const block = node("div", "basta-kalam-text");
   for (const line of layoutBastaKalam(text, indentStanzas, stanzaStyle, prefaceOnly)) {
     if (line.hidden) continue;
-    const verse = node("span", bastaVerseClassNames(line));
-    for (const part of romanTextParts(line.text)) {
-      if (part.underline) verse.append(Object.assign(document.createElement("u"), { textContent: part.text }));
-      else verse.append(part.text);
-    }
-    block.append(verse);
+    block.append(node("span", bastaVerseClassNames(line), line.text));
   }
   return block;
 }

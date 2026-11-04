@@ -167,18 +167,19 @@ export function normalizeRomanMarkdown(content, path = "") {
     ]) if (u.includes(urduToken)) s = s.replace(latin, word => cap(word, corrected));
     return reconcileNasals(s, u);
   }
-  let repeated = 0;
+  let removedRepetitions = 0;
   const updated = roman.map((line, index) => {
     if (!line.trim() || /^[۰-۹٠-٩0-9]+$/u.test(line.trim()) || line.trim() === "---***---") return line;
     let s = sourceAware(line, pairs.get(index));
-    const x2 = s.match(/\(x2\)/giu);
-    if (x2?.length === 1 && !/<\/?u>/u.test(s)) {
-      const marked = /^(.*?\S)\s*\(x2\)(.*)$/iu.exec(s);
-      if (marked && marked[1] && !/[<>]/u.test(marked[1])) {
-        s = "<u>" + marked[1] + "</u>" + marked[2];
-        repeated++;
-      }
-    } else if (x2?.length) findings.push("Unresolved (x2) marker at Roman line " + (index + 1));
+    // An old (x2) is a recitation instruction, not verse text.
+    // At a verse end remove it; between phrases replace it with a comma.
+    s = s.replace(/[ \t]*\(x2\)[ \t]*/giu, (marker, offset, fullLine) => {
+      removedRepetitions++;
+      const before = fullLine.slice(0, offset).trimEnd();
+      const after = fullLine.slice(offset + marker.length).trimStart();
+      if (!before || !after) return "";
+      return /[,،;:.!?]$/u.test(before) ? " " : ", ";
+    });
     // YAML literal verses do not use Markdown hard-break whitespace.
     // A modified line must never introduce a git diff --check failure.
     return s.replace(/[ \t]+$/gu, "");
@@ -198,6 +199,6 @@ export function normalizeRomanMarkdown(content, path = "") {
     (_whole, key, quote, title) =>
       key + quote + normalizeVocative(title, printedTitle, path + " alternateTitle") + quote);
   const result = "---\n" + safeHead + "\n---\n" + body;
-  return { text: result, changed: result !== content, findings, underlined: repeated,
+  return { text: result, changed: result !== content, findings, removedRepetitions,
     paired: pairs.size, totalRomanLines: romanSource.length };
 }

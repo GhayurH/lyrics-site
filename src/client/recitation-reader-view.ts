@@ -8,7 +8,6 @@ import { parseStanzaNumber } from "../lib/stanza-numbers";
 import { romanUnavailable } from "../lib/edition-availability";
 import type { RecitationItem } from "../lib/recitation-set";
 import { node } from "./dom";
-import { romanTextParts } from "../lib/roman-text-parts";
 
 function addBastaText(host: HTMLElement, text: string, prefaceOnly = false) {
   host.append(renderBastaTextBlock(text, true, "auto", prefaceOnly));
@@ -18,12 +17,7 @@ function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerse
   for (const stanza of layoutLyricStanzas(text)) {
     const group = node("div", lyricStanzaClassNames(stanza, sixVerseLayout));
     for (const line of stanza) {
-      const verse = node("span", lyricLineClassName(line));
-      for (const part of romanTextParts(line.text)) {
-        if (part.underline) verse.append(Object.assign(document.createElement("u"), { textContent: part.text }));
-        else verse.append(part.text);
-      }
-      group.append(verse);
+      group.append(node("span", lyricLineClassName(line), line.text));
     }
     block.append(group);
   }
