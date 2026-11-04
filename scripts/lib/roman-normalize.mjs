@@ -35,8 +35,18 @@ export function normalizeRomanMarkdown(content, path = "") {
   function sourceAware(line, urdu) {
     let s = line.replace(/\b(hussain|hassan|kyun)\b/giu, word =>
       cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()]));
+    // House-style separators are unambiguous even where the Urdu edition
+    // has an omitted verse; never alter the source's words or line structure.
+    s = s.replace(/([A-Za-z]+)-o-([A-Za-z]+)/giu, "$1 o $2")
+      .replace(/\bbe-([A-Za-z]+)/giu, "be$1")
+      .replace(/\bbar[ -]+bar\b/giu, word => cap(word, "baar baar"))
+      .replace(/\b([A-Za-zṅ]+)-\1\b/giu, "$1 $1");
     if (!urdu) return s;
     const u = plain(urdu);
+    // Long u/i never use oo/ee in Roman Urdu. A corresponding Urdu source
+    // line must contain the respective vowel before touching a token.
+    if (u.includes("و")) s = s.replace(/oo/giu, word => cap(word, "u"));
+    if (u.includes("ی")) s = s.replace(/ee/giu, word => cap(word, "i"));
     if (/\sو\s/u.test(u))
       s = s.replace(/([A-Za-z]+)-o-([A-Za-z]+)/gu, "$1 o $2");
     if (/بے/u.test(u))

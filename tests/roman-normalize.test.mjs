@@ -35,3 +35,11 @@ test("preserves intentionally untranscribed Basta and flags missing standalone R
   const b = normalizeRomanMarkdown(source, "src/data/lyrics/sample.md");
   assert(b.findings.some(x => x.includes("no Roman")));
 });
+
+test("long u and i remain standard even when Roman word counts differ", () => {
+  const s = md("وہ خون رو کے یہ کہتا", "Wo khoon ro ke kehta");
+  const r = normalizeRomanMarkdown(s);
+  assert(r.text.includes("Wo khun ro ke kehta"));
+  const repeated = normalizeRomanMarkdown(md("بار بار", "baar-baar"));
+  assert(repeated.text.includes("baar baar"));
+});
