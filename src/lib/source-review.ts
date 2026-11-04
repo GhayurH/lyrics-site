@@ -195,7 +195,7 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
     for (const key of ["alternateTitle", "romanHaal"]) {
       if (fields[key] && arabic.test(fields[key]))
         record(issues, path, 2, "arabic-in-roman-metadata", key + " contains Arabic-script characters");
-      if (fields[key] && [...fields[key]].some(ch => latin.test(ch) && unusualLatin.test(ch)))
+      if (fields[key] && [...fields[key]].some(ch => latin.test(ch) && unusualLatin.test(ch) && ch !== "ṅ" && ch !== "Ṅ"))
         record(issues, path, 2, "extended-latin-in-roman-metadata", key + " contains non-ASCII Latin transliteration");
     }
     return { path, kind, body, bodyLine, roman, romanLine, fields, issues };

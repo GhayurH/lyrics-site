@@ -12,7 +12,7 @@ An intentionally untranscribed **whole Basta page** remains untranscribed. This 
 - Urdu **ڑ → r**. Aspirates and distinct consonants use `bh`, `ph`, `th`, `dh`, `kh`, `gh`, `jh`, `chh` where appropriate; preserve `q` for ق, `k` for ک, `z` for ز/ذ/ض/ظ, `s` for س/ث/ص.
 - Represent **ع** and **ء** as **a** in words where they are pronounced; apply this phonetic convention using the Urdu reading, rather than mechanically inserting an extra `a` in every word. Do not write scholarly apostrophe/ayn characters.
 - Distinguish **main** (I), **mein** (in), **kya** (what), **kiya** (did) by meaning, and preserve separately pronounced word forms.
-- **Kiun**, never `kyun`. Canonical **Husain**, **Hasan**, **Bibi**. **Zehra** and **Zahra** are both legitimate when supported by the pronunciation of the *specific poem*; never globally replace one with the other.
+- **Kiun** (written **Kiuṅ** with Urdu nasal ں), never `kyun`. Canonical **Husain**, **Hasan**, **Bibi**. **Zehra** and **Zahra** are both legitimate when supported by the pronunciation of the *specific poem*; never globally replace one with the other.
 - Roman typography: poem titles use Title Case; verses use sentence-initial capitals and proper-name capitals, not title case on every word. Keep source line breaks, verse sequence, stanza numbering and meaningful punctuation.
 
 ## Compounds and repetition
