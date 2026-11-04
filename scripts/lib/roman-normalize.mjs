@@ -232,7 +232,6 @@ export function normalizeRomanMarkdown(content, path = "") {
       [/اٹھتا/u, /\buth['’]ta\b/giu, "uthta"],
       [/پیٹتی/u, /\bpit['’]ti\b/giu, "pitti"],
       [/سائلوں/u, /\bsa['’]ilon\b/giu, "sailoṅ"],
-      [/شیعیان/u, /\bshia['’]an\b/giu, "shiaan"],
       [/طعنہ/u, /\bta['’]na\b/giu, "taana"],
       [/طعن/u, /\bta['’]n\b/giu, "taan"],
       [/نزع/u, /\bnaz['’](?=\s|$)/giu, "naza"],
@@ -298,16 +297,8 @@ export function normalizeRomanMarkdown(content, path = "") {
     if (/بے\s+\S/u.test(urdu))
       s = s.replace(/\b[Bb]e\s+([A-Za-z]+)/gu, (_whole, component) =>
         _whole[0] === "B" ? "Be" + component.toLowerCase() : "be" + component.toLowerCase());
-    // Long u/i never use oo/ee in Roman Urdu. A corresponding Urdu source
-    // line must contain the respective vowel before touching a token.
-    // Long vowels must be anchored to the corresponding Urdu word; a
-    // different word's vowel on the same line is not reliable evidence.
-    if (/\sو\s/u.test(u))
-      s = s.replace(/([A-Za-z]+)-o-([A-Za-z]+)/gu, "$1 o $2");
-    if (/بے/u.test(u))
-      s = s.replace(/\bbe-([A-Za-z]+)/giu, "be$1");
-    if (/بار\s+بار/u.test(u))
-      s = s.replace(/\bbar[ -]+bar\b/giu, word => cap(word, "baar baar"));
+    // For vowel spelling, use the matching Urdu word; unrelated vowels on
+    // the same physical line must not trigger substitutions.
     // These one-to-one words have unambiguous nasal spellings even when izafat
     // causes different token counts across the two physical lines.
     for (const [urduToken, latin, corrected] of [

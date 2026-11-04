@@ -24,7 +24,7 @@ CI runs **one build** and selects smoke or full, never both. The smoke subset pr
 | 1440×900 desktop | All three editions parallel where space permits, shared article width/navigation, sticky scan/toolbar |
 | 200–400% zoom | No page-wide horizontal scroll; very long lines pan **individually** with keyboard access |
 
-Verify each Basta page stores only existing Roman transcription as a `romanLyrics: |-` literal, and that intentionally untranslated pages remain Urdu-only. Poetry Markdown must end with exactly one newline while preserving internal stanza spacing, source separators and permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
+Verify bilingual source coverage, permitted exceptions and spelling against [Transliteration](TRANSLITERATION.md). Poetry Markdown must end with exactly one newline while preserving internal stanza spacing, source separators and permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
 
 ## Journeys to protect
 

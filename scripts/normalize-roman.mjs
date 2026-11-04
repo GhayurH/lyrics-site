@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-// One corpus-wide pass; preserves untouched text/metadata and reports unaligned editions.
+// Source-backed Roman spelling adapter for both source:sync and source:check.
+// Read-only report mode can be run independently during editorial review.
 import { readFile, writeFile } from "node:fs/promises";
 import { join, relative } from "node:path";
 import { fileURLToPath } from "node:url";

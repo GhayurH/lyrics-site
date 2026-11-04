@@ -27,7 +27,8 @@ Local Astro preview does not emulate Cloudflare D1 Functions or R2 routing; test
 ## Contributor documentation
 
 - [Architecture](docs/ARCHITECTURE.md) — dependency boundaries and **single owners** for source models, browser features and CSS.
-- [Contributing](docs/CONTRIBUTING.md) — editorial conventions, change procedure and engineering standards.
+- [Contributing](docs/CONTRIBUTING.md) — source editing, synchronization, engineering standards and review.
+- [Transliteration](docs/TRANSLITERATION.md) — the sole Roman Urdu spelling and pronunciation standard.
 - [Quality assurance](docs/QUALITY_ASSURANCE.md) — automated and manual verification.
 - [Assets](docs/ASSET_WORKFLOW.md) — external scans, fonts, upload and preview routing.
 - [Recitation Sets](docs/RECITATION_SETS.md) — product behavior, source identity and security.
