@@ -63,7 +63,7 @@ romanLyrics: |-
   10
   Bahan ne usko takallum Jo bhai samjhaa tha
   Pukaari sham-e-gharibaṅ meiṅ Thaaniy-e-Zehra
-  Hamaara lut'taa hai pardaa Habib aajaao
+  Hamaara lutta hai pardaa Habib aajaao
 ---
 
 یہ خط میں شاہؑ نے لکھا حبیب آجاؤ

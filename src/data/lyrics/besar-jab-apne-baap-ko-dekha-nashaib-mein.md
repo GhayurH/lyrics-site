@@ -12,7 +12,7 @@ cover: "/images/lyrics/besar-jab-apne-baap-ko-dekha-nashaib-mein.png"
 coverAlt: "Cover image for Besar Jab Apne Baap Ko Dekha Nashaib Mein"
 published: true
 romanLyrics: |-
-  sunsaan ban wo raat wo uth'ta hua dhuaṅ
+  sunsaan ban wo raat wo uthta hua dhuaṅ
   nikli padar ko dhundne nanhi si ek jaaṅ
 
   daaman jala huwa tha to kaanoṅ se khun rawaaṅ

@@ -48,12 +48,12 @@ romanLyrics: |-
   
   7
   Tumhaari zawja ko Zainab sambhalti bhaiya
-  Ajib waqt hai maa ko bataayenge a'da
+  Ajib waqt hai maa ko bataayenge aada
   Jo baap ke liye maa ko bataana mushkil hai
   
   8
   Yuṅ zard chehra hai jaise ke jaaṅ nikalti hai
-  Maiṅ dekhta huṅ kamar teri jhuk'ti jaati hai
+  Maiṅ dekhta huṅ kamar teri jhukti jaati hai
   Tere liye ye shahadat bhulana mushkil hai
   
   9

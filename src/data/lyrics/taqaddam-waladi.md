@@ -78,7 +78,7 @@ romanLyrics: |-
   8
   Kahiṅ aisa na ho Abbas-e Ali, batal-e jalil
   Is tarah dekh ke barbadi-e gulzar-e Khalil
-  Tum se pehle hi woh kar jayeṅ wigha meiṅ ta’jil
+  Tum se pehle hi woh kar jayeṅ wigha meiṅ taajil
   Kar ke Qasim ke hawale alam-e fauj-e qalil
 
   Khud barheṅ tol ke talwar, taqaddam waladi

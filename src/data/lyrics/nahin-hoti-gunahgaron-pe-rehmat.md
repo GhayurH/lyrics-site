@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   1
   Nahiṅ hoti gunahgaroṅ par rehmat, ho bhi sakti hai
-  Muhabbat ho Ali se to shafa’at ho bhi sakti hai
+  Muhabbat ho Ali se to shafaat ho bhi sakti hai
 
   2
   Khudawandaa tera banda Nasiri ka Khuda kiuṅ hai

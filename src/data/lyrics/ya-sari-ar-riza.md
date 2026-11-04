@@ -24,7 +24,7 @@ romanLyrics: |-
   Hai Tere Naam Ki Tasir Har Maraz Ki Dawa
   Hai Tere Zikr Meiṅ Poshida Mere Haq Meiṅ Shifa
   Baghair Maange Hi Karta Hai Tu Ata Pe Ata
-  Sada Se Pehle Hi Sunta Hai Sa'ilon Ki Sada
+  Sada Se Pehle Hi Sunta Hai Sailoṅ Ki Sada
   
   2
   Ali Wasila Bane Aur Kumail Paaye Shifa

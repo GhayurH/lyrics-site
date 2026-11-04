@@ -30,7 +30,7 @@ romanLyrics: |-
   
   3
   Aaza-e-badan tum ho to paikar nahiṅ hota
-  Ma’zur pe gharwala bhi muztar nahiṅ hota
+  Maazur pe gharwala bhi muztar nahiṅ hota
   Ghar mujhko na le jana, mere haath nahiṅ hai
   
   4
