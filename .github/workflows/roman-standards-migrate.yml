@@ -1,0 +1,49 @@
+name: Apply canonical Roman transliteration
+on:
+  push:
+    branches: [feat/roman-transliteration-standard-2026-11-04]
+permissions:
+  contents: write
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - name: Correct source-backed Roman editions
+        run: npm run --silent roman:sync > roman-migration-report.json
+      - name: Reconcile indexes, source metadata and permanent identities
+        run: npm run source:sync
+      - name: Confirm transliteration fixpoint
+        run: npm run roman:check
+      - name: Validate Astro and TypeScript
+        run: npm run check
+      - name: Validate unit tests, source conventions and production build
+        run: npm run build
+      - name: Commit verified source changes only
+        shell: bash
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/lyrics src/data/basta src/data/recitation
+          if ! git diff --cached --quiet; then
+            git diff --cached --stat | tail -20
+            git commit -m "Apply canonical Urdu-backed Roman transliteration corpus-wide"
+            git push origin HEAD:refs/heads/feat/roman-transliteration-standard-2026-11-04
+          fi
+      - name: Preserve normalization report for editorial checking
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: canonical-roman-migration
+          path: roman-migration-report.json
+          if-no-files-found: ignore
+          retention-days: 7
