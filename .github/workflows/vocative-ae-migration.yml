@@ -1,0 +1,51 @@
+# One-time corpus migration. Delete after source changes are verified and committed.
+name: Roman vocative Ae migration
+on:
+  push:
+    branches:
+      - feat/roman-transliteration-standard-2026-11-04
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - name: Normalize Roman Urdu against corresponding Urdu source
+        run: npm run --silent roman:sync > vocative-migration-report.json
+      - name: Refresh source-derived metadata and review structure
+        run: npm run source:sync
+      - name: Confirm canonical spelling is stable
+        run: npm run roman:check
+      - name: Validate Astro and TypeScript
+        run: npm run check
+      - name: Build including tests and source validation
+        run: npm run build
+      - name: Commit validated source-only edits to feature branch
+        shell: bash
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/lyrics src/data/basta src/data/recitation
+          if ! git diff --cached --quiet; then
+            git commit -m "Correct Urdu vocative Ae across Roman editions"
+            git push origin HEAD:refs/heads/feat/roman-transliteration-standard-2026-11-04
+          fi
+      - name: Save editorial audit
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: vocative-ae-report
+          path: vocative-migration-report.json
+          if-no-files-found: ignore
+          retention-days: 7
