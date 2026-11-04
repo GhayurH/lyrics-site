@@ -16,43 +16,43 @@ romanLyrics: |-
   Ali hai Ali hai Ali hai Ali hai
 
   1
-  Yeh bint-e Asad jis ko thame khari hain
+  Yeh bint-e Asad jis ko thame khari haiṅ
   Ali hai Ali hai Ali hai Ali hai
 
   2
-  Tahayyur hai yeh kya hua aur kyun kar
-  Bana kis ki khatir yeh deewar mein dar
-  Yeh deewar shaq kis ki khatir hui hai
+  Tahayyur hai yeh kya hua aur kiuṅ kar
+  Bana kis ki khatir yeh diwar meiṅ dar
+  Yeh diwar shaq kis ki khatir hui hai
 
   3
-  Hai sadiyon se is ghar ke chakkar lagaye
+  Hai sadiyoṅ se is ghar ke chakkar lagaye
   Na dekha kisi ko ke andar se aaye
   Yeh pehli dafa ghar se nikla koi hai
 
   4
-  Barhe hain paharon pe jaan ko bachaye
-  Nabuwwat ko maidan mein aa kar bachaye
+  Barhe haiṅ paharoṅ pe jaan ko bachaye
+  Nabuwwat ko maidaṅ meiṅ aa kar bachaye
   Tabhi la fatah ki sada Rab ne di hai
 
   5
-  Main aison se kaise uthoon ga Khudaya
+  Maiṅ aisoṅ se kaise uthuṅ ga Khudaya
   Use bhej de jis ki khatir banaya
-  Uthoon us ke haathon pe hasrat bari hai
+  Uthuṅ us ke haathoṅ pe hasrat bari hai
 
   6
-  Ilahi bhagoron se ukta gaya hoon
-  Main gir gir ke maidan mein sharma gaya hoon
-  Kahan hai jo ho to fatah lazmi hai
+  Ilahi bhagoroṅ se ukta gaya huṅ
+  Maiṅ gir gir ke maidaṅ meiṅ sharma gaya huṅ
+  Kahaṅ hai jo ho to fatah lazmi hai
 
   7
   Na daulat na sarwat ki khatir hai mara
-  Zar-e tegh khanjar na loota tumhara
-  Tumhein jis ne mara yaqeenan Ali hai
+  Zar-e tegh khanjar na luta tumhara
+  Tumheiṅ jis ne mara yaqinan Ali hai
 
   8
   Yeh bistar pe apne jo sulwa rahe the
-  Nabi goya hijrat mein batla rahe the
-  Na hoon main to meri jagah bas yahi hai
+  Nabi goya hijrat meiṅ batla rahe the
+  Na huṅ maiṅ to meri jagah bas yahi hai
 
   9
   Payambar ne paigham paya Khuda se
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   10
   Yeh Asif Khuda ne kaha mere pyare
-  Yeh chaha ke dil mein sukoon ho tumhare
+  Yeh chaha ke dil meiṅ sukuṅ ho tumhare
   Sada jis ki bahr-e takallum chuni hai
 
 ---

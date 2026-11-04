@@ -1,6 +1,6 @@
 ---
 title: "مدحتِ حیدر میرے لب پر زرا آنے تو دو"
-alternateTitle: "Midhat-E-Haider Mere Lab Par Zara Aanay To Do"
+alternateTitle: "Midhat-e-Haider Mere Lab Par Zara Aane To Do"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Midhat-E-Haider Mere Lab Par Zara Aanay To Do"
 cover: "/images/lyrics/midhat-e-haider-mere-lab-par-zara-aanay-to-do.png"
-coverAlt: "Cover image for Midhat-E-Haider Mere Lab Par Zara Aanay To Do"
+coverAlt: "Cover image for Midhat-e-Haider Mere Lab Par Zara Aane To Do"
 published: true
 romanLyrics: |-
   1
@@ -17,24 +17,24 @@ romanLyrics: |-
   Daad mujh ko phir tumhara dil agar maane to do
 
   2
-  Hosh mein aa jayegi foran sipah-e bad-sifaat
-  Tum muhibban-e Ali ko josh mein aane to do
+  Hosh meiṅ aa jayegi foran sipah-e bad-sifaat
+  Tum muhibban-e Ali ko josh meiṅ aane to do
 
   3
-  Khud ba khud phirte nazar aayenge toofanon ke rukh
-  Tum fiza mein parcham-e Abbas lehrane to do
+  Khud ba khud phirte nazar aayeṅge tufanoṅ ke rukh
+  Tum fiza meiṅ parcham-e Abbas lehrane to do
 
   4
   Kaun roya kaun soya sab pata chal jayega
   Tum shab-e hijrat ka qissa hum ko dohrane to do
 
   5
-  Dekhna kaisa tawana hoga yeh laghar mareez
+  Dekhna kaisa tawana hoga yeh laghar mariz
   Majlis-e Shah ka tabarruk tum ise khane to do
 
   6
   Saaf aayega nazar maidan ta hadd-e nazar
-  Hazrat-e Abbas ko maidan mein aane to do
+  Hazrat-e Abbas ko maidan meiṅ aane to do
 
 ---
 

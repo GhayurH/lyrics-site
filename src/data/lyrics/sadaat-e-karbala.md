@@ -1,6 +1,6 @@
 ---
 title: "ساداتِ کربلا"
-alternateTitle: "Sadaat-E-Karbala"
+alternateTitle: "Sadaat-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,54 +9,54 @@ tags: []
 aliases:
   - "Sadaat-E-Karbala"
 cover: "/images/lyrics/sadaat-e-karbala.png"
-coverAlt: "Cover image for Sadaat-E-Karbala"
+coverAlt: "Cover image for Sadaat-e-Karbala"
 published: true
 romanLyrics: |-
-  Chehlum Ko Karbala Mein Jab Aayi Wo Bibiyan
+  Chehlum Ko Karbala Meiṅ Jab Aayi Wo Bibiyaṅ
   Sadaat-e-Karbala
   Har Bibi Kar Rahi Thi Kuch Is Tarha Se Giriya
   Sadaat-e-Karbala
   
   1
-  Kuch Bibiyan Yahan Hain, Kuch Bibiyan Wahan
-  Karti Hui Fughan
-  Bikhri Hui Thin Maqtal-e-Sarwar Mein Ja Baja
+  Kuch Bibiyaṅ Yahaṅ Haiṅ, Kuch Bibiyaṅ Wahaṅ
+  Karti Hui Fughaṅ
+  Bikhri Hui Thiṅ Maqtal-e-Sarwar Meiṅ Ja Baja
   Sadaat-e-Karbala
   
   2
-  Ek Bibi Dasht-e-Khooni Mein Jaati Hai Nehr Par
+  Ek Bibi Dasht-e-Khuni Meiṅ Jaati Hai Nehr Par
   Kehti Ba-Chashm-e-Tar
-  Abbas Dene Aayi Hoon Pursa Sakina Ka
+  Abbas Dene Aayi Huṅ Pursa Sakina Ka
   Sadaat-e-Karbala
   
   3
-  Ghut Ghut Ke Laadli Teri Zindan Mein Mar Gayi
-  Turbat Wahin Bani
+  Ghut Ghut Ke Laadli Teri Zindan Meiṅ Mar Gayi
+  Turbat Wahiṅ Bani
   Bhaiya Wo Qaid Se Na Hui Mar Ke Bhi Juda
   Sadaat-e-Karbala
   
   4
-  Akbar Ki Qabr Par Yoon Hui Laila Nauhagar
+  Akbar Ki Qabr Par Yuṅ Hui Laila Nauhagar
   Dekha Na Saal Bhar
-  Aayi Hoon Qaid-e-Sham Se Ab Ho Ke Main Reha
+  Aayi Huṅ Qaid-e-Sham Se Ab Ho Ke Maiṅ Reha
   Sadaat-e-Karbala
   
   5
-  Bano Ye Bain Karti Thi Ay Mere Bezubaan
-  Maan Dhoonde Ab Kahan
-  Batla De Hai Kahan Mera Asghar Ay Karbala
+  Bano Ye Bain Karti Thi Ae Mere Bezubaan
+  Maaṅ Dhunde Ab Kahaṅ
+  Batla De Hai Kahaṅ Mera Asghar Ae Karbala
   Sadaat-e-Karbala
   
   6
-  Qurban Tere Ay Mere Maajaye Be-Watan
-  Majboor Thi Behan
-  Zindaan Mein Mujh Se Teri Amanat Hui Juda
+  Qurban Tere Ae Mere Maajaye beWatan
+  Majbur Thi Behan
+  Zindaan Meiṅ Mujh Se Teri Amanat Hui Juda
   Sadaat-e-Karbala
   
   7
-  Rote Hain Khaas-o-Aam Tera Sun Ke Ye Kalam
-  Ay Shah Ke Ghulam
-  Nauha Tera Anees Hai Maqbool-e-Bargah
+  Rote Haiṅ Khaas o Aam Tera Sun Ke Ye Kalam
+  Ae Shah Ke Ghulam
+  Nauha Tera Anis Hai Maqbul-e-Bargah
   Sadaat-e-Karbala
 ---
 

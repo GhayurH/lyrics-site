@@ -2,7 +2,7 @@
 // Bidirectional variants cover established alternate spellings without fuzzy-matching unrelated words.
 const groups = [
   ["husain","hussain","hussein","hussayn"],
-  ["hasan","hassan"], ["bole","bolay"], ["wale","walay"],
+  ["hasan","hassan"], ["kiun","kyun","kiuṅ"], ["bole","bolay"], ["wale","walay"],
   ["karbala","kerbala"], ["ali","alee"], ["zahra","zehra","zohra"],
   ["fatima","fatimah","fatma"], ["zainab","zaynab","zeinab","zenab"],
   ["imam","imaam"], ["aza","azaa"], ["shaam","sham"],
@@ -16,7 +16,7 @@ for (const group of groups) {
   for (const form of unique) variants.set(form, unique.filter((other) => other !== form));
 }
 export function normalizeSearchToken(word: string): string {
-  return word.normalize("NFKC").toLowerCase()
+  return word.normalize("NFKC").toLowerCase().replace(/ṅ/gu, "n")
     .replace(/[\u064b-\u065f\u0670\u06d6-\u06ed\u0640]/g,"")
     .replace(/ك/g,"ک").replace(/[يى]/g,"ی")
     .replace(/ة/g,"ہ").replace(/[إأٱآ]/g,"ا");

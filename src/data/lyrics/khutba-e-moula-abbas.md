@@ -13,59 +13,59 @@ coverAlt: "Cover image for Khutba E Moula Abbas"
 published: true
 romanLyrics: |-
   1
-  Kahin hurmat Khuda ke ghar ki na pamaal ho jaye
+  Kahiṅ hurmat Khuda ke ghar ki na pamaal ho jaye
   Tabhi farzand-e-Kaaba Hajj ko umre se badal aaye
   Husain Ibn-e-Ali se taalib-e-bait jo dar aaye
   Ali ka sher bhikra ghaz-se-maathe pe bal aaye
   Sar-e-bait-e-Khuda qamar bani hashim nazar aaya
-  Ghazab se Hazrat Abbas ne logon se farmaaya
+  Ghazab se Hazrat Abbas ne logoṅ se farmaaya
 
   2
-  Sabhi hamd-o-sana uski k jo hai Khaaliq-e-Akbar
+  Sabhi hamd o sana uski k jo hai Khaaliq-e-Akbar
   Zacha khaana mere Baba ka ban jaata hai jis ka ghar
-  Ye eeton ka makaan kaaba bana jab aa gye Haider
-  Aur Sadaf ki qadr-o-qeemat kuchh nahi hoti be gohar
-  Ye qibla gaah-e-aalam asal mein tatheer ka ghar hai
+  Ye iton ka makaaṅ kaaba bana jab aa gye Haider
+  Aur Sadaf ki qadr o qimat kuchh nahi hoti begohar
+  Ye qibla gaah-e-aalam asal meiṅ tathir ka ghar hai
   Wirasat hai mere ajdaad ki… Shabbir ka ghar hai
 
   3
-  Aray o kafiron roka hai jin ka raasta tumne
-  Hai inke qurbate nazdeektar Allah ke ghar se
-  Agar maabood ki marzi nahi hoti to khud badh ke
+  Are o kafiroṅ roka hai jin ka raasta tumne
+  Hai inke qurbate nazdiktar Allah ke ghar se
+  Agar maabud ki marzi nahi hoti to khud barh ke
   Ye hajr-e-Aswad kaaba mere Moula ke le bose
   Jo farzand-e-Nabi ke hukm ka pehra nahi hota
-  Ye Kaaba ek ghadi apni jagah tahrra nahi hota
+  Ye Kaaba ek ghari apni jagah tahrra nahi hota
 
   4
   Agar marzi-e-Haq mansha mere Moula ki na hoti
-  Uqaab-e-Hashmi ban kar karoon parwaaz main aisi
-  Parinday jitne urte hain hawaon mein ye baiat ki
-  Girein kat kat ke reti par bache na koi bhi baaqi
-  Husain Ibn-e-Ali ke waaste sar ko kata doonga
-  Jo uthi aankh Aaqa ki taraf to noch daaloonga
+  Uqaab-e-Hashmi ban kar karuṅ parwaaz maiṅ aisi
+  Parinde jitne urte haiṅ hawaoṅ meiṅ ye baiat ki
+  Gireiṅ kat kat ke reti par bache na koi bhi baaqi
+  Husain Ibn-e-Ali ke waaste sar ko kata dunga
+  Jo uthi aankh Aaqa ki taraf to noch daalunga
 
   5
-  Are oo buzdilon tm maut se kis ko darate ho
-  Hame tegho sina teero kama kyn kar dikhate ho
+  Are u buzdiloṅ tm maut se kis ko darate ho
+  Hame tegho sina tiro kama kyṅ kar dikhate ho
   Bani hashim ki jurrat aur Shujaet azmate ho
   Ali ke sher ko lalkaar kar ghairat dilate ho
-  Saja rakhte hain par le maut ko ham apni rahoon mein
-  Hamare ghar ke bachay khelte hain iski bahon mein
+  Saja rakhte haiṅ par le maut ko ham apni rahuṅ meiṅ
+  Hamare ghar ke bache khelte haiṅ iski bahoṅ meiṅ
 
   6
-  Kahan woh bad-nasab faasiq sharabi-gasib -o-makkaar
-  Kahan Aali nasab aur chashma-e-kosar ka yeh sardar
-  Zara socho ke kis ka ghar raha baad-o-bad kirdaar
+  Kahaṅ woh bad-nasab faasiq sharabi-gasib -o-makkaar
+  Kahaṅ Aali nasab aur chashma-e-kosar ka yeh sardar
+  Zara socho ke kis ka ghar raha baad o bad kirdaar
   Utara kis ke ghar Allah ne Quran sa shaahkaar
   Burayi ka sarapa woh yeh sachayi ka paiker hai
   Woh Ibn-e-Muawiya tharra yeh Taahir-ibne-Haider hai
 
   7
   Chali rasam jahalat phir Quraishi hum sifat tum se
-  Woh pyase Mustafa ke khoon ke the tum naawase ke
-  Na kar paye jafa Ahd-e-Ali mein ashqiya jaise
+  Woh pyase Mustafa ke khun ke the tum naawase ke
+  Na kar paye jafa Ahd-e-Ali meiṅ ashqiya jaise
   Hai zinda jab talak Abbas… tum kuchh kar nahi sakte
-  Koi hasil nahi mansooba e batil ka ahle shar
+  Koi hasil nahi mansuba e batil ka ahle shar
   Khuda ka ghaiz tmpar aur tmhari saari naslo par
 ---
 ۱

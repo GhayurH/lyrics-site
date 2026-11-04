@@ -1,6 +1,6 @@
 ---
 title: "ماں نہ روئے گی تمہیں عون و محمد کیوں کر"
-alternateTitle: "Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
+alternateTitle: "Maaṅ Na Roegi Tumheiṅ Aun o Mohammad Kiuṅkar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,22 +9,22 @@ tags: []
 aliases:
   - "Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
 cover: "/images/lyrics/maan-na-roegi-tumhe-aun-o-mohammad-kyunkar.png"
-coverAlt: "Cover image for Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
+coverAlt: "Cover image for Maaṅ Na Roegi Tumheiṅ Aun o Mohammad Kiuṅkar"
 published: true
 romanLyrics: |-
-  Maan na roegi tumhe Aun o Mohammad kyunkar
+  Maaṅ na roegi tumheiṅ Aun o Mohammad kiuṅkar
   
-  Jab madine mein nazar aaegi viraniy-e-ghar
+  Jab madine meiṅ nazar aaegi viraniy-e-ghar
   
   1
-  Jab ke zindan mein tum dono ka sar aya tha
-  Maan na royi thi tumhe tumko gila to hoga
-  Muaaf karna jo agar ho sake aye lakhte jigar
+  Jab ke zindan meiṅ tum dono ka sar aya tha
+  Maaṅ na royi thi tumhe tumko gila to hoga
+  Muaaf karna jo agar ho sake ae lakhte jigar
   
   2
-  Mujhse poochenge jo Abdullah kahan hain bachche
-  Kya waja hai meri nazron se nihan hain bachche
-  Kya jawab unko ye maa degi mere noore nazar
+  Mujhse puchenge jo Abdullah kahaṅ haiṅ bachche
+  Kya waja hai meri nazroṅ se nihaṅ haiṅ bachche
+  Kya jawab unko ye maa degi mere nure nazar
   
   3
   Hujre dekhungi tumhare to tarap jaungi
@@ -32,24 +32,24 @@ romanLyrics: |-
   Ab nahi lautke aaenge mere rashqe qamar
   
   4
-  Tum nahi paas to ab naaz uthaun kiske
-  Hujre hathon se bhala ab mai sajaun kiske
+  Tum nahi paas to ab naaz uthauṅ kiske
+  Hujre hathoṅ se bhala ab mai sajauṅ kiske
   Kaash mar jati tere sath hi dukhiya madar
   
   5
-  Tum nahi ho to maza kuch bhi nahi jeene mein
-  Haey is gham se phataa jata hai dil seene mein
+  Tum nahi ho to maza kuch bhi nahi jine meiṅ
+  Hai is gham se phataa jata hai dil sine meiṅ
   Kaun ab mujhko pukarega bhala maa kehkar
   
   6
-  Ay mere laal tere baad ghazab hum pe hua
+  Ae mere laal tere baad ghazab hum pe hua
   Haey is chashm-e-falak ne bhi ye manzar dekha
-  Sar barehna ye laeen laigaye humko dar dar
+  Sar barehna ye lain laigaye humko dar dar
   
   7
   Bain sunkar ye uthi Zain baqayya se sada
-  Gham na kha ay meri beti ke ye maa tumpe fida
-  Hain mere paas mere Aun o Mohammad dilbar
+  Gham na kha ae meri beti ke ye maa tumpe fida
+  Haiṅ mere paas mere Aun o Mohammad dilbar
 ---
 
 ماں نہ روئے گی تمہیں عون و محمد کیوں کر

@@ -1,6 +1,6 @@
 ---
 title: "اب اے ہواؤں کچھ خاک اُڑاؤ"
-alternateTitle: "Ab Ae Hawaon Kuch Khak Urao"
+alternateTitle: "Ab Ae Hawaoṅ Kuch Khak Urao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,41 +9,41 @@ tags: []
 aliases:
   - "Ab Ae Hawaon Kuch Khak Urao"
 cover: "/images/lyrics/ab-aey-hawaon-kuch-khak-urao.png"
-coverAlt: "Cover image for Ab Ae Hawaon Kuch Khak Urao"
+coverAlt: "Cover image for Ab Ae Hawaoṅ Kuch Khak Urao"
 published: true
 romanLyrics: |-
-  Ab Ae Hawaon Kuch Khak Urao
+  Ab Ae Hawaoṅ Kuch Khak Urao
   Laut Aayi Ran Se Sheh Ki Sawaari
   
-  Zainab Sambhalna Hai Zeen Khali
+  Zainab Sambhalna Hai Zin Khali
   Zakhmi Badan Se Hai Khun Jari
   
   1
-  Zainab Ki Ran Mein Aah-o-Fughan Hai
-  Mazlum Bhai Batla Kahan Hai
+  Zainab Ki Ran Meiṅ Aah o Fughaṅ Hai
+  Mazlum Bhai Batla Kahaṅ Hai
   Kya Haal Hai Tera Ye Murtajiz Hai
-  Aankhon Se Kiun Ye Aansun Rawan Hai
+  Aankhoṅ Se Kiuṅ Ye Aansun Rawaṅ Hai
   
-  Teeron Se Chhalni Sara Badan Hai
+  Tiroṅ Se Chhalni Sara Badan Hai
   Sare Badan Se Hai Khun Jari
   
   2
   Tere Badan Se Bhayya Ki Mujhko
   Taza Lahu Ki Aati Hai Khushbu
-  Hai Surkh Kiunkar Ye Jism Tera
-  Kiunkar Hai Teri Aankon Mein Aansu
+  Hai Surkh Kiuṅkar Ye Jism Tera
+  Kiuṅkar Hai Teri Aankoṅ Meiṅ Aansu
   
-  Aankhein Phati Hain Raashein Kati Hain
-  Kiun Sar Pe Tere Hai Zakhm Tari
+  Aankheiṅ Phati Haiṅ Raasheiṅ Kati Haiṅ
+  Kiuṅ Sar Pe Tere Hai Zakhm Tari
   
   3
-  Ay Zuljana-e-Sibt-e-Payambar
-  Batala Kahan Hai Mera Biradar
+  Ae Zuljana-e-Sibt-e-Payambar
+  Batala Kahaṅ Hai Mera Biradar
   Pyasi Sakina Karti Hai Noha
-  Baba Na Aaye Maqtal Se Kiunkar
+  Baba Na Aaye Maqtal Se Kiuṅkar
   
   Mara Gaya Kiya Mazlum Bhai
-  Karti Hai Zainab Ye Aah-o-Zari
+  Karti Hai Zainab Ye Aah o Zari
   
   4
   Har Sham Sughra Roz-e-Nabi Par
@@ -51,7 +51,7 @@ romanLyrics: |-
   Aashur Guzra Baba Na Aaye
   Ye Soch Kar Wo Ghabrati Hogi
   
-  Veeran Ghar Ki Chaukhat Pe Ab Tak
+  Viran Ghar Ki Chaukhat Pe Ab Tak
   Behthi Ho Shayad Wo Gham Ki Maari
 ---
 

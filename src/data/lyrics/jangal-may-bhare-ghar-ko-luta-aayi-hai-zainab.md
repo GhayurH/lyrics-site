@@ -12,60 +12,60 @@ cover: "/images/lyrics/jangal-may-bhare-ghar-ko-luta-aayi-hai-zainab.png"
 coverAlt: "Cover image for Jangal May Bhare Ghar Ko Luta Aayi Hai Zainab"
 published: true
 romanLyrics: |-
-  Jangal may bhare ghar ko luta aayi hai Zainab ay Shehr-e-Madina
-  Abid ko kisi tarha bacha laayi hai Zainab ay Shehr-e-Madina
+  Jangal may bhare ghar ko luta aayi hai Zainab ae Shehr-e-Madina
+  Abid ko kisi tarha bacha laayi hai Zainab ae Shehr-e-Madina
   
   1
-  Bandhwa ke rasan haaton may aur khutbe sunaake ghar baar lutaake
-  Dewaar bade kufr ke dha aayi hai Zainab ay Shehr-e-Madina
+  Bandhwa ke rasan haatoṅ may aur khutbe sunaake ghar baar lutaake
+  Dewaar bare kufr ke dha aayi hai Zainab ae Shehr-e-Madina
   
   2
-  Jis shehr may Shehzaadiyo ki tarha rahi thi naazon se pali thi
-  Sar nange usi shehr may ho aayi hai Zainab ay Shehr-e-Madina
+  Jis shehr may Shehzaadiyo ki tarha rahi thi naazoṅ se pali thi
+  Sar nange usi shehr may ho aayi hai Zainab ae Shehr-e-Madina
   
   3
-  Jo hijre padar may rahe har waqt pareshan soyi nahi ek aan
-  Us bachi ko zindaan may sulaa aayi hai Zainab ay Shehr-e-Madina
+  Jo hijre padar may rahe har waqt pareshaṅ soyi nahi ek aan
+  Us bachi ko zindaaṅ may sulaa aayi hai Zainab ae Shehr-e-Madina
   
   4
   Dhaaras thi bahot Bhai ko jis Bhai ke dam se dil phat-ta hai gham se
-  Saahil pe akela usay choad aayi hai Zainab ay Shehr-e-Madina
+  Saahil pe akela use choar aayi hai Zainab ae Shehr-e-Madina
   
   5
-  Chhey maah ke Asghar ko bhi jhoole ke bajaaye dukh dard chipaaye
-  Aaghosh may turbat ke sulaa aayi hai Zainab ay Shehr-e-Madina
+  Chhey maah ke Asghar ko bhi jhule ke bajaaye dukh dard chipaaye
+  Aaghosh may turbat ke sulaa aayi hai Zainab ae Shehr-e-Madina
   
   6
-  The Aun-o-Mohammad jo meri aankhon ke taare mamu ke dulaare
-  Qurbaan unhe Bhai par kar aayi hai Zainab ay Shehr-e-Madina
+  The Aun o Mohammad jo meri aankhoṅ ke taare mamu ke dulaare
+  Qurbaan unhe Bhai par kar aayi hai Zainab ae Shehr-e-Madina
   
   7
-  Tha Akbar-e-Nashaad jo is ghar ka ujaala wo Gaysuon wala
-  Marqad may akela usay choad aayi hai Zainab ay Shehr-e-Madina
+  Tha Akbar-e-Nashaad jo is ghar ka ujaala wo Gaysuoṅ wala
+  Marqad may akela use choar aayi hai Zainab ae Shehr-e-Madina
   
   8
-  Naadim hai bahot laa saki Qasim ko na humra wa hasrat-o-darda
-  Kubra ko magar saath liye aayi hai Zainab ay Shehr-e-Madina
+  Naadim hai bahot laa saki Qasim ko na humra wa hasrat o darda
+  Kubra ko magar saath liye aayi hai Zainab ae Shehr-e-Madina
   
   9
-  Pani jo piye ehle watan pyaas na bhulay moo ashkon se dholay
-  Kehne ko ye Bhai ka payaam aayi hai Zainab ay Shehr-e-Madina
+  Pani jo piye ehle watan pyaas na bhule mu ashkoṅ se dhole
+  Kehne ko ye Bhai ka payaam aayi hai Zainab ae Shehr-e-Madina
   
   10
   Manzar wo bhula sakti nahi ta dame aakhir hai kehne se qaasir
-  Jo Shaam ke darbaar may dekh aayi hai Zainab ay Shehr-e-Madina
+  Jo Shaam ke darbaar may dekh aayi hai Zainab ae Shehr-e-Madina
   
   11
   Kis waqt Khuda jaane qadam nikle the ghar se chaadar chini sar se
-  Ab tak na masayab se nikal paayi hai Zainab ay Shehr-e-Madina
+  Ab tak na masayab se nikal paayi hai Zainab ae Shehr-e-Madina
   
   12
   Shabbir pe ab royega ta hashr zamana hai gham ka fasana
-  Majlis ki bina Shaam may daal aayi hai Zainab ay Shehr-e-Madina
+  Majlis ki bina Shaam may daal aayi hai Zainab ae Shehr-e-Madina
   
   13
-  Reh jayega Akhtar ufaqe gham pe tera naam kya khoob hai inaam
-  Nauha tera sun-ne ke liye aayi hai Zainab ay Shehr-e-Madina
+  Reh jayega Akhtar ufaqe gham pe tera naam kya khub hai inaam
+  Nauha tera sun-ne ke liye aayi hai Zainab ae Shehr-e-Madina
 ---
 
 جنگل میں بھرے گھر کو لٹا آئی ہے زینب، اے شہرِ مدینہ

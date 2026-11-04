@@ -1,6 +1,6 @@
 ---
 title: "وہ خون رو کے یہ کہتا رہا زمانے سے"
-alternateTitle: "Wo Khoon Ro Ke"
+alternateTitle: "Wo Khun Ro Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,35 +9,35 @@ tags: []
 aliases:
   - "Wo Khoon Ro Ke"
 cover: "/images/lyrics/wo-khoon-ro-ke.png"
-coverAlt: "Cover image for Wo Khoon Ro Ke"
+coverAlt: "Cover image for Wo Khun Ro Ke"
 published: true
 romanLyrics: |-
-  Wo khoon ro ke kehta raha zamanay se
-  Ridaein cheeno naa (x2) logo mere gharanay se
+  Wo khun ro ke kehta raha zamane se
+  Ridaeiṅ chino naa, logo mere gharane se
   
   1
-  Sawal-e-aab pe sonay pe us ke ronay pe (x2)
-  Wo maartay the (x2) sakina ko her bahaanay se
+  Sawal-e-aab pe sone pe us ke rone pe
+  Wo maarte the, sakina ko her bahaane se
   
   2
-  Bulaey kis tarha abbas ko madad kai leeyai (x2)
-  Wo berida thee (x2) jhijhakti rahi bulanay se
+  Bulaey kis tarha abbas ko madad kai liyai
+  Wo berida thi, jhijhakti rahi bulane se
   
   3
-  Sulaya jaata tha bayhosh ker ke durron se (x2)
-  Jagaya jata tha (x2) abid ko taazianay se
+  Sulaya jaata tha bayhosh ker ke durroṅ se
+  Jagaya jata tha, abid ko taaziane se
   
   4
-  Kuch is terha sar-e-kerbobala wo ujray the (x2)
-  Ke dar rahe hain (x2) abhi tak wo ghar basaanay se
+  Kuch is terha sar-e-kerbobala wo ujre the
+  Ke dar rahe haiṅ, abhi tak wo ghar basaane se
   
   5
-  Kaha ye ganj-e-shaheedan mei baap ke sar ne (x2)
-  Mujhai sakina (x2) bulati hai qaid khaanay se
+  Kaha ye ganj-e-shahidaṅ mei baap ke sar ne
+  Mujhai sakina, bulati hai qaid khaane se
   
   6
-  Rida-e-saani-e-zehra mei dhal gaya akbar (x2)
-  Ghubaar utha jo laashon ke thar tharaanay se
+  Rida-e-saani-e-zehra mei dhal gaya akbar
+  Ghubaar utha jo laashoṅ ke thar tharaane se
 ---
 
 وہ خون رو کے یہ کہتا رہا زمانے سے

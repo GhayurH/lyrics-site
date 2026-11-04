@@ -15,7 +15,7 @@ romanLyrics: |-
   jab rida sar se chini mai sada deti rahi
   tu na aaya ghazi
   
-  aale imran kahan aur zindan kahan
+  aale imran kahaṅ aur zindan kahaṅ
   le behan qaid hui tu na aaya ghazi
   
   1
@@ -25,37 +25,37 @@ romanLyrics: |-
   aagaye baba ali
   
   2
-  dhoop may tu tha shajar tujhse aabaad tha ghar
+  dhup may tu tha shajar tujhse aabaad tha ghar
   hai barehna mera sar kya nahi tujhko khabar
-  ay alamdar-e-wafa is behan ko ba-khuda
+  ae alamdar-e-wafa is behan ko ba-khuda
   tujhse dhaaras thi bari
   
   3
-  kya kahun sher mere berida humko liye
-  ye musalman saare shehr dar shehr gaye
-  khilqate koofa kabhi khilqate shaam kabhi
+  kya kahuṅ sher mere berida humko liye
+  ye musalmaṅ saare shehr dar shehr gaye
+  khilqate kufa kabhi khilqate shaam kabhi
   baaraha hum pe hansi
   
   4
-  kitni bebas thi behan ay shehenshahe wafa
+  kitni bebas thi behan ae shehenshahe wafa
   naam le le ke mera jab ye zaalim ne kaha
-  naaz tha jispe tujhe ab bulao na usay
-  aur main roti rahi
+  naaz tha jispe tujhe ab bulao na use
+  aur maiṅ roti rahi
   
   5
-  humko pani na mile teri khusboo to rahe
-  tere baazu na katein chahe mashkeeza chiday
-  ye magar ho na saka tere baazu hain juda
+  humko pani na mile teri khusbu to rahe
+  tere baazu na kateiṅ chahe mashkiza chide
+  ye magar ho na saka tere baazu haiṅ juda
   mujh pe hai tashnalabi
   
   6
-  kya sakina se kahun ay mere dil ke sukoon
-  haye pani ke liye beh gaya sab tera khun
+  kya sakina se kahuṅ ae mere dil ke sukuṅ
+  haye pani ke liye beh gaya sab tera khuṅ
   ab koi aas nahi tu mere paas nahi
-  rassi shaanon mein bandhi
+  rassi shaanoṅ meiṅ bandhi
   
   7
-  jab chali sheh pe churi ay mere sher-e-jari
+  jab chali sheh pe churi ae mere sher-e-jari
   haath malti thi behan kuch qadam dur khari
   kat gaya sheh ka gala haye bhai ne sada
   mujhko har zarb pa di
@@ -64,13 +64,13 @@ romanLyrics: |-
   qaid khane may qaza jab sakina ko mili
   deke kurte ka kafan bachi dafnayi gayi
   us ghari naam tera surat-e-nad-e-Ali
-  bas main duhrati rahi
+  bas maiṅ duhrati rahi
   
   9
   roya rehaan qalam karke ye baat raqam
-  khoon may doob gaya mere ghazi ka alam
-  zakhmi zainab ka jigar khoon-fishan shaah ka sar
-  aaye khaimon may shaqi
+  khun may dub gaya mere ghazi ka alam
+  zakhmi zainab ka jigar khuṅ-fishaṅ shaah ka sar
+  aaye khaimoṅ may shaqi
 ---
 
 جب ردا سر سے چھنی میں سدا دیتی رہی

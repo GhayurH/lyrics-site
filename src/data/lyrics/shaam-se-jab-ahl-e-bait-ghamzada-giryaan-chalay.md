@@ -1,6 +1,6 @@
 ---
 title: "شام سے جب اہلِ بیت، غمزدہ گریاں چلے"
-alternateTitle: "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
+alternateTitle: "Shaam Se Jab Ahl-e-Bait, Ghamzada Giryaaṅ Chale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,90 +9,90 @@ tags: []
 aliases:
   - "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
 cover: "/images/lyrics/shaam-se-jab-ahl-e-bait-ghamzada-giryaan-chalay.png"
-coverAlt: "Cover image for Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
+coverAlt: "Cover image for Shaam Se Jab Ahl-e-Bait, Ghamzada Giryaaṅ Chale"
 bastaPage: 264
 bastaNote: original-selection
 published: true
 romanLyrics: |-
   1
-  Shaam se jab Ahl-e-Bait, ghamzada giryaan chale
-  Yaani soo-e-Karbala, chaak girebaan chale
-  Le ke shaheedon ke sar, be-sar-o-saamaan chale
-  Kartay huay ye bayaan baa-dil-e-naalaan chale
-  Aaj hai chaaleeswaan Hazrat-e-Shabbir ka
-  Tishna-dahan kushta-e-khanjar-o-taqdeer ka
+  Shaam se jab Ahl-e-Bait, ghamzada giryaaṅ chale
+  Yaani su-e-Karbala, chaak girebaaṅ chale
+  Le ke shahidoṅ ke sar, besar o saamaaṅ chale
+  Karte hue ye bayaaṅ baa-dil-e-naalaaṅ chale
+  Aaj hai chaaliswaaṅ Hazrat-e-Shabbir ka
+  Tishna-dahan kushta-e-khanjar o taqdir ka
   
   2
-  Raah mein un se koi, poochta gar aan kar
-  Kis ke ho naamoos tum, kis ke ho lakht-e-jigar
-  Kis ne hai loota tumhein, kis ne kiya be-padar
-  Kehte the Ahl-e-Haram un se yun ba-chashm-e-tar
-  Tum se bayaan kya karein apnay hum ehwaal ko
-  Dafn hain karnay chale Fatima ke laal ko
+  Raah meiṅ un se koi, puchta gar aan kar
+  Kis ke ho naamus tum, kis ke ho lakht-e-jigar
+  Kis ne hai luta tumheiṅ, kis ne kiya bepadar
+  Kehte the Ahl-e-Haram un se yuṅ ba-chashm-e-tar
+  Tum se bayaaṅ kya kareiṅ apne hum ehwaal ko
+  Dafn haiṅ karne chale Fatima ke laal ko
   
   3
   Woh jo haram mohtaram, Shah ke ba-sad bukaa
-  Manzilein tay kartay haaye, pohanchay dar-e-Karbala
-  Door se woh qatl-gaah, un ko dikhayi diya
-  Ro ke yeh kehnay lagay Hazrat-e-Zain-ul-Aba
-  Oonton se utro tum ab kartay huay shor-o-shain
-  Rotay chalo piyaada-pa, yaan se ba-laash-e-Husain
+  Manzileiṅ te karte haaye, pohanche dar-e-Karbala
+  Dur se woh qatl-gaah, un ko dikhayi diya
+  Ro ke yeh kehne lage Hazrat-e-Zain-ul-Aba
+  Untoṅ se utro tum ab karte hue shor o shain
+  Rote chalo piyaada-pa, yaaṅ se ba-laash-e-Husain
   
   4
   Hazrat Sajjad se sun ke Haram yeh kalaam
-  Peet-tay rotay huay oonton se utray tamaam
-  Aaye jo laashon ke paas, haaye woh naashaad kaam
-  Sar ko lagay peetnay, waarison ke le ke naam
-  Chaadarein sar se utaar aansoo bahanay lagay
-  Haathon se us ban ki khaak sar pe uraanay lagay
+  Pit-te rote hue untoṅ se utre tamaam
+  Aaye jo laashoṅ ke paas, haaye woh naashaad kaam
+  Sar ko lage pitne, waarisoṅ ke le ke naam
+  Chaadareiṅ sar se utaar aansu bahane lage
+  Haathoṅ se us ban ki khaak sar pe uraane lage
   
   5
   Hazrat-e-Sajjad ne dekh ke yeh maajra
-  Bibiyon ko saath le, khoob sa maatam kiya
-  Sar jo shaheedon ke the, beech mein un ko rakha
-  Seena-o-sar peet kar, ro ro yeh nauha parha
-  Zahra ke masoom ka aaj hai chaaleeswaan
-  Syed-e-Mazloom ka aaj hai chaaleeswaan
+  Bibiyoṅ ko saath le, khub sa maatam kiya
+  Sar jo shahidoṅ ke the, bich meiṅ un ko rakha
+  Sina o sar pit kar, ro ro yeh nauha parha
+  Zahra ke masum ka aaj hai chaaliswaaṅ
+  Syed-e-Mazlum ka aaj hai chaaliswaaṅ
   
   6
   Woh jo hai Ibn-e-Hasan Shah ka aali-nasab
   Biyaah ke din haaye haaye, qatl hua tishna-lab
-  Shaadi ka jora jo tha, mil gaya mitti mein sab
+  Shaadi ka jora jo tha, mil gaya mitti meiṅ sab
   Us ka bhi chehlum hai aaj, haaye sitam hai ghazab
-  Akbar-o-Asghar ka bhi aaj hai chaaleeswaan
-  Shah ke lashkar ka bhi aaj hai chaaleeswaan
+  Akbar o Asghar ka bhi aaj hai chaaliswaaṅ
+  Shah ke lashkar ka bhi aaj hai chaaliswaaṅ
   
   7
-  Hazrat-e-Zain-ul-Aba, noha ye jab parh chukay
-  Bibiyon se iss tarah, ro ro ye kehne lagay
-  Pehle kaho kis ki laash, qabr mein Abid rakhay
-  Bano-e-Abbas yun, boli main sadqe tere
-  Pehle mere saaein ki, laash tou dhundwaaio
-  De ke kafan qabr mein, phir ussay dalwaaio
+  Hazrat-e-Zain-ul-Aba, noha ye jab parh chuke
+  Bibiyoṅ se iss tarah, ro ro ye kehne lage
+  Pehle kaho kis ki laash, qabr meiṅ Abid rakhe
+  Bano-e-Abbas yuṅ, boli maiṅ sadqe tere
+  Pehle mere saaeiṅ ki, laash tou dhundwaaio
+  De ke kafan qabr meiṅ, phir usse dalwaaio
   
   8
   Ro diya Sajjad ne, sunte hi uss ki ye baat
   Bano-e-Abbas ko, le chale phir apne saath
-  Rotay hue jab gaye, bar lab-e-nehr-e-furaat
-  Dekha tou Abbas ke, kat gaye hain dono haath
-  Haathon ka khoon beh gaya, zardi hai sab chaa gayi
-  Ungli har ek haath ki, dhoop se murjhaa gayi
+  Rote hue jab gaye, bar lab-e-nehr-e-furaat
+  Dekha tou Abbas ke, kat gaye haiṅ dono haath
+  Haathoṅ ka khun beh gaya, zardi hai sab chaa gayi
+  Ungli har ek haath ki, dhup se murjhaa gayi
   
   9
   Aap ne ek baar ye, dekha jo phir ghor se
-  Tan se juda hogaye, shaanay katay hain paray
-  Seena-e-mazloom par, zakhm hain talwaar ke
-  Ghaaiyaan bhi kat gayi, zakhmon se shamsheer ke
-  Seena-e-pur noor hai, teeroun se chida hua
-  Laasha hai tukre para, khaak mein lipta hua
+  Tan se juda hogaye, shaane kate haiṅ pare
+  Sina-e-mazlum par, zakhm haiṅ talwaar ke
+  Ghaaiyaaṅ bhi kat gayi, zakhmoṅ se shamshir ke
+  Sina-e-pur nur hai, tirouṅ se chida hua
+  Laasha hai tukre para, khaak meiṅ lipta hua
   
   10
   Bewa-e-Abbas ne, dekh ke ye maajra
-  Le le ke shohar ka naam, khoob sa matam kiya
+  Le le ke shohar ka naam, khub sa matam kiya
   Laasha-e-Abbas ke, tukre jo the jaa bajaa
-  Chun ke har ek uzoo ko, sar se mila kar kaha
-  Aao ay Zain-ul-Aba, khaak uraati hoon main
-  Yaani sar Abbas ka, tan se milaati hoon main
+  Chun ke har ek uzu ko, sar se mila kar kaha
+  Aao ae Zain-ul-Aba, khaak uraati huṅ maiṅ
+  Yaani sar Abbas ka, tan se milaati huṅ maiṅ
 ---
 
 ۱

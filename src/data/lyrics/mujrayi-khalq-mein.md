@@ -1,6 +1,6 @@
 ---
 title: "مجرئی خلق میں، ان آنکھوں نے کیا کیا دیکھا"
-alternateTitle: "Mujrayi Khalq Mein"
+alternateTitle: "Mujrayi Khalq Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,44 +9,44 @@ tags: []
 aliases:
   - "Mujrayi Khalq Mein"
 cover: "/images/lyrics/mujrayi-khalq-mein.png"
-coverAlt: "Cover image for Mujrayi Khalq Mein"
+coverAlt: "Cover image for Mujrayi Khalq Meiṅ"
 published: true
 romanLyrics: |-
   1
-  Mujrayi khalq mein, in aankhon ne kya kya dekha
-  Par kahin Sibt-e Payambar sa na Aqa dekha
+  Mujrayi khalq meiṅ, in aankhoṅ ne kya kya dekha
+  Par kahiṅ Sibt-e Payambar sa na Aqa dekha
 
   2
-  Main ne dekha alam-e Shah ko alooda-e khoon
-  Main ne neza pe sar-e dilbar-e Zahra dekha
+  Maiṅ ne dekha alam-e Shah ko aluda-e khun
+  Maiṅ ne neza pe sar-e dilbar-e Zahra dekha
 
   3
-  Kehti thin Zainab-e muztar ke Khuda khair kare
-  Raat ko khwab mein uryaan sar-e Zahra dekha
+  Kehti thiṅ Zainab-e muztar ke Khuda khair kare
+  Raat ko khwab meiṅ uryaaṅ sar-e Zahra dekha
 
   4
-  Ek gathri Shah-e Deen pusht pe laaye us mein
-  Main ne tukre hue Qasim ka sarapa dekha
+  Ek gathri Shah-e Din pusht pe laaye us mein
+  Maiṅ ne tukre hue Qasim ka sarapa dekha
 
   5
-  Main ne dekha Ali Asghar ka gala khoon mein tar
-  Main ne Abbas ko reti pe tarapta dekha
+  Maiṅ ne dekha Ali Asghar ka gala khun meiṅ tar
+  Maiṅ ne Abbas ko reti pe tarapta dekha
 
   6
-  Be-rida khalq ne us Bibi ke sar ko dekha
+  berida khalq ne us Bibi ke sar ko dekha
   Jis ki madar ka kisi ne na janaza dekha
 
   7
-  Gir pare Sibt-e Nabi thaam ke haathon se jigar
+  Gir pare Sibt-e Nabi thaam ke haathoṅ se jigar
   Ali Akbar ko jo reti pe tarapta dekha
 
   8
-  Ja ke Zainab ne Madine mein kaha Sughra se
-  Kahoon kis munh se ke pardes mein kya kya dekha
+  Ja ke Zainab ne Madine meiṅ kaha Sughra se
+  Kahuṅ kis munh se ke pardes meiṅ kya kya dekha
 
   9
-  Haye kyun ho na gayin koorha ke in aankhon ne
-  Qaid khane mein Sakina ka janaza dekha
+  Haye kiuṅ ho na gayiṅ kurha ke in aankhoṅ ne
+  Qaid khane meiṅ Sakina ka janaza dekha
 
   10
   Zulm hai Mujrai, Sajjad ne kya kya dekha

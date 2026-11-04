@@ -13,26 +13,26 @@ coverAlt: "Cover image for Yeh Raaz Kya Hai Duniya Ke Banane Wale"
 published: true
 romanLyrics: |-
   Yeh Raaz Kya Hai Duniya Ke Banane Wale
-  Be Sahara Hai Tera Deen Bachane Wale
+  Besahara Hai Tera Din Bachane Wale
   
   1
   Tha Woh Darbaar Magar Log Wohi The Nana
   Tujh Pe Hizyaan Ka Jo Ilzaam Lagane Wale
   
   2
-  Kufa Aur Shaam Ka Dastoor Nirala Dekha
-  Qatal Karte Hain Woh Mehmaan Bulane Wale
+  Kufa Aur Shaam Ka Dastur Nirala Dekha
+  Qatal Karte Haiṅ Woh Mehmaan Bulane Wale
   
   3
-  Kyun Larazti Hai Zameen Aur Udaasi Kyun Hai
-  Kaun Hai Shaam Ke Bazaar Mein Aane Wale
+  Kiuṅ Larazti Hai Zamiṅ Aur Udaasi Kiuṅ Hai
+  Kaun Hai Shaam Ke Bazaar Meiṅ Aane Wale
   
   4
-  Dar Ke Zalim Ke Tamachon Se Sakina Ne Kaha
-  Ab To Aajao Humein Paani Pilane Wale
+  Dar Ke Zalim Ke Tamachoṅ Se Sakina Ne Kaha
+  Ab To Aajao Humeiṅ Paani Pilane Wale
   
   5
-  Pohnchi Darbaar Mein To Ro Pari Bibi Zainab
+  Pohnchi Darbaar Meiṅ To Ro Pari Bibi Zainab
   Yaad Kya Aa Gayi Amma Ko Satane Wale
   
   6

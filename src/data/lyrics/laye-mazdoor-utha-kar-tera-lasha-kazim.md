@@ -1,6 +1,6 @@
 ---
 title: "لائے مزدور اُٹھا کر تیرا لاشہ کاظم"
-alternateTitle: "Laye Mazdoor Utha Kar Tera Lasha Kazim"
+alternateTitle: "Laye Mazdur Utha Kar Tera Lasha Kazim"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,23 +9,23 @@ tags: []
 aliases:
   - "Laye Mazdoor Utha Kar Tera Lasha Kazim"
 cover: "/images/lyrics/laye-mazdoor-utha-kar-tera-lasha-kazim.png"
-coverAlt: "Cover image for Laye Mazdoor Utha Kar Tera Lasha Kazim"
+coverAlt: "Cover image for Laye Mazdur Utha Kar Tera Lasha Kazim"
 published: true
 romanLyrics: |-
-  laye mazdoor utha kar tera laasha Kazim
+  laye mazdur utha kar tera laasha Kazim
   pul pe Baghdad ke rakha hai janaza Kazim
   
   1
-  jism par lipti hain zanjeerein rihayi kaisi
+  jism par lipti haiṅ zanjireiṅ rihayi kaisi
   mar ke bhi qaid raha tera sarapa Kazim
   
   2
-  is qadar chhota hai zindan aziyyat hai badi
+  is qadar chhota hai zindan aziyyat hai bari
   sar utha sakte nahi Maula Musa Kazim
   
   3
-  misl-e-Sughra woh tadapti rahi furqat mein teri
-  betiyan takti rahin tera rasta Kazim
+  misl-e-Sughra woh tarapti rahi furqat meiṅ teri
+  betiyaṅ takti rahiṅ tera rasta Kazim
 ---
 
 لائے مزدور اُٹھا کر تیرا لاشہ کاظم

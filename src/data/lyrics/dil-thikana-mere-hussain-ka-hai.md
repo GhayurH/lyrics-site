@@ -17,59 +17,59 @@ romanLyrics: |-
   ye Khazana Mere Husain ka hai
   
   2
-  Tum Jisay aasmaan samajhtay ho
+  Tum Jise aasmaan samajhte ho
   Shamiyana Mere Husain ka hai
   
   3
-  Koi Poochay ye daur kis ka hai
+  Koi Puche ye daur kis ka hai
   Tum batana Mere Husain ka hai
   
   4
-  Jis ke Saaye Main Kaainaat bani
+  Jis ke Saaye Maiṅ Kaainaat bani
   Aisa Nana Mere Husain ka hai
   
   5
-  Ye jo Kaba hai Tum na Samjho gay
-  Ghar Poorana Mere Husain ka hai
+  Ye jo Kaba hai Tum na Samjho ge
+  Ghar Purana Mere Husain ka hai
   
   6
-  Aana Farsh e Aza pe Be Parda
+  Aana Farsh-e-Aza pe beparda
   Dil Dukhana Mere Husain ka hai
   
   7
-  Jis Jagah Hur Banaye Jate hain
+  Jis Jagah Hur Banaye Jate haiṅ
   Karkhana Mere Husain ka hai
   
   8
-  Ho Agar Munkir e Namaz Koi
-  Bhool jana Mere Husain ka hai
+  Ho Agar Munkir-e-Namaz Koi
+  Bhul jana Mere Husain ka hai
   
   9
-  Dainey Wali Hai Zaat Allah Ki
-  Per Dilana Merey Husain Ka Hai
+  Daine Wali Hai Zaat Allah Ki
+  Per Dilana Mere Husain Ka Hai
   
   10
-  Maaray ek Sabar se Hazaar Uddoo
+  Maare ek Sabar se Hazaar Uddu
   Kia Nishana Mere Husain ka hai
   
   11
   Ug Raha Hai Jo Baad-e-Karbobala
-  Wo Dana Dana Merey Husain Ka Hai
+  Wo Dana Dana Mere Husain Ka Hai
   
   12
   Matami jab Koi Nazar Aaye
   Maan Jana Mere Husain ka hai
   
   13
-  Kaash Kehney Lagey Ye Log Mujhey
-  Tu Deewana Merey Husain Ka Hai
+  Kaash Kehne Lagey Ye Log Mujhe
+  Tu Diwana Mere Husain Ka Hai
   
   14
-  Ye Jahan Kia hai Dono Aalam main
+  Ye Jahaṅ Kia hai Dono Aalam maiṅ
   Aana Jaana Mere Husain ka hai
   
   15
-  Mujh main Rehan ye Shaoor Jo Hai
+  Mujh maiṅ Rehan ye Shaur Jo Hai
   Shairaana Mere Husain ka hai
 ---
 

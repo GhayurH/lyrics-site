@@ -12,7 +12,7 @@ cover: "/images/lyrics/haye-haye-ali-akbar.png"
 coverAlt: "Cover image for Haye Haye Ali Akbar"
 published: true
 romanLyrics: |-
-  Kehti thi yeh maan khoon bhari mayyat se lipat kar
+  Kehti thi yeh maaṅ khun bhari mayyat se lipat kar
   Haye haye ali akbar haye haye ali akbar
   
   1
@@ -21,19 +21,19 @@ romanLyrics: |-
   Kaisa tha muqaddar
   
   2
-  Itna to zara thero tumhen dulha bana lu
+  Itna to zara thero tumheṅ dulha bana lu
   Bas aik jhalak sehre ki Sughra ko dikhalu
-  Be chain thi khwahar
+  Bechain thi khwahar
   
   3
   Athaara baras paal ke parwaan charaya
-  Wo gaisuo'n wala hai mera khoon me nahaya
+  Wo gaisuoṅ wala hai mera khun me nahaya
   Ye kya hua dilbar
   
   4
   Maa teri judai me bhala kaise jiyegi
   Mar jayegi Sughra jo khabar teri sunegi
-  Ab kya karun ji kar
+  Ab kya karuṅ ji kar
   
   5
   Karti thi ziyarat mai payambar ki tujhhi se
@@ -41,27 +41,27 @@ romanLyrics: |-
   Ham shakal e payambar
   
   6
-  Thehro keh main atharwin mannat tu barha doon
-  Phir le ke balaein tujhey jeene ki dua doon
-  Sadqay ho yeh madar
+  Thehro keh maiṅ atharwiṅ mannat tu barha duṅ
+  Phir le ke balaeiṅ tujhe jine ki dua duṅ
+  Sadqe ho yeh madar
   
   7
-  Pehle to ik aawaz pe uth jate they beta
-  Ab itni sadaon pe bhi pehlu nahi badla
+  Pehle to ik aawaz pe uth jate the beta
+  Ab itni sadaoṅ pe bhi pehlu nahi badla
   Kya ho gaya dilbar
   
   8
-  Tum hichkiya'n le le ke jo dam tor rahe ho
-  Mun maan se hamesha ke liye mor rahe ho
-  Kyun ruthe ho dilbar
+  Tum hichkiyaṅ le le ke jo dam tor rahe ho
+  Muṅ maaṅ se hamesha ke liye mor rahe ho
+  Kiuṅ ruthe ho dilbar
   
   9
-  Aayen jo hamein lootne kheme mein sitamgar
-  Maa de gi sadayen ali akbar ali akbar
+  Aayeṅ jo hameiṅ lutne kheme meiṅ sitamgar
+  Maa de gi sadayeṅ ali akbar ali akbar
   Chin jayegi chadar
   
   10
-  Jab koi jawaa'n laash nazar hai mehshar
+  Jab koi jawaaṅ laash nazar hai mehshar
   Ek yaad suye karbobala jaati hai mehshar
   Dil rota hai kehkar
 ---

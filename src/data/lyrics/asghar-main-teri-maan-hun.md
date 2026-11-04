@@ -1,6 +1,6 @@
 ---
 title: "اصغر میں تیری ماں ہوں"
-alternateTitle: "Asghar Main Teri Maan Hun"
+alternateTitle: "Asghar Maiṅ Teri Maaṅ Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,72 +9,72 @@ tags: []
 aliases:
   - "Asghar Main Teri Maan Hun"
 cover: "/images/lyrics/asghar-main-teri-maan-hun.png"
-coverAlt: "Cover image for Asghar Main Teri Maan Hun"
+coverAlt: "Cover image for Asghar Maiṅ Teri Maaṅ Huṅ"
 published: true
 romanLyrics: |-
   aajao chand mere
-  teri pyaas mai bujhaun
-  asghar main teri maan hun
+  teri pyaas mai bujhauṅ
+  asghar maiṅ teri maaṅ huṅ
   
-  mere laadle kahan ho
-  seene tumhein lagaun
-  asghar main teri maan hun
+  mere laadle kahaṅ ho
+  sine tumheiṅ lagauṅ
+  asghar maiṅ teri maaṅ huṅ
   
   1
   beta tumhara qatil
   mere saamne khara hai
-  jaane kyun hans raha hai
+  jaane kiuṅ hans raha hai
   chadar bhi lut chuki hai
-  Mun kis tarha chupaun
-  Asghar Main Teri Maan Hun
+  Mun kis tarha chupauṅ
+  Asghar Maiṅ Teri Maaṅ Huṅ
   
   2
-  tere jhoole ko sakina
-  ro ro ke choomti hai
-  tujhe ghar may dhoondti hai
-  teri maut ki khabar main
-  kaise isay sunaun
-  Asghar Main Teri Maan Hun
+  tere jhule ko sakina
+  ro ro ke chumti hai
+  tujhe ghar may dhundti hai
+  teri maut ki khabar maiṅ
+  kaise ise sunauṅ
+  Asghar Maiṅ Teri Maaṅ Huṅ
   
   3
   meri jaan ja rahi hai
   ye soch soch asghar
-  is phool se gale par
-  ye teer kaise jhayla
-  Behno ko kya bataun
-  Asghar Main Teri Maan Hun
+  is phul se gale par
+  ye tir kaise jhayla
+  Behno ko kya batauṅ
+  Asghar Maiṅ Teri Maaṅ Huṅ
   
   4
   naize se gir raha hai
   nanha sa sar tumhara
   dil rota hai hamara
-  mere haath to bandhe hain
-  sar kis tarha uthaun
-  Asghar Main Teri Maan Hun
+  mere haath to bandhe haiṅ
+  sar kis tarha uthauṅ
+  Asghar Maiṅ Teri Maaṅ Huṅ
   
   5
-  jhoole ke saath beta
-  mere haath jal gaye hain
-  zaalim bhi hans rahe hain
+  jhule ke saath beta
+  mere haath jal gaye haiṅ
+  zaalim bhi hans rahe haiṅ
   teri aakhri nishani
-  Kis tarha se bachaun
-  Asghar Main Teri Maan Hun
+  Kis tarha se bachauṅ
+  Asghar Maiṅ Teri Maaṅ Huṅ
   
   6
-  jab raat hogi ran mein
+  jab raat hogi ran meiṅ
   hojayega andhera
-  darna nahi ay beta
-  dadi kahengi tumse
-  aa main tujhe sulaaun
-  Asghar Main Teri Maan Hun
+  darna nahi ae beta
+  dadi kaheṅgi tumse
+  aa maiṅ tujhe sulaauṅ
+  Asghar Maiṅ Teri Maaṅ Huṅ
   
   7
   tum raat ko hamesha
-  sunte thai maan se lori
-  ab neend aati hogi
+  sunte thai maaṅ se lori
+  ab nind aati hogi
   phir god may lita kar
-  Nade ali sunaun
-  Asghar Main Teri Maan Hun
+  Nade ali sunauṅ
+  Asghar Maiṅ Teri Maaṅ Huṅ
 ---
 
 آجاؤ چاند میرے

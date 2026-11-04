@@ -15,51 +15,51 @@ romanLyrics: |-
   Allah Hu, Allah Hu, Allah Hu
   
   1
-  Chand Taron Ki Shan-e-Jamali Mein Tu
-  Sabz Patton Mein Pholon Ki Lali Mein Tu
-  Khoshe Khoshe Mein Tu, Bali Bali Mein Tu
-  Tehni Tehni Mein Tu, Dali Dali Mein Tu
-  Bute Bute Mein Gul, Gul Mein Bu, Bu Mein Tu
+  Chand Taroṅ Ki Shan-e-Jamali Meiṅ Tu
+  Sabz Pattoṅ Meiṅ Pholoṅ Ki Lali Meiṅ Tu
+  Khoshe Khoshe Meiṅ Tu, Bali Bali Meiṅ Tu
+  Tehni Tehni Meiṅ Tu, Dali Dali Meiṅ Tu
+  Bute Bute Meiṅ Gul, Gul Meiṅ Bu, Bu Meiṅ Tu
   Allah Hu, Allah Hu, Allah Hu
   
   2
-  Youn Tu Har Ik Nabi Tujh Se Mansoob Hai
-  Tera Bheja Howa Hai Bohat Khoob Hai
-  Haan Magar Un Mein Ik Tera Mehboob Hai
-  Jis Ki Har Ik Ada Tujh Ko Margoob Hai
-  Tera Mehboob Woh, Us Ka Mehboob Tu
+  Youṅ Tu Har Ik Nabi Tujh Se Mansub Hai
+  Tera Bheja Howa Hai Bohat Khub Hai
+  Haaṅ Magar Un Meiṅ Ik Tera Mehbub Hai
+  Jis Ki Har Ik Ada Tujh Ko Margub Hai
+  Tera Mehbub Woh, Us Ka Mehbub Tu
   Allah Hu, Allah Hu, Allah Hu
   
   3
-  Dakhl Mumkin Nahin Tere Asrar Mein
-  Kis Ko Yara Bhala Teri Sarkar Mein
-  Kis Ko Taab-e-Sukhan Tere Darbar Mein
-  Husn-e-Yousuf Sa Bik Jaye Bazar Mein
-  Aur Nafs-e-Nabi Ka Khareedar Tu
+  Dakhl Mumkin Nahiṅ Tere Asrar Meiṅ
+  Kis Ko Yara Bhala Teri Sarkar Meiṅ
+  Kis Ko Taab-e-Sukhan Tere Darbar Meiṅ
+  Husn-e-Yousuf Sa Bik Jaye Bazar Meiṅ
+  Aur Nafs-e-Nabi Ka Kharidar Tu
   Allah Hu, Allah Hu, Allah Hu
   
   4
-  Deed Kis Ko Muyassar Teri Zaat Ki
+  Did Kis Ko Muyassar Teri Zaat Ki
   Lakh Musa Ne Tujh Se Munajaat Ki
   Phir Bhi Tu Ne Na Un Se Mulaqaat Ki
-  Chhup Ke Parde Mein Ki Jab Kabhi Baat Ki
+  Chhup Ke Parde Meiṅ Ki Jab Kabhi Baat Ki
   Aur Muhammad Se Ki Do-Ba-Do Guftagu
   Allah Hu, Allah Hu, Allah Hu
   
   5
-  Har Fazeelat Muhammad Ke Ghar Bhaij Di
-  Thi Jo She Khoob Se Khoob Tar Bhaij Di
+  Har Fazilat Muhammad Ke Ghar Bhaij Di
+  Thi Jo She Khub Se Khub Tar Bhaij Di
   Un Ke Bhai Ko Taig-e-Do-Sar Bhaij Di
   Aur Malak Se Phir Us Ki Khabar Bhaij Di
   La-Fata Ki Sada Ab Bhi Hai Chaar Su
   Allah Hu, Allah Hu, Allah Hu
   
   6
-  Jin Ko Apne Buzurgon Se Pasti Mili
-  Ilm-o-Irfan Ki Faqa Masti Mili
-  Deen-o-Eman Ki Tang Dasti Mili
+  Jin Ko Apne Buzurgoṅ Se Pasti Mili
+  Ilm o Irfan Ki Faqa Masti Mili
+  Din o Emaṅ Ki Tang Dasti Mili
   Apne Ajdad Se But Parasti Mili
-  Un Ki Mehfil Mein Bhi Aaj Hai Chaar Su
+  Un Ki Mehfil Meiṅ Bhi Aaj Hai Chaar Su
   Allah Hu, Allah Hu, Allah Hu
 ---
 

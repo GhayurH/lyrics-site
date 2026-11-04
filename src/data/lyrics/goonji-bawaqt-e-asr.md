@@ -1,6 +1,6 @@
 ---
 title: "گونجی بوقتِ عصر صدا، میں حسین ہوں"
-alternateTitle: "Goonji Bawaqt E Asr Sada, Main Husain Hoon"
+alternateTitle: "Gunji Bawaqt-e-Asr Sada, Maiṅ Husain Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,39 +9,39 @@ tags: []
 aliases:
   - "Goonji Bawaqt E Asr"
 cover: "/images/lyrics/goonji-bawaqt-e-asr.png"
-coverAlt: "Cover image for Goonji bawaqt e asr"
+coverAlt: "Cover image for Gunji Bawaqt-e-Asr Sada, Maiṅ Husain Huṅ"
 published: true
 romanLyrics: |-
-  Goonji bawaqt e asr sada, main Husain hoon
-  Kaato na mera khushk gala, main Husain hoon
+  Gunji bawaqt-e-asr sada, maiṅ Husain huṅ
+  Kaato na mera khushk gala, maiṅ Husain huṅ
   
   1
-  Amma kisi ne pani ki ek boondh bhi na di
-  Main baar baar kehta raha main Husain hoon
+  Amma kisi ne pani ki ek bundh bhi na di
+  Maiṅ baar baar kehta raha maiṅ Husain huṅ
   
   2
-  Sookhi hui shimr mere halq ki ragein
-  Aahista tu churi ko chala main Husain hoon
+  Sukhi hui shimr mere halq ki rageiṅ
+  Aahista tu churi ko chala maiṅ Husain huṅ
   
   3
-  Sheeren ke ghar pe pahuncha jab raando ka qafila
-  Naize se ek sar ne kaha main Husain hoon
+  Shireṅ ke ghar pe pahuncha jab raando ka qafila
+  Naize se ek sar ne kaha maiṅ Husain huṅ
   
   4
-  Darbaar may laeen ke kohraam mach gaya
-  Mukhtar se jo sar ne kaha main Husain hoon
+  Darbaar may lain ke kohraam mach gaya
+  Mukhtar se jo sar ne kaha maiṅ Husain huṅ
   
   5
-  Zaanu pe rakh ke sar ko kaha ek zaeef ne
-  Akbar kahan hai dard bata main Husain hoon
+  Zaanu pe rakh ke sar ko kaha ek zaif ne
+  Akbar kahaṅ hai dard bata maiṅ Husain huṅ
   
   6
-  Ay shamiyo kafan na diya mujhko gham nahi
-  Dedo meri behan ko rida main Husain hoon
+  Ae shamiyo kafan na diya mujhko gham nahi
+  Dedo meri behan ko rida maiṅ Husain huṅ
   
   7
-  Mehsoos ho raha hai ke maqtal se aaj bhi
-  Awaaz aa rahi hai Raza main Husain hoon
+  Mehsus ho raha hai ke maqtal se aaj bhi
+  Awaaz aa rahi hai Raza maiṅ Husain huṅ
 ---
 
 گونجی بوقتِ عصر صدا، میں حسین ہوں

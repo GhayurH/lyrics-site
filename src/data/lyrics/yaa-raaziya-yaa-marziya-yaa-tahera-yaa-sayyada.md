@@ -13,62 +13,62 @@ coverAlt: "Cover image for Yaa Raaziya Yaa Marziya Yaa Tahera Yaa Sayyada"
 published: true
 romanLyrics: |-
   Yaa Raaziya Yaa Marziya Yaa Tahera Yaa Sayyada
-  Ye Fakhr-e-Aamina, Sarmaya-e-Rasool Bhi Hai
+  Ye Fakhr-e-Aamina, Sarmaya-e-Rasul Bhi Hai
   
   1
   Har Ek Sawaal Ka Behtar Jawaab Zinda Hai
-  Sadaaqaton Ka Mukammal Nisaab Zinda Hai
+  Sadaaqatoṅ Ka Mukammal Nisaab Zinda Hai
   Bahaar-e-Baagh-e-Risaalat Ma-aab Zinda Hai
   Khuda Ke Bando, Khuda Ki Kitaab Zinda Hai
-  Bayaan Azmat-e-Khatoon-e-Kaaenaat Suno
-  Mubahele Ki Zubaan Se Khuda Ki Baat Suno
+  Bayaan Azmat-e-Khatun-e-Kaaenaat Suno
+  Mubahele Ki Zubaaṅ Se Khuda Ki Baat Suno
   
   2
-  Kaha Jo Bizato Minni To Ho Gaya Maaloom
-  Dil-e-Rasool Ki Surat Hai Fatema Maasoom
-  Kamaal-e-Ilm Se Aisa Bana Diya Maqsoom
-  Naseeb Ho Gaye Gyarah Imaamaton Ke Nuzool
-  Waqaar-e-Bint-e-Nabi Mein Na Kuch Kami Aaye
-  Khuda Ke Ghar Mein Isi Waaste Ali Aaye
+  Kaha Jo Bizato Minni To Ho Gaya Maalum
+  Dil-e-Rasul Ki Surat Hai Fatema Maasum
+  Kamaal-e-Ilm Se Aisa Bana Diya Maqsum
+  Nasib Ho Gaye Gyarah Imaamatoṅ Ke Nuzul
+  Waqaar-e-Bint-e-Nabi Meiṅ Na Kuch Kami Aaye
+  Khuda Ke Ghar Meiṅ Isi Waaste Ali Aaye
   
   3
-  Ali Ne Shukr Se Mazdooriyon Mein Din Kaate
-  Nabi Ki Beti Ne Chakki Mein Khushk Jao Peese
-  Ali Ne Baaghon Mein Paani Diya, Jihaad Kiye
-  Nabi Ki Beti Ne Faaqon Mein Bhar Diye Sajde
-  Jihaad-e-Nafs Ka Maidaan Ali Ke Haath Raha
-  Kamaal-e-Sabr-o-Riza Fatema Ke Saath Raha
+  Ali Ne Shukr Se Mazduriyoṅ Meiṅ Din Kaate
+  Nabi Ki Beti Ne Chakki Meiṅ Khushk Jao Pise
+  Ali Ne Baaghoṅ Meiṅ Paani Diya, Jihaad Kiye
+  Nabi Ki Beti Ne Faaqoṅ Meiṅ Bhar Diye Sajde
+  Jihaad-e-Nafs Ka Maidaaṅ Ali Ke Haath Raha
+  Kamaal-e-Sabr o Riza Fatema Ke Saath Raha
   
   4
-  Wo Ek Chhota Sa Ghar Poori Kaaenaat Ka Dil
-  Wo Ek Hujra Imaamat Ke Noor Ki Manzil
-  Wo Baam-o-Dar Jinhe Sajda Kare Mah-e-Kaamil
-  Wo Ek Nakhl Ke Saaye Mein Khuld Ki Mehfil
-  Adab Ke Saath Bulandi Ka Har Nishaan Jhuke
-  Jahan Kaneez Ke Rutbe Pe Aasmaan Jhuke
+  Wo Ek Chhota Sa Ghar Puri Kaaenaat Ka Dil
+  Wo Ek Hujra Imaamat Ke Nur Ki Manzil
+  Wo Baam o Dar Jinhe Sajda Kare Mah-e-Kaamil
+  Wo Ek Nakhl Ke Saaye Meiṅ Khuld Ki Mehfil
+  Adab Ke Saath Bulandi Ka Har Nishaaṅ Jhuke
+  Jahaṅ Kaniz Ke Rutbe Pe Aasmaaṅ Jhuke
   
   5
-  Ba-Naam-e-Fatema Ummat Ki Betiyan Jaagein
-  Nigaah-e-Aql Se Raftaar-e-Zindagi Dekhein
-  Baraaye Ghairat-e-Dil Apne Aap Se Poochhein
-  Kise Milegi Jagah Fatema Ki Mehfil Mein
+  Ba-Naam-e-Fatema Ummat Ki Betiyaṅ Jaageiṅ
+  Nigaah-e-Aql Se Raftaar-e-Zindagi Dekheiṅ
+  Baraaye Ghairat-e-Dil Apne Aap Se Puchheiṅ
+  Kise Milegi Jagah Fatema Ki Mehfil Meiṅ
   Khuda Kare Wo Tamaasha-e-Rozgaar Na Ho
-  Rasool-e-Paak Ki Beti Se Sharmsaar Na Ho
+  Rasul-e-Paak Ki Beti Se Sharmsaar Na Ho
   
   6
-  Dhuaan Tanoor Se Uttha To Saaelon Ke Liye
-  Khameer Ho Gaya Aata Musaafiron Ke Liye
-  Sukoon-e-Qalb Ka Saamaan Bekason Ke Liye
-  Ghiza-e-Sabr-o-Riza Apne Kamsinon Ke Liye
-  Isi Maqaam Pe Khair-ul-Amal Ke Jalwe Hain
-  Yahi Wo Ghar Hai Jahan Inqilaab Palte Hain
+  Dhuaaṅ Tanur Se Uttha To Saaeloṅ Ke Liye
+  Khamir Ho Gaya Aata Musaafiroṅ Ke Liye
+  Sukun-e-Qalb Ka Saamaaṅ Bekason Ke Liye
+  Ghiza-e-Sabr o Riza Apne Kamsinon Ke Liye
+  Isi Maqaam Pe Khair-ul-Amal Ke Jalwe Haiṅ
+  Yahi Wo Ghar Hai Jahaṅ Inqilaab Palte Haiṅ
   
   7
   Ali Ke Chehra-e-Aqdas Pe Ambiya Ka Jalaal
-  Wujood-e-Fatema Zahra Pe Mustafa Ka Jamaal
-  Ali Ke Dam Se Jahan Mein Tajalliyon Ke Nihaal
+  Wujud-e-Fatema Zahra Pe Mustafa Ka Jamaal
+  Ali Ke Dam Se Jahaṅ Meiṅ Tajalliyoṅ Ke Nihaal
   Mataa-e-Fatema Zahra Hasan Husain Se Laal
-  Ali Ne Masjid-e-Kufa Mein Zakhm Khaaya Hai
+  Ali Ne Masjid-e-Kufa Meiṅ Zakhm Khaaya Hai
   Zamaane Walo Ne Zahra Ko Bhi Rulaaya Hai
 ---
 

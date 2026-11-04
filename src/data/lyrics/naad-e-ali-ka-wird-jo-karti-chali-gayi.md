@@ -1,6 +1,6 @@
 ---
 title: "نادِ علی کا ورد جو کرتی چلی گئی"
-alternateTitle: "Naad E Ali Ka Wird Jo Karti Chali Gayi"
+alternateTitle: "Naad-e-Ali Ka Wird Jo Karti Chali Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ tags: []
 aliases:
   - "Naad E Ali Ka Wird Jo Karti Chali Gayi"
 cover: "/images/lyrics/naad-e-ali-ka-wird-jo-karti-chali-gayi.png"
-coverAlt: "Cover image for Naad E Ali Ka Wird Jo Karti Chali Gayi"
+coverAlt: "Cover image for Naad-e-Ali Ka Wird Jo Karti Chali Gayi"
 published: true
 romanLyrics: |-
   1
   Nad-e Ali ka wird jo karti chali gayi
-  Umr-e rawan sukoon se guzarti chali gayi
+  Umr-e rawaṅ sukun se guzarti chali gayi
 
   2
   Jis ne dar-e Husain pe sar ko jhuka diya
-  Woh shakhsiyat jahan mein ubharti chali gayi
+  Woh shakhsiyat jahaṅ meiṅ ubharti chali gayi
 
   3
-  Deewana-war log bhi marte chale gaye
-  Tegh-e Ali jahan se guzarti chali gayi
+  Diwana-war log bhi marte chale gaye
+  Tegh-e Ali jahaṅ se guzarti chali gayi
 
   4
-  Marhab hawa mein uchhla jo kha kar Ali ki zarb
-  Haathon se tegh, pairon se dharti chali gayi
+  Marhab hawa meiṅ uchhla jo kha kar Ali ki zarb
+  Haathoṅ se tegh, pairoṅ se dharti chali gayi
 
   5
   Duniya se zikr-e Aal-e Muhammad na ruk saka
-  Duniya yeh arzoo liye marti chali gayi
+  Duniya yeh arzu liye marti chali gayi
 
   6
-  Maidan mein tez-dasti-e tegh-e Ali na pooch
-  Sar se chali badan mein utarti chali gayi
+  Maidaṅ meiṅ tez-dasti-e tegh-e Ali na puch
+  Sar se chali badan meiṅ utarti chali gayi
 
   7
   Fauj-e udu pe daal ke ek sarsari nigah
@@ -45,8 +45,8 @@ romanLyrics: |-
   Mujh se mile baghair guzarti chali gayi
 
   9
-  Gohar lahad mein pahuncha jo ashk-e aza liye
-  Ek roshni lahad mein utarti chali gayi
+  Gohar lahad meiṅ pahuncha jo ashk-e aza liye
+  Ek roshni lahad meiṅ utarti chali gayi
 
 ---
 

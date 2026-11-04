@@ -1,6 +1,6 @@
 ---
 title: "ٹکڑے نہیں چادر میں، فروا تیرا بیٹا ہے"
-alternateTitle: "Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
+alternateTitle: "Tukre Nahiṅ Chadar Meiṅ, Farwa Tera Beta Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,41 +9,41 @@ tags: []
 aliases:
   - "Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
 cover: "/images/lyrics/tukre-nahin-chadar-mein-farwa-tera-beta-hai.png"
-coverAlt: "Cover image for Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
+coverAlt: "Cover image for Tukre Nahiṅ Chadar Meiṅ, Farwa Tera Beta Hai"
 published: true
 romanLyrics: |-
-  Tukre nahin chadar mein, farwa tera beta hai
-  Maqtal me issey maine, chun chun ke uthayya hai
+  Tukre nahiṅ chadar meiṅ, farwa tera beta hai
+  Maqtal me isse maiṅ ne, chun chun ke uthayya hai
   
   1
-  Rukh kar key baqayya ka, sheh kehtey rahe bhai
-  Betay ki tere mayyat, puri nahi mil payi
-  Dhunda to bohot mein ne
+  Rukh kar ke baqayya ka, sheh kehte rahe bhai
+  Bete ki tere mayyat, puri nahi mil payi
+  Dhunda to bohot meiṅ ne
   Par mil nahi paya hai
   
   2
-  Tukron mein badan hoker, maidan me phela hai
-  Tareekh mein dunya ki, ye pehla janaza hai
-  Naa pooch ye gathri mein
+  Tukroṅ meiṅ badan hoker, maidan me phela hai
+  Tarikh meiṅ dunya ki, ye pehla janaza hai
+  Naa puch ye gathri meiṅ
   Kis terha samaaya hai
   
   3
-  Haathon ko kabhi ser ko, seenay ko uthata tha
-  Aur baqi janazay ko, mein dhundhta jaata tha
-  Isnay mujhey ghurbat ka
+  Haathoṅ ko kabhi ser ko, sine ko uthata tha
+  Aur baqi janaze ko, meiṅ dhundhta jaata tha
+  Isnay mujhe ghurbat ka
   Ehsaas dilaya hai
   
   4
-  Qasim main teri maa ko, kis tarhan se batlaon
-  Ye hee hay tera beta, kaisay usay samjhaon
-  Ye soch ke ankhon se
-  Khun Sheh ne bahaya hay
+  Qasim maiṅ teri maa ko, kis tarhan se batlaoṅ
+  Ye hi hai tera beta, kaise use samjhaoṅ
+  Ye soch ke ankhoṅ se
+  Khun Sheh ne bahaya hai
   
   5
-  Poocha jo ye zainab ne, gathri main hay kiya bhai
-  Sarwar ne kaha roker, qasim ki hay lash haye
+  Pucha jo ye zainab ne, gathri maiṅ hai kiya bhai
+  Sarwar ne kaha roker, qasim ki hai lash haye
   Is lash ka zalim ne
-  Wo haal banaya hay
+  Wo haal banaya hai
 ---
 
 ٹکڑے نہیں چادر میں، فروا تیرا بیٹا ہے

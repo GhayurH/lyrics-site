@@ -235,3 +235,13 @@ test("publication checks own lyric stanza-number and pairs declarations", () => 
   assert.deepEqual(check(valid), []);
   assert.deepEqual(check(pairs.replace('sixVerseLayout: "pairs"', 'published: false\nsixVerseLayout: "pairs"')), []);
 });
+
+test("Roman ṅ is the sole accepted Latin diacritic, including in Roman metadata", () => {
+  const raw = lyric("۱\nمیں ہوں", "1\nmeiṅ huṅ")
+    .replace('kalamType: "Salam"', 'kalamType: "Salam"\nalternateTitle: "Maiṅ Huṅ"');
+  const allowed = reviewMarkdown({ path: "src/data/lyrics/nasal.md", kind: "lyrics", text: raw });
+  assert(!allowed.issues.some(x => x.code.includes("extended-latin")), "dotted n is canonical");
+  const disallowed = reviewMarkdown({ path: "src/data/lyrics/nasal.md", kind: "lyrics",
+    text: raw.replaceAll("ṅ", "ā") });
+  assert(disallowed.issues.some(x => x.code.includes("extended-latin")));
+});

@@ -1,6 +1,6 @@
 ---
 title: "اے ربِ پنجتن"
-alternateTitle: "Aye Rab-E-Panjtan"
+alternateTitle: "Ae Rab-e-Panjtan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,56 +9,56 @@ tags: []
 aliases:
   - "Aye Rab-E-Panjtan"
 cover: "/images/lyrics/aye-rab-e-panjtan.png"
-coverAlt: "Cover image for Aye Rab-E-Panjtan"
+coverAlt: "Cover image for Ae Rab-e-Panjtan"
 published: true
 romanLyrics: |-
-  Aye Rab-e-Panjtan, Meri Tujh Se Hai Yeh Dua
+  Ae Rab-e-Panjtan, Meri Tujh Se Hai Yeh Dua
   
   1
-  Parwardigar, Tu Hi Raheem-o-Kareem Hai
-  Quran Keh Raha Hai Aliyy-ul-Azeem Hai
-  Aawaz-e-Kun Se Pehle Hai Itna Qadeem Hai
+  Parwardigar, Tu Hi Rahim o Karim Hai
+  Quran Keh Raha Hai Aliyy-ul-Azim Hai
+  Aawaz-e-Kun Se Pehle Hai Itna Qadim Hai
   Wajib Hai Kainat Pe Har Dam Teri Sana
   
   2
-  Chaha Jo Tu Ne Khalq Mein Pehchan Ho Teri
-  Tu Ne Banai Panch Sitaron Ki Ik Lari
-  Un Ki Raza Mein Teri Raza Hai Chhupi Hui
+  Chaha Jo Tu Ne Khalq Meiṅ Pehchan Ho Teri
+  Tu Ne Banai Panch Sitaroṅ Ki Ik Lari
+  Un Ki Raza Meiṅ Teri Raza Hai Chhupi Hui
   Naraz Hum Se Ho Na Kabhi Aal-e-Mustafa
   
   3
-  Tanhaiyon Ka Teri Raha Hai Jo Humsafar
+  Tanhaiyoṅ Ka Teri Raha Hai Jo Humsafar
   Woh Mustafa Jo Baad Tere Sab Se Moatbar
-  Hai Qarz Jis Ka Ajr-e-Risalat Jahan Par
-  Har Qarz Kar De Ghaib Se Maqrooz Ka Ada
+  Hai Qarz Jis Ka Ajr-e-Risalat Jahaṅ Par
+  Har Qarz Kar De Ghaib Se Maqruz Ka Ada
   
   4
-  Tujh Sa Ali Bhi Kehta Hai Khaliq Jisay Ali
+  Tujh Sa Ali Bhi Kehta Hai Khaliq Jise Ali
   Ungli Pakar Ke Jis Ki Shariyat Teri Chali
-  Raziq Hai Do Jahan Ka, Waliyon Ka Hai Wali
-  Sadqay Mein Us Ke Rizq Mein Hoon Wusatein Atta
+  Raziq Hai Do Jahaṅ Ka, Waliyoṅ Ka Hai Wali
+  Sadqe Meiṅ Us Ke Rizq Meiṅ Huṅ Wusateiṅ Atta
   
   5
-  Woh Fatima, Hijab Bhi Noori Mila Jisay
-  Hasnain Jaisay Jis Ne Pisar Paal Kar Diye
-  Rehmat Bani Jo Rehmat-e-Aalam Ke Wastay
-  Totay Na Momineen Se Rehmat Ka Silsila
+  Woh Fatima, Hijab Bhi Nuri Mila Jise
+  Hasnain Jaise Jis Ne Pisar Paal Kar Diye
+  Rehmat Bani Jo Rehmat-e-Aalam Ke Waste
+  Tote Na Mominin Se Rehmat Ka Silsila
   
   6
-  Woh Mustafa Ka Lal Jo Deen Ko Bacha Gaya
-  Taigon Ko Apne Zor-e-Qalam Se Hara Gaya
-  Aman-o-Amaan Ka Dars Jahan Ko Parha Gaya
-  Har Simt Us Ke Sadqay Mein Ho Aman Ki Fiza
+  Woh Mustafa Ka Lal Jo Din Ko Bacha Gaya
+  Taigoṅ Ko Apne Zor-e-Qalam Se Hara Gaya
+  Aman o Amaan Ka Dars Jahaṅ Ko Parha Gaya
+  Har Simt Us Ke Sadqe Meiṅ Ho Aman Ki Fiza
   
   7
-  Mabood, Woh Husain Jo Mehboob Hai Tera
+  Mabud, Woh Husain Jo Mehbub Hai Tera
   Sar Kaat Kar Bhi Jis Ka Na Zalim Jhuka Saka
-  Jis Ne Zameen Ko Arsh-e-Mualla Bana Diya
-  Dikhla De Hum Faqeeron Ko Roza-e-Husain Ka
+  Jis Ne Zamin Ko Arsh-e-Mualla Bana Diya
+  Dikhla De Hum Faqiroṅ Ko Roza-e-Husain Ka
   
   8
   Mushkil Ko Taal, Hal-e-Masaib Ko Bhej De
-  Hain Jis Ke Muntazir, Usi Sahib Ko Bhej De
+  Haiṅ Jis Ke Muntazir, Usi Sahib Ko Bhej De
   Mushkil Kusha Ke Aakhri Naib Ko Bhej De
   Hai Sibt-e-Jafar Aur Hasan Ki Yeh Iltija
 ---

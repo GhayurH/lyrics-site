@@ -1,6 +1,6 @@
 ---
 title: "قبرِ سرور پر کہا زینب نے رو کر، الوداع"
-alternateTitle: "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+alternateTitle: "Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,47 +9,47 @@ tags: []
 aliases:
   - "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 cover: "/images/lyrics/qabr-e-sarwar-par-kaha-zainab-ne-ro-kar-alwida.png"
-coverAlt: "Cover image for Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+coverAlt: "Cover image for Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 published: true
 romanLyrics: |-
   Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar, Alwida
   Kuch Khabar Hai Hum Pe Kya Guzri Baradar, Alwida
   
   1
-  Aag Khaimon Mein Laga Di Lashkar-e-Kuffaar Ne
-  Chheen Leen Saidaniyon Ke Sar Se Chadar, Alwida
+  Aag Khaimoṅ Meiṅ Laga Di Lashkar-e-Kuffaar Ne
+  Chhin Liṅ Saidaniyoṅ Ke Sar Se Chadar, Alwida
   
   2
-  Kunbe Wale Saath The Jab Main Watan Se Aayi Thi
-  Aaj Jaati Hoon Akeli Ghar Luta Kar, Alwida
+  Kunbe Wale Saath The Jab Maiṅ Watan Se Aayi Thi
+  Aaj Jaati Huṅ Akeli Ghar Luta Kar, Alwida
   
   3
-  Be-Khata Maare Sakina Ko Tamachey Shimr Ne
-  Le Liye Masoom Ke Kaanon Se Gauhar, Alwida
+  beKhata Maare Sakina Ko Tamache Shimr Ne
+  Le Liye Masum Ke Kaanoṅ Se Gauhar, Alwida
   
   4
-  Neend Kaisi Aayi Hai Soya Karo Gay Kab Talak
+  Nind Kaisi Aayi Hai Soya Karo Ge Kab Talak
   Lo Phupi Jaati Hai Uttho, Mere Akbar, Alwida
   
   5
-  Ho Gayi Shart-e-Wafa Par Tum Na Aye Shaam Mein
-  Taazianey Maartey The Jab Sitamgar, Alwida
+  Ho Gayi Shart-e-Wafa Par Tum Na Aye Shaam Meiṅ
+  Taaziane Maarte The Jab Sitamgar, Alwida
   
   6
-  Shaam Ke Darbaar Mein The Saat Sau Kursi-Nasheen
-  The Rasan-Basta Wahan Aal-e-Payambar, Alwida
+  Shaam Ke Darbaar Meiṅ The Saat Sau Kursi-Nashiṅ
+  The Rasan-Basta Wahaṅ Aal-e-Payambar, Alwida
   
   7
-  Thi Bohat Ummeed Hai Abbas Sa Bhai Mera
-  Main Na Jaoongi Kabhi Koofa Khule-Sar, Alwida
+  Thi Bohat Ummid Hai Abbas Sa Bhai Mera
+  Maiṅ Na Jaungi Kabhi Kufa Khule-Sar, Alwida
   
   8
-  Phir Nazar Ki Soo-e-Neher-e-Alqama Aur Yeh Kaha
-  Mere Ghairatdaar Ay Saaqii-e-Kausar, Alwida
+  Phir Nazar Ki Su-e-Neher-e-Alqama Aur Yeh Kaha
+  Mere Ghairatdaar Ae Saaqii-e-Kausar, Alwida
   
   9
   Yeh Khalish Dil Se Na Jaye Gi Qayamat Tak Kabhi
-  Haye Koofe Mein Gayi Zainab Khule-Sar, Alwida
+  Haye Kufe Meiṅ Gayi Zainab Khule-Sar, Alwida
 ---
 
 قبرِ سرور پر کہا زینب نے رو کر، الوداع

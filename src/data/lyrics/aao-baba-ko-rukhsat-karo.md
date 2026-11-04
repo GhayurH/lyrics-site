@@ -12,80 +12,80 @@ cover: "/images/lyrics/aao-baba-ko-rukhsat-karo.png"
 coverAlt: "Cover image for Aao Baba Ko Rukhsat Karo"
 published: true
 romanLyrics: |-
-  Betiyan thin, janaza tha, ehsaas tha
-  Door baba ki mayyat se Abbas tha
+  Betiyaṅ thiṅ, janaza tha, ehsaas tha
+  Dur baba ki mayyat se Abbas tha
   Waqt-e rukhsat ka faraj hataya gaya
   Aakhri baar chehra dikhaya gaya
   Apne Abbas ka jab khayal aa gaya
   De ke awaz Shabbir ne yeh kaha
 
   Abbas! Aao baba ko rukhsat karo
-  Aaj bazu bhi hain aur janaza bhi hai
+  Aaj bazu bhi haiṅ aur janaza bhi hai
   Aao baba ko rukhsat karo
 
   1
-  Jab se baba ne choome hain shane tere
+  Jab se baba ne chume haiṅ shane tere
   Karbala yaad aati hai bhai mujhe
-  Ek zakhmi badan hoga jab be kafan
+  Ek zakhmi badan hoga jab bekafan
   Kaun aayega bhai uthane use
-  Aaj sab hain chalo, tum mera saath do
-  Door baitho na ab mere Ghazi utho
+  Aaj sab haiṅ chalo, tum mera saath do
+  Dur baitho na ab mere Ghazi utho
 
   2
-  Jaanta hoon bohat sabr tum ne kiya
+  Jaanta huṅ bohat sabr tum ne kiya
   Apne baba ke qatil ko pani diya
   Zakhm gehra hai ab bhi shikasta hai sar
   Usne talwar se waar aisa kiya
-  Zarb ke zakhm se, khoon phir na bahe
+  Zarb ke zakhm se, khun phir na bahe
   Dekho mayyat rakhi hai bohat dair se
 
   3
   Jaise amma ne mujh ko bulaya suno
   Tum bhi baba ko ek baar awaz do
   Maa ki tarah se band-e kafan tor kar
-  Apne seene se tumko laga len ge woh
+  Apne sine se tumko laga leṅ ge woh
   Unka ehsaas ho, tum to Abbas ho
   Mere baba ke dil ke bohat paas ho
 
   4
   Bas yeh armaan hota hai har baap ka
-  Mere bete uthayen janaza mera
+  Mere bete uthayeṅ janaza mera
   Keh ke yeh baat Shabbir rone lage
-  Aur phir haath seene pe rakh kar kaha
+  Aur phir haath sine pe rakh kar kaha
   Aisa na ho kabhi, baap uthaye koi
-  Apne kandhe pe mayyat jawan laal ki
+  Apne kandhe pe mayyat jawaṅ laal ki
 
   5
   Yaad hai tumko baba ne jate hue
   Haath rakha tumhara mere haath pe
-  Tumko shab ki namazon mein manga gaya
-  Ay mere bhai Karbobala ke liye
-  Kya yeh sadma hai kam, hain yateem aaj hum
+  Tumko shab ki namazoṅ meiṅ manga gaya
+  Ae mere bhai Karbobala ke liye
+  Kya yeh sadma hai kam, haiṅ yatim aaj hum
   Haye aghaz-e Karbobala hai yeh gham
 
   6
-  Thaam kar apni tooti hui pasliyan
-  Dekho baba ke pehlu mein baithi hain maa
+  Thaam kar apni tuti hui pasliyaṅ
+  Dekho baba ke pehlu meiṅ baithi haiṅ maa
   Haye ghurbat wohi haath pehlu pe hai
-  Taziyanon ke jis par hain ab bhi nishan
-  Dekho ay ba wafa, saath hain Mustafa
+  Taziyanoṅ ke jis par haiṅ ab bhi nishan
+  Dekho ae ba wafa, saath haiṅ Mustafa
   Chal ke baba ko ab bol do alvida
 
   7
   Dekho baba ki mayyat se lipti hai woh
-  Tum hi Zainab ke jeene ki umeed ho
+  Tum hi Zainab ke jine ki umid ho
   Bhai Shabbar ne rukh se hataya tha jo
-  Apne haathon se tum woh kafan bandh do
+  Apne haathoṅ se tum woh kafan bandh do
   Aks-e Khyber shikan, mar na jaye behan
   Tumko dekhe gi to chhor de gi kafan
 
   8
-  Baat behnon ki aayi to Ghazi uthe
+  Baat behnoṅ ki aayi to Ghazi uthe
   Apne baba ki mayyat ki janib chale
-  Aa ke baba ke qadmon ka bosa liya
-  Ay Raza haal Zeeshan kaise likhe
-  Jab janaza utha, ghar mein kohraam tha
-  Ro ke Abbas ne bhaiyon se kaha
+  Aa ke baba ke qadmoṅ ka bosa liya
+  Ae Raza haal Zishan kaise likhe
+  Jab janaza utha, ghar meiṅ kohraam tha
+  Ro ke Abbas ne bhaiyoṅ se kaha
 
 ---
 

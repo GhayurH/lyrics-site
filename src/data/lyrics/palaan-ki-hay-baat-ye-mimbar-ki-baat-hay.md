@@ -1,6 +1,6 @@
 ---
 title: "پالان کی ہے بات یہ منبر کی بات ہے"
-alternateTitle: "Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
+alternateTitle: "Palaan Ki Hai Baat Ye Mimbar Ki Baat Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,47 +9,47 @@ tags: []
 aliases:
   - "Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
 cover: "/images/lyrics/palaan-ki-hay-baat-ye-mimbar-ki-baat-hay.png"
-coverAlt: "Cover image for Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
+coverAlt: "Cover image for Palaan Ki Hai Baat Ye Mimbar Ki Baat Hai"
 published: true
 romanLyrics: |-
-  Palaan ki hay baat ye mimbar ki baat hai
+  Palaan ki hai baat ye mimbar ki baat hai
   Maydan-e-Khum wilayat-e-Haidar ki baat hai
   
   1
-  Jibreel laykay jao ye balligh ki ayatein
+  Jibril laykay jao ye balligh ki ayateiṅ
   Kehdo ke ab ye kaare Payambar ki baat hai
   
   2
-  Baade Nabi Ali hain wali keh chukay Rasool
-  Bhoolay wo kis tarha ke yay ghar ghar ki baat hai
+  Baade Nabi Ali haiṅ wali keh chuke Rasul
+  Bhule wo kis tarha ke yay ghar ghar ki baat hai
   
   3
   Fath-e-Hunain o Khandaq o Khaybar ki baat hai
-  Ik fard hay lage hay ke lashkar ki baat hai
+  Ik fard hai lage hai ke lashkar ki baat hai
   
   4
-  Goonjayga ab fiza may Ali-e-Wali ka naam
-  Qalb-e-munafiqeen pe khanjar ki baat hai
+  Gunjayga ab fiza may Ali-e-Wali ka naam
+  Qalb-e-munafiqin pe khanjar ki baat hai
   
   5
-  Momin ke dil hain shaad munafiq jale hooway
+  Momin ke dil haiṅ shaad munafiq jale huwe
   Saahab ye apne apne muqaddar ki baat hai
   
   6
-  Kyun kar na ata arsh se patthar paey sanad
+  Kiuṅ kar na ata arsh se patthar pae sanad
   Akhir ko yay wilayat-e-Haidar ki baat hai
   
   7
-  Bhagey na aj koyi karo aisa intizam
+  Bhage na aj koyi karo aisa intizam
   Buzar ke kaan may yahi Qambar ki baat hai
   
   8
-  Qaayam hay ab bhi akhri Mawla Ghadeer ka
+  Qaayam hai ab bhi akhri Mawla Ghadir ka
   Meri nahi ye Sura-e-Kawsar ki baat hai
   
   9
-  Baade Ghadeer bazm-e-saqifa mein baithna
-  Aawaragi-e-fikar hay yay shar ki baat hai
+  Baade Ghadir bazm-e-saqifa meiṅ baithna
+  Aawaragi-e-fikar hai yay shar ki baat hai
 ---
 
 پالان کی ہے بات یہ منبر کی بات ہے

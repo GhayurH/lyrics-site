@@ -12,7 +12,7 @@ cover: "/images/lyrics/meri-marqad-bana-lena.png"
 coverAlt: "Cover image for Meri Marqad Bana Lena"
 published: true
 romanLyrics: |-
-  Aye bani asad walo,
+  Ae bani asad walo,
   mera laasha utha lena,
   Aur kafan bhi pinha dena,
   
@@ -24,32 +24,32 @@ romanLyrics: |-
   Mera akbar bhi qasim bhi abbas bhi
   Aur aun o mohammad mere pur mahan
   Sab pare honge maidaan me bekafan
-  Hogi majboor lachaar meri bahan
+  Hogi majbur lachaar meri bahan
 
   Usko tum ik rida dena
   Meri marqad bana dena
   
   2
-  Main nabi ka nawasa hun ae doston
-  Fatima ka dulara hun ae doston
+  Maiṅ nabi ka nawasa huṅ ae dostoṅ
+  Fatima ka dulara huṅ ae dostoṅ
   Tumse Shabbir kuch bhi nahi maangta
-  Sirf ik baat kehta hun ae doston
+  Sirf ik baat kehta huṅ ae dostoṅ
 
   Karbala ko saja dena
   Meri marqad bana dena
   
   3
-  Jab bhi zaair ziyarat ko aayen miri
-  Usko mehmaan rakhna yahan teen din
+  Jab bhi zaair ziyarat ko aayeṅ miri
+  Usko mehmaan rakhna yahaṅ tin din
   Usko paani pilana meri simt se
-  Usko khana khilana yahan teen din
+  Usko khana khilana yahaṅ tin din
 
   Usko meri dua dena
   Meri marqad bana dena
   
   4
   Asr ko tan se sar mera hoga juda
-  Meri hurmat karenge na ahl-e-Saqar
+  Meri hurmat kareṅge na ahl-e-Saqar
   Dushmani me wo had se guzar jayenge
   Ghore dauraayenge wo meri laash par
 
@@ -57,37 +57,37 @@ romanLyrics: |-
   Meri marqad bana dena
   
   5
-  Phir asad ke qabile ke bacchon se bhi
+  Phir asad ke qabile ke bacchoṅ se bhi
   Is tarha mera maula mukhatib hua
   Apni mutthi me matti uthaa kar tumhi
   Ho sake to meri laash par daalna
 
-  Meri maan se dua lena
+  Meri maaṅ se dua lena
   Meri marqad bana dena
   
   6
   Dekhna tum ke kuch waqt guzrega jab
-  Aur roze hamare banenge yahan
+  Aur roze hamare banenge yahaṅ
   Naam to is jagah ka hai karbobala
-  Kal ise sab pukarenge rashk e jinan
+  Kal ise sab pukarenge rashk-e-jinaṅ
 
   Tum bhi jannat ko paa lena
   Meri marqad bana dena
   
   7
-  Mein kahan jaunga bekas-o-bewatan
+  Meiṅ kahaṅ jaunga bekas o bewatan
   Sab kahenge mujhe shah-e-tashna dahan
-  Ran me teeron ka hoga mera pairahan
+  Ran me tiroṅ ka hoga mera pairahan
   Khaak-e-karbobala hogi mera kafan
 
   Sab ko khaak-e-shifa dena
   Meri marqad bana dena
   
   8
-  Ab bhi ashoor ko rauza-e-shah par
+  Ab bhi ashur ko rauza-e-shah par
   Aata hai sab kabila asad ka nazar
-  Shah-e-deen ki wasiyat unhein yaad hai
-  Ab bhi Majid ye kehte hain wo nauhagar
+  Shah-e-din ki wasiyat unheiṅ yaad hai
+  Ab bhi Majid ye kehte haiṅ wo nauhagar
 
   Sheh ka laasha uthaa lena
   Sheh ki marqad bana dena

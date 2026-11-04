@@ -12,8 +12,7 @@ export function renderBastaTextBlock(
   const block = node("div", "basta-kalam-text");
   for (const line of layoutBastaKalam(text, indentStanzas, stanzaStyle, prefaceOnly)) {
     if (line.hidden) continue;
-    const verse = node("span", bastaVerseClassNames(line), line.text);
-    block.append(verse);
+    block.append(node("span", bastaVerseClassNames(line), line.text));
   }
   return block;
 }

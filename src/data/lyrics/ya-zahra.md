@@ -13,80 +13,80 @@ coverAlt: "Cover image for Ya Zahra"
 published: true
 romanLyrics: |-
   Ya Zahra Ya Zahra
-  ay meri bibi, tere dar pe istighasa hai
-  tera mamnoon meri shahzadi yeh jahan sara hai
+  ae meri bibi, tere dar pe istighasa hai
+  tera mamnun meri shahzadi yeh jahaṅ sara hai
   
   1
-  tu humein hifz aur amaan de de
-  apni chadar ka saiban de de
-  teri qudrat mein kya nahi bibi
-  tu jise chahe do jahan de de
+  tu humeiṅ hifz aur amaaṅ de de
+  apni chadar ka saibaṅ de de
+  teri qudrat meiṅ kya nahi bibi
+  tu jise chahe do jahaṅ de de
 
-  ay meri bibi, aansuon ne dua maangi hai
+  ae meri bibi, aansuoṅ ne dua maangi hai
   teri tasbih parh ke dil ne tujhe pukara hai
   
   2
-  qarz maqrooz ka ada kar de
-  muflison ka naseeb wa kar de
+  qarz maqruz ka ada kar de
+  muflisoṅ ka nasib wa kar de
   jin ki godi bhari nahi bibi
   unko aulaad tu ata kar de
 
-  ay meri bibi, bas tu hi murad deti hai
+  ae meri bibi, bas tu hi murad deti hai
   teri chaukhat dar-e-ilahi ka istiara hai
   
   3
   farsh-e-majlis pe aur musalle par
-  har jawan keh raha hai ro ro kar
-  hum rahein na rahein magar bibi
+  har jawaṅ keh raha hai ro ro kar
+  hum raheiṅ na raheiṅ magar bibi
   ta qayamat rahe gham-e-Sarwar
 
-  ay meri bibi, tere bachon ka gham manate hain
-  apni aulaad se kahin barh ke gham yeh pyara hai
+  ae meri bibi, tere bachoṅ ka gham manate haiṅ
+  apni aulaad se kahiṅ barh ke gham yeh pyara hai
   
   4
-  un shaheedon ka yeh muqaddar hai
-  saiban in ka teri chadar hai
-  unke seenon pe ay meri bibi
+  un shahidoṅ ka yeh muqaddar hai
+  saibaṅ in ka teri chadar hai
+  unke sinoṅ pe ae meri bibi
   daagh-e-matam nishan-e-Haider hai
 
-  ay meri bibi, khuld mein shaheed jab jaye
+  ae meri bibi, khuld meiṅ shahid jab jaye
   teri awaaz aaye aane do yeh hamara hai
   
   5
-  khoon ban kar ragon mein hai nauha
-  meri naslon mein bhi rahe nauha
-  jaise maine parha hai bachpan se
-  mere bache bhi yun parhein nauha
+  khun ban kar ragoṅ meiṅ hai nauha
+  meri nasloṅ meiṅ bhi rahe nauha
+  jaise maiṅ ne parha hai bachpan se
+  mere bache bhi yuṅ parheiṅ nauha
 
-  ay meri bibi, inke dil mein wilayah-e-Haider
+  ae meri bibi, inke dil meiṅ wilayah-e-Haider
   mere maa baap ki taharat ka ek ishara hai
   
   6
-  tere dil par hai jo sitam toote
-  zindagi mein jo tu ne gham dekhe
-  aasman-o-zameen pe gar hote
+  tere dil par hai jo sitam tute
+  zindagi meiṅ jo tu ne gham dekhe
+  aasman o zamiṅ pe gar hote
   misl-e-shab woh siyah ho jate
 
-  ay meri bibi, dekh kar teri museebat ko
+  ae meri bibi, dekh kar teri musibat ko
   sare aalam ka dil masaib se para para hai
   
   7
-  tujh ko ummat ne yun sataya hai
+  tujh ko ummat ne yuṅ sataya hai
   marg-e-Mohsin pe bhi rulaya hai
   tujh ko baba ke baad ummat ne
-  haaye darbar mein bulaya hai
+  haaye darbar meiṅ bulaya hai
 
-  ay meri bibi, kitne sadme uthaye hain tu ne
-  jeete ji tujh ko meri shahzadi gham ne maara hai
+  ae meri bibi, kitne sadme uthaye haiṅ tu ne
+  jite ji tujh ko meri shahzadi gham ne maara hai
   
   8
   hai yahi Mazhar Abidi ki dua
-  tere bachon ka gham rahe zinda
+  tere bachoṅ ka gham rahe zinda
   saath Irfan ke rahe jaari
-  tere sadqe mein karwan-e-aza
+  tere sadqe meiṅ karwan-e-aza
 
-  ay meri bibi, tere dar pe sar jhukate hain
-  har Husaini ka tere tukron pe hi guzara hai
+  ae meri bibi, tere dar pe sar jhukate haiṅ
+  har Husaini ka tere tukroṅ pe hi guzara hai
 ---
 
 یا زہرا یا زہرا

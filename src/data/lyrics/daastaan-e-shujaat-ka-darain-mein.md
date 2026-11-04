@@ -1,6 +1,6 @@
 ---
 title: "داستانِ شجاعت کا داریں میں"
-alternateTitle: "Daastaan-E-Shujaat Ka Darain Mein"
+alternateTitle: "Daastaan-e-Shujaat Ka Daraiṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,29 +9,29 @@ tags: []
 aliases:
   - "Daastaan-E-Shujaat Ka Darain Mein"
 cover: "/images/lyrics/daastaan-e-shujaat-ka-darain-mein.png"
-coverAlt: "Cover image for Daastaan-E-Shujaat Ka Darain Mein"
+coverAlt: "Cover image for Daastaan-e-Shujaat Ka Daraiṅ Meiṅ"
 published: true
 romanLyrics: |-
-  Daastaan-e-Shujaat ka darain mein
+  Daastaan-e-Shujaat ka daraiṅ meiṅ
   aik bemisl kirdar abbas hai
   
-  Hain Ali ke Athara Hi bete Ali
-  Par sabhi mein Alamdar Abbas Hai
+  Haiṅ Ali ke Athara Hi bete Ali
+  Par sabhi meiṅ Alamdar Abbas Hai
   
   1
-  Inke lehje mein hashim ki hashmat bhi hai
-  Inke tewar mein hamza ki haibat bhi
+  Inke lehje meiṅ hashim ki hashmat bhi hai
+  Inke tewar meiṅ hamza ki haibat bhi
   Har ada inki imran ka aqs hai
-  Inki bahon mein jaafar ki taaqat bhi hai
+  Inki bahoṅ meiṅ jaafar ki taaqat bhi hai
   
   Pyaar hai mustufa ka husain o hasan
   Aur hassnain ka pyaar abbas hai
   
   2
-  Naql-e-azmat ka shireen samar hain yehin
-  Ismaton ke sadaf ke gohar hain yehin
-  Noor ki sidrat-ul-muntaha hain yehin
-  Hashimi aasman ke qamar hain yehin
+  Naql-e-azmat ka shiriṅ samar haiṅ yehiṅ
+  Ismatoṅ ke sadaf ke gohar haiṅ yehiṅ
+  Nur ki sidrat-ul-muntaha haiṅ yehiṅ
+  Hashimi aasmaṅ ke qamar haiṅ yehiṅ
   
   Jinke saaye me akber bhi palte rahe
   Husn ka aisa minaar abbas hai
@@ -39,28 +39,28 @@ romanLyrics: |-
   3
   Hal ata innama ki jo misdaaq hai
   Vo bhi ghazi ke aane ki mushtaq hai
-  Arsh se farsh tak inki jageer hai
-  Sari makhloq inki gadageer hai
+  Arsh se farsh tak inki jagir hai
+  Sari makhloq inki gadagir hai
   
   Jo ali ki shujaat ka waris bhi hai
-  Aisa aala zameendar abbas hai
+  Aisa aala zamindar abbas hai
   
   4
   Sahib-e-takht-e-aqli ki gairat hai ye
-  Aur charaghe hareem-e-sharafat hai ye
+  Aur charaghe harim-e-sharafat hai ye
   durr-e-shehwaar Behr-e-saqawat hai ye
-  Haq to ye hai ke haq ki haqeeqat hai
+  Haq to ye hai ke haq ki haqiqat hai
   
-  Vo duwaayen jo bibi ne sajdon mein kin
-  un duaon ka meyar abbas hai
+  Vo duwaayeṅ jo bibi ne sajdoṅ meiṅ kiṅ
+  un duaoṅ ka meyar abbas hai
   
   5
-  Qabr kya hai andhera sa ghar hai jahan
-  Marefat ke siva koi sapna nahin
-  Vo bohat hi andheri jagah hai wahan
-  Koi yawar nahi koi apna nahin
+  Qabr kya hai andhera sa ghar hai jahaṅ
+  Marefat ke siva koi sapna nahiṅ
+  Vo bohat hi andheri jagah hai wahaṅ
+  Koi yawar nahi koi apna nahiṅ
   
-  Tumse milne lahad mein ali aayenge
+  Tumse milne lahad meiṅ ali aayeṅge
   Bolo tanhai me aur kya chahiye
 ---
 

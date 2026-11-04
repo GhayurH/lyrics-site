@@ -1,6 +1,6 @@
 ---
 title: "حسینؑ الغریب الغریب الحسینؑ"
-alternateTitle: "Husain Al Ghareeb"
+alternateTitle: "Husain Al Gharib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,83 +9,83 @@ tags: []
 aliases:
   - "Husain Al Ghareeb"
 cover: "/images/lyrics/hussain-al-ghareeb.png"
-coverAlt: "Cover image for Husain Al Ghareeb"
+coverAlt: "Cover image for Husain Al Gharib"
 published: true
 romanLyrics: |-
-  Husain al-ghareeb al-ghareeb al-Husain
-  Husain ash-shaheed ash-shaheed al-Husain
+  Husain al-gharib al-gharib al-Husain
+  Husain ash-shahid ash-shahid al-Husain
 
   1
   Duhai duhai Khudaya duhai
-  Yeh dasht-e bala mein hai kaisi tabahi
-  Bahaya hai kis ne yeh khoon-e Muhammad
+  Yeh dasht-e bala meiṅ hai kaisi tabahi
+  Bahaya hai kis ne yeh khun-e Muhammad
   Qayamat yeh dhai hai kis ne Ilahi
 
-  Jawanon buzurgon ko mara gaya hai
-  Shaheedon mein shamil hai nanha sipahi
+  Jawanoṅ buzurgoṅ ko mara gaya hai
+  Shahidoṅ meiṅ shamil hai nanha sipahi
 
   2
-  Kiya jashn barpa yun ahl-e hawas ne
-  Shaheedon ke lashon pe danke bajaye
+  Kiya jashn barpa yuṅ ahl-e hawas ne
+  Shahidoṅ ke lashoṅ pe danke bajaye
   Jala dale Aal-e Muhammad ke khaime
   Sakina ke munh par tamache lagaye
 
-  Jo beemar tha us ka bistar na chhoda
-  Nabi-zadiyon par bhi darre lagaye
+  Jo bimar tha us ka bistar na chhora
+  Nabi-zadiyoṅ par bhi darre lagaye
 
   3
   Uthi apne marqad se bint-e Muhammad
-  Siyah shab ki chadar mein chehra chhupa kar
-  Gayi Karbala mein to us ne yeh dekha
-  Hai bosida kurte mein ek lash-e be-sar
+  Siyah shab ki chadar meiṅ chehra chhupa kar
+  Gayi Karbala meiṅ to us ne yeh dekha
+  Hai bosida kurte meiṅ ek lash-e besar
 
-  Badan sara teeron se chhalni para hai
-  Lahoo mein hai dooba hua sara paikar
+  Badan sara tiroṅ se chhalni para hai
+  Lahu meiṅ hai duba hua sara paikar
 
   4
   Tarap kar woh chillayi Shabbir beta
-  Lahoo mein nahaye ho sar bhi juda hai
-  Tabar kis ne mare hain sare badan par
-  Yeh teeron pe kis ne janaza rakha hai
+  Lahu meiṅ nahaye ho sar bhi juda hai
+  Tabar kis ne mare haiṅ sare badan par
+  Yeh tiroṅ pe kis ne janaza rakha hai
 
-  Kahan hai mera laal Abbas bolo
-  Main poochungi us se yeh kaise hua hai
+  Kahaṅ hai mera laal Abbas bolo
+  Maiṅ puchungi us se yeh kaise hua hai
 
   5
   Sada sun ke Zahra ki tharraye Ghazi
   Juda tan se sar tha to shane kate the
-  Gham-o-yaas-o-hasrat mein majrooh-o-muztar
-  Kahin kya ke darya kinare pare the
+  Gham o yaas o hasrat meiṅ majruh o muztar
+  Kahiṅ kya ke darya kinare pare the
 
-  Soo-e Alqama ab jo Bibi ne dekha
-  Wafaon ke sahil pe jhande gare the
+  Su-e Alqama ab jo Bibi ne dekha
+  Wafaoṅ ke sahil pe jhande gare the
 
   6
-  Idhar dard-o-gham ki satayi thi Zainab
-  Jo wehshat ke jungle mein Haider bani thi
-  Kabhi khaak urati kabhi ashk peeti
+  Idhar dard o gham ki satayi thi Zainab
+  Jo wehshat ke jungle meiṅ Haider bani thi
+  Kabhi khaak urati kabhi ashk piti
   Jo kumbe ke pehre pe tanha khari thi
 
   Sakina ke saqqa ko awaz de kar
-  Gham-e Shah-e Deen mein buka kar rahi thi
+  Gham-e Shah-e Din meiṅ buka kar rahi thi
 
   7
   Guzarish hai Aqa hamari yahi
   Hum ko roze pe Maula bula lijiye
   Hum ko zawwar Maula bana lijiye
-  Hum ko daman mein Maula chhupa lijiye
+  Hum ko daman meiṅ Maula chhupa lijiye
 
-  Giraftar-e jaur-o-sitam hum hue
+  Giraftar-e jaur o sitam hum hue
   Musibat se hum ko bacha lijiye
 
   8
-  Kabhi dil mein deti woh maa ko sadayen
-  Kabhi ro ke kehti ke Baba kahan ho
-  Shaheedon ka noha tha us ki zaban par
-  Abad kis tarah us ke gham ka bayan ho
+  Kabhi dil meiṅ deti woh maa ko sadayeṅ
+  Kabhi ro ke kehti ke Baba kahaṅ ho
+  Shahidoṅ ka noha tha us ki zaban par
+  Abad kis tarah us ke gham ka bayaṅ ho
 
-  Hamein bhi saadat ho nusrat ki hasil
-  Khudara zuhoor-e Imam-e Zaman ho
+  Hameiṅ bhi saadat ho nusrat ki hasil
+  Khudara zuhur-e Imam-e Zamaṅ ho
 
 ---
 

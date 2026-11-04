@@ -1,6 +1,6 @@
 ---
 title: "اگر نہ ہوتیں جناب زینبؑ نہ ہوتا اللہ کا نام لیوا"
-alternateTitle: "Agar Na Hotin Janabe Zainab"
+alternateTitle: "Agar Na Hotiṅ Janabe Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,76 +9,76 @@ tags: []
 aliases:
   - "Agar Na Hotin Janabe Zainab"
 cover: "/images/lyrics/agar-na-hotin-janabe-zainab.png"
-coverAlt: "Cover image for Agar Na Hotin Janabe Zainab"
+coverAlt: "Cover image for Agar Na Hotiṅ Janabe Zainab"
 published: true
 romanLyrics: |-
   1
-  Agar na hotin Janab-e Zainab, na hota Allah ka naam lewa
-  Agar na hotin Janab-e Zainab, na deen hota na hota kalma
+  Agar na hotiṅ Janab-e Zainab, na hota Allah ka naam lewa
+  Agar na hotiṅ Janab-e Zainab, na din hota na hota kalma
 
   2
-  Agar na hotin Janab-e Zainab, Husain ka kaam tha adhoora
-  Agar na hotin Janab-e Zainab, Husain ki kaun thi shareeka
+  Agar na hotiṅ Janab-e Zainab, Husain ka kaam tha adhura
+  Agar na hotiṅ Janab-e Zainab, Husain ki kaun thi sharika
 
   3
-  Husain ki hai shareeka Zainab, nahin hai koi shareek un ka
-  Agar na hotin Janab-e Zainab, to kaun Abid ke saath chalta
+  Husain ki hai sharika Zainab, nahiṅ hai koi sharik un ka
+  Agar na hotiṅ Janab-e Zainab, to kaun Abid ke saath chalta
 
   4
-  Yazeed ne apne taur par to liya tha Badr-o-Uhad ka badla
-  Agar na hotin Janab-e Zainab, na bajta deen-e Khuda ka danka
+  Yazid ne apne taur par to liya tha Badr o Uhad ka badla
+  Agar na hotiṅ Janab-e Zainab, na bajta din-e Khuda ka danka
 
   5
   Sahabiyat ki naqab chehre pe dale rakhi thi ahl-e shar ne
-  Agar na hotin Janab-e Zainab, dikhayi deta na asli chehra
+  Agar na hotiṅ Janab-e Zainab, dikhayi deta na asli chehra
 
   6
-  Yazeed ailaniya tha karta sharab noshi siyah kari
-  Agar na hotin Janab-e Zainab, to kaun dikhlata haq ka rasta
+  Yazid ailaniya tha karta sharab noshi siyah kari
+  Agar na hotiṅ Janab-e Zainab, to kaun dikhlata haq ka rasta
 
   7
-  Yazeed tha bhanja nawasa saleebiyon ka to is liye bhi
-  Agar na hotin Janab-e Zainab, to hota batil ka daur daura
+  Yazid tha bhanja nawasa salibiyoṅ ka to is liye bhi
+  Agar na hotiṅ Janab-e Zainab, to hota batil ka daur daura
 
   8
-  Yazeed takzeeb kar raha tha nuzool-e wahi aur Rasool-e Haq ki
-  Agar na hotin Janab-e Zainab, to kaun haq ka lagata naara
+  Yazid takzib kar raha tha nuzul-e wahi aur Rasul-e Haq ki
+  Agar na hotiṅ Janab-e Zainab, to kaun haq ka lagata naara
 
   9
-  The sare hirs-o-hawas ke bande, ya khauf aur maslahat ke mare
-  Agar na hotin Janab-e Zainab, kahin na milta Khuda ka banda
+  The sare hirs o hawas ke bande, ya khauf aur maslahat ke mare
+  Agar na hotiṅ Janab-e Zainab, kahiṅ na milta Khuda ka banda
 
   10
-  The saath go Imam-e dauran bhi aur ahl-e haram bhi lekin
-  Agar na hotin Janab-e Zainab, na hoti taskheer-e Shaam-o-Kufa
+  The saath go Imam-e dauraṅ bhi aur ahl-e haram bhi lekin
+  Agar na hotiṅ Janab-e Zainab, na hoti taskhir-e Shaam o Kufa
 
   11
-  Ali ki beti ne har qadam par bayan kiya maqsad-e shahadat
-  Agar na hotin Janab-e Zainab, taaruf-e Karbala na hota
+  Ali ki beti ne har qadam par bayaṅ kiya maqsad-e shahadat
+  Agar na hotiṅ Janab-e Zainab, taaruf-e Karbala na hota
 
   12
-  Thi chunke tashheer aur aseeri bhi Shah ke imtihaan mein shamil
-  Agar na hotin Janab-e Zainab, to kaise hota yeh ahd poora
+  Thi chunke tashhir aur asiri bhi Shah ke imtihaaṅ meiṅ shamil
+  Agar na hotiṅ Janab-e Zainab, to kaise hota yeh ahd pura
 
   13
-  Banu Umayya mita rahe the tamam aasar-e deen yaksar
-  Agar na hotin Janab-e Zainab, Muawiyat par naqab rehta
+  Banu Umayya mita rahe the tamam aasar-e din yaksar
+  Agar na hotiṅ Janab-e Zainab, Muawiyat par naqab rehta
 
   14
-  Qalam farosh-o-zameer murda chale the tareekh maskh karne
-  Agar na hotin Janab-e Zainab, shareef kehlati nasal-e Hinda
+  Qalam farosh o zamir murda chale the tarikh maskh karne
+  Agar na hotiṅ Janab-e Zainab, sharif kehlati nasal-e Hinda
 
   15
-  Hua jo baad-e shahadat un ke, woh hota Karb-o-Bala se pehle
-  Agar na hotin Janab-e Zainab, tabah hote Madina Makkah
+  Hua jo baad-e shahadat un ke, woh hota Karb o Bala se pehle
+  Agar na hotiṅ Janab-e Zainab, tabah hote Madina Makkah
 
   16
-  Yeh jitne Hafiz hain aur Qari hain sab pe khutbat in ke bhari
-  Agar na hotin Janab-e Zainab, na hota Quran parhne wala
+  Yeh jitne Hafiz haiṅ aur Qari haiṅ sab pe khutbat in ke bhari
+  Agar na hotiṅ Janab-e Zainab, na hota Quran parhne wala
 
   17
-  Ginayen kya kya fazail in ke, yeh kehna kafi hai Sibt-e Jafar
-  Agar na hotin Janab-e Zainab, na jane kya hota kya na hota
+  Ginayeṅ kya kya fazail in ke, yeh kehna kafi hai Sibt-e Jafar
+  Agar na hotiṅ Janab-e Zainab, na jane kya hota kya na hota
 
 ---
 

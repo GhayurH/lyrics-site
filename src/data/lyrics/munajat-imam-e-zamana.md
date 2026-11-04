@@ -1,6 +1,6 @@
 ---
 title: "چلے آؤ اے ابنِ مشکل کشا"
-alternateTitle: "Chale Aao Aye Ibn E Mushkil Kusha"
+alternateTitle: "Chale Aao Ae Ibn-e-Mushkil Kusha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,65 +9,65 @@ tags: []
 aliases:
   - "Munajat Imam E Zamana"
 cover: "/images/lyrics/munajat-imam-e-zamana.png"
-coverAlt: "Cover image for munajat imam e zamana"
+coverAlt: "Cover image for Chale Aao Ae Ibn-e-Mushkil Kusha"
 published: true
 romanLyrics: |-
-  Bulate hain ro ro ke ahl-e aza
-  Chale aao ay Ibn-e Mushkil Kusha
+  Bulate haiṅ ro ro ke ahl-e aza
+  Chale aao ae Ibn-e Mushkil Kusha
 
   1
-  Tumhein haq-e Zahra ka hai wasta
-  Chale aao ay Ibn-e Mushkil Kusha
+  Tumheiṅ haq-e Zahra ka hai wasta
+  Chale aao ae Ibn-e Mushkil Kusha
 
   2
-  Hai phaili jahan mein ajab si waba
+  Hai phaili jahaṅ meiṅ ajab si waba
   Ata sare alam ko kijiye shifa
-  Waseela hain beemar-e Karb-o-Bala
+  Wasila haiṅ bimar-e Karb o Bala
 
   3
   Khuda ki shariat ka dil shaad ho
-  Yeh veeran Kaaba phir abad ho
+  Yeh viran Kaaba phir abad ho
   Lagane alam is pe Abbas ka
 
   4
-  Hoon hum peechhe peechhe, tum aage chalo
-  Naseeb-e Arbaeen ek aisa bhi ho
-  Tumhari qayadat mein ho qafila
+  Huṅ hum pichhe pichhe, tum aage chalo
+  Nasib-e Arbain ek aisa bhi ho
+  Tumhari qayadat meiṅ ho qafila
 
   5
-  Jise dekhiye hai pareshan yahan
-  Yeh waqt-e karam hai Imam-e Zaman
+  Jise dekhiye hai pareshaṅ yahaṅ
+  Yeh waqt-e karam hai Imam-e Zamaṅ
   Karo har sawali ki hajat rawa
 
   6
-  Mera khwab bhi mahv-e tabeer ho
-  Ay Maula Baqiyya ki taameer ho
-  Labon par musalsal yahi hai dua
+  Mera khwab bhi mahv-e tabir ho
+  Ae Maula Baqiyya ki taamir ho
+  Laboṅ par musalsal yahi hai dua
 
   7
-  Mareez-e muhabbat tarapta rahe
-  Magar tera deedar kar na sake
-  Bhala aisa jeena bhi kis kaam ka
+  Mariz-e muhabbat tarapta rahe
+  Magar tera didar kar na sake
+  Bhala aisa jina bhi kis kaam ka
 
   8
-  Hamare amal mein dikhawa na ho
-  Muhabbat ka bas jhoota dawa na ho
-  Phir ashkon ke lab khud yeh denge sada
+  Hamare amal meiṅ dikhawa na ho
+  Muhabbat ka bas jhuta dawa na ho
+  Phir ashkoṅ ke lab khud yeh deṅge sada
 
   9
-  Zamane mein hote hue aap ke
-  Kahen apni rodaad kyun ghair se
-  Meri ghairaton ki tumhi ho ana
+  Zamane meiṅ hote hue aap ke
+  Kaheṅ apni rodaad kiuṅ ghair se
+  Meri ghairatoṅ ki tumhi ho ana
 
   10
-  Tumhein to zamane ke ho chara-gar
-  Meri mujh se behtar tumhein hai khabar
-  Kahoon kya main haal-e dil-e gham-zada
+  Tumheiṅ to zamane ke ho chara-gar
+  Meri mujh se behtar tumheiṅ hai khabar
+  Kahuṅ kya maiṅ haal-e dil-e gham-zada
 
   11
-  Hilal aur Meesam ki hai iltija
-  Tumhari zaban se ay kaash ek dafa
-  Sunein hum bhi rote hue Nahiya
+  Hilal aur Misam ki hai iltija
+  Tumhari zabaṅ se ae kaash ek dafa
+  Suneiṅ hum bhi rote hue Nahiya
 
 ---
 

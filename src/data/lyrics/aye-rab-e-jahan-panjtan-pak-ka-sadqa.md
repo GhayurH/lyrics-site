@@ -1,6 +1,6 @@
 ---
 title: "اے ربِ جہاں، پنجتنؑ پاک کا صدقہ"
-alternateTitle: "Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
+alternateTitle: "Ae Rab-e-Jahaṅ Panjtan Pak Ka Sadqa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,83 +9,83 @@ tags: []
 aliases:
   - "Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
 cover: "/images/lyrics/aye-rab-e-jahan-panjtan-pak-ka-sadqa.png"
-coverAlt: "Cover image for Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
+coverAlt: "Cover image for Ae Rab-e-Jahaṅ Panjtan Pak Ka Sadqa"
 published: true
 romanLyrics: |-
   1
-  Aye Rab-e-Jahan, Panjtan Pak Ka Sadqa
+  Ae Rab-e-Jahaṅ, Panjtan Pak Ka Sadqa
   Iss Qaum Ka Daman Gham-e-Shabbir Se Bhar De
   
   2
-  Bachon Ko Atta Kar Ali Asghar Ka Tabasum
-  Burhoon Ko Habib Ibn-e-Muzahir Ki Nazar De
+  Bachoṅ Ko Atta Kar Ali Asghar Ka Tabasum
+  Burhuṅ Ko Habib Ibn-e-Muzahir Ki Nazar De
   
   3
-  Kam Sin Ko Mile Walwala-e-Aoun-o-Muhammad
+  Kam Sin Ko Mile Walwala-e-Aoun o Muhammad
   Har Ik Jawaan Ko Ali Akbar Ka Jigar De
   
   4
-  Maoun Ko Sikha Sani-e-Zahra Ka Saleeqa
-  Behno Ko Sakina Ki Duaon Ka Asar De
+  Maouṅ Ko Sikha Sani-e-Zahra Ka Saliqa
+  Behno Ko Sakina Ki Duaoṅ Ka Asar De
   
   5
   Ya Rab Tujhe Bimari-e-Abid Ki Qasam Hai
-  Bimar Ki Raton Ko Shifa Yaab Sahar De
+  Bimar Ki Ratoṅ Ko Shifa Yaab Sahar De
   
   6
-  Muflis Pe Zar-o-Maal-o-Jowahir Ki Ho Barish
-  Maqrooz Ka Har Qarz Ada Gaib Se Kar De
+  Muflis Pe Zar o Maal o Jowahir Ki Ho Barish
+  Maqruz Ka Har Qarz Ada Gaib Se Kar De
   
   7
-  Paband-e-Rasan Zainab-o-Kulsoom Ka Sadqa
-  Be Jurm Aseeron Ko Rehai Ki Khabar De
+  Paband-e-Rasan Zainab o Kulsum Ka Sadqa
+  Bejurm Asiroṅ Ko Rehai Ki Khabar De
   
   8
-  Jo Maein Bhi Roti Hain Be-Yad-e-Ali Asghar
-  Unn Maoun Ki Aagosh Ko Aulaad Se Bhar De
+  Jo Maeiṅ Bhi Roti Haiṅ beYad-e-Ali Asghar
+  Unn Maouṅ Ki Aagosh Ko Aulaad Se Bhar De
   
   9
-  Jo Haq Ke Tarafdar Hoon Wo Hath Atta Kar
+  Jo Haq Ke Tarafdar Huṅ Wo Hath Atta Kar
   Jo Majlis-e-Shabbir Ki Khatir Ho Wo Ghar De
   
   10
   Qismat Ko Faqat Khak-e-Shifa Bakhsh De Maula
-  Main Yeh Nahin Kehta Ke Mujhe Laal-o-Gohar De
+  Maiṅ Yeh Nahiṅ Kehta Ke Mujhe Laal o Gohar De
   
   11
-  Aankhon Ko Dikha Roza-e-Mazloom Ka Manzar
-  Qadmon Ko Najaf Tak Bhi Kabhi Izn-e-Safar De
+  Aankhoṅ Ko Dikha Roza-e-Mazlum Ka Manzar
+  Qadmoṅ Ko Najaf Tak Bhi Kabhi Izn-e-Safar De
   
   12
-  Jo Chadar-e-Zainab Ki Azadar Hain Maula
-  Mehfooz Rahein Aisi Khawateen Ke Parde
+  Jo Chadar-e-Zainab Ki Azadar Haiṅ Maula
+  Mehfuz Raheiṅ Aisi Khawatin Ke Parde
   
   13
   Gham Koi Na De Hum Ko Siwaye Gham-e-Shabbir
   Shabbir Ka Gham Bant Raha Hai Tu Idhar De
   
   14
-  Kab Tak Rahoon Duniya Mein Yateemon Ki Tarah Main?
-  Waris Mera Parde Mein Hai, Zahir Usse Kar De
+  Kab Tak Rahuṅ Duniya Meiṅ Yatimoṅ Ki Tarah Maiṅ?
+  Waris Mera Parde Meiṅ Hai, Zahir Usse Kar De
   
   15
-  Manzoor Hai Khwabon Mein Hi Aaqa Ki Ziyarat
-  Parwaz Ki Khwahish Mein Na Jibreel Ke Par De
+  Manzur Hai Khwaboṅ Meiṅ Hi Aaqa Ki Ziyarat
+  Parwaz Ki Khwahish Meiṅ Na Jibril Ke Par De
   
   16
-  Jis Dar Ke Sawali Hain Farishte Bhi Bashar Bhi
-  Awarah-e-Manzil Hoon Mujhe Bhi Wohi Dar De
+  Jis Dar Ke Sawali Haiṅ Farishte Bhi Bashar Bhi
+  Awarah-e-Manzil Huṅ Mujhe Bhi Wohi Dar De
   
   17
-  Jo Deen Ke Kaam Aaye Wo Aulaad Atta Kar
+  Jo Din Ke Kaam Aaye Wo Aulaad Atta Kar
   Jo Kat Ke Bhi Uncha Hi Nazar Aaye Wo Sar De
   
   18
   Khairat Dar-e-Shah-e-Najaf Chahiye Mujh Ko
-  Salman-o-Abu Zar Ki Tarah Koi Hunar De
+  Salman o Abu Zar Ki Tarah Koi Hunar De
   
   19
-  Sehraon Mein Abid Ki Musafat Ke Sile Mein
+  Sehraoṅ Meiṅ Abid Ki Musafat Ke Sile Meiṅ
   Bhatke Huye Rahro Ko Samardar Shajar De
   
   20

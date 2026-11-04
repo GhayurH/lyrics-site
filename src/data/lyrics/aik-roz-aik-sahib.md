@@ -14,47 +14,47 @@ published: true
 romanLyrics: |-
   Ek roz ek sahib-e zulf-e daraaz ne
   Hum se kaha ke kab yeh hunar-mand ki baat hai
-  Aata nahin hai zikr-e Rasool-e Khuda tumhein
+  Aata nahiṅ hai zikr-e Rasul-e Khuda tumheiṅ
   Bas Fatima ki baat hai, Haider ki baat hai
 
   1
-  Main ne kaha ke zikr-e Rasool-e Khuda karoon
-  Kehne lage ke haan yahi jauhar ki baat hai
+  Maiṅ ne kaha ke zikr-e Rasul-e Khuda karuṅ
+  Kehne lage ke haaṅ yahi jauhar ki baat hai
 
   2
-  Main ne kiya jo dawat-e awwal ka tazkira
-  Bole hatao is mein to Haider ki baat hai
+  Maiṅ ne kiya jo dawat-e awwal ka tazkira
+  Bole hatao is meiṅ to Haider ki baat hai
 
   3
-  Main ne kaha jihad-e Payambar karoon bayan
-  Khandaq ka zikr hai kahin Khyber ki baat hai
+  Maiṅ ne kaha jihad-e Payambar karuṅ bayan
+  Khandaq ka zikr hai kahiṅ Khyber ki baat hai
   Kehne lage ke aur koi tazkira karo
-  Is mein to saaf Haider-e Dawar ki baat hai
+  Is meiṅ to saaf Haider-e Dawar ki baat hai
 
   4
-  Main ne sunaya Ayah-e Tatheer ka nuzool
-  Bole hatao is mein to ek ghar ki baat hai
-  Main ne sunaya Ayah-e Tatheer ka nuzool
-  Bole ke ghar mein rehne do yeh ghar ki baat hai
+  Maiṅ ne sunaya Ayah-e Tathir ka nuzul
+  Bole hatao is meiṅ to ek ghar ki baat hai
+  Maiṅ ne sunaya Ayah-e Tathir ka nuzul
+  Bole ke ghar meiṅ rehne do yeh ghar ki baat hai
 
   5
-  Main ne Nabi ki but-shikani ka kiya jo zikr
-  Bole ke dukhti hui rag ko na chhediye
-  Pa-e Ali-o-dosh-e Payambar ki baat hai
+  Maiṅ ne Nabi ki but-shikani ka kiya jo zikr
+  Bole ke dukhti hui rag ko na chheriye
+  Pa-e Ali o dosh-e Payambar ki baat hai
 
   6
-  Main ne sunaya jab shab-e hijrat ka waqia
-  Bole ke yeh Rasool ke bistar ki baat hai
+  Maiṅ ne sunaya jab shab-e hijrat ka waqia
+  Bole ke yeh Rasul ke bistar ki baat hai
 
   7
-  Main ne Nabi ke aakhri Hajj ka kiya jo zikr
-  Bole ke yeh Ghadeer ke mimbar ki baat hai
+  Maiṅ ne Nabi ke aakhri Hajj ka kiya jo zikr
+  Bole ke yeh Ghadir ke mimbar ki baat hai
 
   8
-  Main ne kaha ke zikr-e Nabi ya Allah kis tarah karoon
-  Ahmad ki baat baat mein Haider ki baat hai
-  Bole ke zikr auron ka aata nahin hai kyun
-  Main ne kaha ke yeh to muqaddar ki baat hai
+  Maiṅ ne kaha ke zikr-e Nabi ya Allah kis tarah karuṅ
+  Ahmad ki baat baat meiṅ Haider ki baat hai
+  Bole ke zikr auroṅ ka aata nahiṅ hai kiuṅ
+  Maiṅ ne kaha ke yeh to muqaddar ki baat hai
 
 ---
 

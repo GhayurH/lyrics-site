@@ -1,6 +1,6 @@
 ---
 title: "رہائی قید سے زینبؑ کو جب ملی ہوگی"
-alternateTitle: "Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
+alternateTitle: "Rihayi Qaid Se Zainab Ko Jab Mili Hogi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,48 +9,107 @@ tags: []
 aliases:
   - "Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
 cover: "/images/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-ho-gi.png"
-coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
+coverAlt: "Cover image for Rihayi Qaid Se Zainab Ko Jab Mili Hogi"
 published: true
-# The first five Urdu stanzas include intentional extra choral responses.
-stanzaLineExceptions: [1, 2, 3, 4, 5]
 romanLyrics: |-
-  Rihayi qaid se Zainab ko jab mili ho gi
-  Bina Husain ke woh kaisay ghar gayi ho gi
+  Rihayi qaid se Zainab ko jab mili hogi
+  Bina Husain ke woh kaise ghar gayi hogi
 
   1
-  Aye Nana Tere Nawase ko teri ummat ne
-  Dafan kiya hai na uryian hi ban mein chor diya
-  Batoolzadi yehi baat sochti ho gi
+  Ae Nana tere nawase ko, teri ummat ne
+  Dafn kiya hai ya uryaaṅ hi, ban meiṅ chhor diya
+
+  Husain ya Husain
+  Husain Badshah Husain Shahanshah
+  Husain din hai, Husain diṅ panah
+  Shahid-e-Karbala, Zabih-e-Nainawa
+  Bejurm o bekhata
+  Hai tera ghar luta
+  Husain ya Husain ya Husain ya Husain
+
+  Dafn kiya hai ya uryaaṅ hi, ban meiṅ chhor diya
+  Batulzadi yehi baat sochti hogi
 
   2
-  Lutien thi dasht mein jo chadarien Saydaniyoon ki
-  lotayein Abid-e-Beemar ko layeenoon ne
-  Ali ki Laadli hasrat se daykhti ho gi
+  Luti thi dasht meiṅ jo chadareiṅ Sayyidaniyoṅ ki
+  Lutaayeṅ Abid-e-Bimar ko lainoṅ ne
+
+  Sajjad haaye Sajjad
+  Bimar-e-Karbala, asir-e-bekhata
+  Tumhara qafila, jo tha luta hua
+  Pahen ke beriyaṅ, jidhar bhi tu gaya
+  Woh rasta jo tha, lahu lahu hua
+  Na jaane kis tarah, yeh tu ne seh liya
+  Woh Zainab-e-haziṅ, ka sar khula hua
+  Phir us ke baad tu, hai jab talak jiya
+  Tumhari aankh se, sada hai khuṅ baha
+  Sajjad, haaye Sajjad, haaye Sajjad, haaye Sajjad
+
+  Lutaayeṅ Abid-e-Bimar ko lainoṅ ne
+  Ali ki laadli hasrat se dekhti hogi
 
   3
-  Woh chay maah ke bachay ko teer maara tha
-  Woh Sheer khawar ka laasha sina pe aaya tha
-  Batool lahad mein moh apna peet-ti ho gi
+  Woh chhe maah ke bachche ko, tir maara tha
+  Woh sher khwar ka lasha, sina pe aaya tha
+
+  Saghir haaye Saghir
+  Saghir-e-Karbala, ae kushta-e-jafa
+  Kisi ki dushmani, hai tum se kya bhala
+  Tumhara sin abhi, nahiṅ hai jang ka
+  Qaza ka tir hai, ba dast-e-Harmala
+  Tumhara phul se, bhi narm hai gala
+  Rubab kis tarah, karegi hausla
+  Khuda ra hausla, na maaṅ ka aazma
+  Husain par yehi, to waqt hai kara
+  Lahu Saghir ka, munh pe mal liya
+  Saghir, haaye Saghir, haaye Saghir, haaye Saghir
+
+  Woh sher khwar ka lasha, sina pe aaya tha
+  Batul lahad meiṅ, munh apna pitti hogi
 
   4
-  Paray the Laashay jawaanoon ke dasht-e-Karbal mein
-  para tha Ghazi ka laasha bagheer shanoon ke
-  Jawan bhai ke shanoon ko dhondhti ho gi
+  Pare the lashe jawanoṅ ke, dasht-e-Karbal meiṅ
+  Para tha Ghazi ka lasha, baghair shanoṅ ke
+
+  Abbas haaye Abbas
+  Abbas bawafa, Abbas basafa
+  Hai tu pala hua, Ali ki god ka
+  Abbas mojiza, hai tu Batul ka
+  Abbas ek naya, hai pesh marhala
+  Hai Zainab berida, safar hai Sham ka
+  Haiṅ Shami behaya, wa musibata
+  Abbas haaye Abbas haaye Abbas haaye Abbas
+
+  Para tha Ghazi ka lasha, baghair shanoṅ ke
+  Jawan bhai ke, shanoṅ ko dhundti hogi
 
   5
-  Gaya jo qafla maqtal mein Aale-Ahmed ka
-  Veeraan dasht mein har Bibi apnay pyaron ko
-  Karakti Dhoop mein ro ro ke dhundti ho gi
+  Gaya jo qafila maqtal meiṅ, Aal-e-Ahmad ka
+  Viran dasht meiṅ har Bibi, apne pyaroṅ ko
+
+  Jawan haaye Jawan
+  Shabih-e-Mustafa, Wazir-e-Murtaza
+  Athara saal tak, tu burqe meiṅ pala
+  Phuphi ne naaz se, tujhe jawaaṅ kiya
+  Khuda ke waste, abhi na ran meiṅ ja
+  Husain kis tarah, yeh dekh paayega
+  Jawan ka jigar, sina ka tutna
+  Bahen thi muntazir, ke kab tu aayega
+  Woh ab bhi dekhti, hai tera rasta
+  Jawan, haaye Jawan, haaye Jawan, haaye Jawan
+
+  Viran dasht meiṅ har Bibi, apne pyaroṅ ko
+  Karakti dhup meiṅ, ro ro ke dhundti hogi
 
   6
-  Gaye thi sath tumhare Sakina Karbal mein
-  Kahan hai bhayyia mujhay nazar nahin aati
-  Beemar Sughra yeh Abid se poochti ho gi
+  Gayi thi saath tumhare, Sakina Karbal meiṅ
+  Kahaaṅ hai bhaiya mujhe kiuṅ, nazar nahiṅ aati
+  Bimar Sughra yeh, Abid se puchhti hogi
 
   7
-  Suni jo bali Sakina ne khabar yeh Akhtar
-  keh sab chale hain mujhay chor ker Madinay ko
-  Masooma kabr mein tanha hi ro rahi ho gi
+  Suni jo bali Sakina ne, khabar yeh Akhtar
+  Ke sab chale haiṅ mujhe chhor kar Madine ko
+  Masuma qabr meiṅ, tanha hi ro rahi hogi
 ---
 
 رہائی قید سے زینبؑ کو جب ملی ہوگی

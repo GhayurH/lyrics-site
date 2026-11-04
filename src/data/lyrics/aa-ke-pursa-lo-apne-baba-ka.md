@@ -12,44 +12,44 @@ cover: "/images/lyrics/aa-ke-pursa-lo-apne-baba-ka.png"
 coverAlt: "Cover image for Aa Ke Pursa Lo Apne Baba Ka"
 published: true
 romanLyrics: |-
-  Aa ke pursa lo apne Baba ka, al-ajal al-ajal Imam-e-Zaman
-  Samarra se utha hai ik laasha, al-ajal al-ajal Imam-e-Zaman
+  Aa ke pursa lo apne Baba ka, al-ajal al-ajal Imam-e-Zamaṅ
+  Samarra se utha hai ik laasha, al-ajal al-ajal Imam-e-Zamaṅ
   
   1
-  Aaj gyaara Imam rote hain
-  Khud Rasool-e-Anam rote hain
-  Bain karti hain Fatima Zahra
-  al-ajal al-ajal Imam-e-Zaman
+  Aaj gyaara Imam rote haiṅ
+  Khud Rasul-e-Anam rote haiṅ
+  Bain karti haiṅ Fatima Zahra
+  al-ajal al-ajal Imam-e-Zamaṅ
   
   2
-  Thartharati hai Samarra ki zameen
-  Kaun sa ghar hai jis mein sog nahin
-  Khud Baqayya se aayi hain Zahra
-  al-ajal al-ajal Imam-e-Zaman
+  Thartharati hai Samarra ki zamiṅ
+  Kaun sa ghar hai jis meiṅ sog nahiṅ
+  Khud Baqayya se aayi haiṅ Zahra
+  al-ajal al-ajal Imam-e-Zamaṅ
   
   3
   Aa gayi Qum se aik Shehzadi
   Aur Zainab bhi Shaam se aayi
-  Lab pe donon ke hai yehi noha
-  al-ajal al-ajal Imam-e-Zaman
+  Lab pe donoṅ ke hai yehi noha
+  al-ajal al-ajal Imam-e-Zamaṅ
   
   4
-  Samarra mein hua hai hashr bapa
+  Samarra meiṅ hua hai hashr bapa
   Phir se Saadaat pe hai waqt kara
   Muntazir hai namaaz ko laasha
-  al-ajal al-ajal Imam-e-Zaman
+  al-ajal al-ajal Imam-e-Zamaṅ
   
   5
   Tum namaaz-e-Hasan parhaate ho
   Haaye Abid ki bekasi dekho
   Baap ki laash jo utha na saka
-  al-ajal al-ajal Imam-e-Zaman
+  al-ajal al-ajal Imam-e-Zamaṅ
   
   6
   Laash pe haye bain kaun kare
   Na hai dukhtar na paas beta hai
-  Yaad aane lagi hai Karb-o-Bala
-  al-ajal al-ajal Imam-e-Zaman
+  Yaad aane lagi hai Karb o Bala
+  al-ajal al-ajal Imam-e-Zamaṅ
 ---
 
 آ کے پرسہ لو اپنے بابا کا، العجل العجل امام زماں

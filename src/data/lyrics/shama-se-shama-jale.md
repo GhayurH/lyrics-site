@@ -13,61 +13,61 @@ coverAlt: "Cover image for Shama Se Shama Jale"
 published: true
 romanLyrics: |-
   Shama se shama jale, silsila jari rahe,
-  Hum rahain ya na rahain, ye azadari rahe
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   1
-  Apni naslon lo sikhate raho, matam ka hunar,
-  Seena dar seena kare, bus ye azadari safar,
-  Jaise halat bhi hon, ye amal jari rahe,
-  Hum rahain ya na rahain, ye azadari rahe
+  Apni nasloṅ lo sikhate raho, matam ka hunar,
+  Sina dar sina kare, bus ye azadari safar,
+  Jaise halat bhi hoṅ, ye amal jari rahe,
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   2
   Lakh badle ye zamane ki ravish aur mausam,
   Eik pal bhi na ruke ashk-e-aza aur matam,
-  Matam-e-sheh ka junoon, zahn par tari rahe
-  Hum rahain ya na rahain, ye azadari rahe
+  Matam-e-sheh ka junuṅ, zahn par tari rahe
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   3
   Tum agar zakir-e-Shabbir ho, yeh yaad rahe,
   Chahe is gam ke liye, sar bhi kate ghar bhi jale
   Hurmat-e-farsh-e-aza, jaan se pyari rahe,
-  Hum rahain ya na rahain, ye azadari rahe
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   4
-  Yeh sabilein yuhin aabad rahein ahl-e-aza,
+  Yeh sabileiṅ yuhin aabad raheiṅ ahl-e-aza,
   Aur ghar ghar pe nazar aaye alam Ghazi ka,
   Ye alam uncha rahe, yeh alamdari rahe,
-  Hum rahain ya na rahain, ye azadari rahe
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   5
-  Dunia walon ki na parvah na kutch baat karo,
-  Mannati bairiyan Sajjad ke gham me pehno,
-  Raunaqe farsh-e-aza girya-o-zari rahe
-  Hum rahain ya na rahain, ye azadari rahe
+  Dunia waloṅ ki na parvah na kutch baat karo,
+  Mannati bairiyaṅ Sajjad ke gham me pehno,
+  Raunaqe farsh-e-aza girya o zari rahe
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   6
-  Maaon behnon ko hai paigam mera sirf yahi,
-  Aapne bacchon ko juluson se nahi roko kabhi,
+  Maaoṅ behnoṅ ko hai paigam mera sirf yahi,
+  Aapne bacchoṅ ko julusoṅ se nahi roko kabhi,
   Yeh shahadat hai sharaf, yeh sharaf jaari rahe,
-  Hum rahain ya na rahain, ye azadari rahe
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   7
   Apne ghar me bhi aza khana sajana hai mujhe,
-  Apne bacchon ko azadar banana hai mujhe,
+  Apne bacchoṅ ko azadar banana hai mujhe,
   Taake is nasl me bhi, tazia dari rahe,
-  Hum rahain ya na rahain, ye azadari rahe
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   8
-  Majlis-e-shah ki zindan me jo bunyad rakhi,
+  Majlis-e-shah ki zindaṅ me jo bunyad rakhi,
   Asl me bibi o sajjad ki khwaish thi yahi,
-  Yeh azadar rahein yeh azadari rahe,
-  Hum rahain ya na rahain, ye azadari rahe
+  Yeh azadar raheiṅ yeh azadari rahe,
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   9
-  Majlis-o-matam-e-Shabbir ki tableeg karo,
-  Baat ye Mazhar-o-Irfan zamane se kaho,
+  Majlis o matam-e-Shabbir ki tablig karo,
+  Baat ye Mazhar o Irfan zamane se kaho,
   Munkir-e-bibi se har haal me bezari rahe,
-  Hum rahain ya na rahain, ye azadari rahe
+  Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
 ---
 
 شمع سے شمع جلے، سلسلہ جاری رہے

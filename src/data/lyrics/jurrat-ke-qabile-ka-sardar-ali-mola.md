@@ -12,19 +12,19 @@ cover: "/images/lyrics/jurrat-ke-qabile-ka-sardar-ali-mola.png"
 coverAlt: "Cover image for Jurrat Ke Qabile Ka Sardar Ali Mola"
 published: true
 romanLyrics: |-
-  Jurrat ke qabeelay ka sardar Ali Maula
+  Jurrat ke qabile ka sardar Ali Maula
   Karrar Ali Maula, Jarrar Ali Maula
-  Sardaron ke lashkar ka sardar Ali Maula
+  Sardaroṅ ke lashkar ka sardar Ali Maula
 
   1
-  Rakhte hain jo log chashm-e baseerat
-  Woh dekhen do bhaiyon ki fazeelat
-  Meraj ki manzil mein ek halke se parde ke
-  Is paar Muhammad hain, us paar Ali Maula
+  Rakhte haiṅ jo log chashm-e basirat
+  Woh dekheṅ do bhaiyoṅ ki fazilat
+  Meraj ki manzil meiṅ ek halke se parde ke
+  Is paar Muhammad haiṅ, us paar Ali Maula
 
   2
   Khud jis ko Khallaq-e Alam barhaye
-  Kis mein hai dam shaan us ki ghataye
+  Kis meiṅ hai dam shaan us ki ghataye
   Kaabe ka yeh kehna hai, iman hai Kaabe ki
   Mehrab Abu Talib, minar Ali Maula
 

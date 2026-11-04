@@ -12,56 +12,56 @@ cover: "/images/lyrics/fatima-ke-chain-ne.png"
 coverAlt: "Cover image for Fatima Ke Chain Ne"
 published: true
 romanLyrics: |-
-  Fatima ke chain ne Ali ke noor-e-ain ne
-  Bakhuda Husain ne deen ko bacha diya
+  Fatima ke chain ne Ali ke nur-e-ain ne
+  Bakhuda Husain ne din ko bacha diya
 
   1
-  Harf aa raha tha deen-e Mustafa ke naam par
-  Minbar-e Rasool bik raha tha takht-e Shaam par
-  Deen ki asaas ne dast-e haq-shanas ne
+  Harf aa raha tha din-e Mustafa ke naam par
+  Minbar-e Rasul bik raha tha takht-e Shaam par
+  Din ki asaas ne dast-e haq-shanas ne
   Ummat-e Muhammadi ko khwab se jaga diya
 
   2
   Har taraf se band ho chuke the haq ke raste
-  Khoon mangta tha deen zindagi ke waste
-  Deen ke usool ne naib-e Rasool ne
-  Zindagi ka qarz apne khoon se chuka diya
+  Khun mangta tha din zindagi ke waste
+  Din ke usul ne naib-e Rasul ne
+  Zindagi ka qarz apne khun se chuka diya
 
   3
-  Meer-e Shaam ban gaya tha saanp aasteen ka
-  Khusrawi ke sar pe rakh raha tha taj deen ka
-  Badshah-e deen ne boriya-nasheen ne
-  Aarzoo-e khusrawi ko khaak mein mila diya
+  Mir-e Shaam ban gaya tha saanp aastin ka
+  Khusrawi ke sar pe rakh raha tha taj din ka
+  Badshah-e din ne boriya-nashin ne
+  Aarzu-e khusrawi ko khaak meiṅ mila diya
 
   4
   Phir se shirk ki taraf palat na jaye aadmi
-  Raah-e mustaqeem se bhatak na jaye aadmi
+  Raah-e mustaqim se bhatak na jaye aadmi
   Shah-e tashna-kaam ne waqt ke Imam ne
-  Haq ki raah par lahoo se ek diya jala diya
+  Haq ki raah par lahu se ek diya jala diya
 
   5
-  Barhte barhte baat jab usool-e deen pe aa gayi
-  Aur Yazidiyat ki shakl mein urooj paa gayi
+  Barhte barhte baat jab usul-e diṅ pe aa gayi
+  Aur Yazidiyat ki shakl meiṅ uruj paa gayi
   Barh ke phir diler ne sher-e haq ke sher ne
-  Do pehar mein takht-o-taj-o-qasr-e Shaam dha diya
+  Do pehar meiṅ takht o taj o qasr-e Shaam dha diya
 
   6
-  Halq-e be-zabaan se zulm ki kamaan tor di
-  Shah-rag-e gulu se khanjaroon ki dhaar mor di
+  Halq-e bezabaan se zulm ki kamaan tor di
+  Shah-rag-e gulu se khanjaruṅ ki dhaar mor di
   Nazish-e hayat ne fakhr-e kainat ne
   Sar kata ke aadmi ka sar buland kar diya
 
   7
-  Dil kahan se laaun jo karoon yeh waqia bayan
-  Teen din ki pyaas mein woh hausla tha al-amaan
-  Zulm ke aseer ne rann mein ek sagheer ne
+  Dil kahaṅ se laauṅ jo karuṅ yeh waqia bayan
+  Tin din ki pyaas meiṅ woh hausla tha al-amaaṅ
+  Zulm ke asir ne rann meiṅ ek saghir ne
   Muskura ke fauj-e Shaam ko rula rula diya
 
   8
-  Laakh jaan-o-dil nisar Sayyid-e Anam par
-  Ro diya falak bhi be-kasi-e tashna-kaam par
-  Apne mahjabeen ko dilbar-e haseen ko
-  Kheench kar gale se teer jab gale laga liya
+  Laakh jaan o dil nisar Sayyid-e Anam par
+  Ro diya falak bhi bekasi-e tashna-kaam par
+  Apne mahjabiṅ ko dilbar-e hasin ko
+  Khinch kar gale se tir jab gale laga liya
 
 ---
 

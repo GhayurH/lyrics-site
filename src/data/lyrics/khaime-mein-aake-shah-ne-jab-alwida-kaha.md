@@ -1,6 +1,6 @@
 ---
 title: "خیمے میں آکے شاہ نے جب الوداع کہا"
-alternateTitle: "Khaime Mein Aake Shah Ne Jab Alwida Kaha"
+alternateTitle: "Khaime Meiṅ Aake Shah Ne Jab Alwida Kaha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,34 +10,34 @@ aliases:
   - "Khaime Mein Aake Shah Ne Jab Alwida Kaha"
   - "Kohraam Mach Gaya"
 cover: "/images/lyrics/khaime-mein-aake-shah-ne-jab-alwida-kaha.png"
-coverAlt: "Cover image for Khaime Mein Aake Shah Ne Jab Alwida Kaha"
+coverAlt: "Cover image for Khaime Meiṅ Aake Shah Ne Jab Alwida Kaha"
 published: true
 romanLyrics: |-
-  Khaime Mein Aake Shah Ne Jab Alwida Kaha
+  Khaime Meiṅ Aake Shah Ne Jab Alwida Kaha
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   1
-  Tha Jiska Intezar Wo Saa’at Qareeb Hai
-  Din Dhal Raha Hai Shaam-e-Museebat Qareeb Hai
-  Kuch Der Ki Hai Baat Qayamat Qareeb Hai
-  Zainab Ghareeb Bhai Ki Rukhsat Qareeb Hai
-  Ye Keh Ke Maanga Maan Ka Jo Kurta Sila Hua
+  Tha Jiska Intezar Wo Saaat Qarib Hai
+  Din Dhal Raha Hai Shaam-e-Musibat Qarib Hai
+  Kuch Der Ki Hai Baat Qayamat Qarib Hai
+  Zainab Gharib Bhai Ki Rukhsat Qarib Hai
+  Ye Keh Ke Maanga Maaṅ Ka Jo Kurta Sila Hua
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   2
-  Kuch Door Hat Ke Khaime Mein Bole Sheh-e-Zaman
+  Kuch Dur Hat Ke Khaime Meiṅ Bole Sheh-e-Zaman
   Zehmat Na Ho To Baazu Barhao Zara Behan
-  Main Bose Loon Wahan Ke Bandhegi Jahan Rasan
-  Baazu Barha Ke Roti Thi Hamsheer-e-Khasta Tan
-  Bhai Behan Ke Baazuon Ko Choomne Laga
+  Maiṅ Bose Luṅ Wahaṅ Ke Bandhegi Jahaṅ Rasan
+  Baazu Barha Ke Roti Thi Hamshir-e-Khasta Tan
+  Bhai Behan Ke Baazuoṅ Ko Chumne Laga
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   3
   Ye Sun Ke Bint-e-Fatima Zehra Tarap Gayi
   Boli Gala Barhao Bas Ab Jald Ya Akhi
   Amma Ki Baat Aaj Mujhe Yaad Aagayi
-  Main Bose Loon Wahan Ke Chalegi Jahan Chhuri
-  Zainab Ne Barh Ke Chooma Baradar Ka Jab Gala
+  Maiṅ Bose Luṅ Wahaṅ Ke Chalegi Jahaṅ Chhuri
+  Zainab Ne Barh Ke Chuma Baradar Ka Jab Gala
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   4
@@ -50,33 +50,33 @@ romanLyrics: |-
   
   5
   Beti Ko Jab Supurd-e-Behan Kar Chuke Imam
-  Ro Kar Behan Se Kehne Lage Aasmaan Maqam
-  Jana Watan Jo Qaid Se Chhut Kar Ay Tishna Kaam
-  Kehna Lahad Pe Maan Ki Mera Aakhri Salam
+  Ro Kar Behan Se Kehne Lage Aasmaaṅ Maqam
+  Jana Watan Jo Qaid Se Chhut Kar Ae Tishna Kaam
+  Kehna Lahad Pe Maaṅ Ki Mera Aakhri Salam
   Aaya Jo Lab Pe Fatima Zehra Ka Tazkira
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   6
   Abid Se Phir Ye Kehne Lage Shah-e-Karbala
-  Bewaaon Ka Aur Yateemon Ka Ab Tum Ho Aasra
-  Jo Imtehan Mera Tha Sab Maine De Diya
-  Aage Tera Jihad Hai Beemar-e-Karbala
-  Beemar Beta Baap Se Jis Dam Juda Hua
+  Bewaaoṅ Ka Aur Yatimoṅ Ka Ab Tum Ho Aasra
+  Jo Imtehan Mera Tha Sab Maiṅ ne De Diya
+  Aage Tera Jihad Hai Bimar-e-Karbala
+  Bimar Beta Baap Se Jis Dam Juda Hua
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   7
   Khaime Se Bahar Aaye Jo Sultan-e-Karbala
   Sar Ko Jhukaye Rota Tha Khud Asp-e-Bawafa
   Ab Kis Tarha Sawar Ho Zehra Ka Laadla
-  Tanhai Ke Siwa Koi Yawar Nahin Bacha
+  Tanhai Ke Siwa Koi Yawar Nahiṅ Bacha
   Jab Su-e-Nehr Dekh Ke Ghazi Ko Di Sada
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   8
   Bhai Ko Tanha Dekh Ke Zainab Tarap Gayi
-  Roti Hui Husain Ke Nazdeek Aagayi
-  Aur Phir Raqab Thaam Ke Boli Ay Shah-e-Deen
-  Lo Main Sawar Karti Hoon Abbas Gar Nahin
+  Roti Hui Husain Ke Nazdik Aagayi
+  Aur Phir Raqab Thaam Ke Boli Ae Shah-e-Diṅ
+  Lo Maiṅ Sawar Karti Huṅ Abbas Gar Nahiṅ
   Waiz Hua Sawar Jo Zehra Ka Laadla
   Kohraam Mach Gaya, Kohraam Mach Gaya
 ---

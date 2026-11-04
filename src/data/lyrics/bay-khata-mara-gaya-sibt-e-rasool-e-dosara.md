@@ -1,6 +1,6 @@
 ---
 title: "بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا"
-alternateTitle: "Bekhata Mara Gaya Sibt-E-Rasool-E-Dosara, Wa Hasan-E-Sabz Qaba"
+alternateTitle: "Bekhata Mara Gaya Sibt-e-Rasul-e-Dosara, Wa Hasan-e-Sabz Qaba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,35 +9,35 @@ tags: []
 aliases:
   - "Bay Khata Mara Gaya Sibt-E-Rasool-E-Dosara, Wa Hasan-E-Sabz Qaba"
 cover: "/images/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.png"
-coverAlt: "Cover image for Bay Khata Mara Gaya Sibt-e-Rasool Dusra Wa Hasan-e-Sabz Qaba"
+coverAlt: "Cover image for Bekhata Mara Gaya Sibt-e-Rasul-e-Dosara, Wa Hasan-e-Sabz Qaba"
 published: true
 romanLyrics: |-
-  Bay Khata Mara Gaya Sibt-e-Rasool Dusra, Wa Hasan-e-Sabz Qaba
-  Zehr Se Tukray Jigar, Khoon Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
+  Bekhata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
+  Zehr Se Tukre Jigar, Khuṅ Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
   
   1
-  Khoon Ugalte Huay Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
-  Teri Ghurbat Pe Ay Bhai, Teri Zainab Ho Fida, Wa Hasan-e-Sabz Qaba
+  Khuṅ Ugalte Hue Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
+  Teri Ghurbat Pe Ae Bhai, Teri Zainab Ho Fida, Wa Hasan-e-Sabz Qaba
   
   2
-  Maan Ke Dukh Se Abhi Azad Kahan Thi Zainab, Ho Gaya Kaisa Ghazab
+  Maaṅ Ke Dukh Se Abhi Azad Kahaṅ Thi Zainab, Ho Gaya Kaisa Ghazab
   Baap Zinda Na Raha, Bhai Su-e-Khuld Chala, Wa Hasan-e-Sabz Qaba
   
   3
-  Kar Diye Zehr-e-Halahal Ne Jigar Ke Tukray, Aur Qasim Ke Liye
-  Kam Sini Mein Hai Yeh Gham Shaam-e-Ghareeban Jaisa, Wa Hasan-e-Sabz Qaba
+  Kar Diye Zehr-e-Halahal Ne Jigar Ke Tukre, Aur Qasim Ke Liye
+  Kam Sini Meiṅ Hai Yeh Gham Shaam-e-Gharibaṅ Jaisa, Wa Hasan-e-Sabz Qaba
   
   4
   Ghar Se Ik Baar Janaza Jo Nikal Jata Hai, Kab Wo Phir Aata Hai
-  Yeh Woh Taboot Hai Jo Laut Ke Phir Ghar Ko Chala, Wa Hasan-e-Sabz Qaba
+  Yeh Woh Tabut Hai Jo Laut Ke Phir Ghar Ko Chala, Wa Hasan-e-Sabz Qaba
   
   5
   Sheh Ne Us Waqt Jo Ghazi Ko Na Roka Hota, Hashr Ho Jata Bapa
-  Teer Aate Na Janazay Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
+  Tir Aate Na Janaze Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
   
   6
-  Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb-o-Bala
-  Tukray Qasim Ke Uthate Huay Moula Ne Kaha, Wa Hasan-e-Sabz Qaba
+  Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb o Bala
+  Tukre Qasim Ke Uthate Hue Moula Ne Kaha, Wa Hasan-e-Sabz Qaba
 ---
 
 بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا

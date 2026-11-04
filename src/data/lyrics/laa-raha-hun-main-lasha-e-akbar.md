@@ -1,6 +1,6 @@
 ---
 title: "لا رہا ہوں میں لاشئہ اکبر"
-alternateTitle: "Laa Raha Hun Main Lasha E Akbar"
+alternateTitle: "Laa Raha Huṅ Maiṅ Lasha E Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,60 +9,60 @@ tags: []
 aliases:
   - "Laa Raha Hun Main Lasha E Akbar"
 cover: "/images/lyrics/laa-raha-hun-main-lasha-e-akbar.png"
-coverAlt: "Cover image for Laa Raha Hun Main Lasha E Akbar"
+coverAlt: "Cover image for Laa Raha Huṅ Maiṅ Lasha E Akbar"
 published: true
 romanLyrics: |-
-  Laa raha hun main lasha e Akbar
+  Laa raha huṅ maiṅ lasha e Akbar
   Umme Laila sambhaal Zainab ko
   
   Bole honge Husain ye rokar
   Umme Laila sambhaal Zainab ko
   
   1
-  Naujawan laash hai zaeefi hai
-  Meri nazron se dekh manzar ko
-  Kaise hamsheer ko sambhalunga
-  Mai sambhale hue hun Akbar ko
+  Naujawaṅ laash hai zaifi hai
+  Meri nazroṅ se dekh manzar ko
+  Kaise hamshir ko sambhalunga
+  Mai sambhale hue huṅ Akbar ko
   Tera ehsaan hoga ye mujh par
   Umme Laila Sambhaal Zainab Ko
   
   2
-  Iske seene se kehke naam-e-Ali
-  Maine barchi abhi nikaali hai
-  Imtehan de chuki meri ghurbat
+  Iske sine se kehke naam-e-Ali
+  Maiṅ ne barchi abhi nikaali hai
+  Imtehaṅ de chuki meri ghurbat
   Ab teri bekasi ki baari hai
   Tu bhi is waqt ya Ali keh kar
   Umme Laila Sambhaal Zainab Ko
   
   3
-  Do nageene the iski jholi may
+  Do nagine the iski jholi may
   Dono Akbar pe kar diye sadqa
-  Sabr aisa ke apne beton par
-  Maine rote isay nahi dekha
+  Sabr aisa ke apne betoṅ par
+  Maiṅ ne rote ise nahi dekha
   Hai magar ab ye lasha e Akbar
   Umme Laila Sambhaal Zainab Ko
   
   4
-  Rok rakha hai apne ashkon ko
-  Sab se chhup chhup ke aahen bharti hai
-  Main samajhta hun maadar e Akbar
+  Rok rakha hai apne ashkoṅ ko
+  Sab se chhup chhup ke aaheṅ bharti hai
+  Maiṅ samajhta huṅ maadar-e-Akbar
   Teri mamta pe jo guzarti hai
   Rakh ke apne kaleje par pathar
   Umme Laila Sambhaal Zainab Ko
   
   5
-  Kaise laash-e-jawan uthaye hun
-  Aeriyan khat banati aati hai
-  In nishano ko peeche peeche mere
+  Kaise laash-e-jawaṅ uthaye huṅ
+  Aeriyaṅ khat banati aati hai
+  In nishano ko piche piche mere
   Amma Zehra mitati aati hai
-  Uski nazrein na dekhein ye manzar
+  Uski nazreiṅ na dekheiṅ ye manzar
   Umme Laila Sambhaal Zainab Ko
   
   6
-  Ay takallum wo shaam o kufa ka
-  Tay hua hoga is tarah se safar
+  Ae takallum wo shaam o kufa ka
+  Te hua hoga is tarah se safar
   Amma Zainab sambhaalna maa ko
-  Kehte hongay sina se yeh Akbar
+  Kehte honge sina se yeh Akbar
   Aur hoga Husain ke lab par
   Umme Laila Sambhaal Zainab Ko
 ---

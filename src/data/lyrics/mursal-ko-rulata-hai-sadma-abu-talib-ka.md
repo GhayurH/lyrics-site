@@ -16,16 +16,16 @@ romanLyrics: |-
   duniya se chale jana, chacha Abu Talib ka
   
   1
-  khud huzn ka saal is ko kehte hain Nabi kyunke
-  is saal mein thehra hai, jana Abu Talib ka
+  khud huzn ka saal is ko kehte haiṅ Nabi kiunke
+  is saal meiṅ thehra hai, jana Abu Talib ka
   
   2
-  rote hain falak wale kehte hue yeh misra
-  khidmat mein ho chaudah ki, pursa Abu Talib ka
+  rote haiṅ falak wale kehte hue yeh misra
+  khidmat meiṅ ho chaudah ki, pursa Abu Talib ka
   
   3
   yeh Kazmi us gham se ho jaye juda kaise
-  jis gham mein tarapta ho, kunba Abu Talib ka
+  jis gham meiṅ tarapta ho, kunba Abu Talib ka
 ---
 
 مرسل کو رلاتا ہے صدمہ ابو طالب کا

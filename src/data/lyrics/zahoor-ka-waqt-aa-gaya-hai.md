@@ -1,6 +1,6 @@
 ---
 title: "ظہور کا وقت آ گیا ہے"
-alternateTitle: "Zahoor Ka Waqt Aa Gaya Hai"
+alternateTitle: "Zahur Ka Waqt Aa Gaya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,45 +9,45 @@ tags: []
 aliases:
   - "Zahoor Ka Waqt Aa Gaya Hai"
 cover: "/images/lyrics/zahoor-ka-waqt-aa-gaya-hai.png"
-coverAlt: "Cover image for Zahoor Ka Waqt Aa Gaya Hai"
+coverAlt: "Cover image for Zahur Ka Waqt Aa Gaya Hai"
 bastaPage: 388
 bastaNote: additional-stanzas
 published: true
 romanLyrics: |-
   1
-  Zahoor Ka Waqt Aa Gaya Hai Imam Se Lau Lagaye Rakhna
-  Zahoor Ka Waqt Aa Gaya Hai Haram Pe Nazrein Jamaye Rakhna
-  Zahoor Ka Waqt Aa Gaya Hai Charagh-e-Ulfat Jalaye Rakhna
+  Zahur Ka Waqt Aa Gaya Hai Imam Se Lau Lagaye Rakhna
+  Zahur Ka Waqt Aa Gaya Hai Haram Pe Nazreiṅ Jamaye Rakhna
+  Zahur Ka Waqt Aa Gaya Hai Charagh-e-Ulfat Jalaye Rakhna
 
   2
-  Na Neend Aaye Na Oongh Aaye, Rakho Har Ek Pal Nazar Jamaye
-  Dil-o-Nazar Se Ke Samarra Se Na Jaane Kis Raaste Se Aaye
-  Zahoor Ka Waqt Aa Gaya Hai Har Ek Rasta Sajaye Rakhna
+  Na Nind Aaye Na Ungh Aaye, Rakho Har Ek Pal Nazar Jamaye
+  Dil o Nazar Se Ke Samarra Se Na Jaane Kis Raaste Se Aaye
+  Zahur Ka Waqt Aa Gaya Hai Har Ek Rasta Sajaye Rakhna
 
   3
-  Na Hubb-e-Dunya Se Kuch Ilaaqa, Na Ghair Se Raah-o-Rasm Rakhna
-  Tumhari Daulat Hai Ilm-o-Taqwa, Karega Dajjal Is Pe Hamla
-  Zahoor Ka Waqt Aa Gaya Hai Tum Apni Poonji Bachaye Rakhna
+  Na Hubb-e-Dunya Se Kuch Ilaaqa, Na Ghair Se Raah o Rasm Rakhna
+  Tumhari Daulat Hai Ilm o Taqwa, Karega Dajjal Is Pe Hamla
+  Zahur Ka Waqt Aa Gaya Hai Tum Apni Punji Bachaye Rakhna
 
   4
-  Yahin Kahin Aas Paas Hoga, Woh Aane Wala Tha Aa Chuka Hai
-  Hawari-e-Isa Ke Saath Honge, Mawali Maula Ke Saath Honge
-  Zahoor Ka Waqt Aa Gaya Hai, Mawaliyon Se Banaye Rakhna
+  Yahin Kahiṅ Aas Paas Hoga, Woh Aane Wala Tha Aa Chuka Hai
+  Hawari-e-Isa Ke Saath Hoṅge, Mawali Maula Ke Saath Hoṅge
+  Zahur Ka Waqt Aa Gaya Hai, Mawaliyoṅ Se Banaye Rakhna
 
   5
   Hai Intiqam-e-Husain Baqi, Woh Aane Wala Hisaab Lega
-  Aqeeda Apna Durust Rakhna, Jo Unki Nusrat Ki Hai Tamanna
-  Zahoor Ka Waqt Aa Gaya Hai, Amal Ko Bhi Aazmaye Rakhna
+  Aqida Apna Durust Rakhna, Jo Unki Nusrat Ki Hai Tamanna
+  Zahur Ka Waqt Aa Gaya Hai, Amal Ko Bhi Aazmaye Rakhna
 
   6
-  Siwaye Chand Ek Zahoor Ki Sab Alaamatein Puri Ho Chuki Hain
-  Baseerat-o-Marifat Tumhari Adu-e-Haq Ko Khatak Rahi Hain
-  Zahoor Ka Waqt Aa Gaya Hai Dil-o-Nazar Ko Bachaye Rakhna
+  Siwaye Chand Ek Zahur Ki Sab Alaamateiṅ Puri Ho Chuki Haiṅ
+  Basirat o Marifat Tumhari Adu-e-Haq Ko Khatak Rahi Haiṅ
+  Zahur Ka Waqt Aa Gaya Hai Dil o Nazar Ko Bachaye Rakhna
 
   7
   Naye Naye Naghmaha-e-Ulfat Jo Roz Keh Keh Ke La Rahe Ho
   Pa-e-Ziyarat Jo Sibt-e-Jafar Imam Ke Dar Par Aa Pare Ho
-  Zahoor Ka Waqt Aa Gaya Hai Tum Apna Bistar Lagaye Rakhna
+  Zahur Ka Waqt Aa Gaya Hai Tum Apna Bistar Lagaye Rakhna
 ---
 
 ۱

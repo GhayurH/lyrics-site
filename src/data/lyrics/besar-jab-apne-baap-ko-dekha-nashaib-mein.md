@@ -1,6 +1,6 @@
 ---
 title: "بے سر جو اپنے باپ کو دیکھا نشیب میں"
-alternateTitle: "Besar Jab Apne Baap Ko Dekha Nashaib Mein"
+alternateTitle: "Besar Jab Apne Baap Ko Dekha Nashaib Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,94 +9,94 @@ tags: []
 aliases:
   - "Besar Jab Apne Baap Ko Dekha Nashaib Mein"
 cover: "/images/lyrics/besar-jab-apne-baap-ko-dekha-nashaib-mein.png"
-coverAlt: "Cover image for Besar Jab Apne Baap Ko Dekha Nashaib Mein"
+coverAlt: "Cover image for Besar Jab Apne Baap Ko Dekha Nashaib Meiṅ"
 published: true
 romanLyrics: |-
-  sunsaan ban wo raat wo uth'ta hua dhuan
-  nikli padar ko dhoondne nanhi si ek jaan
+  sunsaan ban wo raat wo uthta hua dhuaṅ
+  nikli padar ko dhundne nanhi si ek jaaṅ
 
-  daaman jala huwa tha to kaanon se khun rawaan
-  neelai thai donon gaal tamachon ke thai nishaan
-  tuta tha kamsini mein masayib ka aasmaan
-  khati huwi wo thokarein lashon ke darmiyan
+  daaman jala huwa tha to kaanoṅ se khun rawaaṅ
+  nilai thai donoṅ gaal tamachoṅ ke thai nishaaṅ
+  tuta tha kamsini meiṅ masayib ka aasmaaṅ
+  khati huwi wo thokareiṅ lashoṅ ke darmiyaṅ
 
-  kehti thi baba jaan bata do ke ho kahan
-  ek laash bol uthi meri beti mein hoon yahan
+  kehti thi baba jaan bata do ke ho kahaṅ
+  ek laash bol uthi meri beti meiṅ huṅ yahaṅ
   lekar usi sada ka sahara puhanch gayi
-  roti hui nashaib mien dukhiya puhanch gayi
+  roti hui nashaib mieṅ dukhiya puhanch gayi
   
-  be-sar jo apne baap ko dekha nashaib mein
-  royi bohat yateem sakina nashaib mein
+  besar jo apne baap ko dekha nashaib meiṅ
+  royi bohat yatim sakina nashaib meiṅ
   
   1
   maqtal may laash baap ki jab sar kati mili
-  thi umr char saal ki bachi tadap gayi
+  thi umr char saal ki bachi tarap gayi
   beti jab apne baap ko pehchan na saki
   awaaz ya abaa ki sakina ne ro ke di
-  laasha ghareeb baap ka bola nashaib mein
-  royi bohat yateem sakina...
+  laasha gharib baap ka bola nashaib meiṅ
+  royi bohat yatim sakina...
 
   2
-  likha hai raawiyon ne wo manzar bada ajeeb
-  jangal wo kali raat wo ghurbat wo gham naseeb
-  awaaz sun ke baap ki pahunchi hai jab khareeb
-  haalat pidar ki dekh ke royi bohat ghareeb
-  beti ke saath baap bhi roya nashaib mein
-  royi bohat yateem sakina...
+  likha hai raawiyoṅ ne wo manzar bara ajib
+  jangal wo kali raat wo ghurbat wo gham nasib
+  awaaz sun ke baap ki pahunchi hai jab kharib
+  haalat pidar ki dekh ke royi bohat gharib
+  beti ke saath baap bhi roya nashaib meiṅ
+  royi bohat yatim sakina...
   
   3
-  aage barhi husain ki mazloom ghamzada
-  teeron se jism baap ka dekha bhara hua
-  ghabra ke teer jism se karne lagi juda
-  kamsin thi koi teer na us se nikal saka
-  paaya na jab husain ka seena nashaib mein
-  royi bohat yateem sakina...
+  aage barhi husain ki mazlum ghamzada
+  tiroṅ se jism baap ka dekha bhara hua
+  ghabra ke tir jism se karne lagi juda
+  kamsin thi koi tir na us se nikal saka
+  paaya na jab husain ka sina nashaib meiṅ
+  royi bohat yatim sakina...
 
   4
-  khaali na paayi jism pe teeron se koi jaa
+  khaali na paayi jism pe tiroṅ se koi jaa
   karne lagi tawaaf wo baba ki laash ka
-  mayoos ho ke payinti baithi wo ghamzada
-  rukhsaar apne baap ke talwon pe rakh diya
-  le kar padar ke paaon ka bosa nashaib mein
-  royi bohat yateem sakina...
+  mayus ho ke payinti baithi wo ghamzada
+  rukhsaar apne baap ke talwoṅ pe rakh diya
+  le kar padar ke paaoṅ ka bosa nashaib meiṅ
+  royi bohat yatim sakina...
   
   5
-  apne pidar ki laash pe le le ke siskiyan
-  wo apne dard baap se karne lagi bayan
-  rukh par bani thi saaf jo zaalim ki ungliyan
-  bachi ne jab dikhaye tamachon ke wo nishan
-  zakhmi badan husain ka tadpa nashaib mein
-  royi bohat yateem sakina...
+  apne pidar ki laash pe le le ke siskiyaṅ
+  wo apne dard baap se karne lagi bayaṅ
+  rukh par bani thi saaf jo zaalim ki ungliyaṅ
+  bachi ne jab dikhaye tamachoṅ ke wo nishaṅ
+  zakhmi badan husain ka tarpa nashaib meiṅ
+  royi bohat yatim sakina...
 
   6
-  phir ye kehne lagi ro ro ke yateema baba
-  mere baalon ko sitamgar ne jo pakda baba
+  phir ye kehne lagi ro ro ke yatima baba
+  mere baaloṅ ko sitamgar ne jo pakra baba
   maara zaalim ne mujhe aisa tamacha baba
-  cha gaya meri nigahon mein andhera baba
+  cha gaya meri nigahoṅ meiṅ andhera baba
 
   7
-  kehti thi mai yateem hoo mujh par na waar kar
-  ki minnatein bahot ki zara intezaar kar
+  kehti thi mai yatim hu mujh par na waar kar
+  ki minnateiṅ bahot ki zara intezaar kar
   mai de rahi thi shimr ko bunde utaar kar
-  cheene hai be rehm ne magar mujhko maar kar
-  ye dard jab pidar ko sunaya nashaib mein
-  royi bohat yateem sakina...
+  chine hai berehm ne magar mujhko maar kar
+  ye dard jab pidar ko sunaya nashaib meiṅ
+  royi bohat yatim sakina...
 
   8
-  jo haath sar pe roz phirate thai shah-e-deen
-  us haath ke qareeb jo aayi wo naazneen
-  apne pidar ke haath pe jis dam rakhi jabeen
-  us dam na thi yateem ke pairon tale zameen
-  bin unglion ka haath jo chuma nashaib mein
-  royi bohat yateem sakina...
+  jo haath sar pe roz phirate thai shah-e-diṅ
+  us haath ke qarib jo aayi wo naazniṅ
+  apne pidar ke haath pe jis dam rakhi jabiṅ
+  us dam na thi yatim ke pairoṅ tale zamiṅ
+  bin unglioṅ ka haath jo chuma nashaib meiṅ
+  royi bohat yatim sakina...
 
   9
-  waiz likhega kaun yateema ki bekasi
-  laashe shah e zaman se wo jis dam juda hui
+  waiz likhega kaun yatima ki bekasi
+  laashe shah-e-zaman se wo jis dam juda hui
   lagta tha ab jiyegi na bachi husain ki
   jaane lagi nasheb se jab sheh ki laadli
-  baba ko apne chod ke tanha nashaib mein
-  royi bohat yateem sakina...
+  baba ko apne chor ke tanha nashaib meiṅ
+  royi bohat yatim sakina...
 ---
 
 سنسان بن وہ رات وہ اٹھتا ہوا دھواں

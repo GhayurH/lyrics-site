@@ -18,3 +18,10 @@ test("search alias tokens are unique after bidirectional expansion", () => {
   const aliases = searchIndexAliases("Husain hussain Hussein hussayn").split(" ");
   assert.equal(new Set(aliases).size, aliases.length);
 });
+
+test("nasal Roman spellings remain searchable without diacritics", () => {
+  assert.equal(normalizeSearchToken("Kiuṅ"), "kiun");
+  for (const token of ["kyun", "kiun", "kiuṅ"])
+    assert(searchIndexAliases(token).includes("kiun") || token === "kiun");
+  assert(searchIndexAliases("kiuṅ").includes("kyun"));
+});

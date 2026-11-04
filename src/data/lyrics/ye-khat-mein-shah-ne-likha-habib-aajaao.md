@@ -1,6 +1,6 @@
 ---
 title: "یہ خط میں شاہؑ نے لکھا حبیب آجاؤ"
-alternateTitle: "Ye Khat Mein Shah Ne Likha, Habib Aajaao"
+alternateTitle: "Ye Khat Meiṅ Shah Ne Likha, Habib Aajaao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,61 +9,61 @@ tags: []
 aliases:
   - "Ye Khat Mein Shah Ne Likha, Habib Aajaao"
 cover: "/images/lyrics/ye-khat-mein-shah-ne-likha-habib-aajaao.png"
-coverAlt: "Cover image for Ye Khat Mein Shah Ne Likha, Habib Aajaao"
+coverAlt: "Cover image for Ye Khat Meiṅ Shah Ne Likha, Habib Aajaao"
 published: true
 romanLyrics: |-
-  Ye khat mein Shah ne likha, Habib aajaao
+  Ye khat meiṅ Shah ne likha, Habib aajaao
   Tumhara dost hai tanha, Habib aajaao
   
   1
-  Shaheed kaisey huwa wo bataaogey aakar
+  Shahid kaise huwa wo bataaogey aakar
   Tum haal-e-Muslim-e-baikas sunaaogey aakar
   Ruqayya takti hai rastaa Habib aajaao
   
   2
-  Lagaao is sey bhi andaazey meri ghurbat ke
-  Jahaan pey ibn-e-Ali likhna tha wahaan mein ne
-  Diya hai maan ka hawala, Habib aajaao
+  Lagaao is se bhi andaaze meri ghurbat ke
+  Jahaaṅ pey ibn-e-Ali likhna tha wahaaṅ meiṅ ne
+  Diya hai maaṅ ka hawala, Habib aajaao
   
   3
-  Bata raha tha usey koi bhi nahi hai mera
+  Bata raha tha use koi bhi nahi hai mera
   To boli Thaaniy-e-Zehra Habib aayega
   Hai usko tumpey bharosa, Habib aajaao
   
   4
-  Wo jab ye sunti hai Kufe se aarahey hain shaqi
+  Wo jab ye sunti hai Kufe se aarahe haiṅ shaqi
   To puchti hai hamaara bhi aayega koi
-  Duaaein deygi Sakina, Habib aajaao
+  Duaaeiṅ deygi Sakina, Habib aajaao
   
   5
-  Gawara kar nahin sakti Husain ki ghairat
-  Tumhari zauja ki chaadar ko lootley ummat
+  Gawara kar nahiṅ sakti Husain ki ghairat
+  Tumhari zauja ki chaadar ko lutley ummat
   Tum usko chorhkey Kufa Habib aajaao
   
   6
-  Mujhey hai yaad wo lamha Jo rab ki marzi se
-  Tum ho key zinda Meri baat sunney aaye they
-  Bula raha hun dubara Habib aajaao
+  Mujhe hai yaad wo lamha Jo rab ki marzi se
+  Tum ho ke zinda Meri baat sunne aaye the
+  Bula raha huṅ dubara Habib aajaao
   
   7
-  Dar-e-Batool dobaara jalaaya jaayega
-  Tumhaarey dost pey khanjar chalaaya jaayega
-  Nahin hai waqt zyaada Habib aajaao
+  Dar-e-Batul dobaara jalaaya jaayega
+  Tumhaare dost pey khanjar chalaaya jaayega
+  Nahiṅ hai waqt zyaada Habib aajaao
   
   8
-  Chamaktey chaand ki humko bhi deed hojaaye
-  Tum aao to merey bachon mein Eid hojaaye
+  Chamakte chaand ki humko bhi did hojaaye
+  Tum aao to mere bachoṅ meiṅ Eid hojaaye
   Bohat udaas hai kunba Habib aajaao
   
   9
-  Ye khat nahin isey behnon ki aarzu samjho
-  Hamaarey lafzon ko Zainab ki guftagu samjho
+  Ye khat nahiṅ ise behnoṅ ki aarzu samjho
+  Hamaare lafzoṅ ko Zainab ki guftagu samjho
   Behan ye kehti hai bhayya Habib aajaao
   
   10
-  Bahan ney usko takallum Jo bhai samjhaa tha
-  Pukaari sham-e-ghareeban mein Thaaniy-e-Zehra
-  Hamaara lut'taa hai pardaa Habib aajaao
+  Bahan ne usko takallum Jo bhai samjhaa tha
+  Pukaari sham-e-gharibaṅ meiṅ Thaaniy-e-Zehra
+  Hamaara lutta hai pardaa Habib aajaao
 ---
 
 یہ خط میں شاہؑ نے لکھا حبیب آجاؤ

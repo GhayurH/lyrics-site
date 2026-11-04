@@ -1,6 +1,6 @@
 ---
 title: "حسین جاتا ہے مرنے کو اے میری زینب"
-alternateTitle: "Husain Jaata Hai Marne Ko Ay Meri Zainab"
+alternateTitle: "Husain Jaata Hai Marne Ko Ae Meri Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ tags: []
 aliases:
   - "Husain Jaata Hai Marne Ko Ay Meri Zainab"
 cover: "/images/lyrics/husain-jaata-hai-marne-ko-ay-meri-zainab.png"
-coverAlt: "Cover image for Husain Jaata Hai Marne Ko Ay Meri Zainab"
+coverAlt: "Cover image for Husain Jaata Hai Marne Ko Ae Meri Zainab"
 published: true
 romanLyrics: |-
-  Husain jaata hai marne ko ay meri Zainab
-  Qareeb aa gaya ab waqt-e-aakhri Zainab
-  Salam tum pe ay Baba ki laadli Zainab
+  Husain jaata hai marne ko ae meri Zainab
+  Qarib aa gaya ab waqt-e-aakhri Zainab
+  Salam tum pe ae Baba ki laadli Zainab
   
-  Zainab ne kaha kaun hai pardes mein mera
-  Kyun jaate ho tum chhor ke bhaiya mujhe tanha
+  Zainab ne kaha kaun hai pardes meiṅ mera
+  Kiuṅ jaate ho tum chhor ke bhaiya mujhe tanha
   
   Zainab ko har ek mor pe tarpayegi dunya
   Yaad aaoge bhaiya
   
   1
   Baad aap ke hoga meri ghurbat ka ye aalam
-  Us waqt ghareebi bhi karegi mera matam
-  Sadaat ko jab raah mein dega koi sadqa
+  Us waqt gharibi bhi karegi mera matam
+  Sadaat ko jab raah meiṅ dega koi sadqa
   
   2
   Yaad aayega bhaiya mujhe armaan tumhara
   Tum dekh nahi paaye ho Akbar ka jo sehra
-  Dawat koi shaadi ki Madine mein jo dega
+  Dawat koi shaadi ki Madine meiṅ jo dega
   
   3
-  Is maah se mansoob thi bhaiya meri khushiyan
-  Thi sab se badi Eid meri teesri Shaban
+  Is maah se mansub thi bhaiya meri khushiyaṅ
+  Thi sab se bari Eid meri tisri Shabaṅ
   Shaban ke jab chand ko dekhegi ye behna
   
   4
@@ -43,13 +43,13 @@ romanLyrics: |-
   Ab dekhegi Zainab ke khule sar ko ye dunya
   
   5
-  Deedar bhi ho jayega beti ke bahane
-  Kya Shaam ke zindan mein aaoge sulane
+  Didar bhi ho jayega beti ke bahane
+  Kya Shaam ke zindaṅ meiṅ aaoge sulane
   Soyegi nahi jab meri lori se Sakina
   
   6
-  Hota tha Takallum yun juda bhai behan se
-  Jis tarha koi rooh nikalti ho badan se
+  Hota tha Takallum yuṅ juda bhai behan se
+  Jis tarha koi ruh nikalti ho badan se
   Sheh ran ko chale kehti rahi Sani-e-Zahra
 ---
 

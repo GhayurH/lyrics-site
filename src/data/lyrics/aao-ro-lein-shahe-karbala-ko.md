@@ -12,36 +12,36 @@ cover: "/images/lyrics/aao-ro-lein-shahe-karbala-ko.png"
 coverAlt: "Cover image for Aao Ro Lein Shahe Karbala Ko"
 published: true
 romanLyrics: |-
-  Aao ro len Shah-e Karbala ko
-  Zindagi ka bharosa nahin hai
+  Aao ro leṅ Shah-e Karbala ko
+  Zindagi ka bharosa nahiṅ hai
 
   1
-  Jo bhi girta hai is gham mein aansu
-  Koi bekaar jata nahin hai
+  Jo bhi girta hai is gham meiṅ aansu
+  Koi bekaar jata nahiṅ hai
 
   2
-  Jab jale honge khaime haram ke
-  Jab chhini hongi sar se ridayen
-  Kya bani hogi Sayyidaniyon par
-  Woh samaan dil se jata nahin hai
+  Jab jale hoṅge khaime haram ke
+  Jab chhini hongi sar se ridayeṅ
+  Kya bani hogi Sayyidaniyoṅ par
+  Woh samaaṅ dil se jata nahiṅ hai
 
   3
-  Bahr-e tazeem utho ay Akbar
+  Bahr-e tazim utho ae Akbar
   Parda dari karo mere dilbar
   Aa rahi hai sawari phuphi ki
-  Jis ka koi sahara nahin hai
+  Jis ka koi sahara nahiṅ hai
 
   4
-  Karbala mein jo jayegi Zainab
+  Karbala meiṅ jo jayegi Zainab
   Kya batayegi bhai ko Zainab
-  Chhut ke zindan se jo aa rahi hain
-  Un mein pyari Sakina nahin hai
+  Chhut ke zindaṅ se jo aa rahi haiṅ
+  Un meiṅ pyari Sakina nahiṅ hai
 
   5
-  Jab Madine mein jayegi Zainab
+  Jab Madine meiṅ jayegi Zainab
   Kya batayegi Sughra ko Zainab
-  Woh nishan-e rasan bazuon par
-  Neel ab tak bhi chhuta nahin hai
+  Woh nishan-e rasan bazuoṅ par
+  Nil ab tak bhi chhuta nahiṅ hai
 
 ---
 

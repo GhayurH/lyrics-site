@@ -20,9 +20,9 @@ romanLyrics: |-
   Bhai Tum Baad Hamare Jaate
   
   2
-  Is Tarha Lagti Na Akbar Ke Kaleje Pe Sinaan
-  Is Tarha Hoti Na Sadaat Ke Khaimon Mein Fughaan
-  Yun Na Zainab Ke Sahare Jaate
+  Is Tarha Lagti Na Akbar Ke Kaleje Pe Sinaaṅ
+  Is Tarha Hoti Na Sadaat Ke Khaimoṅ Meiṅ Fughaaṅ
+  Yuṅ Na Zainab Ke Sahare Jaate
   
   3
   Kaash Hote To Utha Laate Alamdaar Ki Laash
@@ -30,13 +30,13 @@ romanLyrics: |-
   Gar Na Zainab Ke Dulare Jaate
   
   4
-  Gardan-e-Shah Pe Yun Ran Mein Na Khanjar Chalta
-  Yun Na Khursheed-e-Imamat Sar-e-Maqtal Dhalta
-  Yun Na Sar Naizon Pe Saare Jaate
+  Gardan-e-Shah Pe Yuṅ Ran Meiṅ Na Khanjar Chalta
+  Yuṅ Na Khurshid-e-Imamat Sar-e-Maqtal Dhalta
+  Yuṅ Na Sar Naizoṅ Pe Saare Jaate
   
   5
   Hote Abbas To Chinti Na Rida Zainab Ki
-  Paaon Mein Abid-e-Muztar Ke Na Beri Dalti
+  Paaoṅ Meiṅ Abid-e-Muztar Ke Na Beri Dalti
   Taziyane Bhi Na Maare Jaate
   
   6
@@ -50,18 +50,18 @@ romanLyrics: |-
   Goshware Na Utare Jaate
   
   8
-  Kabhi Chehra Kabhi Baazu Kabhi Seena Peeta
+  Kabhi Chehra Kabhi Baazu Kabhi Sina Pita
   Qaidkhane Se Watan Aayi To Zainab Ne Kaha
-  Din Na Yun Gham Mein Guzare Jaate
+  Din Na Yuṅ Gham Meiṅ Guzare Jaate
   
   9
   Aaj Bhi Aati Hai Yeh Qabr-e-Sakina Se Sada
-  Ay Chacha Aati Na Zindaan Mein Hum Ko Yun Qaza
+  Ae Chacha Aati Na Zindaan Meiṅ Hum Ko Yuṅ Qaza
   Saath Gar Hum Bhi Tumhare Jaate
   
   10
-  Haal-e-Karbal Jo Koi Poochta Tha Noor-e-Ali
-  Ro Ke Zainab Yehi Deti Thi Sada Noor-e-Ali
+  Haal-e-Karbal Jo Koi Puchta Tha Nur-e-Ali
+  Ro Ke Zainab Yehi Deti Thi Sada Nur-e-Ali
 ---
 
 کاش عباس نہ مارے جاتے

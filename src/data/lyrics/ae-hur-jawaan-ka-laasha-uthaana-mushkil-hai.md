@@ -14,50 +14,50 @@ published: true
 romanLyrics: |-
   
   Ae Hur jawaan ka laasha uthaana mushkil hai
-  Pisar ke seene se barchhi churaana mushkil hai
+  Pisar ke sine se barchhi churaana mushkil hai
   
   1
-  Dil-e-padar ki jo haalat hai Hur samajhta hoon
-  Tumhaare sabr ki lekin main daad deta hoon
-  Ke jaise tum yahan aaye ho aana mushkil hai
+  Dil-e-padar ki jo haalat hai Hur samajhta huṅ
+  Tumhaare sabr ki lekin maiṅ daad deta huṅ
+  Ke jaise tum yahaṅ aaye ho aana mushkil hai
   
   2
   Jo haal hona hai Qasim ka us ka haal na ho
   Ke tere laal ki mayyat to paayemaal na ho
-  Main jaanta hoon ke tukre uthaana mushkil hai
+  Maiṅ jaanta huṅ ke tukre uthaana mushkil hai
   
   3
   Husain kehte the ro kar ye, Hur ke bete se
-  Samajh raha hoon aziyat, teri mere bachche
-  Bureeda halq se yun muskurana mushkil hai
+  Samajh raha huṅ aziyat, teri mere bachche
+  Burida halq se yuṅ muskurana mushkil hai
   
   4
   Pukaara Hur ka pisar ro ke ae Shah-e-Ismat
-  Salaam ke liye uthne ki bhi nahin himmat
-  Ke pyaase honton se Maula bulaana mushkil hai
+  Salaam ke liye uthne ki bhi nahiṅ himmat
+  Ke pyaase hontoṅ se Maula bulaana mushkil hai
   
   5
-  Ghareeb baap ka ye imtihaan nahin loonga
-  Tumhaare laal ko kandhon pe main uthaaoonga
-  Utha ke laash ko khemon mein jaana mushkil hai
+  Gharib baap ka ye imtihaaṅ nahiṅ lunga
+  Tumhaare laal ko kandhoṅ pe maiṅ uthaaunga
+  Utha ke laash ko khemoṅ meiṅ jaana mushkil hai
   
   6
-  Ye waqt kaisa hai tum ko khabar nahin bhai
-  Tumhaare saath tumhaari behan nahin aayi
+  Ye waqt kaisa hai tum ko khabar nahiṅ bhai
+  Tumhaare saath tumhaari behan nahiṅ aayi
   Jigar ka zakhm phuphi ko dikhana mushkil hai
   
   7
   Tumhaari zawja ko Zainab sambhalti bhaiya
-  Ajeeb waqt hai maa ko bataayenge a'da
+  Ajib waqt hai maa ko bataayenge aada
   Jo baap ke liye maa ko bataana mushkil hai
   
   8
-  Yun zard chehra hai jaise ke jaan nikalti hai
-  Main dekhta hoon kamar teri jhuk'ti jaati hai
+  Yuṅ zard chehra hai jaise ke jaaṅ nikalti hai
+  Maiṅ dekhta huṅ kamar teri jhukti jaati hai
   Tere liye ye shahadat bhulana mushkil hai
   
   9
-  Sadaayein aati theen Akbar ye Hur ke laashe se
+  Sadaayeiṅ aati thiṅ Akbar ye Hur ke laashe se
   Akele laasha-e-Akbar uthaaoge kaise
   Kaha tha aap ne mayyat uthaana mushkil hai
 ---

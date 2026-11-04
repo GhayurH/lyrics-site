@@ -13,43 +13,43 @@ coverAlt: "Cover image for Zainab Ne Ki Faryaad Nana"
 published: true
 romanLyrics: |-
   Zainab Ne Ki Faryaad Nana, Faryaad Nana Faryaad Nana
-  Hum Ho Ke Aaey Barbaad Nana
+  Hum Ho Ke Aaye Barbaad Nana
   
   1
-  Qatil Khara Tha Bhai Ke Sar Per, Roti Rahee Mein Katta Raha Sar
-  Karti Rahee Mei Faryaad Nana, Faryaad Nana Faryaad Nana
+  Qatil Khara Tha Bhai Ke Sar Per, Roti Rahi Meiṅ Katta Raha Sar
+  Karti Rahi Mei Faryaad Nana, Faryaad Nana Faryaad Nana
   
   2
-  Rasee Thi Ik aur Bara Gale The, Darbaar Mein Hum Aesay Gaey The
+  Rasi Thi Ik aur Bara Gale The, Darbaar Meiṅ Hum Aese Gaye The
   Hum Per Huwi Vo Baydaad Nana, Baydaad Nana Baydaad Nana
   
   3
-  Tauq-o-Salasil Gardan Mein Daalay, Zanjeer-o-Bairee Hathon Mei Pehnay
-  Chaltay Rahe Yun Sajjad Nana, Sajjad Nana Sajjad Nana
+  Tauq o Salasil Gardan Meiṅ Daale, Zanjir o Bairi Hathoṅ Mei Pehne
+  Chalte Rahe Yuṅ Sajjad Nana, Sajjad Nana Sajjad Nana
   
   4
-  Akbar Nahien Hai Asghar Nahien Hai, Qasim Nahien Hai Sarwar Nahien Hai
-  Aate Hain Mujhko Sub Yaad Nana, Sub Yaad Nana Sub Yaad Nana
+  Akbar Nahieṅ Hai Asghar Nahieṅ Hai, Qasim Nahieṅ Hai Sarwar Nahieṅ Hai
+  Aate Haiṅ Mujhko Sub Yaad Nana, Sub Yaad Nana Sub Yaad Nana
   
   5
-  Is Gham Se Mera Phatta Hay Seena, Qaidee Hai Ub Tak Bali Sakina
-  aur Hum Houay Hain Azaad Nana, Azaad Nana Azaad Nana
+  Is Gham Se Mera Phatta Hai Sina, Qaidi Hai Ub Tak Bali Sakina
+  aur Hum Houe Haiṅ Azaad Nana, Azaad Nana Azaad Nana
   
   6
-  Chader Nahien Thi Afsos Ser Per, Hum Bayrida The Shirin Ke Dar Per
-  Kaisee Thee haaye Uftaad Nana, Uftaad Nana Uftaad Nana
+  Chader Nahieṅ Thi Afsos Ser Per, Hum Bayrida The Shirin Ke Dar Per
+  Kaisi Thi haaye Uftaad Nana, Uftaad Nana Uftaad Nana
   
   7
-  Ujra Houa Hai Kumba Humara, Hum Hogaey Hain Ub Bay Sahara
+  Ujra Houa Hai Kumba Humara, Hum Hogaey Haiṅ Ub besahara
   Karbobala Hai Abaad Nana, Abaad Nana Abaad Nana
   
   8
-  Nana Tumhare Tatheer Wale, Ummat Ke Hathon Mein Bayrida The
+  Nana Tumhare Tathir Wale, Ummat Ke Hathoṅ Meiṅ Bayrida The
   Koi To Kerta Imdad Nana, Imdad Nana Imdad Nana
   
   9
-  Hiltha Tha Roza Hasnain-o-Qaiser, Zainab Jo Bolin Qabr-e-Nabi Per
-  Sunlay Humaree Rudaad Nana, Rudaad Nana Rudaad Nana
+  Hiltha Tha Roza Hasnain o Qaiser, Zainab Jo Boliṅ Qabr-e-Nabi Per
+  Sunlay Humari Rudaad Nana, Rudaad Nana Rudaad Nana
 ---
 زینبؑ نے کی فریاد نانا، فریاد نانا فریاد نانا
 ہم ہو کے آئے برباد نانا

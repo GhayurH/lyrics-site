@@ -1,6 +1,6 @@
 ---
 title: "ہر صنم کعبے میں حیران نظر آتا ہے"
-alternateTitle: "Har Sanam Kabay Main Hairaan Nazar Aata Hai"
+alternateTitle: "Har Sanam Kabe Maiṅ Hairaan Nazar Aata Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,31 +9,31 @@ tags: []
 aliases:
   - "Har Sanam Kabay Main Hairaan Nazar Aata Hai"
 cover: "/images/lyrics/har-sanam-kabay-main-hairaan-nazar-aata-hai.png"
-coverAlt: "Cover image for Har Sanam Kabay Main Hairaan Nazar Aata Hai"
+coverAlt: "Cover image for Har Sanam Kabe Maiṅ Hairaan Nazar Aata Hai"
 published: true
 romanLyrics: |-
   1
-  Har sanam kabay main hairaan nazar aata hai
+  Har sanam kabe maiṅ hairaan nazar aata hai
   kiya ise maut ka samaan nazar aata hai
   
   2
-  maan akeli thin Ali roye nahin kaabe mein
-  ghaar mein kis liye tufaan nazar aata hai
+  maaṅ akeli thiṅ Ali roye nahiṅ kaabe meiṅ
+  ghaar meiṅ kis liye tufaan nazar aata hai
   
   3
-  Fatima bint-e-Asad se kaha Ka‘bay mein chalen
-  Be-Ali ghar mera sunsaan nazar aata hai
+  Fatima bint-e-Asad se kaha Ka‘bemeiṅ chaleṅ
+  beAli ghar mera sunsaaṅ nazar aata hai
   
   4
-  aaj haathon pe uthaye hain ali ko ahmad
-  yani quran pa quran nazar aata hai
+  aaj haathoṅ pe uthaye haiṅ ali ko ahmad
+  yani quran pa quraṅ nazar aata hai
   
   5
-  Mezban arsh pe ik roz yahi to hoga
-  Aaj Ka‘bay mein jo mehman nazar aata hai
+  Mezbaṅ arsh pe ik roz yahi to hoga
+  Aaj Ka‘bay meiṅ jo mehman nazar aata hai
   
   6
-  naara-e-haideri maston ki zabaan se sunkar
+  naara-e-haideri mastoṅ ki zabaaṅ se sunkar
   maulvi sakht pareshaan nazar aata hai
   
   7
@@ -45,8 +45,8 @@ romanLyrics: |-
   khaandan-e-abu sufyan nazar aata hai
   
   9
-  Pa ke har bait ke badlay mein Asar bait-e-jinan
-  Milk mein mulk-e-Suleman nazar aata hai
+  Pa ke har bait ke badle meiṅ Asar bait-e-jinaṅ
+  Milk meiṅ mulk-e-Suleman nazar aata hai
 ---
 
 ۱

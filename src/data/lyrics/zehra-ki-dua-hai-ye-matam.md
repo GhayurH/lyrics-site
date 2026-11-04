@@ -16,39 +16,39 @@ romanLyrics: |-
   
   1
   Kaunain Ki Har Daulat De Kar, Is Gham Ki Hifazat Karna Hai
-  Shabbir Ki Khaatir Jeena Hai, Shabbir Ki Khaatir Marna Hai
-  Ye Jism Rahe Ya Mit Jaye, Mazloom Ka Matam Karna Hai
-  Zehra Ki Tamanna Poori Ho, Ye Jaan Rahe Ya Mit Jaye
+  Shabbir Ki Khaatir Jina Hai, Shabbir Ki Khaatir Marna Hai
+  Ye Jism Rahe Ya Mit Jaye, Mazlum Ka Matam Karna Hai
+  Zehra Ki Tamanna Puri Ho, Ye Jaan Rahe Ya Mit Jaye
   
   2
   Is Parcham Ki Azmat Ke Liye, Abbas Ne Baazu De Daale
-  Is Parcham Ki Izzat Ke Liye, Ghazi Ne Sahay Dil Par Bhaale
-  Is Parcham Ke Mashkeeza Se, Lipte Hai Sakina Ke Naale
+  Is Parcham Ki Izzat Ke Liye, Ghazi Ne Sahe Dil Par Bhaale
+  Is Parcham Ke Mashkiza Se, Lipte Hai Sakina Ke Naale
   Abbas-e-Ali Ka Parcham Hai, Ye Parcham Kaise Jhuk Jaye
   
   3
   Salaar-e-Husaini Kya Kehna, Meraj-e-Wafa Sartaj-e-Wafa
-  Har Mauj Tadapti Hai Ab Tak, Saahil Se Jo Tu Palta Pyasa
+  Har Mauj Tarapti Hai Ab Tak, Saahil Se Jo Tu Palta Pyasa
   Tha Hukm-e-Husaini Jang Na Ki, Har Waar Saha Har Zulm Saha
-  Tha Hosh Mein Jab Tak Fikr Ye Thi, Pyasi Na Sakina Reh Jaye
+  Tha Hosh Meiṅ Jab Tak Fikr Ye Thi, Pyasi Na Sakina Reh Jaye
   
   4
-  Jab Tak Ye Sakat Is Jism Mein Hai, Haq Apna Ada Kar Dena Hai
+  Jab Tak Ye Sakat Is Jism Meiṅ Hai, Haq Apna Ada Kar Dena Hai
   Is Matam Ki Saadat De Hum Ko, Ye Jaan Fida Kar Dena Hai
-  Ya Ashk Se Ya Khoon-e-Dil Se, Is Daaman Ko Bhar Dena Hai
-  Aayi Hai Yahan Ek Shehzaadi, Umeed Ka Daaman Phailaye
+  Ya Ashk Se Ya Khun-e-Dil Se, Is Daaman Ko Bhar Dena Hai
+  Aayi Hai Yahaṅ Ek Shehzaadi, Umid Ka Daaman Phailaye
   
   5
-  Wo Waqt Hai Ab Tak Aankhon Mein, Tha Khoon Mein Ghaltan Ibn-e-Ali
-  Aur Goonj Rahi Thi Maqtal Mein, Faryad-o-Fughan Ek Dukhiya Ki
-  Seene Se Bahein Khoon Ki Dhaare, Aur Haath Na Rukne Paaye Kabhi
-  Mazloom Ka Matam Hota Rahe, Zehra Ki Sada Jab Tak Aaye
+  Wo Waqt Hai Ab Tak Aankhoṅ Meiṅ, Tha Khun Meiṅ Ghaltaṅ Ibn-e-Ali
+  Aur Gunj Rahi Thi Maqtal Meiṅ, Faryad o Fughaṅ Ek Dukhiya Ki
+  Sine Se Baheiṅ Khun Ki Dhaare, Aur Haath Na Rukne Paaye Kabhi
+  Mazlum Ka Matam Hota Rahe, Zehra Ki Sada Jab Tak Aaye
   
   6
   Ye Matam Hai Hal Min Ki Sada, Har Ashk Hai Jazba-e-Nusrat Ka
-  Yun Haq Ki Taraf Aa Jaane Ka, Haasil Hai Abhi Tak Ek Mauqa
-  Pehchan Zameer-o-Dil Ki Sada, Is Matam Mein Shaamil Ho Ja
-  Shabbir Bulaate Hain Ab Tak, Gar Hurr Ho Kahin To Aa Jaye
+  Yuṅ Haq Ki Taraf Aa Jaane Ka, Haasil Hai Abhi Tak Ek Mauqa
+  Pehchan Zamir o Dil Ki Sada, Is Matam Meiṅ Shaamil Ho Ja
+  Shabbir Bulaate Haiṅ Ab Tak, Gar Hurr Ho Kahiṅ To Aa Jaye
 ---
 
 زہرا کی دعا ہے یہ ماتم، یہ ماتم کیسے رک جائے

@@ -15,27 +15,27 @@ romanLyrics: |-
   Parchame Ghazi Lehrata ghar ghar dekha
   
   1
-  mehkhaanon mein aaj ajab manzar dekha
-  Paimanon main jaam nahin Kausar dekha
+  mehkhaanon meiṅ aaj ajab manzar dekha
+  Paimanoṅ maiṅ jaam nahiṅ Kausar dekha
   
   2
   socho zara kiya hoga jawaani ka aalam
-  cheerte jisko bachpan mein ajdar dekha
+  chirte jisko bachpan meiṅ ajdar dekha
   
   3
-  jese utha lein haath barha kar phool koyi
+  jese utha leiṅ haath barha kar phul koyi
   dast-e-ali par aise dar-e-khaibar dekha
   
   4
-  qaul-e-nabi hai donon mein kuch farq nahin
+  qaul-e-nabi hai donoṅ meiṅ kuch farq nahiṅ
   kaaba dekha ya ke rukh-e-haider dekha
   
   5
-  paighambar ke yaar banein jo phirte thai
+  paighambar ke yaar baneiṅ jo phirte thai
   bhaagte unko maidan se aksar dekha
   
   6
-  waqt-e-nusrat kon raha hai seena sipar
+  waqt-e-nusrat kon raha hai sina sipar
   pusht pe kisne khonp diya khanjar dekha
   
   7
@@ -43,11 +43,11 @@ romanLyrics: |-
   aate huwe haaris par jo kankar dekha
   
   8
-  haq-e-haider chinne wale dunya mein
+  haq-e-haider chinne wale dunya meiṅ
   naam tere ruswayi ka daftar dekha
   
   9
-  karbobala ki jeet ka ik ailan hai ye
+  karbobala ki jit ka ik ailan hai ye
   parcham-e-ghazi lehrata ghar ghar dekha
 ---
 پرچمِ غازی لہراتا گھر گھر دیکھا

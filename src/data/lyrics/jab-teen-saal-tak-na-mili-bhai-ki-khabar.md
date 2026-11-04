@@ -1,6 +1,6 @@
 ---
 title: "جب تین سال تک نہ ملی بھائی کی خبر"
-alternateTitle: "Jab Teen Saal Tak Na Mili Bhai Ki Khabar"
+alternateTitle: "Jab Tin Saal Tak Na Mili Bhai Ki Khabar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,72 +9,72 @@ tags: []
 aliases:
   - "Jab Teen Saal Tak Na Mili Bhai Ki Khabar"
 cover: "/images/lyrics/jab-teen-saal-tak-na-mili-bhai-ki-khabar.png"
-coverAlt: "Cover image for Jab Teen Saal Tak Na Mili Bhai Ki Khabar"
+coverAlt: "Cover image for Jab Tin Saal Tak Na Mili Bhai Ki Khabar"
 published: true
 romanLyrics: |-
   1
-  Jab Teen Saal Tak Na Mili Bhai Ki Khabar
+  Jab Tin Saal Tak Na Mili Bhai Ki Khabar
   Ghar Se Hui Rawanah Wo Qum Ko Neko Seir
-  Pahunchi Wahan To Dekhi Kya Hai Wo Nauhagar
+  Pahunchi Wahaṅ To Dekhi Kya Hai Wo Nauhagar
   Kala Libaas Pehne Huye Hai Har Ek Bashar
   Aisi Khabar Suni Ke Jigar Gham Se Hil Gaya
-  Deedar Ka Jo Shauq Tha Mitti Mein Mil Gaya
+  Didar Ka Jo Shauq Tha Mitti Meiṅ Mil Gaya
   
   2
-  Ashraf-e-Shahr Ko Hui Maaloom Ye Khabar
-  Aayi Hai Qum Mein Khwahar-e-Sultan Bahr-o-Bar
+  Ashraf-e-Shahr Ko Hui Maalum Ye Khabar
+  Aayi Hai Qum Meiṅ Khwahar-e-Sultan Bahr o Bar
   Purse Ke Waste Huye Sab Jama Nauhagar
-  Jo Sunte Chaak Gareban Barahna Sar
-  Har Su Ye Dil Figar Jo Surat Ayan Hui
-  Masooma Ek Shia Ke Ghar Mehmaan Hui
+  Jo Sunte Chaak Garebaṅ Barahna Sar
+  Har Su Ye Dil Figar Jo Surat Ayaṅ Hui
+  Masuma Ek Shia Ke Ghar Mehmaan Hui
   
   3
-  Din Raat Gham Mein Bhai Ke Rehti Thi Dil Hazeen
-  Har Waqt Ashk-e-Gham Se Thi Aaloodah Aasteen
-  Chhote Bare Nauha Karte The Har Aan Momineen
-  Matam Sara Mein Auratein Rone Ko Aati Theen
-  Gham Tha Musafarat Mein Museebat Uthati Hai
+  Din Raat Gham Meiṅ Bhai Ke Rehti Thi Dil Haziṅ
+  Har Waqt Ashk-e-Gham Se Thi Aaludah Aastiṅ
+  Chhote Bare Nauha Karte The Har Aan Mominin
+  Matam Sara Meiṅ Aurateiṅ Rone Ko Aati Thiṅ
+  Gham Tha Musafarat Meiṅ Musibat Uthati Hai
   Matam Ki Saf Gharib Behan Ne Bichhai Hai
   
   4
   Phir Yaad Aaya Waqia Ek Karbalai Ka
   Pursa Diya Kisi Ne Na Zainab Ko Bhai Ka
-  Jo Haal Karbala Mein Tha Zahra Ki Jai Ka
+  Jo Haal Karbala Meiṅ Tha Zahra Ki Jai Ka
   Gham Khwahar-e-Raza Ko Tha Shah Ki Judai Ka
-  Koh-e-Malal Dil Pe Uthane Se Uth Gayin
-  Aakhir Usi Qalaq Mein Zamane Se Uth Gayin
+  Koh-e-Malal Dil Pe Uthane Se Uth Gayiṅ
+  Aakhir Usi Qalaq Meiṅ Zamane Se Uth Gayiṅ
   
   5
-  Kal Solah Roz Qum Mein Raheen Badal Hazeen
-  Jannat Mein Ki Ziyarat Shah-e-Falak Nasheen
-  Takleef Dard-e-Hijr Se Jaan Bar Hui Nahin
-  Bhai Ki Shakl Aankhon Mein Thi Waqt-e-Wapaseen
-  Bagh-e-Jahan Se Sue Jinaan Kooch Kar Gayin
-  Bas Haye Bhai Keh Aur Mar Gayin
+  Kal Solah Roz Qum Meiṅ Rahiṅ Badal Haziṅ
+  Jannat Meiṅ Ki Ziyarat Shah-e-Falak Nashiṅ
+  Taklif Dard-e-Hijr Se Jaaṅ Bar Hui Nahiṅ
+  Bhai Ki Shakl Aankhoṅ Meiṅ Thi Waqt-e-Wapasiṅ
+  Bagh-e-Jahaṅ Se Sue Jinaaṅ Kuch Kar Gayiṅ
+  Bas Haye Bhai Keh Aur Mar Gayiṅ
   
   6
-  Shiyon Ka Ek Hujoom Janaze Ke Sath Tha
-  Ghusl-o-Kafan Ke Baad Ye Aapas Mein The Goya
+  Shiyoṅ Ka Ek Hujum Janaze Ke Sath Tha
+  Ghusl o Kafan Ke Baad Ye Aapas Meiṅ The Goya
   Qadir Ghulam Aap Ka Hai Mard-e-Parsa
-  Masooma Ko Muhammad Ne Utare Wo Ba-Haya
-  Is Khidmat-e-Jaleel Ke Qabil Koi Nahin
-  Yaan Koi Aur Is Se Siwa Muttaqi Nahin
+  Masuma Ko Muhammad Ne Utare Wo Ba-Haya
+  Is Khidmat-e-Jalil Ke Qabil Koi Nahiṅ
+  Yaaṅ Koi Aur Is Se Siwa Muttaqi Nahiṅ
   
   7
-  Ye Batein Ho Rahi Theen Yakayak Utha Ghubar
+  Ye Bateiṅ Ho Rahi Thiṅ Yakayak Utha Ghubar
   Rukh Par Naqab Dale Nazar Aaya Ek Sawar
   Barh Kar Zaban-e-Haal Se Bola Wo Sogwar
-  Haan Haan Phuphi Ki Laash Ko Chhoona Na Zeenhar
-  Mujh Ko Yahi Umeed Thi Tum Sab Ki Zaat Se
+  Haaṅ Haaṅ Phuphi Ki Laash Ko Chhuna Na Zinhar
+  Mujh Ko Yahi Umid Thi Tum Sab Ki Zaat Se
   Dafnaunga Phuphi Ko Magar Apne Hath Se
   
   8
   Wo Tha Nawas-e-Imam Janaze Par Aa Gaya
   Parh Kar Namaz Dafn Kiya Laasha Aap Ka
-  Pinhan Hua Nigahon Se Aalam Ka Peshwa
-  Aayi Jinaan Se Fatima Zahra Ki Ye Nida
-  Zainab Ki Tarah Hai To Museebat Zadah Behan
-  Ghurbat Naseeb Bhai Hai Ghurbat Zadah Behan
+  Pinhaṅ Hua Nigahoṅ Se Aalam Ka Peshwa
+  Aayi Jinaaṅ Se Fatima Zahra Ki Ye Nida
+  Zainab Ki Tarah Hai To Musibat Zadah Behan
+  Ghurbat Nasib Bhai Hai Ghurbat Zadah Behan
 ---
 
 ۱

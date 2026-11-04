@@ -19,12 +19,14 @@ const review = ["Editorial and mapping regressions", "review-content.mjs", "--su
 const stages = mode === "--check"
   ? [
       ["Canonical Bibi spelling", "normalize-bibi.mjs", "--check"],
+      ["Roman Urdu orthography", "normalize-roman.mjs", "--check"],
       ["Basta index title labels", "sync-basta-index.mjs", "--check"],
       ["Permanent recitation identities", "recitation-identities.mjs", "--check"],
       review,
     ]
   : [
       ["Normalize Bibi spelling", "normalize-bibi.mjs", "--write"],
+      ["Normalize Roman Urdu spelling", "normalize-roman.mjs", "--write"],
       ["Reconcile Basta title labels", "sync-basta-index.mjs"],
       ["Verify reviewed fragment openings", "refresh-basta-fragments.mjs",
         approvedPages ? "--pages=" + approvedPages : "--check"],

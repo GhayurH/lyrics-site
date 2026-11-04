@@ -17,15 +17,15 @@ romanLyrics: |-
   
   1
   Meri chadar lut layi zaalima ne,
-  Darbaar gayi main baanj rida
+  Darbaar gayi maiṅ baanj rida
   
   2
   Dur khich laye sainr Sakina de,
   Haye kendi rai baba baba
   
   3
-  Roya khun muhari us welay,
-  Jadon ayi nazar ono Shaam di raat
+  Roya khun muhari us wele,
+  Jadoṅ ayi nazar ono Shaam di raat
 ---
 
 ہائے ہائے زینب

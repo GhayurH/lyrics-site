@@ -1,6 +1,6 @@
 ---
 title: "نازاں ہیں ہم کہ ہم کو درِ مرتضیٰ ملا"
-alternateTitle: "Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
+alternateTitle: "Naazaṅ Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,11 +9,11 @@ tags: []
 aliases:
   - "Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 cover: "/images/lyrics/naazan-hai-hum-ke-hum-ko-dare-murtaza-milaa.png"
-coverAlt: "Cover image for Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
+coverAlt: "Cover image for Naazaṅ Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 published: true
 romanLyrics: |-
   1
-  Naazan hai hum ke hum ko dare murtaza Milaa
+  Naazaṅ hai hum ke hum ko dare murtaza Milaa
   Yei dar hummay Milla to dare murtaza Milaa
   
   2
@@ -22,23 +22,23 @@ romanLyrics: |-
   
   3
   Aalam tamam bol rahaa thaa Ali Ali
-  Mai bhi sadaaein deta huwa un se ja mila
+  Mai bhi sadaaeiṅ deta huwa un se ja mila
   
   4
-  Chayra jahan Ali ki wilaayat ka tazkera
+  Chayra jahaṅ Ali ki wilaayat ka tazkera
   Murjhaa gayaa koyi koyi Chehra khila mila
   
   5
-  Sajda furoo-e-deen hai Shabbir asl-e-deen
-  Shabbir mil gaye jisay usko khudaa mila
+  Sajda furu-e-din hai Shabbir asl-e-din
+  Shabbir mil gaye jise usko khudaa mila
   
   6
-  laakhon hazarzon saal ke sajde hawa huwe
-  iblis ko batao to sajdon se kiya mila
+  laakhoṅ hazarzoṅ saal ke sajde hawa huwe
+  iblis ko batao to sajdoṅ se kiya mila
   
   7
-  dunya ki chah mein huwi dunya bhi uski ghair
-  haider ki dushmani mein bhala usko kiya mila
+  dunya ki chah meiṅ huwi dunya bhi uski ghair
+  haider ki dushmani meiṅ bhala usko kiya mila
   
   8
   Himmat hai shart aik qadam ka hai faaslaa

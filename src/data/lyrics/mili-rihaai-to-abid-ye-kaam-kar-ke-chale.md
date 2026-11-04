@@ -22,7 +22,7 @@ romanLyrics: |-
   
   2
   Dua Jo Karti Thi Ro Ro Ke Wo Bhi Din Aaye
-  Wo Jis Ke Dil Mein Ye Armaan Tha Watan Jaye
+  Wo Jis Ke Dil Meiṅ Ye Armaan Tha Watan Jaye
   Use Hawala-e-Zindaan-e-Shaam Kar Ke Chale
   
   3
@@ -31,8 +31,8 @@ romanLyrics: |-
   Ye Intezaam Bhi Chauthe Imam Kar Ke Chale
   
   4
-  Zafar Sada Yehi Aati Thi Ay Mere Baba
-  Sabhi Watan Gaye Main Qaid Mein Rahi Tanha
+  Zafar Sada Yehi Aati Thi Ae Mere Baba
+  Sabhi Watan Gaye Maiṅ Qaid Meiṅ Rahi Tanha
   Lahad Pe Ahl-e-Haram Jab Salaam Kar Ke Chale
 ---
 

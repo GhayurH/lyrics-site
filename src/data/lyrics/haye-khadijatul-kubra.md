@@ -12,9 +12,9 @@ cover: "/images/lyrics/haye-khadijatul-kubra.png"
 coverAlt: "Cover image for Haye Khadijatul Kubra"
 published: true
 romanLyrics: |-
-  do jahan mein matam hai, rehlat-e-Khadija se
+  do jahan meiṅ matam hai, rehlat-e-Khadija se
   haaye Khadijatul Kubra
-  farsh-o-arsh par gham hai, rehlat-e-Khadija se
+  farsh o arsh par gham hai, rehlat-e-Khadija se
   haaye Khadijatul Kubra
   
   1
@@ -23,33 +23,33 @@ romanLyrics: |-
   muztarib yeh aalam hai, rehlat-e-Khadija se
   
   2
-  saal bhar bichega ab, farsh-e-majlis-o-matam
-  Ahl-e-Bayt ke ghar mein, hoga hashr ka aalam
+  saal bhar bichega ab, farsh-e-majlis o matam
+  Ahl-e-Bayt ke ghar meiṅ, hoga hashr ka aalam
   chashm-e-Fatima nam hai, rehlat-e-Khadija se
   
   3
   maa ki tarah bibi ko, kull-e-Haq ne jab khoya
-  haan Ali sa sabir bhi, phoot phoot kar roya
-  jaari ashk paiham hain, rehlat-e-Khadija se
+  haaṅ Ali sa sabir bhi, phut phut kar roya
+  jaari ashk paiham haiṅ, rehlat-e-Khadija se
   
   4
-  kaun kalma goyon ko, zulmaton mein paalega
-  kaun ab Muhammad ko, karb mein sambhalega
+  kaun kalma goyoṅ ko, zulmatoṅ meiṅ paalega
+  kaun ab Muhammad ko, karb meiṅ sambhalega
   pusht-e-Mustafa kham hai, rehlat-e-Khadija se
   
   5
-  gham hai daswein roze mein, jaise das Muharram ka
+  gham hai dasweiṅ roze meiṅ, jaise das Muharram ka
   haath khud hi matam ko, utha Ahl-e-Matam ka
-  haan aza ka mausam hai, rehlat-e-Khadija se
+  haaṅ aza ka mausam hai, rehlat-e-Khadija se
   
   6
   lo janaza uthta hai, aaj Umm-e-Zahra ka
   zarra zarra rota hai, khak-e-shahr-e-Makkah ka
-  kainat be-dam hai, rehlat-e-Khadija se
+  kainat bedam hai, rehlat-e-Khadija se
   
   7
-  har taraf se chalti hai, gham ki aandhiyan Hamid
-  Ahl-e-Bayt ke ghar mein, ab khushi kahan Hamid
+  har taraf se chalti hai, gham ki aandhiyaṅ Hamid
+  Ahl-e-Bayt ke ghar meiṅ, ab khushi kahaṅ Hamid
   gham hi gham muqaddam hai, rehlat-e-Khadija se
 ---
 
