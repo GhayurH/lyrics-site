@@ -98,7 +98,9 @@ export function normalizeRomanMarkdown(content, path = "") {
       const hasN = /[nṅ]$/iu.test(word);
       const hasOldYe = /(?:ay|ey)$/iu.test(word);
       const hasD = /d/iu.test(word) && !/r/iu.test(word);
-      if (!hasN && !hasOldYe && !hasD && !/^(?:he|hey|hae|hay|haey)$/iu.test(word)) continue;
+      const hasLong = /oo|ee/iu.test(word);
+      if (!hasN && !hasOldYe && !hasD && !hasLong &&
+          !/^(?:he|hey|hae|hay|haey)$/iu.test(word)) continue;
       const stem = romanSkeleton(word);
       const pos = (m.index + word.length / 2) / Math.max(line.length, 1);
       const ranked = sources.flatMap(source => {
@@ -132,6 +134,10 @@ export function normalizeRomanMarkdown(content, path = "") {
            ranked[1].source.text.endsWith("ن") !== hit.source.text.endsWith("ن"))) continue;
       // Never replace unverified roman text just because nearby Urdu contains ں.
       let dest = hit.candidate;
+      if (hit.source.text.includes("و") || hit.source.text.includes("ؤ"))
+        dest = dest.replace(/oo/giu, vowel => cap(vowel, "u"));
+      if (hit.source.text.includes("ی"))
+        dest = dest.replace(/ee/giu, vowel => cap(vowel, "i"));
       if (hit.source.text.endsWith("ں"))
         dest = dest.replace(/n$/iu, ch => ch === "N" ? "Ṅ" : "ṅ");
       else if (hit.source.text.endsWith("ن"))

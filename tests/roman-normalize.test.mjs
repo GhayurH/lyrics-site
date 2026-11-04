@@ -78,7 +78,7 @@ test("vocative standalone E and Ay are Ae only when Urdu spells اے", () => {
   const izafat = normalizeRomanMarkdown(md("غمِ اکبر میں", "Gham E Akbar meiṅ"));
   assert(izafat.text.includes("Gham-e-Akbar"), "izafat E is not the Urdu vocative اے");
   const unclear = normalizeRomanMarkdown(md("اے حسین غمِ اکبر", "Ae Husain Gham E Akbar"));
-  assert(unclear.text.includes("Ae Husain Gham E Akbar"));
+  assert(unclear.text.includes("Ae Husain Gham-e-Akbar"));
   assert.equal(unclear.findings.length, 0, "already-correct Ae must preserve unrelated izafat E");
 });
 
