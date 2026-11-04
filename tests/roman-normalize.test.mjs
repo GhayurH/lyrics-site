@@ -158,3 +158,24 @@ test("Roman apostrophe+n nasal is removed only with a nasal Urdu source", () => 
   const b = normalizeRomanMarkdown(md("امن میں", "aman meiṅ"));
   assert(b.text.includes("aman meiṅ"), b.text);
 });
+
+
+test("Urdu-backed scholarly apostrophes become plain Roman vowels", () => {
+  const cases = [
+    ["قطعات", "Qita'aat", "Qitaat"],
+    ["قطعہ", "Qit'a", "Qita"],
+    ["زعفر", "Za'far", "Zafar"],
+    ["شفاعت", "shafa’at", "shafaat"],
+    ["معذور", "Ma’zur", "Maazur"],
+    ["تعجیل", "ta’jil", "taajil"],
+    ["جھکتی", "jhuk'ti", "jhukti"],
+    ["اٹھتا", "uth'ta", "uthta"],
+    ["سائلوں", "Sa'ilon", "Sailoṅ"],
+  ];
+  for (const [urdu, old, canonical] of cases) {
+    const result = normalizeRomanMarkdown(md(urdu, old), "src/data/lyrics/ex.md");
+    assert(result.text.includes("  " + canonical), JSON.stringify({ urdu, old, result: result.text }));
+  }
+  assert(normalizeRomanMarkdown(md("شاعری", "Qit'a")).text.includes("Qit'a"),
+    "Do not replace a different Urdu word with guessed phonetics");
+});

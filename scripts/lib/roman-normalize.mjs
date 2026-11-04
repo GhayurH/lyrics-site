@@ -218,6 +218,24 @@ export function normalizeRomanMarkdown(content, path = "") {
       [/کر\s*دیں/u, /\bdein\b/giu, "deiṅ"],
       [/رولوں/u, /\blun\b/giu, "luṅ"],
       [/خواں/u, /\bkhwan\b/giu, "khwaṅ"],
+      // Urdu/Persian words: remove scholarly ayn/hamza separators while
+      // preserving the pronounced vowel represented in ordinary Roman Urdu.
+      [/قطعات/u, /\bqita['’]aat\b/giu, "qitaat"],
+      [/قطعہ/u, /\bqit['’]a\b/giu, "qita"],
+      [/زعفر/u, /\bza['’]far\b/giu, "zafar"],
+      [/معذور/u, /\bma['’]zur\b/giu, "maazur"],
+      [/شفاعت/u, /\bshafa['’]at\b/giu, "shafaat"],
+      [/تعجیل/u, /\bta['’]jil\b/giu, "taajil"],
+      [/اعدا/u, /\ba['’]da\b/giu, "aada"],
+      [/لُ?ٹتا/u, /\blut['’]taa\b/giu, "lutta"],
+      [/جھکتی/u, /\bjhuk['’]ti\b/giu, "jhukti"],
+      [/اٹھتا/u, /\buth['’]ta\b/giu, "uthta"],
+      [/پیٹتی/u, /\bpit['’]ti\b/giu, "pitti"],
+      [/سائلوں/u, /\bsa['’]ilon\b/giu, "sailoṅ"],
+      [/شیعیان/u, /\bshia['’]an\b/giu, "shiaan"],
+      [/طعنہ/u, /\bta['’]na\b/giu, "taana"],
+      [/طعن/u, /\bta['’]n\b/giu, "taan"],
+      [/نزع/u, /\bnaz['’]\b/giu, "naza"],
     ];
     let result = line;
     for (const [printed, variant, canonical] of mappings)
@@ -249,7 +267,7 @@ export function normalizeRomanMarkdown(content, path = "") {
       s = s.replace(/(?<=\s)O(?=\s)/gu, "o");
     if (/بے\s+\S/u.test(urdu))
       s = s.replace(/\b[Bb]e\s+([A-Za-z]+)/gu, (_whole, component) =>
-        s.match(/^\s*Be\b/u) ? "Be" + component.toLowerCase() : "be" + component.toLowerCase());
+        _whole[0] === "B" ? "Be" + component.toLowerCase() : "be" + component.toLowerCase());
     // Long u/i never use oo/ee in Roman Urdu. A corresponding Urdu source
     // line must contain the respective vowel before touching a token.
     // Long vowels must be anchored to the corresponding Urdu word; a
