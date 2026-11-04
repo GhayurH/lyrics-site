@@ -13,6 +13,7 @@ An intentionally untranscribed **whole Basta page** remains untranscribed. This 
 - Represent **ع** and **ء** as **a** in words where they are pronounced; apply this phonetic convention using the Urdu reading, rather than mechanically inserting an extra `a` in every word. Do not write scholarly apostrophe/ayn characters.
 - Distinguish **main** (I), **mein** (in), **kya** (what), **kiya** (did) by meaning, and preserve separately pronounced word forms.
 - **Kiun** (written **Kiuṅ** with Urdu nasal ں), never `kyun`. Canonical **Husain**, **Hasan**, **Bibi**. **Zehra** and **Zahra** are both legitimate when supported by the pronunciation of the *specific poem*; never globally replace one with the other.
+- The standalone Urdu vocative **اے** is **Ae** (or lowercase **ae** inside a lowercase verse); never standalone **E**, **Ay**, **Aye** or **Ey** for that word. Isolated Roman **e** can also indicate izafat and must be matched to the Urdu before replacement.
 - Roman typography: poem titles use Title Case; verses use sentence-initial capitals and proper-name capitals, not title case on every word. Keep source line breaks, verse sequence, stanza numbering and meaningful punctuation.
 
 ## Compounds and repetition

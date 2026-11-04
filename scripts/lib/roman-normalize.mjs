@@ -81,6 +81,39 @@ export function normalizeRomanMarkdown(content, path = "") {
     return line;
   }
 
+
+  /** A standalone Roman E/e/Ay/Aye/Ey represents the Urdu vocative 'اے'
+   * only when the SAME source line contains that complete Urdu word. Roman
+   * 'e' is also used for izafat, so it must never be rewritten globally.
+   * Ambiguous mixed cases are reported rather than guessed. */
+  function normalizeVocative(line, source, label) {
+    if (!source) return line;
+    const u = plain(source);
+    const urduCount = [...u.matchAll(/(?<!\p{L})اے(?!\p{L})/gu)].length;
+    if (!urduCount) return line;
+    const matches = [...line.matchAll(/(?<![\p{L}\p{M}-])(?:Ae|Aye|Ay|Ey|E)(?![\p{L}\p{M}-])/giu)];
+    const existing = matches.filter(m => /^ae$/iu.test(m[0]));
+    const variants = matches.filter(m => !/^ae$/iu.test(m[0]));
+    if (!variants.length) return line;
+    if (matches.length > urduCount) {
+      // If canonical Ae is already present, any extra E may be izafat.
+      // Otherwise a line may contain both izafat and an uncorrected vocative.
+      findings.push("Ambiguous vocative/izafat in " + label + ": " + line);
+      return line;
+    }
+    if (matches.length !== urduCount) {
+      findings.push("Unaligned vocative in " + label + ": " + line);
+      return line;
+    }
+    let edited = line;
+    for (const m of variants.reverse()) {
+      const old = m[0], replacement = old === old.toUpperCase()
+        ? "AE" : old[0] === old[0].toUpperCase() ? "Ae" : "ae";
+      edited = edited.slice(0, m.index) + replacement + edited.slice(m.index + old.length);
+    }
+    return edited;
+  }
+
   function sourceAware(line, urdu) {
     let s = line.replace(/\b(hussain|hassan|kyun)\b/giu, word =>
       cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()]));
@@ -92,6 +125,7 @@ export function normalizeRomanMarkdown(content, path = "") {
       .replace(/\b([A-Za-zṅ]+)-\1\b/giu, "$1 $1");
     if (!urdu) return s;
     const u = plain(urdu);
+    s = normalizeVocative(s, u, path + " Roman/Urdu line");
     // Long u/i never use oo/ee in Roman Urdu. A corresponding Urdu source
     // line must contain the respective vowel before touching a token.
     if (u.includes("و")) s = s.replace(/oo/giu, word => cap(word, "u"));
@@ -156,7 +190,14 @@ export function normalizeRomanMarkdown(content, path = "") {
       (whole, field, quote, value) => field + ": " + quote +
         value.replace(/\b(hussain|hassan|kyun)\b/giu, word =>
           cap(word, ({ hussain: "Husain", hassan: "Hasan", kyun: "kiun" })[word.toLowerCase()])) + quote);
-  const result = "---\n" + rewrittenHead + "\n---\n" + body;
+  // Titles have a direct Urdu title available, unlike unrelated metadata.
+  // Never rewrite aliases globally: their historical spellings support search.
+  const urduTitle = /^title:\s*(?:"([^"]*)"|'([^']*)'|(.+))$/mu.exec(match[1]);
+  const printedTitle = urduTitle?.[1] ?? urduTitle?.[2] ?? urduTitle?.[3] ?? "";
+  const safeHead = rewrittenHead.replace(/^(alternateTitle:\s*)(["'])(.*?)\2$/gmu,
+    (whole, key, quote, title) =>
+      key + quote + normalizeVocative(title, printedTitle, path + " alternateTitle") + quote);
+  const result = "---\n" + safeHead + "\n---\n" + body;
   return { text: result, changed: result !== content, findings, underlined: repeated,
     paired: pairs.size, totalRomanLines: romanSource.length };
 }

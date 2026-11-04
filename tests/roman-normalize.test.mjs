@@ -63,3 +63,26 @@ test("normal noon is never nasalized by misleading token positions", () => {
   assert(mixedResult.text.includes("Kahaṅ hai mera Husain"));
   assert(!mixedResult.text.includes("Husaiṅ"));
 });
+
+test("vocative standalone E and Ay are Ae only when Urdu spells اے", () => {
+  const matching = md("اے فرضی باپ کے بیٹوں", "E farzi baap ke betoṅ");
+  const corrected = normalizeRomanMarkdown(matching);
+  assert(corrected.text.includes("Ae farzi baap ke betoṅ"));
+  const lower = normalizeRomanMarkdown(md("چلے آؤ اے ابن", "Chale aao e Ibn"));
+  assert(lower.text.includes("Chale aao ae Ibn"));
+  const older = normalizeRomanMarkdown(md("اے مولا", "Ay Maula"));
+  assert(older.text.includes("Ae Maula"));
+  const izafat = normalizeRomanMarkdown(md("غمِ اکبر میں", "Gham E Akbar meiṅ"));
+  assert(izafat.text.includes("Gham E Akbar"), "a standalone E is not always اے");
+  const unclear = normalizeRomanMarkdown(md("اے حسین غمِ اکبر", "Ae Husain Gham E Akbar"));
+  assert(unclear.text.includes("Ae Husain Gham E Akbar"));
+  assert(unclear.findings.some(x => x.includes("Ambiguous")));
+});
+
+test("alternate title E is corrected only when source Urdu title uses اے", () => {
+  const base = md("اے حسین", "Ae Husain");
+  const source = base.replace("title: نام", "title: اے حسین\nalternateTitle: \"E Husain\"");
+  assert(normalizeRomanMarkdown(source).text.includes('alternateTitle: "Ae Husain"'));
+  const izafat = base.replace("title: نام", "title: غمِ حسین\nalternateTitle: \"Gham E Husain\"");
+  assert(normalizeRomanMarkdown(izafat).text.includes('alternateTitle: "Gham E Husain"'));
+});
