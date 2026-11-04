@@ -331,20 +331,20 @@ export function normalizeRomanMarkdown(content, path = "") {
     });
   // Source-backed headings also drive reader captions and accessibility
   // text. Keep legacy aliases untouched for search/backward-compatible URLs.
-  const printedHaalLine = /^haal:\\s*(?:"([^"]*)"|'([^']*)'|(.+))$/mu.exec(match[1]);
+  const printedHaalLine = /^haal:\s*(?:"([^"]*)"|'([^']*)'|(.+))$/mu.exec(match[1]);
   const printedHaal = printedHaalLine?.[1] ?? printedHaalLine?.[2] ??
     printedHaalLine?.[3] ?? "";
-  const withHaal = safeHead.replace(/^(romanHaal:\\s*)(["'])(.*?)\\2$/gmu,
+  const withHaal = safeHead.replace(/^(romanHaal:\s*)(["'])(.*?)\2$/gmu,
     (_whole, key, quote, value) => {
       let changed = normalizeVocative(value, printedHaal, path + " romanHaal");
       changed = normalizeIzafat(changed, printedHaal);
       changed = reconcileSourceWords(changed, printedHaal);
       return key + quote + normalizeSourceBoundInflections(changed, printedHaal) + quote;
     });
-  const romanHeading = /^alternateTitle:\\s*(?:"([^"]*)"|'([^']*)')$/mu.exec(withHaal);
+  const romanHeading = /^alternateTitle:\s*(?:"([^"]*)"|'([^']*)')$/mu.exec(withHaal);
   const canonicalHeading = romanHeading?.[1] ?? romanHeading?.[2] ?? "";
   const accessibleHead = canonicalHeading
-    ? withHaal.replace(/^(coverAlt:\\s*)(["'])Cover image for .*\\2$/gmu,
+    ? withHaal.replace(/^(coverAlt:\s*)(["'])Cover image for .*\2$/gmu,
       (_whole, key, quote) => key + quote + "Cover image for " + canonicalHeading + quote)
     : withHaal;
   const result = "---\n" + accessibleHead + "\n---\n" + body;
