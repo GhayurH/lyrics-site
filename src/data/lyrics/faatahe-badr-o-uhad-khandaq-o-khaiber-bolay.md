@@ -30,7 +30,7 @@ romanLyrics: |-
   
   5
   *aaj to arsh-e-mualla pe hai rindon ka dimaagh
-  aaj peene ke liye ke liye saqi-e-kauthar bole
+  aaj pine ke liye ke liye saqi-e-kauthar bole
   
   6
   *Baakhuda is meiṅ nusairi ki nahiṅ koyi khataa

@@ -42,7 +42,7 @@ romanLyrics: |-
   
   6
   Qasid ko diya khat meiṅ, yeh paigham likhaa ke
-  Ik bar tu miljaa mujhe, seene se laga ke
+  Ik bar tu miljaa mujhe, sine se laga ke
   Pathraati huwi nazrein, kab dekheingi chehra.
   
   7

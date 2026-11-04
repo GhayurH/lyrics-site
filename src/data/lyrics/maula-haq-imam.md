@@ -13,7 +13,7 @@ coverAlt: "Cover image for Maula Haq Imam"
 published: true
 romanLyrics: |-
   1
-  Wo Aabid-e-beemar tha
+  Wo Aabid-e-bimar tha
   Chalne se jo lachaar tha
   Aur shaam ka bazaar tha
   Aur Mustafa ki betiyaaṅ
@@ -48,7 +48,7 @@ romanLyrics: |-
   Maula haq imam....
   
   6
-  Wo Asghar-e-besheer tha
+  Wo Asghar-e-beshir tha
   Aur Hurmala ka tir tha
   Pyasa ghala kiun kar kata
   Royi zamiṅ aur aasmaaṅ
@@ -62,7 +62,7 @@ romanLyrics: |-
   Maula haq imam....
   
   8
-  Sham-e-ghareeban chagayi
+  Sham-e-ghariban chagayi
   Abid ko ghairat khaa gayi
   pehre pe Zainab aagayi
   Abbas aur Akbar kahaṅ

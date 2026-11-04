@@ -21,7 +21,7 @@ romanLyrics: |-
   Woh shakhsiyat jahaṅ meiṅ ubharti chali gayi
 
   3
-  Deewana-war log bhi marte chale gaye
+  Diwana-war log bhi marte chale gaye
   Tegh-e Ali jahaṅ se guzarti chali gayi
 
   4
@@ -33,7 +33,7 @@ romanLyrics: |-
   Duniya yeh arzu liye marti chali gayi
 
   6
-  Maidan mein tez-dasti-e tegh-e Ali na pooch
+  Maidan mein tez-dasti-e tegh-e Ali na puch
   Sar se chali badan meiṅ utarti chali gayi
 
   7

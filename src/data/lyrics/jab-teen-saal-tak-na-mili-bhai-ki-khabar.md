@@ -21,7 +21,7 @@ romanLyrics: |-
   Didar Ka Jo Shauq Tha Mitti Meiṅ Mil Gaya
   
   2
-  Ashraf-e-Shahr Ko Hui Maaloom Ye Khabar
+  Ashraf-e-Shahr Ko Hui Maalum Ye Khabar
   Aayi Hai Qum Mein Khwahar-e-Sultan Bahr o Bar
   Purse Ke Waste Huye Sab Jama Nauhagar
   Jo Sunte Chaak Garebaṅ Barahna Sar
@@ -30,7 +30,7 @@ romanLyrics: |-
   
   3
   Din Raat Gham Meiṅ Bhai Ke Rehti Thi Dil Haziṅ
-  Har Waqt Ashk-e-Gham Se Thi Aaloodah Aasteen
+  Har Waqt Ashk-e-Gham Se Thi Aaludah Aastin
   Chhote Bare Nauha Karte The Har Aan Mominin
   Matam Sara Meiṅ Aurateiṅ Rone Ko Aati Thiṅ
   Gham Tha Musafarat Meiṅ Musibat Uthati Hai
@@ -46,10 +46,10 @@ romanLyrics: |-
   
   5
   Kal Solah Roz Qum Meiṅ Rahiṅ Badal Haziṅ
-  Jannat Mein Ki Ziyarat Shah-e-Falak Nasheen
-  Takleef Dard-e-Hijr Se Jaan Bar Hui Nahiṅ
-  Bhai Ki Shakl Aankhon Mein Thi Waqt-e-Wapaseen
-  Bagh-e-Jahan Se Sue Jinaan Kooch Kar Gayin
+  Jannat Mein Ki Ziyarat Shah-e-Falak Nashin
+  Taklif Dard-e-Hijr Se Jaan Bar Hui Nahiṅ
+  Bhai Ki Shakl Aankhon Mein Thi Waqt-e-Wapasin
+  Bagh-e-Jahan Se Sue Jinaan Kuch Kar Gayin
   Bas Haye Bhai Keh Aur Mar Gayiṅ
   
   6
@@ -57,7 +57,7 @@ romanLyrics: |-
   Ghusl o Kafan Ke Baad Ye Aapas Meiṅ The Goya
   Qadir Ghulam Aap Ka Hai Mard-e-Parsa
   Masuma Ko Muhammad Ne Utare Wo Ba-Haya
-  Is Khidmat-e-Jaleel Ke Qabil Koi Nahiṅ
+  Is Khidmat-e-Jalil Ke Qabil Koi Nahiṅ
   Yaaṅ Koi Aur Is Se Siwa Muttaqi Nahiṅ
   
   7

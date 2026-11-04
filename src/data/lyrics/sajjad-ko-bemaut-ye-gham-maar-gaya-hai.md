@@ -17,10 +17,10 @@ romanLyrics: |-
   
   1
   Naa maar Sakina ko tamache e sitamgar
-  Ehsaas-e-yateemi hi bari sakht saza hai
+  Ehsaas-e-yatimi hi bari sakht saza hai
   
   2
-  Ay Shimr-e-Laien kis pe tu barsata hai kooray
+  Ay Shimr-e-Laien kis pe tu barsata hai kuray
   Aabid to bari dair se behosh parha hai
   
   3

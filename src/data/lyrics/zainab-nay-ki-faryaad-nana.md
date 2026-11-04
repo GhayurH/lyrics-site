@@ -44,12 +44,12 @@ romanLyrics: |-
   Karbobala Hai Abaad Nana, Abaad Nana Abaad Nana
   
   8
-  Nana Tumhare Tatheer Wale, Ummat Ke Hathon Mein Bayrida The
+  Nana Tumhare Tathir Wale, Ummat Ke Hathon Mein Bayrida The
   Koi To Kerta Imdad Nana, Imdad Nana Imdad Nana
   
   9
   Hiltha Tha Roza Hasnain o Qaiser, Zainab Jo Bolin Qabr-e-Nabi Per
-  Sunlay Humaree Rudaad Nana, Rudaad Nana Rudaad Nana
+  Sunlay Humari Rudaad Nana, Rudaad Nana Rudaad Nana
 ---
 زینبؑ نے کی فریاد نانا، فریاد نانا فریاد نانا
 ہم ہو کے آئے برباد نانا

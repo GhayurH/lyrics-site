@@ -54,7 +54,7 @@ romanLyrics: |-
   Zainab ko bata dena, mere haath nahiṅ haiṅ
   
   8
-  Jab zeen se zamin ki taraf aane laga maula
+  Jab zin se zamin ki taraf aane laga maula
   Na koi madadgaar tha, na koi sahara
   Us waqt khayaal aya, mere haath nahiṅ haiṅ
   

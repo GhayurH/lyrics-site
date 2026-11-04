@@ -37,7 +37,7 @@ romanLyrics: |-
   
   5
   Muhib Husain ne hasrat se chaar su dekha
-  Zameen-e-Karbobala ko lahu lahu dekha
+  Zamin-e-Karbobala ko lahu lahu dekha
   Likha ye aakhri fitra
 ---
 

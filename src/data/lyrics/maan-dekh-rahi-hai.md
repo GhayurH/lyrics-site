@@ -18,18 +18,18 @@ romanLyrics: |-
   1
   Zalim tujhe is baat, ka ehsaas nahi hai
   Cheh mah ka bacha hai, ye Abbas nahi hai
-  Kamsin ali asghar se tera teer bara hai
+  Kamsin ali asghar se tera tir bara hai
   Maaṅ dekh tahi hai
   
   2
   E behn tere samne baba ke haiṅ haalaat
-  Ab sham-e-ghareeban ko hi hoti hai mulaaqaat
+  Ab sham-e-ghariban ko hi hoti hai mulaaqaat
   Mur mur ke Sakina ki taraf dekh raha hai
   Maaṅ dekh rahi hai
   
   3
   Hurmal ne kamaaṅ khenchi toh larzi ye zamiṅ hai
-  Hai saamne bhayya, tabhi ye usko yaqeen hai
+  Hai saamne bhayya, tabhi ye usko yaqin hai
   Parda bari bechaini se khaime ka hata hai
   Maaṅ dekh rahi hai
   
@@ -40,7 +40,7 @@ romanLyrics: |-
   Maaṅ dekh rahi hai
   
   5
-  Socha tha ke jee legi wo yaadon ke sahare
+  Socha tha ke ji legi wo yaadon ke sahare
   Ummat ne jala daale hai armaan hi saare
   Asghar tera jhula tmra kurta bhi jala hai
   Maaṅ dekh rahi hai
@@ -52,7 +52,7 @@ romanLyrics: |-
   Maaṅ dekh rahi hai
   
   7
-  Imran mujhe quwat-e-tehreer nahi hai
+  Imran mujhe quwat-e-tehrir nahi hai
   Kaise maiṅ likhu tir ke ye tir nahi hai
   Asghar ki taraf chal pari tezi se qaza hai
   Maaṅ dekh rahi hai

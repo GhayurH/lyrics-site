@@ -83,7 +83,7 @@ romanLyrics: |-
   royi bohat yatim sakina...
 
   8
-  jo haath sar pe roz phirate thai shah-e-deen
+  jo haath sar pe roz phirate thai shah-e-din
   us haath ke qarib jo aayi wo naazniṅ
   apne pidar ke haath pe jis dam rakhi jabiṅ
   us dam na thi yatim ke pairoṅ tale zamiṅ
@@ -91,7 +91,7 @@ romanLyrics: |-
   royi bohat yatim sakina...
 
   9
-  waiz likhega kaun yateema ki bekasi
+  waiz likhega kaun yatima ki bekasi
   laashe shah e zaman se wo jis dam juda hui
   lagta tha ab jiyegi na bachi husain ki
   jaane lagi nasheb se jab sheh ki laadli

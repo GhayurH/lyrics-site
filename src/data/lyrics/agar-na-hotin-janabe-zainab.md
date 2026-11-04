@@ -41,7 +41,7 @@ romanLyrics: |-
   Agar na hotiṅ Janab-e Zainab, to hota batil ka daur daura
 
   8
-  Yazeed takzeeb kar raha tha nuzool-e wahi aur Rasool-e Haq ki
+  Yazid takzib kar raha tha nuzul-e wahi aur Rasul-e Haq ki
   Agar na hotiṅ Janab-e Zainab, to kaun haq ka lagata naara
 
   9
@@ -61,7 +61,7 @@ romanLyrics: |-
   Agar na hotiṅ Janab-e Zainab, to kaise hota yeh ahd pura
 
   13
-  Banu Umayya mita rahe the tamam aasar-e deen yaksar
+  Banu Umayya mita rahe the tamam aasar-e din yaksar
   Agar na hotiṅ Janab-e Zainab, Muawiyat par naqab rehta
 
   14

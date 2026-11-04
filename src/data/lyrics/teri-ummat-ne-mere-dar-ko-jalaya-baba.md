@@ -17,7 +17,7 @@ romanLyrics: |-
   
   1
   Raakh Thi, Shole The, Sehme Hue Bache Ya Dhuaṅ
-  Mere Aangan Mein Tha Ek Shaam-e-Ghareeban Ka Samaan
+  Mere Aangan Mein Tha Ek Shaam-e-Ghariban Ka Samaan
   Dar Hata Kar Mujhe Fizza Ne Uthaya Baba
   
   2

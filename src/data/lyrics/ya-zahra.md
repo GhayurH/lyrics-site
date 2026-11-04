@@ -27,7 +27,7 @@ romanLyrics: |-
   
   2
   qarz maqruz ka ada kar de
-  muflison ka naseeb wa kar de
+  muflison ka nasib wa kar de
   jin ki godi bhari nahi bibi
   unko aulaad tu ata kar de
 

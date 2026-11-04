@@ -25,7 +25,7 @@ romanLyrics: |-
   Raat ko khwab meiṅ uryaaṅ sar-e Zahra dekha
 
   4
-  Ek gathri Shah-e Deen pusht pe laaye us mein
+  Ek gathri Shah-e Din pusht pe laaye us mein
   Maiṅ ne tukre hue Qasim ka sarapa dekha
 
   5

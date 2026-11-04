@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Zahur Ka Waqt Aa Gaya Hai Imam Se Lau Lagaye Rakhna
   Zahur Ka Waqt Aa Gaya Hai Haram Pe Nazreiṅ Jamaye Rakhna
-  Zahoor Ka Waqt Aa Gaya Hai Charagh-e-Ulfat Jalaye Rakhna
+  Zahur Ka Waqt Aa Gaya Hai Charagh-e-Ulfat Jalaye Rakhna
 
   2
   Na Nind Aaye Na Ungh Aaye, Rakho Har Ek Pal Nazar Jamaye
@@ -36,12 +36,12 @@ romanLyrics: |-
 
   5
   Hai Intiqam-e-Husain Baqi, Woh Aane Wala Hisaab Lega
-  Aqeeda Apna Durust Rakhna, Jo Unki Nusrat Ki Hai Tamanna
+  Aqida Apna Durust Rakhna, Jo Unki Nusrat Ki Hai Tamanna
   Zahur Ka Waqt Aa Gaya Hai, Amal Ko Bhi Aazmaye Rakhna
 
   6
   Siwaye Chand Ek Zahur Ki Sab Alaamateiṅ Puri Ho Chuki Haiṅ
-  Baseerat o Marifat Tumhari Adu-e-Haq Ko Khatak Rahi Haiṅ
+  Basirat o Marifat Tumhari Adu-e-Haq Ko Khatak Rahi Haiṅ
   Zahur Ka Waqt Aa Gaya Hai Dil o Nazar Ko Bachaye Rakhna
 
   7

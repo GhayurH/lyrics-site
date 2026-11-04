@@ -12,7 +12,7 @@ cover: "/images/lyrics/goonji-bawaqt-e-asr.png"
 coverAlt: "Cover image for Goonji bawaqt e asr"
 published: true
 romanLyrics: |-
-  Goonji bawaqt e asr sada, main Husain huṅ
+  Gunji bawaqt e asr sada, main Husain huṅ
   Kaato na mera khushk gala, maiṅ Husain huṅ
   
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
   Maiṅ baar baar kehta raha maiṅ Husain huṅ
   
   2
-  Sookhi hui shimr mere halq ki ragein
+  Sukhi hui shimr mere halq ki ragein
   Aahista tu churi ko chala maiṅ Husain huṅ
   
   3

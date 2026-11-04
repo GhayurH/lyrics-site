@@ -24,7 +24,7 @@ romanLyrics: |-
   Sadaat-e-Karbala
   
   2
-  Ek Bibi Dasht-e-Khooni Mein Jaati Hai Nehr Par
+  Ek Bibi Dasht-e-Khuni Mein Jaati Hai Nehr Par
   Kehti Ba-Chashm-e-Tar
   Abbas Dene Aayi Huṅ Pursa Sakina Ka
   Sadaat-e-Karbala
@@ -36,7 +36,7 @@ romanLyrics: |-
   Sadaat-e-Karbala
   
   4
-  Akbar Ki Qabr Par Yoon Hui Laila Nauhagar
+  Akbar Ki Qabr Par Yun Hui Laila Nauhagar
   Dekha Na Saal Bhar
   Aayi Huṅ Qaid-e-Sham Se Ab Ho Ke Main Reha
   Sadaat-e-Karbala
@@ -56,7 +56,7 @@ romanLyrics: |-
   7
   Rote Haiṅ Khaas o Aam Tera Sun Ke Ye Kalam
   E Shah Ke Ghulam
-  Nauha Tera Anees Hai Maqbool-e-Bargah
+  Nauha Tera Anis Hai Maqbul-e-Bargah
   Sadaat-e-Karbala
 ---
 

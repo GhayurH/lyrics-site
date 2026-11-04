@@ -17,7 +17,7 @@ romanLyrics: |-
   
   1
   Aaj gyaara Imam rote haiṅ
-  Khud Rasool-e-Anam rote haiṅ
+  Khud Rasul-e-Anam rote haiṅ
   Bain karti haiṅ Fatima Zahra
   al-ajal al-ajal Imam-e-Zaman
   

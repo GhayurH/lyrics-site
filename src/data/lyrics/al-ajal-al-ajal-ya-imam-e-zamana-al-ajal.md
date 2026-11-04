@@ -22,8 +22,8 @@ romanLyrics: |-
   1
   Is Waqt Garche Adl Se Khali Zamin Hai
   Mazlum Ke Makaan Meiṅ Zalim Makin Hai
-  Duniya Sitam-Shaar Hai, Maghloob Deen Hai
-  Moula Zaroor Aaenge, Mujhko Yaqeen Hai
+  Duniya Sitam-Shaar Hai, Maghlub Din Hai
+  Moula Zarur Aaenge, Mujhko Yaqin Hai
   
   Aaegi Kuch Kami Na Mere Aitbaar Mein
   Sadiyan Guzar Dunga Tere Intezar Mein
@@ -65,10 +65,10 @@ romanLyrics: |-
   Sadiyan Guzar Dunga Tere Intezar Mein
   
   6
-  Ahl-e-Aza Ko Jurat o Tadbeer Chahiye
+  Ahl-e-Aza Ko Jurat o Tadbir Chahiye
   Dekha Hai Khwab, Khwab Ki Tabir Chahiye
-  Taskeen-e-Qalb-e-Madar-e-Shabbir Chahiye
-  Ab Jannat-ul-Baqi Ki Tameer Chahiye
+  Taskin-e-Qalb-e-Madar-e-Shabbir Chahiye
+  Ab Jannat-ul-Baqi Ki Tamir Chahiye
   
   Aa Jaegi Bahar Is Ujde Dayaar Mein
   Sadiyan Guzar Dunga Tere Intezar Mein

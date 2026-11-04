@@ -27,8 +27,8 @@ romanLyrics: |-
   
   2
   jis se darti thi tum wo ghari aagayi
-  dekho charon taraf teergi cha gayi
-  teergi cha gayi
+  dekho charon taraf tirgi cha gayi
+  tirgi cha gayi
   dasht-e-pur-haul main sham hone ko hai
   lo musafir chala alwida alwida
   

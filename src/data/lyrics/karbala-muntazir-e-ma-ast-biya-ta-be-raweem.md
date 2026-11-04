@@ -18,9 +18,9 @@ romanLyrics: |-
   1
   Raasta Humko Shahadat Ka Bahattar Se Mila
   Azm Kitna Hume Zakhm-e-Ali Akbar Se Mila
-  Khoon Kitna Hume Abbas-e-Dil Aawar Se Mila
+  Khun Kitna Hume Abbas-e-Dil Aawar Se Mila
   Hausla Faujoṅ Ko Nanhe Ali Asghar Se Mila
-  Kitne Moula Ke Haiṅ Ehsaan, Biya Ta Be Raweem
+  Kitne Moula Ke Haiṅ Ehsaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   2
@@ -28,21 +28,21 @@ romanLyrics: |-
   Kuch Sahara Nahiṅ Girte Ko Sambhalne Ke Liye
   Muntazir Khun Hai Gardan Se Nikalne Ke Liye
   Ghode Tayyar Haiṅ Laashe Ko Kuchalne Ke Liye
-  Shaah Haiṅ Aap Ke Mehmaan, Biya Ta Be Raweem
+  Shaah Haiṅ Aap Ke Mehmaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   3
-  Tashnalab Logon Ke Ye Khoon Ka Darya Dekho
+  Tashnalab Logon Ke Ye Khun Ka Darya Dekho
   Tukde Tukde Jo Hai Qasim Ka Ye Laasha Dekho
   Bhai Abbas Ke Ye Dast-e-Burida Dekho
   Laasha-e-Asghar Liye Ye Kaun Hai Tanha Dekho
-  Bhar Gaya Laashon Se Maidaan, Biya Ta Be Raweem
+  Bhar Gaya Laashon Se Maidaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   4
   Wo Yazidi Jo The Duniya Ke Hawas Ke Maare
   Kar Diye Din Ke Ehkaam Muattal Saare
-  Farsh Par Toot Gaye Arsh-e-Khuda Ke Taare
+  Farsh Par Tut Gaye Arsh-e-Khuda Ke Taare
   Khaak Aur Khun Meiṅ Ghaltaaṅ The Wo Bikhre Paare
   Nauk-e-Naiza Pe Hai Quran, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
@@ -52,7 +52,7 @@ romanLyrics: |-
   Raah-e-Shabbir Mein Hum Ab Bhi Kata Dein Sar Ko
   Tir Lag Jaaye Na Hurmala Ka Ali Asghar Ko
   Koi Barchhi Na Kahiṅ Lag Jaaye Ali Akbar Ko
-  Jaan Par Waar Do Tum Jaan, Biya Ta Be Raweem
+  Jaan Par Waar Do Tum Jaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   6
@@ -68,7 +68,7 @@ romanLyrics: |-
   Baap Ka Sar Bhi Tasalli Ke Liye Paas Nahiṅ
   Aaj Bachi Ki Madad Ke Liye Abbas Nahiṅ
   Kab Se Pyasi Hai Sakina, Tumhe Ehsaas Nahiṅ
-  Ye Sada Deta Hai Zindaan, Biya Ta Be Raweem
+  Ye Sada Deta Hai Zindaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   8
@@ -76,7 +76,7 @@ romanLyrics: |-
   Jo Husaini Hai Wo Lashkar Mein Abhi Pahunchega
   Kaun Aulaad Ko Nusrat Ke Liye Bhejega
   Kaun Akbar Ke Kaleje Se Sinaan Khenchega
-  Ye Husaini Ka Hai Paighaam, Biya Ta Be Raweem
+  Ye Husaini Ka Hai Paighaam, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   9
@@ -84,7 +84,7 @@ romanLyrics: |-
   Aapko Aarzu-e-Zan Se Bhi Ladna Hoga
   Aapko Nafs Ke Lashkar Se Bhi Ladna Hoga
   Sirf Bahar Nahiṅ Andar Se Bhi Ladna Hoga
-  Maang Lo Jang Ka Samaan, Biya Ta Be Raweem
+  Maang Lo Jang Ka Samaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   10
@@ -100,7 +100,7 @@ romanLyrics: |-
   Kaash E Kaash Koi Rakhta Mukammal Kirdar
   Koi Tamir Kara Deta Baqiye Ka Mazaar
   Kaash Hum Mein Koi Hota Janab-e-Mukhtar
-  Hai Kahan Aisa Musalmaan, Biya Ta Be Raweem
+  Hai Kahan Aisa Musalmaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   12
@@ -108,7 +108,7 @@ romanLyrics: |-
   Kaash E Kaash Mile Aakhri Wo Fath o Zafar
   Kaash Jaari Rahe Moula Ki Ye Nusrat Ka Safar
   Karbala Muntazir-e-Mehdi-e-Dauraan Hai, Qamar
-  Dekho Tayyar Hai Maidaan, Biya Ta Be Raweem
+  Dekho Tayyar Hai Maidaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
 ---
 

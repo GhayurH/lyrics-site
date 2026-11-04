@@ -35,7 +35,7 @@ romanLyrics: |-
   
   4
   Qasim maiṅ teri maa ko, kis tarhan se batlaoṅ
-  Ye hee hay tera beta, kaisay usay samjhaon
+  Ye hi hay tera beta, kaisay usay samjhaon
   Ye soch ke ankhoṅ se
   Khun Sheh ne bahaya he
   

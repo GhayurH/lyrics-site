@@ -13,7 +13,7 @@ coverAlt: "Cover image for Pata Hai Kis Tarha Beta Jawaan Hota Hai"
 published: true
 romanLyrics: |-
   Tarap Ke Laasha-e-Akbar Pe Bole, Sibt-e-Nabi
-  Hamare Noor-e-Nazar Ko Lagi, Nazar Kis Ki
+  Hamare Nur-e-Nazar Ko Lagi, Nazar Kis Ki
   Sitam Gharib Musafir Pe Ye, Mazid Kiya
   Batao Kis Ne Mere Sher Ko, Shahid Kiya
   
@@ -22,7 +22,7 @@ romanLyrics: |-
   
   1
   Bare Hi Naaz Se Paala Hai, Ye Jawaan Pisar
-  Ye Mere Ghar Ka Ujala, Ye Mera Noor-e-Nazar
+  Ye Mere Ghar Ka Ujala, Ye Mera Nur-e-Nazar
   Ye Mera Hansliyoṅ Wala, Riyazatoṅ Ka Samar
   Lahu Meiṅ Duba Hua, Eriyaṅ Ragarta Hai
   
@@ -34,8 +34,8 @@ romanLyrics: |-
   
   3
   Ali Ki Betiyaṅ Jhula, Ise Jhulati Thiṅ
-  Hijaab-e-Noor Mein Lori, Ise Sunati Thin
-  Janaab-e-Umme Baneen, Is Ke Naaz Uthati Thin
+  Hijaab-e-Nur Mein Lori, Ise Sunati Thin
+  Janaab-e-Umme Banin, Is Ke Naaz Uthati Thin
   Aur Ab Husain Yahaṅ, Is Ki Laash Uthata Hai
   
   4

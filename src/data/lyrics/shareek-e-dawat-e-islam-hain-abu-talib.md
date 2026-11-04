@@ -13,16 +13,16 @@ coverAlt: "Cover image for Shareek-E-Dawat-E-Islam Hain Abu Talib"
 published: true
 romanLyrics: |-
   1
-  Shareek-e-dawat-e-Islam haiṅ Abu Talib
+  Sharik-e-dawat-e-Islam haiṅ Abu Talib
   Nabi ko haq ka ik inaam haiṅ Abu Talib
-  Hareem-e-wahi main ilhaam haiṅ Abu Talib
+  Harim-e-wahi main ilhaam haiṅ Abu Talib
   Haram ke azm ka ehram haiṅ Abu Talib
-  Yay chunkay laeyn jo ghuncha wo phool hojaey
-  Phir inki gaud may pal kar Rasool hojaey
+  Yay chunkay laeyn jo ghuncha wo phul hojaey
+  Phir inki gaud may pal kar Rasul hojaey
 
   2
   Rasul-e-Rab ke nigehban haiṅ Abu Talib
-  Nabi hay deen to eman haiṅ Abu Talib
+  Nabi hay din to eman haiṅ Abu Talib
   Nazul-e-wahi ka unwan haiṅ Abu Talib
   Baghair lafzon ka Quran haiṅ Abu Talib
   Inhi ke dum se huwi ibtida-e-bismillah
@@ -38,15 +38,15 @@ romanLyrics: |-
 
   4
   Kahaṅ he tand nazar hum se bhi to aankh mila
-  Hay inkay kufar ka dawa to kuch saboot bhi la
-  Koee to rasum jihalut ki inkay ghar may dikha
+  Hay inkay kufar ka dawa to kuch sabut bhi la
+  Koi to rasum jihalut ki inkay ghar may dikha
   Buto ke aagey jhuka inka sur sur apna jhuka
   Khuda ke nur pe o khak daalne wale
   Yay but shikun ko hay godi may paalne wale
 
   5
-  Rasool inka bara ehtiram kartay haiṅ
-  Sawab-e-deed se tunzeem-e-aam kartay haiṅ
+  Rasul inka bara ehtiram kartay haiṅ
+  Sawab-e-did se tunzim-e-aam kartay haiṅ
   Seher ko uthte hi owwul yay kaam karte haiṅ
   Inhay namaz se pehle salam karte haiṅ
   Nabi agar kisi kafir ko you salami hay
@@ -61,7 +61,7 @@ romanLyrics: |-
   To phir jahaṅ may koi bashur nahi momin
 
   7
-  Na janchiyay yay rawayut na seerato kirdar
+  Na janchiyay yay rawayut na sirato kirdar
   Nabi ke aankh se ub inko daykhiye ik bar
   Yay bargahay risalat may ap ka tha viqar
   Pacharay khakay inhay roway Ehmad-e-Mukhtar
@@ -79,9 +79,9 @@ romanLyrics: |-
   9
   Yay baat agar ho ijazut to puchlu mai yahi
   Husain Ibn-e-Ali kya nahi the Mohsin-e-Din
-  Hum inko roaein to phir kyoo ho koyi jiba jabeen
-  Bane the inka to naqa Rasool-e-Arsh-e-Nashi
-  Husain soway Shah-e-Mursali ke seenay pur
+  Hum inko roaein to phir kyu ho koyi jiba jabin
+  Bane the inka to naqa Rasul-e-Arsh-e-Nashi
+  Husain soway Shah-e-Mursali ke sinay pur
   Ghazub he Shimar ka zanu unhi ke sine pur
 
   10
@@ -95,16 +95,16 @@ romanLyrics: |-
   11
   Laga he zakhmay tabur beh raha he sur se lahu
   Bhare hay khun may janay Rasul ke geysu
-  Kareeb jakay rakhoo dil pe kis turha qaboo
+  Karib jakay rakhu dil pe kis turha qabu
   Ke is lahu may to he Fatima ke dud ki bu
   Nida yay aai ke aankhay to dal aankho may
   Kaha behen ka he is dum khayal aankho may
 
   12
-  Nida yay aaee ki gurdun se khainch ja inki
+  Nida yay aai ki gurdun se khainch ja inki
   Kaha mai kya karu gurdun pe chul rahi he churi
   Churi pakur ke yay chillati he koi bibi
-  Na zibha kar mayray bachay ko mai dua doongi
+  Na zibha kar mayray bachay ko mai dua dungi
   Jaha rawa tayre khunjur ki aab he zalim
   Yay bosagahay risalat ma aab he zalim
 
@@ -118,7 +118,7 @@ romanLyrics: |-
 
   14
   Nida ye aayi ke mazlumiyat ka rutba shanas
-  Kamar se kheench le sabir ki jaan-e-be-waswas
+  Kamar se khinch le sabir ki jaan-e-bewaswas
   Kaha malak ne tarap kar ba-dard o hasrat o yaas
   Kamar to tut gayi jab se mar gaye Abbas
   Sada-e-ghaib ye aayi ba-haal hai chehra
@@ -126,17 +126,17 @@ romanLyrics: |-
 
   15
   Ye guftagu thi ke murjha gaya Rasul ka phul
-  Falak se aa gaye Rooh-ul-Amin hazin o malul
+  Falak se aa gaye Ruh-ul-Amin hazin o malul
   Kaha pukaar ke munh dhaanp lo baraaye Rasul
-  Pisar ki laash pe kholengi apne baal Batool
+  Pisar ki laash pe kholengi apne baal Batul
   Sada ye sun ke us simt chal pari Zainab
   Tarap ke khaime se bahar nikal pari Zainab
 
   16
   Nasim udhar se to qudsi ki sada aayi
   Idhar tarapti hui bint-e-Murtaza aayi
-  Qareeb-e-laash jo khwahar ba-sad baqa aayi
-  Akhi ke halq-e-bureeda se ye sada aayi
+  Qarib-e-laash jo khwahar ba-sad baqa aayi
+  Akhi ke halq-e-burida se ye sada aayi
   Koi buzurg na ab hai na khurd hai Zainab
   Nabi ki Aal tumhare supurd hai Zainab
 ---

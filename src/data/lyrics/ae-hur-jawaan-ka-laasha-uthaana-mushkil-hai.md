@@ -37,8 +37,8 @@ romanLyrics: |-
   Ke pyaase hontoṅ se Maula bulaana mushkil hai
   
   5
-  Ghareeb baap ka ye imtihaan nahiṅ loonga
-  Tumhaare laal ko kandhon pe main uthaaoonga
+  Gharib baap ka ye imtihaan nahiṅ lunga
+  Tumhaare laal ko kandhon pe main uthaaunga
   Utha ke laash ko khemoṅ meiṅ jaana mushkil hai
   
   6

@@ -13,7 +13,7 @@ coverAlt: "Cover image for Husain Jaata Hai Marne Ko Ay Meri Zainab"
 published: true
 romanLyrics: |-
   Husain jaata hai marne ko e meri Zainab
-  Qareeb aa gaya ab waqt-e-aakhri Zainab
+  Qarib aa gaya ab waqt-e-aakhri Zainab
   Salam tum pe e Baba ki laadli Zainab
   
   Zainab ne kaha kaun hai pardes meiṅ mera
@@ -24,7 +24,7 @@ romanLyrics: |-
   
   1
   Baad aap ke hoga meri ghurbat ka ye aalam
-  Us waqt ghareebi bhi karegi mera matam
+  Us waqt gharibi bhi karegi mera matam
   Sadaat ko jab raah mein dega koi sadqa
   
   2
@@ -43,7 +43,7 @@ romanLyrics: |-
   Ab dekhegi Zainab ke khule sar ko ye dunya
   
   5
-  Deedar bhi ho jayega beti ke bahane
+  Didar bhi ho jayega beti ke bahane
   Kya Shaam ke zindan mein aaoge sulane
   Soyegi nahi jab meri lori se Sakina
   

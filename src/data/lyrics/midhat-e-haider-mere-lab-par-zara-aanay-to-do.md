@@ -29,7 +29,7 @@ romanLyrics: |-
   Tum shab-e hijrat ka qissa hum ko dohrane to do
 
   5
-  Dekhna kaisa tawana hoga yeh laghar mareez
+  Dekhna kaisa tawana hoga yeh laghar mariz
   Majlis-e Shah ka tabarruk tum ise khane to do
 
   6

@@ -24,7 +24,7 @@ romanLyrics: |-
   
   2
   Misle Charagh Gor-e-Ghariban Pe Dil Jalaye
-  Phoolon Ke Badle Qabron Pe Lakht-e-Jigar Charhaye
+  Phulon Ke Badle Qabron Pe Lakht-e-Jigar Charhaye
   Pyaroṅ Ki Bud o Baash Ke Samaṅ Jo Yaad Aaye
   Be Sakhta Pukare Kaleja Pakar Ke Haye
   Kunbe Ke Saath Dakhla-e-Karbala Hua
@@ -32,7 +32,7 @@ romanLyrics: |-
   
   3
   Mar Jayeṅ Sab Yatimoṅ Ke Sar Par Rahuṅ To Maiṅ
-  Bachpan Mein Unki Qaid Ki Eeza Sahoon To Main
+  Bachpan Mein Unki Qaid Ki Iza Sahun To Main
   Behlane Ko Tumhari Kahani Kahuṅ To Maiṅ
   Maaṅ Huṅ To Maiṅ, Phuphi Huṅ To Maiṅ, Baap Huṅ To Maiṅ
   In Ka Bhi Daagh Aaj Mile Ya Ke Kal Mile
@@ -41,7 +41,7 @@ romanLyrics: |-
   4
   Maiṅ Jaanti Thi Shehr Basa Hoga Bhai Ka
   Hoga Hujum Qabr Pe Saari Khudai Ka
-  Chehlum Karungi Dhoom Se Main Karbalai Ka
+  Chehlum Karungi Dhum Se Main Karbalai Ka
   Pursaṅ Bhi Yaaṅ Nahiṅ Koi Zahra Ki Jayi Ka
   Mun Dhanpne Ko Aap Hi Palla Bhi Leti Huṅ
   Aur Apne Dil Ko Aap Hi Pursa Bhi Deti Huṅ
@@ -56,7 +56,7 @@ romanLyrics: |-
   
   6
   Hazrat Ki Qabr Hil Gayi Zainab Ke Bain Se
-  Aa Kar Kaha Basheer Ne Ibn-e-Husain Se
+  Aa Kar Kaha Bashir Ne Ibn-e-Husain Se
   Shehzade Jaan-Balab Hai Phuphi Shor o Shain Se
   Chaliye Watan Ko Qabr-e-Shah-e-Mashraqain Se
   Abid Ne Pucha Kiuṅ Phuphi Amma Qubul Hai
@@ -68,19 +68,19 @@ romanLyrics: |-
   Sote The Qabr Meiṅ Jo Kataye Huye Gale
   Ye Waqt Wo Tha Phirte The Sab Aankh Ke Tale
   Abid Se Bano Kehti Thiṅ Muhlat Qalil Hai
-  Kuch Khaak-e-Paak Lelo Ke Sughra Aleel Hai
+  Kuch Khaak-e-Paak Lelo Ke Sughra Alil Hai
   
   8
-  Ay Karbala-e-Sarwar-e-Dilgeer Alwida
+  Ay Karbala-e-Sarwar-e-Dilgir Alwida
   Ay Qatl-Gah-e-Hazrat-e-Shabbir Alwida
-  Ay Qabr-e-Ibn-e-Sahib-e-Tatheer Alwida
+  Ay Qabr-e-Ibn-e-Sahib-e-Tathir Alwida
   E Bhai Jaan, Jaati Hai Humshir, Alwida
   Kya Gham Nasib Hai Ye Nawasi Rasul Ki
   Tum Ne Mujawiri Na Hamari Qubul Ki
   
   9
   Bhaiyya Utho Kujave Meiṅ Mujh Ko Tumhi Bithao
-  Bhaiyya Main beNaqab Huṅ, Rehgeeron Ko Hatao
+  Bhaiyya Main beNaqab Huṅ, Rehgiron Ko Hatao
   Rokeiṅ Qanaat, Akbar o Abbas Ko Bulao
   Khaali Hai God Bhabhi Ki, Asghar Ko Lete Aao
   Sardar Sare Qafile Ke Aage Hote Haiṅ
@@ -89,10 +89,10 @@ romanLyrics: |-
   10
   Kab Se Tumhein Pukar Rahi Huṅ Main Khasta-Tan
   Haye Haye Jawab Bhi Nahiṅ Dete Shah-e-Zaman
-  Bhaiyya Gale Laga Loon To Jaaun Su-e-Watan
+  Bhaiyya Gale Laga Lun To Jaaun Su-e-Watan
   Aayi Nida, Sidhaaro, Khuda Hafiz E Behen
   Sughra Ko Meri Simt Se Bhi Pyar Kijiyo
-  Hoga Sawab Khatir-e-Beemar Kijiyo
+  Hoga Sawab Khatir-e-Bimar Kijiyo
 ---
 
 ۱

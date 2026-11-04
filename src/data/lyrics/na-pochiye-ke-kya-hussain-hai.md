@@ -23,7 +23,7 @@ romanLyrics: |-
   Na Koi Dosra Husain Hai
   
   2
-  Aseer-e-Sham Par Nigah Ki To Hurr Bana Diya
+  Asir-e-Sham Par Nigah Ki To Hurr Bana Diya
   Jo Mar Rahe The Unko Zindagi Ka Gur Sikha Diya
   Husain Hai Hayat Gar, Husain Azmatoṅ Ka Ghar
   Azim Rehnuma Husain Hai
@@ -53,7 +53,7 @@ romanLyrics: |-
   Imam Tisra Husain Hai
   
   7
-  Shaheed-e-Karbala Ka Gham Jise Bhi Na-Gawar Hai
+  Shahid-e-Karbala Ka Gham Jise Bhi Na-Gawar Hai
   Woh Bad-Amal Hai, Bad-Nasab, Usi Pe beShumar Hai
   Are O Dushman-e-Aza, Tu Mar Zara Lehad Mein Ja
   Pata Chalega Kya Husain Hai
@@ -72,14 +72,14 @@ romanLyrics: |-
   
   10
   Hidayat-e-Husain Par Amal Karo Husainiyo
-  Rahenge Hum Bahisht Mein, Yaqeen Rakho Husainiyo
+  Rahenge Hum Bahisht Mein, Yaqin Rakho Husainiyo
   Qabul Hogi Har Dua, Kisi Se Kiuṅ Dareiṅ Bhala
   Hamara Wasta Husain Hai
   
   11
   Surur Gohar-e-Hunar Hua Yeh Khwab Dekh Kar
   Saje Huye Haiṅ Khuld Meiṅ Tamam Momino Ke Ghar
-  Nishan-e-Gham Hai Jalwagar Har Aadmi Ke Seene Par
+  Nishan-e-Gham Hai Jalwagar Har Aadmi Ke Sine Par
   Har Ek Lab Pe Ya Husain Hai
 ---
 

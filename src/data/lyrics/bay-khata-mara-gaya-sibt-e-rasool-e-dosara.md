@@ -12,8 +12,8 @@ cover: "/images/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.png"
 coverAlt: "Cover image for Bay Khata Mara Gaya Sibt-e-Rasool Dusra Wa Hasan-e-Sabz Qaba"
 published: true
 romanLyrics: |-
-  Bay Khata Mara Gaya Sibt-e-Rasool Dusra, Wa Hasan-e-Sabz Qaba
-  Zehr Se Tukray Jigar, Khoon Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
+  Bay Khata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
+  Zehr Se Tukray Jigar, Khun Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
   
   1
   Khuṅ Ugalte Hue Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
@@ -25,15 +25,15 @@ romanLyrics: |-
   
   3
   Kar Diye Zehr-e-Halahal Ne Jigar Ke Tukray, Aur Qasim Ke Liye
-  Kam Sini Mein Hai Yeh Gham Shaam-e-Ghareeban Jaisa, Wa Hasan-e-Sabz Qaba
+  Kam Sini Mein Hai Yeh Gham Shaam-e-Ghariban Jaisa, Wa Hasan-e-Sabz Qaba
   
   4
   Ghar Se Ik Baar Janaza Jo Nikal Jata Hai, Kab Wo Phir Aata Hai
-  Yeh Woh Taboot Hai Jo Laut Ke Phir Ghar Ko Chala, Wa Hasan-e-Sabz Qaba
+  Yeh Woh Tabut Hai Jo Laut Ke Phir Ghar Ko Chala, Wa Hasan-e-Sabz Qaba
   
   5
   Sheh Ne Us Waqt Jo Ghazi Ko Na Roka Hota, Hashr Ho Jata Bapa
-  Teer Aate Na Janazay Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
+  Tir Aate Na Janazay Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
   
   6
   Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb o Bala

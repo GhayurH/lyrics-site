@@ -45,7 +45,7 @@ romanLyrics: |-
   
   8
   hashim ke qamar kiuṅ na tera chahne waala
-  wa shams ka padte huwe soora tujhe roye
+  wa shams ka padte huwe sura tujhe roye
   
   9
   hasrat hai ke ghazi ho lahu aankh se jaari

@@ -25,7 +25,7 @@ romanLyrics: |-
   aagaye baba ali
   
   2
-  dhoop may tu tha shajar tujhse aabaad tha ghar
+  dhup may tu tha shajar tujhse aabaad tha ghar
   hai barehna mera sar kya nahi tujhko khabar
   ay alamdar-e-wafa is behan ko ba-khuda
   tujhse dhaaras thi bari
@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   kya kahun sher mere berida humko liye
   ye musalmaṅ saare shehr dar shehr gaye
-  khilqate koofa kabhi khilqate shaam kabhi
+  khilqate kufa kabhi khilqate shaam kabhi
   baaraha hum pe hansi
   
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   aur maiṅ roti rahi
   
   5
-  humko pani na mile teri khusboo to rahe
+  humko pani na mile teri khusbu to rahe
   tere baazu na kateiṅ chahe mashkiza chide
   ye magar ho na saka tere baazu haiṅ juda
   mujh pe hai tashnalabi
@@ -69,7 +69,7 @@ romanLyrics: |-
   9
   roya rehaan qalam karke ye baat raqam
   khun may dub gaya mere ghazi ka alam
-  zakhmi zainab ka jigar khoon-fishan shaah ka sar
+  zakhmi zainab ka jigar khun-fishan shaah ka sar
   aaye khaimoṅ may shaqi
 ---
 

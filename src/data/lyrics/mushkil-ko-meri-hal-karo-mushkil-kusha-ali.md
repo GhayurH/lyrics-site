@@ -41,7 +41,7 @@ romanLyrics: |-
   Ghurbat Meiṅ Muflisi Meiṅ Yehi Hai Dua Ali
   
   5
-  Beemar-e-Karbala Se Wafa Ka Sila Mile
+  Bimar-e-Karbala Se Wafa Ka Sila Mile
   Bimar Jo Haiṅ Un Ko Mukammal Shifa Mile
   Us Ki Qasam Jo Kantoṅ Pe Chalta Raha Ali
   
@@ -52,7 +52,7 @@ romanLyrics: |-
   
   7
   Jis Dam Asir Ho Ke Chaleiṅ Shaam Ki Taraf
-  Zainab Pukarein Dekh Ke Haye Soo-e-Najaf
+  Zainab Pukarein Dekh Ke Haye Su-e-Najaf
   Kis Tarah Shaam Jaungi Main beRida Ali
   
   8

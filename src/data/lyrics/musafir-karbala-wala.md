@@ -23,7 +23,7 @@ romanLyrics: |-
   
   1
   Jigar zakhmi hai dil zakhmi, (Musafir karbala wala)
-  Kamar khum hogaee jiski, (Musafir karbala wala)
+  Kamar khum hogai jiski, (Musafir karbala wala)
   Na sambhla aa ke maidaṅ meiṅ, gira ghash kha ke maidan meiṅ
   Tha kitna hosle wala (Musafir, Karbala wala musafir)
   
@@ -48,7 +48,7 @@ romanLyrics: |-
   5
   Jo aaya run meiṅ jhule se, (Musafir karbala wala)
   Bujha ke piyas tiroṅ se, (Musafir karbala wala)
-  Hansa teer e sitam kha kar, Wo piyasa wo ali asghar
+  Hansa tir e sitam kha kar, Wo piyasa wo ali asghar
   Hua qurbaan baba par (Musafir, Karbala wala musafir)
   
   6

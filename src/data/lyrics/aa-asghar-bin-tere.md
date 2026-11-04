@@ -13,7 +13,7 @@ coverAlt: "Cover image for Aa Asghar Bin Tere"
 published: true
 romanLyrics: |-
   Aa Asghar bin tere, mai chayn kahaṅ se paauṅ
-  Aa laut ke aaja laal mere, jee bhar ke naaz uthaun
+  Aa laut ke aaja laal mere, ji bhar ke naaz uthaun
   
   1
   Meri aankh ka taara hai tu, mujhko jaan se pyaara hai

@@ -26,16 +26,16 @@ romanLyrics: |-
   Tha Kaun Iss Kharabe Mein Ghamkhwar-e-Ahl-e-Bait
   Kis Ghar Mein Thi Luti Hui Sarkar-e-Ahl-e-Bait
   Dam Torta Tha Qafila Salar-e-Ahl-e-Bait
-  Majboor Tha Para Hua Mukhtar-e-Ahl-e-Bait
-  Bistar Zameen-e-Sakht Ka, Takiya Tha Khisht Ka
+  Majbur Tha Para Hua Mukhtar-e-Ahl-e-Bait
+  Bistar Zamin-e-Sakht Ka, Takiya Tha Khisht Ka
   Virane Meiṅ Asir Tha Maalik Behisht Ka
   
   3
   Mauqa Mila To Zehr Diya Shah Ko beGunah
-  Lakht-e-Dil-e-Rasool Ki Halat Hui Tabah
-  Beemar Ho Ke Uth Na Saka Hujjat-e-Ilaah
+  Lakht-e-Dil-e-Rasul Ki Halat Hui Tabah
+  Bimar Ho Ke Uth Na Saka Hujjat-e-Ilaah
   Makkar Mutamid Sa Na Hoga Khuda Gawah
-  Bheje Tabeeb Us Ne Dawa Karne Ke Liye
+  Bheje Tabib Us Ne Dawa Karne Ke Liye
   Poshida Apna Haal-e-Jafa Karne Ke Liye
   
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
   Kamsin Abhi The Hujjat-e-Haq Sahib-uz-Zaman
   Tha Dusra Baras, Koi Kehta Hai Panchwaṅ
   Jaan-e-Nabi Ne Bar-e-Imamat Utha Liya
-  Is Kam Sini Mein Koh-e-Museebat Utha Liya
+  Is Kam Sini Mein Koh-e-Musibat Utha Liya
   
   5
   Jab Zehr Se Shahid Huye Gyarhwiṅ Imam
@@ -58,8 +58,8 @@ romanLyrics: |-
   Jis Ghar Mein Thi Bani Hui Qabr-e-Ali Naqi
   Us Mein Hi Dafn Laash-e-Hasan Askari Hui
   Ghar Ghar Se Thi Buland Sada Aah Aah Ki
-  Untees Saal Bhi Na Hui Umr-e-Askari
-  Madfoon Khoob Askari-e-, beWatan Huwa
+  Untis Saal Bhi Na Hui Umr-e-Askari
+  Madfun Khub Askari-e-, beWatan Huwa
   Pyase Husain Ko Na Mayassar Kafan Huwa
   
   7
@@ -72,7 +72,7 @@ romanLyrics: |-
   
   8
   Maula Imam-e-Asr Huye Aap To Nihan
-  Bachte To Kaise Abid-e-Beemar o Natawan
+  Bachte To Kaise Abid-e-Bimar o Natawan
   Dena Tha Un Ko Sabr o Tahammul Ka Imtihaṅ
   Wo Kufa o Dimashq Gaye Pehne Beriyaṅ
   Islam Ka Tha Bar Mujahid Ki Pusht Par

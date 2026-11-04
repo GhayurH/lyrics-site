@@ -12,7 +12,7 @@ cover: "/images/lyrics/aik-tehreer-uthaye-boli-darbar-mein-aa-kar-zahra.png"
 coverAlt: "Cover image for Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-E-Nabi Hoon"
 published: true
 romanLyrics: |-
-  Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-e-Nabi Huṅ
+  Aik Tehrir Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-e-Nabi Huṅ
   Aisa Badla Hai Madina, Apna Haq Maang Rahi Huṅ Ghasib Se
   Kalma Go Kursi Nashiṅ Hai, Aur Maiṅ Kab Se Khari Huṅ
   
@@ -32,14 +32,14 @@ romanLyrics: |-
   Kabhi Betoṅ Ne Sambhala, Kabhi Raste Meiṅ Giri Huṅ
   
   4
-  Woh To Kamsin Hai Abhi, Door Hai Shaam Se Bhi, Seh Na Payegi Kabhi
+  Woh To Kamsin Hai Abhi, Dur Hai Shaam Se Bhi, Seh Na Payegi Kabhi
   Mujh Se Zainab Ne Yeh Pucha, Kahaṅ Jati Ho Batao E Amma
   Maine Zainab Se Chhupaya, Ke Main Darbar Chali Huṅ
   
   5
   Mera Haq Chhin Liya, Ajr Yeh Mujh Ko Diya, Yeh Sitam Mujh Pe Kiya
   Mujhe Darbar Bulaya, Zakhm Woh Dil Pe Lagaya Hai Mere
-  Mera Dil Khoon Hua Hai, Sar-e-Darbar Khari Huṅ
+  Mera Dil Khun Hua Hai, Sar-e-Darbar Khari Huṅ
   
   6
   Turbat-e-Bint-e-Nabi, Dekhe Akbar Jo Kabhi, Mujh Ko Lagta Hai Yehi

@@ -27,7 +27,7 @@ romanLyrics: |-
   
   3
   Athaara baras paal ke parwaan charaya
-  Wo gaisuo'n wala hai mera khoon me nahaya
+  Wo gaisuo'n wala hai mera khun me nahaya
   Ye kya hua dilbar
   
   4
@@ -56,7 +56,7 @@ romanLyrics: |-
   Kiuṅ ruthe ho dilbar
   
   9
-  Aayen jo hamein lootne kheme mein sitamgar
+  Aayen jo hamein lutne kheme mein sitamgar
   Maa de gi sadayeṅ ali akbar ali akbar
   Chin jayegi chadar
   

@@ -13,20 +13,20 @@ coverAlt: "Cover image for Yaa Raaziya Yaa Marziya Yaa Tahera Yaa Sayyada"
 published: true
 romanLyrics: |-
   Yaa Raaziya Yaa Marziya Yaa Tahera Yaa Sayyada
-  Ye Fakhr-e-Aamina, Sarmaya-e-Rasool Bhi Hai
+  Ye Fakhr-e-Aamina, Sarmaya-e-Rasul Bhi Hai
   
   1
   Har Ek Sawaal Ka Behtar Jawaab Zinda Hai
   Sadaaqatoṅ Ka Mukammal Nisaab Zinda Hai
   Bahaar-e-Baagh-e-Risaalat Ma-aab Zinda Hai
   Khuda Ke Bando, Khuda Ki Kitaab Zinda Hai
-  Bayaan Azmat-e-Khatoon-e-Kaaenaat Suno
+  Bayaan Azmat-e-Khatun-e-Kaaenaat Suno
   Mubahele Ki Zubaaṅ Se Khuda Ki Baat Suno
   
   2
   Kaha Jo Bizato Minni To Ho Gaya Maalum
-  Dil-e-Rasool Ki Surat Hai Fatema Maasoom
-  Kamaal-e-Ilm Se Aisa Bana Diya Maqsoom
+  Dil-e-Rasul Ki Surat Hai Fatema Maasum
+  Kamaal-e-Ilm Se Aisa Bana Diya Maqsum
   Nasib Ho Gaye Gyarah Imaamatoṅ Ke Nuzul
   Waqaar-e-Bint-e-Nabi Mein Na Kuch Kami Aaye
   Khuda Ke Ghar Meiṅ Isi Waaste Ali Aaye
@@ -50,22 +50,22 @@ romanLyrics: |-
   5
   Ba-Naam-e-Fatema Ummat Ki Betiyan Jaagein
   Nigaah-e-Aql Se Raftaar-e-Zindagi Dekhein
-  Baraaye Ghairat-e-Dil Apne Aap Se Poochhein
+  Baraaye Ghairat-e-Dil Apne Aap Se Puchhein
   Kise Milegi Jagah Fatema Ki Mehfil Mein
   Khuda Kare Wo Tamaasha-e-Rozgaar Na Ho
-  Rasool-e-Paak Ki Beti Se Sharmsaar Na Ho
+  Rasul-e-Paak Ki Beti Se Sharmsaar Na Ho
   
   6
   Dhuaaṅ Tanur Se Uttha To Saaeloṅ Ke Liye
   Khamir Ho Gaya Aata Musaafiroṅ Ke Liye
-  Sukoon-e-Qalb Ka Saamaan Bekason Ke Liye
+  Sukun-e-Qalb Ka Saamaan Bekason Ke Liye
   Ghiza-e-Sabr o Riza Apne Kamsinon Ke Liye
   Isi Maqaam Pe Khair-ul-Amal Ke Jalwe Haiṅ
   Yahi Wo Ghar Hai Jahaṅ Inqilaab Palte Haiṅ
   
   7
   Ali Ke Chehra-e-Aqdas Pe Ambiya Ka Jalaal
-  Wujood-e-Fatema Zahra Pe Mustafa Ka Jamaal
+  Wujud-e-Fatema Zahra Pe Mustafa Ka Jamaal
   Ali Ke Dam Se Jahaṅ Meiṅ Tajalliyoṅ Ke Nihaal
   Mataa-e-Fatema Zahra Hasan Husain Se Laal
   Ali Ne Masjid-e-Kufa Mein Zakhm Khaaya Hai

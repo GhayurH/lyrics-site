@@ -16,16 +16,16 @@ published: true
 romanLyrics: |-
   1
   Shaam se jab Ahl-e-Bait, ghamzada giryaan chale
-  Yaani soo-e-Karbala, chaak girebaan chale
-  Le ke shaheedon ke sar, besar o saamaan chale
+  Yaani su-e-Karbala, chaak girebaan chale
+  Le ke shahidon ke sar, besar o saamaan chale
   Kartay huay ye bayaan baa-dil-e-naalaan chale
-  Aaj hai chaaleeswaan Hazrat-e-Shabbir ka
-  Tishna-dahan kushta-e-khanjar o taqdeer ka
+  Aaj hai chaaliswaan Hazrat-e-Shabbir ka
+  Tishna-dahan kushta-e-khanjar o taqdir ka
   
   2
   Raah meiṅ un se koi, puchta gar aan kar
-  Kis ke ho naamoos tum, kis ke ho lakht-e-jigar
-  Kis ne hai loota tumhein, kis ne kiya bepadar
+  Kis ke ho naamus tum, kis ke ho lakht-e-jigar
+  Kis ne hai luta tumhein, kis ne kiya bepadar
   Kehte the Ahl-e-Haram un se yun ba-chashm-e-tar
   Tum se bayaaṅ kya kareiṅ apne hum ehwaal ko
   Dafn haiṅ karne chale Fatima ke laal ko
@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Woh jo haram mohtaram, Shah ke ba-sad bukaa
   Manzilein tay kartay haaye, pohanchay dar-e-Karbala
-  Door se woh qatl-gaah, un ko dikhayi diya
+  Dur se woh qatl-gaah, un ko dikhayi diya
   Ro ke yeh kehnay lagay Hazrat-e-Zain-ul-Aba
   Untoṅ se utro tum ab karte hue shor o shain
   Rotay chalo piyaada-pa, yaan se ba-laash-e-Husain
@@ -52,7 +52,7 @@ romanLyrics: |-
   Sar jo shahidoṅ ke the, bich meiṅ un ko rakha
   Sina o sar pit kar, ro ro yeh nauha parha
   Zahra ke masum ka aaj hai chaaliswaaṅ
-  Syed-e-Mazloom ka aaj hai chaaleeswaan
+  Syed-e-Mazlum ka aaj hai chaaliswaan
   
   6
   Woh jo hai Ibn-e-Hasan Shah ka aali-nasab
@@ -81,7 +81,7 @@ romanLyrics: |-
   9
   Aap ne ek baar ye, dekha jo phir ghor se
   Tan se juda hogaye, shaanay katay haiṅ paray
-  Seena-e-mazloom par, zakhm haiṅ talwaar ke
+  Sina-e-mazlum par, zakhm haiṅ talwaar ke
   Ghaaiyaaṅ bhi kat gayi, zakhmoṅ se shamshir ke
   Sina-e-pur nur hai, tirouṅ se chida hua
   Laasha hai tukre para, khaak meiṅ lipta hua

@@ -18,17 +18,17 @@ romanLyrics: |-
   
   1
   Tha Jiska Intezar Wo Saa’at Qarib Hai
-  Din Dhal Raha Hai Shaam-e-Museebat Qareeb Hai
+  Din Dhal Raha Hai Shaam-e-Musibat Qarib Hai
   Kuch Der Ki Hai Baat Qayamat Qarib Hai
   Zainab Gharib Bhai Ki Rukhsat Qarib Hai
   Ye Keh Ke Maanga Maaṅ Ka Jo Kurta Sila Hua
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
   2
-  Kuch Door Hat Ke Khaime Mein Bole Sheh-e-Zaman
+  Kuch Dur Hat Ke Khaime Mein Bole Sheh-e-Zaman
   Zehmat Na Ho To Baazu Barhao Zara Behan
-  Main Bose Loon Wahan Ke Bandhegi Jahan Rasan
-  Baazu Barha Ke Roti Thi Hamsheer-e-Khasta Tan
+  Main Bose Lun Wahan Ke Bandhegi Jahan Rasan
+  Baazu Barha Ke Roti Thi Hamshir-e-Khasta Tan
   Bhai Behan Ke Baazuoṅ Ko Chumne Laga
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
@@ -36,7 +36,7 @@ romanLyrics: |-
   Ye Sun Ke Bint-e-Fatima Zehra Tarap Gayi
   Boli Gala Barhao Bas Ab Jald Ya Akhi
   Amma Ki Baat Aaj Mujhe Yaad Aagayi
-  Main Bose Loon Wahan Ke Chalegi Jahan Chhuri
+  Main Bose Lun Wahan Ke Chalegi Jahan Chhuri
   Zainab Ne Barh Ke Chuma Baradar Ka Jab Gala
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
@@ -60,7 +60,7 @@ romanLyrics: |-
   Abid Se Phir Ye Kehne Lage Shah-e-Karbala
   Bewaaoṅ Ka Aur Yatimoṅ Ka Ab Tum Ho Aasra
   Jo Imtehan Mera Tha Sab Maine De Diya
-  Aage Tera Jihad Hai Beemar-e-Karbala
+  Aage Tera Jihad Hai Bimar-e-Karbala
   Bimar Beta Baap Se Jis Dam Juda Hua
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
@@ -75,7 +75,7 @@ romanLyrics: |-
   8
   Bhai Ko Tanha Dekh Ke Zainab Tarap Gayi
   Roti Hui Husain Ke Nazdik Aagayi
-  Aur Phir Raqab Thaam Ke Boli Ay Shah-e-Deen
+  Aur Phir Raqab Thaam Ke Boli Ay Shah-e-Din
   Lo Maiṅ Sawar Karti Huṅ Abbas Gar Nahiṅ
   Waiz Hua Sawar Jo Zehra Ka Laadla
   Kohraam Mach Gaya, Kohraam Mach Gaya

@@ -16,8 +16,8 @@ romanLyrics: |-
   
   1
   Parwardigar, Tu Hi Rahim o Karim Hai
-  Quran Keh Raha Hai Aliyy-ul-Azeem Hai
-  Aawaz-e-Kun Se Pehle Hai Itna Qadeem Hai
+  Quran Keh Raha Hai Aliyy-ul-Azim Hai
+  Aawaz-e-Kun Se Pehle Hai Itna Qadim Hai
   Wajib Hai Kainat Pe Har Dam Teri Sana
   
   2
@@ -53,8 +53,8 @@ romanLyrics: |-
   7
   Mabud, Woh Husain Jo Mehbub Hai Tera
   Sar Kaat Kar Bhi Jis Ka Na Zalim Jhuka Saka
-  Jis Ne Zameen Ko Arsh-e-Mualla Bana Diya
-  Dikhla De Hum Faqeeron Ko Roza-e-Husain Ka
+  Jis Ne Zamin Ko Arsh-e-Mualla Bana Diya
+  Dikhla De Hum Faqiron Ko Roza-e-Husain Ka
   
   8
   Mushkil Ko Taal, Hal-e-Masaib Ko Bhej De

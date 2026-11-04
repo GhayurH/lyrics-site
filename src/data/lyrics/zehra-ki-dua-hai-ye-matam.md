@@ -35,11 +35,11 @@ romanLyrics: |-
   4
   Jab Tak Ye Sakat Is Jism Meiṅ Hai, Haq Apna Ada Kar Dena Hai
   Is Matam Ki Saadat De Hum Ko, Ye Jaan Fida Kar Dena Hai
-  Ya Ashk Se Ya Khoon-e-Dil Se, Is Daaman Ko Bhar Dena Hai
+  Ya Ashk Se Ya Khun-e-Dil Se, Is Daaman Ko Bhar Dena Hai
   Aayi Hai Yahaṅ Ek Shehzaadi, Umid Ka Daaman Phailaye
   
   5
-  Wo Waqt Hai Ab Tak Aankhon Mein, Tha Khoon Mein Ghaltan Ibn-e-Ali
+  Wo Waqt Hai Ab Tak Aankhon Mein, Tha Khun Mein Ghaltan Ibn-e-Ali
   Aur Gunj Rahi Thi Maqtal Meiṅ, Faryad o Fughaṅ Ek Dukhiya Ki
   Sine Se Baheiṅ Khun Ki Dhaare, Aur Haath Na Rukne Paaye Kabhi
   Mazlum Ka Matam Hota Rahe, Zehra Ki Sada Jab Tak Aaye

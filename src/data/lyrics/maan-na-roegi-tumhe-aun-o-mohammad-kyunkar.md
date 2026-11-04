@@ -22,9 +22,9 @@ romanLyrics: |-
   Muaaf karna jo agar ho sake aye lakhte jigar
   
   2
-  Mujhse poochenge jo Abdullah kahan haiṅ bachche
+  Mujhse puchenge jo Abdullah kahan haiṅ bachche
   Kya waja hai meri nazroṅ se nihaṅ haiṅ bachche
-  Kya jawab unko ye maa degi mere noore nazar
+  Kya jawab unko ye maa degi mere nure nazar
   
   3
   Hujre dekhungi tumhare to tarap jaungi
@@ -44,7 +44,7 @@ romanLyrics: |-
   6
   Ay mere laal tere baad ghazab hum pe hua
   Haey is chashm-e-falak ne bhi ye manzar dekha
-  Sar barehna ye laeen laigaye humko dar dar
+  Sar barehna ye lain laigaye humko dar dar
   
   7
   Bain sunkar ye uthi Zain baqayya se sada

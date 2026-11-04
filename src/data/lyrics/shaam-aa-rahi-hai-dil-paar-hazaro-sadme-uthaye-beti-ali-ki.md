@@ -26,7 +26,7 @@ romanLyrics: |-
   
   3
   Barsaa rahe hai pathar sitamgar, lagte hai pathar Bibi ke sar per
-  Bazoo bandhe hai bebas hai khud ko, kaise bachaaye beti Ali ki
+  Bazu bandhe hai bebas hai khud ko, kaise bachaaye beti Ali ki
   
   4
   Zulfe pakar kar Shimr-e layiṅ ne, maare tamaache tarpi Sakina

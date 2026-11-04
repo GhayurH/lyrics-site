@@ -20,7 +20,7 @@ romanLyrics: |-
   
   2
   socho zara kiya hoga jawaani ka aalam
-  cheerte jisko bachpan mein ajdar dekha
+  chirte jisko bachpan mein ajdar dekha
   
   3
   jese utha leiṅ haath barha kar phul koyi
@@ -35,7 +35,7 @@ romanLyrics: |-
   bhaagte unko maidan se aksar dekha
   
   6
-  waqt-e-nusrat kon raha hai seena sipar
+  waqt-e-nusrat kon raha hai sina sipar
   pusht pe kisne khonp diya khanjar dekha
   
   7

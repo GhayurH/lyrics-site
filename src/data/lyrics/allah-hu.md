@@ -35,7 +35,7 @@ romanLyrics: |-
   Kis Ko Yara Bhala Teri Sarkar Meiṅ
   Kis Ko Taab-e-Sukhan Tere Darbar Mein
   Husn-e-Yousuf Sa Bik Jaye Bazar Mein
-  Aur Nafs-e-Nabi Ka Khareedar Tu
+  Aur Nafs-e-Nabi Ka Kharidar Tu
   Allah Hu, Allah Hu, Allah Hu
   
   4

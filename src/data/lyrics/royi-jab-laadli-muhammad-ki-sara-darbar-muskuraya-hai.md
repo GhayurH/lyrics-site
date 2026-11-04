@@ -13,20 +13,20 @@ coverAlt: "Cover image for Royi Jab Laadli Muhammad Ki Sara Darbar Muskuraya Hai
 published: true
 romanLyrics: |-
   Royi Jab Laadli Muhammad Ki Sara Darbar Muskuraya Hai
-  Haye Baad-e-Rasool Zehra Par Kaisa Ghurbat Ka Waqt Aaya Hai
+  Haye Baad-e-Rasul Zehra Par Kaisa Ghurbat Ka Waqt Aaya Hai
   
   1
-  Jese Jese Batool Roti Theen Qehqahay Unke Barhtay Jate The
-  Sath Jinko Batool Laayi Theen Ashk Dono Gawah Bahatay The
+  Jese Jese Batul Roti Thin Qehqahay Unke Barhtay Jate The
+  Sath Jinko Batul Laayi Thin Ashk Dono Gawah Bahatay The
   Sab The Masruf Muskurane Meiṅ Na Kisi Ko Bhi Tars Aaya Hai
   
   2
   Tere Mimbar Pe Bethe Ghasib Ko Teri Tehrir Bhi Dikhayi Hai
-  Karke Tukray Laeen Ne Baba Bharay Darbar Mein Urayi Hai
-  Paak Tehreer Ko Hai Tukron Mein Maine Darbar Se Uthaya Hai
+  Karke Tukray Lain Ne Baba Bharay Darbar Mein Urayi Hai
+  Paak Tehrir Ko Hai Tukron Mein Maine Darbar Se Uthaya Hai
   
   3
-  Main To Wo Huṅ Ke Ya Rasool Allah Jiski Taazeem Aap Kartay The
+  Main To Wo Huṅ Ke Ya Rasul Allah Jiski Taazim Aap Kartay The
   Naam Lena Ho Jab Mera Baba Aap Pehle Durud Parhte The
   Kya Batauṅ Ke Mujh Pe Kya Guzri Us Ne To Keh Ke Jab Bulaya Hai
   

@@ -24,7 +24,7 @@ romanLyrics: |-
   1
   Tanha athara baradar ki bahan hai ban meiṅ
   Nind kyoṅ aagai hai bhai batao ran meiṅ
-  Neend se jago chhini Zainab-e-muztar ki rida
+  Nind se jago chhini Zainab-e-muztar ki rida
   
   2
   Mere Ghazi mere Safdar, mere Mir-e-lashkar
@@ -33,7 +33,7 @@ romanLyrics: |-
   
   3
   Bain karti hui lashe pe chali aaoṅ gi
-  Kitne nasur kaleje meiṅ hai dikhlaooṅ gi
+  Kitne nasur kaleje meiṅ hai dikhlauṅ gi
   Meri taqdir meiṅ kuchh bhi nahiṅ ashkoṅ ke siwa
   
   4
@@ -59,7 +59,7 @@ romanLyrics: |-
   8
   Noha Rehan yeh Zainab ka tha baad-e-Abbas
   Kiuṅ nahiṅ karte ho Abbas hamara ehsaas
-  Qafila besar-o-saman suwe Shaam chala
+  Qafila besar o saman suwe Shaam chala
 ---
 
 ہائے عباس ہائے عباس ہائے عباس

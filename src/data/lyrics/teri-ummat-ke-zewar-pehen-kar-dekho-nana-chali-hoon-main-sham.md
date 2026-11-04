@@ -52,7 +52,7 @@ romanLyrics: |-
   Kabhi Nazreiṅ Utha Kar Na Dekha
   Haath Rassi Meiṅ Mere Bandhe Haiṅ
   Aur Sar Par Nahiṅ Mere Chadar
-  Kaise Koofe Mein Jaungi Ghazi
+  Kaise Kufe Mein Jaungi Ghazi
   Jab Majma Mein Aayega Naam
   
   6
@@ -76,7 +76,7 @@ romanLyrics: |-
   Kabhi Nazreiṅ Utha Kar Na Dekha
   Haath Rassi Se Mere Bandhe Haiṅ
   Aur Sar Par Nahiṅ Mere Parda
-  Kaise Koofe Mein Jaungi Ghazi
+  Kaise Kufe Mein Jaungi Ghazi
   Jab Balwe Mein Aayega Naam
   
   9

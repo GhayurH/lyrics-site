@@ -23,14 +23,14 @@ romanLyrics: |-
   2
   Sabhi hamd o sana uski k jo hai Khaaliq-e-Akbar
   Zacha khaana mere Baba ka ban jaata hai jis ka ghar
-  Ye eeton ka makaan kaaba bana jab aa gye Haider
-  Aur Sadaf ki qadr o qeemat kuchh nahi hoti be gohar
-  Ye qibla gaah-e-aalam asal mein tatheer ka ghar hai
+  Ye iton ka makaan kaaba bana jab aa gye Haider
+  Aur Sadaf ki qadr o qimat kuchh nahi hoti be gohar
+  Ye qibla gaah-e-aalam asal mein tathir ka ghar hai
   Wirasat hai mere ajdaad ki… Shabbir ka ghar hai
 
   3
   Aray o kafiron roka hai jin ka raasta tumne
-  Hai inke qurbate nazdeektar Allah ke ghar se
+  Hai inke qurbate nazdiktar Allah ke ghar se
   Agar maabud ki marzi nahi hoti to khud badh ke
   Ye hajr-e-Aswad kaaba mere Moula ke le bose
   Jo farzand-e-Nabi ke hukm ka pehra nahi hota
@@ -38,15 +38,15 @@ romanLyrics: |-
 
   4
   Agar marzi-e-Haq mansha mere Moula ki na hoti
-  Uqaab-e-Hashmi ban kar karoon parwaaz main aisi
+  Uqaab-e-Hashmi ban kar karun parwaaz main aisi
   Parinde jitne urte haiṅ hawaoṅ meiṅ ye baiat ki
   Gireiṅ kat kat ke reti par bache na koi bhi baaqi
-  Husain Ibn-e-Ali ke waaste sar ko kata doonga
+  Husain Ibn-e-Ali ke waaste sar ko kata dunga
   Jo uthi aankh Aaqa ki taraf to noch daalunga
 
   5
   Are u buzdiloṅ tm maut se kis ko darate ho
-  Hame tegho sina teero kama kyn kar dikhate ho
+  Hame tegho sina tiro kama kyn kar dikhate ho
   Bani hashim ki jurrat aur Shujaet azmate ho
   Ali ke sher ko lalkaar kar ghairat dilate ho
   Saja rakhte haiṅ par le maut ko ham apni rahuṅ meiṅ
@@ -65,7 +65,7 @@ romanLyrics: |-
   Woh pyase Mustafa ke khun ke the tum naawase ke
   Na kar paye jafa Ahd-e-Ali mein ashqiya jaise
   Hai zinda jab talak Abbas… tum kuchh kar nahi sakte
-  Koi hasil nahi mansooba e batil ka ahle shar
+  Koi hasil nahi mansuba e batil ka ahle shar
   Khuda ka ghaiz tmpar aur tmhari saari naslo par
 ---
 ۱

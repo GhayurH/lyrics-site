@@ -48,7 +48,7 @@ romanLyrics: |-
   Kubra ko magar saath liye aayi hai Zainab ay Shehr-e-Madina
   
   9
-  Pani jo piye ehle watan pyaas na bhule moo ashkoṅ se dhole
+  Pani jo piye ehle watan pyaas na bhule mu ashkoṅ se dhole
   Kehne ko ye Bhai ka payaam aayi hai Zainab ay Shehr-e-Madina
   
   10
@@ -64,7 +64,7 @@ romanLyrics: |-
   Majlis ki bina Shaam may daal aayi hai Zainab ay Shehr-e-Madina
   
   13
-  Reh jayega Akhtar ufaqe gham pe tera naam kya khoob hai inaam
+  Reh jayega Akhtar ufaqe gham pe tera naam kya khub hai inaam
   Nauha tera sun-ne ke liye aayi hai Zainab ay Shehr-e-Madina
 ---
 

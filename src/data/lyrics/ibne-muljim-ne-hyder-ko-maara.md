@@ -16,15 +16,15 @@ romanLyrics: |-
   Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Haiṅ
   
   1
-  Sooni Qabr-e-Rasool-e-Khuda Hai, Ghar Mein Zehra Ke Matam Bapa Hai
+  Suni Qabr-e-Rasul-e-Khuda Hai, Ghar Mein Zehra Ke Matam Bapa Hai
   Khaak Urata Hai Hyder Ka Kunba, Rozadaron Qayamat Ke Din Haiṅ
   
   2
-  Aal-e-Ahmed Pe Aafat Hai Aayi, Bekason Par Yateemi Hai Chhayi
+  Aal-e-Ahmed Pe Aafat Hai Aayi, Bekason Par Yatimi Hai Chhayi
   Uth Gaya Sar Se Hyder Ka Saaya, Rozadaron Qayamat Ke Din Haiṅ
   
   3
-  Ghar Mein Khaliq Ke Hyder Ko Maara, Janasheen-e-Payambar Ko Maara
+  Ghar Mein Khaliq Ke Hyder Ko Maara, Janashin-e-Payambar Ko Maara
   Haye Sajde Mein Sarwar Ko Maara, Rozadaron Qayamat Ke Din Haiṅ
   
   4
@@ -49,10 +49,10 @@ romanLyrics: |-
   
   9
   Taigh Sar Pe Ali Ke Lagi Hai, Aaj Shamm-e-Imamat Bujhi Hai
-  Dil Yateemon Ka Hai Para Para, Rozadaron Qayamat Ke Din Haiṅ
+  Dil Yatimon Ka Hai Para Para, Rozadaron Qayamat Ke Din Haiṅ
   
   10
-  Maan Ke Marne Ka Gham Kam Nahiṅ Tha, Ek Koh-e-Alam Aur Toota
+  Maan Ke Marne Ka Gham Kam Nahiṅ Tha, Ek Koh-e-Alam Aur Tuta
   Sog Mein Ghar Hai Zehra Ka Sara, Rozadaron Qayamat Ke Din Haiṅ
   
   11
@@ -64,7 +64,7 @@ romanLyrics: |-
   Maine Shaana Hila Kar Pukara, Rozadaron Qayamat Ke Din Haiṅ
   
   13
-  Seena-Kobi Ko Rehan o Mesum, Kiuṅ Na Farsh-e-Aza Pe Chalein Hum
+  Sina-Kobi Ko Rehan o Mesum, Kiuṅ Na Farsh-e-Aza Pe Chalein Hum
   Ghamzada Chaar Su Hai Nazara, Rozadaron Qayamat Ke Din Haiṅ
 ---
 

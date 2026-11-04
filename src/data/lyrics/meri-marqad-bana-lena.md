@@ -24,7 +24,7 @@ romanLyrics: |-
   Mera akbar bhi qasim bhi abbas bhi
   Aur aun o mohammad mere pur mahan
   Sab pare honge maidaan me bekafan
-  Hogi majboor lachaar meri bahan
+  Hogi majbur lachaar meri bahan
 
   Usko tum ik rida dena
   Meri marqad bana dena
@@ -40,9 +40,9 @@ romanLyrics: |-
   
   3
   Jab bhi zaair ziyarat ko aayeṅ miri
-  Usko mehmaan rakhna yahan teen din
+  Usko mehmaan rakhna yahan tin din
   Usko paani pilana meri simt se
-  Usko khana khilana yahan teen din
+  Usko khana khilana yahan tin din
 
   Usko meri dua dena
   Meri marqad bana dena
@@ -77,16 +77,16 @@ romanLyrics: |-
   7
   Mein kahan jaunga bekas o bewatan
   Sab kahenge mujhe shah-e-tashna dahan
-  Ran me teeron ka hoga mera pairahan
+  Ran me tiron ka hoga mera pairahan
   Khaak-e-karbobala hogi mera kafan
 
   Sab ko khaak-e-shifa dena
   Meri marqad bana dena
   
   8
-  Ab bhi ashoor ko rauza-e-shah par
+  Ab bhi ashur ko rauza-e-shah par
   Aata hai sab kabila asad ka nazar
-  Shah-e-deen ki wasiyat unhein yaad hai
+  Shah-e-din ki wasiyat unhein yaad hai
   Ab bhi Majid ye kehte haiṅ wo nauhagar
 
   Sheh ka laasha uthaa lena

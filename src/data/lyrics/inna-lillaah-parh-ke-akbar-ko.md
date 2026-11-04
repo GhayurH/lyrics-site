@@ -38,7 +38,7 @@ romanLyrics: |-
   ibne zahra wahaṅ tarapta hai
   
   4
-  quwwat e murtaza ye poochti hai
+  quwwat e murtaza ye puchti hai
   sabr e shabbir itna batla de
   wo to khyber ke dar se wazni tha
   kaise laasha jawaṅ uthaya hai

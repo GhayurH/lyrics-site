@@ -57,7 +57,7 @@ romanLyrics: |-
   Gham o yaas o hasrat meiṅ majruh o muztar
   Kahiṅ kya ke darya kinare pare the
 
-  Soo-e Alqama ab jo Bibi ne dekha
+  Su-e Alqama ab jo Bibi ne dekha
   Wafaoṅ ke sahil pe jhande gare the
 
   6

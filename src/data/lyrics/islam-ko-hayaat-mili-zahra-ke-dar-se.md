@@ -15,17 +15,17 @@ romanLyrics: |-
   Islam Ko Hayaat Mili Zahra Ke Dar Se Aye Kalmago Suno
 
   Quran Sar Buland Hua, Bach Gayi Namaz
-  Ik Sani-e-Batool Ke Khutbon Ke Asar Se Aye Kalmago Suno
+  Ik Sani-e-Batul Ke Khutbon Ke Asar Se Aye Kalmago Suno
   
   1
   Ik Sajda-e-Shabbir Se Islam Bach Gaya
-  Khoon-e-Husain Deen Ki Rag Rag Mein Rach Gaya
+  Khun-e-Husain Din Ki Rag Rag Mein Rach Gaya
   Quran Ke Hafizoṅ Ne Jalaya Nabi Ka Ghar
-  Looti Rida Batool Ki Hai Beti Ke Sar Se Aye Kalmago Suno
+  Luti Rida Batul Ki Hai Beti Ke Sar Se Aye Kalmago Suno
   
   2
   Ye Aaj Subh o Shaam Jo Sunta Hai Tu Azaaṅ
-  Takmeel Isko De Gaya Akbar Sa Nojawan
+  Takmil Isko De Gaya Akbar Sa Nojawan
   Islam Ki Baqa Ke Liye Karb o Bala Meiṅ
   Khenchi Sina Husain Ne Bete Ke Jigar Se Aye Kalmago Suno
   
@@ -38,7 +38,7 @@ romanLyrics: |-
   4
   Asghar Masum Pyaas Ki Shiddat Se Mar Gaya
   Aur Apni Maa Ki God Ko Viran Kar Gaya
-  Jiske Gale Pe Maar Diya Hurmala Ne Teer
+  Jiske Gale Pe Maar Diya Hurmala Ne Tir
   Paani To Iske Waaste Maanga Tha Shimr Se Aye Kalmago Suno
   
   5
@@ -48,7 +48,7 @@ romanLyrics: |-
   Aal-e-Nabi Ka Kafila Hai Guzra Jidhar Se Aye Kalmago Suno
   
   6
-  Bazar-e-Shaam Abid-e-Maghmoom Aa Gaya
+  Bazar-e-Shaam Abid-e-Maghmum Aa Gaya
   Jo Saath Le Ke Zainab o Kulsum Aa Gaya
   Maula Ali Ki Beti Yahaṅ Haathoṅ Meiṅ Hai Rasan
   Sehmi Khari Haiṅ Bibiyaan Hai Shimr Ke Dar Se Aye Kalmago Suno

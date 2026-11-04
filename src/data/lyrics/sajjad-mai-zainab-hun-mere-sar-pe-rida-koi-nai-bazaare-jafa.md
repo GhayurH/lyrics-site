@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Sajjad Chaluṅ Kaise, Lakhoṅ Haiṅ Tamashayi
   Yaad Aata Hai Reh Reh Ke Abbas Mera Bhai
-  Faryad Karoon Tujhse, Ab Tere Siwa Koi Nai, Bazaare Jafa
+  Faryad Karun Tujhse, Ab Tere Siwa Koi Nai, Bazaare Jafa
   
   4
   Malum Hai Aada Ko Ghazi Ki Behan Huṅ Mai
@@ -36,7 +36,7 @@ romanLyrics: |-
   Yaad Aayi Wafa Uski Jab Paas Raha Koi Nai, Bazaare Jafa
   
   5
-  Majboor huṅ bebas huṅ main ro bhi nahiṅ sakti
+  Majbur huṅ bebas huṅ main ro bhi nahiṅ sakti
   durroṅ ki aziyat se maiṅ so bhi nahiṅ sakti
   is darja musibat meiṅ hamdard mera Koi Nai, Bazaare Jafa
 

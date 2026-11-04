@@ -29,7 +29,7 @@ romanLyrics: |-
   Murjhaa gayaa koyi koyi Chehra khila mila
   
   5
-  Sajda furoo-e-deen hai Shabbir asl-e-deen
+  Sajda furu-e-din hai Shabbir asl-e-din
   Shabbir mil gaye jisay usko khudaa mila
   
   6

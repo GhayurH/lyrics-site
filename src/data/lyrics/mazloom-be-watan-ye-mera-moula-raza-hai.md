@@ -27,7 +27,7 @@ romanLyrics: |-
   
   3
   Aaye Haiṅ Janazay Pe Nabi, Shah-e-Ummam Bhi
-  Kulsoom, Ruqaiya Bhi Haiṅ Masooma-e-Qum Bhi
+  Kulsum, Ruqaiya Bhi Haiṅ Masuma-e-Qum Bhi
   Woh Bibi Hai Karbal Meiṅ, Jali Jis Ki Abaa Hai
   
   4
@@ -36,7 +36,7 @@ romanLyrics: |-
   Dohrayi Gayi Haye, Wohi Is Pe Jafa Hai
   
   5
-  Masooma-e-Qum Deti Haiṅ Ro, Ro Ke Duhai
+  Masuma-e-Qum Deti Haiṅ Ro, Ro Ke Duhai
   E Kash Mila De Koi Mujh Se Mera Bhai
   Sughra Ki Tarha Haye Behan, Jis Se Juda Hai
   

@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   mere mehmaan hai aakhri yeh salam
   tujh pe qurbaan hai aakhri yeh salam
-  shah-e-zeeshan hai aakhri yeh salam
+  shah-e-zishan hai aakhri yeh salam
   dil hai viran hai aakhri yeh salam
   
   3
@@ -41,7 +41,7 @@ romanLyrics: |-
   5
   alwida e Husain e Husain alwida
   alwida ay shah-e-mashriqain alwida
-  bint-e-Ahmad ke ay noor-e-ain alwida
+  bint-e-Ahmad ke ay nur-e-ain alwida
   hai Mujahid ke lab par yeh bain alwida
 ---
 

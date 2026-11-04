@@ -13,7 +13,7 @@ cover: "/images/lyrics/chhane-lagi-shaam-e-ghareeban.png"
 coverAlt: "Cover image for Chhane Lagi Shaam e Ghareeban"
 published: true
 romanLyrics: |-
-  Chhane lagi shaam e ghareeban,
+  Chhane lagi shaam e ghariban,
   haaye qiyamat ka hai samaaṅ
   Khaima e sadaat se utha dhuaan,
   haaye qiyamat ka hai samaaṅ
@@ -27,7 +27,7 @@ romanLyrics: |-
   haaye qiyamat ka hai samaaṅ
   
   2
-  Noor e nazar raaj dulare gaye,
+  Nur e nazar raaj dulare gaye,
   Zainab dilgir ke pyaare gaye
   Shah ke ansar bhi maare gaye,
   aas thi jin par woh sahaare gaye
@@ -35,11 +35,11 @@ romanLyrics: |-
   haaye qiyamat ka hai samaaṅ
   
   3
-  Khoon mein hai tar sher e jari ka alam,
+  Khun mein hai tar sher e jari ka alam,
   ho gaya Shabbir ka sar bhi qalam
   Khushiyan manane lagi fauj e sitam,
   gham se tabaah haal haiṅ ahl e haram
-  Loot gayiṅ konain ki shehzadiyaṅ,
+  Lut gayiṅ konain ki shehzadiyaṅ,
   haaye qiyamat ka hai samaaṅ
   
   4
@@ -59,9 +59,9 @@ romanLyrics: |-
   haaye qiyamat ka hai samaaṅ
   
   6
-  Maaṅ huṅ har ek ranj uthaooṅ gi maiṅ,
-  rote hue khud chali jaooṅ gi maiṅ
-  Dhund ke be sher ko laooṅ gi maiṅ,
+  Maaṅ huṅ har ek ranj uthauṅ gi maiṅ,
+  rote hue khud chali jauṅ gi maiṅ
+  Dhund ke be sher ko lauṅ gi maiṅ,
   is ke bina ji nahiṅ paooṅ gi maiṅ
   Reh gaya haaye mera bachcha kahaṅ,
   haaye qiyamat ka hai samaaṅ
@@ -71,7 +71,7 @@ romanLyrics: |-
   deta nahiṅ is ko dalasa koi
   Darmiyan lashoṅ ke akeli khari,
   kahti hai bachchi koi sehmi hui
-  Dhundne jaooṅ tujhe baba kahaṅ,
+  Dhundne jauṅ tujhe baba kahaṅ,
   haaye qiyamat ka hai samaaṅ
   
   8

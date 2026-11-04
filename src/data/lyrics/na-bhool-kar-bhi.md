@@ -53,7 +53,7 @@ romanLyrics: |-
   Ab aa gaye ho to betho Ali ki baat karo
   
   11
-  Bawaqt-e-nazaa kahunga mein mominon se Saeed
+  Bawaqt-e-nazaa kahunga mein mominon se Said
   Nikal raha hai mera dam Ali ki baat karo
 ---
 

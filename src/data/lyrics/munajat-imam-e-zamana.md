@@ -62,7 +62,7 @@ romanLyrics: |-
   10
   Tumhein to zamane ke ho chara-gar
   Meri mujh se behtar tumheiṅ hai khabar
-  Kahoon kya main haal-e dil-e gham-zada
+  Kahun kya main haal-e dil-e gham-zada
 
   11
   Hilal aur Misam ki hai iltija

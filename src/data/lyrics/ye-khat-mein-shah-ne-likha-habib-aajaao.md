@@ -16,7 +16,7 @@ romanLyrics: |-
   Tumhara dost hai tanha, Habib aajaao
   
   1
-  Shaheed kaisey huwa wo bataaogey aakar
+  Shahid kaisey huwa wo bataaogey aakar
   Tum haal-e-Muslim-e-baikas sunaaogey aakar
   Ruqayya takti hai rastaa Habib aajaao
   
@@ -37,7 +37,7 @@ romanLyrics: |-
   
   5
   Gawara kar nahiṅ sakti Husain ki ghairat
-  Tumhari zauja ki chaadar ko lootley ummat
+  Tumhari zauja ki chaadar ko lutley ummat
   Tum usko chorhkey Kufa Habib aajaao
   
   6
@@ -46,12 +46,12 @@ romanLyrics: |-
   Bula raha huṅ dubara Habib aajaao
   
   7
-  Dar-e-Batool dobaara jalaaya jaayega
+  Dar-e-Batul dobaara jalaaya jaayega
   Tumhaarey dost pey khanjar chalaaya jaayega
   Nahiṅ hai waqt zyaada Habib aajaao
   
   8
-  Chamaktey chaand ki humko bhi deed hojaaye
+  Chamaktey chaand ki humko bhi did hojaaye
   Tum aao to merey bachon mein Eid hojaaye
   Bohat udaas hai kunba Habib aajaao
   
@@ -62,7 +62,7 @@ romanLyrics: |-
   
   10
   Bahan ney usko takallum Jo bhai samjhaa tha
-  Pukaari sham-e-ghareeban mein Thaaniy-e-Zehra
+  Pukaari sham-e-ghariban mein Thaaniy-e-Zehra
   Hamaara lut'taa hai pardaa Habib aajaao
 ---
 

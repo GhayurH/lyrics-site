@@ -43,7 +43,7 @@ romanLyrics: |-
   Khula Hua Hai Musalsal Tera Dar-e-Tauba
   
   4
-  Rasool-e-Pak Ke Sadqe Mein Aaye Khuda Ghar Ghar
+  Rasul-e-Pak Ke Sadqe Mein Aaye Khuda Ghar Ghar
   Shua-e-Ilm Ki Kirnon Ka Mustaqil Ho Guzar
   Khula Rahe Mere Bachon Pe Shahr-e-Ilm Ka Dar
   Rahe Jawano Ki Har Dam Teri Riza Pe Nazar
@@ -53,9 +53,9 @@ romanLyrics: |-
   5
   Tu Mere Aib Chhupata Hai Daal Kar Parda
   Ilahi Deta Huṅ Maiṅ Tujh Ko Wasta Us Ka
-  Wohi Jo Sham-e-Ghareeban Mein De Rahi Thi Sada
+  Wohi Jo Sham-e-Ghariban Mein De Rahi Thi Sada
   Nahiṅ Hai Kuch Bhi Mere Paas Is Rida Ke Siwa
-  Rasoolzadi Ke Parde Ki Laaj Rakh Lena
+  Rasulzadi Ke Parde Ki Laaj Rakh Lena
   Bharam Duaoṅ Ka Meri Bhi Aaj Rakh Lena
   
   6

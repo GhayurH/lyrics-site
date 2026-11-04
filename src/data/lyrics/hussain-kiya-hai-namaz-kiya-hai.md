@@ -16,7 +16,7 @@ romanLyrics: |-
   Husain kiya hai namaz kiya hai
 
   1
-  Husain panjetan ka noor-e-panjam
+  Husain panjetan ka nur-e-panjam
   namaz hoti hai panjgana
 
   namaz meiṅ ijz o inkisari
@@ -62,17 +62,17 @@ romanLyrics: |-
   Husain marna sikha raha hai
   
   namaz hai kibriya ki talib
-  Husain matloob-e-kibriya hai
+  Husain matlub-e-kibriya hai
   
   tu ab bhi mujhse ye puchta hai
   Husain kiya hai namaz kiya hai
   
   5
-  naamaz zere sajood-e-ahmad
+  naamaz zere sajud-e-ahmad
   husain ka azam rakibana
   
   naamaz ki shukr inteha hai
-  to iska mashkoor hai zamana
+  to iska mashkur hai zamana
   
   namaaz logoṅ ko hai bulati
   ye dast-e-baiyat utha raha hai

@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Paa paa khaak sirraṅ vich ess vaal lukaaye
   Ummat ne rasiyaṅ de sanu zewar paaye
-  Maiṅ suneya eh viran hayee shaam de shehar diyaṅ bohat okhiyaṅ ne rahwaṅ
+  Maiṅ suneya eh viran hayi shaam de shehar diyaṅ bohat okhiyaṅ ne rahwaṅ
   
   3
   Uth ton main lath payi aan par ro nai sakdi

@@ -36,20 +36,20 @@ romanLyrics: |-
   Taazianey Maartey The Jab Sitamgar, Alwida
   
   6
-  Shaam Ke Darbaar Mein The Saat Sau Kursi-Nasheen
+  Shaam Ke Darbaar Mein The Saat Sau Kursi-Nashin
   The Rasan-Basta Wahan Aal-e-Payambar, Alwida
   
   7
   Thi Bohat Ummid Hai Abbas Sa Bhai Mera
-  Main Na Jaoongi Kabhi Koofa Khule-Sar, Alwida
+  Main Na Jaungi Kabhi Kufa Khule-Sar, Alwida
   
   8
-  Phir Nazar Ki Soo-e-Neher-e-Alqama Aur Yeh Kaha
+  Phir Nazar Ki Su-e-Neher-e-Alqama Aur Yeh Kaha
   Mere Ghairatdaar Ay Saaqii-e-Kausar, Alwida
   
   9
   Yeh Khalish Dil Se Na Jaye Gi Qayamat Tak Kabhi
-  Haye Koofe Mein Gayi Zainab Khule-Sar, Alwida
+  Haye Kufe Mein Gayi Zainab Khule-Sar, Alwida
 ---
 
 قبرِ سرور پر کہا زینب نے رو کر، الوداع

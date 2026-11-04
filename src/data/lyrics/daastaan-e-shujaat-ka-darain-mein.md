@@ -28,9 +28,9 @@ romanLyrics: |-
   Aur hassnain ka pyaar abbas hai
   
   2
-  Naql-e-azmat ka shireen samar haiṅ yehin
+  Naql-e-azmat ka shirin samar haiṅ yehin
   Ismatoṅ ke sadaf ke gohar haiṅ yehin
-  Noor ki sidrat-ul-muntaha haiṅ yehin
+  Nur ki sidrat-ul-muntaha haiṅ yehin
   Hashimi aasmaṅ ke qamar haiṅ yehin
   
   Jinke saaye me akber bhi palte rahe
@@ -39,17 +39,17 @@ romanLyrics: |-
   3
   Hal ata innama ki jo misdaaq hai
   Vo bhi ghazi ke aane ki mushtaq hai
-  Arsh se farsh tak inki jageer hai
-  Sari makhloq inki gadageer hai
+  Arsh se farsh tak inki jagir hai
+  Sari makhloq inki gadagir hai
   
   Jo ali ki shujaat ka waris bhi hai
   Aisa aala zamindar abbas hai
   
   4
   Sahib-e-takht-e-aqli ki gairat hai ye
-  Aur charaghe hareem-e-sharafat hai ye
+  Aur charaghe harim-e-sharafat hai ye
   durr-e-shehwaar Behr-e-saqawat hai ye
-  Haq to ye hai ke haq ki haqeeqat hai
+  Haq to ye hai ke haq ki haqiqat hai
   
   Vo duwaayen jo bibi ne sajdon mein kin
   un duaoṅ ka meyar abbas hai

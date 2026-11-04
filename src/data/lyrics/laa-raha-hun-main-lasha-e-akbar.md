@@ -21,13 +21,13 @@ romanLyrics: |-
   1
   Naujawaṅ laash hai zaifi hai
   Meri nazroṅ se dekh manzar ko
-  Kaise hamsheer ko sambhalunga
+  Kaise hamshir ko sambhalunga
   Mai sambhale hue huṅ Akbar ko
   Tera ehsaan hoga ye mujh par
   Umme Laila Sambhaal Zainab Ko
   
   2
-  Iske seene se kehke naam-e-Ali
+  Iske sine se kehke naam-e-Ali
   Maine barchi abhi nikaali hai
   Imtehaṅ de chuki meri ghurbat
   Ab teri bekasi ki baari hai

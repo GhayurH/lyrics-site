@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Lakh badle ye zamane ki ravish aur mausam,
   Eik pal bhi na ruke ashk-e-aza aur matam,
-  Matam-e-sheh ka junoon, zahn par tari rahe
+  Matam-e-sheh ka junun, zahn par tari rahe
   Hum rahain ya na rahain, ye azadari rahe
   
   3
@@ -64,7 +64,7 @@ romanLyrics: |-
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   9
-  Majlis o matam-e-Shabbir ki tableeg karo,
+  Majlis o matam-e-Shabbir ki tablig karo,
   Baat ye Mazhar o Irfan zamane se kaho,
   Munkir-e-bibi se har haal me bezari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe

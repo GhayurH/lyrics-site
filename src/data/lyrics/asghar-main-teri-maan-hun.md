@@ -30,7 +30,7 @@ romanLyrics: |-
   
   2
   tere jhule ko sakina
-  ro ro ke choomti hai
+  ro ro ke chumti hai
   tujhe ghar may dhundti hai
   teri maut ki khabar maiṅ
   kaise ise sunauṅ

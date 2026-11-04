@@ -49,7 +49,7 @@ romanLyrics: |-
   Yeh tarashe hue Bhagwan bare bhole haiṅ
   
   10
-  nargha-e-kufr mein mehboob-e-khuda ko tanha
+  nargha-e-kufr mein mehbub-e-khuda ko tanha
   chor aaye sar-e-maidan bare bhole haiṅ
   
   11

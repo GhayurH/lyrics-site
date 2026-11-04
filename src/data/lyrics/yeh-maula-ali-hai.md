@@ -63,7 +63,7 @@ romanLyrics: |-
   7
   Masjid ke minaroṅ ki sadaoṅ meiṅ chhupa hai
   Kaabe ke har ek sang ke andar yeh khuda hai
-  Har qalb pe momin ke yeh az-khoon likha hai
+  Har qalb pe momin ke yeh az-khun likha hai
   Dushman bhi hai anjaan magar yeh to pata hai
   Yeh aakhri Mursal ka bila-fasl wasi hai
   Ye Maula Ali Maula Ali Maula Ali hai

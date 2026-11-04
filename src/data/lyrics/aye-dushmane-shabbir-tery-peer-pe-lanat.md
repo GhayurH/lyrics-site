@@ -46,7 +46,7 @@ romanLyrics: |-
   7
   Nahaq hua taraaj Mohammad ka gharana,
   Woh summate-e-aasi ko bari der mein aaya
-  Ehsaas-e-pashemani ki taakheer pa laanat
+  Ehsaas-e-pashemani ki taakhir pa laanat
   
   8
   Awlaad-e-Umayyah ho ke ho woh Banu Abbas

@@ -31,7 +31,7 @@ romanLyrics: |-
   
   4
   Gardan-e-Shah Pe Yun Ran Mein Na Khanjar Chalta
-  Yun Na Khursheed-e-Imamat Sar-e-Maqtal Dhalta
+  Yun Na Khurshid-e-Imamat Sar-e-Maqtal Dhalta
   Yuṅ Na Sar Naizoṅ Pe Saare Jaate
   
   5
@@ -60,8 +60,8 @@ romanLyrics: |-
   Saath Gar Hum Bhi Tumhare Jaate
   
   10
-  Haal-e-Karbal Jo Koi Poochta Tha Noor-e-Ali
-  Ro Ke Zainab Yehi Deti Thi Sada Noor-e-Ali
+  Haal-e-Karbal Jo Koi Puchta Tha Nur-e-Ali
+  Ro Ke Zainab Yehi Deti Thi Sada Nur-e-Ali
 ---
 
 کاش عباس نہ مارے جاتے

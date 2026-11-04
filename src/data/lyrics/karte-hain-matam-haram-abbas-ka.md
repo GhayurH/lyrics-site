@@ -19,13 +19,13 @@ romanLyrics: |-
   
   1
   Haye Lab-e-Neher Hua Kya Ghazab
-  Teer Laga Mashk-e-Sakina Pe Jab
+  Tir Laga Mashk-e-Sakina Pe Jab
   Aa Gaya Hontoṅ Pe Dam Abbas Ka
   
   2
   Kehte Haiṅ Ro Ro Ke Yeh Ahle Haram
   Jaah o Hasham, Sabr o Raza o Karam
-  Kis Tarah Bhoolenge Gham Abbas Ka
+  Kis Tarah Bhulenge Gham Abbas Ka
   
   3
   Leke Shehenshah-e-Wafa Se Hayat
@@ -43,7 +43,7 @@ romanLyrics: |-
   Mashk Meiṅ Shayad Tha Dam Abbas Ka
   
   6
-  Ab Bhi Hai Besheer Ke Maqtal Ki Yaad
+  Ab Bhi Hai Beshir Ke Maqtal Ki Yaad
   Ab Bhi Hai Baqi Shahe Karbal Ki Yaad
   Karte Haiṅ Uncha Alam Abbas Ka
   
@@ -58,7 +58,7 @@ romanLyrics: |-
   Ho Gaya Baazu Qalam Abbas Ka
   
   9
-  Ashq-e-Lahoo Ro Diya Charkh-e-Gohar
+  Ashq-e-Lahu Ro Diya Charkh-e-Gohar
   Ro Diye Besaakhta Shahe Zaman
   Dekh Ke Chhalni Alam Abbas Ka
   

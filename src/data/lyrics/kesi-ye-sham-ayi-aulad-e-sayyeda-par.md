@@ -48,7 +48,7 @@ romanLyrics: |-
   
   7
   Khaimoṅ ke sath jhola bistar bhi jal gaya hai
-  Namoos e Mustafa ko baghi kaha gaya hai
+  Namus e Mustafa ko baghi kaha gaya hai
   Le jayenge subah ko qaidi hamein bana kar
   
   8

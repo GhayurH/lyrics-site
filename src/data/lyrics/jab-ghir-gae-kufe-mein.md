@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   dono bachon ka wahan koi madadgar na tha
   sirf tanhai thi yaawar na the gham-khwar na tha
-  woh bhatakte rahe dar-dar koi dildar na tha
+  woh bhatakte rahe dar dar koi dildar na tha
   koi dono ki madad karne ko tayyar na tha
   thak kar ke jo girta tha kabhi chhota baradar
   chalta tha bada bhai use god mein lekar
@@ -40,7 +40,7 @@ romanLyrics: |-
   patte bhi khadakte the to dar jate the dono
   
   4
-  ek kaneez aayi subah usko tha pani bharna
+  ek kaniz aayi subah usko tha pani bharna
   us ne masumoṅ ka pani meiṅ jo dekha chehra
   dono bachoṅ se yeh ghabra ke usi dam pucha
   kaun ho aaye kahaṅ se ho bata do itna
@@ -57,7 +57,7 @@ romanLyrics: |-
   
   6
   mutmain ho gaye jis waqt ke woh mah-e-laqa
-  le gayi bachon ko hujre mein kaneez-e-Zahra
+  le gayi bachon ko hujre mein kaniz-e-Zahra
   khana pani jo mila bachoṅ ka dil bhar aaya
   saamne nazroṅ ke maa baap ka chehra aaya
   baba ke liye mahv-e-buka ho gaye dono
@@ -67,9 +67,9 @@ romanLyrics: |-
   haaye Muslim ke pisar chand sitare dono
   khwab se chaunk ke uthe jo dulare dono
   aaheiṅ bharne lage hujre meiṅ woh pyare dono
-  roye besakhta taqdeer ke maare dono
-  rone ki sada sun ke utha Haris-e-maloon
-  khanjar liye hujre mein gaya Haris-e-maloon
+  roye besakhta taqdir ke maare dono
+  rone ki sada sun ke utha Haris-e-malun
+  khanjar liye hujre mein gaya Haris-e-malun
   
   8
   dekha Haris ko to masum bahut ghabraye
@@ -100,13 +100,13 @@ romanLyrics: |-
   rakh diya apna gala tegh ke niche ja kar
   bola Haris se ke ehsan yeh karna mujh par
   mere bhai ko dikha kar na chalana khanjar
-  maloon tha bedeen tha woh dushman-e-Haider
+  malun tha bedin tha woh dushman-e-Haider
   sar kaata bare bhai ka chhote ko dikha kar
   
   12
   chhote bhai ne lahu dekha jis dam
-  lot kar khoon mein bhai ke woh tadpa pur-gham
-  dekh kar soo-e-nahr kehta tha ke haaye matam
+  lot kar khun mein bhai ke woh tadpa pur-gham
+  dekh kar su-e-nahr kehta tha ke haaye matam
   bhai thehro ke zara der meiṅ aate haiṅ hum
   yeh dekh ke malun ne talwar chalayi
   aur ho gayi bekas ke sar o tan mein judai

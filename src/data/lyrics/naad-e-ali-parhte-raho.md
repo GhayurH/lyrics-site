@@ -27,7 +27,7 @@ romanLyrics: |-
   2
   Kashti giri Jb Nuh ki
   Hatif ne yuṅ awaz di
-  Toofan jayega ye tham
+  Tufan jayega ye tham
   Naad e Ali parhte raho
   
   3

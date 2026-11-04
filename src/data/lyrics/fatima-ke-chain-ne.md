@@ -12,13 +12,13 @@ cover: "/images/lyrics/fatima-ke-chain-ne.png"
 coverAlt: "Cover image for Fatima Ke Chain Ne"
 published: true
 romanLyrics: |-
-  Fatima ke chain ne Ali ke noor-e-ain ne
+  Fatima ke chain ne Ali ke nur-e-ain ne
   Bakhuda Husain ne din ko bacha diya
 
   1
   Harf aa raha tha din-e Mustafa ke naam par
   Minbar-e Rasul bik raha tha takht-e Shaam par
-  Deen ki asaas ne dast-e haq-shanas ne
+  Din ki asaas ne dast-e haq-shanas ne
   Ummat-e Muhammadi ko khwab se jaga diya
 
   2
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Mir-e Shaam ban gaya tha saanp aastin ka
   Khusrawi ke sar pe rakh raha tha taj din ka
-  Badshah-e deen ne boriya-nasheen ne
+  Badshah-e din ne boriya-nashin ne
   Aarzu-e khusrawi ko khaak meiṅ mila diya
 
   4
@@ -40,14 +40,14 @@ romanLyrics: |-
   Haq ki raah par lahu se ek diya jala diya
 
   5
-  Barhte barhte baat jab usool-e deen pe aa gayi
+  Barhte barhte baat jab usul-e din pe aa gayi
   Aur Yazidiyat ki shakl meiṅ uruj paa gayi
   Barh ke phir diler ne sher-e haq ke sher ne
   Do pehar meiṅ takht o taj o qasr-e Shaam dha diya
 
   6
   Halq-e bezabaan se zulm ki kamaan tor di
-  Shah-rag-e gulu se khanjaroon ki dhaar mor di
+  Shah-rag-e gulu se khanjarun ki dhaar mor di
   Nazish-e hayat ne fakhr-e kainat ne
   Sar kata ke aadmi ka sar buland kar diya
 

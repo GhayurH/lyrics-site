@@ -36,7 +36,7 @@ romanLyrics: |-
   Woh Pisar Saamne Jab Khun Meiṅ Duba Hota
   
   5
-  Dekhta Aankhon Se Jab Noor-e-Nazar Ke Tukde
+  Dekhta Aankhon Se Jab Nur-e-Nazar Ke Tukde
   Baap Ke Moo Se Nikal Aate Jigar Ke Tukde
   Saath Barchi Ke Jo Haathoṅ Pe Kaleja Hota
   
@@ -46,7 +46,7 @@ romanLyrics: |-
   Jab Ke Haste Hue Qaatil Ko Bhi Dekha Hota
   
   7
-  Tujhko Maaloom Bhi Hota Na Uthega Ye Pisar
+  Tujhko Maalum Bhi Hota Na Uthega Ye Pisar
   Kya Tere Dil Pe Guzarti Ye Bata De Akbar
   Uski Sughra Ka Bhi Khat Aane Hi Waala Hota
   

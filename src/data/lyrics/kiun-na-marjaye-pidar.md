@@ -36,7 +36,7 @@ romanLyrics: |-
   hai koi sabr meiṅ, Akbar teri madar jaisa
   
   6
-  kaise samjhega tu, Sughra ki museebat Maisam
+  kaise samjhega tu, Sughra ki musibat Maisam
   tera bhai nahi, Sughra ke baradar jaisa
 ---
 
