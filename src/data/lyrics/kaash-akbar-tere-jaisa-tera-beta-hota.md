@@ -21,7 +21,7 @@ romanLyrics: |-
   Puch Kar Dil Se Bata Haal Tera Kya Hota
   
   2
-  Kis Tarha Karta Jawan Laal Ko Rukhsat Beta
+  Kis Tarha Karta Jawaṅ Laal Ko Rukhsat Beta
   Kaise Deta Use Marne Ki Ijazat Beta
   Teri Behno Ne Jise Naaz Se Paala Hota
   
@@ -36,12 +36,12 @@ romanLyrics: |-
   Woh Pisar Saamne Jab Khun Meiṅ Duba Hota
   
   5
-  Dekhta Aankhoṅ Se Jab Nur-e-Nazar Ke Tukde
-  Baap Ke Moo Se Nikal Aate Jigar Ke Tukde
+  Dekhta Aankhoṅ Se Jab Nur-e-Nazar Ke Tukre
+  Baap Ke Moo Se Nikal Aate Jigar Ke Tukre
   Saath Barchi Ke Jo Haathoṅ Pe Kaleja Hota
   
   6
-  Khaak Par Khuṅ Meiṅ Tadapti Ho Nabi Ki Tasvir
+  Khaak Par Khuṅ Meiṅ Tarapti Ho Nabi Ki Tasvir
   Sabr Kar Leta Bata Haath Meiṅ Rakh Ke Shamshir
   Jab Ke Haste Hue Qaatil Ko Bhi Dekha Hota
   

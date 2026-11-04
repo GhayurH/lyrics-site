@@ -32,7 +32,7 @@ romanLyrics: |-
   Kat gaya sibt-e-payambar ka bhi sajde meiṅ gala
   
   3
-  Bain karti hui lashe pe chali aaon gi
+  Bain karti hui lashe pe chali aaoṅ gi
   Kitne nasur kaleje meiṅ hai dikhlauṅ gi
   Meri taqdir meiṅ kuchh bhi nahiṅ ashkoṅ ke siwa
   

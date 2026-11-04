@@ -25,7 +25,7 @@ romanLyrics: |-
   Waqt yeh woh hai ke talwar utha len hum log
   Din-e haq ko kisi surat se bacha len hum log
   Kiuṅ kisi aur pe is baar ko daleṅ hum log
-  Kiuṅ na yeh maarka khud aap sambhalen hum log
+  Kiuṅ na yeh maarka khud aap sambhaleṅ hum log
 
   Khinch kar niyam se talwar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi

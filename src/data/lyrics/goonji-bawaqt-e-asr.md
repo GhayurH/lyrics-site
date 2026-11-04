@@ -1,6 +1,6 @@
 ---
 title: "گونجی بوقتِ عصر صدا، میں حسین ہوں"
-alternateTitle: "Goonji Bawaqt E Asr Sada, Main Husain Hoon"
+alternateTitle: "Gunji Bawaqt-e-Asr Sada, Maiṅ Husain Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/goonji-bawaqt-e-asr.png"
 coverAlt: "Cover image for Goonji bawaqt e asr"
 published: true
 romanLyrics: |-
-  Gunji bawaqt e asr sada, maiṅ Husain huṅ
+  Gunji bawaqt-e-asr sada, maiṅ Husain huṅ
   Kaato na mera khushk gala, maiṅ Husain huṅ
   
   1

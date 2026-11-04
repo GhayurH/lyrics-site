@@ -1,6 +1,6 @@
 ---
 title: "مظہرِ ربِّ ذوالجلال علیؑ"
-alternateTitle: "Mazhar E Rab E Zuljalal Ali"
+alternateTitle: "Mazhar-e-Rab-e-Zuljalal Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,7 +13,7 @@ coverAlt: "Cover image for Mazhar E Rab E Zuljalal Ali"
 published: true
 romanLyrics: |-
   1
-  Mazhar e Rab e Zuljalal ALI
+  Mazhar-e-Rab-e-Zuljalal ALI
   kibriyaayi ka hai kamaal ali
   
   2
@@ -21,7 +21,7 @@ romanLyrics: |-
   Dekh kr apka jamaal Ali
   
   3
-  Bola Din e khuda ye mushkil meiṅ
+  Bola Din-e-khuda ye mushkil meiṅ
   Ghir raha huṅ mujhe sambhal ALI
   
   4
@@ -38,7 +38,7 @@ romanLyrics: |-
   
   7
   Pucha kisne azaan sikhlaiii
-  Bole ye hazrat e bilal ALI
+  Bole ye hazrat-e-bilal ALI
   
   8
   Aik abbas haiṅ zamane me

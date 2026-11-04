@@ -21,17 +21,17 @@ romanLyrics: |-
   Bahaya hai kis ne yeh khun-e Muhammad
   Qayamat yeh dhai hai kis ne Ilahi
 
-  Jawanon buzurgoṅ ko mara gaya hai
+  Jawanoṅ buzurgoṅ ko mara gaya hai
   Shahidoṅ meiṅ shamil hai nanha sipahi
 
   2
-  Kiya jashn barpa yun ahl-e hawas ne
+  Kiya jashn barpa yuṅ ahl-e hawas ne
   Shahidoṅ ke lashoṅ pe danke bajaye
   Jala dale Aal-e Muhammad ke khaime
   Sakina ke munh par tamache lagaye
 
-  Jo bimar tha us ka bistar na chhoda
-  Nabi-zadiyon par bhi darre lagaye
+  Jo bimar tha us ka bistar na chhora
+  Nabi-zadiyoṅ par bhi darre lagaye
 
   3
   Uthi apne marqad se bint-e Muhammad
@@ -58,7 +58,7 @@ romanLyrics: |-
   Kahiṅ kya ke darya kinare pare the
 
   Su-e Alqama ab jo Bibi ne dekha
-  Wafaon ke sahil pe jhande gare the
+  Wafaoṅ ke sahil pe jhande gare the
 
   6
   Idhar dard o gham ki satayi thi Zainab

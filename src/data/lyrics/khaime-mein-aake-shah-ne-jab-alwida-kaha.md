@@ -1,6 +1,6 @@
 ---
 title: "خیمے میں آکے شاہ نے جب الوداع کہا"
-alternateTitle: "Khaime Mein Aake Shah Ne Jab Alwida Kaha"
+alternateTitle: "Khaime Meiṅ Aake Shah Ne Jab Alwida Kaha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -27,7 +27,7 @@ romanLyrics: |-
   2
   Kuch Dur Hat Ke Khaime Meiṅ Bole Sheh-e-Zaman
   Zehmat Na Ho To Baazu Barhao Zara Behan
-  Maiṅ Bose Luṅ Wahan Ke Bandhegi Jahaṅ Rasan
+  Maiṅ Bose Luṅ Wahaṅ Ke Bandhegi Jahaṅ Rasan
   Baazu Barha Ke Roti Thi Hamshir-e-Khasta Tan
   Bhai Behan Ke Baazuoṅ Ko Chumne Laga
   Kohraam Mach Gaya, Kohraam Mach Gaya
@@ -36,7 +36,7 @@ romanLyrics: |-
   Ye Sun Ke Bint-e-Fatima Zehra Tarap Gayi
   Boli Gala Barhao Bas Ab Jald Ya Akhi
   Amma Ki Baat Aaj Mujhe Yaad Aagayi
-  Maiṅ Bose Luṅ Wahan Ke Chalegi Jahaṅ Chhuri
+  Maiṅ Bose Luṅ Wahaṅ Ke Chalegi Jahaṅ Chhuri
   Zainab Ne Barh Ke Chuma Baradar Ka Jab Gala
   Kohraam Mach Gaya, Kohraam Mach Gaya
   
@@ -58,7 +58,7 @@ romanLyrics: |-
   
   6
   Abid Se Phir Ye Kehne Lage Shah-e-Karbala
-  Bewaaon Ka Aur Yatimoṅ Ka Ab Tum Ho Aasra
+  Bewaaoṅ Ka Aur Yatimoṅ Ka Ab Tum Ho Aasra
   Jo Imtehan Mera Tha Sab Maine De Diya
   Aage Tera Jihad Hai Bimar-e-Karbala
   Bimar Beta Baap Se Jis Dam Juda Hua
@@ -75,7 +75,7 @@ romanLyrics: |-
   8
   Bhai Ko Tanha Dekh Ke Zainab Tarap Gayi
   Roti Hui Husain Ke Nazdik Aagayi
-  Aur Phir Raqab Thaam Ke Boli Ae Shah-e-Din
+  Aur Phir Raqab Thaam Ke Boli Ae Shah-e-Diṅ
   Lo Maiṅ Sawar Karti Huṅ Abbas Gar Nahiṅ
   Waiz Hua Sawar Jo Zehra Ka Laadla
   Kohraam Mach Gaya, Kohraam Mach Gaya

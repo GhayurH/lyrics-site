@@ -48,7 +48,7 @@ romanLyrics: |-
   
   6
   Hai Jis Ki Fikr Karbala, Husain Woh Dimagh Hai
-  Yeh Panjtan Ki Anjuman Ka Panchwan Charagh Hai
+  Yeh Panjtan Ki Anjuman Ka Panchwaṅ Charagh Hai
   Hasan Ka Pehla Humsafar, Ali Ka Dosra Pisar
   Imam Tisra Husain Hai
   

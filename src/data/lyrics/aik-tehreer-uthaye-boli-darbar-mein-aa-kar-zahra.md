@@ -1,6 +1,6 @@
 ---
 title: "ایک تحریر اٹھائے، بولی دربار میں آ کر زہراؑ، لوگوں میں بنتِ نبی ہوں"
-alternateTitle: "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-E-Nabi Hoon"
+alternateTitle: "Aik Tehrir Uthaye, Boli Darbar Meiṅ Aa Kar Zahra, Logoṅ Meiṅ Bint-E-Nabi Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -28,7 +28,7 @@ romanLyrics: |-
   
   3
   Pucha Haider Ne Bata, Kya Kya Masjid Meiṅ Hua, Ro Ke Bas Itna Kaha
-  Kabhi Diwaron Ko Thama, Kabhi Maiṅ Khaak Pe Baithi Huṅ Thak Kar
+  Kabhi Diwaroṅ Ko Thama, Kabhi Maiṅ Khaak Pe Baithi Huṅ Thak Kar
   Kabhi Betoṅ Ne Sambhala, Kabhi Raste Meiṅ Giri Huṅ
   
   4

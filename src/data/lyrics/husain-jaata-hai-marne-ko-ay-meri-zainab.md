@@ -34,7 +34,7 @@ romanLyrics: |-
   
   3
   Is maah se mansub thi bhaiya meri khushiyaṅ
-  Thi sab se badi Eid meri tisri Shabaṅ
+  Thi sab se bari Eid meri tisri Shabaṅ
   Shaban ke jab chand ko dekhegi ye behna
   
   4
@@ -48,7 +48,7 @@ romanLyrics: |-
   Soyegi nahi jab meri lori se Sakina
   
   6
-  Hota tha Takallum yun juda bhai behan se
+  Hota tha Takallum yuṅ juda bhai behan se
   Jis tarha koi ruh nikalti ho badan se
   Sheh ran ko chale kehti rahi Sani-e-Zahra
 ---

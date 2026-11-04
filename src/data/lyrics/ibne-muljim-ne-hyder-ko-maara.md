@@ -40,7 +40,7 @@ romanLyrics: |-
   Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Haiṅ
   
   7
-  Shab Ye Unniswin Kaisi Aayi, Khun Meiṅ Duba Muhammad Ka Bhai
+  Shab Ye Unniswiṅ Kaisi Aayi, Khun Meiṅ Duba Muhammad Ka Bhai
   Ro Raha Hai Sahar Ka Sitara, Rozadaron Qayamat Ke Din Haiṅ
   
   8

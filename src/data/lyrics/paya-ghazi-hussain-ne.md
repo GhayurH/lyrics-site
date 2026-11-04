@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Tere lab par meri gawahi hai
   Kya tabiyat meiṅ tu Ilahi hai
-  Ban ke Zahra bulaooṅ gi
+  Ban ke Zahra bulauṅ gi
   Tumheiṅ Ghazi rida rida keh ke
 
   2

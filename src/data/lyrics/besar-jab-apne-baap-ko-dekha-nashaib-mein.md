@@ -1,6 +1,6 @@
 ---
 title: "بے سر جو اپنے باپ کو دیکھا نشیب میں"
-alternateTitle: "Besar Jab Apne Baap Ko Dekha Nashaib Mein"
+alternateTitle: "Besar Jab Apne Baap Ko Dekha Nashaib Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,8 +15,8 @@ romanLyrics: |-
   sunsaan ban wo raat wo uth'ta hua dhuaṅ
   nikli padar ko dhundne nanhi si ek jaaṅ
 
-  daaman jala huwa tha to kaanoṅ se khun rawaan
-  nilai thai donoṅ gaal tamachon ke thai nishaaṅ
+  daaman jala huwa tha to kaanoṅ se khun rawaaṅ
+  nilai thai donoṅ gaal tamachoṅ ke thai nishaaṅ
   tuta tha kamsini meiṅ masayib ka aasmaaṅ
   khati huwi wo thokareiṅ lashoṅ ke darmiyaṅ
 
@@ -30,14 +30,14 @@ romanLyrics: |-
   
   1
   maqtal may laash baap ki jab sar kati mili
-  thi umr char saal ki bachi tadap gayi
+  thi umr char saal ki bachi tarap gayi
   beti jab apne baap ko pehchan na saki
   awaaz ya abaa ki sakina ne ro ke di
   laasha gharib baap ka bola nashaib meiṅ
   royi bohat yatim sakina...
 
   2
-  likha hai raawiyon ne wo manzar bada ajib
+  likha hai raawiyoṅ ne wo manzar bara ajib
   jangal wo kali raat wo ghurbat wo gham nasib
   awaaz sun ke baap ki pahunchi hai jab kharib
   haalat pidar ki dekh ke royi bohat gharib
@@ -56,7 +56,7 @@ romanLyrics: |-
   khaali na paayi jism pe tiroṅ se koi jaa
   karne lagi tawaaf wo baba ki laash ka
   mayus ho ke payinti baithi wo ghamzada
-  rukhsaar apne baap ke talwon pe rakh diya
+  rukhsaar apne baap ke talwoṅ pe rakh diya
   le kar padar ke paaoṅ ka bosa nashaib meiṅ
   royi bohat yatim sakina...
   
@@ -64,26 +64,26 @@ romanLyrics: |-
   apne pidar ki laash pe le le ke siskiyaṅ
   wo apne dard baap se karne lagi bayaṅ
   rukh par bani thi saaf jo zaalim ki ungliyaṅ
-  bachi ne jab dikhaye tamachon ke wo nishaṅ
-  zakhmi badan husain ka tadpa nashaib meiṅ
+  bachi ne jab dikhaye tamachoṅ ke wo nishaṅ
+  zakhmi badan husain ka tarpa nashaib meiṅ
   royi bohat yatim sakina...
 
   6
   phir ye kehne lagi ro ro ke yatima baba
-  mere baaloṅ ko sitamgar ne jo pakda baba
+  mere baaloṅ ko sitamgar ne jo pakra baba
   maara zaalim ne mujhe aisa tamacha baba
   cha gaya meri nigahoṅ meiṅ andhera baba
 
   7
   kehti thi mai yatim hu mujh par na waar kar
-  ki minnatein bahot ki zara intezaar kar
+  ki minnateiṅ bahot ki zara intezaar kar
   mai de rahi thi shimr ko bunde utaar kar
   chine hai be rehm ne magar mujhko maar kar
   ye dard jab pidar ko sunaya nashaib meiṅ
   royi bohat yatim sakina...
 
   8
-  jo haath sar pe roz phirate thai shah-e-din
+  jo haath sar pe roz phirate thai shah-e-diṅ
   us haath ke qarib jo aayi wo naazniṅ
   apne pidar ke haath pe jis dam rakhi jabiṅ
   us dam na thi yatim ke pairoṅ tale zamiṅ
@@ -92,10 +92,10 @@ romanLyrics: |-
 
   9
   waiz likhega kaun yatima ki bekasi
-  laashe shah e zaman se wo jis dam juda hui
+  laashe shah-e-zaman se wo jis dam juda hui
   lagta tha ab jiyegi na bachi husain ki
   jaane lagi nasheb se jab sheh ki laadli
-  baba ko apne chod ke tanha nashaib meiṅ
+  baba ko apne chor ke tanha nashaib meiṅ
   royi bohat yatim sakina...
 ---
 

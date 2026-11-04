@@ -1,6 +1,6 @@
 ---
 title: "نہیں ہوتی گناہگاروں پر رحمت ہو بھی سکتی ہے"
-alternateTitle: "Nahin Hoti Gunahgaron Pe Rehmat"
+alternateTitle: "Nahiṅ Hoti Gunahgaroṅ Pe Rehmat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -53,7 +53,7 @@ romanLyrics: |-
   Keh ke yeh baat Shabbir rone lage
   Aur phir haath sine pe rakh kar kaha
   Aisa na ho kabhi, baap uthaye koi
-  Apne kandhe pe mayyat jawan laal ki
+  Apne kandhe pe mayyat jawaṅ laal ki
 
   5
   Yaad hai tumko baba ne jate hue

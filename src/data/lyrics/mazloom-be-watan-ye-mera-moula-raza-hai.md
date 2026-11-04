@@ -1,6 +1,6 @@
 ---
 title: "مظلوم بے وطن یہ مرا مولا رضا ہے"
-alternateTitle: "Mazloom Be Watan Ye Mera Maula Raza Hai"
+alternateTitle: "Mazlum Be Watan Ye Mera Maula Raza Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -26,12 +26,12 @@ romanLyrics: |-
   Lipti Hai Janaze Se, Nahi Sar Pe Rida Hai
   
   3
-  Aaye Haiṅ Janazay Pe Nabi, Shah-e-Ummam Bhi
+  Aaye Haiṅ Janaze Pe Nabi, Shah-e-Ummam Bhi
   Kulsum, Ruqaiya Bhi Haiṅ Masuma-e-Qum Bhi
   Woh Bibi Hai Karbal Meiṅ, Jali Jis Ki Abaa Hai
   
   4
-  Yun Luta Musalmano Ne Zahra Ke Chaman Ko
+  Yuṅ Luta Musalmano Ne Zahra Ke Chaman Ko
   Haye Zehar Diya Jaise Mere Maula Hasan Ko
   Dohrayi Gayi Haye, Wohi Is Pe Jafa Hai
   
@@ -47,7 +47,7 @@ romanLyrics: |-
   
   7
   Rote Haiṅ Farishte Bhi Zamiṅ, Aur Zamaaṅ Bhi
-  Haye Loh o Qalam Arsh-e-Barin Kaun o Makaaṅ Bhi
+  Haye Loh o Qalam Arsh-e-Bariṅ Kaun o Makaaṅ Bhi
   Khair-Un-Nisa Ke Laal, Ke Matam Ki Sada Hai
 ---
 

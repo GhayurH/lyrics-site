@@ -32,7 +32,7 @@ romanLyrics: |-
   
   4
   Gin gin ke jo Sughra ne, yeh din haiṅ guzare
-  Zinda hai tu Akbar ke, wadon ke sahare
+  Zinda hai tu Akbar ke, wadoṅ ke sahare
   Din raat tarapti hai, isse aur na tarpa.
   
   5

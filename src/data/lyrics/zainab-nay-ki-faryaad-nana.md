@@ -13,26 +13,26 @@ coverAlt: "Cover image for Zainab Ne Ki Faryaad Nana"
 published: true
 romanLyrics: |-
   Zainab Ne Ki Faryaad Nana, Faryaad Nana Faryaad Nana
-  Hum Ho Ke Aaey Barbaad Nana
+  Hum Ho Ke Aaye Barbaad Nana
   
   1
   Qatil Khara Tha Bhai Ke Sar Per, Roti Rahi Meiṅ Katta Raha Sar
   Karti Rahi Mei Faryaad Nana, Faryaad Nana Faryaad Nana
   
   2
-  Rasi Thi Ik aur Bara Gale The, Darbaar Meiṅ Hum Aese Gaey The
+  Rasi Thi Ik aur Bara Gale The, Darbaar Meiṅ Hum Aese Gaye The
   Hum Per Huwi Vo Baydaad Nana, Baydaad Nana Baydaad Nana
   
   3
   Tauq o Salasil Gardan Meiṅ Daale, Zanjir o Bairi Hathoṅ Mei Pehne
-  Chalte Rahe Yun Sajjad Nana, Sajjad Nana Sajjad Nana
+  Chalte Rahe Yuṅ Sajjad Nana, Sajjad Nana Sajjad Nana
   
   4
   Akbar Nahieṅ Hai Asghar Nahieṅ Hai, Qasim Nahieṅ Hai Sarwar Nahieṅ Hai
   Aate Haiṅ Mujhko Sub Yaad Nana, Sub Yaad Nana Sub Yaad Nana
   
   5
-  Is Gham Se Mera Phatta He Sina, Qaidi Hai Ub Tak Bali Sakina
+  Is Gham Se Mera Phatta Hai Sina, Qaidi Hai Ub Tak Bali Sakina
   aur Hum Houe Haiṅ Azaad Nana, Azaad Nana Azaad Nana
   
   6
@@ -40,7 +40,7 @@ romanLyrics: |-
   Kaisi Thi haaye Uftaad Nana, Uftaad Nana Uftaad Nana
   
   7
-  Ujra Houa Hai Kumba Humara, Hum Hogaey Haiṅ Ub Bay Sahara
+  Ujra Houa Hai Kumba Humara, Hum Hogaey Haiṅ Ub Be Sahara
   Karbobala Hai Abaad Nana, Abaad Nana Abaad Nana
   
   8

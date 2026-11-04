@@ -40,20 +40,20 @@ romanLyrics: |-
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   5
-  Dunia walon ki na parvah na kutch baat karo,
+  Dunia waloṅ ki na parvah na kutch baat karo,
   Mannati bairiyaṅ Sajjad ke gham me pehno,
   Raunaqe farsh-e-aza girya o zari rahe
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   6
   Maaoṅ behnoṅ ko hai paigam mera sirf yahi,
-  Aapne bacchon ko julusoṅ se nahi roko kabhi,
+  Aapne bacchoṅ ko julusoṅ se nahi roko kabhi,
   Yeh shahadat hai sharaf, yeh sharaf jaari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   
   7
   Apne ghar me bhi aza khana sajana hai mujhe,
-  Apne bacchon ko azadar banana hai mujhe,
+  Apne bacchoṅ ko azadar banana hai mujhe,
   Taake is nasl me bhi, tazia dari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
   

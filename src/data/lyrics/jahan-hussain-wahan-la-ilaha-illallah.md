@@ -1,6 +1,6 @@
 ---
 title: "جہاں حسین وہاں لا إله إلا الله"
-alternateTitle: "Jahan Husain Wahan La Ilaha Illallah"
+alternateTitle: "Jahaṅ Husain Wahaṅ La Ilaha Illallah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,7 +18,7 @@ romanLyrics: |-
 
   2
   Na puchiye hai kahaṅ La ilaha illa Allah
-  Jahaṅ Husain wahan La ilaha illa Allah
+  Jahaṅ Husain wahaṅ La ilaha illa Allah
 
   3
   Ali ki tegh se tarikh puchiye sab ki
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   10
   Azaan meiṅ Ali Akbar ne La ilaha illa Allah kaha
-  To aaj tak hai jawan La ilaha illa Allah
+  To aaj tak hai jawaṅ La ilaha illa Allah
 
   11
   Dar-e Batul nahiṅ jal raha tha ae Majid

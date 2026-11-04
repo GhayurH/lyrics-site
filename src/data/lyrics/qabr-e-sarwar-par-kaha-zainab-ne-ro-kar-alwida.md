@@ -24,7 +24,7 @@ romanLyrics: |-
   Aaj Jaati Huṅ Akeli Ghar Luta Kar, Alwida
   
   3
-  beKhata Maare Sakina Ko Tamachey Shimr Ne
+  beKhata Maare Sakina Ko Tamache Shimr Ne
   Le Liye Masum Ke Kaanoṅ Se Gauhar, Alwida
   
   4
@@ -33,11 +33,11 @@ romanLyrics: |-
   
   5
   Ho Gayi Shart-e-Wafa Par Tum Na Aye Shaam Meiṅ
-  Taazianey Maartey The Jab Sitamgar, Alwida
+  Taaziane Maarte The Jab Sitamgar, Alwida
   
   6
-  Shaam Ke Darbaar Meiṅ The Saat Sau Kursi-Nashin
-  The Rasan-Basta Wahan Aal-e-Payambar, Alwida
+  Shaam Ke Darbaar Meiṅ The Saat Sau Kursi-Nashiṅ
+  The Rasan-Basta Wahaṅ Aal-e-Payambar, Alwida
   
   7
   Thi Bohat Ummid Hai Abbas Sa Bhai Mera

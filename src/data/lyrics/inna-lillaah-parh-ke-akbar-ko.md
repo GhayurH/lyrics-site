@@ -28,20 +28,20 @@ romanLyrics: |-
   2
   jaise dil jaa raha ho maqtal may
   jaise jaati ho jaan sine se
-  aise apne jawan ke piche
+  aise apne jawaṅ ke piche
   ek mazlum baap chalta hai
   
   3
   kitna pyara hai shaah ko akbar
   saare zaalim ye baat jaante hai
   taygh akbar pe chal rahi ha yahaṅ
-  ibne zahra wahan tarapta hai
+  ibne zahra wahaṅ tarapta hai
   
   4
-  quwwat e murtaza ye puchti hai
-  sabr e shabbir itna batla de
+  quwwat-e-murtaza ye puchti hai
+  sabr-e-shabbir itna batla de
   wo to khyber ke dar se wazni tha
-  kaise laasha jawan uthaya hai
+  kaise laasha jawaṅ uthaya hai
   
   5
   ran may rahwaar se gire akbar

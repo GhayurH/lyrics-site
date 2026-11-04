@@ -28,7 +28,7 @@ romanLyrics: |-
   So Ke Ab Khaak Pe Karti Hai Guzara Baba
   
   4
-  Saath Rehwaron Ke Dauraya Gaya Hai Mujh Ko
+  Saath Rehwaroṅ Ke Dauraya Gaya Hai Mujh Ko
   Chur Zakhmoṅ Se Badan Mera Hai Sara Baba
   
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
   Un Ki Ghurbat Meiṅ Karuṅ Kaise Gawara Baba
   
   6
-  Nok-e-Naiza Pe Usay Dekhuṅ To Dekhuṅ Kaise
+  Nok-e-Naiza Pe Use Dekhuṅ To Dekhuṅ Kaise
   Mera Asghar Tha Mujhe Jaan Se Bhi Pyara Baba
   
   7

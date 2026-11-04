@@ -33,7 +33,7 @@ romanLyrics: |-
   Ghar Poorana Mere Husain ka hai
   
   6
-  Aana Farsh e Aza pe Be Parda
+  Aana Farsh-e-Aza pe Be Parda
   Dil Dukhana Mere Husain ka hai
   
   7
@@ -41,12 +41,12 @@ romanLyrics: |-
   Karkhana Mere Husain ka hai
   
   8
-  Ho Agar Munkir e Namaz Koi
+  Ho Agar Munkir-e-Namaz Koi
   Bhul jana Mere Husain ka hai
   
   9
-  Dainey Wali Hai Zaat Allah Ki
-  Per Dilana Merey Husain Ka Hai
+  Daine Wali Hai Zaat Allah Ki
+  Per Dilana Mere Husain Ka Hai
   
   10
   Maare ek Sabar se Hazaar Uddu
@@ -54,15 +54,15 @@ romanLyrics: |-
   
   11
   Ug Raha Hai Jo Baad-e-Karbobala
-  Wo Dana Dana Merey Husain Ka Hai
+  Wo Dana Dana Mere Husain Ka Hai
   
   12
   Matami jab Koi Nazar Aaye
   Maan Jana Mere Husain ka hai
   
   13
-  Kaash Kehney Lagey Ye Log Mujhey
-  Tu Diwana Merey Husain Ka Hai
+  Kaash Kehne Lagey Ye Log Mujhe
+  Tu Diwana Mere Husain Ka Hai
   
   14
   Ye Jahaṅ Kia hai Dono Aalam maiṅ

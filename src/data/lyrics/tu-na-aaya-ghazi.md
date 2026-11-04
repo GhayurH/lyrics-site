@@ -39,7 +39,7 @@ romanLyrics: |-
   4
   kitni bebas thi behan ae shehenshahe wafa
   naam le le ke mera jab ye zaalim ne kaha
-  naaz tha jispe tujhe ab bulao na usay
+  naaz tha jispe tujhe ab bulao na use
   aur maiṅ roti rahi
   
   5
@@ -69,7 +69,7 @@ romanLyrics: |-
   9
   roya rehaan qalam karke ye baat raqam
   khun may dub gaya mere ghazi ka alam
-  zakhmi zainab ka jigar khun-fishan shaah ka sar
+  zakhmi zainab ka jigar khuṅ-fishaṅ shaah ka sar
   aaye khaimoṅ may shaqi
 ---
 

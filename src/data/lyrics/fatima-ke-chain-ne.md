@@ -53,7 +53,7 @@ romanLyrics: |-
 
   7
   Dil kahaṅ se laauṅ jo karuṅ yeh waqia bayan
-  Tin din ki pyaas meiṅ woh hausla tha al-amaan
+  Tin din ki pyaas meiṅ woh hausla tha al-amaaṅ
   Zulm ke asir ne rann meiṅ ek saghir ne
   Muskura ke fauj-e Shaam ko rula rula diya
 

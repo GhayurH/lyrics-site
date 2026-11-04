@@ -21,7 +21,7 @@ romanLyrics: |-
   Is aastane pe qismat sanwarte rehna
 
   2
-  Rawan hai kashti-e iman isi sahare se
+  Rawaṅ hai kashti-e iman isi sahare se
   Na ruk sakegi yeh zulm o sitam ke dhare se
   Ali ke naam pe lag jayegi kinare se
   Har ek mauj se sahil ubharte rehna

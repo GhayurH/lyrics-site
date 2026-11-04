@@ -1,6 +1,6 @@
 ---
 title: "چھ ماہ کا مجاہد، سوئے میدان چلا ہے، ماں دیکھ رہی ہے"
-alternateTitle: "Cheh Mah Ka Mujahid, Suwe Maidaan Chala Hai, Maan Dekh Rahi Hai"
+alternateTitle: "Cheh Mah Ka Mujahid, Suwe Maidaan Chala Hai, Maaṅ Dekh Rahi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,7 +23,7 @@ romanLyrics: |-
   
   2
   Ae behn tere samne baba ke haiṅ haalaat
-  Ab sham-e-ghariban ko hi hoti hai mulaaqaat
+  Ab sham-e-gharibaṅ ko hi hoti hai mulaaqaat
   Mur mur ke Sakina ki taraf dekh raha hai
   Maaṅ dekh rahi hai
   
@@ -35,7 +35,7 @@ romanLyrics: |-
   
   4
   Allah mere Allah ye duhaai hai duhaai
-  Ummat ne Sayyada ki yun luti hai kamai
+  Ummat ne Sayyada ki yuṅ luti hai kamai
   Aik behen ne bhai ka lahu muh pe mala hai
   Maaṅ dekh rahi hai
   
@@ -47,7 +47,7 @@ romanLyrics: |-
   
   6
   Haiṅ Hajra Yaqub Baraahim ke hamsar
-  Sar chand se bete ka charha nok-e-sinan par
+  Sar chand se bete ka charha nok-e-sinaṅ par
   Paband-e-rasan phul si beti ka gala hai
   Maaṅ dekh rahi hai
   

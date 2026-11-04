@@ -28,7 +28,7 @@ romanLyrics: |-
   
   3
   Salaar-e-Husaini Kya Kehna, Meraj-e-Wafa Sartaj-e-Wafa
-  Har Mauj Tadapti Hai Ab Tak, Saahil Se Jo Tu Palta Pyasa
+  Har Mauj Tarapti Hai Ab Tak, Saahil Se Jo Tu Palta Pyasa
   Tha Hukm-e-Husaini Jang Na Ki, Har Waar Saha Har Zulm Saha
   Tha Hosh Meiṅ Jab Tak Fikr Ye Thi, Pyasi Na Sakina Reh Jaye
   
@@ -46,7 +46,7 @@ romanLyrics: |-
   
   6
   Ye Matam Hai Hal Min Ki Sada, Har Ashk Hai Jazba-e-Nusrat Ka
-  Yun Haq Ki Taraf Aa Jaane Ka, Haasil Hai Abhi Tak Ek Mauqa
+  Yuṅ Haq Ki Taraf Aa Jaane Ka, Haasil Hai Abhi Tak Ek Mauqa
   Pehchan Zamir o Dil Ki Sada, Is Matam Meiṅ Shaamil Ho Ja
   Shabbir Bulaate Haiṅ Ab Tak, Gar Hurr Ho Kahiṅ To Aa Jaye
 ---

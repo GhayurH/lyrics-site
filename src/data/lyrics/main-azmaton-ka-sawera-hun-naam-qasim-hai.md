@@ -1,6 +1,6 @@
 ---
 title: "میں عظمتوں کا سویرا ہوں، نام قاسم ہے"
-alternateTitle: "Main Azmaton Ka Sawera Hun, Naam Qasim Hai"
+alternateTitle: "Maiṅ Azmatoṅ Ka Sawera Huṅ, Naam Qasim Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

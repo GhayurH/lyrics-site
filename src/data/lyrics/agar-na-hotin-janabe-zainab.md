@@ -1,6 +1,6 @@
 ---
 title: "اگر نہ ہوتیں جناب زینبؑ نہ ہوتا اللہ کا نام لیوا"
-alternateTitle: "Agar Na Hotin Janabe Zainab"
+alternateTitle: "Agar Na Hotiṅ Janabe Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

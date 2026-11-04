@@ -1,6 +1,6 @@
 ---
 title: "ماں نہ روئے گی تمہیں عون و محمد کیوں کر"
-alternateTitle: "Maan Na Roegi Tumhe Aun O Mohammad Kyunkar"
+alternateTitle: "Maaṅ Na Roegi Tumhe Aun O Mohammad Kyunkar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -38,7 +38,7 @@ romanLyrics: |-
   
   5
   Tum nahi ho to maza kuch bhi nahi jine meiṅ
-  Haey is gham se phataa jata hai dil sine meiṅ
+  Hai is gham se phataa jata hai dil sine meiṅ
   Kaun ab mujhko pukarega bhala maa kehkar
   
   6

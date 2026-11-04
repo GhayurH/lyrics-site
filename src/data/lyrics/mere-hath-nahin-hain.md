@@ -1,6 +1,6 @@
 ---
 title: "میرے ہاتھ نہیں ہیں"
-alternateTitle: "Mere Hath Nahin Hain"
+alternateTitle: "Mere Hath Nahiṅ Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

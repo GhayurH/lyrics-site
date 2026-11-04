@@ -17,7 +17,7 @@ romanLyrics: |-
   Aageya mah e muharram haan nahi aaye Husain
   
   1
-  Yaad pardais maiṅ aati hai lahad amman ki
+  Yaad pardais maiṅ aati hai lahad ammaṅ ki
   Dil ka ahwal sunane ko kahaṅ jaye Husain
   
   2

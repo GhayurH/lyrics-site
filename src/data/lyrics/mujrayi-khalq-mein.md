@@ -1,6 +1,6 @@
 ---
 title: "مجرئی خلق میں، ان آنکھوں نے کیا کیا دیکھا"
-alternateTitle: "Mujrayi Khalq Mein"
+alternateTitle: "Mujrayi Khalq Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

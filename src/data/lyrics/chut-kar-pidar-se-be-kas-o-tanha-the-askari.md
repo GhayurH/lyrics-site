@@ -39,20 +39,20 @@ romanLyrics: |-
   Poshida Apna Haal-e-Jafa Karne Ke Liye
   
   4
-  Shiddat Wo Tap Ki Zehr Ka Wo Sadma-e-Giraan
-  Aisa Tha Zof Kanpta Tha Jism-e-Natawaan
+  Shiddat Wo Tap Ki Zehr Ka Wo Sadma-e-Giraaṅ
+  Aisa Tha Zof Kanpta Tha Jism-e-Natawaaṅ
   Kamsin Abhi The Hujjat-e-Haq Sahib-uz-Zaman
-  Tha Dusra Baras, Koi Kehta Hai Panchwan
+  Tha Dusra Baras, Koi Kehta Hai Panchwaṅ
   Jaan-e-Nabi Ne Bar-e-Imamat Utha Liya
   Is Kam Sini Meiṅ Koh-e-Musibat Utha Liya
   
   5
-  Jab Zehr Se Shahid Huye Gyarhwin Imam
+  Jab Zehr Se Shahid Huye Gyarhwiṅ Imam
   Samarra Wale Khaak Urane Lage Tamam
   Bazar Band Kar Diye, Chhore Sab Apne Kaam
   Matam Meiṅ Askari Ke Huye Mahv Khaas o Aam
   Darwaza-e-Imam Pe Aisi Fughaṅ Hui
-  Samarra Meiṅ Qayamat-e-Sughra Ayan Hui
+  Samarra Meiṅ Qayamat-e-Sughra Ayaṅ Hui
   
   6
   Jis Ghar Meiṅ Thi Bani Hui Qabr-e-Ali Naqi
@@ -66,13 +66,13 @@ romanLyrics: |-
   Ab Is Qalaq Se Hote Haiṅ Tukre Dil o Jigar
   Zulm Ahl-e-Bait Par Kiye Aada Ne Is Qadar
   Sajjad Jaise Roye Na Laash-e-Husain Par
-  Yun Hi Na Roya Askari Ki Laash Par Pisar
-  Durre Uthaye Gard Wahan Nabkaar The
+  Yuṅ Hi Na Roya Askari Ki Laash Par Pisar
+  Durre Uthaye Gard Wahaṅ Nabkaar The
   Aamada-e-Qatl Par Yahaṅ Bidat-Shiar The
   
   8
   Maula Imam-e-Asr Huye Aap To Nihaṅ
-  Bachte To Kaise Abid-e-Bimar o Natawan
+  Bachte To Kaise Abid-e-Bimar o Natawaṅ
   Dena Tha Un Ko Sabr o Tahammul Ka Imtihaṅ
   Wo Kufa o Dimashq Gaye Pehne Beriyaṅ
   Islam Ka Tha Bar Mujahid Ki Pusht Par

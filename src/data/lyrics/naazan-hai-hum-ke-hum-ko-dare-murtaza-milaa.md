@@ -1,6 +1,6 @@
 ---
 title: "نازاں ہیں ہم کہ ہم کو درِ مرتضیٰ ملا"
-alternateTitle: "Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
+alternateTitle: "Naazaṅ Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -30,10 +30,10 @@ romanLyrics: |-
   
   5
   Sajda furu-e-din hai Shabbir asl-e-din
-  Shabbir mil gaye jisay usko khudaa mila
+  Shabbir mil gaye jise usko khudaa mila
   
   6
-  laakhoṅ hazarzon saal ke sajde hawa huwe
+  laakhoṅ hazarzoṅ saal ke sajde hawa huwe
   iblis ko batao to sajdoṅ se kiya mila
   
   7

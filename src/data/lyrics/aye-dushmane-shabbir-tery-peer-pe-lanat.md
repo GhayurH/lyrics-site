@@ -1,6 +1,6 @@
 ---
 title: "اے دشمنِ شبیر تیرے پیر پہ لعنت"
-alternateTitle: "Ae Dushmane Shabbir Tery Peer Pe Lanat"
+alternateTitle: "Ae Dushmane Shabbir Tery Pir Pe Lanat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -29,7 +29,7 @@ romanLyrics: |-
   Us maal o zar o mansab o jaagir pa laanat
   
   4
-  Jo Haq ki hifazat ke liye kaam na aayein
+  Jo Haq ki hifazat ke liye kaam na aayeiṅ
   Mazlumoṅ ko kamzoroṅ ko nahaq jo darayeiṅ
   Shamshir o Sinan o Tabar o Tir pa laanat
   

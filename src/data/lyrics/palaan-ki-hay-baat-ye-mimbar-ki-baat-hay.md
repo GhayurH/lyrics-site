@@ -1,6 +1,6 @@
 ---
 title: "پالان کی ہے بات یہ منبر کی بات ہے"
-alternateTitle: "Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
+alternateTitle: "Palaan Ki Hai Baat Ye Mimbar Ki Baat Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/palaan-ki-hay-baat-ye-mimbar-ki-baat-hay.png"
 coverAlt: "Cover image for Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
 published: true
 romanLyrics: |-
-  Palaan ki he baat ye mimbar ki baat hai
+  Palaan ki hai baat ye mimbar ki baat hai
   Maydan-e-Khum wilayat-e-Haidar ki baat hai
   
   1
@@ -25,7 +25,7 @@ romanLyrics: |-
   
   3
   Fath-e-Hunain o Khandaq o Khaybar ki baat hai
-  Ik fard he lage he ke lashkar ki baat hai
+  Ik fard hai lage hai ke lashkar ki baat hai
   
   4
   Gunjayga ab fiza may Ali-e-Wali ka naam
@@ -36,20 +36,20 @@ romanLyrics: |-
   Saahab ye apne apne muqaddar ki baat hai
   
   6
-  Kiuṅ kar na ata arsh se patthar paey sanad
+  Kiuṅ kar na ata arsh se patthar pae sanad
   Akhir ko yay wilayat-e-Haidar ki baat hai
   
   7
-  Bhagey na aj koyi karo aisa intizam
+  Bhage na aj koyi karo aisa intizam
   Buzar ke kaan may yahi Qambar ki baat hai
   
   8
-  Qaayam he ab bhi akhri Mawla Ghadir ka
+  Qaayam hai ab bhi akhri Mawla Ghadir ka
   Meri nahi ye Sura-e-Kawsar ki baat hai
   
   9
   Baade Ghadir bazm-e-saqifa meiṅ baithna
-  Aawaragi-e-fikar hay yay shar ki baat hai
+  Aawaragi-e-fikar hai yay shar ki baat hai
 ---
 
 پالان کی ہے بات یہ منبر کی بات ہے

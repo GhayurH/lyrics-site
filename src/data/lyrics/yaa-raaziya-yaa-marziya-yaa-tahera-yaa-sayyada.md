@@ -66,7 +66,7 @@ romanLyrics: |-
   7
   Ali Ke Chehra-e-Aqdas Pe Ambiya Ka Jalaal
   Wujud-e-Fatema Zahra Pe Mustafa Ka Jamaal
-  Ali Ke Dam Se Jahaṅ Meiṅ Tajalliyon Ke Nihaal
+  Ali Ke Dam Se Jahaṅ Meiṅ Tajalliyoṅ Ke Nihaal
   Mataa-e-Fatema Zahra Hasan Husain Se Laal
   Ali Ne Masjid-e-Kufa Meiṅ Zakhm Khaaya Hai
   Zamaane Walo Ne Zahra Ko Bhi Rulaaya Hai

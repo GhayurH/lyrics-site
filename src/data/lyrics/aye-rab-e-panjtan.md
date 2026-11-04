@@ -35,18 +35,18 @@ romanLyrics: |-
   4
   Tujh Sa Ali Bhi Kehta Hai Khaliq Jise Ali
   Ungli Pakar Ke Jis Ki Shariyat Teri Chali
-  Raziq Hai Do Jahaṅ Ka, Waliyon Ka Hai Wali
-  Sadqe Meiṅ Us Ke Rizq Meiṅ Huṅ Wusatein Atta
+  Raziq Hai Do Jahaṅ Ka, Waliyoṅ Ka Hai Wali
+  Sadqe Meiṅ Us Ke Rizq Meiṅ Huṅ Wusateiṅ Atta
   
   5
   Woh Fatima, Hijab Bhi Nuri Mila Jise
   Hasnain Jaise Jis Ne Pisar Paal Kar Diye
-  Rehmat Bani Jo Rehmat-e-Aalam Ke Wastay
+  Rehmat Bani Jo Rehmat-e-Aalam Ke Waste
   Tote Na Mominin Se Rehmat Ka Silsila
   
   6
   Woh Mustafa Ka Lal Jo Din Ko Bacha Gaya
-  Taigon Ko Apne Zor-e-Qalam Se Hara Gaya
+  Taigoṅ Ko Apne Zor-e-Qalam Se Hara Gaya
   Aman o Amaan Ka Dars Jahaṅ Ko Parha Gaya
   Har Simt Us Ke Sadqe Meiṅ Ho Aman Ki Fiza
   

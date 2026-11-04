@@ -1,6 +1,6 @@
 ---
 title: "اصغر میں تیری ماں ہوں"
-alternateTitle: "Asghar Main Teri Maan Hun"
+alternateTitle: "Asghar Maiṅ Teri Maaṅ Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -25,7 +25,7 @@ romanLyrics: |-
   mere saamne khara hai
   jaane kiuṅ hans raha hai
   chadar bhi lut chuki hai
-  Mun kis tarha chupaun
+  Mun kis tarha chupauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
   
   2

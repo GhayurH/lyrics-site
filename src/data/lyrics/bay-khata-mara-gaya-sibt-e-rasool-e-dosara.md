@@ -1,6 +1,6 @@
 ---
 title: "بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا"
-alternateTitle: "Bekhata Mara Gaya Sibt-E-Rasool-E-Dosara, Wa Hasan-E-Sabz Qaba"
+alternateTitle: "Bekhata Mara Gaya Sibt-E-Rasul-E-Dosara, Wa Hasan-E-Sabz Qaba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,8 +12,8 @@ cover: "/images/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.png"
 coverAlt: "Cover image for Bay Khata Mara Gaya Sibt-e-Rasool Dusra Wa Hasan-e-Sabz Qaba"
 published: true
 romanLyrics: |-
-  Bay Khata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
-  Zehr Se Tukray Jigar, Khuṅ Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
+  Be Khata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
+  Zehr Se Tukre Jigar, Khuṅ Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
   
   1
   Khuṅ Ugalte Hue Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
@@ -24,8 +24,8 @@ romanLyrics: |-
   Baap Zinda Na Raha, Bhai Su-e-Khuld Chala, Wa Hasan-e-Sabz Qaba
   
   3
-  Kar Diye Zehr-e-Halahal Ne Jigar Ke Tukray, Aur Qasim Ke Liye
-  Kam Sini Meiṅ Hai Yeh Gham Shaam-e-Ghariban Jaisa, Wa Hasan-e-Sabz Qaba
+  Kar Diye Zehr-e-Halahal Ne Jigar Ke Tukre, Aur Qasim Ke Liye
+  Kam Sini Meiṅ Hai Yeh Gham Shaam-e-Gharibaṅ Jaisa, Wa Hasan-e-Sabz Qaba
   
   4
   Ghar Se Ik Baar Janaza Jo Nikal Jata Hai, Kab Wo Phir Aata Hai
@@ -33,11 +33,11 @@ romanLyrics: |-
   
   5
   Sheh Ne Us Waqt Jo Ghazi Ko Na Roka Hota, Hashr Ho Jata Bapa
-  Tir Aate Na Janazay Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
+  Tir Aate Na Janaze Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
   
   6
   Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb o Bala
-  Tukray Qasim Ke Uthate Huay Moula Ne Kaha, Wa Hasan-e-Sabz Qaba
+  Tukre Qasim Ke Uthate Hue Moula Ne Kaha, Wa Hasan-e-Sabz Qaba
 ---
 
 بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا

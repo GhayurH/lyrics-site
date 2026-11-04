@@ -1,6 +1,6 @@
 ---
 title: "داستانِ شجاعت کا داریں میں"
-alternateTitle: "Daastaan-E-Shujaat Ka Darain Mein"
+alternateTitle: "Daastaan-E-Shujaat Ka Daraiṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -22,7 +22,7 @@ romanLyrics: |-
   Inke lehje meiṅ hashim ki hashmat bhi hai
   Inke tewar meiṅ hamza ki haibat bhi
   Har ada inki imran ka aqs hai
-  Inki bahon meiṅ jaafar ki taaqat bhi hai
+  Inki bahoṅ meiṅ jaafar ki taaqat bhi hai
   
   Pyaar hai mustufa ka husain o hasan
   Aur hassnain ka pyaar abbas hai
@@ -51,13 +51,13 @@ romanLyrics: |-
   durr-e-shehwaar Behr-e-saqawat hai ye
   Haq to ye hai ke haq ki haqiqat hai
   
-  Vo duwaayen jo bibi ne sajdoṅ meiṅ kiṅ
+  Vo duwaayeṅ jo bibi ne sajdoṅ meiṅ kiṅ
   un duaoṅ ka meyar abbas hai
   
   5
   Qabr kya hai andhera sa ghar hai jahaṅ
   Marefat ke siva koi sapna nahiṅ
-  Vo bohat hi andheri jagah hai wahan
+  Vo bohat hi andheri jagah hai wahaṅ
   Koi yawar nahi koi apna nahiṅ
   
   Tumse milne lahad meiṅ ali aayenge

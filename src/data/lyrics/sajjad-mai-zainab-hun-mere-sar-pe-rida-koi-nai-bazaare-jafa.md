@@ -1,6 +1,6 @@
 ---
 title: "سجاد میں زینب ہوں، میرے سر پہ ردا کوئی نہیں، بازارِ جفا"
-alternateTitle: "Sajjad Mai Zainab Hun Mere Sar Pe Rida Koi Nai Bazaare Jafa"
+alternateTitle: "Sajjad Mai Zainab Huṅ Mere Sar Pe Rida Koi Nai Bazaare Jafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -37,7 +37,7 @@ romanLyrics: |-
   
   5
   Majbur huṅ bebas huṅ maiṅ ro bhi nahiṅ sakti
-  durron ki aziyat se maiṅ so bhi nahiṅ sakti
+  durroṅ ki aziyat se maiṅ so bhi nahiṅ sakti
   is darja musibat meiṅ hamdard mera Koi Nai, Bazaare Jafa
 
   6

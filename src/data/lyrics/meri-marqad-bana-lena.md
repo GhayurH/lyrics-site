@@ -39,7 +39,7 @@ romanLyrics: |-
   Meri marqad bana dena
   
   3
-  Jab bhi zaair ziyarat ko aayen miri
+  Jab bhi zaair ziyarat ko aayeṅ miri
   Usko mehmaan rakhna yahaṅ tin din
   Usko paani pilana meri simt se
   Usko khana khilana yahaṅ tin din
@@ -57,7 +57,7 @@ romanLyrics: |-
   Meri marqad bana dena
   
   5
-  Phir asad ke qabile ke bacchon se bhi
+  Phir asad ke qabile ke bacchoṅ se bhi
   Is tarha mera maula mukhatib hua
   Apni mutthi me matti uthaa kar tumhi
   Ho sake to meri laash par daalna
@@ -69,7 +69,7 @@ romanLyrics: |-
   Dekhna tum ke kuch waqt guzrega jab
   Aur roze hamare banenge yahaṅ
   Naam to is jagah ka hai karbobala
-  Kal ise sab pukarenge rashk e jinaṅ
+  Kal ise sab pukarenge rashk-e-jinaṅ
 
   Tum bhi jannat ko paa lena
   Meri marqad bana dena

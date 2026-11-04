@@ -18,7 +18,7 @@ romanLyrics: |-
   (Musafir, Karbala wala musafir)
   
   
-  Jinwain ujra hai karbal which, Inwain ujre na koi shala
+  Jinwaiṅ ujra hai karbal which, Inwain ujre na koi shala
   (Musafir, Karbala wala musafir)
   
   1
@@ -30,17 +30,17 @@ romanLyrics: |-
   2
   Luta inwain hai jungle which, (Musafir karbala wala)
   Thia pamal maqtal which, (Musafir karbala wala)
-  Hai nazaṅ naal Baun okha, Jinun zehra ney hai pala
+  Hai nazaṅ naal Bauṅ okha, Jinun zehra ne hai pala
   (Musafir, Karbala wala musafir)
   
   3
   Lara no lakh tiroṅ se, (Musafir karbala wala)
-  Hua mehrum bacchon se, (Musafir karbala wala)
+  Hua mehrum bacchoṅ se, (Musafir karbala wala)
   Juda ghazi hua jiska, Jo tanha aik lashkar tha,
   Jo tha mashk o alam wala (Musafir, Karbala wala musafir)
   
   4
-  Reya baun dair tiraṅ tae, (Musafir karbala wala)
+  Reya bauṅ dair tiraṅ tae, (Musafir karbala wala)
   Peya be dafn raitaṅ tae, (Musafir karbala wala)
   Sitam kita Musafir da, Har ek khaima jala dala
   (Musafir, Karbala wala musafir)
@@ -48,7 +48,7 @@ romanLyrics: |-
   5
   Jo aaya run meiṅ jhule se, (Musafir karbala wala)
   Bujha ke piyas tiroṅ se, (Musafir karbala wala)
-  Hansa tir e sitam kha kar, Wo piyasa wo ali asghar
+  Hansa tir-e-sitam kha kar, Wo piyasa wo ali asghar
   Hua qurbaan baba par (Musafir, Karbala wala musafir)
   
   6
@@ -59,8 +59,8 @@ romanLyrics: |-
   
   7
   Chupa tiroṅ ke andar tha, (Musafir karbala wala)
-  Behen ney dur sey deikha, (Musafir karbala wala)
-  Najaf ki shahazadi ney, Hamari aqazadi ney
+  Behen ne dur se deikha, (Musafir karbala wala)
+  Najaf ki shahazadi ne, Hamari aqazadi ne
   Kaha maragaya bhaiya (Musafir, Karbala wala musafir)
   
   8
@@ -76,9 +76,9 @@ romanLyrics: |-
   Azadaroṅ ka hai mola (Musafir, Karbala wala musafir)
   
   10
-  Likhe hasnain ae kiwain, (Musafir karbala wala)
-  Thia taqsim hai jiwain, (Musafir karbala wala)
-  Bikhar waindi Hai jaa jaa tae, Jiwain tasbih de koi mala
+  Likhe hasnain ae kiwaiṅ, (Musafir karbala wala)
+  Thia taqsim hai jiwaiṅ, (Musafir karbala wala)
+  Bikhar waindi Hai jaa jaa tae, Jiwaiṅ tasbih de koi mala
   (Musafir, Karbala wala musafir)
 ---
 

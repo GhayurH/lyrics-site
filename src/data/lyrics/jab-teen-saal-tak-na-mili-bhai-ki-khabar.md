@@ -1,6 +1,6 @@
 ---
 title: "جب تین سال تک نہ ملی بھائی کی خبر"
-alternateTitle: "Jab Teen Saal Tak Na Mili Bhai Ki Khabar"
+alternateTitle: "Jab Tin Saal Tak Na Mili Bhai Ki Khabar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,7 +15,7 @@ romanLyrics: |-
   1
   Jab Tin Saal Tak Na Mili Bhai Ki Khabar
   Ghar Se Hui Rawanah Wo Qum Ko Neko Seir
-  Pahunchi Wahan To Dekhi Kya Hai Wo Nauhagar
+  Pahunchi Wahaṅ To Dekhi Kya Hai Wo Nauhagar
   Kala Libaas Pehne Huye Hai Har Ek Bashar
   Aisi Khabar Suni Ke Jigar Gham Se Hil Gaya
   Didar Ka Jo Shauq Tha Mitti Meiṅ Mil Gaya
@@ -25,7 +25,7 @@ romanLyrics: |-
   Aayi Hai Qum Meiṅ Khwahar-e-Sultan Bahr o Bar
   Purse Ke Waste Huye Sab Jama Nauhagar
   Jo Sunte Chaak Garebaṅ Barahna Sar
-  Har Su Ye Dil Figar Jo Surat Ayan Hui
+  Har Su Ye Dil Figar Jo Surat Ayaṅ Hui
   Masuma Ek Shia Ke Ghar Mehmaan Hui
   
   3
@@ -48,8 +48,8 @@ romanLyrics: |-
   Kal Solah Roz Qum Meiṅ Rahiṅ Badal Haziṅ
   Jannat Meiṅ Ki Ziyarat Shah-e-Falak Nashiṅ
   Taklif Dard-e-Hijr Se Jaaṅ Bar Hui Nahiṅ
-  Bhai Ki Shakl Aankhoṅ Meiṅ Thi Waqt-e-Wapasin
-  Bagh-e-Jahan Se Sue Jinaaṅ Kuch Kar Gayiṅ
+  Bhai Ki Shakl Aankhoṅ Meiṅ Thi Waqt-e-Wapasiṅ
+  Bagh-e-Jahaṅ Se Sue Jinaaṅ Kuch Kar Gayiṅ
   Bas Haye Bhai Keh Aur Mar Gayiṅ
   
   6
@@ -58,7 +58,7 @@ romanLyrics: |-
   Qadir Ghulam Aap Ka Hai Mard-e-Parsa
   Masuma Ko Muhammad Ne Utare Wo Ba-Haya
   Is Khidmat-e-Jalil Ke Qabil Koi Nahiṅ
-  Yaan Koi Aur Is Se Siwa Muttaqi Nahiṅ
+  Yaaṅ Koi Aur Is Se Siwa Muttaqi Nahiṅ
   
   7
   Ye Bateiṅ Ho Rahi Thiṅ Yakayak Utha Ghubar

@@ -1,6 +1,6 @@
 ---
 title: "نہ بھول کر بھی کبھی تم کسی کی بات کرو"
-alternateTitle: "Na Bhool Kar Bhi"
+alternateTitle: "Na Bhul Kar Bhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -42,7 +42,7 @@ romanLyrics: |-
   
   8
   Lehad meiṅ meri andhera ho ghair mumkin hai
-  Jahaṅ Ali ho wahan roshni ki baat karo
+  Jahaṅ Ali ho wahaṅ roshni ki baat karo
   
   9
   Hai waqt nazaa ka baali pa aaye haiṅ Mola

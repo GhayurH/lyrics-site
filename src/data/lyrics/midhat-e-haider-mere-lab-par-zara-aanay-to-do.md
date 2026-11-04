@@ -1,6 +1,6 @@
 ---
 title: "مدحتِ حیدر میرے لب پر زرا آنے تو دو"
-alternateTitle: "Midhat-E-Haider Mere Lab Par Zara Aanay To Do"
+alternateTitle: "Midhat-E-Haider Mere Lab Par Zara Aane To Do"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

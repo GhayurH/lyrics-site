@@ -1,6 +1,6 @@
 ---
 title: "اب اے ہواؤں کچھ خاک اُڑاؤ"
-alternateTitle: "Ab Ae Hawaon Kuch Khak Urao"
+alternateTitle: "Ab Ae Hawaoṅ Kuch Khak Urao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/ab-aey-hawaon-kuch-khak-urao.png"
 coverAlt: "Cover image for Ab Ae Hawaon Kuch Khak Urao"
 published: true
 romanLyrics: |-
-  Ab Ae Hawaon Kuch Khak Urao
+  Ab Ae Hawaoṅ Kuch Khak Urao
   Laut Aayi Ran Se Sheh Ki Sawaari
   
   Zainab Sambhalna Hai Zin Khali
@@ -22,7 +22,7 @@ romanLyrics: |-
   Zainab Ki Ran Meiṅ Aah o Fughaṅ Hai
   Mazlum Bhai Batla Kahaṅ Hai
   Kya Haal Hai Tera Ye Murtajiz Hai
-  Aankhoṅ Se Kiuṅ Ye Aansun Rawan Hai
+  Aankhoṅ Se Kiuṅ Ye Aansun Rawaṅ Hai
   
   Tiroṅ Se Chhalni Sara Badan Hai
   Sare Badan Se Hai Khun Jari
@@ -31,7 +31,7 @@ romanLyrics: |-
   Tere Badan Se Bhayya Ki Mujhko
   Taza Lahu Ki Aati Hai Khushbu
   Hai Surkh Kiunkar Ye Jism Tera
-  Kiunkar Hai Teri Aankon Meiṅ Aansu
+  Kiunkar Hai Teri Aankoṅ Meiṅ Aansu
   
   Aankheiṅ Phati Haiṅ Raasheiṅ Kati Haiṅ
   Kiuṅ Sar Pe Tere Hai Zakhm Tari

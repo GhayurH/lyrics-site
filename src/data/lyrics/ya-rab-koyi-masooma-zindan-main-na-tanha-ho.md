@@ -1,6 +1,6 @@
 ---
 title: "یا رب کوئی معصومہ، زندان میں نہ تنہا ہو"
-alternateTitle: "Ya Rab Koyi Masooma Zindan Main Na Tanha Ho"
+alternateTitle: "Ya Rab Koyi Masooma Zindan Maiṅ Na Tanha Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,14 +17,14 @@ romanLyrics: |-
   
   1
   Thi Jis Ko Nind Aati, Shabbir Ke Sine Par
-  Zinda Dar-e-Zindan, Uske Liye Qaza Ho
+  Zinda Dar-e-Zindaṅ, Uske Liye Qaza Ho
   
   2
   Zindanoṅ Se Aati Thi, Awaaz Sisakne Ki
   Jaise Ke Sakina Ko, Har Zindaṅ Ro Raha Ho
   
   3
-  Takraye Na Woh Kiuṅ Kar, Zindan Ki Diwaron Se
+  Takraye Na Woh Kiuṅ Kar, Zindan Ki Diwaroṅ Se
   Bhai Se Aur Phuphi Se, Jisko Juda Kiya Ho
   
   4

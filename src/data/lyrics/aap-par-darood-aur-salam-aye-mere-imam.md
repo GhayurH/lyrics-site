@@ -1,6 +1,6 @@
 ---
 title: "آپ پر درود اور سلام اے میرے امام"
-alternateTitle: "Aap Par Darood Aur Salam Ae Mere Imam"
+alternateTitle: "Aap Par Darud Aur Salam Ae Mere Imam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Do Jahaṅ Ki Badshah Teri Zaat Hai
   Tu Hai Us Ka Hath Jo Khuda Ka Hath Hai
-  Tere Hath Baiattein Tamam Ae Mere Imam
+  Tere Hath Baiatteiṅ Tamam Ae Mere Imam
   
   4
   Iss Liye Tumhara Intezar Hai Shadid
@@ -46,7 +46,7 @@ romanLyrics: |-
   Le Ke Zulfiqar beNiyaam Ae Mere Imam
   
   7
-  Mangte Haiṅ Aur Youn Zahur Ki Dua
+  Mangte Haiṅ Aur Youṅ Zahur Ki Dua
   Dekhna Hai Hum Ko Inteqam-e-Karbala
   Chahe Phir Ho Zindagi Tamam Ae Mere Imam
   

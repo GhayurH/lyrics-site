@@ -1,6 +1,6 @@
 ---
 title: "لا رہا ہوں میں لاشئہ اکبر"
-alternateTitle: "Laa Raha Hun Main Lasha E Akbar"
+alternateTitle: "Laa Raha Huṅ Maiṅ Lasha E Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
   Umme Laila sambhaal Zainab ko
   
   1
-  Naujawan laash hai zaifi hai
+  Naujawaṅ laash hai zaifi hai
   Meri nazroṅ se dekh manzar ko
   Kaise hamshir ko sambhalunga
   Mai sambhale hue huṅ Akbar ko
@@ -38,20 +38,20 @@ romanLyrics: |-
   Do nagine the iski jholi may
   Dono Akbar pe kar diye sadqa
   Sabr aisa ke apne betoṅ par
-  Maine rote isay nahi dekha
+  Maine rote ise nahi dekha
   Hai magar ab ye lasha e Akbar
   Umme Laila Sambhaal Zainab Ko
   
   4
   Rok rakha hai apne ashkoṅ ko
   Sab se chhup chhup ke aaheṅ bharti hai
-  Maiṅ samajhta huṅ maadar e Akbar
+  Maiṅ samajhta huṅ maadar-e-Akbar
   Teri mamta pe jo guzarti hai
   Rakh ke apne kaleje par pathar
   Umme Laila Sambhaal Zainab Ko
   
   5
-  Kaise laash-e-jawan uthaye huṅ
+  Kaise laash-e-jawaṅ uthaye huṅ
   Aeriyaṅ khat banati aati hai
   In nishano ko piche piche mere
   Amma Zehra mitati aati hai

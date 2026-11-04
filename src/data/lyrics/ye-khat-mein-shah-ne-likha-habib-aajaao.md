@@ -1,6 +1,6 @@
 ---
 title: "یہ خط میں شاہؑ نے لکھا حبیب آجاؤ"
-alternateTitle: "Ye Khat Mein Shah Ne Likha, Habib Aajaao"
+alternateTitle: "Ye Khat Meiṅ Shah Ne Likha, Habib Aajaao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,22 +16,22 @@ romanLyrics: |-
   Tumhara dost hai tanha, Habib aajaao
   
   1
-  Shahid kaisey huwa wo bataaogey aakar
+  Shahid kaise huwa wo bataaogey aakar
   Tum haal-e-Muslim-e-baikas sunaaogey aakar
   Ruqayya takti hai rastaa Habib aajaao
   
   2
-  Lagaao is sey bhi andaazey meri ghurbat ke
-  Jahaaṅ pey ibn-e-Ali likhna tha wahaan meiṅ ne
+  Lagaao is se bhi andaaze meri ghurbat ke
+  Jahaaṅ pey ibn-e-Ali likhna tha wahaaṅ meiṅ ne
   Diya hai maaṅ ka hawala, Habib aajaao
   
   3
-  Bata raha tha usey koi bhi nahi hai mera
+  Bata raha tha use koi bhi nahi hai mera
   To boli Thaaniy-e-Zehra Habib aayega
   Hai usko tumpey bharosa, Habib aajaao
   
   4
-  Wo jab ye sunti hai Kufe se aarahey haiṅ shaqi
+  Wo jab ye sunti hai Kufe se aarahe haiṅ shaqi
   To puchti hai hamaara bhi aayega koi
   Duaaeiṅ deygi Sakina, Habib aajaao
   
@@ -41,28 +41,28 @@ romanLyrics: |-
   Tum usko chorhkey Kufa Habib aajaao
   
   6
-  Mujhey hai yaad wo lamha Jo rab ki marzi se
-  Tum ho key zinda Meri baat sunney aaye they
+  Mujhe hai yaad wo lamha Jo rab ki marzi se
+  Tum ho ke zinda Meri baat sunne aaye the
   Bula raha huṅ dubara Habib aajaao
   
   7
   Dar-e-Batul dobaara jalaaya jaayega
-  Tumhaarey dost pey khanjar chalaaya jaayega
+  Tumhaare dost pey khanjar chalaaya jaayega
   Nahiṅ hai waqt zyaada Habib aajaao
   
   8
-  Chamaktey chaand ki humko bhi did hojaaye
-  Tum aao to merey bachoṅ meiṅ Eid hojaaye
+  Chamakte chaand ki humko bhi did hojaaye
+  Tum aao to mere bachoṅ meiṅ Eid hojaaye
   Bohat udaas hai kunba Habib aajaao
   
   9
-  Ye khat nahiṅ isey behnoṅ ki aarzu samjho
-  Hamaarey lafzoṅ ko Zainab ki guftagu samjho
+  Ye khat nahiṅ ise behnoṅ ki aarzu samjho
+  Hamaare lafzoṅ ko Zainab ki guftagu samjho
   Behan ye kehti hai bhayya Habib aajaao
   
   10
-  Bahan ney usko takallum Jo bhai samjhaa tha
-  Pukaari sham-e-ghariban meiṅ Thaaniy-e-Zehra
+  Bahan ne usko takallum Jo bhai samjhaa tha
+  Pukaari sham-e-gharibaṅ meiṅ Thaaniy-e-Zehra
   Hamaara lut'taa hai pardaa Habib aajaao
 ---
 

@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Wo ghamzada yakinan yaadoṅ may kho gayi hai
   Baba ko rote rote khud thak ke sogayi hai
-  Yan tashnalab sakina behosh ho gayi hai
+  Yaṅ tashnalab sakina behosh ho gayi hai
   Pani ka deke chinta tum hi use jagao
   
   3

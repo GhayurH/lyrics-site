@@ -13,7 +13,7 @@ coverAlt: "Cover image for Aye Aun O Muhammad"
 published: true
 romanLyrics: |-
 
-  Kehti thi yeh Zainab, yun maa ka maan nibhana
+  Kehti thi yeh Zainab, yuṅ maa ka maan nibhana
   Ae Aun o Muhammad
   
   Shabbir ka tum sadqa ho, ab kheme meiṅ beta
@@ -45,7 +45,7 @@ romanLyrics: |-
   
   5
   Qaatil pe karam, nana ki tarah kar dena
-  Yun laaj mere, bhai ke naam ki rakhna
+  Yuṅ laaj mere, bhai ke naam ki rakhna
   Jo waasta de bhai ka, maidan meiṅ us par
   Tum tegh na chalana
   

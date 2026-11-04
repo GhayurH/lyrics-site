@@ -13,19 +13,19 @@ coverAlt: "Cover image for Bahar Aayi Bahar Aayi Zehra ke Ghar"
 published: true
 romanLyrics: |-
   1
-  Bahar aane ko hai yun to jahaṅ maiṅ hai hazar aayi
+  Bahar aane ko hai yuṅ to jahaṅ maiṅ hai hazar aayi
   Magar aisi bahare be khizaaṅ hai pehli bar aayi
   
   2
   Bahar aayi Bahar aayi Bahar aayi Bahar aayi
-  Bahar is mah maiṅ Zehra ke ghar he char bar aayi
+  Bahar is mah maiṅ Zehra ke ghar hai char bar aayi
   
   3
   Muhammad ke gharane maiṅ Muhammad hi Muhammad haiṅ
-  Hai ik surut jo he surat badal kar baar baar aayi
+  Hai ik surut jo hai surat badal kar baar baar aayi
   
   4
-  Zara unsay ye keh dijiey ke rahiyay hoshiyar aayi
+  Zara unsay ye keh dijie ke rahiye hoshiyar aayi
   Wo aayi daykhiye sar par wo aayi Zulfiqar aayi
   
   5

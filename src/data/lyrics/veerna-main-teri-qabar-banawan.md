@@ -1,6 +1,6 @@
 ---
 title: "ویرنا مَیں تیری قبر بناواں یا شام نوں جاواں"
-alternateTitle: "Veerna Main Teri Qabar Banawan"
+alternateTitle: "Veerna Maiṅ Teri Qabar Banawaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,33 +12,33 @@ cover: "/images/lyrics/veerna-main-teri-qabar-banawan.png"
 coverAlt: "Cover image for Veerna Main Teri Qabar Banawan"
 published: true
 romanLyrics: |-
-  Virna maiṅ teri qabar banawan ya shaam nu jaawan
-  Kave Zainab ujri jang Karbala di mukk gayi lutiyaṅ gayiaṅ ridaawan
+  Virna maiṅ teri qabar banawaṅ ya shaam nu jaawaṅ
+  Kave Zainab ujri jang Karbala di mukk gayi lutiyaṅ gayiaṅ ridaawaṅ
   
   1
-  Kiwen shaam le jawan Sajjad bimar ae
+  Kiweṅ shaam le jawaṅ Sajjad bimar ae
   Hosh nai aundi ess nu eh sakht lachaar ae
-  Mainu samajh nai aundi viran disaa maiṅ kiwen ennu maut toṅ bachawan
+  Mainu samajh nai aundi viran disaa maiṅ kiweṅ ennu maut toṅ bachawaṅ
   
   2
-  Paa paa khaak sirran vich ess vaal lukaaye
+  Paa paa khaak sirraṅ vich ess vaal lukaaye
   Ummat ne rasiyaṅ de sanu zewar paaye
-  Maiṅ suneya eh viran hayi shaam de shehar diyaṅ bohat okhiyaṅ ne rahwan
+  Maiṅ suneya eh viran hayi shaam de shehar diyaṅ bohat okhiyaṅ ne rahwaṅ
   
   3
-  Uth toṅ maiṅ lath payi aan par ro nai sakdi
+  Uth toṅ maiṅ lath payi aaṅ par ro nai sakdi
   Laash utte pathraṅ da maiṅ dher haṅ takdi
-  Meray hath paband hin kiwen laash toṅ maiṅ teri pathraṅ nu aa hathawan
+  Mere hath paband hin kiweṅ laash toṅ maiṅ teri pathraṅ nu aa hathawaṅ
   
   4
   Shaam shehar vich kis ne sade parde banaunayy
   Maluna de majme sade raah choṅ hathaune
-  Mera Ghazi viran jaa nehar de kinare sonweya kataa ke bahwaan
+  Mera Ghazi viran jaa nehar de kinare sonweya kataa ke bahwaaṅ
   
   5
   Akhtar dunya faani ek din mukk jaani
   Rehni eh do jag te syedaṅ di kahani
-  Lakh ro kay dunya pursay nu qaim rakhna Zahra diyaṅ duawaan
+  Lakh ro kay dunya purse nu qaim rakhna Zahra diyaṅ duawaaṅ
 ---
 
 ویرنا مَیں تیری قبر بناواں یا شام نوں جاواں

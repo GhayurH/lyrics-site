@@ -29,17 +29,17 @@ romanLyrics: |-
   Wirasat hai mere ajdaad ki… Shabbir ka ghar hai
 
   3
-  Aray o kafiroṅ roka hai jin ka raasta tumne
+  Are o kafiroṅ roka hai jin ka raasta tumne
   Hai inke qurbate nazdiktar Allah ke ghar se
-  Agar maabud ki marzi nahi hoti to khud badh ke
+  Agar maabud ki marzi nahi hoti to khud barh ke
   Ye hajr-e-Aswad kaaba mere Moula ke le bose
   Jo farzand-e-Nabi ke hukm ka pehra nahi hota
-  Ye Kaaba ek ghadi apni jagah tahrra nahi hota
+  Ye Kaaba ek ghari apni jagah tahrra nahi hota
 
   4
   Agar marzi-e-Haq mansha mere Moula ki na hoti
   Uqaab-e-Hashmi ban kar karuṅ parwaaz maiṅ aisi
-  Parinde jitne urte haiṅ hawaon meiṅ ye baiat ki
+  Parinde jitne urte haiṅ hawaoṅ meiṅ ye baiat ki
   Gireiṅ kat kat ke reti par bache na koi bhi baaqi
   Husain Ibn-e-Ali ke waaste sar ko kata dunga
   Jo uthi aankh Aaqa ki taraf to noch daalunga

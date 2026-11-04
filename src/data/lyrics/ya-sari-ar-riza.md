@@ -53,7 +53,7 @@ romanLyrics: |-
   5
   Tu Mere Aib Chhupata Hai Daal Kar Parda
   Ilahi Deta Huṅ Maiṅ Tujh Ko Wasta Us Ka
-  Wohi Jo Sham-e-Ghariban Meiṅ De Rahi Thi Sada
+  Wohi Jo Sham-e-Gharibaṅ Meiṅ De Rahi Thi Sada
   Nahiṅ Hai Kuch Bhi Mere Paas Is Rida Ke Siwa
   Rasulzadi Ke Parde Ki Laaj Rakh Lena
   Bharam Duaoṅ Ka Meri Bhi Aaj Rakh Lena

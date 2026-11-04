@@ -1,6 +1,6 @@
 ---
 title: "جب گھر گئے کوفے میں مسلم کے دلارے"
-alternateTitle: "Jab Ghir Gae Kufe Mein"
+alternateTitle: "Jab Ghir Gae Kufe Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,15 +16,15 @@ romanLyrics: |-
   pardes meiṅ tanha the taqdir ke maare
   
   1
-  dono bachoṅ ka wahan koi madadgar na tha
+  dono bachoṅ ka wahaṅ koi madadgar na tha
   sirf tanhai thi yaawar na the gham-khwar na tha
   woh bhatakte rahe dar dar koi dildar na tha
   koi dono ki madad karne ko tayyar na tha
   thak kar ke jo girta tha kabhi chhota baradar
-  chalta tha bada bhai use god meiṅ lekar
+  chalta tha bara bhai use god meiṅ lekar
   
   2
-  chhote bhai ne bade bhai se ro kar pucha
+  chhote bhai ne bare bhai se ro kar pucha
   bhaiya itna to bata do ke kahaṅ haiṅ baba
   hum musafir haiṅ yahaṅ koi nahi hai apna
   hum ko pardes meiṅ ab kaun sahara dega
@@ -33,11 +33,11 @@ romanLyrics: |-
   
   3
   raat kaali thi andhere meiṅ woh dono bache
-  sahme sahme hue ek ped pe chhup kar baithe
+  sahme sahme hue ek per pe chhup kar baithe
   raat bhar lipte the aapas meiṅ woh gham ke maare
   siskiyaṅ lete the aur rote the chupke chupke
   aahat jo koi hoti thi to ghabrate the dono
-  patte bhi khadakte the to dar jate the dono
+  patte bhi kharakte the to dar jate the dono
   
   4
   ek kaniz aayi subah usko tha pani bharna
@@ -48,7 +48,7 @@ romanLyrics: |-
   hum log Madine se yahaṅ aaye haiṅ bibi
   
   5
-  naam Yasrib ka suna jab to woh tadpi ik baar
+  naam Yasrib ka suna jab to woh tarpi ik baar
   le ke bachoṅ ko chali ghar ki taraf woh dildar
   ja ke malkin se batane lagi sab haal-e-zaar
   Momina ne kiya shahzadoṅ ko ro ro kar pyar
@@ -96,7 +96,7 @@ romanLyrics: |-
   bas mere bare bhai ko ab chor de Haris
   
   11
-  phir bade bhai ne chhote ko hataya barh kar
+  phir bare bhai ne chhote ko hataya barh kar
   rakh diya apna gala tegh ke niche ja kar
   bola Haris se ke ehsan yeh karna mujh par
   mere bhai ko dikha kar na chalana khanjar
@@ -105,7 +105,7 @@ romanLyrics: |-
   
   12
   chhote bhai ne lahu dekha jis dam
-  lot kar khun meiṅ bhai ke woh tadpa pur-gham
+  lot kar khun meiṅ bhai ke woh tarpa pur-gham
   dekh kar su-e-nahr kehta tha ke haaye matam
   bhai thehro ke zara der meiṅ aate haiṅ hum
   yeh dekh ke malun ne talwar chalayi

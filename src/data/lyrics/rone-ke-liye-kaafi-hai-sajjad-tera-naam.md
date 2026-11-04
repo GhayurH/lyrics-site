@@ -16,8 +16,8 @@ romanLyrics: |-
   Tu Shahenshah-e-Dard Hai, Batla Rahi Hai Shaam
   
   1
-  Chala Bekasoṅ Ka Kaarvan, Bemaar Logo Saarbaṅ
-  Hai Sang Sar-e-Uriyan, Sheh-e-La-Fata Ki Betiyaṅ
+  Chala Bekasoṅ Ka Kaarvaṅ, Bemaar Logo Saarbaṅ
+  Hai Sang Sar-e-Uriyaṅ, Sheh-e-La-Fata Ki Betiyaṅ
   Karb o Bala Ke Dasht Meiṅ Barpa Hai Kohraam
   
   2
@@ -47,7 +47,7 @@ romanLyrics: |-
   
   7
   Karbal Ki Siyaah Khaak Par, Adil Lahu Poshaak Par
-  Charche Huay Aflaak Par, Sultan-e-Loulaak Par
+  Charche Hue Aflaak Par, Sultan-e-Loulaak Par
   Hai Jinn o Malayak Bhi Sajjad Ke Khudaam
 ---
 

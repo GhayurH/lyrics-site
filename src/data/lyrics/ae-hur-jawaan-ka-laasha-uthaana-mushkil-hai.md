@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Husain kehte the ro kar ye, Hur ke bete se
   Samajh raha huṅ aziyat, teri mere bachche
-  Burida halq se yun muskurana mushkil hai
+  Burida halq se yuṅ muskurana mushkil hai
   
   4
   Pukaara Hur ka pisar ro ke ae Shah-e-Ismat
@@ -52,7 +52,7 @@ romanLyrics: |-
   Jo baap ke liye maa ko bataana mushkil hai
   
   8
-  Yun zard chehra hai jaise ke jaaṅ nikalti hai
+  Yuṅ zard chehra hai jaise ke jaaṅ nikalti hai
   Maiṅ dekhta huṅ kamar teri jhuk'ti jaati hai
   Tere liye ye shahadat bhulana mushkil hai
   

@@ -1,6 +1,6 @@
 ---
 title: "چہلم جو کربلا میں بہتر کا ہو چکا"
-alternateTitle: "Chehlum Jo Karbala Mein Bahattar Ka Ho Chuka"
+alternateTitle: "Chehlum Jo Karbala Meiṅ Bahattar Ka Ho Chuka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,7 +23,7 @@ romanLyrics: |-
   Roye Lipat Lipat Ke Mazar-e-Husain Se
   
   2
-  Misle Charagh Gor-e-Ghariban Pe Dil Jalaye
+  Misle Charagh Gor-e-Gharibaṅ Pe Dil Jalaye
   Phuloṅ Ke Badle Qabroṅ Pe Lakht-e-Jigar Charhaye
   Pyaroṅ Ki Bud o Baash Ke Samaṅ Jo Yaad Aaye
   Be Sakhta Pukare Kaleja Pakar Ke Haye
@@ -42,7 +42,7 @@ romanLyrics: |-
   Maiṅ Jaanti Thi Shehr Basa Hoga Bhai Ka
   Hoga Hujum Qabr Pe Saari Khudai Ka
   Chehlum Karungi Dhum Se Maiṅ Karbalai Ka
-  Pursaṅ Bhi Yaan Nahiṅ Koi Zahra Ki Jayi Ka
+  Pursaṅ Bhi Yaaṅ Nahiṅ Koi Zahra Ki Jayi Ka
   Mun Dhanpne Ko Aap Hi Palla Bhi Leti Huṅ
   Aur Apne Dil Ko Aap Hi Pursa Bhi Deti Huṅ
   
@@ -57,7 +57,7 @@ romanLyrics: |-
   6
   Hazrat Ki Qabr Hil Gayi Zainab Ke Bain Se
   Aa Kar Kaha Bashir Ne Ibn-e-Husain Se
-  Shehzade Jaan-Balab Hai Phuphi Shor o Shain Se
+  Shehzade Jaaṅ-Balab Hai Phuphi Shor o Shain Se
   Chaliye Watan Ko Qabr-e-Shah-e-Mashraqain Se
   Abid Ne Pucha Kiuṅ Phuphi Amma Qubul Hai
   Wo Boliṅ Ikhtiyar Hai Kya, Haaṅ Qubul Hai
@@ -84,11 +84,11 @@ romanLyrics: |-
   Rokeiṅ Qanaat, Akbar o Abbas Ko Bulao
   Khaali Hai God Bhabhi Ki, Asghar Ko Lete Aao
   Sardar Sare Qafile Ke Aage Hote Haiṅ
-  Tayyar Karwan Hua Aur Aap Sote Haiṅ
+  Tayyar Karwaṅ Hua Aur Aap Sote Haiṅ
   
   10
   Kab Se Tumheiṅ Pukar Rahi Huṅ Maiṅ Khasta-Tan
-  Haye Haye Jawab Bhi Nahiṅ Dete Shah-e-Zaman
+  Haye Haye Jawab Bhi Nahiṅ Dete Shah-e-Zamaṅ
   Bhaiyya Gale Laga Luṅ To Jaauṅ Su-e-Watan
   Aayi Nida, Sidhaaro, Khuda Hafiz Ae Behen
   Sughra Ko Meri Simt Se Bhi Pyar Kijiyo

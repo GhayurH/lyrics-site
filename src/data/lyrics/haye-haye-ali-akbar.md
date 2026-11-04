@@ -41,12 +41,12 @@ romanLyrics: |-
   Ham shakal e payambar
   
   6
-  Thehro keh maiṅ atharwin mannat tu barha duṅ
-  Phir le ke balaeiṅ tujhey jine ki dua duṅ
+  Thehro keh maiṅ atharwiṅ mannat tu barha duṅ
+  Phir le ke balaeiṅ tujhe jine ki dua duṅ
   Sadqe ho yeh madar
   
   7
-  Pehle to ik aawaz pe uth jate they beta
+  Pehle to ik aawaz pe uth jate the beta
   Ab itni sadaoṅ pe bhi pehlu nahi badla
   Kya ho gaya dilbar
   
@@ -56,7 +56,7 @@ romanLyrics: |-
   Kiuṅ ruthe ho dilbar
   
   9
-  Aayen jo hameiṅ lutne kheme meiṅ sitamgar
+  Aayeṅ jo hameiṅ lutne kheme meiṅ sitamgar
   Maa de gi sadayeṅ ali akbar ali akbar
   Chin jayegi chadar
   

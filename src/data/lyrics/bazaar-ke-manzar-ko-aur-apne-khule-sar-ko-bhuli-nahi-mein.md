@@ -1,6 +1,6 @@
 ---
 title: "بازار کے منظر کو اور اپنے کھلے سر کو بھولی نہیں میں"
-alternateTitle: "Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Mein"
+alternateTitle: "Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -47,7 +47,7 @@ romanLyrics: |-
   
   7
   Masum Sakina Ko Barhte Hue Nezoṅ Ko
-  Riste Huay Gaaloṅ Ko beRehm Tamachon Ko
+  Riste Hue Gaaloṅ Ko beRehm Tamachoṅ Ko
   Dukhte Hue Kaanoṅ Ko Khinchte Hue Gohar Ko Bhuli Nahi Meiṅ
   
   8

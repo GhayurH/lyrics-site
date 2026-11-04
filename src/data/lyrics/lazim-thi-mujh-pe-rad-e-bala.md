@@ -37,7 +37,7 @@ romanLyrics: |-
   Phir maiṅ ne ja ke Karbobala, kya bura kiya
 
   7
-  Badlo na ittihad ke bistar pe karwaten
+  Badlo na ittihad ke bistar pe karwateṅ
   Maiṅ ne kaha bure ko bura, kya bura kiya
 
   8

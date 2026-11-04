@@ -45,7 +45,7 @@ romanLyrics: |-
   Sabhi Qari o Hafiz The Baithe
   Aur Sar Pe Na Thi Mere Chadar
   Haye Nana Teri Betiyoṅ Ko
-  Yun Laye Haiṅ Sar Nange Aam
+  Yuṅ Laye Haiṅ Sar Nange Aam
   
   5
   Jis Zainab Ko Tum Ne Baradar
@@ -101,7 +101,7 @@ romanLyrics: |-
   Jis Ne Ajdad Mare Hamare
   Aa Rahi Hai Yahaṅ Us Ki Beti
   Kholta Pani Phenko Chhatoṅ Se
-  Pattharon Ka Karo Intizam
+  Pattharoṅ Ka Karo Intizam
 ---
 
 تیری امت کے زیور پہن کر

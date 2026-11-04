@@ -1,6 +1,6 @@
 ---
 title: "دعائیں رو کے کرتا تھا ردائیں مانگنے والا"
-alternateTitle: "Duaein Roke Karta Tha Ridayen Maangne Wala"
+alternateTitle: "Duaeiṅ Roke Karta Tha Ridayeṅ Maangne Wala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,12 +16,12 @@ romanLyrics: |-
   Kahiṅ Mil Jaaye Nah Yah Rab Koi Pehchanne Wala
   
   1
-  Sar-e-Asgar Ko Patthar Maarne Aaya Hai Galliyon Me
+  Sar-e-Asgar Ko Patthar Maarne Aaya Hai Galliyoṅ Me
   Ali Asgar Ki Gardan Ka Nishana Baandhne Wala
   
   2
   Hua Jata Hai Chehra Zard Bachchi Chhupti Phirti Hai
-  Badha Hai Uski Jaanib Kya Tamache Maarne Wala
+  Barha Hai Uski Jaanib Kya Tamache Maarne Wala
   
   3
   Koi Aabid Ko Bhai Bolne Wala Nahiṅ Baaki

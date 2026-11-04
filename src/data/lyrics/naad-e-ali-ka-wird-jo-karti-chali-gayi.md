@@ -1,6 +1,6 @@
 ---
 title: "نادِ علی کا ورد جو کرتی چلی گئی"
-alternateTitle: "Naad E Ali Ka Wird Jo Karti Chali Gayi"
+alternateTitle: "Naad-e-Ali Ka Wird Jo Karti Chali Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   1
   Nad-e Ali ka wird jo karti chali gayi
-  Umr-e rawan sukun se guzarti chali gayi
+  Umr-e rawaṅ sukun se guzarti chali gayi
 
   2
   Jis ne dar-e Husain pe sar ko jhuka diya

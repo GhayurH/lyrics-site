@@ -1,6 +1,6 @@
 ---
 title: "ظہور کا وقت آ گیا ہے"
-alternateTitle: "Zahoor Ka Waqt Aa Gaya Hai"
+alternateTitle: "Zahur Ka Waqt Aa Gaya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Yahin Kahiṅ Aas Paas Hoga, Woh Aane Wala Tha Aa Chuka Hai
   Hawari-e-Isa Ke Saath Honge, Mawali Maula Ke Saath Honge
-  Zahur Ka Waqt Aa Gaya Hai, Mawaliyon Se Banaye Rakhna
+  Zahur Ka Waqt Aa Gaya Hai, Mawaliyoṅ Se Banaye Rakhna
 
   5
   Hai Intiqam-e-Husain Baqi, Woh Aane Wala Hisaab Lega

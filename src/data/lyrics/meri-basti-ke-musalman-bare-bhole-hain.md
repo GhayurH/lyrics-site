@@ -1,6 +1,6 @@
 ---
 title: "میری بستی کے مسلمان بڑے بھولے ہیں"
-alternateTitle: "Meri Basti Ke Musalman Bare Bhole Hain"
+alternateTitle: "Meri Basti Ke Musalman Bare Bhole Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -30,14 +30,14 @@ romanLyrics: |-
   
   5
   Ae Khadija tere tukroṅ pe ye palne wale
-  Arey bhul baithe tere ahsaan bare bhole haiṅ
+  Are bhul baithe tere ahsaan bare bhole haiṅ
   
   6
   Inko aashur ke faqe se nhi rabt koyi
   Naam hai maulvi ramzan bare bhole haiṅ
   
   7
-  bughz e haider meiṅ suwe naar chale jaate haiṅ
+  bughz-e-haider meiṅ suwe naar chale jaate haiṅ
   haye bechare musalmaan bare bhole haiṅ
   
   8
@@ -53,7 +53,7 @@ romanLyrics: |-
   chor aaye sar-e-maidan bare bhole haiṅ
   
   11
-  karke bethay haiṅ gham-e-shah-e-huda ka sauda
+  karke bethe haiṅ gham-e-shah-e-huda ka sauda
   are qaum o millat ke nighehbaan bare bhole haiṅ
 ---
 

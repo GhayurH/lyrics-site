@@ -39,7 +39,7 @@ romanLyrics: |-
 
   5
   Maiṅ ne Nabi ki but-shikani ka kiya jo zikr
-  Bole ke dukhti hui rag ko na chhediye
+  Bole ke dukhti hui rag ko na chheriye
   Pa-e Ali o dosh-e Payambar ki baat hai
 
   6

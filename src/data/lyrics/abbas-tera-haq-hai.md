@@ -16,15 +16,15 @@ romanLyrics: |-
   jab sham o sahar fatema zahra tujhe roye
   
   1
-  durra liye pehre pe sitamgaar khada hai
+  durra liye pehre pe sitamgaar khara hai
   Kaise tere laashe pe sakina tujhe roye
   
   2
-  jis waqt uthaya na gaya laasha jawan ka
-  sheh us ghadi akbar se zyada tujhe roye
+  jis waqt uthaya na gaya laasha jawaṅ ka
+  sheh us ghari akbar se zyada tujhe roye
   
   3
-  zainab ne kaha sham-e-ghariban may ae ghazi
+  zainab ne kaha sham-e-gharibaṅ may ae ghazi
   beparda mujhe dekh ke baba tujhe roye
   
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
   to sajjad musalle pe hamesha tujhe roye
   
   5
-  bin haathoṅ ke kis tarha tu ghode se gira tha
+  bin haathoṅ ke kis tarha tu ghore se gira tha
   ye sunke bahot ahle madina tujhe roye
   
   6
@@ -45,7 +45,7 @@ romanLyrics: |-
   
   8
   hashim ke qamar kiuṅ na tera chahne waala
-  wa shams ka padte huwe sura tujhe roye
+  wa shams ka parte huwe sura tujhe roye
   
   9
   hasrat hai ke ghazi ho lahu aankh se jaari

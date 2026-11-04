@@ -1,6 +1,6 @@
 ---
 title: "چھانے لگی شامِ غریباں"
-alternateTitle: "Chhane Lagi Shaam-e-Ghareeban"
+alternateTitle: "Chhane Lagi Shaam-e-Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,7 +13,7 @@ cover: "/images/lyrics/chhane-lagi-shaam-e-ghareeban.png"
 coverAlt: "Cover image for Chhane Lagi Shaam e Ghareeban"
 published: true
 romanLyrics: |-
-  Chhane lagi shaam e gharibaṅ,
+  Chhane lagi shaam-e-gharibaṅ,
   haaye qiyamat ka hai samaaṅ
   Khaima e sadaat se utha dhuaaṅ,
   haaye qiyamat ka hai samaaṅ
@@ -27,18 +27,18 @@ romanLyrics: |-
   haaye qiyamat ka hai samaaṅ
   
   2
-  Nur e nazar raaj dulare gaye,
+  Nur-e-nazar raaj dulare gaye,
   Zainab dilgir ke pyaare gaye
   Shah ke ansar bhi maare gaye,
   aas thi jin par woh sahaare gaye
-  Lut liya maut ne yeh karwan,
+  Lut liya maut ne yeh karwaṅ,
   haaye qiyamat ka hai samaaṅ
   
   3
-  Khuṅ meiṅ hai tar sher e jari ka alam,
+  Khuṅ meiṅ hai tar sher-e-jari ka alam,
   ho gaya Shabbir ka sar bhi qalam
-  Khushiyaṅ manane lagi fauj e sitam,
-  gham se tabaah haal haiṅ ahl e haram
+  Khushiyaṅ manane lagi fauj-e-sitam,
+  gham se tabaah haal haiṅ ahl-e-haram
   Lut gayiṅ konain ki shehzadiyaṅ,
   haaye qiyamat ka hai samaaṅ
   
@@ -51,18 +51,18 @@ romanLyrics: |-
   haaye qiyamat ka hai samaaṅ
   
   5
-  Madar e Akbar ka ajab haal hai,
+  Madar-e-Akbar ka ajab haal hai,
   deta hai jab koi tasalli use
   Kehti hai dil thaam ke rote hue,
   khogaye is ban meiṅ sahaare mere
-  Mar gaya haaye mera karyal jawaan,
+  Mar gaya haaye mera karyal jawaaṅ,
   haaye qiyamat ka hai samaaṅ
   
   6
   Maaṅ huṅ har ek ranj uthauṅ gi maiṅ,
   rote hue khud chali jauṅ gi maiṅ
   Dhund ke be sher ko lauṅ gi maiṅ,
-  is ke bina ji nahiṅ paooṅ gi maiṅ
+  is ke bina ji nahiṅ pauṅ gi maiṅ
   Reh gaya haaye mera bachcha kahaṅ,
   haaye qiyamat ka hai samaaṅ
   
@@ -75,7 +75,7 @@ romanLyrics: |-
   haaye qiyamat ka hai samaaṅ
   
   8
-  Hai ye Gohar azmat e bint e Ali,
+  Hai ye Gohar azmat-e-bint-e-Ali,
   sab ko sambhala bhi hifazat bhi ki
   Gham meiṅ Shah-e-din ke bhi roti rahi,
   mamta pe aanch bhi aane na di

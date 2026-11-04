@@ -1,6 +1,6 @@
 ---
 title: "نانا بیمار نئیں ماں زخمی اے"
-alternateTitle: "Nana Beemar Nai Maan Zakhmi Ae"
+alternateTitle: "Nana Bimar Nai Maaṅ Zakhmi Ae"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -25,7 +25,7 @@ romanLyrics: |-
   Bas Rondi Rehndi Ae
   
   1
-  Zainab Diyaṅ Banwan Te Umri
+  Zainab Diyaṅ Banwaṅ Te Umri
   De De Ke Bose Aakhe
   Ae Si Darbar Madine Da
   U Sham Ae Zainab
@@ -40,7 +40,7 @@ romanLyrics: |-
   
   3
   Raataṅ Di Khamoshi De Ander
-  Jiven Gunjan Azanaaṅ
+  Jiveṅ Gunjan Azanaaṅ
   Udhi Pasliyaṅ De Do Howan Di
   Awaaz Vi Nana
   Yasrab Vich Gunji Ae
@@ -62,7 +62,7 @@ romanLyrics: |-
   6
   Jaduṅ Putar De Samne Umri De
   Chehre Te Aya Nil Ae
-  Is Roz Tuṅ Izzatan Wali Maaṅ
+  Is Roz Tuṅ Izzataṅ Wali Maaṅ
   Mere Vir Hasan De
   Nai Samne Aandi Ae
   

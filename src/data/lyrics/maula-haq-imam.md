@@ -23,7 +23,7 @@ romanLyrics: |-
   Shabbir ki wo laadli
   Sine pe jo shah ke pali
   Jiski abaa ban me jali
-  Mun per tamanchon ke nishaan
+  Mun per tamanchoṅ ke nishaan
   Maula haq imam....
   
   3
@@ -42,8 +42,8 @@ romanLyrics: |-
   
   5
   Ro kar kahe Qasim ki maaṅ
-  Mara gaya Qasim jawaan
-  Ae laal mei dhundhun kahaṅ
+  Mara gaya Qasim jawaaṅ
+  Ae laal mei dhundhuṅ kahaṅ
   mehndi teri sehra tera
   Maula haq imam....
   

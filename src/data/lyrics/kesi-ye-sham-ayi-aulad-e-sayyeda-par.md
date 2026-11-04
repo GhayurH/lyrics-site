@@ -1,6 +1,6 @@
 ---
 title: "کیسی یہ شام آئی اولادِ سیدہؑ پر"
-alternateTitle: "Kesi Ye Sham Ayi Aulad E Sayyeda Par"
+alternateTitle: "Kesi Ye Sham Ayi Aulad-e-Sayyeda Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,19 +12,19 @@ cover: "/images/lyrics/kesi-ye-sham-ayi-aulad-e-sayyeda-par.png"
 coverAlt: "Cover image for Kesi Ye Sham Ayi Aulad E Sayyeda Par"
 published: true
 romanLyrics: |-
-  Kesi ye sham ayi aulad e Sayyeda par
+  Kesi ye sham ayi aulad-e-Sayyeda par
   
   Sajjad ro rahe haiṅ Zainab se mun chupa kar
   
   1
   Ik simt be kafan hai bhai ka uske lasha
   Abbas ki behen ka baqi raha na parda
-  Ab sochti hai Zainab maangey kafan ya chadar
+  Ab sochti hai Zainab maange kafan ya chadar
   
   2
-  Bazu kahiṅ parey haiṅ lasha kahiṅ para hai
+  Bazu kahiṅ pare haiṅ lasha kahiṅ para hai
   Zainab ki bebasi par Ghazi tarap raha hai
-  Roti hai bekasi bhi farsh e aza bicha kar
+  Roti hai bekasi bhi farsh-e-aza bicha kar
   
   3
   Jo ghar me do qadam bhi paidal nahiṅ chali hai
@@ -48,7 +48,7 @@ romanLyrics: |-
   
   7
   Khaimoṅ ke sath jhola bistar bhi jal gaya hai
-  Namus e Mustafa ko baghi kaha gaya hai
+  Namus-e-Mustafa ko baghi kaha gaya hai
   Le jayenge subah ko qaidi hameiṅ bana kar
   
   8

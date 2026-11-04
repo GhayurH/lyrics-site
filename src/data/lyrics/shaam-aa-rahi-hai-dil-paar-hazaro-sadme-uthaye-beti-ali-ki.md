@@ -33,12 +33,12 @@ romanLyrics: |-
   Zainab ke dono bazu bandhe hai, kaise churaaye beti Ali ki
   
   5
-  Wada kiya tha usne khuda se, roshan karegi tera naam chahey
+  Wada kiya tha usne khuda se, roshan karegi tera naam chahe
   Bazaar jaye darbaar jaye, zindan jaye beti ali ki
   
   6
-  Sajdey bachaye kaaba bachaye, quran bachaye diṅ ko bachaye
-  Farsh e aza par ashk e aza ko, Gohar banaye beti Ali ki
+  Sajde bachaye kaaba bachaye, quran bachaye diṅ ko bachaye
+  Farsh-e-aza par ashk-e-aza ko, Gohar banaye beti Ali ki
   
   7
   Jana hai usko darbar shami, chaaro taraf hai majma sharabi

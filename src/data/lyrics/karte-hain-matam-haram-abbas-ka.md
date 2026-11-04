@@ -1,6 +1,6 @@
 ---
 title: "کرتے ہیں ماتم حرم عباسؑ کا"
-alternateTitle: "Karte Hain Matam Haram Abbas Ka"
+alternateTitle: "Karte Haiṅ Matam Haram Abbas Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -48,7 +48,7 @@ romanLyrics: |-
   Karte Haiṅ Uncha Alam Abbas Ka
   
   7
-  Nafs-e-Sakina To Wahin Ruk Gayi
+  Nafs-e-Sakina To Wahiṅ Ruk Gayi
   Shahe Madina Ki Kamar Jhuk Gayi
   Jab Hua Baazu Qalam Abbas Ka
   

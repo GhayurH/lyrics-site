@@ -28,7 +28,7 @@ romanLyrics: |-
   Kaun Hai Shaam Ke Bazaar Meiṅ Aane Wale
   
   4
-  Dar Ke Zalim Ke Tamachon Se Sakina Ne Kaha
+  Dar Ke Zalim Ke Tamachoṅ Se Sakina Ne Kaha
   Ab To Aajao Humeiṅ Paani Pilane Wale
   
   5

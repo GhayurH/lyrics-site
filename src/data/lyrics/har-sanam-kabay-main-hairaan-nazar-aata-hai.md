@@ -1,6 +1,6 @@
 ---
 title: "ہر صنم کعبے میں حیران نظر آتا ہے"
-alternateTitle: "Har Sanam Kabay Main Hairaan Nazar Aata Hai"
+alternateTitle: "Har Sanam Kabe Maiṅ Hairaan Nazar Aata Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -45,7 +45,7 @@ romanLyrics: |-
   khaandan-e-abu sufyan nazar aata hai
   
   9
-  Pa ke har bait ke badlay meiṅ Asar bait-e-jinan
+  Pa ke har bait ke badle meiṅ Asar bait-e-jinaṅ
   Milk meiṅ mulk-e-Suleman nazar aata hai
 ---
 

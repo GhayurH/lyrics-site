@@ -1,6 +1,6 @@
 ---
 title: "وہ خون رو کے یہ کہتا رہا زمانے سے"
-alternateTitle: "Wo Khoon Ro Ke"
+alternateTitle: "Wo Khun Ro Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,11 +12,11 @@ cover: "/images/lyrics/wo-khoon-ro-ke.png"
 coverAlt: "Cover image for Wo Khoon Ro Ke"
 published: true
 romanLyrics: |-
-  Wo khun ro ke kehta raha zamanay se
+  Wo khun ro ke kehta raha zamane se
   Ridaeiṅ chino naa, logo mere gharane se
   
   1
-  Sawal-e-aab pe sonay pe us ke rone pe
+  Sawal-e-aab pe sone pe us ke rone pe
   Wo maarte the, sakina ko her bahaane se
   
   2
@@ -24,15 +24,15 @@ romanLyrics: |-
   Wo berida thi, jhijhakti rahi bulane se
   
   3
-  Sulaya jaata tha bayhosh ker ke durron se
+  Sulaya jaata tha bayhosh ker ke durroṅ se
   Jagaya jata tha, abid ko taaziane se
   
   4
-  Kuch is terha sar-e-kerbobala wo ujray the
+  Kuch is terha sar-e-kerbobala wo ujre the
   Ke dar rahe haiṅ, abhi tak wo ghar basaane se
   
   5
-  Kaha ye ganj-e-shahidan mei baap ke sar ne
+  Kaha ye ganj-e-shahidaṅ mei baap ke sar ne
   Mujhai sakina, bulati hai qaid khaane se
   
   6

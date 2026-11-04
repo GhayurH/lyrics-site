@@ -20,7 +20,7 @@ romanLyrics: |-
   Ehsaas-e-yatimi hi bari sakht saza hai
   
   2
-  Ae Shimr-e-Laien kis pe tu barsata hai kuray
+  Ae Shimr-e-Laieṅ kis pe tu barsata hai kure
   Aabid to bari dair se behosh parha hai
   
   3
@@ -29,7 +29,7 @@ romanLyrics: |-
   
   4
   Shikwa nahiṅ zindaṅ se koi Bint-e-Ali ko
-  Kia kam hai ke diwaron ne parda to kiya hai
+  Kia kam hai ke diwaroṅ ne parda to kiya hai
   
   5
   Sar Ghazi ka tharra ke gira nok-e-sina se
@@ -52,7 +52,7 @@ romanLyrics: |-
   Is qaidi ko kia rog hai kiuṅ jaag raha hai
   
   10
-  Darbar-e-jafaakaar me yun aatiṅ haiṅ Zainab
+  Darbar-e-jafaakaar me yuṅ aatiṅ haiṅ Zainab
   Chehre pe lahu Aun o Muhammad ka mala hai
 ---
 

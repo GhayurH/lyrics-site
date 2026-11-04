@@ -16,8 +16,8 @@ romanLyrics: |-
   Abid ko kisi tarha bacha laayi hai Zainab ae Shehr-e-Madina
   
   1
-  Bandhwa ke rasan haaton may aur khutbe sunaake ghar baar lutaake
-  Dewaar bade kufr ke dha aayi hai Zainab ae Shehr-e-Madina
+  Bandhwa ke rasan haatoṅ may aur khutbe sunaake ghar baar lutaake
+  Dewaar bare kufr ke dha aayi hai Zainab ae Shehr-e-Madina
   
   2
   Jis shehr may Shehzaadiyo ki tarha rahi thi naazoṅ se pali thi
@@ -29,7 +29,7 @@ romanLyrics: |-
   
   4
   Dhaaras thi bahot Bhai ko jis Bhai ke dam se dil phat-ta hai gham se
-  Saahil pe akela usay choad aayi hai Zainab ae Shehr-e-Madina
+  Saahil pe akela use choar aayi hai Zainab ae Shehr-e-Madina
   
   5
   Chhey maah ke Asghar ko bhi jhule ke bajaaye dukh dard chipaaye
@@ -41,7 +41,7 @@ romanLyrics: |-
   
   7
   Tha Akbar-e-Nashaad jo is ghar ka ujaala wo Gaysuoṅ wala
-  Marqad may akela usay choad aayi hai Zainab ae Shehr-e-Madina
+  Marqad may akela use choar aayi hai Zainab ae Shehr-e-Madina
   
   8
   Naadim hai bahot laa saki Qasim ko na humra wa hasrat o darda

@@ -1,6 +1,6 @@
 ---
 title: "کیوں نہ مر جائے پدر جیتے جی سرور جیسا"
-alternateTitle: "Kiun Na Marjaye Pidar"
+alternateTitle: "Kiuṅ Na Marjaye Pidar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,7 +16,7 @@ romanLyrics: |-
   qatl ho jaye pisar jab Ali Akbar jaisa
   
   1
-  baap logoṅ se yun, bete ka pata puchta tha
+  baap logoṅ se yuṅ, bete ka pata puchta tha
   tum ne dekha hai koi, rann meiṅ Payambar jaisa
   
   2
@@ -28,7 +28,7 @@ romanLyrics: |-
   marhala yeh bhi tha ek, Shimr ke khanjar jaisa
   
   4
-  yun bhi patthar use, maare haiṅ sitamgaron ne
+  yuṅ bhi patthar use, maare haiṅ sitamgaron ne
   sar-e-Akbar bhi tha unko sar-e-Haider jaisa
   
   5

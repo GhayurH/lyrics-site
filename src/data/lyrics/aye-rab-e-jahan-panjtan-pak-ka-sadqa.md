@@ -1,6 +1,6 @@
 ---
 title: "اے ربِ جہاں، پنجتنؑ پاک کا صدقہ"
-alternateTitle: "Ae Rab-E-Jahan Panjtan Pak Ka Sadqa"
+alternateTitle: "Ae Rab-E-Jahaṅ Panjtan Pak Ka Sadqa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,7 +13,7 @@ coverAlt: "Cover image for Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
 published: true
 romanLyrics: |-
   1
-  Ae Rab-e-Jahan, Panjtan Pak Ka Sadqa
+  Ae Rab-e-Jahaṅ, Panjtan Pak Ka Sadqa
   Iss Qaum Ka Daman Gham-e-Shabbir Se Bhar De
   
   2
@@ -69,7 +69,7 @@ romanLyrics: |-
   Waris Mera Parde Meiṅ Hai, Zahir Usse Kar De
   
   15
-  Manzur Hai Khwabon Meiṅ Hi Aaqa Ki Ziyarat
+  Manzur Hai Khwaboṅ Meiṅ Hi Aaqa Ki Ziyarat
   Parwaz Ki Khwahish Meiṅ Na Jibril Ke Par De
   
   16

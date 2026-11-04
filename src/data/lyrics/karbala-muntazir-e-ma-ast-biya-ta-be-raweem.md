@@ -27,13 +27,13 @@ romanLyrics: |-
   Raah Purkhaar Hai, Dushwaar Hai Chalne Ke Liye
   Kuch Sahara Nahiṅ Girte Ko Sambhalne Ke Liye
   Muntazir Khun Hai Gardan Se Nikalne Ke Liye
-  Ghode Tayyar Haiṅ Laashe Ko Kuchalne Ke Liye
+  Ghore Tayyar Haiṅ Laashe Ko Kuchalne Ke Liye
   Shaah Haiṅ Aap Ke Mehmaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   3
   Tashnalab Logoṅ Ke Ye Khun Ka Darya Dekho
-  Tukde Tukde Jo Hai Qasim Ka Ye Laasha Dekho
+  Tukre Tukre Jo Hai Qasim Ka Ye Laasha Dekho
   Bhai Abbas Ke Ye Dast-e-Burida Dekho
   Laasha-e-Asghar Liye Ye Kaun Hai Tanha Dekho
   Bhar Gaya Laashoṅ Se Maidaan, Biya Ta Be Rawim
@@ -80,16 +80,16 @@ romanLyrics: |-
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   9
-  Aapko Zaat Ke Patthar Se Bhi Ladna Hoga
-  Aapko Aarzu-e-Zan Se Bhi Ladna Hoga
-  Aapko Nafs Ke Lashkar Se Bhi Ladna Hoga
-  Sirf Bahar Nahiṅ Andar Se Bhi Ladna Hoga
+  Aapko Zaat Ke Patthar Se Bhi Larna Hoga
+  Aapko Aarzu-e-Zan Se Bhi Larna Hoga
+  Aapko Nafs Ke Lashkar Se Bhi Larna Hoga
+  Sirf Bahar Nahiṅ Andar Se Bhi Larna Hoga
   Maang Lo Jang Ka Samaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
   
   10
   Nasir-e-Mehdi-e-Haq, Janib-e-Kaaba Aaja
-  Chhod Kar Daulat-e-Duniya Ki Tamanna Aaja
+  Chhor Kar Daulat-e-Duniya Ki Tamanna Aaja
   Faisla Hurr Ki Tarah Karke Tu Aaja, Aaja
   Muntazir Teri Hi Ghaibat Meiṅ Hai Moula, Aaja
   Tujhpe Qurbaan Meri Jaan, Biya Ta Be Rawim
@@ -107,7 +107,7 @@ romanLyrics: |-
   Kaash Ae Kaash Bane Karb o Bala Ka Lashkar
   Kaash Ae Kaash Mile Aakhri Wo Fath o Zafar
   Kaash Jaari Rahe Moula Ki Ye Nusrat Ka Safar
-  Karbala Muntazir-e-Mehdi-e-Dauraan Hai, Qamar
+  Karbala Muntazir-e-Mehdi-e-Dauraaṅ Hai, Qamar
   Dekho Tayyar Hai Maidaan, Biya Ta Be Rawim
   Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
 ---

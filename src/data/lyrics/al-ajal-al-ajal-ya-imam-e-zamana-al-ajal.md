@@ -1,6 +1,6 @@
 ---
 title: "گر ہو مری حیات مرے اختیار میں"
-alternateTitle: "Gar Ho Meri Hayaat Mere Ikhteyar Mein"
+alternateTitle: "Gar Ho Meri Hayaat Mere Ikhteyar Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -70,7 +70,7 @@ romanLyrics: |-
   Taskin-e-Qalb-e-Madar-e-Shabbir Chahiye
   Ab Jannat-ul-Baqi Ki Tamir Chahiye
   
-  Aa Jaegi Bahar Is Ujde Dayaar Meiṅ
+  Aa Jaegi Bahar Is Ujre Dayaar Meiṅ
   Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
   
   7

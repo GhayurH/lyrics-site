@@ -33,7 +33,7 @@ romanLyrics: |-
   to us ko pani se benayazi
   
   namaz ki intiha taharat
-  Husain shaahkar e pak daaman
+  Husain shaahkar-e-pak daaman
   
   namaz hai baarha ibadat
   Husain ka zikr be riya hai

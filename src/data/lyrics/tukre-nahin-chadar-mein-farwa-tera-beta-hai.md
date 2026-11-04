@@ -1,6 +1,6 @@
 ---
 title: "ٹکڑے نہیں چادر میں، فروا تیرا بیٹا ہے"
-alternateTitle: "Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
+alternateTitle: "Tukre Nahiṅ Chadar Meiṅ, Farwa Tera Beta Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,10 +13,10 @@ coverAlt: "Cover image for Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
 published: true
 romanLyrics: |-
   Tukre nahiṅ chadar meiṅ, farwa tera beta hai
-  Maqtal me issey maine, chun chun ke uthayya hai
+  Maqtal me isse maine, chun chun ke uthayya hai
   
   1
-  Rukh kar key baqayya ka, sheh kehtey rahe bhai
+  Rukh kar ke baqayya ka, sheh kehte rahe bhai
   Bete ki tere mayyat, puri nahi mil payi
   Dhunda to bohot meiṅ ne
   Par mil nahi paya hai
@@ -30,20 +30,20 @@ romanLyrics: |-
   3
   Haathoṅ ko kabhi ser ko, sine ko uthata tha
   Aur baqi janaze ko, meiṅ dhundhta jaata tha
-  Isnay mujhey ghurbat ka
+  Isnay mujhe ghurbat ka
   Ehsaas dilaya hai
   
   4
   Qasim maiṅ teri maa ko, kis tarhan se batlaoṅ
-  Ye hi hay tera beta, kaisay usay samjhaoṅ
+  Ye hi hai tera beta, kaise use samjhaoṅ
   Ye soch ke ankhoṅ se
-  Khun Sheh ne bahaya he
+  Khun Sheh ne bahaya hai
   
   5
-  Pucha jo ye zainab ne, gathri maiṅ he kiya bhai
-  Sarwar ne kaha roker, qasim ki hay lash haye
+  Pucha jo ye zainab ne, gathri maiṅ hai kiya bhai
+  Sarwar ne kaha roker, qasim ki hai lash haye
   Is lash ka zalim ne
-  Wo haal banaya he
+  Wo haal banaya hai
 ---
 
 ٹکڑے نہیں چادر میں، فروا تیرا بیٹا ہے

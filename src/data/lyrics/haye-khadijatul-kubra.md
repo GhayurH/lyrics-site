@@ -38,7 +38,7 @@ romanLyrics: |-
   pusht-e-Mustafa kham hai, rehlat-e-Khadija se
   
   5
-  gham hai daswein roze meiṅ, jaise das Muharram ka
+  gham hai dasweiṅ roze meiṅ, jaise das Muharram ka
   haath khud hi matam ko, utha Ahl-e-Matam ka
   haaṅ aza ka mausam hai, rehlat-e-Khadija se
   

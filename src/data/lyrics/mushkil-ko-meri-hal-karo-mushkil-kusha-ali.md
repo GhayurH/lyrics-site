@@ -32,7 +32,7 @@ romanLyrics: |-
   
   3
   Ae Kibriya Ki Shan Muhammad Ke Dil Nashiṅ
-  Aansu Rawan Haiṅ Aankh Se Dil Ko Sukuṅ Nahiṅ
+  Aansu Rawaṅ Haiṅ Aankh Se Dil Ko Sukuṅ Nahiṅ
   Ye Dil Se Aa Rahi Musalsal Sada Ali
   
   4
@@ -62,7 +62,7 @@ romanLyrics: |-
   
   9
   Zishan Aur Raza Ke Laboṅ Par Dua Hai Ye
-  Ghaibat Se Jald Barhwein Bete Ko Bhejiye
+  Ghaibat Se Jald Barhweiṅ Bete Ko Bhejiye
   Mushkil Hai Sans Lena Ab Un Ke Bina Ali
 ---
 
