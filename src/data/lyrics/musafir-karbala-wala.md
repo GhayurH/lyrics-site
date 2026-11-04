@@ -18,7 +18,7 @@ romanLyrics: |-
   (Musafir, Karbala wala musafir)
   
   
-  Jinwaiṅ ujra hai karbal which, Inwain ujre na koi shala
+  Jinwaiṅ ujra hai karbal which, Inwaiṅ ujre na koi shala
   (Musafir, Karbala wala musafir)
   
   1
@@ -28,7 +28,7 @@ romanLyrics: |-
   Tha kitna hosle wala (Musafir, Karbala wala musafir)
   
   2
-  Luta inwain hai jungle which, (Musafir karbala wala)
+  Luta inwaiṅ hai jungle which, (Musafir karbala wala)
   Thia pamal maqtal which, (Musafir karbala wala)
   Hai nazaṅ naal Bauṅ okha, Jinun zehra ne hai pala
   (Musafir, Karbala wala musafir)
@@ -41,7 +41,7 @@ romanLyrics: |-
   
   4
   Reya bauṅ dair tiraṅ tae, (Musafir karbala wala)
-  Peya be dafn raitaṅ tae, (Musafir karbala wala)
+  Peya bedafn raitaṅ tae, (Musafir karbala wala)
   Sitam kita Musafir da, Har ek khaima jala dala
   (Musafir, Karbala wala musafir)
   

@@ -26,7 +26,7 @@ romanLyrics: |-
   Misle Charagh Gor-e-Gharibaṅ Pe Dil Jalaye
   Phuloṅ Ke Badle Qabroṅ Pe Lakht-e-Jigar Charhaye
   Pyaroṅ Ki Bud o Baash Ke Samaṅ Jo Yaad Aaye
-  Be Sakhta Pukare Kaleja Pakar Ke Haye
+  Besakhta Pukare Kaleja Pakar Ke Haye
   Kunbe Ke Saath Dakhla-e-Karbala Hua
   Laya Jo Tha Madine Se Hum Ko Wo Kya Hua
   

@@ -26,7 +26,7 @@ romanLyrics: |-
   1
   Jab se baba ne chume haiṅ shane tere
   Karbala yaad aati hai bhai mujhe
-  Ek zakhmi badan hoga jab be kafan
+  Ek zakhmi badan hoga jab bekafan
   Kaun aayega bhai uthane use
   Aaj sab haiṅ chalo, tum mera saath do
   Dur baitho na ab mere Ghazi utho

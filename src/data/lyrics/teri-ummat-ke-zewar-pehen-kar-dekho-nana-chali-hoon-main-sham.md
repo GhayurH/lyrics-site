@@ -24,7 +24,7 @@ romanLyrics: |-
   Dekho Bhaiya Chali Huṅ Maiṅ Sham
   
   2
-  Tere Bachchon Ko Le Kar Gayi Maiṅ
+  Tere Bachchoṅ Ko Le Kar Gayi Maiṅ
   Shab Bhar Saari Roti Rahi Huṅ
   Kabhi Ghazi Ka Lehja Badal Kar
   Maiṅ Pehre Bhi Deti Rahi Huṅ

@@ -30,8 +30,8 @@ romanLyrics: |-
   2
   Tere Badan Se Bhayya Ki Mujhko
   Taza Lahu Ki Aati Hai Khushbu
-  Hai Surkh Kiunkar Ye Jism Tera
-  Kiunkar Hai Teri Aankoṅ Meiṅ Aansu
+  Hai Surkh Kiuṅkar Ye Jism Tera
+  Kiuṅkar Hai Teri Aankoṅ Meiṅ Aansu
   
   Aankheiṅ Phati Haiṅ Raasheiṅ Kati Haiṅ
   Kiuṅ Sar Pe Tere Hai Zakhm Tari
@@ -40,7 +40,7 @@ romanLyrics: |-
   Ae Zuljana-e-Sibt-e-Payambar
   Batala Kahaṅ Hai Mera Biradar
   Pyasi Sakina Karti Hai Noha
-  Baba Na Aaye Maqtal Se Kiunkar
+  Baba Na Aaye Maqtal Se Kiuṅkar
   
   Mara Gaya Kiya Mazlum Bhai
   Karti Hai Zainab Ye Aah o Zari

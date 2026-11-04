@@ -13,7 +13,7 @@ coverAlt: "Cover image for Yeh Raaz Kya Hai Duniya Ke Banane Wale"
 published: true
 romanLyrics: |-
   Yeh Raaz Kya Hai Duniya Ke Banane Wale
-  Be Sahara Hai Tera Din Bachane Wale
+  Besahara Hai Tera Din Bachane Wale
   
   1
   Tha Woh Darbaar Magar Log Wohi The Nana

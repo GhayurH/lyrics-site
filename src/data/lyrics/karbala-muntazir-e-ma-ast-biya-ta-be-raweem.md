@@ -1,6 +1,6 @@
 ---
 title: "کربلا منتظرِ ما است، بیا تا برویم"
-alternateTitle: "Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
+alternateTitle: "Karbala Muntazir-e-Ma Ast Biya Ta Be Raweem"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

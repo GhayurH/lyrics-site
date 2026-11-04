@@ -28,7 +28,7 @@ romanLyrics: |-
   
   2
   Mere Ghazi mere Safdar, mere Mir-e-lashkar
-  Dekh be aas hai pardes meiṅ teri khwahar
+  Dekh beaas hai pardes meiṅ teri khwahar
   Kat gaya sibt-e-payambar ka bhi sajde meiṅ gala
   
   3

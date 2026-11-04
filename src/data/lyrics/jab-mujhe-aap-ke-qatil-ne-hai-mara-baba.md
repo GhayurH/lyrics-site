@@ -21,7 +21,7 @@ romanLyrics: |-
   
   2
   Wo Jo Dur Aap Ne Tohfe Meiṅ Mujhe Bakshe The
-  Un Ko Be Dardi Se Zalim Ne Utara Baba
+  Un Ko bedardi Se Zalim Ne Utara Baba
   
   3
   Aap Ke Sine Pe Aaram Se Sone Wali
@@ -40,7 +40,7 @@ romanLyrics: |-
   Mera Asghar Tha Mujhe Jaan Se Bhi Pyara Baba
   
   7
-  Be Kafan Aap Haiṅ, Be Kafan Rahe Gi Beti
+  Bekafan Aap Haiṅ, Bekafan Rahe Gi Beti
   Aik Jaisa Hi Muqaddar Hai Hamara Baba
   
   8

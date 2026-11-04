@@ -12,7 +12,7 @@ cover: "/images/lyrics/mazloom-be-watan-ye-mera-moula-raza-hai.png"
 coverAlt: "Cover image for Mazloom Be Watan Ye Mera Moula Raza Hai"
 published: true
 romanLyrics: |-
-  Mazlum Be Watan Ye Mera Maula Raza Hai
+  Mazlum bewatan Ye Mera Maula Raza Hai
   Haye Jisko Zehar Logoṅ Musalmaaṅ ne Diya Hai
   
   1

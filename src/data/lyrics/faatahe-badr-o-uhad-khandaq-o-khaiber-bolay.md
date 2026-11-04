@@ -1,6 +1,6 @@
 ---
 title: "فاتحِ بدر و اُحد، خندق و خیبر بولے"
-alternateTitle: "Faatahe Badr-O-Uhad Khandaq O Khaiber Bole"
+alternateTitle: "Faatahe Badr-O-Uhad Khandaq o Khaiber Bole"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -1,6 +1,6 @@
 ---
 title: "بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا"
-alternateTitle: "Bekhata Mara Gaya Sibt-E-Rasul-E-Dosara, Wa Hasan-E-Sabz Qaba"
+alternateTitle: "Bekhata Mara Gaya Sibt-e-Rasul-e-Dosara, Wa Hasan-e-Sabz Qaba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ cover: "/images/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.png"
 coverAlt: "Cover image for Bay Khata Mara Gaya Sibt-e-Rasool Dusra Wa Hasan-e-Sabz Qaba"
 published: true
 romanLyrics: |-
-  Be Khata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
+  Bekhata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
   Zehr Se Tukre Jigar, Khuṅ Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
   
   1

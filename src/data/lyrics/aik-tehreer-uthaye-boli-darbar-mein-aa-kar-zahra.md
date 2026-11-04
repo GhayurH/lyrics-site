@@ -1,6 +1,6 @@
 ---
 title: "ایک تحریر اٹھائے، بولی دربار میں آ کر زہراؑ، لوگوں میں بنتِ نبی ہوں"
-alternateTitle: "Aik Tehrir Uthaye, Boli Darbar Meiṅ Aa Kar Zahra, Logoṅ Meiṅ Bint-E-Nabi Huṅ"
+alternateTitle: "Aik Tehrir Uthaye, Boli Darbar Meiṅ Aa Kar Zahra, Logoṅ Meiṅ Bint-e-Nabi Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

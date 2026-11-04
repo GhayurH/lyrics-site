@@ -54,7 +54,7 @@ romanLyrics: |-
   8
   zainab ne ro ke viran kuṅ aakha
   mainuṅ gal chuma cha jithe aake shimraan
-  khanjar chalesi, be dardi naal ae
+  khanjar chalesi, bedardi naal ae
 ---
 
 رب دے حوالے رب دے حوالے

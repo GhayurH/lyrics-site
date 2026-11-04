@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   1
   Bahar aane ko hai yuṅ to jahaṅ maiṅ hai hazar aayi
-  Magar aisi bahare be khizaaṅ hai pehli bar aayi
+  Magar aisi bahare bekhizaaṅ hai pehli bar aayi
   
   2
   Bahar aayi Bahar aayi Bahar aayi Bahar aayi

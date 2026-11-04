@@ -50,7 +50,7 @@ romanLyrics: |-
   Haye Kaash Ali Mar Janda
   Umri Nal Hui Gustakhi
   Tere Vir Ali Ne
-  Ankhiyan Nal Wekhi Ae
+  Ankhiyaṅ Nal Wekhi Ae
   
   5
   Tehrir De Tukre Jis Din Di

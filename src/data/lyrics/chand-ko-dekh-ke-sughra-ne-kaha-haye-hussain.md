@@ -41,7 +41,7 @@ romanLyrics: |-
   Haye Akbar kabhi kahti thi kabhi haye Husain
   
   7
-  Mustaqil Shah ki aakhon se the aansuṅ jari
+  Mustaqil Shah ki aankhoṅ se the aansuṅ jari
   Khat-e-Sughra ko mukammal nahi parh paye Husain
   
   8

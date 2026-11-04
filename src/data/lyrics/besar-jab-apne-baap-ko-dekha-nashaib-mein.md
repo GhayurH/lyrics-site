@@ -78,7 +78,7 @@ romanLyrics: |-
   kehti thi mai yatim hu mujh par na waar kar
   ki minnateiṅ bahot ki zara intezaar kar
   mai de rahi thi shimr ko bunde utaar kar
-  chine hai be rehm ne magar mujhko maar kar
+  chine hai berehm ne magar mujhko maar kar
   ye dard jab pidar ko sunaya nashaib meiṅ
   royi bohat yatim sakina...
 

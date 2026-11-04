@@ -14,7 +14,7 @@ published: true
 sixVerseLayout: "pairs"
 romanLyrics: |-
   Karbala Karbala Karbala
-  Maiṅ ho gayi be rida, wa Husaina
+  Maiṅ ho gayi berida, wa Husaina
   Mera koi na raha, wa Husaina
   Ab kis ko duṅ maiṅ sada
 
@@ -77,7 +77,7 @@ romanLyrics: |-
   8
   Safdar jo Karbala meiṅ sham-e gharibaṅ ayi
   Sun sun ke ye sadaeiṅ roti rahi khudayi
-  Maiṅ ho gayi be rida, wa Husaina
+  Maiṅ ho gayi berida, wa Husaina
   Mera koi na raha, wa Husaina
   Ab kis ko duṅ maiṅ sada
   Karbala Karbala Karbala

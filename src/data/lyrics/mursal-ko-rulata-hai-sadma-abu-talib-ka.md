@@ -16,7 +16,7 @@ romanLyrics: |-
   duniya se chale jana, chacha Abu Talib ka
   
   1
-  khud huzn ka saal is ko kehte haiṅ Nabi kyunke
+  khud huzn ka saal is ko kehte haiṅ Nabi kiunke
   is saal meiṅ thehra hai, jana Abu Talib ka
   
   2

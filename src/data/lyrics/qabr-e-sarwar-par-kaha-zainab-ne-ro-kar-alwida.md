@@ -1,6 +1,6 @@
 ---
 title: "قبرِ سرور پر کہا زینب نے رو کر، الوداع"
-alternateTitle: "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
+alternateTitle: "Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

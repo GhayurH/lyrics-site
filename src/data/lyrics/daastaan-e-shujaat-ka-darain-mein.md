@@ -1,6 +1,6 @@
 ---
 title: "داستانِ شجاعت کا داریں میں"
-alternateTitle: "Daastaan-E-Shujaat Ka Daraiṅ Meiṅ"
+alternateTitle: "Daastaan-e-Shujaat Ka Daraiṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

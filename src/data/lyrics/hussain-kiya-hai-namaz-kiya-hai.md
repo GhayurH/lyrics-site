@@ -36,7 +36,7 @@ romanLyrics: |-
   Husain shaahkar-e-pak daaman
   
   namaz hai baarha ibadat
-  Husain ka zikr be riya hai
+  Husain ka zikr beriya hai
   
   tu ab bhi mujhse ye puchta hai
   Husain kiya hai namaz kiya hai

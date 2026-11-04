@@ -23,11 +23,11 @@ romanLyrics: |-
   2
   Itna to zara thero tumheṅ dulha bana lu
   Bas aik jhalak sehre ki Sughra ko dikhalu
-  Be chain thi khwahar
+  Bechain thi khwahar
   
   3
   Athaara baras paal ke parwaan charaya
-  Wo gaisuo'n wala hai mera khun me nahaya
+  Wo gaisuoṅ wala hai mera khun me nahaya
   Ye kya hua dilbar
   
   4
@@ -51,7 +51,7 @@ romanLyrics: |-
   Kya ho gaya dilbar
   
   8
-  Tum hichkiya'n le le ke jo dam tor rahe ho
+  Tum hichkiyaṅ le le ke jo dam tor rahe ho
   Muṅ maaṅ se hamesha ke liye mor rahe ho
   Kiuṅ ruthe ho dilbar
   
@@ -61,7 +61,7 @@ romanLyrics: |-
   Chin jayegi chadar
   
   10
-  Jab koi jawaa'n laash nazar hai mehshar
+  Jab koi jawaaṅ laash nazar hai mehshar
   Ek yaad suye karbobala jaati hai mehshar
   Dil rota hai kehkar
 ---

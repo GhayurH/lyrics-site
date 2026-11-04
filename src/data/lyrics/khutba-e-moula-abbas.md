@@ -24,7 +24,7 @@ romanLyrics: |-
   Sabhi hamd o sana uski k jo hai Khaaliq-e-Akbar
   Zacha khaana mere Baba ka ban jaata hai jis ka ghar
   Ye iton ka makaaṅ kaaba bana jab aa gye Haider
-  Aur Sadaf ki qadr o qimat kuchh nahi hoti be gohar
+  Aur Sadaf ki qadr o qimat kuchh nahi hoti begohar
   Ye qibla gaah-e-aalam asal meiṅ tathir ka ghar hai
   Wirasat hai mere ajdaad ki… Shabbir ka ghar hai
 

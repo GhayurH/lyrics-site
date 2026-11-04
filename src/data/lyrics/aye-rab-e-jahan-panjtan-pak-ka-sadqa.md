@@ -1,6 +1,6 @@
 ---
 title: "اے ربِ جہاں، پنجتنؑ پاک کا صدقہ"
-alternateTitle: "Ae Rab-E-Jahaṅ Panjtan Pak Ka Sadqa"
+alternateTitle: "Ae Rab-e-Jahaṅ Panjtan Pak Ka Sadqa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -38,7 +38,7 @@ romanLyrics: |-
   
   7
   Paband-e-Rasan Zainab o Kulsum Ka Sadqa
-  Be Jurm Asiroṅ Ko Rehai Ki Khabar De
+  Bejurm Asiroṅ Ko Rehai Ki Khabar De
   
   8
   Jo Maeiṅ Bhi Roti Haiṅ beYad-e-Ali Asghar

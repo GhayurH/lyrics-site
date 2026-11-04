@@ -21,7 +21,7 @@ romanLyrics: |-
   ghaar meiṅ kis liye tufaan nazar aata hai
   
   3
-  Fatima bint-e-Asad se kaha Ka‘be meiṅ chaleṅ
+  Fatima bint-e-Asad se kaha Ka‘bemeiṅ chaleṅ
   beAli ghar mera sunsaaṅ nazar aata hai
   
   4

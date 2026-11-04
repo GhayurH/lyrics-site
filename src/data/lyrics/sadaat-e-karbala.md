@@ -1,6 +1,6 @@
 ---
 title: "ساداتِ کربلا"
-alternateTitle: "Sadaat-E-Karbala"
+alternateTitle: "Sadaat-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -47,7 +47,7 @@ romanLyrics: |-
   Sarwar o Abbas-e-dilawar nahiṅ
   Haaye koi munis o yawar nahiṅ,
   khaima nahiṅ maqna o chadar nahiṅ
-  Dasht meiṅ be haiṅ aal-e-nabi beamaan,
+  Dasht meiṅ behaiṅ aal-e-nabi beamaan,
   haaye qiyamat ka hai samaaṅ
   
   5
@@ -61,13 +61,13 @@ romanLyrics: |-
   6
   Maaṅ huṅ har ek ranj uthauṅ gi maiṅ,
   rote hue khud chali jauṅ gi maiṅ
-  Dhund ke be sher ko lauṅ gi maiṅ,
+  Dhund ke besher ko lauṅ gi maiṅ,
   is ke bina ji nahiṅ pauṅ gi maiṅ
   Reh gaya haaye mera bachcha kahaṅ,
   haaye qiyamat ka hai samaaṅ
   
   7
-  Haaye yeh be chargi yeh be kasi,
+  Haaye yeh bechargi yeh bekasi,
   deta nahiṅ is ko dalasa koi
   Darmiyan lashoṅ ke akeli khari,
   kahti hai bachchi koi sehmi hui

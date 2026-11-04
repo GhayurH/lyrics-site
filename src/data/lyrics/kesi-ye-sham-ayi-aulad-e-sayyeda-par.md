@@ -17,7 +17,7 @@ romanLyrics: |-
   Sajjad ro rahe haiṅ Zainab se mun chupa kar
   
   1
-  Ik simt be kafan hai bhai ka uske lasha
+  Ik simt bekafan hai bhai ka uske lasha
   Abbas ki behen ka baqi raha na parda
   Ab sochti hai Zainab maange kafan ya chadar
   

@@ -40,7 +40,7 @@ romanLyrics: |-
   Kaisi Thi haaye Uftaad Nana, Uftaad Nana Uftaad Nana
   
   7
-  Ujra Houa Hai Kumba Humara, Hum Hogaey Haiṅ Ub Be Sahara
+  Ujra Houa Hai Kumba Humara, Hum Hogaey Haiṅ Ub besahara
   Karbobala Hai Abaad Nana, Abaad Nana Abaad Nana
   
   8

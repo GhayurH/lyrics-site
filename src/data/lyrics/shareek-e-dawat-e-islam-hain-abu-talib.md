@@ -1,6 +1,6 @@
 ---
 title: "شریکِ دعوتِ اسلام ہیں ابو طالب"
-alternateTitle: "Sharik-E-Dawat-E-Islam Haiṅ Abu Talib"
+alternateTitle: "Sharik-e-Dawat-e-Islam Haiṅ Abu Talib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

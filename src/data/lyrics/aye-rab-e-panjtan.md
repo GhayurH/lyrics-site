@@ -1,6 +1,6 @@
 ---
 title: "اے ربِ پنجتن"
-alternateTitle: "Ae Rab-E-Panjtan"
+alternateTitle: "Ae Rab-e-Panjtan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

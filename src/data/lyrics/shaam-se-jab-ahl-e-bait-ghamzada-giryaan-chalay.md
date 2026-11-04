@@ -1,6 +1,6 @@
 ---
 title: "شام سے جب اہلِ بیت، غمزدہ گریاں چلے"
-alternateTitle: "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaaṅ Chale"
+alternateTitle: "Shaam Se Jab Ahl-e-Bait, Ghamzada Giryaaṅ Chale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

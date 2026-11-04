@@ -33,7 +33,7 @@ romanLyrics: |-
   Ghar Poorana Mere Husain ka hai
   
   6
-  Aana Farsh-e-Aza pe Be Parda
+  Aana Farsh-e-Aza pe beparda
   Dil Dukhana Mere Husain ka hai
   
   7
