@@ -41,7 +41,7 @@ def slug_for(import_file: str) -> str:
     return stem
 
 
-def transform(content: str) -> str:
+def transform(content: str, import_file: str) -> str:
     match = FRONTMATTER.match(content)
     if match is None:
         raise ValueError("Missing frontmatter delimiters")
@@ -64,13 +64,13 @@ def transform(content: str) -> str:
     tags = list(meta.get("tags") or [])
     if not meta.get("cover") and "noImage" not in tags:
         tags.append("noImage")
-    if not meta.get("romanLyrics") and "noRoman" not in tags:
+    if lang != "Roman Urdu" and not meta.get("romanLyrics") and "noRoman" not in tags:
         tags.append("noRoman")
     if lang != "Urdu" and "noUrdu" not in tags:
         tags.append("noUrdu")
     # The importer has no separate Punjabi track. Do not claim this tag
     # when the source explicitly identifies itself as Punjabi.
-    identifying = str(meta.get("title") or "") + " " + str(meta.get("alternateTitle") or "")
+    identifying = (" ".join((str(meta.get("title") or ""), str(meta.get("alternateTitle") or ""), import_file)))
     if not re.search(r"(?i)punjabi|panjabi|پنجابی", identifying):
         if "noPanjabi" not in tags:
             tags.append("noPanjabi")
@@ -131,7 +131,7 @@ def main() -> None:
                     "reason": "Existing website slug or handoff collision",
                 })
                 continue
-            rendered = transform(item["content"])
+            rendered = transform(item["content"], item["import_file"])
             target.write_text(rendered, encoding="utf-8")
             reserved.add(slug)
             written.append({
