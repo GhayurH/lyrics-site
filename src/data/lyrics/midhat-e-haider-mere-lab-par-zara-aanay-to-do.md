@@ -36,6 +36,14 @@ romanLyrics: |-
   Saaf aayega nazar maidan ta hadd-e nazar
   Hazrat-e Abbas ko maidan meiṅ aane to do
 
+  7
+  Khud samajh jayeṅge woh kis jurm ki kya hai saza
+  Bughz ke maare huoṅ ko qabr meiṅ jaane to do
+
+  8
+  Asliyat khul jayegi Khyber meiṅ sheikhoṅ ki, huzur
+  Jo Payambar keh rahe haiṅ un ko farmane to do
+
 ---
 
 ۱
@@ -61,3 +69,11 @@ romanLyrics: |-
 ۶
 صاف آئے گا نظر میدان تا حدِ نظر
 حضرتِ عباس کو میدان میں آنے تو دو
+
+۷
+خود سمجھ جائیں گے وہ کس جرم کی کیا ہے سزا
+بغض کے مارے ہوؤں کو قبر میں جانے تو دو
+
+۸
+اصلیت کھل جائے گی خیبر میں شیخوں کی، حضور
+جو پیغمبر کہہ رہے ہیں اُن کو فرمانے تو دو

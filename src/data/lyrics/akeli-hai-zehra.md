@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Akhtar"
 tags: []
 aliases:
   - "Kahan Jaaye Aakhir Bayaban Har Soo"

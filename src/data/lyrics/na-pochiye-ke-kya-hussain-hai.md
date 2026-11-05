@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Gohar"
 tags: []
 aliases:
   - "Na Pochiye Ke Kya Husain Hai"

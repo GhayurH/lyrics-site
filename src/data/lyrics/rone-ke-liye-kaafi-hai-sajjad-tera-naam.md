@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Adil"
 tags: []
 aliases:
   - "Rone Ke Liye Kaafi Hai Sajjad Tera Naam"

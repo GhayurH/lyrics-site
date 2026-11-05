@@ -54,6 +54,11 @@ romanLyrics: |-
   Chomte Haiṅ Paoṅ Aa Ke Taare Aap Ke
   Chal Raha Hai Dekh Ke Ishare Aap Ke
   Sari Kainat Ka Nizam Ae Mere Imam
+  
+  9
+  Wasf Sab Haseen Ke Naam Ho Gaye
+  Takht o Taj Ke Ghulam Ho Gaye
+  Jab Se Woh Hua Tera Ghulam Ae Mere Imam
 ---
 
 آپ پر درود اور سلام اے میرے امام
@@ -98,3 +103,8 @@ romanLyrics: |-
 چومتے ہیں پاؤں آ کے تارے آپ کے
 چل رہا ہے دیکھ کے اشارے آپ کے
 ساری کائنات کا نظام اے میرے امام
+
+۹
+وصف سب حسین کے نام ہو گئے
+تخت و تاج کے غلام ہو گئے
+جب سے وہ ہوا ترا غلام اے میرے امام

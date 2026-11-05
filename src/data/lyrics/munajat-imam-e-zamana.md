@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Hilal"
 tags: []
 aliases:
   - "Munajat Imam E Zamana"
