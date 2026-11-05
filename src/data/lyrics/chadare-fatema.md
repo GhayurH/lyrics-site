@@ -1,0 +1,120 @@
+---
+title: "رزق ہے جنبش چادر فاطمہ"
+alternateTitle: "Chadare Fatema"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: ["noImage", "noPanjabi"]
+aliases: []
+published: false
+romanLyrics: |-
+  Rizq hai jumbishe chadar e fatema
+  
+  1
+  Rozi e aalameen chadar e sayyeda
+  Ay maadar bekas maadar mazloom maadar
+  Teri khaak e paa se na hum sar uthayein
+  Wahin par ajal ko galay se lagayein
+  Rahe teri chadar ka saaya saron par
+  Shifa'at ke saaye mein hum sar chupayein
+  Ay maadar bekas maadar...
+  
+  2
+  Falak par dilon ke tujhi se ujaala
+  Jahaano ko teri dua ne sambhala
+  Ho kaise hi toofan ho kaisi qayamat
+  Musibat se tu ne hamesha nikaala
+  Ay maadar bekas maadar...
+  
+  3
+  Ye palkein itaa'at ki daaim bichayein
+  Hamesha isi dar pe ye sar jhukayein
+  Ghulamo ki khwahish dua aur tamanna
+  Gharane pe zahra ke jaane lutayein
+  Ay maadar bekas maadar...
+  
+  4
+  Ghazab hai tere ghar ka wo dar jala tha
+  Jo baab e shifa tha jo baab e ataa tha
+  Payamabr bhi us dar pe aate thay paiham
+  Khuda ki riza tha jo baab e khuda tha
+  Ay maadar bekas maadar...
+  
+  5
+  Adoo se ladi bhi ali ko bachaya
+  Saha taziyana tamacha bhi khaaya
+  Wilayat ki khaatir hi mohsin gawaya
+  Imamat ke mansab ko phir phir bhi bachaya
+  Ay maadar bekas maadar...
+  
+  6
+  Ali ke galay mein jo rassi bandhi thi
+  Musibat ye zahra ke dil pe badi thi
+  Na tha koi yawar ghazab ki ghadi thi
+  Ali ke wo daaman ko pakde khadi thi
+  Ay maadar bekas maadar...
+  
+  7
+  Ye mukhlis pe aur shadman pe karam hai
+  Gham e sayyeda mein jo aankhein ye nam hai
+  Mawaddat ki raahon ke ye hum safar hai
+  Wilayat ke raste pe ye hum qadam hai
+  Ay maadar bekas maadar...
+# source_id: nohayonline:b0a01053def1fe9ea51a
+# source_url: https://www.nohayonline.com/details_content.php?id=1572
+# raw_sha256: 31afe56bdcf77064f43cbc45681b6d67face183dde599ca7d1355fd759595c0b
+---
+
+رزق ہے جنبش چادر فاطمہ
+
+۱
+روزی عالمیں چادر سیدہ
+ا ے مادر بے کس مادر مظلوم مادر
+تری خاکِ پا سے نہ ہم سر اٹھائیں
+وہیں پر اجل کو گلے سے لگائیں
+رہے تری چادر کا سایہ سروں پر
+شفاعت کے سائے میں ہم سر چھپائیں
+ا ے مادر بے کس مادر۔۔۔
+
+۲
+فلک پر دلوں کے تجھی سے اجالا
+جہانوں کو تیری دعا نے سنبھالا
+ہوں کیسے ہی طوفاں ہوں کیسی قیامت
+مصیبت سے تو نے ہمیشہ نکالا
+ا ے مادر بے کس مادر۔۔۔
+
+۳
+یہ پلکیں اطاعت کی دائم بچھائیں
+ہمیشہ اسی در پہ یہ سر جھکائیں
+غلاموں کی خواہش دعا ا ور تمنّا
+گھرانے پہ زہرا کے جانیں لٹائیں
+ا ے مادر بے کس مادر۔۔۔
+
+۴
+غضب ہے ترے گھر کا و ہ در جلا تھا
+جو بابِ شفا تھا جو بابِ عطا تھا
+پیمبر بھی اُس در پہ آتے تھے پیہم
+خدا کی رضا تھا جو بابِ خدا تھا
+ا ے مادر بے کس مادر۔۔۔
+
+۵
+عدو سے لڑِیں بھی علی کو بچایا
+سہا تازیانہ طمانچہ بھی کھایا
+ولایت کی خاطر ہی محسن گنوایا
+امامت کے منصب کو پھر بھی بچایا
+ا ے مادر بے کس مادر۔۔۔
+
+۶
+علی کے گلے میں جو رسّی پڑی تھی
+مصیبت یہ زہرا کے دل پر بڑی تھی
+نہ تھا کوئی یاور غضب کی گھڑی تھی
+علی کے دامن کو پکڑے کھڑی تھی
+ا ے مادر بے کس مادر۔۔۔
+
+۷
+یہ مخلص پہ ا ور شادماں پہ کرم ہیں
+غمِ سیّدہ میں جو آنکھیں یہ نم ہیں
+مودت کی راہوں کے یہ ہمسفر ہیں
+ولایت کے رستے پہ یہ ہم قدم ہیں
+ا ے مادر بے کس مادر۔۔۔

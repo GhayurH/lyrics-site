@@ -1,0 +1,76 @@
+---
+title: "سجاد کیسے بھولیں غربت کا وہ زمانہ"
+alternateTitle: "Haye Wo Qaid Khana"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: ["noImage", "noPanjabi"]
+aliases: []
+published: false
+romanLyrics: |-
+  Sajjad kaise bhoolein ghurbat ka wo zamana
+  Haye wo qaid khana haye wo qaid khana
+  
+  1
+  Beparda bibiyon ka baalon se moo chupana
+  
+  2
+  Aankhon mein bas gayi zindan ki udaasi
+  Baba ko dhoondti hai mazloom ek pyasi
+  Dukhiya ka khauf se wo abbas ko bulana
+  
+  3
+  Bhooli nahi sakina bazaar ka wo manzar
+  Patthar baras rahe thay majboor qaidiyon par
+  Wo shimr ke tamache zaalim ka taziyana
+  
+  4
+  Mazloom qaidiyon ko abid na bhool paaye
+  Hat'ta nahi nazar se bazaar e shaam haye
+  Bemaar saarban ka aankhon se khoon bahana
+  
+  5
+  Pyasi sakina hum se afsos haye bichad gayi
+  Har lab pe tha ye nauha ruqsat ki ye ghadi hai
+  Zindan se watan jab qaidi huwe rawana
+  
+  6
+  Ab bhi muhib musalsal bemaar ro raha hai
+  Aale nabi ke ghar mein farshe aza bicha hai
+  Ye bain kar raha hai sadaat ka gharana
+# source_id: nohayonline:9ea3f579cb6f621ca0ba
+# source_url: https://www.nohayonline.com/details_content.php?id=3235
+# raw_sha256: 862068a196d6ced0cb278c1e64810cc4d7e2aeee5d0e75f11577e6bf35564f34
+---
+
+سجاد کیسے بھولیں غربت کا وہ زمانہ
+ہاے وہ قید خانہ ہاے وہ قید خانہ
+
+۱
+بے پردہ بی بیوں کا بالوں سے منہ چھپانا
+
+۲
+آنکھوں میں بس گیء زندان کی اداسی
+بابا کو ڈھونڈتی ہے مظلوم ایک پیاسی
+دکھیا کا خوف سے وہ عباس کو بلانا
+
+۳
+بھولی نہیں سکینہ بازار کا وہ منظر
+پتھر برس رہے تھے مجبور قیدیوں پر
+وہ شمر کے طمانچے ظالم کا تازیانہ
+
+۴
+مظلوم قیدیوں کو عابد نہ بھول پاے
+ہٹتا نہیں نظر سے بازار شام ہاے
+بیمار سارباں کا آنکھوں سے خوں بہانا
+
+۵
+پیاسی سکینہ ہم سے افسوس ہاے بچھڑ گیء
+ہر لب پہ تھا یہ نوحہ رخصت کی یہ گھڑی ہے
+زندان سے وطن جب قیدی ہوئے روانہ
+
+۶
+اب بھی محب مسلسل بیمار رو رہا ہے
+آل نبی کے گھر میں فرش عزا بچھا ہے
+یہ بین کر رہا ہے سادات کا گھرانہ

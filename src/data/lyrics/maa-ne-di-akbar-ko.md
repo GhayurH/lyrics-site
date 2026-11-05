@@ -1,0 +1,56 @@
+---
+title: "ماں نے دی اکبر کو صدا"
+alternateTitle: "Maa Ne Di Akbar Ko"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: ["noImage", "noPanjabi"]
+aliases: []
+published: false
+romanLyrics: |-
+  Maa ne di akbar ko sada
+  Ay meri jaan ay meri jaan
+  
+  1
+  Noore nazar roohe rawan
+  
+  2
+  Dil tha mera sehra tera
+  Dekhungi mai in aankhon se
+  Mehndi teri sehra kahan
+  
+  3
+  Chehra tera nana jaisa
+  Teri sada nana jaisi
+  Kaise sunoon waisi azan
+  
+  4
+  Akbar tera akbar noha
+  Likhta raha rota raha
+  Hilte rahe arz o saman
+# source_id: nohayonline:d0ce864166893803af7c
+# source_url: https://www.nohayonline.com/details_content.php?id=712
+# raw_sha256: a5fa6edcaf455673e1982e143dbdce2286793747072af5c91e9e5d15de9b3bb6
+---
+
+ماں نے دی اکبر کو صدا
+اے میری جاں اے میری جاں
+
+۱
+نورِ نظر روحِ رواں
+
+۲
+دل تھا میرا سہرا تیرا
+دیکھوں گی میں ان آنکھوں سے
+مہندی تیری سہرا کہاں
+
+۳
+چہرا تیرا نانا جیسا
+تیری صدا نانا جیسی
+کیسے سُنوں ویسی اذاں
+
+۴
+اکبر تیرا اکبر نوحہ
+لکھتا رہا روتا رہا
+ہلتے رہے ارض و سماں

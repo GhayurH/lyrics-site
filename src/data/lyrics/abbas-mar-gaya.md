@@ -1,0 +1,158 @@
+---
+title: "خیمے میں آے مقتل غازی سے جب حسین"
+alternateTitle: "Abbas Mar Gaya"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: ["noImage", "noPanjabi"]
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Qaime mein aaye maqtal e ghazi se jab hussain
+  Khaali alam uthaye thay aur thay zaban pe bayn
+  Zainab ne jab ye poocha wo hyder ka noor e ain
+  Aaya na ghar ko laut ke kyun mere dil ka chain
+  
+  2
+  Rote hue hussain ne zainab se ye kaha
+  Abbas mar gaya
+  Hamsheer ab badhado alam apne bhai ka
+  Abbas mar gaya
+  
+  3
+  Saansein ukhar rahi thi jawan mere bhai ki
+  Bedast tha jari
+  Meri nazar ke saamne jaan se guzar gaya
+  Abbas mar gaya
+  
+  4
+  Rote hue hussain ne…
+  Behta tha khoon aankh mein paywast teer tha
+  Manzar tha dard ka
+  Zainab hamare bhai pe itni hui jafa
+  
+  5
+  Abbas mar gaya
+  Rote hue hussain ne…
+  Har khatra aab ka usay pyara tha jaan se
+  Maqtal mein is liye
+  
+  6
+  Lagte hi teer mashk pe pani juhin baha
+  Abbas mar gaya
+  Rote hue hussain ne…
+  Boli sakina bachon ke honton pe pyas hai
+  
+  7
+  Mujhse hi aas hai
+  Mai unko kis tarha se bataun mera chacha
+  Abbas mar gaya
+  Rote hue hussain ne…
+  
+  8
+  Akbar kahan ho baap ko aa kar sambhaal lo
+  Mushkil mein saath do
+  Sarwar ka ab koi bhi sahara nahi raha
+  Abbas mar gaya
+  
+  9
+  Rote hue hussain ne…
+  Ab baade asr kaun hai qaimon ka paasban
+  Mehshar ka hai samaa
+  Ghabrayi binte fatema jab shor ye utha
+  
+  10
+  Abbas mar gaya
+  Rote hue hussain ne…
+  Sarwar ki baat kaise bhala taal'ta jari
+  Khaahish thi shaah ki
+  
+  11
+  Par bhai kehke hogaya khamosh bawafa
+  Abbas mar gaya
+  Rote hue hussain ne…
+  Izhaar ho ke ghamzada farmate thay hussain
+  
+  12
+  Loota gaya hai chain
+  Ab andhiyon ki zad pe hai zainab teri rida
+  Abbas mar gaya
+  Rote hue hussain ne…
+# source_id: nohayonline:83ee52003c984e1d27c6
+# source_url: https://www.nohayonline.com/details_content.php?id=1127
+# raw_sha256: f7e85795f2f2d9d5b031921bb8d6a32df6c8e70ad7e403ad8289777f409184e1
+---
+
+۱
+خیمے میں آے مقتل غازی سے جب حسین
+خالی الم اٹھاے تھے اور تھے زباں پہ بین
+زینب نے جب یہ پوچھا وہ حیدر کا نور عین
+آیا نہ گھر کو لوٹ کے کیوں میرے دل کا چین
+
+۲
+روتے ہوئے حسین نے زینب سے یہ کہا
+عباس مرگیا
+ہمشیر اب بڑھا دو علم اپنے بھائی کا
+عباس مرگیا
+
+۳
+سانسیں اکھڑ رہی تھیں جواں میرے بھائی کی
+بے دست تھا جری
+میری نظر کے سامنے جاں سے گزر گیا
+عباس مرگیا
+
+۴
+روتے ہوئے حسین نے۔۔۔
+بہتا تھا خون آنکھ میں پیوست تیر تھا
+منظر تھا درد کا
+زینب ہمارے بھائی پہ اتنی ہوئی جفا
+
+۵
+عباس مرگیا
+روتے ہوئے حسین نے۔۔۔
+ہر قطرہ آب کا اُسے پیارا تھا جان سے
+مقتل میں اس لئے
+
+۶
+لگتے ہی تیر مشک پہ پانی جونہی بہا
+عباس مرگیا
+روتے ہوئے حسین نے۔۔۔
+بولی سکینہ بچوں کے ہونٹوں پہ پیاس ہے
+
+۷
+مجھ سے ہی آس ہے
+میں ان کو کس طرح سے بتاؤں میرا چچا
+عباس مرگیا
+روتے ہوئے حسین نے۔۔۔
+
+۸
+اکبر کہاں ہو باپ کو آکر سنبھال لو
+مشکل میں ساتھ دو
+سرور کا اب کوئی بھی سہارا نہیں رہا
+عباس مرگیا
+
+۹
+روتے ہوئے حسین نے۔۔۔
+اب بعدِ عصر کون ہے خیموں کا پاسباں
+محشر کا ہے سماں
+گھبرائی بنتِ فاطمہ جب شور یہ اٹھا
+
+۱۰
+عباس مرگیا
+روتے ہوئے حسین نے۔۔۔
+سرور کی بات کیسے بھلا ٹالتا جری
+خواہش تھی شاہ کی
+
+۱۱
+پر بھائی کہہ کے ہو گیا خاموش باوفا
+عباس مرگیا
+روتے ہوئے حسین نے۔۔۔
+اظہارؔ ہو کے غمزدہ فرماتے تھے حُسین
+
+۱۲
+لُوٹا گیا ہے چَین
+اب آندھیوں کی زَد پہ ہے زینب تیری ردا
+عباس مرگیا
+روتے ہوئے حسین نے۔۔۔
