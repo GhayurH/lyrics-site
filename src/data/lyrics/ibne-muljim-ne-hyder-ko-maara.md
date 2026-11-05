@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehan"
+poet: "Rehan Azmi"
 reciter: "Mesum Abbas"
 # peshwayi: Mirza Salamat Ali Dabeer
 tags: []

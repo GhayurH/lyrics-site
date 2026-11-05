@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Zeeshan"
+poet: "Zeeshan Abidi"
 tags: []
 aliases:
   - "Mushkil Ko Meri Hal Karo Mushkil Kusha Ali"

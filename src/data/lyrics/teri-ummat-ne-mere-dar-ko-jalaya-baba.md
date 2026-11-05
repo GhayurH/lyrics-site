@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Mohsin"
+poet: "Muhsin Jaffri"
 tags: []
 aliases:
   - "Teri Ummat Ne Mere Dar Ko Jalaya Baba"

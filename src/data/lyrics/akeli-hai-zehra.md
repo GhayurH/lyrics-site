@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Akhtar"
+poet: "Allama Syed Akhtar Abbas Zaidi Al Arabi"
 tags: []
 aliases:
   - "Kahan Jaaye Aakhir Bayaban Har Soo"

@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Mehshar"
+poet: "Mehshar Lakhnavi"
 tags: []
 aliases:
   - "Haye Haye Ali Akbar"

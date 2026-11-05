@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Waiz"
+poet: "Syed Waiz Rizvi"
 tags: []
 aliases:
   - "Jab Ghir Gae Kufe Mein"

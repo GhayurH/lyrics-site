@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Mir Hasan Mir"
 tags: []
 aliases:
   - "Aap Par Darood Aur Salam Aye Mere Imam"
