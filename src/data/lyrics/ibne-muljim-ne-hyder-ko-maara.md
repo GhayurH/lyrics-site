@@ -5,6 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Rehan"
+reciter: "Mesum Abbas"
+# peshwayi: Mirza Salamat Ali Dabeer
 tags: []
 aliases:
   - "Ibne Muljim Ne Hyder Ko Maara"
@@ -12,6 +15,11 @@ cover: "/images/lyrics/ibne-muljim-ne-hyder-ko-maara.png"
 coverAlt: "Cover image for Ibne Muljim Ne Hyder Ko Maara"
 published: true
 romanLyrics: |-
+  Ae Rozadaro Aah o Buka Ke Ye Roz Hain
+  Sadaat Par Nuzul-e-Bala Ke Ye Roz Hain
+  Sartaj-e-Ausiya Ki Aza Ke Ye Roz Hain
+  Tum Se Wida-e-Sher-e-Khuda Ke Ye Roz Hain
+
   Ibne Muljim Ne Hyder Ko Maara, Rozadaron Qayamat Ke Din Haiṅ
   Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Haiṅ
   
@@ -67,6 +75,11 @@ romanLyrics: |-
   Sina-Kobi Ko Rehan o Mesum, Kiuṅ Na Farsh-e-Aza Pe Chaleiṅ Hum
   Ghamzada Chaar Su Hai Nazara, Rozadaron Qayamat Ke Din Haiṅ
 ---
+
+اے روزہ دارو آہ و بکا کے یہ روز ہیں
+سادات پر نزولِ بلا کے یہ روز ہیں
+سرتاجِ اوصیا کی عزا کے یہ روز ہیں
+تم سے وداعِ شیرِ خدا کے یہ روز ہیں
 
 ابنِ ملجم نے حیدر کو مارا، روزہ دارو قیامت کے دن ہیں
 ہم سے بچھڑا ہے مولا ہمارا، روزہ دارو قیامت کے دن ہیں
