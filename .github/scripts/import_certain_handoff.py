@@ -28,11 +28,22 @@ def checksum(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
-def slug_for(import_file: str) -> str:
+def slug_for(import_file: str, content: str) -> str:
     if not import_file.endswith(".md"):
         raise ValueError(f"Invalid import filename: {import_file}")
     stem = import_file[:-3]
     stem = SOURCE_SUFFIX.sub("", stem)
+    if re.search(r"(?:^|-)page-[0-9]+(?:-|$)", stem):
+        raise ValueError("Potential partial-page edition needs lyric review")
+    if re.fullmatch(r"(?:[0-9]{1,4}|p[0-9]{3}|kalam|noha|lyrics)", stem):
+        header = FRONTMATTER.match(content)
+        if not header:
+            raise ValueError("Missing original title for generic filename")
+        meta = yaml.safe_load(header.group(1))
+        candidate = meta.get("alternateTitle") or meta.get("title") or ""
+        if re.search(r"[\u0600-\u06ff]", candidate) or not re.search(r"[a-zA-Z]{3,}", candidate):
+            raise ValueError("Generic filename has no sourced Roman title")
+        stem = candidate.lower()
     stem = re.sub(r"[^a-z0-9-]+", "-", stem.lower()).strip("-")
     if len(stem) > 160:
         stem = stem[:160].rsplit("-", 1)[0]
@@ -123,7 +134,7 @@ def main() -> None:
     reserved = set()
     for item in items:
         try:
-            slug = slug_for(item["import_file"])
+            slug = slug_for(item["import_file"], item["content"])
             target = DEST / (slug + ".md")
             if target.exists() or slug in reserved:
                 skipped.append({
