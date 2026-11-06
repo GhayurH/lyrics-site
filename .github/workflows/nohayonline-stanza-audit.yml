@@ -27,7 +27,10 @@ jobs:
       - name: Validate content and build site
         run: |
           npm run check
-          npm run build
+          npm test
+          npx astro build
+          npx pagefind
+          node scripts/generate-offline-search-manifest.mjs
       - name: Save cases needing individual review
         if: always()
         uses: actions/upload-artifact@v7
