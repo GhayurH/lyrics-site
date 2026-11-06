@@ -12,147 +12,151 @@ published: false
 romanLyrics: |-
   Sada dete thay ye sarwar
   Behan zainab khuda hafiz
-  
-  1
   Karo ruqsat hamay aa kar
-  
-  2
+
+  1
   Nahi muhlat ke sunlo
   Chand baatein is ghadi meri
   Bapa hoga phir ek mehshar
-  
-  3
+
+  2
   Behan meri nigahon may
   Andhera hi andhera hai
   Na laute jab se ghar akbar
-  
-  4
+
+  3
   Behan bas aakhri khidmat ko
   Maidan may chali aana
   Bulaun jab sada de kar
-  
-  5
+
+  4
   Behan zer e falak jab
   Aakhri sajda karenge hum
   Jabeeen hogi lahoo may tar
-  Behen zainab khuda hafiz...
+
+  5
   Behan jab fatema ke
   Laal par khanjar rawan hoga
   Lahoo hoga har ek manzar
-  Behen zainab khuda hafiz...
+
+  6
   Pareshan tum na hona
   Jab zameen larze falak kaampe
   Chalega us ghadi khanjar
-  Behen zainab khuda hafiz...
+
+  7
   Ujala doob jayega
   Siyaah aandhi uthegi jab
   Wo hoga hashr ka manzar
-  Behen zainab khuda hafiz...
+
+  8
   Behan shaam e ghariban
   Ek naya mehshar bapa hoga
   Chinegi sar se jab chadar
-  Behen zainab khuda hafiz...
+
+  9
   Behan us dam khayaale
   Abid e bemaar laazim hai
   Jalega jab nabi ka ghar
-  Behen zainab khuda hafiz...
+
+  10
   Behan bali sakina
   Jab hamay zid karke royegi
   Sulaana us ko seenw par
-  Behen zainab khuda hafiz...
+
+  11
   Behan jab sar barehna
   Shaam ki basti se guzrogi
   Rahenge hum bhi naize par
-  Behen zainab khuda hafiz...
+
+  12
   Behan tum ko mere
   Haq ki qasam khamosh ho jaana
   Rasan baandhe jo baazu par
-  Behen zainab khuda hafiz...
+
+  13
   Behan kuch manzilein hongi
   Jahan bemaar abid ko
   Sahara dena tum bad kar
-  Behen zainab khuda hafiz...
+
+  14
   Fareed aati rahi jab tak
   Nazar zainab dar e qaima
   Ye shah kehte thay mud mud kar
-  Behen zainab khuda hafiz...
 # source_id: nohayonline:c999d0d672a0e7ce41c5
 # source_url: https://www.nohayonline.com/details_content.php?id=1897
 # raw_sha256: 4235ff01e912e539a0c8e8cc7843ede5ba2b77a93d23fb2c26d512dac0b8b7ed
 ---
-
 صدا دیتے تھے یہ سرور
 بہن زینب خدا حافظ
-
-۱
 کرو رخصت ہمیں آکر
 
-۲
+۱
 نہیں مہلت کے سن لو
 چند باتیں اس گھڑی میری
 بپا ہوگا پھر اس محشر
 
-۳
+۲
 بہن میری نگاہوں میں
 اندھیرا ہی اندھیرا ہے
 نہ لوٹے جب سے گھر اکبر
 
-۴
+۳
 بہن بس آخری خدمت کو
 میداں میں چلی آنا
 بلاؤں جب صدا دے کر
 
-۵
+۴
 بہن زیرِ فلک جب
 آخری سجدہ کریں گے ہم
 جبیں ہوگی لہو میں تر
 
-۶
+۵
 بہن جب فاطمہ کے
 لال پر خنجر رواں ہوگا
 لہو ہوگا ہر ایک منظر
 
-۷
+۶
 پریشاں تم نہ ہونا
 جب زمیں لرزے فلک کانپے
 چلے گا اس گھڑی خنجر
 
-۸
+۷
 اجالا ڈوب جاے گا
 سیاہ آندھی اٹھے گی جب
 وہ ہوگا حشر کا منظر
 
-۹
+۸
 بہن شام غریباں
 اک نیا محشر بپا ہوگا
 چھنے گی سر سے جب چادر
 
-۱۰
+۹
 بہن اس دم خیالِ
 عابد بیمار لازم ہے
 جلے گا جب نبی کا گھر
 
-۱۱
+۱۰
 بہن بالی سکینہ
 جب ہمیں ضد کرکے روے گی
 سلانا اس کو سینے پر
 
-۱۲
+۱۱
 بہن جب سر برہنہ
 شام کی بستی سے گزروں گی
 رہیں گے ہم بھی نیزے پر
 
-۱۳
+۱۲
 بہن تم کو میرے
 حق کی قسم خاموش ہو جانا
 رسن باندھے جو بازو پر
 
-۱۴
+۱۳
 بہن کچھ منزلیں ہونگی
 جہاں بیمار عابد کو
 سہارا دینا تم بڑھ کر
 
-۱۵
+۱۴
 فرید آتی رہی جب تک
 نظر زینب در خیمہ
 یہ شہ کہتے تھے مڑ مڑ کر

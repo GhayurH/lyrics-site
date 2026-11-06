@@ -9,99 +9,62 @@ poet: "Gohar Jarchvi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ran ko jaate huwe sar jhukaye hue
+romanLyrics: |-
+  Ran ko jaate huwe sar jhukaye hue
 
+  1
   Sheh ne ro kar kaha alwida alwida
-
   Aaya waqt e safar ay behan aaj hum
-
   Ho rahe hai juda alwida alwida
 
-  Ran ko jaate hue...
-
+  2
   Shah bad kar behan ke galay lag gaye
-
   Aur dukhiya behan se ye kehne lage
-
   Roke kehne lage
-
   Meri mazloom pyasi musafir behan
-
   Tera haafiz khuda alwida alwida
 
-  Ran ko jaate hue...
-
+  3
   Jis se darti thi tum wo ghadi aagayi
-
   Dekho charon taraf teeragi cha gayi
-
   Teeragi cha gayi
-
   Dashte pur haul mein sham hone ko hai
-
   Lo musafir chala alwida alwida
 
-  Ran ko jaate hue...
-
+  4
   Le ke bali sakina ko aaghosh mein
-
   Nanhe nanhe se haaton ke bosay liye
-
   Haye bosay liye
-
   Shah ne hasrat se beti ko takte huwe
-
   Aah bhar kar kaha alwida alwida
 
-  Ran ko jaate hue...
-
+  5
   Bola bemaar bete se aaqa mera
-
   Ab na aayega ay beta baba tera
-
   Beta baba tera
-
   Maut ki aahatein tez hone ko hai
-
   Aa rahi hai sada alwida alwida
 
-  Ran ko jaate hue...
-
+  6
   Aaya qaime se baahar jo maula mera
-
   Bhai beta bhatija koi bhi na tha
-
   Haye koi bhi na tha
-
   Ek hasrat se charon taraf dekh kar
-
   Sheh ne khud hi kaha alwida alwida
 
-  Ran ko jaate hue...
-
-  Jab tadap kar kaha mere sher''on utho
-
+  7
+  Jab tadap kar kaha mere sher'on utho
   Aao zainab ke bhai ko ruqsat karo
-
   Haye ruqsat karo
-
   Ek ek laashe be-sar se aayi sada
-
   Ay shahe karbala alwida alwida
 
-  Ran ko jaate hue...
-
+  8
   Aisa matam karo aisa matam karo
-
   Paak bibi kahe marhaba marhaba
-
   Marhaba marhaba
-
   Khoon ugalte huwe ek ek zakhm se
-
   Aaj aaye sada alwida alwida
-
-  Ran ko jaate hue...'
 reciter: Anjuman Shabab-ul-Momineen (Nasir Asghar Party)
 # source_id: nohayonline:47bb231e3869d7800f3b
 # source_url: https://www.nohayonline.com/details_content.php?id=675
@@ -110,7 +73,6 @@ reciter: Anjuman Shabab-ul-Momineen (Nasir Asghar Party)
 # source_url: https://www.ziyaraat.net/api/noha/1216
 # raw_sha256: 05d260d377aeb94904d72e9834f9194ab86a3708e3421d7cd678312341da991b
 ---
-
 رن کو جاتے ہوئے سر جھکائے ہوئے
 
 ۱

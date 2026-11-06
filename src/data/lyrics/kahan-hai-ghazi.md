@@ -15,74 +15,49 @@ romanLyrics: |-
   Pidar ne maanga khuda se tujhko
   To phir kyun mujhko rula raha hai
   Kahan hai ghazi madad ko aaja
-  
+
   1
   Hussain tujhko bula raha hai
   Akela maqtal ko ja raha hai
-  
+
   2
-  Husain tujhko bula...
-  
-  3
   Kamar jhuki hai jawan beta
   Bula raha hai mai kaise jaun
   Andhera aankhon mein cha raha hai
-  
-  4
-  Husain tujhko bula...
-  
-  5
+
+  3
   Mai suye qaima le jaun kaise
   Jawan ka laasha ay mere bhai
   Zaeef to ladkhada raha hai
-  
-  6
-  Husain tujhko bula...
-  
-  7
+
+  4
   Duhaai deti hai ban mein zehra
   Sukoon dil ka qaraar mera
   Wo qabr e asghar bana raha hai
-  
-  8
-  Husain tujhko bula...
-  
-  9
+
+  5
   Na dekho amma idhar na dekho
   Nazar jhukao moo apna phayro
   Lo shimr khanjar chala raha hai
-  
-  10
-  Husain tujhko bula...
-  
-  11
+
+  6
   Tadap ke boli ye ban mein zehra
   Koi nahi hai kise bulaun
   Qayam dushman jala raha hai
-  
-  12
-  Husain tujhko bula...
-  
-  13
+
+  7
   Ye bain karti ali ki beti
   Sakina kaise sahegi bhaiya
   Layeen tamache laga raha hai
-  
-  14
-  Husain tujhko bula...
-  
-  15
+
+  8
   Ye bain ahle haram ka sun ke
   Najaf ka qalb o jigar hai bekal
   Tadap ye nauha utha raha hai
-  
-  16
-  Husain tujhko bula...
 # source_id: nohayonline:5c7dd39055fc850238b2
 # source_url: https://www.nohayonline.com/details_content.php?id=1167
 # raw_sha256: 429df158cdbbff22b9fa5d9f39d0819fd32807e98fbc7c8c725acf0a38b50a95
 ---
-
 کہاں ہے غازی مدد کو آجا
 ہماری نصرت کے واسطے ہی
 پدر نے مانگا خدا سے تجھکو
