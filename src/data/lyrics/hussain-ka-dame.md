@@ -10,37 +10,42 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haye hussain haye ghareeb
   Hussain ka dam e ruqsat ye tha sukhan zainab
   Chala mai ran ko khuda hafiz ay behan zainab
+
+  1
   Hai ab tumhare hawale tamaam ahle haram
   Ye honge baad mere qaidi e mehan zainab
-  Hussain ka dame ruqsat...
+
+  2
   Chalega ab meri gardan pa shimr ka khanjar
   Rahegi laash meri ran mein bekafan zainab
-  Hussain ka dame ruqsat...
+
+  3
   Bahot rulayenge zaalim meri sakina ko
   Galay mein uske bandhi jayegi rasan zainab
-  Hussain ka dame ruqsat...
+
+  4
   Tadap tadap ke guzar jayegi wo zindan mein
   Kafan banega sakina ka pairahan zainab
-  Hussain ka dame ruqsat...
+
+  5
   Lehad mein bhi na sukoon payega mera asghar
   Rahega naize pe sar khaak par badan zainab
-  Hussain ka dame ruqsat...
+
+  6
   Aqeel qaimon mein ek hashr tha bapa us dam
   Kaha jo sheh ne khuda hafiz ay behan zainab
-  Hussain ka dame ruqsat...
 # source_id: nohayonline:5f518e50959e9db3e32d
 # source_url: https://www.nohayonline.com/details_content.php?id=3336
 # raw_sha256: 5c4f17842f61ed2ef313deeb689b8cf673f10962db361fdefbf845e4a5f6541d
 ---
-
-۱
 ہاے حسین ہاے غریب
 حسین کا دم رخصت یہ تھا سخن زینب
 چلا میں رن کو خدا حافظ اے بہن زینب
+
+۱
 ہے اب تمہارے حوالے تمام اہلِ حرم
 یہ ہونگے بعد میرے قیدیء محن زینب
 
