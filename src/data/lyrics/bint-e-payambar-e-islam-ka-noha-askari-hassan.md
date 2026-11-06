@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:71d9af6225315a096140
@@ -13,18 +13,18 @@ published: false
 ---
 
 1
-Bint e Payambar e Islam Ka Noha Askari Hassan.
-Bint-e-Paygamber-e-Islam Ka Noha Baba.
-Zakhm Pehlu Ka Dikhaye Kisay Zahra Baba.
-Dar Jahan Aap Bhi Aaye Tu Ijazat Le Kar.
-Teri Ummat Ne Issi Dar Ko Jalaya Baba.
-Piss Gayi Aap Ki Beti Dar-o-Dewar Ke Beech.
-Aap Ka Wasta Zalim Ne Na Mana Baba.
-Iss Se Barh Kar Bhi Aziyat Hai Koi Maa Ke Liye.
-Main Hoon Zindah Mera Mohsin Gaya Mara Baba.
-Bharay Darbar Mein Quran Ki Tazheek Hoi.
-Meri Har Baat Pe Mujh Ko Kaha Jhota Baba.
-Haq Jo Manga Tu Chaley Aaye Jalanay Mera Ghar.
-Mera Rona Bhi Nahi Inn Ko Gawara Baba.
-Koi Karta Nahi Haider Ko Madine Mein Salam.
-Aap Ke Baad Ali Ho Gaye Tanha Baba.
+Bint e Payambar e Islam Ka Noha Askari Hassan
+Bint-e-Paygamber-e-Islam Ka Noha Baba
+Zakhm Pehlu Ka Dikhaye Kisay Zahra Baba
+Dar Jahan Aap Bhi Aaye Tu Ijazat Le Kar
+Teri Ummat Ne Issi Dar Ko Jalaya Baba
+Piss Gayi Aap Ki Beti Dar-o-Dewar Ke Beech
+Aap Ka Wasta Zalim Ne Na Mana Baba
+Iss Se Barh Kar Bhi Aziyat Hai Koi Maa Ke Liye
+Main Hoon Zindah Mera Mohsin Gaya Mara Baba
+Bharay Darbar Mein Quran Ki Tazheek Hoi
+Meri Har Baat Pe Mujh Ko Kaha Jhota Baba
+Haq Jo Manga Tu Chaley Aaye Jalanay Mera Ghar
+Mera Rona Bhi Nahi Inn Ko Gawara Baba
+Koi Karta Nahi Haider Ko Madine Mein Salam
+Aap Ke Baad Ali Ho Gaye Tanha Baba

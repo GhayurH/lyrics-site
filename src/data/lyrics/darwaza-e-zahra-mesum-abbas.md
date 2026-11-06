@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e79854ab5a12f8406e80
@@ -14,19 +14,19 @@ published: false
 
 1
 Darwaza e Zahra Mesum Abbas Lyrics
-Darwaza e Zahra Se Atta Hoti Rahe Gi.
-Taqseem Farishton Mein Giza Hoti Rahe Gi.
-Bas Chadar-e-Zahra Hi Maseeha Hai Nabi Ki.
-Yeh Orhay Rahein Gay Tu Shifa Hoti Rahe Gi.
-Shabbir Ki Maa Kehne Lagi Wahab Ki Maa Se.
-Aye Bibi Tere Haq Mein Dua Hoti Rahe Gi.
-Aye Zahra Ke Munkir Yeh Namaz Aisi Hai Teri.
-Jo Waqt Pe Parh Kar Bhi Qaza Hoti Rahe Gi.
-Gasib Ko Bura Kehna Khata Hai Tu Yeh Sun Lo.
-Zahra Ki Qasam Phir Yeh Khata Hoti Rahe Gi.
-Aye Sheikh Yeh Dewar-e-Haram Jur Nahi Sakti.
-Yeh Toot Ke Maula Pe Fida Hoti Rahe Gi.
-Hum Yaad Dilaein Gay Ali Un Waliullah.
-Yeh Sunat-e-Zahra Tu Ada Hoti Rahe Gi.
-Zahra Tere Romal Ko Darkar Hain Moti.
-Ashkon Ki Kharedari Sada Hoti Rahe Gi.
+Darwaza e Zahra Se Atta Hoti Rahe Gi
+Taqseem Farishton Mein Giza Hoti Rahe Gi
+Bas Chadar-e-Zahra Hi Maseeha Hai Nabi Ki
+Yeh Orhay Rahein Gay Tu Shifa Hoti Rahe Gi
+Shabbir Ki Maa Kehne Lagi Wahab Ki Maa Se
+Aye Bibi Tere Haq Mein Dua Hoti Rahe Gi
+Aye Zahra Ke Munkir Yeh Namaz Aisi Hai Teri
+Jo Waqt Pe Parh Kar Bhi Qaza Hoti Rahe Gi
+Gasib Ko Bura Kehna Khata Hai Tu Yeh Sun Lo
+Zahra Ki Qasam Phir Yeh Khata Hoti Rahe Gi
+Aye Sheikh Yeh Dewar-e-Haram Jur Nahi Sakti
+Yeh Toot Ke Maula Pe Fida Hoti Rahe Gi
+Hum Yaad Dilaein Gay Ali Un Waliullah
+Yeh Sunat-e-Zahra Tu Ada Hoti Rahe Gi
+Zahra Tere Romal Ko Darkar Hain Moti
+Ashkon Ki Kharedari Sada Hoti Rahe Gi

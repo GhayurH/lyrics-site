@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: 'Talab ki manzil e maqsood karbala tak hai

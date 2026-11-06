@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: 'Imam parda e ghaibat se de rahe hai sada

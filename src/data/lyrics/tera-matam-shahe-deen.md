@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: 'Tera gham zinda hai abhi tak soghwaron mein

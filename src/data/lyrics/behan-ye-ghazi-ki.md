@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: 'Behan yeh Ghazi ki ro ro kai bain kerti hay

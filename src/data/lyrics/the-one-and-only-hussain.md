@@ -4,7 +4,7 @@ language: "English"
 lang: "en"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noImage", "noRoman", "noUrdu", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 # source_id: ziyaraat:aea377cac408fe9e60ca

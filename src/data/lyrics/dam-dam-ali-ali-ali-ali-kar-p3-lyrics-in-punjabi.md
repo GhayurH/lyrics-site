@@ -14,24 +14,24 @@ published: false
 
 1
 Dam Dam Ali Ali Ali Ali Kar-P3 Lyrics
-Nabi Da Karana Aye Karana Maula Ali Da.
-Shanaa Wichon Shan-e-Shahana Maula Ali Da.
-Jera Jera Ho Gaya Dewana Maula Ali Da.
+Nabi Da Karana Aye Karana Maula Ali Da
+Shanaa Wichon Shan-e-Shahana Maula Ali Da
+Jera Jera Ho Gaya Dewana Maula Ali Da
 
 2
-Mil Gaya Onno Parwana Maula Ali Da.
-Maula Ali Di Nisbat De Nal Mil Janda Janat Wich Kar.
-Tariyaan Che Ali Da Maqaam Jiwein Chand Aye.
-Ali Gunahgaraan Nu Bachaan Wali Kand Aye.
+Mil Gaya Onno Parwana Maula Ali Da
+Maula Ali Di Nisbat De Nal Mil Janda Janat Wich Kar
+Tariyaan Che Ali Da Maqaam Jiwein Chand Aye
+Ali Gunahgaraan Nu Bachaan Wali Kand Aye
 
 3
-Ali Te Maidaan Wich Hoya Fateh Mand Aye.
-Ali Di Adda Har Rab Nu Pasand Aye.
-Maula Ali Safdar De Utton War Day Sohnrya Apna Sar.
-Ali Maula Ali Maula Ali Maula Kari Ja.
+Ali Te Maidaan Wich Hoya Fateh Mand Aye
+Ali Di Adda Har Rab Nu Pasand Aye
+Maula Ali Safdar De Utton War Day Sohnrya Apna Sar
+Ali Maula Ali Maula Ali Maula Kari Ja
 
 4
-Ali Diyaan Yadaan Naal Choliyaan Nu Par Ja.
-Khoti Taqdeer Taein Kharda Tu Khari Ja.
-Sariyaan Azabaan Wichoon Bari Honda Bari Ja.
-Unj V Marna:BARI NIZAMI: Kisay De Nawein Lag Ke Mar.
+Ali Diyaan Yadaan Naal Choliyaan Nu Par Ja
+Khoti Taqdeer Taein Kharda Tu Khari Ja
+Sariyaan Azabaan Wichoon Bari Honda Bari Ja
+Unj V Marna:BARI NIZAMI: Kisay De Nawein Lag Ke Mar

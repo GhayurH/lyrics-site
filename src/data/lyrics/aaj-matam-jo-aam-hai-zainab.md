@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0328e662b1e9d07c8eeb
@@ -13,12 +13,12 @@ published: false
 ---
 
 1
-Tere Khutbon Ka Kaam Hai Zainab.
-Sorah-e-Noor Jis Ko Kehte Hain.
-Teri Chadar Ka Naam Hai Zainab.
-Teri Chokhat Pe Sar Jhukane Se.
-Hur Aleh ASlaam Hai Zainab.
-Tere Baba Ka Jiss Mein Naam Na Ho.
-Wo Ibadat Haram Hai Zainab.
-Tujh Se Aagay Chale Tu Kaise Chale.
-Waqt Tera Ghulam Hai Zainab.
+Tere Khutbon Ka Kaam Hai Zainab
+Sorah-e-Noor Jis Ko Kehte Hain
+Teri Chadar Ka Naam Hai Zainab
+Teri Chokhat Pe Sar Jhukane Se
+Hur Aleh ASlaam Hai Zainab
+Tere Baba Ka Jiss Mein Naam Na Ho
+Wo Ibadat Haram Hai Zainab
+Tujh Se Aagay Chale Tu Kaise Chale
+Waqt Tera Ghulam Hai Zainab

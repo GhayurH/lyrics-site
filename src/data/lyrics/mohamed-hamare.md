@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: 'Salle Ala Nabi Ye Naam, Salle Ala Mohammadin -2
@@ -110,8 +110,8 @@ reciter: Ali Shanawar
 اٹھے سر زمین عرب سے یہ نعرے
 
 ۳
-نواسے جو روۓ تو روۓ محمد(ص)۔
-وہ جب تک نہ سوۓ نہ سوۓ محمد(ص)۔
+نواسے جو روۓ تو روۓ محمد(ص)
+وہ جب تک نہ سوۓ نہ سوۓ محمد(ص)
 دو آنکھیں نبی(ص) کی تھی دونوں نواسے
 
 ۴
@@ -131,5 +131,5 @@ reciter: Ali Shanawar
 
 ۷
 ریحان و علی جی عزادار سرور
-غلامان حیدر غلام پیعمبر(ص)۔
+غلامان حیدر غلام پیعمبر(ص)
 صدا اس صدا سے زمانہ ملا لے

@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4b4612b18f1384a0c7b9
@@ -13,19 +13,19 @@ published: false
 ---
 
 1
-Jo Munkir-e-Haider Mein Wafa Dhoond Raha Hai.
-Kantoon Mein Woh Pholon Ki Adda Dhond Raha Hai.
-Jab Se Isse Thukra Diya Haider Ke Pisar Ne.
-Har Taj-o-Takht Apni Baqa Dhond Raha Hai.
+Jo Munkir-e-Haider Mein Wafa Dhoond Raha Hai
+Kantoon Mein Woh Pholon Ki Adda Dhond Raha Hai
+Jab Se Isse Thukra Diya Haider Ke Pisar Ne
+Har Taj-o-Takht Apni Baqa Dhond Raha Hai
 
 2
-Hai Apni Hi Madar Ki Khataon Ka Natija.
-Jo Bhi Mere Haider Mein Khata Dhond Raha Hai.
-Kuch Hath Na Aye Ga Sada Dhondte Rahe.
-Janat Ko Jo Haider Ke Bina Dhond Raha Hai.
+Hai Apni Hi Madar Ki Khataon Ka Natija
+Jo Bhi Mere Haider Mein Khata Dhond Raha Hai
+Kuch Hath Na Aye Ga Sada Dhondte Rahe
+Janat Ko Jo Haider Ke Bina Dhond Raha Hai
 
 3
 Kyun Aa Giya Hai Paar Tu Khandaq Ke Ibn-e-Wood?
-Kyun Apne Hi Hathon Se Qaza Dhond Rhaa Hai.
-Kis Ne Ali Ke Naam Tashahud Mein Parha Hai.
-Har Aik Ke Sajdoon Mein Khuda Dhond Raha Hai.
+Kyun Apne Hi Hathon Se Qaza Dhond Rhaa Hai
+Kis Ne Ali Ke Naam Tashahud Mein Parha Hai
+Har Aik Ke Sajdoon Mein Khuda Dhond Raha Hai

@@ -4,7 +4,7 @@ language: "English"
 lang: "en"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noImage", "noRoman", "noUrdu", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 # source_id: ziyaraat:fa5d32be32b53f50e7ad
@@ -23,7 +23,7 @@ Karbala...
 1) The-land-where-blessings pour down from the sky
 The-land-honored-with-AbabDallah's sacrifice
 I want to kiss every grain of that sand,
-In the sacred land of Karbala.
+In the sacred land of Karbala
 Karbala...
 
 2
@@ -43,7 +43,7 @@ Your-name-with-every-breath-Yaa Hussaina
 4) All I dream about is grabbing your holy grill,
 Crying for you and for all those in-Karbala killed,
 -I- wish I was there, to give my -life- for your stand,
-But now I am here calling Labbayk on your Hal Min stance.
+But now I am here calling Labbayk on your Hal Min stance
 
 5
 5) Abbas-Ali-Akbar, Asghar, Qasim and Ya Hussain,

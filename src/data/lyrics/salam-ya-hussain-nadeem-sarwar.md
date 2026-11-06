@@ -4,7 +4,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Salam
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 alternateTitle: Salam Ya Hussain Nadeem Sarwar

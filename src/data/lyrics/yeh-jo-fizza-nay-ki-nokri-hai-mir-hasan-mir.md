@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3b6ece56c47e8c20135c
@@ -13,18 +13,18 @@ published: false
 ---
 
 1
-Yeh Jo Fizza Nay Ki Nokri Hai Mir Hasan Mir.
-Yeh Jo Fizza Nay Ki Nokri Hai Shahanshahi Se Bhi Qeemati Hai.
-Habsh Ko Choor Kar Oss Se Munh Moor Kar Syeda Ki Yeh Jo Fizza Ne Ki Nokari Hai.
-Dehar Mein Dekh Lo Har Jagah Par Bohat Mashoor Inn Ki Wafa Hai.
-Ik Hain Abbas Our Ik Hai Fizza Farq Inn Mein Bhala Koan Sa Hai.
-Mujh Se Pocho Tu Farq Wafa Ka Ik Hai Chand Our Ik Chandani Hai.
-Ashk Beh Beh Ke Hain Yeh Batatay Yeh Muqam-e-Aqeedat Hai Kaisa.
-Koi Dunya Mein Mujh Ko Bataye Martaba Hai Mila Kis Ko Aisa.
-Oss Ko Kis Naam Se Main Pukaron Jis Ke Daman Mein Zainab Khari Hai.
-Ja Rahe Ho Magar Dehan Rakhna Be-Ijazat Lahad Mein Na Jana.
-Roab Oss Par Na Hargiz Jamana Baat Karte Howay Sar Jhukana.
-Dar Haqeeqat Woh Mere Nabi Ko Fatima Ki Tarha Ladli Hai.
-Hum Ne Dekha Wahan Hum Se Pehle Anbiya Sar Jhukaye Howay Hain.
-Sakht Parda Hai Lautay Hain Foran Oss Ke Mehman Aaye Howay Hain.
-Le Ke Beton Ko Fizza Se Milne Lahad Mein Fatima Aa Gayi Hai.
+Yeh Jo Fizza Nay Ki Nokri Hai Mir Hasan Mir
+Yeh Jo Fizza Nay Ki Nokri Hai Shahanshahi Se Bhi Qeemati Hai
+Habsh Ko Choor Kar Oss Se Munh Moor Kar Syeda Ki Yeh Jo Fizza Ne Ki Nokari Hai
+Dehar Mein Dekh Lo Har Jagah Par Bohat Mashoor Inn Ki Wafa Hai
+Ik Hain Abbas Our Ik Hai Fizza Farq Inn Mein Bhala Koan Sa Hai
+Mujh Se Pocho Tu Farq Wafa Ka Ik Hai Chand Our Ik Chandani Hai
+Ashk Beh Beh Ke Hain Yeh Batatay Yeh Muqam-e-Aqeedat Hai Kaisa
+Koi Dunya Mein Mujh Ko Bataye Martaba Hai Mila Kis Ko Aisa
+Oss Ko Kis Naam Se Main Pukaron Jis Ke Daman Mein Zainab Khari Hai
+Ja Rahe Ho Magar Dehan Rakhna Be-Ijazat Lahad Mein Na Jana
+Roab Oss Par Na Hargiz Jamana Baat Karte Howay Sar Jhukana
+Dar Haqeeqat Woh Mere Nabi Ko Fatima Ki Tarha Ladli Hai
+Hum Ne Dekha Wahan Hum Se Pehle Anbiya Sar Jhukaye Howay Hain
+Sakht Parda Hai Lautay Hain Foran Oss Ke Mehman Aaye Howay Hain
+Le Ke Beton Ko Fizza Se Milne Lahad Mein Fatima Aa Gayi Hai

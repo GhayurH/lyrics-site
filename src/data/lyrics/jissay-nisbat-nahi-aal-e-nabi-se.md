@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed33bb373be4534fa0f8
@@ -14,24 +14,24 @@ published: false
 
 1
 Jissay Nisbat Nahi Aal e Nabi Se Lyrics
-Ossay Kiya Kam Ilm-o-Aa Gahi Se.
-Khuda Dushman Ko Bhi Mehfooz Rakhay.
-Wabal-o-Zillat e Bugz-e-Ali Se.
+Ossay Kiya Kam Ilm-o-Aa Gahi Se
+Khuda Dushman Ko Bhi Mehfooz Rakhay
+Wabal-o-Zillat e Bugz-e-Ali Se
 
 2
-Abu Sufyan Ke Ghar Mein Andhera.
-Abu Talib Ke Ghar Ki Roshni Se.
-Miley Gi Sehat-o-Huriyyat e Fikar.
-Ali Ibn-e-Hussain Ibn-e-Ali Se.
+Abu Sufyan Ke Ghar Mein Andhera
+Abu Talib Ke Ghar Ki Roshni Se
+Miley Gi Sehat-o-Huriyyat e Fikar
+Ali Ibn-e-Hussain Ibn-e-Ali Se
 
 3
-Yeh Hain Aal-e-Nabi Ke Nooh e Sani.
-Chali Nasal-e-Payamber Phir Inhi Se.
-Bazahir Lagar-o-Beemar Qaidi.
-Haqeeqat Mein Qavi Tar Khusarvi Se.
+Yeh Hain Aal-e-Nabi Ke Nooh e Sani
+Chali Nasal-e-Payamber Phir Inhi Se
+Bazahir Lagar-o-Beemar Qaidi
+Haqeeqat Mein Qavi Tar Khusarvi Se
 
 4
-Jhukaye Ga Inhein Kya Tauq-e-Kharaan.
-Bulandi Jhuk Ke Milti Hai Ali Se.
-Hain Teenat Mein Darindon Se Badtar.
-Bazahir Hain Yazeedi Aadmi Se.
+Jhukaye Ga Inhein Kya Tauq-e-Kharaan
+Bulandi Jhuk Ke Milti Hai Ali Se
+Hain Teenat Mein Darindon Se Badtar
+Bazahir Hain Yazeedi Aadmi Se

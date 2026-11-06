@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0f1fa1416ebcf95ba814
@@ -13,8 +13,8 @@ published: false
 ---
 
 1
-Aandhi Kabhi Barish Kabhi Tofaan Ka Alam.
-Har Door Mein Mousam Ke Tagaiyar Se Lari Hai.
-Chodah So Bars Beet Gay Ishq-e-Ali Mein.
-Toti Hoi Dewar Bhi Pairon Pe Khari Hai.
-13 Rajab Jashan-e-Molod-e-Kaba Ali Ibn-e-Abi Talib Mubarak.
+Aandhi Kabhi Barish Kabhi Tofaan Ka Alam
+Har Door Mein Mousam Ke Tagaiyar Se Lari Hai
+Chodah So Bars Beet Gay Ishq-e-Ali Mein
+Toti Hoi Dewar Bhi Pairon Pe Khari Hai
+13 Rajab Jashan-e-Molod-e-Kaba Ali Ibn-e-Abi Talib Mubarak

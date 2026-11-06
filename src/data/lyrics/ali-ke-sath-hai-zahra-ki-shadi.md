@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8dd5cd1e501ade1677c9
@@ -14,5 +14,5 @@ published: false
 
 1
 Ali Kay Sath Hai Zehra Ki Shadi Mir Hasan Mir
-Murtaza Ko Khana Zaad-e-Rab-e-Akbar Dekh Kar.
-Biyah Di Beti Payamber Ne Bara Ghar Dekh Kar.
+Murtaza Ko Khana Zaad-e-Rab-e-Akbar Dekh Kar
+Biyah Di Beti Payamber Ne Bara Ghar Dekh Kar

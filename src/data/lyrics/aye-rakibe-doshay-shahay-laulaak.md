@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:51dbe63a3ee863e8c963
@@ -13,11 +13,11 @@ published: false
 ---
 
 Aye rakibe doshay shahay laulaak
-Ba izzo vikhaar wa Hussaina.
+Ba izzo vikhaar wa Hussaina
 
 1
 Seen pa tumhhare ya shahay paak
-Qaatil ho sawaar wa Hussaina.
+Qaatil ho sawaar wa Hussaina
 
 2
 Sar aapka aur sinaane khooli

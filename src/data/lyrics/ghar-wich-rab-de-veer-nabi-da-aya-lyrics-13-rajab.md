@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Qasida"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9b2eaa785e6402f7d71f
@@ -13,22 +13,22 @@ published: false
 ---
 
 Ghar Wich Rab De Veer Nabi Da Aya
-Haq Nu Chupaein Naa Ainu Chad Jaein Naa Rab Ne Shan Ali Da Aap Wadhaya.
+Haq Nu Chupaein Naa Ainu Chad Jaein Naa Rab Ne Shan Ali Da Aap Wadhaya
 
 1
-Puch Maa Ali Di Kiwein Kabay Wich Aayi Aye.
-Khol Ke Dewar Rab Aap Bulayi Aye.
-Kabay De Nishanaa Nu Ali Diyaan Shana Nu Jinna Taun Chupa Le Rab Ne Aap Wikhaya.
-Kabay Diyaan Kandaan Kita Ali Da Tawaf Aye.
+Puch Maa Ali Di Kiwein Kabay Wich Aayi Aye
+Khol Ke Dewar Rab Aap Bulayi Aye
+Kabay De Nishanaa Nu Ali Diyaan Shana Nu Jinna Taun Chupa Le Rab Ne Aap Wikhaya
+Kabay Diyaan Kandaan Kita Ali Da Tawaf Aye
 
 2
-Tere V Gunah Mulla Othay Hone Moaf Aye.
-Rab Da Aye Wadah Aye Odha Aye Iradah Aye Kaba Aj Taun Naam Ali De Laya.
-Samne Ali De Koi Bhul Ke V Aaway Naa.
-Ghar Oh Jahanum Che Apna Banaway Naa.
+Tere V Gunah Mulla Othay Hone Moaf Aye
+Rab Da Aye Wadah Aye Odha Aye Iradah Aye Kaba Aj Taun Naam Ali De Laya
+Samne Ali De Koi Bhul Ke V Aaway Naa
+Ghar Oh Jahanum Che Apna Banaway Naa
 
 3
-Koi Le Ke Aaya Nayi Kisay Ne Banaya Nayi Rab Ne Baad Rasool Imam Banaya.
-Qasida Khuwan Party Ch Faiyaz Party Sialkot.
+Koi Le Ke Aaya Nayi Kisay Ne Banaya Nayi Rab Ne Baad Rasool Imam Banaya
+Qasida Khuwan Party Ch Faiyaz Party Sialkot
 Matami Sangat
 Anjuman-e-Sipah-e-Ahl-e-Bait Sialkot

@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:831efe6d4ebd33369f72
@@ -13,31 +13,31 @@ published: false
 ---
 
 1
-Kehte Ho Haider e Karrar Ki Batein Na Karo.
-Sheikh Jee Hum Se Yeh Bekar Ki Batein Na Karo.
-Yeh Koi Baat Hoi Kabay Ke Ghun Gaye Ja.
-Our Tooti Hoi Dewar Ki Batein Na Karo.
+Kehte Ho Haider e Karrar Ki Batein Na Karo
+Sheikh Jee Hum Se Yeh Bekar Ki Batein Na Karo
+Yeh Koi Baat Hoi Kabay Ke Ghun Gaye Ja
+Our Tooti Hoi Dewar Ki Batein Na Karo
 
 2
-Hajiyo Hajj Bhi Karo Barb-o-Bala Bhi Jao.
-Warna ALLAH Ke Dedar Ki Batein Na Karo.
-Jo Nahi Karte Adab Ghar Mein Bhare Bhai Ka.
-Unn Se Keh Do Keh Alamdar Ki Batein Na Karo.
+Hajiyo Hajj Bhi Karo Barb-o-Bala Bhi Jao
+Warna ALLAH Ke Dedar Ki Batein Na Karo
+Jo Nahi Karte Adab Ghar Mein Bhare Bhai Ka
+Unn Se Keh Do Keh Alamdar Ki Batein Na Karo
 
 3
-Yaar Tum Apne Kissi Yaar Ki Batein Na Karo.
-Phool Ki Baat Karo Khaar Ki Batein Na Karo.
-Aye Sana Khuwan-e-Haleema Yeh Tumhein Kis Ne Kaha.
-Walid-e-Haider-e-Karrar Ki Batein Na Karo.
+Yaar Tum Apne Kissi Yaar Ki Batein Na Karo
+Phool Ki Baat Karo Khaar Ki Batein Na Karo
+Aye Sana Khuwan-e-Haleema Yeh Tumhein Kis Ne Kaha
+Walid-e-Haider-e-Karrar Ki Batein Na Karo
 
 4
-Karbala Hai Yahan Hur Ghaiz Mein Aa Jaein Gaye.
-Yahan Bait Ke Talabgar Ki Batein Na Karo.
-Khoon Bahane Do Mujhe Khon Bhi Tum Le Lena.
-Jao Halqay Se Yeh Bekar Ki Batein Na Karo.
+Karbala Hai Yahan Hur Ghaiz Mein Aa Jaein Gaye
+Yahan Bait Ke Talabgar Ki Batein Na Karo
+Khoon Bahane Do Mujhe Khon Bhi Tum Le Lena
+Jao Halqay Se Yeh Bekar Ki Batein Na Karo
 
 5
-:Zakiro,Molvi,Shayaro: Mimber-e-Shabir Bohat Kam Ka Hai.
-Iss Pe Tum Baith Ke Bekar Ki Batein Na Karo.
-:MIR SAJJAD: Nuseri Na Muqassar Keh De.
-Shab-e-Mairaaj Ke Oss Paar Ki Batein Na Karo.
+:Zakiro,Molvi,Shayaro: Mimber-e-Shabir Bohat Kam Ka Hai
+Iss Pe Tum Baith Ke Bekar Ki Batein Na Karo
+:MIR SAJJAD: Nuseri Na Muqassar Keh De
+Shab-e-Mairaaj Ke Oss Paar Ki Batein Na Karo

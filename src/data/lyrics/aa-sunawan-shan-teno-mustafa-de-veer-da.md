@@ -5,7 +5,7 @@ lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Not Available"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:f5f556ae3cec79b95abd

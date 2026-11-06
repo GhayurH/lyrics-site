@@ -4,7 +4,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Dua
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 alternateTitle: Dua E Kumail Nadeem Sarwar

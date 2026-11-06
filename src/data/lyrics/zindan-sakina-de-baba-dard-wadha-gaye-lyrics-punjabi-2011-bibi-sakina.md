@@ -13,19 +13,19 @@ published: false
 ---
 
 1
-Zindan Sakina De Baba Dard Wadha Gaye.
-Kana De Haye Zakhm Mere Rukhsaraan Te Aa Gaye.
-Jinna Akhiyaan De Wich Howanr Veraan Diyaan Lashaan Ne Sowanr Te Kiwein Sowanr.
-Tere Qatil Haye Veer Meri Akhiyaan Che Sama Gaye.
+Zindan Sakina De Baba Dard Wadha Gaye
+Kana De Haye Zakhm Mere Rukhsaraan Te Aa Gaye
+Jinna Akhiyaan De Wich Howanr Veraan Diyaan Lashaan Ne Sowanr Te Kiwein Sowanr
+Tere Qatil Haye Veer Meri Akhiyaan Che Sama Gaye
 
 2
-Bazar De Wich Balaan Mainu Zakhmi Nayi Kita Par Bohat Sataya Aye.
-Hans Hans Ke Haye Haal Mere Te Mainu Rowa Gaye.
-Choon Salaan De Wich Mere Jinnay Lad Toon Wekhay San Jinnay Naaz Uthaye San.
-Qaidaan De Haye Zulm Tere Sab Lad Bhula Gaye.
+Bazar De Wich Balaan Mainu Zakhmi Nayi Kita Par Bohat Sataya Aye
+Hans Hans Ke Haye Haal Mere Te Mainu Rowa Gaye
+Choon Salaan De Wich Mere Jinnay Lad Toon Wekhay San Jinnay Naaz Uthaye San
+Qaidaan De Haye Zulm Tere Sab Lad Bhula Gaye
 
 3
-Teri Katdi Hoi Gardan Ya Teer Te Khanjar Ne Kuj Hoor Nayi Disda.
-Ainj Shami Haye Nazar Meri Te Zarbaan Chala Gaye.
-Kuj Jhirkaan Ray Denday Kuj Marday Ray Mainu Jinna Kuj Na Zulm Kita.
-Oh Aa Ke Haye Zakhm Mere Kana De Dukha Gaye.
+Teri Katdi Hoi Gardan Ya Teer Te Khanjar Ne Kuj Hoor Nayi Disda
+Ainj Shami Haye Nazar Meri Te Zarbaan Chala Gaye
+Kuj Jhirkaan Ray Denday Kuj Marday Ray Mainu Jinna Kuj Na Zulm Kita
+Oh Aa Ke Haye Zakhm Mere Kana De Dukha Gaye

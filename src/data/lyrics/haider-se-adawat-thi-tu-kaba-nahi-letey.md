@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3a321343d055a07f626b
@@ -13,19 +13,19 @@ published: false
 ---
 
 1
-Haider Se Adawat Thi Tu Kaba Nahi Letey.
-Pathar Ke Makeen Hath Mein Sheesha Nahi Letey.
-Hum Loag Hain Marhon e Karam Karb-o-Bala Ke.
-Hum Loag Saudi Se Wazeefa Nahi Letey.
+Haider Se Adawat Thi Tu Kaba Nahi Letey
+Pathar Ke Makeen Hath Mein Sheesha Nahi Letey
+Hum Loag Hain Marhon e Karam Karb-o-Bala Ke
+Hum Loag Saudi Se Wazeefa Nahi Letey
 
 2
-Na Waqif-e-Abbas e Dilawar Se Yeh Pocho.
-Buzdil Tu Tarai Ka Ilaqa Nahi Letey.
-Sadaat Ki Ghurbat Ka Bharam Fiqrah e Zainab.
-Sab Jin Pe Tasadduq Ho Woh Sadqa Nahi Letey.
+Na Waqif-e-Abbas e Dilawar Se Yeh Pocho
+Buzdil Tu Tarai Ka Ilaqa Nahi Letey
+Sadaat Ki Ghurbat Ka Bharam Fiqrah e Zainab
+Sab Jin Pe Tasadduq Ho Woh Sadqa Nahi Letey
 
 3
-Rukhsaron Pe Ahsas Lagata Hai Tamachay.
-Jis Roz Keh Hum Nam-e-Sakina Nahi Letey.
-Ashor Ke Din Rehtey Hain Mohtaat Yahan Tak.
-Aoulad Bhi Mar Jaye Tu Pursa Nahi Letey.
+Rukhsaron Pe Ahsas Lagata Hai Tamachay
+Jis Roz Keh Hum Nam-e-Sakina Nahi Letey
+Ashor Ke Din Rehtey Hain Mohtaat Yahan Tak
+Aoulad Bhi Mar Jaye Tu Pursa Nahi Letey

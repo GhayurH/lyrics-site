@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a5bc6fa717566655a105
@@ -13,7 +13,7 @@ published: false
 ---
 
 1
-Tabdeel Jo Hoi Hai Fizza Ko Mubarkein.
-Paida Howay Hain Mula Ali Kibriya Ke Ghar.
-Sab Mil Ke Dijiye Ga Khuda Ko Mubarkein.
-13 Rajab Jashan-e-Molod-e-Kaba Ali Ibn-e-Abi Talib Mubarak.
+Tabdeel Jo Hoi Hai Fizza Ko Mubarkein
+Paida Howay Hain Mula Ali Kibriya Ke Ghar
+Sab Mil Ke Dijiye Ga Khuda Ko Mubarkein
+13 Rajab Jashan-e-Molod-e-Kaba Ali Ibn-e-Abi Talib Mubarak

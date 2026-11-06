@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:380caddd928aceaddb1b
@@ -13,9 +13,9 @@ published: false
 ---
 
 1
-Suno Bad-e-Zahoor Kya Ho Ga 1-4.
-Haal-e-Gham Sunaein Gaye Jab Imam Aaein Gaye.
-Bam-o-Dar Sajaein Gaye Jab Imam Aaein Gaye.
-Zakhm-e-Dil Dikhaein Gaye Jab Imam Aaein Gaye.
-Mehfilein Jamaein Gaye Jab Imam Aaein Gaye.
-Jashn Hum Manaein Gaye Jab Imam Aaein Gaye.
+Suno Bad-e-Zahoor Kya Ho Ga 1-4
+Haal-e-Gham Sunaein Gaye Jab Imam Aaein Gaye
+Bam-o-Dar Sajaein Gaye Jab Imam Aaein Gaye
+Zakhm-e-Dil Dikhaein Gaye Jab Imam Aaein Gaye
+Mehfilein Jamaein Gaye Jab Imam Aaein Gaye
+Jashn Hum Manaein Gaye Jab Imam Aaein Gaye

@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:df9d40f7d34cc04fbf7d
@@ -13,6 +13,6 @@ published: false
 ---
 
 1
-Phir Laho Ban Ke Wo Naslon Mein Safar Karta Hai.
-Main Tu Parcham Ko Sunata Hoon Mosibat Apni.
-Koan Abbas Ko Na Jane Khabar Karta Hai.
+Phir Laho Ban Ke Wo Naslon Mein Safar Karta Hai
+Main Tu Parcham Ko Sunata Hoon Mosibat Apni
+Koan Abbas Ko Na Jane Khabar Karta Hai

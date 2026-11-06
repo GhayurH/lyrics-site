@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bccbabb8d23157b28b4d
@@ -13,20 +13,20 @@ published: false
 ---
 
 1
-Ab Arahay Hain Hussain Mukhtar Hussain Fatehpuri.
-Khuda Ke Le Ke Khazaney Ab Aa Rahe Hain Hussain.
-Zameen Ko Arsh Bananey Ab Aa Rahe Hain Hussain.
-Jo Aik Fitrus-e-Be Par Khuda Ka Mujrim Tha.
-Ossay Farishta Bananey Ab Aa Rahe Hain Hussain.
-Kahan Ho Rahib Aa Jao Betay Le Jao.
-Tumhara Bakht Sajane Ab Aa Rahe Hain Hussain.
-Nabi Hoon Bar Sar-e-Mimber Keh Bar Sar-e-Mairaj.
-Jhukaye Keh Ke Yeh Shaney Ab Aa Rahe Hain Hussain.
-Iradah Jo Hai Khuda Ka Tere Liye Islam.
-Ossay Hussain Hi Jane Ab Aa Rahe Hain Hussain.
-Yeh Bolay Qabar-e-Azadar Mein Adab Se Malak.
-Utho Tumharey Sirhaney Ab Aa Rahe Hain Hussain.
-Woh Dekho Halat-e-Sajdah Mein Dekho Pusht-e-Nabi.
-Ossay Musalla Bananey Ab Aa Rahe Hain Hussain.
-Hussain Hain Keh Hai Mairaj:MAJID-o-MUKHTAR:.
-Humein Khuda Se Milaney Ab Aa Rahe Hain Hussain.
+Ab Arahay Hain Hussain Mukhtar Hussain Fatehpuri
+Khuda Ke Le Ke Khazaney Ab Aa Rahe Hain Hussain
+Zameen Ko Arsh Bananey Ab Aa Rahe Hain Hussain
+Jo Aik Fitrus-e-Be Par Khuda Ka Mujrim Tha
+Ossay Farishta Bananey Ab Aa Rahe Hain Hussain
+Kahan Ho Rahib Aa Jao Betay Le Jao
+Tumhara Bakht Sajane Ab Aa Rahe Hain Hussain
+Nabi Hoon Bar Sar-e-Mimber Keh Bar Sar-e-Mairaj
+Jhukaye Keh Ke Yeh Shaney Ab Aa Rahe Hain Hussain
+Iradah Jo Hai Khuda Ka Tere Liye Islam
+Ossay Hussain Hi Jane Ab Aa Rahe Hain Hussain
+Yeh Bolay Qabar-e-Azadar Mein Adab Se Malak
+Utho Tumharey Sirhaney Ab Aa Rahe Hain Hussain
+Woh Dekho Halat-e-Sajdah Mein Dekho Pusht-e-Nabi
+Ossay Musalla Bananey Ab Aa Rahe Hain Hussain
+Hussain Hain Keh Hai Mairaj:MAJID-o-MUKHTAR:
+Humein Khuda Se Milaney Ab Aa Rahe Hain Hussain

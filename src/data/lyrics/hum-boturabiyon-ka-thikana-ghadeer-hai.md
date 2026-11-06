@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:08330d50234954ee7e15
@@ -13,13 +13,13 @@ published: false
 ---
 
 1
-Hum Boturabiyon Ka Thikana Ghadeer Hai.
-Bistar Najaf Ki Khak, Sirhana Ghadeer Hai.
-Man Kuntu Ka Alap Hai Sansoon Ka Zero Bomb.
-Dil Hai Amir Khusrau! Tarana Ghadeer Hai.
+Hum Boturabiyon Ka Thikana Ghadeer Hai
+Bistar Najaf Ki Khak, Sirhana Ghadeer Hai
+Man Kuntu Ka Alap Hai Sansoon Ka Zero Bomb
+Dil Hai Amir Khusrau! Tarana Ghadeer Hai
 
 2
-Maula-e-Kul Se Bair Hai Maula Ali Se Bugz.
-Kabay Se Dushmani Hai Nishana Ghadeer Hai.
-Hijrat Ki Raat Ho Keh Zahoor-e-Imam-e-Asar.
-Tareekh Koi Bhi Ho Zamana Ghadeer Hai.
+Maula-e-Kul Se Bair Hai Maula Ali Se Bugz
+Kabay Se Dushmani Hai Nishana Ghadeer Hai
+Hijrat Ki Raat Ho Keh Zahoor-e-Imam-e-Asar
+Tareekh Koi Bhi Ho Zamana Ghadeer Hai

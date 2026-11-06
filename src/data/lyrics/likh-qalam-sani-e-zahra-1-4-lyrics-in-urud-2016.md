@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68e5b47384cd849e4f5c
@@ -14,36 +14,36 @@ published: false
 
 1
 Likh Qalam Sani e Zahra Ki Sana Bismillah
-Wahi-o-Ilham Ko Tehreer Mila Bismillah.
-Ba Ke Nuqtay Se Har Ik Nuqta Mila Bismillah.
-Aaj Yeh Raaz Zamane Ko Bata Bismillah.
+Wahi-o-Ilham Ko Tehreer Mila Bismillah
+Ba Ke Nuqtay Se Har Ik Nuqta Mila Bismillah
+Aaj Yeh Raaz Zamane Ko Bata Bismillah
 
 2
-Ilm-e-Haider Ka Khulasa Hai Ali Ki Beti.
-Dosri Nehj-e-Balagah Hai Ali Ki Beti.
-Aal-e-Zahra Ke Liye Sani-e-Zahra Zainab.
-Iss Liye Zaat-e-Ilahi Ne Yeh Chaha Zainab.
+Ilm-e-Haider Ka Khulasa Hai Ali Ki Beti
+Dosri Nehj-e-Balagah Hai Ali Ki Beti
+Aal-e-Zahra Ke Liye Sani-e-Zahra Zainab
+Iss Liye Zaat-e-Ilahi Ne Yeh Chaha Zainab
 
 3
-Mustaqil Ho Teri Chokhat Pe Ujala Zainab.
-Teri Khatir Ho Naye Rang Ka Zuhra Zainab.
-Bani Hashim Ka Qamar Ban Ke Sitarah Aa Jaye.
-Teri Dehleez Pe Ghazi Ko Utara Jaye.
+Mustaqil Ho Teri Chokhat Pe Ujala Zainab
+Teri Khatir Ho Naye Rang Ka Zuhra Zainab
+Bani Hashim Ka Qamar Ban Ke Sitarah Aa Jaye
+Teri Dehleez Pe Ghazi Ko Utara Jaye
 
 4
-Jin Ki Nalain Ke Qosain Bhi Muhtaj Mile.
-Woh Nabi Our Ali Barsar-e-Mairat Mile.
-Tohfe Allah Se Do Kal Ke Liye Aaj Mile.
-Dono Masoomo Ko Ismat Ke Naye Taj Mile.
+Jin Ki Nalain Ke Qosain Bhi Muhtaj Mile
+Woh Nabi Our Ali Barsar-e-Mairat Mile
+Tohfe Allah Se Do Kal Ke Liye Aaj Mile
+Dono Masoomo Ko Ismat Ke Naye Taj Mile
 
 5
-Shab-e-Mairaj Yeh Taqseem Khuda Ne Ki Hai.
-Fatima Aik Ko Di Aik Ko Zainab Di Hai.
-Mah-e-Shaban-e-Yakam Our Woh Noor-e-Zainab.
-Kaba-e-Hazrat-e-Zahra Mein Zahoor-e-Zainab.
+Shab-e-Mairaj Yeh Taqseem Khuda Ne Ki Hai
+Fatima Aik Ko Di Aik Ko Zainab Di Hai
+Mah-e-Shaban-e-Yakam Our Woh Noor-e-Zainab
+Kaba-e-Hazrat-e-Zahra Mein Zahoor-e-Zainab
 
 6
-Panjtan Hain Issi Khuwaish Mein Hazoor-e-Zainab.
-Meri Aagosh Ho Gehwara-e-Toor-e-Zainab.
-Oss Ki Marzi Hai Magar Oss Ko Uthaye Shabir.
-Sab Se Pehle Mujhe Seene Se Lagaye Shabir.
+Panjtan Hain Issi Khuwaish Mein Hazoor-e-Zainab
+Meri Aagosh Ho Gehwara-e-Toor-e-Zainab
+Oss Ki Marzi Hai Magar Oss Ko Uthaye Shabir
+Sab Se Pehle Mujhe Seene Se Lagaye Shabir

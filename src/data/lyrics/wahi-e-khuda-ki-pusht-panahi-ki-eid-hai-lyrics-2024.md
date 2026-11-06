@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec53fefab1ef616d6a69
@@ -13,22 +13,22 @@ published: false
 ---
 
 Wahi e Khuda Ki Pusht Panahi Ki Eid Hai Hasnain Akbar
-Yeh Baab-e-Shehar Ilm Ke Rahi Ki Eid Hai.
+Yeh Baab-e-Shehar Ilm Ke Rahi Ki Eid Hai
 
 1
-Hai Zalikal Kitab Ke Harfoon Ka Rooz-e-Jashan.
-Alasar Walqalam Ki Siyahi Ki Eid Hai.
-Harf-e-Muqateaat Pe Hai Jis Ka Inhisar.
-Oss Lashkar-e-Sukhan Ke Sipahi Ki Eid Hai.
+Hai Zalikal Kitab Ke Harfoon Ka Rooz-e-Jashan
+Alasar Walqalam Ki Siyahi Ki Eid Hai
+Harf-e-Muqateaat Pe Hai Jis Ka Inhisar
+Oss Lashkar-e-Sukhan Ke Sipahi Ki Eid Hai
 
 2
-Jitnay Saheefay Bhaijay Gaye Hain Zameen Par.
-Mimber Se Unn Ki Sachi Gawahi Ki Eid Hai.
-Antafqadoni Phir Se Saloni Tak Aaye Gi.
-Aye Takht-o-Taj Teri Tabahi Ki Eid Hai.
+Jitnay Saheefay Bhaijay Gaye Hain Zameen Par
+Mimber Se Unn Ki Sachi Gawahi Ki Eid Hai
+Antafqadoni Phir Se Saloni Tak Aaye Gi
+Aye Takht-o-Taj Teri Tabahi Ki Eid Hai
 
 3
-Khulney Ko Madrasa Hai Nabi Ke Kalam Ka.
-Aal-e-Nabi Ki Door Nigahi Ki Eid Hai.
-Aamad Janab-e-Hazrat-e-Baqir Ki Hai Daleel.
-Pehli Rajab Aloom-e-Elahi Ki Eid Hai.
+Khulney Ko Madrasa Hai Nabi Ke Kalam Ka
+Aal-e-Nabi Ki Door Nigahi Ki Eid Hai
+Aamad Janab-e-Hazrat-e-Baqir Ki Hai Daleel
+Pehli Rajab Aloom-e-Elahi Ki Eid Hai

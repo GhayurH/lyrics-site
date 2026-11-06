@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8beebf99f47a841794c4
@@ -13,8 +13,8 @@ published: false
 ---
 
 1
-Daleel e Ishq.
-Zindagi Ne Atraf-e-Ooj-e-Haider Kar Liya.
-Rah Mushkil Thi Mowadat Ki Jise Sar Kar Liya.
-Daar Par Jis Dam Daleel e Ishq Mangi Maut Ne.
-Meesum-e-Tamaar Ne Sooli Ko Mimber Kar Liya.
+Daleel e Ishq
+Zindagi Ne Atraf-e-Ooj-e-Haider Kar Liya
+Rah Mushkil Thi Mowadat Ki Jise Sar Kar Liya
+Daar Par Jis Dam Daleel e Ishq Mangi Maut Ne
+Meesum-e-Tamaar Ne Sooli Ko Mimber Kar Liya

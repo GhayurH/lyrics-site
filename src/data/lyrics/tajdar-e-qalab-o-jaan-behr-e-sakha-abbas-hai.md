@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:242044b29882f571e250
@@ -13,6 +13,6 @@ published: false
 ---
 
 1
-Pasdar-e-Fateh-e-Arz-o-Sama Abbas Hai.
-Kyun Na Ho Maqbool Iss Ka Naam Khas-o-Aam Mein.
-Haider-o-Hasnain-o-Zahra Ki Dua Abbas Hai.
+Pasdar-e-Fateh-e-Arz-o-Sama Abbas Hai
+Kyun Na Ho Maqbool Iss Ka Naam Khas-o-Aam Mein
+Haider-o-Hasnain-o-Zahra Ki Dua Abbas Hai

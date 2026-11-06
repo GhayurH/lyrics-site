@@ -13,22 +13,22 @@ published: false
 ---
 
 Kazim Da Lasha Jadoon Pul Baghdad Te Aya Soz Sheraz Khan
-Haye Ays Lashe Fatima Zahra Nu Pasay Da Dard Pulaya.
+Haye Ays Lashe Fatima Zahra Nu Pasay Da Dard Pulaya
 
 1
-Raj Ke Na Sham De Dardaan Da Ajay Soag Si Manaya.
-Aye Zulm Wekh Ke Umat Da Sain Ne Ro Farmaya.
-Haye Tak Baba Teri Umat Ne Mera Kazim Mar Mukaya.
-Satvin Imam Ne Zalim Di Aisi Qaid Nibahi.
+Raj Ke Na Sham De Dardaan Da Ajay Soag Si Manaya
+Aye Zulm Wekh Ke Umat Da Sain Ne Ro Farmaya
+Haye Tak Baba Teri Umat Ne Mera Kazim Mar Mukaya
+Satvin Imam Ne Zalim Di Aisi Qaid Nibahi
 
 2
-Zanjeer Toaq Koi Nayi Utre Te Aynj Maut Si Ayi.
-Haye Kazim Da Wang Sakin De Qaidi Lasha Dafnaya.
-Baghdad De Qaidi Diyaan Dhiyaan Wich Khat De Ro Likhwan.
-Kar Baba Aye Dua Ohh Dhiyaan Jiwan Na Mar Jawan.
+Zanjeer Toaq Koi Nayi Utre Te Aynj Maut Si Ayi
+Haye Kazim Da Wang Sakin De Qaidi Lasha Dafnaya
+Baghdad De Qaidi Diyaan Dhiyaan Wich Khat De Ro Likhwan
+Kar Baba Aye Dua Ohh Dhiyaan Jiwan Na Mar Jawan
 
 3
-Haye Howay Naa Jeriyaan Dhiyaan De Sir Te Babe Da Saya.
-Qum Wali Sain Ja Nane De Roze Te Kurlaway.
-Das Menu Shehsha Nabiyaan Da Baba Koan Milaway.
-Haye Dhiyaan Nu Choor Ke Babal Te Kyun Miliya Dais Paraya.
+Haye Howay Naa Jeriyaan Dhiyaan De Sir Te Babe Da Saya
+Qum Wali Sain Ja Nane De Roze Te Kurlaway
+Das Menu Shehsha Nabiyaan Da Baba Koan Milaway
+Haye Dhiyaan Nu Choor Ke Babal Te Kyun Miliya Dais Paraya

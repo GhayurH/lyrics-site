@@ -5,7 +5,7 @@ lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Khan Tassaduq Khan"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:baa495cd2e5d0c0a2341

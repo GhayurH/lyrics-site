@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a514409c151199349622
@@ -38,4 +38,4 @@ Kya itnay chotay say bachay bhi qatl hotay hayn
 5
 5) Parhu jo bayn yay Asghar ka dil yu phatta hay,
 Likha jo manzar jo Zayaul nay kalam rukta hay,
-Har aik matami daste ki aankhay yu nam hay.
+Har aik matami daste ki aankhay yu nam hay

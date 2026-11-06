@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:466b84a5aec20ba74046
@@ -14,36 +14,36 @@ published: false
 
 1
 Pakeezgi-e-Nafs Ka Unwaan Hai Fatima 1-4
-Hasnain Ayatein Hain Tu Quran Hai Fatima.
-Mushkil Kusha Ki Zeest Ka Samaan Hai Fatima.
-Misal-e-Ali Mohafiz-e-Emaan Hai Fatima.
+Hasnain Ayatein Hain Tu Quran Hai Fatima
+Mushkil Kusha Ki Zeest Ka Samaan Hai Fatima
+Misal-e-Ali Mohafiz-e-Emaan Hai Fatima
 
 2
-Chokhat Ka Jis Ki Sara Zamana Ghulam Hai.
-Beta Ossi Ka Ab Bhi Jahan Ka Imam Hai.
-Qalab-e-Nabi Ki Khas Musarat Hai Fatima.
-Har Door Ke Rasool Ki Qismat Hai Fatima.
+Chokhat Ka Jis Ki Sara Zamana Ghulam Hai
+Beta Ossi Ka Ab Bhi Jahan Ka Imam Hai
+Qalab-e-Nabi Ki Khas Musarat Hai Fatima
+Har Door Ke Rasool Ki Qismat Hai Fatima
 
 3
-Bas Kul Ki Kul Khadija Ki Dolat Hai Fatima.
-Ya Yeh Kaho Ke Juzw-e-Risalat Hai Fatima.
-Pore Kiye Hain Sare Taqaze Rasool Ke.
-Ahsan Hain Har Aik Nabi Par Batool Ke.
+Bas Kul Ki Kul Khadija Ki Dolat Hai Fatima
+Ya Yeh Kaho Ke Juzw-e-Risalat Hai Fatima
+Pore Kiye Hain Sare Taqaze Rasool Ke
+Ahsan Hain Har Aik Nabi Par Batool Ke
 
 4
-Dein-e-Muhammadi Ka Sahara Hai Fatima.
-Tofan-e-Aakhrat Ka Kinara Hai Fatima.
-Rab Ne Mubahle Mein Pukara Hai Fatima.
-Likha Hai Jo Nabi Ne Woh Parah Hai Fatima.
+Dein-e-Muhammadi Ka Sahara Hai Fatima
+Tofan-e-Aakhrat Ka Kinara Hai Fatima
+Rab Ne Mubahle Mein Pukara Hai Fatima
+Likha Hai Jo Nabi Ne Woh Parah Hai Fatima
 
 5
-Jiss Ne Parha Woh Sahib-e-Eman Ho Giya.
-Jiss Ne Bhula Diya Wohi Shaitan Ho Giya.
-Hai Fatima Ali Ke Iradoon Ki Pukhtagi.
-Imran Ke Chaman Ko Bhi Bakhshi Hai Tazgi.
+Jiss Ne Parha Woh Sahib-e-Eman Ho Giya
+Jiss Ne Bhula Diya Wohi Shaitan Ho Giya
+Hai Fatima Ali Ke Iradoon Ki Pukhtagi
+Imran Ke Chaman Ko Bhi Bakhshi Hai Tazgi
 
 6
-Karti Rahi Ali ki Itaat Mein Bandgi.
-Faqoon Mein Jis Ne Kat Di Khush Ho Ke Zindagi.
-Dunya Ko Sabar-o-Zabt Ki Tasveer De Gayi.
-Jo Karbala Ke Waste Shabir De Gayei.
+Karti Rahi Ali ki Itaat Mein Bandgi
+Faqoon Mein Jis Ne Kat Di Khush Ho Ke Zindagi
+Dunya Ko Sabar-o-Zabt Ki Tasveer De Gayi
+Jo Karbala Ke Waste Shabir De Gayei

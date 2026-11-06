@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4c2beab9846d753062ff
@@ -13,6 +13,6 @@ published: false
 ---
 
 1
-Wafa Bhi Jhoom Uthay Youn Wafa Kare Koi.
-Namaz Chodah Sadi Se Hai Muntazir Logo.
-Hussain Ki Tarha Aye Adda Kare Koi.
+Wafa Bhi Jhoom Uthay Youn Wafa Kare Koi
+Namaz Chodah Sadi Se Hai Muntazir Logo
+Hussain Ki Tarha Aye Adda Kare Koi

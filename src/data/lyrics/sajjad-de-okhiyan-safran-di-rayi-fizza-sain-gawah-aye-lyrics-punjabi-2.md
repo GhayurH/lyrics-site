@@ -13,19 +13,19 @@ published: false
 ---
 
 1
-Sajjad De Okhiyan Safran Di Rayi Fizza Sain Gawah Aye.
-Ban Nokar Habash Di Malka Ne Kita Syedaan Naal Nibah Aye.
-Karbal Taun Le Ke Sham Taein Har Zulm Hai Bibi Sehndi Rayi.
-Beemar De Wangoon Hashar Taein Nahin Bhulne Sham De Rah Aye.
+Sajjad De Okhiyan Safran Di Rayi Fizza Sain Gawah Aye
+Ban Nokar Habash Di Malka Ne Kita Syedaan Naal Nibah Aye
+Karbal Taun Le Ke Sham Taein Har Zulm Hai Bibi Sehndi Rayi
+Beemar De Wangoon Hashar Taein Nahin Bhulne Sham De Rah Aye
 
 2
-Kisay Moor Te Zainab Ban Gayi Si Kisay Moor Te Ban Kulsoom Gayi.
-Kha Kha Ke Pathar Bachandi Rayi Aye Ban Ke Pak Panah Aye.
-Meri Sain Ne Qabar-e-Sakina Te Keeti Ainj Di Nokari Zindagi Bhar.
-Mar Ke V Sain Mojawar Hai Odi Qabar Te Pak Nigah Aye.
+Kisay Moor Te Zainab Ban Gayi Si Kisay Moor Te Ban Kulsoom Gayi
+Kha Kha Ke Pathar Bachandi Rayi Aye Ban Ke Pak Panah Aye
+Meri Sain Ne Qabar-e-Sakina Te Keeti Ainj Di Nokari Zindagi Bhar
+Mar Ke V Sain Mojawar Hai Odi Qabar Te Pak Nigah Aye
 
 3
-Jino Bhain Hai Aakhiya Zahra Ne Aate Maa Hasnain Bolanday Si.
-Taiyon Roza BiBi Zainab Da Fizza Di Sajdah Ga Aye.
-Ik Din Te Tur Gaye Dunya Taun Har Zulm De Jehray Shahid Si.
-Wich Sham De Fizza Tur Gayi Aye Wich Yasrab Deen Da Shah Aye.
+Jino Bhain Hai Aakhiya Zahra Ne Aate Maa Hasnain Bolanday Si
+Taiyon Roza BiBi Zainab Da Fizza Di Sajdah Ga Aye
+Ik Din Te Tur Gaye Dunya Taun Har Zulm De Jehray Shahid Si
+Wich Sham De Fizza Tur Gayi Aye Wich Yasrab Deen Da Shah Aye

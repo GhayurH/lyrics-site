@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:653ddceaf1672be7246b
@@ -13,20 +13,20 @@ published: false
 ---
 
 1
-Mere Liye Fidoos Se Aaya Hai Tabaruk.
-Tu Ne Bhi Ajab Martaba Paya Hai Tabaruk.
-Palkoon Pe Farishtoon Ne Uthaya Hai Tabaruk.
-Jibreel Se Keh Do Mera Mun Choom Lein Aa Kar.
-Main Ne Bhi Abhi Shabir Ka Khaya Hai Tabaruk.
-Aye Fatima Zahra Inhein De Dijiye Roti.
-Janat Ne Farishtoon Se Mangaya Hai Tabaruk.
-Inn Bachoon Ko Dunya Ki Nazar Lag Nahi Sakti.
-Jin Bachoon Ko Maon Ne Khilaya Hai Tabaruk.
-Yeh Nazar Yeh Langar Yeh Sabeelon Ki Qatarein.
-Dunya Mein Jahan Dekhiye Chaya Hai Tabaruk.
-Paida Kiya Dunya Ko Baray-e-Gham-e-Shabir.
-ALLAH Ne Janat Ko Banaya Hai Tabaruk.
-Shehzadi-e-Konain Ka Roomal Hai Sar Par.
-Hur Ne Ajab Andaz Ka Paya Hai Tabaruk.
-Shayad Yeh Nakeerain Ke Kaam Aa Sake NAYYAR.
-Iss Wastay Kuch Main Ne Bachaya Hia Tabaruk.
+Mere Liye Fidoos Se Aaya Hai Tabaruk
+Tu Ne Bhi Ajab Martaba Paya Hai Tabaruk
+Palkoon Pe Farishtoon Ne Uthaya Hai Tabaruk
+Jibreel Se Keh Do Mera Mun Choom Lein Aa Kar
+Main Ne Bhi Abhi Shabir Ka Khaya Hai Tabaruk
+Aye Fatima Zahra Inhein De Dijiye Roti
+Janat Ne Farishtoon Se Mangaya Hai Tabaruk
+Inn Bachoon Ko Dunya Ki Nazar Lag Nahi Sakti
+Jin Bachoon Ko Maon Ne Khilaya Hai Tabaruk
+Yeh Nazar Yeh Langar Yeh Sabeelon Ki Qatarein
+Dunya Mein Jahan Dekhiye Chaya Hai Tabaruk
+Paida Kiya Dunya Ko Baray-e-Gham-e-Shabir
+ALLAH Ne Janat Ko Banaya Hai Tabaruk
+Shehzadi-e-Konain Ka Roomal Hai Sar Par
+Hur Ne Ajab Andaz Ka Paya Hai Tabaruk
+Shayad Yeh Nakeerain Ke Kaam Aa Sake NAYYAR
+Iss Wastay Kuch Main Ne Bachaya Hia Tabaruk

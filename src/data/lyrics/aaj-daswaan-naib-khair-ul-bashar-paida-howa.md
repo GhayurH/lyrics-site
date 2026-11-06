@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:38c59ad6caf907cbe325
@@ -13,8 +13,8 @@ published: false
 ---
 
 1
-Aaj Daswaan Naib Khair ul Bashar Paida Howa.
-Hain Laqab Hadi Naqi Jiss Ke Ali Hai Jiss Ka Naam.
-Rehbar-e-Dein-e-Khuda Hai Yeh Muhammad Ka Pisar.
-Itrat-e-Athar Mein Chotha Ali Aali Moqam.
-Jashan-e-Zahoor Hazrat Imam Ali Naqi.
+Aaj Daswaan Naib Khair ul Bashar Paida Howa
+Hain Laqab Hadi Naqi Jiss Ke Ali Hai Jiss Ka Naam
+Rehbar-e-Dein-e-Khuda Hai Yeh Muhammad Ka Pisar
+Itrat-e-Athar Mein Chotha Ali Aali Moqam
+Jashan-e-Zahoor Hazrat Imam Ali Naqi

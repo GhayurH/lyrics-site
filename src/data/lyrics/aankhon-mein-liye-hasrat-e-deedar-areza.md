@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a40c67d3900890cdfacf
@@ -13,19 +13,19 @@ published: false
 ---
 
 1
-Aankhon Mein Liye Hasrat-e-Deedar Areza.
-Khizrrah Mein Pohanchne Ko Hai Teyar Areza.
-Yeh Shoq-e-Ziyarat Mein Bohat Aagay Hai Mujh Se.
-Iss Par Agar Main Hoon Tu Oss Par Areza.
+Aankhon Mein Liye Hasrat-e-Deedar Areza
+Khizrrah Mein Pohanchne Ko Hai Teyar Areza
+Yeh Shoq-e-Ziyarat Mein Bohat Aagay Hai Mujh Se
+Iss Par Agar Main Hoon Tu Oss Par Areza
 
 2
-Barhta Hi Chala Jata Hai Jazbat Ki Ro Mein.
-Mojon Se Siwa Rakhta Hai Raftar Areza.
-Har Hal Mein Manzil Pe Pohanch Kar Hi Rukay Ga.
-Hai Moatqad-e-Abid-e-Bimar Areza.
+Barhta Hi Chala Jata Hai Jazbat Ki Ro Mein
+Mojon Se Siwa Rakhta Hai Raftar Areza
+Har Hal Mein Manzil Pe Pohanch Kar Hi Rukay Ga
+Hai Moatqad-e-Abid-e-Bimar Areza
 
 3
-Ik Bond Bhi Peeta Nahi Daryaon Ka Pani.
-Pyason Ke Qabilay Ka Wafadar Areza.
-Yeh Soch Ke Doba Hoon Arezay Ke Bajaye.
-Seene Se Laga Letay Hain Sarkar Areza.
+Ik Bond Bhi Peeta Nahi Daryaon Ka Pani
+Pyason Ke Qabilay Ka Wafadar Areza
+Yeh Soch Ke Doba Hoon Arezay Ke Bajaye
+Seene Se Laga Letay Hain Sarkar Areza

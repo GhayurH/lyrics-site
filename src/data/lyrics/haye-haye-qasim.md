@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
@@ -54,7 +54,7 @@ romanLyrics: |-
   Har saath moharram ko mehndi teri
   Yaad may qasim uth'ti hai
   Dulha dulha qasim dulha
-  Hota hai labon par haye qasim.
+  Hota hai labon par haye qasim
 # source_id: nohayonline:6d96d6190b435b5b8979
 # source_url: https://www.nohayonline.com/details_content.php?id=1632
 # raw_sha256: b97f62a80477326866f9e5391e2f9a1839a402cf2379d5c4393d260f6e241dd7

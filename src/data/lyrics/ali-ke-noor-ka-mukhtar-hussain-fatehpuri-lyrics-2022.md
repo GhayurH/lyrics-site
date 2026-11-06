@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d6c316102178198964bc
@@ -15,17 +15,17 @@ published: false
 Ali Ke Noor Ka Mukhtar Hussain Fatehpuri
 
 1
-Ali Ke Noor Ka Sadqa Dikhai Deta Hai.
-Khuda Ke Ghar Mein Ujala Dikhai Deta Hai.
-Mizaj-e-Nehj-e-Balaga Hai Aayaton Jaisa.
-Kalam Yeh Bhi Khuda Ka Dikhai Deta Hai.
-Ali Imam-e-Man Asto Manam Ghulam-e-Ali.
-Har Ik Nabi Yehi Kehta Dikhai Deta Hai.
+Ali Ke Noor Ka Sadqa Dikhai Deta Hai
+Khuda Ke Ghar Mein Ujala Dikhai Deta Hai
+Mizaj-e-Nehj-e-Balaga Hai Aayaton Jaisa
+Kalam Yeh Bhi Khuda Ka Dikhai Deta Hai
+Ali Imam-e-Man Asto Manam Ghulam-e-Ali
+Har Ik Nabi Yehi Kehta Dikhai Deta Hai
 
 2
-Kamal-e-Qudrat-e-Mabood Hai Mera Abbas.
-Ali Ko Bhi Yeh Ali Sa Dikhai Deta Hai.
-Mujhe Zameen Pe Kuch Bhi Nazar Nahi Aata.
-Faqat Hussain Ka Sajdah Dikhai Deta Hai.
-Najaf Hai:MIR TAKALLUM: Ka Toor Aye Mosa.
-Ossay Yahin Pe Woh Jalwa Dikhai Deta Hai.
+Kamal-e-Qudrat-e-Mabood Hai Mera Abbas
+Ali Ko Bhi Yeh Ali Sa Dikhai Deta Hai
+Mujhe Zameen Pe Kuch Bhi Nazar Nahi Aata
+Faqat Hussain Ka Sajdah Dikhai Deta Hai
+Najaf Hai:MIR TAKALLUM: Ka Toor Aye Mosa
+Ossay Yahin Pe Woh Jalwa Dikhai Deta Hai

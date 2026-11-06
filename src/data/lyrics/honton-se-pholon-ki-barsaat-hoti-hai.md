@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a2759181e564ca4fb295
@@ -13,25 +13,25 @@ published: false
 ---
 
 1
-Honton Se Pholon Ki Barsaat Hoti Hai.
-Jab Kabhi Bhi Laboon Par Naat Hoti Hai.
-Hota Hai Arsh Walon Mein Yhi Charcha.
-Bas Muhammad Ali Ki Baat Hoti Hai.
+Honton Se Pholon Ki Barsaat Hoti Hai
+Jab Kabhi Bhi Laboon Par Naat Hoti Hai
+Hota Hai Arsh Walon Mein Yhi Charcha
+Bas Muhammad Ali Ki Baat Hoti Hai
 
 2
-Hai Farishton Se Behter Aadmi Hona.
-Lazmi Shart Inki Zaat Hoti Hai.
-Ya Muhammad Ali Ya Fatima Zahra.
-Dam Se Inke Rab Se Baat Hoti Hai.
+Hai Farishton Se Behter Aadmi Hona
+Lazmi Shart Inki Zaat Hoti Hai
+Ya Muhammad Ali Ya Fatima Zahra
+Dam Se Inke Rab Se Baat Hoti Hai
 
 3
-Panjtan Ki Wilayat Deen-e-Kamil Hai.
-Our Shariyat Inhi Ke Sath Hoti Hai.
-Hath Takhleeq-e-Aadam Mein Hain Jo Shamil.
-Dunya Sari Unhi Ke Hath Hoti Hai.
+Panjtan Ki Wilayat Deen-e-Kamil Hai
+Our Shariyat Inhi Ke Sath Hoti Hai
+Hath Takhleeq-e-Aadam Mein Hain Jo Shamil
+Dunya Sari Unhi Ke Hath Hoti Hai
 
 4
-Kehne Par Gar Qalam Gasib Nahi Deta.
-Haan Luteray Ki Yeh Aouqaat Hoti Hai.
-Woh Mulaqaat Woh Qurbat Khuda Se Youn.
-Khoob Mairaj Ki Woh Raat Hoti Hai.
+Kehne Par Gar Qalam Gasib Nahi Deta
+Haan Luteray Ki Yeh Aouqaat Hoti Hai
+Woh Mulaqaat Woh Qurbat Khuda Se Youn
+Khoob Mairaj Ki Woh Raat Hoti Hai

@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5225bf6b5b6da1570c56
@@ -13,25 +13,25 @@ published: false
 ---
 
 1
-Agaaz-e-Zikr-e-Wasf-e-Sheh-e-Anbiya Karon.
-Pehle Drood Parh Lon Tu Phir Ibteda Karon.
-Misal Ghulab Mehke Aqedat Ka Lafz Lafz.
-Gulpashiye Adab Hi Se Midhat Kiya Karon.
+Agaaz-e-Zikr-e-Wasf-e-Sheh-e-Anbiya Karon
+Pehle Drood Parh Lon Tu Phir Ibteda Karon
+Misal Ghulab Mehke Aqedat Ka Lafz Lafz
+Gulpashiye Adab Hi Se Midhat Kiya Karon
 
 2
-Socho Tu Shehr-e-Ilm Tasawar Mein Ho Mudaam.
-Likho To Iss Ke Dar Ke Qaside Likha Karon.
-Aaye Zubaan Pe Ism-e-MUHAMMAD Tu Jhoom Kar.
-Apne Hi Laboon Ke Aap Hi Bosay Liya Karon.
+Socho Tu Shehr-e-Ilm Tasawar Mein Ho Mudaam
+Likho To Iss Ke Dar Ke Qaside Likha Karon
+Aaye Zubaan Pe Ism-e-MUHAMMAD Tu Jhoom Kar
+Apne Hi Laboon Ke Aap Hi Bosay Liya Karon
 
 3
-Emaan Ki Chandni Se Mowadat Ka Noor Loon.
-Sidq-o-Safa Se Ajr-e-Risalat Aada Karon.
-Sar Mast-e-Kaif-o-Masti Jaam-e-Wila Jo Hoon.
-Yasrab Ke Maikaday Ki Dama Dam Piya Karon.
+Emaan Ki Chandni Se Mowadat Ka Noor Loon
+Sidq-o-Safa Se Ajr-e-Risalat Aada Karon
+Sar Mast-e-Kaif-o-Masti Jaam-e-Wila Jo Hoon
+Yasrab Ke Maikaday Ki Dama Dam Piya Karon
 
 4
-Namoos-e-Ahle Bait-e-Risalat Pe Jaan Doon.
-Dil Ki Meena Ko Zeenat-e-Karb-o-Bala Karon.
-Andaaz Apna Khoob Hai Mumtaz-o-Munfarid.
-Asloob-e-Fun Ko Rang Achote Atta Karon.
+Namoos-e-Ahle Bait-e-Risalat Pe Jaan Doon
+Dil Ki Meena Ko Zeenat-e-Karb-o-Bala Karon
+Andaaz Apna Khoob Hai Mumtaz-o-Munfarid
+Asloob-e-Fun Ko Rang Achote Atta Karon

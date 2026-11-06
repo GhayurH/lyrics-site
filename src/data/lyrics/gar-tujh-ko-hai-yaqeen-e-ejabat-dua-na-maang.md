@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb854ca85f3eda2a1ef0
@@ -13,6 +13,6 @@ published: false
 ---
 
 1
-Yani Beghair-e-Yak Dil Be Mudua Nah Maang.
-Aata Hai Daag-e-Hasrat-e-Dil Ka Shumaar Yaad.
-Mujh Se Mere Gunha Ka Hisab Aye Khuda Nah Maang.
+Yani Beghair-e-Yak Dil Be Mudua Nah Maang
+Aata Hai Daag-e-Hasrat-e-Dil Ka Shumaar Yaad
+Mujh Se Mere Gunha Ka Hisab Aye Khuda Nah Maang

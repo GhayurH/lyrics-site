@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b92461e818a21d490bed
@@ -13,25 +13,25 @@ published: false
 ---
 
 1
-Hai Aaj Bhi Zamane Mein Charcha Hussain Ka.
-Chalta Hai Mulk Mulk Mein Sika Hussain Ka.
-Bharat Mein Gar Woh Aata Tu Bhagwan Kehte Hum.
-Har Hindu Naam Poja Mein Japta Hussain Ka.
+Hai Aaj Bhi Zamane Mein Charcha Hussain Ka
+Chalta Hai Mulk Mulk Mein Sika Hussain Ka
+Bharat Mein Gar Woh Aata Tu Bhagwan Kehte Hum
+Har Hindu Naam Poja Mein Japta Hussain Ka
 
 2
-Mazhab Ki Koi Baat Nahi Dill Ki Baat Hai.
-Yeh Haq Parast Dill Se Hai Shaida Hussain Ka.
-Muslim Tu Parhte Hain Kalma Rasool Ka.
-Hum Hindon Ne Parh Liya Kalma Hussain Ka.
+Mazhab Ki Koi Baat Nahi Dill Ki Baat Hai
+Yeh Haq Parast Dill Se Hai Shaida Hussain Ka
+Muslim Tu Parhte Hain Kalma Rasool Ka
+Hum Hindon Ne Parh Liya Kalma Hussain Ka
 
 3
-Sahil Se Sar Patakti Hain Piyaso Ki Yaad Mein.
-Le Le Ke Naam Ganga-o-Jamna Hussain Ka.
-Ravan Ki Tarha Mit Giya Dunya Se Tu Yazeed.
-Lekin Dilon Pe Aaj Hai Qabza Hussain Ka.
+Sahil Se Sar Patakti Hain Piyaso Ki Yaad Mein
+Le Le Ke Naam Ganga-o-Jamna Hussain Ka
+Ravan Ki Tarha Mit Giya Dunya Se Tu Yazeed
+Lekin Dilon Pe Aaj Hai Qabza Hussain Ka
 
 4
-Iss Mein Nahi Kalam Keh Hum But Parast Hain.
-Aankhon Se Apni Chomein Gay Roza Hussain Ka.
-:JAY SINGH: Panah Mangay Gi Mujh Se Narag Ki Aag.
-Hindu Tu Hoon Magar Hoon Main Shaida Hussain Ka.
+Iss Mein Nahi Kalam Keh Hum But Parast Hain
+Aankhon Se Apni Chomein Gay Roza Hussain Ka
+:JAY SINGH: Panah Mangay Gi Mujh Se Narag Ki Aag
+Hindu Tu Hoon Magar Hoon Main Shaida Hussain Ka

@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e458813478d14fd22a6e
@@ -13,7 +13,7 @@ published: false
 ---
 
 1
-Lehrata Alam Dekh Ke Youn Lagta Hai Mujh Ko.
-Jaise Keh Koi Bab-e-Munajaat Khula Hai.
-Dunya Hai Tere Dar Ki Gada Iss Liye Ghazi.
-Dunya Ko Khabar Hai Keh Tera Haath Khula Hai.
+Lehrata Alam Dekh Ke Youn Lagta Hai Mujh Ko
+Jaise Keh Koi Bab-e-Munajaat Khula Hai
+Dunya Hai Tere Dar Ki Gada Iss Liye Ghazi
+Dunya Ko Khabar Hai Keh Tera Haath Khula Hai

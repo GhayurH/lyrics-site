@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f2dad01254808f34329d
@@ -14,42 +14,42 @@ published: false
 
 1
 Jang-e-Khybar 1-4
-Suno Suno Suno Suno Khybar Ka Majrah Suno.
-Khybar Ki Karzaar Ka Manzar Sunata Hoon.
-Jibreel Sath Do Mera Khybar Sunata Hoon.
+Suno Suno Suno Suno Khybar Ka Majrah Suno
+Khybar Ki Karzaar Ka Manzar Sunata Hoon
+Jibreel Sath Do Mera Khybar Sunata Hoon
 
 2
-Khyber Ki Jang Ab Bhi Hai Dunya Mein Yadgar.
-Chalees Din Taveel Hoi Hai Yeh Karzaar.
-Khudsakhta Rasool Ke The Jitne Janisar.
-Maidan Choor Choor Ke Hote Rahe Farar.
+Khyber Ki Jang Ab Bhi Hai Dunya Mein Yadgar
+Chalees Din Taveel Hoi Hai Yeh Karzaar
+Khudsakhta Rasool Ke The Jitne Janisar
+Maidan Choor Choor Ke Hote Rahe Farar
 
 3
-Lashkar Mein Muslimo Ke Ajab Inteshar Tha.
-Har Aik Ke Dimag Pe Marhab Sawar Tha.
-Hansti Thi Maut Dekh Ke Har Rooz Marika.
-Masroof Bhag Door Mein The Sare Soorma.
+Lashkar Mein Muslimo Ke Ajab Inteshar Tha
+Har Aik Ke Dimag Pe Marhab Sawar Tha
+Hansti Thi Maut Dekh Ke Har Rooz Marika
+Masroof Bhag Door Mein The Sare Soorma
 
 4
-Woh Jang Thi Keh Jang Bhi Sharmaye Barha.
-Chalees Din Mein Aik Bhi Zakhmi Nahi Howa.
-Marhab Jo Pochta Tha Laro Gaye Abhi Yahin.
-Taigein Chupa Ke Kehte The Sare Nahin Nahin.
+Woh Jang Thi Keh Jang Bhi Sharmaye Barha
+Chalees Din Mein Aik Bhi Zakhmi Nahi Howa
+Marhab Jo Pochta Tha Laro Gaye Abhi Yahin
+Taigein Chupa Ke Kehte The Sare Nahin Nahin
 
 5
-Lashkar Ki Abtari Pe Yeh Kehne Lage Nabi.
-Ghabrao Mat Larai Ki Yeh Shab Hai Aakhri.
-Ab Kal Jo Mard Ho Ga Alam Paye Ga Woh Hi.
-Dar Pardah Tha Nabi Ke Labon Par Ali Ali.
+Lashkar Ki Abtari Pe Yeh Kehne Lage Nabi
+Ghabrao Mat Larai Ki Yeh Shab Hai Aakhri
+Ab Kal Jo Mard Ho Ga Alam Paye Ga Woh Hi
+Dar Pardah Tha Nabi Ke Labon Par Ali Ali
 
 6
-Yani Alam Alif Se Yeh Lashkar Uthaye Ga.
-Jo Ain Se Alam Hai WOh Haider Uthaye Ga.
-Mazi Se Apna Peecha Churate Hain Kis Liye.
-Apna Hadaf Alam Ko Banate Hain Kis Liye.
+Yani Alam Alif Se Yeh Lashkar Uthaye Ga
+Jo Ain Se Alam Hai WOh Haider Uthaye Ga
+Mazi Se Apna Peecha Churate Hain Kis Liye
+Apna Hadaf Alam Ko Banate Hain Kis Liye
 
 7
-Panjay Ki Samt Ungli Uthate Hain Kis Liye.
-Ab Samjhe Hum Alam Woh Jalate Hain Kis Liye.
-Unn Ke Baron Ko Haq Se Yeh Mansab Mila Nahin.
-Khybar Ka Zakhm Hai Jo Abhi Tak Bhara Nahin.
+Panjay Ki Samt Ungli Uthate Hain Kis Liye
+Ab Samjhe Hum Alam Woh Jalate Hain Kis Liye
+Unn Ke Baron Ko Haq Se Yeh Mansab Mila Nahin
+Khybar Ka Zakhm Hai Jo Abhi Tak Bhara Nahin

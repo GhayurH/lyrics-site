@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: 'Ali Waris Bila waris Milaa Waris. Lazat-e-Ishq ali kiya hain Zamane walo Isko Darvaish sifat log samaj paate

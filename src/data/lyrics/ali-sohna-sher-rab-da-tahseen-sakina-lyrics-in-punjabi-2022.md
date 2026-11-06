@@ -13,37 +13,37 @@ published: false
 ---
 
 1
-Ali Sohna Sher Rab Da Tahseen Sakina.
-Kabay Mein Kandhey Par Uthaya Kyun Tha.
-Bazu Pakar Kar Khum Pe Dikhaya Kyun Tha.
-Agar Ya Ali Madad Kehna Galat Hai.
+Ali Sohna Sher Rab Da Tahseen Sakina
+Kabay Mein Kandhey Par Uthaya Kyun Tha
+Bazu Pakar Kar Khum Pe Dikhaya Kyun Tha
+Agar Ya Ali Madad Kehna Galat Hai
 
 2
-Tu Pocho Mere Muhammad Se.
-Khaybar Mein Bulaya Kyun Tha.
-But Khane Nu Kaba Banraya.
-Ghar Rab Da Hai Jis Ne Sajaya.
+Tu Pocho Mere Muhammad Se
+Khaybar Mein Bulaya Kyun Tha
+But Khane Nu Kaba Banraya
+Ghar Rab Da Hai Jis Ne Sajaya
 
 3
-Jinnay Kabay Nu Kaba Banraya.
-Oh Ali Sohna Shair Rab Da.
-Ain Ali Ali Karna Nayi Khera.
-Har Mazhab Andar Aakhan Ali Ali.
+Jinnay Kabay Nu Kaba Banraya
+Oh Ali Sohna Shair Rab Da
+Ain Ali Ali Karna Nayi Khera
+Har Mazhab Andar Aakhan Ali Ali
 
 4
-ALLAH Aap Kehya Ali Asadullah.
-Kul Wird Paygambraan Ali Ali.
-Dunya Te Har Pasay Ali Ali Hoi Aye.
-Noor Di Subha Aj Kabay Wich Hoi Aye.
+ALLAH Aap Kehya Ali Asadullah
+Kul Wird Paygambraan Ali Ali
+Dunya Te Har Pasay Ali Ali Hoi Aye
+Noor Di Subha Aj Kabay Wich Hoi Aye
 
 5
-Jinnay Kabay Choon Sajdah Karaya.
-Ali Ki Maa Jo Na Aati Haram Sajane Ko.
-Tere Haram Ki Tabiyat Bhi Theek Ho Jati.
-Agar Na Hota Ali Ka Aqad Jo Zahra Se.
+Jinnay Kabay Choon Sajdah Karaya
+Ali Ki Maa Jo Na Aati Haram Sajane Ko
+Tere Haram Ki Tabiyat Bhi Theek Ho Jati
+Agar Na Hota Ali Ka Aqad Jo Zahra Se
 
 6
-Batool Rab Ki Tarha La Shareek Ho Jati.
-Dindiyaan Mubarakaan Horaan Thalay Aa Ke.
-Wehray Imran Wich Jashan Mana Ke.
-Kaisa Rab Sada Mail Karaya.
+Batool Rab Ki Tarha La Shareek Ho Jati
+Dindiyaan Mubarakaan Horaan Thalay Aa Ke
+Wehray Imran Wich Jashan Mana Ke
+Kaisa Rab Sada Mail Karaya

@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9fa8fd02ad5c20f27c64
@@ -13,25 +13,25 @@ published: false
 ---
 
 1
-Agar Ki Muhabbat Hasan Askari Se.
-Samajh Le Ke Tu Mil Gaya Zindagi Se.
-Nahi Phir Kissi Dar Ki Tujh Ko Zarorat.
-Kabhi Mang Kar Dekh Ibn-e-Ali Se.
+Agar Ki Muhabbat Hasan Askari Se
+Samajh Le Ke Tu Mil Gaya Zindagi Se
+Nahi Phir Kissi Dar Ki Tujh Ko Zarorat
+Kabhi Mang Kar Dekh Ibn-e-Ali Se
 
 2
-Jahanum Hai Wajib Har Oss Lanati Par.
-Jisay Hai Adawat Hasan Askari Se.
-Sar-e-Asar Ashor Karb-o-Bala Mein.
-Qaza Chahti Hai Baqa Zindagi Se.
+Jahanum Hai Wajib Har Oss Lanati Par
+Jisay Hai Adawat Hasan Askari Se
+Sar-e-Asar Ashor Karb-o-Bala Mein
+Qaza Chahti Hai Baqa Zindagi Se
 
 3
-Andheri Ghali Mein Saqeefa Tumhara.
-Hamara Taluq Hai Roshan Ghali Se.
-Dar-e-Khuld Par Bolay Matam Ke Tamgay.
-Na Bola Na Pocha Gaya Matami Se.
+Andheri Ghali Mein Saqeefa Tumhara
+Hamara Taluq Hai Roshan Ghali Se
+Dar-e-Khuld Par Bolay Matam Ke Tamgay
+Na Bola Na Pocha Gaya Matami Se
 
 4
-Ghataye Jo Maula Ali Ke Fazail.
-Adawat Rakho Tum Har Oss Molvi Se.
-Diyar-e-Jinna Mein:AREEB-E-: Sukhan Ne.
-Kiye Kitne Tameer Ghar Shayari Se.
+Ghataye Jo Maula Ali Ke Fazail
+Adawat Rakho Tum Har Oss Molvi Se
+Diyar-e-Jinna Mein:AREEB-E-: Sukhan Ne
+Kiye Kitne Tameer Ghar Shayari Se

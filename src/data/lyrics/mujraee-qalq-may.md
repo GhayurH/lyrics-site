@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: 'Mujraee khalq mein, in aankhon ne, kya kya dekhaaaa
@@ -106,7 +106,7 @@ romanLyrics: 'Mujraee khalq mein, in aankhon ne, kya kya dekhaaaa
 
 ۲
 1 ) میں نے دیکھا علم شاہ کو آلودہ با-خون
-میں نے نیزے پہ سَر دلبر زہرہ دیکھا.
+میں نے نیزے پہ سَر دلبر زہرہ دیکھا
 
 ۳
 میں نے دیکھا علی اصغر کا گلا خون میں تر

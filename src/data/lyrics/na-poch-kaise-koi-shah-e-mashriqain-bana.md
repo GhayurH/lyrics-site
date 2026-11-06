@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eb399e9cfc04265637c9
@@ -13,6 +13,6 @@ published: false
 ---
 
 1
-Bashar Ka Husan Aqeedat Ka Zaib-o-Zain Bana.
-Ali Ka Khon Loab-e-Rasool Sheer-e-Batool.
-Mile Hain Jab Ye Anasir Tu Phir Hussain Bana.
+Bashar Ka Husan Aqeedat Ka Zaib-o-Zain Bana
+Ali Ka Khon Loab-e-Rasool Sheer-e-Batool
+Mile Hain Jab Ye Anasir Tu Phir Hussain Bana

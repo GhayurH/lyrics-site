@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f2bad8d94f859b86db68
@@ -13,10 +13,10 @@ published: false
 ---
 
 1
-Karbala Moalla Mein Bain-ul-Haramain Ka Manzar.
-Ik Simt Hain Abbas Tu Ik Simt Hain Shabir.
-Woh Khaliq-e-Quran-e-Wafa Hai Tu Yeh Tatheer.
-Humshakal-e-Ali Woh Hain Yeh Ahmad Ki Hain Tasveer.
-Kar Goor Keh Dono Ke Hi Hathon Mein Hai Taqdeer.
-Dono Hi Haqeeqat Mein Wali Ibn-e-Wali Hain.
-Ik Sare Muhammad Hai Tu Ik Sare Ali Hain.
+Karbala Moalla Mein Bain-ul-Haramain Ka Manzar
+Ik Simt Hain Abbas Tu Ik Simt Hain Shabir
+Woh Khaliq-e-Quran-e-Wafa Hai Tu Yeh Tatheer
+Humshakal-e-Ali Woh Hain Yeh Ahmad Ki Hain Tasveer
+Kar Goor Keh Dono Ke Hi Hathon Mein Hai Taqdeer
+Dono Hi Haqeeqat Mein Wali Ibn-e-Wali Hain
+Ik Sare Muhammad Hai Tu Ik Sare Ali Hain

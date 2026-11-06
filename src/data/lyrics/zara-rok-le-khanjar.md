@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
@@ -106,7 +106,7 @@ romanLyrics: |-
 ۵
 زخمی ہوں مگر آخری تعظیم تو کر لوں
 اے شمر بہن ہے یہ میری ماں کے برابر
-زرا روک لے خنجر۔
+زرا روک لے خنجر
 زینب نکل آئی ہے۔۔۔
 
 ۶

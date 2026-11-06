@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:69f169c50bd34d63c369
@@ -13,31 +13,31 @@ published: false
 ---
 
 1
-Kitab e Azm o Shujat Hain Syed e Sajjad.
-Khuda-e-Sabar Ki Aayat Hain Syed-e-Sajjad.
-Woh Jis Ke Sajdoon Ko Sajdah Namaz Karti Hai.
-Waqar-e-Shan-e-Ibadat Hain Syed-e-Sajjad.
+Kitab e Azm o Shujat Hain Syed e Sajjad
+Khuda-e-Sabar Ki Aayat Hain Syed-e-Sajjad
+Woh Jis Ke Sajdoon Ko Sajdah Namaz Karti Hai
+Waqar-e-Shan-e-Ibadat Hain Syed-e-Sajjad
 
 2
-Naheef Kandhoon Pe Karb-o-Bala Se Sham Talak.
-Uthaye Bar-e-Imamat Hain Syed-e-Sajjad.
-Bahar Yeh Abu Talib Ke Ghar Mein Chothi Hai.
-Nabi Ke Dein Ki Alamat Hain Syed-e-Sajjad.
+Naheef Kandhoon Pe Karb-o-Bala Se Sham Talak
+Uthaye Bar-e-Imamat Hain Syed-e-Sajjad
+Bahar Yeh Abu Talib Ke Ghar Mein Chothi Hai
+Nabi Ke Dein Ki Alamat Hain Syed-e-Sajjad
 
 3
-Pas-e-Hussain Jo Islam Ka Mohafiz Tha.
-Hussain Ki Woh Riyazat Hain Syed-e-Sajjad.
-Bachein Gay Hashar Mein Kis Tarha Qatilan-e-Hussain.
-Gawah Rooz-e-Qayamat Hain Syed-e-Sajjad.
+Pas-e-Hussain Jo Islam Ka Mohafiz Tha
+Hussain Ki Woh Riyazat Hain Syed-e-Sajjad
+Bachein Gay Hashar Mein Kis Tarha Qatilan-e-Hussain
+Gawah Rooz-e-Qayamat Hain Syed-e-Sajjad
 
 4
-Jo Apne Bhai Ke Qatil Ki Mezbani Karey.
-Woh Muntaha e Sharafat Hain Syed-e-Sajjad.
-Yeh Tauq-o-Beri Pehnana Tu Marzi-e-Rab Hai.
-Ali Ki Warna Jalalat Hain Syed-e-Sajjad.
+Jo Apne Bhai Ke Qatil Ki Mezbani Karey
+Woh Muntaha e Sharafat Hain Syed-e-Sajjad
+Yeh Tauq-o-Beri Pehnana Tu Marzi-e-Rab Hai
+Ali Ki Warna Jalalat Hain Syed-e-Sajjad
 
 5
-Hasan Hussain Ki Jis Maa Ne Tarbiyaat Ki Thi.
-Ossi Ke Ilm Ki Mehnat Hain Syed-e-Sajjad.
-:REHAN AZMI: Jo Kam Hashar Mein De Gi.
-Hamarey Pas Woh Dolat Hain Syed-e-Sajjad.
+Hasan Hussain Ki Jis Maa Ne Tarbiyaat Ki Thi
+Ossi Ke Ilm Ki Mehnat Hain Syed-e-Sajjad
+:REHAN AZMI: Jo Kam Hashar Mein De Gi
+Hamarey Pas Woh Dolat Hain Syed-e-Sajjad

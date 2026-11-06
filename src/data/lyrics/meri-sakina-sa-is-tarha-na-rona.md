@@ -5,7 +5,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: ["noImage", "noRoman", "noPanjabi"]
+tags: ["noImage", "noRoman"]
 aliases: []
 published: false
 # source_id: ziyaraat:a19aa35d83dcf10bdf95
@@ -13,7 +13,7 @@ published: false
 # raw_sha256: ab4bce36516eb7491966075f0968a88e890c82ded090dd825e21cdc81a27f6d2
 ---
 
-(Meri Sakina is terhaa naa rona).
+(Meri Sakina is terhaa naa rona)
 
 ۱
 (Tum jawo kaha(n) Allah Jane maqtal me rahe kis haal mei hum)

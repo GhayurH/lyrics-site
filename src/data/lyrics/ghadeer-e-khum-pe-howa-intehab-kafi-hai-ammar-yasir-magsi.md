@@ -4,7 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b4e073edc0feb6b59896
@@ -13,14 +13,14 @@ published: false
 ---
 
 1
-Ghadeer e Khum Pe Howa Intehab Kafi Hai Ammar Yasir Magsi.
-Humein Hadees-e-Risalat Maab Kafi Hai.
-Ghadeer-e-Khum Pe Howa Intekhab Kafi Hai.
-Samjhna Chaho Agar Kulona Muhammad Ko.
-Khateeb-e-Nook-e-Sina Ka Khitab Kafi Hai.
-Ossi Zaban Se Jari Howa Tha Lau La Ali.
-Jo Keh Rahi Thi Khuda Ki Kitab Kafi Hai.
-Sawal-e-Bait-e-Fasiq Ko Hashar Tak Ke Liye.
-Hussain Teri Nahi Ka Jawab Kafi Hai.
-Woh Aik Ashk Jo Romal-e-Syeda Pe Girey.
-Woh Aik Ashk Bara-e-Sawab Kafi Hai.
+Ghadeer e Khum Pe Howa Intehab Kafi Hai Ammar Yasir Magsi
+Humein Hadees-e-Risalat Maab Kafi Hai
+Ghadeer-e-Khum Pe Howa Intekhab Kafi Hai
+Samjhna Chaho Agar Kulona Muhammad Ko
+Khateeb-e-Nook-e-Sina Ka Khitab Kafi Hai
+Ossi Zaban Se Jari Howa Tha Lau La Ali
+Jo Keh Rahi Thi Khuda Ki Kitab Kafi Hai
+Sawal-e-Bait-e-Fasiq Ko Hashar Tak Ke Liye
+Hussain Teri Nahi Ka Jawab Kafi Hai
+Woh Aik Ashk Jo Romal-e-Syeda Pe Girey
+Woh Aik Ashk Bara-e-Sawab Kafi Hai

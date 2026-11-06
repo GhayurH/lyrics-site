@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage", "noPanjabi"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
@@ -39,7 +39,7 @@ romanLyrics: |-
   Kaam mera matame shabbir hai
   
   8
-  .
+
   Dekh ummat dekh le akbar ki laash
   Ye nabi ki khoon bhari tasveer hai
   

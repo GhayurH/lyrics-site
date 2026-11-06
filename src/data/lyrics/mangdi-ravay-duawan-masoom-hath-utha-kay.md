@@ -5,7 +5,7 @@ lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: ["noImage", "noUrdu", "noPanjabi"]
+tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:16305a907246439f8cec
