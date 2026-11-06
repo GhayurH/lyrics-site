@@ -189,9 +189,17 @@ for path in sorted(ROOT.glob("*.md")):
         if not reason or not any("refrain" in x for x in reason):
             if orig!=new: raise AssertionError(f"verse text was changed: {path}")
         else:
-            original_filtered=[x for x in orig if not FRAGMENT.search(x)]
-            if original_filtered!=new:
-                raise AssertionError(f"unexpected refrain removal: {path}")
+            cursor=0
+            for line in new:
+                while cursor<len(orig) and orig[cursor]!=line:
+                    if not FRAGMENT.search(orig[cursor]):
+                        raise AssertionError(f"unexpected verse deletion: {path}")
+                    cursor+=1
+                if cursor==len(orig):
+                    raise AssertionError(f"unexpected added verse: {path}")
+                cursor+=1
+            if any(not FRAGMENT.search(x) for x in orig[cursor:]):
+                raise AssertionError(f"unexpected trailing deletion: {path}")
     updated="---\n"+safe_roman_field(front,newroman)+"\n---\n"+newurdu.rstrip("\n")+"\n"
     if updated != raw:
         path.write_text(updated,encoding="utf-8")
