@@ -9,88 +9,37 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ya Hussain, Ya Hussain Ya Hussain, Ya Hussain
-
-
-  1
-
+romanLyrics: |-
   Mein jhoola jhulaon, mein tujhay jhoola jhulaon
-
   Mein khuwaab mein Asghar tujhay, lori bhi sunaoon
 
-  Tujhay jhoola jhulaon, mein tujhay jhoola jhulaon
-
-
-  2
-
-  1. Laut aao safar sey ke badi deyr huwi hay
-
+  1
+  Laut aao safar sey ke badi deyr huwi hay
   Betaab hu kabsey tujhay seenay sey lagaoon
 
-
-  3
-
-  2. Koi mujhay batlata nahi teri nishani
-
+  2
+  Koi mujhay batlata nahi teri nishani
   Barsaat mein teeroon ki kahan dhoondnay jaon
 
-
-  4
-
-  3. Socha tha teri saalgirah ghar mein karoongi
-
+  3
+  Socha tha teri saalgirah ghar mein karoongi
   Taqdeer yeh kehti hay tera soug manaoon
 
-
-  5
-
-  4. Baba say teray tera janaza na uthayga
-
+  4
+  Baba say teray tera janaza na uthayga
   Ruk ja zara Abbas ko dariya sey bulaon
 
-
-  6
-
-  5. Yeh Khoon mein bhara kurta, yeh matti mein bharay baal
-
+  5
+  Yeh Khoon mein bhara kurta, yeh matti mein bharay baal
   Seenay mein chupaon ke mein aankhoon sey lagaoon
 
-
-  7
-
-  6. Iss tarha Koi rooth ke maa sey nahi jata
-
+  6
+  Iss tarha Koi rooth ke maa sey nahi jata
   Tu Khud he bata dey mein tujhay kaisay manaoon
 
-
-  8
-
-  7. Rehan ke nohay sey sada baano ki ayee
-
+  7
+  Rehan ke nohay sey sada baano ki ayee
   Mein aankhoon sey askhkoon ke samander ko bahaoon
-
-
-  9
-
-  Mai khaab may asghar tujhe lori bhi suna''un
-
-  Laut aao safar se ke badi dayr hui hai
-
-  Betaab hoo kabse tuhjhe seene se laga''un
-
-
-  10
-
-  Ye khoon bhara kurta ye matti may bhare baal
-
-  Seene may chupa''un ke mai aankhon se laga''un
-
-
-  11
-
-  Rehaan ke nauhe pe sada bano ki aayi
-
-  Mai aankhon se ashkon ke samandar ko baha''un'
 reciter: Hasan Sadiq
 # source_id: nohayonline:14da9c0342a3dd771485
 # source_url: https://www.nohayonline.com/details_content.php?id=624
@@ -100,14 +49,12 @@ reciter: Hasan Sadiq
 # raw_sha256: f8c47fe679e5930ce7a8c0b088c530d44c41814221aab1288e566c375dac5df9
 # added_stanza_source: roman:kalam-nohayonline-14da9c0342a3dd771485
 ---
-
 تجھے جھُولا جھُلاؤں میں تجھے جھُولا جھُلاؤں
 میں خواب میں اصغرؑ تجھے لوری بھی سُناؤں
 
 ۱
 لوٹ آئو سفر سے کہ بڑی دیر ہوئی ہے
 بیتاب ہوں کب سے تجھے سینے سے لگاؤں
-تجھے جھُولا جھُلائوں ۔۔۔
 
 ۲
 کوئی مجھے بتلاتا نہیں تیری نشانی

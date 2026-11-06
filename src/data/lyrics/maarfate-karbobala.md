@@ -10,39 +10,44 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Wo jise maarifat e karbobala hojaye
   Usko salman ki beenayi ata hojaye
+
+  1
   Majlison mein chale aao ghame shabbir karo
   Ye to wo gham hai ke har gham ki dawa hojaye
-  Wo jise maarifate...
+
+  2
   Dil mein boo e ghame shabbir basaye rakhna
   Dil ke koozon se ye khushboo na juda hojaye
-  Wo jise maarifate...
+
+  3
   Zikre abbas e alamdar kiya kar har dam
   Taa ke tu waaqif e aadaab e wafa hojaye
-  Wo jise maarifate...
+
+  4
   Sab masiha hai mohamed ke gharane waale
   Naam bemaar jo le le to shifa hojaye
-  Wo jise maarifate...
+
+  5
   Aag qaimon mein layeeno ne lagadi dekho
   Kisi maa se koi bacha na juda hojaye
-  Wo jise maarifate...
+
+  6
   Halq e asghar ko to pani ki zaroorat thi magar
   Teer se zakhmi na asghar ka gala hojaye
-  Wo jise maarifate...
+
+  7
   Midhat e aale-mohamed mai na chodunga urooj
   Mujhse hota hai agar koi khafa hojaye
-  Wo jise maarifate...
 # source_id: nohayonline:2e7177416fef1832ff44
 # source_url: https://www.nohayonline.com/details_content.php?id=2094
 # raw_sha256: 098d5c2ef3be77405cdd29a0ec34f734e951db98eabd196ad643571f381a781f
 ---
-
 وہ جسے معرفتِ کربوبلا ہو جاے
+اسکو سلمان کی بینای عطا ہو جاے
 
 ۱
-اسکو سلمان کی بینای عطا ہو جاے
 مجلسوں میں چلے آؤ غمِ شبیر کرو
 یہ تو وہ غم ہے کہ ہر غم کی دوا ہو جاے
 
