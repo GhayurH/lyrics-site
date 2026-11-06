@@ -9,33 +9,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Ashk e gham may hai neha karb ke manzar kitne
   Chand khatron may simat aaye samandar kitne
+
+  1
   Janisaran e hussaini hai parakhle dunya
   Hum bhi dekhe ke tere paas hai khanjar kitne
-  Ask e gham may…
+
+  2
   Sar to zakhmi hua apna ye magar jaan gaye
   Kis kamigaah se phayke gaye pathar kitne
-  Ask e gham may…
+
+  3
   Naam allah ka lene ke liye maaz-allah
   Log tameel kiye baithe hai khyber kitne
-  Ask e gham may…
+
+  4
   Ulfate aal ka dunya ne sila khoob diya
   Lutgaye kitne makeen khaak huye ghar kitne
-  Ask e gham may…
+
+  5
   Ek aalam hai ke rota hai ghame sarwar may
   Bandh baandhenge jigar aap to ghar ghar kitne
-  Ask e gham may…
 # source_id: nohayonline:ef191d43c24e813baaca
 # source_url: https://www.nohayonline.com/details_content.php?id=749
 # raw_sha256: 3a6fe27cad3d772338d3d56fc5babe0c3ccf41ec2af891427ece48aa274a1f20
 ---
-
 اشکِ غم میں ہیں نہاں کرب کے منظر کتنے
+چند قطروں میں سمٹ آئے سمندر کتنے
 
 ۱
-چند قطروں میں سمٹ آئے سمندر کتنے
 جانثارانِ حُسینی ہیں پرکھ لے دنیا
 ہم بھی دیکھیں کے تیرے پاس ہیں خنجر کتنے
 

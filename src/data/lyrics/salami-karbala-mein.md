@@ -10,33 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Salaami karbala mein jab huwe shabbir ke tukde
   Uday quran ke purze huwe tafseer ke tukde
+
+  1
   Udhar maqtal mein bhai ke galay pe taygh chalti thi
   Idhar qaime mein hote thay dil e hamsheer ke tukde
-  Salaami karbala mein jo...
+
+  2
   Ye mazloomi ka aalam tha gade thay jism e athar mein
   Tabar ke neemche ke teer ke shamsheer ke tukde
-  Salaami karbala mein jo...
+
+  3
   Zuban se lafze allah keh ke ro dete thay abid
   Tumhari yaad mein akbar huwe takbeer ke tukde
-  Salaami karbala mein jo...
+
+  4
   Aseer e shaam ka ye haal tha ranj e masafat mein
   Ke ghis ghis kar huwe thay paon ki zanjeer ke tukde
-  Salaami karbala mein jo...
+
+  5
   Meri hichki bandhi zikre ghame shabbir mein nayyar
   Huwe hai josh e girya se meri taqreer ke tukde
-  Salaami karbala mein jo...
 # source_id: nohayonline:91524b265b42305ea756
 # source_url: https://www.nohayonline.com/details_content.php?id=2191
 # raw_sha256: da5f375f379470f45642686d506c1102c3b3d20a3f229a5c5753eb63bd0c907d
 ---
-
 سلامی کربلا میں جب ہوے شبیر کے ٹکڑے
+اڑے قرآن کے پرزے ہوے تفسیر کے ٹکڑے
 
 ۱
-اڑے قرآن کے پرزے ہوے تفسیر کے ٹکڑے
 ادھر مقتل میں بھای کے گلے پہ تیغ چلتی تھی
 ادھر خیمے میں ہوتے تھے دل ہمشیر کے ٹکڑے
 

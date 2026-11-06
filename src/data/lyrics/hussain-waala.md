@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain waala har ek lamha
-  
+
   1
   Hussain ka gham mana raha hai
   Aza e sarwar hai farz is par
@@ -19,91 +19,75 @@ romanLyrics: |-
   Koi bichata hai farshe majlis
   Fareeza isko samajh ke apna
   Koi hadees e kisa ko pad kar
-  
-  2
   Kare hai aaghaaz majlison ka
   Hai koi aisa ke rone walon
   May ho raha hai shumaar jiska
   Hai koi aisa jo baade majlis
   Hame ziarat pada raha hai
-  Hussain wala har ek lamha…
-  
-  3
+
+  2
   Kisi ne seekha hai farshe majlis
   Pe aake soz o salaam padna
   Likha anees o dabeer ne jo
   Wo marsia bazm may sunana
   Kisi ne seekha hai shaahe waala
   Ki majlison se khitaab karna
-  
-  4
   Jo zeb o mimbar hua hai wo hi
   Viqaar apna badha raha hai
-  Hussain wala har ek lamha…
+
+  3
   Bana raha hai koi aqeedat
   Se taaziya aur zareeh e sarwar
   Wo is amal se bata raha hai
-  
-  5
   Ke hai wo shaahe zaman ka naukar
   Saja raha hai koi to parcham
   May mashk tashna labon ko ro kar
   Uthake phir wo jari ka parcham
   Wafa jari se nibha raha hai
-  Hussain wala har ek lamha…
-  
-  6
+
+  4
   Kisi ke hisse may aaya naame
   Hussain maula pilaana pani
   Jagah jagah par saja raha hai
   Ba-naame asghar sabeel koi
   Wo jiske hisse may aayi rakhwali
   Zuljanaah shahe zaman ki
-  
-  7
   Wo aspe shaahe zaman saja kar
   Naseeb apna jaga raha hai
-  Hussain wala har ek lamha…
+
+  5
   Koi to matam kuna hai pyason
   Pe majlison may bana ke halqa
   Ye pesh zahra ko kar raha hai
-  
-  8
   Sada e matam se sheh ka pursa
   Kisi ne zanjeer ka kiya hai
   Kisi ne matam kiya qamah ka
   Jo de raha hai lahoo ka pursa
   Jo khoon apna baha raha hai
-  Hussain wala har ek lamha…
-  
-  9
+
+  6
   Farishte sattar hazaar nauha
   Kuna hai qabre shahe umam par
   Ye keh rahe hai ke haye shabbir
   Haye abbas haye akbar
   Usi bashar ko duayein karbobala
   Se dene ko aaye sarwar
-  
-  10
   Jo rauza e dukhtare ali ke
   Difaa may jaan luta raha hai
-  Hussain wala har ek lamha…
+
+  7
   Koi to izhaar likh raha hai
   Qalam se shaahe zaman ke nauhe
   Ye likh ke nauhe bata raha hai
-  
-  11
   Ke reh gaye shaahe deen pyase
   Rula raha hai koi jahan ko
   Hussain maula ka nauha pad ke
   Ye nauhakhwan padke nauha sab ko
   Kahani gham ki suna raha hai
-  Hussain wala har ek lamha…
 # source_id: nohayonline:d29414c689b25f205efe
 # source_url: https://www.nohayonline.com/details_content.php?id=1143
 # raw_sha256: 92b650d5112fc41a9986fcfaa89d0b2e144fc709e4bbbf32fbbfa094f69940f2
 ---
-
 حُسین والا ہر ایک لمحہ
 
 ۱

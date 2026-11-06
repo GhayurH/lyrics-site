@@ -10,33 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Abbas ka jab zikr e wafa karti thi sughra
   Bas khair ki us waqt dua karti thi sughra
+
+  1
   Ek bar bhare ghar ko mai in aankhon se dekhoo
   Ro ro ke madina mein dua karti thi sughra
-  Abbas ka jab zikre...
+
+  2
   Pardes mein baba ne mujhe dil se bhulaya
   Shikwa yehi nani se kiya karti thi sughra
-  Abbas ka jab zikre...
+
+  3
   Ab ghutniyo chalne laga hoga mera asghar
   Ye keh ke bohat yaad kiya karti thi sughra
-  Abbas ka jab zikre...
+
+  4
   Aata tha madina mein agar koi musafir
   Bechain bohat sunke hua karti thi sughra
-  Abbas ka jab zikre...
+
+  5
   Ek aas lagaye hue wo baithi thi dar par
   Aayenge chacha lene kaha karti thi sughra
-  Abbas ka jab zikre...
 # source_id: nohayonline:b286da9a03add19aaf07
 # source_url: https://www.nohayonline.com/details_content.php?id=3
 # raw_sha256: 6998ec74ad2f7c4218cf7d81012b27880df73d94140bd24d182ab54b8e9e9611
 ---
-
 عباس کا جب ذکر وفا کرتی تھیں صغرا
+بس خیر کی اس وقت دعا کرتی صغرا
 
 ۱
-بس خیر کی اس وقت دعا کرتی صغرا
 اک بار بھرے گھرکو میں ان آنکھوں سے دیکھوں
 رو رو کے مدینے میں دعا کرتی تھیں صغرا
 
