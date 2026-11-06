@@ -10,10 +10,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Aa hosh mein sajjad ke ghar jal gaye saare
-  
-  1
   Sab toot gaye zainab e muztar ke sahare
-  Ghode ke qadam thaam ke kehti thi sakina
+
+  1
+  Ghore ke qadam thaam ke kehti thi sakina
   Baba ho mujhe chod chale kis ke sahare
   
   2
@@ -73,9 +73,9 @@ romanLyrics: |-
 ---
 
 آ ہوش میں سجاد کے گھر جل گےء سارے
+سب ٹوٹ گےء زینب مضطر کے سہارے
 
 ۱
-سب ٹوٹ گےء زینب مضطر کے سہارے
 گھوڑے کے قدم تھام کے کہتی تھی سکینہ
 بابا ہو مجھے چھوڑ چلے کس کے سہارے
 

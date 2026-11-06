@@ -11,9 +11,10 @@ published: false
 romanLyrics: |-
   Aa asghar mere aa asghar aa asghar
   
-  1
   Lipti hui jhoole se ye kehti rahi maadar
   Din dhal gaya hai aaja aaja ali asghar
+
+  1
   Hai itna andhera ke nazar kuch nahi aata
   Ay chand mere noore nazar laut ke aaja
   
@@ -51,9 +52,10 @@ romanLyrics: |-
 
 آ اصغر میرے آ اصغر آ اصغر
 
-۱
 لپٹی ہوی جھولے سے یہ کہتی رہی مادر
 دن ڈھل گیا ہے آجا آجا علی اصغر
+
+1
 ہے اتنا اندھیرا کہ نظر کچھ نہیں آتا
 اے چاند میرے نورِ نظر لوٹ کے آجا
 

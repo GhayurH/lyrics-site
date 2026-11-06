@@ -9,11 +9,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa gaya madina
   
-  1
   Lutke aa gaya watan fatema ka kunba
   Aa gaya madina aa gaya madina
+
+  1
   Kaisi ye udasiyan fizaon par hai taari
   Aa rahe hai qudsiya alam siyaah amaari
   Kaisa dardnaak hai musafiron ka kissa
@@ -67,11 +67,10 @@ romanLyrics: |-
 # raw_sha256: be85540061dd58f12673d04d45d7d69439161cfbb41392f65887518be32429c4
 ---
 
-آ گیا مدینہ
-
-۱
 لٹ کے گیا وطن فاطمہ کا کنبہ
 آ گیا مدینہ آ گیا مدینہ
+
+۱
 کیسی یہ اداسیاں فضاؤں پر ہے طاری
 آ رہے ہیں قدسیاں علم سیاہ عماری
 کیسا درد ناک ہے مسافروں کا قصہ
