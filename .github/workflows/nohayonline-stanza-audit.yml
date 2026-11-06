@@ -18,7 +18,7 @@ jobs:
           python - <<'PY'
           import re, collections, pathlib, yaml
           folder=pathlib.Path('src/data/lyrics')
-          marker=re.compile(r'^\\s*[0-9۰-۹٠-٩]+[.)]?\\s*$')
+          marker=re.compile(r'^\s*[0-9۰-۹٠-٩]+[.)]?\s*$')
           stats=collections.Counter()
           cases=[]
           def breaks(s):
@@ -37,7 +37,7 @@ jobs:
               if '# source_id: nohayonline:' not in raw: continue
               stats['nohayonline_files']+=1
               try:
-                  first,urdu=raw[4:].split('\\n---\\n',1)
+                  first,urdu=raw[4:].split('\n---\n',1)
                   data=yaml.safe_load(first)
                   roman=data.get('romanLyrics') or ''
               except Exception as e:
