@@ -1,0 +1,28 @@
+{
+  "format": "nohayonline-poet-handoff-v1",
+  "records": 3357,
+  "chunks": [
+    {
+      "file": "part-0001.jsonl",
+      "count": 1252,
+      "sha256": "3a1f2281b33228e1515b138a4bd672cc625ca9388d41197eeac389118740d451"
+    },
+    {
+      "file": "part-0002.jsonl",
+      "count": 1254,
+      "sha256": "2c3ef8c3b9fa49d6def86bc912ed3e67aa5aade4b766e7251e9352c248bcb6e5"
+    },
+    {
+      "file": "part-0003.jsonl",
+      "count": 851,
+      "sha256": "cdbb108d020959f0db0a07bc9315050af15ba3e346dca380544479742962db84"
+    }
+  ],
+  "stats": {
+    "metadata": 3819,
+    "single_shayar": 3357,
+    "without_shayar": 462,
+    "invalid_credits": 1
+  },
+  "conflicts": []
+}
