@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Tamam shab rahi qaimon ki pasban zainab
-  
-  1
   Hazaar ranj o musibat mein natawan zainab
+
+  1
   Ali ki beti ne chupne diya na khoone hussain
   Sabab o himmat o jurrat ka hai bayan zainab
-  
+
   2
   Wo daagh dil pe thay jeena muhaal tha lekin
   Thi ek sahara aseeron ke darmiyan zainab
-  
+
   3
   Kabhi to koofa kabhi shaam aur kabhi darbar
   Phiri aseeri mein dar dar kahan kahan zainab
-  
+
   4
   Bhatije bhanje bete na koi bhai raha
   Hai ek ranj o musibat ki daastan zainab
-  
+
   5
   Guzar ke kufe se balon se moo chupaye huye
   Chali hai shaam mein dene ko imtehan zainab
-  
+
   6
   Nabi ka azm ali ka jalaal azme hussain
   Thi shaam o kufe mein kis kis ki tarjuma zainab
-  
+
   7
   Urooj deen ka zikre hussain se hai urooj
   Ye aam kar gayi paighame khastajan zainab
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=824
 # raw_sha256: 097bede7f9151c5555b1f1bf70d67fdcceff2b647ed898ec82a70847c52f8831
 ---
-
 تمام شب رہی خیموں کی پاسباں زینب
+ہزار رنج و مصیبت میں ناتواں زینب
 
 ۱
-ہزار رنج و مصیبت میں ناتواں زینب
 علی کی بیٹی نے چھُپنے دیا نہ خونِ حُسین
 سبب و ہمت و جرا،ت کا ہے بیاں زینب
 

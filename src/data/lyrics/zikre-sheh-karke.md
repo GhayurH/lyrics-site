@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Zikre sheh karke muhibbon ko rulaya maine
-  
-  1
   Apna ghar mujraee jannat may banaya maine
+
+  1
   Sheh ne farmaya karunga na gila ummat ka
   Pani do roz na paaya to na paaya maine
-  
+
   2
   Sheh ne farmaya mere bhai ke baazu kaate
   Is pa bhi haath na ummat pa uthaya maine
-  
+
   3
   Maara akbar ko to kehta tha yehi ibne numair
   Aj tasveer e mohamed ko mitaya maine
-  
+
   4
   Sheh ne qasid se kaha beti ko kya khat likhta
   Aake yan ek ghadi chain na paaya maine
-  
+
   5
   Kahiyo sughra se ke mushkil hai watan may aana
   Ab to bibi is jangal ko basaya maine
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1256
 # raw_sha256: 0800aac2f653ccc4af8aa7955b1ebdb554ba94d78b9d99e5017add07c03482d5
 ---
-
 ذکرِ شہ کرکے محبوں کو رلایا میں نے
+اپنا گھر مجرای جنت میں بنایا میں نے
 
 ۱
-اپنا گھر مجرای جنت میں بنایا میں نے
 شہ نے فرمایا کرونگا نہ گلہ امت کا
 پانی دو روز نہ پایا تو نہ پایا میں نے
 

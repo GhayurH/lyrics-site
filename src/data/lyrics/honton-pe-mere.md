@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Honton pe mere naam e ali naam e ali hai
-  
-  1
   Sunkar jise mushkil badi mushkil may padi hai
+
+  1
   Apna to wohi rab wohi quran o nabi hai
   Chauda sau baras pehle jo tha deen wohi hai
-  
+
   2
   Hai baara imamo ki wohi rehbari ab bhi
   Ek baat bhi isme na badi hai na ghati hai
-  
+
   3
   Hai panjetan e paak kisi darse ibarat
   Apne liye jo raahe amal humne chuni hai
-  
+
   4
   Maa kehti thi qasim to suye khuld sidhare
   Kubra ke muqaddar may likhi dar badari hai
-  
+
   5
   Bano ka ye nauha ke kab aaoge asghar
   Aghosh may lene ko ye maa dar pe khadi hai
-  
+
   6
   Gardan se sakina ke koi khol de rassi
   Bachi ka gala ghut'ta hai ab saans ruki hai
-  
+
   7
   Zainab ne kaha chod gayi saath sakina
   Nanhi si lehad shaam ke zindan may bani hai
-  
+
   8
   Shehzadi kahi jaati thi koofe may jo zainab
   Be-parda wahin ab sare darbar khadi hai
-  
+
   9
   Beti hai yehi fatema zehra o ali ki
   Bazaron may jo saath chali jo ke phiri hai
-  
+
   10
   Ye matame sheh zeest ka haasil hai mujahid
   Dam seene may jab tak hai yehi nauhagiri hai
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=650
 # raw_sha256: d9d7b7bb9282aaee7e4dd758caf01a209dda3273f9c78936990fc217d1a5ed9a
 ---
-
 ہونٹوں پہ میرے نامِ علی نامِ علی ہے
+سُن کر جسے مشکل بڑی مشکل میں پڑی ہے
 
 ۱
-سُن کر جسے مشکل بڑی مشکل میں پڑی ہے
 اپنا تو وہی رب وہی قرآن و نبی ہے
 چودہ سو برس پہلے جو تھا دین وہی ہے
 

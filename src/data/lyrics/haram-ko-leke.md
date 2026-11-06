@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Haram ko leke suye shaam jab badi zainab
-  
-  1
   Kabhi hussain bani aur kabhi ali zainab
+
+  1
   Wo bekhabar thay ke tareek ho rahi hai raqam
   Jo keh rahe thay isay teri bebasi zainab
-  
+
   2
   Khuda ka deen hai zinda hussain ke dam se
   Hussainiat ko mili tujhse zindagi zianab
-  
+
   3
   Yazeediyon ne bahot koshishein to ki lekin
   Kisi se kam na hui teri bartari zainab
-  
+
   4
   Usay giraana tha khutbon se shaam ka khyber
   Ali ke lehje mein kyun kar na bolti zainab
-  
+
   5
   Ali ko jo shab e hijrat khuda ne bechi thi
   Ali se tu ne wo marzi khareed li zainab
-  
+
   6
   Huwe na khatm pas e karbala bhi zulm o sitam
   Gayi hai shaam talak tere tashnagi zainab
-  
+
   7
   Thay ek rasan may jo baara galay rasan basta
   Rasan khuli to sakina nahi rahi zainab
-  
+
   8
   Yehi nahi ke rasan basta haath hai tere
   Ghazab hua ke rida sar se chin gayi zainab
-  
+
   9
   Badan sikasta rasan basta majma e aada
   Azaan may naam e nabi sun ke ro pari zainab
-  
+
   10
   Kisi ne maanga kaneezi mein jab sakina ko
   Jigar pakad ke pukaari ali ali zainab
-  
+
   11
   Rehaai paa ke watan ke liye rawana hui
   Tadap ke kehti thi abbas ghar chali zainab
-  
+
   12
   Qalam ki aankh se behta hai khoon ali ansar
   Wo dastan e haram khoon se likh gayi zainab
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2913
 # raw_sha256: 6c13b18f9817aa7625aa60c6d2dc2f4b382c252f8e0f1e20f28f2ba54312d26c
 ---
-
 حرم کو لے کے سوے شام جب بڑی زینب
+کبھی حسین بنی اور کبھی علی زینب
 
 ۱
-کبھی حسین بنی اور کبھی علی زینب
 وہ بیقرار تھے کہ تاریک ہو رہی ہے رقم
 جو کہہ رہے تھے اسے تیری بے بسی زینب
 

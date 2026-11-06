@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Pathar hai aankh jis mein ke ashk e aza nahi
-  
-  1
   Wo dil nahi ke jis mein ali ki wila nahi
+
+  1
   Jis qalb mein mawaddat e aale iba nahi
   Samjho nabi se usko koi waasta nahi
-  
+
   2
   Bas us pe zeb deti hai dastaar e mustafa
   Jo sar yazeediyat ke muqabil jhuka nahi
-  
+
   3
   Karbobala najaat e bashar ki ikayi hai
   Karbobala ke baad koi karbala nahi
-  
+
   4
   Hai dil ghame hussain mein ek ashk ke aewaz
   Gar khuld mil rahi hai to sauda bura nahi
-  
+
   5
   Sadiyon se jal raha hai charaghe ghame hussain
   Ashkon ka ye charaagh hawa se bujha nahi
-  
+
   6
   Islam ke waqaar pe khanjar chala tha ye
   Shabbir ke galay pe ye khanjar chala nahi
-  
+
   7
   Aao ghame hussain mein matam bapa kare
   Ye wo namaz e ishq hai jiski qaza nahi
-  
+
   8
   Zainab khadi hai ad-jale qaimon ke darmiyan
   Kya waqt aagaya hai ke sar pe rida nahi
-  
+
   9
   Zainab ne be-ridayi se bazaar e shaam tak
   Wo kaunsa sitam hai jo dil par saha nahi
-  
+
   10
   Ya rab tere nabi ki shariyat to bach gayi
   Aal e nabi ke ghar mein to kuch bhi bacha nahi
-  
+
   11
   Ta zindagi muhib ne munafiq se jang ki
   Halaan ke uske haath mein koi asa nahi
@@ -60,11 +60,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1108
 # raw_sha256: 806e133f1d1f259fa4eeb7691adfea1196ca6c0a7eacf024a4c1aa82395d0fe9
 ---
-
 پتھر ہے آنکھ جس میں کہ آشک عزا نہیں
+وہ دل نہیں کہ جس میں علی کی ولا نہیں
 
 ۱
-وہ دل نہیں کہ جس میں علی کی ولا نہیں
 جس قلب میں مودت آل عبا نہیں
 سمجھو نبی سے اس کو کوئی واسطہ نہیں
 

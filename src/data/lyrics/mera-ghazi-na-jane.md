@@ -12,71 +12,61 @@ published: false
 romanLyrics: |-
   Jab huwe maqtool ghazi zulm ki shamsheer se
   Marsiya nikla tha logon ye dile shabbir se
-  
+
   1
   Nau shabein jaaga hua tha pasbane ahlebait
   Sogaya pehra badal kar zainabe dilgeer se
   Ye sada bar sare karbala hai
   Mera ghazi na jaane kahan hai
-  
+
   2
   Soona ban hai sitamgar hai ye shab
   Pehra deti he qaimon ka zainab
   Phir bhi honton pe ye marsiya hai
-  Mera ghazi na jaane...
-  
+
   3
   Sabr kaise karein ab sakina
   Pyaas karti hai dushwaar jeena
   Khushk honton pe bas ye buka hai
-  Mera ghazi na jaane...
-  
+
   4
   Jaanibe qaima aata hai lashkar
   Ye na ho shimr le jaaye chadar
   Bibi kulsoom ki ye sada hai
-  Mera ghazi na jaane...
-  
+
   5
   Kya kahe kis tarha de dilaase
   Mar na jaaye tadap kar ye pyase
   Nauha khwan binte khairunnisa hai
-  Mera ghazi na jaane...
-  
+
   6
   Bibi fizza ye karti hai naale
   Koi mushkil kusha ko bulale
   Zulm ki zad pe aale abaa hai
-  Mera ghazi na jaane...
-  
+
   7
   Shor utha wo aaye sitamgar
   Chin gayi chadarein aur jala ghar
   Ek ek bibi mehwe buka hai
-  Mera ghazi na jaane...
-  
+
   8
   Bain karti hai zainab ye ro kar
   Ek naize pe hai bhai ka sar
   Ek naize pe meri rida hai
-  Mera ghazi na jaane...
-  
+
   9
   Lut gaye jab haram aaye hyder
   Baap se boli zainab ye ro kar
   Dekho ujdi hui karbala hai
-  Mera ghazi na jaane...
-  
+
   10
   Aise irfan o mazhar buka ho
   Nauha khwani ka haq to ada ho
   Jab ke misra ye khud marsiya hai
-  Mera ghazi na jaane...
 # source_id: nohayonline:d81ebea343a68bead667
 # source_url: https://www.nohayonline.com/details_content.php?id=3577
 # raw_sha256: 68fe986a8ef47f1f2e1d824c90500278cb2949c4bb84894e19f8ac3f93e30eaf
 ---
-
 جب ہوے مقتول غازی ظلم کی شمشیر سے
 مرثیہ نکلا تھا لوگوں یہ دل شبیر سے
 
@@ -90,52 +80,43 @@ romanLyrics: |-
 سونا بن ہے ستمگر ہے یہ شب
 پہرہ دیتی ہے خیموں کا زینب
 پھر بھی ہونٹوں پہ یہ مرثیہ ہے
-میرا غازی نہ جانے۔۔۔
 
 ۳
 صبر کیسے کریں اب سکینہ
 پیاس کرتی ہے دشوار جینا
 خشک ہونٹوں پہ بس یہ بکا ہے
-میرا غازی نہ جانے۔۔۔
 
 ۴
 جانب خیمہ آتا ہے لشکر
 یہ نہ ہو شمر لے جاے چادر
 بی بی کلثوم کی یہ صدا ہے
-میرا غازی نہ جانے۔۔۔
 
 ۵
 کیا کہے کس طرح دے دلاسے
 مر نہ جائے تڑپ کر یہ پیاسے
 نوحہ خواں بنت خیر النساء ہے
-میرا غازی نہ جانے۔۔۔
 
 ۶
 بی بی فضہ یہ کرتی ہے نالے
 کوی مشکل کشاء کو بلالے
 علم کی ضد پہ آل عبا ہے
-میرا غازی نہ جانے۔۔۔
 
 ۷
 شور اٹھا وہ آے ستمگر
 چھن گیء چادریں اور جلا گھر
 ایک ایک بی بی محو بکا ہے
-میرا غازی نہ جانے۔۔۔
 
 ۸
 بین کرتی ہے زینب یہ رو کر
 ایک نیزے پہ ہے بھائی کا سر
 ایک نیزے پہ میری ردا ہے
-میرا غازی نہ جانے۔۔۔
 
 ۹
 لٹ گےء جب حرم آے حیدر
 باپ سے بولی زینب یہ رو کر
 دیکھو اجڑی ہوئی کربلا ہے
-میرا غازی نہ جانے۔۔۔
 
 ۱۰
 ایسے عرفان و مظہر بکا ہو
 نوحہ خوانی کا حق تو ادا ہو
 جب کہ مسرہ یہ خود مرثیہ ہے
-میرا غازی نہ جانے۔۔۔

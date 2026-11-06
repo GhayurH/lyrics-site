@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Baqer ke laadle ka taboot utha hai
-  
-  1
   Batlao musalmano kya is ki khata hai
+
+  1
   Qurba se mawaddat ki ye tafseer hai kaisi
   Likhi hai tum ne zulm ki tehreer ye kaisi
   Kya khoob diya tum ne risalat ka sila hai
-  
+
   2
   Farman e mohamed ko hai kyun tum ne bhulaya
   Kyun ahmed e mursal ko hai tum ne rulaaya
   Ki tum ne mohamed se ye kaisi wafa hai
-  
+
   3
   Kazim ki yateemi pe rote hai do jahan
   Masmoom ki mayyat pe zahra ki hai fughan
   Har soo dahar mein matam e jafar ki sada hai
-  
+
   4
   Ay kalmago khuda ka kuch khauf to karo
   Na dhao sitam is pe aise sitamgaron
   Turbat se mohamed ki ye aayi sada hai
-  
+
   5
   Bolo khamosh kyun ho quran ke qariyon
   Is baat ka khursheed ko lillah jawab do
@@ -41,11 +41,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2964
 # raw_sha256: 7560e7630c01c12392eb370d681911afa96efd1a730fe94e62dd640d58609ee2
 ---
-
 باقر کے لاڈلے کا تابوت اٹھا ہے
+بتلاؤ مسلمانوں کیا اس کی خطا ہے
 
 ۱
-بتلاؤ مسلمانوں کیا اس کی خطا ہے
 قربا‌ سے مودت کی یہ تفسیر ہے کیسی
 لکھی ہے تم نے ظلم کی تحریر یہ کیسی
 کیا خوب دیا تم نے رسالت کا صلہ ہے

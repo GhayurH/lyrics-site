@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa pukare laut aao mere pyare asghar
-  
-  1
   Jeena mushkil hai mera ay maa ke dulare asghar
+
+  1
   Tu ne jaana kya khabar thi gar meri jaan maa hoo
   Bhool na paaungi tujhko zindagi bhar chaahun
   Dekhle haal mera ay maa ke sahare asghar
-  
+
   2
   Apne haathon se sajaya tujhko dulhe ki tarha
   Meri aaghosh hai veeran dekh jhoole ki tarha
   Sunlo maadar ki sada ay jaan se pyare asghar
-  
+
   3
   Tu gaya jab se hai beta tere bin jee na sakun
   Hai qasam mujhko meri jaan ab na saaye may rahun
   Maa ko chehra to dikha maa sadqa utaare asghar
-  
+
   4
   Maa ki jageer hai bas kya hai shaluka tera
   Teri masoom adayein wo machalna tera
   Teri maa tujhpe fida awaaz suna de asghar
-  
+
   5
   Beta roti hai sakina sunke ye gham ka sukhan
   Khoon may tar mere asghar ko mila kaisa kafan
   Aakhri ek diya ro ro ke jalaye asghar
-  
+
   6
   Bole asghar mai hoo kamsin par hoo ghazi sa jari
   Mujh may zahra ki mehek hai mai bhi hoo khoon e ali
   Teri godhi ka sila maqtal may dikaaye asghar
-  
+
   7
   Meri saanson may meri maa teri khushboo hai rachi
   Aur nigahon may hai meri teri mamta hai shabi
   Tere pehlu ke bina ab chain na paaye asghar
-  
+
   8
   Tere yawar ki dua hai mere maula asghar
   Aisi aulaad ataa kar jo ho teri naukar
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2556
 # raw_sha256: 7cd23359716cd989ee94063aa4ba220de15584e3cfb2c22f97e4bad56972bb4a
 ---
-
 ماں پکارے لوٹ آؤ میرے پیارے اصغر
+جینا مشکل ہے میرا اے ماں کے دلارے اصغر
 
 ۱
-جینا مشکل ہے میرا اے ماں کے دلارے اصغر
 تو نے جانا کیا خبر تھی گر میری جان ماں ہوں
 بھول نہ پاؤں گی تجھکو زندگی بھر چاہوں
 دیکھلے حال میرا اے ماں کے سہارے اصغر

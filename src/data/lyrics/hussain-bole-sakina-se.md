@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain bole sakina se tum na ghabrana
-  
-  1
   Jo neend aaye to maqtal mein tum chali aana
+
+  1
   Mujhe pata hai bohat zulm dhaaye jayenge
   Chinegi chadarein qaime jalaye jayenge
   Magar zuban pa shikwa na meri jaan laana
-  
+
   2
   Ye wo zameen hai jahan tashnagi ki shiddat hai
   Tumhare naam yahan aur bhi qayamat hai
   Yahin milegi tamachon ka tum ko nazrana
-  
+
   3
   Kahin pe dhoop milegi kahin pe sannate
   Kahin pe phool milenge kahin kahin kaante
   Tum apne dil ki tarha aansuon ko behlana
-  
+
   4
   Sitam jo baaliyan maange to baaliyan dena
   Rasan kr waaste apni kaliayan dena
   Na mujhko aur na ammu ko dhoondhne aana
-  
+
   5
   Sukoon tumse mile to sukoon se mar bhi sakun
   Phir apne baad ki manzil se mai guzar bhi sakun
   Yaqeen dilaun ke tum ne mera kaha maana
-  
+
   6
   Rida chine to mujhe yaad kar ke ro lena
   Jo neend aaye to mere baghair so lena
   Khuda ka shukr har ek zulm par baja laana
-  
+
   7
   Hai tum se meri mulaqaat aakhiri bibi
   Mai tum se mil nahi paunga ab kabhi bibi
   Chalakne waala hai ab zindagi ka paimana
-  
+
   8
   Dilon mein kya hai zamane ka koi theek nahi
   Koi bhi bekas o mazloom ka shareek nahi
   Meri behen jahan jaaye wahan chali jaana
-  
+
   9
   Mohabbaton se bhari tujhse guftugu kar lun
   Jo dil mein reh gayi zaahir wo aarzoo kar lun
   Ab aane waala hai meri ajal ka parwana
-  
+
   10
   Hussain chal diye beti se guftugu kar ke
   Akele pan mein na rone ki aarzoo kar ke
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3749
 # raw_sha256: 4ca2ee67d8f05fcde99e5096970aee1a48841572d35763296fce55508777a12b
 ---
-
 حسین بولے سکینہ سے تم گھبرانا
+جو نیند آے تو مقتل میں تم چلی آنا
 
 ۱
-جو نیند آے تو مقتل میں تم چلی آنا
 مجھے پتہ ہے بہت ظلم ڈھاے جایینگے
 چھنے گی چادریں خیمے جلاے جاینگے
 مگر زبان پہ شکوہ نہ میری جاں لانا

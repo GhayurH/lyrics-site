@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Ro ke shabbir sada dete thay sada haye muslim
-  
-  1
   Kaun kufe mein tera laasha uthaye muslim
+
+  1
   Na mila laasha tera koi uthane waala
   Marsiya pad ke tera sog manane wala
   Tujh pe zehra o ali rone ko aaye muslim
-  
+
   2
   Misle abbas wafa teri bhi meinaar pe hai
   Sabr bhi tu ne kiya zulm o jafa per aise
   Zakhm seene se sabhi tu ne lagaye muslim
-  
+
   3
   Kufe waalon ne tujhe itna sataya muslim
   Kasr ki chath se tujhe aise giraya muslim
   Teri ghurbat ka ye gham mujhko sataye muslim
-  
+
   4
   Dekh kar suye najaf ro ke ye sarwar ne kaha
   Baba ummat ne naya zakhm diya wawaila
   Hogayi khoon se tar aaj kaba e muslim
-  
+
   5
   Tujh pe jo guzri usay kaise sunaye jaa kar
   Kya ruqayya ko tera haal bataye jaa kar
   Kaun ab jaa ke usay aas dilaaye muslim
-  
+
   6
   Kar masayib ka khula aise sahab aur safdar
   Inteha jis ki hui karbobala mein aa kar
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1561
 # raw_sha256: 87204bf068a4220f65e477c88b476177822127f642a4d02ed514431377daa1db
 ---
-
 روکے شبیر صدا دیتے تھے صدا ہاے مسلم
+کون کوفے میں تیرا لاشہ اٹھاے مسلم
 
 ۱
-کون کوفے میں تیرا لاشہ اٹھاے مسلم
 نہ ملا لاشہ تیرا کوئی اٹھانے والا
 مرثیہ پڑھ کے تیرا سوگ منانے والا
 تجھ پہ زہرا و علی رونے کو آے مسلم

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghareeb-o-bekaso laachar awara watan zainab
-  
-  1
   Muqadar ho chuke tere liye ranjo mehan zainab
+
+  1
   Nawasi mustafa ki noore chashme fatema zehra
   Ali ki laadli hai aur shahe deen ki behen zainab
-  
+
   2
   Duhaai hai duhaai baylcha zaalim ne mara hai
   Hui hai jaa ba haq pardes mein majrooh tan zainab
-  
+
   3
   Tameeme bad-gohar ke na khalaq ne kya sitam toda
   Aseere ranjo gham hai be-dayaro be-watan zainab
-  
+
   4
   Hussain ibne ali ka jis shajar mein sar tha aavezaar
   Usi ke zere saaya khoon mein tar hai khastatan zainab
-  
+
   5
   Wo teri pushte athar aur jarahat taziyano ki
   Har ek ko khoon rulata hai tera zakhmi badan zainab
-  
+
   6
   Kabhi bazaare kufa mein kabhi khasre yazeedi mein
   Kabhi darbar mein hai berida sheh ki behen zainab
-  
+
   7
   Na bhoola hai zamana aur na bhoolega qayamat tak
   Wo darbare yazeedi tere baazu aur rasan zainab
-  
+
   8
   Dua mirza ki hai bigdi kaneezo ki bana dije
   Tumhare dar pa aaye azaar hai charkhe gohan zainab
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=70
 # raw_sha256: 410a2b5bf5ac898f2340270ec5d13fbe417fddceb00462ae80adbe70c57f1eb2
 ---
-
 غریب و بے کس و لاچار آوارہ وطن زینب
+مقدر ہو چکے تیرے لیے مہن زینب
 
 ۱
-مقدر ہو چکے تیرے لیے مہن زینب
 نواسی مصطفیٰ کی نورِ چشمِ فاطمہ زہرا
 علی کی لاڈلی ہے اور شاہِ دیں کی بہن زینب
 

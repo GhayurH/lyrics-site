@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Sar jhukaye baithi hai chaar saal ki bacchi
-  
-  1
   Pani ko tarasti hai chaar saal ki bacchi
+
+  1
   Sab buzurg hasrat se dekhte hai chehre ko
   Soghwaar baithi hai chaar saal ki bacchi
-  
+
   2
   Dete hai tasalli sab kya rabab kya zainab
   Jis ke paas jaati hai chaar saal ki bacchi
-  
+
   3
   Apne baap ka laasha raat ke andhere mein
   Dhoondne nikalti hai chaar saal ki bacchi
-  
+
   4
   Karwatein badalti hai uski laash maqtal mein
   Jis ka naam leti hai chaar saal ki bacchi
-  
+
   5
   Maut ki sadaon ne itna dil dukhaya hai
   Aahaton se darti hai chaar saal ki bacchi
-  
+
   6
   Goshwaar chinte hai aur tamache lagte hai
   Girti hai sambhalti hai chaar saal ki bacchi
-  
+
   7
   Ek pahaad bano ke dil pa aur tootega
   Lo jahan se uth'ti hai chaar saal ki bacchi
-  
+
   8
   Kal tha baap ka seena waalida ka aanchal tha
   Ab lehad mein soti hai chaar saal ki bacchi
-  
+
   9
   Ab ye haal hai ishrat peet'ti hai sar bano
   Jab bhi yaad aati hai chaar saal ki bacchi
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2236
 # raw_sha256: af9eb732abae0c22158d0b7b19d79fdb90d46e009de93f6b74b37157c9893486
 ---
-
 سر جھکائے بیٹھی ہے چار سال کی بچی
+پانی کو ترستی ہے چار سال کی بچی
 
 ۱
-پانی کو ترستی ہے چار سال کی بچی
 سب بزرگ حسرت سے دیکھتے ہیں چہرے کو
 سوگوار بیٹھی ہے چار سال کی بچی
 

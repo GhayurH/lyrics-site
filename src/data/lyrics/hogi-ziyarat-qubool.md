@@ -10,115 +10,114 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Suno zawwar e hussain ibne ali
   Ek mazloom ki awaaz bulaati hai tumhe
   Aao naam tum sab ke mere dil pe hai likhe aao
   Apne maa baap ko is paak safar par lao
-  
-  2
+
+  1
   Kaun is darr ki ziyarat ka sharaf paata hai
   Jisko abbas bulaata hai wohi aata hai
   Hogi ziyarat qubool
   Hogi ziyarat qubool inshallah
-  
-  3
+
+  2
   Hoga raazi khuda inshallah
   Ek irfan e aza ek safeer e aza
   Mimbar pe de rahe hai ye sada
   Eemaan hussain wallah
-  
-  4
+
+  3
   Meri jaan hussain wallah
   Quran hussain wallah
   Meri pehchaan hussain wallah
   Wallah wallah ya hussain
-  
-  5
+
+  4
   Ghar se suye karbobala
   Hussain hussain
   Leke chalo maa ki dua
   Hussain hussain
-  
-  6
+
+  5
   Haathon mein ghazi ka alam
   Karte raho shukre khuda
   Jaanib e manzil ho qadam
   Nazron mein maula ka haram
-  
-  7
+
+  6
   Lab pe yehi nauha
   Eemaan hussain wallah
   Meri jaan hussain wallah
   Quran hussain wallah
-  
-  8
+
+  7
   Meri pehchaan hussain wallah
   Hoga raazi khuda
   Inshallah inshallah inshallah
   Hogi ziyarat qubool
-  
-  9
+
+  8
   Inshallah inshallah inshallah
   Bibi zehra se waada nibhate chalo
   Har qadam farshe matam bichate chalo
   Na ho garmi ka ehsaas aur na thakan
-  
-  10
+
+  9
   Karwan e azaa ko badhate chalo
   Hogi ziyarat qubool
   Inshallah inshallah inshallah
   Mera zawwar haji se kam to nahi
-  
-  11
+
+  10
   Arshe aazam se afzal hai ye sar zameen
   Haath khaali yahan se nahi jaoge
   Sar jhukane se pehle ye karlo yaqeen
   Hogi ziyarat qubool
-  
-  12
+
+  11
   Inshallah inshallah inshallah
   Zaaeron ki hai khidmat guzari sharaf
   Denge iska sila tumko shaahe najaf
   Mere abbas ke darr pe jaoge jab
-  
-  13
+
+  12
   Ek awaaz goonjegi charon taraf
   Hogi ziyarat qubool
   Inshallah inshallah inshallah
   Mai jo kehta hoon ay pursadaron suno
-  
-  14
+
+  13
   Apne bacchon ko bhi yehi taleem do
   Karbala aate jaate raho saal bhar
   Yahan ashoor aur mera chehlum karo
   Hoga raazi khuda
-  
-  15
+
+  14
   Inshallah inshallah inshallah
   Kya samajhte ho paidal safar ko bhala
   Is safar mein hai shaamil sabhi ambiya
   Ye safar hai ibadat shifa'at bhi hai
-  
-  16
+
+  15
   Khuld ko jaa raha hai yehi raasta
   Wallah wallah ya hussain
   Nahi bhoolenge azadaar
   Waada nibhayenge azadaar
-  
-  17
+
+  16
   Sayyed o sardaar sada inshallah
   Aayenge hum karbobala inshallah
   Mazhar o irfan e aza inshallah
   Khafile layenge sada inshallah
-  
-  18
+
+  17
   Karbobala aake lahoo khud ye pukarega
   Eemaan hussain wallah
   Meri jaan hussain wallah
   Quran hussain wallah
-  
-  19
+
+  18
   Meri pehchaan hussain wallah
   Wallah wallah ya hussain
   Ay mohammad ke nawase
@@ -127,116 +126,114 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3563
 # raw_sha256: fc506d330799f3e76d4766521aa90bf56f813d3231810dbfb800893a859dfcdd
 ---
-
-۱
 سنو زوار حسین ابنِ علی
 ایک مظلوم کی آواز بلاتی ہے تمہیں
 آؤ نام تم سب کے میرے دل پہ ہیں لکھے آؤ
 اپنے ماں باپ کو اس پاک سفر پر لاؤ
 
-۲
+۱
 کون اس در کی زیارت کا شرف پاتا ہے
 جس کو عباس بلاتا ہے وہی آتا ہے
 ہوگی زیارت قبول
 ہوگی زیارت قبول انشاء اللہ
 
-۳
+۲
 ہوگا راضی خدا انشاء اللہ
 ایک عرفانِ عزا ایک سفیر عزا
 ممبر پہ دے رہے ہیں یہ صدا
 ایمان حسین واللہ
 
-۴
+۳
 میری جان حسین واللہ
 قرآن حسین واللہ
 میری پہچان حسین واللہ
 واللہ واللہ یا حسین
 
-۵
+۴
 گھر سے سوے کربوبلا
 حسین حسین
 لے کے چلو ماں کی دعا
 حسین حسین
 
-۶
+۵
 ہاتھوں میں غازی کا علم
 کرتے رہو شکر خدا
 جانب منزل ہو قدم
 نظروں میں مولا کا حرم
 
-۷
+۶
 لب پہ یہی نوحہ
 ایمان حسین واللہ
 میری جان حسین واللہ
 قرآن حسین واللہ
 
-۸
+۷
 میری پہچان حسین واللہ
 ہوگا راضی خدا
 انشاء اللہ انشاء اللہ انشاء اللہ
 ہوگی زیارت قبول
 
-۹
+۸
 انشاء اللہ انشاء اللہ انشاء اللہ
 بی بی زہرا سے وعدہ نبھاتے چلو
 ہر قدم فرش ماتم بچھاتے چلو
 نہ ہوگی گرمی کا احساس اور نہ تھکن
 
-۱۰
+۹
 کاروان عزا کو بڑھاتے چلو
 ہوگی زیارت قبول
 انشاء اللہ انشاء اللہ انشاء اللہ
 میرا زوار حاجی سے کم تو نہیں
 
-۱۱
+۱۰
 عرش اعظم سے افضل ہے یہ سر زمیں
 ہاتھ خالی یہاں سے نہیں جاؤ گے
 سر جھکانے سے پہلے یہ کرلو یقیں
 ہوگی زیارت قبول
 
-۱۲
+۱۱
 انشاء اللہ انشاء اللہ انشاء اللہ
 زایروں کی ہے خدمت گزاری شرف
 دیں گے اس کا صلہ تم کو شاہ نجف
 میرے عباس کے در پہ جاؤ گے جب
 
-۱۳
+۱۲
 ایک آواز گونجے گی چاروں طرف
 ہوگی زیارت قبول
 انشاء اللہ انشاء اللہ انشاء اللہ
 میں جو کہتا ہوں اے پرسہ داروں سنو
 
-۱۴
+۱۳
 اپنے بچوں کو بھی یہی تعلیم دو
 کربلا آتے جاتے رہو سال بھر
 یہاں عاشور اور میرا چہلم کرو
 ہوگا راضی خدا
 
-۱۵
+۱۴
 انشاء اللہ انشاء اللہ انشاء اللہ
 کیا سمجھتے ہو پیدل سفر کو بھلا
 اس سفر میں ہے شامل سبھی انبیاء
 یہ سفر ہے عبادت شفاعت بھی ہے
 
-۱۶
+۱۵
 خلد کو جا رہا ہے یہی راستہ
 واللہ واللہ یا حسین
 نہیں بھولیں گے عزادار
 وعدہ نبھاییں گے عزادار
 
-۱۷
+۱۶
 سید و سردار صدا انشاء اللہ
 آیینگے ہم کربوبلا انشاء اللہ
 مظہر و عرفان عزا انشاء اللہ
 قافلے لایینگے صدا انشاء اللہ
 
-۱۸
+۱۷
 کربوبلا آ کے لہو خود یہ پکارے گا
 ایمان حسین واللہ
 میری جان حسین واللہ
 قرآن حسین واللہ
 
-۱۹
+۱۸
 میری پہچان حسین واللہ
 واللہ واللہ یا حسین
 اے محمد کے نواسے

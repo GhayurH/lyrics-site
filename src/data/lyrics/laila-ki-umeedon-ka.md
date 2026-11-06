@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Laila ki umeedon ka kya haal hua hoga
-  
-  1
   Jab ghar se jawan beta marne ko chala hoga
+
+  1
   Laila ne tasavvur mein socha bhi na tha shayad
   Sar akbar e ghazi ka naize pe chada hoga
-  
+
   2
   Athara baras ka sin naize ki ani dil mein
   Dunya ne sitam aisa dekha na suna hoga
-  
+
   3
   Jab dekh rahi hogi laila dar e qaime se
   Maadar ke kaleje ka kya haal hua hoga
-  
+
   4
   Barchi jo lagi dil par awaaz di baba ko
   Bete ki sada sun kar kya haal hua hoga
-  
+
   5
   Andher jahan tha sab nazron mein shahe deen ke
   Laashe tak shahe waala kis tarha gaya hoga
-  
+
   6
   Dekha hai tadapte hai seene pe sina khaake
   Zaqmi jigar jawaan ka barchi mein laga hoga
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1165
 # raw_sha256: 96c9baa2f8b32f1368a1afe3cb81554c860fb84c608c47e39ad9fb820b20d4a1
 ---
-
 لیلیٰ کی امیدوں کا کیا حال ہوا ہوگا
+جب گھر سے جواں بیٹا مرنے کو چلا ہوگا
 
 ۱
-جب گھر سے جواں بیٹا مرنے کو چلا ہوگا
 لیلیٰ نے تصور میں سونچا بھی نہ تھا شاید
 سر اکبر غازی کا نیزے پہ چڑھا ہوگا
 

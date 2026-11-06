@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Hassan hussain se pehle shaheed e kamsin hai
-  
-  1
   Wo koi aur nahi sayyeda ka mohsin hai
+
+  1
   Hua shaheed jo deewar o dar ke beech aa kar
   Jise bachane se zakhmi hai pehlu e maadar
   Udaas is ke liye raat ghamzada din hai
-  
+
   2
   Wo jisne karbobala ka safar kiya hi nahi
   Zaban se jisne abhi maa ko maa kaha hi nahi
   Wo jhoolta kisi jhule mein kya ye mumkin hai
-  
+
   3
   Ali ne aisa janaza kahan uthaya hai
   Shaheed ho ke jo maidan e gham mein aaya hai
   Wo sheerkhwar jo na waaqif e qadh o sin hai
-  
+
   4
   Wo jis ko ghusl o kafan ki kahan zaroorat thi
   Wo jis ke tan pe ba-misle khuda taharat thi
   Jo karbala ki zameen ka imam e zaamin hai
-  
+
   5
   Qasam khuda ki ba-misle hussain ibne ali
   Shaheed hogaya lekin madad kisi ki na li
   Malool iske liye qaum e zaafare jinn hai
-  
+
   6
   Isi ke azm ki taqleed ki hai asghar ne
   Isay shaheed kiya hai sitam ke lashkar ne
   Malool taygh e ali is shaheed ke bin hai
-  
+
   7
   Firaaq e hazrate mohsin mein mar gayi zahra
   Kisi bhi maa pe na utre ye be-amaan sadma
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1828
 # raw_sha256: 20d391f52b858a03a11d3c23f8db9a2f3215ae96dc9307e734756b04a2f31142
 ---
-
 حسن حسین سے پہلے شہید کمسن ہے
+وہ کوئی اور نہیں سیدہ کا محسن ہے
 
 ۱
-وہ کوئی اور نہیں سیدہ کا محسن ہے
 ہوا شہید جو دیوار و دَر کے بیچ آ کر
 جسے بچانے سے زخمی ہے پہلوے‌ مادر
 اداس اس کے لئے رات غمزدہ دن ہے

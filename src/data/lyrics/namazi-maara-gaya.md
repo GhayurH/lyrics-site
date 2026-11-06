@@ -10,40 +10,39 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Wavaila wavaila
   Masjid mein namazi maara gya wawaila
   Hasnain ka baba qatl hua wawaila
   Ye kaisa ajab hai zulm hua
   Ahmad ke wasi ko qatl kiya
   Hai khoon mein doobi saari qaba
-  
-  2
+
+  1
   Kulsoom aur zainab roti hai
   Baba se lipat kar kehti hai
   Aankhein to zara kholo baba
-  
-  3
+
+  2
   Bacchon se juda hote hai ali
   Zahra ne lehed apni chodi
   Hai binte pyambar ka nauha
-  
-  4
+
+  3
   Behaal hai jaan khote hai hussain
   Ye keh ke bahot rote hai hussain
   Imdaad karo amma zahra
-  
-  5
+
+  4
   Ghazi ki ajab hi haalat hai
   Chehre pe ajab si ghurbat hai
   Sadma hai bahot dil par gehra
-  
-  6
+
+  5
   Taboot e ali jab ghar se chala
   Beti ka kaleja phatne laga
   Ghash khaa ke giri zainab dukhiya
-  
-  7
+
+  6
   Kufe mein qayamat barpa thi
   Hur jinn o bashar rote thay sabhi
   Sar peet ke kehti thi zahra
@@ -51,8 +50,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3380
 # raw_sha256: e1823ffecf9974bb0b33b1efc27ef895eed8607b6783899a9d169f20fe9f7df4
 ---
-
-۱
 واویلا واویلا
 مسجد میں نمازی مارا گیا واویلا
 حسنین کا بابا قتل ہوا واویلا
@@ -60,32 +57,32 @@ romanLyrics: |-
 احمد کے وصی کو قتل کیا
 ہے خون میں ڈوبی ساری قبا
 
-۲
+۱
 کلثوم اور زینب روتی ہے
 بابا سے لپٹ کر کہتی ہے
 آنکھیں تو زرا کھولو بابا
 
-۳
+۲
 بچوں سے جدا ہوتے ہیں علی
 زہرا نے لحد اپنی چھوڑی
 ہے بنت پیمبر کا نوحہ
 
-۴
+۳
 بے حال ہے جاں کھوتے ہیں حسین
 یہ کہہ کے بہت روتے ہیں حسین
 امداد کرو اماں زہرا
 
-۵
+۴
 غازی کی عجب ہی حالت ہے
 چہرے پہ عجب سی غربت ہے
 صدمہ ہے بہت دل پر گہرا
 
-۶
+۵
 تابوت علی جب گھر سے چلا
 بیٹی کا کلیجہ پھٹنے لگا
 غش کھا کے گری زینب دکھیا
 
-۷
+۶
 کوفے میں قیامت برپا تھی
 حور جن و بشر روتے تھے سبھی
 سر پیٹ کے کہتی تھی زہرا

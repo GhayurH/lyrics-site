@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay fatema ke laal tujhe aakhri salaam
-  
-  1
   Tujhko wida karne ko aaye hai ye ghulam
+
+  1
   Kaisi udasiyan hai ye ghurbat ka waqt hai
   Hum par ye aaj kaisi musibat ka waqt hai
   Bazme azaa se aap ki ruqsat ka waqt hai
   Raunaq hamare ghar ki na le jaaiye imam
-  
+
   2
   Hamshakle mustafa ali akbar ki wo azaan
   Tadpaati hai ali asghar ki hichkiyan
   Ab chaa rahi hai haye ye kaisi khamoshiyan
   Ayyam ye azaa ke huwe jaate hai tamam
-  
+
   3
   Qaimon ki aag aur wo har simt shor o shain
   Wo al-atash ki goonj wo kamsin labon ke bain
   Durre tamache aur wo har lab pa ya hussain
   Aankhon mein ab bhi baaqi hai wo karbala ki shaam
-  
+
   4
   Akbar salaam ay ali asghar tujhe salaam
   Farwa ke chand qasim e muztar tujhe salaam
   Abbas ay hussain ke lashkar tujhe salaam
   Ay bekas o ghareeb mere tashnalab imam
-  
+
   5
   Maula ye hai rasheed shaheedi ki ilteja
   Pahunchade hum ghulamon ko ab jald karbala
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3544
 # raw_sha256: 9f01897e3b3d115501fe5fcd17a2f5eae7934c187c68363ccf6d720e7ec9f562
 ---
-
 اے فاطمہ کے لال تجھے آخری سلام
+تجھکو وداع کرنے کو آے ہیں یہ غلام
 
 ۱
-تجھکو وداع کرنے کو آے ہیں یہ غلام
 کیسی اداسیاں ہے یہ غربت کا وقت ہے
 ہم پر یہ آج کیسی مصیبت کا وقت ہے
 بزم عزا سے آپ کی رخصت کا وقت ہے

@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain godh may laashe pisar jo laate hai
-  
-  1
   Wo baar hoo hai ke har gaam dagmagate hai
+
+  1
   Nikaalte hai pisar ke galay se teer e sitam
   Ye sheh karaamat e sabr o riza dikhate hai
-  
+
   2
   Hussain chehra e aqdas tarz e noke charagh
   Lahoo se asghar e masoom ke jalate hai
-  
+
   3
   Ye tifle khaana e zehra hai ispe hairat kya
   Galay pe teer lagay phir bhi muskurate hai
-  
+
   4
   Lagi hai qaime ke dar par rubab ki nazrein
   Ke sab sagheer ko le kar hussain aate hai
-  
+
   5
   Chida hua hai gala phir bhi farte ulfat se
   Hussain laal ko apne galay lagate hai
-  
+
   6
   Lagaye maa hai kaleje se laashe asghar ko
   Hussain rayt pe nanhi lehad banate hai
-  
+
   7
   Jawab karz hai abid ye fauje aada par
   Ke cheh mahine ke bache bhi teer khaate hai
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1428
 # raw_sha256: d8854655977cd280532ea8a31d79caf5a6f8326292f98b7644c05840fc55e7e1
 ---
-
 حسین گود میں لاشہ پسر جو لاتے ہیں
+وہ بار ہو ہے کہ ہر گام ڈگمگاتے ہیں
 
 ۱
-وہ بار ہو ہے کہ ہر گام ڈگمگاتے ہیں
 نکالتے ہیں پسر کے گلے سے تیر ستم
 یہ شہ کرامت صبر و رضا دکھاتے ہیں
 

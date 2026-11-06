@@ -11,60 +11,60 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab tadap ke roti thi aayi jo ye khabar
-  
-  1
   Abbas qatl ho gaye nehre furaat par
+
+  1
   Sarwar ko apne gham mein rula kar chale gaye
   Ahle haram ko dasht mein be-aas chod kar
-  
+
   2
   Laila ki hasraton ko bhi pamaal kar diya
   Barchi ka phal wo seena e akbar ko chedh kar
-  
+
   3
   Chehre ka rang zainab e muztar ka udh gaya
   Aayi na ran se beton ki jis dum koi khabar
-  
+
   4
   Suraj hua ghuroob qayamat guzar gayi
   Lutne laga hussain ka asbaab maal o zar
-  
+
   5
   Bechain ho ke haaton mein kooza liye
   Asghar ko dhoondti thi sakina idhar udhar
-  
+
   6
   Baithi hai haul naak andheron ke darmiyan
   Maqtal ki sar zameen pa zanab jhukaye sar
-  
+
   7
   Qaimon ki aag jism ko jhulsa rahi thi aur
   Aada ki zulm rooh ko karte thay nauhagar
-  
+
   8
   Haaton mein rassiyan thi to pairon mein bediyan
   Zulm o sitam ke baad bhi jaari raha safar
-  
+
   9
   Ye umr aur bachon ka oonton pa baithna
   Maa'on ka dil tadap gaya manzar ye dekh kar
-  
+
   10
   Udte huwe parindo ko dekha to ro padi
   Shayad sakina bibi ko yaad aa gaya hai ghar
-  
+
   11
   Hooron mein shor tha to malayak thay ghamzada
   Saydaniyo ko shaam ke balwe mein dekh kar
-  
+
   12
   Darbar mein yazeed ke zainab hai berida
   Ab to madad ko aaiye ya sayyadul bashar
-  
+
   13
   Mitti jo qaid khane ki raas aagayi usay
   Ahle haram mein girya o matam tha raat bhar
-  
+
   14
   Karbobala pa ashk raza jo bahayenge
   Hai bas unhi ke waaste jannat ke baam o dar
@@ -72,11 +72,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2017
 # raw_sha256: e21b06a84176da0bde1970d9c746e535ddce1089d9cef05c0bab56e2503f66a5
 ---
-
 زینب تڑپ کے روتی تھی آی جو یہ خبر
+عباس قتل ہو گےء نہر فرات پر
 
 ۱
-عباس قتل ہو گےء نہر فرات پر
 سرور کو اپنے غم میں رلا کر چلے گےء
 اہلِ حرم کو دشت میں بے آس چھوڑ کر
 

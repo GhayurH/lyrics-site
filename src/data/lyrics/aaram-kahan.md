@@ -9,99 +9,59 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Aaram kahan haye haye aaram kahan
-
-
-  1
-
+romanLyrics: |-
+  Aaram kahan haye haye aaram kahan
   Dashte aalam mein zainab ko bhala, aaram kahan
 
+  1
   Qatl shabbir bhi abbas bhi akbar bhi huve
-
   Kat gaye aun-o-mohamad ke bhi maqtal mein galay
-
   Laashae ibne hassan ho gaya paamale jafa
 
-
   2
-
   Teer jab asghar e masoom ki gardan pe laga
-
   Deti thi qaime ke dar pe khadi bano ye sada
-
   Bin tere chain milay kaise mere mahelakha
 
-
   3
-
   Chid gayi mashke sakina labe darya afsos
-
   Be-kafn khaak pe hai sher ka laasha afsos
-
   Pyase bachon ka koi chahne wala na raha
 
-
   4
-
   Chin gayi sar se rida jal gaya asbaab tamaam
-
   Baade shabbir namudar huvi kaisi ye shaam
-
   Khoon kano se baha bachi ka daaman bhi jala
 
-
   5
-
   Sar shaheedo ke sare nauke sina qaid haram
-
   Ek do ka nahi seene mein bahattar ka hai gham
-
   Bediyan pehne huve laaghiro beemar chala
 
-
   6
-
   Koi maara gaya talwar se naize se koi
-
   Laash maqtal mein kisi dulha ki pamaal hui
-
   Hogaye baazu e abbase alamdar juda
 
-
   7
-
   Ro ro kehti hai sakina mere ammu aao
-
   Mujko maare na layeen aake inhe samjhao
-
   Kyun nahi sunte ho deti hoo tumhe kab se sada
 
-
   8
-
   Khaafela jaata hai aab shaam ke baazaro mein
-
   Chalte hai ahle haram zulm ke angaro mein
-
   Har qadam hoti hai beemar pe ek taaza jafa
 
-
   9
-
   Bache jo khaak pa girte hai kuchal jaate hai
-
-  Gham se dil maa''on ke seene se nikal jaate hai
-
-  Koi sunta nahi bewa''on ki faryad-o-buka
-
+  Gham se dil maa'on ke seene se nikal jaate hai
+  Koi sunta nahi bewa'on ki faryad-o-buka
 
   10
-
   Aankh roti hai qalam likhta hai noha rehaan
-
   Hai karam mujhpe shahe karbobala ka rehaan
-
-  Nowha jab tak na likhoo roz shahe deen ka naya'
+  Nowha jab tak na likhoo roz shahe deen ka naya
 reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: nohayonline:9ac2b9f7c54db1dd44db
 # source_url: https://www.nohayonline.com/details_content.php?id=83
@@ -110,11 +70,10 @@ reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_url: https://www.ziyaraat.net/api/noha/1929
 # raw_sha256: 30915c0c4a07a4d2f284dc37313d12eed614a2276c59be5bd546fb559bcdeb2a
 ---
-
 آرام کہاں ہائے ہائے آرام کہاں
+کشتِ آلام میں زینبؑ کو بھلا، آرام کہاں
 
 ۱
-کشتِ آلام میں زینبؑ کو بھلا، آرام کہاں
 قتل شبیرؑ بھی عباسؑ بھی اکبرؑ بھی ہوئے
 کٹ گئے عونؑ و محمدؑ کے بھی مقتل میں گلے
 لاشئہ ابنِ حسنؑ ہو گیا پامالِ جفا

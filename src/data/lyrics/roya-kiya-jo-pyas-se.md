@@ -8,58 +8,37 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Roya kiya jo pyaas se asghar tamam raat
-
-
-  1
-
+romanLyrics: |-
+  Roya kiya jo pyaas se asghar tamam raat
   Tha qaima e hussain may mehshar tamam raat
 
+  1
   Pyason ke ishtiyaq may maanind chasme tar
-
   Chalka kiya bahisht may kausar tamam raat
 
-
   2
-
   Ro ro sakina kehti thi baba ki khair ho
-
   Mai dekhti hoo khwaab may khanjar tamam raat
 
-
   3
-
   Baba pe sar katayenge tum doodh baksh do
-
   Kehte rahe ye bano se akbar tamam raat
 
-
   4
-
   Roye jo chaunk chaunk ke asghar tamam raat
-
   Sadqe utaarti rahi maadar tamam raat
 
-
   5
-
   Kehti thi bano dasht may ajab haalat hai
-
   Dar dar gaya hai khwaab may asghar tamam raat
 
-
   6
-
   Sona tha kal jo godh may turbat ki chain se
-
   Soye na maa ki godh may asghar tamam raat
 
-
   7
-
   Zainab se shaah kehte thay kal qatl honge hum
-
-  Jee bhar ke dekhlo hamay khwahar tamam raat'
+  Jee bhar ke dekhlo hamay khwahar tamam raat
 # source_id: nohayonline:ff286f98a333e892311d
 # source_url: https://www.nohayonline.com/details_content.php?id=2189
 # raw_sha256: 1434383fa9ed30b1d54105d141add66ebbe1c038735878ca71602e045c671f4b
@@ -67,11 +46,10 @@ romanLyrics: 'Roya kiya jo pyaas se asghar tamam raat
 # source_url: https://www.ziyaraat.net/api/noha/2315
 # raw_sha256: 69c97456960b97ffc4e3baf93816209d0169cc156006c6ea41850110e7c68a67
 ---
-
 رویا کیا جو پیاس سے اصغر تمام رات
+تھا خیمہء حسین میں محشر تمام رات
 
 ۱
-تھا خیمہء حسین میں محشر تمام رات
 پیاسوں کے اشتیاق میں مانند چشمِ تر
 چھلکا کیا بہشت میں کوثر تمام رات
 

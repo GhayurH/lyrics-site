@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   Kalaame haq ki tilawat hai saani e zehra
-  
-  1
   Ke tarjumane risalat hai saani e zehra
+
+  1
   Agar hai panjatan e paak aaya e tatheer
   To ye hai hurmate quran ki bolti tafseer
   Nabi ke seena sipar hai jo shaahe khybergeer
   To inke naam se qaayam hai maqsade shabbir
   Hussainiat ki niyabat hai saani e zehra
-  
+
   2
   Barehna sar bhi rahi haq ki aabru bankar
   Ke ab hai chehra e islam par wazu bankar
   Gayi jo sajde mein to haq ki justuju bankar
   Hai aaj deen ki rag rag mein ab lahoo bankar
   Azan hussain iqamat hai saani e zehra
-  
+
   3
   Jo pahunchi karbobala qaid-e-shaam se chutkar
   Pukara ganje shaheedan mein sab ko ro ro kar
   Kahan ho mere alamdaar aur ali akbar
   Kahan ho qasime muztar kahan ali asghar
   Sarapa sog hai hasrat hai saani e zehra
-  
+
   4
   Tumhare baad qayamat guzar gayi bhaiya
   Hujoome aam mein mai nange sar gayi bhaiya
   Tumahre sar ki qasam dar badar gayi bhaiya
   Sakina qaid mein ro ro ke mar gayi bhaiya
   Meinan e ranj o musibat hai saani e zehra
-  
+
   5
   Watan ko jaati hoo bhaiya hamare saath chalo
   Hai intezar mein sughra hamare saath chalo
   Udaas hoga madina hamare saath chalo
   Lagega dil na hamara hamare saath chalo
   Tareek e ashk e mohabbat hai saani e zehra
-  
+
   6
   Zaban pe zikr bahattar hai aur zainab hai
   Ke shab ko khaak ka bistar hai aur zainab hai
   Hamesha matame sarwar hai aur zainab hai
   Ek aansuon ka samandar hai aur zainab hai
   Ghame hussain ki fitrat hai saani e zehra
-  
+
   7
   Khuloose dil se yehi kijiye dua mehshar
   Ke ho har ek ko deedar e karbala mehshar
@@ -65,11 +65,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=638
 # raw_sha256: de3e4566169afc3ab413fbcf53f7cfc0e5f01946518b0bc57c2e7d98565ea8d4
 ---
-
 کلامِ حق کی تلاوت ہے ثانیِ زہرا
+کہ ترجمانِ رسالت ہے ثانیِ زہرا
 
 ۱
-کہ ترجمانِ رسالت ہے ثانیِ زہرا
 اگر ہیں پنجتنِ پاک آیہِ تطہیر
 تو یہ ہیں حُرمتِ قرآن کی بولتی تفسیر
 نبی کے سینہ سپر ہیں جو شاہِ خیبرگیر

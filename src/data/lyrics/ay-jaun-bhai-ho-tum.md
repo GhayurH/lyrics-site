@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay jaun bhai ho tum mere
-  
-  1
   Abbas ki qasam tumhe lag jao na galay
+
+  1
   Baba bhi aaye hai mere nana bhi aaye hai
   Chehre ka noor dekhne musa bhi aaye hai
   Yusuf khade huye hai ziyarat ke waaste
-  
+
   2
   Tujhko duayein aaj se degi dua e noor
   Khushboo tere paseene ki phaylegi door door
   Mil jayega lahoo tera khoone hussain se
-  
+
   3
   Ahle haram ko tumse hai dhaaras mere dilayr
   Pehra do phir qayaam ka utho ay mere sher
   Kyun jaa rahe ho tum mujhe ghurbat mein chod ke
-  
+
   4
   Karna dua hussain pe aisa na waqt aaye
   Koi sada de humko aur hum se chala na jaye
   Laasha tumhara dasht se hum khud uthayenge
-  
+
   5
   Aahista kehna saaqi e kausar se mera haal
   Rakhti thi meri pyaas ka amma bohat khayaal
   Ghurbat na ho bayan meri amma ke saamne
-  
+
   6
   Aaye hai zakhm tumko meri jaan kahan kahan
   In zaalimo ne maari hai seene pe barchiyan
   Shabbir kis tarha se tumhare galay lagay
-  
+
   7
   Tu ne gala kataya hai pehle hussain se
   Dilwayengi jaza wo shahe mashraqain se
   Chaadar utha ke deti hai amma dua tujhe
-  
+
   8
   Seene laga ke kehne laga ibne fatema
   Khushboo se teri mehkegi ta hashr karbala
   Boo hai tere paseene mein kisne kaha tujhe
-  
+
   9
   Jaldi thi dekho jaun ko sajjad kis khadar
   Dhaal aur zira ko phaynk ke seena kiya sipar
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1071
 # raw_sha256: e1bbd1b2fba0a3cc6706d38a00e05439f0bd74023f3669e6ef27447609082077
 ---
-
 اے جون بھای ہو تم میرے
+عباس کی قسم تمہیں لگ جاؤ نہ گلے
 
 ۱
-عباس کی قسم تمہیں لگ جاؤ نہ گلے
 بابا بھی آے ہیں میرے نانا بھی آے ہیں
 چہرے کا نور دیکھنے موسیٰ بھی آے ہیں
 یوسف کھڑے ہوے ہیں زیارت کے واسطے

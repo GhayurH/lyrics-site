@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Ro ke zindan mein ye kehti thi sakina baba
-  
-  1
   Aap ke baad gawara nahi jeena baba
+
+  1
   Neend aati nahi din raat yuhin roti hoon
   Yaad aata hai mujhe aap ka seena baba
-  
+
   2
   Bhai sajjad ka bistar mere gohar cheene
   Kya yateemon ko yuhin dete hai pursa baba
-  
+
   3
   Kaan se khoon tapakta hai mere shaanon par
   Is tarha shimr ne hogar mere cheene baba
-  
+
   4
   Karbala se jo chali shaam ke zindan talak
   Mujhko jee bhar ke layeeno ne sataya baba
-  
+
   5
   Pusht par oont ki baandhe thay sitamgar mujhko
   Us aziyat se hai zakhmi mera seena baba
-  
+
   6
   Mojiza dekh kar hairaan tha har ek baani e shar
   Aak ka sar meri godh mein jo aaya baba
-  
+
   7
   Aap ki beti pe us waqt qayamat guzri
   Usko haakim ne kaneezi mein jo maanga baba
-  
+
   8
   Mere ammu se kaho aake chudayein jaldi
   Mujhko kha jayega zindan ka andhera baba
-  
+
   9
   Aap aajayein to zindan mein ujaala hoga
   Mujhpe ehsaan ye bada aap ka hoga baba
-  
+
   10
   Qalbe saber ko isay sun ke tasalli hogi
   Jab padha jayega mazher ka ye nauha baba
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3535
 # raw_sha256: efbd6d41c4f60daae1c2ac0ef95fd1d96391fb8d4e0561ab33c2bf0d74e59c77
 ---
-
 روکے زنداں میں یہ کہتی تھی سکینہ بابا
+آپ کے بعد گنوارا نہیں جینا بابا
 
 ۱
-آپ کے بعد گنوارا نہیں جینا بابا
 نیند آتی نہیں دن رات یونہی روتی ہوں
 یاد آتا ہے مجھے آپ کا سینہ بابا
 

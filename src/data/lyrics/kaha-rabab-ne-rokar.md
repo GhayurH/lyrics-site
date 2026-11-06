@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaha rabab ne ro kar watan chalo beti
-  
-  1
   Ye maa ho tum pa nichawar watan chalo beti
+
+  1
   Tadap tadap ke mai roti hoo har ghadi ab to
   Rehaai qaid se sun kar watan chalo beti
-  
+
   2
   Khila pila ke sulaya karungi pehlu may
   Ye waada karti hai maadar watan chalo beti
-  
+
   3
   Na ab tamache na shimr e layeen ka darr hoga
   Na koi cheenega gauhar watan chalo beti
-  
+
   4
   Har ek lamha jise yaad kar ke roti thi
   Hai muntazir wo tera ghar watan chalo beti
-  
+
   5
   Bahana shimr ka pani wo tum ko tadpa kar
   Na bhool paayi wo manzar watan chalo beti
-  
+
   6
   Andheri raat hai aur ek hoo ka aalam hai
   Sukoon paaogi kyun kar watan chalo beti
-  
+
   7
   Kisi khushi ki tamanna wo maa kare kaise
   Ke jis pa toota ho mehshar watan chalo beti
-  
+
   8
   Rabab qabr e sakina se jab raza uthi
   Har ek lamha tha lab par watan chalo beti
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1984
 # raw_sha256: d85573d6d37ff48c71f475c75bb92ae37338021c62e80ec5a0e0ddfee241aee7
 ---
-
 کہا رباب نے رو کر وطن چلو بیٹی
+یہ ماں ہو تم پہ نچھاور وطن چلو بیٹی
 
 ۱
-یہ ماں ہو تم پہ نچھاور وطن چلو بیٹی
 تڑپ تڑپ کے میں روتی ہوں ہر گھڑی اب تو
 رہائی قید سے سن کر وطن چلو بیٹی
 

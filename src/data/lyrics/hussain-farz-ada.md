@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain farz ada kar rahe hai sajde may
-  
-  1
   Yazidiyat ko fana kar rahe hain sajde may
+
+  1
   Hussain de ke bahattar saron ki qurbani
   Khuda ka shukr ada kar rahe hai sajde may
-  
+
   2
   Hayaat deen e mohamed ko ay musalmano
   Ba waqte asr ata kar rahe hai sajde may
-  
+
   3
   Zamane waalo ye sabr e hussain to dekho
   Ke dushmano ka bhala kar rahe hai sajde may
-  
+
   4
   Layeen ki kund churi chal rahi thi gardan par
   Magar hussain dua kar rahe hai sajde may
-  
+
   5
   Ye ummati hai ke pad kar rasool ka kalma
   Sar e hussain juda kar rahe hai sajde may
-  
+
   6
   Urooj khoon se apne hussain ibne ali
   Zameen ko khaake shifa kar rahe hai sajde may
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1427
 # raw_sha256: 111f8896252bfa4e894263e7c7c86ce6d232b0cac38b44d49f9504cd8906bc5b
 ---
-
 حسین فرض ادا کر رہے ہیں سجدے میں
+یزیدیت کو فنا کر رہے ہیں سجدے میں
 
 ۱
-یزیدیت کو فنا کر رہے ہیں سجدے میں
 حسین دے کے بہتر سروں کی قربانی
 خدا کا شکر ادا کر رہے ہیں سجدے میں
 

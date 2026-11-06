@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Ajeeb waqt pada hai yateem bachi par
-  
-  1
   Meinaan e karbobala ro rahi hai khaak basar
+
+  1
   Ye beti uski hai jo ke hai do jahan ka ameer
   Pali hai jo bade naazon mein dukhtare shabbir
   Pade hai neel usi shaahzadi ke rukh par
-  
+
   2
   Musibaton mein giraftaar shaahzadi hai
   Watan se door hai be-aasra hai pyasi hai
   Labon pe bain hai ghurbat ki khaak hai sar par
-  
+
   3
   Kahin pe laashein kahin khoon hai shaahe khuda
   Akeli dasht e musibat mein aagayi ye kahan
   Andheri raat mein mar jaye na ye dar dar kar
-  
+
   4
   Bhala sakina ko kaise qaraar aayega
   Hamesha bachi ko ye gham haye rulayega
   Chala hai saamne baba ke halq par khanjar
-  
+
   5
   Sakina zulm o sitam aur seh nahi sakti
   Zyada dayr wo ab zinda reh nahi sakti
   Khudara kar do ye abbas e bawafa ko khabar
-  
+
   6
   Kabhi tamache lagaate hai taziyana kabhi
   Koi satata hai haye rula raha hai koi
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1497
 # raw_sha256: b2a5130bd0439aa9158787b119ebe62d3c765e429ee39afd5e240c0cfc81e09f
 ---
-
 عجیب وقت پڑا ہے یتیم بچوں پر
+میان کربوبلا رو رہی ہے خاک بسر
 
 ۱
-میان کربوبلا رو رہی ہے خاک بسر
 یہ بیٹی اسکی ہے جو کہ ہے دو جہاں کا امیر
 پلی ہے جو بڑے نازوں میں دختر شبیر
 پڑے ہیں نیل اسی شاہزادی کے رخ پر

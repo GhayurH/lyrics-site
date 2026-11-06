@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Bano ka ye nauha tha aajao ali akbar
-  
-  1
   Aajao mera beta aajao ali akbar
+
+  1
   Hai ghere huwe lashkar ahmed ke nawase ko
   Mazloom musafir ko seh roz ke pyase ko
   Tanha hai shah we waala aajao ali akbar
-  
+
   2
   Talwaron ki zad par hai is waqt mere waali
   Aaqa se mere dunya hojaye na ye khaali
   Lut jaye na ghar mera aajao ali akbar
-  
+
   3
   Is ghamzada madar ko ab aur na tadpao
   Jisne tumhe paala hai kuch us pa taras khao
   Kyun rooth gaye beta aajao ali akbar
-  
+
   4
   Zaalim ki jafaon se behaal jo bache hai
   De kar tumhe aawazein rote hai tadapte hai
   Kohraam hai ek barpa aajao ali akbar
-  
+
   5
   Ghar loot chuke zaalim ab qaime jalate hai
   Mazloomno yateemon ko has has ke rulaate hai
   Karte hai sitam aada aajao ali akbar
-  
+
   6
   Sadaat ke qaimon se uth'ta hai dhuwan haye
   Sajjad ki gardan mein hai tauq e garan haye
   Zainab hai rasan basta aajao ali akbar
-  
+
   7
   Mai kab se bulaati hoo kyun sunte nahi akbar
   Ab dasht e musibat mein chinti hai meri chadar
   Hai waqt qayamat ka aajao ali akbar
-  
+
   8
   Wo sher e jari haye phir aa na saka gohar
   Jab tak bhi rahi zinda dil thaame huwe ro kar
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1591
 # raw_sha256: 07f595dafe74f2e342ee7ce606650bf4c76a08f94baf603c3d2db8642983b94c
 ---
-
 بانو کا یہ نوحہ تھا آجاؤ علی اکبر
+آجاؤ میرا بیٹا آجاؤ علی اکبر
 
 ۱
-آجاؤ میرا بیٹا آجاؤ علی اکبر
 ہے گھیرے ہوے لشکر احمد کے نواسے کو
 مظلوم مسافر کو سہہ روز کے پیاسے کو
 تنہا ہے شہ والا آجاؤ علی اکبر

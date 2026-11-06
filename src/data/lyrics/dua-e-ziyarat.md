@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya rab hamein bhi ziarate e karbobala naseeb ho
-  
-  1
   Shaahe zaman ke rauze pe hamein haazri naseeb ho
+
+  1
   Kab tak deewana sheh ka kare intezar maula
   Ziarat ki aarzoo mein hai dil beqarar maula
   Rauze ko choomne ki sa'adat hamein naseeb ho
-  
+
   2
   Kya maula aqeedat kami reh gayi hamari
   Ya phir ghareeb hona yehi hai khata hamari
   Karta hoo ab dua ye bulawa tera naseeb ho
-  
+
   3
   Hum jaise aasiyon tera dar hai ek sahara
   Wa basta aap se hai ye umeed ab hamara
   Karbal mein jaa ke karloo gunah maaf ye naseeb ho
-  
+
   4
   Muddat se aarzu hai hai dil beqarar maula
   Rauze ki jaal thaam ke nauha padhoo mai maula
   In aansuon ka taufa karoo pesh ye naseeb ho
-  
+
   5
   Jis sar zameen pe madfan jigar bande fatema hai
   Shabbir ke lahoo se jo khaake shifa bana hai
   Hum bhi karenge sajda khudaya wo din naseeb ho
-  
+
   6
   Karbobala ka manzar kitna haseen hoga
   Hum sab ki tasavvur mein rehta hai sheh ka rauza
   Marne se pehle dekhoo wo manzar jina naseeb ho
-  
+
   7
   Ahsan ye dil mein hasrat liye jee raha hai aazam
   Karbobal mein ek din karunga zaroor matam
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1469
 # raw_sha256: fdb10972388562c367417fcbd365964fe6d69200dcd263612328cdb66915189b
 ---
-
 یا رب ہمیں بھی زیارت کربوبلا نصیب ہو
+شاہ زمن کے روضے پہ ہمیں حاضری نصیب ہو
 
 ۱
-شاہ زمن کے روضے پہ ہمیں حاضری نصیب ہو
 کب تک دیوانہ شہ کا کرے انتظار مولا
 زیارت کی آرزو میں ہے دل بیقرار مولا
 روضے کو چومنے کی سعادت ہمیں نصیب ہو

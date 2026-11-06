@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Us dil mein kar talaash na hargiz wafa ke phool
-  
-  1
   Khilte nahi hai jisme ali ki wila ke phool
+
+  1
   Dhar aaye shauqe deed mein jannat ke gulsitaan
   Mehke jo meri khabr mein khake shifa ke phool
-  
+
   2
   Daste khuda ne yun dare khyber utha liya
   Jaise uthale haath ko koi badha ke phool
-  
+
   3
   Naara kiya ali ke pisar ne labe furaat
   Dehshat se haath pa'on gaye ashkiya ke phool
-  
+
   4
   Abbas ne kata diye nusrat mein dono haath
   Mehke labe furaat ali ki dua ke phool
-  
+
   5
   Akbar sa gulbadan ali asghar sa gul adaa
   Like thay ye naseeb mein karbobala ke phool
-  
+
   6
   Saara chaman rasool ka barbad hogaya
   Tapti hui zameen hai aur sayyeda ke phool
-  
+
   7
   Ay maskane hussain mai hoo zakire hussain
   Mujhko bhi kar le khaakh apni basa ke phool
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=158
 # raw_sha256: 6cc5a3ce70ac9bdaf509515966383737a77c8d617b55ff1d7f6dbd66be00ed32
 ---
-
 اُس دل میں کر تلاش نہ ہر گز وفا کے پھول
+کھلتے نہیں ہیں جس میں علی کی ولا کے پھول
 
 ۱
-کھلتے نہیں ہیں جس میں علی کی ولا کے پھول
 دھر آئے شوقِ دید مین جنت کے گُلستاں
 مہکے جو میری قبر میں خاکِ شفائ کے پھول
 

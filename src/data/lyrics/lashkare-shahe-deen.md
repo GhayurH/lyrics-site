@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Lashkare shaahe deen udaas nahi
-  
-  1
   Kul bahattar hai aur hai raas nahi
+
+  1
   Hosh qasim ki jang ne khoye
   Be sare sad ke hawaas nahi
-  
+
   2
   Dil se baatein ye karti thi sughra
   Shaah aaye safar se aas nahi
-  
+
   3
   Yun lutay sheh ke baad ahle haram
   Ek chadar kisi ke paas nahi
-  
+
   4
   Ran mein asghar ko le chale hai hussain
   Chaon teeron ki inko raas nahi
-  
+
   5
   Qabre asghar pe maa ye kehti thi
   Kyun meri jaan ab to pyaas nahi
-  
+
   6
   Qabr tanhai aur ali asghar
   Maa behan koi aas paas nahi
-  
+
   7
   Aal o quran pe hai bina hamid
   Apna emaan be-asaas nahi
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=535
 # raw_sha256: 3641072ce14e2087c0a8423b6f1bec31ccb96b4cb8a72936ff08c0ca5ce9a440
 ---
-
 لشکرِ شاہِ دیں اُداس نہیں
+کُل بہتر ہیں اور ہے راس نہیں
 
 ۱
-کُل بہتر ہیں اور ہے راس نہیں
 ہوش قاسم کی جنگ نے کھوئے
 بے سرِ سد کے ہواس نہیں
 

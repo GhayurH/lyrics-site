@@ -10,60 +10,60 @@ aliases: []
 published: false
 romanLyrics: |-
   Sughra ne likha khat mein ke zehra ke dil o jaan
-  
-  1
   Aadaab baja laati hai beti shahe zeeshan
+
+  1
   Amma ki judaai ne mera chain hai loota
   Hazrat ki judaai hai mere qatl ka samaan
-  
+
   2
   Mai kaun tumhari hoo jiyun ya ke maroon mai
   Ay bhoolne walon mera koi nahi pursa
-  
+
   3
   Bhaiya ali akbar to mujhe bhool hi baithe
   Kya aap bhi beti ko bhula baithe chacha jaan
-  
+
   4
   Aana ho to aajao abhi jaan hai baakhi
   Surat ko taraste hai mere deedaye hairaan
-  
+
   5
   Farmaiye akbar se meri simt se baba
   Bhaiya ye behan aap ki kuch din ki hai mehman
-  
+
   6
   Hasrat hai ke akbar ki bala leke maroon mai
   Hangame nazha aap ka haathon mein ho daaman
-  
+
   7
   Hathon pe chacha jaan ke ho mera janaza
   Kaandha mere taboot ko de akbar e zeeshan
-  
+
   8
   Afsos ke tab pahuncha magar qasid e sughra
   Jab lut chuka tha khafilaye sarwar e zeeshan
-  
+
   9
   Seene pe sina khaaye pade thay ali akbar
   Hathon ko kataye tha pada baazu e sultan
-  
+
   10
   Ek teer se pehlu ali asghar ke laga tha
   Turbat pe buka karte thay baithe shah e zeeshan
-  
+
   11
   Khat padke jigar phat gaya farzande nabi ka
   Qasid se kaha ayan hai mere qatl ka samaan
-  
+
   12
   Abbas o ali akbar o qasim gaye maare
   Teeron ka sitam jhel gaya asghar e naadan
-  
+
   13
   Mai teen shab o roz ka pyasa hi marunga
   Pani pe mera fateha dilwana meri jaan
-  
+
   14
   Ab saath tumhare hai duaye meri sughra
   Ab tera khuda hafiz o nasir ho meri jaan
@@ -71,11 +71,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=48
 # raw_sha256: edc54f2d1967ab7f295463a57e6b27682e832d2468e25f95612043c00d676e6c
 ---
-
 صُغریٰ نے لکھا خط میں کہ زہرا کے دل و جاں
+آداب بجا لاتی ہے بیٹی شاہِ ذیشاں
 
 ۱
-آداب بجا لاتی ہے بیٹی شاہِ ذیشاں
 اماں کی جُدائی نے میرا چین ہے لُوٹا
 حضرت کی جُدائی ہے میرے قتل کا ساماں
 

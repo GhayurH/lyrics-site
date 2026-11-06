@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Qabr abid se sakina ki banayi na gayi
-  
-  1
   Tauq ka wazan utha laash uthayi na gayi
+
+  1
   Kis tarha dafn sakina ko kiya zindan mein
   Baat zainab se ye sughra ko batayi na gayi
-  
+
   2
   Khaak baalon se to zainab ne chuda li lekin
   Khaak zakhmon se sakina ke chudayi na gayi
-  
+
   3
   Khoon bahati hui aankhon ne bata di sab ko
   Baat lafzon mein jo abid se batayi na gayi
-  
+
   4
   Jo bhi samaan luta tha wo mila sab ko magar
   Ek choti si rida maa se uthayi na gayi
-  
+
   5
   Gham wo jee bhar ke sakina ka manati kaise
   Maa se to khaak bhi jee bhar ke udayi na gayi
-  
+
   6
   Godh kuch is tarha ujri hai ke phir jeete ji
   Maa se lori kisi bacche ko sunayi na gayi
-  
+
   7
   Ghar luta kar jo basayi sar e maqtal shah ne
   Aisi basti to rasoolon se basayi na gayi
-  
+
   8
   Gham agar hai to yehi noor ali ek gham hai
   Daastan dard ki lafzon mein samayi na gayi
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3780
 # raw_sha256: bd2afaba0a96cde95ec63bc94b3979508934a6bd5412a855bc981363fe38ea42
 ---
-
 قبر عابد سے سکینہ کی بنای نہ گیء
+طوق کا وزن اٹھا لاش اٹھای نہ گیء
 
 ۱
-طوق کا وزن اٹھا لاش اٹھای نہ گیء
 کس طرح دفن سکینہ کو کیا زنداں میں
 بات زینب سے یہ صغرا کو بتای نہ گیء
 

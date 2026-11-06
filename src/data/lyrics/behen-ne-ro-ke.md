@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Behen ne ro ke pukara mujhe sahara do
-  
-  1
   Mai be-dayaar hoon bhaiya mujhe sahara do
+
+  1
   Mera khayaal karo mai aseer hoti hoon
   Mai aaj reh gayi tanha mujhe sahara do
-  
+
   2
   Tumhare baad bahot zulm dhaaye aada ne
   Mai thak gayi hoon zara sa mujhe sahara do
-  
+
   3
   Na sar pe baap ka saaya na maa na bhai hassan
   Tum hi ho mera sahara mujhe sahara do
-  
+
   4
   Samajh mein kuch nahi aata ke kya karun aakhir
   Tadap rahi hai sakina mujhe sahara do
-  
+
   5
   Tumhe qubool na thay meri aakh mein aansu
   Bani hoon gard e sarapa mujhe sahara do
-  
+
   6
   Yateem bacche hai raandein hai sar chupaun kahan
   Bicha hai aag ka darya mujhe sahara do
-  
+
   7
   Tumhare khoon mein mushkil kushayi shaamil hai
   Behen ki baat hai bhaiya mujhe sahara do
-  
+
   8
   Ye jaante huwe majboor hoon akeli hoon
   Taras na khayegi dunya mujhe sahara do
-  
+
   9
   Ghamon ke bojh se saansein bhi ladkhadane lagi
   Safar tamaam hai mera mujhe sahara do
-  
+
   10
   Suroor laasha e be-sar tadap gaya ran mein
   Sada jab aayi ke bhaiya mujhe sahara do
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3702
 # raw_sha256: 68f28e20e4de6a258f7747d9d1d5d541dff1f7a52751d11715a533323345b2e8
 ---
-
 بہن نے رو کے پکارا مجھے سہارا دو
+میں بے دیار ہوں بھیا مجھے سہارا دو
 
 ۱
-میں بے دیار ہوں بھیا مجھے سہارا دو
 میرا خیال کرو میں اسیر ہوتی ہوں
 میں آج رہ گیء تنہا مجھے سہارا دو
 

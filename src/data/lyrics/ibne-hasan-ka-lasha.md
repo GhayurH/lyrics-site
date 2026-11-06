@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Ibne hassan ka laasha pamaal hogaya hai
-  
-  1
   Tukde uthane ran mein shabbir ki abaa hai
+
+  1
   Allah kis ghazab ka ye saneha hua hai
   Mazloom e karbala ka dil khoon ro raha hai
-  
+
   2
   Sehra mein har taraf se awaaz aa rahi hai
   Kubra suhaag tera mitti mein mil gaya hai
-  
+
   3
   Maara gaya bhatija bewa hui bhatiji
   Abbas ka kaleja is gham se phat raha hai
-  
+
   4
   Qaimon mein bibiyon ke hosh o hawaas gum hai
   Bewa ka laal qasim dunya se chal basa hai
-  
+
   5
   Shabbir sar jhukaye mayyat ko laa rahe hai
   Dil mein gham o alam ka toofan uth raha hai
-  
+
   6
   Fizza pukari jao dulhan ko leke aao
   Naushaah ka janaza qaime mein aa raha hai
-  
+
   7
   Zainab ke dil ki dhadkan badti hi jaa rahi hai
   Bhai hassan ka dilbar aankhon mein phir raha hai
-  
+
   8
   Shadi kaleem aisi dekhi nahi jahan mein
   Majma baratiyon ka aansu baha raha hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3521
 # raw_sha256: 69f61afbc812a6dca183bd8acee58059cb384762ebdf9c6764df768adc1cbfd3
 ---
-
 ابنِ حسن کا لاشہ پامال ہو گیا ہے
+ٹکڑے اٹھانے رن میں شبیر کی عبا ہے
 
 ۱
-ٹکڑے اٹھانے رن میں شبیر کی عبا ہے
 اللہ کس غضب کا یہ سانحہ ہوا ہے
 مظلوم کربلا کا دل خوں رو رہا ہے
 

@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Mazloom meri bachi kaise ho dafn tera
-  
-  1
   Kehti thi roke banu dil muztarib hai mera
+
+  1
   Kis bekasi mein tera laasha pada hua hai
   Neele hai gaal ab tak kurta lahoo bhara hai
   Abbas aa ke dekho kya haal ho gaya hai
   Teri musibaton par tukde jigar hai mera
-  
+
   2
   Pardes mein ye kaisi uftaad ki ghadi hai
   Seene pa sone waali ab khaak par padi hai
   Khamosh hai sakina maa dekhti khadi hai
   Kuch aur bad gaya hai zindan ka andhera
-  
+
   3
   Charon taraf udaasi is gham ki chaa rahi hai
   Ghurbat teri sakina sab ko rula rahi hai
   Bekas yateem bachi dunya se jaa rahi hai
   Is shaam e gham ka ya rab hoga kabhi savera
-  
+
   4
   Teri musibaton ka pur dard ye samaa hai
   Zakhmi hai pusht teri kaano se khoon rawan hai
   Gardan pa reesma ka ubhra hua nashan hai
   Bemaar hai baradar har simt hai andhera
-  
+
   5
   Abid tadap rahe hai ruqsat hui sakina
   Is gham se ab mujahid ek hashr sa hai barpa
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1970
 # raw_sha256: 5c0d3521c6af6d8ef8eaef6f8331ead3d2fb4e21b9a32abdd8668b3b5f327025
 ---
-
 مظلوم میری بچی کیسے ہو دفن تیرا
+کہتی تھی روکے بانو دل مضطرب ہے میرا
 
 ۱
-کہتی تھی روکے بانو دل مضطرب ہے میرا
 کس بیکسی میں تیرا لاشہ پڑا ہوا ہے
 نیلے ہیں گال اب تک کرتہ لہو بھرا ہے
 عباس آ کے دیکھو کیا حال ہو گیا ہے

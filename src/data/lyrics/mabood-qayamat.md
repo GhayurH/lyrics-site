@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Mabood qayamat ye mujhpe na guzar jaaye
-  
-  1
   Ghairat se kahin mera sajjad na mar jaaye
+
+  1
   Ab iske siwa mera dunya mein nahi koi
   Jis tarha mai ujdi hoo ujda na kahin koi
   Mardon mein koi ek to pardes se ghar jaaye
-  
+
   2
   Qasim na raha mera akbar na raha mera
   Hadh ho gayi jhoole mein asghar na raha mera
   Hai kaun yahan mera ab kis pe nazar jaaye
-  
+
   3
   Jo zulm o sitam mujhpe hone abhi baaqi hai
   Wo mere liye ya rab mar jaane ko kaafi hai
   Ab darr hai kahin sar se chadar na utar jaaye
-  
+
   4
   Haathon to utha kar ye zainab ne kaha hoga
   Jis simt mere maalik soya hai mera bhaiya
   Zaalim hamein sar nange lekar na udhar jaaye
-  
+
   5
   Tadpata hai reh reh ke ye ranj o mahen mujhko
   Kin aankhon se dekhega paband e rasan mujhko
   Aisa na ho is gham se bemaar bikhar jaaye
-  
+
   6
   Kuch dayr hi guzri hai kholi hai abhi aankhein
   Gham mein shahe waala ke royi hai abhi aankhein
   Darr hai ke na maqtal mein ye sher biphar jaaye
-  
+
   7
   Kis tarha balayein bhi bemaar ki ab loo mai
   Abbas ke marne ki kis dil se khabar doo mai
   Aur saamne kis moo se ye tashna jigar jaaye
-  
+
   8
   Hai door abhi manzil aur door thikana hai
   Bazaar mein jaana hai darbar mein jaana hai
   Zalim hamein ab lekar kya jaane kidhar jaaye
-  
+
   9
   Aamir ne khuda jaane kis dil se padhe asif
   Zehra ki dulaari ne wo zulm sahe asif
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2448
 # raw_sha256: f93b7b97cd00d35171b7410ae96cc9d7c8d9349f644cfc0d1a8bb6766914309b
 ---
-
 معبود قیامت یہ مجھ پہ گزر جاے
+غیرت سے کہیں میرا سجاد نہ مر جاۓ
 
 ۱
-غیرت سے کہیں میرا سجاد نہ مر جاۓ
 اب اس کے سوا میرا دنیا میں نہیں کوئی
 جس طرح میں اجڑی ہوں اجڑا نہ کہیں کوئی
 مردوں میں کوئی ایک تو پردیس سے گھر جاے

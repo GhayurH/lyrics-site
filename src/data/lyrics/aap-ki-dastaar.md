@@ -10,38 +10,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Tar khoon se hai aap ki dastaar ya ali
-  
-  1
   Sar par chali hai aap ke talwaar ya ali
+
+  1
   Zarbat lagi hai aisi ke rukta nahi lahoo
   Lagta hai jaise aap ne khoon se kiya wazoo
   Rukti nahi hai khoon ki raftaar ya ali
-  
+
   2
   Mehshar bapa hai kufe ki galiyon mein haye haye
   Shor o buka hai kufe ki galiyon mein haye haye
   Bewaon aur yateemon ke ghamkhwar ya ali
-  
+
   3
   Matam bapa hai aap ka arsh o zameen par
   Hai kayenat sog mein jibreel nauha gar
   Hai aap ka zamana azadaar ya ali
-  
+
   4
   Mehwe buka hai zainab e dilgeer ya ali
   Karte hai bain shabbar o shabbir ya ali
   Rota hai sar jhukaye alamdaar ya ali
-  
+
   5
   Ahle haram ke bain se larza hai aasman
   Abbas matami hai to kulsoom nauhakhan
   Karbobala hai aaj se tayyar ya ali
-  
+
   6
   Aati hai ye baqayya se awaaz e fatema
   Bachon ke sar par aap ka saaya nahi raha
   Larzi e ahmed e mukhtaar ya ali
-  
+
   7
   Farshe aza bicha hai hua matame ali
   Safar hua jahan mein barpa ghame ali
@@ -50,11 +50,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2272
 # raw_sha256: 3c9dac339d23fae95eea1a59cba7f0919aa4ed6c786b50f681c834c290f547fc
 ---
-
 تر خوں سے ہی آپ کی دستار یا علی
+سر پر چلی ہے آپ کے تلوار یا علی
 
 ۱
-سر پر چلی ہے آپ کے تلوار یا علی
 ضربت لگی ہے ایسی کہ رکتا نہیں لہو
 لگتا ہے جیسے آپ نے خوں سے کیا وضو
 رکتی نہیں ہے خون کی رفتار یا علی

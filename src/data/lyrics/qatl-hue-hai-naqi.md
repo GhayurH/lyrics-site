@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Momino sar peet lo qatl huwe hai naqi
-  
-  1
   Saamrah mein zehr se qatl huwe hai naqi
+
+  1
   Rote hai sadaat ab hogaya haye ghazab
   Aati hai kaisi nida qatl huwe hai naqi
-  
+
   2
   Tune ay motaz bil-laah kyun diya zehre dagha
   Wo tha aseer e jafa qatl huwe hai naqi
-  
+
   3
   Zehr ne kaata jigar nauha kuna baam o dar
   Bich gayi farshe aza qatl huwe hai naqi
-  
+
   4
   Kehke bulaaya iraq milne kla hai ishtiyaaq
   Phir diya zehre qaza qatl huwe hai naqi
-  
+
   5
   Nauha kuna bibiyan sog mein dono jahan
   Kehte hai sab ins o jaan qatl huwe hai naqi
-  
+
   6
   Mar gaya baba mera koi nahi hai yahan
   Zulm hia mere khuda qatl huwe hai naqi
-  
+
   7
   Jayenge ishrat kabhi padte huwe aap bhi
   Saamrah se karbala qatl huwe hai naqi
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1403
 # raw_sha256: eee58f6856573571f45d89be1b807ad75c748db938db2914a2ef9d02036b2e4f
 ---
-
 مومنوں سر پیٹ لو قتل ہوئے ہیں نقی
+سامرہ میں زہر سے قتل ہوۓ ہیں نقی
 
 ۱
-سامرہ میں زہر سے قتل ہوۓ ہیں نقی
 روتے ہیں سادات سب ہو گیا ہاۓ غضب
 آتی ہے کیسی نداء قتل ہوۓ ہیں نقی
 

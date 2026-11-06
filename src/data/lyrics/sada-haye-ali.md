@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Aati hai masjid e kufa se sada haye ali
-  
-  1
   Qatl sajde mein hua sher e khuda haye ali
+
+  1
   Aaj bhi masjid e kufa hai gawahi is ki
   Aa ke ye jibreel ne nauha kiya haye ali
-  
+
   2
   Zakhm jo maa ki shahadat ka laga tha dil par
   Dil mein phir hasnain ke taaza hua haye ali
-  
+
   3
   Tar huwe mimbar o mehrab ali ke khoon se
   Khoon hyder ka musalle pe baha haye ali
-  
+
   4
   Choti si khwahar e abbas khadija bibi
   Us pe chaayi hai yateemi ki bala haye ali
-  
+
   5
   Kis tarha zainab o kulsoom ki haalat ho bayan
   Bhaiyon se ye galay lag ke kaha haye ali
-  
+
   6
   Kiya hasnain ne jis waqt janaza tayyaar
   Thaam kar ghazi kafan kehne laga haye ali
-  
+
   7
   Uthi jab majid o mukhtar ali ki mayyat
   Taygh e hyder se bhi aati thi sada haye ali
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2087
 # raw_sha256: 6e735895845d809af31a6985809d6261392026ba31d316c02bfaacd01620209c
 ---
-
 آتی ہے مسجد کوفہ سے صدا ہاے علی
+قتل سجدے میں ہوا شیر خدا ہاے علی
 
 ۱
-قتل سجدے میں ہوا شیر خدا ہاے علی
 آج بھی مسجد کوفہ ہے گواہی اس کی
 آ کے یہ جبریل نے نوحہ کیا ہاے علی
 

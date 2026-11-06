@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Kis khadar tha wazn aakhir hurmala ke teer ka
-  
-  1
   Zakhm hai taaza abhi tak gardane baysheer ka
+
+  1
   Zabte gham se zard hai chehra shahe dilgeer ka
   Saamna kaise karenge maadare baysheer ka
-  
+
   2
   Baap ke haaton pe bacha zibha hokar reh gaya
   Kaam qaatil ne liya hai teer se shamsheer ka
-  
+
   3
   Sookh jaana chahiye ta hashr tujhko ay furaat
   Chand khatron par tere kya haq na tha baysheer ka
-  
+
   4
   Godh bhi veeran hui aur maang bhi ujdi teri
   Sabr kar bano ke ye sab khel hai taqdeer ka
-  
+
   5
   Khusk honton ke tabassum ka ye ek aejaz hai
   Dhajjiya hokar bikharna shaam ki tasveer ka
-  
+
   6
   Baap ki talwaar se bete ki marqad khodna
   Karbala mein sab se mushkil kaam hai shabbir ka
-  
+
   7
   Kyun kisi ki godh mein asghar nazar aata nahi
   Khauf se larza hai dil shahid kisi hamsheer ka
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=492
 # raw_sha256: 9d55e591f78a3070416f3bfe65dde8a8ee265a62feeaa89d51dbe0b04af087e0
 ---
-
 کس قدر تھا وزن آخر حُرملا کے تیر کا
+زخم ہے تازہ ابھی تک گردنِ بے شیر کا
 
 ۱
-زخم ہے تازہ ابھی تک گردنِ بے شیر کا
 ‎ضبطِ غم سے زرد ہے چہرہ شہ دلگیر کا
 سامنا کیسے کریں گے مادرِ بے شیر کا
 

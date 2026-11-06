@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Chal diye shabbir ya rab sar katane ke liye
-  
-  1
   Kaun hai ab chadare zainab ko bachane ke liye
+
+  1
   Aa ke ya abbas dekhe bekasi shabbir ki
   Aayi zainab zeen par shaah ko bithane ke liye
-  
+
   2
   Choom kar baazu kaha shabbir ne hum to chale
   Tum raho tayyar zainab shaam jaane ke liye
-  
+
   3
   Hashr tak deodi pe maa karti rahegi intezar
   Bhej kar baysheer ko pani pilaane ke liye
-  
+
   4
   Laashe asghar godh mein hai aur laashon par nazar
   Shah kise awaaz dein turbat banane ke liye
-  
+
   5
   Qabre asghar khud bana li fatema ke laal ne
   Godh mein jhoole ke aadi ko jhulane ke liye
-  
+
   6
   Mil gaye hyder ka dil zabte hassan sabre hussain
   Gardan e asghar se paikaan kheench laane ke liye
-  
+
   7
   Jin ki aamad se bana buth khana ay khana e khuda
   Reh gayi aulaad unki qaid khane ke liye
-  
+
   8
   Kyun rahe zulmat mein hum jab ke nisar apne hussain
   Noor ka minaar hai saare zamane ke liye
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3277
 # raw_sha256: 5c1eb013b141530a3af12a46b0c7a6431084aa3ae54cd4fabc68d091bc78e247
 ---
-
 چل دیےء شبیر یا رب سر کٹانے کے لئے
+کون ہے اب چادر زینب کو بچانے کے لئے
 
 ۱
-کون ہے اب چادر زینب کو بچانے کے لئے
 آ کے یا عباس دیکھے بیکسی شبیر کی
 آی زینب زین پر شاہ کو بٹھانے کے لئے
 

@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye farsh e aza sab ke liye hai
-  
-  1
   Zehra ki dua sab ke liye hai
+
+  1
   Ye farsh e aza farsh e buka karbobala hai
   Ye khaak e najaf khaak e haram khaak e shifa hai
   Ye noor e khuda qibla numa arsh e khuda hai
   Jalne na do nafrat ke diye pyari hawaon
   Hai ek khuda ek nabi sab ko batao
   Aur kaho labbaik hussain labbaik
-  
+
   2
   Dunya may saf e matam e shabbir bichao
   Khaahish hai ye zehra ki isay bhool na jao
@@ -28,7 +28,7 @@ romanLyrics: |-
   Insan shanasi e azaakhano may aao
   Ye amn ka paigham hai dunya ko sunao
   Aur kaho labbaik hussain labbaik
-  
+
   3
   Shabbir ne sikhlayi hai insan shanasi
   Insan ki hidayat ke liye jaan lutaadi
@@ -36,7 +36,7 @@ romanLyrics: |-
   Allah ki dharti pe na tum khoon bahao
   Chahat ke shajar phool mohabbat ke khilao
   Aur kaho labbaik hussain labbaik
-  
+
   4
   Insan ki nigehban azadari e shabbir
   Momin ka hai emaan azadari e shabbir
@@ -44,7 +44,7 @@ romanLyrics: |-
   Is dars e mohabbat ko suno aur sunao
   Abbas e alamdar ke parcham ko uthao
   Aur kaho labbaik hussain labbaik
-  
+
   5
   Ye karbobala kya hai ye maqtal nahi maqtab
   Is maqtabe e aali ki mudarris hui zainab
@@ -52,7 +52,7 @@ romanLyrics: |-
   Is bibi ke khutbon ko nisabon mai padhao
   In phoolon ko guldaan e aqeedat may sajao
   Aur kaho labbaik hussain labbaik
-  
+
   6
   Gar shauk e ziyarat hai azakhane may aao
   Gar amn ki chahat hai azakhane may aao
@@ -60,7 +60,7 @@ romanLyrics: |-
   Jannat ki zarurat hai to is gham ko manao
   Dunya se sitamgaaron ke fitne ko mitao
   Aur kaho labbaik hussain labbaik
-  
+
   7
   Ye aun o mohamad ali akbar ka hai matam
   Abbas sakina ali asghar ka hai matam
@@ -72,11 +72,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=383
 # raw_sha256: 50d30e1c846318a13fa5d683524d46b67eca38e85cd81ead4bd4328cf3aeecd6
 ---
-
 یہ فرش عزا سب کے لئے ہے
+زہرا کی دعا سب کے لئے ہے
 
 ۱
-زہرا کی دعا سب کے لئے ہے
 یہ فرش عزا فرش بکا کربوبلا ہے
 یہ خاک نجف خاک حرم خاک شفا ہے
 یہ نور خدا قبلہ نما عرش خدا ہے

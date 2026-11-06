@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Ab koi ghar koi takiya na bichona hoga
-  
-  1
   Aaj ke baad tujhe khaak pe sona hoga
+
+  1
   Baap ke seene pe sone ki tujhe aadat thi
   Ab muqaddar may tere hogi zameen maqtal ki
   Shiddate pyaas may ashkon ko hi peena hoga
-  
+
   2
   Ab sitamgaar ke taano pe guzar hoga tera
   Shimr e be-deen ke tamachon pe guzar hoga tera
   Odh ke qaid ke andhiyaron ko sona hoga
-  
+
   3
   Taziyano ki aziyat hi ghiza howegi
   Ek din saare aseeron se juda howegi
   Ek alag qaid ki tanhaai may rona hoga
-  
+
   4
   Koi aahat bhi sunegi to lagega aise
   Ek yateema ko bulaya ho padar ne jaise
   Chain aaram sukoon sab kuch hi khona hoga
-  
+
   5
   Loriyan maut sunayegi kabhi khauf tujhe
   Ek ek saans saza hogi meri furqat se
   Tujko ab chehra bhi ashkon se hi dhona hoga
-  
+
   6
   Gham ki badli may muqaddar ka sitara hoga
   Baba baba ki sada'on ka sahara hoga
   Sabr phupiyon ki tarha tujhko bhi karna hoga
-  
+
   7
   Shadman thi ye wasiyat hi shahe waala ki
   Jisko likhte huwe mazhar ki bandhi hai hichki
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2324
 # raw_sha256: a2c5d7936feff90b5ea093a4ffc37dabf5fac4f53042fb089fe139ff3c997c90
 ---
-
 اب کوئی گھر کوئی تکیہ نہ بچھونا ہو گا
+آج کے بعد تجھے خاک پہ سونا ہو گا
 
 ۱
-آج کے بعد تجھے خاک پہ سونا ہو گا
 باپ کے سینے پہ سونے کی تجھے عادت تھی
 اب مقدر میں تیرے ہو گی زمیں مقتل کی
 شدت پیاس میں اشکوں کو ہی پینا ہوگا

@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab mai bhi karbala ki ziarat ko jaunga
-  
-  1
   Pyason ke zayareen ko pani pilaunga
+
+  1
   Poochunga dard kaisa hai pehlu ka shaah se
   Hargiz na apna haal mai unko sunaunga
-  
+
   2
   Qabr e ghareeb e zehra pe ashoor waale din
   Sajjad ki taraf se kafan le ke jaunga
-  
+
   3
   Bandhwa ke apne haathon ko hurr ki tarha se mai
   Sultan e karbala tere rauze pe aaunga
-  
+
   4
   Mujhko yaqeen hai maa wahan hogi hussain ki
   Nazrein na qatl gaah ki jaanib uthaunga
   Shabbir ko sunaunga akbar ka marsiya
   Abbas ko sakina ki sunaunga
-  
+
   5
   Jis jaah giri thi naaqe se beti batool ki
   Wajib samajh ke khud wahan par giraunga
-  
+
   6
   Ragdi thi jis jagah ali akbar ne aediyan
   Dil keh raha hai mai to wahan mar hi jaunga
-  
+
   7
   Sajjad zayareen ki khidmat karunga mai
   Is kaam bhi na aaya to kis kaam aaunga
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1532
 # raw_sha256: e555c750ee57d5590fe247293816283da50d9bec8e5e5943d7e7b2b419df97ad
 ---
-
 جب میں بھی کربلا کی زیارت کو جاؤں گا
+پیاسوں کے زایرین کو پلاؤں گا
 
 ۱
-پیاسوں کے زایرین کو پلاؤں گا
 پوچھوں گا درد کیسا ہے پہلو کا شاہ سے
 ہر گز نہ اپنا حال میں انکو سناؤں گا
 

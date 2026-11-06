@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Sar pa ab shaahe khurasaan ka saaya na raha
-  
-  1
   Hum ghareebon ke liye koi sahara na raha
+
+  1
   Khaak par loat’te hai aalam e tanhaai mein
   Aisi ghurbat hai koi poochne waala na raha
-  
+
   2
   Ranj maula ko ghareebul watani ka hai bahot
   Ajnabi chehre hai sab koi shanasa na raha
-  
+
   3
   Zehr ka aisa asar hai ke tadapte hai imam
   Is musibat ko koi dekhne waala na raha
-  
+
   4
   Haye masooma e qum ro ke yehi kehti hai
   Kyun mujhe maut na aayi mera bhaiya na raha
-  
+
   5
   Kamsini mein hai taqi par ye musibat aayi
   Sar pa afsos ke ab baap ka saaya na raha
-  
+
   6
   Aaj matam hai ghareebul ghuraba ka akhtar
   Gham se dil phatta hai ab zapt ka yaara na raha
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3351
 # raw_sha256: b65db028009e56699f51d7515fcd919b982331c2194e7b1bade7bab053297320
 ---
-
 سر پہ اب شاہِ خراسان کا سایہ نہ رہا
+ہم غریبوں کے لئے کوئی سہارا نہ رہا
 
 ۱
-ہم غریبوں کے لئے کوئی سہارا نہ رہا
 خاک پر لوٹتے ہیں عالم تنہائی میں
 ہم غربت ہے کوی پوچھنے والا نہ رہا
 

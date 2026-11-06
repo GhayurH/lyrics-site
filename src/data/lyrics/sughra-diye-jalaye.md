@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Rauze pe mustafa ke sughra diye jalaye
-  
-  1
   Ro ro ke nana jaan ko faryad bhi sunaye
+
+  1
   Kis ko mai dil dikhaun dukhda kise sunaun
   Aise gaye hai baba phir laut kar na aaye
-  
+
   2
   Mai maanti hoo mannat sunlo dua ay nana
   Lillaah kisi ka baba beti ko na bhulaye
-  
+
   3
   Ghar mein hai koi mitti jo laal hogayi hai
   Kehti hai umme salma sughra na dekh paaye
-  
+
   4
   Sunti hoo ho chuki hai ibne hasaan ki shaadi
   Mai reh gayi tarasti saare gaye bulaye
-  
+
   5
   Behno ko aa rahe hai khat bhaiyon ke paiham
   Meri dua hai nana akbar ka khat bhi aaye
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2084
 # raw_sha256: 229884751cc3d3edba6614b9923a2383dc7b6d45be40c56e056cb8064e007f84
 ---
-
 روضے پہ مصطفیٰ کے صغریٰ دیےء جلاے
+رو رو کے نانا جان کو فریاد بھی سناے
 
 ۱
-رو رو کے نانا جان کو فریاد بھی سناے
 کس کو میں دل دکھاؤں دکھڑا کسے سناؤں
 ایسے گےء ہیں بابا پھر لوٹ کر نہ آے
 

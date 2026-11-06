@@ -9,51 +9,33 @@ poet: "Qais Zangipuri"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Zehr say tukray kaleja ho gaya
-
-
-  1
-
+romanLyrics: |-
+  Zehr say tukray kaleja ho gaya
   Mujtaba par zulm kaisa ho gaya
 
+  1
   1) Poocha Zainab ne ke achay thay abhi
-
   Dekhtay hi dekhtay kiya ho gaya
 
-
   2
-
   2) Kuch wasiyat kar rahay thay Mujtaba
-
   Naagahan tabdeel naqsha ho gaya
 
-
   3
-
   3) Bolay Shabbar aah tum se kya kahain
-
   Aey behan tukray kaleja ho gaya
 
-
   4
-
   4) Haath uthaya aur khuda Hafiz kaha
-
   Kuch na tha phir hashr barpa ho gaya
 
-
   5
-
   5) Teer barsay is qadar taboot par
-
   Soorate tarkash janaza ho gaya
 
-
   6
-
   6) Qais do aansu baha kar bazm may
-
-  Apni bakshish ka sahara ho gaya'
+  Apni bakshish ka sahara ho gaya
 # source_id: nohayonline:49ebed502690c298b035
 # source_url: https://www.nohayonline.com/details_content.php?id=673
 # raw_sha256: 7475511af2cf572ee92a26f570e0f5ff118cd9a94ecb580fe26ae2c253b1a358
@@ -61,11 +43,10 @@ romanLyrics: 'Zehr say tukray kaleja ho gaya
 # source_url: https://www.ziyaraat.net/api/noha/637
 # raw_sha256: 56ba89cc7cd6b29410f5d5437c226e4a343b4177e5ce2641e6cd15b5eb8c3712
 ---
-
 زہر سے ٹکڑے کلیجہ ہو گیا
+مجتبیٰ پر ظلم کیسا ہو گیا
 
 ۱
-مجتبیٰ پر ظلم کیسا ہو گیا
 پوچھا زینب کے اچھے تھے ابھی
 دیکھتے ہی دیکھتے کیا ہو گیا
 

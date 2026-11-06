@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Muntazim kaabe ka aa pahuncha safayi ke liye
-  
-  1
   Ay buton ab aur ghar dhoondo khudayi ke liye
+
+  1
   Cheerte hai kallaye ajdar ko jhoole may ali
   Aaj pehli mashk hai khyber kushayi ke liye
-  
+
   2
   Aaye kaabe ki zameen par jabse hyder ki qadam
   Jaaye sajda bangayi saari khudayi ke liye
-  
+
   3
   Mujhse jo chaahe lehad may pooche ab munkir nakeer
   Aa gaye maula mere mushkil kushaai ke liye
-  
+
   4
   Do kiya marhab ko jab hyder ne to boli zulfiqar
   Haath aisa chahiye taygh aazmayi ke liye
-  
+
   5
   Ay uroose tayghe qasim ran may ghoongat to uthao
   Sar liye laakhon khade hai roonumayi ke liye
-  
+
   6
   Kehte thay abbas mai saqqa hoo fauje shaah ka
   Khoon ke darya baha dunga taraai ke liye
-  
+
   7
   Chaunk uth'ti thi sakina naam sun kar shaah ka
   Jab kabhi roti thi zainab apne bhai ke liye
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1245
 # raw_sha256: 1340104cd056d55ed464a08d0b3c1983f90a126938d762a565287a82e2cff6e1
 ---
-
 منتظم کعبے کا آ پہنچا سفای کے لئے
+اے بتوں اب اور گھر ڈھونڈوں خدائی کے لئے
 
 ۱
-اے بتوں اب اور گھر ڈھونڈوں خدائی کے لئے
 چیرتے ہیں کلہء اجدر کو جھولے میں علی
 آج پہلی مشک ہے خیبر خشای کے لئے
 

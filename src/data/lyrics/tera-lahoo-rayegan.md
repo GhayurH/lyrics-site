@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain tera lahoo rayegan na jayega
-  
-  1
   Behen ka waada hai ye rang zaroor layega
+
+  1
   Har ek zaban pe tera zikre paak hi hoga
   Jahan mein dekhna ek waqt wo bhi aayega
-  
+
   2
   Tujhe zamane mein apne paraye royenge
   Sajjad teri wo mazloomiyat batayega
-  
+
   3
   Sada ghareebi ki tanha hi jab tu deta raha
   Mujhe to tera wo manzar bahot rulayega
-  
+
   4
   Na be-namazi kahega tujhe koi bhi hussain
   Na tujhpe baaghi ki tohmat koi lagayega
-  
+
   5
   Sajjad zinda rahega jahan mein jab tak
   Ameer aansu lahoo ke hi wo bahayega
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3499
 # raw_sha256: 3b405e14ed28a47b2f18137123f0f8f090bd01b40becaceb089ddc8416fcb0b4
 ---
-
 حسین تیرا لہو رایگاں نہ جائے گا
+بہن کا وعدہ ہے رنگ ضرور لاے گا
 
 ۱
-بہن کا وعدہ ہے رنگ ضرور لاے گا
 ہر ایک زباں پہ تیرا ذکر پاک ہی ہوگا
 جہاں میں دیکھنا ایک وقت وہ بھی آے گا
 

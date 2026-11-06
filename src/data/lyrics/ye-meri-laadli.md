@@ -9,113 +9,65 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ye meri laadli haye sakina
-
-
-  1
-
+romanLyrics: |-
+  Ye meri laadli haye sakina
   Chale jab aakhri ruqsat ko sarwar
 
+  1
   Kaha zainab se ay mazloom khwahar
-
   Zara le aao tum baqar ko jaa kar
-
   Jab aaya ibne abid hukm paa kar
-
   Kaha baqar se sheh ne gham na karna
-
   Ke tere saath hai meri sakina
 
-
   2
-
   Ye khud pyasi rahegi dukh sahegi
-
   Magar pyasa tumhe rehne na degi
-
   Ye khud ro kar tujhe rone na degi
-
   Ye raahe shaam mein saaya karegi
-
   Tujhe ek pal na chodegi akela
 
-
   3
-
   Kaha zainab se phir ay meri khwahar
-
   Chinegi jab tumhare sar se chadar
-
   Tamache kha ke bhi ye meri dukhtar
-
   Kabhi hone na degi tumko muztar
-
   Ye balon se karegi tum pe saaya
 
-
   4
-
   Jaga kar ghash se ye abid ko bole
-
   Hussain ibne ali ay laal mere
-
   Jab hongi bediyan pairon mein tere
-
   Sitamgar jab tujhe sone na denge
-
   Karegi tauq ko ashkon se thanda
 
-
   5
-
   Agarche kaan honge uske zakhmi
-
   Bandhi hongi galay mein uske rassi
-
   Kayi din aur kayi shab ki ye jaagi
-
   Kisi pe dukh na ye zaahir karegi
-
   Har ek pal dhyan rakhegi tumhara
 
-
   6
-
   Isay seene pe tum apne sulana
-
   Sare naiza mera sar na dikhana
-
   Hamari laash pe isko na laana
-
   Na dil iska kabhi zainab dukhana
-
   Na dekhe zakhmi akbar ka kaleja
 
-
   7
-
   Ali asghar jo tha chota sa bhaiya
-
   Hai sar uska sina par ye na kehna
-
   Mila hai khaak ka isko bichono
-
   Tadap kar jaan dedegi sakina
-
   Bhala dekhegi kyun asghar ka laasha
 
-
   8
-
   Ye keh kar rodiye khud shaahe wala
-
   Likho rehaan us manzar pe noha
-
   Raza jisko padhe qarya ba qarya
-
   Har ek ahle aza ho mehve girya
-
-  Kahe maula dua degi hamesha'
+  Kahe maula dua degi hamesha
 # source_id: nohayonline:cea98b048358d5e41583
 # source_url: https://www.nohayonline.com/details_content.php?id=544
 # raw_sha256: 0cc33bbaedfda38b472b159c479a3070e81492e859c220b9ca0109a185df3b82
@@ -123,11 +75,10 @@ romanLyrics: 'Ye meri laadli haye sakina
 # source_url: https://www.ziyaraat.net/api/noha/1192
 # raw_sha256: 5cac67abc562a4233d03fa3769fa098193c8c088fad458e858e6c9f3fb4bc555
 ---
-
 یہ میری لاڈلی ہائے سکینہ
+چلے جب آخری رُخصت کو سرور
 
 ۱
-چلے جب آخری رُخصت کو سرور
 کہا زینب سے اے مظلوم خواہر
 ذرا لے آئو تم باقر کو جا کر
 جب آیا ابنِ عابد حکم پا کر

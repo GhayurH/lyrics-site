@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Chehlum manane bhai zainab tumhari aayi
-  
-  1
   Phir zulm ke shehr may deti hui duhaayi
+
+  1
   Bhai wo mera akbar taskeen e jaane maadar
   Jangal may so raha hai barchi jigar pe kha kar
   Tasveer mustufa ki ummat ne hai mitayi
-  
+
   2
   Abbas uth ke dekho baazu pe kya nashan hai
   Deti rahi sadayein bhai mera kahan hai
   Rassi se jab sitamgar baandhe meri kalayi
-  
+
   3
   Ab aun na mohamed kaisi ye bebasi hai
   Koi nahi hai mera ab kya ye zindagi hai
   Sab yaad aa rahe hai veerani si hai chaayi
-  
+
   4
   Sab qatl ho gaye jab abid pe zulm dhaaye
   Sar se ridayein cheeni qaime sabhi jalaye
   Jab zulm ke shehr may shaam e ghariban aayi
-  
+
   5
   Bhai mai shaam ke bhi bazaar may phiri hoo
   Bhai mai sar barehna darbar may gayi hoo
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1765
 # raw_sha256: 928357551d7196175f3a7234330500d05615bf32ad263c4a33ad9efaf787e804
 ---
-
 چہلم منانے بھای زینب تمہاری آی
+پھر ظلم کے شہر میں دیتی ہوی دہائی
 
 ۱
-پھر ظلم کے شہر میں دیتی ہوی دہائی
 بھای وہ میرا اکبر تسکین جان مادر
 جنگل میں سو رہی ہے برچی جگر پہ کھا کر
 تصویر مصطفیٰ کی امت نے ہے مٹای

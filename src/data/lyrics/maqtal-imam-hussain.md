@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab shimr maarta tha tamacha hussain ko
-  
-  1
   Aati thi yaad bali sakina hussain ko
+
+  1
   Naize ki nok maar ke phasli mein baar baar
   Jalti zameen pe zeen se giraya hussain ko
-  
+
   2
   Patthar kisi ne maare to phaynki kisi ne khaak
   Ran mein kisi ne baalon se khayncha hussain ko
-  
+
   3
   Khanjar chala raha hai wo seene pa baith kar
   Bachi na aake dekh le baba hussain ko
-  
+
   4
   Ek maa ne baal khole hai bilkul usi jagah
   Jis jaa pe shamiyon ne giraya hussain ko
-  
+
   5
   Sattar qadam se dekh ke khanjar kabhi gala
   Zainab ne tera baar pukara hussain ko
-  
+
   6
   Zibha ke waqt dete hai pani zabeeh ko
   Maqtal mein qatl kar diya pyasa hussain ko
-  
+
   7
   Khanjar to sirf pyase ki gardan pe chal gaya
   Abbas teri maut ne maara hussain ko
-  
+
   8
   Zeeshan phasliyan thi shikasta ba-waqte dafn
   Abid ne kis tarha se uthaya hussain ko
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2785
 # raw_sha256: 63baa14fd5caa91ee12503bffbeac3f1080bfca068d75d8887d480a80aea3e15
 ---
-
 جب شمر مارتا تھا طمانچہ حسین کو
+آتی تھی یاد بالی سکینہ حسین کو
 
 ۱
-آتی تھی یاد بالی سکینہ حسین کو
 نیزے کی نوک مار کے پسلی میں بار بار
 جلتی زمیں پہ زیں گرایا حسین کو
 

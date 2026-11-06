@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Wo shaam ki musibat zainab ke dil se poocho
-  
-  1
   Darbar ki wo aafat zainab ke dil se poocho
+
+  1
   Darbariyon ka majma zainab ke dil se poocho
   Chaadar ka cheen jaana zainab ke dil se poocho
-  
+
   2
   Mushkil kusha ki beti rassi mein baandhi jaaye
   Wo baazuon ka dukhna zainab ke dil se poocho
-  
+
   3
   Bachon ka bilbilana pyason ka wo tadapna
   Bhai ka yaad aana zainab ke dil se poocho
-  
+
   4
   Bachi wo sehmi sehmi aur haye wo yateemi
   Us par tamache khana zainab ke dil se poocho
-  
+
   5
   Paon mein jiske chaale wo tauq ko sambhale
   Abid ka haye girna zainab ke dil se poocho
-  
+
   6
   Darbar ki musibath bazaar ki aziyath
   Zindan mein qaid rehna zainab ke dil se poocho
-  
+
   7
   Wo raat ka andhera bachi ko yaad karke
   Bano ka wo tadapna zainab ke dil se poocho
-  
+
   8
   Bhai ki wo wasiyath amma ki aah o zaari
   Baba ka yaad aana zainab ke dil se poocho
-  
+
   9
   Bewaarsi ka aalam wo sar ke gird matam
   Bachi ki wo shahadat zainab ke dil se poocho
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1918
 # raw_sha256: 741f9dce7bd4e36c2e00533b42f2f4118e993c155e7756fb294036a2159090b3
 ---
-
 وہ شام کی مصیبت زینب کے دل سے پوچھو
+دربار کی وہ آفت زینب کے دل سے پوچھو
 
 ۱
-دربار کی وہ آفت زینب کے دل سے پوچھو
 درباریوں کا مجمع زینب کے دل سے پوچھو
 چادر کا چھین جانا زینب کے دل سے پوچھو
 

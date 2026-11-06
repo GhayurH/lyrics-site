@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab ye pukari mere bhaiya ko na maaro
-  
-  1
   Yun lakhte dil e fatema zehra ko na maaro
+
+  1
   Hai muntazir ek bachi dar e qaima pe uski
   Mar jayegi baba e sakina ko na maaro
-  
+
   2
   Khanjar na rakho bosagahe mustafavi par
   Bhaiya ko na maaro mere bhaiya ko na maaro
-  
+
   3
   Boli tan e sarwar se lipat kar ye sakina
   Ruk jao khudara mere baba ko na maaro
-  
+
   4
   Zaalim na ruke kar diye qasim ke bhi tukde
   Shabbir ye kehte rahe naushaah ko na maaro
-  
+
   5
   Pathar sar e naiza jo laga shaah ke sar par
   Kulsoom pukari dil e zehra ko na maaro
-  
+
   6
   Rukhsaar e sakina pe jo lagte thay tamache
   Abid ki sada thi meri behna ko na maaro
-  
+
   7
   Goonji ye sada dasht mein ay majid o mukhtar
   Mazloom ko majrooh ko tanha ko na maaro
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2082
 # raw_sha256: fe5cb325937c8fe034bdf81d9247f1dcf7288cbb8dc9af38b8b4752e72b905f3
 ---
-
 زینب یہ پکاری میرے بھیا کو نہ مارو
+یوں لختِ دلِ فاطمہ زہرا کو نہ مارو
 
 ۱
-یوں لختِ دلِ فاطمہ زہرا کو نہ مارو
 ہے منتظر اک بچی در خیمہ پہ اس کی
 مر جاۓ گی باب سکینہ کو نہ مارو
 

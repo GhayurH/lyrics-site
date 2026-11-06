@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghar mein ahlebait ke matam hai khyber-geer ka
-  
-  1
   Hogaya suraj ghuroob islam ki taqdeer ka
+
+  1
   Maa ki ulfat cheenli ummat ne kal ki baat hai
   Aaj baba bhi jahan se uth gaya shabbir ka
-  
+
   2
   Ibne muljim ne do paara kar diya qalbe rasool
   Farqe hyder mein utar aaya hai phal shamsheer ka
-  
+
   3
   Karbala mein us ka hi farzand tarse aab ko
   Apne qaatil ko pilaye jo pyala sheer ka
-  
+
   4
   Shama o kufa ke tasavvur mein tadap ke murtaza
   Tak rahe hai yaas se sar zainab e dilgeer ka
-  
+
   5
   Thaam kar abbas ka baazu ye hyder ne kaha
   Karbala mein dhyan rakhna chadare hamsheer ka
-  
+
   6
   Gardan e hyder mein jo baandhi gayi hai reesma
   Phir dikhayega falak manzar isi tasveer ka
-  
+
   7
   Sayyeda ke ghar mein barpa aaj phir kohraam hai
   Haal hai behaal gham se shabbar o shabbir ka
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2978
 # raw_sha256: 1f9c857b4a94c0871c54f83e079f310e2a36bec968d9dd1c206a9b4dd592fbcc
 ---
-
 گھر میں اہل بیت کے ماتم ہے خیبر گیر کا
+ہو گیا سورج غروب اسلام کی تقدیر کا
 
 ۱
-ہو گیا سورج غروب اسلام کی تقدیر کا
 ماں کی الفت چھین لی امت نے کل کی بات ہے
 آج بابا بھی جہاں سے اٹھ گیا شبیر کا
 

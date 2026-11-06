@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay sheer khaar asghar ay tashnalab sakina
-  
-  1
   Hum nanhe zakiron ka pursa qubool karna
+
+  1
   Pani ko dono tarse maidan e karbala mein
   Dono rahe hamesha shabbir ki dua mein
   Bhai behan ka bistar shabbir ka tha seena
-  
+
   2
   Dono ki gardano se dekha hai khoon jaari
   Rasssi ke ek galay mein ek teer se tha zakhmi
   Ek shaam ki musafir ek karbala ka pyasa
-  
+
   3
   Ek noor e chashme maadar ek baap ka sapooti
   Na wo juda hua tha na ye juda hui thi
   Maa baap se qaza ne pardes mein cheena
-  
+
   4
   Ek sheer khaar bacha ek naunehaal bachi
   Dono ne laaj rakhli mazloom e karbala ki
   Thukrake alqama ko pani piya qaza ka
-  
+
   5
   Daaman jala behan ka bhai ka ban mein jhoola
   Bhai ne teer khaaya hamsheer ne tamacha
   Sughra se phir watan mein milne gaya koi na
-  
+
   6
   Seene pe sone waali jhoole mein mein sona waala
   Sote hai khaak par ab shehzadi shaahzada
   Hum sab hussaini bache padte hai inka nauha
-  
+
   7
   Ay asghar o sakina bachon ka hai ye waada
   Haathon se chote chote dete rahenge pursa
   Aansu ki hai sabeelien haazir lahoo hamara
-  
+
   8
   Sajjad o hooria ki meesam ki nauhakhani
   Rehaan azmi ke lafzon ki tarjumani
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1136
 # raw_sha256: 5b1e8b7ae8e757e17575d282f77fc0123a3b69b3d08fec7a17b9a51c04543fbf
 ---
-
 اے شیر خوار اصغر اے تشنہ لب سکینہ
+ہم ننھے ذاکروں کا پرسہ قبول کرنا
 
 ۱
-ہم ننھے ذاکروں کا پرسہ قبول کرنا
 پانی کو دونوں ترسے میدان کربلا میں
 دونوں رہے ہمیشہ شبیر کی دعا میں
 بھای بہن کا بستر شبیر کا تھا سینہ

@@ -10,20 +10,20 @@ aliases: []
 published: false
 romanLyrics: |-
   Mar ke bhi abbas ka saahil pe laasha reh gaya
-  
-  1
   Hashr tak qabze mein pyase ke darya reh gaya
+
+  1
   Fatha karne waale jung e karbala batlaye to
   Aaj dunya ki zaban par naam kiska reh gaya
-  
+
   2
   Itna dunya ne dabaya aur ubharta hi gaya
   Naksh hoke karbala tera fasana reh gaya
-  
+
   3
   Nusrate haq ke liye asghar to ran ko jaa chuke
   Ek tasavvur ek maa ek khaali jhoola reh gaya
-  
+
   4
   Sunke akbar ki shahadat ki khabar maa ne kaha
   Baad tere zindagi mein ab meri kya reh gaya
@@ -31,11 +31,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1106
 # raw_sha256: 14b5434e02400ce108f09927b5e21ffaa909e594e96c075ae949352465106acf
 ---
-
 مر کے بھی عباس کا ساحل پہ لاشہ رہ گیا
+حشر تک قبضے میں پیاسے کے دریا رہ گیا
 
 ۱
-حشر تک قبضے میں پیاسے کے دریا رہ گیا
 فتح کرنے والے جنگ کربلا بتلاے تو
 آج دنیا کی زباں پر نام کس کا رو گیا
 

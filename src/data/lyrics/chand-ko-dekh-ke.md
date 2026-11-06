@@ -11,51 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   Sughra ko moharram ka jab chand nazar aaya
-  
+
   1
   Yaade shahe waala ne dil aur bhi tadpaya
   Chand ko dekh ke sughra ne kaha haye hussain
   Aa gaya maahe moharram ka nahi aaye hussain
   Yaad pardes mein aati hai lehad amma ki
   Dil ka ehwaal sunane ko kahan jaye hussain
-  Chand ko dekh ke...
-  
+
   2
   Aap aaye na khabar aayi na akbar aaye
   Kaise is haal mein sughra se jiya jaye hussain
   Chand ko dekh ke...
   Jab se ye chand moharram ka nazar aaya hai
   Amma roti hai tujhe mere maajaye hussain
-  Chand ko dekh ke...
-  
+
   3
   Koi tasveer to zahra ki rahi parde mein
   Ye to acha hua sughra ko nahi laaye hussain
   Chand ko dekh ke...
   Naam par shaah ne akbar ke khareedi hai zameen
   Kaise jageer tujhe bhai ki dikhlaye hussain
-  Chand ko dekh ke...
-  
+
   4
   Eid bhi sog ke aalam mein guzaari us ne
   Haye akbar kabhi kehti thi kabhi haye hussain
   Chand ko dekh ke...
   Mustakhil shaah ki aankhon se thay aansu jaari
   Khat e sughra ko mukammal nahi padh paaye hussain
-  Chand ko dekh ke...
-  
+
   5
   Ek ek beti se ruqsat huwe qaime mein magar
   Haye afsos ke sughra se na mil paaye hussain
   Chand ko dekh ke...
   Likh ke nauha ye takallum ne dua maangi hai
   Har azadar ko ashoor pe bulwaye hussain
-  Chand ko dekh ke...
 # source_id: nohayonline:4d356e5aade7e07bce43
 # source_url: https://www.nohayonline.com/details_content.php?id=1605
 # raw_sha256: 2f54df315af401304b31f6a3b7d42c4cdcf4206d810beec59acdf6cec3b279ee
 ---
-
 صغرا کو محرم کا جب چاند نظر آیا
 
 ۱
@@ -64,7 +58,6 @@ romanLyrics: |-
 آ گیا ماہ محرم کا نہیں آے حسین
 یاد پردیس میں آتی ہے لحد اماں کی
 دل کا احوال سنانے کو کہاں جاے حسین
-چاند کو دیکھ کے۔۔۔
 
 ۲
 آپ آے نہ خبر آی نہ اکبر آے
@@ -72,7 +65,6 @@ romanLyrics: |-
 چاند کو دیکھ کے۔۔۔
 جب سے یہ چاند محرم کا نظر آیا ہے
 اماں روتی ہے تجھے میرے مانجاے حسین
-چاند کو دیکھ کے۔۔۔
 
 ۳
 کوئی تصویر تو زہرا کی رہی پردے میں
@@ -80,7 +72,6 @@ romanLyrics: |-
 چاند کو دیکھ کے۔۔۔
 نام پر شاہ نے اکبر کے خریدی ہے زمیں
 کیسے جاگیر تجھے بھای کی دکھلاے حسین
-چاند کو دیکھ کے۔۔۔
 
 ۴
 عید بھی سوگ کے عالم میں گزاری اس نے
@@ -88,7 +79,6 @@ romanLyrics: |-
 چاند کو دیکھ کے۔۔۔
 مستقل شاہ کی آنکھوں سے تھے آنسوں جاری
 خط صغرا کو مکمل نہیں پڑھ پاے حسین
-چاند کو دیکھ کے۔۔۔
 
 ۵
 اک اک بیٹی سے رخصت ہوے خیمے میں مگر
@@ -96,4 +86,3 @@ romanLyrics: |-
 چاند کو دیکھ کے۔۔۔
 لکھ کے نوحہ یہ تکلم نے دعا مانگی ہے
 ہر عزادار کو عاشور پہ بلواے حسین
-چاند کو دیکھ کے۔۔۔

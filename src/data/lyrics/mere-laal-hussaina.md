@@ -9,72 +9,44 @@ poet: "Mohib Fazli"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Maa aayi hai mazloom mere laal hussaina
-
-
-  1
-
+romanLyrics: |-
+  Maa aayi hai mazloom mere laal hussaina
   Aaja meri aaghosh may behaal hussaina
 
+  1
   Maqtal may baqiyya se thi jis waqt mai pahunchi
-
   Ghodon se teri laash thi pamaal hussaina
-
   Mere laal hussaina mere laal hussaina
 
-
   2
-
   Hae hae mere bete ka badan khoon may tar hai
-
   Aulaad e payamabar ke ujadne ki khabar hai
-
   Poshak hai zakhmon se teri laal hussaina
 
-
   3
-
   Mai hogayi barbaad qayamat ki ghadi hai
-
   Be-gor o kafan ran may teri laash padi hai
-
   Ghurbat may tera hogaya kya haal hussaina
 
-
   4
-
   Phat jaaye na sadme se kahin maa ka kaleja
-
   Aankhein tu zara khol de maa ayi hai beta
-
   Baahon ko galay may tu mere daal hussaina
 
-
   5
-
   Na zeen pe laasha hai tera aur na zameen par
-
   Aaja ay mere laal ke sar zaanu pa rakh kar
-
   Baandhungi tere sar pe mai rumaal hussaina
 
-
   6
-
   Zainab ko rida tujhko kafan bhi na milega
-
   Ghurbat pe teri royegi ta hashr ye dukhiya
-
   Kholungi teri laash pe mai baal hussaina
 
-
   7
-
   Ye khaule payambar hai mohib mit na sakega
-
   Ek khaum zamane may khuda khalq karega
-
-  Gham tera manayegi jo har saal hussaina'
+  Gham tera manayegi jo har saal hussaina
 # source_id: nohayonline:b338b7ec5d3284583695
 # source_url: https://www.nohayonline.com/details_content.php?id=2493
 # raw_sha256: d1ec726b73f0cc43fb3f0a3da13340e86d48140f4b45fb7ee1ae479c229f2a03
@@ -85,11 +57,10 @@ romanLyrics: 'Maa aayi hai mazloom mere laal hussaina
 # source_url: https://www.ziyaraat.net/api/noha/2258
 # raw_sha256: 77bb18c8ea2d7fa09d3e0db43ddc079605c04d61a32e98c2de8bdd6c81d75a45
 ---
-
 ماں آی ہے مظلوم میرے لال حسینا
+آجا میری آغوش میں بے حال حسینا
 
 ۱
-آجا میری آغوش میں بے حال حسینا
 مقتل میں بقیہ سے تھی جس وقت میں پہنچی
 گھوڑوں سے تیری لاش تھی پامال حسینا
 میرے لال حسینا میرے لال حسینا

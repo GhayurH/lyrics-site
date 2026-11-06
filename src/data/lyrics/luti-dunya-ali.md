@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   Luti dunya ali e murtuza ki
-  
-  1
   Shahadat ho gayi hai sayyeda ki
+
+  1
   Khadija khuld mein nauha kuna hai
   Duhaai de rahi hai wo khuda ki
-  
+
   2
   Mila baagh e fidak ka dil ko sadma
   Sitam ye aur mohsin ne qaza ki
-  
+
   3
   Hai gham mein mubtila rooh e payambar
   Lehad tharra rahi hai mustafa ki
-  
+
   4
   Milayzakhmon pa usko zakhm itne
   Zaroorat thi bahot jisko dawa ki
-  
+
   5
   Tha mayyat par yehi zainab ka nauha
   Saza paayi hai hum ne kis khata ki
-  
+
   6
   Kaha hasnain ne qabr e nabi par
   Aray nana meri maa ne qaza ki
-  
+
   7
   Ba waqte ghusl e mayyat roye hyder
   Shikasta phasliyan thi ehliya ki
-  
+
   8
   Na le kar jaaiye maadar ko meri
   Padar se betiyon ne ilteja ki
-  
+
   9
   Madina ro raha tha khoon ke aansu
   Uthi mayyat jo ghar se fatema ki
-  
+
   10
   Musmalmano na maaro is pa pathar
   Ke mayyat hai ye binte mustafa ki
-  
+
   11
   Gham e zehra mein girya ho raha hai
   Moharram hai safon mein ambiya ki
-  
+
   12
   Rasool e paak ka gulshan hai zad mein
   Sitam ki aag hai aisi bala ki
-  
+
   13
   Ghame sheh par raza kyun kar na roye
   Haqeeqat jaante hai karbala ki
@@ -68,11 +68,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2000
 # raw_sha256: 05a35ef857fcef19ec02b8c6e243e54c6ff127d25b62a671ae9a954ff1de3c06
 ---
-
 لٹی دنیا علی مرتضیٰ کی
+شہادت ہو گیء ہے سیدہ کی
 
 ۱
-شہادت ہو گیء ہے سیدہ کی
 خدیجہ خلد میں نوحہ کناں ہے
 دہائی دے رہی ہے وہ خدا کی
 

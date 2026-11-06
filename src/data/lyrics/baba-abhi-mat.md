@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Baba abhi mat jaaiye
-  
-  1
   Mayyat pe zainab ne kaha
+
+  1
   Aankhein to apni kholiye
   Khamosh kyun hai boliye
   Kya hogaye humse khafa
-  
+
   2
   Mayyat uthi gar aap ki
   Baba yahin mar jaaungi
   Mujh mein nahi ab hausla
-  
+
   3
   Eid aa rahi hai baba jaan
   Kaise rahengi betiyan
   Veeran ghar ho jayega
-  
+
   4
   Kyun mere baazu choom ke
   Aise tadap kar roye thay
   Batlaye kya yaad aa gaya
-  
+
   5
   Bazaar kaise jaaungi
   Darbar kaise jaaungi
   Mei seekh loo chalna zara
-  
+
   6
   Jitne bhi hai kufi khade
   Pathar na maare ye mujhe
   Keh dijiye in se zara
-  
+
   7
   Aata nahi usko chain
   Bhoola nahi maa ko hussain
   Mar jayega bhai mera
-  
+
   8
   Ghabrayegi amma meri
   Ghusl o kafn ke baad bhi
   Khoon beh raha hai aap ka
-  
+
   9
   Parda chinega jab mera
   Aayenge milne karbala
   Ye waada kar lije zara
-  
+
   10
   Sajjad kaisi thi ghadi
   Roti thi khud binte ali
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1526
 # raw_sha256: cb103774e15a3800ea3bb93422e637635fd0c6c665d676833fb92500be0e3380
 ---
-
 بابا ابھی مت جایےء
+میت پہ زینب نے کہا
 
 ۱
-میت پہ زینب نے کہا
 آنکھیں تو اپنی کھولےء
 خاموش کیوں ہے بولیےء
 کیا ہوگےء ہم سے خفا

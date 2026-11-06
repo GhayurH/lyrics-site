@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Dil se ghame hussain na ho kam khuda kare
-  
-  1
   Le jaaun mai lehad mein yehi gham khuda kare
+
+  1
   Hubbe ali ho dil mein zaban par ho ya hussain
   Jab waqte nazha nikle mera dam khuda kare
-  
+
   2
   Thokar lage to aaye zaban par ali ka naam
   Har gham mein ho hussain ka matam khuda kare
-  
+
   3
   Seene pe daagh matame shabbir ka rahe
   Daaman ho ashke gham se sada nam khuda kare
-  
+
   4
   Phaile nishane hazrat abbas ki ziya
   Saare jahan pe chaaye ye parcham khuda kare
-  
+
   5
   Har dukh mein yaad aaye shaheedan e karbala
   Har zakhme dil ka ho yehi marham khuda kare
-  
+
   6
   Dar dar ke keh rahe thay ye aapas mein sab layeen
   Abbas ho na nehr pe barham khuda kare
-  
+
   7
   Faujein adoo ki aati thi zainab ye kehti thi
   Aa jaaye koi shimr ka bhi kaam khuda kare
-  
+
   8
   Akbar ne sheh ke saamne toda tha jaise dam
   Koi pidar na dekhe ye aalam khuda kare
-  
+
   9
   Qaime mein kar rahi thi sakina yehi dua
   Aa jaaye khairiyat se mere amm khuda kare
-  
+
   10
   Akbar palat ke aaye ye sughra ki thi dua
   Phir bhai aur behen mile baaham khuda kare
-  
+
   11
   Sheh bole lab pe ye bakhshishe ummat ki ho dua
   Khanjar rawan ho halq pe jis dam khuda kare
-  
+
   12
   Ye keh ke khatm kar do mujahid kalaam ko
   Badta rahe hussain ka matam khuda kare
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3682
 # raw_sha256: 41c568aa4b1fbf959ea3afd41589200e8776274b5e2a740eea1f9c65f69ab422
 ---
-
 دل سے غم حسین نہ ہو کم خدا کرے
+لے جاؤں میں لحد میں یہی غم خدا کرے
 
 ۱
-لے جاؤں میں لحد میں یہی غم خدا کرے
 حب علی ہو دل میں زباں پر ہو یا حسین
 جب وقت نزع نکلے میرا دم خدا کرے
 

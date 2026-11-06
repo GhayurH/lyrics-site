@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Be kafan baap ki mayyat se guzara mujhko
-  
-  1
   Kitna ummat ne mere baba sataya mujhko
+
+  1
   Aablo se mere pairon ke lahoo jaari hai
   Ek qadam rakhna zameen par bhi mera bhari hai
   Haye kaanto pe kuch is tarha chalaya mujhko
-  
+
   2
   Baad phir aap ke aada ne jalaye yun khayaam
   Jal ke qaime may hi mar jaata shariyat ka imam
   Jalte qaimon se phuphi jaan ne nikala mujhko
-  
+
   3
   Saamne mere kaneezi may behen ko maanga
   Haye saadaat pe ummat ne hai sadqa phaynka
   Maar daalega mere baba ye sadma mujhko
-  
+
   4
   Jab kabhi raah may qaidi ne jo paaya saaya
   Thak ke ek pal ke liye baithna chaaha baba
   Maar kar durra sitamgar ne uthaya mujhko
-  
+
   5
   Bediyan payr may langar hai kamar may mere
   Zauf beemar ke tan may hai chale to kaise
   Tauq gardan may hai aada ne pinhaya mujhko
-  
+
   6
   Roke kehti hai mujhe pani pilao bhaiya
   Mujhko zaalim ke tamachon se bachao bhaiya
   Hasrat o yaas se takti hai sakina mujhko
-  
+
   7
   Har kisi baap ki chaahat ye hua karti hai
   Apne bete se bas umeed yehi hoti hai
   Gar marunga to pisar dega ye kaandha mujhko
-  
+
   8
   Bekafan baap ke laashe se guzarta mai tha
   Aisa lagta tha ke dam mera nikal jayega
   Iss qadar aap ki ghurbat ka tha sadma mujhko
-  
+
   9
   Haye danish mere maula ki ghareebi ka samaa
   Laasha e shaah pe kehta tha ye beta rehan
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1386
 # raw_sha256: b68561e680b849657386567d2e5963eb82ecd3cd60358a5dbb220d79483aa104
 ---
-
 بے کفن باپ کی میت سے گزارا مجھکو
+کتنا امت نے میرے بابا ستایا مجھکو
 
 ۱
-کتنا امت نے میرے بابا ستایا مجھکو
 آبلوں سے میرے پیروں کے لہو جاری ہے
 اک قدم رکھنا زمیں پر بھی میرا بھاری ہے
 ہاے کانٹوں پہ کچھ اس طرح چلایا مجھکو

@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay parchame abbas pharere ki hawa de
-  
-  1
   Bas jaye jo sanson may wo khusbu e wafa de
+
+  1
   Baandhi hui ek mashke sakina hai alam may
   Ghazi tere parcham ki ye pehchan kara de
-  
+
   2
   Ta hashr rahe parchame abbas ka saaya
   Jo ranj o musibat ki hawaon se bacha de
-  
+
   3
   Ya rab koi masooma na is tarha se tadpe
   Ro ro ke jo zindan ke dar o baam hilade
-  
+
   4
   Ye soch ke jaati hai sakina suye darya
   Ammu mere daaman may lagi aag bujhade
-  
+
   5
   Kehti rahi maadar se watan jayenge kab tak
   Aisi koi surat ho jo sughra se milade
-  
+
   6
   Thukraya hai baiyat ko yun shabbir ne azhar
   Hai kaun jo dunya may sawal iska uthade
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=756
 # raw_sha256: ace5e80469e8358cfcada6d877c450c508749095db13c4b2dc3526e607f37c82
 ---
-
 اے پرچمِ عباس پھریرے کی ہوا دے
+بس جائے جو سانسوں میں وہ خوشبوئے وفا دے
 
 ۱
-بس جائے جو سانسوں میں وہ خوشبوئے وفا دے
 باندھے ہوئے اک مشکِ سکینہ ہے علم میں
 غازی تیرے پرچم کی یہ پہچان کرا دے
 

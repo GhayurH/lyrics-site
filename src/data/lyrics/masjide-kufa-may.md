@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Masjid e kufa may mehboobe khuda zakhmi hua
-  
-  1
   Baad e ahmed jo tha deen ka peshwa zakhmi hua
+
+  1
   Ibne muljim ki shakhawat ne sitam dhaaya hai ye
   Hogaya tar lo musalla murtaza ke khoon se
   Dehr may khaaliq ka jo tha maujiza zakhmi hua
-  
+
   2
   Yaad e maadar aur bhi shiddat se tadpane lagi
   Ghair haalat hogayi zainab bhi ghash khaane lagi
   Jab suna masjid may baba be-khata zakhmi hua
-  
+
   3
   Dekh kar manzar ye turbat may payambar ro pade
   Haalat e sajda may shamsheer e zehar aalood se
   Be-khata be-jurm nafse kibriya zakhmi hua
-  
+
   4
   Haath phaila kar ali kehte hai ye ay kirdegaar
   Tu gawara rahiyo ke waqte taa'at e parwardigar
   Tere sajde may ye tera ba-wafa zakhmi hua
-  
+
   5
   Aayaton ke darmiyan kohraam tha kohraam tha
   Qaima e quran may charon taraf hangaam tha
   Waqt e sajda haye faqre ambiya zakhmi hua
-  
+
   6
   Dekh kar hyder ko ubhra lab pe zainab ke sukhan
   Ab kise baba kahenge boliye bhaiya hassan
   Hogayi be-amaan baba mera zakhmi hua
-  
+
   7
   Tha yehi bachon ka nauha ya nabi fayrad hai
   Aaiye behre madad ye sa'at e imadad hai
   Dekhiye masjid may shaahe do sara zakhmi hua
-  
+
   8
   Sayyeda ka aaj pehlu aur zakhmi hogaya
   Aur haalat hogayi hai qabr may unki tabaah
   Ro ke kehti hai ke phir pehlu mera zakhmi hua
-  
+
   9
   Chand taare ro ke karte hai jigar afgaar bain
   Dayam o yazdan lahoo rote hai behrobar ke nain
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1460
 # raw_sha256: f1440fd104df501d5838e795204b1a46a98117672ddacdad263c04f0d9ced364
 ---
-
 مسجد کوفہ میں محبوب خدا زخمی ہوا
+بعد احمد جو تھا دین کا پیشوا زخمی ہوا
 
 ۱
-بعد احمد جو تھا دین کا پیشوا زخمی ہوا
 ابنِ ملجم کی سقاوت نے ستم ڈھایا ہے یہ
 ہو گیا تر لو مصلہ مرتضیٰ کے خون سے
 دہر میں خالق کا جو تھا معجزہ زخمی ہوا

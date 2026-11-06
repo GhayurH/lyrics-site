@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Naize pe kahan shaam gaya hai sar e abbas
-  
-  1
   Rahwaar ke gardan mein bandha hai sar e abbas
+
+  1
   Sar sheh ka qalam godh mein zahra ke hua hai
   Kulsoom ki godhi mein kata hai sar e abbas
-  
+
   2
   Band aakhein lahoo chehre pe ruksaar bhi zakhmi
   Kis haal mein zainab ko mila hai sar e abbas
-  
+
   3
   Zainab ki taraf dekh ke tehra nahi jaata
   Naize se kayi baar gira hai sar e abbas
-  
+
   4
   Yaad aagaya behno ko wo zakhmi sar e hyder
   Jab gurz se do neem hua hai sar e abbas
-  
+
   5
   Hasrat ki nazar hai dar o dewaar ki jaanib
   Zinda mein kise dhoond raha hai sar e abbas
-  
+
   6
   Sajjad milaate hai bhatiji se chacha ko
   Turbat pe sakina ke rakha hai sar e abbas
-  
+
   7
   Ek qabr se aati hai sada mai bhi chalungi
   Bemaar jo dafnane chala hai sar e abbas
-  
+
   8
   Taazeem ko uthne lagi har bibi takallum
   Jab shadman zindan mein gaya hai sar e abbas
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2840
 # raw_sha256: 652c561f697f9d64733d3a07b69b761b5408a0a1710d5a750bf7c0313dc5a70e
 ---
-
 نیزے پہ کہاں شام گیا ہے سر عباس
+رہوار کے گردن میں بندھا ہے سر عباس
 
 ۱
-رہوار کے گردن میں بندھا ہے سر عباس
 سر شہ کا قلم گود میں زہرا کے ہوا ہے
 کلثوم کی گودی میں کٹا ہے سر عباس
 

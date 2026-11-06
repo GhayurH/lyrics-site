@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Jo tha khuda se wo waada nibha rahe hai hussain
-  
-  1
   Khud apne qadmon se maqtal ko jaa rahe hai hussain
+
+  1
   Jab apne nana ki turbat ko alwida kaha
   To aa rahi thi baqaiya se fatema ki sada
   Utho lehad se ay baba wo jaa rahe hai hussain
-  
+
   2
   Khuda ki raah may sughra ko tanha chod diya
   Wo laakh kehti rahi mujhko le chalo baba
   Lipat ke beti se aansu baha rahe hai hussain
-  
+
   3
   Qayamat aa gayi jab aayi shaam e ashoora
   Sagheer bachon may jab al atash ka shor badha
   Galay laga ke unhe rote jaa rahe hai hussain
-  
+
   4
   Tuloo hogayi karbal may subhe qatl e hussain
   Utha raha tha har ek laash khud butool ka chain
   Khud apne haathon se maqtal saja rahe hai hussain
-  
+
   5
   Shaheed jab hua ghazi hussain toot gaye
   To laasha chod ke darya pe suye qaima chale
   Alam ke saath do baazu bhi laa rahe hai hussain
-  
+
   6
   Phir ek zulm pe arsh e azeem kaamp gaya
   Pidar ki gohd may baysheer ko jo teer laga
   Wo dekho choti si turbat bana rahe hai hussain
-  
+
   7
   Haram may hashr tha jab waqt e asr aa pahuncha
   Sakina dhoond rahi thi kidhar gaye baba
   Khuda ke sajde may gardan kata rahe hai hussain
-  
+
   8
   Tha nauha majid o mukhtar ran may zainab ka
   Pada hai dhoop may laasha tumhara ay bhaiya
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2078
 # raw_sha256: 7a464de2fdf428f4330dd895cf4e9fe79cc5b27ade6bef8c623eb7a27bc6c2ec
 ---
-
 جو تھا خُدا سے وہ وعدہ نبھا رہے ہیں حسین
+خود اپنے قدموں سے مقتل کو جا رھے ھیں حسین
 
 ۱
-خود اپنے قدموں سے مقتل کو جا رھے ھیں حسین
 جب اپنے نا نا کی تربت کو الوداع کہا
 تو آ رہی تھی بقیعہ سے فاطمہ کی صدا
 اُٹھو لحد سے اے بابا وہ جا رھے ھیں حسین

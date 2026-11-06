@@ -10,48 +10,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Tha ye abbas ka nauha jab mere haath kate
-  
-  1
   Thi tasavvur mein sakina jab mere haath kate
+
+  1
   Jis ghadi haath qalam hogaye mere aaqa
   Maine mashkeeze ko daaton se sambhala maula
   Mashk ko teer ne cheda jab mere haath kate
-  
+
   2
   Zulm jo mujhpe huwe hai wo sunaun kaise
   Ek shaqi gurze sitam maar ke sar par mere
   Mujhko ghode se giraya jab mere haath kate
-  
+
   3
   Kuch dikhayi nahi deta tha mujhe aankhon se
   Zakmi karte thay layeen lafzon ki talwaron se
   Ashqiyan dete thay taana jab mere haath kate
-  
+
   4
   Dekh kar mujhko ye kehne lage ran mein aada
   Lelo abbas e dilawar se ali ka badla
   Sab ne mil kar kiya hamla jab mere haath kate
-  
+
   5
   Koi naize se koi bhaale se maara mujhko
   Naam shehzadiyon ka leke rulaaya mujhko
   Yaad aaye mujhe baba jab mere haath kate
-  
+
   6
   Beh gaya mashke sakina se jo saara pani
   Mujhko rulwane lage aur sitam ke baani
   Maine dekha suye qaima jab mere haath kate
-  
+
   7
   Lashkare shaam ka har zulm o sitam seh seh ke
   Sar ke bal jalti zameen par mai gira ghode se
   Na mila mujhko sahara jab mere haath kate
-  
+
   8
   Barchiyon se jo hua pyaas mein zakhmi seena
   Mujhko shamsheerein lagate thay musalsal aada
   Mai bikharta gaya maula jab mere haath kate
-  
+
   9
   Arsh nauhe ki sada arsh talak jayegi
   Gham zada hoyenge jannat mein bohat sabir bhi
@@ -60,11 +60,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3267
 # raw_sha256: 6c257ab4591be2fc6cb6afa9275bb520ae8e8a68f9fa689b2aa2cde13b4059ba
 ---
-
 تھا یہ عباس کا نوحہ جب میرے ہاتھ کٹے
+تھی تصور میں سکینہ جب میرے ہاتھ کٹے
 
 ۱
-تھی تصور میں سکینہ جب میرے ہاتھ کٹے
 جس گھڑی ہاتھ قلم ہو گےء میرے آقا
 میں نے مشکیزے کو دانتوں سے سنبھالا مولا
 مشک کو تیر نے چھیدا جب میرے ہاتھ کٹے

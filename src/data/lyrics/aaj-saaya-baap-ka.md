@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Uth gaya zainab ke sar se aaj saaya baap ka
-  
-  1
   Ab na dekhegi kabhi ghamkhaar chehra baap ka
+
+  1
   Ruqsat e aakhir ki manzil hai elaahi khair ho
   Hai qayamat ghar se jaata hai janaza baap ka
-  
+
   2
   Ya nabi allah behre fatema aa jaiye
   Aan ke de dijiye bachon ko pursa baap ka
-  
+
   3
   Baam o dar arshe elaahi ke larazte hai udhar
   Padh rahi hai zainab o kulsoom nauha baap ka
-  
+
   4
   Betiyon ko sabr ki talqeen koi kya kare
   Saamne jis waqt ke rakha ho laasha baap ka
-  
+
   5
   Haye re aulaad e zehra ki ghareebi al amaan
   Waqt ne kaisa diya ghurbat may sadma baap ka
-  
+
   6
   Kis tarha ashkon ko roke fatema ki betiyan
   Khoon may dooba hua dekha hai chehra baap ka
-  
+
   7
   Beh padegi chashm be-saaqta ashk e furaat
   Yaad jab aa jayega beti ko lehja baap ka
-  
+
   8
   Ek beti zakhmi sar ko dekhti thi baar baar
   Ek beti dekhti hai zakhmi seena baap ka
-  
+
   9
   Dayam o yazdan likhe kaise bahot dushwar hai
   Betiyon ke saath jo hota hai rishta baap ka
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1438
 # raw_sha256: 578fb9e6e6571a7522507d31f25d79d644df9794500130340665163c3c34f8d2
 ---
-
 اٹھ گیا زینب کے سر سے آج سایہ باپ کا
+اب نہ دیکھے گی کبھی غم خوار چہرہ باپ کا
 
 ۱
-اب نہ دیکھے گی کبھی غم خوار چہرہ باپ کا
 رخصت آخری کی منزل ہے الٰہی خیر ہو
 ہے قیامت گھر سے جاتا ہے جنازہ باپ کا
 

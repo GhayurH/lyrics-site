@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Maut ki lori usay ran may qaza deti hai
-  
-  1
   Aur maa qaimon may jeene ki dua deti hai
+
+  1
   Cheh mahine ka gala aur seh pehlu paikaan
   Jaane kis jurm ki ummat ye saza deti hai
-  
+
   2
   Ye hawa hai jo samajhti hai tamanna maa ki
   Khaali jhoola ali asghar ka jhula deti hai
-  
+
   3
   Yaad maa ko jo sataati hai ali asghar ki
   Aah ek bharti hai aur khaak udaa deti hai
-  
+
   4
   Dekh kar jalta hua jhoola ye kehti thi rabab
   Kaisi ummat hai nishani bhi jala deti hai
-  
+
   5
   Maamta ko ye tasalli bhi hai bas zindan talak
   Maa jo pehlu may sakina ko sula deti hai
-  
+
   6
   Ek to neend hi aati nahi maa ko asghar
   Is pe soye to teri yaad jaga deti hai
-  
+
   7
   Shaam ki aurtein karti thi ye abid se sawaal
   Dhoop may kaun hai ye kisko sada deti hai
-  
+
   8
   Raat hoti hai to zindan may maadar akbar
   Loriyon ki jagah ek nauha suna deti hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2105
 # raw_sha256: aa586a25ff240d584cf8ffb819ff2d03ebda10013fd2ad75764ee5f6065a7e92
 ---
-
 موت کی لوری اسے رن میں قضاء دیتی ہے
+اور ماں خیموں میں جینے کی دعا دیتی ہے
 
 ۱
-اور ماں خیموں میں جینے کی دعا دیتی ہے
 چھ مہینے کا گلا اور سہہ پہلو پیکاں
 جانے کس جرم کی امت یہ سزا دیتی ہے
 

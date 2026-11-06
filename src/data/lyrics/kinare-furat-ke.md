@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Kat kar gire thay kal jo kanare furaat ke
-  
-  1
   Wo haath aasra hai hamari nijaat ke
+
+  1
   Hai thokron mein aaj bhi abbas ke furaat
   Aise dhani bhi hote hai dunya mein baat ke
-  
+
   2
   Unse ba-zor e taygh ye bayyat ki koshishein
   Jo fatha dhaal dete hai saanche mein maat ke
-  
+
   3
   Haste ho aansuon pe hamare khuda gawah
   Hum jamma kar rahe hai waseele nijaat ke
-  
+
   4
   Karbobala mein teer e sitam kha ke ek sagheer
   Lehra gaya jahan pe parcham hayaat ke
-  
+
   5
   Tera hi dil tha tu ne uthaali jawan ki laash
   Sadqe hussain is tere paaye sabaat ke
-  
+
   6
   Kis jaa chupe ho ay ali asghar jawab do
   Maadar bhatak rahi hai andhere mein raat ke
-  
+
   7
   Hum bhi ghulame hurr hai karam ay shah e umam
   Kab se hai muntazir nazr e iltefaat ke
-  
+
   8
   Ho jaaye munharif ye zamana to fikr kya
   Hum fatema se lenge silay nauha jaat ke
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2906
 # raw_sha256: 1d921c1770a4da16b67b404b9d6d973ac6f8002b7aedf292e6c2d9e707761ce1
 ---
-
 کٹ کر گرے تھے کل جو کنارے فرات کے
+وہ ہاتھ آسراء ہیں ہماری نجات کے
 
 ۱
-وہ ہاتھ آسراء ہیں ہماری نجات کے
 یے ٹھوکروں میں آج بھی عباس کے فرات
 ایسے دھنی بھی ہوتے ہیں دنیا میں بات کے
 

@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay hassan ke laadle qasim kahan ho tum
-  
-  1
   Qasim kahan ho tum qasim kahan ho tum
+
+  1
   Rahi taaqat na ay qasim tere mazoor ammu ko
   Sukoon kyun kar mile qasim tere ranjoor ammu ko
   Sahara chahiye qasim tere majboor ammu ko
   Mujhe awaaz do qasim jahan ho tum
-  
+
   2
   Tumhi maadar ki ay qasim zaeefi ka sahara hai
   Dar e qaime se tujhko teri amma ne pukara hai
   Ke narghe may layeeno ke mere aankhon ka taara hai
   Mujhe awaaz do qasim jahan ho tum
-  
+
   3
   Tumhare saath ghazi ko agar mai bhejta ran may
   Tujhe wo leke aa jaate tumhari maa ki aangan may
   Ijazat deke mai tujhko phasa hoo mai bhi uljhan may
   Mujhe awaaz do qasim jahan ho tum
-  
+
   4
   Laga kar haath may mehendi chale ho jaanib e maqtal
   Palat kar jald aa jao yahan qaimon may hai halchal
   Tumhari yaad may kubra tadap kar kehti hai pal pal
   Mujhe awaaz do qasim jahan ho tum
-  
+
   5
   Tere pamaal laashe ko agar dekhe wo bechari
   Badi mushkil hai jee paaye tere gham may wo dukhiyari
   Mere qasim dikhadi tune ghazi ki wafadari
   Mujhe awaaz do qasim jahan ho tum
-  
+
   6
   Huwe dunya se ruqsat qasim e tashna dahan aashiq
   Qalam ko choom kar rakh do basad aah o fughan aashiq
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1407
 # raw_sha256: 84a370bcc5b3a5cb5b6c0c94e2c504b63ce0a85dc515cf60238451fc23917b54
 ---
-
 اے حسن کے لاڈلے قاسم کہاں ہو تم
+قاسم کہاں ہو تم قاسم کہاں ہو تم
 
 ۱
-قاسم کہاں ہو تم قاسم کہاں ہو تم
 رہی طاقت نہ اے قاسم تیرے معزور عمو کو
 سکوں کیوں کر ملے قاسم تیرے رنجور عمو کو
 سہارا چاہیےء قاسم تیرے مجبور عمو کو

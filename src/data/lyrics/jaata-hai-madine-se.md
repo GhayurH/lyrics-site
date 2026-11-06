@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   Jaata hai madine se mohamed ka gharana
-  
-  1
   Sughra ko diye jaata hai zakhmon ka khazana
+
+  1
   Jo hai wohi saaman e safar baandh raha hai
   Lekin mera bistar usay goshe mein pada hai
   Mujhse ye hidayat hai dawa waqt se khaana
-  
+
   2
   Hai saath mein baba ke chacha bhai hamare
   Suraj ke tarafdaar hai sab chand sitaare
   Ab aaj se ghar ho ga andheron ka thikana
-  
+
   3
   Beemar hoon lekin koi khatra to nahi hai
   Mai raah mein mar jaungi aisa to nahi hai
   Dhoonda hai mujhe chod ke jaane ka bahana
-  
+
   4
   Kuch dayr wo lipti rahi phupiyon ki rida se
   Baba se kaha aur kabhi apne chacha se
   Le jaane pe sughra ko magar koi na maana
-  
+
   5
   Pardes mein bhi mere liye sochte rehna
   Khat bhej ke tum sab ki khabar bhejte rehna
   Is chaahne waali ko zyada na rulaana
-  
+
   6
   Dil ke kisi goshe mein mera naam bhi likh lo
   Phir jisko bhi chaaho usay jee jaan se chaaho
   Lekin mere hisse ki mohabbat na lutana
-  
+
   7
   Mai koi bhi zehmat tumhe hone nahi doongi
   Aankhein to alag dil ko bhi rone nahi doongi
   Tum mere taraf se koi sadma na uthana
-  
+
   8
   Kuch din mein mera bhai ho jab bolne waala
   De dena isharon mein usay mera hawala
   Bechain agar ho to usay zyada na batana
-  
+
   9
   Tanhaai dade hadh se to bhulwa na sakun mai
   Ya aana bhi chaahun kabhi aa na sakun mai
   Bas itni guzarish hai kahin door na jaana
-  
+
   10
   Jeene nahi deta mujhe yaadon se bhara ghar
   Aisa bhi nahi koi jo gham baat le aa kar
   Apno ki tarha bhool gaya mujhko zamana
-  
+
   11
   Di laakh suroor usne na jaane ki duhaai
   Beemar kisi ko bhi magar rokh na paayi
@@ -71,11 +71,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3751
 # raw_sha256: e71d7298eede2c8d2eba8038bc2cc6df20377f942cf2f2aff9551c60d8dc9370
 ---
-
 جاتا ہے مدینے سے محمد کا گھرانہ
+صغرا کو دیےء جاتا ہے زخموں کا خزانہ
 
 ۱
-صغرا کو دیےء جاتا ہے زخموں کا خزانہ
 جو ہے وہی سامان سفر باندھ رہا ہے
 لیکن میرا بستر اسے گوشے میں پڑا ہے
 مجھ سے یہ ہدایت ہے دوا وقت سے کھانا

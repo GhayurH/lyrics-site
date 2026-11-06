@@ -10,30 +10,29 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haye hussain mere laal
   Kahan kahan mai tujhe royun mere laal bata
   Har ek maqam se aati hai ek maa ki sada
   Tumhare qatl pe roya hai aasman bhi lahoo
   Zibhe azeem shaheede al kafa bekhata
   Har ek maqam se aati hai ek maa ki sada
-  
-  2
+
+  1
   Ajeeb paaye hai aulaad e murtaza ne naseeb
   Baghair kafan hai bhai to behan hai berida
   Har ek maqam se aati hai ek maa ki sada
-  
-  3
+
+  2
   Rayees e aazam o sardar hoke jannat ka
   Kyun apne aap ko phir tu ghareeb kehta raha
   Har ek maqam se aati hai ek maa ki sada
-  
-  4
+
+  3
   Nahi hai chain mujhe qabr mein bhi beta hussain
   Tumhari yaad mein rehti hoon roti subho masa
   Har ek maqam se aati hai ek maa ki sada
-  
-  5
+
+  4
   Mere hussain ko royega jo bhi shaks ameer
   Mai doongi ajr bhi uske liye karungi dua
   Har ek maqam se aati hai ek maa ki sada
@@ -41,8 +40,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3365
 # raw_sha256: 8649d18794c0481f0446ebedf8a963e740fcc0594fc5d0af49770a23c22a1b42
 ---
-
-۱
 ہاے حسین میرے لال
 کہاں کہاں میں تجھے روؤں میرے لال بتا
 ہر ایک مقام سے آتی ہے ایک ماں کی صدا
@@ -50,22 +47,22 @@ romanLyrics: |-
 ذبح عظیم شہید الکفا بے خطا
 ہر ایک مقام سے آتی ہے ایک ماں کی صدا
 
-۲
+۱
 عجیب پاے ہیں اولاد مرتظی نے نصیب
 بغیر کفن ہے بھای تو بہن ہے بے ردا
 ہر ایک مقام سے آتی ہے ایک ماں کی صدا
 
-۳
+۲
 رییس اعظم و سردار ہوکے جنت کے
 کیوں اپنے آپ کو پھر تو غریب کہتا رہا
 ہر ایک مقام سے آتی ہے ایک ماں کی صدا
 
-۴
+۳
 نہیں ہے چین مجھے قبر میں بھی بیٹا حسین
 تمہاری یاد میں رہتی ہوں روتی صبح و مسا
 ہر ایک مقام سے آتی ہے ایک ماں کی صدا
 
-۵
+۴
 میرے حسین کو روے گا جو بھی شخص امیر
 میں دونگی اجر بھی اس کے لئے کروں گی دعا
 ہر ایک مقام سے آتی ہے ایک ماں کی صدا

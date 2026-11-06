@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussainiyo ke liye josh o walwala abbas
-  
-  1
   Yazeediyo ke liye qehre kibriya abbas
+
+  1
   Duayein aaj bhi maqbool hai tere dar ki
   Buland paaya hai wo tune martaba abbas
-  
+
   2
   Chala to mashke sakina ko bhar ke suye qayam
   Ghazab hai teere sitam ka hadaf bana abbas
-  
+
   3
   Rahegi zaamine tameele hukme shaahe umam
   Labe furaat wo pyasi teri wegha abbas
-  
+
   4
   Har ek gaam pe kehte thay sayyede sajjad
   Madad ko aaiye behre khuda chacha abbas
-  
+
   5
   Dayaare shaam mein zainab pukaar uth'ti thi
   Ridaye paak ke waaris hai be-rida abbas
-  
+
   6
   Bhatak na paaye wo azhar jo sheh ka zaair hai
   Ye karbala mein dikhate hai maujeza abbas
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=758
 # raw_sha256: 196b44557cd8f0280e30eddbf1caa6fa87bc8b5bbc0921e655862c65abe5dee4
 ---
-
 حسینیوں کے لیے جوش و ولولہ عباس
+یزیدیوں کے لیے قہرِ کبریائ عباس
 
 ۱
-یزیدیوں کے لیے قہرِ کبریائ عباس
 دعائیں آج بھی مقبول ہیںتیرے در کی
 بلند پایا ہے وہ تُو نے مرتبہ عباس
 

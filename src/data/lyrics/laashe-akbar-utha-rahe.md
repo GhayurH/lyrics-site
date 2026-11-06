@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Laashe akbar utha rahe hai hussain
-  
-  1
   Ya ali kehte jaa rahe hai hussain
+
+  1
   Mere beta zara galay se lago
   Kuch to baba se uth ke baat karo
   Dekho kab se bula rahe hai hussain
-  
+
   2
   Badi hasrat se jaanib e darya
   Apne bhai ka dekh kar laasha
   Sirf aansu baha rahe hai hussain
-  
+
   3
   Aankh bhi kholte nahi akbar
   Kuch bhi ab bolte nahi akbar
   Bas galay se laga rahe hai hussain
-  
+
   4
   Maut ki neend so gaya beta
   Hai khabar ab kabhi na uthega
   Haye phir bhi jaga rahe hai hussain
-  
+
   5
   Bani hashim ke bachon aa jao
   Naujawan ka janaza uthwao
   Bekasi may bu?a rahe hai hussain
-  
+
   6
   Khaake maqtal se dasht e ghurbat may
   Laashe kadiyal jawan ki surat may
   Apni mayyat utha rahe hai hussain
-  
+
   7
   Sehra baandha hai maut ne aa ke
   Khoon ki mehndi hai haath may jis ke
   Aise dulhe ko laa rahe hai hussain
-  
+
   8
   Baap ko bete dete hai kaandha
   Laasha lekin jawan bete ka
   Apne kaandho pe laa rahe hai hussain
-  
+
   9
   Mesum ab kya bayan ho ranj o malaal
   Naame abbas le ke mir hilal
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1657
 # raw_sha256: 5de2813eadd1f9f389330b69233afc2eb7e0b2e576b32af8a29a0e4fb475d8b5
 ---
-
 لاشہ اکبر اٹھا رہے ہیں حسین
+یا علی کہتے جا رہے ہیں حسین
 
 ۱
-یا علی کہتے جا رہے ہیں حسین
 میرے بیٹا زرا گلے سے لگو
 کچھ تو بابا سے اٹھ کے بات کرو
 دیکھو کب سے بلا رہے ہیں حسین

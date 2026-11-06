@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Ubhalta hai samandar khoon ka allah ke ghar se
-  
-  1
   Ali zakhmi huwe hai aaj shamsheer e sitamgar se
+
+  1
   Ali ki bekali par zindagi aansu bahaati hai
   Sada e al-feraq aati hai har ek tare bistar se
-  
+
   2
   Pareshan surkh chehra sard hai aur surkh hai aankhein
   Yateemi kya hai poocho aaj abbas e dilawar se
-  
+
   3
   Dil e islam se hook uth'ti hai emaan rota hai
   Musalle par jo behta hai namazi ka lahoo sar se
-  
+
   4
   Dil e ummul baneen ko bewagi ka gham uthana hai
   Suhagan zindagi khoon ro rahi hai deeda e tar se
-  
+
   5
   Tadap ay fitrate islam moula jaane waale hai
   Payam e irjaee aane ko hai allah ke ghar se
-  
+
   6
   Suni hai jiske kaano ne hadees e raas karasi
   Wo pooche gham ali ki mauth ka qabr e payambar se
-  
+
   7
   Janaza kulle emaan ka ali fitrat jab uthega
   Na jaane haal kya zainab ka hoga gham ke khanjar se
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1520
 # raw_sha256: 4ef1fc5c516a37714f2105ad2eab46c1b9a2ea5dee7c739f340b0e8c2d58475b
 ---
-
 اُبلتا ہے سمندر خون کا اللہ کے گھر سے
+علی زخمی ہوئے ہیں آج شمشیرِ ستمگر سے
 
 ۱
-علی زخمی ہوئے ہیں آج شمشیرِ ستمگر سے
 علی کی بیک علی پر زندگی آنسُو بہاتی ہے
 صدا یہ اَل فراق آتی ہے ہر اک تارے بستر سے
 

@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Tere marne se kamar toot gayi hai abbas
-  
-  1
   Marsiya shaah ke honton pa yehi hai abbas
+
+  1
   Bhai se bhai bichadta hai hamesha ke liye
   Ye judaai ki hawa kaisi chali hai abbas
-  
+
   2
   Tere shaano ke bharose thi rida zainab ki
   Haye ye aas bhi ab toot rahi hai abbas
-  
+
   3
   Mashk jis ke liye darya ki taraf laaye thay
   Muntazar wo dar e qaima pe khadi hai abbas
-  
+
   4
   Ek baar apni zuban se mujhe bhai keh do
   Aarzoo toote huwe dil ki yehi hai abbas
-  
+
   5
   Kya hua aap ka bat'tees baras ka bhai
   Mujhse tanhaai meri pooch rahi hai abbas
-  
+
   6
   Dil ke tukdon ko bikharte huwe dekha ab tak
   Aur ab tum se judaai ki ghadi hai abbas
-  
+
   7
   Muntazar sirf sakina hi nahi hai teri
   Raah sughra bhi khadi dekh rahi hai abbas
-  
+
   8
   Shiddat e tashna labi aur judaai teri
   Mere seene mein ajab aag lagi hai abbas
-  
+
   9
   Apni khairaat se bhar dijiye daaman e bilal
   Daastan usne tere gham ki likhi hai abbas
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1774
 # raw_sha256: b6cab01176752bae57c540ef0bc17a5a31379fdeccafc09dc97bb782509cdfb3
 ---
-
 تیرے مرنے سے کمر ٹوٹ گیء ہے عباس
+مرثیہ شاہ کے ہونٹوں پہ یہی ہے عباس
 
 ۱
-مرثیہ شاہ کے ہونٹوں پہ یہی ہے عباس
 بھای سے بھای بچھڑتا ہے ہمیشہ کے لئے
 یہ جدائی کی ہوا کیسی چلی ہے عباس
 

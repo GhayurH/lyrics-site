@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Laashe abbas pe kehte thay hussain ibne ali
-  
-  1
   Bhai ke marne se bhai ki kamar toot gayi
+
+  1
   Aat pehron se jo pyasa tha wafadar mera
   Kar liya nehr pe qabza bhi to pani na piya
   Jee ke ab kya karun jeene mein nahi lutf koi
-  
+
   2
   Jiska koi nahi saani wo wafa kar ke gaya
   Ek mashkeeze pe do baazu fida kar ke gaya
   Is wafadar ki furqat mein kahunga mai yehi
-  
+
   3
   Haye battees baras saath nibhaya jis ne
   Ek shajar ki tarha mujh par kiya saaya jis ne
   Umr bhar bhai ko bhai na kaha jis ne kabhi
-  
+
   4
   Jab wo ghode se gira mujhko sada di aise
   Baap ko beta musibat mein pukare jaise
   Wo sidhara to mujhe jeene ki khwahish na rahi
-  
+
   5
   Thokarein khaata jo maqtal chala karke buka
   Baazu abbas ke dekhe to wahin baith gaya
   Choom kar baazu e abbas kaha dil ne yehi
-  
+
   6
   Apne zaano pe sar e sher e jari rakh ke kaha
   Sirf ek baar mujhe bhai pukaro bhaiya
   Kehna chaaha tha magar saans wafa kar na saki
-  
+
   7
   Nauha karne laga safar bhi ye keh kar mazhar
   Qaima e shaah ka us waqt ajab tha manzar
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3745
 # raw_sha256: 1e12b8bdd4cc5e4dd30439c16aa528aded0f045e17d03eb12343ef3b3b59761c
 ---
-
 لاش عباس پہ کہتے تھے حسین ابنِ علی
+بھای کے مرنے سے بھائی کی کمر ٹوٹ گیء
 
 ۱
-بھای کے مرنے سے بھائی کی کمر ٹوٹ گیء
 آٹھ پہروں سے جو پیاسا تھا وفادار میرا
 کر لیا نہر پہ قبضہ بھی تو پانی نہ پیا
 جی کے اب کیا کروں جینے میں نہیں لطف کوی

@@ -9,65 +9,41 @@ poet: "Zahid"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Maa kehti thi qurban tumhare ali asghar
-
-
-  1
-
+romanLyrics: |-
+  Maa kehti thi qurban tumhare ali asghar
   Pyare ali asghar mere pyare ali asghar
 
+  1
   Tum pyaas bujhane ke liye ran may gaye ho
-
   Darti hoo koi teer na maare ali asghar
 
-
   2
-
   Jab tum na rahe paas to jeene ka maza kya
-
   Bolo mai jiyun kiske sahare ali asghar
 
-
   3
-
   Gehwara hai khaali kaho ab kisko jhulaun
-
   Tum to huwe allah ko pyare ali asghar
 
-
   4
-
   Dunya meri tareek hai tum jab se gaye ho
-
   Aaja meri aankhon ke taare ali asghar
 
-
   5
-
   Tanhaai may jaan khoti hai ro ro ke sakina
-
   Kehti hai ke aajao hamare ali asghar
 
-
   6
-
   Jo bhi gaya maidan may wo wapas nahi aaya
-
   Maa laal kisay keh ke pukare ali asghar
 
-
   7
-
   Abbas e jari bhool gaye pyaas khud apni
-
   Yaad aaye jo darya ke kanare ali asghar
 
-
   8
-
   Be-aasra zahid ko na samjhe ye zamana
-
-  Zahid ke hai masoom sahare ali asghar'
+  Zahid ke hai masoom sahare ali asghar
 # source_id: nohayonline:c9e44bbef08b5ac1b435
 # source_url: https://www.nohayonline.com/details_content.php?id=1436
 # raw_sha256: d09da4725062e154d5efbb5d236f548aacb4934f272e2aba5f487c3cc4d6d749
@@ -75,11 +51,10 @@ romanLyrics: 'Maa kehti thi qurban tumhare ali asghar
 # source_url: https://www.ziyaraat.net/api/noha/2262
 # raw_sha256: 504f9498daed32ba0ffe52cb82584820549c3341e2a2ea60efbfda39888dc5ec
 ---
-
 ماں کہتی تھی قربان تمہارے علی اصغر
+پیارے علی اصغر میرے پیارے علی اصغر
 
 ۱
-پیارے علی اصغر میرے پیارے علی اصغر
 تم پیاس بجھانے کے لئے رن میں گےء ہو
 ڈرتی ہوں کوئی تیر نہ مارے علی اصغر
 

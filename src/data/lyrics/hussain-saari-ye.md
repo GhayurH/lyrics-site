@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain saari ye kainaat tere dam se hai
-  
-  1
   Ye dil abaad hashr tak bhi tere gham se hai
+
+  1
   Kaha tha kis ne ye maula teri sharafat pe
   Ke hum hussain se hai aur hussain hum se hai
-  
+
   2
   Kata ke tu ne jo sar deen ko kiya zinda
   Har ek aankh ashk baar tere gham se hai
-  
+
   3
   Ufaq pe aaj jo surkhi hai khoone na-haq ki
   Zameen udaas abhi tak bhi tere gham se hai
-  
+
   4
   Namaz e ishq ada ki jo tu ne teeron mein
   Namaz aaj bhi qaayam tere alam se hai
-  
+
   5
   Tere namoos jo darbar mein thay beparda
   Hairaan aalam e islam is sharam se hai
-  
+
   6
   Karenge seena zani jab talak hai ye dunya
   Hamara deen emaan aap ke hi gham se hai
-  
+
   7
   Diya tha parcham e islam par jo khoon tera
   Mashaf fizaon mein ab tak tere karam se hai
-  
+
   8
   Jaga bhi denge ye soye huwe naseebon ko
   Dar e batool pe sardar aankh nam se hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2333
 # raw_sha256: 522a92f2825d1e023934e1817ee8b08b843a61a89f1f80d03eb27daa72c60e1d
 ---
-
 حسین ساری یہ کاینات تیرے دم سے ہے
+یہ دل آباد حشر تک بھی تیرے غم سے ہے
 
 ۱
-یہ دل آباد حشر تک بھی تیرے غم سے ہے
 کہا تھا کس نے یہ مولا تیری شرافت پہ
 کہ ہم حسین سے ہے اور حسین ہم سے ہے
 

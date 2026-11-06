@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Alvida maula ali alvida maula ali
-  
-  1
   Ja raha hai aaj dunya se mohamed ka wasi
+
+  1
   Naale e jibreel se larze zameen o aasman
   Haye wo maara gaya jo hai imame ins o jaan
   Sajde e haq mein hai zarbat farqe haider par lagi
-  
+
   2
   Baap ke qadmon se lipti ro rahi hai betiyan
   Kya kare kya keh ke de inko tasalli mujtaba
   Mar na jaye baap ki mayyat pe ro ro kar abhi
-  
+
   3
   Dhoondti hai tum ko zainab ki nigahein har jagah
   Sayyeda aa kar dilaasa dijiye inko zara
   Farte gham se hai ajab haalat idhar kulsoom ki
-  
+
   4
   Baba tum hi thay sahara baad e binte mustafa
   Gham abhi taaza tha dil mein maadare dilgeer ka
   Bas yateemon ki tarha guzregi ab ye zindagi
-  
+
   5
   Baap ki tarha yateemon ka jo rakhta tha khayal
   Us ke gham mein ho rahe hai haye wo bacche nidhal
   Aaj kufe ke yateemon mein ajab hai bekali
-  
+
   6
   Murtaza ghar mein jo aaye bas usi hangaam mein
   Betiyan aa kar jo lipti to usi kohraam mein
   Ek nanhi si yateema yaad mujhko aa gayi
-  
+
   7
   Baad tere zulm ye bhi hum pe dhayenge layeen
   Teer shabbar ke janaze par chalayenge layeen
   Kis tarha ghazi ko rokungi bhala mai us ghadi
-  
+
   8
   Ab tumhare baad sajne hi ko hai karbobala
   Pa barehna haath bandwaye huwe aur berida
   Kis tarha guzregi baazaron se teri laadli
-  
+
   9
   Teen din ki pyaas aur wo kund khanjar shimr ka
   Kis tarha dekhungi baba tum hi batlao zara
   Chal rahi hogi gulu e shaah par jis dam churi
-  
+
   10
   Baap se lipti hui kehti thi zianab baar baar
   Baab e saa’at par karungi aap ka mai intezar
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2901
 # raw_sha256: 0e4f5953ca9a5d9da254b81aa5c3418f80eafe22f8a0e944e2c6f5b493dfa6d4
 ---
-
 الوداع مولا علٸ الوداع مولا علی
+جا رہا ہے آج دنیا سے محمد کا وصی
 
 ۱
-جا رہا ہے آج دنیا سے محمد کا وصی
 نالےٴ جبرئیل سے لرزے زمین و آسماں
 ہائے وہ مارا گیا جو ہے امامِ انس و جان
 سجدےٴ حق میں ہے ضربت فرقےٴ حیدر پر لگی

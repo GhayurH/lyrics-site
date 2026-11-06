@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Gham o alam ka sarapa hussain tanha hai
-  
-  1
   Meinaan e lashkare aada hussain tanha hai
+
+  1
   Koi nahi hai jo thaame rakaab e asp e hussain
   Ab aao zainab e kubra hussain tanha hai
-  
+
   2
   Zaeef baap uthaye huwe hai laashe jawan
   Koi nahi hai sahara hussain tanha hai
-  
+
   3
   Wo jis se ahle haram ke dilon ko dhaaras thi
   Chala gaya suye darya hussain tanha hai
-  
+
   4
   Aba mein baand ke laata hai laashe qasim ko
   Hai paara paara bhatija hussain tanha hai
-  
+
   5
   Batao kaise wo asghar ki qabr khodega
   Hai iske haathon pe laasha hussain tanha hai
-  
+
   6
   Badi hi wehshat o hasrat se dekhti hai behan
   Utha ke qaime ka parda hussain tanha hai
-  
+
   7
   Mere qalam ne banaya hai karbala ko watan
   Ye soch kar mera maula hussain tanha hai
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1422
 # raw_sha256: df18bcee128e5cf1746b805ac1a82f0776d8092eb69247a6f1c7ecb4553c92cf
 ---
-
 غم و الم کا سراپا حسین تنہا ہے
+میان لشکر اعدا حسین تنہا ہے
 
 ۱
-میان لشکر اعدا حسین تنہا ہے
 کوئی نہیں ہے جو تھامے رکاب اسپ حسین
 اب آؤ زینب کبریٰ حسین تنہا ہے
 

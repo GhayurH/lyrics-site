@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Bekason ka khaafla hai shaam ka bazaar hai
-  
-  1
   Khwahar e abbas e ghazi khaafla salaar hai
+
+  1
   Kyun na rone ki sada aaye dar o dewaar se
   Berida saydaniya hai aur bhara darbar hai
-  
+
   2
   Kis tarha maange ghulamo se bhala abid rida
   Ye hai ghazi ka bhatija aur bada khuddaar hai
-  
+
   3
   Yun hikharat se na dekho sayyed e sajjad ko
   Ye koi muflis nahi kaunain ka sardar hai
-  
+
   4
   Khaak sar pa taaziyano ke nishan hai pusht par
   Tauq hai zanjeer hai aur abid e bemaar hai
-  
+
   5
   Ya elaahi kaise guzrega ye naazon ka pala
   Paaon may chaale pade hai raasta pur khaar hai
-  
+
   6
   Taaziyane mat lagao mat satao zaalimo
   Ye bhaot zakhmi bahot pyasa bahot bemaar hai
-  
+
   7
   Chup hai abid ghamzada ghabra rahi hai bibiyan
   Ab bahot nazdeek shayad shaam ka darbar hai
-  
+
   8
   Keh raha hai shaah ki aankhon se khoon behta hua
   Shaam ke bazaar ki manzil bahot dushwaar hai
-  
+
   9
   Jo gharana lut gaya tha dasht may gohar kabhi
   Aaj wohi do jahan ka maalik o mukhtar hai
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1905
 # raw_sha256: e5c5059b0290cba8012bbaa7b1be96451d2c9a44df51801afaf683ce249fe9ba
 ---
-
 بیکسوں کا قافلہ ہے شام کا بازار ہے
+خواہر عباس غازی قافلہ سالار ہے
 
 ۱
-خواہر عباس غازی قافلہ سالار ہے
 کیوں نہ رونے کی صدا آے در و دیوار سے
 بے ردا سیدانیاں ہے اور بھرا دربار ہے
 

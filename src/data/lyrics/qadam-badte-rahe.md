@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   Qadam badhta rahe aao karbala ki taraf
-  
-  1
   Labon pe ya hussain ho aur aankh ashk baar
+
+  1
   Saath le ke karbala ke sher ka alam
   Bawafa sipahi ki tarha uthe qadam
   Yazeediyat ko rond do badhe chalo badhe chalo
   Karbala mein jis tarha badhe thay sheh ke jaanisaar
-  
+
   2
   Raah mein khade hai saf ba saf malayeka
   Tumko dekh dekh kar kahenge marhaba
   Tum azaa ka chain ho zaair e hussain ho
   Tumse milne ke liye hai ambiya bhi beqaraar
-  
+
   3
   Shaah e deen fatema ka noore ain ka
   Jis jagah pe lut gaya tha ghar hussain ka
   Jahan pe sar qalam hua lahoo mein tar alam hua
   Royi nanhi qabr khod ke jahan pe zulfaqaar
-  
+
   4
   Jis ke bete hogaye shaheed be khata
   Ran mein jis ki betiyo ki chin gayi rida
   Jo dasht mein ujad gayi hussain se bichad gayi
   Wo ghareeb maa tumhara kar rahi hai intezar
-  
+
   5
   Bhai ke mazaar par behan ke saath saath
   Ro rahi hai bain kar ke saari kayenaat
   Zameen se taa'ba aasman hai ek matami samaan
   Hogi har taraf hussain ya hussain ki pukaar
-  
+
   6
   Yaad saare momino ko dam ba dam rahe
   Karbala pahunch ke har nigaah kham rahe
   Har ek kaneez e fatema bol kar rakhe rida
   Ye rahe khayal tum hussain ke ho sogwaar
-  
+
   7
   Khoon mein tar namaz padh ke shaah ne kaha
   Hai yehi baqa e deen raza e kibriya
   Ho bar zameen e karbala namaz waqt par ada
   Dega sajday e hussain bi duayein beshumar
-  
+
   8
   Har qadam ho maqsade hussain ki taraf
   Badh rahe ho akherat ke chain ki taraf
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2632
 # raw_sha256: 5edeb84bdb5ac18d0cd4e6a73e6cf4f2e8d5c8a667d9145f807ef2e8e6e5872f
 ---
-
 قدم بڑھتا رہے آؤ کربلا کی طرف
+لبوں پہ یا حسین ہو اور آنکھ اشک بار
 
 ۱
-لبوں پہ یا حسین ہو اور آنکھ اشک بار
 ساتھ لے کے کربلا کے شیر کا علم
 باوفا سپاہی کی طرح اٹھے قدم
 یزیدیت کو روند دو بڑھے چلو بڑھے چلو

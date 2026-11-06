@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Hamare lahoo ki sada karbala
-  
-  1
   Dilon par hai likha hua karbala
+
+  1
   Hussain ya hussainan hussain ya hussain
   Muqaddas duaon ke paale hai hum
   Ke farshe aza ke ujaale hai hum
   Zamana bohat dekhe bhaale hai hum
   Sitam se kahan darne waale hai hum
   Hame de gayi hausla karbala
-  
+
   2
   Hussain ya hussainan...
   Azadaron tum haq ki jaanib badho
@@ -28,7 +28,7 @@ romanLyrics: |-
   Chalo raahe karbobala par chalo
   Ke izzat se jeene ka waada karo
   Tumhe de rahi hai dua karbala
-  
+
   3
   Hussain ya hussainan...
   Hame fakhr hai hum azadaar hai
@@ -36,7 +36,7 @@ romanLyrics: |-
   Sar apna katane ko tayyar hai
   Hai zanjeer mein phir bhi mukhtar hai
   Ke hum par hai teri ata karbala
-  
+
   4
   Hussain ya hussainan...
   Qasam khao dil dil se jodenge hum
@@ -44,7 +44,7 @@ romanLyrics: |-
   Kaleje se barchi ko todenge hum
   Yazeedon ko zinda na chodenge hum
   Dil o jaan tujh par fida karbala
-  
+
   5
   Hussain ya hussainan...
   Hussain aap hai mustafa ka jamaal
@@ -52,7 +52,7 @@ romanLyrics: |-
   Libaas e bashar mein khuda ka jalaal
   Khuda ki tarha hashr tak be-misaal
   Yaqeenan hai ek maujiza karbala
-  
+
   6
   Hussain ya hussainan...
   Har ek mulk me hai hussaini nishan
@@ -60,7 +60,7 @@ romanLyrics: |-
   Jahan dekhiye farshe gham hai wahan
   Hai kitna bada haq ka ye karwan
   Hai phaili hui jaa baja karbala
-  
+
   7
   Hussain ya hussainan...
   Faza majlison ki hai kitni bhali
@@ -68,7 +68,7 @@ romanLyrics: |-
   Hawa zikre sarwar ki aisi chali
   Sada aayi har simt se ya ali
   Kaha badh ke kaabe ne ya karbala
-  
+
   8
   Hussain ya hussainan...
   Juda ab bhi bharat teri shaan hai
@@ -76,7 +76,7 @@ romanLyrics: |-
   Ye ganga bhi ashkon ka wardaan hai
   Ho pyason pe qurban ye armaan hai
   Hai hindu ke ghar taziya karbala
-  
+
   9
   Hussain ya hussainan...
   Ho nayyar pe aamir pe ya rab karam
@@ -84,18 +84,17 @@ romanLyrics: |-
   Saron par hamare rahe ye alam
   Ke naslon mein baaqi rahe sheh ka gham
   Jo aaye unhe bhi dikha karbala
-  
+
   10
   Hussain ya hussainan...
 # source_id: nohayonline:15fce2f338ce61659704
 # source_url: https://www.nohayonline.com/details_content.php?id=3582
 # raw_sha256: 78e7ccbd1c715a4d52f05e77549f875a2291fdc5c98244639f92cc9b84697c54
 ---
-
 ہمارے لہو کی صدا کربلا
+دلوں پر ہے لکھا ہوا کربلا
 
 ۱
-دلوں پر ہے لکھا ہوا کربلا
 حسین یا حسینن حسین یا حسین
 مقدس دعاؤں کے پالے ہے ہم
 کہ فرش عزا کے اجالے ہیں ہم

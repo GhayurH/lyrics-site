@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Kis khaum may rawan hai pani ka band karna
-  
-  1
   Aale nabi ko pyasa kisne zibha kiya hai
+
+  1
   Maari kisi ne barchi naiza kisi ne maara
   Dam tod'ta hai beta aur baap dekhta hai
-  
+
   2
   Maare shimr ne baba moo par mere tamache
   Binte hussain tadpi mere durr bhi khenchta hai
-  
+
   3
   Abbas e bawafa ne aisi wafa dikhayi
   Baazu kahin pade hai laasha kahin pada hai
-  
+
   4
   Zainab se koi pooche kaise mari sakina
   Zindan may akeli dam jiska ghut gaya hai
-  
+
   5
   Kya hurmala ne jaana pyasa nahi tha asghar
   Jiske galay ko chalni us teer ne kiya hai
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=583
 # raw_sha256: b44b0a41035ff4976e5480c3c7c20f145d775fb0d4e2663ce0291d9a3b813672
 ---
-
 کس قوم میں رواں ہے پانی کا بند کرنا
+آلِ نبی کو پیاسا کس نے ذبح کیا ہے
 
 ۱
-آلِ نبی کو پیاسا کس نے ذبح کیا ہے
 ماری کسی نے برچھی نیزہ کسی نے مارا
 دم توڑتا ہے بیٹا اور باپ دیکھتا ہے
 

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Dunya se safar jaanib e uqba hai naqi ka
-  
-  1
   Ghamgheen har ek chaahne wala hai naqi ka
+
+  1
   Pardes mein maut aayi hai zehra ke pisar ko
   Shabbir ka gham sogh manata hai naqi ka
-  
+
   2
   Abbas alamdar madad karne ko aao
   Dam aalame ghurbat mein nikalta hai naqi ka
-  
+
   3
   Neela hai badan zehr e halahal se sad afsos
   Reh reh ke dehn khoon ughalta hai naqi ka
-  
+
   4
   Yun saamra aa jaye na yasrab se payambar
   Ghurbat mein musibat mein sarapa hai naqi ka
-  
+
   5
   Saare hi imam aah tadapte hai basad gham
   Tanhaai ka aalam hai janaza hai naqi ka
-  
+
   6
   Marqad mein nahi chain taqi ko koi lamha
   Chain aaye bhi kyun haal hi aisa hai naqi ka
-  
+
   7
   Aulaad ka gham maa se zyada kise hoga
   Zehra se koi pooche to gham kya hai naqi ka
-  
+
   8
   Is tarha azeem aap ne likhi hai ye rudaad
   Alfaaz bhi kehte hai ye nauha hai naqi ka
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1345
 # raw_sha256: d35ef78d830dc3d5e6065052c00cd49749c6c42d02bb021aa8936c9c8178504e
 ---
-
 دنیا سے سفر جانب عقبہ ہے نقی کا
+غمگین ہر ایک چاہنے والا ہے نقی کا
 
 ۱
-غمگین ہر ایک چاہنے والا ہے نقی کا
 پردیس میں موت آی ہے زہرا کے پسر کو
 شبیر کا غم سوگ مناتا ہے نقی کا
 

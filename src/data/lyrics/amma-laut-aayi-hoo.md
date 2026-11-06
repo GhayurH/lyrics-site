@@ -10,43 +10,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Amma laut aayi hoo mai
-  
-  1
   Daagh dil pe bahattar ke laayi hoo mai
+
+  1
   Jab gaye thay yahan se to ghar tha bhara
   Gulsitan tera phoolon se abaad tha
   Haye dashte sitam haye karbobala
   Loot kar legayi sab bhara ghar mera
   Sab luta aayi teri kameini hoo mai
-  
+
   2
   Qasimo akbaro asghare dilruba
   Sab ke sab hogaye karbala mein juda
   Sher jaisa wo abbas bhai mera
   Katgaye haath saahil pe maara gaya
   Nehr pe bekafan chod aayi hoo mai
-  
+
   3
   Choomti thi bade pyar se jo gala
   Dasthe ghurbat mein tan se hua wo juda
   Ek khatra dame zibha mil na saka
   Laadla tera pyasa jahan se gaya
   Khoon bhara payrahan saath laayi hoo mai
-  
+
   4
   Baade shabbir itna bada hausla
   Cheen kar legaye chadare ashkiyan
   Qaima e ahl par thay rasoole khuda
   Aag lagti gayi khaak hota gaya
   Jalte qaimon se abid ko laayi hoo mai
-  
+
   5
   Jaa baja pa barehna yuhin sar khule
   Shaam o koofa ki galiyon mein khaynche gaye
   Kya kahoon waaliye shaam ke saamne
   Haath thay rassiyon mein hamare bandhe
   Neel baazu ke dikhlane aayi hoo mai
-  
+
   6
   Wo dulaari sakina bhatiji meri
   Kha rahi thi tamache mai chup thi khadi
@@ -57,11 +57,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=748
 # raw_sha256: 9165d43f190f5087a8e0edd339c7322727e06d8ee478ac1f7c415f43599f3bfe
 ---
-
 اماں لوٹ آئی ہوں میں
+داغ دل پہ بہتر کے لائی ہوں میں
 
 ۱
-داغ دل پہ بہتر کے لائی ہوں میں
 جب گئے تھے یہا ں سے تو گھر تھا بھرا
 گُلستان تیرا پھولوں سے آباد تھا
 ہائے دشتِ ستم ہائے کرب و بلا

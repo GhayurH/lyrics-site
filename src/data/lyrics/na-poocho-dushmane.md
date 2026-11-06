@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Na poocho dushmane emaan se
-  
-  1
   Noor e ali kya hai
+
+  1
   Jo khud andha hai wo kaise bataye
   Ke roshni kya hai
-  
+
   2
   Zaban katwa ke apni kar gaye ehsaan ye meesum
   Samajhna sabse mushkil kaam tha ishq e ali kya hai
-  
+
   3
   Mohamed aur ali dono ka jalwa ek jalwa hai
   Koi kaise batayega nabi kya hai wasi kya hai
-  
+
   4
   Kiya hamla kaha abbas ne darya ki faujon se
   Zara tehro bataate hai jalaal e hyderi kya hai
-  
+
   5
   Sare saahil qayamat dekhna kuch dayr guzre to
   Abhi to ghaiz may abbas aate hai abhi kya hai
-  
+
   6
   Mere shabbir de do saath bete aaj raahib ko
   Riza e rashk e maalik ho tumhe maula kami kya hai
-  
+
   7
   Ali ne ek shab e hijrat may khud paighambari ki hi
   Ali se poochiye batlayenge paigambari kya hai
-  
+
   8
   Ye hai dozak ka angaara wo hai firdaus ka maalik
   Yazeed e shaam kya hai aur farzand e nabi kya hai
-  
+
   9
   Ali se taaba qayam silsila hai noor ka khaayal
   Wo baara manzilein hai noor ki baaradari kya hai
-  
+
   10
   Mai mahir kya karunga dekh kar dunya ko nazron se
   Dar e shabbir par baitha hua hoo ab kami kya hai
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1219
 # raw_sha256: 3e15fffffa3cec92276e0656ceee45c9e0c6c5ae59f0665e5eaaf4411d881ec6
 ---
-
 نہ پوچھو دشمن ایمان سے
+نور علی کیا ہے
 
 ۱
-نور علی کیا ہے
 جو خدا اندھا ہے وہ کیسے بتاے
 کہ روشنی کیا ہے
 

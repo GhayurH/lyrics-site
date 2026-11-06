@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Hamsheer ko chadar hai na bhai ko kafan hai
-  
-  1
   Shabbir sa bhai hai na zainab si behan hai
+
+  1
   Kis zulm se maara gaya zehra ka dulaara
   Sar naize par aur rayt pa majrooh badan hai
-  
+
   2
   Jis ke liye aati rahi jannat se khabayein
   Laasha usi mazloom ka mohtaj e kafan hai
-  
+
   3
   Be-dast hua nehr par abbas e dilawar
   Yun zainab e dilgeer ki haathon mein rasan hai
-  
+
   4
   Tukde hui maidan mein tasveer e payambar
   Paighambar e islam ka sad paara badan hai
-  
+
   5
   Ab koi nahi naaz uthaane ko sakina
   Bas jor o jafa zulm o sitam ranj o mahan hai
-  
+
   6
   Bikhra hua maqtal mein hai ek raat ka dulha
   Bewa jo bani hai wohi ek shab ki dulhan hai
-  
+
   7
   Pyasa tha dam e qatl jo cheh maah ke sin mein
   Asghar sa zamane mein koi tashna dahan hai
-  
+
   8
   Maajaye ne sar de diya maajayi ne chadar
   Esaar mohamed ke gharane ka chalan hai
-  
+
   9
   Kaano ka lahoo jis pe hai durron ke nashan hai
   Kurta wohi masoom sakina ka kafan hai
-  
+
   10
   Aati hai dar o baam se rone ki sadayein
   Jaawed bada dard bhara tera sukhan hai
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2178
 # raw_sha256: 9b7a48abea45a8131bfe89b7ffe3f3cb8646232d75b57c8356468aa88fe01e52
 ---
-
 ہمشیر کو چادر ہے نہ بھای کو کفن ہے
+شبیر سا بھای ہے نہ زینب سی بہن ہے
 
 ۱
-شبیر سا بھای ہے نہ زینب سی بہن ہے
 کس ظلم سے مارا گیا زہرا کا دلارا
 سر نیزے پر اور ریت پہ مجروح بدن ہے
 

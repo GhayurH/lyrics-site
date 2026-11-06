@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Jo tha batool ka wo azadaar wo uth gaya
-  
-  1
   Bewaon ka yateemon ka ghamkhaar uth gaya
+
+  1
   Aafat na aaye koi bhare ghar ki khair ho
   Maa ki dua hai aale payambar ki khair ho
   Ab khaafile ka khaafila salaar uth gaya
-  
+
   2
   Sadaat pe ajab hai masayab ka silsila
   Kufe ki sar zameen pe ye kya ghazab hua
   Mazloomiyat ka aaj tarafdaar uth gaya
-  
+
   3
   Hyder ke khoon se hogaya tar khaana e khuda
   Sar peet'te hai dete hai jibreel ye sada
   Mushkil kusha e ahmed e mukhtar uth gaya
-  
+
   4
   Bhookon ko kaun khana khilayega shab dhale
   Ab kaun gham ghareebon ka batega shab dhale
   Bewarison tumhara madadgaar uth gaya
-  
+
   5
   Rote hai gham may hyder e safdar ke khaas o aam
   Be-aas ro ke lab pe ubharta hai ye kalaam
   Hum lut gaye hamara nigehdaar uth gaya
-  
+
   6
   Rauze pe mustafa ke hai ek hashr ka samaa
   Zehra pukarti hai lehad may ke al-amaan
   Aulaad e mustafa ka madadgaar uth gaya
-  
+
   7
   Amma ke baad baap ka saaya nahi raha
   Kehti hai sar ko peet ke ye binte mustafa
   Haye haye saron se saaya e dewaar uth gaya
-  
+
   8
   Juz ashke gham bahane ki dayam nahi sabeel
   Yazdan ye keh raha hai sar e arsh jibraeel
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1456
 # raw_sha256: d73a3156121cd719543ca3f8b911ca9e762724aed482d5d822f40e7d9be60036
 ---
-
 جو تھا بتول کا وہ عزادار اٹھ گیا
+بیواؤں کا یتیموں کا غمخوار اٹھ گیا
 
 ۱
-بیواؤں کا یتیموں کا غمخوار اٹھ گیا
 آفت نہ آے کوئی بھرے گھر کی خیر ہو
 ماں کی دعا ہے آل پیمبر کی خیر ہو
 اب قافلے کا قافلہ سالار اٹھ گیا

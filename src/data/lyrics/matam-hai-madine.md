@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Matam hai madine mein shabbar ki shahadat ka
-  
-  1
   Shabbir pa aaya hai kya waqt ye ghurbat ka
+
+  1
   Tukde dil e shabbar ke dekhega zamana na phir
   Ashoor ke daaman mein manzar hai qayamat ka
-  
+
   2
   Taboot pa shabbar ke jab teere sitam aaye
   Abbas pa tha kaisa ye waqt musibat ka
-  
+
   3
   Kamsin hai ye shehzada baitha hua sakte mein
   Qasim ko bhi pursa do shabbar ki shahadat ka
-  
+
   4
   Shabbar ki shahadat hai shabbir ke parwano
   Shabbir ko pursa do shabbar ki shahadat ka
-  
+
   5
   Pakne lagi shaq ho kar us waqt zameen paiham
   Kya hoga asar socho us zehr ki shiddat ka
-  
+
   6
   Wo zehr e sitam pahuncha shabbar ke kaleje tak
   Sar peeto azadaaro manzar hai qayamat ka
-  
+
   7
   Shabbir ka sadqa h? ab hum ko ata shabbar
   Hum waasta dete hai qasim ki musibat ka
-  
+
   8
   Kehti thi yehi zainab shabbar ke janaze par
   Gham kaise sahe zainab bhaiya teri furqat ka
-  
+
   9
   Hai khidmat e shabbar mein marooza rasheed itna
   Hum sab ko sharaf de de rauze ki ziyarat ka
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1963
 # raw_sha256: 862cbb0dd68479de463d2d36c7416348fbc100c1df654ec86d9c5a77e02efe4e
 ---
-
 ماتم ہے مدینے میں شبر کی شہادت کا
+شبیر پہ آیا ہے کیا وقت یہ غربت کا
 
 ۱
-شبیر پہ آیا ہے کیا وقت یہ غربت کا
 ٹکڑے دل شبر کے دیکھے گا زمانہ نہ پھر
 عاشور کے دامن میں منظر ہے قیامت کا
 

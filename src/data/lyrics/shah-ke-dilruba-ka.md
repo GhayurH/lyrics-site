@@ -10,16 +10,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Shah ke dilruba ka matam hai
-  
-  1
   Akse khairul-wara ka matam hai
+
+  1
   Bandishe aab door ghar sehra
   Zulme karbobala ka matam hai
-  
+
   2
   Kheenchi galiyon mein laash kaat ke sar
   Muslim e bekhata ka matam hai
-  
+
   3
   Halqe asghar mein teer se pehlu
   Banu ke mehleka ka matam hai
@@ -27,11 +27,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=259
 # raw_sha256: 6272c877618336a597d733e365717d301c32ecb476e331b5bb6c1614e871fe88
 ---
-
 شاہ کے دلربا کا ماتم ہے
+عکس خیر الوارا کا ماتم ہے
 
 ۱
-عکس خیر الوارا کا ماتم ہے
 بندش آب دور گھر صحرا
 ظلم کرب و بلا کا ماتم ہے
 

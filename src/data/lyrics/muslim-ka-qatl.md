@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Muslim ka qatl hona aaghaaz e karbala hai
-  
-  1
   Syed ka khoon bahana aaghaaz e karbala hai
+
+  1
   Jo tha safeer e sarwar usko shaheed karna
   Phir baandh kar rasan mein har raah se guzarna
   Laashe ko yun phirana aaghaaz e karbala hai
-  
+
   2
   Khat bhej kar hazaron shabbir ko bulaana
   Muslim se waada sheh ki nusrat ka aake karna
   Waade ko bhool jaana aaghaaz e karbala hai
-  
+
   3
   Saf baandh kar namazi sab fajr padh rahe thay
   Maghrib ke waqt muslim tanha khade huwe thay
   Aale nabi se dhoka aaghaaz e karbala hai
-  
+
   4
   Tanhaiyan udaasi pardes tang raahein
   Bache bhi kho chuke hai jo saath wo thay laaye
   Has has ke khoon rulaana aaghaaz e karbala hai
-  
+
   5
   Ek raat jab ke tehre wo aake ghar mein jaa kar
   Dayra bana ke ladne tab aa gaye sitamgar
   Wo aake ghar pe hamla aaghaaz e karbala hai
-  
+
   6
   Dhoka diya gaday mein muslim ko hai giraya
   Sar kaat ke badan ko galiyon mein hai phiraya
   Pamaal laash karna aaghaaz e karbala hai
-  
+
   7
   Dewaar khoon se tar thi sab raahein khoon se tar thi
   Pardes mein yun muslim ki laash dar badar thi
   Dushman hai saara kufa aaghaaz e karbala hai
-  
+
   8
   Maara gaya kumail kufe mein ye bhi pyasa
   Shabbir ko haqeer pyasa shaheed karna
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1401
 # raw_sha256: 47894ab767d25c0ba2393f4e52cd828bb9b591b1403931b643b60cbdcebe7724
 ---
-
 مسلم کا قتل ہونا آغازِ کربلا ہے
+سید کا خوں بہانا آغازِ کربلا ہے
 
 ۱
-سید کا خوں بہانا آغازِ کربلا ہے
 جو تھا سفیر سرور اسکو شہید کرنا
 پھر باندھ کر رسن میں ہر راہ سے گزرنا
 لاشے کو یوں پھرانا آغازِ کربلا ہے

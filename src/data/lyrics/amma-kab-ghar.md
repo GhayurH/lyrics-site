@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Amma kab ghar jayenge
-  
-  1
   Qaid may kya mar jayenge
+
+  1
   Subho parinde jaate hai
   Sham ko wapas aate hai
   Kya hum bhi ghar jayenge
-  
+
   2
   Baap ka sar be-peeron may
   Bhai hai zanjeeron may
   Kaise le kar jayenge
-  
+
   3
   Khwaab may baba aaye thay
   Mujhse lipat kar kehte thay
   Khuld may le kar jayenge
-  
+
   4
   Maut ka sar par hai saaya
   Aisa lagta hai bhaiya
   Qabr bana kar jayenge
-  
+
   5
   Mai nahi hargiz manungi
   Bas ek shart pa jaungi
   Ammu le kar jayenge
-  
+
   6
   Shaah ka laasha maidan may
   Ahle haram hai zindan may
   Hum to yahin mar jayege
-  
+
   7
   Mar gayi ek din wo anwar
   Jo ye kehti thi aksar
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=453
 # raw_sha256: 7ad5ff6b3359df1f81fa019e537b665e14529b7db1e40bc1fc65cd633cb84169
 ---
-
 اماں کب گھر جائیں گے
+قید میں کیا مر جائیں گے
 
 ۱
-قید میں کیا مر جائیں گے
 صبح و پرندے جاتے ہیں
 شام کو واپس آتے ہیں
 کیا ہم بھی گھر جائیں گے

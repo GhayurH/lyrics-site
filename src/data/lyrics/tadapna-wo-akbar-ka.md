@@ -10,40 +10,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Tadapna wo akbar ka keh keh ke pani
-  
-  1
   Jhijhakti qaza aur ujadti jawani
+
+  1
   Sarhane pisar ke pidar sun raha hai
   Har hichki ki awaaz may pani pani
-  
+
   2
   Na zainab ki dhaaras na maa ka sahara
   Bhare ghar se ruqsat hui hai jawani
-  
+
   3
   Hai ab jalte qaimon may majboor abid
   Bahot paas sholay bahot door pani
-  
+
   4
   Wo darbare haakim wo laakhon ka majma
   Wo bhai ka khissa behen ki zubani
-  
+
   5
   Qayamat hai ab inquilaab e zamana
   Zaeefi ke haathon se uth'ti jawani
-  
+
   6
   Ubalte hai abbas ke ran may aansu
   Tapakta hai mashke sakina se pani
-  
+
   7
   Jab asghar humakte hai haaton pe sheh ke
   Ubhalta hai darya chalakta hai pani
-  
+
   8
   Lute dono ashoor ko karbala may
   Nabi ka alam aur ali ki nashani
-  
+
   9
   Rahe neel baazu e zainab pe baaqi
   Watan ko gayi karbala ki nashani
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/content_salaam.php?id=15
 # raw_sha256: 759ce9a2094366437c67f0ded4d819bd4b6b0e5c2683a424474786e6ba2e257e
 ---
-
 تڑپنا وہ اکبر کا کہہ کہہ کے پانی
+جھجھکتی قضاء اور اجڑتی جوانی
 
 ۱
-جھجھکتی قضاء اور اجڑتی جوانی
 سرہانے پسر کے پدر سن رہا ہے
 ہر ہچکی کی آواز میں پانی پانی
 

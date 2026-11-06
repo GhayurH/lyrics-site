@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Abid ko saath lekar zainab madine aayi
-  
-  1
   Utho rasool dekho hamraah kya kya laayi
+
+  1
   Karbobala ke manzar dekhi jo binte hyder
   Roti thi yaad kar ke jab hogayi rehaai
-  
+
   2
   Kaise uthaya shah ne kadiyal jawan ka laasha
   Sarwar ke dil se poocho farzand ki judaai
-  
+
   3
   Shabbir ke galay par jab chal raha tha khanjar
   Aankhon mein hai wo manzar zainab jo dekh aayi
-  
+
   4
   Sar par na thi ridayein baazu bande huwe thay
   Aulaad fatema ki bazaar ho ke aayi
-  
+
   5
   Darbaar ka tha manzar tashte tila mein wo sar
   Har har qadam pa nana abid ko maut aayi
-  
+
   6
   Karbal se shaam tak bhi pyasi rahi sakina
   Ghut ghut ke aakhir usko zindan mein maut aayi
-  
+
   7
   Pehre thay aansoun par kya saktiyan thi sajid
   Baba ko yaad kar ke bacchi na rone paayi
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2875
 # raw_sha256: 00c867c5f0564e56b72020729367caf561266785be957f535aff30ed02e0da44
 ---
-
 عابد کو ساتھ لے کر زینب مدینے آی
+اٹھو رسول دیکھو ہمراہ کیا کیا لای
 
 ۱
-اٹھو رسول دیکھو ہمراہ کیا کیا لای
 کربوبلا کے منظر دیکھی جو بنت حیدر
 روتی تھی یاد کر کے جب ہو گیء رہائی
 

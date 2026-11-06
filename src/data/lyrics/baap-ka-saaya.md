@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Kehti thi sakina na uthe baap ka saaya
-  
-  1
   Bachon ke sada sar pe rahe baap ka saaya
+
+  1
   Dunya may yehi unko badi neymate rab hai
   Jeete hai saron par ko liye baap ka saaya
-  
+
   2
   Khaati na tamache na kabhi chinte ye gowhar
   Uth'ta na agar sar se mere baap ka saaya
-  
+
   3
   Kuch kam nahi hai unke liye lutfe zindagi
   Wo khush naseeb jinko milay baap ka saaya
-  
+
   4
   Mayoosi zindagi may lagi rehti hai sada
   Aulaad ke sar se jo hatay baap ka saaya
-  
+
   5
   Jab tak mere baba thay koi gham na mujhe tha
   Jeeti rahi be-khauf liye baap ka saaya
-  
+
   6
   Sehti na sitam is tarha ashoor se ab tak
   Hota jo agar sar pe mere baap ka saaya
-  
+
   7
   Tujhko kahan kami thi kisi cheez ki bober
   Jab tak ke raha sar pe tere baap ka saaya
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=815
 # raw_sha256: be09c711259979b9e945ba64b2cf02a839762521c6f4764d40456ea99dcbca71
 ---
-
 کہتی تھی سکینہ نہ اٹھے باپ کا سایہ
+بچوں کے صدا سر پہ رہے باپ کا سایہ
 
 ۱
-بچوں کے صدا سر پہ رہے باپ کا سایہ
 دنیا میں یہی انکو بڑی نعمتیں رب ہے
 جیتے ہیں سروں پر کو لےء باپ کا سایہ
 

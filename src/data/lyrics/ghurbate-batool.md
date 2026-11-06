@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Kahan batool ki ghurbat ko hum samajh paaye
-  
-  1
   Hamari saans ruki aur na hum ghash khaaye
+
+  1
   Abhi bhi khaak e baqayya sadayein deti hai
   Khuda kare ke ye pehlu se khoon ruk jaaye
-  
+
   2
   Wo dar ke jis pe jhukate thay sar nabi apna
   Usi pe aaj musalman diye chale aaye
-  
+
   3
   Zaeef hogayi darbar jab gayi bibi
   Siyah sar mein safedi utar gayi haye
-  
+
   4
   Utha ke haath sitamgar ne kehkahan maara
   Hassan ke saamne zehra pe ye sitam dhaaye
-  
+
   5
   Phir ek waqt wo aaya ke kund khanjar se
   Rag e hussain pe bibi ne haath katwaye
-  
+
   6
   Ye gham batool ka sajjad se koi pooche
   Rida e zainabe muztar pe ashk barsaye
-  
+
   7
   Ghame imame zamana ko koi kya jaane
   Ke jiski maa ki lehad roz dhoop jhul saaye
-  
+
   8
   Bara e fatema zehra dua karo yasir
   Khuda kare ke zahoor e imam hojaye
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3079
 # raw_sha256: ead8a4314c8c4537f48f692fb051b10279e153dabb891e25aefb5e49e3578864
 ---
-
 کہاں بتول کی غربت کو ہم سمجھ پاے
+ہماری سانس رکی اور نہ ہم غش کھائے
 
 ۱
-ہماری سانس رکی اور نہ ہم غش کھائے
 ابھی بھی خاک بقیہ صداییں دیتی ہے
 خدا کرے کہ یہ پہلو سے خوں رک جائے
 

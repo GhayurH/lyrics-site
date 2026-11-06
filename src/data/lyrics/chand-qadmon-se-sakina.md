@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Chand qadmon se sakina ne ye manzar dekha
-  
-  1
   Shimr ka baba pe chalt ahua khanjar dekhka
+
+  1
   Khaak par girti rahi bachi dehekte ran may
   Baap ki zulfon may jab daste sitamgar dekha
-  
+
   2
   Zulm to ye hai ke qatl karne se pehle usne
   Maar kar beti ko shabbir ko has kar dekha
-  
+
   3
   Tera zarbon se zyada hussain tadpe jab
   Shimr ke zulm se neela rukhe dukhtar dekha
-  
+
   4
   Rok le haath to shayad wo na phir waar kare
   Sheh ki gardan pe gala beti ne rakh kar dekha
-  
+
   5
   Jis jagah chain se soti rahi wo yasrab may
   Chalni teeron se sakina ne wo bistar dekha
-  
+
   6
   Door tak bibi ne daudayi thi apni nazrein
   Na kahin ghazi nazar aaye na akbar dekha
-  
+
   7
   Baap par chalti hui dekhi jo zarbein mohsin
   Ek masooma ne karbal may yun mehshar dekha
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1365
 # raw_sha256: 34b642a8a9d80e9934a5b766e26a97e5b9a0f3e1e2df623d49f15ce258645564
 ---
-
 چند قدموں سے سکینہ نے یہ منظر دیکھا
+شمر کا بابا پے چلتا ہوا خنجر دیکھا
 
 ۱
-شمر کا بابا پے چلتا ہوا خنجر دیکھا
 خاک پر گرتی رہی بچی دہکتے رَن میں
 باپ کی ظلفوں میں جب دستِ ستم گر دیکھا
 

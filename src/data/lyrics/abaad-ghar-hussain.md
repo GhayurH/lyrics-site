@@ -11,61 +11,61 @@ aliases: []
 published: false
 romanLyrics: |-
   Aabaad ghar hussain ka veeran hogaya
-  
-  1
   Shehre rasoole haq bada sunsaan hogaya
+
+  1
   Jalti zameen pa gir pade jab akbare jawan
   Laashe pa shaah pahunche to andher tha jahan
   Laila se dekha jayega kis tarha ye samaan
   Kadiyal jawan ke seene mein tooti hui sina
-  
+
   2
   Aankhon mein sheh ki deed ka armaan labon pa jaan
   Haa’el hai darmiyan mein ek teere jaa nisan
   Rone lage tadap ke shahenshahe ins o jaan
-  
+
   3
   Kya hausle thay tifle shahe benazeer ke
   Thay nehr par buland iraade sagheer ke
   Tewar ayan thay rukh se janab e ameer ke
   Nanha sa ek gala tha muqabil mein teer ke
-  
+
   4
   Beta khada hai saamne aur berida behan
   Jakda hua hai tauq o salasil mein saara tan
   Baba ki laash ran mein hai begor o bekafan
   Sadme se kaampne laga sajjad ka badan
-  
+
   5
   Karbobala se kaarwan kufa hua rawan
   Oonton ki nangi pusht pa baithi hai bibiyan
   Hai sar khula har ek ka baazu mein reesman
   Zainab tadap ke dekhti hai suye aasman
-  
+
   6
   Tareek qaid khane mein jab khafila gaya
   Ro kar sakina boli ke amma ye kya hua
   Kya waqt meri maut ka nazdeek aagaya
   Bano pukari ye na kaho meri dilruba
-  
+
   7
   Tashte tila mein farqe shahe deen tha rakha
   Aur ek taraf khada hua kunba rasool ka
   Honton pa phir hussain ke wo zulm hogaya
   Zainab ka natawan badan kaampta raha
-  
+
   8
   Jaari thay qaidiyon pa mazalim ke silsile
   Asnaa e raahe kufa mein thay sakht marhale
   Oonton se gir ke mar gaye bacche hussain ke
   Godi ghareeb maaon ki veeran kar gaye
-  
+
   9
   Tha hichkiyon ke darmiyan khwahar ka ye bayan
   Hai shiddate atash se mere khushk ustokhwan
   Thandi jagah pa dafn karo hum ko bhai jaan
   Sar ko jhukaye rote thay sajjade natawan
-  
+
   10
   Hai zikr subho shaam shahe mashraqain ka
   Karbal ke tashna kaam ka zehra ke chain ka
@@ -75,11 +75,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3549
 # raw_sha256: 4fb514021878e416118b62b6e3083da6a2c26b7cdd72465802f44d2ee8974c82
 ---
-
 آباد گھر حسین کا ویران ہو گیا
+شہر رسول حق بڑا سنسان ہو گیا
 
 ۱
-شہر رسول حق بڑا سنسان ہو گیا
 جلتی زمیں پہ گر پڑے جب اکبر جواں
 لاشے پہ شاہ پہنچے تو اندھیر تھا جہاں
 لیلیٰ سے دیکھا جائے گا کس طرح یہ سماں

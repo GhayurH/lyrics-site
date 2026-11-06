@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay sakina ke chacha ay mere bhai abbas
-  
-  1
   Maar daalegi hamein teri judaai abbas
+
+  1
   Wo nahi hoti to mai aa bhi nahi sakta tha
   Tere laashe pe mujhe maa meri laayi abbas
-  
+
   2
   Tum yahan zeen se giray aur wahan qaime mein
   Sar se zainab ke rida gir gayi bhai abbas
-  
+
   3
   Kaise tanha mai sambhalunga ali akbar ko
   Laash hum ne hai har ek mil ke uthayi abbas
-  
+
   4
   Jis se sharminda ho tum uski qasam deta hoo
   Aankhein khole ke sakina nahi aayi abbas
-  
+
   5
   Ho gaye hai tere qasim se zyada tukde
   Laash uthaun mai teri kis tarha bhai abbas
-  
+
   6
   Mera armaan mere dil mein na reh jaye kahin
   Bhai shabbir ko ab bol do bhai abbas
-  
+
   7
   Mir sajjad ye kehte rahe akbar se hussain
   Meri bat'tees baras ki hai kameini abbas
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1524
 # raw_sha256: 84be8b908ad55db3affdf4fbd9e2623d2f5b334990b903fb55ee061158559ba0
 ---
-
 اے سکینہ کے چچا اے میرے بھائی عباس
+مار ڈالے گی ہمیں تیری جدائی عباس
 
 ۱
-مار ڈالے گی ہمیں تیری جدائی عباس
 وہ نہیں ہوتی تو میں آ بھی نہیں سکتا تھا
 تیرے لاشہ پہ مجھے ماں تیری لای عباس
 

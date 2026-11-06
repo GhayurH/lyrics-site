@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Chali hussain ko kho kar hussain ki behne
-  
-  1
   Saron pe khaak saja kar hussain ki behne
+
+  1
   ?lipat ke bhai ki turbat se gham manaati hai
   Dayaar e shaam ka sab maajra sunaati hai
   Tadap tadap ke lehad par hussain ki behne
-  
+
   2
   ?jigar fighaar hai sehmi hai gham ki maari hai
   Musibaton ki sataayi sitam ki maari hai
   Ghamon se ho gayi laaghar hussain ki behne
-  
+
   3
   ?amariyon pe bhi ho kar sawaar dekhti hai
   Lehad ko bhai ki sab baar baar dekhti hai
   Qadam qadam pe palat kar hussain ki behne
-  
+
   4
   ?abhi to choot ke aayi hai qaid khane se
   Hussain bhai ko dekha nahi zamane se
   Tadap ke roye na kyun kar hussain ki behne
-  
+
   5
   ?bana ke zaad e safar noor e ain ka chehra
   Tasavuraat may bhaiya hussain ka chehra
   Safar may jaati hai le kar hussain ki behne
-  
+
   6
   Kabhi to sar kabhi rukhsaar peet leti hai
   Har ek azeez ko ro ro ke yaad karti hai
   Lehad pe khud ko gira kar hussain ki behne
-  
+
   7
   Bani asad ke khabeele may aah o zaari hai
   Har ek zaban pe be-saakhta ye jaari hai
   Madine jaati hai lut kar hussain ki behne
-  
+
   8
   Sitam jo dhaaye hai ummat ne us musibat ki
   Karengi jaa ke shikayat zaroor ummat ki
   Pahunch ke qabre nabi par hussain ki behne
-  
+
   9
   Kumail haye wo kitna tadap rahi hongi
   Lehad ko chod ke aamir wo jab chali hongi
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1709
 # raw_sha256: 0d5bf8e50ef9728d00296b2be05d769f8332fda16a4924008b2db5fd570c6706
 ---
-
 چلی حسین کو کھو کر حسین کی بہنیں
+سروں پہ خاک سجا کر حسین کی بہنیں
 
 ۱
-سروں پہ خاک سجا کر حسین کی بہنیں
 لپٹ کے بھای کی تربت سے غم مناتی ہے
 دیار شام کا سب ماجرا سناتی ہے
 تڑپ تڑپ کے لحد پر حسین کی بہنیں

@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Subhe ashoor aane waali hai
-  
-  1
   Kya qayamat uthane waali hai
+
+  1
   Ranj o gham ki ghatayein chayi hai
   Fatema karbala mein aayi hai
   Ibne hyder ki aakhri shab hai
-  
+
   2
   Qatl hoga shabih e paighambar
   Maara jayega qasim e muztar
   Ali akbar ki aakhri shab hai
-  
+
   3
   Shaane abbas ke juda honge
   Asghar e bezuban fida honge
   Ali asghar ki aakhri shab hai
-  
+
   4
   Ghash mein bemaar e karbala honge
   Qaid namoos e mustafa honge
   Haq ke sarwar ki aakhri shab hai
-  
+
   5
   Ghamzada hai siraj aale nabi
   Keh rahi hai ye sab se binte ali
@@ -41,11 +41,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3264
 # raw_sha256: f9b4899413b9b6d490b0a2c9eae2599024d686cf051d238cecf8f29e88595260
 ---
-
 صبحِ عاشور آنے والی ہے
+کیا قیامت اٹھانے والی ہے
 
 ۱
-کیا قیامت اٹھانے والی ہے
 رنج و غم کی گھٹائیں چھائی ہے
 فاطمہ کربلا میں آی ہے
 ابن حیدر کی آخری شب ہے

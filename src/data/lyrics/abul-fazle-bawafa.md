@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Abul fazl e bawafa alamdar e lashkaram
-  
-  1
   Maahe hashmi nasab ameere dilawaram
+
+  1
   Tu shahenshahe wafadari hai
   Tera gham misle hawa jaari hai
   Tere parcham ki chamak kya kehna
   Taa qayamat ye alamdari hai
-  
+
   2
   Bakhuda chashm e karbala tum ho
   Hum fakheeron kaa aasra tum ho
   Aap ki zaat hai shaoor e falaak
   Baazu e ibn e fatema tum ho
-  
+
   3
   Rukh e pur noor surat e gul hai
   Juz nahi aks e hyderi kul hai
   Tum uloom e ali ke taare ho
   Teri jurrat ka chaar soo ghul hai
-  
+
   4
   Tum sada e dili ki sunte ho
   Yun bhi haajat rawayi karte ho
   Dast geeri baghair baazu bhi
   Chauda sadiyon se karte rehte ho
-  
+
   5
   Ay ghulam e hussain ibne ali
   Bar sar e alqama bhi tashnalabi
   Tere hi khoon se tar tha tera alam
   Pyaas jeeti hai alqama haari
-  
+
   6
   Bain karti hai ek masooma
   Wo sakina gala bandha jis ka
   Aaj bhi tere intezaar mein hai
   Ab bhi zindan se aa rahi hai sada
-  
+
   7
   Teer ek aankh mein tha ek mein lahoo
   Jab kiya hai paye namaz wazoo
   Qalb e zainab lahoo ugalne laga
   Aayi pani mein jab teri khushboo
-  
+
   8
   Sar barehna thi jis ghadi zainab
   Zer e naiza thi jab khadi zainab
   Nok e naiza pe tera sar na ruka
   Khaak pe ro ke gir padi zainab
-  
+
   9
   Tere laashe pe jab gaye shabbir
   Dekha paywast aankh mein hai teer
   Shiddat e gham se jhuk gayi thi kamar
   Khoon mein ghaltan thi baap ki tasveer
-  
+
   10
   Zindagi bhar hamein kaha aaqa
   Bole ghazi se shaah e karbobala
@@ -76,11 +76,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1882
 # raw_sha256: 36b2538529a91b3587d7d4c3eb34d2e78aaac413023045ee438ccfcadf08a57a
 ---
-
 ابوالفضل با وفا علمدار لشکرم
+ماہ ہاشمی نصب امیر دلاورم
 
 ۱
-ماہ ہاشمی نصب امیر دلاورم
 تو شہنشاہِ وفاداری ہے
 تیرا غم مثل ہوا جاری ہے
 تیرے پرچم کی چمک کیا کہنا

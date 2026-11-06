@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Matam meri hayaat tabarruk meri ghiza
-  
-  1
   Zinda mera wujood hai karbobala ke saath
+
+  1
   Sadiyon se ab bhi jaari hai matam ka silsila
   Zulm o jafa bujha na sake shamma e aza
   Jalta hai ye charaagh hamesha hawa ke saath
-  
+
   2
   Is matam e hussain ke ghazi hai sayeban
   Raushan alam se ho gayi tareek bastiyan
   Ahle aza azal se hai shaah e wafa ke saath
-  
+
   3
   Phir khauf e maut rehta hai unko bhala kahan
   Jo zayareen jaate hai behre mashi wahan
   Dete hai rizq aaj bhi maula sakha ke saath
-  
+
   4
   Mashkeeza jaise parcham e ghazi ke saath hai
   Kaaba khuda ka jaise namazi ke saath hai
   Bas yuhin zayareen hai khaak e shifa ke saath
-  
+
   5
   Hum ko sitam shiyaar bhala kya mitayenge
   Bid’at ke fatwe ashkon mein sab doob jayenge
   Jeete hai hum to maadar e sheh ki dua ke saath
-  
+
   6
   Pani tawaaf karta hai ghazi ki qabr ka
   Kaaba ho goya qabr sujaat ka sabr ka
   Ye alqama ka rishta hai ab bhi wafa ke saath
-  
+
   7
   Zikre ghame husaain ka aejaz dekhiye
   Kausar ko meri aankh pa hai naaz dekhiye
   Chalki hui furaat hai ashq e aza ke saath
-  
+
   8
   Har ek rang o nasl ke insan doston
   Sabke dilon mein ek hai armaan doston
   Ghazi bulale sab ko sahar ki hawa ke saath
-  
+
   9
   Aamir ko aur toosi ko karbobala mili
   Taskeen e dard ke liye khaak e shifa mili
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1281
 # raw_sha256: 2bee8804e4e0c68876f86ff25e1b91b4b5267aea41d740c88a7496524007d4fc
 ---
-
 ماتم میری حیات تبرک میری غذا
+زندہ میرے وجود ہے کربوبلا کے ساتھ
 
 ۱
-زندہ میرے وجود ہے کربوبلا کے ساتھ
 صدیوں سے اب بھی جاری ہے ماتم کا سلسلہ
 ظلم و جفا بجھا نہ سکے شمعِ عزا
 جلتا ہے یہ چراغ ہمیشہ ہوا کے ساتھ

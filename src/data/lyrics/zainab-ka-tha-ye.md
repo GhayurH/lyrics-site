@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab ka tha ye nauha mai kya jawab doongi
-  
-  1
   Poochengi jab ke sughra mai kya jawab doongi
+
+  1
   Maqtal mein so rahe hai sab godhiyon ke paale
   Jaa kar watan mein bhaiya mai kya jawab doongi
-  
+
   2
   Akbar ki mere shaadi kis des mein rachayi
   Baandha hai kis ne sehra mai kya jawab doongi
-  
+
   3
   Waada kiya tha jis ne lene ko aayenge hum
   Ab tak to wo na aaya mai kya jawab doongi
-  
+
   4
   Qasim hamara bhai ibne hassan kahan hai
   Jo hum ko chaahta tha mai kya jawab doongi
-  
+
   5
   Afsos aun o jafar ab tak na milne aaye
   Ab tak na maine dekha mai kya jawab doongi
-  
+
   6
   Asghar hamara bhai ab kis ki godh mein hai
   Aankhon ka hai jo taara mai kya jawab doongi
-  
+
   7
   Seene pa sone waali wo laadli kahan hai
   Meri behan sakina mai kya jawab doongi
-  
+
   8
   Akbar se aayenge jab milne ko unke saathi
   Qaabu mein dil na hoga mai kya jawab doongi
-  
+
   9
   Roodaad karbakla ki aa kar madine waale
   Har ek pata karega mai kya jawab doongi
-  
+
   10
   Karbobala se wapas ummul baneen ka beta
   Abbas kyun na aaya mai kya jawab doongi
-  
+
   11
   Baazu ko dekhte hi poochegi meri nani
   Ye hai nishan kaisa mai kya jawab doongi
-  
+
   12
   Jab daakhila watan mein hoga qamar haram ka
   Zainab ka dil kahega mai kya jawab doongi
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1869
 # raw_sha256: 74655c090f2013133c717007307dafd40ad5fe5adbdf335e4f9d446ae5cff9c7
 ---
-
 زینب کا تھا یہ نوحہ میں کیا جواب دونگی
+پوچھیں گی جب کے صغریٰ میں کیا جواب دونگی
 
 ۱
-پوچھیں گی جب کے صغریٰ میں کیا جواب دونگی
 مقتل میں سو رہے ہیں سب گودیوں کے پالے
 جا کر وطن میں بھیا میں کیا جواب دونگی
 

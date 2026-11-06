@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Dhoondti phirti hai zainab laashon mein abbas ko
-  
-  1
   Karti hai mehsoos ro ke aahon mein abbas ko
+
+  1
   Fikr hai maqtal mein zainab ko faqat laahaq yehi
   Rassiyan aaye nazar na baahon mein abbas ko
-  
+
   2
   Maangne wapas zamanat chadaron ki aagayi
   Dekha hai jab barchiyon ki chaaon mein abbas ko
-  
+
   3
   Kis tarha bin baazuon ka laasha bhoolegi behan
   Ke jawan hote hai dekha haathon mein abbas ko
-  
+
   4
   Zikr apno se bichadne ka kahin bhi gar hua
   Le hi aati thi wo dukhiya baaton mein abbas ko
-  
+
   5
   Gir hi jaata hai sina ki nok se har baar sar
   Be-rida sar jab dikha hai raahon mein abbas ko
-  
+
   6
   Jo wafayein jaanti hai hai dilon mein ba-khuda
   Bandagi ka rutba haasil maaon mein abbas ko
-  
+
   7
   Qalb e zainab hi salamat jaanta hai kis tarha
   Laut aayi hai wo lekar yaadon mein abbas ko
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1507
 # raw_sha256: 97c407bc3da360193f28a2f5834d91cd4d2587a52cb999587bed87adfb5d9601
 ---
-
 ڈھونڈتی پھرتی ہے زینب لاشوں میں عباس کو
+کرتی ہے محسوس روکے آہوں میں عباس کو
 
 ۱
-کرتی ہے محسوس روکے آہوں میں عباس کو
 فکر ہے مقتل میں زینب کو فقط لا حق یہی
 رسیاں آے نظر نہ باہوں میں عباس کو
 

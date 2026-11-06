@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Logon ye shehr e kufa muslim ki karbala hai
-  
-  1
   Ek be-watan yahan bhi faujon mein ghir gaya hai
+
+  1
   Ashoor se bhi pehle ashoor ka hai manzar
   Khush ho rahe hai zaalim muslim ka khoon baha kar
   Talwaar hai layeen ki mazloom ka gala hai
-  
+
   2
   Barse hai teer is par maare gaye hai naize
   Laakhon se phir bhi muslim ladta raha akele
   Na bhai hai na bete na koi aasra hai
-  
+
   3
   Phaynka gaya hai jis dam inko bulandiyon se
   Awaaz tootne ki aayi thi pasliyon se
   Mazloom ke labon par bas haye sayyeda hai
-  
+
   4
   Hota gaya izaafa bekas ki bekasi mein
   Khayncha gaya hai laasha kufe ki har gali mein
   Shabbir ki tarha se sar jism se juda hai
-  
+
   5
   Kufe mein dar badar thay muslim ke shaahzade
   Apne padar ko aakhir kaise kafan wo dete
   Sajjad par jo aaya waisa hi marhala hai
-  
+
   6
   Qasid shahe huda ka pyasa tha be watan tha
   Chalees din hue thay laasha bhi be kafan tha
   Jo sheh ke saath hoga sab kuch wohi hua hai
-  
+
   7
   Azlan aur mesum tha sayyeda ka nauha
   Ay mere laal tujhko maara gaya hai pyasa
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1315
 # raw_sha256: 052814a9c8bc4307f533543ad96187f404f4127509ea1c67d7304c198cee3153
 ---
-
 لوگوں یہ شہرِ کوفہ مُسلم کی کربلا ہے
+ایک بے وطن یہاں بھی فوجوں میں گھر گیا ہے
 
 ۱
-ایک بے وطن یہاں بھی فوجوں میں گھر گیا ہے
 عاشور سے بھی پہلے عاشور کا ہے منظر
 خوش ہو رہے ہیں ظالم مُسلم کا خوں بہا کر
 تلوار ہے لعیں کی مظلوم کا گلا ہے

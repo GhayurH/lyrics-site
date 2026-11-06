@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Bezaban tadpa jo kha ke teer e sitam ran may
-  
-  1
   Zameen kaamp uthi ro ke aasman tadpa
+
+  1
   Wahan wahan pe zameen ran ki laala zaar bani
   Jahan jahan pe shahe deen ka naujawan tadpa
-  
+
   2
   Jahan jahan pe tamache lage sakina ko
   Sar e hussain sina par wahan wahan tadpa
-  
+
   3
   Sawaal e aab ka kya khoob ye jawab mila
   Jo has raha tha wo masoom bezaban tadpa
-  
+
   4
   Haram ko leke ye naaqe kidhar se ho ke chale
   Ke ahle bayt e mohamad ka saarban tadpa
-  
+
   5
   Kamal e sabr bhi tha had ki natawani bhi
   Ke taziyana laga aur na natawan tadpa
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=526
 # raw_sha256: 43a984ca6ea2a751c70564d0c8a95b7f5369e9765e460bf6b9449947001767a9
 ---
-
 بے زبان تڑپا جو کھا کے تیرِستم رن میں
+زمین کانپ اُٹھی رو کے آسمان تڑپا
 
 ۱
-زمین کانپ اُٹھی رو کے آسمان تڑپا
 وہاں وہاں پہ زمیں رن کی لالہ زار بنی
 جہاں جہاں پہ شہِ دیں کا نوجواں تڑپا
 

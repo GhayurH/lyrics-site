@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Ana qateelul abra
-  
-  1
   Mai kushtae ibrat hoon
+
+  1
   Kis ne paraye des mein dekha aisa khooni manzar
   Shimre layeen ne be-rehmi se phera halq pe khanjar
   Jis ko ek dukhiyari maa ne chakki pees ke paala
-  
+
   2
   Haq ke nabi ne jisko bithaya dosh pe naaqa ban ke
   Eid ke din rizwan e jina khud laaya jis ke kapde
   Usko kafan dene ke bajaye pairahan bhi cheena
-  
+
   3
   Meri behna dekh ke mujhko kyun na pachade khaaye
   Haye mera bemaar pisar behosh na kyun hojaye
   Zakhm badan par mere lage hai mo-e tan se zyada
-  
+
   4
   Binte nabi ki qalb ki raahat laqte dile hyder hoon
   Ranj o alam se choor hua hoon bekas hoon muztar hoon
   Meri mazloomi pe zamana khoon ke aansu roya
-  
+
   5
   Dekhte rehte thay hasrat se jis ko baba hyder
   Subho masa jis halq ko chooma karte thay paighambar
   Shimre layeen ne roze dahum us halq pe khanjar phera
-  
+
   6
   Rok ke khutba jisko uthaya godh mein mere jadh ne
   Jis ke liye apne sajde ko tool diya ahmed ne
   Kalma goyon ne sajde mein qatl usay kar daala
-  
+
   7
   Amma tum jis dasht mein shab bhar aaho buka karti thi
   Jis ko apne baalon se tum saaf kiya karti thi
   Haye sitamgaaron ne wahin par mera khoon bahaya
-  
+
   8
   Mai hoon shaheede raahe khuda aur paikare sabr o raza hoon
   Karbobala hai shahid aisa kushta e tayghe jafa hoon
   Jis ke janaze ko maqtal mein teeron ne hai uthaya
-  
+
   9
   Sharte wafa bas itini hai mil jaaye jo thanda pani
   Yaad kare mazloom ki aur bekas ki tashna dahani
   Zainab ye paigham hamare shiyon se keh dena
-  
+
   10
   Rooh ko bhi mil jaaye sukoon aur qalb ko chain aa jaaye
   Karbobala se kaash bilal awaaz e hussain aa jaaye
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3378
 # raw_sha256: 53e43026d3d23fc5f532e3e5033a1de051a4067c27ee07d390166099be1293c2
 ---
-
 انا قتیل الابرا
+میں کشتۂ عبرت ہوں
 
 ۱
-میں کشتۂ عبرت ہوں
 کس نے پراے دیس میں دیکھا ایسا خونی منظر
 شمر لعیں نے بے رحمی سے پھیرا حلق پہ خنجر
 جس کو ایک دکھیاری ماں نے چکی پیس کے پالا

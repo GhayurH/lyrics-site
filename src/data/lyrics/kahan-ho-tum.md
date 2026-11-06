@@ -9,54 +9,34 @@ poet: "Haider Khursheed"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Kahan ho tum mere ghazi zara chale aana
-
-
-  1
-
+romanLyrics: |-
+  Kahan ho tum mere ghazi zara chale aana
   Mai qaid ho ke chali aur watan hai begana
 
+  1
   Banaye parda mera kaun ab siwa tere
-
   Na sar pe saaya tera na rahi rida mere
-
   Rida tu ban ke mere sar pe ghazi chaa jaana
 
-
   2
-
   Jo ghar se nikli na waakif na thi bazaron ki
-
   Hai har soo bikhri hui laashe thi pyaron ki
-
   Usay pehen ke hai zanjeer shaam ko jaana
 
-
   3
-
   Aa dekh haath bandhe mere hai pasay gardan
-
   Hai pehne baqir o sajjad dekh tauq o rasan
-
   Chali hoo aun o mohamed ka de ke nazrana
 
-
   4
-
   Tamache maar ke zaalim mujhe rulaate hai
-
   Teri sakina ke kaano se khoon bahaate hai
-
   Lagi hai aag jo daaman pe wo bujha jaana
 
-
   5
-
   Misaal ban gayi dunya may aaj teri wafa
-
   Zamana rota hai kar kar ke yaad teri wafa
-
-  Har ek lab pe alamdar tera afsana'
+  Har ek lab pe alamdar tera afsana
 # source_id: nohayonline:58b87c33b25d966f72ce
 # source_url: https://www.nohayonline.com/details_content.php?id=1641
 # raw_sha256: 9081e41be74335d042f1155883b8115e898d19e4acb7399f8a4aa2082fc5d8df
@@ -64,11 +44,10 @@ romanLyrics: 'Kahan ho tum mere ghazi zara chale aana
 # source_url: https://www.ziyaraat.net/api/noha/173
 # raw_sha256: f42a71e0c999fcc98dabd76a64008e803eb28060ca408605ebfcc555c0196980
 ---
-
 کہاں ہو تم میرے غازی زرا چلے آنا
+میں قید ہو کے چلی اور وطن ہے بیگانہ
 
 ۱
-میں قید ہو کے چلی اور وطن ہے بیگانہ
 بناے پردہ میرا کون اب سوا تیرے
 نہ سر پہ سایہ تیرا نہ رہی ردا میرے
 ردا تو بن کے میرے سر پہ غازی چھا جانا

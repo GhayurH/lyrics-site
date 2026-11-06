@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaash akbar tere jaisa tera beta hota
-  
-  1
   Tujhko andaza mere darde jigar ka hota
+
+  1
   Maangne aata jawani mein wo marne ki riza
   Aur beta bhi tera hota mohamed jaisa
   Pooch kar dil se bata haal tera kya hota
-  
+
   2
   Kis tarha karta jawan laal ko rukhsat beta
   Kaise deta usay marne ki ijazat beta
   Teri behno ne jise naaz se paala hota
-  
+
   3
   Kaampte haath larazte huwe saanson ke qadam
   Kis tarha dekhta aankhon se nikalte huwe dam
   Pyaar bhi us se tujhe sab se zyada hota
-  
+
   4
   Tere hisse mein meri jaisi ghareebi aati
   Waqt se pehle mere laal zaeefi aati
   Wo pisar saamne jab khoon mein dooba hota
-  
+
   5
   Dekhta aankhon se jab noor-e-nazar ke tukde
   Baap ke moo se nikal aate jigar ke tukde
   Saath barchi ke jo haathon pe kaleja hota
-  
+
   6
   Khaak par khoon mein tadapti ho nabi ki tasveer
   Sabr kar leta bata haath mein rakh ke shamsheer
   Jab ke haste huwe qaatil ko bhi dekha hota
-  
+
   7
   Tujhko maaloom bhi hota na uthega ye pisar
   Kya tere dil pe guzarti ye bata de akbar
   Uski sughra ka bhi khat aane hi waala hota
-  
+
   8
   Bas ye kehte thay takallum shah e waala ro kar
   Hoti akbar teri aulaad zamane mein agar
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2804
 # raw_sha256: 31605b19a857848d0fdb2e8b74e9479a3da80a54099ec50ab637c893b68659a4
 ---
-
 ‎کاش اکبر تیرے جیسا تیرا بیٹا ہوتا
+تجھ کو اندازہ میرے دردِ جگر کا ہوتا
 
 ۱
-تجھ کو اندازہ میرے دردِ جگر کا ہوتا
 ‎مانگنے آتا جوانی میں وہ مرنے کی رضا
 ‎اور بیٹا بھی ترا ہوتا محمد جیسا
 ‎پوچھ کر دل سے بتا حال ترا کیا ہوتا

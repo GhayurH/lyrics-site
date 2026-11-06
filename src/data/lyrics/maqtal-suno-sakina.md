@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   Sar e hussain se ye keh rahi hai ek dukhiya
-  
-  1
   Ay baba jaan mere maqtal suno sakina ka
+
+  1
   Qasam tumhare baradar ki jhuk gayi hai kamar
   Mai maa ke paas bhi jaati hoon ghutniyo chal kar
   Sitam hi itne huwe chaar saala zehra par
   Mujhe bhi theek se baba nazar nahi aata
-  
+
   2
   Hai taziyano se zakhmi mera badan baba
   Galay ke zakhm mein paywast hai rasan baba
   Yehi libaas banega mera kafan baba
   Badal na payegi ghussala bhi mera kurta
-  
+
   3
   Sitam uthaye hai kya kya tumhari beti ne
   Tamacha aap ko maara tha ek khooli ne
   Na jaane khaye hai kitne tamache bacchi ne
   Unhi tamachon se soojha hua hai ye chehra
-  
+
   4
   Galay mein mere rasan ban gayi hai ye khanjar
   Raghon se khoon tapakta hai mere kurte par
   Tum ek baar huwe qatl karbala mein magar
   Mai baar baar hui zibha ay mere baba
-  
+
   5
   Ab is andhere se kab aur darne waali hoon
   Mai kooch shaam ke zindan se karne waali hoon
   Mujhe pata hai mai is shab mein marne waali hoon
   Thay lene aaye mujhe khwab mein abhi bhaiya
-  
+
   6
   Sunaun kaise riwayat shaheed hone ki
   Ajeeb tarha se khairaat kar rahe thay shaqi
   Khajoorein phaynk rahe thay meri taraf shaami
   Ye zakhm dil pe mere patharon se hai gehra
-  
+
   7
   Ay baba shimr mujhe shaam tak satata raha
   Wo pani pee ke mere saamne bahata raha
   Jo durra pusht pe sajjad ki lagata raha
   Wo durra usne mere moo pe maara hai baba
-  
+
   8
   Sunaun shaam e ghariban ka aap ko manzar
   Layeen ne noch liye mere kaan se gohar
   Tamaam khoon mera beh gaya hai ris ris kar
   Safed hogaya beti ki aap ka chehra
-  
+
   9
   Bataya bacchi ne sajjad baap ko ro kar
   Har ek shehr mein maare gaye mujhe pathar
@@ -70,11 +70,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3668
 # raw_sha256: b768c585049fbc514afcd9909b65b63c1f65851361b1d36e95e65ca631dccf27
 ---
-
 سر حسین سے یہ کہہ رہی ہے ایک دکھیا
+اے بابا جان میرے مقتل سنو سکینہ کا
 
 ۱
-اے بابا جان میرے مقتل سنو سکینہ کا
 قسم تمہارے برادر کی جھک گیء ہے کمر
 میں ماں کے پاس بھی جاتی ہوں گھٹنیوں چل کر
 ستم ہی اتنے ہوئے چار سالہ زہرا پر

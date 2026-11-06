@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Awaaz al amaan ki qaimon se aa rahi hai
-  
-  1
   Ghar fatema ka mil kar ummat jala rahi hai
+
+  1
   Bin baazuon ke koi darya pe laash tadpi
   Zainab ke sar chadar haye cheeni jaa rahi hai
-  
+
   2
   Soye kahan ho asghar meri godh kar ke veeran
   Maa khaynch ke jhoole ki dori hila rahi hai
-  
+
   3
   Burqe mein jis ko paala zainab ne saal athara
   Us ke lahoo ki mehendi sar ko laga rahi hai
-  
+
   4
   Khamosh umme farwa baithi hai khole ghatri
   Tasveer e mustufa ko kaise bana rahi hai
-  
+
   5
   Qaime to jal chuke hai phir bhi nabi ki ummat
   Kubra ka lootne ko samaan aa rahi hai
-  
+
   6
   Jalte huwe qaimon se beti ali ki kaise
   Bemaar e karbala ko tanha utha rahi hai
-  
+
   7
   Haye shaam e ghariban mein mushkil kusha ki beti
   Ban kar abbas ya rab pehre pe aa rahi hai
-  
+
   8
   Jakde huwe rasan mein hai haath phir bhi zainab
   Shabbir ke laashe se pathar hata rahi hai
-  
+
   9
   Chauda sau baras guzre sardar hai haqeeqat
   Aale nabi pe ummat haye zulm dha rahi hai
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2328
 # raw_sha256: a8d03b5dfe19d36249f932225a3b6b4cfc38faa08226af64f3f1ac68e1e6162a
 ---
-
 آواز الاماں کی خیموں سے آ رہی ہے
+گھر فاطمہ کا مل کر امت جلا رہی ہے
 
 ۱
-گھر فاطمہ کا مل کر امت جلا رہی ہے
 بن بازوؤں کے کوئی دریا پہ لاش تڑپی
 زینب کے سر سے چادر ہاے چھینی گیء
 

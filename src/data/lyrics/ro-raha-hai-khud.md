@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Ro raha hai khud andhera shaam ke zindan mein
-  
-  1
   Reh gayi tanha sakina shaam ke zindan mein
+
+  1
   Mar gayi ye kehte kehte be-watan pardes mein
   Kya nahi aayenge baba shaam ke zindan mein
-  
+
   2
   Lehjaye shabbir mein lori sunane ke liye
   Khuld se aati hai zehra shaam ke zindan mein
-  
+
   3
   Bediyon ke shor mein zanjeer ki jhankaar mein
   Uth raha hai ek janaza shaam ke zindan mein
-  
+
   4
   Saahibe aulaad jaa kar khud hi andaza kare
   Moo ko aata hai kaleja shaam ke zindan mein
-  
+
   5
   Dekh kar masoom ke rukh par tamachon ke nishan
   Maut ko aaya pasina shaam ke zindan mein
-  
+
   6
   Is tarha taqseem bano ki kameini ho gayi
   Dasht mein asghar sakina shaam ke zindan mein
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=327
 # raw_sha256: 7c93549313692d2b13e0a6c50cad870747960c0116f370650065653d614b0386
 ---
-
 رو رہا ہے خود اندھیرا شام کے زندان میں
+رہ گئی تنہا سکینہ شام کے زندان میں
 
 ۱
-رہ گئی تنہا سکینہ شام کے زندان میں
 مر گئی یہ کہتی کہتی بے وطن پردیس میں
 کیا نہیں آئیں گے بابا شام کے زندان میں
 

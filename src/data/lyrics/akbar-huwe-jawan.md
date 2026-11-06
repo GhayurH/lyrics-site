@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   Akbar huwe jawan jo bachpan guzaar ke
-  
-  1
   Laila ye samjhi aaye hai ab din bahaar ke
+
+  1
   Ye kab khabar thi aayegi pardes mein qaza
   Armaan na honge poore dil e sogwaar ke
-  
+
   2
   Akbar ko raas aaya na attharwan baras
   Loota khiza ne daur mein faslein bahaar ke
-  
+
   3
   Husn e jawani e ali akbar ko dekhiye
   Laila sarhane baithi hai zulfein sawaar ke
-  
+
   4
   Hamshakle mustafa pa bhi aaya na kuch taras
   Ibne anas ne qatl kiya naiza maar ke
-  
+
   5
   Barchi ka phal hai seene mein hichki hai maut ki
   Sheh ko salaam karte hai akbar pukaar ke
-  
+
   6
   Laila ke dil mein reh gaya armaan byaah ka
   Baithi hai gham raseeda muqqadar se haar ke
-  
+
   7
   Laaye hussain qaime mein akbar ki laash jab
   Maa dekh kar tadapne lagi cheekh maar ke
-  
+
   8
   Kubra ka ye bayan tha maadar se baar baar
   Behno ko de do bhai ka sadqa utaar ke
-  
+
   9
   Afsos teen roz ke pyase huwe shaheed
   Kumla gaye hai hont mere gulzaar ke
-  
+
   10
   Maa ki lehad pa aaoge padhne ko fateha
   Baithoge tum khareeb hamare mazaar ke
-  
+
   11
   Muddat se dil mein maa ke tamanna thi mere laal
   Shaadi teri rachaungi sadqa utaar ke
-  
+
   12
   Baad e hussain ahle haram hai barehna sar
   Zaalim ridayein le gaye sar se utaar ke
-  
+
   13
   Bas aakhri ye dil ki tamanna hai ay qamar
   Rauze pa jald pahunche shah e naamdaar ke
@@ -68,11 +68,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1879
 # raw_sha256: 1600f219f0caeadbdf49a59f65ed23b1e6d781cc7f4ad0b8a49f1ee5ff4c5990
 ---
-
 اکبر ہوے جواں جو بچپن گزار کے
+لیلیٰ یہ سمجھی آے ہے اب دن بہار کے
 
 ۱
-لیلیٰ یہ سمجھی آے ہے اب دن بہار کے
 یہ کب خبر تھی آے گی پردیس میں قضاء
 ارمان نہ ہونگے پورے دل سوگوار کے
 

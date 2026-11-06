@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Ran may asghar teer khane aagaye
-  
-  1
   Teer kha kar muskurane aagaye
+
+  1
   Aagaye le kar tabassum ki ada
   Fauje aada ko rulaane aagaye
-  
+
   2
   Aaye kya maidan may asghar ay khuda
   Saath unke sab zamane aagaye
-  
+
   3
   Chahiye thi ek jahan ko roshni
   Ek diya khoon se jalane aagaye
-  
+
   4
   Baat to rakhna thi teri ay khuda
   Khoon may asghar nahane aagaye
-  
+
   5
   Moo pe jab asghar ka khoon sheh ne mala
   Ambiya bhi sar jhukane aagaye
-  
+
   6
   Maa thi jhoole se abhi lipti hui
   Aur udoo jhoola jalane aagaye
-  
+
   7
   Jab azakhana saja dekha naved
   Hum bhi ek nauha sunane aagaye
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=971
 # raw_sha256: cc60ab71d66b7e03f4fa3463186d7b4302624bfc972b141fff51ba9ec4bb7446
 ---
-
 رن میں اصغر تیر کھانے آ گےء
+تیر کھا کر مسکرانے آ گےء
 
 ۱
-تیر کھا کر مسکرانے آ گےء
 آگیا لے کر تبسم کی ادا
 فوج اعدا کو رلانے آ گےء
 

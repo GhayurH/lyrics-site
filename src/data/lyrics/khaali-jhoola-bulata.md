@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Khaali jhoola bulata hai kab aaoge asghar
-  
-  1
   Maa ka dil ghabrata hai kab aaoge asghar
+
+  1
   Har soo dasht mein shaam e ghariban
   Ke saaye lehrane lage
   Maut ki baahein phail gayi
@@ -21,7 +21,7 @@ romanLyrics: |-
   Suraj run mein qatl hua
   Darya khoon mein doob gaya
   Sannata tadpata hai
-  
+
   2
   Kaash agar bas chalta mera
   Maut se tujh ko bacha laati
@@ -30,7 +30,7 @@ romanLyrics: |-
   Rooth gaye kyun ay dilbar
   Jaata hai jab koi baher
   Shaam ko wo aa jaata hai
-  
+
   3
   Teer galay par khaake bataya
   Qurbani kya hoti hai
@@ -39,7 +39,7 @@ romanLyrics: |-
   Khoob hui ye mehmani
   Paaya na marte dam pani
   Teer koi yun khaata hai
-  
+
   4
   Tum hi batao jaaun kahan mai
   Band hai sab raahein meri
@@ -48,7 +48,7 @@ romanLyrics: |-
   Beta mai tujhse bichad gayi
   Dunya meri ujad gayi
   Gham mujhe khaye jaata hai
-  
+
   5
   Aane waale aaye magar
   Is tarha dilaase deke gaye
@@ -57,7 +57,7 @@ romanLyrics: |-
   Haal kahun kya ay jaani
   Pursa deti hai veerani
   Dard mujhe samjhata hai
-  
+
   6
   Karbobala ke dasht mein aakar
   Phoot gayi qismat meri
@@ -66,7 +66,7 @@ romanLyrics: |-
   Kaise kahun kyun jeeti hoon
   Khoon ke aansu peeti hoon
   Moo ko kaleja aata hai
-  
+
   7
   Qaid mein bhi bhoole se meri
   Aankhon mein agar neend aati hai
@@ -75,7 +75,7 @@ romanLyrics: |-
   Kho gayi jhoole ki dori
   Kis ko sunaun mai lori
   Haath yuhin lehrata hai
-  
+
   8
   Maqta likhte likhte nayyar
   Mujhko achanak aisa laga
@@ -88,11 +88,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3493
 # raw_sha256: 9a21fc20d102a80d93b2b34024e70ed2c8f9a31b3041c037f3c76b0d542348c8
 ---
-
 خالی جھولا بلاتا ہے کب آؤ گے اصغر
+ماں کا دل گھبراتا ہے کب آؤ گے اصغر
 
 ۱
-ماں کا دل گھبراتا ہے کب آؤ گے اصغر
 ہر سوں دشت میں شام غریباں
 کے ساے لہرانے لگے
 موت کی باہیں پھیلی گیء

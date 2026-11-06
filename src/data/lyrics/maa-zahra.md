@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Hassan hussain ki zakhmi ghareeb maa zahra
-  
-  1
   Tamache khaati hai beton ke darmiyan zahra
+
+  1
   Kamar ke saath shikasta huye hai baazu bhi
   Tumhari tooti nahi sirf phasliyan zahra
-  
+
   2
   Jo saans leti hai pehlu may dard badta hai
   Ke ab to le bhi nahi sakti hichkiyan zahra
-  
+
   3
   Tamacha maara hai zaalim ne is tarha tum ko
   Zameen pe toot ke bikhri hai baaliyan zahra
-  
+
   4
   Hassan hi jaane ke masjid se ghar tak aate huye
   Tamache khaake giri hai kahan kahan zahra
-  
+
   5
   Chupaye kaise ali ki nigaah se fizza
   Tere lahoo se bhara hai tera makaan zahra
-  
+
   6
   Kuch aur badti hai dushwaari saans lene may
   Kahin jo sunti hai bachon ki siskiyan zahra
-  
+
   7
   Ali se pooch rahe hai hussain rote huye
   Kya taaziyane ke khaabil hai meri maa zahra
-  
+
   8
   Koi salaam ka deta nahi jawab usay
   Hai tanha faatah e khyber ki qadr daan zahra
-  
+
   9
   Bacha ke laayi hai khanjar talay se apna imam
   Badi ameer thi zainab tumhari maa zahra
-  
+
   10
   Hussain tadpe takallum na kyun tahe khanjar
   Tumhare haath pe durron ke thay nishan zahra
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1023
 # raw_sha256: 2fb754e1f98ae70cf5338ae317d776b476dd16c49c9e00843bb34a19aacd596a
 ---
-
 حسن حسین کی زخمی غریب ماں زہرا
+طمانچے کھاتی ہے بیٹوں کے درمیاں زہرا
 
 ۱
-طمانچے کھاتی ہے بیٹوں کے درمیاں زہرا
 کمر کے ساتھ شکستہ ہوے ہیں بازو بھی
 تمہاری ٹوٹی نہیں صرف پسلیاں زہرا
 

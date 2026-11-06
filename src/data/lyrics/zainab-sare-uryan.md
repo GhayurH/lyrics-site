@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab sare uryan hai abbas chale aao
-  
-  1
   Makhdooma pareshan hai abbas chale aao
+
+  1
   Qayyam e hussaini ko afwaaj ne ghera hai
   Ghar lutne ka imkan hai abbas chale aao
-  
+
   2
   Shabbir ke laashe par jaane bhi nahi deta
   Pehre pe musalman hai abbas chale aao
-  
+
   3
   Main kaise bachaungi sajjad ko sholon se
   Aajao to ehsaan hai abbas chale aao
-  
+
   4
   Masooma ke durr cheene mere bhai ke qaatil ne
   Wo khoon may ghaltan hai abbas chale aao
-  
+
   5
   Mastooron ne haathon may pehni hai rasan ghazi
   Jaana suye zindan hai abbas chale aao
-  
+
   6
   Hota hai jahan matam aate hai wahan ghazi
   Tauqeer ka emaan hai abbas chale aao
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1613
 # raw_sha256: 0875e250339aec3e7e21f6f55ddbdc70e1d84a7b3105275f8a7b4693619d4385
 ---
-
 زینب سر عریاں ہے عباس چلے آؤ
+مخدومہ پریشاں ہے عباس چلے آؤ
 
 ۱
-مخدومہ پریشاں ہے عباس چلے آؤ
 قیامِ حسینی کو افواج نے گھیرا ہے
 گھر لٹنے کا امکاں ہے عباس چلے آؤ
 

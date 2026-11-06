@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Sajjad tujhe khoon rulayega ye bazaar
-  
-  1
   Chalees baras bhool na payega ye bazaar
+
+  1
   Be-deeno ke narghe mein haram honge khule sar
   Barsayenege kothon se aseeron pe wo patthar
   Ta umr nigahon se jayega na ye bazaar
-  
+
   2
   Darwaza e sa'at pe layeen denge manadi
   Naaqon se utar jaaye isi dhoop mein qaidi
   Yun zehmat e sadaat badhayega ye bazaar
-  
+
   3
   Yun ghairat e maryam ko satayenge sitamgar
   Har gaam pe aaeene lagayenge sitamgar
   Kya manzar e gham naak dikhayega ye bazaar
-  
+
   4
   Jis roz khabar shaam ka hakim ye sunega
   Bazaar ke nazdeek hai shabbir ka kunba
   Bedard usi roz sajayega ye bazaar
-  
+
   5
   Durron se teri pusht pe likhenge sitamgaar
   Ghairat ka khuda ek rida ka hai talabgaar
   Har gaam naye zakhm dikhayega ye bazaar
-  
+
   6
   Juz peshe khuda sar na khuja tera kahin par
   Lekin tujhe baba ne bataya tha ye ro kar
   Afsos ke sar tera jhukayega ye bazaar
-  
+
   7
   Chauda sau baras baad hamay safdar o mazhar
   Milte hai kitabon mein yehi dard ke manzar
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3756
 # raw_sha256: 9160d1d73100c7b1f541e59710634959f535e691410a7166c91911d2adecd8d0
 ---
-
 سجاد تجھے خون رلاے گا یہ بازار
+چالیس برس بھول نہ پائے گا یہ بازار
 
 ۱
-چالیس برس بھول نہ پائے گا یہ بازار
 بے دینوں کے نرغے میں حرم ہونگے کھلے سر
 برساییں گے کوٹھوں سے اسیروں پہ وہ پتھر
 تا عمر نگاہوں سے جاے گا نہ یہ بازار

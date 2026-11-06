@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab ko jo bazaar mein zaalim ne phiraya
-  
-  1
   Us waqt lab pe tha ye kahan ho ay mere ghazi
+
+  1
   Ek izdehaam ka hai badkaar fasikon ka
   Bazaar sharabi se guzar saani e zehra ka
   Deti thi sada ro kar kahan ho ay mere ghazi
-  
+
   2
   Pur khaar raaste hai aur nange paon sadaat
   Mehshar se kam nahi hai ye sakhtiyan ye halaat
   Pairon se khoon hai jaari kahan ho ay mere ghazi
-  
+
   3
   Atfaal hussaini pe hai zulm o sitam jaari
   Aur noke sina par sar quran ka hua taari
   Gham naak is fiza mein kahan ho ay mere ghazi
-  
+
   4
   Nau baar rida sar se yun cheena hai zaalimo ne
   Haathon ko pusht e gardan baandha hai zaalimo ne
   Is darja musibat mein kahan ho ay mere ghazi
-  
+
   5
   Bazaar saj gaye aur khushiyan mana rahe hai
   Baaghi ki behan keh kar zaalim sata rahe hai
   Haste hai layeen hum par kahan ho ay mere ghazi
-  
+
   6
   Ranj o alam mein dooba wo abid e muztar hai
   Sharm o haya ka paikar chalta jhukaye sar hai
   Dene ko ab dilaase kahan ho ay mere ghazi
-  
+
   7
   Aazam mai likhun kaise bazaar ka wo manzar
   Sar nange bibiyon ke chalta tha dil pe khanjar
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1475
 # raw_sha256: 2a394250b2a14a93f0268507dd967c3bf2ad53cf4d1324e4826edf1aab7d353c
 ---
-
 زینب کو جو بازار میں ظالم نے پھرایا
+اس وقت لب پہ تھا یہ کہاں ہو اے میرے غازی
 
 ۱
-اس وقت لب پہ تھا یہ کہاں ہو اے میرے غازی
 اک اژدھام کا ہے بدکار فاسقوں کا
 بازار شرابی سے گزر ثانیء زہرا کا
 دیتی تھی صدا رو کر کہاں ہو اے میرے غازی

@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Khuli hai tashnalabi ki kitab pani mein
-  
-  1
   Wafa dikha gayi khyber ka baab pani mein
+
+  1
   Jamaale hazrate abbas taygh o mashk o alam
   Chamak rahe hai kayi aaftab pani mein
-  
+
   2
   Sawaar pyasa raha rahwaar pyasa raha
   Agarche bheeg chuki thi raqaab pani mein
-  
+
   3
   Idhar sabeel lagayi udhar mehakne lage
   Gham e hussain ke taaza gulaab pani mein
-  
+
   4
   Labe sakina se jo pyaas ban ke ubhra tha
   Simat ke aa gaya wo izteraab pani mein
-  
+
   5
   Agar hussain na hote to mil gaya hota
   Tamaam kaar e risalat maab pani mein
-  
+
   6
   Tapakne laga hai dil khoon ho ke aankhon se
   Na jaane dekhti kya hai rabab pani mein
-  
+
   7
   Bajuz shuja ke abbas e naamwar rehaan
   Likha hai kis ne wafa ka nisaab pani mein
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2198
 # raw_sha256: 789fa83a933b3fa417c34c0d6d0da58ad20e013932a948ce8b7468e798169cbf
 ---
-
 کھلی ہے تشنہ لبی کی کتاب پانی میں
+وفا دکھا گیء خیبر کا باب پانی میں
 
 ۱
-وفا دکھا گیء خیبر کا باب پانی میں
 جمال حضرتِ عبّاس تیغ و مشک و علم
 چمک رہے ہیں کیء آفتاب پانی میں
 

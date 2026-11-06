@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Khaak par laashe pade hai karbala khamosh hai
-  
-  1
   Ek sakta hai biyaban ki fiza khamosh hai
+
+  1
   Subha ko ahle haram ki yaad aati hai azan
   Waqte maghrib hai shabi e mustafa khamosh hai
-  
+
   2
   Wo humakna muskarana aur lipatna shaah se
   Asghar e masoom ki har ek ada khamosh hai
-  
+
   3
   Hai sakina godh mein zainab ke aansu hai rawan
   Soti hai masoom aur maa behawa khamosh hai
-  
+
   4
   Hai shaheedon ke bhi laashe laasha e sheh ke khareeb
   Khafila saalar chup hai khafila khamosh hai
-  
+
   5
   Kuch dhuaan baaqi abhi hai dher mein raakh ke
   Sheh ke qaime jal chuke hai aur fiza khamosh hai
-  
+
   6
   Bediyan hai paaye e abid mein to gardan mein hai tauq
   Roti hai zanjeer lekin naksh e paa khamosh hai
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3239
 # raw_sha256: 40e0a1103a4a57eb6677b77cf167179d4ea2b024986f7c55dbb7ad3078a4ba3f
 ---
-
 خاک پر لاشے پڑیں ہیں کربلا خاموش ہے
+ایک سکتہ ہے بیاباں کی فضا خاموش ہے
 
 ۱
-ایک سکتہ ہے بیاباں کی فضا خاموش ہے
 صبح کو أہل حرم کی یاد آتی ہے اذاں
 وقتِ مغرب ہے شبیہء مصطفی خاموش ہے
 

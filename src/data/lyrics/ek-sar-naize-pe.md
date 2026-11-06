@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye shaam bazaar e shaam
-  
+
   1
   Baam o dar pe tha charaghan bheed khaas o aam ki
   Bheed thi karbobal mein fathe fauje shaam ki
@@ -19,43 +19,38 @@ romanLyrics: |-
   Chal rahi thi peeche peeche sar jhukaye bibiyan
   Ek sar naize pe hai ek gardan e rahwaar mein
   Bhaiyon ke saath zainab aayi hai bazaar mein
-  
+
   2
   Shimr tere haath toote ay shaqi ye kya kiya
   Jam gaya hai khoon sakina ke lab o ruqsar mein
   Ek sar naize pe hai...
   Sar khule dekha na tha aangan mein jis ko baap ne
   Sar khule laayi gayi wo shaam ke bazaar mein
-  Ek sar naize pe hai...
-  
+
   3
   Sar ali asghar ka maa ke saamne kaata gaya
   Kitni be-rehmi thi haye hurmala ke waar mein
   Ek sar naize pe hai...
   Ya ali mushkil kusha ye waqt hai imdad ka
   Ya ali beti khadi hai majma e aghyaar mein
-  Ek sar naize pe hai...
-  
+
   4
   Zindagi bhar khoon rulayega ye gham sajjad ko
   Sun rahi hai sar khule zainab azan darbar mein
   Ek sar naize pe hai...
   Maarta hai shaahe deen ke khushk honton par chadi
   Haakim e gustakh bughz e hyder e karrar mein
-  Ek sar naize pe hai...
-  
+
   5
   Laasha na qaimon mein aaya is liye abbas ka
   Hasrat e mashk e bureeda thi dil e khuddar mein
   Ek sar naize pe hai...
   Jis pe mazhar roye hai maula lahoo chalees saal
   Us musibat ka bayan mumkin nahi ash'aar mein
-  Ek sar naize pe hai...
 # source_id: nohayonline:7dcc9f214beb7eddd791
 # source_url: https://www.nohayonline.com/details_content.php?id=3109
 # raw_sha256: b75b487c77f842919480392f536a8acc657645cdafe5e2cdd1d0a9e2c0766bbb
 ---
-
 ہاے شام بازار شام
 
 ۱
@@ -72,7 +67,6 @@ romanLyrics: |-
 ایک سر نیزے پہ ہے۔۔۔
 سر کھلے دیکھا نہ تھا آنگن میں جس کو باپ نے
 سر کھلے لای گیء وہ شام کے بازار میں
-ایک سر نیزے پہ ہے۔۔۔
 
 ۳
 سر علی اصغر کا ماں کے سامنے کاٹا گیا
@@ -80,7 +74,6 @@ romanLyrics: |-
 ایک سر نیزے پہ ہے۔۔۔
 یا علی مشکل کشاء یہ وقت ہے امداد کا
 یا علی بیٹی کھڑی ہے مجمعہء اغیار میں
-ایک سر نیزے پہ ہے۔۔۔
 
 ۴
 زندگی بھر خوں رلاے گا یہ غم سجاد کو
@@ -88,7 +81,6 @@ romanLyrics: |-
 ایک سر نیزے پہ ہے۔۔۔
 مارتا ہے شاہ دیں کے خشک ہونٹوں پر چھڑی
 حاکم گستاخ بغض حیدر کرار میں
-ایک سر نیزے پہ ہے۔۔۔
 
 ۵
 لاشہ نہ خیموں میں آیا اس لیےء عباس کا
@@ -96,4 +88,3 @@ romanLyrics: |-
 ایک سر نیزے پہ ہے۔۔۔
 جس پہ مظہر روے ہے مولا لہو چالیس سال
 اس مصیبت کا بیاں ممکن نہیں اشعار میں
-ایک سر نیزے پہ ہے۔۔۔

@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Paraya des hai ghurbat hai maa ye seh na payegi
-  
-  1
   Kafan aun o mohamed tumko zainab de na payegi
+
+  1
   Jawan hone se pehle bekhata maara gaya tumko
   Thay pyase teen din se phir bhi na pani diya tumko
   Tumahre bin tumahri maa bhi zinda reh na payegi
-  
+
   2
   Ye suraj ki tapish jalti zameen zakhmi badan haye
   Nahi hai paas kuch maa ke tumhe kis tarha dafnaye
   Kafan ke bin magar tadfeen hargiz ho na payegi
-  
+
   3
   Huwe armaan mere khaak sab karbobala aa kar
   Jinhe paala tha naazon se unhi ko dasht mein kho kar
   Ye dukhiya gham zada aafat raseeda jaa na payegi
-  
+
   4
   Ghamon ne ek din mein hi zaeefa kar diya mujhko
   Bhara ghar qatl kar daala mera mai ro'un kis kisko
   Kisi bhi laash pe jee bhar ke zainab ro na payegi
-  
+
   5
   Tumhari kamsini par bhi kisi ne rehm na khaaya
   Tumhe maara gaya phir jism pe ghodon ko daudaya
   Hai laashe tukdo mein dono ke maadar chun na payegi
-  
+
   6
   Mai tadpungi har ek lamha kabhi na chain paungi
   Rahungi jab talak zinda faqat aansu bahaungi
   Tumhe royegi maa din raat hargiz so na payegi
-  
+
   7
   Saron se chadarein chinti hai saaman loote jaate hai
   Qayamat ho gayi ahle sitam qaime jalaate hai
   Behen abbas ki beparda reh kar jee na payegi
-  
+
   8
   Ghira hai sholon mein kis tarha abid ko nikalun mai
   Dilaasa raando ko doo ya yateemo ko sambhlun mai
   Badan zakhmi hai saara phir bhi zanab ruk na payegi
-  
+
   9
   Qamar buknalvi zainab hui jis dam rasan basta
   Badi hasrat se aamir dono laashon ki taraf dekha
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2872
 # raw_sha256: 1498d62c383da5a0a8a3c8c27488f8da54f78dbd07087c87c975fe084e50b3b9
 ---
-
 پرایا دیس ہے غربت ہے ماں یہ سہہ نہ پائے گی
+کفن عون و محمد تم کو زینب دے نہ پائے گی
 
 ۱
-کفن عون و محمد تم کو زینب دے نہ پائے گی
 جواں ہونے سے پہلے بے خطا مارا گیا تم کو
 تھے پیاسے تین دن سے پھر بھی نہ پانی دیا تم کو
 تمہارے بن تمہاری ماں بھی زندہ رہ نہ پائے گی

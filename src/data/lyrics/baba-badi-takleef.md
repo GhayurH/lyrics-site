@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Chain akbar ko kahan baba badi takleef hai
-  
-  1
   Khaynch lo dil se sina baba badi takleef hai
+
+  1
   Naujawan bete ki kuch takleef kam kar dijiye
   Zakhm pe nade ali padh padh ke dam kar dijiye
   Mustaqil hai khoon rawan baba badi takleef hai
-  
+
   2
   Waqt ye manzar na dikhlaye kisi bhi baap ko
   Mujhpe kya guzri hai batlaun mai kaise aap ko
   Ladkhadati hai zaban baba badi takleef hai
-  
+
   3
   Saans bhi lene nahi deta mujhe barchi ka phal
   Kijiye bas ye dua ab mujhko aa jaaye ajal
   Dil pe hai baare giran baba badi takleef hai
-  
+
   4
   Tashnagi mein zakhme dil ki taab laaun kis tarha
   Ye batao haath seene se hataun kis tarha
   Dard hota hai yahan baba badi takleef hai
-  
+
   5
   Ab yaqeen hai mujhko mushkil hai bohat jeena mera
   Paar naiza hogaya hai tod kar seena mera
   Kyun na ragdun aediyan baba badi takleef hai
-  
+
   6
   Haal maadar se ne kehna jaake mujh ghamgeen ka
   Poch lo aankhon se aansu waqt hai yaseen ka
   Aa rahi hai hichkiyan baba badi takleef hai
-  
+
   7
   Mere qaatil ne mere seene mein barchi tod'di
   Ab to bas umeed bhi jeene ki maine chod'di
   Jism se khichti hai jaan baba badi takleef hai
-  
+
   8
   Noor aankhon ka pisar ke hijr mein jaata raha
   Aamir o akhtar dile shabbir tharrata raha
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3389
 # raw_sha256: 34b1dc10ff2aa9cdefd1c7b66151b6d31874554290a8bd855e4ce94a3e161e09
 ---
-
 چین اکبر کو کہاں بابا بڑی تکلیف ہے
+کھینچ لو دل سے سناں بابا بڑی تکلیف ہے
 
 ۱
-کھینچ لو دل سے سناں بابا بڑی تکلیف ہے
 نوجواں بیٹے کی کچھ تکلیف کم کر دیجیےء
 زخم پہ ناد علی پڑھ پڑھ کے دم کر دیجیےء
 مستقل ہے خوں رواں بابا بڑی تکلیف ہے

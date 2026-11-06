@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Raat to khair kisi taur guzar jayegi
-  
-  1
   Subhe ashoor qayamat ki khabar aayegi
+
+  1
   Aaj har qaima hai aabaad badi raunak hai
   Haye kal shaam ko basti ye ujad jayegi
-  
+
   2
   Ran mein goonjegi jo shehzada e akbar ki azan
   Maa sada sunte hi dil thaam ke reh jayegi
-  
+
   3
   Kooch kar jayenge sab akbar o abbas o hussain
   Qaima e shaah mein veerani si chaa jayegi
-  
+
   4
   Haye chid jayegi baysheer ki gardan ran mein
   Aur dar e qaima se maa dekhti reh jayegi
-  
+
   5
   Tukde ho jayega qasim ka badan maqtal mein
   Ek dulhan ki bhari maang ujad jayegi
-  
+
   6
   Is khadar chaayi do aalam pe zaeefi hogi
   Laash akbar ki na shabbir se uth payegi
-  
+
   7
   Baap ke seene pe sone ki jisay aadat hai
   Khaak par kaise bhala neend usay aayegi
-  
+
   8
   Qaime jal jayenge lut jayegi aulaad e nabi
   Haye zainab ki rida dasht mein chin jayegi
-  
+
   9
   Ek din aayega aisa bhi jahan mein gohar
   Har gali kooche se matam ki sada aayegi
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1514
 # raw_sha256: 4574b0d58ecd2e233a07f993c58587a7c8ace02a7f60275fb0365085ac24d9b5
 ---
-
 رات تو خیر کسی طور گزر جاے گی
+صبحِ عاشور قیامت کی خبر آے گی
 
 ۱
-صبحِ عاشور قیامت کی خبر آے گی
 آج ہر خیمہ ہے آباد بڑی رونق ہے
 ہاے کل شام کو بستی یہ اجڑ جاے گی
 

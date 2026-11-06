@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Misaale mauj ajal par ubhar ubhar ke chale
-  
-  1
   Hussain waale chale aur ban sawar ke chale
+
+  1
   Zohair aaye habeeb aaye nusrat e shah ko
   Qamar ke gird sitare nikhar nikhar ke chale
-  
+
   2
   Ali ka sher suye nehr yun chala jaise
   Shikaar dekh ke zaigham tehar tehar ke chale
-  
+
   3
   Nigaah kehti hai abbas ki sar e saahil
   Kahan hai fauj e udoo hum to mashk bhar ke chale
-  
+
   4
   Kamar habeeb ne baandhi jo nusrat e sheh may
   Jawaniyo ke iraade sawar sawar ke chale
-  
+
   5
   Naha ke nikla hai laila ke aansuon may shabab
   Na kyun jawani e akbar nikhar nikhar ke chale
-  
+
   6
   Safon ko tod ke jaate hai is tarah abbas
   Safeena maujon pa jaise ubhar ubhar ke chale
-  
+
   7
   Tawaaf e rauza e shabbir ki tamanna may
   Farishte baam e falak se utar utar ke chale
-  
+
   8
   Qalam uthaate hi madhe hussain may mahir
   Tasavuraat may mazmoon sawar sawar ke chale
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1218
 # raw_sha256: 3eae8a492f368796cbf8a4a895618510acaa1b67e9d8ce6f3b1af1cfef24d2ab
 ---
-
 مثال موج اجل پر ابھر ابھر کے چلے
+حسین والے چلے اور بن سور کے چلے
 
 ۱
-حسین والے چلے اور بن سور کے چلے
 زہیر آے حبیب آے نصرت شاہ کو
 قمر کے گرد ستارے نکھر نکھر کے چلے
 

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Wa min tehril le ya ali kadam enaa
-  
-  1
   Haye abbas haye abbas
+
+  1
   Aapke baad na hum raaton ko soye bhaiya
   Kam hui aankhon ki beenayi jo roye bhaiya
-  
+
   2
   Kitna abbas tha raub o jalaal aada par
   Raaton ko so nahi sakta tha yazeedi lashkar
-  
+
   3
   Chain se sotay thay jo log wo hai ab bedaar
   Khatm sab hogaye ansar o azeez aur ghamkhaar
-  
+
   4
   Koi saydani nahi soti thi aisa tha hiraas
   Hota tha zulm jo bachon par ko kehte abbas
-  
+
   5
   Tum to darya pe pade sote ho ay shere jari
   Raat din rehte hai yahan naala o shewan may sabhi
-  
+
   6
   Phir na soyi kabhi saydaniya gham ki maari
   Haye maqtal may hui is tarha shab be daari
-  
+
   7
   Mar gayi qaid may ro ro ke sakina pur gham
   Karti rehti thi shab o roz buka aur matam
-  
+
   8
   Pad gayi jab ke madine pa anees unki nazar
   Marsiya padti thi kulsoom yehi ro ro kar
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=81
 # raw_sha256: 9f9b6a2044b8d67771433617a0ae68f0ae96f022364b5ae3c3eb532e15df3c1f
 ---
-
 ومن تہرل لی یا علی قدمنا
+ہاے عباس ہاے عباس
 
 ۱
-ہاے عباس ہاے عباس
 آپ کے بعد نہ ہم راتوں کو سوےء بھیا
 کم ہویء آنکھوں کی بینائی جو روےء بھیا
 

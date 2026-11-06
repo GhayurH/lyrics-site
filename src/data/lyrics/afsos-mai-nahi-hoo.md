@@ -9,115 +9,66 @@ poet: "Samar Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Khwaab e sughra
-
-
-  1
-
+romanLyrics: |-
+  Khwaab e sughra
   Behan ne khwaab ye kal shab hai dekha
 
+  1
   Shabihe mustafa bhaiya hamara
-
   Padar ke haath se banta hai dulha
-
   Bahot masroor hai khush hai sakina
-
   Damakta hai khushi se sab ka chehra
-
   Lekin mai nahi hoo afsoos mai nahi hoo
 
-
   2
-
   Phupi amma balayein le rahi hai
-
   Bahit fizza duayein de rahi hai
-
   Thikana kya hai behno ki khushi ka
-
   Jo maange wo jo chaahe le rahi hai
-
   Manaata hai khushi kunba hamara
-
   Lekin mai nahi hoo...
 
-
   3
-
   Ali asghar ko shehwaala bana kar
-
   Bithaya maa ne akbar ke barabar
-
   Hatheli par rakhi mahendi zara si
-
   Khade hai paas abbas e dilawar
-
   Mujhe qasim ne har qaime mein dhoonda
 
-
   4
-
   Dulhan ke paas baithi hai sakina
-
   Bahot masroor hai ghazi ka beta
-
   Chacha akbar ki shadi ki khushi mein
-
   Naya malboos hai baqir ne pehne
-
   Achanak mujhko abid ne pukaara
 
-
   5
-
   Mehek sehre ki ye batla rahi hai
-
   Sawari sayyeda ki aa rahi hai
-
   Najaf se murtaza aaye huwe hai
-
   Hawa tazeem karne jaa rahi hai
-
   Hai aanchal mil ke sab behno ne daala
 
-
   6
-
   Achanak khwaab toota royi sughra
-
   Tha ghar mein har taraf chaaya andhera
-
   Tha laashon se bhara ganje shaheedan
-
   Ali akbar ke seene mein tha naiza
-
   Mere baba tumhe dene ko pursa
 
-
   7
-
   Abhi to khwaab tha kitna suhana
-
   Tha jin haathon mein dekha maine kangna
-
   Wo seene ka lahoo roke huwe thay
-
   Kahan ki rasme shadi kaisa sehra
-
   Sabhi dete hai baba ko sahara
 
-
   8
-
   Samar behte rahe sughra ke aansu
-
   Bhare akbar ke khaak o khoon mein gaysu
-
   Ali akbar suye jannat sidhaare
-
   Fiza mein reh gayi bas khoon ki boo
-
-  Janaza mai uthaati mil ke baba'
+  Janaza mai uthaati mil ke baba
 # source_id: nohayonline:7b6a7fab124daf9294c5
 # source_url: https://www.nohayonline.com/details_content.php?id=2387
 # raw_sha256: 333c14ad65601a95602b3f8fe28d709072ca0f14e70170c2c7eb9a0267c386f7
@@ -125,11 +76,10 @@ romanLyrics: 'Khwaab e sughra
 # source_url: https://www.ziyaraat.net/api/noha/1344
 # raw_sha256: 904c09a39e05ce979a2ba4fb43d1b6c897a6cd557bf1b1778aa443ed25a3e771
 ---
-
 خواب صغرا
+بہن نے خواب یہ کل شب ہے دیکھا
 
 ۱
-بہن نے خواب یہ کل شب ہے دیکھا
 شبیہ مصطفیٰ بھیا ہمارا
 پدر کے ہاتھ سے بنتا ہے دولہا
 بہت مسرور ہے خوش ہے سکینہ

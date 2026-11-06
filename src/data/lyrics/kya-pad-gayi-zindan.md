@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Kya pad gayi zindan mein uftaad sakina
-  
-  1
   Sab se juda hogayi nashaad sakina
+
+  1
   Karti thi bayan laash pe ye bano e bekas
   Faryad hai faryad hai faryad sakina
-  
+
   2
   Takraati hai zindan mein dewaar se sar ko
   Tum mar gayi maa hogayi barbaad sakina
-  
+
   3
   Utho to zara paas phupi jaan khadi hai
   Hote hai tumhare liye nashaad sakina
-  
+
   4
   Bedaad hui wo jo kisi par na hui thi
   Kuch apni zaban se kaho rudaad sakina
-  
+
   5
   Seene pe sulaane ke liye aaye hai baba
   Maa kehti hai utho meri nashaad sakina
-  
+
   6
   Abbas chacha aaye hai karte huwe matam
   Inki suno apni kaho uftaad sakina
-  
+
   7
   Ghurbat se yehi kehta hai zindan ka andhera
   Reh jayegi ta hashr teri yaad sakina
-  
+
   8
   Hai hathkadi haathon mein to paon mein hai bedi
   Dafnate hai phir bhi tumhe sajjad sakina
-  
+
   9
   Basti hai basayi hui gham ki ali fitrat
   Har dil hai teri yaad se abaad sakina
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1334
 # raw_sha256: 2a154571f5568518f14a12fbd3a741edcff8a4454dd9d266f776203957f2ffa4
 ---
-
 کیا پڑ گیء زندان میں افراد سکینہ
+سب سے جدا ہوگیء ناشاد سکینہ
 
 ۱
-سب سے جدا ہوگیء ناشاد سکینہ
 کرتی تھی بیان لاش پہ یہ بانوے بیکس
 فریاد ہے فریاد ہے فریاد سکینہ
 

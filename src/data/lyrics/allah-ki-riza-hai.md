@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Allah ki riza hai mohabbat hussain ki
-  
-  1
   Poocho rasool-e-paak se azmat hussain ki
+
+  1
   Tareekh hai gawah ke kufre yazeed se
   Islam ko bachagayi daulat hussain ki
-  
+
   2
   Darya kinare laasha e abbas dekh kar
   Ahle aza na poochiye haalat hussain ki
-  
+
   3
   Ran se jawan bete ka laasha uthate hai
   Sab se badi yehi hai musibat hussain ki
-  
+
   4
   Dam toot'ta tha uska jo ankhon ka noor tha
   Jaati na kaise ran may basarat hussain ki
-  
+
   5
   Beti ali ki peet ke sar apna reh gayi
   Dashte bala may dekh ke haalat hussain ki
-  
+
   6
   Ubhrenge har zamane may kuch waqt ke yazeed
   Har daur ko rahegi zaroorat hussain ki
-  
+
   7
   Har majlise hussain may aati hai fatema
   Jabse hui hai ran may shahadat hussain ki
-  
+
   8
   Mehshar ka khuaf unko hai humko nahi ghulam
   Humko naseeb hogi shifa'at hussain ki
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=831
 # raw_sha256: ca7be5452b4e9858f1d824c56d6dd624428e2e3c6c6f416f6db29e9e6b170663
 ---
-
 اللہ کی رضا ہے محبت حسین کی
+پوچھو رسول پاک سے عظمت حسین کی
 
 ۱
-پوچھو رسول پاک سے عظمت حسین کی
 تاریخ ہے گواہ کے کفر یزید سے
 اسلام کو بچاے گی دولت حسین کی
 

@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Amma tere bete ko sitamgaron ne maara
-  
-  1
   Sajde may hua qatl bhara ghar tera pyasa
+
+  1
   Barchi ali akbar ke kaleje se nikaali
   Ashoor ko mayyat bhi akele hi uthayi
   Phir bhi sheh e deen par na kiya rehm zara sa
-  
+
   2
   Abbas ki laashe pe ye sarwar ne sada di
   Bhai teri ruqsat ne kamar tod di meri
   Jab so gaya haye mera ghazi labe darya
-  
+
   3
   Wo zulm o sitam shaah pe maidan may toote
   Zakhmon pe lage zakhm shenshah e huda ke
   Be jaan tha wo jab suye zameen zeen se aaya
-  
+
   4
   Khanjar liye jo shimr badha jaanib e sarwar
   Bachi ne kaha maar na zaalim na sitam kar
   Phat'ta tha jigar door se manzar jo ye dekha
-  
+
   5
   Jab gardan e sarwar pe rakha shimr ne khanjar
   Beti se kaha baba ne tehro na yahan par
   Sajde may layeen ne sar e shabbir ko kaata
-  
+
   6
   Nanha sa gala rakh ke shah e deen ke galay par
   Bachi ne kaha shimr chala hum pe bhi khanjar
   Beti ka laga saamne baba ke tamacha
-  
+
   7
   Khanjar jo chala sheh ke galay par sar e maqtal
   Har zarb se barpa hua mehshar sar e maqtal
   Sar peet ke nabiyon ne kiya shaah pa girya
-  
+
   8
   Sar kaat ke ye zulm kiya aur unho ne
   Pamaal kiya laasha e shabbir sumon se
   Aaza e shahe deen ko musalmano ne kaata
-  
+
   9
   Teeron ke lagay zakhm shahe deen ke badan par
   Zakhmi tha bahot naizon se tauheed ka mazhar
   Phir jalti hui rayt ko har zakhm pa daala
-  
+
   10
   Rehan o erum bas wo qayamat ki ghadi thi
   Jab qabr pa zehra ki ye zainab ne buka ki
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1380
 # raw_sha256: ad2903d95a6c061e81b7554151db3ce65de8cdc1a2a46c59c820d3f1994a0055
 ---
-
 اماں تیرے بیٹے کو ستمگروں نے مارا
+سجدے میں ہوا قتل بھرا گھر تیرا پیاسا
 
 ۱
-سجدے میں ہوا قتل بھرا گھر تیرا پیاسا
 برچی علی اکبر کا کلیجے سے نکالی
 عاشور کو میت بھی اکیلے ہی اٹھای
 پھر بھی شہ دیں پر نہ کیا رحم زرا سا

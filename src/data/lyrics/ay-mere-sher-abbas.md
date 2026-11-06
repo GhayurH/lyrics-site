@@ -11,68 +11,68 @@ aliases: []
 published: false
 romanLyrics: |-
   Roke zainab ne kaha ay mere sher abbas
-  
-  1
   Chin gayi meri rida ay mere sher abbas
+
+  1
   Jab mere sar se rida cheen rahe thay aada
   Aisa lagta tha mujhe mera jari aayega
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Tu na aaya bhaiya ay mere sher abbas
-  
+
   2
   Aag qaimon mein layeeno ne laga di aakar
   Durre barsaye sakina pe yehi keh keh kar
   Kahan hai ab tera chacha ay ghamzada ay ghamzada
   Ab kahan hai saqqa ay mere sher abbas
-  
+
   3
   Shimr ne bali sakina ko tamache maare
   Aur mere saamne masoom ke cheene bunde
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Kuch na bas mera chala ay mere sher abbas
-  
+
   4
   Mere ghazi mere haathon mein bandhi jab rassi
   Sar jhuka kar ke bahot dayr talak mai royi
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Rukh suye darya tha ay mere sher abbas
-  
+
   5
   Ek rassi mein gala sab ka bandha tha bhai
   Haal us waqt sakina ka juda tha bhai
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Uska dam ghut'ta tha ay mere sher abbas
-  
+
   6
   Jab tera khaali alam khoon mein dooba aaya
   Mai usi waqt se ye jaan gayi ay bhaiyya
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Ab to bas hogi jafa ay mere sher abbas
-  
+
   7
   Mere ghayyur wafadaar mere shaydayi
   Ro rahi thi meri ghurbat pe meri tanhaai
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Has rahe thay aada ay mere sher abbas
-  
+
   8
   Us ghadi mere kaleje se nikalta tha dhuaan
   Jab layeen kehte thay atthara baradar hai kahan
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Dil bahot rota tha ay mere sher abbas
-  
+
   9
   Yaad aaya hai bahot ghar se nikalna mera
   Tere parcham ke talay shaan se chalna mera
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Jab khula sar mera ay mere sher abbas
-  
+
   10
   Hum ko jab shaam ke bazaar mein maare patthar
   Aur dehakte huwe angaare jo daale hum par
   Ay bawafa ay bawafa ay bawafa ay bawafa
   Tu bahot yaad aaya ay mere sher abbas
-  
+
   11
   Thokarein khaati rahi zainab e muztar waiz
   Zulm hote rahe har ek qadam par waiz
@@ -82,11 +82,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2846
 # raw_sha256: 58d5b9291e008e3c844ab16ef893588e9e2ab8be1b3befd6789ee028e4229555
 ---
-
 روکے زینب نے کہا اے میرے شیر عباس
+چھن گیء میری ردا اے میرے شیر عباس
 
 ۱
-چھن گیء میری ردا اے میرے شیر عباس
 جب میرے سر سے ردا چھین رہے تھے اعدا
 ایسا لگتا تھا مجھے میرا جری آے گا
 اے باوفا اے باوفا اے باوفا اے باوفا

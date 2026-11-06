@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay alamdar utho lut ke jaati hai behan
-  
-  1
   Haye abbas utho bhai abbas utho
+
+  1
   Kal talak qaime thay aabad badi raunak thi
   Tum bhi thay qasim o asghar bhi ali akbar bhi
   Ab koi paas nahi zeest ki aas nahi
-  
+
   2
   Aayi jab gyara moharram to qayamat aayi
   Lut gaya dasht mein ghar qaid hui aale nabi
   Aayi zainab ki sada chin gayi meri rida
-  
+
   3
   Dekh kar apne bandhe haathon ko ye bain kiye
   Reh gayi tanha thay athara biradar jis ke
   Wo hui jor o jafa koi mera na raha
-  
+
   4
   Is khadar bali sakina ne tamache khaaye
   Khaak par gr ke tadapti rahi bacchi haye
   Koi sunta hi na tha meri faryad o buka
-  
+
   5
   Qatl shabbir huwe tum bhi sidhare bhaiya
   Phir ghareebon ka koi poochne waala na raha
   Zulm par zulm sahe dasht se rote huwe
-  
+
   6
   Berida jaungi mai shaam ke bazaron mein
   Pesh hona hai mujhe zulm ke darbaron mein
   Tu mere saath na jaa meri himmat to badha
-  
+
   7
   Dasht mein laashe tadapne lage haye gohar
   Shaahzadi jo chali roti hui ye keh kar
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3180
 # raw_sha256: a55d24902d238157174aeaad52c44b63d25549c997f3065e5ff026351aad0543
 ---
-
 اے علمدار اٹھو لٹ کے جاتی ہے بہن
+ہاے عباس اٹھو بھای عباس اٹھو
 
 ۱
-ہاے عباس اٹھو بھای عباس اٹھو
 کل تلک خیمے تھے آباد بڑی رونق تھی
 تم بھی تھے قاسم و اصغر بھی علی اکبر بھی
 اب کوئی پاس نہیں زیست کی آس نہیں

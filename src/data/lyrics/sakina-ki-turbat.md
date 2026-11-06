@@ -10,11 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Hai kaisa andhera ya kya hogaya hai
   Hai kiska janaza qayamat bapa hai
-  
-  2
+
+  1
   Bhala kaun qaidi hai kya dhoondta hai
   Kahan par banaye lehad sochta hai
   Qayamat bapa hai qayamat bapa hai
@@ -40,8 +39,8 @@ romanLyrics: |-
   Zaeefi mein abid ki....
   Ye zahra ki poti hai ghazi ki pyari
   Bahot laadli hai ye apne padar ki
-  
-  3
+
+  2
   Ye darbar mein kya qayamat hui hai
   Sakina phuphi se ye kya poochti hai
   Kahi mar hi jaaye na zainab khudaya
@@ -61,12 +60,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=112
 # raw_sha256: 5217c752224f725a64ab2caf75996749db24e9c609ef07a144b1f7487b1574ed
 ---
-
-۱
 ہے کیسا اندھیرا یہ کیا ہو گیا ہے
 ہے کس کا جنازہ قیامت بپا ہے
 
-۲
+۱
 بھلا کون قیدی ہے کیا ڈھونڈتا ہے
 کہاں پر بنائے لحد سوچتا ہے
 قیامت بپا ہے قیامت بپا ہے
@@ -93,7 +90,7 @@ romanLyrics: |-
 یہ زہرا کی پوتی ہے غازی کی پیاری
 بہت لاڈلی ہے یہ اپنے پدر کی
 
-۳
+۲
 یہ دربار میں کیا قیامت ہوئی ہے
 سکینہ پھُوپھی سے یہ کیا پُوچھتی ہے
 کہیں مر ہی جائے نہ زینب خدایا

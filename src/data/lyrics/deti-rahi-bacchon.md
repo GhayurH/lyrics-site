@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Deti rahi bacchon ko sakina ye dilaase
-  
-  1
   Pani ka mai keh aayi hoon abbas chacha se
+
+  1
   Mashkeeza rakha maine jo shaane pe chacha ke
   Rone lage baba unhe seene se laga ke
   Roti thi phupi dhaamp ke moo apna rida se
-  
+
   2
   Tadpe thay chacha jis ghadi maine ye kaha tha
   Zinda nahi reh payega cheh maah ka baccha
   Mar jaaye na asghar kahin seh roz ke pyase
-  
+
   3
   Haathon se kisi koozon ko girne nahi dena
   Ay pyaas ke maaro abhi kuch hausla rakhna
   Kuch dayr mein bhar jayenge pani se ye kaase
-  
+
   4
   Ho jayega darya pe abhi qabza hamara
   Saahil pe unhe koi bhi awaaz na dena
   Bhatke na dhyaan unka kahin ran mein sada se
-  
+
   5
   Mashkeeze ki karte hai yun haathon se hifazat
   Jaise ho koi fatema zehra ki amanat
   Ummeed thi mujhko ehi daadi ki dua se
-  
+
   6
   Haye mere baba ka baradar hua zakhmi
   Wo mashk chidi beh gaya maidan mein pani
   Bach jaaye chacha sab ye dua maango khuda se
-  
+
   7
   Akbar ye fughan karti thi ro ro ke sakina
   Darya se palat kar nahi aaya mera saqqa
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3681
 # raw_sha256: 03a98df778db72c307ce7544d9812a1b3b351ade61786e8dbdcdebc432b687cd
 ---
-
 دیتی رہی بچوں کو سکینہ یہ دلاسے
+پانی کا میں کہہ آی ہوں عباس چچا سے
 
 ۱
-پانی کا میں کہہ آی ہوں عباس چچا سے
 مشکیزہ رکھا میں نے جو شانے پہ چچا کے
 رونے لگے بابا انہیں سینے سے لگا کے
 روتی تھی پھپھی ڈھانپ کے منہ اپنا ردا سے

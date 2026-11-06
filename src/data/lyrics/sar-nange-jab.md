@@ -10,16 +10,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Sar nange jab haram gaye darbar e shaam mein
-  
-  1
   Shor o fughan tha marqad e khairul anaam mein
+
+  1
   Raavi ne haal khaana e zindan hai yun likha
   Wehshat mein misle qabr aur aafat mein karbala
   Aayi jo shab aseeron pe sadma hua siwa
   Na farsh tha na saaya na pani tha na ghiza
   Shammon ki roshni na charaghon ki roshni
   Thi matam e hussain ke daawon ki roshni
-  
+
   2
   Bano ko sar jo dasht mein us dam nazar pada
   Asghar ko qaid khane mein dil dhoondne laga
@@ -27,7 +27,7 @@ romanLyrics: |-
   Zainab lipat ke boli ke bhabi hua hai kya
   Zindan se bhi aseer kahan jaane paate hai
   Wo boli kya karun ali asghar bulaate hai
-  
+
   3
   Us waqt yaad aati hai asghar ki waridaat
   Maidan soona laashon pe laasha andheri raat
@@ -35,7 +35,7 @@ romanLyrics: |-
   Pehlu mein mujhko dhoonta hoga uthaye haath
   Jaane do mujhko jaane do ab jaan jaati hai
   Asghar ke rone ki mujhe awaaz aati hai
-  
+
   4
   Muslim ki bewa ro ke lagi karne iltemaas
   Asghar to qatl gaah mein laashe pidar ke paas
@@ -43,7 +43,7 @@ romanLyrics: |-
   Rakhti hoon chaar daagh jigar par mai behawaas
   Do bete qatl gaah mein hai tan pe sar nahi
   Do aaye thay jo kufe mein unki khabar nahi
-  
+
   5
   Waali ki laash hyder e kufa pe bekafan
   Rone ko unki laash pe maa hai na hai behen
@@ -55,11 +55,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3475
 # raw_sha256: 7a2cc97e6bcadb22521b05f8d76087ca26cb00678f989ccddcde98b2df60427e
 ---
-
 سر ننگے جب حرم گےء دربار شام میں
+شور و فغاں تھا مرقد خیرالانام میں
 
 ۱
-شور و فغاں تھا مرقد خیرالانام میں
 راوی نے حال خانۂ زنداں ہے یوں لکھا
 وحشت میں مثل قبر اور آفت میں کربلا
 آی جو شب اسیروں پہ صدمہ ہوا سوا

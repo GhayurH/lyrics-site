@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Be-rida be-aasra ek karwan rota raha
-  
-  1
   Karwan kya karwan ka saarban rota raha
+
+  1
   Jab giri bali sakina be-kajawa oont se
   Dayr tak ek sar sare noke sina rota raha
-  
+
   2
   Ek peher mein lut gaya pardes mein zehra ka ghar
   Ye suna jisne jahan bas wo wahan rota raha
-  
+
   3
   Muskurakar jaane kya ran mein kaha baysheer ne
   Hurmala thaame huwe teer o kamaa rota raha
-  
+
   4
   Dekh kar be-haal gham se baap ko waqte sahar
   Umme laila ka pisar de kar azan rota raha
-  
+
   5
   Khaali kooze tishnalab bachon ko takte dekh kar
   Dasht mein mashk o alam ka paasban rota raha
-  
+
   6
   Subhe ashoora se lekar asre ashoora talak
   Dekh kar ran ki zameen ko aasman rota raha
-  
+
   7
   Kashti e deen e khuda ka na-khuda dil thaam kar
   Dekh kar akbar ke seene mein sina rota raha
-  
+
   8
   Sar bureeda be-kafan teeron se chalni laash par
   Abid e bemaar muztar natawan rota raha
-  
+
   9
   Majlis e shabbir mein nauha sunata hai ahsan
   Irteza sun kar ye gham ki dastan rota raha
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1470
 # raw_sha256: 69f14b02ce66fc9799f97d7caf3d2d6b2891b89a23b539219b11a0c733aaf6e7
 ---
-
 بے ردا بے آسرا اک کارواں روتا رہا
+کارواں کیا کارواں کا سارباں روتا رہا
 
 ۱
-کارواں کیا کارواں کا سارباں روتا رہا
 جب گری بالی سکینہ بے کجاوہ اونٹ سے
 دیر تک اک سر سر نوکِ سِناں روتا رہا
 

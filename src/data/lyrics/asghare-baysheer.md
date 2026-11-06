@@ -10,44 +10,43 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Ro rahi hai soch kar ummul baneen ye aaj bhi
   Asghar e baysheer jaisi qabr hai abbas ki
   Rashk karti thi mai aqse hyder e karrar par
   Paon khat dete thay uske baith kar rahwaar par
   Haye mere sher ki ye kaisi haalat ho gayi
-  
-  2
+
+  1
   Marke bhi usne nibhaya mujhse jo wada kiya
   Apne bete ki wafa par faqr hai mujhko bada
   Ab nahi asghar ki maa se kuch mujhe sharmindagi
-  
-  3
+
+  2
   Baap ke badle musalmano ne bete se liye
   Sar juda hai tan juda baazu juda hai sher ke
   Aap ki tasveer tukde hogayi hai ya ali
-  
-  4
+
+  3
   Kaun lad sakta tha us se kis mein tha itna jigar
   Sunti hoo nau laakh ne maara hai usko ghayr kar
   Laash bhi uski salamat dasht mein rehne na di
-  
-  5
+
+  4
   Kya qad o qaamat thi uski ye usay maloom tha
   Ek ghatri mein simat kar kaise qasim aa gaya
   Umme farwa jaanti hai kya hai meri bekasi
-  
-  6
+
+  5
   Kab samaata tha meri chadar mein tu ay mere laal
   Kar diya hai zaalimo ne ye tere laashe ka haal
   Hai mere sar ki rida bhi teri turbat se badi
-  
-  7
+
+  6
   Keh ke ya abbas karta hai wo ashkon se wuzoo
   Darti hoo jaari na ho phir uski aankhon se lahoo
   Saamne abid ke yun kehti nahi hoo mai kabhi
-  
-  8
+
+  7
   Roke karti hai salaam unko takallum karbala
   Fatema zehra se maa bete ne ki aise wafa
   Maadare abbas ki turbat bhi hai tooti hui
@@ -55,45 +54,43 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=340
 # raw_sha256: 2008640ef084d91c9b5bc68920d626dbd589ae669752cddf31ef6f0c4cbe2b46
 ---
-
-۱
 رورہی ہے سوچ کر ام البنین یہ آج بھی
 اصغر بے شیر جیسی قبر ہے عباس کی
 رشک کرتی تھی میں عکس حیدر کرار پر
 پاؤں خط دیتے تھے اسکے بیٹھ کر رہوار پر
 ہاے میرے شیر کی یہ کیسی حالت ہوگیء
 
-۲
+۱
 مرکے بھی اس نے نبھایا مجھ سے جو وعدہ کیا
 اپنے بیٹے کی وفا پر فقر ہے مجھ کو بڑا
 اب نہیں اصغر کی ماں سے کچھ مجھے شرمندگی
 
-۳
+۲
 باپ کے بدلے مسلمانوں نے بیٹے سے لےء
 سر جدا ہے تن جدا بازو جدا ہیں شیر کے
 آپکی تصویر ٹکڑے ہو گیی ہے یاعلی
 
-۴
+۳
 کون لڑ سکتا تھا اس سے کس میں تھا اتنا جگر
 سنتی ہوں نو لاکھ نے مارا ہے اسکو گھیر کر
 لاش بھی اسکی سلامت دشت میں رہنے نہ دی
 
-۵
+۴
 کیا قد و قامت تھی اس کی یہ اسے معلوم تھا
 ایک گٹھڑی میں سمٹ کر کیسے قاسم آگیا
 ام فروہ جانتی ہے کیا ہے میری بے کسی
 
-۶
+۵
 کب سماتا تھا میری چادر میں تو اے میرے لال
 کر دیا ہے ظالموں نے یہ تیرے لاشے کا حال
 ہے میرے سر کی ردا بھی تیری تربت سے بڑی
 
-۷
+۶
 کہ کے یا عباس کرتا ہے وہ آشکوں سے وضو
 ڈرتی ہوں جاری نہ ہو پھر اسکی آنکھوں سے لہو
 سامنے عابد کے یوں کہتی نہیں ہوں میں کبھی
 
-۸
+۷
 روکے کرتی ہے سلام انکو تکلم کربلا
 فاطمہ زہرا سے ماں بیٹے نے کی ایسی وفا
 مادر عباس کی تربت بھی ہےٹوٹی ہوئی

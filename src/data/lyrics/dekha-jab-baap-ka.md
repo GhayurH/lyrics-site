@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Dekha jab baap ka laasha to sakina royi
-  
-  1
   Shimr ne maara jo durra to sakina royi
+
+  1
   Na mila pani usay aag bujhane ke liye
   Jal gaya bhai ka jhoola to sakina royi
-  
+
   2
   Od kar sar pe rida kaan may durr pehne huwe
   Saamne aayi jo ramla to sakina royi
-  
+
   3
   Maar kar sayyed e mazloom ke honton pe chadi
   Jab hasa haakim e kufa to sakina royi
-  
+
   4
   Kya sakina ho tumhi itna batado bibi
   Hind ne aa ke jo poocha to sakina royi
-  
+
   5
   Chaahti thi ke wo le aaye usay qaime may
   Baap ka laasha na utha to sakina royi
-  
+
   6
   Qaid may sunte huwe baap ke sar se lori
   Zakhmi honton ko jo dekha to sakina royi
-  
+
   7
   Mir sajjad wo naaqe se giri royi nahi
   Aa ke daadi ne uthaya to sakina royi
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1076
 # raw_sha256: 90db9a28289f577110b0c0dec0cb4bb09a2c3a6dfd285a02b5319a9775829322
 ---
-
 دیکھا جب باپ کا لاشہ تو سکینہ روی
+شمر نے مارا جو درہ تو سکینہ روی
 
 ۱
-شمر نے مارا جو درہ تو سکینہ روی
 نہ ملا پانی اسے آگ بجھانے کے لئے
 جل گیا بھای کا جھولا تو سکینہ روی
 

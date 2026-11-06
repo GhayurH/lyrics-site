@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Masnad e gham bichayi jaati hai
-  
-  1
   Bazme matam sajayi jaati hai
+
+  1
   Ran ko akbar chale to maa ne kaha
   Umr bhar ki kamayi jaati hai
-  
+
   2
   Khoon may doobe hai yun ali akbar
   Jaise chadar udayi jaati hai
-  
+
   3
   Kisko ghayre hue hai ahle haram
   Kiski mannat badhayi jaati hai
-  
+
   4
   Ek rida dedo shah ko kubra
   Laashe qasim uthayi jaati hai
-  
+
   5
   Teer gardan pe khalo ay asghar
   Pyaas yun bhi bujhayi jaati hai
-  
+
   6
   Yaad aati hai ek nanhi lehad
   Jab bhi shamma jalayi jaati hai
-  
+
   7
   Boli zainab utho utho abid
   Aag ghar may lagayi jaati hai
-  
+
   8
   Zikre maula ka faiz hai mehshar
   Teri shohrat jo paayi jaati hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=639
 # raw_sha256: 1ab66030796fed5fb4479bd8513d44998fcba47e9d61f2dd067e201968a2bd76
 ---
-
 مسندِ غم بچھائی جاتی ہے
+بزمِ ماتم سجائی جاتی ہے
 
 ۱
-بزمِ ماتم سجائی جاتی ہے
 رن کو اکبر چلے تو ماں نے کہا
 عمر بھر کی کمائی جاتی ہے
 

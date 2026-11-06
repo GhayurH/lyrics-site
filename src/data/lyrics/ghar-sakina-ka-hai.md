@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghar sakina ka hai qaid khana
-  
-  1
   Ab na ho ga watan uska jaana
+
+  1
   Ro ke ghurbat se boli sakina
   Jaane waalon hamay bhool jaana
-  
+
   2
   Qaid hai aur lehed ka andhera
   Ab gaya roshni ka zamana
-  
+
   3
   Gham sakina ka samjha usi ne
   Jo parinda hai be-aashiyana
-  
+
   4
   Kaise jeeti wo jab ek din mein
   Lut gaya zindagi ka khazana
-  
+
   5
   Jo na ro paayi baba par usko
   Royega hashr tak ab zamana
-  
+
   6
   Teer jitne chale ranj o gham ke
   Uska masoom dil tha nishana
-  
+
   7
   Kamsini mein milay zakhm itne
   Maut ka ban gaya ye bahana
-  
+
   8
   Baap maqtal mein beti lehed mein
   Ab kahan roothna aur manana
-  
+
   9
   Thi amaari sakina ki khaali
   Khafila jab hua tha rawana
-  
+
   10
   Kitni ghurbat mein maut aayi usko
   Tha kafan uska kurta purana
-  
+
   11
   Jaagte jaagte mar gayi wo
   Jisko dushwaar tha neend aana
-  
+
   12
   Yaad karna suroor uski turbat
   Jab andhere mein shamma jalana
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3747
 # raw_sha256: 962c00624e6dc594dc5624409ed709ac1af883d03557bc1f289982dec9f92e6d
 ---
-
 گھر سکینہ کا ہے قید خانہ
+اب نہ ہو گا وطن اس کا جانا
 
 ۱
-اب نہ ہو گا وطن اس کا جانا
 رو کے غربت سے بولی سکینہ
 جانے والوں ہمیں بھول جانا
 

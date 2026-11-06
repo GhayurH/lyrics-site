@@ -9,86 +9,53 @@ poet: "Izzat Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Talab ki manzil e maqsood karbala tak hai
-
-
-  1
-
+romanLyrics: |-
+  Talab ki manzil e maqsood karbala tak hai
   Phir uske baad nazar arsh e kibriya tak hai
 
+  1
   Wohi amal wohi fikr o nazar wohi andaaz
-
   Nabi ke khoon ka asar shaah e nainawa tak hai
 
-
   2
-
   Khiyaas kije wo kya hoga har amal jiska
-
   Balandiyon ke tasavvur ki inteha tak hai
 
-
   3
-
   Rasool paike khuda hai hussain paike rasool
-
   Khuda se baat chali thi khuda-numa tak hai
 
-
   4
-
   Wo dekh surkhiye afsana e urooj e bashar
-
   Lakheer khoon ki kaabe se karbala tak hai
 
-
   5
-
   Wo log daawar e maahol ke muqabil hai
-
   Rasaayi jinki faqat khanjar e jafa tak hai
 
-
   6
-
   Na jaane kitne zamanon ki manzilon pa muheet
-
   Safar madine se sehra e karbala tak hai
 
-
   7
-
   Rukenge baap ke aansu na laashe akbar par
-
   Ye zabte giriya faqat fursate wagha tak hai
 
-
   8
-
   Hussain dhaamp lo daaman se gardane asghar
-
   Ke ab to ashk fishan chashme hurmala tak hai
 
-
   9
-
   Fishaar de na girah go ke is rasan may shaqi
-
   Bandha hua kisi masoom ka gala tak hai
 
-
   10
-
   Yazeed maal e ghanimat dikha na logon ko
-
   Ke is mein zainab e mazloom ki rida tak hai
 
-
   11
-
   Nuqooshe paaye mohamed talaash kar izzat
-
-  Ke haddhe fiqr musafir ki rehnuma tak hai'
+  Ke haddhe fiqr musafir ki rehnuma tak hai
 # source_id: nohayonline:0fe1a450f673ef2ee4a9
 # source_url: https://www.nohayonline.com/details_content.php?id=3119
 # raw_sha256: cade992cb972700b44af68b0236fd666fd807c6b9fd8e4c7ae619a1af0be8877
@@ -96,11 +63,10 @@ romanLyrics: 'Talab ki manzil e maqsood karbala tak hai
 # source_url: https://www.nohayonline.com/details_content.php?id=1054
 # raw_sha256: 8de0e3796a5824d05a2e2e9d829eed2bb2bad1a0a093bf0b270ad91f1cfaad0d
 ---
-
 طلب کی منزل مقصود کربلا تک ہے
+پھر اس کے بعد نظر عرش کبریا تک ہے
 
 ۱
-پھر اس کے بعد نظر عرش کبریا تک ہے
 وہی عمل وہی فکر و نظر وہی انداز
 نبی کے خون کا اثر شاہ نینوا تک ہے
 

@@ -10,44 +10,41 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Zindan ke andhere qaidi mera imam
   Dushwar kitni qaid thi kazim imam ki
   Dekhi na kabhi subho aayi na shaam thi
   Haye kis qadar wo kothri tang o tareek thi
   Na sajda hi ki jaa thi na thi qayaam ki
-  
-  2
+
+  1
   Kuch zehr de ke maare aur kuch qatal kiye
   Tazeem khoob ki hai khairul anaam ki
-  
-  3
+
+  2
   Zanjeer o tauq to rag o pay mein paywast thay
   Mazdoor le ke aaye mayyat imam ki
-  
-  4
+
+  3
   Najfi adab se choom le bedi malang ki
   Jo aaj tak bataati hai tareekh shaam ki
 # source_id: nohayonline:bd51535168633b00e46c
 # source_url: https://www.nohayonline.com/details_content.php?id=3370
 # raw_sha256: 6919693d064efdb85bc8cd8576d0f828a3afcdac9b7a2adb1e83048746999dbb
 ---
-
-۱
 زندان کے اندھیرے قیدی میرا امام
 دشوار کتنی قید تھی کاظم امام کی
 دیکھی نہ کبھی صبح آی نہ شام تھی
 ہاے کس قدر وہ کوٹھری تنگ و تاریک تھی
 نہ سجدہ ہی کی جا تھی نہ قیام کی
 
-۲
+۱
 کچھ زہر دے کے مارے اور کچھ قتل کیےء
 تعظیم خوب کی ہے خیر الانام کی
 
-۳
+۲
 زنجیر و طوق تو رگ و پےء میں پیوست تھے
 مزدور لے کے آئے میت امام کی
 
-۴
+۳
 نجفی ادب سے چوم لے بیڑی ملنگ کی
 جو آج تک بتاتی ہے تاریخ شام کی

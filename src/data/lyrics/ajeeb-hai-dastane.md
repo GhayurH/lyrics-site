@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Ajeeb hai daastane gham ajeeb hai
-  
-  1
   Nabi ki itrat pe ye sitam ajeeb hai
+
+  1
   Bhoolne waali baat nahi thi
   Ghar ghar iska charcha tha
   Ye to kal ki baat thi khud apni
   Aankhon se dekha tha
   Maulai ka kaad nabi ne
   Qum mein isko ata kiya
-  
+
   2
   Ek hi noor ke do tukde hai
   Ek mohamed ek ali
@@ -28,7 +28,7 @@ romanLyrics: |-
   Dono ko meraj hui
   Ek ko haq ne kar diya zaahir
   Ek parde mein chupa diya
-  
+
   3
   Zindabad ay jazba e matam
   Mehnat ab rang laayi hai
@@ -36,7 +36,7 @@ romanLyrics: |-
   Ab khul kar saamne aayi hai
   Aaj yazeediyat ne parda
   Rukh se apne hata diya
-  
+
   4
   Tehr nahi sakte thay baghair
   Izn farishte jis dar par
@@ -44,7 +44,7 @@ romanLyrics: |-
   Saqt thay jis ki chaukat par
   Waaye musalmano ho tum par
   Tumne wo dar jala diya
-  
+
   5
   Haaton mein hai shimr ke khanjar
   Zaanu ke neeche hai hussain
@@ -52,7 +52,7 @@ romanLyrics: |-
   Zainab sar kholay hue bain
   Baba ab tum kab aaoge
   Bhai ka kat'ta hai gala
-  
+
   6
   Sar ko tan se juda kiya
   Sar chada diya phir naize par
@@ -60,7 +60,7 @@ romanLyrics: |-
   Bujhi na dil ki aag magar
   Kalma-goyo ne khud apne
   Nabi ke ghar ko jala diya
-  
+
   7
   Aise mein ek bachi nikli
   Qaimon se ghabrayi hui
@@ -68,7 +68,7 @@ romanLyrics: |-
   Rukh pe yateemi chaayi hui
   Kaamp rahi thi khauf se wo
   Aur shimr tamache maarta tha
-  
+
   8
   Daaman mein thi aag lagi aur
   Suye najaf tha rukh uska
@@ -76,7 +76,7 @@ romanLyrics: |-
   Geh deti thi baba ko sada
   Rooth gaye kyon aap sakina se
   Baba kya ki thi khata
-  
+
   9
   Bain sakina ke sun sun kar
   Thar'rati thi laashe hussain
@@ -88,11 +88,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=462
 # raw_sha256: 9cbbfc46ee2d41d7f5cf18845d8212ca102781e72cc19cfe8a16962433f90c4e
 ---
-
 عجیب ہے داستانِ غم عجیب ہے
+نبی کی عطرت پہ یہ ستم عجیب ہے
 
 ۱
-نبی کی عطرت پہ یہ ستم عجیب ہے
 بُھولنے والی بات نہیں تھی
 گھر گھر اس کا چرچا تھا
 یہ تو کل کی بات تھی خود اپنی

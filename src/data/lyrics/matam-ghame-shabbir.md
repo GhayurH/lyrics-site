@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Matam ghame shabbir may elaan e wafa hai
-  
-  1
   Ye mit nahi sakta hai ye zehra ki dua hai
+
+  1
   Zehra ke gulistan ko loota gaya ban may
   Pamaal hua qasim e nauhshaah bhi ran may
   Aur qaima e shabbir may kohraam bapa hai
-  
+
   2
   Zainab ne kaha peet ke sar haye re ghurbat
   Ab kaun karega meri chadar ki hifazat
   Darya pe alamdar e jari qatl hua hai
-  
+
   3
   Farmati thi ro kar yehi bas zainab e nashaad
   Kis tarha badhaun mai qadam mai sayyed e sajjad
   Har simt tamashayi hai sar mera khula hai
-  
+
   4
   Qismat se mila jo hamay shabbir ka hai gham
   Ye jeete ji hoga na kabhi zindagi may kam
   Har lamha hamay fatema zehra ki dua hai
-  
+
   5
   Kin aankhon se shish maahe ko dekhegi wo maadar
   Mar jaaye na sadme se kahin bano e muztar
   Nanha sa gala zulm ki nawak se chida hai
-  
+
   6
   Jakda hua zanjeeron may hai abid e muztar
   Kis tarha se dafnaye bhala laasha e khwahar
   Ek bhai pe zindan may ajab waqt pada hai
-  
+
   7
   Jo ran may luti hai usi jageer ka matam
   Karte raho har haal may shabbir ka matam
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1794
 # raw_sha256: 6d476a3e4e564ff8260e08970e329dd952776a13994b2639bea01d080d2d90da
 ---
-
 ماتم غمِ شبیر میں علان وفا ہے
+یہ مٹ نہیں سکتا ہے یہ زہرا کی دعا ہے
 
 ۱
-یہ مٹ نہیں سکتا ہے یہ زہرا کی دعا ہے
 زہرا کے گلستاں کو لوٹا گیا بن میں
 پامال ہوا قاسم نوشاہ بھی رن میں
 اور خیمہء شبیر میں کہرام بپا ہے

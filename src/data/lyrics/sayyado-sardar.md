@@ -11,64 +11,64 @@ aliases: []
 published: false
 romanLyrics: |-
   Sayyado sardar ali alvida
-  
-  1
   Shion ke salaar ali alvida
+
+  1
   Shaahe huda ke pidar
   Jab chale waqt e sahar
   Thaam ke bande kamar
   Kehti thi zanjeer e dar
   Ay mere sarkar ali alvida
-  
+
   2
   Kufe may waqte sahar
   Taygh chali farq par
   Khoon se hua farsh tar
   Rote hai sar peet kar
   Saare azadaar ali alvida
-  
+
   3
   Hashr ka hangaam hai
   Girya hai kohraam hai
   Rasme jafa aam hai
   Kufa hi ab shaam hai
   Gham may giraftar ali alvida
-  
+
   4
   Jo tere ghamkhwar hai
   Jeene se bezaar hai
   Gham may giraftaar hai
   Hashr ke aasaar hai
   Kehte hai zawwar ali alvida
-  
+
   5
   Khutbe sunayega kaun
   Khaana khilayega kaun
   Gham se chudayega kaun
   Murde jilayega kaun
   Maalik o mukhtar ali alvida
-  
+
   6
   Ghash may hai deene ilaah
   Peet ke sar apna shaah
   Ro ke risaalat panaah
   Kehte hai ba-dard o aah
   Mere madadgaar ali alvida
-  
+
   7
   Binte shahe behrobar
   Dukhtare khairul bashar
   Phasliyon ko thaam kar
   Kehti hai baa chashme tar
   Ay mere ghamkhwar ali alvida
-  
+
   8
   Gham ki hai parchaiyan
   Roye na kyon betiyan
   Baandhenge ab shaamiyan
   Baazuon may rassiyan
   Lut gayi sarkar ali alvida
-  
+
   9
   Haye imame mobin
   Khoon may tar hai jabeen
@@ -79,11 +79,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2426
 # raw_sha256: eb2795092d63b0c18c909ef4c61224ec45feef9489d5a3b74e117938bf6912e2
 ---
-
 سید و سردار علی الوداع
+شعیوں کے سالار علی الوداع
 
 ۱
-شعیوں کے سالار علی الوداع
 شاہ ہدا کے پدر
 جب چلے وقتِ سحر
 تھام کے بند کمر

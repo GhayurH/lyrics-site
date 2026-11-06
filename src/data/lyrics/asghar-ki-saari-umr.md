@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Asghar ki saari umr safar mein guzar gayi
-  
-  1
   Tareekiyon mein haq ki ziya jis se bhar gayi
+
+  1
   Zaalim ke har iraade ko barbaad kar diya
   Islam ke wujood ko azaad kar diya
   Itni si jaan utna bada kaam kar gayi
-  
+
   2
   Yasrab se karwan chala nilki sawariyan
   Gehwara pushte naaqa bana ghar maraiyan
   Raahe safar mein din gaya shaam o sehar gayi
-  
+
   3
   Aaghosh mein ajal ki wo aaya hayaat se
   Has has ke khelta raha baysheer maut se
   Aakhir jaza tabassum e asghar pe mar gayi
-  
+
   4
   Sookhi zaban pheri labon par sagheer ne
   Pyase galay to tar kiya zaalim ke teer ne
   Nanhi si jaan maut ko hairaan kar gayi
-  
+
   5
   Khaa kar galay pe teer bhi jaari raha safar
   Baba ke saath saath ye maujood tha udhar
   Ho kar aseer baali sakina jidhar gayi
-  
+
   6
   Manzar ye dekh dekh ke rota raha falak
   Karbobala se kufa to kufe se shaam tak
   Bhai ke saath saath behan nange sar gayi
-  
+
   7
   Maa se bichad ke chain na aaya sagheer ko
   Har gaam karta jaata tha maa ko talaash wo
   Naize pe dhoondta tha ke amma kidhar gayi
-  
+
   8
   Naize pe sar sagheer ka dekha rabab ne
   Mamta balayein lene lagi izteraab mein
   Chehre pe apne laal ke jab jab nazar gayi
-  
+
   9
   Asghar ke baad karti thi faryaad ek maa
   Saansein to chal rahi hai magar zindagi kahan
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2973
 # raw_sha256: 2c530d16dd5e026fccdfe0c9f5cde4b01322f0f140fdba322f7c676290d46f7a
 ---
-
 اصغر کی ساری عمر سفر میں گزر گیء
+تاریکیوں میں حق کی ضیا جس سے بھر گیء
 
 ۱
-تاریکیوں میں حق کی ضیا جس سے بھر گیء
 ظالم کے ہر ارادے کو برباد کر دیا
 اسلام کے وجود کو آزاد کر دیا
 اتنی سی جان اتنا بڑا کام کر گیء

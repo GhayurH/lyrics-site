@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali ke ghar mein qayamat ki subha aayi hai
-  
-  1
   Khabar ye khalq ko jibreel ne sunayi hai
+
+  1
   Kiya hai waar sitamgar ne poori shiddat se
   Shigaafta hua sar murtaza ka zarbat se
   Tadap rahe hai ali dard e intehaai hai
-  
+
   2
   Bapa hui hai jo koofe mein karbala dekho
   Ali wali se jo ummat ne ki dagha dekho
   Imam e waqt se ye kaisi bewafayi hai
-  
+
   3
   Lahoo mein tar hai rukh e buturab wavaila
   Nabi ko khuld mein hai izteraab wavaila
   Gham o alam ki fiza zindagi pe chaayi hai
-  
+
   4
   Hassan hussain hai baba ko dekh kar maghmoom
   Saron ko peet ke roti hai zainab o kulsoom
   Shadeed gham hai musibat ye kaisi aayi hai
-  
+
   5
   Asar se zeher ke maula pe hai ghashi taari
   Wasiyaton ka musalsal hai silsila jaari
   Ye jaante hai ke bachon se ab judaai hai
-  
+
   6
   Hassan hussain se farma rahe hai ye maula
   Sitam ke waar se bachna muhaal hai mera
   Shaqi ne taygh e sitam zeher mein bujhayi hai
-  
+
   7
   Isi ke saath hui ibteda e karbobala
   Baland zainab o kulsoom ki hai aah o buka
   Ye subha shaam e ghariban ka rang laayi hai
-  
+
   8
   Jahan mein koi na aulaad e fatema ka raha
   Hua jo zulm ke sadiq ujad gaya kunba
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1758
 # raw_sha256: 585a2b9f193147718e092b1019515cfb11e5fb698ae7686441bdb7dd8bdaeb59
 ---
-
 علی کے گھر میں قیامت کی صبح آی ہے
+خبر یہ خلق کو جبرییل نے سنائی ہے
 
 ۱
-خبر یہ خلق کو جبرییل نے سنائی ہے
 کیا ہے وار ستمگر نے پوری شدت سے
 شگافتہ ہوا سر مرتضیٰ کا ضربت سے
 تڑپ رہے ہیں علی درد انتہائی ہے

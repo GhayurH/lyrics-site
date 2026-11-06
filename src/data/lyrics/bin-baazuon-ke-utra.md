@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Kulsoom ro ke kehti hai ummul baneen se
-  
-  1
   Bin baazuon ke utra hai abbas zeen se
+
+  1
   Umeed pyase bachon ki mujhse judi rahe
   Wo chaahta tha mashke sakina bachi rahe
   Yun teer rokta raha apni jabeen se
-  
+
   2
   Baba ka zakhm yaad hai gehra tha kis khadar
   Aise hi tha do neem mere bawafa ka sar
   Hyder ki tarha khoon tha jaari jabeen se
-  
+
   3
   Ek aankh may tha teer to ek aankh may lahoo
   Qaime ki raah dhoond raha tha wo char soo
   Ek gurz ne gira diya bekas ko zeen se
-  
+
   4
   Roohe ali ke bain thay haye mera safeer
   Sar par bhi gurz baazu juda aankh may bhi teer
   Badla mera liya hai mere janasheen se
-  
+
   5
   Saqqa haram ka dasht may be-jaan hogaya
   Ab maarna hussain ko aasaan hogaya
   Ye shor uth raha tha sipaahe layeen se
-  
+
   6
   Ghazi ki maut haal ye zainab ka kar gayi
   Lagta tha jaise saani e zehra bhi mar gayi
   Aise giri wo jaise gira bhai zeen se
-  
+
   7
   Amma mai apne bete ka matam na kar saki
   Hadh ye hai qaid hoke mai jab shaam ko chali
   Baazu utha ke choom na paayi zameen se
-  
+
   8
   Akbar behan ye boli ghazab ki jafa hui
   Asghar ke jaisi laash mere bhai ki bachi
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1075
 # raw_sha256: fecc13d0ca6dd2affeae85b8aecc298ca953b678cc262483f7bb9af857726b4f
 ---
-
 کلثوم رو کے کہتی ہے ام البنین سے
+بن بازوؤں کے اترا ہے عباس زین سے
 
 ۱
-بن بازوؤں کے اترا ہے عباس زین سے
 امید پیاسے بچوں کی مجھے جڑی رہے
 وہ چاہتا تھا مشک سکینہ بچی رہے
 یوں تیر روکتا رہا اپنی جبین سے

@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Ab kisi se ruk nahi sakta bayan e karbala
-  
-  1
   Likh gaye abbas khoon se daastane karbala
+
+  1
   Gham manate hi rahenge hum azadare hussain
   Ashk bante hi rehenge tarjumane karbala
-  
+
   2
   Jaan mohamed ki bahca kar so gaye jaise ali
   Deen bacha kar sogaya yun mehmane karbala
-  
+
   3
   Jaan dekar karbala walon ne aasan kar diya
   Kis khadar mushkil tha warna imtehane karbala
-  
+
   4
   Shakl pehchani na jaati deen walon deen ki
   Wo to kahiye hogaya baakhi nishane karbala
-  
+
   5
   Asghar e nadan ki danayi ki sadqe jaaiye
   Ye mujahid ban gaya hai haske jaane karbala
-  
+
   6
   Sirf deen e haq ki tafseerein bahattar hai urooj
   Ban gaye hai karbala walay zaban e karbala
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=51
 # raw_sha256: 4100e72f90a54d024462bedf0ee7d32b1d962c1ebc825b5583b80934153e7080
 ---
-
 اب کسی سے رُک نہیں سکتا بیانِ کربلا
+لکھ گئے عباس خوں سے داستانِ کربلا
 
 ۱
-لکھ گئے عباس خوں سے داستانِ کربلا
 غم مناتے ہی رہیں گے ہم اعزادارِ حُسین
 اشک بنتے ہی رہیں گے ترجمانِ کربلا
 

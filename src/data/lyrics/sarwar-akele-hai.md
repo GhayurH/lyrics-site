@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Udhar laakhon ka lashkar hai idhar sarwar akele hai
-  
-  1
   Nahi baakhi koi nasir laday kyun kar akele hai
+
+  1
   Dua laila ye karti thi elaahi tu madad karna
   Hazaaron barchiyon waale hai aur akbar akele hai
-  
+
   2
   Rabab e khastatan ek ek se ro ro ke kehti thi
   Andheri qabr hai jangal hai aur asghar akele hai
-  
+
   3
   Pukari zainab e muztar madad ko aaiye baba
   Udoo nargha kiye hai sibte paighambar akele hai
-  
+
   4
   Jawan bete ki mayyat hai sahara kaun de badkar
   Sambhalte hai kabhi khaate hai sheh thokar akele hai
-  
+
   5
   Kaha zainab ne hinda se huwe qurban sab ran may
   Hamare waarison may abid e muztar akele hai
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1112
 # raw_sha256: 48f151d3985a2d72bd4f116a7462c58635ddcecced90cc617d79d8bbd7e4d6ca
 ---
-
 ادھر لاکھوں کا لشکر ہے ادھر سرور اکیلے ہیں
+نہیں باقی کوئی ناصر لڑے کیوں کر اکیلے ہیں
 
 ۱
-نہیں باقی کوئی ناصر لڑے کیوں کر اکیلے ہیں
 دعا لیلیٰ یہ کرتی تھی الہٰی تو مدد کرنا
 ہزاروں برچیوں والے ہیں اور اکبر اکیلے ہیں
 

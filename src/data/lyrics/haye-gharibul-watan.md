@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Nauha ruqayya ka tha haye ghareebul watan
-  
-  1
   Deti hoo kab se sada haye ghareebul watan
+
+  1
   Pyar jo sheh ne kiya boli ruqayya chacha
   Baba ko kya hogaya haye ghareebul watan
-  
+
   2
   Sar ko jhukaye hussain kehte thay ay noor e ain
   Deen pe hua wo fida haye ghareebul watan
-  
+
   3
   Kufe may paaya na chain haye safeer e hussain
   Kufiyon ne ki dagha haye ghareebul watan
-  
+
   4
   Wo aa ke ghar may ruke sajda e haq may jhuke
   Karte thay bas ye dua haye ghareebul watan
-  
+
   5
   Aaye na kufa imam sadqe ho unpar ghulam
   Kehta tha ye bawafa haye ghareebul watan
-  
+
   6
   Dhoke se ghera usay rassi se jakda usay
   Qaidi bana soorma haye ghareebul watan
-  
+
   7
   Sheh ko kiya yun salam hum to huwe ab tamam
   Waali tumhara khuda haye ghareebul watan
-  
+
   8
   Hukme sitamgaar par kaata hai muslim ka sar
   Be-kafan laasha raha haye ghareebul watan
-  
+
   9
   Paayi jo sheh ne khabar kehte thay sar peet kar
   Mar gaya aashiq mera haye ghareebul watan
-  
+
   10
   Suniye akif o aijaz aah o fughan ki awaaz
   Kehte thay ahle aza haye ghareebul watan
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1473
 # raw_sha256: 80bd7d17f074599de3fa1592604e443927bbaffaec2c22e53f9a1407874441f6
 ---
-
 نوحہ رقیہ کا تھا ہاے غریب الوطن
+دیتی ہوں کب سے صدا ہاے غریب الوطن
 
 ۱
-دیتی ہوں کب سے صدا ہاے غریب الوطن
 پیار جو شہ نے کیا بولی رقیہ چچا
 بابا کو کیا ہوگیا ہاے غریب الوطن
 

@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Baba ko sakina tere har gham ki khabar hai
-  
-  1
   Naize ki ani par hai magar tujh pa nazar hai
+
+  1
   Takleef teri noore nazar dekh raha hoo
   Dekha nahi jaata hai magar dekh raha hoo
   Is gham se meri rooh talak khaak basar hai
-  
+
   2
   Kaano se tapakte hai tere khoon ke khatre
   Ye dekh ke hota hai kaleja mera tukde
   Aansu nahi aankhon mein mera khoon e jigar hai
-  
+
   3
   Mai dekh raha hoo teri gardan mein rasan ko
   Kya kya na aziyat hai tere gul se badan ko
   Ghabrake na mar jaye masayab se ye darr hai
-  
+
   4
   Darbar mein khush hoke chali jaana sakina
   Baba ki qasam tujhko na ghabrana sakina
   Naize pe pareshan tere baap ka sar hai
-  
+
   5
   Ab tere muqadar mein kahan shehr e madina
   Ay beti seekh le zindan mein jeena
   Ay lakhte jigar aaj se tera yehi ghar hai
-  
+
   6
   Abbas ki sangat hai ye ehwale sakina
   Irfan bayan kaise kare haye sakina
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1179
 # raw_sha256: fe5dccde489d361ec1da7706a4014e277b0cc91b61422d5891fb180f10f9b2cb
 ---
-
 بابا کو سکینہ تیرے ہر غم کی خبر ہے
+نیزے کی انی پر ہے مگر تجھ پہ نظر ہے
 
 ۱
-نیزے کی انی پر ہے مگر تجھ پہ نظر ہے
 تکلیف تیری نور نظر دیکھ رہا ہوں
 دیکھا نہیں جاتا ہے مگر دیکھ رہا ہوں
 اس غم سے میری روح تلک خاک بسر ہے

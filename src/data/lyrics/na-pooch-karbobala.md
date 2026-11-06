@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Na pooch karbobala kis tarha basayi gayi
-  
-  1
   Falak rida se lahoo se zameen banayi gayi
+
+  1
   Saja diya gaya har ek ashk abid ka
   Rida e arsh se taaron se jab sajayi gayi
-  
+
   2
   Ghuta hai shaam ke zindan may dam sakina ka
   Kise khabar ye hawa kis tarha chalayi gayi
-  
+
   3
   Bahi hai mashk e sakina se pyaas asghar ki
   Sabeel pani ki ye kis tarha lagayi gayi
-  
+
   4
   Wo ek diya shab e ashoor jo bujhaya gaya
   Usi ke sadqe may ye roshni banayi gayi
-  
+
   5
   Kise khabar sar e zainab se li gayi chadar
   Ahad ke parde may tauheed jab chupayi gayi
-  
+
   6
   Qasam hai asr ki hal min se li gayi awaaz
   Sada e kun jo ba-roz e azal lagayi gayi
-  
+
   7
   Ye nauha tab kahin jaa kar hua supurd e qalam
   Naved aankh se jab juwe khoon bahayi gayi
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1689
 # raw_sha256: 898a5e855c58b45b700d840a787cee27c40266453ff42e22680dc8aa94ccc887
 ---
-
 نہ پوچھ کربوبلا کس طرح بسای گیء
+فلک ردا سے لہو سے زمیں بنائی گیء
 
 ۱
-فلک ردا سے لہو سے زمیں بنائی گیء
 سجا دیا گیا ہر ایک اشک عابد کا
 رداے عرش سے تاروں سے جب سجای گیء
 

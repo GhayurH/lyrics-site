@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek choti si lehad dekho bana kar abid
-  
-  1
   Khoon roya hai sakina ko sula kar abid
+
+  1
   Kaise baba ne uthaya tha badan asghar ka
   Uth na paaya hai sakina ko utha kar abid
-  
+
   2
   Phoool se gaalon pe kehte hai tamachon ke nishan
   Kaash baba ko dikhaati mai bitha kar abid
-  
+
   3
   Ay musalmano tumhe ab na satayegi sada
   Bole turbat mein sakina ko sula kar abid
-  
+
   4
   Dekh kar khoon bhare kurte ko badan se chipka
   Gir gaye khaak pe ye nauha suna kar abid
-  
+
   5
   Ek kohraam utha roye tadap kar maula
   Amma zainab ko gale apne laga kar abid
-  
+
   6
   Jis tarha sunti thi baba se ye bibi lori
   Aise talqeen padhi shaane hila kar abid
-  
+
   7
   Bhool na payega momin ye judaai yawar
   Gham sakina ka chale dil mein basa kar abid
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=838
 # raw_sha256: 90aa464307084f0e4c8b672f3b006d398e2eaf5f4babc62350094ebc816f7d3a
 ---
-
 ایک چھوٹی سی لحد دیکھو بنا کر عابد
+خون رویا ہے سکینہ کو سلا کر عابد
 
 ۱
-خون رویا ہے سکینہ کو سلا کر عابد
 کیسے بابا نے اٹھایا تھا بدن اصغر کا
 اٹھ نہ پایا ہے سکینہ کو اٹھا کر عابد
 

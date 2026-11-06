@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   Allah bemaar dua maange dua maange hai
-  
-  1
   Haye bemaar haye bemaar
+
+  1
   Ranj iska nahi ek din mein luta ghar mera
   Gham nahi iska ke pardes mein ye zulm hua
   Mujhko sab kuch hai gawara pa bache deen tera
-  
+
   2
   Meri daadi ne jise pees ke chakki paala
   Iske laashe ko sitamgaaron ne pamaal kiya
   Ab kisi par na sitam toote khudaya aisa
-  
+
   3
   Bekafan chod ke aaya hoon pidar ka laasha
   Apne baba ko mai dafna na saka wavaila
   Aisa majboor na ho jaaye kisi ka beta
-  
+
   4
   Haye wo teer e sitam aur wo asghar ka gala
   Kitne dil chid gaye aur hogaya khaali jhoola
   Maa ko chain aaye ye bechain labon par hai dua
-  
+
   5
   Na rahe qasim o akbar na hi abbas chacha
   Mar gaye aun o mohamed mera baba na raha
   Hausla de mujhe karta rahoon mai shukre khuda
-  
+
   6
   Kufa o shaam ki raahon ne bahot rulwaya
   Chadarein chin gayi maa behne huwe beparda
   Lagta suraj ko grahan chaata kabhi andhiyara
-  
+
   7
   Tauq o zanjeer mein jakda hoon gila iska nahi
   Ye tamanna rahe shukr ke sajde mein jabeen
   Ummate jad ke liye aaye na lab par naale
-  
+
   8
   Bacche girte huwe oonton se safar jaari tha
   Maayein majboor rasan basta labon par nauha
   Ab kisi maa ke liye waqt na aaye aisa
-  
+
   9
   Baap ki yaad bhi aaye to na roye dukhtar
   Nanhe rukhsaar sakina ke tamachon ka safar
   Na mile aise zamane mein kisi ko pursa
-  
+
   10
   Wo sakina ki musibat wo galay mein rassi
   Kaan zakhmi huwe khamosh thi pyasi bacchi
   Haye is din ke liye reh gaya kyun mai zinda
-  
+
   11
   Bibiyan saari rasan basta aseeri ghurbat
   Wo safar dhoop ka wo pyaas ki shiddat
   Kaash ye din mera khaleq na mujhe dikhlata
-  
+
   12
   Is khadar zulm musalsal thay ghareebon pe rasheed
   Huwe thay abid e bemaar har ek gaam shaheed
@@ -76,11 +76,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3528
 # raw_sha256: b50986703c2e0c06d0b43ad0972d4c395c356b1f44f06cf7a07982056ecbc7f6
 ---
-
 اللّٰہ بیمار دعا مانگے دعا مانگے ہے
+ہاے بیمار ہاے بیمار
 
 ۱
-ہاے بیمار ہاے بیمار
 رنج اس کا نہیں ایک دن‌ میں لٹا گھر میرا
 غم نہیں اس کا کہ پردیس میں یہ ظلم ہوا
 مجھکو سب کچھ ہے گوارا پہ بچے دین تیرا

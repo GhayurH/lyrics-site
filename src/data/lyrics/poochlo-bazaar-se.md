@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Pooch lo bazaar se darbar se zindan se
-  
-  1
   Kis tarha takrayi fizza zulm ke toofan se
+
+  1
   Taziyane jab baraste thay imame waqt par
   Bad ke khud sehti thi fizza apni boodhi pusht par
   Jaan imamat ki bachayi isne apni jaan se
-  
+
   2
   Jis tarha bazaar mein jab na rahi wo hosh mein
   Chadar e tatheer ban kar le liya aaghosh mein
   Zainab o kulsoom waqif hai tere ehsaan se
-  
+
   3
   Peet thi zakhmi bahot to pairon se behta tha khoon
   Har qadam par zulm seh ke kar diya saabit ke kyun
   Umr lambi maangti thi deen ke sultan se
-  
+
   4
   Waqif e tatheer e khoo thi chaah ke rul jaye na
   Wo bachati hi rahi ke khaak mein mil jaye na
   Surkh moti jo sakina ke gire hai kaan se
-  
+
   5
   Naam jab zainab ka aaya hai najis darbar mein
   To jalaalat se laraz ke boli is guftaar mein
   Kalmago munkir hua hai aaj kyun quran se
-  
+
   6
   Koi momin iski azmat ko bhala samjhe kahan
   Zainab o hasnain ne jisko ho samjha apni maa
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3241
 # raw_sha256: b914837f2fd774e44a78d8744ccf8ca74d9113b554d4c508c555ca4f6f88cc5e
 ---
-
 پوچھ لو بازار سے دربار سے زندان سے
+کس طرح ترای فضہ ظلم کے طوفان سے
 
 ۱
-کس طرح ترای فضہ ظلم کے طوفان سے
 تازیانے جب برستے تھے امام وقت پر
 بڑھکے خود سہتی تھی فضہ اپنی بوڑھی پشت پر
 جاں امامت کی بچای‌ اس نے‌ اپنی جان سے

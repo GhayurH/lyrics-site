@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaha kisi ne sakina se tum dua ye karo
-  
-  1
   Koi bhi beti tumhari tarha yateem na ho
+
+  1
   Wo jiska dil ho dukhi raat bhar nahi sota
   Duayein karte huwe jab bhi koi hai rota
   Suna hai uski duaon mein hai asar hota
   Hamare ghar ho salamat ye tum dua maango
-  
+
   2
   Ye keh rahe hai ke bemaar ko dawa denge
   Kafan shaheedon ko behno ko hum rida denge
   Ye chaar saal ki bacchi ko hum dua denge
   Hamein bhi ek dua chahiye ye is se kaho
-  
+
   3
   Kaha kisi ne ke baba safar pe nikle hai
   Kaha ye maane ke is se duayein lete hai
   Hamare bibi bahot chote chote bacche hai
   Sakina sochne lagti hai laashe asghar ko
-  
+
   4
   Ye nanhi bacchi ki haalat pe koi kehta hai
   Najaf mein iska koi rishtedaar rehta hai
   Chini hai baaliyan kaano se khoon behta hai
   Larazte haath hai ye dekh kar tamachon ko
-  
+
   5
   Kaha kisi ne jo ye bibiyan hai bechadar
   Ye fakhre maryam o saara hai aale paighambar
   Ye tauq mein jo baradar hai abide muztar
   Imam e waqt hai ye de dua kaho in se
-  
+
   6
   Ye fatema ke hai ghar ki azeem hai rutbe
   Dua kare kaho mushkil kusha ki poti se
   Bahot khareeb hai bacchi ye arshe khaliq ke
   Dua ye maang le phaila ke nanhe haathon ko
-  
+
   7
   Nahi hai aab ye kurte ko dho nahi sakti
   Ye rona chaahti hai aur ro nahi sakti
   Ye qaid khane mein ek pal bhi so nahi sakti
   Nahi hai baap ka seena bhi iske sone ko
-  
+
   8
   Dua to kar di sakina ne haath phaila kar
   Laraz raha hai qamar arshe khaaliqe akbar
   Phuphi ne thaama sakina ko phat gaya tha jigar
   Hussain ki tarha kitni kareem hai dekho
-  
+
   9
   Kaha sakina ne ahle aza salamat ho
   Sabhi ke noore nazar mahleqa salamat ho
@@ -73,11 +73,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2629
 # raw_sha256: 5c2ed4cbcd122d2118a055a0cae1293cf386a47959a82fc40d770022013f9cf8
 ---
-
 کہا کسی نے سکینہ سے تم دعا یہ کرو
+کوئی بھی بیٹی تمہاری طرح یتیم نہ ہو
 
 ۱
-کوئی بھی بیٹی تمہاری طرح یتیم نہ ہو
 وہ جس کا دل دکھی رات بھر نہیں سوتا
 دعائیں کرتے ہوے جب بھی کوئی ہے روتا
 سنا ہے اس کی دعاؤں میں ہے اثر ہوتا

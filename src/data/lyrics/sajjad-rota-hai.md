@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Sare bazaar zainab ka guzar sajjad rota hai
-  
-  1
   Phata jaata hai sadme se jigar sajjad rota hai
+
+  1
   Sitamgar legaye jab shaam aur koofe ki galiyon se
   Aseeron par rahi sab ki nazar sajjad rota hai
-  
+
   2
   Wo shiddat dhoop ki jalti zameen aur paon may chaale
   Sitam hai bekason par is khadar sajjad rota hai
-  
+
   3
   Kabhi suraj ne dekha hi nahi tha jiske chehre ko
   Wo shehzadi ka beparda safar sajjad rota hai
-  
+
   4
   Sakina kehti thi bhaiya ghuta jaata hai dam mera
   Tadapti hai wo gham se bepidar sajjad rota hai
-  
+
   5
   Rasan basta phuphi hai aur gala mera hai rassi may
   Koi aakar hamari le khabar sajjad rota hai
-  
+
   6
   Kisi soorat na tikta tha sare abbas naize par
   Yehi haalat thi bas shaam-o-sehar sajjad rota hai
-  
+
   7
   Ghazab hai saat sau kursi nasheen darbar zaalim ka
   Ke jisme aale ahmed nange sar sajjad rota hai
-  
+
   8
   Bober jab majlise shabbir hoti hai kisi ghar may
   Koi roye ya na roye magar sajjad rota hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=806
 # raw_sha256: 2dbc21cc705d448a017a8349acdae961eab4dfbfcd3c85fdd655a05d1e7b3feb
 ---
-
 سرِ بازار زینب کا گزر سجاد روتا ہے
+پھٹا جاتا ہے صدمے سے جگر سجاد روتا ہے
 
 ۱
-پھٹا جاتا ہے صدمے سے جگر سجاد روتا ہے
 ستمگر لے گئے جب شام اور کوفے کی گلیوں سے
 اسیروں پر رہی سب کی نظر سجاد روتا ہے
 

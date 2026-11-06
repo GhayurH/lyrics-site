@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Sajdaye imtiyaz hojaye
-  
-  1
   Zere khanjar namaz hojaye
+
+  1
   Koi pani pila ke qaatil ko
   Tujhsa mehman-nawaz hojaye
-  
+
   2
   Jisne khaayi ho taygh sajde may
   Ispe sadqe namaz hojaye
-  
+
   3
   Jis jagah tere naqshe pa baithe
   Wo zameen sarfaraz hojaye
-  
+
   4
   Ek namazi ke khoone athar se
   Surkh roo janamaz hojaye
-  
+
   5
   Ek nazar teri ho agar maula
   Misle hurr sarfaraz hojaye
-  
+
   6
   Khul ke karna hai matame sarwar
   Ye shabe gham daraaz hojaye
-  
+
   7
   Dekhna tujh ko haq parasti hai
   Bewazoo hi namaz hojaye
-  
+
   8
   Aarzoo ya ali hai mirza ki
   Tere dar ka ayaaz hojaye
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=584
 # raw_sha256: 08c3c9d994d81f2a5b0f23cc5147e9f57be2528b018cd7661838d52726cd52cc
 ---
-
 سجدئہ امتیاز ہو جائے
+زیرِ خنجر نماز ہو جائے
 
 ۱
-زیرِ خنجر نماز ہو جائے
 کوئی پانی پلا کے قاتل کو
 تجھ سا مہماں نواز ہو جائے
 

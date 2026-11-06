@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab ran mein alamdar ki shamsheer chali hai
-  
-  1
   Aayi hui baali pe qaza kis ki tali hai
+
+  1
   Yun panjetan e paak ka guldasta saja hai
   Do phool hai do gunche hai aur ek kali hai
-  
+
   2
   Jibreel bichaate to ho par apne zameen par
   Par itna samajh lena ke ye tayghe ali hai
-  
+
   3
   Haq ne hamay bheja hai paye matam e sarwar
   Dunya ki nahi rasm ye farz e azali hai
-  
+
   4
   Bano ke ye naale thay ke aajao ab asghar
   Phailaye huwe haath ye maa kok jali hai
-  
+
   5
   Kehti thi ye zainab ke na yun maar tamache
   Ay shimr sakina bade naazon ki pali hai
-  
+
   6
   Thay shimr ke darbar e yazeedi mein ishaare
   Wo bewa e abbas hai ye binte ali hai
-  
+
   7
   Be-gor o kafan chod ke aaghosh ke paale
   Zainab to rasan basta suye shaam chali hai
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2910
 # raw_sha256: 09057aa1e360f1de909f3b5b163cc031025090777e92aa988482ee94aae6a723
 ---
-
 جب رن میں علمدار کی شمشیر چلی ہے
+آی ہوی بالیں پہ قضا کس کی ٹلی ہے
 
 ۱
-آی ہوی بالیں پہ قضا کس کی ٹلی ہے
 یوں پنجتن پاک کا گلدستہ سجا ہے
 دو پھول ہے دو غنچے ہے اور ایک کلی ہے
 

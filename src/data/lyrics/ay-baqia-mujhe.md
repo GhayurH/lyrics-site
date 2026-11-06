@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay baqia mujhe tera gham hai
-  
-  1
   Is liye to ye aankh purnam hai
+
+  1
   Jab se tera ye inhedaam hua
   Dil mein bas gham ka hi khayaam hua
   Ab to ek ezteraab e payham hai
-  
+
   2
   Qabre zehra jo dhaayi aada ne
   Kya bigada tha inka dukhiya ne
   Hum to jitna bhi roye wo kam hai
-  
+
   3
   Hai jo be-saaya turbat e sajjad
   Kyun na hum ghamzada kare faryad
   Is se bad kar bhi koi kya gham hai
-  
+
   4
   Qabr baqar ki aur jafar ki
   Hai shakista jo qabr shabbar ki
   Har taraf sog ka sa aalam hai
-  
+
   5
   Keh utha dekh kar dil e muztar
   Haye re qabre maadar e hyder
   Is ki tauqeer to muqadam hai
-  
+
   6
   Jab bhi tashreef layenge mehdi
   Hoga taameer phir baqia bhi
   Mujhko ek yehi aas har dam hai
-  
+
   7
   Kyun na awaaze haq uthaye hum
   Kaise baatil se khauf khaye hum
   Sar pe jab bawafa ka parcham hai
-  
+
   8
   Jis ne zehra ka dil dukhaya hai
   Aur unhe umr bhar rulaaya hai
   Us pe lanat hi ab to har dam hai
-  
+
   9
   Chain izhaar yun nahi aata
   Har ghadi hai alam baqia ka
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1132
 # raw_sha256: 0a73add9760c9c5de8bdc96711b270f88eb1e29f9cd28fc19991ca77d984f546
 ---
-
 اے بقیہ مجھے تیرا غم ہے
+اِس لئے تو یہ آنکھ پُر نم ہے
 
 ۱
-اِس لئے تو یہ آنکھ پُر نم ہے
 جب سے تیرا یہ انہدام ہوا
 دل میں بس غم کا ہی قیام ہوا
 اب تو اِک اضطرابِ پیہم ہے

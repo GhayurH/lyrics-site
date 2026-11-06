@@ -10,38 +10,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Roke zanjeer pukari ke ye kaisa hai safar
-  
-  1
   Qaid jab hoke chala sayyede waala ka pisar
+
+  1
   Raasta kaisa ye dushwaar hai kat'ta hi nahi
   Khaafla bekas o mazloom ka rukta hi nahi
   Paon sajjad ka zakhmi hai to uth'ta hi nahi
   Khatm hoti nahi ay shaam teri raah guzar
-  
+
   2
   Phir sajjad ko saaye se utha dete hai
   Aankh lag jaye to zanjeer hila dete hai
   Kahin ruk jaye to durro se saza dete hai
   Bemaar hua jaata hai sab khoon may tar
-  
+
   3
   Bunta hi raha gham ke wo taane baane
   Aayi sajjad ko maqtal ki hawa batlaane
   Ab sukoon paaun kahan jaake khuda hi jaane
   Kaise hogi meri sughra ko madine may khabar
-  
+
   4
   Natawani ka ye aalam hai ke chalna hai mohaal
   Binte zehra hai pareshan to sakina hai nidhaal
   Haye asghar ki judaai se hai laila be-haal
   Lab pe hai maadar e baysheer ke haye asghar
-  
+
   5
   Taabe har cheez imamat ke hua karti hai
   Rehbar e haq ke ishare pe chala karti hai
   Jisko dhaare pe baha de wo baha karti hai
   Aur agar rok de hat jaye zameen ka mehwar
-  
+
   6
   Qaid khane may sakina ne bhi dam tod diya
   Apna rishta shahe mazloom se bhi jod liya
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1692
 # raw_sha256: ab8bd2f493c330d598db5cd59015a44dc00cbfc6ee536d54f3462a4286ef459a
 ---
-
 روکے زنجیر پکاری کہ یہ کیسا ہے سفر
+قید جب ہوکے چلا سید والا کا پسر
 
 ۱
-قید جب ہوکے چلا سید والا کا پسر
 راستہ کیسا یہ دشوار ہے کٹتا ہی نہیں
 قافلہ بیکس و مظلوم کا رکتا ہی نہیں
 پاؤں سجاد کا زخمی ہے تو اٹھتا ہی نہیں

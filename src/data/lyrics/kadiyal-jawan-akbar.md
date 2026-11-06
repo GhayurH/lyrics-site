@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Kadiyal jawan akbar marne ko ja raha hai
-  
-  1
   Khamosh hai khudaai sakte mein karbala hai
+
+  1
   Maa sher se pisar ko hasrat se tak rahi hai
   Chehre pe bekasi hai aankhon mein bebasi hai
   Akbar rahe salamat honton pa ye dua hai
-  
+
   2
   Faryad kar rahi hai behne tadap tadap kar
   Ro ro ke keh rahi hai mat jao bhai akbar
   Behno ko bhi kisi ne kya ye bata diya hai
-  
+
   3
   Sar peet'ta hai koi karta hai koi matam
   Hai aisa gham ke maare saydaniyo ka aalam
   Qaimon mein shaahe deen ke kohram mach gaya hai
-  
+
   4
   Darya ki simt dekha thokar jo ran mein khayi
   Kuch dayr ko to aaja abbas mere bhai
   Ye kehke mera maula maqtal mein gir gaya hai
-  
+
   5
   Bano tadap ke boli armaan to badha loo
   Apne jawan pisar ko dulha to mai bana loo
   Aayega ab na wapas akbar mujhe pata hai
-  
+
   6
   Khamosh hogayi hai kuch bolti nahi ab
   Sehmi hui zameen par baithi hui hai zainab
   Shabbir ne na jaane zainab ko kya kaha hai
-  
+
   7
   Karbobala ke ban mein akbar hai aage aage
   Athara saal paala jisne galay laga ke
   Akbar ke peeche peeche wo baap jaa raha hai
-  
+
   8
   Bhai bhatije yawar koi nahi hai gohar
   Allah re ye ghurbat ye bekasi ka manzar
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1396
 # raw_sha256: 63353e480cf1a403c81eee4c3eeef878b953e6c392b9888dd81232a1461c8129
 ---
-
 کڑیل جوان اکبر مرنے کو جا رہا ہے
+خاموش ہے خدای سکتے میں کربلا ہے
 
 ۱
-خاموش ہے خدای سکتے میں کربلا ہے
 ماں شیر سے پسر کو حسرت سے تک رہی ہے
 چہرے پہ بے کسی ہے آنکھوں میں بے بسی ہے
 اکبر رہے سلامت ہونٹوں پہ یہ دعا ہے

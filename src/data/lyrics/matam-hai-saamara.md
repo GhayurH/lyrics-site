@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Matam hai saamara may imam e hassan ka aaj
-  
-  1
   Saaya saron se uth gaya shaah e zaman ka aaj
+
+  1
   Roti hai sar ko peet ke narjis ba-haal e zaar
   Bewa hui mai uth gaya waali jahan se aaj
-  
+
   2
   Khairunnisa ko haye rulaaya mazaar may
   Taaza kiya hai matam e karbobala ko aaj
-  
+
   3
   Chora najaf ko saamara pahunche hai murtaza
   Matam kuna habeeb e khuda khuld may hai aaj
-  
+
   4
   Hai chaak gareban aur sar hai khula hua
   Haye khaak sar pe daale imam e zamaan hai aaj
-  
+
   5
   Ghurbat may hum ko chore chale haye baba jaan
   Bekas yateem jahan may tanha hua hai aaj
-  
+
   6
   Ghusl o kafan diya aur lehad may lita diya
   Lo khaak e saamara bani khaak e shifa hai aaj
-  
+
   7
   Qudsi wo chand chup gaya badal ke darmiyan
   Ghaibat shuru hui hai imam e zamaan ki aaj
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1518
 # raw_sha256: 353de50f136d0965639a786be6ee83d04c743d4e57aca343393917f8715a933d
 ---
-
 ماتم ہے سامرہ میں امام حسن کا آج
+سایہ سروں سے اٹھ گیا شاہ زمن کا آج
 
 ۱
-سایہ سروں سے اٹھ گیا شاہ زمن کا آج
 روتی ہے سر کو پیٹ کے نرجس با حال زار
 بیوہ ہوی میں اٹھ گیا والی جہاں سے آج
 

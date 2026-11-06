@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Hum farsh bichate hai dua deti hai zehra
-  
-  1
   Shabbir pe rone ka sila deti hai zehra
+
+  1
   Har saal tabarruk mein kami yun nahi hoti
   Majlis mein mera haath bataa deti hai zehra
-  
+
   2
   Mai roshni karta hoo azakhano mein jaa kar
   Turbat pe diya maa ki jala deti hai zehra
-  
+
   3
   Phailaate hai jo haath tabarruk ki safon mein
   Un logon ko hissay mein ana deti hai zehra
-  
+
   4
   Ashoor ko jab tak na uthe taaziya sheh ka
   Maayein kahan bachon ko ghiza deti hai zehra
-  
+
   5
   Kuch hota nahi is liye zanjeer zano ko
   Sajjad ke sadqe mein shifa deti hai zehra
-  
+
   6
   Rumaal jo tar hota hai ashkon se hamare
   Wo shaah ke zakhmo pe laga deti hai zehra
-  
+
   7
   Sheh bolay bahattar ke janazon pe ye ro kar
   Jeet raho tum sab ko dua deti hai zehra
-  
+
   8
   Padti hai nazar zakhmon pe jab binte ali ke
   Shabbir ke zakhmon ko bhula deti hai zehra
-  
+
   9
   Sajjad ye gham aise kahan milta hai sab ko
   Khush ho to gham e shaah dila deti hai zehra
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1639
 # raw_sha256: ea25f2dc7c4e16609490685827f089a99a43121148ef1b5d89ba2935aa438358
 ---
-
 ہم فرش بچھاتے ہیں دعا دیتی ہیں زہرا
+‎شبیر پہ رونے کا صلہ دیتی ہیں زہرا
 
 ۱
-‎شبیر پہ رونے کا صلہ دیتی ہیں زہرا
 ہر سال تبرک میں کمی یوں نہیں ہوتی
 مجلس میں مرا ہاتھ بنٹا دیتی ہیں زہرا
 

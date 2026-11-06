@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaha maadar ne bas itna bata do phir chale jaana
-  
-  1
   Ali asghar mujhe surat dikha do phir chale jaana
+
+  1
   Tabussum ka samandar le ke aa jao mere dilbar
   Lagi hai aag qaimon mein bujha do phir chale jaana
-  
+
   2
   Jidhar bhi dekhti hoo bas udaasi hi udaasi hai
   Mera veeran ghar jannat bana do phir chale jana
-  
+
   3
   Tumhe dekhun kalaje se lagaun baal suljhaun
   Bas itni dayr mera jee badha do phir chale jaana
-  
+
   4
   Tassalli kuch to ho jaye mere toote huwe dil ko
   Mujhe jo tum pa guzri hai bata do phir chale jaana
-  
+
   5
   Tumhari yaad mein sughra madine mein tadapti hai
   Likhe kya khat mein sughra ko bata do phir chale jaana
-  
+
   6
   Andhere khaaye jaate hai mujhe shaam e ghariban ke
   Mujhe tum chand si surat dikha do phir chale jaana
-  
+
   7
   Judaai ka tassawur khaaye jaata hai mere dilbar
   Kahan tak gham uthaye ye bata do phir chale jaana
-  
+
   8
   Jo tum ne hurmala ke teer se ki guftagu ran mein
   Wo baatein aa ke ghar bhar ko bata do phir chale jaana
-  
+
   9
   Suna hai teer khaake ran mein beta muskuraye thay
   Hamare saamne bhi muskurado phir chale jaana
-  
+
   10
   Yehi nauha tha ishrat maadar e asghar ke honton pa
   Meri bigdi hui dunya bana do phir chale jaana
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1876
 # raw_sha256: 45e2cd1931b568421bd323536baab4e88f960b8a9c919ec2d7bd1f04130ca613
 ---
-
 کہا مادر نے بس اتنا بتا دو پھر چلے جانا
+علی اصغر مجھے صورت دکھا دو پھر چلے جانا
 
 ۱
-علی اصغر مجھے صورت دکھا دو پھر چلے جانا
 تبسم کا سمندر لے کے آ جاؤ میرے دلبر
 لگی ہے آگ خیموں میں بجھا دو پھر چلے جانا
 

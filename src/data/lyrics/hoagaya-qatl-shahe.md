@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Hogaya qatl shahe karbobala wavaila
-  
-  1
   Rote hai peet ke sar ahle aza wavaila
+
+  1
   Teer se hogaya zakhmi ali akbar ka jigar
   Umme laila ne kaha laash pe ay noore nazar
   Maa se kuch baat karo utke zara wavaila
-  
+
   2
   Haye jalte huwe sehra may tadap bachon ki
   Hogaye nehr pe abbas ke baazu zakhmi
   Koi bachon ka muhafiz na raha wavaila
-  
+
   3
   Laash dulhe ki kuch is tarha se pamaal hui
   Umme farwa ne jo dekha to na pehchan saki
   Haye qasim pe hui kaisi jafa wavaila
-  
+
   4
   Kat gaye pyaas may phir aun-o-mohamed ke gale
   Fidya e raahe khuda hogaye godi ke pale
   Hogaya qaimon may kohram bapa wavaila
-  
+
   5
   Fatema ne bade naazon se jise paala tha
   Jo payambar ke gharane hi ka ujiyala tha
   Asre ashoor kata uska gala wavaila
-  
+
   6
   Zulm dhaate rahe sajjad pe har waqt layeen
   Berida dekh ke zainab ko tadapti thi zameen
   Aasman girya kuna gham se huwa wavaila
-  
+
   7
   Jalgaye qaime to saydaniya aayi ban may
   Laashe jitne bhi thay be-gor o kafan thay ran may
   Chingayi bibiyon ke sar se rida wavaila
-  
+
   8
   Ay bober rok qalam tukde jigar hota hai
   Sunke nauha tera har jinn o bashar rota hai
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=820
 # raw_sha256: 96d5b7ab31469afc8fa450e7381a1cac1478ca668ee4dfa79c05334f294a8360
 ---
-
 ہوگیا قتل شہ کربوبلا واویلا
+روتے ہیں پیٹ کے سر أہل عزا واویلا
 
 ۱
-روتے ہیں پیٹ کے سر أہل عزا واویلا
 تیر سے ہوگیا زخمی علی اکبر کا جگر
 ام لیلیٰ نے کہا لاشے پہ اے نورِ نظر
 ماں سے کچھ بات کرو اٹھکے زرا واویلا

@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay khaake karbala tu har khaak se juda hai
-  
-  1
   Shabbir ka kafan hai zainab ki tu rida hai
+
+  1
   Hai kalmago se afzal kitna maqam tera
   Danagaah e shifa hai dunya mein naam tera
   Tu sheh ke khoon mein tar wo deen se juda hai
-  
+
   2
   Seene pe teri likhi hai daastan unki
   Shimre layeen ke sheh par dhaaye gaye sitam ki
   Maa aayi hai lehad se aur uska haal kya hai
-  
+
   3
   Beti ne fatema ki rakhe qadam hai tujh par
   Pehre pe aayi ban kar wo hoo bahoo dilawar
   Jo kuch kiya hai bas wo zainab ka hausla hai
-  
+
   4
   Kidmat mein sheh ki hurr ka aana to yaad hoga
   Maqtal mein uska pehle jaana to yaad hoga
   Iska sila yaqeenan roomal e fatema hai
-  
+
   5
   Akbar ke dil pe barchi tu hai gawaah uski
   Qaima e shaahe deen mein ghash maa ki aah uski
   Lagta tha umme laila khud aap se khafa se
-  
+
   6
   Tujhpe ay khaak baitha sar ko jhukaye qaidi
   Aankhon ko apne khoon ka darya banaye qaidi
   Kaandhon pe jiske haye kul wazn e karbala hai
-  
+
   7
   Abid hussainyo ka ye khaak aasman hai
   Sajdon mein lehad mein ye un sab ki nigehban hai
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3179
 # raw_sha256: 518a3915a1813077ec3e2297e4aff815b24cc46276f2a4a96f7911001b4b8da0
 ---
-
 اے خاک کربلا تو ہر خاک سے جدا ہے
+شبیر کا کفن ہے زینب کی تو ردا ہے
 
 ۱
-شبیر کا کفن ہے زینب کی تو ردا ہے
 ہے کلمہ گو سے افضل کتنا مقام تیرا
 درگاہ شفا ہے دنیا میں نام تیرا
 تو شہ کے خوں میں تر وہ دیں سے جدا ہے

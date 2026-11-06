@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Akbar ka tha ye nauha sughra muaaf karna
-  
-  1
   Dam toot'ta hai mera sughra muaaf karna
+
+  1
   Zakhmo ke darmiyan hoo lamho ka mehman hoo
   Kaise nibhaun waada sughra muaaf karna
-  
+
   2
   Kya haale dil sunaaun aaun to kaise aaun
   Barchi mein hai kaleja sughra muaaf karna
-  
+
   3
   Behaal ho chuka hoo har aas kho chuka hoo
   Mat intezar karna sughra muaaf karna
-  
+
   4
   Ek hashr ka samaa hai sehra dhuan dhuan hai
   Aankhon mein hai andhera sughra muaaf karna
-  
+
   5
   Tu muntazir wahan hai bhai tera yahan hai
   Har khwaab hai adhoora sughra muaaf karna
-  
+
   6
   Manzoor thi shahadat paayi na itni mohlat
   Milne bhi aa na paaya sughra muaaf karna
-  
+
   7
   Quran ki roshni se milta tha jo nabi se
   Ab bhool ja wo lehja sughra muaaf karna
-  
+
   8
   Acha hai door tu hai qasim lahoo lahoo hai
   Mehndi hai aur na sehra sughra muaaf karna
-  
+
   9
   Ammu ko ra rahe hai beenayi kho rahe hai
   Baba hai be-sahara sughra muaaf karna
-  
+
   10
   Asghar ko paa sakogi jhoola jhula sakogi
   Lagta nahi hai aisa sughra muaaf karna
-  
+
   11
   Aamir bapa hai mehshar sheh sun rahe hai nayyar
   Aur keh raha hai beta sughra muaaf karna
@@ -60,11 +60,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1781
 # raw_sha256: 5b0cb65c9a7fcc4b48ba3c14e6de3cbdeef9c060578adf30d1abfd1b8034d58d
 ---
-
 اکبر کا تھا یہ نوحہ صغرا معاف کرنا
+دم‌ ٹوٹتا ہے میرا صغرا معاف کرنا
 
 ۱
-دم‌ ٹوٹتا ہے میرا صغرا معاف کرنا
 زخموں کے درمیاں ہوں لمحوں کا میہماں ہوں
 کیسے نبھاؤں وعدہ صغرا معاف کرنا
 

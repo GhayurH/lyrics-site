@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas ke naukar hai pani to pilayenge
-  
-  1
   Badle may duayein hum shabbir se payenge
+
+  1
   Shia ho ya sunni ho hindu ho ya esayi
   Jo hurr ki tarha aaya seene se lagayenge
-  
+
   2
   Ye keh ke pilaate hai in haathon se hum pani
   Is kaam na aaye to kis kaam ye aayenge
-  
+
   3
   Jarob kashi kaisi hum palkein bichayenge
   Jis raah pe sab zaair chalte nazar aayenge
-  
+
   4
   Pani peelo aao pyason ko yaad karo
   Saqqe ki tarha hum ye awaaz lagayenge
-  
+
   5
   Hota jo luaab e nabi beshak wo mila dete
   Hum sache hai jhoota bhi pani na milayenge
-  
+
   6
   Abbas ziarat to karwayenge har soorat
   Ya hum ko bulayenge ya khwab may aayenge
-  
+
   7
   Saans aati hai saanson ki shabbir ke matam may
   Gar chod diya matam hum jee nahi payenge
-  
+
   8
   Ye fazal sakina se bolay jo mila pani
   Baba ki qasam pehle hum tumko pilayenge
-  
+
   9
   Sajjad o takallum aur ye mir hassan kya hai
   Khud khizr bhi jannat may kehte nazar aayenge
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1522
 # raw_sha256: e587768f5cc7538792bfb5faf382506a786828524e7f2a52c35658907eb4e36d
 ---
-
 عباس کے نوکر ہیں پانی تو پلاےنگے
+بدلے میں دعائیں ہم شبیر سے پاےنگے
 
 ۱
-بدلے میں دعائیں ہم شبیر سے پاےنگے
 شیعہ ہو یا سنی ہو ہندو ہو یا عیسائی
 جو حر کی طرح آیا سینے سے لگائیں گے
 

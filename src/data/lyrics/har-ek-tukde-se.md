@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Har ek tukde se tukda mila rahe hai hussain
-  
-  1
   Hassan ka laal dobara bana rahe hai hussain
+
+  1
   Hassan ke laashe se jaise nikaala teeron ko
   Ab aise laash ke tukde utha rahe hai hussain
-  
+
   2
   Wo jis ke maathe pe sehra saja ke bheja tha
   Ab uske tukdon se gathri bana rahe hussain
-  
+
   3
   Ye kaun maa hai jo ghash se sambhal nahi paati
   Ye kis ke laal ko qaime mein laa rahe hussain
-  
+
   4
   Zameen se tukde uthaate nahi hai qasim ke
   Ye apne sabr ko khud aazma rahe hussain
-  
+
   5
   Nahi ye girya nahi laash par bhatije ke
   Ghareeb hone ka nauha suna rahe hai hussain
-  
+
   6
   Bata rahe hai ke maara gaya hai laal tera
   Magar janaze ko maa se chupa rahe hai hussain
-  
+
   7
   Kahin se seena kahin se badan kahin se haath
   Kahin se paaon ke tukde utha rahe hai hussain
-  
+
   8
   Shahadat e ali akbar se pehle noor ali
   Hassan ke laal pe aansu baha rahe hai hussain
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2822
 # raw_sha256: e39ac92a59cc6038f16881d7f15cc6bdc75435fa431867c51a4c6c4bbb866b1b
 ---
-
 ہر ایک ٹکڑے سے ٹکڑا ملا رہے ہے حسین
+حسن کا لال دوبارہ بنا رہے ہیں حسین
 
 ۱
-حسن کا لال دوبارہ بنا رہے ہیں حسین
 حسن کے لاشے سے جیسے نکالا تیروں کو
 اب ایسے لاش کے ٹکڑے اٹھا رہے ہیں حسین
 

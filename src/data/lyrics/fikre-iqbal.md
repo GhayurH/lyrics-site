@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Bayan sir-e-shahadat ki agar tafseer ho jaye
-  
-  1
   Musalmano ka qibla rauza e shabbir ho jaye
+
+  1
   Gham e shabbir ko chashme muhammed se agar dekhe
   Kabhi bhi bhi majilis o matam ko tu bidat nahi samjhe
   Tere maslak mein jaayiz matame shabbir ho jaye
-  
+
   2
   Sar-e-majlis shaoor aa jayega aansu bahane ka
   Tumhara dil bhi chahega azakhane mein jaane ka
   Tumhare naam bhi firdaus ki jageer ho jaye
-  
+
   3
   Tujhe quran mein tatheer ki aayat nahi milti
   Sabab ye hai ke matamdaar se fitrat nahi milti
   Nishan matam ka seene par abhi tehreer hojaye
-  
+
   4
   Janabe hazrate shabbir ki jo maa hai ay logon
   Muhammed ne usay khud maa kaha itna agar socho
   To rauza fatema zehra abhi tameer ho jaye
-  
+
   5
   Nishane matame shabbir hai sadiyon ke seene par
   Bataya hazrate iqbal aur rehaan ne mil kar
@@ -41,11 +41,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2548
 # raw_sha256: 41bbbc9af39f0f0044b2af9893e1d4790b3e42345ad131506120bc7a0c37a749
 ---
-
 بیاں سرِ شہادت کی اگر تفسیر ہو جاے
+مسلمانوں کو قبلہ روضہء شبیر ہو جاے
 
 ۱
-مسلمانوں کو قبلہ روضہء شبیر ہو جاے
 غم شبیر کوچشمِ محمد سے اگر دیکھے
 کبھی بھی مجلس و ماتم کو تو بدعت نہیں سمجھے
 تیرے مسلک میں جایز ماتم شبیر ہو جاے

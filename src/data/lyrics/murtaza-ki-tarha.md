@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Nahi hai koi bhi dunya mein murtaza ki tarha
-  
-  1
   Kahin bashar ki tarha hai kahin khuda ki tarha
+
+  1
   Ali ko rehna hai ta-hashr sar buland ke wo
   Nabi ke dosh pe kaabe mein hai dua ki tarha
-  
+
   2
   Hawa ki rou mein wafa thi to apna hurr kaise
   Udhar se aaya idhar moj mein hawa ki tarha
-  
+
   3
   Ajeeb log thay ay dashte nainawa tere
   Gale mile bhi qaza se to aashna ki tarha
-  
+
   4
   Ghame hussain ne rakhli hai aabru warna
   Ujad hi jaati ye dunya bhi karbala ki tarha
-  
+
   5
   Chale jo abid e bemaar khafela le kar
   Sada ye aayi guzar jao ambiya ki tarha
-  
+
   6
   Kisi ko khwahish e tameer hai to aaye naseer
   Najaf ki raah mein rehta hoon naqshe paa ki tarha
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3694
 # raw_sha256: 4c885ce1cc3e82164393f9dbfad84e749efb4c3c1cce211c65fdc0a971359e7a
 ---
-
 نہیں ہے کوئی بھی دنیا میں مرتظی کی طرح
+کہیں بشر کی طرح ہے کہیں خدا کی طرح
 
 ۱
-کہیں بشر کی طرح ہے کہیں خدا کی طرح
 علی کو رہنا ہے تا حشر سر بلند کے وہ
 نبی کے دوش پہ کعبے میں ہے دعا کی طرح
 

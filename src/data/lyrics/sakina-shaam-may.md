@@ -9,58 +9,37 @@ poet: "Shaukath"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Sakina Shaam mein mar kar yehi samjha gayee logo
-
-
-  1
-
+romanLyrics: |-
+  Sakina Shaam mein mar kar yehi samjha gayee logo
   Judaai baap ke seene ki mujhko khaa gayi logon
 
+  1
   Khafas ghurbat udaasi shimr ka darr pyaas ki shiddat
-
   Sitam itne huye masoom ko maut aa gayi logon
 
-
   2
-
   2. Woh maa jo dhoop mein aksar Ali Asghar ko roti thi
-
   Sakina ki qaza us par qayamat dhaa Gaye Logoon
 
-
   3
-
   3. Bandhay Haathoon pay ek beemar laya bahan ki mayyat
-
   Yeh aulad-e-Nabi par kaisi gurbat chaa gaye logo
 
-
   4
-
   4. Bahan ki laash haathoon pay liye Sajjad kehtay thay
-
   Gulistan-e-Imamat ki kali murjhaa gaye logo
 
-
   5
-
   5. Padar ki khoon bhari gardan pay bachi nay jo lab rakhay
-
   Yeh manzar daykh ker to khud qaza ghabra gaye logo
 
-
   6
-
   6. Chacha baba barader sab kay sab to Karbala soye
-
   Sakina ko na jaanay Shaam kaisay bhaa gaye logo
 
-
   7
-
   7. Likho Shaukat parho Sarwar battayo saari dunyia ko
-
-  Ali ki laadli poti shahadat paa gaye Logo'
+  Ali ki laadli poti shahadat paa gaye Logo
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:4c372062faf0e00a6595
 # source_url: https://www.nohayonline.com/details_content.php?id=417
@@ -70,11 +49,10 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # raw_sha256: 07c8f0ef0168b2122832324290461cd87cad509f378254790e0dbcb9336d4364
 # added_stanza_source: roman:kalam-nohayonline-4c372062faf0e00a6595
 ---
-
 سکینہ شام میں مر کر یہی سمجھاگئی لوگو
+جُدائی باپ کے سینے کی مجھکو کھا گئی لوگو
 
 ۱
-جُدائی باپ کے سینے کی مجھکو کھا گئی لوگو
 قفس غربت اُداسی شمر کا ڈر پیاس کی شدت
 ستم اتنے ہوئے معصوم کو موت آ گئی لوگو
 

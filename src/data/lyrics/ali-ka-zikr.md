@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali ka zikr mohamed ka naam baaqi hai
-  
-  1
   Hussain tum se khuda ka kalaam baaqi hai
+
+  1
   Mitane waale imamat ke mit gaye lekin
   Khuda ke fazl se ab bhi imam baaqi hai
-  
+
   2
   Ali ke laal ke dunya may naam baaqi hai
   Yazeed mit gaya zikre anaam baaqi hai
-  
+
   3
   Mitaye laakh zamana mitenge hum kaise
   Hamare sar pe hamara imam baaqi hai
-  
+
   4
   Hamara unse kabhi faisla nahi hoga
   Yazeed mar gaya kuch rishtedar baaqi hai
-  
+
   5
   Wo aur honge yateeman e mazhab o millat
   Hamare sar pe hamara imam baaqi hai
-  
+
   6
   Khareeb jhoole ke aa kar ye ro ke bole hussain
   Abhi shaheedon may asghar ka naam baaqi hai
-  
+
   7
   Zara ay maut teher ja kaha ye akbar ne
   Zaeef baap ka thoda sa kaam baaqi hai
-  
+
   8
   Ba waqte aakhri zainab se ro ke bole hussain
   Tumhare waaste darbar e shaam baaqi hai
-  
+
   9
   Mujeeb ko bhi bulayenge apne rauze par
   Isi umeed may ab tak ghulam baaqi hai
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1980
 # raw_sha256: 6ebf6c7a1be249673081fbab4e8d315057e9f0be2bdd3ef8b97d8cd60b5db79f
 ---
-
 علی کا ذکر محمد کا نام باقی ہے
+حسین تم سے خدا کا کلام باقی ہے
 
 ۱
-حسین تم سے خدا کا کلام باقی ہے
 مٹانے والے امامت کے مٹ گےء لیکن
 خدا کے فضل سے اب بھی امام باقی ہے
 

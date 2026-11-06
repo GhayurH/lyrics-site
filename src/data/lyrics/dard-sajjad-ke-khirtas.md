@@ -9,65 +9,41 @@ poet: "Afzal Hussain Najfi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Dard sajjad ke khirtaas pe laaun kaise
-
-
-  1
-
+romanLyrics: |-
+  Dard sajjad ke khirtaas pe laaun kaise
   Haye rota hai qalam lafz banaun kaise
 
+  1
   Jin ki maadar ka janaza tha utha raat ke waqt
-
   Sar barehna sar e bazaar bulaaun kaise
 
-
   2
-
   Rassiyan paon mein chaale thay tamachon ke nishan
-
   Hasrat o yaas ki mayyat ko uthaaun kaise
 
-
   3
-
   Paab e jaulan hoo mai hai tauq e giryan zeb e guloo
-
   Oonton se girte huwe bacche uthaun kaise
 
-
   4
-
   Zakhm jo jism pe aaye hai dikha sakta hoo
-
   Dil ne jo shaam mein khaaye hai dikhaun kaise
 
-
   5
-
   Karbala kufa ko shaam mein takreem hui
-
   Roohe ajdaad tadapti hai suaanun kaise
 
-
   6
-
   Nau sau darbari thay namoose nabi pesh hui
-
   Hoo ghayoor khoon na ankhon se bahaun kaise
 
-
   7
-
   Abr tha patharon ka kehkahe bhi taane thay
-
   Tang bazaron se baazari hataun kaise
 
-
   8
-
   Ay zamane ke yazeedon na kaho najfi se
-
-  Khaak ke noor se auqaat bataun kaise'
+  Khaak ke noor se auqaat bataun kaise
 reciter: Hasan Sadiq
 # source_id: nohayonline:08131c0bdf5b3f5aaa66
 # source_url: https://www.nohayonline.com/details_content.php?id=2257
@@ -79,11 +55,10 @@ reciter: Hasan Sadiq
 # source_url: https://www.ziyaraat.net/api/noha/2470
 # raw_sha256: 0e323a6a9a8e05943dd8c16c102bb635b8a3d6361f5b2b9b92959dccea501d79
 ---
-
 درد سجاد کے قرطاس پہ لاؤں کیسے
+ہاے روتا ہے قلم لفظ بناؤں کیسے
 
 ۱
-ہاے روتا ہے قلم لفظ بناؤں کیسے
 جن کی مادر کا جنازہ تھا اٹھا رات کے وقت
 سر برہنہ سر بازار بلاؤں کیسے
 

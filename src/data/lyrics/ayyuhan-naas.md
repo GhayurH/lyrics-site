@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Ayyuhan naas shumara ba haq e khoon e hussain
-  
-  1
   Lehja ee gosh numaya idari shewan o shain
+
+  1
   Ayuhannas tumhe khoon e hussaini ki qasam
   Kam na ho ranj o alam aur ye shor e matam
   Ye wo matam hai jo zahra o ali karte rahe
   Asre ashoor ye matam to nabi karte rahe
   Jab luta fatema zehra ka bhara ghar ran mein
   Alqama roti thi aur karbobala karti thi bain
-  
+
   2
   Shud sakina chu giraftar e ajal dar zindan
   Na rafeeq e na anees e dam e gham khwaran
@@ -28,7 +28,7 @@ romanLyrics: |-
   Dafn ke waqt bhi aaye nahi bhaiya akbar
   Dil ki hasrat rahi dil mein hi rehaai na mili
   Khoon bhara kurta kafan ban gaya marqad zindan
-  
+
   3
   Murd farzand e jawan khurd seena bar seena
   Padari sokhta jaan girya kunad wawela
@@ -36,7 +36,7 @@ romanLyrics: |-
   Haye is umr mein sajta hai saron par sehra
   Noor aankhon ka gaya thokarein khaate hai hussain
   Dar e qaima pe khadri roti hai binte zahra
-  
+
   4
   Turbat e asghar e masoom ba maidan beeni
   Bar lehad ashk fishanand hussain ibne ali
@@ -44,7 +44,7 @@ romanLyrics: |-
   Kehte hai saunpa khuda ko tujhe ay noor e ain
   Khwab sab aankhon ka paiwand huwe umme rubab
   Khaali jhoola hua aur kokh tumhari ujdi
-  
+
   5
   Rafta shud chadar e zainab sar e bazaar e jafa
   Seena kobi ba kunan ahle aza wawela
@@ -52,7 +52,7 @@ romanLyrics: |-
   Bhai athara thay koi na raha sar pe magar
   Rassiyan qaid e sitam ranj o alam kunbe ka gham
   Tan ba taqdeer hai is haal mein binte zehra
-  
+
   6
   Man na khwaham deegar e zindagi aakhir lashkar
   Baad e abbas alamdar o ali e akbar
@@ -60,7 +60,7 @@ romanLyrics: |-
   Wo alamdar wo abbas e dilawar na raha
   Asr ka waqt liye jaam e shahadat aaya
   Rakh diya sajda e mabood mein shabbir ne sar
-  
+
   7
   Chashme ma ashk fishan dar ghame shabbir hanooz
   Man na khwaham ma siwa matame shabbir hanooz
@@ -72,11 +72,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3001
 # raw_sha256: a0ee83c70c740d05686611427911366b52a9ce4d812cbee50bc41f2b4d9886cd
 ---
-
 ایہا الناس شما را بحق خون حسین
+لھجہ ای گوش نمایاں ایں دری شیون و شین
 
 ۱
-لھجہ ای گوش نمایاں ایں دری شیون و شین
 ایہا الناس تمہيں خون حسین کی قسم
 کم نہ ہو رنج و الم اور یہ شور ماتم
 یہ وہ ماتم ہے جو زہرا و علی کرتے رہے

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Pamaal laasha dekh ke kehti hai bibiyan
-  
-  1
   Zahra ki tarha tooti hai qasim ki phasliyan
+
+  1
   Tukde pukaare dasht may labbaik ya hussain
   Aa kar kaha jo maula ne qasim ho tum kahan
-  
+
   2
   Pamaal jeete ji jo hua hai usay salaam
   Ro kar lahoo ye kehte hai khud saahib-az-zamaan
-  
+
   3
   Aajao mere bhai talak bolay ye hassan
   Qasim na lo hussain ki ghurbat ka imtehan
-  
+
   4
   Ye keh ke kuch nishano ko sheh choomne lage
   Abbas dekho ragdi hai qasim ne aediyan
-  
+
   5
   Tukde uthane laash ke sarwar ke saath saath
   Zahra gayi hai dasht may jaane kahan kahan
-  
+
   6
   Pamaal ho na laash chacha ki ye soch kar
   Lipta hua sumon se hai farwa ka naujawan
-  
+
   7
   Maadar karegi kis tarha dedaar aakhri
   Haye sumon ke chand se chehre pe hai nishan
-  
+
   8
   Lagta hai mujh ko mir takallum qayam se
   Ab bhi sunayi deti hai farwa ki hichkiyan
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=326
 # raw_sha256: 2cfac5adb1a22582b074397ac78aeba9d89fc678ddac1ef021757ed05d84f704
 ---
-
 پامال لاشہ دیکھ کے کہتی ہیں بیبیاں
+زہرا کی طرح ٹوٹی ہیں قاسم کی پسلیاں
 
 ۱
-زہرا کی طرح ٹوٹی ہیں قاسم کی پسلیاں
 ٹکڑے پکارے دشت میں لبیک یا حسین
 آکر کہا جو مولا نے قاسم ہو تم کہاں
 

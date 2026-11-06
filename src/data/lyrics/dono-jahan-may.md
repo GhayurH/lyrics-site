@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Dono jahan may aaj hai charcha hussain ka
-  
-  1
   Har shaks padh raha hai qaseeda hussain ka
+
+  1
   Ahle haram hai pyaas ki shiddat se bekaraar
   Nauha kuna hai dasht may kunba hussain ka
-  
+
   2
   Tukdon may munqasim hua ibne ali ka laal
   Tashnadhan yateem bhatija hussain ka
-  
+
   3
   Hal min mughisuna ki sada sunke be-zaban
   Jhoole se gir gaya hai wo bacha hussain ka
-  
+
   4
   Masroof kaar zaar hai zainab ke laadle
   Maadar ne kar diya unhe sadqa hussain ka
-  
+
   5
   Aansu baha rahe hai jo gham may hussain ke
   Usko duayein deta hai baba hussain ka
-  
+
   6
   Mashke sakina bhar ke chala sher ka pisar
   Baazu kate to toota sahara hussain ka
-  
+
   7
   Mitti pe so rahi hai sakina wo ghamzada
   Ab na milega isko wo seena hussain ka
-  
+
   8
   Ghash may pada hai qaime may bemaar natawan
   Kaise behan bachayegi beta hussain ka
-  
+
   9
   Zakhmo pe zakhm khaaye najaf par kabhi nahi
   Zainab ne toda koi bhi waada hussain ka
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=858
 # raw_sha256: ebb03e351d850e36f1dc2101f71aeaac3f8830f8d54650131f2c6db124f831d2
 ---
-
 دونوں جہاں میں آج ہے چرچہ حسین کا
+ہر شخص پڑھ رہا ہے قصیدہ حسین کا
 
 ۱
-ہر شخص پڑھ رہا ہے قصیدہ حسین کا
 أہل حرم ہے پیاس کی شدت سے بیقرار
 نوحہ کناں ہے دشت کنبہ حسین کا
 

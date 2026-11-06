@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Paikaan baras rahe hai taboot par hassan ke
-  
-  1
   Ummat mita rahi hai aasaar panjetan ke
+
+  1
   Baba ke dil ke tukde tu ne gine bahattar
   Tukde hazaar honge qasim tere badan ke
-  
+
   2
   Zainab pukari bhai dil doobta hai mera
   Uglo na dil ke tukde sadqe gayi dahan ke
-  
+
   3
   Bait un nabi se haye utha hai phir janaza
   Yasrab ki bastiyon mein jhagde hai phir dafan ke
-  
+
   4
   Do baar mil gaya hai tum ko kafan ay maula
   Mohtaaj hi rahenge shabbir to kafan ke
-  
+
   5
   Zahra jahan giri thi laasha wahan na jaaye
   Phir zakhm khul na jaaye zer e kafan hassan ke
-  
+
   6
   Qabr e hasan pe us dam larza tha ek taari
   Sadaat ne dikhaye kuch neel jab rasan ke
-  
+
   7
   Maula nisaar apni shamsheer kyun uthaate
   Jab ke wo janasheen thay paighambar e aman ke
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2574
 # raw_sha256: 7c521cd860df6fc45dc6c75547c40fda7b94d5b95ddfe3ca96531b055137a66c
 ---
-
 پیکاں برس رہے ہیں تابوت پر حسن کے
+امت مٹا رہی ہے آثار پنجتن کے
 
 ۱
-امت مٹا رہی ہے آثار پنجتن کے
 بابا کے دل کے ٹکڑے تو نے گنے بہتر
 ٹکڑے ہزار ہونگے قاسم تیرے بدن کے
 

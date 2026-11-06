@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Pukari roke sakina bachalo ay ammu
-  
-  1
   Aseer hote hai humko chudalo ay ammu
+
+  1
   Be goro ran may pade hai shaheedon ke laashe
   Jina se unke kafan tum mangado ay ammu
-  
+
   2
   Jala jo kurte ka daaman to ran may kehti thi
   Nahi jo baba to tum hi bujhado ay ammu
-  
+
   3
   Saron se cheene ridayein layeeno ne aa kar
   Phupi ke sar pe rida ek udhado ay ammu
-  
+
   4
   Kiya hai tauq o salasil may qaid abid ko
   Sitam se bhai ko mere bachalo ay ammu
-  
+
   5
   Ye pyaas aur qayamat ki dhoop maarti hai
   Jo ho sake zara pani pilado ay ammu
-  
+
   6
   Hai neend aankhon may baba ka seena dhoondti hoo
   Kahan hai baba mere tum bulado ay ammu
-  
+
   7
   Hujoom ahle sitam aur be-rida hai haram
   Rida nahi to amaari mangado ay ammu
-  
+
   8
   Tamanna rakhte hai ziarat ki jo arshia o aijaz
   Do izn dono ko karbal bulalo ay ammu
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1483
 # raw_sha256: 1b297ccc10e4b395c186d5b043c26ec4d922a59bfb7745e3b00d1fd27b2c447f
 ---
-
 پکاری روکے سکینہ بچالو اے عمو
+اسیر ہوتے ہیں ہم کو چھڑالو اے عمو
 
 ۱
-اسیر ہوتے ہیں ہم کو چھڑالو اے عمو
 بے گورو رن میں پڑے ہیں شہیدوں کے لاشے
 جناں سے ان کے کفن تم منگادو اے عمو
 

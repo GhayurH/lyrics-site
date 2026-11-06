@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Be rida bibiyon ki khaafila salaari hai
-  
-  1
   Paon mein aable hai aur safar jaari hai
+
+  1
   Chod kar jaata hoo baba ko mai be-gor o kafan
   Dil e sajjad pe ye karb bohat bhaari hai
-  
+
   2
   Ibn e shabbir ko durre to na maaro logon
   Bhook hai pyaas hai beemari hai aazaari hai
-  
+
   3
   Maarta koi sakina ko to kehte abid
   Maar le mujhko mere baba ki ye pyari hai
-  
+
   4
   Logon dekho ye kata sar hai mere baba ka
   Kat ke bhi honton pe quran e khuda jaari hai
-  
+
   5
   Bole ye laashe sakina ko utha kar abid
   Ay chacha dekhiye kano se lahoo jaari hai
-  
+
   6
   Saath zehra ke giraya hai mazaar e abid
   Aaj bhi aal pe ummat ka sitam jaari hai
-  
+
   7
   Fath e abid ka ye elaan hai har soo majid
   Ye jo har qariye mein sarwar ki azadari hai
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1420
 # raw_sha256: 1458feb90320a37cfc23e33e6a8f83f0a959149f4ac14b878efdc28df34d690a
 ---
-
 بے ردا بی بیوں کی قافلہ سالاری ہے
+پاؤں میں آبلے ہیں اور سفر جاری ہے
 
 ۱
-پاؤں میں آبلے ہیں اور سفر جاری ہے
 چھوڑ کر جاتا ہوں بابا کو میں بے گور و کفن
 دل سجاد پہ یہ کرب بہت بھاری ہے
 

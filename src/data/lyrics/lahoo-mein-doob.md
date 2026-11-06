@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Lahoo mein doob gaya jab shabihe paighambar
-  
-  1
   Zameen e karbobala par tha hashr ka manzar
+
+  1
   Hussain dhoond rahe thay jawan ke laashe ko
   Thi muntazir dar e qaima pe ghamzada maadar
-  
+
   2
   Na koi dost na bhai na aasra tha koi
   Lahoo ke sher mein tanha tha fatema ka pisar
-  
+
   3
   Har ek baar ye mud mud ke dekhe thay hussain
   Nikal na aaye kahin ran mein zainab e muztar
-  
+
   4
   Pukaarte thay andhera hai meri aankhon mein
   Mere jawan mere dilbar mere ali akbar
-  
+
   5
   Kahan talaash karun kuch nazar nahi aata
   Zameen e garm pe dekho bhatak rahi hai nazar
-  
+
   6
   Qadam qadam pe idhar gir ke uth rahe thay hussain
   Kaleja thaam ke akbar tadap rahe thay udhar
-  
+
   7
   Sada sune to sahara mile zaeefi ko
   Ajeeb waqt hai mushkil kusha ke bete par
-  
+
   8
   Fareed sheh ki musibat bayan kya karte
   Nazar nazar thi qayamat qadam qadam mehshar
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2881
 # raw_sha256: e12455d352f424b7d6a4a2984a27ffa9749ffd524567e4440186122636a46d5c
 ---
-
 لہو میں ڈوب گیا جب شبیہ پیغمبر
+زمین کربوبلا پر تھا حشر کا منظر
 
 ۱
-زمین کربوبلا پر تھا حشر کا منظر
 حسین ڈھونڈ رہے تھے جواں کے لاشے کو
 تھی منتظر در خیمہ پہ غمزدہ مادر
 

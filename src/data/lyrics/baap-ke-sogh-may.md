@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Baap ke sogh mein chalees baras roye hai
-  
-  1
   Aaj sajjad hamesha ke liye soye hai
+
+  1
   Kabhi koshish bhi agar karte thay so jaane ki
   Koi tasveer ubhar aati thi tadpaane ki
   Goanjne lagti thi kaano mein sakina ki fughan
-  
+
   2
   Saamne jab bhi wazu ke liye aaya pani
   Roke kehte thay ke baba ne na paaya pani
   Dil sulag jaata tha aur saanso se uth'ta tha dhuan
-  
+
   3
   Shaam o kufa ki wo tasveer bhulayi na gayi
   Umr bhar paaon ki zanjeer bhulayi na gayi
   Marte dam tak na gaye pusht se durron ke nishan
-  
+
   4
   Phoot kar rote rahe paaon ke chaale har dum
   Raah e pur khaar pe badte hi rahe haye qadam
   Ek pal ko bhi meinassar hua aaram kahan
-  
+
   5
   Har ghadi honton pe nauha ye raha haye hussain
   Aakhri saans bhi aayi to kaha haye hussain
   Yaad mein baba ki dunya se gaye tashna dahan
-  
+
   6
   Khul gaya tauq magar dard ki shiddat na gayi
   Bediya khul ke bhi zakhmon ki aziyat na gayi
   Paaye ehsaas mein jakdi rahi zanjeer e giran
-  
+
   7
   Ghar se jab abid e muztar ka janaza nikla
   Soghwaron ki zubano se ye nauha nikla
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2113
 # raw_sha256: 229a35aef8e85b1b9382bd93fb37d571f90757aa1f3b931dc96033960c58678f
 ---
-
 باپ کے سوگ میں چالیس برس روے ہیں
+آج سجاد ہمیشہ کے لئے سوے ہیں
 
 ۱
-آج سجاد ہمیشہ کے لئے سوے ہیں
 کبھی کوشش بھی اگر کرتے تھے سو جانے کی
 کوئی تصویر ابھر آتی تھی تڑپانے کی
 گونجنے لگتی تھی کانوں میں سکینہ کی فغاں

@@ -8,51 +8,33 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Utha koi janaza phir sayyeda ke ghar se
-
-
-  1
-
+romanLyrics: |-
+  Utha koi janaza phir sayyeda ke ghar se
   Hasrat baras rahi hai ek ek baam o dar se
 
+  1
   Ye kisko ro rahi hai zainab tadap tadap kar
-
   Jannat may sayyeda ne chadar gira di sar se
 
-
   2
-
   Jisne khuda ke ghar ko bakshi thi aa ke zeenat
-
   Wo aaj ho raha hai ruqsat khuda ke ghar se
 
-
   3
-
   Hai bandh aankh shayad aaram aa gaya hai
-
   Maula tadap rahe thay unnees ki sehr se
 
-
   4
-
-  Zainab ke baazu''on ko shabbir choomte hai
-
+  Zainab ke baazu'on ko shabbir choomte hai
   Kya jaaniye ali ne kya keh diya pisar se
 
-
   5
-
   Qaatil ko apne thanda sharbat pilane waala
-
   Bechain ho raha hai khud zehr ke asar se
 
-
   6
-
   Koofe ka zarra zarra rota hai khoon ke aansu
-
-  Mehroom ho rahe hai hasnain ab pidar se'
+  Mehroom ho rahe hai hasnain ab pidar se
 reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:1d33ebd795fcacec3847
 # source_url: https://www.nohayonline.com/details_content.php?id=512
@@ -61,11 +43,10 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_url: https://www.ziyaraat.net/api/noha/579
 # raw_sha256: 17cd3e8ef340bad282766dd3339190412e8e4b2a5ed467b5a89a91a930ebe700
 ---
-
 اُٹھا کوئی جنازہ پھر سیدہ کے گھر سے
+حسرت برس رہی ہے ایک ایک بام و در سے
 
 ۱
-حسرت برس رہی ہے ایک ایک بام و در سے
 یہ کس کو رو رہی ہے زینب تڑپ تڑپ کر
 جنت میں سیدہ نے چادر گِرا دی سر سے
 

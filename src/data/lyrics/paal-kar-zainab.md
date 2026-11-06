@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Paal kar zainab ne sab ko karbala tayyar ki
-  
-  1
   Deen ki hurmat par lutaane ko rida tayyar ki
+
+  1
   Wo sada nikli dile zainab ban kar ya hussain
   De ke sar sheh ne jo hal min ki sada tayyar ki
-  
+
   2
   Haan yehi zainab hai jisne ek saaye ki tarha
   Pusht par bhai ke reh kar karbala tayyar ki
-  
+
   3
   Aa gaya is mein simat kar sirre ramz e la ilaah
   Ya hussaina ki jo zainab ne sada tayyar ki
-  
+
   4
   Ho salaam us par ke jisne khoon ka nazrana diya
   Ummato ke waaste khaake shifa tayyar ki
-  
+
   5
   Khoon baha us maa se poocho uski waaris hai wohi
   Jisne bete ki shahadat ko qabaa tayyar ki
-  
+
   6
   La ilaah ko jisne sarnaama banaya ay naved
   Jisne apne khoon se unki bina tayyar ki
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1691
 # raw_sha256: fa038ae57fb2aacd6e218870e6a7b94c1fce56017ab7a9cc2bbb7c41a7411591
 ---
-
 پال کر زینب نے سب کو کربلا تیار کی
+دین کی حرمت پر لٹانے کو ردا تیار کی
 
 ۱
-دین کی حرمت پر لٹانے کو ردا تیار کی
 وہ صدا نکلی دلے زینب بن کر یا حسین
 دے کے سر شہ نے جو ھل من کی صدا تیار کی
 

@@ -10,36 +10,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Noore muhammadi ka ye aejaz ek hai
-  
-  1
   Chauda hai aks aur rukhe naaz ek hai
+
+  1
   Ahmed se leke taa ba muhammad har ek ki
   Banda nawazion ka bhi andaaz ek hai
-  
+
   2
   Jaise ali ki zarb ko haasil hai imtiyaz
   Sajda tamaam sajdon mein mumtaz ek hai
-  
+
   3
   Noke sina pe padh ke bataya hussain ne
   Quran o ahle bayt ki awaaz ek hai
-  
+
   4
   Kausar pe ja milenge ye dono rasool se
   Anjaam inka ek hai aghaaz ek hai
-  
+
   5
   Leh tootne na paaye kabhi ya hussain ki
   Azm jawan ke waaste ye karz ek hai
-  
+
   6
   Marna jo jaante hai wohi jee rahe hai aaj
   Ho maut zindagi ka yehi raaz ek hai
-  
+
   7
   Jaati hai jaan jaaye aza e hussain mein
   Ye to hamare waaste ejaaz ek hai
-  
+
   8
   Ek bhai ek behan ki kahani hai karbala
   Andaz ek hai asar andaz ek hai
@@ -47,11 +47,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=532
 # raw_sha256: b5810562b98433b7d93796c9c41406ca36f06a2b9ad1297f026d1198633d8be4
 ---
-
 نورِ محمدی کا یہ اعجاز ایک ہے
+چودہ ہیں عکس اور رُخِ ناز ایک ہے
 
 ۱
-چودہ ہیں عکس اور رُخِ ناز ایک ہے
 احمد سے لے کہ تا با محمد ہر ایک کی
 بندہ نوازیوں کا بھی انداز ایک ہے
 

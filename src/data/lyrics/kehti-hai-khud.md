@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Kehti hai khud amariyan taqreer ke baghair
-  
-  1
   Zainab watan mein aayi hai shabbir ke baghair
+
+  1
   Asghar ke intezar mein sughra ko kya khabar
   Maa karbala se aayi hai baysheer ke baghair
-  
+
   2
   Ummul baneeen sunti hai haal apne laal ka
   Kyunkar lada layeeno se shamsheer ke baghair
-  
+
   3
   Nana hamari peet pe durro ke ye nishan
   Khatre kitaabe daur hai tehreer ke baghair
-  
+
   4
   Nana utha janaza meri maa ka raat mein
   Balwe mein thi mai chadar o tauqeer ke baghair
-  
+
   5
   Abid tha is tarha thi musalsal ye bediyan
   Ab paon thar-tharate hai zanjeer ke baghair
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=733
 # raw_sha256: 25b60fafaf99d3da8ff5a81924c719fdbc76b982f90c3574df71359a9af21154
 ---
-
 کہتی ہیں قد عماریاں تقریر کے بغیر
+زینب وطن میں آی ہے شبیر کے بغیر
 
 ۱
-زینب وطن میں آی ہے شبیر کے بغیر
 اصغر کے انتظار میں صغرا کو کیا خبر
 ماں کربلا سے آی ہے بے شیر کے بغیر
 

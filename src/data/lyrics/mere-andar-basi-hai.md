@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Mai jahan jaun mere andar basi hai karbala
-  
-  1
   Banke dhadkan mere dil mein goonjti hai karbala
+
+  1
   Mere seene mein azal se bas raha hai ya hussain
   Ye jo dhadkan ki musalal ek sada hai ya hussain
   Har ghadi awaazein mujhko de rahi hai karbala
-  
+
   2
   Gooonjte hai ya hussaina se musalsal baam o dar
   Chauda sadiyan se hai jaari sheh ke matam ka safar
   Is tarha seena ba seena chal rahi hai karbala
-  
+
   3
   Maa ne dikhlaya hai rasta farsh e majlis ka hamein
   Halqa e matam mein lekar aaye hai baba hamein
   Godh se maa baap ki humko mili hai karbala
-  
+
   4
   Shaam o kufa ke safar mein bediyan thaame rahi
   Tauq ka bosa kabhi zanjeer ka bosa kabhi
   Abid e bemaar se lipti hui hai karbala
-  
+
   5
   Taaziyane khayegi himmat magar dikhlayegi
   Shaam tak mazloom ka paigham le kar jayegi
   Sheh ki mayyat se qasam kha kar uthi hai karbala
-  
+
   6
   Sabr waale taaza dam hai zulm waale thak gaye
   Khanjaron ne haar maani naize waale thak gaye
   Peeche hatne ki jagah aage badi hai karbala
-  
+
   7
   Hai kahin akbar jawan ka sar kahin baysheer ka
   Sar bureeda hai kahin abbas ka shabbir ka
   Noke naiza pe safar karti rahi hai karbala
-  
+
   8
   Be-kafan us syed o sardar par laakhon salaam
   Ek din hoga takallum uske khoon ka inteqam
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1007
 # raw_sha256: 89c1e41d9e15ef1e64a7d6cc5b28c8c9a0467b9c1b96bd4844d119259489bff5
 ---
-
 میں جہاں جاؤں جون میرے اندر بسی ہے کربلا
+بن کے دھڑکن میرے دل میں گونجتی ہے کربلا
 
 ۱
-بن کے دھڑکن میرے دل میں گونجتی ہے کربلا
 میرے سینے میں اذل سے بس رہا ہے یا حسین
 یہ جو دھڑکن کی مسلسل اک صدا ہے یا حسین
 ہر گھڑی آوازیں مجھکو دے رہی ہے کربلا

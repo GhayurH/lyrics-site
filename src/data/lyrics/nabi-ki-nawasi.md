@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Risalat ka logon sila maangti hai
-  
-  1
   Nabi ki nawasi rida maangti hai
+
+  1
   Ye ismat ki malka ye binte ali hai
   Jo patharon ki baarish may kab se khadi hai
   Faqat do qadam raasta maangti hai
-  
+
   2
   Zibha ho gaye is ke be-misl bhai
   Rasan may kahan se kahan tak hai aayi
   Ye tumse ba-naame khuda maangti hai
-  
+
   3
   Karo na charaghon se raushan ye raahein
   Khudara jhuka lo ye apni nigahein
   Bhala kya ye iske siwa maangti hai
-  
+
   4
   Nabi zadiyon ko satate ho kyun tum
   Inhe naam le kar bulaate ho kyun tum
   Ye marne ki apne dua maangti hai
-  
+
   5
   Thay farhan aur qurban bibi ke jumle
   Mujhe mera bhai khule sar na dekhe
@@ -41,11 +41,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1121
 # raw_sha256: 4359ff50b423534495b3ebcc4f9fd2a26b53c00db61141613b5d14f86e970f6c
 ---
-
 رسالت کا لوگوں صلہ مانگتی ہے
+نبی کی نواسی ردا مانگتی ہے
 
 ۱
-نبی کی نواسی ردا مانگتی ہے
 یہ عصمت کی ملکہ یہ بنت علی ہے
 جو پتھروں کی بارش میں کب سے کھڑی ہے
 فقط دو قدم راستہ مانگتی ہے

@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Thoda sa faasla hai khanjar mein aur gale mein
-  
-  1
   Zainab ka dum ruka hai bus itne faasle mein
+
+  1
   Khanjar ko dekhti hai bhai ko dekhti hai
   Athara bhaiyon ki tanha behan khadi hai
   Abbas tum kahan ho is sakht marhale mein
-  
+
   2
   Na zeen na zameen par jiska badan hai haye
   Pehle hi zakhm jis ne unees sau hai khaaye
   Zaalim lage hai phir bhi gardan ko kaatne mein
-  
+
   3
   Qaatil khada hai lekin sheh muskura rahe hai
   Zainab se apne aansu sarwar chupa rahe hai
   Masroof hai behan ko ab bhi sambhalne mein
-  
+
   4
   Mushkil kusha ki beti naade ali hai padhti
   Bete hai na bhatije koi nahi hai baaqi
   Aa kar madad kare jo khanjar ko rokne mein
-  
+
   5
   Behno ke dil se poocho ehsaas ki ghadi hai
   Sattar qadam se zainab manzar jo dekhti hai
   Dil na sambhal sakega manzar wo sochne mein
-  
+
   6
   Ek bewatan musafir pyasa hai teen din ka
   Taygh e sitam ke neeche bhoola nahi wo sajda
   Uth'ti hai surkh aandhi maqtal hai zalzale mein
-  
+
   7
   Seene pe rakhe zaanu qaatil ruka hua hai
   Salman aur mesum khanjar na chal saka hai
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2212
 # raw_sha256: 304eaf513954a111760baf296f40bf452be853ea80357659fb12800298f77293
 ---
-
 تھوڑا سا فاصلہ ہے خنجر میں اور گلے میں
+زینب کا دم رکا ہے بس اتنے فاصلے میں
 
 ۱
-زینب کا دم رکا ہے بس اتنے فاصلے میں
 خنجر کو دیکھتی ہے بھای کو دیکھتی ہے
 اٹھارہ بھاییوں کی تنہا بہن کھڑی ہے
 عباس تم کہاں ہو اس سخت مرحلے میں

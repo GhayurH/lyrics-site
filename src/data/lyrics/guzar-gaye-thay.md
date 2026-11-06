@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Guzar gaye thay kayi din ke ghar may aab na tha
-  
-  1
   Magar hussain se saabir ko izteraab na tha
+
+  1
   Agar bahisht may hote na kausar o tasneem
   To rone waalon ki aankhon ka phir jawab na tha
-  
+
   2
   Faqad hussain ke bachon par band tha pani
   Bahot khareeb thi wo nehr qehte aab na tha
-  
+
   3
   Wo log jamma thay qatl e hussain par ke jinhe
   Khuda se khuaf mohamed se kuch hijaab na tha
-  
+
   4
   Ghazab ki jaa hai ke darbar may sitamgar ke
   Khadi thi binte ali aur kuch hijaab na tha
-  
+
   5
   Hussain aur talab e aab ain maazallah
   Tamaam karna thi hujjat sawaale aab na tha
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/content_salaam.php?id=44
 # raw_sha256: f91fc4eba54c1a533c59888aaac37fe55f923da35c2ff10ee04526ad19743b5e
 ---
-
 گزر گےء تھے کیء دن کے گھر میں آب نہ تھا
+مگر حسین سے صابر کو اضطراب نہ تھا
 
 ۱
-مگر حسین سے صابر کو اضطراب نہ تھا
 اگر بہشت میں ہوتے نہ کوثر و تسنیم
 تو رونے والوں کی آنکھوں کا پھر جواب نہ تھا
 

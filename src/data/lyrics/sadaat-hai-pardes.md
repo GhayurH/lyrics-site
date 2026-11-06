@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Sadaat hai pardes hai aur shaam e ghariban
-  
-  1
   Kya waqt hai ghazi nahi zainab hai nigehban
+
+  1
   Ay raat andheron ko zara aur badha de
   Maqtal ki hawa jalte charaghon ko bujha de
   Dekhe na alamdar behan ko sare uryan
-  
+
   2
   Bibi koi jhoole ki jali raakh utha kar
   Kehti hai agar tu nahi aaya ali asghar
   Khud ran mein chali aayegi baysheer teri maa
-  
+
   3
   Tu hi na raha jee ke karun kya mere bache
   Khud apne hi haathon se meri qabr banade
   Laila pe ye hoga ali akbar tera ehsaan
-  
+
   4
   Kehte hai ye jalte hue qaimon mein musalle
   Sajjad tahajjud to zara chain se padle
   Afsos ye mohlat bhi nahi dete musalman
-  
+
   5
   Darya pe tadapta hai alamdar ka laasha
   Maqtal mein ajab haal se aati hai sakina
   Qaimon ka dhuan aankhon mein jalta hua daaman
-  
+
   6
   Wo waqt takallum tha ajab binte ali par
   Kehne lage maula jo naqaab apni utha kar
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=994
 # raw_sha256: 5efb3bf81a66d6dab08b8787b596e548c1d7f928a89b8fea501d49bb78593fe3
 ---
-
 سادات ہے پردیس ہے اور شام غریباں
+کیا وقت ہے غازی نہیں زینب ہے نگہباں
 
 ۱
-کیا وقت ہے غازی نہیں زینب ہے نگہباں
 اے رات اندھیروں کو زرا اور بڑھا دے
 مقتل کی ہوا جلتے چراغوں کو بجھا دے
 دیکھے نہ‌ علمدار بہن کو سر عریاں

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye chand hame kaisa gardoon pe nazar aaya
-  
-  1
   Jisne ghame zehra mein khoon aankhon ko rulwaya
+
+  1
   Sughra ki nigahon mein ruqsat ke wo lamhe hai
   Ghar walon ki furqat ne bemaar ko tadpaya
-  
+
   2
   Phir kaale libason mein sab log nazar aaye
   Phir matami halqon mein har ghar se alam aaya
-  
+
   3
   Jo zakhm bhare dil thay phir taaza hue saare
   Nauha ali akbar ka in honton ne dohraya
-  
+
   4
   Phir sajne lagi mehendi naushaah ki ghar ghar mein
   Farwa ki sada'on se dil aur bhi bhar aaya
-  
+
   5
   Ek chota sa mashkeeza masroofe buka dekha
   Jab saamne aankhon ke ghazi ka alam aaya
-  
+
   6
   Ek nanhe se jhoole par pahunchi jo nazar meri
   Dil tukde hua mera khoon aankhon se barsaya
-  
+
   7
   Jab haye hussaina ki har samt sada goonji
   Matam ki sada'on se phir charkh bhi tharraya
-  
+
   8
   Akhtar ye qayamat thi aulad e payambar par
   Ghar sheh ka ujadne ki ashoor khabar laaya
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=924
 # raw_sha256: bd634fdea836dfc79fa15f75c57cf16f3a373866b4f287df158f26a641ad001b
 ---
-
 یہ چاند ہمیں کیسا گردوں پہ نظر آیا
+جس نے غم زہرا میں خوں آنکھوں کو رلوایا
 
 ۱
-جس نے غم زہرا میں خوں آنکھوں کو رلوایا
 صغریٰ کی نگاہوں میں رخصت کے وہ لمحے ہیں
 گھر والوں کی فرقت نے بیمار کو تڑپاے
 

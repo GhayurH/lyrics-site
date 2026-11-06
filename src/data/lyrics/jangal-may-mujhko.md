@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   Jangal mein mujhko chod kar akbar kahan gaye
-  
-  1
   Chilla rahi hai dayr se maadar kahan gaye
+
+  1
   Sadme teri judaai ke kaise uthaye maa
   Awaaz kuch to do mere dilbar kahan gaye
-  
+
   2
   Seene mein isteraab hai dar par nigaah hai
   Ay mere hum shabihe payambar kahan gaye
-  
+
   3
   Paigham maut ka tha ye attharwan baras
   Noor e nigaah sibte payambar kahan gaye
-  
+
   4
   Ay hashmi jawan tamanna e fatema
   Ay arzoo e saaqi e kausar kahan gaye
-  
+
   5
   Shabbir ki nigaah mein tareek hai jahan
   Laila ke chand mere munawar kahan gaye
-  
+
   6
   Ghar hai udaas bali sakina hai beqarar
   Ay rooh e jaan e hyder o safdar kahan gaye
-  
+
   7
   Ab kaise dekhe nana ki tasveer ko hussain
   Aaeena e jamaal e payambar kahan gaye
-  
+
   8
   Maa tum ko dhoondti hai andhere mein raat ke
   Ghar bhar ki raushni mahe anwar kahan gaye
-  
+
   9
   Aada e deen le gaye asbaab loot kar
   Chinti hai ab sakina ki chadar kahan gaye
-  
+
   10
   Aaya hai shimr qaime jalane ke waaste
   Chadar haram ki chinti hai akbar kahan gaye
-  
+
   11
   Jaa kar madine waalon ko mai doongi kya jawab
   Poochenge jab jawan ali akbar kahan gaye
-  
+
   12
   Saydaniyo ke beech mein laila ke thay ye bain
   Maa ko akela chod kar akbar kahan gaye
-  
+
   13
   Jab silsila hayaat ka tootega ay qamar
   Poochenge log khaadim e sarwar kahan gaye
@@ -68,11 +68,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1877
 # raw_sha256: 7ad1e839764398bb2ab4917347cda81d81556c61d5e31e6cce9068ce396f1d05
 ---
-
 جنگل میں مجھکو چھوڑ کے اکبر کہاں گئے
+چلا رہی ہے دیر سے مادر کہاں گئے
 
 ۱
-چلا رہی ہے دیر سے مادر کہاں گئے
 صدمے تیری جدائی کے کیسے اٹھاے ماں
 آواز کچھ تو دو میرے دلبر کہاں گئے
 

@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Roke farmate thay har bibi se sarwar alwida
-  
-  1
   Ay meri bali sakina meri dukhtar alwida
+
+  1
   Dekhlo jee bhar ke mujhko hai shahadat an qareeb
   Ab gala mera hai aur khaatil ka khanjar alwida
-  
+
   2
   Raat bhar ka ay behan dunya may mai mehman hoo
   Subha hote qatl hoonga mai muqarrar alwida
-  
+
   3
   Sabr karna ay behan hargiz na karna bad-dua
   Cheen lenge gar udoo balwe may chadar alwida
-  
+
   4
   Sab haram ko aur bachon ko tumhe saumpa behan
   Aur tumhe saumpa khuda ko binte hyder alwida
-  
+
   5
   Baad mere ahle keen qaima jala kar lootenge
   Aur phirayenge tumhe dar dar khule sar alwida
-  
+
   6
   Aan kar sunle wasiyat karle ab ruqsat hame
   Hai kahan ghash may pada sajjad e muztar alwida
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=941
 # raw_sha256: caa08145185ae859f3758493b1a6d2672a26972495dec530a8303270435a621c
 ---
-
 روکے فرماتے تھے ہر بی بی سے سرور الوداع
+اے میری بالی سکینہ میری دختر الوداع
 
 ۱
-اے میری بالی سکینہ میری دختر الوداع
 دیکھلو جی بھر کے مجھکو ہے شہادت عن قریب
 اب گلا میرا ہے اور قاتل کا خنجر الوداع
 

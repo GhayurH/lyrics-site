@@ -10,20 +10,20 @@ aliases: []
 published: false
 romanLyrics: |-
   Nafraton ki dhool se chehra hata dekhega kaun
-  
-  1
   Hum hai misle aaina humko bhala dekhega kaun
+
+  1
   Karbala se aaj tak aale rasool e paak par
   Jo pasay parda nahi hai karbala dekhega kaun
-  
+
   2
   Ghurbate to dekhte hai sab gulon se haar ke
   Wo jo inke darmiyan hai faasla dekhega kaun
-  
+
   3
   Ab na qasim hai na akbar hai na abbas e jari
   Dukhtare shere khuda ka hausla dekhega kaun
-  
+
   4
   Chal basi bali sakina ay alamdare hussain
   Ab dare zindan pe tera raasta dekhega kaun
@@ -31,11 +31,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=892
 # raw_sha256: b5926b8a32cc814ea4484a0dc9ab732d3db88d4216673662d4d7cd6e36d86923
 ---
-
 نفرتوں کی دھُول سے چہرہ ہٹا دیکھے گا کون
+ہم ہیں مثلِ آئینہ ہم کو بھلا دیکھے گا کون
 
 ۱
-ہم ہیں مثلِ آئینہ ہم کو بھلا دیکھے گا کون
 کربلا سے آج تک آلِ رسولِ پاک پر
 جو پسِ پردہ نہیں ہے کربلا دیکھے گا کون
 

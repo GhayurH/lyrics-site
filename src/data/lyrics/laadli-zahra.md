@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Apne baba ki laadli zahra
-  
-  1
   Choor zakhmo se ho gayi zahra
+
+  1
   Koi aaya nahi bhujhane ko
   Jalta dar dekhti rahi zahra
-  
+
   2
   Jaane kis tarha maara zaalim ne
   Moo ke bal khaak par giri zahra
-  
+
   3
   Tere rukh par nishan tamache ka
   Kaash zainab na dekhti zahra
-  
+
   4
   Karbala shaam saamara mashad
   Kitne hisson mein bat gayi zahra
-  
+
   5
   Aag se jinke jal gaye daaman
   Ek sakina hai doosri zahra
-  
+
   6
   Hai tasavvur mein ghurbate hyder
   Saans leti hai aakhri zahra
-  
+
   7
   Moo ke bal gir pade ali sun kar
   Ab jahan mein nahi rahi zahra
-  
+
   8
   Rakh ke mayyat lahad mein bole ali
   Ab wo zahra nahi rahi zahra
-  
+
   9
   Ay takallum hai jaane qabr kahan
   Itni bekas hai aaj bhi zahra
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1021
 # raw_sha256: 34480e3d2eebe8c5ff478461b1e767ae5e65d1517e58b3348b26cd8eeb1975fa
 ---
-
 اپنے بابا کی لاڈلی زہرا
+چور زخموں سے ہو گیء زہرا
 
 ۱
-چور زخموں سے ہو گیء زہرا
 کوئی آیا نہیں بجھانے کو
 جلتا در دیکھتی رہی زہرا
 

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Jhoola hai ya taboot tumhara ali asghar
-  
-  1
   Maadar ke labon par hai ye nauha ali asghar
+
+  1
   Pehlu may mere aaj se soyegi sakina
   Tum baap ki aaghosh may sona ali asghar
-  
+
   2
   Sar saare shaheedon ke uthe naizon pe lekin
   Utha tera naize pe janaza ali asghar
-  
+
   3
   Us waqt sakina bhi khadi dekh rahi thi
   Naizon ne jo dhoonda tera laasha ali asghar
-  
+
   4
   Is tarha se ruqsaar tere khoon may tar thay
   Maa dekh na paayi tera chehra ali asghar
-  
+
   5
   Mohsin ka unhe dijiyo pursa mere beta
   Jab godh may lengi tujhe zahra ali asghar
-  
+
   6
   Laayi hoo teri qabr se maula ko utha kar
   Uth'te hi nahi thay shahe waala ali asghar
-  
+
   7
   Akbar na sula payenge tum zid nahi karna
   Seene ka abhi zakhm hai taaza ali asghar
-  
+
   8
   Maa boli takallum mujhe maare gaye pathar
   Ummat ne diya yun tera pursa ali asghar
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1623
 # raw_sha256: 81846d4ee2a279e6f7fbcccc5c70c3c0e5eadf1dfcf90ce079667ce588cf40a6
 ---
-
 جھولا ہے یا تابوت تمہارا علی اصغر
+مادر کے لبوں پر ہے یہ نوحہ علی اصغر
 
 ۱
-مادر کے لبوں پر ہے یہ نوحہ علی اصغر
 پہلو میں میرے آج سے سوے گی سکینہ
 تم باپ کی آغوش میں سونا علی اصغر
 

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Alqama tere kanare so gaya ghazi mera
-  
-  1
   Tha bharosa jispe mujhko wo baradar chal basa
+
+  1
   Jaagte thay jiske darr se ashqiyan-e-bad gohar
   Haath katwa kar wo bhai chain se ab so gaya
-  
+
   2
   Jab chidhi mashke sakina khoon baha abbas ka
   Sher ne phir apna ruqh darya ki jaanib kar liya
-  
+
   3
   Phaynk kar kooze ko ye boli sakina dilfigaar
   Pyas ka shikwa nahi ab laut kar aao chacha
-  
+
   4
   Thaam kar apni rida ko boli ye sheh ki bahan
   Paasban parde ka mere bawafa maara gaya
-  
+
   5
   Jab kaha abbas ne aaqa mera lije salaam
   Thaam kar apni kamar ko rote thay shaahe huda
-  
+
   6
   Mashk pe ruqsaar rakh kar sogaya wo bawafa
   Maut bhi isko bhatiji se na kar payi juda
-  
+
   7
   Ashk mein bali sakina ke nazar aayi shabi
   Ek naya sa aashiyana ban gaya abbas ka
-  
+
   8
   Is liye ghamgeen hai ay ahmed jari-e-bawafa
   Pyase bachon tak hassan wo pani na leja saka
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=129
 # raw_sha256: f1260476fcc1f43bb80a5782ff8123341dadf52dc22b34b0d0b340fb6d5362ea
 ---
-
 علقمہ تیرے کنارے سو گیا غازی میرا
+تھا بھروسہ جس پہ مجھ کو وہ برادر چل بسا
 
 ۱
-تھا بھروسہ جس پہ مجھ کو وہ برادر چل بسا
 جاگتے تھے جس کے در سے اشقیانِ بد گوہر
 ہاتھ کٹوا کر وہ بھائی چین سے اب سو گیا
 

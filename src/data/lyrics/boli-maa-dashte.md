@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Boli maa dashte sitam mein kis tarha chain aayega
-  
-  1
   Nanhi si turbat mein asghar kaun dil behlayega
+
+  1
   Aao maa ki godh mein aao badal doo mai libaas
   Khoon bhara kurta ye eeza jism ko pahunchayega
-  
+
   2
   Maine to bheja tha tum ko pani peene ke liye
   Ye na samjhi thi ke naawak se gala chid jayega
-  
+
   3
   Maamta dhoondegi tujhko godh mein ay mere laal
   Jab koi masoom chehra saamne aa jayega
-  
+
   4
   Hai tumhari umr choti itna to socho zara
   Nanha sa masoom dil is dasht mein darr jayega
-  
+
   5
   Aaj hai shaam e ghariban kal shabe ashoor thi
   Kya pata tha ek din mein aisa toofan aayega
-  
+
   6
   Har ghadi beta yehi mai sochti hoo baar baar
   Kaun uljhe gaysuon ko ab wahan suljhayega
-  
+
   7
   Wo tera nanha gala aur haye wo sehra ki dhoop
   Jab bhi sochungi mere dil ko bohat tadpayega
-  
+
   8
   Neend tujhko maa ki lori ke baghair aati nahi
   Har ghadi bechain tu turbat mein khud ko payega
-  
+
   9
   Din mere nazroon mein hoga raat se bad kar siyah
   Un ghane baalon ka tere jab khayaal aa jayega
-  
+
   10
   Nanhe se dil ki badegi aur kuch bechainiya
   Mere bache jab wahan jhoola nahi tu payega
-  
+
   11
   Wo tere sookhe huwe lab aur wo sehra ki dhoop
   Ye tasavvur maa ke dil par ek qayamat dhayega
-  
+
   12
   Kyun darun mai qabr ki manzil se jab ke ay raza
   Khuld ka ghar sheh ke sadqe mein mujhe mil jayega
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1994
 # raw_sha256: 4ac4575e142bbbd25015789ab105457830446bd2bdd2dc2f035cf4b2ff004828
 ---
-
 بولی ماں دشتِ ستم میں کس طرح چین آے گا
+ننھی سی تربت میں اصغر کون دل بہلاے گا
 
 ۱
-ننھی سی تربت میں اصغر کون دل بہلاے گا
 آؤ ماں کی گود میں آؤ بدل دوں میں لباس
 خوں بھرا کرتہ یہ ایذا جسم کو پہنچاے گا
 

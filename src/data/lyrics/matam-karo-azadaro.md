@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Ujde mohamed ke ghar ka matam karo azadaron
-  
-  1
   Karbal ki shaam o sehar ka matam karo azadaron
+
+  1
   Hamshakle ahmed tha haye kadiyal jawan ali akbar
   Maqatal may jaa kar hai soya seene pe barchi ko kha kar
   Laila ke noor e nazar ka matam karo azadaron
-  
+
   2
   Ghodon ki taapon se jiski pamaal ki laash haye
   Jis ke janaze ko maula chun chun ke ghatri may laaye
   Maula hassan ke pisar ka matam karo azadaron
-  
+
   3
   Sookha gala kund khanjar seene pe shimr e sitamgar
   Kaise qayamat ka manzar dekhe bhala koi maadar
   Zehra ke khoon e jigar ka matam karo azadaron
-  
+
   4
   Jaane se jiske thi tooti haye kamar shaah e deen ki
   Zainab ke parde ka haafiz dhaaras mohamed ke ghar ki
   Ummul baneen ke qamar ka matam karo azadaron
-  
+
   5
   Pairon may chaale thay jis se abid ka chalna tha dubar
   Maare gaye taaziyane bemaar baitha jo thak kar
   Kaaton bhare us safar ka matam karo azadaron
-  
+
   6
   Kuch is tarha se shaqi ne boondon ko kaano se khayncha
   Zakhmi lawein hogayi thi kaano se tha khoon rista
   Cheene gaye us gohar ka matam karo azadaron
-  
+
   7
   Jin ko kabhi aasman ne dekha nahi tha khule sar
   Cheeni gayi un ki chadar afsos naize chuba kar
   Be parda zainab ke sar ka matam karo azadaron
-  
+
   8
   Roodad karbobala ki kaise koi bhool paaye
   Khadim likhe isko kaise rehan kaise sunaye
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2106
 # raw_sha256: 41f9bf9192ef274759e4e3e3cf5fcc91dcd8b964652d8edc5c528e5c3af03ea3
 ---
-
 اجڑے محمد کے گھر کا ماتم کرو عزاداروں
+کربل کی شام و سحر کا ماتم کرو عزاداروں
 
 ۱
-کربل کی شام و سحر کا ماتم کرو عزاداروں
 ہمشکل احمد تھا ہاے کڑیل جواں علی اکبر
 مقتل میں جا کر ہے سویا سینے پہ برچھی کو کھا کر
 لیلیٰ کے نور نظر کا ماتم کرو عزاداروں

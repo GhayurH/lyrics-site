@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Sina ki nok pe bhi shaah sar utha ke chale
-  
-  1
   Jahan ko taaqat e haq kya hai ye dikha ke chale
+
+  1
   Hussain dasht may ghar apna go luta ke chale
   Nabi ke deen ki qismat magar bana ke chale
-  
+
   2
   Usi ke qadmon se jannat lipat ke rehti hai
   Misaal e hurr jo muqaddar ko khud bana ke chale
-  
+
   3
   Jahan ne dekh liya teer e hurmula ka asar
   Gale pe leke jo baysheer muskura ke chale
-  
+
   4
   Hame kate hue baazu ki yaad aane lagi
   Hum apne haath may jab bhi alam utha ke chale
-  
+
   5
   Hussain kehte thay akbar hai ab andhera jahan
   Tum apne seene pe zakhme sina jo khaake chale
-  
+
   6
   Ghashi ke haal may abid ka jal gaya bistar
   Jab aag qaime be-daar gar laga ke chale
-  
+
   7
   Bandhe thay gardan o baazu haram ke rassi se
   Sitam ki inteha ahle sitam dikha ke chale
-  
+
   8
   Yazeed naam zamane may ho gaya laanat
   Hussain is tarha ather usay mita ke chale
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=921
 # raw_sha256: a0e9ed8bb2f89c1a23927d07af7f0d750de4a93885ea58b87ca1147bf4ac19aa
 ---
-
 سناں کی نوک پہ بھی شاہ سر اٹھا کے چلے
+جہاں کو طاقت حق کیا ہے یہ دکھا کے چلے
 
 ۱
-جہاں کو طاقت حق کیا ہے یہ دکھا کے چلے
 حسین دشت میں گھر اپنا گو لٹا کے چلے
 نبی کے دین کی قسمت مگر بنا کے چلے
 

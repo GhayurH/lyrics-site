@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye sughra ne likha chale aaiyega
-  
-  1
   Milay khat jo bhaiya chale aaiyega
+
+  1
   Udaasi ke jangal mein baithi hui hoo
   Madina hai soona chale aaiyega
-  
+
   2
   Mazaar e mohamed pa karne charaghan
   Mai jaati hoo tanha chale aaiyega
-  
+
   3
   Mai bemaariyon mein basar kar rahi hoo
   Ajal ka hai khatra chale aaiyega
-  
+
   4
   Akele mera dam ghuta jaa raha hai
   Ghatane ko sadma chale aaiyega
-  
+
   5
   Masayab ke lamhe uthaate uthaate
   Hai dil paara paara chale aaiyega
-  
+
   6
   Mujhe chod kar karbala kyun gaye thay
   Karungi na shikwa chale aaiyega
-  
+
   7
   Meri yaad jab bhi satayegi bhaiya
   Hai mujhko bharosa chale aaiyega
-  
+
   8
   Agar mujhse thodi bahot hai mohabbat
   Chacha se bhi kehna chale aaiyega
-  
+
   9
   Kiya sab ne aabaad karbobala ko
   Nahi koi apna chale aaiyega
-  
+
   10
   Hazaron duayein mili tum ko ishrat
   Suna jis ne nauha chale aaiyega
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2248
 # raw_sha256: 39313ba4bd201727a3038e54cb8c7bb852bbafbb1765eea5f8a086398bf7d8a5
 ---
-
 یہ صغریٰ نے لکھا چلے آییےء گا
+ملے خط جو بھیا چلے آییےء گا
 
 ۱
-ملے خط جو بھیا چلے آییےء گا
 اداسی کے جنگل میں بیٹھی ہوی ہوں
 مدینہ ہے سونا چلے آییےء گا
 

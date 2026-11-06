@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Wehshat hai udasi hai zindan ka andhera hai
-  
-  1
   Har lamha sakina par bas aakhri lamha hai
+
+  1
   Bibi pe guzarti hai kya raat qayamat ki
   Ukhdi hui saansein hain toota hua lehja hai
-  
+
   2
   Zaalim ne gohar tere yun kaano se khaynche hai
   Reh reh ke lahoo ab tak zakhmo se tapakta hai
-  
+
   3
   Abbas na tadpao abbas chale aao
   Darwaza e zindan hai aur bali sakina hai
-  
+
   4
   Ashkon hi se dhona hai dono ka lahoo zainab
   Ek bhai ka kurta hai ek bachi ka kurta hai
-  
+
   5
   Shabbir ko ro aayi baysheer ko kho aayi
   Ab tum bhi gayi bibi ab maa ka liye kya hai
-  
+
   6
   Masoom rasan basta khamosh hui aakhir
   Zanjeer nahi hilti sajjad ko sakta hai
-  
+
   7
   Ye haal hua bibi sab ka tere matam may
   Bheegi hui aankhein hai utra hua chehra hai
-  
+
   8
   Shahid koi sughra ko jaa kar ye khabar de de
   Wo chaar baras waali zindan may tanha hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=741
 # raw_sha256: 007dc9ad718b7362f6c3100b14eeb93b2245c203b860eaefcc3216b0ff8672be
 ---
-
 وحشت ہے اُداسی ہے زنداں کا اندھیرا ہے
+ہر لمحہ سکینہ پر بس آخری لمحہ ہے
 
 ۱
-ہر لمحہ سکینہ پر بس آخری لمحہ ہے
 بی بی پہ گزرتی ہے کیا رات قیامت کی
 اُکھڑی ہوئی سانسیںہیں ٹوٹہ ہوا لہجہ ہے
 

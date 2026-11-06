@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Wo teen din ki pyas wo tashna labon ki shaam
-  
-  1
   Apne gharon se door wo un begharon ki shaam
+
+  1
   Bewa'on ki yateemon ki aur qaidi'on ki shaam
   Durron ki taziyano ki aur khanjaron ki shaam
-  
+
   2
   Be-saaya aasmaan wo maqtal garm rayt
   Sehra e be-amaan mein wo khastaton ki shaam
-  
+
   3
   Qaimon ke ird gird wo laashe azizon ke
   Aur dashte karbala mein wo un be-saron ki shaam
-  
+
   4
   Le jaye kaun inka lahoo bastiyon ki samt
   Phaili ye saare shehr mein ab dushmano ki shaam
-  
+
   5
   Asghar tumhari yaad mein hum sab hai ashqbaar
   Bibi sakina dekhiye ye ansuon ki shaam
-  
+
   6
   Wo gyarveen ke chand ki afsurda roshni
   Baal'on se moo chipaye wo shehzadiyon ki shaam
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=262
 # raw_sha256: 3066c715a807e7f2a85e22ce68274c07535d331b8275585169e1da3999a2151c
 ---
-
 وہ تین دن کی پیاس وہ تشنہ لبوں کی شام
+اپنے گھروں سے دور وہ ان بے گھروں کی شام
 
 ۱
-اپنے گھروں سے دور وہ ان بے گھروں کی شام
 بیوائوں کی یتیموں کی اور قیدیوں کی شام
 دروں کی تازیانوں کی اور خنجروں کی شام
 

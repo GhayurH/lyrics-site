@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Haq ki azmat hai azal se ghame shabbir ke haath
-  
-  1
   Jao aur kar do qalam kaatibe taqdeer ke haath
+
+  1
   Keh do dunya se koi aur thikana dhoonde
   Khuld to bik chuki ashke ghame shabbir ke haath
-  
+
   2
   Deen ki uqda kushayi ka jab aaya hai khayaal
   Shaah ne choom liye zainab e dilgeer ke haath
-  
+
   3
   Ye musalman bhala aaj musalman hote
   Bayyat e kufr ko bach jaate jo shabbir ke haath
-  
+
   4
   Kaash abbas ko ladne ki raza mil jaati
   Dekhti fauje adoo hyderi shamsheer ke haath
-  
+
   5
   Itna nazuk tha nishana ke ghalat ho jaata
   Teer ki zad pe laraz jaate jo shabbir ke haath
-  
+
   6
   Kausar o khuld ki keemat se zyada dengi
   Bech do ashke aza maadare shabbir ke haath
-  
+
   7
   Karbala jaaye wasi dil mein tamanna hai magar
   Aabru apni tamanna ki hai taqdeer ke haath
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3446
 # raw_sha256: 3376489eba0f698b36e3acbc5e243b8ed89e93cd8fdae26d1ae0f326c3c1cf9b
 ---
-
 حق کی عظمت ہے اذل سے غم شبیر کے ہاتھ
+جاؤ اور کر دو قلم کاتب تقدیر کے ہاتھ
 
 ۱
-جاؤ اور کر دو قلم کاتب تقدیر کے ہاتھ
 کہہ دو دنیا سے کوی اور ٹھکانہ ڈھونڈے
 خلد تو بک چکی اشک غم شبیر کے ہاتھ
 

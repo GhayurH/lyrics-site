@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Shabbir ka matam kiya zehra se dua li
-  
-  1
   Hum aaye nahi farshe aza se kabhi khaali
+
+  1
   Khaake dar e zehra se jabeen kya hai sajali
   Jannat hai khadi dar pe mere ban ke sawali
-  
+
   2
   Seene se sina khaynch ke farzandane nabi ne
   Laash akbar e mehroo ki kaleje se lagaali
-  
+
   3
   Hilne lagi maqtal ki zameen jab shahe deen ne
   Barchi ali akbar ke kaleje se nikaali
-  
+
   4
   Saahil pe tadapta hua chod aaya labe nehr
   Ghazi ne nazar mudh ke bhi na pani pe na daali
-  
+
   5
   Murjha gaya zehra ka chaman dashte bala may
   Maa'on ki bhari godh yahan hogayi khaali
-  
+
   6
   Lejate kahan mayyat e baysheer ko shabbir
   Ek nanhi si turbat wahin maqtal may banadi
-  
+
   7
   Saahil pe tadapta raha abbas ka laasha
   Qaime may tadapti rahi aaghosh ki paali
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=491
 # raw_sha256: ae112cb262141482c5421824abf54885ef27975ba40e26127ff11097b0a13964
 ---
-
 شبیر کا ماتم کیا زہرا سے دُعا لی
+ہم آئے نہیں فرشِ اعزائ سے کبھی خالی
 
 ۱
-ہم آئے نہیں فرشِ اعزائ سے کبھی خالی
 خاکِ درِ زہرا سے جبیں کیا ہے سجا لی
 جنت ہے کھڑی در پہ میرے بن کہ سوالی
 

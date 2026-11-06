@@ -9,141 +9,80 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Barsa falak se khoon larazne lagi zameen
-
-
-  1
-
+romanLyrics: |-
+  Barsa falak se khoon larazne lagi zameen
   Aandhi siyaah dashte bayaban mein chali
 
+  1
   Ye waqt bhi qayamat e kubra se kam nahi
-
   Jalti zameen pe aakhri sajde mein hai jabeen
-
   Baali pe maa hussain ki aur pusht pe layeen
-
   Kehti thi maa teher zara shimr teher jaa
-
   Do boond mere bacche ko pani to pila de
 
-
   2
-
   Sun kar duhaai faatahe badr o hunain se
-
   Ye dasht goonjta hai mere shor o shain se
-
   Akbar ko qatl kar ke bhi baithe na chain se
-
   Kya dushmani hai tumko mere dil ke chain se
-
   Kya bugz tumko ho gaya mere hussain se
-
   Kehti thi maa...
 
-
   3
-
   Subhe dahum se laashe uthaata raha yahan
-
   Roya hai is ghareeb ki ghurbat pe aasman
-
   Bacche shaheed ho gaye maare gaye jawan
-
   Haathon pe is ke qatl hua ek bezaban
-
   Ab is ke khoon ke pyase huwe khanjar o sina
 
-
   4
-
   Aaya jo qatlgaah mein ye zulm ka aseer
-
   Pursaane haal tha na koi aur na dastgeer
-
   Pathar kisi ne maare kisi ne sina o teer
-
   Naiza kisi ne maara chalaye kisi ne teer
-
   Ye zulm dekha rone laga khuld ka ameer
 
-
   5
-
   Gash khaake jo ghode pe jhuka mera dilafgaar
-
   Khoon behne laga aur sar e mazloom pe talwaar
-
   Sar thaam ke haathon se jo seena hua ek baar
-
   Barchi kisi layeen ke seene se hui waar
-
   Tar ho gaya lahoo se badan dil hua figaar
 
-
   6
-
   Teeron ki nazr chaand sa seena jo ho gaya
-
   In zaalimon ne seene ko teeron se bhar diya
-
   Zeen se zameen pe aane laga jab pisar mera
-
   Aaya nahi zameen pe teeron pe ruk gaya
-
   Is zulm par bhi rehm na aaya tujhe zara
 
-
   7
-
   Ay sang dil khuda ka payambar ka khauf kar
-
   Kassaab bhi zabeehon ko zibha se teher kar
-
   Itna to pani dete hai ho jaaye halq tar
-
   Zakhmon se choor chooor hai pyasa mera pisar
-
   Khanjar chalega kis tarha pyase ke halq par
 
-
   8
-
   Zainab hai ek rayt ke teele pe nauhagar
-
   Manzar ye dekhti hai sambhale huwe jigar
-
   Aankhon mein ashk lab pe buka aur barehna sar
-
   Mar jayegi wo khwahare mazloom dekh kar
-
   Tan se juda na kijiyo is waqt sheh ka sar
 
-
   9
-
   Tadpze zameen pe khaak udaate huwe hyder
-
   Aaye khadija aur payambar bhi nauhagar
-
   Saydaniyon mein bain dar e qaima pe dukhtar
-
   Nazdeek tha wo waqt ke kat jaaye sheh ka sar
-
   Zahra ne gala rakh diya bete ke galay par
 
-
   10
-
   Mazhar kahan se laaun mai wo taaqat e bayan
-
   Mai likh sakun shahadate mazloom ab yahan
-
   Hamraah mere rone lage ye saaton aasman
-
   Farhan nahi nahi ye kalaam bhi hai nauhakhwan
-
-  Bete ko qatl hote huwe dekhti thi maa'
+  Bete ko qatl hote huwe dekhti thi maa
 reciter: Farhan Ali
 # source_id: nohayonline:121a682035145beb3308
 # source_url: https://www.nohayonline.com/details_content.php?id=2375
@@ -152,11 +91,10 @@ reciter: Farhan Ali
 # source_url: https://www.ziyaraat.net/api/noha/1239
 # raw_sha256: da7705fe17ac842f7429dd6122701dce0abf766c3baaa57530116a84180d378d
 ---
-
 برسا فلک سے خون لرزنے لگی زمیں
+آندھی سیاہ دشت بیابان میں چلی
 
 ۱
-آندھی سیاہ دشت بیابان میں چلی
 یہ وقت بھی قیامت کبرا سے کم نہیں
 جلتی زمیں پہ آخری سجدے میں ہے جبیں
 بالیں پہ ماں حسین کی اور پشت پہ لعیں

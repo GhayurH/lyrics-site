@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Sawaale hurmate kaaba hai kya kare abbas
-  
-  1
   Behen hujoom mein tanha hai kya kare abbas
+
+  1
   Ye ghairaton ke liye ek sawaal hai ke nahi
   To ab sina pe teherna muhaal hai ke nahi
   Aseer zainabe kubra hai kya kare abbas
-  
+
   2
   Bharosa jin pe tha tukdon mein ab wo bat bhi chuke
   Jo thay rida ke muhafiz wo haath kat bhi chuke
   Nigaah mein koi waada hai kya kare abbas
-  
+
   3
   Waraq waraq hai badan aur qalam qalam shaane
   Ghulam par jo guzarti hai koi kya jaane
   Sina ki nok pe aaqa hai kya kare abbas
-  
+
   4
   Banun sakina ka saqqa badi tamanna thi
   Mila dun qaime se darya badi tamanna thi
   Ab aankh khoon ka darya hai kya kare abbas
-  
+
   5
   Wo jisne pyason se waada kiya tha pani ka
   Haram ko jis pe bharosa tha paasbani ka
   Kata hua wohi shaana hai kya kare abbas
-  
+
   6
   Sina ki nok se akbar ki pyaas bujh bhi chuki
   Sitam ke teer se asghar ki pyaas bujh bhi chuki
   Sakina aaj bhi tashna hai kya kare abbas
-  
+
   7
   Jo zakhm khud ko mile unki koi fikr nahi
   Magar sakina ko durre laga rahe hai layeen
   Ye zakhm to abhi taaza hai kya kare abbas
-  
+
   8
   Ajeeb hashr hai aaakhon mein aamir o nayyar
   Rula raha hai lahoo dil ko shaam ka manzar
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3601
 # raw_sha256: 7eb32651d78657cea2313f5349fd6acf1437d9aaa10f3a0e238d94c83c2a2a0a
 ---
-
 سوال حرمت کعبہ ہے کیا کرے عباس
+بہن ہجوم میں تنہا ہے کیا کرے عباس
 
 ۱
-بہن ہجوم میں تنہا ہے کیا کرے عباس
 یہ غیرتوں کے لئے ایک سوال ہے کہ نہیں
 تو اب سناں پہ ٹہرنا محال ہے کہ نہیں
 اسیر زینب کبرا ہے کیا کرے عباس

@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Din hai aza ke logon farhse aza bichao
-  
-  1
   Gham apne bhool ke ghame shahe deen manao
+
+  1
   Mazloom ka ye matam ek dars e zndagi hai
   Paigham karbala ka dunya ko phir sunao
-  
+
   2
   Zainab ka tha ye nauha ghar lut gaya hamara
   Koi nahi hamara baba madad ko aao
-  
+
   3
   Kehti thi ye sakina hoon teen din ki pyasi
   Maidan se aake ammu pani mujhe pilao
-  
+
   4
   Laila ye keh rahi hai akbar mera kahan hai
   Laashe pa jaaun kaise rasta mujhe dikhao
-  
+
   5
   Matam ki ye sadayein awaaz de rahi hai
   Ye haq ka raasta hai is raaste pe aao
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3526
 # raw_sha256: 82e86c4aa943898d5de27e3ab6d483b8b74a039c729bdd59fe9ee117f1d01737
 ---
-
 دن ہے عزا کے لوگوں فرش عزا بچھاؤ
+غم اپنے بھول کے غم شہ دیں مناؤ
 
 ۱
-غم اپنے بھول کے غم شہ دیں مناؤ
 مظلوم کا یہ ماتم ایک درس زندگی ہے
 پیغام کربلا کا دنیا کو پھر سناؤ
 

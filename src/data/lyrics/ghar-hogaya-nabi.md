@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghar hogaya nabi ka barbaad karbala mein
-  
-  1
   Mardon mein bas bache hai sajjad karbala mein
+
+  1
   Abbas hai na akbar zainab kise pukaare
   Maqtal mein bujh gaye hai ghar ke chiraag saare
   Ranj o alam se dil hai aabaad karbala mein
-  
+
   2
   Zainab ne kaise dil mein is dard ko chupaya
   Kis darja saabira thi aansu na ek bahaya
   Bhai pe kar ke sadqe aulaad karbala mein
-  
+
   3
   Zainab ko karbala mein kitne ghamon ne loota
   Saydaniyo ke zewar na mehramon ne loota
   Kya kya na guzri haye bedaad karbala mein
-  
+
   4
   Sab cheente thay zaalim bewon ki chadaron ko
   Hasrat se dekhti thi ahbaab ke saron ko
   Koi na tha jo sunta faryaad karbala mein
-  
+
   5
   Maa'on ki godiyan bhi ran mein ujad gayi hai
   Sehra mein waarison se apne bichad gayi hai
   Bas rehgayi hai baakhi ek yaad karbala mein
-  
+
   6
   Baad e hussain akhtar zainab ka tha ye noha
   Abbas hai na qasim kis ko bulaun baba
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=958
 # raw_sha256: c0fc2a1368f6e4506c5e818442609b0bf6b8fbaf1f44a19a94950be266f058a8
 ---
-
 گھر ہوگیا نبی کا برباد کربلا میں
+مردوں میں بس بچے ہیں سجاد کربلا میں
 
 ۱
-مردوں میں بس بچے ہیں سجاد کربلا میں
 عباس ہیں نہ اکبر زینب کسے پکارے
 مقتل میں بجھ گےء ہیں گھر کے چراغ سارے
 رنج و الم سے دل ہے آباد کربلا میں

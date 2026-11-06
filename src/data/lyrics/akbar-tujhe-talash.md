@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   Akbar tujhe talaash karun kis dayaar mein
-  
-  1
   Sughra tadap rahi hai tere intezaar mein
+
+  1
   Lene ko aayega mera bhaiya mujhe zaroor
   Mai jee rahi hoo ab to isi aetbaar mein
-  
+
   2
   Dekha hai jab se maahe moharram ke chand ko
   Kyun dil mera nahi hai mere ikhtiyaar mein
-  
+
   3
   Mai kaise jaa ke poochun bhala khaafile ka haal
   Dahleez par khade hai kayi gham khataar mein
-  
+
   4
   Abbas bhi nahi hai na baba hai mere paas
   Apno ko dhondti hoo mai askhon ki dhaar mein
-  
+
   5
   Hasrat bhari nigahein tadapti hai har ghadi
   Pathra gayi hai putliyan ab intezaar mein
-  
+
   6
   Mujhko khiza ke ashk rulaate hai baar baar
   Jo din guzaare saaya e fasle bahaar mein
-  
+
   7
   Pur haul ashiyan mein mujhe lag raha hai yun
   Jaise ke maut nikli hai mere shikaar mein
-  
+
   8
   Asghar ki yaad seene mein chubti hai jis tarha
   Aise chuban to hoti nahi noke khaar mein
-  
+
   9
   Sughra ke dil par girti hai reh reh ke bijliyan
   Har aarzu hai dil ki ghamon ke hisaar mein
-  
+
   10
   Kuch aur gham uthaun alaalat ke saath saath
   Ithi sakhat kahan hai dil e soghwaar mein
-  
+
   11
   Gar kuch nahi to koi dilaasa hi de mujhe
   Kuch to qaraar aaye dile beqarar mein
-  
+
   12
   Raatein guzar rahi hai madine mein is tarha
   Jaise koi tadapta ho apne mazaar mein
-  
+
   13
   Kismat ke haaton ek khilona hai aadmi
   Kuch bhi nahi hai apne raza ikhtiyaar mein
@@ -68,11 +68,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2014
 # raw_sha256: 5142345342ac6d9170a3f327135666fcee51c717035daafb1235b427a285385a
 ---
-
 اکبر تجھے تلاش کروں کس دیار میں
+صغریٰ تڑپ رہی ہے تیرے انتظار میں
 
 ۱
-صغریٰ تڑپ رہی ہے تیرے انتظار میں
 لینے کو آینگے میرا بھیا مجھے ضرور
 میں جی رہی ہوں اب تو اسی اعتبار میں
 

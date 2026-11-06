@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaha ye maa ne ke akbar manaane aayi hoo
-  
-  1
   Khafa thay laal galay se lagane aayi hoo
+
+  1
   Tumhare baad mere sar se chin gayi chadar
   Jafa e shimr e sitamgar sunaane aayi hoo
-  
+
   2
   Kashaan kashaan mujhe darbar le gaye aada
   Chalo watan mai tumhe ab manaane aayi hoo
-  
+
   3
   Hua na byaah pur armaan mar gaye akbar
   Tere janaze ko dulha banaane aayi hoo
-  
+
   4
   Mai apne ashk e musalal ki baandh kar ladiyan
   Tere janaze pe sehra chadhaane aayi hoo
-  
+
   5
   Hazaron thokare khaayi hai is zaeefi may
   Magar naseeb ka likha mitaane aayi hoo
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1457
 # raw_sha256: 827c89838ec44df12e88f5aae32465a97205b31c99c794ee82e27502aeab59a3
 ---
-
 کہا یہ ماں نے کہ اکبر منانے آی ہوں
+خفا تھے لال گلے سے لگانے آی ہوں
 
 ۱
-خفا تھے لال گلے سے لگانے آی ہوں
 تمہارے بعد میرے سر سے چھن گیء چادر
 جفاے شمر ستمگر سنانے آی ہوں
 

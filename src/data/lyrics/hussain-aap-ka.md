@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain aap ka karbobala chala amma
-  
-  1
   Badal rahi hai zamane ki ye fiza amma
+
+  1
   Mai jaanta hoo mashiyat bula rahi hai mujhe
   Mere nabi ki shariyat bula rahi hai mujhe
   Pukaarta hai mujhe dasht e nainawa amma
-  
+
   2
   Kiya tha waada jo bachpan mein wo nibhana hai
   Jigar ke tukdon se maqtal mujhe sajana hai
   Khudara kijega haq mein mere dua amma
-  
+
   3
   Palat ke aaunga ab mai kahan madine mein
   Hai paas nani ke sughra wahan madine mein
   Jalaane aayegi marqad pe wo diya amma
-  
+
   4
   Safar ko zainab e dilgeer saath jaati hai
   Wo dekho waaris e tatheer saath jaati hai
   Chinegi dasht mein ghamkaar ki rida amma
-  
+
   5
   Badal gaya hai zamane ka kis khadar manzar
   Layeen taalib e bayat hai kya kare sarwar
   Chuna ghareeb ne maqtal ka raasta amma
-  
+
   6
   Dil e hazeen pe mere ye sitam bhi hone hai
   Nehr pe bhai ke baazu qalam bhi hone hai
   Ghamon ki honi hai kuch aise inteha amma
-  
+
   7
   Faza e karbobala mein udaasiyan aayi
   Utho rasool tumhari nawasiyan aayi
   Basheer dega tadap ke yehi sada amma
-  
+
   8
   Tadap ke aalam o yazdan ye bole shaah e huda
   Na saath mera kabhi chodiyega behr e khuda
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1451
 # raw_sha256: b4739cb34584e238abf2f134bf0bf9bf1732cb8d3ef5886d36a771924fd36f6a
 ---
-
 حسین آپ کا کربوبلا چلا اماں
+بدل رہی ہے زمانے کی یہ فضا اماں
 
 ۱
-بدل رہی ہے زمانے کی یہ فضا اماں
 میں جانتا ہوں مشیعت بلا رہی ہے مجھے
 میرے نبی کی شریعت بلا رہی ہے مجھے
 پکارتا ہے مجھے دشت نینوا اماں

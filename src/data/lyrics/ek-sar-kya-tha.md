@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek sar kya tha shaheede karbala ke saamne
-  
-  1
   Rakh diye sheh ne bahattar sar khuda ke saamne
+
+  1
   Jhil-milate hi rahenge hashr tak ashk e aza
   Jhil-milate hi rahenge ye diye
   Hum ne jalaye hai hawa ke saamne
-  
+
   2
   Ay tabeeb e asr dauran kya maseehai teri
   Ay tabeeb e asr dauran khaak hai
   Teri dawa khaake shafa ke saamne
-  
+
   3
   Hashr tak wo log ruswaye zamana hogaye
   Hashr tak wo log ruswa aagaye thay
   Jo shahe karbobala ke saamne
-  
+
   4
   Cha gaya bankar jalaale hyderi darbar mein
   Cha gaya bankar jalaale khutbaye
   Zainab yazeede be-haya ke saamne
-  
+
   5
   Apna sar saahil se takrane lagi mauje furaat
   Apna sar takra jab sakina
   Mashk laayi thi chacha ke saamne
-  
+
   6
   Dekhiye kya ho ba waqte izn maa ke dil ka haal
   Dekhiye kya ho ba waqte layenge
   Qasim ko jab dulha bana ke saamne
-  
+
   7
   Teer jab asghar ne khaya ro rahe thay ashkiyan
   Teer jab asghar ne khaya aur asghar
   Has rahe thay ashkiyan ke saamne
-  
+
   8
   Le gaya sar kaat kar shabbir ka shimr e layeen
   Le gaya sar kaat kar zainabe
   Khasta jigar ke ilteja ke saamne
-  
+
   9
   Saniye zehra ke sar se us rida ko le gaye
   Saniye zehra ke sar se dono aalam
   Sard goo thay jis rida ke saamne
-  
+
   10
   Maine paayi sar balandi maine paaya hai urooj
   Maine paayi sar balandi sar jhuka
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=645
 # raw_sha256: 8776d328e5bd9b12df602c9c34e5481d706ccb668cc8507ec0e0bfad8277cd80
 ---
-
 اک سر کیا تھا شہیدِ کربلا کے سامنے
+رکھ دیئے شہ نے بہتر سر خُدا کے سامنے
 
 ۱
-رکھ دیئے شہ نے بہتر سر خُدا کے سامنے
 جھلملاتے ہی رہیں گے حشر تک اشکِ اعزا
 جھلملاتے ہیں رہیں گے یہ دیئے
 ہم نے جلائے ہیں ہوا کے سامنے

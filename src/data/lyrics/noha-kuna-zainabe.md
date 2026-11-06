@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Nauha kuna hai zainabe muztar ali ke baad
-  
-  1
   Kohraam hai machaa hua ghar ghar ali ke baad
+
+  1
   Mehraab ghamzada hai namazi kidhar gaya
   Veraan hai rasool ka mimbar ali ke baad
-  
+
   2
   Manzar ubhar ke aa gaya bazaar e shaam ka
   Zainab ke sar se jab giri chadar ali ke baad
-  
+
   3
   Shehzaadi ban ke aayi thi kufe mein kal yehi
   Dar dar phiri hai zainabe muztar ali ke baad
-  
+
   4
   Jo sar tha bosa gaahe ali o mohamadi
   Naize pe chad gaya hai wohi sar ali ke baad
-  
+
   5
   Kuch khoon e murtaza ki hai kuch karbala ki hai
   Surkhi jo chaa gayi hai falak par ali ke baad
-  
+
   6
   Ro ro ke kufa waalon se kehte thay ye ali
   Zainab ko koi maare na pathar ali ke baad
-  
+
   7
   Asghar sa naunehaal bhi khoon mein naha gaya
   Ujda hai is tarha se bhara ghar ali ke baad
-  
+
   8
   Guzra hai ye bhi saaneha is ghar pe ay zafar
   Zehra ki betiyan hai khule sar ali ke baad
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1690
 # raw_sha256: f8ecbf0d471b69c3ccd31af7698a1fbc5578eda258203df67bce78e42906a4b5
 ---
-
 نوحہ کناں ہے زینب مضطر علی کے بعد
+کہرام ہے مچا ہوا گھر گھر علی کے بعد
 
 ۱
-کہرام ہے مچا ہوا گھر گھر علی کے بعد
 محراب غمزدہ ہے نمازی کدھر گیا
 ویران ہے رسول کا ممبر علی کے بعد
 

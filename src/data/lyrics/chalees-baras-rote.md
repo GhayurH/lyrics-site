@@ -9,65 +9,41 @@ poet: "Anees"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Chalees baras rote na kyun abid e muztar
-
-
-  1
-
+romanLyrics: |-
+  Chalees baras rote na kyun abid e muztar
   Ta umr sameina raha aankhon mein wo manzar
 
+  1
   Dekha tha inhi aankhon se ghar apna ujadta
-
   Be goro kafan laashe shaheedo ke zameen par
 
-
   2
-
   Phirta hi raha aankhon mein bhai ka wo laasha
-
   Barchi thi kaleje mein ani seene ke baahar
 
-
   3
-
   Guzre thay kahan ranj bahot poocha kisi ne
-
   As shaam hi as shaam kaha sar ko jhuka kar
 
-
   4
-
   Daawat koi deta to ye farmate thay sajjad
-
   Gar mujhko bulana hai to majlis tu bapa kar
 
-
   5
-
   Dekhe thay jo ashoor ko bujhte hue sholay
-
-  Ta umr dhuan uth''ta raha aahon mein dhal kar
-
+  Ta umr dhuan uth'ta raha aahon mein dhal kar
 
   6
-
   Kya guzri dile sayyede sajjad pe us dam
-
   Jab loota gaya bibiyon ka makhna o chadar
 
-
   7
-
   Kis mard mein hai hausla juz abid e bemaar
-
   Maa behno ko jo dekhle balwe mein khule sar
 
-
   8
-
-  Har ek nafas girya tha ya tha ata''ay mabood
-
-  Ek lamha bhi raahat na anees aayi meinassar'
+  Har ek nafas girya tha ya tha ata'ay mabood
+  Ek lamha bhi raahat na anees aayi meinassar
 # source_id: nohayonline:ffe6e1118c82ba6c9ae9
 # source_url: https://www.nohayonline.com/details_content.php?id=701
 # raw_sha256: ac517b9b2a87d9e87a11e5de93d9327e95320587eb31da0dda91f97f3747bda4
@@ -75,11 +51,10 @@ romanLyrics: 'Chalees baras rote na kyun abid e muztar
 # source_url: https://www.ziyaraat.net/api/noha/1362
 # raw_sha256: cfd11f7a6c819aa35a1953eb404abfaa203120eb771a01d8e3900e11ea1f7563
 ---
-
 چالیس برس روتے نہ کیوں عابدِ مضطر
+تا عمر سمایا رہا آنکھوں میں وہ منظر
 
 ۱
-تا عمر سمایا رہا آنکھوں میں وہ منظر
 دیکھا تھا انہیں آنکھوں سے گھر اپنا اُجڑتا
 بے گورو کفن لاشے شہیدوں کے زمیں پر
 

@@ -8,72 +8,45 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Mal li hai karbala ki jabeen par utha ke khaak
-
-
-  1
-
+romanLyrics: |-
+  Mal li hai karbala ki jabeen par utha ke khaak
   Poochega mujhse qabr mein ab koi aake khaak
 
+  1
   So jaaunga sukoon se phoolon ke sej par
-
   Farshe lehed pe karbobala ki bicha ke khaak
 
-
   2
-
   Wabasta jo batool ke dar se nahi usay
-
   Haath aayega rasool ke rauze pe jaa ke khaak
 
-
   3
-
   Deta wo kya rasool ki beti ka haq bhala
-
   Mayyat ko de saka jo na uski utha ke khaak
 
-
   4
-
   Allah wo rasool ko kya moo dikhayega
-
   Jisne kiya batool ke dar ko jala ke khaak
 
-
   5
-
   Poochega aake aakhri beta batool ka
-
   Bechi hai kisne turbate sheh ki saja ke khaak
 
-
   6
-
   Chaa kar raha hussain dil e kayenat par
-
   Harbein tamaam hogaye ahle jafa ke khaak
 
-
   7
-
   Jab baade qatle shaah saron se chini rida
-
   Dhaampa saron ko ahle haram ne uda ke khaak
 
-
   8
-
   Teer e sitam chala ke abhi dil bhara nahi
-
   Kya dhoondta hai bine kaahil hata ke khaak
 
-
   9
-
   Behno se bhai maaon se bacche bichad gaye
-
-  Ghar ho gaya batool ka is ran mein aake khaak'
+  Ghar ho gaya batool ka is ran mein aake khaak
 reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:8b926a58134274acc7df
 # source_url: https://www.nohayonline.com/details_content.php?id=3226
@@ -82,11 +55,10 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_url: https://www.ziyaraat.net/api/noha/2884
 # raw_sha256: 28b0c83f4b6e9862d4018a0f8d58bb3c7e2758ac767a5565e204c78dc493a720
 ---
-
 مل لی ہے کربلا کی جبیں پر اٹھا کے خاک
+پوچھے گا مجھ سے قبر میں اب کوئی آکے خاک
 
 ۱
-پوچھے گا مجھ سے قبر میں اب کوئی آکے خاک
 سو جاؤں گا سکوں سے پھولوں کے سیج پر
 فرش لحد پہ کربوبلا کی بچھا کے خاک
 

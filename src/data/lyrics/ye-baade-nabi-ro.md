@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye baad e nabi ro ke kehti thi zehra
-  
-  1
   Ke ek haath pehlu se uthta nahi hai
+
+  1
   Mere baba tum jo sidhaare jahan se
   Meri zindagi hai ibaarat fughan se
   Ye gham koi kam to nahi mera kehna
-  
+
   2
   Jinhe aap kehte thay umnat hai meri
   Unhone hi mujhko ghadi ye dikhayi
   Mere lab pe har waqt rehta hai nauha
-  
+
   3
   Bohat khoob ajre risalat hai paaya
   Hai ek haath masroof matam mein baba
   Mai kaise sambhalungi apna kaleja
-  
+
   4
   Wohi log mohsin ke qaatil hai baba
   Ke jin ke liye aap thay misle saaya
   Wohi log dete hai ab mujhko taana
-  
+
   5
   Sajega jo bazaar roz e jaza ka
   Khuda mujhse poochega ehwaal mera
   Ye hi marsiya hoga us din bhi mera
-  
+
   6
   Bulaya gaya mujhko darbar mein bhi
   Layeeno ne jhutlayi meri gawahi
   Aur ab mujhpe ye bhi sitam ek toota
-  
+
   7
   Mera dil bhi aur mera ghar bhi jalaya
   Mai binte payambar hoo ye bhi na socha
   Diya kaisa zakhm ye ummat ne baba
-  
+
   8
   Jinhone diye hai mujhe zakhm itne
   Yehi kal jalayenge zainab ke qaime
   To zainab ko kaise mai doongi sahara
-  
+
   9
   Kahe mujhse ay kaash zainab ki maadar
   Rahe shadman is jahan mein tu mazhar
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1581
 # raw_sha256: 1f07681d53b02ce8dde44acb354c33a7247af80d5ddaa32f426dbf2bba618ecb
 ---
-
 یہ بعد نبی رو کے کہتی تھی زہرا
+کہ اک ہاتھ پہلو سے اٹھا نہیں ہے
 
 ۱
-کہ اک ہاتھ پہلو سے اٹھا نہیں ہے
 میرے بابا تم جو سدھارے جہاں سے
 میری زندگی ہے عبارت فغاں سے
 یہ غم کوئی کم تو نہیں میرا کہنا

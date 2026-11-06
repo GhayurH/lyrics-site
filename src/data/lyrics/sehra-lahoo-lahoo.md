@@ -10,38 +10,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Bikhre pade hai laashe sehra lahoo lahoo hai
-  
-  1
   Dashte bala mein sheh ka sajda lahoo lahoo hai
+
+  1
   Lashkar yazeediyon ka qaime jala raha hai
   Mehboobe kibriya ka wo dil dukha raha hai
   Insaniyat ka dekho chehra lahoo lahoo hai
-  
+
   2
   Shehzadiyan falak ki qaidi bani hui hai
   Aur chadarein saron se inke chini hui hai
   Ba-parda bibiyon ka parda lahoo lahoo hai
-  
+
   3
   Jis dam kate thay baazu abbase ba-haya ke
   Mashk o alam lahoo mein doobe thay bawafa ke
   Pyason ki tishnagi par darya lahoo lahoo hai
-  
+
   4
   Ek shab ki jo byaahi deti rahi duhaai
   Kaisi khushi mili jo ek pal na raas aayi
   Qasim ka haye ran mein sehra lahoo lahoo hai
-  
+
   5
   Jab ran mein aaye hyder har bibi thi hazeena
   Kehti thi dada jaan se ro ro ke ye sakina
   Chipka hua badan se kurta lahoo lahoo hai
-  
+
   6
   Ye cheekhti fazayein deti hai ye sadayein
   Hai khaak o khoon ki sar par sadaat ke ridayein
   Aulaad e mustafa ka rutba lahoo lahoo hai
-  
+
   7
   Dushwaar raaste hai manzil kathan hai saari
   Zakhmon se natawan ke taaza lahoo hai jaari
@@ -50,11 +50,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2634
 # raw_sha256: 1822506ccb893a881d53193b71a33159c5e0bf27e3d0f8596e27edb1c156a43d
 ---
-
 بکھرے پڑے ہیں لاشے صحرا لہو لہو ہے
+دشتِ بلا میں شہ کا سجدہ لہو لہو ہے
 
 ۱
-دشتِ بلا میں شہ کا سجدہ لہو لہو ہے
 لشکر یزیدیوں کا خیمے جلا رہا ہے
 محبوب کبریا کا وہ دل دکھا رہا ہے
 انسانیت کا دیکھو چہرہ لہو لہو ہے

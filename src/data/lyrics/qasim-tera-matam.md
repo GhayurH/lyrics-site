@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Itihaas ke panno par qasim tera matam hai
-  
-  1
   Karbobala ke ban mein qasim tera matam hai
+
+  1
   Ahmed ke nawase ho shabbar ke dulaare ho
   Ek raaj dulaare ho farwa ke jiyale ho
   Tareekh ke honton pe qasim tera matam hai
-  
+
   2
   Shadi ke ewaz ran mein chayi hai ghata gham ki
   Taqdeer mein dulha ke aayi hai khaza ban ke
   Kis aalam e ghurbat mein qasim tera matam hai
-  
+
   3
   Sandal hai na mehendi hai kangna hai na sehra hai
   Bas khoon mein ghaltan sa naushaah ka laasha hai
   Rote hai shahe waala qasim tera matam hai
-  
+
   4
   Roti hai teri dulhan ek roz ki wo byahi
   Khaliq ne muqaddar mein kya shadi hai rachayi
   Kubra teri kismat mein qasim tera matam hai
-  
+
   5
   Shabbir ke haathon pe qasim tera laasha hai
   Kubra ki zindagi mein bachpan se andhera hai
   Namoose mustafa mein qasim tera matam hai
-  
+
   6
   Dafna'un tumhe kaise tukde tane athar hai
   Maut aaye na kyun mujhko ab khaak zindagi hai
   Sadqe ho teri maadar qasim tera matam hai
-  
+
   7
   Zainab ka tha ye girya tanha hai shahe waala
   Hasrat se uth raha hai qasim tera janaza
   Zehra ke gharana mein qasim tera matam hai
-  
+
   8
   Nazrana azeezi ka arif ki zabani hai
   Mil jaye hame bakshish nauhe to bahana hai
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1337
 # raw_sha256: 0982800b826875697d4f1da5da1f559063b1fad1a3d838ec520c481d53e2ce58
 ---
-
 اتہاس کے پنوں پر قاسم تیرا ماتم ہے
+کربوبلا کے بن میں قاسم تیرا ماتم ہے
 
 ۱
-کربوبلا کے بن میں قاسم تیرا ماتم ہے
 احمد کے نواسے ہو شبر کے دلارے ہو
 اک راج دلارے ہو فروا کے جیالے ہو
 تاریخ کے ہونٹوں پہ قاسم تیرا ماتم ہے

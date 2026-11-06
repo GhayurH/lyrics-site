@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Karbala hogi jo barpa to qayamat hogi
-  
-  1
   Dasht mein aayengi zehra to qayamat hogi
+
+  1
   Ran mein akbar se tadpte huwe bole sarwar
   Tere seene mein jo paywast hai mere dilbar
   Maine khayncha jo ye naiza to qayamat hogi
-  
+
   2
   Sheh ne dekha tha bhatije ki taraf kuch aise
   Aankhon aankhon mein hi qasim se kaha ho jaise
   Tu ne taweez jo khola to qayamat hogi
-  
+
   3
   Baareha shaah ne abbas ko roka hoga
   Aisa lagta hai ye shabbir ne socha hoga
   Chid gayi mashk e sakina to qayamat hogi
-  
+
   4
   Hurmala ne jo kamaan dashte bala mein khaynchi
   Bas yehi soch ke bano pe qayamat guzri
   Teer asghar ne jo khaaya to qayamat hogi
-  
+
   5
   Shimr ko dekh ke zehra ne pukaara zaalim
   Teen shab roz ka pyasa hai teher ja zaalim
   Tu ne khanjar jo chalaya to qayamat hogi
-  
+
   6
   Dekh kar fauje yazeedi ko pukari zehra
   Seena e shaah pe asghar ka hai be sar laasha
   Tum ne ghodon se jo raundha to qayamat hogi
-  
+
   7
   Bhai ki laash pe royegi behen ye keh kar
   Kaise mai tujhko kafan doo nahi sar par chadar
   Waqt jis waqt ye aaya to qayamat hogi
-  
+
   8
   Har azadaar ko majlis mein bata do yasir
   Sayyeda aayi hhai kuch ashq e aza ki khaatir
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1655
 # raw_sha256: c877f56823adb37e4fa10dcf10c9be1f3c85708a5766da45b252d21ab200218a
 ---
-
 کربلا ہوگی جو برپا تو قیامت ہو گی
+دشت میں آے نگی زہرا تو قیامت ہوگی
 
 ۱
-دشت میں آے نگی زہرا تو قیامت ہوگی
 رن میں اکبر سے تڑپتے ہوی بولی سرور
 تیرے سینے میں جو پیوست ہے میرے دلبر
 میں نے کھینچا جو یہ نیزہ تو قیامت ہوگی

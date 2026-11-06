@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas ka gham hum karte hai
-  
-  1
   Hum apna lahoo zam karte hai
+
+  1
   Darya pe gaya laane pani
   Nazron mein sakina thi pyasi
   Abbas e dilawar sher e jari
   Oonchayi pe parcham karte hai
-  
+
   2
   Hai sher tarayi par biphra
   Ghazi ko koi kya rokega
   Darya pe wo qabza kar ke kaha
   Jo chahenge wo hum karte hai
-  
+
   3
   Mashkeeza chida tooti hai aas
   Pani nahi pahuncha hai ehsaas
   Sharminda bhatiji se abbas
   Ehsaas ye paiham karte hai
-  
+
   4
   Ghode se gira abbas e jari
   Aaqa lo khabar aakar uski
   Sheh bole kamar tooti meri
   Sheh rote hai matam karte hai
-  
+
   5
   Qaime mein alam laaye sarwar
   Sab bibiyan kehti hai ro kar
   Ab zulm o sitam honge hum par
   Saqqe ka sabhi gham karte hai
-  
+
   6
   Aaya hai alam ammu hai kahan
   Maangungi na pani aao yahan
   Lab par ye sakina ki hai fughan
   Shikwa na yahan hum karte hai
-  
+
   7
   Chauda sau baras ke baad abhi
   Lagta ha ke gham kul hai yehi
   Rote hai malayek aur nabi
   Har aankh wo pur nam karte hai
-  
+
   8
   Dekho to zara matam ka asar
   Har saal se hota hai bad kar
   Yaad aata hai karbal ka manzar
   Matam na kabhi kam karte hai
-  
+
   9
   Hai aap ke baad ye haal chacha
   Durre wo tamachon ka lagna
   Ro ro ke sakina ne ye kaha
   Is tarha basar hum karte hai
-  
+
   10
   Abbas ke ay matamdaron
   Kismat pe sabhi tum naaz karo
@@ -76,11 +76,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3254
 # raw_sha256: d64078b17c54d32dd3d8db6091a542cf93182b73113cc37c7edbd074f6dea8f4
 ---
-
 عباس کا غم ہم کرتے ہیں
+ہم اپنا لہو زم کرتے ہیں
 
 ۱
-ہم اپنا لہو زم کرتے ہیں
 دریا پہ گیا لانے پانی
 نظروں میں سکینہ تھی پیاسی
 عباس دلاور شیر جری

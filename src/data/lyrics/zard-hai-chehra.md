@@ -10,20 +10,20 @@ aliases: []
 published: false
 romanLyrics: |-
   Zard hai chehra naheef o zaar hoo
-  
-  1
   Matam e sajjad may beemar hoo
+
+  1
   Kehti thi zainab duhaai ya ali
   Sar barehna mai sare bazaar hoo
-  
+
   2
   Kehte thay abid uthe kyunkar qadam
   Ay sitamgaron naheef o zaar hoo
-  
+
   3
   Dum ba dum khayncho na mere haath ko
   Paon bad sakte nahi nachaar hoo
-  
+
   4
   Mai piyada tum ho ghodon par sawar
   Kis tarha daudun bohut beemar hoo
@@ -31,11 +31,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1255
 # raw_sha256: 393aad0d2e287519dc6e260101126c39563680ea4056db866606b49ca3ee3bb9
 ---
-
 زرد ہے چہرہ نحیف و زار ہوں
+ماتم سجاد میں بیمار ہوں
 
 ۱
-ماتم سجاد میں بیمار ہوں
 کہتی تھی زینب دہائی یا علی
 سر برہنہ میں سر بازار ہوں
 

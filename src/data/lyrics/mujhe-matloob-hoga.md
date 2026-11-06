@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Mujhe matloob hoga jaam lena jab bhi kausar ka
-  
-  1
   Salaam aisa padhunga dil bhar aayega payambar ka
+
+  1
   Zameen e karbala kya poochna tere muqaddar ka
   Hai tujh mein aaj tak mehfooz sarmeina payambar ka
-  
+
   2
   Kamar kyun kham na ho dil gham se toote kyun na sarwar ka
   Alambardar aakhir bhai tha baazu barabar ka
-  
+
   3
   Labe darya alambardar bhi kaam aagaya aakhir
   Basab allah haafiz hazrate zainab ki chadar ka
-  
+
   4
   Teri ghairat ko aakhir kya hua kuch tu ne socha bhi
   Bhari mehfil mein kaisa tazkira zainab ki chadar ka
-  
+
   5
   Ghadi bhar bhi rabab aaram se sone nahi paati
   Wo jab karwat badalti hai khayal aata hai asghar ka
-  
+
   6
   Saeed zaar par jab bhi koi uftaab padti hai
   Bas ek aadat si hai wo naam leta hai hyder ka
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2027
 # raw_sha256: 9ad04f5001ee1f5ddcfdec285505671730a994a774cdc9388c1f3ade937cf8db
 ---
-
 مجھے مطلوب ہوگا جام لینا جب بھی کوثر کا
+سلام ایسا پڑھوں گا دل بھر آے گا پیمبر کا
 
 ۱
-سلام ایسا پڑھوں گا دل بھر آے گا پیمبر کا
 زمین کربلا کیا پوچھنا تیرے مقدر کا
 ہے تجھ میں آج تک محفوظ سرمایہ پیمبر کا
 

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa kehti thi asghar tujhe seene mein chupalun
-  
-  1
   Barsaat hai teeron ki tujhe kaise bachalun
+
+  1
   Garmi ke hai ayyaam kahin saaya nahi hai
   Is haal mein kaise mai tujhe ghar se nikalun
-  
+
   2
   Kya naara e hal min ki sada ne kiya bechain
   Tu jaata hai aanchal mai tere sar pe to daalun
-  
+
   3
   Aaghosh ko veeran meri kar ke na jao
   Roothe ho tumhe loriyan de de ke manalun
-  
+
   4
   Pani ke liye tum to meri jaan thay beta
   Tehro zara abbas ko darya se bulalun
-  
+
   5
   Ye ahle jafa hai inhe insan na samajhna
   Kis tarha se mai apne kaleje ko sambhalun
-  
+
   6
   Maidan mein gaya jo bhi palat kar nahi aaya
   Ek baar tujhe aur mai jhoola to jhulalun
-  
+
   7
   Kangi karun baalon mein tera kurta badaldun
   Mai dulha bana kar tujhe armaan nikalun
-  
+
   8
   Rehaan ne nauha ali asghar ka likha hai
   Is nauhe ko farhan mai majlis mein sunalun
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3436
 # raw_sha256: 648699e260c2200454afa2ec86cbc07b43a35d8ea55f176c2adf5387888d8c2f
 ---
-
 ماں کہتی تھی اصغر تجھے سینے میں چھپا لوں
+برسات ہے تیروں کی تجھے کیسے بچا لوں
 
 ۱
-برسات ہے تیروں کی تجھے کیسے بچا لوں
 گرمی کے ہیں ایام کہیں سایہ نہیں ہے
 اس حال میں کیسے میں تجھے گھر سے نکالوں
 

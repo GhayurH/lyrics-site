@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Sheh kehte thay ye haath hatao akbar
-  
-  1
   Barchi kahan khaayi hai dikhao ali akbar
+
+  1
   Afsos hamein laash tumhari hai uthaani
   Hum to ye jo chaaha tha mere yusuf e saani
   Maa baap ka tum laasha uthao ali akbar
-  
+
   2
   Ye zakhm nahi pehlu e maadar se to bad kar
   Ghabrao na hum sabr karenge mere dilbar
   Baba se na seene ko chupao ali akbar
-  
+
   3
   Baazu se pakad kar hamein ghurbat yahan laayi
   Hum ne jo uthaani thi aziyat wo uthaayi
   Sharminda na ho nazrein milao ali akbar
-  
+
   4
   Jeene nahi degi tumhe zaalim ki ye barchi
   Maqtal mein tumhare zara bemaar behan ki
   Kuch dayr to baatein kare aao ali akbar
-  
+
   5
   Jo dil mein thay zainab ke wo armaan badhaloon
   Is khoon bhare chehre pe mai sehra to sajaloon
   Tehro abhi dunya se na jao ali akbar
-  
+
   6
   Maine to sada di thi wo uth'ta nahi gulfaam
   Nazdeek hai ay laal mere asr ka hangaam
   Ghazi ko azan de kar bulaao ali akbar
-  
+
   7
   Tum hichkiyan lete ho nikalta hai mera dam
   Baazu bhi shikasta huwe kaise karun matam
   Mai kya karun ghurbat mein batao ali akbar
-  
+
   8
   Sheh bolay takallum ye qayamat ki ghadi thi
   Dekha nahi jaata meri maa kab se khadi hai
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2098
 # raw_sha256: f1dd853758bf2d36c167e7ae54adfd6c2abdce97011cd627ead2280fd11aad5f
 ---
-
 شہ کہتے تھے یہ ہاتھ ہٹاؤ علی اکبر
+برچھی کہاں کھای ہے دکھاؤ علی اکبر
 
 ۱
-برچھی کہاں کھای ہے دکھاؤ علی اکبر
 افسوس ہمیں لاش تمہاری ہے اٹھانی
 ہم تو یہ جو چاہا تھا میرے یوسف ثانی
 ماں باپ کا تم لاشہ اٹھاؤ علی اکبر

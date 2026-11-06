@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Darya se koi jaa kar ghazi ko bula laye
-  
-  1
   Aisa na ho ghurbat may ghar zehra ka lut jaye
+
+  1
   Ek baap zaeefi ke aalam may akela hai
   Aur sher se bete ke laashe ko uthaana hai
   Koi to sahara de lilaah koi aaye
-  
+
   2
   Rukh kar ke suye darya haathon se kamar thaame
   Akbar ke janaze par sheh kehte thay ro ro ke
   Kya baat hui ab tak abbas nahi aaye
-  
+
   3
   Hai laakhon adoo ran may aur sibte nabi tanha
   Zakhmi hai bahot zakhmi pyasa hai bahot pyasa
   Mazloom ki gardan par shamsheer na chal jaye
-  
+
   4
   Zainab ka jari bhai maara gaya maqtal may
   Ghabrayi hui behna insaano ke jangal may
   Ek ek se ro ro kar ye kehti rahi haye
-  
+
   5
   Mazloomo ke qaimo may ab gham ka basera hai
   Kal tak thi jahan raunak ab gehra andhera hai
   Shaam aagayi ghurbat ki tareek huwe saaye
-  
+
   6
   Sadaat ke qaimon ko hai ghere huwe shole
   Kehti hai nabi zaadi ghabrayi hui ro ke
   Ghar lut gaya is ban may chadar bhi na chin jaye
-  
+
   7
   Haalat hai ajab gohar masoom sakina ki
   Khoon behta hai kaano se lagte hai tamache bhi
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1922
 # raw_sha256: ec8a37b38c5f289e38b8e1eabc289b71edce4d116572bb8ba3a7c974d4cca3fd
 ---
-
 دریا سے کوئی جا کر غازی کو بلا لاے
+ایسا نہ ہو غربت میں گھر زہرا کا لٹ جاے
 
 ۱
-ایسا نہ ہو غربت میں گھر زہرا کا لٹ جاے
 اک باپ ضعیفی کے عالم میں اکیلا ہے
 اور شیر سے بیٹے کے لاشے کو اٹھانا ہے
 کوئی تو سہارا دے لللہ کوی آے

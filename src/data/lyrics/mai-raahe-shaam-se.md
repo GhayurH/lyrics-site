@@ -9,58 +9,37 @@ poet: "Mazhar"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'May raah-e-Shaam se guzri hoon be rida baba
-
-
-  1
-
+romanLyrics: |-
+  May raah-e-Shaam se guzri hoon be rida baba
   Aseer-e-zulm hoon roti hoon be rida baba
 
+  1
   1. Tha bekafan tera islam mai rida dekar
-
   Bala ke dasht se, aayi hoon bay rida baba
 
-
   2
-
   2. Sitam garoon ne sataya hai taziyaano se
-
   Jo thak ke raah mein, sooyi hoon bay rida baba
 
-
   3
-
   3. Ado jo durre lagata hai mere abid ko
-
   May dil ko tham kar, bhaithi hoon bay rida baba
 
-
   4
-
   4. Lahoo bahata hai ankhon se abid-e-muztar
-
   May jab bhi kantoo pe, chalti hoon be rida baba
 
-
   5
-
   5. Safar ki khak ne balon ka kar liya parda
-
   May is ke baad bhi, phir-thi hoon bay rida baba
 
-
   6
-
   Bichadne waalon ke matam mein raat din guzre
-
   Har ek naam pe tadpi hoo berida baba
 
-
   7
-
   6. Meri aseeri pay MAZHER ne yeh likha nawha
-
-  Har ek lafz pe, tarrpi hoon bay rida baba'
+  Har ek lafz pe, tarrpi hoon bay rida baba
 # source_id: nohayonline:bbf8f78df057e4afffc8
 # source_url: https://www.nohayonline.com/details_content.php?id=672
 # raw_sha256: 6629b27eb73c6b633566d8e816fee045634d40649b7b978c54b86a85e7c8901c
@@ -69,11 +48,10 @@ romanLyrics: 'May raah-e-Shaam se guzri hoon be rida baba
 # raw_sha256: 8345334ec2c4b26e5cf3522c0a313983618de30b53f52dff619b32d87df93133
 # added_stanza_source: roman:kalam-nohayonline-bbf8f78df057e4afffc8
 ---
-
 میں راہِ شام سے گزری ہوں بے ردا بابا
+اسیرِ ظلم ہوں (2) روتی ہوں بے ردا بابا
 
 ۱
-اسیرِ ظلم ہوں (2) روتی ہوں بے ردا بابا
 تھا بے کفن تیرا اسلام میں ردا دے کر
 بَلا کے دشت میں (2) آئی ہوں بے ردا بابا
 

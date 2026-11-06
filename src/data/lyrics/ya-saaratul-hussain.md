@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Labbaik labbaik labbaik labbaik
-  
-  1
   Ya saraatul hussain
+
+  1
   Gardon se aa rahi hai ye awaaze jibraeel
   Be-gor o be-kafan hai wo islam ka qateel
   Zainab hai berida to nahi zakhm ki sabeel
   Ghurbat mein maara daala hai zehra ke noore ain
-  
+
   2
   Abbase naamwar ke lahoo se dhula hua
   Ab bhi hussainiyat ka alam hai khula hua
   Niklo gharon se matame sarwar bapa hua
   Hone se paaye kam kabhi awaaze shor o shain
-  
+
   3
   Dunya pe gir pada alam e sher e kirdigaar
   Barchi sitam ki hogayi akbar ke dil ke paar
   Umme rabab ghash mein sakina hai beqaraar
   Asghar ko leke aa gaye maidan mein hussain
-  
+
   4
   Allah re wo shimr ka khanjar wo sheh ka sar
   Hilne lagay thay khaana e kaabe ke baam o dar
   Dharti to kya falak ka bhi tukde hua jigar
   Sakte mein maghrabain thay sakte mein mashraqain
-  
+
   5
   Aale rasool qaid huwe wa musibata
   Karbobala se lute ke chale wa musibata
   Durre laga rahe hai layeen wa musibata
   Paamaliyon ki zad pe hai zehra k noor e ain
-  
+
   6
   Mauje furaat sharm se daaman bhigo gayi
   Baali sakina hichkiyan le le ke sogayi
   Qaime jale ridayein chini shaam aa gayi
   Qabre nabi hilaste hai saydaniyon ke bain
-  
+
   7
   Nasir hussain nusrate shabbir farz hai
   Bachon pe azme asghar e baysheer farz hai
@@ -58,11 +58,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2122
 # raw_sha256: e119e8e3bb6d39493578186c040d5faaeb488a0c56888b3423748bb821eac381
 ---
-
 لبیک لبیک لبیک لبیک
+یا ثارت الحسین
 
 ۱
-یا ثارت الحسین
 گردوں سے آ رہی ہے یہ آواز جبرییل
 بے گور و بے کفن ہے وہ اسلام کا قتیل
 زینب ہے بے ردا تو نہیں زخم کی سبیل

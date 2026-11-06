@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Mehdi ke sar se saaya baba ka uth gaya hai
-  
-  1
   Ranj o alam mein dooba narjis ka laadla hai
+
+  1
   Mehdi ke sar pe aayi dastaare askari hai
   Bar masnade imamat farzand aakhri hai
   Ya rab ho khair iski faryaad e fatema hai
-  
+
   2
   Sookhe labon se ghash mein pani talab kiya jo
   Honton se jaam kyunkar wapas palat diya wo
   Kya yaad askari ko abbas aa gaya hai
-  
+
   3
   Khaak e yateemi sar mein sin paanch saal logon
   Ghaibat mein jaa raha hai narjis ka laal logon
   Noor e imam ojhal nazron se ho raha hai
-  
+
   4
   Aayi hai fauj ghar se mehdi ko aaj lene
   Dar fatema ka khola phir thokare laga ke
   Haathon mein taygh koi sholay liye khada hai
-  
+
   5
   Kis aabru se beta mayyat utha raha hai
   Khud baap ka janaza mehdi padha raha hai
   Zehra ko yaad aayi abid ki karbala hai
-  
+
   6
   Mehdi ko koi pursa deta galay laga ke
   Ghaibat mein askari ki farshe aza bicha ke
   Abbas ko kabhi wo zainab ko dhoondta hai
-  
+
   7
   Kitna ilaahi uski ghaybat mein tool hoga
   Parde mein kab talak wo narjis ka phool hoga
   Izne zahoor ho ab dil ki yehi dua hai
-  
+
   8
   Ho bheed phir khadi wo kufa ke raaston par
   Pathar baras rahe ho akbar ke qaatilon par
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1270
 # raw_sha256: e33f7cf9d0e26efd0108a98406a470a9caab605488f595ae7b3cd623439f8af1
 ---
-
 مہدی کے سر سے سایہ بابا کا اٹھ گیا ہے
+رنج و الم میں ڈوبا نرجس کا لاڈلا ہے
 
 ۱
-رنج و الم میں ڈوبا نرجس کا لاڈلا ہے
 مہدی کے سر پہ آئی دستارِ عسکری ہے
 بر مسندِ امامت فرزند آخری ہے
 یا رب ہو خیر اسکی فریادِ فاطمہ ہے

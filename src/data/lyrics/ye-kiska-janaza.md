@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek hashr ka hai manzar ye kiska janaza hai
-  
-  1
   Sadaat hai nauhagar ye kiska janaza hai
+
+  1
   Rukh peet'te hai ro kar jibreel e ameen apna
   Ye kis ke janaze par padte hai nabi nauha
   Zehra bhi hai nange sar ye kiska janaza hai
-  
+
   2
   Mastoor ho ya bacche rote hai bilakte hai
   Zainab ki fughan sun kar kaunain larazte hai
   Rote hai lahoo sarwar ye kiska janaza hai
-  
+
   3
   Abbas ki haalat ka kis tarha bayan hoga
   Kulsoom ka dil ab to qaabu mein nahi aata
   Sar peet'te hai shabbar ye kiska janaza hai
-  
+
   4
   Ay kul ke maseeha yun chode na hamein tanha
   Murghabiyan padti hai ro ro ke yehi nauha
   Pur dard hai ye manzar ye kiska janaza hai
-  
+
   5
   Kohraam hai kufe mein bewaon ke naale hai
   Honton pe yateemon ke faryadon ke chaale hai
   Hai sogh bapa ghar ghar ye kiska janaza hai
-  
+
   6
   Ye waqt e qayamat hai gehnaye hai sab taare
   Khursheed e falak apni tanveer sameinte hai
   Aur shak hai mahe anwar ye kiska janaza hai
-  
+
   7
   Quran tadapta hai tafseer tadapti hai
   Tanzeel hai nauhagar tehreer tadapti hai
   Jibreel bata aa kar ye kiska janaza hai
-  
+
   8
   Karti hai azaan girya rota hai musalla bhi
   Mehraab e talaatum mein majrooh hai sajda bhi
   Barsaata hai khoon mimbar ye kiska janaza hai
-  
+
   9
   Ay dayam o yazdan ek mehshar hai sar e kufa
   Har aankh mein hai aansu har lab pe hai ye nauha
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2526
 # raw_sha256: 8ecd30234088bb1b9d9cecc67744375c5c2abc7e969a404aaa6c2074d076a601
 ---
-
 ایک حشر کا ہے منظر یہ کس کا جنازہ ہے
+سادات ہے نوحہ گر یہ کس کا جنازہ ہے
 
 ۱
-سادات ہے نوحہ گر یہ کس کا جنازہ ہے
 رخ پیٹتے ہیں رو کر جبریل امیں اپنا
 یہ کس کے جنازے پر پڑھتے ہیں نبی نوحہ
 زہرا بھی ہے ننگے سر یہ کس کا جنازہ ہے

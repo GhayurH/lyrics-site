@@ -9,72 +9,45 @@ poet: "Viqar Nagri"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Hogaye haath qalam mashk bachayi na gayi
-
-
-  1
-
+romanLyrics: |-
+  Hogaye haath qalam mashk bachayi na gayi
   Pyaas saqqa se sakina ki bujhayi na gayi
 
+  1
   Jaane kya keh gaya bhai se alamdare jari
-
   Laash abbas ki sarwar se uthayi na gayi
 
-
   2
-
   Cheen kar nehr ab aaram se sota hai koi
-
   Baad marne ke bhi qabze se taraai na gayi
 
-
   3
-
   Haye re bekasi ye sayyede sajjad e hazeen
-
   Laash zindan se sakina ki uthayi na gayi
 
-
   4
-
   Laash andhere mein sakina ki thi mohtaj e kafan
-
   Shamma tak shaam ke zindan mein jalayi na gayi
 
-
   5
-
   Karbala se hai bahot door sakina ka mazaar
-
   Aaj tak baap se beti ki judaai na gayi
 
-
   6
-
   Laashe akbar pe ye laila ne kaha ro ro kar
-
   Haye kismat teri shaadi bhi rachayi na gayi
 
-
   7
-
   Khatm hai sayyede sajjad pe ye tarze jafa
-
   Phir imamat kabhi kanton pe chalayi na gayi
 
-
   8
-
   Baazu e shaah mein ek teer tha haath uth na sake
-
   Laash asghar ki kaleje se lagayi na gayi
 
-
   9
-
   Ruk gaya haath mera haath tak aate hi viqar
-
-  Mujse abbas ki tasveer banayi na gayi'
+  Mujse abbas ki tasveer banayi na gayi
 # source_id: nohayonline:03e58ea7a303e381d933
 # source_url: https://www.nohayonline.com/details_content.php?id=863
 # raw_sha256: f69b6881ebe2734be61d30ef38959af0803c2a534c7fb20757f2a44a9dfdbd73
@@ -82,11 +55,10 @@ romanLyrics: 'Hogaye haath qalam mashk bachayi na gayi
 # source_url: https://www.nohayonline.com/details_content.php?id=757
 # raw_sha256: 43aef9da54bbf70afc62a3e273741928952b7f07cf1abf01118d4d05f76c039d
 ---
-
 ہوگےء ہاتھ قلم مشک بچای نہ گیء
+پیاس سقہ سے سکینہ کی بجھای نہ گیء
 
 ۱
-پیاس سقہ سے سکینہ کی بجھای نہ گیء
 جانے کیا کہہ گیا بھائی سے علمدار جری
 لاش عباس کی سرور سے اٹھای نہ گیء
 

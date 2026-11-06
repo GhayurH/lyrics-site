@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Har saans matami ki shabbir tere naam
-  
-  1
   Allah kar raha hai maula tujhe salaam
+
+  1
   Aayat kar rahi hai maula teri tilawat
   Hai deen e mustafa ki zaamin teri shahadat
   Jo kar na paaya koi tu ne kiya wo kaam
-  
+
   2
   Cheh maah ki amanat ran mein chupayi tu ne
   Jalti hui zameen pe turbat banayi tu ne
   Taygh e ali se maula kaisa liya hai kaam
-  
+
   3
   Mal kar wazoo ki khaatir chehre pe khoon e asghar
   Be jaan namaziyon ki ran mein safein bicha kar
   Shabbir kar rahe hai sajde ka ehtemaam
-  
+
   4
   Ghar lut gaya saara bete bache na bhai
   Nok e sina se dekhi behno ki be-ridayi
   Tujh par hui hai maula mazloomiyat tamaam
-  
+
   5
   Kaisa muhabbaton mein taqseem hogaya hai
   Bete ke saath laasha ran mein pada hua hai
   Naize pe sar gaya hai beti ke saath shaam
-  
+
   6
   Karbobala se paidal pur khaar raaston par
   Aayega roz milne ghazi ko saath le kar
   Jab tak karegi zainab zindan mein qayaam
-  
+
   7
   Mera bane thikana karbobala ki jannat
   Har dam hai ye takallum momin ke dil ki hasrat
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1508
 # raw_sha256: f01c0c7180102b32d3abf25305f3fda7f4cbd67cba21ee00f83d44ffeea1d67c
 ---
-
 ہر سانس ماتمی کی شبیر تیرے نام
+اللّٰہ کر رہا ہے مولا تجھے سلام
 
 ۱
-اللّٰہ کر رہا ہے مولا تجھے سلام
 آیت کر رہی ہے مولا تیری تلاوت
 ہے دین مصطفیٰ کی ضامن تیری شہادت
 جو کر نہ پایا کوئی تو نے کیا وہ کام

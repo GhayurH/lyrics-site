@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay mere beta mere pyare ali asghar
-  
-  1
   Noore nazar maa ke dulare ali asghar
+
+  1
   Gham teri furqat ka mujhe kha gaya beta
   Tere bina maa ka teri jee nahi lagta
   Aao ye maa tumko pukare ali asghar
-  
+
   2
   Roti hui bano e muztar ye pukari
   Chain hua khatm gayi raunaqein saari
   Jab se tum is ghar se sidhaare ali asghar
-  
+
   3
   Tu hi bata kiske mai ab naaz uthaun
   Jhoola jhulaun kise lori sunaun
   Ab mai jiyun kiske sahare ali asghar
-  
+
   4
   Dil mein tha armaan ke tu dulha banega
   Laal mere sar pe tere sehra sajega
   Reh jaye armaan wo saare ali asghar
-  
+
   5
   Roti rahi na suni faryad kisi ne
   Teri behan pyari sakina ko shaqi ne
   Haye tamache bhi hai maare ali asghar
-  
+
   6
   Aake zara dekh ay ghazi ke bhatije
   Le gaye chadar bhi sitamgar mere sar se
   Jal gaye qaime bhi hamare ali asghar
-  
+
   7
   Fakhr hai mujhko mai hoo shabbir ka zakir
   Ab koi dunya ka mujhe darr nahi yasir
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1381
 # raw_sha256: 4092e0a829266b22faa8078c2e046aa6dbbdd9f0fa44cf3cefd6503aba0b00cb
 ---
-
 اے میرے بیٹا میرے پیارے علی اصغر
+نور نظر ماں کے دلارے علی اصغر
 
 ۱
-نور نظر ماں کے دلارے علی اصغر
 غم تیری فرقت کا مجھے کھا گیا بیٹا
 تیرے بنا ماں کا تیری جی نہیں لگتا
 آؤ یہ ماں تم کو پکارے علی اصغر

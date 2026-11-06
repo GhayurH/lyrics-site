@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Sakina kehti thi ro kar watan chalo amma
-  
-  1
   Bahot hai dil mera muztar watan chalo amma
+
+  1
   Galay mein daal ke nani ke sab ke sab baahein
   Har ek shaheed ko jis tarha jis qadar chaahein
   Wahin pe royenge khul kar watan chalo amma
-  
+
   2
   Batayein jhelenge aakhir ye sakthiyan kab tak
   Pade rahenge yuhin zer e aasman kab tak
   Watan se door khule sar watan chalo amma
-  
+
   3
   Chupaye baithe hai seene mein jaane kitne gham
   Lipat ke royenge abid ki bediyon se hum
   Baraye sibte payambar watan chalo amma
-  
+
   4
   Na jaane kaisi adawat hai hum se aada ko
   Tamache khaaye kiya jab bhi yaad baba ko
   Na ro sake kabhi khul kar watan chalo amma
-  
+
   5
   Sina kaleje mein akbar ke dekhli hum ne
   Chacha guzar gaye jaan se na aah ki hum ne
   Hai ek bojh sa dil par watan chalo amma
-  
+
   6
   Ye khatm honge bhala kab sitam zamane ke
   Hai kaat'te dar o deewar qaid khaane ke
   Mai mar na jaaun yahin par watan chalo amma
-  
+
   7
   Ab aur jhelne hai hum ko kitne aakhir gham
   Watan se door bayabane karbala mein hum
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2921
 # raw_sha256: 1a7df971b4e44d350f9d6d7074098f080ee855f1e62749de32ad50fa3dd0bd0a
 ---
-
 سکینہ کہتی تھی رو کر وطن چلو اماں
+بہت ہے دل میرا مضطر وطن چلو اماں
 
 ۱
-بہت ہے دل میرا مضطر وطن چلو اماں
 گلے میں ڈال کہ نانی کے سب کے سب باہیں
 ہر اِک شہید کو جسطرح جسقدر چاہیں
 وہیں پہ روئیگے کھُل کر وطن چلو اماں

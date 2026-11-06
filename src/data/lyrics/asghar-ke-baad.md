@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Asghar ke baad chain na aaya rabab ko
-  
-  1
   Dekha tamaam umr tadapta rabab ko
+
+  1
   Mai doodh bhi plia na saki apne laal ko
   Ta zindagi raha yehi sadma rabab ko
-  
+
   2
   Kya mera laal aa gaya poocha rabab ne
   Zainab ne jab kabhi bhi pukara rabab ko
-  
+
   3
   Kha kar galay pa teer sar e dasht e karbala
   Asghar ne kar diya hai akela rabab ko
-  
+
   4
   Asghar ke baad saaye mein baithi nahi kabhi
   Deta raha tassaliyan kunba rabab ko
-  
+
   5
   Daag e judaai de gayi zindan e shaam mein
   Asghar ke saath saath sakina rabab ko
-  
+
   6
   Sarwar ke baad qaime jalayenge jab layeen
   Tadpayega jala hua jhoola rabab ko
-  
+
   7
   Hasne ka kya sawaal tha lab tak nahi khule
   Itna gham o alam ne sataya rabab ko
-  
+
   8
   Tu khidmat e aza mein hai masroof jis tarha
   Ishrat pasand aayega nauha rabab ko
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1878
 # raw_sha256: ca99e6d584b584d100495d03a44e575953e4684bf629404bb17427bf553c6cdc
 ---
-
 اصغر کے بعد چین نہ آیا رباب کو
+دیکھا تمام عمر تڑپتا رباب کو
 
 ۱
-دیکھا تمام عمر تڑپتا رباب کو
 میں دودھ بھی پلا نہ سکی اپنے لال کو
 تا زندگی رہا یہی صدمہ رباب کو
 

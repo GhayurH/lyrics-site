@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Sakina ki ye sada hai chacha nahi aaye
-  
-  1
   Andhera badne laga hai chacha nahi aaye
+
+  1
   Alam furaat se baba ke haath bhej diya
   Magar ye maajera kya hai chacha nahi aaye
-  
+
   2
   Pade hai pyaas ki shiddat se halq mein kaante
   Magar labon pe sada hai chacha nahi aaye
-  
+
   3
   Isi liye to sitam aur bad gaye hum par
   Yazeediyon ko pata hai chacha nahi aaye
-  
+
   4
   Tamaam zakhm sakina ke dil par taaza hai
   Ye zakhm sab se hara hai chacha nahi aaye
-  
+
   5
   Ridayein chin gayi qaime jalaye jaate hai
   Haram pe waqt pada hai chacha nahi aaye
-  
+
   6
   Gire hai khaak pe jo intezar ke aansu
   Un aansuon ne likha hai chacha nahi aaye
-  
+
   7
   Na jaane kaun si aisi khata hui mujhse
   Akela chod diya hai chacha nahi aaye
-  
+
   8
   Kiya sakina se jo bhi sawaal asr ke baad
   Yehi jawaab diya hai chacha nahi aaye
-  
+
   9
   Kahan ye shaam ka zindan kahan wo karbobala
   Yahan bhi dhyaan laga hai chacha nahi aaye
-  
+
   10
   Suroor aa gaye aankhon mein khoon ke aansu
   Ye nauha jab bhi suna hai chacha nahi aaye
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3757
 # raw_sha256: acc63e50a4e5d9af9e9102fc1c2652254165d73e5bf9ced5c78a6ae735396444
 ---
-
 سکینہ کی یہ صدا ہے چچا نہیں آے
+اندھیرا بڑھنے لگا ہے چچا نہیں آے
 
 ۱
-اندھیرا بڑھنے لگا ہے چچا نہیں آے
 علم فرات سے بابا کے ہاتھ بھیج دیا
 مگر یہ ماجرا کیا ہے چچا نہیں آے
 

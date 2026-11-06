@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Mar jaye na sakina zindan mein tanha hai
-  
-  1
   Ghere huwe bacchi ko ghurbat ka andhera hai
+
+  1
   Ye kaisi yateemi hai jo hai wo rulaata hai
   Na koi tasalli hai na koi dilaasa hai
-  
+
   2
   Lab khushk hai bacchi ke aur haath rasan basta
   Kuch khaak hai baalon mein boseeda sa kurta hai
-  
+
   3
   Sehmi hui baithi hai ek kone mein shehzadi
   Aahat bhi jo hoti hai dil kaampne lagta hai
-  
+
   4
   Jis waqt tadapti hai baba ko sada de kar
   Masoom ki haalat par zindan bhi rota hai
-  
+
   5
   Kal soyi thi shehzadi shabbir ke seene par
   Ab khaak ka bistar hai aur khaak ka takiya hai
-  
+
   6
   Lillaah koi jaa kar bacchi ko chuda laaye
   Zaalim ke tamachon se behaal sakina hai
-  
+
   7
   Yun tadpi sakina ke ghabra gayi zainab bhi
   Ro ro ke aseeron ne ghazi ko pukaara hai
-  
+
   8
   Bas itna kaha gohar aur mar gayi shehzadi
   Bin baap ke dunya mein jeena koi jeena hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2339
 # raw_sha256: a92ac4be62028875349806215046b2acbdc9ca8b1f7c8200eea281eb265254f1
 ---
-
 مر جاے نہ سکینہ زندان میں تنہا ہے
+گھیرے ہوے بچی کو غربت کا اندھیرا ہے
 
 ۱
-گھیرے ہوے بچی کو غربت کا اندھیرا ہے
 یہ کیسی یتیمی ہے جو ہے وہ رلاتا ہے
 نہ کوئی تسلی ہے نہ کوئی دلاسہ ہے
 

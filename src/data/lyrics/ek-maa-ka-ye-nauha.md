@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek maa ka ye nauha tha aajao ali asghar
-  
-  1
   Dushwaar hua jeena aajao ali aghar
+
+  1
   Kya dil pe guzarti hai batlaun tumhe kaise
   Is waqt kamar thaame rote hue hasrat se
   Kehte thay shahe waala aajao ali asghar
-  
+
   2
   Mai kis se kahoon beta ab khatm hua lashkar
   Shabbir akele hai abbas hai na akbar
   Hai waqt qayamat ka aajao ali asghar
-  
+
   3
   Ek baar chale aao phir jaane nahi doongi
   Godi mein uthaungi seene se lagaungi
   Jangal mein nahi sona aajao ali asghar
-  
+
   4
   Ay laal teri surat phirti hai nigahon mein
   Laut aao ke ab lori dhalne lagi aahon mein
   Khoon rota hai dil mera aajao ali asghar
-  
+
   5
   Behaal sakina hai dekho to zara aakar
   Hai neel tamacho ke mazloom ke gaalon par
   Mar jaye na masooma aajao ali asghar
-  
+
   6
   Bikhre hue laashe hai har ek taraf ran mein
   Khauf aata hai ay beta is ujde hue ban mein
   Maqtal mein hai sannata aajao ali asghar
-  
+
   7
   Mai raaton ko uth uth kar jo jhoola jhulati thi
   De de ke tumhe lori mai jisme sulaati thi
   Veeran hai wo jhoola aajao ali asghar
-  
+
   8
   Hai aakhri sajde mein wo waaris e paighambar
   Ab shimr ka khanjar hai shabbir ki gardan par
   Lut jaye na ghar mera aajao ali asghar
-  
+
   9
   Mehshar tha bapa gohar is dashte musibat mein
   Tadpa to zaroor hoga baysheer bhi turbat mein
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=796
 # raw_sha256: d3aa5d26309ec429afdd3aeb1ae3f11785c27bd2c7a643c1e0dcde58a0e1dd83
 ---
-
 اک ماں کا یہ نوحہ تھا آ جائو علی اصغر
+دشوار ہوا جیناآ جائو علی اصغر
 
 ۱
-دشوار ہوا جیناآ جائو علی اصغر
 کیا دل پہ گزرتی ہے بتلائوں تمہیں کیسے
 اس وقت کمر تھامے روتے ہوئے حسرت سے
 کہتے تھے شاہِ والا آ جائو علی اصغر

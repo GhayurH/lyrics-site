@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Gala bandha hai rasan mein malool o muztar hai
-  
-  1
   Yehi hussain ki pyari sakina dukhtar hai
+
+  1
   Isi ko sibte nabi seene pe sulaate thay
   Isi ko godh mein abbas bhi khilate thay
   Jo rooth jaati thi sau sau tarha manate thay
   Hussain naaz aise bacchi ke uthaate thay
-  
+
   2
   Nikal ke qaime se ran ko chale thay jab sarwar
   Yehi to lipti thi ghode ke paaon se aa kar
   Badha na asp to laaye hussain ye lab par
   Mera ye aakhri tum par hai raahwar safar
-  
+
   3
   Ishara kar ke zameen ki taraf ye usne kaha
   Sakina pyari ki haalat to aap dekhe zara
   Zameen e garm pe lipti hai pakde paaon mera
   Qadam badaunga bhala kis tarha se mai aaqa
-  
+
   4
   Isi ko shimr ne maare tamache gaalon par
   Isi ke kaano se cheene layeen ne gohar
   Isi ke bain se zaahir ye hogaya sab par
   Shaheed hogaye karbal mein sibte paighambar
-  
+
   5
   Ye ek nanha sa sar jo rakha hai naize par
   Isi ka bhai hai cheh maah ka ali asghar
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3443
 # raw_sha256: a3984d79147adb084091fdddfd539b33b47db0ce97cdb4a72d724dc3fc01dab2
 ---
-
 گلا باندھا ہے رسن میں ملول و مضطر ہے
+یہی حسین کی پیاری سکینہ دختر ہے
 
 ۱
-یہی حسین کی پیاری سکینہ دختر ہے
 اسی کو سبط نبی سینے پہ سلاتے تھے
 اسی کو گود میں عباس بھی کھلاتے تھے
 جو روٹھ جاتی تھی سو سو طرح مناتے تھے

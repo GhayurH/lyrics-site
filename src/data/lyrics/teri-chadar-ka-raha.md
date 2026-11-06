@@ -10,37 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Jo kabhi soyi na thi aankhein wo ab soyengi
   Baad marne ke tere aale abaa royengi
   Teri chadar ka raha ab na muhafiz abbas
   Shaah e deen kehte thay kuch pal ka hai bhai mehman
-  
-  2
+
+  1
   Hogaya hum se juda apna muhafiz abbas
   Teri chadar ka raha...
   Bibiyan jalte huwe qaimon mein jab royengi
   Yaad aayega wahan un ka muhafiz abbas
-  
-  3
+
+  2
   Teri chadar ka raha...
   Maara zaalim ne tamache to sakina ne kaha
   Hai kahan mera chacha mera muhafiz abbas
   Teri chadar ka raha...
-  
-  4
+
+  3
   Haye bemaar raha tauq o salasil mein aseer
   Yaad aata hai unhe apna muhafiz abbas
   Teri chadar ka raha...
   Haye wo koocha o bazaar mein thay ahle haram
-  
-  5
+
+  4
   Sogaya nehr pe hum sab ka muhafiz abbas
   Teri chadar ka raha...
   Berida shaam ke darbar mein zainab hai khadi
   Hai kahan bhai mera mera muhafiz abbas
-  
-  6
+
+  5
   Teri chadar ka raha...
   Haye bemaar tha saber wo ali ibne hussain
   Ek iqbal haram ka tha muhafiz abbas
@@ -49,38 +48,36 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3045
 # raw_sha256: 7050c738e8e96a39ce9d245ae9be475d0e634a130ce02a2d099ee2989b8c74ee
 ---
-
-۱
 جو کبھی سوی نہ تھی آنکھیں وہ اب سویینگی
 بعد مرنے کے تیرے آل عبا رویینگی
 تیری چادر کا رہا اب نہ محافظ عباس
 شاہ دیں کہتے تھے کچھ پل کا ہے بھائی مہماں
 
-۲
+۱
 ہو گیا ہم سے جدا اپنا محافظ عباس
 تیری چادر کا رہا۔۔۔
 بی بیاں جلتے ہوئے خیموں میں جب رویینگی
 یاد آے گا وہاں ان کا محافظ عباس تیری چادر کا رہا...
 
-۳
+۲
 تیری چادر کا رہا۔۔۔
 ماں ظالم نے طمانچے تو سکینہ نے کہا
 ہے کہاں میرا چچا میرا محافظ عباس
 تیری چادر کا رہا۔۔۔
 
-۴
+۳
 ہاے بیمار رہا طوق و سلاسل میں اسیر
 یاد آتا ہے انہیں اپنا محافظ عباس
 تیری چادر کا رہا۔۔۔
 ہاے وہ کوچہء و بازار میں تھے اہلِ حرم
 
-۵
+۴
 سو گیا نہر پہ ہم سب کا محافظ عباس
 تیری چادر کا رہا۔۔۔
 بے ردا شام کے دربار میں زینب ہے کھڑی
 ہے کہاں بھای میرا محافظ عباس
 
-۶
+۵
 تیری چادر کا رہا۔۔۔
 ہاے بیمار تھا صابر وہ علی ابنِ حسین
 ایک اقبال حرم کا تھا محافظ عباس

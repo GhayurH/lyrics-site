@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Baade sheh zainabe dilgeer ne kya kya dekha
-  
-  1
   Sumein aspo ke talay bhai ka laasha dekha
+
+  1
   Haq paraston ka wafadaron ka aur pyaron ka
   Sar ko naize pe jasad khaak pe bikhra dekha
-  
+
   2
   Chaadare cheen ke kuffaro ne loota ghar ko
   Sar barehna shahe laulaak ka kunba dekha
-  
+
   3
   Shimr ne cheene gohar moo pe tamache maare
   Khoon kaano se sakina ke tapakta dekha
-  
+
   4
   Ek rasan mein kiya paband bade choton ko
   Tauq o zanjeer mein bemaar ko jakda dekha
-  
+
   5
   Godh se maa'on ki daurane rahe kufa o shaam
   Jo bhi bacha gira naaqe se kuchalta dekha
-  
+
   6
   Haye jis shehr mein shehzadi kahi jaati thi
   Khud ko is koofe mein be-makna o chaadar dekha
-  
+
   7
   Qaid mein margayi ghut ghut ke sakina aakhir
   Markhad ek chota sa zindan mein banta dekha
-  
+
   8
   Haye shabbir ne aur zainab o kubra ne anees
   Waqt ke saath zamane ko badalta dekha
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1046
 # raw_sha256: fad93e6a575b3c24bb640aff0196628d9c7058df5c18d0a0f6fe87bdce23e451
 ---
-
 بعدِ شِہ زینبِ دلگیر نے کیا کیا دیکھا
+سُمِ اسثوں کے تلے بھائی کا لاشہ دیکھا
 
 ۱
-سُمِ اسثوں کے تلے بھائی کا لاشہ دیکھا
 حق پرستوں کا وفاداروں کا اور پیاروں کا
 سر کو نیزہ پہ جسد خاک پہ بکھرا دیکھا
 

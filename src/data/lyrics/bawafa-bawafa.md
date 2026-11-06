@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Bawafa bawafa ghazi alamdar e wafa
-  
-  1
   Baazu e shabbir hai fatema ki hai dua
+
+  1
   Kulle emaan hai ali kulle wafa abbas hai
   Karbala ke zaairon ka rehnuma abbas hai
   Hai yehi babul hawaij hai yehi haajat rawa
-  
+
   2
   Baap quran e shuja'at ye hai quran e wafa
   Baap hai saaqi e kausar ye hai pyason ki dua
   Aaj tak qabze mein iske hai furaat o alqama
-  
+
   3
   Hai ragon mein khoon abu talib ka iske maujizan
   Bu-tarabi khoon hai kyun kar na ho baatil shikan
   Tod daala is jari ne khyber e karbobala
-  
+
   4
   Aas dhaaras dastageeri khaadime shabbir bhi
   Karbala walon ka saqqa karbala jageer bhi
   Uske parcham ki hawa hai surat e khaake shifa
-  
+
   5
   Hogaye baazu qalam aur khoon mein dooba alam
   Hat sake na alqama se phir bhi ghazi ke qadam
   Turbat e abbas par pehre pe hai darya khada
-  
+
   6
   Noke naiza par ruke sar kis tarha abbas ka
   Berida zainab ko dekhe ye shehenshahe wafa
   Isliye noke sina par sar na ghazi ka ruka
-  
+
   7
   Haye wo bali sakina aur tamachon ke nishan
   Kaan zakhmi tashnalab ahle sitam ke darmiyan
   Haath kano par rakhe kehti rahi mere chacha
-  
+
   8
   Dekhlo rehaan aur rizwan ghazi ka bharam
   Kha nahi sakta hai koi aaj bhi jhooti qasam
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1141
 # raw_sha256: a1e3b1c642e8842eaaefcc73595cab97e1c21ae5186106ab06f428adb032c3c0
 ---
-
 با وفا با وفا غازی علمدار وفا
+بازوے شبیر ہے فاطمہ کی ہے دعا
 
 ۱
-بازوے شبیر ہے فاطمہ کی ہے دعا
 کل ایمان ہے علی کل وفا عباس ہے
 کربلا کے زایروں کا رہنما عباس ہے
 ہے یہی باب الحوایج ہے یہی حاجت روا

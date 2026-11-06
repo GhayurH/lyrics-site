@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Jo dil ghame shabbir mein maghmoom bahot hai
-  
-  1
   Goya wo khareebe shahe mazloom bahot hai
+
+  1
   Be hubbe ali zikr namazon ka na chedo
   Aisi to namaze hamein maloom bahot hai
-  
+
   2
   Hairaan hoo ke asghar ki hasi kaise bayan ho
   Us mauje tabassum ke to mafhoom bahot hai
-  
+
   3
   Haasil hai abhi sab kahan daulat e daarein
   Shabbir ke gham se abhi mehroom bahot hai
-  
+
   4
   Pur soz hai lekin ghame shabbir ki roodaad
   Afsane to yun dard ke markhoom bahot hai
-  
+
   5
   Baade shahe mazloom sabhi gham mein hai lekin
   Ek bali sakina hai ke maghmoom bahot hai
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=636
 # raw_sha256: d08090ca1ad8470a3b76439775805807d94f48325b89e8d0ac6c8f37767d53bc
 ---
-
 جو دل غمِ شبیر میں مغموم بہت ہیں
+گویا وہ قریبِ شاہِ مظلوم بہت ہیں
 
 ۱
-گویا وہ قریبِ شاہِ مظلوم بہت ہیں
 بے حُبِ علی ذکر نمازوں کا نہ چھیڑو
 ایسی تو نمازیں ہمیں معلوم بہت ہیں
 

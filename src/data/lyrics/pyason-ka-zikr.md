@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Pyason ka zikr tashna dahani ke saath hai
-  
-  1
   Naam e hussain aaj bhi pani ke saath hai
+
+  1
   Akbar sina ko di lse laga kar na jaan do
   Baba ka dil tumhari jawani ke saath hai
-  
+
   2
   Akbar sa naujawan howe asghar sa bezuban
   Jo hai shaheed tashna dahani ke saath hai
-  
+
   3
   Kehte hai habeeb ki peeron ki zauf thi
   Lekin jo hausla hai jawani ke saath hai
-  
+
   4
   Allah kitni tez hai asghar ki tashnagi
   Mudti hui nigaah bhi pani ke saath hai
-  
+
   5
   Kya jaane kitni pyaas mein asghar ne jaan di
   Jo baat hai wo tashna dahani ke saath hai
-  
+
   6
   Abbas keh rahe hai sakina ki yaad mein
   Beti chacha ki jaan bhi pani ke saath hai
-  
+
   7
   Pyason ka bekason ka shaheedon ka taskera
   Ay fazl aansuon ke rawani ke saath hai
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1979
 # raw_sha256: 9f04a30b8ee08e1eeb081209aaed18668cfb64e86081a0fd4d4c9111ce193c90
 ---
-
 پیاسوں کا ذکر تشنہ دہانی کے ساتھ ہے
+نام حسین آج بھی پانی کے ساتھ ہے
 
 ۱
-نام حسین آج بھی پانی کے ساتھ ہے
 اکبر سناں کو دل سے لگا کر نہ جان دو
 بابا کا دل تمہاری جوانی کے ساتھ ہے
 

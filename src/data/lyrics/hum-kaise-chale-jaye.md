@@ -9,72 +9,44 @@ poet: "Hasnain Akbar"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ashoor ki shab karte thay as''hab ye noha
-
-
-  1
-
+romanLyrics: |-
+  Ashoor ki shab karte thay as'hab ye noha
   Hum kaise chale jaye tumhe chod ke maula
 
+  1
   Kooze liye haaton may hai masoom se bache
-
   In pyason ko pani ki badi aas hai humse
-
   Mar jayenge ye gar hamay jaate hue dekha
 
-
   2
-
   Maana ke zaroorat nahi hazrat ko hamari
-
   Abbas sa bha hai hifazat ko tumhari
-
   Zehra ko magar phir bhi hai moo humne dikhana
 
-
   3
-
   Ankhon may nazar aati hai bachi ki ghareebi
-
   Darti hai ke tanhai na bad jaye padar ki
-
   Aa aa ke hame takti hai hasrat se sakina
 
-
   4
-
   Jis roz se abaad kiya tum ne ye jangal
-
   Ek bibi yahan roti hai raaton ko musalsal
-
   Lagta hai lehad chod ke khud aayi hai zehra
 
-
   5
-
   Kya aalam e ghurbat nabi-zadi pe pada hai
-
   Kehne ki nahi baat magar humne suna hai
-
   Hai aap ki zainab ko bahot hum pe bharosa
 
-
   6
-
   Seena ali akbar ka bahot choom rahe ho
-
   Jo tum pe guzarti hai wo maloom hai hum ko
-
   Hum log bhi to saahibe aulaad hai aaqa
 
-
   7
-
   Akbar jo diye qaime may ghazi ne jalaye
-
   Tha aisa samaan sheh ke bhi aansoo nikal aaye
-
-  Talwaar galay par rakhe har shaks tha kehta'
+  Talwaar galay par rakhe har shaks tha kehta
 reciter: Meer Hasan Meer
 # source_id: nohayonline:9a1e68c3b98d97fb4c65
 # source_url: https://www.nohayonline.com/details_content.php?id=305
@@ -83,11 +55,10 @@ reciter: Meer Hasan Meer
 # source_url: https://www.ziyaraat.net/api/noha/2387
 # raw_sha256: d2177c63bf8442f8ac4bb34bcde85f85680836c743f2b56fd7f13b7acf599907
 ---
-
 عاشور کی شب کرتے تھے اصحاب یہ نوحہ
+ہم کیسے چلے جائیں تمہیں چھوڑ کے مولا
 
 ۱
-ہم کیسے چلے جائیں تمہیں چھوڑ کے مولا
 کوزے لئے ہاتھوں میں ہیں معصوم سے بچے
 ان پیاسوں کو پانی کی بڑی آس ہے ہم سے
 مرجائیں گے یہ گر ہمیں جاتے ہوئے دیکھا

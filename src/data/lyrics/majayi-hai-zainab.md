@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Maajayi hai zainab dukh paayi hai zainab
-  
-  1
   Ay laasha e be-sar tera sar laayi hai zainab
+
+  1
   Sar nange thi mai zauja e haakim juhin aayi
   Zindan may kya hind se sharmayi hai zainab
-  
+
   2
   Qaidi bani sar nange phiri dam nahi maara
   Sab aap ka farmaan baja laayi hai zainab
-  
+
   3
   Marte huwe tum jisko mujhe saump gaye thay
   Us laadli ko shaam may kho aayi hai zainab
-  
+
   4
   Ab saath mujhe qabr may le lijiyo bhai
   Dunya ke bahot ranj se ghabrayi hai zainab
-  
+
   5
   Zaalim ne chadi maari labon par jo tumhare
   Khamosh khadi ghaiz may tharrayi hai zainab
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2028
 # raw_sha256: 116a8eb2cf6ab17178ec86f427086c5298ab490c2bd474a928b70a6f7ebd8040
 ---
-
 مانجای ہے زینب دکھ پای ہے زینب
+اے لاشہء بے سر تیرا سر لای ہے زینب
 
 ۱
-اے لاشہء بے سر تیرا سر لای ہے زینب
 سر ننگے تھی میں زوجہء حاکم جونہی آی
 زنداں میں کیا ہند سے شرمای ہے زینب
 

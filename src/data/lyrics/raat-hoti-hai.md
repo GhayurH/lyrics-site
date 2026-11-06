@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Raat hoti hai to rone ki sada aati hai
-  
-  1
   Kisi bibi ke tadapne ki sada aati hai
+
+  1
   Khaali gehwara hilaate hue shayad maa ko
   Dile asghar ke dhadakne ki sada aati hai
-  
+
   2
   Yun to barchi ali akbar ke kaleje mein lagi
   Khalb mein sheh ke utarne ki sada aati hai
-  
+
   3
   Kaan ke dard se bachi koi jaagi hogi
   Neend se chaunk ke rone ki sada aati hai
-  
+
   4
   Sogayi qabr mein masoom sehm kar lekin
   Shimr ke ab bhi ghurakne ki sada aati hai
-  
+
   5
   Ek bemaar pata poochti nikli ghar se
   Khaafla shehr mein aane ki sada aati hai
-  
+
   6
   Laashe be-sar tere seene se lipat kar kiski
   Hichkiyan leke sisakne ki sada aati hai
-  
+
   7
   Maa ki turbat pe akeli hi gayi hai zainab
   Haale darbar sunane ki sada aati hai
-  
+
   8
   Shaahe deen jhoom ke girte hai zameen par shahid
   Aasman tooth ke girne ki sada aati hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=767
 # raw_sha256: 6c8262203af495862bc358f6e2a89b944bf6321029e41e277c4d8177c7aea2f1
 ---
-
 رات ہوتی ہے تو رونے کی صدا آتی ہے
+کسی بی بی کے تڑپنے کی صدا آتی ہے
 
 ۱
-کسی بی بی کے تڑپنے کی صدا آتی ہے
 کھلی گہوارہ ہلاتے ہوئے شاید ماں کو
 دلِ اصغر کے دھڑکنے کی صدا آتی ہے
 

@@ -11,20 +11,20 @@ aliases: []
 published: false
 romanLyrics: |-
   Karbala ki rayt pe pyason ki hai ye daastan
-  
-  1
   Hai sakina ki sada pe tham gayi nehr e rawan
+
+  1
   Na rahe abbas ghazi na raha akbar jawan
   Ho gaye qasim ke tukde ashkhiyon ke darmiyan
-  
+
   2
   Asghar e baysheer ne kaisa diya hai imtehan
   Muskurana dekh kar hai ro pade arz o samaa
-  
+
   3
   Tay kiya kaise safar jakde huwe zanjeer mein
   Sayyede sajjad par hai ro rahi thi bediyan
-  
+
   4
   Ab musibat ko teri hashim kare kaise bayan
   Be rida kulsoom o zainab hai shaki ke darmiyan
@@ -32,11 +32,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1228
 # raw_sha256: 738dbce4bec67eea6664615270bf41e08b86ecabf1352135c4509b5bd13e70c2
 ---
-
 کربلا کی ریت پہ پیاسوں کی ہے یہ داستان
+ہے سکینہ کی صدا پہ تھم گئی نہر رواں
 
 ۱
-ہے سکینہ کی صدا پہ تھم گئی نہر رواں
 نہ رہے عباس غازی نہ رہا اکبر جواں
 ہو گےء قاسم کے ٹکڑے اشقیوں کے درمیاں
 

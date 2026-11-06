@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye azadari e sarwar hai hamari zindagi
-  
-  1
   Is azadari se paayi raahe haq ki roshni
+
+  1
   Kuch zabano par tha kal labbaik ya maula hussain
   Ab ye naara banta jaata hai sada e aalami
-  
+
   2
   Hum nahi mit payenge karle koi kitna sitam
   Jabr o istebdaad dunya aazmati hi rahi
-  
+
   3
   Faatah e badr o ohad ke chahne waale hai hum
   Hum se larza hai dehr ke marhabi o antari
-  
+
   4
   Pehle allah phir mohamed baad may mamual ali
   Hai yehi haq ma siwa is ke hai deen e aazri
-  
+
   5
   Is azadari ke dar pe hai zamana gham nahi
   Matam e sarwar ke zaamin hai jab ibne askari
-  
+
   6
   Ambiya matam kuna hai jiske gham may wo hussain
   Hai hamay bhi faqr ke hum hai hussaini matami
-  
+
   7
   Haa yuhin jaari rahega shor o girya ta'abad
   Majlis o matam ki binte zehra hai baani bani
-  
+
   8
   Maa ko tha armaan ali akbar ke sehre ka bahot
   Baad e akbar qalb e maa se phir na veerani gayi
-  
+
   9
   Haa hussain ibne ali hai sabr ka parwardigar
   Thi nikaal kis tarha akbar ke seene se ani
-  
+
   10
   Ek naize se kiya abbas ne darya fatah
   Askhiyan may khauf o hairat ki farawani hui
-  
+
   11
   Kab kahan tehra hai baatil sheh ke gham se saamne
   Haq falak baatil zameen ke se ho koi hamsari
-  
+
   12
   Hai dua nauhe may aijaz o hassan ke ishtiyaq
   Ay khuda marham ho qalb e zehra ka ye shayari
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1489
 # raw_sha256: 1dffa9969da654d70cded39ef0fdae71bb94ac7aee9360f566d47c60e63755c5
 ---
-
 یہ عزاداریء سرور ہے ہماری زندگی
+اس عزاداری سے پای راہ حق کی روشنی
 
 ۱
-اس عزاداری سے پای راہ حق کی روشنی
 کچھ زبانوں پر تھا کل لبیک یا مولا حسین
 اب یہ نعرہ بنتا جاتا ہے صداے عالمی
 

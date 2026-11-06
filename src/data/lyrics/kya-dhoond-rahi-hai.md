@@ -9,108 +9,64 @@ poet: "Zafar"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Kya dhoond rahi hai jangal mein sakina
-
-
-  1
-
+romanLyrics: |-
+  Kya dhoond rahi hai jangal mein sakina
   Abbas ke baazu ya baba ka seena
 
+  1
   Kaano se chine gohar aur aag thi daaman mein
-
   Ghabrayi hui bacchi ye kehti rahi ran mein
-
   Hai koi jo mujhko pahunchade madina
 
-
   2
-
   Kehti thi ke asghar ko le aao mere baba
-
   Soona nazar aata hai bhai ka mere jhoola
-
   Asghar ke baghair ab mujhko nahi jeena
 
-
   3
-
   Zad par hai mazalim ki ye phool si masooma
-
   Maqtal se kahan jaaye shabbir ki mazlooma
-
   Wo durron ka khaana wo ashkon ka peena
 
-
   4
-
   Mushkil mein ghiri haye aulaad e nabi kaisi
-
   Is dashte musibat mein hai tashnalabi kaisi
-
   Aaya nahi ab tak saqqa e sakina
 
-
   5
-
   Kehti thi sidhare hai bhai jo mere pyase
-
   Jab tak nahi lautenge ammu mere darya se
-
   Maine ay phupi jaan pani nahi peena
 
-
   6
-
   Pahunche jo shahe wala bete ki sada sunkar
-
   Dekha ke ragadte hai aydi ko jawan akbar
-
   Naize ki ani hai aur bete ka seena
 
-
   7
-
   Ahmed ke nawase ko maara hai moharam may
-
   Chalees baras roye sajjad isi gham may
-
   Tareekh pukari hai gham ka mahina
 
-
   8
-
   Honge sare mehshar bhi unche yuhin sar apne
-
   Markhad ko ujalon se bhar denge zafar apne
-
   Rakhte hai lehad may hum ashkon ka khazeena
 
-
   9
-
   Ye shaam ke zindan mein deewaron ko takti hai
-
   Kya soch ke ye jaane din raat sisakti hai
-
   Bichdi hai chacha se jab se ye hazeena
 
-
   10
-
   Wo waqte judaai wo haalaat ki majboori
-
   Sarwar se sakina ki ab tak na miti doori
-
   Maqtal mein anghooti hai zindan mein nagina
 
-
   11
-
   Masroof e ibadat ho tum shaam o sehar mesum
-
   Kehte hai yehi roke din raat zafar mesum
-
-  Hai nazr e sakina ashkon ka khazeena'
+  Hai nazr e sakina ashkon ka khazeena
 # source_id: nohayonline:01e1fd3562b26b6fbec6
 # source_url: https://www.nohayonline.com/details_content.php?id=142
 # raw_sha256: f81a04deafe1a688251940883bdeccdfd4c5ca474931a633f50c7c68d68e5e3d
@@ -123,11 +79,10 @@ romanLyrics: 'Kya dhoond rahi hai jangal mein sakina
 # added_stanza_source: roman:kalam-nohayonline-01e1fd3562b26b6fbec6
 # added_stanza_source: urdu:kalam-nohayonline-01e1fd3562b26b6fbec6
 ---
-
 کیا ڈھونڈ رہی ہے جنگل میں سکینہ
+عباس کے بازو یا بابا کا سینہ
 
 ۱
-عباس کے بازو یا بابا کا سینہ
 کانوں سے چھنے گوہر اور آگ تھی دامن میں
 گھبرای ہوی بچی یہ کہتی رہی رن میں
 ہے کوئی جو مجھکو پہنچادے مدینہ

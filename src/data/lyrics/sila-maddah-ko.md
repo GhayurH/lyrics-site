@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Sila maddah ko ye midhate hyder se milta hai
-  
-  1
   Ke jannat mein usay ghar mustafa ke ghar se milta hai
+
+  1
   Faqad aale nabi hai mamba e altaaf e rabbani
   Jise jo faiz milta hai inhi ke dar se milta hai
-  
+
   2
   Wo barhaq janasheen hai aur pasandeeda mohajir hai
   Jise hijrat ka bistar marzi e daawar se milta hai
-  
+
   3
   Risalat ki rida farshe nabi ikhlaas ka takiya
   Wohi paata hai teenat mein jo paighambar se milta hai
-  
+
   4
   May e tauheed peena hai chalo maikhana e qum mein
   Wahan jaam e wilayat saaqi e kausar se milta hai
-  
+
   5
   Sar e shabbir ko nok e sina par dekhne waale
   Pukar uthe ye sar to musatafa ke sar se milta hai
-  
+
   6
   Ali asghar ke laashe par jhuke hai is tarha sarwar
   Koi sajde mein jaise khaliq e akbar se milta hai
-  
+
   7
   Ye deewana hai deewana wila e aale ahmed ka
   Yehi kehta hai jo ba-marifat jauhar se milta hai
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3531
 # raw_sha256: 81016206b6bd1e0c5c886fd0aaca566f058751a794a1eff5ea07f8da0325826b
 ---
-
 صلہ مداح کو یہ مدحت حیدر سے ملتا ہے
+کہ جنت میں اسے گھر مصطفیٰ کے گھر سے ملتا ہے
 
 ۱
-کہ جنت میں اسے گھر مصطفیٰ کے گھر سے ملتا ہے
 فقط آل نبی ہے ممبہء الطاف ربانی
 جسے جو فیض ملتا ہے انہیں کے در سے ملتا ہے
 

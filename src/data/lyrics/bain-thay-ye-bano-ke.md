@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Bain thay ye bano ke mere bezaban asghar
-  
-  1
   Shaam hogayi beta tum gaye kahan asghar
+
+  1
   Bekasi mein kya meri aas toot jayegi
   Ab tumhare jhoole mein kisko maa jhulayegi
   Dasht ke andhere mein kaise neend aayegi
   Ghut rahi hai seene mein kab se loriyan asghar
-  
+
   2
   Dekhne ko zinda thi maa wo karb ka manzar
   Kya sitam hua beta aah teri gardan par
   Teer e zulm kya kam tha haye phir chala khanjar
   Gir pada na dharti par kyun ye aasman asghar
-  
+
   3
   Tere jism e naazuk par pyaas ka asar dekha
   Tera chand sa chehra khoon mein tar batar dekha
   Maine noke naiza par haye tera sar dekha
   Mar gayi na kyun teri bad-naseeb maa asghar
-  
+
   4
   Kya bayan karun beta mere qalb ki haalat
   Phir rahi hai aankhon mein teri chand si surat
   Kar saki na jee bhar ke haye mai teri khidmat
   Sharm saar hai tujhse aaj teri maa asghar
-  
+
   5
   Shaahe deen ne dafnaya teri laash ko beta
   Ahle zulm ko lekin ye bhi kab gawaara tha
   Qabr se nikala tha tera khoon bhara laasha
   Phool sa wo sar tera aur wo sina asghar
-  
+
   6
   Reh gaya hai nazron mein teri pyaas ka manzar
   Ek boond bhi pani mai na de saki dilbar
   Maa nisaar ho jaati tere khushk honton par
   Shiddat e atash se wo teri hichkiyan asghar
-  
+
   7
   Kyun rahe na mehshar tak dil figaar bano ka
   Haan ye maatam e asghar hai qaraar bano ka
@@ -58,11 +58,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2993
 # raw_sha256: d55b08ef941342f24a884e113cfb3cf1d96ea9f376cd6c21a9d17d62c7149c44
 ---
-
 بین تھے یہ بانو کے میرے بے زباں اصغر
+شام ہو گیء بیٹا تم گےء کہاں اصغر
 
 ۱
-شام ہو گیء بیٹا تم گےء کہاں اصغر
 بیکسی میں کیا میری آس ٹوٹ جائے گی
 اب تمہارے جھولے میں کس کو ماں جھلاے گی
 دشت کے اندھیرے میں کیسے نیند آے گی

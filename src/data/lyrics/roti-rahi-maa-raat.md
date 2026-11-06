@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaja asghar godh may kehti rahi maa raat bhar
-  
-  1
   Har musibat ranj o gham sehti rahi maa raat bhar
+
+  1
   Teer se zaalim ne asghar ko kiya pyasa shaheed
   Bas isi ek dard may doobi rahi maa raat bhar
-  
+
   2
   Mujko lagta hai ke jaise soye ho tum godh may
   Neendh se jaago zara kehti rahi maa raat bhar
-  
+
   3
   Dekhlun ek baar beta chand si surat teri
   Qabr se takraake sar roti rahi maa raat bhar
-  
+
   4
   Godh ki garmi abhi tak hai magar tum chal base
   Rote rote qabr se lipti rahi maa raat bhar
-  
+
   5
   Zainab o kulsoom samjhaati rahi usko magar
   Paas nanhi qabr ke baithi rahi maa raat bhar
-  
+
   6
   Ashq aankhon se musalsal behte thay sajjad ke
   Jab ye dekha ranj may doobi rahi maa raat bhar
-  
+
   7
   Kya sunayega bober haalate gham aur kis tarha
   Khaali jhoola dekh kar roti rahi maa raat bhar
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=846
 # raw_sha256: 0be5d289a87f93cd0226478400d4fb24e8d0b9415027465e42a82a59a7e85963
 ---
-
 آجا اصغر گود میں کہتی رہی ماں رات بھر
+ہر مصیبت رنج و غم سہتی رہی ماں رات بھر
 
 ۱
-ہر مصیبت رنج و غم سہتی رہی ماں رات بھر
 تیر سے ظالم نے اصغر کو کیا پیاسہ شہید
 بس اسی اک درد میں ڈوبی رہی ماں رات بھر
 

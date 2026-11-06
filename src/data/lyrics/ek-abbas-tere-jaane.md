@@ -11,145 +11,114 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek abbas tere jaane se
-  
-  1
   Bhai ke halq pe chala khanjar
   Mere sar se bhi chin gayi chadar
   Haye kya kya guzar gayi hum par
-  
-  2
-  Haye abbas haye abbas...
+
+  1
   Hausle dekhiye sitamgar ke
   Pass aane laga wo sarwar ke
   Has ke lehra raha tha wo khanjar
-  
-  3
-  Haye abbas haye abbas...
+
+  2
   Aankh mein aansu dil tadapta raha
   Jab chale shaah karbala tanha
   Cheh mahine ki jaan ko le kar
-  
-  4
-  Haye abbas haye abbas...
+
+  3
   Sehmi sehmi hai bibiyan saari
   Khaak par zindagi hai pyason ki
   Jal gaye qaime jal gaya bistar
-  
-  5
-  Haye abbas haye abbas...
+
+  4
   Thokare ran mein khaate dekha hai
   Laashe akbar pe jaate dekha hai
   Dhundli dhundli thi shaah e deen ki nazar
-  
-  6
-  Haye abbas haye abbas...
+
+  5
   Dhoop thi pyaas thi rukay na kahin
   Do ghadi chain ke milay na kahin
   Aise jaari tha bekason ka safar
-  
-  7
-  Haye abbas haye abbas...
+
+  6
   Sard mausam phata hua kurta
   Bas khuda jaane gham sakina ka
   Zulm sehti rahi wo shaam o sehar
-  
-  8
-  Haye abbas haye abbas...
+
+  7
   Tauq o zanjeer zakhm be taabeer
   Kaise batlaun kya aziyat thi
   Phir bhi chalta raha mera dilbar
-  
-  9
-  Haye abbas haye abbas...
+
+  8
   Kabhi bazaar e aam se guzri
   Kabhi zindan e shaam se guzri
   Mai aseer e mehan phiri dar dar
-  
-  10
-  Haye abbas haye abbas...
+
+  9
   Kya kahun dil pe mere kya guzri
   Bazm e haakim mein sun rahe thay sabhi
   Naam tha mera ghair ke lab par
-  
-  11
-  Haye abbas haye abbas...
+
+  10
   Sheh ki khwahar fida tadapti thi
   Ashk barsa ke wo ye kehti thi
   Kitne khanjar chale mere dil par
-  
-  12
-  Haye abbas haye abbas...
 # source_id: nohayonline:4a7fab04a45776666bbf
 # source_url: https://www.nohayonline.com/details_content.php?id=1767
 # raw_sha256: 402f3e8c71f89bca4a91511943ca27bff08ab4b601cb9cf21fd7d0568d0ec851
 ---
-
 اک عباس تیرے جان سے
-
-۱
 بھای کے عباس پہ چلا خنجر
 میرے سر بھی چھن گیء چادر
 ہاے کیا کیا گزر گیء ہم پر
 
-۲
-ہاے عباس ہاے عباس۔۔۔
+۱
 حوصلے دیکھیےء ستمگر کے
 پاس آنے لگا وہ سرور کے
 ہنس کے لہرا رہا تھا وہ خنجر
 
-۳
-ہاے عباس ہاے عباس۔۔۔
+۲
 آنکھ میں آنسوں دل تڑپتا رہا
 جب چلے شاہ کربلا تنہا
 چھ مہینے کی جان کو لے کر
 
-۴
-ہاے عباس ہاے عباس۔۔۔
+۳
 سہمی سہمی ہے بی بیاں ساری
 خاک پر زندگی ہے پیاسوں کی
 جل گےء خیمے جل گیا بستر
 
-۵
-ہاے عباس ہاے عباس۔۔۔
+۴
 ٹھوکریں رن میں کھاتے دیکھا ہے
 لاش اکبر پہ جاتے دیکھا ہے
 دھندلی دھندلی تھی شاہ دیں کی نظر
 
-۶
-ہاے عباس ہاے عباس۔۔۔
+۵
 دھوپ میں پیاس تھی رکے نہ کہیں
 دو گھڑی چین کے مل نہ کہیں
 ایسے جاری تھا بیکسوں کا سفر
 
-۷
-ہاے عباس ہاے عباس۔۔۔
+۶
 سرد موسم پھٹا ہوا کرتہ
 بس خدا جان غم سکینہ کا
 ظلم سہتی رہی وہ شام و سحر
 
-۸
-ہاے عباس ہاے عباس۔۔۔
+۷
 طوق و زنجیر بے تعبیر
 کیسے بتلاؤں کیا اذیت تھی
 پھر بھی چلتا رہا میرا دلبر
 
-۹
-ہاے عباس ہاے عباس۔۔۔
+۸
 کبھی بازار آم سے گزری
 کبھی زندان شام سے گزری
 میں اسیر محن پھری در در
 
-۱۰
-ہاے عباس ہاے عباس۔۔۔
+۹
 کیا کہوں دل پہ میرے کیا گزری
 بزمِ حاکم میں سن رہے تھے سبھی
 نام تھا میرا غیر کے لب پر
 
-۱۱
-ہاے عباس ہاے عباس۔۔۔
+۱۰
 شہ کی خواہر فدا تڑپتی تھی
 اشک برسا کے وہ یہ کہتی تھی
 کتنے خنجر چلے میرے دل پر
-
-۱۲
-ہاے عباس ہاے عباس۔۔۔

@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   Kehte thay shaah ay ali akbar kahan ho tum
-  
-  1
   Ay mere laal ay mere dilbar kahan ho tum
+
+  1
   Apne zaeef baap ki aa kar madad karo
   Ghere huwe hai shaam ka lashkar kahan ho tum
-  
+
   2
   Awaaz de rahe hai pisar ko shah e huda
   Ay naujawan shabihe payambar kahan ho tum
-  
+
   3
   Qaime ke dar pa aas lagaye khadi hai maa
   Veeran ho gaya hai bhara ghar kahan ho tum
-  
+
   4
   Ro ro ke keh rahi hai ye zainab jawab do
   Qaime jala rahe hai sitamgar kahan ho tum
-  
+
   5
   Laila ke dil ko kaun sambhale mere pisar
   Dar dar phira rahe hai sitamgar kahan ho tum
-  
+
   6
   Jab se gaye ho tum dil e maadar udaas hai
   Aankhon ka noor ay ali akbar kahan ho tum
-  
+
   7
   Baithi hui hoo moo ko chipaye zameen par
   Aade ne cheen li meri chadar kahan ho tum
-  
+
   8
   Ab shaam ho rahi hai sakina ki lo khabar
   Ay naujawan hussain ke dilbar kahan ho tum
-  
+
   9
   Hum ghir chuke hai nargha e aada mein ay pisar
   Durre laga rahe hai sitamgar kahan ho tum
-  
+
   10
   Tooti hui kamar ko sambhalo hussain ki
   Kehti hai ro ke zainab e muztar kahan ho tum
-  
+
   11
   Laila ki aarzoo hai ek baar dekh loo
   Hamshakle mustafa ali akbar kahan ho tum
-  
+
   12
   Sheh ke galay pa shimr ka khanjar ghazab hua
   Aayi sada ke ay ali akbar kahan ho tum
-  
+
   13
   Ahle haram mein hashr bapa hogaya aseem
   Sarwar ne jab kaha ali akbar kahan ho tum
@@ -68,11 +68,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1875
 # raw_sha256: a8acddafdeeaa5577fe24fd5f798c3566756ce2493b6b0d50b209c6297434907
 ---
-
 کہتے تھے شاہ اے علی اکبر کہاں ہو تم
+اے میرے لال اے میرے دلبر کہاں ہو تم
 
 ۱
-اے میرے لال اے میرے دلبر کہاں ہو تم
 اپنے ضعیف باپ کی آ کر مدد کرو
 گھیرے ہوے ہے شام کا لشکر کہاں ہو تم
 

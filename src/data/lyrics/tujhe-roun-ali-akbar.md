@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   Tujhe dulha banaun ya tujhe roun ali akbar
-  
-  1
   Tera sehra sajaun ya tujhe roun ali akbar
+
+  1
   Abhi attharwan tha saal teri zindagani ka
   Qadam hota hai pehla bachpane se naujawani ka
   Magar ab saamne mere hai laasha mere jaani ka
   Mile sab khaak mein armaan tujhe dulha banane ke
   Tere mehendi lagaun ya tujhe roun ali akbar
-  
+
   2
   Tujhe maa ne mere beta badi hasrat se paala tha
   Padar ki jaan tha tu maa ki aankhon ka ujaala tha
   Shabihe mustafa tha husn mein yusuf se aala tha
   Mai teri chand si dulhan byaah ke ghar mein laungi
   Teri shadi rachaun ya tujhe roun ali akbar
-  
+
   3
   Kamar ko thaamte hai aur kabhi sar ko patakte hai
   Zameen par baith kar shabbir phir dil ko masalte hai
   Zaeefi ka sahara lut gaya keh kar tadapate hai
   Jawan ki laash ko tanha badi muskhil se laaya hoon
   Mai wo sadma uthaun ya tujhe roun ali akbar
-  
+
   4
   Tamanna thi meri tujhko mai jab dulha banaungi
   Balayein loongi teri tujhko seene se lagaungi
   Karungi poore sab armaan har ek mannat badhaungi
   He dil bechain ab mera tujhe dulha banane ko
   Tujhe dil se lagaun ya tujhe roun ali akbar
-  
+
   5
   Teri shadi pe sughra ne kaha tha mai bhi aaungi
   Mujhe lene nahi aaya to akbar rooth jaungi
   Mai apane haathon se aakar teri dulhan sajaungi
   Karo jab shadi ay bhai behen ko bhool na jaana
   Mai sughra ko bulaun ya tujhe roun ali akbar
-  
+
   6
   Hai uljhi uljhi zulfein aur jami hai khaak chehre par
   Nahi hai pani jo nehlaye maa tujhko ali akbar
   Badi hasrat se aayi thi shahane jode ko le kar
   Lagati mushk aur ambar shahana jode pehna kar
   Ghame furqat bataun ya tujhe roun ali akbar
-  
+
   7
   Utho beta khate sughra tumhare naam aaya hai
   Karoge shadi kab akbar behen sughra ne likhha hai
   Kayi din se mera dil ab bahot bechain rehta hai
   Rahungi kab talak tanha batao to mere bhaiya
   Jawabe khat likhaun ya tujhe roun ali akbar
-  
+
   8
   Tadapti thi qamar buknalvi laashe ali akbar
   Ay aamir umme laila ke bayan e gham ko sun sun kar
@@ -72,11 +72,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3659
 # raw_sha256: 8e72eba7d705d272406318853d0b16f83986d09cea64b2d1e9721af942ab53ff
 ---
-
 تجھے دولہا بناؤں یا تجھے روؤں علی اکبر
+تیرا سہرا سجاؤں یا تجھے روؤں علی اکبر
 
 ۱
-تیرا سہرا سجاؤں یا تجھے روؤں علی اکبر
 ابھی اٹھارواں تھا سال تیری زندگانی کا
 قدم ہوتا ہے پہلا بچپنے سے نوجوانی کا
 مگر اب سامنے میرے ہے لاشہ میرے جانی کا

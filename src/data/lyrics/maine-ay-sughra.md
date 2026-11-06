@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Maine ay sughra andheron se rifaqat kar li
-  
-  1
   Qaid e zindan may sakina ye sada deti thi
+
+  1
   Jabse baba ka behan seena hua mujhse juda
   Mar gayi seene may umeed mere jeene ki
-  
+
   2
   Neele rukhsar tere hote behan meri tarha
   Ye to acha hi hua tum na yahan par aayi
-  
+
   3
   Meri awaaz bhi hai meri tarha qaid may ab
   Bas isi tarha se ab qaid may mar jaungi
-  
+
   4
   Neend jab aati nahi qaid e sitam may khwahar
   Loriyan yaad bahot aati hai mujhko maa ki
-  
+
   5
   Garche khaaliq ki har ek shay hai mujhe yaad magar
   Roshni cheez hai kya ab to yahan bhool gayi
-  
+
   6
   Tum ko mai dukhda sunaungi gale se lag kar
   Qaid se jald rihaai ki ho surat sab ki
-  
+
   7
   Ab to zindan ki tareeki ka hai saath mera
   Roshni yaad nahi ab mujhe madine ki
-  
+
   8
   Ab mayassar hai mujhe khaak ka takiya bistar
   Chain ki neend madine may mujhe aati thi
-  
+
   9
   Apne hi qadmon ki aahat se seham jaati hoo
   Is khadar hai dar o deewar se wehshat taari
-  
+
   10
   Din bhi rehta hai yahan chadare zulmat odhe
   Kya bayan shab ke andhere ka kare yan koi
-  
+
   11
   Khushk lab yaad sakina ke mujhe aaye najaf
   Qalb do paara hua aagayi ankhon may nami
@@ -60,11 +60,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=867
 # raw_sha256: 6175d49e406c0c421efe2c51a45def6587dd5a70617640eacefa5f23530c2b70
 ---
-
 میں نے اے صغرا اندھیروں سے رفاقت کرلی
+قید زنداں میں سکینہ یہ صدا دیتی تھی
 
 ۱
-قید زنداں میں سکینہ یہ صدا دیتی تھی
 جب سے بابا کا بہن سینہ ہوا مجھ سے جدا
 مر گیء سینے میں امید میرے جینے کی
 

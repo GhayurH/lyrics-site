@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay qamre bani hashim gham kaise ho kam tera
-  
-  1
   Sadiyon se rulaata hai abbas alam tera
+
+  1
   Is daur pur khatar may is daur be-amaan may
   Bas ek aasra hai sarkar haram tera
-  
+
   2
   Lagta hai ke lipti hai ammu se sakina jaan
   Jab dekhte hai ek jaa mashkeeza alam tera
-  
+
   3
   Phookon se nahi hoga gul shamme aza sheh ka
   Hai paasban khudrat jis gham ka wo tera
-  
+
   4
   Ye seena zani sheh ki matam ye lahoo aala
   Ehsaan zamane par karta hai raqam tera
-  
+
   5
   Har dard ki manzil se guzre hai ye keh keh kar
   Ta hashr rahoo maula mamnoon karam tera
-  
+
   6
   Sheh kehte thay ay bhai tooti hai kamar meri
   Bardaasht karoo kaise ghurbat may alam tera
-  
+
   7
   Kin sadmon se guzra hai tu jis se mere ghazi
   Alfaz nahi jin may ho dard raqam tera
-  
+
   8
   Tanhaai e sarwar ka tha haal ajab ran may
   Lipte huwe laashe se karte rahe gham tera
-  
+
   9
   Jis naam ka bharti hai dam ab bhi wafa arif
   Be tok kahe taha abbas wo dam tera
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1329
 # raw_sha256: 1fd5a15115b3571a2c2c31149e500b28755438b5777c4ab9bccbed039d7e1bb8
 ---
-
 اے قمر بنی ہاشم غم کیسے ہو کم تیرا
+صدیوں سے رلاتا ہے عباس الم تیرا
 
 ۱
-صدیوں سے رلاتا ہے عباس الم تیرا
 اس دور پر خطر میں اس دور بے امان میں
 بس اک آسرا ہے سرکار حرم تیرا
 

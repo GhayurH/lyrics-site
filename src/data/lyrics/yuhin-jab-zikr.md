@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Aap se aap yuhin jab zikr kahin sheh ka chida
-  
-  1
   Aa gayi khinchke wahin karbobala
+
+  1
   Behre talqeen ali aayenge baali pe meri
   Qabr may aayegi jannat ki hawa
-  
+
   2
   Wo chali binte asad khil uthi deewar e haram
   Dar naya kaabe may tayyaar hua
-  
+
   3
   Haq kahin cheen ke milti hai jahan may iqlaq
   Yun to ban baitha tha firaun khuda
-  
+
   4
   Ittefaqan jo hati chehra e akbar se niqab
   Ashkiyan padne lagay salle alaa
-  
+
   5
   Allah allah wo asghar ka jihad e akbar
   Rakh diya nok pe nawak ka gala
-  
+
   6
   Us taraf ghode se abbas taraai may gire
   Is taraf gir gayi zainab ki rida
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=508
 # raw_sha256: c3faa05f7f3d81b271f323bcc6f710387c1fe829490560af9bccb1c3b1e8ffd5
 ---
-
 آپ سے آپ یونہی جب ذکر کہیں شِہ کا چھڑا
+آگئی کھنچ کہ وہیں کر ب و بلا
 
 ۱
-آگئی کھنچ کہ وہیں کر ب و بلا
 بحرِ تلقین علی آ ئیں گے بالی پہ میری
 قبر میں آئے گی جنت کی ہوا
 

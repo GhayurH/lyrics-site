@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Shabbir tu ne aise bhi dard o alam sahe
-  
-  1
   In ka deher mein saamna mursal na kar sake
+
+  1
   Maqtool tujhsa duya mein guzra nahi koi
   Khud qatl kar ke jisko hai qaatil bhi ro pade
-  
+
   2
   Zainab pe bekasi ki qayamat guzar gayi
   Abbas tere qaatl qaimon mein jab ghuse
-  
+
   3
   Kitni ghareeb hogayi ali ki bahu rubab
   Sab khatm jiske rishte hai ek pal mein hogaye
-  
+
   4
   Ziyarat mein mere baarwe hadi ka hai salaam
   Un bibiyon pe jinke thay baalon mein moo chupe
-  
+
   5
   Unki ameer dunya mein koi nahi misaal
   Raahe khuda mein jinke hai naizon pe sar chade
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3497
 # raw_sha256: d95754a87cd3d61d5d492b27ec66fb733ba539906de97dee57ca61d18e8e3bae
 ---
-
 شبیر تو نے ایسے بھی درد و علم سہے
+ان کا دہر میں سامنا مرسل نہ کر سکے
 
 ۱
-ان کا دہر میں سامنا مرسل نہ کر سکے
 مقتول تجھ سا دنیا میں گزرا نہیں کوئی
 خود قتل کر کے جس کو ہے قاتل بھی رو پڑے
 

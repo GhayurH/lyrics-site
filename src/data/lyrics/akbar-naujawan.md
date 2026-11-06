@@ -9,72 +9,45 @@ poet: "Javaid Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Akbar e naujawan tujhko dhoondun kahan
-
-
-  1
-
+romanLyrics: |-
+  Akbar e naujawan tujhko dhoondun kahan
   Nauha laila ka tha akbar e naujawan
 
+  1
   Tere barchi lagi maa ka dil chidh gaya
-
   Ab jeeye kis tarha teri dukhiyari maa
 
-
   2
-
   Roye ansar o ahle haram kehke ye
-
   Aakhri hai ye aks e nabi ki azan
 
-
   3
-
   Teri tarha lage har jawan ki sada
-
   Dekhti hoo jahan tu dikhe hai wahan
 
-
   4
-
   Khat mila aa ke le jao bemaar ko
-
   Kyun ho naraaz sughra se ay bhai jaan
 
-
   5
-
   Jab pisar ne bulaaya madad ke liye
-
   Shaah karte thay girte sambhalte fughan
 
-
   6
-
   Sheh ne khaynchi sina kehke jab ya ali
-
   Phasliyon se tha baahar dil e bekaraar
 
-
   7
-
   Gaysuon waale tujh par phupi ho fida
-
   Thi yun zainab bhi laashe pe nauha kuna
 
-
   8
-
   Ghash mein pyasi sakina ye kehti rahi
-
   Mujhko dilwado bhaiya meri baaliyan
 
-
   9
-
   Jab ay mirza ye nasir ne nauha padha
-
-  Ashk aankhon mein thay lab pe tha ye bayan'
+  Ashk aankhon mein thay lab pe tha ye bayan
 # source_id: nohayonline:990e51a0d2424424d7fc
 # source_url: https://www.nohayonline.com/details_content.php?id=1895
 # raw_sha256: 300e888461559209e1911a0dc6c3e13e3777abff6c9f6403361179e25216c649
@@ -82,11 +55,10 @@ romanLyrics: 'Akbar e naujawan tujhko dhoondun kahan
 # source_url: https://www.ziyaraat.net/api/noha/1293
 # raw_sha256: 1115188ad4a2c43c5b422ab14e585aae6adbd0f35b437d8da031b318b95ecff1
 ---
-
 اکبر نوجواں تجھکو ڈھونڈوں کہاں
+نوحہ لیلیٰ کا تھا اکبر نوجواں
 
 ۱
-نوحہ لیلیٰ کا تھا اکبر نوجواں
 تیرے برچھی لگی ماں کا دل چھد گیا
 اب جیےء طرح تیری دکھیاری ماں
 

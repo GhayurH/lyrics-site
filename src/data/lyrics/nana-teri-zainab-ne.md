@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Nana teri zainab ne wo dard uthaye hai
-  
-  1
   Zaalim ka zulm dekha aansu nikal aaye hai
+
+  1
   Mai shaam ki galiyon se sar nange guzar aayi
   Nana teri ummat ne din ye bhi dikhaye hai
-  
+
   2
   Pathar jo baraste thay zehra ke gharane par
   Is haal pe suraj ne khud ashk bahaye hai
-  
+
   3
   Ye khoon bhara kurta hai tere nawase ka
   Bhai ki nishani hum tere liye laaye hai
-  
+
   4
   Gham kha gaya zainab ko nana ali akbar ka
   Mat poocho watan mein hum kis tarha se aaye hai
-  
+
   5
   Zindan ke andhere mein neend aayi sakina ko
   Hum qabr sakina ki wahan chod ke aaye hai
-  
+
   6
   Saughat-e-safar nana pardes se hum qaidi
   Ye neel rasan ke hai jo shano pe laaye hai
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=612
 # raw_sha256: 273184b28f517a9b7622d2176333e6e2214a9613977456b57e1fb28f41bc1635
 ---
-
 نانا تیری زینب نے وہ درد اُٹھائے ہیں
+ظالم کا ظلم دیکھا آنسو نکل آئے ہیں
 
 ۱
-ظالم کا ظلم دیکھا آنسو نکل آئے ہیں
 میں شام کی گلیوں سے سر ننگے گُزر آئی
 نانا تیری اُمت نے دن یہ بھی دیکھائے ہیں
 

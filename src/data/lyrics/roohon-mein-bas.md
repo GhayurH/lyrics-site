@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Roohon mein bas gayi hai aqeedat hussain ki
-  
-  1
   Seenon mein dil hai dil mein turbat hussain ki
+
+  1
   Yun deen e mustafa mein hai shirkat hussain ki
   Allah ki azaan hai aqamat hussain ki
-  
+
   2
   Farshe aza hai mere liye gham ki janamaz
   Ashkon se kar raha hoon ibadat hussain ki
-  
+
   3
   Deen e mohamadi se nikal jaaye wo abhi
   Jis ko nahi qubool qayadat hussain ki
-  
+
   4
   Ruswa jagah jagah na musalman ho kabhi
   Dil se nikaal de jo adawat hussain ki
-  
+
   5
   Haathon mein hai hussain ke zulf e nabi muhaar
   Marzi pe chal rahi hai risalat hussain ki
-  
+
   6
   Sikka ali ka aur khuda ka nizaam ho
   Ho mustafa ka mulk hukumat hussain ki
-  
+
   7
   Pani ka jaam saamne aata hai jitni baar
   Karta hoon itni baar ziyarat hussain ki
-  
+
   8
   Asghar ko laaye ran mein ye kehte huwe hussain
   Nana bas aakhri hai ye khidmat hussain ki
-  
+
   9
   Cha chal ke ruk raha tha jo gardan pe baar baar
   Khanjar tabhi garan thi aziyat hussain ki
-  
+
   10
   Talwaar dushmano pe hai mehshar tera qalam
   Tere qalam ki zarbat hai zarbat hussain ki
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3478
 # raw_sha256: 2dff7a1090f4e9e7611bd64e4cab67df02f3b924539f20aad947e0a4502d0043
 ---
-
 روحوں میں بس گیء ہے عقیدت حسین کی
+سینوں میں دل ہے دل میں تربت حسین کی
 
 ۱
-سینوں میں دل ہے دل میں تربت حسین کی
 یوں دین مصطفیٰ میں ہے شرکت حسین کی
 اللّٰہ کی اذاں ہے اقامت حسین کی
 

@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Thi haram ki ye sada abbas ke hote huwe
-  
-  1
   Kaun cheenega rida abbas ke hote huwe
+
+  1
   Tashnagi be aab sehraon ki wehshat kuch nahi
   Dushmanane deene paighambar ki kasrat kuch nahi
   Khanjaron teeron ki talwaron ki taaqat kuch nahi
   Gham bhala kis baat ka abbas ke hote huwe
-  
+
   2
   Kaamp uthegi faza us sher ki lalkaar se
   Taygh kya shamsheer kya bas abruon ke waar se
   Faujein takrayegi jaa kar shaam ki deewar se
   Kya karenge ashkiyan abbas ke hote huwe
-  
+
   3
   Haath mein wo khushk kooze aur sada e alatash
   Hont neele zard chehre aur sada e alatash
   Saaqi e kausar ke bacche aur sada e alatash
   Kis ne socha tha bhala abbas ke hote huwe
-  
+
   4
   Roz aayenga tere deedar ko ahle jahan
   Teri azmat ko salaami dega bad kar aasman
   Har zameen ta hashr dohrayegi teri daastan
   Gham na kar ay karbala abbas ke hote huwe
-  
+
   5
   Mujhko sone hi nahi deti mere dil ki chuban
   Thay yehi waqt e wasiyat mere baba ki sukhan
   Ay meri zainab bandhegi tere shaano mein rasan
   Maan loo kaise bhala abbas ke hote huwe
-  
+
   6
   Maine maana hongi faujein dushmano ki saf ba saf
   Ye to batlao zara beti ko ya shaah e najaf
   Dekhein nazron ko utha kar ashkiyan meri taraf
   Kaise mumkin hai bhala abbas ke hote huwe
-  
+
   7
   Is bulandi par muqaddar ke sitaare dekh kar
   Chaaro jaanib apne athara sahare dekh kar
   Roz kehti thi sakina apne goshware dekh kar
   Kaun cheenega chacha abbas ke hote huwe
-  
+
   8
   Lut gaya karbobala mein fatema zehra ka ghar
   Marsiya padne laga jis dam basheer e motabar
   Ghaiz mein ummul baneen boli asa ko thaam kar
   Ye sitam kyun kar hua abbas ke hote huwe
-  
+
   9
   Marzi e shabbir ke akkaas ko kuch mat kaho
   Meri chaahat ko mere ehsaas ko kuch mat kaho
   Tum ko zainab ki qasam abbas ko kuch mat kaho
   Ghar salamat tha mera abbas ke hote huwe
-  
+
   10
   Marzi e maula pe raazi hai bilal e kazmi
   Kehdo ay aamir namazi hai bilal e kazmi
@@ -76,11 +76,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2439
 # raw_sha256: fa543614494bb501d2b9caa70e2bb4a255f1f4c97cf97c116e56eb4f14f9e180
 ---
-
 تھی حرم کی یہ صدا عباس کے ہوتے ہوے
+کون چھینے گا ردا عباس کے ہوتے ہوے
 
 ۱
-کون چھینے گا ردا عباس کے ہوتے ہوے
 تشنگی بے آب صحراؤں کی وحشت کچھ نہیں
 دشمنانِ دین پیغمبر کی کثرت کچھ نہیں
 خنجروں تیروں کی تلواروں کی طاقت کچھ نہیں

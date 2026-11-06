@@ -11,64 +11,64 @@ aliases: []
 published: false
 romanLyrics: |-
   Azakhane hai jiski shaan ye mera mulk mera emaan
-  
-  1
   Mere maula ki khwahish ka naam hai hindustan
+
+  1
   Chand muharram ka jab nikla gaon huwe saare aabaad
   Gali gali se shor utha ke nasle yazeedi murdabad
   Hindu'on ke lab par hai shabbir hamara zindabad
   Dunya ke har mulk se zayed hind mein hai hum sab azaad
   Isi se saari dunya se acha hai hindustan
-  
+
   2
   U.p m.p karnatak gujrat goa dehli aasaam
   Manipur bihar himachal hai laddakh baland maqam
   In sab ki qismat ki jabeen par likha hai shabbir ka naam
   Subho azane akbar se hai shaam e gariban inki shaam
   Dashte bala ki yaad mein tapta hai wo rajasthan
-  
+
   3
   Haryana punjab mizoram andhr tamil keral kashmir
   Daman diu telangana pandicherry gham ki tasveer
   Andaman chattisgarh aur uttrakhand gham ki tanveer
   Maharashtr ho ya ke odisa shaane aza ki hai jageer
   Sheh ki azadari ka in sab par hai bada ehsaan
-  
+
   4
   Masjid ke jo ehtaram ki ek hadh par ruk jaata hai
   Hindu wo lekin ye sach hai farshe aza par aata hai
   Qaumi yekjehti ka hunar ye farshe aza sikhlata hai
   Sikh esaayi apni muradein farshe aza se paata hai
   Farshe aza par aane se ghabrata hai shaitan
-  
+
   5
   Mulk hai mera sab se pyara mulk se hai hum sab ko pyar
   Iski khaatir jeena marna asl hussaini hai kirdaar
   Sheh ki azadari se hi ye mulk hua har soo zaubaar
   Iski azadi mein shaamil karbobala ka hai eesaar
   Aise watan se ulfat karna nisf hua emaan
-  
+
   6
   Maana ke dunya ke har goshe mein raaij sheh ki aza
   Lekin apne mulk ki raaij sheh ki aza ka kya kehna
   Karbobala se door bani taskeen ki laakhon karbobala
   Kalmago kya hindu'on ke ghar mein aza ka farsh bicha
   Sheh ki azadari se hai ye bharat desh mahaan
-  
+
   7
   Waadi waadi sehra sehra matam e sheh jangal jangal
   Darya darya saahil saahil khushki ho yaa ke jal thal
   Sadiyon se hai zikre shahe deen sa’at sa’at har ek pal
   Gulshan gulshan koh ka daaman sausan ho ya phool kawal
   Patta patta boota boota mausam e gham ki shaan
-  
+
   8
   Nagaland meghalay sikkim arunachal jharkhand tripura
   Asle namaze ishqe aza har ek ne ki hai in mein adaa
   Inke dil ke daaman mein pur noor hui hai karbobala
   Lakhsdeep aur chandigarh mein goonji hai matam ki sada
   Sheh ki azadari hi unki asl mein hai pehchaan
-  
+
   9
   Hindu muslim sikh eesaai ke hai labon par shaah ka naam
   Qaumi yekjehti ka kya is behtar hoga paigham
@@ -79,11 +79,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3643
 # raw_sha256: c7eeba1069a5fb36d70347a2ee7276ff6ab0fb91ea9808874f60d40dd22fe1d7
 ---
-
 عزا خانے ہے جس کی شان یہ میرا ملک میرا ایمان
+میرے مولا کی خواہش کا نام ہے ہندوستان
 
 ۱
-میرے مولا کی خواہش کا نام ہے ہندوستان
 چاند محرم کا جب نکلا گاؤں ہوئے سارے آباد
 گلی گلی سے شور اٹھا کہ نسل یزیدی مردہ باد
 ہندوؤں کے لب ہے شبیر ہمارا زندہ باد

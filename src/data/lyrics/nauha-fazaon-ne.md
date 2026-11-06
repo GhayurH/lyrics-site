@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Nauha fazaon ne sunaya faraat ka
-  
-  1
   Saahil pe qatl hogaya saqqa faraat ka
+
+  1
   Pyase ka khoon beh gaya mashkeeza chid gaya
   Lehron ke shor may tadapna faraat ka
-  
+
   2
   Bacche taras ke reh gaye pani ki boond ko
   Shaane kata ke soya maseeha faraat ka
-  
+
   3
   Wapas na aa sakega sakina tera chacha
   Kya dekhti hai har ghadi rasta faraat ka
-  
+
   4
   Hai sabeel mashk e sakina ki yaad may
   Taqseem ho raha hai ye sadqa faraat ka
-  
+
   5
   Maujein tawaf karti hai ghazi ki qabr ka
   Abbas ka mazaar hai kaaba faraat ka
-  
+
   6
   Karbobala se shaam sakina ki qabr tak
   Bachi ko pani dhoondta aaya faraat ka
-  
+
   7
   Pyason ke gham may sookh gaya zard hogaya
   Jaawed hum ne dekha hai chehra faraat ka
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2185
 # raw_sha256: b30626a8cabf6bdf631bbd4f73713a30d9cab55f3c8fd310351d35ca8d1594a7
 ---
-
 نوحہ فضاؤں نے سنایا فرات کا
+ساحل پہ قتل ہو گیا سقہ فرات کا
 
 ۱
-ساحل پہ قتل ہو گیا سقہ فرات کا
 پیاسے کا خون بہہ گیا مشکیزہ چھد گیا
 لہروں کے شور میں تڑپنا فرات کا
 

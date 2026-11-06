@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Rehgayi dasht may tanha to watan yaad aaya
-  
+
   1
   Pani paaya to har ek tashna dahan yaad aaya
   Leke har cheez madine se chali thi zainab
@@ -19,7 +19,7 @@ romanLyrics: |-
   Shabbir teri ghurbat ki qasam mai laash teri dafna deti
   Gar sar pe mere chadar hoti mai tujhko kafan pehna deti
   Shabbir ye des paraya hai warna mai tumhari mayyat par
-  
+
   2
   Ambaar lagati kaliyon ke phoolon ki meenh barsa deti
   Shabbir tumhe maloom to hai mere haath bandhe hai gardan se
@@ -27,43 +27,38 @@ romanLyrics: |-
   Shabbir ye tumne acha kiya kaabe se nikal aaye warna
   Ye ummat qaimon ke badle may kaabe ko aag laga deti
   Kausar ye kise haq haasil hai tehreer nabi ki chaak kare
-  
+
   3
   Ummat ko agar manzoor na tha zehra ko sanad lauta deti
   Behan ghareeb hai bhaiya kafan bhi la na saki
   Ay bhai ahle sitam se tujhe bacha na saki
   Wo jiski shaadi ka armaan tha mujhe bhaiya
   Mai aisi ujdi ke dulha usay bana na saki
-  Behan ghareeb hai…
-  
+
   4
   Kaha rubab ne rokar ye pyase asghar se
   Mujhe ye gham hai ke pani tujhe pila na saki
   Behan ghareeb hai…
   Ay bhai shsam e ghariban ke ghup andhere may
   Tumhari bali sakina ko neend aa na saki
-  Behan ghareeb hai…
-  
+
   5
   Dafan tamam shaheedo ke hogaye laashe
   Mai apne bhai ki turbat magar bana na saki
   Behan ghareeb hai…
   Ghareeb bhai ka matam na kar saki zainab
   Tumhari laash pe aansu bhi mai baha na saki
-  Behan ghareeb hai…
-  
+
   6
   Jalaya aag ne daman ko is tarha bhaiya
   Tumhari beti sakina usay bujha na saki
   Behan ghareeb hai…
   Yazeediyat ne to chaaha hussainiyat na rahe
   Ghame hussain ko dunya mohib mita na saki
-  Behan ghareeb hai…
 # source_id: nohayonline:d9f5a363feeecd1bfacd
 # source_url: https://www.nohayonline.com/details_content.php?id=772
 # raw_sha256: 61a68e296b300e1b92f2f47c20952cb0a6dbfcf702e404a417d596d8b7fbe6a2
 ---
-
 رہ گئی دشت میں تنہا تو وطن یاد آیا
 
 ۱
@@ -88,7 +83,6 @@ romanLyrics: |-
 اے بھائی اہلِ ستم سے تجھے بچا نہ سکی
 وہ جس کی شادی کا مجھے ارمان تھا بھیا
 میں ایسی اُجڑی کے دولہا اُسے بنا نہ سکی
-بہن غریب ہے۔۔۔
 
 ۴
 کہا رباب نے یہ رو کر پیاسے اصغر سے
@@ -96,7 +90,6 @@ romanLyrics: |-
 بہن غریب ہے۔۔۔
 اے بھائی شامِ غریباں کے گُپ اندھیرے میں
 تمہاری بالی سکینہ کو نیند آ نہ سکی
-بہن غریب ہے۔۔۔
 
 ۵
 دفن تمام شہیدوں کے ہو گئے لاشے
@@ -104,7 +97,6 @@ romanLyrics: |-
 بہن غریب ہے۔۔۔
 غریب بھائی کا ماتم نہ کر سکی زینب
 تمہاری لاش پہ آنسو بھی میں بہا نہ سکی
-بہن غریب ہے۔۔۔
 
 ۶
 جلایا آگ نے دامن کو اس طرح بھیا
@@ -112,4 +104,3 @@ romanLyrics: |-
 بہن غریب ہے۔۔۔
 یزیدیت نے تو چاہا حسینیت نہ رہے
 غمِ حسین کو دُنیا محب مٹا نہ سکی
-بہن غریب ہے۔۔۔

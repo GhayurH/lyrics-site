@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Ajab zehra ke bete ki ghareebi ka zamana hai
-  
-  1
   Kamar tooti hai aur abbas ka laasha uthana hai
+
+  1
   Taraayi par jise loota hai mil kar shaam waalon ne
   Ali e murtaza ke daaman e dil ka khazana hai
-  
+
   2
   Layeen kehte thay abbas e jari ko qatl kar daalo
   Agar is aalam e ghurbat mein sarwar ko rulana hai
-  
+
   3
   Wafa ghazi ki kehti thi pharere ka lahoo pocho
   Alam ko bibiyon ke darmiyan qaime mein jaan hai
-  
+
   4
   Kaha shabbir ne amma sambhalo haath ghazi ke
   Inhe baali sakina ke nigahon se chipana hai
-  
+
   5
   Ridayein ro ke kehti thi na jao jaanib e darya
   Tumhe to zainab o kulsoom ka parda bachana hai
-  
+
   6
   Hua hai imtehan kab khatm ghazi ke kate sar ka
   Abhi to berida behno ko le kar shaam jaana hai
-  
+
   7
   Ajal akbar ke laashe par ye keh kar bain karti thi
   Jigar hai naujawan ka magar naiza purana hai
-  
+
   8
   Ye keh kar dasht mein sheh turbat e asghar banate hai
   Mujhe ay zulfeqar ab sabr tera aazmana hai
-  
+
   9
   Bilal e kazmi ta zindagi abbas ke gham mein
   Yunhi likh likh ke masomeen ko nauhe sunana hai
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2876
 # raw_sha256: 4ac261f1e6eb0e6ab6bd05c5306b3875e0f2fb265dfbf8cc5d1a6de519aa1ee4
 ---
-
 عجب زہرا کے بیٹے کی غریبی کا زمانہ ہے
+کمر ٹوٹی ہے اور عباس کا لاشہ اٹھانا ہے
 
 ۱
-کمر ٹوٹی ہے اور عباس کا لاشہ اٹھانا ہے
 ترای پر جسے لوٹا ہے مل کر شام والوں نے
 علی مرتضیٰ کے دامان دل کا خزانہ ہے
 

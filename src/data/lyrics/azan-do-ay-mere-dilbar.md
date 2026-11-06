@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Azan do ay mere dilbar savera hone wala hai
-  
-  1
   Tumhare baad aalam mein andhera hone wala hai
+
+  1
   Kaha sarwar ne akbar se ujala hone wala hai
   Bala ke ban mein ek khooni savera hone wala hai
   Hamare khoon se rangeen sehra hone wala hai
   Kaleje se tumhare paar naiza hone wala hai
-  
+
   2
   Rasool allah ki itrat par aafat aane wali hai
   Ali ke naunehalon par musibat aane wali hai
   Nabi ki aal par subhe qayamat aane wali hai
   Aseerane haram ki shaam e ghurbat aane wali hai
-  
+
   3
   Shaheede zulm hojayenge bhai bhi bhatije bhi
   Tahe tayghe sitam hojayenge bache bhi boodhe bhi
   Chidegi gardane asghar jawano ke kaleje bhi
   Chalenge teer bhi talwar bhi khanjar bhi naize bhi
-  
+
   4
   Juda shaane kisi ke aur kisi ke sar qalam honge
   Na abbas e jari honge na tum honge na hum honge
   Hamare qaanwade par bahot zulm o sitam honge
   Jafaon par jafa hogi bala honge alam honge
-  
+
   5
   Labe darya mere haaton pa naazon ka pala hoga
   Zaban sookhe labon par hogi aur manka dhala hoga
   Sitam insaniyat par is se bad kar aur kya hoga
   Mere baysheer ki gardan mein teer e hurmala hoga
-  
+
   6
   Sitamgaron ka nargha hoga aur aale abaa hogi
   Rasan basta hamare baad binte murtaza hogi
   Bhare darbar mein zehra ki beti berida hogi
   Meri nanhi sakina par tamachon ki jafa hogi
-  
+
   7
   Shab e ashoor sheh ke qaimo mein mirza tha ek mehshar
   Basad hasrat pisar se apne farmate thay jab sarwar
@@ -58,11 +58,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=573
 # raw_sha256: fc57d183aab018c54849f48e0f813bfc407cc1334d6631e04284dcd7727c45db
 ---
-
 اذان دو اے میرے دلبر سویرا ہونے والا ہے
+تمہارے بعد عالم میں اندھیرا ہونے والا ہے
 
 ۱
-تمہارے بعد عالم میں اندھیرا ہونے والا ہے
 کہا سرور نے اکبر سے اجالا ہونے والاہے
 بلا کے بن میں اک خونی سویرا ہونے والا ہے
 ہمارے خون سے رنگین سہرا ہونے والا ہے

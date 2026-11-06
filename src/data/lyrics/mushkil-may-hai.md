@@ -11,64 +11,64 @@ aliases: []
 published: false
 romanLyrics: |-
   Mushkil mein hai hussain musibat mein hai hussain
-  
-  1
   Baba madad ko aaiye mushkil mein hai hussain
+
+  1
   Barsa raha hai aag biyaban e karbala
   Akbar gire hai bar sare maidan e karbala
   Moo tak raha hai bete ka mehman e karbala
   Sharma raha hai booda pidar apne aap se
   Do ghoont pani maanga hai bete ne baap se
-  
+
   2
   Taqdeer hai hussain ki ghurbat pe ashk baar
   Kadiyal jawan se sheh ki zaeefi hai sharm saar
   Akbar ne kuch hussain se maanga hai pehli bar
   Sharma raha hai booda pidar apne aap se
   Do ghoont pani maanga hai bete ne baap se
-  
+
   3
   Ghurbat mein nabz e jaan ko rawani kahan se de
   Tu hi bata de yusuf e saani kahan se de
   Baba se jaan maang le pani kahan se de
   Sharma raha hai booda pidar apne aap se
   Do ghoont pani maanga hai bete ne baap se
-  
+
   4
   Hai inteha hussain ke ranj o malaal ki
   Khwahish kahan se poori kare naunehaal ki
   Haalat hai ghair saaqi e kausar ke laal ki
   Sharma raha hai booda pidar apne aap se
   Do ghoont pani maanga hai bete ne baap se
-  
+
   5
   Maqtal mein sar jhukaye hai tashna dahan hussain
   Akbar ko kaise shaad kare khastatan hussain
   Haathon ko mal raha hai ghareebul watan hussain
   Sharma raha hai booda pidar apne aap se
   Do ghoont pani maanga hai bete ne baap se
-  
+
   6
   Noor e nazar ki pyaas se haalat ajeeb hai
   Abbas hi hai saath na darya khareeb hai
   Allah re hussain ka kaisa naseeb hai
   Sharma raha hai booda pidar apne aap se
   Do ghoont pani maanga hai bete ne baap se
-  
+
   7
   Honton pe aisi pyaas hai kadiyal jawan ke
   Chubte hai dil mein baap ke kaante zaban ke
   Chehra dhuan dhuan hai to laale hai jaan ke
   Sharma raha hai booda pidar apne aap se
   Do ghoont pani maanga hai bete ne baap se
-  
+
   8
   Kumla rahi hai pyaas gulaab e hayaat ko
   Be noor kar na jaye pisar kayenaat ki
   Hasrat se dekhti hai nigahein furaat ko
   Sharma raha hai booda pidar apne aap se
   Do ghoont pani maanga hai bete ne baap se
-  
+
   9
   Bechainiyo ne ghera hai zehra ke chain ko
   Sadma bada hai aamir o akhtar hussain ko
@@ -79,11 +79,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1808
 # raw_sha256: d1da674d025d253f8651b4664d6a98eaf22a2aa508fa86d490ef79a2cb15d4e6
 ---
-
 مشکل میں ہے حسین مصیبت میں ہے حسین
+بابا مدد کو آیےء مشکل میں ہے حسین
 
 ۱
-بابا مدد کو آیےء مشکل میں ہے حسین
 برسا رہا ہے آگ بیابان کربلا
 اکبر گرے ہیں برسر میدان کربلا
 منہ تک رہا ہے بیٹے کا میہمان کربلا

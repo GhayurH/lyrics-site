@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Jalta hua bistar koi beemar na dekhe
-  
-  1
   Be-jurm o khata tauq e girabaar na dekhe
+
+  1
   Mar jaaye na sadme hi se beemar ilaahi
   Be parda haram ko sar e bazaar na dekhe
-  
+
   2
   Maango ye duayein shab e ashoor sakina
   Ye raat kabhi subho ke aasaar na dekhe
-  
+
   3
   Thi fikr ye zainab ko rida bhi nahi sar par
   Is haal may abbas e alamdaar na dekhe
-  
+
   4
   Sar naize se ghazi ne giraya hai zameen par
   Zainab ka khula sar koi badkaar na dekhe
-  
+
   5
   Maare hai sitamgar ne sakina ko tamache
   Zaalim ne zara phool se rukhsaar na dekhe
-  
+
   6
   Milti hai kaleem usko sakina se duayein
   Bachon ko jo be-yaar o madadgaar na dekhe
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1430
 # raw_sha256: 4cd40d62c20493a5fa784a61125448e594df268448f7a9d771667bdfd8e77e94
 ---
-
 جلتا ہوا بستر کوئی بیمار نہ دیکھے
+بے جرم و خطا طوقِ گراں بار نہ دیکھے
 
 ۱
-بے جرم و خطا طوقِ گراں بار نہ دیکھے
 مر جاۓ نہ صدمے ہی سے بیمار الہی
 بے پردہ حرم کو سر بازار نہ دیکھے
 

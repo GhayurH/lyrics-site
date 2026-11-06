@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Ujde huwe gharon se awaaz aa rahi hai
-  
-  1
   Ab laut aa musafir zehra bula rahi hai
+
+  1
   Ek saal yun guzaara takti rahi mai raahein
   Bas dhoondti hai bhaiya tumko meri nigahein
   Ab laut aao akbar sughra bula rahi hai
-  
+
   2
   Mehendi lagaungi mai sehra sajaungi mai
   Armaan hai ye maa ka dulhan bhi laaungi mai
   Ab laut aao qasim farwa bula rahi hai
-  
+
   3
   Ay aun or mohamed tum jin mein khelte thay
   Sooni hai ab wo galiyan veeran hai wo hujre
   Ab laut aao pyaron dukhiya bula rahi hai
-  
+
   4
   Maa dhoop mein rahegi faryad bhi karegi
   Jab tak na aaoge tum pani nahi piyegi
   Ab laut aao asghar mamta bula rahi hai
-  
+
   5
   Ummul baneen ro kar ye kar rahi hai nauha
   Tum dashte karbala mein kulsoom par thay fidya
   Ab laut aao ghazi behna bula rahi hai
-  
+
   6
   Bas waarise ali se farhan aur mazhar
   Karte hai dil ki baatein farshe aza bicha kar
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3017
 # raw_sha256: bf193faabad81aa32e68b18f8958ef81ba5d37df61afcbe971f3c757cc965715
 ---
-
 اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اب لوٹ آ مسافر زہرا بلا رہی ہے
 
 ۱
-اب لوٹ آ مسافر زہرا بلا رہی ہے
 ایک سال یوں گزارا تکتی رہی میں راہیں
 بس ڈھونڈتی ہے بھیا تم کو میری نگاہیں
 اب لوٹ آؤ اکبر صغرا بلا رہی ہے

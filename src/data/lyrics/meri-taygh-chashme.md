@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Mai jihad kar raha hoo meri taygh chashme tar hai
-  
-  1
   Meri dushmano ko har dam mere aansuon se darr hai
+
+  1
   Ye alam mera tashakhkhus ye alam mera ta'arruf
   Aur isis ke zere saaya mere waqt ka safar hai
-  
+
   2
   Jo hua hai karbala mein wo likha gaya bahot kam
   Jo chupaye hai mazaalim wo moarriqo ka shar hai
-  
+
   3
   Mere aansuon ne phir to ye bisaak hi ulat di
   Wo hussainiyo ke dil mein na to khauf hai na darr hai
-  
+
   4
   Magar itna yaad rakhan ke hai ghaib mein jo qayam
   Hamein intezar uska wo hamara muntazar hai
-  
+
   5
   Wo jab aayega zameen par to phir inteqam lega
   Mera ek ek lamha bas usi ke naam par hai
-  
+
   6
   Tujhe ay layeen khabar hai ke ye kaun khoon mein tar hai
   Jise zibha kar raha hai wo rasool ka pisar hai
-  
+
   7
   Wo jo kohniyo ke bal par kisi laash par hai aaya
   Wo sina bhi khaynch lega ke jawan ka padar hai
-  
+
   8
   Wo lahoo falak ki azmat wo lahoo zameen ki hurmat
   Rukhe sheh pe jo saja hai wo lahoo azeem tar hai
-  
+
   9
   Ye makaye harf shahid mere paas hai amanat
   Ke farogh doo aza ko yehi mansabe hunar hai
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=745
 # raw_sha256: e800d6876b35f66e52a851bba4c959c1901d049342508de571ddaf7f448a3f30
 ---
-
 میں جہاد کر رہا ہوں میری تیغ چشم تر ہے
+میرے دشمنوں کو ہر دم میرے آنسوئوں سے ڈر ہے
 
 ۱
-میرے دشمنوں کو ہر دم میرے آنسوئوں سے ڈر ہے
 یہ علم میرا تشَخّص یہ علم میرا تعارف
 اور اسی کے زیر سایہ میرے وقت کا سفر ہے
 

@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Tasht se uth ke chala hazrate shabbir ka sar
-  
-  1
   Hasrat o yaas se daali jo sakina ne nazar
+
+  1
   Imtehan baani e shar ne jo sakina ka liya
   Ho gaya shaam ke darbar mein kohraam bapa
   Dekh kar rone lage ahle nazar ye manzar
-  
+
   2
   Sar jhukaye sare darbar khadi thi bacchi
   Ye khuda jaane ke kya soch rahi thi bacchi
   Ashk aankhon se gire jab ke zameen ke upar
-  
+
   3
   Neel ruksaar ka baba ko dikhaya hoga
   Kitne khaaye hai tamache ye bataya hoga
   Apne dukh dard kiye honge bayan ro ro kar
-  
+
   4
   Chup rahi bali sakina ne kahan kuch bola
   Sirf ek baar jale kurte ka daaman khola
   Koi shikwa ya shikayat nahi laayi lab par
-  
+
   5
   Dekhte rote huwe kaise yateema ko hussain
   Kar nahi sakte thay meinoos sakina ko hussain
   Haath phailaye bulaane ke liye jab ro kar
-  
+
   6
   Chaahte kab ke sakina ko koi kuch bole
   Kab gawara tha zaban apni sitamgar khole
   Beridayi ka safar rakhte huwe madde nazar
-  
+
   7
   Baap shabbir sa aur beti sakina jaisi
   Dhoondne se bhi kisi ko na mila aur na mili
   Hum ne dekha sare darbar ye chaahat ka asar
-  
+
   8
   Jalwagar doshe hawa pe sare sarwar dekha
   Jaane kin aankhon se zaalim ne ye manzar dekha
   Sharm se apna utha paaya na sar baani e shar
-  
+
   9
   Kaifiyat bali sakina ki bayan kaise karun
   Dard jo dil mein hai chehre pe ayan kaise karun
   Neel hi neel nazar aate thsy ruksaron par
-  
+
   10
   Moo pe moo rakh ke sakina ne kiye bain asif
   Chand lamhe hi yateema ko mila chain asif
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2145
 # raw_sha256: cb4ba0d0dec820e10e31041d61cf7f9a5b90a0be2e42021388d09ddd6f07e6f4
 ---
-
 طشت سے اٹھ کے چلا حضرتِ شبیر کا سر
+حسرت و یاس سے ڈالی جو سکینہ نے نظر
 
 ۱
-حسرت و یاس سے ڈالی جو سکینہ نے نظر
 امتحاں بانیء شر نے جو سکینہ کا لیا
 ہو گیا شام کے دربار میں کہرام بپا
 دیکھ کر رونے لگے اہلِ نظر یہ منظر

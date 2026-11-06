@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Hyder ki wasiyat hai ye saare zamane ko
-  
-  1
   Zainab ko nahi aaye koi bhi rulaane ko
+
+  1
   Taakeed hai hargiz ye koi na sitam dhaaye
   Shabbar ka janaza jab madfan ke liye jaaye
   Mayyat pe nahi aana tum teer chalane ko
-  
+
   2
   Qatil ko hassan beta tum jaam pila dena
   Tum saaqi e kausar ke bete ho bata dena
   Hyder ki kareemi ka ehsaas dilaane ko
-  
+
   3
   Abbas ko maula ne nazdeek bulaya tha
   Shaano pe diye bosay seene se lagaya tha
   Shabbir ke lashkar ka salaar banane ko
-  
+
   4
   Zainab se kaha beti shabbir na pyasa ho
   Maa jaise pilaati thi pani isay raaton ko
   Zehra ki tarha rehna tum pyaas bujhane ko
-  
+
   5
   Shabbir se bole ye abid ko bata dena
   Jab shaam ho barpa to zainab na rahe tanha
   Bazaar ke manzar mein sadmaat uthane ko
-  
+
   6
   Fizza ke liye ki hai maula ne ye wasiyat
   Darbar e yazeedi mein jab zad pe hogi ismat
   Tum dhaal wahan hona tatheer bachane ko
-  
+
   7
   Taskeen ki khaatir ye shabbir se farmeina
   Tum shaad raho beta aur shaad usay rakhna
   Beti jo khuda dega seene pe sulaane ko
-  
+
   8
   Aakhir mein kiya yasir maula ne ada kalma
   Muslim meri beti ki khaatir hai mera lehja
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1684
 # raw_sha256: f2928557f6b16ea0d7ef58da115d35726db8dbaa3ec52c842478f02cfd01f789
 ---
-
 حیدر کی وصیّت ہے یہ سارے زمانے کو
+زینب کو نہیں آے کوئی بھی رلانے کو
 
 ۱
-زینب کو نہیں آے کوئی بھی رلانے کو
 تاکید ہے ہر گز یہ کوئی نہ ستم ڈھاے
 شبر کا جنازہ جب مدفن کے لئے جاے
 میت پہ نہیں آنا تم تیر چلانے کو

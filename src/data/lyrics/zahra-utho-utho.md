@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Awaaz de rahi hai ye zahra utho utho
-  
-  1
   Phir gham ka chand arsh pe nikla utho utho
+
+  1
   Is chand mein hamara bhara ghar ujad gaya
   Naiza ghamon ka mere kaleje mein gad gaya
   Mera hussain mar gaya pyasa utho utho
-  
+
   2
   Utho karo hussain ki majlis ka ehtemam
   Karna hai tumko maahe muharram ka intezam
   Dekho yehi hai meri tamanna utho utho
-  
+
   3
   Utho ki aa gaya hai wohi gham ka mahina
   Jis mein yateem ho gayi masoom sakina
   Aayi hai mere saath yateema utho utho
-  
+
   4
   Rona hai usko jis pe layeeno ne ki jafa
   Dashte bala mein jisko kafan bhi na mil saka
   Mai uska lene aayi hoon pursa utho utho
-  
+
   5
   Godhi mein meri kaata gaya hai sar e hussain
   Batlao kaise aaye bhala maa ke dil ko chain
   Phat'ta hai mera gham se kaleja utho utho
-  
+
   6
   Mai uski maa hoon maara gaya hai jo tishna kaam
   Waqte akheer bhi jo tumhe keh gaya salaam
   Tum ho usi ghareeb ke shia utho utho
-  
+
   7
   Is khair ke ewaz mein tumhe bakhshwaungi
   Tum ko liye bina mai na jannat mein jaaungi
   Zahra ye tumse karti hai waada utho utho
-  
+
   8
   Waiz khareeb e maahe muharram yehi sada
   Aati hai mere kaano mein reh reh ke baareha
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3147
 # raw_sha256: 53ef46a0139efbab3432ce2f5c77f3d88d082b8e2264e39fa52d6eaad26d48e8
 ---
-
 آواز دے رہی ہے یہ زہرا اٹھو اٹھو
+پھر غم کا چاند عرش پہ نکلا اٹھو اٹھو
 
 ۱
-پھر غم کا چاند عرش پہ نکلا اٹھو اٹھو
 اس چاند میں ہمارا بھرا گھر اجڑ گیا
 نیزہ غموں کا میرے کلیجے میں گڑھ گیا
 میرا حسین مر گیا پیاسا اٹھو اٹھو

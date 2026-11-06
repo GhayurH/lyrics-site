@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Zinda rahe hussain tera gham manayenge
-  
-  1
   Ay fatema ke laal ye waada nibhayenge
+
+  1
   Ghar mein hamare aayengi majlis mein fatema
   Farshe aza ke saath ye dil bhi bichayenge
-  
+
   2
   Jhoole amariyan ye shabihe ye taaziye
   Tehzeeb e gham se dard ke manzar sajayenge
-  
+
   3
   Ye unka hai juloos jo pyase hue shaheed
   Hum iske raaste mein sabilay lagayenge
-  
+
   4
   Kehte hai chote chote se bache ye baap se
   Ek roz baba jaan ye alam hum uthayenge
-  
+
   5
   Kuch dayr zuljana mera ghar pe rok do
   Pyase ki is sawari ko pani pilayenge
-  
+
   6
   Bachpan se hai dua ke bana'yenge ghar jahan
   Ashoor-khana ghar mein wahan hum sajayenge
-  
+
   7
   Ghar mein agar ho nazre sakina to hai yaqeen
   Us nazr mein sakina ke ammu bhi aayenge
-  
+
   8
   Kis shan ke milay hai namazi hussain ko
   Teero ke saamne ye musalle bichayenge
-  
+
   9
   Bachon ke apne sajdaye shabbir ki qasam
   Matam ke saath saath namazein sikhayenge
-  
+
   10
   Raahe hussainiat ke shaheedon salam lo
   Inko na apne dil se kabhi hum bhulayenge
-  
+
   11
   Baade zahoor hoga moharam ka ye hasham
   Hum karbala imam ke ham-raah jayenge
-  
+
   12
   Nauha bhi hai safeer e aza sarwar o hilal
   Jis des bhi jayenge nauha sunayenge
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=163
 # raw_sha256: 44e9155461316c881b0f27de4c3aa537a01907aecf9e8ed35713e0e366b38dca
 ---
-
 زندہ رہے حسین تیرا غم منائیں گے
+اے فاطمہ کے لال یہ وعدہ نبھائیں گے
 
 ۱
-اے فاطمہ کے لال یہ وعدہ نبھائیں گے
 گھر میں ہمارے آئیں گی مجلس میں فاطمہ
 فرشِ اعزا کے ساتھ یہ دل بھی بچھائیں گے
 

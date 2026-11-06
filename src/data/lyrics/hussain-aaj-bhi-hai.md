@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Hai karbala ka ye daawa hussain aaj bhi hai
-  
-  1
   Ye kisne keh diya kal tha hussain aaj bhi hai
+
+  1
   Shahadaton ke labon par hai shukriya zainab
   Na hoti tu to simat jaati karbala zainab
   Teri waseele se zinda hussain aaj bhi hai
-  
+
   2
   Ye hurr mizaaj se kehti hai majlise shabbir
   Bas ek pal badal jayegi teri taqdeer
   Aza ke farsh pe aaja hussain aaj bhi hai
-  
+
   3
   Wo aur honge jinhe apni jaan hai pyari
   Khaza ke khauf se kyun chod de azadari
   Hai jab yaqeen hamara hussain aaj bhi hai
-  
+
   4
   Juloos may jo kabhi zuljanah aata hai
   To iske chalne ka andaaz ye batata hai
   Ke jaise zeen pe baitha hussain aaj bhi hai
-  
+
   5
   Ye daawa theek hai mukhtar aur takallum ka
   Zahoor qayam e aale rasool jab hoga
@@ -41,11 +41,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/content_salaam.php?id=36
 # raw_sha256: 352cd402481ad561838e093c9450dcae42932ba7ab7f15bc8dd2bc427fd6076f
 ---
-
 ہے کربلا کا یہ دعوہ حسین آج بھی ہے
+یہ کس نے کہہ دیا کل تھا حسین آج بھی ہے
 
 ۱
-یہ کس نے کہہ دیا کل تھا حسین آج بھی ہے
 شہادتوں کے لبوں ہے شکریہ زینب
 نہ ہوتی تو تو سمٹ جاتی کربلا زینب
 تیرے وسیلے سے زینب حسین آج بھی ہے

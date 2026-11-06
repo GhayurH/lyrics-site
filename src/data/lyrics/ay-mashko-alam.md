@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay mashk o alam hazrate abbas kahan hai
-  
-  1
   Saqqa e haram hazrate abbas kahan hai
+
+  1
   Sab ahle haram dekh rahe hai shah e deen ko
   Har aankh hai nam hazrate abbas kahan hai
-  
+
   2
   Yun pyaas ki shiddat se bilakti hai sakina
   Ruk jaaye na dam hazrate abbas kahan hai
-  
+
   3
   Shabbir jawan laashe pisar kaise uthaye
   Gehra hai ye gham hazrate abbas kahan hai
-  
+
   4
   Dilband e ali fatema zehra ke dulaare
   Behno ka bharam hazrate abbas kahan hai
-  
+
   5
   Shabbir se ye ghurbat-e-shabbir ne poocha
   Ay shaah e umam hazrate abbas kahan hai
-  
+
   6
   Halq e shahe mazloom hai aur shimr ka khanjar
   Ab waqt hai kam hazrate abbas kahan hai
-  
+
   7
   Kuch deyr mein hojayegi ab shaam e ghariban
   Ay dasht e sitam hazrate abbas kahan hai
-  
+
   8
   Kano se gowhar khainchne qaimon ko jalane
   Badhte hai khadam hazrate abbas kahan hai
-  
+
   9
   Ek lashkare ashraar muqaabil pe hai shahid
   Narghe mein hai hum hazrate abbas kahan hai
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=571
 # raw_sha256: d71d214227b36259c8b2725ab1ce4df8be158de9c0f1dcca13dbeb5a6deb543a
 ---
-
 اے مشک و علم حضرت عباس کہاں ہیں
+سقائے حرم حضرت عباس کہاں ہیں
 
 ۱
-سقائے حرم حضرت عباس کہاں ہیں
 سب اہل حرم دیکھ رہیں ہیں شاہ دین کو
 ہر آنکھ ہے نم حضرت عباس کہاں ہیں
 

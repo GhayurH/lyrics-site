@@ -8,30 +8,21 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Sar Ali ka sajda e khaaliq may zarbat ke liye
-
-
-  1
-
+romanLyrics: |-
+  Sar Ali ka sajda e khaaliq may zarbat ke liye
   Hashr tak ek daaghe ruswayi hai ummat ke liye
 
+  1
   Ghar lutaaya jaan tak de di hidayat ke liye
-
   Aur kya karte gunehgaran e ummat ke liye
 
-
   2
-
   Hydere karaar se virsa mila aulaad ko
-
   Hogayi qismat shahadat har imamat ke liye
 
-
   3
-
   Ghar may khaaliq ke ameer ul momineen ka qatl ho
-
-  Masjid e kufa bani thi is qayamat ke liye'
+  Masjid e kufa bani thi is qayamat ke liye
 reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:1f1d9465a12b5c37ce09
 # source_url: https://www.nohayonline.com/details_content.php?id=490
@@ -40,11 +31,10 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_url: https://www.ziyaraat.net/api/noha/561
 # raw_sha256: b0de63d1509161e1450eeeb2a20bf3b37d407647b39761886407e9eaf0ef22f5
 ---
-
 سر علیؑ کا سجدہِ خالق میں ضربت کے لیئے
+حشر تک اک داغِ رُسوائی ہے اُمت کے لیئے
 
 ۱
-حشر تک اک داغِ رُسوائی ہے اُمت کے لیئے
 گھر لُٹایا جان تک دے دی ہدایت کے لیئے
 اور کیا کرتے گُنہگارانِ اُمت کے لیئے
 

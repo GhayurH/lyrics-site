@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Dunya may aaj hashr ka din aashkaar hai
-  
-  1
   Sibte nabi ke seene pa qatil sawaar hai
+
+  1
   Mar jaunga mai aap hi ab thodi dayr may
   Qaalib may rooh ka koi dam ko qaraar hai
-  
+
   2
   Unees sau hai taygh o sinaan o tabar ka zakhm
   Sang e sitam ke khoon se badan laal zaar hai
-  
+
   3
   Hai zalzala zameen ko gehn may hai aaftab
   Baarish hai khoon ki chashme falak ashk baar hai
-  
+
   4
   Chilla rahi hai qaime se zainab utar layeen
   Bhai ka mere zakhm se seena figaar hai
-  
+
   5
   Kehte thay shaah shimr se mujhko na zibha kar
   Dunya hai chand roz ka kya aetbaar hai
-  
+
   6
   Quran hai saaf seena ye baith'ta hai jis pe tu
   Bosagah e rasool pe khanjar ki dhaar hai
-  
+
   7
   Hai an-khareeb phoonke sarafeel soor ko
   Bas hukme kibriya ka faqat intezaar hai
-  
+
   8
   Ab aage kar bayan na anees e jigar figaar
   Ye din wo hai ke saara jahan ashk baar hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2175
 # raw_sha256: 29c810e86dac500367a5f6ccd05d32a48e6d61eb5eb1d31548055b00f3a9c2f7
 ---
-
 دنیا میں آج حشر کا دن آشکار ہے
+سبطِ نبی کے سینے پہ قاتل سوار ہے
 
 ۱
-سبطِ نبی کے سینے پہ قاتل سوار ہے
 مر جاؤں گا میں آپ ہی اب تھوڑی دیر میں
 قالب میں روح کا کوئی دم کو قرار ہے
 

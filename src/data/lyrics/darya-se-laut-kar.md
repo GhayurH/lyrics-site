@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Darya se laut kar na alamdaar aa sakay
-  
-  1
   Afsos bekason ke na ghamqaar aa sakay
+
+  1
   Wo teen din ki pyas wo garmi labe firaat
   Aale rasool pyas na apni bhuja sakay
-  
+
   2
   Jhuk kar kamaan hogayi mazloom ki kamar
   Abbas tera laasha na sarwar utha sakay
-  
+
   3
   Keh kar jahaan se chal diye abbas-e-bawafa
   Aaqa mera janaza na qaimo may jaa sakay
-  
+
   4
   Darya se pani laake gira dete thay layeen
   Asghar ko ek boond na pani pila sakay
-  
+
   5
   Awaaz do abbas ko zindaan-e-shaam may
   Tashna dahan sakina ki turbat bana sakay
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=38
 # raw_sha256: e9b52053b1204bf9ef9aac1433ff53f2221320d9964c2a7afed303c2a1738b12
 ---
-
 دریا سے لوٹ کر نہ علمدار آ سکے
+افسوس بے کسوں کے نہ غمخوار آ سکے
 
 ۱
-افسوس بے کسوں کے نہ غمخوار آ سکے
 وہ تین دن کی پیاس وہ گرمی لبِ فرا،ت
 آلِ رسول پیاس نہ اپنی بھُجا سکے
 

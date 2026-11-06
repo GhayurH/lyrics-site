@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Baba ka sar sakina aghosh mein utha ke
-  
-  1
   Faryad kar rahi hai roodad e gham suna ke
+
+  1
   Shimre layeen ne mujhpar kya kya sitam na dhaye
   Lekin meri madad ko afsos tum na aaye
   Pani ko phaynkta tha zaalim dikha dikha ke
-  
+
   2
   Bin parda zaalimo ne bazaar se guzara
   Maine tadap tadap ke tum ko bahot pukara
   Guzri hoo raaston se balon se moo ko chupa ke
-  
+
   3
   Shimre layeen tamache jab mere maarta tha
   Nanha sa dil tadap ke tum ko pukarta tha
   Rote thay har qadam par sajjad sar ko jhuka ke
-  
+
   4
   Rehwaar ke galay mein ammu ka sar pada tha
   Meri aziyaton ka sadma unhe bada tha
   Aankhein lahoo lahoo thi khoone jigar baha ke
-  
+
   5
   Saaye ko bhi safar mein qaidi tadap rahe thay
   Raahon mein har taraf se pathar baras rahe thay
   Laayi hai mujhko jaane kaise phupi bacha ke
-  
+
   6
   Koi na tha hamari faryad sun'ne waala
   Be pardagi ne baba meri maa ko maar daala
   Khush ho rahe thay zaalim dar dar hame phirake
-  
+
   7
   Karti rahi duayein zindan se sakina
   Jab tak khuloos e dil se padte rahe ye nauha
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1174
 # raw_sha256: 0595e09088304099b91ea269e6474e4f7913e926da5f8fb484fdbd7c8c0a550f
 ---
-
 بابا کا سر سکینہ آغوش میں اٹھا کے
+فریاد کر رہی ہے رودادِ غم سنا کے
 
 ۱
-فریاد کر رہی ہے رودادِ غم سنا کے
 شمر لعیں نے مجھ پر کیا کیا ستم ہیں ڈھاے
 لیکن میری مدد کو افسوس تم نہ آے
 پانی کو پھینکتا تھا ظالم دکھا دکھا کے

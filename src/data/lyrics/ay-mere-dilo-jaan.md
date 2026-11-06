@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay mere dil o jaan ali asghar ali asghar
-  
-  1
   Maa tujhpe ho qurban ali asghar ali asghar
+
+  1
   Deti mai kafan tujhko rida sar pe jo hoti
   Mil jaata ta jo pani to tere zakhm ko dhoti
   Hoon be-sar o saaman ali asghar ali asghar
-  
+
   2
   Dekho to sare shaam e ghariban meri ghurbat
   Jhulsa hua jhoola hai to ujdi hui turbat
   Ujda hai gulistan ali asghar ali asghar
-  
+
   3
   Nauhon ki sadaon mein badal bhi chuki lori
   Jhoola hi salaamat hai na ab jhoole ki dori
   Godhi bhi hai veeran ali asghar ali asghar
-  
+
   4
   Wo need se aur dhoop se jalti hui aankein
   Yaad aati hai wo ashk ugalti hui aankhein
   Mamta hai pareshan ali asghar ali asghar
-  
+
   5
   Jis teer ne chedi thi teri phool si gardan
   Maa kaise batayein bhala us teer ki uljhan
   Seene mein hai paikaan ali asghar ali asghar
-  
+
   6
   Hasrat thi ke baandhun mai tere maathe pe mai sehra
   Aur sehre mein dekhun tera hasta hua chehra
   Ujde mere armaan ali asghar ali asghar
-  
+
   7
   Aa baandhun tere nanhe se sar par mai amaama
   Aur choomun tera phool sa moo chand sa maatha
   Haste huwe quran ali asghar ali asghar
-  
+
   8
   Bas rayt hai maqtal ki na takiya na bichona
   Ab hashr talak tujh ko isi ban mein hai sona
   Maa jaati hai zindan ali asghar ali asghar
-  
+
   9
   Tha shaam e ghariban ka dhuaan aamir o nayyar
   Khaak ujde huwe jhoole ki bikhri thi jahan par
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3105
 # raw_sha256: ed6d4d61bfa56aad6e5f9606f2cbcb08fc2f078b9e66d314f96c8236de92a5ca
 ---
-
 اے میرے دل و جان علی اصغر علی اصغر
+ماں تجھ پہ ہو قربان علی اصغر علی اصغر
 
 ۱
-ماں تجھ پہ ہو قربان علی اصغر علی اصغر
 دیتی میں کفن تجھکو ردا سر پہ جو ہوتی
 مل جاتا جو پانی تو تیرے زخم کو دھوتی
 ہوں بے سر و سامان علی اصغر علی اصغر

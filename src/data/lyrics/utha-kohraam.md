@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Utha kohraam ghar mein fatema ke
-  
-  1
   Chali hai taygh sar par murtaza ke
+
+  1
   Tadapti hai ali ki betiyan sab
   Uda kar khaak ye kehti hai zainab
   Mere ghar aagaye phir din aza ke
-  
+
   2
   Ali ko ghar mein jab hasnain laaye
   Pukari zainab o kulsoom haye
   Ghashi taari hui ye gham utha ke
-  
+
   3
   Na jaaye chod ke yun hum ko baba
   Abhi to maa ka gham hai dil mein taaza
   Ke hai mohtaaj zakhme dil dawa ke
-  
+
   4
   Ali karne lage ro kar wasiyat
   Bula kar paas bacchon ko ba-riqqat
   Hawale hai ye ghar ab mujtaba ke
-  
+
   5
   Raha na dard se jab dil pe qaabu
   Ali ne choom kar zainab ke baazu
   Hawale kar diya sher e wafa ke
-  
+
   6
   Chala jab ghar se maula ka janaza
   Lab e zainab pe tha bas ek nauha
   Nigahon mein hai manzar karbala ke
-  
+
   7
   Sukoon zainab ko ek pal na aaya
   Ali ka zakhm behno ko dikhaya
   Jabeen se khoon baba ka hata ke
-  
+
   8
   Bayan kya safdar o mazhar karenge
   Wo manzar kaise lafzon mein likhenge
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3472
 # raw_sha256: 351e7c967cf658add0ca7027fbbf690f56d9d29aed651a43fcf922739b0cefc0
 ---
-
 اٹھا کہرام گھر میں فاطمہ کے
+چلی ہے تیغ سر پر مرتظی کے
 
 ۱
-چلی ہے تیغ سر پر مرتظی کے
 تڑپتی ہے علی کی بیٹیاں سب
 اڑا کر خاک یہ کہتی ہے زینب
 میرے گھر آ گےء پھر دن عزا کے

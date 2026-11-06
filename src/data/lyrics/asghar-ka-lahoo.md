@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Asghar ka lahoo jab na liya arz o samaa ne haye
-  
-  1
   Chehre pe mala khoon shahe karbobala ne
+
+  1
   Kya jurm tha cheh maah ke bacche ka khudaya
   Kyun cheda hai asghar ka gala teer e jafa ne
-  
+
   2
   Baysheer ne jaan apni fida kar di padar par
   Nusrat ke liye di thi sada shaahe huda ne
-  
+
   3
   Tu dekhle shabbir ki aaghosh may ya rab
   Aaya hai tera deen ye baysheer bachane
-  
+
   4
   Farmate thay shabbir hifazat se tu rakhna
   Hai dafn yahan karbobala mere khazane
-  
+
   5
   Aaja mere bacche mai teri pyaas pe sadqe
   Khud aayegi maa ran may tujhe pani pilaane
-  
+
   6
   Sar nok e sina par na chadaye kahin zaalim
   Shabbir chale laasha e baysheer chupane
-  
+
   7
   Jab qaime may aaya ali asghar ka janaza
   Kohraam bapa kar diya maadar ki fughan ne
-  
+
   8
   Sibtain bhala kaise bhulayega zamana
   Jang jeetli baysheer ki masoom ada ne
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2271
 # raw_sha256: 6c01d5d96b4a6480fa16179bc78473fed7a7c6d07f14c194c1d9c0817e97b809
 ---
-
 اصغر کا لہو جب نہ لیا ارض و سماں نے ہاے
+چہرے پہ ملا خون شہ کربوبلا نے
 
 ۱
-چہرے پہ ملا خون شہ کربوبلا نے
 کیا جرم تھا چھ ماہ کے بچے کا خدایا
 کیوں چھیدا ہے اصغر کا گلا تیر جفا نے
 

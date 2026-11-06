@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Khudaya zainab berida shaam ka bazaar
-  
-  1
   Aate hai nazar hashr ke aasaar
+
+  1
   Kya shaam may ab koi musalman nahi hai
   Ghere huwe kaabe ko hai kuffaar
-  
+
   2
   Durron ke sitam aur mohamed ki nawasi
   Shal ho na gaye daste sitamgaar
-  
+
   3
   Masoom sakina ko tamachon se bachale
   Ye daste sitam phool se rukhsaar
-  
+
   4
   Rukh zard hai sadme se lahoo aankhon se jaari
   Dam tod na de khaafila saalaar
-  
+
   5
   Ek ek se jo aaj rida maang rahe hai
   Ye ajre risalat ke hai haqdaar
-  
+
   6
   Tatheer ki aayat se jinhe tu ne nawaza
   Sar nange khade hai sare darbar
-  
+
   7
   Fizza ki hifazat ke liye khinch gayi talwar
   Zainab ka nahi koi tarafdaar
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1105
 # raw_sha256: e7d9dc340e658fe58d7ed252b4d54101ae2e6a25ca1b72aad5f297f11c7f945a
 ---
-
 خدایا زینب بے ردا شام کا بازار
+آتے ہیں نظر حشر کے آثار
 
 ۱
-آتے ہیں نظر حشر کے آثار
 کیا شام میں اب کوئی مسلمان نہیں ہے
 گھیرے ہوے کعبے کو ہیں کفار
 

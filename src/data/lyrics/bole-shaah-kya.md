@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Bole sheh kya mai jawab e khat e dukhtar likhun
-  
-  1
   Naamawar dekh le jo haal hai kyun kar likhun
+
+  1
   Kaise likhun ke tere chaahne waale na rahe
   Hogi is gham ki wo kis tarha se khoogar likhun
-  
+
   2
   Pyaar likha hai jise jaan se pyara keh kar
   Mar gaye teer e sitam kha ke wo asghar likhun
-  
+
   3
   Tum se shikwa o shikayat hai bahot sughra ko
   Naiza khaye huwe so rahe hai wo akbar likhun
-  
+
   4
   Kat gaye shaane chidi mashke sakina afsos
   Bichde pardes mein abbas e dilawar likhun
-  
+
   5
   Shaam ko dulha bane subhe shahadat paayi
   Laash qasim hui pamaal ye kyun kar likhun
-  
+
   6
   Do huwe kufe mein do karbobala mein maqtool
   Haye muslim ke pisar mar gaye kyun kar likhun
-  
+
   7
   Kitne tanha thay hussain asr ke hangaam anees
   Gham se phat jaye kaleja jo wo manzar likhun
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1898
 # raw_sha256: bcdbef60dfa8d7bd0427fa13fd411b9a0fec32f28e72c9acdc1a1d3c715b8f8e
 ---
-
 بولے شہ کے کیا میں جواب خط دختر لکھوں
+نامور دیکھ لے جو حال ہے کیوں کر لکھوں
 
 ۱
-نامور دیکھ لے جو حال ہے کیوں کر لکھوں
 کیسے لکھوں کہ تیرے چاہنے والے نہ رہے
 ہوگی اس غم کی وہ کس طرح سے خوگار لکھوں
 

@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye bain karti thi sughra bahot akeli hoon
-  
-  1
   Safar mein hai mera kunba bahot akeli hoon
+
+  1
   Koi bhi paas nahi hai jo khairiyat pooche
   Ke dil ka haal hai kaisa bahot akeli hoon
-  
+
   2
   Wo dukh sa dukh hai watan haan aisi hai tanhaai
   Koi nazar nahi aata bahot akeli hoon
-  
+
   3
   Guzaar deti hoon raaton ki raat aankhon mein
   Na koi neend na sapna bahot akeli hoon
-  
+
   4
   Koi hasi koi aahat na koi kilkaari
   Hai be-sada mera hujra bahot akeli hoon
-  
+
   5
   Buland hoti thi jis se rasool ki awaaz
   Na ab wo lab na wo lehja bahot akeli hoon
-  
+
   6
   Wo intezar hai dhundhla rahi hai beenayi
   Bhula na doon koi chehra bahot akeli hoon
-  
+
   7
   Koi nahi jo giroon mai to thaam le bad kar
   Kahan ho meri sakina bahot akeli hoon
-  
+
   8
   Jo toot jaaye ye dam bistar e alaalat par
   Uthega kaise janaza bahot akeli hoon
-  
+
   9
   Hamari sochon ke yasrab se nayyar o aamir
   Na mit sakega ye nauha bahot akeli hoon
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3393
 # raw_sha256: c422aa115669a699ea6b2da34b5cb45721bcccc027cb025fc833426967daf17d
 ---
-
 یہ بین کرتی تھی صغرا بہت اکیلی ہوں
+سفر میں ہے میرا کنبہ بہت اکیلی ہوں
 
 ۱
-سفر میں ہے میرا کنبہ بہت اکیلی ہوں
 کوی بھی پاس نہیں ہے جو خیریت پوچھے
 کہ دل کا حال ہے کیسا بہت اکیلی ہوں
 

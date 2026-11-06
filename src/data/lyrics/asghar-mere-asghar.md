@@ -10,40 +10,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa karti thi ye naale karbala ke biyaban mein
-  
-  1
   Asghar mere asghar jaani asghar mere asghar jaani
+
+  1
   Zaalim ne kiya wo zulm haathon pe shahe deen ke
   Dam tod diya asghar karbal ke biyaban mein
-  
+
   2
   Ek hook uthi dil mein dekha jo suye maqtal
   Rote hai khade sarwar karbal ke biyaban mein
-  
+
   3
   Baysheer ki mayyat ko daaman mein chipa laaye
   Maa dekhti hai manzar karbal ke biyaban mein
-  
+
   4
   Is nanhi si mayyat par thay bain sakina ke
   Dunya se gaya asghar karbal ke biyaban mein
-  
+
   5
   Tu maa ka dulaara hai kunbe ka tu pyara hai
   Rote hai sabhi tujh par karbal ke biyaban mein
-  
+
   6
   Din raat nigahon mein phirti hai teri surat
   Mar jaungi mai muztar karbal ke biyaban mein
-  
+
   7
   Baysheer teri furqat kis tarha gawara ho
   Kya dil hai mera pathar karbal ke biyaban mein
-  
+
   8
   Be ghusl o kafan asghar turbat jo bani teri
   Aankhon mein hai wo manzar karbal ke biyaban mein
-  
+
   9
   Tanhaai pe haste thay shabbir ke jo zaalim
   Sab mit chuke hai saabir karbal ke biyaban mein
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2760
 # raw_sha256: 7c5511ef4e5a596308ddc110921799f0ae28bf3dccb7382b75a4cddabeac16a7
 ---
-
 ماں کرتی تھی یہ نالے کربلا کے بیاباں میں
+اصغر میرے اصغر جانی اصغر میرے اصغر جانی
 
 ۱
-اصغر میرے اصغر جانی اصغر میرے اصغر جانی
 ظالم نے کیا وہ ظلم ہاتھوں پہ شہ دیں کے
 دم توڑ دیا اصغر کربل کے بیاباں میں
 

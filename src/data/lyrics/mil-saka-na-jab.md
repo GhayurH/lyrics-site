@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Mil saka na jab ali akbar ka laasha dayr tak
-  
-  1
   Ghutniyo chalte rahe maqtal mein maula dayr tak
+
+  1
   Jaane kis tarha tamache shimr ne maare usay
   Siskiyan leti rahi pyasi sakina dayr tak
-  
+
   2
   Laasha e abbas ke tukdon ko rakh kar qabr mein
   Jaane kya kehte rahe sajjad maula dayr tak
-  
+
   3
   Aap ka qasim yehi hai shaah ko kehna pada
   Maa kahan pehchaan paayi apna beta dayr tak
-  
+
   4
   Do kate haathon ka tha zainab ko itna intezar
   Khaak par rakhe rahi laashe sakina dayr tak
-  
+
   5
   Jab kaha mukhtar ne ay shimr tu khud hi bata
   Kis liye tadpe zyada mere maula dayr tak
-  
+
   6
   Shimr bola kya bataun mera khanjar kund tha
   Is liye tadpe zyada tere maula dayr tak
-  
+
   7
   Le gaya tha shimr to sar kaat kar shabbir ka
   Laash par roti rahi bete ki zahra dayr tak
-  
+
   8
   Tha takallum mar ke bhi aun o muhamed ka jalaal
   Taygh ka qabza na shehzado ne choda dayr tak
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2801
 # raw_sha256: 06fc0242fcc6d3c46c3541888829b31d86f57910d673dff5fd311caed1c36af1
 ---
-
 مل سکا نہ جب علی اکبر کا لاشہ دیر تک
+گھٹنیوں چلتے رہے مقتل میں مولا دیر تک
 
 ۱
-گھٹنیوں چلتے رہے مقتل میں مولا دیر تک
 جانے کس طرح طمانچے شمر نے مارے اسے
 سسکیاں لیتی رہی پیاسی سکینہ دیر تک
 

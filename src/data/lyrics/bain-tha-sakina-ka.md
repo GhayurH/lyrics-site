@@ -9,58 +9,37 @@ poet: "Saeed Shaheedi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Bain tha sakina ka shaam hone waali hai
-
-
-  1
-
+romanLyrics: |-
+  Bain tha sakina ka shaam hone waali hai
   Kab tak aaoge baba shaam hone waali hai
 
+  1
   Khushk hai zaban meri teen din se hoo pyasi
-
   Kaun pani layega shaam hone waali hai
 
-
   2
-
   Subha ke charaghon ki tarha hai sabhi khamosh
-
   Cha raha hai andhiyara shaam hone waali hai
 
-
   3
-
   Neend kaise aayegi soyun kiske seene par
-
   Jald aaiye baba shaam hone waali hai
 
-
   4
-
   Asr ke ujaale mein ghar luta ke baithi hoo
-
   Phir na lootle aada shaam hone waali hai
 
-
   5
-
   Shaam ke tasavvur se kaampti hoo reh reh kar
-
   Ghut raha hai dam mera shaam hone waali hai
 
-
   6
-
   Bhai bhi chacha bhi hai kya tumhare saath ab tak
-
   Koi bhi nahi aaya shaam hone waali hai
 
-
   7
-
   Kya saeed kehta hai haale dil sakina ka
-
-  Subha se hai hungama shaam hone waali hai'
+  Subha se hai hungama shaam hone waali hai
 reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:45b21ecf81915337e9b1
 # source_url: https://www.nohayonline.com/details_content.php?id=527
@@ -72,11 +51,10 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_url: https://www.ziyaraat.net/api/noha/483
 # raw_sha256: 9404538cb0c6d681a931b4d8fa9aff93d6b23204e5d12b3b80f05ffd6fe6f900
 ---
-
 بین تھا سکینہ کا شام ہونے والی ہے
+کب تک آؤ گے بابا شام ہونے والی ہے
 
 ۱
-کب تک آؤ گے بابا شام ہونے والی ہے
 خشک ہے زباں میری تین دن سے ہوں پیاسی
 کون پانی لاے گا شام ہونے والی ہے
 

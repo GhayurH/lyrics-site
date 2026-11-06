@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali ke shehr kufa mein samaan zainab pe kya aaya
-  
-  1
   Kuja burqa shariyat ka rida ka bhi nahi saaya
+
+  1
   Janaza jis ki maadar ka utha tha parda e shab mein
   Zamana us ki beti ko sar e bazaar le aaya
-  
+
   2
   Kaha ro kar sakina ne chacha muslim duhaai hai
   Wo dekho phir mujhe zaalim tamache maarne aaya
-  
+
   3
   Darazi manzilon ki rayt ke tapte huwe raste
   Anokha saarban hai bediyan pehne huwe aaya
-  
+
   4
   Saje hai baam o dar kufa mein aamad hai aseeron ki
   Tamasha aale ahmed ka musalman dekhne aaya
-  
+
   5
   Wo khutba tha ke haibat cha gayi darbar saare par
   Ali ki sher dil beti mein hyder sa jalaal aaya
-  
+
   6
   Kaha sajjad se zainab ne ro ke kuch to batlao
   Najaf se le ke chadar kyun mera baba nahi aaya
-  
+
   7
   Jahan baba ki shaahi thi usi darbar mein zainab
   Nisar aayi barehna sar ye kaisa inquilaab aaya
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3230
 # raw_sha256: 8125a06969992674eac1f091bbf4d37b2c6b8f22730ea25ffa4b905821749e2e
 ---
-
 علی کے شہر کوفہ میں سماں زینب پہ کیا آیا
+کجا برقع شریعت کا ردا کا بھی نہیں سایہ
 
 ۱
-کجا برقع شریعت کا ردا کا بھی نہیں سایہ
 جنازہ جس کی مادر کا اٹھا تھا پردہء شب میں
 زمانہ اس کی بیٹی کو سر بازار لے آیا
 

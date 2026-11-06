@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay shaahe ambiya ye musalman ne kya kiya
-  
-  1
   Minbar pe fatema ka mujrim bitha diya
+
+  1
   Jis dar pe aap rukte thay lene ijazatein
   Aate farishte arsh se karne ziyaratein
   Ek behaya ne aag se wo dar jala diya
-  
+
   2
   Hasne laga layeen jo rone lagi batool
   Ghasib ne sayyeda ki gawahi na ki qabool
   Khud saccha ban ke bibi ko jhoota bana diya
-  
+
   3
   Utri hai jin ki shaan mein aayaat baar baar
   Jin ki raza ko rad na kare rabb e kirdgaar
   Haq maangne gayi wo to khaali lauta diya
-  
+
   4
   Jis shakhs ne di aap ko hizyan ki saughaat
   Jis se mila na aap ko kaghaz qalam dawaat
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3278
 # raw_sha256: 04f54ff02dee9f2d1735190ba61b400b0a355053e0920c83994e35a767e94f5e
 ---
-
 اے شاہِ انبیاء یہ مسلماں نے کیا کِیا
+منبر پہ فاطمہ کا مجرم بٹھا دیا
 
 ۱
-منبر پہ فاطمہ کا مجرم بٹھا دیا
 جس دَر پہ آپ رکتے تھے لینے اجازتیں
 آتے فرشتے عرش سے کرنے زیارتیں
 اِک بے حیا نے آگ سے وہ دَر جلا دیا

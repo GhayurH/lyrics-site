@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Bhaiya tum laut ke ke kab khair se ghar aaoge
-  
-  1
   Waada karte to ho kya is ko nibha paoge
+
+  1
   Jab se pardes gaye aayi nahi des ki yaad
   Kya tumhe khat se bhi pahunchi nahi meri faryad
   Kitne din aur mujhe des mein tarsaoge
-  
+
   2
   Ek behan saath mein hai phir meri yaad aayegi kyun
   Tum ko kya gham hai alaalat mein jiyun ya ke marun
   Mai agar mar gayi tum bhi nahi jee paoge
-  
+
   3
   Chand hi roz ko zinda hai tumhari behna
   Kaisi naraazgi bemaar behan se bhaiya
   Kab naya eid ka joda mujhe dilwaoge
-  
+
   4
   Maine ro ro ke guzaare hai khushi ke mausam
   Yaad mein aankh hui bhai meri khoon se nam
   Dil ki takleef meri tum na samajh paoge
-  
+
   5
   Log diljoyi kiya karte hai bemaaron ki
   Haath rakhta nahi sar par mere bhaiya koi
   Ye na samjhi ke tum bhi mujhe rulwaoge
-  
+
   6
   Nagaah ek khabar doshe hawa par aayi
   Khaa ke seene pe sina mar gaya sughra bhai
   Ab nahi kehna ke kab khair se ghar aaoge
-  
+
   7
   Kaise tehreer ho rehaan o raza haye wo baat
   Tashnalab maare gaye karbobala mein sadaat
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2652
 # raw_sha256: 0fdd4a91179da137efbfa2e9574a8e149cdd155c375a6b2021cb2e42adbc9fe0
 ---
-
 بھیا تم لوٹ کے کہ کب خیر سے گھر آؤ گے
+وعدہ کرتے تو ہو کیا اس کو نبھا پاؤ گے
 
 ۱
-وعدہ کرتے تو ہو کیا اس کو نبھا پاؤ گے
 جب سے پردیس گےء آی نہیں دیس کی یاد
 کیا تمہیں خط سے بھی پہنچی نہیں میری فریاد
 کتنے دن اور مجھے دیس میں ترساو گے

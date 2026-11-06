@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Karta rahunga shukre khuda mai hussain hoon
-  
-  1
   Khanjar ke neeche doonga dua mai hussain hoon
+
+  1
   Mal lunga apne rukh pe lahoo apne laal ka
   Phir bhi na uff karunga zara mai hussain hoon
-  
+
   2
   Aedi ragadta hoga jahan mera naujawan
   Hoga wahin budhapa mera mai hussain hoon
-  
+
   3
   Hai baazuon mein mere kate baazuon ki laaj
   Dekhe zamana meri wafa mai hussain hoon
-  
+
   4
   Fidya diya tha tum ne to patti thi aankh par
   Dekho khaleel mujhko zara mai hussain hoon
-  
+
   5
   Roohe rasool nikli mere khushk halq se
   Qatil samajh raha hai mera mai hussain hoon
-  
+
   6
   Sajde mein thay hussain to gardan pe thi churi
   Maula ne tab khuda se kaha mai hussain hoon
-  
+
   7
   Ab karbala ke dasht mein goonjegi siskiyan
   Zehra karengi mujhpe buka mai hussain hoon
-  
+
   8
   Tatheer be-rida hai to kaaba be-ghilaaf
   Laasha bhi be-kafan hai mera mai hussain hoon
-  
+
   9
   Karte rahenge aamir o nayyar meri azaa
   Dono pa hogi meri ataa mai hussain hoon
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3494
 # raw_sha256: d6581d4ae8f1c3737938f334564c45d06cb36513c5e0770ac6e3d49da9818826
 ---
-
 کرتا رہوں گا شکرِ خدا میں حسین ہوں
+خنجر کے نیچے دوں گا دعا میں حسین ہوں
 
 ۱
-خنجر کے نیچے دوں گا دعا میں حسین ہوں
 میں لوں گا اپنے رخ پہ لہو اپنے لال کا
 پھر بھی نہ اف کروں گا زرا میں حسین ہوں
 

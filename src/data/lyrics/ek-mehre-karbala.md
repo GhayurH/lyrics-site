@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek mehre karbala aur uski tanveere bahot
-  
-  1
   Aaene mein yun nazar aati hai tasveere bahot
+
+  1
   Haasile ashke ghame shabbir jannat hi nahi
   Khuld se pehle bhi hai maqsoos jaagere bahot
-  
+
   2
   Tu bhi khaake karbala apni jabeen par mal ke dekh
   Hum ne yun bante hue dekhi hai taqdeere bahot
-  
+
   3
   Rishta e quran o ahlebait kya samjhenge wo
   Apni marzi se jo karlete hai tafseere bahot
-  
+
   4
   Tha ali ka sher aaya aur pani le gaya
   Sar patakti reh gayi darya pe shamsheere bahot
-  
+
   5
   Raaste ki har kadi zanjeer kat kar gir gayi
   Thi agarche paon mein abid ke zanjeere bahot
-  
+
   6
   Is mein shaamil hai lahoo sibte payambar ka urooj
   Kyun na rakhe karbala ki khaak taaseere bahot
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=644
 # raw_sha256: 0a36a87aa9c60fe78bcacb52cbd25cff24879c504c150c4e8f1033b7f9c97382
 ---
-
 اک مہرِ کربلا اور اُس کی تنویریں بہت
+آئینے میں یوں نظر آتی ہیں تصویریں بہت
 
 ۱
-آئینے میں یوں نظر آتی ہیں تصویریں بہت
 حاصل اشکِ غمِ شبیر جنت ہی نہیں
 خُلد سے پہلے بھی ہیں مخصوص جاگیریں بہت
 

@@ -11,68 +11,68 @@ aliases: []
 published: false
 romanLyrics: |-
   Salam pehli azadar saniye zehra
-  
-  1
   Hussainiyat ki nigehdar saani e zehra
+
+  1
   Hussain jiske liye zindagi tadapti hai
   Wo ek naam ke jis par madaare hasti hai
   Ke jiske zikr se baatil sipah darti hai
   Usi hussain ka kirdar saani e zehra
-  
+
   2
   Is ehde no mein bhi khabida jo musalman hai
   Bajaye deen zaro maal ke wo khaaha hai
   Magar wo log ke jo ab bhi ahle emaan hai
   Tere sabab se hai kirdaar saani e zehra
-  
+
   3
   Baqae deen ka har ek raasta jo bandh hua
   Ba waqte asr jab islam fiqr mand hua
   Udhar se naize pe sar shaah ka balandh hua
   Idhar se bangayi talwar saani e zehra
-  
+
   4
   Khadam mahaaz pe rakha to kamiyab rakha
   Jalal-o-zabt mein andaaz e buturab rakha
   Ali ke lehje se awaaz ka hijab rakha
   Sanad hai wo teri guftar saani e zehra
-  
+
   5
   Samajh sake to samajh guftagu ka dhab kya hai
   Zameen par teri taqleeq ka sabab kya hai
   Yazeede nehes tera shajrae nasab kya hai
   Sunayegi sare darbar saani e zehra
-  
+
   6
   Badhe sawaar jo ahle haram ko dehlane
   Ridayein cheenli jis dam saro se aada ne
   Tadap ke reh gaye bedast ke kate shaane
   Taras ke reh gayi lachaar saani e zehra
-  
+
   7
   Tamam shehr mein ye har taraf manadi hai
   Ke jisko shimr ne durro se bhi saza di hai
   Suno suno isi koofe ki shahzadi hai
   Ke zikr hai sar e bazaar saani e zehra
-  
+
   8
   Yateeme shaah andhere mein khogayi aakhir
   Lahoo ko apne hi ashkon se dho gayi aakhir
   Usi phate hue kurte mein so gayi aakhir
   Kafan na de saki nagaar saani e zehra
-  
+
   9
   Kabhi furaat nazar mein kabhi taraai hai
   Nigah mein lehede shaahe karbalayi hai
   Giri hai oonth se ghutno se chalke aayi hai
   Ghareeb o bekas o nachaar saani e zehra
-  
+
   10
   Watan hai shiddate girya hai aur zainab hai
   Nabi ki qabr hai sughra hai aur zainab hai
   Lahoo bhara hua kurta hai aur zainab hai
   Luta ke aayi hai ghar baar saani e zehra
-  
+
   11
   Udaas aangan o deewar dar lage ghar ke
   Na bain ruk sake shahid ghareeb maadar ke
@@ -82,11 +82,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=740
 # raw_sha256: ba660967e7a8849e8814c1ebfd3ab0e3354d1e942a4fc6743174e11f26c6b9df
 ---
-
 سلام پہلی عزادار ثانیئے زہرا
+حسینیت کی نگہدار ثانیئے زہرا
 
 ۱
-حسینیت کی نگہدار ثانیئے زہرا
 حسین جس کے لیے زندگی تڑپتی ہے
 وہ اک نام کہ جس پر مادرِ ہستی ہے
 کے جس کے ذکر سے باطل سپاہ ڈرتی ہے

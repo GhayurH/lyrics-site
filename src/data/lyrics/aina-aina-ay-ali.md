@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Aina aina ay ali akbar
-  
-  1
   Kahan ho ay ali akbar
+
+  1
   Kyun rehm khao baap hai hadh darja soghwaar
   Qasim na aun aur na abbas zee viqaar
   Dhoondu kahan pe aata nahi kuch mujhe nazar
-  
+
   2
   Beta ye tera baap hai is waqt zinda laash
   Aankhon ka noor bhi nahi kaise karun talaash
   Kham hai tere chacha ke alam se meri kamar
-  
+
   3
   Laashon se ran mein thokarein khaata hoo baar baar
   Qaabu nahi hai dil pe na aaza pe ikhtiyaar
   Qasim ke gham ne kar diye tukde dil o jigar
-  
+
   4
   Teri phupi nikal na pade qaimagaah se
   Athara saal paala hai is ne to chaah se
   Le jaaun tum ko uske mai aane se pesh tar
-  
+
   5
   Jab se suni hai teri sada maa hai beqarar
   Seene ko pakde poochti hai mujhse baar baar
   Kisne kiya salaam ye ran se pukaar kar
-  
+
   6
   Mushkil kusha ke potay ho mushkil ka waqt hai
   Pahuncho madad ko baap pe manzil ye saqt hai
   Ek baar phir pukaro to aa jaaye ye pidar
-  
+
   7
   Khath aaya hai watan se behen ka isay pado
   Uth kar jawab e fatema sughra ko kuch likho
   Tayyar wapasi pe hai sughra ka naamawar
-  
+
   8
   Is haal ka anees kare kis tarha bayan
   Jis tarha shaah dhoondte thay apna naujawan
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1755
 # raw_sha256: cd26b405e42ba89d08628b6ec879701c28bfaf5690b70a84676fa6df73b2022e
 ---
-
 عینا عینا اے علی اکبر
+کہاں ہو اے علی اکبر
 
 ۱
-کہاں ہو اے علی اکبر
 کیوں رحم کھاؤ باپ ہے حد درجہ سوگوار
 قاسم نہ عون اور نہ عباس ذی وقار
 ڈھونڈوں کہاں پہ آتا نہیں کچھ مجھے نظر

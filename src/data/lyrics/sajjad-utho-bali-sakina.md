@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Sajjad utho pyasi sakina ko sambhalo
-  
-  1
   Ye shaam e ghariban hai gharibon ko bachalo
+
+  1
   Jal jaaye na qaimo mein kahin aale payambar
   In aag ke sholon se hamein aa ke nikalo
-  
+
   2
   Kulsoom ko farwa ko bachati hoo sitam se
   Tum khaak pe baithe huwe bachon ko sambhalo
-  
+
   3
   Hasrat se wo zainab ki taraf dekh raha hai
   Aaghosh mein baqir ko ay sajjad chupalo
-  
+
   4
   Kooza liye pani ka ye kehti hai sakina
   Asghar ho kahan aa ke zara pyaas bujhalo
-  
+
   5
   Lut jaungi pardes mein ye mujhko khabar thi
   Mai ho gayi barbaad mujhe aa ke bachalo
-  
+
   6
   Kuch khaak uda kar ay bayanban ki hawaon
   Be-parda nabi zaadiyon ka parda banalo
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2312
 # raw_sha256: 2b64767b198e842ad296a9c79ab815d57ad53a4b4afb3112d5f58ad4b13434e6
 ---
-
 سجاد اٹھو پیاسی سکینہ کو سنبھالو
+یہ شام غریباں ہے غریبوں کو بچالو
 
 ۱
-یہ شام غریباں ہے غریبوں کو بچالو
 جل جاے نہ خیموں میں کہیں آل پیمبر
 ان آگ کے شعلوں سے ہمیں آ کے نکالو
 

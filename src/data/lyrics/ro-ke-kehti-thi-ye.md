@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Ro ke kehti thi ye zainab mere bhai abbas
-  
-  1
   Kyun tumhe bha gayi darya ki tarayi abbas
+
+  1
   Yaad karti hai sakina tumhe ammu keh kar
   Ghash pe ghash khaati hai shabbir ki jaayi abbas
-  
+
   2
   Chadarein chin gayi moo haathon se dhaapun kaise
   Hai rasan zulm ki aur meri kalayi abbas
-  
+
   3
   Khud rasan basta hoo abid ko bachaun kaise
   Hai yehi ek mere bhai ki kamayi abbas
-  
+
   4
   Laash ran may hai mere bhai ki be-gor o kafan
   Ummate jad ko magar sharm na aayi abbas
-  
+
   5
   Khaak par kunba mohamed ka hai dekho aa kar
   Koi sunta nahi zainab ki duhaai abbas
-  
+
   6
   Phirti hai aankhon may akbar ki jawani bhaiya
   Mil gayi khaak may shabbar ki kamayi abbas
-  
+
   7
   Mai bhi kehlaati thi shehzadi isi kufe may
   Haye kis haal may kismat yahan laayi abbas
-  
+
   8
   Raaz likh sakta na tha itna murattab nauha
   Aap ne raahe sukhan isko dikhayi abbas
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1265
 # raw_sha256: 9e30865638974fd6beeaefc069677ae244d944ba69f799620e88d538fa08142d
 ---
-
 رو کے کہتی تھی یہ زینب میرے بھای عباس
+کیوں تمہیں بھا گیء دریا کی ترای عباس
 
 ۱
-کیوں تمہیں بھا گیء دریا کی ترای عباس
 یاد کرتی ہے سکینہ تمہیں عمو کہہ کر
 غش پہ غش کھاتی ہے شبیر کی جائی عباس
 

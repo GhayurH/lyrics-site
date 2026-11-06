@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Is baat se zaahir hai rutba ali akbar ka
-  
-  1
   Hota hai azaano may charcha ali akbar ka
+
+  1
   Ay hurr teri kismat ne kyun aaj ye karvat li
   Kya subho ko dekha tha chehra ali akbar ka
-  
+
   2
   Shabbir jhulaate thay abbas ke jhoole ko
   Abbas jhulaate hai jhoola ali akbar ka
-  
+
   3
   Poocha gaya yusuf se jab husn ke baare may
   Has kar kaha ye to hai sadqa ali akbar ka
-  
+
   4
   Ye rutba e akbar hai hyder ke gharane may
   Aaghosh hai phupi ki jhoola ali akbar ka
-  
+
   5
   Us maa ka muqaddar bhi kya khoob muqaddar hai
   Jis maa ko bhi mil jaye sadqa ali akbar ka
-  
+
   6
   Laila ne kaha baithun kis tarha mai saaye may
   Phirta hai nighaon may chehra ali akbar
-  
+
   7
   Poocha gaya jab sheh se kyun kham hai kamar maula
   Bole ke uthaaya tha laasha ali akbar
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1597
 # raw_sha256: 713b54ce45d5c666f730fe6c8b37e41e32f41b2e987318e144ebce97fb1d82e2
 ---
-
 اس بات سے ظاہر ہے رتبہ علی اکبر کا
+ہوتا ہے اذانوں میں چرچہ علی اکبر کا
 
 ۱
-ہوتا ہے اذانوں میں چرچہ علی اکبر کا
 اے حر تیری قسمت نے کیوں آج یہ کروٹ لی
 کیا صبح کو دیکھا ہے چہرہ علی اکبر کا
 

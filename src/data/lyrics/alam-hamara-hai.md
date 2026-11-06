@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaj bhi ye alam hamara hai
-  
-  1
   Har azadaar ka sahara hai
+
+  1
   Ay azadaron khush naseeb hai hum
   Hum ko shabbir ne pukara hai
-  
+
   2
   Meri tareekh hai azadari
   Meri majlis bhi ek idaara hai
-  
+
   3
   Hai gawahi yehi juloos e aza
   Kaun jeeta hai kaun haara hai
-  
+
   4
   Iska maqtal may faisla hoga
   Hurr hamara hai ya tumhara hai
-  
+
   5
   Mukhtalif hai sabhi shaheed magar
   Ek hi sab ka istikhaara hai
-  
+
   6
   Baade takbeer aur risalat ke
   Meri pehechan ali ka naara hai
-  
+
   7
   Ay azadaar ye azakhane
   Dekh jannat ka ye nazara hai
-  
+
   8
   Hum hai sarwar hilal behre aza
   Ta qayamat yehi sahara hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2607
 # raw_sha256: 28a381e563ed5188e07ad9547fb8a57eb9e617c293b08ecb8f951ac524dca774
 ---
-
 آج بھی یہ علم ہمارا ہے
+ہر عزادار کا سہارا ہے
 
 ۱
-ہر عزادار کا سہارا ہے
 اے عزاداروں خوش نصیب ہے ہم
 ہم کو شبیر نے پکارا ہے
 

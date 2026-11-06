@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Akbar abhi hai raah mein laila pukaar lo
-  
-  1
   Apne pisar ke husn ka sadqa utaar lo
+
+  1
   Ran ki taraf jo jaate hai hamshakle mustafa
   Be aas hoke reh gaye ab shaah e karbala
   Ro ro ke keh rahi hai ye ab binte murtaza
-  
+
   2
   Athara saal paala tha jis naujawan ko
   Ruqsat hussain karte hai us mehman ko
   Humnaam e murtaza wo nabi ke nashan ko
-  
+
   3
   Farzand ye tumhara mere dil ka chain hai
   Taskeen e qalb noor e nigaahe hussain hai
   Ruqsat ke waqt zainabe muztar ka bain hai
-  
+
   4
   Run ko chala hai ye jo hai hamshakle mustafa
   Abbas se jalaal mein jurrat mein murtaza
   Maadar hai laila baap hai sultane karbala
-  
+
   5
   Sochi thi uska byaah rachane ke waaste
   Basti nayi nayi mai basane ke waaste
   Kya tum jiyogi ashk bahane ke waaste
-  
+
   6
   Bole hussain bete se ba-chashme ashk baar
   Beta hamare seene se lag jao ek baar
   Tum jaa rahe ho dil pa nahi mere ikhtiyaar
-  
+
   7
   Zainab ka dil ho dilbare shaahinshahe zaman
   Attharwi bahaar hai shadaab hai chaman
   Binte ali ke lab pe har ek baar hai sukhan
-  
+
   8
   Maidan ki simt jaate hai ab akbar e haseen
   Thaame kaleja dekhte hai unko shaah e deen
   Laila se roke kehti hai ye zainab e hazeen
-  
+
   9
   Thaame kamar ko fatema zehra ka laal hai
   Gham se ajeeb maadar e muztar ka haal hai
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2896
 # raw_sha256: b3fdcfe7bd412ee5c7eddd81b091d3722b119f81735d64fe16fe25afe67e2040
 ---
-
 اکبر ابھی ہے راہ میں لیلیٰ پکار لو
+اپنے پسر کے حسن کا صدقہ اتار لو
 
 ۱
-اپنے پسر کے حسن کا صدقہ اتار لو
 رن کی طرف جو جاتے ہے ہمشکل مصطفیٰ
 بے آس ہو کے رہ گےء اب شاہ کربلا
 رو رو کے کہہ رہی ہے یہ اب بنت مرتظی

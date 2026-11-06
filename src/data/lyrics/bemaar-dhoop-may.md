@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaise chale hussain ka beemar dhoop mein
-  
-  1
   Aao madad ko hyder e karraar dhoop mein
+
+  1
   Rasta bada taweel hai zakmi hai aediyan
   Zanjeer itni garm hai jalti hai pindliyan
   Jhulsa raha hai tauq e gara bar dhoop mein
-  
+
   2
   Chidkao karte jaate hai aansu hussain ke
   Pairon ko kuch sukoon milay noor e ain ke
   Be-sayeban hai khaafila saalar dhoop mein
-  
+
   3
   Na mehramon ki bheed hai chehra nidhaal hai
   Phupiyon ki be-ridayi ka kitna malaal hai
   Aata hai ghash mareez ko har baar dhoop mein
-  
+
   4
   Zakhmi hai saara jism ghamon ki satayi ka
   Dil kaamp kaamp jaata hai seene mein bhai ka
   Durre layeen sakina ke mat maar dhoop mein
-  
+
   5
   Abid ke paun raah mein chaalon se bhar gaye
   Jalti zameen ne saath na choda jidhar gaye
   Aisa hua naseeb giraftaar dhoop mein
-  
+
   6
   Kam karle tu hi apni tamazat ko aaftab
   Dena padega hashr mein peshe khuda jawab
   Hai saath binte ahmad e mukhtar dhoop mein
-  
+
   7
   Naize pe sar hussain ka is gham se hai udaas
   Koi nahi hai abid e muztar ke aas paas
   Ek ghamzada phupi hai madadgaar dhoop mein
-  
+
   8
   Mushkil badi hai aamir o akhtar mareez par
   Haste hai raaston mein sitamgar mareez par
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1802
 # raw_sha256: 02a3d9140806532322a54751a452b1560b933697d175f078834fb379922fa0a1
 ---
-
 کیسے چلے حسین کا بیمار دھوپ میں
+آؤ مدد کو حیدر کرّار دھوپ میں
 
 ۱
-آؤ مدد کو حیدر کرّار دھوپ میں
 رستہ بڑا طویل ہے زخمی ہیں ایڑیاں
 زنجیر اتنی گرم ہے جلتی ہیں پنڈلیاں
 جھلسا رہا ہے طوقِ گراں بار دھوپ میں

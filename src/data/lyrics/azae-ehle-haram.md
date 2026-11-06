@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Aza e ahle haram ke din hai
-  
-  1
   Ye zikre daure sitam ke din hai
+
+  1
   Hamara girya hamara matam
   Suna raha hai hussain ka gham
   Laraz raha hai tamaam aalam
   Jahan may shaahe umam ke din hai
-  
+
   2
   Tabaah zehra ka ghar hua hai
   Galay pe sheh ke khanjar chala hai
   Supurde jaan ka ye silsila hai
   Haram pa dard o alam ke din hai
-  
+
   3
   Kisi ka laasha aba may aaya
   Kisi ne seene pa zakhm khaaya
   Koi zamane pe muskuraya
   Hussain bekas pe gham ke din hai
-  
+
   4
   Dukh apna zainab kise sunaye
   Batao darbar kaise jaaye
   Behen ko abbas yaad aaye
   Faza e mashk o alam ke din hai
-  
+
   5
   Safar se zainab palat ke aayi
   Salam leeje hussain bhai
   Watan ko jaati hai maa ki jaayi
   Qadam qadam chashme nam ke din hai
-  
+
   6
   Na kam ho shahid hussain ka gham
   Sada bahe yuhin ashke payham
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=591
 # raw_sha256: 47893ea7d5d1ed3dfa405838a0af77499ddd0980536adbb0b8a9645230a86d1c
 ---
-
 عزائے اہل حرم کے دن ہیں
+یہ ذکر دوہرا ستم کے دن ہیں
 
 ۱
-یہ ذکر دوہرا ستم کے دن ہیں
 ہمارا گریہ ہمارا ماتم
 سنا رہا ہے حسین کا غم
 لرز رہا ہے تمام عالم

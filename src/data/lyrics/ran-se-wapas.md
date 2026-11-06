@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Ran se wapas mere baba nahi aane waale
-  
-  1
   Mujhpe ab saaye yateemi ke hai chaane waale
+
+  1
   Subho se dekh rahi hai ye sakina baba
   Ran may hai chaaron taraf phaila qaza ka saaya
   Laut kar zinda nahi aaye hai jaane waale
-  
+
   2
   Aap jis tarha mujhe seene laga kar roye
   Khaak pe jaise sakina ko sula kar roye
   Hai ye andaz yateemon ko sulaane waale
-  
+
   3
   Aap ne jab se hai rukhsat ka iraada baandha
   Jaane kyun dukhne laga hai mera chehra baba
   Neel jaise mere chehre pe ho aane waale
-  
+
   4
   Jaise khat ek chacha ibne mazahir ko likha
   Bhej kar khat mere khaatir hi bula le baba
   Reh gaye ho jo koi dost bulaane waale
-  
+
   5
   Aap ke seene se lagti hoo to yun lagta hai
   Zakhm hi zakhm hai zakhmon se lahoo behta hai
   Jaise is seene may hai teer samaane waale
-  
+
   6
   Meri chadar mere baalon se hataate kyun hai
   Rayt ka parda mere sar pe banaate kyun hai
   Kab rida karte hai yun sheh ke gharane waale
-  
+
   7
   Sheh se lipti hui kehti thi sakina akbar
   Ho na ho aap pe barsayenge aada mil kar
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2090
 # raw_sha256: 558ab211b01a38201fbe93de2e09589e4ce12263d74d3275d2d01d9e079fa286
 ---
-
 رن سے واپس میرے بابا نہیں آنے والے
+مجھ پہ اب ساے یتیمی کے ہیں چھانے والے
 
 ۱
-مجھ پہ اب ساے یتیمی کے ہیں چھانے والے
 صبح سے دیکھ رہی ہے یہ سکینہ بابا
 رن میں ہے چاروں طرف پھیلا قضاء کا سایہ
 لوٹ کر زندہ نہیں آے ہیں آنے والے

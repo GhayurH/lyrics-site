@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya rab ye iltemas teri janab may
-  
-  1
   Mujhko milaade khaake dare bu turab may
+
+  1
   Haasil nahi hai misle ali sab ko martaba
   Garche baargahe risalat maab may
-  
+
   2
   Noore ali may noore mohamed may farq kya
   Hai aaftab hai ke deha mahtaab may
-  
+
   3
   Jhoole may keh rahe thay ye tewar sagheer ke
   Zinda rahe to dekhna ahde shabab may
-  
+
   4
   Qasim ke jisme paak se jo ran may beh gaya
   Wo khoon aagaya hai simat kar gulab may
-  
+
   5
   Ek teer to nikal gaya asghar ke halq se
   Paywast ek teer hai qalbe rabab may
-  
+
   6
   Ahle haram ke pyas may shiddat thi is khadar
   Itni tapish na hogi kabhi aaftab may
-  
+
   7
   Zehra ke ghar ko yaad kare roye zaar zaar
   Jiska tabaah ghar ho kisi inquilaab may
-  
+
   8
   Bas wo fishare qabr se mehshar bachayega
   Jisne shagaaf daal diya maahtab may
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=641
 # raw_sha256: 52c51f6b043d5ff16225ac34245b646054a6e286a21d5ed75780296b52265c36
 ---
-
 یا رب یہ التماس ہے تیری جناب میں
+مُجھ کو ملا دے خاکِ درِ بو تراب میں
 
 ۱
-مُجھ کو ملا دے خاکِ درِ بو تراب میں
 حاصل نہیں ہے مثلِ علی سب کو مرتبہ
 گرجے بارگاہِ رسالت مآب میں
 

@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Baap ke seene pe sona ab kahan
-  
-  1
   Ay sakina wo bichona ab kahan
+
+  1
   Kis se khelogi sakina kuch kaho
   Cheh mahine ka khilona ab kahan
-  
+
   2
   Sunliya abbas bhi maare gaye
   Pyase bachon ka wo rona ab kahan
-  
+
   3
   Chand si dulhan ko ghar may dekhti
   Maa ka ye sapna tha logon ab kahan
-  
+
   4
   Shaah ki lakhte jigar bewa hui
   Qismat e kubra may rona ab kahan
-  
+
   5
   Daur tha tera ali se khush bayan
   Gham ko ashkon may tha mouna ab kahan
-  
+
   6
   Ashra e maahe moharram jaa chuka
   Roz o shab moti phirona ab kahan
-  
+
   7
   Kehliya kehne ko nauha ay jamaal
   Khoon may khaama dubona ak kahan
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=837
 # raw_sha256: 717271919a5fe6f76158170d71d668e63ec73bc9777da0be66faa876415a7af7
 ---
-
 باپ کے سینے پہ سونا اب کہاں
+اے سکینہ وہ بچھونا اب کہاں
 
 ۱
-اے سکینہ وہ بچھونا اب کہاں
 کسی سے کھیلوگی سکینہ کچھ کہو
 چھ مہینے کا کھلونا اب کہاں
 

@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Mai kaise doongi yateemon ko hausla baba
-  
-  1
   Bujha rahi hai diye shaam ki hawa baba
+
+  1
   Tumhara saamna kaise kare haya meri
   Udoo ne cheenli baba abhi rida meri
   Hamari mushkilein tum hi karo kusha baba
-  
+
   2
   Jalte qaimon ka dhuwan dekh rahe ho baba
   Ashk aankhon se rawan dekh rahe ho baba
   Guzar gaya mere kunbe pe saaneha baba
-  
+
   3
   Tamaam din wo manazir nazar ne dekhe hai
   Wo dekho ganje shaheedaan may kitne laashe hai
   Utha ke laashe mera bhai thak gaya baba
-  
+
   4
   Mere ghareeb ko laakhon ne mil ke maara hai
   Har ek zakhm pe us ne tumhe pukaara hai
   Baghair dhaar ka khanjar tha aur gala baba
-  
+
   5
   Mai haath malti rahi sheh peh chal gaya khanjar
   Hai mere bhai ka laasha bhi jalti reti par
   Kafan bhi bhai ko mere nahi mila baba
-  
+
   6
   Azan jo di ali akbar ne pad ke bismillah
   Tadap tadap ke mai royi hoo subhe ashoora
   Mai jaanti thi bichadhta hai mehlaqa baba
-  
+
   7
   Janaza amma ka shab may uthaya tha tum ne
   Mai royi thi to galay se lagaya tha tum ne
   Tumhari beti hai maqtal may be rida baba
-  
+
   8
   Chupalo apni abaa may ke thak gayi hoo mai
   Aseer ho ke suye shaam jaa rahi hoo mai
   Safar taweel hai dushwaar raasta baba
-  
+
   9
   Bacha ke sholon se abid ko laayi hoo baba
   Mai ghamzada hoo falak ki satayi hoo baba
   Kaleja dard se zainab ka phat gaya baba
-  
+
   10
   Suna hai shaam e ghariban may jab ali aaye
   Udaa ke khaak wo farhan karte thay haye
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2767
 # raw_sha256: 8f1f4606f050a98f99a4e30519397ac8239eb6449c83c8a2e403418716a92605
 ---
-
 میں کیسے دونگی یتیموں کو حوصلہ بابا
+بجھا رہی ہے دیےء شام کی ہوا بابا
 
 ۱
-بجھا رہی ہے دیےء شام کی ہوا بابا
 تمہارا سامنا کیسے کرے حیا میری
 عدو نے چھین لی بابا ابھی ردا میری
 ہماری مشکلیں تم ہی کرو کشاء بابا

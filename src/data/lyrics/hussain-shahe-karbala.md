@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain shaahe karbala
-  
-  1
   Hussain deene mustufa
+
+  1
   Wo deene haq ka khaafila
   Chala jo suye karbala
   Yehi hai jaadae wafa
   Qadam qadam ye thi sada
-  
+
   2
   Pahunch ke dashte karbala
   Luta ke gulshane wafa
   Khiraj is tarha liya
   Shikaste zulm ne kaha
-  
+
   3
   Hai kaun kaaba e yaqeen
   Ay jaane khatme mursaleen
   Wohi hai bas panaah e deen
   Ye keh rahe hai ambiya
-  
+
   4
   Ye zikr hi namaz hai
   Khuda ko jispe naaz hai
   Wo sar hi sarfaraz hai
   Jabeen pa jiski hai likha
-  
+
   5
   Tamam shab tha imtehan
   Yaqeen-o-shaq ke darmiyan
   Hui jo suboh ki azaan
   To hurr ke dil ne ye kaha
-  
+
   6
   Utha ke laasha e jawan
   Chale jo shaahe inso-jaan
   Na tha koi bhi paasban
   Magar ye haq ki thi sada
-  
+
   7
   Hussain deen panaah hai
   Bina-e la ilaah hai
   Kitaab e haq gawah hai
   Waraq waraq ye hai likha
-  
+
   8
   Hazaar koshihe hui
   Magar na ruk saka kahin
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=229
 # raw_sha256: dcaf77915ccc1a54e04ce0f8d6c888bf4a7b99571b39371f9f38402f141408f3
 ---
-
 حسین شاہ کربلا
+حسین دین مصطفےٰ
 
 ۱
-حسین دین مصطفےٰ
 وہ دین حق کا قافلہ
 چلا جو سوئے کربلا
 یہی ہے جادہ وفا

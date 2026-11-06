@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Waqte aakhir pyase honton ki sada abbas thi
-  
-  1
   Bhai tha khanjar ki zad par aur behen be-aas thi
+
+  1
   Baade saqqa phir na aaya lab pe pani ka sawaal
   Shaah ki bali sakina kis qadar hassaas thi
-  
+
   2
   Kha rahi hai ab tamache baap ke jaane ke baad
   Wo sakina jo shahe deen ke liye almaas thi
-  
+
   3
   Kar diye qurban baazu mashk pani ke liye
   Saamne ghazi ke bas aale nabi ki pyaas thi
-  
+
   4
   Jis ghadi thi loot asbaab e nabi ki dasht mein
   Aise mushkil mein sada e aal ya abbas thi
-  
+
   5
   Kat gaye us sher ke baazu labe nehre faraat
   Karbala ke dasht mein jo bekason ki aas thi
-  
+
   6
   Chal rahi thi jis ghadi halqe shahe deen par churi
   Haye ghurbat us ghadi shabbir ki maa paas thi
-  
+
   7
   Bhejhte hi bhai ko shabbir ne thaami kamar
   Ruqsati ye sher e hyder kis qadar hassaas thi
-  
+
   8
   Saamne se hamlawar ho na paayi fauje shaam
   Kis qadar ahle sitam pe haibate abbas thi
-  
+
   9
   Dayam o yazdan hisaar e bawafa se peshtar
   Zindagani apni zer e saaya e iflaas thi
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3737
 # raw_sha256: 617a33035f2d7203a9c3c9a56306f8f4447b22ca065355c32e26ee557711e2c1
 ---
-
 وقتِ آخر پیاسے ہونٹوں کی صدا عباس تھی
+بھای تھا خنجر کی ضد پر اور بہن بے آس تھی
 
 ۱
-بھای تھا خنجر کی ضد پر اور بہن بے آس تھی
 بعد سقہ پھر نہ آیا لب پہ پانی کا سوال
 شان کی بالی سکینہ کس قدر حساس تھی
 

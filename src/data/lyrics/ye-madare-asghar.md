@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye madare asghar ne kaha khaak udakar
-  
-  1
   Asghar tujhe dhoondun mai kahan dasht may jaa kar
+
+  1
   Hai zakhm galay may bhala neend aayegi kaise
   Aajao suladun tumhe seene se laga kar
-  
+
   2
   Sannata hai maqtal may andhera bhi bahot hai
   Aise may meri jaan kahan rehgaye jaa kar
-  
+
   3
   Kyun aate nahi laal mere godh may mere
   Kya milta hai is dard ki maari ko rula kar
-  
+
   4
   Pani to nahi ashkon se moo saaf karungi
   Is chand se chehre pe lagi khaak hata kar
-  
+
   5
   Poshak badalwaungi suljhaungi zulfein
   Armaan se dekhungi tumhe dulha bana kar
-  
+
   6
   Tum reh gaye maqtal may khayaal aaya na tumko
   Maa kis ko sulayegi kaleje se laga kar
-  
+
   7
   Be-maqna o chadar hoo haya aati hai warna
   Mai khud hi tumhe dhoondti maidan may aa kar
-  
+
   8
   Alfaaz ye nauhe ke nahi likhe hai gohar
   Laaya hoo jigar paaron ko kaagaz pe saja kar
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=998
 # raw_sha256: 874061465390d8fbc466344eabd82992dd489884512d2135570f365d491ba169
 ---
-
 یہ مادرِ اصغر نے کہا خاک اُڑا کر
+اصغر تجھے ڈھونڈوں میں کہاں دشت میں جا کر
 
 ۱
-اصغر تجھے ڈھونڈوں میں کہاں دشت میں جا کر
 ہے زخم گلے میں بھلا نیند آئے گی کیسے
 آ جائو سُلا دوں تمہیں سینے سے لگا کر
 

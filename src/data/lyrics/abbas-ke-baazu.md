@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Qaime may jo sheh laate hai abbas ke baazu
-  
-  1
   Kulsoom ko tadpate hai abbas ke baazu
+
+  1
   Shabbir bhi maare gaye mai kar na sak kuch
   Is baat pa khoon rote hai abbas ke baazu
-  
+
   2
   Chin jaati hai phir zainab o kulsoom ki chadar
   Maqtal may jo kat jaate hai abbas ke baazu
-  
+
   3
   Hal min ki sada sunte hi shabbir ki ran se
   Darya pa tadap uth'te hai abbas ke baazu
-  
+
   4
   Zaalim ne sakina se kaha maar ke durre
   Kaise tujhe chudwate hai abbas ke baazu
-  
+
   5
   Zainab ki rida lut'ti hai bazaar may jab bhi
   Sajjad ko yaad aate hai abbas ke baazu
-  
+
   6
   Laasha ali akbar ka utha to nahi sakte
   Aapas may hi takrate hai abbas ke baazu
-  
+
   7
   Likhta hai aqeel aal e nabi ke jo masayib
   To behre ata uth'te hai abbas ke baazu
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1170
 # raw_sha256: 0509ef644b4916416f81906efac5b6ee5adf45420d83d6c95ad3660340708849
 ---
-
 خیمے میں جو شہ لاتے ہیں عباس کے بازو
+کلثوم کو تڑپاتے ہیں عباس کے بازو
 
 ۱
-کلثوم کو تڑپاتے ہیں عباس کے بازو
 شبیر بھی مارے گئے میں کر نہ سکا کچھ
 اس بات پہ خوں روتے ہیں عباس کے بازو
 

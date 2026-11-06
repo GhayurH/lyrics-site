@@ -10,40 +10,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Chodta nahi hum ko karbala ka gham tanha
-  
-  1
   Warna chal nahi sakte hum to do qadam tanha
+
+  1
   Shaah ke azadaron tum ko khaufe mehshar kya
   Zaamin e shafa'at hai ek ashke gham tanha
-  
+
   2
   Phir koi ghame dunya usko choo nahi sakta
   Baksh de jise maalik karbala ka gham tanha
-  
+
   3
   Aaj bhi ghame sheh par kitne tanz hote hai
   Budkadon ki zad par hai aaj bhi haram tanha
-  
+
   4
   Sogaye kahan abbas waqt hai tilaaye ka
   Kab se raah takte hai dasht mein haram tanha
-  
+
   5
   Kitne aish maangoge khud fareb deewano
   Kyun talab nahi karte karbala ka gham tanha
-  
+
   6
   Kehke ye sar e sheh se daad chaahi abid ne
   Karbala mein lashkar tha shaam mein hai hum tanha
-  
+
   7
   Baadh de koi is mein ek mashk choti si
   Soona soona lagta hai panja e alam tanha
-  
+
   8
   Chashme waqt shahid hai hum hussain waale hai
   Har yazeed ki zad par hum rahe hai hum tanha
-  
+
   9
   Lut chuke haram sheh ke raat aagayi sar par
   Ab to chod de inko baani e sitam tanha
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3504
 # raw_sha256: 8d7ebbbd0a937066c626019970b43bd78485f73c0ab586cb3e15c70a7e3b9acd
 ---
-
 چھوڑتا نہیں ہم کو کربلا کا غم تنہا
+ورنہ چل نہیں سکتے ہم تو دو قدم تنہا
 
 ۱
-ورنہ چل نہیں سکتے ہم تو دو قدم تنہا
 شاہ کے عزاداروں تم کو خوف محشر کیا
 ضامن شفاعت ہے ایک اشک غم تنہا
 

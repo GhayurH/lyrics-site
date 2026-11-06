@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Aajao ab aajao ab aajao sakina
-  
-  1
   Bano ki sada thi ke na tadpao sakina
+
+  1
   Ab mujh se judaai ka alam uth na sakega
   Yun rooth ke maadar se na tum jao sakina
-  
+
   2
   Phir pyar se maa kehke pukaro meri dilbar
   Amma ko na is tarha se tadpao sakina
-  
+
   3
   Asghar ki judaai ali akbar ki judaai
   Kaafi hai na tum bhi mujhe rulwao sakina
-  
+
   4
   Kano se lahoo behta hai ruqsaar hai neele
   Ye shakl na abbas ko dikhlao sakina
-  
+
   5
   Lipta ke kaleje se duayein meri kehna
   Ek nanhi si turbat jo kahin pao sakina
-  
+
   6
   Kya mujhse khata hogayi kyun rooth gayi ho
   Is ghamzada madar ko ye batlao sakina
-  
+
   7
   Ye sach hai bahot qaid mein dukh tumne uthaye
   So baap aagosh mein sojao sakina
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=458
 # raw_sha256: f8389f5f5b734063b98840fe6191c58a5c0ada779d086d7b427f3e495b1e1bfe
 ---
-
 آ جائو اب آ جائو اب آ جائو سکینہ
+با نو کی صدا تھی کہ نہ تڑ پائو سکینہ
 
 ۱
-با نو کی صدا تھی کہ نہ تڑ پائو سکینہ
 اب مجھ سے جدائی کا عا لم اٹھ نہ سکے گا
 یوں روٹھ کے مادر سے نہ تم جائو سکینہ
 

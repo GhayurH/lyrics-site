@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Beti se kaha sheh ne meri jaan sakina
-  
-  1
   Baba tera ek shab ka hai mehman sakina
+
+  1
   Ashoor ki ghurbat mein aseeri ke safar mein
   Be-rehm zamane mein rahe baad padar ke
   Har gaam khuda tera nigehban sakina
-  
+
   2
   Pathar bhi tamacha kabhi durra bhi lagela
   Badlega kayi rang tera phool sa chehra
   Haan daure yateemi nahi aasan sakina
-  
+
   3
   Mai aap ki aagosh mein chup jaungi baba
   Aur akbar o abbas ko bulwaungi baba
   Tanha to na hogi sar e maidan sakina
-  
+
   4
   Maqtal mein na kooza liye khaali chali aana
   Abbas ko ro ro ke na darya se bulaana
   Hojayenge sharminda chacha jaan sakina
-  
+
   5
   Baba tera qatil kya musalman nahi hai
   Kya yaad nabi ka usay farmaan nahi hai
   Shabbir ki baaton pe hai hairaan sakina
-  
+
   6
   Jal jayega ghar baar to ghabraogi bibi
   Kal shab kahin baba ko na tum paogi bibi
   Na rehm karenge ye musalman sakina
-  
+
   7
   Jin bacchon ke jal jaate hai ghar sote hai kaise
   Mar jaaye jo gar baap to phir rote hai kaise
   Batlao na baba ke hai nadaan sakina
-  
+
   8
   Kaano ke tere zakhm tujhe sone na denge
   Zaalim mere laashe pe tujhe rone na denge
   Tarsegi tu rone ko meri jaan sakina
-  
+
   9
   Sone ki tere seene pe zid chod ke baba
   So jayegi zindan ki zameen od ke baba
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3065
 # raw_sha256: c7eaaaa18ca2fbdc63d169363bc15047be44f854e227bbce33757fd97262c2df
 ---
-
 بیٹی سے کہا شہ نے میری جان سکینہ
+بابا تیرا ایک شب کا ہے مہمان سکینہ
 
 ۱
-بابا تیرا ایک شب کا ہے مہمان سکینہ
 عاشور کی غربت میں اسیری کا سفر میں
 بے رحم زمانے میں رہے بعد پدر کے
 ہر گام خدا تیرا نگہبان سکینہ

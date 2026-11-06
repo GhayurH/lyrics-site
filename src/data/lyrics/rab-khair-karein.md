@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   Rab khair karein mere baba ki
-  
-  1
   Sughra ki sada ye hai
+
+  1
   Kal khaab may dekha tha ye saman
   Tapta hua sehra khoon ke nishan
   Thay ahmed e mursal ashk fishan
   Jalte hue qaimon ka tha dhuan
-  
+
   2
   Kumlaaya hua tha kyun asghar
   Dar pe thi khadi gham may madar
   Jhoola bhi jala aata hai nazar
   Kya koi nahi jo le iski khabar
-  
+
   3
   Ghatri may ye kiska laasha hai
   Wan ghash may padi kyun kubra hai
   Kyun sar ko jhukaye baba hai
   Rota hua mera kunba hai
-  
+
   4
   Girte thay kabhi uth'te thay kabhi
   Thi unki kamar kis gham se jhuki
   Chalti thi galay pe unke churi
   Sar peet ke roye dada ali
-  
+
   5
   Kuch bibiyan thi jo qaidi bani
   Be saaya thi be chadar thi
   Bache thay kahin maa'ein thi kahin
   Rota tha falak hilti thi zameen
-  
+
   6
   Wo kiske jawan ka laasha tha
   Seene may tha uske naiza gada
   Thay jisko uthaye shaahe huda
   Kya akbar mera maara gaya
-  
+
   7
   Darya ke kanare ammu mera
   Haaton ko kataye kyun hai pada
   Parcham bhi hai uska khoon may bhara
   Kya maajra hai ya rab tu bata
-  
+
   8
   Jab bhi ye pada jaye nauha
   Charon taraf hoga shor bapa
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=690
 # raw_sha256: 7caeffad8895089cb21d0af440574d85d9bf6eb7b4cd5bb376a9f1cc1d0fcdf5
 ---
-
 رب خیر کریں میرے بابا کی
+صغریٰ کی صدا یہ ہے
 
 ۱
-صغریٰ کی صدا یہ ہے
 کل خواب میں دیکھا تھا یہ سماں
 تپتا ہوا صحرا خوں کے نشاں
 تھے احمد ِ مرسل اشک فشاں

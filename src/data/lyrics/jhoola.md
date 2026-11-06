@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa ne rote huwe asghar ka jhulaya jhoola
-  
-  1
   Kabhi chooma kabhi seene se lagaya jhoola
+
+  1
   Dekh kar roti rahi asghar e baysheer ko maa
   Shabe ashoor bahot dayr jhulaya jhoola
-  
+
   2
   Ro padi bano e muztar jo ye manzar dekha
   Khaak pe haath se bacchi ne banaya jhoola
-  
+
   3
   Ali asghar ko sada de ke tadapti thi rubab
   Raaste mein jo kabhi saamne aaya jhoola
-  
+
   4
   Bhai ki yaad mein rote huwe behosh hui
   Jab nazar fatema sughra ko na aaya jhoola
-  
+
   5
   Raakh bhi aayi hai loote huwe asbaab ke saath
   Kalma goyo ne hai kuch aise jalaya jhoola
-  
+
   6
   Aa gayi shaam se rote huwe asghar ki behan
   Jab sar e farshe aza hum ne uthaya jhoola
-  
+
   7
   Neem shab aati hai bibi koi girya karne
   Jab se ghar mein ali asghar ka sajaya jhoola
-  
+
   8
   Phir kabhi rizq ki tangi nahi dekhi yasir
   Roz e ashoor jo faaqe mein uthaya jhoola
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3573
 # raw_sha256: 6e5d87c94d2ce6b665748a1fc3e2e6cca2ce2695da69f56fa5d27a34795d3b51
 ---
-
 ماں نے روتے ہوئے اصغر کا جھلایا جھولا
+کبھی چوما کبھی سینے سے لگایا جھولا
 
 ۱
-کبھی چوما کبھی سینے سے لگایا جھولا
 دیکھ کر روتی رہی اصغر بے شیر کو ماں
 شب عاشور بہت دیر جھلایا جھولا
 

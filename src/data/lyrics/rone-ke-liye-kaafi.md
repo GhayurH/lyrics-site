@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Rone ke liye kaafi hai sajjad tera naam
-  
-  1
   Tu shahensha e dard hai batla rahi hai shaam
+
+  1
   Chala bekason ka kaarvan bemaar logo saarban
   Hai sang sar e uriyan shahe la-fata ki betiyan
   Karbobala ke dasht mein barpa hai kohraam
-  
+
   2
   Zainab pukari be-watan bhai mera hai be-kafan
   Karde isay koi dafan mere haathon mein baandhi rasan
   Haye kaise suna hoga bemaar ne paighaam
-  
+
   3
   Mastooron mein ek mard hai ghairat se chehra zard hai
   Karbal ki zameen gard hai zainab ka dil mein dard hai
   Rota hai sar jhuka ke karta nahi kalaam
-  
+
   4
   Mushkil thi badi wo ghadi darbar mein zainab khadi
   Shabbir ke lab per chadi sajjad ne pehni kadi
   Darbar e yazeedi ke larze thay dar o baam
-  
+
   5
   Kat jaate sayyadon ke sar zainab na jaati dar badar
   Bemaar ka tukde jigar rota hai lahoo har nagar
   Har manzilon pe tadapna sajjad tera kaam
-  
+
   6
   Zindan siyaah posh hai tanhaai ki aaghosh hai
   Abid kahe na hosh hai dum toota hai khamosh hai
   Ummat ne sakina ko diya maut ka inaam
-  
+
   7
   Karbal ki soya khaak par aadil lahoo poshaak par
   Charche huwe aflaak par sultan e loulaak par
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1696
 # raw_sha256: b343af2ff495b52566570ed7e87b299444a0ca1c1133f2a2a7aceec7fb19ec22
 ---
-
 رونے کے لئے کافی ہے سجاد تیرا نام
+تو شہنشاہِ درد ہے بتلا رہی ہے شام
 
 ۱
-تو شہنشاہِ درد ہے بتلا رہی ہے شام
 چلا بیکسوں کا کارواں بیمار لوگو سارباں
 ہے سنگ سر عریاں شاہ لافتی کی بیٹیاں
 کربوبلا کے دشت میں برپا ہے کہرام

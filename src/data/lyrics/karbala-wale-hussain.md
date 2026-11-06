@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Fatema zehra ke dilbar karbala waale hussain
-  
-  1
   Kushtaye tayghe sitamgar karbala waale hussain
+
+  1
   Haye kya aalam hua hoga dile sad paash ka
   Jab uthaai laashe akbar karbala waale hussain
-  
+
   2
   Zindagi bhar saani e zehra ka nauha tha yehi
   Tashnalab mere biradar karbala waale hussain
-  
+
   3
   Mujhse badkar kaun hoga is zamane mein ghareeb
   Be kafan tum mai khule sar karbala waale hussain
-  
+
   4
   Ghar se beghar hogaye nana ka rauza chut gaya
   Kaisa bigda hai muqaddar karbala waale hussain
-  
+
   5
   Qasim o aun o mohamed bhi gaye abbas bhi
   Ab na asghar hai na akbar karbala waale hussain
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=866
 # raw_sha256: 86f72e6eefa74f4222bbadd630932237b9577c94f7c99b9ba929873f22bbb40a
 ---
-
 فاطمہ زہرا کے دلبر کربلا والے حُسین
+کُشتہِ تیغِ ستم گر کربلا والے حُسین
 
 ۱
-کُشتہِ تیغِ ستم گر کربلا والے حُسین
 ہائے کیا عالم ہوا ہو گا دلِ صد پاش کا
 جب اُٹھائی لاشِ اکبر کربلا والے حُسین
 

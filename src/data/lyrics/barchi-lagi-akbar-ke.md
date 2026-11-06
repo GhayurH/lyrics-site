@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Barchi lagi akbar ke to maa kehti thi ro kar
-  
-  1
   Armaan mere khaak mein sab mil gaye akbar
+
+  1
   Din byaah ke aaye to ajal aagayi tum ko
   Bigda mera pardes mein ye kaisa muqaddar
-  
+
   2
   Ay laal jawan hoke ye kya daagh diya hai
   Barchi lagi seene pe gaye jaanibe kausar
-  
+
   3
   Abbas ka qasim ka abhi gham kam to nahi tha
   Ye zakhm tera aur laga mere jigar par
-  
+
   4
   Sughra tere waade pe madine mein hai baithi
   Aankhein tere raste pe lagaye huwe muztar
-  
+
   5
   Afsos layeeno ne to itna bhi na socha
   Tum shakl shabahat mein thay hamshakle payambar
-  
+
   6
   Zainab ka tadapna teri furqat mein ghazab hai
   Ro ro ke sada deti hai akbar mere akbar
-  
+
   7
   Rehaan meri aankh se behte huwe aansu
   Nauha ali akbar ka sunaate hai muqarrar
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3428
 # raw_sha256: 05bafff89a85ed3e58a1e09b7f61e902dfcc85324b8288f64d345cb25806e1bc
 ---
-
 برچھی لگی اکبر کے تو ماں کہتی تھی رو کر
+ارمان‌ میرے خاک میں سب مل گےء اکبر
 
 ۱
-ارمان‌ میرے خاک میں سب مل گےء اکبر
 دن‌ بیاہ کے آے تو اجل آ گیء تم کو
 بگڑا میرا پردیس میں یہ کیسا مقدر
 

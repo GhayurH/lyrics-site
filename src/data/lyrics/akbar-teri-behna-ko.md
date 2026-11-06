@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Akbar teri behna ko teri yaad sataati hai
-  
-  1
   Veeran haveli mein bemaar bulaati hai
+
+  1
   Akbar tera waada tha mai lene ko aaunga
   Bin tere meri behna sehra na sajaunga
   Kapde teri shadi ke hamsheer banaati hai
-  
+
   2
   Khat bheja na khud aaye kya baat hui bhaiya
   Mai des mein tanha hoo pardes mein hai kunba
   Din mujhko rulaate hai shab mujhko daraati hai
-  
+
   3
   Ek baar jhulaaun mai jhoola ali asghar ka
   Dekha hi nahi kab se chehra ali asghar ka
   Roti hoo nazar meri jab jhoole pe jaati hai
-  
+
   4
   Bhaiya teri sughra ko dhaaras hai tere dam se
   Itna to bata jao kyun door huwe hum se
   Din beet gaye kitne ab jaan ye jaati hai
-  
+
   5
   Zakhmi tha tera seena kal khwaab mein dekha tha
   Kuch aag ke sholay thay jalta hua jhoola tha
   Is khwaab ki sughra ko ta'beer rulaati hai
-  
+
   6
   Bemaar shifa paaye akbar jo mera aaye
   Bin apne maseeha ke ghut ghut ke na mar jaye
   Dhadkan tere aane ki bas aas bandhaati hai
-  
+
   7
   Abbas chacha tum hi baba se kaho jaa kar
   Akbar nahi aa sakte le jao tum hi aa kar
   Dam ghut'ta hai akbar ki jab yaad sataati hai
-  
+
   8
   Zeeshan o raza ka bhi maqbool ho ye pursa
   Zinda hai qayamat tak irfan ka ye nauha
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1820
 # raw_sha256: b66db9051a83a0fc73bf9c333df44e03b51413fddea03796d0d6c58c8cc471df
 ---
-
 اکبر تیری بہنا کو تیری یاد ستاتی ہے
+ویران حویلی میں بیمار بلاتی ہے
 
 ۱
-ویران حویلی میں بیمار بلاتی ہے
 اکبر تیرے وعدہ تھا میں لینے کو آؤں گا
 بن تیرے میری بہنا سہرا نہ سجاؤں گا
 کپڑے تیری شادی کے ہمشیر بناتی ہے

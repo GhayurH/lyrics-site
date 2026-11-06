@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Baab e sa'at par khadi hai fatema ki betiyan
-  
-  1
   Shaam ke darbar may hai jashn ki tayyarian
+
+  1
   Wa hussaina ki sada hai itrat e athaar may
   Jaane kya guzri hai in par shaam ke bazaar may
   Khoon may tar hogayi kaunain ki shehzadiyan
-  
+
   2
   Subho se thak jaate hai jab shaami pathar maar kar
   Shaam hote hi chale jaate hai zaalim apne ghar
   Raat bhar qaidi khade rehte hai zer e aasman
-  
+
   3
   Gham to ye hai chaar jaanib kalma go aabad thay
   Chadarein phir bhi na di sar ko chupane ke liye
   Sar khule kitni azan'ein sun chuki hai bibiyan
-  
+
   4
   Koi jaa kar ye bata do bekas o mazloom ko
   Mil rahi hai ye yateemi ki saza masoom ko
   Ab sakina ko tamache de rahe hai loriyan
-  
+
   5
   Khoon may baqir ke shaamil ghairat e abbas hai
   Hai abhi kamsin magar isko bhi ye ehsaas hai
   Bazm may noshi kahan aur saani e zahra kahan
-  
+
   6
   Ban gaya tareekh e ghurbat shaam o kufa ka safar
   Zulm jitne ho gaye hai be-khata sadaat par
   Mujrimon par bhi kahan hoti hai itni sakhtiyan
-  
+
   7
   Abid e bemaar aansu khoon ke barsata raha
   Be-ridayi ka isay zainab ki gham khaata raha
   Aate aate shaam tak boodha hua hai ye jawan
-  
+
   8
   Jaa ke chehlum par takallum ne ye dekha hai samaa
   Kal jahan se be-rida guzri thi sab saydaniya
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1138
 # raw_sha256: 758c32e7edc060494655fd4cfad0a9d64e3481163402ea3161a85cc822ffcf7d
 ---
-
 باب ساعت پر کھڑی ہے فاطمہ کی بیٹیاں
+شام کے دربار میں ہے جشن کی تیاریاں
 
 ۱
-شام کے دربار میں ہے جشن کی تیاریاں
 وا حسینا کی صدا ہے عطرت اطہار میں
 جانے کیا گزری ہے ان پر شام کے بازار میں
 خون میں تر ہوگیء کونین کی شہزادیاں

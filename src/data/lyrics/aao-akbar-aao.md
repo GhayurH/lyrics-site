@@ -9,90 +9,54 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Aao akbar aao, mere akbar aao
-
-
-  1
-
+romanLyrics: |-
+  Aao akbar aao, mere akbar aao
   Maadar ke galay lag jao
 
+  1
   Ay laal zara aankhein kholo
-
   Maa tum pe fida kuch to bolo
-
   Yun maa ko nahi tadpao
 
-
   2
-
   Socha tha dulhan mai laaungi
-
   Poshak nayi banwaungi
-
   Aajao sehra bandhao
 
-
   3
-
   Armaan mai poora kar na saki
-
   Tum jee na sake mai mar na saki
-
   Is dil ki dua le jao
 
-
   4
-
   Sughra ne likha khat mein ro kar
-
   Kya bhool gaye waada akbar
-
   Sughra ka waada nibhao
 
-
   5
-
   Maa ban ke tujhe paala jis ne
-
   Wo laash teri kaise dekhe
-
   Zainab ko nahi tadpao
 
-
   6
-
   Dil mera hua pamaal suno
-
   Kuch apni maa ka haal suno
-
   Kuch apna haal sunao
 
-
   7
-
   Kehti hai sakina ro ro kar
-
   Kyun rooth gaye bhaiya akbar
-
   Na aur usay rulwao
 
-
   8
-
   Bete jo jawan ho jaate hai
-
   Maa baap ke gham mit jaate hai
-
   Tum mere dard batao
 
-
   9
-
   Dena hai agar maa ko pursa
-
   Irfan aur mazhar ye nauha
-
-  Umme laila ko sunao'
+  Umme laila ko sunao
 reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 # source_id: nohayonline:782a5a9891eb72518158
 # source_url: https://www.nohayonline.com/details_content.php?id=3195
@@ -101,11 +65,10 @@ reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 # source_url: https://www.ziyaraat.net/api/noha/1103
 # raw_sha256: 80d048fa27fa944099826e745d583587a94d89dbf1e50b0020491725c600c647
 ---
-
 آؤ اکبر آؤ میرے اکبر آؤ
+مادر کے گلے لگ جاؤ
 
 ۱
-مادر کے گلے لگ جاؤ
 اے لال زرا آنکھیں کھولو
 ماں تم پہ فدا کچھ تو بولو
 یوں ماں کو نہیں تڑپاو

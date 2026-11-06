@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Sache ho to sab ko batana zehra sachi hai
-  
-  1
   Jhoota hai ye saara zamana zehra sachi hai
+
+  1
   Fakhre maryam hukm jo deti ghasib ke darbar mein bhi
   Aate falak se kehne isa zehra sachi hai
-  
+
   2
   Fizza ne poocha maine suna hai aap falak par thay masroof
   Bole ali has kar ay fizza zehra sachi hai
-  
+
   3
   Aakhri matamdar kahega jaate huwe ye jannat mein
   Poora kiya hai apna waada zehra sachi hai
-  
+
   4
   Kitne anpad jaahil thay tum samjhe nahi tehreer-e-nabi
   Tum ko nabi ne likh ke diya tha zehra sachi hai
-  
+
   5
   Maa se dulhan ki maut ye boli malka e kun hai ye bibi
   Beti ho jayegi zinda zehra sachi hai
-  
+
   6
   Eid ke kapde aa jayenge kab aur kaise rab jaane
   Beton ko to itna pata tha zehra sachi hai
-  
+
   7
   Zehra ko jhutlaya jis dam chup thay madine waale magar
   Cheekh raha tha rauza e nabi ka zehra sachi hai
-  
+
   8
   Khwaab mein jaane kaunsa manzar dekha kamsin shabbar ne
   Chaunk ke kehta tha shehzada zehra sachi hai
-  
+
   9
   Honton par tatheer ki aayat qabr ki matti haathon mein
   Kehte thay ro ro kar maula zehra sachi hai
-  
+
   10
   Waada kiya tha bete se mai zibha ke waqt aa jaungi
   Dekho nibhaya apna waada zehra sachi hai
-  
+
   11
   Daud ke maatha choom liya beti ne ali ki ay sajjad
   Ghazi ne pehli baar jo bola zehra sachi hai
@@ -60,11 +60,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3074
 # raw_sha256: c54740285901f725cfd134a04d9767dee400e5ef8d6a039001d9fd3bc5da085b
 ---
-
 سچے ہو تو سب کو بتانا زہرا سچی ہے
+جھوٹا ہے یہ سارا زمانہ زہرا سچی ہے
 
 ۱
-جھوٹا ہے یہ سارا زمانہ زہرا سچی ہے
 فخر مریم حکم جو دیتی غاصب کے دربار میں بھی
 آتے فلک سے کہنے عیساء زہرا سچی ہے
 

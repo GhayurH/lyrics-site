@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay karbala tere daaman mein daastan hai koi
-  
-  1
   Hussain ban na sakega na karbala hai koi
+
+  1
   Ali ki beti hoon nana hai mustafa mere
   Mai berida hoon mere sar pe na rida hai koi
-  
+
   2
   Na laashe baba pe jaungi chod'de zaalim
   Ye keh ke nanhe se haaton ko jodta hai koi
-  
+
   3
   Na pooch maadar e asghar ke dil ki bechaini
   Tamaam raat gayi jhoola jhula raha hai koi
-  
+
   4
   Khayal aaya tha bazaar e shaam ka shayad
   Behen ne sar ko jo chooma to ro diya hai koi
-  
+
   5
   Sahara meri zaeefi ka kho gaya ya rab
   Zameen pe jhuk ke jawani ko dhoondta hai koi
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3191
 # raw_sha256: a9b31c0861f3b9600e1d16408761bc4eec1edd4c758e281a726bd462a29c00c5
 ---
-
 اے کربلا تیرے دامن میں داستاں ہے کوی
+حسین بن‌ نہ سکے گا نہ کربلا ہے کوی
 
 ۱
-حسین بن‌ نہ سکے گا نہ کربلا ہے کوی
 علی کی بیٹی ہوں نانا‌ ہے مصطفیٰ میرے
 میں بے ردا ہوں میرے سر پہ نہ ردا ہے کوی
 

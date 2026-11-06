@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Karti thi fughan fatema zehra mere baba
-  
-  1
   Beti hui ab aap ki tanha mere baba
+
+  1
   Bechain bahot aap ke hai dono nawase
   Aajaiye ghar hogaya soona mere baba
-  
+
   2
   Laashe pa mohamed ke yehi kehti thi zahra
   Yun mujhse khafa hoke na jaana mere baba
-  
+
   3
   Hai teri shahadat se har ek simt udaasi
   Ab hogaya sunsaan madina mere baba
-  
+
   4
   Rone bhi nahi deta mujhe tum pa zamana
   Ghut ghut ke mai kab tak rahun zinda mere baba
-  
+
   5
   Is tarha bhi beti se khafa hota hai koi
   Deti hai sada aap ki zahra mere baba
-  
+
   6
   Hasnain ye kehte hai nahi poochta koi
   Kya kehke unhe doon mai dilaasa mere baba
-  
+
   7
   Paas apne bulalo to sukoon aayega mujhko
   Jab tum na rahe jee ke karun kya mere baba
-  
+
   8
   Kis tarha sambhalenge ali binte nabi ko
   Ghash mein hai magar lab pa hai nauha mere baba
-  
+
   9
   Bas binte nabi ka tha rasheed ek yehi nauha
   Baba mere baba mere baba mere baba
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3010
 # raw_sha256: 74317120ea867d2b96fb5d059647f9f55436cb4b2ee8be71789e0afa0f7d0f6a
 ---
-
 کرتی تھی فغاں فاطمہ زہرا میرے بابا
+بیٹی ہوی اب آپ کی تنہا میرے بابا
 
 ۱
-بیٹی ہوی اب آپ کی تنہا میرے بابا
 بے چین بہت آپ کے ہے دونوں نواسے
 آجایےء گھر ہو گیا سونا میرے بابا
 

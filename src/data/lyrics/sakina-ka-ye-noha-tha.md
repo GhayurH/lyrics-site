@@ -10,36 +10,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Sakina ka ye nauha tha mere bhaiya chale aao
-  
-  1
   Bahot zaalim hai ye aada mere bhaiya chale aao
+
+  1
   Tumhari muntazir hoon jab se tum ran ko sidhaare ho
   Nigahon pe na ab rasta mere bhaiya chale aao
-  
+
   2
   Ridayein chin chuki hum lut chuke jalne lage qaime
   Ye manzar dekhne bhaiya mere bhaiya chale aao
-  
+
   3
   Tumhare jaise kamsin raat ko baahar nahi jaate
   Hai kitna ran mein sannata mere bhaiya chale aao
-  
+
   4
   Taras khaa kar to mere dushmano ne pani bheja hai
   Piyun mai kis tarha tanha mere bhaiya chale aao
-  
+
   5
   Phupi ka ab tadapna mujhse to dekha nahi jaata
   Mera ye maan lo kehna mere bhaiya chale aao
-  
+
   6
   Liye jaate hai aada qaid kar ke shaam ki jaanib
   Mai jaaungi nahi tanha mere bhaiya chale aao
-  
+
   7
   Ali akbar ne lad ke khoon armaano ka kar daala
   Dikha doon ab tumhe sehra mere bhaiya chale aao
-  
+
   8
   Andhera cha raha hai aa rahi hai raat ki kaali
   Zaroori hogaya aana mere bhaiya chale aao
@@ -47,11 +47,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2935
 # raw_sha256: 440211914dd07d50dc83da4cfa610393caa51da8b9942e830d92313a7c5f84c1
 ---
-
 سکینہ کا یہ نوحہ تھا میرے بھیا چلے آؤ
+بہت ظالم ہے یہ اعدا میرے بھیا چلے آؤ
 
 ۱
-بہت ظالم ہے یہ اعدا میرے بھیا چلے آؤ
 تمہاری منتظر ہوں جب سے تم رن کو سدھارے ہو
 نگاہوں پہ نہ اب رستہ میرے بھیا چلے آؤ
 

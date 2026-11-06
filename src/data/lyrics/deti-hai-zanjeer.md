@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Deti hai zanjeer gawahi kis ka hai taboot utha
-  
-  1
   Chauda saal ke baad hua hai zindan se mazloom reha
+
+  1
   Kadiyon mein paband janaza le ke hai mazdoor chale
   Karne lagi hai aap ghareebi matam musa kazim ka
-  
+
   2
   Haye baad e shahada ke bhi pusht na seedhi hoti thi
   Chauda saal ruku mein reh kar maula ka ye haal hua
-  
+
   3
   Dekh ke haalat bewa maa ki betiyan hai behaal hui
   Sar mein khaak e yateemi le kar rota hai mazloom raza
-  
+
   4
   Angooron mein zeher khila kar maara hai pardesi ko
   Fil qurba ka aale nabi ko ummat ne ye ajr diya
-  
+
   5
   Jo tha saatwan rukn e imamat dhaaya zaalim logon ne
   Galiyon mein baghdad ki ro kar deta hai jibreel sada
-  
+
   6
   Kalma go batlao kya ye paak nabi ka khoon nahi
   Be-waris baghdad ke pul par jis ka hai taboot pada
-  
+
   7
   Kar ke raqam maula ke masayeb rota hai jawad qalam
   Kazim ka hai sog manaati kar ke matam aap qaza
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3275
 # raw_sha256: 71a0ee108722190d646105fc8294786aedc183042a7b739875ba9f4811ed617a
 ---
-
 دیتی ہے زنجیر گواہی کس کا ہے تابوت اٹھا
+چودہ سال کے بعد ہوا ہے زنداں سے مظلوم رہا
 
 ۱
-چودہ سال کے بعد ہوا ہے زنداں سے مظلوم رہا
 کڑیوں میں پابند جنازے لے کے ہے مزدور چلے
 کرنے لگی ہے آپ غریبی ماتم موسیٰ کاظم کا
 

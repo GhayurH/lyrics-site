@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Jawan ki laash uthana bahot hi mushkil hai
-  
-  1
   Phir usko qaime mein laana bahot hi mushkil hai
+
+  1
   Hussain seena e akbar se khaynch lenge sina
   Sina jigar se chudana bahot hi mushkil hai
-  
+
   2
   Kiya hai teer se asghar ko zibha zaalim ne
   Yaqeen maa ko dilaana bahot hi mushkil hai
-  
+
   3
   Hai zakhm itne sakina ke jism par sajjad
   Badan se kurta chudana bahot hi mushkil hai
-  
+
   4
   Itne tukdo mein bati laasha e qasim ban mein
   Chunke ek gathri mein laana bahot hi mushkil hai
-  
+
   5
   Kaha ye sughra se abid ne zakhm itne hai
   Tujhe galay se lagana bahot hi mushkil hai
-  
+
   6
   Ali ki beti ko aati hai sharm shauhar se
   Nishan rasan ke dikhana bahot hi mushkil hai
-  
+
   7
   Hijaab mein bhi na jaaye shareef zaadi jahan
   Bina rida wahan jaana bahot hi mushkil hai
-  
+
   8
   Teri kareemi hai sajjad ghar mein qaatil ko
   Bulake khana khilana bahot hi mushkil hai
-  
+
   9
   Nauha-khwano pe hai bibi ka karam ay farhan
   Warna ye nauha sunana bahot hi mushkil hai
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=75
 # raw_sha256: 9f43921aa17e2f0677f0651919cc40c4914a7a24be4f997c63188a7b186ea871
 ---
-
 جواں کی لاش اٹھانا بہت ہی مشکل ہے
+پھر اس کو خیمے میں لانا بہت ہی مشکل ہے
 
 ۱
-پھر اس کو خیمے میں لانا بہت ہی مشکل ہے
 حسین سینہء اکبر سے کھینچ لینگے سینہ
 سناں جگر سے چھڑانا بہت ہی مشکل ہے
 

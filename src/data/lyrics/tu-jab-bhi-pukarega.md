@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Tu jab bhi pukarega chali aaungi beta
-  
-  1
   Turbat may bhi aaram kahan paungi beta
+
+  1
   Ay laqte jigar noore nazar tum pe mai qurban
   Har waqt tere saat rahegi ye teri maa
   Bin tere kahin chain nahi paungi beta
-  
+
   2
   Mayyat pe bhi milne ki agar dega sadayein
   Maa bande kafan tod ke le legi balayein
   Jo kehti hoo wo kar ke bhi dikhlaungi beta
-  
+
   3
   Qismat jo kabhi teri watan tujhse chudaye
   Ay laal mere aisa kabhi waqt jo aaye
   Ghabrana nahi saath tere jaaungi beta
-  
+
   4
   Jis waqt qadam rakhega tu karbobala may
   Wallah chupa lungi tujhe apni rida may
   Saaye ki tarha saath nazar aaungi beta
-  
+
   5
   Mat soch ke jazbat na qaboo may rahenge
   Jis waqt layeen qaime hatane ko kahenge
   Us waqt mai abbas ko samjhaungi beta
-  
+
   6
   Mehroom mere haq se karenge tujhe zaalim
   Peene ke liye pani na denge tujhe zaalim
   Pyasa mai tujhe dekh nahi paungi beta
-  
+
   7
   Ashoor ke din hoga sawa naize pe suraj
   Ta dayr jo tehrega sawa naize pe suraj
   Baahon may chipane ko chali aaungi beta
-  
+
   8
   Baalon se mai maqtal ki zameen saaf karungi
   Wallah ke har lamha wahin baithi rahungi
   Bichdungi to aaram kahan paungi beta
-  
+
   9
   Palkon se nikalungi sabhi teer badan ke
   Har aah pe bosay mai tere lungi dehan ke
   Mai shimr ke khanjar se lipat jaungi beta
-  
+
   10
   Asif ye sukhan sun ke chale qalb pe khanjar
   Ta dayr hussain ibne ali roye lipat kar
@@ -66,11 +66,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1789
 # raw_sha256: 40e9cadb3c8e25e81e3e0a4ae685f440b666b139cd6efc6462f7ff24d13a98a6
 ---
-
 تو جب بھی پکارے گا چلی آؤں گی بیٹا
+تربت میں بھی آرام کہاں پاؤں گی بیٹا
 
 ۱
-تربت میں بھی آرام کہاں پاؤں گی بیٹا
 اے لختِ جگر نورِ نظر تم پہ میں قرباں
 ہر وقت تیرے ساتھ رہے گی یہ تیری ماں
 بن تیرے کہیں چین نہیں پاؤں گی بیٹا

@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Qabr zahra ki banana koi aasan na tha
-  
-  1
   Phir nishan uska mitana koi asaan na tha
+
+  1
   Baad baba ke ajab aalam e tanhaai tha
   Aur phir saara madina hi tamashai tha
   Fatema par wo zamana koi asaan na tha
-  
+
   2
   Haath paband hai gardan may hai jiske rassi
   Hai wo mazloom mera waali zamane ka vali
   Jaake dar dar pe batana koi asaan na tha
-  
+
   3
   Phasliyan toot ke yun choor thi shehzadi ki
   Karne lagti thi jo khaaliq ki ibadat bibi
   Haath pehlu se hatana koi asaan na tha
-  
+
   4
   Poocha zainab ne jo baalon may safedi kyun hai
   Roke beti se faqat itna kaha zahra ne
   Bhare darbar may jaana koi asaan na tha
-  
+
   5
   Mekh darwaze ki pehlu may gadi thi lekin
   Dard se saans bhi lena tha jahan na mumkin
   Phir bhi hyder ko bachana koi asaan na tha
-  
+
   6
   Thi wo ghurbat ki bahot sakht ghadi zahra par
   Qatl mohsin bhi hua mujhpe gira jalta dar
   Gham ye hyder ko batana koi asaan na tha
-  
+
   7
   Qabre zahra pe ye kahte thay ali ro ro kar
   Tha mere waaste asaan uthana khyber
   Tera taboot uthana koi asaan na tha
-  
+
   8
   Maamta maa ki raza humse raqam kaise ho
   Haye darvaish ke us dard may bhi bachon ko
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1039
 # raw_sha256: 7e0e0a32cc172f9dc63e539f44809360d2d54ed5a1d1645e586140bcb7dba25b
 ---
-
 قبر زھرا کی بنانا کوئی آسان نا تھا
+پھر نشاں اُس کا مِٹانا کوئی آسان نا تھا
 
 ۱
-پھر نشاں اُس کا مِٹانا کوئی آسان نا تھا
 بعد بابا کے عجب عالمِ تنہائی تھا
 اور پھر سارا مدینہ ہی تماشاہی تھا
 فاطمہ پر وہ زمانہ کوئی آسان نا تھا

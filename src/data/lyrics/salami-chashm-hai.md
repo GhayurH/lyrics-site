@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Salaami chashm hai rone ko dil buka ke liye
-  
-  1
   Zuban hai wakf shehenshah e karbala ke liye
+
+  1
   Kaha ye fatema zehra ne aa ke laashe sarwar par
   Bana tha tu kya laal dashte karbala ke liye
-  
+
   2
   Kabhi to dosh e payambar tha teri sawari ko
   Hai aaj sar ye tera naiza e jafa ke liye
-  
+
   3
   Sada e halq e bureeda se aayi sarwar ki
   Wo ibteda ke liye tha ye inteha ke liye
-  
+
   4
   Haram ke lootne asbaab saad o shimr layeen
   Chala jo zainab e nashaad ki rida ke liye
-  
+
   5
   Wo ro ke boli mai fatema ki beti hoo
   Rida na cheen sitamgar meri khuda ke liye
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2190
 # raw_sha256: 647129689ec9d022ff69207198a8f2e13ce01cc2d74b06bcc2c51d9ee511a17f
 ---
-
 سلامی چشم ہے رونے کو دل بکا کے لئے
+زباں ہے وقف شہنشاہِ کربلا کے لئے
 
 ۱
-زباں ہے وقف شہنشاہِ کربلا کے لئے
 کہا یہ فاطمہ زہرا نے آ کے لاش سرور پر
 بنا تھا تو کیا لال دشتِ کربلا کے لئے
 

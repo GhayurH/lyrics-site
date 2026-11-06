@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Boli maa khasta jigar aakhri lori sunlo
-  
-  1
   Ay mere noore nazar aakhri lori sunlo
+
+  1
   Mera armaan meri jaan meri aas ho tum
   Apne maa ke liye asghar nahi abbas ho tum
   Aaj ki raat ghanimat hai mere paas ho tum
   Ay mere rashke qamar aakhri lori sunlo
-  
+
   2
   Sooni kar ke meri godhi mujhe tadpaoge
   Chod kar roti hui maa ko chale jaoge
   Aise jaoge ke wapas nahi aaoge
   Door ka hai ye safar aakhri lori sunlo
-  
+
   3
   Meri aaghosh mein ye aakhri shab hai pyare
   Is tasavvur se mere chalte hai dil par aare
   Subha beh jayenge ran mein tere khoon ke dhaare
   Tujhko aayegi qaza aakhri lori sunlo
-  
+
   4
   Kal sare dashte bala hoga qayamat ka samaan
   Tum khuda jaane kahan hoge kahan hogi ye maa
   Raakh reh jayegi kal aaj ye qaime hai jahan
   Kal ujad jayega ghar aakhri lori sunlo
-  
+
   5
   Keh rahe thay abhi haye shahe karbobala
   Qatl ho jayegi is dasht mein kal fauje khuda
   Ay mere laal larazta hai kaleja mera
   Raat jaaye na guzar aakhri lori sunlo
-  
+
   6
   Shadiyano ki sada aane lage hai ran se
   Suye maidan chale ansaar shahe waala ke
   Khatm hone ko hai ye raat ke ay laal mere
   Hone waali hai sehar aakhri lori sunlo
-  
+
   7
   Hashr ka lamha tha gohar wo qayamat ki ghadi
   Karwatein leta tha shehzada tadapta tha kabhi
@@ -58,11 +58,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3231
 # raw_sha256: af86b3c8fb7904262fa10c034225cd6db15288720c40a26474afa7cacad0dec4
 ---
-
 بولی ماں خستہ جگر آخری لوری سن لو
+اے میرے نورِ نظر آخری لوری سن لو
 
 ۱
-اے میرے نورِ نظر آخری لوری سن لو
 میرا ارمان میری جان میری آس ہو تم
 اپنے ماں کے لئے اصغر نہیں عباس ہو تم
 آج کی رات غنیمت ہے میرے پاس ہو تم

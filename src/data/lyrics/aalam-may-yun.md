@@ -10,20 +10,20 @@ aliases: []
 published: false
 romanLyrics: |-
   Aalam may yun shareek e risalat hai fatema
-  
-  1
   Rehmat nabi hai saaya e rehmat hai fatema
+
+  1
   Shauhar wali padar hai payambar pisar imam
   Kitni azeem deen ki taaqat hai fatema
-  
+
   2
   Maryam ka fatema se bhala kya muqabla
   Maryam to aabida hai ibadat hai fatema
-  
+
   3
   Dono ke ishteraak se sajda qubool hai
   Hyder agar namaz hai niyat hai fatema
-  
+
   4
   Dashte mubahila may payambar ko dekh kar
   Kehna padega jumb e risalat hai fatema
@@ -31,11 +31,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1621
 # raw_sha256: 1d25a6daf78b20e9145e09fd408ce4ca70a14e03b1548cf45a4da4c85c61c20c
 ---
-
 عالم میں یوں شریک ے رسالت ہئے فاطمہ
+رحمت نبی ہیں سایہ ے رحمت ہئے فاطمہ
 
 ۱
-رحمت نبی ہیں سایہ ے رحمت ہئے فاطمہ
 شوھر ولی پدر ہئے پیمبر پسر امام
 کتنی عظیم دین کی طاقت ہیں فاطمہ
 

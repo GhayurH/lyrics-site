@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Dekh kar pamaal laashe karbala roti rahi
-  
-  1
   Ban ke laashon ka kafan khaake shifa roti rahi
+
+  1
   Jab kate darya pe baazu bawafa abbas ke
   Waaris e tatheer ke sar ki rida roti rahi
-  
+
   2
   Kar diya zakhmi sina ne haye akbar ka jigar
   Dekh kar hamsheer jis ka raasta roti rahi
-  
+
   3
   Jab kaha bache ne maa se muskurakar alwida
   Choom kar maa nanhe asghar ka gala roti rahi
-  
+
   4
   Kat chuki sajde mein gardan jab ali ke laal ki
   Khol kar baalon ko binte mustufa roti rahi
-  
+
   5
   Ambiya jawwad roye suye maqtal dekh kar
   Aasman larza zameen e nainawa roti rahi
@@ -36,11 +36,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1675
 # raw_sha256: 2af8c9d79ffe6e88802a13a7a23aae8d0b84ecbaaa1524c814636bfb4f4b26ed
 ---
-
 دیکھ کر پامال لاشے کربلا روتی رہی
+بن کے لاشوں کا کفن خاک شفا روتی رہی
 
 ۱
-بن کے لاشوں کا کفن خاک شفا روتی رہی
 جب کٹے دریا پہ بازو با وفا عباس کے
 وارث تطہیر کے سر کی ردا روتی رہی
 

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Sitam baba ki ummat ka kabhi bhooli nahi zahra
-  
-  1
   Wo jalta ghar ka darwaza kabhi bhooli nahi zahra
+
+  1
   Nabi zaadi ke baalon ki safedi ye bataati hai
   Bhare darbar mein jaana kabhi bhooli nahi zahra
-  
+
   2
   Tamachon ke nishan shabbar na dekhe is liye apna
   Chupana laal se chehra kabhi bhooli nahi zahra
-  
+
   3
   Rasan dekhi galay mein murtaza ke haye bibi ne
   Ali par zulm aada ka kabhi bhooli nahi zahra
-  
+
   4
   Thi inki phasliyan tooti hui aur zakhm e pehlu tha
   Musalsal dard ka uthna kabhi bhooli nahi zahra
-  
+
   5
   Rahi jab tak bhi zinda bas usi ko roti rehti thi
   Bichadna apne mohsin ka kabhi bhooli nahi zahra
-  
+
   6
   Khule thay jis ghadi bande kafan to maa ki mayyat se
   Lipat kar laal ka rona kabhi bhooli nahi zahra
-  
+
   7
   Chale thay turbat e maadar se sheh karbobala jis dam
   Shah e mazloom ka jaana kabhi bhooli nahi zahra
-  
+
   8
   Jise izhaar ban mein kar diya pamaal aada ne
   Wo shah ka be-kafan laasha kabhi bhooli nahi zahra
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3283
 # raw_sha256: daaad31a75097baaa7b87ffb747b0af57d90deeda5a828df086bd08b9200b64e
 ---
-
 ستم بابا کی امت کا کبھی بُھولیں نہیں زہرا
+وہ جلتا گھر کا دروازہ کبھی بُھولیں نہیں زہرا
 
 ۱
-وہ جلتا گھر کا دروازہ کبھی بُھولیں نہیں زہرا
 نبی زادی کے بالوں کی سفیدی یہ بتاتی ہے
 بھرے دربار میں جانا کبھی بُھولیں نہیں زہرا
 

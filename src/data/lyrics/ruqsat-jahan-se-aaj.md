@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ruqsat jahan se aaj ali naqi ki hai
-  
-  1
   Ye shab gham o alam ki hai seena zani ki hai
+
+  1
   Chaaya hai saamra ki fizaon mein ranj o gham
   Zehr e dagha se haye naqi par kiya sitam
   Sosan pe haye sa'at badi bebasi ki hai
-  
+
   2
   Yasrab ke shaah ko jo bulaya fareb se
   Tune layeen haye sataya fareb se
   Ye daswa janasheen nishani ali ki hai
-  
+
   3
   Qaidi bana ke qaid e sitam mein rakha gaya
   Har ek zulm o jaur naqi par kiya gaya
   Shaam o sehar yun dard mein us muttaqi ki hai
-  
+
   4
   Dhaaya hai zulm tune layeen ye imam par
   Laanat ho do jahan ki sitamgar ke kaam par
   Haalat ajeeb sam se khuda ki wali ki hai
-  
+
   5
   Ummat ne phir se aale nabi ko kiya shaheed
   Yani ke haye maula naqi ko kiya shaheed
   Ghurbat mein aaj laash ye ibne taqi ki hai
-  
+
   6
   Larzi zameen aur falak ho gaya udaas
   Koi nahi hai haye jo maula naqi ke paas
   Kitni ajeeb aaj ghadi bebasi ki hai
-  
+
   7
   Roya hai ta hayaat jo maula hussain par
   Hyder ki aarzu dil e zehra ke chain par
   Sar peeto momino ke ye mayyat usi ki hai
-  
+
   8
   Sar pe hamare baap ka saaya nahi raha
   Ghurbat mein ek bete ne ro kar yehi kaha
   Dard o alam mein goonji sada askari ki hai
-  
+
   9
   Abbas do imam ka pursa batool ko
   Tiskeen hogi sahibe aalam rasool ko
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1300
 # raw_sha256: 1398b409bdd058269744b9c92849f29b0b1036499f7e79f948f7c0492212002d
 ---
-
 رخصت جہاں سے آج علی نقی کی ہے
+یہ شب غم و الم کی ہے سینہ زنی کی ہے
 
 ۱
-یہ شب غم و الم کی ہے سینہ زنی کی ہے
 چھایا ہے سامرہ کی فضاؤں میں رنج و غم
 زہر دغا سے ہاے نق پر کیا ستم
 سوسن پہ ہاے ساعت بڑی بے بسی کی ہے

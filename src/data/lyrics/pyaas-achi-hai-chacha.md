@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Aap ache hai chacha par ye zamana nahi acha
-  
-  1
   Pyaas achi hai magar aap ka jaana nahi acha
+
+  1
   Aasman royega qaimon may qayamat hogi
   Bin alamdaar alam qaimon may laana nahi acha
-  
+
   2
   Sirf ek raat may kyon budha huwa hai sajjad
   Sar khule maa'on ke beton ko dikhana nahi acha
-  
+
   3
   Ek shehzaadi thi jis shehr ki bibi zainab
   Iske bazaaron may zainab ko phirana nahi acha
-  
+
   4
   Jaise zindaan may sakina hai mili baba se
   Is tarha baap se beti ko milana nahi acha
-  
+
   5
   Khush naseebi hai jo de baap ko beta kaandha
   Baap ka laashe jawan haye uthana nahi acha
-  
+
   6
   Qabr asghar ki bana kar hai pareshan hussain
   Aag si rayth may ek phool chupana nahi acha
-  
+
   7
   Ab hamesha mai rahoongi isi zindan may chacha
   Mai na kehti thi mujhe chod ke jaana nahi acha
-  
+
   8
   Sar khule bibiyan roti hai azakhano may
   Shabe ashoor charagon ko jalana nahi acha
-  
+
   9
   Har khushi sadqe may zainab ke khuda de tujhko
   Haa moharram may khushi koi manana nahi acha
-  
+
   10
   Hum ali walon ko ay sarwar o rehaan kabhi
   Farshe matam ke siwa dhoondne jaana nahi acha
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=413
 # raw_sha256: 98f1b477aed0a2aa4446f57f81bc65640c8876221cd4c8395554affb26a3c3ff
 ---
-
 آپ اچھے ہیں چچا پر یہ زمانہ نہیں اچھا
+پیاس اچھی ہے مگر آپ کا جانا نہیں اچھا
 
 ۱
-پیاس اچھی ہے مگر آپ کا جانا نہیں اچھا
 آسماں روئے گا خیموں میں قیامت ہو گی
 بن علمدار علم خیموں میں لانا نہیں اچھا
 

@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Teer asghar ko laga karbobala tharra gayi
-  
-  1
   Ye musibat wo hai jo maa ka kaleja kha gayi
+
+  1
   Is se bad ke aur koi zulm kya hoga mazeed
   Thi wohi to teer e seh shoba ki ek zarbe shadeed
   Asghar e baysheer ko jo khoon mein nehla gayi
-  
+
   2
   Sar zameen e karbala par tha qayamat ka samaan
   Teer se jab chid gaya masoom asghar ka gala
   Aadmiyat ro padi insaniyat sharma gayi
-  
+
   3
   Sar jhukaye jaanibe qaima chale maula hussain
   Ran se asghar to na aaya aagaye maula hussain
   Ye khabar bano pe ek taaza qayamat dha gayi
-  
+
   4
   Bujh gaye thay maa ki umeedon ke saare hi diye
   Waapsi asghar ki ran se ho na paayi is liye
   Muntazir jo aankh thi wo aankh bhi pathra gayi
-  
+
   5
   Thi shikasta nok se naizon ki arze karbala
   Dhoondhte thay cheh mahine ki kamayi ashqiya
   Laashe asghar ek naize mein ulajh kar aagayi
-  
+
   6
   Apne bacche ke liye yun khoon roti thi rubab
   Dekh kar raste mein bacchon ko ye kehti thi rubab
   Mujh ko apne laadle ki har ada yaad aagayi
-  
+
   7
   Kya kami ho jaati tujh mein alqama tu hi bata
   Kitna pani asghar e baysheer pee leta bhala
   Poochne par ek maa ke alqama sharma gayi
-  
+
   8
   Khushk turbat par sakina ki nazar jyunhi padi
   Maa ye boli khoon ke aansu baha kar us ghadi
   Asghar e baysheer ki sookhi zaban yaad aa gayi
-  
+
   9
   Nauha asghar ka padha rizwan ne rote huwe
   Sun ke jis ko ghaib mein mehdi lahoo rone lage
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3782
 # raw_sha256: 12396960c28087094f5219425cc3fd2ef1f6f19dc424153f86591737e2788c1b
 ---
-
 تیر اصغر کو لگا کربوبلا تھرا گیء
+یہ مصیبت وہ ہے جو ماں کا کلیجہ کھا گیء
 
 ۱
-یہ مصیبت وہ ہے جو ماں کا کلیجہ کھا گیء
 اس سے بڑھ کے کوی ظلم کیا ہوگا مزید
 تھی وہی تو تیر سہہ شوبہ کی ایک ضرب شہید
 اصغر بے شیر کو جو خون میں نہلا گیء

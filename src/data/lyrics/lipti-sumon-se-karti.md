@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Lipti sumon se karti thi masoom ye buka
-  
-  1
   Ay zuljana ran may na baba ko leke ja
+
+  1
   Baaqi na koi muniso yawar watan se door
   Aise may kar na mujhse shahedeen ko tu juda
-  
+
   2
   Darti hoo jo gaya wo nahi aaya laut kar
   Maqtal may leke jaa na inhe akse bawafa
-  
+
   3
   Aa jaye mere ammu to lejana shauk se
   Rokungi phir na tujhko ye israr hai mera
-  
+
   4
   Thaami lijaam sheh na kaha chal ay raahwaar
   Lekin khadam badaye na saakib khada raha
-  
+
   5
   Maula sakina lipti hai paon se aan kar
   Dekhe to aap jhuk ke zara behre kibriya
-  
+
   6
   Utre faras se kehte hue shaahe naamdar
   Bali sakina jaane do mujko paye khuda
-  
+
   7
   Behla rahe thay maula sakina ko is tarha
   Nikli udhar qayaam se zainab barehna pa
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=240
 # raw_sha256: 186a3e3aa9f5a424f0fbe4030e84a88434bc6243b68f0006ae4c04778746f54e
 ---
-
 لپٹی سموں سے کرتی تھی معصوم یہ بکا
+اے ذوالجناح رن میں نہ بابا کو لے کے جا
 
 ۱
-اے ذوالجناح رن میں نہ بابا کو لے کے جا
 باقی نہ کوئی مونس و یاور وطن سے دور
 ایسے میں کر نہ مجھ سے شاہ دیں کو تو جدا
 

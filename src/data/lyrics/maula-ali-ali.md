@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Maula ali ali mera aaqa ali ali
-  
-  1
   Deene muhammadi ka sahara ali ali
+
+  1
   Jab fatha jang ho na saki teen roz tak
   Aakhir labe rasool se nikla ali ali
-  
+
   2
   Uska har ek bigda hua kaam ban gaya
   Mushkil may jab kisi ne pukara ali ali
-  
+
   3
   Mayyat jawan ki leke chale jab suye qayam
   Kehte thay zere lab shahe wala ali ali
-  
+
   4
   Jalte hue qayam se aati thi ye sada
   Ab to madad ko aaiye baba ali ali
-  
+
   5
   Khulao aake zainab o kulsoom ka gala
   Mushkil kusha laqab hai tumhara ali ali
@@ -35,11 +35,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=210
 # raw_sha256: 224df10cdcec5411e3b174a992a87967bf47e8699b8fbb606790b8e7ef735d86
 ---
-
 مولا علی علی میرا آقا علی علی
+دینِ مُحمدی کا سہارا علی علی
 
 ۱
-دینِ مُحمدی کا سہارا علی علی
 جب فتاح جنگ ہو نہ سکی تین روز تک
 آخر لبِ رسول سے نکلا علی علی
 

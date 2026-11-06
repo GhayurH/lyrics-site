@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   Safar jo tay hua zaanu ba zaanu ro ro kar
-  
-  1
   Pidar khameeda kamar aaya laashe akbar par
+
+  1
   Mai tere laashe pe aaya hoon is tarha akbar
   Bade jatan se hataya hai raah se lashkar
   Har ek qadam pe sataate thay mujhko ahle shar
   Safar ye kya tha agar poochte ho noore nazar
   Zaeefi paaon ki zanjeer thokoron ka safar
-  
+
   2
   Sina thi seena e akbar mein haath seene par
   Jo dekha baap ne bete ka ye dukhi manzar
   Tamaam hasratein dil ki hui yun khaak is tar
   Siyaah zulfon mein chaali utar gayi aksar
   Ye kya bapa kiya ummat ne zulm ka mehshar
-  
+
   3
   Ye jis shaqi ne kiya zulm mere laal bata
   Usay pata nahi kaisa hai dard bete ka
   Meri zaeefi pe usne zara na tars kiya
   Hamay jo haalat e ghurbat mein aisa dard diya
   Shaqi ne khoon se bhar di shabihe paighambar
-  
+
   4
   Ye haal pooch rahe thay ke saans talq hui
   Haan is se pehle ke aa jaaye maut ki hichki
   Hayaat chod de akbar ke saath fikr hui
   Pisar se khwahish e aakhir huzoor ne poochi
   Bayan ho koi khwahish ay mere noore nazar
-  
+
   5
   Badha ke haath ye akbar ne ki sada baba
   Sukoone dil ke liye ho agar ataa baba
   Nahi hai koi talab iske kuch siwa baba
   Dikhaiye to hai sughra ka haal kya baba
   Bichad ke hum se wo rehti hai kis tarha muztar
-  
+
   6
   Hilaya haath jo maula ne leke naam e khuda
   Hijaal hat gaya manzar tha saamne ghar ka
   Aur ek kone mein baithi thi khaak par sughra
   Ye dekhna tha ke wa ghurbata ki aayi sada
   Behen ki dekh ke haalat tadap gaya akbar
-  
+
   7
   Bas aage john tha yun haal baap bete ka
   Galay laga ke kaha baap ne suno beta
@@ -65,11 +65,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3477
 # raw_sha256: 859d6b421342011ec5230bb56a5c0c4bd2ad693d34fd87c9fabd397978ccb8df
 ---
-
 سفر جو طےء ہوا زانو بہ زانو رو رو کر
+پدر خمیدہ کمر آیا لاش اکبر پر
 
 ۱
-پدر خمیدہ کمر آیا لاش اکبر پر
 میں تیرے لاش پہ آیا ہوں اس طرح اکبر
 بڑے جتن سے ہٹایا ہے راہ سے لشکر
 ہر ایک قدم پہ ستاتے تھے مجھکو اہل شر

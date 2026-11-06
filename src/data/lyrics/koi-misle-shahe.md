@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Koi misle shah e deen ho to aaye
-  
-  1
   Zaeefi may jawan ka daagh uthaye
+
+  1
   Uthi taazeem ko har mauj e darya
   Sar e saahil jun hi abbas aaye
-  
+
   2
   Aray logon mera naushaah aaya
   Lahoo ki haath may mehndi lagaye
-  
+
   3
   Kaleja thaam kar chillayi maadar
   Shah e deen laasha e qasim jo laaye
-  
+
   4
   Kaho behno se aanchal sar par daale
   Koi naushaah ki masnat bichaye
-  
+
   5
   Rukh e qasim se sehre ko hata do
   Dulhan aati hai ghoonghat ko hataye
-  
+
   6
   Jo dehki laash akbar ki to maa ne
   Alam se poch ke chille badhaye
-  
+
   7
   Kaha bano ne asghar tum kahan ho
   Ye maadar ab kise jhoola jhulaye
-  
+
   8
   Aray baysheer ki koi khabar le
   Mera baccha lehad may darr na jaye
-  
+
   9
   Chali aandhi falak se khoon barsa
   Shah e bekas lahoo may jab nahaye
-  
+
   10
   Aray ye kya sitam hai ay layeeno
   Behan bhai par rone bhi na paaye
-  
+
   11
   Samajh lo ashq jannat hai usi ki
   Gham e sarwar may jo aansu bahaye
@@ -60,11 +60,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1867
 # raw_sha256: c2fe6a53155cf005a5ec959f9733c810d1bb895114344e89304f1f854803f00d
 ---
-
 کوئی مثل شاہ دیں ہو تو آئے
+ضعیفی میں جواں کا داغ اٹھاے
 
 ۱
-ضعیفی میں جواں کا داغ اٹھاے
 اٹھی تعظیم کو ہر موجِ دریا
 سر ساحل جونہی عباس آے
 

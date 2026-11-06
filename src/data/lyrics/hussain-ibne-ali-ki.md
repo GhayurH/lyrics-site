@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain ibne ali ki choti beti qaid khane may
-  
-  1
   Abhi tak ro rahi hai ek bachi qaid khane may
+
+  1
   Kaha sajjad ne baba ke jo seene pa soti thi
   Qayamat tak rahegi ab akeli qaid khane may
-  
+
   2
   Padi hai khaak par ranj o musibat ki rida odhe
   Hussain ibne ali ki shaahzadi qaid khane may
-  
+
   3
   Dam e aakhir jab aaya tasht may sar shaahe waala ka
   Na poocho kya qayamat ki ghadi thi qaid khane may
-  
+
   4
   Galay may tauq bedi paon may haathon may hatkadiyan
   Lehad sajjad ne kaise banayi qaid khane may
-  
+
   5
   Dam e aakhir kaha baba madad ka waqt aa pahuncha
   Sakina ne bhi hal min ki sada di qaid khane may
-  
+
   6
   Jise baba ke seene par bada aaram milta tha
   Wo apni maut se pehle na soyi qaid khane may
-  
+
   7
   Tasalli ke alawa kuch bhi tum ko de nahi sakta
   Sakina hai bahot bekas ye bhai qaid khane may
-  
+
   8
   Andheri raat thi honton pa sab ke ya hussaina tha
   Na poocho kis tarha se laash uthi qaid khane may
-  
+
   9
   Rabab e khastatan ki bekasi to dekhiye ishrat
   Lehad par ashkon ki chadar chadayi qaid khane may
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2239
 # raw_sha256: c6527719b7ea0b975338338522dea467bda5568d4ab1d0b0e6e31fdd90038366
 ---
-
 حسین ابنِ علی کی چھوٹی بیٹی قید خانے میں
+ابھی تک رو رہی ہے اک بچی قید خانے میں
 
 ۱
-ابھی تک رو رہی ہے اک بچی قید خانے میں
 کہا سجاد نے بابا کے جو سینے پہ سوتی تھی
 قیامت تک رہے گی اب اکیلی قید خانے میں
 

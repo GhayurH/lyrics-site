@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Zehra karegi hashr mein daawa hussain ka
-  
-  1
   Parwardigar de mujhe badla hussain ka
+
+  1
   Pyase gale pe teer e jafa ran mein chal gaya
   Moo se lahoo ugalta hai baccha hussain ka
-  
+
   2
   Seena phata jo ran mein nabi ka nashan tha
   Barchi se chid gaya hai kaleja hussain ka
-  
+
   3
   Maqtal mein aayi fatema ya rab duhaai hai
   Baalon se jhaadti hai musalla hussain ka
-  
+
   4
   Arshe bareen bhi hil gaya zehra ke bain se
   Maa ek chaahti hai ye badla hussain ka
-  
+
   5
   Hairat zada khamosh falak dekhta raha
   Kul ambiya ne dekha hai sajda hussain ka
-  
+
   6
   Matam ke daagh aur phir ashke ghame hussain
   Saabir ko kaafi hai ye waseela hussain ka
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2888
 # raw_sha256: f5af480306c194978257421ecc0474fccfb13d5a869e47f8eaf84bdb6513c3ba
 ---
-
 زہرا کرے گی حشر میں دعویٰ حسین کا
+پروردگار دے مجھے بدلہ حسین کا
 
 ۱
-پروردگار دے مجھے بدلہ حسین کا
 پیاسے گلے پہ تیر جفا رن میں چل گیا
 منہ سے لہو اگلتا ہے بچہ حسین کا
 

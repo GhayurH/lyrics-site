@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Sheh se zainab ne kaha ran ko na jaana bhaiya
-  
-  1
   Aur jaate ho to phir laut ke aana bhaiya
+
+  1
   Mai isi soch mein hoo kyun kiya aisa tumne
   Aaj se pehle to mujhse nahi maanga tumne
   Aaj kyun maang liya kurta purana bhaiya
-  
+
   2
   Behan ko chor ke jaane ka irada to nahi
   Aaj maqtal ko basane ka irada to nahi
   Ye khayal apne kabhi dil mein na laana bhaiya
-  
+
   3
   Gham muqaddar ne har baar dikhaya ab tak
   Ran se koi bhi palat kar nahi aaya ab tak
   Is dukhi dil ko mere ab na dukhana bhaiya
-  
+
   4
   Khaali rahwaar ko dekhegi sakina kyun kar
   Wo to bachi hai mai ho jaungi khud bhi muztar
   Ran se rahwaar pe tum laut ke aana bhaiya
-  
+
   5
   Mere hote hue tanha na samajhna khud ko
   Khud ko ghode se jo girta huwa mehsoos karo
   Behan abbas ki hoo mujhko bulana bhaiya
-  
+
   6
   Shaam mein jaate hi baba ko sadayein doongi
   Apne nana ki tarha naade ali pad loongi
   Baba aajaye to tum mujhko batana bhaiya
-  
+
   7
   Be-rida koocha o bazaar mein jab aaungi
   Ghamzada tumko agar paaya to mar jaungi
   Ashk naize pe bahot tum na bahana bhaiya
-  
+
   8
   Itna ghamnaak tha ruqsat ka samaa ay kausar
   Jab behan kehti thi dunya se chale jao agar
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=807
 # raw_sha256: cad5385d0f770c29504452a486dcf4ce4beb7bb7f3f6ec0d262150116240f80a
 ---
-
 شہ سے زینب نے کہا رن کو نہ جانا بھیا
+اور جاتے ہو تو پھر لوٹ کے آنا بھیا
 
 ۱
-اور جاتے ہو تو پھر لوٹ کے آنا بھیا
 میں اسی سوچ میں ہوں کیوں کیا ایسا تم نے
 آج سے پہلے تو مجھ سے نہیں مانگا تم نے
 آج کیوں مانگ لیا کرتا پرانہ بھیا

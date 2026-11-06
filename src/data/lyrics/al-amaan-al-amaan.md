@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Al amaan al amaan ya sahibaz zaban
-  
-  1
   Tooti hui hai aaj bhi zahra ki phasliyan
+
+  1
   Haq maangne jo fatema darbar mein gayi
   Baithe rahe thay log kisi ne haya na ki
   Zainab ki maa khadi rahi logon ke darmiyan
-  
+
   2
   Wa ghurbata batool pe kaisi thi wo ghadi
   Tumko sadayein deti thi beti rasool ki
   Dewaar aur jalte huwe dar ke darmiyan
-  
+
   3
   Dhaati rahi sitam pe sitam ummate rasool
   Deti rahi azan e wilayat wahan batool
   Zahra ki baat sunta nahi tha koi jahan
-  
+
   4
   Darbar se jo laut ke binte nabi gayi
   Guzre na us maqaam se maula hassan kabhi
   Jis kooche mein giri thi zameen par hassan ki maa
-  
+
   5
   Abaad hoga phir se wo ujda hua dayaar
   Tab hoga khatm fatema sughra ka intezar
   Akbar ki tarha doge madine mein jab azan
-  
+
   6
   Tanhaai qaid durre yateemi andhera ghar
   Hadh hai ye koi jaa bhi nahi sakta qabr par
   Ab aur kitna hoga sakina ka imtehan
-  
+
   7
   Kadiyal jawan ko roti hai turbat mein aaj bhi
   Akbar ke to kaleje se barchi nikal gayi
   Zainab ke dil se nikli nahi aaj tak sina
-  
+
   8
   Bali sakina qaid hai zindan mein aaj bhi
   Akbar hai intezar mein beti hussain ki
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1069
 # raw_sha256: 6078fbd097d9001c495c433bef245eeac41a5253b9aec2ac847f53f3e02605d8
 ---
-
 الاماں الاماں یا صاحب الزمان
+ٹوٹی ہوی ہے آج بھی زہرا کی پسلیاں
 
 ۱
-ٹوٹی ہوی ہے آج بھی زہرا کی پسلیاں
 حق مانگنے جو فاطمہ دربار میں گیء
 بیٹھے رہے تھے لوگ کسی نے حیا نہ کی
 زینب کی ماں کھڑی رہی لوگوں کے درمیاں

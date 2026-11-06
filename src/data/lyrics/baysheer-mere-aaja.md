@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Baysheer mere aaja tujhe lori sunaungi
-  
-  1
   Apne ali asghar ko godhi may sulaungi
+
+  1
   Ay laal tasavvur may de de ke tujhe lori
   Maqtal may tere khaali jhoole ko jhulaungi
-  
+
   2
   Milne ke liye maa se kuch dayr ko aajao
   Mujh dukhiya pe kya guzri sab haal sunaungi
-  
+
   3
   Jaate huwe qaime se jo tu ne kiye beta
   Un tere isharon ko mai bhool na paungi
-  
+
   4
   Gar fauje sitam aayi aur cheeni meri chadar
   Is dasht e bayaban may mai kis ko bulaungi
-  
+
   5
   Aana ho agar mushkil awaaz do maadar ko
   Maqtal se tumhe lene mai khud chali aaungi
-  
+
   6
   Godhi may tujhe le kar mai socha ye karti thi
   Is sher ko mai apne abbas banaungi
-  
+
   7
   Ye kehte huwe gohar ghash kar gayi wo maadar
   Mai tere bina asghar waapas nahi jaungi
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1503
 # raw_sha256: a37d828f4cc5d7bac1daddf490317d58e7f85a6b442c0dba257e7add6a216255
 ---
-
 بے شیر میرے آجا تجھے لوری سناؤں گی
+اپنے علی اصغر کو گودی میں سلاؤں گی
 
 ۱
-اپنے علی اصغر کو گودی میں سلاؤں گی
 اے لال تصور میں دے دے کے تجھے لوری
 مقتل میں تیرے خالی جھولے کو جھلاو نگی
 

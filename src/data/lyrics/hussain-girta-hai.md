@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain girta hai ghode se aaiye amma
-  
-  1
   Lage na zakhm khudara bachaiye amma
+
+  1
   Sadyein deta hai ro ro ke aap ko sarwar
   Mujhe galay se laga lijiye khareeb aa kar
   Khudara naaz mere phir uthaiye amma
-  
+
   2
   Ye imtehan bhi shabbir dene jaate hai
   Zameen e garm pe zakhmon ke saath aate hai
   Sulagti rayt hai daaman bichaiye amma
-  
+
   3
   Dua kare ke na mujh sa koi ghareeb howe
   Kahin se khatra agar aab ka naseeb howe
   Hamari tashna labi ko bujhaiye amma
-  
+
   4
   Ye zauf kehta hai utha na jayega sarwar
   Karoo mai aap ki tazeem maadar e muztar
   Sahara de ke mujhe bas uthaiye amma
-  
+
   5
   Sukoon mujhko milega yaqeen hai mujhko
   Jo zakhm hai wo silega yaqeen hai mujhko
   Jo ho sake to galay se lagaiye amma
-  
+
   6
   Hai aap maa meri mai aap ka ghareeb hussain
   Qaza se hogaya is waqt to khareeb hussain
   Qaza ka waqt hai himmat bandhaiye amma
-  
+
   7
   Mangaya tha kabhi kapda bahisht se mera
   Phir ek baar ye zehmat gawara ho lilaah
   Jina se mera kafan ab mangaiye amma
-  
+
   8
   Yehi thi dayam o yazdan ghareeb ki hasrat
   Na dekh paye behan mere zakhm ki kasrat
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1452
 # raw_sha256: 7a79fd5930f56818243cec6846d8810093e87f0399c5049853ecc66ad1c1869a
 ---
-
 حسین گرتا ہے گھوڑے سے آیےء اماں
+لگے نہ زخم خدارا بچایےء اماں
 
 ۱
-لگے نہ زخم خدارا بچایےء اماں
 صداییں دیتا ہے رو رو کے آپ کو سرور
 مجھے گلے سے لگا لیجیےء قریب آ کر
 خدارا ناز میرے پھر اٹھایےء اماں

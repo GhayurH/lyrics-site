@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Do hi wajah se baatil haq na chupa saka
-  
-  1
   Ek hai rida e zainab asghar hai doosra
+
+  1
   Do bhaiyon ke laashe ran mein pade huwe
   Zainab ke laadlon ka aakhir hai jurm kya
-  
+
   2
   Beparda bibiyon ko na dekhe koi layeen
   Noke sina pe zinda quran bolne laga
-  
+
   3
   Kufe mein be-amaan hai muslim ke dono laal
   Dono ke kamsini mein aisa sitam hua
-  
+
   4
   Baysheer ke layeeno ne jhoole ke saath saath
   Afsos ke sakina ka daaman jala diya
-  
+
   5
   Ek dashte karbala ne bachaya hai deen ko
   Aur doosra wo mod hai bazaar e shaam ka
-  
+
   6
   Asghar ka ek tabassum samjha gaya hai ye
   Daste hussain par tha quran khula hua
-  
+
   7
   Sheh rag ne kaat daala khanjar ki dhaar ko
   Pyason ki tishnagi pe darya bhi ro pada
-  
+
   8
   Do hi sabab se deen ye baaqi raha mohib
   Ek karbala hai ek fidak ka hai ye waqia
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3233
 # raw_sha256: 60fc82f1c25f671a885dc5429127cb592d1f5792552a75f06cfea3aed1bd23b4
 ---
-
 دو ہی وجہ سے باطل حق نہ چھپا سکا
+ایک ہے رداے‌ زینب اصغر ہے دوسرا
 
 ۱
-ایک ہے رداے‌ زینب اصغر ہے دوسرا
 دو بھائیوں کے لاشے رن میں پڑے ہوئے
 زینب کے لاڈلوں کا آخر ہے جرم کیا
 

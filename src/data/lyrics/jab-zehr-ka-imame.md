@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab zehr ka imame hassan par asar hua
-  
-  1
   Khoone jigar se daaware didar batar hua
+
+  1
   Jodha tujhe imam pa dhaate huwe sitam
   Khaufe khuda hua na zamane ka darr hua
-  
+
   2
   Aankhon se ashk behne lage kaayenat ki
   Aalam ghame imam mein zer o zabr hua
-  
+
   3
   Farshe zameen pa baith ke rone lage hussain
   Bhai ke saath ek safar muqtasar hua
-  
+
   4
   Larza thi qabr haye nabi o batool ki
   Dunya se jab imame hassan ka safar hua
-  
+
   5
   Barse hai teer haye janaze pe aap ke
   Ye ek aur taaza sitam aap par hua
-  
+
   6
   Tukde gire hilal bahattar jo tasht mein
   Aaghaz e karbala se jahan ba-khabar hua
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=865
 # raw_sha256: 539394e4d653a1229e637aeed8f4c35c974d76d88b3ba1db7419fed955f90dd0
 ---
-
 جب زہر کا امام حسن پر اثر ہوا
+خون جگر سے داور دیدر بتر ہوا
 
 ۱
-خون جگر سے داور دیدر بتر ہوا
 جعدہ تجھے امام پہ ڈھاتے ہوئے ستم
 خوف خدا ہوا نہ زمانے کا ڈر ہوا
 

@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Tu phir bhi hum se ye poochta hai
-  
-  1
   Hussain kya hai hussain kya hai
+
+  1
   Zameer e insan jagaya jis ne
   Falak zameen ko banaya jis ne
   Sina pe quran sunaya jis ne
   Nishan e baatil mitaya jis ne
   Khuda ke deen ko bachaya jis ne
   Hussain wo hai hussain wo hai
-  
+
   2
   Khuda ke lashkar ka ameer e lashkar
   Wo jis pe naaza hai rabb e akbar
@@ -28,7 +28,7 @@ romanLyrics: |-
   Faqeer jis ke hai sab qalandar
   Hai jis ki tashnalabi samandar
   Hussain wo hai hussain wo hai
-  
+
   3
   Wo jis ne karbobala banayi
   Wo jis ne bazm e wafa sajayi
@@ -36,7 +36,7 @@ romanLyrics: |-
   Kare jo nabiyon ki rehnumayi
   Khuda na de di jisay khudayi
   Hussain wo hai hussain wo hai
-  
+
   4
   Wo jis ne khaake shifa banayi
   Wo jis ne nafse jahan chalayi
@@ -44,7 +44,7 @@ romanLyrics: |-
   Har ek asmat hai inka haayi
   Hai jis ka abbas jaisa bhai
   Hussain wo hai hussain wo hai
-  
+
   5
   Hussain sardar e aalameen hai
   Hussain dunya may misle deen hai
@@ -52,7 +52,7 @@ romanLyrics: |-
   Bahot haseen hai bahot haseen hai
   Wo jis ke jaisa koi nahi hai
   Hussain wo hai hussain wo hai
-  
+
   6
   Zamana karwat zaroor lega
   Har ek maozzin azan ye dega
@@ -60,7 +60,7 @@ romanLyrics: |-
   Juloos jis ka na ruk sakega
   Wo jis ka matam sada rahega
   Hussain wo hai hussain wo hai
-  
+
   7
   Jo maqtalon may hayaat baante
   Bata do gohar ye wo saqi hai
@@ -72,11 +72,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1509
 # raw_sha256: e9af4fd40725a1a7b2e51358565eb93b911c7f2561ed5326f6395b307cd580f4
 ---
-
 تو پھر بھی ہم سے یہ پوچھتا ہے
+حسین کیا ہے حسین کیا ہے
 
 ۱
-حسین کیا ہے حسین کیا ہے
 ضمیر انسان جگایا جس نے
 فلک زمیں کو بنایا جس نے
 سناں پہ قرآن سنایا جس نے

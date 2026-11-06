@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Ho ke mehmaan mohamed ka nawasa aaya
-  
-  1
   Dashte khoon khaar mein lakhte dil e zehra hai
+
+  1
   Tum muslaman ho dar o baam charaghan na karo
   Shaamiyon lut ke mohamed ka gharana aaya
-  
+
   2
   Kufiyon sharm se aankhon ko jhukaye rakhna
   Nange sar hyder e karrar ka kunba aaya
-  
+
   3
   Shaah ne khaynch to li seena e akbar se sina
   Saath lipta hua barchi se kaleja aaya
-  
+
   4
   Khoon mein doobi hui akbar ki jawani dekhi
   Haye aaya bhi to kab qasid e sughra aaya
-  
+
   5
   Jo ke guzri ali asghar pe wo roodad na pooch
   Haye pyasa lab e darya se bhi pyasa aaya
-  
+
   6
   Qaid khaane mein sada girya e zaari ki hai
   Tauq o zanjeer ko sajjad pe rona aaya
-  
+
   7
   Ahmed o zehra o hyder ko hassan ko shaah ko
   Hurmala teer se kis kis ko na tadpa aaya
-  
+
   8
   Raah guzaron ye sada girya e zehra ki hai
   Kaun bemaar ye zanjeeron mein jhakda aaya
-  
+
   9
   Qaid kar ke sar e bazaar phiraaya unko
   Jin ke ghar hi se musalmon mein parda aaya
-  
+
   10
   Raah takti rahi bacchi ka jigar thaam ke maa
   Khoon mein dooba hua baysheer ka laasha aaya
-  
+
   11
   Kahin bano kahin zainab kahin lipti hai rabab
   Ek qayamat liye aaghosh mein jhoola aaya
-  
+
   12
   Haye us bibi ki meinoos nigahein shamsi
   Laut kar jis ka chacha aur na baba aaya
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2331
 # raw_sha256: 24da966914e6698aed061bd0786286c668cefdebf0ea503a0438dbff25fdc551
 ---
-
 ہو کے مہمان محمد کا نواسہ آیا
+دشتِ خوں خار میں لختِ دل زہرا ہے
 
 ۱
-دشتِ خوں خار میں لختِ دل زہرا ہے
 تم مسلماں ہو در و بام چراغاں نہ کرو
 شامیوں لٹ کے محمد کا گھرانہ آیا
 

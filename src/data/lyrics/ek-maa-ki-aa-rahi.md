@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek maa ki aa rahi hai sada ay mere hussain
-  
-  1
   Aaja tu meri godh mein aa ay mere hussain
+
+  1
   Bachpan mein ladkhada ke tu girta tha jab kabhi
   Tujhko sambhalne mein kayi baar mai giri
   Aati thi mere rab se sada ay mere hussain
-  
+
   2
   Beta wo tere naala ho ya maa ho wo teri
   Tujhko na dekh sakte thay rote huwe kabhi
   Ab ro ke de rahe hai sada ay mere hussain
-  
+
   3
   Rukhsat hua tu shehre madina se jis ghadi
   Nana ki qabr se ye sada maine bhi suni
   Beta bacha le deen mera ay mere hussain
-  
+
   4
   Aayi sada falak se jo tu pahuncha karbala
   Shabbir ye maqam hai ta hashr ab tera
   Is khaak par katega gala ay mere hussain
-  
+
   5
   Bachpan mein tere naaz uthaati rahi hoon mai
   Pehlu mein apne tujhko sulaati rahi hoon mai
   Ye tujhpe kaisa waqt pada ay mere hussain
-  
+
   6
   Tu ne uthaya akbar o asghar ki laash ko
   Ibne hassan ke laasha e sad paash paash ko
   Ghazi ka laasha uth na saka ay mere hussain
-  
+
   7
   Mukhtar ran mein bain ye karti thi fatema
   Majid kaleja phat gaya zehra ne jab kaha
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3683
 # raw_sha256: ea6f40b851934472693fb1c59064b904d62c2022c5cc1d6e19c79a5ca481701b
 ---
-
 ایک ماں کی آ رہی ہے صدا اے میرے حسین
+آجا تو میری گود میں آ اے میرے حسین
 
 ۱
-آجا تو میری گود میں آ اے میرے حسین
 بچپن میں لڑکھڑا کے تو گرتا تھا جب کبھی
 تجھکو سنبھالنے میں کیء بار میں گری
 آتی تھی میرے رب سے صدا اے میرے حسین

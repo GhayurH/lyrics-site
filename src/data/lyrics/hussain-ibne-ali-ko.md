@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain ibne ali ko pukarte jao
-  
-  1
   Qadam qadam pe muqadar sawarte jao
+
+  1
   Hussain wo ke jo sipte rasoole athar hai
   Hussain wo ke jo noore nigahe hyder hai
   Hussain wo ke jo binte nabi ka dilbar hai
-  
+
   2
   Jo haq ke waaste gardan kata diya wo hussain
   Jo taqt otaaj ko thokar laga diya wo hussain
   Hukumato ko jo neecha dikha diya wo hussain
-  
+
   3
   Milay hussain to bande ko haq ki zaat mili
   Milay hussain to islam ko hayaat mili
   Jise hussain milay usko kayanat mili
-  
+
   4
   Badi khushi se jo akbar ko de diya wo hussain
   Jo apne haaton pe asghar ko de diya wo hussain
   Namaze asr mein jo sar ko de diya wo hussain
-  
+
   5
   Sare ghuroore hukumat jhuka diya isne
   Yazeediyat ko thikane laga diya isne
   Jahan ko sabr ke jauhar dikha diya isne
-  
+
   6
   Nihaale gulshane emaan ki taazgi hai hussain
   Charaghe khanaye kaabe ki roshni hai hussain
   Meine kamale imamat ki chandni hai hussain
-  
+
   7
   Bano hussain ke mehman hurr e jari ki tarha
   Khade khade na suno naara ajnabi ki tarha
   Chadao phool akhidat khilo kali ki tarha
-  
+
   8
   Jo ghark hoke lahoo mein ubhar gaya wo hussain
   Jo sabr o shukr se dil fatha kar gaya wo hussain
   Jo dard banke jigar mein utar gaya wo hussain
-  
+
   9
   Jo aaj aal ko choray wo kal kare na gilay
   Ke daare faani ke milte hai aakhibat mein silay
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=140
 # raw_sha256: d0d8dd82105c0ea5ac53e895d3f898748f954b8f1305e62629785ee0f70ba151
 ---
-
 حسین ابنِ علی کو پُکارتے جائو
+قدم قدم پہ مقدر سنوارتے جائو
 
 ۱
-قدم قدم پہ مقدر سنوارتے جائو
 حسین وہ کے جو سبطِ رسولِ اطہار ہیں
 حسین وہ کے جو نورِ نگاہِ حیدر ہیں
 حسین وہ کے جو بنتِ نبی کا دلبر ہے

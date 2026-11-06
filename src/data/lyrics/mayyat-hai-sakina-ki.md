@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Mayyat hai sakina ki andhera haye zindan
-  
-  1
   Allah na dikhlaye ab aisa zindan
+
+  1
   Kurte ka kafan ghusl diya ashkon se jisko
   Dafnaya usay kaise ye sajjad se poocho
   Khamosh hui bachi to rota raha zindaan
-  
+
   2
   Udte huwe dekhe jo parinde to pukari
   Ay taayiron sughra ko khabar do ye hamari
   Tum khush raho sughra mere kismat may tha zindan
-  
+
   3
   Kano ka lahoo chand se chehre pe jama tha
   Qaimo may lagi aag to daaman bhi jala tha
   Tanhai may bachi ko dasta raha zindan
-  
+
   4
   Sehmi hui rehti thi sitamgaaron ke dar se
   Shikwe kiya karti thi fakhad baap ke sar se
   Likha gaya kismat may ye kaisa zindan
-  
+
   5
   Ab khaak pe soti hoo na takiya hai na bistar
   Rakta nahi ek shamma koi ab to jala kar
   Jeene nahi deta hai ay baba zindan
-  
+
   6
   Kehti thi phuphi qaid se kab hogi rehaai
   Amma mere ammu ki khabar kyon nahi aayi
@@ -45,12 +45,12 @@ romanLyrics: |-
   Sar baap ka paaya to wo phir is tarha soyi
   Phir royi nahi uske liye maut thi royi
   Deta raha sajjad ko pursa sada zindan
-  
+
   7
   Maa kehti rahi aao utho neend se jaago
   Azaad hui qaid se mai jaati hoo ghar ko
   Milne chalo sughra se ke ab khul gaya zindan
-  
+
   8
   Ghar jaane ka arman tha sakina ko jo rehaan
   Marke bhi na pura hua us bachi ka armaan
@@ -59,11 +59,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=119
 # raw_sha256: 0591bfe83b462aa88a02509d0f81a5098fa0e295900081654ef00c28ecb7b920
 ---
-
 میت ہے سکینہ کی اندھیرا ہائے زندان
+اللہ نہ دِکھلائے اب ایسا زندان
 
 ۱
-اللہ نہ دِکھلائے اب ایسا زندان
 کُرتے کا کفن غسل دیا اشکوں سے جس کو
 دفنا اُسے کیسے یہ سجاد سے پوچھو
 خاموش ہوئی بچی تو روتا رہا زندان

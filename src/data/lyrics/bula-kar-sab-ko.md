@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Bula kar sab ko hazrat ne kaha ay karbala waalon
-  
-  1
   Hamein darkaar hai thodi si jaa ay karbala waalon
+
+  1
   Iraada hai isi jangal mein apna ghar basaye hum
   Na ho ta-hashr ab tum se juda ay karbala waalon
-  
+
   2
   Khudara marne waalon ki na ro ko raah rehne do
   Mujhe laayi hai yaan meri qaza ay karbala waalon
-  
+
   3
   Ajab ghurbat hai apni aisi ghurbat par watan sadqe
   Jahan paye hum apna mud'dua ay karbala waalon
-  
+
   4
   Rahegi taa ba chehlum laash be-ghusl o kafan sab ki
   Mere namoos honge be-rida ay karbala waalon
-  
+
   5
   Mai chup jaunga gar ek ek mutthi khaak daloge
   Yunhi ban jayega marqad mera ay karbala waalon
-  
+
   6
   Mohib aaye jo baad e marg bekas ki ziyarat ko
   Bata dena unhe mera pata ay karbala waalon
-  
+
   7
   Hamari qabr par aana to do aansu baha jaana
   Milay fursat to padna fateha ay karbala waalon
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2032
 # raw_sha256: bc0b91d70bd85f8890a47da696684c503937024928bb3e89fa064c9a7d3467bf
 ---
-
 بلا کر سب کو حضرت نے کہا اے کربلا والوں
+ہمیں درکار ہے تھوڑی سی جا اے کربلا والوں
 
 ۱
-ہمیں درکار ہے تھوڑی سی جا اے کربلا والوں
 ارادہ ہے اسی جنگل میں اپنا گھر بساے ہم
 نہ ہو تا حشر اب تم سے جدا اے کربلا والوں
 

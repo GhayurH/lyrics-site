@@ -10,40 +10,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab ne abid se kaha beta chalenge karbala
-  
-  1
   Zindan mein sab kuch kho gaya beta chalenge karbala
+
+  1
   Do bhaiyon se mil to loon ehwaal dil ke keh to loon
   Kya kho chuka kya hai bacha beta chalenge karbala
-  
+
   2
   Maqtal mein sheh jaate huwe jo mujhse waade thay liye
   Har waada poora ho chuka beta chalenge karbala
-  
+
   3
   Jo godhiyon ke thay paale pamaal laashe unke thay
   Tha jin se jeene ka maza beta chalenge karbala
-  
+
   4
   Jo godh hai veeran hai waaris khuda ki shaan hai
   Kaisa bhara ghar lut gaya beta chalenge karbala
-  
+
   5
   Akbar o asghar mehlaqa abbas o qasim dilruba
   Har chand mitti mein mila beta chalenge karbala
-  
+
   6
   Noore nazar lakhte jigar sab ho chuke deen ki nazar
   Sab kuch luta ek deen bacha beta chalenge karbala
-  
+
   7
   Tha bhai bhi beta bhi tha abbas ka saani bhi tha
   Wo kya gaya sab kuch gaya beta chalenge karbala
-  
+
   8
   Zehra ke gulshan ki kali thi ek sakina jo bacchi
   Uska bhi matam ho chuka beta chalenge karbala
-  
+
   9
   Ab bhai se abbas se kehna jo guzre haadse
   Hai kaun apna jo bacha beta chalenge karbala
@@ -51,11 +51,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3768
 # raw_sha256: bada2a43053cabe3b4a0504d77559d8c7d3712732e3eb55c4b8acd12daf2f0a3
 ---
-
 زینب نے عابد سے کہا بیٹا چلیں گے کربلا
+زنداں میں سب کچھ کھو گیا بیٹا چلیں گے کربلا
 
 ۱
-زنداں میں سب کچھ کھو گیا بیٹا چلیں گے کربلا
 دو بھائیوں سے مل تو لوں احوال دل کے کہہ تو لوں
 کیا کھو چکا کیا ہے بچا بیٹا چلیں گے کربلا
 

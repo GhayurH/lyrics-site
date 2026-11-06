@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Aasman barsa de pani
-  
-  1
   Pani barsa de aasman
+
+  1
   Dekh wo pyase bacche sheh ke
   Haathon mein hai khaali kooze
   Dekh udhar darya ki rawani
   Us pe sitam hai tashna dahani
-  
+
   2
   Maalik e kausar pani ko tarse
   Aur pani phir bhi na barse
   Sookhe hai lab aur zubanein
   Rukne lagi saanson ki rawani
-  
+
   3
   Aasman tujhko taras na aaya
   Ab tak na pani barsaya
   Sookhe huwe kooze bhi sunaye
   Tishna labon ke gham ki kahani
-  
+
   4
   Dasht mein har soo zulm ke lashkar
   Pehre lagaye hai pani par
   Qaid hui darya ki maujein
   Ghere huwe hai zulm ke baani
-  
+
   5
   Tu to hai sairaab is neymat se
   Soch zara lekin shiddat se
   Tujhko jaa kar kaun bataye
   Tashna labi ke kya hai mu’aani
-  
+
   6
   Dekhna ek din aayega wo
   Pani se mehroom rahe jo
   Saare jag mein hongi sabeelein
   Tashna labon ki ban ke nishani
-  
+
   7
   Kehti hai tujhse khaak e bayaban
   Bacche hai betaab hirasan
   Aati hai rone ki sadayein
   Kehte hai ro kar pani pani
-  
+
   8
   Kaun hai in par rehm jo khaaye
   Aur pyason ko pani pilaye
   Door hai ye apne watan se
   Aaye hai kar ke naql makani
-  
+
   9
   Ashkon se apni pyaas bujhayi
   Pyase dete hai ye duhaai
   Dekh ke rote han darya ko
   Sookhe labon ka rang hai dhaani
-  
+
   10
   Aaj bhi dil par zakhm hai taaza
   Is se tu kar le andaaza
@@ -76,11 +76,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2369
 # raw_sha256: 8dc0b2efa4dba2d0c4f0dad035fbfd478b399aa16ccd51efa93fd5a6cef187e5
 ---
-
 آسمان برسا دے پانی
+پانی برسا دے آسمان
 
 ۱
-پانی برسا دے آسمان
 دیکھ وہ پیاسے بچے شہ کے
 ہاتھوں میں ہے خالی کوزے
 دیکھ ادھر دریا کی روانی

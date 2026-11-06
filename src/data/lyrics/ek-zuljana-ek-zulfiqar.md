@@ -11,68 +11,68 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek zuljanah hai ek zulfeqar hai
-  
-  1
   Hain ek taygh imam ki ek rahwaar hai
+
+  1
   Utri hai tayg arsh se quran ki tarha
   Tehra faras hawa pe suleman ki tarha
   Khaadim thi wo ali ki jo salman ki tarha
   Is par saware dosh e mohamad sawaar hai
-  
+
   2
   Talwar chand banke chamakti thi raat mein
   Duldul haseen lagta tha maula ke saath mein
   Talwar zeb deti thi hyder ke haath mein
   Saaya abu turab ka duldul ka haar hai
-  
+
   3
   Choomi hai zulfeqar ne maula ki ungliyan
   Duldul ka jism chooti thi hyder ki aediyan
   Bal deti thi jo usko ali ki kalaiyan
   Gardann pe uske daste khuda ka dulaar hai
-  
+
   4
   Talwar jiske moo ko dhulati thi fatema
   Rehwaar jisko ran mein khilaate thay murtaza
   Zehra jo zulfeqar ko karti thi aaina
   Maathe pe uske paa e ali ka ghubaar hai
-  
+
   5
   Talwar kaat'ti thi agar zulm ki kamar
   Ghode ki taap tod'ti thi sarkashon ke sar
   Be izn zulfeqar ki uth'ti na thi nazar
   Rehwaar bhi ali ka ita'at shiyaar hai
-  
+
   6
   Duldul bhi apni shaan mein rafraf se kam nahi
   Talwar mein to kham hai jalalat mein kham nahi
   Raftaar uski choo le hawaan mein dam nahi
   Is par har ek fath ka daar o madaar hai
-  
+
   7
   Dono hai kaarkhaana e khudrat ke shaahkaar
   Dono ali ke paak gharane ke gham gusaar
   Asghar se wo ye bali sakeena se sharm saar
   Wo soghwaar ye bhi bahot soghwaar hai
-  
+
   8
   Mastoor hai imame zaman chup hai kayenat
   Gardan mein hai ali ki rasan chup hai kayenat
   Lut'ta hai fatema ka chaman chup hai kayenat
   Roti hai tayg nauha kuna rahwaar hai
-  
+
   9
   Karbobala mein pyaas na dono ki bujh saki
   Ashoor ko na poochiye ghode ki tashnagi
   Kya ser hoti taygh saron ki rahi kami
   Dono ki rooh aaj talak beqaraar hai
-  
+
   10
   Talwaar jisko nanhi lehad khodni padi
   Ghoda wo hai sawaar hui jiski waapsi
   Baage kati hui thi to zeen thi dhali hui
   Poochegi ab sakina kahan sheh sawaar hai
-  
+
   11
   Lab parr hai ab ye nayyar o aamir ki ilteja
   Ay waaris e hussain sabab dayr ka hai kya
@@ -82,11 +82,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1803
 # raw_sha256: 380037c66199da03e5e34d16b8a301733727aff69fd72d0590d448ff23462126
 ---
-
 اک ذوالجناح ہے اک ذوالفقار ہے
+ہیں اک تیغ امام کی اک رہوار ہے
 
 ۱
-ہیں اک تیغ امام کی اک رہوار ہے
 اتری ہے تیغ عرش سے قرآن کی طرح
 ٹہرا فرس ہوا پہ سلیمان کی طرح
 قادم تھی وہ علی کی جیو سلمان کی طرح

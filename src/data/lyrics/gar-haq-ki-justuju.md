@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   Gar haq ki justuju hai to bazme aza may aa
-  
-  1
   Batlaun tujhko majlis o matam hai kyun bapa
+
+  1
   Haq ki arsh farsh may phaili hui zia
   Haq kehte hai usay jo hai meezan e kibriya
   Haq kehte hai jise wo hai emaan e ambiya
   Haq ki sifat to khaas may hai ek mustufa
-  
+
   2
   Wo mustufa ke jinka mohamed hai paak naam
   Wo jinke khaul o fayl se haq ka mila dawam
   Yani baghair wahi jo karte nahi kalam
   Quran bata raha hai jo hai inka martaba
-  
+
   3
   Haq kya hai kya bataun ke wo la hudood hai
   Aale nabi may noore khuda ka wujood hai
   Hamd o sana may isliye shaamil durood hai
   Haq iska hai ye haq kay nahi koi faasla
-  
+
   4
   Ulfat ba hukme rab thi isi noore ain se
   Ye baarha suna hai shahe mashraqain se
   Mera hussain mujhse hai aur mai hussain se
   Kya farq hai hussain o nabi may raha bata
-  
+
   5
   Bayyat na ki hussain ne to qatl kar diya
   Badkar to iske baad ko kyun ghar jala diya
   Saydaniyo ko loot liya cheen li rida
   Aale rasool ki thi bhala isme kya khata
-  
+
   6
   Saydaniyo ke sar thay khule ajdaham may
   Aseer karke le gaye darbar e aam may
   Phi bhi na choda qaid kiya ino shaam may
   Ajre risalat is tarha ummat ne ki ada
-  
+
   7
   Jispar pahad tootega gham ka wo royega
   Aayega chain din ko na raton ko soyega
   Hoga rafeeq joyi to ye haal hoyega
   Tareekh jab aayegi gham hoyega siwa
-  
+
   8
   Apne nabi ko gham hai to hum door kyun rahe
   Lene ko pursa jaate hai girya ko na chale
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=648
 # raw_sha256: 409bab6332949672e69f5218fca86ee7f55fab4466c8aa183410a54fbccffd9f
 ---
-
 گر حق کی جستجو ہے تو بزمِ اعزا میں آ
+بتلائوں تجھ کو مجلس و ماتم ہے کیوں بپا
 
 ۱
-بتلائوں تجھ کو مجلس و ماتم ہے کیوں بپا
 حق کی ہے عرش فرش میں پھیلی ہوئی ضیائ
 حق کہتے ہیں اُسے جو ہے میزانِ کبریائ
 حق کہتے ہیں جسے وہ ہے ایمانِ انبیائ

@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Sana e murtuza hai aur mai hoo
-  
-  1
   Yehi ek mashghala hai aur mai hoo
+
+  1
   Nabi kehte thay hyder tumhara
   Shanasa ek khuda hai aur mai hoo
-  
+
   2
   Farishton qabr may aahista bolo
   Yahan mushkil kusha hai aur mai hoo
-  
+
   3
   Safeh dushman se hurr nikla yeh keh kar
   Bus ab raahe khuda hai aur mai hoo
-  
+
   4
   Khabar deta hai ran may husne akbar
   Sada noor e khuda hai aur mai hoo
-  
+
   5
   Watan may haal sughra jis ne poocha
   Kaha aah o buka hai aur mai hoo
-  
+
   6
   Safar may aagayi shaam e ghariban
   Layeeno ki jafa hai aur mai hoo
-  
+
   7
   Tamanna daulat o hashmat ki bejaan
   Dabeer aakhir fana hai aur mai hoo
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2193
 # raw_sha256: 75cd4140df7d17a006629be1ba5b1b3e0c73c10955cf7ea5c25f26a59d53bd4f
 ---
-
 ثناے مرتظی ہے اور میں ہوں
+یہی اک مشغلہ ہے اور میں ہوں
 
 ۱
-یہی اک مشغلہ ہے اور میں ہوں
 نبی کہتے تھے حیدر تمہارا
 شناسا ایک خدا ہے اور میں ہوں
 

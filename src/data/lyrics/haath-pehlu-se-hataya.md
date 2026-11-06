@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Haath pehlu se hataya nahi jaata baba
-  
-  1
   Dard ne kar diya zahra ko zaeefa baba
+
+  1
   Meri tazeem na ki haath uthaya usne
   Saamne beton ke tu kehke bulaya usne
   Bhoolun kaise mai ummat ka rawayya baba
-  
+
   2
   Ab wo darbar kahan baba mere kaabil hai
   Mera qaatil bhi wohi hai jo tera qaatil hai
   Tere qaatil ne mujhe maara tamacha baba
-  
+
   3
   Ye na socha ke nabi aake jahan rukte thay
   Jahan hasnain o ali shaam o sehar jhukte thay
   Teri zahra pe wo darwaza giraya baba
-  
+
   4
   Rassi sartaj ki sheh rag ke karin roti hai
   Unki talwaar bhi ab zer e zameen roti hai
   Chup ke karte hai ali raat ko girya baba
-  
+
   5
   Dard itne hai ke saare mai sunaun kaise
   Zakhm aise hai ke hyder ko dikhaun kaise
   Saare zakmon ki gawah hai meri fizza baba
-  
+
   6
   Laashe abbas pe sadiq ye khulega uqda
   Ek hi abbas o mohsin ka qaatil hoga
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1008
 # raw_sha256: 7496174c4610ceb8c74fed77b26e60018ed053d8dd0e1ef45991a794e31992f7
 ---
-
 ہاتھ پہلو سے ہٹایا نہیں جاتا بابا
+درد نے کر دیا زہرا کو ضعیفہ بابا
 
 ۱
-درد نے کر دیا زہرا کو ضعیفہ بابا
 میری تعظیم نہ کی ھاتھ اّٹھایا اس نے
 سامنے بیٹوں کے توں کہہ کے بٌلایا اس نے
 بھولوں کیسے میں امّت کا رویہ بابا

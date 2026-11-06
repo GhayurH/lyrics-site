@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Koi aisa mujahid to dikhade
-  
-  1
   Galay par teer kha kar muskurade
+
+  1
   Badi mushkil hai koi baap kaise
   Jawan bete ko marne ki riza de
-  
+
   2
   Charaghe zindagi bujhta hai laila
   Ali akbar ko daaman ki hawa de
-  
+
   3
   Kaha shabbir ne ay khuwwate dil
   Jawan laashe ali akbar utha de
-  
+
   4
   Riza e jang de kar shaah bole
   Ajal qasim ko ab dulha bana de
-  
+
   5
   Ali akbar ko hichki lag rahi hai
   Koi ab to isay pani pilaade
-  
+
   6
   Bade jallaad hai ye shaam wale
   Badal sakte nahi inke iraade
-  
+
   7
   Sare zainab ki chadar chin chuki hai
   Ghubare khaak uth chehra chupa de
-  
+
   8
   Lagi hai aag bistar jal raha hai
   Koi bemaar ka shana hilaade
-  
+
   9
   Guzar bazaar se hai bekaso ka
   Koi in shaam walon ko hatade
-  
+
   10
   Bhare darbar mein jaati hai zainab
   Zara ay khuwwate dil hausla de
-  
+
   11
   Sakina se yateemi keh rahi hai
   Charaghe ashk zindan mein jala de
-  
+
   12
   Koi kaaton pe paidal chal raha hai
   Zaheer ab raah mein aankhein bicha de
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=493
 # raw_sha256: bb2d1128d98b6a003c11de30d166a1b3d1237810e22829d29986f51f316c71ab
 ---
-
 کوئی ایسا مجاہد تو دیکھا دے
+گلے پر تیر کھا کر مسکرا دے
 
 ۱
-گلے پر تیر کھا کر مسکرا دے
 بڑی مشکل ہے کوئی باپ کیسے
 جواں بیٹے کو مرنے کی رضا دے
 

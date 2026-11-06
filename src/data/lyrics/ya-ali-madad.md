@@ -9,124 +9,69 @@ poet: "Salman Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ya ali ya madad ya ali ya madad
-
-
-  1
-
+romanLyrics: |-
+  Ya ali ya madad ya ali ya madad
   Ya ali ali hyder ya ali ali hyder
 
+  1
   Ya ali ali hyder
-
   Ye ishq-e-wila maula ye ishq-e-aza maula
-
   Dhadkan hai najaf meri dil karbobala maula
-
   Ek durre najaf maula ek khaake shifa maula
-
   Hurr bhi yahin milte hai milta hai yahin qamber
-
   Ya ali madad hyder
-
   Ya ali madad hyder
-
   Shaah e lafata hyder
-
   Jaan e murtaza hyder
-
   Maula aeliya hyder
-
 
   2
-
   Ye naara wo naara hai jo haq se milaata hai
-
   Momin ki munafiq ki pehchaan karaata hai
-
   Dil dil se milaata hai emaan bataata hai
-
   Hai qabr mein barzakh mein mehshar mein yehi rehbar
-
   Ya ali madad hyder
-
   Ya ali madad hyder
-
   Shaah e lafata hyder
-
   Jaan e murtaza hyder
-
   Maula aeliya hyder
-
   Maula aeliya hyder
-
 
   3
-
   Wo jalta hua sehra wo lakhte dil e hyder
-
   Qurban kiye bete qurban hua lashkar
-
   Teeron ke musalle par ya sajda tahe khanjar
-
   Kehte nazar aate they har gaam yehi sarwar
-
   Ya ali madad hyder
-
   Ya ali madad hyder
-
   Shaah e lafata hyder
-
   Jaan e murtaza hyder
-
   Maula aeliya hyder
-
   Maula aeliya hyder
-
 
   4
-
   Ansaar e hussaini ka maktab hi niraala hai
-
   Shabbir ki nusrat ka seeno mein ujaala hai
-
   Kirdaar e hussaini mein allah ne dhaala hai
-
   Kehte rahe maidan mein sab teer o sina kha kar
-
   Ya ali madad hyder
-
   Ya ali madad hyder
-
   Shaah e lafata hyder
-
   Jaan e murtaza hyder
-
   Maula aeliya hyder
-
   Maula aeliya hyder
-
 
   5
-
   Ay mere ali maula ho hum pe karam tera
-
   Salman o shanawar ke ho sar pe alam tera
-
   Peeche ho qadam apne aage ho qadam tera
-
   Imdaad shah e safdar imdaad shah e safdar
-
   Ya ali madad hyder
-
   Ya ali madad hyder
-
   Shaah e lafata hyder
-
   Jaan e murtaza hyder
-
   Maula aeliya hyder
-
-  Maula aeliya hyder'
+  Maula aeliya hyder
 # source_id: nohayonline:94a9d3fb663bad714cfb
 # source_url: https://www.nohayonline.com/details_content.php?id=2506
 # raw_sha256: 800b2eadd0f1539d53e97f8977c9833b3a31f950677dc69f9218a042b6e4544c
@@ -137,11 +82,10 @@ romanLyrics: 'Ya ali ya madad ya ali ya madad
 # source_url: https://www.ziyaraat.net/api/noha/2433
 # raw_sha256: 2c975be354cd63b8bd7cb6bfc637cf07ee45d1b4c42130c7a42f78e6a99629ae
 ---
-
 یاعلی یا مدد یاعلی یا مدد
+یاعلی علی حیدر یاعلی علی حیدر
 
 ۱
-یاعلی علی حیدر یاعلی علی حیدر
 یاعلی علی حیدر
 یہ عشق ولا مولا یہ عشق عزا مولا
 دھڑکن ہے نجف میری دل کرب و بلا مولا

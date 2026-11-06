@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Hamay ye husne aqeedat bahot hai kya kam hai
-  
-  1
   Agar hussain nahi hai hussain ka gham hai
+
+  1
   Utha hi tha sare baatil ke di sada haq ne
   Abhi jahan may salamat hussain ka dam hai
-  
+
   2
   Unhe uthao jo parde pade hai aankhon par
   Ye keh rahe ho charaghon may roshni kam hai
-  
+
   3
   Tamam umr tadapne ke baad samjha hoo
   Hayaat kya hai musalsal hussain ka gham ka
-  
+
   4
   Jinhe masayab e aale rasool yaad nahi
   Rasool ko bhi wo bhoolenge jab ye aalam hai
-  
+
   5
   Kisi ki laash ko shabbir laaye hai shayad
   Ke qaimagah may awaaze al atash kam hai
-  
+
   6
   Udao khaak ke shabbir hogaye hai shaheed
   Urooj jin o malak may shor e matam hai
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=818
 # raw_sha256: f1ece1a06db3f798f60732f54e36f9e899b2f947ca519115b1a4686b337d735a
 ---
-
 ہمیں یہ حسنِ عقیدت بہت ہے کیا کم ہے
+اگر حُسین نہیں ہے حُسین کا غم ہے
 
 ۱
-اگر حُسین نہیں ہے حُسین کا غم ہے
 اُٹھا ہی تھا سرِ باطل کہ دی صدا حق نے
 ابھی جہاں میں سلامت حُسین کا دم ہے
 

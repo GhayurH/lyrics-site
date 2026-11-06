@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Mai sakina hoo mera dard hai itna baba
-  
-  1
   Mujhko zaalim ne kaneezi mein hai maanga baba
+
+  1
   Maine daadi ki tarha itne masayib dekhe
   Chaar barson mein hi lagti hoo zaeefa baba
-  
+
   2
   Jo teri laash pa daudaate thay ghode ran mein
   Wo tamachon se mujhe dete hai pursa baba
-  
+
   3
   Kaash mar jaaun mai asghar ko hi rote rote
   Mai kahan karti hoo pani ka taqaza baba
-  
+
   4
   Poori shiddat se mujhe maara tamacha jis ne
   Uske haathon se mera chehra hai chota baba
-  
+
   5
   Ungliyon ke to kahin par hai angoothi ke nishan
   Kaise pehchanoge tum beti ka chehra baba
-  
+
   6
   Is qadar shaam ke zindan mein tareeki hai
   Haath apna bhi nahi mujhko hai dikhta baba
-  
+
   7
   Bhaiya sajjad se nazrein na milayi maine
   Maine bazaar mein jab khaaya tamacha baba
-  
+
   8
   Shaam waalon se na pani na kafan maangungi
   Mai na ehsaan yahan loongi kisi ka baba
-  
+
   9
   Rakh ke moo baap ke sar par wo pukari darwesh
   Ab na jaagegi kabhi teri sakina baba
@@ -52,11 +52,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2777
 # raw_sha256: bbe7a6176db06594092c44f1633ca53f58a207b583250880d8179940d7111bce
 ---
-
 میں سکینہ ہوں میرا درد ہے اتنا بڑا
+مجھکو ظالم نے کنیزی میں ہے مانگا بابا
 
 ۱
-مجھکو ظالم نے کنیزی میں ہے مانگا بابا
 میں نے دادی کی طرح اتنے مصائب دیکھے
 چار برسوں میں ہی لگتی ہوں ضعیفہ بابا
 

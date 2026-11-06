@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Pyasi mazloom yateema haye masoom sakina
-  
-  1
   Haye masoom sakina haye masoom sakina
+
+  1
   Qaid khane ka andhera hogaya aur bhi gehra
   Bibiyan karti hai girya haye masoom sakina
-  
+
   2
   Bain karti thi ye bano meri beti kuch to bolo
   Maa jiye kis tarha tanha haye masoom sakina
-  
+
   3
   Kuch to roodaad sunao kyun ho khamosh batao
   Muztarib hai tera bhaiya haye masoom sakina
-  
+
   4
   Apne baba se kiya tha tu ne jo sabr ka waada
   Kis saleekhe se nibhaya haye masoom sakina
-  
+
   5
   Zulm kitne huwe tujh par chin gaye kaano se gohar
   Aur rassi mein gala tha haye masoom sakina
-  
+
   6
   Kabhi zaalim ke tamache taziyane kabhi durre
   Yun mila hai tujhe pursa haye masoom sakina
-  
+
   7
   Nanhe ruqsaar wo tere sooj kar hogaye neele
   Khoon kaano se hai behta haye masoom sakina
-  
+
   8
   Kaise behlaun tujhe mai kaise samjhaun tujhe mai
   Imtehan hai mera kaisa haye masoom sakina
-  
+
   9
   Choor zakhmon se badan hai tera kurta hi kafan hai
   Haye ye zulm hai kaisa haye masoom sakina
-  
+
   10
   Dafn kaise kare tujhko dekho sajjad ko dekho
   Hai wo zanjeer mein jakda haye masoom sakina
-  
+
   11
   Kaise bhoolega zamana gham rasheed us bibi ka
   Shor zindan mein bapa hai haye masoom sakina
@@ -60,11 +60,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2885
 # raw_sha256: 93f9a211251c47ab6a4f24f2b3dc39ebee96c01b0ebd0cf0f5f828e18c8a7538
 ---
-
 پیاسی مظلوم یتیمہ ہاے معصوم سکینہ
+ہاے معصوم سکینہ ہاے معصوم سکینہ
 
 ۱
-ہاے معصوم سکینہ ہاے معصوم سکینہ
 قید خانے کا اندھیرا ہو گیا اور بھی گہرا
 بی بیاں کرتی ہے گریہ ہاے معصوم سکینہ
 

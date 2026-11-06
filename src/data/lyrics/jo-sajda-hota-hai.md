@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Jo sajda hota hai mukhtas payambari ke liye
-  
-  1
   Rasool ne usay choda hussain hi ke liye
+
+  1
   Nabi khuda ke liye hai ali nabi ke liye
   Na ho ye raat to koi nahi kisi ke liye
-  
+
   2
   Ali ali hi kiye jao zindagi hai yehi
   Hai arsh mehwe sama'at ali ali ke liye
-  
+
   3
   Ali wali bhi hai nafse nabi bhi maula bhi
   Shaoor shart hai quran se aagahi ke liye
-  
+
   4
   Zara ye dekhna ay dil wo karbala to nahi
   Chala hai kaaba kidhar kasbe roshni ke liye
-  
+
   5
   Salaam khaana e zehra tere charaghon par
   Bujhe hai shamme risalat ki roshni ke liye
-  
+
   6
   Faraat mein bhi sakina ka aks hi dekha
   Hai tashnagi ka hai eesaar tashangi ke liye
-  
+
   7
   Kahan wo raakibe doshe nabi kahan khanjar
   Ye lamha dard ka unwaan hai har sadi ke liye
-  
+
   8
   Na cheen chadare zainab na cheen sar se rida
   Khuda ke waaste ay kalmago nabi ke liye
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2909
 # raw_sha256: af53c5e0bd7defefcc1dd8d9eb8d9070ccc0fb25c63df1be84a705833aace004
 ---
-
 جو سجدہ ہوتا ہے مُختص پیمبری کے لئے
+رسول نے اسے چھوڑا حسین ہی کے لئے
 
 ۱
-رسول نے اسے چھوڑا حسین ہی کے لئے
 نبی خدا کے لئے ہے علی نبی کے لئے
 نہ ہو یہ رات تو کوئی نہیں کسی کے لئے
 

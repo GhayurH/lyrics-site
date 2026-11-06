@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Qateele taygh-o-sina la ilaha illalla
-  
-  1
   Tere baghair kahan la ilaha illalla
+
+  1
   Hussain dehr may islam ki alamat hai
   Hussain waqt ki sabse badi zaroorat hai
   Hussain ism tera wird hai ibadat hai
   Tera lahoo may nihan la ilaha illalla
-  
+
   2
   Hussain tujhse baqa deen ki nabuwat ki
   Hussain tune rakhi aabroo shariyat ki
   Hussain tune kamar tod'di shakawat ki
   Tere sabab hai ayan la ilaha illalla
-  
+
   3
   Kisi zaeef ki nazron may yun nahi dekha
   Ke aediyon ko ragadta hai naujawan beta
   Ulat ke aasteen kehke ya ali maula
   Tu kheenchta hai sina la ilaha illalla
-  
+
   4
   Niraali shaan se marne ko har jawan gaya
   Khuda ke deen pe mitne ko har jawan gaya
   Mila jo izn to ladne ko har jawan gaya
   Magar wo shere jawan la ilaha illalla
-  
+
   5
   Bapa hai shore fughan saare aasmano par
   Ajeeb yaas hai ahle haram ke chehro par
   Pidar ke hukm pe masoom khushk honton par
   Jo phayrta hai zuban la ilaha illalla
-  
+
   6
   Damishq ki wo sajawat ke jaise har ghar eid
   Ali ki betiyan darbare shaam aur wo yazeed
   Wo chaube khusk wo sarwar ka sar wo zulm shadeed
   Laraz raha hai jahan la ilaha illalla
-  
+
   7
   Jahan bhi majlise sarwar ho shore matam ho
   Maray to qabr may shahid bas ek ye gham ho
@@ -58,11 +58,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=704
 # raw_sha256: 681cb68b2b75274e6ff3764ab731ae605abaf1851527729c8ddd2faa84ed6d62
 ---
-
 قتیل تیغ و سناں لا الہ الا اللہ
+تیرے بغیر کہاں لا الہ الا اللہ
 
 ۱
-تیرے بغیر کہاں لا الہ الا اللہ
 حسین دہر میں اسلام کی علامت ہے
 حسین وقت کی سب سے بڑی ضرورت ہے
 حسین اسم تیرا ورد ہے عبادت ہے

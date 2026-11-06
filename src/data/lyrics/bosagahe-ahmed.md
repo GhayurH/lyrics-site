@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Bosagahe ahmed par shamsheer nazar aayi
-  
-  1
   Yun khwab e khaleeli ki tabeer nazar aayi
+
+  1
   Kya hurr ki baseerat thi jisko shabe isiyan may
   Taqdeer banane ki tadbeer nazar aayi
-  
+
   2
   Ashk e ghame sarwar ke aaina e roshan may
   Jannat bhi hamay apni jageer nazar aayi
-  
+
   3
   Jis khaak pe soye hai zehra ke jigar paare
   Wo khaak do aalam ko akseer nazar aayi
-  
+
   4
   Bache ki taraf zaalim kyun teer chalaya hai
   Masoom ki kya tujhko taqseer nazar aayi
-  
+
   5
   Aghyaar bhi ro uthe moo phayr ke raahon may
   Jab paon may abid ke zanjeer nazar aayi
-  
+
   6
   Aansu ghame sarwar may nikle jo urooj apne
   Har ashk may kausar ke tasveer nazar aayi
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=631
 # raw_sha256: 2d443f549c3790362caacbe69650252c341d7192457112a47ed2313744af460f
 ---
-
 بوسہ گاہِ احمد پر شمشیر نظر آئی
+یوں خوابِ خلیلی کی تعبیر نظر آئی
 
 ۱
-یوں خوابِ خلیلی کی تعبیر نظر آئی
 کیا حُر کی بصیرت تھی جس کو شبِ اسیاں میں
 تقدیر بنانے کی تدبیر نظر آئی
 

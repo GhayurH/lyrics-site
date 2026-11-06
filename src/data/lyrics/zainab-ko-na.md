@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab ko na bhoolega abbas ka mar jaana
-  
-  1
   Pardes mein ghurbat mein bhai se bichad jaana
+
+  1
   Manzar ye sina par bhi ghazi ko rulaata hai
   Zainab tera majme se beparda guzar jaana
-  
+
   2
   Maa kehti hai ghazi ki hai maut wafaon ki
   Abbas tere hote shabbir ka mar jaana
-  
+
   3
   Abbas wafa teri is baar se zaahir hai
   Honton ko liye tishna pani mein utar jaana
-  
+
   4
   Kehti thi sakina ye abbas ke laashe par
   Mumkin hi nahi mera ab laut ke ghar jaana
-  
+
   5
   Bhoolega na mehshar tak ghazi ko tere sar se
   Darbar e sharabi mein chadar ka utar jaana
-  
+
   6
   Ta hashr yuhin mohsin hamraah mazahir ke
   Shabbir ka gham karna tum dono jidhar jaana
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2482
 # raw_sha256: 44938f076f38915c5c20257e0566d5ac16cbbac80b25c3d454c79cc68f4c18e9
 ---
-
 زینب کو نہ بھولے گا عباس کا مر جانا
+پردیس میں غربت میں بھای سے بچھڑ جانا
 
 ۱
-پردیس میں غربت میں بھای سے بچھڑ جانا
 منظر یہ سناں پر بھی غازی کو رلاتی ہے
 زینب تیرا مجمے سے بے پردہ گزر جانا
 

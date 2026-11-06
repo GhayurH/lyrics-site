@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Rula rula ke tujhe qatl kar diya baba
-  
-  1
   Teri sakina ko ye dard kha gaya baba
+
+  1
   Tumhari beti ko aata nahi kuch aur nazar
   Mere nigaah may phirta hai ab yehi manzar
   Tumhari zulfon may zaalim ka haath tha baba
-  
+
   2
   Mai kis tarha se bataun wo waqt kaisa tha
   Sitam ye baap pe beti pe ek jaisa tha
   Teri tarha se tamacha mujhe laga baba
-  
+
   3
   Jisay pehen ke kaha tha ye aap ne mujhse
   Sakina ye meri maa ne siya tha mere liye
   Tere badan pe wo kurta nahi mila baba
-  
+
   4
   Akeli mai nahi dadi bhi saath hai mere
   Ye zakhmi teri mohabbat may haath hai mere
   Mai rokti rahi khanjar nahi ruka baba
-  
+
   5
   Jagah nashayb may dedo meri yateemi ko
   Chupalo dhayr may in patharon ke beti ko
   Sakina bhool gayi ghar ka raasta baba
-  
+
   6
   Meri ghareebi pe karta nahi hai koi nazar
   Tumhe to maara hai baba rula rula ke magar
   Mujhe to rone pe bhi milti hai saza baba
-  
+
   7
   Hai qatl gaah sakina ki shaam tak ka safar
   Tumhe lagega chalaya hai shimr ne khanjar
   Galay pe dekho nishan e rasan zara baba
-  
+
   8
   Kamar jhuki hui aankhon may kam basaarat thi
   Jawan ke laashe pe jaisi tumhari haalat thi
   Tumhare laashe pe wo mera haal tha baba
-  
+
   9
   Wo qabr may to takallum hai ek zamane se
   Magar sadayein ye aati hai qaid khane se
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2409
 # raw_sha256: 4e55f9e54a049f265f1b21fd8bfab74245d726a70c2a06f524f7de93d6aad22b
 ---
-
 رلا رلا کے تجھے قتل کر دیا بابا
+تیری سکینہ کو یہ درد کھا گیا بابا
 
 ۱
-تیری سکینہ کو یہ درد کھا گیا بابا
 تمہاری بیٹی کو آتا نہیں کچھ اور نظر
 میرے نگاہ میں پھرتا ہے اب یہی منظر
 تمہاری زلفوں میں ظالم کا ہاتھ تھا بابا

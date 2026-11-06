@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Baitha hai mushkilaat ke raste pe haar ke
-  
-  1
   O bad-naseeb dekh ali ko pukaar ke
+
+  1
   Marhab ka qatl bhi koi khyber mein qatl tha
   Phaynka tha zulfeqaar ka sadqa utaar ke
-  
+
   2
   Khyber ke dar ne khul ke ishara ye kar diya
   Mazhar yehi hai quwwat e parwar digaar ke
-  
+
   3
   Laila ke dil ko dekh rahe hai shahe zaman
   Akbar ko ran mein bheja hai gaysu sawaar ke
-  
+
   4
   Asghar jigar ko thaam ke roti hai fauj e shaam
   Tum teer khaa ke aaye ho ya teer maar ke
-  
+
   5
   Akbar tumhara baagh e jawani ujad gaya
   Laila ne chaar din bhi na dekhe bahaar ke
-  
+
   6
   Roo baah jang e aun o mohamed pa kehte thay
   Ye sher jaane choot gaye kis kachaar ke
-  
+
   7
   Tareekiyan wo shaam e ghariban ki ay qamar
   Taare bhi so gaye falak e kajmadaar ke
-  
+
   8
   Jaane sawaal kya huwe turbat mein ay qamar
   Chup hogaye thay hum to ali ko pukaar ke
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2174
 # raw_sha256: 507cc29865f5a54b622f4470150269d6da27b04638461ba576125ac66a4b8bc9
 ---
-
 بیٹھا ہے مشکلات کے رستے پہ حار کے
+او بد نصیب دیکھ علی کو پکار کے
 
 ۱
-او بد نصیب دیکھ علی کو پکار کے
 مرحب کا قتل بھی کوئی خیبر میں قتل تھا
 پھینکا تھا ذوالفقار کا صدقہ اتار کے
 

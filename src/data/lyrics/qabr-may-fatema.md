@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Qabr may fatema zehra ko rulaate kyun ho
-  
-  1
   Bhare darbar may zainab ko bulaate kyun ho
+
+  1
   Khoon jis par hai hussain ibne ali ka taaza
   Saani e zehra ko khanjar wo dikhaate kyun ho
-  
+
   2
   Sar e abbas bhala kyun na giray naize se
   Naize pe chadare zainab ko uthaate kyun ho
-  
+
   3
   Pusht haazir hai meri kehta tha bemaar e hussain
   Taaziyane phupi amma ko lagaate kyun ho
-  
+
   4
   Godh may rehti thi ghazi ke sada jo bachi
   Usko tum kaanton ke raste pe chalaate kyun ho
-  
+
   5
   Is ko to godh may karne do sukoon maadar ki
   Sar e baysheer ko naize pe chadhaate kyun ho
-  
+
   6
   Pyaas kuch aur bhi badh jaati hai masoomo ki
   Pani dena hi hota to dikhaate kyun ho
-  
+
   7
   Gir ke kehta hai ye shabbir ka sar naize se
   Chalte naaqe se sakina ko giraate kyun ho
-  
+
   8
   Mir sajjad yehi poochte rehte thay imam
   Baaghi abbas ki behno ko bulaate kyun ho
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2038
 # raw_sha256: 2e28f9aacbd2b6bb0bf9fabbd501a3f711416ac3fd4254c4f3dccfad59a0e80b
 ---
-
 قبر میں فاطمہ زہرا کو رلاتے کیوں ہو
+بھرے دربار میں زینب کو بلاتے کیوں ہو
 
 ۱
-بھرے دربار میں زینب کو بلاتے کیوں ہو
 خوں ہے جس پر ہے حسین ابنِ علی کا تازہ
 ثانیء زہرا کو خنجر وہ دکھاتے کیوں ہو
 

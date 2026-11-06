@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghazi alamdar teri qasam
-  
-  1
   Jhukne nahi denge tera alam
+
+  1
   Teri amanat samajh kar isay
   Tere alam ko uthaate hai hum
-  
+
   2
   Le kar alam suye darya gaya
   Maujon ne choome thay tere qadam
-  
+
   3
   Sookhe huwe hont bachon ke thay
   Is gham mein aankhein rahi teri nam
-  
+
   4
   Teri wafa tere paikar mein thi
   Paaya tha hyer ka jaah o hasham
-  
+
   5
   Likhi kibate wafa is tarha
   Ran mein huwe tere baazu qalam
-  
+
   6
   Mashk e sakina se pani baha
   Aur aagaya tera honton pe dam
-  
+
   7
   Marne se tere ghazab ye hua
   Sheh ki kamar hogayi gham se kham
-  
+
   8
   Zainab ke dil se na kam ho saka
   Abbas teri judaai ka gham
-  
+
   9
   Hum jo balaaon se bachte rahe
   Abbas ghazi ka hai ye karam
-  
+
   10
   Farhan nauha ye abbas ka
   Karta hai rehaan ro ke raqam
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2772
 # raw_sha256: 746838ef2793ef7b65c07656a52c6296d1cb1a74d6268e961e35a4cd40168267
 ---
-
 غازی علمدار تیری قسم
+جھکنے نہیں دینگے تیرا علم
 
 ۱
-جھکنے نہیں دینگے تیرا علم
 تیری امانت سمجھ کر اسے
 تیرے علم کو اٹھاتے ہیں ہم
 

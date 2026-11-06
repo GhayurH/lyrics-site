@@ -8,58 +8,37 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Nikla hai janaza koi allah ke ghar se
-
-
-  1
-
+romanLyrics: |-
+  Nikla hai janaza koi allah ke ghar se
   Aflaaq mein ek shor hai matam ke asar se
 
+  1
   Afsos ke masjid mein namazi gaya maara
-
   Kuch kam nahi ye hashr qayamat ke asar se
 
-
   2
-
   Shabbir ko yaad aagayi khud apni sakina
-
   Zainab ko hataya gaya jab laashe padar se
 
-
   3
-
   Abbas zara zainab e muztar se khabar daar
-
   Faryad mein hat jaaye na chadar kahin sar se
 
-
   4
-
   Yaad aagaya zainab ko wo pehlu e shikasta
-
   Rumaal hataya gaya baba ke jo sar se
 
-
   5
-
   Zainab se ye kehdo ke wo dil khol ke roye
-
   Shabbir ki hamsheer hai rone ko na tarse
 
-
   6
-
   Haan bhool na jaane inhe kufe ke makeeno
-
   Guzrengi ye shehzadiyan is raah guzar se
 
-
   7
-
-  As''haab bhi sun paaye na jis bibi ki aahat
-
-  Sar nange wohi guzregi is raah guzar se'
+  As'haab bhi sun paaye na jis bibi ki aahat
+  Sar nange wohi guzregi is raah guzar se
 reciter: Meer Hasan Meer
 # source_id: nohayonline:39e9c8959fb3c73fb9c9
 # source_url: https://www.nohayonline.com/details_content.php?id=2573
@@ -68,11 +47,10 @@ reciter: Meer Hasan Meer
 # source_url: https://www.ziyaraat.net/api/noha/2303
 # raw_sha256: fab404e5a8bb2122c76199ac7c552e7a7722cbb101756404e501b4128d7ceec3
 ---
-
 نکلا ہے جنازہ کوئی اللّٰہ کے گھر سے
+افلاک میں اک شور ہے ماتم کے اثر سے
 
 ۱
-افلاک میں اک شور ہے ماتم کے اثر سے
 افسوس کہ مسجد میں نمازی گیا مارا
 کچھ کم نہیں یہ حشر قیامت کے اثر سے
 

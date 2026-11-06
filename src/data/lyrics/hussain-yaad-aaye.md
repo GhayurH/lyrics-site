@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Utha jo koi janaza hussain yaad aaye
-  
-  1
   Jo dekha koi bhi pyasa hussain yaad aaye
+
+  1
   Churi chalaane se pehle kisi zabeehe par
   Jab usko pani pilaaya hussain yaad aaye
-  
+
   2
   Wo jis ka koi bhi waaris nahi tha dunya may
   Kafan jab usne bhi paaya hussain yaad aaye
-  
+
   3
   Kisi yateema ko mayyat se uske baba ki
   Jo pyar kar ke hataya hussain yaad aaye
-  
+
   4
   Nazar may phir gaya kadiyal jawan ka laasha
   Kisi ne baandha jo sehra hussain yaad aaye
-  
+
   5
   Jawan bhai ke laashe ko ek bhai ne
   Jo ro ke seene lagaya hussain yaad aaye
-  
+
   6
   Khushi kahan hui sghra ka dard aur badha
   Jo chand eid ka dekha hussain yaad aaye
-  
+
   7
   Pakad ke baap ka daaman kisi bhi bachi ne
   Na jaye baba jo bola hussain yaad aaye
-  
+
   8
   Mera pisar hua jis roz cheh mahine ka
   Bataun kaise mai kitna hussain yaad aaye
-  
+
   9
   Lipat lipat gayi turbat se saani e zehra
   Bani jo qabr e sakina hussain yaad aaye
-  
+
   10
   Hamesha karbobala ke safar pe ay sajjad
   Galay jo maa ne lagaya hussain yaad aaye
@@ -56,11 +56,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1530
 # raw_sha256: a8f8486ee2b4b2fb775f496df056d2411f99b096deaa04402e49c9663a11eb50
 ---
-
 اُٹھا جو کوئی جنازہ حسین یاد آۓ
+جو دیکھا کوئی بھی پیاسا حسین یاد آۓ
 
 ۱
-جو دیکھا کوئی بھی پیاسا حسین یاد آۓ
 چھری چلانے سے پہلے کسی ذبیحے پر
 جب اس کو پانی پلایا حسین یاد آۓ
 

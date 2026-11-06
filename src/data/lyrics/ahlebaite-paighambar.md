@@ -10,43 +10,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Ahlebait e paighambar sar katane aaye hai
-  
-  1
   Haq ke naasir o yawar sar katane aaye hai
+
+  1
   Ye nabi ka kunba hai haq pa adne waala hai
   Aandhiyo se toofan se bad ke ladne waala hai
   Phir bhi kya khabar kaisa waqt padne waala hai
   Ya khuda mohamed ka ghar ujadne waala hai
   Ibne hyder e safdar sar katane aaye hai
-  
+
   2
   Khair ho mere maula saamne hai ek lashkar
   Zulm ka koi naiza pad na jaye seene par
   Khaak par na gir jaaye naujawan theora kar
   Khoon mein na mil jaye ye shabihe paighambar
   Haye naujawan akbar sar katane aaye hai
-  
+
   3
   Karbala ke sehra mein hai rasool ka gulshan
   Ban na jaye phoolon ke haq mein kal yehi madfan
   Sab rasool zaade hai sab ali ke jaan o tan
   Ek raat ka dulha ek raat ki dulhan
   Haye waarise shabbar sar katane aaye hai
-  
+
   4
   Haq ke ye nigehban hai dushmanane baatil hai
   Inke dil ka kya kehna sar se paaon tak dil hai
   Chand ho ke laakhon ke aaj ye mukhabil hai
   Phool jaise bache bhi kaarwan mein shaamil hai
   Haye bezaban asghar sar katane aaye hai
-  
+
   5
   Kufiyon ke ye mehman qatl hone waale hai
   Ye rasool ke armaan qatl hone waale hai
   Bolte huwe quran qatl hone waale hai
   Sab mahafiz e emaan qatl hone waale hai
   Fatema ke sab dilbar sar katane aaye hai
-  
+
   6
   Pyase bache tadpenge chain jab na payenge
   Mashk ba-wafa lekar alqama pe jayenge
@@ -57,11 +57,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2012
 # raw_sha256: 49ad7732392235ea5000f52dabca6a43bf07fffa8e5aed9609f0352e6c62d259
 ---
-
 اہلِ بیتِ پیغمبر سر کٹانے آے ہیں
+حق کے ناصر و یاور سر کٹانے آے ہیں
 
 ۱
-حق کے ناصر و یاور سر کٹانے آے ہیں
 یہ نبی کا کنبہ ہے حق پہ اڑنے والا ہے
 آندھیوں سے طوفاں سے بڑھ کے لڑنے والا ہے
 پھر بھی کیا خبر کیسا وقت پڑھنے والا ہے

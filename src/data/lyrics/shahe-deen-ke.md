@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Shahe deen ke bachon ki ghamkhar zainab
-  
-  1
   Dilafgar zainab wafadar zainab
+
+  1
   Ail ki wo beti wo zehra ki jaayi
   Khudara e azmat wo khuddar zainab
-  
+
   2
   Kiye deen e ahmed pe kya kya ehsaan
   Hai sharre nabi ki nigehdaar zainab
-  
+
   3
   Hai aafat raseeda badi dukh-zada hai
   Falak ki satayi dilafgar zainab
-  
+
   4
   Rahi tumse islam ki parda-dari
   Mohamed ke deen ki alamdar zainab
-  
+
   5
   Kahan se kafan apne bhai ko laaye
   Wo majboor zainab wo lachaar zainab
-  
+
   6
   Kaneez aapke dar pe aayi sada di
   Madad kijo meri madadgar zainab
@@ -39,11 +39,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=585
 # raw_sha256: 6193480af20599ed44e90f5577651940f44806238123ce798fb36fe1fd72628c
 ---
-
 شاہِ دین کے بچوں کی غمخوار زینب
+دل افگار زینب وفادار زینب
 
 ۱
-دل افگار زینب وفادار زینب
 علی کی وہ بیٹی وہ زہرا کی جائی
 خُوداراِ عظمت وہ خودار زینب
 

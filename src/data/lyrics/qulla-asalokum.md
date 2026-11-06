@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Qulla asalokum alaihe ajran
-  
-  1
   Illal mawaddata fil qurba
+
+  1
   Mera khitaab hai quran padne waalon se
   Khuda ke deen ka unwaan padne waalon se
   Sawaale ajre risalat ko kaise bhool gaye
   Kitaab yaad hai itrat ko kaise bhool gaye
-  
+
   2
   Har ek ehed ke deedar ye jawab to de
   Tilawaton ke parastaar ye jawab to de
   Raza e haq ke talabgaar ye jawab to de
   Shareek e kaar e mashiyat ko kaise bhool gaye
-  
+
   3
   Rasoole paak ki mehnat ka waasta jaago
   Jawab chahiye mujhko mera sawaal suno
   Nabi ke dosh ki kamli to yaad hai sab ko
   Saware doshe risalat ko kaise bhool gaye
-  
+
   4
   Baghair shamma ke har soo bhatakte parwano
   Shaoor o fikr ki dunya mein aao deewano
   Hazaar sajda kiye tumne ay musalmano
   Batao roohe ibadat ko kaise bhool gaye
-  
+
   5
   Wujoode haq ki alamat ko lootne waalon
   Ameere mulke sakhawat to lootne waalon
   Khuda ke ghar mein imamat to lootne waalon
   Nabi se inki kharabat ko kaise bhool gaye
-  
+
   6
   Sitam se karz chukaya hai gar to ye bhi batao
   Nabi ko khoon rulaya hai gar to ye bhi batao
   Dare batool jalaya hai gar to ye bhi batao
   Hadees e juz e risalat ko kaise bhool gaye
-  
+
   7
   Nabi ne godh se jisko kabhi juda na kiya
   Nabi ke pehlu mien usko na dafn hone diya
   Hassan ki laash pe teeron ka abr barsaya
   Nabi ke laal ki azmat ko kaise bhool gaye
-  
+
   8
   Huroofe aayate quran bikherne waalon
   Nabi ke laal ko jangal mein gherne waalon
   Gulu e shaah pe talwaar pherne waalon
   Nabi ki beti ki mehnat ko kaise bhool gaye
-  
+
   9
   Pisar ko bano e muztar ke maarne waalon
   Zameen se khoon ke chashme ubhaarne waalon
   Jawan ke seene mein barchi utaarne waalon
   Rasool e haq ki shabahat ko kaise bhool gaye
-  
+
   10
   Basar andheron mien hote hai jinke shaam o sahar
   Dilon mein jinke hai aamir adawat e sarwar
@@ -76,11 +76,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3671
 # raw_sha256: 4a4ed1b675e553a7601b172cd6fe8fcafb90a2e2e2cd42bdce4a99407d5827b7
 ---
-
 قل لا اسلکم الیہ اجرن
+الالمودت فی القرباء
 
 ۱
-الالمودت فی القرباء
 میرا خطاب ہے قرآن پڑھنے والوں سے
 خدا کے دین کا عنوان پڑھنے والوں سے
 سوال اجر رسالت کو کیسے بھول گےء

@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Rehaai hogi to teri qabar pe aaungi
-  
-  1
   Hussain haal tumhe shaam ka sunaungi
+
+  1
   Ye shaam waale kare chaahe sad hazaar sitam
   Na ladkhadayenge bhaiya teri behan ke qadam
   Ali ki beti hoon ban kar ali dikahungi
-  
+
   2
   Mere abbas se kehdo tum hi khuda ke liye
   Behan ka waada hai ghazi teri wafa ke liye
   Gali gali mein tera mai alam lagaungi
-  
+
   3
   Nazar ke saamne hoga tumhara zakhmi badan
   Kabhi banungi ali aur kabhi banungi hassan
   Tera payaam mai kuch is tarha phailaungi
-  
+
   4
   Kuch is tarha se karungi tilwat e quran
   Namazi maanega shabbir tumko saara jahan
   Baghair taygh ke mai inquilab laaungi
-  
+
   5
   Bazaare shaam mein baalon se dhaamp kar chehra
   Ali ke lehje ki awaaz ko bhi de ke rida
   Hijaab aise kiya jaata hai bataungi
-  
+
   6
   Hussain tere ghamon mein jo rone waale hai
   Teri qasam wo niraali tauqeer waale hai
@@ -46,11 +46,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3243
 # raw_sha256: a8afefdd80802d64ea1caa6c420a998cf789a240f98578b73ab900389269a1fe
 ---
-
 رہای ہوگی تو تیری قبر پہ آؤں گی
+حسین حال تمہیں شام کا سناؤں گی
 
 ۱
-حسین حال تمہیں شام کا سناؤں گی
 یہ شام والے کرے چاہے صد ہزار ستم
 نہ لڑکھڑاییں گے بھیا تیری بہن کے قدم
 علی کی بیٹی ہوں بن کر علی دکھاؤں گی

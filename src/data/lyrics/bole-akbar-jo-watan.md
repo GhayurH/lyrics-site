@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Bole akbar jo watan laut ke jaana amma
-  
-  1
   Meri roothi hui sughra ko manana amma
+
+  1
   Mere qadmon ke nishanon pe rakhe hogi wo sar
   Us se kehna nahi aayega kabhi ab akbar
   Ghar ki dehleez se tum us ko uthana amma
-  
+
   2
   Marne se pehle galay mil liya akbar sab se
   Kaash ek baar mai seene se laga leta usay
   Meri jaanib se usay seene lagana amma
-  
+
   3
   Pooche asghar ka to keh dena humakta tha bahot
   Naam lete thay tumhara to wo hasta tha bahot
   Ghutniyo chalne laga tha wo batana amma
-  
+
   4
   Is rida se usay aa jayegi khushboo meri
   Ye mera khoon hai sunte hi wo mar jayegi
   Meri sughra se rida apni chupana amma
-  
+
   5
   Gar wo pooche ke mere bhai ko kaise maara
   Kehna bas ho gaya allah ko pyara sughra
   Mujhko maari thi sina ye na batana amma
-  
+
   6
   Us se kehna ke wo naraaz na ho ammu se
   Wo to khud naam mitaate huwe uska roye
   Chaahte thay wo usay saath may laana amma
-  
+
   7
   Wo hai beemar na kar payegi meelon ka safar
   Bas wahin baith ke ro le wo mujhe shaam o sahar
   Ek nishan qabr ka aangan may banana amma
-  
+
   8
   Khat e sughra meri mayyat pe sunana aise
   Jaise talqeen padha karte hai bilkul waise
   Dono haathon se mera shaana hilaana amma
-  
+
   9
   Mir sajjad ye tha aakhri akbar ka bayan
   Jab madine may tumhe aayegi awaaz e azaan
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1527
 # raw_sha256: 6d91481df52770017eceaffa1b2111c0eb7971f2791cd0f6a050107244179866
 ---
-
 بولے اکبر جو وطن لوٹ کے جانا اماں
+میری روٹھی ہوی صغرا کو منانا اماں
 
 ۱
-میری روٹھی ہوی صغرا کو منانا اماں
 میرے قدموں کے نشانوں پہ رکھے ہوگی وہ سر
 اس سے کہنا نہیں آے گا کبھی اب اکبر
 گھر کی دہلیز سے تم اس کو اٹھانا اماں

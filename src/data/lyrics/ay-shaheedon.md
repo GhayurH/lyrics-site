@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Lo salaami raah e haq ke jaanisaron ay shaheedon
-  
-  1
   Bekafan aur sar bureeda be-mazaron ay shaheedon
+
+  1
   Gulsitan e deen ki saari hai baharein bas tumhi se
   Aasman e haq ke roshan chaand taaron ay shaheedon
-  
+
   2
   Tum ne apne sar kata kar laaj rakhi hai wafa ki
   Fatema o murtaza ke ay saharon ay shaheedon
-  
+
   3
   Bekafan laashon ko chadar garm reti ne udaayi
   Ran mein quran ke bikhre huwe paaron ay shaheedon
-  
+
   4
   Tum se seekha hai zamane ne itaa’at ka kareena
   Ay gulistan e imamat ki baharon ay shaheedon
-  
+
   5
   Raunak e baagh e nabuwat khushboo e jism e imamat
   Azm o eesaar o wafa ke shaahkaron ay shaheedon
-  
+
   6
   Wo ho safdar ya ho mazhar aaj tak tum pe hai naazan
   Tum ho quran e wafa ke maah paaron ay shaheedon
@@ -40,11 +40,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2832
 # raw_sha256: ab52ab3d62d76be3b1e8a987564d6c937aece7a43fef4f3832d6634dc2c366e8
 ---
-
 لو سلامی راہ حق کے جانثاروں اے شہیدوں
+بیکفن اور سر بریدہ بے مزاروں اے شہیدوں
 
 ۱
-بیکفن اور سر بریدہ بے مزاروں اے شہیدوں
 گلستان دین کی ساری ہے بہاریں بس تمہیں سے
 آسمان حق کے روشن چاند تاروں اے شہیدوں
 

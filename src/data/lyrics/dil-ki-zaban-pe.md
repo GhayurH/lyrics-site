@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Dil ki zaban pe naam rahega hussain ka
-  
-  1
   Har ashk e gham sunayega nauha hussain ka
+
+  1
   Chalti hui galay pe hai shimr e layeen ki taygh
   Wo rayghe karbala pe tadapna hussain ka
-  
+
   2
   Laashe rasool karwate leti thi qabr mein
   Jalti hui zameen pe tha laasha hussain ka
-  
+
   3
   Phirta hai apni aankhon mein jannat liye huwe
   Dekha hai jis kisi ne bhi rauza hussain ka
-  
+
   4
   Us aadmi se poochiye azmat namaz ki
   Hai jisko yaad aakhri sajda hussain ka
-  
+
   5
   Hone ko hai hussain ke lashkar ka khatema
   Aata hai ran mein aakhri fidya hussain ka
-  
+
   6
   Allah wo naqahate peeri ke ba-wajood
   Akbar ki laash ran se uthana hussain ka
-  
+
   7
   Apno ka zikr kya hai tabarruk ke naam se
   Khaate rahenge ghair bhi sadqa hussain ka
-  
+
   8
   Kya saqt imtehan thay sibte rasool ke
   Aasan nahi tha ghar ko lutana hussain ka
-  
+
   9
   Seene pe hai hussain ke shimre layeen sawaar
   Jibreel ne jhulaya tha jhoola hussain ka
-  
+
   10
   Yaade hussain ban gayi zainab ki kayenaat
   Ankhon mein phirta rehta hai chehra hussain ka
-  
+
   11
   Maula madad ko aaiye apne hussain ki
   Koi nahi hai bekas o tanha hussain ka
-  
+
   12
   Hum ko viqar khoon ke aansoo rulayega
   Qabre nabi pe ashk bahana hussain ka
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=139
 # raw_sha256: 50a0c88c12de3b4f1c451cdc8c561da471bdd9cfd3cc7a69126404aa61df7cda
 ---
-
 دل کی زباں پہ نام رہے گا حسین کا
+ہر آشک غم سناے گا نوحہ حسین کا
 
 ۱
-ہر آشک غم سناے گا نوحہ حسین کا
 چلتی ہوئی گلے پہ ہے شمر لعیں کی تیغ
 وہ ریگ کربلا پہ تڑپنا حسین کا
 

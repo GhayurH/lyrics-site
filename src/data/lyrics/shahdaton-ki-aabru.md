@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Shahadaton ki aabru
-  
-  1
   Shaheede karbala hussain
+
+  1
   Imame mashraqain hai
   Imame maghrabain hai
   Zameen se aasman tak
   Hussain hi hussain hai
   Qaraare qalbe mustafa
   Sukoone fatema hussain
-  
+
   2
   Ibadaton ka aaeena
   Yaqeen ki jalwagaah bhi
@@ -28,7 +28,7 @@ romanLyrics: |-
   Hussain deen panaah bhi
   Bashar ki shakl mein hai tu
   Khuda ka mojiza hussain
-  
+
   3
   Jo sheh rage yaqeen se
   Teri hayaat jil gayi
@@ -36,7 +36,7 @@ romanLyrics: |-
   Churi ki dhaar mud gayi
   Sitam na qatl kar saka
   Azaan ki sada hussain
-  
+
   4
   Hai sar darez paon par
   Zamane bhar ki azmatein
@@ -44,7 +44,7 @@ romanLyrics: |-
   Khadi hui hai aayatein
   Ke pal hai faqre innama
   Viqare hal ataa hussain
-  
+
   5
   Wo tashnagi ke maarikein
   Faraat ki kahaniyan
@@ -52,7 +52,7 @@ romanLyrics: |-
   Rasool si jawaniyan
   Khuda ka deen kabhi tujhe
   Bhula na payega hussain
-  
+
   6
   Hussain tujhse lad ke khud
   Bikhar gayi hukumatein
@@ -60,7 +60,7 @@ romanLyrics: |-
   Kahan gayi wo taaqatein
   Har ek yazeed mil gaya
   Magar na mit saka hussain
-  
+
   7
   Hussain tere naam par
   Fida hai saare bhaarti
@@ -68,7 +68,7 @@ romanLyrics: |-
   Kahin hai teri aarti
   Barahmano ne bhi tujhe
   Kaha hai devta hussain
-  
+
   8
   Ghuroor e zulm tod do
   Hawa ke rukh ko mod do
@@ -76,7 +76,7 @@ romanLyrics: |-
   Dilon se dil ko jod do
   Banenge khud hi raaste
   Kaho to milke ya hussain
-  
+
   9
   Ye nayyar e alam naseeb
   Aamir e aseer e gham
@@ -88,11 +88,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3675
 # raw_sha256: 6599e3fe02323c85ce3773bcc1ac62a1bd05ce62ebdb40ac4e89e9c2212fcfa4
 ---
-
 شہادتوں کی آبرو
+شہید کربلا حسین
 
 ۱
-شہید کربلا حسین
 امام مشرقین ہے
 امام مغربیں ہے
 زمیں سے آسمان تک

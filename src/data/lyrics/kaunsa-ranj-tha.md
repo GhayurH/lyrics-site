@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaunsa ranj tha jo sheh se uthaya na gaya
-  
-  1
   Par koi shikwa zaban par kabhi laaya na gaya
+
+  1
   Chaha akbar ne ke dekhe na pidar zakhme jigar
   Khoon is josh se ubhla ke chupaya na gaya
-  
+
   2
   Hogaye mit ke fana khud hi mitane waale
   Haa magar matame shabbir mitaya na gaya
-  
+
   3
   Khaali jhoola kabhi bhoole se jhula deti thi maa
   Jhoolna jhoole mein asghar ka bhulaya na gaya
-  
+
   4
   Boli maa laasha e akbar ki balayein lekar
   Tumko naushah mere laal banaya na gaya
-  
+
   5
   Tukde tukde tha badan farkh tha paara paara
   Shaah se laasha e abbas uthaya na gaya
-  
+
   6
   Poocha jab bano ne kya hogaya mera asghar
   Sheh ka sar jhuk gaya kuch moo se sunaya na gaya
-  
+
   7
   Jis tarha sayyede sajjad ko pahunchi eeza
   Koi bemaar bhi is tarha sataya na gaya
-  
+
   8
   Rehgaya ab bhi isi baat ka gham dil mein nisar
   Rauza shabbir ka aankhon se lagaya na gaya
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=759
 # raw_sha256: 8301fd1821e12aa6017bbd5a6f57d0bb36d4a6ab26ef06493cac117cdc8cec5b
 ---
-
 کونسا رنج تھا جو شہ سے اٹھایا نہ گیا
+پر کوئی شکوہ زبان پر کبھی لایا نہ گیا
 
 ۱
-پر کوئی شکوہ زبان پر کبھی لایا نہ گیا
 چاہا اکبر نے کہ دیکھے نہ پدر زخم جگر
 خون اس جوش سے ابلا کہ چھپایا نہ گیا
 

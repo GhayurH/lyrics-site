@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Bazaar mein zainab ne marne ki dua maangi
-  
-  1
   Jab shaam ke logon se abid ne rida maangi
+
+  1
   Ruqsaar sakina ke kuch aur huwe neele
   Jab saaye mein aane ki bachi ne riza maangi
-  
+
   2
   Jo raah mein chubte thay abbas ki behno ko
   Un kaanton ne khud rokar mehdi se saza maangi
-  
+
   3
   Apne liye dono ne ummat se na kuch maanga
   Zainab ne kafan maanga sarwar ne rida maangi
-  
+
   4
   Ehsaas e yateemi phir hone laga zainab ko
   Jab ghazi ne bibi se marne ki riza maangi
-  
+
   5
   Zaalim ne talab ki hai wo bacchi kaneezi may
   Shabbir ne jo beti tujhse ay khuda maangi
-  
+
   6
   Ya rab mujhe dikhlaade kaisi hai meri sughra
   Ye aakhri hichki may akbar ne dua maangi
-  
+
   7
   Rakh deti haath apne maa bachi ke honton par
   Jab baali sakina ne marne ki dua maangi
-  
+
   8
   Sughra ne duaon may sajjad na kuch maanga
   Baade ali akbar jo maangi ko khaza maangi
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=20
 # raw_sha256: 357c5774a632c2b1a9c1f508b828c88450324452a8ae88064f597f031af4c76a
 ---
-
 بازار میں زینب نے مرنے کی دوا مانگی
+جب شام کے لوگوں سے عابد نے ردا مانگی
 
 ۱
-جب شام کے لوگوں سے عابد نے ردا مانگی
 رخسار سکینہ کے کچھ اور ہوۓ نیلے
 جب سایے میں آنے کی بچی نے رضا مانگی
 

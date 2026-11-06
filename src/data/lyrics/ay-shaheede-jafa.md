@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay shaheed e jafa ya imam e raza
-  
-  1
   Kya sitam hogaya ya imam e raza
+
+  1
   Zehr angoor mein haye ye mamoon ne
   Aap ko de diya ya imam e raza
-  
+
   2
   Khaak par lot'te hai jigar thaam ke
   Khaa ke ke zehr e dagha ya imam e raza
-  
+
   3
   Peet'te nikle hai apna seena o sar
   Qabr se murtaza ya imam e raza
-  
+
   4
   Baaghe jannat se khairunnisa aa gayi
   Karti aah o buka ya imam e raza
-  
+
   5
   Dekhiye uth ke yasrab se milne tumhe
   Aayi hai masooma ya imam e raza
-  
+
   6
   Aap ke gham mein rote hai sar peet ke
   Aaj ahle aza ya imam e raza
-  
+
   7
   Ek qayamat hai momin khurasan mein
   Rote hai mustafa ya imam e raza
@@ -44,11 +44,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2887
 # raw_sha256: 5490ffe504d9b9e486dda11e1f0dae4de43c79962e16c9108427791f8f541471
 ---
-
 اے شہید جفا یا امام رضا
+کیا ستم ہو گیا یا امام رضا
 
 ۱
-کیا ستم ہو گیا یا امام رضا
 زہر انگور میں ہاے یہ مامون نے
 آپ کو دے دیا یا امام رضا
 

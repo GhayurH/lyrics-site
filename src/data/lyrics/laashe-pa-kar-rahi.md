@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Laashe pa kar rahi hai laila ye nauha khani
-  
-  1
   Nazron mein phir rahi hai akbar teri jawani
+
+  1
   Allah walon bolo aakhir uthaye kyun kar
   Mayyat jawan pisar ki sarwar ki natawani
-  
+
   2
   Ghairon ka phir gila kya jab kalmago ke haathon
   Hamshakle mustafa ki mit-ti hai naujawani
-  
+
   3
   Sheh bolay maarte ho tum kis ke dil pe barchi
   Ay kalma padne walon ye hai nabi ka saani
-  
+
   4
   Naazon mein palne wala naizon ki zad mein aaya
   Zainab suna rahi hai ye dard ki kahani
-  
+
   5
   Laashe pe naujawan ke laila ye keh rahi thi
   Nasoor ban gayi hai bin tere zindagani
-  
+
   6
   Behosh ho gayi thi sunkar watan mein sughra
   Zainab ne thi sunayi akbar ki jab sunani
-  
+
   7
   Ranj o gham o alam se abbas ko bacha lo
   Laila ke laal karke irfan pa meherbani
@@ -43,11 +43,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=938
 # raw_sha256: 1488163c23c3e6cc4e8f3df2f0e8482398429cc44f0b3a33f3c6d150eda7f65f
 ---
-
 لاشے پہ کر رہی ہے لیلیٰ یہ نوحہ خوانی
+نظروں میں پھر رہی ہے اکبر تیری جوانی
 
 ۱
-نظروں میں پھر رہی ہے اکبر تیری جوانی
 اللہ والوں بولو آخر اٹھاے کیوں کر
 میت جواں پسر کی سرور کی نا توانی
 

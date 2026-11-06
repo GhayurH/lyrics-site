@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Jo mohamed ka nawasa hai ye sar uska hai
-  
-  1
   Jisko nau laakh ne maara hai ye sar uska hai
+
+  1
   Sar uthaye huwe khooli ye sada deta hai
   Ali akbar ko jo rota hai ye sar uska hai
-  
+
   2
   Pani peeta raha khud saamne qaatil jiske
   Zibha ho kar bhi jo pyasa hai ye sar uska hai
-  
+
   3
   Hurmala ne jise ghode se giraane ke liye
   Teer peshani pe maara hai ye sar uska hai
-  
+
   4
   Sheh ke honton pe chadi maar ke zaalim ne kaha
   Jis ki maa fatema zehra hai ye sar uska hai
-  
+
   5
   Zakhmi chehre ki taraf dekh ke zehra boli
   Patharon se jisay maara hai ye sar uska hai
-  
+
   6
   Jis ne aulaad ata ki thi madine may mujhe
   Ro ke raahib yehi kehta hai ye sar uska hai
-  
+
   7
   Jis ki beti ko abhi haste huwe zaalim ne
   Chale naaqe se giraya hai ye sar uska hai
-  
+
   8
   Mir sajjad jise dafn bhi hone na diya
   Be-kafan jis ka janaza hai ye sar uska hai
@@ -48,11 +48,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1539
 # raw_sha256: 26879c76bf77a46db255df39b019d493a5663e1e1737e9da60f99b16621e183d
 ---
-
 جو محمد کا نواسہ ہے یہ سر اس کا ہے
+جسکو نو لاکھ نے مارا ہے یہ سر اس کا ہے
 
 ۱
-جسکو نو لاکھ نے مارا ہے یہ سر اس کا ہے
 سر اٹھاے ہوے قولی یہ صدا دیتا ہے
 علی اکبر کو جو روتا ہے یہ سر اس کا ہے
 

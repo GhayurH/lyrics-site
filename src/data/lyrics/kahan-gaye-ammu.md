@@ -10,64 +10,61 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Batao ay baba kahan gaye ammu
   Sakina kehti thi baba kahan gaye ammu
   Nazar alam nahi aata kahan gaye ammu
-  
-  2
+
+  1
   Mai ab na maangungi pani unhe bula lije
   Ye kahiye roti hai dukhiya kahan gaye ammu
-  
-  3
+
+  2
   Ye keh gaye thay ke le aaunga abhi pani
   Wo dekho saamne darya kahan gaye ammu
-  
-  4
+
+  3
   Ye mujhse kehti hai madar tumhi ne bheja hai
   Bulao tum hi sakina kahan gaye ammu
-  
-  5
+
+  4
   Chale jo shaah to ro kar sakina chillayi
   Abhi to fikr hai baba kahan gaye ammu
-  
-  6
+
+  5
   Layeen tamache dikha kar mujhe daraate hai
   Ye mujhse kehte hai aada kahan gaye ammu
-  
-  7
+
+  6
   Ye kehte kehte wo behosh hogayi anwar
   Nahi koi ye batata kahan gaye ammu
 # source_id: nohayonline:07b2325153a8acd31e29
 # source_url: https://www.nohayonline.com/details_content.php?id=1262
 # raw_sha256: ecf4e5fd8bfad62af8177af843a5b327525bb806a28366ee4040315fa23127c2
 ---
-
-۱
 بتاؤ اے بابا کہاں گےء عمو
 سکینہ کہتی تھی بابا کہاں گےء عمو
 نظر الم نہیں آتا کہاں گےء عمو
 
-۲
+۱
 میں اب نہ مانگوں گی پانی انہیں بلا لیجیے
 یہ کہیے روتی ہے دکھیا کہاں گےء عمو
 
-۳
+۲
 یہ کہہ گےء تھے کہ لے آؤں گا ابھی پانی
 وہ دیکھو سامنے دریا کہاں گےء عمو
 
-۴
+۳
 یہ مجھ سے کہتی ہے مادر تمہیں نے بھیجا ہے
 بلاؤ تم ہی سکینہ کہاں گےء عمو
 
-۵
+۴
 چلے جو شاہ تو رو کر سکینہ چلای
 ابھی تو فکر ہے بابا کہاں گےء عمو
 
-۶
+۵
 لعیں طمانچے دکھا کر مجھے ڈراتے ہیں
 یہ مجھ سے کہتے ہیں اعدا کہاں گےء عمو
 
-۷
+۶
 یہ کہتے کہتے وہ بے حوش ہوگےء انور
 نہیں کوئی یہ بتاتا کہاں گےء عمو

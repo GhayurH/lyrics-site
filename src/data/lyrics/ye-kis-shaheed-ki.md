@@ -10,48 +10,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye kis shaheed ki mayyat hussain laate hai
-  
-  1
   Zameen larazti hai aflaak thar tharate hai
+
+  1
   Padi hai bikhri hui tan pe sehre ki ladiyan
   Ye phool zakhmon ke tan pe sajaye aate hai
-  
+
   2
   Khadi hai dar pe jo maa peet'ti hui sar ko
   Dikhaye laashe ko kaise ye soche jaate hai
-  
+
   3
   Lipat ke laate hai chadar ke goshe may rakh kar
   Saron pe khaak baraati sabhi udaate hai
-  
+
   4
   Dulhan na aaye kahin shor e girya ko sun kar
   Jo baar baar abaa may isay chipaate hai
-  
+
   5
   Ye kaisi laash hai baandhi hui hai gathdi may
   Bata rahe hai kisi ko kabhi chipaate hai
-  
+
   6
   Utha ke laate hai shabbir laash dulha ki
   Laraz raha hai badan paon thar tharate hai
-  
+
   7
   Khade hai qaime ke dar par jo aake ahle haram
   Baraat dekh ke dulha ki rote jaate hai
-  
+
   8
   Macha hai qaimon may kohraam haye qasim ka
   Hussain laash se chadar ko ab hataate hai
-  
+
   9
   Le aayi laash pe baazu ko thaam kar maadar
   Dulhan ko dulha ka deedaar ab karaate hai
-  
+
   10
   Sajaye thay abhi sandal se maang haye ghazab
   Usi ko bewa ka ab pairahan pinhaate hai
-  
+
   11
   Saron pe khaak udao mujaab peeto sar
   Ye aisa gham hai ke is gham may khoon bahate hai
@@ -59,11 +59,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1776
 # raw_sha256: 9a09021f5c10ace24d09b77edfc0f5348d4fc73e46d8f050d622e2d1dfc95741
 ---
-
 یہ کس شہید کی میت حسین لاتے ہیں
+زمیں لرزتی ہے افلاک تھر تھراتے ہیں
 
 ۱
-زمیں لرزتی ہے افلاک تھر تھراتے ہیں
 پڑی ہے بکھری ہوی تن پہ سہرے کی لڑیاں
 یہ پھول زخموں کے تن پہ سجاے آتے ہیں
 

@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Marne ke liye jaata hai bhai tera zainab
-  
-  1
   Har simt se maajaya tera ghir gaya zainab
+
+  1
   Tum jaanti ho qaime mein ab koi nahi hai
   Abbas nahi qasim o akbar bhi nahi hai
   Baysheer ki mayyat bhi mai dafna chuka zainab
-  
+
   2
   Kis tarha sambhale dil e bechain ko laila
   Wo bhool nahi payegi akbar ka kaleja
   Uske dil e muztar ko bhi do hausla zainab
-  
+
   3
   Baysheer ki maa baithi hai jhoole ko sambhale
   Sab loriyan chup hogayi honton pe hai naale
   Chehre pe mere khoon hai baysheer ka zainab
-  
+
   4
   Ab sookhe galay par mere chal jayega khanjar
   Le jaan hai sajjad ko sholon se bacha kar
   Ab zulm ka andaaz badal jayega zainab
-  
+
   5
   Beenayi meri legaye sab ghar ke ujaale
   Ab khaak pe sote hai meri godh ke paale
   Ye dekhte hi dekhte kya hogaya zainab
-  
+
   6
   Hojayenge ab zulm ke andaaz niraale
   Jo reh gaye qaime mein wo hai tere hawale
   Ab farz ada karna hai abbas ka zainab
-  
+
   7
   Jal jayenge qaime to bikhar jayenge bacche
   Ek jaan tumhe karne hai ye asbeeh ke daane
   Maqtal mein nikalna hai tujhe berida zainab
-  
+
   8
   Aada meri bacchi pe bahot zulm karenge
   Mazlooma ko masooma ko maarenge tamache
   Hai sakht masayeb ka tumhe saamna zainab
-  
+
   9
   Bikhre huwe sab khoon bhare manzar hai nazar mein
   Rukta hi nahi fikr ka taa'er hai safar mein
@@ -61,11 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3538
 # raw_sha256: 7e40dfd92ae11ccec1d6d2524a26a7d606ed61cf91b2841b39552c49389103f3
 ---
-
 مرنے کے لئے جاتا ہے بھای تیرا زینب
+ہر سمت سے مانجایا تیرا گھر گیا زینب
 
 ۱
-ہر سمت سے مانجایا تیرا گھر گیا زینب
 تم جانتی ہو خیمے میں اب کوئی نہیں ہے
 عباس نہیں قاسم و اکبر بھی نہیں ہے
 بے شیر کی میت بھی میں دفنا چکا زینب
