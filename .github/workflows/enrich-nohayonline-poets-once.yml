@@ -1,0 +1,57 @@
+name: Add archived NoHayOnline Shayar names
+
+on:
+  push:
+    branches:
+      - feat/import-overlap-reconciliation-2026-11-05
+    paths:
+      - ".github/workflows/enrich-nohayonline-poets-once.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: enrich-nohayonline-poets
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python -m pip install pyyaml
+      - name: Add only source-verified Shayar credits
+        run: |
+          python .github/scripts/enrich_nohayonline_poets_once.py
+          python .github/scripts/enrich_nohayonline_poets_once.py --check
+          git diff --check
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+          cache: npm
+      - name: Validate content and production rendering
+        run: |
+          npm ci
+          npm run check
+          npm test
+          npx astro build
+      - name: Commit amended poems and remove one-off transfer artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u -- src/data/lyrics
+          git rm -r handoff/nohayonline-poets .github/scripts/enrich_nohayonline_poets_once.py .github/workflows/enrich-nohayonline-poets-once.yml
+          git diff --cached --check
+          git commit -m "Add verified NoHayOnline poet credits"
+          for attempt in 1 2 3; do
+            git fetch origin feat/import-overlap-reconciliation-2026-11-05
+            git rebase origin/feat/import-overlap-reconciliation-2026-11-05
+            if git push origin HEAD:feat/import-overlap-reconciliation-2026-11-05; then
+              exit 0
+            fi
+            if [ "$attempt" = 3 ]; then exit 1; fi
+          done
