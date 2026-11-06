@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Aajao asghar aajao
-  
-  1
   Ay mere asghar aajao
+
+  1
   Gham mein tumhare marti hoo
   Har dam aahein bharti hoo
   Ab to taras khao dilbar
@@ -73,9 +73,9 @@ romanLyrics: |-
 ---
 
 آجاؤ اصغر آجاؤ
+اے میرے اصغر آجاؤ
 
 ۱
-اے میرے اصغر آجاؤ
 غم‌ میں تمہارے مرتی ہوں
 ہر دم آہیں بھرتی ہوں
 اب تو ترس کھاؤ دلبر

@@ -10,9 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Gham ki chaayi hai ghata aansu bahalo momino
   Aagaya maahe aza aansu bahalo momino
+
+  1
   Haye darya ki tarayi par jari abbas ka
   Zulm se baazu kata aansu bahalo momino
   
@@ -44,9 +45,10 @@ romanLyrics: |-
 # raw_sha256: 8e0850c1a35c0c6bea67a1499d9f6a433e1cfc8b47e50ef7d2e87d92ee94526d
 ---
 
-۱
 غم کی چھای ہے گھٹا آنسوں بہالو مومنوں
 آگیا ماہ عزا آنسوں بہالو مومنوں
+
+1
 ہاے دریا کی ترای پر جری عباس کا
 ظلم سے بازو کٹا آنسوں بہالو مومنوں
 

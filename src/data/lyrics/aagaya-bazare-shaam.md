@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Aa gaya bazare shaam aa gaya bazare shaam
-  
-  1
   Bibiyon mein hai koraam aa gaya bazare shaam
+
+  1
   Sang ki barsaat hai kehkahe hai char soo
   Be rida hai bibiyan sar se behta hai lahoo
   Has rahe hai ahle shaam aa gaya bazare shaam
@@ -63,9 +63,9 @@ romanLyrics: |-
 ---
 
 آ گیا بازار شام آ گیا بازار شام
+بی بیوں میں ہے کہرام آ گیا بازار شام
 
 ۱
-بی بیوں میں ہے کہرام آ گیا بازار شام
 سنگ کی برسات ہے قہقہے ہیں چار سوں
 بے ردا ہے بی بیاں سر سے بہتا ہے لہو
 ہنس رہے ہیں اہلِ شام آ گیا بازار شام

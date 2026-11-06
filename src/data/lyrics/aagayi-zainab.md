@@ -10,10 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
-  Haye bazaar e shaam
   Aagayi zainab khule sar shaam ke bazaar mein
   Raah mein khayegi pathar jayegi darbar mein
+
+  1
   Tik ke baithe honge abid haye jis deewar se
   Bad gayi hogi daraarein haye us deewar mein
   
@@ -49,10 +49,10 @@ romanLyrics: |-
 # raw_sha256: 8497f12ec76dd283c2522b7bedda19c5c4ef04edcc2281d1fc69defb591897cf
 ---
 
-۱
-ہاے بازار شام
 آ‌ گیء زینب کھلے سر شام کے بازار میں
 راہ میں کھاے گی پتھر جاے گی دربار میں
+
+۱
 ٹک کے بیٹھے ہوں گے عابد ہاے جس دیوار سے
 بد گیء ہونگی دراریں ہاے اس دیوار میں
 

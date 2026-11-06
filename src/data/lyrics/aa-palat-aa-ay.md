@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghaib se aayi sada aa palat aa ay hussain
-  
-  1
   Tujhse raazi hai khuda aa palat aa ay hussain
+
+  1
   Asre ashoor ka hangaam qayamat ka samaan
   Dhoop mein jalti hui rayt se uth'ta hai dhuaan
   Bhook aur pyasa ka maara hai har ek peer o jawan
@@ -74,9 +74,9 @@ romanLyrics: |-
 ---
 
 غیب سے آی صدا آ پلٹ آ اے حسین
+تجھ سے راضی ہے خدا آ پلٹ آ اے حسین
 
 ۱
-تجھ سے راضی ہے خدا آ پلٹ آ اے حسین
 عصر عاشور کا ہنگام قیامت کا سماں
 دھوپ میں جلتی ہوئی ریت سے اٹھتا ہے دھواں
 بھوک اور پیاس کا مارا ہے ہر پیر و جواں

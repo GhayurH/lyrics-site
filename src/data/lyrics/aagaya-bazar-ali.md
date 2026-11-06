@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Aa gaya bazaar ali akbaram
-  
-  1
   Ghash mein hai bemaar ali akbaram
+
+  1
   Ashk bahaale ye maa sadqa nikale ye maa
   Tum ko sajale ye maa dulha banale ye maa
   Aao jo ek baar ali akbaram
@@ -63,9 +63,9 @@ romanLyrics: |-
 ---
 
 آ گیا بازار علی اکبرم
+غش میں ہے بیمار علی اکبرم
 
 ۱
-غش میں ہے بیمار علی اکبرم
 اشک بہالے یہ ماں صدقہ نکالے یہ ماں
 تم کو سجا لے یہ ماں ماں دولہا بنا لے یہ ماں
 آؤ جو ایک بار علی اکبرم

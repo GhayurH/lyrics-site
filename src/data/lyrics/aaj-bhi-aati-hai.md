@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaj bhi aati hai zehra ki baqayye se sada
-  
-  1
   Baad baba ke kiye ummat ne kya jor o jafa
+
+  1
   Kaise wo ghurbat ka manzar bhool paaungi bhala
   Taqt pe baitha tha zaalim aur kahdi thi fatema
   Sayyeda ko bar sare darbar jhutlaya gaya
@@ -48,9 +48,9 @@ romanLyrics: |-
 ---
 
 آج بھی آتی ہے زہرا کی بقیہ سے ‌صدا
+بعد بابا کے کیےء امت نے کیا جور و جفا
 
 ۱
-بعد بابا کے کیےء امت نے کیا جور و جفا
 کیسے وہ غربت کا منظر بھول پاؤں گی بھلا
 تخت پہ بیٹھا تھا ظالم اور کھڑی تھی فاطمہ
 سیدہ کو بر سرِ دربار جھٹلایا گیا

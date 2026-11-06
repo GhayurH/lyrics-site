@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Aagayi shaam e ghariban kahan jaaye zainab
-  
-  1
   Hua sunsaan bayaban kahan jaaye zainab
+
+  1
   Sura e hamd ki tamheed jise thaame hai
   Ye wo daaman hai ke tauheed jise thaame hai
   Jal raha hai wohi daaman kahan jaaye zainab
@@ -48,9 +48,9 @@ romanLyrics: |-
 ---
 
 آگیء شام غریباں کہاں جاے زینب
+ہوا سنساں بیاباں کہاں جاے زینب
 
 ۱
-ہوا سنساں بیاباں کہاں جاے زینب
 سورہء حمد کی تمہید جسے تھامے ہے
 یہ وہ دامن ہے کہ توحید جسے تھامے ہے
 جل رہا ہے وہی دامن کہاں جاے زینب

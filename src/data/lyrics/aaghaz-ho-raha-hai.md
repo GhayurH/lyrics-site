@@ -1,6 +1,6 @@
 ---
-title: لوگوں یہ جنازہ ہے اسلام کے بانی کا
-alternateTitle: Aaghaz Ho Raha Hai
+title: "آغاز ہو رہا ہے کربل کی کہانی کا"
+alternateTitle: "Aaghaz Ho Raha Hai Karbal ki kahani ka"
 language: Urdu
 lang: ur
 direction: rtl
@@ -9,44 +9,29 @@ poet: "Mushtaq Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Aghaaz hoo raha hai Karbal ki kahani ka
-
+romanLyrics: |-
+  Aghaaz ho raha hai Karbal ki kahani ka
   Logo yeh janaza hai islam ke bani ka
 
-
   1
-
-  1. Bibi ne kaha baba Karbal me chale aana
-
+  Bibi ne kaha baba Karbal me chale aana
   Manzar mai dikhaaongi Akbar ki jawani ka
 
-
   2
-
-  2. Kat jaaenge bazoo bhi Abbas-e-baawafa ke
-
+  Kat jaaenge bazoo bhi Abbas-e-baawafa ke
   Teeron se hoga chalni mashkiza wo pani ka
 
-
   3
-
-  3. Bikhrega Karbala me Kasim ke sar ka sehra
-
+  Bikhrega Karbala me Kasim ke sar ka sehra
   Khushiya samet lega alam woh viraani ka
 
-
   4
-
-  4. Rote the farishte bhi ta arzo-sama larzaa
-
+  Rote the farishte bhi ta arzo-sama larzaa
   Taaboot uth raha hai Imraan ke jaani ka
 
-
   5
-
-  5. Ta hashra mere maula mushtaq raho tera
-
-  Mil jaae sharaf mujko bas teri gulami ka'
+  Ta hashr mere maula mushtaq rahun tera
+  Mil jaae sharaf mujko bas teri gulami ka
 reciter: Hasan Sadiq
 # source_id: nohayonline:bebf4c09ff8d3e94b4f0
 # source_url: https://www.nohayonline.com/details_content.php?id=2216
@@ -56,10 +41,10 @@ reciter: Hasan Sadiq
 # raw_sha256: 0d3eada2afda7856e71039bc94bb9a116d8d58e0917f9af503c882daf8e7a6ac
 ---
 
+آغاز ہو رہا ہے کربل کی کہانی کا
 لوگوں یہ جنازہ ہے اسلام کے بانی کا
 
 ۱
-آغاز ہو رہا ہے کـربل کی کہـانی کا
 بی بی نے کہا بابا کربل میں چلے آنا
 منظر میں دکھاؤں گی اکبر کی جوانی کا
 

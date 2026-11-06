@@ -5,38 +5,57 @@ lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Not Available"
-tags: ["noImage", "noUrdu"]
+poet: "Asghar Ali Asghar"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Aa dasaan wan shaan tekon Mustafa de veer da
+  Khud Khuda parhda e qaseeda mede Mola Ameer da
+
+  1
+  Tere saare hin Saqeefi, mede saare hin Wali
+  Naa hai koi saani jug te, mede Haider Peer da
+
+  2
+  Men haan jenhen jenhen da vi Mola, aonda Mola hai Ali
+  Aa tekon men parh sunawan, khutba Nabvi Ghadeer da
+
+  3
+  Ak farman hai Nabi da mede Mola de kity
+  Hai ibadat chehra dekhan, een Khuda de Sher da
+
+  4
+  Sada Mola sada Haadi sada Waris hai Ali
+  Tede peeraan da vi Peer hai, Baba Shabar Shabeer da
+  
+  5
+  Main haan nokar aonda Asghar, jo hai Khaliq da Wali
+  Mekon milda e een jahan te, sadqa Khaibar Geer da
 # source_id: ziyaraat:f5f556ae3cec79b95abd
 # source_url: https://www.ziyaraat.net/api/noha/2717
 # raw_sha256: c1d7dd08dc36497414b0939ab4467b112c4fbfa4b96a9f9a59fc480b0081e27f
 ---
 
-AA DASAAN WAN SHAAN TEKON MUSTAFA DE VEER DA
+آ دساں واں شان تیکوں مصطفیٰ دے ویر دا  
+خود خدا پڑھدا اے قصیدہ میڈے مولا امیر دا
 
-1
-KHUD KHUDA PATHDA E QASEEDA MEDE MOLA AMEER DA
+۱
+تیرے سارے ہِن سقیفی، میڈے سارے ہِن ولی  
+ناں ہے کوئی ثانی جگ تے، میڈے حیدر پیر دا
 
-2
-1: TERE SAARE HIN SAQEEFI MEDE SAARE HIN WALI
-NAA HAI KOI SAANI JUG TEY, MEDE HAIDER PEER DA
+۲
+میں ہاں جنہن جنہن دا وی مولا، اوندا مولا ہے علیؑ  
+آ تیکوں میں پڑھ سناواں، خطبہ نبوی غدیر دا
 
-3
-2: MEN HAAN JENHEN JENHEN DA VI MOLA AONDA MOLA HAI ALI A.S
-AA TEKON MEN PARH SUNAWAN, KHUTUBA NABVI GHADEER DA
+۳
+اک فرمان ہے نبی دا میڈے مولا دے کیتے  
+ہے عبادت چہرہ دیکھن، ایں خدا دے شیر دا
 
-4
-3: PAK FARMAN HAI NABI DA MEDE MOLA DE KITY
-HAI IBADAT CHEHRA DEKHAN, EEN KHUDA DE SHAIR DA
+۴
+ساڈا مولا ساڈا ہادی ساڈا وارث ہے علیؑ  
+تیڈے پیراں دا وی پیر ہے، بابا شبر شبیر دا
 
-5
-4: SADA MOLA SADA HAADI SADA WARIS HAI ALI A.S
-TEDE PEERAAN DA VI PEER HAI, BAA BAA SHABAR SHABEER DA
-
-6
-5: MAIN HAAN NOKAR AONDA ASGHAR JO HAI KHALIQ DA WALI
-MEKON MILDAAE EEN JAHAN TE, SADQA KHAIBAR GHEER DA
-
-7
-TALIB DUA, ZAWAR ASGHAR ALI ASGHAR
+۵
+میں ہاں نوکر اوندا اصغر، جو ہے خالق دا ولی  
+میکوں ملدا اے ایں جہان تے، صدقہ خیبر گیر دا

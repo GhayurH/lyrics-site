@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Aagayi shaam ki nagri may khule sar zainab
-  
-  1
   Maangti reh gayi ek ek se chadar zainab
+
+  1
   Is liye zaalimon ne aur bhi pathar maare
   Jaante thay ke hai abbas ki khaahar zainab
   
@@ -50,9 +50,9 @@ romanLyrics: |-
 ---
 
 آگیء شام کی نگری میں کھلے سر زینب
+مانگتی رہ گیء اک ایک سے چادر زینب
 
 ۱
-مانگتی رہ گیء اک ایک سے چادر زینب
 اس لےء ظالموں نے اور بھی پتھر مارے
 جانتے تھے کہ ہے عباس کی خواہر زینب
 

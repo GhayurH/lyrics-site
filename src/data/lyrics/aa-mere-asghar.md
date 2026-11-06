@@ -10,9 +10,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Aa mere asghar aa mere asghar
-  
-  1
   Jhoola jhulaun lori sunaun aa mere asghar
+
+  1
   Teri judaai maar gayi hai
   Maa ki umeedein toot gayi hai
   Tujhko jo paaun dil se lagaun
@@ -52,9 +52,9 @@ romanLyrics: |-
 ---
 
 آ میرے اصغر آ میرے اصغر
+جھولا جھلاوں لوری سناؤں آے میرے اصغر
 
 ۱
-جھولا جھلاوں لوری سناؤں آے میرے اصغر
 تیری جدائی مار گیء ہے
 ماں کی امیدیں ٹوٹ گیء ہے
 تجھکو جو پاؤں دل سے لگاؤں

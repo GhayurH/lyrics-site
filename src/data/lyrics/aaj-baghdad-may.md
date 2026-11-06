@@ -11,49 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaj baghdad may koi qaidi
-  
-  1
   Hogaya hai reha raza maula
+
   Pul pe tere ghareeb baba ka
   Hai jazana rakha raza maula
   
-  2
+  1
   Ek bibi sarhane baithi hai
   Kisne jaane usay khabar ki hai
   Haath pehlu pe apne rakhe huwe
   Aayi hai fatema raza maula
   
-  3
+  2
   Raat se pul pe laasha rakha hai
   Jo guzarta hai ispe hasta hai
   Bebasi par tumhare baba ki
   Ro rahi hai qaza raza maula
   
-  4
+  3
   Haal ache nahi hai mayyat ke
   Aaja ejaaz se imamat ke
   Shehr e baghdad se madine ka
   Hai bahot faasla raza maula
   
-  5
+  4
   Ek manadi nida ye deta hai
   Raafziyon ka maula maara gaya
   Aaj aulaad par mohamed ki
   Waqt kya aagaya raza maula
   
-  6
+  5
   Kabhi dadi ko yaad karta tha
   Kabhi beti ko yaad karta tha
   Waqt e aakhir tha uske honton par
   Fatema fatema raza maula
   
-  7
+  6
   Qaid khane se pul talak isko
   Chand mazdoor leke aaye hai
   Aediyon ke nishan ghurbat ka
   De rahe hai pata raza maula
   
-  8
+  7
   Tauq gardan ka paon ki bedi
   Ye takallum sadayein dete hai
   Inna lilaah padh ke baba ka
@@ -64,49 +63,48 @@ romanLyrics: |-
 ---
 
 آج بغداد میں کوئی قیدی
-
-۱
 ہوگیا ہے رہا رضا مولا
+
 پل پہ تیرے غریب بابا کا
 ہے جنازہ رکھا رضا مولا
 
-۲
+۱
 ایک بی بی سرہانے بیٹھی ہے
 کس نے جانے اسے خبر کی ہے
 ہاتھ پہلو پہ اپنے رکھے ہوے
 آی ہے فاطمہ رضا مولا
 
-۳
+۲
 رات سے پل پہ لاشہ رکھا ہے
 جو گزرتا ہے اس پہ ہنستا ہے
 بے بسی پر تمہارے بابا کی
 رو رہی ہے قضا رضا مولا
 
-۴
+۳
 حال اچھے نہیں ہے میت کے
 آجا اعجاز سے امامت کے
 شہر بغداد سے مدینے کا
 ہے بہت فاصلہ رضا مولا
 
-۵
+۴
 اک منادی ندا یہ دیتا ہے
 رافضیوں کا مولا مارا گیا
 آج اولاد پر محمد کی
 وقت کیا آگیا رضا مولا
 
-۶
+۵
 کبھی دادی کو یاد کرتا تھا
 کبھی بیٹی کو یاد کرتا تھا
 وقتِ آخر تھا اس کے ہونٹوں پر
 فاطمہ فاطمہ رضا مولا
 
-۷
+۶
 قید خانے سے پل تلک اس کو
 چند مزدور لے کے آے ہیں
 ایڑیوں کے نشان غربت کا
 دے رہے ہیں پتا رضا مولا
 
-۸
+۷
 طوق گردن کا پاؤں کی بیڑی
 یہ تکلم صدایں دیتے ہیں
 انا للہ پڑھکے بابا کا
