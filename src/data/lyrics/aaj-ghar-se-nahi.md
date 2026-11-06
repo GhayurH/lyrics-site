@@ -33,35 +33,35 @@ romanLyrics: |-
   Jaise darbar ko maa gayi thi
   Waasta hai tumhe sayyeda ka
 
-  2
+  3
   Kal se kufe mein hai khauf phaila
   Shakhs dekha gaya ek aisa
   Zehar mein doobi talwaar thaame
   Wo bhi masjid ki jaanib gaya tha
   Ilteja sun lo meri khudara
   
-  3
+  4
   Jaanti hoon mai ye baade zahra
   Ghar mein lagta nahi dil tumhara
   Aaj ke roz bas reh lo ghar mein
   Saani e fatema hoon mai baba
   Meri chadar ko kar lo musalla
 
-  4
+  5
   Kya bataun tumhe dil ki haalat
   Toot jayegi hum par qayamat
   Jab se maa se juda hogaye hai
   Hai nahi gham ko sehne ki himmat
   Dekh sakte nahi hum janaza
 
-  5
+  6
   Tum to khud jaante ho na baba
   Bewafa hai ye saara hi kufa
   Ye to pursa bhi hum ko na denge
   Fitraton mein hai inki madina
   Jaane kyun khinch raha hai kaleja
 
-  6
+  7
   Raasta roka murghabiyon ne
   Haath jode hai khud betiyon ne
   Phir bhi masjid ki jaanib badhe wo
