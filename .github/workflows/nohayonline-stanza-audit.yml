@@ -1,69 +1,49 @@
-name: Audit NoHayOnline stanza segmentation
+name: Repair NoHayOnline stanza structure
 on:
   push:
     branches: [feat/import-overlap-reconciliation-2026-11-05]
     paths: [.github/workflows/nohayonline-stanza-audit.yml]
-  workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
+concurrency:
+  group: nohayonline-stanza-repair-2026-11-06
+  cancel-in-progress: false
 jobs:
-  audit:
+  repair:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v7
       - run: python -m pip install pyyaml
-      - name: Audit NoHayOnline lyrics
+      - name: Apply conservative editorial stanza fixes
+        run: python .github/scripts/repair_nohayonline_once.py
+      - name: Verify diff
+        run: git diff --check
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Validate content and build site
+        run: |
+          npm run check
+          npm run build
+      - name: Save cases needing individual review
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: nohayonline-stanza-review
+          path: nohayonline-stanza-review.txt
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Commit the fixes without one-time scripts
         shell: bash
         run: |
-          python - <<'PY'
-          import re, collections, pathlib, yaml
-          folder=pathlib.Path('src/data/lyrics')
-          marker=re.compile(r'^\s*[0-9۰-۹٠-٩]+[.)]?\s*$')
-          stats=collections.Counter()
-          cases=[]
-          def breaks(s):
-              blocks=[[]]
-              numbers=[]
-              for line in s.splitlines():
-                  q=line.strip()
-                  if marker.fullmatch(q):
-                      numbers.append(q)
-                      blocks.append([])
-                  elif q:
-                      blocks[-1].append(q)
-              return numbers,blocks
-          for path in sorted(folder.glob('*.md')):
-              raw=path.read_text()
-              if '# source_id: nohayonline:' not in raw: continue
-              stats['nohayonline_files']+=1
-              try:
-                  first,urdu=raw[4:].split('\n---\n',1)
-                  data=yaml.safe_load(first)
-                  roman=data.get('romanLyrics') or ''
-              except Exception as e:
-                  stats['parse_failure']+=1
-                  if len(cases)<15: cases.append((path.name,'parse_failure',str(e)))
-                  continue
-              a,b=breaks(roman)
-              c,d=breaks(urdu)
-              stats['roman_present' if a or roman.strip() else 'roman_absent']+=1
-              stats['roman_urdu_markers_equal' if a==c else 'roman_urdu_markers_differ']+=1
-              if len(b[0])==0 and a: stats['roman_first_number']+=1
-              if len(d[0])==0 and c: stats['urdu_first_number']+=1
-              if a and b[0]: stats['roman_has_intro']+=1
-              if c and d[0]: stats['urdu_has_intro']+=1
-              if a and len(a)!=len(set(a)): stats['duplicated_numbers_roman']+=1
-              if a and (min(map(len,b[1:])) if b[1:] else 0)<2: stats['short_roman_stanzas']+=1
-              if a and len([x for x in b[1:] if len(x) in (1,2)])>=4: stats['many_short_roman_stanzas']+=1
-              if a and len([x for x in b[1:] if len(x)>8])>=1: stats['long_roman_stanzas']+=1
-              if len(a)>4 and len(a)>=len([x for x in b if len(x)])*0.8: stats['many_number_markers']+=1
-              if not a and not c: stats['unnumbered_both']+=1
-              if len(a) != len(c): stats['marker_count_differs']+=1
-              if any('...' in x or '۔۔۔' in x for bl in b for x in bl): stats['roman_ellipsis']+=1
-              if a and b[0]==[] and len(a)>=7 or len(a)!=len(c) or (a and len([x for x in b[1:] if len(x)<=2])>=4):
-                  score=(len(a)-len(c))*4 + sum(1 for x in b[1:] if len(x)<=2)
-                  cases.append((path.name, len(a),len(c), [len(x) for x in b[:18]], [len(x) for x in d[:18]],score))
-          print('SUMMARY',dict(stats))
-          print('SUSPICIOUS',len(cases))
-          for c in sorted(cases,key=lambda c:abs(c[-1]) if isinstance(c[-1],int) else 0,reverse=True)[:90]: print('CASE',c)
-          PY
+          set -euo pipefail
+          git rm -- .github/workflows/nohayonline-stanza-audit.yml .github/scripts/repair_nohayonline_once.py
+          git add -- src/data/lyrics/
+          git diff --cached --check
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Repair NoHayOnline stanza boundaries"
+          git push origin HEAD:refs/heads/feat/import-overlap-reconciliation-2026-11-05
