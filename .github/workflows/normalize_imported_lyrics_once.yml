@@ -1,0 +1,58 @@
+name: Normalize imported lyric tags and line punctuation
+
+on:
+  push:
+    branches:
+      - feat/import-overlap-reconciliation-2026-11-05
+    paths:
+      - ".github/workflows/normalize_imported_lyrics_once.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: imported-lyric-normalization-2026-11-06
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python -m pip install pyyaml
+      - name: Normalize only unpublished sourced imports
+        run: |
+          python .github/scripts/normalize_imported_lyrics_once.py
+          python .github/scripts/normalize_imported_lyrics_once.py --check
+          git diff --check
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+          cache: npm
+      - name: Validate Astro, source checks, and build
+        run: |
+          npm ci
+          npm run check
+          npm run build
+      - name: Commit changes and remove one-time tooling
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u -- src/data/lyrics
+          git rm .github/scripts/normalize_imported_lyrics_once.py .github/workflows/normalize_imported_lyrics_once.yml
+          git diff --cached --check
+          git commit -m "Normalize imported lyric language tags and verse punctuation"
+          for attempt in 1 2 3; do
+            git fetch origin feat/import-overlap-reconciliation-2026-11-05
+            git rebase origin/feat/import-overlap-reconciliation-2026-11-05
+            if git push origin HEAD:feat/import-overlap-reconciliation-2026-11-05; then
+              exit 0
+            fi
+            if [ "$attempt" = 3 ]; then
+              exit 1
+            fi
+          done
