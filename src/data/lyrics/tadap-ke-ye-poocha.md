@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Raza Ali Khan Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false

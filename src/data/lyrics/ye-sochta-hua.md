@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mubarak Jalalpuri"
 tags: ["noImage"]
 aliases: []
 published: false

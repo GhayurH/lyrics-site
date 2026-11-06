@@ -5,6 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+poet: "Munshi Channulal"
 tags: ["noImage"]
 aliases: []
 published: false

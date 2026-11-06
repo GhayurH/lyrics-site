@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Zain Raza Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false

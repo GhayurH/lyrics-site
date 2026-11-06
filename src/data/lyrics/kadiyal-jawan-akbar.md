@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Gauhar Pakistani"
 tags: ["noImage"]
 aliases: []
 published: false

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Aale Raza"
 tags: ["noImage"]
 aliases: []
 published: false

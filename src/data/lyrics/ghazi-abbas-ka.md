@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Alamdar Saahil"
 tags: ["noImage"]
 aliases: []
 published: false

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Arif Sahab"
 tags: ["noImage"]
 aliases: []
 published: false

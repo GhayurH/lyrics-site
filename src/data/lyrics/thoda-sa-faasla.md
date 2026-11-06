@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Salman Azmi"
 tags: ["noImage"]
 aliases: []
 published: false

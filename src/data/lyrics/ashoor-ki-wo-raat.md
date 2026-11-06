@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Kazim Banarsi"
 tags: ["noImage"]
 aliases: []
 published: false

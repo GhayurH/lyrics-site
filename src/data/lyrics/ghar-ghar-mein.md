@@ -5,6 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+poet: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Sahir Faizabadi"
 tags: ["noImage"]
 aliases: []
 published: false

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Hasan Abbas Ahsan"
 tags: ["noImage"]
 aliases: []
 published: false

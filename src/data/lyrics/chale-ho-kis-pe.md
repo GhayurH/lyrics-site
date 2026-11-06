@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Hashim Raza"
 tags: ["noImage"]
 aliases: []
 published: false

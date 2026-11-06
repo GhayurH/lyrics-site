@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Qais Zangipuri"
 tags: ["noImage"]
 aliases: []
 published: false

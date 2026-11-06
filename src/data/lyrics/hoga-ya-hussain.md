@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Nadeem Sarwar, Jawad Jaffri & Hilal Naqvi"
 tags: ["noImage"]
 aliases: []
 published: false

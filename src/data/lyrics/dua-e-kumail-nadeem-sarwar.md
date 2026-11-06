@@ -4,6 +4,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Dua
+poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false

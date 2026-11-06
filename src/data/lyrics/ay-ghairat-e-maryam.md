@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Sada e Gham"
 tags: ["noImage"]
 aliases: []
 published: false

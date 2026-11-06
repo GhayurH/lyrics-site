@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Tauseef"
 tags: ["noImage"]
 aliases: []
 published: false

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Nadeem"
 tags: ["noImage"]
 aliases: []
 published: false

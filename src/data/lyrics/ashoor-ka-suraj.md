@@ -5,6 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+poet: "Mirza Murtaza Ali"
 tags: ["noImage"]
 aliases: []
 published: false

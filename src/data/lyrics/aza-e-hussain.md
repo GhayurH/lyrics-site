@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Musadiq Lakhani"
 tags: ["noImage"]
 aliases: []
 published: false

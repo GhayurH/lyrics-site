@@ -5,6 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+poet: "Hyder"
 tags: ["noImage"]
 aliases: []
 published: false

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Azam Hussain"
 tags: ["noImage"]
 aliases: []
 published: false

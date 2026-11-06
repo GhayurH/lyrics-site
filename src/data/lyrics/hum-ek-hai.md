@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Zeeshan Abidi, Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false

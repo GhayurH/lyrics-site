@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "N. Sarwar, J. Jaffri & H. Naqvi"
 tags: ["noImage"]
 aliases: []
 published: false

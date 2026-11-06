@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Sadat Ali Khan"
 tags: ["noImage"]
 aliases: []
 published: false

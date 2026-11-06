@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Hassan & Najam Abbas"
 tags: ["noImage"]
 aliases: []
 published: false

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Kausar Naqvi"
 tags: ["noImage"]
 aliases: []
 published: false

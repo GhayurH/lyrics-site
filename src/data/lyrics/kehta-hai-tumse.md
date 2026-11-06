@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mir Taha Istefa"
 tags: ["noImage"]
 aliases: []
 published: false

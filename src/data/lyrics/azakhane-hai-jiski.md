@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Nayab Balyavi"
 tags: ["noImage"]
 aliases: []
 published: false

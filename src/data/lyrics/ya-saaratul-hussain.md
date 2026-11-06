@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false

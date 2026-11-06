@@ -5,6 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+poet: "Syed Ramish Ul Hassan"
 tags: ["noImage"]
 aliases: []
 published: false

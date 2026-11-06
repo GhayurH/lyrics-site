@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "N. Sarwar, R. Azmi & M. Qasemi"
 tags: ["noImage"]
 aliases: []
 published: false

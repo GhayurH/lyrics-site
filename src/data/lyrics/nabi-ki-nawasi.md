@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Qurban Jaffri"
 tags: ["noImage"]
 aliases: []
 published: false

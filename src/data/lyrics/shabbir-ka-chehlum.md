@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Agha Ali Hussain"
 tags: ["noImage"]
 aliases: []
 published: false

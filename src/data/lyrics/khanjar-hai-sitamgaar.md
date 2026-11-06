@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Parvez"
 tags: ["noImage"]
 aliases: []
 published: false

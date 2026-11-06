@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Hilal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false

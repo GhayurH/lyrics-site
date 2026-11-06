@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Ahmed Naved"
 tags: ["noImage"]
 aliases: []
 published: false

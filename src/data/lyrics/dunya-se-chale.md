@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Jawad Jafri"
 tags: ["noImage"]
 aliases: []
 published: false

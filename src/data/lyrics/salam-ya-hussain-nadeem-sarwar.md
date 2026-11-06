@@ -4,6 +4,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Salam
+poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false

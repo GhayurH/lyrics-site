@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "N. Sarwar, H. Naqvi & Z. Abbas"
 tags: ["noImage"]
 aliases: []
 published: false

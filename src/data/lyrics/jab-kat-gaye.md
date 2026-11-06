@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Sajida Jamal Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false

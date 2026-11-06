@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Ali Hamid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false

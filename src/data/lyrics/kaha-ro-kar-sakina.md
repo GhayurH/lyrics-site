@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Ashhar Mehdi"
 tags: ["noImage"]
 aliases: []
 published: false
