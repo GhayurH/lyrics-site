@@ -10,51 +10,60 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haram ko kushta e khanjar ki yaad aayegi
   Watan ko ho ke bhare ghar ki yaad aayegi
+
+  1
   Nazar padi jo kabhi maa ki adh khile gul par
   Tabassum e ali asghar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  2
   Sula ke qabr mein baysheer ko na jao rabab
   Khulegi neend to maadar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  3
   Rabab baali sakina ko royegi din bhar
   Andheri raat mein asghar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  4
   Uthegi koyi bhi mayyat jab ehtemam ke saath
   Behen ko laasha e sarwar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  5
   Madina kaamp uthega behen ke naalon se
   Watan mein jab bhi biradar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  6
   Sar e hussain se ro kar kaha sakina ne
   Tumhe bhi kya kabhi dukhtar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  7
   Behen ko aakhri rukhsat mein dekh lo shabbir
   Gala katega to khwahar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  8
   Rida chinegi to yaad aayega furaat ka sher
   Rasan bandhegi to akbar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  9
   Na jao ganje shaheedan ki simt ay zainab
   Base basaye huwe ghar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  10
   Chalega dasht se jab khafila aseeron ka
   Qadam qadam pe bhare ghar ki yaad aayegi
-  Haram ko kushtae khanjar...
+
+  11
   Suroor rok di jayegi pursishe ehwaal
   Lehed mein jab ghame sarwar ki yaad aayegi
-  Haram ko kushtae khanjar...
 # source_id: nohayonline:0cb8bdf73fc1741a9288
 # source_url: https://www.nohayonline.com/details_content.php?id=3728
 # raw_sha256: acdb94f1e6eb8d71e848b9ff24dbf0d8292a4e4d63bba1c53d6474aef3403c46
 ---
-
 حرم کو کشتۂ خنجر کی یاد آے گی
+وطن کو ہو کہ بھرے گھر کی یاد آے گی
 
 ۱
-وطن کو ہو کہ بھرے گھر کی یاد آے گی
 نظر پڑی جو کبھی ماں کی اڑ کھلے گل پر
 تبسم علی اصغر کی یاد آے گی
 

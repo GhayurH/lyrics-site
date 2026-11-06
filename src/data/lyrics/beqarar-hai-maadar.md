@@ -10,45 +10,52 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Beqarar hai maadar haye jal gaya jhoola
   Haye jal gaya jhoola haye jal gaya jhoola
+
+  1
   Uski yaad jab aati dekh kar sukoon paati
   Sabr aayega kyun kar haye jal gaya jhoola
-  Beqaraar hai maadar...
+
+  2
   Godh ho gayi khaali qatl ho gaya waali
   Kis se mai kahun jaa kar haye jal gaya jhoola
-  Beqaraar hai maadar...
+
+  3
   Khoon ban ke sadmon se beh raha hai aankhon se
   Dil pe chal gaya khanjar haye jal gaya jhoola
-  Beqaraar hai maadar...
+
+  4
   Kis qadar hai sannata kuch nazar nahi aata
   Hai dhuaan dhuaan manzar haye jal gaya jhoola
-  Beqaraar hai maadar...
+
+  5
   Maa ke dil se aankhon tak jiski raakh phaili hai
   Wo nishani e asghar haye jal gaya jhoola
-  Beqaraar hai maadar...
+
+  6
   Pehla zakhm ye khaaya wo na laut kar aaya
   Doosra laga nashtar haye jal gaya jhoola
-  Beqaraar hai maadar...
+
+  7
   Kaise din guzarungi bas yehi pukarungi
   Khaak ho gaya bistar haye jal gaya jhoola
-  Beqaraar hai maadar...
+
+  8
   Bhoolna hai na-mumkin yaad aayega har din
   Kaise dil karun patthar haye jal gaya jhoola
-  Beqaraar hai maadar...
+
+  9
   Ay suroor wo muztar bezuban ki turbat par
   Keh rahi thi ro ro kar haye jal gaya jhoola
-  Beqaraar hai maadar...
 # source_id: nohayonline:ef0764ae999c58a16945
 # source_url: https://www.nohayonline.com/details_content.php?id=3727
 # raw_sha256: 0e5601faa539309edb59976fb8c8ff3c7d2a49f8c5984a271054c94b5381f429
 ---
-
 بیقرار ہے مادر ہاے جل گیا جھولا
+ہاے جل گیا جھولا ہاے جل گیا جھولا
 
 ۱
-ہاے جل گیا جھولا ہاے جل گیا جھولا
 اس کی یاد جب آتی دیکھ کر سکوں پاتی
 صبر آے گا کیوں کر ہاے جل گیا جھولا
 

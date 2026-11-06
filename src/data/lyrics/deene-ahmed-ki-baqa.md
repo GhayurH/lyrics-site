@@ -10,93 +10,106 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Deen e ahmed ki baqa hai karbala
   Sajdagaah e ambiya hai karbala
+
+  1
   Zulm ki aandhi mein haq ki justju
   Tashnagi karti hai zakhmon se wuzu
   Sabr ke bande ki rab se guftugu
   Hashr tak haq ki sada hai karbala
-  Deene ahmed ki baqa...
+
+  2
   In fazaon mein hai akbar ki azaan
   Karbala haq ka hai aisa kaarwan
   Aaj tak qaayam hai jiska paasban
   Noor ka ek silsila hai karbala
-  Deene ahmed ki baqa...
+
+  3
   Tashnagi ke khoon ki tehreer hai
   Karbala quran ki tafseer hai
   Karbala islam ki taqdeer hai
   Haq ka ek roshan diya hai karbala
-  Deene ahmed ki baqa...
+
+  4
   Karbala ehsaas ki pehchaan hai
   Karbala ka deen par ehsaan hai
   Karbala har rukh se aalishaan hai
   Fikr ki hadh se siwa hai karbala
-  Deene ahmed ki baqa...
+
+  5
   Dil hai karbal mutmain ahle yaqeen
   Is se behtar sar zameen koi nahi
   Jhukti hai yan aasmaano ki jabeen
   Har bulandi ka pata hai karbala
-  Deene ahmed ki baqa...
+
+  6
   Fakhr jab kaabe ki dharti ne kiya
   Daf’atan ye arsh se aayi sada
   Hai kahan tujh mein bhala khaak e shifa
   Tujhse rutbe mein siwa hai karbala
-  Deene ahmed ki baqa...
+
+  7
   Hai kahan is khaak ka naimul badal
   Pyaas ki dharti pa ashkon ka mahal
   Karbala hayya ala khairil amal
   Bandagi ki inteha hai karbala
-  Deene ahmed ki baqa...
+
+  8
   Karbala ka gham nazar ki pyaas hai
   Karbala ehsaas hi ehsaas hai
   Karbala toote dilon ki aas hai
   Zindagi ka hosla hai karbala
-  Deene ahmed ki baqa...
+
+  9
   Tha kahin naushaah ka tukde badan
   Aasman tha bikhre laashe ka kafan
   Be rida thi chand lamhon ki dulhan
   Kaaba e sabr o riza hai karbala
-  Deene ahmed ki baqa...
+
+  10
   Dasht mein mayyat hai sheh ki bekafan
   Chin gayi chadar hai baazu mein rasan
   Kya kare abbas ki bekas bahan
   Sabr ka ek maareka hai karbala
-  Deene ahmed ki baqa...
+
+  11
   Hai ghame sarwar shiaar e ambia
   Ye saleeqa binte zehra ki ataa
   Khaak pa hota hai zikre karbala
   Toote dil ka aasra hai karbala
-  Deene ahmed ki baqa...
+
+  12
   Bekafan laashe hai maqtal mein pade
   Ek rasan baara aseeron ke gale
   Khaafila pyasa hai zakhmi raaste
   Himmat e zainulleba hai karbala
-  Deene ahmed ki baqa...
+
+  13
   Aag daaman mein sakina ke lagi
   Taaziyane shimr ke khaati rahi
   Jalte zakhmon ne badayi tashnagi
   Pyaas ka ek mojiza hai karbala
-  Deene ahmed ki baqa...
+
+  14
   Yun mila pursa yateemi ko yahan
   Gaal par ubhre tamachon ke nashan
   Kaan zakhmi hai kahan hai baaliyan
   Ek musalsil marsiya hai karbala
-  Deene ahmed ki baqa...
+
+  15
   Majlis e shabbir hoti hai jahan
   Fatema tashreef laati hai wahan
   Ay rasheed aisi ibadat hai kahan
   Haan muqadar ki ataa hai karbala
-  Deene ahmed ki baqa...
 # source_id: nohayonline:ad70d9da8111dbc5357c
 # source_url: https://www.nohayonline.com/details_content.php?id=2995
 # raw_sha256: 554c2567b6e0a0b7a59754c351b065cf48b1d4878ec83f338516699d7df4e3f2
 ---
-
 دین احمد کی بقا ہے کربلا
+سجدہ گاہ انبیاء ہے کربلا
 
 ۱
-سجدہ گاہ انبیاء ہے کربلا
 ظلم کی آندھی میں حق کی جستجو
 تشنگی کرتی ہے زخموں سے وضو
 صبر کے بند کی رب سے گفتگو
