@@ -11,56 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   Laasha e akbar pe hai ye umme laila ki fughan
-  
-  1
   Jee nahi paaegi maa
+
+  1
   Khol de aankhein wagarna ay mere kadiyal jawan
-  Jee nahi payegi maa
+
+  2
   Hai teri be-noor aankhein ay mere noore nazar
   Ay mere lakhte jigar barchi mein hai tera jigar
   Ye qayamat se bada hai maamta ka imtehan
-  Jee nahi payegi maa
-  
-  2
+
+  3
   Zindagi mein tha ujaaala jis ke dam se dilruba
   Dekh kar jis ko savera roz hota tha mera
   Dekh kar chehra wohi ab bar sar e noke sina
-  Jee nahi payegi maa
-  
-  3
+
+  4
   Fajr ka jab waqt hoga yaad aayegi teri
   Maa musalle par bhi tera gham manaane jayegi
   Jab tere lehje mein beta sun na payegi azan
-  Jee nahi payegi maa
-  
-  4
+
+  5
   Maine socha tha tera sehra sajana hai mujhe
   Maine socha tha tujhe dulha banana hai mujhe
   Le ke ye armaan dil ke jaaye to jaaye kahan
-  Jee nahi payegi maa
-  
-  5
+
+  6
   Ye na socha tha tujhe kaandhon pe sarwar layenge
   Pal mein athara baras yun raayegan ho jayenge
   Dekh kar tere jigar ka khoon seene se rawan
-  Jee nahi payegi maa
-  
-  6
+
+  7
   Ye nahi hai hukm beta ye hai meri ilteja
   Kya kahun sughra se jaa kar bas mujhe itna bata
   Jab wo poochegi kahan hai mera bhai naujawan
-  Jee nahi payegi maa
-  
-  7
+
+  8
   Laash par bete ki yasir ghash pe ghash khaati thi wo
   Hodh mein aate hi phir behosh ho jaati thi wo
   Laash ke shaane hila kar de rahi thi ye azan
-  Jee nahi payegi maa
 # source_id: nohayonline:253de3d0b3fffe17f292
 # source_url: https://www.nohayonline.com/details_content.php?id=1711
 # raw_sha256: 7d7b0800c5ad7e42834a0a221f49b7e7cd968f5df78161acd03f41ffb7b1e2ce
 ---
-
 لاشہء اکبر پہ ہے یہ ام لیلیٰ کی فغاں
 جی نہیں پاے گی ماں
 
