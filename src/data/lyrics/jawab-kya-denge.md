@@ -10,9 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Amal se haath hai khaali hisaab kya denge
   Imame asr ko aakhir jawab kya denge
+
+  1
   Ye hai ghulam e zamana wo nasiraan e wafa
   Yahan pe khwahish e dunya wahan hai ilm o ata
   Yahan pe raks o ghinahai wahan pe ashk e aza
@@ -64,10 +65,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2354
 # raw_sha256: 7d3a6d5d3ec663aeb3e530e322c49ebf545e5cfc9c8e50b8af635acb3d1a96e0
 ---
-
-۱
 عمل سے ہاتھ ہے خالی حساب کیا دینگے
 امامِ عصر کو آخر جواب کیا دینگے
+
+۱
 یہ ہے غلام زمانہ وہ ناصران وفا
 یہاں پہ خواہش دنیا وہاں ہے علم و عطا
 یہاں پہ رقس و گنہای وہاں پہ اشک عزا
