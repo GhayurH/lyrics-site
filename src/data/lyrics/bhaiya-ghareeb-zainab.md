@@ -18,7 +18,6 @@ romanLyrics: |-
   Tadpa rahi hai mujhko abbas ki judaai
 
   2
-  Ay mere bhai hussain…
   Afsos ke sakina naazon se jo pali hai
   Jo tum ko yaad karke zindan may chal basi hai
   Usko mili na bhaiya zindan se rehaai
@@ -63,7 +62,6 @@ romanLyrics: |-
 تڑپا رہی ہے مجھ کو عباس کی جُدائی
 
 ۲
-اے میرے بھائی حُسین۔۔۔
 افسوس کے سکینہ نازوں سے جو پالی ہے
 اُس کو ملی نہ بھیا زندان سے رہائی
 
