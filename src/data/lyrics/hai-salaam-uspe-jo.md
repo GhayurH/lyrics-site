@@ -10,25 +10,23 @@ aliases: []
 published: false
 romanLyrics: |-
   Hai salaam uspe jo
-  
-  1
   Qaidi bhi hai bemaar bhi hai
   Paon may aabile hai
   Aabilon may khaar bhi hai
-  
-  2
+
+  1
   Poocha ek shaks ne
   Shabbir tere kaun hai
   Roke farmane lage
   Baba bhi hai sardar bhi hai
   
-  3
+  2
   Pahunche nazdeek jo
   Laashe ke sakina ne kaha
   Ye mere baba ka
   Bhai bhi alamdar bhi hai
   
-  4
+  3
   Pahunche nazdeek kufe ke
   To boli zainab
   Sar bhi uryan hai
@@ -39,25 +37,23 @@ romanLyrics: |-
 ---
 
 ہے سلام اس پہ کہ جو
-
-۱
 قیدی بھی ہے بیمار بھیہے ہے
 پاؤں میں آبلے ہیں
 آبلوں میں خار بھی ہیں
 
-۲
+۱
 پوچھا اک شخص نے
 شبیر تیرے کون ہیں
 روکے فرمانے لگے
 بابا بھی ہے سردار بھی ہے
 
-۳
+۲
 پہنچے نزدیک جو
 لاشہ کے سکینہ نے کہا
 یہ میرے بابا کا
 بھای بھی علمدار بھی ہے
 
-۴
+۳
 پہنچے نزدیک کوفے کے
 تو بولی زینب
 سر بھی عریاں ہے
