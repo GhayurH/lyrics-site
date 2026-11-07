@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Di jo akbar ne azan allahu akbar
-  
-  1
   Ro diye kaun o makan
   Allahu akbar allahu akbar
+  
+  1
   Naara e takbeer goonja bar sar e karbobala
   Lehja e akbar mein tanha jaane kaisa soz tha
   Gir gayi ghash kha ke maa allahu akbar allahu akbar
@@ -69,10 +69,10 @@ romanLyrics: |-
 ---
 
 دی جو اکبر نے اذاں اللّٰہ اکبر
-
-۱
 رو دیےء کون و مکاں
 اللّٰہ اکبر اللّٰہ اکبر
+
+۱
 نعرۂ تکبیر گونجا بر سرِ کربوبلا
 لہجہء اکبر میں تنہا جانے کیسا سوز تھا
 گر گیء غش کھا کے ماں اللّٰہ اکبر اللّٰہ اکبر
