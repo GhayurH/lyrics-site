@@ -11,15 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Dhalne lagi jo raat mein bewarison ki shaam
-
-  1
   Aata hua sawaar jo dekha suye qayaam
   Binte ali ne thaam ke dil thaamli lajaam
   Goonji sada e dukhtare zehra e nek naam
+
   Chingayi rida ghar ujad gaya
   Aap thay kahan haye baba jaan
   Ran mein kat gaya bhai ka gala
   Aap thay kahan haye baba jaan
+
+  1
   Thaam ke wo dil khaak par gira
   Hoo bahoo jo tha shakle mustufa
   Uske seene par naiza jab laga
@@ -65,15 +66,16 @@ romanLyrics: |-
 # raw_sha256: 72e047b5e5253ed8b0d108f55e91e04c14d6e05781057a83d7b9464f451fbf28
 ---
 ڈھلنے لگی جو رات میں بے وارثوں کی شام
-
-۱
 آتا ہوا سوار جو دیکھا سوے قیام
 بنت علی نے تھامکےدل تھام لی لجام
 گونجی صداے دختر زہراے نیک نام
+
 چھن گئی ردا گھر اجڑ گیا
 آپ تھے کہاں ہاے بابا جاں
 رن میں کٹ گیا بھائی کا گلا
 آپ تھے کہاں ہاے بابا جاں
+
+۱
 تھام کے وہ دل خاک پر گرا
 ہو بہو جو تھا شکل مصطفیٰ
 اسکے سینے پر نیزہ جب لگا
