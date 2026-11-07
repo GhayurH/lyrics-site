@@ -14,7 +14,6 @@ romanLyrics: |-
   
   1
   Jalte huwe qaime hai har soo dhuaan dhuaan
-  Hai shaam e ghariban hai shaam e ghariban
   Karbal mein dhal gaye hai shaam e alam ke saaye
   Baithi hai dukhi zainab laashon pe sar jhukaye
   Hai dhoondti maqtal mein bacchon ko bibiyan
@@ -47,7 +46,6 @@ romanLyrics: |-
 
 ۱
 جلتے ہوئے خیمے ہیں ہر سوں دھواں دھواں
-ہے شام غریباں ہے شام غریباں
 کربل میں ڈھل گےء ہیں شام الم کے ساے
 بیٹھی ہے دکھی زینب لاشوں پہ سر جھکائے
 ہے ڈھونڈتی مقتل میں بچوں کو بیبیاں
