@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Ye keh rahe hai mustufa
   Ye keh rahe hai murtuza
-
-  1
   Ye keh rahe hai mujtaba
   Ye keh rahi hai fatema
   Ye keh raha hai khud khuda
   Hussain ki madad karo
+
+  1
   Jo nasir e hussain thay
   Wo khaak o khoon mein ad chuke
   Zameen pe qasim e hazeen
@@ -101,14 +101,15 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2628
 # raw_sha256: 4b1867ae38e6b78d2930d89706a1ff80afb2fea686887acca8ac2f43e2d85fe9
 ---
+
 یہ کہہ رہے ہیں مصطفیٰ
 یہ کہہ رہے ہیں مرتظی
-
-۱
 یہ کہہ رہے ہیں مجتبیٰ
 یہ کہہ رہے ہیں فاطمہ
 یہ کہہ رہے ہیں خود خدا
 حسین کی مدد کرو
+
+۱
 جو ناصر حسین تھے
 وہ خاک و خوں میں اڑ چکے
 زمیں پہ قاسم حزیں
