@@ -12,32 +12,32 @@ published: false
 romanLyrics: |-
   Baba mera maara gaya aaye nahi kyun dada jaan
   Baba pe jab khanjar chala aaye nahi kyun dada jaan
-  
+
   1
   Ehsaas ye mujhko hua aulaad ki ulfat hai kya
   Tumko sada beti ne di aaye najaf se karbala
   Deti rahi jab mai sada aaye nahi kyun dada jaan
-  
+
   2
   Wo dekho saahil pe zara ammu ka hai laasha wahan
   Maara gaya saqqa mera mai reh gayi tashna dahan
   Ammu gaye bhaiya gaya aaye nahi kyun dada jaan
-  
+
   3
   Tumko sada deti rahi ya aeliya kehti rahi
   Kyun ro rahe hai dada jaan ab dekh kar haalat meri
   Sun kar meri aah o buka aaye nahi kyun dada jaan
-  
+
   4
   Ashkon se hi tashna labi maine bujhayi dada jaan
   Maare gaye is dahsht mein sab mere bhai dada jaan
   Mera bhara ghar lut gaya aaye nahi kyun dada jaan
-  
+
   5
   Le kar gaya shimr e layeen kaano se jab gohar mere
   Maine sada di aap ko us waqt hi rote huwe
   Aajaiye behre khuda aaye nahi kyun dada jaan
-  
+
   6
   Ek hashr sa ran mein utha safdar hua matam bapa
   Ro ke sakina ne kaha aana hi tha jab karbala
