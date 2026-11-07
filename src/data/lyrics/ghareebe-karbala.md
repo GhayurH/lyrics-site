@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya ghareebe karbala
-  
-  1
   Ya ghareebe nainawa
   Haa qateele be-khata
   Ya zabeehe nainawa
+
+  1
   Dashte bala mein aa ke ghera
   Mehman bula kar rukh apna phera
   Be-aab kar ke tumko sataya
@@ -68,11 +68,11 @@ romanLyrics: |-
 ---
 
 یا غریب کربلا
-
-۱
 یا غریب نینوا
 ہاں قتیل بے خطا
 یا زبیح نینوا
+
+۱
 دشت بلا میں آ کے گھیرا
 مہمان بلا کر رخ اپنا پھیرا
 بے آب کر کی تم کو ستایا
