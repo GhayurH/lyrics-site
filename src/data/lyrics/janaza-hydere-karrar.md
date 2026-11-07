@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghul pad gaya ke sayyed e abraar mar gaye
+  Matam karo ke hyder e karrar mar gaye
 
   1
-  Matam karo ke hyder e karrar mar gaye
   Ghar se uth'ta hai janaza hyder e karrar ka
   Rote hai sab sun ke nauha zainabe ghamkhar ka
   Baap bhi ab jaa raha hai maa ka saaya bhi nahi
@@ -47,9 +47,9 @@ romanLyrics: |-
 # raw_sha256: 4a705ffac71922817272bfa9a3d70aa96ec8995d3eac2b0648f9506e55ff9cac
 ---
 غل پڑ گیا کہ سید ابرار مر گےء
+ماتم کرو کہ حیدر کرار مر گےء
 
 ۱
-ماتم کرو کہ حیدر کرار مر گےء
 گھر سے اٹھتا ہے جنازہ حیدر کرار کا
 روتے ہیں سن کے نوحہ زینب غم خوار کا
 باپ بھی اب جا رہا ہے ماں کا سایہ بھی نہیں
