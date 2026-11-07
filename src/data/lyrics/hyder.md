@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Khana e hyder mein bapa shor e buka hyder
-  
-  1
   Wavaila haye wavaila
+
+  1
   Qatle ali ke kahabr aayi jo masjid se ghar
   Goonj tuhi naala o shewan ki sada hyder
   
@@ -68,9 +68,9 @@ romanLyrics: |-
 ---
 
 خانۂ حیدر میں بپا شورِ بُکا حیدر
+واویلا واویلا
 
 ۱
-واویلا واویلا
 قتلِ علی کی خبر آئی جو مسجد سے گھر
 گونج اُٹھی نالہ و شیون کی صدا حیدر
 
