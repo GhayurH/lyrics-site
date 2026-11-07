@@ -9,150 +9,84 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Hogaya matam bapa qatl huwe murtuza
-
+romanLyrics: |-
+  Hogaya matam bapa qatl huwe murtuza
+  Kulsoom yehi karti thi noha
+  Ghar fatema zehra ka luta
+  Ay mere allah
 
   1
-
-  Kulsoom yehi karti thi noha
-
-  Ghar fatema zehra ka luta
-
-  Ay mere allah
-
   Jibreel ke lab par hai yehi bain hai matam
-
   Ay logon karo hyder e karrar ka matam
-
   Markhad mein buka karti hai masooma e aalam
-
   Zainab ye buka karti hai lachaar hoo be-ham
-
   Sab bibyan ghash khaate hai gham se
-
   Fizza ke labon par ye sada
 
-  Ay mere allah
-
-
   2
-
   Pahunchi ye sada arsh e khula se zameen par
-
   Shabbir se shabbar ne kaha haye baradar
-
   Taaza hai kaleje mein abhi furqat e maadar
-
   Lo baap ka saaya bhi utha haye muqaddar
-
   Awaaz hai ye karbobala ka
-
   Dil roke yehi kehne laga
 
-
   3
-
   Dete hai sada masjid e kufa mein namazi
-
   Lo hum se juda hota hai kaunain ka ghazi
-
   Zakhmi hui sajde mein jabeen sher e khuda ki
-
   Kaaba bhi buka karta tha mehrab e azan bhi
-
   Har ek namazi ki sada hai
-
   Ye to hai alam hum pe gira
 
-
   4
-
   Yun ek dar o baam larazne lage gham se
-
   Jaari hua sailaab har ek deeda e nam se
-
   Is gham ko koi pooche zara ahle haram se
-
   Ye dard bayan hoga kaha ehle qalam se
-
   Ye dard qayamat se nahi kam
-
   Kehti hai ye kufe ki faza ay mere allah
 
-
   5
-
   Dil thaam ke karti hai buka zainab e muztar
-
   Ye taygh e jafa kisne chalayi hai padar par
-
   Hasnain se kehti hai khabar lao to ja kar
-
   Logon ki buka sunke tadapti hai ye khwahar
-
   Ye naala o shehwan ki sada hai
-
   Hoti hai mere dil pe jafa
 
-
   6
-
   Hal qissa juhin laal pisar zakhmi padar ko
-
   Sarwar ne kaha zainab o kulsoom se aao
-
   Tar khoon mein baba ki jabeen hoti hai dekho
-
   Faryad behan karne lagi thaam ke dil ko
-
   Kya daaghe yateemi mai sahungi
-
   Ye gham hai qayamat se bada
 
-
   7
-
   Jarraah ko bulwayo ye sarwar ke sukhan ke
-
   Wo aake mere baba ke is zakhm ko dekhe
-
   Thi zehr mein doobi hui talwar suna hai
-
   Ye zehr kahin daaghe yateemi na dikha de
-
   Jarraah ne jab zakhm ko dekha
-
   Sar peet ke karta tha buka
 
-
   8
-
   Ekeesvi ramzan qayamat ki sehar thi
-
   Koofe mein sada goonj uthi haye ali ki
-
   Ghash khane lagi gham se yadullah ki beti
-
   Beton ne janaze ko utha kar ye buka ki
-
   Ab kaun raha sar pe hamare
-
   Baba ka janaza bhi utha
 
-
   9
-
   Mazhar wo masayab to raqam ho nahi sakte
-
   Jo hyder o safdar ke maqatil mein likha hai
-
   Ek samt se taboot uthaye thay farishte
-
   Ek samt se beton ne uthaya tha ye kehke
-
   Is gham ka madawa nahi koi
+  Jo aaj yateemon ko mila
 
-  Jo aaj yateemon ko mila'
 # source_id: nohayonline:02da6f52f479c97c22ce
 # source_url: https://www.nohayonline.com/details_content.php?id=735
 # raw_sha256: 2a28f423e3d5146e0fcfb85e0e187a1b03e20fcbe5b964503227214759046999
@@ -162,18 +96,17 @@ romanLyrics: 'Hogaya matam bapa qatl huwe murtuza
 ---
 
 ہو گیا ماتم بپا قتل ہوے مرتظی
-
-۱
 کلثوم یہی کرتی تھی نوحہ
 گھر فاطمہ زہرا کا لٹا
 اے میرے اللّٰہ
+
+۱
 جبریل کے لب پر ہے یہی بین ہے ماتم
 اے لوگوں کرو حیدر کرار کا ماتم
 مرقد میں بکا کرتی ہے معصومہ ء عالم
 زینب یہ بکا کرتی ہیں لاچار ہوں بے ہم
 سب بیبیاں غش کھاتے ہیں غم سے
 فضہ کے لبوں پر یہ صدا
-اے میرے اللّٰہ
 
 ۲
 پہنچی یہ صدا عرش علا سے زمین پر
