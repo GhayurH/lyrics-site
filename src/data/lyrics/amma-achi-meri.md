@@ -12,9 +12,9 @@ published: false
 romanLyrics: |-
   Aakhri azan to sunli
   Amma achi meri amma
+  Seene se lagalo marne ki riza do
 
   1
-  Seene se lagalo marne ki riza do
   Ay amma phuphi jaan ke do laal sidhaare
   Darya ke kanare
   Tum apne jawan laal ko shabbir pe waaro
@@ -59,9 +59,9 @@ romanLyrics: |-
 ---
 آخری اذان تو سُن لی
 اماں اچھی میری اماں
+سینے سے لگا لو مرنے کی رضا دو
 
 ۱
-سینے سے لگا لو مرنے کی رضا دو
 اے اماں پھُوپھی جان کے دو لال سدھارے
 دریا کے کنارے
 تم اپنے جوان لال کو شبیر پہ وارو

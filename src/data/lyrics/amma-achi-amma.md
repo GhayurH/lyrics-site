@@ -17,10 +17,10 @@ romanLyrics: |-
   Jab ghar ke khareeb aagayi kunbe ki sawari
   Sughra ne jo dekha to ye ro ro ke pukari
   Amma amma haye
-
-  1
   Amma achi amma mera kunba kahan hai
   Amma achi amma mera baba kahan hai
+
+  1
   Sughra kya pooch liya sughra tu ne
   Sab kuch to ayan hai chehre se
   Le dekh safed ye baal mere
@@ -37,30 +37,32 @@ romanLyrics: |-
   Wo karbobala ki khaak hua
   Sab chand chupe karbal mein tere
   Mat pooch kahan hai ab kunba
-  Sughra wo ek zaeef jawan jo hai
 
   4
+  Sughra wo ek zaeef jawan jo hai
   Pehchan isay sajjad hai ye
   Isay shaam ki galiyan maar gayi
   Mat pooch kahan hai ab kunba
-  Sughra wo asghar jo cheh maah ka tha
-  Wo bhi na raha wo bhi na raha
 
   5
+  Sughra wo asghar jo cheh maah ka tha
+  Wo bhi na raha wo bhi na raha
   Maa dhoop mein baithi roti hai
   Mat pooch kahan hai ab kunba
+
+  6
   Sughra jab shaam e ghariban aayi thi
   Zainab pe badi tanhaai thi
   Ghar jalta tha chinti thi rida
-
-  6
   Mat pooch kahan hai ab kunba
+
+  7
   Sughra darti thi andhere se jo bahot
   Wo bali sakina teri behen
   Ab tak hai wo zindan mein sughra
   Mat pooch kahan hai ab kunba
 
-  7
+  8
   Allah sughra se utha hoga kyun kar
   Ay sarwar ay rehaan ye gham
   Jis waqt phupi ne ro ke kaha
@@ -76,10 +78,10 @@ romanLyrics: |-
 جب گھر کے قریب آ گیء کنبے کی سواری
 صغرا نے جو دیکھا تو یہ رو رو کے پکاری
 اماں اماں ہاے
-
-۱
 اماں اچھی اماں میرا کنبہ کہاں ہے
 اماں اچھی اماں میرا بابا کہاں ہے
+
+۱
 صغرا کیا پوچھ لیا صغرا تو نے
 سب کچھ تو عیاں ہے چہرے سے
 لے دیکھ سفید یہ بال میرے
@@ -96,30 +98,32 @@ romanLyrics: |-
 وہ کربوبلا کی خاک ہوا
 سب چاند چھپے کربل میں تیرے
 مت پوچھ کہاں ہے اب کنبہ
-صغرا وہ ایک ضعیف جوان جو ہے
 
 ۴
+صغرا وہ ایک ضعیف جوان جو ہے
 پہچان اسے سجاد ہے یہ
 اسے شام‌ کی گلیاں مار گیء
 مت پوچھ کہاں ہے اب کنبہ
-صغرا وہ اصغر جو چھ ماہ کا تھا
-وہ بھی نہ رہا وہ بھی نہ رہا
 
 ۵
+صغرا وہ اصغر جو چھ ماہ کا تھا
+وہ بھی نہ رہا وہ بھی نہ رہا
 ماں دھوپ میں بیٹھی روتی ہے
 مت پوچھ کہاں ہے اب کنبہ
+
+۶
 صغرا جب شام غریباں آی تھی
 زینب پہ بڑی تنہائی تھی
 گھر جلتا تھا چھنتی تھی ردا
-
-۶
 مت پوچھ کہاں ہے اب کنبہ
+
+۷
 صغرا ڈرتی تھی اندھیرے سے جو بہت
 وہ بالی سکینہ تیری بہن
 اب تک ہے وہ زنداں میں صغرا
 مت پوچھ کہاں ہے اب کنبہ
 
-۷
+۸
 اللّٰہ صغرا سے اٹھا ہوگا کیوں کر
 اے سرور اے ریحان یہ غم
 جس وقت پھپھی نے رو کے کہا
