@@ -17,9 +17,9 @@ romanLyrics: |-
   Aakhri hai ye deedar maa ka
   Nahi hai koi ab apna ali ko chod kar tanha
   Ali ke ghar ki raunaq jaa rahi hai
+  Janaza uth raha hai fatema ka
 
   1
-  Janaza uth raha hai fatema ka
   Bahot zakhmi thi khud lekin ali ke zakhm bharti thi
   Utha kar haath pehlu se wo aansu saaf karti thi
   Ab aansu kaun pochega bahot yaad aayegi zehra
@@ -28,26 +28,28 @@ romanLyrics: |-
   Bulaya tha jise maa ne kafan se haath phaila ke
   Usay lipta hua dekha to fizza ne kaha aa ke
   Janaze se hussain uth ja kafan ab chod de maa ka
-  Kafan jab bhi hataata hai tamacha yaad aata hai
 
   3
+  Kafan jab bhi hataata hai tamacha yaad aata hai
   Wo zakhmi maa ka chehra choom ke aansu bahata hai
   Hassan ko gham hai chehre par tamache ka nishan le kar
-  Sirhane baith kar zainab ne maa ka haath jab chooma
-  Ali kehne lage dekha nishan jab taziyane ka
 
   4
+  Sirhane baith kar zainab ne maa ka haath jab chooma
+  Ali kehne lage dekha nishan jab taziyane ka
   Chupa do saani e zehra ye zakhmi haath zehra ka
+
+  5
   Na ab lori sunayegi na wo jhoola jhulayegi
   Hussain ab fatema kaise tumhe pani pilayegi
   Wasiyat kar gayi zehra tumhe paalegi ab fizza
 
-  5
+  6
   Madine waalon ab apne gharon may chain se sona
   Satayega na ab tum ko nabi ki beti ka rona
   Gira tha jispe jalta dar wo tooti phasliyan lekar
 
-  6
+  7
   Chuda kar maa se bachon ko ali ne jab kafan baandha
   Tadap ke haye zeeshan o raza kehne lage maula
   Hai taaza zakhm pehlu ka zara aahista do kaandha
@@ -62,9 +64,9 @@ romanLyrics: |-
 آخری ہے یہ دیدار ماں کا
 نہیں ہے کوئی اب اپنا علی کو چھوڑ کر تنہا
 علی کے گھر کی رونق جا رہی ہے
+جنازہ اٹھ رہا ہے فاطمہ کا
 
 ۱
-جنازہ اٹھ رہا ہے فاطمہ کا
 بہت زخمی تھی خود لیکن علی کے زخم بھرتی تھی
 اٹھا کر ہاتھ پہلو سے وہ آنسوں صاف کرتی تھی
 اب آنسوں کون پوچھے گا بہت یاد آے گی زہرا
@@ -73,26 +75,28 @@ romanLyrics: |-
 بلایا تھا جسے ماں نے کفن سے ہاتھ پھیلا کے
 اسے لپٹا ہوا دیکھا تو فضہ نے کہا آ کے
 جنازے سے حسین اٹھ جا کفن اب چھوڑ دے ماں کا
-کفن جب بھی ہٹاتا ہے طمانچے یاد آتا ہے
 
 ۳
+کفن جب بھی ہٹاتا ہے طمانچے یاد آتا ہے
 وہ زخمی ماں کا چہرہ چوم کے آنسوں بہاتا ہے
 حسن کو غم ہے چہرے پر طمانچے کا نشاں لے کر
-سرہانے بیٹھ کر زینب نے ماں کا ہاتھ جب چوما
-علی کہنے لگے دیکھا نشاں جب تازیانے کا
 
 ۴
+سرہانے بیٹھ کر زینب نے ماں کا ہاتھ جب چوما
+علی کہنے لگے دیکھا نشاں جب تازیانے کا
 چھپا دو ثانیء زہرا یہ زخمی ہاتھ زہرا کا
+
+۵
 نہ اب لوری سناے گی نہ وہ جھولا جھلاے گی
 حسین اب فاطمہ کیسے تمہیں پانی پلاے گی
 وصیت کر گیء زہرا تمہیں پالے گی اب فضہ
 
-۵
+۶
 مدینے والوں اب اپنے گھروں میں چین سے سونا
 ستاے گا نہ اب تم کو نبی کی بیٹی کا رونا
 گرا تھا جس جلتا در وہ ٹوٹی پسلیاں لے کر
 
-۶
+۷
 چھڑا کر ماں سے بچوں کو علی نے جب کفن باندھا
 تڑپ کے ہاے زیشان و رضا کہنے لگے مولا
 ہے تازہ زخم پہلو کا زرا آہستہ دو کاندھا
