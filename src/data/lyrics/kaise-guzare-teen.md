@@ -12,46 +12,44 @@ published: false
 romanLyrics: |-
   Yasrab mein haye tooti hui phasliyon ke saath
   Kaise guzaare teen mahine batool ne
-  
-  1
   Pehlu shikasta choor hui haddiyon ke saath
   
-  2
+  1
   Takleef de rahi thi har ek saans mein badi
   Wo keel jo batool ke pehlu mein thi gadi
   Har ek qadam larazti hui pindliyon ke saath
   
-  3
+  2
   Larze sutoon-e-kaaba jo teora ke gir padi
   Aisa tamacha maara ke ghash kha ke gir padi
   Tapka zameen pe khoon bhi kuch baaliyon ke saath
   
-  4
+  3
   Chehra chupaye rehti thi bacchon se fatema
   Is waaste ali se na kuch dard e dil kaha
   Rukh par nishane dast thay kuch ungliyon ke saath
   
-  5
+  4
   Ashke ghame batool mein daaman jo bhar sake
   Hai koi is jahan mein jo dark kar sake
   Ro ro ke ghar mein sehmi hui bachiyon ke saath
   
-  6
+  5
   Har dam tasavurat mein phaila raha dhuaan
   Uth'te huwe wo shole wo darbar al-amaan
   Jalti hui khayal mein un lakdiyon ke saath
   
-  7
+  6
   Shole uthay aur aag lagi ghar bhi jal gaya
   Baade rasool saara madina badal gaya
   Baandha gaya ali ka gala rassiyon ke saath
   
-  8
+  7
   Phaadi thi jo layeen ne tehreer e mustafa
   Seene se apne haye lagaye rahi sada
   Baba ki un phati hui kuch parchiyon ke saath
   
-  9
+  8
   Haq fatema ka logon ne aamir nahi diya
   Sadma dil e batool pe ainee yehi raha
   Lipta ke apne bacchon ko tanhaiyon ke saath
@@ -62,46 +60,44 @@ romanLyrics: |-
 
 یثرب میں ہاے ٹوٹی ہوئی پسلیوں کے ساتھ
 کیسے گزارے تین مہینے بتول نے
-
-۱
 پہلو شکستہ چور ہوی ہڈیوں کے ساتھ
 
-۲
+۱
 تکلیف دے رہی تھی ہر ایک سانس میں بڑی
 وہ کیل جو بتول کے پہلو میں تھی گھڑی
 ہر ایک قدم لرزتی ہوئی پنڈلیوں کے ساتھ
 
-۳
+۲
 لرزے ستون کعبہ جو تیورا کے گر پڑی
 ایسا طمانچہ مارا کے غش کھا کے گر پڑی
 ٹپکا زمیں پہ خون بھی کچھ بالیوں کے ساتھ
 
-۴
+۳
 چہرہ چھپاے رہتی تھی بچوں سے فاطمہ
 اس واسطے علی سے نہ کچھ درد دل کہا
 رخ پر نشان دست تھے کچھ انگلیوں کے ساتھ
 
-۵
+۴
 اشک غم بتول میں دامن جو بھر سکے
 ہے کوئی اس جہاں میں جو درک کر سکے
 رو رو کے گھر میں سہمی ہوئی بچیوں کے ساتھ
 
-۶
+۵
 ہر دم تصورات میں پھیلا رہا دھواں
 اٹھتے ہوئے وہ شعلے وہ دربار الاماں
 جلتی ہوئی خیال میں ان لڑکیوں کے ساتھ
 
-۷
+۶
 شعلے اٹھے اور آگ لگی گھر بھی جل گیا
 بعد رسول سارا مدینہ بدل گیا
 باندھا گیا علی کا گلا رسیوں کے ساتھ
 
-۸
+۷
 پھاڑی تھی جو لعین نے تحریر مصطفیٰ
 سینے سے اپنے ہاے لگاے رہی صدا
 بابا کی ان پھٹی ہوئی کچھ پرچھیوں کے ساتھ
 
-۹
+۸
 حق فاطمہ کا لوگوں نے عامر نہیں دیا
 صدمہ دل بتول پہ عینی رہا
 لپٹا کے اپنے بچوں کو تنہائیوں کے ساتھ
