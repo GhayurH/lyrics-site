@@ -12,9 +12,9 @@ published: false
 romanLyrics: |-
   Chane lagi shaam e ghariban
   Haye qayamat ka hai samaan
-  
-  1
   Qaima e sadaat se utha dhuan
+
+  1
   Dhal gaya din khatm ladaai hui
   Maut ki khamoshi hai chaayi hui
   Chak gareban khudaai hui
@@ -76,9 +76,9 @@ romanLyrics: |-
 
 چھانے لگی شام غریباں
 ہاے قیامت کا ہے سماں
+خیمہء سادات سے اٹھا دھواں
 
 ۱
-خیمہء سادات سے اٹھا دھواں
 ڈھل گیا دن ختم لڑائی ہوئی
 موت کی خاموشی ہے چھای ہوی
 چاک گریبان خدای ہوی
