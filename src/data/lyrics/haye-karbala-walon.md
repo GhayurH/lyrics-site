@@ -12,11 +12,11 @@ published: false
 romanLyrics: |-
   Ay khuda ke bando mein muntakhib khuda waalon
   Takht e innama waalo taaj e hal'ata waalon
-
-  1
   Shaan e mustafa waalon waz e murtaza waalon
   Kya wafa pe jaanein di tum ne ay wafa waalon
   Haye karbala waalon haye karbala waalon
+
+  1
   Chote chote bacchon ne jang ki ijazat li
   Bad gaye jawan ban kar kamsini se rukhsat li
   Qaum ki himayat mein izzat e shahadat li
@@ -51,11 +51,11 @@ romanLyrics: |-
 ---
 اے خدا کے بندوں میں منتخب خدا والوں
 تخت انما والوں تاج ھل اتا والوں
-
-۱
 شان مصطفیٰ والوں واعظ مرتظی والوں
 کیا وفا پہ جانیں دی تم نے اے وفا والوں
 ہاے کربلا والوں ہاے کربلا والوں
+
+۱
 چھوٹے چھوٹے بچوں نے جنگ کی اجازت لی
 بڑھ گےء جواں بن کر کمسنی سے رخصت لی
 قوم کی حمایت میں عزت شہادت لی
