@@ -12,12 +12,11 @@ published: false
 romanLyrics: |-
   Ya imam e raza ya imam e raza
   Ay shahenshah e khurasan
+  Ya imam e raza
 
   1
-  Ya imam e raza
   Ay imam e raza salaam o alaik
   Shor e matam hai soghwaron mein
-  Ay imame raza salaam o alaik
   Bekasi keh rahi hai mayyat par
   Wasrise karbala salaam o alaik
 
@@ -72,14 +71,14 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2108
 # raw_sha256: adbd5c23f599c4bb7098f7e706f88e82f0056e1d019d3490ab4ee5c1dd426bc3
 ---
+
 یا امام رضا یا امام رضا
 اے شہنشاہِ خراساں
+یا امام رضا
 
 ۱
-یا امام رضا
 اے امام رضا سلام و علیک
 شور ماتم ہے سوگواروں میں
-اے امام رضا سلام و علیک
 بیکسی کہہ رہی ہے میت پر
 وارث کربلا سلام و علیک
 
