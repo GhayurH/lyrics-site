@@ -21,50 +21,49 @@ romanLyrics: |-
   Khatm huvi maidan mein ladaai
   Ghar ko sidharo maa ko pukaro
   Mai chain paa'un aa mere asghar
-  
+
   2
   Yaad aa rahi hai masoom baatein
   Din be-sukoon hai be-chain raate
   Jee na sakungi roti rahungi
   Aansu baha'un aa mere asghar
-  
+
   3
   Pooch rahi hai bali sakina
   Kyon nahi aaya laut ke bhaiya
   Tu hi bata de maidan se aake
   Mai kya bata'un aa mere asghar
-  
+
   4
   Phaile huve hai shaam ke saaye
   Ab to parinde bhi laut aaye
   Mai ro rahi hoo jaan kho rahi hoo
   Tujhko sula'un aa mere asghar
-  
+
   5
   Zakhmi gala aur pyaas ki shiddat
   Hoti to hogi maa ki zaroorat
   Tu jo pukare dil ke sahare
   Mai daudi aa'un aa mere asghar
-  
+
   6
   Mehsoos mujhko ye ho raha hai
   Jaise ke jhoola bhi ro raha hai
   Ay mere beta ye rota jhoola
   Kaise jhula'un aa mere asghar
-  
+
   7
   Pyaas bujhane nehr kanare
   Jab se gaye ho ay mere pyare
   Dhadka laga hai dil doobta hai
   Palke bicha'un aa mere asghar
-  Maktal se aaye aise khabar
 
   8
   Maqtal se aayi kaisi khabar hai
   Kurta lahoo se sab tera tar hai
   Teer laga hai zakhmi gala hai
   Mai mar na jaa'un aa mere asghar
-  
+
   9
   Rehaan-o-sarwar bano ke lab par
   Ek sada thi ay mere asghar
@@ -74,10 +73,8 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=342
 # raw_sha256: aef49573a74bb5ac55504b482a63585c3a80a4ca323356e3b1d71d601c036d56
 ---
-
 آ علی اصغر آ علی اصغر
 تُجھ کو جو پائوں اے میرے اصغر
-
 جھولا جھلائوں آمیرے اصغر
 جھولا جھلائوں لوری سنائوں
 دودھ پِلائوں آمیرے اصغر

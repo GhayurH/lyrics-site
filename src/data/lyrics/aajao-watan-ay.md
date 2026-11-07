@@ -12,44 +12,42 @@ published: false
 romanLyrics: |-
   Chain sughra ko madine mein nahi aata tha
   Baap ki yaad mein dil uska phata jaata tha
-
-  1
   Roti thi tadapti thi buka karti thi sughra
   Tha fatema sughra ke labon par yehi nauha
   Kehti thi ye ro kar sughra
   Aajao watan ay baba
 
-  2
+  1
   Hai shehre madina soona
   Soona hai nabi ka rauza
   Hai charon taraf sannata
 
-  3
+  2
   Main kaise bataun baba
   Din eid ka kaise guzra
   Aankhon se lahoo tha behta
 
-  4
+  3
   Koi to taras ab khaaye
   Aakar ke mujhe le jaaye
   Kab tak mai rahungi tanha
 
-  5
+  4
   Kis tarha sukoon mai paaun
   Dil kaise mai ab behlaun
   Asghar bhi nahi hai mera
 
-  6
+  5
   Jhoola mai jhulati usko
   Seene se lagati usko
   Gar hota wo nanha bhaiya
 
-  7
+  6
   Ye khwaab hai jab se dekha
   Mushkil mein hai mera kunba
   Hai tab se bahot hi sadma
 
-  8
+  7
   Ab rok qalam ay waiz
   Seene mein nahi dam waiz
   Mushkil hai bahot ab likhna
@@ -59,44 +57,42 @@ romanLyrics: |-
 ---
 چین صغرا کو مدینے میں نہیں آتا تھا
 باپ کی یاد میں دل اس کا پھٹا آتا تھا
-
-۱
 روتی تھی تڑپتی تھی بکا کرتی تھی صغرا
 تھا فاطمہ صغرا کے لبوں پر یہی نوحہ
 کہتی تھی یہ رو کر صغرا
 آجاؤ وطن اے‌ بابا
 
-۲
+۱
 ہے شہر مدینہ سونا
 سونا ہے نبی کا روضہ
 ہے چاروں طرف سناٹا
 
-۳
+۲
 میں کیسے بتاؤں بابا
 دن‌ عید کا کیسے گزرا
 آنکھوں سے لہو تھا بہتا
 
-۴
+۳
 کوی ترس اب کھاے
 آ کر کے مجھے لے جاے
 کب تک میں رہوں گی تنہا
 
-۵
+۴
 کس طرح سکوں میں پاؤں
 دل کیسے میں اب بہلاؤں
 اصغر بھی نہیں ہے میرا
 
-۶
+۵
 جھولا میں جھلاتی اس کو
 سینے سے لگاتی اس کو
 گر ہوتا وہ ننھا بھیا
 
-۷
+۶
 یہ خواب ہے جب سے دیکھا
 مشکل میں ہے میرا کنبہ
 ہے تب سے بہت ہی صدمہ
 
-۸
+۷
 اب روک قلم اے وایض
 سینے میں نہیں دم وایض
 مشکل ہے بہت اب لکھنا
