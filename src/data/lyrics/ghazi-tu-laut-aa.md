@@ -21,7 +21,6 @@ romanLyrics: |-
   Majma ye shaamiyon ka
   Mujhko na dekh paaye
   De mujhko hausla
-  Ghazi tu laut aa
 
   2
   Sab has rahe hai koi
@@ -29,7 +28,6 @@ romanLyrics: |-
   Bemaar har qadam par
   Khaata hai taaziyane
   Sajjad ko bacha
-  Ghazi tu laut aa
 
   3
   Har ghar se garm pani
@@ -37,7 +35,6 @@ romanLyrics: |-
   Kaante biche huwe hai
   Bhai qadam qadam par
   Mushkil hai raasta
-  Ghazi tu laut aa
 
   4
   Badla liya hai sab ne
@@ -45,7 +42,6 @@ romanLyrics: |-
   Zainab ko shaamiyon ne
   Maare hai itne patthar
   Sar zakhmi ho gaya
-  Ghazi tu laut aa
 
   5
   Baalon se jab pakad kar
@@ -53,7 +49,6 @@ romanLyrics: |-
   Kehti rahi sakina
   Sar dekh kar tumhara
   Mar jaaungi chacha
-  Ghazi tu laut aa
 
   6
   Panjon pe chal rahi hai
@@ -61,7 +56,6 @@ romanLyrics: |-
   Baazu mere bandhe hai
   Dam ghut raha hai uska
   Rassi mein hai gala
-  Ghazi tu laut aa
 
   7
   Amma ki tarha mujhko
@@ -69,7 +63,6 @@ romanLyrics: |-
   Mujhko bhi mere bhai
   Darbar mein hai jaana
   Zehra ka waasta
-  Ghazi tu laut aa
 
   8
   Zeeshan kaise likhe
@@ -77,11 +70,11 @@ romanLyrics: |-
   Ghairat ke baadshah ka
   Naize se gir gaya sar
   Zainab ne jab kaha
-  Ghazi tu laut aa
 # source_id: nohayonline:d1233a610fd1fad5f1bd
 # source_url: https://www.nohayonline.com/details_content.php?id=2823
 # raw_sha256: f02e0e5750d6cd8597b8ee18a4673ff76a8818c3fec80913995500db24506daf
 ---
+
 اے میرے غازی
 میں ہو گیء بے پردہ
 بازار آ گیا غازی تو لوٹ آ
@@ -93,7 +86,6 @@ romanLyrics: |-
 مجمع یہ شامیوں کا
 مجھکو نہ دیکھ پاے
 دے مجھکو حوصلہ
-غازی تو لوٹ آ
 
 ۲
 سب ہنس رہے ہیں کوی
@@ -101,7 +93,6 @@ romanLyrics: |-
 بیمار ہر قدم پر
 کھاتا ہے تازیانے
 سجاد کو بچا
-غازی تو لوٹ آ
 
 ۳
 ہر گھر سے گرم پانی
@@ -109,7 +100,6 @@ romanLyrics: |-
 کانٹے بچھے ہوئے ہیں
 بھای قدم قدم پر
 مشکل ہے راستہ
-غازی تو لوٹ آ
 
 ۴
 بدلہ لیا ہیں سب نے
@@ -117,7 +107,6 @@ romanLyrics: |-
 زینب کو شامیوں نے
 مارے ہیں اتنے پتھر
 سر زخمی ہو گیا
-غازی تو لوٹ آ
 
 ۵
 بالوں سے جب پکڑ کر
@@ -125,7 +114,6 @@ romanLyrics: |-
 کہتی رہی سکینہ
 سر دیکھ کر تمہارا
 مر جاؤں گی چچا
-غازی تو لوٹ آ
 
 ۶
 پنجوں پہ چل رہی ہے
@@ -133,7 +121,6 @@ romanLyrics: |-
 بازو میرے بندھیں ہیں
 دم گھٹ رہا ہے اس کا
 رسی میں ہے گلا
-غازی تو لوٹ آ
 
 ۷
 اماں کی کتنی مجھکو
@@ -141,7 +128,6 @@ romanLyrics: |-
 مجھکو بھی میرے بھائی
 دربار میں ہے جانا
 زہرا کا واسطہ
-غازی تو لوٹ آ
 
 ۸
 زیشان کیسے لکھے
@@ -149,4 +135,3 @@ romanLyrics: |-
 غیرت کے بادشاہ کا
 نیزے سے گر گیا سر
 زینب نے جب کہا
-غازی تو لوٹ آ
