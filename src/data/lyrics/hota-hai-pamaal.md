@@ -11,14 +11,14 @@ aliases: []
 published: false
 romanLyrics: |-
   Kitna mazloom hai shabbir suno ahle aza
-
-  1
   Tera zarbon se gala shimr ne jab kaat diya
   Bekafan laash ke nazdeek bine saad aaya
   Choor zakhmon se badan dekh ke bhi dil na bhara
   Hukm pamaali ka zaalim ne diya ye keh ke
   Phasliyan toote to awaaz sunayi de mujhe
   Zehra ka laal hussain hota hai pamaal hussain
+
+  1
   Sab se wazni hai jo rahwaar unhe bulwao
   Kuchalne mein jo maahir hai wo ghode lao
   Mekh paywast karo unke sumon ke neeche
@@ -70,14 +70,14 @@ romanLyrics: |-
 # raw_sha256: b19c73f651a0e4065011db674e76d82b7706f945555d30ca86c525d8d64fd321
 ---
 کتنا مظلوم ہے شبیر سنو اہلِ عزا
-
-۱
 تیرا ضربوں سے گلا شمر نے جب کاٹ دیا
 بےکفن لاش کے نزدیک بنِ سعد آیا
 چور زخموں سے بدن دیکھ کےبھی دل نہ بھرا
 حُکم پامالی کا ظالم نے دیا یہ کہکے
 پسلیاں ٹوٹیں تو آواز سنائی دے مجھے
 زہرا کا لال حسین ہوتا ہے پامال حسین
+
+۱
 سب سے وزنی ہیں جو رہوار اُنہیں بلواؤ
 کچلنے میں جو ماہر ہیں وہ گھوڑے لاؤ
 میخ پیوست کرو اُنکے سُموں کے نیچے
