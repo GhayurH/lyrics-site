@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay musafir be kafan tu khaak par wa hasrata
-  
-  1
   Mai musafir shaam ki hoo dushmano may be rida
   Alwida alwida alwida
+
+  1
   Boli zainab ay mere majaye ye kya haal hai
   Kaise pehchanu tera laasha bahot pamaal hai
   Aah re anta aqi kya hai tu hi bhaiya mera
-  
+
   2
   Kya tumhi ibne zehra kya tumhi ibne ali
   Kya tumhi bhai hassan ke aur jaane zainabi
   Ay gule baaghe mohamed haal ye kya hogaya
-  
+
   3
   Na rahi nalayn na malboos na dastaar hai
   Ay ghareebe fatema tu khuld ka sardar hai
   Ay tane uryan tera to aaj sab kuch lut gaya
-  
+
   4
   Mai rasan basta chali waada nibhane ke liye
   Ghar may qaatil ke teri masnad bichane ke liye
   Kal yehi masnad bana dungi teri farshe aza
-  
+
   5
   Bhai amma aur nana ka padar ka waasta
   Baat kar mujhse baradar khol de aankehin zara
   Dekh to chehra behan ka kis khadar murjha gaya
-  
+
   6
   Lashaye be-sar tadap kar ye sada dene laga
   Ay behan wada nibha ke mai to maqtal se chala
@@ -49,10 +49,10 @@ romanLyrics: |-
 ---
 
 اے مسافر بے کفن تو خاک پر وا حسرتا
-
-۱
 میں مسافر شام کی ہوں دشمنوں میں بے ردا
 الوداع الوداع الوداع
+
+۱
 بولی زینب اے میرے ماں جاے یہ کیا حال ہے
 کیسے پہچانوں تیرا لاشہ بہت پامال ہے
 آہ رے انتا اخی کیا ہے تو ہی بھیا میرا
