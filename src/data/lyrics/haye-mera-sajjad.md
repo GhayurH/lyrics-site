@@ -11,39 +11,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye mera sajjad
-  
-  1
   Aa gaya bazaar maula mera
-  
-  2
   Saath hai bibiyan kya kare natawan
-  
-  3
   Sayyed e sajjad
+
+  1
   Zanjeeron mein jakda maula
   Saath saara qaidi kunba
   Jisne dekha wo bhi roya
   Khoon hai sar e bazaar maula mera
-  
-  4
+
+  2
   Zaalim loki des paraya
   Na akbar na alma waala
   Rath akhiyan cho ronda aaya
   Aaya mastoora sang darbar maula mera
-  
-  5
+
+  3
   Jab wo qaidi kunba aaya
   Shaam sheher ko haste dekha
   Bazaari tha majma saara
   Manzar na bhula ghamkhwar maula mera
-  
-  6
+
+  4
   Shaam da qaidi ghairatan waala
   Ba kirda o zakhmi baba
   Sang zainab de turda aaya
   Parde da pursedaar maula mera
-  
-  7
+
+  5
   Zakhmi zakhmi mera maula
   Dil hai jiska paara paara
   Taziyane khaata aaya
@@ -54,39 +50,35 @@ romanLyrics: |-
 ---
 
 ہاے میرا سجاد
+آگیا بازار مولا میرا
+ساتھ ہیں بی بیاں کیا کرے ناتواں
+سید سجاد
 
 ۱
-آگیا بازار مولا میرا
-
-۲
-ساتھ ہیں بی بیاں کیا کرے ناتواں
-
-۳
-سید سجاد
 زنجیروں میں جکڑا مولا
 ساتھ سارا قیدی کنبہ
 جس نے دیکھا وہ بھی رویا
 خون ہے سر بازار مولا میرا
 
-۴
+۲
 ظالم لوکی دیس پرایا
 نہ اکبر نہ علماں والا
 رتھ اکھیاں چھو روندا آیا
 آیا مستورا سنگ دربار مولا میرا
 
-۵
+۳
 جب وہ قیدی کنبہ آیا
 شام شہر کو ہنستے دیکھا
 بازاری تھا مجمع سارا
 منظر نہ بھلا غم خوار مولا میرا
 
-۶
+۴
 شام دا قیدی غیرتاں والا
 با کردہ و زخمی بابا
 سنگ زینب دے تردہ آیا
 پردے دا پرسہ دار مولا میرا
 
-۷
+۵
 زخمی زخمی میرا مولا
 دل ہے جس کا پارہ پارہ
 تازیانے کھاتا آیا
