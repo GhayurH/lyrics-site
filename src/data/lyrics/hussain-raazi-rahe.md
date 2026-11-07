@@ -11,61 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   Bus hussain raazi rahe hussain raazi rahe
-  
-  1
   Hamesha bichta rahe ghar mein mere farshe aza
   Hussain raazi rahe bas hussain raazi rahe
   Zamana roothe ya phir choote koi bhi rishta
-  
-  2
+
+  1
   Ye majlisein ye azakhane aur ye farshe aza
   Sabeelein aur tabaruk ko baatne ka maza
   Hussain ke hi liye sab hai aur ye mansha
-  
-  3
+
+  2
   Gaye wo ran ki taraf jab hussain ne chaaha
   Sipaahi haq ki samajhte thay falsafa rab ka
   Wohi wo karte rahe jo hussain kehta raha
-  
-  4
+
+  3
   Ye apne bachon ko maa'on ne tarbiyat di hai
   Ghame hussain manao ye pursa daari hai
   Jiyo hussain ke gham mein ye baap ne bhi kaha
-  
-  5
+
+  4
   Subhana rabial aala rasool padhte rahe
   Ke unki pusht pe jab tak hussain baithe rahe
   Bina hussain kaamil nahi koi sajda
-  
-  6
+
+  5
   Hussain dil hai hussain jaan hai
   Dilon ki dhadkan mein bhi rawan hai
   Tapish mein gham ki ye sayeban hai
   Hussain tauheed ki zaban hai
   Khuda ka kalma jahan jahan hai
   Hussain mera wahan wahan hai
-  
-  7
+
+  6
   Padho ziyarat e maula khuda ko raazi karo
   Suno hussain suno gar padho hussain padho
   Aza ke farsh pe baitho khuda se mango dua
-  
-  8
+
+  7
   Kahin pe bhai ke baazu kahin behan ke pisar
   Khuda ki raah mein di hai jawani e akbar
   Jis imtehan mein laati rahi khuda ki raza
-  
-  9
+
+  8
   Yehi najaat ka zariya banega mehshar mein
   Sar apna faqr se uncha rahega mehshar mein
   Ab is khaiyaal se badkar bhi aur kya hoga
-  
-  10
+
+  9
   Hussain tu jo nahi hai to ghar nahi kuch bhi
   Kate jo ishq mein tere to sar nahi kuch bhi
   Habeeb ibne mazahir ki dosti ne kaha
-  
-  11
+
+  10
   Kiya hussain ne aamir tujhe safeer e aza
   Ata se unki mai shayar e ahlebait hua
   Khuda se paa'un shanawar ye khidmaton ka sila
@@ -75,33 +73,31 @@ romanLyrics: |-
 ---
 
 بس حسین راضی رہے حسین راضی رہے
-
-۱
 ہمیشہ بچھتا رہے گھر میں میرے فرش عزا
 حسین راضی رہے بس حسین راضی رہے
 زمانہ روٹھے یا پھر چھوٹے کوئی بھی رشتہ
 
-۲
+۱
 یہ مجلسیں یا عزا خانے اور یہ فرش عزا
 سبیلیں اور تبرک کو باٹنے کا مزہ
 حسین کے ہی لیےء سب ہے اور یہ منشا
 
-۳
+۲
 گےء وہ رن کی طرف جب حسین نے چاہا
 سپاہی حق کی سمجھتے تھے فلسفہ رب کا
 وہی وہ کرتے رہے جو حسین کہتا رہا
 
-۴
+۳
 یہ اپنے بچوں کو ماؤں نے تربیت دی ہے
 غمِ حسین مناؤ یہ پرسہ داری ہے
 جیو حسین کے غم میں یہ باپ نے بھی کہا
 
-۵
+۴
 سبحانہ ربی الاعلی رسول کہتے رہے
 کہ ان کی پشت پہ جب تک حسین بیٹھے رہے
 بنا حسین کامل نہیں کوئی سجدہ
 
-۶
+۵
 حسین دل ہے حسین جان ہے
 دلوں کی دھڑکن میں بھی رواں ہے
 تپش میں غم کی یہ سایباں ہے
@@ -109,27 +105,27 @@ romanLyrics: |-
 خدا کا کلمہ جہاں جہاں ہے
 حسین میرا وہاں وہاں ہے
 
-۷
+۶
 پڑھو زیارت مولا خدا کو راضی کرو
 سنو حسین سنو گر پڑھو حسین پڑھو
 عزا کے فرش پہ بیٹھو خدا سے مانگو دعا
 
-۸
+۷
 کہیں پہ بھای کے بازو کہیں بہن کے پسر
 خدا کی راہ میں دی ہے جوانیء اکبر
 جس امتحان میں لاتی رہی خدا کی رضا
 
-۹
+۸
 یہی نجات کا ذریعہ بنے محشر میں
 سر اپنا فقر سے اونچا رہے گا محشر میں
 اب اس خیال سے بڑھ کر بھی اور کیا ہوگا
 
-۱۰
+۹
 حسین تو جو نہیں ہے تو گھر نہیں کچھ بھی
 کٹے جو عشق میں تیرے تو سر نہیں کچھ بھی
 حبیب ابن مظاہر کی دوستی نے کہا
 
-۱۱
+۱۰
 کیا حسین نے عامر تجھے سفیر عزا
 عطا سے ان کی میں شاعر اہلبیت ہوا
 خدا سے پاؤں شناور یہ خدمتوں کا سلا
