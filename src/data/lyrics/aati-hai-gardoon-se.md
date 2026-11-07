@@ -55,7 +55,6 @@ romanLyrics: |-
   Khoob ki tableegh-e-aam
   Daydiya qatil ko jaam
   Hoga Anees aisi koi paishwa.
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:79f6cf24e9b04a231fa4
 # source_url: https://www.nohayonline.com/details_content.php?id=2
 # raw_sha256: fda4f0a5d9bca06a45d8f02f9cb2f5978c195ebbed067875a821479c8c8eba8c

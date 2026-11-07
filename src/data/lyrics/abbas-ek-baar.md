@@ -17,10 +17,10 @@ romanLyrics: |-
   Jab alamdar ne kaha hoga
   Sochta hoo ke roohe zehra ne
   Roke us waqt ye kaha hoga
-
-  1
   Abbas abbas
   Ek baar mujhe bhi maa keh de
+
+  1
   Shabbir ko bhai tu ne kaha
   Bhai ka kiya armaan poora
   Armaan mera poora kar de abbas
@@ -84,10 +84,10 @@ romanLyrics: |-
 جب علمدار نے کہا ہوگا
 سوچتا ہوں کہ روح زہرا نے
 روکے اس وقت یہ کہا ہوگا
-
-۱
 عباس عباس
 ایک بار مجھے بھی ماں کہہ دے
+
+۱
 شبیر کو بھای تو نے کہا
 بھای کا کیا ارمان پورا
 ارمان میرا پورا کر دے عباس
