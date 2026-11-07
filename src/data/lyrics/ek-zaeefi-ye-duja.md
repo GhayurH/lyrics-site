@@ -11,6 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye akbar haye akbar
+
   Ek zaeefi ye dooja mulk paraya akbar
   Baabe te zaalimanu na tars aaya akbar
   Is zaeefi mein tera laasha uthaun kaise
@@ -52,6 +53,7 @@ romanLyrics: |-
 # raw_sha256: cdaa999005a7e0d3964b4da773cffbb410bb522b2580e69e23fe0af6a672e111
 ---
 ہاے اکبر ہاے اکبر
+
 ایک ضعیفی یہ دوجا ملک پرایا اکبر
 باب تے ظالماں نو نہ ترس آیا اکبر
 اس ضعیفی میں تیرا لاشہ اٹھاؤں کیسے
