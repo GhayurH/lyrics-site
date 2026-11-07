@@ -9,100 +9,59 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ghabrayi hay Zainab aaya hay Madina
-
+romanLyrics: |-
+  Ghabrayi hai zainab aaya hai madina
+  Labrez hai gham se har bibi ka seena
 
   1
-
-  Labreez hay gham sey har bibi ka seena
-
+  Ek saal guzara hai zindan e sitam mein
+  Din baaqi guzaregi zainab isi gham mein
+  Maqtal mein hai asghar zindan mein sakina
 
   2
-
-  Ik saal guzara hay zindan-e-sitam mein
-
-  Din baqi guzarey gi Zainab isi gham mein
-
-  Maqtal may hay Asghar zindan may Sakina
-
+  Ay ahle madina tu khamosh hi rehna
+  Zainab se khudara tu ek lafz na kehna
+  Jo saansein bachi hai kho degi hazeena
 
   3
-
-  Aye ahle Madina tu khamosh hi rehna
-
-  Zainab sey khudara to ik lafz na kehna
-
-  Jo sansein bachi hai kho day gi hazeena
-
+  Ye soch ke roti hai bemaar hai sughra
+  Har fard ke baare mein ab poochegi dukhia
+  Aisa na ho sun ke mar jaaye hazeena
 
   4
-
-  Ye soch key roti hay bemar hay Sughra
-
-  Har farz key baare mein ab poochy gi dukhya
-
-  Eisa na ho sun key marjaey hazeena
-
+  Har baat bata doongi jab poochegi sughra
+  Baalon ki safedi ka batlaun sabab kya
+  Tha is se to behtar zindan mein jeena
 
   5
-
-  Har baat batadoungi jab poochengi Sughra
-
-  Baloun ki safedi ka batlaoun sabab kya
-
-  Tha is sey to behter zindan mei jeena
-
+  Jab pursa mujhe denge sab log watan ke
+  Kis tarha chupaungi ye neel rasan ke
+  Ehwaal safar ka kehde ye kahin na
 
   6
-
-  Jab pursa mujhe diengey sab loog vatan key
-
-  Kis tarha chupaoungi ye neel rasan key
-
-  Ahval safer ka kehdein ye kahien na
-
+  Har zakhm suna dega ehwaal safar ka
+  Phat jaaye na dil us ka jab dekhegi sughra
+  Peshani e sajjad aur surkh paseena
 
   7
-
-  Har zakham suna dey ga ahval safar ka
-
-  Phat jaye na dil us ka jab dekhegi Sughra
-
-  Peeshani-e-sajaad ur surkh paseena
-
+  Hujron mein jo jaungi mai aun o mohamed ke
+  Is dil ko rulayenge bachon ke khilone
+  Dil shiddat e gham se phat jaaye kahin na
 
   8
-
-  Hujroun mein jo jaoungi mein awn-o-muhammad key
-
-  Us dil ko rulayeingey bachoun key khiloney
-
-  Dil shiddat-e-gham sey phat jaye kahien na
-
+  Sab kuch to luta aayi pardes mein zainab
+  Mazlooma musafir ye kya jee ke kare ab
+  Bin bhai ke ab to dushwaar hai jeena
 
   9
-
-  Sab kuch to luta aayi pardees mein Zainab
-
-  Mazlooma musafir ye kia jee key karey ab
-
-  Bin bhai key ab to dushvar hay jeena
-
+  Zainab ke khayalon mein awaaz ye aayi
+  Mehmil se utar kar jab fizza ne sada di
+  Dil thaam lo bibi lo aaya madina
 
   10
-
-  Zainab key khayaloun mien aawaz ye aayi
-
-  Mahmil sey uter kar jab fizza ney sada di
-
-  Dil tham lo bibi lo aaya Madina
-
-
-  11
-
-  Kehta hay jiger thaamey Farhan tarap kar
-
-  Roodad karo Mazhar bas khatam yahien par'
+  Kehta hai jigar thaame farhan tadap kar
+  Roodad karo mazhar bas khatm yahin par
+  Ghabrayi hai zainab aaya hai madina
 reciter: Farhan Ali
 # source_id: nohayonline:35bb693d267c77ae5968
 # source_url: https://www.nohayonline.com/details_content.php?id=2351
@@ -113,54 +72,54 @@ reciter: Farhan Ali
 ---
 
 گھبرای ہے زینب آیا ہے مدینہ
-کہتا ہے جگر تھامے فرحان تڑپ کر
-روداد کرو مظہر بس ختم یہی پر
-گھبرای ہے زینب آیا ہے مدینہ
-
-۱
 لبریز ہے غم سے ہر بی بی کا سینہ
 
-۲
+۱
 اک سال گزارا ہے زندان ستم‌ میں
 دن باقی گزارے گی زینب اسی غم میں
 مقتل میں ہے اصغر زنداں میں سکینہ
 
-۳
+۲
 اے اہلِ مدینہ تو خاموش ہی رہنا
 زینب سے خدارا تو اک لفظ نہ کہنا
 جو سانسیں بچی ہیں کھو دے گی حزینہ
 
-۴
+۳
 یہ سوچ کے روتی ہے بیمار ہے صغرا
 ہر فرد کے بارے میں اب پوچھے گی دکھیا
 ایسا نہ ہو سن کے مر جاۓ حزینہ
 
-۵
+۴
 ہر بات بتا دونگی جب پوچھے گی صغرا
 بالوں کی سفیدی کا بتلاؤں سبب کیا
 تھا اس سے تو بہتر زندان میں جینا
 
-۶
+۵
 جب پرسہ مجھے دینگے سب لوگ وطن کے
 کس طرح چھپاؤں گی یہ نیل رسن کے
 احوال سفر کا کہہ دے یہ کہیں نہ
 
-۷
+۶
 ہر زخم‌ سنا دے گا احوال سفر کا
 پھٹ جاے نہ دل اس کا جب دیکھے گی صغرا
 پیشانیء سجاد اور سرخ پسینہ
 
-۸
+۷
 حجروں میں جو جاؤں گی میں عون و محمد کے
 اس دل کو رلاییں گے بچوں کے کھلونے
 دل شدت غم سے پھٹ جاے کہیں نہ
 
-۹
+۸
 سب کچھ تو لٹا آی پردیس میں زینب
 مظلومہ مسافر یہ کیا جی کے کرے اب
 بن بھائی کے اب تو دشوار ہے جینا
 
-۱۰
+۹
 زینب کے خیالوں میں آواز یہ آی
 محمل سے اتر کر جب فضہ نے صدا دی
 دل تھام لو بی بی لو آیا مدینہ
+
+۱۰
+کہتا ہے جگر تھامے فرحان تڑپ کر
+روداد کرو مظہر بس ختم یہی پر
+گھبرای ہے زینب آیا ہے مدینہ
