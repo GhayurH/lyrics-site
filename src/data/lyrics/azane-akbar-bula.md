@@ -12,18 +12,18 @@ published: false
 romanLyrics: |-
   Allahu akbar
   Aao namaze fajr hai
-  
-  1
   Azaane akbar bula rahi hai
   Khuda ki wehdaniyat ka humko
   Paighame haq ye suna rahi hai
+
+  1
   Isi azaan ke liye sayyed
   Jawan akbar fida kiye hai
   Raahe khuda mein shaahe shaheedan
   Masoom asghar bhi de diya hai
   Hussain lekar chale jo maqsad
   Kyun aaj dunya bhula rahi hai
-  
+
   2
   Chale azaane fajar jo de kar
   To bole sheh ye batao akbar
@@ -31,7 +31,7 @@ romanLyrics: |-
   Wo bin tumhare jiyegi kyun kar
   Mazaare nana pe roz jaa kar
   Diye jo sughra jala rahi hai
-  
+
   3
   Quran kaafi hai jo thay kehte
   Yehi hai quran ke wo kaari
@@ -39,7 +39,7 @@ romanLyrics: |-
   Usay karenge ye qatl kaari
   Karenge pamaal iska laasha
   Ghadi asr ki wo aa rahi hai
-  
+
   4
   Quran ke tukde huwe hai ban mein
   Ghilaaf e kaaba utaar daala
@@ -54,11 +54,11 @@ romanLyrics: |-
 
 اللہ اکبر
 آؤ نمازِ فجر ہے
-
-۱
 اذانِ اکبر بلا رہی ہے
 خدا کی وحدانیت کا ہم کو
 پیغام حق یہ سنا رہی ہے
+
+۱
 اسی اذان کے لئے سید
 جوان اکبر فدا کیےء ہیں
 راہ خدا میں شاہ شہیداں
