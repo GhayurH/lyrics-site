@@ -11,48 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Maqtal se laash qasim e naushaah ki aayi hai
-  Baraatiyo ne kyun saff e matam bichayi hai
-  
+
   1
+  Baraatiyo ne kyun saff e matam bichayi hai
   Dulhan ki maang khaak se kis ne sajayi hai
   Shaadi ka hai makaan faza gham ki chaayi hai
   Bewa hui hussain ki beti duhaai hai
-  Maqtal se laash qasime...
-  
+
   2
   Khushiyan tamaam hogayi aansu bahaiye
   Dulhan ko laa ke farshe aza par bithaiye
   Shaadi ki rasm ho chuki bewa banayie
   Fizza ye kiske marne ka paigham laayi hai
-  
+
   3
-  Maqtal se laash qasime...
   Bewon ke darmiyan ye farwa ki hai buka
   Pal mein meri khushi ka jahan khaak hogaya
   Bete ka ghar basane ka armaan tha mera
-  
-  4
   Ibne hassan ne maut ki basti basayi hai
-  Maqtal se laash qasime...
+
+  4
   Farmate thay ye shaah ghazab hogaya behan
   Pamaal ran mein hogaya naushaah ka badan
-  
-  5
   Aur tukde tukde hogaya bhaiya ka gul badan
   Qasim ki laash hum ne abaa mein uthaayi hai
-  Maqtal se laash qasime...
+
+  5
   Jawed karbala ki ye shaadi ajeeb thi
-  
-  6
   Lamho mein jo khushi thi wo gham mein badal gayi
   Shaadi koi jahan mein hoti hai jab kabhi
   Ibne hassan ki yaad zamane ko aayi hai
-  Maqtal se laash qasime...
 # source_id: nohayonline:8bf8b44e6ab560674d9f
 # source_url: https://www.nohayonline.com/details_content.php?id=1971
 # raw_sha256: e0d98ef8f4450ee76aa534088b40a83ce066ebaa5457126d695270c596494885
 ---
-
 مقتل سے لاش قاسم نوشاہ کی آی ہے
 
 ۱

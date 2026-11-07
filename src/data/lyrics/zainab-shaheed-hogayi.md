@@ -12,58 +12,50 @@ published: false
 romanLyrics: |-
   Na karbala na kufa na darbar e aam mein
   Zainab shaheed hogayi bazaar e shaam mein
-  
+
   1
   Bibi pe yun to shaam e ghariban se thi jafa
   Bazaar e shaam aaya to sar par na thi rida
   Naize se sar jo hazrate abbas ka gira
-  
+
   2
   Barsat patharon ki charagan ka char soo
   Pehle hi taaziyane baraste thay koo ba koo
   Behne laga jo aankh se sajjad ke lahoo
-  Zainab shaheed hogayi baazar e shaam mein
-  
+
   3
   Zainab tarasti rehgayi aaram o chain ko
   Mauqa mila na majlis o matam ko bain ko
   Maanga tha jab kaneezi mein binte hussain ko
-  Zainab shaheed hogayi baazar e shaam mein
-  
+
   4
   Bhai ka sar sina pe tha zulfein lahoo mein tar
   Noke sina pe aun o mohamed ke dekhe sar
   Chote se ek sar pe padi jis ghadi nazar
-  Zainab shaheed hogayi baazar e shaam mein
-  
+
   5
   Akbar se karbala mein mulaqaat kab hui
   Naizo ke khaafile mein usay dhoondti rahi
   Bazaar e shaam mein jo nazar sar pe pad gayi
-  Zainab shaheed hogayi baazar e shaam mein
-  
+
   6
   Baandha gaya sakina ko pushte shutar ke saath
   Wo tashnagi thi maa se bhi karti nahi thi baat
   Baalon talak sakina ke pahunche layeen ke haath
-  Zainab shaheed hogayi baazar e shaam mein
-  
+
   7
   Bas saans chal rahi thi to zinda kahan rahi
   Talwaar jiske sar pe chali beridayi ki
   Kehti thi dekho par ye madine mein ab koi
-  Zainab shaheed hogayi baazar e shaam mein
-  
+
   8
   Rehaan yun to phir sare kam ye taweel hai
   Ashkon ki meri aankh se jaari sabeel hai
   Bibi ka rauza shaam mein hona daleel hai
-  Zainab shaheed hogayi baazar e shaam mein
 # source_id: nohayonline:cd4752afc7da70077de8
 # source_url: https://www.nohayonline.com/details_content.php?id=1060
 # raw_sha256: c27d92ce439c71352a63ef1a6f1b515ce0f62f799fd66c4e67e8ce2c22cdc1b8
 ---
-
 نہ کربلا نہ کوفہ نہ دربار آم میں
 زینب شہید ہوگیء بازار شام میں
 
