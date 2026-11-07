@@ -12,7 +12,6 @@ published: false
 romanLyrics: |-
   Hai janaza hyder e karraar ka
   Momino do mil ke kaandha
-  Hai janaza hyder e karraar ka
   Chal basa zainab ka baba
 
   1
@@ -75,7 +74,6 @@ romanLyrics: |-
 
 ہے جنازہ حیدر کرار کا
 مومنوں دو مل کے کاندھا
-ہے جنازہ حیدر کرار کا
 چل بسا زینب کا بابا
 
 ۱
