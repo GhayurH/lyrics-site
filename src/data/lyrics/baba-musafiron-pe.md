@@ -11,42 +11,42 @@ aliases: []
 published: false
 romanLyrics: |-
   Baba musafiron pe qayamat guzar gayi
-  
+
   1
   Pahunche ghareeb jis ghadi qabre hussain par
   Ye keh ke roye qabr pe sajjad nauhagar
   Baba suno ghareebon se ab haalat e safar
   Ummat ne bewatan ko phiraya hai dar badar
   Zainab dayaar e shaan mein jab nange sar gayi
-  
+
   2
   Maqtal se hum chale thay to haathon mein thi rasan
   Baba muaaf karna na hum de sake kafan
   Pamaal ho chuke thay shaheedon ke sab badan
   Tha kor khoon mein dooba hua tha tamaam ban
   Aulaad e fatema sar e maqtal bikhar gayi
-  
+
   3
   Maqtal se is tarha se guzara gaya hamay
   Khoon ke samandaron mein utaara gaya hamay
   Baba har ek gaam pe maara gaya hamay
   Baaghi ki aal keh ke pukara gaya hamay
   Ranj o alam ki taygh jigar mein utar gayi
-  
+
   4
   Bazaar e shaam aur wo logon ka ijdehaam
   Aise mein shimr leta tha saydaniyon ke naam
   Us shaam mein hua tha aseeron ka qatle aam
   Koi na tha jo karta hamara bhi ehteraam
   Qaatil hi dikh rahe thay jahan tak nazar gayi
-  
+
   5
   Zindan e shaam pahunche to ye bhi ghazab hua
   Amma rabab karne lagi girya o fughan
   Ek karbala ke baad hui ek karbala
   Zindan ke dar se deti thi ammu ko jo sada
   Aakhir yehi hua ke sakina bhi mar gayi
-  
+
   6
   Ye keh ke ghamzada ne kiya aakhri salaam
   Royenge jaa ke shehre madina mein subho shaam
