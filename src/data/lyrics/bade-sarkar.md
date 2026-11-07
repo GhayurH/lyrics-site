@@ -15,13 +15,14 @@ romanLyrics: |-
   Zaairon do sada baadshahe wafa
   Yaad aa rahi hai karbala
 
-  1
   Wo hai maula sakhi maula
   Tum iraada karo ziyarat ka
   Dil nahi todte kabhi maula
   Izne ziyarat chote sarkar se le ke
   Aao chale bade sarkar se milne
   Tizurooni aaidkum taarifooni shafee'akum
+
+  1
   Saamne rauze ke gumbad jo nazar aayenge
   Aankh mein aansu unhe dekh ke bhar jaayenge
   Dil se niklegi sada ya aba abdillah
@@ -54,7 +55,6 @@ romanLyrics: |-
   Zaade safar khud alamdar karenge
 
   5
-  Abadwallah ya zahra maaninsa hussaina
   Abadwallah ya zahra maaninsa hussaina
   Maula jab sunta hoon naara mai abad wallah ka
   Dil mera kehta hai maaninsa hussaina zahra
@@ -90,18 +90,20 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3644
 # raw_sha256: dc8939aac803c0cb6d6bf05bf48cc92f3c176bf4ae2492784819fb21500f1139
 ---
+
 کہتے ہیں حسین جب بھی آؤ کربلا
 پہلے مانگو میرے چھوٹے بھائی سے رضا
 زایروں دو صدا بادشاہ وفا
 یاد آ رہی ہے کربلا
 
-۱
 وہ ہے مولا سقی مولا
 تم ارادہ کرو زیارت کا
 دل نہیں توڑتے کبھی مولا
 اذن زیارت چھوٹے سرکار سے لے کے
 آؤ چلے بڑے سرکار سے ملنے
 تزورونی اعاهدکم تعرفونی شفیع الکم
+
+۱
 سامنے روضے کے گمبد جو نظر آیینگے
 آنکھ میں آنسوں انہیں دیکھ کے بھر جائنگے
 دل سے نکلے گی صدا یا ابا عبداللہ
@@ -134,7 +136,6 @@ romanLyrics: |-
 زاد سفر خود علمدار کریں گے
 
 ۵
-ابد واللہ یا زہرا ماننسا حسینا
 ابد واللہ یا زہرا ماننسا حسینا
 مولا جب سنتا ہوں نعرہ میں ابد واللہ کا
 دل میرا کہتا ہے ماننسا حسینا زہرا
