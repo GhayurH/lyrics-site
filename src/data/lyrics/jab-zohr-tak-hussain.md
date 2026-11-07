@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Jab zohr tak hussain bahattar ko ro chuke
   Ek do pahar may chote se lashkar ko ro chuke
   Qasim ko ro chuke ali akbar ko ro chuke
@@ -20,8 +19,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2722
 # raw_sha256: 8266bfb7a2225c4ddd2ba045db3b6d9ad8669a6d10287b76696e17c8f0e4e114
 ---
-
-۱
 جب ظہر تک حسین بہتر کو رو چکے
 اک دو پہر میں چھوٹے سے لشکر کو رو چکے
 قاسم کو رو چکے علی اکبر کو رو چکے
