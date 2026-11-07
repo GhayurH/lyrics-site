@@ -16,9 +16,9 @@ romanLyrics: |-
   Toote teeron pe ada ki hai maqtal mein namaz
   Haq hai uska jo ise haq ki pehchan kaho
   Alal elaan kaho sar e maidan kaho
+  Jaise khwaja ne kaha deen panah ast hussain
 
   1
-  Jaise khwaja ne kaha deen panah ast hussain
   Pehno ehraam agar choomo kaabe ka ghilaf
   Jaake kaabe mein karo jab bhi kaabe ka tawaf
   Shukriya jaane ali hajj ke dauran kaho
@@ -62,9 +62,9 @@ romanLyrics: |-
 ٹوٹے تیروں پہ ادا کی ہے مقتل میں نماز
 حق ہے اس کا جو اسے حق کی پہچان کہو
 الاعلان کہو سر میدان کہو
+جیسے خواجہ نے کہا دین پناہ است حسین
 
 ۱
-جیسے خواجہ نے کہا دین پناہ است حسین
 پہنو احرام اگر چومو کعبے کا غلاف
 جا کے کعبے میں کرو جب بھی کعبے کا طواف
 شکریہ جانے علی حج کے دوران کہو
