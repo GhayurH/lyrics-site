@@ -22,28 +22,24 @@ romanLyrics: |-
   Mere maula inhe pursa tumhara kaun dega
 
   2
-  Sahara kaun dega...
   Masayib ka samandar hoga ashoora ka manzar
   Shabe ghurbat ki kashti ko kinara kaun dega
-  Sahara kaun dega...
 
   3
   Rida chin jaye jab zainab kise awaaz degi
   Jale qaimon ki zulmat ko ujaala kaun dega
-  Sahara kaun dega...
-  Jo zainab aaj hai kufe mein shehzadi e kufa
 
   4
+  Jo zainab aaj hai kufe mein shehzadi e kufa
   Usay maqtal mein kufe ka zamana kaun dega
-  Sahara kaun dega...
+
+  5
   Bulayegi tumhe shaam e ghariban binte sarwar
   Sakina ko bhala shafqat ka saaya kaun dega
 
-  5
-  Sahara kaun dega...
+  6
   Ali ke baad ab ay shams in murghabiyon ko
   Talab se pehle aake aab o daana kaun dega
-  Sahara kaun dega...
 # source_id: nohayonline:8b8bea9ae281dbb47c3e
 # source_url: https://www.nohayonline.com/details_content.php?id=1191
 # raw_sha256: 3820ac43ab2f82660e9294f075e4a060b768641644807d20e3ecdeefca6d5698
@@ -60,25 +56,21 @@ romanLyrics: |-
 میرے مولا انہیں پرسہ تمہارا کون دے گا
 
 ۲
-سہارا کون دے گا۔۔۔
 مصایب کا سمندر ہوگا عاشورہ کا منظر
 شب غربت کی کشتی کو کنارا کون دے گا
-سہارا کون دے گا۔۔۔
 
 ۳
 ردا چھن جاے جب زینب کسے آواز دیگی
 جلے خیموں کی ظلمت کو اجالا کون دے گا
-سہارا کون دے گا۔۔۔
-جو زینب آج ہے کوفے میں شہزادیء کوفہ
 
 ۴
+جو زینب آج ہے کوفے میں شہزادیء کوفہ
 اسے مقتل میں کوفے کا زمانہ کون دے گا
-سہارا کون دے گا۔۔۔
+
+۵
 بلاے گی تمہیں شام غریباں بنت سرور
 سکینہ کو بھلا شفقت کا سایہ کون دے گا
 
-۵
-سہارا کون دے گا۔۔۔
+۶
 علی کے بعد اب اے شمس ان مرغابیوں کو
 طلب سے پہلے آکے آب و دانا کون دے گا
-سہارا کون دے گا۔۔۔
