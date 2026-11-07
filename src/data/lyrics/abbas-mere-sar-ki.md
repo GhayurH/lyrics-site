@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Ghar se chale jab behre safar sibte payambar
   Kehne lagi abbas ki maadar shere dilawar
-
-  1
   Ek naseehat karti hoon mai ay mere dilbar
   Gham koi bhi shabbir ke aayega nahi paas abbas
   Ujdega na zehra ka bhara ghar
   Abbas mere sar ki qasam khaa
+
+  1
   Ay baazu e shabbir wafadar qasam khaa
   Ujdega nahi zehra ka bhara ghar qasam khaa
   Rakh haath mere sar pe tu ek baar qasam khaa
@@ -70,12 +70,12 @@ romanLyrics: |-
 ---
 گھر سے چلے جب بہر سفر سبط پیمبر
 کہنے لگی عباس کی مادر شیر دلاور
-
-۱
 ایک نصیحت کرتی ہوں میں اے میرے دلبر
 غم کوئی بھی شبیر کے آے گا نہیں پاس عباس
 اجڑے گا نہ زہرا کا بھرا گھر
 عباس میرے سر کی قسم کھا
+
+۱
 اے بازوے شبیر وفادار قسم کھا
 اجڑے گا نہیں زہرا کا بھرا گھر قسم کھا
 رکھ ہاتھ میرے سر پہ تو ایک بار قسم کھا

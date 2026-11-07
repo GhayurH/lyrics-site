@@ -28,34 +28,30 @@ romanLyrics: |-
   3
   Ghazi ke tukde dekh ke tukde hua jigar
   Daadi safayd hogayi akbar ki laash par
+  Ek dopahar mein hum pe sitam kaisa hogaya
 
   4
-  Ek dopahar mein hum pe sitam kaisa hogaya
   Kehte hai ab bulaaiye imdaad ke liye
-
-  5
   Bolo hussain akbar o ghazi kahan gaye
   Dete hai taane purse ke badle ye ashqiyan
 
-  6
+  5
   Socha tha mujhse aake kahenge ye kalmago
   Dono ka pursa dene hum aaye hai aap ko
   Hasrat ye leke qabr mein mazloom jayega
 
-  7
+  6
   Mar jaaye gar kisi ka koi bhai ya pisar
   Usko dilaase dete hai sab log maut par
   Haye magar hamari ghareebi ki inteha
 
-  8
+  7
   Chaaron taraf hai teeron ki bauchaar dekh lo
   Hum par sabhi uthaate hai talwaar dekh lo
-
-  9
   Zainab batao ab kahan jaa kar kare gila
-  Khanjar talay bhi sheh ko takallum yehi tha gham
 
-  10
+  8
+  Khanjar talay bhi sheh ko takallum yehi tha gham
   Kitne ghareeb hogaye karbobala mein hum
   Khanjar rawan tha padte thay maula ye marsiya
 # source_id: nohayonline:8498ee46e55938dd4f09
@@ -80,33 +76,29 @@ romanLyrics: |-
 ۳
 غازی کے ٹکڑے دیکھ کے ٹکڑے ہوا جگر
 داڑھی سفید ہوگئی اکبر کی لاش پر
+اک دو پہر میں ہم پہ ستم کیسا ہوگیا
 
 ۴
-اک دو پہر میں ہم پہ ستم کیسا ہوگیا
 کہتے ہیں اب بلائیے امداد کے لئے
-
-۵
 بولو حسین اکبر و غازی کہاں گئے
 دیتے ہیں طعنے پرسے کے بدلے یہ اشقیا
 
-۶
+۵
 سوچا تھا مجھ سے آ کے کہیں گے یہ کلمہ گو
 دونوں کا پرسہ دینے ہم آئیں ہیں آپ کو
 حسرت یہ لے کےقبر میں مظلوم جائے گا
 
-۷
+۶
 مر جائے گر کسی کا کوئی بھائی یا پسر
 اُس کو دلاسے دیتے ہیں سب لوگ موت پر
 ہائے مگر ہماری غریبی کی انتہا
 
-۸
+۷
 چاروں طرف ہے تیروں کی بوچھار دیکھ لو
 ہم پر سبھی اٹھائے ہیں تلوار دیکھ لو
-
-۹
 زینب بتاؤ اب کہاں جاکر کریں گِلا
-خنجر تلے بھی شہہ کو تکلم یہی تھا غم
 
-۱۰
+۸
+خنجر تلے بھی شہہ کو تکلم یہی تھا غم
 کتنے غریب ہوگئے کرب و بلا میں ہم
 خنجر رواں تھا پڑھتے تھے مولا یہ مرثیہ

@@ -11,66 +11,64 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas meer-e-lashkaram
-  
-  1
   Shakle ali sher-e-khuda
   Shabbir sa jaaho hasham
-  
-  2
+
+  1
   Aaya ali ka laadla
   Kehte thay dushman bar mala
   Sab de do isko raasta
   Warna karega sar qalam
-  
-  3
+
+  2
   Ek naujawan ek shehsawaar
   Haathon may naiza tez dhaar
   Dushman giraye beshumaar
   Badta gaya yun dum ba dum
-  
-  4
+
+  3
   Darya pe jaanaa hai usay
   Pani pilaana hai usay
   Waada nibhana hai usay
   Khaayi sakina ki qasam
-  
-  5
+
+  4
   Raahe wafa may khoon diya
   Ek bhoondh na pani piya
   Darya pe jab gaada alam
   Sab keh uthe arb o ajam
-  
-  6
+
+  5
   Maidan may jab ghazi gaya
   Hyder ki tarha datt gaya
   Parcham ko jukne na diya
   Aur hogaye baazu qalam
-  
-  7
+
+  6
   Mashke sakina chidh gayi
   Pyasi sakina reh gayi
   Na aas ammu ki rahi
   Jab aagaya khaali alam
-  
-  8
+
+  7
   Ghode se jab ghazi gira
   Shabbir ka ek ba-wafa
   Dunya se ruqsat ho gaya
   Ujda hai zainab ka bharam
-  
-  9
+
+  8
   Abbas ne sheh se kaha
   Aaqa meri hai iltejaa
   Laasha na jaaye qaimon may
   Kar dijiye itna karam
-  
-  10
+
+  9
   Bacchon ka toota aasra
   Aaya alam jo khoon bhara
   Ghash may sakina gir padi
   Ye hogaya kaisa alam
-  
-  11
+
+  10
   Irfan ki hai iltejaa
   Mesum ki poori ho dua
   Nauhagar tera mai rahun
@@ -79,68 +77,65 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2515
 # raw_sha256: 3bb76986c5b884c3481dfc11cb9fff749929da303dc12f21977662dfe3c49b6e
 ---
-
 عباس میرِ لشکرم
-
-۱
 شکل علی شیر خدا
 شبیر سا جاہ و ہشم
 
-۲
+۱
 آیا علی کا لاڈلا
 کہتے تھے دشمن بر ملا
 سب دے دو اسکو راستہ
 ورنہ کرے گا سر قلم
 
-۳
+۲
 اک نوجواں اک شہ سوار
 ہاتھوں میں نیزہ تیز دھار
 دشمن گراے بے شمار
 بڑھتا گیا یوں دم بہ دم
 
-۴
+۳
 دریا پہ جانا ہے اسے
 پانی پلانا ہے اسے
 وعدہ نبھانا ہے اسے
 کھای سکینہ کی قسم
 
-۵
+۴
 راہ وفا میں خوں دیا
 اک بوندھ نہ پانی پیا
 دریا پہ جب گاڑا علم
 سب کہہ اٹھے عرب و عجم
 
-۶
+۵
 میداں میں جب غازی گیا
 حیدر کی طرح ڈٹ گیا
 پرچم کو جھکنے نے دیا
 اور ہو گےء بازو قلم
 
-۷
+۶
 مشک سکینہ چھد گیء
 پیاسی سکینہ رہ گیء
 نہ آس عمو کی رہی
 جب آ گیا خالی علم
 
-۸
+۷
 گھوڑے سے جب غازی گرا
 شبیر کا اک با وفا
 دنیا سے رخصت ہو گیا
 اجڑا ہے زینب کا بھرم
 
-۹
+۸
 عباس نے شہ سے کہا
 آقا میری ہے التجا
 لاشہ نہ جاے خیموں میں
 کر دیجیےء اتنا کرم
 
-۱۰
+۹
 بچوں کا ٹوٹا آسرا
 آیا علم جو خوں بھرا
 غش میں سکینہ گر پڑی
 یہ ہو گیا کیسا علم
 
-۱۱
+۱۰
 عرفان کی ہے التجا
 میثم کی پوری ہو دعا
 نوحہ گر تیرا میں رہوں
