@@ -28,18 +28,20 @@ romanLyrics: |-
   4
   Mujhko yaqeen hai maa wahan hogi hussain ki
   Nazrein na qatl gaah ki jaanib uthaunga
+
+  5
   Shabbir ko sunaunga akbar ka marsiya
   Abbas ko sakina ki sunaunga
 
-  5
+  6
   Jis jaah giri thi naaqe se beti batool ki
   Wajib samajh ke khud wahan par giraunga
 
-  6
+  7
   Ragdi thi jis jagah ali akbar ne aediyan
   Dil keh raha hai mai to wahan mar hi jaunga
 
-  7
+  8
   Sajjad zayareen ki khidmat karunga mai
   Is kaam bhi na aaya to kis kaam aaunga
 # source_id: nohayonline:5dc74f0a3de4c8ea6e21
@@ -64,17 +66,19 @@ romanLyrics: |-
 ۴
 مجھکو یقین ہے ماں وہاں ہوگی حسین کی
 نظریں نہ قتل گاہ کی جانب اٹھاؤں گا
+
+۵
 شبیر کو سناؤں گا اکبر کا مرثیہ
 عباس کو سکینہ کی سناؤں گا
 
-۵
+۶
 جس جگہ گری تھی ناقے سے بیٹی بتول کی
 واجب سمجھ کے خود وہاں پر گراؤں گا
 
-۶
+۷
 رگڑی تھی جس جگہ علی اکبر نے ایڑیاں
 دل کہہ رہا ہے میں تو وہاں مر ہی جاؤں گا
 
-۷
+۸
 سجاد زایرین کی خدمت کروں گا میں
 اس کام بھی نہ آیا تو کس کام آؤں گا
