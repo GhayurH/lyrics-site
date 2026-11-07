@@ -11,12 +11,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Chale aao baba
-  
-  1
   Sunati hai mujhko phupi jaan kahani
   Karun kya magar neend aati nahi hai
   Chale aao baba chale aao baba
   Mujhe khaak par neend aati nahi hai
+
+  1
   Kaleje mein uth'ta hai ek dard aisa
   Ke jis ke liye na dawa na dilaasa
   Mai kal tak to seene pe soti thi baba
@@ -75,12 +75,12 @@ romanLyrics: |-
 ---
 
 چلے آؤ بابا
-
-۱
 سناتی ہے مجھکو پھپھی جاں کہانی
 کروں کیا مگر نیند آتی نہیں ہے
 چلے آؤ بابا چلے آؤ بابا
 مجھے خاک پر نیند آتی نہیں ہے
+
+۱
 کلیجے میں اٹھتا ہے ایک درد ایسا
 کہ جس کے لئے نہ دوا نہ دلاسہ
 میں کل تک تو سینے پہ سوتی تھی بابا
