@@ -10,41 +10,39 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa dhoond rahi hai kabse asghar aajao aajao
-  
-  1
   Chaaya hai har simt andhera dilbar aajao
-  
-  2
+
+  1
   Tumse bichad kar dilbar mere
   Tadpoongi mai shaam savere
   Kaise jiyegi maa bin tere
   Aajao aajao asghar aajao
-  
-  3
+
+  2
   Bhuka aalam gor andhera
   Soone jangal mein hai basera
   Ghut'ta hai dam khauf se mera
   Phaile hai har simt sitamgar aajao
-  
-  4
+
+  3
   Khushk gala hoga mere jaani
   Aao pila laa'un tumhe pani
   Kuch to pata do kuch to nishani
   Khaati hoo mai thokare dar dar aajao
-  
-  5
+
+  4
   Aaja mere raaj dulare
   Aa meri aankhon ke taare
   Dukhiya maa ro ro ke pukare
   Kaise jiyungi tumse bichad kar aajao
-  
-  6
+
+  5
   Jabse suna hai fikr siwa hai
   Nanhe galay mein teer e jafa hai
   Dil ko ek dhadka sa laga hai
   Chalta hai dil par mere khanjar aajao
-  
-  7
+
+  6
   Dhoondh rahi hoo kabse ro ro
   Chain se maqtal mein sotay ho
   Tarsogay maa ke soorat ko
@@ -55,10 +53,9 @@ romanLyrics: |-
 ---
 
 ماں ڈھونڈ رہی ہے کب سے اصغر آ جائو آجائو
+چھایا ہے ہرسمت اندھیرا دلبر آجائو
 
 ۱
-چھایا ہے ہرسمت اندھیرا دلبر آجائو
-ماں ڈھونڈرہی ۔۔۔
 تم سے بچھڑکر دلبر میرے
 تڑپوں گی میںشام سویرے
 کیسے جائے گی ماں بن تیرے
