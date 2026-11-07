@@ -15,11 +15,8 @@ romanLyrics: |-
 
   1
   Wo keh rahi hai mera sabr azmaoge
-  Ay mere bhai hussain
   Qadam qadam pe mujhe bhai yaad aaoge
-  Ay mere bhai hussain ay mere bhai hussain
   Sehar ko nana ka waada jo tum nibhaoge
-  Ay mere bhai hussain ay mere bhai hussain
 
   2
   Meri nigaah mein bachpan ki saari yaadein hai
@@ -69,16 +66,14 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3572
 # raw_sha256: 5ade48c91b3046f73db48a75eb43d4fa83c4862d00205777752810c46038a19f
 ---
+
 سنو سنو شب عاشور کا یہ منظر ہے
 سرہانے بھای کے بیٹھی علی کی دختر ہے
 
 ۱
 وہ کہہ رہی ہے میرا صبر آزماؤ گے
-اے میرے بھائی حسین
 قدم قدم پہ مجھے بھای یاد آؤ گے
-اے میرے بھائی حسین اے میرے بھائی حسین
 سحر کو نانا کا وعدہ جو تم نبھاؤ گے
-اے میرے بھائی حسین اے میرے بھائی حسین
 
 ۲
 میری نگاہ میں بچپن کی ساری یادیں ہے
