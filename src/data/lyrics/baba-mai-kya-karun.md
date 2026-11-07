@@ -12,42 +12,40 @@ published: false
 romanLyrics: |-
   Ro ro ke baba jaan se kehti thi fatema
   Baba mai kya karun
-  
-  1
   Daswi ko karbala mein mera ghar ujad gaya
   Ek do paher mein haye muqaddar bigad gaya
-  
-  2
+
+  1
   Aun o mohamed apne abo jadd ki thay misaal
   Zainab ke dono laal
   Maa ne nisaar unhe bhi biradar pe kar diya
   Phir bhi mera hussain jafa se na bach saka
-  
-  3
+
+  2
   Qasim sa naujawan ke nihayat haseen tha
   Kitna zaheen tha
   Aada ne uski laash ko pamaal kar diya
   Nasle hassan ko qata kiya haye kya kiya
-  
-  4
+
+  3
   Farzand mera kitna jari aur diler tha
   Sheron ka sher tha
   Mai dekhti rahi mera abbas mar gaya
   Shaane kata ke nehr pe ghazi guzar gaya
-  
-  5
+
+  4
   Kadiyal jawan aap ki bilkul shabih tha
   Kaisa wajeeh tha
   Khaa kar sina kaleje pe akbar guzar gaya
   Ek aah ki hussain ne aur dil pakad liya
-  
-  6
+
+  5
   Asghar wo cheh mahine ki jaan haye natawan
   Pyasa tha bezaban
   Lekin shaqi ne teer e seh shoba chala diya
   Aaghosh mein hussain ki baccha ulat gaya
-  
-  7
+
+  6
   Baba idhar to dekhiye balwa e aam mein
   Izdehaam emin
   Wo jaa raha hai dard raseedon ka khafila
@@ -59,42 +57,40 @@ romanLyrics: |-
 
 رو رو کے بابا جان سے کہتی تھی فاطمہ
 بابا میں کیا کروں
-
-۱
 دسویں کو کربلا میں میرا گھر اجڑ گیا
 ایک دو پہر میں ہاے مقدر بگڑ گیا
 
-۲
+۱
 عون و محمد اپنے ابو جد کی تھے مثال
 زینب کے دونوں لال
 ماں نے نثار انہیں بھی برادر پہ کر دیا
 پھر بھی میرا حسین جفا سے نہ بچ سکا
 
-۳
+۲
 قاسم سا نوجواں کے نہایت حسین تھا
 کتنا ذہین تھا
 اعدا نے اس کی لاش کو پامال کر دیا
 نسل حسن کو قطع کیا ہاے کیا کیا
 
-۴
+۳
 فرزند میرا کتنا جری اور دلیر تھا
 شیروں کا شیر تھا
 میں دیکھتی رہی میرا عباس مر گیا
 شانے کٹا کے نہر پہ غازی گزر گیا
 
-۵
+۴
 کڑیل جوان آپ کی بالکل شبیہ تھا
 کیسا وجیہ تھا
 کھا کر سناں کلیجے پہ اکبر گزر گیا
 ایک آہ کی حسین نے اور دل پکڑ لیا
 
-۶
+۵
 اصغر وہ چھ مہینے کی جان ہاے نا تواں
 پیاسا تھا بے زباں
 لیکن شقی نے تیر سہ شوبا چلا دیا
 آغوش میں حسین کی بچہ الٹ گیا
 
-۷
+۶
 بابا ادھر تو دیکھیےء بلوہء عام میں
 اژدہام میں
 وہ جا رہا ہے درد رسیدوں کا قافلہ
