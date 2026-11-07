@@ -34,34 +34,30 @@ romanLyrics: |-
   4
   Ye pehli baar tha zahra jo mera haath kaampa tha
   Bahot mushkil se maine tumse darwarza hataya tha
+  Wo manzar yaad aaye to mera dil khoon rota hai
 
   5
-  Wo manzar yaad aaye to mera dil khoon rota hai
   Tumhare laadle bachon ka aise dhyaan rakhta hoo
-
-  6
   Mai apne dil ke saare zakhm bhi unse chupate hoo
   Dar o dewaar ne ghar ke ali ka haal dekha hai
 
-  7
+  6
   Tumhe rota hoo mai zahra meri haalat pe tum ro lo
   Mai aajaun tumhare paas ye rab se dua maango
   Tera pehlu shikasta tha ali ka dil shikasta hai
 
-  8
+  7
   Azane fajr nauha ban gayi hai aaj kufe mein
   Kiya hai waar rozadaar pe zaalim ne sajde mein
   Lahoo itna baha sar se amaama khoon mein dooba hai
 
-  9
+  8
   Mai zakhmi hoo magar takleef mujhko ye nahi bibi
   Mujhe to fikr khaye jaa rahi apne bachon ki
-
-  10
   Tum hi batalo mere baad kaun inka sahara hai
-  Ali ke gham samajh sakta nahi azlaan koi bhi
 
-  11
+  9
+  Ali ke gham samajh sakta nahi azlaan koi bhi
   Jo tanhaai thi maula ki bayan ho hi nahi sakti
   Ali maula ki tanhaai ko bas zahra ne samjha hai
 # source_id: nohayonline:a798c97c0f989f25ed0a
@@ -92,33 +88,29 @@ romanLyrics: |-
 ۴
 یہ پہلی بار تھا زہرا جو میرا ہاتھ کانپا تھا
 بہت مشکل سے میں نے تم سے دروازہ ہٹایا تھا
+وہ منظر یاد آئے تو میرا دِل خون روتا ہے
 
 ۵
-وہ منظر یاد آئے تو میرا دِل خون روتا ہے
 تمہارے لاڈلے بچوں کا ایسے دھیان رکھتا ہوں
-
-۶
 میں اپنے دِل کے سارے زخم بھی ان سے چھپا تا ہوں
 در و دیوار نے گھر کے علی کا حال دیکھا ہے
 
-۷
+۶
 تمہیں روتا ہوں میں زہرا میری حالت پے تم رولو
 میں آ جائوں تمہارے پاس یہ رب سے دُعا مانگو
 تیرا پہلو شکستہ تھا علی کا دِل شکستہ ہے
 
-۸
+۷
 اذآنِ فجر نوحہ بن گئی ہے آج کوفے میں
 کیا ہے وار روزہ دار پے ظالم نے سجدے میں
 لہو اتنا بہا سر سے عمامہ خوں میں ڈوبا ہے
 
-۹
+۸
 میں زخمی ہوں مگر تکلیف مجھ کو یہ نہیں بی بی
 مجھے تو فکر کھائے جا رہی ہے اپنے بچوں کی
-
-۱۰
 تمہی بتلائو میرے بعد کون انکا سہارا ہے
-علی کے غم سمجھ سکتا نہیں ازلان کوئ بھی
 
-۱۱
+۹
+علی کے غم سمجھ سکتا نہیں ازلان کوئ بھی
 جو تنہائی تھی مولا کی بیاں ہو ہی نہیں سکتی
 علی مولا کی تنہائی کو بس زہرا نے سمجھا ہے
