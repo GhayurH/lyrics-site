@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Bemaar behan ka nauha tha
-  
-  1
   Kyun aaye nahi bhaiya akbar
   Kya lena mujhe tab aaoge
   Mar jayegi jab sughra akbar
+  
+  1
   Bemaar behan se jaate huwe
   Waada ye kiya tha aaunga
   Baba ne tujhe kyun rok liya
@@ -62,11 +62,11 @@ romanLyrics: |-
 ---
 
 بیمار بہن کا نوحہ تھا
-
-۱
 کیوں آے نہیں بھیا اکبر
 کیا لینا مجھے تب آؤ گے
 مر جاۓ گی جب صغرا اکبر
+
+۱
 بیمار بہن سے جاتے ہوے
 وعدہ یہ کیا تھا آؤں گا
 بابا نے تجھے کیوں روک لیا
