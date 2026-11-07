@@ -9,76 +9,45 @@ poet: "Anees Pehersari"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Bali sakina yehi karti thi ro ro fughan
-
+romanLyrics: |-
+  Bali sakina yehi karti thi ro ro fughan
   Hai mere ammu kahan hai mere baba kahan
-
-  Hone lagi dasht may sham e ghariban ayan
-
+  Hone lagi dasht mein shaam e ghariban ayaan
 
   1
-
   Jaane kidhar aaj sab nasir o yawar gaye
-
   Kaisi qayamat hui qasim o akbar gaye
-
-  Justuju e aab may saani e hyder gaye
-
-  Nanhe mujahid ke saath sipte payambar gaye
-
-  Dhoond rahi hoo magar milta nahi kuch nishan
-
+  Justuju e aab mein saani e hyder gaye
+  Nanhe mujahid ke saath sibte payambar gaye
+  Dhoond rahi hoon magar milta nahi kuch nishan
 
   2
-
-  Lashkare kuffar may dhoom hai kyon is khadar
-
-  Soch rahi hoo yahi aayi hai kaisi khabar
-
+  Lashkare kuffar mein dhoom hai kyun is qadar
+  Soch rahi hoon yehi aayi hai kaisi khabar
   Chaak gareban kiye rota hai sab ghar ka ghar
-
-  Hosh kisi ko nahi kya karoon jaa''un kidhar
-
-  Koi bataye mujhe kyon hai ye aagho fughan
-
+  Hosh kisi ko nahi kya karoon jaaun kidhar
+  Koi bataye mujhe kyun hai ye aah o fughan
 
   3
-
-  Qaimo may be-izn hi aagaye sab ehle shar
-
-  Zulm ki had tod-di abide bemaar par
-
-  Lootli sar se rida loot ke sab maal o zar
-
-  Shimr e layeen legaya cheen ke mere gohar
-
-  Jaake dikhaungi mai kano se khoon hai rawan
-
+  Qaimon mein be-izn hi aagaye sab ahle shar
+  Zulm ki had tod di abide bemaar par
+  Loot li sar se rida loot ke sab maal o zar
+  Shimr e layeen le gaya cheen ke mere gohar
+  Jaake dikhaungi mai kaano se khoon hai rawan
 
   4
-
-  Pyasi hoo ye lafz hi lab pe na laa''ungi mai
-
-  Unki judaai ka gham kaise utha''ungi mai
-
-  Maut se pehle unhe dekh bhi pa''ungi mai
-
-  Jab bhi milenge mujhe unko bata''ungi mai
-
+  Pyasi hoon ye lafz hi lab pe na laungi mai
+  Unki judaai ka gham kaise uthaungi mai
+  Maut se pehle unhe dekh bhi paungi mai
+  Jab bhi milenge mujhe unko bataungi mai
   Maare tamache mujhe shimr ne di ghurkiyan
 
-
   5
-
   Aur anees e hazeen haal kare kya raqam
-
-  Zulm ki jab sayliyan kha chuke ehle haram
-
-  Aale mohamad pe phir toota naya ek sitam
-
-  Dekho ke bacho may hai bali sakina bhi to
-
-  Karti thi jo dam ba dam roke yehi ek fughan'
+  Zulm ki jab sayliyan kha chuke ahle haram
+  Aale mohammed pe phir toota naya ek sitam
+  Dekho ke bachon mein hai bali sakina bhi to
+  Karti thi jo dam ba dam roke yehi ek fughan
 # source_id: nohayonline:f80e44c0f8dd9e7512c6
 # source_url: https://www.nohayonline.com/details_content.php?id=252
 # raw_sha256: 8ac6920fa81e081d1bd5e1e22b82f41b885d704c0adcc16ca178a55f8e9c428d
