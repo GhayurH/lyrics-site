@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghazi alam tera uncha rahega
-  
-  1
   Kal bhi alam tere uncha raha hai
   Aaj bhi hai aur kal bhi rahega
+
+  1
   Tere alam ke saaye mein dunya
   Apni muradein maang rahi hai
   Tere alam ke saaye mein aa kar
@@ -61,10 +61,10 @@ romanLyrics: |-
 ---
 
 غازی علم تیرا اونچا رہے گا
-
-۱
 کل بھی علم تیرا اونچا رہا ہے
 آج بھی ہے اور کل بھی رہے گا
+
+۱
 تیرے علم کے ساے میں دنیا
 اپنی مرادیں مانگ رہی ہے
 تیرے علم کے ساے میں آ کر
