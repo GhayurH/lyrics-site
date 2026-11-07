@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Chehra na tera saamne gar paungi baba
   Tareeki e zindan may ghabraungi baba
-
-  1
   Darti hoo andhere may nazar kuch nahi aata
   Dewaaron se takrati hoo mar jaungi baba
   Dekha na sakina ne zindan may savera hai
   Mai kya bataun baba yahan kitna andhera hai
+
+  1
   Har roz maarte hai mujhko tamache zaalim
   Teri laadli ka baba zakhmi hua chehra hai
 
@@ -52,14 +52,15 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1627
 # raw_sha256: a25e7fc609b7f77ee58e2d7420bfe7108dd78a00bb994ca35ef6d0da2d2e1637
 ---
+
 چہرہ نہ تیرا سامنے گر پاؤں گی بابا
 تاریکیء زندان میں گھبراؤں گی بابا
-
-۱
 ڈرتی ہوں اندھیرے میں نظر کچھ نہیں آتا
 دیواروں سے ٹکراتی ہوں مر جاؤں گی بابا
 دیکھا نہ سکینہ نے زنداں میں سویرا ہے
 میں کیا بتاؤں بابا یہاں کتنا اندھیرا ہے
+
+۱
 ہر روز مارتے ہیں مجھکو طمانچے ظالم
 تیری لاڈلی کا بابا زخمی ہوا چہرہ ہے
 
