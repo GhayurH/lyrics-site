@@ -12,128 +12,143 @@ published: false
 romanLyrics: |-
   Ye virsa marte marte bhi
   Hum naslon ko de jayenge
-  
-  1
   Majlis matam karwayenge
   Jee karta hai mere maula
   Sab karbobala ko jayenge
   Majlis matam karwayenge
+
+  1
   Ghazi ka alam uthayange
   Dunya se khaafile ayenge
   Majlis matam karwayenge
+
+  2
   Jab subho hogi karbal mein
   Hum khaake shifa ko choomenge
   Din raat wahan sab ahle aza
   Maula ka sog manayenge
-  Majlis matam karwayenge...
+
+  3
   Jab dekhein chand muharram ka
   Sab jaayein qayaam e hussaini par
   Abbas ke qaime par rukh kar
   Jab izne ziyarat payenge
-  Majlis matam karwayenge...
+
+  4
   Jab pahunchenge us manzil par
   Asghar ke laga tha teer jahan
   Bulwayenge nanhe bacchon ko
   Sab ko pani pilwayenge
-  Majlis matam karwayenge...
+
+  5
   Matam na rukega ahle aza
   Akbar ke jahan naiza tha laga
   Hum khoon e ali akbar ki qasam
   Nauha sughra ka sunayenge
-  Majlis matam karwayenge...
+
+  6
   Darya ke kanare baith ke hum
   Royenge wo manzar soch ke hum
   Jab khoon mein bhara aaya tha alam
   Ye soch ke ashk bahayenge
-  Majlis matam karwayenge...
+
+  7
   Jab aath muharram aayegi
   Bacchon ko banayenge saqqa
   Us roz saja kar mashk o alam
   Sharbat pe nazar dilwayenge
-  Majlis matam karwayenge...
+
+  8
   Jab shaam e ghariban aayegi
   Kya kya na hamay rulwayengi
   Ek jalte huwe jhoola ki shabi
   Yaad aayi to mar jayenge
-  Majlis matam karwayenge...
+
+  9
   Jis teele se zainab ne kabhi
   Kat'te huwe dekha bhai ka sar
   Yaad aayega roze ashoora
   Seene gham se phat jayenge
-  Majlis matam karwayenge...
+
+  10
   Ashoor ka din jab hoga ayan
   Maula se kahenge ro ro kar
   Daaman mein chupa lije maula
   Hum laut ke ghar na jayenge
-  Majlis matam karwayenge...
+
+  11
   Rehaan ki aur sarwar ki sada
   Hai karbobala se wabasta
-  
-  2
-  Majlis matam karwayenge...
 # source_id: nohayonline:ec32934da28520918491
 # source_url: https://www.nohayonline.com/details_content.php?id=3313
 # raw_sha256: 66756eeae7400686b696dd5d1efc812339e6eb5bf7945210172c6d9ab87eb528
 ---
-
 یہ ورثہ مرتے مرتے بھی
 ہم نسلوں کو دے جاییں گے
-
-۱
 مجلس ماتم کرواییں گے
 جی کرتا ہے میرے مولا
 سب کربوبلا کو جاییں گے
 مجلس ماتم کرواییں گے
+
+۱
 غازی کا علم اٹھاییں گے
 دنیا سے قافلے آیینگے
 مجلس ماتم کرواییں گے
+
+۲
 جب صبح ہوگی کربل میں
 ہم خاک شفا کو چومیں گے
 دن رات وہاں سب اہلِ عزا
 مولا کا سوگ منایینگے
-مجلس ماتم کرواییں گے۔۔۔
+
+۳
 جب دیکھیں چاند محرم کا
 سب جاییں قیام حسینی پر
 عباس کے خیمے پر رخ کر
 جب اذن زیارت پاییں گے
-مجلس ماتم کرواییں گے۔۔۔
+
+۴
 جب پہنچیں گے اس منزل پر
 اصغر کے لگا تھا تیر جہاں
 بلواییں گے ننھے بچوں کو
 سب کو پانی پلوایینگے
-مجلس ماتم کرواییں گے۔۔۔
+
+۵
 ماتم نہ رکے گا اہلِ عزا
 اکبر کے جہاں نیزہ تھا لگا
 ہم خون علی اکبر کی قسم
 نوحہ صغرا کا سنایینگے
-مجلس ماتم کرواییں گے۔۔۔
+
+۶
 دریا کے کنارے بیٹھ کے ہم
 رویینگے وہ منظر سوچ کے ہم
 جب خوں میں بھرا آیا تھا علم
 یہ سوچ کے اشک بہایینگے
-مجلس ماتم کرواییں گے۔۔۔
+
+۷
 جب آٹھ محرم آے گی
 بچوں کو بنایینگے سقہ
 اس روز سجا کر مشک و علم
 شربت پہ نظر دلوایینگے
-مجلس ماتم کرواییں گے۔۔۔
+
+۸
 جب شام غریباں آے گی
 کیا کیا نہ ہمیں پلوایینگے
 ایک جلتے ہوئے جھولا کی شبیہ
 یاد آی تو مر جائیں گے
-مجلس ماتم کرواییں گے۔۔۔
+
+۹
 جس ٹیلے سے زینب نے کبھی
 کٹتے ہوئے دیکھا بھائی کا سر
 یاد آے گا روز عاشورہ
 سینے غم سے پھٹ جائیں گے
-مجلس ماتم کرواییں گے۔۔۔
+
+۱۰
 عاشور کا دن جب ہوگا عیاں
 مولا سے کہیں گے رو رو کر
 دامن میں چھپ لیجیےء مولا
 ہم لوٹ کے گھر نہ جائیں گے
-مجلس ماتم کرواییں گے۔۔۔
+
+۱۱
 ریحان کی اور سرور کی صدا
 ہے کربوبلا سے وابستہ
-
-۲
-مجلس ماتم کرواییں گے۔۔۔
