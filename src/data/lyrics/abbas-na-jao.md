@@ -12,36 +12,36 @@ published: false
 romanLyrics: |-
   Seene se lago ya mujhe seene se lagao
   Abbas na jao
-  
-  1
   Zainab ko ghash aaya hai usay hosh mein lao
+
+  1
   Tum ho to usay apni rida yaad nahi hai
   Baba ka kaha tum na usay yaad dilao
-  
+
   2
   Kehti hai ke ye haath mere sar ki rida hai
   Lillaah na in haathon ko darya pe katao
-  
+
   3
   Tum jaate ho jabse ye khabar usne suni hai
   Wo khaak pe baithi hai sakina ko uthao
-  
+
   4
   Lashkar ke alamadar ho tum ho mera lashkar
   Lillaah mere hote na hathyaar sajao
-  
+
   5
   Pani se bhala hijr ki kab pyaas bujhegi
   Hai tashnalabon ki ye sada haye na jao
-  
+
   6
   Pehle mere halqoom pe chal jaane do khanjar
   Jeete ji mujhe tum to na ye daagh dikhao
-  
+
   7
   Phir shimr hai aur shaam e ghariban ka andhera
   Chodun mai sakina ko kahan ye to batao
-  
+
   8
   Thay bain ye qaime mein naved ahle haram ke
   Baad apne darindo ke liye chod na jao
@@ -49,12 +49,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=800
 # raw_sha256: 2c522610c2edf91077e1847ba002dd2bd73fbf6a842ef1ee2db6206c1f500eff
 ---
-
 سینے سے لگاؤ یا مجھے سینے سے لگاؤ
 عباس نہ جاؤ
+زینب کو غش آیا ہے اسے ہوش میں لاؤ
 
 ۱
-زینب کو غش آیا ہے اسے ہوش میں لاؤ
 تم ہوتو اسے اپنی ردا یاد نہیں ہے
 بابا کا کہا تم نہ اسے یاد دلاؤ
 

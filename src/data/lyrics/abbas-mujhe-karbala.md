@@ -14,12 +14,12 @@ romanLyrics: |-
   Is saal bhi zawwaron mein jab naam na aaya
   Dil toot gaya karbala na jaane ke gham se
   Ro ro ke kaha maine lipat kar ye alam se
-
-  1
   Ek baar mujhe bhi to sada do
   Abbas abbas abbas mujhe karbala dikha do
   Shabbir ka zawwar bana do
   Abbas mujhe karbala dikha do
+
+  1
   Tum jaante ho koi nahi mera sahara
   Abbas kate haathon se tum kar do ishara
   Jab yaad hussain aate hai rota hai mera dil
@@ -98,12 +98,12 @@ romanLyrics: |-
 اس سال بھی زواروں میں جب نام نہ آیا
 دل ٹوٹ گیا کربلا نہ جانے کے غم سے
 رو رو کے کہا میں نے لپٹ کر یہ علم سے
-
-۱
 ایک بار مجھے بھی تو صدا دو
 عباس عباس عباس مجھے کربلا دکھا دو
 شبیر کا زوار بنا دو
 عباس مجھے کربلا دکھا دو
+
+۱
 تم جانتے ہو کوئی نہیں میرا سہارا
 عباس کٹے ہاتھوں سے تم کر دو اشارہ
 جب یاد حسین آتے ہیں روتا ہے میرا دل

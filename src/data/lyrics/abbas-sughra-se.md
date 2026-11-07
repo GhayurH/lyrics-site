@@ -14,8 +14,6 @@ romanLyrics: |-
   Aa ke abbas se kehne lagi ro kar sughra
   Chacha jaan aap ki baat mere baba nahi taalenge
   Aap baba ko manalenge chacha jaan
-
-  1
   Le chaliye mujhe karbobala saath
   Chacha jaan le chaliye mujhe karbobala saath
   Maula abbas ne jaa kar ye shahe deen se kaha
@@ -23,6 +21,8 @@ romanLyrics: |-
   Hussain bole ay mere bhai alamdar
   Abbas sughra se kaho tum ghar mein raho
   Abbas abbbas abbas
+
+  1
   Hum jahan jayenge mahaul sharabi hoga
   Sar chupane ke liye hogi meinassar na rida
   Sabr karna shahzadi
@@ -85,8 +85,6 @@ romanLyrics: |-
 آ کے عباس سے کہنے لگی رو کر صغرا
 چچا جان آپ کی بات میرے بابا نہیں ٹالیں گے
 آپ بابا کو منالیں گے چچا جان
-
-۱
 لے چلےء مجھے کربوبلا ساتھ
 چچا جان لے چلےء مجھے کربوبلا ساتھ
 مولا عباس نے جا کر یہ شہ دیں سے کہا
@@ -94,6 +92,8 @@ romanLyrics: |-
 حسین بولے اے میرے بھائی علمدار
 عباس صغریٰ سے کہو تم گھر میں رہو
 عباس عباس عباس
+
+۱
 ہم جہاں جاینگے ماحول شرابی ہوگا
 سر چھپانے کے لےء ہوگی میسر نہ ردا
 صبر کرنا شہزادی

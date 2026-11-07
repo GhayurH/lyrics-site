@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Tu sher e jari hai sakhiyon ka sakhi hai
   Ya baabe hawaej meri faryad ko sunle
-
-  1
   Imdad karo meri ab waqte karam hai
   Abbas tumhe bali sakina ki qasam hai
+
+  1
   Aaya hoo tere dar pe badi aas hai maula
   Har toote huwe dil ka tu ehsaas hai maula
   Tu ek samandar hai mujhe pyaas hai maula
@@ -74,10 +74,10 @@ romanLyrics: |-
 ---
 تو شیر جری ہے سخیوں کا سقی ہے
 یا باب حوایج میری فریاد کو سن لے
-
-۱
 امداد کرو میری اب وقت کرم ہے
 عباس تمہیں بالی سکینہ کی قسم ہے
+
+۱
 آیا ہوں تیرے در پہ بڑی آس ہے مولا
 ہر ٹوٹے ہوے دل کا تو احساس ہے مولا
 تو ایک سمندر ہے مجھے پیاس ہے مولا
