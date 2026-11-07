@@ -10,59 +10,60 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Shaam zindan e shaam shaam haye shaam
   Ay shamiyon chain se sona bacchi ne nahi ab rona
   Sakina chup kar gayi
+
+  1
   Sajjad utha kar bole masoom behen ka laasha
   Sakina chup kar gayi
   Baba ki yaad mein isne rone pe tamache khaaye
   Sone pe tamache khaaye
   Ay shaam ke zaalim logon apne bacchon se kehna
   Sakina chup kar gayi
-  
+
   2
   Main kaise isay dafnaun mere haath bande hai dekho
   Zanjeer meri khulwa do
   Kurte ke kafan mein isko zindan mein hai dafnana
   Sakina chup kar gayi
-  
+
   3
   Zindan mein hai kyun khamoshi jab shamiyon ne ye poocha
   Haste huwe shimr ye bola
   Neele rukhsaar thay jiske kehti thi jo baba baba
   Sakina chup kar gayi
-  
+
   4
   Zakhmi qaidi aur pyasi ye chaar baras ki zahra
   Roti thi chupa kar chehra
   Aisi shiddat se moo par zaalim ne tamacha maara
   Sakina chup kar gayi
-  
+
   5
   Bazaar e shaam mein is ko jab baaghi baaghi keh kar
   Sab maar rahe thay patthar
   Rote rote naize par ghazi ko jo rote dekha
   Sakina chup kar gayi
-  
+
   6
   Haye shaam e ghariban mein jo is bacchi ke kaano se
   Zaalim ne jo aakar noche
   Baba se mile wo gohar ramla ko jo pehne dekha
   Sakina chup kar gayi
-  
+
   7
   Maara gaya pyasa ghazi qaimon mein khabar jab aayi
   Pani jo maang rahi thi
   Jaane kab se thi pyasi phir usne na pani maanga
   Sakina chup kar gayi
-  
+
   8
   Jab maar ke naiza tum ne naaqe se giraya isko
   Ro ro ke mar jaati wo
   Jab apne jaisi dekhi burqe mein ek zaeefa
   Sakina chup kar gayi
-  
+
   9
   Darvesh tadapta hai dil zeeshan tha manzar kaisa
   Zindan mein sar jab aaya
@@ -73,10 +74,11 @@ romanLyrics: |-
 # raw_sha256: 304ddeb32af0c72b3dcc766c83c9b43792b2800232fae4c577aac79715044eeb
 ---
 
-۱
 شام زندان شام شام ہاے شام
 اے شامیوں چین سے سونا بچی نے نہیں اب رونا
 سکینہ چھپ کر گیء
+
+۱
 سجاد اٹھا کر بولے معصوم بہن کا لاشہ
 سکینہ چھپ کر گیء
 بابا کی یاد میں اس نے رونے پہ طمانچے کھاے
