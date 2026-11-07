@@ -31,7 +31,6 @@ romanLyrics: |-
   Hai mere labon par gham ki azan
   Chadar jo chini mar jaungi
   Main zainab hoo kuch sharm karo
-  Na cheeno chadar...
 
   4
   Bhai pe mere kyun baaghi ke
@@ -43,7 +42,6 @@ romanLyrics: |-
   Gham mere badhaye hai tumne
   Dil thaam ke mai ye kehti rahi
   Main zainab hoo kuch sharm karo
-  Na cheeno chadar...
 
   6
   Is tarha mohamad ke dil ko
@@ -55,7 +53,6 @@ romanLyrics: |-
   Sadmon ne mera ye haal kiya
   Tasbeeh hi meri ye baat bani
   Main zainab hoo kuch sharm karo
-  Na cheeno chadar...
 
   8
   Galiyon mein charaghan hota hai
@@ -67,7 +64,6 @@ romanLyrics: |-
   Is baat pe khwahar roti hai
   Tum haste rahe mai roti rahi
   Main zainab hoo kuch sharm karo
-  Na cheeno chadar...
 
   10
   Baalon ki safedi par meri
@@ -79,7 +75,6 @@ romanLyrics: |-
   Is baat pe qismat roti hai
   Be jurm o khata kyun qaidi bani
   Main zainab hoo kuch sharm karo
-  Na cheeno chadar...
 
   12
   Be-parda mujhe dekha hi nahi
@@ -91,7 +86,6 @@ romanLyrics: |-
   Karti hoon buka har ek qadam
   Mehmil ke bina mai shaam chali
   Main zainab hoo kuch sharm karo
-  Na cheeno chadar...
 
   14
   Tareekhe sitam dohrayi gayi
@@ -103,7 +97,6 @@ romanLyrics: |-
   Aur sar se mere dastaar gayi
   Darbar talak ye kehti gayi
   Main zainab hoo kuch sharm karo
-  Na cheeno chadar...
 
   16
   Hai kund zabaane aur qalam
@@ -115,7 +108,6 @@ romanLyrics: |-
   Rudaad bayan kar sakte nahi
   Kyun kehna pada bibi ko meri
   Main zainab hoo kuch sharm karo
-  Na cheeno chadar...
 # source_id: nohayonline:5fa405f1e0eb061893dd
 # source_url: https://www.nohayonline.com/details_content.php?id=967
 # raw_sha256: 7786268ab133069b1d62253423ccf752ea1c08e280e0ab171ae59f59a2ecbd39
@@ -141,7 +133,6 @@ romanLyrics: |-
 ہے میرے لبوں پر غم کی اذاں
 چادر جو چھنی مر جاؤں گی
 میں زینب ہوں کچھ شرم کرو
-نہ چھینو چادر۔۔۔
 
 ۴
 بھائی پہ میرے کیوں باغی کے
@@ -153,7 +144,6 @@ romanLyrics: |-
 غم میرے بڑھاے ہیں تم نے
 دل تھام کے میں یہ کہتی رہی
 میں زینب ہوں کچھ شرم کرو
-نہ چھینو چادر۔۔۔
 
 ۶
 اس طرح محمد کے دل کو
@@ -165,7 +155,6 @@ romanLyrics: |-
 صدموں نے میرا یہ حال کیا
 تسبیح ہی میری یہ بات بنی
 میں زینب ہوں کچھ شرم کرو
-نہ چھینو چادر۔۔۔
 
 ۸
 گلیوں میں چراغاں ہوتا ہے
@@ -177,7 +166,6 @@ romanLyrics: |-
 اس بات پہ خواہر روتی ہے
 تم ہنستے رہے میں روتی رہی
 میں زینب ہوں کچھ شرم کرو
-نہ چھینو چادر۔۔۔
 
 ۱۰
 بالوں کی سفیدی پر میری
@@ -189,7 +177,6 @@ romanLyrics: |-
 اس بات پہ قسمت روتی ہے
 بے جرم و خطا کیوں قیدی بنی
 میں زینب ہوں کچھ شرم کرو
-نہ چھینو چادر۔۔۔
 
 ۱۲
 بے پردہ مجھے دیکھا ہی نہیں
@@ -201,7 +188,6 @@ romanLyrics: |-
 کرتی ہوں بکا ہر ایک قدم
 محمل کے بنا میں شام چلی
 میں زینب ہوں کچھ شرم کرو
-نہ چھینو چادر۔۔۔
 
 ۱۴
 تاریخِ ستم دہرای گیء
@@ -213,7 +199,6 @@ romanLyrics: |-
 اور سر سے میرے دستار گیء
 دربار تلک یہ کہتی گیء
 میں زینب ہوں کچھ شرم کرو
-نہ چھینو چادر۔۔۔
 
 ۱۶
 ہے کند زبان اور قلم
@@ -225,4 +210,3 @@ romanLyrics: |-
 روداد بیاں کر سکتے نہیں
 کیوں کہنا پڑا بی بی کو میری
 میں زینب ہوں کچھ شرم کرو
-نہ چھینو چادر۔۔۔

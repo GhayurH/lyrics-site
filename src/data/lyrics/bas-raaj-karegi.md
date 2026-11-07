@@ -12,91 +12,79 @@ published: false
 romanLyrics: |-
   Ghaibat ka parda uthne do
   Jo dekh rahe hai hum logon
-  
+
   1
   Tum bhi dekhoge yaad rakho
   Zulm phir zulm hai khoon phir khoon hai
   Zulm phir zulm hai badta hai to mit jaata hai
   Khoon phir khoon hai tapkega to jam jayega
-  
+
   2
   Khaak e sehra pe jamein ya kafe qaatil pe jame
   Farq e insaaf pe jamein ya paaye salaasil pe jame
   Tere bedaat pe ya laasha e bismil pe jame
   Khoon phir khoon hai tapkega to jam jayega
-  
+
   3
   Jo roze ajal tay paaya tha
   Saabit hua roze ashoora
   Yeh kal bhi hamara daawa tha
   Yeh aaj bhi hai apna hai dawa
-  
+
   4
   Zillat hai muqaddar baatil ka
   Bas raaj karegi karbobala
   Daur ho chahe koi bhi hai khuda ka faisla
   Bas raaj karegi karbobala
-  
+
   5
-  Zillat hai muqaddar...
-  Bas raaj karegi...
   Karbala ka raaj hi deene khuda ka raaj hai
   Khanjaro ki maut hai ye khoon ki meraaj hai
-  
+
   6
   Nauke naiza par ali ke laal ne saabit kiya
   Bas raaj karegi karbobala
-  Zillat hai muqaddar...
-  Bas raaj karegi...
-  
+
   7
   Khoon behkar bhi amar hai zulm ko maut aagayi
   Gir gaya darbar e baatil karbala hai aaj bhi
   Ab bhi ye lehra ke kehta hai alam abbas ka
   Bas raaj karegi karbobala
-  
+
   8
-  Zillat hai muqaddar...
-  Bas raaj karegi...
   Zulm ki baat hi kya zulm ki auqaat hi kya
   Zulm phir zulm hai aghaaz se anjam talak
-  
+
   9
   Zulm ki qismat-e-nakara aur ruswa se kaho
   Jabr ki hikmat-e-purkaar ki emaan se kaho
   Khoon deewana hai daaman pe lapak sakta hai
   Khoon phir khoon hai tapkega to jam jaayega
-  
+
   10
   Zulm ki sheh-rag jo kaate khoon wo shamsheer hai
   Jabr ko qaidi jo karle khoon wo zanjeer hai
   Khoon ke aansu baha kar di ye abid ne sada
   Bas raaj karegi karbobala
-  
+
   11
-  Zillat hai muqaddar...
-  Bas raaj karegi...
   Shaam ke darbar mein hai binte zehra berida
   Ye wo manzil hai jahan par sabr khud rone laga
-  
+
   12
   Baap ke lehje mein khutba deke zainab ne kaha
   Bas raaj karegi karbobala
-  Zillat hai muqaddar...
-  Bas raaj karegi...
-  
+
   13
   Ho kisi qaatil ka khanjar ya ho damane zameen
   Khoon ki surkhi takallum chup nahi sakti kahin
   Har gali mein hai ye naara aaj bhi darwesh ka
   Bas raaj karegi karbobala
-  
+
   14
-  Zillat hai muqaddar...
-  Bas raaj karegi...
   Tumne jis khoon ko maqtal mein dabana chaha
   Aaj wo koocha-o-bazaar mein aa nikla hai
-  
+
   15
   Kahin shola kahin naara kahin pathar ban kar
   Aise sholay ke bhujao to bhujaye na bane
@@ -106,7 +94,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=984
 # raw_sha256: 4325415a165551f014ee9f82c8209869e57e35ba6373af8b10732499bd3d837e
 ---
-
 غیبت کا پردہ اٹھنے دو
 جو دیکھ رہے ہیں ہم لوگوں
 
@@ -135,16 +122,12 @@ romanLyrics: |-
 بس راج کرے گی کربوبلا
 
 ۵
-ذلت ہے مقدر۔۔۔
-بس راج کرے گی۔۔۔
 کربل کا راج ہی دین خدا کا راج ہے
 خنجروں کی موت ہے یہ خون کی معراج ہے
 
 ۶
 نوکِ نیزہ پر علی کے لال نے ثابت کیا
 بس راج کرے گی کربوبلا
-ذلت ہے مقدر۔۔۔
-بس راج کرے گی۔۔۔
 
 ۷
 خون بہہ کر بھی امر ہے ظلم کو موت آ گیء
@@ -153,8 +136,6 @@ romanLyrics: |-
 بس راج کرے گی کربوبلا
 
 ۸
-ذلت ہے مقدر۔۔۔
-بس راج کرے گی۔۔۔
 ظلم کی بات ہی کیا ظلم کی اوقات ہی کیا
 ظلم پھر ظلم ہے آغاز سے انجام تلک
 
@@ -171,16 +152,12 @@ romanLyrics: |-
 بس راج کرے گی کربوبلا
 
 ۱۱
-ذلت ہے مقدر۔۔۔
-بس راج کرے گی۔۔۔
 شام کے دربار میں ہے بنت زہرا بے ردا
 یہ وہ منزل ہے جہاں پر صبر قد رونے لگا
 
 ۱۲
 باپ کے لہجے میں خطبہ دیکے زینب نے کہا
 بس راج کرے گی کربوبلا
-ذلت ہے مقدر۔۔۔
-بس راج کرے گی۔۔۔
 
 ۱۳
 ہو کسی قاتل کا خنجر یا ہو دامان زمیں
@@ -189,8 +166,6 @@ romanLyrics: |-
 بس راج کرے گی کربوبلا
 
 ۱۴
-ذلت ہے مقدر۔۔۔
-بس راج کرے گی۔۔۔
 تم نے جس خون کو مقتل میں دبانا چاہا
 آج وہ کوچہ و بازار میں آ نکلا ہے
 

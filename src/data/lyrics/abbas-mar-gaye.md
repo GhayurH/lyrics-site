@@ -19,61 +19,45 @@ romanLyrics: |-
   Wa hasrata ke toot gayi hai meri kamar
   Wa ghurbata ab aankhon se aata nahi nazar
   Jeene ka ab jawaaz hamare nahi raha
-  Abbas mar gaye...
 
   2
-  Hum se kisi ne...
   Khaali alam utha ke mai qaime mein le gaya
   Laaya hoo tanha laasha e hamshakle mustafa
   Ghurbat pe meri hasta hai lashkar yazeed ka
 
   3
-  Abbas mar gaye...
-  Hum se kisi ne...
   Ghazi ke tukde dekh ke tukde hua jigar
   Daadi safayd hogayi akbar ki laash par
 
   4
   Ek dopahar mein hum pe sitam kaisa hogaya
-  Abbas mar gaye...
-  Hum se kisi ne...
   Kehte hai ab bulaaiye imdaad ke liye
 
   5
   Bolo hussain akbar o ghazi kahan gaye
   Dete hai taane purse ke badle ye ashqiyan
-  Abbas mar gaye...
-  Hum se kisi ne...
 
   6
   Socha tha mujhse aake kahenge ye kalmago
   Dono ka pursa dene hum aaye hai aap ko
   Hasrat ye leke qabr mein mazloom jayega
-  Abbas mar gaye...
 
   7
-  Hum se kisi ne...
   Mar jaaye gar kisi ka koi bhai ya pisar
   Usko dilaase dete hai sab log maut par
   Haye magar hamari ghareebi ki inteha
 
   8
-  Abbas mar gaye...
-  Hum se kisi ne...
   Chaaron taraf hai teeron ki bauchaar dekh lo
   Hum par sabhi uthaate hai talwaar dekh lo
 
   9
   Zainab batao ab kahan jaa kar kare gila
-  Abbas mar gaye...
-  Hum se kisi ne...
   Khanjar talay bhi sheh ko takallum yehi tha gham
 
   10
   Kitne ghareeb hogaye karbobala mein hum
   Khanjar rawan tha padte thay maula ye marsiya
-  Abbas mar gaye...
-  Hum se kisi ne...
 # source_id: nohayonline:8498ee46e55938dd4f09
 # source_url: https://www.nohayonline.com/details_content.php?id=2371
 # raw_sha256: d5a5faf5afdb9df8b04255aa8d7b2fe6876027aebea6960bfaa5ec0213f715c0
@@ -87,58 +71,42 @@ romanLyrics: |-
 وا حسرتا کے ٹوٹ گئی ہے مری کمر
 وا غربتا اب آنکھوں سے آتا نہیں نظر
 جینے کا اب جواز ہمارے نہیں رہا
-عباس مر گئے۔۔۔
 
 ۲
-ہم سے کسی نے۔۔۔
 خالی علم اٹھا کے میں خیمے میں لے گیا
 لایا ہوں تنہا لاشہِ ہمشکلِ مصطفیٰ
 غربت پہ میری ہنستا ہے لشکر یزید کا
 
 ۳
-عباس مر گئے۔۔۔
-ہم سے کسی نے۔۔۔
 غازی کے ٹکڑے دیکھ کے ٹکڑے ہوا جگر
 داڑھی سفید ہوگئی اکبر کی لاش پر
 
 ۴
 اک دو پہر میں ہم پہ ستم کیسا ہوگیا
-عباس مر گئے۔۔۔
-ہم سے کسی نے۔۔۔
 کہتے ہیں اب بلائیے امداد کے لئے
 
 ۵
 بولو حسین اکبر و غازی کہاں گئے
 دیتے ہیں طعنے پرسے کے بدلے یہ اشقیا
-عباس مر گئے۔۔۔
-ہم سے کسی نے۔۔۔
 
 ۶
 سوچا تھا مجھ سے آ کے کہیں گے یہ کلمہ گو
 دونوں کا پرسہ دینے ہم آئیں ہیں آپ کو
 حسرت یہ لے کےقبر میں مظلوم جائے گا
-عباس مر گئے۔۔۔
 
 ۷
-ہم سے کسی نے۔۔۔
 مر جائے گر کسی کا کوئی بھائی یا پسر
 اُس کو دلاسے دیتے ہیں سب لوگ موت پر
 ہائے مگر ہماری غریبی کی انتہا
 
 ۸
-عباس مر گئے۔۔۔
-ہم سے کسی نے۔۔۔
 چاروں طرف ہے تیروں کی بوچھار دیکھ لو
 ہم پر سبھی اٹھائے ہیں تلوار دیکھ لو
 
 ۹
 زینب بتاؤ اب کہاں جاکر کریں گِلا
-عباس مر گئے۔۔۔
-ہم سے کسی نے۔۔۔
 خنجر تلے بھی شہہ کو تکلم یہی تھا غم
 
 ۱۰
 کتنے غریب ہوگئے کرب و بلا میں ہم
 خنجر رواں تھا پڑھتے تھے مولا یہ مرثیہ
-عباس مر گئے۔۔۔
-ہم سے کسی نے۔۔۔

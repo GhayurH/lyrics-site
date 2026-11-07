@@ -25,7 +25,6 @@ romanLyrics: |-
   Na zulm raha na raaj raha
   Ek shor hai matamdari ka
   Bazaron may darbaron may
-  Ye zainab ne elaan...
 
   3
   Na qaatil na baatil hai
@@ -34,28 +33,24 @@ romanLyrics: |-
   Bazaron may darbaron may
 
   4
-  Ye zainab ne elaan...
   Hum thok ke seena kehte hai
   Hum rukne nahi denge matam
   Har haal may ye matam hoga
 
   5
   Bazaron may darbaron may
-  Ye zainab ne elaan...
   Ye seene nahi deewarein hai
   Ye haath nahi talwarein hai
 
   6
   Lo aa gaya lashkar zainab ka
   Bazaron may darbaron may
-  Ye zainab ne elaan...
   O shaamiyon himmat hai roko
 
   7
   Mazloom behan ko bhai ka
   Hum dene aaye hai pursa
   Bazaron may darbaron may
-  Ye zainab ne elaan...
 
   8
   De hukm agar tu shehzadi
@@ -64,28 +59,24 @@ romanLyrics: |-
   Bazaron may darbaron may
 
   9
-  Ye zainab ne elaan...
   Is shaam ke is bazaar se hi
   Ye keh kar guzri thi zainab
   Ghazi ka alam lehrayega
 
   10
   Bazaron may darbaron may
-  Ye zainab ne elaan...
   Paband e rasan majboor hoo mai
   Ay shiyon khule ho haath to phir
 
   11
   Shabbir ka tum matam kar lo
   Bazaron may darbaron may
-  Ye zainab ne elaan...
   Zainab ki tamanna hai gohar
 
   12
   Ho aisa qayamat ka matam
   Khud dekhne aaye karbobala
   Bazaron may darbaron may
-  Ye zainab ne elaan...
 # source_id: nohayonline:805186c21cfc7dc58cdf
 # source_url: https://www.nohayonline.com/details_content.php?id=1504
 # raw_sha256: 38d0686dd8f675e782085231b1d23c7d292de99c64b38afb4faf1257e205e535
@@ -105,7 +96,6 @@ romanLyrics: |-
 نہ ظلم رہا نہ راج رہا
 اک شور ہے ماتم داری کا
 بازاروں میں درباروں میں
-یہ زینب نے اعلان۔۔۔
 
 ۳
 نہ قاتل ہےنہ باطل ہے
@@ -114,28 +104,24 @@ romanLyrics: |-
 بازاروں میں درباروں میں
 
 ۴
-یہ زینب نے اعلان۔۔۔
 ہم ٹھوک کے سینہ کہتے ہیں
 ہم رکنے نہیں دیں گے ماتم
 ہر حال میں یہ ماتم ہوگا
 
 ۵
 بازاروں میں درباروں میں
-یہ زینب نے اعلان۔۔۔
 یہ سینے نہیں دیواریں ہیں
 یہ ہاتھ نہیں تلواریں ہیں
 
 ۶
 لو آگیا لشکر زینب کا
 بازاروں میں درباروں میں
-یہ زینب نے اعلان۔۔۔
 او شامیوں ہمت ہے روکو
 
 ۷
 مظلوم بہن کو بھای کا
 ہم دینے آے ہیں پرسہ
 بازاروں میں درباروں میں
-یہ زینب نے اعلان۔۔۔
 
 ۸
 دے حکم اگر تو شہزادی
@@ -144,25 +130,21 @@ romanLyrics: |-
 بازاروں میں درباروں میں
 
 ۹
-یہ زینب نے اعلان۔۔۔
 اس شام کے اس بازار سے ہی
 یہ کہہ کر گزری تھی زینب
 غازی کا الم لہراے گا
 
 ۱۰
 بازاروں میں درباروں میں
-یہ زینب نے اعلان۔۔۔
 پابند رسن مجبور ہوں میں
 اے شامیوں کھلے ہو ہاتھ تو پھر
 
 ۱۱
 شبیر کا تم ماتم کر لو
 بازاروں میں درباروں میں
-یہ زینب نے اعلان۔۔۔
 زینب کی تمنا ہے گوہر
 
 ۱۲
 ہو ایسا قیامت کا ماتم
 خود دیکھنے آے کربوبلا
 بازاروں میں درباروں میں
-یہ زینب نے اعلان۔۔۔
