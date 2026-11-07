@@ -20,66 +20,51 @@ romanLyrics: |-
   Bachon ko sameinte huwe kehti thi dilafgaar
   Ay jari diler bawafa
   Baazu e shaheede karbala
-
-  2
   Jaane fatema o murtuza
   Tashnalab sakina ke chacha
   Kisko de sada zainab
   Fauj ab qareeb aayi
-
-  3
   Ay hussain ke bhai
   Aap ko nahi hai ye khabar
   Lut gaya hai fatema ka ghar
   So rahe ho jaa ke nehr par
-
-  4
   Naize pe rakha hai sheh ka sar
-  Kisko de sada zainab…
+
+  2
   Akbar-e-jawan nahi raha
   Bezuban bhi qatl hogaya
-
-  5
   Qasim-e-hazeen bhi chal basa
   Khaatema hua sipaah ka
-  Kisko de sada zainab…
-  Kis tarha bataun ran ka haal
 
-  6
+  3
+  Kis tarha bataun ran ka haal
   Laash ko karenge paemaal
   Bhai ka karo to kuch khayaal
   Shaah-e-laafatah ke laal
-  Kisko de sada zainab…
 
-  7
+  4
   Karti hai rabab ye fughan
   Hone ko hai raat ab ayaan
   Ran mein hai hamara bezuban
   Le ke aaye usko bhai jaan
 
-  8
-  Kisko de sada zainab....
+  5
   Qaimon ko jala na de layeen
   Loot le na maal-o-zar kahin
   Kya karega abid-e-hazeen
-
-  9
   Usko tab se hosh hi nahin
-  Kisko de sada zainab…
+
+  6
   Fauje shaam baaniye jafa
   Jaan ke akela benawa
-
-  10
   Karde zulm ki na inteha
   Cheen le ne aa ke ye rida
-  Kisko de sada zainab…
-  Kin jafaon ka ho taskira
 
-  11
+  7
+  Kin jafaon ka ho taskira
   Shaam-e-gham mein aale mustufa
   Hogayi ghamon mein mubtila
   Lab pe thi anees ye buka
-  Kisko de sada zainab…
 # source_id: nohayonline:cb7ea937bfc051773047
 # source_url: https://www.nohayonline.com/details_content.php?id=388
 # raw_sha256: 6de5ab5055bc333636362b87ff427fad734d92f5a4b90bc5f0588fc3373f880d
@@ -94,63 +79,48 @@ romanLyrics: |-
 بچوں کو سمیٹے ہوئے کہتی تھی د ل ا فگار
 اے جری دلیر باوفا
 بازوئ ِشہیدِکربلا
-
-۲
 جانِ فاطمہ و مرتضیٰ
 تشنہ لب سکینہ کے چچا
 کس کو دے صدا زینب
 فوج اب قریب آئی
-
-۳
 اے حسین کے بھائی
 آپ کو نہیں یہ خبر
 لُٹ گیا ہے فاطمہ کا گھر
 سو رہے ہو جا کہ نہر پر
-
-۴
 نیزے پہ رکھا ہے شہہ کا سر
-کس کو دے صدا زینب۔۔۔
+
+۲
 اکبرِ جواں نہیں رہا
 بے زباں بھی قتل ہوگیا
-
-۵
 قاسمِ حزیں بھی چل بسا
 خاتمہ ہوا سپاہ کا
-کس کو دے صدا زینب۔۔۔
-کس طرح بتائوں رن کا حال
 
-۶
+۳
+کس طرح بتائوں رن کا حال
 لاش کو کرینگے پائمال
 بھائی کا کرو تو کچھ خیال
 شاہِ لافتہ کے لال
-کس کو دے صدا زینب۔۔۔
 
-۷
+۴
 کرتی ہے رُباب یہ فغاں
 ہونے کو ہے رات اب ایاں
 رن میں ہے ہمارا بے زباں
 لے کے آئے اُس کو بھائی جاں
 
-۸
-کس کو دے صدا زینب۔۔۔
+۵
 خیموں کو جلا نہ دیں لعیں
 لُوٹ لے نہ مال و زر کہیں
 کیا کرے گا عابدِ حزیں
-
-۹
 اُس کو تب سے ہوش ہی نہیں
-کس کو دے صدا زینب۔۔۔
+
+۶
 فوجِ شام بانیئِ جفا
 جان کے اکیلا بینوا
-
-۱۰
 کر دے ظلم کی نہ انتہا
 چھین لے نہ آکے یہ ردا
-کس کو دے صدا زینب۔۔۔
-کن جفائوں کاہو تذکرہ
 
-۱۱
+۷
+کن جفائوں کاہو تذکرہ
 شامِ غم میں آلِ مصطفےٰ
 ہوگئی غموں میں مبتلا
 لب پہ تھی انیس یہ بکا
-کس کو دے صدا زینب۔۔۔
