@@ -9,95 +9,55 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ek bacchi phool si jiska sakina naam tha
-
+romanLyrics: |-
+  Ek bacchi phool si jiska sakina naam tha
   Ro rahi thi shaam ki rahon mein wo karke buka
-
   Karte thay tum kitna pyar baba
-
   Ay mere naiza sawar baba
 
-
   1
-
   Chal nahi sakti sakina raaste dushwaar hai
-
   Aable hai paon mein aur aablon may khaar hai
-
   Aankh hai nam dil figaar baba
 
-  Ay mere naiza sawar...
-
-
   2
-
   Neele hai rukhsaar mere aur gale mein hai rasan
-
   Tashnagi bewaarsi lachaargi aur bewatan
-
   Ek hai dil gham hazaar baba
 
-
   3
-
   Aap ke seene pe baba chain se soti thi mai
-
   Aap tadapte jo kisi baat pe roti thi mai
-
   Roti hoo zaar o qataar baba
 
-
   4
-
   Berida sab bibiyan hai shaam ka bazaar hai
-
   Zabt ka yaara nahi hai sabr bhi dushwar hai
-
   Sabr ke parwardigaar baba
 
-
   5
-
   Mil -na sakungi kabhi mai aap se ay baba jaan
-
   Aap ka rauza banega karbala ke darmiyan
-
   Shaam mein mera mazaar baba
 
-
   6
-
   Yaad isi baat pe aata hai ghar aksar mujhe
-
   Aaj kaneezi mein bulaata hai sitamgar mujhe
-
   Koi nahi gham gusaar baba
 
-
   7
-
   Khaati thi jab bhi tamache shimr e sitamgaar se
-
   Aap ke chehre ki simth bekasi aur yaas se
-
   Dekhti thi baar baar baba
 
-
   8
-
   Kaun hai pursaane haal pyaas bujhayega kaun
-
   Baaliyan meri sitamgaron se dilayega kaun
-
   So gaye sab jaanisaar baba
 
-
   9
-
   Mazhar abidi bayan karta hai irfan se
-
-  Aati hai ab bhi sadayein shaam ke zindan se'
-reciter: Anjuman Karwan-e-Aza (Irfan Haider)
+  Aati hai ab bhi sadayein shaam ke zindan se
 # source_id: nohayonline:e59b239feb34f80ae89e
 # source_url: https://www.nohayonline.com/details_content.php?id=3027
 # raw_sha256: 04d0c9ff4d0a85981b1809054756a70dc10224b632d828632f5d7245c799eee8
@@ -115,7 +75,6 @@ reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 چل نہیں سکتی سکینہ راستے دشوار ہیں
 آبلے ہیں پاؤں میں اور آبلوں میں خار ہے
 آنکھ ہے نم دل فگار بابا
-اے میرے نیزہ سوار۔۔۔
 
 ۲
 نیلے ہیں رخسار میرے اور گلے میں ہے رسن
