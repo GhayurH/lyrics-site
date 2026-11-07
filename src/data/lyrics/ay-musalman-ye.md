@@ -11,49 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay musalman ye bata qatl pyasa kyun kiya
-  
-  1
   Kya thi khata shabbir ki
   Na kiya khaufe khuda cheen li sar se rida
   Kyun waaris e tatheer ki
-  
-  2
+
+  1
   Chal gaya sajde mein khanjar fatema ke laal par
   Jal gaya zahra ka ghar
   Lut gayi binte ali tune hi baad az nabi
   Is zulm ki tadbeer ki
-  
-  3
+
+  2
   Be-khata in qaidiyon ki gham bhari ye daastan
   Sun ke rota hai jahan
   Shaam ke bazaar mein abid e bemaar ne
   Thi khoon se tehreer ki
-  
-  4
+
+  3
   Madar e asghar tumhari zindagani ka samar
   Mar gaya islam par
   Hum na bhoolenge kabhi nok nazuk se galay mein
   Hurmala ke teer ki
-  
-  5
+
+  4
   Karbala se shaam tak aale payambar be-amaan
   Tazaiyane rassiyan
   Balwe mein laaya gaya haye aale mustufa
   Ki is tarha tauqeer ki
-  
-  6
+
+  5
   Kab talak seh paati aakhir jhidkiyan aur sayliyan
   Qaid ki tanhaiyan
   Is khadar dhaayi jafa qabr zindan mein bani hai
   Dukhtare shabbir ki
-  
-  7
+
+  6
   Saani e zehra barehna sar gayi bazaar mein
   Aur bhare darbaar mein
   Mehfile mehkhaar mein malka e sharm o haya ki
   Tume kyun tasheer ki
-  
-  8
+
+  7
   Sun ke jisko har ghadi rote hai saare matami
   Karte hai seena zani
   Aa rahi hai shaam se ab bhi wo awaaz e sarwar
@@ -64,49 +62,47 @@ romanLyrics: |-
 ---
 
 اے مسلماں یہ بتا قتل پیاسا کیوں کیا
-
-۱
 کیا تھی خطا شبیر کی
 نہ کیا خوفِ خدا چھین لی سر سے ردا
 کیوں وارثِ تطہیر کی
 
-۲
+۱
 چل گیا سجدے میں خنجر فاطمہ کے لعل پر
 جل گیا زہرا کا گھر
 لٹ گئی بنتِ علی تو نے ہی بعد از نبی
 اِس ظلم کی تدبیر کی
 
-۳
+۲
 بے خطا اِن قیدیوں کی غم بھری یہ داستاں
 سن کے روتا ہے جہاں
 شام کے بازار میں عابدِ بیمار نے
 تھی خون سے تحریر کی
 
-۴
+۳
 مادرِ اصغر تمہاری زندگانی کا ثمر
 مر گیا اسلام پر
 ہم نہ بھولیں گے کبھی نوک نازک سے گلے میں
 حرملا کے تیر کی
 
-۵
+۴
 کربلا سے شام تک آلِ پیمبر بے اماں
 تازیانے رسیاں
 بلوے میں لایا گیا ہائے آلِ مصطفی
 کی اِس طرح توقیر کی
 
-۶
+۵
 کب تلک سہہ پاتی آخر جھڑکیاں اور سیلیاں
 قید کی تنہائیاں
 اِس قدر ڈھائی جفا قبر زنداں میں بنی ہے
 دخترِ شبیر کی
 
-۷
+۶
 ثانی زہرا برہنہ سر گئی بازار میں
 اور بھرے دربار میں
 محفلِ مئے خوار میں ملکہِ شرم و حیاکی
 تو نے کیوں تشہیر کی
 
-۸
+۷
 سن کے جس کو ہر گھڑی روتے ہیں سارے ماتمی
 کرتے ہیں سینہ زنی
 آرہی ہے شام سے اب بھی وہ آواز سرور
