@@ -11,14 +11,13 @@ aliases: []
 published: false
 romanLyrics: |-
   Sher huwe do waaride lashkar
-
-  1
   Maqtal may barpa tha mehshar
   Faqr se apne sar ko utha kar
   Kehti thi abbas ki khwahar
   Haan ye mere bete hai
   Ek hai mohamed aur doosra hai aun
-  Haan ye mere bete hai
+
+  1
   Naam hai inke aun o mohamed
   Hyder ke akkaas hai ye
   Mulk e wafa ke dono makeen hai
@@ -70,14 +69,13 @@ romanLyrics: |-
 # raw_sha256: 62f9c1fe63756c39135d152bc16a54cbdf41c9e48176887ee7ffe53a4debba25
 ---
 شیر ہوے دو وارد لشکر
-
-۱
 مقتل میں برپا تھا محشر
 فخر سے اپنے سر کو اٹھا کر
 کہتی تھی عباس کی خواہر
 ہاں یہ میرے بیٹے ہیں
 ایک ہے محمد اور دوسرا ہے عون
-ہاں یہ میرے بیٹے ہیں
+
+۱
 نام ہے ان کے عون و محمد
 حیدر کے عکاس ہے یہ
 ملک وفا کے دونوں مکیں ہے
