@@ -12,66 +12,64 @@ published: false
 romanLyrics: |-
   Momino ke lab pa hai aah o buka
   Ashk barsao moharam aa gaya
-  
-  1
   Cha gayi har soo masayab ki ghata
-  
-  2
+
+  1
   Dil ke ho jazbaat har pal nauhagar
   Saara aalam ho faqat askhkon se tar
   Aisi goonje wa hussaina ki sada
-  
-  3
+
+  2
   Aa gaye pardes mein choota watan
   Jin ke laashe dasht mein thay bekafan
   Un aseeron ka karo matam bapa
-  
-  4
+
+  3
   Apna maula wo husaain ibne ali
   Jis ke dam se deen mein hai roshni
   Asr e ashoora wo suraj dhal gaya
-  
-  5
+
+  4
   Bhool ke haalat ki ye abtari
   Apni aankhein ashke gham se ho bhari
   Hai ghame shabbir har gham ki dawa
-  
-  6
+
+  5
   Karbala se shaam jab qaidi chale
   Pad gaye pairon mein unke aabile
   Is qadar dushwaar tha wo raasta
-  
-  7
+
+  6
   In pa rote hai sabhi jinn o malak
   Hai zameen ghamgeen pareshan hai falak
   Itna hai pur soz zikr e karbala
-  
-  8
+
+  7
   Ho na madham aansuon ki roshni
   Ye wasiyat hazrat e zainab ki thi
   Us wasiyat ka hai tum ko waasta
-  
-  9
+
+  8
   Hum ghulamane shah e abraar hai
   Karbala waalon ke matamdaar hai
   Ye zameen shabbir ka hai ghamkada
-  
-  10
+
+  9
   Aisa ho farsh e aza ka ehtemaam
   Sadqa e shabbir mein langar ho aam
   Har aza khana ho ek neymat kada
-  
-  11
+
+  10
   Majlis o matam ho nauhe aur salaam
   Marsiye ho aur zaakir ka kalaam
   Raat bhar jaari rahe ye silsila
-  
-  12
+
+  11
   Maqsad e shabbir ho apni hayaat
   Ho rawan har aankh se nehre furaat
   Ho tassawur tashnagi e shaah ka
-  
-  13
+
+  12
   Jitna ro sakte ho ro lo shaah par
   Khatm ho jaye na jaane kab safar
   Kya bharosa zindigi ka ay raza
@@ -82,66 +80,64 @@ romanLyrics: |-
 
 مومنوں کے لب پہ ہے آہ و بکا
 اشک برساؤ محرم آ گیا
-
-۱
 چھا گیء ہر سوں مصائب کی گھٹا
 
-۲
+۱
 دل کے ہو جزبات ہر پل نوحہ گر
 سارا عالم ہو فقط اشکوں سے تر
 ایسی گونجے وا حسینا کی صدا
 
-۳
+۲
 آ گےء پردیس میں چھوٹا وطن
 جن کے لاشے دشت میں تھے بیکفن
 ان اسیروں کا کرو ماتم بپا
 
-۴
+۳
 اپنا مولا وہ حسین ابنِ علی
 جس کے دم سے دیں میں ہے روشنی
 عصر عاشور وہ سورج ڈھل گیا
 
-۵
+۴
 بھول کے حالت کی یہ ابتری
 اپنی آنکھیں اشک غم سے ہو بھری
 ہے غمِ شبیر ہر غم کی دوا
 
-۶
+۵
 کربلا سے شام جب قیدی چلے
 پڑ گےء پیروں میں انکے آبلے
 اس قدر دشوار تھا وہ راستہ
 
-۷
+۶
 اس پہ روتے ہیں سبھی جن و ملک
 ہے زمیں غمگیں پریشاں ہے فلک
 اتنا ہے پر سوز ذکر کربلا
 
-۸
+۷
 ہو نہ مدھم آنسوؤں کی روشنی
 یہ وصیت حضرتِ زینب کی تھی
 اس وصیت کا ہے تم کو واسطہ
 
-۹
+۸
 ہم غلامان شاہ ابرار ہے
 کربلا والوں کے ماتم دار ہے
 یہ زمیں شبیر کا ہے غم کڑا
 
-۱۰
+۹
 ایسا ہو فرش عزا کا اہتمام
 صدقہء شبیر میں لنگر ہو آم
 ہر عزا خانہ ہو ایک نعمت کڑا
 
-۱۱
+۱۰
 مجلس و ماتم ہو نوحے اور سلام
 مرثیہ ہو ذاکر کا کلام
 رات بھر جاری رہے یہ سلسلہ
 
-۱۲
+۱۱
 مقصد شبیر ہو اپنی حیات
 ہو رواں ہر آنکھ سے نہر فرات
 تو تصور تشنگیء شاہ کا
 
-۱۳
+۱۲
 جتنا رو سکتے ہو رو لو شاہ پر
 ختم ہو جاے نہ جانے کب صبر
 کیا بھروسہ زندگی کا اے رضا
