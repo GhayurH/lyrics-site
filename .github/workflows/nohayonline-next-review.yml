@@ -50,7 +50,7 @@ jobs:
               return metadata,m[2],provenance
           def lines(t):
               return [v for line in t.splitlines() if (v:=line.strip()) and not number.fullmatch(v)]
-          def groups(t,urdu):
+          def groups(t,urdu,strict=True):
               g=[[]];marks=[]
               for line in t.splitlines():
                   v=line.strip()
@@ -60,7 +60,7 @@ jobs:
               want=[str(i).translate(digits) if urdu else str(i) for i in range(1,len(marks)+1)]
               assert marks==want,('Invalid stanza numbering',marks,want)
               assert marks and all(g),('Empty opening or stanza',list(map(len,g)))
-              assert all(len(b)>=2 for b in g[1:]),'Numbered single-line stanza'
+              if strict:assert all(len(b)>=2 for b in g[1:]),'Numbered single-line stanza'
               return g
           def assert_preserved(before,after,slug,lang):
               old,new=lines(before),lines(after)
@@ -103,7 +103,7 @@ jobs:
               r,u=groups(r1,False),groups(urdu1,True)
               assert len(r)==len(u),(slug,'Urdu/Roman stanza count differs')
               assert [len(b) for b in r]==[len(b) for b in u],(slug,'Urdu/Roman line groups differ')
-              ro,uo=groups(r0,False),groups(urdu0,True)
+              ro,uo=groups(r0,False,False),groups(urdu0,True,False)
               assert r[0][:len(ro[0])]==ro[0] and u[0][:len(uo[0])]==uo[0],(
                   slug,'Original opening passage not preserved')
               print('PASS',slug,'opening',len(r[0]),'stanzas',len(r)-1,'removed',lost_r)
