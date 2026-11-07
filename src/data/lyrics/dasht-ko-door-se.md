@@ -10,9 +10,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Dasht ko door se dekha to watan yaad aaya
-  
-  1
   Pani paaya to har ek tishna dahan yaad aaya
+
+  1
   Leke har cheez madine se chali thi zainab
   Bhai ka laash pe pahunchi to kafan yaad aaya
   
@@ -25,9 +25,9 @@ romanLyrics: |-
 ---
 
 دشت کو دور سے دیکھا تو وطن یاد آیا
+پانی پیا تو ہر اک تشنہ دہن یاد آیا
 
 ۱
-پانی پیا تو ہر اک تشنہ دہن یاد آیا
 لے کے ہر چیز مدینے سے چلی تھی زینب
 بھائی کی لاش پہ پہنچی تو کفن یاد آیا
 
