@@ -11,92 +11,90 @@ aliases: []
 published: false
 romanLyrics: |-
   Milke sab matame shabbir kare
-  
-  1
   Dil ba dil seena ba seena
   Karbala tameer kare
-  
-  2
+
+  1
   Ye matam pehchan hamari
   Is pe jaan qurban hamari
   Jism yehi ye jaan hamari
   Ye matam hai shaan hamari
   Kehta hai emaan hamara
   Saare jawan o peer kare
-  
-  3
+
+  2
   Asghar teri pyaas ka matam
   Akbar ka abbas ka matam
   Hasrat ka aur yaas ka matam
   Haasil hai ehsaas ka matam
   Laakh zamana hum ko roke
   Hum iski tash'heer kare
-  
-  4
+
+  3
   Ye matam mazloom ka matam
   Zehra ke masoom ka matam
   Pani se mehroom ka matam
   Taygh tale halqoom ka matam
   Is matam se hum jo chaahe
   Waqt ko zanjeer kare
-  
-  5
+
+  4
   Abid ki zanjeer ka matam
   Kushk galay aur teer ka matam
   Zainab ka shabbir ka matam
   Dil se kare dilgeer ka matam
   Jo matam zainab ne kiya tha
   Hum uski tafseer kare
-  
-  6
+
+  5
   Matam kya hai sheh ka alam hai
   Ye matam to deen ka bharam hai
   Jis se khushi ho wo ye gham hai
   Haq ka yehi matam parcham hai
   Is parcham ko is matam ko
   Seeno pe tahreer kare
-  
-  7
+
+  6
   Matam jis ka darya darya
   Jiski wafa emaan ka chehra
   Jiske alam ka khoon mein pharera
   Doob gaya wo chand na dooba
   Uski wafa kehti hai hum se
   Dunya ko tasqeer kare
-  
-  8
+
+  7
   Yaad mein teri shaam e ghariban
   Matam karne waale insan
   Karte hai jab chaak ghareban
   Zehra khud hoti hai giryan
   Sunnate zehra hai ye matam
   Is ko aalamgeer kare
-  
-  9
+
+  8
   Karna saki jo bhai ka gham
   Us zainab ki yaad mein ab hum
   Ranj o khushi se kar ke baaham
   Har din samjhe maahe muharam
   Zakhme dile zainab ki khaatir
   Koi dawa akseer kare
-  
-  10
+
+  9
   Jinke rassan mein haath bande thay
   Kaise bhala wo matam karte
   Unke dilon mein yaad basa ke
   Nauhe ki matam ki sada se
   Ehle aza zehra ki dua se
   Khuld ko jageer kare
-  
-  11
+
+  10
   Maula aisa zarf ata kar
   Ye matam saughaat bana kar
   Le jaye seeno pe saja kar
   Shehre najaf mein dil mein basa kar
   Apni azadari ka tohfa
   Nazr e khyber-geer kare
-  
-  12
+
+  11
   Keh denge rehaan o sarwar
   Hashr mein jab khatoon e mehshar
   Poochengi ye baat jo aa kar
@@ -109,12 +107,10 @@ romanLyrics: |-
 ---
 
 مل کے سب ماتمِ شبیر کریں
-
-۱
 دل بہ دل سینہ بہ سینہ
 کربلا تعمیر کریں
 
-۲
+۱
 یہ ماتم پہچان ہماری
 اس پہ جاں قربان ہماری
 جسم یہی یہ جان ہماری
@@ -122,7 +118,7 @@ romanLyrics: |-
 کہتا ہے ایمان ہمارا
 سارے جوان و پیر کریں
 
-۳
+۲
 اصغر تیری پیاس کا ماتم
 اکبر کا عباس کا ماتم
 حسرت کا اور یاس کا ماتم
@@ -130,7 +126,7 @@ romanLyrics: |-
 لاکھ زمانہ ہم کو روکے
 ہم اس کی تشہیر کریں
 
-۴
+۳
 یہ ماتم مظلوم کا ماتم
 زہرا کے معصوم کا ماتم
 پانی سے محروم کا ماتم
@@ -138,7 +134,7 @@ romanLyrics: |-
 اس ماتم سے ہم جو چاہیں
 وقت کو زنجیر کریں
 
-۵
+۴
 عابد کی زنجیر کا ماتم
 خشک گلے اور تیر کا ماتم
 زینب کا شبیر کا ماتم
@@ -146,7 +142,7 @@ romanLyrics: |-
 جو ماتم زینب نے کیا تھا
 ہم اُس کی تفسیر کریں
 
-۶
+۵
 ماتم کیا ہے شہہ کا علم ہے
 یہ ماتم تو دیں کا بھرم ہے
 جس سے خوشی ہو وہ یہ غم ہے
@@ -154,7 +150,7 @@ romanLyrics: |-
 اس پرچم کو اس ماتم کو
 سینوں پہ تحریر کریں
 
-۷
+۶
 ماتم جس کا دریا دریا
 جس کی وفا ایمان کا چہرہ
 جس کے علم کا خوں مے پھریرا
@@ -162,7 +158,7 @@ romanLyrics: |-
 اُس کی وفات کہتی ہے ہم سے
 دنیا کو تسقیر کریں
 
-۸
+۷
 یاد میں تیری شامِ غریباں
 ماتم کرنے والے انساں
 کرتے ہیں جب چاک گریباں
@@ -170,7 +166,7 @@ romanLyrics: |-
 سنتِ زہرا ہے یہ ماتم
 اسکو عالم گیر کریں
 
-۹
+۸
 کر نہ سکی جو بھیا کا غم
 اُس زینب کی یاد میں اب ہم
 رنج و خوشی سے کر کے باہم
@@ -178,7 +174,7 @@ romanLyrics: |-
 زخمِ دلِ زینب کی خاطر
 کوئی دوا اکسیر کریں
 
-۱۰
+۹
 جن کے رسن میں ہاتھ بندھے تھے
 کیسے بھلا وہ ماتم کرتے
 ان کے دلوں میں یاد بسا کے
@@ -186,7 +182,7 @@ romanLyrics: |-
 اہلِ اعزا زہرا کی دُعا سے
 خلد کو جاگیر کریں
 
-۱۱
+۱۰
 مولا ایسا ظرف عطا کر
 یہ ماتم سوغات بنا کر
 لے جائیں سینوں پہ سجا کر
@@ -194,7 +190,7 @@ romanLyrics: |-
 اپنی اعزاداری کا تحفہ
 نذرِخیبر گیر کریں
 
-۱۲
+۱۱
 کہہ دیں گے ریحان و سرور
 حشر میں جب خاتونِ محشر
 پوچھیں گی یہ بات جو آکر
