@@ -11,14 +11,13 @@ aliases: []
 published: false
 romanLyrics: |-
   Dua karna ali akbar
-  
-  1
+
   Safar mein maa guzar jaye
   Kabhi bazaar na aaye
   Mohamed ki nawasi par
   Koi pathar na barsaye
   
-  2
+  1
   Teri phupiyon ke badle mein
   Mujhe sab maar le pathar
   Ruqayya zainab o kulsoom
@@ -26,7 +25,7 @@ romanLyrics: |-
   Ali ki betiyon ko maa
   Bacha kar shaam se laaye
   
-  3
+  2
   Tamache maar kar zaalim
   Badi nafrat se hasta hai
   Tumhare baap ka badla
@@ -34,7 +33,7 @@ romanLyrics: |-
   Behan baba ke qaatil se
   Tamache aur na khaaye
   
-  4
+  3
   Dua karta hai marne ki
   Lahoo aankhon se jaari hai
   Wohi akbar hai ab mera
@@ -42,7 +41,7 @@ romanLyrics: |-
   Tere bemaar bhai ko
   Meri bhi umr lag jaye
   
-  5
+  4
   Kaleje par ali akbar
   Lagegi phir tere barchi
   Wahan jaana hai be-parda
@@ -50,7 +49,7 @@ romanLyrics: |-
   Khule sar binte zehra ko
   Koi pehchaan na paaye
   
-  6
+  5
   Tere seene se jo nikla
   Mere dil mein hai wo naiza
   Meri saansein to chalti hai
@@ -58,7 +57,7 @@ romanLyrics: |-
   Zaeefa maa ko bete ki
   Khuda mayyat na dikhlaye
   
-  7
+  6
   Agar mastoor mar jaye
   Andhera hone dete hai
   Tere ghar ki riwayat hai
@@ -66,7 +65,7 @@ romanLyrics: |-
   Haram jab be-rida guzre
   Andhera saamne chaaye
   
-  8
+  7
   Shaheedon ki dua'on ko
   Khuda bhi rad nahi karta
   Takallum maa ye kehti thi
@@ -80,13 +79,12 @@ romanLyrics: |-
 
 دعا کرنا علی اکبر
 
-۱
 سفر میں ماں گزر جاے
 کبھی بازار نہ آئے
 محمد کی نواسی پر
 کوئی پتھر نہ برساتے
 
-۲
+۱
 تیری پھپھیوں کے بدلے میں
 مجھے سب مارلے پتھر
 رقیہ زینب و کلثوم
@@ -94,7 +92,7 @@ romanLyrics: |-
 علی کی بیٹیوں کو ماں
 بچا کر شام سے لاے
 
-۳
+۲
 طمانچے مار کر ظالم
 بڑی نفرت سے ہنستا ہے
 تمہارے باپ کا بدلہ
@@ -102,7 +100,7 @@ romanLyrics: |-
 بہن بابا کے قاتل سے
 طمانچے اور نہ کھاے
 
-۴
+۳
 دعا کرتا ہے مرنے کی
 لہو آنکھوں سے جاری ہے
 وہی اکبر ہے اب میرا
@@ -110,7 +108,7 @@ romanLyrics: |-
 تیرے بیمار بھائی کو
 میری بھی عمر لگ جائے
 
-۵
+۴
 کلیجے پر علی اکبر
 لگے گی پھر تیرے برچی
 وہاں جانا ہے بے پردہ
@@ -118,7 +116,7 @@ romanLyrics: |-
 کھلے سر بنت زہرا کو
 کوئی پہچان نہ پائے
 
-۶
+۵
 تیرے سینے سے جو نکلا
 میرے دل میں ہے وہ نیزہ
 میری سانسیں تو چلتی ہیں
@@ -126,7 +124,7 @@ romanLyrics: |-
 ضعیفہ ماں کو بیٹے کی
 خدا میت نہ دکھلاے
 
-۷
+۶
 اگر مستور مر جاے
 اندھیرا ہونے دیتے ہیں
 تیرے گھر کی روایت ہے
@@ -134,7 +132,7 @@ romanLyrics: |-
 حرم جب بے ردا گزرے
 اندھیرا سامنے چھاے
 
-۸
+۷
 شہیدوں کی دعاؤں کو
 خدا بھی رد نہیں کرتا
 تکلم ماں یہ کہتی تھی
