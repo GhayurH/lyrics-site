@@ -13,36 +13,35 @@ romanLyrics: |-
   Chale hai karbala sarwar aza ka aakhri din hai
   Azakhana badhaya jaa raha hai dil pareshan hai
   Mai kin aankhon se dekhun ghar aza ka aakhri din hai
-  Chale hai karbala sarwar aza ka aakhri din hai
-  
+
   1
   Hamay jo zinda rakhe tha usi mehman ki rukhsat hai
   Jiyenge saal bhar kyun kar aza ka aakhri din hai
-  
+
   2
   Hamari maa ali ashgar ka gehwara badhati hai
   Badhati hai alam baahar aza ka aakhri din hai
-  
+
   3
   Na ghar hi acha lagta hai na dunya achi lagti hai
   Ye dil rota hai reh reh kar aza ka aakhri din hai
-  
+
   4
   Gharon se taziye ki shakl mein shabbir jaate hai
   Qayamat ka hai ye manzar aza ka aakhri din hai
-  
+
   5
   Azadaron ke chehron par udaasi hi udaasi hai
   Likha hai sab ke chehron par aza ka aakhri din hai
-  
+
   6
   Abhi kuch dayr mein farshe aza bhi uthne waala hai
   Zameen roti hai ye keh kar aza ka aakhri din hai
-  
+
   7
   Mai baba ko tumhare kis tarha rukhsat karun ghar se
   Sahara do ali akbar aza ka aakhri din hai
-  
+
   8
   Suroor agle baras tak zinda rehne ki dua maango
   Qayamat aa gayi sar par aza ka aakhri din hai
@@ -52,11 +51,10 @@ romanLyrics: |-
 ---
 
 چلے ہے کربلا سرور عزا کا آخری دن ہے
-
-۱
 عزا خانہ بڑھایا جا رہا ہے دل پریشاں ہے
 میں کن آنکھوں سے دیکھوں گھر عزا کا آخری دن ہے
-چلے ہیں کربلا سرور عزا کا آخری دن ہے
+
+۱
 ہمیں جو زندہ رکھے تھا اسی مہماں کی رخصت ہے
 جیےیینگے سال بھر کیوں کر عزا کا آخری دن ہے
 
