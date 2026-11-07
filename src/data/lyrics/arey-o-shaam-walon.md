@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Hua jab qatl ahmed ka nawasa
   Layeeno ne har ek qaima jala diya
-
-  1
   Haram ko lootne jab aaye aada
   Ye nauha pad rahi thi binte zehra
   Arey o shaam walon meri chadar na cheeno
   Arey o kalmagoyo meri chadar na cheeno
+
+  1
   Shabe hashr mehboob e khuda hai
   Musalaman jiska kalma pad raha hai
   Mera nana mohamed mustufa hai
@@ -68,14 +68,15 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1259
 # raw_sha256: 78a053cd0bdd391ffedd614ef55db96ba3a4f964c39689eb34c16f0576188540
 ---
+
 ہوا جب قتل احمد کا نواسہ
 لعینوں نے ہر اک خیمہ جلا دیا
-
-۱
 حرم کو لوٹنے جب آے اعدا
 یہ نوحہ پڑھ رہی تھی بنت زہرا
 ارے او شام والوں میری چادر نہ چھینو
 ارے او کلمہ گویوں میری چادر نہ چھینو
+
+۱
 شب حشر محبوب خدا ہے
 مسلماں جس کا کلمہ پڑھ رہا ہے
 میرا نانا محمد مصطفےٰ ہے
