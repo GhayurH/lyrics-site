@@ -12,7 +12,6 @@ published: false
 romanLyrics: |-
   Hussain maqtal mein chup khade hai
   Lahoo lahoo hai libaas saara mere khudaya
-  Hussain maqtal mein chup khade hai
   
   1
   Ajeeb manzar hai karbala ka
@@ -69,7 +68,6 @@ romanLyrics: |-
 
 حسین مقتل میں چھپ کھڑے ہے
 لہو لہو ہے لباس سارا میرے خدایا
-حسین مقتل میں چھپ کھڑے ہے
 
 ۱
 عجیب منظر ہے کربلا کا
