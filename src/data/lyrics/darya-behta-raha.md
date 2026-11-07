@@ -9,75 +9,35 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haay.....
-
-  Ay Waa -e- Nehre Alqama....(4)
-
-  Darya Behta Raha.....(2)
-
+romanLyrics: |-
+  Ay waaye nehre alqama
+  Darya behta raha darya behta raha
+  Saamne usi darya ke pyase tadapte hai
 
   1
-
-  Darya Behta Raha
-
-  Saamne Usi Darya Ke, Pyaase Tadapte Hai-
-
+  Bana jinki khaatir pani unhi ko mila na
+  Unhi se to seekha isne zameen par barasna
+  Sitam hai dikha kar inko hai pani bahana haye
 
   2
-
-  Bana Jinke Khaatir Paani, Unhi Ko Mila Na
-
-  Unhi Se To Shikha Isne, Zameen Par Barsna
-
-  Sitam Hai Dikha Kar Inko …..(2)
-
-  Hai Pani Bahana Haay
-
+  Sawere isi darya pe alam wala aaya
+  Kisi tishnalab bachi ka wo mashkeeza laaya
+  Chidi mashk us pyase ki wo wapas gaya na haye
 
   3
-
-  Swaere Ishi Darya Pe, Alam Waala Aaya
-
-  Kisi Tishnalab Bachi ka, Woh Mashkiza Laaya
-
-  Chidi Mashk Us Pyase Ki.....(2)
-
-  Woh Wapas Gaya Na, Haay
-
+  Wo jiski azan goonji thi sawere sawere
+  Chadha din to baba uska usi ko sambhale
+  Pukara hai khaak ab dunya tere baad beta haye
 
   4
-
-  Woh Jiski Azaan Gunji Thi, Sawere Sawere,
-
-  Chada Din To Baba Uska, Usi Ko Sambhaale
-
-  Pukaara Hai Khaq Ab Dunia.....(2)
-
-  Tere Baad Beta, Haay
-
+  Udhar bekafan tha bhai behan berida thi
+  Jalati huwi qaimon ko ajab shaam aayi
+  Koi maa pukari baba luta mera kunba haye
 
   5
-
-  Udhar Bekafan Tha Bhai, Behan Beridaa Thi
-
-  Jaalti Huwi Khaimo Ko, Ajab Shaam Aayi
-
-  Koi Maa Pukari Baba.....(2)
-
-  Luta Mera Qunba, Haay
-
-
-  6
-
-  Amire Arab Ka Beta, Libaase Gharibi,
-
-  Rehan Aur Sarwar Hum Na, Yeh Bhule Kabhi Bhi,
-
-  Woh Darya Ka behta Paani.....(2)
-
-  Woh Pyaase Ka Sajdaah Haay
-
-  Ay Waa -e- Nehere Alqama.....(4)'
+  Ameere arab ka beta libaase ghareebi
+  Rehaan aur sarwar hum na ye bhoole kabhi bhi
+  Wo darya ka behta pani wo pyase ka sajda haye
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:aec52a291f45b5e47a60
 # source_url: https://www.nohayonline.com/details_content.php?id=367
@@ -89,31 +49,29 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 
 اے وائے نہرِ علقمہ
 دریا بہتا رہا دریا بہتا رہا
-
-۱
 سامنے اُسی دریا کے پیاسے تڑپتے ہیں
 
-۲
+۱
 بنا جن کی خاطر پانی اُنہی کو ملا نہ
 اُنہی سے تو سیکھا اس نے زمیں پر برسنا
 ستم ہے دیکھا کر ان کو ہے پانی بہانا ہائے
 
-۳
+۲
 سویرے اسی دریا پہ علم والا آیا
 کسی تشنہ لب بچی کا وہ مشکیزہ لایا
 چھدی مشک اُس پیاسے کی وہ واپس گیا نہ ہائے
 
-۴
+۳
 وہ جس کی اذاں گونجتی تھی سویرے سویرے
 چڑھا دن تو بابا اُس کا اُسی کو سنبھالے
 پُکارا ہے خاک اب دنیا تیرے بعد بیٹا ہائے
 
-۵
+۴
 اُدھر بے کفن تھا بھائی بہن بے ردا تھی
 جلاتی ہوئی خیموں کو عجب شام آئی
 کوئی ماں پُکاری بابا لُٹا میرا کنبہ ہائے
 
-۶
+۵
 امیرِ عرب کا بیٹا لباسِ غریبی
 ریحان اور سرور ہم نہ یہ بھُولے کبھی بھی
 وہ دریا کا بہتا پانی وہ پیاسے کا سجدہ ہائے
