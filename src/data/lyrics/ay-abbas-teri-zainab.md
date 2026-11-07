@@ -12,51 +12,49 @@ published: false
 romanLyrics: |-
   Dukhiyari zainab ke labon par tha nauha
   Ay abbas teri zainab beparda hai
-  
-  1
   Le jaate hai qaid mujhe kar ke aada
-  
-  2
+
+  1
   Suraj ne jis ko na dekha beparda
   Usko nange sar dekhegi ab dunya
   Waqt ye kaisa ghurbat ka mujh par aaya
-  
-  3
+
+  2
   Tu jab se jaa kar darya pe soya hai
   Saara kunba khoon ke aansu roya hai
   Jal gaye qaime chin gayi chadar ghar ujda
-  
-  4
+
+  3
   Jis ke atthara bhai thay wo khwahar
   Qaidi ban kar khaati hai dar dar thokar
   Mujhko muqaddar ne kar daala hai tanha
-  
-  5
+
+  4
   Qatl huye mere bete aur sab bhai
   Haye mujhe taqdeer kahan lekar aayi
   Kaun kare imdaad nahi koi apna
-  
-  6
+
+  5
   Jab se suna hai aane waala hai bazaar
   Dard ki chalti hai mere dil par talwaar
   Waqt hai teri behna ke mar jaane ka
-  
-  7
+
+  6
   Dil mera ghabrata hai kya hoga ab
   Bazaron se kaise guzregi zainab
   Chaaron jaanib na-mehram majma hoga
-  
-  8
+
+  7
   Mai ek din jis kufe ki shehzadi thi
   Jaati hoon us shehr mein ban kar ke qaidi
   Ay ghazi ab phat jayega dil mera
-  
-  9
+
+  8
   Ek jaisi hai maa aur beti ki ghurbat
   Dono ko darbar talak laayi qismat
   Farq hai itna parde mein thi maa zahra
-  
-  10
+
+  9
   Ay waiz ek hashr ka manzar tha us dam
   Roke ali ye kehti thi zainab jis dam
   Sar hai khula baalon se chupaya hai chehra
@@ -67,51 +65,49 @@ romanLyrics: |-
 
 دکھیاری زینب کے لبوں پر تھا نوحہ
 اے عباس تیری زینب بے پردہ ہے
-
-۱
 لے جاتے ہیں قید مجھے کر کے اعدا
 
-۲
+۱
 سورج نے جس کو نہ دیکھا بے پردہ
 اس کو ننگے سر دیکھے گی اب دنیا
 وقت یہ کیسا غربت کا مجھ پر آیا
 
-۳
+۲
 تو جب سے جا کر دریا پہ سویا ہے
 سارا کنبہ خون کے آنسوں رویا ہے
 جل گےء خیمے چھن گیء چادر گھر اجڑا
 
-۴
+۳
 جس کے اٹھارہ بھائی تھے وہ خواہر
 قیدی بن کر کھاتی ہے در در ٹھوکر
 مجھ کو مقدر نے کر ڈالا ہے تنہا
 
-۵
+۴
 قتل ہوے میرے بیٹے اور سب ہیں
 ہاے مجھے تقدیر کہاں لے کر آی
 کون کرے امداد نہیں کوئی اپنا
 
-۶
+۵
 جب سے سنا ہے آنے والا ہے بازار
 درد کی چلتی ہے میرے دل پر تلوار
 وقت ہے تیری بہنا کے مر جانے کا
 
-۷
+۶
 دل میرا گھبراتا ہے کیا ہوگا اب
 بازاروں سے کیسے گزرے گی زینب
 چاروں جانب نا محرم مجمع ہوگا
 
-۸
+۷
 میں ایک دن جس کوفے کی شہزادی تھی
 جاتی ہوں اس شہر میں بن کر کے قیدی
 اے غازی اب پھٹ جاے گا دل میرا
 
-۹
+۸
 ایک جیسی ہے ماں اور بیٹی کی غربت
 دونوں کو دربار تلک لای قسمت
 فرق ہے اتنا پردے میں تھی ماں زہرا
 
-۱۰
+۹
 اے وائض ایک حشر کا منظر تھا اس دم
 روکے علی یہ کہتی تھی زینب جس دم
 سر ہے کھلا بالوں سے چھپایا ہے چہرہ
