@@ -11,31 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Dekhe to koi raunaq maqtal may zara aake
-  
-  1
   Shabbir ke aane se din phir gaye sehra ke
   
-  2
+  1
   Qaime se janaze ki ruqsat ka sa manzar hai
   Aayenge na phir akbar maidan may ab jaa ke
   
-  3
+  2
   Pamaal sumay aspa aisa na hua koi
   Bikhre hue tukde hai har simt may dulha ke
   
-  4
+  3
   Ay azm talab ghazi ab koi nahi baakhi
   Abbas zara aansu ruk jaane to do aaqa ke
   
-  5
+  4
   Ammu ke kabhi khisay baba ki kabhi baatein
   Bachi ko sulaati hai zainab yehi behlaake
   
-  6
+  5
   Zainab ki sada sun kar khanjar talay sajde se
   Qaime ki taraf dekha shabbir ne ghabrake
   
-  7
+  6
   Shahid ye azakhane veeran nahi honge
   Ta-hashr bhi gar dushman maare hamay aa aa ke
 # source_id: nohayonline:7480fb3bb50bdc9a7439
@@ -44,30 +42,28 @@ romanLyrics: |-
 ---
 
 دیکھے تو کوئی رونق مقتل میں ذرا آکے
-
-۱
 شبیر کے آنے سے دن پھر گئے صحرا کے
 
-۲
+۱
 خیمے سے جنازے کی رخصت کا سا منظر ہے
 آئیں گے نہ پھر اکبر میدان میں اب جاکے
 
-۳
+۲
 پامال سومے اسپا ایسا نہ ہوا کوئی
 بکھرے ہوئے ٹکڑے ہیں ہر سمت میں دلہا کے
 
-۴
+۳
 اے عزم طلب غازی اب کوئی نہیں باقی
 عباس ذرا آنسوں رک جانے دو آپا کے
 
-۵
+۴
 اموں کے کبھی قصے بابا کی کبھی باتیں
 بچی کو سلاتی ہے زینب یہی بہلا کے
 
-۶
+۵
 زینب کی صدا سن کر خنجر تلے سجدے سے
 خیمے کی طرف دیکھا شبیر نے گھبراکے
 
-۷
+۶
 شہید یہ عزا خانے ویران نہیں ہوں گے
 تا حشر بھی گر دشمن مارے ہمیں آ آکے
