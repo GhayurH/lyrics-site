@@ -11,39 +11,42 @@ aliases: []
 published: false
 romanLyrics: |-
   Shahe karbala sajda kiya sar dediya uff na kiya
-  
+
   1
   Zer-e-khanjar jab ada sajda kiya shabbir ne
   Di sada e marhaba quran ki tafseer ne
-  
+
   2
-  Zere khanjar jab ada…
   Noke naiza par tilawat kar chuke shabbir jab
   Zindagi paayi dubara nara e takbeer ne
-  Zere khanjar jab ada…
+
+  3
   Karbala ka maarka shabbir ne sar kar liya
   Shaam ko sar kar liya shabbir ki hamsheer ne
-  Zere khanjar jab ada…
+
+  4
   Ek beta tha hassan ka hogaya shah par fida
   Kar diye do laal qurban zainab e dilgeer ne
-  Zere khanjar jab ada…
+
+  5
   Be-zabani mein ali asghar hue mehve kalaam
   Bolna seekha ho jaise haideri tasveer nay
-  Zere khanjar jab ada…
+
+  6
   Shaam ke darbar mein abid ne jab khutba diya
   Pao choome abid-e-beemar ke zanjeer ne
-  Zere khanjar jab ada…
+
+  7
   Phaynk kar teer e tabassum ashkiyan ki fauj par
   Karbala ki jang jeeti asghar-e-baysheer ne
-  Zere khanjar jab ada…
+
+  8
   Hashr mein rehaan suraj jab sawa naize pe tha
   Leliya saaye mein mujhko chaadar-e-tatheer ne
-  Zere khanjar jab ada…
 # source_id: nohayonline:1022a5669dc9b87bfc5a
 # source_url: https://www.nohayonline.com/details_content.php?id=665
 # raw_sha256: c2366db65d605b3066c9e44992b1745bca1a7ee9832dbd520fc3d4990643fcaa
 ---
-
 شہِ کربلا سجدہ کیا سر دے دیا اُف نہ کیا
 
 ۱

@@ -12,51 +12,46 @@ published: false
 romanLyrics: |-
   Boli ye binte murtuza abid udaas hai
   Koday na maar be-khata abid udaas hai
-  
+
   1
   Pahuncha jo shaam khaafla abid udaas hai
   Khush hai har ek be-haya abid udaas hai
-  Boli ye binte murtaza...
-  Ehsaan hoga kuch to karam kar aleel pe
-  
+
   2
+  Ehsaan hoga kuch to karam kar aleel pe
   Tujhko khuda ka waasta abid udaas hai
-  Boli ye binte murtaza...
+
+  3
   Dekhega kaise maa'on ka behno ka sar khula
   Tu is tarha na zulm dha abid udaas hai
-  
-  3
-  Boli ye binte murtaza...
+
+  4
   Quran suna raha hai juda tan se hoke bhi
   Naize pe sar hussain ka abid udaas hai
-  Boli ye binte murtaza...
-  
-  4
+
+  5
   Ye haalat e ruku may kaise safar kare
   Rakhegi kaise hausala abid udaas hai
-  Boli ye binte murtaza...
+
+  6
   Abbas garche hota salamat ay shaamiyon
-  
-  5
   Kehna na padta ba-khuda abid udaas hai
-  Boli ye binte murtaza...
+
+  7
   Rassi se ghut na jaye sakina ka dam kahin
   Is fikr may har ek jaa abid udaas hai
-  
-  6
-  Boli ye binte murtaza...
+
+  8
   Darbar may najaf ye manadi ne di sada
   Aayi hai binte fatema abid udaas hai
-  Boli ye binte murtaza...
 # source_id: nohayonline:07ef268e23f0b310cc22
 # source_url: https://www.nohayonline.com/details_content.php?id=854
 # raw_sha256: 81551fa283310493a1c08e0271a0c857e4afa3799060e0a39df5d257af5802bc
 ---
-
 بولی یہ بنت مرتظی عابد اداس ہے
+کوڑے نہ مار بے خطا عابد اداس ہے
 
 ۱
-کوڑے نہ مار بے خطا عابد اداس ہے
 پہنچا جو شام قافلہ عابد اداس ہے
 خوش ہے ہر ایک بے حیا عابد اداس ہے
 

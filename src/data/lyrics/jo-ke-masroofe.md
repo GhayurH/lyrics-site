@@ -12,69 +12,62 @@ published: false
 romanLyrics: |-
   Jo ke masroof e salaam e shohda rehta hai
   Go wo rehta nahi par naam sada rehta hai
-  
+
   1
   Ay falak baad e fana kaate gaye daste hussain
   Ek na ek zulm tere ghar mein naya rehta hai
-  Jo ke masroofe...
-  Shimr kehta tha yehi maa hai ali akbar ki
-  
+
   2
+  Shimr kehta tha yehi maa hai ali akbar ki
   Jis ka ek haath kaleje pe dhara rehta hai
-  Jo ke masroofe...
+
+  3
   Shimr se sheh na kaha paon na rakh seene par
   Yahin ganjinaye asraar e khuda rehta hai
-  
-  3
-  Jo ke masroofe...
+
+  4
   Ro ke ye hind ki beti ne sakina se kaha
   Sar tera kis liye har waqt khula rehta hai
-  Jo ke masroofe...
-  
-  4
+
+  5
   Wo lagi kehne yateemi ki nishani hai yehi
   Kurta bewaarsi bachon ka phata rehta hai
-  Jo ke masroofe...
+
+  6
   Shaam hoti hai to oonton se utarte hai haram
-  
-  5
   Par sar e shaah to naize pe chadha rehta hai
-  Jo ke masroofe...
+
+  7
   Khwaab mein aan ke abid se ye sheh ne poocha
   Beta ehwaal tera qaid mein kya rehta hai
-  
-  6
-  Jo ke masroofe...
+
+  8
   Ro ke farmeina ke ashk aankhon mein lab par naale
   Paon zanjeer mein rassi mein gala rehta hai
-  Jo ke masroofe...
-  
-  7
+
+  9
   Baap maara gaya bhai katay zindan mein phasi
   Is musbait mein bhala hosh baja rehta hai
-  Jo ke masroofe...
+
+  10
   Hai ye sharmindagi pani ke na pahunchane ki
-  
-  8
   Naize par bhi sar e abbas jhuka rehta hai
-  Jo ke masroofe...
+
+  11
   Karbala mein mujhe ay sibte nabi yaad karo
   Ye dabeer aap ka masroof e dua rehta hai
-  
-  9
-  Jo ke masroofe...
+
+  12
   Tauf e kaaba ka tujhe shauq hai az bas ke dabeer
   Muztarib dil sifat e qibla numa rehta hai
-  Jo ke masroofe...
 # source_id: nohayonline:300d5937b09a3b8e7f3b
 # source_url: https://www.nohayonline.com/details_content.php?id=2182
 # raw_sha256: 391512081a61605e232ce9215c997398f1fb70bd3f6bf47b36f853309fb85eeb
 ---
-
 جو کہ مصروفِ سلام شہدا رہتا ہے
+گو وہ رہتا نہیں پر نام سدا رہتا ہے
 
 ۱
-گو وہ رہتا نہیں پر نام سدا رہتا ہے
 اے فلک بعد فنا کاٹے گےء دست حسین
 ایک نہ اک ظلم تیرے گھر میں نیا رہتا ہے
 

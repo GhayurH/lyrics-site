@@ -12,51 +12,46 @@ published: false
 romanLyrics: |-
   Ummat ne baad e ahmed e musrsal ye kya kiya
   Be-khuaf unki beti ke ghar ko jala diya
-  
+
   1
   Barsaya teer jis ke janaze pe barmala
   Qabr e nabi ke pehlu se us ko hata diya
-  Ummat ne baade ahmede...
-  Aaram gaah e maadar e abbas bhi hai yan
-  
+
   2
+  Aaram gaah e maadar e abbas bhi hai yan
   Jis ne khuda wafaon ka ban kar dikha diya
-  Ummat ne baade ahmede...
+
+  3
   Sajjad natawan bhi hai zehra ki paas dafn
   Bazaar e shaam may jise dar dar phira diya
-  
-  3
-  Ummat ne baade ahmede...
+
+  4
   Ek qabr imam jafar e sadiq bhi hai yahan
   Jis ne usool e deen may elaaahi panaah diya
-  Ummat ne baade ahmede...
-  
-  4
+
+  5
   Pehlu bhi hai shikasta mera aur qabr bhi
   Ummat ne ye bhi baad e nabi zulm dha diya
-  Ummat ne baade ahmede...
+
+  6
   Hum ko bhi ab sukoon bhala kya milega jab
-  
-  5
   Aaram gaah e fatema zehra ko dha diya
-  Ummat ne baade ahmede...
+
+  7
   Mehdi hi aake turbat e zehra banayenge
   Ummat ne aaj binte nabi ko bhula diya
-  
-  6
-  Ummat ne baade ahmede...
+
+  8
   Tera kalaam gham may hai dooba hua najaf
   Jis ne to sang dil ko bhi aakhar rula diya
-  Ummat ne baade ahmede...
 # source_id: nohayonline:c42e86e78f9b1619899d
 # source_url: https://www.nohayonline.com/content_salaam.php?id=29
 # raw_sha256: 96109fce8951e853960c5faf797fdeaeab55ff5f779817fa44ab8f1ce0842f08
 ---
-
 امت نے بعد احمد مرسل یہ کیا کیا
+بے خوف انکی بیٹی کے گھر کو جلا دیا
 
 ۱
-بے خوف انکی بیٹی کے گھر کو جلا دیا
 برساے تیر جس کے جنازے پہ برملا
 قبر نبی کے پہلو سے اس کو ہٹا دیا
 

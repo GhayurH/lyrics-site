@@ -12,51 +12,46 @@ published: false
 romanLyrics: |-
   Sache khwab ki sach hogi tabeer zaroor
   Haq par denge qurbani shabbir zaroor
-  
+
   1
   Ashke ghame shabbir hai jiski aankhon may
   Usko milegi jannat ki jageer zaroor
-  Sachey khwab ki…
-  Khaake shafa ka noor hai mere maathe par
-  
+
   2
+  Khaake shafa ka noor hai mere maathe par
   Roze qayamat chamkegi taqdeer zaroor
-  Sachey khwab ki…
+
+  3
   Kaaba dekhne waale karbobala bhi dekh
   Padna hai quran to pad tafseer zaroor
-  
-  3
-  Sachey khwab ki…
+
+  4
   Hum ko janab e fatema zehra ki hai dua
   Karte rahenge zikre ghame shabbir zaroor
-  Sachey khwab ki…
-  
-  4
+
+  5
   Asghar ki jaanib jo chala tha keh dega
   Mehshar may wo saari kahani teer zaroor
-  Sachey khwab ki…
+
+  6
   Hal min nasir ki jab denge shaah sada
-  
-  5
   Gir jayega jhoole se baysheer zaroor
-  Sachey khwab ki…
+
+  7
   Bheegi hui phir kyun hai lehad ye asghar ki
   Qabr bana kar roye hai shabbir zaroor
-  
-  6
-  Sachey khwab ki…
+
+  8
   Sabr agar ban jaata hai talwaar urooj
   Kat jaati hai zulm ki har zanjeer zaroor
-  Sachey khwab ki…
 # source_id: nohayonline:5f517e3411e2fb5c00aa
 # source_url: https://www.nohayonline.com/details_content.php?id=809
 # raw_sha256: f9fb02287a12d7208f6e2f32663ef643f0d1d9e7555545c052fb1ae9a1b1100d
 ---
-
 سچے خواب کی سچ ہو گی تعبیر ضرور
+حق پر دیں گے قربانی شبیر ضرور
 
 ۱
-حق پر دیں گے قربانی شبیر ضرور
 اشکِ غم شبیر ہے جس کی آنکھوں میں
 اُس کو ملے گی جنت کی جاگیر ضرور
 
