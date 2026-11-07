@@ -62,7 +62,6 @@ romanLyrics: |-
   Aankh roti hai qalam likhta hai noha rehaan
   Hai karam mujhpe shahe karbobala ka rehaan
   Nowha jab tak na likhoo roz shahe deen ka naya
-reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: nohayonline:9ac2b9f7c54db1dd44db
 # source_url: https://www.nohayonline.com/details_content.php?id=83
 # raw_sha256: 862809c1f0f73c3570e1c91d282fda97526876b98cb178f0708a2332b5666663

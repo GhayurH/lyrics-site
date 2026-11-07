@@ -11,42 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Aap ke baad mujhe shimr ne maara baba
-  
-  1
   Choor zakhmon se hui teri sakina baba
+
+  1
   Kya yateemo ko dilaasa nahi deta koi
   Kya aseeron ka koi ghar nahi hota baba
-  
+
   2
   Mujhko is baat pe zaalim ne tamache maare
   Maine bas aap ka sar shimr se maanga baba
-  
+
   3
   Itni be-rehmi se durr mere layeen ne cheene
   Jaise daadi se fidak logon ne cheena baba
-  
+
   4
   Moo ke bal daudte naaqe se girri thi jab mai
   Shimr ne baalon se tab mujhko uthaya baba
+
+  5
   Haath pehlu se nahi jaise utha dadi ka
   Hath rukhsaar se mera nahi uth'ta baba
-  
-  5
+
+  6
   Aise ujde na koi meri dua hai rab se
   Jaise pardes mein ujdi hai sakina baba
-  
-  6
+
+  7
   Sogayi shaam ke zindan mein sakina mohsin
   Qaid khaane mein sada reh gayi baba baba
 # source_id: nohayonline:8391d0f7fae05b04c89d
 # source_url: https://www.nohayonline.com/details_content.php?id=2255
 # raw_sha256: c2032f15ddfc2cc9a0be0992b00f292b7c8542b36c10f0dd33b968df9d10cf64
 ---
-
 آپ کے بعد مجھے شمر نے بابا مارا
+چور زخموں سے ہوئی تیری سکینہ بابا
 
 ۱
-چور زخموں سے ہوئی تیری سکینہ بابا
 کیا یتیموں کو دلاسہ نہیں دیتا کوئی
 کیا اسیروں کا کوئی گھر نہیں ہوتا بابا
 

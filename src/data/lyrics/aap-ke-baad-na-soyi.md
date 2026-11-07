@@ -11,8 +11,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek roz madine waalon ne
-
-  1
   Hyder se kaha zehra se kahe
   Wo raat may mehlan ro le ya
   Baba ke liye din may role
@@ -26,6 +24,8 @@ romanLyrics: |-
   Aur ro ro ke ye kehti thi
   Haye baba aap ke baad na soyi zehra
   Bas roti rahi haye wavaila wavaila
+
+  1
   Jis ghadi jalta hua mujhpe wo darwaza gira
   Phasliyan toot gayi pehlu shakista bhi hua
   Tumhari ye beti sada de rahi thi
@@ -71,8 +71,6 @@ romanLyrics: |-
 # raw_sha256: 1d61fc09b2c026f20e0f6211f1996719bd312509ca295b868c4c387c518e8488
 ---
 اک روز مدینے والوں نے
-
-۱
 حیدر سے کہا زہرا سے کہے
 وہ رات میں مہلن رو لے یا
 بابا کے لئے دن میں رولے
@@ -86,6 +84,8 @@ romanLyrics: |-
 اور رو رو کے یہ کہتی تھی
 ہاے بابا آپ کے بعد نہ سوی زہرا
 بس روتی رہی ہاے واویلا واویلا
+
+۱
 جس گھڑی جلتا ہوا مجھ پہ وہ دروازہ گرا
 پسلیاں ٹوٹ گیء پہلو شکستہ بھی ہوا
 تمہاری یہ بیٹی صدا دے رہی تھی

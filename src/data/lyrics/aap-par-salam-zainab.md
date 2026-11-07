@@ -12,58 +12,58 @@ published: false
 romanLyrics: |-
   Marhaba shareekatul hussain
   Aap par salaam zainab
-  
-  1
   Baad e shahe karbala aap ne poora kiya
   Itna bada kaam zainab
+
+  1
   Maa se jo kiya tha waada khoob wo nibhaya
   Saath saath bhai ke rahi hai ban ke saaya
   Kaam jo koi na kar saka wo kar dikhaya
   Karbobala bhai ne fatha ki aur aap ne
   Fatha kiya shaam zainab
-  
+
   2
   Qatl ho chuka ali ka laal jab furaat par
   Bibiyon ke bayn cha rahe thay kayenat par
   Saari zimmedariyan uthayi apni zaat par
   Bibiyan ghabra gayi pehre pe aap aagayi
   Jab jale qayaam zainab
-  
+
   3
   Misle shaah e deen nigahein zulm se milayi thi
   Faujein jis ghadi qayam lootne ko aayi thi
   Abid e hazeen ko aap hi bacha ke laayi thi
   Dekh ke ye hausla keh rahe they marhaba
   Khud shahe anaam zainab
-  
+
   4
   Kaise kaise imtehan bibi aap ne diye
   Karbala ke dasht se aseer hoke jab chale
   Aap hi to aasra thi ahlebait ke liye
   Gham mein giraftar thi phir bhi alamdar thi
   Karbala se shaam zainab
-  
+
   5
   Kyun na ehteram aap ka ho khaas o aam mein
   Aap hai shareek e kaar maqsad e imam mein
   Pehli majlis e hussain wo bhi qaid e shaam mein
   Koi nahi ho saka baani e farshe aza
   Sirf hai ek naam zainab
-  
+
   6
   Zindagi ko waqf kar diya khuda ke naam par
   Dono laadle fida kiye wafa ke naam par
   Ek ek ashk shaah e karbala ke naam par
   Khutba kuch aise diya zulm ko ruswa kiya
   Hai ye sada aam zainab
-  
+
   7
   Bhaiyon ko har ghadi rakha dua ke saaye mein
   Aap ka ye sabr o hausla jafa ke saaye mein
   Hai khuda ka deen aap ki rida ke saaye mein
   Shukriya kehte rahe aap ko sajda kare
   Aap ke ghulam zainab
-  
+
   8
   Aap ki ata jo ho to choole asmaan sab
   Saare zakireen nauhakhwan o soz khan sab
@@ -74,13 +74,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1303
 # raw_sha256: 5832e011509a725e02f5b8341ae0965c39d4591755f88fd2386e1b60f5b032a8
 ---
-
 مرحبا شریکۃ الحسین
 آپ پر سلام زینب
-
-۱
 بعد شہِ کربلا آپ نے پورا کیا
 کتنا بڑا کام زینب
+
+۱
 ماں سے جو کیا تھا وعدہ خوب وہ نبھایا
 ساتھ ساتھ بھائی کے رہی ہیں بن کے سایہ
 کام جو کوئی نہ کر سکا وہ کر دکھایا
