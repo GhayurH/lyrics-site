@@ -14,43 +14,43 @@ romanLyrics: |-
   Khul gaya baab e jafa haey ashoor ke din
 
   1
-  1) Qatl Zainab ke pisar kar diye jab aada ne
+  Qatl Zainab ke pisar kar diye jab aada ne
   Sar kiye tan se juda haey ashoor ke din
 
   2
-  2) Dulha Qasim bin e Farwa o Hassan ka ran may
+  Dulha Qasim bin e Farwa o Hassan ka ran may
   Laasha pamaaal hua haey ashoor ke din
 
   3
-  3) Naujawan baap ki peeri ka sahara Akbar
+  Naujawan baap ki peeri ka sahara Akbar
   Qatl naize se kiya haey ashoor ke din
 
   4
-  4) Quwwate baazu e Shabbir haram ki dhaaras
+  Quwwate baazu e Shabbir haram ki dhaaras
   Qatl darya pe hua haey ashoor ke din
 
   5
-  5) Baap ki goad may cheh maah ke Asghar ka ghazab
+  Baap ki goad may cheh maah ke Asghar ka ghazab
   Teer se halq chida haey ashoor ke din
 
   6
-  6) Jab na baaqi rahay ansar o aizza koi
+  Jab na baaqi rahay ansar o aizza koi
   Qatl Sarwar ko kiya haey ashoor ke din
 
   7
-  7) Kaat kar gulshane Zehra ko jafakaro ne
+  Kaat kar gulshane Zehra ko jafakaro ne
   Loota kar kar ke jafa haey ashoor ke din
 
   8
-  8) Sar barehna kiya saydaniyo ko aada ne
+  Sar barehna kiya saydaniyo ko aada ne
   Cheen kar sar se rida haey ashoor ke din
 
   9
-  9) Jiske durr cheen ke zaalim ne tamchay maare
+  Jiske durr cheen ke zaalim ne tamchay maare
   Uska daaman bhi jala haey ashoor ke din
 
   10
-  10) Gham se phat jayenge seene jo likha tune Anees
+  Gham se phat jayenge seene jo likha tune Anees
   Nauha e aale aba haey ashoor ke din
 reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: nohayonline:90b93f357430caa5fe42
