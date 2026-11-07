@@ -14,10 +14,10 @@ romanLyrics: |-
   Yateem aaj imam e zamaan hote hai
   Haye hassan askari maula
   Ay bine zehra askari maula
-
-  1
   Shaahe saamara askari maula
   Ay bine zehra askari maula
+
+  1
   Haye qayamat ki ghadi aa gayi kaisi
   Saaye se mehroom tere hogaye mehdi
   Hoke juda rota raha aap ka beta
@@ -70,14 +70,15 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1306
 # raw_sha256: 4be2695c37749baf3dda3acaef275023bf6da8176ab095dc0991218d5e075dfe
 ---
+
 یہ غم وہ غم ہے کہ دونوں جہان‌ روتے ہیں
 یتیم آج امام زمان ہوتے ہیں
 ہاے حسن عسکری مولا
 اے بن زہرا عسکری مولا
-
-۱
 شاہ سامرہ عسکری مولا
 اے بن زہرا عسکری مولا
+
+۱
 ہاے قیامت کے گھڑی آ گئ کیسی
 ساے سے محروم تیرے ہوگےء مہدی
 ہوکے جدا روتا رہا آپ کا بیٹا
