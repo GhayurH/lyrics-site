@@ -21,51 +21,49 @@ romanLyrics: |-
   Zindabad zindabad zindabad zindabad zindabad
   Hussain zindabad hussain zindabad
   Hussain zindabad hussain zindabad
-
-  1
   Ye kal bhi zindabad tha wo ab bhi zindabad hai
 
-  2
+  1
   Quran may hadees may yazid ka bayan nahi
   Yazid ki to qabr ka kahin bhi koi nishan nahi
   Haa jaa bajaa hai dehr may hussain ki aulaad hai
 
-  3
+  2
   Buraiyon ko dehr may yazid aam kargaya
   Hussain se lada to apni maut aap mar gaya
   Ye kal bhi murdabad tha ye ab bhi murdabad hai
 
-  4
+  3
   Har ek shareef zehn se yazid itna gir gaya
   Kisi ne apni laal ka yazid naam na rakha
   Ye kal bhi namurad tha ye ab bhi namurad hai
 
-  5
+  4
   Yazid waale takht par naseeb ke kharab hai
   Hussain waale qaid may bhi reh ke kamiyab hai
   Hussainyat ki thokare yazid aur ibne ziyad hai
 
-  6
+  5
   Jahan may sab se zyada ashk jiske naam par baha
   Zamane laa gham e hussain ka koi jawab laa
   Guinness book ko bus mere hussain se anaad hai
 
-  7
+  6
   Yazid ek laakh ho mukaable pe gham nahi
   Hussain waala ek ho to lashkaro se kam nahi
   Hussain ko bhi apne matami pe aetmaad hai
 
-  8
+  7
   Ali ki beti zainab e hazeen hussain ban gayi
   Shareekatul hussain thi yazidiyat pe cha gayi
   Hussain se padha hua sabakh jo is ko yaad hai
 
-  9
+  8
   Tarana e hussain hai haa saath do hussainiyo
   Hussain se murad lo murad lo hussainiyo
   Hussain jis ko dede uski nasl ba-murad hai
 
-  10
+  9
   Nabi ka mulk e paak hai nadeem aur rehaan hai
   Hamari sarhado pe sab hussain ke jawan hai
   Karam hai mustafa ka apna mulk shaad o baad hai
@@ -87,51 +85,49 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 زندہ باد زندہ باد زندہ باد زندہ باد زندہ باد
 حسین زندہ باد حسین زندہ باد
 حسین زندہ باد حسین زندہ باد
-
-۱
 یہ کل بھی زندہ باد تھا وہ اب بھی زندہ باد ہے
 
-۲
+۱
 قرآن میں حدیث میں یزید کا بیاں نہیں
 یزید کی تو قبر کا کہیں بھی کوئی نشان نہیں
 ہاں جابجا ہے دہر میں حسین کی اولاد ہے
 
-۳
+۲
 براییوں کو دہر میں یزید عام کر گیا
 حسین سے لڑا تو اپنی موت آپ مر گیا
 یہ کل بھی مردہ باد تھا یہ اب بھی مردہ باد ہے
 
-۴
+۳
 ہر ایک شریف ذہن سے یزید اتنا گر گیا
 کسی نے اپنے لال کا یزید نام نہ رکھا
 یہ کل بھی نامراد تھا یہ اب بھی نا مراد ہے
 
-۵
+۴
 یزید والے تخت پر نصیب کے خراب ہے
 حسین والے قید میں بھی رہ کے کامیاب ہے
 حسینیت کی ٹھوکریں یزید اور ابنِ زیاد ہیں
 
-۶
+۵
 جہاں میں سب سے ذیادہ اشک جس کے نام پر بہا
 زمانے لا غمِ حسین کا کوی جواب لا
 گنیز بک کو بس میرے حسین سے آنند ہے
 
-۷
+۶
 یزید ایک لاکھ ہو مقابلے پہ غم نہیں
 حسین والا ایک ہو تو لشکروں سے کم نہیں
 حسین کو بھی اپنے ماتمی پہ اعتماد ہے
 
-۸
+۷
 علی کی بیٹی زینب حزیں حسین بن گیء
 شریکت الحسین تھی یزیدیت پہ چھا گیء
 حسین سے پڑھا ہوا سبق جو اس کو یاد ہے
 
-۹
+۸
 ترانہء حسین ہے ہاں ساتھ دو حسینوں
 حسین سے مراد لو مراد لو حسینوں
 حسین جس کو دیدے اسکی نسل با مراد ہے
 
-۱۰
+۹
 نبی کا ملک پاک ہے ندیم اور ریحان
 ہماری سرحدوں پہ سب حسین کے جوان ہیں
 کرم ہے مصطفیٰ کا اپنا ملک شاد و باد ہے
