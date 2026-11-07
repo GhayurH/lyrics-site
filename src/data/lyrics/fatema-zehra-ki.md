@@ -10,10 +10,12 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Ay mere laal hussain ay mere laal hussain
+
   Maqtal mein ye thi fatema zehra ki sada
   Lut'ti hai meri ran mein kameini baba
+
+  1
   Baba mera qasim hua ran mein pamaal
   Kya hoga bhala sochiye us maa ka haal
   Taqseem hua tukdon mein beta jiska
@@ -46,10 +48,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2743
 # raw_sha256: 3e8dfd72562863ca54ba0c69d40d5ed1e60498ce7d7bb96ec22a5abb8646dbbe
 ---
-۱
 اے میرے لال حسین اے میرے لال حسین
+
 مقتل میں یہ تھی فاطمہ زہرا کی صدا
 لٹتی ہے میری رن میں کمای بابا
+
+۱
 بابا میرا قاسم ہوا رن‌ میں پامال
 کیا ہوگا بھلا سوچیےء اس ماں کا حال
 تقسیم ہوا ٹکڑوں میں بیٹا جس کا
