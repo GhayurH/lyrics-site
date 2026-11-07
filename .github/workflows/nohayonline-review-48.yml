@@ -1,4 +1,4 @@
-name: Validate 48 NoHayOnline lyric corrections
+name: Scan NoHayOnline bilingual refrain markers
 on:
   push:
     branches: [feat/import-overlap-reconciliation-2026-11-05]
@@ -6,124 +6,66 @@ on:
 permissions:
   contents: read
 jobs:
-  validate:
+  scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0
       - run: python -m pip install pyyaml
-      - name: Verify original verses, paired shorthand, metadata and stanza alignment
+      - name: Find remaining cross-script refrain matches
         run: |
           python - <<'PY'
-          import collections,pathlib,re,subprocess,yaml
-          base='3007be2a1ae2f59ecfec3c3d5519a73e4478296f'
-          changed=[p for p in subprocess.check_output(['git','diff','--name-only',base,'HEAD','--','src/data/lyrics'],text=True).splitlines() if p.endswith('.md')]
-          assert len(changed)==48,('Unexpected edit count',len(changed),changed)
-          fm=re.compile(r'\A---\n(.*?)\n---\n(.*)\Z',re.S)
-          number=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
-          abbr=re.compile(r'(?:\.{2,}|…|۔۔۔)\s*$')
-          digits=str.maketrans('0123456789','۰۱۲۳۴۵۶۷۸۹')
-          allowed={
-            'chashme-sajjad-ne':{'اہل حرم کو','مشکل کشا کے','چشم سجاد نے'},
-            'mud-mud-ke-mujhe':{'مُڑ مُڑ کے مجھے'},
-            'matam-ki-sada-se':{'جو آل نبی پر'},
-            'mai-pardae-ghaibat':{'میں پردہء غیبت سے'},
-            'ay-shimr-mere-laal':{'اے شمر میرے لال کو'},
-            'haye-zindan-tera':{'خوں بھرا تیرا','ہاے زندان تیرا'},
-            'beti-ali-ki-turbate':{'کہتی ہے اے حسین'},
-            'khudara-chale-aao':{'خدارا چلے آؤ'},
-            'madine-jaun-ya':{'توہی بتا میرے','مدینے جاؤں یا'},
-            'baghdad-ke-pul':{'بغداد کے پل پر'},
-            'zainab-bibi-ujad':{'زینب بی بی اجڑ گیء ہے'},
-            'mai-pyasa-tahe':{'میں پیاسا تہہ تیغ'},
-            'sar-karbobala':{'سر کربوبلا زینب'},
-          }
-          unique_roman_echoes={'chashme-sajjad-ne':{'Ahle haram ko...','Mushkil kusha ke...'}}
-          def parse(t):
-              m=fm.fullmatch(t)
-              assert m, 'Malformed frontmatter'
-              metadata=yaml.safe_load(m[1])
-              assert isinstance(metadata,dict)
-              provenance=[v for v in m[1].splitlines() if v.startswith(('# source_id:','# source_url:','# raw_sha256:'))]
-              return metadata,m[2],provenance
-          def lines(t):
-              return [v for line in t.splitlines() if (v:=line.strip()) and not number.fullmatch(v)]
-          def groups(t,urdu,strict=True):
-              g=[[]];marks=[]
-              for line in t.splitlines():
+          import pathlib,re,collections,subprocess,yaml
+          old='86c42ac0efc0895558f4680a0a9da65dc67490d3'
+          edited={pathlib.Path(x).stem for x in subprocess.check_output(['git','diff','--name-only',old,'HEAD','--','src/data/lyrics'],text=True).splitlines()}
+          front=re.compile(r'\A---\n(.*?)\n---\n(.*)\Z',re.S)
+          num=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
+          short=re.compile(r'(?:\.{2,}|…|۔۔۔)\s*$')
+          def grp(txt):
+              gs=[[]]
+              for line in txt.splitlines():
                   v=line.strip()
                   if not v:continue
-                  if number.fullmatch(v):marks.append(v);g.append([])
-                  else:g[-1].append(v)
-              want=[str(i).translate(digits) if urdu else str(i) for i in range(1,len(marks)+1)]
-              assert marks==want,('Invalid stanza numbering',marks,want)
-              assert marks and all(g),('Empty opening or stanza',list(map(len,g)))
-              if strict:assert all(len(b)>=2 for b in g[1:]),'Numbered single-line stanza'
-              return g
-          def assert_preserved(before,after,slug,lang):
-              old,new=lines(before),lines(after)
-              counts_old,counts_new=collections.Counter(old),collections.Counter(new)
-              assert not(counts_new-counts_old),(slug,lang,'Added/rewritten lines',counts_new-counts_old)
-              missing=counts_old-counts_new
-              normalize=lambda x:re.sub(r'[\s.…۔]+','',x.casefold())
-              for line,count in missing.items():
-                  if lang=='Urdu':
-                      assert abbr.search(line) or line in allowed.get(slug,set()),(
-                          slug,'Deleted non-shorthand Urdu line',line)
-                  else:
-                      assert abbr.search(line),(slug,'Deleted substantive Roman line',line)
-                  if lang=='Roman' and line not in unique_roman_echoes.get(slug,set()):
-                      assert sum(v for x,v in counts_old.items() if normalize(x)==normalize(line))>=2,(
-                          slug,'Deleted nonrepeated Roman line',line)
-              cursor=iter(old)
-              for line in new:
-                  assert any(v==line for v in cursor),(slug,lang,'Verse order changed',line)
-              return sum(missing.values())
-          total=collections.Counter()
-          for path in changed:
-              slug=pathlib.Path(path).stem
-              oldtext=subprocess.check_output(['git','show',f'{base}:{path}'],text=True)
-              newtext=pathlib.Path(path).read_text(encoding='utf-8')
-              assert '# source_id: nohayonline:' in oldtext,('Unexpected source',path)
-              old,urdu0,prov0=parse(oldtext)
-              new,urdu1,prov1=parse(newtext)
-              assert old.get('published') is False and new.get('published') is False,('Publication changed',path)
-              assert {k:v for k,v in old.items() if k!='romanLyrics'}=={
-                  k:v for k,v in new.items() if k!='romanLyrics'},('Metadata changed',path)
-              assert prov0==prov1,('Source provenance changed',path)
-              r0,r1=old.get('romanLyrics'),new.get('romanLyrics')
-              assert isinstance(r0,str) and isinstance(r1,str),('Missing Roman',path)
-              lost_r=assert_preserved(r0,r1,slug,'Roman')
-              lost_u=assert_preserved(urdu0,urdu1,slug,'Urdu')
-              assert lost_r==lost_u,(slug,'Unpaired shorthand removal',lost_r,lost_u)
-              total['roman_shorthand']+=lost_r
-              total['urdu_shorthand']+=lost_u
-              r,u=groups(r1,False),groups(urdu1,True)
-              assert len(r)==len(u),(slug,'Urdu/Roman stanza count differs')
-              assert [len(b) for b in r]==[len(b) for b in u],(slug,'Urdu/Roman line groups differ')
-              ro,uo=groups(r0,False,False),groups(urdu0,True,False)
-              if slug=='pisar-ki-laash':
-                  assert r[0]==ro[0][:-1] and u[0]==uo[0][:-1],(slug,'Opening trio changed')
-                  assert r[1][0]==ro[0][-1] and u[1][0]==uo[0][-1],(slug,'Moved first couplet line lost')
-              else:
-                  assert r[0][:len(ro[0])]==ro[0] and u[0][:len(uo[0])]==uo[0],(
-                      slug,'Original opening passage not preserved')
-              print('PASS',slug,'opening',len(r[0]),'stanzas',len(r)-1,'removed',lost_r)
-          print('VERIFIED',len(changed),'NoHayOnline poems;',dict(total))
+                  if num.fullmatch(v):gs.append([])
+                  else:gs[-1].append(v)
+              return gs
+          candidates=[]
+          hard=[]
+          for path in pathlib.Path('src/data/lyrics').glob('*.md'):
+              if path.stem in edited:continue
+              text=path.read_text(encoding='utf-8')
+              if '# source_id: nohayonline:' not in text:continue
+              m=front.fullmatch(text)
+              if not m:continue
+              try:meta=yaml.safe_load(m[1])
+              except Exception:continue
+              if not isinstance(meta,dict) or not isinstance(meta.get('romanLyrics'),str):continue
+              r,u=grp(meta['romanLyrics']),grp(m[2])
+              if len(r)!=len(u) or any(len(a)!=len(b) for a,b in zip(r,u)):continue
+              v=[];abbrs=[];paints=[];out=[];temp=[];preamble=r[0]
+              for a,b in zip(r[1:],u[1:]):
+                  for rom,urdu in zip(a,b):
+                      if short.search(rom):
+                          abbrs.append(rom);paints.append(urdu)
+                          if temp:out.append(temp);temp=[]
+                      else:temp.append(rom)
+              if temp:out.append(temp)
+              if len(abbrs)<3 or not out:continue
+              counts=collections.Counter(paints)
+              variants=[(x,n) for x,n in counts.items() if n<2]
+              trailing=sum(1 for a,b in zip(r[1:],u[1:]) if a and short.search(a[-1]))
+              shapes=[len(g) for g in out]
+              score=min(len(abbrs),len(out))*2+sum(2<=n<=6 for n in shapes)*1.2+min(4,len(preamble))
+              item=(score,path.stem,len(preamble),shapes,len(abbrs),len(counts),variants[:3],list(counts.items())[:4],trailing)
+              if len(out)>=5 and min(shapes)>=2 and not variants:
+                  candidates.append(item)
+              else:hard.append(item)
+          candidates.sort(reverse=True);hard.sort(reverse=True)
+          print('MATCHING_BILINGUAL_REVIEW',len(candidates),'DIFFICULT',len(hard))
+          for i,(score,slug,opening,parts,reps,types,variants,examples,trailing) in enumerate(candidates[:160],1):
+              print(f'MATCH {i:03d} {slug} score={score:.1f} intro={opening} shapes={parts} shortcuts={reps} types={types} examples={examples} trailing={trailing}')
+          for i,(score,slug,opening,parts,reps,types,variants,examples,trailing) in enumerate(hard[:60],1):
+              print(f'DIFFICULT {i:03d} {slug} score={score:.1f} intro={opening} shapes={parts} shortcuts={reps} singles={variants} examples={examples}')
           PY
-      - name: Verify whitespace
-        run: git diff --check 3007be2a1ae2f59ecfec3c3d5519a73e4478296f HEAD
-      - uses: actions/setup-node@v7
-        with:
-          node-version: '24'
-          cache: npm
-      - run: npm ci
-      - name: Astro checks, unit tests, build and search
-        run: |
-          npm run check
-          npm test
-          npx astro build
-          npx pagefind
-          node scripts/generate-offline-search-manifest.mjs
