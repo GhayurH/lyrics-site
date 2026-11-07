@@ -30,8 +30,6 @@ romanLyrics: |-
   3
   Yehi wo seena hai jispe chad kar
   Layeen ne kaata hussain ka sar
-  Jo garm reti pe...
-  Ghareeb e zahra ka...
 
   4
   Hui thi wo jinki naal bandi
@@ -42,8 +40,6 @@ romanLyrics: |-
   5
   Na jaane kis tarha maa ne dekha
   Sumon ke neeche ghareeb beta
-  Jo garm reti pe...
-  Ghareeb e zahra ka...
 
   6
   Layeen wo bajdal tha naam jiska
@@ -54,8 +50,6 @@ romanLyrics: |-
   7
   Na utri zaalim se jab angoothi
   To kaat kar le gaya wo ungli
-  Jo garm reti pe...
-  Ghareeb e zahra ka...
 
   8
   Akela laakhon se zakhm kha kar
@@ -66,8 +60,6 @@ romanLyrics: |-
   9
   Na jaane zainab ne kaise dekha
   Ghareeb bhai ka zakhmi laasha
-  Jo garm reti pe...
-  Ghareeb e zahra ka...
 
   10
   Saron ko naizon pe jab chadhaya
@@ -78,8 +70,6 @@ romanLyrics: |-
   11
   Pidar ke zakhmi badan pe rakh kar
   Chalaya nanhe galay pe khanjar
-  Jo garm reti pe...
-  Ghareeb e zahra ka...
 
   12
   Pidar ke seene pe sone waali
@@ -90,8 +80,6 @@ romanLyrics: |-
   13
   Pakad ke baalon se jab chudaya
   Badan zameen par tadap raha tha
-  Jo garm reti pe...
-  Ghareeb e zahra ka...
 
   14
   Kahin pe talwar ke nishan hai
@@ -102,8 +90,6 @@ romanLyrics: |-
   15
   Badan hai ye chaak chaak haye
   Bahri hai zakhmon mein khaak haye
-  Jo garm reti pe...
-  Ghareeb e zahra ka...
 
   16
   Hussain ki jab lehad pe jaana
@@ -114,8 +100,6 @@ romanLyrics: |-
   17
   Wahin ye zakhmi badan rakha hai
   Sagheer seene pe so raha hai
-  Jo garm reti pe...
-  Ghareeb e zahra ka...
 # source_id: nohayonline:7312bba32232804551be
 # source_url: https://www.nohayonline.com/details_content.php?id=2692
 # raw_sha256: d345ddfc944cf24c0ad318c75432c1cf6c8d37205e46533a6affa6e5e2713b81
@@ -140,8 +124,6 @@ romanLyrics: |-
 ۳
 یہی وہ سینہ ہے جس پہ چڑھکر
 لعیں نے کاٹا حسین کا سر
-جو گرم ریتی پہ۔۔۔
-غریب زہرا کا۔۔۔
 
 ۴
 ہوئی تھی وہ جنکی کی نال بندی
@@ -152,8 +134,6 @@ romanLyrics: |-
 ۵
 نہ جانے کس طرح ماں نے دیکھا
 سموں کے نیچے غریب بیٹا
-جو گرم ریتی پہ۔۔۔
-غریب زہرا کا۔۔۔
 
 ۶
 لعیں وہ بجدل تھا نام جسکا
@@ -164,8 +144,6 @@ romanLyrics: |-
 ۷
 نہ اُتری ظالم سے جب انگوٹھی
 تو کاٹ کر لے گیا وہ انگلی
-جو گرم ریتی پہ۔۔۔
-غریب زہرا کا۔۔۔
 
 ۸
 اکیلا لاکھوں سے زخم کھاکر
@@ -176,8 +154,6 @@ romanLyrics: |-
 ۹
 نہ جانے زینب نے کیسا دیکھا
 غریب بھائی کا زخمی لاشہ
-جو گرم ریتی پہ۔۔۔
-غریب زہرا کا۔۔۔
 
 ۱۰
 سروں کو نیزوں پہ جب چڑھایا
@@ -188,8 +164,6 @@ romanLyrics: |-
 ۱۱
 پدر کے زخمی بدن پہ رکھ کر
 چلایا ننھے گلے پہ خنجر
-جو گرم ریتی پہ۔۔۔
-غریب زہرا کا۔۔۔
 
 ۱۲
 پدر کے سینے پہ سونے والی
@@ -200,8 +174,6 @@ romanLyrics: |-
 ۱۳
 پکڑکے بالوں سے جب چھڑایا
 بدن زمیں پر تڑپ رہا تھا
-جو گرم ریتی پہ۔۔۔
-غریب زہرا کا۔۔۔
 
 ۱۴
 کہیں پہ تلوار کے نشاں ہیں
@@ -212,8 +184,6 @@ romanLyrics: |-
 ۱۵
 بدن ہے یہ چاک چاک ہائے
 بھری ہے زخموں میں خاک ہائے
-جو گرم ریتی پہ۔۔۔
-غریب زہرا کا۔۔۔
 
 ۱۶
 حسین کی جب لحد پہ جانا
@@ -224,5 +194,3 @@ romanLyrics: |-
 ۱۷
 وہیں یہ زخمی بدن رکھا ہے
 صغیر سینے پہ سو رہا ہے
-جو گرم ریتی پہ۔۔۔
-غریب زہرا کا۔۔۔

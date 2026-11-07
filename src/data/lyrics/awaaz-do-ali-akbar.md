@@ -25,7 +25,6 @@ romanLyrics: |-
   Patthar hata hata ke tumhe dhoondta hoon mai
   Chaaron taraf hai khoon milta nahi sukoon
   Laashon ke darmiyan
-  Awaaz do ay ali akbar...
 
   3
   Kuch bhi dikhayi deta nahi mai ghareeb hoon
@@ -34,28 +33,24 @@ romanLyrics: |-
   Ab lo na imtehan
 
   4
-  Awaaz do ay ali akbar...
   Maine suna hai ghode se tum khud nahi gire
   Ay mere laal baalon se khayncha gaya tumhe
   Tum ho yahin kahin kyun bolte nahi
 
   5
   Khamosh hai zuban
-  Awaaz do ay ali akbar...
   Kaise gire ho mujhko batao to zeen se
   Lagta hai tumne khaayi hai barchi layeen se
 
   6
   Chehra bhi zard hai seene mein dard hai
   Kuch to karo bayan
-  Awaaz do ay ali akbar...
   Maqtal mein aate aate bhi maara gaya mujhe
 
   7
   Dooba hua hoon khoon mein patthar ke zakhm se
   Zakhmi hai ye jigar dekho mere pisar
   Chehre pe hai nishan
-  Awaaz do ay ali akbar...
 
   8
   Himmat karo zara si kaleje ko thaam kar
@@ -64,28 +59,24 @@ romanLyrics: |-
   Do aakhri azaan
 
   9
-  Awaaz do ay ali akbar...
   Tum khud ali ho beta zara hausla karo
   Badhne laga hai dard to nade ali padho
   Aankhein hai meri nam sughra ki hai qasam
 
   10
   Ragdo na aediyan
-  Awaaz do ay ali akbar...
   Do maa'on ne jawan kiya tum ko paal kar
   Qaimon mein jaa ke kaise milaunga mai nazar
 
   11
   Mai unse kya kahun behta hai tera khoon
   Kaise sahegi maa
-  Awaaz do ay ali akbar...
   Azlaan ro ke kehta raha ye mera imam
 
   12
   Beta hamare haal pe hasti hai fauje shaam
   Dhundhla hai sab jahan hai surkh aasman
   Chalti hai aandhiyan
-  Awaaz do ay ali akbar...
 # source_id: nohayonline:d7961e2d215b88f6fb84
 # source_url: https://www.nohayonline.com/details_content.php?id=3625
 # raw_sha256: fe84ae9be39f1f4af191abd8796188233c68b712975204525ca2ba4894b9d9e2
@@ -105,7 +96,6 @@ romanLyrics: |-
 پتھر ہٹا کے تمہیں ڈھونڈتا ہوں میں
 چاروں طرف ہے خون ملتا نہیں سکون
 لاشوں کے درمیاں
-آواز دو اے علی اکبر۔۔۔
 
 ۳
 کچھ بھی دکھائی دیتا نہیں میں غریب ہوں
@@ -114,28 +104,24 @@ romanLyrics: |-
 اب لو نہ امتحاں
 
 ۴
-آواز دو اے علی اکبر۔۔۔
 میں نے سنا ہے گھوڑے سے تم خود نہیں گرے
 اے میرے لال بالوں سے کھینچا گیا تمہیں
 تم ہو یہی کہیں کیوں بولتے نہیں
 
 ۵
 خاموش ہے زباں
-آواز دو اے علی اکبر۔۔۔
 کیسے گرے ہو مجھکو بتاؤ تو زین سے
 لگتا ہے تمہیں کھای ہے برچھی لعین سے
 
 ۶
 چہرہ بھی زرد ہے سینے میں درد ہے
 کچھ تو کرو بیاں
-آواز دو اے علی اکبر۔۔۔
 مقتل میں آتے آتے بھی مارا گیا مجھے
 
 ۷
 ڈوبا ہوا ہوں خون میں پتھر کے زخم سے
 زخمی ہے یہ جگر دیکھو میرے پسر
 چہرے پہ ہے نشاں
-آواز دو اے علی اکبر۔۔۔
 
 ۸
 ہمت کرو زرا سی کلیجے کو تھام کر
@@ -144,25 +130,21 @@ romanLyrics: |-
 دو آخری اذاں
 
 ۹
-آواز دو اے علی اکبر۔۔۔
 تم خود علی ہو بیٹا زرا حوصلہ کرو
 بڑھنے لگا ہے درد تو ناد علی پڑھو
 آنکھیں ہیں میری نم صغرا کی ہے قسم
 
 ۱۰
 رگڑو نہ ایڑیاں
-آواز دو اے علی اکبر۔۔۔
 دو ماؤں نے جواں کیا تم کو پال کر
 خیموں میں جا کے کیسے ملاؤں گا میں نظر
 
 ۱۱
 میں ان سے کیا کہوں ہے تیرا خوں
 کیسے سہے گی ماں
-آواز دو اے علی اکبر۔۔۔
 اذلان‌ رو کے کہتا رہا یہ میرا امام
 
 ۱۲
 بیٹا ہمارے حال پہ ہنستی ہے فوج شام
 دھندلا ہے سب جہان ہے سرخ آسماں
 چلتی ہے آندھیاں
-آواز دو اے علی اکبر۔۔۔
