@@ -22,7 +22,7 @@ romanLyrics: |-
   Jisne kalmaye quran hum ko diya
   Us nabi ke nawase ke ghamkhwar hai
   
-  1
+  2
   Ye khuda ki khudayi ke hai raazdan
   Bane pajetan ke sadqe dono jahan
   He nabi ki zaban hi khuda ki zaban
@@ -30,7 +30,7 @@ romanLyrics: |-
   Dastaras mein inhi ke hai loh o qalam
   Ba-khuda ye hi jannat ke sardar hai
   
-  2
+  3
   Aao haq e mawadat ada hum kare
   Ali asghar ka akbar ka matam kare
   Mil ke qasim ka abbas ka gham kare
@@ -38,7 +38,7 @@ romanLyrics: |-
   Saani e zehra ke thay jo paale huwe
   Sar kiye jin ke naizon pe akhwaar hai
   
-  3
+  4
   Allah jaane wo kaise musalman thay
   Kalma go thay magar na pasheman thay
   Qatl unko kiya hai jo mehman thay
@@ -62,7 +62,7 @@ romanLyrics: |-
 جس نے کلمۂ قرآن ہم کو دیا
 اس نبی کے نواسے کے غم خوار ہیں
 
-۱
+۲
 یہ خدا کی خدائی کے ہیں رازداں
 بنے پنجتن کے صدقے میں دونوں جہاں
 ہے نبی کی زباں ہی خدا کی زباں
@@ -70,7 +70,7 @@ romanLyrics: |-
 دسترس میں انہیں کے ہیں لوح و قلم
 با خدا یہ ہی جنت کے سردار ہے
 
-۲
+۳
 آؤ حق مودت ادا ہم کرے
 علی اصغر کا اکبر کا ماتم کرے
 مل کے قاسم کا عباس کا غم کرے
@@ -78,7 +78,7 @@ romanLyrics: |-
 ثانیء زہرا کے تھے جو پالے ہوئے
 سر کیےء جن کے نیزوں پہ اخوار ہے
 
-۳
+۴
 اللہ جانے وہ کیسے مسلمان تھے
 کلمہ گو تھے مگر نہ پشیمان تھے
 قتل ان کو کیا ہے جو مہمان تھے
