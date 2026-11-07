@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Rizq hai jumbishe chadar e fatema
-
-  1
   Rozi e aalameen chadar e sayyeda
   Ay maadar bekas maadar mazloom maadar
+
+  1
   Teri khaak e paa se na hum sar uthayein
   Wahin par ajal ko galay se lagayein
   Rahe teri chadar ka saaya saron par
@@ -60,10 +60,10 @@ romanLyrics: |-
 # raw_sha256: 31afe56bdcf77064f43cbc45681b6d67face183dde599ca7d1355fd759595c0b
 ---
 رزق ہے جنبش چادر فاطمہ
-
-۱
 روزی عالمیں چادر سیدہ
 ا ے مادر بے کس مادر مظلوم مادر
+
+۱
 تری خاکِ پا سے نہ ہم سر اٹھائیں
 وہیں پر اجل کو گلے سے لگائیں
 رہے تری چادر کا سایہ سروں پر
