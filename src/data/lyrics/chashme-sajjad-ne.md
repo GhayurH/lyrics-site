@@ -16,46 +16,38 @@ romanLyrics: |-
   Unhi ki betiyon ko khule sar phirate hai
 
   1
-  Ahle haram ko...
-  Mushkil kusha ke...
   Chashme sajjad ne har dard ka manzar dekha
   Noke naiza pe sare sibte payambar dekha
-
-  2
   Khoon rone lagi sajjad ki aankhein payham
   Jab se maa behno ko balwe mein khule sar dekha
-  Chashme sajjad ne...
+
+  2
   Maarte thay jo sakina ko tamache aada
+  Jaane kis dil se ye bemaar ne manzar dekha
 
   3
-  Jaane kis dil se ye bemaar ne manzar dekha
-  Chashme sajjad ne...
   Neele ruqsar thay aur kaano se behta tha lahoo
   Dukhtare shaah pa ye jore sitamgar dekha
 
   4
-  Chashme sajjad ne...
   Dil pa kya guzri sakina ke khuda hi jaane
   Tasht par baap ka rakha hua jab sar dekha
-  Chashme sajjad ne...
 
   5
   Kaise zainab ne bhala dil ko sambhala hoga
   Halq par bhai ke jab shimr ka khanjar dekha
-  Chashme sajjad ne...
-  Ek barchi si kaleje mein lagi ashk bahe
 
   6
+  Ek barchi si kaleje mein lagi ashk bahe
   Maa ne jis dam ali akbar ka kata sar dekha
-  Chashme sajjad ne...
+
+  7
   Sar barehna jinhe dekhi na kabhi chashme falak
   Unko bazaron mein be-maqna o chadar dekha
 
-  7
-  Chashme sajjad ne...
+  8
   Ye sawaal aaj bhi khursheed se karta hai hilal
   Tune kin aankhon se sheh ko tahe khanjar dekha
-  Chashme sajjad ne...
 # source_id: nohayonline:b4dc1c55f307045520f7
 # source_url: https://www.nohayonline.com/details_content.php?id=719
 # raw_sha256: 766cda1bd1586f52a28486c9cf75cf58a4fefc1a849d3b72d4bfdf93bf60aaac
@@ -66,43 +58,35 @@ romanLyrics: |-
 انہیں کی بیٹیوں کو کھلے سر پھراتے ہیں
 
 ۱
-اہل حرم کو
-مشکل کشا کے
 چشم سجاد نے ہر درد کا منظر دیکھا
 نوکِ نیزہ پہ سر سبط پیمبر دیکھا
-
-۲
 خون رونے لگی سجاد کی آنکھیں پیہم
 جب سے ماں بہنوں کو بلوے میں کھلے سر دیکھا
-چشم سجاد نے
+
+۲
 مارتے تھے جو سکینہ کو طمانچے اعدا
+جانے کس دل سے یہ بیمار نے منظر دیکھا
 
 ۳
-جانے کس دل سے یہ بیمار نے منظر دیکھا
-چشم سجاد نے
 نیل رخسار تھے اور کانوں سے بہتا تھا لہو
 دختر شاہ پہ یہ جور ستمگر دیکھا
 
 ۴
-چشم سجاد نے
 دل پہ کیا گزری سکینہ کے خدا ہی جانے
 طشت پر باپ کا رکھا ہوا جب سر دیکھا
-چشم سجاد نے
 
 ۵
 کیسے زینب نے بھلا دل کو سنبھالا ہوگا
 حلق پر بھای کے جب شمر کا خنجر دیکھا
-چشم سجاد نے
-ایک برچی سی کلیجے میں لگی آشک بہے
 
 ۶
+ایک برچی سی کلیجے میں لگی آشک بہے
 ماں نے جس دم علی اکبر کا کٹا سر دیکھا
-چشم سجاد نے
+
+۷
 سر برہنہ جنہیں دیکھی نہ کبھی چشم فلک
 انکو بازاروں میں بے مقنہ و چادر دیکھا
 
-۷
-چشم سجاد نے
+۸
 یہ سوال آج بھی خرشید سے کرتا ہے ہلال
 تونے کن آنکھوں سے شہ کو تہہ خنجر دیکھا
-چشم سجاد نے
