@@ -12,48 +12,50 @@ published: false
 romanLyrics: |-
   Khooon ke ashk yateemi usay rulwayegi
   Ab sakina ko kabhi neend nahi aayegi
+
+  1
   Khaak par aun o mohamed ko pada dekha hai
   Laashe abbas mein naizo ko gada dekha hai
   Sar ko baysheer ke bhi tan se juda dekha hai
   Baap ke seene ko teero se bhara dekha hai
 
-  1
+  2
   Maa rasan basta hai aur qaid hai bhai bemaar
   Chain ab dil ko aayega na aayega qaraar
   Maarta jayega har gaam tamache badkaar
   Khaak par sar jo rakhegi to dukhenge rukhsaar
 
-  2
+  3
   Maar kar durra tadapne bhi nahi dega layeen
   Khaake ghash khaak pe girne bhi nahi dega layeen
   Rona chahegi to rone bhi nahi dega layeen
   Need gar aayi to sone bhi nahi dega layeen
 
-  3
+  4
   Gardan e shaah pe chalta hua khanjar dekha
   Is ne barchi se chida seena e akbar dekha
   Ek hi din mein ujadta hua sab ghar dekha
   Asr e ashoor ko zainab ka khula sar dekha
 
-  4
+  5
   Jalte qaimon ka dhuaan aankhon mein baakhi hai abhi
   Chinte gauhar ki dukhan kaano mein baakhi hai abhi
   Tang rassi ki ghutan saanson mein baakhi hai abhi
   Phat'te chaalon ki jalaan pairon mein baakhi hai abhi
 
-  5
+  6
   Pyaas peene ke liye bhook hai khaane ke liye
   Shimr badkaar hai hamraah sataane ke liye
   Aur be-rehm tamache hai rulaane ke liye
   Ye jo zinda hai to zindan mein jaane ke liye
 
-  6
+  7
   Bhool payegi na ghazi ke kate shaano ko
   Bhool payegi na lut'te huwe armaano ko
   Bhool payegi na wo kufe ke ehwaano ko
   Bhoool payegi na wo shaam ke zindano ko
 
-  7
+  8
   Neend usay noor ali aaye to kaise aaye
   Jis ko taqdeer ye ghurbat ki ghadi dikhlaye
   Gaam dar gaam jo pathar kabhi durre khaaye
@@ -64,48 +66,50 @@ romanLyrics: |-
 ---
 خون کے اشک یتیمی اسے رلواے گی
 اب سکینہ کو کبھی نیند نہیں آے گی
+
+۱
 خاک پر عون و محمد کو پڑا دیکھا ہے
 لاشے عباس میں نیزوں کو گڑا دیکھا ہے
 سر کو بے شیر کے بھی تن سے جدا دیکھا ہے
 باپ کے سینے کو تیروں سے بھرا دیکھا ہے
 
-۱
+۲
 ماں رسن بستہ ہے اور قید ہے بھای بیمار
 چین اب دل کو آے گا نہ آے گا قرار
 مارتا جاے گا ہر گام طمانچے بڑھکار
 خاک پر سر جو رکھے گی دیکھیں گے رخسار
 
-۲
+۳
 مار کر درہ تڑپنے بھی نہیں دیگا لعیں
 کھا کے غش خاک پہ گرنے بھی نہیں دیگا لعیں
 رونا چاہے گی تو رونے بھی نہیں دیگا لعیں
 نیند گر آی تو سونے بھی نہیں دیگا لعیں
 
-۳
+۴
 کردن شاہ پہ چلتا ہوا خنجر دیکھا
 اس نے برچھی سے چھدا سینۂ اکبر دیکھا
 ایک ہی دن میں اجڑتا ہوا سب گھر دیکھا
 عصر عاشور کو زینب کا کھلا سر دیکھا
 
-۴
+۵
 جلتے خیموں کا دھواں آنکھوں میں باقی ہے ابھی
 چھنتے گوہر کی دکھن کانوں میں باقی ہے ابھی
 تنگ رسی کی گھٹن سانسوں میں باقی ہے ابھی
 پھٹتے چھالوں کی جلن پیروں میں باقی ہے ابھی
 
-۵
+۶
 پیاسے پینے کے لئے بھوک ہے کھانے کے لئے
 شمر بدکار ہے ہمراہ ستانے کے لئے
 اور بے رحم طمانچے ہیں رلانے کے لئے
 یہ جو زندہ ہے تو زندان میں جانے کے لئے
 
-۶
+۷
 بھول پاے گی نہ غازی کے کٹے شانوں کو
 بھول پاے گی نہ لٹتے ہوے ارمانوں کو
 بھول پاے گی نہ وہ کوفے کے اہوانوں کو
 بھول پاے گی نہ وہ شام کے زندانوں کو
 
-۷
+۸
 نیند اسے نور علی آے تو کیسے آے
 جس کو تقدیر یہ غربت کی گھڑی دکھلاے
 گام در گام جو پتھر کبھی درے کھاے

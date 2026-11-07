@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Ro rahi hai tumhari sakina
   Laut aao chacha alqama se
-
-  1
   Pyaas ashkon se apni bujha lungi
   Ab mai pani na maangungi
+
+  1
   Aur kuch roz pyase rahe bhi to kya
   Pyaas se bad ke gham aap ka hai chacha
   Koi dega na ab al atash ki sada
@@ -63,10 +63,10 @@ romanLyrics: |-
 ---
 رو رہی ہے تمہاری سکینہ
 لوٹ آؤ چچا علقمہ سے
-
-۱
 پیاس اشکوں سے اپنی بجھا لونگی
 اب میں پانی نہ مانگونگی
+
+۱
 اور کچھ روز پیاسے رہے بھی تو کیا
 پیاس سے بڑھ کے غم آپ کا ہے چچا
 کوئی دے گا اب العطش کی صدا

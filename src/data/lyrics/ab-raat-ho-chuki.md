@@ -12,49 +12,47 @@ published: false
 romanLyrics: |-
   Jab khaak mein chupa chuke beti rasool ki
   Moo rakh ke apna qabr pe rote rahe ali
-
-  1
   Quran pad rahe thay jo ro ro ke murtaza
   Itne mein aayi fatema zahra ki ye sada
   Marqad pe meri aise na aansu bahaiye
   Ab raat ho chuki hai bahot laut jaaiye
 
-  2
+  1
   Maloom hai ye aap ko naazon ke hai palay
   Bache kabhi bhi raat mein tanha nahi rahe
   Ghar jaake pyaar kiye khana khilaiye
 
-  3
+  2
   Bichde hai pehli baar jo maadar se naunehal
   Bachon ka mere ya ali rakhna bahot khayal
   Lipta ke apne seene se dhaaras bandhaiye
 
-  4
+  3
   Milta nahi hai chain mere dil ke chain ko
   Raaton mein pyaas lagti hai mere hussain ko
   Ashkon ko uske pochiye pani pilaiye
 
-  5
+  4
   Zainab bahot hai choti ye gham seh na payegi
   Kehna bhi jo chahegi to kuch keh na payegi
   Bin maa ke kaise rehte hai usko sikhaiye
 
-  6
+  5
   Ek aarzu hai aap se marqad pe ya ali
   Le aaiyega bachon ko mere kabhi kabhi
   Mera nishan e qabr kayi jaa banaiye
 
-  7
+  6
   Faryad ka na qabr pe rone ka waqt hai
   Bachon ka mere ya ali sone ka waqt hai
   Lori thapak ke dijiye unko sulaiye
 
-  8
+  7
   Mujhko yaqeen hai aaj wo hargiz na soyenge
   Chup chup ke mere hujre mein jaa kar wo royenge
   Meri nishaniyon ko wahan se hataaiye
 
-  9
+  8
   Ainee bhala wo kis tarha bechaargi likhe
   Aamir na jaane kaise ali qabr se uthay
   Awaaz bas ye aati rahi gham na khaaiye
@@ -64,49 +62,47 @@ romanLyrics: |-
 ---
 جب خاک میں چھپا چکے بیٹی رسول کی
 منہ رکھ کے اپنا قبر پہ روتے رہے علی
-
-۱
 قرآن پڑھ رہے تھے جو رو رو کے مرتظی
 اتنے میں آی فاطمہ زہرا کی یہ صدا
 مرقد پہ میری ایسے نہ آنسوں بہایےء
 اب رات ہو چکی ہے بہت لوٹ جایےء
 
-۲
+۱
 معلوم ہے یہ آپ کو نازوں کے ہیں پلے
 بچے کبھی بھی رات میں تنہا نہیں رہے
 گھر جاکے پیار کیےء کھانا کھلایےء
 
-۳
+۲
 بچھڑے ہیں پہلی بار جو مادر سے نونہال
 بچوں کا میرے یا علی رکھنا بہت خیال
 لپٹا کے اپنے سینے سے ڈھارس بندھایےء
 
-۴
+۳
 ملتا نہیں ہے چین میرے دل کے چین کو
 راتوں میں پیاس لگتی ہے میرے حسین کو
 اشکوں کو اس کے پوچھیےء پانی پلایےء
 
-۵
+۴
 زینب بہت ہے چھوٹی یہ غم سہہ نہ پاے گی
 کہنا بھی جو چاہے گی تو کچھ کہہ نہ پاے گی
 بن ماں کے کیسے رہتے ہیں اس کو سکھایےء
 
-۶
+۵
 اک آرزو ہے آپ سے مرقد پہ یا علی
 لے آیےء گا بچوں کو میرے کبھی کبھی
 میرے سرہانے قبر کیء جا بنایےء
 
-۷
+۶
 فریاد کا نہ قبر پہ رونے کا وقت ہے
 بچوں کا میرے یا علی سونے کا وقت ہے
 لوری تھپک کے دیجیےء انکو سلایےء
 
-۸
+۷
 مجھکو یقیں ہے آج وہ ہر گز نہ سوےنگے
 چھپ چھپ کے میرے حجرے میں جا کر وہ روےنگے
 میری نشانیوں کو وہاں سے ہٹاییےء
 
-۹
+۸
 عینی بھلا وہ کس طرح بیچارگی لکھے
 عامر نہ جانے کیسے علی قبر سے اٹھے
 آواز بس یہ آتی رہی غم نہ کھایےء
