@@ -12,14 +12,14 @@ published: false
 romanLyrics: |-
   Maula abbas maula abbas
   Maula hai hamare dil unhe pukare
-
-  1
   Bin baazuon ke jo taqdeerein likhte hai
   Babul hawaij fazl ke baba
   Bali sakina ke hai chacha
   Unko bulao sab gham sunao
   Hai wo sakhi badshaah
   Ya abbas
+
+  1
   Diya jala ke sakina ke naam ka ghar mein
   Janab e hazrat e abbas ko bulaya karo
   Kahan kahan wo hamari madad nahi karte
@@ -74,14 +74,14 @@ romanLyrics: |-
 ---
 مولا عباس مولا عباس
 مولا ہیں ہمارے دل اُنہیں پکارے
-
-۱
 بن بازؤں کے جو تقدیریں لکھتے ہیں
 باب الحوائج فضل کے بابا
 بالی سکینہ کے ہیں چچا
 اُنکو بلاؤ سب غم سناؤ
 ہیں وہ سخی بادشاہ
 یا عباس
+
+۱
 دیا جلاکے سکینہ کے نام کا گھر میں
 جنابِ حضرتِ عباس کو بلایا کرو
 کہاں کہاں وہ ہماری مدد نہیں کرتے
