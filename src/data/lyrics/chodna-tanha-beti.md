@@ -12,51 +12,49 @@ published: false
 romanLyrics: |-
   Chodna tanha beti mareeza
   Kitna mushkil hai kitna mushkil hai
-  
-  1
   Mushkil kusha ka beta hi jaane
-  
-  2
+
+  1
   Hukm e elaahi raaz e mashiyat
   Manzile taa'at mein hai imamat
   Shukr ka har dukh par nazrana
-  
-  3
+
+  2
   Roz e azal se hai tayyari
   Sar dene ki aayi baari
   Har har gaam pa imtehan dena
-  
-  4
+
+  3
   Saathi bas ek tanhaai hai
   Kis se kahe kya ban aayi hai
   Veeran makan aur tanha rehna
-  
-  5
+
+  4
   Bhai jawan hamshakle payambar
   Ghar ki raunaq aankh ki thandak
   Ho wo wida aur jeena behen ka
-  
-  6
+
+  5
   Yaadein dil mein aag lagaye
   Khoon ke aansu ruk na paaye
   Zinda rehna aur na marna
-  
-  7
+
+  6
   Qasid koi jaaye to kaise
   Har har gaam pe zulm ke pehre
   Beti mareeza ka naam aa jaana
-  
-  8
+
+  7
   Naamabar ki aas lagaye
   Raste mein hai aankhein bichaye
   Har din subha se shaam karna
-  
-  9
+
+  8
   Kaisa bhara ghar hogaya sunsaan
   Jaise bhari godh ho jaaye veeran
   Zehra bibi ghar tera basna
-  
-  10
+
+  9
   Dukhiya faheem ab yaad kare hai
   Baba se faryaad kare hai
   Laut ke jaana ya usko bulaana
@@ -67,51 +65,49 @@ romanLyrics: |-
 
 چھوڑنا تنہا بیٹی مریضہ
 کتنا مشکل ہے کتنا مشکل ہے
-
-۱
 مشکل کشاء کا بیٹا ہی جانے
 
-۲
+۱
 حکم الہی راز مشیعت
 منزل طاعت میں ہے امامت
 شکر کا ہر دکھ پر نظرانہ
 
-۳
+۲
 روز ازل سے ہے تیاری
 سر دینے کی آی باری
 ہر ہر گام پہ امتحاں دینا
 
-۴
+۳
 ساتھی بس ایک تنہای ہے
 کس سے کہے کیا بن‌ آی ہے
 ویراں مکاں اور تنہا رہنا
 
-۵
+۴
 بھای جواں ہمشکل پیمبر
 گھر کی رونق آنکھ کی ٹھنڈک
 ہو وہ وداع اور جینا بہن کا
 
-۶
+۵
 یادیں دل میں آگ لگاے
 خون کے آنسوں رک نہ پاے
 زندہ رہنا اور نہ مرنا
 
-۷
+۶
 قاصد کوئی جاے تو کیسے
 ہر ہر گام پہ ظلم کے پہرے
 بیٹی مریضہ کا نام آ جانا
 
-۸
+۷
 نامہ بر کی آس لگائے
 رستے میں ہے آنکھیں بچھائے
 ہر دن صبح سے شام کرنا
 
-۹
+۸
 کیسا بھرا گھر ہو گیا سنساں
 جیسے بھری گود ہو جاے ویراں
 زہرا بی بی گھر تیرا بسنا
 
-۱۰
+۹
 دکھیا فہیم اب یاد کرے ہے
 بابا سے فریاد کرے ہے
 لوٹ کے جانا یا اس کو بلانا
