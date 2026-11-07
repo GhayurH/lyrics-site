@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Jab yazeed apne gunahon se pasheman hua
   Has ke pehle siffat e zakhm e bo ke yan hua
   Subh kaazib ki tarha chaak gareban hua
@@ -20,8 +19,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2723
 # raw_sha256: a155202dbbc6b5e6f36e2f4f5168e383c666249ca37f99f71020b8ff860a2f40
 ---
-
-۱
 جب یزید اپنے گناہوں سے پشیمان ہوا
 ہنس کے پہلے صفت زخم بو کے یاں ہوا
 صبح کاذب کے طرح چاک گریبان ہوا
