@@ -11,66 +11,67 @@ aliases: []
 published: false
 romanLyrics: |-
   Teeron ke musalle par wo sajdaye shukrana
-  
-  1
   Shabbir ne batlaya islam pe mar jana
+
+  1
   Ek teer ali asghar ki gardan pe laga aakar
   Masoom ka has dena aur maut ka ghabrana
-  
+
   2
   Mayyat ali asghar ki haathon pe utha bole
   Allah tere aage shabbir ka nazrana
-  
+
   3
   Hyder ki shuja'at ka andaz nazar aaya
   Wo shaam e ghariban mein zainab ka na ghabrana
-  
+
   4
   Sar ki thi bina chadar suraj bhi na nikla tha
   Ye saani e zehra hai ummat ne na pehchana
-  
+
   5
   Ta hashr rulayega maula ki tarari par
   Dul dul ki raqabon se beti ka lipat jaana
-  
+
   6
   Kuch is tarha laash aayi ek raat ke byahe ki
   Afsos ke maadar ne bete ko na pehchana
-  
+
   7
   Darbar mein fizza ne logon se kaha rokar
   Aati hai nabi zadi tazeem ko jhuk jaana
-  
+
   8
   Dunya to na bhoolegi abbas wafa teri
   Talwar nahi khaynchi aaqa ka kaha maana
-  
+
   9
   Barchi ali akbar ke seene se nikaali thi
   Dekha na gaya shah se yun dil ka nikal aana
-  
+
   10
   Ye maa ki wasiyat thi abbas e dilawar ko
   Jab deen pe ban aaye tum deen pe mar jaana
-  Teero ke musalle…
+
+  11
   Socho to musalmano ye baat hi kya kam hai
   Ahmed ki nawasi ka darbar mein aa jaana
-  Teero ke musalle…
+
+  12
   Saydaniyo ka us waqt kya haal hua hoga
   Masoom ka ro ro kar zindan mein mar jaana
-  Teero ke musalle…
+
+  13
   Dunya to na bhoolega manzar ye kabhi nasir
   Saanche mein imamat ke quran ka dhal aana
-  Teero ke musalle…
 # source_id: nohayonline:4e3106b9c1c9756ec53b
 # source_url: https://www.nohayonline.com/details_content.php?id=713
 # raw_sha256: b7b8ed522745ff08c61adf71a20433b478e56c34c1186424578b8a23fff94803
 ---
-
 تیروں کے مُصلے پر وہ سجدئہ شکرانا
+شبیر نے بتلایا اسلام پہ مر جانا
 
 ۱
-شبیر نے بتلایا اسلام پہ مر جانا
 اک تیر علی اصغر کی گردن پہ لگا آ کر
 معصوم کا ہنس دینا اور موت کا گھبرانا
 
