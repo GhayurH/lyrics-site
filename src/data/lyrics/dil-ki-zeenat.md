@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Dil ki zeenat dard e hussaini
-  
-  1
   Sar ki zeenat paaye hussain
   Aankh ki zeenat khaalis aansu
   Lab ki zeenat haye hussain
+  
+  1
   Dars e hussaini allah allah
   Yun na samajh mein aa jaye
   Apne khuda ki jis azamat ko
@@ -56,11 +56,11 @@ romanLyrics: |-
 ---
 
 دل کی زینت درد حسینی
-
-۱
 سر کی زینت پآئے حسین
 آنکھ کی زینت خالص آنسو
 لب کی زینت ہآئے حسین
+
+۱
 درس حسینی اللہ اللہ
 یوں نہ سمجھ میں اجائے
 اپنے خدا کی جس عظمت کو
