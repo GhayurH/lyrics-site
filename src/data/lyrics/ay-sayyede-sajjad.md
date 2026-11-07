@@ -12,41 +12,39 @@ published: false
 romanLyrics: |-
   Hoti hai ayan dasht may ab shaam e ghariban
   Ay sayyed e sajjad ay sayyed e sajjad
-  
-  1
   Ujde huwe is ghar ke ho ab tum hi nigehban
-  
-  2
+
+  1
   Maqtal may shah e deen ka bhara ghar hua barbaad
   Kis se kare faryaad
   Afsos ke sab mil gaye wo khaak may armaan
-  
-  3
+
+  2
   Thay jis may ali asghar o qasim se sahare
   Wo aankhon ke taare
   Maqtal may hai bikhra hua zehara ka wo quran
-  
-  4
+
+  3
   Ab zainab o kulsom ke sar par nahi chadar
   Ay haye muqaddar
   Bazaar may jayenge ye le kar sar e uryan
-  
-  5
+
+  4
   Maqtal se guzar aaye magar zulm na tehra
   Hai zakhmon ka pehra
   Hai khaak saron par huwe hai chaak gareban
-  
-  6
+
+  5
   Ab zabt ka yaara bhi kahin toot na jaye
   Hai dard ke saaye
   Darbar may ab jaana hai zainab hai pareshan
-  
-  7
+
+  6
   Mazloom shah e deen ki nishani ko sambhalo
   Dukhiya ko bachalo
   Masoom sakina hui zakhmon se lab e jaan
-  
-  8
+
+  7
   Koi bhi zafar nasir o ghamkhwar nahi hai
   Hubdaar nahi hai
   Khaa jayegi masooma ko tareeki e zindan
@@ -57,41 +55,39 @@ romanLyrics: |-
 
 ہوتی ہے عیاں دشت میں اب شام غریباں
 اے سید سجاد اے سید سجاد
-
-۱
 اجڑے ہوے اس گھر کے ہو اب تم ہی نگہبان
 
-۲
+۱
 مقتل میں شہ دیں کا بھرا گھر ہوا برباد
 کس سے کریں فریاد
 افسوس کے سب مل گےء وہ خاک میں ارمان
 
-۳
+۲
 تھے جس میں علی اصغر و قاسم سے سہارے
 وہ آنکھوں کے تارے
 مقتل میں ہے بکھرا ہوا زہرا کا وہ قرآن
 
-۴
+۳
 اب زینب و کلثوم کے سر پر نہیں چادر
 اے ہاے مقدر
 بازار میں جاےنگے یہ لے کر سر عریاں
 
-۵
+۴
 مقتل سے گزر آے مگر ظلم نہ ٹہرا
 ہے زخموں کا پہرہ
 ہے خاک سروں پر ہوے ہے چاک گریباں
 
-۶
+۵
 اب ضبط کا یارا بھی کہیں ٹوٹ نہ جاے
 ہے درد کے ساے
 دربار میں اب جانا ہے زینب ہے پریشان
 
-۷
+۶
 مظلوم شہ دین کی نشانی کو سنبھالو
 دکھیا کو بچالو
 معصوم سکینہ ہوی زخموں سے لب جاں
 
-۸
+۷
 کوئی بھی ظفر ناصر و غم خوار نہیں ہے
 حبدار نہیں ہے
 کھا جاے گی معصومہ کو تاریکیء زندان
