@@ -10,11 +10,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Door hai ab dastagaah e jabr o istebdaad se
-  
-  1
   Uth nahi sakta hai shor e naala o faryad se
-  
-  2
+
+  1
   Nau shabein jaaga hua tha paasban e ahlebait
   So gaya pehra badal ke zainab e nashaad se
 # source_id: nohayonline:8799b771487d19edb9b5
@@ -23,10 +21,8 @@ romanLyrics: |-
 ---
 
 دور ہے اب دستگاہ جبر و استبداد سے
-
-۱
 اٹھ نہیں سکتا ہے شور نالہ و فریاد سے
 
-۲
+۱
 نو شبیں جاگا ہوا تھا پاسبان اہلبیت
 سو گیا پہرہ بدل کے زینب ناشاد سے
