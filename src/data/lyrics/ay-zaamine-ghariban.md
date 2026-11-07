@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay zaamin e ghariban
-  
-  1
   Lajpal raza maula sarkar raza maula
   Rote hai tere gham mein
   Ghamkhwar raza maula
+
+  1
   Kyun zehr de diya hai kazim ke gulbadan ko
   Ghurbat mein maar daala mazloom bewatan ko
   Phir lut gaya tumhara ghar baar raza maula
-  
+
   2
   Yasrab mein teri behna karti hai yaad tujhko
   Bhai se ab mila de parwardigar mujhko
   Ho na saka behen ko deedar raza maula
-  
+
   3
   Ay mere laal keh kar wo pyaar se bulana
   Maathe ko choomna aur seene se bhi lagana
   Yaad aayega taqi ko tera pyar raza maula
-  
+
   4
   Haye sitamgari ne kya haal kar diya hai
   Haan zehr ke asar se tukde jigar hua hai
   Khoon ugle jaa rahe hai sardar raza maula
-  
+
   5
   Taboot se lipat kar kehte hai rone waale
   Hum tere matami hai rauze pe ab bula le
   Ek baar hum bhi dekhe darbar raza maula
-  
+
   6
   Ay fatema ke bete ye hai hamara waada
   Karte rahenge tere qatil pe hum tabbara
   Rokegi ab na koi dewaar raza maula
-  
+
   7
   Zeeshan o shadmaan ye nauha suna rahe hai
   Yaad aagayi shahadat angoor bhi saje hai
@@ -55,11 +55,11 @@ romanLyrics: |-
 ---
 
 اے ضامن غریباں
-
-۱
 لجپال رضا مولا سرکار رضا مولا
 روتے ہیں تیرے غم میں
 غم خوار رضا مولا
+
+۱
 کیوں زہر دے دیا ہے کاظم کے گلبدن کو
 غربت میں مار ڈالا مظلوم بے وطن کو
 پھر لٹ گیا تمہارا گھر بار رضا مولا
