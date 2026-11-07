@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Behan sakina muaaf karna
-  
-  1
   Rehaai bhi mai dila na paaya
   Lehad pe sajjad ka tha nauha
   Ye bhai tujhko bacha na paaya
+  
+  1
   Wo durr jo baba ne thay pinhaye
   Wo shimr ne is tarha se cheene
   Tujhe tamachon se shimr ke mai
@@ -68,11 +68,11 @@ romanLyrics: |-
 ---
 
 بہن سکینہ معاف کرنا
-
-۱
 رہائی بھی میں دلا نہ پایا
 لحد پہ سجاد کا تھا نوحہ
 یہ بھائی تجھ کو بچا نہ پایا
+
+۱
 وہ دُر جو بابا نے تھے پہنائے
 وہ شمر نے اس طرح سے چھینے
 تجھے طمانچوں سے شمر کے
