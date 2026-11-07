@@ -14,14 +14,14 @@ romanLyrics: |-
   Zainab o kulsoom hai majma e mehkhaar may
   Jis tarha aale nabi be-rida ho kar gayi
   Is tarha koi na ho be-rida darbar may
-
-  1
   Har jaanib hai khaas o aam
   Zainab aur bazaar e shaam
   Be maqna be chadaar haye
   Fatema zahra ke gulbaar
   Nauha tha abid ke lab par
   Haye haye zainab haye haye shaam
+
+  1
   Aale rasool par ye kaisa maqaam aaya
   Chadar nahi hai sar par baazar e shaam aaya
   Aale rasool par ye kaisa maqaam aaya
@@ -63,14 +63,14 @@ romanLyrics: |-
 زینب و کلثوم ہے مجمعء مہکار میں
 جس طرح آل نبی بے ردا ہو کر گیء
 اس طرح کوئی نہ ہو بے ردا دربار میں
-
-۱
 ہر جانب ہے خاص و عام
 زینب اور بازار شام
 بے مقنہ بے چادر ہاے
 فاطمہ زہرا کے گل بار
 نوحہ تھا عابد کے لب پر
 ہاے ہاے زینب ہاے ہاے شام
+
+۱
 آل رسول پر یہ کیسا مقام آیا
 چادر نہیں ہے سر پر بازارِ شام آیا
 آل رسول پر یہ۔۔۔

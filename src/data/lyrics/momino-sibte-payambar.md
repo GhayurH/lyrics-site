@@ -11,10 +11,10 @@ published: false
 romanLyrics: |-
   Shaheed e karbala hussain
   Qateel e nainawa hussain
-
-  1
   Momino sibte payambar ka janaza le chalo
   Qalbe zehra jaane hyder ka janaza le chalo
+
+  1
   Bekafan tashna dahan bekas ghareeb aashufta haal
   Kushta e shamsheer o khanjar ka janaza le chalo
   Sayyed o masoom o mehman o shahe dunya o deen
@@ -41,10 +41,10 @@ romanLyrics: |-
 ---
 شہید کربلا حسین
 قتیل نینوا حسین
-
-۱
 مومنوں سبط پیمبر کا جنازہ لے چلو
 قلب زہرا جان حیدر کا جنازہ لے چلو
+
+۱
 بیکفن تشنہ دہن بیکس غریب آشوفتہ حال
 کشتۂ شمشیر و خنجر کا جنازہ لے چلو
 سید و معصوم و مہمان و شہ دنیا و دیں

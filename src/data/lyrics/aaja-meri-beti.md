@@ -11,55 +11,55 @@ aliases: []
 published: false
 romanLyrics: |-
   Zahra meri bachi aaja meri beti
-  
-  1
   Aaja meri zahra
   Marqad mein mohamed ne padha hoga ye nauha
   Aaja meri beti aaja meri zehra
+
+  1
   Ehsaas yateemi ka sataata raha tujhko
   Har koi mere baad rulaata raha tujhko
   Hyder ke siwa kaun tarafdaar tha tera
-  
+
   2
   Jitne bhi huwe tujhpe sitam dekhey hai maine
   Ghar mein tere ummat ke qadam dekhe hai maine
   Maloom hai mujhko tujhe jis jis ne sataaya
-  
+
   3
   Darbar e sitam mein tera haq maangne jaana
   Dekha na gaya mujhse tera laut ke aana
   Ek mai hi nahi tadpi hai ta-dayr khadija
-  
+
   4
   Mohsin ki shahadat ka mere dil pe hai sadma
   Har pal wo raha yaad mujhe mai nahi bhoola
   Aa baith mere paas tujhe dena hai pursa
-  
+
   5
   Jab jab bhi tu roti thi meri qabr pe aa kar
   Mujhse kabhi dekha nahi jaata tha wo manzar
   Phat'ta tha tere naalon se reh reh ke kaleja
-  
+
   6
   Ummat ne tere pehlu pe darwaza giraya
   Afsos taras tujhpe kisi ne nahi khaaya
   Jaaiz hai kare mujhse jo har zulm ka shikwa
-  
+
   7
   Hyder ke galay mein thi rasan dekha hai maine
   Kis tarha kiya tu ne sahan itna bata de
   Qadmon pe kai baar giri hai tere fizza
-  
+
   8
   Marqad mein bhi aaraam kahan paana hai tujhko
   Ay laal abhi karbobala jaana hai tujhko
   Shabbir ko waada hai abhi apna nibhana
-  
+
   9
   Kya haal bayan tumse karun gham ke safar ka
   Sar naize pe dekhogi abhi apne pisar ka
   Doobega mere khoon mein tapta hua sehra
-  
+
   10
   Din kaisa dikhaya hai ye taqdeer ne asif
   Sar peet liya zainab e dilgeer ne asif
@@ -68,13 +68,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2126
 # raw_sha256: f74620a1dff784ac8fa24a2ec3a46f4a562dc99c067d3ec61e4b639bdcef8fb0
 ---
-
 زہرا میری بچی آج میری بیٹی
-
-۱
 آجا میری زہرا
 مرقد میں محمد نے پڑھا ہو گا یہ نوحہ
 آجا میری بیٹی آجا میری زہرا
+
+۱
 احساس یتیمی کا ستاتا رہا تجھکو
 ہر کوئی میرے بعد رلاتا رہا تجھکو
 حیدر کے سوا کون طرفدار تھا تیرا

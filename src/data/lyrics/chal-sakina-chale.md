@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Jago ay bali sakina dete hai awaaz baba
   Ek shab sakina sham ke zindan mein sogayi
-
-  1
   Baba ko dekha khwab mein kehte thay wo yehi
   Bahot ro chuki meri jaan jaag ja
   Chal sakina chale karbala
   Saath baba ke rehna sada
+
+  1
   Mujhse bichdi to soyi nahi meri jaan
   Ek ek saans tum par thi kohe garan
   Aur us par sitam qaid ki sakhtiyan
@@ -78,12 +78,12 @@ romanLyrics: |-
 ---
 جاگو اے بالی سکینہ دیتے ہیں آواز بابا
 ایک شب سکینہ شام کے زنداں میں سوگیء
-
-۱
 بابا کو دیکھا خواب میں کہتے تھے وہ یہی
 بہت رو چکی میری جاں جاگ جا
 چل سکینہ چلیں کربلا
 ساتھ بابا کے رہنا سدا
+
+۱
 مجھ سے بچھڑی تو سویء نہیں میری جاں
 ایک اک سانس تم پر ہے کوہ گراں
 اور اس پر ستم قید کی سختیاں

@@ -13,9 +13,9 @@ romanLyrics: |-
   Jab ali akbar sa beta shaah ko rab ne diya
   Is aata e-kibriya par karbala ne di sada
   Maa aur ali akbar ki maa
-  Uska maatha choomti thi umme laila baar baar
 
   1
+  Uska maatha choomti thi umme laila baar baar
   Uska chehra dekh kar kehti thi ay parwardigar
   Ye bahaar e zindagi hai ye mere ghar ki baahar
   Ye meri pehli tamanna ye mere dil ka qaraar
@@ -74,9 +74,9 @@ romanLyrics: |-
 جب علی اکبر سا بیٹا شاہ کو رب نے دیا
 اس عطائِ کبریا پر کربلا نے دی صدا
 ماں اور علی اکبر کی ماں
-اُس کا ماتھا چومتی تھی اُمِ لیلیٰ بار بار
 
 ۱
+اُس کا ماتھا چومتی تھی اُمِ لیلیٰ بار بار
 اُس کا چہرہ دیکھ کر کہتی تھی اے پروردگار
 یہ بہارِ زندگی ہے یہ میرے گھر کی بہار
 یہ میری پہلی تمنا یہ میرے دل کا قرار

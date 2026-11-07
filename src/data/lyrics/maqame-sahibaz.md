@@ -11,8 +11,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Suno ay ahle aza dard naak ye manzar
-
-  1
   Kisi ne poocha jo qayam imam se rokar
   Imam rote hai kyun is maqam par aakar
   To sar ko peet ke bole ye shaahe jinn o bashar
@@ -21,6 +19,8 @@ romanLyrics: |-
   Na is maqam pe kyun askari ka chain giray
   Ye wo zameen hai jahan zeen se hussain giray
   Maqame sahib az zaman hai ye
+
+  1
   Isi maqam pe ab tak faraat roti hai
   Galay lipat ke qaza se hayaat roti hai
   Tamam karbobala saath saath roti hai
@@ -66,8 +66,6 @@ romanLyrics: |-
 # raw_sha256: 284f07bc4b95ea1472aa140a07bace9ac7af5a6190b07c7491561c52053c2013
 ---
 سنو اے اہلِ عزا درد ناک یہ منظر
-
-۱
 کسی نے پوچھا جو قایم امام سے رو کر
 امام روتے ہیں کیوں اس مقام پر آکر
 تو سر کو پیٹ کے بولے یہ شاہ جن و بشر
@@ -76,6 +74,8 @@ romanLyrics: |-
 نہ اس مقام پہ کیوں عسکری کا چین گرے
 یہ وہ زمیں ہے جہاں زین سے حسین گرے
 مقام صاحب الزمان ہے یہ
+
+۱
 اسی مقام پہ اب تک فرات روتی ہے
 گلے لپٹ کے قضاء سے حیات روتی ہے
 تمام کربوبلا ساتھ ساتھ روتی ہے

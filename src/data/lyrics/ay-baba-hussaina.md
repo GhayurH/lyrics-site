@@ -12,13 +12,13 @@ published: false
 romanLyrics: |-
   Jab shaam e ghariban mein yaad e padar aayi
   Ghabrake sakina sar e maqtal chali aayi
-
-  1
   Daaman tha jala aur labon par tha ye nauha
   Ay baba hussaina ay baba hussaina
   Aina aina ay baba hussaina
   Roti hai sakina pyasi hai sakina
   Aina aina ay baba hussaina
+
+  1
   Hai aap jahan baba mujhko bhi bula-lije
   Ek baar mujhe apne seene pe sula-lije
   Bin aap ke dunya mein bekaar hai ye jeena
@@ -58,13 +58,13 @@ romanLyrics: |-
 ---
 جب شام غریباں میں یاد پدر آی
 گھبرا کے سکینہ سر مقتل چلی آی
-
-۱
 دامن تھا جلا اور لبوں پر تھا یہ نوحہ
 اے بابا حسینا اے بابا حسینا
 اینا اینا اے بابا حسینا
 روتی ہے سکینہ پیاسی ہے سکینہ
 اینا اینا اے بابا حسینا
+
+۱
 ہیں آپ جہاں بابا مجھکو بھی بلا لیجیے
 اک بار مجھے اپنے سینے پہ سلا لیجیے
 بن آپ کے دنیا میں بیکار ہے جینا

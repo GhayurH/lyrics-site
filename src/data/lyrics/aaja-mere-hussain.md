@@ -11,25 +11,23 @@ published: false
 romanLyrics: |-
   Aaja mere hussain
   Ghurbat se maa ke thay bain
-  
-  1
   Aaja mere dil ke chain
-  
-  2
+
+  1
   Tera janaza maqtal mein tanha
   Mai ro rahi hoo ghurbat mein tanha
   Tu ne uthaye laashon hai pe laashe
   Kaise rahe maa hai mushkil mein beta
   Maa hoo mai beta hussain
-  
-  3
+
+  2
   Chalta tha meri ungli ko thaame
   Karti thi tujh par aanchal ke saaye
   Tu dhoop mein reh gaya suye maqtal
   Aaja tujhe maa kafan mein chupaye
   Mehsoos kar maa ke bain
-  
-  4
+
+  3
   Tere gale par chala hai jo khanjar
   Aa kar laga hai teri maa ke dil par
   Ye soch kar mera dil jal raha hai
@@ -39,28 +37,25 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2383
 # raw_sha256: 258261f1d68379132a8dea8761e66fc5e0f46b125d1d5b26461e35fe8c9161e0
 ---
-
 آجا میرے حسین
 غربت سے ماں کے تھے بین
-
-۱
 آجا میرے دل کے چین
 
-۲
+۱
 تیرا جنازہ مقتل میں تنہا
 میں رو رہی ہوں غربت میں تنہا
 تو نے اٹھاے لاشوں ہے پہ لاشے
 کیسے رہے ماں ہے مشکل میں بیٹا
 ماں ہوں بیٹا حسین
 
-۳
+۲
 چلتا تھا میری انگلی کو تھامے
 کرتی تھی تجھ پر آنچل کے ساے
 تو دھوپ میں رہ گیا سوے مقتل
 آجا تجھے ماں کفن میں چھپائے
 محسوس کر ماں کے بین
 
-۴
+۳
 تیرے گلے پر چلا ہے جو خنجر
 آ کر لگا ہے تیری ماں کے دل پر
 یہ سوچ کر میرا دل جل رہا ہے

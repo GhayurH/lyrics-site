@@ -14,10 +14,10 @@ romanLyrics: |-
   Jo dard hai seene mein nahi likh sakta
   Aap aaye to qadmon pa giroo arz karoo
   Har baat areeze mein nahi likh sakta
-
-  1
   Ya imam ya imam ya imam ya imam
   Ye baat areeze mein nahi likh sakta
+
+  1
   Dukh ye hai ke ghairon ke ilawa humne
   Apno se bhi hum saaye mein paaya humne
   Ye mimbar-o-mehrab ke saudagar log
@@ -84,10 +84,10 @@ romanLyrics: |-
 جو ہے درد سینے میں نہیں لکھ سکتا
 آک آئیں تو قدموں میں گروں عرض کروں
 ہر بات عریضے میں نہیں لکھ سکتا
-
-۱
 یا امام یا امام یا امام یا امام
 یہ بات عریضے میں نہیں لکھ سکتا
+
+۱
 دکھ یہ ہے کہ غیروں کے علاوہ ہم نے
 اپنوں سے بھی ہم سایہ میں پایا ہم نے
 یہ منبر و محراب کے سوداگر لوگ

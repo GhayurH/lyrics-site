@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Sar jo cheh maah ke baysheer ka naize pe chada
   Nok e naiza se ye asghar ki sada aane lagi
-
-  1
   Badan se nok e naiza tak mera sar aa gaya amma
   Tera asghar bhi ek akbar ke barabar aa gaya amma
+
+  1
   Galay par teer khaaye chain se soya hua tha mai
   Achanak qabr may naiza utar kar aa gaya amma
   Hai kuch teer o sina par aur kuch baba ke chehre par
@@ -42,10 +42,10 @@ romanLyrics: |-
 ---
 سر جو چھے ماہ کے بے شیر کا نیزے پے چڑھا
 نوکِ نیزہ سے یہ اصغر کی صدا آنے لگی
-
-۱
 بدن سے نوکِ نیزہ تک میرا سر آگیا اماں
 تیرا اصغر بھی اکبر کے برابر آگیا اماں
+
+۱
 گلے پر تیر کھائے چین سے سویا ہوا تھا میں
 اچانک قبر میں نیزہ اُتر کر آگیا اماں
 ہے کچھ تیر و سناں پر اور کچھ بابا کے چہرے پر

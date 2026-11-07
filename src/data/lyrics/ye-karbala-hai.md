@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Karbala awaaz meri dil mera hai karbala
   Karbala karbala karbala
-
-  1
   Yahan sambhalkar qadam uthana
   Ye karbala hai ye karbala hai
   Ye baat hargiz na bhool jaana
   Ye karbala hai ye karbala hai
+
+  1
   Jahan mein sabr o riza yehi hai
   Khudaye sabr o riza yehi hai
   Yahan pe aate hai chalke mehdi
@@ -78,12 +78,12 @@ romanLyrics: |-
 ---
 کربلا آواز میری دل میرا ہے کربلا
 کربلا کربلا کربلا
-
-۱
 یہاں سنبھل کر قدم اٹھانا
 یہ کربلا ہے یہ کربلا ہے
 یہ بات ہر گز نہ بھول جانا
 یہ کربلا ہے یہ کربلا ہے
+
+۱
 جہاں میں صبر و رضا یہی ہے
 خداے صبر و رضا یہی ہے
 یہاں پہ آتے ہیں چلکے مہدی

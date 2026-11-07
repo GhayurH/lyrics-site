@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Sayyeda tahera
   Wa hijaba wa ghurbata
-
-  1
   Bazaar may be parda nabi zaadi khadi hai
   Har mod pe marne ki dua maang rahi hai
+
+  1
   Hai haathon may patthar abhi aayi nahi zainab
   Bazaar may pehle se hi ek bheedh lagi hai
   Is gham ki aziyat koi sajjad se pooche
@@ -42,10 +42,10 @@ romanLyrics: |-
 ---
 سیدہ طاہرہ
 وا ہجابہ وا غربتا
-
-۱
 بازار میں بے پردہ نبی زادی کھڑی ہے
 ہر موڑ پہ مرنے کی دعا مانگ رہی ہے
+
+۱
 ہے ہاتھوں میں پتھر ابھی آی نہیں زینب
 بازار میں پہلے سے ہی اک بھیڑ لگی ہے
 اس غم کی اذیت کوئی سجاد سے پوچھے

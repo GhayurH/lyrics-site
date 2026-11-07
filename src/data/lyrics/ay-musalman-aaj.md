@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Tera hussain mera hussain
   Rab ka hussain sab ka hussain
-
-  1
   Ay musalman aaj bhi ye poochti hai karbala
   Kis jurm mein mustafa ke ghar ko hai loota gaya
+
+  1
   Mohsin e insaniyat ke qatl ke fauran hi baad
   Chin gayi makhdooma e kaunain ke sar se rida
   Karbala se shaam tak zainab ko chadar na mili
@@ -42,10 +42,10 @@ romanLyrics: |-
 ---
 تیرا حسین میرا حسین
 رب کا حسین سب کا حسین
-
-۱
 اے مسلماں آج بھی یہ پوچھتی ہے کربلا
 کس جرم میں مصطفیٰ کے گھر کو ہے لوٹا گیا
+
+۱
 محسن انسانیت کے قتل کے فوراً ہی بعد
 چھن گیء مخدومہء کونین کے سر سے ردا
 کربلا سے شام تک زینب کو چادر نہ ملی
