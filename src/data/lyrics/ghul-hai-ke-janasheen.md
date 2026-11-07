@@ -43,7 +43,7 @@ romanLyrics: |-
 
   8
   Quran jis se kar liya karta tha dil ki baat
-  Aisa musafir aisa sukhanwar hua
+  Aisa musafir aisa sukhanwar hua shaheed
 
   9
   Danishwaraan e dehr mein kohraam mach gaya
