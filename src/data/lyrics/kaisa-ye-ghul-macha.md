@@ -11,31 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaisa ye ghul macha hai elaahi furaat par
-  
-  1
   Maara gaya hussain ka bhai furaat par
   
-  2
+  1
   Aaya nazar na jabke alam ghash hue hussain
   Jab dekhne ko chashm uthaai furaat par
   
-  3
+  2
   Kyon shor uth raha hai taraai se baar baar
   Akbar chalo kare to rasaii furaat par
   
-  4
+  3
   Beta padar ko le chalo apne chacha ke paas
   Bhai ne kaafi dayr lagayi furaat par
   
-  5
+  4
   Ghurbat may haye kya kare daulat baneen ki
   Battees saal baad gawahi furaat par
   
-  6
+  5
   Darya ki samt dekh ke zainab ne ye kaha
   Bhai sakina to nahi aayi furaat par
   
-  7
+  6
   Roze alam se uth'ta rahega dhuan anees
   Pani ne aisi aag lagayi furaat par
 # source_id: nohayonline:22fb1198e882974ba116
@@ -44,30 +42,28 @@ romanLyrics: |-
 ---
 
 کیسا یہ غل مچا ہے الہی فرات پر
-
-۱
 مارا گیا حسین کا بھائی فرات پر
 
-۲
+۱
 آیا نظر نہ جبکہ علم غش ہوئے حسین
 جب دیکھنے کو چشم اٹھائی فرات پر
 
-۳
+۲
 کیوں شور اٹھ رہا ہے ترائی سے بار بار
 اکبر چلو کریں تو رسائی فرات پر
 
-۴
+۳
 بیٹا پدر کو لے چلو اپنے چچا کے پاس
 بھائی نے کافی دیر لگائی فرات پر
 
-۵
+۴
 غربت میں ہائے کیا کرے دولت بنین کی
 بتیس سال بعد گواہی فرات پر
 
-۶
+۵
 دریا کی سمت دیکھو کہ زینب نے یہ کہا
 بھائی سکینہ تو نہیں آئی فرات پر
 
-۷
+۶
 روز الم سے اٹھتا رہے گا دھواں انیس
 پانی نے ایسی آگ لگائی فرات پر
