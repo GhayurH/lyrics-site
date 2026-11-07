@@ -10,23 +10,21 @@ aliases: []
 published: false
 romanLyrics: |-
   Asghare baysheer ke saath hogayi khatm jafa
-  
-  1
   Khud sitam roya hai mil mil ke galay teer ke saath
-  
-  2
+
+  1
   Daudte jaate hai sheh akbare dilgeer ke saath
   Zor chalta nahi tadbeer ka taqdeer ke saath
   
-  3
+  2
   Nange pa legaye bemaar ko ta shaam layeen
   Bediya royi lahoo paon ki zanjeer ke saath
   
-  4
+  3
   Kis mein dum tha jo rida leta sare zainab se
   Haye abbas e dilawar na thay hamsheer ke saath
   
-  5
+  4
   Saath choda nahi zainab ne kabhi bhai ka
   Sar barehna phiri dar dar sare shabbir ke saath
 # source_id: nohayonline:55e1d9d5ea7deaf04633
@@ -35,22 +33,20 @@ romanLyrics: |-
 ---
 
 اصغرِ بے شِیر کے ساتھ ہو گئے ختم جفا
-
-۱
 خود ستم رویا ہے مِل مِل کے گلے تیر کے ساتھ
 
-۲
+۱
 دوڑتی جاتی ہے شہِ اکبرِ دلگیر کے ساتھ
 زور چلتا ہے تدبیر کا تقدیر کے ساتھ
 
-۳
+۲
 ننگے پا لگائیں بیمار کو تا شام لعین
 بیڑیاں روئیں لہو پائوں کی زنجیر کے ساتھ
 
-۴
+۳
 کِس میں دم تھا جو ردا لیتا سرِ زینب سے
 ہائے عباس دلاور نہ تھے ہمشیر کے ساتھ
 
-۵
+۴
 ساتھ چھوڑا نہیں زینب نے کبھی بھائی کا
 سر برہنہ پھری در در سرِ شبیر کے ساتھ
