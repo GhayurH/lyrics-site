@@ -11,31 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaha abbas ne ek aan may naksha palat jaye
-  
-  1
   Ho izne sheh to nehre alqama laashon se pat jaye
   
-  2
+  1
   Alamdare hussaini hoo ijazat sheh ki gar paaun
   Karoo wo jang jange khyberi zehno se hat jaye
   
-  3
+  2
   Layeen ye kehke bhaage nehr se wo sher aata hai
   Nigahe kaher se jo dekhlein darya simat jaye
   
-  4
+  3
   Hussaini hoo mere qadmo ko jumbish ho nahi sakti
   Ala ta hai to dunya ki hawa ka rukh palat jaye
   
-  5
+  4
   Ye hasrat hai sana e murtaza may ghair ke haaton
   Zaban meri bhi misle meesame tammaar kat jaye
   
-  6
+  5
   Nabi se kaun baatein karta tha hojaye ye zaahir
   Ye parda darmiyan se gar shabe meraj hat jaye
   
-  7
+  6
   Dua khaaliq se uth'te baith'te karta hoo ye asghar
   Nabi ki aal hi ka zikr ho aur umr kat jaye
 # source_id: nohayonline:1b44155d600539e0c205
@@ -44,30 +42,28 @@ romanLyrics: |-
 ---
 
 کہا عباس نے اِک آن میں نقشہ پلٹ جائے
-
-۱
 ہو عزنِ شِہ تو نہرِ علقمہ لاشوں سی پٹ جائے
 
-۲
+۱
 علمدارِ حُسینی ہوں اِجازت شِہ کی گر پائوں
 کروں وہ جنگ جنگِ خیبری ذہنوں سے ہٹ جائے
 
-۳
+۲
 لعیں یہ کہہ کہ بھاگے نہر سے وہ شیر آتا ہے
 نِگاہِ قہر سے جو دیکھ لیں دریا سمٹ جائے
 
-۴
+۳
 حُسینی ہوں میرے قدموں کو جُنبش ہو نہیں سکتی
 الاتا ہے جو دُنیا کی ہوا کا رُخ پلٹ جائے
 
-۵
+۴
 یہ حسرت ہے ثنائِ مُرتضٰی میں غیر کے ہاتھوں
 زباں میری بھی مثلِ میثمِ تمار کٹ جائے
 
-۶
+۵
 نبی سے کون باتیں کرتا تھا ہو جائے یہ ظاہر
 یہ پردہ درمیاں سے گر شبِ معراج ہٹ جائے
 
-۷
+۶
 دُعا خالق سے اُٹھتے بیٹھتے کرتا ہوں یہ اصغر
 نبی کی آل ہی کا ذکر ہو اور عمر کٹ جائے
