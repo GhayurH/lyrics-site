@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Hai iraada hai ye waada bibi zehra se
   Mohamed ke gharane se
-
-  1
   Wafadari na chodenge
   Azadari na chodenge
+
+  1
   Siyah kapde siyah chadar
   Hussaini ki nishani hai
   Zaban par nauha khwano ke
@@ -89,12 +89,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3541
 # raw_sha256: ae7e6f527702bc61e399c47b87b9fdca200bc43bc127499850cea1a38c823783
 ---
+
 ہے ارادہ ہے یہ وعدہ بی بی زہرا سے
 محمد کے گھرانے سے
-
-۱
 وفاداری نہ چھوڑیں گے
 عزاداری نہ چھوڑیں گے
+
+۱
 سیاہ کپڑے سیاہ چادر
 حسینی کی نشانی ہے
 زبان پر نوحہ خوانوں کے
