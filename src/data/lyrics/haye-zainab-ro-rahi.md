@@ -9,70 +9,45 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haye zainab ro rahi hai karbala khamosh hai
-
-
-  1
-
+romanLyrics: |-
+  Haye zainab ro rahi hai karbala khamosh hai
   Jal gaye hai saare qaime alqama khamosh hai
 
-
-  2
-
+  1
   Chin gayi sar se hai chadar kya kare binte ali
-
   Us taraf darya kanare bawafa khamosh hai
 
-
-  3
-
+  2
   Aa gayi shaam e ghariban ho gaye qaidi haram
-
   Aabile paon ke roye raasta khamosh hai
 
-
-  4
-
+  3
   Andhera phail gaya bujh gaye charaagh tamaam
-
   Shaheed hogaye sibte nabi ke laal o baam
-
-  Ridayein cheen''ne jis waqt fauje shaam badi
-
+  Ridayein cheen'ne jis waqt fauje shaam badi
   Labon pe zainab e muztar ke tha hussain ka naam
 
+  4
   Ab kahan zainab ko chain aayega akbar ke baghair
-
   Khaake barchi akbar e gul guqabaqa khamosh hai
 
-
   5
-
   Kaise guzregi rasan basta sar e maqtal behan
-
   Bekafan bhai hai ran mein berida khamosh hai
 
-
   6
-
   Ab koi rota hi nahi ashkon ka darya beh gaya
-
   Sirf rone ke liye zainab hai raah e shaam mein
-
   Taaziyane maarte hai ashkiyan sajjad ko
-
   Koi bhi insan nahi baakhi sipaahe shaam mein
 
+  7
   Ro chuki zainab bhare ghar ko sar e karbobala
-
   Karbala se shaam tak saari faza khamosh hai
 
-
-  7
-
+  8
   Hai qalam ki nok mein aansu ghame shabbir ke
-
-  Arsh pe rehaan shaah e ambiya khamosh hai'
+  Arsh pe rehaan shaah e ambiya khamosh hai
 # source_id: nohayonline:b40d46ac71ada33f2bca
 # source_url: https://www.nohayonline.com/details_content.php?id=593
 # raw_sha256: 98bcce6d23a238f2c3890c4dc9a84d86faf80f2d73974e3dc1633e3dbec4cbf4
@@ -82,23 +57,23 @@ romanLyrics: 'Haye zainab ro rahi hai karbala khamosh hai
 ---
 
 ہائے زینب رو رہی ہے کربلا خاموش ہے
-
-۱
 جل گئے ہیں سارے خیمے علقمہ خاموش ہے
 
-۲
+۱
 چھِن گئی ہے سر سے چادر کیا کرے بنتِ علی
 اُس طرف دریا کنارے با وفا خاموش ہے
 
-۳
+۲
 آ گئی شام غریباں ہو گئے قیدی حرم
 آبلے پائوں کے روئے راستہ خاموش ہے
 
-۴
+۳
 اندھیرا پھیل گیا بُجھ گئے چراغ تمام
 شہید ہو گئے سبطِ نبی کے لال و بام
 ردائیں چھیننے جس وقت فوجِ شام بڑھی
 لبوں پہ زینبِ مضطر کے تھا حُسین کا نام
+
+۴
 اب کہاں زینب کو چین آئے گا اکبر کے بغیر
 کھا کے برچھی اکبرِگُل گقبقا خاموش ہے
 
@@ -111,9 +86,11 @@ romanLyrics: 'Haye zainab ro rahi hai karbala khamosh hai
 صرف رونے کے لیئے زینب ہے راہِ شام میں
 تعزیانے مارتے ہیں اشقیائ سجاد کو
 کوئی بھی انسان نہیں باقی سپاہِ شام میں
+
+۷
 رو چُکی زینب بھرے گھر کو سرِ کرب و بلا
 کربلا سے شام تک ساری فضا خاموش ہے
 
-۷
+۸
 ہے قلم کی نوک میں آ نسو غمِ شبیر کے
 عرش پہ ریحان شاہِ انبیائ خاموش ہے
