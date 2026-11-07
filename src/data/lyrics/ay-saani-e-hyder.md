@@ -11,32 +11,32 @@ published: false
 romanLyrics: |-
   Ay saani e hyder e karrar
   Alamdar alamdar alamdar
-  
+
   1
   Naize pe nahi rukta hai kyun sar
   Ay mere ghazanfar ay quwwate sarwar
   Khwahar ko bata ay mere ghamkhwaar
-  
+
   2
   Zainab teri ghairat ke hai qurban
   Ay baba ke armaan kunbe ke nigehban
   Behna teri ab jaayegi bazaar
-  
+
   3
   Ghazi zara dekho to sina par
   Barpa hua mehshar shabbir ka hai sar
   Rote hai sina par shahe abraar
-  
+
   4
   Zehra ka gulistan hua barbaad
   Kis se kare faryad abbas tere baad
   Ro ro ke ye kehte hai dilafgaar
-  
+
   5
   Amma ki mai sunti hoo sadayein
   Leti hai balayein tujhe deti hai duayein
   Tujh sa nahi dunya mein wafadaar
-  
+
   6
   Hai aaj musibat mein sakina
   Mushkil hua jeena mar jaaye kahin na
@@ -78,6 +78,3 @@ romanLyrics: |-
 ہے آج مصیبت میں سکینہ
 مشکل ہوا جینا مر جاۓ کہیں نہ
 ظلموں کی یتیمہ پہ ہے بوچھار
-
-۷
-اے ثانیء حیدر کرار ے۔۔۔
