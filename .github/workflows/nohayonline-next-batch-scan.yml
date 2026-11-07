@@ -1,4 +1,4 @@
-name: Inspect NoHayOnline poem boundaries
+name: Validate 70 NoHayOnline stanza reconciliations
 on:
   push:
     branches: [feat/import-overlap-reconciliation-2026-11-05]
@@ -6,65 +6,101 @@ on:
 permissions:
   contents: read
 jobs:
-  inspect:
+  validate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0
       - run: python -m pip install pyyaml
-      - name: Rank poems by refrain-based stanza segmentation
+      - name: Verify line preservation, source metadata, and stanza alignment
         run: |
           python - <<'PY'
-          import collections,pathlib,re,statistics,subprocess,yaml
-          old='86c42ac0efc0895558f4680a0a9da65dc67490d3'
-          edited={pathlib.Path(s).stem for s in subprocess.check_output(['git','diff','--name-only',old,'HEAD','--','src/data/lyrics'],text=True).splitlines()}
+          import collections,pathlib,re,subprocess,yaml
+          base='f28737828474e7c02052e3be1e65bee124a00f78'
+          changed=[p for p in subprocess.check_output(
+              ['git','diff','--name-only',base,'HEAD','--','src/data/lyrics'],text=True
+          ).splitlines() if p.endswith('.md')]
+          assert len(changed)==70,('Unexpected modified file count',len(changed),changed)
           fm=re.compile(r'\A---\n(.*?)\n---\n(.*)\Z',re.S)
-          marker=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
-          abbr=re.compile(r'(?:\.{2,}|…|۔۔۔)\s*$')
-          def groups(t):
-              g=[[]]
-              for s in t.splitlines():
-                  v=s.strip()
-                  if not v:continue
-                  if marker.fullmatch(v):g.append([])
-                  else:g[-1].append(v)
+          nr=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
+          shorthand=re.compile(r'(?:\.{2,}|…|۔۔۔)\s*$')
+          urdudigits=str.maketrans('0123456789','۰۱۲۳۴۵۶۷۸۹')
+          def load(raw):
+              match=fm.fullmatch(raw)
+              assert match,'Invalid YAML delimiters'
+              meta=yaml.safe_load(match[1])
+              assert isinstance(meta,dict)
+              provenance=[line for line in match[1].splitlines()
+                          if line.startswith(('# source_id:','# source_url:','# raw_sha256:'))]
+              return meta,match[2],provenance
+          def lines(t):
+              return [v for raw in t.splitlines()
+                      if (v:=raw.strip()) and not nr.fullmatch(v)]
+          def normalize(t):
+              return re.sub(r'[\s.۔…]+','',t.casefold())
+          def assert_preserved(before,after,file,label):
+              b,a=lines(before),lines(after)
+              bc,ac=collections.Counter(b),collections.Counter(a)
+              assert not (ac-bc),(file,label,'unexpected new text',ac-bc)
+              missing=bc-ac
+              for text,count in missing.items():
+                  assert shorthand.search(text),(file,label,'deleted substantive verse',text)
+                  assert sum(v for s,v in bc.items() if normalize(s)==normalize(text))>=2,(
+                      file,label,'deleted nonrepeated abbreviation',text)
+              it=iter(b)
+              for value in a:
+                  assert any(x==value for x in it),(file,label,'verse order modified',value)
+              return sum(missing.values())
+          def stanzas(t,urdu):
+              g=[[]];nums=[]
+              for raw in t.splitlines():
+                  x=raw.strip()
+                  if not x:continue
+                  if nr.fullmatch(x):
+                      nums.append(x);g.append([])
+                  else:g[-1].append(x)
+              want=[str(i).translate(urdudigits) if urdu else str(i)
+                    for i in range(1,len(nums)+1)]
+              assert nums==want,('Wrong numbering',nums,want)
+              assert nums and all(g),('Empty introduction or stanza',[len(x) for x in g])
               return g
-          def count(text):
-              g=groups(text)
-              f=collections.Counter(re.sub(r'[\s.…۔]+','',v.casefold()) for block in g for v in block if abbr.search(v))
-              a=[v for block in g for v in block if abbr.search(v)]
-              segments=[];cur=[]
-              for v in [v for block in g[1:] for v in block]:
-                  if abbr.search(v):
-                      if cur:
-                          segments.append(cur);cur=[]
-                  else:cur.append(v)
-              if cur:segments.append(cur)
-              return g,len(a),f,segments
-          good=[]
-          for p in pathlib.Path('src/data/lyrics').glob('*.md'):
-              if p.stem in edited or p.stem in ('beton-ki-maa','mujhe-paidal-chalna'):continue
-              text=p.read_text()
-              if '# source_id: nohayonline:' not in text:continue
-              m=fm.fullmatch(text)
-              if not m:continue
-              try:front=yaml.safe_load(m[1])
-              except:continue
-              if not isinstance(front,dict) or not isinstance(front.get('romanLyrics'),str):continue
-              R,rc,rf,rs=count(front['romanLyrics'])
-              U,uc,uf,us=count(m[2])
-              lengths=[len(b) for b in rs]
-              if len(R)!=len(U) or rc<3 or uc<3 or min(rf.values(),default=0)<2 or min(uf.values(),default=0)<2:continue
-              if [len(x) for x in rs]!=[len(x) for x in us] or len(rs)<5 or min(lengths)<2:continue
-              if len(R[0])!=len(U[0]) or min(len(R[0]),len(U[0]))<2:continue
-              compact=sum(3<=x<=6 for x in lengths)/len(lengths)
-              if compact<.75 or lengths[0]>12:continue
-              score=40*compact+len(rs)*.5-min(10,lengths[0])*1.4+min(12,rc*.4)
-              good.append((score,p.stem,len(R[0]),lengths,rc,uc,R[0][:2],rs[0][:2],rs[-1][-2:]))
-          good.sort(reverse=True)
-          print('COHERENT_REFRAIN_BOUNDARIES',len(good))
-          for i,(score,slug,opening,blocks,rc,uc,intro,first,last) in enumerate(good[:200],1):
-              print(f'ITEM {i:03d} {slug} score={score:.1f} intro={opening} groups={blocks} short={rc}/{uc} start={intro} first={first} end={last}')
+          removed=collections.Counter()
+          for file in changed:
+              original=subprocess.check_output(['git','show',f'{base}:{file}'],text=True)
+              current=pathlib.Path(file).read_text()
+              assert '# source_id: nohayonline:' in original,('Source mismatch',file)
+              old,old_urdu,op=load(original)
+              new,new_urdu,np=load(current)
+              assert old.get('published') is False and new.get('published') is False,('Published changed',file)
+              assert {k:v for k,v in old.items() if k!='romanLyrics'}=={
+                  k:v for k,v in new.items() if k!='romanLyrics'},('Metadata changed',file)
+              assert op==np,('Provenance changed',file)
+              assert isinstance(old.get('romanLyrics'),str) and isinstance(new.get('romanLyrics'),str),('Roman missing',file)
+              removed['roman']+=assert_preserved(old['romanLyrics'],new['romanLyrics'],file,'Roman')
+              removed['urdu']+=assert_preserved(old_urdu,new_urdu,file,'Urdu')
+              R=stanzas(new['romanLyrics'],False)
+              U=stanzas(new_urdu,True)
+              assert len(R)==len(U),(file,'script stanza counts differ')
+              assert [len(x) for x in R]==[len(x) for x in U],(file,'stanza boundaries differ')
+              old_R=stanzas(old['romanLyrics'],False)
+              old_U=stanzas(old_urdu,True)
+              assert R[0]==old_R[0] and U[0]==old_U[0],(file,'opening passage changed')
+              print('PASS',file,'stanzas',len(R)-1,'opening',len(R[0]))
+          print('VERIFIED',len(changed),'NoHayOnline files; removed shortened duplicate fragments',dict(removed))
           PY
+      - name: Check whitespace
+        run: git diff --check f28737828474e7c02052e3be1e65bee124a00f78 HEAD
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Astro check, tests, production build, Pagefind
+        run: |
+          npm run check
+          npm test
+          npx astro build
+          npx pagefind
+          node scripts/generate-offline-search-manifest.mjs
