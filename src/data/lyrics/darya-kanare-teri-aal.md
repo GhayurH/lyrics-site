@@ -13,50 +13,49 @@ romanLyrics: |-
   Darya kanare teri aal pyasi
   Ghar ko luta ke pardes aa ke
   Shaahe madina jangal basa ke
-  Darya kanare teri aal pyasi
-  
+
   1
   Aankhon mein aansu sau zakhm dil par
   Baithe hai bache jalti zameen par
   Kuch khaali kooze dil se laga kar
   Sote hai pyase jalti zameen par
   Sab zakhm khaake karbobala ke
-  
+
   2
   Kitne masayib jhele hai dil par
   Zainab ne dekhe pur dard manzar
   Akbar ka laasha qasim ke tukde
   Abbas ka laasha bhai pe khanjar
   Laashe utha ke maqtal saja ke
-  
+
   3
   Dashte bala mein tanha haram hai
   Pardesiyon par laakhon sitam hai
   Ummat ne aisi ki hai jafayein
   Sab ke saron se cheeni ridayein
   Ummat se paa ke sadme rida ke
-  
+
   4
   Kaise kafan de bhai ko zainab
   Jakde huwe hai shaane rasan se
   Ahle haram sab kehte hai ro kar
   Ye dard paaye aa kar watan se
   Sab kuch luta ke roti hai jaa ke
-  
+
   5
   Har gham to apne dil se laga kar
   Roti hai ban mein bali sakina
   Ammu na aaye baba na aaye
   Mai kya karoo ay shaahe madina
   Is dil pe khaake naawak jafa ke
-  
+
   6
   Waada nibhane deen ko bachane
   Jangal mein aulaad teri
   Dene khuda par jaanein luta ne
   Maqtal mein aayi aulaad teri
   Waada nibha ke deen ko bacha ke
-  
+
   7
   Quran e gham ki karke tilawat
   Rota hai safdar nauhe suna kar
@@ -71,7 +70,6 @@ romanLyrics: |-
 دریا کے کنارے تیری آل پیاسی
 گھر کو لٹا کے پردیس آ کے
 شاہ مدینہ جنگل بسا کے
-دریا کے کنارے تیری آل پیاسی
 
 ۱
 آنکھوں میں آنسوں سو زخم دل پر
