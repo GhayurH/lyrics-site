@@ -11,67 +11,54 @@ aliases: []
 published: false
 romanLyrics: |-
   Chauda sadiyan beet gayi shabbir ka charcha baaqi hai
-  Quran ab tak bol raha hai khaana e kaaba baaqi hai
-  
+
   1
+  Quran ab tak bol raha hai khaana e kaaba baaqi hai
   Karbobala ka leke sahara gumbade khizra baaqi hai
   Saare jhande toot chuke hai haq ka pharera baaqi hai
   Goonj raha hai naame mohamed zikr khuda ka baaqi hai
-  Chauda sadiayan beet...
-  
+
   2
   In chauda sadiyon ke andar chauda sau toofan uthe
   Umavi harkaarein daurein aur abbasi sultan uthe
   Laat o hobal seeno mein chupe thay haathon par quran uthe
   Jinki bunyadon mein lahoo tha qasr wo aali shaan uthe
-  
-  3
   Sab deewarein baith gayi mazloom ka rauza baaqi hai
-  Chauda sadiayan beet...
+
+  3
   Kya jaane kin kin qaumon ne dere daale darya par
   Aaye aakar laut gaye sab gore kaale darya par
-  
-  4
   Ab bhi milenge toote huwe kuch khanjar bhaale darya par
   Qabza karne aaye thay sab taaqat waale darya par
   Sab ka qabza khatm hua abbas ka qabza baaqi hai
-  Chauda sadiayan beet...
-  
-  5
+
+  4
   Taygh o tabar ne rasta roka faujon ki yalghaar hui
   Laal o gohar ne daam lagaye sikkon ki jhankaar hui
   Lambi qabaon waale uthe fatwon ki bharmaar hui
   Deeda e ibrat tu hi bata ye jeet hui ya haar hui
-  
-  6
   Sajde mein sar kaat diya tha lekin sajda baaqi hai
-  Chauda sadiayan beet...
+
+  5
   Pyason ke inkar ka pathar maqtal meni tha kitna bada
   Laakhon fitne uthe lekin phir sar e bayyat uth na saka
-  
-  7
   Ab bhi kisi ke dil mein tamanna bayyat ki uth'ti hai zara
   Kehta hai abbas ka parcham fikre yazeedi hosh mein aa
   Jisne tujhe maara tha tamacha dekh wo panja baaqi hai
-  Chauda sadiayan beet...
-  
-  8
+
+  6
   Taaqat par itraate kyun hai deen e elaahi ke dushman
   Baitha hua hai parde mein talwaar liye ek khalla shikan
   Silsila e ismat ka khulasa seena e gayti ki dhadkan
   Aarzoo e zehra o payambar jaane hussain o roohe hassan
-  
-  9
   Badr o ohad ke bhagne waalon aakhri hamla baaqi hai
-  Chauda sadiayan beet...
+
+  7
   Laakh mitao mit na sakega aale nabi ka naam o nishan
   Laawaris samjho na isay ye khaliq e akbar ka hai makaan
-  
-  10
   Bayt se ahlebayt ka rishta kya todenge ehle jahan
   Kya jaane kab baam e falak se goonj uthe awaa e azaan
   Ay kaabe ke thekedaron kaabe waala baaqi hai
-  Chauda sadiayan beet...
 # source_id: nohayonline:52526dac4ae801e6b7da
 # source_url: https://www.nohayonline.com/details_content.php?id=3527
 # raw_sha256: ae1496b33054b2145710939c50fed77a01a49b718dad6920969c9adbf26bbbd0
