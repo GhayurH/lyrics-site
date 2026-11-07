@@ -17,7 +17,6 @@ romanLyrics: |-
   Haye maadar lipat ke boli ye akbar ki laash se
   Ay naujawan kis ki nazar lag gayi tujhe
   Tu ne to dulha ban'na tha is maa ke saamne
-  Ay naujawan kis ki nazar lag gayi tujhe
 
   2
   Sehra utha ke laayi hai mayyat pe teri maa
@@ -57,6 +56,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3642
 # raw_sha256: 08fd70943db7ffd4188dd03f964935858dcdf5eb7ab3ef09aaebd40ae8cadb22
 ---
+
 کاندھے پہ لاشہء علی اکبر لیےء ہوئے
 خیموں میں لڑکھڑاتے حسین آے دشت سے
 
@@ -64,7 +64,6 @@ romanLyrics: |-
 ہاے مادر لپٹ کے بولی یہ اکبر کی لاش سے
 اے نوجواں کس کی نظر لگ گیء تجھے
 تو نے تو دولہا بننا تھا اس ماں کے سامنے
-اے نوجواں کس کی نظر لگ گیء تجھے
 
 ۲
 سہرا اٹھا کے لای ہے میت پہ تیری ماں
