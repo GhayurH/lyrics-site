@@ -19,7 +19,6 @@ romanLyrics: |-
   Ye baat hui aur kisi ko na meinassar
   Yakta hai teri khoon mein doobi hui tasveer
   Tareekh dikhati nahi aisa koi manzar
-  Nanhe se mujahid ali asghar...
 
   2
   Baba ke sab andaaz hai dada ke tareekhe
@@ -28,28 +27,22 @@ romanLyrics: |-
   Doobi hui nafson pa sitaron ki nichawar
 
   3
-  Nanhe se mujahid ali asghar...
   Dhalki hui gardan pe yadullah ke bosay
   Sookhe hue honton pe tasadduq lab e kausar
   Chitwan mein chipaye hue akbar ki jawani
+  Mutthi mein dabaye hue sajjad ke jauhar
 
   4
-  Mutthi mein dabaye hue sajjad ke jauhar
-  Nanhe se mujahid ali asghar...
   Aankhon mein chalakta hua masoom tabassum
   Gardan se tapakta hua khoon e dil e maadar
-
-  5
   Tareekh mein hai sab tere bachpan ka saleeka
   Tu maut ki aagosh mein aaya tha humak kar
-  Nanhe se mujahid ali asghar...
-  Jis waqt hui mohar tere zakhm e gulu ki
 
-  6
+  5
+  Jis waqt hui mohar tere zakhm e gulu ki
   Poora hua shabbir ke eesaar ka daftar
   Aaram se so ay shab e ashoor ke jaage
   Lori tujhe deta hai tere najm e sukhanwar
-  Nanhe se mujahid ali asghar...
 # source_id: nohayonline:16e03c19e5ccaabe2b8f
 # source_url: https://www.nohayonline.com/details_content.php?id=1151
 # raw_sha256: a0cc6da92d87df4d591de8d11f0a951fc5014c192576212061d9545fa5336586
@@ -63,7 +56,6 @@ romanLyrics: |-
 یہ بات ہوی اور کسی کو نہ میسر
 یکتا ہے تیری خون میں ڈوبی ہوی تصویر
 تاریخ دکھاتی نہیں ایسا کوئی منظر
-ننھے سے مجاہد علی اصغر۔۔۔
 
 ۲
 بابا کے سب انداز ہیں دادا کے تریقے
@@ -72,25 +64,19 @@ romanLyrics: |-
 ڈوبی ہوی نفسوں پہ ستاروں کی نچھاور
 
 ۳
-ننھے سے مجاہد علی اصغر۔۔۔
 ڈھلکی ہوی گردن پہ یداللہ کے بوسے
 سوکھے ہوے ہاتھوں پہ تصدق لب کوثر
 چتواں میں چھپاے ہوے اکبر کی جوانی
+مٹھی میں دباے ہوے سجاد کے جوہر
 
 ۴
-مٹھی میں دباے ہوے سجاد کے جوہر
-ننھے سے مجاہد علی اصغر۔۔۔
 آنکھوں میں چھلکتا ہوا معصوم تبسم
 گردن سے ٹپکتا ہوا خونِ دلِ مادر
-
-۵
 تاریخ میں ہے سب تیرے بچپن کا سلیقہ
 تو موت کی آغوش میں آیا تھا ہمک کر
-ننھے سے مجاہد علی اصغر۔۔۔
-جس وقت ہوی مہر تیرے زخم گلو کی
 
-۶
+۵
+جس وقت ہوی مہر تیرے زخم گلو کی
 پورا ہوا شبیر کے ایثار کا دفتر
 آرام سے سو اے شب عاشور کے جاگے
 لوری تجھے دیتا ہے تیرے نجم سخنور
-ننھے سے مجاہد علی اصغر۔۔۔

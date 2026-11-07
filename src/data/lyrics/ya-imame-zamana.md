@@ -19,54 +19,43 @@ romanLyrics: |-
   Inteqam e karbala ho
   Parda e ghaibat uthe
   Aas ye har dam liye mai
+  Parda e ghaibat mein hoon
 
   2
-  Parda e ghaibat mein hoon
-  Ya imame zamana...
   Har shaheed e karbala pe
   Girya karne ke liye
-
-  3
   Ashke khoon ka nam liye mai
   Parda e ghaibat mein hoon
-  Ya imame zamana...
-  Daadi zahra jin se barham
 
-  4
+  3
+  Daadi zahra jin se barham
   Thi unhi ke waaste
   Jazba e barham liye mai
   Parda e ghaibat mein hoon
-  Ya imame zamana...
 
-  5
+  4
   Jo kata ke haath ghazi ne
   Nahi jhukne diya
   Deen ka parcham liye mai
   Parda e ghaibat mein hoon
 
-  6
-  Ya imame zamana...
+  5
   Tishnangi masoom zahra ki
   Mitaane ke liye
   Aabe chashme nam liye mai
-
-  7
   Parda e ghaibat mein hoon
-  Ya imame zamana...
+
+  6
   Chadare zainab ke gham mein
   Har ghadi sar peet'te
-
-  8
   Eesa o adam liye mai
   Parda e ghaibat mein hoon
-  Ya imame zamana...
-  Cheer daale jis sina ne
 
-  9
+  7
+  Cheer daale jis sina ne
   Meri do maaon ke dil
   Zakhm wo paiham liye mai
   Parda e ghaibat mein hoon
-  Ya imame zamana...
 # source_id: nohayonline:b79e1bb1edb1a139c67c
 # source_url: https://www.nohayonline.com/details_content.php?id=3247
 # raw_sha256: 126675fe90a016ae5a219216f67aefcfd3a0ace98d11a0a37720660b8ffb24c3
@@ -81,51 +70,40 @@ romanLyrics: |-
 انتقام کربلا ہو
 پردہء غیبت اٹھے
 آس یہ ہر دم لیےء میں
+پردہء غیبت میں ہوں
 
 ۲
-پردہء غیبت میں ہوں
-یا امام زمانہ۔۔۔
 ہر شہید کربلا پہ
 گریہ کرنے کے لئے
-
-۳
 اشک خوں کا نام لیےء میں
 پردہء غیبت میں ہوں
-یا امام زمانہ۔۔۔
-دادی زہرا جس سے برہم
 
-۴
+۳
+دادی زہرا جس سے برہم
 تھی انہیں کے واسطے
 جزبہء برہم لئے میں
 پردہء غیبت میں ہوں
-یا امام زمانہ۔۔۔
 
-۵
+۴
 جو کٹا کے ہاتھ غازی نے
 نہیں جھکنے دیا
 دین کا پرچم لیےء میں
 پردہء غیبت میں ہوں
 
-۶
-یا امام زمانہ۔۔۔
+۵
 تشنگی معصوم زہرا کی
 مٹانے کے لئے
 آب چشم نم لیےء میں
-
-۷
 پردہء غیبت میں ہوں
-یا امام زمانہ۔۔۔
+
+۶
 چادر زینب کے غم میں
 ہر گھڑی سر پیٹتے
-
-۸
 عیسا و آدم لئے میں
 پردہء غیبت میں ہوں
-یا امام زمانہ۔۔۔
-چیر ڈالے جس سناں نے
 
-۹
+۷
+چیر ڈالے جس سناں نے
 میری دو ماؤں کے دل
 زخم وہ پیہم لئے میں
 پردہء غیبت میں ہوں
-یا امام زمانہ۔۔۔
