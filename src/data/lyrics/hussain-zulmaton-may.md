@@ -9,51 +9,33 @@ poet: "Afzal Hussain Najfi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Husain Zulmato may Gohar-e-Tabinda Hay
-
-  Kai jis kai honai sai Insaaniyat Painda Hai
-
+romanLyrics: |-
+  Hussain zulmaton mein gohar e tabinda hai
+  Ke jis ke hone se insaniyat painda hai
 
   1
-
-  1) Savaar-e-Dosh-e-Risalat kai sar nai naizai per
-
-  Qur''an suna kai dikhaya shaheed zinda hai
-
+  Sawaar e dosh e risalat ke sar ne naiza par
+  Quran suna ke dikhaya shaheed zinda hai
 
   2
-
-  2) Na pohncha paani na lasha bijhayai khaimon main
-
-  Kaneez zahra teri beti sai sharminda hai
-
+  Na pahuncha pani na laasha bhi jaaye qaimon mein
+  Kaneez zaada teri beti se sharminda hai
 
   3
-
-  3) Sitaarai Maan hain matam fizayain kerti hain
-
-  Gham-e-Hussain main maghmoom her parinda hai
-
+  Sitaare maand hain matam fizayain karti hain
+  Ghame Hussain mein maghmoom har parinda hai
 
   4
-
-  4) Udaas roza nabi rota hai dil Sughra ka
-
-  Shaheed teri shafi hogayai kai zinda hai
-
+  Udaas rauza nabi rota hai dil Sughra ka
+  Shaheed teri shabi hogayi ke zinda hai
 
   5
-
-  5) Jo sarbareh na nazar aayi Ghazi ko Zainab
-
-  Yeh sar nai gir nai bataya Shaheed Zinda hai
-
+  Jo sar barehna nazar aayi Ghazi ko Zainab
+  To sar ne gir ke bataya shaheed zinda hai
 
   6
-
-  6) Na tars bachon pai na paak kalma walaon ka
-
-  Sipha-e-Shimr main najafi her aik darinda hai'
+  Na tars bachon pe na paas kalma waalon ka
+  Sipaah e Shimr mein Najfi har ek darinda hai
 reciter: Hasan Sadiq
 # source_id: nohayonline:0948bb1c0c6bfd8881ee
 # source_url: https://www.nohayonline.com/details_content.php?id=2305
@@ -62,11 +44,10 @@ reciter: Hasan Sadiq
 # source_url: https://www.ziyaraat.net/api/noha/509
 # raw_sha256: 24e1b9a174e64eeb50e672f140ff5afe8fbbb0fe4cdaa6aabb0ca29087d4212f
 ---
-
 حسین ظلمتوں میں گوہر تابندہ ہے
+کہ جس کے ہونے سے انسانیت پایندہ ہے
 
 ۱
-کہ جس کے ہونے سے انسانیت پایندہ ہے
 سوار دوش رسالت کے سر نے نیزہ پر
 قرآں سنا کے دکھایا شہید زندہ ہے
 
