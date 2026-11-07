@@ -10,44 +10,40 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Zindan hai lahad meri kurta hai kafan mera
   Karna yahi janaza sajjad dafan mera
+
+  1
   Mai baap ke seene pe bade chain se soti thi
   Ab khaak ke bistar pe dukhta hai badan mera
-  
+
   2
-  Zindan hai lehad...
   Sajjad se kehti thi zindan se reha hokar
   Tum jaana madine ko hai shaam watan mera
-  Zindan hai lehad...
-  
+
   3
   Kehna ke chine gauhar khaaye hai tamache bhi
   Ay bhai agar pooche akbar ki behan mera
-  Zindan hai lehad...
-  Kokh ujdi hai maadar ki nam aankh hai khwahar ki
-  
+
   4
+  Kokh ujdi hai maadar ki nam aankh hai khwahar ki
   Asghar ke bina bhaiya soona hai sehan mera
-  Zindan hai lehad...
+
+  5
   Baba na chacha akbar qasim na ali asghar
   Ek din may ujaada hai ummat ne chaman mera
-  
-  5
-  Zindan hai lehad...
+
+  6
   Jawaad ye kehta hai sadqe may sakina ke
   Sadaat ke gham se hai wabasta sukhan mera
-  Zindan hai lehad...
 # source_id: nohayonline:4b1b958fbdebd260c99c
 # source_url: https://www.nohayonline.com/details_content.php?id=683
 # raw_sha256: 0c258c2e569f0d481a84cf17072324df1548e763f230f1b3f75c6d8fe0c5bb85
 ---
-
 زنداں ہے لحد میری کرتہ ہے کفن میرا
+کرنا یہی جنازہ سجاد دفن میرا
 
 ۱
-کرنا یہی جنازہ سجاد دفن میرا
 میں باپ کے سینے پہ بڑے چین سے سوتی تھی
 اب خاک کے بستر پہ دکھتا ہے بدن میرا
 
