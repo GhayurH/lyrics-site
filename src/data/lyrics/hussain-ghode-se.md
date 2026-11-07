@@ -12,46 +12,44 @@ published: false
 romanLyrics: |-
   Suna ye zainab ne shor e lashkar
   Hussain ghode se gir chuke hai
-  
-  1
   Gulu e sheh par chala wo khanjar
-  
-  2
+
+  1
   Ghiro na ab qatle shaahe deen se
   Na uth sakenge ye ab zameen se
   Yuhin tadapne do ab zameen par
-  
-  3
+
+  2
   Namaz ki do na inko mohlat
   Na ek sajde ki do ijazat
   Uthao khanjar qalam karo sar
-  
-  4
+
+  3
   Sada di zainab ne suye darya
   Madad ko aajao jald bhaiya
   Bachao aaqa ko apne aa kar
-  
-  5
+
+  4
   Badan tha zakhmon se choor itna
   Muhaal ghode pe tha sambhalna
   Tanha hai ran mein mera biradar
-  
-  6
+
+  5
   Akele maqtal mein shaahe deen hai
   Aur unko gehre huwe layeen hai
   Kahan ho qasim kahan ho akbar
-  
-  7
+
+  6
   Na koi shaahe umam ka waaris
   Na koi ahle haram ka waaris
   Na ab rahegi saron pe chaadar
-  
-  8
+
+  7
   Aseer hum ko karenge aada
   Aur honge bazaar e shaam o kufa
   Phirenge hum sar barehna dar dar
-  
-  9
+
+  8
   Jo khoon mein doobe pade hai laashe
   Wo bawafa nasiran e sheh ke
   Sadayein dete hai wo bahattar
@@ -62,46 +60,44 @@ romanLyrics: |-
 
 سنا یہ زینب نے شور لشکر
 حسین گھوڑے سے گر چکے ہیں
-
-۱
 گلوے شہ پر چلا وہ خنجر
 
-۲
+۱
 گھرو نہ اب قتل شاہ دیں سے
 نہ اٹھ سکیں گے یہ اب زمیں سے
 یونہی تڑپنے دو اب زمیں پر
 
-۳
+۲
 نماز کی دو نہ ان کو مہلت
 نہ ایک سجدے کی دو اجازت
 اٹھاؤ خنجر قلم کرو سر
 
-۴
+۳
 صدا دی زینب نے سوے دریا
 مدد کو آجاؤ جلد بھیا
 بچاؤ آقا کو اپنے آ کر
 
-۵
+۴
 بدن تھا زخموں سے چور اتنا
 محال گھوڑے پہ تھا سنبھلنا
 تنہا ہے رن میں میرا برادر
 
-۶
+۵
 اکیلے مقتل میں شاہ دیں ہے
 اور ان کو گہرے ہوے لعیں ہے
 کہاں ہو قاسم کہاں ہو اکبر
 
-۷
+۶
 نہ کوئی شاہ امم کا وارث
 نہ کوئی حرم کا وارث
 نہ اب رہے گی سروں پہ چادر
 
-۸
+۷
 اسیر ہم کو کریں گے اعدا
 اور ہونگے بازار شام و کوفہ
 پھریں گے ہم سر برہنہ در در
 
-۹
+۸
 جو خون میں ڈوبے پڑے ہیں لاشے
 وہ باوفا ناصران شہ کے
 صداییں دیتے ہیں وہ بہتر
