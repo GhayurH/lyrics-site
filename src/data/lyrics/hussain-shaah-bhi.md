@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Hussain shaah bhi hai aur badshah bhi hai
   Hussain deen bhi hai aur deen panah bhi hai
   Na ki yazeed ki bayyat kata diya sar ko
@@ -18,8 +17,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2687
 # raw_sha256: 2e06e21e727fb66a54b4bff55a46c200e24930f64801f614d093e7f14b5cdf5b
 ---
-
-۱
 حسین شاہ بھی ہے اور بادشاہ بھی ہے
 حسین دین بھی ہے اور دیں پناہ بھی ہے
 نہ کی یزید کی بیعت کٹا دیا سر کو
