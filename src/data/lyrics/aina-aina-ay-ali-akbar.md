@@ -25,7 +25,6 @@ romanLyrics: |-
   Huwe hai tareek do jahan
   Dhoondun mai kahan jaa kar
   Ay ali akbar
-  Aina aina ay ali akbar...
 
   3
   Uthaye maine tamaam laashe
@@ -36,7 +35,6 @@ romanLyrics: |-
   4
   Ye kehta chala ro kar
   Ay ali akbar
-  Aina aina ay ali akbar...
   Koi tasalli na kuch dilaasa
 
   5
@@ -47,7 +45,6 @@ romanLyrics: |-
 
   6
   Ay ali akbar
-  Aina aina ay ali akbar...
   Madad ko aayega kaun beta
   Habeeb o hurr hai na john beta
 
@@ -58,7 +55,6 @@ romanLyrics: |-
   Ay ali akbar
 
   8
-  Aina aina ay ali akbar...
   Ye bhook aur pyaas ki nakahat
   Aur uspe beta tumhari furqat
   Qadam qadam par nayi hai zehmat
@@ -67,7 +63,6 @@ romanLyrics: |-
   Lagi jo thokar to ye kaha
   De mujhko sada akbar
   Ay ali akbar
-  Aina aina ay ali akbar...
 
   10
   Mai kaise abbas ko bulaun
@@ -78,7 +73,6 @@ romanLyrics: |-
   11
   Aa jaunga nauhagar
   Ay ali akbar
-  Aina aina ay ali akbar...
   Tamaam waade nibha chuka hoo
 
   12
@@ -89,7 +83,6 @@ romanLyrics: |-
 
   13
   Ay ali akbar
-  Aina aina ay ali akbar...
   Phupi ki awaaz aa rahi hai
   Wo beta tujhko bula rahi hai
 
@@ -100,7 +93,6 @@ romanLyrics: |-
   Ay ali akbar
 
   15
-  Aina aina ay ali akbar...
   Yehi tha sheh ka bayaan mazhar
   Tha jis pe ab nauhakhwan safdar
   Qalam bhi rota hai likh ke manzar
@@ -109,7 +101,6 @@ romanLyrics: |-
   Hussain padte thay marsiya
   Tha haath kaleje par
   Ay ali akbar
-  Aina aina ay ali akbar...
 # source_id: nohayonline:eab1d4aad4bd696a40a8
 # source_url: https://www.nohayonline.com/details_content.php?id=1543
 # raw_sha256: e7f3c91158a06249f2b017ef32edef82a35c73a48c0e81e041a3adb08de55167
@@ -129,7 +120,6 @@ romanLyrics: |-
 ہوے ہیں تاریک دو جہاں
 ڈھونڈوں میں کہاں جا کر
 اے علی اکبر
-اینا اینا اے علی اکبر۔۔۔
 
 ۳
 اٹھاے میں نے تمام لاشے
@@ -140,7 +130,6 @@ romanLyrics: |-
 ۴
 یہ کہتا چلا رو کر
 اے علی اکبر
-اینا اینا اے علی اکبر۔۔۔
 کوئی تسلی نہ کچھ دلاسہ
 
 ۵
@@ -151,7 +140,6 @@ romanLyrics: |-
 
 ۶
 اے علی اکبر
-اینا اینا اے علی اکبر۔۔۔
 مدد کو آے گا کون بیٹا
 حبیب و حر ہیں نہ جون بیٹا
 
@@ -162,7 +150,6 @@ romanLyrics: |-
 اے علی اکبر
 
 ۸
-اینا اینا اے علی اکبر۔۔۔
 یہ بھوک اور پیاس کی نقاہت
 اور اس پہ بیٹا تمہاری فرقت
 قدم قدم پر نیء ہے زحمت
@@ -171,7 +158,6 @@ romanLyrics: |-
 لگی جو ٹھوکر تو یہ کہا
 دے مجھکو صدا اکبر
 اے علی اکبر
-اینا اینا اے علی اکبر۔۔۔
 
 ۱۰
 میں کیسے عباس کو بلاؤں
@@ -182,7 +168,6 @@ romanLyrics: |-
 ۱۱
 آ جاؤں گا نوحہ گر
 اے علی اکبر
-اینا اینا اے علی اکبر۔۔۔
 تمام وعدے نبھا چکا ہوں
 
 ۱۲
@@ -193,7 +178,6 @@ romanLyrics: |-
 
 ۱۳
 اے علی اکبر
-اینا اینا اے علی اکبر۔۔۔
 پھپھی کی آواز آ رہی ہے
 وہ بیٹا تجھکو بلا رہی ہے
 
@@ -204,7 +188,6 @@ romanLyrics: |-
 اے علی اکبر
 
 ۱۵
-اینا اینا اے علی اکبر۔۔۔
 یہی تھا شہ کا بیان مظہر
 تھا جس پہ اب نوحہ خوان صفدر
 قلم بھی روتا ہے لکھ کے منظر
@@ -213,4 +196,3 @@ romanLyrics: |-
 حسین پڑھتے تھے مرثیہ
 تھا ہاتھ کلیجے پر
 اے علی اکبر
-اینا اینا اے علی اکبر۔۔۔

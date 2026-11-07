@@ -22,16 +22,12 @@ romanLyrics: |-
   Iske liye hussain ne dunya lutaayi hai
 
   2
-  Mehnat ali ke...
-  Sar deke apna...
   Barchi ko naujawan ka jigar pesh kar diya
   Asghar ke jaisa noor e nazar pesh kar diya
 
   3
   Iske liye hussain ne ghar pesh kar diya
   Khud mar ke sheh ne umr e wilayat bachayi hai
-  Mehnat ali ke...
-  Sar deke apna...
 
   4
   Marne ko sheh ke saamne chote bade gaye
@@ -40,16 +36,12 @@ romanLyrics: |-
   Ye shaan e karbala ke shaheedon ne paayi hai
 
   5
-  Mehnat ali ke...
-  Sar deke apna...
   Qurbani e hussain mein aisi umang thi
   Dunya bahot nabi ke nawase pe tang thi
 
   6
   Karbobla wilayat e hyder ki jung thi
   Qurbani e hussain tasavvur pa chaayi hai
-  Mehnat ali ke...
-  Sar deke apna...
 
   7
   Allah re batool ke farzand ka jigar
@@ -58,16 +50,12 @@ romanLyrics: |-
   Naize pe daastan e wilayat sunayi hai
 
   8
-  Mehnat ali ke...
-  Sar deke apna...
   Tha shaah e deen ke khoon ka pyasa har aadmi
   Karbobala mein lut'ti thi dunya hussain ki
 
   9
   Dunya ko thi wilayat e hyder se dushmani
   Be-jurm taygh sookhe galay par chadhayi hai
-  Mehnat ali ke...
-  Sar deke apna...
 
   10
   Toda gaya pahaad ghamon ka imam par
@@ -76,16 +64,12 @@ romanLyrics: |-
   Qasim ne apne khoon se mehendi lagayi hai
 
   11
-  Mehnat ali ke...
-  Sar deke apna...
   Qurbani e hussain ki daulat sambhal ke
   Pyase mujahidon ki amanat sambhal ke
 
   12
   Rakhna dilon mein apne wilayat sambhal ke
   Irfan ye shaheed e wafa ki kameini hai
-  Mehnat ali ke...
-  Sar deke apna...
 # source_id: nohayonline:631dd10ae1a1c49318c5
 # source_url: https://www.nohayonline.com/details_content.php?id=953
 # raw_sha256: 43e88febb0a2d86770ac881a082d7f34e1c175d596e5bdd1b55bdd2d37eaaa8a
@@ -102,16 +86,12 @@ romanLyrics: |-
 اسکے لیے حسین نے دنیا لٹای ہے
 
 ۲
-محنت علی کے۔۔۔
-سر دیکے اپنا۔۔۔
 برچی کو نوجواں کا جگر پیش کر دیا
 اصغر کے جیسا نور نظر بیش کر دیا
 
 ۳
 اس کے لئے حسین نے گھر پیش کر دیا
 قد مر کے شہ نے عمر ولایت بچای ہے
-محنت علی کے۔۔۔
-سر دیکے اپنا۔۔۔
 
 ۴
 مرنے کو شہ کے سامنے چھوٹے بڑے گےء
@@ -120,16 +100,12 @@ romanLyrics: |-
 یہ شان کربلا کے شہیدوں نے پای ہے
 
 ۵
-محنت علی کے۔۔۔
-سر دیکے اپنا۔۔۔
 قربانیء حسین میں ایسی امنگ تھی
 دنیا بہت نبی کے نواسے پہ تنگ تھی
 
 ۶
 کربوبلا ولایت حیدر کی جنگ تھی
 قربانی ء حسین تصور پہ چھائی ہے
-محنت علی کے۔۔۔
-سر دیکے اپنا۔۔۔
 
 ۷
 اللہ رے بتول کے فرزند کا جگر
@@ -138,16 +114,12 @@ romanLyrics: |-
 نیزے پہ داستان ولایت سنای ہے
 
 ۸
-محنت علی کے۔۔۔
-سر دیکے اپنا۔۔۔
 تھا شاہ دیں کے خون کا پیاسا ہر آدمی
 کربوبلا میں لٹتی تھی دنیا حسین کی
 
 ۹
 دنیا کو تھی ولایت حیدر سے دشمنی
 بے جرم تیغ سوکھے گلے پر چڑھائی ہے
-محنت علی کے۔۔۔
-سر دیکے اپنا۔۔۔
 
 ۱۰
 توڑا گیا پہاڑ غموں کا امام پر
@@ -156,13 +128,9 @@ romanLyrics: |-
 قاسم نے اپنے خون سے مہندی لگای ہے
 
 ۱۱
-محنت علی کے۔۔۔
-سر دیکے اپنا۔۔۔
 قربانی ء حسین کی دولت سنبھال کے
 پیاسے مجاہدوں کی امانت سنبھال کے
 
 ۱۲
 رکھنا دلوں میں اپنے ولایت سنبھال کے
 عرفان یہ شہید وفا کی کمائی ہے
-محنت علی کے۔۔۔
-سر دیکے اپنا۔۔۔
