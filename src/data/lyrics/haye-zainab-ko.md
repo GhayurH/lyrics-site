@@ -12,7 +12,6 @@ published: false
 romanLyrics: |-
   Haye zainab ko zamane ne khule sar dekha
   Jisko ghazi ne bhi nazrein na utha kar dekha
-  Haye zainab ko zamane ne khule sar dekha
   
   1
   Kam na thi shimr ke khanjar se nazar logon ki
@@ -48,7 +47,6 @@ romanLyrics: |-
 
 ہاے زینب کو زمانے نے کھلے سر دیکھا
 جس کو غازی نے بھی نظریں نہ اٹھا کر دیکھا
-ہاے زینب کو زمانے نے کھلے ‌سر دیکھا
 
 ۱
 کم نہ تھی شمر کے خنجر سے نظر لوگوں کی
