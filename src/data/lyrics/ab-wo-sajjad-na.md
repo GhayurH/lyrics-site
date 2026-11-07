@@ -10,19 +10,20 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haye haye shaam haye haye shaam
   Nok e naiza se dekhlo baba
   Ab wo sajjad na raha sajjad
   Jis ghadi berida hui zainab
   Karbala mein hi mar gaya sajjad
+
+  1
   Kya hai parda ye shaam waalon ko
   Teri daadi ne hi sikhaya hai
   Unhi logon ne meri phupiyon ko
   Berida shaam mein phiraya hai
   Kya ghazab hai ke haath phaila kar
   Maangta hai bas ek rida sajjad
-  
+
   2
   Haye jis ne baghair mehmil ke
   Ghar se baahar qadam na rakha tha
@@ -30,7 +31,7 @@ romanLyrics: |-
   Aap ke baad berida dekha
   Kaash abbas aaj hote to
   Ye qayamat na dekhta sajjad
-  
+
   3
   Sar pe jab tak tha aap ka saaya
   Maa'on behno ke sar pe thi chadar
@@ -38,7 +39,7 @@ romanLyrics: |-
   Jaanta hoo mai jang ke jauhar
   Dekh kar berida phuphi ka sar
   Sharm ke maare jhuk gaya sajjad
-  
+
   4
   Nanhe bachon ke haath mein pathar
   De ke maara gaya sakina ko
@@ -46,7 +47,7 @@ romanLyrics: |-
   Taziyane lage yateema ko
   Mai bandhe haath dekh kar roya
   Us ne har dard par kaha sajjad
-  
+
   5
   Badr o khyber ki jo adawat thi
   Uska yun inteqam lete hai
@@ -54,7 +55,7 @@ romanLyrics: |-
   Meri phupiyon ka naam lete hai
   Taaziyane to seh gaya baba
   Tanz lekin na seh saka sajjad
-  
+
   6
   Is tarha se bandhe hai rassi se
   Haath mere galay yateemon ke
@@ -62,7 +63,7 @@ romanLyrics: |-
   Paon uth'te hai nanhe bachon ke
   Bas ruku mein hi shukr ke sajde
   Kar ke guzrega ab tera sajjad
-  
+
   7
   Jis behan ne hamesha jeene ki
   Haye abbas ko duayein di
@@ -70,7 +71,7 @@ romanLyrics: |-
   Usne abbas ko sadayein di
   Sar sina se wahan gira unka
   Aur yahan khaak par gira sajjad
-  
+
   8
   Apne maula ke ek aansu ka
   Haq ada na sahaab kar paaya
@@ -82,13 +83,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2714
 # raw_sha256: 14d59e8c509881c5fa22a577d98f33c00608ff8af9395a1cb90fc0a2d591f74b
 ---
-
-۱
 ہاے ہاے شام ہاے ہاے شام
 نوکِ نیزہ سے دیکھ لو بابا
 اب وہ سجاد نہ رہا سجاد
 جس گھڑی بے ردا ہوی زینب
 کربلا میں ہی مر گیا سجاد
+
+۱
 کیا ہے پردہ یہ شام والوں کو
 تیری دادی نے ہی سکھایا ہے
 انہیں لوگوں نے میری پھوپھیوں کو

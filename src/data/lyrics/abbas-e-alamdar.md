@@ -12,13 +12,13 @@ published: false
 romanLyrics: |-
   Kis sher ki aamad hai ke ran kaamp raha hai
   Ran ek taraf charkhe kohan kaamp raha hai
-
-  1
   Rustum ka badan zere kafan kaamp raha hai
   Har qasre salateene zaman kaamp raha hai
   Shamsheer bakaf dekh ke haider ke pisar ko
   Jibreel larazte hai sameinte huwe par ko
   Abbas e alamdaar abbas e alamdar
+
+  1
   Is shaan se islam ke parcham ko uthaya
   Sar de diya aur deene mohammad ko bachaya
   Kya maqsade shabbir ye tune hai bataya
@@ -65,13 +65,13 @@ romanLyrics: |-
 ---
 کس شیر کی آمد ہے کے رن کانپ رہا ہے
 رن اک طرف چرخِ کوہن کانپ رہا ہے
-
-۱
 رُستم کا بدن زیرِ کفن کانپ رہا ہے
 ہر قصرِ سلاطینِ زمن کانپ رہا ہے
 شمشیر بکف دیکھ کے حیدر کے پسر کو
 جبرئیل لرزتے ہیں سمیٹے ہوئے پر کو
 عباسِ علمدار عباسِ علمدار
+
+۱
 اس شان سے اسلام کے پرچم کو اُٹھایا
 سر دے دیا اور دینِ محمد کو بچایا
 کیا مقصدِ شبیر یہ تُوں نے ہے بتایا

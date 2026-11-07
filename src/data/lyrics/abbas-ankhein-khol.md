@@ -12,54 +12,52 @@ published: false
 romanLyrics: |-
   Jab sar e abbas zainab ko mila
   Sar se ye karne lagi ro kar gila
-
-  1
   Aa gayi bali sakina ko qaza
   Ab to ay abbas aankhein khol do
   Qaid khane mein ye zainab ne kaha
   Ab to ay abbas aankhein khol do
 
-  2
+  1
   Dafn hum ne kar diya ghamkhar ko
   Tum na aaye aakhri deedar ko
   Ho gayi hum se sakina bhi juda
 
-  3
+  2
   Dard aur gham ka dafeena dekh lo
   Ek nazar qabr e sakina dekh lo
   Ho nahi paayi wo mar kar bhi reha
 
-  4
+  3
   Ho gayi hai dafn wo zer e zameen
   Aaj bhi us ke liye pani nahi
   Qaid khana ban gaya hai karbala
 
-  5
+  4
   Rote rote khatm saansein ho gayi
   Khud bhi uski band aankhein ho gayi
   Jo tumhe deti thi ro ro kar sada
 
-  6
+  5
   Mustaqil sehti rahi ranj o mahan
   Saal bhar pehne rahi ek pairahan
   Ho gayi ghurbat ki us par inteha
 
-  7
+  6
   Ab sakina pani maangegi nahi
   Mashk bhi apni tumhe degi nahi
   Na karegi tum se wo koi gila
 
-  8
+  7
   Dukhtar e shaahe madina ke liye
   Fateha padh do sakina ke liye
   Kar do apna farz tum ye bhi ada
 
-  9
+  8
   Jaan se pyari sakina thi tumhe
   De rahi hoo mai qasam uski tumhe
   Khol do ek baar tum aankhein zara
 
-  10
+  9
   Aamir o yaqoob gham barpa hua
   Zainab e dilgeer ne jab ye kaha
   Mil gayi mujhko sakina ki rida
@@ -69,54 +67,52 @@ romanLyrics: |-
 ---
 جب سر عباس زینب کو ملا
 سر سے یہ کرنے لگی رو کر گلہ
-
-۱
 آ گیء بالی سکینہ کو قضا
 اب تو اے عباس آنکھیں کھول دو
 قید خانے میں یہ زینب نے کہا
 اب تو اے عباس آنکھیں کھول دو
 
-۲
+۱
 دفن ہم نے کر دیا غم خوار کو
 تم نہ آے آخری دیدار کو
 ہو گیء ہم سے سکینہ بھی جدا
 
-۳
+۲
 درد اور غم کا دفینہ دیکھ لو
 اک نظر قبر سکینہ دیکھ لو
 ہو نہیں پای وہ مر کر بھی رہا
 
-۴
+۳
 ہو گیء ہے دفن وہ زیر زمیں
 آج بھی اس کے لیےء پانی نہیں
 قید خانہ بن گیا ہے کربلا
 
-۵
+۴
 روتے روتے ختم سانسیں ہو گیء
 خود بھی اس کی بند آنکھیں ہو گیء
 جو تمہیں دیتی تھی رو رو کر صدا
 
-۶
+۵
 مستقل سہتی رہی رنج و محن
 سال بھر پہنے رہی اک پیرہن
 ہو گیء غربت کی اس پر انتہا
 
-۷
+۶
 اب سکینہ پانی مانگے گی نہیں
 مشک بھی اپنی تمہیں دیگی نہیں
 نہ کرے گی تم سے وہ کوئی گلہ
 
-۸
+۷
 دختر شاہ مدینہ کے لئے
 فاتحہ پڑھ دو سکینہ کے لیےء
 کر دو اپنا فرض تم یہ بھی ادا
 
-۹
+۸
 جان سے پیاری سکینہ تھی تمہیں
 دے رہی ہوں میں قسم اسکی تمہیں
 کھول دو اک بار تم آنکھیں زرا
 
-۱۰
+۹
 آمر و یعقوب غم برپا ہوا
 زینبِ دلگیر نے جب یہ کہا
 مل گیء مجھکو سکینہ کی ردا

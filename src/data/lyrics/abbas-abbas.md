@@ -12,14 +12,14 @@ published: false
 romanLyrics: |-
   Hai bekason ka ghareebon ka aasra abbas
   Wafa hai mulk to us mulk ka khuda abbas
-
-  1
   Janabe fatema zehra ka mudda'a abbas
   Janabe hyder e safdar ka aeena abbas
   Har ek simt do aalam me zikr hota hai
   Janabe fatema binte asad ka pota hai
   Abbas abbas abbas abbas
   Abbas abbas abbas abbas
+
+  1
   Har ek sawaal se pehle jawab dete hai
   Jo zarra maango to ye aaftab dete hai
   Koi jo khatra kahe behre aab dete hai
@@ -72,14 +72,14 @@ romanLyrics: |-
 ---
 ہے بیکسوں کا غریبوں کا آسرا عباس
 وفا ہے ملک تو اس ملک کا خدا عباس
-
-۱
 جنابِ فاطمہ زہرا کا مدعا عباس
 جنابِ حیدر صفدر کا آیینہ عباس
 ہر ایک سمت دو عالم میں ذکر ہوتا ہے
 جنابِ فاطمہ بنت اسد کا پوتا ہے
 عباس عباس عباس عباس
 عباس عباس عباس عباس
+
+۱
 ہر ایک سوال سے پہلے جواب دیتے ہیں
 جو زرہ مانگو تو یہ آفتاب دیتے ہیں
 کوی جو خطرہ کہے بہر آب دیتے ہیں

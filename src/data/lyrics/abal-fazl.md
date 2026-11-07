@@ -62,15 +62,19 @@ romanLyrics: |-
   Taane deta tha koi shaah pe hasta tha koi
   Apne bhai ki madad ke liye ran mein aa kar
   Laash zainab ne uthayi hai ali akbar ki
+
+  9
   Shaah ne ro kar kaha abal fazl
   Utho mere bawafa abal fazl
   Tanha hai bhai tera abal fazl
+
+  10
   Aakhri lamhon mein shabbir bahot pyase thay
   Badi hasrat se suye nehr nazar karte thay
   Shimr has has ke lagata raha tera zarbein
   Aur har waar pe shabbir sada dete thay
 
-  9
+  11
   Mir sajjad bayan kaise kare wo manzar
   Shaam ki fauj ne jab aag lagayi aa kar
   Cheen ne aagaye jab sar se rida zainab ki
@@ -131,15 +135,19 @@ romanLyrics: |-
 تانے دیتا کوئ شاہ پہ ہستا تھا کوئ
 اپنے بھائ کی مدد کے لئے رن میں آکر
 لاش زینب نے اٹھائ ہے علی اکبر کی
+
+۹
 شاہ نے روکر کہا ابو الفضل
 اٹھو میرے با وفا ابو الفضل
 تنہا ہے بھائ تیرا ابو الفضل
+
+۱۰
 آخری لمحوں میں شبیر بہت پیاسے تھے
 بڑی حسرت سے سوئے نہر نظر کرتے تھے
 شمر ہنس ہنس کے لگاتا رہا تیرا ضربیں
 اور ہر وار پہ شبیر صدا دیتے تھے
 
-۹
+۱۱
 میر سجاد بیاں کیسے کرے وہ منظر
 شام کی فوج نے جب آنگ لگائ آکر
 چھینے آگئے جب سر سے درا زینب کی

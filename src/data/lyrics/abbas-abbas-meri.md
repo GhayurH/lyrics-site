@@ -10,57 +10,58 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Toote dilon ki aas ay mere maula abbas
   Abbas abbas meri madad ko aao na
+
+  1
   Ye dunya sitam jab dhaati hai
   Ya koi musibat aati hai
   Bas tere alam ke panje par
   Ye meri nazar ruk jaati hai
   Abbas abbas har gham se chudao na
-  
+
   2
   Mai doob raha hoo ay maula
   Jeene ka nahi koi rasta
   Jab tum ko bulaata hai koi
   Tum us ko bachaate ho maula
   Abbas abbas mujhko bhi bachao na
-  
+
   3
   Sab karbobala ko jaate hai
   Aur dil ki muradein paate hai
   Ek mai hi tarasta hoo maula
   Kyun aap mujhe tadpaate hai
   Abbas abbas zawwar banao na
-  
+
   4
   Ye khwab dikhaya hai tum ne
   Rauze pe bulaaya hai tum ne
   Rauze se lipat kar sochoonga
   Seene se lagaya hai tumne
   Abbas abbas seene se lagao na
-  
+
   5
   Jab aat moharram aati hai
   Maa saqqa mujhe banwati hai
   Jis ghar mein haazri hoti hai
   Wahan teri sawari aati hai
   Abbas abbas mere ghar bhi to aao na
-  
+
   6
   Girton ko sahara dete ho
   Doobe to kinara dete ho
   Jab toot raha ho koi dil
   Tum hi to dilaasa dete ho
   Abbas abbas girta hoo uthao na
-  
+
   7
   Zainab ki sada yaad aati hai
   Abbas sakina pyasi hai
   Dil tukde huwe jaata hai mera
   Wo sookhi zaban dikhlaati hai
   Abbas abbas usay pani pilao na
-  
+
   8
   Karte hai buka mesum mazhar
   Aata hai yaad wohi manzar
@@ -70,10 +71,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1698
 # raw_sha256: b34786c438956b7aedad5edbd30a40d073252f3008109ab4263c1004de42ca2d
 ---
-
-۱
 ٹوٹے دلوں کی آس اے میرے مولا عباس
 عباس عباس میری مدد کو آؤ نا
+
+۱
 یہ دنیا ستم جب ڈھاتی ہے
 یا کوی مصیبت آتی ہے
 بس تیرے الم کے پنجے پر
