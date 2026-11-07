@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Hua jo shaah ke lashkar may kahat pani ka
   Ajeeb haal hua fatema ke jaani ka
   Kabhi khayal tha akbar ki naujawani ka
@@ -21,7 +20,6 @@ romanLyrics: |-
 # raw_sha256: cfd58b8c024ad9becb8e6d8d6fcd863714886bada1877835d56f59d00fc22b82
 ---
 
-۱
 ہوا جو شاہ کے لشکر میں قحط پانی کا
 عجیب حال ہوا فاطمہ کے جانی کا
 کبھی خیال تھا اکبر کی نوجوانی کا
