@@ -39,6 +39,7 @@ romanLyrics: |-
   
   7
   Kiye ja midhate aale payambar
+  Yehi mehshar hayate jawedan hai
 # source_id: nohayonline:79aa45e5f146750f13ff
 # source_url: https://www.nohayonline.com/details_content.php?id=649
 # raw_sha256: 1c98876bf92b4ebc3d5ca5f4c1bcbd1e6610d94c69acf8310192c72536cae76b
@@ -73,3 +74,4 @@ romanLyrics: |-
 
 ۷
 کیئے جا مدحتِ آلِ پیعمبر
+یہی محشر حیاتِ جاوداں ہے
