@@ -9,106 +9,62 @@ poet: "Akhtar Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Hai karbala ke ban mein ghareebon ka arbaeen
-
+romanLyrics: |-
+  Hai karbala ke ban mein ghareebon ka arbaeen
 
   1
-
-  Shabbir ke mazaar pa zainab ki hai jabeen
-
+  Shabbir ke mazaar pe zainab ki hai jabeen
   Aansu baha rahe hai khade abide hazeen
-
-  Abaad thi hussain ke qadmo se ye zameen
-
-  Ab haal ye hai sar pa koi saayeba nahi
-
+  Aabaad thi hussain ke qadmon se ye zameen
+  Ab haal ye hai sar pe koi saayebaan nahi
 
   2
-
-  Maajaye pehle aag lagi qaimagah mein
-
+  Maajaye pehle aag lagi qaimagaah mein
   Har daagh ek taaza qayamat thi raah mein
-
-  Bachi ki hichkiyon ka hai manzar nigah mein
-
+  Bachi ki hichkiyon ka hai manzar nigaah mein
   Zindan e shaam mein hai sakina yahan nahi
 
-
   3
-
-  Abbas e naamwar jo haram ka tha pasban
-
+  Abbas e naamwar jo haram ka tha paasban
   Roti thi yaad karke jise saari bibiyan
-
-  Be-aas jiski laash pa thay shaahe do jahan
-
+  Be-aas jiski laash pe thay shaahe do jahan
   Laasha kahin tha haath kahin aur alam kahin
 
-
   4
-
-  Bhaiya hamare waade ke taqweel hogayi
-
+  Bhaiya hamare waade ki takmeel hogayi
   Aisa safar huwa hai ke sar par rida na thi
-
   Darbar e shaam mein thi qayamat ki bebasi
-
-  Roodad e gham sunane ki ab taaqat bhi ab nahi
-
+  Roodad e gham sunaane ki ab taaqat bhi nahi
 
   5
-
   Laila tadap rahi thi ke dilbar nahi raha
-
   Lakhte jigar shabihe payambar nahi raha
-
   Rone ko maa to reh gayi akbar nahi raha
-
   Chehlum jawan bete ka aur maadare hazeen
 
-
   6
-
   Farwa ko yaad qasim e naushaah aagaya
-
   Pahuncha jo qatlgaah mein dulha bana hua
-
   Tukde mile thay jism ke laasha nahi mila
-
   Jis ke lahoo se surkh hui thi yehi zameen
 
-
   7
-
   Abbas tum nahi thay qayamat guzar gayi
-
   Mai karbala se shaam talak nange sar gayi
-
-  Godhi ke paale mar gaye mai kyun na mar gayi
-
+  Godi ke paale mar gaye mai kyun na mar gayi
   Zainab tadap rahi thi larazne lagi zameen
 
-
   8
-
   Kehti thi ye rabab bacha lijiye mujhe
-
   Maula lehad mein apni chupa lijiye mujhe
-
   Ghar jaa ke kya karun ye bata dijiye mujhe
-
   Sunsaan godh ho gayi waali koi nahi
 
-
   9
-
-  Ehle jahan ko hogi agar haq ki justuju
-
+  Ahle jahan ko hogi agar haq ki justuju
   Akhtar asar dikhaega mazloom ka lahoo
-
   Hai ghamzada bahan ki yahi ek aarzoo
-
-  Abaad zayareen se hojaye ye zameen'
+  Aabaad zayareen se hojaye ye zameen
 # source_id: nohayonline:e3f184e932b415bdc66d
 # source_url: https://www.nohayonline.com/details_content.php?id=184
 # raw_sha256: da72f19566e8674e4313c248c7a871c60313c7da27038d2a74d93b9bc1f8ac5b
