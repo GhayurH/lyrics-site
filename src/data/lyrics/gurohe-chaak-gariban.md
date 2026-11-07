@@ -8,95 +8,43 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Jo Fatima ki rag e jaan Ali ka hay dilbar
-
+romanLyrics: |-
+  Jo Fatima ki rag e jaan Ali ka hai dilbar
   Hussain o minni kahain jisay shafa e mehshar
+  Wo jis ka kar diya taraj Karbala mein ghar
+  Musibaton ki hadain khatm ho gayin jis par
 
-  Wo jis ka kar diya taraj Karbala may ghar
-
-  Musibation ki hadain khatm ho gayen jis par
-
+  Guroh e chaak gireban salam karta hai
 
   1
-
-  Garoh e chaak gireban salam karta hay
-
+  Khayam e sheh ka nigehban Hussain ka bhai
+  Wo jis ne ki thi Sakina ki ran mein saqqayi
+  Lab e Furat kate haath jis ke maut aayi
+  Wafa ne jis se jahan mein hayat e nau paayi
 
   2
-
-  Khayam e Sheh ka nigehban Hussain ka bhai
-
-  Wo jis ne ki thi Sakina ki ran may saqqayi
-
-  Lab e Furat katay haath jis ke, moat aayi
-
-  Wafa ne jis se jahan may hayat e nau paayi
-
+  Na maa ka doodh na pani mila jisay wo sagheer
+  Wo jis ko dekh ke tukde jigar ho wo besheer
+  Wo jis ko le gaye maidan mein hazrat e Shabbir
+  Wo jis ka nanha gala aur Hurmala ka teer
 
   3
-
-  Na maa ka doodh na pani mila jisay wo sagheer
-
-  Wo jis ko dekh ke tukrray jigar ho wo besheer
-
-  Wo jis ko le gaye maidan may hazrat e Shabbir
-
-  Wo jis ka nanha gala aur Huramala ka teer
-
+  Jo quwat e dil e Laila tha khoobru wo jawan
+  Wo jis ko dekh ke hota tha Mustafa ka guman
+  Wo jis ne ain e jawani mein khayi dil pe sina
+  Wo jis ke byaah ka maadar ko reh gaya armaan
 
   4
-
-  Jo quwat e dil e Laila tha khoobro wo jawan
-
-  Wo jis ko dekh ke hota tha Mustafa ka guman
-
-  Wo jis ne ain e jawani may khayi dil pe sina
-
-  Wo jis ke biyah ka madar ko reh gaya arman
-
+  Wohi jo thay shahe Karbobala ke dil ka chain
+  Wo kamsini mein jinhe maut aayi haye Hussain
+  Tha jinki maut se qaimon mein ek shor o shain
+  Wo yani Zainab e aali nasab ke noor e ain
 
   5
-
-  Wo jiske byaah ka maadar ko reh gaya armaan
-
-  Guroh e chaak gariban...
-
-  Wohi jo thay shahe karbobala ke dil ka chain
-
-  Wo kamsini mein jinhe maut aayi haye hussain
-
-
-  6
-
-  Tha jinki maut se qaimon mein ek shor o shain
-
-  Wo yani zainab e aali nasab ke noor e ain
-
-  Guroh e chaak gariban...
-
-  Wo jisko seene pa apne sulaate thay sarwar
-
-
-  7
-
-  Wohi jo thay Shah e Karb o bala ke dil ka chain
-
-  Wo kamsini may jinhe moat aayi haey Hussain
-
-  Tha jin ki moat se khaimon may aik shor o shain
-
-  Wo yani Zainab e aali nasb ke noor e ain
-
-
-  8
-
-  Wo jis ko seenay pe apnay sulatay thay Sarwar
-
-  Wo jis ke kano se tapka lahoo chinay gowhar
-
-  Yateem jan ke torrin musibatain jis par
-
-  Rahi aseeron ki jo Shaam tak shareek e safar'
+  Wo jisko seene pe apne sulaate thay Sarwar
+  Wo jis ke kano se tapka lahoo chine gohar
+  Yateem jaan ke todi museebatein jis par
+  Rahi aseeron ki jo shaam tak shareek e safar
 # source_id: nohayonline:0a0d56b9c224f960325b
 # source_url: https://www.nohayonline.com/details_content.php?id=1154
 # raw_sha256: 60b1d592d62a7393da81894d182fabc6b5c84b56afabe7061cdbe81912147e09
@@ -108,41 +56,37 @@ romanLyrics: 'Jo Fatima ki rag e jaan Ali ka hay dilbar
 
 جو فاطمہ کی رگ جان علی کا ہے دلبر
 حسین منی کہے جس کو شافع محشر
-
-۱
 وہ جس کا کر دیا تاراج کربلا میں گھر
 مصیبتوں کی حدیں ختم ہو گیء جس پر
-گروہ چاک گریباں سلام کرتا ہے
-قیام شہ کا نگہباں حسین کا بھای
 
-۲
+گروہ چاک گریباں سلام کرتا ہے
+
+۱
+قیام شہ کا نگہباں حسین کا بھای
 وہ جس نے کی تھی سکینہ کی رن میں سقای
 لب فرات کٹے ہاتھ جس کے موت آی
 وفا نے جس سے جہاں میں حیات نو پای
-گروہ چاک گریباں۔۔۔
 
-۳
+۲
 نہ ماں کا دودھ نہ پانی ملا جسے وہ صغیر
 وہ جس کو دیکھ کے ٹکڑے جگر ہو وہ بے شیر
 وہ جس کو لے گےء میداں میں حضرت شبیر
 وہ جس کا ننھا گلا اور حرملہ کا تیر
 
-۴
+۳
 جو قوت دل لیلیٰ تھا خوبرو وہ جواں
-وہ جس کو دیکھ کے ہوتا تھا ‌مصطفی کا گماں
+وہ جس کو دیکھ کے ہوتا تھا مصطفی کا گماں
 وہ جس نے عین جوانی میں کھای دل پہ سناں
-
-۵
 وہ جس کے بیاہ کا مادر کو رہ گیا ارماں
+
+۴
 وہی جو تھے شہ کربوبلا کے دل کا چین
 وہ کم سنی میں جنہیں موت آی ہاے حسین
-
-۶
 تھا جن کی موت سے خیموں میں اک شور و شین
 وہ یعنی زینب عالی نصب کے نور عین
-وہ جس کو سینے پہ اپنے سلاتے تھے سرور
 
-۷
+۵
+وہ جس کو سینے پہ اپنے سلاتے تھے سرور
 وہ جسکے کانوں سے ٹپکا لہو چھنے گوہر
 یتیم جان کے توڑی مصیبتیں جس پر
 رہی اسیروں کی جو شام تک شریک سفر
