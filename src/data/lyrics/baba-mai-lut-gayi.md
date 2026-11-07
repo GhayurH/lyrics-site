@@ -18,53 +18,48 @@ romanLyrics: |-
   1
   Athara bhaiyon ki behen ab nahi rahi
   Baba badal do naam mai zainab nahi rahi
-  Baba mai lut gayi
   Karbobala basa ke ye zainab ne di sada
-  Baba mai lut gayi
-  Nazrein mila na payenge ek doosre se hum
-  Ay mere baba jaan tumhe abbas ki qasam
-  Aankhein na kholna mere sar par nahi rida
   Baba mai lut gayi
 
   2
+  Nazrein mila na payenge ek doosre se hum
+  Ay mere baba jaan tumhe abbas ki qasam
+  Aankhein na kholna mere sar par nahi rida
+
+  3
   Pehle ke jaisi aap ki beti nahi rahi
   Pehchan'ne mein aap ko kuch dayr yun lagi
   Beenayi bhi gayi meri akbar bhi chal basa
-  Baba mai lut gayi
 
-  3
+  4
   Sar rakh ke zakhmi seene pe royi wo tishnakaam
   Akbar ne kar diya mere parde ka intezaam
   Chehre pe khoon hai mere kadiyal jawan ka
-  Baba mai lut gayi
 
-  4
+  5
   Ujdi hai ek roz mein amma ki kayenat
   Kitne janaze uthe hai is ghar mein ek saath
   Bikhri hui hai dasht mein tasveer e fatema
-  Baba mai lut gayi
 
-  5
+  6
   Shahzadiyon ki tarha se rakha tha aap ne
   Jaate huwe hussain ko saumpa tha aap ne
   Wo dekhiye sina pe hai sar mere bhai ka
-  Baba mai lut gayi
 
-  6
+  7
   Baba najaf khareeb hai har shaam aaungi
   Mai qabr par hussain ki shamme jalaungi
   Tum saath apne le chalo ab kaun hai mera
-  Baba mai lut gayi
 
-  7
+  8
   Ye kehte kehte mir takallum wo ro padi
   Abid ko jalte qaimon se laayi hoon mai abhi
   Beton ka imtehan bhi beti ne de diya
-  Baba mai lut gayi
 # source_id: nohayonline:91d4199e31a6b4d55647
 # source_url: https://www.nohayonline.com/details_content.php?id=3292
 # raw_sha256: f7a752bea5108ea9ba54eb65a87b38151cb66af81af0a9482cd8058d8556ea8f
 ---
+
 ہاے شام غریباں
 عاشور کی وہ شام قیامت کا وہ سماں
 آے نجف سے ملنے علی جس گھڑی وہاں
@@ -73,46 +68,40 @@ romanLyrics: |-
 ۱
 اٹھارہ بھاییوں کی بہن اب نہیں رہی
 بابا بدل دو نام میں زینب نہیں رہی
-بابا میں لٹ گئی
 کربوبلا بسا کے یہ زینب نے دی صدا
-بابا میں لٹ گئی
-نظریں ملا نہ پائیں گے ایک دوسرے سے ہم
-اے میرے بابا جاں تمہیں عباس کی قسم
-آنکھیں نہ کھولنا میرے سر پر نہیں ردا
 بابا میں لٹ گئی
 
 ۲
+نظریں ملا نہ پائیں گے ایک دوسرے سے ہم
+اے میرے بابا جاں تمہیں عباس کی قسم
+آنکھیں نہ کھولنا میرے سر پر نہیں ردا
+
+۳
 پہلے کے جیسی آپ کی بیٹی نہیں رہی
 پہچاننے میں آپ کو کچھ دیر یوں لگی
 بینای بھی گیء میری اکبر بھی چل بسا
-بابا میں لٹ گئی
 
-۳
+۴
 سر رکھ کے زخمی سینے پہ روی وہ تشنہ کام
 اکبر نے کر دیا میرے پردے کا انتظام
 چہرے پہ خون ہے میرے کڑیل جوان کا
-بابا میں لٹ گئی
 
-۴
+۵
 اجڑی ہر ایک روز میں اماں کی کاینات
 کتنے جنازے اٹھے ہے اس گھر میں ایک ساتھ
 بکھری ہوئی ہے دشت میں تصویر فاطمہ
-بابا میں لٹ گئی
 
-۵
+۶
 شہزادیوں کی طرح سے رکھا تھا آپ نے
 جاتے ہوئے حسین کو سونپا تھا آپ نے
 وہ دیکھیےء سناں پہ ہے سر میرے بھائی کا
-بابا میں لٹ گئی
 
-۶
+۷
 بابا نجف قریب ہے ہر شام آؤں گی
 میں قبر پر حسین کی شمعِ جلاؤں گی
 تم ساتھ اپنے لے چلو اب کون ہے میرا
-بابا میں لٹ گئی
 
-۷
+۸
 یہ کہتے کہتے میر تکلم وہ رو پڑی
 عابد کو جلتے خیموں سے لای ہوں میں ابھی
 بیٹوں کا امتحان بھی بیٹی نے دے دیا
-بابا میں لٹ گئی
