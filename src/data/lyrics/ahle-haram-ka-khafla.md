@@ -16,57 +16,46 @@ romanLyrics: |-
   1
   Kis se kahe wo apni musibat
   Paon mein chaale raasta purkhaar
-  Abid e beemar...
 
   2
   Kis ko pukare kisko sada de
   Koi nahi hai uska madadgaar
-  Abid e beemar...
 
   3
   Hai ye sitam ki kaun si manzil
   Saaye mein dunya dhoop mein bemaar
-  Abid e beemar...
 
   4
   Jab se pada hai tauq gale mein
   Saans bhi lena hogaya dushwaar
-  Abid e beemar...
 
   5
   Kis ko nigahein dhoond rahi hai
   Chaaron taraf hai sirf sitamgaar
-  Abid e beemar...
 
   6
   Qaid hai phupiyan wo bhi khule sar
   Sar hai jhukaye bekas o laachar
-  Abid e beemar...
 
   7
   Us ke liye hai raah mein kaante
   Jis pe nichawar khuld ke gulzaar
-  Abid e beemar...
 
   8
   Khoon badan ka pee gaye chaale
   Haathon mein raasha zard hai rukhsaar
-  Abid e beemar...
 
   9
   Thokarein kha kar karta hai sajde
   Dekha nahi hai aisa giraftaar
-  Abid e beemar...
 
   10
   Kyun na wo roye khoon ke aansu
   Naksh hai dil par shaam ka bazaar
-  Abid e beemar...
 
   11
   Hum ne suroor aaj khoon e jigar se
   Dil pa likhe hai nauhe ke ash'aar
-  Abid e beemar...
 # source_id: nohayonline:ebbcdadecc079eaad544
 # source_url: https://www.nohayonline.com/details_content.php?id=3742
 # raw_sha256: 84da142c04f7f401525b67cd5722a41d2b2bb428acfb06129c851807b84dfe35

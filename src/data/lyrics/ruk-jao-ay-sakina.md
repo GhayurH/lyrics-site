@@ -9,38 +9,44 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Tumse bichad ke maa mushkil bahot hai jeena
   Maa ko bhi saath lelo rukh jao ay sakina
+
+  1
   Har simt hai andhera har raah pur qatar hai
   Dushman hai chaar jaanib dil mein chupaye keena
-  Ruk jao ay sakina…
+
+  2
   Kha kha ke tum tamache ghabra gayi ho shayad
   Aa shaam seekh jao bhi aansuon ko peena
-  Ruk jao ay sakina…
+
+  3
   Aajao mai suladun sar zaanuon pe rakh kar
   Zakhmi bahot hai bibi tere pidar ka seena
-  Ruk jaao ay sakina…
+
+  4
   Ammu ko jaane maadar is tarha mat sada do
   Abbas ki jabeen par aajayega pasina
-  Ruk jaao ay sakina…
+
+  5
   Rukh par lahoo jama hai kano se khoon hai jaari
   Beta tadap uthega jaane shaahe madina
-  Ruk jaao ay sakina…
+
+  6
   Hai qaide shaam ki ab tanhaiyan muqaddar
   Bibi naseeb mein ab tere nahi madina
-  Ruk jaao ay sakina…
+
+  7
   Ye bekasi ye ghurbat ye dasht nainawa ka
   Dooba kahan hai aa kar taqdeer ka safeena
-  Ruk jaao ay sakina…
 # source_id: nohayonline:d9b0dc2dea540dbcff90
 # source_url: https://www.nohayonline.com/details_content.php?id=488
 # raw_sha256: 1c68fe81f50a3e2084c67e760d3ea6becf80eeb80fabb29d285d8f4ca06115fc
 ---
-
-۱
 تم سے بچھڑ کے ماں مشکل بہت ہے جینا
 ماں کو بھی ساتھ لے لو رُک جائو اے سکینہ
+
+۱
 ہر سمت ہے اندھیرا ہر راہ پُر خطر ہے
 دُشمن ہے چار جانب دل میں چھُپائے کینہ
 
