@@ -10,12 +10,14 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haye hussain haye asghar
+
   Ek sookha sa sarwar ka gala
   Ek sookha sa asghar ka gala
   Ek maa ki thi maqtal mein sada
   Ek sookha sa asghar ka gala
+
+  1
   Har samt sitam ki baarish mein
   Roti hui ek maa tanha thi
   Khanjar ke talay bhi zehra thi
@@ -75,12 +77,14 @@ romanLyrics: |-
 # raw_sha256: a69b92250642acdfd97c65ccbda77c9a8287126e5c1521382a6a91588c7e7fd8
 ---
 
-۱
 ہاے حسین ہاے اصغر
+
 اک سوکھا سا سرور کا گلا
 اک سوکھا سا اصغر کا گلا
 اک ماں کی تھی مقتل میں صدا
 اک سوکھا سا اصغر کا گلا
+
+۱
 ہر سمت ستم کی بارش میں
 روتی ہوی اک ماں تنہا تھی
 خنجر کے تلے بھی زہرا تھی
