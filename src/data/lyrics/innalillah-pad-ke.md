@@ -11,43 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   Innalillaah pad ke akbar ko
-  
-  1
   Haye sheh ne amaama baandha hai
   Ghar se nikle thay is tarha akbar
   Jaise koi janaza jaata hai
   
-  2
+  1
   Maut jeene ki kar rahi hai dua
   Aur akbar chale hai marne ko
   Umme laila ka mustafa beta
   Zakhm seene pe khaane jaata hai
   
-  3
+  2
   Jaise dil jaa raha ho maqtal mein
   Jaise jaati ho jaan seene se
   Aise apne jawan ke peeche
   Ek mazloom baap chalta hai
   
-  4
+  3
   Kitna pyara hai shaah ko akbar
   Saare zaalim ye baat jaante hai
   Taygh akbar pe chal rahi ha yahan
   Ibne zahra wahan tadapta hai
   
-  5
+  4
   Quwwat e murtaza ye poochti hai
   Sabr e shabbir itna batla de
   Wo to khyber ke dar se wazni tha
   Kaise laasha jawan uthaya hai
   
-  6
+  5
   Ran mein rahwaar se giray akbar
   Shaah qaime ke dar se uth na sake
   Aise dil thaam ke giray maula
   Arsh jaise zameen pe girta hai
   
-  7
+  6
   Ay raza us jawan ke seene se
   Khoon rukta nahi hai roke se
   Sheh ka daaman lahoo mein doob gaya
@@ -58,43 +56,41 @@ romanLyrics: |-
 ---
 
 انا للّٰہ پڑھ کے اکبر کو
-
-۱
 ہاے شہ نے عمامہ باندھا ہے
 گھر سے نکلے تھے اس طرح اکبر
 جیسے کوئی جنازہ جاتا ہے
 
-۲
+۱
 موت جینے کی کر رہی ہے دعا
 اور اکبر چلے ہیں مرنے کو
 ام لیلیٰ کا مصطفیٰ بیٹا
 زخم سینے پہ کھانے جاتا ہے
 
-۳
+۲
 جیسے دل جا رہا ہو مقتل میں
 جیسے جاتی ہو جان سینے سے
 ایسے اپنے جواں کے پیچھے
 اک مظلوم باپ چلتا ہے
 
-۴
+۳
 کتنا پیارا ہے شاہ کو اکبر
 سارے ظالم یہ بات جانتے ہیں
 تیغ اکبر پہ چل رہی ہے یہاں
 ابنِ زہرا وہاں تڑپتا ہے
 
-۵
+۴
 قوت مرتضیٰ یہ پوچھتی ہے
 صبر شبیر اتنا بتلا دے
 وہ تو خیبر کے در سے وزنی تھا
 کیسے لاشہ جواں اٹھایا ہے
 
-۶
+۵
 رن میں رہوار سے گرے اکبر
 شاہ خیمے کے در سے اٹھ نہ سکے
 ایسے دل تھام کے گرے مولا
 عرش جیسے زمیں پہ گرتا ہے
 
-۷
+۶
 اے رضا اس جوان کے سینے سے
 خون رکتا نہیں ہے روکے سے
 شہ کا دامن لہو میں ڈوبا گیا
