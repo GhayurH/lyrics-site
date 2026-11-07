@@ -11,73 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   Hawa ke dosh pe goonji jo ek nayi sada
-  Salaam alaik ibne rasool-e-shahe huda
-  
+  Salaam alaik ibne rasool e shahe huda
+
   1
   Khuda ka shukr ke deedaar aap ka to hua
   Tamaam aseeron ne dekha suye dare kufa
   Jo laash latki hai dar par wo thartharati hai
   Salaam karne ki awaaz usse aati hai
-  
+
   2
-  Tadapke naize se farkhe hussain ne ye kaha
+  Tadapke naize se farqe hussain ne ye kaha
   Alaikum ay watan awaara o qateele jafa
   Adab se abide bemaar yun hue goya
-  Khubool kijiye muslim chacha salaam mera
-  
+  Qubool kijiye muslim chacha salaam mera
+
   3
-  Suna jo hazrate muslim bine aqeel ka naam
+  Suna jo hazrate muslim bin aqeel ka naam
   To ek bibi lagi laash se ye karne kalaam
-  Ki zowjaye muslim ne ye fughan
+  Ki zaujaye muslim ne ye fughan
   Hai mere dono laal kahan
-  
+
   4
   Ehwaal karo kuch unka bayan
-  Hai mere dono laal kahan
   Thay saath jo mere do dilbar
   Wo fidiya kiye maine haq par
-  
-  5
   Jo saath tumhare thay hai kahan
-  Hai mere dono laal kahan
-  Ki zowjaye muslim...
-  Mai basti basti ja'ungi
-  
-  6
-  Aur dhoond ke unko la'ungi
+
+  5
+  Mai basti basti jaungi
+  Aur dhoond ke unko laungi
   Batlaiye kuch to unka nishan
-  Hai mere dono laal kahan
-  Ki zowjaye muslim...
-  
-  7
+
+  6
   Kab tak wo rahe zere saaya
   Aur kuch to taras un par aaya
   Kis ghar mein hai ab tak wo mehman
-  Hai mere dono laal kahan
-  
-  8
-  Ki zowjaye muslim...
+
+  7
   Bas itna bata dije waali
   Dunya to nahi unse khaali
   Kya milgayi unko jaaye amaan
-  
-  9
-  Hai mere dono laal kahan
-  Ki zowjaye muslim...
+
+  8
   Di laasha e muslim ne ye sada
   De sabr ki taaqat tujhko khuda
-  
-  10
   Ho jaayega tujh par jald ayaan
-  Hai mere dono laal kahan
-  Ki zowjaye muslim...
-  Koofe mein anees-e-ehle haram
-  
-  11
-  Thay naala kuna waqt-e-matam
+
+  9
+  Koofe mein anees e ehle haram
+  Thay naala kuna waqt e matam
   Sunkar ye sada mehshar tha ayaan
-  Hai mere dono laal kahan
-  Ki zowjaye muslim...
 # source_id: nohayonline:9a933db1080ccef861eb
 # source_url: https://www.nohayonline.com/details_content.php?id=220
 # raw_sha256: 10072faf4f1a03de55ee94080a44a4abdeb8aebc7abff56847ac1af7b6b3fe2e
@@ -106,48 +89,31 @@ romanLyrics: |-
 
 ۴
 احوال کرو کچھ ان کا بیاں
-ہیں میرے دونوں لعل کہاں
 تھے ساتھ جو میرے دو دل بر
 وہ فدیہ کئے میں نے حق پر
+جو ساتھ تمہارے تھے ہیں کہاں
 
 ۵
-جو ساتھ تمہارے تھے ہیں کہاں
-ہیں میرے دونوں لعل کہاں
-کی زوجہ مسلم
 میں بستی بستی جاوں گی
-
-۶
 اور ڈھونڈ کے ان کو لاوں گی
 بتلائیے کچھ تو ان کا نشاں
-ہیں میرے دونوں لعل کہاں
-کی زوجہ مسلم
 
-۷
+۶
 کب تک وہ رہے زیر سایہ
 اور کچھ تو ترس ان پر آیا
 کس گھر میں ہیں اب تک وہ مہماں
-ہیں میرے دونوں لعل کہاں
 
-۸
-کی زوجہ مسلم
+۷
 بس اتنا بتا دیجئے والی
 دنیا تو نہیں ان سے خالی
 کیا مل گئی ان کو جائے اماں
 
-۹
-ہیں میرے دونوں لعل کہاں
-کی زوجہ مسلم
+۸
 دی لاشہ مسلم نے یہ صدا
 دے صبر کی طاقت تجھ کو خدا
-
-۱۰
 ہو جائے گا تجھ پر جلد عیاں
-ہیں میرے دونوں لعل کہاں
-کی زوجہ مسلم
-کوفے میں انیس اہل حرم
 
-۱۱
+۹
+کوفے میں انیس اہل حرم
 تھے نالہ کناں وقت ماتم
 سن کر یہ صدا محشر تھا عیاں
-ہیں میرے دونوں لعل کہاں
-کی زوجہ مسلم
