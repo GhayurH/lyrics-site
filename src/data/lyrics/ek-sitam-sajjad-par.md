@@ -15,7 +15,7 @@ romanLyrics: |-
   Ek sitam sajjad par aisa hua
   Jab talak jeeta raha rota raha
 
-  2
+  1
   Wo sitam tha beridayi shaam mein
   Sar khule zainab jo aayi shaam mein
   Tauq deta tha duhaayi shaam mein
@@ -71,7 +71,7 @@ romanLyrics: |-
 ایک ستم سجاد پر ایسا ہوا
 جب تلک جیتا رہا روتا رہا
 
-۲
+۱
 وہ ستم تھا بے ردائی شام میں
 سر کھلے زینب جو آی شام میں
 طوق دیتا تھا دہائی شام میں
