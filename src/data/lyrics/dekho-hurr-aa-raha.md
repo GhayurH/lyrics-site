@@ -12,51 +12,50 @@ published: false
 romanLyrics: |-
   Fauj e sitam ko chod ke suye shah e huda
   Dekho hurr aa raha hai
+  Pyase ke paas pyaas wo apni bujhayega
+  Dekho hurr aa raha hai
   
   1
-  Pyase ke paas pyaas wo apni bujhayega
-  
-  2
   Pehnega thodi dayr mein wo khoon bhara kafan
   Aankhon pe pattiyan hai to haathon mein hai rasan
   Mujrim ki tarha soorate qaidi bana hua
   
-  3
+  2
   Maula meri khata'on ko kar dijiye bihil
   Bete ke saath aata hai sharminda o khajil
   Lene ko us ke shaah ka akbar bhi jayega
   
-  4
+  3
   Rote huwe wo qadmon se sheh ke lipat gaya
   Bola khata maaf ho ay sibte mustafa
   Shah ne utha ke usko galay se laga liya
   
-  5
+  4
   Fizza se ro ke kehne lage khwahar e imam
   Is taazah mehman ko hamara kaho salam
   Binte al? ke qaime mein pahunchi jo ye sada
   
-  6
+  5
   Hurr e jari ke lene ko badne lage hussain
   Abbas se ye kehne lage shaah e mashraqain
   Bhaiya hamari fatha ka aelaan ho gaya
   
-  7
+  6
   Pehle jo ibne hurr gaya aur qatl ho gaya
   Laasha uthaane sheh bhi chale hurr ke hamnawa
   Fauje adoo ne haste huwe shor ye kiya
   
-  8
+  7
   Laasha utha ke sheh chale suye qaimagah
   Hurr ka kamar pe haath tha aur thi labon pe aah
   Maqtal mein goonjti thi kisi bibi ki sada
   
-  9
+  8
   Bete ke baad hurr ne bhi izne wigah liya
   Jangal se jaise sher ne wo hamla kar diya
   Thi al'amaan ke shor mein dushman ki ye sada
   
-  10
+  9
   Hurr ki jabeen pe baandha jo rumaal e fatema
   Shabbir ne ay majid o mukhtar di nida
   Amma tumhare bete ka shedayi mar gaya
@@ -66,11 +65,11 @@ romanLyrics: |-
 ---
 
 فوج ستم کو چھوڑ کے سوے شہ ھدیٰ
-دہکھو حُر آ رہا ہے
-
-۱
+دیکھو حُر آ رہا ہے
 پیاسے کے پاس پیاس وہ اپنی بجھاے گا
 دیکھو حُر آ رہا ہے
+
+۱
 پہنے گا تھوڑی دیر میں وہ خوں بھرا کفن
 آنکھوں پہ پٹیاں ہیں تو ہاتھوں میں ہے رسن
 مجرم کی طرح صورت قیدی بنا ہوا
