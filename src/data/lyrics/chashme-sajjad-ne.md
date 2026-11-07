@@ -14,10 +14,10 @@ romanLyrics: |-
   Mushkil kusha ke potay ko qaidi banate hai
   Koofa wohi hai jiske ali hukmran rahe
   Unhi ki betiyon ko khule sar phirate hai
-
-  1
   Chashme sajjad ne har dard ka manzar dekha
   Noke naiza pe sare sibte payambar dekha
+
+  1
   Khoon rone lagi sajjad ki aankhein payham
   Jab se maa behno ko balwe mein khule sar dekha
 
@@ -56,10 +56,10 @@ romanLyrics: |-
 مشکل کشا کے پوتی کو قیدی بناتے ہیں
 کوفہ وہی ہے جسکے علی حکمراں رہے
 انہیں کی بیٹیوں کو کھلے سر پھراتے ہیں
-
-۱
 چشم سجاد نے ہر درد کا منظر دیکھا
 نوکِ نیزہ پہ سر سبط پیمبر دیکھا
+
+۱
 خون رونے لگی سجاد کی آنکھیں پیہم
 جب سے ماں بہنوں کو بلوے میں کھلے سر دیکھا
 
