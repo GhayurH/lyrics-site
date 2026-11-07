@@ -12,31 +12,29 @@ published: false
 romanLyrics: |-
   Ay shimr e layeen tu kya kaat raha hai
   Ay qaatil e shabbir tu kya kaat raha hai
-  
-  1
   Dar asl payambar ka gala kaat raha hai
-  
-  2
+
+  1
   Jaari hai labe shaah pe tasbeeh e elaahi
   Sheh rag nahi tu zikre khuda kaat raha hai
-  
-  3
+
+  2
   Raahon mein kisi shaks ne sajjad se poocha
   Kya jurm hai kyun sakht saza kaat raha hai
-  
-  4
+
+  3
   Kaano mein sakina ke hai rayt ke zarre
   Har zarra hi kaante ki tarha kaat raha hai
-  
-  5
+
+  4
   Naize ki ani chadare zainab mein adi hai
   Naiza sar e zainab ki rida kaat raha hai
-  
-  6
+
+  5
   Gardan mein muhaari ke pada tauq hai bhaari
   Aur paon ko bedi ka kada kaat raha hai
-  
-  7
+
+  6
   Tauqeer dua aamad e mahdi ki kiya kar
   Ye waqt kathan maula bada kaat raha hai
 # source_id: nohayonline:97c0e90112e4f4105e41
@@ -46,30 +44,28 @@ romanLyrics: |-
 
 اے شمر لعیں تو کیا کاٹ رہا ہے
 اے قاتل شبیر تو کیا کاٹ رہا ہے
-
-۱
 در اصل پیمبر کا گلا کاٹ رہا ہے
 
-۲
+۱
 جاری ہے لب شاہ پہ تسبیح الٰہی
 شہ رگ نہیں تو ذکرِ خدا کاٹ رہا ہے
 
-۳
+۲
 راہوں میں کسی شخص نے سجاد سے پوچھا
 کیا جرم ہے کیوں سخت سزا کاٹ رہا ہے
 
-۴
+۳
 کانوں میں سکینہ کےہے ریت کے زرے
 ہر زرہ ہی کانٹے کی طرح کاٹ رہا ہے
 
-۵
+۴
 نیزے کی انی چادر زینب میں اڑی ہے
 نیزہ سر زینب کی ردا کاٹ رہا ہے
 
-۶
+۵
 گردن میں مہاری کے پڑا طوق ہے بھاری
 اور پاؤں کو بیڑی کا کڑا کاٹ رہا ہے
 
-۷
+۶
 توقیر دعا آمد مہدی کی کیا کر
 یہ وقت کٹھن مولا بڑا کاٹ رہا ہے
