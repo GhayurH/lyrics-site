@@ -12,78 +12,77 @@ published: false
 romanLyrics: |-
   Dekho maula ali sabhi ka hai
   Saaf farmaan ye nabi ka hai
-  Dekho maula ali sabhi ka hai
-  
+
   1
   Rang aur nasl aur zuban kya hai
   Behrobar uar aasman kya hai
   Chand kya cheez kehkashan kya hai
   Roshni sab ali se paate hai
   Faisla khud ye roshni ka hai
-  
+
   2
   Kya arab kya ajam ki wus'at hai
   Inki charon taraf hukumat hai
   Zikr inka badi ibaadat hai
   Pad ke naad e ali nabi ne kaha
   Naam mushkil kusha isi ka hai
-  
+
   3
   Rab ne shamsheer di nabi ne alam
   Rakhe dosh e nabi pe kis ne qadam
   Tode kaabe mein jaa ke kis ne sanam
   Palta hai kis ke hukm se suraj
   Maujiza aur kya kisi ka hai
-  
+
   4
   Aeliya ya bul hassan ali maula
   Murtuza bu turab aur aaqa
   Sher e yazdan nussairiyon ka khuda
   Itne ausaaf ksi ne paaye hai
   Kis ka har kaam bandagi ka hai
-  
+
   5
   Kis ne goondha khameer e adam ko
   Bante dekha hai kis ne aalam ko
   Kis ne paida kiya hai mausam ko
   Nehje asraar padh ke dekho to
   Kaam ye sab ka sab ali ka hai
-  
+
   6
   Chauda sadiyon se kis ka matam hai
   Kis se mansoob ye moharram hai
   Kis ke gham mein harr aankh pur nam hai
   Kis ne quran sunaya naize par
   Haan ye farzand bhi ali ka hai
-  
+
   7
   Kis ne sajde mein zarb khaayi hai
   Innama kis ke haq mein aayi hai
   Hal ataa kya payaam laayi hai
   Fuzto be rabbe kaaba ksi ne kaha
   Kaun manshoor zindagi ka hai
-  
+
   8
   Karbala mein luta hai kis ka ghar
   Kis ke bete ka sar tha naize par
   Kis ki beti ki chin gayi chadar
   Kis ke bachon ki pyaas par ab tak
   Nauha darya pe tashangi ka hai
-  
+
   9
   Kis ke pothe ke paon mein zanjeer
   Daali aada ne haye be taqseer
   Betiyan kis ki hogayi thi aseer
   Baazu kis ke pisar ke kaate gaye
   Sisila kyun ye dushmani ka hai
-  
+
   10
   Wo sakina wo dukhtare shabbir
   Jiska daada ho khud janabe ameer
   Jaari kaano se uske khoon ki lakheer
   Jisko mar ke rehaai mil na saki
   Marte dam naara ye usi ka hai
-  
+
   11
   Ye jo farhan ashk o girya hai
   Majlis e gham mein ye jo nauha hai
@@ -97,7 +96,6 @@ romanLyrics: |-
 
 دیکھو مولا علی سبھی کا ہے
 صاف فرمان یہ نبی کا ہے
-دیکھو مولا علی سبھی کا ہے
 
 ۱
 رنگ اور نسل اور زباں کیا ہے
