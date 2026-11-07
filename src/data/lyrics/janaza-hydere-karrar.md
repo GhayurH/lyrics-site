@@ -18,32 +18,28 @@ romanLyrics: |-
   Rote hai sab sun ke nauha zainabe ghamkhar ka
   Baap bhi ab jaa raha hai maa ka saaya bhi nahi
   Haye tanhaai ka aalam shaah ke ghar baar ka
-
-  2
   Zainab o kulsoom kaise dekhengi baba ka haal
   Sar do paara ho chuka haid zakhm hai talwaar ka
-  Ghar se uth'ta hai...
+
+  2
   Kehte hai abbas ro kar ay mere bhaiya hussain
   Ye safar hai aakhri khaaliq ke rozedaar ka
-
-  3
   Ro diye ghar ki taraf aate huwe zakhmi ali
   Jis ghadi dekha tha manzar kufe ke bazaar ka
-  Ghar se uth'ta hai...
+
+  3
   Ye hassan bole sambhalo bibiyon ko ay hussain
   Dekha jayega na manzar aakhri deedar ka
-
-  4
   Hazrate abbas ki choti behan behaal hai
   Ab yateema hai laqab is kamsin o nachaar ka
-  Ghar se uth'ta hai...
+
+  4
   Zainab e dilgeer ki chadar ko hyder choom kar
   Dayr tak dheka kiye chehra alam bardaar ka
-
-  5
   Ro diye be-saakhta beti ko lipta kar ali
   Yaad us dam aagaya manzar bhare darbar ka
-  Ghar se uth'ta hai...
+
+  5
   Dafn majid kar rahe thay murtaza ko jab hassan
   Haath ubhra qabr se tab ahmed e mukhtar ka
 # source_id: nohayonline:2e1ad40aa7d8df8bc944
@@ -58,31 +54,27 @@ romanLyrics: |-
 روتے ہیں سن کے نوحہ زینب غم خوار کا
 باپ بھی اب جا رہا ہے ماں کا سایہ بھی نہیں
 ہاے تنہائی کا عالم شاہ کے گھر بار کا
-
-۲
 زینب و کلثوم کیسے دیکھے گی بابا کا حال
 سر دو پارہ ہو چکا ہے زخم ہے تلوار کا
-گھر سے اٹھتا ہے۔۔۔
+
+۲
 کہتے ہیں عباس رو کر اے میرے بھیا حسین
 یہ سفر ہے آخری خالق کے روزے دار کا
-
-۳
 رو دیےء گھر کی طرف آتے ہوے زخمی علی
 جس گھڑی دیکھا تھا منظر کوفے کے بازار کا
-گھر سے اٹھتا ہے۔۔۔
+
+۳
 یہ حسن بولے سنبھا لو بی بیوں کو اے حسین
 دیکھا جاے گا نہ منظر آخری دیدار کا
-
-۴
 حضرتِ عبّاس کی چھوٹی بہن بے حال ہے
 اب یتیمہ ہے لقب اس کمسن و ناچار کا
-گھر سے اٹھتا ہے۔۔۔
+
+۴
 زینب دلگیر کی چادر کو حیدر چوم کر
 دیر تک دیکھا کےء چہرہ علمبردار کا
-
-۵
 رو دیےء بے ساختہ بیٹی کو لپٹا کر علی
 یاد اس دم آ گیا منظر بھرے دربار کا
-گھر سے اٹھتا ہے۔۔۔
+
+۵
 دفن ماجد کر رہے تھے مرتظی کو جب حسن
 ہاتھ ابھرا قبر سے تب احمد مختار کا

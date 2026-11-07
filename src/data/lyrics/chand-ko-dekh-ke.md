@@ -18,32 +18,28 @@ romanLyrics: |-
   Aa gaya maahe moharram ka nahi aaye hussain
   Yaad pardes mein aati hai lehad amma ki
   Dil ka ehwaal sunane ko kahan jaye hussain
-
-  2
   Aap aaye na khabar aayi na akbar aaye
   Kaise is haal mein sughra se jiya jaye hussain
-  Chand ko dekh ke...
+
+  2
   Jab se ye chand moharram ka nazar aaya hai
   Amma roti hai tujhe mere maajaye hussain
-
-  3
   Koi tasveer to zahra ki rahi parde mein
   Ye to acha hua sughra ko nahi laaye hussain
-  Chand ko dekh ke...
+
+  3
   Naam par shaah ne akbar ke khareedi hai zameen
   Kaise jageer tujhe bhai ki dikhlaye hussain
-
-  4
   Eid bhi sog ke aalam mein guzaari us ne
   Haye akbar kabhi kehti thi kabhi haye hussain
-  Chand ko dekh ke...
+
+  4
   Mustakhil shaah ki aankhon se thay aansu jaari
   Khat e sughra ko mukammal nahi padh paaye hussain
-
-  5
   Ek ek beti se ruqsat huwe qaime mein magar
   Haye afsos ke sughra se na mil paaye hussain
-  Chand ko dekh ke...
+
+  5
   Likh ke nauha ye takallum ne dua maangi hai
   Har azadar ko ashoor pe bulwaye hussain
 # source_id: nohayonline:4d356e5aade7e07bce43
@@ -58,31 +54,27 @@ romanLyrics: |-
 آ گیا ماہ محرم کا نہیں آے حسین
 یاد پردیس میں آتی ہے لحد اماں کی
 دل کا احوال سنانے کو کہاں جاے حسین
-
-۲
 آپ آے نہ خبر آی نہ اکبر آے
 کیسے اس حال میں صغرا سے جیا جاے حسین
-چاند کو دیکھ کے۔۔۔
+
+۲
 جب سے یہ چاند محرم کا نظر آیا ہے
 اماں روتی ہے تجھے میرے مانجاے حسین
-
-۳
 کوئی تصویر تو زہرا کی رہی پردے میں
 یہ تو اچھا ہوا صغرا کو نہیں لاے حسین
-چاند کو دیکھ کے۔۔۔
+
+۳
 نام پر شاہ نے اکبر کے خریدی ہے زمیں
 کیسے جاگیر تجھے بھای کی دکھلاے حسین
-
-۴
 عید بھی سوگ کے عالم میں گزاری اس نے
 ہاے اکبر کبھی کہتی تھی کبھی ہاے حسین
-چاند کو دیکھ کے۔۔۔
+
+۴
 مستقل شاہ کی آنکھوں سے تھے آنسوں جاری
 خط صغرا کو مکمل نہیں پڑھ پاے حسین
-
-۵
 اک اک بیٹی سے رخصت ہوے خیمے میں مگر
 ہاے آفسوس کے صغرا سے نہ مل پاے حسین
-چاند کو دیکھ کے۔۔۔
+
+۵
 لکھ کے نوحہ یہ تکلم نے دعا مانگی ہے
 ہر عزادار کو عاشور پہ بلواے حسین

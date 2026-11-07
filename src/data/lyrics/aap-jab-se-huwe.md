@@ -18,39 +18,34 @@ romanLyrics: |-
   Fatema ka hai bus khuda baba
   Pehle amma ko khoya ab tumko
   Paas zahra ke kya bacha baba
-
-  2
   Aap ke baad guzre din aise
   Fatema aur nahi jafa baba
-  Aap jab se huwe juda...
+
+  2
   Lakdiyan aag le ke aaya koi
   Aur jalaya tha dar mera baba
-
-  3
   Waasta aap ka diya maine
   Phir bhi zaalim nahi ruka baba
-  Aap jab se huwe juda...
+
+  3
   Aap ke gham mein rona chaaha agar
   Mujhko rone nahi diya baba
-
-  4
   Har masayab ki inteha hai yehi
   Mera mohsin nahi raha baba
-  Aap jab se huwe juda...
+
+  4
   Baad e mohsin samajh gayi hoo mai
   Karbala ki hai ibteda baba
-
-  5
   Nafs apna kaha jise tumne
   Uski khaatir kare dua baba
-  Aap jab se huwe juda...
+
+  5
   Ab to milta nahi jawabe salaam
   Haal e hyder hai is tarha baba
-
-  6
   Naam lewa sahabiyo ne tere
   Haq bhi cheena yateem ka baba
-  Aap jab se huwe juda...
+
+  6
   Najm o rehan par bhi kar do karam
   Hai ye zahra ki ilteja baba
 # source_id: nohayonline:8d4234a8cb8b4b9f3372
@@ -65,38 +60,33 @@ romanLyrics: |-
 فاطمہ کا ہے بس خدا بابا
 پہلے اماں کو کھویا اب تم کو
 پاس زہرا کے کیا بچا بابا
-
-۲
 آپ کے بعد گزرے دن ایسے
 فاطمہ اور نیء جفا بابا
-آپ جب سے ہوے جدا۔۔۔
+
+۲
 لکڑیاں آگ لے کے آیا کوئی
 اور جلایا تھا در میرا بابا
-
-۳
 واسطہ آپ کا دیا میں نے
 پھر بھی ظالم نہیں رکا بابا
-آپ جب سے ہوے جدا۔۔۔
+
+۳
 آپ کے غم میں رونا چاہا اگر
 مجھکو رونے نہیں دیا بابا
-
-۴
 ہر مصائب کی انتہا ہے یہی
 میرا محسن نہیں رہا بابا
-آپ جب سے ہوے جدا۔۔۔
+
+۴
 بعد محسن سمجھ گیء ہوں میں
 کربلا کی ہے ابتداء بابا
-
-۵
 نفس اپنا کہا جسے تم‌ نے
 اسکی خاطر کرے دعا بابا
-آپ جب سے ہوے جدا۔۔۔
+
+۵
 اب تو ملتا نہیں جواب سلام
 حال حیدر ہے اس طرح بابا
-
-۶
 نام لیوا صحابیوں نے تیرے
 حق بھی چھینا یتیم کا بابا
-آپ جب سے ہوے جدا۔۔۔
+
+۶
 نجم و ریحان پر بھی کر دو کرم
 ہے یہ زہرا کی التجاء بابا

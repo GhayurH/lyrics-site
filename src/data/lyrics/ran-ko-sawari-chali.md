@@ -19,30 +19,25 @@ romanLyrics: |-
   Is tarha jo shaahe shohda rote hai bibi
   Sarwar se alamdar juda hote hai bibi
   Sheh ke alamdar ki ran ko sawari chali
-
-  2
   Saahib e talwaar ki ran ko sawari chali
   Kehte thay shaah e zaman reh gaya mai bewatan
   Bhai wafadaar ki ran ko sawari chali
-  Sheh ke alamdar ki...
 
-  3
+  2
   Seene ko sheh koot ke kehte sakina se thay
   Le tere ghamkhwar ki ran ko sawari chali
-  Sheh ke alamdar ki...
+
+  3
   Kham na ho kyun kar kamar kis tarha ay daad gar
+  Mere madad gaar ki ran ko sawari chali
 
   4
-  Mere madad gaar ki ran ko sawari chali
-  Sheh ke alamdar ki...
   Beti se sheh ne kaha layenge pani chacha
   Ghazi o jarraar ki ran ko sawari chali
 
   5
-  Sheh ke alamdar ki...
   Sayyade aali baham kehti thay ba chashme nam
   Faatah e ghaffaar ki ran ko sawari chali
-  Sheh ke alamdar ki...
 # source_id: nohayonline:5d1a13804a6dffe37ca7
 # source_url: https://www.nohayonline.com/details_content.php?id=2037
 # raw_sha256: 02561a916c1f311304e25204e21cb21beada155fe9dcae79fa94bca489f0d1d2
@@ -57,27 +52,22 @@ romanLyrics: |-
 اس طرح جو شاہِ شہدا روتے ہیں بی بی
 سرور سے علمدار جدا ہوتے ہیں بی بی
 شہ کے علمدار کی رن کو سواری چلی
-
-۲
 صاحبِ تلوار کی رن کو سواری چلی
 کہتے تھے شاہ زمن رہگیا میں بے وطن
 بھائ وفادار کی رن کو سواری چلی
-شہ کے علمدار کی۔۔۔
 
-۳
+۲
 سینے کو شہ کوٹ کے کہتے سکینہ سے تھے
 لے تیرے غم خوار کی رن کو سواری چلی
-شہ کے علمدار کی۔۔۔
+
+۳
 غم نہ ہو کیوںکر قمر کس طرح اۓ داد گر
+میرے مدگار کی رن کو سواری چلی
 
 ۴
-میرے مدگار کی رن کو سواری چلی
-شہ کے علمدار کی۔۔۔
 بیٹی سے شہ نے کہا لائنگے پانی چچا
 غازی و جرّار کی رن کو سواری چلی
 
 ۵
-شہ کے علمدار کی۔۔۔
 سیّدِ عالی بہم کہتی تھی با چشمِ نم
 فاتحہِ غفّار کی رن کو سواری چلی
-شہ کے علمدار کی۔۔۔
