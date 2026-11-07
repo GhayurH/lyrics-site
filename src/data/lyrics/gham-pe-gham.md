@@ -12,42 +12,43 @@ published: false
 romanLyrics: |-
   Gham pe gham sughra ko tadpate rahe
   Ghash pe ghash bemaar ko aate rahe
+
+  1
   Karbala ka haal zainab ka bayaan
   Ashk sughra ke huwe us dam rawan
   Lut chuka bibi hamara kaarwan
-  Gham pe gham sughra ko tadpate rahe
-  
-  1
+
+  2
   Ran mein godhi ke pale bhi reh gaye
   Har koi raahe khuda mein jaa chuke
   Saath ab aun o mohamed na rahe
-  
-  2
+
+  3
   Baand kar sehra gaye ibne hassan
   Hogaye pamaal ran mein gul badan
   Ashqiyan ghodon ko daudaate rahe
-  
-  3
+
+  4
   Khogaya baysheer ek tashna dahan
   Saath aa na paaye wo shireen sukhan
   Jal chuka zehra ka ghar jaane chaman
-  
-  4
+
+  5
   Nehr par pahunche jo saqqa e haram
   Hogaye abbas ke baazu qalam
   Hogaye jab berida sughra bhi hum
-  
-  5
+
+  6
   Thokare shabbir wo khaate rahe
   Kya kahun qaime se jab akbar gaye
   Laasha e akbar pe sarwar gir pade
-  
-  6
+
+  7
   Shaah e deen ke waaste maqtal saja
   Sajda e aakhar mein unk sar kata
   Aagayi maqtal mein roti fatema
-  
-  7
+
+  8
   Bekason par chaayi thi shaam e alam
   Padte hai saber jo nauha dam ba dam
   Aaj hai iqbal pe sheh ka karam
@@ -58,42 +59,43 @@ romanLyrics: |-
 
 غم پہ غم صغرا کو تڑپتی رہے
 غش پہ غش بیمار کو آتے رہے
+
+۱
 کربلا کا حال زینب کا بیاں
 اشک صغرا کے ہوے اس دم رواں
 لٹ چکا بی بی ہمارا کارواں
-غم پہ غم صغرا کو تڑپتی رہے
 
-۱
+۲
 رن میں گودی کے پالے بھی رہ گےء
 ہر کوئی راہ خدا میں جا چکے
 ساتھ اب عون و محمد نہ رہے
 
-۲
+۳
 باندھ کر سہرا گےء ابنِ حسن
 ہو گےء پامال رن میں گل بدن
 اشقیاء گھوڑوں کو دوڑاتے رہے
 
-۳
+۴
 کھو گےء بے شیر ایک تشنہ دہن
 ساتھ آ نہ پائے وہ شیریں سخن
 جل چکا زہرا کا گھر جان چمن
 
-۴
+۵
 نہر پر پہنچے جو سقاے حرم
 ہو گےء عباس کے بازو قلم
 ہو گےء جب بے ردا صغرا بھی ہم
 
-۵
+۶
 ٹھوکریں شبیر وہ کھاتے رہے
 کیا کہوں خیمے سب جب اکبر گےء
 لاشہء اکبر پہ سرور گر پڑے
 
-۶
+۷
 شاہ دیں کے واسطے مقتل سجا
 سجدۂ آخر میں ان کا سر کٹا
 آ گیء مقتل میں روتی فاطمہ
 
-۷
+۸
 بیکسوں پر چھای‌ تھی شام الم
 پڑھتے ہے صابر جو نوحہ دم بہ دم
 آج ہے اقبال پہ شہ کا کرم
