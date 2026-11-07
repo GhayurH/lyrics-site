@@ -57,7 +57,6 @@ romanLyrics: |-
   Dena hai agar maa ko pursa
   Irfan aur mazhar ye nauha
   Umme laila ko sunao
-reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 # source_id: nohayonline:782a5a9891eb72518158
 # source_url: https://www.nohayonline.com/details_content.php?id=3195
 # raw_sha256: ea2b84a55fb77ca71be1ef0bc6aa1d6ab4beb440bb644fc3061fb63b3d99a622

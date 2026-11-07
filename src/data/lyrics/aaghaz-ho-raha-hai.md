@@ -32,7 +32,6 @@ romanLyrics: |-
   5
   Ta hashr mere maula mushtaq rahun tera
   Mil jaae sharaf mujko bas teri gulami ka
-reciter: Hasan Sadiq
 # source_id: nohayonline:bebf4c09ff8d3e94b4f0
 # source_url: https://www.nohayonline.com/details_content.php?id=2216
 # raw_sha256: 2243d14f01815bf473df634ca4c542e5009d231ce2c411b72b25e694d5b207f2
