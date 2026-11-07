@@ -19,7 +19,6 @@ romanLyrics: |-
   Baade shabbir hai saani e khaafila
   Dasht mein berida
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 
   2
   Zulm hadh se bada qaima qaima jala
@@ -31,7 +30,6 @@ romanLyrics: |-
   Kya qayamat hai ye noke naiza pe hai
   Farse shaahe huda
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 
   4
   Muztarib hai behan khatm hai panjetan
@@ -43,7 +41,6 @@ romanLyrics: |-
   Garm reti pa hai rab pa takiya kiye
   Aap ka laadla
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 
   6
   Kab wo anjaan thay sab musalman thay
@@ -55,7 +52,6 @@ romanLyrics: |-
   Pani maanga kiye aur tadpa kiye
   Shaah e karbobala
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 
   8
   Asr e ashoor tha dushmano ke talay
@@ -67,7 +63,6 @@ romanLyrics: |-
   Dasht ki khaak par jisme shabbir se
   Khoon behta raha
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 
   10
   Zulm dekha kare kis se zainab kahe
@@ -79,7 +74,6 @@ romanLyrics: |-
   Har taraf hai dhuan aap ka ghar jala
   Shola bhadka kiya
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 
   12
   Koi yawar nahi jal raha hai makaan
@@ -91,7 +85,6 @@ romanLyrics: |-
   Roti hai bibiyan laasha abbas ka
   Nehr par hai pada
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 
   14
   Gham ki hai inteha roti hai karbala
@@ -103,7 +96,6 @@ romanLyrics: |-
   Jaanib e shaam ab ek rasan mein bandha
   Jaata hai khaafila
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 
   16
   Kaise mahir bayan gham ki ho daastan
@@ -115,7 +107,6 @@ romanLyrics: |-
   Lab par zainab ke hai ay nabi e khuda
   Aaiye karbala
   Khuld se mustafa dekhiye to zara
-  Manzar e karbala...
 # source_id: nohayonline:a96548398de36f9e64e2
 # source_url: https://www.nohayonline.com/details_content.php?id=1203
 # raw_sha256: 98fff75cb58ed823eaee376bdee2bfcbe9e0f8fc021c664d366c5ef0be9816a4
@@ -129,7 +120,6 @@ romanLyrics: |-
 بعد شبیر ہے ثانیء قافلہ
 دشت میں بے ردا
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔
 
 ۲
 ظلم حد سے بڑھا خیمہ خیمہ جلا
@@ -141,7 +131,6 @@ romanLyrics: |-
 کیا قیامت ہے یہ نوک نیزہ پہ ہے
 فرس شاہ ہدا
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔
 
 ۴
 مضطرب ہے بہن ختم ہے پنجتن
@@ -153,7 +142,6 @@ romanLyrics: |-
 گرم ریتی پہ ہے رب پہ تکیہ کیےء
 آپ کا لاڈلا
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔
 
 ۶
 کب وہ انجان تھے سب مسلمان تھے
@@ -165,7 +153,6 @@ romanLyrics: |-
 پانی مانگا کیےء اور تڑپا کیےء
 شاہ کربوبلا
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔
 
 ۸
 عصر عاشور تھا دشمنوں کے تلے
@@ -177,7 +164,6 @@ romanLyrics: |-
 دشت کی خاک پر جسم شبیر سے
 خون بہتا رہا
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔
 
 ۱۰
 ظلم دیکھا کرے کس سے زینب کہے
@@ -189,7 +175,6 @@ romanLyrics: |-
 ہر طرف ہے دھواں آپ کا گھر جلا
 شعلہ بھڑکا کیا
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔
 
 ۱۲
 کوئی یاور نہیں جل رہا ہے مکاں
@@ -201,7 +186,6 @@ romanLyrics: |-
 روتی ہیں بی بیاں لاشہ عباس کا
 نہر پر ہے پڑا
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔
 
 ۱۴
 غم کی ہے انتہا روتی ہے کربلا
@@ -213,7 +197,6 @@ romanLyrics: |-
 جانب شام اب ایک رسن میں بندھا
 جاتا ہے قافلہ
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔
 
 ۱۶
 کیسے ماہر بیاں غم کی ہو داستاں
@@ -225,4 +208,3 @@ romanLyrics: |-
 لب پر زینب کے ہے اے نبیء خدا
 آییےء کربلا
 خلد سے مصطفیٰ دیکھیےء تو زرا
-منظر کربلا۔۔۔

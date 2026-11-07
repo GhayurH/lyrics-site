@@ -36,7 +36,6 @@ romanLyrics: |-
   4
   Taraayi se chacha ko bhi
   Bula na payenge baba
-  Zaeefi mein mera laasha...
   Mai hamshakle payamabr hoo
 
   5
@@ -47,7 +46,6 @@ romanLyrics: |-
 
   6
   Hata na payenge baba
-  Zaeefi mein mera laasha...
   Mujhe dam tod'ta haathon
   Pe kis tarha se dekhenge
 
@@ -58,7 +56,6 @@ romanLyrics: |-
   Bata na payenge baba
 
   8
-  Zaeefi mein mera laasha...
   Khuda jaane ke qaime tak
   Wo kaise le ke jayenge
   Meri maa ko meri mayyat
@@ -67,7 +64,6 @@ romanLyrics: |-
   Pe wo kaise bulayenge
   Mera khoon se bhara chehra
   Dikha na payenge baba
-  Zaeefi mein mera laasha...
 
   10
   Phupi amma dar e qaima
@@ -78,7 +74,6 @@ romanLyrics: |-
   11
   Mera zakhmi seena un se
   Chupa na payenge baba
-  Zaeefi mein mera laasha...
   Bahot armaan tha maa ko
 
   12
@@ -89,7 +84,6 @@ romanLyrics: |-
 
   13
   Saja na payenge baba
-  Zaeefi mein mera laasha...
   Qayamat ka tha wo manzar
   Khat e sughra tha laashe par
 
@@ -100,7 +94,6 @@ romanLyrics: |-
   Mila na payenge baba
 
   15
-  Zaeefi mein mera laasha...
   Nazar ke saamne thi shadman
   Laashe ali akbar
   Qayamat hogayi barpa
@@ -109,7 +102,6 @@ romanLyrics: |-
   Kaha jab shaah ne ro kar
   Zaeefi mein tera laasha
   Utha na payenge baba
-  Zaeefi mein mera laasha...
 # source_id: nohayonline:c4663535a7b3e2c2b8a2
 # source_url: https://www.nohayonline.com/details_content.php?id=1662
 # raw_sha256: 6d1a3be070db93e3701cffb4478258f756add6e71a3c72683b4a396051ee271a
@@ -140,7 +132,6 @@ romanLyrics: |-
 ۴
 ترای سے چچا کو بھی
 بلا نہ پائیں گے بابا
-ضعیفی میں میرا لاشہ۔۔۔
 میں ہمشکل پیمبر ہوں
 
 ۵
@@ -151,7 +142,6 @@ romanLyrics: |-
 
 ۶
 ہٹا نہ پائیں گے بابا
-ضعیفی میں میرا لاشہ۔۔۔
 مجھے دم توڑتا ہاتھوں
 پہ کس طرح سے دیکھیں گے
 
@@ -162,7 +152,6 @@ romanLyrics: |-
 بتا نہ پائیں گے بابا
 
 ۸
-ضعیفی میں میرا لاشہ۔۔۔
 خدا جانے کے خیمے تک
 وہ کیسے لے کے جاینگے
 میری ماں کو میری میت
@@ -171,7 +160,6 @@ romanLyrics: |-
 پہ وہ کیسے بلاےنگے
 میرا خوں سے بھرا چہرہ
 دکھا نہ پائیں گے بابا
-ضعیفی میں میرا لاشہ۔۔۔
 
 ۱۰
 پھپھی اماں در خیمہ
@@ -182,7 +170,6 @@ romanLyrics: |-
 ۱۱
 میرا زخمی سینہ ان سے
 چھپا نہ پائیں گے بابا
-ضعیفی میں میرا لاشہ۔۔۔
 بہت ارمان تھا ماں کو
 
 ۱۲
@@ -193,7 +180,6 @@ romanLyrics: |-
 
 ۱۳
 سجا نہ پائیں گے بابا
-ضعیفی میں میرا لاشہ۔۔۔
 قیامت کا تھا وہ منظر
 خط صغرا تھا لاشہ پر
 
@@ -204,7 +190,6 @@ romanLyrics: |-
 ملا نہ پائیں گے بابا
 
 ۱۵
-ضعیفی میں میرا لاشہ۔۔۔
 نظر کے سامنے تھی شادماں
 لاش علی اکبر
 قیامت ہوگیء برپا
@@ -213,4 +198,3 @@ romanLyrics: |-
 کہا جب شاہ نے رو کر
 ضعیفی میں تیرا لاشہ
 اٹھا نہ پاےنگے بابا
-ضعیفی میں میرا لاشہ۔۔۔
