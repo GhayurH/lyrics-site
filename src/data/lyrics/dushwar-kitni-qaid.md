@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   Zindan ke andhere qaidi mera imam
 
-  2
+  1
   Dushwar kitni qaid thi kazim imam ki
   Dekhi na kabhi subho aayi na shaam thi
   Haye kis qadar wo kothri tang o tareek thi
@@ -35,7 +35,7 @@ romanLyrics: |-
 ---
 زندان کے اندھیرے قیدی میرا امام
 
-۲
+۱
 دشوار کتنی قید تھی کاظم امام کی
 دیکھی نہ کبھی صبح آی نہ شام تھی
 ہاے کس قدر وہ کوٹھری تنگ و تاریک تھی
