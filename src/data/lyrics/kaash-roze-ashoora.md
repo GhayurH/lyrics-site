@@ -10,12 +10,12 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haye yateemi haye aseeri
   Qaid mein sakina ye keh rahi thi ro ro kar
   Kaash roze ashoora mai bhi mar gayi hoti
   Roz dam nikalta na is tarha se ghut ghut kar
-  Kaash roze ashoora mai bhi mar gayi hoti
+
+  1
   Jo chacha mujhe meri jaan se bhi pyara tha
   Meri pyaas ki khaatir khoon beh gaya uska
   Mai nisaar ho jaati kaash apne ammu par
@@ -63,12 +63,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3605
 # raw_sha256: 57025b14d91365ef80ff7f6d4bade069e700d680fba2bb2a5bd61967c034f126
 ---
-۱
 ہاے یتیمی ہاے اسیری
 قید میں سکینہ یہ کہہ رہی تھی رو رو کر
 کاش روز عاشورہ میں بھی مر گیء ہوتی
 روز دم نکلتا نہ اس طرح سے گھٹ گھٹ کر
-کاش روز عاشورہ میں بھی مر گیء ہوتی
+
+۱
 جو چلنا مجھے میری جاں سے بھی پیارا تھا
 میری پیاس کی خاطر خوں بہہ گیا اس کا
 میں نثار ہو جاتی کاش اپنے عمو پر
