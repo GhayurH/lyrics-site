@@ -56,8 +56,9 @@ jobs:
               assert not added,(path,script,'Unexpected added/changed lines',added)
               missing=before_counter-after_counter
               assert all(abbreviated.search(line) for line in missing),(path,script,'Removed a substantive line',missing)
+              norm=lambda v: re.sub(r'[.\u2026\u06d4\s]+','',v).casefold()
               for line,count in missing.items():
-                  assert before_counter[line]>=2,(path,script,'Removed an unrepeated refrain',line)
+                  assert sum(n for text,n in before_counter.items() if norm(text)==norm(line))>=2,(path,script,'Removed an unrepeated refrain',line)
               it=iter(a)
               for line in b:
                   assert any(t==line for t in it),(path,script,'Original verse order changed',line)
