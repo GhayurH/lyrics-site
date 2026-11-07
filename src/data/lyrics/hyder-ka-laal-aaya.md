@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Kis sher ki aamad hai ke ran kaamp raha hai
   Ran ek taraf charke kohan kaamp raha hai
-
-  1
   Rustom ka badan zer e kafan kaamp raha hai
   Har ek salateen e zaman kaamp raha hai
   Shamsheer bakaf dekh ke hyder ke pisar ko
   Jibreel sameinte hue phirte hai paron ko
+
+  1
   Hyder ka laal aaya tha maidan mein jis ghadi
   Dam ruk gaya sipaah ka rangat bhi thi udi
 
@@ -84,14 +84,15 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1474
 # raw_sha256: 5aeb3abe0f521a160c15c67a8677631646aa9baa946d98572b5b19545e9ac62d
 ---
+
 کس شیر کی آمد ہے کہ رن کانپ رہا ہے
 رن ایک طرف چرخ کہن کانپ رہا ہے
-
-۱
 رستم کا بدن زیر کفن کانپ رہا ہے
 ہر ایک سلاطین زمن کانپ رہا ہے
 شمشیر بکف دیکھ کے حیدر کے پسر کو
 جبریل سمیٹے ہوئے پھرتے ہے پر وں کو
+
+۱
 حیدر کا لال آیا تھا میدان میں جس گھڑی
 دم رک گیا سپاہ کا رنگت بھی تھی اڑی
 
