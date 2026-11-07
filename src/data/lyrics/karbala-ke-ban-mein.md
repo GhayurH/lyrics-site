@@ -8,68 +8,41 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Karbala ke ban mein koi khaafila loota gaya
-
-
-  1
-
+romanLyrics: |-
+  Karbala ke ban mein koi khaafila loota gaya
   Ay azeezon khandane mustufa loota gaya
 
-
-  2
-
+  1
   Hoti hai maa ko tamanna naujawan dulha bane
-
   Umme laila ka ye armaan bekhata loota gaya
 
-
-  3
-
+  2
   Fatema ki betiyon ka aasra abbas thay
-
   Zainab o kulsoom ka wo aasra loota gaya
 
-
-  4
-
+  3
   Asre ashoora ko do bache atash se mar gaye
-
   Nehr par pyason ke dil ka muddua loota gaya
 
-
-  5
-
+  4
   Gyarveen shab roshni dekhi to zainab ne kaha
-
   Zaalimon lootoge ab kya ghar bhara loota gaya
 
-
-  6
-
+  5
   Boli sughra bibiyon ki godhiyon ko dekh kar
-
   Bibiyon nanha sa wo ghuncha bhi kya loota gaya
 
-
-  7
-
+  6
   Ya khuda loota na jaye koi kunba is tarha
-
   Jis tarha zehra ka kunba jaa baja loota gaya
 
-
-  8
-
+  7
   Shaam ke zindan mein aakar mar gayi binte hussain
-
   Maa phupi behno ke dil ka aasra loota gaya
 
-
-  9
-
+  8
   Hulle jannat ke khuda ne bheje jinke waaste
-
-  Pairahan tak us shahe mazloom ka loota gaya'
+  Pairahan tak us shahe mazloom ka loota gaya
 # source_id: nohayonline:d992d72223c8e40f5577
 # source_url: https://www.nohayonline.com/details_content.php?id=711
 # raw_sha256: 67637fa905f036d2d7a7b59c9568676af3606debe141a117b597671e15f335d2
@@ -79,38 +52,36 @@ romanLyrics: 'Karbala ke ban mein koi khaafila loota gaya
 ---
 
 کربلا کے بن میں کوئی قافلہ لُوٹا گیا
-
-۱
 اے عزیز و خاندانِ مصطفیٰ لُوٹا گیا
 
-۲
+۱
 ہوتی ہے ماں کو تمنّا نوجواں دُلہا بنے
 اُم ِ لیلیٰ کا وہ ارماں بے خطا لُوٹا گیا
 
-۳
+۲
 فاطمہ کی بیٹیوں کا آسرا عباس تھے
 زینب و کلثوم کا وہ آسرا لُوٹا گیا
 
-۴
+۳
 عصرِعاشورہ کو دو بچے آتش سے مر گئے
 نہر پر پیاسوں کے دل کا مُدعا لُوٹا گیا
 
-۵
+۴
 گیارہویں شب روشنی دیکھی تو زینب نے کہا
 ظالم لُوٹو گے اب کیا گھر بھرا لُوٹا گیا
 
-۶
+۵
 بولی صغریٰ بیبیوں کی گودیوں کو دیکھ کر
 بیبیوں ننھا سا وہ غنچہ بھی کیا لُوٹا گیا
 
-۷
+۶
 یا خدا لُوٹا نہ جائے کوئی کنبہ اس طرح
 جس طرح زہرا کا کنبہ جا بجا لُوٹا گیا
 
-۸
+۷
 شام کے زندان میں آ کر مر گئی بنتِ حسین
 ماں پھُوپھی بہنوں کے دل کا آسرا لُوٹا گیا
 
-۹
+۸
 ہُلے جنت کے خدا نے بھیجے جن کے واسطے
 پیرہن تک اُس شہِ مظلوم کا لُوٹا گیا
