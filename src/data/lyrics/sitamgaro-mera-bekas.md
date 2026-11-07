@@ -20,54 +20,43 @@ romanLyrics: |-
   Har ek zakhme badan khoon fishan hai pyase ka
   Laga hai teer jabeen par to qalb par naiza
   Kahin sina tan e majrooh par kahin bhaala
+  Koi churi koi khanjar chalane waala hai
 
   2
-  Koi churi koi khanjar chalane waala hai
-  Sitamgaron mera bekas...
   Wo pyaas hai ke nigahon mein sab jahan hai dhuaan
   Wo qalb mein rahi quwat na tan mein taab o tawaan
-
-  3
   Ali ka laal faras par hai khoon mein ghaltan
   Ghareeb o bekas o mazloom be-sahara hai
-  Sitamgaron mera bekas...
-  Kamar shikasta hai bhai ke gham mein sarwar ki
 
-  4
+  3
+  Kamar shikasta hai bhai ke gham mein sarwar ki
   Utha chuke hai zaeefi mein laash akbar ki
   Nazar mein laash hai pamaal ibne shabbar ki
   Abhi to haathon pa asghar ne teer khaaya hai
-  Sitamgaron mera bekas...
 
-  5
+  4
   Jo bosagahe mohamed pa taygh chalti hai
   To gham se khwahare shabbir haath malti hai
   Gala hai khushk to ruk ruk ke jaan nikalti hai
   Zameen kaampti hai aasman ko larza hai
 
-  6
-  Sitamgaron mera bekas...
+  5
   Pisar ke sog mein jee se guzarne waale ko
   Ab aur jeene ka armaan na karne waale ko
   Chale hai maarne jallaad marne waale ko
-
-  7
   Jise bhi dekhiye pyase ke khoon ka pyasa hai
-  Sitamgaron mera bekas...
+
+  6
   Layeen karta hai jab azme qatl pyase ka
   Pisar ke halq pa rakh deti hai gala zehra
-
-  8
   Fiza mein karbobala ki ye goonjti hai sada
   Mere hussain ko naazon se maine paala hai
-  Sitamgaron mera bekas...
-  Nabi ki godh ka paala shaheed hota hai
 
-  9
+  7
+  Nabi ki godh ka paala shaheed hota hai
   Fiza ko sakta hai darya tadap ke rota hai
   Bala ke bann mein ye jawed hashr barpa hai
   Muheet e aalam e imkan sada e zehra hai
-  Sitamgaron mera bekas...
 # source_id: nohayonline:96d36424379d5ae67899
 # source_url: https://www.nohayonline.com/details_content.php?id=3348
 # raw_sha256: 08c37901bd607839186abb02c351f07b6dda03952e9e704718ca7d9a0677aba3
@@ -82,51 +71,40 @@ romanLyrics: |-
 ہر ایک زخم بدن خوں فشاں ہے پیاسے کا
 لگا ہے تیر جبیں پر تو قلب پر نیزہ
 کہیں سناں تن مجروح پر کہیں بھالا
+کوی چھری کوی خنجر چلانے والا ہے
 
 ۲
-کوی چھری کوی خنجر چلانے والا ہے
-ستمگروں میرا بیکس۔۔۔
 وہ پیاس ہے کہ نگاہوں میں سب جہاں ہے دھواں
 وہ قلب میں رہی قوت نہ تن میں تاب و تواں
-
-۳
 علی کا لال فرس پر ہے خون میں غلطاں
 غریب و بیکس و مظلوم بے سہارا ہے
-ستمگروں میرا بیکس۔۔۔
-کمر شکستہ ہے بھای کے غم میں سرور کی
 
-۴
+۳
+کمر شکستہ ہے بھای کے غم میں سرور کی
 اٹھا چکے ہے ضعیفی میں لاش اکبر کی
 نظر میں لاش ہے پامال ابنِ شبر کی
 ابھی تو ہاتھوں پہ اصغر نے تیر کھایا ہے
-ستمگروں میرا بیکس۔۔۔
 
-۵
+۴
 جو بوسہ گاہ محمد پہ تیغ چلتی ہے
 تو غم سے خواہر شبیر ہاتھ ملتی ہے
 گلا ہے خشک تو رک رک کے جاں نکلتی ہے
 زمین کانپتی ہے آسماں کو لرزا ہے
 
-۶
-ستمگروں میرا بیکس۔۔۔
+۵
 پسر کے سوگ میں جی سے گزرنے والے کو
 اب اور جینے کا ارمان کرنے والے کو
 چلے ہیں مارنے جلاد مرنے والے کو
-
-۷
 جسے بھی دیکھیےء پیاسے کے خون کا پیاسا ہے
-ستمگروں میرا بیکس۔۔۔
+
+۶
 لعین کرتا ہے جب ازم قتل پیاسے کا
 پسر کے حلق پہ رکھ دیتی ہے گلا زہرا
-
-۸
 فضا میں کربوبلا کی یہ گونجتی ہیں صدا
 میرے حسین کو نازوں سے میں نے پالا ہے
-ستمگروں میرا بیکس۔۔۔
-نبی کی گود کا پالا شہید ہوتا ہے
 
-۹
+۷
+نبی کی گود کا پالا شہید ہوتا ہے
 فضا کو سکتا ہے دریا تڑپ کے برپا ہے
 بلا کے بن میں یہ جاوید حشر برپا ہے
 محیط عالم امکان صداے زہرا ہے
-ستمگروں میرا بیکس۔۔۔
