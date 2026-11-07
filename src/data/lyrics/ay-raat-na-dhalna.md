@@ -11,38 +11,37 @@ published: false
 romanLyrics: |-
   Ay raat na dhalna ke ujad jayegi zainab
   Bhai se dam e subho bichad jayegi zainab
-  Ay raat na dhalna ke ujad jayegi zainab
-  
+
   1
   Sone de sakina ko ke phir so na sakegi
   Rona bhi jo chaahegi to phir ro na sakegi
   Asghar se mulakaat to phir ho na sakegi
-  
+
   2
   Ghabraye huye laal hai sehmi hui maa'ein
   Jee bhar ke mai de doon ali akbar ko duayein
   Lena hai abhi aun o mohamad ki balayein
-  
+
   3
   Ay raat bikhar ja tere bas may hai jahan tak
   Mit jayenge kal aal-e-payambar ke nishan tak
   Baaqi hai ye manzar ali akbar ki azan tak
-  
+
   4
   Har chand ke bachon ki abhi pyaas hai baaqi
   Kuch aankh may hasrat hai to kuch aas hai baaqi
   Lekin mera bhai mera abbas hai baaqi
-  
+
   5
   Baaqi hai abhi aal-e-mohamed ka safina
   Beti ke sulaane ko hai shabbir ka seena
   Jhoola ali asghar ka jhulaati hai sakina
-  
+
   6
   Kal kaun sunega ye meri aah-o-buka bhi
   Hoga tahe khanjar mere bhai ka gala bhi
   Qaima to kuja sar pe na hogi ye rida bhi
-  
+
   7
   Ay raat ghadi bhar ko tu rehne de sakoon may
   Ghir jayenge nasir mere aada ki safon may
@@ -54,7 +53,6 @@ romanLyrics: |-
 
 اے رات نہ ڈھلنا کہ اجڑ جائے گی زینب
 بھائی سے دم صبح بچھڑ جاے گی زینب
-اے رات نہ ڈھلنا کہ اجڑ جائے گی زینب
 
 ۱
 سونے دے سکینہ کو کہ پھر سو نہ سکے گی
