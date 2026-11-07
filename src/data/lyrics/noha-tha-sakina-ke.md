@@ -12,41 +12,39 @@ published: false
 romanLyrics: |-
   Noha tha sakina ke lab par
   Zindan may andhera gehra hai
-  
-  1
   Mar jaungi tanha darr darr kar
-  
-  2
+
+  1
   Mai kab se sadayein deti hoo
   Kyun sunte nahi faryad meri
   Mai roti nahi ay baba magar
-  
-  3
+
+  2
   Masoom sakina sehmi hui
   Ek kone may simti baithi hai
   Kuch aata nahi bachi ko nazar
-  
-  4
+
+  3
   Jeene ki mujhe kuch aas nahi
   Ab koi bhi mere paas nahi
   Roti hoo akele darr darr kar
-  
-  5
+
+  4
   Ay baba gar mai mar jaun
   To shaam se pehle turbat par
   Ek shamma jala dena aakar
-  
-  6
+
+  5
   Khud shaam ke rehne waale bhi
   Ye soch ke aahein bharte hai
   Kamsin hai bahot sheh ki dukhtar
-  
-  7
+
+  6
   Jo noor thi sheh ki aankhon ka
   Wo bachi andheri qaid may hai
   Har lamha qayamat hai us par
-  
-  8
+
+  7
   Ab iske ujaalon se raushan
   Hai saara zamana ay gohar
   Kehti thi jo bachi ro ro kar
@@ -57,41 +55,39 @@ romanLyrics: |-
 
 نوحہ تھا سکینہ کے لب پر
 زنداں میں اندھیرا گہرا ہے
-
-۱
 مر جائوں گی تنہا ڈر ڈر کر
 
-۲
+۱
 میں کب سے صدائیں دیتی ہوں
 کیوں سُنتے نہیں فریاد میری
 میں روتی نہیں اے بابا مگر
 
-۳
+۲
 معصوم سکینہ سہمی ہوئی
 اک کونے میں سمٹی بیٹھی ہوں
 کچھ آتا نہیں بچی کو نظر
 
-۴
+۳
 جینے کی مجھے کچھ آس نہیں
 اب کوئی بھی میرے پاس نہیں
 روتی ہوں اکیلے ڈر ڈر کر
 
-۵
+۴
 اے بابا گر میں مر جائوں
 تو شام سے پہلے تُربت پر
 اک شمع جلا دینا آ کر
 
-۶
+۵
 خود شام کے رہنے والے بھی
 یہ سوچ کے آہیں بھرتے ہیں
 کم سِن ہے بھوت شہ کی دُختر
 
-۷
+۶
 جو نور تھی شہ کی آنکھوں کا
 وہ بچی اندھیری قید میں ہے
 ہر لمحہ قیامت ہے اُس پر
 
-۸
+۷
 اب اس کے اُجا لوں سے روشن
 ہے سارا زمانہ اے گوہر
 کہتی تھی جو بچی رو رو کر
