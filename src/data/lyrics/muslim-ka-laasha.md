@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   Kufe may phiraya jaata hai
-  
-  1
   Muslim ka laasha eid ke din
   Koi bhi uthane aata nahi
   Bekas ka janaza eid ke din
+
+  1
   Bhai bhi nahi bete bhi nahi
   Koi bhi nahi rone waala
   Muslim ke janaze par baithi
   Roti rahi zahra eid ke din
-  
+
   2
   Ek aah sunayi deti hai
   Ek laash dikhayi deti hai
   Be-saakhta aansu aate hai
   Yaad aaye jo kufa eid ke din
-  
+
   3
   Tooti hai qayamat ye kaisi
   Dono pe nazar hai maula ki
   Muslim ki hameeda roti hai
   Betaab hai sughra eid ke din
-  
+
   4
   Zaalim se bachne ki khaatir
   Zindan se chudane ki khaatir
   Umeed yehi hai bachon ko
   Aayenge baba eid ke din
-  
+
   5
   Muslim ke yateemon ko sheh ne
   Seene se laga kar pyar kiya
   Ye haal yateemi ka logon
   Samjhi thi sakina eid ke din
-  
+
   6
   Ek waar ali ke sajde se
   Muslim ki shahadat tak pahuncha
   Yun aale nabi ko ummat ne
   Har baar rulaya eid ke din
-  
+
   7
   Jis ghar may koi mar jaata hai
   Sab aa kar pursa dete hai
   Hum kisko de maula mehdi
   Muslim ka pursa eid ke din
-  
+
   8
   Dastoor zamane se hai yehi
   Hum ahle aza ka baade namaz
   Hum sun ke masayib dete hai
   Zahra ko pursa eid ke din
-  
+
   9
   Dafnaya nahi kafnaya nahi
   Kaisi ye takallum ghurbat hai
@@ -74,11 +74,11 @@ romanLyrics: |-
 ---
 
 کوفے میں پھرایا جاتا ہے
-
-۱
 مسلم کا لاشہ عید کے دِن
 کوئی بھی اٹھانے آتا نہیں
 بیکس کا جنازہ عید کے دِن
+
+۱
 بھای بھی نہیں بیٹے بھی نہیں
 کوئی بھی نہیں رونے والا
 مسلم کے جنازے پر بیٹھی
