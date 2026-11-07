@@ -20,54 +20,42 @@ romanLyrics: |-
   So jao sakina
   Tum band karo aankhein mai lori sunaaun
   So jao sakina
-
-  2
   Baba to nahi mai tumhe pehlu mein sulaaun
   So jao sakina
   Aankhein ko karo band to phir khwaab dikhega
   Aa jayenge phir khwaab mein milne tumhe baba
-
-  3
   Wo aa nahi sakte yahan ye kaise bataaun
   So jao sakina
-  Tum band karo aankhein...
-  Maana ke bahot dard hai zakhmon mein tumhare
 
-  4
+  2
+  Maana ke bahot dard hai zakhmon mein tumhare
   Zaalim ne gohar cheen ke kaano se utaare
   Mai ashkon ka marham tere zakhmon pe lagaaun
   So jao sakina
-  Tum band karo aankhein...
 
-  5
+  3
   Shehzadi yuhin ab tumhe karna hai guzara
   Qaimon ki jali khaak hi bistar hai tumhara
   Hai garm zameen is liye zaano pe litaaun
   So jao sakina
 
-  6
-  Tum band karo aankhein...
+  4
   Baba ke bina ab tumhe jeena hai meri jaan
   Gham baap ki furqat ka bhi sehna hai meri jaan
   Khud apni yateemi ka mai ehwaal sunaaun
-
-  7
   So jao sakina
-  Tum band karo aankhein...
+
+  5
   Laayegi abhi zauja e hurr koozon mein pani
   Mit jayegi kuch dayr mein ye tashna dahani
-
-  8
   Phil waqt tujhe neend ka ehsaas dilaaun
   So jao sakina
-  Tum band karo aankhein...
-  Zainab ka bayan sunte hi ay safdar o mazhar
 
-  9
+  6
+  Zainab ka bayan sunte hi ay safdar o mazhar
   Kuch dayr ko neend aagayi bachi ko zameen par
   Ye sheh ne kaha khwaab mein seene pe sulaaun
   So jao sakina
-  Tum band karo aankhein...
 # source_id: nohayonline:45d48aca41f4e7f05af9
 # source_url: https://www.nohayonline.com/details_content.php?id=1716
 # raw_sha256: cc8ad3cfedaff4a95a15123b5c59996c63de83b885f4852667584bce08681abd
@@ -82,51 +70,39 @@ romanLyrics: |-
 سو جاؤ سکینہ
 تم بند کرو آنکھیں میں لوری سناؤں
 سو جاؤ سکینہ
-
-۲
 بابا تو نہیں میں تمہیں پہلو میں سلاؤں
 سو جاؤ سکینہ
 آنکھیں تو کرو بند تو پھر خواب دکھے گا
 آ جاےنگے پھر خواب میں ملنے تمہیں بابا
-
-۳
 وہ آ نہیں سکتے یہاں یہ کیسے بتاؤں
 سو جاؤ سکینہ
-تم بند کرو آنکھیں۔۔۔
-مانا کے بہت درد ہے زخموں میں تمہارے
 
-۴
+۲
+مانا کے بہت درد ہے زخموں میں تمہارے
 ظالم نے گوہر چھین کے کانوں سے اتارے
 میں اشکوں کا مرحم تیرے زخموں پہ لگاؤں
 سو جاؤ سکینہ
-تم بند کرو آنکھیں۔۔۔
 
-۵
+۳
 شہزادی یونہی اب تمہیں کرنا ہے گزارا
 خیموں کی جلی خاک ہی بستر ہے تمہارا
 ہے گرم زمیں اس لےء زانوں پہ لٹاوں
 سو جاؤ سکینہ
 
-۶
-تم بند کرو آنکھیں۔۔۔
+۴
 بابا کے بنا اب تمہیں جینا ہے میری جان
 غم باپ کی فرقت کا بھی سہنا ہے میری جان
 خود اپنی یتیمی کا میں احوال سناؤں
-
-۷
 سو جاؤ سکینہ
-تم بند کرو آنکھیں۔۔۔
+
+۵
 لاے گی ابھی زوجہء حر کوزوں میں پانی
 مٹ جاے گی کچھ دیر میں تشنہ دہانی
-
-۸
 پھر وقت تجھے نیند کا احساس دلاؤں
 سو جاؤ سکینہ
-تم بند کرو آنکھیں۔۔۔
-زینب کا بیاں سنتے ہی اے صفدر و مظہر
 
-۹
+۶
+زینب کا بیاں سنتے ہی اے صفدر و مظہر
 کچھ دیر کو نیند آ گیء بچی کو زمیں پر
 یہ شہ نے کہا خواب میں سینے پہ سلاؤں
 سو جاؤ سکینہ
-تم بند کرو آنکھیں۔۔۔

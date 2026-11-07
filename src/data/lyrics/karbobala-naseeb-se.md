@@ -18,46 +18,40 @@ romanLyrics: |-
   Phir laut kar wahan se na aana naseeb ho
   Aankhon ko jab bhi ashk bahana naseeb ho
   Aale nabi ke gham ka bahana naseeb ho
-
-  2
   Aisa dar e hussain pe sajda ho aakhri
   Phir mujhko apna sar na uthana naseeb ho
-  Karbobala naseeb se...
+
+  2
   Parwardigar thokarein dar dar ki kab talak
   Ab mustakhil najaf mein thikana naseeb ho
-
-  3
   Jaisa mila naseeb se ummul baneen ko
   Ab kya kisi ko aisa gharana naseeb ho
-  Karbobala naseeb se...
+
+  3
   Mehshar ye aarzu hai ke be-ghusl o be-kafan
   Karbobala ki teh mein samana naseeb ho
-
-  4
   Aansu giray thay bali sakina ke jis jagah
   Apna wahan pe khoon bahana naseeb ho
-  Karbobala naseeb se...
+
+  4
   Yeh keh ke shaah nikle mazaar e rasool se
   Pardes mein kafan mujhe nana naseeb ho
-
-  5
   Asghar hai mere haath bandhe kehti thi rabab
   Kaise tumhe galay se lagana naseeb ho
-  Karbobala naseeb se...
+
+  5
   Mashkeeza le ke rauza e abbas ke khareeb
   Sab zaairon ko pani pilana naseeb ho
-
-  6
   Ek sar bureeda laashe ne bachi ko di dua
   Zindan se tujhko laut ke aana naseeb ho
-  Karbobala naseeb se...
+
+  6
   Nazdeek e qaimagaah sakina ki yaad mein
   Shaam e ghariban shamma jalana naseeb ho
-
-  7
   Sajjad shaam tak yehi karte rahe dua
   Chadar mujhe phuphi ko udana naseeb ho
-  Karbobala naseeb se...
+
+  7
   Ay kaash phir se mir takallum furaat par
   Mehdi ko sheh ka nauha sunana naseeb ho
 # source_id: nohayonline:e23292f82ae77a9efc66
@@ -72,45 +66,39 @@ romanLyrics: |-
 پھر لوٹ کر وہاں سے نہ آنا نصیب ہو
 آنکھوں کو جب بھی اشک بہانا نصیب ہو
 آل نبی کے غم‌ کا بہانا نصیب ہو
-
-۲
 ایسا در حسین پہ سجدہ ہو آخری
 پھر مجھکو اپنا سر نہ اٹھانا نصیب ہو
-کربوبلا نصیب سے۔۔۔
+
+۲
 پروردگار ٹھوکریں در در کی کب تلک
 اب مستقل نجف میں ٹھکانہ نصیب ہو
-
-۳
 جیسا ملا نصیب سے ام البنین کو
 اب کیا کسی کو ایسا گھرانہ نصیب ہو
-کربوبلا نصیب سے۔۔۔
+
+۳
 محشر یہ آرزو ہے کہ بے غسل و بے کفن
 کربوبلا کی تہہ میں سمانا نصیب ہو
-
-۴
 آنسوں گرے تھے بالی سکینہ کے جس جگہ
 اپنا وہاں پہ خون بھانا نصیب ہو
-کربوبلا نصیب سے۔۔۔
+
+۴
 یہ کہہ کے شاہ نکلے مزار رسول سے
 پردیس میں کفن مجھے نانا نصیب ہو
-
-۵
 اصغر ہے میرے ہاتھ بندھے کہتی تھی رباب
 کیسے تمہیں گلے سے لگانا نصیب ہو
-کربوبلا نصیب سے۔۔۔
+
+۵
 مشکیزہ لے کے روضہء عباس کے قریب
 سب زایروں کو پانی پلانا نصیب ہو
-
-۶
 اک سر بریدہ لاشہ نے بچی کو دی دعا
 زنداں سے تجھکو لوٹ کے آنا نصیب ہو
-کربوبلا نصیب سے۔۔۔
+
+۶
 نزدیک خیمہ گاہ سکینہ کی یاد میں
 شام غریباں شمع جلانا نصیب ہو
-
-۷
 سجاد شام تک یہی کرتے رہے دعا
 چادر مجھے پھپھی کواڑانا نصیب ہو
-کربوبلا نصیب سے۔۔۔
+
+۷
 اے کاش پھر سے میر تکلم فرات پر
 مہدی کو شہ کا نوحہ سنانا نصیب ہو

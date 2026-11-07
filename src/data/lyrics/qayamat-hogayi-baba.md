@@ -20,36 +20,31 @@ romanLyrics: |-
   Azadaron ye nauha hai suno masoom bacchi ka
   Qayamat hogayi baba qayamat hogayi baba
   Suno baba mere baba huwe hum par sitam kya kya
+  Hui maqtal mein jab shaam e ghariban baad e ashoora
 
   2
-  Hui maqtal mein jab shaam e ghariban baad e ashoora
-  Qayamat hogayi baba...
   Yateemi bekasi ghurbat aseeri thi nigahon mein
   Bayan manzar wo kaise ho lagi jab aag qaimon mein
 
   3
-  Qayamat hogayi baba...
   Huwe rukhsaar neele chin gaye gohar jala kurta
   Na thay jab akbar o qasim na tha jis dam chacha mera
-  Qayamat hogayi baba...
 
   4
   Lahoo roti thi aankhein dekh kar manzar ye shaam e gham
   Pinaayi abid e bemaar ko tauq e garan jis dam
-  Qayamat hogayi baba...
-  Aseeri par hamari khud aseeri karti thi matam
 
   5
+  Aseeri par hamari khud aseeri karti thi matam
   Rasan basta barehna sar gaye bazaar mein jis dam
-  Qayamat hogayi baba...
+
+  6
   Mere baba suno baba haram mein tha bapa mehshar
   Gaye jab shaam ke darbar mein be maqna o chadar
 
-  6
-  Qayamat hogayi baba...
+  7
   Sakina rote rote hogayi khamosh jab aakhir
   Fareed us dum kaha ye abid e bemaar ne rokar
-  Qayamat hogayi baba...
 # source_id: nohayonline:9aa6448c6afceb953c6d
 # source_url: https://www.nohayonline.com/details_content.php?id=2936
 # raw_sha256: 24f356b3c2c119f8bbfc99f9a268f1496b59293bbae71d39c4129d28b2cfc41c
@@ -64,33 +59,28 @@ romanLyrics: |-
 عزاداروں یہ نوحہ ہے سنو معصوم بچی کا
 قیامت ہو گیء بابا قیامت ہو گیء بابا
 سنو بابا میرے بابا ہوے ہم پر ستم کیا کیا
+ہوی مقتل میں جب شام غریباں بعد عاشورہ
 
 ۲
-ہوی مقتل میں جب شام غریباں بعد عاشورہ
-قیامت ہو گیء بابا۔۔۔
 یتیمی بیکسی غربت اسیری تھی نگاہوں میں
 بیان منظر وہ کیسے ہو لگی جب آگ خیموں میں
 
 ۳
-قیامت ہو گیء بابا۔۔۔
 ہوے رخسار نیلے چھن گےء گوہر جلا کرتہ
 نہ تھے جب اکبر و قاسم نہ تھا جس دم چچا میرا
-قیامت ہو گیء بابا۔۔۔
 
 ۴
 لہو روتی تھی آنکھیں دیکھ کر منظر یہ شام غم
 پنہای عابد بیمار کو طوق گرم جس دم
-قیامت ہو گیء بابا۔۔۔
-اسیری پر ہماری خود اسیری کرتی تھی ماتم
 
 ۵
+اسیری پر ہماری خود اسیری کرتی تھی ماتم
 رسن بستہ برہنہ سر گےء بازار میں جس دم
-قیامت ہو گیء بابا۔۔۔
+
+۶
 میرے بابا سنو بابا حرم میں تھا بپا محشر
 گےء جب شام کے دربار میں بے مقنہ و چادر
 
-۶
-قیامت ہو گیء بابا۔۔۔
+۷
 سکینہ روتے روتے ہو گیء خاموش جب آخر
 فرید اس دم کہا یہ عابد بیمار نے رو کر
-قیامت ہو گیء بابا۔۔۔
