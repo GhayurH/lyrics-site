@@ -14,11 +14,11 @@ romanLyrics: |-
   Mere khoon ki taharat kehti hai
   Mujhe har shaahi se achi hai
   Naukri shabbir ki
-
-  1
   Ye sab ko mayasar hoti nahi
   Ye hurr jaison ko milti hai
   Naukri shabbir ki
+
+  1
   Ye mansab jisko mil jaye
   Zahra ki duayein paata hai
   Wo khaak ka zarra ho kar bhi
@@ -77,15 +77,16 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2411
 # raw_sha256: bb1ec522c70c587f450fafac7382d834575ef2edc0f4ee881977b892cb1e9b0f
 ---
+
 حیا علی خیر العمل
 میرے خوں کی طہارت کہتی ہے
 مجھے ہر شاہی سے اچھی ہے
 نوکری شبیر کی
-
-۱
 یہ سب کو میسر ہوتی نہیں
 یہ حر جیسوں کو ملتی ہے
 نوکری شبیر کی
+
+۱
 یہ منصب جس کو مل جاے
 زہرا کی دعائیں پاتا ہے
 وہ خاک کا زرہ ہو کر بھی
