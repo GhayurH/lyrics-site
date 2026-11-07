@@ -10,27 +10,25 @@ aliases: []
 published: false
 romanLyrics: |-
   Jawani to ali akbar luta di
-  
-  1
   Magar islam ki khuwat badha di
   
-  2
+  1
   Azadaro tumhare aansuon ne
   Bahisht o khuld ki kheemat badha di
   
-  3
+  2
   Tadap kar gir pade jhoole se asghar
   Hussain ibne ali kaisi sada di
   
-  4
+  3
   Ali asghar ne ran may muskurakar
   Yazeedi fauj may halchal macha di
   
-  5
+  4
   Kaha bano ne asghar ki lehad par
   Hamay kis jurm ki beta saza di
   
-  6
+  5
   Khuda ke naam par sarwar ne ran may
   Kamayi zindagi bhar ki luta di
 # source_id: nohayonline:b484114c469b3e49b4be
@@ -39,26 +37,24 @@ romanLyrics: |-
 ---
 
 جوانی تو علی اکبر لُٹا دی
-
-۱
 مگر اسلام کی قوت بڑھا دی
 
-۲
+۱
 اعزادارو! تمہارے آنسوئوں نے
 بہشت و خُلد کی قیمت بڑھا دی
 
-۳
+۲
 تڑپ کر گِر پڑے جُھولے سے اصغر
 حُسین ابنِ علی کیسی صدا دی
 
-۴
+۳
 علی اصغر نے رن میں مُسکرا کر
 یزیدی فوج میں ہل چل مچا دی
 
-۵
+۴
 کہا بانو نے اصغر کی لحد پر
 ہمیں کِس جُر م کی بیٹاسزا دی
 
-۶
+۵
 خُدا کے نام پر سرورنے رن میں
 کمائی زندگی بھر کی لُٹا دی
