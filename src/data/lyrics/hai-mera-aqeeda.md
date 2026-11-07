@@ -11,13 +11,13 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali un waliullah
-  
-  1
   Kulle emaan ali deen ki shaan ali
   Hai meri jaan ali meri pehchaan ali
   Hai mera aqeeda ali un waliullah
   Tum laakh jalo tum ko jalayenge ye kehkar
   Ali un waliullah ali un waliullah
+
+  1
   Karo koi bhi ibadat ali to wajib hai
   Yehi hai hukme risalat ali to wajib hai
   Azan ho ya ikamat ali to wajib hai
@@ -63,13 +63,13 @@ romanLyrics: |-
 ---
 
 علی ولی اللہ
-
-۱
 کل ایمان علی دین کی شان علی
 ہے میری جان علی میری پہچان علی
 ہے میرا عقیدہ علی ولی اللہ
 تم لاکھ جلو تم کو جلایینگے یہ کہہ کر
 علی ولی اللہ علی ولی اللہ
+
+۱
 کرو کوئی بھی عبادت علی تو واجب ہے
 یہی ہے حکم رسالت علی تو واجب ہے
 اذاں ہو یا اقامت واجب ہے
