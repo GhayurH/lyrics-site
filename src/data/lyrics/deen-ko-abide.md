@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Deen ko abid e bemaar ne sone na diya
-  Tod kar halqe aankhon se jo aansu nikle
 
   1
+  Tod kar halqe aankhon se jo aansu nikle
   Aagaye sheh ke azadaar ko aansu nikle
   Fatema ne jo dua hai to aansu nikle
   Ek shabbir ke gham khaas ne sone na diya
@@ -57,9 +57,9 @@ romanLyrics: |-
 # raw_sha256: 0473cf793dfe772aa2b54366e61ac02ab49fe364161f904a72e4683ce9a5086b
 ---
 دین کو عابد بیمار نے سونے نہ دیا
-توڑ کر حلقے آنکھوں سے جو آنسوں نکلے
 
 ۱
+توڑ کر حلقے آنکھوں سے جو آنسوں نکلے
 آ گےء شہ کے عزادار کو آنسوں نکلے
 فاطمہ نے جو دعا ہے تو آنسوں نکلے
 ایک شبیر کے غم خاص نے سونے نہ دیا
