@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay mere hussain as-salam
-  
-  1
   Ay mere imam as-salam
   Bekas o ghareeb as-salam
   Shaahe tishnakaam as-salam
+
+  1
   Alqama pe jab alam gira
   Goonji ye taraai mein sada
   Al-madad ay shaahe karbala
   Kehta hai ghulam as-salam
-  
+
   2
   Ek sitam ye aur ho gaya
   Qalbe akbar-e-hazeen chida
   Akse mustufa ne di sada
   Ya shahe inaam as-salam
-  
+
   3
   Kehti thi ye shaah ki behan
   Haye be-dayaro be-watan
   Berida hoo kaise doo kafan
   Jaa rahi hoo shaam as-salam
-  
+
   4
   Ay habeeb ay hure jari
   Aun-o-akbar-o-mere aqi
   Yun hi saare dard mein ghiri
   Mere nayk naam as-salam
-  
+
   5
   Tum kahan ho paaraye jigar
   Dhoondti hai tum ko ye nazar
   Chin chuki rida jala hai ghar
   Mere la-laqaam as-salam
-  
+
   6
   Maine ye kalaam jo likha
   Is ko nazre shaah kar diya
@@ -56,11 +56,11 @@ romanLyrics: |-
 ---
 
 اے میرے حسین السلام
-
-۱
 اے میرے امام السلام
 بے کس و غریب السلام
 شاہ تشنہ کام السلام
+
+۱
 علقمہ پہ جب علم گرا
 گونجی یہ ترائی میں صدا
 المدد اے شاہ کربلا
