@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Marhaba hussain marhaba
-
-  1
   Teri shaan marhaba
   Marhaba
+
+  1
   Tu jise hussain mil gaya
   Usko kainaat mil gayi
   Mar ke bhi hayaat mil gayi
@@ -79,11 +79,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1800
 # raw_sha256: bc19e8408f6f673b2e5fa8652871e8e252d89ec115d704e3eda6124475fb26ba
 ---
-مرحبا حسین مرحبا
 
-۱
+مرحبا حسین مرحبا
 تیری شان مرحبا
 مرحبا
+
+۱
 تو جسے حسین مل گیا
 اسکو کاینات مل گیء
 مر کے بھی حیات مل گیء
