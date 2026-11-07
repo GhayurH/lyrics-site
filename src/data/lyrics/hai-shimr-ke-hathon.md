@@ -10,11 +10,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Hai shimr ke haaton mein khanjar
-  
-  1
   Khanjar ke tale sarwar ka gala
   Zakhmi hai badan jalti hai zameen
   Reti pe tadapta hai pyasa
+
+  1
   Faryad kuna hai jinn o malak
   Hilti hai zameen larza hai falak
   Kuch dayr mein ab barsega lahoo
@@ -61,11 +61,11 @@ romanLyrics: |-
 ---
 
 ہے شمر کے ہاتھوں میں خنجر
-
-۱
 خنجر کے تلے سرور کا گلا
 زخمی ہے بدن جلتی ہے زمیں
 ریتی پہ تڑپتا ہے پیاسا
+
+۱
 فریاد کناں ہے جن و ملک
 ہلتی ہے زمیں لرزا ہے فلک
 کچھ دیر میں اب برسے گا لہو
