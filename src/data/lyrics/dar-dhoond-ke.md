@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Dar dhoond ke zindan ka ye kehti hai sakina
-  
-  1
   Baba mujhe seene pe sulane chale aao
   Is aalam e tanhaai mein mar jaaun na baba
   Marne se sakina ko bachane chale aao
+
+  1
   Har waqt teri yaad mein roti hai sakina
   Maghmoom teri aas mein hoti hai sakina
   Naraaz teri lakhte jigar tujhse hai baba
@@ -62,11 +62,11 @@ romanLyrics: |-
 ---
 
 در ڈھونڈ کے زنداں کا یہ کہتی ہے سکینہ
-
-۱
 بابا مجھے سینے پہ سلانے چلے آئو
 اس عالم تنہائی میں مر جائوں نہ بابا
 مرنے سے سکینہ کو بچانے چلے آئو
+
+۱
 ہر وقت تیری یاد میں روتی ہے سکینہ
 مغموم تیری آس میں ہوتی ہے سکینہ
 ناراض تیری لختِ جگر تجھ سے ہے بابا
