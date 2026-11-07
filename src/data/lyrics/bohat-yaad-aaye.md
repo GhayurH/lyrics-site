@@ -12,46 +12,45 @@ published: false
 romanLyrics: |-
   Jab utri saron se bhaiya ridayein
   Tum yaad aaye bohat yaad aaye
-  
-  1
   Kaha so rahe ho behan ko bhulaye
-  
-  2
+  Tum yaad aaye bohat yaad aaye
+
+  1
   Khule sar sar e bazm mujhko bulaya
   Aziyat se durron ki mujhko rulaya
   Doon awaaz kis ko kise doon sadayein
-  
-  3
+
+  2
   Tha dushwaar chalna magar mai chali thi
   Mere haal par bekasi ro rahi thi
   Qadam dar qadam toot'ti thi jafayein
-  
-  4
+
+  3
   Sitamgar ne jab hum ko durron se maara
   Khuda ke liye seh liya dard saara
   Magar jab saron se utri ridayein
-  
-  5
+
+  4
   Manadi sada de raha tha barabar
   Ye baaghi hai baaghi karo zulm in par
   Jahan tak ho mumkin inhe hum satayein
-  
-  6
+
+  5
   Kharashein kharashein yateema ke tan par
   Lahoo jam raha hai jale pairahan par
   Ye kehti thi dukhiya chacha ko bulayein
-  
-  7
+
+  6
   Kise kya kahun mai naseebon ki maari
   Sitam hum pe karte hai sab kaari kaari
   Jo aale payambar pe tooti jafayein
-  
-  8
+
+  7
   Kiye maine faaqe isi khastatan par
   Ye roodad e gham likh rahi hai rasan par
   Mukhalif bhi apni hui hai hawayein
-  
-  9
+
+  8
   Ay aamir wo laashe jari par gayi thi
   Faqat shams ro ro ke ye keh rahi thi
   Jo guzri hai hum pe wo kya kya batayein
@@ -60,11 +59,12 @@ romanLyrics: |-
 # raw_sha256: 75033d3ac18c089db73b3d049246a61095355c62e5e6bc966804c6e54ecfef17
 ---
 
-۱
 جب اتری سروں سے بھیا ردایںں
 تم یاد آے بہت یاد آے
 کہاں سو رہے ہو بہن کو بھلاے
 تم یاد آئے بہت یاد آے
+
+۱
 کھلے سر سر بزم مجھکو بلایا
 اذیت سے دروں کی‌ مجھکو رلایا
 دوں آواز کس کو کسے دوں صداییں
