@@ -12,9 +12,9 @@ published: false
 romanLyrics: |-
   Jab gulu e khushk par khanjar chalaya jayega
   Kis tarha se zainab se ye sadma uthaya jayega
+  Sayyeda ya sayyeda ya sayyeda ya sayyeda
 
   1
-  Sayyeda ya sayyeda ya sayyeda ya sayyeda
   Cheeni jayegi ridayein zainab o kulsoom ki
   Dar badar unko rasan basta phiraya jayega
 
@@ -55,9 +55,9 @@ romanLyrics: |-
 ---
 جب گلوے خشک پر خنجر چلایا جاے گا
 کس طرح سے زینب سے یہ صدمہ اٹھایا جاے گا
+سیدہ یا سیدہ یا سیدہ یا سیدہ
 
 ۱
-سیدہ یا سیدہ یا سیدہ یا سیدہ
 چھینی جاے گی ردائیں زینب و کلثوم کی
 در بدر ان کا رسن بستہ پھرایا جاے گا
 
