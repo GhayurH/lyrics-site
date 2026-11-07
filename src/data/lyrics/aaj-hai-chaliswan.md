@@ -14,7 +14,7 @@ romanLyrics: |-
   Yani suye karbobala chaak gareban chale
   Leke shaheedon ke sar besar o saaman chale
   Karte huwe ye bayan ba dile naalan chale
-  Aaj chai chaliswan hazrate shabbir ka
+  Aaj hai chaliswan hazrate shabbir ka
   Syed e mazloom ka zehra ke masoom ka
   Aaj hai chaliswan
 
@@ -27,30 +27,22 @@ romanLyrics: |-
   Dafn karne hai chale fatema ke laal ko
 
   2
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
   Wo haram e mohtaram shaah ke ba sad buka
   Manzilein tay karte haye pahunche thay jo karbala
   Door se jab qatlgaah inko dikhayi diya
   Ro ro ke kehne lage hazrate zainul liba
-
-  3
   Oonton se utro tum ab karte huwe shor o shain
   Ro ke chalo pyada paa yan se ba laashe hussain
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
+
+  3
   Hazrate sajjad se sun ke haram ye kalaam
   Peet'te rote huwe onton se utre tamaam
-
-  4
   Sar ko lage peetne waarison ke leke naam
   Aaye jo laashon ke paas haye wo nashaad kaam
   Chadarein sar se utaar aansu bahane lage
   Haathon se us ban ki khaak sar pe udhaane lage
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
 
-  5
+  4
   Hazrate zainul liba nauha ye jab pad chuke
   Bibiyon se is tarha ro ro ke kehne lage
   Pehle kaho kiski laash qabr mein abid rakhe
@@ -58,31 +50,23 @@ romanLyrics: |-
   Pehle mere waali ki laash ko uthwaiyo
   Deke kafan qabr mein phir usay dafnaiyo
 
-  6
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
+  5
   Al gharaz abbas ko jis ghadi madfoon kiya
   Matam e abbas tab jinn o malak mein hua
   Bewa e abbas tab royi wahan khoob sa
   Ro ro ke abid ne tab apni chachi se kaha
-
-  7
   Jinn o malak mein hui bas yehi guftaar hai
   Khaak mein madfoon hua sheh ka alamdar hai
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
+
+  6
   Wo jo tha ibne hassan qasim e aali nasab
   Byaah ke din haye haye qatl hua tashnalab
-
-  8
   Shadi ka joda jo tha mil gaya matti se sab
   Uska hi chehlum hai aaj waye sitam hai ghazab
   Hazrate sajjad ne sar ko badan se mila
   De ke kafan qabr mein laasha e qasim rakha
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
 
-  9
+  7
   Kehti thi akbar ki maa ay mere kadiyal jawan
   Choot ke zindan se karne ko chaliswan
   Khasta jigar aayi hai sehti hui sakhtiyan
@@ -90,29 +74,21 @@ romanLyrics: |-
   Fateha dilwaungi ashkon ki barsaat mein
   Zakhm hare ho gaye seena e sadaat mein
 
-  10
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
+  8
   Bachon se bichde huwe zainab e lachaar ko
   Beet gaye kitne din muztar o ghamkhwar ko
   Ab jo rehaai mili haye dilafgaar ko
   Aun o mohamed ke phir seena o ruqsaar ko
-
-  11
   Pyar kiya aur ye kaha ay mere sheron suno
   Karna hai chaliswan bibiyon matam karo
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
+
+  9
   Boli rubab e hazeen laasha e baysheer par
   Kyun na gire bijliyan maadar e dilgeer par
-
-  12
   Khoon hai abhi tak laga zulm ke us teer par
   Aaj wo din aagaya uff meri taqdeer par
   Karti hoo chaliswan nanhe se quran ka
   Sadqa mai dila saki haye teri jaan ka
-  Syed e mazloom ka zehra ke masoom ka
-  Aaj hai chaliswan
 # source_id: nohayonline:272e867ad13f759910de
 # source_url: https://www.nohayonline.com/details_content.php?id=2364
 # raw_sha256: 84d5c00fb1753ef27ff9d0b3096dd77a5bb4f176812674a365dd7d9d02e4c257
@@ -134,30 +110,22 @@ romanLyrics: |-
 دفن کرنے ہیں چلے فاطمہ کے لال کو
 
 ۲
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
 وہ حرم محترم شاہ کے بصد بکا
 منزلیں طےء کرتے ہاے پہنچے تھے جو کربلا
 دور سے جب قتل گاہ ان کو دکھای دیا
 رو رو کے کہنے لگے حضرتِ زین العباء
-
-۳
 اونٹوں سے اترو تم اب کرتے ہوے شور و شین
 رو کے چلو پیادہ پا یاں سے با لاش حسین
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
+
+۳
 حضرتِ سجاد سے سن کے حرم یہ کلام
 پیٹتے روتے ہوے اونٹوں سے اترے تمام
-
-۴
 سر کو لگے پیٹنے وارثوں کے لیکے نام
 آے جو لاشوں کے پاس ہاے وہ ناشاد کام
 چادریں سر سے اتار آنسوں بہانے لگے
 ہاتھوں سے بن کی خاک سر پہ اڑھانے لگے
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
 
-۵
+۴
 حضرتِ زین العباء نوحہ یہ جب پڑھ چکے
 بی بیوں سے اس طرح رو رو کے کہنے لگے
 پہلے کہو کس کی لاش قبر میں عابد رکھے
@@ -165,31 +133,23 @@ romanLyrics: |-
 پہلے میرے والی کی لاش کو اٹھواییو
 دے کے کفن قبر میں پھر اسے دفناییو
 
-۶
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
+۵
 الغرض عباس کو جس گھڑی مدفوں کیا
 ماتم عباس تب جن و ملک میں ہوا
 بیوہء عباس تب روی وہاں خوب سا
 رو رو کے عابد نے تب اپنی چچی سے کہا
-
-۷
 جن و ملک میں ہوی بس یہی گفتار ہے
 خاک میں مدفوں ہوا شہ کا علمدار ہے
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
+
+۶
 وہ جو تھا ابنِ حسن قاسم عالی نسب
 بیاہ کے دن ہاے ہاے قتل ہوا تشنہ لب
-
-۸
 شادی کا جوڑا جو تھا مل گیا مٹی سے سب
 اس کا ہی چہلم ہے آج واے ستم ہے غضب
 حضرتِ سجاد نے سر کو بدن سے ملا
 دے کے کفن قبر میں لاشہء قاسم رکھا
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
 
-۹
+۷
 کہتی تھی اکبر کی ماں اے میرے کڑیل جواں
 چھوٹ کے زنداں سے کرنے کو چالیسواں
 خستہ جگر آی ہے سہتی ہوی سختیاں
@@ -197,26 +157,18 @@ romanLyrics: |-
 فاتحہ دلواونگی اشکوں کی برسات میں
 زخم ہرے ہو گےء سینۂ سادات میں
 
-۱۰
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
+۸
 بچوں سے بچھڑے ہوے زینب لاچار کو
 بیت گےء کتنے دِن مضطر و غمخوار کو
 اب جو رہائی ملی ہاے دلافگار کو
 عون و محمد کے پھر سینہ و رخسار کو
-
-۱۱
 پیار کیا اور یہ کہا اے میرے شیروں سنو
 کرنا ہے چالیسواں بی بیوں ماتم کرو
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
+
+۹
 بولی رباب حزیں لاشہء بے شیر پر
 کیوں نہ گرے بجلیاں مادر دلگیر پر
-
-۱۲
 خوں ہے ابھی تک لگا ظلم کے اس تیر پر
 آج وہ دن آ گیا اف میری تقدیر پر
 کرتی ہوں چالیسواں ننھے سے قرآن کا
 صدقہ میں دلا سکی ہاے تیری جان کا
-سید مظلوم کا زہرا کے معصوم کا
-آج ہے چالیسواں
