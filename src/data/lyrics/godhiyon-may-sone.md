@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Godhiyon mein sone waali
-  
-  1
   So gayi zindan mein
+
+  1
   Bole abid kya bataun
   Dard ke toofan mein
   Kis khadar armaan tha
@@ -76,9 +76,9 @@ romanLyrics: |-
 ---
 
 گودیوں میں سونے والی
+سو گیء زنداں میں
 
 ۱
-سو گیء زنداں میں
 بولے عابد کیا بتاؤں
 درد کے طوفان میں
 کس قدر آرام تھا
