@@ -10,7 +10,7 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-Dare zindan pe sakina yehi karti thi buka
+  Dare zindan pe sakina yehi karti thi buka
   Shaam hone ko hai ab laut ke aao baba
 
   1
