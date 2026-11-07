@@ -13,62 +13,64 @@ romanLyrics: |-
   Hamare lahoo ki sada karbala
   Dilon par hai likha hua karbala
   Hussain ya hussainan hussain ya hussain
+
+  1
   Muqaddas duaon ke paale hai hum
   Ke farshe aza ke ujaale hai hum
   Zamana bohat dekhe bhaale hai hum
   Sitam se kahan darne waale hai hum
   Hame de gayi hausla karbala
 
-  1
+  2
   Azadaron tum haq ki jaanib badho
   Hussaini ho khud ko hussaini kaho
   Chalo raahe karbobala par chalo
   Ke izzat se jeene ka waada karo
   Tumhe de rahi hai dua karbala
 
-  2
+  3
   Hame fakhr hai hum azadaar hai
   Shahadat dilon ke parastaar hai
   Sar apna katane ko tayyar hai
   Hai zanjeer mein phir bhi mukhtar hai
   Ke hum par hai teri ata karbala
 
-  3
+  4
   Qasam khao dil dil se jodenge hum
   Hussain aap se moo na modenge hum
   Kaleje se barchi ko todenge hum
   Yazeedon ko zinda na chodenge hum
   Dil o jaan tujh par fida karbala
 
-  4
+  5
   Hussain aap hai mustafa ka jamaal
   Tamanna e zehra ali ka kamaal
   Libaas e bashar mein khuda ka jalaal
   Khuda ki tarha hashr tak be-misaal
   Yaqeenan hai ek maujiza karbala
 
-  5
+  6
   Har ek mulk me hai hussaini nishan
   Hai masroof majlis mein har ek zaban
   Jahan dekhiye farshe gham hai wahan
   Hai kitna bada haq ka ye karwan
   Hai phaili hui jaa baja karbala
 
-  6
+  7
   Faza majlison ki hai kitni bhali
   Har ek zindagi hai wafa mein dhali
   Hawa zikre sarwar ki aisi chali
   Sada aayi har simt se ya ali
   Kaha badh ke kaabe ne ya karbala
 
-  7
+  8
   Juda ab bhi bharat teri shaan hai
   Yahan laal zehra ka mehman hai
   Ye ganga bhi ashkon ka wardaan hai
   Ho pyason pe qurban ye armaan hai
   Hai hindu ke ghar taziya karbala
 
-  8
+  9
   Ho nayyar pe aamir pe ya rab karam
   Salamat rahe ye zaban ye qalam
   Saron par hamare rahe ye alam
@@ -81,62 +83,64 @@ romanLyrics: |-
 ہمارے لہو کی صدا کربلا
 دلوں پر ہے لکھا ہوا کربلا
 حسین یا حسینن حسین یا حسین
+
+۱
 مقدس دعاؤں کے پالے ہے ہم
 کہ فرش عزا کے اجالے ہیں ہم
 زمانہ بہت دیکھے بھالے ہے ہم
 ستم سے کہاں ڈرنے والے ہیں ہم
 ہمیں دے گیء حوصلہ کربلا
 
-۱
+۲
 عزاداروں تم حق کی جانب بڑھو
 حسینی ہو خود کو حسینی کہو
 چلو راہ کربوبلا پر چلو
 کہ عزت سے جینے کا وعدہ کرو
 تمہیں دے رہی ہے دعا کربلا
 
-۲
+۳
 ہمیں فخر ہے ہم عزادار ہیں
 شہادت دلوں کے پرستار ہیں
 سر اپنا کٹانے کو تیار ہیں
 ہے زنجیر میں پھر بھی مختار ہے
 کہ ہم پر ہے تیری عطا کربلا
 
-۳
+۴
 قسم کھاؤ دل دل سے جوڑیں گے ہم
 حسین آپ سے منہ نہ موڑیں گے ہم
 کلیجے سے برچھی کو توڑیں گے ہم
 یزیدوں کو زندہ نہ چھوڑیں گے ہم
 دل و جان تجھ پر فدا کربلا
 
-۴
+۵
 حسین آپ ہے مصطفیٰ کا جمال
 تمناے زہرا علی کا کمال
 لباس بشر میں خدا کا جلال
 خدا کی طرح حشر تک بے مثال
 یقیناً ہے ایک معجزہ کربلا
 
-۵
+۶
 ہر ایک ملک میں ہے حسینی نشاں
 ہے مصروف مجلس میں ہر ایک زباں
 جہاں دیکھیےء فرش غم ہے وہاں
 ہے کتنا بڑا حق کا یہ کارواں
 ہے پھیلی ہوئی جا بجا کربلا
 
-۶
+۷
 فرش مجلسوں کی ہے کتنی بھلی
 ہر ایک زندگی ہے وفا میں ڈھلی
 ہوا ذکر سرور کی ایسی چلی
 صدا آی ہر سمت سے یا علی
 کہا بڑھ کے کعبے نے یا کربلا
 
-۷
+۸
 جدا اب بھی بھارت تیری شان ہے
 یہاں لال زہرا کا مہماں ہے
 یہ گنگا بھی اشکوں کا وردان ہے
 ہو پیاسوں پہ قرباں یہ ارمان ہے
 ہے ہندو کے گھر تعزیہ کربلا
 
-۸
+۹
 ہو نیر پہ عامر پہ یا رب کرم
 سلامت رہے یہ زباں یہ قلم
 سروں پر ہمارے رہے یہ علم
