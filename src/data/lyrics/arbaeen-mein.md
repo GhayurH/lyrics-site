@@ -12,48 +12,47 @@ published: false
 romanLyrics: |-
   Maula bulalo karbobala arbaeen mein
   Karte hai sogwaar dua arbaeen mein
-  Maula bulalo karbobala arbaeen mein
-  
+
   1
   Toote huwe dilon ki hai ye aas dekhle
   Ek baar hum bhi rauza e abbas dekhle
   Kar do sharaf ye humko ataa arbaeen mein
-  
+
   2
   Aasaan kijiye sabhi dushwaar raaste
   Kab se tadap rahe hai ziyarat ke waaste
   Dikhla do khuld ek dafa arbaeen mein
-  
+
   3
   Jaakar haram mein shukr ke sajde ada kare
   Maula har ek shaheed ki majlis bapa kare
   Hum bhi bichaye farshe aza arbaeen mein
-  
+
   4
   Maula tumhe janab e sakina ka waasta
   Hum ko bhi dekhna hai wo jannat ka raasta
   Jaaye najaf se karbobala arbaeen mein
-  
+
   5
   Maa baap se kiya hai ye waada dikhaunga
   Mai aap ko hussain ki dunya dikhaunga
   Karna hai mujhko waada wafa arbaeen mein
-  
+
   6
   Har waqt bas ye fikr hai mere khayal mein
   Lagta hai mar na jaaun kahin is malaal mein
   Mai ek dafa bhi jaa na saka arbaeen mein
-  
+
   7
   Is baar kar do mere safar ka kuch intezam
   Har saal soch soch ke reh jaata hai ghulam
   Jaati hai saari khalq e khuda arbaeen mein
-  
+
   8
   Is ghamzada ke qalb ki khwahish hai aakhri
   Jis waqt bhi ho aap ke rauze pe haazri
   Ho jaye meri rooh fanaa arbaeen mein
-  
+
   9
   Hai aamir o kumail ki maula se ilteja
   Hum bekason ka khalq mein tum hi ho aasra
@@ -65,7 +64,6 @@ romanLyrics: |-
 
 مولا بلا لو کربوبلا اربعین میں
 کرتے ہیں سوگوار دعا اربعین میں
-مولا بلا لو کربوبلا اربعین میں
 
 ۱
 ٹوٹے ہوئے دلوں کی ہے یہ آس دکھ لے
