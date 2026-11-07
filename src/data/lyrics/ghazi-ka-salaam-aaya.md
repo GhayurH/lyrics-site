@@ -13,7 +13,6 @@ romanLyrics: |-
   Fizza teri wafa ko ghazi ka salam aaya
   Zahra ki betiyon ka tu ne qadam qadam par
   Hai saath jo nibhaya
-  Fizza teri wafa ko ghazi ka salam aaya
   
   1
   Zainab ki zindagi ki karti rahi duayein
@@ -70,7 +69,6 @@ romanLyrics: |-
 فضہ تیری وفا کو غازی کا سلام آیا
 زہرا کی بیٹیوں کا تو قدم قدم پر
 ہے ساتھ جو نبھایا
-فضہ تیری وفا کو غازی کا سلام آیا
 
 ۱
 زینب کی زندگی کی کرتی رہی دعائیں
