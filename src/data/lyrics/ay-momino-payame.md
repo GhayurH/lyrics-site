@@ -9,91 +9,49 @@ poet: "Mehshar Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Lega na jaane kitni ye karwate zamana
-
+romanLyrics: |-
+  Lega na jaane kitni ye karwate zamana
   Chaahe har ek shay ko dunya ki bhool jaana
 
-
   1
-
   Ujda jo ek din mein us ghar ko yaad rakna
-
   Ay momino payame sarwar ko yaad rakna
-
   Karbobala ke khooni manzar ko yaad rakna
 
-  Ay momino payame…
-
-
   2
-
-  Aey momino payame Sarwar ko yaad rakhna
-
-  Ujra jo aik din me us ghar ko yaad rakhna
-
-
-  3
-
   Aaghosh mein tumhari masoom koi aaye
-
   Jab pyar se koi maa jhoola use jhulaye
-
   Bano ki bebasi ko asghar ko yaad rakhna
 
-
-  4
-
+  3
   Aajaye jab kisi par taqdeer se yateemi
-
   Furqat mein baap ki jab mar jaye koi bachi
-
   Aulad walon meri dukhtar ko yaad rakhna
 
-
-  5
-
+  4
   Tumko khuda dikhaye khushiyo ka har sawera
-
   Kismat se jab bhi baandho apne pisar ke sehra
-
   Qasim ko yaad rakhna akbar ko yaad rakhna
 
-
-  6
-
+  5
   Dekho na zindagi mein marna jawan pisar ka
-
   Bete ka daagh dil par hota hai umr bhar ka
-
   Laila ki hasraton ko akbar ko yaad rakhna
 
-
-  7
-
+  6
   Behno ko betiyo ko jab bhi rida udhana
-
   Hum bekaso ko hargiz dil se nahi bhulana
-
   Meri behan ke sar ki chadar ko yaad rakhna
 
-
-  8
-
+  7
   Beton ko jo na royi qurban karke mujh par
-
   Aur sar nahi uthaya ehsaan karke mujh par
-
   Us jaan nisaar meri khwahar ko yaad rakhna
 
-
-  9
-
+  8
   Aaye kisi taraf se matam ki jab sadayein
-
   Ahle aza ko mehshar dena agar duwayein
-
-  Gulzaare hyderi ko sarwar ko yaad rakhna'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+  Gulzaare hyderi ko sarwar ko yaad rakhna
 # source_id: nohayonline:37dc1ab5302b71e37104
 # source_url: https://www.nohayonline.com/details_content.php?id=358
 # raw_sha256: 7a27d3a575226ceaaf55467c322cad35e730fda320e2a2ba7c65969027f3e3ec
@@ -110,7 +68,6 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 اُجڑا جو ایک دن میں اُس گھر کو یاد رکھنا
 اے مومنوں پیامِ سرور کو یاد رکھنا
 کربوبلا کے خونی منظر کو یاد رکھنا
-اے مومنوں پیامِ۔۔۔
 
 ۲
 آغوش میں تمہاری معصوم کوئی آئے
