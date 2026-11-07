@@ -13,7 +13,7 @@ romanLyrics: |-
   Din dhal gaya shaam aa gayi abbas abbas na laute
   Shaam aur ghazab dha gayi abbas abbas na laute
 
-  2
+  1
   Baakhi nahi ansar na hai monis o yawar
   Maqtool-e-jafa ran may hue sarware aalam
   Karte hai haram shiddate aalaam se matam
@@ -75,7 +75,7 @@ romanLyrics: |-
 دِن ڈھل گیا شام آگئی عباس عباس نہ لوٹے
 شام اور غضب ڈھاگئی عباس عباس نہ لوٹے
 
-۲
+۱
 باقی نہیں انصار نہ ہے مونس و یاور
 مقتولِ جفا رن میں ہوئے سرورِ عالم
 کرتے ہیں حرم شدّتِ آلام سے ماتم
