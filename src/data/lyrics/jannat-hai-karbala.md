@@ -14,8 +14,6 @@ romanLyrics: |-
   Haathon mein leke nishan e wafa
   Matami hai aur dilon mein wila
   Kaale libaas aur shaane aza
-
-  1
   Lab pe sajaye huwe ye sada
   Jannat hai rauza tera
   Jannat hai poori ye karbobala
@@ -30,42 +28,32 @@ romanLyrics: |-
   Khaate hai teri qasam
   Matam ye hoga na kam
   Aankhein rehengi ye nam
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 
-  2
+  1
   Shaukhe ziaarat jo tha
   Maula mai paidal chala
   Khwaab ye poora hua
   Dekha haram to kaha
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 
-  3
+  2
   Pani tere shehr ka
   Kausar se meetha laga
   Uski hawa hai dawa
   Khaak hai khaake shifa
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 
-  4
+  3
   Jaye jahan bhi nazar
   Aaye nazar sar hi sar
   Khudsi wali ya bashar
   Hai ye sada humsafar
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 
-  5
+  4
   Ek taraf dar tera
   Ek taraf ba-wafa
   Do jannato ki hawa
   Ashk huwe lab kusha
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 
-  6
+  5
   Rauze ka husn hai kya
   Gumbate arshe khuda
   Fanoose shams us zuha
@@ -74,10 +62,8 @@ romanLyrics: |-
   Kheera ho jis se nazar
   Nasb hai dewaar par
   Jaise ke shams o qamar
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 
-  7
+  6
   Haye qateel e jafa
   Tu yahan pyasa raha
   Mujhko sare karbala
@@ -86,10 +72,8 @@ romanLyrics: |-
   Tu to raha be-kafan
   Jaate hai log watan
   Le ke yahan se kafan
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 
-  8
+  7
   Haye shahe karbala
   Haye qateel e jafa
   Za'airon pe tere
@@ -101,16 +85,12 @@ romanLyrics: |-
   Maa'on ne haste huwe
   Ghar mein thay jitne diye
   Bas yehi kehte huwe
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 
-  9
+  8
   Farhan o mazhar kaho
   Dunya ko paigham do
   Rauza e sheh pe chalo
   Aur yehi kehte raho
-  Jannat hai rauza tera
-  Jannat hai poori ye karbobala
 # source_id: nohayonline:ec3ab922b0079aeec234
 # source_url: https://www.nohayonline.com/details_content.php?id=986
 # raw_sha256: 6d6c12c9c643326576cfa0e3ef109ae33aee852696ef745e5ff7ea45a4924b45
@@ -119,8 +99,6 @@ romanLyrics: |-
 ہاتھوں میں لے کے نشان وفا
 ماتمی ہیں اور دلوں میں ولا
 کالے لباس اور شان عزا
-
-۱
 لب پہ سجاے ہوئے یہ صدا
 جنت ہے روضہ تیرا
 جنت ہے پوری یہ کربوبلا
@@ -135,42 +113,32 @@ romanLyrics: |-
 کھاتے ہیں تیری قسم
 ماتم یہ ہوگا نہ کم
 آنکھیں رہیں گی یہ نم
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
 
-۲
+۱
 شوق زیارت جو تھا
 مولا میں پیدل چلا
 خواب یہ پورا ہوا
 دیکھا حرم تو کہا
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
 
-۳
+۲
 پانی تیرے شہر کا
 کوثر سے میٹھا لگا
 اسکی ہوا ہے دوا
 خاک ہے خاک شفا
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
 
-۴
+۳
 جاے جہاں بھی نظر
 آے نظر سر ہی سر
 قدسی ولی یا بشر
 ہے یہ صدا ہم سفر
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
 
-۵
+۴
 اک طرف در تیرا
 اک طرف با وفا
 دو جنتوں کی ہوا
 آشک ہوئے لب کشا
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
 
-۶
+۵
 روضے کا حسن ہے کیا
 گنبد عرش خدا
 فانوس شمس الضّحیٰ
@@ -179,10 +147,8 @@ romanLyrics: |-
 کھیرا ہو جس سے نظر
 نسب ہے دیوار پر
 جیسے کہ شمس و قمر
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
 
-۷
+۶
 ہاے قتیل جفا
 تو یہاں پیاسا رہا
 مجھکو سر کربلا
@@ -191,10 +157,8 @@ romanLyrics: |-
 تو تو رہا بے کفن
 جاتے ہیں لوگ وطن
 لے کے یہاں سے کفن
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
 
-۸
+۷
 ہاے شہ کربلا
 ہاے قتیل جفا
 زایروں پہ تیرے
@@ -206,13 +170,9 @@ romanLyrics: |-
 ماؤں نے ہنستے ہوئے
 گھر میں تھے جتنے دییے
 بس یہی کہتے ہوئے
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
 
-۹
+۸
 فرحان و مظہر کہو
 دنیا کو پیغام دو
 روضہ ء شہ پہ چلو
 اور یہی کہتے رہو
-جنت ہے روضہ تیرا
-جنت ہے پوری یہ کربوبلا
