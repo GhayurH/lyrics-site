@@ -11,29 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Emaan ke ujaale hai ashoor ki garmi hai
-  
-  1
   Shabbir ki qismat hai aur godh ke paale hai
-  Imaan ke ujaale hai ashoor ki garmi hai
+
+  1
   Yahan dil taho baala hai wahan jaan ke laale hai
   Shabbir zayeefi mein akbar ko sambhale hai
-  
+
   2
   Jis tarha koi chaahe ghar lootle pyason ka
   Jalti hui reti par sab chaahne waale hai
-  
+
   3
   Abid ko koi dekhe darbar mein koofe ke
   Bedi ko uthaye hai zanjeer sambhale hai
-  
+
   4
   Suljhaya tha laila ne uljhi hui zulfon ko
   Phir maut ne ay akbar bal gaysuon waale hai
-  
+
   5
   Dekho to ali asghar aaghosh mein baba ki
   Kya kaampte haaton se ummat ko sambhale hai
-  
+
   6
   Be-faiz zamane se kya usko gharaz koi
   Ab fazl ki dunya ke shabbir ujaale hai
@@ -44,7 +43,6 @@ romanLyrics: |-
 
 ایمان کے اجالے ہیں عاشور کی گرمی ہے
 شبیر کی قسمت ہے اور گود کے پالے ہیں
-ایمان کے اجالے ہیں عاشور کی گرمی ہے
 
 ۱
 یہاں دل تہہ و بالا ہے وہاں جان کے لالے ہیں
