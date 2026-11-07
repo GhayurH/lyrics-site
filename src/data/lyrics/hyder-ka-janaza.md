@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Wasi e mustafa ka kul ke maula ka janaza hai
-  
-  1
   Amaama jiska khoon mein bhar gaya uska janaza hai
   Ye hyder ka janaza hai
+
+  1
   Janaze se lipat kar betiyan behaal hoti hai
   Tadap kar zainab o kulsoom ka rona batata hai
   Ye hyder ka janaza hai
-  
+
   2
   Qayamat dha rahi hai aaj tak uneeswi ramzan
   Jo ab har saal hi ekeeswi ramzan ko uth'ta hai
   Ye hyder ka janaza hai
-  
+
   3
   Uthaate hai na jaane kis tarha baba ki mayyat ko
   Ghamon ki raah par ye sarwar o shabbar ka nauha hai
   Ye hyder ka janaza hai
-  
+
   4
   Ali ka khoone na-haq keh raha hai daastan gham ki
   Jo barpa hai zamane bhar mein wo matam ye kehta hai
   Ye hyder ka janaza hai
-  
+
   5
   Yehi ghul hai yateemon ka sahara uth gaya haye
   Ye dooba gham mein har majboor ka bekas ka chehra hai
   Ye hyder ka janaza hai
-  
+
   6
   Julooson mein uthaate hai jo hum taboot hyder ka
   Hamari aankh se phir ashke gham ye kehke behta hai
   Ye hyder ka janaza hai
-  
+
   7
   Hai turbat fatema zahra ki haye sog mein doobi
   Zameen par arsh par nauha ye saare ambiya ka hai
   Ye hyder ka janaza hai
-  
+
   8
   Kise maloom hai kya dukh mila hai soghwaron ko
   Kisi ko kya khabar kis dil se ye izhaar likhta hai
@@ -59,10 +59,10 @@ romanLyrics: |-
 ---
 
 وصیِ مصطفیؐ کا کُل کے مولا کا جنازہ ہے
-
-۱
 عمامہ جس کا خوں میں بھر گیا اُس کا جنازہ ہے
 یہ حیدر کا جنازہ ہے
+
+۱
 جنازے سے لپٹ کر بیٹیاں بے حال ہوتی ہیں
 تڑپ کر زینب و کلثوم کا رونا بتاتا ہے
 یہ حیدر کا جنازہ ہے
