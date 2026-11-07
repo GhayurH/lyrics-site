@@ -11,34 +11,34 @@ published: false
 romanLyrics: |-
   Ashoor ki shab hai hashr bapa
   Masoom sakina sojao
-  
-  1
   Ro ro ke na mujhko tadpao
   Ay baali sakina sojao
+
+  1
   Moo ashkon se dhoti hai koi
   Maidan may roti hai koi
   Ye girya e zehra ki hai sada
-  
+
   2
   Aghosh may maadar ke layto
   Aur baap ke seene ko bhoolo
   Karte hai ibadat shaah e huda
-  
+
   3
   Kal koi na hoga ay bibi
   Ansaar hai baaher ab sab hi
   Dete hai talaaya aaj chacha
-  
+
   4
   Sarwar ki shahadat kal hogi
   Sab ahle haram honge qaidi
   Kal se na milega chain zara
-  
+
   5
   Pani ka nahi khatra bibi
   Kooze hai pade sab hi khaali
   Nanha sa hai asghar bhi pyasa
-  
+
   6
   Bewa'on ki madad ab kaun kare
   Abbas nahi akbar bhi nahi
@@ -50,10 +50,10 @@ romanLyrics: |-
 
 عاشور کی شب ہے حشر بپا
 معصوم سکینہ سو جاؤ
-
-۱
 رو رو کے نہ مجھکو تڑپاو
 اے بالی سکینہ سو جاؤ
+
+۱
 منہ اشکوں سے دھوتی ہے کوی
 میدان میں روتی ہے کوی
 یہ گریہء زہرا کی ہے صدا
