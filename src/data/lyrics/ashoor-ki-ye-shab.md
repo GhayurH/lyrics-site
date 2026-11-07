@@ -10,70 +10,71 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Ashoor ki ye shab hai shahadat ki raat hai
   Matam bapa karo ke qayamat ki raat hai
   Zehra ke khaandan pa ghurbat ki raat hai
   Khamosh qaimagah hai wehshat ki raat hai
+
+  1
   As’haab ko hai dhyaan bas apne imam ka
   Pyason ko intezar shahadat ke jaam ka
   Abbas kar rahe hai talaya qayaam ka
   In sab ke waaste ye ibadat ki raat hai
-  
+
   2
   Ahle haram hai dekh pareshaan karbala
   Dil aaj hi se sab ke hai veeran karbala
   Kal tak rahenge ye tere mehman karbala
   Ye raat unpa sakht musibat ki raat hai
-  
+
   3
   Qasim hassan ka laal jo maidan ko jayega
   Dashte bala mein khoon ka darya bahayega
   Maqtal ki sar zameen ko mehshar banayega
   Naushaah e karbala pa shahadat ki raat hai
-  
+
   4
   Kal subha deke aakhri mojiz numa azaan
   Barchi jigar pa khayega phir akbare jawan
   Sakte mein kal se aakhri din tak rahegi maa
   Bete ki aakhri ye ziyarat ki raat hai
-  
+
   5
   Chaadar hai aaj sar pa hai zainab ko itmenan
   Kal hoga sab saron pa magar charkh sayeban
   Kal hoga fatema ka rasan basta khaandan
   Ye aakhri rida'on ki hurmat ki raat hai
-  
+
   6
   Shaane kata ke nehr pa abbas soyenge
   Tooti kamar ko thaam ke shabbir royenge
   Bacche bhi pyaas bujhne ki ummeed khoyenge
   Ghazi pa aaj zapte shuja’at ki raat hai
-  
+
   7
   Hamla ali ke sher pa hoga furaat par
   Mar jayega sakina ka saqqa furaat par
   Kal hoga ambiya ka bhi girya furaat par
   Qaimon ki aakhri ye hifazat ki raat hai
-  
+
   8
   Teere sitam se kal jo kiya jayega shaheed
   Shash maaha hai wo jispa musibat hai ye shadeed
   Ye zulm kar ke royega khud lashkare yazeed
   Bano pa inteha e aziyat ki raat hai
-  
+
   9
   Hangaam e asr qatl kiye jayenge hussain
   Kal be-kafan rahenge yahan shaahe mashraqain
   Maqtal mein goonj uthenge kal fatema ke bain
   Ye raat mere laal pa ghurbat ki raat hai
-  
+
   10
   Laazim hai kayenat pa ye gham hussain ka
   Kaise karenge haq ye ada hum hussain ka
   Bachpan se karte aaye hai matam hussain ka
   Apne liye ye raat sa’adat ki raat hai
-  
+
   11
   Maango jameel khaaliq e akbar se ye dua
   Ay rabb e paak tujhko hai is shab ka waasta
@@ -84,11 +85,12 @@ romanLyrics: |-
 # raw_sha256: d1bbc83dd5629568973771abc74c500f78b1b00e327023f5762403013f3310ff
 ---
 
-۱
 عاشور کی یہ شب ہے شہادت کی رات ہے
 ماتم بپا کرو کہ قیامت کی رات ہے
 زہرا کے خاندان پہ غربت کی رات ہے
 خاموش خیمہ گاہ ہے وحشت کی رات ہے
+
+۱
 اصحاب کو ہے دھیان بس اپنے امام کا
 پیاسوں کو انتظار شہادت کے جام کا
 عباس کر رہے ہیں تلایا قیام کا
