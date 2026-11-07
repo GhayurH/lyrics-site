@@ -11,13 +11,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Baap ka ghar se taboot jis dam chala
-
-  1
   Haye beti ne ro kar padha marsiya
   Baba jaan alwida
   Khoon ke ashk aankhon se honge rawan
   Chain ek pal na payega ab dil mera
-  Baba jaan alwida
+
+  1
   Ab talak mai tadapti thi maa ke liye
   Aap ki yaad aayegi ab raat din
   Sar pe maa baap dono ka saaya nahi
@@ -76,14 +75,14 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2851
 # raw_sha256: c3cf51a8ddd15eedfaf704f7d4f9280cede9e51abaff132dc5b291677610312d
 ---
-باپ کا گھر سے تابوت جس دم چلا
 
-۱
+باپ کا گھر سے تابوت جس دم چلا
 ہاے بیٹی نے رو کر پڑھا مرثیہ
 بابا جاں الوداع
 خوں کے آشک آنکھوں سے ہونگے رواں
 چین ایک پل نہ پائے گا اب دل میرا
-بابا جاں الوداع
+
+۱
 اب تلک میں تڑپتی تھی ماں کے لئے
 آپ کی یاد آے گی اب رات دن
 سر پہ ماں باپ دونوں کا سایہ نہیں
