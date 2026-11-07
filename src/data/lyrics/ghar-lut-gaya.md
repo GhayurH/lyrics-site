@@ -12,7 +12,6 @@ published: false
 romanLyrics: |-
   Ghar lut gaya chadar chini hogayi mai berida
   Zainab dukhi deti rahi nana ke rauze par sada
-  Ghar lut gaya chadar chini hogayi mai berida
   
   1
   Jiske gale ko choom kar nana tum roye umr bhar
@@ -52,7 +51,6 @@ romanLyrics: |-
 
 گھر لٹ گیا چادر چھنی ہو گیء میں بے ردا
 زینب دکھی دیتی رہی نانا کے روضے پر صدا
-گھر لٹ گیا چادر چھنی ہو گیء میں بے ردا
 
 ۱
 جس کے گلے کو چوم کر نانا تم روے عمر بھر
