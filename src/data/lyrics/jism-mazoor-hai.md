@@ -10,10 +10,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Koi majboor nahi koi majboor nahi
   Zikre sheh ke liye hargis koi majboor nahi
   Jism mazoor hai par fikr se mazoor nahi
+
+  1
   Jab bhi seene se meri maa ne lagaya hum ko
   Zikre shabbir hi lori mein sunaya hum ko
   Ashke gham shaah ka ghutti mein pilaya hum ko
@@ -64,11 +65,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3606
 # raw_sha256: fbbb50c539c5891bc81465b22b2c197ee6874523e8d3ad7b4a963420903e4094
 ---
-
-۱
 کوی مجبور نہیں کوئی مجبور نہیں
 ذکر شہ کے لئے ہر گز کوی مجبور نہیں
 جسم معزور ہے پر فکر سے معزور نہیں
+
+۱
 جب بھی سینے سے میری ماں نے لگایا ہم کو
 ذکر شبیر ہی لوری میں سنایا ہم کو
 اشک غم شاہ کا گھٹی میں پلایا ہم کو
