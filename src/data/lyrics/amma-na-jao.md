@@ -20,66 +20,51 @@ romanLyrics: |-
   Amma na jao mujhe chod kar
   Uth uth ke karti thi shab ko fughan
   Dil kaat jaata tha gham ka bayan
-
-  2
   Khamosh ho kuch to bolo na maa
   Uth jao zainab ki faryaad par
   Amma na jao mujhe chod kar
-  Kehti thi zainab...
 
-  3
+  2
   De kar sadayein bulao hamein
   Seene se apne lagao hamein
   Furqat ke din na dikhao hamein
   Kyun aaj hum se hui be-khabar
-
-  4
   Amma na jao mujhe chod kar
-  Kehti thi zainab...
+
+  3
   Bachon pe koh e alam gir pada
   Sar ko jhukaye hai sher e khuda
-
-  5
   Kulsoom o fizza hai mehwe buka
   Hasnain rote hai thaame jigar
   Amma na jao mujhe chod kar
-  Kehti thi zainab...
 
-  6
+  4
   Baba ka apne judaai ka gham
   Darbaar jaane ka dil par sitam
   Ummat se paaye hai is darja gham
   Sab se chupa ke wo zaqme jigar
-
-  7
   Amma na jao mujhe chod kar
-  Kehti thi zainab...
+
+  5
   Pehlu pe jalta hua dar gira
   Mohsin ka maqtal ye ghar ban gaya
-
-  8
   Is gham ne tum ko na jeene diya
   Sab zakhm dekhe hai tum ne magar
   Amma na jao mujhe chod kar
-  Kehti thi zainab...
 
-  9
+  6
   Pehlu shikasta jhuki hai kamar
   Ek haath pehlu pe ek qalb par
   Zeb e musalla thi tum raat bhar
   Ab kyun ho khamosh lagta hai darr
-
-  10
   Amma na jao mujhe chod kar
-  Kehti thi zainab...
+
+  7
   Altaf o safdar ho kaise raqam
   Khairunnisa pe jo guzre sitam
-
-  11
   Khirtaas par likh ke roya qalam
   Hai ek jumle ka dil par asar
   Amma na jao mujhe chod kar
-  Kehti thi zainab...
 # source_id: nohayonline:6937444f264569dd4435
 # source_url: https://www.nohayonline.com/details_content.php?id=1545
 # raw_sha256: 3ce78718aa9ed6f458255cb012a8a28265d1cf81a7feeca6bf77a5e85b34fce4
@@ -94,63 +79,48 @@ romanLyrics: |-
 اماں نہ جاؤ مجھے چھوڑ کر
 اٹھ اٹھ کے کرتی تھی شب کو فغاں
 دل کاٹ جاتا تھا غم کا بیاں
-
-۲
 خاموش ہو کچھ تو بولو نہ ماں
 اٹھ جاؤ زینب کی فریاد پر
 اماں نہ جاؤ مجھے چھوڑ کر
-کہتی تھی زینب۔۔۔
 
-۳
+۲
 دے کر صداییں بلاؤ ہمیں
 سینے سے اپنے لگاؤ ہمیں
 فرقت کے دن نہ دکھاؤ ہمیں
 کیوں آج ہم سے ہوی بے قرار
-
-۴
 اماں نہ جاؤ مجھے چھوڑ کر
-کہتی تھی زینب۔۔۔
+
+۳
 بچوں پہ کوہ الم گر پڑا
 سر کو جھکائے ہے شیر خدا
-
-۵
 کلثوم و فضہ ہے محوِ بکا
 حسنین روتے ہیں تھامے جگر
 اماں نہ جاؤ مجھے چھوڑ کر
-کہتی تھی زینب۔۔۔
 
-۶
+۴
 بابا کا اپنے جدائی کا غم
 دربار جانے کا دل پر ستم
 امت سے پاے ہیں اس درجہ غم
 سب سے چھپا کے وہ زخم جگر
-
-۷
 اماں نہ جاؤ مجھے چھوڑ کر
-کہتی تھی زینب۔۔۔
+
+۵
 پہلو پہ جلتا ہوا در گرا
 محسن کا مقتل یہ گھر بن گیا
-
-۸
 اس غم نے تم کو نہ جینے دیا
 سب زخم دیکھے ہیں تم نے مگر
 اماں نہ جاؤ مجھے چھوڑ کر
-کہتی تھی زینب۔۔۔
 
-۹
+۶
 پہلو شکستہ جھکی ہے کمر
 اس ہاتھ پہلو پہ ایک قلب پر
 زیب مصلہ تھی تم رات بھر
 اب کیوں ہو خاموش لگتا ہے ڈر
-
-۱۰
 اماں نہ جاؤ مجھے چھوڑ کر
-کہتی تھی زینب۔۔۔
+
+۷
 الطاف و صفدر ہو کیسے رقم
 خیرالنسا پہ جو گزرے ستم
-
-۱۱
 قرطاس پر لکھ کے رویا قلم
 ہے ایک جملے کا دل پر اثر
 اماں نہ جاؤ مجھے چھوڑ کر
-کہتی تھی زینب۔۔۔
