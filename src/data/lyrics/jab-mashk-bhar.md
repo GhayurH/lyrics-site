@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Jab mashk bhar kar nehr se abbas e ghazi ghar chale
   Ek jaam e kausar bhar liya aur khuld se hyder chale
   Hamraah paighambar chale hamraah chale jafar chale
@@ -20,8 +19,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2702
 # raw_sha256: aa978b87a351bc0914696ce1950f20455c42dd2a0acae56d2d35126fd55d28a5
 ---
-
-۱
 جب مشک بھر کر نہر سے عباس غازی گھر چلے
 اک جام کوثر بھر لیا اور خلد سے حیدر چلے
 ہمراہ پیغمبر چلے ہمراہ چلے جعفر چلے
