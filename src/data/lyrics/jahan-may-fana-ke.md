@@ -10,27 +10,25 @@ aliases: []
 published: false
 romanLyrics: |-
   Baakhi raha hai kaun jahan mein fana ke baad
-  
-  1
   Zinda magar hussain hai khatle jafa ke baad
   
-  2
+  1
   Aaqa hai wo hamara hum uske ghulam hai
   Khabza hai kayenaat pe jiska khuda ke baad
   
-  3
+  2
   Hai marqade hussain tamanna e aakhri
   Jannat bhi gar milay to na le karbala ke baad
   
-  4
+  3
   Nusrat ko aa rahe hai malak chod kar falak
   Paaya sharaf hussain ne ye ambiya ke baad
   
-  5
+  4
   Parde ki aayaton ki ye tafseer dekhlo
   Balon se moo chupaye haram hai rida ke baad
   
-  6
+  5
   Karke baland haaton pe asghar ko bolay shaah
   Baakhi nahi hai ab koi is mehlakha ke baad
 # source_id: nohayonline:c0863857ea72683ac5d4
@@ -39,26 +37,24 @@ romanLyrics: |-
 ---
 
 باقی رہا ہے کون جہاں میں فنا کے بعد
-
-۱
 زندہ مگر حُسین ہے قتلِ جفا کے بعد
 
-۲
+۱
 آقا ہے وہ ہمارا ہم اُس کے غلام ہیں
 قبضہ ہے کائنات پہ جس کا خُدا کے بعد
 
-۳
+۲
 ہے مرقدِ حُسین تمنائِ آخری
 جنت بھی گر ملے تو نہ لیں کربلا کے بعد
 
-۴
+۳
 نُصرت کو آ رہے ہیں ملک چھوڑ کر فلک
 پایا شرف حُسین نے یہ انبیائ کے بعد
 
-۵
+۴
 پردے کی آیتوں کی یہ تفسیر دیکھ لو
 بالوں سے مُنہ چھپائے حرم ہیں ردا کے بعد
 
-۶
+۵
 کر کے بلند ہاتھوں پہ اصغر کو بولے شاہ
 باقی نہیں ہے اب کوئی اس مہلکا کے بعد
