@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas abbas abbas abbas
-  
-  1
   Beta hai tu ali ka zahra ki tu dua hai
   Shabbir tera aaqa ummul baneen maa hai
+  
+  1
   Har surat o chalan mein hyder se na juda hai
   Ta hashr tujhse qaayam dunya mein bas wafa hai
   
@@ -77,10 +77,10 @@ romanLyrics: |-
 ---
 
 عباس عباس عباس عباس
-
-۱
 بیٹا ہے تو علی کا زہرا کی تو دعا ہے
 شبیر تیرا آقا ام البنین ماں ہے
+
+۱
 ہر صورت و چلن میں حیدر سے نہ جدا ہے
 تاحشر تجھ سے قایم دنیا میں بس وفا ہے
 
