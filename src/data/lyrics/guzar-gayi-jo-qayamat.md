@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Guzar gayi jo qayamat kisi ko kya maloom
-
-  1
   Yateem hogaye hasnain o zainab o kulsoom
   Ali shaheed huwe ali shaheed huwe ali shaheed huwe
+
+  1
   Wo zakhm tha ke mussalla lahoo mein doob gaya
   Imame waqt ka chehra lahoo mein doob gaya
   Malak pukar ke kaaba lahoo mein doob gaya
@@ -63,10 +63,10 @@ romanLyrics: |-
 # raw_sha256: f9c86f4bc69b7254777032610c4f69bfc21c998869ae00fd392d072a9dcf2a1d
 ---
 گزر گیء جو قیامت کسی کو کیا معلوم
-
-۱
 یتیم ہو گےء حسنین و زینب و کلثوم
 علی شہید ہوئے علی شہید ہوئے علی شہید ہوئے
+
+۱
 وہ زخم تھا کہ مصلہ لہو میں ڈوب گیا
 امام وقت کا چہرہ لہو میں ڈوب گیا
 ملک پکار کے کعبہ لہو میں ڈوب گیا
