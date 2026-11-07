@@ -20,9 +20,9 @@ romanLyrics: |-
   Goonji maqtal mein shahe deen ki sada
   Qatl darya pe alamdar huwa
   Aur pyason ki aas toot gayi
-  Aaya maqtal se alam khoon mein bhara
 
   2
+  Aaya maqtal se alam khoon mein bhara
   Din dhala shaam e ghariban ke andhere chaaye
   Bas sakina ne yehi roke kaha
 
@@ -65,6 +65,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=557
 # raw_sha256: 23ed933bdfcebd981ac85aa3c9db034ddc5ea4ea5aa0753d5e6278e5e89db518
 ---
+
 آسماں دیکھ رہا تھا
 سقا کوئی فرات پہ آیا تھا تشنہ لب
 
@@ -75,9 +76,9 @@ romanLyrics: |-
 گونجی مقتل میں شاہِ دیں کی صدا
 قتل دریا پہ علمدار ہوا
 اور پیاسوں کی آس ٹوٹ گئی
-آیا مقتل سے علم خوں میں بھرا
 
 ۲
+آیا مقتل سے علم خوں میں بھرا
 دن ڈھلا شامِ غریباں کے اندھیرے چھائے
 بس سکینہ نے یہی رو کے کہا
 
