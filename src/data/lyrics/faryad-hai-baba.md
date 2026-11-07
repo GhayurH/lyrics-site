@@ -12,30 +12,29 @@ romanLyrics: |-
   Zainab ye buka aaj bhi karti hai khule sar
   Faryad hai baba
   
-  1
   Be-parda phirayi gayi aulaad e payambar
   
-  2
+  1
   Baba mujhe ab koi na pehchaan sakega
   Ye haal hai mera
   Kuch itne sitam dhaaye hai taqdeer ne mujh par
   
-  3
+  2
   Pamaal hua qasim e naushaah ka laasha
   Bewa hui kubra
   Mehendi bhare haathon ko dulhan reh gayi mal kar
   
-  4
+  3
   Is gham se phata jaata hai seene may kaleja
   Mai reh gayi tanha
   Shabbir sa laaungi kahan se mai biraadar
   
-  5
+  4
   Paywast hua seene may is tarha se naiza
   Khinch aaya kaleja
   Aur khoon may tadapta raha shakle payambar
   
-  6
+  5
   Le kar mai alamdar ke do daste bureeda
   Aur khoon bhara kurta
   Aaungi ye kehti hui baba sar e mehshar
@@ -47,30 +46,29 @@ romanLyrics: |-
 زینب یہ بکا آج بھی کرتی ہے کھلے سر
 فریاد ہے بابا
 
-۱
 بے پردہ پھرای گیء اولاد پیمبر
 
-۲
+۱
 بابا مجھے اب کوئی نہ پہچان سکے گا
 یہ حال ہے میرا
 کچھ اتنے ستم ڈھاے ہیں تقدیر نے مجھ پر
 
-۳
+۲
 پامال ہوا قاسم نوشاہ کا لاشہ
 بیوہ ہوی کبرا
 مہندی بھرے ہاتھوں کو دولہن رہ گیء مل کر
 
-۴
+۳
 اس غم سے پھٹا جاتا ہے سینے میں کلیجہ
 میں رہ گیء تنہا
 شبیر سا لاؤں گی کہاں سے میں برادر
 
-۵
+۴
 پیوست ہوا سینے میں اس طرح سے نیزہ
 کھنچ آیا کلیجہ
 اور خوں میں تڑپتا رہا ہمشکل پیمبر
 
-۶
+۵
 لے کر میں علمدار کے دو دست بریدہ
 اور خوں بھرا کرتہ
 آؤں گی یہ کہتی ہوی بابا سر محشر
