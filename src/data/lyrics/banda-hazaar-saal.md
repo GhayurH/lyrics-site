@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Banda hazaar saal ibadat agar kare
   Aur zar bakhadre koh e ahad raah e haq mein de
   Hajj bhi pyada paa jo hazaar us ne ho kiye
@@ -21,7 +20,6 @@ romanLyrics: |-
 # raw_sha256: 2d8b24b23e4ea5f38007577c92f2313102531b710a0fff3dcae4a1b4f0a7cd36
 ---
 
-۱
 بندہ ہزار سال عبادت اگر کرے
 اور زر بقدر کوہ احد راہ حق میں دے
 حج بھی پیادہ پا جو ہزار اُس نے ہو کئے
