@@ -11,41 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya rasool allah
-
-  1
   Apni tanhaai mein zehra yaad karti hai tumhe
   Aap jab se huwe juda baba
   Fatema ka hai bus khuda baba
+
+  1
   Pehle amma ko khoya ab tumko
   Paas zahra ke kya bacha baba
+
+  2
   Aap ke baad guzre din aise
   Fatema aur nahi jafa baba
 
-  2
+  3
   Lakdiyan aag le ke aaya koi
   Aur jalaya tha dar mera baba
+
+  4
   Waasta aap ka diya maine
   Phir bhi zaalim nahi ruka baba
 
-  3
+  5
   Aap ke gham mein rona chaaha agar
   Mujhko rone nahi diya baba
+
+  6
   Har masayab ki inteha hai yehi
   Mera mohsin nahi raha baba
 
-  4
+  7
   Baad e mohsin samajh gayi hoo mai
   Karbala ki hai ibteda baba
+
+  8
   Nafs apna kaha jise tumne
   Uski khaatir kare dua baba
 
-  5
+  9
   Ab to milta nahi jawabe salaam
   Haal e hyder hai is tarha baba
+
+  10
   Naam lewa sahabiyo ne tere
   Haq bhi cheena yateem ka baba
 
-  6
+  11
   Najm o rehan par bhi kar do karam
   Hai ye zahra ki ilteja baba
 # source_id: nohayonline:8d4234a8cb8b4b9f3372
@@ -53,40 +63,50 @@ romanLyrics: |-
 # raw_sha256: 819272228971b2982af96b9ec77a88e78e4a92e7109904ae61b622ddfbd91eb8
 ---
 یا رسول اللّٰہ
-
-۱
 اپنی تنہائی میں زہرا یاد کرتی ہے تمہیں
 آپ جب سے ہوے جدا بابا
 فاطمہ کا ہے بس خدا بابا
+
+۱
 پہلے اماں کو کھویا اب تم کو
 پاس زہرا کے کیا بچا بابا
+
+۲
 آپ کے بعد گزرے دن ایسے
 فاطمہ اور نیء جفا بابا
 
-۲
+۳
 لکڑیاں آگ لے کے آیا کوئی
 اور جلایا تھا در میرا بابا
+
+۴
 واسطہ آپ کا دیا میں نے
 پھر بھی ظالم نہیں رکا بابا
 
-۳
+۵
 آپ کے غم میں رونا چاہا اگر
 مجھکو رونے نہیں دیا بابا
+
+۶
 ہر مصائب کی انتہا ہے یہی
 میرا محسن نہیں رہا بابا
 
-۴
+۷
 بعد محسن سمجھ گیء ہوں میں
 کربلا کی ہے ابتداء بابا
+
+۸
 نفس اپنا کہا جسے تم‌ نے
 اسکی خاطر کرے دعا بابا
 
-۵
+۹
 اب تو ملتا نہیں جواب سلام
 حال حیدر ہے اس طرح بابا
+
+۱۰
 نام لیوا صحابیوں نے تیرے
 حق بھی چھینا یتیم کا بابا
 
-۶
+۱۱
 نجم و ریحان پر بھی کر دو کرم
 ہے یہ زہرا کی التجاء بابا
