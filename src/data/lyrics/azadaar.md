@@ -11,15 +11,13 @@ aliases: []
 published: false
 romanLyrics: |-
   Maula tum hamare maula hum tumhare
-  
-  1
   Maula maula salaam aap pe sadd baar ya hussain
   Sab ishq e hussaini mein hai sar shaar ya hussain
   Sab pe ho karam aap ka sarkar ya hussain
   Haazir hai haazir hai haazir hai azadar azadar ya hussain
   Azadar azadar azadar azadar azadar
-  
-  2
+
+  1
   Hum charagh e mustafa ke parwane ay zamane
   Azadar azadar azadar
   Panjetan ke naam ke hai deewane ay zamane
@@ -28,6 +26,8 @@ romanLyrics: |-
   Azadare hussain azadare hussain azadare hussain
   Azadar azadar azadar azadar azadar
   Jiye jiye jiye karbala jiye ya hussain jiye azadar
+
+  2
   Makkah madina o najaf karbala
   Ishq e khuda ka hai yehi raasta
   Fatema hasnain ali laafatah
@@ -36,14 +36,10 @@ romanLyrics: |-
   Panjetan ke naam par nisaar hai
   Hum hai wafadar e khuda naam e mohamed pe fida
   Khaatim e rasool e kirdigaar
-  Hamara dil hamari jaan hamari ek hi zaban
-  Hai hamare seeno par likha hua
-  Azadare hussain azadare hussain azadare hussain
-  Azadar azadar azadar azadar azadar
   Hussain jaan hussain hussain jaan hussain
   Hussain jaan hussain jaan hussain jaan hussain
-  Hussain jaan hussain hussain jaan hussain
-  Hussain jaan hussain jaan hussain
+
+  3
   Haa mai wafadaar hoo shabbir ka
   Haa mai azadar hoo shabbir ka
   Monis o ghamkhwar hoo shabbir ka
@@ -52,10 +48,8 @@ romanLyrics: |-
   Hum dar e maula ke talabgaar hai
   Pehne huwe shaal e aza dil mein liye karbobala
   Maula tere khaafle tayyar hai
-  Hamara dil hamari jaan hamari ek hi zaban
-  Hai hamare seeno par likha hua
-  Azadare hussain azadare hussain azadare hussain
-  Azadar azadar azadar azadar azadar
+
+  4
   Karbobala kya hai bataate chalo
   Momino is gham ko manaate chalo
   Farshe aza mil ke bichaate raho
@@ -64,11 +58,8 @@ romanLyrics: |-
   Jaisa ke quran ka farman hai
   Haq pe jiyo haq pe maro pyar karo saath raho
   Karbobala ki yehi pehchan hai
-  Hamara dil hamari jaan hamari ek hi zaban
-  Hai hamare seeno par likha hua
-  Azadare hussain azadare hussain azadare hussain
-  Azadar azadar azadar azadar azadar
-  Jiye jiye jiye karbala jiye ya hussain jiye azadar
+
+  5
   Saara jahan halqa e matam mein hai
   Gham ki fiza maahe moharram mein hai
   Ishq e khuda pyaas ke mausam mein hai
@@ -77,14 +68,8 @@ romanLyrics: |-
   Parcham e abbas nigehbaan hai
   Aati hai zainab ki sada aagaya jo karbobala
   Fatema zehra ka wo mehmaan hai
-  Hamara dil hamari jaan hamari ek hi zaban
-  Hai hamare seeno par likha hua
-  Azadare hussain azadare hussain azadare hussain
-  Azadar azadar azadar azadar azadar
-  Hussain jaan hussain hussain jaan hussain
-  Hussain jaan hussain jaan hussain jaan hussain
-  Hussain jaan hussain hussain jaan hussain
-  Hussain jaan hussain jaan hussain jaan hussain
+
+  6
   Badhta rahe khaafela shabbir ka
   Marhala dar marhala dar marhala
   Tay ho safar sarwar o rehaan ka
@@ -94,51 +79,47 @@ romanLyrics: |-
   Hoga karam qadam qadam leke chalo shaah ka gham
   Parcham e abbas uthaate chalo
   Salaam ya hussain salaam ya hussain
-  Azadar azadar azadar azadar azadar
+
+  7
   Maula
   Anmol la zawaal ye rishta hai azadar
   Khadim hai azadar to aaqa hai ya hussain
   Wallah wallah
-  Anmol o la zawaal ye rishta hai azadar
-  Khadim hai azadar to aaqa hai ya husssain
-  
-  3
+
+  8
   Dunya mein jo hussain ka banta hai azadar
   Naslon ko ba muraad banata hai ya hussain
-  
-  4
+
+  9
   Jo bhi gham e hussain manaata hai azadar
   Uske sabhi ghamon ko mitaata hai ya hussain
-  
-  5
+
+  10
   Farshe aza jo ghar mein bichata hai azadar
   Ghar aise khush naseeb ke aata hai ya husssain
-  
-  6
+
+  11
   Matam jo sheh ka dhoop mein karta hai azadar
   Daaman mein usko apne chupaata hai ya hussain
-  
-  7
+
+  12
   Abbas ka alam jo uthaata hai azadar
   Usko wafa sheyaar banata hai ya hussain
-  
-  8
+
+  13
   Rutba agar shaheed ka paata hai azadar
   Mar kar bhi jeena usko sikhata hai ya hussain
-  
-  9
+
+  14
   Jo rizq bhi naseeb se paata hai azadar
   Deta khuda hai aur dilaata hai ya hussain
-  
-  10
+
+  15
   Labbaik ya hussain jo kehta hai azadar
   Zawwar usko apna banaata hai ya hussain
-  
-  11
+
+  16
   Salam ya hussain salam ya hussain salam ya hussain
-  Salam salam salam ya hussain
-  Salam salam salam ya hussain
-  Salam salam salam ya hussain
   Salam salam salam ya hussain
 # source_id: nohayonline:59a48c5908bbb9ee840d
 # source_url: https://www.nohayonline.com/details_content.php?id=2611
@@ -146,15 +127,13 @@ romanLyrics: |-
 ---
 
 مولا تم ہمارے مولا ہم تمہارے
-
-۱
 مولا سلام آپ پہ صد بار یا حسین
 سب عشقِ حسینی میں ہے سر شار یا حسین
 سب پہ ہو کرم آپ کا سرکار یا حسین
 حاضر ہے حاضر ہے حاضر ہے عزادار عزادار یا حسین
 عزادار عزادار عزادار عزادار عزادار
 
-۲
+۱
 ہم چراغ مصطفیٰ کے پروانے اے زمانے
 عزادار عزادار عزادار
 پنجتن کے نام کے ہیں دیوانے اے زمانے
@@ -163,6 +142,8 @@ romanLyrics: |-
 عزادارِ حسین عزادارِ حسین عزادارِ حسین
 عزادار عزادار عزادار عزادار عزادار
 جیےء کربلا جیےء کربلا جیےء کربلا حسین جیےء عزادار
+
+۲
 مکہ مدینہ و نجف کربلا
 عشقِ خدا کا ہے یہی راستہ
 فاطمہ حسنین علی لافتی
@@ -171,14 +152,10 @@ romanLyrics: |-
 پنجتن کے نام پر نثار ہے
 ہم ہیں وفادار خدا نام محمد پہ فدا
 خاتم رسول کردگار ہے
-ہمارا دل ہماری جان ہماری ایک ہی زباں
-ہے ہمارے سینوں پر لکھا ہوا
-عزادارِ حسین عزادارِ حسین عزادارِ حسین
-عزادار عزادار عزادار عزادار عزادار
 حسین جان حسین حسین جان حسین
 حسین جان حسین جان حسین جان حسین
-حسین جان حسین حسین جان حسین
-حسین جان حسین جان حسین
+
+۳
 ہاں میں وفادار ہوں شبیر کا
 ہاں میں عزادار ہوں شبیر کا
 مونس و غم خوار ہوں شبیر کا
@@ -187,10 +164,8 @@ romanLyrics: |-
 ہم در مولا کے طلبگار ہے
 پہنے ہوے شال عزا دل میں لیےء کربوبلا
 مولا تیرے قافلے تیار ہیں
-ہمارا دل ہماری جان ہماری ایک ہی زباں
-ہے ہمارے سینوں پر لکھا ہوا
-عزادارِ حسین عزادارِ حسین عزادارِ حسین
-عزادار عزادار عزادار عزادار عزادار
+
+۴
 کربوبلا کیا ہے بتاتے چلو
 مومنو اس غم کو مناتے چلو
 فرش عزا مل کے بچھاتے رہو
@@ -199,11 +174,8 @@ romanLyrics: |-
 جیسا کہ قرآن کا فرمان ہے
 حق پہ جیو حق پہ مرو پیار کرو ساتھ رہو
 کربوبلا کے یہی پہچان ہے
-ہمارا دل ہماری جان ہماری ایک ہی زباں
-ہے ہمارے سینوں پر لکھا ہوا
-عزادارِ حسین عزادارِ حسین عزادارِ حسین
-عزادار عزادار عزادار عزادار عزادار
-جیےء جیےء جیےء کربلا جیےء یا حسین جیےء عزادار
+
+۵
 سارا جہاں حلقۂ ماتم میں ہے
 غم کی فضا ماہ محرم میں ہے
 عشقِ خدا پیاس کے موسم میں ہے
@@ -212,14 +184,8 @@ romanLyrics: |-
 پرچمِ عباس نگہبان ہے
 آتی ہے زینب کی صدا آ گیا جو کربوبلا
 فاطمہ زہرا کا وہ مہمان ہے
-ہمارا دل ہماری جان ہماری ایک ہی زباں
-ہے ہمارے سینوں پر لکھا ہوا
-عزادارِ حسین عزادارِ حسین عزادارِ حسین
-عزادار عزادار عزادار عزادار عزادار
-حسین جان حسین حسین جان حسین
-حسین جان حسین جان حسین جان حسین
-حسین جان حسین حسین جان حسین
-حسین جان حسین جان حسین جان حسین
+
+۶
 بڑھتا رہے قافلہ شبیر کا
 مرحلہ در مرحلہ در مرحلہ
 طےء ہو سفر سرور و ریحان کا
@@ -229,47 +195,45 @@ romanLyrics: |-
 ہوگا کرم قدم قدم لے کے چلو شاہ کا غم
 پرچمِ عباس اٹھاتے چلو
 سلام یا حسین سلام یا حسین
-عزادار عزادار عزادار عزادار عزادار
+
+۷
 مولا
 انمول لا زوال یہ رشتہ ہے عزادار
 خادم ہے عزادار تو آقا ہے یا حسین
 واللہ واللہ
-انمول لا زوال یہ رشتہ ہے عزادار
-خادم ہے عزادار تو آقا ہے یا حسین
 
-۳
+۸
 دنیا میں جو حسین کا بنتا ہے عزادار
 نسلوں کو با مراد بناتا ہے یا حسین
 
-۴
+۹
 جو بھی غمِ حسین مناتا ہے عزادار
 اس کے سبھی غموں کو مٹاتا ہے یا حسین
 
-۵
+۱۰
 فرش عزا جو گھر میں بچھاتا ہے عزادار
 گھر ایسے خوش نصیب کے آتا ہے یا حسین
 
-۶
+۱۱
 ماتم جو شہ کا دھوپ میں کرتا ہے عزادار
 دامن میں اس کو اپنے چھپاتا ہے یا حسین
 
-۷
+۱۲
 عباس کا علم جو اٹھاتا ہے عزادار
 اس کو وفا شعار بناتا ہے یا حسین
 
-۸
+۱۳
 رتبہ اگر شہید گا پاتا ہے عزادار
 مر کر بھی جینا اس کو سکھاتا ہے یا حسین
 
-۹
+۱۴
 جو رزق بھی نصیب سے پاتا ہے عزادار
 دیتا خدا ہے اور دلاتا ہے یا حسین
+
+۱۵
 لبیک یا حسین جو کہتا ہے عزادار
 زوار اس کو اپنا بناتا ہے یا حسین
 
-۱۰
+۱۶
 سلام یا حسین سلام یا حسین سلام یا حسین
-سلام سلام سلام یا حسین
-سلام سلام سلام یا حسین
-سلام سلام سلام یا حسین
 سلام سلام سلام یا حسین
