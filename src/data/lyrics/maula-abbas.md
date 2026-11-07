@@ -36,8 +36,6 @@ romanLyrics: |-
   4
   Hai jo lahoo mein wafa
   Ye bhi hai teri ata
-  Maula abbas...
-  Jispe karam hai...
 
   5
   Tera alam har gham ki dawa hai
@@ -48,8 +46,6 @@ romanLyrics: |-
   6
   Rab se kahun bhi to kya
   Jo maanga tune diya
-  Maula abbas...
-  Jispe karam hai...
 
   7
   Maine zamane ko ye bataya
@@ -60,8 +56,6 @@ romanLyrics: |-
   8
   Bin maange sunle dua
   Aisa saqi hai mera
-  Maula abbas...
-  Jispe karam hai...
 
   9
   Ay mere ghazi hum hai sawaali
@@ -72,8 +66,6 @@ romanLyrics: |-
   10
   Tere to dar se kabhi
   Khaali na koi gaya
-  Maula abbas...
-  Jispe karam hai...
 
   11
   Tera karam be-dast hai aisa
@@ -84,8 +76,6 @@ romanLyrics: |-
   12
   Maula ali ki tarha
   Hai tu bhi mushkil kusha
-  Maula abbas...
-  Jispe karam hai...
 
   13
   Hum hai faqeer aur tu hai shahensha
@@ -96,8 +86,6 @@ romanLyrics: |-
   14
   Tera karam wo dawa
   Taale jo sar se khaza
-  Maula abbas...
-  Jispe karam hai...
 
   15
   Tere masayab bhoole kahan hum
@@ -108,8 +96,6 @@ romanLyrics: |-
   16
   Karte hai matam bapa
   Ye keh ke ahle aza
-  Maula abbas...
-  Jispe karam hai...
 
   17
   Kaisa tha dard bhara wo manzar
@@ -120,8 +106,6 @@ romanLyrics: |-
   18
   Karte hai pyase sabhi
   Ye keh ke matam bapa
-  Maula abbas...
-  Jispe karam hai...
 
   19
   Tere ghulam irfan aur mazhar
@@ -132,8 +116,6 @@ romanLyrics: |-
   20
   Jaari rahega sada
   Ye kaarwan e aza
-  Maula abbas...
-  Jispe karam hai...
 # source_id: nohayonline:899953a10453692ea2ca
 # source_url: https://www.nohayonline.com/details_content.php?id=966
 # raw_sha256: f2830457c7c217d4437683fe404e9607135384dd888405e9c642b63296bd9412
@@ -164,8 +146,6 @@ romanLyrics: |-
 ۴
 ہے جو لہو میں وفا
 یہ بھی ہے تیری عطا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔
 
 ۵
 تیرا الم ہر غم کی دوا ہے
@@ -176,8 +156,6 @@ romanLyrics: |-
 ۶
 رب سے کہوں بھی تو کیا
 جو مانگا تو نے دیا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔
 
 ۷
 میں نے زمانے کو یہ بتایا
@@ -188,8 +166,6 @@ romanLyrics: |-
 ۸
 بن مانگے سن لے دعا
 ایسا سقی ہے میرا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔
 
 ۹
 اے میرے غازی ہم ہیں سوالی
@@ -200,8 +176,6 @@ romanLyrics: |-
 ۱۰
 تیرے تو در سے کبھی
 خالی نہ کوئی گیا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔
 
 ۱۱
 تیرا کرم بے دست ہے ایسا
@@ -212,8 +186,6 @@ romanLyrics: |-
 ۱۲
 مولا علی کی طرح
 ہے تو بھی مشکل کشا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔
 
 ۱۳
 ہم ہیں فقیر اور تو ہے شہنشاہ
@@ -224,8 +196,6 @@ romanLyrics: |-
 ۱۴
 تیرا کرم وہ دوا
 ٹالے جو سر سے قضا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔
 
 ۱۵
 تیرے مصائب بھولے کہاں ہم
@@ -236,8 +206,6 @@ romanLyrics: |-
 ۱۶
 کرتے ہیں ماتم بپا
 یہ کہہ کے اہل عزا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔
 
 ۱۷
 کیسا تھا درد بھرا وہ منظر
@@ -248,8 +216,6 @@ romanLyrics: |-
 ۱۸
 کرتے ہیں پیاسے سبھی
 یہ کہہ کے ماتم بپا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔
 
 ۱۹
 تیرے غلام عرفان اور مظہر
@@ -260,5 +226,3 @@ romanLyrics: |-
 ۲۰
 جاری رہے گا صدا
 یہ کاروان عزا
-مولا عباس۔۔۔
-جس پہ کرم ہے۔۔۔

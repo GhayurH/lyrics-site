@@ -30,7 +30,6 @@ romanLyrics: |-
   3
   Aayah hussain surah hussain
   Ya aabaab dillahil hussain
-  Wallah hussain...
   Labe darya nazar aaya hai ajab ek manzar
 
   4
@@ -40,7 +39,6 @@ romanLyrics: |-
   Ya aabaab dillahil hussain
 
   5
-  Wallah hussain...
   Ahle kaunain ko is tarha se samjhate hai
   Farsh majlis ka bichaate hai to sab aate hai
   Farsh pe aan ke dunya ko ye batlaate hai
@@ -48,7 +46,6 @@ romanLyrics: |-
   6
   Mera hussain sab ka hussain
   Ya aabaab dillahil hussain
-  Wallah hussain...
   Martaba haq ne hai baksha ye azadaron ko
 
   7
@@ -58,7 +55,6 @@ romanLyrics: |-
   Ya aabaab dillahil hussain
 
   8
-  Wallah hussain...
   Dehr mein bhi ghame shabbir ne rutba baksha
   Hashr mein bhi ghame shabbir raha sarmeina
   Jis jagah pahunche shahe deen ka hi jalwa dekha
@@ -66,7 +62,6 @@ romanLyrics: |-
   9
   Dunya hussain uqbaa hussain
   Ya aabaab dillahil hussain
-  Wallah hussain...
   Ashk e gham waadi e firdaus mein le jaate hai
 
   10
@@ -76,7 +71,6 @@ romanLyrics: |-
   Ya aabaab dillahil hussain
 
   11
-  Wallah hussain...
   Yuhin rakhenge alam hazrate ghazi ka alam
   Hashr tak leke yuhin jayenge shabbir ka gham
   Sar e sooli bhi nahi chodenge sheh ka matam
@@ -84,7 +78,6 @@ romanLyrics: |-
   12
   Ghurba hussain jazba hussain
   Ya aabaab dillahil hussain
-  Wallah hussain...
   Sheh ke ghamkhwar hai hum sab zamane waale
 
   13
@@ -94,7 +87,6 @@ romanLyrics: |-
   Ya aabaab dillahil hussain
 
   14
-  Wallah hussain...
   Waadi e deen se aati hai ye har gaam sada
   Hai azaanein ghame shaahe shohda ka sadqa
   Hai namazon ka ye aelaan baraye sajda
@@ -108,7 +100,6 @@ romanLyrics: |-
   16
   Sajda hussain haqqa hussain
   Ya aabaab dillahil hussain
-  Wallah hussain...
   Hum baatate hai ye ab jaan le dunya waale
 
   17
@@ -118,7 +109,6 @@ romanLyrics: |-
   Ya aabaab dillahil hussain
 
   18
-  Wallah hussain...
   Kuch khabar lo meri sun kar meri awaaz utho
   Kab se awaaz diye jaati hai dukhiya tum ko
   Godh phailaye khadi hoo meri jaanib dekho
@@ -126,7 +116,6 @@ romanLyrics: |-
   19
   Beta hussain aaja hussain
   Ya aabaab dillahil hussain
-  Wallah hussain...
   Hai sar e dashte musibat mera baccha baba
 
   20
@@ -136,14 +125,12 @@ romanLyrics: |-
   Ya aabaab dillahil hussain
 
   21
-  Wallah hussain...
   Al atash kehta raha sheh ka gala seh din tak
   Halq tak boondh bhi pani na gaya seh din tak
   Tashna hussain pyasa hussain
 
   22
   Ya aabaab dillahil hussain
-  Wallah hussain...
   Asr ka waqt hai hangaam e qaza wavaila
   Thi yehi dayam o yazdan kisi bekas ki sada
 
@@ -151,7 +138,6 @@ romanLyrics: |-
   Kab se awaaz tujhe deti hai ro kar dukhiya
   Mera hussain uth ja hussain
   Ya aabaab dillahil hussain
-  Wallah hussain...
 # source_id: nohayonline:39aab6ef41a94f859c2f
 # source_url: https://www.nohayonline.com/details_content.php?id=2511
 # raw_sha256: f88578821faa964f5571d3b2f8501e1b07157989b41b6884f055142062d69ef2
@@ -176,7 +162,6 @@ romanLyrics: |-
 ۳
 آیہ حسین سورہ حسین
 یا أبا عبداللّٰہ الحسین
-واللہ حسین۔۔۔
 لب دریا نظر آیا ہے عجب ایک منظر
 
 ۴
@@ -186,7 +171,6 @@ romanLyrics: |-
 یا أبا عبداللّٰہ الحسین
 
 ۵
-واللہ حسین۔۔۔
 اہلِ کونین کو اس طرح سے سمجھاتے ہیں
 فرش مجلس کا بچھاتے ہیں تو سب آتے ہے
 فرش پہ آن کے دنیا کو یہ بتلاتے ہیں
@@ -194,7 +178,6 @@ romanLyrics: |-
 ۶
 میرا حسین سب کا حسین
 یا أبا عبداللّٰہ الحسین
-واللہ حسین۔۔۔
 مرتبہ حق نے ہے بخشا یہ عزاداروں کو
 
 ۷
@@ -204,7 +187,6 @@ romanLyrics: |-
 یا أبا عبداللّٰہ الحسین
 
 ۸
-واللہ حسین۔۔۔
 دہر میں بھی غمِ شبیر نے رتبہ بخشا
 حشر میں بھی غمِ شبیر رہا سرمایہ
 جس جگہ پہنچے شہ دیں کا ہی جلوہ دیکھا
@@ -212,7 +194,6 @@ romanLyrics: |-
 ۹
 دنیا حسین عقبہ حسین
 یا أبا عبداللّٰہ الحسین
-واللہ حسین۔۔۔
 اشک غمِ وادیء فردوس میں لے جاتے ہیں
 
 ۱۰
@@ -222,7 +203,6 @@ romanLyrics: |-
 یا أبا عبداللّٰہ الحسین
 
 ۱۱
-واللہ حسین۔۔۔
 یونہی رکھیں گے علم حضرت غازی کا علم
 حشر تک لے کے یونہی جایینگے شبیر کا غم
 سر سولی بھی نہیں چھوڑیں گے شہ کا ماتم
@@ -230,7 +210,6 @@ romanLyrics: |-
 ۱۲
 غربا حسین جزبہ حسین
 یا أبا عبداللّٰہ الحسین
-واللہ حسین۔۔۔
 شہ کے غم خوار ہے ہم سب زمانے والے
 
 ۱۳
@@ -240,7 +219,6 @@ romanLyrics: |-
 یا أبا عبداللّٰہ الحسین
 
 ۱۴
-واللہ حسین۔۔۔
 وادیء دیں سے آتی ہے یہ ہر گام صدا
 ہے اذانیں غمِ شاہ شہداء کا صدقہ
 ہے نمازوں کا یہ اعلان براے سجدہ
@@ -254,7 +232,6 @@ romanLyrics: |-
 ۱۶
 سجدہ حسین حقا حسین
 یا أبا عبداللّٰہ الحسین
-واللہ حسین۔۔۔
 ہم بتاتے ہیں یہ اب جان لے دنیا والے
 
 ۱۷
@@ -264,7 +241,6 @@ romanLyrics: |-
 یا أبا عبداللّٰہ الحسین
 
 ۱۸
-واللہ حسین۔۔۔
 کچھ خبر لو میری سن کر میری آواز اٹھو
 کب سے آواز دیےء جاتی ہے دکھیا تم کو
 گود پھیلاے کھڑی ہوں میری جانب دیکھو
@@ -272,7 +248,6 @@ romanLyrics: |-
 ۱۹
 بیٹا حسین آجا حسین
 یا أبا عبداللّٰہ الحسین
-واللہ حسین۔۔۔
 ہے سر دشت مصیبت میرا بچہ بابا
 
 ۲۰
@@ -282,14 +257,12 @@ romanLyrics: |-
 یا أبا عبداللّٰہ الحسین
 
 ۲۱
-واللہ حسین۔۔۔
 العطش کہتا رہا شہ کا گلا سہہ دن تک
 حلق تک بوندھ بھی پانی نہ گیا سہہ دن تک
 تشنہ حسین پیاسا حسین
 
 ۲۲
 یا أبا عبداللّٰہ الحسین
-واللہ حسین۔۔۔
 عصر کا وقت ہے ہنگام قضا واویلا
 تھی یہی دایم و یزداں کسی بیکس کی صدا
 
@@ -297,4 +270,3 @@ romanLyrics: |-
 کب سے آواز تجھے دیتی ہے رو کر دکھیا
 میرا حسین اٹھ جا حسین
 یا أبا عبداللّٰہ الحسین
-واللہ حسین۔۔۔

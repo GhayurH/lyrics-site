@@ -30,8 +30,6 @@ romanLyrics: |-
   3
   Meri musafira behan
   Tu hausla na haarna
-  Sina pe hoo to kya…
-  Behan mai saath…
 
   4
   Wafa e waada ho chuka
@@ -41,8 +39,6 @@ romanLyrics: |-
 
   5
   Tu hausla na haarna
-  Sina pe hoo to kya…
-  Behan mai saath…
   Ye rassiyan ye bediyan
 
   6
@@ -52,8 +48,6 @@ romanLyrics: |-
   Tu hausla na haarna
 
   7
-  Sina pe hoo to kya…
-  Behan mai saath…
   Agar hai raasta kathan
   Zara na darr meri behan
 
@@ -61,10 +55,8 @@ romanLyrics: |-
   Tu berida mai bekafan
   Hai waqt hausla shikan
   Tu hausla na haarna
-  Sina pe hoo to kya…
 
   9
-  Behan mai saath…
   Qadam qadam shahadatein
   Guzar gayi qayamatein
   Abhi hai aur aafatein
@@ -72,8 +64,6 @@ romanLyrics: |-
   10
   Sambhaal ab amaanatein
   Tu hausla na haarna
-  Sina pe hoo to kya…
-  Behan mai saath…
 
   11
   Koi bhi ab nahi bacha
@@ -83,8 +73,6 @@ romanLyrics: |-
 
   12
   Tu hausla na haarna
-  Sina pe hoo to kya…
-  Behan mai saath…
   Behan teher teher yahin
 
   13
@@ -94,8 +82,6 @@ romanLyrics: |-
   Tu hausla na haarna
 
   14
-  Sina pe hoo to kya…
-  Behan mai saath…
   Bahot qareeb shaam hai
   Hujoom e khaas o aam hai
 
@@ -103,10 +89,8 @@ romanLyrics: |-
   Yazeede bad kalaam hai
   Ye waqte inteqam hai
   Tu hausla na haarna
-  Sina pe hoo to kya…
 
   16
-  Behan mai saath…
   Rehaan o sarwar e aza
   Jo shaam pahuncha khaafila
   Sar e hussain ne kaha
@@ -114,8 +98,6 @@ romanLyrics: |-
   17
   Ulat de takht shaam ka
   Tu hausla na haarna
-  Sina pe hoo to kya…
-  Behan mai saath…
 # source_id: nohayonline:58da51455872e989cbd1
 # source_url: https://www.nohayonline.com/details_content.php?id=359
 # raw_sha256: 667614822848ce79ab12ee008afdd3e92ad904a361e0ae009707446839689d73
@@ -140,8 +122,6 @@ romanLyrics: |-
 ۳
 میری مسافرہ بہن
 تُو حوصلہ نہ ہارنا
-سناں پہ ہوں تو کیا۔۔۔
-بہن میں ساتھ۔۔۔
 
 ۴
 وفا ئے وعدہ ہوچکا
@@ -151,8 +131,6 @@ romanLyrics: |-
 
 ۵
 تُو حوصلہ نہ ہارنا
-سناں پہ ہوں تو کیا۔۔۔
-بہن میں ساتھ۔۔۔
 یہ رسیاں یہ بیڑیاں
 
 ۶
@@ -162,8 +140,6 @@ romanLyrics: |-
 تُو حوصلہ نہ ہارنا
 
 ۷
-سناں پہ ہوں تو کیا۔۔۔
-بہن میں ساتھ۔۔۔
 اگر ہے راستہ کٹھن
 ذرا نہ ڈر میری بہن
 
@@ -171,10 +147,8 @@ romanLyrics: |-
 تُو بے ردا میں بے کفن
 ہے وقت حوصلہ شکن
 تُو حوصلہ نہ ہارنا
-سناں پہ ہوں تو کیا۔۔۔
 
 ۹
-بہن میں ساتھ۔۔۔
 قدم قدم شہادتیں
 گزر گئیں قیامتیں
 ابھی ہیں اور آفتیں
@@ -182,8 +156,6 @@ romanLyrics: |-
 ۱۰
 سنبھال اب امانتیں
 تُو حوصلہ نہ ہارنا
-سناں پہ ہوں تو کیا۔۔۔
-بہن میں ساتھ۔۔۔
 
 ۱۱
 کوئی بھی اب نہیں بچا
@@ -193,8 +165,6 @@ romanLyrics: |-
 
 ۱۲
 تُو حوصلہ نہ ہارنا
-سناں پہ ہوں تو کیا۔۔۔
-بہن میں ساتھ۔۔۔
 بہن ٹھہرٹھہر یہیں
 
 ۱۳
@@ -204,8 +174,6 @@ romanLyrics: |-
 تُو حوصلہ نہ ہارنا
 
 ۱۴
-سناں پہ ہوں تو کیا۔۔۔
-بہن میں ساتھ۔۔۔
 بہت قریب شام ہے
 ہجومِ خاص وعام ہے
 
@@ -213,10 +181,8 @@ romanLyrics: |-
 یزید بد کلام ہے
 یہ وقتِ انتقام ہے
 تُو حوصلہ نہ ہارنا
-سناں پہ ہوں تو کیا۔۔۔
 
 ۱۶
-بہن میں ساتھ۔۔۔
 ریحان وسرورِعزا
 جو شام پہنچا قافلہ
 سرِ حسین نے کہا
@@ -224,5 +190,3 @@ romanLyrics: |-
 ۱۷
 اُلٹ دے تخت شام کا
 تُو حوصلہ نہ ہارنا
-سناں پہ ہوں تو کیا۔۔۔
-بہن میں ساتھ۔۔۔

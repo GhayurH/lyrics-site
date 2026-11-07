@@ -12,167 +12,155 @@ published: false
 romanLyrics: |-
   Ta surat e paywand e jahan bood ali bood
   Ta naqsh e zameen bood zamaan bood ali bood
-  
+
   1
   Shaahi ke wali bood o wasi bood ali bood
   Sultan e sakha o karam o jood ali bood
   Ham adam o ham shees o ham idris o ham ayub
   Ham yusuf o ham yunus o ham hood ali bood
-  
+
   2
   Ham musa o ham isa o ham khizr o ham ilyaas
   Ham saalih e paygambar o dawood ali bood
   Taaron ne abhi aankh na kholi thi ali tha
   Na amn ka paigham na holi thi ali tha
-  
+
   3
   Daata tha duayein thi na jholi thi ali tha
   Khaaliq ki zaban kun bhi na boli thi ali tha
   Ali maulana ali ali maulana ali
   Toote dilon ki sada ali maulana ali
-  
+
   4
   Taaj e wilayat tera ali maulana ali
   Haq ne kiya faisla khuld mein wo jayega
   Jo bhi mohib hai tera
-  Ali maulana ali...
-  
+
   5
   Angusht pe darwaza e khyber ko utaahle
   Jo doobte suraj ko ishaare se bulaale
   Toofano ka rukh phayr de mushkil se nikaale
   Jab chaahe jahan chaahe jise chaahe bachale
-  
+
   6
   Kulle emaan hai tu
   Rab ki pehchaan hai tu
   Deen ki jaan hai tu
-  Ali maulana ali...
-  
+
   7
   Teri jo fazeelat hai wo afsana nahi hai
   Munkir hai jise teri taraf aana nahi hai
   Juz zaat e mohamed koi pehchana nahi hai
   Dunya ne tujhe maana magar jaana nahi hai
-  
+
   8
   Ye tera jaah o hasham
   Saahib e tayg e do dam
   Hai tera sab pe karam
-  Ali maulana ali...
-  
+
   9
   Tu sab se badi khaliq e akbar ki nishani
   Na uska koi saani na tera koi saani
   Kehte hai ye quran ke tafseer o ma'ani
   Dunya ne abhi teri haqeeqat nahi jani
-  
+
   10
   Ayatullah bhi tu
   Wajhullah bhi tu
   Asadullah bhi tu
-  Ali maulana ali...
-  
+
   11
   Hum tere muqallid hai tu hi rehbar e azam
   Hai noor tera noor e khudawand e do aalam
   Ek bhai mohamed hai tera noor e mujassam
   Jhutlaye meri baat ko kis mein hai bhala dam
-  
+
   12
   Hai tu hi aala nasb
   Sher haq tera laqab
   Keh rahe hai yehi sab
-  Ali maulana ali...
-  
+
   13
   Doobte suraj ne kaha
   Chand sitaron ne kaha
   Laal qalandar ne kaha
   Tere liye hamd o sana
-  
+
   14
   Na nooh thay na un ka safina tha ali tha
   Yasrab tha na makka na madina tha ali tha
   Abid na ibadat ka kareena tha ali tha
   Jis waqt pe marna tha na jeena tha na ali tha
-  
+
   15
   Taskeen e dil o jaan to ibadat se milegi
   Tasdeeq ibadat ko mawadat se milegi
   Sajdon ko sanad teri wilayat se milegi
   Tauheed hamein teri mohabat se milegi
-  
+
   16
   Jo tujhe maane khuda
   Wo bhi munkir hai tera
   Ye aqeeda hai mera
-  Ali maulana ali...
-  
+
   17
   Padta hai teri shaan mein quran qaseede
   Alhamd se wal-naas talak hai tere charche
   Quran ki tilawat se khule raaz ye saare
   Wal-fajr bhi wal-shams bhi wal-layl bhi tu hai
-  
+
   18
   Aql mein aata nahi
   Qalb se jaata nahi
   Kya hai samajh aata nahi
-  Ali maulana ali...
-  
+
   19
   Juz tere kiya jis ne salooni ka ye daawa
   Jo poochna chahoge jawab uska milega
   Haathon ki hateli ki tarha se hai ye dunya
   Mai hota tere daur mein to pooch hi leta
-  
+
   20
   Kun faya kun ka safar
   Ye sitaron ka nagar
   Kya hai ye shams o qamar
-  Ali maulana ali...
-  
+
   21
   Ummat ne tere baad yateemo ko sataya
   Maula teri aulaad ko hai khoon rulaaya
   Ek pyase musafir ka lahoo ban mein bahaya
   Zainab ki rida loot ke qaimo ko jalaya
-  
+
   22
   Royi thi karbobala
   Aaiye sher e khuda
   Lut gayi aal e aba
-  Ali maulana ali...
-  
+
   23
   Jab shaam e ghariban ki rida dasht pe chaayi
   Ghazi ki behan ranj o masayib ki satayi
   Ek toota huwa naiza liye pehre pe aayi
   Haathon se jigar thaam ke deti thi duhaai
-  
+
   24
   Chin gayi meri rida
   Bhai bhi qatl huwa
   Aaiye karbabola
-  Ali maulana ali...
-  
+
   25
   Kehte hai zamane se yehi mesum o mazhar
   Hum hyder e karraar ki dehleez ke naukar
   Rehti hai hama waqt sada ek labon par
   Is dar se bada saare zamane mein nahi dar
-  
+
   26
   Maalik e kauno makan
   Saat pardon mein niha
   Hai aqeedat ki azan
-  Ali maulana ali...
 # source_id: nohayonline:24e5a891a013f1e5d2b5
 # source_url: https://www.nohayonline.com/details_content.php?id=1305
 # raw_sha256: 8072321a73e9665c37e6d2cd5a4cb1e1f3a27409b25eb71af0dedbe00be84b25
 ---
-
 تا صورت پیوند جہاں بود علی بود
 تا نقش زمیں بود زماں بود علی بود
 
@@ -198,7 +186,6 @@ romanLyrics: |-
 تاج ولایت تیرا علی مولانا علی
 حق نے کیا فیصلہ خلد میں وہ جاے گا
 جو بھی محب ہے تیرا
-علی مولانا علی۔۔۔
 
 ۵
 انگشت پہ دروازہء خیبر کو اٹھالے
@@ -210,7 +197,6 @@ romanLyrics: |-
 کل ایمان ہے تو
 رب کی پہچان ہے تو
 دین کی جان ہے تو
-علی مولانا علی۔۔۔
 
 ۷
 تیری جو فضیلت ہے وہ افسانہ نہیں ہے
@@ -222,7 +208,6 @@ romanLyrics: |-
 یہ تیرا جاہ و ہشم
 صاحبِ تیغِ دو دم
 ہے تیرا سب پہ کرم
-علی مولانا علی۔۔۔
 
 ۹
 تو سب سے بڑی خالقِ اکبر کی نشانی
@@ -234,7 +219,6 @@ romanLyrics: |-
 آیت اللہ بھی تو
 وجہہ اللہ بھی تو
 اسداللہ بھی تو
-علی مولانا علی۔۔۔
 
 ۱۱
 ہم تیرے مقلد ہے تو ہی رہبر اعظم
@@ -246,7 +230,6 @@ romanLyrics: |-
 ہے تو ہی اعلٰی نصب
 شیر حق تیرا لقب
 کہہ رہے ہیں یہی سب
-علی مولانا علی۔۔۔
 
 ۱۳
 ڈوبتے سورج نے کہا
@@ -270,7 +253,6 @@ romanLyrics: |-
 جو تجھے مانے خدا
 وہ بھی منکر ہے تیرا
 یہ عقیدہ ہے میرا
-علی مولانا علی۔۔۔
 
 ۱۷
 پڑتا ہے تیری شان میں قرآن قصیدہ
@@ -282,7 +264,6 @@ romanLyrics: |-
 عقل سے جاتا نہیں
 قلب سے جاتا نہیں
 کیا ہے سمجھ آتا نہیں
-علی مولانا علی۔۔۔
 
 ۱۹
 جز تیرے کیا جس نے سلونی کا یہ دعوہ
@@ -294,7 +275,6 @@ romanLyrics: |-
 کن فیکون کا سفر
 یہ ستاروں کا نگر
 کیا ہے یہ شمس و قمر
-علی مولانا علی۔۔۔
 
 ۲۱
 امت نے تیرے بعد یتیموں کو ستایا
@@ -306,7 +286,6 @@ romanLyrics: |-
 روی تھی کربوبلا
 آیےء شیر خدا
 لٹ گیء آل عبا
-علی مولانا علی۔۔۔
 
 ۲۳
 جب شام غریباں کی ردا دشت پہ چھائی
@@ -318,7 +297,6 @@ romanLyrics: |-
 چھن گیء میری ردا
 بھای بھی قتل ہوا
 آیےء کربوبلا
-علی مولانا علی۔۔۔
 
 ۲۵
 کہتے ہیں زمانے سے یہی میثم و مظہر
@@ -330,4 +308,3 @@ romanLyrics: |-
 مالک کون و مکاں
 سات پردوں میں نہاں
 ہے عقیدت کی اذاں
-علی مولانا علی۔۔۔
