@@ -10,40 +10,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Karbala jaisi aalam ki tareekh mein
-  
-  1
   Dukh bhari daastan koi hai hi nahi
   Deen par jo mite un shaheedon mein bhi
   Misle akbar jawan koi hai hi nahi
+
+  1
   Maahe ramzan mein dada ne de thi azaan
   Subhe ashoor potay ne bhi di azaan
   Goonji kufe mein wo goonji karbal mein ye
   Dono jaisi azaankoi koi hai hi nahi
-  
+
   2
   Chand laila ka jis waqt ran ko chala
   Hukme sarwar se mud mud ke dekha kiya
   Qalbe sarwar se aati thi us dam sada
   Misle akbar jawan koi hai hi nahi
-  
+
   3
   Maanga akbar ne pani to shabbir ne
   Le li sookhi zaban moo mein farzand ki
   Usne wapas zaban khaynchi kehte huwe
   Aisi sookhi zaban koi hai hi nahi
-  
+
   4
   Inko hamshakle ahmed thay sab maante
   Phir bhi barsayi tayghein ye kehte huwe
   Dekho saare gharane mein shabbir ke
   Aisa kadiyal jawan koi hai hi nahi
-  
+
   5
   Pahunche shabbir farzand ki laash par
   Khaynchi seene se barchi to nikla jigar
   Mar gaya aediyon ko ragad ke pisar
   Aisa sakht imtehan koi hai hi nahi
-  
+
   6
   Aayi qaime mein laashe shabihe nabi
   Dil pe laila ke aaafat ki barchi lagi
@@ -55,11 +55,11 @@ romanLyrics: |-
 ---
 
 کربلا جیسی عالم کی تاریخ میں
-
-۱
 دکھ بھری داستاں کوی ہے ہی نہیں
 دین پر جو مٹے ان شہیدوں میں بھی
 مثل اکبر جواں کوی نہیں ہی نہیں
+
+۱
 ماہ رمضان میں دادا نے دی تھی اذاں
 صبحِ عاشور پوتے نے بھی دی اذاں
 گونجی کوفے میں وہ گونجی کربلا میں یہ
