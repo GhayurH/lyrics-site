@@ -9,141 +9,77 @@ tags: ["noImage"]
 aliases: []
 published: false
 alternateTitle: Dua E Kumail Nadeem Sarwar
-romanLyrics: 'Ya sari ar-reza
-
-
-  1
-
+romanLyrics: |-
+  Ya sari ar-reza
   Ighfir leman la yamliko ilad dua
-
   Fa innaka fa aalul lema tasha
-
   Ya man ismahu dawa
-
   Wa zikrahu shifaa
-
   Wa taahtahu ghenan
 
+  1
   Tu hi kabeer tu hi kibriya tu raahnuma
-
   Rage gulu se bhi nazdeek tu har ek lamha
-
-  Hai tere naam ki ta''seer har maraz ki dawa
-
+  Hai tere naam ki ta'seer har maraz ki dawa
   Hai tere zikr mein posheeda mere haq mein shafa
-
   Baghair maange hi karta hai tu ataa pe ataa
-
   Sada se pehle hi sunta hai saailon ki sada
 
-
   2
-
-  Ya manismahu dawa wa zikrahu shifaa, Wa tahtahu ghenan
-
-  2) Ali wasila bane aur komail paye shafa,
-
-  Usi ke naam se mansoob hogayi ye dua,
-
-  Shabe jumaa hai dua-e-komail shukr tera,
-
-  Ye ibteda hai to hai imtehan hadise kisaa,
-
-  Elahi teri riza ke siwaa kuch aur nahi
-
+  Ali waseela bane aur komail paye shafa
+  Usi ke naam se mansoob hogayi ye dua
+  Shabe jumaa hai dua-e-komail shukr tera
+  Ye ibteda hai to hai inteha hadise kisaa
+  Elaahi teri riza ke siwa kuch aur nahi
   Ke mere paas dua ke siwa kuch aur nahi
 
-
   3
-
   Mere khuda wo zabanein jo teri hamd kare
-
   Wo tere panjatane paak ki dua mein rahe
-
   Kabhi wo naare jahannum ki sakhtiyan na sahe
-
   Pule siraat se be-khauf o be-khatar guzre
-
   Gunahgaron ko ye aasra hai subho masa
-
   Khula hua hai musalsal tera dare tauba
 
-
   4
-
   Rasoole paak ke sadqe mein ay khuda ghar ghar
-
   Shua e ilm ki kirno ka mustakhil ho guzar
-
   Khula rahe mere bacchon pe shehre ilm ka dar
-
   Rahe jawano ki har dam teri riza pe nazar
-
-  Teri riza ke bina risk e ilm kya ho ataa
-
+  Teri riza ke bina rizq e ilm kya ho ataa
   Jo tu na chaahe dare ilm khul nahi sakta
 
-
   5
-
   Tu mere aeb chupata hai daal kar parda
-
   Elaahi deta hoon mai tujhko waasta uska
-
   Wohi jo shaam e ghariban mein de rahi thi sada
-
   Nahi hai kuch bhi mere paas is rida ke siwa
-
   Rasool zadi ke parde ki laaj rakh lena
-
-  Haram duaon ka meri bhi aaj rakh lena
-
+  Bharam duaon ka meri bhi aaj rakh lena
 
   6
-
-  Ya manismahu dawa wa zikrahu shifaa, Wa tahtahu ghenan
-
-  6) Shakhista pahlue zehra ka wasta ay khudaa,
-
-  Jo waqte gusle ali ne basad buqa dekha,
-
-  To apne aasu ali saat jari na rok sakaa,
-
-  Khuda ka shehr bhi ek cheekh maar kar roya,
-
-  Usi rasool ki beti ka waasta ay khudaa
-
+  Shikasta pehlu e zehra ka waasta ay khuda
+  Jo waqte gusl ali ne basad buka dekha
+  To apne aansu ali sa jari na rok saka
+  Khuda ka sher bhi ek cheekh maar kar roya
+  Usi rasool ki beti ka waasta ay khuda
   Ho waalidain ko sehat ke saath umr ataa
 
-
   7
-
   Wo ek mareez jo bas shaam keh ke rota tha
-
   Jhukaye sar wo haya daar rota jaata tha
-
   Pehen ke bediyan jo karbala se shaam gaya
-
   Usi mareez ke sadqe se maangte hai shifa
-
-  Maraz se pehle dawa khalk tune ki hai khuda
-
-  Baraye sayyade sajjad de hamay bhi shifa
-
+  Maraz se pehle dawa khalq tune ki hai khuda
+  Baraye sayyade sajjad de hamein bhi shifa
 
   8
-
   Elaahi sayyedi maulayi ya azeez o hakeem
-
-  Jaleel o qaadir o jabbar o al ali o zeem
-
+  Jaleel o qaadir o jabbar o al ali o azeem
   Teri hi hamd hai tu rabbul aalameen o rahim
-
   Ghame hussain ke sadqe karam ho hum pe kareem
-
   Sada e sarwar o rehaan sun mere allah
-
-  Ba roz e hashr ho saaya rida e zehra ka'
+  Ba roz e hashr ho saaya rida e zehra ka
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: tajpoints:828e40724257f459f6a1
 # source_url: https://tajpoints.com/2022/12/dua-e-kumail-nadeem-sarwar-lyrics-in.html
@@ -157,13 +93,13 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 یا سریع الرضا
-
-۱
 اغفر لمن لا یملک و الا دعا
 فا انکا فعال الما تشا
 یا من اسمہ دواء
 و ذکرہ شفا
 و طاعتہ غنن
+
+۱
 تو ہی کبیر تو ہی کبریا تو راہ نما
 رگ گل سے بھی نزدیک تو ہر ایک لمحہ
 ہے تیرے نام کی تاثیر ہر مرض کی دوا
