@@ -12,31 +12,29 @@ published: false
 romanLyrics: |-
   Chala jab khaafile ko leke suye koofa o shaam
   Mera mazloom imam
-  
-  1
   Sar khule zainab e muztar thi aur tha majma e aam
-  
-  2
+
+  1
   Sar jhukaye hue yun chalte rahe shaahe umam
   Aur bad jaata tha ye dekh ke bemaar ka gham
   Berida thi phuphi aur shaam ka bazaar e aam
-  
-  3
+
+  2
   Baahon mein bediyan thi tauq galay mein tha pada
   Pushte bemaar ke haaton mein udoo ke durra
   Ghash kayi baar safar mein hue bemaar imam
-  
-  4
+
+  3
   Ro ro kehti thi sakina phupi ab kya hoga
   Jhoola jalne laga bhai bhi mera ran ko gaya
   Aag qaimon mein lagi jal gaya asbaab tamam
-  
-  5
+
+  4
   Laashe qasim ko sameinta shahe deen ne jis dum
   Mehendi haaton pe lagi dekh ke rote thay haram
   Rang ye sehre ki mili khaak mein kaisa tha sitam
-  
-  6
+
+  5
   Khoon tapakta hai hassan noke qalam se ab to
   Dil phata jaata hai is soz e alam se ab to
   Girya karte hai malak roke yehi subho shaam
@@ -47,31 +45,29 @@ romanLyrics: |-
 
 چلا جب قافلے کو لے کے سوئے قوفہ و شام
 میرا مظلوم امام
-
-۱
 سر کُھلے زینب ِ مُضطر تھی اور تھا مجمعِ عام
 
-۲
+۱
 سر جھکائے ہوئے یوں چلتے رہے شاہِ اُمم
 اور بڑھ جاتا تھا یہ دیکھ کہ بیمار کا غم
 بے ردا تھی پھوپھی اور شام کا بازارِ عام
 
-۳
+۲
 پائوں میں بیڑیاں تھیں طوق گلے میں تھا پڑا
 پشتے بیمار کے ہاتھوں پہ عدو کے دُرا
 غش کئی بار سفر میں ہوئے بیمار امام
 
-۴
+۳
 رو رو کہتی تھی سکینہ پھوپھی اب کیا ہو گا
 جُھولا جلنے لگا بھائی بھی میرا رن کو گیا
 آگ خیموں میںلگی جل گیا اسباب تمام
 
-۵
+۴
 لاشِ قاسم کو سمیٹا شاہِ دیں نے جس دم
 مہندی ہاتھوں پہ لگی دیکھ کے روتے تھے حرم
 رنگ یہ سہرے کی ملی خاک میں کیسا تھا ستم
 
-۶
+۵
 خون ٹپکتا ہے حسن نوکِ قلم سے اب تو
 دل پھٹا جاتا ہے اس سوزِ آلم سے اب تو
 گِریہ کرتے ہیں ملک رو کہ یہی صُبح و شام
