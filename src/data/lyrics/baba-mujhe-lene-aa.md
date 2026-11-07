@@ -71,6 +71,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1819
 # raw_sha256: 2c80e8af263cb1cdc836f6f54489cd54fb2fe1dd153d42d9fd747b6a99ec94a7
 ---
+
 کہتی تھی روکے بالی سکینہ
 بابا مجھے لینے آ گےء ہیں
 زنداں کے در کو کھلوادو بھیا
