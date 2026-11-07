@@ -10,8 +10,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Beta hoo mai ali ka nawasa rasool ka
-
-  1
   Zainab behen hai meri chaheeta batool ka
   Qurbaniya ye meri bhulayi na jayengi
   Jab karbala basengi sadayein ye aayengi
@@ -19,6 +17,8 @@ romanLyrics: |-
   Hussain be kafan
   Hussain be khata
   Hussain shaah
+
+  1
   Baba ali ke haathon mein jo zulfeqar hai
   Maqsoos uska kufr ki naslon pe waar hai
   Mai jang kyun karun ke hassan ka mai bhai hoo
@@ -64,8 +64,6 @@ romanLyrics: |-
 # raw_sha256: 04cfee02dcb05fe5991f59045873bc462206c1b10d6b556fc9e198005b3f9365
 ---
 بیٹا ہوں میں علی کا نواسہ رسول کا
-
-۱
 زینب بہن ہے میری چہیتا بتول کا
 قربانیاں یہ میری بھلای نہ جاییں گی
 جب کربلا بسیں گی صدائیں یہ آییں گی
@@ -73,6 +71,8 @@ romanLyrics: |-
 حسین بیکفن
 حسین بے خطا
 حسین شاہ
+
+۱
 بابا علی کے ہاتھوں میں جو ذوالفقار ہے
 مخصوص اس کا کفر کی نسلوں پہ وار ہے
 میں جنگ کیوں کروں کہ حسن کا میں بھای ہوں
