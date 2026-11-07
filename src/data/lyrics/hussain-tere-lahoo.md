@@ -10,11 +10,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain tere lahoo ki khushboo
-  
-  1
   Falak ke daaman se aa rahi hai
   Ye khoone na-haq chupega kyun kar
   Jise ye dunya chupa rahi hai
+
+  1
   Hussain laasha jawan ka le kar
   Chale hai maqtal se suye qaima
   Magar zaeefi qadam qadam par
@@ -61,11 +61,11 @@ romanLyrics: |-
 ---
 
 حسین تیرے لہو کی خوشبو
-
-۱
 فلک کے دامان سے آ رہی ہے
 یہ خون نا حق چھپے گا کیوں کر
 جسے یہ دنیا چھپا رہی ہے
+
+۱
 حسین لاشہ جواں کا لے کر
 چلے ہیں مقتل سے سوے خیمہ
 مگر ضعیفی قدم قدم پر
