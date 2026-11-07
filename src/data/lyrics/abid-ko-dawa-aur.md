@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Abid ko dawa aur na ghiza dete hai
   Sota hai to zanjeer hila dete hai
   Sadaat ko qaid is madine may kiya
@@ -18,8 +17,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2649
 # raw_sha256: 708d87f5c540233714a6ffe206d2990abb9147ef6efcf318865dfe601c9a4d2d
 ---
-
-۱
 عابد کو دعوہ اور نہ غذا دیتے ہیں
 سوتا ہے تو زنجیر ہلا دیتے ہیں
 سادات کو قید اس مدینے میں کیا
