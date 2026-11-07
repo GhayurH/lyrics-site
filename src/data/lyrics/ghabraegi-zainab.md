@@ -9,83 +9,34 @@ poet: "Munshi Channulal"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ghabraye Gi Zainab
-
-  Ghabraey Gi Zainab
-
+romanLyrics: |-
+  Ghabraegi zainab ghabraegi zainab
+  Bhaiya tumhe ghar jaa ke kahan paaegi zainab
 
   1
-
-  Bhaiya tumhain ghar ja k
-
-  Kahan paey gi Zainab
-
+  Kaisa ye bhara ghar hua barbaad elaahi
+  Kya aayi tabahi
+  Ab is ko na abaad kabhi paaegi zainab
 
   2
-
-  Kaisa ye bhara ghar hua
-
-  Barbad Ilahi
-
-  Kya aai tabahi
-
-  Ab iss ko na abaad
-
-  Kabhi paey gi Zainab
-
+  Ghar jaa ke kisay dekhegi qasim hai na abbas
+  Akbar se bhi hai aas
+  Apne ali asghar ko kahan paaegi zainab
 
   3
-
-  Ghar Ja k kisay dekhe gi
-
-  Qasim hain na abaad
-
-  Akbar se bhi hai aas
-
-  Apne Ali Asghar ko
-
-  Kahan paey hi Zainab
-
+  Poochenge jo sab log ke baazu pe hua kya
+  Ye neel hai kaisa
+  Kis kis ko nishan rassi ke dikhlaegi zainab
 
   4
-
-  Poochain ge jo sab log
-
-  K bazu pe hua kya
-
-  Ye neel hai kesa?
-
-  Kis kis ko nishan rassi k
-
-  Dikhlaey gi Zainab
-
+  Phat jaaega bas dekh ke hi ghar ko kaleja
+  Yaad aaoge bhaiya
+  Dil dhoondega tum ko to kahan paaegi zainab
 
   5
-
-  Phhat jaey ga
-
-  Bas dekh k he
-
-  Ghar ko kaleja
-
-  Yaad aao ge bhaiya
-
-  Dil dhoonde ga tum ko
-
-  To kahan paey gi Zainab
-
-
-  6
-
-  Be parda hui
-
-  Qaid bhi kha harm uthhai
-
-  Aur maut na aai
-
-  Kya jaaniye kya kya abhi
-
-  Dukh paey gi Zainab'
+  Be parda hui qaid bhi khaahar ne uthaai
+  Aur maut na aayi
+  Kya jaane ye kya kya abhi dukh paaegi zainab
 reciter: Nasir Jehan
 # source_id: nohayonline:60d45e613b700bfb444c
 # source_url: https://www.nohayonline.com/content_salaam.php?id=35
@@ -96,9 +47,9 @@ reciter: Nasir Jehan
 ---
 
 گھبراۓ گی زینب گھبراۓ گی زینب
+بھیا تمہیں گھر جا کے کہاں پاۓ گی زینب
 
 ۱
-بھیا تمہيں گھر جا کے کہاں پاۓ گی زینب
 کیسا یہ بھرا گھر ہوا برباد الہی
 کیا آئ تباہی
 اب اس کو نہ آباد کبھی پاۓ گی زینب
@@ -109,7 +60,7 @@ reciter: Nasir Jehan
 اپنے علی اصغر کو کہاں پاۓ گی زینب
 
 ۳
-پوچھیں گے جو سب لوگ کہ بازو کہ ہوا کیا
+پوچھیں گے جو سب لوگ کہ بازو پہ ہوا کیا
 یہ نیل ہے کیسا
 کس کس کو نشاں رسّی کے دکھلاۓ گی زینب
 
