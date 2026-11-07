@@ -12,89 +12,74 @@ published: false
 romanLyrics: |-
   Baad e ashoor jo kiya hum pe sitam
   Karbala se kufa o shaam be makna o chadar
-  
+
   1
   Rassiyon mein hai jakde le gaye shaam
   Haye shaam haye shaam
   Karbala se shaam karbala se shaam
   Jiya jab talak wo bekas imam
-  
+
   2
   Yehi thi fughan labon par mudaam
   Nahi bhoolunga kabhi raahe shaam
   Layeeno ka tha jahan azdo haam
   Khule sar jahan haram thay tamaam
-  
+
   3
-  Haye shaam...
-  Karbala se shaam...
   Meri aankhon se rawan ashk thay
   Haram shaah ke sabhi sar khule
-  
+
   4
   Zuban par meri fughan thi yehi
   Chali karb par mere ye churi
   Layeen le rahe thay zainab ka naam
-  Haye shaam...
-  
+
   5
-  Karbala se shaam...
   Mera ghar luta mera dar luta
   Huwe qatl sab padar bhi mera
   Mere tifl bhi rahe tashnalab
-  
+
   6
   Hua qaid bhi sabhi be-sabab
   Chini chadarein jale sab qayaam
-  Haye shaam...
-  Karbala se shaam...
-  
+
   7
   Jafa par jafa nahi inteha
   Magar ki nahi kabhi bad'dua
   Imamat ka ye kathin tha safar
   Chali betiyan ali ki jidhar
-  
+
   8
   Chale saath mein sitamgar tamaam
-  Haye shaam...
-  Karbala se shaam...
   Karun kya bayan mai wo sakhtiyan
-  
+
   9
   Sar e raah thi sabhi bibiyan
   Isi dard se phata hai jigar
   Ali ke haram rahe nauhagar
   Sitam ke nahi kahin ikhtetaam
-  
+
   10
-  Haye shaam...
-  Karbala se shaam...
   Abhi tak mujhe wo sab yaad hai
   Dayaar e sitam haram jab gaye
-  
+
   11
   Saron par wahan barasne lage
   Kahin sang aur kahin kehkahe
   Bhulaya gaya nahi wo maqaam
-  Haye shaam...
-  
+
   12
-  Karbala se shaam...
   Ye nauha nahi ye hai marsiya
   Hassan kis tarha bayan ho bhala
   Qalam bhi mera tadapne laga
-  
+
   13
   Hui zapt ki yahan inteha
   Chala kanton par wo mera imam
-  Haye shaam...
-  Karbala se shaam...
 # source_id: nohayonline:24aa5bc5af58520c592c
 # source_url: https://www.nohayonline.com/details_content.php?id=1477
 # raw_sha256: 580ca19fc02ae2df25045f1b82e14d7caf7891eafa9e9b77610a420c69ae4a35
 ---
-
 بعد عاشور جو کیا ہم پہ ستم
 کربلا سے کوفہ و شام بے مقنہ و چادر
 
@@ -111,8 +96,6 @@ romanLyrics: |-
 کھلے سر جہاں حرم تھے تمام
 
 ۳
-ہاے شام۔۔۔
-کربلا سے شام۔۔۔
 میری آنکھوں سے رواں اشک تھے
 حرم شاہ کے سبھی سر کھلے
 
@@ -120,10 +103,8 @@ romanLyrics: |-
 زباں پر میری فغاں تھی یہی
 چلی قلب پر میرے یہ چھری
 لعیں لے رہے تھے زینب کا نام
-ہاے شام۔۔۔
 
 ۵
-کربلا سے شام۔۔۔
 میرا گھر لٹا میرا در لٹا
 ہوے قتل سب پدر بھی میرا
 میرے طفل بھی رہے تشنہ لب
@@ -131,8 +112,6 @@ romanLyrics: |-
 ۶
 ہوا قید بھی سبھی بے سبب
 چھنی چادریں جلے سب قیام
-ہاے شام۔۔۔
-کربلا سے شام۔۔۔
 
 ۷
 جفا پر جفا نہیں انتہا
@@ -142,8 +121,6 @@ romanLyrics: |-
 
 ۸
 چلے ساتھ میں ستمگر تمام
-ہاے شام۔۔۔
-کربلا سے شام۔۔۔
 کروں کیا بیاں میں وہ سختیاں
 
 ۹
@@ -153,8 +130,6 @@ romanLyrics: |-
 ستم کے نہیں کہیں اختتام
 
 ۱۰
-ہاے شام۔۔۔
-کربلا سے شام۔۔۔
 ابھی تک مجھے وہ سب یاد ہے
 دیار ستم حرم جب گےء
 
@@ -162,10 +137,8 @@ romanLyrics: |-
 سروں پر وہاں برسنے لگے
 کہیں سنگ اور کہیں قہقہے
 بھلایا گیا نہیں وہ مقام
-ہاے شام۔۔۔
 
 ۱۲
-کربلا سے شام۔۔۔
 یہ نوحہ نہیں یہ ہے مرثیہ
 حسن کس طرح بیاں ہو بھلا
 قلم بھی میرا تڑپنے لگا
@@ -173,5 +146,3 @@ romanLyrics: |-
 ۱۳
 ہوی ضبط کی یہاں انتہا
 چلا کانٹوں پر وہ میرا امام
-ہاے شام۔۔۔
-کربلا سے شام۔۔۔

@@ -35,7 +35,6 @@ romanLyrics: |-
 
   4
   Rok le aake rasta mera
-  Ghaur se dekho mujhe...
   Mujhko talwaar ki kya zaroorat
   Mai nigahon se dil kaat dunga
 
@@ -46,7 +45,6 @@ romanLyrics: |-
   Khaynch doon naksha siffeen ka
 
   6
-  Ghaur se dekho mujhe...
   Soch kar tum jo akde khade ho
   Mai akela hoo tum itne saare
   Laakh do laakh se to akele
@@ -58,7 +56,6 @@ romanLyrics: |-
   Kaun mujhse ladega bhala
 
   8
-  Ghaur se dekho mujhe...
   Do rukhi aur aal e nabi se
   Iska matlab bhi samjhaunga mai
   Laakh paaon pade ab ye darya
@@ -67,7 +64,6 @@ romanLyrics: |-
   Mashk mein bhar ke le jaonga mai
   Pyaas ki qaid mein yaas ki qaid mai
   Ab rahega ye darya sada
-  Ghaur se dekho mujhe...
 
   10
   Shaamiyon jang karne ki mujhko
@@ -78,7 +74,6 @@ romanLyrics: |-
   11
   Aati jaan se kabhi aasmaan se kabhi
   Al hazar al amaan ki sada
-  Ghaur se dekho mujhe...
   Kaamp kar reh gaya dil zameen ka
 
   12
@@ -89,7 +84,6 @@ romanLyrics: |-
 
   13
   Yun chalega ye naiza mera
-  Ghaur se dekho mujhe...
   Meri talwaar ke har nishan par
   Sab ne dekhi ali ki nishani
 
@@ -100,7 +94,6 @@ romanLyrics: |-
   Aa gaye ran mein sher e khuda
 
   15
-  Ghaur se dekho mujhe...
   Ek qayamat hai farhan o gohar
   Lashkar e zulm sehma hua hai
   Mashk mein qaid darya ko kar ke
@@ -109,7 +102,6 @@ romanLyrics: |-
   Sher kehta hua jaa raha hai
   Aaj tak ba khuda jo kaha wo kiya
   Hum badalte nahi faisla
-  Ghaur se dekho mujhe...
 # source_id: nohayonline:d13a41c08124db05b10d
 # source_url: https://www.nohayonline.com/details_content.php?id=2263
 # raw_sha256: 920a0e62aebc7ce5ba22451a790992952cc7d3cb77c8c94a59bc38215f35d159
@@ -139,7 +131,6 @@ romanLyrics: |-
 
 ۴
 روک لے رستہ میرا
-غور سے دیکھو مجھے۔۔۔
 مجھکو تلوار کی کیا ضرورت
 میں نگاہوں سے دل کاٹ دوں گا
 
@@ -150,7 +141,6 @@ romanLyrics: |-
 کھینچ دوں نقشہ صفین کا
 
 ۶
-غور سے دیکھو مجھے۔۔۔
 سوچ کر تم جو اکڑے کھڑے ہو
 میں اکیلا ہوں تم اتنے سارے
 لاکھ دو لاکھ سے تو اکیلے
@@ -162,7 +152,6 @@ romanLyrics: |-
 کون مجھ سے لڑے گا بھلا
 
 ۸
-غور سے دیکھو مجھے۔۔۔
 دو رخی اور آل نبی سے
 اس کا مطلب بھی سمجھاؤں گا میں
 لاکھ پاؤں پڑے اب یہ دریا
@@ -171,7 +160,6 @@ romanLyrics: |-
 مشک میں بھر کے لے جاؤں گا میں
 پیاس کی قید میں یاس کی قید میں
 اب رہے گا یہ دریا صدا
-غور سے دیکھو مجھے۔۔۔
 
 ۱۰
 شامیوں جنگ کرنے کی مجھکو
@@ -182,7 +170,6 @@ romanLyrics: |-
 ۱۱
 آتی جاں سے کبھی آسماں سے کبھی
 ال حزر الاماں کی صدا
-غور سے دیکھو مجھے۔۔۔
 کانپ کر رہ گیا دل زمیں کا
 
 ۱۲
@@ -193,7 +180,6 @@ romanLyrics: |-
 
 ۱۳
 یوں چلے گا یہ نیزہ میرا
-غور سے دیکھو مجھے۔۔۔
 میری تلوار کے ہر نشاں پر
 سب نے دیکھی علی کی نشانی
 
@@ -204,7 +190,6 @@ romanLyrics: |-
 آ گےء رن میں شیر خدا
 
 ۱۵
-غور سے دیکھو مجھے۔۔۔
 اک قیامت ہے فرحان و گوہر
 لشکر ظلم سہمہ ہوا ہے
 مشک میں قید دریا کو کر کے
@@ -213,4 +198,3 @@ romanLyrics: |-
 شیر کہتا ہوا جا رہا ہے
 آج تک با خدا جو کہا وہ کیا
 ہم بدلتے نہیں فیصلہ
-غور سے دیکھو مجھے۔۔۔

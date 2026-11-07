@@ -28,7 +28,6 @@ romanLyrics: |-
   Hussain jaanam hussain jaanam hussain jaanam
 
   3
-  Hussain jaan...
   Ay shehenshah e zaman aqile hasan ya maula
   Tera deedar azadaar ki ulfat ka sila
   Usko dunya mein sab mila hussain jaan
@@ -36,7 +35,6 @@ romanLyrics: |-
   4
   Jis ne ek baar bhi kaha hussain jaan
   Salaam e kaabae dilha hussain jaan
-  Hussain jaan...
   Hasrate dil hai ke jab karbobala jaun mai
 
   5
@@ -46,7 +44,6 @@ romanLyrics: |-
   Salaam e kaabae dilha hussain jaan
 
   6
-  Hussain jaan...
   Ek karam aur meri zaat pe maula kar de
   Aasmano se bhi aaye jo nazar wo ghar de
   Jis pe parcham lage tera hussain jaan
@@ -54,7 +51,6 @@ romanLyrics: |-
   7
   Sadqa ghazi ka ho ataa hussain jaan
   Salaam e kaabae dilha hussain jaan
-  Hussain jaan...
   Sogaye nehr pe abbas e jari bhi jaa kar
 
   8
@@ -64,7 +60,6 @@ romanLyrics: |-
   Salaam e kaabae dilha hussain jaan
 
   9
-  Hussain jaan...
   Zeen se gir ke zameen par ye kaha akbar ne
   Zakhme dil aap se baba mai chupaun kaise
   Aake dekho mera seena hussain jaan
@@ -72,7 +67,6 @@ romanLyrics: |-
   10
   Pisar et zakhmiye biyaa hussain jaan
   Salaam e kaabae dilha hussain jaan
-  Hussain jaan...
   Sajda e shukr adaa aap ne maqtal mein kiya
 
   11
@@ -82,7 +76,6 @@ romanLyrics: |-
   Salaam e kaabae dilha hussain jaan
 
   12
-  Hussain jaan...
   Mimbar e nok e sina par tera khutba sunke
   Saamne maaon ke rote rahe pyase bacche
   Khafila keh ke ye chala hussain jaan
@@ -90,14 +83,12 @@ romanLyrics: |-
   13
   Toyi zikram hussain maula hussain jaan
   Salaam e kaabae dilha hussain jaan
-  Hussain jaan...
   Akhtar o naade ali hai jise irfan e azaa
 
   14
   Us se raazi hai qasam rab ki qasam janabe zahra
   Shukriya dilbar e zahra hussain jaan
   Shukriya kaabae dilha hussain jaan
-  Hussain jaan...
 # source_id: nohayonline:ac6464a25d189d9b490d
 # source_url: https://www.nohayonline.com/details_content.php?id=3561
 # raw_sha256: 41ab01f5d0fb0937a6ec400946ff5a9dc7340320cf4e66739b90c64d5e1ae87c
@@ -120,7 +111,6 @@ romanLyrics: |-
 حسین جانم حسین جانم حسین جانم
 
 ۳
-حسین جان۔۔۔
 اے شہنشاہِ زمن عقیل حسن یا مولا
 تیرا دیدار عزادار کی الفت کا صلہ
 اس کو دنیا میں سب ملا حسین جان
@@ -128,7 +118,6 @@ romanLyrics: |-
 ۴
 جس نے اک بار کہا حسین جان
 سلام کعبہ دلہا حسین جان
-حسین جان۔۔۔
 حسرت دل ہے کہ جب کربوبلا جون میں
 
 ۵
@@ -138,7 +127,6 @@ romanLyrics: |-
 سلام کعبہ دلہا حسین جان
 
 ۶
-حسین جان۔۔۔
 ایک کرم اور میری ذات پہ مولا کر دے
 آسمانوں سے بھی آے جو نظر وہ گھر دے
 جس پہ پرچم لگے تیرا حسین جان
@@ -146,7 +134,6 @@ romanLyrics: |-
 ۷
 صدقہ غازی کا ہو عطا حسین جان
 سلام کعبہ دلہا حسین جان
-حسین جان۔۔۔
 سوگےء نہر پہ عباس جری بھی جا کر
 
 ۸
@@ -156,7 +143,6 @@ romanLyrics: |-
 سلام کعبہ دلہا حسین جان
 
 ۹
-حسین جان۔۔۔
 زین سے گر کے زمین پر یہ کہا اکبر نے
 زخم دل آپ سے بابا میں چھپاؤں کیسے
 آ کے دیکھو میرا سینہ حسین جان
@@ -164,7 +150,6 @@ romanLyrics: |-
 ۱۰
 پسر یٹ زخمیےء بیا حسین جان
 سلام کعبہ دلہا حسین جان
-حسین جان۔۔۔
 سجدۂ شکر ادا آپ نے مقتل میں کیا
 
 ۱۱
@@ -174,7 +159,6 @@ romanLyrics: |-
 شکریہ کعبہ دلہا حسین جان
 
 ۱۲
-حسین جان۔۔۔
 ممبر نوک سناں پر تیرا خطبہ سن کے
 سامنے ماؤں کے روتے رہے پیاسے بچے
 قافلہ کہہ کے یہ چلا حسین جان
@@ -182,11 +166,9 @@ romanLyrics: |-
 ۱۳
 توی ذکرم حسین مولا حسین جان
 سلام کعبہ دلہا حسین جان
-حسین جان۔۔۔
 اختر و ناد علی ہے جسے عرفان عزا
 
 ۱۴
 اس سے راضی قسم رب کی قسم جناب زہرا
 شکریہ دلبر زہرا حسین جان
 شکریہ کعبہ دلہا حسین جان
-حسین جان۔۔۔

@@ -40,7 +40,6 @@ romanLyrics: |-
   Kaise bhulaye
 
   5
-  Bazaar e shaam zainab...
   Shaam sheher mein jis dam pahunche
   Mehwe buka thi aale payambar
   Shehnayi ki goonj thi har soo
@@ -53,7 +52,6 @@ romanLyrics: |-
 
   7
   Kaise bhulaye
-  Bazaar e shaam zainab...
   Shehr e halab mein khaafla pahuncha
   Taaza qayamat waqt ne dhaayi
 
@@ -66,7 +64,6 @@ romanLyrics: |-
   9
   Shireen ke bain zainab
   Kaise bhulaye
-  Bazaar e shaam zainab...
   Naize pe dekha akbar ka sar
 
   10
@@ -79,7 +76,6 @@ romanLyrics: |-
   Haan wo kalaam zainab
   Badr'ut tamaam zainab
   Kaise bhulaye
-  Bazaar e shaam zainab...
 
   12
   Chalte huwe naaqe se giri thi
@@ -94,7 +90,6 @@ romanLyrics: |-
   Kaise bhulaye
 
   14
-  Bazaar e shaam zainab...
   Shaam ki galiyon aur koochon mein
   Nauha kuna aulaad e nabi thi
   Ahle haram sab be parda thay
@@ -107,7 +102,6 @@ romanLyrics: |-
 
   16
   Kaise bhulaye
-  Bazaar e shaam zainab...
   Ahle haram ke dil pe likhi hai
   Kaanto bhari abid ki musafat
 
@@ -120,7 +114,6 @@ romanLyrics: |-
   18
   Wo intezaar zainab
   Kaise bhulaye
-  Bazaar e shaam zainab...
   Pehli majlis qaid e jafa mein
 
   19
@@ -133,7 +126,6 @@ romanLyrics: |-
   Darbar e shaam zainab
   Zindan e shaam zainab
   Kaise bhulaye
-  Bazaar e shaam zainab...
 # source_id: nohayonline:dc5b9facdbd9b2a810fa
 # source_url: https://www.nohayonline.com/details_content.php?id=3207
 # raw_sha256: a28faad3ed6229461e8ace4bbfb7534478e1b1a7aa17539fe7df268d8d47a75c
@@ -168,7 +160,6 @@ romanLyrics: |-
 کیسے بھلاے
 
 ۵
-بازار شام زینب۔۔۔
 شام شہر میں جس دم پہنچے
 محو بکا تھی آل پیمبر
 شہنای کی گونج تھی ہر سو
@@ -181,7 +172,6 @@ romanLyrics: |-
 
 ۷
 کیسے بھلاے
-بازار شام زینب۔۔۔
 شہر حلب میں قافلہ پہنچا
 تازہ قیامت وقت نے ڈھائی
 
@@ -194,7 +184,6 @@ romanLyrics: |-
 ۹
 شیریں کے بین زینب
 کیسے بھلاے
-بازار شام زینب۔۔۔
 نیزے پہ دیکھا اکبر کا سر
 
 ۱۰
@@ -207,7 +196,6 @@ romanLyrics: |-
 ہاں وہ کلام زینب
 بدر الطعام زینب
 کیسے بھلاے
-بازار شام زینب۔۔۔
 
 ۱۲
 چلتے ہوئے ناقے سے گری تھی
@@ -222,7 +210,6 @@ romanLyrics: |-
 کیسے بھلاے
 
 ۱۴
-بازار شام زینب۔۔۔
 شام کی گلیوں اور کوچوں میں
 نوحہ کناں اولاد نبی تھے
 اہلِ حرم سب بے پردہ تھے
@@ -235,7 +222,6 @@ romanLyrics: |-
 
 ۱۶
 کیسے بھلاے
-بازار شام زینب۔۔۔
 اہلِ حرم کے دل پہ لکھی ہے
 کانٹوں بھری عابد کی مسافت
 
@@ -248,7 +234,6 @@ romanLyrics: |-
 ۱۸
 وہ انتظار زینب
 کیسے بھلاے
-بازار شام زینب۔۔۔
 پہلی مجلس قید جفا میں
 
 ۱۹
@@ -261,4 +246,3 @@ romanLyrics: |-
 دربار شام زینب
 زندان شام زینب
 کیسے بھلاے
-بازار شام زینب۔۔۔
