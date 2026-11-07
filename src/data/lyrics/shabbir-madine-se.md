@@ -17,37 +17,30 @@ romanLyrics: |-
   1
   Kuch kaal na pad jaata sansar may pani ka
   Do boondh agar zaalim asghar ko pila jaate
-  Shabbir madine se gar..
 
   2
   Un logon ne maula ko kaanto pe chalaya tha
   Palkon ko bichate hum jis aur bhi wo jaate
-  Shabbir madine se gar..
 
   3
   Ganga ke kanare par ghazi ka alam sajta
   Is ganga ki shobha ko wo aake badha jaate
-  Shabbir madine se gar..
 
   4
   Is desh may aa jata sundar sa parivartan
   Har dharm ki janta ko khud kalma padha jaate
-  Shabbir madine se gar..
 
   5
   Shabbir ko janta ki chahat na agar hoti
   Na godh ke paalon ko maati may mila jaate
-  Shabbir madine se gar..
 
   6
   Shabbir ke bachon ke yun naaz utha'te hum
   Aakash ke taaron ko charno may bicha jaate
-  Shabbir madine se gar..
 
   7
   Baali na koi chinti chinti na koi chadar
   Ravan ke pujari na qaimon ko jala jaate
-  Shabbir madine se gar..
 # source_id: nohayonline:38e9ffe6d5aa39cfdf58
 # source_url: https://www.nohayonline.com/details_content.php?id=972
 # raw_sha256: 81f6a706d721c43d7cb63eaa5665a4f6801a265d9366857853120ad6aff12ff6
@@ -60,34 +53,27 @@ romanLyrics: |-
 ۱
 کچھ کال نہ پڑ جاتا سنسار میں پانی کا
 دو بوندھ اگر ظالم اصغر کو پلا جاتے
-شبیر مدینے سے گر۔۔۔
 
 ۲
 ان لوگوں نے مولا کو کانٹوں پہ چلایا تھا
 پلکوں کو بچھاتے ہم جس اور بھی وہ جاتے
-شبیر مدینے سے گر۔۔۔
 
 ۳
 گنگا کے کنارے پر غازی کا الم سجتا
 اس گنگا کی شوبھا کو وہ آکے بڑھا جاتے
-شبیر مدینے سے گر۔۔۔
 
 ۴
 اس دیش میں آ جاتا سندر سا پریورتن
 ہر دھرم کی جنتا کو قد کلمہ پڑھا جاتے
-شبیر مدینے سے گر۔۔۔
 
 ۵
 شبیر کو جنتا کی چاہت نہ اگر ہوتی
 نہ گود کے پالوں کو ماٹی میں ملا جاتے
-شبیر مدینے سے گر۔۔۔
 
 ۶
 شبیر کے بچوں کے یوں ناز اٹھتے ہم
 آکاش کے تاروں کو چرنوں میں بچھا جاتے
-شبیر مدینے سے گر۔۔۔
 
 ۷
 بالی نہ کوئی چنٹی چنٹی نہ کوئی چادر
 راون کے پجاری نہ خیموں کو جلا جاتے
-شبیر مدینے سے گر۔۔۔
