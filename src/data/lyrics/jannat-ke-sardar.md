@@ -46,6 +46,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3366
 # raw_sha256: 960f2e0b4348f5870a9d8499ed2b17716bbc38d1ae93f83a367161ed739c8548
 ---
+جنت کے سردار یا حسن
 جنت کے سردار یا حسین
 حسین یا حسین حسین یا حسین
 پنجتن کے گھرانے کا جو حبدار نہیں ہے
