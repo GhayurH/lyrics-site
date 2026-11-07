@@ -14,10 +14,9 @@ romanLyrics: |-
   Jab dil ghabrata hai jab yaad sataati hai
   Bemaar behan tujhko ro ro ke bulaati hai
   Akbar ghar aaja sughra ka waasta
+  Yaad mein teri ro ro kar mar jayegi sughra
 
   1
-  Yaad mein teri ro ro kar mar jayegi sughra
-  Akbar ghar aaja sughra ka waasta
   Tu door hai mujhko ye gham hai
   Baba ki tujhe qasam hai
   Mai takti rahi tera raasta
@@ -72,10 +71,9 @@ romanLyrics: |-
 جب دل گھبراتا ہے جب یاد ستاتی ہے
 بیمار بہن تجھ کو رو رو کے بلاتی ہے
 اکبر گھر آجا صغرا کا واسطہ
+یاد میں تیری رو رو کر مر جائے گی صغرا
 
 ۱
-یاد میں تیری رو رو کر مر جائے گی صغرا
-اکبر گھر آجا صغرا کا واسطہ
 تُو دُور ہے مجھ کو یہ غم ہے
 بابا کی تجھے قسم ہے
 میں تکتی رہی تیرا راستہ
