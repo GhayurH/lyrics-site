@@ -12,14 +12,14 @@ published: false
 romanLyrics: |-
   Aale nabi ka khaafila bazaar jo pahuncha
   Chehre thay zard gham se saron par na thi rida
-
-  1
   Ghazi ka sar jo naize se aaya zameen par
   Fizza ne dil ko thaam ke nauha yehi kiya
   Na dekh sakega zainab ko
   Haye be-chadar abbas ka sar
   Rukta hi nahi hai naize par
   Dauran e safar abbas ka sar
+
+  1
   Sajjad se zainab kehti thi
   Manzar wo dekh na paungi
   Ye zulm hua to mere pisar
@@ -72,14 +72,14 @@ romanLyrics: |-
 ---
 آل نبی کا قافلہ بازار جو پہنچا
 چہرے تھے زرد غم سے سروں پر نہ تھی ردا
-
-۱
 غازی کا سر جو نیزے سے آیا زمیں پر
 فضہ نے دل کو تھام کے نوحہ یہی کیا
 نہ دیکھ سکے گا زینب کو
 ہاے بے چادر عباس کا سر
 رکتا ہی نہیں ہے نیزے پر
 دورانِ سفر عباس کا سر
+
+۱
 سجاد سے زینب کہتی تھی
 منظر وہ دیکھ نہ پاؤں گی
 یہ ظلم ہوا تو میرے پسر

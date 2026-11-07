@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Masjid e kufa se lekar taaba khaake karbala
   Qatl sajdon mein hua hai mustafa ki aal ka
-
-  1
   Abbas ke baba ki jabeen khoon se tar hai
   Dooba hua gham mein bani hashim ka qamar hai
+
+  1
   Abbas ke chehre pe hai zainab ki nigahein
   Ye poochti ho jaise mera baba kidhar hai
 
@@ -44,10 +44,10 @@ romanLyrics: |-
 ---
 مسجد کوفہ سے لے کر تابہ خاک کربوبلا
 قتل سجدوں میں ہوا ہے مصطفیٰ کی آل کا
-
-۱
 ‎عباس کے بابا کی جبیں خون سے تر ہے
 ‎ڈوبا ہوا غم میں بنی ہاشم کا قمر ہے
+
+۱
 ‎ عباس کے چہرے پہ ہیں زینب کی نگاہیں
 ‎یہ پوچھتی ہو جیسے مرا بابا کدھر ہےہ
 

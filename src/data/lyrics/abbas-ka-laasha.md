@@ -12,49 +12,47 @@ published: false
 romanLyrics: |-
   Ab tak hai zabano pe alamdar alamdar
   Maara gaya sarwar ka madadgar alamdar
-
-  1
   Qaimon may nahi aa saka abbas ka laasha
   Abbas ka laasha abbas ka laasha
   Pamaal hai khud laasha e qasim se zyada
   Abbas ka laasha abbas ka laasha
 
-  2
+  1
   Abbas ki qaamat pe bada naaz tha usko
   Mil ke dua maango
   Allah kare dekhe nahi bali sakina
 
-  3
+  2
   Poocha kyun lehad choti hai zainab ne jo ro ke
   Sajjad ye bole
   Amma mujhe maidan se itna hi mila tha
 
-  4
+  3
   Sheh bole ke ghayyur tha wo mera biradar
   Dekho ali akbar
   Jis jaa hai giri mashk wahin par hi milega
 
-  5
+  4
   Bhai ke kate haathon ko maqtal may utha kar
   Seene se laga kar
   Rote huwe khud dhoond rahe hai shah e waala
 
-  6
+  5
   Jis waqt chala gardan e shabbir pe khanjar
   Har zarb e layeen par
   Saahil pe tadapta raha sarwar se zyada
 
-  7
+  6
   Jin haathon se bachpan may usay jhoola jhulaya
   Godhi may uthaaya
   Un haathon se ab kaise uthaye mere maula
 
-  8
+  7
   Akbar bhi yahan hai wahan zainab he akeli
   Aa jaaye na shaami
   Kyun aap uthaane ke liye aagaye aaqa
 
-  9
+  8
   Sajjad ghareebi pe tadapne lage maula
   Jis waqt ye dekha
   Godhi may uthaye huwe pehle se thi zehra
@@ -64,49 +62,47 @@ romanLyrics: |-
 ---
 اب تک ہی زبانوں پہ علمدار علمدار
 مارا گیا سرور کا مددگار علمدار
-
-۱
 خیموں میں نہیں آ سکا عباس کا لاشہ
 عباس کا لاشہ عباس کا لاشہ
 پامال ہے خود لاشہء قاسم سے ذیادہ
 عباس کا لاشہ عباس کا لاشہ
 
-۲
+۱
 عباس کی قامت پہ بڑا ناز تھا اس کو
 مل کے دعا مانگو
 اللّٰہ کرے دیکھے نہیں بالی سکینہ
 
-۳
+۲
 پوچھا کیوں لحد چھوٹی ہے زینب نے جو رو کے
 سجاد یہ بولے
 اماں مجھے میدان سے اتنا ہی ملا تھا
 
-۴
+۳
 شہ بولے کہ غیور تھا وہ میرا برادر
 دیکھو علی اکبر
 جس جا ہے گری مشک وہی پر ہی ملے گا
 
-۵
+۴
 بھای کے کٹے ہاتھوں کو مقتل میں اٹھا کر
 سینے سے لگا کر
 روتے ہوے خود ڈھونڈ رہے ہیں شہ والا
 
-۶
+۵
 جس وقت چلا گردن شبیر پہ خنجر
 ہر ضرب لعیں پر
 ساحل پہ تڑپتا رہا سرور سے ذیادہ
 
-۷
+۶
 جن ہاتھوں سے بچپن میں اسے جھولا جھلایا
 گودی میں اٹھایا
 ان ہاتھوں سے اب کیسے اٹھاے میرے مولا
 
-۸
+۷
 اکبر بھی یہی ہیں وہاں زینب ہے اکیلی
 آ جاے نہ شامی
 کیوں آپ اٹھانے کے لئے آ گےء آقا
 
-۹
+۸
 سجاد غریبی پہ تڑپنے لگے مولا
 جس وقت یہ دیکھا
 گودی میں اٹھاے ہوے پہلے سے تھی زہرا

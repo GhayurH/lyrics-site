@@ -12,70 +12,58 @@ published: false
 romanLyrics: |-
   Ek shor hai abbas hai abbas
   Darya pe jo pahuncha asadullah ka pyara
-
-  1
   Lalkaar ke phir fauj ko ghazi ye pukara
   Tum sab yehi kehte thay ke darya hai hamara
   Ab dekhun ke darya hai hamara ke tumhara
   Lo cheen lo ye hum hai ye qabza hai hamara
-
-  2
   Darya hai humara darya hai humara
   Abbas ka naara hai alamdar ka naara
 
-  3
+  1
   Mai hyder e karraar ke saaye mein pala hoo
   Mai fatema zehra ki duaon ka sila hoo
   Abbas mera naam alamdar e wafa hoo
   Ye naam o nasab hai meri kismat ka sitara
 
-  4
+  2
   Aaqa ki duaon ka karam saath hai mere
   Dekho bani hashim ka hasham saath hai mere
-
-  5
   Rutba hai alamdar alam saath hai mere
   Lehrake pharera bhi ye karta hai ishaara
 
-  6
+  3
   Saahil pe jo ye fauj ke daste hai tumhare
   Ek aan mein paywand e zameen ho abhi saare
   Darya ulat aaye abhi qadmon mein hamare
   Ek hashr bapa kardoo mai kardoo jo ishaara
 
-  7
+  4
   Khat bhej ke tumne jinhe yasrab se bulaya
   Mehman thay lekin unhe darya se hataya
-
-  8
   Pyase hi rahe wo unhe pani na pilaya
   Allah ne jinke liye kausar ko utaara
 
-  9
+  5
   Ye hukm hai aaqa ka na talwaar uthana
   Warna meri zarbon se larazta ye zamana
   Ye fauje jafakaar ye zaalim ka thikana
   Ek naize se naqsha hi badal jayega saara
 
-  10
+  6
   Kya fauj ki tadaad batate ho hamein tum
   Hum dekhe ke kis tarha hatate ho hamein tum
-
-  11
   Kis haakim o jabir se darate ho hamein tum
   Ab naam na lena kisi haakim ka dubara
 
-  12
+  7
   Pyasa hoo magar sunle sabhi dushman e jaani
   Pani mujhe peena nahi le jaana hai pani
   Haye mere masoomon ki wo tishna dahani
   Hai mashke sakina unhi pyason ka sahara
 
-  13
+  8
   Tareekh ne dekha na hilal aisa wafadaar
   Ab bhi hai taraayi ki zameen par wo dilafgaar
-
-  14
   Wo dekh zara rauza e abbas e alamdar
   Ek zinda gawahi hai ye marqad ka nazara
 # source_id: nohayonline:81cd4dd63dacf65fe396
@@ -84,69 +72,57 @@ romanLyrics: |-
 ---
 اک شور ہے عباس ہے عباس
 دریا پہ جو پہنچا اسداللہ کا پیارا
-
-۱
 للکار کے پھر فوج کو غازی یہ پکارا
 تم سب یہی کہتے تھے کہ دریا ہے ہمارا
 اب دیکھوں کے دریا ہے ہمارا کہ تمہارا
 لو چھین لو یہ ہم ہیں یہ قبضہ ہے ہمارا
-
-۲
 دریا ہے ہمارا دریا ہے ہمارا
 عباس کا نعرہ ہے علمدار کا نعرہ
 
-۳
+۱
 میں حیدر کرار کے سائے میں پلا ہوں
 میں فاطمہ زہرا کی دعاؤں کا صلہ ہوں
 عباس میرا نام علمدار وفا ہوں
 یہ نام نسب ہے میری قسمت کا ستارا
 
-۴
+۲
 آقا کی دعاؤں کا کرم ساتھ ہے میرے
 دیکھو بنی ہاشم کا ہشم ساتھ ہے میرے
-
-۵
 رتبہ ہے ععلمدار علم ساتھ ہے میرے
 لہرا کے بہریرا بھی کرتا ہے اشارہ
 
-۶
+۳
 ساحل پہ جو یہ فوج کے دستے ہیں تمہارے
 اک ان میں پیوند زمیں ہو ابھی سارے
 دریا اُلَٹ آئے ابھی قدموں میں ہمارے
 اک حشر بپا کردوں میں کردوں جو اشارہ
 
-۷
+۴
 خط بھیج کے تم نے جنہیں یثرب سے بلایا
 مہمان تھے لیکن انھیں دریا سے ہٹایا
-
-۸
 پیاسے ہی رہے وہ انھیں پانی نہ پلایا
 اللہ نے جن کے لئے کوثر کو اتارا
 
-۹
+۵
 یہ حکم ہے آقا کا نہ تلوار اٹھانا
 ورنہ میری ضربوں سے لرزتا یہ زمانہ
 یہ فوج جفاکار یہ ظالم کا ٹھکانہ
 اک نیزے سے نقشہ ہی بدل جائے گا سارا
 
-۱۰
+۶
 کیا فوج کی تعداد بتاتے ہو ہمیں تم
 ہم دیکھیں کے کس طرح ہٹاتے ہو ہمیں تم
-
-۱۱
 کس حاکم و جابر سے ڈراتے ہو ہمیں تم
 اب نام نہ لے نہ کسی حاکم کا دوبارہ
 
-۱۲
+۷
 پیاسا ہوں مگر سن لیں سبھی دشمن جانی
 پانی مجھے پینا نہیں لے جانا ہے پانی
 ہائے میرے معصوموں کی وہ تشنہ دہانی
 ہے مشک سکینہ انہی پیاسوں کا سہارا
 
-۱۳
+۸
 تاریخ نے دیکھا نہ حلال ایسا وفادار
 اب بھی ہے ترائی کی زمیں پر وہ دلفگار
-
-۱۴
 وہ دیکھ زرا روضة عباس علمدار
 اک زندہ گواہی ہے یہ مرقد کا نظارہ
