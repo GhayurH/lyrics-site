@@ -23,20 +23,20 @@ jobs:
           import re
           import subprocess
           import yaml
-          
+
           base = '5a7c812b054d32e96b6209b840feaa46095b7118'
           changed = [p for p in subprocess.check_output(
               ['git', 'diff', '--name-only', base, 'HEAD', '--', 'src/data/lyrics'],
               text=True
           ).splitlines() if p.endswith('.md')]
           assert len(changed) == 52, ('Wrong edit count', len(changed), changed)
-          
+
           yaml_re = re.compile(r'\A---\n(.*?)\n---\n(.*)\Z', re.S)
           number_re = re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
           abbreviated = re.compile(r'(?:\.{2,}|…|۔۔۔)\s*$')
           digit_map = str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹')
           totals = collections.Counter()
-          
+
           def parse(raw):
               m = yaml_re.fullmatch(raw)
               assert m, 'Malformed frontmatter'
@@ -45,11 +45,11 @@ jobs:
               provenance = [s for s in m[1].splitlines()
                             if s.startswith(('# source_id:', '# source_url:', '# raw_sha256:'))]
               return front, m[2], provenance
-          
+
           def pure_lines(s):
               return [v for line in s.splitlines()
                       if (v := line.strip()) and not number_re.fullmatch(v)]
-          
+
           def compare_lines(before, after, path, script):
               old, new = pure_lines(before), pure_lines(after)
               oc, nc = collections.Counter(old), collections.Counter(new)
@@ -64,7 +64,7 @@ jobs:
               for line in new:
                   assert any(v == line for v in cursor), (path, script, 'Changed original line order', line)
               return sum(removed.values())
-          
+
           def split(t, is_urdu):
               groups, marks = [[]], []
               for line in t.splitlines():
@@ -81,7 +81,7 @@ jobs:
               assert marks == expected, ('Invalid stanza numbering', marks, expected)
               assert marks and all(groups), ('Empty opening or stanza', [len(g) for g in groups])
               return groups
-          
+
           for path in changed:
               old = subprocess.check_output(['git', 'show', f'{base}:{path}'], text=True)
               new = pathlib.Path(path).read_text(encoding='utf-8')
@@ -102,7 +102,7 @@ jobs:
               assert [len(x) for x in R] == [len(x) for x in U], ('Stanza alignment mismatch', path)
               assert len(R[0]) >= 2, ('Opening too short', path)
               print(f'OK {path} | numbered={len(R)-1}, opening={len(R[0])}, lengths={[len(x) for x in R[1:]]}')
-          
+
           print('VERIFIED', len(changed), 'NoHayOnline files;', dict(totals))
           PY
       - name: Verify patch whitespace
