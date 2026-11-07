@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain waala har ek lamha
-
-  1
   Hussain ka gham mana raha hai
   Aza e sarwar hai farz is par
   So farz apna nibha raha hai
+
+  1
   Koi bichata hai farshe majlis
   Fareeza isko samajh ke apna
   Koi hadees e kisa ko pad kar
@@ -88,12 +88,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1143
 # raw_sha256: 92b650d5112fc41a9986fcfaa89d0b2e144fc709e4bbbf32fbbfa094f69940f2
 ---
-حُسین والا ہر ایک لمحہ
 
-۱
+حُسین والا ہر ایک لمحہ
 حُسین کا غم منا رہا ہے
 عزائے سرور ہے فرض اس پر
 سو فرض اپنا نبھا رہا ہے
+
+۱
 کوئی بچھاتا ہے فرشِ مجلس
 فریضہ اِس کو سمجھ کے اپنا
 کوئی حدیثِ کساء کو پڑھ کر
