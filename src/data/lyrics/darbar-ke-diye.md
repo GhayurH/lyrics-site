@@ -30,8 +30,6 @@ romanLyrics: |-
   3
   Rakhna sukoon se mere hassan aur hussain ko
   Haye zahra badi mazloom hai zahra
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   4
   Fizza mere hussain pe royegi bekasi
@@ -42,8 +40,6 @@ romanLyrics: |-
   5
   Rakhna khayaal sadma e zehra siwa na ho
   Zainab ke sar se chadar e zainab juda na ho
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   6
   Aakhir mein bu-turaab se itna kiya kalaam
@@ -54,8 +50,6 @@ romanLyrics: |-
   7
   Ukhdi hai saans waqt mein vus'at koi nahi
   Keh dijiye ke mujhse shikayat koi nahi
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   8
   Farmeina bu-turaab ne ay jaane mustafa
@@ -66,8 +60,6 @@ romanLyrics: |-
   9
   Taabindagi e shehr e nabi fatema se hai
   Roshan charaghe mustafa bhi fatema se hai
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   10
   Naagaah fatema ne kiya khuld ka safar
@@ -78,8 +70,6 @@ romanLyrics: |-
   11
   Ay shaahzadi ay meri maqdooma alwida
   Ismat ki rooh saabira mazlooma alwida
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   12
   Wo josh e gham wo fatema ke phool beqaraar
@@ -90,8 +80,6 @@ romanLyrics: |-
   13
   Manzar mein ehteraam e wasiyat liye huwe
   Taboot par bhi raat hai parda kiye huwe
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   14
   Taboot suye qabr e payambar hua rawan
@@ -102,8 +90,6 @@ romanLyrics: |-
   15
   Khusboo tadap ke reh gayi gulshan na mil saka
   Beti ko apne baap ka daaman na mil saka
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   16
   Ay jannatul baqi e madina salaam le
@@ -114,8 +100,6 @@ romanLyrics: |-
   17
   Sadiyon ke baad bughz ki haalat wohi rahi
   Paykar badal gaye pa shakawat wohi rahi
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   18
   Ay jannatul baqi wo din aayega zaroor
@@ -126,8 +110,6 @@ romanLyrics: |-
   19
   Ek din tamaam qasre raunaq girayenge
   Phir bhi misaale rauza e zehra banayenge
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 
   20
   Qaisar ba-zikre fatema zehra dua karo
@@ -138,8 +120,6 @@ romanLyrics: |-
   21
   Majlis bapa hai rauza e binte rasool mein
   Zikre hussain chahiye baaghe batool mein
-  Darbar ke diye huwe...
-  Dunya mein chand roz ki...
 # source_id: nohayonline:28e74a3de35de1e0c283
 # source_url: https://www.nohayonline.com/details_content.php?id=2237
 # raw_sha256: 4403e13e31e8c48c09c0f3a6358d65b64d43c01729135d062121f921a7618416
@@ -164,8 +144,6 @@ romanLyrics: |-
 ۳
 رکھنا سکوں سے میرے حسن اور حسین کو
 ہاے زہرا بڑی مظلوم ہے زہرا
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۴
 فضہ میرے حسین پہ روے گی بیکسی
@@ -176,8 +154,6 @@ romanLyrics: |-
 ۵
 رکھنا خیال صدمہء زہرا سوا نہ ہو
 زینب کے سر سے چادر زینب جدا نہ ہو
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۶
 آخر میں بوتراب سے اتنا کیا کلام
@@ -188,8 +164,6 @@ romanLyrics: |-
 ۷
 اکھڑی ہے سانس وقت میں وسعت کوئی نہیں
 کہہ دیجیےء کہ مجھ سے شکایت کوی نہیں
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۸
 فرمایا بوتراب نے اے جانِ مصطفیٰ
@@ -200,8 +174,6 @@ romanLyrics: |-
 ۹
 تابندگیء شہر نبی فاطمہ سے ہے
 روشن چراغ مصطفیٰ بھی فاطمہ سے ہے
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۱۰
 ناگاہ فاطمہ نے کیا خلد کا سفر
@@ -212,8 +184,6 @@ romanLyrics: |-
 ۱۱
 اے شاہزادی اے میری مخدومہ الوداع
 عصمت کی روح صابرہ مظلومہ الوداع
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۱۲
 وہ جوش غم وہ فاطمہ کے پھول بیقرار
@@ -224,8 +194,6 @@ romanLyrics: |-
 ۱۳
 منظر میں احترام وصیت لیےء ہو ے
 تابوت پر بھی رات ہے پردہ گےء ہوے
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۱۴
 تابوت سوے قبر پیمبر ہوا رواں
@@ -236,8 +204,6 @@ romanLyrics: |-
 ۱۵
 خوشبو تڑپ کے رہ گیء گلشن نہ مل سکا
 بیٹی کو اپنے باپ کا دامن نہ مل سکا
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۱۶
 اے جنت البقیعء مدینہ سلام لے
@@ -248,8 +214,6 @@ romanLyrics: |-
 ۱۷
 صدیوں کے بعد بغض کی حالت وہی رہی
 پیکر بدل گےء پہ سخاوت وہی رہی
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۱۸
 اے جنت البقیع وہ دن آے گا ضرور
@@ -260,8 +224,6 @@ romanLyrics: |-
 ۱۹
 اک دن تمام قصر رونق گرایینگے
 پھر بھی مثال روضہء زہرا بنائیں گے
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔
 
 ۲۰
 قیصر بہ ذکرِ فاطمہ زہرا دعا کرو
@@ -272,5 +234,3 @@ romanLyrics: |-
 ۲۱
 مجلس بپا ہے روضہء بنت رسول میں
 ذکرِ حسین چاہیئے باغ بتول میں
-دربار کے دیےء ہوے۔۔۔
-دنیا میں چاند روز کی۔۔۔

@@ -22,16 +22,12 @@ romanLyrics: |-
   Maa tadapti hai qabr se baahar
 
   2
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
   Phir wohi kaifiyat hai laila ki
   Haal tha jo jawan ke laashe par
 
   3
   Uske qadmon ki aahatein sun kar
   Maa ne thaama hua hai apna jigar
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
 
   4
   Chehra karbobala ki jaanib hai
@@ -40,16 +36,12 @@ romanLyrics: |-
   Ali akbar ki maut ka manzar
 
   5
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
   Umme laila sambhaal zainab ko
   Kal ye shabbir de rahe thay sada
 
   6
   Aaj abid phupi se kehte hai
   Maa ko meri sambhaliye jaa kar
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
 
   7
   Qabr e zahra se aa rahi hai sada
@@ -58,16 +50,12 @@ romanLyrics: |-
   Phir raha hai mazaar e paighambar
 
   8
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
   Ali akbar lipat ke qadmon se
   Keh rahe honge apne baba se
 
   9
   Toot jaye na zabt ka bandhan
   Hausla maa ko dijiye jaa kar
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
 
   10
   Sar e akbar utha ke naize par
@@ -76,16 +64,12 @@ romanLyrics: |-
   Jis se khaaye thay shaam mein pathar
 
   11
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
   Ye kareemi se ruk nahi sakte
   Qaatilon ko duayein dete hai
 
   12
   Is se pehle kye baksh de abid
   Koi mukhtaar se kahe jaa kar
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
 
   13
   Tum ne sajjad mujhko pehchana
@@ -100,16 +84,12 @@ romanLyrics: |-
   Abhi kehdun phupi se mai ja kar
 
   15
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
   Dil nahi lagta aaj ghar mein mera
   Ay takallum ye maa ka nauha tha
 
   16
   Thaam kar koi mere baazu ko
   Le chale fatema ki turbat par
-  Ghar mein aaya hai...
-  Umme laila ko hogayi...
 # source_id: nohayonline:a969ee01219d05fe3a25
 # source_url: https://www.nohayonline.com/details_content.php?id=1926
 # raw_sha256: 3529b54abac88d0b688f018bb9bc5138142f10e11a586902c6e601999769be87
@@ -126,16 +106,12 @@ romanLyrics: |-
 ماں تڑپتی ہے قبر سے باہر
 
 ۲
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 پھر وہی کیفیت ہے لیلیٰ کی
 حال تھا جو جواں کے لاشے پر
 
 ۳
 اسکے قدموں کی آہٹیں سن کر
 ماں نے تھاما ہوا ہے اپنا جگر
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 
 ۴
 چہرہ کربوبلا کی جانب ہے
@@ -144,16 +120,12 @@ romanLyrics: |-
 علی اکبر کی موت کا منظر
 
 ۵
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 ام لیلیٰ سنبھال زینب کو
 کل یہ شبیر دے رہے تھے صدا
 
 ۶
 آج عابد پھپھی سے کہتے ہیں
 ماں کو میری سنبھالیےء جا کر
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 
 ۷
 قبر زہرا سے آ رہی ہے صدا
@@ -162,16 +134,12 @@ romanLyrics: |-
 پھر رہا ہے مزار پیغمبر
 
 ۸
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 علی اکبر لپٹ کے قدموں سے
 کہہ رہے ہونگے اپنے بابا سے
 
 ۹
 ٹوٹ جاے نہ ضبط کا بندھن
 حوصلہ ماں کو دیجیےء جا کر
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 
 ۱۰
 سر اکبر اٹھا کے نیزے پر
@@ -180,16 +148,12 @@ romanLyrics: |-
 جس سے کھاے تھے شام میں پتھر
 
 ۱۱
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 یہ کریمی سے رک نہیں سکتے
 قاتلوں کو دعائیں دیتے ہیں
 
 ۱۲
 اس سے پہلے کہ بخش دے عابد
 کوئی مختار سے کہے جا کر
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 
 ۱۳
 تم نے سجاد مجھکو پہچانا
@@ -204,13 +168,9 @@ romanLyrics: |-
 ابھی کہدوں پھپھی سے میں جا کر
 
 ۱۵
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
 دل نہیں لگتا آج گھر میں میرا
 اے تکلم یہ ماں کا نوحہ تھا
 
 ۱۶
 تھام کر کوئی میرے بازو کو
 لے چلے فاطمہ کی تربت پر
-گھر میں آیا ہے۔۔۔
-ام‌ لیلیٰ کو ہوگیء۔۔۔
