@@ -13,9 +13,9 @@ romanLyrics: |-
   Roti rahi hai sayyeda karti rahi aah o buka
   Fatema kehti hai mai roti thi chillaati thi
   Haye mai khanjar e qatil se lipat jaati thi
-  Mere husain ka zakhmon se bhar chuka tha badan
 
   1
+  Mere husain ka zakhmon se bhar chuka tha badan
   Khareeb hi dare qaime pe ro rahi thi behan
   Meri fughan se larazne laga tha saara ban
   Juda hussain ki gardan jo hui jaati thi
@@ -47,12 +47,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2147
 # raw_sha256: 9c16d287ff7d5c37eda9ce0734f29a8292118e2e4da04d669911aaef7e9a3910
 ---
+
 روتی رہی ہے سیدہ کرتی رہی آہ و بکا
 فاطمہ کہتی ہے میں روتی تھی چلاتی تھی
 ہاے میں خنجرِ قاتل سے لپٹ جاتی تھی
-میرے حسین کا زخموں سے بھر چکا تھا بدن
 
 ۱
+میرے حسین کا زخموں سے بھر چکا تھا بدن
 قریب ہی در خیمے پہ رو رہی تھی بہن
 میری فغاں سے لرزنے لگا تھا سارا بن
 جدا حسین کی گردن جو ہوی جاتی تھی
