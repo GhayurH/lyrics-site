@@ -14,14 +14,14 @@ romanLyrics: |-
   Tu hai zameen pe mohamed ka saaya
   Deen e mohamed ko tu ne bachaya
   Zindagi saath tere bandagi saath tere
-
-  1
   Karbobala ne ye sikhaya
   Mai haq ke saath kahun
   Bas yehi baat kahun
   Teri wila hai sarmaya
   Tu hai nabi ka noore ain
   Hussain ya maula hussain
+
+  1
   Deene khuda ka manshoor tu hai
   Rasme wafa ka dastoor tu hai
   Ooncha jahan mein tera alam hai
@@ -108,14 +108,14 @@ romanLyrics: |-
 تو ہے زمیں پہ محمد کا سایہ
 دین محمد کو تو نے بچایا
 زندگی ساتھ تیرے بندگی ساتھ تیرے
-
-۱
 کربوبلا نے یہ سکھایا
 میں حق کے ساتھ کہوں
 بس یہی بات کہوں
 تیری ولا ہے سرمایہ
 تو ہے نبی کا نورِ عین
 حسین یا مولا حسین
+
+۱
 دین خدا کا منشور تو ہے
 رسم وفا کا دستور تو ہے
 اونچا جہاں میں تیرا علم ہے
