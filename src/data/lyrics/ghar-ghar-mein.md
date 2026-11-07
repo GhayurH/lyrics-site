@@ -9,161 +9,91 @@ poet: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ghar ghar mein safe matame shabbir bicha de
-
+romanLyrics: |-
+  Ghar ghar mein safe matame shabbir bicha de
 
   1
-
   Nemat ghame shabbir ki gar tujhko khuda de
-
   Dunya ko payame shahe mazloom suna de
-
   Matam ki sada se dil e baatil ko hila de
-
   Parda jo nigahon pe hai dunya ki hata de
 
-
   2
-
   Hai mard wohi kar ke jo waade ko nibha de
-
   Ek sar ki zaroorat ho bahattar ka gala de
-
   Baazu e alamdar de behno ki rida de
-
   Jo kuch bhi ho sab raahe mohabbat mein luta de
-
   Itna de ke badle mein khuda soche ke kya de
 
-
   3
-
   Dunya mein sada ban ke raho haq ke payami
-
   Zaalim ke mukhalif raho mazloom ke haami
-
   Aamaal ko kha jaati hai emaan ki khaami
-
   Har ek ko milti nahi sarwar ki ghulami
-
   Nemat ye mayassar hai usay jisko khuda de
 
-
   4
-
   Haq kya hai zamane ko bataate huwe niklo
-
   Parda rukhe baatil se hataate huwe niklo
-
   Jaage huwe fitno ko sulaate huwe niklo
-
   Sote huwe zehno ko jagaate huwe niklo
-
   Naara wo karo kufr ki deewar jo dhaa de
 
-
   5
-
   Kausar ghame sarwar mein lutaate huwe niklo
-
   Rote huwe dunya ko rulaate huwe niklo
-
   Mazloom ka paigham sunaate huwe niklo
-
   Abbas ke parcham ko uthaate huwe niklo
-
   Har naqshe qadam raahe haqeeqat ka pata de
 
-
   6
-
   Batlao ke shabbir sa rehbar na milega
-
   Kaunain mein inka koi hamsar na milega
-
   Sardar e jina saaqi e kausar na milega
-
   Is dar ke siwa aur koi dar na milega
-
   Jis dar pe farishta bhi gada ban ke sada de
 
-
   7
-
   Mumkin na hua kar ke jo sarwar ne dikhaya
-
   Khushnoodi e maula mein bhare ghar ko lutaya
-
   Akbar ko uthaya kabhi asghar ko sulaya
-
   Shabbir ne sar de ke zamane ko bataya
-
   Zinda hai wohi maut ki gardan jo jhuka de
 
-
   8
-
   Badte huwe baatil ke qadam todne waale
-
   Aiwaan e takabbur ke sanam todne waale
-
   Ay tashna dahan khaak pe dam todne waale
-
   Hairaan hai khud tujhpe sitam todne waale
-
   Hai kaun tahe taygh jo ummat ko dua de
 
-
   9
-
   Ye sabr ye zabt aur ye himmat nahi dekhi
-
   Insan ki ye meraaj ye azmat nahi dekhi
-
   Juz tere kisi mein bhi ye jurrat nahi dekhi
-
   Hyder ki qasam hum ne ye quwwat nahi dekhi
-
   Qillat se jo kasrat ke iraadon ko mita de
 
-
   10
-
   Kehne ko musalman thay wo zulm ke baani
-
   Mehman bula kar na diya shaah ko pani
-
   Mitti mein mila di ali akbar ki jawani
-
   Hamshakle paighambar tha wo shabbir ka jaani
-
   Tasveer ka ye rukh bhi zamane ko dikhaade
 
-
   11
-
   Baysheer ka haathon pe tadapte huwe marna
-
   Taapon ke tale laasha e qasim ka bikharna
-
   Phal barchi ka akbar ke kaleje mein utarna
-
   Sab saamne aankhon ke ho aur uff bhi na karna
-
   Kis dil mein ye himmat hai ye taaqat ye batade
 
-
   12
-
   Chehre pe malay khoon qadam tez badhaye
-
   Ek nanhi si mayyat ko kaleje se lagaye
-
   Ye kaun chala jaata hai gardan ko jhukaye
-
   Maa dar pe hai qaime ke kahin dekh na paaye
-
-  Fizza se kaho qaime ke parde ko gira de'
+  Fizza se kaho qaime ke parde ko gira de
 reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:da523293dda56c8d4623
 # source_url: https://www.nohayonline.com/details_content.php?id=2897
@@ -180,7 +110,6 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 دنیا کو پیام شاہ مظلوم سنا دے
 ماتم کی صدا سے دل باطل کو ہلا دے
 پردہ جو نگاہوں پہ پڑا ہے دنیا کی ہٹا دے
-گھر گھر مے صف ماتم شببر بچھا دے
 
 ۲
 ہے مرد وہی کر کے جو وعدے کو نبھا دے
