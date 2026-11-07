@@ -10,22 +10,22 @@ aliases: []
 published: false
 romanLyrics: |-
   Baba ko sadayein deti hai
-  
-  1
   Jangal may sakina raat gaye
   Jab kaan may uske aati hai
   Awaaz e ilayya raat gaye
+
+  1
   Abbas nahi qasim bhi nahi
   Akbar bhi nahi asghar bhi nahi
   Be-gor o kafan hai jangal may
   Shabbir ka laasha raat gaye
-  
+
   2
   Zehra ki dulaari sar kholay
   Be-makhna o chadar baithi hai
   Roodad e alam dohrata hai
   Jalta hua qaima raat gaye
-  
+
   3
   Jab sham e ghariban ko lekar
   Ashoor ka suraj doob gaya
@@ -37,11 +37,11 @@ romanLyrics: |-
 ---
 
 بابا کو صدائیں دیتی ہے
-
-۱
 جنگل میں سکینہ رات گئے
 جب کان میں اُس کے آتی ہے
 آوازِ الیہ رات گئے
+
+۱
 عباس نہیں قاسم بھی نہیں
 اکبر بھی نہیں اصغر بھی نہیں
 بے گورو کفن ہے جنگل میں
