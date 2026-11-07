@@ -11,11 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya hussain ya hussain
-  
-  1
   Ishq e ali o zahra hussain
   
-  2
+  1
   Arsh e bari ho jiska musalla
   Sajda jise karta ho qibla
   Jiski sukunat sehn e kaaba
@@ -23,7 +21,7 @@ romanLyrics: |-
   Jis se hai aabru deene khuda ki wo hussain
   Hyderi zeb o zain fatema zehra ka hai chain
   
-  3
+  2
   Shaane qayadat roohe imamat
   Jiski mawaddat ajre risalat
   Bar sare naiza husne tilawat
@@ -31,7 +29,7 @@ romanLyrics: |-
   Ay shahe mashraqain ay dil o jaan e karbala
   Aap hi ibteda aap hi ishq ki intehaa
   
-  4
+  3
   Chehra tera wan-najm ki surat
   Gaysu tere wal-layl ki aayat
   Badr tamaami qad aur qaamat
@@ -39,7 +37,7 @@ romanLyrics: |-
   Qalbe quran ke noor mein baaham hai hussain
   Usme ek lafz hai uska mujassam hai hussain
   
-  5
+  4
   Hurr se dilawar kya thay kya hai
   Raahib o fitrus tujh pe fida hai
   Jitne shaheed e karbobala hai
@@ -47,7 +45,7 @@ romanLyrics: |-
   Sura e rehman ki poochiye kya tafseer hai
   Khud kahega khuda bas wo mera shabbir hai
   
-  6
+  5
   Karbobala ab hum ko bulaye
   Farshe zameen par arsh dikhaye
   Khaake shifa dastaar banaye
@@ -55,7 +53,7 @@ romanLyrics: |-
   Karbala naam hai ishq ki us meraaj ka
   Paa sake koshishein karke bhi na jise ambiya
   
-  7
+  6
   Kaisi sahar ashoor ki aayi
   Kaisi sitam ki aandhi chaayi
   Baaqi rahe na bete bhai
@@ -63,7 +61,7 @@ romanLyrics: |-
   Ran ko jo bhi gaya tujhpe fida hota raha
   Ro rahi hai aaj bhi gham mein tumhare karbala
   
-  8
+  7
   Fakhr hamein salman o raza hai
   Hum ko meinassar farshe aza hai
   Fatema zehra ki ye ataa hai
@@ -76,11 +74,9 @@ romanLyrics: |-
 ---
 
 یا حسین یا حسین
-
-۱
 عشقِ علی و زہرا حسین
 
-۲
+۱
 عرش بریں ہو جس کا مصلی
 سجدہ جسے کرتا ہوں قبلہ
 جس کی سکونت صحن کعبہ
@@ -88,7 +84,7 @@ romanLyrics: |-
 جس سے ہے آبرو دین خدا کی وہ حسین
 حیدری زیب و زین فاطمہ زہرا کا ہے چین
 
-۳
+۲
 شان قیادت روح امامت
 جس کی مودت اجر رسالت
 بر سر نیزہ حسن تلاوت
@@ -96,7 +92,7 @@ romanLyrics: |-
 اے شاہ مشرقین اے دل و جان کربلا
 آپ ہی ابتدا آپ ہی عشق کی انتہا
 
-۴
+۳
 چہرہ تیرا والنجم کی صورت
 گیسوں تیرے والیل کی آیت
 بدر تمامی قد اور قامت
@@ -104,7 +100,7 @@ romanLyrics: |-
 قلب قرآن کے نور میں باہم ہے حسین
 اس میں ایک لفظ ہے اس کا مجسم ہے حسین
 
-۵
+۴
 حر سے دلاور کیا تھے کیا ہے
 راحب و فطرس تجھ پہ فدا ہے
 جتنے شہید کربوبلا ہے
@@ -112,7 +108,7 @@ romanLyrics: |-
 سورہء رحمٰن کی پوچھیےء کیا تفسیر ہے
 خود کہے گا خدا بس وہ میرا شبیر ہے
 
-۶
+۵
 کربوبلا اب ہم کو بلاے
 فرش زمیں پر عرش دکھاے
 خاک شفا دستار بناے
@@ -120,7 +116,7 @@ romanLyrics: |-
 کربلا نام ہے عشق کی اس معراج کا
 پا سکے کوششیں کر کے بھی نہ جسے انبیاء
 
-۷
+۶
 کیسی سحر عاشور کی آی
 کیسی ستم کی آندھی چھای
 باقی رہے نہ بیٹے بھای
@@ -128,7 +124,7 @@ romanLyrics: |-
 رن کو جو بھی گیا تجھ پہ فدا ہوتا رہا
 رو رہی ہے آج بھی غم میں تمہارے کربلا
 
-۸
+۷
 فخر ہمیں سلمان و رضا ہے
 ہم کو میسر فرش عزا ہے
 فاطمہ زہرا کی یہ عطا ہے
