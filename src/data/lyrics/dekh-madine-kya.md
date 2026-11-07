@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   Dekh madine kya kya yaadein
-  
-  1
   Saath mein apne laayi hai zainab
   Karbobala mein ghar ko luta kar
   Apne watan mein aayi hai zainab
+
+  1
   Zulm kiya wo ahle jafa ne
   Zainab ka gham zainab jaane
   Sooje huwe hai ab tak shaane
   Daagh ye kaise paayi hai zainab
-  
+
   2
   Gham ki kise rudaad sunaye
   Zakhm jigar ke kaise dikhaye
   Daaghe rasan kis kis se chipaye
   Soch ke ye ghabrayi hai zainab
-  
+
   3
   Shaam ka kya bazaar saja tha
   Shehr khada tha behre tamasha
   Haye kisi ne ye bhi na socha
   Ye to ali ki jaayi hai zainab
-  
+
   4
   Saamne haakim ke mai khadi thi
   Bhai ke mere lab pa chadi thi
   Haye wo kaisi sakht ghadi thi
   Soch ke ye tharraayi hai zainab
-  
+
   5
   Ek qayamat har soo bapa thi
   Mehwe tamasha khalqe khuda thi
   Aur tamasha aale aba thi
   Haye bahot sharmayi hai zainab
-  
+
   6
   Shimr ke durre baali sakina
   Pyaas ki shiddat jalta seena
   Aa na saki wapas wo madina
   Tanha usay chod aayi hai zainab
-  
+
   7
   Ashke aza ke moti luta do
   Farshe aza aankhon ko bana do
@@ -62,11 +62,11 @@ romanLyrics: |-
 ---
 
 دیکھ مدینے کیا کیا یادیں
-
-۱
 ساتھ میں اپنے لای ہے زینب
 کربوبلا میں گھر کو لٹا کر
 اپنے وطن میں آی ہے زینب
+
+۱
 ظلم کیا وہ أہل جفا نے
 زینب کا غم زینب جانے
 سوجھے ہوئے ہیں اب تک شانے
