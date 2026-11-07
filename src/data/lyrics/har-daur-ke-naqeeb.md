@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Har daur ke naqeeb hai quran o ahlebait
   Insan ka naseeb hai quran o ahlebait
   Allah ke khareeb hai quran o ahlebait
@@ -21,7 +20,6 @@ romanLyrics: |-
 # raw_sha256: 158c0dbbe764552ef4c94bbc2190a6c8563c12b727cb221a0a483d618fc3404e
 ---
 
-۱
 ہر دور کے نقیب ہے قرآن و اہلبیت
 انسان کا نصیب ہے قرآن و اہلبیت
 اللّٰہ کے قریب ہے قرآن و اہلبیت
