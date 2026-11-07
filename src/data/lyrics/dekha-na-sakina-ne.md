@@ -14,6 +14,7 @@ romanLyrics: |-
   Tareeki e zindan may ghabraungi baba
   Darti hoo andhere may nazar kuch nahi aata
   Dewaaron se takrati hoo mar jaungi baba
+  
   Dekha na sakina ne zindan may savera hai
   Mai kya bataun baba yahan kitna andhera hai
 
@@ -57,6 +58,7 @@ romanLyrics: |-
 تاریکیء زندان میں گھبراؤں گی بابا
 ڈرتی ہوں اندھیرے میں نظر کچھ نہیں آتا
 دیواروں سے ٹکراتی ہوں مر جاؤں گی بابا
+
 دیکھا نہ سکینہ نے زنداں میں سویرا ہے
 میں کیا بتاؤں بابا یہاں کتنا اندھیرا ہے
 
