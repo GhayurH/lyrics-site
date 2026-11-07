@@ -12,41 +12,39 @@ published: false
 romanLyrics: |-
   Tha ye bano ka bayan
   Ay mere tashna dahan
-  
-  1
   Tum pe waari ho ye maa
-  
-  2
+
+  1
   Laash aayi na teri maidan se
   Reh gaye lab tere haye pyase
   Nanhi gardan pe chalaya paikaan
-  
-  3
+
+  2
   Tera gehwara pada hai khaali
   Loriyan de ke sulaane waali
   Yaad mein teri tadapti hai ye maa
-  
-  4
+
+  3
   Khaak mein khud ko mila kar ye kaha
   Raakh jhoole ki uda kar ye kaha
   Aise bikhre na kisi ke armaan
-  
-  5
+
+  4
   Godh mein tujhko humakna tha abhi
   Ghutniyo chal ke chehekna tha abhi
   Thi ye chaahat tujhe dekhun mai jawan
-  
-  6
+
+  5
   Kaise dekhun ay mere laal bata
   Nok e naiza pe tera sar beta
   Leke aada hai sar e raah rawan
-  
-  7
+
+  6
   Dekh sughra ne likha hai khat mein
   Mar na jaaye wo kahin furqat mein
   Wo ye kehti hai ke asghar ho kahan
-  
-  8
+
+  7
   Apni bakshish ki dua karta hoon
   Mai hassan us se wafa karta hoon
   Kat gayi khushk jo nanhi si zaban
@@ -57,41 +55,39 @@ romanLyrics: |-
 
 تھا یہ بانو کا بیاں
 اے میرے تشنہ دہاں
-
-۱
 تم پہ واری ہو یہ ماں
 
-۲
+۱
 لاش آی نہ تیری میداں سے
 رہ گےء لب تیرے ہاے پیاسے
 ننھی گردن پہ چلایا پیکاں
 
-۳
+۲
 تیرا گہوارہ پڑا ہے خالی
 لوریاں دے کے سلانے والی
 یاد میں تیری تڑپتی ہے یہ ماں
 
-۴
+۳
 خاک میں خود کو ملا کر یہ کہا
 راخ جھولے کی اڑا کر یہ کہا
 ایسے بکھرے نہ کسی کے ارماں
 
-۵
+۴
 گود میں تجھکو ہمکنا تھا ابھی
 گھٹنیوں چل کے چہکنا تھا ابھی
 تھی یہ چاہت تجھے دیکھوں میں جواں
 
-۶
+۵
 کیسے دیکھوں اے میرے لال بتا
 نوکِ نیزہ پہ تیرا سر بیٹا
 لے کے اعدا ہے سر راہ رواں
 
-۷
+۶
 دیکھ صغرا نے لکھا ہے خط میں
 مر نہ جائے وہ کہیں فرقت میں
 وہ یہ کہتی ہے کہ اصغر ہو کہاں
 
-۸
+۷
 اپنی بخشش کی دعا کرتا ہوں
 میں حسن اس سے وفا کرتا ہوں
 کٹ گیء خشک جو ننھی سی زباں
