@@ -13,66 +13,64 @@ romanLyrics: |-
   Hussain jaanam hussain jaanam
   Maqtal mein khule sar yehi kehti rahi maadar
   Hussain jaanam hussain jaanam
-  
-  1
   Pyase gale pe chala haye zulm ka khanjar
-  
-  2
+
+  1
   Sehra e karbala mein hua zehra ka nazool
   Beti ke saath rote huwe aa gaye rasool
   Zehra ka baazu thaame huwe rote hai haider
-  
-  3
+
+  2
   Dekho na alamdar raha aur na lashkar
   Na aun o mohamed rahe na qasim o akbar
   Ladte huwe laakhon se nazar aaye jo sarwar
-  
-  4
+
+  3
   Ladte hue shabbir ne jis dam suni sada
   Ay nafse mutmain aa palat kehta tha khuda
   Sajde mein rakha shaah ne sar khaak ke upar
-  
-  5
+
+  4
   Khanjar ko liye haaton mein wo shimr chala hai
   Pyase gale pe shaah ke khanjar ko rakha hai
   Ye dekh ke roti rahi shabbir ki maadar
-  
-  6
+
+  5
   Kehte thay ke ay shimr ye ahmed ka pisar hai
   Aur pyaas ki shiddat se jala uska jigar hai
   Pani usay pilado dua denge payambar
-  
-  7
+
+  6
   Sar khole huwe fatema karti rahi faryad
   Sar kaat ke hathon mein utha legaya jallaad
   Zainab ne dare qaima se dekha tha wo manzar
-  
-  8
+
+  7
   Khoon aasman se barsa udhar karbobala mein
   Aur fathe ki naubat baji wan ahle jafa mein
   Sajjad se kehti thi utho abid e muztar
-  
-  9
+
+  8
   Sajjad ne tab chaunk ke sar apna uthaya
   Sar hazrate shabbir ka wan naize pe paaya
   Kehte thay salaam aap pe ay zehra ke dilbar
-  
-  10
+
+  9
   Farmati thi zehra ke mere yusuf e saani
   Pyase hi gaye dunya se paaya nahi pani
   Ab khuld mein nana tere denge tujhe kausar
-  
-  11
+
+  10
   Zehra se ye farmane lage ahmad e mukhtar
   De sabr tujhe fatema ab khaaliq e ghaffar
   Zibhe azeem bangaya hai ab mera sarwar
-  
-  12
+
+  11
   Farmate thay ye zehra se ro ro ke murtaza
   Zaalim ne mere bache ko maara hai be-khata
   Shabbir ke laashe pe yehi kehte thay hyder
-  
-  13
+
+  12
   Ye sab ghulam aap ke hai hazrate shabbir
   Aijaz o aaqif ki badhi is liye taukeer
   Rote huwe kehte hai jo aakar sare mimbar
@@ -84,66 +82,64 @@ romanLyrics: |-
 حسین جانم حسین جانم
 مقتل میں کھلے سر یہی کہتی رہی مادر
 حسین جانم حسین جانم
-
-۱
 پیاسے گلے پہ چلا ہاے ظلم کا خنجر
 
-۲
+۱
 صحراے کربلا میں ہوا زہرا کا نزول
 بیٹی کے ساتھ روتے ہوئے آگےء رسول
 زہرا کا بازو تھامے ہوئے روتے ہیں حیدر
 
-۳
+۲
 دیکھو نہ علمدار رہا اور نہ لشکر
 نہ عون و محمد رہے نہ قاسم و اکبر
 لڑتے ہوئے لاکھوں سے نظر آے جو سرور
 
-۴
+۳
 لڑتے ہوئے شبیر نے جس دم سنی صدا
 اے نفس مطمئن آ پلٹ کہتا تھا خدا
 سجدے میں رکھا شاہ نے سر خاک کے اوپر
 
-۵
+۴
 خنجر کو لیے ہاتھوں میں وہ شمر چلا ہے
 پیاسے گلے پہ شاہ کے خنجر کو رکھا ہے
 یہ دیکھ کے روتی رہی شبیر کی مادر
 
-۶
+۵
 کہتے تھے کہ اے شمر یہ احمد کا پسر ہے
 اور پیاس کی شدت سے جلا اس کا جگر ہے
 پانی اسے پلادو دعا دینگے پیمبر
 
-۷
+۶
 سر کھولے ہوئے فاطمہ کرتی رہی فریاد
 سر کاٹ کے ہاتھوں میں اٹھا لے گےء جلاد
 زینب نے در خیمہ سے دیکھا تھا وہ منظر
 
-۸
+۷
 خوں آسماں سے برسا ادھر کربوبلا میں
 اور فاتحہ کی نوبت بجی واں اہل جفا میں
 سجاد سے کہتی تھی اٹھو عابد مضطر
 
-۹
+۸
 سجاد نے تب چونک کے سر اپنا اٹھایا
 سر حضرت شبیر کا واں نیزے پہ پایا
 کہتے تھے سلام آپ پہ اے زہرا کے دلبر
 
-۱۰
+۹
 فرماتی تھی زہرا کے میرے یوسف ثانی
 پیاسے ہی گےء دنیا سے پایا نہیں پانی
 اب خلد میں نانا تیرے دیں گے تجھے کوثر
 
-۱۱
+۱۰
 زہرا سے یہ فرمانے لگے احمد مختار
 دے صبر تجھے فاطمہ اب خالق غفار
 ذبح عظیم بن گیا ہے اب میرا سرور
 
-۱۲
+۱۱
 فرماتے تھے یہ زہرا سے رو رو کے مرتظی
 ظالم نے میرے بچے کو مارا ہے بے خطا
 شبیر کے لاشے پہ یہی کہتے تھے حیدر
 
-۱۳
+۱۲
 یہ سب غلام آپ کے ہیں حضرت شبیر
 اعجاز و عاکف کی بڑھی اس لیئے توقیر
 روتے ہوئے کہتے ہیں جو آکر سر ممبر
