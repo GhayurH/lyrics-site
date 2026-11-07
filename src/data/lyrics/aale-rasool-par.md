@@ -20,60 +20,41 @@ romanLyrics: |-
   Zainab aur bazaar e shaam
   Be maqna be chadaar haye
   Fatema zahra ke gulbaar
-
-  2
   Nauha tha abid ke lab par
   Haye haye zainab haye haye shaam
   Aale rasool par ye kaisa maqaam aaya
   Chadar nahi hai sar par baazar e shaam aaya
-
-  3
   Aale rasool par ye kaisa maqaam aaya
-  Haye haye zainab...
+
+  2
   Ghairat se sar jukaye saydaniyon ko le kar
   Tauq e garan may jakda chautha imam aaya
-
-  4
   Chadar nahi hai sar par baazar e shaam aaya
-  Aale rasool par ye...
-  Haye haye zainab...
-  Sab bibiyon ke peeche ghairat se chup rahi thi
 
-  5
+  3
+  Sab bibiyon ke peeche ghairat se chup rahi thi
   Darbar e shaam may jab zainab ka naam aaya
   Chadar nahi hai sar par baazar e shaam aaya
-  Aale rasool par ye...
-  Haye haye zainab...
 
-  6
+  4
   Maa behne sar khule hai aur sar jukaye abid
   Ek imtehan dene baazar e shaam aaya
   Chadar nahi hai sar par baazar e shaam aaya
-  Aale rasool par ye...
 
-  7
-  Haye haye zainab...
+  5
   Bazaar e ashqiyan may ashk e aza bahata
   Durron pe durre khaata mera imam aaya
   Chadar nahi hai sar par baazar e shaam aaya
 
-  8
-  Aale rasool par ye...
-  Haye haye zainab...
+  6
   Yaad aayi wo sakina jo qaid hai musalsal
   Jab saamne hamare zindan e shaam aaya
-
-  9
   Chadar nahi hai sar par baazar e shaam aaya
-  Aale rasool par ye...
-  Haye haye zainab...
-  Qaisar ka nauha kehna aur shadman ka padna
 
-  10
+  7
+  Qaisar ka nauha kehna aur shadman ka padna
   Bakshish ke sa'aton may dono ke kaam aaya
   Chadar nahi hai sar par baazar e shaam aaya
-  Aale rasool par ye...
-  Haye haye zainab...
 # source_id: nohayonline:bbcae4727c63bd8e4162
 # source_url: https://www.nohayonline.com/details_content.php?id=2323
 # raw_sha256: fe12463f91a44e8bae15e56026ba79ed99f4536b8383cd53d2780f5ee92df6b7
@@ -88,57 +69,38 @@ romanLyrics: |-
 زینب اور بازار شام
 بے مقنہ بے چادر ہاے
 فاطمہ زہرا کے گل بار
-
-۲
 نوحہ تھا عابد کے لب پر
 ہاے ہاے زینب ہاے ہاے شام
 آل رسول پر یہ کیسا مقام آیا
 چادر نہیں ہے سر پر بازارِ شام آیا
-
-۳
 آل رسول پر یہ۔۔۔
-ہاے ہاے زینب۔۔۔
+
+۲
 غیرت سے سر جھکائے سیدانیوں کو لے کر
 طوقِ گراں میں جکڑا چوتھا امام آیا
-
-۴
 چادر نہیں ہے سر پر بازارِ شام آیا
-آل رسول پر یہ۔۔۔
-ہاے ہاے زینب۔۔۔
-سب بی بیوں کے پیچھے‌ غیرت سے چھپ رہی تھی
 
-۵
+۳
+سب بی بیوں کے پیچھے‌ غیرت سے چھپ رہی تھی
 دربار شام میں جب زینب کا نام آیا
 چادر نہیں ہے سر پر بازارِ شام آیا
-آل رسول پر یہ۔۔۔
-ہاے ہاے زینب۔۔۔
 
-۶
+۴
 ماں بہنیں سر کھلے ہیں اور سر جھکائے عابد
 اک امتحان دینے بازار شام آیا
 چادر نہیں ہے سر پر بازارِ شام آیا
-آل رسول پر یہ۔۔۔
 
-۷
-ہاے ہاے زینب۔۔۔
+۵
 بازار اشقیاء میں اشک عزا بہاتا
 دروں پہ درے کھاتا میرا امام آیا
 چادر نہیں ہے سر پر بازارِ شام آیا
 
-۸
-آل رسول پر یہ۔۔۔
-ہاے ہاے زینب۔۔۔
+۶
 یاد آی وہ سکینہ جو قید ہے مسلسل
 جب سامنے ہمارے زندان شام آیا
-
-۹
 چادر نہیں ہے سر پر بازارِ شام آیا
-آل رسول پر یہ۔۔۔
-ہاے ہاے زینب۔۔۔
-قیصر کا نوحہ کہنا اور شادماں کا پڑھنا
 
-۱۰
+۷
+قیصر کا نوحہ کہنا اور شادماں کا پڑھنا
 بخشش کے ساعتوں میں دونوں کے کام آیا
 چادر نہیں ہے سر پر بازارِ شام آیا
-آل رسول پر یہ۔۔۔
-ہاے ہاے زینب۔۔۔
