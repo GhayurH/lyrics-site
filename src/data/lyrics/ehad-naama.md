@@ -14,11 +14,12 @@ romanLyrics: |-
   Khata e hurr pe hussaini ata ka mausam hai
   Mareez nafs ki khaatir dawa ka mausam hai
   Hussain asr se ahde wafa ka mausam hai
-
-  1
   Imam e waqt se waada hai sar kata dunga
   Lahoo ka aakhri khatra bhi mai baha dunga
+
   Al ajal al ajal ajal ya imame zamana
+
+  1
   Habeeb e mazahir ki tarha
   Na khat likh ke mujhko bulana
   Bujha kar diya aur na hal min
@@ -81,11 +82,12 @@ romanLyrics: |-
 خطاے حر پہ حسینی عطا کا موسم ہے
 مریض نفس کی خاطر دوا کا موسم ہے
 حسین عصر سے احد وفا کا موسم ہے
-
-۱
 امام وقت سے وعدہ ہے سر کٹا دونگا
 لہو کا آخری خطرہ بھی میں بہا دونگا
+
 العجل العجل العجل یا امام زمانہ
+
+۱
 حبیب مظاہر کی طرح
 نہ خط لکھ کے مجھکو بلانا
 بجھا کر دیا اور نہ ھل من
