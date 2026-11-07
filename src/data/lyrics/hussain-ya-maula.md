@@ -28,7 +28,6 @@ romanLyrics: |-
   Kon a makan mein tu mohtaram hai
   Lab pe dua rahe yabnaz zahra hussain
   Teri adalat hai yabnaz zahra hussain
-  Tu hai nabi ka noore ain
 
   2
   Hurr ka muqaddar tu ne jagaya
@@ -37,7 +36,6 @@ romanLyrics: |-
   Sab ki wafaon ko aazma kar
   Aisa sila diya yabnaz zahra hussain
   Rab se mila diya yabnaz zahra hussain
-  Tu hai nabi ka noore ain
 
   3
   Sharte shifa'at teri mohabbat
@@ -46,7 +44,6 @@ romanLyrics: |-
   Tujhse adawat rab se adawat
   Dunya ka kya khabar yabnaz zahra hussain
   Hai kitna mohtabar yabnaz zahra hussain
-  Tu hai nabi ka noore ain
 
   4
   Bayyat se tera inkaar maula
@@ -55,7 +52,6 @@ romanLyrics: |-
   Jeet gaya tu haare sitamgar
   Goonji ban mein azan yabnaz zahra hussain
   Pursa kari kahan yabnaz zahra hussain
-  Tu hai nabi ka noore ain
 
   5
   Jaati hai jaan chale jaaye hamay gham kya
@@ -64,7 +60,6 @@ romanLyrics: |-
   Bas ye iraada hum ne kiya hai
   Chaahe mar jaaye hum yabnaz zahra hussain
   Zinda rakhenge gham yabnaz zahra hussain
-  Tu hai nabi ka noore ain
 
   6
   Kishte alaam se tu ne nikal kar
@@ -73,7 +68,6 @@ romanLyrics: |-
   Teri bahan ne zinda basaya
   Rote huwe kaha yabnaz zahra hussain
   Matam hoga tera yabnaz zahra hussain
-  Tu hai nabi ka noore ain
 
   7
   Shaam e ghariban bhoole nahi hum
@@ -84,7 +78,6 @@ romanLyrics: |-
   Jaari tha quran teri zaban par
   Jo dekha jo suna yabnaz zahra hussain
   Raavi ne likh diya yabnaz zahra hussain
-  Tu hai nabi ka noore ain
 
   8
   Waada ye tujhse karte hai ro kar
@@ -93,7 +86,6 @@ romanLyrics: |-
   Dil ko sukoon hai aah o buka se
   Tujhse wabastagi yabnaz zahra hussain
   Ho saari zindagi yabnaz zahra hussain
-  Tu hai nabi ka noore ain
 
   9
   Tu hi to faatah e karbobala hai
@@ -122,7 +114,6 @@ romanLyrics: |-
 کون و مکاں میں تو محترم ہے
 لب پہ دعا رہے یبن الزہراء حسین
 تیری عدالت ہے یبن الزہراء حسین
-تو ہے نبی کا نورِ عین
 
 ۲
 حر کا مقدر تو نے جگایا
@@ -131,7 +122,6 @@ romanLyrics: |-
 سب کی وفاؤں کو آزما کر
 ایسا صلہ دیا یبن الزہراء حسین
 رب سے ملا دیا یبن الزہراء حسین
-تو ہے نبی کا نورِ عین
 
 ۳
 شرط شفاعت تیری محبت
@@ -140,7 +130,6 @@ romanLyrics: |-
 تجھ سے عداوت رب سے عداوت
 دنیا کا کیا خبر یبن الزہراء حسین
 ہے کتنا معتبر یبن الزہراء حسین
-تو ہے نبی کا نورِ عین
 
 ۴
 بیعت سے تیرا انکار مولا
@@ -149,7 +138,6 @@ romanLyrics: |-
 جیت گیا تو ہارے ستمگر
 گونجی بن میں اذاں یبن الزہراء حسین
 پرسہ کری کہاں یبن الزہراء حسین
-تو ہے نبی کا نورِ عین
 
 ۵
 جاتی ہے جان چلے جاے ہمیں غم کیا
@@ -158,7 +146,6 @@ romanLyrics: |-
 بس یہ ارادہ ہم نے کیا ہے
 چاہے مر جاۓ ہم یبن الزہراء حسین
 زندہ رکھیں گے غم یبن الزہراء حسین
-تو ہے نبی کا نورِ عین
 
 ۶
 کشت آلام سے‌ تو نے نکل کر
@@ -167,7 +154,6 @@ romanLyrics: |-
 تیری بہن نے زندہ بسایا
 روتے ہوئے کہا یبن الزہراء حسین
 ماتم ہوگا تیرا یبن الزہراء حسین
-تو ہے نبی کا نورِ عین
 
 ۷
 شام غریباں بھولے نہیں ہم
@@ -178,7 +164,6 @@ romanLyrics: |-
 جاری تھا قرآن تیری زبان پر
 جو دیکھا جو سنا یبن الزہراء حسین
 راوی نے لکھ دیا یبن الزہراء حسین
-تو ہے نبی کا نورِ عین
 
 ۸
 وعدہ یہ تجھ سے کرتے ہیں رو کر
@@ -187,7 +172,6 @@ romanLyrics: |-
 دل کو سکوں ہے آہ و بکا سے
 تجھ سے وابستگی یبن الزہراء حسین
 ہو ساری زندگی یبن الزہراء حسین
-تو ہے نبی کا نورِ عین
 
 ۹
 تو ہی تو فاتح کربوبلا ہے
