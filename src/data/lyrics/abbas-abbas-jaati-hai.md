@@ -24,7 +24,6 @@ romanLyrics: |-
   2
   Haalat teri dekhe kaun bhala
   Saqqa hai behan ko ye sadma
-  Abbas abbas jaati hai...
   Jis tarha watan se laaye thay hum
 
   3
@@ -35,7 +34,6 @@ romanLyrics: |-
 
   4
   Chadar to dilaado ay saqqa
-  Abbas abbas jaati hai...
   Ay sher tu kitna pyasa tha
   Zainab ko teri ehsaas hua
 
@@ -46,7 +44,6 @@ romanLyrics: |-
   Pani nahi tera khoon baha
 
   6
-  Abbas abbas jaati hai...
   Jab tak tu raha zinda bhaiya
   Nazrein na uthaata tha koi
   Zehra ki mai beti hoo ghazi
@@ -55,7 +52,6 @@ romanLyrics: |-
   Haa sar pe mere chadar na rahi
   Aa sar pe mere saaya kar de
   Ay bhayi mere phir so jaana
-  Abbas abbas jaati hai...
 
   8
   Thi teri khata bhi koi nahi
@@ -66,7 +62,6 @@ romanLyrics: |-
   9
   Sambhla na gaya tumse zeen par
   Sar khoon mein tera doob gaya
-  Abbas abbas jaati hai...
   Laaye thay watan se jis tarha
 
   10
@@ -77,7 +72,6 @@ romanLyrics: |-
 
   11
   Hai teri behen ka shaana bandha
-  Abbas abbas jaati hai...
   Kis mein ye bhala jurrat aati
   Jo baandhta shaano mein rassi
 
@@ -88,7 +82,6 @@ romanLyrics: |-
   Kis tarha rahoongi beparda
 
   13
-  Abbas abbas jaati hai...
   Rehan o mubarak zainab ka
   Pardes mai yun ghar baar luta
   Bhai pardes mein maare gaye
@@ -97,7 +90,6 @@ romanLyrics: |-
   Shaana bandha parda loota gaya
   Maqtal mein chaudha sadi se
   Hai fatema zehra ka nauha
-  Abbas abbas jaati hai...
 # source_id: nohayonline:2450a0d7b312eaa4f47a
 # source_url: https://www.nohayonline.com/details_content.php?id=1376
 # raw_sha256: 4b8565e81aa1f62ceebcf254a187f050545a5501290a232a5d93249731f99a96
@@ -116,7 +108,6 @@ romanLyrics: |-
 ۲
 حالت تیری دیکھے کون بھلا
 سقہ ہے بہن کو یہ صدمہ
-عباس عباس جاتی ہے۔۔۔
 جس طرح وطن سے لاے تھے ہم
 
 ۳
@@ -127,7 +118,6 @@ romanLyrics: |-
 
 ۴
 چادر تو دلادو اے سقہ
-عباس عباس جاتی ہے۔۔۔
 اے شیر تو کتنا پیاس تھا
 زینب کو تیری احساس ہوا
 
@@ -138,7 +128,6 @@ romanLyrics: |-
 پانی نہیں تیرا خون بہا
 
 ۶
-عباس عباس جاتی ہے۔۔۔
 جب تک تو رہا زندہ بھیا
 نظریں نہ اٹھاتا تھا کوئی
 زہرا کی میں بیٹی ہوں غازی
@@ -147,7 +136,6 @@ romanLyrics: |-
 ہاں سر پہ میرے چادر نہ رہی
 آ سر پہ میرے سایہ کر دے
 اے بھای میرے پھر سو جانا
-عباس عباس جاتی ہے۔۔۔
 
 ۸
 تھی تیری خطا بھی کوئی نہیں
@@ -158,7 +146,6 @@ romanLyrics: |-
 ۹
 سنبھلا نہ گیا تم سے زیں پر
 سر خون میں تیرا ڈوب گیا
-عباس عباس جاتی ہے۔۔۔
 لاے تھے وطن سے جس طرح
 
 ۱۰
@@ -169,7 +156,6 @@ romanLyrics: |-
 
 ۱۱
 ہے تیری بہن کا شانہ بندھا
-عباس عباس جاتی ہے۔۔۔
 کس میں یہ بھلا جرت آتی
 جو باندھتا شانوں میں رسی
 
@@ -180,7 +166,6 @@ romanLyrics: |-
 کس طرح رہوں گی بے پردہ
 
 ۱۳
-عباس عباس جاتی ہے۔۔۔
 ریحان و مبارک زینب کا
 پردیس میں یوں گھر بار لٹا
 بھای پردیس میں مارے گئے
@@ -189,4 +174,3 @@ romanLyrics: |-
 شانہ بندھا پردہ لوٹا گیا
 مقتل میں چودہ صدی سے
 ہے فاطمہ زہرا کا نوحہ
-عباس عباس جاتی ہے۔۔۔

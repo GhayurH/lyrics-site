@@ -30,7 +30,6 @@ romanLyrics: |-
   3
   Yun hi ab qaidi ho kar
   Jaana hai mujhko zindan
-  Ay mere baba jaan...
   Kab se khaati hoo tamache
 
   4
@@ -41,7 +40,6 @@ romanLyrics: |-
 
   5
   Zakhmi hai dono hi kaan
-  Ay mere baba jaan...
   Loota qaima bhi ghar bhi
   Gehwara bhi bistar bhi
 
@@ -52,7 +50,6 @@ romanLyrics: |-
   Loote hai ghar ke saaman
 
   7
-  Ay mere baba jaan...
   Ye akbar ki mayyat hai
   Wo asghar ki turbat hai
   Ye farwa ki hasrat hai
@@ -61,7 +58,6 @@ romanLyrics: |-
   Wo zainab ki ghairat hai
   Bikhre pade hai ran mein
   Zehra ke dil ke armaan
-  Ay mere baba jaan...
 
   9
   Tum thay ahmed ke nawase
@@ -72,7 +68,6 @@ romanLyrics: |-
   10
   Tum ko kalmagoyo ne
   Maara bula ke mehman
-  Ay mere baba jaan...
   Wo hai ammu ke baazu
 
   11
@@ -83,7 +78,6 @@ romanLyrics: |-
 
   12
   Mere kunbe ki kya shaan
-  Ay mere baba jaan...
   Kufe mein ghabraungi
   Kyun kar himmat laaungi
 
@@ -94,7 +88,6 @@ romanLyrics: |-
   Hone na paaye pehchaan
 
   14
-  Ay mere baba jaan...
   Majalis mein jab aate hai
   Ashk e gham barsaate hai
   Matam mein kho jaate hai
@@ -103,7 +96,6 @@ romanLyrics: |-
   Rote hai rulwaate hai
   Nayyar aur aamir ki tum
   Mushkil kar dena aasaan
-  Ay mere baba jaan...
 # source_id: nohayonline:2750b2b6f82f16be88fa
 # source_url: https://www.nohayonline.com/details_content.php?id=2423
 # raw_sha256: 0373128e561d84f4312842ec97c759b1f1a6f7f48f17d414748245bb45abad49
@@ -128,7 +120,6 @@ romanLyrics: |-
 ۳
 یوں ہی اب قیدی ہو کر
 جانا ہے مجھکو زنداں
-اے میرے بابا جاں۔۔۔
 کب سے کھاتی ہوں طمانچے
 
 ۴
@@ -139,7 +130,6 @@ romanLyrics: |-
 
 ۵
 زخمی ہے دونوں ہی کان
-اے میرے بابا جاں۔۔۔
 لوٹا خیمہ بھی گھر بھی
 گہوارہ بھی بستر بھی
 
@@ -150,7 +140,6 @@ romanLyrics: |-
 لوٹے ہیں گھر کے سامان
 
 ۷
-اے میرے بابا جاں۔۔۔
 یہ اکبر کی میت ہے
 وہ اصغر کی تربت ہے
 یہ فروہ کی حسرت ہے
@@ -159,7 +148,6 @@ romanLyrics: |-
 وہ زینب کی غیرت ہے
 بکھرے پڑے ہیں رن میں
 زہرا کے دل کے ارماں
-اے میرے بابا جاں۔۔۔
 
 ۹
 تم تھے احمد کے نواسے
@@ -170,7 +158,6 @@ romanLyrics: |-
 ۱۰
 تم کو کلمہ گویوں نے
 مارا بلا کے مہماں
-اے میرے بابا جاں۔۔۔
 وہ ہے عمو کے بازو
 
 ۱۱
@@ -181,7 +168,6 @@ romanLyrics: |-
 
 ۱۲
 میرے کنبے کی کیا شان
-اے میرے بابا جاں۔۔۔
 کوفے میں گھبراؤں گی
 کیوں کر ہمت لاؤں گی
 
@@ -192,7 +178,6 @@ romanLyrics: |-
 ہونے نہ پاے پہچان
 
 ۱۴
-اے میرے بابا جاں۔۔۔
 مجالس میں جب آتے ہیں
 اشک غم برساتے ہیں
 ماتم میں کھو جاتے ہیں
@@ -201,4 +186,3 @@ romanLyrics: |-
 روتے ہیں رلواتے ہیں
 نیر اور عامر کی تم
 مشکل کر دینا آسان
-اے میرے بابا جاں۔۔۔

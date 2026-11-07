@@ -31,7 +31,6 @@ romanLyrics: |-
   Do waasta zainab ka phir kaam bane sab ka
   Abbas ko pukaro
   Babul hawaij alamdar alamadar
-  Kehta hai alam hum se...
 
   4
   Dil toota hua ho to apno ko bulaata hai
@@ -42,7 +41,6 @@ romanLyrics: |-
   5
   Abbas ko pukaro
   Babul hawaij alamdar alamadar
-  Kehta hai alam hum se...
   Ek pyasi bhatiji ki ammu se guzarish hai
 
   6
@@ -53,7 +51,6 @@ romanLyrics: |-
 
   7
   Babul hawaij alamdar alamadar
-  Kehta hai alam hum se...
   Moo mod liya sab ne kya chod diya sab ne
   Halaat se tang aake dil chota nahi karte
 
@@ -64,7 +61,6 @@ romanLyrics: |-
   Babul hawaij alamdar alamadar
 
   9
-  Kehta hai alam hum se...
   Jo dil pe guzarti hai har baat bataani hai
   Bemaari pareshani sab inko sunaani hai
   Maine to har ek mannat abbas se maani hai
@@ -73,7 +69,6 @@ romanLyrics: |-
   Meinoos na jaaoge jo maanga wo paaoge
   Abbas ko pukaro
   Babul hawaij alamdar alamadar
-  Kehta hai alam hum se...
 
   11
   Toofan e hawa jis se ghabrana nahi logon
@@ -84,7 +79,6 @@ romanLyrics: |-
   12
   Abbas ko pukaro
   Babul hawaij alamdar alamadar
-  Kehta hai alam hum se...
   Har dil ki muradon ko sunta hai mera ghazi
 
   13
@@ -95,7 +89,6 @@ romanLyrics: |-
 
   14
   Babul hawaij alamdar alamadar
-  Kehta hai alam hum se...
   Maslak hai wafadari fitrat mein jalaali hai
   Ye apni sakhawat mein dunya mein misaali hai
 
@@ -106,7 +99,6 @@ romanLyrics: |-
   Babul hawaij alamdar alamadar
 
   16
-  Kehta hai alam hum se...
   Farhan aqeeda ye maa baap se paaya hai
   Abbas ki chaukat pe sar sab ne jhukaya hai
   Likh likh ke zamane ko mazhar ne bataya hai
@@ -115,7 +107,6 @@ romanLyrics: |-
   Aa jaye koi mushkil gharbaye bahot jab dil
   Abbas ko pukaro
   Babul hawaij alamdar alamadar
-  Kehta hai alam hum se...
 # source_id: nohayonline:2ab54e7bf0b595537226
 # source_url: https://www.nohayonline.com/details_content.php?id=1699
 # raw_sha256: b9689285f21012dfc719ce493ada8327911b3d1dc512811eca41ce368235bb59
@@ -141,7 +132,6 @@ romanLyrics: |-
 دو واسطہ زینب کا پھر کام بنے سب کا
 عباس کو پکارو
 باب الحوایج علمدار علمدار
-کہتا ہے الم ہم سے۔۔۔
 
 ۴
 دل ٹوٹا ہوا ہو تو اپنوں کو بلاتا ہے
@@ -152,7 +142,6 @@ romanLyrics: |-
 ۵
 عباس کو پکارو
 باب الحوایج علمدار علمدار
-کہتا ہے الم ہم سے۔۔۔
 اک پیاسی بھتیجی کی عمو سے گزارش ہے
 
 ۶
@@ -163,7 +152,6 @@ romanLyrics: |-
 
 ۷
 باب الحوایج علمدار علمدار
-کہتا ہے الم ہم سے۔۔۔
 منہ موڑ لیا سب نے کیا چھوڑ دیا سب نے
 حالت سے تنگ آکے دل چھوٹا نہیں کرتے
 
@@ -174,7 +162,6 @@ romanLyrics: |-
 باب الحوایج علمدار علمدار
 
 ۹
-کہتا ہے الم ہم سے۔۔۔
 جو دل پہ گزرتی ہے ہر بات بتانی ہے
 بیماری پریشانی سب ان کو سنانی ہے
 میں نے تو ہر ایک منت عباس سے مانی ہے
@@ -183,7 +170,6 @@ romanLyrics: |-
 مایوس نہ جاؤ گے جو مانگا وہ پاؤ گے
 عباس کو پکارو
 باب الحوایج علمدار علمدار
-کہتا ہے الم ہم سے۔۔۔
 
 ۱۱
 طوفان ہوا جس سے گھبرانا نہیں لوگوں
@@ -194,7 +180,6 @@ romanLyrics: |-
 ۱۲
 عباس کو پکارو
 باب الحوایج علمدار علمدار
-کہتا ہے الم ہم سے۔۔۔
 ہر دل کی مرادوں کو سنتا ہے میرا غازی
 
 ۱۳
@@ -205,7 +190,6 @@ romanLyrics: |-
 
 ۱۴
 باب الحوایج علمدار علمدار
-کہتا ہے الم ہم سے۔۔۔
 مسلک ہے وفاداری فطرت میں جلالی ہے
 یہ اپنی سخاوت میں دنیا میں مثالی ہے
 
@@ -216,7 +200,6 @@ romanLyrics: |-
 باب الحوایج علمدار علمدار
 
 ۱۶
-کہتا ہے الم ہم سے۔۔۔
 فرحان عقیدہ یہ ماں باپ سے پایا ہے
 عباس کی چوکھٹ پہ سر سب نے جھکایا ہے
 لکھ لکھ کے زمانے کو مظہر نے بتایا ہے
@@ -225,4 +208,3 @@ romanLyrics: |-
 آ جاے کوئی مشکل گھبراے بہت جب دل
 عباس کو پکارو
 باب الحوایج علمدار علمدار
-کہتا ہے الم ہم سے۔۔۔

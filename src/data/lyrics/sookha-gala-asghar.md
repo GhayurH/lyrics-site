@@ -18,38 +18,30 @@ romanLyrics: |-
   1
   Teer jab khayncha to moo phayr liya rote huwe
   Zakhm shabbir se dekha na gaya asghar ka
-  Teer se aise chida...
   Aasman kaamp gaya aur zameen rone lagi
 
   2
   Baap ne chehre pe jab khoon mala asghar ka
-  Teer se aise chida...
   Pusht ke chaalon se tarr hone lagi jalti zameen
   Shaah ne qabr may jab laasha rakha asghar ka
 
   3
-  Teer se aise chida...
   Teer ke baad lehad may usay naiza maara
   Qatl ek roz may do baar hua asghar ka
-  Teer se aise chida...
 
   4
   Saat baar aage badhay peeche hatay sheh lekin
   Laasha qaimon may na le jaaya gaya asghar ka
-  Teer se aise chida...
   Khaycha naize se badan aur zameen par rakh kar
 
   5
   Has ke zaalim ne gala kaat liya asghar ka
-  Teer se aise chida...
   Ek khilone ki tarha khela uchaala phaynka
   Shaam ke bachon ko sar jab bhi mila asghar ka
 
   6
-  Teer se aise chida...
   Kaise zeeshan bayan koi kare pyaas uski
   Khushk lab hogaye jab naam liya asghar ka
-  Teer se aise chida...
 # source_id: nohayonline:1b6c8b96454a3e1fe01c
 # source_url: https://www.nohayonline.com/details_content.php?id=2420
 # raw_sha256: dd7943ef58d5385e9c3a917dbff709ab6f8306fb9526a1c68c71fd61f69b7252
@@ -62,35 +54,27 @@ romanLyrics: |-
 ۱
 تیر جب کھینچا تو منہ پھیر لیا روتے ہوئے
 زخم شبیر سے دیکھا نا گیا اصغر کا
-تیر سے ایسے چھدا۔۔۔
 آسماں کانپ گیا اور زمیں رونے لگی
 
 ۲
 باپ نے چہرے پہ جب خون ملا اصغر کا
-تیر سے ایسے چھدا۔۔۔
 پشت کے چھالوں سے تر ہونے لگی جلتی زمیں
 شاہ نے قبر میں جب لاشہ رکھا اصغر کا
 
 ۳
-تیر سے ایسے چھدا۔۔۔
 تیر کے بعد لحد میں اُسے نیزا مارا
 قتل اک روز میں دو بار اصغر کا
-تیر سے ایسے چھدا۔۔۔
 
 ۴
 ساتھ بار آگے بڑھے پیچے ہٹے شہہ لیکن
 لاشہ خیموں میں نا لے جایا گیا اصغر کا
-تیر سے ایسے چھدا۔۔۔
 کھینچا نیزے سے بدن اور زمیں پر رکھ کر
 
 ۵
 ہنس کے ظالم نے گلا کاٹ لیا اصغر کا
-تیر سے ایسے چھدا۔۔۔
 اک کھلونے کی طرح کھیلا اُچھالا پھینکا
 شام کے بچوں کو سر جب بھی ملا اصغر کا
 
 ۶
-تیر سے ایسے چھدا۔۔۔
 کیسے ذیشان بیاں کوئی کرے پیاس اُس کی
 خشک لب ہوگئے جب نام لیا اصغر کا
-تیر سے ایسے چھدا۔۔۔

@@ -25,7 +25,6 @@ romanLyrics: |-
   Kya dekhti hai khaak pe do hai bureeda haath
   Saahil pe jism jism pe teeron ki kayenaat
   Dekha jo maa ko aagayi ghazi ke lab pe baat
-  Amma mai pyasa hoo...
 
   3
   Maqtal mein ek jawan jo seena figaar tha
@@ -34,28 +33,24 @@ romanLyrics: |-
   Ek aah bhar ke laasha e akbar ne di sada
 
   4
-  Amma mai pyasa hoo...
   Do chote chote laashe bhi be-sar thay khaak par
   Zahra pukari ye mere zainab ke hai pisar
   Laashon ke paas baith gayi dil ko thaam kar
 
   5
   Kehte thay laashe aun o mohamed ke khoon mein tar
-  Amma mai pyasa hoo...
   Hurr john ausaja habeeb e wafa shinaas
   In ke khareeb jab gayi zahra falak viqaar
 
   6
   Taazeem ke liye uthi har laash baar baar
   Bola har ek sayyed e waala ka jaanisaar
-  Amma mai pyasa hoo...
   Ek laash qatlgaah mein itni sagheer thi
 
   7
   Aamad pe jiski tha bada qatil ko teeragi
   Boo aa rahi thi aankhon se khoon aur sheer ki
   Zahra ka dil ulat gaya awaaz jab suni
-  Amma mai pyasa hoo...
 
   8
   Kaampi zameen e karbobala zalzala utha
@@ -64,28 +59,24 @@ romanLyrics: |-
   Zahra ne haal poocha to laashe ne di sada
 
   9
-  Amma mai pyasa hoo...
   Zahra ne baal khole rida daali laash par
   Boli tadap ke ay mere mazloom tera sar
   Kis ne shigaaf kar diya zakhmi kiya jigar
 
   10
   Lab tar karungi ashkon se tere kahe agar
-  Amma mai pyasa hoo...
   Bole hussain kya piyun pani ay amma jaan
   Pyasa shaheed hogaya masoom bezuban
 
   11
   Sunta hoo qatlgaah mein pyason ki hichkiyan
   Amma is alqama ne liya mera imtehan
-  Amma mai pyasa hoo...
   Rehaan dard naak hai kitna ye waqiya
 
   12
   Aale nabi ko dasht mein pani nahi mila
   Girya kuna hai khuld mein zahra o murtuza
   Aati hai karbala se mohsin yehi sada
-  Amma mai pyasa hoo...
 # source_id: nohayonline:970208e7e706a020f05e
 # source_url: https://www.nohayonline.com/details_content.php?id=2465
 # raw_sha256: a94a62543181a3e2f4b1eceeb2997a9f982b8d33cd307bfdcfcd80501032c64d
@@ -105,7 +96,6 @@ romanLyrics: |-
 کیا دیکھتی ہے خاک پہ دو ہے بریدہ ہاتھ
 ساحل پہ جسم جسم پہ تیروں کی کاینات
 دیکھا جو ماں کو آ گیء غازی کے لب پہ بات
-اماں میں پیاسا ہوں۔۔۔
 
 ۳
 مقتل میں اک جوان جو سینہ فگار تھا
@@ -114,28 +104,24 @@ romanLyrics: |-
 اک آہ بھر کے لاشہء اکبر نے دی صدا
 
 ۴
-اماں میں پیاسا ہوں۔۔۔
 دو چھوٹے چھوٹے لاشے بھی بے سر تھے خاک پر
 زہرا پکاری یہ میرے زینب کے ہیں پسر
 لاشوں کے پاس بیٹھ گیء دل کو تھام کر
 
 ۵
 کہتے تھے لاش‌عون و محمد کے خون میں تر
-اماں میں پیاسا ہوں۔۔۔
 حر جون اوسجا حبیب وفا شناس
 ان کے قریب جب گیء زہرا فلک وقار
 
 ۶
 تعظیم کے لئے اٹھی ہر لاش بار بار
 بولا ہر ایک سید والا کا جانثار
-اماں میں پیاسا ہوں۔۔۔
 اک لاش غلطاں میں اتنی صغیر تھی
 
 ۷
 آمد پہ جس کی‌ تھا بڑا قاتل کو تیرگی
 بو آ رہی تھی آنکھوں سے خوں اور شیر کی
 زہرا کا دل الٹ گیا آواز جب سنی
-اماں میں پیاسا ہوں۔۔۔
 
 ۸
 کانپی زمین کربوبلا زلزلہ اٹھا
@@ -144,25 +130,21 @@ romanLyrics: |-
 زہرا نے حال پوچھا تو لاشے نے دی صدا
 
 ۹
-اماں میں پیاسا ہوں۔۔۔
 زہرا نے بال کھولے ردا ڈالی لاش پر
 بولی تڑپ کے اے میرے مظلوم تیرا سر
 کس نے شگاف کر دیا زخمی کیا جگر
 
 ۱۰
 لب تر کروں گی اشکوں سے تیرے کہے اگر
-اماں میں پیاسا ہوں۔۔۔
 بولے حسین کیا پیوں پانی اے اماں جاں
 پیاسا شہید ہو گیا معصوم بے زباں
 
 ۱۱
 سنتا ہوں قتل گاہ میں پیاسوں کی ہچکیاں
 اماں اس علقمہ نے لیا میرا امتحاں
-اماں میں پیاسا ہوں۔۔۔
 ریحان درد ناک ہے کتنا یہ واقعہ
 
 ۱۲
 آل نبی کو دشت میں پانی نہیں ملا
 گریہ کناں ہے خلد میں زہرا و مرتضیٰ
 آتی ہے کربلا سے محسن یہی صدا
-اماں میں پیاسا ہوں۔۔۔
