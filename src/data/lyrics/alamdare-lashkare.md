@@ -12,11 +12,11 @@ published: false
 romanLyrics: |-
   Abbas e alamdar wafaon ka khuda hai
   Hyder ki tamanna hai to zehra ki dua hai
-
-  1
   Islam ki sheh-rag mein hai khoone dile shabbir
   Saanson mein rawan parcham e ghazi ki hawa hai
   Alamdare lashkare hussain
+
+  1
   Naam abbas hai zehra ki tamanna mai hoo
   Sher e khaaliq ki duaon ka nateeja mai hoo
   Hashmi khoon ki jurrat ka asasa mai hoo
@@ -110,11 +110,11 @@ romanLyrics: |-
 ---
 عباس علمدار وفاؤں کا خدا ہے
 حیدر کی تمنا ہے تو زہرا کی دعا ہے
-
-۱
 اسلام کی شہ رگ میں ہے خون دل شبیر
 سانسوں میں رواں پرچم غازی کی ہوا ہے
 علمدار لشکر حسین
+
+۱
 نام عباس ہے زہرا کی تمنا میں ہوں
 شیر خالق کی دعاؤں کا نتیجہ میں ہوں
 ہاشمی خون کی جرأت کا اساسہ میں ہوں

@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Allah allah mere allah
   Guzri jahan jahan se
-
-  1
   Saydaniya khule sar
   Had mod pe qatl hua sajjad
+
+  1
   Hua pehla qatl mere baba
   Sajjad ka qaime ke andar
   Bhai ki sada e hal-min par
@@ -84,10 +84,10 @@ romanLyrics: |-
 ---
 اللہ اللہ میرے اللہ
 گزری جہاں جہاں سے
-
-۱
 سیدانیاں کھلے سر
 ہر موڑ پہ قتل ہوا سجاد
+
+۱
 ہوا پہلا قتل میرے بابا
 سجاد کا خیمے کے اندر
 بھائی کی صداے ھل من پر

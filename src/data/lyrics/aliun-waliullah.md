@@ -24,50 +24,42 @@ romanLyrics: |-
   2
   Barchi ko naujawan ka jigar pesh kar diya
   Asghar ke jaisa noor e nazar pesh kar diya
-
-  3
   Iske liye hussain ne ghar pesh kar diya
   Khud mar ke sheh ne umr e wilayat bachayi hai
 
-  4
+  3
   Marne ko sheh ke saamne chote bade gaye
   Honton pa apne pyaas saja kar lade gaye
   Maidan mein dua e wilayat pade gaye
   Ye shaan e karbala ke shaheedon ne paayi hai
 
-  5
+  4
   Qurbani e hussain mein aisi umang thi
   Dunya bahot nabi ke nawase pe tang thi
-
-  6
   Karbobla wilayat e hyder ki jung thi
   Qurbani e hussain tasavvur pa chaayi hai
 
-  7
+  5
   Allah re batool ke farzand ka jigar
   Hone ko hogaya tha juda sheh ka sar se tan
   Maqsad se phir bhi apne hatayi nahi nazar
   Naize pe daastan e wilayat sunayi hai
 
-  8
+  6
   Tha shaah e deen ke khoon ka pyasa har aadmi
   Karbobala mein lut'ti thi dunya hussain ki
-
-  9
   Dunya ko thi wilayat e hyder se dushmani
   Be-jurm taygh sookhe galay par chadhayi hai
 
-  10
+  7
   Toda gaya pahaad ghamon ka imam par
   Baazu diye kise na wilayat ke naam par
   Pani tha band tifl e shahe tishnakaam par
   Qasim ne apne khoon se mehendi lagayi hai
 
-  11
+  8
   Qurbani e hussain ki daulat sambhal ke
   Pyase mujahidon ki amanat sambhal ke
-
-  12
   Rakhna dilon mein apne wilayat sambhal ke
   Irfan ye shaheed e wafa ki kameini hai
 # source_id: nohayonline:631dd10ae1a1c49318c5
@@ -88,49 +80,41 @@ romanLyrics: |-
 ۲
 برچی کو نوجواں کا جگر پیش کر دیا
 اصغر کے جیسا نور نظر بیش کر دیا
-
-۳
 اس کے لئے حسین نے گھر پیش کر دیا
 قد مر کے شہ نے عمر ولایت بچای ہے
 
-۴
+۳
 مرنے کو شہ کے سامنے چھوٹے بڑے گےء
 ہونٹوں پہ اپنے پیاس سجا کر لڑے گےء
 میدان میں دعائے ولایت پڑے گےء
 یہ شان کربلا کے شہیدوں نے پای ہے
 
-۵
+۴
 قربانیء حسین میں ایسی امنگ تھی
 دنیا بہت نبی کے نواسے پہ تنگ تھی
-
-۶
 کربوبلا ولایت حیدر کی جنگ تھی
 قربانی ء حسین تصور پہ چھائی ہے
 
-۷
+۵
 اللہ رے بتول کے فرزند کا جگر
 ہونے کو ہوگیا تھا جدا شہ کا سر سے تن
 مقصد سے پھر بھی اپنے ہٹای نہیں نظر
 نیزے پہ داستان ولایت سنای ہے
 
-۸
+۶
 تھا شاہ دیں کے خون کا پیاسا ہر آدمی
 کربوبلا میں لٹتی تھی دنیا حسین کی
-
-۹
 دنیا کو تھی ولایت حیدر سے دشمنی
 بے جرم تیغ سوکھے گلے پر چڑھائی ہے
 
-۱۰
+۷
 توڑا گیا پہاڑ غموں کا امام پر
 بازو دیے کسی نہ ولایت کے نام پر
 پانی تھا بند طفل شہ تشنہ کام پر
 قاسم نے اپنے خون سے مہندی لگای ہے
 
-۱۱
+۸
 قربانی ء حسین کی دولت سنبھال کے
 پیاسے مجاہدوں کی امانت سنبھال کے
-
-۱۲
 رکھنا دلوں میں اپنے ولایت سنبھال کے
 عرفان یہ شہید وفا کی کمائی ہے
