@@ -8,44 +8,28 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Hai dukhtare shere khuda jo karbala mein hai berida
-
+romanLyrics: |-
+  Hai dukhtare shere khuda jo karbala mein hai berida
   Jalte hue qaime hai na bhai na rida hai
-
   Ummat se mila kaisa ye zainab ko sila hai
-
   Aale aba ke sar hai chade nauke sina par
-
   Laashe pade hai har soo jo sab rayge tapan par
-
   Pehnati unhe ban mein kafan khaake shafa hai
 
-
   1
-
   Abid ko laa rahi hai wo kaandho pe utha kar
-
   Aur shimr ko kehti hai zara khauf e khuda kar
-
   Koi na raha ek yehi bemaar bacha hai
 
-
   2
-
   Karte hai sab farishte shabbir ka matam
-
   Karti hi hoor o ghalma baysheer ka matam
-
   Matam shah e bekas ka sar e arsh bapa hai
 
-
   3
-
   Is baat ki ay shaam e ghariban hai gawah tu
-
   Taare nahi ye saani e zehra ke hai aansu
-
-  Khursheed nahi aaj to khud rota khuda hai'
+  Khursheed nahi aaj to khud rota khuda hai
 # source_id: nohayonline:ef74c926a32b0d25422b
 # source_url: https://www.nohayonline.com/details_content.php?id=594
 # raw_sha256: f682d31e7f0da3ef34eb9eb427ac75f9518b8d33b91ade9e19e9ab83c07205b9
