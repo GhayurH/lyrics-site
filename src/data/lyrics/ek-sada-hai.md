@@ -15,7 +15,7 @@ romanLyrics: |-
   Qaima qaima ek sada hai allah khair kare
   Pyason ke lab par ye sada hai allah khair kare
 
-  2
+  1
   Har bibi hai zeb e musalla aankhon mein hai ashk musalsal
   Dil ki dhadkan mehwe buka hai allah khair kare
 
@@ -51,7 +51,7 @@ romanLyrics: |-
 خیمہ خیمہ ایک صدا ہے اللہ خیر کرے
 پیاسوں کے لب پر یہ صدا ہے اللہ خیر کرے
 
-۲
+۱
 ہر بی بی ہے زیب مصلیٰ آنکھوں میں ہے اشک مسلسل
 دل کی دھڑکن محو بکا ہے اللہ خیر کرے
 
