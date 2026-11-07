@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Bibiyan roye zaar o zaar
-  
-  1
   Shehzadiyan roye zaar o zaar
   Lut gaya karbal mein ghar baar
   Hussain hussain hussain hussain
+
+  1
   Hai aal nabi ki aur darbar
   Hussain hussain hussain hussain
   Zanjeer mein jakda hai beemar
@@ -25,49 +25,49 @@ romanLyrics: |-
   Nahi zainab ka koi ghamkhwar
   Karbobala mein hai ye pukar
   Hussain hussain hussain hussain
-  
+
   2
   Akbar ka jigar asghar ka gala
   Abbas ke baazu taygh e jafa
   Haye halq e shah e deen aur talwar
   Karbobala mein hai ye pukar
   Hussain hussain hussain hussain
-  
+
   3
   Qasim ka badan pamaal hua
   Aati thi sada dulha dulha
   Ghar aa jaa tu bas ek baar
   Karbobala mein hai ye pukar
   Hussain hussain hussain hussain
-  
+
   4
   Kat’ta tha shahe waala ka gala
   Roti thi zameene karbobala
   Hai aaj qayamat ke aasaar
   Karbobala mein hai ye pukar
   Hussain hussain hussain hussain
-  
+
   5
   Ro ro ke sakina bain kare
   Darya pe gaye ammu mere
   Ab kaun karega mujhko pyar
   Karbobala mein hai ye pukar
   Hussain hussain hussain hussain
-  
+
   6
   Be-parda huwe sab ahle haram
   Jab thanda hua ghazi ka alam
   Jeena hai sakina ka dushwaar
   Karbobala mein hai ye pukar
   Hussain hussain hussain hussain
-  
+
   7
   Jalte huwe qaime ahle haram
   Hai shaam e ghariban aur matam
   Hai khaafila jaane ko tayyaar
   Karbobala mein hai ye pukar
   Hussain hussain hussain hussain
-  
+
   8
   Rehaan ghame sarwar ki qasam
   Rote hai mere qirtaas o qalam
@@ -80,11 +80,11 @@ romanLyrics: |-
 ---
 
 بی بیاں روے زار و زار
-
-۱
 شہزادیاں روے زار و زار
 لٹ گیا کربل میں گھر بار
 حسین حسین حسین حسین
+
+۱
 ہے آل نبی کی اور دربار
 حسین حسین حسین حسین
 زنجیر میں جکڑا ہے بیمار
