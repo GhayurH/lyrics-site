@@ -11,11 +11,9 @@ published: false
 romanLyrics: |-
   Ashoor ko maqtal mein thi sada
   Hamein raas na aayi karbobala
-  
-  1
   Kehti thi bilak kar ek dukhiya
-  
-  2
+
+  1
   Ay paalne waale mujhko bata
   Zaanu pe sar hai bete ka
   Jise pees ke chakki paala tha
@@ -23,7 +21,7 @@ romanLyrics: |-
   Ab shimr ka khanjar sookha gala
   Lete thay rasool allah bosa
   
-  3
+  2
   Kis shaan se kunba aaya tha
   Mera sher sameinta laaya tha
   Baazu jo kate mashkeeza chida
@@ -31,7 +29,7 @@ romanLyrics: |-
   Jo bhai ko kehta tha aaqa
   Dunya na dekhi aisi wafa
   
-  4
+  3
   Barchi khaa kar akbar ne kaha
   Jab teer lag asghar ne kaha
   Jab gurz laga ghazi ne kaha
@@ -39,7 +37,7 @@ romanLyrics: |-
   Ek baat rulaati hai aaqa
   Maa behne hongi beparda
   
-  5
+  4
   Ghere huwe fauj e baatil hai
   Baba seene par qatil hai
   Ye zulm ki kaunsi manzil hai
@@ -47,7 +45,7 @@ romanLyrics: |-
   Ye beta aap hi ka dil hai
   Jise dekh ke rota saahil hai
   
-  6
+  5
   Ye arsh e bari se aayi sada
   Ay mere pyase laut ke aa
   Raazi hai tujhse tera khuda
@@ -55,7 +53,7 @@ romanLyrics: |-
   Phir shimr ke khanjar ne ye kaha
   Mai haara jeeta sabr tera
   
-  7
+  6
   Ay bibi mohsin ki hai dua
   Zinda rahe matamdaar sada
   Aur hota rahe nauha tera
@@ -70,11 +68,9 @@ romanLyrics: |-
 
 عاشور کو مقتل میں تھی صدا
 ہمیں راس نہ آی کربوبلا
-
-۱
 کہتی تھی بلک کر اک دکھیا
 
-۲
+۱
 اے پالنے والے مجھکو بتا
 زانو پہ سر ہے بیٹے کا
 جسے پیس کے چکی پالا تھا
@@ -82,7 +78,7 @@ romanLyrics: |-
 اب شمر کا خنجر سوکھا گلا
 لیتے تھے رسول اللّہ بوسہ
 
-۳
+۲
 کس شان سے کنبہ آیا تھا
 میرا شیر سمیٹا لایا تھا
 بازو جو کٹے مشکیزہ چھدا
@@ -90,7 +86,7 @@ romanLyrics: |-
 جو بھای کو کہتا تھا آقا
 دنیا نے دیکھی ایسی وفا
 
-۴
+۳
 برچھی کھا کر اکبر نے کہا
 جب تیر لگا اصغر نے کہا
 جب گرز لگا غازی نے کہا
@@ -98,7 +94,7 @@ romanLyrics: |-
 اک بات رلاتی ہے آقا
 ماں بہنیں ہونگی بے پردہ
 
-۵
+۴
 گھیرے ہوے فوج باطل ہے
 بابا سینے پر قاتل ہے
 یہ ظلم کی کونسی منزل ہے
@@ -106,7 +102,7 @@ romanLyrics: |-
 یہ بیٹا آپ ہی کا دل ہے
 جسے دیکھ کے روتا ساحل ہے
 
-۶
+۵
 یہ عرش بری سے آی صدا
 اے میرے پیاسے لوٹ کے آ
 راضی ہے تجھ سے تیرا خدا
@@ -114,7 +110,7 @@ romanLyrics: |-
 پھر شمر کے خنجر نے یہ کہا
 میں ہارا جیتا صبر تیرا
 
-۷
+۶
 اے بی بی محسن کی ہے دعا
 زندہ رہے ماتم دار صدا
 اور ہوتا رہے نوحہ تیرا
