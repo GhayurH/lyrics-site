@@ -8,61 +8,37 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haq kar gaye maadar ke ada saare ke saare
-
-
-  1
-
+romanLyrics: |-
+  Haq kar gaye maadar ke ada saare ke saare
   Mamu pe fida hogaye zainab ke dulaare
 
-
-  2
-
+  1
   Samjhati thi bachon ko bade pyar se zainab
-
   Bhjoole se na jaana kabhi darya ke kanare
 
-
-  3
-
+  2
   Pyasi hai sakina rahe har aan yahi dhyan
-
   Pani ka tasavvur na ho zehno may tumhare
 
-
-  4
-
+  3
   Ghodon se giro bhi to sada ran se na dena
-
   Dekho mai khafa hongi jo mamu ko pukare
 
-
-  5
-
+  4
   Mai qaime se dekhungi jari kaun hai tum may
-
   Lalkaar ke pehle jo bine-saad ko maare
 
-
-  6
-
+  5
   Wada jo kiya maa se wafa kar gaye dono
-
   Pyase hi laday pyase hi dunya se sidhaare
 
-
-  7
-
+  6
   Sad hai to hai ay dashte bala teri zameen ne
-
   Sab cheen liye zainabe muztar ke sahare
 
-
-  8
-
+  7
   Paala tha jinhe godh may wo jaa base ban may
-
-  Ab kaun hai zainab ko jo maa kehke pukaare'
+  Ab kaun hai zainab ko jo maa kehke pukaare
 # source_id: nohayonline:2256f4e2cd0e06c610ee
 # source_url: https://www.nohayonline.com/details_content.php?id=568
 # raw_sha256: dc4e019e80a95ede8007f2b50af31ba1acee20fec789690bc148ce500a5dafe1
@@ -72,34 +48,32 @@ romanLyrics: 'Haq kar gaye maadar ke ada saare ke saare
 ---
 
 حق کر گئے مادر کے ادا سارے کے سارے
-
-۱
 ماموں پہ فدا ہو گئے زینب کے دُلارے
 
-۲
+۱
 سمجھاتی تھی بچوں کو بڑے پیار سے زینب
 بھولے سے نہ جانا کبھی دریا کے کنارے
 
-۳
+۲
 پیاسی ہے سکینہؑ رہے ہر آن یہی دھیان
 پانی کا تصور نہ ہو ذہنوں میں تمہارے
 
-۴
+۳
 گھوڑوں سے گرو بھی توصدا رن سے نہ دینا
 دیکھو میں خفا ہوں گی جو ماموں کو پُکارے
 
-۵
+۴
 میں خیمے سے دیکھوں گی جری کون ہے تم میں
 للکار کے پہلے جو بنِ سعد کو مارے
 
-۶
+۵
 وعدہ جو کیا ماں سے وفا کر گئے دونوں
 پیاسے ہی لڑے پیاسے ہی دنیا سے سدھارے
 
-۷
+۶
 صد ہے تو ہے اے دشتِ بلا تیری زمیں نے
 سب چھین لیئے زینبِؑ مُضطر کے سہارے
 
-۸
+۷
 پالا تھا جنہیں گود میں وہ جا بسے بن میں
 ا ب کون ہے زینبؑ کو جو ماں کہہ کے پُکارے
