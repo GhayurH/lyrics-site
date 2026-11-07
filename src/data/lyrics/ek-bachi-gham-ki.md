@@ -11,10 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye haye haye sakina
-  
-  1
+
   Ek bachi gham ki maari aur raat karbala ki
   Kano se khoon jaari aur raat karbala ki
+
+  1
   Teeron se hogaya hai chalni pidar ka seena
   Neendh aa rahi hai isko awaaz de sakina
   Laashe pade hai saare aur raat karbala ki
@@ -70,9 +71,10 @@ romanLyrics: |-
 
 ہاے ہاے ہاے سکینہ
 
-۱
 ایک بچی غم کی ماری اور رات کربلا کی
 کانوں سے خون جاری اور رات کربلا کی
+
+۱
 تیروں سے ہوگیا ہے چھلنی پدر کا سینہ
 نیند آ رہی ہے اس کو آواز دے سکینہ
 لاشے پڑے ہیں سارے اور رات کربلا کی
