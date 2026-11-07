@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Dasht e karbala mein jaan e syeda par
-  
-  1
   Chal raha tha khanjar dasht e karbala mein
   Apne dil ko thaame bekasi se khwahar
   Dekhti thi manzar dasht e karbala mein
+
+  1
   Jis ghadi wo pyasa kar raha tha sajda
   Dhoop se lipat kar ro raha tha saaya
   Har taraf udaasi chaa gayi thi aisi
@@ -74,11 +74,11 @@ romanLyrics: |-
 ---
 
 دشتِ کربلا میں جان سیدہ پر
-
-۱
 چل رہا تھا خنجر دشت کربلا میں
 اپنے دل کو تھامے بیکسی سے خواہر
 دیکھتی تھی منظر دشتِ کربلا میں
+
+۱
 جس گھڑی وہ پیاسا کر رہا تھا سجدہ
 دھوپ سے لپٹ کر رو رہا تھا سایہ
 ہر طرف اداسی چھا گیء تھا ایسی
