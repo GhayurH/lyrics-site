@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   Ek abbas tere jaane se
 
-  2
+  1
   Bhai ke halq pe chala khanjar
   Mere sar se bhi chin gayi chadar
   Haye kya kya guzar gayi hum par
@@ -72,7 +72,7 @@ romanLyrics: |-
 ---
 اک عباس تیرے جان سے
 
-۲
+۱
 بھای کے عباس پہ چلا خنجر
 میرے سر بھی چھن گیء چادر
 ہاے کیا کیا گزر گیء ہم پر
