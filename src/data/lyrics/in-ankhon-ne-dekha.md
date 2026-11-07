@@ -12,9 +12,9 @@ published: false
 romanLyrics: |-
   Marqad pe bayan karti thi ye zainab e dukhiya
   In aankhon ne dekha
+  Amma mai sunane ke liye aayi hoon kya kya
 
   1
-  Amma mai sunane ke liye aayi hoon kya kya
   Shabbir liye aaye abaa mein jo utha kar
   Tha dard ka manzar
   Pamaal shuda qasim e naushah ka laasha
@@ -64,9 +64,9 @@ romanLyrics: |-
 ---
 مرقد پہ بیاں کرتی تھی یہ زینب دکھیا
 ان آنکھوں نے دیکھا
+اماں میں سنانے کے لئے آی ہوں کیا کیا
 
 ۱
-اماں میں سنانے کے لئے آی ہوں کیا کیا
 شبیر لیےء آے عبا میں جو اتر کر
 تھا درد کا منظر
 پامال شدہ قاسم نوشاہ کا لاشہ
