@@ -11,14 +11,14 @@ aliases: []
 published: false
 romanLyrics: |-
   Baap se maange ijazat ran ki jab kadiyal jawan
-
-  1
   Thaam kar dil shaah bole pehle do akbar azan
   Rodiye kauno makan jab kaha wo naujawan
   Allahu akbar allhu akbar
   Khoon mein doobi ali akbar ki jab aayi sada
   Ladkhadate suye maqtal chal diye shaahe huda
   Haye ali akbar haye ali akbar
+
+  1
   Pahonch kar dekha ali akbar ka sheh ne haale zaar
   Seene mein barchi gadi hai dard se hai be-qaraar
 
@@ -38,14 +38,14 @@ romanLyrics: |-
 # raw_sha256: c28f323258a6eea75e2bf249ee7e13df0987c8ca143324c9f704316a585c1ce6
 ---
 باپ سے مانگے اجازت رن کی جب کڑیل جواں
-
-۱
 تھام کر دل شاہ بولے پہلے دو اکبر اذاں
 رو دیےء کون و مکاں جب کہا وہ نوجواں
 اللہ اکبر اللّٰہ اکبر
 خون میں ڈوبی علی اکبر کی جب آی صدا
 لڑکھڑاتے سوے مقتل چل دیےء شاہ ہدا
 ہاے علی اکبر ہاے علی اکبر
+
+۱
 پہنچ کر دیکھا علی اکبر کا شہ نے حال زار
 سینے میں برچی گڑی ہے درد سے ہے بیقرار
 
