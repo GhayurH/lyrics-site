@@ -20,60 +20,40 @@ romanLyrics: |-
   Tha sayyed e mazloom ka waiz yehi nauha
   Ay mere laal ay mere laal
   Maqtal mein shaahe waala kehte thay ye ro kar ay mere laal
-
-  2
   Tujh bin tera boodha baap jiyega kyun kar ay mere laal
   Mai hoon tanha meri tanhaai pe taras khao akbar
   Ghurbat mein is tarha mujhko chod ke na jao akbar
   Charon taraf se ghere hai mujhko zulm ka lashkar ay mere laal
 
-  3
-  Tujh bin tera boodha...
-  Maqtal mein shaahe...
+  2
   Hai tujhko maloom mai tujhse kitni mohabbat karta hoon
   Yaad aate hai jab nana mai teri ziyarat karta hoon
-
-  4
   Baba jaan se na rootho hamshakle payambar ay mere laal
-  Tujh bin tera boodha...
-  Maqtal mein shaahe...
-  Beta apne baba ki aankhon ka taara hota hai
 
-  5
+  3
+  Beta apne baba ki aankhon ka taara hota hai
   Beta rahe nazdeek to aankhon mein ujiyara hota hai
   Mujhko nazar ab kuch nahi aata tujhse bichad kar ay mere laal
-  Tujh bin tera boodha...
-  Maqtal mein shaahe...
 
-  6
+  4
   Mai kaise samjhaun tujhko apni ulfat ka mafhoom
   Tere bhi aulaad agar hoti to tujhe hota maloom
   Tujhko rukhsat kar ke kya guzri hai mujhpar ay mere laal
-  Tujh bin tera boodha...
 
-  7
-  Maqtal mein shaahe...
+  5
   Mujhko tanha jaan ke zaalim aur satayenge beta
   Behre madad ab ghurbat mein hum kisko bulayenge beta
   Ab nahi zinda tere chacha abbas e dilawar ay mere laal
 
-  8
-  Tujh bin tera boodha...
-  Maqtal mein shaahe...
+  6
   Ay akbar mai ab kis tarha se qaime mein jaunga
   Teri phuphi amma ko jakar kaise moo dikhlaunga
-
-  9
   Bali sakina ko samjhaunga kya keh kar ay mere laal
-  Tujh bin tera boodha...
-  Maqtal mein shaahe...
-  Laash jawan bete ki ran se leke chale hai jab sarwar
 
-  10
+  7
+  Laash jawan bete ki ran se leke chale hai jab sarwar
   Khaynch rahe thay khat akbar ke pair zameen e karbal par
   Sheh ki zaeefi roti thi waiz ye keh kar ay mere laal
-  Tujh bin tera boodha...
-  Maqtal mein shaahe...
 # source_id: nohayonline:45b9df6cc3522fb392d2
 # source_url: https://www.nohayonline.com/details_content.php?id=3703
 # raw_sha256: 0c7a39d296b0d2338acc5eae2c8e6a3ab2a0fc7350576e6a3cf766cf5596abfb
@@ -88,57 +68,37 @@ romanLyrics: |-
 تھا سید مظلوم کا وایض یہی نوحہ
 اے میرے لال اے میرے لال
 مقتل میں شاہ والا کہتے تھے یہ رو کر اے میرے لال
-
-۲
 تجھ بن تیرا بوڑھا باپ جیےء گا کیوں کر اے میرے لال
 میں ہوں تنہا میری تنہائی پہ ترس کھاؤ اکبر
 غربت میں اس طرح مجھکو چھوڑ کے نہ جاؤ اکبر
 چاروں طرف سے گھیرے ہیں مجھکو ظلم کا لشکر اے میرے لال
 
-۳
-تجھ بن تیرا بوڑھا۔۔۔
-مقتل میں شاہ۔۔۔
+۲
 ہے تجھکو معلوم میں تجھ سے کتنی محبت کرتا ہوں
 یاد آتے ہے جب نانا میں تیری زیارت کرتا ہوں
-
-۴
 بابا جان سے نہ روٹھو ہمشکل پیمبر اے میرے لال
-تجھ بن تیرا بوڑھا۔۔۔
-مقتل میں شاہ۔۔۔
-بیٹا اپنے بابا کی آنکھوں کا تارہ ہوتا ہے
 
-۵
+۳
+بیٹا اپنے بابا کی آنکھوں کا تارہ ہوتا ہے
 بیٹا رہے نزدیک تو آنکھوں میں اجیارا ہوتا ہے
 مجھکو نظر اب کچھ نہیں آتا تجھ سے بچھڑ کر اے میرے لال
-تجھ بن تیرا بوڑھا۔۔۔
-مقتل میں شاہ۔۔۔
 
-۶
+۴
 میں کیسے سمجھاؤں تجھکو اپنی الفت کا مفہوم
 تیرے بھی اولاد اگر ہوتی تو تجھے ہوتا معلوم
 تجھکو رخصت کر کے کیا گزری ہے مجھ پر اے میرے لال
-تجھ بن تیرا بوڑھا۔۔۔
 
-۷
-مقتل میں شاہ۔۔۔
+۵
 مجھکو تنہا جان کے ظالم اور ستاییں گے بیٹا
 بہر مدد اب غربت میں ہم کس کو بلاییں گے بیٹا
 اب نہیں زندہ تیرے چچا عباس تیرے دلاور اے میرے لال
 
-۸
-تجھ بن تیرا بوڑھا۔۔۔
-مقتل میں شاہ۔۔۔
+۶
 اے اکبر میں اب کس طرح سے خیمے میں جاؤں گا
 تیری پھپھی اماں کو جا کر کیسے منہ دکھلاؤں گا
-
-۹
 بالی سکینہ کو سمجھاؤں گا کیا کہہ کر اے میرے لال
-تجھ بن تیرا بوڑھا۔۔۔
-مقتل میں شاہ۔۔۔
-لاش جواں بیٹے کی رن سے لے کے چلے ہے جب سرور
 
-۱۰
+۷
+لاش جواں بیٹے کی رن سے لے کے چلے ہے جب سرور
 کھینچ رہے تھے خط اکبر کے پیر زمین کربل پر
 شہ کی ضعیفی روتی تھی وایض یہ کہہ کر اے میرے لال
-تجھ بن تیرا بوڑھا۔۔۔
-مقتل میں شاہ۔۔۔
