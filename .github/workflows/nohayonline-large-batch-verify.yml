@@ -1,0 +1,97 @@
+name: Validate 77 NoHayOnline manual stanza repairs
+on:
+  push:
+    branches: [feat/import-overlap-reconciliation-2026-11-05]
+    paths: [.github/workflows/nohayonline-large-batch-verify.yml]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - run: python -m pip install pyyaml
+      - name: Verify 77 changed poems, all surviving lines and metadata
+        run: |
+          python - <<'PY'
+          import pathlib, re, subprocess, yaml, collections
+          base='05ed5d904104d4b6eb9ebe10744a126cacbc15de'
+          files=[s for s in subprocess.check_output(['git','diff','--name-only',base,'HEAD','--','src/data/lyrics'],text=True).splitlines() if s.endswith('.md')]
+          assert len(files)==77,(len(files),files)
+          assert 'src/data/lyrics/beton-ki-maa.md' not in files,'Variable refrains were not restored'
+          fm=re.compile(r'\A---\n(.*?)\n---\n(.*)\Z',re.S)
+          marker=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
+          abbreviated=re.compile(r'(?:\.{2,}|…|۔۔۔)\s*$')
+          digits=str.maketrans('0123456789','۰۱۲۳۴۵۶۷۸۹')
+          def parse(text):
+              m=fm.fullmatch(text)
+              assert m, 'Frontmatter malformed'
+              data=yaml.safe_load(m[1])
+              assert isinstance(data,dict)
+              prov=[x for x in m[1].splitlines() if x.startswith(('# source_id:','# source_url:','# raw_sha256:'))]
+              return data,m[2],prov
+          def words(s):
+              return [v for l in s.splitlines() if (v:=l.strip()) and not marker.fullmatch(v)]
+          def split(s,urdu):
+              groups=[[]]
+              nums=[]
+              for line in s.splitlines():
+                  v=line.strip()
+                  if not v: continue
+                  if marker.fullmatch(v):
+                      nums.append(v);groups.append([])
+                  else: groups[-1].append(v)
+              want=[str(i).translate(digits) if urdu else str(i) for i in range(1,len(nums)+1)]
+              assert nums==want,('Bad stanza numbering',nums,want)
+              assert nums and all(groups),('Empty opening or stanza',[len(g) for g in groups])
+              return groups
+          def unchanged_except_refrains(before,after,path,script):
+              a,b=words(before),words(after)
+              before_counter=collections.Counter(a)
+              after_counter=collections.Counter(b)
+              added=after_counter-before_counter
+              assert not added,(path,script,'Unexpected added/changed lines',added)
+              missing=before_counter-after_counter
+              assert all(abbreviated.search(line) for line in missing),(path,script,'Removed a substantive line',missing)
+              for line,count in missing.items():
+                  assert before_counter[line]>=2,(path,script,'Removed an unrepeated refrain',line)
+              it=iter(a)
+              for line in b:
+                  assert any(t==line for t in it),(path,script,'Original verse order changed',line)
+              return sum(missing.values())
+          totals=collections.Counter()
+          for path in files:
+              old=subprocess.check_output(['git','show',f'{base}:{path}'],text=True)
+              new=pathlib.Path(path).read_text()
+              assert '# source_id: nohayonline:' in old,'Unexpected source: '+path
+              of,ou,op=parse(old);nf,nu,np=parse(new)
+              assert of.get('published') is False and nf.get('published') is False,('Changed published status',path)
+              assert {k:v for k,v in of.items() if k!='romanLyrics'}=={k:v for k,v in nf.items() if k!='romanLyrics'},('Metadata changed',path)
+              assert op==np,('Source comments/provenance changed',path)
+              oldr=of.get('romanLyrics');newr=nf.get('romanLyrics')
+              assert isinstance(oldr,str) and isinstance(newr,str),('Roman missing',path)
+              totals['Roman shortened refrains']+=unchanged_except_refrains(oldr,newr,path,'Roman')
+              totals['Urdu shortened refrains']+=unchanged_except_refrains(ou,nu,path,'Urdu')
+              rg=split(newr,False);ug=split(nu,True)
+              assert len(rg)==len(ug),(path,'Stanza counts differ',len(rg),len(ug))
+              assert [len(g) for g in rg]==[len(g) for g in ug],(path,'Misaligned verses')
+              print('OK',path,'stanzas',len(rg)-1,'preamble',len(rg[0]))
+          print('VERIFIED',len(files),'NoHayOnline poems; removed only repeated shortened refrains:',dict(totals))
+          PY
+      - name: Verify whitespace
+        run: git diff --check 05ed5d904104d4b6eb9ebe10744a126cacbc15de HEAD
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Astro checks, tests, production build and search
+        run: |
+          npm run check
+          npm test
+          npx astro build
+          npx pagefind
+          node scripts/generate-offline-search-manifest.mjs
