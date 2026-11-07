@@ -25,7 +25,6 @@ romanLyrics: |-
   Na bhoolunga mai wo karbobala
   Padhunga sada yehi marsiya
   Haan mai rounga
-  Mai rounga amma fizza...
 
   3
   Dekha hai in aankhon ne
@@ -37,7 +36,6 @@ romanLyrics: |-
   Na bhoolunga mai wo tifl o jawan
   Thay tashna dahan labe alqama
   Haan mai rounga
-  Mai rounga amma fizza...
 
   5
   Dekha hai in aankhon ne
@@ -49,7 +47,6 @@ romanLyrics: |-
   Na bhoolunga mai wo ranj o alam
   Sare dashte gham hue sar qalam
   Haan mai rounga
-  Mai rounga amma fizza...
 
   7
   Dekha hai in aakhon ne
@@ -61,7 +58,6 @@ romanLyrics: |-
   Na bhoolunga mai chini chadarein
   Jali masnadein mere saamne
   Haan mai rounga
-  Mai rounga amma fizza...
 
   9
   Dekha hai in aankhon ne
@@ -73,7 +69,6 @@ romanLyrics: |-
   Na bhoolunga mai haram ka safar
   Chale nange sar rasan pehn kar
   Haan mai rounga
-  Mai rounga amma fizza...
 
   11
   Dekha hai in ankhon ne
@@ -85,7 +80,6 @@ romanLyrics: |-
   Na bhoolunga mai saje baam o dar
   Har ek gaam par wo naizon pe sar
   Haan mai rounga
-  Mai rounga amma fizza...
 
   13
   Dekha hai in aankhon ne
@@ -97,7 +91,6 @@ romanLyrics: |-
   Na bhoolunga mai haram ro diye
   Sabhi dard se tadapne lage
   Haan mai rounga
-  Mai rounga amma fizza...
 
   15
   Dekha hai in aankhon ne
@@ -109,7 +102,6 @@ romanLyrics: |-
   Na bhoolunga mai phuphi ki qaza
   Kafan ban gaya wo kurta jala
   Haan mai rounga
-  Mai rounga amma fizza...
 
   17
   Dekha hai in aankhon ne
@@ -121,7 +113,6 @@ romanLyrics: |-
   Na bhoolunga mai ke dadi meri
   Ye kehne lagi bahan aa gayi
   Haan mai rounga
-  Mai rounga amma fizza...
 
   19
   Dekha hai in aankhon ne
@@ -133,7 +124,6 @@ romanLyrics: |-
   Na bhoolunga mai kabhi karbala
   Wo qaid e jafa dayaar e saza
   Haan mai rounga
-  Mai rounga amma fizza...
 # source_id: nohayonline:cce13571f4a57240df6f
 # source_url: https://www.nohayonline.com/details_content.php?id=1230
 # raw_sha256: d6348e1d6f205b839ac0813fad6bd39562a24690cbf3870735a24225fc1b18a1
@@ -153,7 +143,6 @@ romanLyrics: |-
 نہ بھولوں گا میں وہ کربوبلا
 پڑھوں گا صدا یہی مرثیہ
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۳
 دیکھا ہے ان آنکھوں نے
@@ -165,7 +154,6 @@ romanLyrics: |-
 نہ بھولوں گا میں وہ طفل و جواں
 تھے تشنہ دہن لب علقمہ
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۵
 دیکھا ہے ان آنکھوں نے
@@ -177,7 +165,6 @@ romanLyrics: |-
 نہ بھولوں گا میں وہ رنج و الم
 سر دشت غم ہوے سر قلم
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۷
 دیکھا ہے ان آنکھوں نے
@@ -189,7 +176,6 @@ romanLyrics: |-
 نہ بھولوں گا میں چھنی چادریں
 جلدی مسندیں میرے سامنے
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۹
 دیکھا ہے ان آنکھوں نے
@@ -201,7 +187,6 @@ romanLyrics: |-
 نہ بھولوں گا میں حرم کا سفر
 چلے ننگے سر رسن پہن کر
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۱۱
 دیکھا ہے ان آنکھوں نے
@@ -213,7 +198,6 @@ romanLyrics: |-
 نہ بھولوں گا میں سجے بام و دَر
 ہر ایک گام پر وہ نیزوں پہ سر
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۱۳
 دیکھا ہے ان آنکھوں نے
@@ -225,7 +209,6 @@ romanLyrics: |-
 نہ بھولوں گا میں حرم رو دیےء
 سبھی درد سے تڑپنے لگے
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۱۵
 دیکھا ہے ان آنکھوں نے
@@ -237,7 +220,6 @@ romanLyrics: |-
 نہ بھولوں گا میں پھپھی کی قضاء
 کفن بن گیا وہ کرتہ جلا
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۱۷
 دیکھا ہے ان آنکھوں نے
@@ -249,7 +231,6 @@ romanLyrics: |-
 نہ بھولوں گا میں کہ دادی میری
 یہ کہنے لگی بہن آ گئ
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔
 
 ۱۹
 دیکھا ہے ان آنکھوں نے
@@ -261,4 +242,3 @@ romanLyrics: |-
 نہ بھولوں گا میں کبھی کربلا
 وہ قید جفا دیار سزا
 ہاں میں روؤں گا
-میں روؤں گا اماں فضہ۔۔۔

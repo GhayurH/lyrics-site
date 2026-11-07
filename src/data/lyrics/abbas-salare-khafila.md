@@ -34,7 +34,6 @@ romanLyrics: |-
   Abbas salaar e khafila
 
   4
-  Ahle haram ka aasra...
   Biphra hua sher e ali
   Girde haram hai har ghadi
   Ek haath hai talwaar par
@@ -43,7 +42,6 @@ romanLyrics: |-
   Ek mein rasan rahwaar ki
   Misle ali badta raha
   Abbas salaar e khafila
-  Ahle haram ka aasra...
 
   6
   Hai sabz saari mehmilein
@@ -54,7 +52,6 @@ romanLyrics: |-
   7
   Qayem rahengi ba-khuda
   Abbas salaar e khafila
-  Ahle haram ka aasra...
   Hai dhoop mein saaya bada
 
   8
@@ -65,7 +62,6 @@ romanLyrics: |-
 
   9
   Abbas salaar e khafila
-  Ahle haram ka aasra...
   Ahle haram ki aas hai
   Shabbir ko ehsaas hai
 
@@ -76,7 +72,6 @@ romanLyrics: |-
   Abbas salaar e khafila
 
   11
-  Ahle haram ka aasra...
   Zainab ka ye farmaan hai
   Koi hawaon se kahe
   Be-pardagi ho na kahin
@@ -85,7 +80,6 @@ romanLyrics: |-
   Mehmil ka na parda hate
   Haan rok sakta hai hawa
   Abbas salaar e khafila
-  Ahle haram ka aasra...
 
   13
   Zainab ke lab par hai sada
@@ -96,7 +90,6 @@ romanLyrics: |-
   14
   Hai jaante ahle jafa
   Abbas salaar e khafila
-  Ahle haram ka aasra...
   Saaye ki tarha saath hai
 
   15
@@ -107,7 +100,6 @@ romanLyrics: |-
 
   16
   Abbas salaar e khafila
-  Ahle haram ka aasra...
   Baqar se ye kehne lagi
   Bali sakina shaah ki
 
@@ -118,7 +110,6 @@ romanLyrics: |-
   Abbas salaar e khafila
 
   18
-  Ahle haram ka aasra...
   Farhan aur mazhar suno
   Jab bhi alam le kar chalo
   Ooncha alam ghazi ka hai
@@ -127,7 +118,6 @@ romanLyrics: |-
   Dunya se ye kehte raho
   Hai khafila shabbir ka
   Abbas salaar e khafila
-  Ahle haram ka aasra...
 # source_id: nohayonline:d7c5c5e74b64f16db0e0
 # source_url: https://www.nohayonline.com/details_content.php?id=3548
 # raw_sha256: 4d6aec01f808defc4b2c5b8d6221bc588f03ee7534917e4ae0f3ba3f56f3b534
@@ -156,7 +146,6 @@ romanLyrics: |-
 عباس سالار قافلہ
 
 ۴
-اہلِ حرم کا آسرا۔۔۔
 بپھرا ہوا شیر علی
 گرد حرم بھی ہر گھڑی
 ایک ہاتھ ہے تلوار پر
@@ -165,7 +154,6 @@ romanLyrics: |-
 ایک میں رسن رہوار کی
 مثل علی بڑھتا رہا
 عباس سالار قافلہ
-اہلِ حرم کا آسرا۔۔۔
 
 ۶
 ہے سبز ساری محملیں
@@ -176,7 +164,6 @@ romanLyrics: |-
 ۷
 قایم رہیں گی با خدا
 عباس سالار قافلہ
-اہلِ حرم کا آسرا۔۔۔
 ہے دھوپ میں سایہ بڑا
 
 ۸
@@ -187,7 +174,6 @@ romanLyrics: |-
 
 ۹
 عباس سالار قافلہ
-اہلِ حرم کا آسرا۔۔۔
 اہلِ حرم کی آس ہے
 شبیر کو احساس ہے
 
@@ -198,7 +184,6 @@ romanLyrics: |-
 عباس سالار قافلہ
 
 ۱۱
-اہلِ حرم کا آسرا۔۔۔
 زینب کا یہ فرمان ہے
 کوئی ہواؤں سے کہے
 بے پردگی ہو نہ کہیں
@@ -207,7 +192,6 @@ romanLyrics: |-
 محمل کا نہ پردہ ہٹے
 ہاں روک سکتا ہے ہوا
 عباس سالار قافلہ
-اہلِ حرم کا آسرا۔۔۔
 
 ۱۳
 زینب کے لب پر ہے صدا
@@ -218,7 +202,6 @@ romanLyrics: |-
 ۱۴
 ہے جانتے أہل جفا
 عباس سالار قافلہ
-اہلِ حرم کا آسرا۔۔۔
 ساے کی طرح ساتھ ہے
 
 ۱۵
@@ -229,7 +212,6 @@ romanLyrics: |-
 
 ۱۶
 عباس سالار قافلہ
-اہلِ حرم کا آسرا۔۔۔
 باقر سے یہ کہنے لگی
 بالی سکینہ شاہ کی
 
@@ -240,7 +222,6 @@ romanLyrics: |-
 عباس سالار قافلہ
 
 ۱۸
-اہلِ حرم کا آسرا۔۔۔
 فرحان اور مظہر سنو
 جب بھی علم لے کر چلو
 اونچا علم غازی کا ہے
@@ -249,4 +230,3 @@ romanLyrics: |-
 دنیا سے یہ کہتے رہو
 ہے قافلہ شبیر کا
 عباس سالار قافلہ
-اہلِ حرم کا آسرا۔۔۔

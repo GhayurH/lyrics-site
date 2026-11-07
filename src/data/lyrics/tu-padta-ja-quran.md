@@ -28,7 +28,6 @@ romanLyrics: |-
   Kufe waalon ka dhyaan
 
   3
-  Tu padhta jaa quran...
   Hai dil mein mere bas ek chubhan
   Mai kaun hoo koi jaan na le
   Baalon se chipaye hoo chehra
@@ -37,7 +36,6 @@ romanLyrics: |-
   Kahin koi mujhe pehchaan na le
   Lekin ye hai zehra ka kunba
   Koi karta hai aelaan
-  Tu padhta jaa quran...
 
   5
   Kis haal mein hai teri maajayi
@@ -48,7 +46,6 @@ romanLyrics: |-
   6
   Kal tak mai jahan shehzaadi thi
   Wahin aaj hai meri ye shaan
-  Tu padhta jaa quran...
   Hamein zaalim patthar maarte hai
 
   7
@@ -59,7 +56,6 @@ romanLyrics: |-
 
   8
   Meri maut ke hai saaman
-  Tu padhta jaa quran...
   Hum apne shikasta kaandho par
   Sau karbobalayein leke chale
 
@@ -70,7 +66,6 @@ romanLyrics: |-
   Mujhe jaana hai zindan
 
   10
-  Tu padhta jaa quran...
   Ghazi ka alam mere saath mein hai
   Akbar ki azan mere saath mein hai
   Hai shaam e ghariban aankhon mein
@@ -79,7 +74,6 @@ romanLyrics: |-
   Qaimon ka dhuan mere saath mein hai
   Pardes mein hum ko ummat ne
   Kya khoob rakha mehmaan
-  Tu padhta jaa quran...
 
   12
   Mere phool mere nauras gunche
@@ -90,7 +84,6 @@ romanLyrics: |-
   13
   Taqdeer ne khoob sajaaye hai
   Naizon pe mere armaan
-  Tu padhta jaa quran...
   Awaaz ka parda reh jaaye
 
   14
@@ -101,7 +94,6 @@ romanLyrics: |-
 
   15
   Mere khutbon ko unwaan
-  Tu padhta jaa quran...
   Sajjad ke dil se pooche koi
   Hai kaisi qayamat ki ye ghadi
 
@@ -112,7 +104,6 @@ romanLyrics: |-
   Insaaf kare insaan
 
   17
-  Tu padhta jaa quran...
   Ay nayyar o aamir aati hai
   Reh reh ke azakhano se sada
   Zainab ki tamanna hai matam
@@ -121,7 +112,6 @@ romanLyrics: |-
   Aur aansu hai zehra ki dua
   Paigham tera pahunchayenge
   Ghar ghar tere nauhakhwan
-  Tu padhta jaa quran...
 # source_id: nohayonline:2065ef977230d857246e
 # source_url: https://www.nohayonline.com/details_content.php?id=2462
 # raw_sha256: 8378b4afebaee7abf5fa64b9524a8838b1afa6a06f94b777b22c7235a18085d2
@@ -144,7 +134,6 @@ romanLyrics: |-
 کوفے والوں کا دھیان
 
 ۳
-تو پڑھتا جا قرآن۔۔۔
 ہے دل میں میرے بس ایک چھبھن
 میں کون ہوں کوی جان نہ لے
 بالوں سے چھپاے ہوں چہرہ
@@ -153,7 +142,6 @@ romanLyrics: |-
 کہیں کوئی مجھے پہچان نہ لے
 لیکن یہ زہرا کا کنبہ
 کوی کرتا ہے اعلان
-تو پڑھتا جا قرآن۔۔۔
 
 ۵
 کس حال میں ہے تیری مانجای
@@ -164,7 +152,6 @@ romanLyrics: |-
 ۶
 کل تک میں جہاں شہزادی تھی
 وہی آج ہے میری یہ شان
-تو پڑھتا جا قرآن۔۔۔
 ہمیں ظالم پتھر مارتے ہیں
 
 ۷
@@ -175,7 +162,6 @@ romanLyrics: |-
 
 ۸
 میری موت کے ہیں ساماں
-تو پڑھتا جا قرآن۔۔۔
 ہم اپنے شکستہ کاندھوں پر
 سو کربوبلاییں لے کے چلے
 
@@ -186,7 +172,6 @@ romanLyrics: |-
 مجھے جانا ہے زنداں
 
 ۱۰
-تو پڑھتا جا قرآن۔۔۔
 غازی کا علم میرے ساتھ میں ہے
 اکبر کی اذاں میرے ساتھ میں ہے
 ہے شام غریباں آنکھوں میں
@@ -195,7 +180,6 @@ romanLyrics: |-
 خیموں کا دھواں میرے ساتھ میں ہے
 پردیس میں ہم کو امت نے
 کیا خوب رکھا مہماں
-تو پڑھتا جا قرآن۔۔۔
 
 ۱۲
 میرے پھول میرے نورس غنچے
@@ -206,7 +190,6 @@ romanLyrics: |-
 ۱۳
 تقدیر نے خوب سجاے ہیں
 نیزوں پہ میرے ارماں
-تو پڑھتا جا قرآن۔۔۔
 آواز کا پردہ رہ جاے
 
 ۱۴
@@ -217,7 +200,6 @@ romanLyrics: |-
 
 ۱۵
 میرے خطبوں کو عنواں
-تو پڑھتا جا قرآن۔۔۔
 سجاد کے دل سے پوچھو کوی
 ہے کیسی قیامت کی یہ گھڑی
 
@@ -228,7 +210,6 @@ romanLyrics: |-
 انصاف کرے انساں
 
 ۱۷
-تو پڑھتا جا قرآن۔۔۔
 اے نیر و آمیر آتی ہے
 رہ رہ کے عزاخانوں سے صدا
 زینب کی تمنا ہے ماتم
@@ -237,4 +218,3 @@ romanLyrics: |-
 اور آنسوں ہے زہرا کی دعا
 پیغام تیرا پہنچائیں گے
 گھر گھر تیرے نوحہ خواں
-تو پڑھتا جا قرآن۔۔۔
