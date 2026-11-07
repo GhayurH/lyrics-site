@@ -14,12 +14,13 @@ romanLyrics: |-
   Alvida kehne jo maula ke haram mein pahuncha
   Aankh se aansu bahe dil mein udaasi chaayi
   Yaad jab syed e sajjad ki rukhsat aayi
-
-  1
   Haye wo dasht e bala be-kafan tha laasha
   Apne haathon mein kafan dekh ke maine ye kaha
+
   Ghareeb e zahra shaheed e karbobala
   Kahan hamara safar kahan hamara safar
+
+  1
   Hum ne jab pehla qadam karbobala mein rakha
   Tum ne zawwaron ka is tarah se ehsaas kiya
   Rakh diya haath azadaron ke dil par haye
@@ -82,12 +83,13 @@ romanLyrics: |-
 الوداع کہنے جو مولا کے حرم میں پہنچا
 آنکھ سے آنسوں بہے دل میں اداسی چھائی
 یاد جب سید سجاد کی رخصت آی
-
-۱
 ہاے وہ دشت بلا بیکفن تھا لاشہ
 اپنے ہاتھوں میں کفن دیکھ کے میں نے یہ کہا
+
 غریب زہرا شہید کربوبلا
 کہاں ہمارا سفر کہاں ہمارا سفر
+
+۱
 ہم نے جب پہلا قدم کربوبلا میں رکھا
 تم نے زواروں کا اس طرح سے احساس کیا
 رکھ دیا ہاتھ عزاداروں کے دل پر ہاے
