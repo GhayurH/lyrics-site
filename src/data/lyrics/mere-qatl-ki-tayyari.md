@@ -20,60 +20,46 @@ romanLyrics: |-
   Maa ko jab dekha shah e deen ne ye ro ro ke kaha
   Teer talwar liye fauj khadi saari hai
   Amma dekho ye mere qatl ki tayyari hai
-
-  2
   Koi talwaar se maare koi maare khanjar
   Bhaala maara hai kisi ne to kisi ne pathar
   Khoon se chehra bhara gurz laga hai sar par
   Khaak jalti hui phaynki hai mere zakhmo par
-
-  3
   Zakhm itne hai ke har zakhm se khoon jaari hai
-  Amma dekho ye mere...
+
+  2
   Amma mera ye badan chalni hua kuch aise
   Teer seene pe lagay pusht se baahar nikle
-
-  4
   Ek naiza hai hua paar jo pehlu se mere
   Dard uth'ta hai har ek tooti hui phasli se
   Saans lene may bhi amma badi dushwari hai
-  Amma dekho ye mere...
 
-  5
+  3
   Zakhm khaate huwe ghode se zameen par mai gira
   Tha nidhaal aisa ke utha bhi nahi jaata tha
   Dekha ye haal to phir shimr meri samt bada
   Qatl geh tak mujhe baalon se pakad kar laaya
-
-  6
   Haa tamache mujhe thokar bhi mujhe maari hai
-  Amma dekho ye mere...
+
+  4
   Tez khanjar jo abhi shimr ne haathon may liya
   Maar ke zor se pathar pe isay kund kiya
-
-  7
   Meri haalat pe usay rehm nahi aayega
   Tera zarbon se mera sookha gala kaatega
   Pase gardan pe har ek zarb bohat kaari hai
-  Amma dekho ye mere...
 
-  8
+  5
   Dekha jaata nahi amma badi mushkil hai ghadi
   Rayt ke teele pe dekho meri zainab hai khadi
   Bhai ka kat'ta gala aaj behan dekhegi
   Ro ke chillayegi sar peetegi ghash khayegi
-
-  9
   Ek ek lamha ye zainab pe bohat bhaari hai
-  Amma dekho ye mere...
+
+  6
   Boli phir mazhar o farhan ye zahra ro kar
   Mai tere saath hoo har lamha mere lakhte jigar
-
-  10
   Haye tharrayi zameen chalne laga hai khanjar
   Rakh diye haath teri maa ne teri gardan par
   Bole shabbir ke haye meri laachari hai
-  Amma dekho ye mere...
 # source_id: nohayonline:f4a9101ef27c4057b58b
 # source_url: https://www.nohayonline.com/details_content.php?id=1658
 # raw_sha256: 2fa3b9da1326f77851a6e4aafb20e7f95c6d6c1076e0b8b9531ccd4cf5600790
@@ -88,57 +74,43 @@ romanLyrics: |-
 ماں کو جب دیکھا شہ دیں نے یہ رو رو کے کہا
 تیر تلوار لیےء فوج کھڑی ساری ہے
 اماں دیکھو یہ میرے قتل کی تیاری ہے
-
-۲
 کوی تلوار سے مارے کوئی مارے خنجر
 بھالا مارا ہے کسی نے تو کسی نے پتھر
 خون سے چہرہ بھرا گرز لگا ہے سر پر
 خاک جلتی ہُوئی پھینکی ہے میرے زخموں پر
-
-۳
 زخم اتنے ہے کہ ہر زخم سے خوں جاری ہے
-اماں دیکھو یہ میرے۔۔۔
+
+۲
 اماں میرا یہ بدن چھلنی ہوا کچھ ایسے
 تیر سینے پہ لگے پشت سے باہر نکلے
-
-۴
 ایک نیزہ ہے ہوا پار جو پہلو سے میرے
 درد اٹھتا ہے ہر ایک ٹوٹی ہوئ پسلی سے
 سانس لینے میں بھی اماں بڑی دشواری ہے
-اماں دیکھو یہ میرے۔۔۔
 
-۵
+۳
 زخم کھاتے ہوے گھوڑے سے زمیں پر میں گرا
 تھا نڈھال ایسا کہ اٹھا بھی نہیں جاتا تھا
 دیکھا یہ حال تو پھر شمر میری سمت بڑھا
 قتل گہہ تک مجھے بالوں سے پکڑ کر لایا
-
-۶
 ہاں طمانچے مجھے ٹھوکر بھی مجھے ماری ہے
-اماں دیکھو یہ میرے۔۔۔
+
+۴
 تیز خنجر جو ابھی شمر نے ہاتھوں میں لیا
 مار کے زور سے پتھر پہ اسے کند کیا
-
-۷
 میری حالت پہ اسے رحم نہیں آے گا
 تیرہ ضربوں سے میرا سوکھا گلا کاٹے گا
 پس گردن پہ ہر ایک ضرب بہت کاری ہے
-اماں دیکھو یہ میرے۔۔۔
 
-۸
+۵
 دیکھا جاتا نہیں اماں بڑی مشکل ہے گھڑی
 ریت کے ٹیلے پہ دیکھو میری زینب ہے کھڑی
 بھای کا کٹتا گلا آج بہن دیکھے گی
 رو کے چلاے گی سر پیٹے گی غش کھاے گی
-
-۹
 ایک ایک لمحہ یہ زینب پہ بہت بھاری ہے
-اماں دیکھو یہ میرے۔۔۔
+
+۶
 بولی پھر مظہر و فرحان یہ زہرا رو کر
 میں تیرے ساتھ ہوں ہر لمحہ میرے لختِ جگر
-
-۱۰
 ہاے تھرای زمیں چلنے لگا ہے خنجر
 رکھ دیےء ہاتھ تیری ماں نے تیری گردن پر
 بولے شبیر کے ہاے میری لاچاری ہے
-اماں دیکھو یہ میرے۔۔۔

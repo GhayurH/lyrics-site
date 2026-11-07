@@ -18,38 +18,34 @@ romanLyrics: |-
   1
   Sitam hai muhammad ki thereer padh kar
   Sabhi has rahe hai wohi ro rahi hai
-  Ke darbari baithe hai...
-  Hijab e khuda hai jo binte nabi hai
 
   2
+  Hijab e khuda hai jo binte nabi hai
   Wo darbar may jaane kabse khadi hai
-  Ke darbari baithe hai...
+
+  3
   Diya aise ummat ne baba ka pursa
   Batool apne pehlu ke bal gir padi hai
 
-  3
-  Ke darbari baithe hai...
+  4
   Bata mujhko amma mera jurm kya tha
   Ye mohsin ki ab bhi sada aa rahi hai
-  Ke darbari baithe hai...
-
-  4
-  Karegi na zahra ab apna koi gham
-  Ali ke galay may rasan dekhti hai
-  Ke darbari baithe hai...
-  Khayaal aa gaya berida betiyon ka
 
   5
+  Karegi na zahra ab apna koi gham
+  Ali ke galay may rasan dekhti hai
+
+  6
+  Khayaal aa gaya berida betiyon ka
   Wo ghazi ka kurta jabhi see rahi hai
-  Ke darbari baithe hai...
+
+  7
   Hai mushkil bada qabre zahra banana
   Ali ke labon pe bhi nade ali hai
 
-  6
-  Ke darbari baithe hai...
+  8
   Batool ab bhi qabre shikasta se ahsan
   Imam e zaman ko sada de rahi hai
-  Ke darbari baithe hai...
 # source_id: nohayonline:67e817a3518431e6e169
 # source_url: https://www.nohayonline.com/details_content.php?id=1366
 # raw_sha256: 95eaed96c48ec958d88930c3ae60d853182337ba5c958617950b67604f67a54a
@@ -62,35 +58,31 @@ romanLyrics: |-
 ۱
 ستم ہے محمد کی تحریر پڑھ کر
 سبھی ہنس رہے ہیں وہی رو رہی ہے
-کہ درباری بیٹھے ہیں۔۔۔
-حجاب خدا ہے جو بنت نبی ہے
 
 ۲
+حجاب خدا ہے جو بنت نبی ہے
 وہ دربار میں جانے کب سے کھڑی ہے
-کہ درباری بیٹھے ہیں۔۔۔
+
+۳
 دیا ایسے امت نے بابا کا پرسہ
 بتول اپنے پہلو کے بل گر پڑی ہے
 
-۳
-کہ درباری بیٹھے ہیں۔۔۔
+۴
 بتا مجھکو اماں میرا جرم کیا تھا
 یہ محسن کی اب بھی صدا آ رہی ہے
-کہ درباری بیٹھے ہیں۔۔۔
-
-۴
-کرے گی نہ زہرا اب اپنا کوئی غم
-علی کے گلے میں رسن دیکھتی ہے
-کہ درباری بیٹھے ہیں۔۔۔
-خیال آ گیا بے ردا بیٹیوں
 
 ۵
+کرے گی نہ زہرا اب اپنا کوئی غم
+علی کے گلے میں رسن دیکھتی ہے
+
+۶
+خیال آ گیا بے ردا بیٹیوں
 وہ غازی کا کرتہ جبھی سی رہی ہے
-کہ درباری بیٹھے ہیں۔۔۔
+
+۷
 ہے مشکل بڑا قبر زہرا بنانا
 علی کے لبوں پہ بھی ناد علی ہے
 
-۶
-کہ درباری بیٹھے ہیں۔۔۔
+۸
 بتول اب بھی قبر شکستہ سے احسان
 امام زمن کو صدا دے رہی ہے
-کہ درباری بیٹھے ہیں۔۔۔
