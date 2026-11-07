@@ -1,0 +1,73 @@
+name: Next NoHayOnline editorial candidate scan
+on:
+  push:
+    branches: [feat/import-overlap-reconciliation-2026-11-05]
+    paths: [.github/workflows/nohayonline-next-review.yml]
+permissions:
+  contents: read
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - run: python -m pip install pyyaml
+      - name: Rank unreviewed and structurally consistent poems
+        run: |
+          python - <<'PY'
+          import re,collections,pathlib,subprocess,yaml
+          base='86c42ac0efc0895558f4680a0a9da65dc67490d3'
+          edited={pathlib.Path(s).stem for s in subprocess.check_output(['git','diff','--name-only',base,'HEAD','--','src/data/lyrics'],text=True).splitlines()}
+          head=re.compile(r'\A---\n(.*?)\n---\n(.*)\Z',re.S)
+          marker=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
+          short=re.compile(r'(?:\.{2,}|…|۔۔۔)\s*$')
+          def parse(t):
+              gr=[[]]
+              for line in t.splitlines():
+                  v=line.strip()
+                  if not v:continue
+                  if marker.fullmatch(v):gr.append([])
+                  else:gr[-1].append(v)
+              sl=[v for g in gr for v in g if short.search(v)]
+              counts=collections.Counter(re.sub(r'[\s.۔…]+','',v.casefold()) for v in sl)
+              blocks=[];now=[]
+              for v in [v for g in gr[1:] for v in g]:
+                  if short.search(v):
+                      if now:blocks.append(now);now=[]
+                  else:now.append(v)
+              if now:blocks.append(now)
+              return gr,sl,counts,blocks
+          rows=[]; hard=[]; total=0
+          for p in pathlib.Path('src/data/lyrics').glob('*.md'):
+              if p.stem in edited:continue
+              s=p.read_text()
+              if '# source_id: nohayonline:' not in s:continue
+              total+=1
+              m=head.fullmatch(s)
+              if not m:continue
+              try:fm=yaml.safe_load(m[1])
+              except Exception:continue
+              if not isinstance(fm,dict) or not isinstance(fm.get('romanLyrics'),str) or not fm.get('romanLyrics'):continue
+              R,ra,rc,rb=parse(fm['romanLyrics'])
+              U,ua,uc,ub=parse(m[2])
+              lengths=[len(g) for g in rb]
+              shapes_equal=[len(g) for g in rb]==[len(g) for g in ub]
+              repeat=min(rc.values(),default=0)>=2 and min(uc.values(),default=0)>=2
+              good=(len(R)==len(U) and len(R[0])==len(U[0]) and len(R[0])>=1
+                    and len(ra)>=3 and len(ua)>=3 and repeat and shapes_equal
+                    and len(rb)>=5 and min(lengths)>=2)
+              if good:
+                  regular=sum(2<=n<=8 for n in lengths[1:])/max(1,len(lengths[1:]))
+                  score=regular*40+len(rb)*.7+min(len(ra),len(ua))*.5-min(max(lengths),35)*.45
+                  rows.append((score,p.stem,len(R[0]),lengths,len(ra),len(ua),len(rc),len(uc),R[0][:2],rb[0][:3],rb[-1][-2:]))
+              elif len(ra)>3 or len(ua)>3:
+                  hard.append((p.stem,len(R[0]),[len(g) for g in rb],[len(g) for g in ub],len(ra),len(ua)))
+          rows.sort(reverse=True)
+          print('UNREVIEWED',total,'STRUCTURALLY_CONSISTENT',len(rows),'COMPLEX',len(hard))
+          for i,(score,slug,opening,segments,rn,un,rc,uc,intro,first,last) in enumerate(rows[:220],1):
+              print(f'REVIEW {i:03d} {slug} score={score:.1f} opening={opening} stanzas={segments} refs={rn}/{un} refrains={rc}/{uc} intro={intro} first={first} last={last}')
+          for i,(slug,opening,r,u,rn,un) in enumerate(hard[:40],1):
+              print(f'COMPLEX {i:03d} {slug} opening={opening} groups={r}/{u} shorts={rn}/{un}')
+          PY
