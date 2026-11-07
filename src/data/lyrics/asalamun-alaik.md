@@ -10,10 +10,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Ya hussain ya hussain
   As salaamun alaik ya hussain ya hussain
   Bar zaban o dilam ya hussain ya hussain
+
+  1
   Aaye maula madine se karbobala
   Bhai behno ka bachon ka ye khaafila
   Ghazi abbas ka sar pe parcham khula
@@ -52,10 +53,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2467
 # raw_sha256: 2642a4be8c3e93b02eb7729a5694a539232a7002010d38b20abdabc95c83b9d3
 ---
-۱
+
 یا حسین یا حسین
 السلام ان علیک یا حسین یا حسین
 بر زبان و دلم یا حسین یا حسین
+
+۱
 اے مولا مدینے سے کربوبلا
 بھای بہنوں کا بچوں کا یہ قافلہ
 غازی عباس کا سر پہ پرچم کھلا
