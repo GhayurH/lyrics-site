@@ -10,12 +10,14 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Ya sayyeda ya tahera ya umme abiha
+
   Salaam jis ko alaihis salam karte hai
   Wo fatema hoo mai
   Jhuk ke hasnain bhi jis se kalaam karte hai
   Wo fatema hoo mai
+
+  1
   Mujhe hi raaziya marziya sadeeqa kehte hai
   Mujhe taahira umme abiha kehte hai
   Wo jiska ahmed bhi ehteraam karte hai
@@ -65,12 +67,14 @@ romanLyrics: |-
 # raw_sha256: 330cbd7700a80ef410f704980bbf6edad4fc6f2d63aeca27609051c7bc43986f
 ---
 
-۱
 یا سیدہ یا طاہرہ یا امِؔ ابیہا
+
 سلام جس کو علیہِ سلام کرتے ہیں
 وہ فاطمہ ہوں میں
 جھک کے حسنین بھی جس سے کلام کرتے ہی
 وہ فاطمہ ہوں میں
+
+۱
 مجھے ہی راضیہ مرضیہ صدیقہ کہتے ہیں
 مجھے ہی طاہرہ اُمِّ ابیہا کہتے ہیں
 ‏وہ جس کا احمد بھی احترام کرتے ہیں
