@@ -12,45 +12,46 @@ published: false
 romanLyrics: |-
   Bataati jaati hai mafhoom e karbala sab ko
   Hussain is liye laaye thay saath zainab ko
+
+  1
   Guzaari bhai ke laashe pe raat wo zainab
   Na paayi ranj se jis ne nijaat wo zainab
   Irada jiska hai koh e sabaat wo zainab
   Bajaye khud hai jo ek kainaat wo zainab
-  Bataati jaati hai mafhoom e karbala sab ko
-  
-  1
+
+  2
   Ghamon ka baar uthaati hui chali zainab
   Khuda ki raah dikhaati hui chali zainab
   Lahoo se shamma jalaati hui chali zainab
   Yazeediyat ko mitaati hui chali zainab
   Dayaar e shaam ka gham zabt kar gayi zainab
   Yazeediyat ko kuchal kar guzar gayi zainab
-  
-  2
+
+  3
   Mila jo hukm ke jao yazeed ke darbar
   Ali ki beti ne jaane se kar diya inkaar
   Phupi se kehne lagay ro ke abid e bemaar
   Ke hum aseer hai is waqt bekas o nachaar
   Ye zulm shaam ki manzil hai is ko sar kar lo
   Kisi tarha shab e gham ko phupi sehar kar lo
-  
-  3
+
+  4
   Ye socha zainab e muztar ne nange sar hoo mai
   Ajeeb waqt hai mujh par ke darbadar hoo mai
   Hazaar bekas o majboor bhi agar hoo mai
   Yazeediyat ke liye ab bhi dard e sar hoo mai
   Ali ki beti hoo qasr e yazeed dhaa doongi
   Yazeed kaun hai mai kaun hoo bata doongi
-  
-  4
+
+  5
   Teri majaal ke sar nange tu kare tash'heer
   Hamare sar pe azal se hai chadar e tatheer
   Jala ke khana e zehra hamein kiya hai aseer
   Aur apne aap ko kehta hai momino ka ameer
   Ye keh ke itrat e uqba se tu hua mehroom
   Teri nijaat ki zid ban gaye hai hum mazloom
-  
-  5
+
+  6
   Yazeed paikar e zillat hai ay musalmano
   Yazeed dushman e ummat hai ay musalmano
   Yazeediyat hi aziyat hai ay musalmano
@@ -64,13 +65,14 @@ romanLyrics: |-
 
 بتاتی جاتی ہے مفہوم کربلا سب کو
 حسین اس لےء لاے تھے ساتھ زینب کو
+
+۱
 گزاری بھای کے لاشے پہ رات وہ زینب
 نہ پائی رنج سے جس نے نجات وہ زینب
 ارادہ جس کا ہے کوہ سبات وہ زینب
 بجاے خود ہے جو اک کاینات وہ زینب
-بتاتی جاتی ہے مفہوم کربلا سب کو
 
-۱
+۲
 غموں کا بار اٹھاتی ہوی چلی زینب
 خدا کی راہ دکھاتی ہوی چلی زینب
 لہو سے شمع جلاتی ہوی چلی زینب
@@ -78,7 +80,7 @@ romanLyrics: |-
 دیارِ شام کا غم ضبط کر گیء زینب
 یزیدیت کو کچل کر گزر گیء زینب
 
-۲
+۳
 ملا جو حکم کہ جاؤ یزید کے دربار
 علی کی بیٹی نے جانے سے کر دیا انکار
 پھپھی سے کہنے لگے رو کے عابد بیمار
@@ -86,7 +88,7 @@ romanLyrics: |-
 یہ ظلم شام کی منزل ہے اس کو سر کر لو
 کسی طرح شب غم کو پھپھی سحر کر لو
 
-۳
+۴
 یہ سوچا زینب مضطر نے ننگے سر ہوں میں
 عجیب وقت ہے مجھ پرکہ دربدر ہوں میں
 ہزار بیکس و مجبور بھی اگر ہوں میں
@@ -94,7 +96,7 @@ romanLyrics: |-
 علی کی بیٹی ہوں قصر یزید ڈھا دونگی
 یزید کون ہے میں کون ہوں بتا دونگی
 
-۴
+۵
 تیری مجال کے سر ننگے تو کرے تشہیر
 ہمارے سر پہ اذل سے ہے چادر تطہیر
 جلا کے خانۂ زہرا ہمیں کیا ہے اسیر
@@ -102,7 +104,7 @@ romanLyrics: |-
 یہ کہہ کے عطرت عقبہ سے تو ہوا محروم
 تیری نجات کی ضد بن کے گےء ہے ہم مظلوم
 
-۵
+۶
 یزید پیکر ذلت ہے اے مسلمانوں
 یزید دشمن امت ہے اے مسلمانوں
 یزیدیت ہی اذیت ہے اے مسلمانوں
