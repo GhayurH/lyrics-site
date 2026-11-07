@@ -13,30 +13,32 @@ romanLyrics: |-
   Ay azadaron sheh ke pursadaron
   Aagaya maahe moharram aao tayyari karein
   Karbala waale shaheedon se wafadari karein
+
+  1
   Royein zainab ki rida ko gham kare shabbir ka
   Mil ke sab aale mohamed ki azadari karein
 
-  1
+  2
   Farsh hum dil mein bicha ke matami mil kar sabhi
   Majlis e shabbir barpa zindagi saari karein
 
-  2
+  3
   Matame shaahe saheedan kar ke sab ahle aza
   Sog mein ibne ali ke girya o zaari karein
 
-  3
+  4
   Kar ke izhaar e aqeedat fatema ke laal se
   Ehtemam e zuljanah o taziyadari karein
 
-  4
+  5
   Kar ke matam sheh ka de ke ya hussaina ki sada
   Gham ali ke laal ka kayenat par taari karein
 
-  5
+  6
   Maalik e kausar labe darya huwe pyase shaheed
   Naam par unke sabeelein hum sada jaari karein
 
-  6
+  7
   Matam e shabbir hai jawad saaman e shifa
   Jo bhi dushman hai azaa ke unse bezaari karein
 # source_id: nohayonline:aae892cac0fded263e81
@@ -46,29 +48,31 @@ romanLyrics: |-
 اے عزاداروں شہ کے پرسہ داروں
 آ گیا ماہ محرم آؤ تیاری کریں
 کربلا والے شہیدوں سے وفاداری کریں
+
+۱
 روییں زینب کی ردا کو غم کریں شبیر کا
 مل کے سب آل محمد کی عزاداری کریں
 
-۱
+۲
 فرش ہم دل میں بچھا کے ماتمی مل کر سبھی
 مجلسِ شبیر برپا زندگی ساری کریں
 
-۲
+۳
 ماتم شاہ شہیداں کر کے سب اہلِ عزا
 سوگ میں ابن علی کے گریہ و زاری کریں
 
-۳
+۴
 کر کے اظہارِ عقیدت فاطمہ کے لال سے
 اہتمام ذوالجناح و تعزیہ داری کریں
 
-۴
+۵
 کر کے ماتم شہ کا دے کے یا حسینا کی صدا
 غم علی کے لال کا کاینات پر طاری کریں
 
-۵
+۶
 مالک کوثر لب دریا ہوے پیاسے شہید
 نام پر ان کے سبیلیں ہم صدا جاری کریں
 
-۶
+۷
 ماتم شبیر ہے جواد سامان شفا
 جو بھی دشمن ہے عزا کے ان سے بیزاری کریں

@@ -14,39 +14,37 @@ romanLyrics: |-
   Baba mera salaam ho di aakhri sada
   Daude kamar ko thaam ke yun shaahe karbala
   Aankhon se ashk jaari thay honton pe marsiya
-
-  1
   Aankhon ka noor kho gaya dhoondun kahan tujhe
   Beta kahan ho aakhri awaaz do mujhe
   Aina ali akbar aina ali akbar
   Awaaz do baba ko kahan ho mere dilbar
 
-  2
+  1
   Dikhta nahi aankhon se sada do mujhe beta
   Girta hoon sambhalta hoon jigar thaam ke tanha
   Ghurbat pe tere baap ki haste hai sitamgar
 
-  3
+  2
   Beta utho seene se zara haath hatao
   Dikhlao hamay kya hua hum se na chupao
   Yun thaam ke dil aediyan ragdo na dilawar
 
-  4
+  3
   Kya haal mere laal tera hogaya haye
   Allah kisi baap ko ye din na dikhaye
   Peeri mein falak ne hamay dikhlaye jo manzar
 
-  5
+  4
   Kis tarha mere laal tere dard ko thaamun
   Seene se tere kis tarha barchi ko nikalun
   Aajaye kaleja na kahin seene se baahar
 
-  6
+  5
   Yun chod ke ghurbat mein na jao mujhe beta
   Bas tum hi ho jeene ka sahara mere beta
   Kis tarha teri laash uthaunga mai dilbar
 
-  7
+  6
   Maadar se teri jaa ke bhala kaise kahunga
   Akbar ko tere ran mein qaza aagayi laila
   Wo dekh rahi hogi teri raah khule sar
@@ -58,39 +56,37 @@ romanLyrics: |-
 بابا مرا سلام ہو دی آخری صدا
 دوڑے کمر کو تھام کے یوں شاہ کربلا
 آنکھوں سے اشک جاری تھے ہونٹوں پہ مرثیہ
-
-۱
 آنکھوں کا نور کھو گیا ڈھونڈوں کہاں تجھے
 بیٹا کہاں ہو آخری آواز دو مجھے
 أَينَ علی اکبر أَينَ علی اکبر
 آواز دو بابا کو کہاں ہو میرے دلبر
 
-۲
+۱
 دکھتا نہیں آنکھوں سے صدا دو مجھے بیٹا
 گرتا ہوں سنبھلتا ہوں جگر تھام کے تنہا
 غربت پہ تیرے باپ کی ہنستے ہیں ستم گر
 
-۳
+۲
 بیٹا اُٹھو سینے سے ذرا ہاتھ ہٹاؤ
 دکھلاؤ ہمیں کیا ہوا ہم سے نہ چھپاؤ
 یوں تھام کے دل ایڈیاں رگڑو نہ دلاور
 
-۴
+۳
 کیا حال میرے لال تیرا ہو گیا ہائے
 اللہ کسی باپ کو یہ دن نہ دکھائے
 پیری میں فلک نے ہمیں دکھلائے جو منظر
 
-۵
+۴
 کس طرح میرے لال تیرے درد کو تھاموں
 سینے سے تیرے کس طرح برچھی کو نکالوں
 آجائے کلیجا نہ کہیں سینے سے باہر
 
-۶
+۵
 یوں چھوڑ کے غربت میں نہ جاؤ مجھے بیٹا
 بس تم ہی ہو جینے کا سہارا میرے بیٹا
 کس طرح تیرے لاش اُٹھاؤں میں دلبر
 
-۷
+۶
 مادر سے تیری جا کے بھلا کیسے کہوں گا
 اکبر کو تیرے رن میں قضا آ گئی لیلیٰ
 وہ دیکھ رہی ہوگی تیری راہ کھلے سر

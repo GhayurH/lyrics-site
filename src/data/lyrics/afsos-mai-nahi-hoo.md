@@ -12,58 +12,55 @@ published: false
 romanLyrics: |-
   Khwaab e sughra
   Behan ne khwaab ye kal shab hai dekha
-
-  1
   Shabihe mustafa bhaiya hamara
   Padar ke haath se banta hai dulha
   Bahot masroor hai khush hai sakina
   Damakta hai khushi se sab ka chehra
   Lekin mai nahi hoo afsoos mai nahi hoo
 
-  2
+  1
   Phupi amma balayein le rahi hai
   Bahit fizza duayein de rahi hai
   Thikana kya hai behno ki khushi ka
   Jo maange wo jo chaahe le rahi hai
   Manaata hai khushi kunba hamara
-  Lekin mai nahi hoo...
 
-  3
+  2
   Ali asghar ko shehwaala bana kar
   Bithaya maa ne akbar ke barabar
   Hatheli par rakhi mahendi zara si
   Khade hai paas abbas e dilawar
   Mujhe qasim ne har qaime mein dhoonda
 
-  4
+  3
   Dulhan ke paas baithi hai sakina
   Bahot masroor hai ghazi ka beta
   Chacha akbar ki shadi ki khushi mein
   Naya malboos hai baqir ne pehne
   Achanak mujhko abid ne pukaara
 
-  5
+  4
   Mehek sehre ki ye batla rahi hai
   Sawari sayyeda ki aa rahi hai
   Najaf se murtaza aaye huwe hai
   Hawa tazeem karne jaa rahi hai
   Hai aanchal mil ke sab behno ne daala
 
-  6
+  5
   Achanak khwaab toota royi sughra
   Tha ghar mein har taraf chaaya andhera
   Tha laashon se bhara ganje shaheedan
   Ali akbar ke seene mein tha naiza
   Mere baba tumhe dene ko pursa
 
-  7
+  6
   Abhi to khwaab tha kitna suhana
   Tha jin haathon mein dekha maine kangna
   Wo seene ka lahoo roke huwe thay
   Kahan ki rasme shadi kaisa sehra
   Sabhi dete hai baba ko sahara
 
-  8
+  7
   Samar behte rahe sughra ke aansu
   Bhare akbar ke khaak o khoon mein gaysu
   Ali akbar suye jannat sidhaare
@@ -78,58 +75,55 @@ romanLyrics: |-
 ---
 خواب صغرا
 بہن نے خواب یہ کل شب ہے دیکھا
-
-۱
 شبیہ مصطفیٰ بھیا ہمارا
 پدر کے ہاتھ سے بنتا ہے دولہا
 بہت مسرور ہے خوش ہے سکینہ
 دمکتا ہے خوشی سے سب کا چہرہ
 لیکن میں نہیں ہوں افسوس میں نہیں ہوں
 
-۲
+۱
 پھپھی اماں بلاییں لے رہی ہے
 بہت فضہ دعائیں دے رہی ہے
 ٹھکانہ کیا ہے بہنوں کی خوشی کا
 جو مانگے وہ جو چاہے لے رہی ہے
 مناتا ہے خوشی کنبہ ہمارا
-لیکن میں نہیں ہوں۔۔۔
 
-۳
+۲
 علی اصغر کو شہ والا بنا کر
 بٹھایا ماں نے اکبر کے برابر
 ہتھیلی پر رکھی مہندی زرا سی
 کھڑے ہیں پاس عباس دلاور
 مجھے قاسم نے ہر خیمے میں ڈھونڈا
 
-۴
+۳
 دلہن کے پاس بیٹھی ہے سکینہ
 بہت مسرور ہے غازی کا بیٹا
 چچا اکبر کی شادی کی خوشی میں
 نیا ملبوس ہے باقر نے پہنے
 اچانک مجھکو عابد نے پکارا
 
-۵
+۴
 مہک سہرے کی یہ بتلا رہی ہے
 سواری سیدہ کی آ رہی ہے
 نجف سے مرتظی آے ہوے ہے
 ہوا تعظیم کرنے جا رہی ھے
 ہے آنچل مل کے سب بہنوں نے ڈالا
 
-۶
+۵
 اچانک خواب ٹوٹا روی صغرا
 تھا گھر میں ہر طرف چھایا اندھیرا
 تھا لاشوں سے بھرا گنج شہیداں
 علی اکبر کے سینے میں تھا نیزہ
 میرے بابا تمہیں دینے کو پرسہ
 
-۷
+۶
 ابھی تو خواب تھا کتنا سہانا
 تھا جن ہاتھوں میں دیکھا میں نے کنگنا
 وہ سینے کا لہو روکے ہوے تھے
 کہاں کی رسم شادی کیسا سہرا
 سبھی دیتے ہیں بابا کو سہارا
 
-۸
+۷
 سمر بہتے رہے صغرا کے آنسوں
 بھرے اکبر کے خاک و خوں میں گیسوں
 علی اکبر سوے جنت سدھارے

@@ -82,7 +82,6 @@ romanLyrics: |-
   Haye sakina kehta hai
   Tum hi kya rehaan o sarwar
   Sab ki zaban par rehta hai
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:14f8c43fff19f0141257
 # source_url: https://www.nohayonline.com/details_content.php?id=3030
 # raw_sha256: ed55c0f72d54c1582dc80391c0b5a81034bea77d7d60a0963e434ea5434182de

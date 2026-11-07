@@ -12,13 +12,11 @@ published: false
 romanLyrics: |-
   Ahle haram mein hai rone ki dhoom
   Wawaila
-
-  1
   Haye maara gaya sayyed mazloom
   Lut'ta hai ghar jalti hai qanate
   Rote hai sab bache masoom wawaila
 
-  2
+  1
   Desh madina kaahe choda
   Zahra bhayo ghamnaak
   Bairi satave ban ma bulawe
@@ -28,7 +26,7 @@ romanLyrics: |-
   Koi nahi hai sar par waaris
   Kisko pukare ye mazloom wawaila
 
-  3
+  2
   Ek chadarwa deth na koi
   Sharm bhari sharmeine
   Chupke chupke rowat rowat
@@ -38,7 +36,7 @@ romanLyrics: |-
   Betiyan zehra aur ali ki
   Aaj ye kaisa hai maqsoom wawaila
 
-  4
+  3
   Soye zameen par saare baraati
   Byahu na aayo raas
   Pagdi kahat hai qasim dulha
@@ -48,7 +46,7 @@ romanLyrics: |-
   Roti hai zainab khaak uda kar
   Dekhti hai umme kulsoom wawaila
 
-  5
+  4
   Karbal ban ma loot machi hai
   Bindri kare faryaad
   Soye sab pardes ma musafir
@@ -58,7 +56,7 @@ romanLyrics: |-
   Kehti hai bano asghar jaani
   Chida tera nazuk halqoom wawaila
 
-  6
+  5
   Aur dukhawe dukhte dil ko
   Taras na koi khaaye
   Dukh ma satave qaidi banave
@@ -68,7 +66,7 @@ romanLyrics: |-
   Tan mein hai tap aur bediyan bhaari
   Kaisi bala mein hai mazloom wawaila
 
-  7
+  6
   Koi na aawe koi na pooche
   Koi na deve daad
   Man mein jaisu aave machave
@@ -78,7 +76,7 @@ romanLyrics: |-
   Shaam ko mazloom aah chala hai
   Leke haram ko lashkare shoom wawaila
 
-  8
+  7
   Jaan ko sulawe chaati upar
   Zahra ka dildaar
   Wan ko litawe dharti bheetar
@@ -93,13 +91,11 @@ romanLyrics: |-
 ---
 اہل حرم میں ہے رونےکی دھوم
 واویلا
-
-۱
 ہاے مارا گیا سید مظلوم
 لوٹتا ہے گھر جلتی ہے قناتیں
 روتے ہیں سب بچے معصوم واویلا
 
-۲
+۱
 دیش مدینہ کاہے چھوژا
 زہرا بھیو غمناک
 بیری ستاوے بن ما بلاوے
@@ -109,7 +105,7 @@ romanLyrics: |-
 کوی نہیں ہے سر پر وارث
 کسکو پکارے یہ مظلوم واویلا
 
-۳
+۲
 ایک چدروہ دیت نہ کوی
 شرم بھری شرماے
 چپکے چثکے رووت رووت
@@ -119,7 +115,7 @@ romanLyrics: |-
 بیٹیاں زہرا اور علی کی
 آج یہ کیسا ہے مقسوم واویلا
 
-۴
+۳
 سوے زمین پر سارے براتی
 بیاہو نہ آیو راس
 پگدی کہت ہے قاسم دولہا
@@ -129,7 +125,7 @@ romanLyrics: |-
 روتی ہے زینب خاک اڑا کر
 دیکھتی ہے اُمِ کلثوم واویلا
 
-۵
+۴
 کربل بن ما لوٹ مچی ہے
 بندری کرے فریاد
 سوے سب پردس ما مسافر
@@ -139,7 +135,7 @@ romanLyrics: |-
 کھتی ہے بانو اصغر جانی
 چھیدا تیرا نازک حلقوم واویلا
 
-۶
+۵
 اور دکھاوے دکھتے دل کو
 ترس نہ کوی کھاے
 دکھ ما ستاوے قیدی بناوے
@@ -149,7 +145,7 @@ romanLyrics: |-
 تن میں ہے تپ اور بیڑیاں بھاری
 کیسی بلا میں ہے مظلوم واویلا
 
-۷
+۶
 کوی نہ آوے کوی نہ پوچھے
 کوی نہ دیوے داد
 من میں جیسو آوے مچاوے
@@ -159,7 +155,7 @@ romanLyrics: |-
 شام کو مظلوم آہ چلا ہے
 لےکے حرم کو لشکر شوم واویلا
 
-۸
+۷
 جان کو سلاوے چھاتی اوپر
 زہرا کا دلدار
 واں کو لِٹاوے دھرتی بھیتر

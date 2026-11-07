@@ -14,8 +14,6 @@ romanLyrics: |-
   Sar peet rahe thay ahle haram
   Sadaat mein ek bezaari thi
   Kohraam tha aur gham khwari thi
-
-  1
   Jab shaah ne yeh manzar dekha
   Sar peet rahe hai aal e aba
   Shabbir ne pad ke bismillah
@@ -28,6 +26,8 @@ romanLyrics: |-
   Allah ne bhi khush ho ke kaha
   Ahsantum ya hussain
   Ahsantum ya hussain
+
+  1
   Arwaah mein jo waada tha kiya
   Wo tum ne nibhaya hai
   Islam ki khaatir jangal mein
@@ -97,8 +97,6 @@ romanLyrics: |-
 سر پیٹ رہے تھے اہل حرم
 سادات میں اک بیزاری تھی
 کہرام تھا اور غم خواری تھی
-
-۱
 جب شاہ نے یہ منظر دیکھا
 سر پیٹ رہے ہیں آل عبا
 شبیر نے پڑھ کے بسم اللّٰہ
@@ -111,6 +109,8 @@ romanLyrics: |-
 اللّٰہ نے بھی خوش ہو کے کہا
 احسنتم یا حسین
 احسنتم یا حسین
+
+۱
 ارواح میں جو وعدہ تھا کیا
 وہ تم نے نبھایا ہے
 اسلام کی خاطر جنگل میں
