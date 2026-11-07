@@ -10,19 +10,20 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Labbaik ya hussain
   Hussain ka gham manane waalon
   Hussain tum ko bula rahe hai
   Suno suno ay zamane waalon
   Hussain tum ko bula rahe hai
+
+  1
   Yehi to hai intezar e mehdi
   Sada e halmin ka hai ye matlab
   Wafa e abbas mein bano tum
   Mahafizaan e mazaar e zainab
   Wafa ka parcham uthane waalon
   Hussain tum ko bula rahe hai
-  
+
   2
   Azeem hurr tha ke jisne aakhir
   Hussain par jaan apni di hai
@@ -30,7 +31,7 @@ romanLyrics: |-
   Kabhi ye awaaz bhi suni hai
   Ke zikr hurr ka sunane waalon
   Hussain tum ko bula rahe hai
-  
+
   3
   Jo khyber e waqt mein ladoge
   To karbala se na hogi doori
@@ -38,7 +39,7 @@ romanLyrics: |-
   Wahan pe imdaad hai zaroori
   Ali ke naare lagaane waalon
   Hussain tum ko bula rahe hai
-  
+
   4
   Yehi to maqsood e karbala hai
   Ke imtehan e wafa yehi hai
@@ -46,7 +47,7 @@ romanLyrics: |-
   Magar iraade mein kuch kami hai
   Ziyaraton pe na jaane waalon
   Hussain tum ko bula rahe hai
-  
+
   5
   Jo ibne zehra pe jaan denge
   Unhi ke honge bade muqaddar
@@ -54,7 +55,7 @@ romanLyrics: |-
   Kaha hai zauja ne aage bad kar
   Chalo chalo ay zamane waalon
   Hussain tum ko bula rahe hai
-  
+
   6
   Jo al ajal ki sada lagaye
   Wo apna kirdaar bhi dikhaye
@@ -62,7 +63,7 @@ romanLyrics: |-
   Habeeb ibn e mazahir aaye
   Ke dosti ko nibhane waalon
   Hussain tum ko bula rahe hai
-  
+
   7
   Yehi to paigham e karbala hai
   Hai nusraton ka sawaal laazim
@@ -70,7 +71,7 @@ romanLyrics: |-
   Hamesha rizq e halaal laazim
   Halaal rozi kamane waalon
   Hussain tum ko bula rahe hai
-  
+
   8
   Namaz ko chod dene waalon
   Imam ka saamna karoge
@@ -78,7 +79,7 @@ romanLyrics: |-
   Hussain ko kya jawab doge
   Ghina ki mehfil sajane waalon
   Hussain tum ko bula rahe hai
-  
+
   9
   Ghira hua hai jo lashkaron mein
   Imam e dauran bula raha hai
@@ -86,7 +87,7 @@ romanLyrics: |-
   Sagheer jhoole se gir gaya hai
   Ke teer par muskurane waalon
   Hussain tum ko bula rahe hai
-  
+
   10
   Ma'ashre mein madad karo tum
   Yateem mazloom mar raha hai
@@ -99,12 +100,13 @@ romanLyrics: |-
 # raw_sha256: d354bf1353f0749d008b22a132d852ac601c887dcc61bf80a197bc318f4bb6b1
 ---
 
-۱
 لبیک یا حسین
 حسین کا غم منانے والوں
 حسین تم کو بلا رہے ہیں
 سنو سنو اے زمانے والوں
 حسین تم کو بلا رہے ہیں
+
+۱
 یہی تو ہے انتظار مہدی
 صدائے ھل من کا ہے یہ مطلب
 وفاے عباس میں بنو تم
