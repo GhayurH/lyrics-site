@@ -11,59 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas alamdar
-  
-  1
   Kya hua kyun udaas baitha hai
   Tu azadare ibne zehra hai
   Chal wahan rab jahan pe milta hai
   Chal jahan panjetan ka saaya hai
   Wo saqi dar khula hi rehta hai
-  
-  2
+
   Chote hazrat ki bargah chalo
   Chalo abbas ki dargah chalo
+
+  1
   Inki dargah se saughate wafa milti hai
   Naame zainab pe yahan sabko rida milti hai
   Zaayaron aao sakina ki dua milti hai
   Mere saqqe ke azadaar jiyo
-  Chalo abbas ki...
-  Chote hazrat ki…
+
+  2
   Haan yehi baabe hawaej dua e zehra
   Ye ali ka hai sarapa to hassan ka chehra
   Inko kehte hai hussain ibne ali ka pyara
   Panjatan paak ke pyare se kaho
-  Chalo abbas ki…
-  Chote hazrat ki...
+
+  3
   Haazri inki jab hoti hai diye jalte hai
   Mustafa fatema hasnain o ali aate hai
   Milke sab maadare abbas se farmate hai
   Aao abbas ki tum nazr to do
-  Chalo abbas ki…
-  Chote hazrat ki...
+
+  4
   Inka jab aat moharam ko alam uth-ta hai
   Ek mashkeeza bhi panje se bandha rehta hai
   Uspe saqqaye sakina bhi likha rehta hai
   Ye alam kya hai sakina se suno
-  Chalo abbas ki…
-  Chote hazrat ki...
+
+  5
   Jisne nau laak ke lashkar ka bharam tod diya
   Uspe ek mashk ke chidne ne sitam tod diya
   Ya sakina kaha aur khaak pe dam tod diya
   Milke sab matame abbas karo
-  Chalo abbas ki…
-  Chote hazrat ki...
+
+  6
   Zaamine chadare zainab thay alamdare wafa
   Jis ghadi saaniye zehra se ye fizza ne kaha
   Chadare apni sambhalo ke wo ghazi na raha
   Pursa ab zainab o kulsoom ko do
-  Chalo abbas ki…
-  Chote hazrat ki...
+
+  7
   Chote hazrat ki ghulami ka sharaf paaya hai
   Rabbe kaaba ki qasam ye bada sarmeina hai
   Nauha jo sarwar o rehan se padhwaya hai
   Shukre maula chalo ghazi se kaho
-  Chalo abbas ki…
-  Chote hazrat ki...
+
+  8
   Chote hazrat hussain ke bhai
   Chote hazrat ba haqqe saqqayi
   Tum waseela ho gham ke maaro ka
@@ -88,59 +87,58 @@ romanLyrics: |-
 ---
 
 عباس علمدار
-
-۱
 کیا ہوا کیوں اُداس بیٹھا ہے
 تُو عزادارِ ابنِ زہرا ہے
 چل وہاں رب جہاں پہ ملتا ہے
 چل جہاں پنجتن کا سایا ہے
 وہ سخی در کھلا ہی رہتا ہے
 
-۲
 چھوٹے حضرت کی بارگاہ چلو
 چلو عباس کی درگاہ چلو
+
+۱
 انکی درگاہ سے سوغاتِ وفا ملتی ہے
 نامِ زینب پہ یہاں سب کو ردا ملتی ہے
 زائروں آئوسکینہ کی دُعا ملتی ہے
 میرے سقّے کے عزادار جیو
-چلو عباس کی ۔۔۔
-چھوٹے حضرت کی۔۔۔
+
+۲
 ہاں یہی بابِ حوائج دُعائے زہرا
 یہ علی کا ہے سراپا تو حسن کا چہرہ
 ان کوکہتے ہیں حسین ابن علی کاپیارا
 پنجتن پاک کے پیارے سے کہو
-چلو عباس کی ۔۔۔
-چھوٹے حضرت کی۔۔۔
+
+۳
 حاضری اِنکی جب ہوتی ہے دیے جلتے ہیں
 مصطفی فاطمہ حثنین و علی آتے ہیں
 مل کے سب مادرِعباس سے فرماتے ہیں
 آئو عباس کی تم نظر تو دو
-چلو عباس کی ۔۔۔
-چھوٹے حضرت کی۔۔۔
+
+۴
 اِن کا جب آٹھ محرم کو علم اُٹھتا ہے
 ایک مشکیزہ بھی پنجے سے بندھا رہتا ہے
 اُس پہ سقّائے سکینہ بھی لکھا رہتا ہے
 یہ علم کیا ہے سکینہ سے سنو
-چلو عباس کی ۔۔۔
-چھوٹے حضرت کی۔۔۔
+
+۵
 جس نے نو لاکھ کے لشکر کا بھرم توڑدیا
 اُس پہ اک مشک کے چھدنے نے ستم توڑدیا
 یا سکینہ کہا اور خاک پہ دم توڑدیا
 مل کے سب ماتمِ عباس کرو
-چلو عباس کی ۔۔۔
-چھوٹے حضرت کی۔۔۔
+
+۶
 ضامنِ چادرِزینب تھے علمدارِ وفا
 جس گھڑی ثانیئ زہرا سے یہ فضّہ نے کہا
 چادریںاپنی سنبھالو کہ وہ غازی نہ رہا
 پرسہ اب زینب و کلثوم کو دو
-چلو عباس کی ۔۔۔
-چھوٹے حضرت کی۔۔۔
+
+۷
 چھوٹے حضرت کی غلامی کا شرف پایا ہے
 ربّ ِکعبہ کی قسم یہ بڑا سرمایا ہے
 نوحہ جو سروروریحان سے پڑ ھ وایا ہے
 شکرِ مولا چلو غازی سے کہو
-چلو عباس کی ۔۔۔
-چھوٹے حضرت کی۔۔۔
+
+۸
 چھوٹے حضرت حسین کے بھائی
 چھوٹے حضرت با حقِ سقّائی
 تم وسیلہ ہو غم کے ماروں کا
