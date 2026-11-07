@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Hikayat ishq ki jaari rahegi
   Shaoor o rooh par taari rahegi
-
-  1
   Zamane ke yazeedon ko batado
   Qayamat tak azadari rahegi
   Hussain walon ki tarze wafa aza e hussain
   Yazeed waale mitayenge kya aza e hussain
+
+  1
   Hamein ye tarz e ibadat hai jaan se pyari
   Ye ghar ye maal ye aulad is pe sab waari
   Hamare khoon ki gardish mein hai azadari
@@ -68,14 +68,15 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1137
 # raw_sha256: 63b4e391d204ae007d31df8768bbad884c45d892b8db6bb9bf835179b9181d07
 ---
+
 حکایت عشق کی جاری رہے گی
 شعور و روح پر طاری رہے گی
-
-۱
 زمانے کے یزیدوں کو بتادو
 قیامت تک عزاداری رہے گی
 حسین والوں کی طرزِ وفا عزاے حسین
 یزید والے مٹاےنگے کیا عزاے حسین
+
+۱
 ہمیں یہ طرزِ عبادت ہے جان سے پیاری
 یہ گھر یہ مال یہ اولاد اس پہ سب واری
 ہمارے خون کی گردش میں ہے عزاداری
