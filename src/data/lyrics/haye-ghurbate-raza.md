@@ -12,39 +12,37 @@ published: false
 romanLyrics: |-
   Rote hai shaahe waala roti hai binte zahra
   Haye ghurbate raza par
-  
-  1
   Phir aaj karbala mein aur shaam mein hai giryan
-  
-  2
+
+  1
   Hai qum ki shaahzadi aur hai zaban par naale
   Bikhraye baal apne nauha kuna hai behna
   
-  3
+  2
   Pardes ko chale jab maula raza to roye
   Jis dam watan ko choda veraan tha madina
   
-  4
+  3
   Zehre sitam se maara mazloom o be-watan ko
   Afsos zaalimo ko hargiz taras na aaya
   
-  5
+  4
   Pursa qubool kije maula ay musa kazim
   Aansu bahate hum bhi dene ko aaye pursa
   
-  6
+  5
   Taboot uth raha hai kaandho pe momino ke
   Girya hua hai barpa maram hua hai barpa
   
-  7
+  6
   Har shaam ro rahi hai bhai ko ek khwahar
   Har shaam hi bapa hai qum ki fiza mein nauha
   
-  8
+  7
   Mayyat pe is pisar ki faryad e sayyeda thi
   Yasrab se aake dekho mai ro rahi hoo baba
   
-  9
+  8
   Maahe safar jo aaya yaad aagayi sakina
   Izhaar uske gham mein roya phir aur roya
 # source_id: nohayonline:d5a99450efb56254220c
@@ -54,38 +52,36 @@ romanLyrics: |-
 
 روتے ہیں شاہِ والا روتی ہیں بنتِ زہرا
 ہئے غربتِ رضا پر
-
-۱
 پھر آج کربلا میں اور شام میں ہے گریہ
 
-۲
+۱
 ہے قُم کی شاہزادی اور ہیں زباں پہ نالے
 بکھرائے بال اپنے نوحہ کناں ہے بہنا
 
-۳
+۲
 پردیس کو چلے جب مولا رضا تو روئے
 جس دم وطن کو چھوڑا ویران تھا مدینہ
 
-۴
+۳
 زہرِ ستم سے مارا مظلوم و بے وطن کو
 افسوس ظالموں کو ہرگز ترس نہ آیا
 
-۵
+۴
 پرسہ قبول کیجے مولا اے موسیٰ کاظم
 آنسو بہاتے ہم بھی دینے کو آئے پرسہ
 
-۶
+۵
 تابوت اٹھ رہا ہے کاندھوں پہ مومنوں کے
 گریہ ہُوا ہے برپہ ماتم ہُوا ہے برپا
 
-۷
+۶
 ہر شام رو رہی ہے بھائی کو ایک خواہر
 ہر شام ہی بپا ہے قُم کی فضا میں نوحہ
 
-۸
+۷
 میت پہ اِس پسر کی فریادِ سیدہ تھی
 یثرب سے آ کے دیکھو میں رو رہی ہوں بابا
 
-۹
+۸
 ماہِ صفر جو آیا یاد آگئی سکینہ
 اظہارؔ اُس کے غم میں رویا پھر اور رویا
