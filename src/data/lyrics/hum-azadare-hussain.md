@@ -9,102 +9,59 @@ poet: "Faheem"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Hum azadar e hussain ibne ali
-
+romanLyrics: |-
+  Hum azadar e hussain ibne ali
 
   1
-
   Hum tarafdar e hussain ibne ali
-
   Hum wafadar e hussain ibne ali
-
   Hum dua e fatema ka hai samar
-
   Aur aadab e aza se ba-khabar
-
   Jaante hai hum ko sab jinn o bashar
-
   Hai hamari sarparast binte ali
 
-
   2
-
-  Hum azadare hussain...
-
   Saamne jis ke kata bhai ka sar
-
   Zibha pyase hogaye noor e nazar
-
   Aur luta jangal mein jis ka ghar
-
   Bhai ke laashe pe jo ro na saki
 
-
   3
-
   Hum se poocho lazzat e saum o salaat
-
   Hum se poocho khadar e khums o zakaat
-
   Hum se poocho kyun ruka hukhm e jehad
-
   Hum tawalla aur tabarra ke dhani
 
-  Ye hamari qadr ye zeb o zain
-
-
   4
-
+  Ye hamari qadr ye zeb o zain
   Ashk hamare marhame zakhme hussain
-
   Ye aza fatema ke dil ka chain
-
   Hum se khush hai khuda uska nabi
 
-  Hum azadare hussain...
-
-  Haasil e khilqat hamara hai aza
-
-  Ye buka ye wa-hussaina ki sada
-
-
   5
-
+  Haasil e khilqat hamara hai aza
+  Ye buka ye wa-hussaina ki sada
   Hai hamari rooh ki girya ghiza
-
   Khoon baha to jism hote hai qawi
 
-  Hum azadare hussain...
-
-  Hum se poocho gham hai kya kya hai khushi
-
-  Hai jo dil mein ulfat e aale nabi
-
-  Gham hai unka gham khushi unki khushi
-
-
   6
-
+  Hum se poocho gham hai kya kya hai khushi
+  Hai jo dil mein ulfat e aale nabi
+  Gham hai unka gham khushi unki khushi
   Bas yehi hai apna tarz e zindagi
 
+  7
   Hai dilon mein hamare karbobala
-
   Hum na is se aur na ye hum se juda
-
   Kaise halmin ki bhala bhoolein sada
-
   Goonjti hai al-atash har ghadi
 
-
-  7
-
+  8
   Hai mehekte seeno pe zakhmon ke baagh
-
   Aur dil mein gham ke jalte hai charagh
-
   Hum hai wo jinko nahi gham se firaaq
+  Bas faheem haan yehi hai bandagi
 
-  Bas faheem haan yehi hai bandagi'
 # source_id: nohayonline:150c024b5c22365940b9
 # source_url: https://www.nohayonline.com/details_content.php?id=3522
 # raw_sha256: 4df576a8fb2a9bfdcafcec2729335c1fd2991ffac44d80f55dfd9cfb597e8bb5
