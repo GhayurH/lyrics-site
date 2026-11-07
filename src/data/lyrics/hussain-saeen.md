@@ -24,7 +24,6 @@ romanLyrics: |-
   Raahib ko diye hai saat pisar
   Man misli hai fitrus ke lab par
   Hum par bhi mehez ek baar
-  Karo apna karam sarkar
 
   2
   Tum murshid ho tum aaqa ho
@@ -34,68 +33,58 @@ romanLyrics: |-
   Tum karte nahi inkaar
 
   3
-  Karo apna karam sarkar
   Allah o nabi ke pyare ho
   Zehra ke raaj dulaare ho
   Quran e ali ke paare ho
   Tum chashme hassan ke taare ho
+  Qudrat ka haseen shahkaar
 
   4
-  Qudrat ka haseen shahkaar
-  Karo apna karam sarkar
   Hai wird badi ajmeri ka
   Kehna hai shams noorani ka
   Bole har bait bhitayi ka
-
-  5
   Naara hai laal sehwani ka
   Hai tera khula darbar
-  Karo apna karam sarkar
+
+  5
   Sindh waalon ki hai shaan yehi
   Mehraan ki hai pehchan yehi
-
-  6
   Har lab par hai elaan yehi
   Apna to hai emaan yehi
   Hum aap ke hai hubdaar
-  Karo apna karam sarkar
-  Kayo maula saeen manzoor dua
 
-  7
+  6
+  Kayo maula saeen manzoor dua
   Moo khe bhi ghurayo karbobala
   Karbala karbala...
+
+  7
   Tum se hai muallah karbobala
   Hain noori tajallah karbobala
   Kaabe ka hai kaaba karbobala
   Nabiyon ka musallah karbobala
+  Karte hai dua zawwar
 
   8
-  Karte hai dua zawwar
-  Karo apna karam sarkar
   Khaliq ki mohabbat mil jaaye
   Naukar ko ijazat mil jaaye
   Maula ye sa'adat mil jaaye
-
-  9
   Hum ko bhi shahadat mil jaaye
   Kehte thay sabhi ansaar
-  Karo apna karam sarkar
+
+  9
   Abbas ka laasha wawaila
   Akbar gaya maara wawaila
-
-  10
   Tum reh gaye tanha wawaila
   Ye sabr tha kaisa wawaila
   Kehti hi rahi talwaar
-  Karo apna karam sarkar
-  Jawad aur mesum ki hai sada
 
-  11
+  10
+  Jawad aur mesum ki hai sada
   Hum tere bhikari hai maula
   Jo rizq bhi hai hum ko milta
   Hai sadqa tere asghar ka
   Hum tere hai namakhaar
-  Karo apna karam sarkar
 # source_id: nohayonline:ba9d00d13c3ae8c306aa
 # source_url: https://www.nohayonline.com/details_content.php?id=3713
 # raw_sha256: a68c8058c1e9a09d3969f6bd5f1542404cb0a35993f060efcb673485668ae1e0
@@ -114,7 +103,6 @@ romanLyrics: |-
 راحب کو دیےء ہیں سات پسر
 مم مثلی ہے فطرس کے لب پر
 ہم پر بھی محض ایک بار
-کرو اپنا کرم سرکار
 
 ۲
 تم مرشد ہو تم آقا ہو
@@ -124,65 +112,55 @@ romanLyrics: |-
 تم کرتے نہیں انکار
 
 ۳
-کرو اپنا کرم سرکار
 اللہ نبی کے پیارے ہو
 زہرا کے راج دلارے ہو
 قرآن علی کے پارے ہو
 تم چشم حسن کے تارے ہو
+قدرت کا حسیں شاہکار
 
 ۴
-قدرت کا حسیں شاہکار
-کرو اپنا کرم سرکار
 ہے ورد بڑی اجمیری کا
 کہنا ہے شمس نورانی کا
 بولے ہر بات بٹھای کا
-
-۵
 نعرہ ہے لال سہوانی کا
 ہے تیرا کھلا دربار
-کرو اپنا کرم سرکار
+
+۵
 سندھ والوں کی ہے شان یہی
 مہران کی ہے پہچان یہی
-
-۶
 ہر لب پر ہے اعلان یہی
 اپنا تو ہے ایمان یہی
 ہم آپ کے ہیں حبدار
-کرو اپنا کرم سرکار
-ڪيو مولا سائين منظور دعا
 
-۷
+۶
+ڪيو مولا سائين منظور دعا
 مون کي به گهرايو کرب و بلا
 کربلا کربلا۔۔۔
+
+۷
 تم سے ہے معلی کربوبلا
 ہیں نوری تجلی کربوبلا
 کعبے کا ہے کعبہ کربوبلا
 نبیوں کا مصلیٰ کربوبلا
+کرتے ہیں دعا زوار
 
 ۸
-کرتے ہیں دعا زوار
-کرو اپنا کرم سرکار
 خالق کی محبت مل جائے
 نوکر کو اجازت مل جائے
 مولا یہ سعادت مل جائے
-
-۹
 ہم کو بھی شہادت مل جائے
 کہتے تھے سبھی انصار
-کرو اپنا کرم سرکار
+
+۹
 عباس کا لاشہ واویلا
 اکبر گیا مارا واویلا
-
-۱۰
 تم رہ گےء تنہا واویلا
 یہ صبر تھا کیسا واویلا
 کہتی ہی رہی تلوار
-کرو اپنا کرم سرکار
-جواد اور میثم کی ہے صدا
 
-۱۱
+۱۰
+جواد اور میثم کی ہے صدا
 ہم تیرے بھکاری ہیں مولا
 جو رزق بھی ہے ہم کو ملتا
 ہے صدقہ تیرے اصغر گا
 ہم تیرے ہیں نمک خوار
-کرو اپنا کرم سرکار
