@@ -21,17 +21,14 @@ romanLyrics: |-
   2
   Ye haal sakina ka huwa zulm o sitam se
   Kano se lahoo behta hai ruksaar hai neele
-  Mar jaye na is aalame ghurbat mein sakina
 
   3
   Is darja andhera hai koi shamma jalade
   Jaa kar koi abbas e dilawar ko bulaade
-  Mar jaye na is aalame ghurbat mein sakina
 
   4
   Kyun ghurkiyan dete hai mujhe aan ke aada
   Kuch dayr ko aajaiye pyare mere baba
-  Mar jaye na is aalame ghurbat mein sakina
 
   5
   Is darja sitamgaron ne bachi ko sataya
@@ -41,17 +38,14 @@ romanLyrics: |-
   6
   Yun syed-e-sajjad ka dil kaamp raha hai
   Laasha jo sakina ka andhere mein rakha hai
-  Ab khaak pe zindan mein soti hai sakina
 
   7
   Mai kaise kahoo gham se jigar phat'ta hai mere
   Kurta jo badan pe tha wohi uska kafan tha
-  Ab khaak pe zindan mein soti hai sakina
 
   8
   Kuch bhi na meinasar tha wahan ghusl o kafan ko
   Kurte mein hi dafna diya bhai ne behen ko
-  Ab khaak pe zindan mein soti hai sakina
 
   9
   Jab ahle haram laut ke hai aagaye ashraf
@@ -72,17 +66,14 @@ romanLyrics: |-
 ۲
 یہ حال سکینہ کا ہوا ظلم و ستم سے
 کانوں سے لہو بہتا ہے رُخسار ہیں نیلے
-مر جائے نہ اس عالمِ غُربت میں سکینہ
 
 ۳
 اس درجہ اندھیرا ہے کوئی شمع جلا دے
 جا کر کوئی عباسِ دلاور کو بُلا دے
-مر جائے نہ اس عالمِ غُربت میں سکینہ
 
 ۴
 کیوں گھُرکیاں دیتے ہیں مجھے آن کے اعدا
 کچھ دیر کو آ جائیے پیارے میرے بابا
-مر جائے نہ اس عالمِ غُربت میں سکینہ
 
 ۵
 اس درجہ ستم گروں نے بچی کو ستایا
@@ -92,17 +83,14 @@ romanLyrics: |-
 ۶
 یوں سیدِ سجاد کا دل کانپ رہا ہے
 لاشہ جو سکینہ کا اندھیرے میں رکھا ہے
-اب خاک پہ زندان میں سوتی ہے سکینہ
 
 ۷
 میں کیسے کہوں غم سے جگر پھٹتا ہے میرا
 کُرتا جو بدن پہ تھا وہ ہی اُس کا کفن تھا
-اب خاک پہ زندان میں سوتی ہے سکینہ
 
 ۸
 کچھ بھی نہ میسر تھا وہاں غُسل و کفن کو
 کُرتے میں ہی دفنا دیا بھائی نے بہن کو
-اب خاک پہ زندان میں سوتی ہے سکینہ
 
 ۹
 جب اہلِ حرم ہیں لوٹ کے آ گئے اشرف
