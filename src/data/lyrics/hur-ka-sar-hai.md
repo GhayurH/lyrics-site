@@ -11,52 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   Hur ka sar hai zaanuye shabbir hai
-  
-  1
   Marne waale kya teri taqdeer hai
-  
-  2
+
+  1
   Khauf kya mehshar ka daaman-geer hai
   Haath mein jab daaman e shabbir hai
-  
-  3
+
+  2
   Apne apno ke to kaam aate hai sab
   Ha ali maula e aalam-geer hai
-  
-  4
+
+  3
   Kyon na ho mai hoo ghulame bu turaab
   Baaghe jannat han meri jageer hai
-  
-  5
+
+  4
   Gar hata do noor-e-ahle bayt ko
   Kaunsi islam mein tanveer hai
-  
-  6
+
+  5
   Aap ne jo khwaab dekha tha khaleel
   Karbala us khwaab ki tabeer hai
-  
-  7
+
+  6
   Naam hai mera azadare hussain
   Kaam mera matame shabbir hai
-  
-  8
 
+  7
   Dekh ummat dekh le akbar ki laash
   Ye nabi ki khoon bhari tasveer hai
-  
-  9
+
+  8
   Kat raha hai taygh se sheh ka gala
   Aur baali par khadi hamsheer hai
-  
-  10
+
+  9
   Jodta hai kyon kamaan se teer e zulm
   Hurmula asghar ki kya taqseer hai
-  
-  11
+
+  10
   Laashe akbar dekh kar maa ne kaha
   Khwaab kya dekhe thay kya tabeer hai
-  
-  12
+
+  11
   Ek ali ke thi galay mein reesma
   Ek ali ke paaon mein zanjeer hai
 # source_id: nohayonline:e45bd7c8d46287437e4a
@@ -65,50 +62,48 @@ romanLyrics: |-
 ---
 
 حُر کا سر ہے زانوئے شبیر ہے
-
-۱
 مرنے والے کیا تقدیر ہے
 
-۲
+۱
 خوف کیا محشر کا دامن گیر ہے
 ہاتھ میں جب دامنِ شبیر ہے
 
-۳
+۲
 اپنے اپنوں کے تو کام آتے ہیں سب
 ہا علی مولائے عالم گیر ہے
 
-۴
+۳
 کیوں نہ ہو میں ہوں غلامِ بوتُراب
 باغِ جنت ہاں میری جاگیر ہے
 
-۵
+۴
 گر ہٹا دو نُورِ اہلِبیت کو
 کون سی اسلام میں تنویر ہے
 
-۶
+۵
 آپ نے جو خواب دیکھا تھا خلیل
 کربلا اُس خواب کی تعبیر ہے
 
-۷
+۶
 نام ہے میرا اعزادارِ حُسین
 کام میرا ماتمِ شبیر ہے
 
-۸
+۷
 دیکھ اُمت دیکھ لے اکبر کی لاش
 یہ نبی کی خون بھری تصویر ہے
 
-۹
+۸
 کٹ رہا ہے تیغ سے شِہ کا گلا
 اور پانی پر کھڑی ہمشیر ہے
 
-۱۰
+۹
 جوڑتا ہے کیوں کماں سے تیرِ ظُلم
 حُرملا اصغر کی کیا تقصیر ہے
 
-۱۱
+۱۰
 لاشِ اکبر دیکھ کر ماں نے کہا
 خواب کیا دیکھے تھے کیا تعبیر ہے
 
-۱۲
+۱۱
 اِک علی کے تھی گلے میں ریسما
 اِک علی کے پائوں میں زنجیر ہے
