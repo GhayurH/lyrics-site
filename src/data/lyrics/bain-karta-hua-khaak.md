@@ -9,116 +9,65 @@ poet: "Gohar Jarchvi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Bain karta huwa khak urata huwa
-
+romanLyrics: |-
+  Bain karta huwa khak urata huwa
   Tashnalab Bai Rida Lo Chala Qafila
-
-
-  1
-
   Sun Kai Shor-e-Fughan Aik Kohram Hai
-
   Bar Sarai Kerbala Lo Chala Qafila
 
-
-  2
-
-  1) Rasm-e-Perda Girin Jis Kai Ghar Sai Chali
-
+  1
+  Rasm-e-Perda Girin Jis Kai Ghar Sai Chali
   Shahzadi Wahin Bai Rida Ho Gayi
-
   Mer Na Jayai Kahin Gham Sai Bint-e-Ali
-
   Hai Ab Ho Ga Kiya Lo Chala Qafila
 
-
-  3
-
-  2) Apni Soorat Dikha Do Mujhai Meri Jaan
-
+  2
+  Apni Soorat Dikha Do Mujhai Meri Jaan
   Phir Khuda Janai Aana ho ya kai na ho
-
   Aao Akber Utho Ham Ko Rukhsat Karo
-
   Ma Nai Ro Kai Kaha Lo Chala Qafila
 
-
-  4
-
-  3) Thani-e-Fatima Bint-e-Shair-e-Khuda
-
+  3
+  Thani-e-Fatima Bint-e-Shair-e-Khuda
   Kaisai Bazar Main Jai Gi Bai Rida
-
   Kaisai Tai Ho Ga Who Shaam Ka Rasita
-
   Ro Rahi Hai Faza Lo Chala Qafila
 
-
-  5
-
-  4) Piyar Sai Jis ko Pala the Shabir Nai
-
+  4
+  Piyar Sai Jis ko Pala the Shabir Nai
   Us ko Jakra Gaiya Toq-o-Zanjeer Sai
-
   Rah pur Khawar per Pa baraihan Safar
-
   Kaisai Ho Ga Bahala Lo Chala Qafila
 
-
-  6
-
-  5) Rak Khaiamai Huwai Sab Asasa Luta
-
+  5
+  Rak Khaiamai Huwai Sab Asasa Luta
   Bai Sahara Beemar Ka Qunba Huwa
-
   Shaam Ghurbat Kai Qaidi Chalai Shaam Ko
-
   La Chali Ashqiya Lo Chala Qafila
 
-
-  7
-
-  6) Hai Nabi Zadian Sar Khulai Bai Rida
-
+  6
+  Hai Nabi Zadian Sar Khulai Bai Rida
   Kiya Ghasab H o Gaiya Kiya Sitam Ho Gaiya
-
   Bai Kajavan Savari aur Aal-e-Aba
-
   Shor-e-Matam Utha Lo Chala Qafila
 
-
-  8
-
-  7) Jin ki Chahat pai Konain ka Raj Hai
-
+  7
+  Jin ki Chahat pai Konain ka Raj Hai
   Jis kai Thani Zamanai main koi Nahin
-
   Chahnai Walai Who Bahi aur Who Behan
-
   Ro Rahi Hai Juda Lo Chala Qafila
 
-
-  9
-
-  8) Char Janib Sai Yeh Aayi hai Sada
-
+  8
+  Char Janib Sai Yeh Aayi hai Sada
   Alwida Alwida Alwdia Alwida
-
   Apnai Piyaron Kai Lashon sai Ho ker Juda
-
   Khon Rota Huwa Lo Chala Qafila
 
-
-  10
-
-  9) Haal Us Waqat Ka Kaisai Gohar Likhai
-
-  Dekh ker So-e-Maqtal sab hi???????
-
+  9
+  Haal Us Waqat Ka Kaisai Gohar Likhai
+  Dekh kar suye maqtal sabhi ro diye
   Sab shaheedon Kai Lashai Tarapnai Lagai
-
-  Jab yeh Aayi Sada Lo Chala Qafila'
-reciter: Anjuman Shabab-ul-Momineen (Nazim Party)
+  Jab yeh Aayi Sada Lo Chala Qafila
 # source_id: nohayonline:216fee97798375459ba4
 # source_url: https://www.nohayonline.com/details_content.php?id=1502
 # raw_sha256: 9c3dc222ef64fafe064ae26553625f56a768ffa78fe70aae9d0d8f1e99d10c3d
@@ -128,11 +77,11 @@ reciter: Anjuman Shabab-ul-Momineen (Nazim Party)
 ---
 
 بین کرتا ہوا خاک اڑاتا ہوا
-
-۱
 تشنہ لب بے ردا لو چلا قافلہ
 سن کے شور فغاں ایک کہرام ہے
 بر سرِ کربلا لو چلا قافلہ
+
+۱
 رسم پردہ گری جس کے گھر سے چلی
 شہزادی وہی بے ردا ہو گیء
 مر نہ جاے کہیں غم سے بنت علی
