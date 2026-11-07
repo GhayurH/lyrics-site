@@ -58,6 +58,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=859
 # raw_sha256: d45f003b77eed997e5fb5954b701f982b9c90cd44fba78145db6e33cd73cbf54
 ---
+
 شہ نے کہا بیٹے سے اٹھو اکبر جواں
 اٹھ جاؤ دو اذان اللہ اکبر اللہ اکبر
 گونج اٹھی اللہ اکبر کی صدا میدان میں
