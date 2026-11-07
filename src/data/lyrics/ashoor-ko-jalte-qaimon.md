@@ -11,55 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Ashoor ko jalte qaimon may
-  
-  1
   Kya janiye kya kya choot gaya
   Ghabra ke nikal aayi bano
   Baysheer ka jhoola choot gaya
-  
-  2
+
+  1
   Noor aankhon ka akbar le ke gaye
   Nazron may andhera choot gaya
   Yun laash uthayi maula ne
   Barchi may kaleja choot gaya
-  
-  3
+
+  2
   Darya ke kanare mehmani
   Aur band hai kismat se pani
   Ay bahti maujon dekh to lo
   Baysheer bhi pyasa choot gaya
-  
-  4
+
+  3
   Islam ki nazrein dekh to le
   Emaan zara pehchaan to le
   Ye kaun hai bibi kufe may
   Ye kiska parda choot gaya
-  
-  5
+
+  4
   Saahil ke khareeb ghode se gire
   Abbas ko jalti khaak mili
   Shabbir ka daaman chut na saka
   Behta hua darya choot gaya
-  
-  6
+
+  5
   Ye paara paara laasha hai
   Shabbir ka jalti reti par
   Peshani e aalam jhukne ko
   Ya khaak pa kaaba choot gaya
-  
-  7
+
+  6
   Cheh maah ke bache ki himmat
   Anjaam se nazrein takrayi
   Honton par hasi lehrane lagi
   Baysheer ka rona choot gaya
-  
-  8
+
+  7
   Kya le ke gaye kya le jaate
   Bano ko nishani de ke gaye
   Ek khaali jhoola choot gaya
   Ek nanha sa kurta choot gaya
-  
-  9
+
+  8
   Ye fazl hussaini shayar ka
   Shabbir se bad kar koi nahi
   Maula ka bharosa jab se kiya
@@ -70,55 +68,53 @@ romanLyrics: |-
 ---
 
 عاشور کو جلتے خیموں میں
-
-۱
 کیا جانیےء کیا کیا چھوٹ گیا
 گھبرا کے نکل آئ بانو
 بے شیر کا جھولا چھوٹ گیا
 
-۲
+۱
 نور آنکھوں کا اکبر لے کے گےء
 نظروں میں اندھیرا چھوٹ گیا
 یوں ساتھ اٹھای مولا نے
 برچی میں کلیجہ چھوٹ گیا
 
-۳
+۲
 دریا کے کنارے مہمانی
 اور بند ہے قسمت سے پانی
 اے بہتی موجوں دیکھ تو لو
 بے شیر بھی پیاسا چھوٹ گیا
 
-۴
+۳
 اسلام کی نظریں دیکھ تو لے
 ایمان زرا پہچان تو لے
 یہ کون ہے بی بی کوفے میں
 یہ کس کا پردہ چھوٹ گیا
 
-۵
+۴
 ساحل کے قریب گھوڑے سے گرے
 عباس کو جلتی خاک ملی
 شبیر کا دامن چھٹ نہ سکا
 بہتا ہوا دریا چھوٹ گیا
 
-۶
+۵
 یہ پارہ پارہ لاشہ ہے
 شبیر کا جلتی ریتی پر
 پیشانیء عالم جھکنے کو
 یا خاک پہ کعبہ چھوٹ گیا
 
-۷
+۶
 چھ ماہ کے بچے کی ہمت
 انجام سے نظریں ٹکرای
 ہونٹوں پہ ہنسی لہرانے لگی
 بے شیر کا رونا چھوٹ گیا
 
-۸
+۷
 کیا لے کے گےء کیا لے جاتے
 بانو کی نشانی دے کے گےء
 اک خالی جھولا چھوٹ گیا
 اک ننھا سا کرتہ چھوٹ گیا
 
-۹
+۸
 یہ فضل حسینی شاعر کا
 شبیر سے بڑھ کر کوئی نہیں
 مولا کا بھروسہ جب سے کیا
