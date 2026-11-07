@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Jab watan se kooch ki muslim ki tayyari hui
   Khaana e aale abaa may girya o zaari hui
   Dono beton ki jo ruqsat maa se yak baari hui
@@ -20,8 +19,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2700
 # raw_sha256: 8242a39e920eba0eee489d9e3b7d4ff97aebeaa5fff66e34c4be4705cc4fc5b3
 ---
-
-۱
 جب وطن سے کوچ کی مسلم کی تیاری ہوی
 خانۂ آل عبا میں گریہ و زاری ہوی
 دونوں بیٹوں کی جو رخصت ماں سے یک باری ہوی
