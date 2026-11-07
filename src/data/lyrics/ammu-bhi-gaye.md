@@ -12,13 +12,13 @@ published: false
 romanLyrics: |-
   Jis dum jale qayaam e shehenshahe behrobar
   Ek bacchi nikli qaime se us dum barehna sar
-
-  1
   Jalta tha daaman aag se kapde thay khoon mein tar
   Maqtal ki simt rukh kiye jaati thi nauhagar
   Sab ran mein jaa ke reh gaye tanha hamay kiya
   Aada ne cheeni chadarein qaima jala diya
   Ammu bhi gaye baba bhi gaye
+
+  1
   Ta hadd e nazar laashe hai pade
   Baandhe halqa aada hai khade
   Ghar jalta hai zar luta hai
@@ -65,13 +65,13 @@ romanLyrics: |-
 ---
 جس دم جلے قیام شہنشاہِ بحرو بر
 ایک بچی نکلی خیمے سے اس دم برہنہ سر
-
-۱
 جلتا تھا دامن آگ سے کپڑے تھے خوں میں تر
 مقتل کی سمت سرخ کیےء جاتی تھی نوحہ گر
 سب رن میں جا کے رہ گےء تنہا ہمیں کیا
 اعدا نے چھینی چادریں خیمہ جلا دیا
 عمو بھی گےء بابا بھی گےء
+
+۱
 تا حد نظر لاشے ہیں پڑے
 باندھے حلقہ اعدا ہیں کھڑے
 گھر جلتا ہے زر لوٹا ہے
