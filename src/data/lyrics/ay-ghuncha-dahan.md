@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay ghuncha dahan bekas dulha
-  
-  1
   Ay seem badan bekas dulha
   Mujre ke liye aayi hai utho
   Nashaad dulhan bekas dulha
+
+  1
   Dunya se nayi ye shadi hai
   Dono hi taraf barbadi hai
   Shabbir ki beti bewa dulhan
   Aur ibne hassan bekas dulha
-  
+
   2
   Hai khauf mujhe naraaz na ho
   Marzi hai tumhari kya bolo
   Mai haath may ab kangna rakhun
   Ya rakhun rasan bekas dulha
-  
+
   3
   Hum naam hoo mai bhi dadi ki
   Hai tum ko qasm is shaadi ki
   Banwado mujhe bhi rone ko
   Ek bait ul hazan bekas dulha
-  
+
   4
   Tha mujhko tumhare ghar chalne
   Laazim tha tumhe mil kar chalna
   Raste hi may mujhko chod gaye
   Hai door watan bekas dulha
-  
+
   5
   Ye bekhabari mujhse qasim
   Chilte hai mere paonche qasim
   Khulwado ke uljhi jaati hai
   Kangne may rasan bekas dulha
-  
+
   6
   Jao shahe deen ke paas utho
   Aate hai mujhe wiswas utho
   Sab roote hai tum ko keh kar
   Be gor o kafan bekas dulha
-  
+
   7
   Sab kehte hai ab mujhko bewa
   Batlao mujhe ye baat hai kya
   Ye log mujh hi ko kehte thay
   Ek shab ki dulhan bekas dulha
-  
+
   8
   Dunya may ghayoor aisa asla
   Insan ne nahi matam dekha
@@ -68,11 +68,11 @@ romanLyrics: |-
 ---
 
 اے غنچہ دہن بیکس دولہا
-
-۱
 اے سیم بدن بیکس دولہا
 مجرے کے لئے آی ہے اٹھو
 ناشاد دلہن بیکس دولہا
+
+۱
 دنیا سے نیء یہ شادی ہے
 دونوں ہی طرف بربادی ہے
 شبیر کی بیٹی بیوہ دلہن
