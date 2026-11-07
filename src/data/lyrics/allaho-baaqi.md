@@ -14,73 +14,63 @@ romanLyrics: |-
   Ya maalik o ya khaliqo ya batino ya zahiro
   Ya qadiro ya haakimo ya momino ya hadiyo
   Ya awwalo ya aakhiro ya qaaimo al nafi'o
-
-  1
   Allaho qabla kullo shay
   Allaho baa'da kullo shay
   Yeh keh ke hyder ne sajde may rakhi peshani
   Allaho baaqi min kulle faani
 
-  2
+  1
   Rab ka iraada hyder aur uski marzi bhi
   Iske haathon ne goondhi aadam ki matti bhi
   Iske bachon ke naukar jannat ke darzi bhi
   Ya rabbe zuljalaal
-
-  3
   Har jumla hyder ka is misre ka hai saani
+
+  2
   Haathon se marna baante thokar se jeena bhi
   Marhab ke tukde kar de dharti ka seena bhi
-
-  4
   Khud hai manshoore yazdan uski kapeena bhi
   Ya rabbe zuljalaal
   Daawa salooni ka aur phir bhi baat ye maani
 
-  5
+  3
   Khud hi quran e natiq aur khud hi qaari hai
   Iske haathon ki khilqat ye dunya saari hai
   Fuzto be rabbil kaaba ye hamd e baari hai
   Ya rabbe zuljalaal
-
-  6
   Kehdi do lafzon may thi baat badi toolani
+
+  4
   Chalta hai mera sikka arz o samaa par
   Mai to rahunga zinda hukme khuda par
-
-  7
   Mujhpe qaza gir jaye ya mai qaza par
   Ya rabbe zuljalaal
   Ye sunke hyder se dunya ko hui hairani
 
-  8
+  5
   Ek din nusairi bola kyun mujhko maara hai
   Jo kuch aankhon se dekha maine wo bola hai
   Meri sochon ka maalik iske hi jaisa hai
   Ya rabbe zuljalaal
-
-  9
   Ye hamd e baari hai hyder ki qasida khani
+
+  6
   Nafse khuda bhi hyder aur iska pehlu bhi
   Wo hai hijab e akbar wird e allahu bhi
-
-  10
   Maana hai waliyon ne bhi kehte hai saadhu bhi
   Ya rabbe zuljalaal
   Samjha na koi isko baat hai ye irfani
 
-  11
+  7
   Karbobala se poocho is jumle ka matlab
   Sookhe kooze dikhlake kehdenge tashna lab
   Besar laashe bolenge ya phir bibi zainab
   Ya rabbe zuljalaal
-
-  12
   Zere khanjar keh dega karbobala ka baani
+
+  8
   Kulle emaan ki baatein emaan hai mazhar
   Is may hai haami tera irfan e haider
-
-  13
   Ye baatein karte hai hum mimbar pe jaa kar
   Ya rabbe zuljalaal
   Haan ishq e hyder may hyder ki baat hi maani
@@ -92,73 +82,63 @@ romanLyrics: |-
 یا مالک و یا خالق و یا باطن و یا ظاہرو
 یا قادر و یا حاکم و یا مومنو یا ہادی و
 یا اول و یا آخر و یا قایم و النافی و
-
-۱
 اللّٰہ قبلہ کل شیء
 اللّٰہ بعاد کل شیء
 یہ کہکے حیدر نے سجدے میں رکھی پیشانی
 اللّٰہ باقی من کل فانی
 
-۲
+۱
 رب کا ارادہ حیدر اور اسکی مرضی بھی
 اس کے ہاتھوں نے گوندھی آدم کی مٹی بھی
 اس کے بچوں کے نوکر جنت کے درزی بھی
 یا رب ذولجلال
-
-۳
 ہر جملہ حیدر کا اس مصرے کا ہے ثانی
+
+۲
 ہاتھوں سے مرنا بانٹے ٹھوکر سے جینا بھی
 مرحب کے ٹکڑے کر دے دھرتی کا سینہ بھی
-
-۴
 خود ہے منشور یزداں اسکی کپینہ بھی
 یا رب ذولجلال
 دعوہ سلونی کا اور پھر بھی بات یہ مانی
 
-۵
+۳
 خود ہی قرآن ناطق اور خود ہی قاری ہے
 اس کے ہاتھوں کی خلعت یہ دنیا ساری ہے
 فزت و برب الکعبہ یہ حمد باری ہے
 یا رب ذولجلال
-
-۶
 کہہ دو لفظوں میں تھی بات بڑی طولانی
+
+۴
 چلتا ہے میرا سکہ ارض و سماں پر
 میں تو رہوں گی زندہ حکم خدا پر
-
-۷
 مجھ پہ قضاء گر جاے یا میں قضاء پر
 یا رب ذولجلال
 یہ سن کے حیدر سے دنیا کو ہوی حیرانی
 
-۸
+۵
 اک دن نصیری بولا کیوں مجھکو مارا ہے
 جو کچھ آنکھوں سے دیکھا میں نے وہ بولا ہے
 میری سوچوں کا مالک اس کے ہی جیسا ہے
 یا رب ذولجلال
-
-۹
 یہ حمد باری ہے حیدر کی قصیدہ خوانی
+
+۶
 نفس خدا بھی حیدر اور اس کا پہلو بھی
 وہ ہے ہجاب اکبر ورد اللّٰہ بھی
-
-۱۰
 مانا ہے ولیوں نے بھی کہتے ہیں سادھو بھی
 یا رب ذولجلال
 سمجھا نہ کوئی اس کو بات ہے یہ عرفانی
 
-۱۱
+۷
 کربوبلا سے پوچھو اس جملے کا مطلب
 سوکھے کوزے دکھلا کے کہہ دیں گے تشنہ لب
 بے سر لاشے بولیں گے یا پھر بی بی زینب
 یا رب ذولجلال
-
-۱۲
 زیر خنجر کہہ دیگا کربوبلا کا بانی
+
+۸
 کل ایمان کی باتیں ایمان ہے مظہر
 اس میں ہے حامی تیرا عرفانِ حیدر
-
-۱۳
 یہ باتیں کرتے ہیں ہم ممبر پہ جا کر
 یا رب ذولجلال
 ہاں عشقِ حیدر میں حیدر کی بات ہی مانی

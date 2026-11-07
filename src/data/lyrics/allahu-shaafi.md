@@ -11,61 +11,61 @@ aliases: []
 published: false
 romanLyrics: |-
   Allahu shaafi allahu kaafi
-  
-  1
   Sadqe mein maula hussain ke
+
+  1
   Ho koi maraz ya koi bala
   Kaam aayegi bas yehi sada
-  
+
   2
   Veeran thi zameen e karbobala
   Shabbir ka khoon jab is mein mila
   Ye khaak bani phir khaak e shifa
   Is khaak pe wajib hai sajda
   Deta hai sada ye ashoora
-  
+
   3
   Maula ki zamanat mein de ke
   Hum se ye kaha hai maa'on ne
   Hum khalq huwe is gham ke liye
   Shabbir ka matam kar beta
   Jee chaahe jitna khoon baha
-  
+
   4
   Zakhmon se badan sab choor hua
   Lab par na shikayat hai na gila
   Hai dard yahan par misle dawa
   Ye sirf bahatter par hai khula
   Shabbir pe mar jaana hai shifa
-  
+
   5
   Seene mein lagi jis dam barchi
   Maidan mein qaza bhi rone lagi
   Zainab pe qayamat toot gayi
   Akbar ne jigar ko thaam liya
   Behte huwe khoon ne di ye sada
-  
+
   6
   Jis waqt galay par teer laga
   Tha maa ke labon par shukre khuda
   Bano ne dar e qaima se kaha
   Ye teer nikalenge baba
   Ghabrana nahi asghar beta
-  
+
   7
   Halaat ajab thay ghurbat ke
   Rukhsaar thay neele bacchi ke
   Gohar bhi layeen ne cheen liye
   Kaano se lahoo jab behne laga
   Zainab ne sakina se ye kaha
-  
+
   8
   Qurban takallum ho us par
   Sajjad ka tha ye zakhme jigar
   Maa behne phupi thi be-chadar
   Bazaar mein khoon bhi rota raha
   Aur zakhmi labon se kehta raha
-  
+
   9
   Karbala ke baad bhi tum sayyed e sajjad ho
   Doosra hota to keh deta khuda koi nahi
@@ -73,11 +73,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2781
 # raw_sha256: 8cb60367a1513b863af9b77956c3b1dfc6ea48957cf9471b14070a3d1244f4d4
 ---
-
 اللہ شافی اللہ کافی
+صدقے میں مولا حسین کے
 
 ۱
-صدقے میں مولا حسین کے
 ہو کوئی مرض یا کوئی بلا
 کام آئے گی بس یہی صدا
 

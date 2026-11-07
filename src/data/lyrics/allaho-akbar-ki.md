@@ -11,68 +11,66 @@ aliases: []
 published: false
 romanLyrics: |-
   Allah o akbar ki azaan
-  
-  1
   Ye keh rahi hai dasht mein
   Ro ro ke ek maa
-  
-  2
+
+  1
   Haye haye tum na aaye
   Ay meri aankhon ke chain
   Haye wo gham das moharam
   Aur sakina ke wo bain
   Akbar bhi sun ke ro pada
   Behno ki siskiyan
-  
-  3
+
+  2
   Kya jawani kaisa pani
   Tashnagi ki raat thi
   Haye ay rab aakhri shab
   Aansuon ke saath thi
   Ubhri thi haye is tarha
   Ashoor ki azaan
-  
-  4
+
+  3
   Mustafa ke chaand taare
   Shaam tak gehna gaye
   Haye haye phool saare
   Kis tarha murjha gaye
   Yun fatema ke baagh mein
   Aati rahi khiza
-  
-  5
+
+  4
   Haye haye gham uthaye
   Is tarha saadat ne
   Aah o zaari ashk waari
   Ki ghamon ki raat ne
   Jaise jawan laash par
   Baithi hai bibiyan
-  
-  6
+
+  5
   Aisa manzar is zameen par
   Phir nazar aaya nahi
   Naujawan ka yun janaza
   Aise uth'ta hai kahin
   Roti hai aaj ye zameen
   Rota hai aasman
-  
-  7
+
+  6
   Haye akbar bola rokar
   Ye azaan e aakhri
   Sun rahe hai karbala mein
   Aaj jis tarha sabhi
   Sugra bhi kaash sun sake
   Ay mere baba jaan
-  
-  8
+
+  7
   Haye haye sar kataye
   Sab jawan so jayenge
   Dehr chode khaak odhe
   Dasht mein kho jayenge
   Qaayam rahegi hashr tak
   Allah ki azaan
-  
-  9
+
+  8
   Wo muazzim maut ke din
   Gin raha tha ay zafar
   Shaah ka dil kaisi mushkil
@@ -83,14 +81,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2532
 # raw_sha256: ab00ef28557371e0278c41bc9f222d1dee8c916c9af8d7dcf4a188fc2ed8b93c
 ---
-
 اللّٰہ اکبر کی اذاں
-
-۱
 یہ کہہ رہی ہے دشت میں
 رو رو کے ایک ماں
 
-۲
+۱
 ہاے ہاے تم نہ آے
 اے میری آنکھوں کے چین
 ہاے وہ غم دس محرم
@@ -98,7 +93,7 @@ romanLyrics: |-
 اکبر بھی سن کے رو پڑا
 بہنوں کی سسکیاں
 
-۳
+۲
 کیا جوانی کیسا پانی
 تشنگی کی رات تھی
 ہاے اے رب آخری شب
@@ -106,7 +101,7 @@ romanLyrics: |-
 ابھری تھی ہاے اس طرح
 عاشور کی اذاں
 
-۴
+۳
 مصطفیٰ کے چاند تارے
 شام تک گہنا گےء
 ہاے ہاے پھول سارے
@@ -114,7 +109,7 @@ romanLyrics: |-
 یوں فاطمہ کے باغ میں
 آتی رہی خزاں
 
-۵
+۴
 ہاے ہاے غم اٹھاے
 اس طرح سادات نے
 آہ و زاری اشک واری
@@ -122,7 +117,7 @@ romanLyrics: |-
 جیسے جواں لاش پر
 بیٹھی ہے بی بیاں
 
-۶
+۵
 ایسا منظر اس زمین پر
 پھر نظر آیا نہیں
 نوجواں کا یوں جنازہ
@@ -130,7 +125,7 @@ romanLyrics: |-
 روتی ہے آج یہ زمین
 روتا ہے آسماں
 
-۷
+۶
 ہاے اکبر بولا روکر
 یہ اذان آخری
 سن رہے ہیں کربلا میں
@@ -138,7 +133,7 @@ romanLyrics: |-
 صغرا بھی کاش سن سکے
 اے میرے بابا جاں
 
-۸
+۷
 ہاے ہاے سر کٹاے
 سب جوان سو جایینگے
 دہر چھوڑ کے خاک اوڑھے
@@ -146,7 +141,7 @@ romanLyrics: |-
 قیام رہے گی حشر تک
 اللّٰہ کی اذاں
 
-۹
+۸
 وہ معظم موت کے دن
 گن رہا تھا اے ظفر
 شاہ کا دل کیسی مشکل

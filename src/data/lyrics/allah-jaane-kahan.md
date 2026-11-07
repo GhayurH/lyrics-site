@@ -16,10 +16,10 @@ romanLyrics: |-
   Zindan larazta tha sakina ki fughan se
   Allah jaane kahan ho ay baba
   Kitni raatein guzar gayi baba
-
-  1
   Chote se sin mein qaidi e zindan hogayi
   Baba mai kyun na aap pe qurban hogayi
+
+  1
   Dil mein jo mere dard hai khaaliq ke hai ayan
   Kis ko kahoo mai baap mera baap hai kahan
   Tum bekafan mai be-sar o samaan hogayi
@@ -38,26 +38,28 @@ romanLyrics: |-
   Be-jurm kaan zakhmi huwe aur tamache khaye
   Jo chahe mujh falak ki satayi ko phir sataye
   Shehzadi e hussain ki ye shaan hogayi
-  Sadqe gayi batao kahan hai mere padar
 
   5
+  Sadqe gayi batao kahan hai mere padar
   Aaye padar to jaye sakina bhi apne ghar
   Kyun aise zaalimo ki mai mehman hogayi
-  Pothi hoo uski jo ke hai kaunain ka ameer
-  Jisne hazaro qaid se chudwa diye aseer
 
   6
+  Pothi hoo uski jo ke hai kaunain ka ameer
+  Jisne hazaro qaid se chudwa diye aseer
   Ummat nabi ki dekh ke anjaan hogayi
+
+  7
   Jab sar pe shaah-e-deen ke sakina ne ki nazar
   Chillayi roke haye ghazab mar gaye padar
   Baba ke sar ko dekh ke hairan hogayi
 
-  7
+  8
   Moo rakh ke moo pe shaah ke royi jo dil figaar
   Sadma huwa nikalne lagi tan se jaan-e-zaar
   Nanhi si jaan jaan se bejaan hogayi
 
-  8
+  9
   Bas ay anees bazm mein hai girya o buka
   Sadiyon talak rulayega sab ko ye marsiya
   Bali sakina karb ka unwan hogayi
@@ -71,10 +73,10 @@ romanLyrics: |-
 زندان لرزتا تھا سکینہ کی فغاں سے
 اللہ جانے کہاں ہو اے بابا
 کتنی راتیں گزرگئیں بابا
-
-۱
 چھوٹے سے سِن میں قیدیئِ زندان ہو گئی
 بابا میں کیوں نہ آپ پہ قربان ہو گئی
+
+۱
 دل میں جومیرے درد ہے خالق کے ہے عیاں
 کس کو کہوں میں باپ میرا باپ ہے کہاں
 تم بے کفن میں بے سر و سامان ہو گئی
@@ -93,26 +95,28 @@ romanLyrics: |-
 بے جرم کان زخمی ہوئے اور تماچے کھائے
 جو چاہے مجھ فلک کی ستائی کو پھر ستائے
 شہزادیئِ حسین کی یہ شان ہو گئی
-صدقے گئی بتائو کہاں ہیں میرے پدر
 
 ۵
+صدقے گئی بتائو کہاں ہیں میرے پدر
 آئیں پدر تو جائے سکینہ بھی اپنے گھر
 کیوں ایسے ظالموں کی میں مہمان ہو گئی
-پوتی ہوں اُسکی جو کہ ہے کونین کا امیر
-جس نے ہزارو قید سے چھڑوا دیے اسیر
 
 ۶
+پوتی ہوں اُسکی جو کہ ہے کونین کا امیر
+جس نے ہزارو قید سے چھڑوا دیے اسیر
 اُمت نبی کی دیکھ کے انجان ہو گئی
+
+۷
 جب سر پہ شاہِ دیں کے سکینہ نے کی نظر
 چلّائی روکے ہائے غضب مر گئے پدر
 بابا کے سر کو دیکھ کے حیران ہو گئی
 
-۷
+۸
 منہ رکھ کے منہ پہ شاہ کے روئی جو دل فگار
 صدمہ ہوا نکلنے لگی تن سے جانِ زار
 ننھی سی جان جان سے بے جان ہو گئی
 
-۸
+۹
 بس اے انیس بزم میں ہے گریہ و بکا
 صدیوں تلک رُلائے گا سب کو یہ مرثیہ
 بالی سکینہ کرب کا عنوان ہو گئی
