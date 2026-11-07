@@ -15,7 +15,7 @@ romanLyrics: |-
   Dukhtare shabbir hai aur qaid khana shaam ka
   Dard ki tasveer hai aur qaid khana shaam ka
 
-  2
+  1
   Kehte thay sajjad ro kar kaise behlaun mai khwahar
   Ye tera majboor bhai kya sunaye tujhko aa kar
   Paon mein zanjeer hai aur qaid khana shaam ka
@@ -63,7 +63,7 @@ romanLyrics: |-
 دختر شبیر ہے اور قید خانہ شام کا
 درد کی تصویر ہے اور قید خانہ شام کا
 
-۲
+۱
 کہتے تھے سجاد رو کر کیسے بہلاؤں میں خواہر
 یہ تیرا مجبور بھای کیا سناے تجھکو آ کر
 پاؤں میں زنجیر ہے اور قید خانہ شام کا
