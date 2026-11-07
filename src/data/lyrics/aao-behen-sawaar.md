@@ -12,45 +12,42 @@ published: false
 romanLyrics: |-
   Jab aakhri ruqsat ko hussain aaye haram se
   Sab bibiyan lipti shahe waala ke qadam se
-
-  1
   Hazrat ne kaha qat e mohabbat karo hum se
   Jeene ke nahi hum ali akbar ke hai gham se
   Ek baar phir gale se lagao hussain ko
   Aao behen sawaar karao hussain ko
 
-  2
+  1
   Lo aagaya wo waqt ke jaata hai bewatan
   Kurta diya tha jo tumhe amma ne ay bahan
   Usko kafan samajh ke pinhao hussain ko
 
-  3
+  2
   Ay bibi mere nana ka ammama laaiye
   Hum ko abaa e shafa e mehshar pinhaiye
   Maqtal ko jaa raha hai sajao hussain ko
 
-  4
+  3
   Hum aap ko samajhte hai zehra ki yaadgar
   Behna hamein chalani hai baba ki zulfiqar
   Himmat phir ek baar dilao hussain ko
 
-  5
+  4
   Ek din mein mere monis o yawar juda huwe
   Abbas na rahe ali akbar juda huwe
   Ab jee ke kya karega batao hussain ko
 
-  6
+  5
   Dil mera dooba jaata hai beti ko dekh kar
   Hum sar katane jaate hai isko nahi khabar
   Is se na baar baar milao hussain ko
-  Aao behen sawaar karao..
 
-  7
+  6
   Darya ki simt dekh kar kisko bulaati ho
   Kyun behna is ghareeb ke dil ko dukhati ho
   Bhai ke gham mein ab na rulao hussain ko
 
-  8
+  7
   Meesam khayam e shah mein mehshar bapa hua
   Sheh ne raza jo zainab e dilgeer se kaha
   Phir kya khabar ke dekh na pao hussain ko
@@ -60,45 +57,42 @@ romanLyrics: |-
 ---
 جب آخری رخصت کو حسین آے حرم سے
 سب بی بیاں لپٹی شہ والا کے قدم سے
-
-۱
 حضرت نے کہا خط محبت کرو ہم سے
 جینے کے نہیں ہم علی اکبر کے ہے غم سے
 اک بار پھر گلے سے لگاؤ حسین کو
 آؤ بہن سوار کراؤ حسین کو
 
-۲
+۱
 لو آگیا وہ وقت کہ جاتا‌ ہے بیوطن
 کرتہ دیا تھا جو تمہیں اماں نے اے بہن
 اسکو کفن سمجھ کے پہناؤ حسین کو
 
-۳
+۲
 اے بی بی میرے نانا کا عمامہ لایےء
 ہم کو عباے شفاے محشر پہناے
 مقتل کو جا رہا ہے سجاؤ حسین کو
 
-۴
+۳
 ہم آپ کو سمجھتے ہیں زہرا کی یادگار
 بہنا ہمیں چھلنی ہے بابا کی ذوالفقار
 ہمت پھر ایک بار دلاؤ حسین کو
 
-۵
+۴
 اک دن میں میرے مونس و یاور جدا ہوے
 عباس نہ رہے علی اکبر جدا ہوے
 اب جی کے کیا کرے گا بتاؤ حسین کو
 
-۶
+۵
 دل میرا ڈوبا جاتا ہے بیٹی کو دیکھ کر
 ہم سر کٹانے جاتے ہیں اسکو نہیں خبر
 اس سے نہ بار بار ملاؤ حسین کو
-آؤ بہن سوار کراؤ۔۔۔
 
-۷
+۶
 دریا کی سمت دیکھ کر کس کو بلاتی ہوں
 کیوں بہنا اس غریب کے دل کو دکھاتی ہوں
 بھای کے غم میں اب نہ رلاؤ حسین کو
 
-۸
+۷
 میثم قیام شہ میں محشر بپا ہوا
 شہ نے رضا جو زینب دلگیر سے کہا
 پھر کیا خبر کہ دیکھ نہ پاؤ حسین کو
