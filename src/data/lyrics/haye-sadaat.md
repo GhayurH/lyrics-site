@@ -9,81 +9,49 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haaye saadaat haaye saadaat
-
+romanLyrics: |-
   Haaye saadaat ne is dehr me kya kya dekha
-
-
-  1
-
   Apni aankhon ko sadaa khun hi rota dekha
 
+  1
   Jis gharane ne sadaa logon ko khusiyaan baati
-
   Unko khushiyaan na mili gham hi ziyaada dekha
 
-
   2
-
   Wo mohammad ke jo rehmat hain zamaane ke liye
-
   Unki naalain ko bhi khun me duba dekha
 
-
   3
-
   Sabz gumbad ke qareeb marqade zehra hai magar
-
   Baap ne beti ki turbat pe na saayaa dekha
 
-
   4
-
   Rotiyaan maang ke jis dar se farishte jaaye
-
   Eed ke roz bhi un batchon ka faaqaa dekha
 
-
   5
-
   Wo taqi ho ke naqi musiye kaazim ya raza
-
   Sakhtiyaan qaid ki aur zehr ka pyaala dekha
 
-
   6
-
   Pusht pe jis ko bithaate the rasule akram
-
   Us nawaase hi ka sar bar sare neza dekha
 
-
   7
-
   Jis ke baazu the rida zainabe kubra ke liye
-
   Kaise bibi ne use baazu burida dekha
 
-
   8
-
   Subhe aashur dhali shaame gharibaan aayi
-
   Tchaar pehron me qayaamat ko guzarta dekha
 
-
   9
-
   Gir gayi khaak pe gash khaa ke ali ki beti
-
   Putchha sughra ne ke pardes me kya kya dekha
 
-
   10
-
   Ro diye sarwar o rehan jigar thaam ke ham
-
-  Jab azaa khaane me rakhaa huwaa jula dekha'
+  Jab azaa khaane me rakhaa huwaa jula dekha
 # source_id: nohayonline:b1e4b93b870dd97696ca
 # source_url: https://www.nohayonline.com/details_content.php?id=3293
 # raw_sha256: 7ff6cbb56bc913d62a6724a8139b1f5d0973982fa4afe0621b78ffaffacb82e9
@@ -93,9 +61,9 @@ romanLyrics: 'Haaye saadaat haaye saadaat
 ---
 
 ہاے سادات نے اس دہر میں کیا کیا دیکھا
+اپنی آنکھوں کو صدا خون ہی روتا دیکھا
 
 ۱
-اپنی آنکھوں کو صدا خون ہی روتا دیکھا
 جس گھرانے نے صدا لوگوں کو خوشیاں بانٹی
 ان کو خوشیاں نہ ملی غم ہی ذیادہ دیکھا
 
