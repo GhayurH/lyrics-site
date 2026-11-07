@@ -18,33 +18,29 @@ romanLyrics: |-
   Sada e girya ho yaade shahe dilgeer ho
   Fatema zehra ke bachon par bahao aansu
   Aah bhar ke ghame sarwar par bahao aansu
-
-  2
   Wo san e iksat hijri aur bala ka manzar
   Chaar jaanib thay darinde aur wo tanha sarwar
   Yaad e mazloomi e sarwar par bahao aansu
-  Fatema zehra ke bachon par...
+
+  2
   Zaeef kaandhe pe laash tha jawan ka logon
   Aur dile zainab e muztar ka tadapna logon
+  Har nafas ghurbat e sarwar par bahao aansu
 
   3
-  Har nafas ghurbat e sarwar par bahao aansu
-  Fatema zehra ke bachon par...
   Maut ka darr na karo tum ho azadar e hussain
   Tumko deti hai dua azadar e hussain
   Bhool kar khauf e waba sheh par bahao aansu
-
-  4
   Apne maa behno se karta hoo guzarish is dam
   Berida hoke kabhi tum na manana ye gham
   Khastatan saani e zehra par bahao aansu
-  Fatema zehra ke bachon par...
+
+  4
   Ho moharram ko tasavvur mein faqad ho sarwar
   Na siyasat ho zara dil mein faqad ho sarwar
+  Khuloos e dil se shaheedon par bahao aansu
 
   5
-  Khuloos e dil se shaheedon par bahao aansu
-  Fatema zehra ke bachon par...
   Nauha jo tu ne likha aazam jaza o ahsan
   Khatra jo aansu ke nikle hai bane wo marham
   Soch kar zakhmi shahe deen par bahao aansu
@@ -60,33 +56,29 @@ romanLyrics: |-
 صداے گریہ ہو یاد شہ دلگیر ہو
 فاطمہ زہرا کے بچوں پر بہاؤ آنسوں
 آہ بھر کے غم سرور پر بہاؤ آنسوں
-
-۲
 وہ سنہ اکسٹھ ہجری اور بلا کا منظر
 چار جانب تھے درندے اور وہ تنہا سرور
 یاد مظلومیء سرور پر بہاؤ آنسوں
-فاطمہ زہرا کے بچوں پر۔۔۔
+
+۲
 ضعیف کاندھے پہ لاش تھا جواں کا لوگوں
 اور دل زینب مضطر کا تڑپنا لوگوں
+ہر نفس غربت سرور پر بہاؤ آنسوں
 
 ۳
-ہر نفس غربت سرور پر بہاؤ آنسوں
-فاطمہ زہرا کے بچوں پر۔۔۔
 موت کا ڈر نہ کرو تم ہو عزادار حسین
 تم کو دیتی ہے دعا عزادار حسین
 بھول کر خوف وبا شہ پر بہاؤ آنسوں
-
-۴
 اپنے ماں بہنوں سے کرتا ہوں گزارش اس دم
 بے ردا ہوکے کبھی تم نہ منانا یہ غم
 خستہ تن ثانیء زہرا پر بہاؤ آنسوں
-فاطمہ زہرا کے بچوں پر۔۔۔
+
+۴
 ہو محرم کو تصور میں فقط ہو سرور
 نہ سیاست ہو زرا دل میں فقط ہو سرور
+خلوص دل سے شہیدوں پہ بہاؤ آنسوں
 
 ۵
-خلوص دل سے شہیدوں پہ بہاؤ آنسوں
-فاطمہ زہرا کے بچوں پر۔۔۔
 نوحہ جو تونے لکھا اعظم جزا و احساں
 خطرہ جو آنسوں کے نکلے ہیں بنے وہ مرحم
 سوچ کر زخمی شہ دیں پر بہاؤ آنسوں

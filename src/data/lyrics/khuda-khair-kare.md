@@ -19,32 +19,28 @@ romanLyrics: |-
   Karbala hogayi tayyaar khuda khair kare
   Ye qayamat ke hai aasaar khuda khair kare
   Karbala hogayi tayyaar khuda khair kare
-
-  2
   Roz e ashoor hawaon se barasta hai lahoo
   Lut gayi kis ki ye sarkar khuda khair kare
-  Karbala hogayi tayyaar...
+
+  2
   Ye to mumkin hi nahi hai ke jhukade sar ko
   Kya kare saahib e kirdaar khuda khair kare
-
-  3
   Bhai jaate hai khuda haafiz o nasir keh kar
   Behnein kehti hai ye har baar khuda khair kare
-  Karbala hogayi tayyaar...
+
+  3
   Wo jo ghode se gira saath giray mashk o alam
   Na alam hai na alamdaar khuda khair kare
-
-  4
   Kitne sadme hai jo sajjad ko sehne hai abhi
   Bediyan hoti hai tayyaar khuda khair kare
-  Karbala hogayi tayyaar...
+
+  4
   Aaj bhi seeno mein zinda hai hussain ibne ali
   Saara aalam hai azadaar khuda khair kare
-
-  5
   Aane waale yuhin aate rahe rauzon pe sada
   Kam na ho aap ke zawwaar khuda khair kare
-  Karbala hogayi tayyaar...
+
+  5
   Sheh ke matam mein hilal aisi fiza goonj uthi
   Huwe larzaan dar o deewaar khuda khair kare
 # source_id: nohayonline:0110ec24654f76ae10da
@@ -60,31 +56,27 @@ romanLyrics: |-
 کربلا ہو گیء تیار خدا خیر کرے
 یہ قیامت کے ہیں آثار خدا خیر کرے
 کربلا ہوگیء تیار خدا خیر کرے
-
-۲
 روز عاشور ہواؤں سے برستا ہے لہو
 لٹ گیء کس کی یہ سرکار خدا خیر کرے
-کربلا ہو گیء تیار۔۔۔
+
+۲
 یہ تو ممکن ہی نہیں ہے کہ جھکادے سر کو
 کیا کرے صاحب کردار خدا کرے
-
-۳
 بھای جاتے ہیں خدا حافظ و ناصر کہہ کر
 بہنیں کہتی ہے یہ ہر بار خدا خیر کرے
-کربلا ہو گیء تیار۔۔۔
+
+۳
 وہ جو گھوڑے سے گرا ساتھ گرے مشک و الم
 نہ الم ہے نہ علمدار خدا خیر کرے
-
-۴
 کتنے صدمے ہیں جو سجاد کو سہنے ہوں گے
 بیڑیاں ہوتی ہیں تیار خدا خیر کرے
-کربلا ہو گیء تیار۔۔۔
+
+۴
 آج بھی سینوں میں زندہ ہے حسین ابنِ علی
 سارا عالم ہے عزادار خدا خیر کرے
-
-۵
 آنے والے یونہی آتے رہے روضوں پہ صدا
 کم نہ ہو آپ کے زوار خدا خیر کرے
-کربلا ہو گیء تیار۔۔۔
+
+۵
 شہ کے ماتم میں ہلال ایسی فضا گونج اٹھی
 ہوے لرزاں در و دیوار خدا خیر کرے

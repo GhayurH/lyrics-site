@@ -18,33 +18,29 @@ romanLyrics: |-
   Qismat pe karun naaz kabhi sajde mau jaaun
   Har ek azadaar ko ye jaa ke bataun
   Ro ro ke kiya shukre khuda aa gayi zehra
-
-  2
   Paaya hai talab se bhi siwa kaisa karam hai
   Naukar ke bhi naukar pe kiya kaisa karam hai
   Ghar khuld ghareebon ka bana aa gayi zehra
-  Mere ghar mein bicha...
+
+  2
   Mai chashme tasavvur se samaa dekh raha hoo
   Nabiyon ki khatarein bhi yahan dekh raha hoo
+  Taazeem karo ahle wila aa gayi zehra
 
   3
-  Taazeem karo ahle wila aa gayi zehra
-  Mere ghar mein bicha...
   Tanha to nahi aayi hai ghar maadar e shabbir
   Kulsoom sakina bhi hai aur zainab e dilgeer
   Dete hai sada zainul-liba aa gayi zehra
-
-  4
   Purse ke liye aaye yahan sher e khuda bhi
   Akbar bhi hai qasim bhi hassan sabz qaba bhi
   Is waqt sar e farshe aza aa gayi zehra
-  Mere ghar mein bicha...
+
+  4
   Ek marsiya maine jo padha tashna labon ka
   Jab naam sakina ka mere honton pe aaya
+  Bas naam sakina ka suna aa gayi zehra
 
   5
-  Bas naam sakina ka suna aa gayi zehra
-  Mere ghar mein bicha...
   Paigham to dena hai yehi safdar o mazhar
   Matam se na sharmao kabhi farshe aza par
   Purse ke liye ahle aza aa gayi zehra
@@ -60,33 +56,29 @@ romanLyrics: |-
 قسمت پہ کروں ناز کبھی سجدے میں جاؤں
 ہر ایک عزادار کو یہ جا کے بتاؤں
 رو رو کے کیا شکر خدا آ گیء زہرا
-
-۲
 پایا ہے طلب سے بھی سوا کیسا کرم ہے
 نوکر کے بھی نوکر پہ کیا کیسا کرم ہے
 گھر خلد غریبوں کا بنا آ گئ زہرا
-میرے گھر میں بچھا۔۔۔
+
+۲
 میں چشمِ تصور سے سماں دیکھ رہا ہوں
 نبیوں کی خطاریں بھی یہاں دیکھ رہا ہوں
+تعظیم کرو اہلِ ولا آ گیء زہرا
 
 ۳
-تعظیم کرو اہلِ ولا آ گیء زہرا
-میرے گھر میں بچھا۔۔۔
 تنہا تو نہیں آی ہے گھر مادر شبیر
 کلثوم سکینہ بھی ہے اور زینب دلگیر
 دیتے ہیں صدا زین العبا آگیء زہرا
-
-۴
 پرسے کے لئے آے یہاں شیر خدا بھی
 اکبر بھی ہیں قاسم بھی حسن سبز قبا بھی
 اس وقت سر فرش عزا آ گیء زہرا
-میرے گھر میں بچھا۔۔۔
+
+۴
 اک مرثیہ میں نے جو پڑھا تشنہ لبوں کا
 جب نام سکینہ کا میرے ہونٹوں پہ آیا
+بس نام سکینہ کا سنا آ گیء زہرا
 
 ۵
-بس نام سکینہ کا سنا آ گیء زہرا
-میرے گھر میں بچھا۔۔۔
 پیغام تو دینا ہے یہی صفدر و مظہر
 ماتم سے نہ شرماؤ کبھی فرش عزا پر
 پرسے کے لئے اہلِ عزا آ گیء زہرا
