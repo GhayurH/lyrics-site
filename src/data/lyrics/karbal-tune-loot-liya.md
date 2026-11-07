@@ -11,7 +11,6 @@ published: false
 romanLyrics: |-
   Karbal tu ne loot liya ghar zehra ka
   Neher rawan hai aur pyasa ghar zehra ka
-  Karbal tu ne loot liya ghar zehra ka
   
   1
   Aaye tere daaman mein mehman
@@ -94,7 +93,6 @@ romanLyrics: |-
 
 کربل تو نے لوٹ لیا گھر زہرا کا
 نہر رواں ہے اور پیاسا گھر زہرا کا
-کربل تو نے لوٹ لیا گھر زہرا کا
 
 ۱
 آے تیرے دامن میں میہمان
