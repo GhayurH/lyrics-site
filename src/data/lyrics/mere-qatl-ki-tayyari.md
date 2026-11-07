@@ -14,12 +14,12 @@ romanLyrics: |-
   Gird laashon ke akela hai hussain ibne ali
   Ghayr lo maaro isay shor hai lashkar may yehi
   Dekho zakhmi bhi hai pyasa bhi hai taari hai ghashi
-
-  1
   Haye sar peet'ti maidan may aayi zehra
   Maa ko jab dekha shah e deen ne ye ro ro ke kaha
   Teer talwar liye fauj khadi saari hai
   Amma dekho ye mere qatl ki tayyari hai
+
+  1
   Koi talwaar se maare koi maare khanjar
   Bhaala maara hai kisi ne to kisi ne pathar
   Khoon se chehra bhara gurz laga hai sar par
@@ -64,16 +64,17 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1658
 # raw_sha256: 2fa3b9da1326f77851a6e4aafb20e7f95c6d6c1076e0b8b9531ccd4cf5600790
 ---
+
 دن ہے عاشور کا اور عصر کی آی ہے گھڑی
 گرد لاشوں کے اکیلا ہے حسین ابنِ علی
 گھیر لو مارو اسے شور ہے لشکر میں یہی
 دیکھو زخمی بھی ہے پیاسا بھی ہے طاری ہے غشی
-
-۱
 ہاے سر پیٹتی میدان میں آی زہرا
 ماں کو جب دیکھا شہ دیں نے یہ رو رو کے کہا
 تیر تلوار لیےء فوج کھڑی ساری ہے
 اماں دیکھو یہ میرے قتل کی تیاری ہے
+
+۱
 کوی تلوار سے مارے کوئی مارے خنجر
 بھالا مارا ہے کسی نے تو کسی نے پتھر
 خون سے چہرہ بھرا گرز لگا ہے سر پر
