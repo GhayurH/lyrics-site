@@ -1,0 +1,74 @@
+name: Inspect remaining NoHayOnline stanza candidates
+on:
+  push:
+    branches: [feat/import-overlap-reconciliation-2026-11-05]
+    paths: [.github/workflows/nohayonline-next-batch-scan.yml]
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - run: python -m pip install pyyaml
+      - name: Rank unreviewed stanza candidates
+        run: |
+          python - <<'PY'
+          import collections,pathlib,re,subprocess,yaml
+          root=pathlib.Path('src/data/lyrics')
+          old='86c42ac0efc0895558f4680a0a9da65dc67490d3'
+          edited={pathlib.Path(s).stem for s in subprocess.check_output(['git','diff','--name-only',old,'HEAD','--','src/data/lyrics'],text=True).splitlines()}
+          fm=re.compile(r'\A---\n(.*?)\n---\n(.*)\Z',re.S)
+          mark=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
+          shorthand=re.compile(r'(?:\.{2,}|…|۔۔۔)\s*$')
+          def groups(s):
+              result=[[]]
+              for line in s.splitlines():
+                  val=line.strip()
+                  if not val: continue
+                  if mark.fullmatch(val):result.append([])
+                  else:result[-1].append(val)
+              return result
+          def repeat(shorts):
+              counts=collections.Counter(re.sub(r'[\s.۔…]+','',s.casefold()) for s in shorts)
+              return len(shorts),sum(v==1 for v in counts.values()),len(counts)
+          good,bad=[],[]
+          nohay=0
+          for p in root.glob('*.md'):
+              if p.stem in edited:continue
+              text=p.read_text(encoding='utf-8')
+              if '# source_id: nohayonline:' not in text:continue
+              nohay+=1
+              m=fm.fullmatch(text)
+              if not m:continue
+              try:obj=yaml.safe_load(m[1])
+              except Exception:continue
+              if not isinstance(obj,dict) or not isinstance(obj.get('romanLyrics'),str):continue
+              R,U=groups(obj['romanLyrics']),groups(m[2])
+              rs=[v for g in R for v in g if shorthand.search(v)]
+              us=[v for g in U for v in g if shorthand.search(v)]
+              r_count,r_unique,r_types=repeat(rs)
+              u_count,u_unique,u_types=repeat(us)
+              r0=[len(g) for g in R]
+              u0=[len(g) for g in U]
+              cr=[[v for v in g if not shorthand.search(v)] for g in R]
+              cu=[[v for v in g if not shorthand.search(v)] for g in U]
+              aligned=(len(R)==len(U) and [len(g) for g in cr]==[len(g) for g in cu])
+              safe=(aligned and r_count>=3 and u_count>=3 and r_unique==u_unique==0
+                    and len(R)>=5 and sum(len(g) for g in R[:2])>=3
+                    and all(len(g)>=2 for g in cr[2:]) and all(len(g)>=2 for g in cu[2:]))
+              score=(min(r_count,u_count)*1.5+min(len(R),len(U))*.7+(4 if R[0] else 0)+min(10,abs(len(R)-len(U))*3))
+              if safe:good.append((score,p.stem,r0,u0,r_count,u_count,rs[:2],us[:2]))
+              elif r_count>=3 or u_count>=3:
+                  bad.append((score,p.stem,r0,u0,r_count,u_count,r_unique,u_unique))
+          good.sort(reverse=True)
+          bad.sort(reverse=True)
+          print('UNREVIEWED_NOHAY',nohay,'SAFE_CANDIDATES',len(good),'HARD_CANDIDATES',len(bad))
+          for n,(sc,s,R,U,rc,uc,re,ue) in enumerate(good[:180],1):
+              print(f'GOOD {n:03d} {s} score={sc:.1f} R={R} U={U} repeats={rc}/{uc} examples={re}/{ue}')
+          for n,(sc,s,R,U,rc,uc,ru,uu) in enumerate(bad[:35],1):
+              print(f'HARD {n:03d} {s} score={sc:.1f} R={R} U={U} abbrev={rc}/{uc} unique={ru}/{uu}')
+          PY
