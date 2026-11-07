@@ -12,38 +12,37 @@ published: false
 romanLyrics: |-
   Baba ko mere chod ke aaye ho tum kahan
   Zainab lipat ke bhai ke karti thi ye bayan
-  Baba ko mere chod ke aaye ho tum kahan
-  
+
   1
   Dekho to aaj arshe mualla udaas hai
   Kaaba khamosh hai to madina udaas hai
   Sakte mein hai namaz musalla udaas hai
   Hai zalzala zameen ko larzan hai aasman
-  
+
   2
   Ab apne waaste hai har ek gham har ek sitam
   Mai jaanti hoo ranj o alam mein har ek qadam
   Poori tarha se hogaye ab to yateem hum
   Nana hai ab na baap ka saaya hai aur na maa
-  
+
   3
   Andher hai jahan ujaala koi nahi
   Chaayi wo raat jiska savera koi nahi
   Hum bekason ka poochne waala koi nahi
   Ab tang hai zameen to hai door aasman
-  
+
   4
   Waqt e akheer karte thay baba wasiyatein
   Khushiyan tamaam hogayi ab hai musibatein
   Zainab hai tere waaste har gaam zehmatein
   Har ek qadam pa ab tujhe dena hai imtihan
-  
+
   5
   Barbaad hoga zulm ki aandhi mein ye chaman
   Zehr e dagha se qatl kiya jayega hassan
   Ghodon se tukde hoyega shabbir ka badan
   Beti bandhegi baazuon mein tere reesma
-  
+
   6
   Peeto saron ko doston jab tak hayaat hai
   Ahsan lahoo mein doobi hui kayenaat hai
@@ -56,7 +55,6 @@ romanLyrics: |-
 
 بابا کو میرے چھوڑ کے آے ہو تم کہاں
 زینب لپٹ کے بھائی کے کرتی تھی یہ بیاں
-بابا کو میرے چھوڑ کے آے ہو تم کہاں
 
 ۱
 دیکھو تو آج عرش معلیٰ اداس ہے
