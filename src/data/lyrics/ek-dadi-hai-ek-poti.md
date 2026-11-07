@@ -13,9 +13,10 @@ romanLyrics: |-
   Dono ki ajab hai mazloomi
   Ek dadi hai ek poti hai
 
-  1
   Ek dukhtare sheh hai
   Ek binte nabi
+
+  1
   Dadi bhi bhare darbar gayi
   Poti bhi sare bazaar gayi
   Dono ko mili hai mehroomi
@@ -66,9 +67,10 @@ romanLyrics: |-
 دونوں کی عجب ہے مظلومیت
 اک دادی ہے اک پوتی ہے
 
-۱
 اک دختر شہ ہے
 اک بنت نبی
+
+۱
 دادی بھی بھرے دربار گیء
 پوتی بھی سر بازار گیء
 دونوں کو ملی ہے محرومی
