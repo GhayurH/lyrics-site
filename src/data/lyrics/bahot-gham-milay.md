@@ -14,64 +14,63 @@ romanLyrics: |-
   Zindan mein baba ka sar jo mila
   Bali sakina ne nauha kiya
   Pardes mein hogayi be-amaan
-  Bahot gham milay baba jaan
-  
+
   1
   Kya kya na dhaaye sitam ashkiyan ne
   Khaati rahi bibiyan taaziyane
   Thi ek rasan aur baara galay
   Mai khad mein choti sab thay bade
   Ghuton pe meelon chali bibiyan
-  
+
   2
   Shaam e ghariban ka ghamnaak manzar
   Qaime hamare thay sholon ki zad par
   Bistar jala bhai sajjad ka
   Gehwara e bezaban bhi jala
   Manzar tha wo al hafeez o amaan
-  
+
   3
   Jab ban mein aayi gyara moharram
   Baba tha mujh par aseeri ka aalam
   Phir mere dil par sitam ye hua
   Naize pe sar aap ka aa gaya
   Aankhon se khoone jigar tha rawan
-  
+
   4
   Mujhko tamache sitamgar ne maare
   Sajjad khaata raha taaziyane
   Tishna labi aur safar ki thakan
   Karte bhi kya dono bhai behan
   Dete rahe sabr ka imtehan
-  
+
   5
   Phir kaan zakhmi kurta jala tha
   Chaale zuban par sookha gala tha
   Soti to sone na dete zara
   Royi to rone pe pehra laga
   Mujh par hui hai badi sakhtiyan
-  
+
   6
   Tha ye taqaza unki wafa ka
   Gham mujhse poocho mere chacha ka
   Dekhe jo phupiyon ke sar berida
   Naize se ammu ka sar gir gaya
   Hai yaad wo shor e aah o fughan
-  
+
   7
   Haa mere baba hai yaad ab bhi
   Jab pushte naaqa se mai gir gayi thi
   Tumse bichad kar mai soti na thi
   Aaghosh e zehra mein neend aagayi
   Baad uske phir neend aayi kahan
-  
+
   8
   Balon pe mere jo hai safedi
   Gham ki fazayein dekhi hai aisi
   Nauhon ka kamsin saheefa hoo mai
   Ek chaar saala zaeefa hoo mai
   Kham hai kamar meri misle kamaan
-  
+
   9
   Nauha jo likha hameed abidi ne
   Likhwaya shabbir ki laadli ne
@@ -87,7 +86,6 @@ romanLyrics: |-
 زندان میں بابا کا سر جو ملا
 بالی سکینہ نے نوحہ کیا
 پردیس میں ہوگیءبے امان
-بہت غم ملے بابا جاں
 
 ۱
 کیا کیا نہ ڈھاے ستم اشقیاء نے
