@@ -9,58 +9,37 @@ poet: "Mir Takallum"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ek nanhi si lehad ran may banate hai hussain
-
-
-  1
-
+romanLyrics: |-
+  Ek nanhi si lehad ran may banate hai hussain
   Khaak may doosre mohsin ko chupate hai hussain
 
+  1
   Daalte jaate hai asghar ke badan par mitti
-
   Aur qaimo ki taraf dekhte jaate hai hussain
 
-
   2
-
   Marte dam nanhe se haathon ne jise thaama tha
-
   Ab wo daaman ali asghar se churate hai hussain
 
-
   3
-
   Laashe hurr ne kaha rumaal ye dedo jaa kar
-
   Zakhm baysheer ka haathon se chupate hai hussain
 
-
   4
-
   Dhoondne aayenge is laash ko naiza bardaar
-
   Chup ke bano se ye zainab ko batate hai hussain
 
-
   5
-
   Kaha sughra ne ke mar kar to miloongi sheh se
-
   Mujhko maloom hai har qabr may aate hai hussain
 
-
   6
-
   Laashe abbas pa kehti thi ye zehra roke
-
   Utho abbas tumhe kabse bulaate hai hussain
 
-
   7
-
   Koi zainab ko bula laaye takallum jaa kar
-
-  Barchi akbar ke kaleje se churate hai hussain'
+  Barchi akbar ke kaleje se churate hai hussain
 reciter: Meer Hasan Meer
 # source_id: nohayonline:91834567a66be35f20b9
 # source_url: https://www.nohayonline.com/details_content.php?id=195
@@ -78,20 +57,20 @@ reciter: Meer Hasan Meer
 اور خیموں کی طرف دیکھتے جاتے ہیں حسینؑ
 
 ۲
-لاشِ حُرؑ نے کہا رومال یہ دے دو جا کر
-زخم بے شیر کا ہاتھوں سے چُھپاتے ہیں حسینؑ
-
-۳
 مرتے دم ننھے سے ہاتھوں نے جسے تھاما تھا
 اب وہ دامن علی اصغرؑ سے چُھراتے ہیں حسینؑ
 
-۴
-کہا صغریٰؑ نے کہ مرکر مِلوں گی شہہؑ سے
-مجھ کو معلوم ہے ہر قبر میں آتے ہیں حسینؑ
+۳
+لاشِ حُرؑ نے کہا رومال یہ دے دو جا کر
+زخم بے شیر کا ہاتھوں سے چُھپاتے ہیں حسینؑ
 
-۵
+۴
 ڈھونڈنے آئیں گے اِس لاش کو نیزہ بردار
 چُھپ کے بانوؑ سے یہ زینبؑ کو بتاتے ہیں حسینؑ
+
+۵
+کہا صغریٰؑ نے کہ مرکر مِلوں گی شہہؑ سے
+مجھ کو معلوم ہے ہر قبر میں آتے ہیں حسینؑ
 
 ۶
 لاشِ عباسؑ پَہ کہتی تھیں یہ زہرہؑ رو کے
