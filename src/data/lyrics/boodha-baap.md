@@ -14,13 +14,13 @@ romanLyrics: |-
   Aur dam jawan bete ka jab saamne nikla
   Sar ko jhuka ke khaak pe baithe mere maula
   Zaanu pe apne laal ka sar shaah ne rakha
-
-  1
   Moo choomte thay bete ka aur karte thay girya
   Tha sayyed e mazloom ka waiz yehi nauha
   Ay mere laal ay mere laal
   Maqtal mein shaahe waala kehte thay ye ro kar ay mere laal
   Tujh bin tera boodha baap jiyega kyun kar ay mere laal
+
+  1
   Mai hoon tanha meri tanhaai pe taras khao akbar
   Ghurbat mein is tarha mujhko chod ke na jao akbar
   Charon taraf se ghere hai mujhko zulm ka lashkar ay mere laal
@@ -58,17 +58,18 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3703
 # raw_sha256: 0c7a39d296b0d2338acc5eae2c8e6a3ab2a0fc7350576e6a3cf766cf5596abfb
 ---
+
 برچھی کی انی کھینچ چکے جب شہ والا
 اور دم جواں بیٹے کا جب سامنے نکلا
 سر کو جھکا کے خاک پہ بیٹھے میرے مولا
 زانوں پہ اپنے لال کا سر شاہ نے رکھا
-
-۱
 منہ چومتے تھے بیٹے کا اور کرتے تھے گریہ
 تھا سید مظلوم کا وایض یہی نوحہ
 اے میرے لال اے میرے لال
 مقتل میں شاہ والا کہتے تھے یہ رو کر اے میرے لال
 تجھ بن تیرا بوڑھا باپ جیےء گا کیوں کر اے میرے لال
+
+۱
 میں ہوں تنہا میری تنہائی پہ ترس کھاؤ اکبر
 غربت میں اس طرح مجھکو چھوڑ کے نہ جاؤ اکبر
 چاروں طرف سے گھیرے ہیں مجھکو ظلم کا لشکر اے میرے لال
