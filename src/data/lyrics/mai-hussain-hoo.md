@@ -9,63 +9,53 @@ poet: "Raza Sirsvi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Goonji ba waqt asr sada mai hussain hoo
-
+romanLyrics: |-
+  Goonji ba waqt asr sada mai hussain hoo
   Kaato na mera khusk gala mai hussain hoo
 
+  1
   Sookhi hui hai shimr mere halq ki ragein
-
   Aahista tu churi chala mai hussain hoo
 
-  Goonji ba waqte asr...
+  2
+  Sheeren ke ghar pe pahuncha jab raando ka khafila
+  Naize se ek sar ne kaha mai hussain hoo
 
+  3
   Amma kisi ne pani ki ek boondh bhi na di
-
   Mai baar baar kehta raha mai hussain hoo
 
-  Goonji ba waqte asr...
-
-  Kat''ta hua gala mera dekha na jayega
-
+  4
+  Kat'ta hua gala mera dekha na jayega
   Nana mai hoo nawasa tera mai hussain hoo
 
-  Goonji ba waqte asr...
-
+  5
   Be bazuon ki laash tadap kar ulat gayi
-
   Aayi furaat par jo sada mai hussain hoo
 
-  Goonji ba waqte asr...
-
+  6
   Zaanu pe rakh ke sar ko kaha ek zayeef ne
-
   Akbar kahan hai dard bata mai hussain hoo
 
-  Goonji ba waqte asr...
-
+  7
   Ay shamiyon kafan na diya mujhko gham nahi
-
   Dedo meri behan ko rida mai hussain hoo
 
-  Goonji ba waqte asr...
+  8
+  Mehsoos ho raha hai ke maqtal se aaj bhi
+  Awaaz aa rahi hai raza mai hussain hoo
 
+  9
   Darbar may layeen ke kohraam mach gaya
-
   Mukhtar se jo sar ne kaha mai hussain hoo
 
-  Goonji ba waqte asr...
-
+  10
   Mehsoos ab bhi hota hai ye zaaireen ko
-
   Rauze se aa rahi hai sada mai hussain hoo
 
-  Goonji ba waqte asr...
-
+  11
   Aisa laga raza ke shanawar se fatema
-
   Kehti hai baar baar suna mai hussain hoo
-
-  Goonji ba waqte asr...'
 # source_id: nohayonline:ca4e2d33ac6562b2ad92
 # source_url: https://www.nohayonline.com/details_content.php?id=318
 # raw_sha256: f22eaa50e5a8d57c25f10509eab3348a8acbe54dfeb43438664c3d9ebcf1de20
@@ -76,9 +66,9 @@ romanLyrics: 'Goonji ba waqt asr sada mai hussain hoo
 ---
 
 گونجی بوقتِ عصر صدا میں حسین ہوں
+کاٹونہ میرا خشک گلہ میں حسین ہوں
 
 ۱
-کاٹونہ میرا خشک گلہ میں حسین ہوں
 سوکھی ہوئی ہیں شمر میرے حلق کی رگیں
 آہستہ تو چھری کو چلا میں حسین ہوں
 
