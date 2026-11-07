@@ -19,7 +19,7 @@ romanLyrics: |-
   Bheedh hai bazariyon ki
   Saj raha darbar hai shaam ka bazaar hai
 
-  3
+  2
   Kaise guzregi ali ki betiyan bazaar se
   Sang baari ho rahi hai raasta dushwaar hai
   Bheed hai bazariyon ki saj raha darbar hai
@@ -56,7 +56,7 @@ romanLyrics: |-
 بھیڑ ہے بازاریوں کی
 سج رہا دربار ہے شام کا بازار ہے
 
-۳
+۲
 کیسے گزرے گی علی کی بیٹیاں بازار سے
 سنگ باری ہو رہی ہے راستہ دشوار ہے
 بھیڑ ہے بازاریوں کی سج رہا دربار ہے
