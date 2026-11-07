@@ -10,7 +10,7 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dare zindan pe sakina yehi karti thi buka
+Dare zindan pe sakina yehi karti thi buka
   Shaam hone ko hai ab laut ke aao baba
 
   1
@@ -32,50 +32,55 @@ romanLyrics: |-
   5
   Maa ki aagosh mein kis tarha usay neendh aaye
   Baap ke seene pe soti rahi bachi jo sada
+
+  6
   Kis tarha dil ko mai behlaun ghuta jaata hai dam
   Hai na nanhe mere saathi hai na ammu baba
 
-  6
+  7
   Iska daaman bhi jala kaano se durr cheen liye
   Pusht par neele thay aur kaano mein bhi khoon tha jama
 
-  7
+  8
   Rote rote yuhin ek shab jo zara aankh lagi
   Chaunk kar uthi sakina yehi madar se kaha
 
-  8
+  9
   Shor ye sunke utha neendh se badaqt yazeed
   Bola zindan mein lejao sare shaahe huda
+
+  10
   Sab ne bad bad ke salaami shahe mazloom ko di
   Godh mein leke sare shaah sakina ne kaha
 
-  9
+  11
   Aap ke baad mujhe shimr ne maare durre
   Baad baba tere kya kya na sitam humne saha
 
-  10
+  12
   Wo mujhe lene ko aaye hai mai sadqe unke
   Baba ke saath mai jaungi hui poori dua
 
-  11
+  13
   Bolte bolte khamosh hui jab bibi
   Roke bano ne kaha dekho to sajjad zara
 
-  12
+  14
   Kya hua baat nahi karti hai mazloom meri
   Paas abid jo gaye dekha ke sadma hai naya
 
-  13
+  15
   Hatkadi pehne hue khodi lehad abid ne
   Khoon bhara kurta kafan bangaya shehzadi ka
 
-  14
+  16
   Nauha aijaz o hasan ka ye padha ahsan ne
   Aap bulwaiye rauze pe kare izn ata
 # source_id: nohayonline:6027d5597bc7c14659b6
 # source_url: https://www.nohayonline.com/details_content.php?id=857
 # raw_sha256: f18d29662276d74dac6c99fae948a04e1a1af6e21a6519ca235dc692936ea453
 ---
+
 در زنداں پہ سکینہ یہی کرتی تھی بکا
 شام ہونے کو ہے اب لوٹ کے آؤ بابا
 
@@ -98,43 +103,47 @@ romanLyrics: |-
 ۵
 ماں کی آغوش میں کس طرح اسے نیند آے
 باپ کے سینے پہ سوتی رہی بچی جو صدا
+
+۶
 کس طرح دل کو میں بہلاؤں گھٹا جاتا ہے دم
 ہے نہ ننھے میرے ساتھی ہے نہ عمو بابا
 
-۶
+۷
 اس کا دامن بھی جلا کانوں سے در چھین لیے
 پشت پر نیلے تھے اور کانوں میں بھی خوں تھا جما
 
-۷
+۸
 روتے روتے یونہی اک شب جو زرا آنکھ لگی
 چونک کر اٹھی سکینہ جو یہی مادر سے کہا
 
-۸
+۹
 شور یہ سن کے اٹھا نیند سے بد بخت یزید
 بولا زندان میں لے جاؤ سر شاہ ہدا
+
+۱۰
 سب نے بڑھ بڑھ کے سلامی شہ مظلوم کو دی
 گود میں لیکے سر شاہ سکینہ نے کہا
 
-۹
+۱۱
 آپ کے بعد مجھے شمر نے مارے درے
 بعد بابا تیرے کیا کیا نہ ستم ہم نے سہا
 
-۱۰
+۱۲
 وہ مجھے لینے کو آے ہیں میں صدقے ان کے
 بابا کے ساتھ میں جاؤنگی ہوی پوری دعا
 
-۱۱
+۱۳
 بولتے بولتے خاموش ہوی جب بی بی
 روکے بانو نے کہا دیکھو تو سجاد زرا
 
-۱۲
+۱۴
 کیا ہوا بات نہیں کرتی ہے مظلوم میری
 پاس عابد جو گےء دیکھا کہ صدمہ ہے نیا
 
-۱۳
+۱۵
 ہتھکڑی پہنے ہوئے کھودی لحد عابد نے
 خوں بھرا کرتا کفن بن گیا شہزادی کا
 
-۱۴
+۱۶
 نوحہ اعجاز و حسن کا یہ پڑھا احسن نے
 آپ بلوایے روضے پہ کریں اذن عطا
