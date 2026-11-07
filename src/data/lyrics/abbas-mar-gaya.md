@@ -28,28 +28,24 @@ romanLyrics: |-
   Abbas mar gaya
 
   3
-  Rote hue hussain ne…
   Behta tha khoon aankh mein paywast teer tha
   Manzar tha dard ka
   Zainab hamare bhai pe itni hui jafa
 
   4
   Abbas mar gaya
-  Rote hue hussain ne…
   Har khatra aab ka usay pyara tha jaan se
   Maqtal mein is liye
 
   5
   Lagte hi teer mashk pe pani juhin baha
   Abbas mar gaya
-  Rote hue hussain ne…
   Boli sakina bachon ke honton pe pyas hai
 
   6
   Mujhse hi aas hai
   Mai unko kis tarha se bataun mera chacha
   Abbas mar gaya
-  Rote hue hussain ne…
 
   7
   Akbar kahan ho baap ko aa kar sambhaal lo
@@ -58,28 +54,24 @@ romanLyrics: |-
   Abbas mar gaya
 
   8
-  Rote hue hussain ne…
   Ab baade asr kaun hai qaimon ka paasban
   Mehshar ka hai samaa
   Ghabrayi binte fatema jab shor ye utha
 
   9
   Abbas mar gaya
-  Rote hue hussain ne…
   Sarwar ki baat kaise bhala taal'ta jari
   Khaahish thi shaah ki
 
   10
   Par bhai kehke hogaya khamosh bawafa
   Abbas mar gaya
-  Rote hue hussain ne…
   Izhaar ho ke ghamzada farmate thay hussain
 
   11
   Loota gaya hai chain
   Ab andhiyon ki zad pe hai zainab teri rida
   Abbas mar gaya
-  Rote hue hussain ne…
 # source_id: nohayonline:83ee52003c984e1d27c6
 # source_url: https://www.nohayonline.com/details_content.php?id=1127
 # raw_sha256: f7e85795f2f2d9d5b031921bb8d6a32df6c8e70ad7e403ad8289777f409184e1
@@ -102,28 +94,24 @@ romanLyrics: |-
 عباس مرگیا
 
 ۳
-روتے ہوئے حسین نے۔۔۔
 بہتا تھا خون آنکھ میں پیوست تیر تھا
 منظر تھا درد کا
 زینب ہمارے بھائی پہ اتنی ہوئی جفا
 
 ۴
 عباس مرگیا
-روتے ہوئے حسین نے۔۔۔
 ہر قطرہ آب کا اُسے پیارا تھا جان سے
 مقتل میں اس لئے
 
 ۵
 لگتے ہی تیر مشک پہ پانی جونہی بہا
 عباس مرگیا
-روتے ہوئے حسین نے۔۔۔
 بولی سکینہ بچوں کے ہونٹوں پہ پیاس ہے
 
 ۶
 مجھ سے ہی آس ہے
 میں ان کو کس طرح سے بتاؤں میرا چچا
 عباس مرگیا
-روتے ہوئے حسین نے۔۔۔
 
 ۷
 اکبر کہاں ہو باپ کو آکر سنبھال لو
@@ -132,25 +120,21 @@ romanLyrics: |-
 عباس مرگیا
 
 ۸
-روتے ہوئے حسین نے۔۔۔
 اب بعدِ عصر کون ہے خیموں کا پاسباں
 محشر کا ہے سماں
 گھبرائی بنتِ فاطمہ جب شور یہ اٹھا
 
 ۹
 عباس مرگیا
-روتے ہوئے حسین نے۔۔۔
 سرور کی بات کیسے بھلا ٹالتا جری
 خواہش تھی شاہ کی
 
 ۱۰
 پر بھائی کہہ کے ہو گیا خاموش باوفا
 عباس مرگیا
-روتے ہوئے حسین نے۔۔۔
 اظہارؔ ہو کے غمزدہ فرماتے تھے حُسین
 
 ۱۱
 لُوٹا گیا ہے چَین
 اب آندھیوں کی زَد پہ ہے زینب تیری ردا
 عباس مرگیا
-روتے ہوئے حسین نے۔۔۔

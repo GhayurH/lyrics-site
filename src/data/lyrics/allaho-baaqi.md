@@ -29,7 +29,6 @@ romanLyrics: |-
 
   3
   Har jumla hyder ka is misre ka hai saani
-  Allaho baaqi min kulle...
   Haathon se marna baante thokar se jeena bhi
   Marhab ke tukde kar de dharti ka seena bhi
 
@@ -37,7 +36,6 @@ romanLyrics: |-
   Khud hai manshoore yazdan uski kapeena bhi
   Ya rabbe zuljalaal
   Daawa salooni ka aur phir bhi baat ye maani
-  Allaho baaqi min kulle...
 
   5
   Khud hi quran e natiq aur khud hi qaari hai
@@ -47,7 +45,6 @@ romanLyrics: |-
 
   6
   Kehdi do lafzon may thi baat badi toolani
-  Allaho baaqi min kulle...
   Chalta hai mera sikka arz o samaa par
   Mai to rahunga zinda hukme khuda par
 
@@ -55,7 +52,6 @@ romanLyrics: |-
   Mujhpe qaza gir jaye ya mai qaza par
   Ya rabbe zuljalaal
   Ye sunke hyder se dunya ko hui hairani
-  Allaho baaqi min kulle...
 
   8
   Ek din nusairi bola kyun mujhko maara hai
@@ -65,7 +61,6 @@ romanLyrics: |-
 
   9
   Ye hamd e baari hai hyder ki qasida khani
-  Allaho baaqi min kulle...
   Nafse khuda bhi hyder aur iska pehlu bhi
   Wo hai hijab e akbar wird e allahu bhi
 
@@ -73,7 +68,6 @@ romanLyrics: |-
   Maana hai waliyon ne bhi kehte hai saadhu bhi
   Ya rabbe zuljalaal
   Samjha na koi isko baat hai ye irfani
-  Allaho baaqi min kulle...
 
   11
   Karbobala se poocho is jumle ka matlab
@@ -83,7 +77,6 @@ romanLyrics: |-
 
   12
   Zere khanjar keh dega karbobala ka baani
-  Allaho baaqi min kulle...
   Kulle emaan ki baatein emaan hai mazhar
   Is may hai haami tera irfan e haider
 
@@ -91,7 +84,6 @@ romanLyrics: |-
   Ye baatein karte hai hum mimbar pe jaa kar
   Ya rabbe zuljalaal
   Haan ishq e hyder may hyder ki baat hi maani
-  Allaho baaqi min kulle...
 # source_id: nohayonline:cc48af2388c4e10bbe38
 # source_url: https://www.nohayonline.com/details_content.php?id=2219
 # raw_sha256: 657293304fc108a13ef7b96e2589f1d1f25172dec444ce393ac767fd82e688c3
@@ -115,7 +107,6 @@ romanLyrics: |-
 
 ۳
 ہر جملہ حیدر کا اس مصرے کا ہے ثانی
-اللّٰہ باقی من کل۔۔۔
 ہاتھوں سے مرنا بانٹے ٹھوکر سے جینا بھی
 مرحب کے ٹکڑے کر دے دھرتی کا سینہ بھی
 
@@ -123,7 +114,6 @@ romanLyrics: |-
 خود ہے منشور یزداں اسکی کپینہ بھی
 یا رب ذولجلال
 دعوہ سلونی کا اور پھر بھی بات یہ مانی
-اللّٰہ باقی من کل۔۔۔
 
 ۵
 خود ہی قرآن ناطق اور خود ہی قاری ہے
@@ -133,7 +123,6 @@ romanLyrics: |-
 
 ۶
 کہہ دو لفظوں میں تھی بات بڑی طولانی
-اللّٰہ باقی من کل۔۔۔
 چلتا ہے میرا سکہ ارض و سماں پر
 میں تو رہوں گی زندہ حکم خدا پر
 
@@ -141,7 +130,6 @@ romanLyrics: |-
 مجھ پہ قضاء گر جاے یا میں قضاء پر
 یا رب ذولجلال
 یہ سن کے حیدر سے دنیا کو ہوی حیرانی
-اللّٰہ باقی من کل۔۔۔
 
 ۸
 اک دن نصیری بولا کیوں مجھکو مارا ہے
@@ -151,7 +139,6 @@ romanLyrics: |-
 
 ۹
 یہ حمد باری ہے حیدر کی قصیدہ خوانی
-اللّٰہ باقی من کل۔۔۔
 نفس خدا بھی حیدر اور اس کا پہلو بھی
 وہ ہے ہجاب اکبر ورد اللّٰہ بھی
 
@@ -159,7 +146,6 @@ romanLyrics: |-
 مانا ہے ولیوں نے بھی کہتے ہیں سادھو بھی
 یا رب ذولجلال
 سمجھا نہ کوئی اس کو بات ہے یہ عرفانی
-اللّٰہ باقی من کل۔۔۔
 
 ۱۱
 کربوبلا سے پوچھو اس جملے کا مطلب
@@ -169,7 +155,6 @@ romanLyrics: |-
 
 ۱۲
 زیر خنجر کہہ دیگا کربوبلا کا بانی
-اللّٰہ باقی من کل۔۔۔
 کل ایمان کی باتیں ایمان ہے مظہر
 اس میں ہے حامی تیرا عرفانِ حیدر
 
@@ -177,4 +162,3 @@ romanLyrics: |-
 یہ باتیں کرتے ہیں ہم ممبر پہ جا کر
 یا رب ذولجلال
 ہاں عشقِ حیدر میں حیدر کی بات ہی مانی
-اللّٰہ باقی من کل۔۔۔

@@ -30,14 +30,12 @@ romanLyrics: |-
   3
   Mera yakeen dekh mera aetbaar dekh
   Mai kitna mutmain hoo idhar ek baar dekh
-  Khanjar khareeb…
   Pyasa hoo teen roz ka zakhmo se choor hoo
 
   4
   Ya rab gawah rahiyo ke mai bekasoor hoo
   Cheh maah ho gaye ke watan se bhi door hoo
   Ab teri bargaah mein tere huzoor hoo
-  Khanjar khareeb…
 
   5
   Ek qalb-e-natawan pe bahattar ka daagh hai
@@ -46,28 +44,24 @@ romanLyrics: |-
   Lagna abhi luti huvi chadar ka daagh hai
 
   6
-  Khanjar khareeb…
   Ye keh ke jo khamosh huwe sibte payambar
   Dekha ke sarhane hai khadi maadar-e-muztar
   Shehzadi ke sar par hai padi khaak ki chadar
 
   7
   Kehti hai wo sar godh mein shabbir ka lekar
-  Khanjar khareeb…
   Mazloom ki imdad ko aata nahi koi
   Pani bhi dame marg pilata nahi koi
 
   8
   Zakhmo mein lagi khaak chudata nahi koi
   Haye haye mere bache ko bachata nahi koi
-  Khanjar khareeb…
   Hyder se kaha zehra ne khauf aata hai saheb
 
   9
   Maa hoo mera dil dard se tharrata hai saheb
   Ye dekhiye dunya se pisar jaata hai saheb
   Khanjar ko liye shimr chala aata hai saheb
-  Khanjar khareeb…
 
   10
   Farmaane lage maa se basad ranj ye maula
@@ -76,28 +70,24 @@ romanLyrics: |-
   Kis tarah se dekhogi tadapta hua laasha
 
   11
-  Khanjar khareeb…
   Ek baar jo qaimon ki taraf yaas se dekha
   Dekha ke dare qaima pe roti hai sakina
   Ek hook uthi qalb mein rone lage maula
 
   12
   Zainab se isharon se kaha ay meri behna
-  Khanjar khareeb…
   Awaaze ghaib aayi palat aa hussain aa
   Ab imtehan tera mukammal yahan hua
 
   13
   Khoone pisar se tu hai wuzu ab to kar chuka
   Ye sun ke sheh ne sajde mein sar rakh ke ye kaha
-  Khanjar khareeb…
   Jab pahunchi behan bhai ke laashe pe khule sar
 
   14
   Dekha ke layeen phayr chuka halq pe khanjar
   Aur shimr liye jata hai sar gaysu pakad kar
   Ay sarwar o rehaan karo yaad wo manzar
-  Khanjar khareeb…
 # source_id: nohayonline:9187a1194b3e73dca700
 # source_url: https://www.nohayonline.com/details_content.php?id=387
 # raw_sha256: 25245d50ae0c0a0b1c68707e496db34fbbe766f68786dde9c07cc3f4a395eeeb
@@ -122,14 +112,12 @@ romanLyrics: |-
 ۳
 میرا یقین دیکھ میرا اعتبار دیکھ
 میں کتنا مطمئن ہوں ادھر ایک بار دیکھ
-خنجر قریب۔۔۔
 پیاسا ہوں تین روز کا زخموں سے چُور ہوں
 
 ۴
 یارب گواہ رہیو کہ میں بے قصور ہوں
 چھ ماہ ہوگئے کہ وطن سے بھی دُور ہوں
 اب تیر ی بارگاہ میں تیرے حضور ہوں
-خنجر قریب۔۔۔
 
 ۵
 اک قلبِ ناتواں پہ بہتّر کا داغ ہے
@@ -138,28 +126,24 @@ romanLyrics: |-
 لگنا ابھی لُٹی ہوئی چادر کا داغ ہے
 
 ۶
-خنجر قریب۔۔۔
 یہ کہہ کو جو خموش ہوئے سبطِ پیمبر
 دیکھا کے سرہانے ہے کھڑی مادرِ مضطر
 شہزادی کے سر پر ہے پڑی خاک کی چادر
 
 ۷
 کہتیں ہیں وہ سرگود میں شبیر کا لے کر
-خنجر قریب۔۔۔
 مظلوم کی امداد کو آتا نہیں کوئی
 پانی بھی دمِ مرگ پِلاتا نہیں کوئی
 
 ۸
 زخموں میں لگی خاک چھڑاتانہیں کوئی
 ہئے ہئے میرے بچے کو بچاتا نہیں کوئی
-خنجر قریب۔۔۔
 حیدر سے کہا زہرا نے خوف آتا ہے صاحب
 
 ۹
 ماں ہوں میرا دل درد سے تھرّاتا ہے صاحب
 یہ دیکھیئے دنیا سے پسر جاتا ہے صاحب
 خنجر کو لیئے شمر چلا آتا ہے صاحب
-خنجر قریب۔۔۔
 
 ۱۰
 فرمانے لگے ماں سے بصد رنج یہ مولا
@@ -168,25 +152,21 @@ romanLyrics: |-
 کس طرح سے دیکھو گی تڑپتا ہوا لاشہ
 
 ۱۱
-خنجر قریب۔۔۔
 اک بار جو خیموں کی طرف یاس سے دیکھا
 دیکھا کے درِ خیمے پہ رُوتی ہے سکینہ
 اک ہُوک اُٹھی قلب میں رونے لگے مولا
 
 ۱۲
 زینب سے اشاروں سے کہا اے میری بہنا
-خنجر قریب۔۔۔
 آوازِ غیب آئی پلٹ آحسین آ
 اب امتحان تیرا مکمل یہاں ہوا
 
 ۱۳
 خونِ پسر سے تُو ہے وضو اب تو کر چکا
 یہ سُن کے شہہ نے سجدے میں سر رکھ کے یہ کہا
-خنجر قریب۔۔۔
 جب پہنچی بہن بھائی کے لاشے پہ کھلے سر
 
 ۱۴
 دیکھا کہ لعیں پھیر چکا حلق پہ خنجر
 اور شمر لیئے جاتاہے سر گیسو پکڑ کر
 اے سرور و ریحان کرو یاد وہ منظر
-خنجر قریب۔۔۔
