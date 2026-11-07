@@ -11,6 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa ne di sada ay mere beta
+
   Ek boond bhi pani na mila
   Khushk tha gala tar na hosa ka
   Tadap uthi maa haye mere laal
@@ -62,6 +63,7 @@ romanLyrics: |-
 # raw_sha256: bd0b3963cc3df815b748876ab895297651d360d869e863e95bd0eac06bd87082
 ---
 ماں نے دی صدا اے میرے بیٹا
+
 اک بوندھ بھی پانی نہ ملا
 خشک تھا گلا تر نہ ہوسکا
 تڑپ اٹھی ماں ہاے میرے لال
