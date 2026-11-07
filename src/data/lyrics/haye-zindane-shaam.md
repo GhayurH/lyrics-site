@@ -29,8 +29,6 @@ romanLyrics: |-
   3
   Ab sare shaam parindo pe nazar jaati hai
   Aisi maqlooq hai udte hue ghar jaati hai
-  Meri to aas mere seene may marjati hai
-  Dekhe is qaid se kab milti hai ruksat amma
 
   4
   Tum inhi kapdo ko ay amma bana dena kafan
@@ -88,8 +86,6 @@ romanLyrics: |-
 ۳
 اب سرِ شام پرندوں پہ نظر جاتی ہے
 ایسی مخلوق ہے اُڑتے ہوئے گھر جاتی ہے
-میری تو آس میرے سینے میں مر جاتی ہے
-دیکھیں اِس قید سے کب ملتی ہے رُخصت اماّں
 
 ۴
 تم انہی کپڑوں کو اے امّاں بنا دینا کفن
