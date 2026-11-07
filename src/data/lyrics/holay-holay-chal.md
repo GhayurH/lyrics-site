@@ -31,7 +31,6 @@ romanLyrics: |-
   Khud dhoop bhi hum pe roti hai
   Jalta hai mussalla reti ka
   Mai shukr ka sajda karlun ada
-  Tu holay holay...
 
   4
   Kulsoom sakina zainab hai
@@ -41,7 +40,6 @@ romanLyrics: |-
 
   5
   Girti hai meri amma fizza
-  Tu holay holay...
   Ab dhoop may itni shiddat hai
   Jalte hai aseeri ke zewar
 
@@ -49,7 +47,6 @@ romanLyrics: |-
   Pani to nahi hai aansu hi
   Mai in pe chidak dunga aakar
   Aaram tujhe mil jayega
-  Tu holay holay...
 
   7
   Aankhon se rawan hai khoon tere
@@ -59,7 +56,6 @@ romanLyrics: |-
 
   8
   Khichta hai rasan se uska gala
-  Tu holay holay...
   Islam bachane ki khaatir
   Nikli hai sharafat bechadar
 
@@ -67,7 +63,6 @@ romanLyrics: |-
   Paon ke chaale rote hai
   Chalti hai imamat kanton par
   Ye pehla safar hai zainab ka
-  Tu holay holay...
 
   10
   Dekha nahi jaata ay baba
@@ -77,7 +72,6 @@ romanLyrics: |-
 
   11
   Ye shaam ko jaata hai rasta
-  Tu holay holay...
   Gir gir ke jo chalti hai zainab
   Mehsoos mujhe bhi hota hai
 
@@ -85,7 +79,6 @@ romanLyrics: |-
   Sajjad pukaare ay beta
   Mera bhi kaleja phat'ta hai
   Jab sunta hoo tera nauha
-  Tu holay holay...
 
   13
   Gar tayz chala to ay beta
@@ -95,7 +88,6 @@ romanLyrics: |-
 
   14
   Aur tere labon par hai beta
-  Tu holay holay...
   Manzoor aziyyat hai mujhko
   Baqar ne takallum di ye sada
 
@@ -103,7 +95,6 @@ romanLyrics: |-
   Har kaam pe teri marzi hai
   Tu jaise chaahe chal baba
   Mai ab na kahunga ay baba
-  Tu holay holay...
 # source_id: nohayonline:c386811f4acc9eb9a33e
 # source_url: https://www.nohayonline.com/details_content.php?id=2410
 # raw_sha256: c3461db1e108f23d29a97d2616cb7e586f34bb06dbecafd347a71ff8e9963f05
@@ -129,7 +120,6 @@ romanLyrics: |-
 خود دھوپ بھی ہم پہ روتی ہے
 جلتا ہے مسلسل ریتی کا
 میں شکر کا سجدہ کر لوں ادا
-تو ہو لے ہو لے۔۔۔
 
 ۴
 کلثوم سکینہ زینب ہے
@@ -139,7 +129,6 @@ romanLyrics: |-
 
 ۵
 گرتی ہے میری اماں فضہ
-تو ہو لے ہو لے۔۔۔
 اب دھوپ میں اتنی شدت ہے
 جلتے ہیں اسیری کے زیور
 
@@ -147,7 +136,6 @@ romanLyrics: |-
 پانی تو نہیں ہے آنسوں ہی
 میں ان پہ چھڑک دونگا آکر
 آرام تجھے مل جاے گا
-تو ہو لے ہو لے۔۔۔
 
 ۷
 آنکھوں سے رواں ہے خوں تیرے
@@ -157,7 +145,6 @@ romanLyrics: |-
 
 ۸
 کھنچتا ہے رسن سے اس کا گلا
-تو ہو لے ہو لے۔۔۔
 اسلام بچانے کی خاطر
 نکلی ہے شرافت بے چادر
 
@@ -165,7 +152,6 @@ romanLyrics: |-
 پاؤں کے چھالے روتے ہیں
 چلتی ہے امامت کانٹوں پر
 یہ پہلا سفر ہے زینب کا
-تو ہو لے ہو لے۔۔۔
 
 ۱۰
 دیکھا نہیں جاتا اے بابا
@@ -175,7 +161,6 @@ romanLyrics: |-
 
 ۱۱
 یہ شام کو جاتا ہے رستہ
-تو ہو لے ہو لے۔۔۔
 گر گر کے جو چلتی ہے زینب
 محسوس مجھے بھی ہوتا ہے
 
@@ -183,7 +168,6 @@ romanLyrics: |-
 سجاد پکارے اے بیٹا
 میرا بھی کلیجہ پھٹتا ہے
 جب سنتا ہوں تیرا نوحہ
-تو ہو لے ہو لے۔۔۔
 
 ۱۳
 گر تیز چلا تو اے بیٹا
@@ -193,7 +177,6 @@ romanLyrics: |-
 
 ۱۴
 اور تیرے لبوں پر ہے بیٹا
-تو ہو لے ہو لے۔۔۔
 منظور اذیت ہے مجھکو
 باقر نے تکلم دی یہ صدا
 
@@ -201,4 +184,3 @@ romanLyrics: |-
 ہر کام پہ تیری مرضی ہے
 تو جیسے چاہے چل بابا
 میں اب نہ کہوں گا اے بابا
-تو ہو لے ہو لے۔۔۔

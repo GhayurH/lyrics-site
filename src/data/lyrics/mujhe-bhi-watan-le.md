@@ -24,7 +24,6 @@ romanLyrics: |-
   2
   Mai kaise rahungi yahan par
   Yahan hai bhala kaun mera
-  Mujhe bhi watan le chalo...
   Reha hoke ghar jaane walon
 
   3
@@ -35,7 +34,6 @@ romanLyrics: |-
 
   4
   Safar kaat lungi ye saara
-  Mujhe bhi watan le chalo...
   Na yun chod kar jao amma
   Mujhe shamiyon ke sahare
 
@@ -46,7 +44,6 @@ romanLyrics: |-
   Tumhe waasta sayyeda ka
 
   6
-  Mujhe bhi watan le chalo...
   Suna hai ke wapas milay hai
   Tumhe shimr se mere gowhar
   Bhala kya karoge tum unka
@@ -55,7 +52,6 @@ romanLyrics: |-
   Agar reh gayi mai yahan par
   Inhi bhi amaanat samajh kar
   Ya dafna do zindan mein ya
-  Mujhe bhi watan le chalo...
 
   8
   Jo pahunche madina to amma
@@ -66,7 +62,6 @@ romanLyrics: |-
   9
   Meri laash ko dekh kar hi
   Samajh legi har baat sugra
-  Mujhe bhi watan le chalo...
   Yehi soch kar zer e turbat
 
   10
@@ -77,7 +72,6 @@ romanLyrics: |-
 
   11
   Ye dil kaamp jaata hai mera
-  Mujhe bhi watan le chalo....
   Sar e shaahe deen kuch to bolo
   Sifarish karo kuch hamari
 
@@ -88,7 +82,6 @@ romanLyrics: |-
   Phupi se zara kehdo baba
 
   13
-  Mujhe bhi watan le chalo....
   Ye haalat thi har ek qadam par
   Madine ke raste mein akbar
   Giri thi jahan par sakina
@@ -97,7 +90,6 @@ romanLyrics: |-
   Tamache lage thay jahan par
   Wahan khaak se qaidiyon ko
   Sadayein ye aati thi har jaa
-  Mujhe bhi watan le chalo...
 # source_id: nohayonline:31ff146ffde1b706fc10
 # source_url: https://www.nohayonline.com/details_content.php?id=1607
 # raw_sha256: 5537c185fd931338db931f99c9a037450168781d4bc7e849ead0492e81b13cee
@@ -116,7 +108,6 @@ romanLyrics: |-
 ۲
 میں کیسے رہوں گی یہاں پر
 یہاں ہے بھلا کون میرا
-مجھے بھی وطن لے چلو۔۔۔
 رہا ہو کے گھر جانے والو
 
 ۳
@@ -127,7 +118,6 @@ romanLyrics: |-
 
 ۴
 سفر کاٹ لوں گی یہ سارا
-مجھے بھی وطن لے چلو۔۔۔
 نہ یوں چھوڑ کر جائو اماں
 مجھے شامیوں کے سہارے
 
@@ -138,7 +128,6 @@ romanLyrics: |-
 تمہیں واسطہ سیدہ کا
 
 ۶
-مجھے بھی وطن لے چلو۔۔۔
 سُنا ہے کے واپس ملے ہیں
 تمہیں شمر سے میرے گوہر
 بھلا کیا کرو گی تم اُن کا
@@ -147,7 +136,6 @@ romanLyrics: |-
 اگر رہ گئی میں یہاں پر
 انہیں بھی امانت سمجھ کر
 یا دفنا دو زنداں میں یا
-مجھے بھی وطن لے چلو۔۔۔
 
 ۸
 جو پہنچے مدینہ تو اماں
@@ -158,7 +146,6 @@ romanLyrics: |-
 ۹
 میری لاش کو دیکھ کر ہی
 سمجھ لے گی ہر بات صغریٰ
-مجھے بھی وطن لے چلو۔۔۔
 یہ ہی سوچ کر زیرِ تُربت
 
 ۱۰
@@ -169,7 +156,6 @@ romanLyrics: |-
 
 ۱۱
 یہ دل کانپ جاتا ہے میرا
-مجھے بھی وطن لے چلو۔۔۔
 سرِ شاہِ دیں کچھ تو بولو
 سفارش کرو کچھ ہماری
 
@@ -180,7 +166,6 @@ romanLyrics: |-
 پھوپھی سے ذرا کہہ دو بابا
 
 ۱۳
-مجھے بھی وطن لے چلو۔۔۔
 یہ حالت تھی ہر اک قدم پر
 مدینے کے رستے میں اکبر
 گری تھی جہاں پر سکینہ
@@ -189,4 +174,3 @@ romanLyrics: |-
 تماچے لگے تھے جہاں پر
 وہاں خاک سے قیدیوں کو
 صدائیں یہ آتی تھی ہر جا
-مجھے بھی وطن لے چلو۔۔۔
