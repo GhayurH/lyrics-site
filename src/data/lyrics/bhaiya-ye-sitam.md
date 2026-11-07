@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Zindane sitam mein kehti thi
   Abid se sakina ro ro kar
-
-  1
   Bhaiya ye sitam kab tak honge
   Itna to bata do ay bhai
   Kya ab na mayassar hoga ghar
   Bhaiya ye sitam kab tak honge
+
+  1
   Afsos ki aisi manzil par
   Taqdeer hamay le aayi hai
   Ek din mein luta hai saara ghar
@@ -84,14 +84,15 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3159
 # raw_sha256: d9e47d460f6d6de26135ee58147a45c4b878ab1148252c7b5ace2e7500ee6289
 ---
+
 زندان ستم میں کہتی تھی
 عابد سے سکینہ رو رو کر
-
-۱
 بھیا یہ ستم کب تک ہونگے
 اتنا تو بتا دو اے بھای
 کیا اب نہ میسر ہو گا گھر
 بھیا یہ ستم کب تک ہونگے
+
+۱
 افسوس کی ایسی منزل پر
 تقدیر ہمیں لے آی ہے
 ایک دن میں لٹا ہے سارا گھر
