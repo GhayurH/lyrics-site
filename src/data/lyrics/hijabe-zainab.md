@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Alam jhuka to hijabe zainab
-  
-  1
   Pe mushkilon ke sairaab chaaye
+
+  1
   Rida e tatheer lootne ko
   Layeen bekauf hoke aaye
   Bhale wo shabbir aur zainab
@@ -62,9 +62,9 @@ romanLyrics: |-
 ---
 
 الم جھکا تو ہجاب زینب
+پہ مشکلوں کے سیراب چھاے
 
 ۱
-پہ مشکلوں کے سیراب چھاے
 رداے تطہیر لوٹنے کو
 لعین بے خوف ہوکے آے
 بھلے وہ شبیر اور زینب
