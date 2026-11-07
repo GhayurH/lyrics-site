@@ -14,38 +14,37 @@ romanLyrics: |-
   Musibaton mein bas inki rona
   Lahoo lahoo ho har ek seena
   Har aankh ho bas lahoo se pur nam
-  Aza e sarwar karenge har dam
-  
+
   1
   Ye maqtal e karbala hi haq hai
   Har ek chehra quran waraq hai
   Ibadaton ka yahan sabaq hai
   Ay ahle emaan hussain ka gham
-  
+
   2
   Jo aaye ran mein ali ke paale
   Galay mein maut ki baahein daale
   Bade hi armaan e jang nikaale
   Labon pe shukre khuda tha har dam
-  
+
   3
   Thi shaan e abbas misle hyder
   Thi dhaal sheh ki haram ki chadar
   Kate do shaane shigaafta sar
   Har aaj tak bhi buland parcham
-  
+
   4
   Shabihe ahmed ki naujawani
   Hussain o zainab ki zindagani
   Na paaya waqt e akheer pani
   Hamesha taaza rahega ye gham
-  
+
   5
   Salaam shiyon ko kar ke agha
   Ye bole pani piyo jo thanda
   To pyaas ko meri yaad karna
   Hayaat saari na bhoolenge hum
-  
+
   6
   Wo waqt e ruqsat pe jaan e zehra
   Tha bibyon mein ek hashr barpa
@@ -61,7 +60,6 @@ romanLyrics: |-
 مصیبتوں میں بس ان کی رونا
 لہو لہو ہو ہر ایک سینہ
 ہر آنکھ ہو بس لہو سے پر نم
-عزاے سرور کریں گے ہر دم
 
 ۱
 یہ مقتل کربلا ہی حق ہے
