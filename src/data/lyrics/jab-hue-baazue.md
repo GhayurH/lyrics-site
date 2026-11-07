@@ -10,15 +10,13 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab huwe baazu e abbas qalam darya par
-  
-  1
   Gir ke thanda hua hazrat ka alam darya par
   Gharke khoon hogaya wo behre karam darya par
   Ghul tha zakhmi hua saqqa e haram darya par
   Mashk ko daanton mein pakde huwe yun laata hai
   Dahan e sher mein jis tarha shikaar aata hai
   
-  2
+  1
   Ghash kiya madhe jigar soz e atash se hai kabab
   Hai jo be-dast teherti nahi paon mein raqaab
   Pyase bachon ke liye seene mein dil hai betaab
@@ -26,7 +24,7 @@ romanLyrics: |-
   Teer paiham jo kamano se chale aate hai
   Ya ali kehte hai aur mashk pa jhuk jaate hai
   
-  3
+  2
   Kar ke moo suye najaf kehte thay ba deeda e tar
   Ya ali lijiye mujh bekas o muztar ki khabar
   Ay shahe khuda kusha baadshahe jinn o bashar
@@ -34,7 +32,7 @@ romanLyrics: |-
   Aap ke bete ka shayda hoo madad laazim hai
   Aap ki pothi ka saqqa hoo madad laazim hai
   
-  4
+  3
   Asp se kehte thay abbas ye ba chashm e pur aab
   Yan se le chal mujhe ay aspe wafadaar shitaab
   Pyase howenge jo sairaab to howega sawab
@@ -47,15 +45,13 @@ romanLyrics: |-
 ---
 
 جب ہوے بازوے عباس قلم دریا پر
-
-۱
 گر کے ٹھنڈا ہوا حضرت کا علم دریا پر
 غرق خوں ہو گیا وہ بہر کرم دریا پر
 غل تھا زخمی ہوا سقاے حرم دریا پر
 مشک کو دانتوں میں پکڑے ہوے یوں لاتا ہے
 دہن شیر میں جس طرح شکار آتا ہے
 
-۲
+۱
 غش کیا مدح جگر سوز عطش سے ہے کباب
 ہے جو بے دست ٹہرتی نہیں پاؤں میں رکاب
 پیاسے بچوں کے لیےء سینے میں دل ہے بیتاب
@@ -63,7 +59,7 @@ romanLyrics: |-
 تیر پیہم جو کمانوں سے چلے آتے ہیں
 یا علی کہتے ہے اور مشک پہ جھک جاتے ہیں
 
-۳
+۲
 کر کے منہ سوے نجف کہتے تھے با دیدۂ تر
 یا علی لیجیےء مجھ بیکس و مضطر کی خبر
 اے شاہ خدا کشا بادشاہ جن و بشر
@@ -71,7 +67,7 @@ romanLyrics: |-
 آپ کے بیٹے کا شیدا ہوں مدد لازم ہے
 آپ کی پوتی کا سقہ ہوں مدد لازم ہے
 
-۴
+۳
 اسپ سے کہتے تھے عباس یہ با چشمِ پر آب
 یاں سے لے چل مجھے اے اسپ وفادار شتاب
 پیاسے ہونگے جو سیراب ہوے گا ثواب
