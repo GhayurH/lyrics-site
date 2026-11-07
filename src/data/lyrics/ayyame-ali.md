@@ -11,15 +11,14 @@ aliases: []
 published: false
 romanLyrics: |-
   Shion mein aaj kal ye qayamat ke roz hai
-
-  1
   Dunya se bu-turab ke ruqsat ke roz hai
   Yaaron saron ko peeto ye zarbat ke roz hai
   Rolo ke ye ali ki shahadat ke roz hai
   Aagaye ayyam e ali aagaye
   Momino matam karo sar peet ke
   Chaand bhi ramzan ka nauha kare
-  Aagaye ayyam e ali aagaye
+
+  1
   Kaale libason mein hai ahle aza ki fughan
   Yaum e shahadat ki sab karte hai tayyariyan
   Yaad kare matami aap ki tanhaiyan
@@ -64,16 +63,16 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2424
 # raw_sha256: a4f8f84cf51af9c6c7a0e50a78a10736fb3f1b63d1699d2740a64bf0666ad23b
 ---
-شیعوں میں آج کل یہ قیامت کے روز ہیں
 
-۱
+شیعوں میں آج کل یہ قیامت کے روز ہیں
 دنیا سے بو تراب کے رخصت کے روز ہیں
 یاروں سروں کو پیٹو یہ ضربت کے روز ہیں
 رو لو کہ یہ علی کی شہادت کے روز ہیں
 آ گےء ایام علی آگےء
 مومنوں ماتم کرو سر پیٹ کے
 چاند بھی رمضان کا نوحہ کرے
-آ گےء ایام علی آگےء
+
+۱
 کالے لباسوں میں ہے اہلِ عزا کی فغاں
 یومِ شہادت کی سب کرتے ہیں تیاریاں
 یاد کرے ماتمی آپ کی تنہائیاں
