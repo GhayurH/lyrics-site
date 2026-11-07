@@ -22,6 +22,8 @@ romanLyrics: |-
   Janabe zehra ki hai dua
   Alam hamara rahega ooncha
   Sitam ki laakhon chale hawayein
+
+  2
   Isi alam par muraad maange
   Tamaam aalam ke saath hum bhi
   Hai is alam ki kayedaton may
@@ -29,7 +31,7 @@ romanLyrics: |-
   Hum is alam se hi maangte hai
   Dawa shifaris aur wafayein
 
-  2
+  3
   Isay waseele bana ke maango
   Jo maango parwardigaar dega
   Jo iske saaye may saans lega
@@ -37,7 +39,7 @@ romanLyrics: |-
   Jab is pe saaya hai sayyeda ka
   To iske saaye may kyun na jaaye
 
-  3
+  4
   Hussain karte thay naaz jis par
   Usi maseeha ka ye alam hai
   Jo maut taale nazar utha kar
@@ -45,7 +47,7 @@ romanLyrics: |-
   To kyun na phir is alam ko ghar ghar
   Uthaye bete sajaye maayein
 
-  4
+  5
   Jahan pe abbas ka alam ho
   Wahan pe mushkil ka kaam kya hai
   Alam uthaate hi jaan loge
@@ -53,7 +55,7 @@ romanLyrics: |-
   Hayaat tasqseem karti jaaye
   Alam jo choo kar chali hawayein
 
-  5
+  6
   Hamari izzat hasham hamara
   Azeem tar hai alam hamara
   Rakhega dunya o aakhirat may
@@ -61,7 +63,7 @@ romanLyrics: |-
   Karenge raayij hum ek naara
   Alam uthayein najaat paayein
 
-  6
+  7
   Wazeefa safdar hai zindagi ka
   Aqeeda hai mazhar abidi ka
   Alam ye jis ne lagaya ghar par
@@ -84,6 +86,8 @@ romanLyrics: |-
 جنابِ زہرا کی ہے دعا
 علم ہمارا رہے گا اونچا
 ستم کی لاکھوں چلے ہواییں
+
+۲
 اسی علم پر مراد مانگے
 تمام عالم کے ساتھ ہم بھی
 ہے اس علم کی قیادتوں میں
@@ -91,7 +95,7 @@ romanLyrics: |-
 ہم اس علم سے ہی مانگتے ہیں
 دوا سفارش اور وفاییں
 
-۲
+۳
 اسے وسیلے بنا کے مانگو
 جو مانگو پروردگار دیگا
 جو اس کی ساے میں سانس لے گا
@@ -99,7 +103,7 @@ romanLyrics: |-
 جب اس پہ سایہ ہے سیدہ کا
 تو اس کے ساے میں کیوں نہ جاے
 
-۳
+۴
 حسین کرتے تھے ناز جس پر
 اسی مسیحا کا یہ علم ہے
 جو موت ٹالے نظر اٹھا کر
@@ -107,7 +111,7 @@ romanLyrics: |-
 تو کیوں نہ پھر اس علم کو گھر گھر
 اٹھاے بیٹے سجاے ماییں
 
-۴
+۵
 جہاں پہ عباس کا علم ہو
 وہاں پہ مشکل کا کام کیا ہے
 علم اٹھاتے ہی جان لو گے
@@ -115,7 +119,7 @@ romanLyrics: |-
 حیات تسقسیم کرتی جائے
 حیات جو چھو کر چلی ہوائیں
 
-۵
+۶
 ہماری عزت ہشم ہمارا
 عظیم تر ہے علم ہمارا
 رکھے گا دنیا و آخرت میں
@@ -123,7 +127,7 @@ romanLyrics: |-
 کریں گے رایج ہم اک نعرہ
 علم اٹھاییں نجات پائیں
 
-۶
+۷
 وظیفہ صفدر ہے زندگی کا
 عقیدہ ہے مظہر عابدی کا
 علم یہ جس نے لگایا گھر پر

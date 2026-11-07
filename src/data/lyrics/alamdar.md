@@ -10,52 +10,53 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Alamdar alamdar abbas e alamdar
   Saqqa e haram sayyed o salaar na aamad
   Wo sher-e-bahadur wo jigar daar na aamad
   Alamdar na aamad alamdar na aamad
+
+  1
   Kaash abbas ko ladne ki ijaazat hoti
   Kya hai nau laakh yahan ek bhi bachta na koi
   Ek lamhe mein bicha deta wo laashe sab ki
   Kehti rahi abbas ki talwaar na aamad
   Alamdar na aamad alamdar na aamad
-  
+
   2
   Hoo ba hoo jafar e tayyar thi qaamat us ki
   Jang ladne ki adayein thi qayamat us ki
   Hukme shabbir azaan aur aqaamat us ki
   Shagird e hassan aahani dewaar na aamad
   Alamdar na aamad alamdar na aamad
-  
+
   3
   Us ke chehre pe jalaal aur hashm tha kaisa
   Rob tha jiski nigahon mein ali ke jaisa
   Koi shabbir ke lashkar mein nahi tha aisa
   Ye kis ki nazar kha gayi jarraar na aamad
   Alamdar na aamad alamdar na aamad
-  
+
   4
   Jis ki umeed pe pardon ki zamanat li thi
   Jab ye zainab ne kaha maara gaya wo ghazi
   Khud ba khud sar se sarakne lagi chadar sab ki
   Ay bibiyon chadar ka nigehdaar na aamad
   Alamdar na aamad alamdar na aamad
-  
+
   5
   Goonji qaimon mein ye awaaz dil e zahra ki
   Ae behan mar gaya battees baras ka bhai
   Yaad baba ki jab aayegi kise dekhogi
   Darya se rukhe hyder e karrar na aamad
   Alamdar na aamad alamdar na aamad
-  
+
   6
   Raah mein gir ke kuchal jayega naaqe se koi
   Taaziyane koi khayega tamache koi
   Ab nahi aayega durron se bachane koi
   Jo karta tha bachon se bohat pyar na aamad
   Alamdar na aamad alamdar na aamad
-  
+
   7
   Saamne pani tha lekin na piya us ko khayal aata raha
   Ke abhi qaimon mein sab bacche hai pyase
@@ -63,7 +64,7 @@ romanLyrics: |-
   Bina haath gira khaak pe jis dam
   Wo pyasa wo pyason ka wafadaar na aamad
   Alamdar na aamad alamdar na aamad
-  
+
   8
   Jab bhi bulwaya hai ghazi ne karam farma kar
   Dekha zeeshan ne darwesh ye manzar jaa kar
@@ -74,12 +75,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2782
 # raw_sha256: 79142dda0442512f1db9b6ab7d5fd7d07e9c1d33da8467bfd94c0a5750043977
 ---
-
-۱
 علمدار علمدار عباس علمدار
 سقاے حرم سید و سالار نہ آمد
 وہ شیر بہادر وہ جگر دار نہ آمد
 علمدار نہ آمد علمدار نہ آمد
+
+۱
 کاش عباس کو لڑنے کی اجازت ہوتی
 کیا ہے نو لاکھ یہاں ایک بھی بچتا نہ کوئی
 ایک لمحے میں بچھا ایک بھی لاشے سب کی

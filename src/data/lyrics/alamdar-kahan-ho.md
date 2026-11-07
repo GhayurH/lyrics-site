@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   Alamdar kahan ho
-  
-  1
   Zainab ki buka thi mere ghamkhwar kahan ho
   Alamdar kahan ho alamdar alamdar alamdar kahan ho
+
+  1
   Ashoor gaya aayi hai ab gyara moharram
   Naaqe pe rasan basta suye shaam chale hum
   Hai aale nabi gham mein giraftaar kahan ho
-  
+
   2
   Jab ghar se chali tum ne amari mein bithaya
   Bazaar karo band ye aelaan karaya
   Mai jaati hoo ab shaam ke bazaar kahan ho
-  
+
   3
   Maloom hai tujhko ye bada sakht safar hai
   Unnees maqamaat se zainab ka guzar hai
   Har gaam wahan honge sitamgaar kahan ho
-  
+
   4
   Wo dekho barasne lage sadaat pe pathar
   Jab rote hai sadaat to haste hai sitamgar
   Hai aale nabi bekas o lachaar kahan ho
-  
+
   5
   Lamhon ki musafat hui sadiyon ke barabar
   Darwaza e sa'ad pe khade hum hai khule sar
   Awaaz tumhe deta hai bemaar kahan ho
-  
+
   6
   Khamosh hai sab haakim e badkaar ke darr se
   Gustakhi layeen karta hai sahbbir ke sar se
   Ay baazu e shabbir wafadaar kahan ho
-  
+
   7
   Faryad thi zainab ki yehi safdar o mazhar
   Kis tarha bayan hoga wo darbar ka manzar
@@ -52,12 +52,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2827
 # raw_sha256: e44a1c5109f136c41d12e3769b463fbbf7b6635ab345464fe33a3e98590a9b34
 ---
-
 علمدار کہاں ہو
-
-۱
 زینب کی بکا تھی میرے غم خوار کہاں ہو
 علمدار کہاں ہو علمدار علمدار علمدار کہاں ہو
+
+۱
 عاشور گیا آی ہے اب گیارہ محرم
 ناقے پہ رسن بستہ سوے شام چلے ہم
 ہے آل نبی غم میں گرفتار کہاں ہو
