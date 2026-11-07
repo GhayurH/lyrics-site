@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya zahra ya zahra ya zahra ya zahra
-  
-  1
   Aap ki chaukhat pe hai ye ilteja
   Sar pe ho saaya fighan teri rida
+
+  1
   Tu jaane mustafa tu shaan e murtaza
   Azra o marzia sayyeda taahera
   Marzi e kibriya ay rabbe fatema
   Sunle meri dua karta hoo ilteja
   Sar pe ho saaya fighan teri rida
-  
+
   2
   Hum tere naukar hai yun sab se behtar hai
   Khadim e hyder hai yun misle qambar hai
   Zakir e sarwar hai saahib e mimbar hai
   Shayir e shabbar hai hum ilm e parwar hai
   Sar pe ho saaya fighan teri rida
-  
+
   3
   Haye baade nabi mehwe fughan ali
   Chaayi hai teeragi aayi kaisi ghadi
   Roti hai zindagi haye ye bekasi
   Aankhon mein hai nami fizza kehti rahi
   Sar pe ho saaya fighan teri rida
-  
+
   4
   Jeena dushwaar hai tooti dewaar hai
   Gham ki yalghaar hai kehna bekaar hai
   Bikhra ghar baar hai zaalim ka waar hai
   Zehra bemaar hai haye darbar hai
   Sar pe ho saaya fighan teri rida
-  
+
   5
   Bole ahle aza ye gham teri ata
   Dard e dil ki dawa matam ki hai sada
   Sunlo behre khuda gham ka ye maajera
   Jaari rahe sada karte hai ye dua
   Sar pe ho saaya fighan teri rida
-  
+
   6
   Zulm ye kya hua tera ghar jal gaya
   Mohsin bhi chal basa fizza ne ye kaha
   Sakte mein sayyeda aao ay murtaza
   Nauha ye jab suna chaayi gham ki ghata
   Sar pe ho saaya fighan teri rida
-  
+
   7
   Pehlu shikasta hai fizza pe sakta hai
   Gham se dam ghut'ta hai aansu nikalta hai
   Shabbar shikasta hai dil gham se phat'ta hai
   Ro kar ye kehta hai taboot uth'ta hai
   Sar pe ho saaya fighan teri rida
-  
+
   8
   Likh kar nauha tera ahsan o irteza
   Karte hai ye dua ay binte mustafa
@@ -75,10 +75,10 @@ romanLyrics: |-
 ---
 
 یا زہرا یا زہرا یا زہرا یا زہرا
-
-۱
 آپ کی چوکھٹ پہ ہے یہ التجاء
 سر پہ ہو سایہ فگن تیری ردا
+
+۱
 تو جان مصطفیٰ تو شان مرتضیٰ
 عزرا و مرضیہ سیدہ طاہرہ
 مرضیء کبریاء اے رب فاطمہ
