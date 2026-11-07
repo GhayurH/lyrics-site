@@ -12,9 +12,9 @@ published: false
 romanLyrics: |-
   Haye hussaina
   Hassan haye hussaina
-  
-  1
   Hussain haye hussaina
+
+  1
   Karti thi zehra dasht mein girya
   Shimr ne kaata sar shahe deen ka
   
@@ -44,9 +44,9 @@ romanLyrics: |-
 
 ہائے حسینا
 حسن ہائے حسینا
+حسین ہائے حسینا
 
 ۱
-حسین ہائے حسینا
 کرتی تھیں زہرہ دشت میں گریہ
 شمر نے کاٹا سر شہ دیں کا
 
