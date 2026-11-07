@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab hum ne suni masjid se azan
-  
-  1
   Hamshakle payambar yaad aaye
   Takbeer ki aayi jaise sada
   Har ek ko akbar yaad aaye
+
+  1
   Hasta jo koi bacha dekha
   Chaah maah ke asghar yaad aaye
   Yaad aayi hum ko karbobala
@@ -80,11 +80,11 @@ romanLyrics: |-
 ---
 
 جب ہم نے سنی مسجد سے اذاں
-
-۱
 ہمشکل پیمبر یاد آے
 تکبیر کی آی جیسے صدا
 ہر ایک کو اکبر یاد آے
+
+۱
 ہنستا جو کوئی بچہ دیکھا
 چھ ماہ کے اصغر یاد آے
 یاد آی ہم کو کربوبلا
