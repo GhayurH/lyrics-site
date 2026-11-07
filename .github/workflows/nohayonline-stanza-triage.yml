@@ -1,4 +1,4 @@
-name: NoHayOnline stanza triage
+name: Validate next manual NoHayOnline batch
 on:
   push:
     branches: [feat/import-overlap-reconciliation-2026-11-05]
@@ -6,61 +6,70 @@ on:
 permissions:
   contents: read
 jobs:
-  scan:
+  validate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
       - run: python -m pip install pyyaml
-      - name: Rank remaining imported stanza anomalies
+      - name: Validate changed stanza boundaries and unchanged metadata
         run: |
           python - <<'PY'
-          import re, pathlib, yaml, collections
-          base=pathlib.Path('src/data/lyrics')
-          pattern=re.compile(r'^---\n(.*?)\n---\n(.*)$',re.S)
-          num=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
-          abbr=re.compile(r'^(?:[^\n]*\.{3,}|[^\n]*…|[^\n]*۔۔۔)$')
-          known=set('''aaj-ghar-se-nahi aaja-meri-jaan deene-ahmed-ki-baqa ay-zahra-ke-baba haram-ko-kushtae beqarar-hai-maadar jisne-jaise-chaha sultanan-naseera ay-maa-bata zainab-hoo-mai jab-maula-aayenge akbar-mera-sehriyan ran-ko-jaate-hue kahan-hai-ghazi behan-zainab ay-zameene-karbala abbas-nahi-hai hogaye-zainab-se aao-abbas aao-matam-kare abbas-ka-jab-zikre ashke-gham-may salami-karbala-mein ghurbate-shabbir-pe hussain-waala jannat-ke-sardar sada-e-nabi tujhe-jhoola-jhulaun ay-nehre-alqama haye-zindane-shaam maarfate-karbobala roohi-wa-jismi qaafla-saadat-ka zainab-ne-kaha-lutgayi ya-imame-askari ab-zindagi-bhar juda-na-karo-mujhe mujpe-kyon-bandh ay-zaeefa-meri la-fata-illah-ali hussain-ka-dame ay-baba-mai-kaise ayyame-hussain shabbir-agar-teri ay-mere-baba baat-ayegi-parde-ki sughra-ki-aa-rahi teer-asghar-ke-liye ay-shamiyon-is-shor dil-bande-janabe sultane-karbala-ke hussain-aap-ki-ghurbat ay-chand-karbala-ke zakhmi-hai-fatema saadaat tadap-kar-sayyede bibi-madina-aagaya'''.split())
-          def parts(text):
+          import subprocess, re, pathlib, yaml, collections
+          base='86c42ac0efc0895558f4680a0a9da65dc67490d3'
+          changed=[x for x in subprocess.check_output(['git','diff','--name-only',base,'HEAD','--','src/data/lyrics'],text=True).splitlines() if x.endswith('.md')]
+          assert len(changed)==28, f'Expected 28 manual corrections, found {len(changed)}'
+          pat=re.compile(r'^---\n(.*?)\n---\n(.*)$',re.S)
+          numeric=re.compile(r'^[0-9۰-۹٠-٩]+$')
+          def load(s):
+              match=pat.fullmatch(s)
+              assert match, 'Bad frontmatter delimiter'
+              return yaml.safe_load(match[1]),match[2],[x for x in match[1].splitlines() if x.startswith(('# source_id:','# source_url:','# raw_sha256:'))]
+          def split(t,urdu):
+              digits='۰۱۲۳۴۵۶۷۸۹'
+              number=[]
               groups=[[]]
-              for line in text.splitlines():
-                  x=line.strip()
-                  if not x: continue
-                  if num.fullmatch(x): groups.append([])
-                  else: groups[-1].append(x)
-              return groups
-          found=[]
-          total=0
-          for p in base.glob('*.md'):
-              s=p.read_text(encoding='utf-8')
-              if '# source_id: nohayonline:' not in s or p.stem in known: continue
-              m=pattern.match(s)
-              if not m: continue
-              try: front=yaml.safe_load(m[1])
-              except Exception: continue
-              if not isinstance(front,dict): continue
-              r=front.get('romanLyrics')
-              if not isinstance(r,str) or not r.strip(): continue
-              R,U=parts(r),parts(m[2]);total+=1
-              rn,un=len(R)-1,len(U)-1
-              rr,uu=[len(x) for x in R],[len(x) for x in U]
-              abbr_r=sum(bool(abbr.search(x[-1])) for x in R if x)
-              abbr_u=sum(bool(abbr.search(x[-1])) for x in U if x)
-              rsingle=sum(x==1 for x in rr[1:])
-              usingles=sum(x==1 for x in uu[1:])
-              mismatch=sum(a!=b for a,b in zip(rr,uu))
-              fragmented=sum(a==1 or b==1 for a,b in zip(rr[1:],rr[2:]))
-              repeated=sum(1 for x in R[1:] if x and len(x)>1 and any(y.casefold().strip()==x[0].casefold().strip() for y in x[1:]))
-              score=(abs(rn-un)*6 + abs(sum(rr)-sum(uu))*.75 + mismatch*1.5
-                     + min(10,rsingle*1.3)+min(10,usingles*1.3)
-                     + min(12,abs(rr[0]-uu[0])*1.5)
-                     + min(8,max(0,rr[0]-7)*.6)+min(8,max(0,uu[0]-7)*.6)
-                     + max(0,abbr_r-abbr_u)*.8 + min(8,fragmented*.6)
-                     + min(6,repeated*2))
-              if score>3:
-                  found.append((score,p.stem,rr,uu,abbr_r,abbr_u))
-          found.sort(reverse=True)
-          print('SCANNED',total,'RANKED',len(found))
-          for rank,(sc,slug,R,U,ar,au) in enumerate(found[:150],1):
-              print(f'{rank:03d} SCORE {sc:5.1f} {slug} R={R} U={U} REFRAIN={ar}/{au}')
+              for s in t.splitlines():
+                  s=s.strip()
+                  if not s: continue
+                  if numeric.fullmatch(s):
+                      number.append(s)
+                      groups.append([])
+                  else:
+                      groups[-1].append(s)
+              exp=[str(i).translate(str.maketrans('0123456789',digits)) if urdu else str(i) for i in range(1,len(number)+1)]
+              assert number==exp, f'Invalid numbering {number} != {exp}'
+              assert number and all(groups), f'Empty opening or stanza {list(map(len,groups))}'
+              return len(number),len(groups[0]),sum(map(len,groups))
+          for path in changed:
+              old=subprocess.check_output(['git','show',f'{base}:{path}'],text=True)
+              now=pathlib.Path(path).read_text()
+              assert '# source_id: nohayonline:' in old, f'Unexpected source: {path}'
+              o,ou,oc=load(old);n,nu,nc=load(now)
+              assert isinstance(o,dict) and isinstance(n,dict)
+              assert {k:v for k,v in o.items() if k!='romanLyrics'}=={k:v for k,v in n.items() if k!='romanLyrics'}, f'Unexpected metadata change in {path}'
+              assert oc==nc, f'Lost provenance {path}'
+              assert o.get('published') is False and n.get('published') is False, f'Unexpected publication status {path}'
+              assert isinstance(n.get('romanLyrics'),str), f'Roman missing {path}'
+              r=split(n['romanLyrics'],False);u=split(nu,True)
+              assert r[0]==u[0],f'Stanza misalignment {path}: roman {r[0]} Urdu {u[0]}'
+              assert r[1]>0 and u[1]>0, f'Missing preamble {path}'
+              print(f'OK {path} stanzas={r[0]} opening Roman/Urdu={r[1]}/{u[1]} lines={r[2]}/{u[2]}')
+          print(f'VERIFIED {len(changed)} manually reviewed files')
           PY
+      - name: Check patch whitespace
+        run: git diff --check 86c42ac0efc0895558f4680a0a9da65dc67490d3 HEAD
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Site checks, tests and production build
+        run: |
+          npm run check
+          npm test
+          npx astro build
+          npx pagefind
+          node scripts/generate-offline-search-manifest.mjs
