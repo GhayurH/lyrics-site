@@ -12,46 +12,44 @@ published: false
 romanLyrics: |-
   Di basheer ne roke ye sada
   Lut gaye haram mar gaye hussain
-  
-  1
   Gul hua charaag lo madina ka
-  
-  2
+
+  1
   Wo mujaware rauza e nabi
   Is madine ki jis se zeb thi
   Khaak may usay lo mila diya
-  
-  3
+
+  2
   Do pahar talak saaf ghar hua
   Asr ko kata shaah ka gala
   Baade qatl shaah qaima jal gaya
-  
-  4
+
+  3
   Natawan ne haye pehni bediyan
   Hogayi aseer saari bibiyan
   Qaid ki gayi aale mustufa
-  
-  5
+
+  4
   Bewon ko kiya oonton par sawaar
   Di mareez ke haat may mehaar
   Manzilon ghareeb kanton par chala
-  
-  6
+
+  5
   Mit gayi jo haye shakle mustufa
   Zindagi se haath sheh ne dho diya
   Ran may naujawan sheh ka mar gaya
-  
-  7
+
+  6
   Teer se chida halq e bezaban
   Margaya sagheer leke hichkiyan
   Naare zulm se jhoola jal gaya
-  
-  8
+
+  7
   Tha wo sar kabhi naize par rakha
   Shaahe qatl par ziba-goh hua
   Aur tanoor may tha kabhi dala
-  
-  9
+
+  8
   Baqar e hazeen hashr tha bapa
   Zalzale may thi qabre mustafa
   Jab basheer ne ro ke ye kaha
@@ -62,10 +60,9 @@ romanLyrics: |-
 
 دی بشیر نے رو کے یہ صدا
 لٹ گئے حرم مر گئے حسین
+گُل ہوا چراغ لو مدینے کا
 
 ۱
-گُل ہوا چراغ لو مدینے کا
-لُٹ گئے حرم مر گئے حُسین
 وہ مُجاورِ روضئہ نبی
 اس مدینے کی جسے زیب تھی
 خاک میں اُسے لو ملا دیا
