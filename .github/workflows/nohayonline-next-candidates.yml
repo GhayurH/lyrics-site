@@ -1,0 +1,64 @@
+name: NoHayOnline remaining stanza candidates
+on:
+  push:
+    branches: [feat/import-overlap-reconciliation-2026-11-05]
+    paths: [.github/workflows/nohayonline-next-candidates.yml]
+permissions:
+  contents: read
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - run: python -m pip install pyyaml
+      - name: Find likely editorial corrections, no files changed
+        run: |
+          python - <<'PY'
+          import pathlib,re,yaml
+          h=re.compile(r'^---\n(.*?)\n---\n(.*)$',re.S)
+          num=re.compile(r'^(?:[0-9]+|[۰-۹]+)$')
+          ell=re.compile(r'(?:\.{3,}|…|۔۔۔|\.{2})\s*$',re.I)
+          known=set('''momino-hydere ruk-jao-ay-sakina haye-hassan-maula ahle-haram-ka-khafla bekafan-hai-laashae aalam-o-masaib-mein har-nafas-hai-ye zehra-ki-duayein ay-hurre-dilawar teero-ke-musalle-par sar-peetkar-basheer bazare-shaam-may chand-rota-raha pukari-shana-hilakar yusufe-laila-akbar aao-dukhiya-maa pabasta-e-zanjeer zainab-shaheed-hogayi deen-ko-bacha-liya karbala-khamosh-hai maqtal-se-laash aao-khaleel-dekho'''.split())
+          def groups(s):
+              g=[[]]
+              for line in s.splitlines():
+                  v=line.strip()
+                  if not v: continue
+                  if num.fullmatch(v): g.append([])
+                  else: g[-1].append(v)
+              return g
+          candidates=[]
+          for p in pathlib.Path('src/data/lyrics').glob('*.md'):
+              if p.stem in known: continue
+              s=p.read_text()
+              if '# source_id: nohayonline:' not in s: continue
+              m=h.match(s)
+              if not m: continue
+              try: front=yaml.safe_load(m[1])
+              except: continue
+              if not isinstance(front,dict): continue
+              r=front.get('romanLyrics')
+              if not isinstance(r,str) or not r: continue
+              R,U=groups(r),groups(m[2])
+              rn=[x for a in R for x in a]
+              un=[x for a in U for x in a]
+              re=[x for x in rn if ell.search(x)]
+              ue=[x for x in un if ell.search(x)]
+              rc=[x for x in rn if not ell.search(x)]
+              uc=[x for x in un if not ell.search(x)]
+              # Substantive line counts matching after deleting shorthand refrains;
+              # prioritize visibly broken markers or repeated abbreviated refrains
+              if len(rc)!=len(uc) or not len(rc) or len(re)+len(ue)<2: continue
+              if len(R)==len(U) and not re and not ue: continue
+              bias=(abs(len(R)-len(U))*2.0+min(16,len(re)+len(ue))*.45
+                     +sum(len(g)==0 for g in R+U)*2
+                     +min(14,max(len(g) for g in R+U))*.25
+                     +min(12,abs(len(re)-len(ue))*.6))
+              if bias>1.5: candidates.append((bias,p.stem,R,U,re,ue))
+          candidates.sort(reverse=True,key=lambda x:x[0])
+          print('QUALIFY',len(candidates))
+          for i,(score,slug,R,U,re,ue) in enumerate(candidates[:200],1):
+              fmt=lambda g:','.join(map(str,map(len,g)))
+              print(f'{i:03} {slug} score={score:.1f} R=[{fmt(R)}] U=[{fmt(U)}] re={len(re)} ue={len(ue)} exR={re[:2]} exU={ue[:2]}')
+          PY
