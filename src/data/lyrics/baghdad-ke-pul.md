@@ -19,7 +19,6 @@ romanLyrics: |-
   Kisne ye janaza rakha hai
   Afsos ke maula ka laasha
   Zanjeer e sitam may jakda hai
-  Baghdad ke pul par...
 
   2
   Zindan to tang hote hai magar
@@ -28,58 +27,46 @@ romanLyrics: |-
   Ehsaas ye khoon rulaata hai
 
   3
-  Baghdad ke pul par...
   Pehle to layeen ne zehr diya
   Phir laash ko tanha chor diya
   Rone ke liye is laashe par
+  Bhai na behan na beta hai
 
   4
-  Bhai na behan na beta hai
-  Baghdad ke pul par...
   Is qaid e sitam may bhi maula
   Rehte thay musalle par har dam
-
-  5
   Be-jurm namazi qatl hua
   Ro ro ke musalla kehta hai
-  Baghdad ke pul par...
-  Aisi bhi ghareebi dunya may
 
-  6
+  5
+  Aisi bhi ghareebi dunya may
   Kya logon kisi par dekhi hai
   Afsos janaza kazim ka
   Mazdooron se uthwaya hai
-  Baghdad ke pul par...
 
-  7
+  6
   Payvast badan may hai kadiyan
   Lohaar se bolay ye maula
   Aahista kaat ye zanjeere
   Laasha ye sadayein deta hai
 
-  8
-  Baghdad ke pul par...
+  7
   Eiday athaees guzri hai
   Bin aap ke ay baba mere
   Is eid pe tum ghar aa jana
-
-  9
   Masooma e qum ka nauha hai
-  Baghdad ke pul par...
+
+  8
   Mazloom mere maula tujh par
   Aulaad bhi teri ro na saki
-
-  10
   Baghdad nahi do aalam may
   Ab matam tera hota hai
-  Baghdad ke pul par...
-  Mazloomiye ibn e jafar ko
 
-  11
+  9
+  Mazloomiye ibn e jafar ko
   Kya koi bayaan kar payega
   Farhan aur mazhar rote hai
   Har ek zabaan par nauha hai
-  Baghdad ke pul par...
 # source_id: nohayonline:adad88adec54c635cd11
 # source_url: https://www.nohayonline.com/details_content.php?id=76
 # raw_sha256: 0db9ea346f5525a15c5825c11a8a5a234e5955a3cc8b51de10f8adffad11f55a
@@ -93,7 +80,6 @@ romanLyrics: |-
 کس نے یہ جنازہ رکھا ہے
 آفسوس کے مولا کا لاشہ
 زنجیر ستم میں جکڑا ہے
-بغداد کے پل پر
 
 ۲
 زندان تو تنگ ہوتے ہیں مگر
@@ -102,55 +88,43 @@ romanLyrics: |-
 احساس یہ خون رلاتا ہے
 
 ۳
-بغداد کے پل پر
 پہلے تو لعین نے زہر دیا
 پھر لاش کو تنہا چھوڑ دیا
 رونے کے لئے اس لاشے پر
+بھائی نہ بہن نہ بیٹا ہے
 
 ۴
-بھائی نہ بہن نہ بیٹا ہے
-بغداد کے پل پر
 اس قید ستم میں بھی مولا
 رہتے تھے مصلے پر ہر دم
-
-۵
 بے جرم نمازی قتل ہوا
 رو رو کے مصلہ کہتا ہے
-بغداد کے پل پر
-ایسی بھی غریبی دنیا میں
 
-۶
+۵
+ایسی بھی غریبی دنیا میں
 کیا لوگوں کسی پر دیکھی ہے
 آفسوس جنازہ کاظم کا
 مزدوروں سے اٹھوایا ہے
-بغداد کے پل پر
 
-۷
+۶
 پیوست بدن میں ہیں کڑیاں
 لوہار سے بولے یہ مولا
 آہستہ کاٹ یہ زنجیریں
 لاشہ یہ صداءیں دیتا ہے
 
-۸
-بغداد کے پل پر
+۷
 عیدیں اٹھایس گزری ہے
 بن باپ کے اے بابا میرے
 اس عید پہ تم گھر آجانا
-
-۹
 معصومہء قم کا نوحہ ہے
-بغداد کے پل پر
+
+۸
 مظلوم میرے مولا تجھ پر
 اولاد بھی تیری رو نہ سکی
-
-۱۰
 بغداد نہیں دو عالم میں
 اب ماتم تیرا ہوتا ہے
-بغداد کے پل پر
-مظلومیء ابن جعفر کو
 
-۱۱
+۹
+مظلومیء ابن جعفر کو
 کیا کوئی بیاں کر پاے گا
 فرحان اور مظہر روتے ہیں
 ہر ایک زباں پر نوحہ ہے
-بغداد کے پل پر

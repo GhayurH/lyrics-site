@@ -10,11 +10,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Sakina kehti hai baba
-  
-  1
   Chale aao chale aao
   Na aaye ammu na aaye tum
   Khudara chale aao
+
+  1
   Bahot hoo choti bataun kaise
   Jo mujhko takleef ho rahi hai
   Aray ay baba teri sakina
@@ -22,8 +22,7 @@ romanLyrics: |-
   Bichad se asghar se aur tum se
   Sakina jaan apni kho rahi hai
   Na aaye ammu na aaye tum
-  Khudara chale aao...
-  
+
   2
   Ye saal o sin aur ye aseeri
   Andhera zindan aur sakina
@@ -32,8 +31,7 @@ romanLyrics: |-
   Jo zakhm shaam e alam mein paaya
   Wo dekho baba hai ab bhi taaza
   Na aaye ammu na aaye tum
-  Khudara chale aao...
-  
+
   3
   Ye meri tifli ye mera bachpan
   Musibaton ke pahaad toote
@@ -42,8 +40,7 @@ romanLyrics: |-
   Sadayein deti thi mai tadap kar
   Magar khabar mere li na tumne
   Na aaye ammu na aaye tum
-  Khudara chale aao...
-  
+
   4
   Dino ko bazaar mein phire hum
   To raat zindan ka andhera
@@ -52,18 +49,16 @@ romanLyrics: |-
   Zamana guzra na mil saka hai
   Sukoon ka mujhko ek lamha
   Na aaye ammu na aaye tum
-  Khudara chale aao...
 # source_id: nohayonline:355114743dd9ec69686b
 # source_url: https://www.nohayonline.com/details_content.php?id=1458
 # raw_sha256: 1e7e5c35961299538d67e1494b9e21238d0457ac332d8c38fdc6970d417667b6
 ---
-
 سکینہ کہتی ہے بابا
-
-۱
 چلے آؤ چلے آؤ
 نہ آے عمو نہ آے تم
 خدارا چلے آؤ
+
+۱
 بہت ہوں چھوٹی بتاؤں کیسے
 جو مجھکو تکلیف ہو رہی ہے
 ارے اے بابا تیری سکینہ
@@ -71,7 +66,6 @@ romanLyrics: |-
 بچھڑ کے اصغر سے اور تم سے
 سکینہ جاں اپنی کھو رہی ہے
 نہ آے عمو نہ آے تم
-خدارا چلے آؤ
 
 ۲
 یہ سال و سن یہ اسیری
@@ -81,7 +75,6 @@ romanLyrics: |-
 جو زخم شام الم میں پایا
 وہ دیکھو بابا ہے اب بھی تازہ
 نہ آے عمو نہ آے تم
-خدارا چلے آؤ
 
 ۳
 یہ میری طفلی یہ میرا بچپن
@@ -91,7 +84,6 @@ romanLyrics: |-
 صداییں دیتی تھی میں تڑپ کر
 مگر خبر میری لی نہ تم نے
 نہ آے عمو نہ آے تم
-خدارا چلے آؤ
 
 ۴
 دنوں کو بازار میں پھرے ہم
@@ -101,4 +93,3 @@ romanLyrics: |-
 زمانہ گزرا نہ مل سکا ہے
 سکون کا مجھکو ایک لمحہ
 نہ آے عمو نہ آے تم
-خدارا چلے آؤ
