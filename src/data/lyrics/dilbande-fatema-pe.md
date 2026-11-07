@@ -9,51 +9,33 @@ poet: "Gulzar Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Dilband-e-Fatima pe zaalim reham na aaya
-
-  Tashna labi main tu nai mehman ka khun bahaya
-
+romanLyrics: |-
+  Dilbande fatema pe zaalim reham na aaya
+  Tashna labi mein tu ne mehman ka khoon bahaya
 
   1
-
-  1) Bai ghoro bai kafan tha lasha shahai zaman ka
-
-  Ser nok-e-naiza per hai darbar shaam aaya
-
+  Be-gor o be-kafan tha laasha shahe zaman ka
+  Sar noke naiza par hai darbar e shaam aaya
 
   2
-
-  2) Abbas tum kahan ho lo khaimai jal rahain hain
-
-  Bai perda bibiyon pe hai aasman ka saya
-
+  Abbas tum kahan ho lo qaime jal rahe hai
+  Beparda bibiyon pe hai aasman ka saaya
 
   3
-
-  3) Asgher to bai kafan the laikain the khoon-e-Haider
-
-  Hurmal nai teer khaincha masoom muskaraya
-
+  Asghar ko bezaban tha lekin tha khoone hyder
+  Hurmal ne teer khaincha masoom muskuraya
 
   4
-
-  4) Bazar-e-Shaam main jab aayi Ali ki beti
-
-  Tufan patharon ka charon taraf sai aaya
-
+  Baazar e shaam mein jab aayi ali ki beti
+  Toofan patharon ka chaaron taraf se aaya
 
   5
-
-  5) Quran perhnai walai woh kaisai musalman thai
-
-  Tasveer Fatima ko derbar main bulaya
-
+  Quran padne waale wo kaise musalman thay
+  Tasveer e fatema ko darbar mein bulaya
 
   6
-
-  6) Gulzar Kerbala main aayai Quran walai
-
-  Afsos bai kason ko pani mila na saya'
+  Gulzar karbala mein aaye quran waale
+  Afsos bekason ko pani mila na saaya
 # source_id: nohayonline:5f5d27a8077b3fa8a340
 # source_url: https://www.nohayonline.com/details_content.php?id=3372
 # raw_sha256: 2d8ceb0b3135f62464abd89fd4781a3d0e4b1530fe07f398659093eefdf9865a
@@ -66,9 +48,9 @@ romanLyrics: 'Dilband-e-Fatima pe zaalim reham na aaya
 ---
 
 دلبند فاطمہ پہ ظالم پہ رحم نہ آیا
+تشنہ لبی میں تو نے مہمان کا خون بہایا
 
 ۱
-تشنہ لبی میں تو نے مہمان کا خون بہایا
 بے گور و بے کفن تھا لاشہ شہ زمن کا
 سر نوک نیزہ پر ہے دربار شام آیا
 
