@@ -9,67 +9,55 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ya Abbas
-
-  Aye alamdar-e-man aye sipah dar e man
-
+romanLyrics: |-
+  Ay alamdar e man
+  Ay sipahdaar e man
+  Ay wafadaar e man aa
+  Mai ho gaya tanha
+  Ya Abbas Ya Abbas Ya Abbas Ya Abbas
 
   1
-
-  Aye wafadar e man aa main ho gaya tanha
-
-  Waqt-e-madad hai bawafa darya pe ab sota hai kiya
-
-  Hal min ki deta hoon sada sun aye sakina ke chacha
-
-  Aye merey bawafa aye merey dil ruba
-
-  Aye merey meh laqa aa main ho gaya tanha
-
+  Waqt e madad hai bawafa
+  Darya pe ab sota hai kya
+  Hal min ki deta hoon sada
+  Sun ay Sakina ke chacha
+  Ay mere bawafa ay mere dilruba
+  Ay mere mehlaqa aa
 
   2
-
-  Aa deykh meri zindagi dard o alam main ghir gai
-
-  Zakhmi hua raah waar bhi barhney lagi hai tishnagi
-
-  Tu ney rakha bharam har ghari har qadam
-
-  Phir uthha ley alam aa main ho gaya tanha
-
+  Aa dekh meri zindagi
+  Dard o alam mein ghir gayi
+  Zakhmi hua rahwaar bhi
+  Badhne lagi hai tishnagi
+  Tu ne rakha bharam
+  Har ghadi har qadam
+  Phir utha le alam aa
 
   3
-
-  Laashey uthha kar thak gaya poocho na kaise dar gaya
-
-  Abbas phir main gir gaya samjhi behan main mar gaya
-
-  Haaye kiya reh gaya ho gai inteha
-
-  Maan-e-mushkil kusha aa main ho gaya tanha
-
+  Laashein utha kar thak gaya
+  Poocho na kaise ghar gaya
+  Abbas phir mai gir gaya
+  Samjhi behan mai mar gaya
+  Haye kya reh gaya ho gayi inteha
+  Jaan e mushkil kusha aa
 
   4
-
-  Bhayya mujhey ye hai khabar bey dast tu hai khak per
-
-  Phir bhi magar koshish to kar aa ja tarraai chor kar
-
-  Terey bazoo qalam khoon main dooba alam
-
-  Hai sakina ko gham aa main ho gaya tanha
-
+  Bhaiya mujhe ye hai khabar
+  Be-dast tu hai khaak par
+  Phir bhi magar koshish to kar
+  Aaja taraayi chod kar
+  Tere baazu qalam
+  Khoon mein dooba alam
+  Hai Sakina ko gham aa
 
   5
-
-  Khanjer taley sar hai mera zalim hai seeney per charha
-
-  Thi sarwar o rehan ye moula-e-be kas ki sada
-
-  Aa merey bhai aa keh raha hai gala
-
-  Aakhri hai sada aa main ho gaya tana'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+  Khanjar tale hai hai mera
+  Zaalim hai seene par chadha
+  Thi Sarwar o Rehaan ye
+  Maula e bekas ki sada
+  Aa mere bhai aa
+  Kat raha hai gala
+  Aakhri hai sada aa
 # source_id: nohayonline:f79b9a6201d3dccad401
 # source_url: https://www.nohayonline.com/details_content.php?id=2610
 # raw_sha256: eebcfeb7ea5accbff5bad9ae0b638d1ec2daaff62bdad61db11ab37cc4dfc976
@@ -79,20 +67,18 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 اے علمدار من
-
-۱
 اے سپاہ دار من
 اے وفادار من آ
 میں ہو گیا تنہا
 یا عباس یا عباس یا عباس یا عباس
+
+۱
 وقتِ مدد ہے با وفا
 دریا پہ اب سوتا ہے کیا
 ھل من کی دیتا ہوں صدا
 سن اے سکینہ کے چچا
 اے میرے با وفا اے میرے دلربا
 اے میرے مہ لقا آ
-میں ہو گیا تنہا
-یا عباس یا عباس یا عباس
 
 ۲
 آ دیکھ میری زندگی
