@@ -18,57 +18,51 @@ romanLyrics: |-
   Ay mere bhai hussain
   Qadam qadam pe mujhe bhai yaad aaoge
   Ay mere bhai hussain ay mere bhai hussain
-
-  2
   Sehar ko nana ka waada jo tum nibhaoge
   Ay mere bhai hussain ay mere bhai hussain
-  Meri nigaah mein bachpan ki saari yaadein hai
 
-  3
+  2
+  Meri nigaah mein bachpan ki saari yaadein hai
   Kahi thi nana ne jo yaad wo bhi baatein hai
   Sahar se pehle charaghon ko tum bujhaoge
 
-  4
+  3
   Nabi sawari tumhari sawaar tum bhai
   Thay amma zahra ke dil ka qaraar tum bhai
   Aur aaj khoon mein apne hi tum nahaoge
 
-  5
+  4
   Tumhare chehre ka ye itmenan jaanti hoon
   Tumhara hona hai jo imtehan jaanti hoon
   Behan se dard e jigar ko chupa na paaoge
 
-  6
+  5
   Gulu e asghar e baysheer seena e akbar
   Sata raha hai tumhe sabr kar rahe ho magar
-
-  7
   Rida ki baat pe nazrein mila na paaoge
-  Abhi to bali sakina ka zikr baaqi hai
 
-  8
+  6
+  Abhi to bali sakina ka zikr baaqi hai
   Abhi to shaam e ghariban ki fikr baqi hai
   Rakhoge yaad kise kisko bhool jaoge
 
-  9
+  7
   Na gham karo mere bhai tumhare baad bahan
   Rida na odhegi jab tak tumhe mile na kafan
   Ye dukh hai saath hamare watan na jaoge
 
-  10
+  8
   Kaha hussain ne sun kar kalaam zainab ka
   Hamari jaan ke badle bache tera parda
   Ye kya kaha ke mera sabr aazmaoge
 
-  11
+  9
   Tere baghair mukammal nahi payaam mera
   Tere baghair adhoora hai ab to naam mera
-
-  12
   Kaho mai aaungi majlis mein jab bulaoge
-  Ye guftugu thi ke goonji azaan akbar ki
 
-  13
+  10
+  Ye guftugu thi ke goonji azaan akbar ki
   Rehaan hoti thi yalghaar sheh pe lashkar ki
   Ali ki beti pukari hamay rulaoge
 # source_id: nohayonline:ea8d529328dcdd00ebac
@@ -83,56 +77,50 @@ romanLyrics: |-
 اے میرے بھائی حسین
 قدم قدم پہ مجھے بھای یاد آؤ گے
 اے میرے بھائی حسین اے میرے بھائی حسین
-
-۲
 سحر کو نانا کا وعدہ جو تم نبھاؤ گے
 اے میرے بھائی حسین اے میرے بھائی حسین
-میری نگاہ میں بچپن کی ساری یادیں ہے
 
-۳
+۲
+میری نگاہ میں بچپن کی ساری یادیں ہے
 کہی تھی نانا نے جو یاد وہ بھی باتیں ہے
 سحر سے پہلے چراغوں کو تم بجھاو گے
 
-۴
+۳
 نبی سواری تمہاری سوار تم بھای
 تھے اماں زہرا کے دل کا قرار تم بھای
 اور آج خون‌ میں اپنے ہی تم نہاو‌ گے
 
-۵
+۴
 تمہارے چہرے کا یہ امتنان جانتی ہوں
 تمہارا ہونا ہے جو امتحان جانتی ہوں
 بہن سے درد جگر کو چھپا نہ پاؤ گے
 
-۶
+۵
 گلوے اصغر بے شیر سینۂ اکبر
 ستا رہا ہے تمہیں صبر کر رہے ہو مگر
-
-۷
 ردا کی بات پہ نظریں ملا نہ پاؤ گے
-ابھی تو بالی سکینہ کا ذکر باقی ہے
 
-۸
+۶
+ابھی تو بالی سکینہ کا ذکر باقی ہے
 ابھی تو شام غریباں کی فکر باقی ہے
 رکھو گے یاد کسے کس کو بھول جاؤ گے
 
-۹
+۷
 نہ غم کرو میرے بھائی تمہارے بعد بہن
 ردا نہ اوڑھے گی جب تک تمہیں ملے نہ کفن
 یہ دکھ ہے ساتھ ہمارے وطن نہ جاؤ گے
 
-۱۰
+۸
 کہا حسین نے سن کر کلام زینب کا
 ہماری جان کے بدلے بچے تیرا پردہ
 یہ کیا کہا کہ میرے صبر آزماؤ گے
 
-۱۱
+۹
 تیرے بغیر مکلمل نہیں پیام میرا
 تیرے بغیر ادھورا ہے اب تو نام میرا
-
-۱۲
 کہو میں آؤں گی مجلس میں جب بلاؤ گے
-یہ گفتگو تھی کہ گونجی اذان اکبر کی
 
-۱۳
+۱۰
+یہ گفتگو تھی کہ گونجی اذان اکبر کی
 ریحان ہوتی تھی یلگار شہ پہ لشکر کی
 علی کی پکاری ہمیں رلاؤ گے

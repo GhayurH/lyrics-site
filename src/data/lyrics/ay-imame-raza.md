@@ -18,64 +18,54 @@ romanLyrics: |-
   Ay imam e raza salaam o alaik
   Shor e matam hai soghwaron mein
   Ay imame raza salaam o alaik
-
-  2
   Bekasi keh rahi hai mayyat par
   Wasrise karbala salaam o alaik
 
-  3
+  2
   Ho raha hai fiza mein gham mehsoos
   Bujh gaya aaftab e shehr e toos
   Aasmano se aa rahi hai sada
   Nayab e mustafa salaam o alaik
 
-  4
+  3
   Chaa rahi hai udasiyan har soo
   Aur tapakte hai aankh se aansu
-
-  5
   Saai dunya meink talaaum hai
   Deen ke na-huda salaam o alaik
 
-  6
+  4
   Qalbe kaunain paara paara hai
   Tumko zehr e dagha se maara hai
   Ay ghareebul watan salaam o alaik
   Ay aseer e jafa salaam o alaik
 
-  7
+  5
   Shahe aali maqaam ka taboot
   Uth raha hai imam ka taboot
-
-  8
   Apna sar peet kar janaze par
   Keh rahi hai qaza salaam o alaik
 
-  9
+  6
   Maut par aap ki imam e mubeen
   Keh rahe hai ghareeb aur miskeen
   Ho gaye aaj be-sahara hum
   Kul ke haajat rawa salaam o alaik
 
-  10
+  7
   Utra utra hai raat ka chehra
   Zard hai kayenat ka chehra
-
-  11
   Zehr ki kaifiyat hai saanso mein
   Taajdaar e wafa salaam o alaik
 
-  12
+  8
   Kaisa ranj o malaal ka din hai
   Noor ke inteqal ka din hai
   Aaj dil ki har ek dhadkan se
   Aa rahi hai sada salaam o alaik
 
-  13
+  9
   Mere maula qubool farmana
   Leke kuch aansuon ka nazrana
-
-  14
   Pursa dete hai aamir o akhtar
   Naazishe ambiya salaam o alaik
 # source_id: nohayonline:ab688070648d3a735c90
@@ -90,63 +80,53 @@ romanLyrics: |-
 اے امام رضا سلام و علیک
 شور ماتم ہے سوگواروں میں
 اے امام رضا سلام و علیک
-
-۲
 بیکسی کہہ رہی ہے میت پر
 وارث کربلا سلام و علیک
 
-۳
+۲
 ہو رہا ہے فضا میں غم محسوس
 بجھ گیا آفتابِ شہر طوس
 آسمانوں سے آ رہی ہے صدا
 نایب مصطفیٰ سلام و علیک
 
-۴
+۳
 چھا رہی ہے اداسیاں ہر سوں
 اور ٹپکتے ہیں آنکھ سے آنسوں
-
-۵
 ساری دنیا میں اک تلاتم ہے
 دین کے نا خدا سلام و علیک
 
-۶
+۴
 قلب کونین پارہ پارہ ہے
 تم کو زہر دغا سے مارا ہے
 اے غریب الوطن سلام و علیک
 اے اسیر جفا سلام و علیک
 
-۷
+۵
 شاہ عالی مقام کا تابوت
 اٹھ رہا ہے امام کا تابوت
-
-۸
 اپنا سر پیٹ کر جنازے پر
 کہہ رہی ہے قضاء سلام و علیک
 
-۹
+۶
 موت پر آپ کی امام مبیں
 کہہ رہے ہیں غریب اور مسکین
 ہو گےء آج بے سہارا ہم
 کل کے حاجت روا سلام و علیک
 
-۱۰
+۷
 اترا اترا ہے رات کا چہرہ
 زرد ہے کاینات کا چہرہ
-
-۱۱
 زہر کی کیفیت ہے سانسوں میں
 تاجدار وفا سلام و علیک
 
-۱۲
+۸
 کیسا رنج و ملال کا دن ہے
 نور کے انتقال کا دن ہے
 آج دل کی ہر اک دھڑکن سے
 آ رہی ہے صدا سلام و علیک
 
-۱۳
+۹
 میرے مولا قبول فرمانا
 لے کے کچھ آنسوؤں کا نظرانہ
-
-۱۴
 پرسہ دیتے ہیں عامر و اختر
 نازش انبیاء سلام و علیک
