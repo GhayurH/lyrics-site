@@ -13,9 +13,10 @@ romanLyrics: |-
   Matam ki sadaon se hum arsh hila denge
   Matam hai ye ibadat dunya ko bata denge
 
-  1
   Esyaan nahi ye matam karte rahe hai saare
   Is farz may shaamil hai allah ke nabi pyare
+
+  1
   Rota furaat bhi hai bachon ki tashnagi par
   Pani se peet'te hai abbas ko kinare
 
@@ -45,9 +46,10 @@ romanLyrics: |-
 ماتم کی صداؤں سے ہم عرش ہلا دیں گے
 ماتم ہے یہ عبادت دنیا کو بتا دیں گے
 
-۱
 عصیاں نہیں یہ ماتم کرتے رہے ہیں سارے
 اس فرض میں شامل ہے اللہ کے نبی پیارے
+
+۱
 روتا فرات بھی ہے بچوں کی تشنگی پر
 پانی سے پیٹتے ہیں عباس کو کنارے
 
