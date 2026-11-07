@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa keh rahi hai rakh kar
-
-  1
   Zaanu pe khoon bhara sar
   Aankhein to khol akbar
   Aankhein to khol akbar
+
+  1
   Pehchaan lo to jaano
   Surat hai kya hamari
   Aankhein to khol dekho
@@ -49,11 +49,11 @@ romanLyrics: |-
 # raw_sha256: 220d3282894ebbd15f33120567ebc37386c88fa564499bcffcd4b733a4ea948a
 ---
 ماں کہہ رہی ہے رکھ کر
-
-۱
 زانوں پہ خوں بھرا سر
 آنکھیں تو کھول اکبر
 آنکھیں تو کھول اکبر
+
+۱
 پہچان لو تو جانوں
 صورت ہے کیا ہماری
 آنکھیں تو کھول دیکھو
