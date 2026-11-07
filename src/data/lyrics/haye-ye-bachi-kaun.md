@@ -12,27 +12,27 @@ published: false
 romanLyrics: |-
   Haye ye bachi kaun hai
   Ye to sakina lagti hai
-  
+
   1
   Aati hai maqtal ki taraf
   Dekha hai kyun suye najaf
   Kya is ka dada hai ali
-  
+
   2
   Aati hai jo roti hui
   Sadmon se jaan khoti hui
   Padti hui nade ali
-  
+
   3
   Kyun ro ke jaan deti hai ye
   Kyun siskiyan leti hai ye
   Kya mar gaya is ka koi
-  
+
   4
   Kano se kyun khoon hai rawan
   Uff ye tamachon ke nishan
   Ye zulm aur ye kamsini
-  
+
   5
   Kausar ye maqtal ki faza
   Tadpa rahi hai dil mera
