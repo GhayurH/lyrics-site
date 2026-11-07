@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Shaam aaya zainab ka dil ghabraya
+  Bin chadar bibi ne chehra baalon se chupaya
 
   1
-  Bin chadar bibi ne chehra baalon se chupaya
   Ye kisne kaha ke karbal mein sadaat ke qaime jalte hai
   Aulaad e umayya ne logon quran jalaya
 
@@ -44,10 +44,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3740
 # raw_sha256: ec47619448088bed5ee80243c42bdf1efdac9059fa0cf33a5760328697604395
 ---
+
 شام آیا زینب کا دل گھبرایا
+بن چادر بی بی نے چہرہ بالوں سے چھپایا
 
 ۱
-بن چادر بی بی نے چہرہ بالوں سے چھپایا
 یہ کس نے کہا کے کربل میں سادات کے خیمے جلتے ہیں
 اولاد امیہ نے لوگوں قرآن جلایا
 
