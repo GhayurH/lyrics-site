@@ -14,27 +14,27 @@ romanLyrics: |-
   Saron pe khaak saja kar hussain ki behne
 
   1
-  ?lipat ke bhai ki turbat se gham manaati hai
+  lipat ke bhai ki turbat se gham manaati hai
   Dayaar e shaam ka sab maajra sunaati hai
   Tadap tadap ke lehad par hussain ki behne
 
   2
-  ?jigar fighaar hai sehmi hai gham ki maari hai
+  jigar fighaar hai sehmi hai gham ki maari hai
   Musibaton ki sataayi sitam ki maari hai
   Ghamon se ho gayi laaghar hussain ki behne
 
   3
-  ?amariyon pe bhi ho kar sawaar dekhti hai
+  amariyon pe bhi ho kar sawaar dekhti hai
   Lehad ko bhai ki sab baar baar dekhti hai
   Qadam qadam pe palat kar hussain ki behne
 
   4
-  ?abhi to choot ke aayi hai qaid khane se
+  abhi to choot ke aayi hai qaid khane se
   Hussain bhai ko dekha nahi zamane se
   Tadap ke roye na kyun kar hussain ki behne
 
   5
-  ?bana ke zaad e safar noor e ain ka chehra
+  bana ke zaad e safar noor e ain ka chehra
   Tasavuraat may bhaiya hussain ka chehra
   Safar may jaati hai le kar hussain ki behne
 
