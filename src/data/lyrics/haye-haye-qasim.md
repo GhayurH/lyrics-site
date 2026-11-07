@@ -10,9 +10,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye haye qasim haye qasim
-  Haye haye qasim haye qasim
-  
-  1
   Qaidi ban kar paaband e rasan
   Laashon se jo guzre ahle haram
   Har bibi apne pyaron se
@@ -21,6 +18,8 @@ romanLyrics: |-
   Pamaal badan qasim ki behan
   Kisi ek jaan se rukhsat na hui
   Tukdon may jo tha bhai ka badan
+
+  1
   Kabhi is tukde par haye qasim
   Kabhi us tukde par haye qasim
   Teri bhain ghareeb noo nayi bhulna
@@ -61,9 +60,6 @@ romanLyrics: |-
 ---
 
 ہاے ہاے قاسم ہاے قاسم
-ہاے ہاے قاسم ہاے قاسم
-
-۱
 قیدی بن کر پابند رسن
 لاشوں سے جو گزرے اہلِ حرم
 ہر بی بی اپنے پیاروں سے
@@ -72,6 +68,8 @@ romanLyrics: |-
 پامال بدن قاسم کی بہن
 کسی اک جا سے رخصت نہ ہوی
 ٹکڑوں میں جو تھا بھای کا بدن
+
+۱
 کبھی اس ٹکڑے پر ہاے قاسم
 کبھی اس ٹکڑے پر ہاے قاسم
 تیری بھین غریب نو نیء بھلنا
