@@ -14,12 +14,11 @@ romanLyrics: |-
   Bikhraye apne balon ko kehti rahi asghar
   Tu kya gaya ke chaya hai aankhon mein andhera
   Karbobala mein hogaya barbad mera ghar
-
-  1
   Jhoola hai jala ay laal tera
   Hai khaak basar ran mein bano
   Rone bhi nahi dete aada
-  Hai khaak basar ran mein bano
+
+  1
   Asbab luta qaime bhi jale
   Chadar bhi chini durre bhi lage
   Dooba hua gham mein hai kunba
@@ -66,12 +65,11 @@ romanLyrics: |-
 بکھرائے اپنے بالوں کو کہتی رہی اصغر
 تُو کیا گیا کے چھایا ہے آ نکھوں میں اندھیرا
 کر ب و بلا میں ہو گیا برباد میرا گھر
-
-۱
 جھولا ہے جلا اے لال تیرا
 ہے خاک بسر رن میں بانو
 رونے بھی نہیں دیتے اعدا
-ہے خاک بسر رن میں بانو
+
+۱
 اسباب لُٹا خیمے بھی جلے
 چادر بھی چھِنی دُرّے بھی لگے
 ڈوبا ہوا رن میں ہے کنبہ
