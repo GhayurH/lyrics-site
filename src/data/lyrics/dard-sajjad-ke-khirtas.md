@@ -44,7 +44,6 @@ romanLyrics: |-
   8
   Ay zamane ke yazeedon na kaho najfi se
   Khaak ke noor se auqaat bataun kaise
-reciter: Hasan Sadiq
 # source_id: nohayonline:08131c0bdf5b3f5aaa66
 # source_url: https://www.nohayonline.com/details_content.php?id=2257
 # raw_sha256: 82ee5aecab5f2745ee774fe8afdc0f989edc10eeca331107770dc1a5c72890ed
@@ -55,6 +54,7 @@ reciter: Hasan Sadiq
 # source_url: https://www.ziyaraat.net/api/noha/2470
 # raw_sha256: 0e323a6a9a8e05943dd8c16c102bb635b8a3d6361f5b2b9b92959dccea501d79
 ---
+
 درد سجاد کے قرطاس پہ لاؤں کیسے
 ہاے روتا ہے قلم لفظ بناؤں کیسے
 
