@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain hussain hussain hussain
-  
-  1
   Hussaina hussaina hussaina hussaina
   Karbala karbala hussain hussain
+
+  1
   Ay mere aaqa ay maula
   Aap ko na dekha na suna
   Chauda sadi se dil hai fida
@@ -92,10 +92,11 @@ romanLyrics: |-
 # raw_sha256: a92ce188d4f2e6ed8a4ba5bc088ad2346c60a98e2161b01094ddd3e500aac0e7
 ---
 
-۱
 حسین حسین حسین حسین
 حسینا حسینا حسینا حسینا
 کربلا کربلا حسین حسین
+
+۱
 اے میرے آقا اے مولا
 آپ کو نہ دیکھا نہ سنا
 چودہ صدی سے دل ہے فدا
@@ -133,7 +134,8 @@ romanLyrics: |-
 روح من قلب من
 بے وطن بیکفن بادشاہ زمن
 مظلوم
-حسین حسین۔۔۔
+
+۵
 یاد مجھے ہے وہ منظر
 لاشہ زمیں پہ تھا نہ زین پر
 خشک گلے پر تھا خنجر
@@ -144,7 +146,7 @@ romanLyrics: |-
 آہ کعبے کا کعبہ ہے کربلا
 کربلا کربلا کربلا واۓ
 
-۵
+۶
 جا نہ سکا گر کربوبلا
 دیکھا نہیں جو روضہ تیرا
 خاک وجود ہے پھر میرا
@@ -155,7 +157,7 @@ romanLyrics: |-
 جیسے زندہ رہوں حسین
 یا حسین یا حسینا
 
-۶
+۷
 زاد سفر کچھ کم ہے مگر
 دل پہ ہوا ہے ایسا اثر
 عشق میں تیرے شام و سحر
