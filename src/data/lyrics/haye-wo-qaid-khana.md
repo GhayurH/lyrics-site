@@ -12,31 +12,29 @@ published: false
 romanLyrics: |-
   Sajjad kaise bhoolein ghurbat ka wo zamana
   Haye wo qaid khana haye wo qaid khana
-  
-  1
   Beparda bibiyon ka baalon se moo chupana
-  
-  2
+
+  1
   Aankhon mein bas gayi zindan ki udaasi
   Baba ko dhoondti hai mazloom ek pyasi
   Dukhiya ka khauf se wo abbas ko bulana
-  
-  3
+
+  2
   Bhooli nahi sakina bazaar ka wo manzar
   Patthar baras rahe thay majboor qaidiyon par
   Wo shimr ke tamache zaalim ka taziyana
-  
-  4
+
+  3
   Mazloom qaidiyon ko abid na bhool paaye
   Hat'ta nahi nazar se bazaar e shaam haye
   Bemaar saarban ka aankhon se khoon bahana
-  
-  5
+
+  4
   Pyasi sakina hum se afsos haye bichad gayi
   Har lab pe tha ye nauha ruqsat ki ye ghadi hai
   Zindan se watan jab qaidi huwe rawana
-  
-  6
+
+  5
   Ab bhi muhib musalsal bemaar ro raha hai
   Aale nabi ke ghar mein farshe aza bicha hai
   Ye bain kar raha hai sadaat ka gharana
@@ -47,31 +45,29 @@ romanLyrics: |-
 
 سجاد کیسے بھولیں غربت کا وہ زمانہ
 ہاے وہ قید خانہ ہاے وہ قید خانہ
-
-۱
 بے پردہ بی بیوں کا بالوں سے منہ چھپانا
 
-۲
+۱
 آنکھوں میں بس گیء زندان کی اداسی
 بابا کو ڈھونڈتی ہے مظلوم ایک پیاسی
 دکھیا کا خوف سے وہ عباس کو بلانا
 
-۳
+۲
 بھولی نہیں سکینہ بازار کا وہ منظر
 پتھر برس رہے تھے مجبور قیدیوں پر
 وہ شمر کے طمانچے ظالم کا تازیانہ
 
-۴
+۳
 مظلوم قیدیوں کو عابد نہ بھول پاے
 ہٹتا نہیں نظر سے بازار شام ہاے
 بیمار سارباں کا آنکھوں سے خوں بہانا
 
-۵
+۴
 پیاسی سکینہ ہم سے افسوس ہاے بچھڑ گیء
 ہر لب پہ تھا یہ نوحہ رخصت کی یہ گھڑی ہے
 زندان سے وطن جب قیدی ہوئے روانہ
 
-۶
+۵
 اب بھی محب مسلسل بیمار رو رہا ہے
 آل نبی کے گھر میں فرش عزا بچھا ہے
 یہ بین کر رہا ہے سادات کا گھرانہ
