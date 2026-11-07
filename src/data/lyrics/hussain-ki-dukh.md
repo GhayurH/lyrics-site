@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain ki dukh bhari kahani
-  
-  1
   Tamaam dunya suna karegi
   Jo ro padega usay jahan mein
   Ali ki beti dua karegi
+
+  1
   Hussain ki laashe be-kafan se
   Ye keh ke zainab juda hui hai
   Jo tere maqtal mein bach gaya hai
   Wo kaam meri rida karegi
-  
+
   2
   Hussain baqir se keh rahe thay
   Meri sakina ko saath rakhna
   Safar ke har mod par ye bachi
   Tumhe dilaase diya karegi
-  
+
   3
   Ajeeb maa hai ke cheh mahine
   Ka laal qurban kar rahi hai
   Kabhi jo asghar ki yaad aayi
   Rubab zindan mein kya karegi
-  
+
   4
   Hussain waada hai ye behan ka
   Rehaai zindan se payegi jab
@@ -43,11 +43,11 @@ romanLyrics: |-
 ---
 
 حسین کی دکھ بھری کہانی
-
-۱
 تمام دنیا سنا کرے گی
 جو رو پڑے گا اسے جہاں میں
 علی کی بیٹی دعا کرے گی
+
+۱
 حسین کی لاش بے کفن سے
 یہ کہہ کے زینب جدا ہوی ہے
 جو تیرے مقتل میں بچ گیا ہے
