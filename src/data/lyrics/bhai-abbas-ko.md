@@ -11,8 +11,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Qatl karne ke iraade se sitamgar jo badha
-
-  1
   Hogayi dasht e bayaban ki khamosh fiza
   Paas aaya to qayamat ka ye manzar dekha
   Sajda e shukr may sar rakhe huwe shaahe huda
@@ -21,6 +19,8 @@ romanLyrics: |-
   Bhai abbas ko dete thay sada
   Tan se sar hota tha jis waqt juda
   Bhai abbas ko dete thay sada
+
+  1
   Jaanta tha ke shahe jinn o bashar pyase hai
   Jumbishe lab se ye lagta tha ke kuch kehte hai
   Shimr ne kaan laga kar jo suna
@@ -58,9 +58,8 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2613
 # raw_sha256: 260e103cec0dc238c59943c17c71c5db6f444667f18591466ec9046b0bf96e82
 ---
-قتل کرنے کے ارادے سے ستمگر جو بڑھا
 
-۱
+قتل کرنے کے ارادے سے ستمگر جو بڑھا
 ہو گیء دشت بیاباں کی خاموش فضا
 پاس آیا تو قیامت کا یہ منظر دیکھا
 سجدۂ شکر میں سر رکھے ہوے شاہ ہدا
@@ -69,6 +68,8 @@ romanLyrics: |-
 بھای عباس کو دیتے تھے صدا
 تن سے سر ہوتا تھا جس وقت جدا
 بھای عباس کو دیتے تھے صدا
+
+۱
 جانتا تھا کہ شہ جن و بشر پیاسے ہیں
 جنبش لب سے یہ لگتا تھا کہ کچھ کہتے ہیں
 شمر نے کان لگا کر جو سنا
