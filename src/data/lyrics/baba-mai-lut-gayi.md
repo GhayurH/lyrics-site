@@ -20,60 +20,47 @@ romanLyrics: |-
   Baba badal do naam mai zainab nahi rahi
   Baba mai lut gayi
   Karbobala basa ke ye zainab ne di sada
-
-  2
   Baba mai lut gayi
   Nazrein mila na payenge ek doosre se hum
   Ay mere baba jaan tumhe abbas ki qasam
   Aankhein na kholna mere sar par nahi rida
-
-  3
   Baba mai lut gayi
-  Karbobala basa ke ye...
+
+  2
   Pehle ke jaisi aap ki beti nahi rahi
   Pehchan'ne mein aap ko kuch dayr yun lagi
-
-  4
   Beenayi bhi gayi meri akbar bhi chal basa
   Baba mai lut gayi
-  Karbobala basa ke ye...
-  Sar rakh ke zakhmi seene pe royi wo tishnakaam
 
-  5
+  3
+  Sar rakh ke zakhmi seene pe royi wo tishnakaam
   Akbar ne kar diya mere parde ka intezaam
   Chehre pe khoon hai mere kadiyal jawan ka
   Baba mai lut gayi
-  Karbobala basa ke ye...
 
-  6
+  4
   Ujdi hai ek roz mein amma ki kayenat
   Kitne janaze uthe hai is ghar mein ek saath
   Bikhri hui hai dasht mein tasveer e fatema
   Baba mai lut gayi
 
-  7
-  Karbobala basa ke ye...
+  5
   Shahzadiyon ki tarha se rakha tha aap ne
   Jaate huwe hussain ko saumpa tha aap ne
   Wo dekhiye sina pe hai sar mere bhai ka
-
-  8
   Baba mai lut gayi
-  Karbobala basa ke ye...
+
+  6
   Baba najaf khareeb hai har shaam aaungi
   Mai qabr par hussain ki shamme jalaungi
-
-  9
   Tum saath apne le chalo ab kaun hai mera
   Baba mai lut gayi
-  Karbobala basa ke ye...
-  Ye kehte kehte mir takallum wo ro padi
 
-  10
+  7
+  Ye kehte kehte mir takallum wo ro padi
   Abid ko jalte qaimon se laayi hoon mai abhi
   Beton ka imtehan bhi beti ne de diya
   Baba mai lut gayi
-  Karbobala basa ke ye...
 # source_id: nohayonline:91d4199e31a6b4d55647
 # source_url: https://www.nohayonline.com/details_content.php?id=3292
 # raw_sha256: f7a752bea5108ea9ba54eb65a87b38151cb66af81af0a9482cd8058d8556ea8f
@@ -88,57 +75,44 @@ romanLyrics: |-
 بابا بدل دو نام میں زینب نہیں رہی
 بابا میں لٹ گئی
 کربوبلا بسا کے یہ زینب نے دی صدا
-
-۲
 بابا میں لٹ گئی
 نظریں ملا نہ پائیں گے ایک دوسرے سے ہم
 اے میرے بابا جاں تمہیں عباس کی قسم
 آنکھیں نہ کھولنا میرے سر پر نہیں ردا
-
-۳
 بابا میں لٹ گئی
-کربوبلا بسا کے یہ۔۔۔
+
+۲
 پہلے کے جیسی آپ کی بیٹی نہیں رہی
 پہچاننے میں آپ کو کچھ دیر یوں لگی
-
-۴
 بینای بھی گیء میری اکبر بھی چل بسا
 بابا میں لٹ گئی
-کربوبلا بسا کے یہ۔۔۔
-سر رکھ کے زخمی سینے پہ روی وہ تشنہ کام
 
-۵
+۳
+سر رکھ کے زخمی سینے پہ روی وہ تشنہ کام
 اکبر نے کر دیا میرے پردے کا انتظام
 چہرے پہ خون ہے میرے کڑیل جوان کا
 بابا میں لٹ گئی
-کربوبلا بسا کے یہ۔۔۔
 
-۶
+۴
 اجڑی ہر ایک روز میں اماں کی کاینات
 کتنے جنازے اٹھے ہے اس گھر میں ایک ساتھ
 بکھری ہوئی ہے دشت میں تصویر فاطمہ
 بابا میں لٹ گئی
 
-۷
-کربوبلا بسا کے یہ۔۔۔
+۵
 شہزادیوں کی طرح سے رکھا تھا آپ نے
 جاتے ہوئے حسین کو سونپا تھا آپ نے
 وہ دیکھیےء سناں پہ ہے سر میرے بھائی کا
-
-۸
 بابا میں لٹ گئی
-کربوبلا بسا کے یہ۔۔۔
+
+۶
 بابا نجف قریب ہے ہر شام آؤں گی
 میں قبر پر حسین کی شمعِ جلاؤں گی
-
-۹
 تم ساتھ اپنے لے چلو اب کون ہے میرا
 بابا میں لٹ گئی
-کربوبلا بسا کے یہ۔۔۔
-یہ کہتے کہتے میر تکلم وہ رو پڑی
 
-۱۰
+۷
+یہ کہتے کہتے میر تکلم وہ رو پڑی
 عابد کو جلتے خیموں سے لای ہوں میں ابھی
 بیٹوں کا امتحان بھی بیٹی نے دے دیا
 بابا میں لٹ گئی
-کربوبلا بسا کے یہ۔۔۔
