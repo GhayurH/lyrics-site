@@ -14,8 +14,6 @@ romanLyrics: |-
   Gir ke thanda hua hazrat ka alam darya par
   Gharke khoon ho gaya wo behre karam darya par
   Gul tha zakhmi hua saqqa e haram darya par
-
-  1
   Mashk ko daanton mein pakde huwe yun laata hai
   Daahan e sher mein jis tarha shikaar aata hai
   Jab huwe abbas ke baazu qalam
@@ -23,31 +21,31 @@ romanLyrics: |-
   Teeron se mashkeeza chalni ho gaya
   Khoon mein abbas ke dooba alam
 
-  2
+  1
   Jaam masoomon ke khaali reh gaye
   Laut kar aaye na ghazi ke qadam
 
-  3
+  2
   Zeen se girta na gar zor e kamar
   Yun kamar shabbir ki hoti na kham
 
-  4
+  3
   Laash e ghazi tadapta reh gaya
   Kha gaya abbas ko chadar ka gham
 
-  5
+  4
   Jab hua baazu bureeda bawafa
   Aaye qaime lootne ahle sitam
 
-  6
+  5
   Wa hijaaba keh ke royegi sada
   Gham na hoga saani e zehra ka kam
 
-  7
+  6
   Kehte hai abbas ye ahle aza
   Kaash matam mein tere mar jaaye hum
 
-  8
+  7
   Nauha jab se hai likha abbas ka
   Rote hai jawaad qirtaas o qalam
 # source_id: nohayonline:5dfbbf277d9962fc278e
@@ -58,8 +56,6 @@ romanLyrics: |-
 گر کے ٹھنڈا ہوا حضرت کا علم دریا پر
 غرق خوں ہو گیا وہ بہر کرم دریا پر
 غل تھا زخمی ہوا سقاے حرم دریا پر
-
-۱
 مشک کو دانتوں میں پکڑے ہوے یوں لاتا ہے
 دہن شیر میں جس طرح شکار آتا ہے
 جب ہوے عباس کے بازو قلم
@@ -67,30 +63,30 @@ romanLyrics: |-
 تیروں سے مشکیزہ چھلنی ہو گیا
 خوں میں عباس کے ڈوبا علم
 
-۲
+۱
 جام معصوموں کے خالی رہ گےء
 لوٹ کر آے نہ غازی کے قدم
 
-۳
+۲
 زین سے گرتا نہ گر زور کمر
 یوں کمر شبیر کی ہوتی نہ خم
 
-۴
+۳
 لاش غازی تڑپتا رہ گیا
 کھا گیا عباس کو چادر کا غم
 
-۵
+۴
 جب ہوا بازو بریدہ با وفا
 آے خیمے لوٹنے اہل ستم
 
-۶
+۵
 وا حجابا کہہ کے روے گی صدا
 غم نہ ہوگا ثانیء زہرا کا کم
 
-۷
+۶
 کہتے ہیں عباس یہ أہل عزا
 کاش ماتم میں تیرے مر جائے ہم
 
-۸
+۷
 نوحہ جب سے ہے لکھا عباس کا
 روتے ہیں جواد قرطاس و قلم
