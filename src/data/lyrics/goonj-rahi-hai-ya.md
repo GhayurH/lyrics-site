@@ -9,89 +9,57 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Meray lahoo ke har qatray may goonj raha hay ya Hussain
-
-  Ab to sab ka wird-e-zabaan bhi rehnay laga hay ya Hussain
-
+romanLyrics: |-
+  Mere lahoo ke har qatre mein goonj raha hai ya Hussain
+  Ab to sab ka wird e zaban bhi rehne laga hai ya Hussain
 
   1
-
-  1. Aap ki kya shaan hay maula, bolta quran hay maula
-
-  Fatema ki jaan hay maula, marzi-e-subhan hay maula
-
+  Aap ki kya shaan hai maula
+  Bolta quran hai maula
+  Fatema ki jaan hai maula
+  Marzi e subhan hai maula
 
   2
-
-  2. Karbala ka fatehay azaam, ba khuda hay waris-e-Adam
-
-  Ja bajaa phele tere parcham, ta abad hoga tera matam
-
+  Karbala ka fatahe aazam
+  Ba khuda hai waris e Adam
+  Ja baja phaile tere parcham
+  Ta abad hoga tera matam
 
   3
-
   Teen din ki tishnagi maula
-
   Haye teri bekasi maula
-
   Khushk gardan par churi maula
-
   Karbala kehti rahi maula
 
-
   4
-
   Kis tarha bhoolenge wo manzar
-
   Jab chala tha halq pe khanjar
-
   Jab sina ki nok pe tha sar
-
   Bol utha quran tere lab par
 
-
   5
-
-  Ye sabeele ye azakhane
-
-  Ankh mein ashkon ke paymane
-
+  Ye sabeelein ye azakhane
+  Aankh mein ashkon ke paymane
   Matami laaye hai nazrane
-
   Ab janabe sayyeda jaane
 
-
   6
-
   Ye teri maula azadari
-
   Zindagi se bhi hamein pyari
-
   Hai yehi tujh se wafadari
-
-  Ashk ankhon se rahe jaari
-
+  Ashk aankhon se rahe jaari
 
   7
-
-  Waaris e quran zindabad
-
+  Waris e quran zindabad
   Rehbar e insan zindabad
-
   Mazhar e emaan zindabad
-
   Fatema ki jaan zindabad
 
-
   8
-
   As salaam ay maalike kausar
-
   As salaam ay kushta e khanjar
-
   As salaam ay jaan e paighambar
-
-  Kehte hai rehaan aur sarwar'
+  Kehte hai rehaan aur sarwar
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:f285fdc10bd378ed32c2
 # source_url: https://www.nohayonline.com/details_content.php?id=371
@@ -101,12 +69,10 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # raw_sha256: c03bd6ecdd3a5843b39c1c9b0775d5a86393458386da59b63d8c7bae0abf04d1
 ---
 
-میرے لہو کے ہر قطرے میں
+میرے لہو کے ہر قطرے میں گونج رہا ہے یا حسین
+اب تو سب کا وردِ زباں بھی رہنے لگا ہے یا حسین
 
 ۱
-گونج رہا ہے یاحسین
-اب تو سب کا ورد زباں بھی
-رہنے لگا ہے یاحسین
 آپ کی کیا شان ہے مولا
 بولتا قرآن ہے مولا
 فاطمہ کی جان ہے مولا
@@ -140,7 +106,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 یہ تیری مولا عزاداری
 زندگی سے بھی ہمیں پیاری
 ہے یہی تجھ سے وفاداری
-اشک آنکھوںسے رہیں جاری
+اشک آنکھوں سے رہیں جاری
 
 ۷
 وارثِ قرآن زندہ باد
