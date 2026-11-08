@@ -1,5 +1,5 @@
 ---
-title: "خون کے اشک یتیمی اسے رلواے گی"
+title: "خون کے اشک یتیمی اسے رلوائے گی"
 alternateTitle: "Ab Sakina Ko Kabhi"
 language: "Urdu"
 lang: "ur"
@@ -10,57 +10,58 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khooon ke ashk yateemi usay rulwayegi
-  Ab sakina ko kabhi neend nahi aayegi
+  Khun ke ashk yatimi use rulvaegi
+  Ab Sakina ko kabhi nind nahi aaegi
 
   1
-  Khaak par aun o mohamed ko pada dekha hai
-  Laashe abbas mein naizo ko gada dekha hai
-  Sar ko baysheer ke bhi tan se juda dekha hai
-  Baap ke seene ko teero se bhara dekha hai
+  Khaak par Aun o Muhammad ko para dekha hai
+  Laash-e-Abbas mein nezoṅ ko gara dekha hai
+  Sar ko Beshir ke bhi tan se juda dekha hai
+  Baap ke sine ko tiroṅ se bhara dekha hai
 
   2
-  Maa rasan basta hai aur qaid hai bhai bemaar
-  Chain ab dil ko aayega na aayega qaraar
-  Maarta jayega har gaam tamache badkaar
-  Khaak par sar jo rakhegi to dukhenge rukhsaar
+  Maaṅ rasanbasta hai aur qaid hai bhai bimar
+  Chain ab dil ko aaega na aaega qarar
+  Maarta jaega har gaam tamache badkar
+  Khaak par sar jo rakhegi to dukheṅge rukhsar
 
   3
-  Maar kar durra tadapne bhi nahi dega layeen
-  Khaake ghash khaak pe girne bhi nahi dega layeen
-  Rona chahegi to rone bhi nahi dega layeen
-  Need gar aayi to sone bhi nahi dega layeen
+  Maar kar durra tarapne bhi nahi dega lain
+  Kha ke ghash khaak pe girne bhi nahi dega lain
+  Rona chahegi to rone bhi nahi dega lain
+  Nind gar aayi to sone bhi nahi dega lain
 
   4
-  Gardan e shaah pe chalta hua khanjar dekha
-  Is ne barchi se chida seena e akbar dekha
-  Ek hi din mein ujadta hua sab ghar dekha
-  Asr e ashoor ko zainab ka khula sar dekha
+  Gardan-e-Shah pe chalta hua khanjar dekha
+  Us ne barchhi se chhida sina-e-Akbar dekha
+  Ek hi din mein ujarta hua sab ghar dekha
+  Asr-e-Ashur ko Zainab ka khula sar dekha
 
   5
-  Jalte qaimon ka dhuaan aankhon mein baakhi hai abhi
-  Chinte gauhar ki dukhan kaano mein baakhi hai abhi
-  Tang rassi ki ghutan saanson mein baakhi hai abhi
-  Phat'te chaalon ki jalaan pairon mein baakhi hai abhi
+  Jalte khaimoṅ ka dhuaṅ aankhoṅ mein baqi hai abhi
+  Chhinte gauhar ki dukhan kanoṅ mein baqi hai abhi
+  Tang rassi ki ghutan saansoṅ mein baqi hai abhi
+  Phatte chhaloṅ ki jalan pairoṅ mein baqi hai abhi
 
   6
-  Pyaas peene ke liye bhook hai khaane ke liye
-  Shimr badkaar hai hamraah sataane ke liye
-  Aur be-rehm tamache hai rulaane ke liye
+  Pyaas pine ke liye bhuk hai khane ke liye
+  Shimr badkar hai hamrah satane ke liye
+  Aur berahm tamache haiṅ rulane ke liye
   Ye jo zinda hai to zindan mein jaane ke liye
 
   7
-  Bhool payegi na ghazi ke kate shaano ko
-  Bhool payegi na lut'te huwe armaano ko
-  Bhool payegi na wo kufe ke ehwaano ko
-  Bhoool payegi na wo shaam ke zindano ko
+  Bhul paegi na Ghazi ke kate shanoṅ ko
+  Bhul paegi na lutte huwe armanoṅ ko
+  Bhul paegi na woh Kufe ke ahwanoṅ ko
+  Bhul paegi na woh Shaam ke zindanoṅ ko
 
   8
-  Neend usay noor ali aaye to kaise aaye
-  Jis ko taqdeer ye ghurbat ki ghadi dikhlaye
-  Gaam dar gaam jo pathar kabhi durre khaaye
-  Nauha nasir ne padha dil se ye nikla haye
+  Nind use Noor Ali aaye to kaise aaye
+  Jis ko taqdir ye ghurbat ki ghari dikhlae
+  Gaam dar gaam jo patthar kabhi durre khae
+  Nauha Nasir ne parha dil se ye nikla haye
 # source_id: nohayonline:037c10368093b8a5ee22
+# editorial_uncertainty: Source HTML inaccessible; Roman normalized to Urdu. Differences in stanza two cheek line and stanza seven Kufa word require source/audio verification.
 # source_url: https://www.nohayonline.com/details_content.php?id=1894
 # raw_sha256: dee087a43914fce494dbf6709ea9166c98a30b85c6dd00282a27ad1fc6f3ca2f
 ---
@@ -86,7 +87,7 @@ romanLyrics: |-
 نیند گر آی تو سونے بھی نہیں دیگا لعیں
 
 ۴
-کردن شاہ پہ چلتا ہوا خنجر دیکھا
+گردنِ شاہ پہ چلتا ہوا خنجر دیکھا
 اس نے برچھی سے چھدا سینۂ اکبر دیکھا
 ایک ہی دن میں اجڑتا ہوا سب گھر دیکھا
 عصر عاشور کو زینب کا کھلا سر دیکھا

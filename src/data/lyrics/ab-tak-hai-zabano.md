@@ -1,5 +1,5 @@
 ---
-title: "ے جان و دل حیدر کرّار علمدار"
+title: "اے جان و دلِ حیدرِ کرار علمدار"
 alternateTitle: "Ab Tak Hai Zabano"
 language: "Urdu"
 lang: "ur"
@@ -10,55 +10,56 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay jaan o dil e hyder e karrar alamdar
-  Zinda hai jahan mein tere aasar alamdar
-  Mashk o alam ab bhi hai khoon baar alamdar
-  Ab tak hai zabano pe alamdar alamdar
+  Ae jaan o dil-e-Haider-e-Karrar Alamdar
+  Zinda hai jahan mein tere aasar Alamdar
+  Mashk o alam ab bhi haiṅ khunbar Alamdar
+  Ab tak hai zabanoṅ pe Alamdar Alamdar
 
   1
-  Lehre abhi leta hai fiza mein tera parcham
-  Parcham se numeina hai wafa ka teri aalam
-  Bhulegi na dunya tera esaar alamdar
+  Lehreṅ abhi leta hai fiza mein tera parcham
+  Parcham se numayaṅ hai wafa ka teri aalam
+  Bhulegi na dunya tera isar Alamdar
 
   2
-  Darya e mohabbat mein rawan hai teri kashti
-  Bache teri takhleed mein bante hai bahishti
-  Zaahir hai sakina se jo tha pyaar alamdar
+  Darya-e-mohabbat mein rawaṅ hai teri kashti
+  Bachche teri taqlid mein bante haiṅ bahishti
+  Zahir hai Sakina se jo tha pyar Alamdar
 
   3
-  Darya pa raha yaad mohabbat ka kareena
-  Wo pyaas mein do roz ki pani ka na peena
-  Yaad aati hai ye manzil e dushwaar alamdar
+  Darya pe raha yaad mohabbat ka qarina
+  Woh pyaas mein do roz ki pani ka na pina
+  Yaad aati hai ye manzil-e-dushwar Alamdar
 
   4
-  Kya seena sipar mashke sakina ka raha tu
-  Ek teer na aane diya jab tak rahe baazu
-  Is shaan se chamki teri talwar alamdar
+  Kya sina sipar mashk-e-Sakina ka raha tu
+  Ek tir na aane diya jab tak rahe baazu
+  Is shaan se chamki teri talwar Alamdar
 
   5
-  Tujhse hi sakina ko tha pani ka sahara
-  Kya jaane ye kis dard se tha usne pukara
-  Ay lashkare shabbir ke jarrar alamdar
+  Tujh se hi Sakina ko tha pani ka sahara
+  Kya jaane ye kis dard se tha us ne pukara
+  Ae lashkar-e-Shabbir ke Jarrar Alamdar
 
   6
-  Kis shaan se baba ka alam tune uthaya
-  Himmat ne tujhe zinda e javed banaya
-  Raas aaya hai kya mansabe karrar alamdar
+  Kis shaan se Baba ka alam tu ne uthaya
+  Himmat ne tujhe zinda-e-javed banaya
+  Raas aaya hai kya mansab-e-Karrar Alamdar
 
   7
-  Tevar pa fida tashna dahani pa tasadduq
-  Millat ke jawan teri jawani pe tasadduq
-  Sab teri mohabbat mein hai sarshaar alamdar
+  Tewar pe fida tashnadahani pe tasadduq
+  Millat ke jawaṅ teri jawani pe tasadduq
+  Sab teri mohabbat mein haiṅ sarshar Alamdar
 
   8
-  Sadiyon se hai kaandhe pa alam tera uthaye
-  Haa ek nigahe lutf yadullah ke jaye
-  Himmat hai dilon mein teri darkaar alamdar
+  Sadiyoṅ se hai kandhe pe alam tera uthae
+  Haaṅ ek nigah-e-lutf Yadullah ke jaaye
+  Himmat hai diloṅ mein teri darkar Alamdar
 # source_id: nohayonline:d8ea04a9cbd2efe5166b
+# editorial_uncertainty: Live HTML verified eight three-verse stanzas. Corrected missing vocative Ae in Urdu title and nasal Roman; original stanza one and eight wording ambiguous.
 # source_url: https://www.nohayonline.com/details_content.php?id=1089
 # raw_sha256: 1220531afb61931a76777633e89c73886a97a342cefcbbef434eae36a27a8ce3
 ---
-ے جان و دل حیدر کرّار علمدار
+اے جان و دلِ حیدرِ کرار علمدار
 زندہ ہے جہاں میں تیرے آثار علمدار
 مشک و الم اب بھی ہیں خوں بار علمدار
 اب تک ہے زبانوں پہ علمدار علمدار

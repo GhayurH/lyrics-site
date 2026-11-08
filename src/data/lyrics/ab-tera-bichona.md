@@ -10,55 +10,56 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashoor ki shab beti se kehte thay ye sarwar
-  Ab tera bichona khaak hai sakina
-  Kal nahi milega baap ka ye seena
+  Ashur ki shab beti se kehte the ye Sarwar
+  Ab tera bichhona khaak hai Sakina
+  Kal nahi milega baap ka ye sina
 
   1
-  Maine maana garm rayt par na so sakogi
-  Karwatein badal badal ke raat bhar jagogi
-  Yaad aayenge hum aur kabhi madina
+  Main ne mana garm ret par na so sakogi
+  Karwateṅ badal badal ke raat bhar jagogi
+  Yaad aaeṅge hum aur kabhi Madina
 
   2
-  Be-shikasta hoke bhi guzaarni hai raatein
-  Yaad aayengi hamare baad saari baatein
-  Yun tadap tadap ke ab tujhe hai jeena
+  Beshikasta ho ke bhi guzarni haiṅ raateṅ
+  Yaad aaeṅgi hamare baad saari baateṅ
+  Yun tarap tarap ke ab tujhe hai jina
 
   3
-  Zindagi guzaarni hai ab yateem ho kar
-  Jaise hum jiye hai apne baap maa ko kho kar
-  Mere baad jeena seekh lo sakina
+  Zindagi guzarni hai ab yatim ho kar
+  Jaise hum jiye haiṅ apne baap maaṅ ko kho kar
+  Mere baad jina sikh lo Sakina
 
   4
-  Haan ye shab to jaag ke guzaar lo magar kal
-  Nanhi nanhi aankhein neand se jo hongi bojhal
-  Kya korogi us dum soch lo hazeena
+  Haaṅ ye shab to jaag ke guzar lo magar kal
+  Nanhi nanhi aankheṅ nind se jo hoṅgi bojhal
+  Kya karogi us dam soch lo hazina
 
   5
-  Kal ka din rulayega tumhe bhi aur hame bhi
-  Waqt aazmayega tumhe bhi aur hame bhi
-  Sabr ka ye daaman chodna kabhi na
+  Kal ka din rulaega tumhein bhi aur hamein bhi
+  Waqt aazmaega tumhein bhi aur hamein bhi
+  Sabr ka ye daman chhorna kabhi na
 
   6
-  Haan ye shab wohi hai jiske waaste khuda se
-  Maine tumko maanga tha duaon ke sahare
-  Ab ye imtehan hai mai kahun sakina
+  Haaṅ ye shab wohi hai jis ke waste Khuda se
+  Main ne tumko maanga tha duaoṅ ke sahare
+  Ab ye imtehaṅ hai main kahuṅ Sakina
 
   7
-  Jis ka raaj hai wafa ki saari kayenat par
-  Pani ke liye usay na bhejna furaat par
-  Warna laut kar wo aayega kabhi na
+  Jis ka raaj hai wafa ki saari kainat par
+  Pani ke liye use na bhejna Furat par
+  Warna laut kar woh aaega kabhi na
 
   8
-  Khaak hai naseeb tera khaak pairahan hai
+  Khaak hai nasib tera khaak pairahan hai
   Ab teri rida bhi khaak khaak hi kafan hai
-  Khaak hi may hoga dafn ye nagina
+  Khaak hi mein hoga dafn ye nagina
 
   9
-  Mazhar abidi wo kaisi asr ki ghadi thi
-  Baap ko sakina bekasi se dekhti thi
-  Shaah keh rahe thay alwida sakina
+  Mazhar Abidi woh kaisi Asr ki ghari thi
+  Baap ko Sakina bekasi se dekhti thi
+  Shah keh rahe the alvida Sakina
 # source_id: nohayonline:978f4fbec19af5d1ac33
+# editorial_uncertainty: Source HTML verified nine three-verse stanzas; refrain repetition excluded. Original 'beshikasta' and stanza four 'hazina' require source/audio adjudication.
 # source_url: https://www.nohayonline.com/details_content.php?id=2647
 # raw_sha256: 950e34da5ec97aa679147fba39d59194f7093fb002196dc772cb1aef1c9f3e61
 ---
@@ -78,7 +79,7 @@ romanLyrics: |-
 
 ۳
 زندگی گزارنی ہے اب یتیم ہو کر
-جیسے ہم جیےء ہیں اپنے باپ ماں کو کھو کر
+جیسے ہم جیے ہیں اپنے باپ ماں کو کھو کر
 میرے بعد جینا سیکھ لو سکینہ
 
 ۴
