@@ -11,61 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye thay bain bano ke shaame ghariban
-  
-  1
   Kahan kho gaye ho mere pyare asghar
+
+  1
   Kahin darr na jaana is aafat ke ban mein
   Kahan jaa chupe ho mere pyare asghar
   Mai kyun kar tumhe dhoondun andhiyari shab mein
   Kahan so gaye ho mere pyare asghar
+
+  2
   Suna hai koi hurmala tha sitamgar
   Chalaya tha teer e sitam jis ne sheh par
   Humak kar liya tum ne apne galay par
   Bahot khush hai is par tumhari ye maadar
   Mujhe surkh roo pesh e binte payambar
   Tum hi kar gaye ho mere pyare asghar
-  
-  2
+
+  3
   Gila to nahi hai tumhe apni maa se
   Tumhe pani peene ko bheja tha maine
   Tum aa bhi gaye to sambhalungi kaise
   Suna hai rasan basta jaana hai yan se
   Na majboor hoti to jaane na deti
   Sabhi jaante ho mere pyare asghar
-  
-  3
+
+  4
   Tumhe sheh ne pani pilaya to hoga
   Tumhe paas apne sulayenge baba
   Tum ab apne baba ke seene pe sona
   Na ab koi zid apne baba se karna
   Na hoga sitam koi is se zyada
   Jo tum seh chuke ho mere pyare asghar
-  
-  4
+
+  5
   Mujhe shaam o kufa bhi jaana hai beta
   Isi karbala tak tha saath apna beta
   Isi ko ab apna muqaddar samajhna
   Mere paas soyengi bali sakina
   Qayamat talak ab wahin sote rehna
   Jahan so rahe ho mere pyare asghar
-  
-  5
+
+  6
   Wahin ban mein aun o mohamed bhi honge
   Yaqeenan yateemane muslim bhi honge
   Tumhari tasalli ko qasim bhi honge
   Tumhe denge abbas o akbar dilaase
   Yahan mard sirf ek hai sajjade muztar
   Jo tum dekhte ho mere pyare asghar
-  
-  6
+
+  7
   Jalaya layeeno ne qaimon ko aisa
   Na jhoola tera mai bacha paayi beta
   Tadapti hai qaime mein bali sakina
   Wahan muntazir hai madine mein sughra
   Kisi ki khabar kuch nahi tumko beta
   Kahan jaa base ho mere pyare asghar
-  
-  7
+
+  8
   Sa'adat hai mere liye sibte jafar
   Likha behre tableegh o nazim jo nauha
   Nahi daawa fankari aur shayari ka
@@ -76,7 +78,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3457
 # raw_sha256: f394f16443b611df81ecd43e50edb771ba0d75c8cfaff3c6071bef129a4b67a2
 ---
-
 یہ تھے بین بانو کے شام غریباں
 کہاں کھو گےء ہو میرے پیارے اصغر
 
@@ -84,6 +85,7 @@ romanLyrics: |-
 کہیں ڈر نہ جانا اس آفت کے بن میں
 کہاں جا چھپے ہو میرے پیارے اصغر
 میں کیوں کر تمہیں ڈھونڈوں اندھیاری شب میں
+کہاں سو گئے ہو میرے پیارے اصغر
 
 ۲
 سنا ہے کوی حرملہ تھا ستمگر

@@ -13,22 +13,24 @@ romanLyrics: |-
   As salaam ya zahra
   Yunhi dar e zahra pe malayek nahi jhukte
   Mahboob e khuda khud bhi thay azeem ko uth'te
+
+  1
   Salman zaeefi mein khuda jaane ke kaise
   Chunte rahe sarwar ki tehreer ke purze
 
-  1
+  2
   Afsos musalman ne usi ghar ko jalaya
   Jis dar pe to allah ke payambar bhi thay rukte
 
-  2
+  3
   Islam ka mafhoom kabhi poora na hota
   Tatheer ke gulshan mein agar phool na khilte
 
-  3
+  4
   Islam ki wahdat ka taqaza to nahi tha
   Ay kaash kabhi musalman firkon mein na bat'te
 
-  4
+  5
   Maqdooma ko ameer wo haq dete na dete
   Wajib tha musalman par tazeem to karte
 # source_id: nohayonline:5f4ad636af7eff4c95e8
@@ -38,21 +40,23 @@ romanLyrics: |-
 السلام یا زہرا
 یونہی در زہرا پہ ملایک نہیں جھکتے
 محبوب خدا خود بھی تھے تعظیم کو اٹھتے
+
+۱
 سلمان ضعیفی میں خدا جانے کہ کیسے
 چنتے رہے سرور کی تحریر کے پرزے
 
-۱
+۲
 افسوس مسلمان نے اسی گھر کو جلایا
 جس در پہ تو اللہ کے پیمبر بھی تھے رکتے
 
-۲
+۳
 اسلام کا مفہوم کبھی پورا نہ ہوتا
 تطہیر کے گلشن میں اگر پھول نہ کھلتے
 
-۳
+۴
 اسلام کی وحدت کا تقاضا تو نہیں تھا
 اے کاش کبھی مسلمان فکروں میں نہ بٹتے
 
-۴
+۵
 مخدومہ کو آمیر وہ حق دیتے نہ دیتے
 واجب تھا مسلمان پر تعظیم تو کرتے
