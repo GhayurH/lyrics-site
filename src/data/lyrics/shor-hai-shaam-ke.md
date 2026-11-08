@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Shor hai shaam ke lashkar may ke abbas aaye
   Aur tabaatur khabar aayi ke bahot paas aaye
   Par ghame shaahe shaheedan se basad yaas aaye
@@ -21,7 +20,6 @@ romanLyrics: |-
 # raw_sha256: 9d74bf74f2e5377ad9c5b91d1d965a0c685313edbec0bff6373beb9ea96ffb6c
 ---
 
-۱
 شور ہے شام کے لشکر میں کہ عباس آے
 اور تباتر خبر آی کہ بہت پاس آے
 پر غم شاہ شہیداں سے بصد یاس آے

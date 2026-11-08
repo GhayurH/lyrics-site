@@ -12,11 +12,11 @@ published: false
 romanLyrics: |-
   Shole hai bhadakte huwe har simt dhuan hai
   Zainab pa musibat hai qayamat ka samaa hai
-
-  1
   Kehti hai muhafiz mere parde ka kahan hai
   Hum gheerate hyder meri chadar to bachale
   Abbas utho aag lagi jalte hai qaime
+
+  1
   Phir ghaiz e yadullah zamane ko dikhao
   Faryad chaheeti ki hai imdaad ko aao
   Gohar na chine aake bhatiji ko bachao
@@ -51,11 +51,11 @@ romanLyrics: |-
 ---
 شعلے ہیں بھڑکتے ہوئے ہر سمت دھواں ہے
 زینب پہ مصیبت ہے قیامت کا سماں ہے
-
-۱
 کہتی ہے محافظ میرے پردے کا کہاں ہے
 ہم غیرتِ حیدر میری چادر تو بچالے
 عباس اٹھو آگ لگی جلتے ہیں خیمے
+
+۱
 پھر غازیء یداللہ زمانے کو دکھاؤ
 فریاد چہیتی کی ہے امداد کو آؤ
 گوہر نہ چھنے آ کے بھتیجی کو بچاؤ

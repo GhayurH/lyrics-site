@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Shimr e saffaak ne ye hazrate zainab se kaha
   Uzr karta hoo ke ab baksh do tum meri khata
   Kaha zainab ne ke mal'oon o bani e jafa
@@ -21,7 +20,6 @@ romanLyrics: |-
 # raw_sha256: 512079def52ad59cca9c357486f8045870ed8a89ecfc186635adce0c40a39cb2
 ---
 
-۱
 شمر سفاک نے یہ حضرتِ زینب سے کہا
 عزر کرتا ہوں کہ اب بخش دو تم میری خطا
 کہا زینب نے کہ ملعون و بانیء جفا

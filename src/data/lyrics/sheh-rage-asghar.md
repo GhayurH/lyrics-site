@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   Sheh rage asghar pe haye
-  
-  1
   Hurmala ka teer hai
+
+  1
   Dekh kar manzar hai naazan
   Maadar e baysheer hai
   Mai bhi qasim ki tarha
   Doongi asghar khwaab tha
   Aaj tu ne laaj rakhli
   Ye meri tabeer hai
-  
+
   2
   Hurmala ka teer kha ke
   Lab hilay masoom ke
   Koi pooche hurmala se
   Kya meri taqseer hai
-  
+
   3
   Ro pade paikan kamane
   Ghash mein saare ambiya
   Haath mein laasha pisar ka
   Sajde mein shabbir hai
-  
+
   4
   Khoon mein doobe huwe
   Laal se kehti thi maa
   Uth tujhe milne hai aayi
   Haye sakina dilgeer hai
-  
+
   5
   Dhoop mein tauseef ro ro
   Aal ajal ki de sada
@@ -50,9 +50,9 @@ romanLyrics: |-
 ---
 
 شہ رگ اصغر پہ ہاے
+حرملہ کا تیر ہے
 
 ۱
-حرملہ کا تیر ہے
 دیکھ کر منظر ہے نازاں
 مادر بے شیر ہے
 میں بھی قاسم کی طرح
