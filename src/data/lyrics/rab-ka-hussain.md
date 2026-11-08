@@ -11,12 +11,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Maula hussain aaqa hussain
-
-  1
   Aaqa hussain qibla hussain
   Rab ne kaha rab ka hussain
   Rab ka hussain sab ka hussain
   Maula hussain
+  
+  1
   Quran ke hai dil ki tamanna hussain
   Ishq tera dil mein sameina hussain
   Hai ye mere dil ki sada ya hussain
@@ -24,7 +24,7 @@ romanLyrics: |-
   Yaadon mein hussain aankhon mein hussain
   Palkon mein hussain khwabon mein hussain
   Hai lab pe sada ye subho masa ya hussain
-
+  
   2
   Sabr ne kalma hai pada bas tera
   Azm ne tujhse hai liya hausla
@@ -32,7 +32,7 @@ romanLyrics: |-
   Khudrat ke liye khudrat hai hussain
   Taaqat ke liye taaqat hai hussain
   Ye tera qaseeda sab ne padha
-
+  
   3
   Jhoom ke kehta hai qalam ba khuda
   Loh bhi padta hai qaseeda tera
@@ -40,7 +40,7 @@ romanLyrics: |-
   Taqdeer bana sakta hai hussain
   Har sheh pe tera qabza hai hussain
   Raahib ne zamane bhar se kaha ya hussain
-
+  
   4
   Tu ne hi islam ko di zindagi
   Tujhse shariyat ko mili roshni
@@ -48,7 +48,7 @@ romanLyrics: |-
   Kalma hai hussain sajda hai hussain
   Har momin ka rauza hai hussain
   Allah ne tera shukr kiya ya hussain
-
+  
   5
   Raaze khuda e wand ka chehra hai tu
   Kalma e tauheed ka nukhta hai tu
@@ -56,7 +56,7 @@ romanLyrics: |-
   Tu raaz e jali tu raaz e khafi
   Khudrat ko bhi zeenat tujhse mili
   Hai kaun bhala tujhsa maula
-
+  
   6
   Lut gaya ek din mein bhara tera
   Zulm ye tujh par mere maula hua
@@ -64,7 +64,7 @@ romanLyrics: |-
   Ghazi na raha asghar na raha
   Sarwar ka koi yawar na raha
   Hai tanha mera bekas maula
-
+  
   7
   Peet ke sar momino matam karo
   Ashk se aankhon ko zara nam karo
@@ -77,12 +77,12 @@ romanLyrics: |-
 # raw_sha256: e96c2a8446a38fe9b228bd6690e0a66cb58e706ef74ebfcd82fb0969a85f443d
 ---
 مولا حسین آقا حسین
-
-۱
 آقا حسین قبلہ حسین
 رب نے کہا رب کا حسین
 رب کا حسین سب کا حسین
 مولا حسین
+
+۱
 قرآن کے ہے دل کی تمنا حسین
 عشق تیرا دل میں سمایا حسین
 ہے یہ میرے دل کی صدا یا حسین
