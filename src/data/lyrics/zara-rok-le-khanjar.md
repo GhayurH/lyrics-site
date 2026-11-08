@@ -34,7 +34,6 @@ romanLyrics: |-
   Dedaar kare wo mera mai bhi usay dekhun
   Zakhmi hoo magar aakhri tazeem to karlun
   Ay shimr behan hai ye meri maa ke barabar
-  Zara rok le khanjar
 
   5
   Zainab chali jaye to sitam chaahe jo dhaana
@@ -88,7 +87,6 @@ romanLyrics: |-
 دیدار کرے وہ میرا میں بھی اسے دیکھوں
 زخمی ہوں مگر آخری تعظیم تو کر لوں
 اے شمر بہن ہے یہ میری ماں کے برابر
-زرا روک لے خنجر
 
 ۵
 زینب چلی جائے تو ستم چاہے جو ڈھانا

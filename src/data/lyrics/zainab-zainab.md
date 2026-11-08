@@ -12,12 +12,11 @@ published: false
 romanLyrics: |-
   Qaimon mein alam aaya alamdar na aaya
   Shabbir ne zainab ko yehi nauha sunaya
-
-  1
   Darya pe maara gaya tera alamdar zainab
   Zainab zainab zainab zainab zainab zainab
   Tooti hai meri kamar lut gayi sarkar zainab
-  Darya pe maara gaya tera alamdar zainab
+
+  1
   Haathon mein kooza liye baithe hai pyase
   Hai sab ko aas zainab us bawafa se
   Moo hum se mod gaya ghurbat mein chod gaya
@@ -58,12 +57,11 @@ romanLyrics: |-
 ---
 خیموں میں علم آیا علمدار نہ آیا
 شبیر نے زینب کو یہی نوحہ سنایا
-
-۱
 دریا پہ مارا گیا تیرا علمدار زینب
 زینب زینب زینب زینب زینب زینب
 ٹوٹی ہے میری کمر لٹ گیء سرکار زینب
-زینب زینب زینب زینب زینب زینب
+
+۱
 ہاتھوں میں کوزہ لیےء بیٹھے ہیں پیاسے
 ہے سب کو آس اس باوفا سے
 منہ ہم‌ سے موڑ گیا غربت میں چھوڑ گیا

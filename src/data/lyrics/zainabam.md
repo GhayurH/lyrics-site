@@ -10,36 +10,34 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain Tanhai-e-man
+  Tanhaai e man
   Man zulfiqar-e-haidaram
   Man aitbar-e-khuwaharam
+  Man Zainabam
 
   1
-  Man Zainabam
   Aye shamiyo main bint-e-nabbi bint-e-ali hoon
-  Zainab hoon main Zainab hoon
-  Main Zainab hoon main quraan key saaye main pali hoon
+  Zainab hoon mai zainab hoon mai zainab hoon mai
+  Quran ke saaye mein pali hoon
   Zakhmi hoon azadaar hoon rassi main bandhi hoon
   Main phir bhi na zalim se dari thi na dari hoon
-
-  2
   Man chiragh-e-mustafa
   Man jalal-e-murtaza
   Man shakista Zainabam
 
-  3
+  2
   Naizay pe merey bhai ka sar tum ney charhaaya
   Turbat main ali aur nabbi ko hai rulaya
   Jitna bhi satana tha hamay tum ney sataya
   Par baiyat-e-zalim pe na sar ham ney jhukaya
 
-  4
+  3
   Hai akber o shabbir sey abbas sey wada
-  Jab bhi dar-e- jab bhi dar-e- jab bhi dar-e-zindaan-e-sitam mujh pe khulay ga
+  Jab bhi dar e zindan e sitam mujh pe khulega
   Matam merey payaaron ka bapa shaam main ho ga
   Phir matam-e-shabbir na ta hashr rukay ga
 
-  5
+  4
   Paigham-e-hussaini ka diya jalta rahey ga
   Abbas ka parcham bhi har ik ghar main lagay ga
   Salman o ali jee aza khana to sajjay ga
@@ -54,33 +52,31 @@ romanLyrics: |-
 تنہائیء من
 من ذوالفقار حیدرم
 من اعتبار خواہرم
+من زینبم
 
 ۱
-من زینبم
 اے شامیوں میں بنت نبی بنت علی ہوں
 زینب ہوں میں زینب ہوں میں زینب ہوں میں
 قرآن کے ساے میں پلی ہوں
 زخمی ہوں عزادار ہوں رسی میں بندھی ہوں
 میں پھر بھی نہ ظالم سے ڈری تھی نہ ڈری ہوں
-
-۲
 من چراغِ مصطفیٰ
 من جلال مرتظی
 من شکستہ زینبم
 
-۳
+۲
 نیزے پہ میرے بھائی کا سر تم‌ نے چڑھایا
 تربت میں علی اور نبی کو ہے رلایا
 جتنا بھی ستانا تھا ہمیں تم نے ستایا
 پر بیعت ظالم پہ نہ سر ہم نے جھکایا
 
-۴
+۳
 ہے اکبر و شبیر سے عباس سے وعدہ
 جب بھی در زندان ستم مجھ پہ کھلے گا
 ماتم میرے پیاروں کا بپا شام میں ہو گا
 پھر ماتم شبیر نہ تا حشر رکے گا
 
-۵
+۴
 پیغام حسینی کا دیا جلتا رہے گا
 عباس کا پرچم بھی ہر ایک گھر میں لگے گا
 سلمان و علی جی عزاخانہ تو سجے گا
