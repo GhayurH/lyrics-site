@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Rehaan Azmi"
 tags: []
 aliases:
   - "Mere Hath Nahin Hain"
@@ -12,6 +13,13 @@ cover: "/images/lyrics/mere-hath-nahin-hain.png"
 coverAlt: "Cover image for Mere Hath Nahiṅ Haiṅ"
 published: true
 romanLyrics: |-
+  Jab haath qalam ho chuke abbas e jari ke
+  Nauha hussain karte huwe ye dasht mein pahunche
+  Saanse abhi rawan thi alamdar ye bole
+  Mehroom e ziyarat ka salaam e akheer hai
+  Ek aankh mein lahoo hai bhara ek mein teer hai
+  Aaqa mere maula
+
   Maiṅ kaise uthuṅ aaqa, mere haath nahiṅ haiṅ
   Mere haath nahiṅ haiṅ
   
@@ -62,7 +70,17 @@ romanLyrics: |-
   Ye nauha-e-Ghazi sar-e-majlis jo Raza hai
   Rehan-e-aza kehta hai ye maujiza kya hai
   Ye haath hai Ghazi ka, mere haath nahiṅ haiṅ
+# source_id: nohayonline:2c3fdc4b8b66a389128e
+# source_url: https://www.nohayonline.com/details_content.php?id=1813
+# raw_sha256: b4a095026c20e46603e375d90689d7ef4255aa704e0e7896e629caf7378d15ec
 ---
+جب ہاتھ قلم ہو چکے عباس جری کے
+نوحہ حسین کرتے ہوے یہ دشت میں پہنچے
+سانسیں ابھی رواں تھی علمدار یہ بولے
+محروم زیارت کا سلام اخیر ہے
+اک آنکھ میں لہو ہے بھرا اک میں تیر ہے
+آقا میرے مولا
+
 
 میں کیسے اٹھوں آقا میرے ہاتھ نہیں ہیں
 میرے ہاتھ نہیں ہیں

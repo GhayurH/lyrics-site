@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
+poet: "Hasan Imdad"
 tags: []
 aliases:
   - "Taqaddam Waladi"
@@ -12,6 +13,14 @@ cover: "/images/lyrics/taqaddam-waladi.png"
 coverAlt: "Cover image for Karbala Ho Chuki Tayyar, Taqaddam Waladi"
 published: true
 romanLyrics: |-
+  Fauj e aada thi udhar jang pe tayyar khadi
+  Jaan dene pe yahan fauje elaahi thi tuli
+  Yak bayak sheh ki nazar akbar e mehroo pe padi
+  Dekh kar suye pisar shaah ne awaaz ye di
+  Taqadam waladi taqadam waladi
+  Saj chuka maut ka bazaar taqadam waladi
+  In pe aanch aaye na zinhaar taqadam waladi
+
   1
   Karbala ho chuki tayyar, taqaddam waladi
   Barhe aate haiṅ jafakar, taqaddam waladi
@@ -102,7 +111,18 @@ romanLyrics: |-
   Phir to jana bhi hai dushwar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
+# source_id: nohayonline:d9ae7960cad078d7d9ac
+# source_url: https://www.nohayonline.com/details_content.php?id=2974
+# raw_sha256: bbfc34d0fd29cd73a51488c88689ced78693a7462eff559f16786e45fc0e4a1f
 ---
+فوج اعدا تھی ادھر جنگ پہ تیار کھڑی
+جان دینے پہ یہاں فوج الٰہی تھی تلی
+یک بہ یک شہ کی نظر اکبر مہرو پہ پڑی
+دیکھ کر سوے پسر شاہ نے آواز یہ دی
+تقدم ولدی تقدم ولدی
+سج چکا موت کا بازار تقدم ولدی
+ان پہ آنچ آئے نہ زنہار تقدم ولدی
+
 
 ۱
 کربلا ہو چکی تیار، تقدم ولدی
