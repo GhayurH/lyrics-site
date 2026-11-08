@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Mayyat jawan pisar ki uthayi hussain ne
-  
-  1
   Saari kameini apni lutayi hussain ne
   Ummat ki nao paar lagayi hussain ne
   Dunya ko haq ki raah dikhayi hussain ne
+
+  1
   Qasim ko de diya ali akbar ko de diya
   Bhai ko de diya ali asghar ko de diya
   Raahe khuda mein apne base ghar ko de diya
   Izzat khuda ke deen ki bachayi hussain ne
-  
+
   2
   Baakhi na be-zuban hai na akbar sa mehlakha
   Abbas e jaan wafa hai na qasim sa dilruba
   Har haal mein hussain ne shukre khuda kiya
   Peshani hukme haq pe jhukayi hussain ne
-  
+
   3
   Islam par thi kufr ki chaayi hui ghata
   Bechain thi lehad mein udhar roohe mustufa
   Sar de ke apna shaah ne deen ko bacha liya
   Bujhti hui ye shamma jalayi hussain ne
-  
+
   4
   Kha kar sina jo seene pe akbar guzar gaye
   Pakde hue kaleje ko sheh laash par gaye
@@ -41,13 +41,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=915
 # raw_sha256: 43bfe2512309ba8ec1d40d6bda0d0ff1445c6cd36ed55c263599cfc3fbd7ee9a
 ---
-
 میت جواں پسر کی اٹھای حسین نے
-
-۱
 ساری کمائی اپنی لٹای حسین نے
 امت کی ناؤ پار لگای حسین نے
 دنیا کو حق کی راہ دکھائی حسین نے
+
+۱
 قاسم کو دے دیا علی اکبر کو دے دیا
 بھائی کو دے دیا علی اصغر کو دے دیا
 راہ خدا میں اپنے بسے گھر کو دے دیا
