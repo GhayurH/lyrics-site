@@ -11,10 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Waqte ruqsat baap ko bete ka mud kar dekhna
-  Karbala, karbala, karbala, ab imtihan-e sabr-e Sarwar dekhna
+  Karbala ab imtehane sabr e sarwar dekhna
 
   1
-  Karbala ab imtehane sabr e sarwar dekhna
   Door tak jaate huwe dekha kiye kaise hussain
   Thokarein khaa khaa ke khud sambhla kiye kaise hussain
   Ay ali akbar zara peeche palat kar dekhna
@@ -71,11 +70,10 @@ romanLyrics: |-
 # raw_sha256: f1fb73ebd5f4ced277eebf3f17bb3228084e99b576edc185c48f8e5d1767b001
 # added_stanza_source: roman:kalam-ziyaraat-fbea83138fa5e50a24f5
 ---
-وقتِ رُخصت باپ کا بیٹے کو مُڑ کر دیکھنا
-کربلا، کربلا، کربلا، اب انتہائے صبرِ سرورؑ دیکھنا
+وقتِ رخصت باپ کو بیٹے کا مڑ کر دیکھنا
+کربلا اب امتحانِ صبرِ سرور دیکھنا
 
 ۱
-کربلا، اب انتہائے صبرِ سرور دیکھنا
 دور تک جاتے ہوئے، دیکھا کیئے کیسے حسین
 ٹھوکریں کھا کھا کے خود، سنبھلا کیئے کیسے حسین
 اے علی اکبر ذرا، پیچھے پلٹ کر دیکھنا
