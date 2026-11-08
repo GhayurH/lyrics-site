@@ -10,9 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Pado kalma nabi ka musulmano
   Karo matam hussain ka azadaro
+
+  1
   Deen ne maula shabbir ko di sada
   Amma zehra ke markaz se ruqsat hua
   Lab pe naam e khuda dil mein thi karbala
@@ -71,10 +72,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2620
 # raw_sha256: 4282ffd9b7007c79bb61cf5f95c5b79daa49cc4f2dedeaa2cf89e1ebf53e7f54
 ---
-
-۱
 پڑھو کلمہ نبی کا مسلمانوں
 کرو ماتم حسین کا عزاداروں
+
+۱
 دین نے مولا شبیر کو دی صدا
 اماں زہرا کے مرکز سے رخصت ہوا
 لب پہ نام خدا دل میں تھی کربلا
