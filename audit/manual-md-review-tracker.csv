@@ -483,6 +483,7 @@ src/data/lyrics/aa-rahe-hai-teri-janib.md,standalone_lyrics,imported,unclassifie
 src/data/lyrics/aa-rahi-hai-yehi.md,standalone_lyrics,imported,unclassified,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-batch-01,7f31cfd4fd9ee54da6a6052a7122e927991ccb8e,Reviewed with available Urdu/Roman; archived NoHayOnline HTML not yet verified.
 src/data/lyrics/aa-sunawan-shan-teno-mustafa-de-veer-da.md,standalone_lyrics,imported,unclassified,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-batch-01,7f31cfd4fd9ee54da6a6052a7122e927991ccb8e,Reviewed with available Urdu/Roman; archived NoHayOnline HTML not yet verified.
 src/data/lyrics/aa-teere-garan-le.md,standalone_lyrics,imported,unclassified,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-batch-02,f810554200e7bcec54da30d6e86cfb6da0363cda,Reviewed with available Urdu/Roman; archived NoHayOnline HTML not yet verified.
+src/data/lyrics/aabad-hui-karbobala.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-02,this_commit,New notebook kalam; stanza structure manually assembled; ambiguous readings should be checked.
 src/data/lyrics/aabrue-la-ilaha.md,standalone_lyrics,imported,unclassified,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-batch-02,f810554200e7bcec54da30d6e86cfb6da0363cda,Reviewed with available Urdu/Roman; archived NoHayOnline HTML not yet verified.
 src/data/lyrics/aagaya-bazar-ali.md,standalone_lyrics,imported,unclassified,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-batch-02,f810554200e7bcec54da30d6e86cfb6da0363cda,Reviewed with available Urdu/Roman; archived NoHayOnline HTML not yet verified.
 src/data/lyrics/aagaya-bazare-shaam.md,standalone_lyrics,imported,unclassified,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-batch-02,f810554200e7bcec54da30d6e86cfb6da0363cda,Reviewed with available Urdu/Roman; archived NoHayOnline HTML not yet verified.
@@ -564,14 +565,14 @@ src/data/lyrics/aao-matam-kare.md,standalone_lyrics,imported,nohayonline,spot_ch
 src/data/lyrics/aao-ro-lein-shahe-karbala-ko.md,standalone_lyrics,preexisting,preexisting+nohayonline,merged,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-10,21d9803e918e196b3a3f841693ab2923659f3c15,Consolidated aao-ro-lein.md into the published original; four source-verified stanzas added.
 src/data/lyrics/aao-sab-ali-ali.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,partial_review,reviewed,verified_live_html,partially_checked,2026-11-08-batch-10,21d9803e918e196b3a3f841693ab2923659f3c15,HTML checked; Roman opening aligned. Alam shadeed/shahid source discrepancy remains.
 src/data/lyrics/aao-sakina-roti.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-10,21d9803e918e196b3a3f841693ab2923659f3c15,Verified NoHayOnline source order and manually corrected Urdu/Roman.
-src/data/lyrics/aao-taboot.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,partially_verified_live_html,partially_checked,2026-11-08-batch-11,this_commit,Restored 11 stanzas and missing Khadija response; first eight source checked; last three remain unverified on public page.
-src/data/lyrics/aao-tareekh-sunaon-main-shab-e-hijrat-ki-mir-hasan-mir.md,standalone_lyrics,imported,tajpoints,spot_checked,reviewed,partial_review,reviewed,not_applicable,reviewed,2026-11-08-batch-11,this_commit,Reconstructed 8-stanza bilingual text from corroborated Roman source; poet credited by reciter; verify ambiguous Hajj-ada phrase.
-src/data/lyrics/aao-zaware-hussain.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,this_commit,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
-src/data/lyrics/aap-jab-se-huwe.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,this_commit,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
-src/data/lyrics/aap-jo-dil-pe-sina.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,this_commit,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
-src/data/lyrics/aap-ke-baad-mujhe.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,pending,partially_checked,2026-11-08-batch-11,this_commit,Source page returned anti-bot verification; corrected Roman against available Urdu.
-src/data/lyrics/aap-ke-baad-na-soyi.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,this_commit,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
-src/data/lyrics/aap-ki-dastaar.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,this_commit,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
+src/data/lyrics/aao-taboot.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,partially_verified_live_html,partially_checked,2026-11-08-batch-11,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Restored 11 stanzas and missing Khadija response; first eight source checked; last three remain unverified on public page.
+src/data/lyrics/aao-tareekh-sunaon-main-shab-e-hijrat-ki-mir-hasan-mir.md,standalone_lyrics,imported,tajpoints,spot_checked,reviewed,partial_review,reviewed,not_applicable,reviewed,2026-11-08-batch-11,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Reconstructed 8-stanza bilingual text from corroborated Roman source; poet credited by reciter; verify ambiguous Hajj-ada phrase.
+src/data/lyrics/aao-zaware-hussain.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
+src/data/lyrics/aap-jab-se-huwe.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
+src/data/lyrics/aap-jo-dil-pe-sina.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
+src/data/lyrics/aap-ke-baad-mujhe.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,pending,partially_checked,2026-11-08-batch-11,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Source page returned anti-bot verification; corrected Roman against available Urdu.
+src/data/lyrics/aap-ke-baad-na-soyi.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
+src/data/lyrics/aap-ki-dastaar.md,standalone_lyrics,imported,nohayonline,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-batch-11,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Checked NoHayOnline source order; corrected aligned Urdu and Roman.
 src/data/lyrics/aap-ki-qasam.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/aap-ki-zahra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/aap-par-darood-aur-salam-aye-mere-imam.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
@@ -868,7 +869,7 @@ src/data/lyrics/allah-ka-zakir.md,standalone_lyrics,imported,unclassified,pendin
 src/data/lyrics/allah-ke-shahkar-ka-hai-youm-e-wiladat.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/allah-ki-riza-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/allah-kya-jigar-tha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/allah-mujhe-lashkar-e-mehdi-se-mila-de.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,this_commit,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
+src/data/lyrics/allah-mujhe-lashkar-e-mehdi-se-mila-de.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
 src/data/lyrics/allah-nigehban-watan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/allaho-akbar-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/allaho-baaqi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1496,6 +1497,7 @@ src/data/lyrics/dashte-karbala.md,standalone_lyrics,imported,unclassified,pendin
 src/data/lyrics/dastan-e-shujaat-sher-abbas-sain-rehman.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/dayar-e-karb-o-bala-syed-mudassir-mehdi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/de-kar-alam-jo-sheh.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/deen-ka-data-jagat-ka-malik.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-02,this_commit,New notebook kalam; stanza structure manually assembled; ambiguous readings should be checked.
 src/data/lyrics/deen-ko-abide.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/deen-ko-bacha-liya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/deene-ahmed-ki-baqa.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1561,7 +1563,7 @@ src/data/lyrics/dushwar-kitni-qaid.md,standalone_lyrics,imported,unclassified,pe
 src/data/lyrics/ehad-naama.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-abbas-tere-jaane.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-ali-ki-laadli-thi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ek-baar-aur-mujhe.md,standalone_lyrics,imported,nohayonline+personal_notebook,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-notebook-01,this_commit,Merged five additional notebook stanzas and retained five existing stanzas in source order; notebook transcription reviewed.
+src/data/lyrics/ek-baar-aur-mujhe.md,standalone_lyrics,imported,nohayonline+personal_notebook,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-notebook-01,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Merged five additional notebook stanzas and retained five existing stanzas in source order; notebook transcription reviewed.
 src/data/lyrics/ek-bachi-gham-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-behan-bhai-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-bemaar-ko-tum.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1579,6 +1581,7 @@ src/data/lyrics/ek-mehre-karbala.md,standalone_lyrics,imported,unclassified,pend
 src/data/lyrics/ek-musafir-watan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-nanhi-si-lehad.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-natiqe-quran.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ek-nusairi-ne-bare-pyar-se.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-02,this_commit,New notebook kalam; stanza structure manually assembled; ambiguous readings should be checked.
 src/data/lyrics/ek-sada-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-sakina-aur-ek.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-sar-kya-tha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1781,7 +1784,7 @@ src/data/lyrics/haram-ko-leke.md,standalone_lyrics,imported,unclassified,pending
 src/data/lyrics/haram-sarae-hussaini.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hasan-haye-husaina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hasan-imame-hasan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/hashim-ke-gharane-ke-qamar.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,this_commit,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
+src/data/lyrics/hashim-ke-gharane-ke-qamar.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
 src/data/lyrics/hashr-may-rang-layega.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hasliyon-waale-mere.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hassan-apka-hai-syed-zill-e-raza-zaidi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2057,7 +2060,7 @@ src/data/lyrics/jab-mai-bhi-karbala.md,standalone_lyrics,imported,unclassified,p
 src/data/lyrics/jab-mashk-bhar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jab-maula-aayenge.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jab-mere-ghar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/jab-meri-zindagi-ka-labrez-jaam-hoga.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,this_commit,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
+src/data/lyrics/jab-meri-zindagi-ka-labrez-jaam-hoga.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
 src/data/lyrics/jab-mujhe-aap-ke-qatil-ne-hai-mara-baba.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/jab-mujhe-aap-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jab-na-aada-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2225,7 +2228,7 @@ src/data/lyrics/kar-rahi-hai-dastane.md,standalone_lyrics,imported,unclassified,
 src/data/lyrics/kar-rahi-hai-lehad-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kar-rahi-thi-sakina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karbal-ke-maseeha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/karbal-ki-kahani-jab.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,this_commit,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
+src/data/lyrics/karbal-ki-kahani-jab.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
 src/data/lyrics/karbal-tune-loot-liya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karbala-aagaye.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karbala-aam-kare.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2288,6 +2291,7 @@ src/data/lyrics/karti-hai-bayan.md,standalone_lyrics,imported,unclassified,pendi
 src/data/lyrics/karti-hai-fughan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karti-thi-bain-ran.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karwan-jo-berida-tha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/kash-main-mehdi-e-dauran-ka-zamana-dekhun.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-02,this_commit,New notebook kalam; stanza structure manually assembled; ambiguous readings should be checked.
 src/data/lyrics/kata-jo-din-to-jafa.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kaun-hai-jo-imdad.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kaun-kaafir-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -3237,7 +3241,7 @@ src/data/lyrics/sallallahu-alaik-ya.md,standalone_lyrics,imported,unclassified,p
 src/data/lyrics/sanae-murtaza-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/saqqa-e-sakina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/saqqae-ahlebayt.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/saqqae-haram.md,standalone_lyrics,imported,nohayonline+personal_notebook,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-notebook-01,this_commit,Notebook overlaps existing ten-stanza poem; corrected wording without adding duplicate verses.
+src/data/lyrics/saqqae-haram.md,standalone_lyrics,imported,nohayonline+personal_notebook,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-notebook-01,fb25660a303d1c5401c4576a8ec46a1b7d9558e3,Notebook overlaps existing ten-stanza poem; corrected wording without adding duplicate verses.
 src/data/lyrics/sar-ali-ka-sajdae.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sar-apna-kata-gaya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sar-dekh-ke-shabbir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -3263,6 +3267,7 @@ src/data/lyrics/sarwar-ki-azadari.md,standalone_lyrics,imported,unclassified,pen
 src/data/lyrics/sataya-gaya-zahra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sattar-qadam-ka-fasla.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sattar-qadam-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/sayyada-fatima-zehra-o-batool-e-azra.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-02,this_commit,New notebook kalam; stanza structure manually assembled; ambiguous readings should be checked.
 src/data/lyrics/sayyado-sardar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sayyeda-ko-na.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/seena-e-akbar-toda.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -3317,6 +3322,7 @@ src/data/lyrics/shabbir-tu-ne-aise.md,standalone_lyrics,imported,unclassified,pe
 src/data/lyrics/shabbir-ye-sab-dunya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/shabe-ashoor-tha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/shabe-ashoor.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/shabih-e-payambar-ali-ali.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-02,this_commit,New notebook kalam; stanza structure manually assembled; ambiguous readings should be checked.
 src/data/lyrics/shabihe-imame-zaman.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/shabihe-payambar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/shadi-hai-syeda-se-janab-e-ameer-ki-sajjad-ashraf-taqvi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
