@@ -29,56 +29,48 @@ romanLyrics: |-
   Ya hussain ya majrooh
   Ya hussain ya matrooh
   Ya hussain ya madbooh
-
-  3
   Gohar e risalat dil o jaan e zehra
   Qamar e wilayat dil o jaan e zehra
   Samar e imamat dil o jaan e zehra
   Shajar e taharat dil o jaan e zehra
 
-  4
+  3
   Tu meri mohabbat ya hussain
   Tu meri mawaddat ya hussain
   Tu hi meri jannat ya hussain
   Ya hussain ya rahman
   Ya hussain ya atshaan
   Ya hussain ya quran
-
-  5
   Tu meri shariyat ay shafi e mehshar
   Tu meri aqeedat ay shafi e mehshar
   Sabab e shafa'at ay shafi e mehshar
   Hai teri ziyarat ay shafi e mehshar
 
-  6
+  4
   Tu mera asaasa ya hussain
   Tu meri maseeha ya hussain
   Tu hi mera kaaba ya hussain
   Ya hussain ya mabroor
   Ya hussain ya maafoor
   Ya hussain ya manhoor
-
-  7
   Tu hi noor e yazdan ya hussain shaheedan
   Tu hi deen o imaan ya hussain shaheedan
   Tu furaat e ehsaan ya hussain shaheedan
   Tu meri nigeban ya hussain shaheedan
 
-  8
+  5
   Tu meri riyazat ya hussain
   Tu meri ibaadat ya hussain
   Tu hi meri izzat ya hussain
   Ya hussain ya masloob
   Ya hussain ya maghzoob
   Ya hussain ya mahyoob
-
-  9
   Tu hamari hai jaan ay shahe shaheedan
   Tu hamari pehchaan ay shahe shaheedan
   Ye iram aur rehan ay shahe shaheedan
   Hai tere nauhakhwan ay shahe shaheedan
 
-  10
+  6
   Tu hamari himmat ya hussain
   Tu hamari quwwat ya hussain
   Tu hamari taaqat ya hussain
@@ -108,56 +100,48 @@ romanLyrics: |-
 یا حسین یا مجروح
 یا حسین یا متروح
 یا حسین یا مدبوح
-
-۳
 گوہر رسالت دل و جان زہرا
 قمر ولایت دل و جان زہرا
 ثمر امامت دل و جان زہرا
 شجر طہارت دل و جان زہرا
 
-۴
+۳
 تو میری محبت یا حسین
 تو میری مودت یا حسین
 تو ہی میری جنت یا حسین
 یا حسین یا رحمان
 یا حسین یا عطشاں
 یا حسین یا قرآن
-
-۵
 تو میری شریعت اے شافیء محشر
 تو میری عقیدت اے شافیء محشر
 سبب شفاعت اے شافیء محشر
 ہے تیری زیارت اے شافیء محشر
 
-۶
+۴
 تو میرا اثاثہ یا حسین
 تو میری مسیحا یا حسین
 تو ہی میرا کعبہ یا حسین
 یا حسین یا مبرور
 یا حسین یا معفور
 یا حسین یا منہور
-
-۷
 تو ہی نورِ یزداں یا حسین شہیداں
 تو ہی دین و ایماں یا حسین شہیداں
 تو فرات احساں یا حسین شہیداں
 تو میری نگہباں یا حسین شہیداں
 
-۸
+۵
 تو میری رضیت یا حسین
 تو میری عبادت یا حسین
 تو ہی میری عزت یا حسین
 یا حسین یا مسلوب
 یا حسین یا مغضوب
 یا حسین یا محیوب
-
-۹
 تو ہماری ہے جان اے شاہ شہیداں
 تو ہماری پہچان اے شاہ شہیداں
 یا ارم اور ریحان اے شاہ شہیداں
 ہے تیرے نوحہ خواں اے شاہ شہیداں
 
-۱۰
+۶
 تو ہماری ہمت یا حسین
 تو ہماری قوت یا حسین
 تو ہماری طاقت یا حسین
