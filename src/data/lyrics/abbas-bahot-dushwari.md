@@ -10,7 +10,7 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mera abbas bhaiya abbas
+  Mere Abbas bhaiya Abbas
   Abbas bahot dushwari hai
   Zainab ne kaha ro kar bhaiya
   Sar khulne ki tayyari hai
@@ -18,64 +18,64 @@ romanLyrics: |-
   Aa jaldi aa darr taari hai
 
   1
-  Aakhir mai karun kya batla de
+  Aakhir main karuṅ kya batla de
   Koi raah to mujhko dikhla de
   Aisa na ho mujh par dhaye sitam
-  Mai kaun hoo inko samjha de
-  Sunti hoo ke teri darya par
+  Main kaun huṅ inko samjha de
+  Sunti huṅ ke teri darya par
   Is waqt alambardari hai
 
   2
-  Kyun leta nahi hai meri khabar
-  Mai hogayi hoo ghar se be ghar
+  Kiun leta nahiṅ hai meri khabar
+  Main ho gayi huṅ ghar se beghar
   Darti hoo na chin jaye chadar
   Hae dekh qayamat ka manzar
-  Kyun karta nahi imdaad meri
+  Kiun karta nahiṅ imdad meri
   Kya baat hai jo be zaari hai
 
   3
   Kya is se bada bhi hoga sitam
   Ab nargha e aada mein hai hum
-  Saansein hai galay mein atki hui
+  Saanseṅ hain gale mein atki hui
   Lagta hai nikal jayega dam
   Karti hai sakina yaad tujhe
-  Ghabrayi hui bechaari hai
+  Ghabrai hui bechari hai
 
   4
-  Qaimon ko jalaya jaata hai
+  Khaimoṅ ko jalaya jaata hai
   Be jurm sataya jaata hai
   Aa dekh mere ghazi qaidi
   Abid ko banaya jaata hai
-  Pehnaate hai zaalim zanjeerein
+  Pehnate hain zalim zanjireṅ
   Aur tauq galay mein bhaari hai
 
   5
   Aise mein kare kya teri behan
   Bandhti hai mere shaano mein rasan
-  Kis tarha rakhun dil par qaabu
+  Kis tarah rakhuṅ dil par qabu
   Kis tarha karun ye zulm sahan
   Ghairat se mera phat'ta hai jigar
-  Saanson mein bhi aah o zaari hai
+  Saansoṅ mein bhi aah o zari hai
 
   6
   Kis tarha jiye naazon ke palay
-  Hai ek rasan mein baara galay
+  Hai ek rasan mein barah gale
   Haste hai meri ghurbat pe layeen
   Din ye bhi meri taqdeer mein thay
   Zinda mujhe bhaiya rakhe huwe
   Is waqt meri khuddaari hai
 
   7
-  Kodon pe mai kode khaati hoo
-  Aur kuch bhi nahi keh paati hoo
+  Koroṅ pe main kore khati huṅ
+  Aur kuchh bhi nahiṅ keh paati huṅ
   Jab dekhti hoo naizon pe sar
   Dil thaam ke bas reh jaati hoo
-  Hote hai musalsal zulm o sitam
+  Hote hain musalsal zulm o sitam
   Ghurbat ka safar bhi jaari hai
 
   8
-  Ay tishna jigar ay tishna dahan
-  Ay sher e ghazanfar raahat e jaan
+  Ae tishna jigar ae tishna dahan
+  Ae sher-e-ghazanfar rahat-e-jaan
   Itna to bata de zainab ko
   Manzil hai kahan jaana hai kahan
   Bithlaate hai zaalim naaqe par
@@ -84,14 +84,15 @@ romanLyrics: |-
   9
   Asif jo sukhan zainab ke sune
   Abbas lab e darya tadpe
-  Shabbir ka sar roya aamir
-  Aankhon ko na khola ghazi ne
+  Shabbir ka sar roya Aamir
+  Aankhoṅ ko na khola Ghazi ne
   Kehti rahi khwahar ro ro kar
   Imdad ko aa laachari hai
 # source_id: nohayonline:404ff64a71f92760d7d0
 # source_url: https://www.nohayonline.com/details_content.php?id=2109
 # raw_sha256: 38a343822b382907de12bbefa7de6cea6e5dfd6372b2bf32848fbe0b13fb8283
 ---
+
 میرے عباس بھیا عباس
 عباس بہت دشواری ہے
 زینب نے کہا رو کر بھیا
@@ -101,27 +102,27 @@ romanLyrics: |-
 
 ۱
 آخر میں کروں کیا بتلا دے
-کوئی راہ تو مجھکو دکھلا دے
-ایسا نہ ہو مجھ پر ڈھاے ستم
+کوئی راہ تو مجھ کو دکھلا دے
+ایسا نہ ہو مجھ پر ڈھائے ستم
 میں کون ہوں ان کو سمجھا دے
 سنتی ہوں کہ تیری دریا پر
 اس وقت علمبرداری ہے
 
 ۲
 کیوں لیتا نہیں ہے میری خبر
-میں ہوگیء ہوں گھر سے بے گھر
-ڈرتی ہوں نہ چھن جاے چادر
-ہاے دیکھ قیامت کا منظر
+میں ہو گئی ہوں گھر سے بے گھر
+ڈرتی ہوں نہ چھن جائے چادر
+ہائے دیکھ قیامت کا منظر
 کیوں کرتا نہیں امداد میری
 کیا بات ہے جو بے زاری ہے
 
 ۳
 کیا اس سے بڑا بھی ہوگا ستم
 اب نرغہء اعدا میں ہیں ہم
-سانسیں ہے گلے میں اٹکی ہوی
+سانسیں ہے گلے میں اٹکی ہوئی
 لگتا ہے نکل جائے گا دم
 کرتی ہے سکینہ یاد تجھے
-گھبرای ہوی بے چارے ہے
+گھبرائی ہوئی بے چاری ہے
 
 ۴
 خیموں کو جلایا جاتا ہے
@@ -140,11 +141,11 @@ romanLyrics: |-
 سانسوں میں بھی آہ و زاری ہے
 
 ۶
-کس طرح جیےء نازوں کے پلے
+کس طرح جیے نازوں کے پلے
 ہے ایک رسن اور بارہ گلے
 ہنستے ہیں میری غربت پہ لعیں
 دن یہ بھی میری تقدیر میں تھے
-زندہ مجھے بھیا رکھے ہوے
+زندہ مجھے بھیا رکھے ہوئے
 اس وقت میری خود داری ہے
 
 ۷
@@ -166,7 +167,7 @@ romanLyrics: |-
 ۹
 آصف جو سخن زینب کے سنے
 عباس لب دریا تڑپے
-منشبیر کا سر رویا عامر
+شبیر کا سر رویا عامر
 آنکھوں کو نہ کھولا غازی نے
 کہتی رہی خواہر رو رو کر
 امداد کو آ لاچاری ہے

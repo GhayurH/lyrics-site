@@ -10,68 +10,69 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kehti hai ran mein fatema
+  Kehti hai ran mein Fatema
   Abbas beta marhaba
-  
+
   1
   Tu ishq ki meraj hai
-  Sar par wafa ka taaj hai
-  Saabit ye tu ne kar diya
+  Sar par wafa ka taj hai
+  Sabit ye tu ne kar diya
   Darya pe tera raaj hai
-  Chullu mein le li alqama
-  
+  Chullu mein le li Alqama
+
   2
-  Aale nabi ki aas hai
-  Imran ka akkaas hai
+  Aal-e-Nabi ki aas hai
+  Imran ka akkas hai
   Teri talab darya nahi
   Darya ko teri pyaas hai
-  Saqqa e aale mustafa
-  
+  Saqqa-e-Aal-e-Mustafa
+
   3
   Tujhse zabar bhi zer hai
   Tashnalabi se ser hai
   Haibat hai sheron par teri
-  Tu sher e haq ka sher hai
-  Shamsheer e shaah e karbala
-  
+  Tu sher-e-Haq ka sher hai
+  Shamshir-e-Shah-e-Karbala
+
   4
   Ajdaad ki pehchan hai
-  Binte ali ka maan hai
+  Bint-e-Ali ka maan hai
   Bachpan se lekar aaj tak
   Shabbir par qurban hai
   Qurban tujhpar hai wafa
-  
+
   5
-  Tere shaano pe qurban jaun
-  Aaja seene se apne lagaun
+  Tere shanoṅ pe qurban jauṅ
+  Aa ja sine se apne lagauṅ
   Tujhko shabbir jaisa samajh kar
-  Apne haathon se pani pilaun
+  Apne haathoṅ se pani pilauṅ
   Darya se pyasa aagaya
-  
+
   6
-  Tha ye mehzar mein abbas likha
-  Tashnalab hi rahegi sakina
+  Tha ye mazhar mein Abbas likha
+  Tishnalab hi rahegi Sakina
   Gham na kar mashk gar chid gayi hai
-  Tujhse raazi hai shaah e madina
+  Tujhse razi hai Shah-e-Madina
   Tune ada haq kar diya
-  
+
   7
-  Jo mahafiz thay aale nabi ke
-  Kat gaye haye baazu wo tere
+  Jo muhafiz the Aal-e-Nabi ke
+  Kat gaye haaye bazu wo tere
   Aaj se hashr tak deen ka parcham
-  Tu uthayega bin baazuon ke
+  Tu uthayega bin bazuoṅ ke
   Ab ye alam tera hua
-  
+
   8
-  Jo takallum hai emaan tera
+  Jo Takallum hai iman tera
   Shadman ka wohi hai aqeeda
-  Rauza e ibne shere khuda par
+  Rauza-e-Ibn-e-Sher-e-Khuda par
   Dil ye kehta hai ahle aza ka
-  Ek maa ki aati hai sada
+  Ek maaṅ ki aati hai sada
 # source_id: nohayonline:75574bc63ea78b35c11e
 # source_url: https://www.nohayonline.com/details_content.php?id=3003
 # raw_sha256: 7068e04dda9aa0f09ddb163f076c3a7e4ade9774ff1d1004ddaefff1fde8389b
 ---
+
 
 کہتی ہے رن میں فاطمہ
 عباس بیٹا مرحبا
@@ -81,19 +82,19 @@ romanLyrics: |-
 سر پر وفا کا تاج ہے
 ثابت یہ تو نے کر دیا
 دریا پہ تیرا راج ہے
-چلو میں لے لی علقمہ
+چُلّو میں لے لی علقمہ
 
 ۲
 آل نبی کی آس ہے
 عمران کا عکاس ہے
 تیری طلب دریا نہیں
 دریا کو تیری پیاس ہے
-سقاے آل مصطفیٰ
+سقائے آلِ مصطفیٰ
 
 ۳
 تجھ سے زبر بھی زیر ہے
 تشنہ لبی سے سیر ہے
-حیبت ہے شیروں پر تیری
+ہیبت ہے شیروں پر تیری
 تو شیر حق کا شیر ہے
 شمشیر شاہ کربلا
 
@@ -105,24 +106,24 @@ romanLyrics: |-
 قربان تجھ پر ہے وفا
 
 ۵
-تیرے شانوں پہ قربان جون
+تیرے شانوں پہ قربان جاؤں
 آجا سینے سے اپنے لگاؤں
-تجھکو شبیر جیسا سمجھ کر
+تجھ کو شبیر جیسا سمجھ کر
 اپنے ہاتھوں سے پانی پلاؤں
 دریا سے پیاسا آ گیا
 
 ۶
 تھا یہ مظہر میں عباس لکھا
 تشنہ لب ہی رہے گی سکینہ
-غم نہ کر مشک گر چھد گیء ہے
+غم نہ کر مشک گر چھد گئی ہے
 تجھ سے راضی ہے شاہ مدینہ
 تو نے ادا حق کر دیا
 
 ۷
 جو محافظ تھے آل نبی کے
-کٹ گےء ہاے بازو وہ تیرے
+کٹ گئے ہاے بازو وہ تیرے
 آج سے حشر تک دین کا پرچم
-تو اٹھاے گا بن بازوؤں کے
+تو اٹھائے گا بن بازوؤں کے
 اب یہ علم تیرا ہوا
 
 ۸
