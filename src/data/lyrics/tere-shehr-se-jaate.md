@@ -9,96 +9,60 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ya hussain ya hussain
-
-  Teray shahr se jate hain day humko dua nana
-
-  Aabad karenge hum hae ab karbobala nana
-
+romanLyrics: |-
+  Ya hussain ya hussain
+  Teray shahr se jate hain
 
   1
-
-  Tera deen hai mushkil me mai kaise rahu ghar me
-
-  Tifli me koi wada tha tujhse kiya nana
-
+  Day humko dua nana
+  Aabad karenge hum
+  Hae ab karbobala nana
+  Tera deen hai mushkil mein
+  Mai kaise rahun ghar mein
+  Tifli mein koi waada
+  Tha tujhse kiya nana
 
   2
-
   Rauze pe tere aake hum
-
   Shamme jalate thay
-
   Ab kaun mujawir hai
-
   Sughra ke siwa nana
 
-
   3
-
   Is tarha parinde bhi
-
   Maskann se nahi jaate
-
   Ghurbat mein mujhe jaise
-
   Ab jaana pada nana
 
-
   4
-
   Bacche hai bahot chote
-
   Garmi ka zamana hai
-
   Pahunchayega manzil par
-
   Ab hum ko khuda nana
 
-
   5
-
   Amma ki lehad chooti
-
   Rauza bhi tera choota
-
   Is waqt kaleje par
-
   Khanjar sa chala nana
 
-
   6
-
   Zainab tere rauze par
-
   Beparda nahi aayi
-
   Ab dekhegi sab dunya
-
   Sar uska khula nana
 
-
   7
-
   Mere saath mein jaati hai
-
   Masoom sakina bhi
-
   Pardes mein howegi
-
   Us par bhi jafa nana
 
-
   8
-
   Rehaan larzta tha
-
   Marqad bhi payambar ka
-
   Shabbir jo kehte thay
-
-  Mai marne chala nana'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+  Mai marne chala nana
 # source_id: nohayonline:03f12aef0cf721dcb4ff
 # source_url: https://www.nohayonline.com/details_content.php?id=3320
 # raw_sha256: 477b3c281dd92c12100928662e5dfa7f23aa37c5605127cb8053642afe722b43
@@ -106,7 +70,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_url: https://www.ziyaraat.net/api/noha/1800
 # raw_sha256: bd8ba4101e01e9eec832c608d659ec6b8d5d161fd0b045d3a3bcbb56a0f497bb
 ---
-
+یا حسین یا حسین
 تیرے شہر سے جاتے ہیں
 
 ۱
