@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "ali-sohna-sher-rab-da-tahseen-sakina-lyrics-in-punjabi-2022"
 published: false
 # source_id: tajpoints:607cf27c9a12c556b9a1
 # source_url: https://tajpoints.com/2023/02/ali-sohna-sher-rab-da-tahseen-sakina.html

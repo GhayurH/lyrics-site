@@ -10,40 +10,41 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaime may jo sheh laate hai abbas ke baazu
-  Kulsoom ko tadpate hai abbas ke baazu
+  Khaime mein jo Sheh laate hain Abbas ke bazu
+  Kulsum ko tarpate hain Abbas ke bazu
 
   1
-  Shabbir bhi maare gaye mai kar na sak kuch
-  Is baat pa khoon rote hai abbas ke baazu
+  Shabbir bhi maare gaye main kar na saka kuchh
+  Is baat pe khun rote hain Abbas ke bazu
 
   2
-  Chin jaati hai phir zainab o kulsoom ki chadar
-  Maqtal may jo kat jaate hai abbas ke baazu
+  Chhin jaati hai phir Zainab o Kulsum ki chadar
+  Maqtal mein jo kat jaate hain Abbas ke bazu
 
   3
-  Hal min ki sada sunte hi shabbir ki ran se
-  Darya pa tadap uth'te hai abbas ke baazu
+  Hal min ki sada sunte hi Shabbir ki ran se
+  Darya pe tarap uthte hain Abbas ke bazu
 
   4
-  Zaalim ne sakina se kaha maar ke durre
-  Kaise tujhe chudwate hai abbas ke baazu
+  Zalim ne Sakina se kaha maar ke durre
+  Kaise tujhe chhurwate hain Abbas ke bazu
 
   5
-  Zainab ki rida lut'ti hai bazaar may jab bhi
-  Sajjad ko yaad aate hai abbas ke baazu
+  Zainab ki rida lutti hai bazar mein jab bhi
+  Sajjad ko yaad aate hain Abbas ke bazu
 
   6
-  Laasha ali akbar ka utha to nahi sakte
-  Aapas may hi takrate hai abbas ke baazu
+  Laasha Ali Akbar ka utha to nahiṅ sakte
+  Aapas mein hi takrate hain Abbas ke bazu
 
   7
-  Likhta hai aqeel aal e nabi ke jo masayib
-  To behre ata uth'te hai abbas ke baazu
+  Likhta hai Aqeel Aal-e-Nabi ke jo masaib
+  To bahr-e-ata uthte hain Abbas ke bazu
 # source_id: nohayonline:e62dc10a97b7a2f9862f
 # source_url: https://www.nohayonline.com/details_content.php?id=1170
 # raw_sha256: 0509ef644b4916416f81906efac5b6ee5adf45420d83d6c95ad3660340708849
 ---
+
 خیمے میں جو شہ لاتے ہیں عباس کے بازو
 کلثوم کو تڑپاتے ہیں عباس کے بازو
 
@@ -56,7 +57,7 @@ romanLyrics: |-
 مقتل میں جو کٹ جاتے ہیں عباس کے بازو
 
 ۳
-ھل من کی صدا سنتے ہی شبیر کی رن سے
+ہل من کی صدا سنتے ہی شبیر کی رن سے
 دریا پہ تڑپ اٹھتے ہیں عباس کے بازو
 
 ۴

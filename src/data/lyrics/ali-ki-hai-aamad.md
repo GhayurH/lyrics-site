@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Qasida"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "ali-ki-hai-aamad-qasida-ch-faiyaz-party-lyrics-13-rajab"
 published: false
 # source_id: tajpoints:2af32e517a3ea30ad9f0
 # source_url: https://tajpoints.com/2024/01/ali-ki-hai-aamad-qasida-ch-faiyaz-party.html

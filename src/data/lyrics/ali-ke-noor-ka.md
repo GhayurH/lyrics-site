@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "ali-ke-noor-ka-mukhtar-hussain-fatehpuri-lyrics-2022"
 published: false
 # source_id: tajpoints:d6c316102178198964bc
 # source_url: https://tajpoints.com/2022/02/ali-ke-noor-ka-mukhtar-hussain.html

@@ -653,8 +653,8 @@ src/data/lyrics/abbas-ka-sar.md,standalone_lyrics,imported,unclassified,spot_che
 src/data/lyrics/abbas-kahan-ho-bhai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/abbas-kahan-ho.md,standalone_lyrics,imported,unclassified,spot_checked,reviewed,partial_review,reviewed,verified_live_html,partially_checked,2026-11-08-house-style-15,this_commit,Verified original HTML: former single-line stanza 1 is opening, followed by ten three-verse stanzas. Corrected boundary/numbering, Arabic-script علم flag, and full Roman; audio needed for ambiguous 'qaid' wording. Previous note: 
 src/data/lyrics/abbas-ke-baad.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/abbas-ke-baazu.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/abbas-ke-baba-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/abbas-ke-baazu.md,standalone_lyrics,imported,unclassified,spot_checked,partial_review,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-house-style-18,this_commit,Checked NoHayOnline original: two-line opening, seven two-line stanzas. Canonical Roman reconstructed against Urdu; source wording preserved; refrain repeated after stanzas omitted. Earlier: 
+src/data/lyrics/abbas-ke-baba-ki.md,standalone_lyrics,imported,unclassified,spot_checked,partial_review,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-house-style-18,this_commit,Source verifies four opening verses and six two-verse stanzas; aligned Roman to Urdu and removed stray LRM direction marks and trailing OCR letter. Last-stanza metaphor retained pending recitation confirmation. Earlier: 
 src/data/lyrics/abbas-ke-hote-hue.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/abbas-ke-laashe-par.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/abbas-ke-naukar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -834,13 +834,13 @@ src/data/lyrics/ali-jaisa-namazi.md,standalone_lyrics,imported,unclassified,pend
 src/data/lyrics/ali-ka-martaba.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-ka-raaj-syed-raza-abbas-zaidi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-ka-zikr.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ali-kay-sath-hai-zehra-ki-shadi-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ali-kay-sath-hai-zehra-ki-shadi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-house-style-18,this_commit,Filename cleanup: removed reciter/year/lyrics or category suffix, kept body and stable original recitation ID. Editorial content pass remains pending. Earlier: 
 src/data/lyrics/ali-ke-ghar-may.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ali-ke-noor-ka-mukhtar-hussain-fatehpuri-lyrics-2022.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ali-ke-noor-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-house-style-18,this_commit,Filename cleanup: removed reciter/year/lyrics or category suffix, kept body and stable original recitation ID. Editorial content pass remains pending. Earlier: 
 src/data/lyrics/ali-ke-sath-hai-zahra-ki-shadi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-ke-shehr-kufa.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-ki-betiyan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ali-ki-hai-aamad-qasida-ch-faiyaz-party-lyrics-13-rajab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ali-ki-hai-aamad.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-house-style-18,this_commit,Filename cleanup: removed reciter/year/lyrics or category suffix, kept body and stable original recitation ID. Editorial content pass remains pending. Earlier: 
 src/data/lyrics/ali-ki-khatir-abbas-haider-lalji-and-yusuf-okera.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-ki-shan-batane-ghadeer-aayi-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-ko-zakhme-sar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -848,7 +848,7 @@ src/data/lyrics/ali-maulana.md,standalone_lyrics,imported,unclassified,pending,p
 src/data/lyrics/ali-o-zehra-mir-sajjad-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-se-behtar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-sharminda-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ali-sohna-sher-rab-da-tahseen-sakina-lyrics-in-punjabi-2022.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ali-sohna-sher-rab-da.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-house-style-18,this_commit,Filename cleanup: removed reciter/year/lyrics or category suffix, kept body and stable original recitation ID. Editorial content pass remains pending. Earlier: 
 src/data/lyrics/ali-un-ala-kulle-shayin-qadeer-mehdi-rizvi-hadi-rizvi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-waaris.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ali-wali-ka-howa-hai-warood-kaba-mein.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

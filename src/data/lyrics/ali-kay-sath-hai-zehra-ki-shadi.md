@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "ali-kay-sath-hai-zehra-ki-shadi-mir-hasan-mir"
 published: false
 # source_id: tajpoints:395e0fec1a77b74b5657
 # source_url: https://tajpoints.com/2023/01/ali-kay-sath-hai-zehra-ki-shadi-mir.html
