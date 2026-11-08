@@ -1,6 +1,6 @@
 ---
 title: "آؤ ادب سے حیدر صفدر کے شہر میں"
-alternateTitle: "Aao Adab Se Hydere"
+alternateTitle: "Aao Adab Se Haider-e-Safdar Ke Shahr Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,39 +10,39 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aao adab se hyder e safdar ke shehr mein
-  Jaana agar ho izn e payambar ke shehr mein
+  Aao adab se Haider-e-Safdar ke shahr mein
+  Jaana agar ho izn-e-Payambar ke shehr mein
 
   1
-  Jee chaahta hai waadi e makkah se poochlun
+  Jee chaahta hai wadi-e-Makkah se poochlun
   Bigda kahan se aayi payambar ke shehr mein
 
   2
-  Inkaar se hussain ne aisi lagayi aag
-  Sholay uthe yazid e sitamgar ke shehr mein
+  Inkar se Husain ne aisi lagayi aag
+  Sholay uthe Yazid-e-sitamgar ke shehr mein
 
   3
-  Ye inquilaab dekha hai naad e ali baad
-  Darwaza toota jaata hai khyber ke shehr mein
+  Ye inquilaab dekha hai Nad-e-Ali ke baad
+  Darwaza toota jaata hai Khaibar ke shehr mein
 
   4
   Mashkeeze mein sameint ke darya ko le gaya
-  Hyder ek aur dekha hai hyder ke shehr mein
+  Haider ek aur dekha hai Haider ke shehr mein
 
   5
-  Jab se ali ne toda hai josh e jihaad mein
-  Darwaza phir saja nahi khyber ke shehr mein
+  Jab se ali ne toda hai josh-e-jihad mein
+  Darwaza phir saja nahi Khaibar ke shehr mein
 
   6
-  Milta nahi hai fauj e ababeel ka jawab
-  Mabood e kayenat ke lashkar ke shehr mein
+  Milta nahi hai fauj-e-Ababil ka jawab
+  Maabud-e-kainat ke lashkar ke shehr mein
 
   7
-  Hurr aaya aur ho gaya sadqe hussain par
+  Hurr aaya aur ho gaya sadqe Husain par
   Khatre ki kya thi zaat samandar ke shehr mein
 
   8
-  Yak jaan hai aaj panjetan e paak dekhiye
+  Yak jaan hai aaj Panjtan-e-Pak dekhiye
   Hai kayenat noor ki chadar ke shehr mein
 
   9
@@ -50,15 +50,15 @@ romanLyrics: |-
   Talwaar utar ke aagayi hyder ke shehr mein
 
   10
-  Dushman ke dil jalaata hua aasman se
-  Taara utar ke aa gaya hyder ke shehr mein
+  Dushman ke dil jalata hua aasman bhi
+  Taara utar ke aa gaya Haider ke shehr mein
 
   11
   Tashnalabi ne hadh ke jigar phaad daale hai
   Ek paak kali ye phool ki pathar ke shehr mein
 
   12
-  Mahir najaf ki khaak se hum apne waaste
+  Mahir Najaf ki khaak se hum apne waaste
   Kaaba bana ke baithe hai hyder ke shehr mein
 # source_id: nohayonline:3f6c8414b28c19a8f016
 # source_url: https://www.nohayonline.com/details_content.php?id=1194

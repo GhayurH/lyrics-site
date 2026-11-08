@@ -10,27 +10,27 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aao akbar aao, mere akbar aao
+  Aao Akbar aao, mere Akbar aao
   Maadar ke galay lag jao
 
   1
-  Ay laal zara aankhein kholo
+  Ae laal zara aankhein kholo
   Maa tum pe fida kuch to bolo
   Yun maa ko nahi tadpao
 
   2
-  Socha tha dulhan mai laaungi
+  Socha tha dulhan main laaungi
   Poshak nayi banwaungi
   Aajao sehra bandhao
 
   3
-  Armaan mai poora kar na saki
-  Tum jee na sake mai mar na saki
+  Armaan main poora kar na saki
+  Tum ji na sake main mar na saki
   Is dil ki dua le jao
 
   4
   Sughra ne likha khat mein ro kar
-  Kya bhool gaye waada akbar
+  Kya bhool gaye waada Akbar
   Sughra ka waada nibhao
 
   5
@@ -44,19 +44,19 @@ romanLyrics: |-
   Kuch apna haal sunao
 
   7
-  Kehti hai sakina ro ro kar
-  Kyun rooth gaye bhaiya akbar
+  Kehti hai Sakina ro ro kar
+  Kiun ruth gaye bhaiya Akbar
   Na aur usay rulwao
 
   8
-  Bete jo jawan ho jaate hai
+  Bete jo jawan ho jaate hain
   Maa baap ke gham mit jaate hai
   Tum mere dard batao
 
   9
   Dena hai agar maa ko pursa
-  Irfan aur mazhar ye nauha
-  Umme laila ko sunao
+  Irfan aur Mazhar ye nauha
+  Umm-e-Laila ko sunao
 # source_id: nohayonline:782a5a9891eb72518158
 # source_url: https://www.nohayonline.com/details_content.php?id=3195
 # raw_sha256: ea2b84a55fb77ca71be1ef0bc6aa1d6ab4beb440bb644fc3061fb63b3d99a622
@@ -73,7 +73,7 @@ romanLyrics: |-
 یوں ماں کو نہیں تڑپاو
 
 ۲
-سوچ تھا دلہن میں لاؤں گی
+سوچا تھا دلہن میں لاؤں گی
 پوشاک نیء بنواوں گی
 آجاؤ سہرا بڑھاؤ
 
@@ -109,5 +109,5 @@ romanLyrics: |-
 
 ۹
 دینا ہے اگر ماں کو پرسہ
-عرفان ہے مظہر یہ نوحہ
+عرفان اور مظہر یہ نوحہ
 ام لیلیٰ کو سناؤ

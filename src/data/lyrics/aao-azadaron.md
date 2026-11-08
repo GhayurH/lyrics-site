@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   Aao azadaron
   Ab tak hai zabano pe alamdar alamdar
-  Ay khafela e shaah ke salaar alamdar
-  Abbas alamdar
+  Ae qafila-e-Shah ke salar Alamdar
+  Abbas Alamdar
   Ek sada kaano mein abhi tak
-  Goonj rahi hai logon suno
-  Ye hai sada khatoon e jina ki
-  Ham bhi kahe aur tum bhi kaho
-  Kyu na kahe irfan aur mazhar
-  Aao dua zehra ki paayein
-  Aao azadaron aao alam ghazi ka uthayein
+  Gunj rahi hai logon suno
+  Ye hai sada Khatoon-e-Jinan ki
+  Hum bhi kahen aur tum bhi kaho
+  Kiun na kahen Irfan aur Mazhar
+  Aao dua Zehra ki paayein
+  Aao azadaron aao alam Ghazi ka uthayein
 
   1
   Ye wo alam hai jis ka pharera
-  Saani e zehra ki chadar hai
-  Haa ye alam jis ghar pe laga ho
-  Saaya e zehra mein wo ghar hai
+  Saani-e-Zehra ki chadar hai
+  Haan ye alam jis ghar pe laga ho
+  Saaya-e-Zehra mein wo ghar hai
   Kya hai alam kya iski ataa hai
   Aao zamane bhar ko batayein
 
   2
   Aao zamane bhar ko batayein
-  Hum pe abu talib ka karam hai
+  Hum pe Abu Talib ka karam hai
   Paas nahi aayega koi gham
   Saaya fighan jab tak ye alam hai
   Aao alam ke saaye mein aao
@@ -39,18 +39,18 @@ romanLyrics: |-
 
   3
   Gham ka har ek ehsaas mita kar
-  Pyar kare sarkar e wafa se
+  Pyar kare Sarkar-e-Wafa se
   Pyar ke badle pyar milega
-  Tumko nabi se aur khuda se
+  Tumko Nabi se aur Khuda se
   Saath chale hum kyun dunya ke
   Dunya to apne saath chalayein
 
   4
   Dunya hamare saath chalegi
-  Aur qayadat sher e jari ki
+  Aur qayadat Sher-e-Jari ki
   Saare aalam jhuk jayenge phir to
   Baat rahegi ek alam ki
-  Khwaab yehi tha binte ali ka
+  Khwaab yehi tha bint-e-Ali ka
   Kyun na isay tabeer banayein
 
   5
@@ -65,13 +65,13 @@ romanLyrics: |-
   Nauhe ki aur matam ki sada se
   Goonj raha hoga ye zamana
   Saara jahan ye baat kahega
-  Nade ali hai qaumi taraana
+  Nad-e-Ali hai qaumi taraana
   Qaumi alam aur qaumi parcham
   Dono mein hai jo farq mitayein
 
   7
   Dono mein hai jo farq mitaane
-  Ghar se chale thay sibte payambar
+  Ghar se chale thay Sibt-e-Payambar
   Chand jawan aur kuch bachon se
   Sheh ne diya tarteeb ek lashkar
   Aao usi lashkar ki yaadein
@@ -79,18 +79,18 @@ romanLyrics: |-
 
   8
   Saare jahan ke dil mein jagayein
-  Yaad usi ashoor ki shab ki
+  Yaad usi Ashur ki shab ki
   Ek alam tha aas wahan par
-  Bali sakina aur zainab ki
+  Bali Sakina aur Zainab ki
   Aas bana jo ahle haram ki
   Hum bhi usi se aas lagayein
 
   9
-  Aas gayi farzand e ali ki
+  Aas gayi farzand-e-Ali ki
   Jab ye alam maqtal mein gira tha
-  Ek taraf shabbir aur zainab
+  Ek taraf Shabbir aur Zainab
   Ek taraf sadaat ka nauha
-  Ay khafela e shaah ke salaar alamdar
+  Ae qafila-e-Shah ke salar Alamdar
   Abbas alamdaar
 # source_id: nohayonline:f9d1c23e367a800d737f
 # source_url: https://www.nohayonline.com/details_content.php?id=2203
