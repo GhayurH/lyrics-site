@@ -9,124 +9,53 @@ poet: "Bahadur"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Kya sitam tha karbala may
-
+romanLyrics: |-
+  Kya sitam tha karbala may
 
   1
-
   Dard o gham tha karbala may
-
-  Haye Zehra pe paale pe shimr e layeen
-
-  Ka qadam tha karbala may
-
+  Haye Zehra ke paale pe shimr e layeen ka qadam tha
+  Karbala may
 
   2
-
   Jalti reti par pade thay
-
   Na bhatije na pisar thay
-
   Dhoop shiddat ki thi pyaas se honton pe dam tha
 
-
   3
-
   Chau taraf ko dekhte thay
-
   Pani pani maangte thay
-
   Kaun aata madad ko shaheedon ka sar sab qalam thay
 
-
   4
-
-  Shah jalti reth par thay
-
-  Na bhatije na pisar thay
-
-  Kaun aata madad ko shaheedo ka sar
-
-  Sab qalam tha karbala may
-
+  Nikli zainab khaak udaati
+  Peet'ti thi apni chati
+  Dekhti kya hai naize pa sar shahe deen ka alam tha
 
   5
-
-  Chau taraf ko dekhte thay
-
-  Pani pani maangte thay
-
-  Dhoop shiddat ki thi
-
-  Pyas se sheh ka honton
-
-  Pe dam tha karbala may
-
+  Sab charinde ro rahe thay
+  Sab parinde ro rahe thay
+  Dekh haal shahe karbala ki har ek chashm nam tha
 
   6
-
-  Bacha hathon par uthakar
-
-  Maangte thay pani sarwar
-
-  Haye wo cheh mahine ke bache ka honton
-
-  Pe dam tha karbala may
-
+  Hurmula jab teer maara
+  Khoon ugalkar wo sidhara
+  Apne baba ke gardan pa gardan kiye apni kham tha
 
   7
-
-  Hurmula jab teer maara
-
-  Khoon ugalkar wo sidhaara
-
-  Apne baba ke gardan pa gardan kiye
-
-  Apni kham tha karbala may
-
+  Dhal gayi wo pyari gardan
+  Gir pade wo dono jaushan
+  Khoon se chota kurta wo nanha sa nam tha
 
   8
-
-  Dhal gayi wo pyari gardan
-
-  Gir paday wo dono jaushan
-
-  Khoon se chota kurta wo nanha
-
-  Sa nam tha karbala may
-
+  Bacha haathon par utha kar
+  Maangte thay pani sarwar
+  Haye wo cheh mahine ke bache ka honton pe dam tha
 
   9
-
-  Nikli zainab khaak udaati
-
-  Pee ti thi apni chati
-
-  Dekhti kya hai naize pa sar shahe deen
-
-  Ka alam tha karbala may
-
-
-  10
-
-  Sab charinde ro rahe thay
-
-  Sab parinde ro rahe thay
-
-  Dekh haal shahe karbala ki har ek
-
-  Chashm nam tha karbala may
-
-
-  11
-
   Ay bahadur zulm shah par
-
   Jo jo guzre unke upar
-
-  Aaj tak aisa dekha suna hi nahi
-
-  Jo sitam tha karbala may'
+  Aaj tak aisa dekha suna hi nahi jo sitam tha
 # source_id: nohayonline:672a96a54118cd202ba3
 # source_url: https://www.nohayonline.com/details_content.php?id=768
 # raw_sha256: a3fd028ccb3b6e56abfa0a1d662f050da2219ecb20eaebe439df0255897f2fd3
