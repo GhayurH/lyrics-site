@@ -12,54 +12,48 @@ published: false
 romanLyrics: |-
   Inkaar aasman ko hai raazi zameen nahi
   Asghar tere lahoo ka thikana kahin nahi
-
-  1
   Maidan mein garmi hai matti hai dhool hai
   Jalti hai ye zameen tu nanha sa phool hai
   Goya pisar ki laash se sibte rasool hai
   Jalti hai ye zameen tu nanha sa phool hai
-
-  2
+  
+  1
   Asghar ki qabr khood kar rote rahe hussain
   Kehte thay haye lakhte jigar mere dil ke chain
   Tere liye hussain bahot dil malool hai
-
-  3
+  
+  2
   Qaime ki simt kis tarha jaaun mere pisar
   Kis tarha tere marg ki bano ko doon khabar
   Us ko tere baghair to marna qubool hai
-
-  4
+  
+  3
   Jhoola jhulane waali ko kaise bataunga
   Bano se is khabar ko mai kaise chupaunga
-
-  5
   Zainab bhi untazir hai jo binte batool hai
+  
+  4
   Ab hum bhi marne jaate hai ay laal alwida
-
-  6
   Laasha hamara hona hai pamaal alwida
   Bach jaaye deen nana ka mehnat wasool hai
-
-  7
+  
+  5
   Ay fauje kibriya ke mujahid tujhe salaam
   Kya shaan e bezubani se tu ne kiya kalaam
   Tareekh e guftugu ka anokha usool hai
-
-  8
+  
+  6
   Laasha hai uske haat pe khoon mein bhara hua
   Jisko labe furaat bhi pani na mil saka
   Jiske liye rasool ke sajde ko tool hai
-
-  9
+  
+  7
   Zakhmi tera gala hai lahoo phool sa badan
   Qaime ke dar pe bali sakina teri behan
-
-  10
   Kehti hai tere baad ghamon ka nuzool hai
+  
+  8
   Rehaan nauha goyi ne farhan kar diya
-
-  11
   Mazboot aur bhi mera emaan kar diya
   Mit jaaye zikre shaah ye aada ki bhool hai
 # source_id: nohayonline:f094258af041f2c3f930
@@ -68,53 +62,47 @@ romanLyrics: |-
 ---
 انکار آسماں کو ہے راضی زمیں نہیں
 اصغر تیرے لہو کا ٹھکانہ کہیں نہیں
-
-۱
 میدان میں گرمی ہے مٹی ہے دھول ہے
 جلتی ہے یہ زمیں تو ننھا سا پھول ہے
 گویا پسر کی لاش سے سبط رسول ہے
 جلتی ہے یہ زمیں تو ننھا سا پھول ہے
 
-۲
+۱
 اصغر کی قبر کھود کر روتے رہے حسین
 کہتے تھے ہاے لختِ جگر میرے دل کا چین
 تیرے لیےء حسین بہت دل ملول ہے
 
-۳
+۲
 خیمے کی سمت کس طرح جاؤں میرے پسر
 کس طرح تیرے مرگ کی بانو کو دوں خبر
 اس کو تیرے بغیر تو مرنا قبول ہے
 
-۴
+۳
 جھولا جھلانے والی کو کیسے بتاؤں گا
 بانو سے اس خبر کو میں کیسے چھپاؤں گا
-
-۵
 زینب بھی منتظر ہے جو بنت بتول ہے
-اب ہم بھی مرنے جاتے ہیں اے لال الوداع
 
-۶
+۴
+اب ہم بھی مرنے جاتے ہیں اے لال الوداع
 لاشہ ہمارا ہونا ہے پامال الوداع
 بچ جاے دین نانا کا محنت وصول ہے
 
-۷
+۵
 اے فوج کبریا کے مجاہد تجھے سلام
 کیا شان بے زبانی سے تو نے کیا کلام
 تاریخ گفتگو کا انوکھا اصول ہے
 
-۸
+۶
 لاشہ ہے اس کے ہاتھ پہ خوں میں بھرا ہوا
 جس کو لب فرات بھی پانی نہ مل سکا
 جس کے لیےء رسول کے سجدے کو طول ہے
 
-۹
+۷
 زخمی تیرا گلا ہے لہو پھول سا بدن
 خیمے کے در پہ بالی سکینہ تیری بہن
-
-۱۰
 کہتی ہے تیرے بعد غموں کا نزول ہے
-ریحان نوحہ گوی نے فرحان کر دیا
 
-۱۱
+۸
+ریحان نوحہ گوی نے فرحان کر دیا
 مضبوط اور بھی میرا ایمان کر دیا
 مٹ جاے ذکرِ شاہ یہ اعدا کی بھول ہے
