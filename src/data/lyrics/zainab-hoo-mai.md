@@ -14,7 +14,6 @@ romanLyrics: |-
   Khutbaat ki taygh se ye kehke hamla kiya
   Zainab hoo mai mera baba ali meri maa sayyeda
   Ay shaamiyon ghaur se tum suno aaj khutba mera
-  Zainab hoo mai mera baba ali meri maa sayyeda
 
   1
   Ye na samjho ke majboor o lachaar hoo
@@ -86,7 +85,6 @@ romanLyrics: |-
 خطبات کی تیغ سے یہ کہکے حملہ کیا
 زینب ہوں میں میرا بابا علی میری ماں سیدہ
 اے شامیوں گوہر سے تم سنو آج خطبہ میرا
-زینب ہوں میں میرا بابا علی میری ماں سیدہ
 
 ۱
 یہ نہ سمجھو کہ مجبور و لاچار ہوں
