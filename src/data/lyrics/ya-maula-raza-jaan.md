@@ -11,38 +11,37 @@ aliases: []
 published: false
 romanLyrics: |-
   Shaahe khurasan waarise quran ya maula raza jaan
-  Ye sehn e shifa hai aur lab pe dua hai
-  
+
   1
+  Ye sehn e shifa hai aur lab pe dua hai
   Darbaan banun mai bhi kar dijiye ehsaan
   Jab dar pe tere aaye bala tal gayi maula
   Ek hirz e elaahi hai tera naam bhi maula
   Hum log salamat hai tere dum se hi maula
   Shahe mashhad tera hai saron par saaya
   Kis baat ka darr hum ko jan tu hai nigehban
-  
+
   2
   Maqrooz e karam hai tere dar ka ye zamana
   Hai teri sakhawat ka sakhawat mein bhi charcha
   Iran hi kya khaati hai dunya tera sadqa
   Tere darbar talak maangne aaye malak
   Khaaliq ne tere ghar ko bakhshi hai alag shaan
-  
+
   3
   Masooma e qum ki qasam aejaz dekha do
   Tum khwaab mein hi apna deedar kara do
   Rukhsaar mere qabr ki jaali se laga do
   Noor e ain e musa mere aaqa maula
   Faryaad meri sunlo mai tumpe hoon qurban
-  
+
   4
-  Darbaan banun mai bhi kar dijiye ehsaan
   Jo ishq hai tujhse usi inaam ka sikka
   Hai zaamin e aahu ye bade kaam ka sikka
   Baazu pe jo baandha hai tere naam ka sikka
   Surat e naade ali hai asr is ka bhi
   Mushkil ho safar jitna kar dete ho asaan
-  
+
   5
   Tum toos ke madfoon shahenshah e ajam ho
   Tum saare zaaane pe hi maail ba karam ho
@@ -50,6 +49,8 @@ romanLyrics: |-
   Ya mughees as shia tum ho wo darwaza
   Bakshish ka banaya hai rab ne jise meezan
   Maula raza maula raza maula raza
+
+  6
   Salaamalaika ya ghareebul watan ghareeb imam
   Salaam aap pe ay dilbare rasool e anaam
   Salaam aap pe syed rauf shaah e zaman
@@ -59,27 +60,29 @@ romanLyrics: |-
   Salaamalaika anees an nafoos ya maula
   Salaam aap pe shams as shamoos ya maula
   Salaam maula raza
+
+  7
   Monis ho zaeefon ke moeen uz zuafa ho
   Haami ho ghareebon ke ghareebul ghuraba ho
   Tum bhi to azadar e qateelal abara ho
   Har ghadi har lamha rahe mehwe girya
   Tum ne bhi rahe haq mein sab kar diya qurban
-  
-  6
+
+  8
   Mamoon layeen ne ye ajab zulm kiya hai
   Angoor mein maula ko mere zehr diya hai
   Neela hai badan paas bohat waqte qaza hai
   Dard ka aalam hai har taraf matam hai
   Bechainiya badhti han kuch pal ke hai mehman
-  
-  7
+
+  9
   Bibi koi thaame huwe pehlu e shakista
   Ro ro ke khurasan mai padti hai ye nauha
   Aulaad e payambar ka hai dushman ye zamana
   Haal shabbar sa hua khoon ugalta hai raza
   Phir aaj hua mera pardes mein nuqsan
-  
-  8
+
+  10
   Ay mir hilal aaj bhi daawa hai ye mohkam
   Har saahib e irfan ko maloom hai mesum
   Ay saakin e mashad teri matti mein hai aalam
@@ -89,11 +92,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3679
 # raw_sha256: f66c415dc1981784f6c5994cc1c01034b2dadf4bde94de5b74ff33b7080d63fb
 ---
-
 شاہ خراساں وارث قرآں یا مولا رضا جان
-یہ صحن شفا ہے اور لب پہ دعا ہے
 
 ۱
+یہ صحن شفا ہے اور لب پہ دعا ہے
 دربان بنوں میں بھی کر دیجیۓ احساں
 جب در پہ تیرے آے بلا ٹل گیء مولا
 ایک حرز الہی ہے تیرا نام مولا
@@ -116,7 +118,6 @@ romanLyrics: |-
 فریاد میری سن لو میں تم پہ ہوں قربان
 
 ۴
-دربان بنوں میں بھی کر دیجیے احسان
 جو عشق ہے تجھ سے اسی انعام کا سکہ
 ہے ضامن آہو یہ بڑے کام کا سکہ
 بازو پہ جو باندھا ہے تیرے نام‌ کا سکہ
@@ -130,6 +131,8 @@ romanLyrics: |-
 یہ مغیش الشیعہ تم ہو وہ دروازہ
 بخشش کا بنایا ہے رب نے جسے میزاں
 مولا رضا مولا رضا مولا رضا
+
+۶
 سلام علیک یا غریب الوطن غریب امام
 سلام آپ پہ اے دلبر رسول انام
 سلام آپ پہ سید رؤوف شاہ زماں
@@ -139,27 +142,29 @@ romanLyrics: |-
 سلام علیک انیس النوس یا مولا
 سلام آپ پہ شمس الشموس یا مولا
 سلام مولا رضا
+
+۷
 مونس ہو ضعیفوں کے معین الضعفاء ہو
 حامی ہو غریبوں کے غریب الغرباء ہو
 تم بھی تو عزادار قتیل العبرا ہو
 ہر گھڑی ہر لمحہ رہے محو گریہ
 تم نے بھی رہے حق میں سب کر دیا قرباں
 
-۶
+۸
 مامون‌ لعیں نے یہ عجب ظلم کیا ہے
 انگور میں مولا کو میرے زہر دیا ہے
 نیلا ہے بدن پاس بہت وقت قضاء ہے
 درد کا عالم ہے ہر طرف ماتم ہے
 بے چینیاں بڑھتی ہے کچھ پل کے ہے میہماں
 
-۷
+۹
 بی بی کوی تھامے ہوئے پہلوے شکستہ
 رو رو کے خراسان میں پڑھتی ہے یہ نوحہ
 اولاد پیمبر کا ہے دشمن یہ زمانہ
 حال شبر سا ہوا خوں اگلتا ہے رضا
 پھر آج ہوا میرا پردیس میں نقصاں
 
-۸
+۱۰
 اے میر ہلال آج بھی دعوہ ہے یہ محکم
 ہر صاحبِ عرفان کو معلوم ہے میثم
 اے ساکن مشہد تیری مٹی میں ہے عالم
