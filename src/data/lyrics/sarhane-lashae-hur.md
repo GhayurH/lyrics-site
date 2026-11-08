@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Sarhane laasha e hurr ke taan shimr ne ki
   Saza mohabbat e ibne ali ki khoob mili
   Tabaah ghar bhi kiya muft tu ne jaan bhi di
@@ -20,8 +19,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2717
 # raw_sha256: 24aadced289c352ccf06d641f2bc71747b9d143531f476c13f2a38955d1049ef
 ---
-
-۱
 سرہانے لاشہء حر کے تان شمر نے کی
 سزا محبت ابنِ علی کی خوب ملی
 تباہ گھر بھی کیا مفت تو نے جان بھی دی
