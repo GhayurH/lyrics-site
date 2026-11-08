@@ -12,37 +12,37 @@ romanLyrics: |-
   Pukari shana hilaake maadar
   Utho sakina sehar hui hai
   Na rootho ghamgeen maa se dilbar
-
+  
   1
   Utho ke abbas aa rahe hai
   Wo bhar ke mashkeeza laa rahe hai
   Na zulm dhayega koi tum par
-
+  
   2
   Na koi maarega taaziyane
   Na aayega ab koi satane
   Na shimr lega tumhare gohar
-
+  
   3
   Khafas mein yun humse moo na modo
   Raho na khamosh kuch to bolo
   Na paas akbar hai aur na asghar
-
+  
   4
   Na kamsini mein sukoon paaya
   Utha hai sar se pidar ka saaya
   Yehi tha beta tera muqaddar
-
+  
   5
   Tadap ke furqat mein ab na rona
   Pidar ke seene pe jaake sona
   Bulaane aaye hai tumko sarwar
-
+  
   6
   Na ladkhadaogi raaston mein
   Rasan bandhegi na baazuon mein
   Na sar barehna phirogi dar dar
-
+  
   7
   Pidar se tumko chudane wale
   Aur humko dar dar phirane wale
@@ -69,7 +69,6 @@ romanLyrics: |-
 قفس میں یوں ہم سے منہ نہ موڑو
 رہو نہ خاموش کچھ تو بولو
 نہ پاس اکبر ہے اور نہ اصغر
-اُٹھو سکینہ سحرہوئی ہے
 
 ۴
 نہ کم سنی میں سکون پایا
