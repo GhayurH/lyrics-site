@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "ayyo-hannas-dil-e-haider-e-karrar-hon-main-mir-hasan-mir"
 published: false
 # source_id: tajpoints:cdd46f12d3820b337b2f
 # source_url: https://tajpoints.com/2025/02/ayyo-hannas-dil-e-haider-e-karrar-hon.html

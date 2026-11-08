@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Hamd"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "allah-bohat-bara-hai-nadeem-sarwar"
 published: false
 # source_id: tajpoints:dd362b90906e530881c8
 # source_url: https://tajpoints.com/2023/01/allah-bohat-bara-hai-nadeem-sarwar.html

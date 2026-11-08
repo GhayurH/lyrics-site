@@ -10,65 +10,66 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa pareshan hai kitni hairaan hai
-  Laal reh jayega tanha mere abbas ke baad
-  Bain karti hai ye zehra mere abbas ke baad
+  Maaṅ pareshan hai kitni hairan hai
+  Laal reh jayega tanha mere Abbas ke baad
+  Bain karti hai ye Zehra mere Abbas ke baad
 
   1
-  Har tarf teer o tabar aur ye khanjar bhaale
-  Chaar soo honge faqat zulm hi karne waale
-  Kaun imdad karega mere abbas ke baad
+  Har taraf teer o tabar aur ye khanjar bhale
+  Chaar su hoṅge faqat zulm hi karne wale
+  Kaun imdad karega mere Abbas ke baad
 
   2
-  Haal e dil kis se kahe kaun mera hai ya rab
-  Qatl karte hai mere laal ko aada be-sabab
-  Zulm ab dhaate hai aada mere abbas ke baad
+  Hal-e-dil kis se kahe kaun mera hai Ya Rab
+  Qatl karte hain mere laal ko aada besabab
+  Zulm ab dhate hain aada mere Abbas ke baad
 
   3
-  Laal ne zakhm ye khaye hai isi maqtal mein
-  Har sitam is ne uthaye hai isi maqtal mein
-  Kaunsa paaya na sadma mere abbas ke baad
+  Laal ne zakhm ye khaye hain isi maqtal mein
+  Har sitam is ne uthaye hain isi maqtal mein
+  Kaun sa paaya na sadma mere Abbas ke baad
 
   4
-  Haye qasim ali akbar na rahe na asghar
-  Kisko imdaad ko apni ye bulaye muztar
-  Hoga shabbir akela mere abbas ke baad
+  Haaye Qasim Ali Akbar na rahe na Asghar
+  Kis ko imdad ko apni ye bulae muztar
+  Hoga Shabbir akela mere Abbas ke baad
 
   5
-  Hoke do zaanu shahe jinn o bashar baith gaye
-  Kehke maqtal mein haye laashe pisar baith gaye
-  Amma guzri hai bhala kya mere abbas ke baad
+  Ho ke do zanu Shah-e-Jinn o Bashar baith gaye
+  Keh ke maqtal mein haaye laash-e-pisar baith gaye
+  Amma guzri hai bhala kya mere Abbas ke baad
 
   6
-  Pushte gardan pe kahin chalta hai khanjar dekho
+  Pusht-e-gardan pe kahiṅ chalta hai khanjar dekho
   Kaise ye kund bhala karta hai khanjar dekho
-  Kehke rone lagi zehra mere abbas ke baad
+  Keh ke rone lagi Zehra mere Abbas ke baad
 
   7
-  Kaise hoti hai musibat ay falak dekh to le
-  Jiska gehwara hilaate thay malak dekh to le
-  Ran mein kehta nahi aaqa mere abbas ke baad
+  Kaise hoti hai musibat ae falak dekh to le
+  Jis ka gehwara hilate the malak dekh to le
+  Ran mein kehta nahiṅ Aaqa mere Abbas ke baad
 
   8
-  Teer paywast hai itne ke nikalun kaise
-  Koi batlade kaleje ko sambhalun kaise
-  Fatema karti hai nauha mere abbas ke baad
+  Teer paiwast hain itne ke nikaluṅ kaise
+  Koi batla de kaleje ko sambhaluṅ kaise
+  Fatema karti hai noha mere Abbas ke baad
 
   9
-  Jalti reti pe pada reh gaya laasha uska
-  Shams aamir ye bayan fatema zehra ne kiya
-  Kaise utthega janaza mere abbas ke baad
+  Jalti reti pe para reh gaya laasha uska
+  Shams Aamir ye bayan Fatema Zehra ne kiya
+  Kaise utthega janaza mere Abbas ke baad
 # source_id: nohayonline:80090ce61d30714b05ee
 # source_url: https://www.nohayonline.com/details_content.php?id=2438
 # raw_sha256: 695df005ab556dda2a9c667cf9b5baa5b58a57b0106772f1b4ff9ee858c355e4
 ---
+
 ماں پریشان ہے کتنی حیران ہے
-لال رہ جاے گی تنہا میرے عباس کے بعد
+لال رہ جائے گا تنہا میرے عباس کے بعد
 بین کرتی ہے یہ زہرا میرے عباس کے بعد
 
 ۱
 ہر طرف تیر و تبر اور یہ خنجر بھالے
-چار سو ہونگے فقط ظلم ہی کرنے والے
+چار سو ہوں گے فقط ظلم ہی کرنے والے
 کون امداد کرے گا میرے عباس کے بعد
 
 ۲
@@ -77,24 +78,24 @@ romanLyrics: |-
 ظلم اب ڈھاتے ہیں اعدا میرے عباس کے بعد
 
 ۳
-لال نے زخم یہ کھاے ہیں اسی مقتل میں
-ہر ستم اس نے اٹھاے ہیں اسی مقتل میں
+لال نے زخم یہ کھائے ہیں اسی مقتل میں
+ہر ستم اس نے اٹھائے ہیں اسی مقتل میں
 کونسا پایا نہ صدمہ میرے عباس کے بعد
 
 ۴
-ہاے قاسم علی اکبر نہ رہے نہ اصغر
-کس کو امداد کو اپنی یہ بلاے مضطر
+ہائے قاسم علی اکبر نہ رہے نہ اصغر
+کس کو امداد کو اپنی یہ بلائے مضطر
 ہوگا شبیر اکیلا میرے عباس کے بعد
 
 ۵
-ہو کے دو زانو شہ جن و بشر بیٹھ گےء
-کہہ کے مقتل میں ہاے لاش پسر بیٹھ گےء
+ہو کے دو زانو شہ جن و بشر بیٹھ گئے
+کہہ کے مقتل میں ہائے لاش پسر بیٹھ گئے
 اماں گزری ہے بھلا کیا میرے عباس کے بعد
 
 ۶
 پشت گردن پہ کہیں چلتا ہے خنجر دیکھو
 کیسے یہ کند بھلا کرتا ہے خنجر دیکھو
-کہکے رونے لگی زہرا میرے عباس کے بعد
+کہہ کے رونے لگی زہرا میرے عباس کے بعد
 
 ۷
 کیسے ہوتی ہے مصیبت اے فلک دیکھ تو لے
@@ -103,7 +104,7 @@ romanLyrics: |-
 
 ۸
 تیر پیوست ہے اتنے کہ نکالوں کیسے
-کوی بتلا دے کلیجے کو سنبھالوں کیسے
+کوئی بتلا دے کلیجے کو سنبھالوں کیسے
 فاطمہ کرتی ہے نوحہ میرے عباس کے بعد
 
 ۹

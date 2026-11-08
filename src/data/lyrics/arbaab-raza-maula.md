@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "arbaab-raza-maula-mir-hasan-mir"
 published: false
 # source_id: tajpoints:b0f5c229544443f8434a
 # source_url: https://tajpoints.com/2021/06/arbaab-raza-maula-mir-hasan-mir-lyrics.html
