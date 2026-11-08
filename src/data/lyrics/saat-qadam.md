@@ -10,58 +10,59 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Kaisa imtehan hai hussain ka
   Saat qadam aage bade kyun hussain
   Saat qadam peeche hate kyun hussain
+  
+  1
   Pehle qadam par yehi socha
   Jurm tha asghar ka bhala kya
   Haye dekh ke ye nanha sa laasha
   Gham se na mar jaaye sakina
   Thaam ke dil rone lage yun hussain
-
+  
   2
   Duje qadam par kaha ro kar
   Kya karun batla ali asghar
   Haye dekh liya usne tujhe gar
   Mar hi na jaaye teri maadar
   Thaam ke dil rone lage yun hussain
-
+  
   3
   Teesri baar aisa hua tha
   Qaime mein jaane lage maula
   Haye jhonka chala tez hawa ka
   Hatne laga laashe se kapda
   Thaam ke dil rone lage yun hussain
-
+  
   4
   Jun hi qadam chautha uthaya
   Ghazi ko ro ro ke bulaya
   Haye kehne lage bhai tu aaja
   Qaime mein jaaya nahi jaata
   Thaam ke dil rone lage yun hussain
-
+  
   5
   Haye qadam paanchwa utha
   Ro ke ye kehne lage maula
   Haye behre madad aaiye baba
   Bhaari hai khyber se ye laasha
   Thaam ke dil rone lage yun hussain
-
+  
   6
   Haye paon chati baar badhaya
   Itne mein khud aa gayi zehra
   Haye boli ke ab tu nahi tanha
   De mujhe baysheer ka laasha
   Thaam ke dil rone lage yun hussain
-
+  
   7
   Saathveen baari mein hua kya
   Dar pe chali aayi sakina
   Haye kehne lagi aa gaye baba
   Hai kahan nanha mera bhaiya
   Thaam ke dil rone lage yun hussain
-
+  
   8
   Qaime mein farhan hua kya
   Zille raza likh nahi paaya
@@ -72,10 +73,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3579
 # raw_sha256: f1c1fa8ebd72927bfb7c8e8ac7ed3eb1358c84db5ebf707fb5dc8811e2d56f78
 ---
-۱
 کیسا امتحان ہے حسین
 سات قدم آگے بڑے کیوں حسین
 سات قدم پیچھے ہٹے کیوں حسین
+
+۱
 پہلے قدم پر یہی سوچا
 جرم تھا اصغر کا بھلا کیا
 ہاے دیکھ کے یہ ننھا سا لاشہ
