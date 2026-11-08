@@ -10,48 +10,46 @@ aliases: []
 published: false
 romanLyrics: |-
   Kis ko doo mai lori
-  
-  1
   Asghar mera reh gaya ran mein
   Maa ye ro kar boli
   
-  2
+  1
   Shaam e ghariban cha gayi ban mein
   Mera dil ghabraye
   Ghar nahi aaya asghar mera
   Phail gayi tareekhi
   
-  3
+  2
   Tum nahi aaye tum nahi aaye
   Kitna pukara maine
   Maa se khafa kya ay shehzaade
   Yun hota hai koi
   
-  4
+  3
   Aaja mere asghar aaja
   Rooth gaya kyun beta aa
   Ujde ban mein nauha kuna hai
   Maa phailaye jholi
   
-  5
+  4
   Tujhko kahan mai dhoondne jaaun
   Tujhko kahan se laaun
   Meri godhi chod ke tu ne
   Basti door basaali
   
-  6
+  5
   Tere bina is dukhiya maa ko
   Kaise bhala chain aaye
   Tera jhoola bhi soona hai
   Meri godh bhi sooni
   
-  7
+  6
   Apne watan se door yahan par
   Karbobala ke ban mein
   Kho gaya mera laal kahin par
   Reh gayi jholi khaali
   
-  8
+  7
   Gohar yehi kehte kehte
   Mar gayi maa asghar ki
   Godh mein apni kis ko sulaan
@@ -61,48 +59,46 @@ romanLyrics: |-
 ---
 
 کس کو دوں میں لوری
-
-۱
 اصغر میرا رہ گیا رن میں
 ماں یہ رو کے بولی
 
-۲
+۱
 شام غریباں چھا گیء بن میں
 میرا دل گھبراے
 گھر نہیں آیا اصغر میرا
 پھیلا گیء تاریکی
 
-۳
+۲
 تم نہیں آے تم نہیں آے
 کتنا پکارا میں نے
 ماں سے خفا کیا اے شہزادے
 یوں ہوتا ہے کوئی
 
-۴
+۳
 آجا میرے اصغر آجا
 روٹھ گیا کیوں بیٹا آ
 اجڑے بن میں نوحہ کناں ہے
 ماں پھیلاے جھولی
 
-۵
+۴
 تجھکو کہاں میں ڈھونڈنے جاؤں
 تجھکو کہاں سے لاؤں
 میری گودی چھوڑ کے تو نے
 بستی دور بسالی
 
-۶
+۵
 تیرے بنا اس دکھیا ماں کو
 کیسے بھلا چین آے
 تیرا جھولا بھی سونا ہے
 میری گود بھی سونی
 
-۷
+۶
 اپنے وطن سے دور یہاں پر
 کربوبلا کے بن میں
 کھو گیا میرا لال کہیں پر
 رہ گیء جھولی خالی
 
-۸
+۷
 گوہر یہی کہتے کہتے
 مر گیء ماں اصغر کی
 گود میں اپنی کس کو سلاؤں
