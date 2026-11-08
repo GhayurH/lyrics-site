@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Bayan kaise ho kufe ka manzar
+  Ye kehte honge jab beti se hyder
 
   1
-  Ye kehte honge jab beti se hyder
   Hamare baad aise bhi zamane aayenge zainab
   Isi kufe mein pathar tum ko maare jayenge zainab
   Galay unko laga kar pyar karna maa ki jaanib se
@@ -47,9 +47,9 @@ romanLyrics: |-
 # raw_sha256: ffb454d6288c13008298c43d2b60d4cbdcf2ae7382dbb3be99643c970f1b6bee
 ---
 بیان کیسے ہو کوفے کا منظر
+یہ کہتے ہونگے جب بیٹی سے حیدر
 
 ۱
-یہ کہتے ہونگے جب بیٹی سے حیدر
 ہمارے بعد ایسے بھی زمانے آینگے زینب
 اسی کوفے میں پتھر تم کو مارے جاینگے زینب
 گلے انکو لگا کر پیار کرنا ماں کی جانب سے

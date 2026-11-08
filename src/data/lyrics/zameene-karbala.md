@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Al-ajal al-ajal al-ajal
   Aaye kaabe se sada hayya ala khairal amal
-
-  1
   Al-ajal ay waaris e khoon e shaheedan al-ajal
   Ay yusufe zahra
+
+  1
   Zameene karbala waale tujhe awaaz dete hai
   Bahattar bekafan laashe tujhe awaaz dete hai
   Hai kahin ganje shaheedan mein rakhi gathri koi
@@ -54,10 +54,10 @@ romanLyrics: |-
 ---
 العجل العجل العجل
 آے کعبے سے صدا حیا علی خیر العمل
-
-۱
 العجل اے وارث خونِ شہیداں العجل
 اے یوسف زہرا
+
+۱
 زمین کربلا والے تجھے آواز دیتے ہیں
 بہتر بیکفن لاشے تجھے آواز دیتے ہیں
 ہے کہیں گنج شہیداں میں رکھی گھٹڑی کوئی
