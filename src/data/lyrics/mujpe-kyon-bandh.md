@@ -12,7 +12,6 @@ published: false
 romanLyrics: |-
   Mujhpe kyun bandh karte ho pani
   Kya mohamad ka pyara nahi hoo
-  Mujhpe kuyn bandh karte ho pani
 
   1
   Kalma-goyo mohamad ke shaami
@@ -80,7 +79,6 @@ romanLyrics: |-
 ---
 مجھ پہ کیوں بند کرتے ہو پانی
 کیا محمد کا پیارا نہیں ہوں
-مجھ کیوں بند کرتے ہو پانی
 
 ۱
 کلمہ گویو محمد کے شامی
