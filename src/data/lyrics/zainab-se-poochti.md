@@ -13,22 +13,24 @@ romanLyrics: |-
   Jab chal raha tha khafela aale rasool ka
   Zainab se poochti thi sakina ye baar baar
   Kitna hai door ay phupi ab shaam ka darbar
+
+  1
   Shimr e layeen ne cheeni jo kaano ki baaliyan
   Uth uth ke gira laasha e abbas alamdar
 
-  1
+  2
   Abbas se kehde koi ye nehr pe jaa ke
   Behaal sakina hai aur neele hai ruqsaar
 
-  2
+  3
   Girti hai kabhi uth'ti hai masoom yateema
   Pabande rasan hai gala aur chalne se lachaar
 
-  3
+  4
   Manzil bazaar e shaam ki hoti khatam nahi
   Hai sar barehna bibiyan aur abid e bemaar
 
-  4
+  5
   Irfan jiska seena e shabbir tha bistar
   Soti hai tanha khaak pe koi nahi ghamkhwar
 # source_id: nohayonline:3b0a3bc52658c19ec5a7
@@ -38,21 +40,23 @@ romanLyrics: |-
 جب چل رہا تھا قافلہ آل رسول کا
 زینب سے پوچھتی تھی سکینہ یہ بار بار
 کتنا ہے دور اے پھوپھی اب شام کا دربار
+
+۱
 شمر لعیں نے چھینی جو کانوں کی بالیاں
 اٹھ اٹھ کے گرا لاشہء عباس علمدار
 
-۱
+۲
 عباس سے کہہ دے کوی یہ نہر پہ جا کے
 بے حال سکینہ ہے اور نیلے ہیں رخسار
 
-۲
+۳
 گرتی ہے کبھی اٹھتی ہے معصوم یتیمہ
 پابند رسن ہے گلا اور چلنے سے لاچار
 
-۳
+۴
 منزل بازار شام کی ہوتی ختم نہیں
 ہے سر برہنہ بی بیاں اور عابد بیمار
 
-۴
+۵
 عرفان جس کا سینۂ تھا بستر
 سوتی ہے تنہا خاک پہ کوئی نہیں غم خوار

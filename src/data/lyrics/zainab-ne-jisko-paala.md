@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab ne jisko paala noori hijab may
-
-  1
   Wo qatl hogaya hai ehde shabab may
   Haye akbar haye akbar
+
+  1
   Akbar ki laash dekhi to shabbir ne kaha
   Sughra ko kya likhunga khat ke jawab may
 
@@ -38,10 +38,10 @@ romanLyrics: |-
 # raw_sha256: 89d2112779c92e99e85db43ea93f1ab85d7ffa02d4481a1a26b3a3ec243ea95c
 ---
 زینب نے جس کو پالا نوری حجاب میں
-
-۱
 وہ قتل ہو گیا ہے عہدِ شباب میں
 ہائے اکبر ہائے اکبر
+
+۱
 اکبر کی لاش دیکھی تو شبیر نے کہا
 صغرا کو کیا لکھوں گا خط کے جواب میں
 

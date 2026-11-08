@@ -9,86 +9,52 @@ poet: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Zainab ne kaha ye ro ro kar mai qaidi hoo
-
+romanLyrics: |-
+  Zainab ne kaha ye ro ro kar
+  Mai qaidi hoo
   Baba aao dekho aakar mai qaidi hoo
 
-
   1
-
   Darbar may be-parda hoo khadi
-
   Baazu may rasan hai mere bandhi
-
   Nay range zamana dekhe koi
-
   Zaalim hai taqte muhamad par
 
-
   2
-
   Nana ka utha jab se saaya
-
   Ek pal bhi na chain humne paaya
-
   Hote hote ye din aaya
-
   Shabbir ka sar hai naize par
 
-
   3
-
   Barbad hua zehra ka chaman
-
   Bhai hai mera be-goro kafan
-
   Mai dukhyari lachaar behan
-
   Ro bhi nahi sakti mayyat par
 
-
   4
-
   Aao aao abbas e ali
-
   Qaimo may hai sab aag lagi
-
   Be-parda hui aulaad e nabi
-
   Kya hoga sitam isse badh kar
 
-
   5
-
   Wo dekho sakina phir royi
-
   Phir maar raha hai koi shaki
-
   Baazu may rasan hai mere bandhi
-
   Mai rokun to rokun kyun kar
 
-
   6
-
   Mai kehne khuda hafiz aayi
-
   Majboor hai bhaiya maajayi
-
   Kaise doo kafan tum ko bhai
-
   Chadar bhi nahi mere sar par
 
-
   7
-
   Qasim ho kahan akbar ho kahan
-
   Ay aun o mohamed jaati hai maa
-
   Abbas mere ay shere jawan
-
-  Dekho to zara bhaiya uth kar'
+  Dekho to zara bhaiya uth kar
 # source_id: nohayonline:37bb6f5c69158c79ac33
 # source_url: https://www.nohayonline.com/details_content.php?id=160
 # raw_sha256: 930f1c1b2b7a84f2ffb68ab744466aa0eb8ef15ab43e5cf48a0d9d308b3be3a6
@@ -96,12 +62,11 @@ romanLyrics: 'Zainab ne kaha ye ro ro kar mai qaidi hoo
 # source_url: https://www.nohayonline.com/details_content.php?id=2919
 # raw_sha256: fe7257912153e2748285e6248425117f389a87f60300b1c7424c5708368b03d1
 ---
-
 زینب نے کہا یہ رو رو کر
 میں قیدی ہوں
+بابا آئو دیکھو آ کر میں قیدی ہوں
 
 ۱
-بابا آئو دیکھو آ کر میں قیدی ہوں
 دربار میں بے پردہ ہوں کھڑی
 بازو میں رسن ہے میرے بندھی
 نئے رنگِ زمانہ دیکھے کوئی
