@@ -14,65 +14,58 @@ romanLyrics: |-
   Qaid khane mein tadapti rahi bekas tanha
   Sar e shabbir ko aghosh mein le kar apni
   Zakhmi honton pe yateema ke yehi nauha tha
-
-  1
   Baba pehchano mujhe baba
   Mai teri sakina hoo
+  
+  1
   Tere gham ne mujhe kar diya hai baba zaeefa
   Meri poshak lahoo se hai bhari ay baba
   Bad gayi aur meri tashna labi ay baba
   Khud batayenge mere paon ke chaale tum ko
   Aaj bhi dhoop mein rehti hoo khadi ay baba
   Jis din se utha aap ka sar se mere saaya
-  Baba baba pehchano mujhe baba
-
+  
   2
   Aap ke baad ajab haal hua hai mera
   Ye badan phool sa zakhmon se bhara hai mera
   Pehla pursa hi tamachon ka mil hai mujhko
   Shaam waalon ne khayal aise rakha hai mera
   Pathar kabhi shole kabhi naiza kabhi durra
-  Baba baba pehchano mujhe baba
-
+  
   3
   Aap ka karz sakina ne utaara baba
   Zaalimon ne mujhe har mod pe maara baba
   Kaise samjhaun samajh lo ye ishara baba
   Le ke dewaar ka chalti hoo sahara baba
   Baba mujhe aankhon se nazar hi nahi aata
-  Baba baba pehchano mujhe baba
-
+  
   4
   Khaak se apni yateema ko utha lo jaldi
   Shimr aajayega godhi mein chupa lo jaldi
   Aap to chaahne waalon ko bula lete ho
   Door hoo kab se mujhe paas bula lo jaldi
   Bin aap ke achi nahi lagti mujhe dunya
-  Baba baba pehchano mujhe baba
-
+  
   5
   Ek nazar ghaur se ghazi ki bhatiji dekho
   Gir ke naaqe se kamar jhuk gayi meri dekho
   Aankhein kholo zara bacchi ki zaeefi dekho
   Mere baalon mein utar aayi safedi dekho
   Lagta hai zaeefa hoo mai amma se zyada
-  Baba baba pehchano mujhe baba
-
+  
   6
   Meri amma ne madine mein sunaya tha mujhe
   Haal hazrat ki mohabbat ka bataya tha mujhe
   Aakhri hai ye guzarish meri tum se baba
   Jaise dunya mein duaon se bulaya tha mujhe
   Waise hi dua do ke mai ab chod doo dunya
-  Baba baba pehchano mujhe baba
-
+  
   7
   Qaid khane mein takallum hai abhi tak dukhiya
   Aaj tak baap pe karti hai musalsal girya
   Haye taqdeer rehaayi nahi paayi usne
   Aaj tak bali sakina ka rasan mein hai gala
   Wo qabr mein padhti hai yehi aaj bhi nauha
-  Baba baba pehchano mujhe baba
 # source_id: nohayonline:3e739b97fd7e77c03b7b
 # source_url: https://www.nohayonline.com/details_content.php?id=2748
 # raw_sha256: 14c62f5d670aaaeeeba8a274315366c1cbf350533fb4375a8ac1c545e9c941f0
@@ -81,17 +74,16 @@ romanLyrics: |-
 ‎قید خانے میں تڑپتی رہی بےکس تنہا
 ‎سرِ شبیر کو آغوش میں لے کر اپنی
 ‎زخمی ہونٹوں پہ یتیمہ کے یہی نوحہ تھا
-
-۱
 بابا پہچانو مجھے بابا
 میں تیری سکینہ ہوں
+
+۱
 تیرے غم نے مجھے کر دیا ہے بابا ضعیفہ
 ‎میری پوشاک لہو سے ہے بھری اے بابا
 ‎بڑھ گئی اور مری تشنہ لبی اے بابا
 ‎خود بتائیں گے مرے پاؤں کے چھالے تم کو
 ‎آج بھی دھوپ رہتی ہوں کھڑی اے بابا
 ‎جس دن سے اٹھاآپ کا سر سے میرے سایہ
-بابا بابا پہچانو مجھے بابا
 
 ۲
 آپ کے بعد عجب حال ہوا ہے میرا
@@ -99,7 +91,6 @@ romanLyrics: |-
 پہلا پرسہ ہی طمانچوں کا ملا ہے مجھ کو
 شام والوں نے خیال ایسے رکھا ہے میرا
 پتھر کبھی شعلے کبھی نیزہ کبھی درہ
-بابا بابا پہچانو مجھے بابا
 
 ۳
 آپ کا قرض سکینہ نے اتارا بابا
@@ -107,7 +98,6 @@ romanLyrics: |-
 کیسے سمجھاؤں سمجھ لو یہ اشارہ بابا
 لے کے دیوار کا چلتی ہوں سہارا بابا
 بابا مجھے آنکھوں سے نظر ہی نہیں آتا
-بابا بابا پہچانو مجھے بابا
 
 ۴
 خاک سے اپنی یتیمہ کو اٹھا لو جلدی
@@ -115,7 +105,6 @@ romanLyrics: |-
 آپ تو چاہنے والوں کو بُلا لیتے ہو
 دور ہوں کب سے مجھے پاس بلا لو جلدی
 بن آپ کے اچھی نہیں لگتی مجھے دنیا
-بابا بابا پہچانو مجھے بابا
 
 ۵
 اک نظر غور سے غازی کی بھتیجی دیکھو
@@ -123,7 +112,6 @@ romanLyrics: |-
 آنکھیں کھولو ذرا بچی کی ضعیفی دیکھو
 میرے بالوں میں اتر آئی سفیدی دیکھو
 لگتا ہے ضعیفہ ہوں میں اماں سے زیادہ
-بابا بابا پہچانو مجھے بابا
 
 ۶
 میری اماں نے مدینے میں سنایا تھا مجھے
@@ -131,7 +119,6 @@ romanLyrics: |-
 آخری ہے یہ گذارش مری تم سے بابا
 جیسے دنیا میں دعاوں سے بُلایا تھا مجھے
 ویسے ہی دعا دو کہ میں اب چھوڑ دوں دنیا
-بابا بابا پہچانو مجھے بابا
 
 ۷
 قید خانے میں تکلم ہے ابھی تک دکھیا
@@ -139,4 +126,3 @@ romanLyrics: |-
 ہائے تقدیر رہائی نہیں پائی اس نے
 آج تک بالی سکینہ کا رسن میں ہے گلا
 وہ قبر میں پڑھتی ہے یہی آج بھی نوحہ
-بابا بابا پہچانو مجھے بابا
