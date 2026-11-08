@@ -14,9 +14,9 @@ romanLyrics: |-
   Haye masooma haye sakina
   Pani masooma ne maanga to tamache khaaye
   Roke baba ko bulaya to tamache khaaye
+  Haye sakina haye sakina
 
   1
-  Haye sakina haye sakina
   Cheen ne aaya jo zainab ki rida bachi ne
   Shimr ko rokna chaha to tamache khaaye
 
@@ -59,9 +59,9 @@ romanLyrics: |-
 ہاے معصومہ ہاے سکینہ
 پانی معصومہ نے مانگا تو طمانچے کھاے
 روکے بابا کو بلایا تو طمانچے کھاے
+ہاے سکینہ ہاے سکینہ
 
 ۱
-ہاے سکینہ ہاے سکینہ
 چھین نے آیا جو زینب کی ردا بچی نے
 شمر کو روکنا چاہا تو طمانچے کھاے
 

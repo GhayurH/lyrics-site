@@ -12,8 +12,6 @@ published: false
 romanLyrics: |-
   Fauj e aada thi udhar jang pe tayyar khadi
   Jaan dene pe yahan fauje elaahi thi tuli
-
-  1
   Yak bayak sheh ki nazar akbar e mehroo pe padi
   Dekh kar suye pisar shaah ne awaaz ye di
   Taqadam waladi taqadam waladi
@@ -22,6 +20,8 @@ romanLyrics: |-
   Hoti hai teeron ki bochaar taqadam waladi
   Zad pe hai sab mere ansaar taqadam waladi
   In pe aanch aaye na zinhaar taqadam waladi
+
+  1
   Waqt ye wo hai ke talwaar uthaale hum log
   Deen e haq ko kisi surat se bachale hum log
   Kyun kisi aur par is baar ko daale hum log
@@ -68,8 +68,6 @@ romanLyrics: |-
 ---
 فوج اعدا تھی ادھر جنگ پہ تیار کھڑی
 جان دینے پہ یہاں فوج الٰہی تھی تلی
-
-۱
 یک بہ یک شہ کی نظر اکبر مہرو پہ پڑی
 دیکھ کر سوے پسر شاہ نے آواز یہ دی
 تقدم ولدی تقدم ولدی
@@ -78,6 +76,8 @@ romanLyrics: |-
 ہوتی ہے تیروں کی بوچھار تقدم ولدی
 ضد پہ ہے سب میرے انصار تقدم ولدی
 ان پہ آنچ آئے نہ زنہار تقدم ولدی
+
+۱
 وقت یہ وہ ہے کہ تلوار اٹھالے ہم لوگ
 دین حق کو کسی صورت سے بچالے ہم لوگ
 کیوں کسی اور پر اس بار کو ڈالے ہم لوگ

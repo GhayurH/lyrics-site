@@ -14,39 +14,37 @@ romanLyrics: |-
   Na tha koi ke jo thaame rakaab e tausan ko
   Sakina thaam rahi thi abaa ke daaman ko
   Hussain chup ke khade thay jhukaye gardan ko
-
-  1
   Na aasra tha koi shaah e karbalayi ko
   Faqat behan ne kiya tha sawaar bhai ko
   Asr e ashoor ye zainab ke labon par thi buka
   Tanha hai hussain kitna tanha hai hussain
 
-  2
+  1
   Mere abbas e dilawar ko khabar do jaa kar
   Tere aaqa pe na chal jaaye layeen ka khanjar
   Haan yehi waqt e musibat hai dikhani hai wafa
 
-  3
+  2
   Ek pyase ko layeeno ne yahan ghera hai
   Saat bhai na bathija na koi beta hai
   Haye is naizon ke jangal mein kise dega sada
 
-  4
+  3
   Dosti tum ko nibhani hai mere bhai ki
   Aao maqtal se habeeb ibne mazahir asadi
   Shimr khanjar liye aata hai utho behre khuda
 
-  5
+  4
   Choor zakhmon se badan saara lahoo jaari hai
   Haye kuch dayr mein sar katne ki tayyari hai
   Hai mohamed ke nawase pe ajab waqt pada
 
-  6
+  5
   Darmiyan zeen o zameen ke hai badan pyase ka
   Door hai dasht e bayaban se watan pyase ka
   Haye is aalam e ghurbat mein koi bhi na raha
 
-  7
+  6
   Rayt ke teele se dekha ye sitam ka manzar
   Thi buka safdar o mazhar ye behan ke lab par
   Aao imdaad ko ay baba ali maa zahra
@@ -58,39 +56,37 @@ romanLyrics: |-
 نہ تھا کوئی جو تھامے رکاب توسن کو
 سکینہ تھام رہی تھی عبا کے دامن کو
 حسین چپکے کھڑے تھے جھکائے گردن کو
-
-۱
 نہ آسرا تھا کوی شاہ کربلائی کو
 فقط بہن نے کیا تھا سوار بھای کو
 عصرِ عاشور یہ زینب کے لبوں پر تھی بکا
 تنہا ہے حسین کتنا تنہا ہے حسین
 
-۲
+۱
 میرے عباس دلاور کو خبر دو جا کر
 تیرے آقا پہ نہ چل جائے لعیں کا خنجر
 ہاں یہی وقت مصیبت ہے دکھانی ہے وفا
 
-۳
+۲
 ایک پیاسے کو لعینوں نے یہاں گھیرا ہے
 سات بھای نہ بھتیجا نہ کوی بیٹا ہے
 ہاے اس نیزوں کے جنگل میں کسے دے گا صدا
 
-۴
+۳
 دوستی تم کو نبھانی ہے میرے بھائی کی
 آؤ مقتل سے حبیب ابن مظاہر اسدی
 شمر خنجر لیےء آتا ہے اٹھو بہر خدا
 
-۵
+۴
 چور زخموں سے بدن سارا لہو جاری ہے
 ہاے کچھ دیر میں سر کٹنے کی تیاری ہے
 ہے محمد کے‌ نواسے پہ عجب وقت پڑا
 
-۶
+۵
 درمیاں زین و زمیں کے ہے بدن پیاسے کا
 دور ہے دشت بیاباں سے وطن پیاسے کا
 ہاے اس عالم غربت میں کوئی بھی نہ رہا
 
-۷
+۶
 ریت کے ٹیلے سے دیکھا یہ ستم کا منظر
 تھی بکا صفدر و مظہر یہ بہن کے لب پر
 آؤ امداد کو اے بابا علی ماں زہرا
