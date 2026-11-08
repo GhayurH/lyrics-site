@@ -10,11 +10,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Sha ast hussain baadshah ast hussain
-  
-  1
   Deen ast hussain deen panah ast hussain
   Sar daad na daad dast dar daste yazeed
   Haqqa ke binaye la ilaaha ast hussain
+  
+  1
   Jab wadaye tifli ko wafa kar chuke shabbir
   Khanjar ke talay shukre khuda kar chuke shabbir
   Sar maareka e karbobala kar chuke shabbir
@@ -66,13 +66,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=944
 # raw_sha256: 541cd05c7eb305ac0a02275e7891e7d1e0da96bef20b640b1ee77c3d3985f4dc
 ---
-
 شاہ است حُسین بادشاہ است حُسین
-
-۱
 دیں است حُسین دیں پناہ است حُسین
 سر داد نہ داد دست در دست یزید
 حقا کہ بنائے لا الہ است حُسین
+
+۱
 جب وعدہ ء طفلی کو وفا کر چکے شبیر
 خنجر کے تلے شکر خدا کر چکے شبیر
 سر معرکہ کربوبلا کر چکے شبیر
