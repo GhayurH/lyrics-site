@@ -1,6 +1,6 @@
 ---
 title: "آج مقتل میں عجب بے سر و ساماں ہے حرم"
-alternateTitle: "Aaj Maqtal May"
+alternateTitle: "Aaj Maqtal Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,37 +9,37 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj maqtal may ajab be saro samaan hai haram
+  Aaj maqtal mein ajab be saro samaan hai haram
   Dil hai majrooh khule sar hai pareshan hai haram
   
   1
-  Qatle shabbir se betaab hai girya hai haram
-  Waarison may nahi ab koi to hairaan hai haram
-  Zikre mazloomi shaahe madani karte hai
+  Qatl-e-Shabbir se betaab hai girya hai haram
+  Waarison mein nahi ab koi to hairaan hai haram
+  Zikr-e-mazlumi shah-e-Madani karte hai
   Kabhi aahein to kabhi seena zani karte hai
   
   2
   Qaime sab jal chuke hai loot chuke hai aada
   Farq par hai kisi bibi ke na maqna na rida
   Shaam hone ko hai sunsaan hai jangal saara
-  Paas bacchon ko liye baithi hai binte zahra
+  Paas bacchon ko liye baithi hai bint-e-Zahra
   
   3
   Pyar karti hai isay gah usay samjhati hai
   Koi masoom jo rota hai to behlati hai
-  Ro ke farmati hai ye khwahare sultane anam
+  Ro ke farmati hai ye khwahare sultan-e-anam
   Utho sajjad ki ab din hua jaata hai tamaam
   
   4
-  Jhat pata waqt hai kuch der may hone ko hai shaam
+  Jhat pata waqt hai kuch der mein hone ko hai shaam
   Ab na qasim hai na abbas na akbar na imam
   Dil e paj murda pa ek gham ki ghata chaayi hai
   Raat hone ko hai aur aalame tanhaai hai
   
   5
-  Kaan may pahunchi jo sajjad ke zainab ki sada
+  Kaan mein pahunchi jo sajjad ke zainab ki sada
   Khol kar aankh ye ki arz basad aah o buka
-  Kya kahun aap se qaabu may nahi dil mera
+  Kya kahun aap se qaabu mein nahi dil mera
   Tap zyada hai to ghaflat bhi hai kuch aaj siwa
   
   6
@@ -55,10 +55,10 @@ romanLyrics: |-
   Un ke rone ki sada bhi na magar aati thi
   
   8
-  Kaha abid ne ki ay khwahare sultane huda
+  Kaha abid ne ki ay khwahare sultan-e-huda
   Laaiye sheh ne banayi hai jo farde shohda
   Dekh loo wo to mere dil ko tasalli ho zara
-  Naam twhreer hai us fard may kiska kiska
+  Naam tehreer hai us fard mein kiska kiska
   
   9
   Jo gaye khuld me ab khwaab hai surat unki
@@ -67,7 +67,7 @@ romanLyrics: |-
   Le gaye loot ke asbaab to sab baani e shar
   
   10
-  Usi asbaab may wo fard bhi thi ay dilbar
+  Usi asbaab mein wo fard bhi thi ay dilbar
   Sun ke kehne lage sajjad ye badeeda e tar
   Fikr kuch aur mai pabande alam kar loonga
   Qatl jo hogaye naam unke raqam kar loonga
@@ -82,22 +82,22 @@ romanLyrics: |-
   Yaad karte thay unhe jab to jigar jalta tha
   Teen bachon ka kahin par na pata chalta tha
   Ro ke karne lagi sajjad se zainab ye kalaam
-  Jaye tashveesh hai din koi ghadi may hai tamam
+  Jaye tashveesh hai din koi ghadi mein hai tamam
   
   13
   Dhoondne bacchon ko jaati hoo ki ho jaye na shaam
   Do ijazat mujhe beta ke tumhi ab ho imam
   Raasta bhool gaye hai na idhar aayenge
-  Dasht may jaa ke pukarungi to mil jayenge
+  Dasht mein jaa ke pukarungi to mil jayenge
   
   14
-  Keh ke abid se chali khwahare sultane huda
+  Keh ke abid se chali khwahare sultan-e-huda
   Aa zara saath mere mud ke ye fizza se kaha
   Wo bhi hamraah hui karti hui aah o buka
   Paon rakhti thi kahin aur kahin padta tha
   
   15
-  Jaa baja dasht may laashe jo nazar aate thay
+  Jaa baja dasht mein laashe jo nazar aate thay
   Dil dhadakta tha qadam khauf se tharrate thay
   Aah thi lab pe rawan ishq thay aur dil tha fugaar
   Ek taraf ko ye chali jaati thi ba haalat e zaar
@@ -106,7 +106,7 @@ romanLyrics: |-
   Nagahan door se dikhlayi diya ek sawaar
   Boli fizza se ye zainab ke zara badh ke pukar
   Minnate uski karenge to taras khayega
-  Us se bachon ka pata dasht may mil jayega
+  Us se bachon ka pata dasht mein mil jayega
   
   17
   Hukm paana tha ki fizza ne ye di bad ke sada
@@ -124,11 +124,11 @@ romanLyrics: |-
   Boli ye khwahare shabbir ke ay mard e khuda
   Kisi bacche ko to dekha nahi tu ne ye bata
   Tashna lab hai watan awaara hai dikh paye hai
-  Choot kar saath se jangal may chale aaye hai
+  Choot kar saath se jangal mein chale aaye hai
   
   20
   Arz ki us ne jigar thaam ke ba-deeda e tar
-  Abhi sehra may jo ek simt padi meri nazar
+  Abhi sehra mein jo ek simt padi meri nazar
   Dekha ek laashe par khoon hai zameen par be-sar
   Ladki ek choti si baithi hui roti hai magar
   
@@ -141,7 +141,7 @@ romanLyrics: |-
   22
   Bas pata mil gaya ehsaan hua tera mujh par
   Kehke us simt chali girya kuna khaak e basar
-  Ashk e khoon behte thay qaabu may dile zaar na tha
+  Ashk e khoon behte thay qaabu mein dile zaar na tha
   Ek fizza ke siwa doosra ghamkhwar na tha
   
   23
@@ -152,20 +152,20 @@ romanLyrics: |-
   
   24
   Ghash jo hoti hai maza maut ka mil jaata hai
-  Chaunk padti hai to dil seene may hil jaata hai
+  Chaunk padti hai to dil seene mein hil jaata hai
   Aayi nazdeek gharaz zainab e tafteeda jigar
-  Baith kar le liya aaghosh may ba-deeda e tar
+  Baith kar le liya aaghosh mein ba-deeda e tar
   
   25
   Boli lipta ke kaleje se mai qurban tujh par
   Tu ne pehchan liya baap ka laasha kyun kar
   Hijr se maadar e nashaad hui jaati hai
-  Bibi ab ghar may chalo raat hui jaati hai
+  Bibi ab ghar mein chalo raat hui jaati hai
   
   26
   Arz ki usne phuphi se ye basad aah o buka
-  Furqate sheh may tadapne jo laga dil mera
-  Aake is dasht may chillayi mai baba baba
+  Furqate sheh mein tadapne jo laga dil mera
+  Aake is dasht mein chillayi mai baba baba
   Ay phuphi mujhko isi laash se aayi ye sada
   
   27
@@ -175,7 +175,7 @@ romanLyrics: |-
   Aatish e gham se wo nanha sa kaleja tha kabaab
   
   28
-  Godh may machli hua dil jo zyada betaab
+  Godh mein machli hua dil jo zyada betaab
   Pyaar karke use zainab ne ba chashme pur aab
   Li balaaein kabhi gah aankhon se aansu poche
   Khoon e sarwar se bhare jo thay wo gaysu poche
@@ -183,8 +183,8 @@ romanLyrics: |-
   29
   Dono bacchon ko chali dhoondne phir wo muztar
   Dekhti kya hai ke wo baaghe nabi ke gultar
-  Nagahan jaa padi ek simt biyaban may nazar
-  Baahein gerdan may hai aur so rahe hai rakhe sar
+  Nagahan jaa padi ek simt biyaban mein nazar
+  Baahein gerdan mein hai aur so rahe hai rakhe sar
   
   30
   Gard is tarah hai un chand se rukhsaron par
@@ -202,31 +202,31 @@ romanLyrics: |-
   Dekhte hi inhe bas baith gayi zainabe zaar
   Le ke dono ki balayein kiya phir khoob sa pyar
   Sar rakhe khaak se zaanu pe utha kar ek baar
-  Boli ab ghar may chalo neend se ho kar hoshiyar
+  Boli ab ghar mein chalo neend se ho kar hoshiyar
   
   33
   Sard jangal ki hawa baaees aaram hui
-  Dashte ghurbat may khabar bhi hai tumhe shaam hui
+  Dashte ghurbat mein khabar bhi hai tumhe shaam hui
   Neend se jab huwe hoshyaar na wo rashke qamar
   Dam na paaya to ye farmane lagi peet ke sar
   
   34
   Jhuk ke phir ghaur se chehro pe ki zainab ne nazar
   Shayad in dono ka ab ho gaya dunya se safar
-  Dashte ghurbat may kiya sab se kinara bachon
+  Dashte ghurbat mein kiya sab se kinara bachon
   Haye be maut tumhe pyaas ne maara bachon
   
   35
   Arz karne lagi zainab se ye fizza ghamgeen
-  Bibi hae hae mere dil ko yehi hota hai yaqeen
+  Bibi haye haye mere dil ko yehi hota hai yaqeen
   Loot kar qaimon ko jaane lagi jab fauje layeen
-  Aagaye ghodo ke paon may ye khursheed e mubeen
+  Aagaye ghodo ke paon mein ye khursheed e mubeen
   
   36
   Haal inke jigar o qalb ko tadpaate hai
   Phool se jismon pe sab neel nazar aate hai
   Bas haseen rok qalam ab nahi taabe tehreer
-  Dil may nashtar ki tarha chubte hai ab ranj ke teer
+  Dil mein nashtar ki tarha chubte hai ab ranj ke teer
   
   37
   Saaf har zakhm sada dete hai hae hae shabbir

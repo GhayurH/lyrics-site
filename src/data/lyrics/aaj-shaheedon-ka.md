@@ -12,49 +12,51 @@ published: false
 romanLyrics: |-
   Ho raha hai dasht mein matam
   Aaj shaheedon ka hai chehlum
-  Shaam se aaya hai khaafila
-  Loot ka samaan mila mil gayi ridayein sab
-  Matam e hussain ko taras gaye thay tashna lab
-  Ab kare jee khol ke matam
+  Shaam se aaya hai qafila
 
   1
+  Loot ka samaan mila mil gayi ridayein sab
+  Matam-e-Husain ko taras gaye thay tashna lab
+  Ab kare jee khol ke matam
+
+  2
   Be-rida jo bibiyan thi aaj hui ba-rida
   Apne apne warison ko ro rahi hai ghamzada
   Kehne laga dasht ka aalam
 
-  2
+  3
   Koi ye kehne lagi haye mere ba-wafa
   Haye ali akbaram keh ke koi ro diya
   Dil ye sada deta tha paiham
 
-  3
-  Saani e zehra ne phir aa ke haram se kaha
-  Aaiye sab mil ke hum karte hai majlis bapa
+  4
+  Saani-e-Zehra ne phir aa ke haram se kaha
+  Aaiye sab mil ke hum karte hain majlis bapa
   Laaiye abbas ka parcham
 
-  4
+  5
   Dasht e bayaban se phir wo mukhatib hui
   Laal o gohar sab mere kha gayi teri zameen
   Dekh le saadat ka matam
 
-  5
+  6
   Seena zani thi kahin aur kahin shor o shain
-  Ek sada chaar soo goonj uthi ya hussain
+  Ek sada chaar su gunj uthi ya Husain
   Ho gayi ashkon se zameen nam
 
-  6
+  7
   Bain ye fizza ke thay karbobala kuch bata
   Kaise ruke aankh se ashkon ki ye alqama
   Kaise kare zabt bhala hum
 
-  7
+  8
   Thaam liya haath se qalb ko sajjad ne
-  Laakh dilaase diye zainab e nashaad ne
+  Laakh dilaase diye Zainab-e-nashaad ne
   Aa gayi masooma e aalam
 
-  8
-  Ek hi paigham hai mazhar o farhan ka
-  Pursa mohamed ko de aaiye ahle aza
+  9
+  Ek hi paigham hai Mazhar o Farhan ka
+  Pursa Muhammad ko de aaiye ahle aza
   Kijiye zanjeer ka matam
 # source_id: nohayonline:5ebee6d301c58a585a01
 # source_url: https://www.nohayonline.com/details_content.php?id=2694
@@ -63,46 +65,48 @@ romanLyrics: |-
 ہو رہا ہے دشت میں ماتم
 آج شہیدوں کا ہے چہلم
 شام سے آیا ہے قافلہ
+
+۱
 لوٹ کا ساماں ملا مل گیء رداییں سب
 ماتم حسین کو ترس گےء تھے تشنہ لب
 اب کرے جی کھول کے ماتم
 
-۱
+۲
 بے ردا جو بی بیاں تھی آج ہوی با ردا
 اپنے اپنے وارثوں کو رو رہی ہے غمزدہ
 کہنے لگا دشت کا عالم
 
-۲
+۳
 کوئی یہ کہنے لگی ہاے میرے با وفا
 ہاے علی اکبرم کہہ کے کوئی رو دیا
 دل یہ صدا دیتا تھا پیہم
 
-۳
+۴
 ثانیء زہرا نے پھر آ کے حرم سے کہا
 آییےء سب مل کے ہم کرتے ہے مجلس بپا
 لاییےء عباس کا پرچم
 
-۴
+۵
 دشتِ بیاباں سے پھر وہ مخاطب ہوی
 لعل و گوہر سب میرے کھا گیء تیری زمیں
 دیکھ لے سادات کا ماتم
 
-۵
+۶
 سینہ زنی تھی کہیں اور کہیں شور و شین
 ایک صدا چار سو گونج اٹھی یا حسین
 ہو گیء اشکوں سے زمیں نم
 
-۶
+۷
 بین یہ فضہ کے تھے کربوبلا کچھ بتا
 کیسے رکے آنکھ سے اشکوں کی یہ علقمہ
 کیسے کرے ضبط بھلا ہم
 
-۷
+۸
 تھام لیا ہاتھ سے قلب کو سجاد نے
 لاکھ دلاسے دیےء زینب ناشاد نے
 آ گیء معصومہء عالم
 
-۸
+۹
 ایک ہی پیغام ہے مظہر و فرحان کا
 پرسہ محمد کو دے آییےء اہلِ عزا
 کیجیےء زنجیر کا ماتم

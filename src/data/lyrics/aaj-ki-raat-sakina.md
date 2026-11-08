@@ -11,24 +11,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Baba aajao ye beti jo tumhe pyari hai
-  Aaj ki raat sakina pe bahot bhari hai
+  Aaj ki raat Sakina pe bahot bhari hai
 
   1
-  Aabile dilkhte hai hoti hai chuban khaaron ki
-  Badti jaati hai aziyat mere ruqsaron ki
+  Aable dukhte hain hoti hai chubhan khaaron ki
+  Barhti jaati hai aziyat mere rukhsaron ki
   Ye hi haalat ba-khuda hoti hai bemaaron ki
   Aisa lagta hai ke marne ki ye tayyari hai
 
   2
   Apni jaanib jo bulati hai ye zindan ki zameen
   Ye kahin aap se milne ka ishara to nahi
-  Jald aaja'ein na ho jaye bas ab dayr kahin
+  Jald aa jaen na ho jaaye bas ab der kahin
   Aap ke seene pe sone ki meri baari hai
 
   3
   Itna saabir hai mera bhai ke har dukh seh ke
   Khoon ke aansu bahar haal tehar jaate thay
-  Haa magar maanga gaya jab se kaneezi mein mujhe
+  Haan magar maanga gaya jab se kanizi mein mujhe
   Bhai sajjad ki aankhon se lahoo jaari hai
 
   4
@@ -41,24 +41,24 @@ romanLyrics: |-
   Pyar hai beti se kitna ye batana hoga
   Saath mein saare shaheedon ko bhi laana hoga
   Pehla pursa mera lene tumhe aana hoga
-  Aaj zindan mein sakina ki azadari hai
+  Aaj zindan mein Sakina ki azadari hai
 
   6
-  Sochti hoo ke kafan kaise mera laayenge
+  Sochti hun ke kafan kaise mera laayenge
   Kis tarha laash ko bhaiya meri dafnayenge
   Qaidi haathon se mujhe kaise utha payenge
   Kaisi ye maalik o mukhtar ki lachaari hai
 
   7
   Khaak par thak ke baithi to tamache khaaye
-  Haye abbas pukari to tamache khaaye
+  Haye Abbas pukari to tamache khaaye
   Aap ke naam pe royi to tamache khaaye
-  Mere ruqsaron pe tafseel likhi saari hai
+  Mere rukhsaron pe tafseel likhi saari hai
 
   8
   Baap ko beti sada de ke ye boli akbar
   Kar diye baazu nisar apne chacha ne mujh par
-  Uthega unka alam mashk e sakina lekar
+  Uthega unka alam mashk-e-Sakina lekar
   Wo wafa unki thi ye meri wafadari hai
 # source_id: nohayonline:d3d416d483892178bfb2
 # source_url: https://www.nohayonline.com/details_content.php?id=12

@@ -10,18 +10,18 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj shabbir pe kya aalam e tanhaai hai
-  Zulm ki chaand pe zehra ke ghata chaayi hai
+  Aaj Shabbir pe kya aalam-e-tanhai hai
+  Zulm ki chaand pe Zehra ke ghata chaayi hai
   
   1
-  Us taraf lashkar e aada mein saf aarayi hai
+  Us taraf lashkar-e-aada mein saf aarayi hai
   Yan na beta na bhatija na koi bhai hai
   Barchiyan khaate chale jaate hai talwaron mein
   Maar lo pyase ko hai shor sitamgaaron mein
   
   2
   Zakhmi baazu hai kamar kham hai badan mein nahi taab
-  Dagmagate hai nikal jaati hai qadmon se rakaab
+  Dagmagate hain nikal jaati hai qadmon se rakaab
   Pyaas ka ghalba hai lab khushk hai aankhein pur aab
   Taygh se dete hai har waar ka aada ko jawab
   
@@ -35,7 +35,7 @@ romanLyrics: |-
   Teer payvast hai khoon behta hai sofaaron se
   Laakh aafat mein hai ek jaan dil aazaaron se
   Fikr hai sajda e mabood mein sar dene ki
-  Waar se tayghon ke fursat nahi dam lene ki
+  Waar se teghon ke fursat nahi dam lene ki
   
   5
   Khoon se tar pech amaame ke hai sar zakhmi hai
@@ -100,24 +100,24 @@ romanLyrics: |-
   15
   Misle khursheed badan zauf se thar tharata hai
   Nayyar e burj e imamat pe zawaal aata hai
-  Kehte hai zaalimon se khushk zuban dikhla kar
-  Behre haq pani ka ek jaam pila do laa kar
+  Kehte hain zaalimon se khushk zuban dikhla kar
+  Behre haq paani ka ek jaam pila do laa kar
   
   16
-  Ahle keen kehte hai tayghe sitam chamka kar
+  Ahle keen kehte hai teghe sitam chamka kar
   Aab e shamsheer piyo barchiyon ke phal kha kar
   Ye sukhan sun ke bhi ghussa nahi farmate hai
   Yaas se suye falak dekh ke reh jaate hai
   
   17
-  Arz karte hai ye khaaliq se ke ay lab e ghafoor
+  Arz karte hai ye khaaliq se ke ae lab e ghafoor
   Tu hai aalam ke nahi kuch tere bande ka kasoor
-  Karte hai ye mujhe be-jurm o khata tayghon se choor
+  Karte hai ye mujhe be-jurm o khata teghon se choor
   Haath ummat pe uthaana ko nahi mujhko manzoor
   
   18
-  Jaante hai ke mohammed ka nawasa hoo mai
-  Pani dete nahi do roz ka pyaasa hoo mai
+  Jaante hai ke Muhammad ka nawasa hun main
+  Pani dete nahi do roz ka pyaasa hun main
   Tu ne bachpan se mere naaz uthaye ya rab
   Wo inayat kya jo tujhse kiya maine talab
   
@@ -128,20 +128,20 @@ romanLyrics: |-
   Bhej kar hirni ka baccha mera dil shaad kiya
   
   20
-  Ab agar hai ye teri maslehat ay rab e qadeer
+  Ab agar hai ye teri maslehat ae rab e qadeer
   Ho rawan halq pe is pyaase ke aab e shamsheer
   Mere maula ba-sar o chashm hai haazir shabbir
   Hukme haakim mein ye taaqat hai karun mai taakheer
   
   21
   Jald gardan pe rawan khanjar e baraa howe
-  Ay khushaa wo jo teri raah mein qurban howe
-  Gham nahi kuch mujhe go bekas o beyaar hoo mai
-  Zer e shamsheer gala rakhne ko tayyar hoo mai
+  Ae khusha wo jo teri raah mein qurban howe
+  Gham nahi kuch mujhe go bekas o beyaar hun main
+  Zer-e-shamsheer gala rakhne ko tayyar hun main
   
   22
-  Tu madadgaar hai mukhtar hai lachaar hoo mai
-  Waqte mushkil hai inayat ka talabgaar hoo mai
+  Tu madadgaar hai mukhtar hai lachaar hun main
+  Waqte mushkil hai inayat ka talabgaar hun main
   Tere sajde mein ye sar tan se juda ho jawe
   Ehd e tifli ka jo waada hai wafa ho jawe
   
@@ -153,15 +153,15 @@ romanLyrics: |-
   
   24
   Baad e chehlum jo mujhe qabr mayassar howe
-  Zakhmi tan par na fishaar ay mere daawar howe
-  Rehm kar rehm kar sharminda hoo ay yaar e khuda
+  Zakhmi tan par na fishaar ae mere daawar howe
+  Rehm kar rehm kar sharminda hoo ae yaar e khuda
   Bandagi ka tere jo haq tha ada ho na saka
   
   25
   Khauf e mahshar se badan kaampta hai sar tapa
   Hogi aamaal ki pursish to kahunga mai kya
-  Koi tohfa tere laayiq nahi paata hai hussain
-  Haath khaali tere darbar mein aata hai hussain
+  Koi tohfa tere laayiq nahi paata hai Husain
+  Haath khaali tere darbar mein aata hai Husain
   
   26
   Taqwiat dil ko karam se hai tere ya rahman
@@ -172,12 +172,12 @@ romanLyrics: |-
   27
   Aasiyon se bhi mohabbat nahi kam karta hai
   Jurm wo karte hai tu lutf o karam karta hai
-  Mai teri raah mein mazloomi se hota hoo fida
+  Main teri raah mein mazloomi se hota hoo fida
   Tu hai aagaah ke do din ka hoo bhooka pyasa
   
   28
-  Chahta hoo mai yehi apni shahadat ka sila
-  Maghfirat ummat e aasi ki ho ay baar e khuda
+  Chahta hun main yehi apni shahadat ka sila
+  Maghfirat ummat e aasi ki ho ae baar e khuda
   Hai gawara mujhe jo kuch ke aziyyat howe
   Unko dunya mein bhi aakhirat mein bhi raahat howe
 # source_id: nohayonline:6b99d636530f3250aca1

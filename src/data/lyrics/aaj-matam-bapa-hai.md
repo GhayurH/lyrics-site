@@ -18,31 +18,31 @@ romanLyrics: |-
   Zarb se sar phata hai maula ka
 
   2
-  Hogayi surkh masjid e kufa
+  Ho gayi surkh masjid-e-Kufa
   Khoon aise baha hai maula ka
 
   3
-  Ro ke hasnain karte hai naale
+  Ro ke hasnain karte hain naale
   Unko sadma bada hai maula ka
 
   4
-  Ibne muljim ne maah e ramzan may
-  Khoon na haq kiya hai maula ka
+  Ibn-e-Muljim ne maah-e-Ramzan mein
+  Khoon nahaq kiya hai maula ka
 
   5
   Aaj mushkil kusha ki rehlat hai
   Matami ghamzada hai maula ka
 
   6
-  Peet'ti sar hai zainab o kulsoom
+  Pitti sar hai Zainab o Kulsoom
   Jab janaza chala hai maula ka
 
   7
-  Qabr thar'ra rahi thi zehra ki
+  Qabr tharra rahi thi Zehra ki
   Dafn jis dam hua hai maula ka
 
   8
-  Dukh zada hai bober isi gham may
+  Dukhzada hai Bober isi gham mein
   Aaj taboot utha hai maula ka
 # source_id: nohayonline:c9ad87357d9e5175eb84
 # source_url: https://www.nohayonline.com/details_content.php?id=1940

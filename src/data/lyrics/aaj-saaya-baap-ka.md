@@ -10,35 +10,35 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Uth gaya zainab ke sar se aaj saaya baap ka
+  Uth gaya Zainab ke sar se aaj saaya baap ka
   Ab na dekhegi kabhi ghamkhaar chehra baap ka
 
   1
-  Ruqsat e aakhir ki manzil hai elaahi khair ho
+  Rukhsat-e-aakhiri ki manzil hai elaahi khair ho
   Hai qayamat ghar se jaata hai janaza baap ka
 
   2
-  Ya nabi allah behre fatema aa jaiye
+  Ya Nabi Allah bahr-e-Fatima aa jaiye
   Aan ke de dijiye bachon ko pursa baap ka
 
   3
-  Baam o dar arshe elaahi ke larazte hai udhar
-  Padh rahi hai zainab o kulsoom nauha baap ka
+  Baam o dar arsh-e-Ilahi ke larazte hai udhar
+  Padh rahi hai Zainab o Kulsoom nauha baap ka
 
   4
   Betiyon ko sabr ki talqeen koi kya kare
   Saamne jis waqt ke rakha ho laasha baap ka
 
   5
-  Haye re aulaad e zehra ki ghareebi al amaan
-  Waqt ne kaisa diya ghurbat may sadma baap ka
+  Haye re aulaad-e-Zehra ki gharibi al amaan
+  Waqt ne kaisa diya ghurbat mein sadma baap ka
 
   6
-  Kis tarha ashkon ko roke fatema ki betiyan
-  Khoon may dooba hua dekha hai chehra baap ka
+  Kis tarha ashkon ko roke Fatima ki betiyan
+  Khun mein duba hua dekha hai chehra baap ka
 
   7
-  Beh padegi chashm be-saaqta ashk e furaat
+  Beh padegi chashm besakhta ashk-e-Furat
   Yaad jab aa jayega beti ko lehja baap ka
 
   8
@@ -46,7 +46,7 @@ romanLyrics: |-
   Ek beti dekhti hai zakhmi seena baap ka
 
   9
-  Dayam o yazdan likhe kaise bahot dushwar hai
+  Dayam o Yazdan likhe kaise bahot dushwar hai
   Betiyon ke saath jo hota hai rishta baap ka
 # source_id: nohayonline:f9a2a563c223521c7d94
 # source_url: https://www.nohayonline.com/details_content.php?id=1438
