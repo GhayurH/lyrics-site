@@ -11,31 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Mashk o alam udas hai saqqa udas hai
-  
-  1
   Binte shahe umam ko kayi din ki pyas hai
   
-  2
+  1
   Keha hai kaun mashk alam se hai mubtasir
   Lipti hui chacha se bhatiji ki aas hai
   
-  3
+  2
   Pani mila to kehti thi amma bulaiye
   Mujhse kahin siwa ali asghar ki pyas hai
   
-  4
+  3
   Ye kaun hai faraat ke saahil pa tashnalab
   Darya tadap utha hai samandar udas hai
   
-  5
+  4
   Ay teere hurmala kahin raste mein teher ja
   Maadar ke dil ka tujhko agar kuch bhi paas hai
   
-  6
+  5
   Ay zuljanah door isay le na jaaiyo
   Tera sawaar fatema ki kul ataas hai
   
-  7
+  6
   Kal tak yahan sukoon tha qaime thay log thay
   Ab aag hai dhuaan hai lahoo hai hiraas hai
 # source_id: nohayonline:c9cda7b855a36bdfed07
@@ -44,30 +42,28 @@ romanLyrics: |-
 ---
 
 مشک و علم اداس ہے سقہ اداس ہے
-
-۱
 بنت شہہ امم کوئی دن کی پیاس ہے
 
-۲
+۱
 کہتا ہے کون مشک علم سے ہے مبتشر
 لپٹی ہوئی چچا سے بھتیجی کی آس ہے
 
-۳
+۲
 پانی ملا تو کہتی تھیں اماں بلائیے
 مجھ سے کہیں سوا علی اصغر کی پیاس ہے
 
-۴
+۳
 یہ کون ہے فرات کے ساحل پہ تشنہ لب
 دریا تڑپ اٹھا ہے سمندر اداس ہے
 
-۵
+۴
 اے تیر حرملا کہیں رستے میں ٹھہر جا
 مادر کے دل کا تجھ کو اگر کچھ بھی پاس ہے
 
-۶
+۵
 اے ذوالجناح دور اسے لے نہ جائیو
 تیرا سوار فاطمہ کی کل اساس ہے
 
-۷
+۶
 کل تک یہاں سکون تھا خیمے تھے لوگ تھے
 اب آگ ہے دھواں ہے لہو ہے حراس ہے
