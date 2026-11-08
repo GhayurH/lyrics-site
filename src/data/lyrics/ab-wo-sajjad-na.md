@@ -10,75 +10,75 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye haye shaam haye haye shaam
-  Nok e naiza se dekhlo baba
-  Ab wo sajjad na raha sajjad
-  Jis ghadi berida hui zainab
-  Karbala mein hi mar gaya sajjad
+  Haye haye Shaam haye haye Shaam
+  Nok-e-neza se dekh lo Baba
+  Ab woh Sajjad na raha Sajjad
+  Jis ghari berida hui Zainab
+  Karbala mein hi mar gaya Sajjad
 
   1
-  Kya hai parda ye shaam waalon ko
+  Kya hai parda ye Shaam waloṅ ko
   Teri daadi ne hi sikhaya hai
-  Unhi logon ne meri phupiyon ko
-  Berida shaam mein phiraya hai
+  Unhi logoṅ ne meri phuphiyoṅ ko
+  Berida Shaam mein phiraya hai
   Kya ghazab hai ke haath phaila kar
-  Maangta hai bas ek rida sajjad
+  Maangta hai bas ek rida Sajjad
 
   2
   Haye jis ne baghair mehmil ke
   Ghar se baahar qadam na rakha tha
-  Us phuphi ko zamane waalon ne
+  Us phuphi ko zamane waloṅ ne
   Aap ke baad berida dekha
-  Kaash abbas aaj hote to
-  Ye qayamat na dekhta sajjad
+  Kaash Abbas aaj hote to
+  Ye qayamat na dekhta Sajjad
 
   3
   Sar pe jab tak tha aap ka saaya
-  Maa'on behno ke sar pe thi chadar
-  Warna mai bhi ali ka beta hoo
-  Jaanta hoo mai jang ke jauhar
+  Maoṅ behnoṅ ke sar pe thi chadar
+  Warna main bhi Ali ka beta huṅ
+  Jaanta huṅ main jang ke jauhar
   Dekh kar berida phuphi ka sar
-  Sharm ke maare jhuk gaya sajjad
+  Sharm ke maare jhuk gaya Sajjad
 
   4
-  Nanhe bachon ke haath mein pathar
-  De ke maara gaya sakina ko
-  Pusht e naaqa se bhi giraya aur
-  Taziyane lage yateema ko
-  Mai bandhe haath dekh kar roya
-  Us ne har dard par kaha sajjad
+  Nanhe bachchoṅ ke haath mein patthar
+  De ke maara gaya Sakina ko
+  Pusht-e-naqa se bhi giraya aur
+  Taziyane lage yatima ko
+  Main bandhe haath dekh kar roya
+  Us ne har dard par kaha Sajjad
 
   5
-  Badr o khyber ki jo adawat thi
-  Uska yun inteqam lete hai
-  Shaam ke log bheed mein har dam
-  Meri phupiyon ka naam lete hai
-  Taaziyane to seh gaya baba
-  Tanz lekin na seh saka sajjad
+  Badr o Khaibar ki jo adawat thi
+  Us ka yun inteqam lete haiṅ
+  Shaam ke log bhir mein har dam
+  Meri phuphiyoṅ ka naam lete haiṅ
+  Taziyane to seh gaya Baba
+  Tanz lekin na seh saka Sajjad
 
   6
-  Is tarha se bandhe hai rassi se
-  Haath mere galay yateemon ke
-  Na jhukun to zameen se baba
-  Paon uth'te hai nanhe bachon ke
+  Is tarha se bandhe haiṅ rassi se
+  Haath mere gale yatimoṅ ke
+  Na jhukuṅ to zamin se Baba
+  Paoṅ uthte haiṅ nanhe bachchoṅ ke
   Bas ruku mein hi shukr ke sajde
-  Kar ke guzrega ab tera sajjad
+  Kar ke guzrega ab tera Sajjad
 
   7
-  Jis behan ne hamesha jeene ki
-  Haye abbas ko duayein di
+  Jis behen ne hamesha jine ki
+  Haye Abbas ko duaeṅ di
   Berida sar pe rakh ke haathon ko
-  Usne abbas ko sadayein di
-  Sar sina se wahan gira unka
-  Aur yahan khaak par gira sajjad
+  Us ne Abbas ko sadaeṅ di
+  Sar sinaṅ se wahan gira un ka
+  Aur yahan khaak par gira Sajjad
 
   8
-  Apne maula ke ek aansu ka
-  Haq ada na sahaab kar paaya
-  Girte ashkon ki roshnayi se
-  Dil ke qirtaas par yehi likha
-  Kitna gehra tha gham ridaon ka
-  Ya khuda jaanta hai ya sajjad
+  Apne Maula ke ek aaṅsu ka
+  Haq ada na Sahab kar paaya
+  Girte ashkoṅ ki roshnai se
+  Dil ke qirtas par yehi likha
+  Kitna gehra tha gham ridaoṅ ka
+  Ya Khuda jaanta hai ya Sajjad
 # source_id: nohayonline:f4804a4501515ca55b6e
 # source_url: https://www.nohayonline.com/details_content.php?id=2714
 # raw_sha256: 14d59e8c509881c5fa22a577d98f33c00608ff8af9395a1cb90fc0a2d591f74b
@@ -127,7 +127,7 @@ romanLyrics: |-
 شام کے لوگ بھیڑ میں ہر دم
 میری پھوپھیوں کا نام لیتے ہیں
 تازیانے تو سہہ گیا بابا
-تنس لیکن نہ سہہ سکا سجاد
+طنز لیکن نہ سہہ سکا سجاد
 
 ۶
 اس طرح سے بندھے ہیں رسی سے

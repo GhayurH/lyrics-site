@@ -10,61 +10,55 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ab watan jaa rahi hoon ay bhai
-  
+  Ab watan ja rahi huṅ ae bhai
+  Maaṅ ko sab kuchh sunauṅgi ja kar
+
   1
-  Ek bekas behan ka tha nauha
-  Shamiyon ne bula ke karbobala
-  Mere bhai ko zibha kar daala
-  Maa ko sab kuch sunaungi jaa kar
-  
+  Ek bekas behen ka tha nauha
+  Shamiyoṅ ne bula ke Karbobala
+  Mere bhai ko zibh kar daala
+
   2
-  Asre ashoor ko na akbar tha
-  Aur na abbas sa baradar tha
-  Sheh ka pamaal kar diya laasha
-  Maa ko sab kuch sunaungi jaa kar
-  
+  Asr-e-Ashur ko na Akbar tha
+  Aur na Abbas sa baradar tha
+  Sheh ka pamal kar diya laasha
+
   3
-  Wo masayeb uthayi hai zainab
-  Qaid mein jaa ke aayi hai zainab
-  Apna waada nibhayi hai zainab
-  Maa ko sab kuch sunaungi jaa kar
-  
+  Woh masaib uthayi hai Zainab
+  Qaid mein ja ke aayi hai Zainab
+  Apna waada nibhayi hai Zainab
+
   4
-  Sar e bazaar phir ke aayi hoon
-  Bhare darbar jaa ke aayi hoon
-  Sabr ki inteha dikhayi hoon
-  Maa ko sab kuch sunaungi jaa kar
-  
+  Sar-e-bazaar phir ke aayi huṅ
+  Bhare darbar ja ke aayi huṅ
+  Sabr ki inteha dikhayi huṅ
+
   5
-  Maqtal e karbala ka har manzar
-  Naqsh hai haye mere seene par
-  Kaise maara gaya mera akbar
-  Maa ko sab kuch sunaungi jaa kar
-  
+  Maqtal-e-Karbala ka har manzar
+  Naqsh hai haye mere sine par
+  Kaise maara gaya mera Akbar
+
   6
-  Maa ki turbat pe pehle jaaungi
-  Saari roodad e gham sunaungi
-  Neel baazu ke bhi dikhaungi
-  Maa ko sab kuch sunaungi jaa kar
-  
+  Maaṅ ki turbat pe pahle jauṅgi
+  Saari rudad-e-gham sunauṅgi
+  Nil baazu ke bhi dikhauṅgi
+
   7
-  Hogi bas intezar mein sughra
-  Bolo bhaiya usay kahun kya kya
-  Dil bahot beqaraar hai mera
-  Maa ko sab kuch sunaungi jaa kar
-  
+  Hogi bas intezar mein Sughra
+  Bolo bhaiya use kahuṅ kya kya
+  Dil bahot beqarar hai mera
+
   8
-  Ro rahe thay kaleem ahle aza
-  Aa rahi thi sada e wavaila
-  Bain karti thi saani e zehra
-  Maa ko sab kuch sunaungi jaa kar
+  Ro rahe the Kalim Ahl-e-Aza
+  Aa rahi thi sada-e-wawaila
+  Bain karti thi Saani-e-Zehra
 # source_id: nohayonline:d8da268b3dc6bb5d845b
 # source_url: https://www.nohayonline.com/details_content.php?id=3186
 # raw_sha256: 684278f89ab50d117e938dbc1e997befcbb66abea03e1c622cbfa6f59ff2aeb4
 ---
 
-اب وطن جا رہی ہوں اے بھای
+اب وطن جا رہی ہوں اے بھائی
+ماں کو سب کچھ سناؤں گی جا کر
 
 ۱
 ایک بیکس بہن کا تھا نوحہ
@@ -76,40 +70,33 @@ romanLyrics: |-
 عصر عاشور کو نہ اکبر تھا
 اور نہ عباس سا برادر تھا
 شہ کا پامال کر دیا لاشہ
-ماں کو سب کچھ سناؤں گی جا کر
 
 ۳
 وہ مصائب اٹھای ہے زینب
 قید میں جا کے آی ہے زینب
 اپنا وعدہ نبھای ہے زینب
-ماں کو سب کچھ سناؤں گی جا کر
 
 ۴
 سر بازار پھر کے آی ہوں
 بھرے دربار جا کے آی ہوں
 صبر کی انتہا دکھائی ہوں
-ماں کو سب کچھ سناؤں گی جا کر
 
 ۵
 مقتل کربلا کا ہر منظر
 نقش ہے ہاے میرے سینے پر
 کیسے مارا گیا میرا اکبر
-ماں کو سب کچھ سناؤں گی جا کر
 
 ۶
 ماں کی تربت پہ پہلے جاؤں گی
 ساری روداد غم سناؤں گی
 نیل بازو کے بھی دکھاؤں گی
-ماں کو سب کچھ سناؤں گی جا کر
 
 ۷
 ہوگی بس انتظار میں صغرا
 بولو بھیا اسے کہوں کیا کیا
 دل بہت بیقرار ہے میرا
-ماں کو سب کچھ سناؤں گی جا کر
 
 ۸
 رو رہے تھے کلیم أہل عزا
 آ رہی تھی صداے واویلا
 بین کرتی تھی ثانیء زہرا
-ماں کو سب کچھ سناؤں گی جا کر

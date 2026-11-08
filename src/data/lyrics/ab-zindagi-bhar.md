@@ -11,88 +11,88 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye kaun si wiqar hai
-  Bala ka sheh sawaar hi
-  Ye bil yaqeen hussain hai
-  Nabi ka noore ain hai
+  Bala ka Sheh sawar hai
+  Ye bilyaqin Husain hai
+  Nabi ka nur-e-ain hai
   Libaas hai phata hua
-  Lahoo mein hai ata hwa
-  Tamaam jism e nazneen
-  Chidha hua kata huwa
-  Magar kuch is ada se aaya fatema ka laadla
-  Lahoo lahoo hui farat aur sukoot cha gaya
-  Kuch aisa ran pada ke kaante pad gaye zaban par
-  Khuda ne iske khoon se likha ye aasman par
-  Jo ghar luta chuka ali ka laadla
+  Lahu mein hai ata hua
+  Tamam jism-e-naznin
+  Chhida hua kata hua
+  Magar kuch is ada se aaya Fatima ka laadla
+  Lahu lahu hui Furat aur sukoot cha gaya
+  Kuchh aisa ran para ke kaante pad gaye zaban par
+  Khuda ne is ke khun se likha ye aasman par
+  Jo ghar luta chuka Ali ka laadla
   To boli karbala hussain marhaba
   Khuda ke saath saath tera zikr hoga
-  Ay ghareebe nainawa
-  Ab zindagi bhar ya hussain
+  Ae gharib-e-Nainawa
+  Ab zindagi bhar ya Husain
 
   1
-  Karbobala mein dasween moharram ka roz tha
-  Khanjar talay hussain ne sajde mein sar rakha
-  Ro kar pukari zehra isay kaun royega
-  Dashte bala mein haatife ghaibi ne di sada
+  Karbobala mein dasweṅ Muharram ka roz tha
+  Khanjar tale Husain ne sajde mein sar rakha
+  Ro kar pukari Zehra isay kaun royega
+  Dasht-e-bala mein hatif-e-ghaibi ne di sada
 
   2
-  Wo dil bujhe huwe wo hawaein thami hui
-  Wo ek behan ki bhai pe nazrein jami hui
-  Arz o samaan ki saans thi goya ruki hui
+  Woh dil bujhe huwe woh hawaeṅ thami hui
+  Woh ek behen ki bhai pe nazreṅ jami hui
+  Arz o samaṅ ki saaṅs thi goya ruki hui
   Zainab ki zindagi ka khulasa ye ban gaya
 
   3
   Din bhar utha ke laata raha aqraba ki laash
-  Hamshakle mustafa ki kabhi bawafa ki laash
-  Qasim se shaahzada e gulbu qaba ki laash
-  Aalam ko jisne kehne pe majboor kar diya
+  Hamshakl-e-Mustafa ki kabhi bawafa ki laash
+  Qasim se shahzada-e-gulbu qaba ki laash
+  Aalam ko jis ne kehne pe majboor kar diya
 
   4
-  Jiska hujoome dard o alam se ye haal tha
-  Seena tha paash paash jigar paemaal tha
-  Rukh par tha tishnagi ka dhuaan dil nidhaal tha
-  Maujon ki isteraaf se aane lagi sada
+  Jis ka hujum-e-dard o alam se ye haal tha
+  Sina tha paash paash jigar pamal tha
+  Rukh par tha tashnagi ka dhuaan dil nidhaal tha
+  Maujoṅ ki istiraf se aane lagi sada
 
   5
-  Tujhsa shaheed kaun hai aalam mein ay hussain
-  Tu hai har ek deeda e purnam mein ay hussain
-  Rote hai do jahan tere gham mein ay hussain
-  Zinda rahega halqa e matam mein bhi sada
+  Tujh sa shahid kaun hai aalam mein ae Husain
+  Tu hai har ek dida-e-purnam mein ae Husain
+  Rote haiṅ do jahan tere gham mein ae Husain
+  Zinda rahega halqa-e-matam mein bhi sada
 
   6
-  Hussain be kafan
-  Hussain be khata
-  Shaheede karbala
-  Binae la ilaah
+  Husain bekafan
+  Husain bekhata
+  Shahid-e-Karbala
+  Bina-e-La Ilaha
   Khuda ke saath saath tera zikr hoga
-  Ay ghareebe nainawa
+  Ae gharib-e-Nainawa
 
   7
-  Har waar mein layeeno ne chaaha ye baareha
-  Mit jaaye is jahaan se ye majlis e aza
-  Baqi rahe na naam zameen par hussain ka
-  Lekin nabi ki beti se allah keh chuka
+  Har waar mein lainoṅ ne chaaha ye baraha
+  Mit jaaye is jahaan se ye majlis-e-aza
+  Baqi rahe na naam zamin par Husain ka
+  Lekin Nabi ki beti se Allah keh chuka
 
   8
-  Hai daaimi hayat tere naqshe paa ke baad
+  Hai daimi hayat tere naqsh-e-pa ke baad
   Ye raaz jaana dunya ne teri qaza ke baad
-  Tay hogayi ye baat bhi karbobala ke baad
-  Haq aur yazeediyat ka rahega maarka
+  Tay ho gayi ye baat bhi karbobala ke baad
+  Haq aur Yazidiyat ka rahega maarka
 
   9
   Ho daur koi ali ke bete
   Jo baat haq hai yuhin rahegi
-  Tere lahoo ka ye maujiza hai
-  Ye khaak khaake shifa banegi
-  Anees ho ya dabeer koi
-  Lahoo mein jab tak hai josh baaqi
+  Tere lahu ka ye mojiza hai
+  Ye khaak khaak-e-shifa banegi
+  Anees ho ya Dabeer koi
+  Lahu mein jab tak hai josh baaqi
   Khuda ne wajib kiya hai sab par
   Qalam likhega zaban kahegi
 
   10
-  Koi irfan ho ya ho mazhar
-  Hum agar hai sada yehi lab par
-  Qabl az karbala khuda hi khuda
-  Baad az karbala hussain hussain
+  Koi Irfan ho ya ho Mazhar
+  Hum agar haiṅ sada yehi lab par
+  Qabl az Karbala khuda hi khuda
+  Baad az Karbala Husain Husain
 # source_id: nohayonline:a2aa9dc8a24f87e4a487
 # source_url: https://www.nohayonline.com/details_content.php?id=3194
 # raw_sha256: 615b60deb80a3ddd94c723ef2b883388d7cbf32feb3c840c74d579ea56a58b79
@@ -106,7 +106,7 @@ romanLyrics: |-
 تمام جسم نازنیں
 چھدا ہوا کٹا ہوا
 مگر کچھ اس ادا سے آیا فاطمہ کا لاڈلا
-لہو لہو ہوی فرات اور سکوت چھا گیا
+لہو لہو ہوئی فرات اور سکوت چھا گیا
 کچھ ایسا رن میں پڑا کے کانٹے پڑ گےء زبان پر
 خدا نے اس کے خون سے لکھا یہ آسمان پر
 جو گھر لٹا چکا علی کا لاڈلا

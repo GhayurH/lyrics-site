@@ -10,48 +10,48 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sar jhuka kar shahe waala se ye ghazi ne kaha
-  Ab wo lashkar hai kahan jis ka alamdar hoo mai
-  
+  Sar jhuka kar Shah-e-Wala se ye Ghazi ne kaha
+  Ab woh lashkar hai kahan jis ka Alamdar huṅ main
+
   1
-  Ab to tanhaai ke hamle hai ghamon ke dere
-  Sar kataye huwe sote hai sipaahi mere
-  Dam ulajhta hai mera qaidi e aazaar hoo mai
-  
+  Ab to tanhai ke hamle haiṅ ghamoṅ ke dere
+  Sar katae huwe sote haiṅ sipahi mere
+  Dam ulajhta hai mera qaidi-e-azar huṅ main
+
   2
-  Yehi ehsaas kiye rehta hai mujhko bechain
-  Mere hote huwe pyase rahe tiflaane hussain
-  Ab ye aalam hai mera jeene se bezaar hoo mai
-  
+  Yehi ehsas kiye rehta hai mujhko bechain
+  Mere hote huwe pyase rahe tiflan-e-Husain
+  Ab ye aalam hai mera jine se bezar huṅ main
+
   3
-  Ay mere maalik o mukhtar shahenshaah e umam
-  Do mujhe izn tumhe pyasi sakina ki qasam
-  Nehr ki samt rawan hone ko tayyar hoo mai
-  
+  Ae mere Malik o Mukhtar Shahanshah-e-Umam
+  Do mujhe izn tumhein pyasi Sakina ki qasam
+  Nehr ki samt rawaṅ hone ko tayyar huṅ main
+
   4
-  Jo tamanna hai mere dil mein ujaagar kar doo
-  Zindagi aap ke bachon pa nichawar kar doo
-  Roz e awwal khuda e shahe abraar hoo mai
-  
+  Jo tamanna hai mere dil mein ujagar kar duṅ
+  Zindagi aap ke bachchoṅ pe nichhavar kar duṅ
+  Roz-e-awwal Khuda-e-Shah-e-Abrar huṅ main
+
   5
-  Bekasi zauf o naqaahat nahi dekhi jaati
-  Pyase bachon ki ye haalat nahi dekhi jaati
-  Jaan dene ke liye bachon pa tayyar hoo mai
-  
+  Bekasi zoaf o naqaahat nahi dekhi jaati
+  Pyase bachchoṅ ki ye haalat nahi dekhi jaati
+  Jaan dene ke liye bachchoṅ pe tayyar huṅ main
+
   6
-  Ghamzada bekas o mazloom hazeena ke liye
-  Jaan jaati hai chali jaaye sakina ke liye
-  Aap ka aap ke bachon ka wafadaar hoo mai
-  
+  Ghamzada bekas o mazlum hazina ke liye
+  Jaan jaati hai chali jaaye Sakina ke liye
+  Aap ka aap ke bachchoṅ ka wafadar huṅ main
+
   7
-  Aap ka izn jo mil jaaye shehenshaah e hazeen
-  Nehr qaime mein na laaun to mai abbas nahi
-  Jis ko maanga tha ali ne wohi jarraar hoo mai
-  
+  Aap ka izn jo mil jaaye Shahanshah-e-hazin
+  Nehr khaime mein na lauṅ to main Abbas nahiṅ
+  Jis ko maanga tha Ali ne wohi Jarrar huṅ main
+
   8
-  Khoon rone lage us waqt shahe nek hizaal
-  Jis ghadi sher e dilaawar ne farmeina bilal
-  Aap par jaan fida karne ka haqdaar hoo mai
+  Khun rone lage us waqt Shah-e-nek-hizal
+  Jis ghari Sher-e-Dilawar ne farmaya Bilal
+  Aap par jaan fida karne ka haqdar huṅ main
 # source_id: nohayonline:8f18c35fe521c7f2d4e4
 # source_url: https://www.nohayonline.com/details_content.php?id=2254
 # raw_sha256: 4901e16e48f12fa90857ed45e05f0a8f4d248dd4767e897dcf3682a4257c7d0b
