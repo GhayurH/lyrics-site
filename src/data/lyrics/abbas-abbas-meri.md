@@ -10,89 +10,90 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Toote dilon ki aas ay mere maula abbas
-  Abbas abbas meri madad ko aao na
+  Tute diloṅ ki aas ae mere Maula Abbas
+  Abbas Abbas meri madad ko aao na
 
   1
-  Ye dunya sitam jab dhaati hai
+  Ye dunya sitam jab dhati hai
   Ya koi musibat aati hai
   Bas tere alam ke panje par
   Ye meri nazar ruk jaati hai
-  Abbas abbas har gham se chudao na
+  Abbas Abbas har gham se chhurao na
 
   2
-  Mai doob raha hoo ay maula
-  Jeene ka nahi koi rasta
-  Jab tum ko bulaata hai koi
-  Tum us ko bachaate ho maula
-  Abbas abbas mujhko bhi bachao na
+  Main dub raha huṅ ae Maula
+  Jine ka nahiṅ koi rasta
+  Jab tum ko bulata hai koi
+  Tum us ko bachate ho Maula
+  Abbas Abbas mujhko bhi bachao na
 
   3
-  Sab karbobala ko jaate hai
-  Aur dil ki muradein paate hai
-  Ek mai hi tarasta hoo maula
-  Kyun aap mujhe tadpaate hai
-  Abbas abbas zawwar banao na
+  Sab Karbobala ko jaate hain
+  Aur dil ki muradeṅ paate hain
+  Ek main hi tarasta huṅ Maula
+  Kiun aap mujhe tarpate hain
+  Abbas Abbas zawwar banao na
 
   4
   Ye khwab dikhaya hai tum ne
-  Rauze pe bulaaya hai tum ne
-  Rauze se lipat kar sochoonga
-  Seene se lagaya hai tumne
-  Abbas abbas seene se lagao na
+  Rauze pe bulaya hai tum ne
+  Rauze se lipat kar sochuṅga
+  Sine se lagaya hai tum ne
+  Abbas Abbas sine se lagao na
 
   5
-  Jab aat moharram aati hai
-  Maa saqqa mujhe banwati hai
-  Jis ghar mein haazri hoti hai
+  Jab aath Muharram aati hai
+  Maaṅ saqqa mujhe banwati hai
+  Jis ghar mein hazri hoti hai
   Wahan teri sawari aati hai
-  Abbas abbas mere ghar bhi to aao na
+  Abbas Abbas mere ghar bhi to aao na
 
   6
-  Girton ko sahara dete ho
-  Doobe to kinara dete ho
-  Jab toot raha ho koi dil
-  Tum hi to dilaasa dete ho
-  Abbas abbas girta hoo uthao na
+  Girtoṅ ko sahara dete ho
+  Dube to kinara dete ho
+  Jab tut raha ho koi dil
+  Tum hi to dilasa dete ho
+  Abbas Abbas girta huṅ uthao na
 
   7
   Zainab ki sada yaad aati hai
-  Abbas sakina pyasi hai
-  Dil tukde huwe jaata hai mera
-  Wo sookhi zaban dikhlaati hai
-  Abbas abbas usay pani pilao na
+  Abbas Sakina pyasi hai
+  Dil tukre hue jaata hai mera
+  Wo sukhi zabaṅ dikhlati hai
+  Abbas Abbas use pani pilao na
 
   8
-  Karte hai buka mesum mazhar
+  Karte hain buka Mesum Mazhar
   Aata hai yaad wohi manzar
-  Hal min ki sadayein dete huwe
-  Shabbir ye kehte hai ro kar
+  Hal min ki sadaeṅ dete hue
+  Shabbir ye kehte hain ro kar
 # source_id: nohayonline:95b0cdb138c1f36c6161
 # source_url: https://www.nohayonline.com/details_content.php?id=1698
 # raw_sha256: b34786c438956b7aedad5edbd30a40d073252f3008109ab4263c1004de42ca2d
 ---
+
 ٹوٹے دلوں کی آس اے میرے مولا عباس
 عباس عباس میری مدد کو آؤ نا
 
 ۱
 یہ دنیا ستم جب ڈھاتی ہے
-یا کوی مصیبت آتی ہے
-بس تیرے الم کے پنجے پر
+یا کوئی مصیبت آتی ہے
+بس تیرے علم کے پنجے پر
 یہ میری نظر رک جاتی ہے
 عباس عباس ہر غم سے چھڑاؤ نا
 
 ۲
 میں ڈوب رہا ہوں اے مولا
 جینے کا نہیں کوئی رستہ
-جب تم کو بلاتا ہے کوی
+جب تم کو بلاتا ہے کوئی
 تم اس کو بچاتے ہو مولا
-عباس عباس مجھکو بھی بچاؤ نا
+عباس عباس مجھ کو بھی بچاؤ نا
 
 ۳
 سب کربوبلا کو جاتے ہیں
 اور دل کی مرادیں پاتے ہیں
-اک میں ہی مجھے تڑپاتے ہیں
-کیوں آپ مجھے تڑپاتے ہے
+اک میں ہی ترستا ہوں مولا
+کیوں آپ مجھے تڑپاتے ہیں
 عباس عباس زوار بناؤ نا
 
 ۴
@@ -119,12 +120,12 @@ romanLyrics: |-
 ۷
 زینب کی صدا یاد آتی ہے
 عباس سکینہ پیاسی ہے
-دل ٹکڑے ہوے جاتے ہے میرا
+دل ٹکڑے ہوئے جاتا ہے میرا
 وہ سوکھی زباں دکھلاتی ہے
 عباس عباس اسے پانی پلاؤ نا
 
 ۸
 کرتے ہیں بکا میثم مظہر
 آتا ہے یاد وہی منظر
-ھل من کی صداییں دیتے ہوے
+ہل من کی صدائیں دیتے ہوئے
 شبیر یہ کہتے ہیں رو کر

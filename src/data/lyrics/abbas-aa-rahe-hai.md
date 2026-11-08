@@ -10,64 +10,65 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek shor hai al amaan
-  Abbas aa rahe hai abbas aa rahe hai
-  Ek haath mein alam aur mashke sakina
+  Ek shor hai al-aman
+  Abbas aa rahe hain Abbas aa rahe hain
+  Ek haath mein alam aur mashk-e-Sakina
 
   1
-  Kaandhe pe mashk mashk mein dil hai dilayr ka
-  Darya ko cheen lena nahi kaam dayr ka
-  Ehsaan tishnagi mein milega na ghair ka
-  Bigda hua mizaaj hai hyder ke sher ka
+  Kandhe pe mashk mashk mein dil hai diler ka
+  Darya ko chheen lena nahi kaam der ka
+  Ehsan tishnagi mein milega na ghair ka
+  Bigra hua mizaj hai Haider ke sher ka
 
   2
-  Chehra hai wal qamar ki ziyaon se noor noor
-  Aankhon se jhaankta hua wan najm ka suroor
-  Baala khadi hai aisi ke sharmeine koh e toor
-  Zulfein daraaz aisi ke wal layl ka shaoor
+  Chehra hai Wal Qamar ki ziyaoṅ se nur nur
+  Aankhoṅ se jhaṅkta hua Wan Najm ka surur
+  Bala khari hai aisi ke sharmae Koh-e-Tur
+  Zulfeṅ daraz aisi ke Wal Lail ka shaur
 
   3
-  Pyasa hai sher ghaat ka rasta na rokna
-  Aankhein jukao sher ki jaanib na dekhna
-  Kaise bachegi jaan ye laazim hai sochna
-  Abbas hai jalaal mein hargiz na tokna
+  Pyaasa hai sher ghaat ka rasta na rokna
+  Aankheṅ jhukao sher ki janib na dekhna
+  Kaise bachegi jaan ye lazim hai sochna
+  Abbas hain jalal mein hargiz na tokna
 
   4
-  Tewar bata rahe hai qayamat uthayega
-  Tayghe nazar se is ki khuda hi bachayega
-  Aaya jo saamne koi wo maara jayenga
-  Ek mashk mein furaat ko bhar kar dikhayega
+  Tewar bata rahe hain qayamat uthayega
+  Tegh-e-nazar se iski Khuda hi bachayega
+  Aaya jo saamne koi wo maara jayega
+  Ek mashk mein Furat ko bhar kar dikhayega
 
   5
-  Qabza hua furaat par al kissa mukhtasar
-  Pani ko dekha phat gaya abbas ka jigar
-  Aankhein lahoo lahoo hui bachon ki pyaas par
-  Bali sakina bachon se kehti rahi udhar
+  Qabza hua Furat par al-qissa mukhtasar
+  Pani ko dekha phat gaya Abbas ka jigar
+  Aankheṅ lahu lahu hui bachchoṅ ki pyaas par
+  Bali Sakina bachchoṅ se kehti rahi udhar
 
   6
-  Qaime ke dar par pyasi sakina thi muntazar
+  Khaime ke dar par pyasi Sakina thi muntazar
   Jumbish alam ki dekh ke deti thi ye khabar
-  Tishna labon dua mein tumhari hua asar
+  Tishna laboṅ dua mein tumhari hua asar
   Wo dekho aa raha hai chacha ka alam nazar
 
   7
-  Aaya alam zaroor magar khoon mein bhara
-  Zainab ne sar ko peet ke shabbir se kaha
-  Kyun kham kamar hai aap ki ghazi kahan gaya
-  Bole hussain ab koi pyasa na de sada
+  Aaya alam zarur magar khun mein bhara
+  Zainab ne sar ko peet ke Shabbir se kaha
+  Kiun kham kamar hai aap ki Ghazi kahan gaya
+  Bole Husain ab koi pyasa na de sada
 
   8
-  Bar haq hai maut kehti hai quran si kitaab
-  Sab ko fana hai chand ho taare ho aftaab
-  Hoga nadeem sarwar o rehaan jab hisaab
-  Keh denge hum khuda se ke dene ko ab jawab
+  Barhaq hai maut kehti hai Quran si kitab
+  Sab ko fana hai chand ho taare ho aftab
+  Hoga Nadeem Sarwar o Rehaan jab hisab
+  Keh deṅge hum Khuda se ke dene ko ab jawab
 # source_id: nohayonline:3dd952f8047154a57b15
 # source_url: https://www.nohayonline.com/details_content.php?id=2049
 # raw_sha256: bd245c4d3fd505a324daaf5299871424b40b2095fc08eb32f2636acac1b6fc93
 ---
+
 اک شور ہے الامان
 عباس آ رہے ہیں عباس آ رہے ہیں
-اک ہاتھ میں الم اور مشک سکینہ
+اک ہاتھ میں علم اور مشکِ سکینہ
 
 ۱
 کاندھے پہ مشک مشک میں دل ہے دلیر کا
@@ -76,32 +77,32 @@ romanLyrics: |-
 بگڑا ہوا مزاج ہے حیدر کے شیر کا
 
 ۲
-چہرہ ہے والقمر کی ضیاوں سے نور نور
+چہرہ ہے والقمر کی ضیاؤں سے نور نور
 آنکھوں سے جھانکتا ہوا والنجم کا سرور
-بالا کھڑی ہے ایسی کہ شرماے کوہ طور
-ذوالفیں دراز ایسی کہ والیل کا شعور
+بالا کھڑی ہے ایسی کہ شرمائے کوہِ طور
+زلفیں دراز ایسی کہ واللیل کا شعور
 
 ۳
 پیاسا ہے شیر گھاٹ کا رستہ نہ روکنا
 آنکھیں جھکاؤ شیر کی جانب نہ دیکھنا
 کیسے بچے گی جان یہ لازم ہے سوچنا
-عباس ہیں جلال میں ہر گز نہ ٹوکنا
+عباس ہیں جلال میں ہرگز نہ ٹوکنا
 
 ۴
-تیور بتا رہے ہیں قیامت اٹھاے گا
-تیغ نظر سے اس کی خدا ہی بچاے گا
-آیا جو سامنے کوئی وہ مارا جاے گا
-اک مشک میں فرات کو بھر کر دکھاے گا
+تیور بتا رہے ہیں قیامت اٹھائے گا
+تیغِ نظر سے اس کی خدا ہی بچائے گا
+آیا جو سامنے کوئی وہ مارا جائے گا
+اک مشک میں فرات کو بھر کر دکھائے گا
 
 ۵
 قبضہ ہوا فرات پر القصہ مختصر
 پانی کو دیکھا پھٹ گیا عباس کا جگر
-آنکھیں لہو لہو ہوی بچوں کی پیاس پر
+آنکھیں لہو لہو ہوئیں بچوں کی پیاس پر
 بالی سکینہ بچوں سے کہتی رہی ادھر
 
 ۶
-خیمے کے درپہ پیاسی سکینہ تھی منتظر
-جنبش علم کی دیکھ کے دیتی تھی یہ خبر
+خیمے کے در پہ پیاسی سکینہ تھی منتظر
+جنبشِ علم کی دیکھ کے دیتی تھی یہ خبر
 تشنہ لبوں دعا میں تمہاری ہوا اثر
 وہ دیکھو آ رہا ہے چچا کا علم نظر
 
@@ -112,7 +113,7 @@ romanLyrics: |-
 بولے حسین اب کوئی پیاسا نہ دے صدا
 
 ۸
-بر حق ہے موت کہتی ہے قرآن سی کتاب
+برحق ہے موت کہتی ہے قرآن سی کتاب
 سب کو فنا ہے چاند ہو تارے ہو آفتاب
 ہوگا ندیم سرور و ریحان جب حساب
 کہہ دیں گے ہم خدا سے کہ دینے کو اب جواب

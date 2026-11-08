@@ -10,48 +10,49 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas e alamdar alam ooncha hai tera
-  Ay sayyed o sardar alam ooncha hai tera
+  Abbas-e-Alamdar alam uncha hai tera
+  Ae Sayyed o Sardar alam uncha hai tera
 
   1
-  Tu fatema zehra ki duaon ka sila hai
-  Saqqayi ka mansab tujhe virse mein mila hai
-  Pyason ke wafdaar alam ooncha hai tera
+  Tu Fatema Zehra ki duaoṅ ka sila hai
+  Saqqai ka mansab tujhe virse mein mila hai
+  Pyasoṅ ke wafadar alam uncha hai tera
 
   2
   Lehrata hai har ghar pe alam aaj bhi tera
   Hota hai ziyarat se hi momin ka savera
-  Dil kehta hai har baar alam ooncha hai tera
+  Dil kehta hai har baar alam uncha hai tera
 
   3
-  Deta hai mareezon ko shifa aaj bhi tu hi
-  Mayoos dilon ki hai sada aaj bhi tu hi
-  Hai dil mein tera pyaar alam ooncha hai tera
+  Deta hai marizoṅ ko shifa aaj bhi tu hi
+  Mayus diloṅ ki hai sada aaj bhi tu hi
+  Hai dil mein tera pyaar alam uncha hai tera
 
   4
   Shabbir ke rauze se sada aati hai paiham
-  Dekhun mai jidhar bhi nazar aaye tere parcham
-  Ay fauj ke salaar alam ooncha hai tera
+  Dekhuṅ main jidhar bhi nazar aaye tere parcham
+  Ae fauj ke salar alam uncha hai tera
 
   5
-  Jo shaam e ghariban mein alamdar bani thi
-  Kehti hai alam dekh ke tera wohi bibi
-  Parde ke nigehdaar alam ooncha hai tera
+  Jo Shaam-e-Ghariban mein alamdar bani thi
+  Kehti hai alam dekh ke tera wohi Bibi
+  Parde ke nigehdar alam uncha hai tera
 
   6
-  Safdar jo julooson mein alam maine uthaya
-  Mazhar ki tarha naara yehi maine lagaya
-  Ay sayyed e sardar alam ooncha hai tera
+  Safdar jo julusoṅ mein alam maine uthaya
+  Mazhar ki tarah naara yehi maine lagaya
+  Ae Sayyed o Sardar alam uncha hai tera
 # source_id: nohayonline:012a78b1dc4785e91346
 # source_url: https://www.nohayonline.com/details_content.php?id=3741
 # raw_sha256: 054b6c135ebe6707aadbb3ef9811cd12215ca9c64ee2ca2f3f3a6917a262c77e
 ---
+
 عباسِ علمدار علم اونچا ہے تیرا
 اے سید و سردار علم اونچا ہے تیرا
 
 ۱
 تو فاطمہ زہرا کی دعاؤں کا صلہ ہے
-سقای کا منصب تجھے ورثے میں ملا ہے
+سقائی کا منصب تجھے ورثے میں ملا ہے
 پیاسوں کے وفادار علم اونچا ہے تیرا
 
 ۲
@@ -66,15 +67,15 @@ romanLyrics: |-
 
 ۴
 شبیر کے روضے سے صدا آتی ہے پیہم
-دیکھوں میں جدھر بھی نظر آے تیرے پرچم
+دیکھوں میں جدھر بھی نظر آئے تیرے پرچم
 اے فوج کے سالار علم اونچا ہے تیرا
 
 ۵
-جو شام غریباں میں علمدار بنی تھی
+جو شامِ غریباں میں علمدار بنی تھی
 کہتی ہے علم دیکھ کے تیرا وہی بی بی
 پردے کے نگہدار علم اونچا ہے تیرا
 
 ۶
 صفدر جو جلوسوں میں علم میں نے اٹھایا
 مظہر کی طرح نعرہ یہی میں نے لگایا
-اے سید سردار علم اونچا ہے تیرا
+اے سید و سردار علم اونچا ہے تیرا

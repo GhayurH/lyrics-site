@@ -9,27 +9,27 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas abbas ay mere bhai
-  
+  Abbas Abbas ae mere bhai
+
   1
-  Akbar bhi gaye chod diye mujhko akele
-  Kya kya na sitam hai mere dil ne hai jhele
-  Loote hai sitamgar mere barson ki kamayi
-  
+  Akbar bhi gaye chhor diye mujhko akele
+  Kya kya na sitam hain mere dil ne hain jhele
+  Lute hain sitamgar mere barsoṅ ki kamai
+
   2
-  Bacchon ka tadapna mujhe dekha nahi jaata
-  Hai aas mein baithe hai liye haath mein kooza
-  Ab lutf nahi qaimon mein veerani si chaayi
-  
+  Bachchoṅ ka tarapna mujhe dekha nahiṅ jaata
+  Hai aas mein baithe hain liye haath mein kuza
+  Ab lutf nahiṅ khaimoṅ mein virani si chhai
+
   3
-  Bewon ki ridaon ka bhi ab khauf hai mujhko
-  Tooti hai kamar sheh ki ke ab kho diya tujhko
-  Ab daaghe rasan dekhegi zainab ki kalayi
-  
+  Bewaoṅ ki ridaoṅ ka bhi ab khauf hai mujhko
+  Tuti hai kamar Sheh ki ke ab kho diya tujhko
+  Ab daagh-e-rasan dekhegi Zainab ki kalai
+
   4
-  Bhai mere bhai ki sada goonj rahi hai
-  Mayoos zaeefi mein khade ibne ali hai
-  Ab halat e shabbir pe roti hai khudayi
+  Bhai mere bhai ki sada gunj rahi hai
+  Mayus zaifi mein khare Ibn-e-Ali hain
+  Ab halat-e-Shabbir pe roti hai Khudai
 # source_id: nohayonline:2e039ae0092eab67a871
 # source_url: https://www.nohayonline.com/details_content.php?id=3185
 # raw_sha256: ade6eaa7b7c1e204daae489914245f2fc499b25fe7adaf2900133eeb35fe60a0
@@ -38,21 +38,21 @@ romanLyrics: |-
 عباس عباس اے میرے بھائی
 
 ۱
-اکبر بھی گےء چھوڑ دیےء مجھکو اکیلے
-کیا کیا نہ ستم ہے میرے دل نے ہے جھیلے
-لوٹے ہیں ستمگر میرے برسوں کی کمای
+اکبر بھی گئے چھوڑ دیے مجھ کو اکیلے
+کیا کیا نہ ستم ہیں میرے دل نے ہیں جھیلے
+لوٹے ہیں ستمگر میرے برسوں کی کمائی
 
 ۲
 بچوں کا تڑپنا مجھے دیکھا نہیں جاتا
-ہے آس میں بیٹھے ہیں لیےء ہاتھ میں کوزہ
+ہے آس میں بیٹھے ہیں لیے ہاتھ میں کوزہ
 اب لطف نہیں خیموں میں ویرانی سی چھائی
 
 ۳
-بیوؤں کی رداؤں کا بھی اب خوف ہے مجھکو
-ٹوٹی ہے کمر شہ کی کہ اب کھو دیا تجھکو
-اب داغ رسن دیکھے گی زینب کی کلای
+بیوؤں کی رداؤں کا بھی اب خوف ہے مجھ کو
+ٹوٹی ہے کمر شہ کی کہ اب کھو دیا تجھ کو
+اب داغِ رسن دیکھے گی زینب کی کلائی
 
 ۴
-بھای میرے بھائی کی صدا گونج رہی ہے
-مایوس ضعیفی میں کھڑے ابنِ علی ہے
-اب حالت شبیر پہ روتی ہے خدای
+بھائی میرے بھائی کی صدا گونج رہی ہے
+مایوس ضعیفی میں کھڑے ابنِ علی ہیں
+اب حالتِ شبیر پہ روتی ہے خدائی
