@@ -12,42 +12,40 @@ published: false
 romanLyrics: |-
   Baad e hussain dasht mein mehshar bapa hua
   Chane laga har simt se ghan ghor andhera
-
-  1
   Qaime jale ridayein chini haye kya hua
   Pardes mein loota gaya zahra ka gharana
   Aayi shaam e ghariban
   Kya gham ka hai samaa aayi shaam e ghariban
-
-  2
+  
+  1
   Laashe pe jawan laal ke kehti rahi bano
   Sehra bhi tera dekh na paayi tu chal basa
-
-  3
+  
+  2
   Jalte hue qaimon se jo uth'ta raha dhuan
   Hairan o pareshan tha shabbir ka kunba
-
-  4
+  
+  3
   Laashe ke tukde bikhre pade thay zameen par
   Pamaal is tarha hua dulhe ka sarapa
-
-  5
+  
+  4
   Bhai ko apne dhoondti thi dashte bala mein
   Haaton mein liye pani ke kooze ko sakina
-
-  6
+  
+  5
   Barsa rahe thay jism pe bemaar ke kode
   Is aalam e ghurbat mein kiya shukr ka sajda
-
-  7
+  
+  6
   Ye keh rahi thi shaah ki khwahar labe furaat
   Abbas dekho sar se meri chin gayi rida
-
-  8
+  
+  7
   Naize chubote jaate thay durre lagate thay
   Aale nabi pe hoti rahi raat bhar jafa
-
-  9
+  
+  8
   Ahmed ye shaam roze qayamat se kam nahi
   Mohsin jo qaid hogaya ahmed ka gharana
 # source_id: nohayonline:bf0c1efd15304351c06c
@@ -56,41 +54,39 @@ romanLyrics: |-
 ---
 بعدِ حسین دشت میں محشر بپا ہوا
 چھانے لگا ہر سمت سے جہاں گور اندھیرا
-
-۱
 خیمے جلے ردائیں چھِنی ہائے کیا ہوا
 پردیس میں لُوٹا گیا زہرا کا گھرانہ
 آئی شامِ غریباں
 کیا غم کا ہے سماں آئی شامِ غریباں
 
-۲
+۱
 لاشے پہ جواں لال کے کہتی رہی بانو
 سہرا بھی تیرا دیکھ نہ پائی تُو چل بسا
 
-۳
+۲
 جلتے ہوئے خیموں سے اُٹھتا رہا دھواں
 حیران و پریشان تھا شبیر کا کنبہ
 
-۴
+۳
 لاشِ کے ٹکڑے بکھرے پڑے تھے زمیں پر
 پامال اس طرح ہوا دولہے کا سراپا
 
-۵
+۴
 بھائی کو اپنے ڈھونڈتی تھی دشتِ بھلا میں
 ہاتھوں میں لیے پانی کے کوزے کا سکینہ
 
-۶
+۵
 برسا رہے تھے جسم پہ بیمار کے کوڑے
 اس عالمِ غربت میں کیا شکر کا سجدہ
 
-۷
+۶
 یہ کہہ رہی تھی شاہ کی خواہر لبِ فرات
 عباس دیکھو سر سے میری چھِن گئی چادر
 
-۸
+۷
 نیزے چُبھوتے جاتے تھے دُرّے لگاتے جاتے تھے
 آلِ نبی پہ ہوتی رہی رات بھر جفا
 
-۹
+۸
 احمد یہ شام روزِ قیامت سے کم نہیں
 محسن جو قید ہو گیا احمد کا گھرانہ
