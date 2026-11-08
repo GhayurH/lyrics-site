@@ -10,12 +10,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yaad aaoge bhaiya
   Hussain jaata hai marne ko ay meri zainab
   Khareeb aa gaya ab waqt e aakhri zainab
+  Salam tumpe ay baba ki laadli zainab
 
   1
-  Salam tumpe ay baba ki laadli zainab
   Zainab ne kaha kaun hai pardes mein mera
   Kyun jaate ho tum chor ke bhaiya mujhe tanha
   Zainab ko har ek mod pe tadpayegi dunya
@@ -61,12 +60,11 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/1343
 # raw_sha256: a62c1b544c9f8355feae0a68b2fe990645f07ef9e899a26525224f0674c43662
 ---
-یاد آؤ گے بھیا
 حسینؑ جاتا ہے مرنے کو اے میری زینبؑ
 قریب آگیااب وقت آخری زینبؑ
+سلام تم پہ اے بابا کی لاڈلی زینبؑ
 
 ۱
-سلام تم پہ اے بابا کی لاڈلی زینبؑ
 زینبؑ نے کہا کون ہے پردیس میں میرا
 کیوں جاتے ہو تم چھوڑ کے بھیا مجھے تنہا
 زینبؑ کو ہر اک موڑ پہ تڑپائے گی دنیا

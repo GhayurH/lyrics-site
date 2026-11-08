@@ -12,12 +12,10 @@ published: false
 romanLyrics: |-
   Momino kissa e sadaat suno
   Thaam kar dil ye meri baat suno
-  
-  1
   Khoon se likhe huwe halaat suno
   Ya zahra ya zahra ya zahra
-  
-  2
+
+  1
   Noor e kaunain madina hai jahan
   Ek mehalla bani hashim hai wahan
   Us mehelle ke hai ek ghar ka bayan
@@ -34,7 +32,8 @@ romanLyrics: |-
   Jisme quran uthra
   Aur kis tarha luta
   Inka rutba na zamana samjha
-  Ya zahra ali...
+
+  2
   Kaisi mazloom magar thi zahra
   Baap ke gham mein bhi rone na diya
   Haq se mehroom kiya wa abata
@@ -51,7 +50,8 @@ romanLyrics: |-
   Ghar ye veeran hua
   Thi yateemo ki buka
   Haye baba haye baba baba
-  Ya zahra ali...
+
+  3
   Baad e hyder ye sitam aur hua
   Khoon mein shabbar ka janaza dooba
   Aur phir deen jo mushkil mein ghira
@@ -68,7 +68,8 @@ romanLyrics: |-
   Khoon bekas ka baha
   Sar suye naiza gaya
   Tan ko aagosh mein zehra ne liya
-  Ya zahra ali...
+
+  4
   Aagayi shaam e ghariban haye haye
   Aur phir aag lagi qaime jale
   Ghash se jab abid e bemaar uthe
@@ -85,20 +86,16 @@ romanLyrics: |-
   Jab ye zainab ne kaha
   Na rahi meri rida
   Amma mai aagayi bhai na raha
-  Ya zahra ali...
 # source_id: nohayonline:0686399d5b08f34830e3
 # source_url: https://www.nohayonline.com/details_content.php?id=177
 # raw_sha256: ee462e0f98ab9d05f1059b642eb0bbe745b38bcad7d0087f9e4b7590deaaa392
 ---
-
 مومنوں قصہء سادات سنو
 تھام کر دل یہ میری بات سنو
-
-۱
 خوں سے لکھے ہوئے حالات سنو
 یا زہرا یا زہرا یا زہرا
 
-۲
+۱
 نور کونین مدینہ ہے جہاں
 اک محلہ بنی ہاشم ہے وہاں
 اس محلے کے ہے اک گھر کا بیاں
@@ -115,7 +112,8 @@ romanLyrics: |-
 جس میں قرآن اترا
 اور کس طرح لٹا
 انکا رتبہ نہ زمانہ سمجھا
-یا زہرا علی
+
+۲
 کیسی مظلوم مگر تھیں زہرا
 باپ کے غم میں بھی رونے نہ دیا
 حق سے محروم کیا وا ابتا
@@ -132,7 +130,8 @@ romanLyrics: |-
 گھر یہ ویران ہوا
 تھی یتیموں کی بکا
 ہاےء بابا ہاے بابا بابا
-یا زہرا علی
+
+۳
 بعد حیدر یہ ستم اور ہوا
 خوں میں شبر کا جنازہ ڈوبا
 اور پھر دین جو مشکل میں گھرا
@@ -149,7 +148,8 @@ romanLyrics: |-
 خون بیکس کا بہا
 سر سوےء نیزہ گیا
 تن کو آغوش میں زہرا نے لیا
-یا زہرا علی
+
+۴
 آگیء شام غریباں ہاے ہاے
 اور پھر آگ لگی خیمے جلے
 غش سے جب عابد بیمار اٹھے
@@ -166,4 +166,3 @@ romanLyrics: |-
 جب یہ زینب نے کہا
 نہ رہی میری ردا
 اماں میں آگیء بھائی نہ رہا
-یا زہرا علی
