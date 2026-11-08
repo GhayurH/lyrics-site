@@ -12,76 +12,74 @@ published: false
 romanLyrics: |-
   Acha hai teri beenayi nahi
   Tu dekh nahi paata jabir
-  
-  1
   Thi binte ali bazaron may
   Be maqna o be parda jabir
-  
-  2
+
+  1
   Jabir ye zameen e karbobala
   Zahra ka yahan gulshan bikhra
   Jis jaa pe khade ho tum jabir
   Ghode se yahin abbas gira
   Pyasi thi bhatiji qaime may
   Be baazu hua saqqa jabir
-  
-  3
+
+  2
   Athara baras ka bhai mera
   Seene may lagi naize ki ani
   Jabir ye sunoge kis tarha
   Shabbir ki bhi beenayi gayi
   Bas ek qadam hi chalte thay
   Girte thay mere maula jabir
-  
-  4
+
+  3
   Akbar asghar qasim na rahe
   Thay aun o mohamed ke laashe
   Is par bhi ruki na jor o jafa
   Sab ke laashe pamaal huwe
   Shabbir pe chalta tha khanjar
   Zainab thi sar e qaima jabir
-  
-  5
+
+  4
   Phir shaam e ghariban aa pahunchi
   Qaimon ko jalaya aada ne
   Phupiyon ki ridaon ko meri
   Naizon se utaara aada ne
   Jalta tha sakina ka kurta
   Asghar ka kahin jhoola jabir
-  
-  6
+
+  5
   Aaghaz e imamat tha mera
   Tohfe may milay zanjeer o rasan
   Poshak yateemi ki pehne
   Zakhmon se bhara tha mera badan
   Gardan ka lahoo pairon se baha
   Ye waqt bhi tha aaya jabir
-  
-  7
+
+  6
   Bazaar ka haal suno jabir
   Pathar thay kabhi sholay thay kabhi
   Ummat thi tamashayi saari
   Aur aale mohamed thay qaidi
   Aur habshi ghulamon ki tarha
   Bazaron may khayncha jabir
-  
-  8
+
+  7
   Bazaar hua jab khatm to phir
   Darbar qayamat laaya tha
   Darbari sharabi majme may
   Zainab ko pukara jaata tha
   Paigham e hussaini ki khaatir
   Jaise wo rahi zinda jabir
-  
-  9
+
+  8
   Hasrat thi rehaai ki jis ko
   Zindan se reha wo ho na saki
   Darti thi andhere se bacchi
   Turbat bhi andhere may hi bani
   Zindan may sakina ka haye
   Haathon pe tha jab laasha jabir
-  
-  10
+
+  9
   Salman karega kaise bayan
   Mesum jo mere maula ne kaha
   Beenayi meri ruqsat na hui
@@ -92,15 +90,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2539
 # raw_sha256: c796770b07704e209437c29baf571cf3fcaf6a1f5054b33d823b56fc1f9c0105
 ---
-
 اچھا ہے تیری بینائی نہیں
 تو دیکھ نہیں پاتا جابر
-
-۱
 تھی بنت علی بازاروں میں
 بے مقنہ و بے پردہ جابر
 
-۲
+۱
 جابر یہ زمین کربوبلا
 زہرا کا یہاں گلشن بکھرا
 جس جا پہ کھڑے ہو تم جابر
@@ -108,7 +103,7 @@ romanLyrics: |-
 پیاسی تھی بھتیجی خیمے میں
 بے بازو ہوا سقہ جابر
 
-۳
+۲
 اٹھارہ برس کا بھای میرا
 سینے میں لگی نیزے کی انی
 جابر یہ سنو گے کس طرح
@@ -116,7 +111,7 @@ romanLyrics: |-
 بس ایک قدم ہی چلتے تھے
 گرتے تھے میرے مولا جابر
 
-۴
+۳
 اکبر اصغر قاسم نہ رہے
 تھے عون و کے لاشے
 اس پر بھی رکی نہ جور و جفا
@@ -124,7 +119,7 @@ romanLyrics: |-
 شبیر پہ چلتا تھا خنجر
 زینب تھی سر خیمہ جابر
 
-۵
+۴
 پھر شام غریباں آ پہنچی
 خیموں کو جلایا اعدا نے
 پھوپھیوں کی رداؤں کو میری
@@ -132,7 +127,7 @@ romanLyrics: |-
 جلتا تھا سکینہ کا کرتہ
 اصغر کا کہیں جھولا جابر
 
-۶
+۵
 آغاز امامت تھا میرا
 تحفے میں ملے زنجیر و رسن
 پوشاک یتیمی کی پہنے
@@ -140,7 +135,7 @@ romanLyrics: |-
 گردن کا لہو پیروں سے بہا
 یہ وقت بھی تھا آیا جابر
 
-۷
+۶
 بازار کا حال سنو جابر
 پتھر تھے کبھی شعلے تھے کبھی
 امت تھی تماشائی ساری
@@ -148,7 +143,7 @@ romanLyrics: |-
 اور حبشی غلاموں کی طرح
 بازاروں میں کھینچا جابر
 
-۸
+۷
 بازار ہوا جب ختم تو پھر
 دربار قیامت لایا تھا
 درباری شرابی مجمے میں
@@ -156,7 +151,7 @@ romanLyrics: |-
 پیغام حسینی کی خاطر
 جیسے وہ رہی زندہ جابر
 
-۹
+۸
 حسرت تھی رہائی کی جس کو
 زنداں سے رہا وہ ہو نہ سکی
 ڈرتی تھی اندھیرے سے بچی
@@ -164,7 +159,7 @@ romanLyrics: |-
 زنداں میں سکینہ کا ہاے
 ہاتھوں پہ تھا جب لاشہ جابر
 
-۱۰
+۹
 سلمان کرے گا کیسے بیاں
 میثم جو میرے مولا نے کہا
 بینائی میری رخصت نہ ہوی

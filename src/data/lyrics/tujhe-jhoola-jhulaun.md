@@ -40,7 +40,6 @@ romanLyrics: |-
   7
   Rehan ke nohay sey sada baano ki ayee
   Mein aankhoon sey askhkoon ke samander ko bahaoon
-reciter: Hasan Sadiq
 # source_id: nohayonline:14da9c0342a3dd771485
 # source_url: https://www.nohayonline.com/details_content.php?id=624
 # raw_sha256: 337b3d81c5d7812221181817f35257c6af55a522e779965f0297d76bd8bb014a

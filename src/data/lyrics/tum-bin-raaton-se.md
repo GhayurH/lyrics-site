@@ -11,8 +11,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Tasht may shaah ka sar qaid may jab laaya gaya
-
-  1
   Roke chillayi sakina dar e zindan khula
   Nabz se haath hatao zara amma dekho
   Mai na kehti thi ke aaye hai padar lene ko
@@ -20,6 +18,8 @@ romanLyrics: |-
   Baba ek baar bhi tum ne na khabar li meri
   Tum bin kayi raaton se mai soyi nahi baba
   Kya yaad sakina tumhe aayi nahi baba
+
+  1
   Yaad aata hai wo aap ka seene pe sulana
   Moo choomna aur godh may shafqat se bithana
   Nanhe se mere haathon ko aankhon se lagana
@@ -65,8 +65,6 @@ romanLyrics: |-
 # raw_sha256: e846e3d8b2beb8406fb7ecb938d159611b2ee0dea6eb061e6caac0440c413fcc
 ---
 طشت میں شاہ کا سر قید میں جب لایا گیا
-
-۱
 روکے چلای سکینہ در زنداں کھلا
 نبض سے ہاتھ ہٹاؤ زرا اماں دیکھو
 میں نہ کہتی تھی کہ آے ہیں پدر لینے کو
@@ -74,6 +72,8 @@ romanLyrics: |-
 بابا اک بار بھی تم نے نہ خبر لی میری
 تم بن کئ راتوں سے میں سوئی نہیں بابا
 کیا یاد سکینہ س تمھیں آئی نہیں بابا
+
+۱
 یاد آتا ہے وہ آپ کا سینے پہ سلانا
 منہ چومنا اور گود میں شفقت سے بٹھانا
 ننھے سے مرے ہاتھوں کو آنکھوں سے لگانا
