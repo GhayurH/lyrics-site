@@ -12,49 +12,51 @@ published: false
 romanLyrics: |-
   Hai kaisa andhera ya kya hogaya hai
   Hai kiska janaza qayamat bapa hai
-
-  1
+  Qayamat bapa hai
   Bhala kaun qaidi hai kya dhoondta hai
   Kahan par banaye lehad sochta hai
-  Qayamat bapa hai qayamat bapa hai
+  
+  1
   Zaeefi mein abid ki badli jawani
   Sakina ki turbat banate banate
   Kayi baar mar ke wo zinda hua hai
   Behen ko zameen par sulaate sulaate
-
+  
   2
   Kahin aankh barsi kahin dil chida hai
   Kahin haath larze kahin dam ruka hai
   Bahattar janazo se guzra hai abid
   Behen ka janaza utha'te utha'te
-
+  
   3
   Huwe kaan zakhmi tamache lage thay
   Sakina ki aankhon my aansoo bhare thay
   Suye nehr takti thi hasrat se bachi
   Jala apna daaman bujhate bujhate
-
+  
   4
   Lahad ke liye mil gaya qaid khana
   Reha khud na ho paayi bali sakina
   Magar wo aseeron ko qaide sitam se
   Rehaai dila kar gayi jaate jaate
-
+  
   5
   Ye zahra ki poti hai ghazi ki pyari
   Bahot laadli hai ye apne padar ki
+  
+  6
   Ye darbar mein kya qayamat hui hai
   Sakina phuphi se ye kya poochti hai
   Kahi mar hi jaaye na zainab khudaya
   Kaneezi ka matlab bataate bataate
-
-  6
+  
+  7
   Hai sakhte mein bano qayamat hai kaisi
   Padar se wo baatein abhi kar rahi thi
   Magar ab kabhi bhi na bolegi bachi
   Ye maa ko yaqeen aayega aate aate
-
-  7
+  
+  8
   Sakina ki jaanib se ay mere maula
   Sada naame asghar pe hasrat hai meri
   Guzar jaaye akbar ki ye umr saari
@@ -65,11 +67,11 @@ romanLyrics: |-
 ---
 ہے کیسا اندھیرا یہ کیا ہو گیا ہے
 ہے کس کا جنازہ قیامت بپا ہے
-
-۱
+قیامت بپا ہے
 بھلا کون قیدی ہے کیا ڈھونڈتا ہے
 کہاں پر بنائے لحد سوچتا ہے
-قیامت بپا ہے قیامت بپا ہے
+
+۱
 ضعیفی میں عابد کی بدلی جوانی
 سکینہ کی تُربت بناتے بناتے
 کئی بار مر کے وہ زندہ ہوا ہے
@@ -96,18 +98,20 @@ romanLyrics: |-
 ۵
 یہ زہرا کی پوتی ہے غازی کی پیاری
 بہت لاڈلی ہے یہ اپنے پدر کی
+
+۶
 یہ دربار میں کیا قیامت ہوئی ہے
 سکینہ پھُوپھی سے یہ کیا پُوچھتی ہے
 کہیں مر ہی جائے نہ زینب خدایا
 کنیزی کا مطلب بتاتے بتاتے
 
-۶
+۷
 ہے سکتے میں بانو قیامت ہے کیسی
 پدر سے وہ باتیں ابھی کر رہی تھی
 مگر اب کبھی بھی نہ بولے گی بچی
 یہ ماں کو یقیں آئے گا آتے آتے
 
-۷
+۸
 سکینہ کی جانب سے اے میرے مولا
 سدا نامِ اصغر پہ حسرت ہے میری
 گُزر جائے اکبر کی یہ عمر ساری
