@@ -9,76 +9,46 @@ poet: "Mohsin Mamoor"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Zehra ke dularon pa ajab zulm o jafa hai
-
+romanLyrics: |-
+  Zehra ke dularon pa ajab zulm o jafa hai
 
   1
-
   Toofane ghamo dard hai aur aale abaa hai
-
   Ay qaayam o qayoom tu sab dekh raha hai
-
   Pyase hai gulistan e payambar ke gulay tar
-
   Lab khushk hai bachon ke har ek fard hai muztar
-
   Garmi se ghareebo se bura haal hua hai
-
   Tu dekh raha hai
 
-
   2
-
   Kehte hai jise log mohamed ka nawasa
-
   Afsos hai is baat ka wo shaks hai pyasa
-
   Band uske dularon ke liye aab-o-ghiza hai
 
-
   3
-
   Maare gaye jab nehr par abbas e dilawar
-
   Zainab ko yaqeen hogaya ab jayegi chadar
-
   Jo aasra mazloomon ka tha toot chuka hai
 
-
   4
-
   Ek baap pa kaisi ye qayamat ki ghadi hai
-
   Qadmon mein gham o dard ki zanjeer padi hai
-
   Farzand jawan saamne dam tod raha hai
 
-
   5
-
   De kis ko sada koi nahi sab gaye maare
-
   Abbas ke shaane kate darya ke kanare
-
   Ek din mein chaman fatema zehra ka luta hai
 
-
   6
-
   Aaghosh se madar ki jise laaye thay shabbir
-
   Pani ke ewaz aada ne ki unki ye tauqeer
-
   Baysheer ki gardan mein laga teere khaza hai
 
-
   7
-
   Mehman tere bhayd tu behtar hai samajhta
-
   Mamoor ka dil is liye khoon rota hai maula
-
-  Shabbir ka sar shimre layeen kaat raha hai'
+  Shabbir ka sar shimre layeen kaat raha hai
 # source_id: nohayonline:b02722d83a364c82638d
 # source_url: https://www.nohayonline.com/details_content.php?id=286
 # raw_sha256: e144220fed5e49c55c8bfff06d027feb85746ed1a79d62a1c0c6709e111008af

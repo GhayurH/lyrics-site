@@ -9,106 +9,62 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ya zahra maadar jaan
-
+romanLyrics: |-
+  Ya zahra maadar jaan
 
   1
-
   Bizzate qalbe nabi umme abiha zahra
-
   Tere baba ne tujhe rutba diya maa jaisa
-
   Jab utha shab ki siyahi mein janaza tera
-
   Qabre sarkare do aalam se ye aati thi sada
 
-
   2
-
   Ye sada dete hai khud haath ke chaale tere
-
   Tu ne hasnain ko paala hai badi mehnat se
-
   Zehr shabbar ko mila yun mila mehnat ka sila
-
   Khoon ugalte huwe kehte thay jigar ke tukde
 
-
   3
-
   Phir wo din aaya ke sarwar ne madina choda
-
   Teri turbat hui veeran basi karbobala
-
   Roze ashoor azan e ali akbar sun kar
-
   Ghar ki dehleez pa baith hui sughra ne kaha
 
-
   4
-
   Hogaya jang ka aaghaz sar e karbobala
-
   Sab se pehle gaya maidan mein hurr ka beta
-
   Bhai maara gaya phir hurr bhi gaya suye jina
-
   Zakhm pe shaah ne rumaal jo bandha to kaha
 
-
   5
-
   Us taraf zainab e dilgeer ye karti thi dua
-
   Mere farzand ho pyase mere bhai pe fida
-
   Pur asar saani e zahra ki dua hoke rahi
-
   Laash bacchon ki jo dekhi to ye zainab ne kaha
 
-
   6
-
   Laut kar aaya na saqqa e haram darya se
-
   Ho gaye haath qalam teer kaleje mein lage
-
   Ho gaya thanda alam sheh ki kamar toot gayi
-
   Tod kar kooza sakina ne kaha rote huwe
 
-
   7
-
   Ek kohraam bapa qaima e sarwar mein hua
-
   Ghar se athara baras waala jo maqtal ko chala
-
   Barchi akbar ke kaleje se jo sheh ne khaynchi
-
   Haath seene pe rakha aur ye akbar ne kaha
 
-
   8
-
   Door bano se hua haye wo nanha baccha
-
   Loriyan deti hai baysheer ko ab khaake shifa
-
   Cheh mahine ke mujahid pe qayamat guzri
-
   Teer khaa kar ali asghar ke tabassum ne kaha
 
-
   9
-
   Sheh ne rehaan rakha sajda e mabood mein sar
-
   Shimr ka chalne laga sookhe gale par khanjar
-
   Yaad aane lagi maa aalam e tanhaai mein
-
-  Rukh baqiyya ki taraf kar ke pukare sarwar'
+  Rukh baqiyya ki taraf kar ke pukare sarwar
 reciter: Shahid Baltistani
 # source_id: nohayonline:436c7891035287ddeb9f
 # source_url: https://www.nohayonline.com/details_content.php?id=3302

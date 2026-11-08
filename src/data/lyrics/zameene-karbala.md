@@ -15,39 +15,38 @@ romanLyrics: |-
   Al-ajal ay waaris e khoon e shaheedan al-ajal
   Ay yusufe zahra
 
-  1
   Zameene karbala waale tujhe awaaz dete hai
   Bahattar bekafan laashe tujhe awaaz dete hai
 
-  2
+  1
   Hai kahin ganje shaheedan mein rakhi gathri koi
   Kisi ki laash ke tukde tujhe awaaz dete hai
 
-  3
+  2
   Chalte naaqe se giray jo maaon ki aagosh se
   Wo saare be-zuban bacche tujhe awaaz dete hai
 
-  4
+  3
   Tishnagi aa kar sakina aur asghar ki bujha
   Na jaane kab se wo pyase tujhe awaaz dete hai
 
-  5
+  4
   Al-ajal kehti hai jhoole ki sulagti lakdiyan
   Kahin jalte huwe qaime tujhe awaaz dete hai
 
-  6
+  5
   Un ki mazloomi musayyab ki zameen se pooch le
   Wo do bacche ruqayya ke tujhe awaaz dete hai
 
-  7
+  6
   Jalte qaimon se bacha kar laayi jo sajjad ko
   Usi ke paaon ke chaale awaaz dete hai
 
-  8
+  7
   Jo shaheedan e wila e murtaza hai aaj bhi
   Kafan baandhe huwe sar se awaaz dete hai
 
-  9
+  8
   Halqa e matam mein aakar ay takullum matami
   Tujhe awaaz dete thay tujhe awaaz dete hai
 # source_id: nohayonline:258b083d8d4f61ce43e5
@@ -59,38 +58,37 @@ romanLyrics: |-
 العجل اے وارث خونِ شہیداں العجل
 اے یوسف زہرا
 
-۱
 زمین کربلا والے تجھے آواز دیتے ہیں
 بہتر بیکفن لاشے تجھے آواز دیتے ہیں
 
-۲
+۱
 ہے کہیں گنج شہیداں میں رکھی گھٹڑی کوئی
 کسی کی لاش کے ٹکڑے تجھے آواز دیتے ہیں
 
-۳
+۲
 چلتے ناقے سے گرے جو ماؤں کی آغوش سے
 وہ سارے بے زباں بچے تجھے آواز دیتے ہیں
 
-۴
+۳
 تشنگی آ کر سکینہ اور اصغر کی بجھا
 نہ جانے کب سے وہ پیاسے تجھے آواز دیتے ہیں
 
-۵
+۴
 العجل کہتی ہے جھولے کی سلگتی لڑکیاں
 کہیں جلتے ہوے خیمے تجھے آواز دیتے ہیں
 
-۶
+۵
 ان کی مظلومی مصیب کی زمیں سے پوچھ لے
 وہ دو بچے رقیہ کے تجھے آواز دیتے ہیں
 
-۷
+۶
 جلتے خیموں سے بچا کر لای جو سجاد کو
 اسی کے پاؤں کے چھالے آواز دیتے ہیں
 
-۸
+۷
 جو شہیدانِ ولاے مرتضیٰ ہے آج بھی
 کفن باندھے ہوے سر سے آواز دیتے ہیں
 
-۹
+۸
 حلق ماتم میں آ کر اے تکلم ماتمی
 تجھے آواز دیتے تھے تجھے آواز دیتے ہیں
