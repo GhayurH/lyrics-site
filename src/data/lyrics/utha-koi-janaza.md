@@ -35,7 +35,6 @@ romanLyrics: |-
   6
   Koofe ka zarra zarra rota hai khoon ke aansu
   Mehroom ho rahe hai hasnain ab pidar se
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:1d33ebd795fcacec3847
 # source_url: https://www.nohayonline.com/details_content.php?id=512
 # raw_sha256: 82250828f51f71c0bd3274232f053492704413828a77a8a94b8ff1d85e463a9f

@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Ye mai hoo mai meri tanhaai ye tamashaai
   Lo aayi gyaara moharram hai kya khabar laayi
-
-  1
   Chaliye jaanibe zindaan tumhari maajayi
   Sawaar hum ne kiya tha tumhe mere bhaai
   Ab aao ya mujhe kehdo na intezar karo
   Utho hussain bahan ko zara sawaar karo
+
+  1
   Sawaar hum ne kiya tha tumhe dam-e-ruqsat
   Lagaam thaami thi maine ba haalat-e-riqqat
   Kahan gayi wo mohabbat kahan gayi chahat
@@ -52,22 +52,18 @@ romanLyrics: |-
   Tumhari sarwar-o-rehan zimmedari hai
   Jahan jahan mere bhai ki pursadari hai
   Tum apne nowho se duniya ko sogwaar karo
-
-  7
-  Ab aao ya mujhe kehdo na intezar karo
-  Utho hussain bahan ko zara sawaar karo
 # source_id: nohayonline:67b91d6cc802bd770e55
 # source_url: https://www.nohayonline.com/details_content.php?id=29
 # raw_sha256: 177ba3fa1e88f870fa46d1d226b534004da5aa4ef2f93265ce48fcadff712adf
 ---
 یہ میں ہوں میں میری تنہائی، یہ تما شائی
 لو آئی گیارہ محرم ہے کیا خبر لائی
-
-۱
 چلی جانبِ زنداں تمہاری ماں جائی
 سوار ہم نے کیاتھا تمہیں میرے بھائی
 اب آئو یا مجھے کہہ دو نہ انتظار کرو
 اُٹھو حسین بہن کو ذرا سوار کرو
+
+۱
 سوار ہم نے کیا تھا تمہیں دمِ رُخصت
 لگام تھامی تھی میں نے بحالت رِ کت
 کہاں گئی وہ محبت، کہاں گئی چاہت
@@ -102,7 +98,3 @@ romanLyrics: |-
 تمہاری سرور و ریحان ذمہ داری ہے
 جہاں جہاں میرے بھائی کی پُرسہ داری ہے
 تم اپنے نوحوں سے دُنیا کو سوگوار کرو
-
-۷
-اب آئو یا مجھے کہہ دونہ انتظار کرو
-اُٹھو حسین بہن کو ذرا سوار کرو
