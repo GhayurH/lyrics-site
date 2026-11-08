@@ -11,27 +11,25 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa hai akbar ki khushjamali hai
-  
-  1
   Shaam se shamma ek jala di hai
   
-  2
+  1
   Aa tere baazuon ko choome hussain
   Tumne laashe kis qadar uthaye hai
   
-  3
+  2
   Saj ke zainab ne beton ke hatyaar
   Aakhri aarzoo nikaali hai
   
-  4
+  3
   Uski himmat par kayenaat fida
   Jisne qabre pisar bana di hai
   
-  5
+  4
   Yehi kehkar ke roti thi bano
   Jhoola khaali hai godh khaali hai
   
-  6
+  5
   Wo zameen jis par qatl honge hussain
   Maa ne baalon se saaj daali hai
 # source_id: nohayonline:6881ced8830f0afbe151
@@ -40,26 +38,24 @@ romanLyrics: |-
 ---
 
 ماں ہے اکبر کی خوش جمالی ہے
-
-۱
 شام سے شمع اک جلا دی ہے
 
-۲
+۱
 آ تیرے بازوؤں کو چومے حسین
 تم نے لاشے کس قدر اٹھاے ہیں
 
-۳
+۲
 ساے کے زینب نے بیٹوں کے ہتیار
 آخری آرزو نکالی ہے
 
-۴
+۳
 اس کی ہمت پر کاینات فدا
 جس نے قبر پسر بنا دی ہے
 
-۵
+۴
 یہی کہہ کر کے روتی تھی بانو
 جھولا خالی ہے گود خالی ہے
 
-۶
+۵
 وہ زمین جس پر قتل ہونگے حسین
 ماں نے بالوں سے آج ڈالی ہے
