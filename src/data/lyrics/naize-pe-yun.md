@@ -10,11 +10,12 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Shabbir ne haq se ulfat ka
   Naize pe yun izhaar kiya
   Sar kat bhi gaya lekin phir bhi
   Har bayyat ka inkaar kiya
+  
+  1
   Farmaan e khuda ko chod diya
   Ehkaam e shariyat bhool gaye
   Aakhir wo musalman kaise thay
@@ -71,12 +72,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3735
 # raw_sha256: 1c6bed1362d6ecc9a1bcb3e40cd505e79372e72c10bd4a1af616f3973dadff79
 ---
-
-۱
 شبیر نے حق سے الفت کا
 نیزے پہ یوں اظہار کیا
 سر کٹ بھی گیا لیکن پھر بھی
 ہر بیعت کا انکار کیا
+
+۱
 فرمان خدا کو چھوڑ دیا
 احکام شریعت بھول گےء
 آخر وہ مسلماں کیسے تھے
