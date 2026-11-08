@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Zehra ke dularon pa ajab zulm o jafa hai
-
-  1
   Toofane ghamo dard hai aur aale abaa hai
   Ay qaayam o qayoom tu sab dekh raha hai
+
+  1
   Pyase hai gulistan e payambar ke gulay tar
   Lab khushk hai bachon ke har ek fard hai muztar
   Garmi se ghareebo se bura haal hua hai
@@ -58,10 +58,10 @@ romanLyrics: |-
 ---
 
 زہرا کے دلاروں پہ عجب ظلم و جفا ہے
-
-۱
 طوفان غم و درد ہے اور آل عبا ہے
 اے قایم و قیوم تو سب دیکھ رہا ہے
+
+۱
 پیاسے ہیں گلستان پیمبر کے گل تر
 لب خشک ہیں بچوں کے ہر اک فرد ہے مضطر
 گرمی سے غریبوں کا برا حال ہوا ہے
