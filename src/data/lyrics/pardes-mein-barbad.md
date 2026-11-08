@@ -10,9 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Zainab ne kaha maa ki lehad se ye lipat kar
   Pardes mein barbaad hua mera bhara ghar
+  
+  1
   Amma ali akbar pe hua zulm kahoo kya
   Zakhmi tha kaleja
   Tha khoon mein dooba hua wo mannato waala
@@ -57,10 +58,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=580
 # raw_sha256: 0ca9486a4bc25fd272ddcf49ad40f21f9f2d3417a0f51f2cf54efc4db00ce293
 ---
-
-۱
 زینب نے کہا ماں کی لحد سے یہ لپٹ کر
 پردیس میں برباد ہوا میرا بھرا گھر
+
+۱
 اماں علی اکبر پہ ہوا ظلم کہوں کیا
 زخمی تھا کلیجہ
 تھا خون میں ڈوبا ہوا وہ منتوں والا
