@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Kaaba hai siyahposh falak mehwe buka hai
   Ye gumbad e aflaak se kyun shor utha hai
-
-  1
   Kohraam baqaiyya ki fizaon mein bapa hai
   Ye kaun gira reti par
+
+  1
   Tha waqt e asr arsh e moalla pe shor tha
   Wa hasrata ke zeen se zameen par koi gira
   Kaampi zameen chashme malayek ko yun laga
@@ -55,10 +55,10 @@ romanLyrics: |-
 ---
 کعبہ ہے سیاہ پوش فلک محو بکا ہے
 یہ گمبد افلاک سے کیوں شور اٹھا ہے
-
-۱
 کہرام بقیہ کی فضاؤں میں بپا ہے
 یہ کون گرا ریتی پر
+
+۱
 تھا وقت عصر عرش معلیٰ پہ شور تھا
 وا حسرتا کے زین سے زمیں پر گرا کوئی گرا
 کانپی زمین چشمِ ملایک کو یوں لگا

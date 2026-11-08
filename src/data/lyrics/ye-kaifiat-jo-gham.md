@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye kaifiat jo gham o alam ki
-  
-  1
   Tamam aalam pe cha rahi hai
   Nabi ki dilbar ke khoon ki kushboo
   Fiza mein ab tak sama rahi hai
+
+  1
   Nabi se dunya ki zeb o zeenat
   Nabi ki jaanib bula rahi hai
   Hussain ki yaad dil se lekin
   Har ek har khwahish mita rahi hai
-  
+
   2
   Ye chaah hai gham dilon pe chaaye
   Khayal e baatil dilon se jaaye
   Nabi ki itrat hamare khaatir
   Har ek musibat utha rahi hai
-  
+
   3
   Furaat ki simt dekh kar yun
   Sakina kehti thi pyare ammu
   Zara bhatiji ko aa ke dekho
   Sitam ke sadme utha rahi hai
-  
+
   4
   Sakina kehti thi bhaiya asghar
   Na aaye tum laut kar abhi tak
   Lo ab to aao behan tumhari
   Ye khaali jhoola jhula rahi hai
-  
+
   5
   Hussain ki laadli sakina
   Padar ke seene pe sone waali
   Chacha se chooti padar se bichdi
   Tamache zaalim ke kha rahi hai
-  
+
   6
   Har ek sheh is ke hukm mein hai
   Magar ye eesaar allah allah
   Ali ki beti hamare khaatir
   Rasan mein baazu bandha rahi hai
-  
+
   7
   Habeeb e rab ki nawasiyan jo
   Barehna sar izdahaam mein hai
   Hawa musalsal ghubaar uda kar
   Saron pe chadar udha rahi hai
-  
+
   8
   Asad wo keena ke ghasbe haq se
   Har ek burayi se bas hamesha
@@ -66,13 +66,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1694
 # raw_sha256: 6824de731566d17e16bd9ef359aec4cf0249c3821892d2e66c62b5256eff917e
 ---
-
 یہ کیفیت جو غم و الم کی
-
-۱
 تمام عالم پہ چھا رہی ہے
 نبی کی دلبر کے خوں کی خوشبو
 فضا میں اب تک سما رہی ہے
+
+۱
 نبی سے دنیا کی زیب و زینت
 نبی کی جانب بلا رہی ہے
 حسین کی یاد دل سے لیکن
