@@ -13,7 +13,6 @@ romanLyrics: |-
   Ye hai hilaal e gham
   Ye gham ka chand hai
   Ahle aza ye chand moharram ka chand hai
-  Ahle aza ye chand moharram ka chand hai
 
   1
   Nikla gham e hussain ke mausam ka chand hai
@@ -75,7 +74,6 @@ romanLyrics: |-
 ---
 یہ ہے ہلالِ غم
 یہ غم کا چاند ہے
-اہلِ عزا یہ چاند محرم کا چاند ہے
 اہلِ عزا یہ چاند محرم کا چاند ہے
 
 ۱
