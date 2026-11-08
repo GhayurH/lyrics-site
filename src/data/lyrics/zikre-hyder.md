@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   Ajeeb zid hai ke zikr-e-hyder na hone denge
-  
-  1
   Hasad jo hai habeeb-e-haq ka
   Wo zikre athar na hone denge
+
+  1
   Khuda ne azm e ali ki surat
   Rakhi hai quran ke aaene mein
   Magar ye baatil musir hai is pe
   Ke haq ujaagar na hone denge
-  
+
   2
   Khuda kare zikre maula hyder
   Magar ye insan kuch kahe hai
   Kisi bhi surat baland azme
   Ameer taasar na hone denge
-  
+
   3
   Falak pe zikre ali ki bazme
   Sajaye baithe hai arsh waale
   Zameen waale ye zid kiye hai
   Ke hum zameen par na hone denge
-  
+
   4
   Hamara bhi ek faisla hai
   Yuhin uthaate rahenge parcham
   Sukoon kisi gaam ahle baatil
   Ko hum meinassar na hone denge
-  
+
   5
   Ye keh ke zehra ne aansuon ko
   Ata ki rumaal mein sukoona
   Tumhare ashkon ko hum kabhi bhi
   Sharaf se baahar na hone denge
-  
+
   6
   Aza-e-sarwar hai ab bhi baaqi
   Wo khud hi dunya se mit gaye hai
   Jo keh rahe thay dehr mein hum
   Aza-e-sarwar na hone denge
-  
+
   7
   Yazeediyat dekh aaj ghar ghar
   Bicha hai farshe aza-e-sarwar
   Tumhara ye faisla tha zikre
   Hussain ghar ghar na hone denge
-  
+
   8
   Ye shor zanjeer aur qama ka
   Ye keh raha hai zamana sunle
   Asar kisi mausami hawa ka
   Aza-e-sarwar par na hone denge
-  
+
   9
   Pukari zainab mere baradar
   Mai shaam o kufa ko sar karungi
   Tumhare maqsad ko zehne
   Insaniyat se baahar na hone denge
-  
+
   10
   Labon pe rakh kar ali ka charcha
   Ye kehte hai dayam aur yazdan
@@ -77,12 +77,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2510
 # raw_sha256: 3795a642bd04bfecf7434937129a40da9e8f4f5bf98c3a2395566fb4ef4c59d2
 ---
-
 عجیب ضد ہے کہ ذکر حیدر نہ ہونے دیں گے
-
-۱
 حسد جو ہے حبیب حق کا
 وہ ذکر اطہر نہ ہونے دیں گے
+
+۱
 خدا نے ازم علی کی صورت
 رکھی ہے قرآن کے آیینے میں
 مگر یہ باتی مسافر ہے اس پہ
