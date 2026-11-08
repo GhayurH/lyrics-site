@@ -10,11 +10,12 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Baqir mere beta meri faryad suno
   Tadap kar hazrate baqir se ye zainulliba bole
   Mai aankhein band karta hoo to maqtal yaad aata hai
   Ay mere laal batla de ke mai so'un bhala kaise
+
+  1
   Meri nazron mein aajata hai ek toota hua naiza
   Rulaata hai mujhe zakhmi kaleja mere bhaiya ka
   Hatane se bhi wo manzar nahi hat'ta hai aankhon se
@@ -57,11 +58,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1183
 # raw_sha256: 0cdbfe2446601a2a9410a82d48f91638fe875c2deeead2f21232cb1c96595e92
 ---
-۱
 باقر میرے بیٹا میری فریاد سنو
 تڑپ کر حضرت باقر سے یہ زین العبا بولے
 میں آنکھیں بند کرتا ہوں تو مقتل یاد آتا ہے
 اے میرے لال بتلا دے کہ میں سوؤں بھلا کیسے
+
+۱
 میری نظروں میں آجاتا ہے اک ٹوٹا ہوا نیزہ
 رلاتا ہے مجھے زخمی کلیجہ میرے بھیا کا
 ہٹانے سے بھی وہ منظر نہیں ہٹتا ہے آنکھوں سے
