@@ -9,86 +9,50 @@ poet: "Anees"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: '1) Lipat ke turbat se boli madar
-
+romanLyrics: |-
+  Lipat ke turbat se boli madar
   Utho sakina chalo watan ko
-
-
-  1
-
   Are rehayi zindan se paayi dil bar
 
-
-  2
-
-  2) Yeh puchtithi bohot tha arman
-
+  1
+  Yeh puchtithi bohot tha arman
   Reha kab hoge yaha se amma
-
   Woh waqt aab agaya mayyassar
 
-
-  3
-
-  3) Yeh neend kesi hai ankhe kholo
-
+  2
+  Yeh neend kesi hai ankhe kholo
   Pukarti ho mei jab se bolo
-
   Khudara khao taras ke maa par
 
-
-  4
-
-  4) Tumhare dukh se mariz bhai
-
+  3
+  Tumhare dukh se mariz bhai
   Jukaye sare se kare duhaai
-
   Phuphi bhi dekho hai kitni muztaar
 
-
-  5
-
-  5) Kaha pe hai dard kuch batao
-
+  4
+  Kaha pe hai dard kuch batao
   Garib maa ko na yu rolao
-
   Gale se lag jaao mere muztar
 
-
-  6
-
-  6) Safar yaha se hai karbala ka
-
+  5
+  Safar yaha se hai karbala ka
   Waha pe ammu se karna shikhwa
-
   Wahi pe tumko milega asgher
 
-
-  7
-
-  7) Hoyi ho jab se khamush beta
-
+  6
+  Hoyi ho jab se khamush beta
   Na jane phutta hai kyo kaleja
-
   Ajib zindan ka hai yeh manzar
 
-
-  8
-
-  8) Bagere tere ho kese jaana
-
+  7
+  Bagere tere ho kese jaana
   Baseyenge hum bhi qaid khana
-
   May kese jaongi pesh sarwar
 
-
-  9
-
-  9) Anees kese sitam ki halat
-
+  8
+  Anees kese sitam ki halat
   Na puch barpa thi ek qayamat
-
-  A baba kehti thi jaa tadap kar'
+  A baba kehti thi jaa tadap kar
 # source_id: nohayonline:8afe2fa16e22a66e3e34
 # source_url: https://www.nohayonline.com/details_content.php?id=428
 # raw_sha256: 35f137c7d2fcee83dbe5fd7da5143d9b73582d762af2742d5d7129c839d0c2bc
@@ -96,7 +60,6 @@ romanLyrics: '1) Lipat ke turbat se boli madar
 # source_url: https://www.ziyaraat.net/api/noha/416
 # raw_sha256: 8baf061982ee3776cdfc19bdb2b8d2d62b4aaa764f0a8cd3eda84b9549bdc8bc
 ---
-
 لپٹ کے تُربت سے بولی مادر
 اُٹھو سکینہ چلو وطن کو
 رہائی زنداں سے پائی دلبر
