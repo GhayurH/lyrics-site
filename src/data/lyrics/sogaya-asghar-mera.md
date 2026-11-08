@@ -12,41 +12,39 @@ published: false
 romanLyrics: |-
   Sogaya asghar mera aur alqama behti rahi
   Haye bekas bezuban par zindagi roti rahi
-  
-  1
   Haye asghar mere asghar keh ke maa roti rahi
-  
-  2
+
+  1
   Nanha tha masoom tha aur phool tha uska badan
   Teer se bhi kam tha logon mere asghar ka wazan
   Kar ke banoumr bhai ye gham bayan roti rahi
-  
-  3
+
+  2
   Teen din ki pyaas ko bhi muskara kar seh gaya
   Baahon mein shabbir ke asghar tadap kar reh gaya
   Hurmala maloon ke haathon mein kamaan roti rahi
-  
-  4
+
+  3
   Akbar o asghar ka gham us par qayamat kar gaya
   Qasim e naushaah tukdon mein bikhar kar reh gaya
   Sun ke zainab baad e karbal bhi azaan roti rahi
-  
-  5
+
+  4
   Qabr nanhi si bana kar zakhmi haathon se rabab
   Dafn kar deti thi aksar us mein ek nanha gulab
   Hai mera asghar yahan ye keh ke maa roti rahi
-  
-  6
+
+  5
   Shaam e ashoora nabi ki aal ka parda luta
   Nok e naiza se zameen par bawafa ka sar gira
   Zainab e dilgeer ki khaatir rida roti rahi
-  
-  7
+
+  6
   Aayi jab shaam e ghariban zulm had se badh gaya
   Ek gehwara tha ab wo bhi tumhara jal gaya
   Dekh kar asghar ke jhoole ke nishan roti rahi
-  
-  8
+
+  7
   Shaam ke zindan mein maa ko sukoon aata nahi
   Mera asghar mere pehlu ke bina sota nahi
   Shams kar ke maa yehi aah o fughan roti rahi
@@ -57,41 +55,39 @@ romanLyrics: |-
 
 سو گیا اصغر میرا اور علقمہ بہتی رہی
 ہاے بیکس بے زباں پر زندگی روتی رہی
-
-۱
 ہاے اصغر میرے اصغر کہہ کے ماں روتی رہی
 
-۲
+۱
 ننھا تھا معصوم تھا اور پھول تھا اس کا بدن
 تیر سے بھی کم تھا لوگوں میرے اصغر کا وزن
 کر کے بانو عمر بھر یہ غم بیاں روتی رہی
 
-۳
+۲
 تین دن کی پیاس کو بھی مسکرا کر سہہ گیا
 باہوں میں شبیر کے اصغر تڑپ کر رہ گیا
 حرملہ ملعون کے ہاتھوں میں کماں روتی رہی
 
-۴
+۳
 اکبر و اصغر کا غم اس پر قیامت کر گیا
 قاسم نوشاہ ٹکڑوں میں بکھر کر رہ گیا
 سن کے زینب بعد کربلا بھی اذاں روتی رہی
 
-۵
+۴
 قبر ننھی سی بنا کر زخمی ہاتھوں سے رباب
 دفن کر دیتی تھی اکثر اس میں ایک ننھا گلاب
 ہے میرا اصغر یہاں یہ کہہ کے ماں روتی رہی
 
-۶
+۵
 شام عاشورہ نبی کی آل کا پردہ لٹا
 نوکِ نیزہ سے زمیں پر با وفا کا سر گرا
 زینبِ دلگیر کی خاطر ردا روتی رہی
 
-۷
+۶
 آی جب شام غریباں ظلم حد سے بڑھ گیا
 ایک گہوارہ تھا اب وہ بھی تمہارا جل گیا
 دیکھ کر اصغر کے جھولے کے نشاں روتی رہی
 
-۸
+۷
 شام کے زنداں میں ماں کو سکوں آتا نہیں
 میرا اصغر میرے پہلو کے بنا سوتا نہیں
 شمس کر کے ماں یہی آہ و فغاں روتی رہی

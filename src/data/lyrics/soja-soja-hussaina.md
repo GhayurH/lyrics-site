@@ -13,7 +13,6 @@ romanLyrics: |-
   Jab girne lage jalti zameen par shahe waala
   Ye kehte huwe zahra ne godhi mein sambhala
 
-  1
   Kya is liye is maa ne tujhe naazon se paala
   Maare koi naiza koi khanjar koi bhaala
   Chehre pe tere kitni thakawat hai meri jaan
@@ -22,13 +21,14 @@ romanLyrics: |-
   Soja soja soja hussaina
   Tere liye aayi hai ye maa
   Aur kitne dega tu ab imtehan
+
+  1
   Kitna maara gaya hai tujhe meri jaan
   Haye thak kar abhi tu gira hai yahan
   Khoon hi khoon hai zakhm hi zakhm hai
   Kaise tujhko thapak kar sulaye ye maa
   Ye bata meri jaan haath rakhun kahan
   Hai tere jism par khanjaron ke nishan
-  Aur kitne dega tu ab imtehan
 
   2
   Aaya hai meri aaghosh mein tu abhi
@@ -37,7 +37,6 @@ romanLyrics: |-
   Khushboo aayi mujhe jab tere khoon ki
   Kitna royi ye maa tu ne kaise yahan
   Marta dekha tha godhi mein kadiyal jawan
-  Aur kitne dega tu ab imtehan
 
   3
   Meri tarha se hai surkh chehra tera
@@ -46,7 +45,6 @@ romanLyrics: |-
   Saamne mere tujhko tamacha laga
   Mat chupa moo yahan jaanti hai ye maa
   Tere chehre pe hai ungliyon ke nishan
-  Aur kitne dega tu ab imtehan
 
   4
   Tere maathe pe ek teer jab se laga
@@ -55,7 +53,6 @@ romanLyrics: |-
   Yaad aata hai asghar ka zakhmi gala
   Ro pada aasman haye wo bezuban
   Mar gaya tere haathon pe tashna dahan
-  Aur kitne dega tu ab imtehan
 
   5
   Teer kuch khaynch loon do ijazat agar
@@ -64,7 +61,6 @@ romanLyrics: |-
   Rakh le baali sakina jahan apna sar
   Teri masoom jaan aayegi jab yahan
   Tu bata de sulayega usko kahan
-  Aur kitne dega tu ab imtehan
 
   6
   Pehli baar ay meri jaan aisa hua
@@ -73,7 +69,6 @@ romanLyrics: |-
   Jal rahi hai zameen moo khula hai tera
   Kaise pani yahan laa ke de tujhko maa
   Phat gaye hont sookhi hai teri zaban
-  Aur kitne dega tu ab imtehan
 
   7
   Zakhmi haathon se tujhko utha loongi mai
@@ -82,7 +77,6 @@ romanLyrics: |-
   Phasliyan tootne se bacha loongi mai
   Kab ye chaahti hai maa jab ho paamaliyan
   Meri tarha se tooti teri phasliyan
-  Aur kitne dega tu ab imtehan
 
   8
   Jis ne aate huwe chooma tera dahan
@@ -91,7 +85,6 @@ romanLyrics: |-
   Kaise degi teri laash ko wo kafan
   Karti hai wo fughan ay mere bhai jaan
   Hone waala hai gardan pe khanjar rawan
-  Aur kitne dega tu ab imtehan
 
   9
   Ay raza aur zeeshan kya waqt tha
@@ -100,7 +93,6 @@ romanLyrics: |-
   Ay hussain aaj kat'ta na tera gala
   Haath hai darmiyan zakhmi hongi yahan
   Teri gardan se pehle meri ungliyan
-  Aur kitne dega tu ab imtehan
 # source_id: nohayonline:805b02ae81fcdfb69c13
 # source_url: https://www.nohayonline.com/details_content.php?id=3636
 # raw_sha256: f269a7269c0b7e03ce6ef61d40ba04b1d90aa73e5c757a5957c7ed8241ad4fb1
@@ -108,7 +100,6 @@ romanLyrics: |-
 جب گرنے لگے جلتی زمیں پر شہ والا
 یہ کہتے ہوئے زہرا نے گودی میں سنبھالا
 
-۱
 کیا اس لئے اس ماں نے تجھے نازوں سے پالا
 مارے کوئی نیزہ کوی نے خنجر کوی بھالا
 چہرے پہ تیرے کتنی تھکاوٹ ہے میری جاں
@@ -117,13 +108,14 @@ romanLyrics: |-
 سوجا سوجا سوجا حسینا
 تیرے لئے آی ہے یہ ماں
 اور کتنے دے گا تو اب امتحان
+
+۱
 کتنا مارا گیا ہے تجھے میری جاں
 ہاے تھک کر ابھی تو گرا ہے یہاں
 خون ہی خون ہے زخم ہی زخم ہے
 کیسے تجھکو تھپک کر سلاے یہ ماں
 یہ بتا میری جاں ہاتھ رکھوں کہاں
 ہے تیرے جسم پر خنجروں کے نشاں
-اور کتنے دے گا تو اب امتحان
 
 ۲
 آیا ہے میری آغوش میں تو ابھی
@@ -132,7 +124,6 @@ romanLyrics: |-
 خوشبو آی مجھے جب تیرے خون کی
 کتنا روی یہ ماں تو نے کیسے یہاں
 مرتا دیکھا تھا گودی میں کڑیل جوان
-اور کتنے دے گا تو اب امتحان
 
 ۳
 میری طرح سے ہے سرخ چہرہ تیرا
@@ -141,7 +132,6 @@ romanLyrics: |-
 سامنے میرے تجھکو طمانچے لگا
 مت چھپا منہ یہاں جانتی ہے یہ ماں
 تیرے چہرے پہ ہے انگلیوں کے نشان
-اور کتنے دے گا تو اب امتحان
 
 ۴
 تیرے ماتھے پہ ایک تیر جب سے لگا
@@ -150,7 +140,6 @@ romanLyrics: |-
 یاد آتا ہے اصغر کا زخمی گلا
 رو پڑا آسماں ہاے وہ بے زباں
 مر گیا تیرے ہاتھوں پہ تشنہ دہاں
-اور کتنے دے گا تو اب امتحان
 
 ۵
 تیر کچھ کھینچ لوں دو اجازت اگر
@@ -159,7 +148,6 @@ romanLyrics: |-
 رکھ لے بالی سکینہ جہاں اپنا سر
 تیری معصوم جاں آے گی جب یہاں
 تو بتا دے سلاے گا اس کو کہاں
-اور کتنے دے گا تو اب امتحان
 
 ۶
 پہلی بار یہ میری جاں ایسا ہوا
@@ -168,7 +156,6 @@ romanLyrics: |-
 جل رہی ہے زمیں منہ کھلا ہے تیرا
 کیسے پانی یہاں لا کے دے تجھکو ماں
 پھٹ گےء ہونٹ سوکھی ہے تیری زباں
-اور کتنے دے گا تو اب امتحان
 
 ۷
 زخمی ہاتھوں سے تجھکو اٹھا لونگی میں
@@ -177,7 +164,6 @@ romanLyrics: |-
 پسلیاں ٹوٹنے سے بچا لونگی میں
 کب یہ چاہتی ہے ماں جب ہو پامالیاں
 میری طرح سے ٹوٹی تیری پسلیاں
-اور کتنے دے گا تو اب امتحان
 
 ۸
 جس نے آتے ہوئے چوما تیرا دہاں
@@ -186,7 +172,6 @@ romanLyrics: |-
 کیسے دے گی تیری لاش کو وہ کفن
 کرتی ہے وہ فغاں اے میرے بھائی جاں
 ہونے والا ہے گردن‌ پہ خنجر رواں
-اور کتنے دے گا تو اب امتحان
 
 ۹
 اے رضا اور زیشان کیا وقت تھا
@@ -195,4 +180,3 @@ romanLyrics: |-
 اے حسین آج کٹتا نہ تیرا گلا
 ہاتھ ہے درمیاں زخمی ہونگی یہاں
 تیری گردن سے پہلے میری انگلیاں
-اور کتنے دے گا تو اب امتحان
