@@ -11,30 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Maqtal mein dhoondti hai asghar ko sakina
-  
-  1
   Jhoola bhi mila khaali asghar tha kahin na
-  Maqtal may dhoondti…
+
+  1
   Kaise piyun mai pani ke pani may bhi tum ho
   Tumhe dhoondu kaise asghar kahan rayt may gum ho
   Tumse bichad ke bhaiya nahi behan ko jeena
   
-  2
+  1
   Choti si qabr dekhi masooma ne jis dum
   Baahon may usay lekar karne lagi matam
   Khaali qabr padi thi aur gum tha nageena
   
-  3
+  2
   Khoone jigar se likhun wo zor e qalam do
   Juz gham ali asghar ke koi aur na gham ho
   Badta hi rahe har dam is gham ka khazeena
   
-  4
+  3
   Palkon pe durre gham ko tum logon sajao
   Matam ko tum waseela bakshish ka banao
   Hai misle kashti e nooh panjatan ka safeena
   
-  5
+  4
   Jis tarah zaalimon ne naize may paroya
   Ye dekh royi dharti ambar bhi tha roya
   Khursheed ko phir bhoola manzar wo kabhi na
@@ -44,31 +43,29 @@ romanLyrics: |-
 ---
 
 مقتل میں ڈھونڈتی ہے اصغر کو سکینہ
-
-۱
 جھُولا بھی ملا خالی اصغر تھا کہیں نہ
 
-۲
+۱
 کیسے پیئوں میں پانی کہ پانی میں بھی تم ہو
 تمہیں ڈھونڈوں کیسے اصغر کہاں ریت میں گُم ہو
 تم سے بچھڑ کے بھیا نہیں بہن کو جینا
 
-۳
+۲
 چھوٹی سی قبر دیکھی معصومہ نے جس دم
 بانہوں میں اُسے لے کر کرنے لگی ماتم
 خالی قبر پڑی تھی اور گم تھا نگینہ
 
-۴
+۳
 خونِ جگر سے لکھوں وہ زورِ قلم دو
 جُز غم علی اصغر کے کوئی اور نہ غم ہو
 بڑھتا ہی رہے ہر دم اس غم کا خزینہ
 
-۵
+۴
 پلکوں پہ دُرے غم کو تم لوگو سجائو
 ماتم کو تم وسیلہ بخشش کا بنائو
 ہے مثلِ کشتیِ نوح پنجتن کا سفینہ
 
-۶
+۵
 جس طرح ظالموں نے نیزے میںپرویا
 یہ دیکھ روئی دھرتی عمبر بھی تھا رویا
 خورشید کو پھر بھولا منظر وہ کبھی نہ
