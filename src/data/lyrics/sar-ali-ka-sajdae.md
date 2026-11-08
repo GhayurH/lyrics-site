@@ -23,7 +23,6 @@ romanLyrics: |-
   3
   Ghar may khaaliq ke ameer ul momineen ka qatl ho
   Masjid e kufa bani thi is qayamat ke liye
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:1f1d9465a12b5c37ce09
 # source_url: https://www.nohayonline.com/details_content.php?id=490
 # raw_sha256: c83c38d6d2f113b8527b1b79776d42d9a2044fe752464e3c199e359eee0f77e4
