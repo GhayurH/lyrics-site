@@ -14,12 +14,12 @@ romanLyrics: |-
   Dhoondne baap ko maqtal may gayi ek dukhiya
   Darmiyan laashon ke ek laasha e besar dekha
   Aayi us laash se awaaz sakina aaja
-
-  1
   Jab suni baap ki awaaz to royi bacchi
   Laash e besar se lipat kar ye fughan karne lagi
   Aap ke baad ye ehsaas hua hai baba
   Kya yateemi hai ye ab mujhpe khula hai baba
+
+  1
   Aag daaman may lagata hai sitamgar koi
   Koi kaano se gohar cheen raha hai baba
 
@@ -62,12 +62,12 @@ romanLyrics: |-
 ڈھونڈنے باپ کو مقتل میں گیء اک دکھیا
 درمیان لاشوں کے اک لاشہء بے سر دیکھا
 آی اس لاش سے آواز سکینہ آجا
-
-۱
 جب سنی باپ کی آواز تو روی بچی
 لاش بے سر سے لپٹ سے لپٹ کر یہ فغاں کرنے لگی
 آپ کے بعد یہ احساس ہوا ہے بابا
 کیا یتیمی ہے یہ اب مجھ پہ کھلا ہے بابا
+
+۱
 آگ دامن میں لگاتا ہے ستمگر کوئی
 کوئی کانوں سے گوہر چھین رہا ہے بابا
 
