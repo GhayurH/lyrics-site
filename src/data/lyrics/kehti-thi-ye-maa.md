@@ -9,92 +9,54 @@ poet: "Mehshar Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haey haey Ali Akbar, haey haey Ali Akbar
-
-  Kehti thi yeh maa khoon bhari mayyat se lipat kar
-
-  Haey haey Ali Akbar
-
+romanLyrics: |-
+  Kehti thi ye maa khoon bhari mayyat se lipat kar
+  Haye haye Ali Akbar haye haye Ali Akbar
 
   1
-
-  1) Arman tha pahnawoon gi poshak shahani
-
-  Afsoos keh raas aaie na tujh ku yeh jawani
-
-  Kaisa tha muqaddar, haey haey Ali Akbar
-
+  Armaan tha pehnaungi poshaak shahani
+  Afsos ke raas aayi na tujhko ye jawani
+  Kaisa tha muqaddar haye haye Ali Akbar
 
   2
-
-  2) Aathara baras paal kay parwan charhaya
-
-  Aur gaisuwoon wala haaye mera khoon main nahaya
-
-  Khurban ho maadar, haey haey Ali Akbar
-
+  Itna to zara thehro tumhe dulha bana loon
+  Bas ek jhalak sehre ki Sughra ko dikha loon
+  Bechain thi khwahar haye haye Ali Akbar
 
   3
-
-  3) Itna to zara thehro tumhain dhulha bana loon
-
-  Bas ek jhalak sahray ki Sughra ku dhika Loon
-
-  Baichain thi khawahar, haey haey Ali Akbar
-
+  Athara baras paal ke parwaan chadhaya
+  Wo gesuon wala hai mera khoon mein nahaya
+  Ye kya hua dilbar haye haye Ali Akbar
 
   4
-
-  4) Maa teri judaie mein bhala kaisay jeeye gi
-
-  Maar jaayaigi Sughra jo khabar teri sunay gi
-
-  Ab kya karoon dilber, haey haey Ali Akbar
-
+  Maa teri judaai mein bhala kaise jiyegi
+  Mar jayegi Sughra jo khabar teri sunegi
+  Ab kya karoon jee kar haye haye Ali Akbar
 
   5
-
-  5) Tehro kay mein atharween mannat to badha loon
-
-  Phir lay kay balayein tujhay jeenay ki dua doon
-
-  Sadqay ho ay maadar, haey haey Ali Akbar
-
+  Thehro ke mai atharween mannat to badha doon
+  Phir le ke balayein tujhe jeene ki dua doon
+  Sadqe ho ye maadar haye haye Ali Akbar
 
   6
-
-  6) Pehlay to ek aawaz pay uth jatay thay beta
-
-  Ab etni saada�oon pay bhi pehloo nahi badla
-
-  Kya ho gaya dilber, haey haey Ali Akbar
-
+  Pehle to ek awaaz pe uth jaate thay beta
+  Ab itni sadaon pe bhi pehlu nahi badla
+  Kya ho gaya dilbar haye haye Ali Akbar
 
   7
-
-  7) Tum hichkiyaan lay lay kay jo dam taur rahay ho
-
-  Moo maa say hamaisha kay liye mour rahay ho
-
-  Kyon rootay ho dilber, haey haey Ali Akbar
-
+  Tum hichkiyan le le ke jo dam tod rahe ho
+  Mun maa se hamesha ke liye mod rahe ho
+  Kyun roothe ho dilbar haye haye Ali Akbar
 
   8
-
-  8) Aaye jo hamein lootnay hhaimay mein sitamgar
-
-  Maa day gi sadaayein Ali Akbar, Ali Akbar
-
-  Chin jaayay gi chaadar, haey haey Ali Akbar
-
+  Aaye jo hamein lootne khaime mein sitamgar
+  Maa degi sadaayein Ali Akbar Ali Akbar
+  Chhin jayegi chaadar haye haye Ali Akbar
 
   9
-
-  9) Jab koi jawan laash nazar aati hai mahshar
-
-  Ek yaad suyay Karbobala jaati hai mahshar
-
-  Dil rota hay kah kar, haey haey Ali Akbar'
+  Jab koi jawan laash nazar aati hai Mehshar
+  Ek yaad suye Karbobala jaati hai Mehshar
+  Dil rota hai keh kar haye haye Ali Akbar
 # source_id: nohayonline:828cd679385fb04e673e
 # source_url: https://www.nohayonline.com/details_content.php?id=58
 # raw_sha256: f3332da5d49ddb691d6e6251d1752aed3468f4e84735fecb1103029de310dde5
@@ -107,9 +69,9 @@ romanLyrics: 'Haey haey Ali Akbar, haey haey Ali Akbar
 ---
 
 کہتی تھی یہ ماں خوں بھری میت سے لپٹ کر
+ہائے ہائے علی اکبر ہائے ہائے علی اکبر
 
 ۱
-ہائے ہائے علی اکبر ہائے ہائے علی اکبر
 ارماں تھا پہنائوں گی پوشاک شاہانی
 افسوس کہ راس آئی نہ تُجھ کو یہ جوانی
 کیسا تھا مقدر ہائے ہائے علی اکبر
