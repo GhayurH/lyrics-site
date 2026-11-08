@@ -10,9 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Jeeti hai wo maa jiske guzar jaane ke din thay
   Kya mere jawan laal ke mar jaane ke din thay
+
+  1
   Thi jo hamare ghar mein nishani rasool ki
   Zainab rida mein apne jisay paalti rahi
   Uth uth ke jisko choomte rehte thay raat bhar
@@ -58,9 +59,10 @@ romanLyrics: |-
 # raw_sha256: 2f4f83a71600c46684ca85acc962ee543056d8ebdc4ce5bfdca62dcaa84f9d34
 ---
 
-۱
 جیتی ہے وہ ماں جس کے گزر جانے کے دن تھے
 کیا میرے جواں لال کے مر جانے کے دن تھے
+
+۱
 تھی جو ہمارے گھر میں نشانی رسول کی
 زینب ردا میں اپنے جسے پالتی رہی
 اٹھ اٹھ کے جسکو چومتے رہتے تھے رات بھر
