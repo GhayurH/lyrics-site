@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Quran aur hussain
-  
-  1
   Wallah sare moo farq nahi hai
   Dono ke ma bain
+  
+  1
   Utra wo qalbe mohammed par
   Ye zehra ke ghar mein aaya
   Kaaba kausar ek doosre se
@@ -89,17 +89,17 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=157
 # raw_sha256: 01254b4c911ec2aef31ef03b7662c1108b73d5de5a37e4cb33111af26efcf467
 ---
-
 قرآن اور حُسین
-
-۱
 واللہ سرِ منہ فرق نہیں ہے
 دونوں کے مابین
+
+۱
 اُترا وہ قلبِ محمد پر
 یہ زہرا کے گھر میں آیا
 کعبہ کوثر ایک دوسرے سے
 ہونگے نہ کبھی یہ دونوں جُدا
-دونوں ہیں نور ہے دونوں کی منزل کعبہ قوسین
+دونوں ہیں نور ہے دونوں کی
+منزل کعبہ قوسین
 
 ۲
 وہ خواب ہے اور تعبیر ہے یہ
