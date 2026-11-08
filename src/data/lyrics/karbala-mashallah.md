@@ -11,13 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Jiye shaah hussain jiye shaah hussain
-  
-  1
   Zinda jahan mein taaba qayamat hai karbala
   Saadat e karbala ki amanat hai karbala
   Dunya ke har ghareeb ki izzat hai karbala
-  
-  2
+
   Jannat e maa karbala
   Rooh e aza karbala
   Noor e khuda karbala
@@ -32,6 +29,8 @@ romanLyrics: |-
   Tu rahegi sada inshallah
   Mashallah mashallah karbala
   Mashallah mashallah karbala
+
+  1
   Aao chale karbala
   Ban ke safeer e aza
   Sar pe ho parcham khula
@@ -43,7 +42,7 @@ romanLyrics: |-
   Tu rahegi sada inshallah
   Mashallah mashallah karbala
   
-  3
+  2
   Karbobala khaak thi
   Khaak ko izzat mili
   Khaak e shifa ban gayi
@@ -55,7 +54,7 @@ romanLyrics: |-
   Tu rahegi sada inshallah
   Mashallah mashallah karbala
   
-  4
+  3
   Hum tere zawwar hai
   Tere azadaar hai
   Khadim e darbar hai
@@ -67,7 +66,7 @@ romanLyrics: |-
   Tu rahegi sada inshallah
   Mashallah mashallah karbala
   
-  5
+  4
   Meri dawa karbala
   Meri shifa karbala
   Meri baqa karbala
@@ -79,7 +78,7 @@ romanLyrics: |-
   Tu rahegi sada inshallah
   Mashallah mashallah karbala
   
-  6
+  5
   Ay shahe karbobala
   Koi nahi aap sa
   Ek hai bas karbala
@@ -121,13 +120,10 @@ romanLyrics: |-
 ---
 
 جیےء شاہ حسین جیےء شاہ حسین
-
-۱
 زندہ جہاں میں تابہ قیامت ہے کربلا
 سادات کربلا کی امانت ہے کربلا
 دنیا کے ہر غریب کی عزت ہے کربلا
 
-۲
 جنت ماں کربلا
 روح عزا کربلا
 نور خدا کربلا
@@ -142,6 +138,8 @@ romanLyrics: |-
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
 ماشاءاللہ ماشاءاللہ کربلا
+
+۱
 آؤ چلیں کربلا
 بن کے سفیر عزا
 سر پہ ہو پرچم کھلا
@@ -153,7 +151,7 @@ romanLyrics: |-
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
 
-۳
+۲
 کربوبلا خاک تھی
 خاک کو عزت ملی
 خاک شفا بن گیء
@@ -165,7 +163,7 @@ romanLyrics: |-
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
 
-۴
+۳
 ہم تیرے زوار ہیں
 تیرے عزادار ہیں
 خادم دربار ہیں
@@ -177,7 +175,7 @@ romanLyrics: |-
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
 
-۵
+۴
 میری دوا کربلا
 میری شفا کربلا
 میری بقا کربلا
@@ -189,7 +187,7 @@ romanLyrics: |-
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
 
-۶
+۵
 اے شہ کربوبلا
 کوئی نہیں آپ سا
 ایک ہے بس کربلا
