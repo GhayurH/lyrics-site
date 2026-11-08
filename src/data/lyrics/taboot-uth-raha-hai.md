@@ -12,40 +12,40 @@ published: false
 romanLyrics: |-
   Phir fatema ke ghar mein farshe aza bicha hai
   Bemaar e karbala ka taboot uth raha hai
-  
+
   1
   Karbobala ka zakhmi yasrab mein chal basa hai
-  
+
   2
   Zer e kafan bhi uski aankhon se khoon hai jaari
   Yaad aa rahi hai ghurbat sajjad ko padar ki
   Rauze se mustafa ke elaan ho raha hai
-  
+
   3
   Baqir se keh raha tha sadaat ka gharana
   Pehlu mein nana jaan ke mayyat na le ke jaana
   Pehle bhi ek janaza ghar wapis aa chuka hai
-  
+
   4
   Ab to madine waalon tum ko sukoon rahega
   Royega aur na iski aankhon se khoon bahega
   Baba ko rone waala khamosh ho gaya hai
-  
+
   5
   Mayyat ke aage aage ye koi keh raha tha
   Bazaar se na guzre sajjad ka janaza
   Bazaar ko ye qaidi rota hua gaya hai
-  
+
   6
   Maara hai is tarha se zaalim ne zehr de ke
   Kat kat ke baahar aaye is ke jigar ke tukde
   Pehlu pe fatema ke phir zakhm ek laga hai
-  
+
   7
   Taboot se lipat kar kehti hai koi bacchi
   Zindan se hai aayi bhaiya behan tumhari
   Aankhein to khol lo ab sar par mere rida hai
-  
+
   8
   Akbar jo laash e fizza dafna ke uthe maula
   Aayi sada e zainab baqir watan chala ja

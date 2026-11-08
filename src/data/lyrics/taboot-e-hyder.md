@@ -14,12 +14,10 @@ romanLyrics: |-
   Kaisa matam hai kaisa nauha
   Ye kiska taboot uth raha hai
   Jo log aansu baha rahe hai
-
-  1
   Kaha ye ekkisween ne ro kar
   Imam dunya se jaa rahe hai
-  Ye kiska taboot uth raha hai
-  Jo log aansu baha rahe hai
+
+  1
   Udaas kufe ki masjiden hai
   Har sar barehna har ek jama’at
   Hawayein sar ko patak rahi hai
@@ -74,12 +72,10 @@ romanLyrics: |-
 کیسا ماتم ہے کیسا نوحہ
 یہ کس کا تابوت اٹھ رہا ہے
 جو لوگ آنسوں بہا رہے ہیں
-
-۱
 کہا یہ اکیسویں نے رو کر
 امام دنیا سے جا رہے ہیں
-یہ کس کا تابوت اٹھ رہا ہے
-جو لوگ آنسوں بہا رہے ہیں
+
+۱
 اداس کوفے کی مسجدیں ہیں
 ہر سر برہنہ ہر ایک جماعت
 ہوائیں سر کو پٹک رہی ہیں

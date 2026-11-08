@@ -17,10 +17,10 @@ romanLyrics: |-
   Haye hassan haye hassan
   Teeron ne sajaya hai
   Taboot hassan ka
-
-  1
   Ghar laut ke aaya hai
   Taboot hassan ka
+
+  1
   Shabbir ye kehte thay
   Shabbar ke janaze par
   Kyun khoon mein nahaya hai
@@ -29,37 +29,43 @@ romanLyrics: |-
   Ujla tha kafan lekin
   Bedard layeeno ne
   Khoon rang banaya hai
-  Ek dunya mukhalif thi
-  Pooche koi sarwar se
 
   3
+  Ek dunya mukhalif thi
+  Pooche koi sarwar se
   Kis tarha uthaya hai
+
+  4
   Jab teeron ki baarish thi
   Ay shaahe najaf tum ne
   Girne se bachaya hai
 
-  4
+  5
   Mehsoos ye hota hai
   Taboot ki chadar se
   Zainab ne banaya hai
+
+  6
   Ay binte nabi tumne
   Khud aa ke baqayya se
-
-  5
   Aankhon se lagaya hai
+
+  7
   Pehlu mein mohamed ke
   Rakhne na diya laasha
   Baahar se dikhaya hai
 
-  6
+  8
   As'haab e nabi koi
   Pahunche na janaze mein
   Jaise ke paraaya hai
+
+  9
   Amma ko salaami jo
   Deni thi baqayya mein
-
-  7
   Rukta hua aaya hai
+
+  10
   Rehaan ka meesum ka
   Ye dil hai azakhana
   Is dil mein basaya hai
@@ -74,10 +80,10 @@ romanLyrics: |-
 ہاے حسن ہاے حسن
 تیروں نے سجایا ہے
 تابوت حسن کا
-
-۱
 گھر لوٹ کے آیا ہے
 تابوت حسن کا
+
+۱
 شبیر یہ کہتے تھے
 شبر کے جنازے پر
 کیوں خوں میں نہایا ہے
@@ -86,37 +92,43 @@ romanLyrics: |-
 اجلا تھا کفن لیکن
 بے درد لعینوں نے
 خوں رنگ بنایا ہے
-اک دنیا مخالف تھی
-پوچھے کوئی سرور سے
 
 ۳
+اک دنیا مخالف تھی
+پوچھے کوئی سرور سے
 کس طرح اٹھایا ہے
+
+۴
 جب تیروں کی بارش تھی
 اے شاہ نجف تم نے
 گرنے سے بچایا ہے
 
-۴
+۵
 محسوس یہ ہوتا ہے
 تابوت کی چادر سے
 زینب نے بنایا ہے
+
+۶
 اے بنت نبی تم‌ نے
 خود آ کے بقیہ سے
-
-۵
 آنکھوں سے لگایا ہے
+
+۷
 پہلو میں محمد کے
 رکھنے نہ دیا لاشہ
 باہر سے دکھایا ہے
 
-۶
+۸
 اصحابِ نبی کوئی
 پہنچے نہ جنازے میں
 جیسے کہ پرایا ہے
+
+۹
 اماں کو سلامی جو
 دینی تھی بقیہ میں
-
-۷
 رکتا ہوا آیا ہے
+
+۱۰
 ریحان کا میثم کا
 یہ دل ہے عزاخانہ
 اس دل میں بسایا ہے
