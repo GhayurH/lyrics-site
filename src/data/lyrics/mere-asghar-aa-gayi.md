@@ -11,13 +11,13 @@ aliases: []
 published: false
 romanLyrics: |-
   Chod ke turbat ghar may aaja
-
-  1
   Godh may kar aaraam asghar
   Mere asghar aa gayi shaam
   Bano dukhiya karti hai nauha
   Qaime may hai korhaam asghar
   Mere asghar aa gayi shaam
+
+  1
   Shaam e ghariban phaili hui hai
   Masnad e zainab khaak bani hai
   Tujhko dhoonde teri sakina
@@ -51,13 +51,13 @@ romanLyrics: |-
 # raw_sha256: c26b8c0fc3a1800f712401c02027c92eed58c77ece203f6448a1827fda5da819
 ---
 چھوڑ کے تربت گھر میں آجا
-
-۱
 گود میں کر آرام اصغر
 میرے اصغر آگیء شام
 بانو دکھیا کرتی ہے نوحہ
 خیمے میں ہے کہرام اصغر
 میرے اصغر آگیء شام
+
+۱
 شام غریباں پھیلی ہوی ہے
 مسند زینب خاک بنی ہے
 تجھکو ڈھونڈنے تیری سکینہ
