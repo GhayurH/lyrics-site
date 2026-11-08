@@ -9,6 +9,7 @@ poet: "Zain Azmi"
 reciter: "Mukhtar Hussain Fatehpuri"
 tags: ["noImage"]
 aliases: []
+recitationId: "abbas-dekhtay-hain-mukhtar-hussain-fatehpuri"
 published: false
 romanLyrics: |-
   Ghazi Jari Ghazanfar
@@ -21,7 +22,7 @@ romanLyrics: |-
   1
   Ye keh ke bhagte the darya se ghaat wale
   Larna to dur yahan par hain zindagi ke lale
-  Hai saaṅs lena dubhar Abbas dekhte hain
+  Hai saans lena dubhar Abbas dekhte hain
 
   2
   Zainab ke ladle jab maidan mein larne aaye

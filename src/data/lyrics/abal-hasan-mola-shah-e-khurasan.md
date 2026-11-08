@@ -11,23 +11,22 @@ tags: ["noImage"]
 aliases: ["Abal Hasan Mola Shah E Khurasan Mir Hasan Lyrics 2024"]
 published: false
 romanLyrics: |-
-  Zaamin-e-Aahu Raza, shafa-e-roz-e-jaza
-  Aashiq-e-Karb o Bala, jaan o dil-e-Fatima
+  Zaamin-e-Aahu Raza, Shafi-e-Roz-e-Jaza, Aashiq-e-Karb o Bala, Jaan o Dil-e-Fatema
   Abal Hasan Maula, Abal Hasan Maula, Abal Hasan Maula Shah-e-Khurasan
-  Aap Sakhi ibn-e-Sakhi, aap Rauf o Rahman
+  Aap Sakhi Ibn-e-Sakhi, aap Rauf o Rahman
 
   1
-  Hai tere darbar ki ye shaan nirali
+  Hai tere darbar ki ye shan nirali
   Jaata nahiṅ hai kabhi yahan se koi khaali
   Dast-e-Khuda ban ke sada karte haiṅ sab pe ehsan
 
   2
   Parhta huṅ jis waqt main Anamta Alaihim
-  Dil se sada aati hai ae Izzat-e-Qayam
+  Dil se sada aati hai ae Izzat-e-Qaim
   Teri wila de ke kiya hum pe Khuda ne ehsan
 
   3
-  Maula bahot din huwe dekhe huwe Jannat
+  Maula bahot din hue dekhe hue Jannat
   Phir se ata kijiye mujhe izn-e-ziyarat
   Dur haram aankheṅ haiṅ nam meri nikalti hai jaan
 
@@ -39,12 +38,12 @@ romanLyrics: |-
   5
   Arz hai ye aap se ae Maula Raza jaan
   Aap ke dada ka ho kuchh hum ko bhi irfan
-  Koi waraq koi sabaq garche parha dein Salman
+  Koi waraq koi sabaq garche parha deṅ Salman
 
   6
   Roz hi hum tera namak khate haiṅ Maula
   Khas muzif apne magar tum ne bulaya
-  Hai ye ata shukr-e-Khuda hum huwe tere mehman
+  Hai ye ata shukr-e-Khuda hum hue tere mehman
 
   7
   Kalma-e-Haq qila-e-Tauhid-e-Jali hai
@@ -54,7 +53,7 @@ romanLyrics: |-
   8
   Qum ki ziyarat ko jo logo kabhi jana
   Madh-e-Raza ja ke Karima ko sunana
-  Bibi tumhein deṅgi dua sun ke baradar ki shaan
+  Bibi tumheṅ deṅgi dua sun ke baradar ki shan
 
   9
   Hum ko sada aap ne Maula hai sambhala
@@ -64,7 +63,7 @@ romanLyrics: |-
   10
   Jaari raheṅ Aal-e-Muhammad ki ataeṅ
   Mir Hasan Mir karo tum ye duaeṅ
-  Meri tarha sab pe hoṅ ye bhai behen mehrban
+  Meri tarah sab pe hoṅ ye bhai behen mehrban
 # source_id: tajpoints:899a46902b996e90991f
 # source_url: https://tajpoints.com/2024/05/abal-hasan-mola-shah-e-khurasan-mir.html
 # raw_sha256: 6bfd9ba6825bb2264e22161bcfc4c9aad413733c364f844e52ef17187caac398
@@ -112,7 +111,7 @@ romanLyrics: |-
 ۸
 قم کی زیارت کو جو لوگو کبھی جانا
 مدحِ رضا جا کے کریمہ کو سنانا
-بی بی تمہیں دیں گی دعا سن کے برادر کی شان
+بی‌بی تمہیں دیں گی دعا سن کے برادر کی شان
 
 ۹
 ہم کو سدا آپ نے مولا ہے سنبھالا

@@ -9,6 +9,7 @@ poet: "Hasnain Akbar"
 reciter: "Syed Wajhi Hasan Zaidi"
 tags: ["noImage"]
 aliases: []
+recitationId: "abbas-hoon-haider-ki-ibadat-ki-jaza-hoon-lyrics-2015"
 published: false
 romanLyrics: |-
   Abbas huṅ Haider ki ibadat ki jaza huṅ
@@ -27,7 +28,7 @@ romanLyrics: |-
   3
   Jo kaam liya karta hai Rab lauh o qalam se
   Wo kaam liya karta huṅ main mashk o alam se
-  In haathoṅ se main rizq-e-jahan baṅt raha huṅ
+  In haathoṅ se main rizq-e-jahaṅ baṅt raha huṅ
 
   4
   Do khas hijabat bane Bint-e-Wali ke
@@ -41,11 +42,11 @@ romanLyrics: |-
 
   6
   Mere liye malbus nahiṅ aaye Jinaṅ se
-  Haathoṅ se magar khud siye Khatoon-e-Jinaṅ ne
+  Haathoṅ se magar khud siye Khatun-e-Jinaṅ ne
   Tathir ke malbus pehan kar main pala huṅ
 
   7
-  Biphre hue ek sher ki shamshirzani ki
+  Biphre hue ek sher ki shamshir zani ki
   Ek mashk thi Siffin meri tishnalabi ki
   Main pyaas se larta hua Abbas bana huṅ
 
