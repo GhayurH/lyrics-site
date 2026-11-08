@@ -10,11 +10,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Khamosh hai dashte karbobala
-  
-  1
   Ab koi nahi rone waala
   Maa karti hai aksar raaton ko
   Shabbir ke laashe par naala
+
+  1
   Aane do qayamat aane do
   Bolenge labe khudrat khud hi
   Ek bakshish e ummat ki khaatir
@@ -43,11 +43,11 @@ romanLyrics: |-
 ---
 
 خاموش ہے دشتِ کربوبلا
-
-۱
 اب کوئی نہیں رونے والا
 ماں کرتی ہے اکثر راتوں کو
 شبیر کے لاشے پر نالہ
+
+۱
 آنے دو قیامت آنے دو
 بولیں گے لب قدرت خود ہی
 اک بخشش امت کی خاطر
