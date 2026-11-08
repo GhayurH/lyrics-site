@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Nala balabe zainabe lachaar hussaina
-  
-  1
   Maujood hai asbaab na ansar hussaina
   Hai charo taraf narghae kuffar hussaina
   Faryad nahi koi madagar hussaina
+  
+  1
   Ab koi nahi sab mahe anwar gaye maare
   Saaath aaye thay jitne wo dilawar gaye maare
   Hamshakle mohamad ali akbar gaye maare
@@ -42,13 +42,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=282
 # raw_sha256: 7874c7022122922519cb094ef1b2f75d1c624742f9504bfe5c93b86641b05dff
 ---
-
 نالہ بالب زینب ناچار حسینا
-
-۱
 موجود ہیں اسباب نہ انصار حسینا
 ہیں چاروں طرف نرغہ کفار حسینا
 فریاد نہیں کوئی مددگار حسینا
+
+۱
 اب کوئی نہیں سب مہ انور گئے مارے
 ساتھ آئے تھے جتنے وہ دلاور گئے مارے
 ہمشکل محمد علی اکبر گئے مارے
