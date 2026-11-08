@@ -12,50 +12,47 @@ published: false
 romanLyrics: |-
   Ay mere bhai hussain
   Ay maa ke dulaare baba ke laadle
-
-  1
   Taweez mein hassan ne ye ro kar likha hussain
   Qasim ko karbala mein nahi rokna hussain
   Haye qasim haye haye qasim
-  Haye qasim haye haye qasim
 
-  2
+  1
   Akbar ko is se pehle na maqtal mein bhejna
   Nana ka de raha hoon tumhe waasta hussain
 
-  3
+  2
   Lauta do aaj bhai amaanat mujhe meri
   Tum ne bahot khayaal rakha shukriya hussain
 
-  4
+  3
   Marne ki tum ne isko ijazat na di agar
   Ghut ghut ke mera laadla mar jayega hussain
 
-  5
+  4
   Dulhan banata kubra ko armaan reh gaya
   Ho jaata beta aap ka beta mera hussain
 
-  6
+  5
   Kamsin se ladne aaye jo arzaq sa pehelwan
   Qasim ki jeet ke liye karna dua hussain
 
-  7
+  6
   Ghode tumhari laash pe daudaenge shaqi
   Pamaal zinda hoga mera laadla hussain
 
-  8
+  7
   Qasim ki tooti phasliyan dekhoge jis ghadi
   Maqtal mein yaad aayegi maa fatema hussain
 
-  9
+  8
   Maqtal mein gir ke maa ko pukarega mera laal
   Zehmat na dega aap ko qasim mera hussain
 
-  10
+  9
   Honge nishan sumon ke na maa dekh payega
   Chehre pe daal dena tum apni abaa hussain
 
-  11
+  10
   Sajjad aansuon se tha aakhir mein ye likha
   Laasha uthaane bete ka khud aaunga hussain
 # source_id: nohayonline:c8e3a4ca777a4d7d123d
@@ -64,49 +61,46 @@ romanLyrics: |-
 ---
 اے میرے بھائی حسین
 اے ماں کے دلارے بابا کے لاڈلے
-
-۱
 تعویذ میں حسین نے یہ رو کر لکھا حسین
 قاسم کو کربلا میں نہیں روکنا حسین
 ہاے قاسم ہاے ہاے قاسم
-ہاے قاسم ہاے ہاے قاسم
 
-۲
+۱
 اکبر کو اس سے پہلے نہ مقتل میں بھیجنا
 نانا کا دے رہا ہوں تمہیں واسطہ حسین
 
-۳
+۲
 لوٹا دو آج بھی امانت مجھے میری
 تم نے بہت خیال رکھا شکریہ حسین
 
-۴
+۳
 مرنے کی تم نے اس کو اجازت نہ دی اگر
 گھٹ گھٹ کے میرا لاڈلا مر جائے گا حسین
 
-۵
+۴
 دلہن بناتا کبرا کو ارمان رہ گیا
 ہو جاتا بیٹا آپ کا بیٹا میرا حسین
 
-۶
+۵
 کمسن سے لڑنا آے جو ارزق سا پہلواں
 قاسم کی جیت کے لئے کرنا دعا حسین
 
-۷
+۶
 گھوڑے تمہاری لاش پہ دوڑاییں گے شقی
 پامال زندہ ہوگا میرا لاڈلا حسین
 
-۸
+۷
 قاسم کی ٹوٹی پسلیاں دیکھو گے جس گھڑی
 مقتل میں یاد آے گی ماں فاطمہ حسین
 
-۹
+۸
 مقتل میں گر کے ماں کو پکارے گا میرا لال
 زحمت نہ دے گا آپ کو قاسم میرا حسین
 
-۱۰
+۹
 ہونگے نشاں سموں کے نہ ماں دیکھ پاے گی
 چہرے پہ ڈال دینا تم اپنی عبا حسین
 
-۱۱
+۱۰
 سجاد آنسوؤں سے تھا آخر میں یہ لکھا
 لاشہ اٹھانے بیٹے کا خود آؤں گا حسین

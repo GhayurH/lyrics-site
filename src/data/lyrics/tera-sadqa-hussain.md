@@ -11,12 +11,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya hussaina hussaina hussaina
-
-  1
   Gir gir zameen pa teeron pa thehra jo jism e shaah
   Manzar ye dekh rote rahe saare ambiya
   Besaakhta ye naara e takbeer ne kaha
   Tera sadqa hussain tera sadqa hussain
+
+  1
   Roti rahi namaz musalla bhi ro pada
   Pyasa hussain zeen se jab khaak par gira
   Sar ko kata ke kar diya baland la ilaah
@@ -68,12 +68,12 @@ romanLyrics: |-
 # raw_sha256: f03d2b1c5ed1ca211c8256d3744887eaa3b0d757d041d567e45236d2bcdf0710
 ---
 یا حسینا حسینا حسینا
-
-۱
 گر گر زمین پہ تیروں پہ ٹہرا جو جسم شاہ
 منظر یہ دیکھ روتے رہے سارے انبیاء
 بے ساختہ یہ نعرۂ تکبیر نے کہا
 تیرا صدقہ حسین تیرا صدقہ حسین
+
+۱
 روتی رہی نماز مصلی بھی رو پڑا
 پیاسا حسین زین سے جب خاک پر گرا
 سر کو کٹا کے کر دیا بلند لا الہ
