@@ -10,54 +10,54 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Ya baab e hawaij ya baab e hawaij
   Chote hazrat ke bhatije chote shehzade mere
   Chote shehzade mere baab e hawaij asghar
   Poori kar do ye dua meri haajat ho rawa
   Khatm ho gham ka safar
-  Chote shehzade mere baab e hawaij asghar
+
+  1
   Tere jhoole ko banaya hai waseela maula
   Aansuon se tujhe likhte hai areeza maula
   Bas haqeeqat hai yehi maula mumkin hai sabhi
   Aap chaahein ho agar baab e hawaij asghar
-  
+
   2
   Cheh moharram ko jo uth'a hai tumhara jhoola
   Muntazir rehte hai us din ke liye ahle aza
   Maangte hai ye dua kar de aulaad ataa
   Mere maula ke pisar baab e hawaij asghar
-  
+
   3
   Girwi karte hai yun bachon ko tere jhoole se
   Doriyan baandh ke karte hai hawale tere
   Hai zamanat may teri matami bacche sabhi
   In pe rakhiyega nazar baab e hawaij asghar
-  
+
   4
   Jo jhulaati hai azakhanon may jhoola khaali
   Jholiyan rakhna na un maaon ki maula khaali
   Aisi aulaad milay naukri teri kare
   Itna ehsaan to kar baab e hawaij asghar
-  
+
   5
   Paayi fitrus ne jo shabbir ke jhoole se shifa
   Tera gehwara bhi karta hai zamane ko ataa
   Ay sakhi ibne sakhi cheh mahine ke ali
   Hai sakhi aap ka ghar baab e hawaij asghar
-  
+
   6
   Chaahe kamsin ho magar bhai to hota hai bharam
   Sar pe behno ke rahe bhai salamat har dam
   Kijiye apna karam hai sakina ki qasam
   Baagh e zahra ke shajar baab e hawaij asghar
-  
+
   7
   Hausla hum ko bhi kar de wohi mushkil may ataa
   Azm jo tu ne dikhaya tha sar e karbobala
   Teer gardan pe laga to diye ahle jafa
   Aap roye na magar baab e hawaij asghar
-  
+
   8
   Bakhuda mesum o salman aqeeda hai yehi
   Apne ammu ki tarha baab e hawaij tum bhi
@@ -67,14 +67,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2523
 # raw_sha256: bf15e13defbeab34701bb9bda32a67e7837dd50a98371baf41abbcaf00b3e88f
 ---
-
-۱
 یا باب حوایج یا باب حوایج
 چھوٹے حضرت کے بھتیجے چھوٹے شہزادے میرے
 چھوٹے شہزادے میرے باب حوایج اصغر
 پوری کر دو یہ دعا‌ میری حاجت ہو روا
 ختم ہو غم کا سفر
-چھوٹے شہزادے میرے باب حوایج اصغر
+
+۱
 تیرے جھولے کو بنایا ہے وسیلہ مولا
 آنسوؤں سے تجھے لکھتے ہیں عریضہ مولا
 بس حقیقت ہے یہی مولا ممکن ہے سبھی

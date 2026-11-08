@@ -11,140 +11,139 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya hussainam ya hussainam ya hussain
-  Ya hussainam ya hussainam ya hussain
-  
+
   1
   Saaqi e kausar tera baba hussain
   Karbala mein tu raha pyasa hussain
   Yaad rakhegi tujhe dunya hussain
   Tujhse hai naame khuda zinda hussain
-  
+
   2
   Tera nana rehmatul lil aalameen
   Tera baba hai ameer ul momineen
   Aur pisar tera hai zainul abideen
   Teri maa hai fatema zehra hussain
-  
+
   3
   Tu hai beshak kaaba e sabr o riza
   Teri chaukhat sajdagahe ambiya
   Itna ooncha martaba kisko mila
   Poochta hai rab tera mansha hussain
-  
+
   4
   Tashnagi teri fazaon mein dhuaan
   Thi musibat karwaan dar karwaan
   Sabr se tu ne diya har imtehan
   Deen par ehsaan hai tera hussain
-  
+
   5
   Karbala mein kaisi ye shaadi rachi
   Laash hai masnad pa ab naushah ki
   Chand lamhon ki dulhan bewa hui
   Kaun dega ab usay pursa hussain
-  
+
   6
   Thi ali akbar ke seene mein sina
   Muztarib tha khaak par kadiyal jawan
   Dashte ghurbat mein hai kaisa imtihan
   Kheenchte hai qalb se naiza hussain
-  
+
   7
   Toot jaati hurmala ki ungliyan
   Kholta gar jhoole waala mutthiyan
   Ab rukhe islam par hai jawedan
   Ek tabbasum tere asghar ka hussain
-  
+
   8
   Jaane hyder dilbare ummul baneen
   Jis ke qadmon mein samandar ki jabeen
   Aaj bhi aabe rawan hai bil yaqeen
   Hai tere abbas ka qabza hussain
-  
+
   9
   Chaudhwin ka chaand wo ibne hassan
   Tukde tukde hogaya jis ka badan
   Kaise ho naushah ka ghusl o kafan
   Kar rahe hai laash ko yekja hussain
-  
+
   10
   Laash par sarwar ki zainab ne kaha
   Ek behan par waqt kaisa aagaya
   Dasht mein hai bekafan laasha tera
   Sar pa chadar bhi nahi bhaiya hussain
-  
+
   11
   Al atash ki thi fazaon mein sada
   Kal talak abbas ka pehra bhi tha
   Dekhte hi dekhte kya hogaya
   Cha gaya har simt sannata hussain
-  
+
   12
   Be kajawa oont pyasa kaarwan
   Berida hai fatema ki betiyan
   Shimr ke durre sakina ki fughan
   Tum kahan ho ay mere baba hussain
-  
+
   13
   Hashr tak lehrayega parcham tera
   Hum karenge umr bhar matam tera
   Kaise hum bhoolenge maula gham tera
   Qalbe momin hai tera rauza hussain
-  
+
   14
   Khaa rahi hai taziyane shimr ke
   Sabr karti hai sakina kya kare
   Soye kaise kaan zakhmi hogaye
   Kis ko de awaaz ye dukhiya hussain
-  
+
   15
   Nashr-gaahe karbala ashke aza
   Naara e takbeer matam ki sada
   Ye lahoo ye majlisein aah o buka
   Aarzu e fatema zehra hussain
-  
+
   16
   Dilbare zehra shaheed e karbala
   Tu hamay deta hai har pal hausla
   Hum tujhe dete hai mushkil mein sada
   Hai sahara hum ko bas tera hussain
-  
+
   17
   Sar parasti hum ko hai abbas ki
   Hum ko deti hai dua binte nabi
   Hai yehi matam hamari zindagi
   Lab pa hai har dam tera nauha hussain
-  
+
   18
   Naam jab bhi lete hain abbas ka
   Baazuon ko hoti hai taaqat ataa
   Sar pa matamdar ke hoga sada
   Parchame abbas ka saaya hussain
-  
+
   19
   Aao mil jhul ke namaz e gham padhein
   Ashk se roomaal e zehra nam karein
   Karbala waalon ka hum matam karein
   Saans jab tak hai kaho bas ya hussain
-  
+
   20
   Pesh hona hai khuda ke roo baru
   Bas ghame sheh mein bahao tum lahoo
   Ye ibadat hi karegi surkh roo
   Kehte jao ya hussainam ya hussain
-  
+
   21
   Hausla dete hai abbas e ali
   Milti hai har dam hamay quwwat nayi
   Zindagi parwana e shabbir ki
   Hai dua e fatema zehra hussain
-  
+
   22
   Hai tamanna bas yehi jaane batool
   Ho ataa mujhko tere qadmon ki dhool
   Kar mere maula mera nauha qubool
   Aakhirat ka hai ye sarmaaya hussain
-  
+
   23
   Tujhse karta hai rasheed ab ilteja
   Ho ziyarat ka sharaf hum ko ataa
@@ -154,8 +153,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3346
 # raw_sha256: a61bd83b03b99af76fac0f4186ac42f7c785a06f9fb6b05a02c0c0076f429792
 ---
-
-یا حسینم یا حسینم یا حسین
 یا حسینم یا حسینم یا حسین
 
 ۱

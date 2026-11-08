@@ -10,42 +10,42 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Hasan.....
-  Ya Hasan haye Hasan ya Hasan Askari.....
-  Bhejiye bete ko maula muntazir hai matamiya Imame Askari
+  Ya Hasan haye Hasan ya Hasan Askari
+  Bhejiye bete ko maula muntazir hai matami
+  Ya Imame Askari
 
   1
-  1) Daastane zulm Maula ab jahan se khatm ho
-  Jab talak Mehdi(atfs) na aaye rok dije waqt ko
+  Daastane zulm Maula ab jahan se khatm ho
+  Jab talak Mehdi na aaye rok dije waqt ko
   Aal-ajal kehke guzarti jaa rahi hai har sadi
 
   2
-  2) Zaalimo ne zehr Maula aapko aisa diya
+  Zaalimo ne zehr Maula aapko aisa diya
   Dast-o-paa ke nakhoono se khoon jari hogaya
   Aapki ghurbat ko dekha yaade Shabbar aagayi
 
   3
-  3) Dafn Sheh ne jis tarha se apne asghar ko kiya
+  Dafn Sheh ne jis tarha se apne asghar ko kiya
   Aagaya nazron may haaye manzare karbobala
   Apni turbat aap ne jo ghar may khud tayyar ki
 
   4
-  4) Yun to saara saamra tha rone walon mein magar
+  Yun to saara saamra tha rone walon mein magar
   Haaye bhai kehke roye koi teri laash par
   Ek behan Zainab ke jaisi kaash ke hoti teri
 
   5
-  5) Ghar mein daakhil hogaye thay zulm dhane ke liye
+  Ghar mein daakhil hogaye thay zulm dhane ke liye
   Pursa dene ke bajaye qatl karne ke liye
-  Dhoondte thay charo jaanib tere Mehdi(atfs) ko shaqi
+  Dhoondte thay charo jaanib tere Mehdi ko shaqi
 
   6
-  6) Pardaye ghaibat mein Mehdi(atfs) bhi tadap kar rehgaya
+  Pardaye ghaibat mein Mehdi bhi tadap kar rehgaya
   Gyara sadiyo baad ye phir se sitam dhaya gayaa
   Apke roze ka girna hai shahadat doosri
 
   7
-  7) Maadare Shabbir ka tameer roza dekhle
+  Maadare Shabbir ka tameer roza dekhle
   Ghar may Khaaliq ke "Takallum" Sheh ka matam dekh le
   Kam kam se itni badhado matami ki zindagi
 # source_id: nohayonline:526f097ce70dc1be0124
