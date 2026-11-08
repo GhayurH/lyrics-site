@@ -10,12 +10,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Shaam haye shaam
-  
-  1
   Teri ummat ke zevar pehan ke
   Dekho nana chali hoo mai shaam
   
-  2
+  1
   Mai deti kafan tujhko bhaiya
   Gar sar pe rida meri hoti
   Gar hotay khule haath mere
@@ -23,7 +21,7 @@ romanLyrics: |-
   Pabande rasan sar barehna
   Dekho bhaiya chali hoo mai shaam
   
-  3
+  2
   Ay nana mai kaise sunaon
   Darbare shaqi ka wo manzar
   Sab qari o hafiz thay baithe
@@ -31,7 +29,7 @@ romanLyrics: |-
   Ay nana teri betiyon ko
   Kyun laaye hai sar nange aam
   
-  4
+  3
   Tere abid pe taari ghashi thi
   Aur kulsoom sehmi khadi thi
   Kabhi dekhun mai zakhmi sakina
@@ -39,7 +37,7 @@ romanLyrics: |-
   Kabhi ro'un mai apni rida ko
   Kabhi dekhun mai jalte qayaam
   
-  5
+  4
   Tere bachon ko le kar gayi mai
   Shab bhar saari roti rahi hoo
   Kabhi ghazi ka lehja badal ke
@@ -47,7 +45,7 @@ romanLyrics: |-
   In bewa bahu betiyon se
   Kyo karte nahi ho kalaam
   
-  6
+  5
   Jab roti thi bali sakina
   Aur baba ko apne bulaati
   Mai deti thi usko tasalli
@@ -58,14 +56,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=605
 # raw_sha256: b4c7fb04c73fcae7225f3bbb6ae4a195620171bd60744f4bbe2fcb42e877100a
 ---
-
 شام ہائے شام
-
-۱
 تیری اُمت کے زیور پہن کے
 دیکھو نانا چلی ہوں میں شام
 
-۲
+۱
 میں دیتی کفن تُجھ کو بھّیا
 گر سر پہ رِدا میری ہوتی
 گر ہوتے کھُلے ہاتھ میرے
@@ -73,7 +68,7 @@ romanLyrics: |-
 پابندِ رسَن سر برہنہ
 دیکھو بھّیاچلی ہوں میں شام
 
-۳
+۲
 اے نانا میں کیسے سُنائوں
 دربارِ شقی کا وہ منظر
 سب قاری و حافظ تھے بیٹھے
@@ -81,7 +76,7 @@ romanLyrics: |-
 اے نانا تیری بیٹیوں کو
 کیوں لائے ہیں سر ننگے شام
 
-۴
+۳
 تیرے عابد پہ طاری غشی تھی
 اور کلثوم سہمی کھڑی تھی
 کبھی دیکھوں میں زخمی سکینہ
@@ -89,7 +84,7 @@ romanLyrics: |-
 کبھی روئوں میں اپنی رِدا کو
 کبھی دیکھوں میں جلتے خیام
 
-۵
+۴
 تیرے بچوں کو لے کر گئی میں
 شب بھر ساری روتی رہی ہوں
 کبھی غازی کا لہجہ بدل کے
@@ -97,7 +92,7 @@ romanLyrics: |-
 ان بیوہ بہو بیٹیوں سے
 کیوں کرتے نہیں ہو کلام
 
-۶
+۵
 جب روتی تھی بالی سکینہ
 اور بابا کو اپنے بُلاتی
 میں دیتی تھی اُس کو تسلی
