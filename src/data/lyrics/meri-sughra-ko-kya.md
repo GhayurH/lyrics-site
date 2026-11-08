@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Meri sughra ko kya pata
-  
+
   1
   Na qasim mehendiyan waala
   Na akbar sehriyan waala
@@ -20,11 +20,8 @@ romanLyrics: |-
   Mera bichad gaya har pyara
   Mera ujad gaya ghar saara
   Mera koi nahi raha
-  
+
   2
-  Haye kunba ujad gaya
-  
-  3
   Wo khaak pe mera akbar
   Be baazu sher e dilawar
   Wo tukde qasim e muztar
@@ -32,11 +29,8 @@ romanLyrics: |-
   Mera bichad gaya har pyara
   Mera ujad gaya ghar saara
   Mera koi nahi raha
-  
-  4
-  Haye kunba ujad gaya
-  
-  5
+
+  3
   Mai laakhon mein hoo tanha
   Kai roz ka mai hoo pyasa
   Pardesi allah raasi
@@ -44,11 +38,8 @@ romanLyrics: |-
   Mera bichad gaya har pyara
   Mera ujad gaya ghar saara
   Mera koi nahi raha
-  
-  6
-  Haye kunba ujad gaya
-  
-  7
+
+  4
   Ghazi saqqa e sakina
   Nigraan tha jo chadar ka
   Darya pe gaya hai maara
@@ -56,11 +47,8 @@ romanLyrics: |-
   Mera bichad gaya har pyara
   Mera ujad gaya ghar saara
   Mera koi nahi raha
-  
-  8
-  Haye kunba ujad gaya
-  
-  9
+
+  5
   Yasrab mein jis bhai ka
   Wo dekh rahi hai rasta
   Zaalim ne us akbar ka
@@ -68,11 +56,8 @@ romanLyrics: |-
   Mera bichad gaya har pyara
   Mera ujad gaya ghar saara
   Mera koi nahi raha
-  
-  10
-  Haye kunba ujad gaya
-  
-  11
+
+  6
   Mere qatl ki ab tayyari
   Teeron ki baarish jaari
   Qaimon mein aah o zaari
@@ -80,14 +65,10 @@ romanLyrics: |-
   Mera bichad gaya har pyara
   Mera ujad gaya ghar saara
   Mera koi nahi raha
-  
-  12
-  Haye kunba ujad gaya
 # source_id: nohayonline:9775e7b0b87284129ea4
 # source_url: https://www.nohayonline.com/details_content.php?id=1743
 # raw_sha256: 3e02e4a0e98b39f5997e2762556fa2415a48e016ee4c0357f6016175a60d7bb2
 ---
-
 میری صغرا کو کیا پتہ
 
 ۱
@@ -100,9 +81,6 @@ romanLyrics: |-
 میرا کوی نہیں رہا
 
 ۲
-ہاے کنبہ اجڑ گیا
-
-۳
 وہ خاک پہ میرا اکبر
 بے بازو شیر دلاور
 وہ ٹکڑے قاسم مضطر
@@ -111,10 +89,7 @@ romanLyrics: |-
 میرا اجڑ گیا گھر سارا
 میرا کوی نہیں رہا
 
-۴
-ہاے کنبہ اجڑ گیا
-
-۵
+۳
 میں لاکھوں میں ہوں تنہا
 کئی روز کا میں ہوں پیاسا
 پردیسی اللہ راہسی
@@ -123,10 +98,7 @@ romanLyrics: |-
 میرا اجڑ گیا گھر سارا
 میرا کوی نہیں رہا
 
-۶
-ہاے کنبہ اجڑ گیا
-
-۷
+۴
 غازی سقا ے سکینہ
 نگران تھا جو چادر کا
 دریا پہ گیا ہے مارا
@@ -135,10 +107,7 @@ romanLyrics: |-
 میرا اجڑ گیا گھر سارا
 میرا کوی نہیں رہا
 
-۸
-ہاے کنبہ اجڑ گیا
-
-۹
+۵
 یثرب میں جس بھائی کا
 وہ دیکھ رہی ہے رستہ
 ظالم نے اس اکبر کا
@@ -147,10 +116,7 @@ romanLyrics: |-
 میرا اجڑ گیا گھر سارا
 میرا کوی نہیں رہا
 
-۱۰
-ہاے کنبہ اجڑ گیا
-
-۱۱
+۶
 میرے قاتل کی اب تیاری
 تیروں کی بارش جاری
 خیموں میں آہ و زاری
@@ -158,6 +124,3 @@ romanLyrics: |-
 میرا بچھڑ گیا ہر پیارا
 میرا اجڑ گیا گھر سارا
 میرا کوی نہیں رہا
-
-۱۲
-ہاے کنبہ اجڑ گیا
