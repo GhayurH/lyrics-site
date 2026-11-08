@@ -12,35 +12,34 @@ published: false
 romanLyrics: |-
   Sakina Shaam mein mar kar yehi samjha gayee logo
   Judaai baap ke seene ki mujhko khaa gayi logon
-
+  
   1
   Khafas ghurbat udaasi shimr ka darr pyaas ki shiddat
   Sitam itne huye masoom ko maut aa gayi logon
-
+  
   2
-  2. Woh maa jo dhoop mein aksar Ali Asghar ko roti thi
+  Woh maa jo dhoop mein aksar Ali Asghar ko roti thi
   Sakina ki qaza us par qayamat dhaa Gaye Logoon
-
+  
   3
-  3. Bandhay Haathoon pay ek beemar laya bahan ki mayyat
+  Bandhay Haathoon pay ek beemar laya bahan ki mayyat
   Yeh aulad-e-Nabi par kaisi gurbat chaa gaye logo
-
+  
   4
-  4. Bahan ki laash haathoon pay liye Sajjad kehtay thay
+  Bahan ki laash haathoon pay liye Sajjad kehtay thay
   Gulistan-e-Imamat ki kali murjhaa gaye logo
-
+  
   5
-  5. Padar ki khoon bhari gardan pay bachi nay jo lab rakhay
+  Padar ki khoon bhari gardan pay bachi nay jo lab rakhay
   Yeh manzar daykh ker to khud qaza ghabra gaye logo
-
+  
   6
-  6. Chacha baba barader sab kay sab to Karbala soye
+  Chacha baba barader sab kay sab to Karbala soye
   Sakina ko na jaanay Shaam kaisay bhaa gaye logo
-
+  
   7
-  7. Likho Shaukat parho Sarwar battayo saari dunyia ko
+  Likho Shaukat parho Sarwar battayo saari dunyia ko
   Ali ki laadli poti shahadat paa gaye Logo
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:4c372062faf0e00a6595
 # source_url: https://www.nohayonline.com/details_content.php?id=417
 # raw_sha256: abf82b7d6804a3f5be2929e2142ad64ffe88dac811e24d9f653feb0573c3db99
