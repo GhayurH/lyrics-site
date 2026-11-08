@@ -10,73 +10,73 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aabaad ghar hussain ka veeran hogaya
-  Shehre rasoole haq bada sunsaan hogaya
+  Aabad ghar Husain ka viran ho gaya
+  Shahr-e-Rasul-e-Haq bara sunsan ho gaya
 
   1
-  Jalti zameen pa gir pade jab akbare jawan
-  Laashe pa shaah pahunche to andher tha jahan
-  Laila se dekha jayega kis tarha ye samaan
-  Kadiyal jawan ke seene mein tooti hui sina
+  Jalti zamin pe gir pare jab Akbar-e-jawaṅ
+  Laashe pe Shah pahunche to andher tha jahan
+  Laila se dekha jaega kis tarha ye samaṅ
+  Karil jawaṅ ke sine mein tuti hui sinaṅ
 
   2
-  Aankhon mein sheh ki deed ka armaan labon pa jaan
-  Haa’el hai darmiyan mein ek teere jaa nisan
-  Rone lage tadap ke shahenshahe ins o jaan
+  Aankhoṅ mein Sheh ki did ka arman laboṅ pe jaaṅ
+  Hail hai darmiyan mein ek tir-e-jaaṅ nisaṅ
+  Rone lage tarap ke Shahanshah-e-ins o jaaṅ
 
   3
-  Kya hausle thay tifle shahe benazeer ke
-  Thay nehr par buland iraade sagheer ke
-  Tewar ayan thay rukh se janab e ameer ke
-  Nanha sa ek gala tha muqabil mein teer ke
+  Kya hausle the tifl-e-Shah-e-benazir ke
+  The nehr par buland irade saghir ke
+  Tewar ayaṅ the rukh se Janab-e-Amir ke
+  Nanha sa ek gala tha muqabil mein tir ke
 
   4
-  Beta khada hai saamne aur berida behan
-  Jakda hua hai tauq o salasil mein saara tan
+  Beta khara hai saamne aur berida behen
+  Jakra hua hai tauq o salasil mein saara tan
   Baba ki laash ran mein hai begor o bekafan
-  Sadme se kaampne laga sajjad ka badan
+  Sadme se kaanpne laga Sajjad ka badan
 
   5
-  Karbobala se kaarwan kufa hua rawan
-  Oonton ki nangi pusht pa baithi hai bibiyan
-  Hai sar khula har ek ka baazu mein reesman
-  Zainab tadap ke dekhti hai suye aasman
+  Karbobala se karwaṅ Kufa hua rawaṅ
+  Uṅtoṅ ki nangi pusht pe baithi haiṅ Bibiyan
+  Hai sar khula har ek ka baazu mein resmaṅ
+  Zainab tarap ke dekhti hai su-e-aasmaṅ
 
   6
-  Tareek qaid khane mein jab khafila gaya
-  Ro kar sakina boli ke amma ye kya hua
-  Kya waqt meri maut ka nazdeek aagaya
+  Tarik qaidkhane mein jab qafila gaya
+  Ro kar Sakina boli ke Amma ye kya hua
+  Kya waqt meri maut ka nazdeek aa gaya
   Bano pukari ye na kaho meri dilruba
 
   7
-  Tashte tila mein farqe shahe deen tha rakha
-  Aur ek taraf khada hua kunba rasool ka
-  Honton pa phir hussain ke wo zulm hogaya
-  Zainab ka natawan badan kaampta raha
+  Tasht-e-tila mein farq-e-Shah-e-Din tha rakha
+  Aur ek taraf khara hua kunba Rasul ka
+  Hoṅtoṅ pe phir Husain ke woh zulm ho gaya
+  Zainab ka natawaṅ badan kaanpta raha
 
   8
-  Jaari thay qaidiyon pa mazalim ke silsile
-  Asnaa e raahe kufa mein thay sakht marhale
-  Oonton se gir ke mar gaye bacche hussain ke
-  Godi ghareeb maaon ki veeran kar gaye
+  Jaari the qaidiyoṅ pe mazalim ke silsile
+  Asna-e-rah-e-Kufa mein the sakht marhale
+  Uṅtoṅ se gir ke mar gaye bachche Husain ke
+  Godi gharib maaoṅ ki viran kar gaye
 
   9
-  Tha hichkiyon ke darmiyan khwahar ka ye bayan
-  Hai shiddate atash se mere khushk ustokhwan
-  Thandi jagah pa dafn karo hum ko bhai jaan
-  Sar ko jhukaye rote thay sajjade natawan
+  Tha hichkiyoṅ ke darmiyaṅ khwahar ka ye bayan
+  Hai shiddat-e-atash se mere khushk ustukhwaṅ
+  Thandi jagah pe dafn karo hum ko Bhai Jaan
+  Sar ko jhukaye rote the Sajjad-e-natawaṅ
 
   10
-  Hai zikr subho shaam shahe mashraqain ka
-  Karbal ke tashna kaam ka zehra ke chain ka
-  Matam hai dilbare shahe badr o hunain ka
-  Ahsan hayat apni hai sadqa hussain ka
+  Hai zikr subh o Shaam Shah-e-Mashriqain ka
+  Karbal ke tashnakaam ka Zehra ke chain ka
+  Matam hai dilbar-e-Shah-e-Badr o Hunain ka
+  Ahsan hayat apni hai sadqa Husain ka
 # source_id: nohayonline:0f9ef1cde5580fd93dd1
 # source_url: https://www.nohayonline.com/details_content.php?id=3549
 # raw_sha256: 4fb514021878e416118b62b6e3083da6a2c26b7cdd72465802f44d2ee8974c82
 ---
 آباد گھر حسین کا ویران ہو گیا
-شہر رسول حق بڑا سنسان ہو گیا
+شہرِ رسولِ حق بڑا سنسان ہو گیا
 
 ۱
 جلتی زمیں پہ گر پڑے جب اکبر جواں

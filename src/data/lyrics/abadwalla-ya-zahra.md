@@ -9,96 +9,97 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Waada hai hamara ya fatema zahra
-  Nahi bhoolenge hussaina
+  Waada hai hamara ya Fatima Zahra
+  Nahi bhoolenge Husaina
   
   1
   Usne hum ko na bhulaya hum ne usko na bhulaya
-  Hussainul hubhul yamhul khataya
+  Husainul hubhul yamhul khataya
   Hua nurul lazi yuhdhil baraya
   Minhu laah badrul huda
   Lan ninsah tulil madaa
-  Abad wallah ya zehra maaninsa hussaina
+  Abad wallah ya zehra maaninsa Husaina
   Hallah hallah ya waleena
   Ehna khiddamak je'na
-  Waada hai ye wallah ya fatema zahra
+  Waada hai ye wallah ya Fatima zahra
   
   2
-  Qasam allah ki wo jisne hamay khalq kiya
-  Aur hamay karbobala ke liye makhsoos kiya
+  Qasam allah ki wo jisne hamein khalq kiya
+  Aur hamein karbobala ke liye makhsoos kiya
   Hum wohi log hai wallah dua e zehra
   Usne hal min jo kaha nasirin yansurna
   Hum ne labbaik kaha
   Usne hum ko na bhulaya hum ne usko na bhulaya
-  Hussain hussain
-  Abad wallah ya zehra maaninsa hussaina
+  Husain Husain
+  Abad wallah ya zehra maaninsa Husaina
   Hallah hallah ya waleena
   Ehna khiddamak je'na
-  Waada hai ye wallah ya fatema zahra
+  Waada hai ye wallah ya Fatima zahra
   
   3
   Azam allaho lakal ajra ali
-  Bil musiba ya hyder ya ali
-  Ya ali aap ke har ranj o masayeb ki qasam
+  Bil musiba ya Haider ya ali
+  Ya ali aap ke har ranj o masaib ki qasam
   Aap ke gham ki hai makrooz ye nasl e aadam
   Chauda sadiyon se musalsal hai azaa o matam
   Go ke har chand huwe haath qalam paon qalam
   Zaayir e karbobala ke na ruke phir bhi qadam
   Azam allaho lakal ajra ali
-  Bil musiba ya hyder ya ali
+  Bil musiba ya Haider ya ali
   Lau qatau'u arjulna wal yadayne
-  Na'atik zahfa sayyidi ya hussain
-  Hussain hussain
-  Abad wallah ya zehra maaninsa hussaina
+  Na'atik zahfa sayyidi ya Husain
+  Husain Husain
+  Abad wallah ya zehra maaninsa Husaina
   Hallah hallah ya waleena
   Ehna khiddamak je'na
-  Waada hai ye wallah ya fatema zahra
+  Waada hai ye wallah ya Fatima zahra
   
   4
-  Ek waada hai jo shabbir se hum sab ne kiya
-  Ek waada hai jo shabbir ne bachpan may liya
+  Ek waada hai jo Shabbir se hum sab ne kiya
+  Ek waada hai jo Shabbir ne bachpan mein liya
   Apne maa baap se nana se baradar se kaha
   Aap sab mere azaadaron ko kya denge sila
-  Bole sarkar e mohammed mai shafa'at dunga
-  Bole hydar ke mai kausar ki basharat dunga
-  Aur hassan bole mai sardaar hoo jannat dunga
+  Bole Sarkar-e Muhammad main shafa'at dunga
+  Bole hydar ke main kausar ki basharat dunga
+  Aur hassan bole main sardaar hoo jannat dunga
   Boli zehra tera waada hai shahadat dunga
-  Mai bhi jannat may na rakhungi qadam mere hussain
-  Jab talak khuld may jaaye na azadar e hussain
-  Hussain hussain
-  Abad wallah ya zehra maaninsa hussaina
+  Main bhi jannat mein na rakhungi qadam mere Husain
+  Jab talak khuld mein jaaye na azadar e Husain
+  Husain Husain
+  Abad wallah ya zehra maaninsa Husaina
   Hallah hallah ya waleena
   Ehna khiddamak je'na
-  Imam hussain imam hussain imam hussain
-  Waada hai hamara ya fatema zehra
-  Nahi bhoolenge ya zehra
-  Aati hai fatema zehra ki sada
-  Ay azadaron suno
-  Ay azadaron na jab tum bhoole
+  Imam Husain imam Husain imam Husain
+
+  5
+  Nahi bhoolenge ya Zehra
+  Aati hai Fatima Zehra ki sada
+  Ae azadaroṅ suno
+  Ae azadaroṅ na jab tum bhoole
   Bhool jaaye tumhe zehra kaise
-  Mujhpe kya kya na masayeb toote
+  Mujhpe kya kya na masaib toote
   Mera do baar jala ghar logon
   Mere pehlu pe ghira dar logon
   Daagh e mohsin hai jigar par logon
   Mujhko darbaar bula kar logon
-  Kaata hai qalb e payambar logon
+  Kaata hai qalb e Payambar logon
   Nahi bhoolenge ya zehra
-  Na mai abbas e alamdar ke baazu bhooli
-  Na mai zainab ka tadapta kisi pehlu bhooli
-  Gard aalood sakina ke na gaysu bhooli
+  Na main Abbas e alamdar ke baazu bhooli
+  Na main Zainab ka tadapta kisi pehlu bhooli
+  Gard aalood Sakina ke na gaysu bhooli
   Na hi sajjad ke khoon rang wo aansu bhooli
   Nahi bhoolenge ya zehra
   Apne bachhe ke rafiqon ko bichadta dekha
-  Khaak pe aun o mohamed ko tadapta dekha
-  Maine tukde huwe qasim ka janaza dekha
-  Aediyan khaak pe akbar ko ragadta dekha
-  Maine asghar ka gala teer may uljha dekha
+  Khaak pe aun o Muhammad ko tadapta dekha
+  Maine tukde huwe Qasim ka janaza dekha
+  Aediyan khaak pe Akbar ko ragadta dekha
+  Maine Asghar ka gala teer mein uljha dekha
   Jis ghadi laal mera zeen se reti pe gira
   Tera zarbon se mere saamne sar uska kata
-  Hussain hussain
+  Husain Husain
   Haye phir shaam e ghareban ne mujhe loot liya
   Wo rida meri thi aada ne jise loot liya
-  Mai na bhoolungi wo bazaar
+  Main na bhoolungi wo bazaar
   Haaye wo shaam ka darbaar
   Nahi bhoolungi wo zindan
   Haye mera abid e beemar
@@ -109,11 +110,11 @@ romanLyrics: |-
   Naize pe tilaawat ko
   Zehra nahi bhoolenge
   Wallah nahi bhoolenge
-  Abbas ko akbar ko
-  Qasim ali asghar ko
+  Abbas ko Akbar ko
+  Qasim ali Asghar ko
   Zehra nahi bhoolenge
   Wallah nahi bhoolenge
-  Jalte huwe qaimon ko
+  Jalte huwe khaimoṅ ko
   Chinti hui chaadar ko
   Zehra nahi bhoolenge
   Wallah nahi bhoolenge
@@ -121,10 +122,10 @@ romanLyrics: |-
   Abid ki qayaadat ko
   Zehra nahi bhoolenge
   Wallah nahi bhoolenge
-  Abad wallah ya zehra maaninsa hussaina
-  Hallah hallah hussain wainah
+  Abad wallah ya zehra maaninsa Husaina
+  Hallah hallah Husain wainah
   Bis suyuf magta'ainah
-  Abad wallah ya zehra maaninsa hussaina
+  Abad wallah ya zehra maaninsa Husaina
 # source_id: nohayonline:356f9e89ea5302c733c5
 # source_url: https://www.nohayonline.com/details_content.php?id=2586
 # raw_sha256: 9f7e38a81475e82d9bf008617fb0bbad37aefeb42cc8effdfc54e4213f386094
@@ -142,7 +143,7 @@ romanLyrics: |-
 ابد واللہ یا زہرا ماننسا حسینا
 هللھ هللھ یا ولینا
 احنه خدامك اجينه
-وعدہ ہے ہے واللہ یا فاطمہ زہرا
+وعدہ ہے واللہ یا فاطمہ زہرا
 
 ۲
 قسم اللّٰہ کی وہ جس نے ہمیں خلق کیا

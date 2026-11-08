@@ -10,75 +10,75 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Saaqi e aale aba abal fazl
-  Tishna labe karbala abal fazl
-  Chashma e aab e baqa abal fazl
-  Ya abal fazl ya abal fazl
+  Saqi-e-Aal-e-Aba Abal Fazl
+  Tashnalab-e-Karbala Abal Fazl
+  Chashma-e-aab-e-baqa Abal Fazl
+  Ya Abal Fazl ya Abal Fazl
 
   1
-  Karb shabbir ke chehre se mitane waale
-  Ranj se aale mohamed ko chudane waale
-  Thaam le haath pareshan azadaron ka
-  Ay sakina ke liye baazu katane waale
+  Karb Shabbir ke chehre se mitane waale
+  Ranj se Aal-e-Muhammad ko chhurane wale
+  Thaam le haath pareshan azadaroṅ ka
+  Ae Sakina ke liye baazu katane wale
 
   2
-  Hum fakheeron ka tumhe maan badhana hoga
+  Hum faqiroṅ ka tumhein maan barhana hoga
   Motariz warna bahot hum pe zamana hoga
-  Har baras tum se mulaqat ko hum aate thay
+  Har baras tum se mulaqat ko hum aate the
   Is baras tum ko hamare liye aana hoga
 
   3
-  Toot jaye na meri aas ay umeed e haram
-  Mere zakhmo ka faqat aap ho ghazi marham
-  Arbaeen par hamein bulwale ziyarat ke liye
-  Aap ko phelu shikasta kisi bibi ki qasam
+  Tut jaaye na meri aas ae ummid-e-Haram
+  Mere zakhmoṅ ka faqat aap ho Ghazi marham
+  Arbain par hamein bulwa le ziyarat ke liye
+  Aap ko pahlu shikasta kisi Bibi ki qasam
 
   4
-  Humko dunya ka tarafdaar na hone dena
+  Hum ko dunya ka tarafdaar na hone dena
   Sirf baaton ka azadar na hone dena
-  Sadqa shehzadi ruqayya ke bande haathon ka
+  Sadqa Shahzadi Ruqayya ke bandhe haathoṅ ka
   Hum ko mushkil mein giraftaar na hone dena
 
   5
-  Us ghadi nazron mein ashoor ki roodad aayi
-  Aansu aankhon mein bhare honton pe faryad aayi
-  Saamne pani tha aur pee bhi nahi sakta tha
+  Us ghari nazroṅ mein Ashur ki rudad aayi
+  Aansu aankhoṅ mein bhare hoṅtoṅ pe faryad aayi
+  Saamne pani tha aur pi bhi nahi sakta tha
   Mujhko rauze mein teri pyaas bahot yaad aayi
 
   6
-  Tum ho shabbir ki beti ka sahara ghazi
-  Bin tumhare na hua uska guzara ghazi
-  Shimr ne jab bhi sakina ko tamache maare
-  Is ne baba ko nahi tum ko pukara ghazi
+  Tum ho Shabbir ki beti ka sahara ghazi
+  Bin tumhare na hua us ka guzara ghazi
+  Shimr ne jab bhi Sakina ko tamache maare
+  Is ne Baba ko nahiṅ tum ko pukara ghazi
 
   7
-  Us ghadi qaima e sadaat mein kohraam hua
-  Khoon bhara jis ghadi ran se tera parcham aaya
-  Pyasi mar jaungi ab pani nahi maangungi
-  Tod kar kooze ko masoom sakina ne kaha
+  Us ghari khaima-e-sadat mein kohram hua
+  Khun bhara jis ghari ran se tera parcham aaya
+  Pyasi mar jauṅgi ab pani nahiṅ maṅguṅgi
+  Tod kar kooze ko masum Sakina ne kaha
 
   8
-  Tune acha hua bhai ki na ghurbat dekhi
-  Taane deta tha koi shaah pe hasta tha koi
+  Tu ne achchha hua bhai ki na ghurbat dekhi
+  Taane deta tha koi Shah pe haṅsta tha koi
   Apne bhai ki madad ke liye ran mein aa kar
-  Laash zainab ne uthayi hai ali akbar ki
+  Laash Zainab ne uthayi hai Ali Akbar ki
 
   9
-  Shaah ne ro kar kaha abal fazl
-  Utho mere bawafa abal fazl
-  Tanha hai bhai tera abal fazl
+  Shah ne ro kar kaha Abal Fazl
+  Utho mere bawafa Abal Fazl
+  Tanha hai bhai tera Abal Fazl
 
   10
-  Aakhri lamhon mein shabbir bahot pyase thay
-  Badi hasrat se suye nehr nazar karte thay
-  Shimr has has ke lagata raha tera zarbein
-  Aur har waar pe shabbir sada dete thay
+  Aakhri lamhoṅ mein Shabbir bahot pyase the
+  Bari hasrat se su-e-nehr nazar karte the
+  Shimr haṅs haṅs ke lagata raha tera zarbeṅ
+  Aur har waar pe Shabbir sada dete the
 
   11
-  Mir sajjad bayan kaise kare wo manzar
+  Mir Sajjad bayan kaise kare woh manzar
   Shaam ki fauj ne jab aag lagayi aa kar
-  Cheen ne aagaye jab sar se rida zainab ki
-  Us ghadi kehti rahi saani e zehra ro kar
+  Chhinne aa gaye jab sar se rida Zainab ki
+  Us ghari kehti rahi Saani-e-Zehra ro kar
 # source_id: nohayonline:0ce5203a2ba557274954
 # source_url: https://www.nohayonline.com/details_content.php?id=1521
 # raw_sha256: 64115fc1707c026022de3f8b9d6ed23bea8bebcd8be019c05f4c83cb3828ae8a
@@ -102,7 +102,7 @@ romanLyrics: |-
 
 ۳
 ٹوٹ جائے نہ میری آس اے امید حرم
-میرے زخموں کا فقت آپ ہو غازی مرہم
+میرے زخموں کا فقط آپ ہو غازی مرہم
 اربعیں پر ہمیں بلوالیں زیارت کے لئے
 آپکو پہلو شکستہ کسی بی بی کی قسم
 
@@ -149,6 +149,6 @@ romanLyrics: |-
 
 ۱۱
 میر سجاد بیاں کیسے کرے وہ منظر
-شام کی فوج نے جب آنگ لگائ آکر
+شام کی فوج نے جب آگ لگائی آکر
 چھینے آگئے جب سر سے درا زینب کی
 اس گھژی کہتی رہی سانئے زہرا رو کر
