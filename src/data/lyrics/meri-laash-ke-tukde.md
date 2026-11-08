@@ -10,17 +10,18 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haye qasim haye qasim
   Meri laash ke tukde chun chun kar
   Maqtal se utha lo amma
+
+  1
   Wo zehr mila mere baba ko
   Ek dil ke bahattar tukde huwe
   Dekho to zara ran mein aakar
   Meri laash ke tukde bikhre huwe
   Bete ki shahadat ka manzar
   Baba se milalo amma
-  
+
   2
   Baba aap ki hasrat jeet gayi
   Is laal ne waada poora kiya
@@ -28,7 +29,7 @@ romanLyrics: |-
   Taweez ka likha poora kiya
   Tehreer ke saare harfon ko
   Mere khoon se sajalo amma
-  
+
   3
   Meri laash ke saare tukdon ko
   Kabhi phool kabhi kaliyan samjho
@@ -36,7 +37,7 @@ romanLyrics: |-
   Unhe sehre ki ladiyan samjho
   Dulha to mai ban paaya na magar
   Aankhon mein basalo amma
-  
+
   4
   Jis chehre ko chand samajhti thi
   Us par ye kharashein dekh to lo
@@ -44,7 +45,7 @@ romanLyrics: |-
   Ye ghodon ki taapein dekh to lo
   Ghash kaa ke na ran mein gir jaana
   Dil apna sambhalo amma
-  
+
   5
   Har ek shaheed ye kehta tha
   Nusrat ke liye aao aaqa
@@ -52,7 +53,7 @@ romanLyrics: |-
   Mera rang juda mera dhang juda
   Maine kaha ghode se gir ke
   Mujhe aake bachalo amma
-  
+
   6
   Tukdon mein jigar ke hal kar di
   Maine ye lahoo ki laali bhi
@@ -60,7 +61,7 @@ romanLyrics: |-
   Do baar mili pamaali bhi
   Baba ki taraf se bhi aakar
   Mujhe galay lagalo amma
-  
+
   7
   Aaya na koi durr pehne huwe
   Yun teeron mein talwaron mein
@@ -68,7 +69,7 @@ romanLyrics: |-
   Bazaaron mein darbaron mein
   Mujhe dekh to le zara darya se
   Ammu ko bulalo amma
-  
+
   8
   Qaime bhi jale chadar bhi chini
   Hai shaam e ghariban jangal mein
@@ -76,7 +77,7 @@ romanLyrics: |-
   Tum aaogi kaise maqtal mein
   Phupiyon ki tarha tum baalon se
   Chehre ko chupalo amma
-  
+
   9
   Seene pe jo daagh hai matam ka
   Mere ishq ki ek nishani hai
@@ -88,11 +89,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3654
 # raw_sha256: b4ef00cd8a519481bee3bdc3cbf0d48b6a24a23e5dd47ece01b95097bd21e7b3
 ---
-
-۱
 ہاے قاسم ہاے قاسم
 میری لاش کے ٹکڑے چن‌ چن کر
 مقتل سے اٹھا لو اماں
+
+۱
 وہ زہر ملا میرے بابا کو
 ایک دل کے بہتر ٹکڑے ہوے
 دیکھو تو زرا رن میں آ کر
