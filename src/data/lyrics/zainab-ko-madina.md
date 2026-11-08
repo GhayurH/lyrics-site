@@ -11,29 +11,31 @@ published: false
 romanLyrics: |-
   Jab qaime jalay asbaab luta
   Zainab ko madina yaad aaya
-  Sab qatl huwe koi na raha
 
   1
+  Sab qatl huwe koi na raha
+
+  2
   Mazloom ki thi sajde may jabeen
   Zaalim ne chalayi sheh pe churi
   Jis waqt gala bhai ka kata
 
-  2
+  3
   Darya ke kinare karbal may
   Abbas ke baazu qalam huwe
   Jab zeen se utra shaah e wafa
 
-  3
+  4
   Akbar ke kaleje may thi ani
   Aur teer galay mau asghar may
   Sajde may jhuka ek abd e khuda
 
-  4
+  5
   Bhai na rahe bete na rahe
   Jab aayi shaam gharibon pe
   Be-aas huwe jab aale aba
 
-  5
+  6
   Sab matami matam karte hai
   Aashiq ki zaban pe hai nauha
   Ye keh ke aalam hota raha
@@ -43,29 +45,31 @@ romanLyrics: |-
 ---
 جب خیمے جلے اسباب لٹا
 زینب کو مدینہ یاد آیا
-سب قتل ہوے کوئی نہ رہا
 
 ۱
+سب قتل ہوے کوئی نہ رہا
+
+۲
 مظلوم کی تھی سجدے میں جبیں
 ظالم نے چلای شہ پہ چھری
 جس وقت گلا بھای کا کٹا
 
-۲
+۳
 دریا کے کنارے کربل میں
 عباس کے بازو قلم ہوے
 جب زین سے اترا شاہ وفا
 
-۳
+۴
 اکبر کے کلیجے میں تھی انی
 اور تیر گلے میں اصغر میں
 سجدے میں جھکے اک ابد خدا
 
-۴
+۵
 بھای نہ رہے بیٹے نہ رہے
 جب آی شام غریبوں پہ
 بے آس ہوے جب آل عبا
 
-۵
+۶
 سب ماتمی ماتم کرتے ہیں
 عاشق کی زباں پہ ہے نوحہ
 یہ کہکے عالم روتا رہا
