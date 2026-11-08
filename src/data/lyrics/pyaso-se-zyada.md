@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Pyason se zyada door na tha
-  
-  1
   Behte huwe darya ka pani
   Na-kaami e qismat kya kahiye
   Paaya na magar khatra pani
+  
+  1
   Pyase jo rahe chaubees pehar
   Loo dhoop mein yun sookha pani
   Roye to lahoo aaya behkar
@@ -66,13 +66,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=844
 # raw_sha256: 3443321dad81af9bd98cb10d20a00b4593e7061d4bf249f2bf4965e7946ec0f4
 ---
-
 پیاسوں سے زیادہ دور نہ تھا
-
-۱
 بہتے ہوئے دریا کا پانی
 نا کامیء قسمت کیا کہیے
 پایا نہ مگر قطرہ پانی
+
+۱
 پیاسے جو رہے چوبیس پہر
 لو دھوپ میں یوں سوکھا پانی
 روے تو لہو آیا بہہ کر
