@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Kehta hai tumse maahe moharram hussainiyo
-  
-  1
   Mazloome karbala ka hai ye gham hussainiyo
   Ya maula ya hussain
+
+  1
   Uth'ta hai dard shor e buka se utha kare
   Jalta hai gar adoo e aza to jala kare
   Taskeen e qalb e binte payambar hua kare
@@ -79,10 +79,10 @@ romanLyrics: |-
 ---
 
 کہتا ہے تم سے ماہ محرم حسینیوں
-
-۱
 مظلوم کربلا کا ہے یہ غم حسینیوں
 یا مولا یاحسین
+
+۱
 اٹھتا ہے درد شور بکا سے اٹھا کرے
 جلتا ہے گر عدوے عزا تو جلا کرے
 تسکین قلب بنت پیمبر ہوا کرے
