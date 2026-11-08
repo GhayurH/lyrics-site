@@ -10,10 +10,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Himmat na haarna abhi
   Rehwaar ek nasheb mein le chal hussain ko
   Zainab na dekh le sar e maqtal hussain ko
+
+  1
   Is waqt hai badan pa mere zakhm beshumar
   Hamsheer ki nigaah na pad jaaye hoshiyar
   Aa jayegi tadap ke behen suye kaar zaar
@@ -71,10 +72,11 @@ romanLyrics: |-
 # raw_sha256: 915cc34c6526edce57119dfa137a20509e85f89b5865d72f4dcfe7e54881423a
 ---
 
-۱
 ہمت نہ ہارنا ابھی
 رہوار ایک نشیب میں لے چل حسین کو
 زینب نہ دیکھ لے سر مقتل حسین کو
+
+۱
 اس وقت ہے بدن پہ میرے زخم بے شمار
 ہمشیر کی نگاہ نہ پڑ جائے ہوشیار
 آ جائے گی تڑپ کے بہن سوے کار زار
