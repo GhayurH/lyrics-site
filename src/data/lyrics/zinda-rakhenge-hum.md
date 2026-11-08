@@ -12,16 +12,14 @@ published: false
 romanLyrics: |-
   Tujhse waada hai ye shahe karbobala
   Zinda rakhenge hum karbala
-  
-  1
   Karbala karbala karbala ya husain
-  
-  2
+
+  1
   Apni aawaz mein apne andaaz mein
   Apne anjaam mein apne aghaaz mein
   Hum sada
-  
-  3
+
+  2
   Apni naslon ko paigham de hum yehi
   Matame shaahe deen karz hai har ghadi
   Maqsade karbala aam karte raho
@@ -29,8 +27,8 @@ romanLyrics: |-
   Apne paigham mein apne ehkaam mein
   Apne aaraam mein apne har kaam mein
   Hum sada
-  
-  4
+
+  3
   Suraton mein takaza ye karta rahe
   Tum raho na raho haq to zinda rahe
   Saans ruk jaye kat jaye chaahe zaban
@@ -38,8 +36,8 @@ romanLyrics: |-
   Apne tash'heer mein apni tafseer mein
   Apni tehreer mein apni taqreer mein
   Hum sada
-  
-  5
+
+  4
   Maa ne gutthi mein hum ko pilaya hai kya
   Karbala karbala karbala karbala
   Bolna yun sikhaya ke bolo zara
@@ -47,8 +45,8 @@ romanLyrics: |-
   Apne azhaan mein apne wajdaan mein
   Apne eemaan mein apne aelaan mein
   Hum sada
-  
-  6
+
+  5
   Zuljana ho amaari alam taaziye
   Ye alamaat hai mit na jaaye kahin
   Mannati hathkadi aur kalawe jo hai
@@ -56,8 +54,8 @@ romanLyrics: |-
   Apni aasaar mein apni guftaar mein
   Apne eesaar mein apne kirdaar mein
   Hum sada
-  
-  7
+
+  6
   Nauha khwani ka mansab mila hai jise
   Uspe wajib hua bas ye paigham de
   Tere lehje mein ghazi ki lalkaar ho
@@ -65,8 +63,8 @@ romanLyrics: |-
   Apni faryad mein apni uftad mein
   Apni har yaad mein apne aulaad mein
   Hum sada
-  
-  8
+
+  7
   Sab ke laashon pe shabbir rote rahe
   Laashe shabbir par koi ro na saka
   Ye sitam dekh kar boli sajjad se
@@ -74,8 +72,8 @@ romanLyrics: |-
   Apne aelaan mein gham ke aewaan mein
   Gham ke toofan mein jaa ke zindan mein
   Hum sada
-  
-  9
+
+  8
   Jab aseeran e gham shaam jaane lage
   Chashme sajjad se ashk behne lage
   Bekafan baap ki laash par gir pade
@@ -83,8 +81,8 @@ romanLyrics: |-
   Apne aazaar mein raahe pur khaar mein
   Jaa ke bazaar mein aur darbar mein
   Hum sada
-  
-  10
+
+  9
   Kamsino ki judaai mein asghar ka gham
   Aur jawano ke gham mein ho akbar ka gham
   Baap se koi beti bichad jaaye gar
@@ -92,8 +90,8 @@ romanLyrics: |-
   Apne pyaron ka gham bhool jayenge hum
   Har jagah har qadam maula teri qasam
   Hum sada
-  
-  11
+
+  10
   Jo qalam aur awaaz par karz hai
   Karz ho wo adaa al madad sayyeda
   Kaam farhan o mazhar ye karte rahe
@@ -105,19 +103,16 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3429
 # raw_sha256: 84201f0e479db1e9f6aafd4e42310ad4306682a0751412fa8618f9b46e56c406
 ---
-
 تجھ سے وعدہ ہے یہ شہ کربوبلا
 زندہ رکھیں گے ہم کربلا
-
-۱
 کربلا کربلا کربلا یا حسین
 
-۲
+۱
 اپنی آواز میں اپنے انداز میں
 اپنے انجام میں اپنے آغاز میں
 ہم صدا
 
-۳
+۲
 اپنی نسلوں کو پیغام دے ہم یہی
 ماتم شاہ دیں قرض ہے ہر گھڑی
 مقصد کربلا عام کرتے رہو
@@ -126,7 +121,7 @@ romanLyrics: |-
 اپنے آرام میں اپنے ہر کام میں
 ہم صدا
 
-۴
+۳
 صورتوں میں تقاضا یہ کرتے رہے
 تم رہو نہ رہو حق تو زندہ رہے
 سانس رک جائے کٹ جائے چاہے زباں
@@ -135,7 +130,7 @@ romanLyrics: |-
 اپنی تحریر میں اپنی تقریر میں
 ہم صدا
 
-۵
+۴
 ماں نے گھٹی میں ہم کو پلایا ہے کیا
 کربلا کربلا کربلا کربلا
 بولنا یوں سکھایا کہ بولو زرا
@@ -144,7 +139,7 @@ romanLyrics: |-
 اپنے ایمان میں اپنے اعلان میں
 ہم صدا
 
-۶
+۵
 ذوالجناح ہو عماری علم تعزیہ
 یہ علامات ہے مٹ نہ جائے کہیں
 منتی ہتھکڑی اور کلاوے جو ہے
@@ -153,7 +148,7 @@ romanLyrics: |-
 اپنے ایثار میں اپنے کردار میں
 ہم صدا
 
-۷
+۶
 نوحہ خوانی کا منصب ملا ہے جسے
 اس پہ واجب ہوا بس یہ پیغام دے
 تیرے لہجے میں غازی کی للکار ہو
@@ -162,7 +157,7 @@ romanLyrics: |-
 اپنی ہر یاد میں اپنے اولاد میں
 ہم صدا
 
-۸
+۷
 سب کے لاشوں پہ شبیر روتے رہے
 لاش شبیر پر کوئی رو نہ سکا
 یہ ستم دیکھ کر بولی سجاد سے
@@ -171,7 +166,7 @@ romanLyrics: |-
 غم کے طوفان میں جا کے زندان میں
 ہم صدا
 
-۹
+۸
 جب اسیران غم شام جانے لگے
 چشمِ سجاد سے اشک بہنے لگے
 بیکفن باپ کی لاش پر گر پڑے
@@ -180,7 +175,7 @@ romanLyrics: |-
 جا کے بازار میں اور دربار میں
 ہم صدا
 
-۱۰
+۹
 کمسنوں کی جدائی میں اصغر کا غم
 اور جوانوں کے غم میں ہو اکبر کا غم
 باپ سے کوئی بیٹی بچھڑ جاے گر
@@ -189,7 +184,7 @@ romanLyrics: |-
 ہر جگہ ہر قدم مولا تیری قسم
 ہم صدا
 
-۱۱
+
 جو قلم اور آواز پر قرض ہے
 قرض ہو وہ ادا المدد سیدہ
 کام فرحان و مظہر یہ کرتے رہے
