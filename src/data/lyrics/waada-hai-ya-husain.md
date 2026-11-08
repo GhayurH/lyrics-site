@@ -14,12 +14,14 @@ romanLyrics: |-
   Sab ne jaana sab ne maana
   Tu ek hi hai bas ek hi hai maula ek hi hai
   Hussain hussain hussain
+
+  1
   Zinda tha tu ab bhi zinda hai
   Zinda rahega tu maula hamesha
   Waada hai waada hai imam hussain
   Zinda rahega tera naam hussain
 
-  1
+  2
   Tu ruka nahi tu jhuka nahi
   Kaha jo tu ne wo kar ke dikhaya
   Ghar luta diya sar kata diya
@@ -29,7 +31,7 @@ romanLyrics: |-
   Tum pe laakhon salaam
   Hoga labon pe subho shaam hussain
 
-  2
+  3
   Tujhse jo bhi takraye thay
   Ho gaye wo dozakh ke hawale
   Jhuk gaye tujh ko jhukane waale
@@ -44,7 +46,7 @@ romanLyrics: |-
   Aur ek taraf mera maula hussain
   Tujhpe khuda ka hai salaam hussain
 
-  3
+  4
   Ishq e man hussain jaane man hussain
   Dil mein dhadakta hai naam tumhara
   Hai teri qasam jab talak hai hum
@@ -53,7 +55,7 @@ romanLyrics: |-
   Har dil deewana hai parcham lehrana hai
   Jis pe likha ho tera naam hussain
 
-  4
+  5
   Apne bacchon ko shaahe karbala
   Jaayenge de kar hum yehi wirsa
   Yun sajate hai ghazi ka alam
@@ -62,7 +64,7 @@ romanLyrics: |-
   Bacche ho ya jawan saare ho nauhakhwan
   Teri nishaniyan ho aam hussain
 
-  5
+  6
   Farshe gham tera dil se gham tera
   Waada hai ahle aza karte rahenge
   Thaam ke alam yun hi har qadam
@@ -71,14 +73,14 @@ romanLyrics: |-
   Dekhega ye jahan hai tera jalwa
   Badta rahega gaam gaam hussain
 
-  6
+  7
   Matam o sajda jo sang hai maula
   Ye tere ishq ka rang hai maula
   Hairat se saara jahan dang hai maula
   Aur tera dushman tang hai maula
   Kaisa liya hai inteqam hussain
 
-  7
+  8
   Aandhiyon mein bhi barishon mein bhi
   Hum ne kiya hai tera matam maula
   Fatwagar uthe kitne shar uthe
@@ -87,7 +89,7 @@ romanLyrics: |-
   Hum ne to har jagah pursa tujhe diya
   Rukte kahan hai ye ghulam hussain
 
-  8
+  9
   Baad e karbala jab teri behen
   Khafila le ke tera shaam gayi thi
   Haath thay bandhe sar tha berida
@@ -96,7 +98,7 @@ romanLyrics: |-
   Waada hai ye mera dunya mein har jagah
   Majlis ka hoga ehtemam hussain
 
-  9
+  10
   Saara jahan ye bol raha hai
   Raaz e aqeedat khol raha hai
   Dil mein hamare dhadak raha hai
@@ -115,12 +117,14 @@ romanLyrics: |-
 سب نے جانا سب نے مانا
 تو ایک ہی ہے بس ایک ہی ہے مولا ایک ہی ہے
 حسین حسین حسین
+
+۱
 زندہ تھا تو اب بھی زندہ ہے
 زندہ رہے گا تو مولا ہمیشہ
 وعدہ ہے وعدہ ہے امام حسین
 زندہ رہے گا تیرا نام حسین
 
-۱
+۲
 تو رکا نہیں تو جھکا نہیں
 کہا جو تو نے وہ کر کے دکھایا
 گھر لٹا دیا سر کٹا دیا
@@ -130,7 +134,7 @@ romanLyrics: |-
 تم پہ لاکھوں سلام
 ہو گا لبوں پہ صبح شام حسین
 
-۲
+۳
 تجھ سے جو بھی ٹکراے تھے
 ہو گےء وہ دوزق کے حوالے
 جھک گےء تجھ کو جھکانے والے
@@ -145,7 +149,7 @@ romanLyrics: |-
 اور ایک طرف میرا مولا حسین
 تجھ پہ خدا کا ہے سلام حسین
 
-۳
+۴
 عشق من حسین جان من حسین
 دل میں دھڑکتا ہے نام تمہارا
 ہے تیری قسم جب تلک ہے ہم
@@ -154,7 +158,7 @@ romanLyrics: |-
 ہر دل دیوانا ہے پرچم لہرانا ہے
 جس پہ لکھا ہو تیرا نام حسین
 
-۴
+۵
 اپنے بچوں کو شاہ کربلا
 جاییں گے دے کر ہم یہی ورثہ
 یوں سجاتے ہے غازی کا علم
@@ -163,7 +167,7 @@ romanLyrics: |-
 بچے ہو یہ جواں سارے ہو نوحہ خواں
 تیری نشانیاں ہو عام حسین
 
-۵
+۶
 فرش غم تیرا دل سے غم تیرا
 وعدہ ہے اہل عزا کرتے رہیں گے
 تھام کے علم یونہی ہر قدم
@@ -172,14 +176,14 @@ romanLyrics: |-
 دیکھے گا یہ جہاں ہے تیرا جلوہ
 بڑھتا رہے گام گام حسین
 
-۶
+۷
 ماتم و سجدہ جو سنگ ہے مولا
 یہ تیرے عشق کا رنگ ہے مولا
 حیرت سے سارا جہاں دنگ ہے مولا
 اور تیرا دشمن تنگ ہے مولا
 کیسا لیا ہے انتقام حسین
 
-۷
+۸
 آندھیوں میں بھی بارشوں میں بھی
 ہم‌ نے کیا ہے تیرا ماتم مولا
 فتوہ گر اٹھے کتنے شر اٹھے
@@ -188,7 +192,7 @@ romanLyrics: |-
 ہم نے تو ہر جگہ پرسہ تجھے دیا
 رکتے کہاں ہے یہ غلام حسین
 
-۸
+۹
 بعد کربلا جب تیری بہن
 قافلہ لے کے تیرا شام گیء تھی
 ہاتھ تھے بندھے سر تھا بے ردا
@@ -197,7 +201,7 @@ romanLyrics: |-
 وعدہ ہے یہ میرا دنیا میں ہر جگہ
 مجلس کا ہوگا اہتمام حسین
 
-۹
+۱۰
 سارا جہاں یہ بول رہا ہے
 راز عقیدت کھول رہا ہے
 دل میں ہمارے دھڑک رہا ہے

@@ -12,10 +12,12 @@ published: false
 romanLyrics: |-
   Ay behen zainab
   Waada karo waada karo
+
+  1
   Ahle haram ko kal se behen
   Abbas ban kar sambhalogi na
 
-  1
+  2
   Ehsaan mujh par itna karo
   Mere sirhane baithi raho
   Kya sochti ho mujhse kaho
@@ -23,7 +25,7 @@ romanLyrics: |-
   Tum mujhko ro lo mere saamne
   Kal se ye aansu chupaogi na
 
-  2
+  3
   Jab bekasi ke mahol par
   Shaam e ghariban chaane lage
   Nana ki ummat jab ay behen
@@ -31,7 +33,7 @@ romanLyrics: |-
   Jal jaaye masnad meri magar
   Abid ko mere bachaogi na
 
-  3
+  4
   Nazdeek mere aao zara
   Dekho na sunle sakina kahin
   Jaogi jab qaid khane mein tum
@@ -39,7 +41,7 @@ romanLyrics: |-
   Zindan mein tum bandhe haath se
   Qabr e sakina banaogi na
 
-  4
+  5
   Be-gor hoga mera badan
   Khaake shifa hogi mera kafan
   Dekho rona nahi chain khona nahi
@@ -47,7 +49,7 @@ romanLyrics: |-
   Tum apni chadar pyari behen
   Khaake shifa ko banaogi na
 
-  5
+  6
   Apne hi haathon pe laaya tha mai
   Laasha hassan ka teeron bhara
   Mayyat ki bhai se rote huwe
@@ -55,7 +57,7 @@ romanLyrics: |-
   Waise hi mere laashe se tum
   Teeron ko aa kar nikalogi na
 
-  6
+  7
   Aankhon mein uske kayi khwab hai
   Tum jaanti ho wo hassaas hai
   Jo muntazir hai dehleez par
@@ -63,7 +65,7 @@ romanLyrics: |-
   Zainab hamari majbooriyan
   Sughra ko jaa kar bataogi na
 
-  7
+  8
   Sun kar wasiyat shabbir ki
   Haye takallum wo roti rahi
   Armaan awaaz e ibne ali
@@ -76,10 +78,12 @@ romanLyrics: |-
 ---
 اے بہن زینب
 وعدہ کرو وعدہ کرو
+
+۱
 أہل حرم کو کل سے بہن
 عباس بن کر سنبھالو گی نہ
 
-۱
+۲
 احسان مجھ پر اتنا کرو
 میرے سرہانے بیٹھی رہو
 کیا سوچتی ہو مجھ سے کہو
@@ -87,7 +91,7 @@ romanLyrics: |-
 تم مجھ کو رو لو میرے سامنے
 کل سے یہ آنسوں چھپاؤ گی نہ
 
-۲
+۳
 جب بیکسی کے ماحول پر
 شام غریباں چھانے لگے
 نانا کی امت جب اے بہن
@@ -95,7 +99,7 @@ romanLyrics: |-
 جل جائے مسند میری مگر
 عابد کو میرے بچاؤ گی نہ
 
-۳
+۴
 نزدیک میرے آؤ زرا
 دیکھو نہ سن‌ لے سکینہ کہیں
 جاؤ گی جب قید خانے میں تم
@@ -103,7 +107,7 @@ romanLyrics: |-
 زندان میں تم بندھے ہاتھ سے
 قبر سکینہ بناؤ گی نہ
 
-۴
+۵
 بے گور ہوگا میرا بدن
 خاک شفا ہو گی میرا کفن
 دیکھو رونا نہیں چین کھونا نہیں
@@ -111,7 +115,7 @@ romanLyrics: |-
 تم اپنی چادر پیاری بہن
 خاک شفا کو بناؤ گی نہ
 
-۵
+۶
 اپنے ہی ہاتھوں پہ لایا تھا میں
 لاشہ حسن کا تیروں بھرا
 میت کی بھای سے روتے ہوئے
@@ -119,7 +123,7 @@ romanLyrics: |-
 ویسے ہی میرے لاشے سے تم
 تیروں کو آ کر نکالو گی نہ
 
-۶
+۷
 آنکھوں میں اس کے کیء خواب ہے
 تم جانتی ہو وہ حساس ہے
 جو منتظر ہے دہلیز پر
@@ -127,7 +131,7 @@ romanLyrics: |-
 زینب ہماری مجبوریاں
 صغرا کو جا کر بتاؤ گی نہ
 
-۷
+۸
 سن کر وصیت شبیر کی
 ہاے تکلم وہ روتی رہی
 ارمان آواز ابنِ علی
