@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Laashe pe kehti thi maa ay mere akbar jawan
-  
-  1
   Humshakle payambar ali akbar ali akbar
   Laila ke dilbar ali akbar ali akbar
+
+  1
   Teeron ke bal aaye jab sajde mein shaahe umam
   Ran mein unka sar hua kund khanjar se qalam
   Lootne sadaat ko aagayi fauje sitam
@@ -75,10 +75,10 @@ romanLyrics: |-
 ---
 
 لاشے پہ کہتی ماں اے میرے اکبر جواں
-
-۱
 ہمشکلِ پیعمبر علی اکبر علی اکبر
 لیلیٰ کے دلبر علی اکبر علی اکبر
+
+۱
 تیروں کے بل آئے جب سجدے میں شاہِ اُمم
 رن میں اُن کا سر ہوا کُنند خنجر سے قلم
 لُوٹنے سادات کو آ گئی فوجِ ستم
