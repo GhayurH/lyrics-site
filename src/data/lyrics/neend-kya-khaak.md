@@ -13,41 +13,43 @@ romanLyrics: |-
   Shaam ke ghup andhere mein sakina ki fughan thi
   Aap ka seena to teeron se bhara hai
   Neend kya khaak pe aayegi baba
+  
+  1
   Maa ki aaghosh ya aaghosh padar bhaati hai
   Neend bachon ko andhere mein kahan aati hai
   Yaad seene ki satayegi baba
-
-  1
+  
+  2
   Aag aur khoon ke mahaul se ghabrayi hoo
   Is liye aap ke laashe pe chali aayi hoo
   Kuch kami dard mein aayegi baba
-
-  2
+  
+  3
   Ab dehekte huwe sehra ko kahungi bistar
   Mera takiya hai ye pathar to falak hai chadar
   Haan ye ghurbat hi rulayegi baba
-
-  3
+  
+  4
   Aap roothe to muqaddar bhi mera rooth gaya
   Ho gaya tukde jigar gham se ye dil toot gaya
   Zindagi chain na payegi baba
-
-  4
+  
+  5
   Kya isi din ke liye rab se mujhe maanga tha
   Waqt e mushkil mein akela jo mujhe chod diya
   Ab sakina kahan jayegi baba
-
-  5
+  
+  6
   Tum tadap jaate sakina jo kabhi roti thi
   Aah karti thi mai takleef tumhe hoti thi
   Ek ek baat rulayegi baba
-
-  6
+  
+  7
   Har dafa mujhko hi seene pe sulaya baba
   Aaj kyun teeron ko seene pe sulaya baba
   Na sakina ye bhulayegi baba
-
-  7
+  
+  8
   Kaise farhan ye roodad likhega mazhar
   Baap se kehti thi maqtal mein sakina ro kar
   Baat ye mujhko jagayegi baba
@@ -58,41 +60,43 @@ romanLyrics: |-
 شام کے گھپ اَندھیرے میں سکینہ کی فغاں تھی
 آپ کے سینہ تو تیروں سے بھرا ہے
 نیند کیا خاک پہ آے گی بابا
+
+۱
 ماں کی آغوش یا آغوش پدر بھاتی ہے
 نیند بچوں کو اندھیرے میں کہاں آتی ہے
 یاد سینے کی ستاے گی بابا
 
-۱
+۲
 آگ اور خون کے ماحول سے گھبرای ہوں
 اس لےء آپ کے لاشے پہ چلی آی ہوں
 کچھ کمی درد میں آے گی بابا
 
-۲
+۳
 اب دہکتے ہوے صحرا کو کہوں گی بستر
 میرا تکیہ ہے یہ پتھر تو فلک ہے چادر
 ہاں یہ غربت ہی رلاے گی بابا
 
-۳
+۴
 آپ روٹھے تو مقدر بھی میرا روٹھ گیا
 ہو گیا ٹکڑے جگر غم سے یہ دل ٹوٹ گیا
 زندگی چین نہ پاے گی بابا
 
-۴
+۵
 کیا اسی دن کے لیےء رب سے مجھے مانگا تھا
 وقت مشکل میں اکیلا جو مجھے چھوڑ دیا
 اب سکینہ کہاں جاے گی بابا
 
-۵
+۶
 تم تڑپ جاتے سکینہ جو کبھی روتی تھی
 آہ کرتی تھی میں تکلیف تمہیں ہوتی تھی
 اک ایک بات رلاے گی بابا
 
-۶
+۷
 ہر دفعہ مجھکو ہی سینے پہ سلایا بابا
 آج کیوں تیروں کو سینے پہ سلایا بابا
 نہ سکینہ یہ بھلاے گی بابا
 
-۷
+۸
 کیسے فرحان یہ روداد لکھے گا مظہر
 باپ سے کہتی تھی مقتل میں سکینہ رو کر
 بات یہ مجھکو جگاے گی بابا
