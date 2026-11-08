@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Qaime may darya pa kiye jab ke shah e waala ne
   Ghayra shabbir ko tab fauj e sitam aara ne
   Lab e darya na utarne diya jab aada ne
@@ -21,7 +20,6 @@ romanLyrics: |-
 # raw_sha256: 0a7fee17c6d971566435cd6f8745ae8368bde71a10dc34c6b6d5bda7fbe661a1
 ---
 
-۱
 خیمے میں دریا پہ کیےء جب کہ شہ والا
 گھیرا شبیر کو تب فوج ستم آرا نے
 لب دریا نہ اترنے دیا جب اعدا نے
