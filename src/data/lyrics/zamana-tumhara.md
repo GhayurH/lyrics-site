@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   Jag hai tumhara maula jag hai tumhara
   Dekho ya hussain saara jag hai tumhara
-  
+
   1
   Wo sada e hal min jo kal goonj rahi thi sehra mein
   Aaj talak sadiyon se wohi goonj rahi hai dunya mein
@@ -26,6 +26,8 @@ romanLyrics: |-
   Keh raha hai har nazara ya hussain
   Tum akele nahi ho ya hussain
   Maula maula hussain hussain hussain
+
+  2
   Roze ashoora laakhon mein tanha
   Hussain hum ko bula rahe thay
   Hal min ka naara hai ye ishara
@@ -34,14 +36,12 @@ romanLyrics: |-
   Hal min ka naara hussain ka
   Har dil ki dua har lab pe sada
   Ye khazana hai tumhara ya hussain
-  Tum akele nahi ho ya hussain
-  Saara zamana haan ye saara zamana
-  Hai tumhara ya hussain
-  Tum akele nahi ho ya hussain
   Ya imame do jahan sheh saware kaarwan
   Tum jahan ho hum wahan ya hussain
   Hum sab ka hai naara ya hussain ya hussain
   Maula maula hussain hussain hussain
+
+  3
   Kal thay akele karbobala mein
   Hussain koi na tha tumhara
   Aur aaj aalam pukaarta hai
@@ -51,15 +51,10 @@ romanLyrics: |-
   Tum pe maula subho shaam
   Saari qaumon ka salaam
   Sab ne mil ke hai pukara ya hussain
-  Tum akele nahi ho ya hussain
-  Saara zamana haan ye saara zamana
-  Hai tumhara ya hussain
-  Tum akele nahi ho ya hussain
-  Ye zameen o aasman keh rahi hai har zaban
-  Keh raha hai har nazara ya hussain
-  Tum akele nahi ho ya hussain
   Hussain hussain hussain maula maula
   Hussain hussain hussain
+
+  4
   Karoro dil hai jo aaj maula
   Tumhari jaanib rawan dawan hai
   Labbaik maula labbaik maula
@@ -69,9 +64,8 @@ romanLyrics: |-
   Sab ka pyara ya hussain
   Sab ka naara ya hussain
   Har zamana hai tumhara ya hussain
-  Tum akele nahi ho ya hussain
-  Ya imame do jahan sheh saware kaarwan
-  Tum jahan ho hum wahan ya hussain
+
+  5
   Ye goonjega ye goonjega ye goonjega
   Ye goonjega ye goonjega ye goonjega
   Ye goonjega ye goonjega
@@ -84,15 +78,8 @@ romanLyrics: |-
   Sab zehno mein haan lehjon mein
   Naaro mein baaton baaton mein
   Naam hussain ka goonjega
-  Saara zamana haan ye saara zamana
-  Hai tumhara ya hussain
-  Tum akele nahi ho ya hussain
-  Ye zameen o aasman keh rahi hai har zaban
-  Keh raha hai har nazara ya hussain
-  Tum akele nahi ho ya hussain
-  Hussain hussain hussain maula maula
-  Hussain hussain hussain maula maula
-  Hussain hussain hussain
+
+  6
   Salaam tum par janabe zainab
   Hussain ban kar dikhaya tum ne
   Qadam qadam par suna ke khutbe
@@ -101,16 +88,12 @@ romanLyrics: |-
   Parcham uthaya hussain ka
   Kabhi bar sare bazaar kabhi bar sare darbar
   Bibi zainab ne pukara ya hussain
-  Tum akele nahi ho ya hussain
-  Saara zamana haan ye saara zamana
-  Hai tumhara ya hussain
-  Tum akele nahi ho ya hussain
-  Ya imame do jahan sheh saware kaarwan
-  Tum jahan ho hum wahan ya hussain
   Hum sab ka hai naara
   Ya hussain ya hussain ya hussain
   Maula maula hussain
   Ya hussain ya hussain ya hussain
+
+  7
   Kya bawafa thay hussain waale
   Jo karbala mein thay paara paara
   Sada e hal min ko sun rahe thay
@@ -119,13 +102,10 @@ romanLyrics: |-
   Koi raha na hussain ka
   Di shaheedon ne sada tum pe ho jaye fida
   Mile jaan jo dobara ya hussain
-  Tum akele nahi ho ya hussain
   Ya hussain maula ya hussain
   Maula ya hussain maula ya hussain
-  Tum akele nahi ho ya hussain
-  Maula maula hussain
-  
-  2
+
+  8
   Haazir hai haazir hai maula
   Pursa lo pursa hamara
   Har dil mein hai gham tumhara
@@ -133,19 +113,10 @@ romanLyrics: |-
   Hum na bhoolenge ashoora
   Rahega sada ye naara
   Maula maula hussain maula
-  Haazir hai haazir hai maula
-  Maula maula hussain maula
-  Haazir hai haazir hai maula
-  Maula maula hussain maula
-  Maula maula hussain maula
-  Maula maula hussain maula
-  Maula maula hussain maula
-  Maula maula hussain maula
 # source_id: nohayonline:e44a187aac81ee22b0ed
 # source_url: https://www.nohayonline.com/details_content.php?id=2742
 # raw_sha256: 5272e46545eab85ec3df9a6bb5d70b4c14aa547c8f754aeb8760ca88dcdbba65
 ---
-
 جگ ہے تمہارا مولا جگ ہے تمہارا
 دیکھو یا حسین سارا جگ ہے تمہارا
 
@@ -162,6 +133,8 @@ romanLyrics: |-
 کہہ رہا ہے ہر نزرانہ یا حسین
 تم اکیلے نہیں ہو یا حسین
 مولا مولا حسین حسین حسین
+
+۲
 روز عاشور لاکھوں میں تنہا
 حسین ہم کو بلا رہے تھے
 ھل من کا نعرہ ہے یہ اشارہ
@@ -170,14 +143,12 @@ romanLyrics: |-
 ھل من کا نعرہ حسین کا
 ہر دل کی دعا ہر لب پہ صدا
 یہ خزانہ ہے تمہارا یا حسین
-تم اکیلے نہیں ہو یا حسین
-سارا زمانہ ہاں یہ سارا زمانہ
-ہے تمہارا یا حسین
-تم اکیلے نہیں ہو یا حسین
 یا امام دو جہاں شہ سوار کارواں
 تم جہاں ہو ہم وہاں یا حسین
 ہم سب کا ہے نعرہ یا حسین
 مولا مولا حسین حسین حسین
+
+۳
 کل تھے اکیلے کربوبل میں
 حسین کوئی نہ تھا تمہارا
 اور آج عالم پکارتا ہے
@@ -187,15 +158,10 @@ romanLyrics: |-
 تم پہ مولا صبح‌ و شام
 ساری قوموں کا سلام
 سب نے مل کے ہے پکارا یا حسین
-تم اکیلے نہیں ہو یا حسین
-سارا زمانہ ہاں یہ سارا زمانہ
-ہے تمہارا یا حسین
-تم اکیلے نہیں ہو یا حسین
-یہ زمین و آسماں کہہ رہی ہے ہر زباں
-کہہ رہا ہے ہر نظارہ یا حسین
-تم اکیلے نہیں ہو یا حسین
 حسین حسین حسین مولا مولا
 حسین حسین حسین
+
+۴
 کروڑوں دل ہے جو آج مولا
 تمہاری جانب رواں دواں ہے
 لبیک مولا لبیک مولا
@@ -205,9 +171,8 @@ romanLyrics: |-
 سب کا پیارا یا حسین
 سب کا نعرہ یا حسین
 ہر زمانہ ہے تمہارا یا حسین
-تم اکیلے نہیں ہو یا حسین
-یا امام دو جہاں شہ سوار کارواں
-تم جہاں ہو ہم وہاں یا حسین
+
+۵
 یہ گونجے گا یہ گونجے گا یہ گونجے گا
 یہ گونجے گا یہ گونجے گا یہ گونجے گا
 یہ گونجے گا یہ گونجے گا
@@ -220,15 +185,8 @@ romanLyrics: |-
 سب ذہنوں میں ہاں لہجوں میں
 نعروں میں باتوں باتوں میں
 نام حسین کا گونجے گا
-سارا زمانہ ہاں یہ سارا زمانہ
-ہے تمہارا یا حسین
-تم اکیلے نہیں ہو یا حسین
-یہ زمین و آسماں کہہ رہی ہے ہر زباں
-کہہ رہا ہے ہر نظارہ یا حسین
-تم اکیلے نہیں ہو یا حسین
-حسین حسین حسین مولا مولا
-حسین حسین حسین مولا مولا
-حسین حسین حسین
+
+۶
 سلام تم پر جنابِ زینب
 حسین بن کر دکھایا تم نے
 قدم قدم پر سنا کے خطبے
@@ -237,16 +195,12 @@ romanLyrics: |-
 پرچم اٹھایا حسین کا
 کبھی بر سر بازار کبھی بر سر دربار
 بی بی زینب نے پکارا یا حسین
-تم اکیلے نہیں ہو یا حسین
-سارا زمانہ ہاں یہ سارا زمانہ
-ہے تمہارا یا حسین
-تم اکیلے نہیں ہو یا حسین
-یا امام دو جہاں شہ سوار کارواں
-تم جہاں ہو ہم وہاں یا حسین
 ہم سب کا ہے نعرہ
 یا حسین یا حسین یا حسین
 مولا مولا حسین
 یا حسین یا حسین یا حسین
+
+۷
 کیا باوفا تھے حسین والے
 جو کربلا میں تھے پارہ پارہ
 صدائے ھل من کو سن رہے تھے
@@ -255,25 +209,14 @@ romanLyrics: |-
 کوئی رہا نہ حسین کا
 دی شہیدوں نے صدا تم پہ ہو جائے فدا
 ملے جاں جو دوبارہ یا حسین
-تم جہاں ہو ہم وہاں یا حسین
 یا حسین مولا یا حسین
 مولا یا حسین مولا یا حسین
-تم اکیلے نہیں ہو یا حسین
-مولا مولا حسین
 
-۲
+۸
 حاضر ہیں حاضر ہیں مولا
 پرسہ لو پرسہ ہمارا
 ہر دل میں ہے غم تمہارا
 ہم نہ بھولیں گے کربلا
 ہم‌ نہ بھولیں گے عاشورہ
 رہے گا صدا یہ نعرہ
-مولا مولا حسین مولا
-حاضر ہیں حاضر ہیں مولا
-مولا مولا حسین مولا
-حاضر ہیں حاضر ہیں مولا
-مولا مولا حسین مولا
-مولا مولا حسین مولا
-مولا مولا حسین مولا
-مولا مولا حسین مولا
 مولا مولا حسین مولا
