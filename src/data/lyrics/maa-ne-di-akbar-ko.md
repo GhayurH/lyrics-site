@@ -11,21 +11,19 @@ published: false
 romanLyrics: |-
   Maa ne di akbar ko sada
   Ay meri jaan ay meri jaan
-  
-  1
   Noore nazar roohe rawan
   
-  2
+  1
   Dil tha mera sehra tera
   Dekhungi mai in aankhon se
   Mehndi teri sehra kahan
   
-  3
+  2
   Chehra tera nana jaisa
   Teri sada nana jaisi
   Kaise sunoon waisi azan
   
-  4
+  3
   Akbar tera akbar noha
   Likhta raha rota raha
   Hilte rahe arz o saman
@@ -36,21 +34,19 @@ romanLyrics: |-
 
 ماں نے دی اکبر کو صدا
 اے میری جاں اے میری جاں
-
-۱
 نورِ نظر روحِ رواں
 
-۲
+۱
 دل تھا میرا سہرا تیرا
 دیکھوں گی میں ان آنکھوں سے
 مہندی تیری سہرا کہاں
 
-۳
+۲
 چہرا تیرا نانا جیسا
 تیری صدا نانا جیسی
 کیسے سُنوں ویسی اذاں
 
-۴
+۳
 اکبر تیرا اکبر نوحہ
 لکھتا رہا روتا رہا
 ہلتے رہے ارض و سماں
