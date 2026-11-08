@@ -15,23 +15,23 @@ romanLyrics: |-
   Ab na barsao pusht par kode
   Mar na jaye kahin mera bemaar
   Qaidi hai bemaar qaidi hai bemaar
+  
+  1
   Har lamha kodon ki aziyat
   Durron ki uftaad
-
-  1
   Haye mere bemaar ki ghurbat
   Kis se kare faryaad
   Sab raste kanton se bhare hai
   Chalna hai dushwaar
-  Tauqe garan hai gardan mein
-
+  
   2
+  Tauqe garan hai gardan mein
   Aur pairon mein zanjeer
   Sar hai jhukaye sharm ke maare
   Ibne shahe dilgeer
   Saath haram hai be-parda
   Aur shaam ka hai bazaar
-
+  
   3
   Sabr kiye ayoob tumhare
   Paas kahan tasveerein
@@ -39,43 +39,41 @@ romanLyrics: |-
   Lohe ki zanjeerein
   Saare badan mein pad gaye chaale
   Haye mera bemaar
-
+  
   4
   Qaid e sitam mein maut jo aayi
   Binte shahe muztar ko
   Khoon bhare kurte mein ye keh kar
   Dafn kiya khwahar ko
   Tujhko kafan bhi de nahi sakta
-
-  5
   Bhai hai laachar
+  
+  5
   Thaam ke bedi waqte safar
   Ro ro ke kaha maula ne
   Kaise katega shaam ka rasta
   Ye to khuda hi jaane
-
-  6
   Aisi hai kuch zauf o naqahat
   Chalna hai dushwaar
+  
+  6
   Mumkin hai maula ne kaha ho
   Laashe jari ke paas
   Dekh sako to dekh lo uth kar
-
-  7
   Mere chacha abbas
   Aap ka beta ban ke chala hai
   Kunbe ka salaar
+  
+  7
   Sharm mujhe khaye jaati hai
   Kaash abhi mar jaaun
-
-  8
   Is manzar ko dekh sakun wo
   Taab kahan se laaun
   Be parda hai maa behne
   Aur shaam ka hai darbar
+  
+  8
   Shaam ke jaanib kaise chali thi
-
-  9
   Paigambar ki aal
   Kaise padega aamir usko
   Kaise likhun mai bilal
@@ -90,17 +88,17 @@ romanLyrics: |-
 اب نہ برساؤ پشت پر کوڑے
 مر نہ جاے کہیں میرا بیمار
 قیدی ہے بیمار قیدی ہے بیمار
-ہر لمحہ کوڑوں کی اذیت
-دروں کی افتاد
 
 ۱
+ہر لمحہ کوڑوں کی اذیت
+دروں کی افتاد
 ہاے میرے بیمار کی غربت
 کس سے کریں فریاد
 سب رستے کانٹوں سے بھرے ہیں
 چلنا ہے دشوار
-طوق گراں ہے گردن میں
 
 ۲
+طوق گراں ہے گردن میں
 اور پیروں میں زنجیر
 سر ہے جھکاے شرم کے مارے
 ابنِ شہ دلگیر
@@ -121,36 +119,34 @@ romanLyrics: |-
 خون بھرے کرتے میں یہ کہہ کر
 دفن کیا خواہر کو
 تجھکو کفن بھی دے نہیں سکتا
+بھای ہے لاچار
 
 ۵
-بھای ہے لاچار
 تھام کے بیڑی وقت سفر
 رو رو کے کہا مولا نے
 کیسے کٹے گا شام کا رستہ
 یہ تو خدا ہی جانے
-
-۶
 ایسی ہے کچھ ضعف و نقاہت
 چلنا ہے دشوار
+
+۶
 ممکن ہے مولا نے کہا ہو
 لاش جری کے پاس
 دیکھ سکو تو دیکھ لو اٹھ کر
-
-۷
 میرے چچا عباس
 آپ کا بیٹا بن کے چلا ہے
 کنبے کا سالار
+
+۷
 شرم مجھے کھاے جاتی ہے
 کاش ابھی مر جاؤں
-
-۸
 اس منظر کو دیکھ سکوں وہ
 تاب کہاں سے لاؤں
 بے پردہ ہے ماں بہنیں
 اور شام کا ہے دربار
-شام کے جانب کیسے چلی تھی
 
-۹
+۸
+شام کے جانب کیسے چلی تھی
 پیغمبر کی آل
 کیسے پڑے گا عامر اس کو
 کیسے لکھوں میں بلال
