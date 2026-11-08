@@ -12,49 +12,46 @@ published: false
 romanLyrics: |-
   Yateem bacchi hai dard o alam ki maari hai
   Koi ghareeb nahi hai ye shaahzadi hai
-
-  1
   Sakina par khudara sitam itna na dhao
   Yateemi ki ghadi hai bahot sehmi hui hai
   Sitam itna na dhao
-  Sakina par khudara sitam itna na dhao
-
-  2
+  
+  1
   Abhi maara gaya hai iska baba
   Arey is waqt do isko dilaasa
   Tamache mat lagao
-
-  3
+  
+  2
   Bahot pyasi bahot pyasi hai haye
   Kahin ye tashna lab hi mar na jaye
   Isay pani pilao
-
-  4
+  
+  3
   Ye saydani hai ye aala nasab hai
   Arey ye dukhtare shaahe arab hai
   Khareeb iske na jao
-
-  5
+  
+  4
   Khadi hai itni laasho mein ye tanha
   Andhera aur bala ka hai andhera
   Zara himmat badhao
-
-  6
+  
+  5
   Is aalam mein na jee payegi haye
   Bina baba ke mar jayegi haye
   Koi sheh ko bulao
-
-  7
+  
+  6
   Na ab baba hai na iska chacha hai
   Lagi hai aag daaman jal raha hai
   Koi aa kar bachao
-
-  8
+  
+  7
   Bade naazon mein ye bacchi pali hai
   Bahot kamsin hai ye ghabra gayi hai
   Zara sa rehm khao
-
-  9
+  
+  8
   Sada ek laash se gohar ye aayi
   Na tum ghabrao ay baba ki pyari
   Hamare paas aao
@@ -64,49 +61,46 @@ romanLyrics: |-
 ---
 یتیم بچی ہے درد و علم کی ماری ہے
 کوئی غریب نہیں ہے یہ شاہ زادی ہے
-
-۱
 سکینہ پر خدارا ستم اتنا نہ ڈھاؤ
 یتیمی کی گھڑی ہے بہت سہمی ہوی ہے
 ستم اتنا نہ ڈھاؤ
-سکینہ پر خدارا ستم اتنا نہ ڈھاؤ
 
-۲
+۱
 ابھی مارا گیا ہے اس کا بابا
 ارے اس وقت دو اس کو دلاسہ
 طمانچے مت لگاؤ
 
-۳
+۲
 بہت پیاسی بہت پیاسی ہے ہاے
 کہیں یہ تشنہ لب ہی مر نہ جاے
 اسے پانی پلاؤ
 
-۴
+۳
 یہ سیدانی ہے یہ اعلیٰ نسب ہے
 ارے یہ دختر شاہ عرب ہے
 قریب اس کے نہ جاؤ
 
-۵
+۴
 کھڑی ہے اتنی لاشوں میں یہ تنہا
 اندھیرے اور بلا کا ہے۔ اندھیرا
 زرا ہمت بڑھاؤ
 
-۶
+۵
 اس عالم میں نہ جی پاے گی ہاے
 بنا بابا کے مر جاۓ گی ہاے
 کوی شہ کو بلاؤ
 
-۷
+۶
 نہ اب بابا ہے نہ اس کا چچا ہے
 لگی ہے آگ دامن جل رہا ہے
 کوئی آ کر بچاؤ
 
-۸
+۷
 بڑے نازوں میں یہ بچی پلی ہے
 بہت کمسن ہے یہ گھبرا گیء ہے
 زرا سا رحم کھاؤ
 
-۹
+۸
 صدا اک لاش سے گوہر یہ آی
 نہ تم گھبراؤ اے بابا کی پیاری
 ہمارے پاس آؤ
