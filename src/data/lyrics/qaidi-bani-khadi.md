@@ -12,8 +12,6 @@ published: false
 romanLyrics: |-
   Haye haye zainab makhdooma
   Haye haye zainab mazlooma
-
-  1
   Jab shaam e ghariban guzar gayi
   Aur gyara moharam aa pahunchi
   Thay baara galay aur ek rasan
@@ -24,82 +22,76 @@ romanLyrics: |-
   Sunegi kaise zainab haye
   Baadaz nabi jo ki hai ummat ne mehrbani
   Qaidi bani khadi hai karbal mein zehra saani
+  
+  1
   Athara baradar ki behan aaj khule sar hai
   Ek naize pe bhai hai to ek naize pe chadar hai
   Kise de sada sare karbala aseer e rasan
   Aseer e jafa dil e ghamzada ne kiya marsiya
-  Bhoolegi kaise zainab haye
   Aale nabi ki hurmat dunya ne kyun na jaani
-
+  
   2
   Jo bibi nahi nikli beparda kabhi ghar se
   Pardes mein wo bibi chadar ke liye tarse
   Bada hai ye gham bade hai sitam
   Ke hai khaak par nabi ke haram
   Sitam beghadi bekasi tashnagi
-  Bhoolegi kaise zainab haye
   Ek samt shadiyane ek samt nauhakhani
-
+  
   3
   Ye aale payambar ke ehsaano ka badla hai
   Be aas ghareebon ko khazaabon ne loota hai
   Dhuan hi dhuan fughan hi fughan
   Ghareebul watan huwe be-amaan
   Labe alqama bawafa ro diya
-  Bhoolegi kaise zainab haye
   Jalte huwe wo qaime pyason ki paasbani
-
+  
   4
   Wo tashna dahan bache wo sookhe huwe kooze
   Ek mashke sakina par do haath huwe sadqe
   Idhar ba-wafa udhar ashkiyan
   Gira aag par alam khoon bhara
   Yateema koi kehke ye ro padi
-  Bhoolegi kaise zainab haye
   Wo haath kheemti thay ya kheemti tha pani
-
+  
   5
   Be dard musalman se zainab ne yehi poocha
   Seena ali akbar ka barchi ke liya tha kya
   Na dulha bana na sehra bandha
   Wo kadiyal jawan haye pyasa gaya
   Qaza ro padi karbala keh uthi
-  Bhoolegi kaise zainab haye
   Barchi ki wo ani aur akbar ki naujawani
-
+  
   6
   Bhoolegi nahi bano chehra ali asghar ka
   Shabbir ke haathon par hai laasha ali asghar ka
-  Gulon ki rida koi fateha mere laal ko bhala kya mila
+  Gulon ki rida koi fateha
+  Mere laal ko bhala kya mila
   Bujhi teer se tashnagi bas yehi
-  Bhoolegi kaise zainab haye
   Wo teer hurmala ka asghar ki bezabani
-
+  
   7
   Tukdon mein bata laasha ek raat ke dulha ka
   Simta hua ghatri mein qasim ka janaza tha
   Wo gul pairahan dil e panjetan
   Na madfan bana na ghusl o kafan
   Thi mehve buka ek shab ki dulhan
-  Bhoolegi kaise zainab haye
   Taapon ki zad pe aayi bhai ki ek nishani
-
+  
   8
   Jab gyarah moharam ke suraj ki kiran dekhi
   Sajjad ne zanjeerein zainab ne rasan dekhi
   Chali nange sar rasan pehan kar
   Bina bhai ke hai pehla safar
   Kaha alwida ay qateel e jafa
-  Bhoolegi kaise zainab haye
   Tayyariyan safar ki abid ki saarbani
-
+  
   9
   Akthar ki zameen mazhar nauhe mein dhali aise
   Jab shaam gayi zainab irfan e aza ban ke
   Tha kaisa saja dayaar e jafa
   Kahin aaine kahin ashkiyan
   Haram nange sar keh ke ye ro diye
-  Bhoolegi kaise zainab haye
   Baadaz nabi jo ki hai ummat ne mehrbani
 # source_id: nohayonline:170a6bb7e410b2a76d5b
 # source_url: https://www.nohayonline.com/details_content.php?id=2210
@@ -107,8 +99,6 @@ romanLyrics: |-
 ---
 ہاے ہاے زینب مخدومہ
 ہاے ہاے زینب مظلومہ
-
-۱
 جب شام غریباں گزر گیء
 اور گیارہ محرم آ پہنچی
 تھے بارہ گلے اور ایک رسن
@@ -119,11 +109,12 @@ romanLyrics: |-
 بھولے گی کیسے زینب ہاے
 بعد از نبی جو کی ہے امت نے مہربانی
 قیدی بنی کھڑی ہے کربل میں زہرا ثانی
+
+۱
 اٹھارہ برادر کے بہن آج کھلے سر ہے
 اس نیزے پہ بھای ہے تو اک نیزے پہ چادر ہے
 کسے دے صدا سر کربلا اسیر رسن
 اسیر جفا دل غمزدہ نے کیا مرثیہ
-بھولے گی کیسے زینب ہاے
 آل نبی کی حرمت دنیا نے کیوں نہ جانی
 
 ۲
@@ -132,7 +123,6 @@ romanLyrics: |-
 بڑا ہے یہ غم بڑے ہیں ستم
 کہ ہے خاک پر نبی کے حرم
 ستم بے گھڑی بیکسی تشنگی
-بھولے گی کیسے زینب ہاے
 اس سمت شادیانے اک سمت نوحہ خوانی
 
 ۳
@@ -141,7 +131,6 @@ romanLyrics: |-
 دھواں ہی دھواں فغاں ہی فغاں
 غریب الوطن ہوے بے اماں
 لب علقمہ باوفا رو دیا
-بھولے گی کیسے زینب ہاے
 جلتے ہوے وہ خیمے پیاسوں کی پاسبانی
 
 ۴
@@ -150,7 +139,6 @@ romanLyrics: |-
 ادھر با وفا ادھر اشقیاء
 گرا خاک پر علم خون بھرا
 یتیمہ کوئی کہہ کے یہ رو پڑی
-بھولے گی کیسے زینب ہاے
 وہ ہاتھ قیمتی تھے یا قیمتی تھا پانی
 
 ۵
@@ -159,15 +147,14 @@ romanLyrics: |-
 نہ دولہا بنا نہ سہرا بندھا
 وہ کڑیل جواں ہاے پیاسا گیا
 قضا رو پڑی کربلا کہہ اٹھی
-بھولے گی کیسے زینب ہاے
 برچھی کی وہ انی اور اکبر کے نوجوانی
 
 ۶
 بھولے گی نہیں بانو چہرہ علی اصغر کا
 شبیر کے ہاتھوں پر ہے لاشہ علی اصغر کا
-گلوں کی ردا کوئی فاتحہ میرے لال کو بھلا کیا ملا
+گلوں کی ردا کوئی فاتحہ
+میرے لال کو بھلا کیا ملا
 بجھی تیر سے تشنگی بس یہی
-بھولے گی کیسے زینب ہاے
 وہ تیر حرملہ کا اصغر کی بے زبانی
 
 ۷
@@ -176,7 +163,6 @@ romanLyrics: |-
 وہ گل پیرہن دل پنجتن
 نہ مدفن بنا نہ غسل و کفن
 تھی محوِ بکا ایک شب کی دلہن
-بھولے گی کیسے زینب ہاے
 ٹاپوں کی ضد پہ آی بھای کی اک نشانی
 
 ۸
@@ -185,7 +171,6 @@ romanLyrics: |-
 چلی ننگے سر رسن پہن کر
 بنا بھای کے ہے پہلا سفر
 کہا الوداع اے قتیل جفا
-بھولے گی کیسے زینب ہاے
 تیاریاں سفر کی عابد کی ساربانی
 
 ۹
@@ -194,5 +179,4 @@ romanLyrics: |-
 تھا کیسا سجا دیار جفا
 کہیں آیینے کہیں اشقیاء
 حرم ننگے سر کہہ کے یہ رو دیےء
-بھولے گی کیسے زینب ہاے
 بعد از‌ نبی جو کی ہے امت نے مہربانی
