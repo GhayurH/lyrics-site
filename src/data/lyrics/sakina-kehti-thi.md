@@ -12,31 +12,29 @@ published: false
 romanLyrics: |-
   Sakina kehti thi ro kar
   Mere bhaiya ali asghar
-  
-  1
   Hui hai raat aaja ghar
   
-  2
+  1
   Wo nanha sa gala cheda
   Jise teer e sitamgar ne
   Usi par phir chala khanjar
   
-  3
+  2
   Sitamgaaron ne jhula bhi
   Nahi choda jala daala
   Pachadein khaati hai maadar
   
-  4
+  3
   Machalna pyaas ki shiddat se
   Tera hichkiyan lena
   Nighahon mein hai wo manzar
   
-  5
+  4
   Andheri qabr hai pehlu hai
   Maa ka aur na jhoola hai
   Tujhe neend aayegi kyun kar
   
-  6
+  5
   Bohat samjhaya zainab ne
   Sakina ko magar ahsan
   Wo roti thi yehi keh kar
@@ -44,34 +42,31 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3353
 # raw_sha256: 68b57c72949824ff0a5801f94b170f2913f1d7d045aacce4b5d5a16df6dced42
 ---
-
 سکینہ کہتی تھی رو کر
 میرے بھیا علی اصغر
-
-۱
 ہوی ہے رات آجا گھر
 
-۲
+۱
 وہ ننھا سا گلا چھیدا
 جسے تیر ستمگر نے
 اسی پر پھر چلا خنجر
 
-۳
+۲
 ستمگاروں نے جھولا بھی
 نہیں چھوڑا جلا ڈالا
 پچھاڑیں کھاتی ہے مادر
 
-۴
+۳
 مچلنا پیاس کی شدت سے
 تیرا ہچکیاں لینا
 نگاہوں میں ہے وہ منظر
 
-۵
+۴
 اندھیری قبر ہے پہلو ہے
 ماں کا اور نہ جھولا ہے
 تجھے نیند آے گی کیوں کر
 
-۶
+۵
 بہت سمجھایا زینب نے
 سکینہ کو مگر احساں
 وہ روتی تھی یہی کہہ کر
