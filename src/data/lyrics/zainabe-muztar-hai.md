@@ -12,11 +12,11 @@ published: false
 romanLyrics: |-
   Hai sitamgaaron ka nargha ya ali ab aaiye
   Har taraf mehshar hai barpa ya ali ab aaiye
-
-  1
   Khaak par hai jaane zehra ya ali ab aaiye
   Hai ye aalam bekasi ka ya ali ab aaiye
   Zainab e muztar hai tanha ya ali ab aaiye
+
+  1
   Bain karti thi ye zainab darmiyan e karbala
   Hai kahan abbas o qasim hamshabih e mustafa
   Kisko de awaaz zainab kaun ab baaqi raha
@@ -51,11 +51,11 @@ romanLyrics: |-
 ---
 ہے ستمگاروں کا نرغہ یا علی اب آییےء
 ہر طرف محشر ہے برپا یا علی اب آییےء
-
-۱
 خاک پر ہے جانے زہرا یا علی اب آییےء
 ہے یہ عالم بیکسی کا یا علی اب آییےء
 زینبِ مضطر ہے تنہا یا علی اب آییےء
+
+۱
 بین کرتی تھی یہ زینب درمیان کربلا
 ہے کہاں عباس و قاسم ہم شبیہء مصطفیٰ
 کس کو دے آواز زینب کون اب باقی رہا

@@ -12,9 +12,9 @@ published: false
 romanLyrics: |-
   Karbobala se lut ke amma
   Zainab e muztar aayi hai
+  Bhai ko apne kho ke amma
 
   1
-  Bhai ko apne kho ke amma
   Jab shimr e layeen sheh ka gala kaat raha tha
   Us dam nahi thay akbar o abbas e bawafa
   Nazron se manzar dekh ke amma
@@ -64,9 +64,9 @@ romanLyrics: |-
 ---
 کربوبلا سے لٹ کے اماں
 زینب مضطر آی ہے
+بھای کو اپنے کھو کے اماں
 
 ۱
-بھای کو اپنے کھو کے اماں
 جب شمر لعیں شہ کا گلا کاٹ رہا تھا
 اس دم نہیں تھے اکبر و عباس با وفا
 نظروں سے منظر دیکھ کے اماں
