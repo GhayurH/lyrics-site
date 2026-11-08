@@ -13,9 +13,9 @@ romanLyrics: |-
   Maqtal mein goonjti hai sada tashnalab hussain
   Wo tashnalab sada jo raha tashnalab hussain
   Maqtal mein goonjti hai sada tashnalab hussain
+  Haye hussain haye hussain haye hussain
 
   1
-  Haye hussain haye hussain haye hussain
   Har har qadam pa kehta hua ya ali madad
   Le kar jawaan ki laash chala tashnalab hussain
 
@@ -53,9 +53,9 @@ romanLyrics: |-
 مقتل میں گونجتی ہے صدا تشنہ لب حسین
 وہ تشنہ لب صدا جو رہا تشنہ لب حسین
 مقتل میں گونجتی ہے صدا تشنہ لب حسین
+ہاے حسین ہاے حسین ہاے حسین
 
 ۱
-ہاے حسین ہاے حسین ہاے حسین
 ہر ہر قدم پہ کہتا ہوا یا علی مدد
 لے کر جواں کی لاش چل تشنہ لب حسین
 
