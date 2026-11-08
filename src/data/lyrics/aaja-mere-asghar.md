@@ -10,8 +10,8 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaja mere asghar aaja maa ke dulaare aaja
-  Aaja mere asghar mere raj dulaare aaja
+  Aaja mere Asghar aaja maa ke dulaare aaja
+  Aaja mere Asghar mere raj dulaare aaja
 
   1
   Maa kehti thi ro kar mere raj dulaare aaja
@@ -20,43 +20,43 @@ romanLyrics: |-
   Aaja mere dilbar mere raj dulaare aaja
 
   2
-  Bhool na jaana asghar laut ke aana asghar
-  Bhool na jaana laut ke aana khauf na khaana asghar
+  Bhool na jaana Asghar laut ke aana Asghar
+  Bhool na jaana laut ke aana khauf na khaana Asghar
   Saath tere hai maadar mere raj dulaare aaja
 
   3
   Haye re kismat meri haye re ghurbat meri
   Haye re kismat haye re ghurbat lut'ti hai daulat meri
-  Kis se kahun mai jaa kar mere raj dulaare aaja
+  Kis se kahun main jaa kar mere raj dulaare aaja
 
   4
-  Rahaat e bekas aaja zaat e muqaddas aaja
-  Rahaat e bekas zaat e muqaddas dayr na kar bas aaja
-  Chalte hai dil pe khanjar mere raj dulaare aaja
+  Rahat-e-bekas aaja zaat-e-muqaddas aaja
+  Rahat-e-bekas zaat-e-muqaddas der na kar bas aaja
+  Chalte hain dil pe khanjar mere raj dulaare aaja
 
   5
-  Aah bharun mai kaise zabt karun mai kaise
-  Aah bharun mai zabt karun mai zinda rahun mai kaise
+  Aah bharun main kaise zabt karun main kaise
+  Aah bharun main zabt karun main zinda rahun main kaise
   Samjhade ye aa kar mere raj dulaare aaja
 
   6
-  Hasliyon waale aaja naazon ke paale aaja
-  Hasliyon waale naazon ke paale mere jiyaale aaja
+  Hansliyon wale aaja naazon ke paale aaja
+  Hansliyon wale naazon ke paale mere jiyaale aaja
   Chinti hai sar se chadar mere raj dulaare aaja
 
   7
-  Mehwe fughan hoo asghar girya kuna hoo asghar
-  Mehwe fughan hoo girya kuna hoo mai ek maa hoo asghar
-  Zabt karun mai kyun kar mere raj dulaare aaja
+  Mahv-e-fughan hun Asghar girya-kunan hun Asghar
+  Mehwe fughan hoo girya kuna hoo main ek maa hun Asghar
+  Zabt karun main kiun kar mere raj dulaare aaja
 
   8
   Laal sada de mujhko khud se mila de mujhko
   Laal sada de khud se mila de chehra dikhaade mujhko
-  Mai baithi hoo dar par mere raj dulaare aaja
+  Main baithi hun dar par mere raj dulaare aaja
 
   9
-  Asif aamir tere dono zaakir tere
-  Asif aamir dono zaakir dono shayer tere
+  Asif Aamir tere dono zaakir tere
+  Asif Aamir dono zaakir dono shair tere
   Dono hi nauhagar mere raj dulaare aaja
 # source_id: nohayonline:0d6bae153169a457fd1b
 # source_url: https://www.nohayonline.com/details_content.php?id=2112
@@ -68,7 +68,8 @@ romanLyrics: |-
 ۱
 ماں کہتی تھی رو کر میرے راج دلارے آجا
 جھولا جھلاوں آجا لوری سناؤں آجا
-جھولا جھلاوں لوری سناؤں آجا میرے دلبر
+جھولا جھلاؤں لوری سناؤں تجھ کو مناؤں آجا
+آجا میرے دلبر میرے راج دلارے آجا
 
 ۲
 بھول نہ جانا اصغر لوٹ کے آنا اصغر

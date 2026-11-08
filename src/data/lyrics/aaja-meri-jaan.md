@@ -10,30 +10,31 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zakhmi kaano pe haathon ko rakhe huwe
+  Zakhmi kanon pe haathon ko rakhe huwe
   Nikli qaimon se ek bacchi roti hui
-  Uska kurta jala surkh ruqsaar tha
+  Uska kurta jala surkh rukhsaar tha
   Baba baba ki wo de rahi thi sada
   Haye baba haye baba haye baba
+
   Haye larza tha uske haathon mein
   Baap ko dhoondti thi laashon mein
-  Jab wo baba ko dhoond na na paayi
+  Jab wo baba ko dhoond na paayi
   Ek laashe se ye sada aayi
-  Aaja meri jaan sakina tu kahan hai
+  Aaja meri jaan Sakina tu kahan hai
   Tera baba yahan hai
 
   1
   Aise ghabra nahi meri bacchi
   Hai tera baba tere saath abhi
-  Dhood laashon mein ek laash aisi
+  Dhoond laashon mein ek laash aisi
   Jiski ek ungli kati hai beti
-  Sun ke sakina ne kaha baba un haathon se
+  Sun ke Sakina ne kaha baba un haathon se
   Tum ne jo tohfe mein mujhe laa kar diye thay
   Shimr wo gohar le gaya baba kahan ho
   Khoon mere kaano se baha baba kahan ho
 
   2
-  Ilayya ilayya bunayya sakina
+  Ilayya ilayya bunayya Sakina
   Meri awaaz sun ke aaja idhar
   Ho chuka hai mera badan be sar
   Waar itne kiye gaye mujh par
@@ -46,7 +47,7 @@ romanLyrics: |-
   3
   Kaise pehchanogi mujhe bolo
   Mil ke maara hai tere baba ko
-  Ay meri jaan meri baat suno
+  Ae meri jaan meri baat suno
   Sab se zakhmi badan talaash karo
   Maar ke jab tumko layeen qaimon mein aaya
   Baal mere khaynche mujhe maara tamacha
@@ -58,8 +59,8 @@ romanLyrics: |-
   Aa rahi hogi beta neend tujhe
   Tu magar soyegi yahan kaise
   Mera seena bhara hai teeron se
-  Teer nikalungi mai khud nanhe haathon se
-  Baba magar soungi mai seene pe tere
+  Teer nikalungi main khud nanhe haathon se
+  Baba magar soungi main seene pe tere
   Ran mein andhera hogaya baba kahan ho
   Seena kahan dhoondun tera baba kahan ho
 
@@ -67,11 +68,11 @@ romanLyrics: |-
   Pehli manzil hai ye musibat ki
   Zulm sehna hai tujhko aur abhi
   Jo sunega tu hai meri beti
-  Aur maarega tujhko ay bibi
-  Aap ki beti hoo usay jab ye bataya
-  Jaan ke aalim ne mera daaman jalaya
+  Aur maarega tujhko ae Bibi
+  Aap ki beti hun usay jab ye bataya
+  Jaan ke zalim ne mera daaman jalaya
   Cheen ke legaya rida baba kahan ho
-  Deti rahi mai ye sada baba kahan ho
+  Deti rahi main ye sada baba kahan ho
 
   6
   Ye bhi pehchaan hai meri sun le
@@ -79,18 +80,18 @@ romanLyrics: |-
   Yun to talwarein bhi chali mujhpe
   Sab se gehre hai zakhm naizon ke
   Naize ka jab naam suna boli sakina
-  Is tarha khooli ne mujhe nazie se maara
+  Is tarha khooli ne mujhe neze se maara
   Chehre ke bal gira diya baba kahan ho
   Yaad bahot aaye chacha baba kahan ho
 
   7
-  Dhoonda zeeshan aur raza har soo
+  Dhoonda Zeeshan aur Raza har su
   Aayi jis waqt baap ki khusboo
-  Poch kar nahe haath se aansu
+  Ponchh kar nanhe haath se aansu
   Pahunchi laashe pe ho ke be-qaabu
   Gham jo sahe bhool gayi jab dekha manzar
   Ghodon se pamaal badan aur tha kata sar
-  Phir na sakina ne kaha baba kahan ho
+  Phir na Sakina ne kaha baba kahan ho
   Uth ke suno haal mera baba kahan ho
 # source_id: nohayonline:6e13f150156971c00298
 # source_url: https://www.nohayonline.com/details_content.php?id=2754
@@ -101,6 +102,7 @@ romanLyrics: |-
 اس کا کرتا جلا سرخ رخسار تھا
 بابا بابا کی وہ دے رہی تھی صدا
 ہائے بابا ہائے بابا ہائے بابا
+
 ہائے لرزہ تھا اس کے ہاتھوں میں
 باپ کو ڈھونڈتی تھی لاشوں میں
 جب وہ بابا کو ڈھونڈ نہ پائی
@@ -154,7 +156,7 @@ romanLyrics: |-
 ظلم سہنے ہیں تجھکو اور ابھی
 جو سنے گا تو ہے میری بیٹی
 اور مارے گا تجھکو اے بی بی
-آپکی بیٹی ہے اُسے جب یہ بتایا
+آپ کی بیٹی ہوں اسے جب یہ بتایا
 جان کے ظالم نے میرا دامن جلایا
 چھین کے لے گیا ردا بابا کہاں ہو
 دیتی رہی میں یہ صدا بابا کہاں ہو

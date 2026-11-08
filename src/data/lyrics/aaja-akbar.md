@@ -14,58 +14,58 @@ romanLyrics: |-
   Bete ke liye maadar ka
   Ek chaand si dulhan aaye
   Banjaye naseeb is ghar ka
-  Socha tha ye sughra ne
+  Socha tha ye Sughra ne
   Mehndi rachaungi
-  Aaja akbar tere sar pe sehra sajaungi
-  Haye akbar haye haye akbar
+  Aaja Akbar tere sar pe sehra sajaungi
+  Haye Akbar haye haye akbar
 
   1
-  Mai yaad tujhe karti hoo
+  Main yaad tujhe karti hun
   Chehra ashkon se dho kar
-  Din raat tadapti hoo mai
+  Din raat tadapti hun main
   Teri yaad mein beta ro kar
   Ek karb musalsal hai dil mein
   Ye dard jo har pal hai dil mein
   Tu na aaya to teri qasam mar jaungi aaja
-  Haye akbar haye haye akbar
+  Haye Akbar haye haye akbar
 
   2
   Ek chaand si dulhan aaye
   Ban jaaye naseeb is ghar ka
-  Ashkon sy banaungi sehra
+  Ashkon se banaungi sehra
   Tere sar pe sajaungi sehra
-  Socha tha ye sughra ne mehndi rachaungi aaja
-  Haye akbar haye haye akbar
+  Socha tha ye Sughra ne mehndi rachaungi aaja
+  Haye Akbar haye haye akbar
 
   3
   Khud tujhko banaye dulha
-  Jannat se hyder aa kar
+  Jannat se Haider aa kar
   Masnad bhi sajaye teri
-  Salman o abuzar aa kar
-  Jannat se gul e tar mangwaun
+  Salman o Abuzar aa kar
+  Jannat se gul-e-tar mangwaun
   Yun sej uroosi banwaun
   Jitne armaan dil mein hai wo dikhlaungi aaja
-  Haye akbar haye haye akbar
+  Haye Akbar haye haye akbar
 
   4
   Nabiyon ki qatarein hongi
-  Aur aage mohamed honge
+  Aur aage Muhammad honge
   Rizwan padhega sehra
   Behno ko nayg milenge
   Jannat mein charaghan bhi hoga
   Jis waqt banega tu dulha
-  Phoolon se mai ye saara jahan mehkaungi aaja
-  Haye akbar haye haye akbar
+  Phoolon se main ye saara jahan mehkaungi aaja
+  Haye Akbar haye haye akbar
 
   5
-  Qaime mein jo aaya laasha
-  Hamshakle payambar tera
+  Khaime mein jo aaya laasha
+  Hamshakl-e-Payambar tera
   Umeedein miti maadar ki
   Hasrat ka janaza nikla
   Is dil pe sitam hai furqat ka
   Kuch dosh hai meri qismat ka
   Batla mujhko ghar kaise laut ke jaungi aaja
-  Haye akbar haye haye akbar
+  Haye Akbar haye haye akbar
 
   6
   Farhan bayan is gham ka
@@ -74,8 +74,8 @@ romanLyrics: |-
   Mazhar ne likha jo nauha
   Kehti thi yehi ro kar maadar
   Maa tujhpe fida aaja akbar
-  Haasil kya phir mai qabr mein jab so jaungi aaja
-  Haye akbar haye haye akbar
+  Haasil kya phir main qabr mein jab so jaungi aaja
+  Haye Akbar haye haye akbar
 # source_id: nohayonline:07ab98b29d677c5feb3f
 # source_url: https://www.nohayonline.com/details_content.php?id=2365
 # raw_sha256: 0040d416b88044a1d147647a33c4d43b5a00871aa5bdea7e25451e711af60b99

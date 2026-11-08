@@ -1,6 +1,6 @@
 ---
 title: "آجا اے میرے بابا جان"
-alternateTitle: "Aaja Ay Mere Baba"
+alternateTitle: "Aaja Ae Mere Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,47 +10,47 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaja ay mere baba jaan
+  Aaja ae mere baba jaan
   Haye masoom sakina ne tadapkar ye kaha
 
   1
-  Raat din roti hoo karti hoo faqad yaad tujhe
+  Raat din roti hun karti hun faqat yaad tujhe
   Ek pal chain nahi aati hai zindan mein mujhe
-  Ay mere baba judaai na mai seh paaungi
+  Ae mere baba judaai na main seh paaungi
 
   2
-  Ab tere baad mai samjhi hoo yateemi kya hai
+  Ab tere baad main samjhi hun yateemi kya hai
   Door jo ghar se hui samjhi aseeri kya hai
   Dard o gham aur sitam sehti hai dukhiya teri
 
   3
-  Dekho rukhsaar pe kitne hai tamachon ke nishan
+  Dekho rukhsaar pe kitne hain tamachon ke nishan
   Jism mein dekho zara kitne hai durro ke nishan
-  Dard itne hai ke lagta hai mai marjaungi
+  Dard itne hai ke lagta hai main mar jaungi
 
   4
-  Tere seene pe hi soti thi lipat kar mai tujhe
+  Tere seene pe hi soti thi lipat kar main tujhe
   Ab bhala khaak pe neend aaye to aaye kaise
-  Haye dekho to sakina ki zara bechaini
+  Haye dekho to Sakina ki zara bechaini
 
   5
   Haye kano se lahoo ab bhi tapakta hai mera
   Aur gardan mein bhi rassi ke nishan hai gehra
-  Kitni zakhmi hoo mai aajao ye dikhlaungi
+  Kitni zakhmi hun main aajao ye dikhlaungi
 
   6
-  Aaj bhi kitni hoo pyasi mai bataun kaise
+  Aaj bhi kitni hun pyasi main bataun kaise
   Hont sookhe hai zaban khushk dikhaun kaise
-  Saans leti hoo to tharra'ta hai ye jism mera
+  Saans leti hun to tharra'ta hai ye jism mera
 
   7
-  Haye baba tere zakhmo ko nahi bhooli mai
-  Be-kafan laasha tera ab bhi nahi bhooli mai
-  Yaad mein tere tadapti hoo jiigar hai chalni
+  Haye baba tere zakhmo ko nahi bhooli main
+  Be-kafan laasha tera ab bhi nahi bhooli main
+  Yaad mein tere tadapti hun jigar hai chalni
 
   8
-  Baap ke gham mein wo aazam haye dam tod gayi
-  Qaid khane mein har ek dil ko rota chod gayi
+  Baap ke gham mein wo Azam haye dam tod gayi
+  Qaid khane mein har ek dil ko rota chhor gayi
   Phir aqif aayegi zindan se na awaaz koi
 # source_id: nohayonline:166690dabba7c84816fd
 # source_url: https://www.nohayonline.com/details_content.php?id=852

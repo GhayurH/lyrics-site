@@ -10,39 +10,39 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye shaam e ghariban mein thi zainab ki duhaai
+  Ye Shaam-e-ghariban mein thi Zainab ki duhaai
   Aaja mere bhai
-  Mai reh gayi is dasht mein tanha mere bhai
+  Main reh gayi is dasht mein tanha mere bhai
 
   1
-  Ab asghar o akbar hai na shabbir hai baaqi
+  Ab Asghar o Akbar hai na Shabbir hai baaqi
   Ghurbat hai bala ki
-  Sab lut gayi pardes mein amma ki kameini
+  Sab lut gayi pardes mein amma ki kamai
 
   2
   Ro ro ke sada deti thi wo dard ki maari
-  Ay bhai mai waari
+  Ae bhai main waari
   Mazloom behan seh nahi payegi judaai
 
   3
-  Kyun pyaas ke maaron ki nahi sunte ho aahein
-  Veraan hai nigahein
+  Kiun pyaas ke maaron ki nahi sunte ho aahein
+  Viraan hain nigahein
   Kya aisi mere bhaiya tumhe bhaayi taraai
 
   4
-  Jab zainab e dilgeer chali jaanib e zindan
+  Jab Zainab-e-dilgeer chali jaanib e zindan
   Behaal o pareshan
   Mud mud ke sada deti rahi gham ki satayi
 
   5
-  Jab shaam ke bazaar mein ye khaafila pahuncha
+  Jab shaam ke bazaar mein ye qafila pahuncha
   Ek hashr tha barpa
   Awaaz larazte huwe honton se ye aayi
 
   6
-  Ek laasha labe nehr tadap jaata tha gohar
+  Ek laasha lab-e-nehr tadap jaata tha Gohar
   Tha hashr ka manzar
-  Jab kehti thi dil thaam ke ye fatema jaayi
+  Jab kehti thi dil thaam ke ye Fatima jaayi
 # source_id: nohayonline:bebc77e14ac1c77e1857
 # source_url: https://www.nohayonline.com/details_content.php?id=1123
 # raw_sha256: 0c4da84c99fd3da80eb18959130dc83ee00332cdc6fcee24e9ca00aafb7af92a

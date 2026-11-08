@@ -1,5 +1,5 @@
 ---
-title: "زہرا میری بچی آج میری بیٹی"
+title: "زہرا میری بچی آجا میری بیٹی"
 alternateTitle: "Aaja Meri Beti"
 language: "Urdu"
 lang: "ur"
@@ -12,13 +12,13 @@ published: false
 romanLyrics: |-
   Zahra meri bachi aaja meri beti
   Aaja meri zahra
-  Marqad mein mohamed ne padha hoga ye nauha
+  Marqad mein Muhammad ne padha hoga ye nauha
   Aaja meri beti aaja meri zehra
 
   1
   Ehsaas yateemi ka sataata raha tujhko
   Har koi mere baad rulaata raha tujhko
-  Hyder ke siwa kaun tarafdaar tha tera
+  Haider ke siwa kaun tarafdaar tha tera
 
   2
   Jitne bhi huwe tujhpe sitam dekhey hai maine
@@ -26,13 +26,13 @@ romanLyrics: |-
   Maloom hai mujhko tujhe jis jis ne sataaya
 
   3
-  Darbar e sitam mein tera haq maangne jaana
+  Darbar-e-sitam mein tera haq maangne jaana
   Dekha na gaya mujhse tera laut ke aana
-  Ek mai hi nahi tadpi hai ta-dayr khadija
+  Ek main hi nahi tadpi hai ta-der Khadija
 
   4
   Mohsin ki shahadat ka mere dil pe hai sadma
-  Har pal wo raha yaad mujhe mai nahi bhoola
+  Har pal wo raha yaad mujhe main nahi bhoola
   Aa baith mere paas tujhe dena hai pursa
 
   5
@@ -46,13 +46,13 @@ romanLyrics: |-
   Jaaiz hai kare mujhse jo har zulm ka shikwa
 
   7
-  Hyder ke galay mein thi rasan dekha hai maine
+  Haider ke galay mein thi rasan dekha hai maine
   Kis tarha kiya tu ne sahan itna bata de
   Qadmon pe kai baar giri hai tere fizza
 
   8
   Marqad mein bhi aaraam kahan paana hai tujhko
-  Ay laal abhi karbobala jaana hai tujhko
+  Ae laal abhi karbobala jaana hai tujhko
   Shabbir ko waada hai abhi apna nibhana
 
   9
@@ -61,14 +61,14 @@ romanLyrics: |-
   Doobega mere khoon mein tapta hua sehra
 
   10
-  Din kaisa dikhaya hai ye taqdeer ne asif
-  Sar peet liya zainab e dilgeer ne asif
-  Aamir jo utha fatema zehra ka janaza
+  Din kaisa dikhaya hai ye taqdeer ne Asif
+  Sar peet liya Zainab-e-dilgeer ne Asif
+  Aamir jo utha Fatima Zehra ka janaza
 # source_id: nohayonline:e08ea703baa0adcfd80e
 # source_url: https://www.nohayonline.com/details_content.php?id=2126
 # raw_sha256: f74620a1dff784ac8fa24a2ec3a46f4a562dc99c067d3ec61e4b639bdcef8fb0
 ---
-زہرا میری بچی آج میری بیٹی
+زہرا میری بچی آجا میری بیٹی
 آجا میری زہرا
 مرقد میں محمد نے پڑھا ہو گا یہ نوحہ
 آجا میری بیٹی آجا میری زہرا
