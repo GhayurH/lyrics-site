@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   Hayya alal azaa hayya alal buka
   Hussain ya hussain maula hussain hussain
-
-  1
   Zabt e girya matam e sarwar may ho sakta nahi
   Sar jhuka kar baith jo majlis may ro sakta nahi
+
+  1
   Haq e girya hum azadaro se hoga kya ada
   Abr ka tukda samandar ko bhigo sakta nahi
 
@@ -44,10 +44,10 @@ romanLyrics: |-
 ---
 حیا علی العزا حیا علی البکا
 حسین یا حسین مولا حسین حسین
-
-۱
 ضبط گریہ ماتم سرور میں ہو سکتا نہیں
 سر جھکا کر بیٹھ جو مجلس میں رو سکتا نہیں
+
+۱
 حق گریہ ہم عزاداروں سے ہوگا کیا ادا
 ابر کا ٹکڑا سمندر کو بھگو سکتا نہیں
 

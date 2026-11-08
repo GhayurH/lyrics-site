@@ -14,10 +14,10 @@ romanLyrics: |-
   Aaye kaabe se sada hayya ala khairal amal
   Al-ajal ay waaris e khoon e shaheedan al-ajal
   Ay yusufe zahra
-
-  1
   Zameene karbala waale tujhe awaaz dete hai
   Bahattar bekafan laashe tujhe awaaz dete hai
+
+  1
   Hai kahin ganje shaheedan mein rakhi gathri koi
   Kisi ki laash ke tukde tujhe awaaz dete hai
 
@@ -56,10 +56,10 @@ romanLyrics: |-
 آے کعبے سے صدا حیا علی خیر العمل
 العجل اے وارث خونِ شہیداں العجل
 اے یوسف زہرا
-
-۱
 زمین کربلا والے تجھے آواز دیتے ہیں
 بہتر بیکفن لاشے تجھے آواز دیتے ہیں
+
+۱
 ہے کہیں گنج شہیداں میں رکھی گھٹڑی کوئی
 کسی کی لاش کے ٹکڑے تجھے آواز دیتے ہیں
 
