@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa kehti thi ro ro kar so jao mere beta
-  
-  1
   Masoom mere asghar so jao mere beta
   Hai karbobala mehshar so jao mere beta
+
+  1
   Nazron se layeeno ki mai tum ko bacha leti
   Mamta bhare aanchal ke saaye mein chupa leti
   Majboor hai ye maadar so jao mere beta
@@ -84,10 +84,10 @@ romanLyrics: |-
 ---
 
 ماں کہتی تھی رو رو کر سو جاؤ میرے بیٹا
-
-۱
 معصوم میرے اصغر سو جاؤ میرے بیٹا
 ہے محشر سو جاؤ میرے بیٹا
+
+۱
 نظروں سے لعینوں کی میں تم کو بچا لیتی
 ممتا بھرے آنچل کے ساے میں چھپا لیتی
 مجبور ہے یہ مادر سو جاؤ میرے بیٹا
