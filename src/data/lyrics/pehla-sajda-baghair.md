@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaj zainab karegi maqtal mein
-  
-  1
   Pehla sajda baghair chadar ke
   Roshni aur hawa ne bhi jiska
   Sar na dekha baghair chadar ke
+  
+  1
   Jisko dafna nahi saki zainab
   Bekafan tha jo dashte ghurabt mein
   Apne bhai hussain ka usne
@@ -72,13 +72,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2793
 # raw_sha256: 499716ac382fb9854f71bafc21b8707254c0b5d9d298c8baf672324c2e17f34d
 ---
-
 آج زینب کرے گی مقتل میں
-
-۱
 پہلا سجدہ بغیر چادر کے
 روشنی اور ہوا نے بھی جس کا
 سر نہ دیکھا بغیر چادر کے
+
+۱
 جس کو دفنا نہیں سکی زینب
 بیکفن تھا جو دشتِ غربت میں
 اپنے بھائی حسین کا اس نے
