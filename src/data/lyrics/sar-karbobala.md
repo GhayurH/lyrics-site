@@ -14,44 +14,44 @@ romanLyrics: |-
   Is shan se jaati hai suye shaam sawari
   Zakhmi hai badan kodon se aur khoon hai jaari
   Abbas zara dekho to haalat ko hamari
-
-  1
   Kis haal se le jaate hai hum ko ye sitamgaar
   Waaris nahi munis nahi koi nahi ghamkhwar
+  
+  1
   Sar karbobala zainab e dilgeer karegi
   Is dasht e bayaban ki tameer karegi
   Paigham e shah e waala ki tasheer karegi
   Zaalim ki har ek gaam pe tehkheer karegi
   Toofan e jafa mein gham e shabbir karegi
-
+  
   2
   Dil tadpenge mazloomi e sarwar ke asar se
   Aayegi sada rone ki deewaron se dar se
   Guzrenge aseerane bala hoke jidhar se
   Aayegi sada haye hussaina har ek ghar se
   Jab seena zani dukhtar e shabbir karegi
-
+  
   3
   Phat jayenge sehra'on ke jangal ke kaleje
   Tadpenge gham o dard se is farsh ke tapkhe
   Ta hashr na bhoolenge jinhe raah ye raste
   Chausat shame raahon mein jala'dungi safar ke
   Paband e rasan reh ke bhi tadbeer karegi
-
+  
   4
   Chaunk uthenge raaton ko jafa jo bhi alam se
   Ho jayenge shak qalb o jigar naala o gham se
   Uthegi sada girya o matam jo haram se
   Barsega lahoo sunke har ek deeda e nam se
   Shab mein jo buka maadar e shabbir karegi
-
+  
   5
   Sar nange hai ye bibiyan ay sham ke logon
   Kuch sharm o haya chahiye is tarha na dekho
   Laa kar inhe kuch zaahiri chadar hi udha do
   Ye aal e nabi hai inhe majboor na samjho
   Parda ba khuda chadar e tatheer karegi
-
+  
   6
   Likhti hai ye tareekh anees e jigar afgaar
   Zehra hai gham e shaah mein bas itni talabgaar
@@ -66,10 +66,10 @@ romanLyrics: |-
 اس شان سے جاتی ہے سوے شام سواری
 زخمی ہے بدن کوڑوں سے اور خون ہے جاری
 عباس زرا دیکھو تو حالت کو ہماری
-
-۱
 کس حال سے لے جاتے ہیں ہم کو یہ ستمگار
 وارث نہیں مونس نہیں کوئی نہیں غم خوار
+
+۱
 سر کربوبلا زینب دلگیر کرے گی
 اس دشت بیابان کی تعمیر کرے گی
 پیغام شہ والا کی تشہیر کرے گی
