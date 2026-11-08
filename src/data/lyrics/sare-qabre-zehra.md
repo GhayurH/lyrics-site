@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Andhere andhere yateemon se chup kar
+  Sare qabre zehra ali ro rahe hai
   
   1
-  Sare qabre zehra ali ro rahe hai
   Tumhari musibat bhulaunga kaise
   Mai bachon se aansu chupaunga kaise
   Tumhe yaad karke jo royenge bache
@@ -64,7 +64,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1029
 # raw_sha256: 6ae021a6635e4749e428324266457b0a38a5558d5ba105cacd512ceb01e863e7
 ---
-
 اندھیرے اندھیرے یتیموں سے چھپ کر
 سر قبر زہرا علی رو رہے ہیں
 
@@ -90,6 +89,7 @@ romanLyrics: |-
 میں جاؤں گا واپس تو بولے گا بابا
 میری ماں کہاں ہے بلادو خدارا
 اکیلے جلا کر چراغ آنسوؤں کا
+سر قبر زہرا علی رو رہے ہیں
 
 ۴
 ہے شہر نبی میں سماں کربلا کا
