@@ -1,5 +1,5 @@
 ---
-title: "تھا حکم یہ بشیر کا پانی بشر پیےء"
+title: "تھا حکم یہ یزید کا پانی بشر پیےء"
 alternateTitle: "Tha Hukm Ye Yazeed"
 language: "Urdu"
 lang: "ur"
@@ -9,7 +9,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Tha hukm ye yazeed ka pani bashar piyein
   Ghode piyein sawaar piyein aur shutar piyein
   Jo tashnalab jahan ke hai sab be-khatar piyein
@@ -20,9 +19,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1252
 # raw_sha256: 13d72bb5a063a005ef837c16ee43fdcbab366e1898cc993132042a4486e69092
 ---
-
-۱
-تھا حکم یہ بشیر کا پانی بشر پیےء
+تھا حکم یہ یزید کا پانی بشر پیےء
 گھوڑے پییں سوار پییں اور شتر پیےء
 جو تشنہ لب جہان کے ہیں سب بے خطر پییں
 یاں تک کہ سب چرند و پرند آن کر پییں

@@ -12,58 +12,58 @@ published: false
 romanLyrics: |-
   Haye afsos tu na pehchani
   Karbala se lute lutaye huwe
-  
-  1
   Tere mehman aaye hai shireen
   Apna waada nibhane naizo par
   Kuch musalman aaye hai shireen
+
+  1
   Ghar saja apna be-gharon ke liye
   Chadarein laa ke de saron ke liye
   Sar pe ghurbat ki dhoop odhe huwe
   Sab pareshan aaye hai shireen
-  
+
   2
   Ek kate sar se aa rahi thi sada
   Tere aaqa ke paas kuch na bacha
   Koi tohfa na laaye tere liye
   Hum pasheman aaye hai shireen
-  
+
   3
   Tera ghar aur kahan rasool ki aal
   Kar nabi zadiyon ka isteqbal
   Aaj tere ghareeb khane par
   Deen ke sultan aaye hai shireen
-  
+
   4
   Wo jo athara saal ka sar hai
   Umme laila ke laal ka sar hai
   Maa ke hamraah khoon mein ghaltan hai
   Maa ke armaan aaye hai shireen
-  
+
   5
   Sheh ka ghuncha dehen bhi aaya hai
   Qasim e gul badan bhi aaya hai
   Dekh apne lahoo mein doobe huwe
   Kitne quran aaye hai shireen
-  
+
   6
   Saath abbas e naamdar bhi hai
   Tere aaqa ke jaanisar bhi hai
   Raah takti thi jin ki khwabon mein
   Le wo insaan aaye hai shireen
-  
+
   7
   Kya kahe daastan e barbadi
   Ro ke kehti thi har nabi zadi
   Kho ke apna musafirat mein sabhi
   Saaz o saaman aaye hai shireen
-  
+
   8
   Hai kahan ab dil e batool ko chain
   Lut gayi ran mein kayenaat e hussain
   Ban ke sajjad apne baba ke
   Marsiya khwan aaye hai shireen
-  
+
   9
   Dil larazta tha aamir o akhtar
   Jab ye kehti thi zainab e muztar
@@ -73,14 +73,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1798
 # raw_sha256: ef6c478e57bceb4375174c167d9362dbfa39155118d6b42ad249b793986f7c17
 ---
-
 ہاے افسوس تونہ پہچانی
 کربلا سے لٹے لٹاے ہوے
-
-۱
 تیرے مہمان آے ہیں شیریں
 اپنا وعدہ نبھانے نیزوں پر
 کچھ مسلمان آے ہیں شیریں
+
+۱
 گھر سجا اپنا بے گھروں کے لئے
 چادریں لا کے دے سروں کے لئے
 سر پہ غربت کی دھوپ اوڑھے ہوے
