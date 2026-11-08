@@ -12,51 +12,43 @@ published: false
 romanLyrics: |-
   Sher e ali ki aamad hai ye
   Aate hai darya pe alamdar
-  
+  Lashkar may badi dhoom hai
+
   1
-  Lashkar may badi dhoom hai
-  
-  2
-  Lashkar may badi dhoom hai
   Jab chala mashk o alam lekar wo saqqa e haram
   Tha ali jaisa hi alamdar ka jaaho hasham
   Keh utha darya hai iske paas hyder ka alam
   Chod de saahil ko pehredaar
-  Lashkar may badi dhoom hai
-  
-  3
+
+  2
   Al-amaan ka shor utha yak ba yak maidan may
   Yun laga ke gir hi jayega falak maidan may
   Maut ka naara ye goonja door tak maidan may
   Aagaye kya hyder e karraar
-  Lashkar may badi dhoom hai
-  
-  4
+
+  3
   Taygh se likhega ye jarraar khissa maut ka
   Ek pal tootega na aada se rishta maut ka
   Hai faras tera sare maidan farishta maut ka
   Aaj tu hai bar sar e paikaar
-  Lashkar may badi dhoom hai
-  
-  5
+
+  4
   Har qadam rahwaar ke humraah chalti hai qaza
   Hai dhamak aisi larazta hai ye dashte nainawa
   Ab teri talwar se pani piyegi alqama
   Ay khudaai fauj ke salaar
-  Lashkar may badi dhoom hai
-  
-  6
+
+  5
   Zulf hai toole shabe meraj ki tasveer si
   Hai jabeene naaz koh e toor ki tanveer si
   Hai teri nazron may tezi hyderi shamsheer si
   Aa teri aamad ki ay jarraar
-  Lashkar may badi dhoom hai
-  
-  7
+
+  6
   Sunte hi us sher ki lalkaar
   Lashkar may badi dhoom hai
-  
-  8
+
+  7
   Masroof thay jihad may abbas e bawafa
   Nagaah aayi qaime ki deodi se ye sada
   Kya ab sakina pyasi hi mar jaaye ay chacha
@@ -76,54 +68,45 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=939
 # raw_sha256: 3f30795df73f446c0411e7118b709d59b4534dc29efd43e686900a1e77865758
 ---
-
 شیر علی کی آمد ہے یہ
 آتے ہیں دریا پہ علمدار
+لشکر میں بڑی دھوم ہے
 
 ۱
-لشکر میں بڑی دھوم ہے
-
-۲
-لشکر میں بڑی دھوم ہے
 جب چلا مشک و علم لیکر وہ سقاے حرم
 تھا علی جیسا ہی علمدار کا جاہ و ہشم
 کہہ اٹھا دریا ہے اس کے پاس حیدر کا الم
 چھوڑ دے ساحل کو پہریدار
-لشکر میں بڑی دھوم ہے
 
-۳
+۲
 علاماں کا شور اٹھا یک بہ یک میدان میں
 یوں لگا کے گر ہی جائے گا فلک میدان میں
 موت کا نارا یہ گونجا دور تک میدان مئی
 آگےء کیا حیدر کرار
-لشکر میں بڑی دھوم ہے
 
-۴
+۳
 تیغ سے لکھے گا یہ جرار قصہ موت کا
 اک پل ٹوٹے گا نہ اعدا سے رشتہ موت کا
 ہے فرس تیرا سر میداں فرشتہ موت کا
 آج تو ہے بر سرِ پیکار
-لشکر میں بڑی دھوم ہے
 
-۵
+۴
 ہر دم رہوار کے ہمراہ چلتی ہے قضا
 ہے دھمک ایسی لرزتا ہے یہ دشت نینوا
 اب تیری تلوار سے پانی پیے گی علقمہ
 اے خدای فوج کے سالار
-لشکر میں بڑی دھوم ہے
 
-۶
+۵
 ذلف ہے طول شب معراج کی تصویر سی
 ہے جبین ناز کوہ طور کی تنویر سی
 ہے تیری نظروں میں تیزی حیدری شمشیر سی
 آ تیری آمد کی اے جرار
-لشکر میں بڑی دھوم ہے
 
-۷
+۶
 سنتے ہی اس شیر کی للکار
 لشکر میں بڑی دھوم ہے
 
-۸
+۷
 مصروف تھے جہاد میں عباس باوفا
 ناگاہ آی خیمے کی دیوڑھی سے یہ صدا
 کیا اب سکینہ پیاسی ہی مر جائے اے چچا
