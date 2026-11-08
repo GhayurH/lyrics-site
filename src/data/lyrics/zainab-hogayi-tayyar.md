@@ -11,21 +11,20 @@ aliases: []
 published: false
 romanLyrics: |-
   Binte ali hoon naam hai zainab
-
-  1
   Waada hai tujhse bhaiya
   Rang layega khoon tera
   Dhal gaya ashoor ka din lut gaya ghar baar
   Zainab hogayi tayyar
   Jayegi darbar ban ke hyder e karrar
   Zainab hogayi tayyar
+
+  1
   Jaa rahi hoon qaid ho kar haan magar waada raha
   Mere bhai mai kabhi sar jhukne na doongi tera
   Naam ay bhai tera zinda rakhungi sada
   Teri karbala ko aam kar ke shaam apne naam kar ke
   Aaungi wapas mai bhaiya
   Yaad hai mujhko teri baiyat ka wo inkaar
-  Zainab hogayi tayyar
 
   2
   Na rukungi chaahe jitni bhi ho shiddat pyas ki
@@ -34,7 +33,6 @@ romanLyrics: |-
   Nabeena uski nasl hogi hashr tak ye baat meri
   Bhoolenge shaami na wallah
   Sar pe mere haath rakh do bas uth kar ek baar
-  Zainab hogayi tayyar
 
   3
   Jab tilawat tum karoge naize pe quran ki
@@ -43,7 +41,6 @@ romanLyrics: |-
   Keh do yazeed se ye jaa kar haar hai tera muqaddar
   Jeeta hai bas bhai mera
   Ay zameen e karbala ke syed aur sardar
-  Zainab hogayi tayyar
 
   4
   Saani e zehra hoon mujhko sirf hai chadar ka gham
@@ -52,7 +49,6 @@ romanLyrics: |-
   Islam ka alam utha kar usko uske ghar mai jaa kar
   Maaregi ye zainab tanha
   Kaat degi usko mere khutbon ki talwaar
-  Zainab hogayi tayyar
 
   5
   Bolna hai ab jalaale hyder e karrar mein
@@ -61,7 +57,6 @@ romanLyrics: |-
   Sab dekh lenge kya hai zainab yun lagega ruk gaya sab
   Hoga kuch aisa sannata
   Goonjegi darbar mein jab uskut ki lalkaar
-  Zainab hogayi tayyar
 
   6
   Aansu apne ponch kar farhan o zeeshan abidi
@@ -70,27 +65,25 @@ romanLyrics: |-
   Har ghar mein hoga tera matam aaj se har das muharram
   Dunya mein hoga ashoora
   Khatm na hogi qayamat tak teri sarkar
-  Zainab hogayi tayyar
 # source_id: nohayonline:557c8bd9bb0fc5028316
 # source_url: https://www.nohayonline.com/details_content.php?id=3660
 # raw_sha256: c96295855281630418db377e24e82ee9860310a774cb574a055d2c224aad8fdb
 ---
 بنت علی ہوں نام بھی ہے زینب
-
-۱
 وعدہ ہے تجھ سے بھیا
 رنگ لاے گا خوں تیرا
 ڈھل گیا عاشور کا دن لٹ گیا گھر بار
 زینب ہو گیء تیار
 جاے گی دربار بن کے حیدر کرار
 زینب ہو گیء تیار
+
+۱
 جا رہی ہوں قید ہو کر ہاں مگر وعدہ رہا
 میرے بھائی میں کبھی سر جھکانے نہ دونگی تیرا
 نام اے بھای تیرا زندہ رکھوں گی صدا
 تیری کربلا کو عام کر کے شام اپنے نام کر کے
 آؤں گی واپس میں بھیا
 یاد ہے مجھکو تیری بیعت کا وہ انکار
-زینب ہو گیء تیار
 
 ۲
 نہ رکوں گی چاہے جتنی بھی ہو شدت پیاس کی
@@ -99,7 +92,6 @@ romanLyrics: |-
 نا بینا اس کی نسل ہوگی حشر تک یہ بات میری
 بھولیں گے شامی نہ واللہ
 سر پہ میرے ہاتھ رکھ دو بس اٹھ کر ایک بار
-زینب ہو گیء تیار
 
 ۳
 جب تلاوت تم کرو گے نیزے پہ قرآن کی
@@ -108,7 +100,6 @@ romanLyrics: |-
 کہہ دو یزید سے یہ جا کر ہار ہے تیرا مقدر
 جیتا ہے بس بھای میرا
 اے زمین کربلا کے سید اور سردار
-زینب ہو گیء تیار
 
 ۴
 ثانیء زہرا ہوں مجھکو صرف ہے چادر کا غم
@@ -117,7 +108,6 @@ romanLyrics: |-
 اسلام کا علم اٹھا کر اس کو اس کے گھر میں جا کر
 مارے گی یہ زینب تنہا
 کاٹ دے گی اس کو میرے خطبوں کی تلوار
-زینب ہو گیء تیار
 
 ۵
 بولنا ہے اب جلال حیدر کرار میں
@@ -126,7 +116,6 @@ romanLyrics: |-
 سب دیکھ لیں گے کیا ہے زینب یوں لگے گا رک گیا سب
 ہوگا کچھ ایسا سناٹا
 گونجے گی دربار میں جب اس کٹ کی للکار
-زینب ہو گیء تیار
 
 ۶
 آنسوں اپنے پونچھ کر فرحان و زیشان عابدی
@@ -135,4 +124,3 @@ romanLyrics: |-
 ہر گھر میں ہوگا تیرا ماتم آج سے ہر دس محرم
 دنیا میں ہوگا عاشورہ
 ختم نہ ہوگی قیامت تک تیری سرکار
-زینب ہو گیء تیار
