@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Qataluka atashana
-  
-  1
   Zabahuka ibrana
   Ya hussaina ya hussaina
   Ya hussaina ya hussaina
+  
+  1
   Hai fiza mein teri khushboo
   Thame kaise mere aansu
   Hai shikasta mera pehlu
@@ -72,13 +72,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3613
 # raw_sha256: 5e31ebe67f47151aa972753ff4790b6c610cee517d2ddf9ec4514c582c5999b9
 ---
-
 قتلک عطشنا
-
-۱
 ذبحک ابرانا
 یا حسینا یا حسینا
 یا حسینا یا حسینا
+
+۱
 ہے فضا میں تیری خوشبو
 تھامے کیسے میرے آنسوں
 ہے شکستہ میرا پہلو
