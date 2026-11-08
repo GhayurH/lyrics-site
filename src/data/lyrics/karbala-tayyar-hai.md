@@ -12,44 +12,41 @@ published: false
 romanLyrics: |-
   Masjid bhi ro rahi hai kaaba bhi ro raha hai
   Hyder ka qatl kya hai aaghaaz e karbala hai
-
-  1
   Karbala tayyar hai karbala tayyar hai
   Khoone hyder keh raha hai karbala tayyar hai
   Sogh mein doobi fiza hai karbala tayyar hai
-  Khoone hyder keh raha hai karbala tayyar hai
 
-  2
+  1
   Aaye jab masjid se ghar mein zakhmi ho kar murtaza
   Baap ko tar khoon mein dekha ro ke zainab ne kaha
   Ab mujhe aisa laga hai karbala tayyar hai
 
-  3
+  2
   Aagayi sakte mein fizza kyun ye kya jaane koi
   Paaon mein baithi thi beti aur sarhane koi
   Keh ke ghazi chup khada hai karbala tayyar hai
 
-  4
+  3
   Umme haani aur khadija ro ke ye kehne lagi
   Is qadar hai zakhm gehra khoon mein tar hai jabeen
   Haan ye manzar keh raha hai karbala tayyar hai
 
-  5
+  4
   Fajr se yun rote rote bol uthi shaam e aza
   Rozadaron khaak udao hai ye ayyaam e e aza
   Dil sabhi ka sochta hai karbala tayyar hai
 
-  6
+  5
   Phaynk kar chadar saron se betiyan hai mehwe gham
   Shaahe deen nauha kuna hai baith kar zer e alam
   Binte zehra berida hai karbala tayyar hai
 
-  7
+  6
   Pehla gham zehra ka jaana doosra hyder ka gham
   Khud saf e matam bicha kar bol uthe shaah e umam
   Farshe gham ki ibteda hai karbala tayyar hai
 
-  8
+  7
   Ab kahan taab e sukhan hai bas labon par jaan hai
   Safdar o mazhar ye nauha dard ka quran hai
   Ek mukammal marsiya hai karbala tayyar hai
@@ -59,44 +56,41 @@ romanLyrics: |-
 ---
 مسجد بھی رو رہی ہے کعبہ بھی رو رہا ہے
 حیدر کا قتل کیا ہے آغاز کربلا ہے
-
-۱
 کربلا تیار ہے کربلا تیار ہے
 خون حیدر کہہ رہا ہے کربلا تیار ہے
 سوگ میں ڈوبی فضا ہے کربلا تیار ہے
-خون حیدر کہہ رہا ہے کربلا تیار ہے
 
-۲
+۱
 آے جب مسجد سے گھر میں زخمی ہو کر مرتضیٰ
 باپ کو تر خون میں دیکھا رو کے زینب نے کہا
 اب مجھے ایسا لگا ہے کربلا تیار ہے
 
-۳
+۲
 آ گیء سکتے میں فضہ کیوں یہ کیا جانے کوی
 پاؤں میں بیٹھی تھی بیٹی اور سرہانے کوئی
 کہہ کے غازی چپ کھڑا ہے کربلا تیار ہے
 
-۴
+۳
 ام ہانی اور خدیجہ رو کے یہ کہنے لگی
 اس قدر ہے زخم گہرا خون میں تر ہے جبیں
 ہاں یہ منظر کہہ رہا ہے کربلا تیار ہے
 
-۵
+۴
 فجر سے یوں روتے روتے بول اٹھی شام عزا
 روزہ داروں خاک اڑاؤ ہے یہ ایام عزا
 دل سبھی کا سوچتا ہے کربلا تیار ہے
 
-۶
+۵
 پھینک کر چادر سروں سے بیٹیاں ہے محوِ غم
 شاہ دیں نوحہ کناں ہے بیٹھ کر زیر علم
 بنت زہرا بے ردا ہے کربلا تیار ہے
 
-۷
+۶
 پہلا غم زہرا کا جانا دوسرا حیدر کا غم
 خود صف ماتم بچھا کر بول اٹھے شاہ امم
 فرش غم کی ابتداء ہے کربلا تیار ہے
 
-۸
+۷
 اب کہاں تاب سخن ہے بس لبوں پر جان ہے
 صفدر و مظہر یہ نوحہ درد کا قرآن ہے
 اس مکمل مرثیہ ہے کربلا تیار ہے
