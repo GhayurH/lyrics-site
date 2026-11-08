@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Khuda ke ghar may sar e musalla
-  
-  1
   Khuda ka chehra lahoo lahoo hai
   Layeen ki zarbat se aaj dekho
   Hassan ka baba lahoo lahoo hai
+
+  1
   Uthaya beton ne zakhmi baba
   Amama shabbar ne phir bandhaya
   Kiya ali ne khuda ko sajda
@@ -62,11 +62,11 @@ romanLyrics: |-
 ---
 
 خدا کے گھر میں سر مصلہ
-
-۱
 خدا کا چہرہ لہو لہو ہے
 لعیں کی ضربت سے آج دیکھو
 حسن کا بابا لہو لہو ہے
+
+۱
 اٹھایا بیٹوں نے زخمی بابا
 عمامہ شبر نے پھر بندھایا
 کیا علی نے خدا کو سجدہ
