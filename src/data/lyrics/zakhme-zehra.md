@@ -11,18 +11,18 @@ aliases: []
 published: false
 romanLyrics: |-
   Zahra pa sitam ye kaisa hua
-  
-  1
   Zainab ne ye poocha hyder se
   Kya maara hai zaalim ne baba
   Pehlu ko maa ke pathar se
+
+  1
   Ye haath pe kisne zulm kiya
   Batlaiye mujhko baba ali
   Durron se badi bedardi se
   Kunfuz ne maara tha beti
   Phir us din se allah ki qasam
   Tasbeeh hi na uthi maadar se
-  
+
   2
   Phir poocha bilak kar zainab ne
   Ye neel hai kaise shaano par
@@ -30,7 +30,7 @@ romanLyrics: |-
   Kehne lage hyder ye ro kar
   Phir choom ke beti ke baazu
   Roye hai lipat kar dukhtar se
-  
+
   3
   Baba ye zakhm jo hai sar par
   Ye kaise laga batlao mujhe
@@ -38,22 +38,24 @@ romanLyrics: |-
   Ay beti bataun kaise tujhe
   Talwaar se zaalim ne maara
   Yun khoon bhi jaari hai sar se
+
+  4
   Sab zakhm to bhar hi gaye baba
   Pehlu se magar khoon hai jaari
   Jalta hua dar pehlu pe gira
   Sar peet ke ye kehte hai ali
   Phir durron se talwaron se
   Aur zakhm lage hai khanjar se
-  
-  4
+
+  5
   Maa zahra ke chehre par ye
   Kaise hai nishan mere baba
   Moo phayr ke maara chehre par
   Hyder ne phir kuch bhi na kaha
   Baba ke aansu beti ne
   Phir ponche apni chadar se
-  
-  5
+
+  6
   Maa ki mazloomi par zainab
   Hyder se lipat kar rone lagi
   Ye dekh ke roohe mohamed ne
@@ -64,13 +66,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1341
 # raw_sha256: 33ca547864f66f6c7b6548987ef5256b59741e87b6b7aae109949b21ffe1cda4
 ---
-
 زہرا پہ ستم یہ کیسا ہوا
-
-۱
 زینب نے یہ پوچھا حیدر سے
 کیا مارا ہے ظالم نے بابا
 پہلو کو ماں کے پتھر سے
+
+۱
 یہ ہاتھ پہ کس نے ظلم کیا
 بتلایےء مجھکو بابا علی
 دروں سے بڑی بے دردی سے
@@ -93,6 +94,8 @@ romanLyrics: |-
 اے بیٹی بتاؤں کیسے تجھے
 تلوار سے ظالم نے مارا
 یوں خون بھی جاری ہے سر سے
+
+۴
 سب زخم تو بھر ہی گےء بابا
 پہلو سے مگر خون ہے جاری
 جلتا ہوا در پہلو پہ گرا
@@ -100,7 +103,7 @@ romanLyrics: |-
 پھر دروں سے تلواروں سے
 اور زخم لگے ہیں خنجر سے
 
-۴
+۵
 ماں زہرا کے چہرے پر یہ
 کیسے ہیں نشاں میرے بابا
 منہ پھیر کے مارا چہرے پر
@@ -108,7 +111,7 @@ romanLyrics: |-
 بابا کے آنسوں بیٹی نے
 پھر پوچھنے اپنی چادر سے
 
-۵
+۶
 ماں کی مظلومی پر زینب
 حیدر سے لپٹ کر رونے لگی
 یہ دیکھ کے روحِ محمد نے
