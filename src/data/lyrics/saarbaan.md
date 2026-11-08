@@ -9,122 +9,58 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Saarbaan saarbaan
-
+romanLyrics: |-
+  Saarbaan saarbaan
   Maula ghum zada natawan sarbaan
-
-
+  
   1
-
-  1) Waapis madine agaya lo karwaan ujra huwa
-
+  Waapis madine agaya lo karwaan ujra huwa
   Ujri thi saari bibiyan, Sajjad ka nawha ye tha
-
   Roenge tauqo beriyan
-
   Who Shaam aur may alamaan
-
   Aisa bana may saarbaan
-
-
+  
   2
-
-  2) Logo Madina lutgaya
-
+  Logo Madina lutgaya
   Koi nahin mere siva
-
   Daghon se he sina bhara
-
   Tanha karun kya kya bayaan
-
-
+  
   3
-
-  3) Hajat talaq who mehrebaan
-
+  Hajat talaq who mehrebaan
   Abbas who meere karwaan
-
   Mara gaya kya nagahaan
-
   Akhir liye unka nishaan
-
-
+  
   4
-
-  4) Kitna kathan tha who safar
-
+  Kitna kathan tha who safar
   Nezon pe the pyaron ke sar
-
   Uthti na thi meri nazar
-
   Beparda behne aur maa
-
-
+  
   5
-
-  5) Gham tha qayamat se bara
-
+  Gham tha qayamat se bara
   Charo taraf the ashkiya
-
   Naamus meri berida
-
   Rota tha sun sun kar azaa
-
-
+  
   6
-
-  6) Kya ronake bazaar thi
-
+  Kya ronake bazaar thi
   Patthar ki bhi bochhar thi
-
   Aur who hasi kuffar ki
-
   Khamosh thi meri zabaan
-
-
+  
   7
-
-  7) Us shaam ke bazaar ne
-
+  Us shaam ke bazaar ne
   Who gham diye darbaar ne
-
   Jab may laga lalkaarne
-
   Dene lage zaalim azaan
-
-
+  
   8
-
-  8) Hajat talaq who mehrebaan
-
-  Abbas who meere karwaan
-
-  Mara gaya kya nagahaan
-
-  Akhir liye unka nishaan
-
-
-  9
-
-  9) Logo madina lutgaya
-
-  Koi nahin mere siva
-
-  Daghon se hay sina bhara
-
-  Tanha karun kya kya bayaan
-
-
-  10
-
-  10. "Rehan-o-sarwar" umr bhar
-
+  Rehan o sarwar umr bhar
   Aankhein rahengi nawha gar
-
   Jis waqt farshe dard par
-
-  Nawhay may hogaya ye bayaan'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+  Nawhay may hogaya ye bayaan
 # source_id: nohayonline:966ad8d15c0d5e44fbed
 # source_url: https://www.nohayonline.com/details_content.php?id=2058
 # raw_sha256: a023069f67bccfec7c1e5347bec8f013df9e4a1c7018f467fe145d788b7496f7
@@ -132,7 +68,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_url: https://www.ziyaraat.net/api/noha/411
 # raw_sha256: dd56190bc8ee163519111fdc7d68c74b48bd76adfffc1e614235d9dd441fe949
 ---
-
+سارباں سارباں
 مولا غمزدہ ناتواں سارباں
 
 ۱
