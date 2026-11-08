@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa keh rahi hai rakh kar
-  Zaanu pe khoon bhara sar
-  Aankhein to khol akbar
-  Aankhein to khol akbar
+  Zanu pe khun bhara sar
+  Aankhein to khol Akbar
+  Aankhein to khol Akbar
 
   1
   Pehchaan lo to jaano
@@ -22,26 +22,26 @@ romanLyrics: |-
   Haalat hai kya hamari
 
   2
-  Sehre ki har ladi to
+  Sehre ki har lari to
   Ashkon mein dhal gayi hai
-  Mehendi ki thi jo hasrat
-  Wo khoon mal gayi hai
+  Mehndi ki thi jo hasrat
+  Wo khun mal gayi hai
 
   3
-  Sarhane dekho sughra
+  Sarhane dekho Sughra
   Ka naamawar khada hai
   Dekho to gird beta
   Sab ghar ka ghar khada hai
 
   4
   Khursheed sa ye chehra
-  Sab khoon mein bhar gaya hai
+  Sab khun mein bhar gaya hai
   Dekho to maa ke dil mein
-  Naiza utar gaya hai
+  Neza utar gaya hai
 
   5
-  Lab par ye umme laila
-  Ke hai naved naala
+  Lab par ye Umm-e-Laila
+  Ke hai Naved naala
   Tum kya gaye gaya hai
   Ghar se mere ujaala
 # source_id: nohayonline:cb0587cc4ecbd2b01214

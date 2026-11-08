@@ -10,57 +10,57 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aamad aamad haram e shaah ki darbar may hai
-  Subho se jashn ka ghul shaam ke bazaar may hai
-  Shor e faryad o buka itrat e athaar may hai
+  Aamad aamad haram-e-Shah ki darbar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar mein hai
+  Shor-e-faryad o buka Itrat-e-Athaar mein hai
 
   1
   Hukm aaya hai aseeron ko barabar maaro
-  Jashan ka waqt hai durre inhe has kar maaro
+  Jashn ka waqt hai durre inhein hans kar maaro
   Ek manadi ye nida deta hai aao logon
-  Baaghi aaye hai inhe shauk se pathar maaro
+  Baaghi aaye hain inhe shauk se pathar maaro
 
   2
-  Khoon may dooba hua sadaat ka har chehra hai
+  Khun mein dooba hua sadaat ka har chehra hai
   Girya kar sakte nahi aah pe bhi pehra hai
   Sang baari ki aziyat bhi badi hai lekin
   Zakham sadqe ki khajooron ka bohat gehra hai
 
   3
-  Dekh kar aal e mohamed ko hase jaate hai
-  Log har mod pe bas taane diye jaate hai
-  Chadare kya hai kafan bhi nahi deta koi
-  Zinda laashe liye sajjad chale jaate hai
+  Dekh kar Aal-e-Muhammad ko hanse jaate hain
+  Log har mod pe bas taane diye jaate hain
+  Chadarein kya hai kafan bhi nahi deta koi
+  Zinda laashe liye Sajjad chale jaate hai
 
   4
-  Mustakil aal e mohamed may azadari hai
-  Aur beemar ki aankhon se lahoo jaari hai
-  Berida shaam ke bazaar may aate hai haram
+  Mustaqil Aal-e-Muhammad may azadari hai
+  Aur bimar ki aankhon se lahoo jaari hai
+  Berida Shaam ke bazaar mein aate hai haram
   Aisa lagta hai kisi eid ki tayyari hai
 
   5
   Jholi bhar bhar ke sitamgaar hai laaye pathar
   Patharon ne bhi hai haathon may uthaye pathar
-  Nok e naiza se gira khaak pe sar asghar ka
-  Aray chote bachon se sakina ne jo khaye pathar
+  Nok-e-neza se gira khaak pe sar Asghar ka
+  Aray chote bachon se Sakina ne jo khaye pathar
 
   6
-  Baab e saa'at pe bhi zakhmo se bhare hai qaidi
+  Bab-e-saat pe bhi zakhmo se bhare hai qaidi
   Hai waram paaon pe paidal jo chale hai qaidi
   Aray log tash'heer ke khanjar liye aamaada hai
   Teen din ho gaye maqtal may khade hai qaidi
 
   7
-  Haye darbar may jaane ki ghadi kaisi thi
-  Hausla deti rahi sab ko ali ki beti
+  Haye darbar mein jaane ki ghadi kaisi thi
+  Hausla deti rahi sab ko Ali ki beti
   Saat sau kursi nasheen door se dekhe jis dam
-  Thaam kar apni kamar binte ali baith gayi
+  Thaam kar apni kamar bint-e-Ali baith gayi
 
   8
-  Waada beti se nibhane ke liye aaye ali
-  Saani e zehra takallum paye tazeem uthi
-  Is ghareebi pe tadapne lagi rooh e zehra
-  Baap ke saath jo beti sar e darbar gayi
+  Waada beti se nibhane ke liye aaye Ali
+  Saani-e-Zehra Takallum paye tazeem uthi
+  Is ghareebi pe tadapne lagi ruh-e-Zehra
+  Baap ke saath jo beti sar-e-darbar gayi
 # source_id: nohayonline:0af41b9a5687e8cdc979
 # source_url: https://www.nohayonline.com/details_content.php?id=1901
 # raw_sha256: 76cd6c025e3aca3b782838a451118fe759a3f9b6d36c32c210b9a90dcc7ab30f

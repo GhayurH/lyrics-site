@@ -1,5 +1,5 @@
 ---
-title: آنکھیں ترس گئ ہیں اکبر کے دیکھنے کو
+title: آنکھیں ترس گئی ہیں اکبر کے دیکھنے کو
 alternateTitle: Aankhein Taras Gayi
 language: Urdu
 lang: ur
@@ -9,51 +9,36 @@ poet: "Anees Pehersari"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Aankhein taras gayi hai akbar ke dekhne ko
-
-  Ali akbar ali akbar
-
+romanLyrics: |-
+  Ali Akbar Ali Akbar
+  Sughra ne khat mein likha dil muztarib hai mera
+  Reh reh ke chha raha hai aankhon tale andhera
+  Aankhein taras gayi hain Akbar ke dekhne ko
+  Ali Akbar Ali Akbar, Ali Akbar Ali Akbar
 
   1
-
   Laila ke lab pe har dam rehta tha ek naala
-
-  Wo tha to us ke dam se ghar mein tha ek ujaala
-
+  Hota to us ke dam se ghar mein tha ek ujala
 
   2
-
-  At jayenge wo gaysoo sab khaak mein lahoo mein
-
-  Ye din bhi dekhna thay sehre ki aarzoo mein
-
+  At jaenge wo gesu sab khaak mein lahu mein
+  Ye din bhi dekhna thay sehre ki aarzu mein
 
   3
-
-  Phir eid aayi sabne pehne naye libaday
-
-  Aaye nahi palat kar ummat ke shaahzade
-
+  Zainab se ho ke rukhsat jab ran ko wo chala tha
+  Har koi barh ke us ke maathe ko chumta tha
 
   4
-
-  Khursheed sa wo chehra rangat mein tha sunehra
-
-  Palkon ki chilmano par tha abru''on ka pehra
-
+  Sunte hain uska chehra sab khun mein bhar gaya tha
+  Kehte hain uske sar mein neza utar gaya tha
 
   5
-
-  Sunte hai uska chehra sab khoon mein bhar gaya tha
-
-  Kehte hai uske dil mein naiza utar gaya tha
-
+  Phir Eid aayi sab ne pehne naye libade
+  Aaye nahi palat kar ummat ke shahzade
 
   6
-
-  Zainab se hoke ruqsat jab ran ko wo chala tha
-
-  Har koi badke uske maathe ko choomta tha'
+  Khursheed sa wo chehra rangat mein tha sunehra
+  Palkon ki chilmanon par tha abruon ka pehra
 # source_id: nohayonline:bda6dc20a37a45294a90
 # source_url: https://www.nohayonline.com/details_content.php?id=267
 # raw_sha256: 5b8e35e9b53d817e0a87bc6f41ff35933e37f2ffdd5a8e421a746fc243156695
@@ -64,9 +49,9 @@ romanLyrics: 'Aankhein taras gayi hai akbar ke dekhne ko
 ---
 
 علی اکبرؑ علی اکبرؑ
-صغراؑ نے خط میں لکھا دل مضطرب یے میرا
+صغراؑ نے خط میں لکھا دل مضطرب ہے میرا
 رہ رہ کے چھا رہا ہے آنکھوں تلے اندھیرا
-آنکھیں ترس گیئں ہیں اکبرؑکے دیکھنے کو
+آنکھیں ترس گئیں ہیں اکبرؑ کے دیکھنے کو
 علی اکبرؑ علی اکبرؑ، علی اکبرؑ علی اکبرؑ
 
 ۱
@@ -75,7 +60,7 @@ romanLyrics: 'Aankhein taras gayi hai akbar ke dekhne ko
 
 ۲
 اٹ جائیں گے وہ گیسو،سب خاک میں لہو میں
-یہ دن بھی دیکھنا تھے سہرے کی آرزومیں
+یہ دن بھی دیکھنا تھے سہرے کی آرزو میں
 
 ۳
 زینبؑ سے ہو کے رخصت، جب رن کو وہ چلا تھا
