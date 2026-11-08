@@ -5,12 +5,13 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: ["Abal Hasan Mola Shah E Khurasan Mir Hasan Lyrics 2024"]
 published: false
 romanLyrics: |-
-  Zamin-e-Aahu Raza, shafa-e-roz-e-jaza
+  Zaamin-e-Aahu Raza, shafa-e-roz-e-jaza
   Aashiq-e-Karb o Bala, jaan o dil-e-Fatima
   Abal Hasan Maula, Abal Hasan Maula, Abal Hasan Maula Shah-e-Khurasan
   Aap Sakhi ibn-e-Sakhi, aap Rauf o Rahman
@@ -67,10 +68,9 @@ romanLyrics: |-
 # source_id: tajpoints:899a46902b996e90991f
 # source_url: https://tajpoints.com/2024/05/abal-hasan-mola-shah-e-khurasan-mir.html
 # raw_sha256: 6bfd9ba6825bb2264e22161bcfc4c9aad413733c364f844e52ef17187caac398
-# editorial_uncertainty: Urdu reconstructed from Roman-only Tajpoints page. Arabic invocations and terms including Muzif and Qayam require verification.
+# editorial_uncertainty: Urdu manually corrected. fix roman
 ---
-زمینِ آہو رضا، شفائے روزِ جزا
-عاشقِ کرب و بلا، جان و دلِ فاطمہ
+ضامنِ آہو رضا، شافعِ روزِ جزا، عاشقِ کرب و بلا، جان و دلِ فاطمہ
 ابا الحسن مولا، ابا الحسن مولا، ابا الحسن مولا شاہِ خراسان
 آپ سخی ابنِ سخی، آپ رؤف و رحمان
 
@@ -80,8 +80,8 @@ romanLyrics: |-
 دستِ خدا بن کے سدا کرتے ہیں سب پہ احسان
 
 ۲
-پڑھتا ہوں جس وقت میں انعمت علیہم
-دل سے صدا آتی ہے اے عزتِ قیام
+پڑھتا ہوں جس وقت مَیں اَنعمتَ عَلیہِم
+دل سے صدا آتی ہے اے عزتِ قائم
 تیری ولا دے کے کیا ہم پہ خدا نے احسان
 
 ۳
@@ -92,7 +92,7 @@ romanLyrics: |-
 ۴
 دن میں نظر آ گئے مفتی کو ستارے
 بھول گیا یاد تھے جتنے بھی سپارے
-غور سے جب اس نے پڑھا سورۂ آلِ عمران
+غور سے جب اس نے پڑھا سورۂِ آلِ عمران
 
 ۵
 عرض ہے یہ آپ سے اے مولا رضا جان
@@ -107,7 +107,7 @@ romanLyrics: |-
 ۷
 کلمۂ حق قلعۂ توحیدِ جلی ہے
 اس میں مگر داخلے کی شرط علی ہے
-ہے بخدا لکھا ہوا دل پہ میرے یہ فرمان
+ہے باخدا لکھا ہوا دل پہ میرے یہ فرمان
 
 ۸
 قم کی زیارت کو جو لوگو کبھی جانا
@@ -117,7 +117,7 @@ romanLyrics: |-
 ۹
 ہم کو سدا آپ نے مولا ہے سنبھالا
 رنج سے مشکل سے بلاؤں سے نکالا
-لے کے خبر بارِ دگر کیجیے مشکل آسان
+لے کے خبر بارِ دِگر کیجیے مشکل آسان
 
 ۱۰
 جاری رہیں آلِ محمد کی عطائیں
