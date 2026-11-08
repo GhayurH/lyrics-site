@@ -11,49 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   Hote rehte thay jise hulla-e-firdos ata
-  
-  1
   Wo shahenshahe zaman jisko kafan bhi na mila
+
+  1
   Wo muhamad ka nawasa wo hussain ibne ali
   Gulshan e fatema zehra ki wo masoom kali
   Naam hai panjatan e paak mein ba harfe jali
   Hurmate deen-e-khuda jis ki shahadat mein dhali
-  
+
   2
   Jhoola jibreel ne bachpan mein jhulaya wo hussain
   Dosh par jisko payambar ne bithaya wo hussain
   Jis pe quran ke paaron ka tha saaya wo hussain
   Pani dil khol ke dushman ko pilaya wo hussain
   Haye us bekas-o-nadaar ko pani na diya
-  
+
   3
   Dasht mein ghayr liya jisko bulakar mehman
   Saamne jis ke tadapta raha akbar sa jawan
   Khaynchli jisne jawan bete ke seene se sina
   Jiske haathon pe huwa qatl pisar guncha dahan
   Aakhri naasir-e-mazloom bhi jis ka na raha
-  
+
   4
   Khoob rote hai jo apna koi mar jaata hai
   Laasha be waali-o-waris ka kafan paata hai
   Aur taras khaake usay koi bhi dafnata hai
   Taziyat ke liye dushman bhi chala aata hai
   Haye afsos jigar gosha-e-mehboob-e-khuda
-  
+
   5
   Haye pamaal huwi laashe hussain ibne ali
   Bhai ki laash pe mazloom bahan ro na saki
   Laashe uryan pe lahoo chasme falak roti thi
   Kalma padte thay payambar ka aur haste thay shaki
   Laash par jamti thi khaaq aur ye deti thi sada
-  
+
   6
   Parchame hazrate abbas uthane waale
   Rahe abaad azakhane sajane waale
   Aur salamat rahay nauhon ko sunane waale
   Ghame sarwar mein hai jo ashk bahane waale
   Fatema zehra unhe khuld mein deti hai dua
-  
+
   7
   Zikre maula mein qalam rok na apna mehshar
   Dekh zainab ke nahi sar pe abhi tak chadar
@@ -64,11 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=431
 # raw_sha256: b1770464ba29bbdfb68b49212d6fa5a80e94bffac34ab37e4d1de00b609f3a10
 ---
-
 ہوتے رہتے تھے جسے ہُلہِ فردوس عطا
+وہ شہنشاہِ زمن، جس کو کفن بھی نہ ملا
 
 ۱
-وہ شہنشاہِ زمن، جس کو کفن بھی نہ ملا
 وہ محمد کا نواسہ وہ حسین ابنِ علی
 گُلشنِ فاطمہ زہرا کی وہ معصوم کلی
 نام ہے پنجتنِ پاک میں با حرفِ جلی

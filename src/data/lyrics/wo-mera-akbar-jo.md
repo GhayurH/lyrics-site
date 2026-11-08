@@ -14,12 +14,12 @@ romanLyrics: |-
   Umme laila ab ali akbar ko payegi kahan
   Dekhti hai jab jawano ko galay milte hue
   Roke kehti hai ajab hum karbala mein lut gaye
-
-  1
   Mai kaise dulha banaun khaak mein sehra liye
   Jee na paungi mai apne naujawan ko bhool ke
   Wo mera akbar jo tha shadi se pehle mar gaya
   Umme laila umr padti rahi ye marsiya
+
+  1
   Kis tarha dekhun jawano ko galay milte huwe
   Jee na paungi mai apne naujawan ko bhool ke
   Dekh kar saaya bhi lagta hai ke akbar hai mera
@@ -66,12 +66,12 @@ romanLyrics: |-
 ام لیلیٰ اب علی اکبر کو پاے گی کہاں
 دیکھتی ہے جب جوانوں کو گلے ملتے ہوئے
 روکے کہتی ہے عجب ہم کربلا میں لٹ گےء
-
-۱
 میں کیسے دولہا بناؤں خاک میں سہرا لیےء
 جی نہ پاؤں گی میں نوجواں کو بھول کے
 وہ میرا اکبر جو تھا شادی سے پہلے مر گیا
 ام لیلیٰ عمر بھر پڑھتی رہی یہ مرثیہ
+
+۱
 کس طرح دیکھوں جوانوں کو گلے ملتے ہوئے
 جی نہ پاؤں گی میں اپنے جواں کو بھول کے
 دیکھ کر سایہ بھی لگتا ہے کہ اکبر ہے میرا
