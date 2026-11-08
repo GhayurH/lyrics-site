@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Tere sahare toot gaye kya
   Apne paraye rooth gaye kya
-  Roothe huon ko apne manao
+  Ruthe huon ko apne manao
 
   4
   Jab gham rulaye jab dil ho bojhal
@@ -38,36 +38,36 @@ romanLyrics: |-
 
   5
   Saaye mein mere abhi bhi hai rehti
-  Meri sakina pyari bhatiji
+  Meri Sakina pyari bhatiji
   Jab aao bacchon ko saath lao
 
   6
-  Khush hogi tum se meri sakina
+  Khush hogi tum se meri Sakina
   Garmi ka jab bhi aaye mahina
   Pani parindo ko bhi pilao
 
   7
-  Ay mere aaqa ke pursadaron
-  Ay nauhakhwano matam guzaron
+  Ae mere aaqa ke pursadaron
+  Ae nauhakhwano matam guzaron
   Jao jahan bhi majlis karao
 
   8
   Mere alam par bibiyon aana
   Sar ko khudara apne chupana
-  Sab en sataya tum na satao
+  Sab ne sataya tum na satao
 
   9
-  Aat muharram parcham saja kar
+  Aath Muharram parcham saja kar
   Bacchon ko apne saqqa bana kar
-  Naam e sakina pani pilao
+  Naam-e-Sakina paani pilao
 
   10
-  Beta hoon mai bhi mushkil kusha ka
-  Pyara hoon mai bhi haajat rawa ka
+  Beta hun main bhi Mushkilkusha ka
+  Pyara hun main bhi Hajatrawa ka
   Thokar lage jab jab chot khao
 
   11
-  Rehaan o sarwar wo din bhi aaye
+  Rehan o Sarwar wo din bhi aaye
   Ghazi ye keh kar hum ko bulaye
   Hum hai tumhare tum gham na khao
 # source_id: nohayonline:0b62c0ea696a718a2ac7
@@ -126,7 +126,7 @@ romanLyrics: |-
 نام سکینہ پانی پلاؤ
 
 ۱۰
-بیٹا ہوں میں بھی مشکل کا
+بیٹا ہوں میں بھی مشکل کشا کا
 پیارا ہوں میں بھی حاجت روا کا
 ٹھوکر لگے جب جب چوٹ کھاؤ
 

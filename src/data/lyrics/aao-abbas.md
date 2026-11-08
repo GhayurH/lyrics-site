@@ -1,5 +1,5 @@
 ---
-title: "یا کاشف الکربی یا اخی یا عباس"
+title: "یا کاشف الکرب یا اخی یا عباس"
 alternateTitle: "Aao Abbas"
 language: "Urdu"
 lang: "ur"
@@ -10,30 +10,30 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya kashif al karbi ya aqi abbas
-  Ya abbas shah abbas ya abbas
-  Zere khanjar kaha mazloom ne aao abbas
-  Shimr sar kaatne wala hai bachao abbas
+  Ya Kashif al-karb ya akhi ya Abbas
+  Ya Abbas Shah Abbas ya Abbas
+  Zer-e-khanjar kaha mazloom ne aao Abbas
+  Shimr sar kaatne wala hai bachao Abbas
 
   1
-  Karb shabbir ke chehre se hatane waale
-  Ay mujhe ranj o musibat se chudane waale
-  Aaj phir farz wohi apna nibhao abbas
+  Karb Shabbir ke chehre se hatane waale
+  Ae mujhe ranj o musibat se chudane waale
+  Aaj phir farz wohi apna nibhao Abbas
 
   2
   Saamne bachon ke aisa bhi kabhi hota hai
   Aisi gustaakhi ye karta hai ke dil rota hai
-  Shimr se aake meri zulfein chudao abbas
+  Shimr se aake meri zulfein chhurao Abbas
 
   3
   Kabhi khanjar ye dikhata hai kabhi hasta hai
-  Rakh ke quran pe zaanu ye layeen baitha hai
-  Kaun hoo mai ye isay yaad dilao abbas
+  Rakh ke Quran pe zaanu ye layeen baitha hai
+  Kaun hun main ye isay yaad dilao abbas
 
   4
   Usko karta hoo ishare nahi jaati bachi
   Minnate karti hai qaatil ki hamari beti
-  Mere pehlu se sakina ko uthao abbas
+  Mere pehlu se Sakina ko uthao abbas
 
   5
   Do sada aaye na maqtal mein meri maajayi
@@ -42,8 +42,8 @@ romanLyrics: |-
 
   6
   Jeete jee ahle haram jaan se guzar jayenge
-  Zibha hote huwe dekhenge to mar jayenge
-  Uth'ke parda dare qaima ka girao abbas
+  Zibh hote huwe dekhenge to mar jayenge
+  Uth ke parda dar-e-khaima ka girao abbas
 
   7
   Sar qalam ho mera mujhko hai gawara bhaiya
@@ -53,17 +53,17 @@ romanLyrics: |-
   8
   Berida dasht mein hojaye na meri hamsheer
   Aakhri baat hai phir kuch na kahega shabbir
-  Leke zainab ko madine chale jao abbas
+  Leke Zainab ko Madine chale jao abbas
 
   9
   Laasha ek nehr pe uth'ta tha kabhi girta tha
-  Ibne zehra jo takallum ye sada deta tha
-  Aakhri waqt hai yaseen sunao abbas
+  Ibn-e-Zehra jo Takallum ye sada deta tha
+  Aakhri waqt hai Yasin sunao abbas
 # source_id: nohayonline:f455ab981f8fcb242545
 # source_url: https://www.nohayonline.com/details_content.php?id=127
 # raw_sha256: 9cae064006479c845b40cb14db37db07ca4d3124afdbbbbcc49b9492311c9140
 ---
-یا کاشف الکربی یا اخی یا عباس
+یا کاشف الکرب یا اخی یا عباس
 یا عباس شاہ یا عباس
 زیر خنجر کہا مظلوم نے آؤ عباس
 شمر سر کاٹنے والا ہے بچاؤ عباس

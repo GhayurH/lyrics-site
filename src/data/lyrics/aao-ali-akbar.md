@@ -9,77 +9,47 @@ poet: "Hyder"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Girta hai pidar ran mein sambhalo ali akbar
-
-  Aao ali akbar aao ali akbar
-
+romanLyrics: |-
+  Girta hai pidar ran mein sambhalo Ali Akbar
+  Aao Ali Akbar aao Ali Akbar
 
   1
-
-  Zakhmo se mere khaak chudao mere dilbar
-
+  Zakhmon se mere khaak chhurao mere dilbar
 
   2
-
-  Furqat mein teri shaam o seher karti hai girya
-
+  Furqat mein teri shaam o sehar karti hai girya
   Ye haal hai uska
-
   Batlao ke ab kaise jiyegi teri maadar
 
-
   3
-
-  Athara baras jis ne tujhe laad se paala
-
-  Bachon se zyada
-
-  Sar peet thi hai gham mein tere zainab e muztar
-
+  Atharah baras jis ne tujhe laad se paala
+  Bachchon se zyada
+  Sar pitti hai gham mein tere Zainab-e-muztar
 
   4
-
-  Har aan teri yaad mein sughra ka hai nauha
-
+  Har aan teri yaad mein Sughra ka hai nauha
   Kab aayenge bhaiya
-
-  Takti hai madine mein tera raasta khwahar
-
+  Takti hai Madine mein tera raasta khwahar
 
   5
-
-  Jeeta tha tujhe dekh ke har pal mere jaani
-
-  Ay yusuf e saani
-
-  Ab shakl dam e nahza dikhado mere dilbar
-
+  Jita tha tujhe dekh ke har pal mere jaani
+  Ae Yusuf-e-Saani
+  Ab shakl dam-e-naza dikha do mere dilbar
 
   6
-
-  Ghere hai sitamgaar pidar kisko pukare
-
-  Tum chod sidhaare
-
+  Ghere hain sitamgar pidar kisko pukare
+  Tum chhor sidhare
   Ab paas nahi koi bhatija na baradar
 
-
   7
-
-  Peeri mein jawan laal ki mayyat ko uthana
-
-  Bachon ko bulana
-
+  Piri mein jawan laal ki mayyat ko uthana
+  Bachchon ko bulana
   Furqat teri guzri hai bahot shaaq pidar par
 
-
   8
-
-  Nauha gham e shabbir mein hyder ne likha hai
-
+  Nauha gham-e-Shabbir mein Haider ne likha hai
   Lab par ye dua hai
-
-  Maqbool ye ho jaaye bara e ali akbar'
+  Maqbul ye ho jaaye bara-e-Ali Akbar
 # source_id: nohayonline:1f1903af1061d4ca6ab0
 # source_url: https://www.nohayonline.com/details_content.php?id=1753
 # raw_sha256: fd7c75fc86511d5a650454da2cbda9ab778165b741b30048914b872f4ec9ed3a

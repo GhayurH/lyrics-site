@@ -10,16 +10,16 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Binte ali ke liye hashr ka hai saamna
-  Nargha e aada mein hai aale nabi berida
-  Aagaya bazaar aao alamdaar
+  Bint-e-Ali ke liye hashr ka hai saamna
+  Nargha-e-aada mein hai Aal-e-Nabi berida
+  Aa gaya bazaar aao Alamdar
   Naaqon pe mehmil nahi sar pe bhi chadar nahi
   Kaun dilaye rida koi baradar nahi
-  Shaane kataye huwe shere jari so gaya
+  Shaane kataaye huwe Sher-e-Jari so gaya
 
   1
-  Haye kahan aagayi fatema ki betiyan
-  Aayi na bandi kahan aur kahan saydaniya
+  Haye kahan aagayi Fatima ki betiyan
+  Aayi na bandi kahan aur kahan sayyidaniyan
   Khatm bhala hoga kab zulm ka ye silsila
 
   2
@@ -28,19 +28,19 @@ romanLyrics: |-
   Sar ko uthaate nahi hazrate zainul abaa
 
   3
-  Fikr hai bemaar ko kaise bataunga mai
-  Dil pe guzarti hai jo kaise sunaunga mai
+  Fikr hai bimar ko kaise bataunga main
+  Dil pe guzarti hai jo kaise sunaunga main
   Chaahne waala koi aise mein gar mil gaya
 
   4
-  Aale payambar hai wo qaid jo rassi mein hai
-  Waaris e kausar hai wo qaid jo rassi mein hai
+  Aal-e-Payambar hai wo qaid jo rassi mein hai
+  Waris-e-Kausar hai wo qaid jo rassi mein hai
   Aur sakina hai wo kasta hai jis ka gala
 
   5
   Bibiyan jo qaid hai waaris e tatheer hai
-  Dukhtare khairul wara khwahare shabbir hai
-  Bain sune to koi roti hai khud fatema
+  Dukhtar-e-Khair-ul-Wara khwahar-e-Shabbir hai
+  Bain sune to koi roti hai khud Fatima
 
   6
   Aankhon mein laila ki hai khoon bhari akbar ki laash
@@ -48,17 +48,17 @@ romanLyrics: |-
   Laadlon ki suratein dhoondhti hai maamta
 
   7
-  Naizon pe akbar bhi hai asghar e baysheer bhi
-  Aun o mohamed bhi hai qasim e dilgeer bhi
+  Nezon pe Akbar bhi hai Asghar-e-beshir bhi
+  Aun o Muhammad bhi hai Qasim-e-dilgeer bhi
   Wo sar e abbas hai naize se jo gir pada
 
   8
   Zabt kahan tak kare binte ali ka jigar
-  Kab se ye saydaniya hai dare saa'aat par
+  Kab se ye sayyidaniyan hai dare saa'aat par
   Uth ke najaf se zara dekhlo mushkil kusha
 
   9
-  Nayyar o aamir ye dil gham wo bhulata nahi
+  Nayyar o Aamir ye dil gham wo bhulata nahi
   Saahib e ghairat wahan sar ko uthaata nahi
   Aaj bhi hum shaam mein pahunche to nauha padha
 # source_id: nohayonline:3610f165124886a5308d
@@ -74,7 +74,7 @@ romanLyrics: |-
 
 ۱
 ہاے کہاں آ گیء فاطمہ کی بیٹیاں
-آیینہ بندی کہاں اور کہاں سیدانیاں
+آئینہ بندی کہاں اور کہاں سیدانیاں
 ختم بھلا ہو گا کب ظلم کا یہ سلسلہ
 
 ۲
