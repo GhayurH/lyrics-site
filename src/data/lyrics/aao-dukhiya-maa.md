@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   Aao dukhiya maa gohrave
-  Asghar pyare saanjh bhayee
+  Asghar pyare saanjh bhayi
   Tum bin manwa chain na paawe
 
   1
-  Yaad ma tori neer bahat hai
+  Yaad ma tori nir bahat hai
   Nain daras ko vyakul hai
-  Aas ka bandhan toot na jaave
+  Aas ka bandhan tut na jaave
 
   2
   Behna ka mann roye raha hai
-  Yaad ma tori ay baalak
+  Yaad ma tori ae baalak
   Kaun sakina ko samjhaye
 
   3
   Kilkaari bhar bhar ke hamka
-  Dekhat raaho ay asghar
+  Dekhat raaho ae Asghar
   Koi nahi ab jo muskawe
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Dusht ki sena zulm na dhaave
 
   5
-  Haye aseem ek dukhiya maa jab
+  Haye Aseem ek dukhiya maa jab
   Bain karat hai ro ro kar
   Ye sun kar naina bhar aawe
 # source_id: nohayonline:00cbc11c67baf3fc2e51
@@ -49,7 +49,7 @@ romanLyrics: |-
 ۱
 یاد ما تہری نیر بہت ہے
 نین درس کو ویاکل ہے
-اس کا بندھن ٹوٹ نہ جاوے
+آس کا بندھن ٹوٹ نہ جاوے
 
 ۲
 بہنا کا من روے رہا ہے

@@ -10,33 +10,32 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haae Akber Haa Akber haae haae akber
-  Aao Khaleel dekho aagaaz hai fughaan ka
-  Kaandhe zaeef ke par, laashaa hai nawjawaan ka
+  Aao Khalil dekho aaghaz hai fughan ka
+  Kandhe zaif ke par, laasha hai naujawan ka
 
   1
-  Thaamo Khaleel dil ko shayad na dekh paao
-  Hamshakle Mustafa ke, sine me phal sina ka
+  Thamo Khalil dil ko shayad na dekh paao
+  Hamshakl-e-Mustafa ke, sine mein phal sina ka
 
   2
-  Pardon mein jisko paala atthara saal zainab
+  Pardon mein jisko paala atharah saal Zainab
   Do-lakht hai kaleja maqtal mein us jawan ka
 
   3
-  Yaseen ke jigar se sheh khaynchte hai barchi
-  Dil gham se phat na jaaye qaime ke dar pe maa ka
+  Yasin ke jigar se sheh khinchte hain barchi
+  Dil gham se phat na jaaye khaime ke dar pe maa ka
 
   4
-  Bechain hogayi hai subhe ashoor asghar
-  Andaaz hoo bahoo hai akbar teri azan ka
+  Bechain hogayi hai subh-e-Ashur Asghar
+  Andaaz hu ba hu hai Akbar teri azan ka
 
   5
-  Sughra se koi kehdo bibi diye bujhalo
-  Na aayega palat kar hamshakl nana jaan ka
+  Sughra se koi keh do Bibi diye bujha lo
+  Na aayega palat kar hamshakl Nana jaan ka
 
   6
-  Akbar ke paak khoon se rangeen hai khaak e karbal
-  Rang laal hogaya hai jawaad aasman ka
+  Akbar ke paak khun se rangeen hai khaak-e-Karbal
+  Rang laal hogaya hai Jawad aasman ka
 # source_id: nohayonline:790ad7a2f971c5311210
 # source_url: https://www.nohayonline.com/details_content.php?id=2947
 # raw_sha256: f58eb602b1965e5e9e7604fe1c95d94218248d643d02743dbe461e60c6285436

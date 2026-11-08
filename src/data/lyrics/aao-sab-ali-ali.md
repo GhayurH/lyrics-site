@@ -5,78 +5,78 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ali haq hai ali haq hai ali haq hai ali ali ali
-  Jidhar haq hai udhar maula
-  Jidhar maula udhar haq hai ali
-  Aao sab ail ali karein ali ali karein
-  Ali wali ke naam e pak se agar tumhe hai pyar
-  Aao sab ali ali karein ali ali karein
-  Ail ali ail ali ail ali ail ali ail ali
+  Ali haq hai Ali haq hai Ali haq hai Ali Ali Ali
+  Jidhar haq hai udhar Maula
+  Jidhar Maula udhar haq hai Ali
+  Aao sab Ali Ali karein
+  Ali Wali ke naam-e-pak se agar tumhein hai pyar
+  Aao sab Ali Ali karein
+  Ali Ali Ali Ali Ali Ali Ali Ali Ali
 
   1
-  Likha ali padha ali kaha ali suna ali
-  Pilaya maa ne doodh mein bas ek naam ya ali
+  Likha Ali parha Ali kaha Ali suna Ali
+  Pilaya maa ne doodh mein bas ek naam ya Ali
   Nagar nagar gali gali chaman chaman kali kali
   Dono haath uthao aur dil se bolo baar baar
 
   2
-  Malang ki sada ali hai sab ka aasra ali
-  Kaha hai jibraeel ne faqat hai la fatah ali
-  Zameen zameen falak falak ali ki har jaga jhalak
+  Malang ki sada Ali hai sab ka aasra Ali
+  Kaha hai Jibrail ne faqat hai La Fata Ali
+  Zameen zameen falak falak Ali ki har jagah jhalak
   Qalandar o malang ki zuban pe hai yehi pukar
 
   3
-  Ghadeer aur mubahila khuda ka ghar ho ya kisa
-  Nabi ke saath saath hai ali ba-hukme kibriya
-  Qadam qadam liye alam nabi ke saath dam ba-dam
-  Ali chale hai is tarha ke maan ke saath sheer khwar
+  Ghadir aur Mubahila khuda ka ghar ho ya kisa
+  Nabi ke saath saath hai Ali ba-hukm-e-Kibriya
+  Qadam qadam liye alam Nabi ke saath dam ba dam
+  Ali chale hain is tarha ke maan ke saath sheer khwar
 
   4
-  Khudaya kaisa maujza ali ke naam ko diya
-  Ke jisne ya ali kaha buland martaba hua
+  Khudaya kaisa mojiza Ali ke naam ko diya
+  Ke jisne ya Ali kaha buland martaba hua
   Ali ke gun jo gayega kamal e fan wo payega
-  Milegi nusrat e ali to fatha hogi hamkinaar
+  Milegi nusrat-e-Ali to fatha hogi hamkinaar
 
   5
-  Waseela e nijaat hai shaoor e deeniyat hai
-  Khuda ke saath hai ali khuda ali ke saath hai
-  Khuda khuda ali ali sada jo harf mein dhali
-  Alam nabi ne de diya khuda ne bheji zulfiqar
+  Wasila-e-nijat hai shaoor e deeniyat hai
+  Khuda ke saath hai Ali Khuda Ali ke saath hai
+  Khuda Khuda Ali Ali sada jo harf mein dhali
+  Alam Nabi ne de diya khuda ne bheji Zulfiqar
 
   6
-  Nazar jo karbala gayi to rooh tharthara gayi
-  Galay pe thi hussain ke baqa e deen mein churi
+  Nazar jo Karbala gayi to ruh tharthara gayi
+  Gale pe thi Husain ke baqa-e-din mein churi
   Zuban zuban jigar jigar haram tamam nauhagar
-  Pukarti thi bibiyan tamam ho ke ashk baar
+  Pukarti thi Bibiyan tamam ho ke ashk baar
 
   7
   Rida saron se chin gayi bacha nahi sitam koi
-  Ali ki betion ke jab rasan galon mein bandh gayi
+  Ali ki betiyon ke jab rasan galon mein bandh gayi
   Buka buka fughan fughan fiza ki shaam dhuan dhuan
   Ali ki pyari betiyan pukari ho ke beqarar
 
   8
   Alam shadeed hai bahot abhi yazeed hai bahot
-  Kiye yazeed e asr ne jawan shaheed hai bahot
-  Utho utho chalo chalo alam ali ka thaam lo
-  Mita do khaak mein chalo yazeediyon ka iqtedar
+  Kiye Yazid-e-asr ne jawan shaheed hai bahot
+  Utho utho chalo chalo alam Ali ka thaam lo
+  Mita do khaak mein chalo Yazidiyon ka iqtedar
 
   9
-  Aseer gham zada haram jigar ke khoon se aankh nam
+  Asir ghamzada haram jigar ke khoon se aankh nam
   Qadam qadam pe sakhtiyan qadam qadam naye sitam
-  Lahoo lahoo dil o jigar bada ajeeb tha safar
+  Lahu lahu dil o jigar bada ajeeb tha safar
   Thay aabile jo paaon mein to aablon mein laakh khaar
 
   10
   Ali ki saari zindagi munafiqat ki maut thi
   Samajh mein jis ki aagaya ali ka tarz e zindagi
   Nafas nafas qadam qadam ali ke ishq ki qasam
-  Imam e asr ka usay rehaan ho ga intezaar
+  Imam-e-Asr ka usay Rehan hoga intezar
 # source_id: nohayonline:4e2a680355e369ac3f76
 # source_url: https://www.nohayonline.com/details_content.php?id=2585
 # raw_sha256: 2fd1ab4565f560d559dc52de56ca7dcc116e748bf96e85167b6f66d49c2e7fc6
@@ -144,7 +144,7 @@ romanLyrics: |-
 تھے آبلے جو پاؤں میں تو آبلوں میں لاکھ خار
 
 ۱۰
-علی کی ساری زندگی منافقت کے موت تھی
+علی کی ساری زندگی منافقت کی موت تھی
 سمجھ میں جس کی آ گیا علی کا طرز زندگی
 نفس نفس قدم قدم علی کے عشق کی قسم
 امام عصر کا اسے ریحان ہو گا انتظار

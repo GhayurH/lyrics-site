@@ -1,5 +1,5 @@
 ---
-title: "آئو ہم کریں یہ شہ کا ماتم"
+title: "آؤ ہم کریں یہ شہ کا ماتم"
 alternateTitle: "Aao Hum Karein"
 language: "Urdu"
 lang: "ur"
@@ -11,68 +11,68 @@ aliases: []
 published: false
 romanLyrics: |-
   Aao hum karein ye sheh ka matam
-  Ay hussainiyo
+  Ae Husainiyo
   
   1
-  Majlise aza jahan hui hai
-  Wo makan irum se kam nahi hai
+  Majlis-e-aza jahan hui hai
+  Wo makan Iram se kam nahi hai
   Dekh kar ye bole chand taare
   Har haseen jagah se ye haseen hai
-  Sache dil se jo aayega yahan
+  Sachche dil se jo aayega yahan
   Dil ki aarzoo payega yahan
-  Sheh ke gham mein karlo aankhein purnam
+  Sheh ke gham mein kar lo aankhein purnam
   
   2
-  Tashnalab sakina ki sabeelein
+  Tashnalab Sakina ki sabeelein
   Kis haseen tarhe se ye saji hai
-  Aaj bhi mashk o alam ki nizbat
+  Aaj bhi mashk o alam ki nisbat
   Chacha aur bhatiji se judi hai
-  Shehed se shireen iska zaaeqa
+  Shehad se shirin iska zaaeqa
   Har maraz ki hai bas yehi dawa
-  Ye aza hai zakhme dil ka marham
+  Ye aza hai zakhm-e-dil ka marham
   
   3
-  Matami juloos shahe deen ka
-  Parcham e abbas hai nigehban
-  Ismat e alam ke waaste tum
-  Kardo apne jaan o dil ko qurban
-  Parchame ghazi jo uthayega
-  Zehra ki dua wo shaks payega
+  Matami julus Shah-e-Din ka
+  Parcham-e-Abbas hai nigehban
+  Ismat-e-alam ke waaste tum
+  Kar do apne jaan o dil ko qurban
+  Parcham-e-Ghazi jo uthayega
+  Zehra ki dua wo shakhs payega
   Uncha hi rahega apna parcham
   
   4
-  Har amal se ooncha ho gaya ye
+  Har amal se uncha ho gaya ye
   Sheh ke gham mein jo ashk bahe hai
-  Ashk e gham hai motiyon ke maanid
+  Ashk-e-gham hai motiyon ke maanid
   Kaakni rumaal mein sajay hai
-  Zakire hussain gham shuda bhi hai
-  Gham mein mubtila ambiya bhi hai
-  Ji usool deen ka hai ye gham
+  Zakir-e-Husain gham shuda bhi hai
+  Gham mein mubtila ambiya bhi hain
+  Ji usul-e-din ka hai ye gham
   
   5
-  Farshe gham jahan jahan bicha hai
+  Farsh-e-gham jahan jahan bicha hai
   Arsh ke farishte bhi wahin hai
-  Karte hai nabi bhi aah o zaari
-  Jaani iski zainabe hazeen hai
-  Matami yahan murtuza bhi hai
-  Nauhago yahan fatema bhi hai
+  Karte hain Nabi bhi aah o zaari
+  Jaani iski Zainab-e-hazin hai
+  Matami yahan Murtaza bhi hain
+  Nauhago yahan Fatima bhi hain
   Hai badi pur noor majlise gham
   
   6
   Nauha marsiya ki ye sadayein
   Goonjti hai jab kabhi faza mein
   Paata hai sukoon muztarib dil
-  Zikre shahe deen ki diya mein
-  Hai aza e shah haq ka raasta
-  Aake tum yahan maanglo dua
+  Zikr-e-Shah-e-Din ki diya mein
+  Hai aza-e-Shah haq ka raasta
+  Aa ke tum yahan maang lo dua
   Sheh ka naam lete raho har dam
   
   7
   Majlis o matam mein raat bhar jo
-  Jaagti rehti hai jinki aankhein
-  Arshe aaftab se munawer
+  Jaagti rehti hai jin ki aankhein
+  Arsh-e-aftab se munawer
   Hashr mein hoti hai unki aankhein
-  Ahmed o mohsin ki ye sada hai
+  Ahmad o Mohsin ki ye sada hai
   Dono ki is gham se hi baqa hai
   Karte hai nauha ye dono baaham
 # source_id: nohayonline:d4d0ccc28c676631d2f7
@@ -80,7 +80,7 @@ romanLyrics: |-
 # raw_sha256: a255c0fa0a1a6ed0d033f303c20e03973b6ff8b4c450d06a8195ea26eae671b5
 ---
 
-آئو ہم کریں یہ شہ کا ماتم
+آؤ ہم کریں یہ شہ کا ماتم
 اے حسینیو
 
 ۱

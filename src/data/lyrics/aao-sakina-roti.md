@@ -10,55 +10,55 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aao sakina roti hai
-  Abbas abbas aao sakina roti hai
+  Aao Sakina roti hai
+  Abbas Abbas aao Sakina roti hai
 
   1
-  Jangal hai soona kya karoo
-  Kya haal hai kis se kahoo
-  Palkon pe ashke gham liye
-  Moo ashkon se wo dhoti hai
+  Jangal hai suna kya karun
+  Kya haal hai kis se kahun
+  Palkon pe ashk-e-gham liye
+  Munh ashkon se wo dhoti hai
 
   2
-  Zehra ke dil jaane ali
+  Zehra ke dil jaan-e-Ali
   Murjha gayi gham se kali
-  Gowhar chine kurta jala
+  Gauhar chhine kurta jala
   Uftaad us par hoti hai
 
   3
-  Shimr e layeen se darti hai
+  Shimr-e-lain se darti hai
   Jab yaad tumko karti hai
   Marti hai tere gham mein wo
   Bechain o muztar hoti hai
 
   4
-  Usko tasalli deti hoo
-  Aaoge bhaiya kehti hoo
-  Bolo kahoo mai kya karoo
+  Usko tasalli deti hun
+  Aaoge bhaiya kehti hun
+  Bolo kahun main kya karun
   Be-kal wo gham se hoti hai
 
   5
-  Nanhi si jaan laakhon sitam
+  Nanhi si jaan lakhon sitam
   Hai ek us par gham pe gham
-  Seena kahan shabbir ka
+  Sina kahan Shabbir ka
   Kab chain se wo soti hai
 
   6
-  Zaalim ke us par kode hai
-  Tum saath jab se chode hai
+  Zalim ke us par kore hain
+  Tum saath jab se chhore hain
   Seene pe sone waali thi
   Wo khaak par ab soti hai
 
   7
   Kaise nehr par so gaye
-  Bin bhai ke hum hogaye
+  Bin bhai ke hum ho gaye
   Zainab ki thi ran mein sada
-  Shaam o sehar wo roti hai
+  Shaam o sehar wo roti thi
 
   8
-  Sabir ghame abbas mein
-  Bali sakina pyaas mein
-  Iqbal binte shaahe deen
+  Sabir gham-e-Abbas mein
+  Bali Sakina pyaas mein
+  Iqbal bint-e-Shah-e-Din
   Ammu ke gham mein roti hai
 # source_id: nohayonline:182305338c47e9a18bcf
 # source_url: https://www.nohayonline.com/details_content.php?id=829
@@ -75,7 +75,7 @@ romanLyrics: |-
 
 ۲
 زہرا کے دل جان علی
-مرجھا گیء غم سے کلی
+مرجھا گئی غم سے کلی
 گوہر چھنے کرتا جلا
 افتاد اس پر ہوتی ہے
 
@@ -86,8 +86,8 @@ romanLyrics: |-
 بے چین و مضطر ہوتی ہے
 
 ۴
-اسکو تسلی دیتی ہوں
-آیںگے بھیا کہتی ہوں
+اس کو تسلی دیتی ہوں
+آئیں گے بھیا کہتی ہوں
 بولو کہوں میں کیا کروں
 بے کل وہ غم سے ہوتی ہے
 

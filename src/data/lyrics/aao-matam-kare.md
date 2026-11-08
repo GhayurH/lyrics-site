@@ -10,63 +10,63 @@ aliases: []
 published: false
 romanLyrics: |-
   Aao matam karein aao matam karein
-  Zeb e farshe aza hogayi sayyeda
+  Zeb-e-farsh-e-aza ho gayi sayyeda
 
   1
-  Aansu'on ki rida rukh pe daale huve
-  Aakhri hichki ye dil sambhale huve
-  Gham ki tehzeeb mein khud ko dhaale huve
-  Tum ho sadiyon se ye dard paale huve
-  Zeenat e lab rahe zikre karbobala
+  Aansuon ki rida rukh pe daale huwe
+  Aakhri hichki ye dil sambhale huwe
+  Gham ki tehzib mein khud ko dhaale huwe
+  Tum ho sadiyon se ye dard paale huwe
+  Zinat-e-lab rahe zikr-e-Karbobala
 
   2
   Rok sakta nahi jabr dena tumhe
-  Hai payambar ka haasil waseela tumhe
-  Daad deti hai jannat se zehra tumhe
-  Haq ne baksha hai gham ka saleekha tumhe
-  Rooh ka faisla zehan o dil ki sada
+  Hai payambar ka haasil wasila tumhein
+  Daad deti hai jannat se Zehra tumhein
+  Haq ne baksha hai gham ka saliqa tumhein
+  Ruh ka faisla zehan o dil ki sada
 
   3
   Shamiyon ke sitam bhool sakte nahi
-  Sabre shahe umam bhool sakte nahi
-  Daastan e alam bhool sakte nahi
-  Aale ahmed ka gham bhool sakte nahi
-  Daamane rooh par naqsh hai karbala
+  Sabr-e-Shah-e-Umam bhool sakte nahi
+  Dastan-e-alam bhool sakte nahi
+  Aal-e-Ahmad ka gham bhool sakte nahi
+  Daman-e-ruh par naqsh hai karbala
 
   4
-  Laash qasim ki tukde huwi dasht mein
-  Qalbe akbar pa barchi lagi dasht mein
-  Nanhe asghar ki gardan chidi dasht mein
-  Hogaye qatl abbas bhi dasht mein
-  Lut gaya dasht mein gulshan e fatema
+  Laash Qasim ki tukde huwi dasht mein
+  Qalb-e-Akbar pa barchi lagi dasht mein
+  Nanhe Asghar ki gardan chidi dasht mein
+  Ho gaye qatl Abbas bhi dasht mein
+  Lut gaya dasht mein gulshan-e-Fatima
 
   5
-  Choor zakhmon se hai fatema ka pisar
-  Hai jabeen sajdae haq mein qam farsh par
+  Chur zakhmon se hai Fatima ka pisar
+  Hai jabeen sajda-e-Haq mein kham farsh par
   Kund khanjar se kat'ta hai pyase ka sar
-  Khoon chehre pe malte hai khairul bashar
+  Khoon chehre pe malte hain Khair-ul-Bashar
   Az zameen ta falak ab hai shore buka
 
   6
-  Ab padar ko sakina kahan payegi
+  Ab padar ko Sakina kahan payegi
   Kis ke seene pe bachi ko neend aayegi
   Yaad baba jab aayenge ghabrayegi
-  Narghaye ahle shar hai kahan jayegi
-  Dhayr lashon ke hai khoon hai bikhra huwa
+  Nargha-e-ahl-e-shar hai kahan jayegi
+  Dher lashon ke hai khoon hai bikhra huwa
 
   7
   Gham naseebo ke qaime jalaye gaye
   Farsh par arsh waale bithaye gaye
   Ek bachi ko durre lagaye gaye
   Jitne mumkin thay sab zulm dhaye gaye
-  Ek bemaar aahan mein jakda gaya
+  Ek bemaar aahan mein jakra gaya
 
   8
-  Aal ka gham magar juzve emaan hai
-  Ashq aayat hai dard quran hai
+  Aal ka gham magar juzv-e-iman hai
+  Ashq aayat hai dard Quran hai
   Hashr ka marhala kitna aasan hai
-  Daaghe matam hi bakshish ka saaman hai
-  Jazb karlo usi ashq mein karbala
+  Daagh-e-matam hi bakshish ka saaman hai
+  Jazb kar lo usi ashq mein karbala
 # source_id: nohayonline:316be3148e601ee6d9fd
 # source_url: https://www.nohayonline.com/details_content.php?id=105
 # raw_sha256: bd906af1c3fd79a45a78e16f073dc84a60ca2dd37bd1f5eec4412a1fc7ddc678
@@ -77,12 +77,12 @@ romanLyrics: |-
 ۱
 آنسوؤں کی ردا رخ پہ ڈالے ہوئے
 آخری ہچکی یہ دل سنبھالے ہوئے
-غم کی تہذیب میں قد کو ڈھالے ہوئے
+غم کی تہذیب میں خود کو ڈھالے ہوئے
 تم ہو صدیوں سے یہ درد پالے ہوئے
 زینت لب رہے ذکر کربوبلا
 
 ۲
-روک سکتی نہیں جبر دینا تمہیں
+روک سکتا نہیں جبر دینا تمہیں
 ہے پیمبر کا حاصل وسیلہ تمہیں
 داد دیتی ہیں جنت سے زہرہ تمہیں
 حق نے بخشا ہے غم کا سلیقہ تمہیں
