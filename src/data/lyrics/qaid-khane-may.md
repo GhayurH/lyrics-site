@@ -9,163 +9,94 @@ poet: "Mirza Dabeer"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haye sadaat haye zindan
-
+romanLyrics: |-
+  Haye sadaat haye zindan
   Qaid khane mein talatum hai ke hind aati hai
-
   Dukhtar e fatema ghairat se muee jaati hai
-
-  Aasman door zameen sakht kidhar jaaun mai
-
-  Yehi behtar hai ke dunya se guzar jaaun mai
-
-  Bibiyon mil ke dua maango ke mar jaaun mai
-
-  Maut aati hi nahi jaan khichi jaati hai
-
-
+  
   1
-
-  Aamad e hind ka ghul itrat e shabbir mein hai
-
-  Shor e matam haram e saahib e tatheer mein hai
-
-  Kehti hai jaaun kahan paaon to zanjeer mein hai
-
-  Paaon uth''ta hai to zanjir lipat jaati hai
-
-
+  Aasman door zameen sakht kidhar jaaun mai
+  Yehi behtar hai ke dunya se guzar jaaun mai
+  Bibiyon mil ke dua maango ke mar jaaun mai
+  Maut aati hi nahi jaan khichi jaati hai
+  
   2
-
-  Tha idhar bibi sakina se ye zainab ka bayan
-
-  Hind darbar se jab aayegi suye zindan
-
-  Sabr tum ko hai dikhana na uthe shor o fughan
-
-  Haye ye din bhi aseeri tumhe dikhlaati hai
-
-
+  Aamad e hind ka ghul itrat e shabbir mein hai
+  Shor e matam haram e saahib e tatheer mein hai
+  Kehti hai jaaun kahan paaon to zanjeer mein hai
+  Paaon uth''ta hai to zanjir lipat jaati hai
+  
   3
-
-  Dar e zindan pe hua itne mein amboh e kamaal
-
-  Zan e haakim ka hai zindan mein nuzool o ijlaal
-
-  Qaidiyon uth ke dua de ke karo istikbaal
-
-  Zauja e haakim e dauran hai jo ye aati hai
-
-
+  Tha idhar bibi sakina se ye zainab ka bayan
+  Hind darbar se jab aayegi suye zindan
+  Sabr tum ko hai dikhana na uthe shor o fughan
+  Haye ye din bhi aseeri tumhe dikhlaati hai
+  
   4
-
-  Hind ne dekh ke raandon ki taraf di ye sada
-
-  Kis ka yusuf hai ye zindan mein giraftar e bala
-
-  Bibiyan kis ki hai rakhti jo nahi sar pe rida
-
-  Un ke chehron se to kuch aur jhalak aati hai
-
-
+  Dar e zindan pe hua itne mein amboh e kamaal
+  Zan e haakim ka hai zindan mein nuzool o ijlaal
+  Qaidiyon uth ke dua de ke karo istikbaal
+  Zauja e haakim e dauran hai jo ye aati hai
+  
   5
-
-  Dekhti kya hai ke ek sher hai aahan mein niha
-
-  Laaghar o khastatan o faaqa kash o tashna dahan
-
-  Na to chalne ki saqat hai na koi rishta e jaan
-
-  Gustakhano se larazne ki sada aati hai
-
-
+  Hind ne dekh ke raandon ki taraf di ye sada
+  Kis ka yusuf hai ye zindan mein giraftar e bala
+  Bibiyan kis ki hai rakhti jo nahi sar pe rida
+  Un ke chehron se to kuch aur jhalak aati hai
+  
   6
-
-  Aayi nazdeek jo sajjad ke hind e dilgeer
-
-  Boli wo kaunsi isyan ki mili ye taazeer
-
-  Bole dasween ki moharam ki jo pehni zanjeer
-
-  Aaj taqdeer bhi qaidi hamein kehlaati hai
-
-
+  Dekhti kya hai ke ek sher hai aahan mein niha
+  Laaghar o khastatan o faaqa kash o tashna dahan
+  Na to chalne ki saqat hai na koi rishta e jaan
+  Gustakhano se larazne ki sada aati hai
+  
   7
-
-  Hind ne poocha maraz kya hai kaha bepadari
-
-  Ghar ko daryaaft kiya kehne lage darbadari
-
-  Boli leta hai khabar kaun kaha bekhabari
-
-  Jo khabar geer thay unko to lehad bhaati hai
-
-
+  Aayi nazdeek jo sajjad ke hind e dilgeer
+  Boli wo kaunsi isyan ki mili ye taazeer
+  Bole dasween ki moharam ki jo pehni zanjeer
+  Aaj taqdeer bhi qaidi hamein kehlaati hai
+  
   8
-
-  Baba saahib ke gale par jo na khanjar phirta
-
-  Inke sar khulte na mai kaanton pe dar dar phirta
-
-  Aur madine ki taraf sab ko mai le kar phirta
-
-  Yaad hazrat ye watan ki hamein tadpati hai
-
-
+  Hind ne poocha maraz kya hai kaha bepadari
+  Ghar ko daryaaft kiya kehne lage darbadari
+  Boli leta hai khabar kaun kaha bekhabari
+  Jo khabar geer thay unko to lehad bhaati hai
+  
   9
-
-  Hind ne naam madine ka jo abid se suna
-
-  Khaak par baith gayi haal ye taaqeer hua
-
-  Boli kya zainab o kulsum se nisbat he bhala
-
-  Aise chehron se to khushboo e wafa aati hai
-
-
+  Baba saahib ke gale par jo na khanjar phirta
+  Inke sar khulte na mai kaanton pe dar dar phirta
+  Aur madine ki taraf sab ko mai le kar phirta
+  Yaad hazrat ye watan ki hamein tadpati hai
+  
   10
-
-  Boli zainab ke na le zainab o kusoom ke naam
-
-  Wo nabi zaadiyan hai qaid mein unka kya kaam
-
-  Hind boli inhi baaton mein hai sab unka kalaam
-
-  Kyun meri rooh tumhe dekh ke ghabraati hai
-
-
+  Hind ne naam madine ka jo abid se suna
+  Khaak par baith gayi haal ye taaqeer hua
+  Boli kya zainab o kulsum se nisbat he bhala
+  Aise chehron se to khushboo e wafa aati hai
+  
   11
-
-  Jo bhi surat he wo masoom nazar aati hai
-
-  Khudrat e khaaliq e qayyum nazar aati hai
-
-  Koi zainab koi kulsum nazar aati hai
-
-  Un se taqdeer ye kis haal mein milwaati hai
-
-
+  Boli zainab ke na le zainab o kusoom ke naam
+  Wo nabi zaadiyan hai qaid mein unka kya kaam
+  Hind boli inhi baaton mein hai sab unka kalaam
+  Kyun meri rooh tumhe dekh ke ghabraati hai
+  
   12
-
-  Gird abid ke phiri phir wo ba haal e taagheer
-
-  Bole wo kaun ye chillayi kaneez e shabbir
-
-  Assalaam ay rasan o tauq o salaasil ke aseer
-
-  Nauha karti hui qadmon mein giri jaati hai
-
-
+  Jo bhi surat he wo masoom nazar aati hai
+  Khudrat e khaaliq e qayyum nazar aati hai
+  Koi zainab koi kulsum nazar aati hai
+  Un se taqdeer ye kis haal mein milwaati hai
+  
   13
-
+  Gird abid ke phiri phir wo ba haal e taagheer
+  Bole wo kaun ye chillayi kaneez e shabbir
+  Assalaam ay rasan o tauq o salaasil ke aseer
+  Nauha karti hui qadmon mein giri jaati hai
+  
+  14
   Bas dabeer ab ghame shabbir se larza hai jigar
-
   Hind bhi mehwe aza aaj hui nange sar
-
   Qaid khane mein hua seena zani se mehshar
-
-  Yehi majlis hai jo khud marsiya kehlati hai'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+  Yehi majlis hai jo khud marsiya kehlati hai
 # source_id: nohayonline:69d86485b1d724a37fbd
 # source_url: https://www.nohayonline.com/details_content.php?id=2059
 # raw_sha256: 351fc26987918af9839a5068184a1bee6d492a0094da1330b6afc59f1db88447
@@ -173,16 +104,11 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_url: https://www.ziyaraat.net/api/noha/1233
 # raw_sha256: 46aa1b5bf74f8a385e9cf4fe56739a7212e6ee0ff4170619494926f6ef6b12a8
 ---
-
-ہاۓ سادات اور زندان ‘ ہاۓ سادات اور یہ زندان
 ہاۓ سادات ہاۓ زندان ہاۓ سادات ہاۓ زندان
 قید خانے میں تلاطم ہے کہ ہند آتی ہے
 دختر فاطمہ غیرت سے موئی جاتی ہے
-قید خانے میں تلاطم ہے کہ ہند آتی ہے
 
 ۱
-ہاے سادات ہاے زندان
-دختر فاطمہ غیرت سے موی جاتی ہے
 آسماں دور زمیں سخت کدھر جاؤں میں
 یہی بہتر ہے کہ دنیا سے گزر جاؤں میں
 بی بیوں مل کے دعا مانگو کے مر جاؤں میں
@@ -265,4 +191,3 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ہند بھی محو عزا آج ہوئی ننگ سر
 قید خانے میں ہوا سینہ زنی سے محشر
 یہی مجلس ہے جو خود مرثیہ کہلاتی ہے
-ہاۓ سادات اور زندان
