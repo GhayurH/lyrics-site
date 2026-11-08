@@ -14,27 +14,27 @@ romanLyrics: |-
   Mujtaba par zulm kaisa ho gaya
 
   1
-  1) Poocha Zainab ne ke achay thay abhi
+  Poocha Zainab ne ke achay thay abhi
   Dekhtay hi dekhtay kiya ho gaya
 
   2
-  2) Kuch wasiyat kar rahay thay Mujtaba
+  Kuch wasiyat kar rahay thay Mujtaba
   Naagahan tabdeel naqsha ho gaya
 
   3
-  3) Bolay Shabbar aah tum se kya kahain
+  Bolay Shabbar aah tum se kya kahain
   Aey behan tukray kaleja ho gaya
 
   4
-  4) Haath uthaya aur khuda Hafiz kaha
+  Haath uthaya aur khuda Hafiz kaha
   Kuch na tha phir hashr barpa ho gaya
 
   5
-  5) Teer barsay is qadar taboot par
+  Teer barsay is qadar taboot par
   Soorate tarkash janaza ho gaya
 
   6
-  6) Qais do aansu baha kar bazm may
+  Qais do aansu baha kar bazm may
   Apni bakshish ka sahara ho gaya
 # source_id: nohayonline:49ebed502690c298b035
 # source_url: https://www.nohayonline.com/details_content.php?id=673

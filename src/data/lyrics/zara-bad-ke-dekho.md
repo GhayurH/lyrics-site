@@ -14,10 +14,10 @@ romanLyrics: |-
   Masayeb ki dunya mein phirta phirata
   Nakahat se har gaam par dagmagata
   Sambhale huwe bediyan ladkhadata
-
-  1
   Mazaalim ke toofan se takra raha hai
   Zara bad ke dekho ye kaun aa raha hai
+
+  1
   Ye kis ke hai naizon pe sar aage aage
   Jo ab bhi hai seena sipar aage aage
   Sitaare hai peeche qamar aage aage
@@ -59,10 +59,10 @@ romanLyrics: |-
 مصائب کی دنیا میں پھرتا پھراتا
 نقاہت سے ہر گام پر ڈگمگاتا
 سنبھالے ہوئے بیڑیاں لڑکھڑاتا
-
-۱
 مظالم کے طوفان سے ٹکراتا رہا ہے
 زرا بڑھ کے دیکھو یہ کون آ رہا ہے
+
+۱
 یہ کس کے ہیں نیزوں پہ سر آگے آ گے
 جو اب بھی ہے سینہ سپر آگے آگے
 ستارے ہیں پیچھے قمر آ گے آگے
