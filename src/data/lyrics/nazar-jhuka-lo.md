@@ -12,60 +12,58 @@ published: false
 romanLyrics: |-
   Alwida aale mustafa
   Bayan karte hai ibne sinaane kufi se
-
-  1
   Utha ke parda jo baitush sharaf se sheh nikle
   Padha durood aur kursi pe aan kar baithe
   Lagayi chaaron taraf se qanaat qasim ne
   Bithaya akbar e mehru ne sab ko mehmil mein
-
-  2
+  
+  1
   Pukara sher madine ka ghaiz mein aa kar
   Chadhe na chhat pa koi aur na balandi par
   Munadi deta tha yasarb mein ye sada logo
   Nazar jhuka lo ke zainab sawaar hoti hai
-
-  3
+  
+  2
   Gharon se nikle na is dum koi bhi na mehram
   Safar pe jaate hai shaahe huda ke ahle haram
   Palat ke khair se aayn karo dua logo
-
-  4
+  
+  3
   Ali ki beti hai zehra ki chain hai bibi
   Waqar e faatah e badr o hunain hai bibi
   Janaza raat mein maadar ka hai utha logo
-
-  5
+  
+  4
   Behan se bhai aur maa se pisar bichadta hai
   Janabe fatema zehra ka ghar ujadta hai
   Ke ek hashr madine mein hai bapa logo
-
-  6
+  
+  5
   Pakad ke shaana bithaya phupi ko akbar ne
   Aur ek baazu sambhala hassan ke dilbar ne
   Do zaano baith ke abbas ne kaha logo
-
-  7
+  
+  6
   Hai aaj mehmil o haudaj bhi aur amaari bhi
   Badi hi shaan se jaati hai ye sawari bhi
   Na hogi gyarah muharram ko ye sada logo
-
-  8
+  
+  7
   Wo ek safar tha madine se karbala aana
   Aur ek karbobala se hai shaam tak jaana
   Safar mein farq bahot ho gaya bada logo
-
-  9
+  
+  8
   Hai aaj majma e aghyaar mein khadi zainab
   Mehaar thaam ke oonton ki ro padi zainab
   Rasan hai haath mein aur sar bhi hai khula logo
-
-  10
+  
+  9
   Badhe jo abide muztar to ek qayamat thi
   Aseer hathkadi zanjeer mein imamat thi
   Zameen pa baith ke bemaar ne kaha logo
-
-  11
+  
+  10
   Khamosh ho ke tadapti hai saani e zehra
   Nazar mein phir gayi tasveer phir se wawaila
   Ye nauha ainee ka aamir ne jab padha logo
@@ -75,60 +73,58 @@ romanLyrics: |-
 ---
 الوداع آلِ مصطفیٰ
 بیان کرتے ہیں ابن سنان کوفی سے
-
-۱
 اٹھا کے پردہ جو بیت الشرف سے شہ نکلے
 پڑھا درود اور کرسی پہ آن کر بیٹھے
 لگایئ چاروں طرف سے قنات قاسم نے
 بٹھایا اکبر مہرو نے سب کو محمل میں
 
-۲
+۱
 پکارا شیر مدینے کا غیظ میں آکر
 چڑھے نہ چھت پہ کوئی اور نہ بلندی پر
 منادی دیتا تھا یثرب میں یہ صدا لوگو
 نظر جھکا لو کہ زینب سوار ہوتی ہے
 
-۳
+۲
 گھروں سے نکلے نہ اس دم کوئی بھی نا محرم
 سفر پہ جاتے ہیں شاہ ہدا کے اہل حرم
 پلٹ کے خیر سے آئیں کرو دعا لوگو
 
-۴
+۳
 علی کی بیٹی ہیں زھرا کی چین ہیں بی بی
 وقار فاتح بدر و حنین ہیں بی بی
 جنازہ رات میں مادر کا ہے اٹھا لوگو
 
-۵
+۴
 بہن سے بھائی و ماں سے پسر بچھڑتا ہے
 جناب فاطمہ زھرا کا گھر اجڑتا ہے
 کہ ایک حشر مدینے میں ہے بپا لوگو
 
-۶
+۵
 پکڑ کے شانہ بٹھایا پھوپی کو اکبر نے
 اور ایک بازو سنبھالا حسن کے دلبر نے
 دو زانو بیٹھ کے عباس نے کہا لوگو
 
-۷
+۶
 ہے آج محمل و ہودج بھی اور عماری بھی
 بڑی ہی شان سے جاتی یہ سواری بھی
 نہ ہوگی گیارہ محرم کو یہ صدا لوگو
 
-۸
+۷
 وہ اک سفر تھا مدینے سے کربلا آنا
 اور ایک کرب و بلا سے ہے شام تک جانا
 سفر میں فرق بہت ہو گیا بڑا لوگو
 
-۹
+۸
 ہے آج مجمع اغیار میں کھڑی زینب
 مہار تھام کے انٹوں کی رو پڑی زینب
 رسن ہے ہاتھ میں اور سر بھی ہے کھلا لوگو
 
-۱۰
+۹
 بڑھےجو عابد مضطر تو اک قیامت تھی
 اسیر ہتھکڑی زنجیر میں امامت تھی
 زمیں پہ بیٹھ کے بیمار نے کہا لوگو
 
-۱۱
+۱۰
 خموش ہو کہ تڑپتی ہیں ثانی زھرا
 نظر میں پھر گئ تصویر پھر سے واویلا
 یہ نوحہ عینی کا عامر نے جب پڑھا لوگو
