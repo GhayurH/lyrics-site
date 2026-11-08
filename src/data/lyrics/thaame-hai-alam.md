@@ -12,40 +12,39 @@ published: false
 romanLyrics: |-
   Thaame hai alam khoon mein dooba hai alamdaar
   Narghe mein layeeno ke akela hai alamdaar
-  Thaame hai alam khoon mein dooba hai alamdaar
-  
+
   1
   Ab kaise sakina ko mai pahuncha'unga pani
   Bas baat yehi sochke rota hai alamdaar
-  
+
   2
   Dunya meri andher hai ay bhai tere baad
   Tu hi meri aankhon ka ujala hai alamdaar
-  
+
   3
   Kya hogaya sab tera badan teeron se chalni
   Kyu khoon mein bhara tera pharera hai alamdaar
-  
+
   4
   Thi sheh ki sada koi usay de de sahara
   Be-dast hai rehwaar se girta hai alamdaar
-  
+
   5
   Ek shor qayamat ka tha sab ahle haram mein
   Jab tera alam qaime mein aaya hai alamdaar
-  
+
   6
   Dil thaam ke roti hi rahi raahe sitam mein
   Zainab ko bahot yaad tu aaya hai alamdaar
-  
+
   7
   Jab jab bhi lage baali sakina ko tamache
   Har baar sakina ne pukara hai alamdaar
-  
+
   8
   Zindan mein darr lagta hai kehti thi sakina
   Jab bhi ye sada aayi hai tadpa hai alamdaar
-  
+
   9
   Izhaar wohi hashr ke din shadman hoga
   Jiske bhi labon par tera nauha hai alamdaar
@@ -53,10 +52,8 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2641
 # raw_sha256: 0d3a7f4e305f2888ffd3a523ed1924c533a0243e9cb124323e772916faaa81d4
 ---
-
 تھامے ہے علم خون میں ڈوبا ہے علمدار
 نرغے میں لعینوں کے اکیلا ہے علمدار
-تھامے ہے علم خون میں ڈوبا ہے علمدار
 
 ۱
 اب کیسے سکینہ کو میں پہنچاؤں گا پانی
