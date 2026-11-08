@@ -10,10 +10,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Alwida alwida ay behen alwida
   Tha ye sheh ka kalaam aakhri
   Lelo zainab salaam aakhri
+
+  1
   Khatm hai zindagi ka safar
   Ab to saansein bhi hai muqtasar
   Jaa rahe hai shahadat ko hum
@@ -72,10 +73,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2488
 # raw_sha256: 55a86c3ee458a292bdddfbb8166fd2f7db7128fede9ed9c140bf88c97bb03988
 ---
-۱
 الوداع الوداع اے بہن الوداع
 تھا یہ شہ کا کلام آخری
 لے لو زینب سلام آخری
+
+۱
 ختم ہے زندگی کا سفر
 اب تو سانسیں بھی ہے مختصر
 جا رہے ہیں شہادت کو ہم
