@@ -10,32 +10,32 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ab kisi se ruk nahi sakta bayan e karbala
-  Likh gaye abbas khoon se daastane karbala
+  Ab kisi se ruk nahiṅ sakta bayan-e-Karbala
+  Likh gaye Abbas khun se dastan-e-Karbala
 
   1
-  Gham manate hi rahenge hum azadare hussain
-  Ashk bante hi rehenge tarjumane karbala
+  Gham manate hi raheṅge hum azadar-e-Husain
+  Ashk bante hi raheṅge tarjuman-e-Karbala
 
   2
-  Jaan mohamed ki bahca kar so gaye jaise ali
-  Deen bacha kar sogaya yun mehmane karbala
+  Jaaṅ Muhammad ki bacha kar so gaye jaise Ali
+  Din bacha kar so gaya yun mehman-e-Karbala
 
   3
-  Jaan dekar karbala walon ne aasan kar diya
-  Kis khadar mushkil tha warna imtehane karbala
+  Jaan de kar Karbala waloṅ ne aasaṅ kar diya
+  Kis qadar mushkil tha warna imtehan-e-Karbala
 
   4
-  Shakl pehchani na jaati deen walon deen ki
-  Wo to kahiye hogaya baakhi nishane karbala
+  Shakl pehchani na jaati din walo din ki
+  Woh to kahiye ho gaya baqi nishan-e-Karbala
 
   5
-  Asghar e nadan ki danayi ki sadqe jaaiye
-  Ye mujahid ban gaya hai haske jaane karbala
+  Asghar-e-nadaṅ ki danai ke sadqe jaaiye
+  Ye mujahid ban gaya hai haṅs ke jaan-e-Karbala
 
   6
-  Sirf deen e haq ki tafseerein bahattar hai urooj
-  Ban gaye hai karbala walay zaban e karbala
+  Sirf din-e-Haq ki tafsireṅ bahattar the Urooj
+  Ban gaye haiṅ Karbala wale zaban-e-Karbala
 # source_id: nohayonline:92aa411572540a454a50
 # source_url: https://www.nohayonline.com/details_content.php?id=51
 # raw_sha256: 4100e72f90a54d024462bedf0ee7d32b1d962c1ebc825b5583b80934153e7080
@@ -44,7 +44,7 @@ romanLyrics: |-
 لکھ گئے عباس خوں سے داستانِ کربلا
 
 ۱
-غم مناتے ہی رہیں گے ہم اعزادارِ حُسین
+غم مناتے ہی رہیں گے ہم عزادارِ حسین
 اشک بنتے ہی رہیں گے ترجمانِ کربلا
 
 ۲

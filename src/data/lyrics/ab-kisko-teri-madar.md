@@ -9,44 +9,44 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ab kisko teri maadar lori sunaye asghar
-  Raaton ko uth ke kiska jhoola jhulaye asghar
+  Ab kis ko teri maadar lori sunae Asghar
+  Raatoṅ ko uth ke kis ka jhula jhulae Asghar
 
   1
-  Shiddat ki tashnagi mein jhoole se ran mein jaa kar
-  Daste pidar pe ran mein khoon mein nahaye asghar
+  Shiddat ki tashnagi mein jhule se ran mein ja kar
+  Dast-e-pidar pe ran mein khun mein nahae Asghar
 
   2
-  Nusrat mein deen e haq ki gardan pe teer khaa kar
-  Veeran kar ke godhi jangal basaye asghar
+  Nusrat mein din-e-Haq ki gardan pe tir kha kar
+  Viran kar ke godi jangal basae Asghar
 
   3
-  Maadar ghareeb dukhiya kis ko jhulaye jhoola
-  Chote se ye shalooke kis ko pinhaye asghar
+  Maadar gharib dukhiya kis ko jhulae jhula
+  Chhote se ye shaluke kis ko pahnae Asghar
 
   4
-  Ek baar apni maa ki godhi mein chale aao
-  Hasrat hai tum ko maadar ek pal sulaye asghar
+  Ek baar apni maaṅ ki godi mein chale aao
+  Hasrat hai tum ko maadar ek pal sulae Asghar
 
   5
-  Aansuon chidak ke bole turbat pe teri sarwar
-  Jee bhar ke mujhko aada ran mein rulaye asghar
+  Aansuṅ chhirak ke bole turbat pe teri Sarwar
+  Ji bhar ke mujhko aada ran mein rulae Asghar
 
   6
-  Jis din se maa ne dekha naize pa sar tumhara
-  Haalat pa teri ro kar kehti hai haye asghar
+  Jis din se maaṅ ne dekha neze pe sar tumhara
+  Haalat pe teri ro kar kehti hai haye Asghar
 
   7
-  Thi ilteja e saabir matam ho tera ghar ghar
-  Jhoola uthe jo tera sab khoon bahaye asghar
+  Thi ilteja-e-Sabir matam ho tera ghar ghar
+  Jhula uthe jo tera sab khun bahae Asghar
 
   8
-  Beta ye anjuman hai matam sara tumhari
-  Sar ta qadam jo saare khoon mein nahaye asghar
+  Beta ye anjuman hai matamsara tumhari
+  Sar ta qadam jo saare khun mein nahae Asghar
 
   9
-  Mehshar mein wo yaqeenan jannat mein honge mazhar
-  Dunya mein jo tumhara jhoola uthaye asghar
+  Mahshar mein woh yaqinaṅ jannat mein hoṅge Mazhar
+  Dunya mein jo tumhara jhula uthae Asghar
 # source_id: nohayonline:198722466c9900c1b831
 # source_url: https://www.nohayonline.com/details_content.php?id=3187
 # raw_sha256: 44de3cb949397827bc6c0d1415573b7833f4c2ea87ba7c613dc8c6dc2e5c4177

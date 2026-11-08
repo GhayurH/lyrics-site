@@ -10,42 +10,42 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ab koi ghar koi takiya na bichona hoga
+  Ab koi ghar koi takiya na bichhona hoga
   Aaj ke baad tujhe khaak pe sona hoga
 
   1
-  Baap ke seene pe sone ki tujhe aadat thi
-  Ab muqaddar may tere hogi zameen maqtal ki
-  Shiddate pyaas may ashkon ko hi peena hoga
+  Baap ke sine pe sone ki tujhe aadat thi
+  Ab muqaddar mein tere hogi zamin maqtal ki
+  Shiddat-e-pyaas mein ashkoṅ ko hi pina hoga
 
   2
-  Ab sitamgaar ke taano pe guzar hoga tera
-  Shimr e be-deen ke tamachon pe guzar hoga tera
-  Odh ke qaid ke andhiyaron ko sona hoga
+  Ab sitamgar ke tanoṅ pe guzar hoga tera
+  Shimr-e-bedin ke tamachoṅ pe guzar hoga tera
+  Orh ke qaid ke andhiyaroṅ ko sona hoga
 
   3
-  Taziyano ki aziyat hi ghiza howegi
-  Ek din saare aseeron se juda howegi
-  Ek alag qaid ki tanhaai may rona hoga
+  Taziyanoṅ ki aziyat hi ghiza hoegi
+  Ek din saare asiroṅ se juda hoegi
+  Ek alag qaid ki tanhai mein rona hoga
 
   4
   Koi aahat bhi sunegi to lagega aise
-  Ek yateema ko bulaya ho padar ne jaise
-  Chain aaram sukoon sab kuch hi khona hoga
+  Ek yatima ko bulaya ho pidar ne jaise
+  Chain aaram sukun sab kuchh hi khona hoga
 
   5
-  Loriyan maut sunayegi kabhi khauf tujhe
-  Ek ek saans saza hogi meri furqat se
-  Tujko ab chehra bhi ashkon se hi dhona hoga
+  Loriyaṅ maut sunaegi kabhi khauf tujhe
+  Ek ek saaṅs saza hogi meri furqat se
+  Tujhko ab chehra bhi ashkoṅ se hi dhona hoga
 
   6
-  Gham ki badli may muqaddar ka sitara hoga
-  Baba baba ki sada'on ka sahara hoga
-  Sabr phupiyon ki tarha tujhko bhi karna hoga
+  Gham ki badli mein muqaddar ka sitara hoga
+  Baba Baba ki sadaoṅ ka sahara hoga
+  Sabr phuphiyoṅ ki tarha tujhko bhi karna hoga
 
   7
-  Shadman thi ye wasiyat hi shahe waala ki
-  Jisko likhte huwe mazhar ki bandhi hai hichki
+  Shadmaṅ thi ye wasiyat hi Shah-e-Wala ki
+  Jis ko likhte huwe Mazhar ki bandhi hai hichki
   Bas yehi keh ke chale rona hi rona hoga
 # source_id: nohayonline:6fa111b5d8d37a227f9a
 # source_url: https://www.nohayonline.com/details_content.php?id=2324
@@ -57,7 +57,7 @@ romanLyrics: |-
 ۱
 باپ کے سینے پہ سونے کی تجھے عادت تھی
 اب مقدر میں تیرے ہو گی زمیں مقتل کی
-شدت پیاس میں اشکوں کو ہی پینا ہوگا
+شدتِ پیاس میں اشکوں کو ہی پینا ہوگا
 
 ۲
 اب ستمگر کے طعنوں پہ گزر ہوگا تیرا
@@ -65,7 +65,7 @@ romanLyrics: |-
 اوڑھ کے قید کے اندھیاروں کو سونا ہوگا
 
 ۳
-تازیانوں کی اذیت ہی غذا ہوے گی
+تازیانوں کی اذیت ہی غذا ہو گی
 ایک دن سارے اسیروں سے جدا ہوے گی
 اک الگ قید کی تنہائی میں رونا ہوگا
 

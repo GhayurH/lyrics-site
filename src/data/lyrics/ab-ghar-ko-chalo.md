@@ -10,61 +10,61 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ab ghar ko chalo khaak se utho ali akbar
-  
+  Ab ghar ko chalo khaak se utho Ali Akbar
+
   1
-  Pahunche jo hussain ibne ali laashe pisar par
-  Wo haal nazar aaya churi chal gayi dil par
-  Ye kehke zameen par giray bete ke barabar
-  Aaya hai pidar hosh mein aao ali akbar
-  
+  Pahunche jo Husain ibn-e-Ali laash-e-pisar par
+  Woh haal nazar aaya chhuri chal gayi dil par
+  Ye keh ke zamin par gire bete ke barabar
+  Aaya hai pidar hosh mein aao Ali Akbar
+
   2
-  Zaalim koi bekas ko batata na tha rasta
-  Chaaya tha nigahon mein andhera hi andhera
-  Aaya hai pidar paas tere thokare khaata
-  Aankhon ko hua kya meri poocho ali akbar
-  
+  Zalim koi bekas ko batata na tha rasta
+  Chhaya tha nigahoṅ mein andhera hi andhera
+  Aaya hai pidar paas tere thokareṅ khata
+  Aankhoṅ ko hua kya meri puchho Ali Akbar
+
   3
-  Kyun paon ragadte ho kahan dard utha hai
+  Kiuṅ paoṅ ragarte ho kahan dard utha hai
   Batlao meri jaan mera dil baith raha hai
-  Kyun haath hai seene pa kahan zakhm laga hai
-  Phat jayega dil baap ka bolo ali akbar
-  
+  Kiuṅ haath hai sine pe kahan zakhm laga hai
+  Phat jaega dil baap ka bolo Ali Akbar
+
   4
-  Noha hai labon par hai lahoo ankhon se jaari
-  Hum kab se khade rote hai baali pa tumhari
-  Khaya na taras tumne ghareebi pa hamari
-  Dil baap ka is tarha na todo ali akbar
-  
+  Nauha hai laboṅ par hai lahu aankhoṅ se jaari
+  Hum kab se khare rote haiṅ baali pe tumhari
+  Khaya na taras tum ne gharibi pe hamari
+  Dil baap ka is tarha na toro Ali Akbar
+
   5
-  Ay laal tasavvur mein tha maa ke tera sehra
-  Hai dayr se darwaza-e-qaima pe wo dukhiya
-  Kya jaake bata'un jo hua haal tumhara
-  Laila se kahun kya ye batao ali akbar
-  
+  Ae laal tasavvur mein tha maaṅ ke tera sehra
+  Hai der se darwaza-e-khaima pe woh dukhiya
+  Kya ja ke bataun jo hua haal tumhara
+  Laila se kahuṅ kya ye batao Ali Akbar
+
   6
-  Ab dayr jo ki tumne to karti hui zaari
-  Be-parda behan aayegi maqtal mein hamari
-  Madar kahin mar jaaye na sadme se tumhari
-  Baba bhi nahi jeene ke sunlo ali akbar
-  
+  Ab der jo ki tum ne to karti hui zaari
+  Beparda behen aaegi maqtal mein hamari
+  Maadar kahiṅ mar jaaye na sadme se tumhari
+  Baba bhi nahiṅ jine ke sun lo Ali Akbar
+
   7
   Kis tarha se dekhe ye pidar haal tumhara
-  Khaboo mein nahi qalb ulat'ta hai kaleja
-  Pehlu mein hai dil baap ka pathar nahi beta
-  Aage mere is tarha na tadpo ali akbar
-  
+  Qabu mein nahiṅ qalb ulatta hai kaleja
+  Pahlu mein hai dil baap ka patthar nahiṅ beta
+  Aage mere is tarha na tarpo Ali Akbar
+
   8
-  Tum chup ho to chalte hai mere qalb pa khanjar
-  Kuch haal ladayi ka sunao mere dilbar
+  Tum chup ho to chalte haiṅ mere qalb pe khanjar
+  Kuchh haal larai ka sunao mere dilbar
   Batlao ke kis tarha laga zakhm jigar par
-  Kuch baat karo aankh to kholo ali akbar
-  
+  Kuchh baat karo aankh to kholo Ali Akbar
+
   9
-  Faryad labon par hai aur ashkon ki rawani
-  Ghurbat bhi zaeefi bhi hai aur tashna dahani
-  Haste hai mere haal pa dushman mere jaani
-  Tanha mujhe is tarha na chodo ali akbar
+  Faryad laboṅ par hai aur ashkoṅ ki rawani
+  Ghurbat bhi zaifi bhi hai aur tashnadahani
+  Haṅste haiṅ mere haal pe dushman mere jaani
+  Tanha mujhe is tarha na chhoro Ali Akbar
 # source_id: nohayonline:e46bb6d9d90270c33943
 # source_url: https://www.nohayonline.com/details_content.php?id=202
 # raw_sha256: f0c73392c602effabe08541944c737a39b935d3761240e0df13da3c6e0eda571
@@ -82,7 +82,7 @@ romanLyrics: |-
 ظالم کوئی بے کس کو بتاتا نہ تھا راستہ
 چھایا تھا نگاہوں میں اندھیرا ہی اندھیرا
 آیا ہے پدر پاس تیرے ٹھوکریں کھاتا
-آکھوں کو ہوا کیا میری پوچھو علی اکبر
+آنکھوں کو ہوا کیا میری پوچھو علی اکبر
 
 ۳
 کیوں پائوں رگڑتے ہو کہا ں درد اُٹھا ہے
@@ -91,7 +91,7 @@ romanLyrics: |-
 پھٹ جائے گا دل باپ کا بولو علی اکبر
 
 ۴
-نوحہ ہپے لبوں پر ہے آنکھوں سے خوں جاری
+نوحہ ہے لبوں پر ہے آنکھوں سے خوں جاری
 ہم کب سے کھڑے روتے ہیں بالی پہ تمہاری
 کھایا نہ ترس تم نے غریبی پہ ہماری
 دل باپ کا اس طرح نہ توڑو علی اکبر
