@@ -10,10 +10,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Abbas abbas abbas abbas
   Saqqa e sakina abbas abbas
   Do mujhko sahara abbas abbas
+  
+  1
   Tehri hui nazrein hai meri tere alam par
   Shak mujhko nahi koi tere lutf o karam par
   Tu baab e hawaij hai nazar rakhta hai hum par
@@ -70,11 +71,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2522
 # raw_sha256: 5b4976d40dbbc9176ffe1a4d1ccd24ddd2429c19809b1b186175e3555d4b6cfd
 ---
-
-۱
 عباس عباس عباس عباس
 سقائے سکینہ عباس عباس
 دو مجھکو سہارا عباس عباس
+
+۱
 ٹہری ہوئی نظریں مری تیرے علم پر
 شک مجھکو نہیں کوئی ترے لطف و کرم پر
 تو بابِ حائج ہے نظر رکھتا ہے ہم پر
