@@ -9,68 +9,37 @@ poet: "Jawad Jaffri"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Loriyan de ke jise zindan ne sulaya hoga
-
-
-  1
-
+romanLyrics: |-
+  Loriyan de ke jise zindan ne sulaya hoga
   Seena baba ka tujhe yaad to aaya hoga
 
+  1
   Khaakh ka aaj bichona hai naseebon mein tere
-
   Haa kabhi baap ne tujhe seene pe sulaya hoga
 
-  Loriya deke jise…
-
+  2
   Pyaas baba ki tujhe yaad to aayi hogi
-
   Pani fizza ne jo honton pe lagaya hoga
 
-
-  2
-
-  Loriya deke jise…
-
-  Kano se lahoo behta hai ruqsar hai neele
-
-  Is haal mein dushwaar hai ek saans bhi lena
-
-  Neend aati nahi khaak ke bistar pe mujhe to
-
-  Amma mujhe kyun milta nahi baba ka seena
-
-  Shimr bhoolegi bhala kaise tamache tere
-
-
   3
-
+  Kano se lahoo behta hai ruqsar hai neele
+  Is haal mein dushwaar hai ek saans bhi lena
+  Neend aati nahi khaak ke bistar pe mujhe to
+  Amma mujhe kyun milta nahi baba ka seena
+  Shimr bhoolegi bhala kaise tamache tere
   Chain masooma ne mar kar bhi na paaya hoga
 
+  4
   Haye zanjeeron mein jakda tha janaza tera
-
   Kaise bemaar ne zindan se uthaya hoga
 
-  Zindan mein ro ro ke ye kehti thi sakina
-
-
-  4
-
-  Khulwado rasan tum mujhe baba se milado
-
-  Gar ye nahi mumkin to meri pyari phupi jaan
-
-  Soorat ali asghar ki mujhe la ke dikha do
-
-  Jisne bhi dil mein basaya hai tera gham bibi
-
-  Usko jawaad ke nauhe ne rulaya hoga
-
-
   5
-
-  2) Khak ka aj bichona hay naseebon may terayi
-
-  Haan kabhi baap nay, seenay pay sulaya hoga'
+  Zindan mein ro ro ke ye kehti thi sakina
+  Khulwado rasan tum mujhe baba se milado
+  Gar ye nahi mumkin to meri pyari phupi jaan
+  Soorat ali asghar ki mujhe la ke dikha do
+  Jisne bhi dil mein basaya hai tera gham bibi
+  Usko jawaad ke nauhe ne rulaya hoga
 reciter: Hasan Sadiq
 # source_id: nohayonline:0fc7dd8688a7ec8a63db
 # source_url: https://www.nohayonline.com/details_content.php?id=620
@@ -82,9 +51,9 @@ reciter: Hasan Sadiq
 ---
 
 لوریاں دے کے جسے زنداں نے سُلایا ہو گا
+سینہ بابا کا تجھے یاد تو آیا ہو گا
 
 ۱
-سینہ بابا کا تجھے یاد تو آیا ہو گا
 خاک کا آج بچھونا ہے نصیبوں میں تیرے
 ہاںکبھی باپ نے سینے پہ سُلایا ہو گا
 
