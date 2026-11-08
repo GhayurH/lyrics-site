@@ -10,27 +10,25 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa kehti thi seene se laga loo tujhe aaja
-  
-  1
   Ek baar to phir laut ke asghar mere aaja
   
-  2
+  1
   Furqat mein teri neend bhi aati nahi beta
   Ab kis ke sahare pe ye maadar jiye aaja
   
-  3
+  2
   Hai ab to mere haath bhi azaad rasan se
   Aa godh mein loo dil mein chupa loo tujhe aaja
   
-  4
+  3
   Sunti hoo ke ab nehr pe pehra bhi nahi hai
   Aa pani pila laa'un tujhe nehr se aaja
   
-  5
+  4
   Sughra tujhe poochegi to kya us se kahoongi
   Bin tere na jaa'ungi watan shaam se aaja
   
-  6
+  5
   Kyon kar ye bataungi laga halq pe naawak
   Kya keh ke bhala doongi tasalli usay aaja
 # source_id: nohayonline:b9b1879f5b5f40169810
@@ -39,26 +37,24 @@ romanLyrics: |-
 ---
 
 ماں کہتی تھی سینے سے لگا لوں تُجھے آ جا
-
-۱
 اک بار تو پھر لوٹ کے اصغر میرے آ جا
 
-۲
+۱
 فُرقت میں تیری نیند بھی آتی نہیں بیٹا
 اب کس کے سہارے پہ یہ مادر جیئے آ جا
 
-۳
+۲
 ہیں اب تو میرے ہاتھ بھی آزاد رسن سے
 آ گود میں لوں دل میں چھُپا لوں تجھے آ جا
 
-۴
+۳
 سُنتی ہوں کہ اب نہر پہ پہرہ بھی نہیں ہے
 آ پانی پلا لائوں تجھے نہر سے آ جا
 
-۵
+۴
 صُغرا تجھے پوچھے گی تو کیا اُس سے کہوں گی
 بِن تیرے نہ جائوں گی وطن شام سے آ جا
 
-۶
+۵
 کیوں کر یہ بتائوں گی لگا حلق پہ ناوک
 کیا کہہ کے بھلا دوں گی تسلی اُسے آ جا
