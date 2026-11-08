@@ -12,39 +12,41 @@ published: false
 romanLyrics: |-
   Qaime jala diye gaye jayengi ab kahan
   Zehra ki betiyan
-  Baithi hui hai khaak pe maqtal may be-amaan
 
   1
+  Baithi hui hai khaak pe maqtal may be-amaan
+
+  2
   Jaaye kidhar na paas may basti na koi ghar
   Sar se ridayein le gaye kuffaar cheen kar
   Ghazi ko yaad karti hai le le ke hichkiyan
 
-  2
+  3
   Sadaat ke khayaam se uth'ta hua dhuaan
   Wo aag may ghire huwe bachon ki siskiyan
   Bhoolengi kaise shaam e ghariban ka ye samaa
 
-  3
+  4
   Koi nahi jo ajre risaalat ada kare
   Pani na de ridayein to de de koi usay
   Le ker chala hai dasht se beemar natawan
 
-  4
+  5
   Mushkil hai jeena sayyed e sajjad ke liye
   Kaun aayega gharee ki imdaad ke liye
   Be parda hai khadi hui logon ke darmiyan
 
-  5
+  6
   Ashoor ki wo subho nigahon may phir gayi
   Rote huwe azaan suni jab jahan suni
   Akbar ke baad khaati rahi gham ki barchiyan
 
-  6
+  7
   Khoon ro raha hai naize pe ibn e ali ka sar
   Logon ka ek hujoom hai kanton pe hai safar
   Durre bhi khaaye raah may ek pal ruki jahan
 
-  7
+  8
   Saydaniyon ke sar hai takallum jhuke huwe
   Haye khadi hai maadar e abbas saamne
   Kaise chupaye baazu pe rassi ke ye nishan
@@ -54,39 +56,41 @@ romanLyrics: |-
 ---
 خیمے جلا دیےء گےء جایینگی اب کہاں
 زہرا کی بیٹیاں
-بیٹھی ہوی ہے خاک پہ مقتل میں بے اماں
 
 ۱
+بیٹھی ہوی ہے خاک پہ مقتل میں بے اماں
+
+۲
 جاے کدھر نہ پاس میں بستی نہ کوئی گھر
 سر سے رداییں لے گےء کفار چھین کر
 غازی کو یاد کرتے ہے لے لے کے ہچکیاں
 
-۲
+۳
 سادات کے قیام سے اٹھتا ہوا دھواں
 وہ آگ میں گھرے ہوے بچوں کی سسکیاں
 بھولیں گی کیسے شام غریباں کا یہ سماں
 
-۳
+۴
 کوئی نہیں جو اجر رسالت ادا کرے
 پانی نہ دے رداییں تو دے دے کوئی اسے
 لے کر چلا ہے دشت سے بیمار ناتواں
 
-۴
+۵
 مشکل ہے جینا سید سجاد کے لئے
 کون آے گا غریب کی امداد کے لئے
 بے پردہ ہے کھڑی ہوی لوگوں کے درمیاں
 
-۵
+۶
 عاشور کی وہ صبح نگاہوں میں پھر گیء
 روتے ہوے اذان سنی جب جہاں سنی
 اکبر کے بعد کھاتی رہی غم کی برچھیاں
 
-۶
+۷
 خوں رو رہا نیزے پہ ابنِ علی کا سر
 لوگوں کا اک ہجوم ہے کانٹوں پہ ہے سفر
 درے بھی کھاے راہ میں اک پل رکی جہاں
 
-۷
+۸
 سیدانیوں کے سر ہے تکلم جھکے ہوے
 ہاے کھڑی ہے مادر عباس سامنے
 کیسے چھپاے بازو پہ رسی کے یہ نشاں
