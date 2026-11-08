@@ -22,21 +22,22 @@ romanLyrics: |-
   Khuda khair kare khuda khair kare
   Hai karbala mein hussain tanha
   Ye asr e ashoor hai ye asr e ashoor hai
-  Hussain ya hussain hussain ya hussain
+
+  2
   Takte hai suye aasman
   Jaari hai kuch wirde zaban
   Chehre pe asghar ka lahoo
   Ab mar chuke shaah e zaman
   Hai dhoop sar par nahi hai saaya
 
-  2
+  3
   Abbas ke baazu kate
   Qasim ke tukde hogaye
   Akbar ka seena chid gaya
   Aun o mohamed na rahe
   Kise pukare ghareeb e zehra
 
-  3
+  4
   Teer o tabar ke waar se
   Maara kabhi talwaar se
   Haye qayamat hogayi
@@ -44,28 +45,28 @@ romanLyrics: |-
   Na zeen par na zameen par tha
   Nabi ka shehzada
 
-  4
+  5
   Laashe utha kar thak chuka
   Laakhon ne hai ghera hua
   Hai khoon ke pyaase sabhi
   Aa kar bacha lo fatema
   Lahoo mein tar hai tumhara beta
 
-  5
+  6
   Jab shimr ka khanjar chala
   Kat kar gira sookha gala
   Tha bhai aur hamsheer mein
   Sattar qadam ka faasla
   Na jaane zainab ne kaise dekha
 
-  6
+  7
   Ye arsh se aayi sada
   Raazi hoo mai aa laut aa
   Talwaar rakh kar niyam mein
   Palte jo shaah e karbala
   Ali ke bete ko sab ne maara
 
-  7
+  8
   Zeeshan o irfan e aza
   Royi zameen e karbala
   Jab shimr sar shabbir ka
@@ -87,21 +88,22 @@ romanLyrics: |-
 خدا خیر کرے خدا خیر کرے
 ہے کربلا میں حسین تنہا
 یہ عصر عاشور ہے یہ عصر عاشور ہے
-حسین یا حسین حسین یا حسین
+
+۲
 تکتے ہیں سوے آسماں
 جاری ہے کچھ ورد زباں
 چہرے پہ اصغر کا لہو
 اب مر چکے شاہ زمن
 ہے دھوپ سر پر نہیں ہے سایہ
 
-۲
+۳
 عباس کے بازو کٹے
 قاسم کے ٹکڑے ہو گےء
 اکبر کا سینہ چھد گیا
 عون و محمد نہ رہے
 کسے پکارے غریب زہرا
 
-۳
+۴
 تیر و تبر کے وار سے
 مارا کبھی تلوار سے
 ہاے قیامت ہو گیء
@@ -109,28 +111,28 @@ romanLyrics: |-
 نہ زین پر نہ زمین پر تھا
 نبی کا شہزادہ
 
-۴
+۵
 لاشے اٹھا کر تھک چکا
 لاکھوں نے ہے گھیرا ہوا
 ہے خون کے پیاسے سبھی
 آ کر بچا لو فاطمہ
 لہو میں تر ہے تمہارا بیٹا
 
-۵
+۶
 جب شمر کا خنجر چلا
 کٹ کر گرا سوکھا گلا
 تھا بھای اور ہمشیر میں
 ستر قدم کا فاصلہ
 نہ جانے زینب نے کیسے دیکھا
 
-۶
+۷
 یہ عرش سے آی صدا
 راضی ہوں میں آ لوٹ آ
 تلوار رکھ کر نیم میں
 پلٹے جو شاہ کربلا
 علی کے باوجود بیٹے کو سب نے مارا
 
-۷
+۸
 زیشان و عرفانِ عزا
 روی زمین کربلا
 جب شمر سر شبیر کا

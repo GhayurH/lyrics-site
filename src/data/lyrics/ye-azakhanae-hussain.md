@@ -15,12 +15,14 @@ romanLyrics: |-
   Ay pusadaron suno
   Hussain ya hussain
   Ya hussain ya hussain
+
+  1
   Kuch log deen e haq ko bachane ke waaste
   Be-ghar huwe kuch aise ke har ghar mein aa gaye
   Ghar azakhana ban gaya ghar azakhana ban aya
   Ye azakhana e hussain hai
 
-  1
+  2
   Ghar mein zehra ke jab khadam aaye
   Shaahe yasrab shahe umam aaye
   Pursa lene ko aa gaye hyder
@@ -28,7 +30,7 @@ romanLyrics: |-
   Farsh majlis ka jab bichaya gaya
   Dil ne be saakta kiya nauha
 
-  2
+  3
   Ilm shohrat hunar wafadari
   Zeenat e ishq ki hai tayyari
   Ahle matam ki bas ye khwahish hai
@@ -36,7 +38,7 @@ romanLyrics: |-
   Nazre maula ka ehtemaam bhi ho
   Hamiyane khuda kare nauha
 
-  3
+  4
   Ek alam ba-wafa ka sajta hai
   Is alam par khuda ka saaya hai
   Ho ke be-dast wo sakhi ab tak
@@ -44,7 +46,7 @@ romanLyrics: |-
   Aur dunya ko ye batata hai
   Mujhse milna ho to yahin aana
 
-  4
+  5
   Khaali aaghosh waali maa behne
   Wo jo aulaad ko tarasti hai
   Unko aulaad bhi ata hogi
@@ -52,7 +54,7 @@ romanLyrics: |-
   Ek jhoola yahan hai asghar ka
   Wo ata kar ke ye bata dega
 
-  5
+  6
   Shab ki tanhaai mein suno aksar
   Ek bibi yahan hai nauhagar
   Apne bete ka pursa lene ko
@@ -60,7 +62,7 @@ romanLyrics: |-
   Rone walon se roke kehti hai
   Isko aabad hi sada rakhna
 
-  6
+  7
   Qaid khane mein pehli majlis ka
   Aao ehwaal sunlo ahle aza
   Marsiya khaan bibiyan saari
@@ -68,7 +70,7 @@ romanLyrics: |-
   Matami qaidiyon ke halqe mein
   Nauha padte thay roke zainuleba
 
-  7
+  8
   Hai ghame karbala mere dil mein
   Hai ghame be-rida mere dil mein
   Zakhme zainulleba mere dil mein
@@ -76,7 +78,7 @@ romanLyrics: |-
   Qabre shaahe huda mere dil mein
   Ab mere dil ko bhi kahe dunya
 
-  8
+  9
   Baat mushkil hai ye khuda ki qasam
   Kya likhe mazhar abidi ka qalam
   Maa ki aagosh mein suna nauha
@@ -92,12 +94,14 @@ romanLyrics: |-
 اے پرسہ داروں سنو
 حسین یا حسین
 یا حسین یا حسین
+
+۱
 کچھ لوگ دین حق کو بچانے کے واسطے
 بے گھر ہوے کچھ ایسے کے ہر گھر میں آ گےء
 گھر عزاخانہ بن گیا گھر عزا خانہ بن آیا
 یہ عزا خانہ حسین ہے
 
-۱
+۲
 گھر میں زہرا کہ جب قدم آے
 شاہ یثرب شاہ امم آے
 پرسہ لینے کو آ گئے حیدر
@@ -105,7 +109,7 @@ romanLyrics: |-
 فرش مجلس کا جب بچھایا گیا
 دل نے بے ساختہ کیا نوحہ
 
-۲
+۳
 علم شہرت ہنر وفاداری
 زینت عشق کی ہے تیاری
 اہل ماتم کی بس یہ خواہش ہے
@@ -113,7 +117,7 @@ romanLyrics: |-
 نظر مولا کا احتمام بھی ہو
 حامیان خدا کرے نوحہ
 
-۳
+۴
 اک الم باوفا کا سجتا ہے
 اس الم پر خدا کا سایہ ہے
 ہو کے بے دست وہ سقی اب تک
@@ -121,7 +125,7 @@ romanLyrics: |-
 اور دنیا کو یہ بتاتا ہے
 مجھ سے ملنا ہو تو یہی آنا
 
-۴
+۵
 خالی آغوش والی ماں بہنیں
 وہ جو اولاد کو برستی ہے
 ان کو اولاد بھی عطا ہوگی
@@ -129,7 +133,7 @@ romanLyrics: |-
 ایک جھولا یہاں ہے اصغر کا
 وہ عطا کر کے یہ بتا دے گا
 
-۵
+۶
 شب کی تنہائی میں سنو اکثر
 اک بی بی یہاں ہے نوحہ گر
 اپنے بیٹے کا پرسہ لینے کو
@@ -137,7 +141,7 @@ romanLyrics: |-
 رونے والوں سے روکے کہتی ہے
 اس کو آباد ہی صدا رکھنا
 
-۶
+۷
 قید خانے میں پہلی مجلس کا
 آؤ احوال سن لو أہل عزا
 مرثیہ خوان بی بیاں ساری
@@ -145,7 +149,7 @@ romanLyrics: |-
 ماتمی قیدیوں کے حلقے میں
 نوحہ پڑھتے تھے روکے زین العبا
 
-۷
+۸
 ہے غم کربلا میرے دل میں
 ہے غم بے ردا میرے دل میں
 زخم زین العبا میرے دل میں
@@ -153,7 +157,7 @@ romanLyrics: |-
 قبر شاہ ہدا میرے دل میں
 اب میرے دل کو بھی کہے دنیا
 
-۸
+۹
 بات مشکل ہے یہ خدا کی قسم
 کیا لکھے مظہر عابدی کا قلم
 ماں کی آغوش میں سنا نوحہ
