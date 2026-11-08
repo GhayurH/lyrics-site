@@ -9,83 +9,50 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Bhool jayenge har gham
-
+romanLyrics: |-
+  Bhool jayenge har gham
   Gham tera na bhulainge
-
-
-  1
-
   Karbala na bhoolenge karbala na bhoolenge
 
+  1
   Kaise bhool jaye maqtal e hussain ko
-
   Kaise bhool jaye fatema ke bain ko
-
   Ba-khuda na bhoolenge
 
-
   2
-
   Wo sitam wo zulm wo jafa ke silsile
-
   Alqama ke saamne qayaam jal gaye
-
   Nainawa na bhoolenge
 
-
   3
-
   Jis jagah hussain ka jawan hua shaheed
-
   Jis jagah hua tha ek bezuban shaheed
-
   Wo jagah na bhoolenge
 
-
   4
-
   Wo lahoo bhara alam wo mashk khoon bhari
-
   Intezar e aab mein sakina mar gayi
-
   Saaneha na bhoolenge
 
-
   5
-
   Karbal mein baad e qatl e shah e karbala
-
   Bar sar e sina hussain ne jo tha kaha
-
   La ilaah na bhoolenge
 
-
   6
-
   Khoon roye jis ke gham mein umr bhar imam
-
   Le gayi thi loot ke rida jo fauj e shaam
-
   Wo rida na bhoolenge
 
-
   7
-
   Asalaam ay karbala ki khaak asalaam
-
   Asalaam ay dafn e jism e pak asalaam
-
   Ye sada na bhoolenge
 
-
   8
-
   Sarwar o rehaan aarzu hai ab yehi
-
   Rauza e hussain pe ho sab ki haazari
-
-  Ye dua na bhoolenge'
+  Ye dua na bhoolenge
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:000d7e57b60ca97564d2
 # source_url: https://www.nohayonline.com/details_content.php?id=2062
@@ -94,11 +61,11 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_url: https://www.ziyaraat.net/api/noha/1631
 # raw_sha256: 7c9c4401d37b35874e4f6a93022941705c0435fc115f82e9e321d54219cb4d23
 ---
-
-بھول جاینگے ہر غم غم تیرا نہ بھولیں گے
+بھول جاینگے ہر غم
+غم تیرا نہ بھولیں گے
+کربلا نہ بھولیں گے کربلا نہ بھولیں گے
 
 ۱
-کربلا نہ بھولیں گے کربلا نہ بھولیں گے
 کیسے بھول جایئں مقصد حسین کو
 کیسے بھول جایئں فاطمہ کے چین کو
 با خدا نہ بھولیں گے
