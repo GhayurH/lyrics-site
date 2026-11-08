@@ -10,11 +10,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Maa kehti thi kya kya malaal jhele honge
-  
-  1
   Behna nahi paas kis se khele honge
   
-  2
+  1
   Raat andheri darona jangal
   Asghar mere qabr may akele honge
 # source_id: nohayonline:e44906834fdcf9dc7c8d
@@ -23,10 +21,8 @@ romanLyrics: |-
 ---
 
 ماں کہتی تھی کیا کیا ملال جھیلے ہونگے
-
-۱
 بہنا نہیں پاس کس سے کھیلے ہونگے
 
-۲
+۱
 رات اندھیری ڈرونا جنگل
 اصغر میرے قبر میں اکیلے ہونگے
