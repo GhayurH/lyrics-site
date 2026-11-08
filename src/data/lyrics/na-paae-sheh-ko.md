@@ -11,37 +11,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Na paa e sheh ko hai koi larzish
-  
-  1
   Na dast e sheh thar thara rahe hai
   Ali ko awaaz de ke laasha
   Jawan pisar ka utha rahe hai
   
-  2
+  1
   Rabab khoyi hui si baithi
   Hai ashk aankhon se jaa rahe hai
   Jo haath jhoola jhula rahe thay
   Wo ab bhi jhoola jhula rahe hai
   
-  3
+  2
   Kisi ko haathon pa leke pachunche
   Kisi ka laasha utha ke laaye
   Hussain maqtal ko jaa rahe hai
   Hussain maqtal se aa rahe hai
   
-  4
+  3
   Pahunche baali pa naujawan ki
   Hussain ba-haalate pareshan
   Sada uthaye ye naaz jis ke
   Ab uska laasha utha rahe hai
   
-  5
+  4
   Khayal asghar ka aa raha hai
   Awaaz gum qalb hai pareshan
   Rabab uth uth ke dekhti hai
   Ke jaise asghar bjhula rahe hai
   
-  6
+  5
   Saeed adab se jhukaye sar ko
   Mai apna nauha suna raha hoo
   Duayein deti hai mujhko zehra
@@ -52,37 +50,35 @@ romanLyrics: |-
 ---
 
 نہ پاے شہ کو ہے کوئی لرزش
-
-۱
 نہ دست شہ تھر تھرا رہے ہیں
 علی کو آواز دے کے لاشہ
 جواں پسر کا اٹھا رہے ہیں
 
-۲
+۱
 رباب کھوی ہوی سی بیٹھی
 ہے اشک آنکھوں سے جا رہے ہیں
 جو ہاتھ جھولہ جھلا رہے تھے
 وہ اب بھی جھولا جھلا رہے ہیں
 
-۳
+۲
 کسی کو ہاتھوں پہ لے کے پہنچے
 کسی کا لاشہ اٹھا کے لاے
 حسین مقتل کو جا رہے ہیں
 حسین مقتل سے آ رہے ہیں
 
-۴
+۳
 پہنچے بالیں پہ نوجواں کی
 حسین با حالت پریشاں
 صدا اٹھاے یہ ناز جس کے
 اب اس کا لاشہ اٹھا رہے ہیں
 
-۵
+۴
 خیال اصغر کا آ رہا ہے
 آواز گم قلب ہے پریشاں
 رباب اٹھ اٹھ کے دیکھتی ہے
 کہ جیسے اصغر بجھا رہے ہیں
 
-۶
+۵
 سعید ادب سے جھکائے سر کو
 میں اپنا نوحہ سنا رہے ہوں
 دعائیں دیتی ہے مجھکو زہرا
