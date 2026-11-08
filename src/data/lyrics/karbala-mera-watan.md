@@ -13,8 +13,6 @@ romanLyrics: |-
   Khuda ne kun jo kaha to kayenat bani
   Jo din to khalq kiya to din se raat bani
   Ye chand taare ye suraj ye do jahan bane
-
-  1
   Zameen bichayi gayi saaton aasman bane
   Bashar banaye gaye khaak se ba hukme khuda
   Inhi bashar mein huwe khalq khaas ahle aza
@@ -26,6 +24,8 @@ romanLyrics: |-
   Poocha jahan ne jab naam o pata
   Har matami ka yehi tha sukhan
   Karbala karbala mera watan
+
+  1
   Rab ne hi kaun o makan ko sajaya
   Us ne hi dono jahan ko basaya
   Hum ko hai nisbat karbobala se
@@ -120,8 +120,6 @@ romanLyrics: |-
 خدا نے کن جو کہا تو کاینات بنی
 جو دن تو خلق کیا تو دن سے رات بنی
 یہ چاند تارے یہ سورج یہ دو جہان بنے
-
-۱
 زمیں بچھای گیء ساتوں آسمان بنے
 بشر بناے گےء خاک سے بہ حکم خدا
 انہیں بشر میں ہوے خلق خاص اہلِ عزا
@@ -133,6 +131,8 @@ romanLyrics: |-
 پوچھا جہان نے جب نام و پتہ
 ہر ماتمی کا یہی تھا سخن
 کربلا کربلا میرا وطن
+
+۱
 رب نے ہی کون و مکاں کو سجایا
 اس نے ہی دونوں جہاں کو بسایا
 ہم کو ہے نسبت کربوبلا سے
