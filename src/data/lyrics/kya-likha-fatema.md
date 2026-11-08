@@ -9,73 +9,37 @@ poet: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haye..
-
-  Haaye, haaye
-
+romanLyrics: |-
+  Kya likha Fatema Sughra ne bataya na gaya
+  Sheh se khat laasha e akbar pe sunaya na gaya
 
   1
-
-  Kya likha Fatema Sughra ne bataya na gaya..(2)
-
-  Sheh se khat laasha e akbar pe sunaya na gaya..(2)
-
-  Kya likha..
-
-
-  2
-
-  1. Sheh ne chaha to bohot zakhm magar itne the..(2)
-
+  Sheh ne chaha to bohot zakhm magar itne the
   Laasha abbas ka dariya se uthaya na gaya
 
-
-  3
-
-  2. Jab talak aa na gaye saare sharabi tab tak..(2)
-
+  2
+  Jab talak aa na gaye saare sharabi tab tak
   Saniye zahra ko darbaar mein laaya na gaya
 
-
-  4
-
-  3. Dekha sairaab zabihe ko to bole sajjad..(2)
-
+  3
+  Dekha sairaab zabihe ko to bole sajjad
   Mere baba ko to pani bhi pilaya na gaya
 
+  4
+  Ek shabbir ki beti ke siwa duniya mein
+  Kisi masooma ko naaqe se giraya na gaya
 
   5
-
-  4. Haye...
-
-  Ek shabbir ki beti ke siwa duniya mein..(2)
-
-  Haye kisi masooma ko naaqe se giraya na gaya
-
+  Bheedh is darja thi haste hue logo ki waha
+  Sar bhi bazaar mein abid se uthaya na gaya
 
   6
-
-  5. Bheedh is darja thi haste hue logo ki waha..(2)
-
-  Haye sar bhi bazaar mein abid se uthaya na gaya
-
-
-  7
-
-  6. Haaye..
-
-  Baap ka sar jo mila soyi lipat kar aise..(2)
-
+  Baap ka sar jo mila soyi lipat kar aise
   Maa se bhi baali sakina ko jagaya na gaya
 
-
-  8
-
-  7. Mir sajjad shahe dee''n se ali asghar ka..(2)
-
-  Cchehra jalti hui reti se chupaya na gaya
-
-  Kya likha....'
+  7
+  Mir sajjad shahe deen se ali asghar ka
+  Chehra jalti hui reti se chupaya na gaya
 reciter: Meer Hasan Meer
 # source_id: nohayonline:e11a43e95c5cf145157c
 # source_url: https://www.nohayonline.com/details_content.php?id=353
@@ -86,9 +50,9 @@ reciter: Meer Hasan Meer
 ---
 
 کیا لکھا فاطمہ صغریٰ نے بتایا نہ گیا
+شہ سے خط لاشہء اکبر پہ سنایا نہ گیا
 
 ۱
-شہ سے خط لاشہء اکبر پہ سنایا نہ گیا
 شہ نے چاہا تو بہت زخم مگر اتنے تھے
 لاشہ عباس کا دریا سے اٹھایا نہ گیا
 
