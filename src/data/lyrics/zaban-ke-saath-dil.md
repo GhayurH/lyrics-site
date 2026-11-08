@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali ki badshahi hai
-  
-  1
   Ali ism e ilaahi hai
   Har ek mizaan mein tola
   Zaban ke saath dil bola
   Ali maula ali maula
+
+  1
   Lage jab hyderi naara
   Ali maula ali maula
   Jahan mein goonj hoti hai
   Ali maula ali maula
-  
+
   2
   Kabhi naade ali pad kar
   Kaho ya faathe khyber
   To mushkil hogi mushkil mein
   Ali ka naam hi sun kar
-  
+
   3
   Nusairi ne khuda maana
   Khuda ne la-fata jaana
   Khuda ko wohi samjhega
   Ali ko jis ne pehchana
-  
+
   4
   Ali suraj ko palta de
   Ali darya ko tehra de
   Ali chaahe to munkir par
   Qaza ki aag barsaade
-  
+
   5
   Ali aamil ali kaamil
   Ali kashti ali saahil
   Agar insaaf se poocho
   Ali islam ka hai dil
-  
+
   6
   Ali hai mazhare yazdan
   Ali hai bolta quran
   Nabuwat jism ki surat
   Ali us jism mein hai jaan
-  
+
   7
   Salooni ki sada ban kar
   Kabhi rehaan aur sarwar
@@ -61,14 +61,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2061
 # raw_sha256: 6b99dd1d9c548415c14bd392fcbb5beeb4fad5677cb36faa43124b8108b77fee
 ---
-
 علی کی بادشاہی ہے
-
-۱
 علی اسم الہٰی ہے
 ہر ایک میزان میں تولا
 زباں کے ساتھ دل بولا
 علی مولا علی مولا
+
+۱
 لگے جب حیدری نعرہ
 علی مولا علی مولا
 جہاں میں گونج ہوتی ہے

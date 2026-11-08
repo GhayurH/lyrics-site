@@ -11,21 +11,21 @@ aliases: []
 published: false
 romanLyrics: |-
   Jo pahuncha asr ko dashte bala mein zaafare jin
-  
-  1
   Ghira ajeeb ghame naarwan mein zaafare jin
   Sitam wo dekhta hai karbala mein zaafare jin
   Ke mubtela hua gham ki faza mein zaafare jin
   Bahot hi tanha shahe khushkisaal ko dekha
   Ke choor zakhmo se zehra ke laal ko dekha
   Jo pahuncha asr ko karbobala mein zaafare jin
+
+  1
   Machal ke zaafare jin ne nikaal li talwaar
   Buland karta tha jismi lakal fida ki pukaar
   Hussain ko jo ye manzar nazar pada ek baar
   Pukar kar kaha zaafar na kar abhi paykaar
   Bala ke ban mein na hum yun ladaayi chahte hai
   Khuda se ummate jadh ki bhalaayi chahte hai
-  
+
   2
   Khareeb aagaya ye hukm sunte hi zaafar
   Nazar pada usay andohnaak ek manzar
@@ -33,7 +33,7 @@ romanLyrics: |-
   Amama sar se utaare khade hai payghambar
   Wahan thay nooh zabiho khaleel aaye huwe
   Khade thay musa o eesa bhi sar jhukaye huwe
-  
+
   3
   Qadam ko choom ke sheh ke pukara ye zaafar
   Mere imam mere moqtada mere rehbar
@@ -41,7 +41,7 @@ romanLyrics: |-
   Na jaanisar koi aur na nasir o yawar
   Na lashkare na sipahe na kasratun nasir
   Na qasime na ali akbare na abbase
-  
+
   4
   Hussain legaye zaafar ko tab suye maidan
   To dekha sota hai darya kanare ek jawan
@@ -49,7 +49,7 @@ romanLyrics: |-
   Kaha hussain ne zaafar se ba dile giryan
   Hai hasraton ka badan yaas ka ye laasha hai
   Hamari jaan ka abbas ka ye laasha hai
-  
+
   5
   Hussain tab suye maqtal chale meine zaafar
   Wahan zameen pe laashe jawan aayi nazar
@@ -57,7 +57,7 @@ romanLyrics: |-
   Hamare jaan o jigar aur hamare noor e nazar
   Jigar pe naiza laga pusht se huwa baahar
   Sina ke saath kaleja bhi aagaya baahar
-  
+
   6
   Jo poocha zaafare jin ne ye ghatri mein kya hai
   Hussain roke pukaare ke ek dulha hai
@@ -65,7 +65,7 @@ romanLyrics: |-
   Sitam se ghodon ki taapon ne isko kuchla hai
   Hai sehra haath mein khwahar bhi intezar mein hai
   Dare qayaam pe maadar bhi intezar mein hai
-  
+
   7
   Kaha hussain ne ab tu yahan se jaa zaafar
   Jo ambiya bhi yahan hai na koi tehre idhar
@@ -73,7 +73,7 @@ romanLyrics: |-
   Rahenge bhaiya hassan aur rahega mera padar
   Bala ke dasht mein ahmed ki pyari aati hai
   Falak se ab meri maa ki sawari aati hai
-  
+
   8
   Ba waqte asr chali karbala mein tez hawa
   Malaayeka bhi ye utre sawari e zehra
@@ -81,7 +81,7 @@ romanLyrics: |-
   Rakha hussain ne zaanu pe maa ke sar apna
   Kaha mujhe wohi lori sunado ay amma
   Ke neendh aati hai mujhko sulado ay amma
-  
+
   9
   Bayan ho kaise ay majid wo khoon fashan manzar
   Dobara dasht mein aaya palat ke jab zaafar
@@ -93,16 +93,15 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=999
 # raw_sha256: 78881a831e2211decd21c7f0ed57e7c3adfc2e9abe9b8a055e7e324c69c82cbd
 ---
-
 جو پہنچا عصر کو دشت بلا میں زعفر جن
-
-۱
 گھرا عجیب غم نارواں میں زعفر جن
 ستم وہ دیکھتا ہے کربلا میں زعفر جن
 کہ مبتلا ہوا غم کی فضا میں زعفر جن
 بہت ہی تنہا شہ خوشخصال کو دیکھا
 کہ چور زخموں سے زہرا کے لال کو دیکھا
 جو پہنچا عصر کو کربو بلا میں زعفر جن
+
+۱
 مچل کے زعفر جن نے نکال کر تلوار
 بلند کرتا ہے جسمی لکل فدا کی پکار
 حسین کو جو یہ منظر نظر پڑا ایک بار
