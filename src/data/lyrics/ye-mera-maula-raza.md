@@ -11,38 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye reza maula reza
+
+  1
   Mazloom be-watan ye mera maula reza hai
   Jisko zehr logon musalman ne diya hai
   Sab aankhein karo band duhaai hai duhaai
   Ek bibi azadaron yahan shaam se aayi
   Lipti hai janaze se nahi sar pe rida hai
 
-  1
+  2
   Aaye hai janaze pe nabi shaahe umam bhi
   Kulsoom o ruqayya bhi hai masooma e qum bhi
   Wo bibi hai karbala mein jali jiski abaa hai
 
-  2
+  3
   Yun loota musalmano ne zehra ke chaman ko
   Hai zehr diya jaise mere maula hassan ko
   Dohrayi gayi haye wohi is pe jafa hai
 
-  3
+  4
   Masooma e qum deti hai ro ro ke duhaai
   Ay kaash mila de koi mujhse mera bhai
   Sughra ki tarha haye behan jis se juda hai
 
-  4
+  5
   Mamoon abbasi ki inayat hai ye logon
   Aale payambar se adawat hai ye logon
   Sayyedon se zara dekho ye ummat ki wafa hai
 
-  5
+  6
   Qurban mere maula pe ho jaan hamari
   Maqrooz mere maula ki ye dunya hai saari
   Ye martaba hoke bhi ghareebul ghuraba hai
 
-  6
+  7
   Rote hai farishte bhi zameen aur zamaan bhi
   Loh o qalam arshe bareen kaun o makaan bhi
   Khairunnisa ke laal ke matam ki sada hai
@@ -51,38 +53,40 @@ romanLyrics: |-
 # raw_sha256: 9a5ee0f6bc767dc636e0d17aa456f713874f884999dae168199216307097a941
 ---
 ہاے رضا مولا رضا
+
+۱
 مظلوم بے وطن یہ میرا مولا رضا ہے
 جس کو زہر لوگوں مسلماں نے دیا ہے
 سب آنکھیں کرو بند دہای ہے دہای
 اک بی بی عزاداروں یہاں شام سے آی
 لپٹی ہے جنازے سے نہیں سر پہ ردا ہے
 
-۱
+۲
 آے ہیں جنازے پہ نبی شاہ امم بھی
 کلثوم و رقیہ بھی ہے معصومہء قم بھی
 وہ بی بی ہے کربلا میں جلی جس کی عبا ہے
 
-۲
+۳
 یوں لوٹا مسلمانوں نے زہر کے چمن کو
 ہے زہر دیا جیسے میرے مولا حسن کو
 دہرای گیء ہاے وہی اس پہ جفا ہے
 
-۳
+۴
 معصومہء قم دیتی ہے رو رو کے دہای
 اے کاش ملا دے کوئی مجھ سے میرا بھائی
 صغرا کی طرح ہاے بہن جس سے جدا ہے
 
-۴
+۵
 مامون عباس کی عنایت ہے یہ لوگوں
 آل پیمبر سے عداوت ہے یہ لوگوں
 سیدوں سے زرا دیکھو یہ امت کی وفا ہے
 
-۵
+۶
 قربان میرے مولا پہ ہو جان ہماری
 مقروض میرے مولا کی یہ دنیا ہے ساری
 یہ مرتبہ ہو کے بھی غریب الغربا ہے
 
-۶
+۷
 روتے ہیں فرشتے بھی زمیں اور زماں بھی
 لوح و قلم عرش بریں کون و مکاں بھی
 خیرالنسا کے لال کے ماتم کی صدا ہے
