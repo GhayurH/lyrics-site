@@ -10,66 +10,67 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek shor hai abbas hai abbas
-  Darya pe jo pahuncha asadullah ka pyara
-  Lalkaar ke phir fauj ko ghazi ye pukara
-  Tum sab yehi kehte thay ke darya hai hamara
-  Ab dekhun ke darya hai hamara ke tumhara
-  Lo cheen lo ye hum hai ye qabza hai hamara
-  Darya hai humara darya hai humara
-  Abbas ka naara hai alamdar ka naara
+  Ek shor hai Abbas hai Abbas
+  Darya pe jo pahuncha Asadullah ka pyara
+  Lalkar ke phir fauj ko Ghazi ye pukara
+  Tum sab yehi kehte the ke darya hai hamara
+  Ab dekhuṅ ke darya hai hamara ke tumhara
+  Lo chhin lo ye hum hain ye qabza hai hamara
+  Darya hai hamara Darya hai hamara
+  Abbas ka naara hai Alamdar ka naara
 
   1
-  Mai hyder e karraar ke saaye mein pala hoo
-  Mai fatema zehra ki duaon ka sila hoo
-  Abbas mera naam alamdar e wafa hoo
-  Ye naam o nasab hai meri kismat ka sitara
+  Main Haider-e-Karrar ke saaye mein pala huṅ
+  Main Fatema Zehra ki duaoṅ ka sila huṅ
+  Abbas mera naam Alamdar-e-wafa huṅ
+  Ye naam o nasab hai meri qismat ka sitara
 
   2
-  Aaqa ki duaon ka karam saath hai mere
-  Dekho bani hashim ka hasham saath hai mere
-  Rutba hai alamdar alam saath hai mere
-  Lehrake pharera bhi ye karta hai ishaara
+  Aaqa ki duaoṅ ka karam saath hai mere
+  Dekho Bani Hashim ka hasham saath hai mere
+  Rutba hai Alamdar alam saath hai mere
+  Lehra ke pharera bhi ye karta hai ishara
 
   3
-  Saahil pe jo ye fauj ke daste hai tumhare
-  Ek aan mein paywand e zameen ho abhi saare
-  Darya ulat aaye abhi qadmon mein hamare
-  Ek hashr bapa kardoo mai kardoo jo ishaara
+  Sahil pe jo ye fauj ke daste hain tumhare
+  Ek aan mein paiwand-e-zamin hoṅ abhi saare
+  Darya ulat aaye abhi qadmoṅ mein hamare
+  Ek hashr bapa kar duṅ main kar duṅ jo ishara
 
   4
-  Khat bhej ke tumne jinhe yasrab se bulaya
-  Mehman thay lekin unhe darya se hataya
-  Pyase hi rahe wo unhe pani na pilaya
-  Allah ne jinke liye kausar ko utaara
+  Khat bhej ke tum ne jinheṅ Yasrab se bulaya
+  Mehman the lekin unheṅ darya se hataya
+  Pyase hi rahe wo unheṅ pani na pilaya
+  Allah ne jin ke liye Kausar ko utara
 
   5
-  Ye hukm hai aaqa ka na talwaar uthana
-  Warna meri zarbon se larazta ye zamana
-  Ye fauje jafakaar ye zaalim ka thikana
-  Ek naize se naqsha hi badal jayega saara
+  Ye hukm hai Aaqa ka na talwar uthana
+  Warna meri zarboṅ se larazta ye zamana
+  Ye fauj-e-jafakar ye zalim ka thikana
+  Ek neze se naqsha hi badal jayega saara
 
   6
-  Kya fauj ki tadaad batate ho hamein tum
-  Hum dekhe ke kis tarha hatate ho hamein tum
-  Kis haakim o jabir se darate ho hamein tum
-  Ab naam na lena kisi haakim ka dubara
+  Kya fauj ki tadad batate ho hameṅ tum
+  Hum dekheṅ ke kis tarah hatate ho hameṅ tum
+  Kis hakim o jabir se darate ho hameṅ tum
+  Ab naam na lena kisi hakim ka dobara
 
   7
-  Pyasa hoo magar sunle sabhi dushman e jaani
-  Pani mujhe peena nahi le jaana hai pani
-  Haye mere masoomon ki wo tishna dahani
-  Hai mashke sakina unhi pyason ka sahara
+  Pyasa huṅ magar sun le sabhi dushman-e-jani
+  Pani mujhe pina nahiṅ le jaana hai pani
+  Haaye mere masumoṅ ki wo tishna dahani
+  Hai mashk-e-Sakina unhi pyasoṅ ka sahara
 
   8
-  Tareekh ne dekha na hilal aisa wafadaar
-  Ab bhi hai taraayi ki zameen par wo dilafgaar
-  Wo dekh zara rauza e abbas e alamdar
+  Tarikh ne dekha na Hilal aisa wafadar
+  Ab bhi hai tarai ki zamin par wo dilafgar
+  Wo dekh zara rauza-e-Abbas-e-Alamdar
   Ek zinda gawahi hai ye marqad ka nazara
 # source_id: nohayonline:81cd4dd63dacf65fe396
 # source_url: https://www.nohayonline.com/details_content.php?id=1723
 # raw_sha256: f609c664eb2c3ad7c0b8fcb8c639879afc106a32b335f5005184e5b6b573cda7
 ---
+
 اک شور ہے عباس ہے عباس
 دریا پہ جو پہنچا اسداللہ کا پیارا
 للکار کے پھر فوج کو غازی یہ پکارا
@@ -88,12 +89,12 @@ romanLyrics: |-
 ۲
 آقا کی دعاؤں کا کرم ساتھ ہے میرے
 دیکھو بنی ہاشم کا ہشم ساتھ ہے میرے
-رتبہ ہے ععلمدار علم ساتھ ہے میرے
-لہرا کے بہریرا بھی کرتا ہے اشارہ
+رتبہ ہے علمدار علم ساتھ ہے میرے
+لہرا کے پھریرا بھی کرتا ہے اشارہ
 
 ۳
 ساحل پہ جو یہ فوج کے دستے ہیں تمہارے
-اک ان میں پیوند زمیں ہو ابھی سارے
+اک آن میں پیوندِ زمیں ہو ابھی سارے
 دریا اُلَٹ آئے ابھی قدموں میں ہمارے
 اک حشر بپا کردوں میں کردوں جو اشارہ
 
@@ -111,9 +112,9 @@ romanLyrics: |-
 
 ۶
 کیا فوج کی تعداد بتاتے ہو ہمیں تم
-ہم دیکھیں کے کس طرح ہٹاتے ہو ہمیں تم
+ہم دیکھیں کہ کس طرح ہٹاتے ہو ہمیں تم
 کس حاکم و جابر سے ڈراتے ہو ہمیں تم
-اب نام نہ لے نہ کسی حاکم کا دوبارہ
+اب نام نہ لینا کسی حاکم کا دوبارہ
 
 ۷
 پیاسا ہوں مگر سن لیں سبھی دشمن جانی
@@ -122,7 +123,7 @@ romanLyrics: |-
 ہے مشک سکینہ انہی پیاسوں کا سہارا
 
 ۸
-تاریخ نے دیکھا نہ حلال ایسا وفادار
+تاریخ نے دیکھا نہ ہلال ایسا وفادار
 اب بھی ہے ترائی کی زمیں پر وہ دلفگار
-وہ دیکھ زرا روضة عباس علمدار
+وہ دیکھ ذرا روضۂ عباسِ علمدار
 اک زندہ گواہی ہے یہ مرقد کا نظارہ

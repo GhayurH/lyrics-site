@@ -10,69 +10,70 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nishane lashkare fauje khuda abbas ka parcham
-  Shaja'ane arab ka silsila abbas ka parcham
-  Waqaar o azm o himmat hausla abbas ka parcham
-  Sikhaata hai ita'at aur wafa abbas ka parcham
+  Nishan-e-lashkar-e-fauj-e-Khuda Abbas ka parcham
+  Shujaan-e-Arab ka silsila Abbas ka parcham
+  Waqar o azm o himmat hausla Abbas ka parcham
+  Sikhata hai itaat aur wafa Abbas ka parcham
 
   1
-  Shiya'il deen e haq ke aur aayaat e elaahi hai
-  Shabihe zuljanah ho tadiya abbas ka parcham
+  Shiyail Din-e-Haq ke aur aayat-e-Ilahi hai
+  Shabih-e-Zuljanah ho tadiya Abbas ka parcham
 
   2
-  Wo kya nemat hai jo iske tasadduq hum nahi paate
-  Batayein kya tumhe deta hai kya abbas ka parcham
+  Wo kya nemat hai jo iske tasadduq hum nahiṅ paate
+  Bataeṅ kya tumheṅ deta hai kya Abbas ka parcham
 
   3
-  Muhafiz hai do aalam mein azardaran e sarwar ke
-  Riza e haq dua e sayyeda abbas ka parcham
+  Muhafiz hai do aalam mein azadaran-e-Sarwar ke
+  Riza-e-Haq dua-e-Sayyeda Abbas ka parcham
 
   4
-  Hai hamza jafar o hyder ki yadein is se wabasta
-  Inhi hazraat ki meeras tha abbas ka parcham
+  Hai Hamza Jafar o Haider ki yadeṅ is se wabasta
+  Inhi hazraat ki miras tha Abbas ka parcham
 
   5
-  Liwa'il hamd ke maanind misle chaadar e zehra
-  Khuda ka kurb karta hai ataa abbas ka parcham
+  Liwa-il-Hamd ke manind misl-e-chadar-e-Zehra
+  Khuda ka qurb karta hai ata Abbas ka parcham
 
   6
-  Jahan e rang o boo mein qabr mein barzakh mein mehshar mein
-  Sahara hai hamara aap ka abbas ka parcahm
+  Jahan-e-rang o bu mein qabr mein barzakh mein mahshar mein
+  Sahara hai hamara aap ka Abbas ka parcham
 
   7
-  Mera daawa hai tumse mushkilein khud bach ke niklengi
-  Tasavvur mein rakho subho masa abbas ka parcham
+  Mera waada hai tum se mushkileṅ khud bach ke nikleṅgi
+  Tasawwur mein rakho subh o masa Abbas ka parcham
 
   8
-  Chuda lete hai hum ko sibte jafar har musibat se
-  Dua aake shifa farshe aza abbas ka parcham
+  Chhura lete hain hum ko Sibte Jafar har musibat se
+  Dua aa ke shifa farsh-e-aza Abbas ka parcham
 
   9
-  Yehi tha dasthe gurbat mein aness e zainab o sarwar
-  Sakina aur haram ka aasra abbas ka parcham
+  Yehi tha dasht-e-ghurbat mein anis-e-Zainab o Sarwar
+  Sakina aur haram ka aasra Abbas ka parcham
 
   10
-  Rahengi chadarein sar par bhujegi pyaas bachon ki
-  Dilaasa zuhr tak deta raha abbas ka parcham
+  Raheṅgi chadareṅ sar par bujhegi pyaas bachchoṅ ki
+  Dilasa zuhr tak deta raha Abbas ka parcham
 
   11
-  Kamar tooti hussain ibne ali ki aas bachon ki
-  Khareeb e asr jab thanda hua abbas ka parcham
+  Kamar tuti Husain Ibn-e-Ali ki aas bachchoṅ ki
+  Qarib-e-asr jab thanda hua Abbas ka parcham
 
   12
-  Lagaye ab seene se mashkeeza sakina ka
-  Bahot ghamgeen hai baad e karbala abbas ka parcham
+  Lagaye ab sine se mashkiza Sakina ka
+  Bahot ghamgin hai bad-e-Karbala Abbas ka parcham
 
   13
-  Majaalis mein julooson mein azakhano mein zindan mein
-  Sakina ko hai ab bhi dhoondta abbas ka parcham
+  Majalis mein julusoṅ mein azakhanoṅ mein zindaṅ mein
+  Sakina ko hai ab bhi dhundta Abbas ka parcham
 # source_id: nohayonline:099c0fecca54a976de98
 # source_url: https://www.nohayonline.com/details_content.php?id=2648
 # raw_sha256: c91af3bd8cf913aeeeafad372efdbb322c8705b72a2ae335e40cb42d761ede6f
 ---
+
 نشان لشکرِ فوج خدا عباس کا پرچم
 شجاعان عرب کا سلسلہ عباس کا پرچم
-وقار و ازم و ہمت حوصلہ عباس کا پرچم
+وقار و عزم و ہمت حوصلہ عباس کا پرچم
 سکھاتا ہے اطاعت اور وفا عباس کا پرچم
 
 ۱
@@ -81,18 +82,18 @@ romanLyrics: |-
 
 ۲
 وہ کیا نعمت ہے جو اس کے تصدق ہم نہیں پاتے
-بتاییں کیا تمہیں دیتا ہے کیا عباس کا پرچم
+بتائیں کیا تمہیں دیتا ہے کیا عباس کا پرچم
 
 ۳
 محافظ ہے دو عالم میں عزاداران سرور کے
-رضاے حق دعاے سیدہ عباس کا پرچم
+رضائے حق دعائے سیدہ عباس کا پرچم
 
 ۴
 ہے حمزہ جعفر و حیدر کی یادیں اس سے وابستہ
 انہیں حضرات کی میراث تھا عباس کا پرچم
 
 ۵
-لو ایل حمد کے مانند مثل چادر زہرا
+لواءِ الحمد کے مانند مثل چادر زہرا
 خدا کا کرب کرتا ہے عطا عباس کا پرچم
 
 ۶
@@ -120,7 +121,7 @@ romanLyrics: |-
 قریب عصر جب ٹھنڈا ہوا عباس کا پرچم
 
 ۱۲
-لگاے اب سینے سے مشکیزہ سکینہ کا
+لگائے اب سینے سے مشکیزہ سکینہ کا
 بہت غمگین ہے بعد کربلا عباس کا پرچم
 
 ۱۳
