@@ -11,9 +11,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Sakina shaam ke zindan may so gayi baba
-  Bayan kaise karenge ye mesum o mazhar
-  Jo bain baba se karte thay abid e muztar
-  Sakina shaam ke zindan may so gayi baba
   
   1
   Tamache shimr se khaati thi jab bhi roti thi
@@ -44,11 +41,15 @@ romanLyrics: |-
   Nahi zara sa ujaala bhi us ki turbat par
   Andhere karne lage nauha us ki turbat par
   Karega kaun yahan aa ke roshni baba
+  
+  7
+  Bayan kaise karenge ye mesum o mazhar
+  Jo bain baba se karte thay abid e muztar
+  Sakina shaam ke zindan may so gayi baba
 # source_id: nohayonline:5cf48e10cc5ade15197a
 # source_url: https://www.nohayonline.com/details_content.php?id=1322
 # raw_sha256: ac4bb5f28a68e0bdc1523e7f3ec07f7d248a5ac8d61967d2e588ec54a10b0cfc
 ---
-
 سکینہ شام کے زنداں میں سو گیء بابا
 
 ۱
