@@ -10,47 +10,47 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa ali asghar aa ali asghar
-  Tujhko jo paa'un ay mere asghar
-  Jhoola jhula'un aa mere asghar
-  Jhoola jhula'un lori suna'un
-  Doodh pila'un aa mere asghar
+  Aa Ali Asghar aa Ali Asghar
+  Tujhko jo paun ae mere Asghar
+  Jhula jhulaun aa mere Asghar
+  Jhula jhulaun lori sunaun
+  Dudh pilaun aa mere Asghar
 
   1
   Mere mujahid mere sipahi
-  Khatm huvi maidan mein ladaai
+  Khatm hui maidan mein larai
   Ghar ko sidharo maa ko pukaro
-  Mai chain paa'un aa mere asghar
+  Main chain paun aa mere Asghar
 
   2
   Yaad aa rahi hai masoom baatein
   Din be-sukoon hai be-chain raate
-  Jee na sakungi roti rahungi
+  Ji na sakungi roti rahungi
   Aansu baha'un aa mere asghar
 
   3
-  Pooch rahi hai bali sakina
-  Kyon nahi aaya laut ke bhaiya
+  Puch rahi hai bali Sakina
+  Kiun nahiṅ aaya laut ke bhaiya
   Tu hi bata de maidan se aake
-  Mai kya bata'un aa mere asghar
+  Main kya bataun aa mere Asghar
 
   4
   Phaile huve hai shaam ke saaye
   Ab to parinde bhi laut aaye
-  Mai ro rahi hoo jaan kho rahi hoo
+  Main ro rahi huṅ jaan kho rahi huṅ
   Tujhko sula'un aa mere asghar
 
   5
   Zakhmi gala aur pyaas ki shiddat
   Hoti to hogi maa ki zaroorat
   Tu jo pukare dil ke sahare
-  Mai daudi aa'un aa mere asghar
+  Main dauri aaun aa mere Asghar
 
   6
   Mehsoos mujhko ye ho raha hai
   Jaise ke jhoola bhi ro raha hai
-  Ay mere beta ye rota jhoola
-  Kaise jhula'un aa mere asghar
+  Ae mere beta ye rota jhula
+  Kaise jhulaun aa mere Asghar
 
   7
   Pyaas bujhane nehr kanare
@@ -65,7 +65,7 @@ romanLyrics: |-
   Mai mar na jaa'un aa mere asghar
 
   9
-  Rehaan-o-sarwar bano ke lab par
+  Rehaan o Sarwar Bano ke lab par
   Ek sada thi ay mere asghar
   Sooni hai jangal hai gham ka badal
   Tujhko chupa'un aa mere asghar

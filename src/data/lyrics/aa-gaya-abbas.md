@@ -10,21 +10,18 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bar sare dosh haram tha wo saqqa e haram
-  Jaanib e nehr chala uthe aada ke qadam
-  Saani e shere khuda ban ke aaya hai qaza
-  Har taraf shor utha aagaya abbas
-  Ya abbas ya abbas
-
-  Saani e shere khuda ban ke aaya hai qaza
-  Har taraf shor utha aagaya abbas
+  Bar sar-e-dosh-e-haram tha wo saqqa-e-haram
+  Janib-e-nehr chala uthe aada ke qadam
+  Sani-e-sher-e-Khuda ban ke aaya hai qaza
+  Har taraf shor utha aa gaya Abbas
+  Ya Abbas Ya Abbas
 
   1
-  Misle taweez e wafa mashk ko saath liya
+  Misl-e-tawiz-e-wafa mashk ko saath liya
   Boli panje ki chamak marhaba salle-alaa
   Al-amaan o al-azal door tak hadd e nazar
-  Abu talib ka jigar hashmi rashk e qamar
-  Kaatne zulm ka sar aagaya abbas
+  Abu Talib ka jigar Hashmi rashk-e-qamar
+  Kaatne zulm ka sar aa gaya Abbas
   
   2
   Khair maqdam ko badhi alqama suye jari
@@ -36,7 +33,7 @@ romanLyrics: |-
   3
   Aks e hyder hai yehi misle jafar hai yehi
   Zarb e hamza ki qasam mas'ad e narr hai yehi
-  Baani e shehr e wafa dil e zehra ki dua
+  Bani-e-shehr-e-wafa dil-e-Zehra ki dua
   Karne aaya hai wigha chahiye jisko qaza
   Saamne aaye zara aagaya abbas
   
@@ -45,21 +42,21 @@ romanLyrics: |-
   Sang sab khaak huwe chup gaye darr ke layeen
   Naiza shamsheer bana ghaiz jab hadh se bada
   Mai sakina ka chacha khadim e shaahe huda
-  Aayi gardoon se sada aagaya abbas
+  Aayi gardun se sada aa gaya Abbas
   
   5
   Dhaaras e tishna laban baazu e shahe zaman
   Pyase bachon ke liye mustaqil nauha kuna
   Pani chullu mein liya yaad aaqa ko kiya
   Jaanib e qaima chala aayi parcham ki hawa
-  Pyase bachon ne kaha aagaya abbas
+  Pyase bachon ne kaha aa gaya Abbas
   
   6
   Aayi awaaz e jari ya hussain ibne ali
   Dam hai seene mein ruka chid gayi mashk meri
   Jald aao mai chala ho gaye haath juda
   Aankh mein teer chubha sar bhi do neem hua
-  Ro ke sarwar ne kaha aagaya abbas
+  Ro ke Sarwar ne kaha aa gaya Abbas
   
   7
   Thaame shabbir kamar nauhagar khasta jigar
@@ -73,7 +70,7 @@ romanLyrics: |-
   Aaya qaimon ki taraf binte zehra ne kaha
   Sach tha baba ne kaha looti jayegi rida
   Par yaqeen mujhko na tha kisko ab doo mai sada
-  Lashkar e jor o jafa aagaya abbas
+  Lashkar-e-jor-o-jafa aa gaya Abbas
   
   9
   Haye rehaan o raza din wo ashoor ka tha

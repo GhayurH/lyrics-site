@@ -10,19 +10,19 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa mere pyare hussain
+  Aa mere pyare Husain
   
   1
-  Aa meri godh ke paale mere hussain aa
-  Mere gareeb aa zara maa ke khareeb aa
+  Aa meri god ke pale mere Husain aa
+  Mere gharib aa zara maaṅ ke qarib aa
   Sina figaar hai tera mujko hai ye pata
-  Dashte bala mein fatema zehra ki thi sada
+  Dasht-e-bala mein Fatema Zehra ki thi sada
   
   2
   Kis ne mere jigar pe ye khanjar chala diya
-  Kis ne mere hussain ko pani nahi diya
+  Kis ne mere Husain ko pani nahiṅ diya
   Khud chal ke kyun na aa gaya darya ko kya hua
-  Ek baar maa pukar ke godhi mein layt jaa
+  Ek baar maaṅ pukar ke god mein let ja
   
   3
   Seh roz ki ye pyaas ye jalti hui zameen
@@ -32,15 +32,15 @@ romanLyrics: |-
   
   4
   Pehle to baba jaan ko royi mai zaar zaar
-  Royi ali ko qabr mein dil ho gaya figaar
-  Ek laal tha hassan mera uski hoo soghwar
+  Royi Ali ko qabr mein dil ho gaya figar
+  Ek laal tha Hasan mera uski huṅ sogwar
   Ab tere gham ne qabr mein rehne nahi diya
   
   5
   Aata hai yaad mujhko madine mein apna ghar
-  Chakki mai peesti thi magar tum pe thi nazar
+  Chakki main pisti thi magar tum pe thi nazar
   Tum ko sulaaya karti thi raaton ko jaag kar
-  Ab mai jagane aayi hoo ay lal jaag jaa
+  Ab main jagane aayi huṅ ae laal jaag ja
   
   6
   Ek bar maa pukaar le bilkul usi tarha
@@ -49,7 +49,7 @@ romanLyrics: |-
   Mere baghair chain se ek pal nahi raha
   
   7
-  Maa hoo mujhe bata tere seene pe kya hua
+  Maaṅ huṅ mujhe bata tere sine pe kya hua
   Kyun hai kamar jhuki hui chehra lahoo bhara
   Abbas hai kahan ali akbar kahan gaya
   Haa thak gaya hai aa meri godhi mein laal aa

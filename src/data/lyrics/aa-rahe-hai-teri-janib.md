@@ -10,26 +10,26 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa rahe hai teri jaanib ay zameen e karbala
-  Mashk e nusrat ke liye hai arbaeen e karbala
-  Aa rahe hai teri jaanib ay zameen e karbala
+  Aa rahe hain teri janib ae zamin-e-Karbala
+  Mashk-e-nusrat ke liye hai Arbaeen-e-Karbala
+  Aa rahe hain teri janib ae zamin-e-Karbala
   
   1
   Auratein bache hai boodhe aur jawan bhi saath hai
   Qudsi o jinn o malak kaun o makan bhi saath hai
-  Zaaire karbobala mehdi e jaan bhi saath hai
+  Zair-e-Karbobala Mehdi-e-jaan bhi saath hain
   Badh rahe hai shauq se sab shayaqeen e karbala
   
   2
   Rauza e hyder se hoti hai wafa ki ibteda
-  Maujiza jisko hai samjha ye hai zahra ki dua
+  Maujiza jisko hai samjha ye hai Zahra ki dua
   Hai karoron ka juloos aur saath hai farshe aza
   Ab najaf tak bich gayi hai sar zameen e karbala
   
   3
   Is ziyarat ke safar mein saahib e kirdaar hai
   Parcham e abbas haathon mein hai sab bedaar hai
-  Ay imam e asr nusrat ke liye tayyar hai
+  Ae Imam-e-Asr nusrat ke liye tayyar hain
   Muntaqim ke muntazir hai momineen e karbala
   
   4
@@ -41,18 +41,18 @@ romanLyrics: |-
   5
   Khaana e kaaba ki deewaron se utha shor o shain
   Aasman ko dekhta hai fatema ka noor e ain
-  Hajj ko umre mein badal kar chal diye maula hussain
+  Hajj ko umre mein badal kar chal diye Maula Husain
   Aazmeen e hajj huwe hai aazmeen e karbala
   
   6
   Parda e ghaibat uthega mere maula aayenge
-  Gar bulasya aap ne paidal bhi chal kar jayenge
+  Gar bulaya aap ne paidal bhi chal kar jayenge
   Saath mein maa baap bache aur bhai laayenge
   Kar qabool in zehmaton ko ay makeen e karbala
   
   7
   Ek majlis hogi rauzon par pahonch kar aur bain
-  Ek taraf abbas honge ek taraf maula hussain
+  Ek taraf Abbas honge ek taraf Maula Husain
   Kaisa girya hoga kya zaakir ki hogi zeb o zain
   Ek jagah honge bahattar saamaeen e karbala
   
@@ -60,7 +60,7 @@ romanLyrics: |-
   Chauda farsakh tak hamein khaana khilata kaun hai
   Zaair e shabbir ko pani pilaata kaun hai
   Saaf joote kar ke ye aansu bahata kaun hai
-  Allah allah dekho shaan e zaireen e karbala
+  Allah Allah dekho shan-e-zairin-e-Karbala
   
   9
   Ho sharaf haasil ziyarat ka qamar maango dua

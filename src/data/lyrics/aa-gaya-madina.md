@@ -11,12 +11,12 @@ aliases: []
 published: false
 romanLyrics: |-
   
-  Lutke aa gaya watan fatema ka kunba
-  Aa gaya madina aa gaya madina
+  Lut ke aa gaya watan Fatema ka kunba
+  Aa gaya Madina aa gaya Madina
 
   1
-  Kaisi ye udasiyan fizaon par hai taari
-  Aa rahe hai qudsiya alam siyaah amaari
+  Kaisi ye udasiyan fizaon par hain taari
+  Aa rahe hain qudsiya alam siyah amaari
   Kaisa dardnaak hai musafiron ka kissa
   
   2
@@ -32,20 +32,20 @@ romanLyrics: |-
   4
   Ek do nahi tamaam ghar ki hai sunani
   Karbala ne cheen li madine ki nishani
-  Rote hai haram basheer pad raha hai nauha
+  Rote hain haram Bashir parh raha hai nauha
   
   5
-  Is qadar khamosh kyon ho ay rabab bolo
+  Is qadar khamosh kiun ho ae Rabab bolo
   Apni laadli ko dogi kya jawaab bolo
   Hai kahan mera sagheer poochegi jo sughra
   
   6
   Kis tarha wo gham ka maajra kahenge abid
-  Sochiye chacha se apne kya kahenge abid
+  Sochiye chacha se apne kya kahenge Abid
   Wo jo poochle gale mein zakhm hai ye kaisa
   
   7
-  Ay basheer alqama pe kya hua batao
+  Ae Bashir Alqama pe kya hua batao
   Maa sawaal kar rahi hai waqiya sunao
   Qaime jab jale to mera laadla kahan tha
   
@@ -61,14 +61,14 @@ romanLyrics: |-
   
   10
   Le chala naseeb jab bhi rauza e nabi par
-  Soch kar tadap uthe ye aamir aur nayyar
-  Ye jagah wo hai jahan hussain phir na aaya
+  Soch kar tarap uthe ye Aamir aur Nayyar
+  Ye jagah wo hai jahan Husain phir na aaya
 # source_id: nohayonline:33ee7d0d3f8ac38e405b
 # source_url: https://www.nohayonline.com/details_content.php?id=2441
 # raw_sha256: be85540061dd58f12673d04d45d7d69439161cfbb41392f65887518be32429c4
 ---
 
-لٹ کے گیا وطن فاطمہ کا کنبہ
+لٹ کے آ گیا وطن فاطمہ کا کنبہ
 آ گیا مدینہ آ گیا مدینہ
 
 ۱

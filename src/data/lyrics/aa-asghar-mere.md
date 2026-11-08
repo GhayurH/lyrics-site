@@ -10,38 +10,38 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa asghar mere aa asghar aa asghar
+  Aa Asghar Mere aa Asghar aa Asghar
   
-  Lipti hui jhoole se ye kehti rahi maadar
-  Din dhal gaya hai aaja aaja ali asghar
+  Lipti hui jhule se ye kehti rahi madar
+  Din dhal gaya hai aaja aaja Ali Asghar
 
   1
   Hai itna andhera ke nazar kuch nahi aata
-  Ay chand mere noore nazar laut ke aaja
+  Ae chand mere nur-e-nazar laut ke aaja
   
   2
-  Jal jaye mere haath ke jal jaaun mai khud bhi
-  Ay laal tere jhoole ko jalne nahi doongi
+  Jal jaye mere haath ke jal jaun main khud bhi
+  Ae laal tere jhule ko jalne nahiṅ dungi
   
   3
   Chain aayega kis tarha tujhe jalti zameen par
-  Aaja tujhe behla'un mai seene se laga kar
+  Aaja tujhe behlaun main sine se laga kar
   
   4
-  Hasrat bhari nazron se tera dekhna maa ko
+  Hasrat bhari nazron se tera dekhna maaṅ ko
   Jaate huwe kuch aur bhi tadpa gaya maa ko
   
   5
   Jeene ko nahi deti ye qaime ki udaasi
-  Zinda hoo ke aane ki tere aas hai baaqi
+  Zinda huṅ ke aane ki tere aas hai baaqi
   
   6
-  Haathon may rasan hai mere aur khaak hai sar par
+  Haathon mein rasan hai mere aur khaak hai sar par
   Tu aa ke zara dekh to ghurbat ka ye manzar
   
   7
-  Maqtal may har ek simt qayamat ka samaa hai
-  Mai dhoond rahi hoo mera baysheer kahan hai
+  Maqtal mein har ek simt qayamat ka samaa hai
+  Main dhund rahi huṅ mera beshir kahan hai
   
   8
   Jhoole se juda karna qayamat hua gohar
@@ -56,7 +56,7 @@ romanLyrics: |-
 لپٹی ہوی جھولے سے یہ کہتی رہی مادر
 دن ڈھل گیا ہے آجا آجا علی اصغر
 
-1
+۱
 ہے اتنا اندھیرا کہ نظر کچھ نہیں آتا
 اے چاند میرے نورِ نظر لوٹ کے آجا
 

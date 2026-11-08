@@ -13,46 +13,46 @@ romanLyrics: |-
   Ashoor ka suraj hai qayamat ki ghari hai
   Bhai ka gala katta behan dekh rahi hai
   Maqtal mein kisi maa ki sada goonj rahi hai
-  Aa ay mere hussain mere godh mein aaja
+  Aa ae mere Husain meri god mein aaja
   Aaja mere bache meri aaghosh mein aaja
 
   1
-  Mere liye ay laal tu asghar ki tarha hai
+  Mere liye ae laal tu Asghar ki tarha hai
   Godi meri gehwara hai bistar ki tarha hai
   Is dhoop mein daaman mera chadar ki tarha hai
   
   2
-  Mai maa hun mera dil nahi seene mein sambhalta
+  Main maaṅ huṅ mera dil nahiṅ sine mein sambhalta
   Nazuk ye badan tera ye jalta hua sehra
   Aur is pe sitam ye hai ke tu reh gaya pyasa
   
   3
-  Mai godh mein lelu tujhe seene se laga'loon
-  Seene pe sakina ki tarha tujh ko sula'loon
-  Seene ke tere teer mai palkon se nika'loon
+  Main god mein le lun tujhe sine se laga lun
+  Sine pe Sakina ki tarha tujhko sula lun
+  Sine ke tere tir main palkon se nika lun
   
   4
   Akar mere zaanu pe jo sojate thay beta
   Chakki ki mashakhat pe bhi pehlu nahi badla
-  Ab kaise tujhe chod doo maqtal mein akela
+  Ab kaise tujhe chhor dun maqtal mein akela
   
   5
   Teri bhi to aulaad hai tu bhi to padar hai
   Aulaad ka gham kya hai ye tujh ko bhi khabar hai
   Gham bache ka she jaye ye kis maa ka jigar hai
   
-  5
-  Tu layt gaya thak ke to is jalti zameen par
+  6
+  Tu let gaya thak ke to is jalti zamin par
   Ye kiska lahoo tune mala rooye haseen par
   Mat khaak pe so laal teri maa hai yahin par
   
-  6
-  Jo dil pe tere guzri mai sab dekh rahi thi
-  Har laash uthaane mai tere saath gayi thi
+  7
+  Jo dil pe tere guzri main sab dekh rahi thi
+  Har laash uthane main tere saath gayi thi
   Ab baat wo kehti hoo jo bachpan mein kahi thi
   
-  7
-  Nauhe mein bayan kaise kare sarwar-o-rehaan
+  8
+  Nauhe mein bayan kaise kare Sarwar o Rehaan
   Parh sakta nahi koi bhi ye dard ka quran
   Maa kehti thi rehjaye na dil mein mere armaan
   

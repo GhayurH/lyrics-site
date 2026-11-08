@@ -10,14 +10,14 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa rahi hai yehi har matami seene se sada
-  Hashr tak jaari rahega ye ghame karbobala
-  Ya hussain ya hussain ya hussain
+  Aa rahi hai yehi har matami sine se sada
+  Hashr tak jari rahega ye gham-e-Karbobala
+  Ya Husain Ya Husain Ya Husain
 
   1
   Saaya-gar apne saron par hai alam ghazi ka
-  Hum azadaar hai hum par hai karam ghazi ka
-  Gham manayenge isi tarha se hum ghazi ka
+  Hum azadar hain hum par hai karam Ghazi ka
+  Gham manayenge isi tarha se hum Ghazi ka
   Kiski himmat hai ke is gham se hamein roke bhala
   
   2
@@ -33,10 +33,10 @@ romanLyrics: |-
   Ek din aayegi har ghar se ye matam ki sada
   
   4
-  Deen par hai tera ehsaan mere maula hussain
-  Tu hai islam ki pehchaan mere maula hussain
-  Tujhpe qurban meri jaan mere maula hussain
-  Tere sadqe mein mili deen e mohamed ko baqa
+  Din par hai tera ehsan mere Maula Husain
+  Tu hai Islam ki pehchan mere Maula Husain
+  Tujh pe qurban meri jaan mere Maula Husain
+  Tere sadqe mein mili din-e-Muhammad ko baqa
   
   5
   Tere lashkar ka alamdar hai wo sher e jari

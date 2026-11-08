@@ -18,16 +18,16 @@ romanLyrics: |-
   Har ghar pe saja hoga abbas alam tera
   
   2
-  Aa jati hai zehra bhi zainab bhi ziyarat ko
-  Jab aat moharam ko uth'ta hai alam tera
+  Aa jati hai Zehra bhi Zainab bhi ziyarat ko
+  Jab aath Muharram ko uthta hai alam tera
   
   3
-  Taboot jab uth'ta hai shabbir ka ay ghazi
+  Tabut jab uthta hai Shabbir ka ae Ghazi
   Taboot ke aage bhi chalta hai alam tera
   
   4
-  Wo kaunse sadme thay sheh toot gaye jis se
-  Ek dard tha zainab ka aur doosra gham tera
+  Wo kaun se sadme the Sheh tut gaye jis se
+  Ek dard tha Zainab ka aur dusra gham tera
   
   5
   Parcham ka pharera tha ya aas thi zainab ki
@@ -42,8 +42,8 @@ romanLyrics: |-
   Tha seene ke andar ya mashkize mein dam tera
   
   8
-  Awaaz teri sarwar shabbir se wabasta
-  Abbas se wabasta rehaan qalam tera
+  Awaaz teri Sarwar Shabbir se wabasta
+  Abbas se wabasta Rehaan qalam tera
 # source_id: nohayonline:aafc3c490260e46f08be
 # source_url: https://www.nohayonline.com/details_content.php?id=344
 # raw_sha256: b3ec165b44ddea61b3d40060de25a882df063d3ec1b603b58077a2694ec18af2
@@ -66,7 +66,7 @@ romanLyrics: |-
 
 ۴
 وہ کون سے صدمے تھے شہہ ٹوٹ گئے جس سے
-اک درد تھا زینب کا اور دوسرا غم تیر
+اک درد تھا زینب کا اور دوسرا غم تیرا
 
 ۵
 پرچم کا پھریرا تھا یا آس تھی زینب کی

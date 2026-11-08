@@ -10,64 +10,64 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghaib se aayi sada aa palat aa ay hussain
-  Tujhse raazi hai khuda aa palat aa ay hussain
+  Ghaib se aayi sada aa palat aa ae Husain
+  Tujhse razi hai Khuda aa palat aa ae Husain
 
   1
   Asre ashoor ka hangaam qayamat ka samaan
   Dhoop mein jalti hui rayt se uth'ta hai dhuaan
-  Bhook aur pyasa ka maara hai har ek peer o jawan
-  Shiddate pyaas se hai tadkhi hui teri zuban
-  Khushk hai tera gala aa palat aa ay hussain
+  Bhuk aur pyas ka mara hai har ek pir o jawan
+  Shiddat-e-pyas se hai tarakhi hui teri zuban
+  Khushk hai tera gala aa palat aa ae Husain
   
   2
   Tera har ek amal nayk hai tabinda hai
   Maareka haq ke liye tera ye paainda hai
   Sabre ayyub tere sabr se sharminda hai
   Qatl jo haq ke liye hogaya wo zinda hai
-  Tere haq mein hai baqa aa palat aa ay hussain
+  Tere haq mein hai baqa aa palat aa ae Husain
   
   3
-  Tu ne islam ko akbar ki jawani dedi
+  Tu ne Islam ko Akbar ki jawani de di
   Thi jo nana ki nishani wo nishani dedi
   Nafs emaan ko ashkon ko rawani dedi
   Khatm jo ho na sakegi wo kahani dedi
-  Naam ooncha hai tera aa palat aa ay hussain
+  Naam uncha hai tera aa palat aa ae Husain
   
   4
   Subh se tu ne kayi laashe uthaye hai hussain
-  Zakhm par zakhm har ek gaam pa khaye hai hussain
-  Dushmane deen bohat tujhko sataye hai hussain
-  Khanjar o taygh o sina tujh pa chalaye hai hussain
-  Tu ne har zulm saha aa palat aa ay hussain
+  Zakhm par zakhm har ek gaam pe khaye hain Husain
+  Dushman-e-din bahut tujhko sataye hain Husain
+  Khanjar o tegh o sina tujh pe chalaye hain Husain
+  Tu ne har zulm saha aa palat aa ae Husain
   
   5
   Laashe qasim ke rakhe tukde abaa mein tu ne
   Wakf ki apni zuban hamd o sana mein tu ne
   Dar kiya apna fida raahe khuda mein tu ne
   Zulm kya kya na sahe karbobala mein tu ne
-  Kar diya waada wafa aa palat aa ay hussain
+  Kar diya wada wafa aa palat aa ae Husain
   
   6
   Hogaya qatl har ek nasir o yawar tera
-  Tera qasim hai na ab hai ali akbar tera
-  Aun hai aur na mohamed hai na asghar tera
-  Sogaya nehr pa abbas e dilawar tera
-  Tu akela hai khada aa palat aa ay hussain
+  Tera Qasim hai na ab hai Ali Akbar tera
+  Aun hai aur na Muhammad hai na Asghar tera
+  So gaya nehr pe Abbas-e-dilawar tera
+  Tu akela hai khara aa palat aa ae Husain
   
   7
-  Aa mere paas mohamed ke nawase aaja
-  Ay mere teen shab o roz ke pyase aaja
+  Aa mere paas Muhammad ke nawase aaja
+  Ae mere tin shab o roz ke pyase aaja
   Jaanibe arshe bari karbobala se aaja
   Ab to milne ke liye apne khuda se aaja
-  Mera sab kuch hai tera aa palat aa ay hussain
+  Mera sab kuch hai tera aa palat aa ae Husain
   
   8
   Tera nauha tere akhtar ne likha hai shabbir
   Tere irfan ne nauha ye padha hai shabbir
   Majlis e gham mein ajab hashr bapa hai shabbir
   Ye bhi ek tera karam teri ata hai shabbir
-  De ke ummat ko dua aa palat aa ay hussain
+  De ke ummat ko dua aa palat aa ae Husain
 # source_id: nohayonline:bf0b0b90220b3aceca17
 # source_url: https://www.nohayonline.com/details_content.php?id=3466
 # raw_sha256: e267ca5cf91dbb17feb59ee87d208a285a3b1d9495f069cafccdf1ee9c9205e2

@@ -9,65 +9,65 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa Alamdaar haey alamdaar
-  Kartay thay ro ro ke ya hazrat bayan
-  Tor gaye meri qamar bhayi jaan
-  Roti hay khayme me Sakina wahan
-  Sote ho Abbas zamin par yahaan
+  Aa Alamdar Haye Alamdar
+  Karte the ro ro ke ye hazrat bayan
+  Tor gaye meri kamar bhai jaan
+  Roti hai khaimon mein Sakina wahan
+  Sote ho Abbas zamin par yahan
 
   1
-  lash uthaye ga kon, Shere jawaan mar gaya
-  qabr banaye ga kon, Shere jawaan mar gaya
-  humko sambhale ga kon, Shere jawaan mar gaya
-  Toro na gurbat me meri aas utho
+  Laash uthayega kaun, sher jawan mar gaya
+  Qabr banayega kaun, sher jawan mar gaya
+  Hum ko sambhalega kaun, sher jawan mar gaya
+  Toro na ghurbat mein meri aas, utho
   Utho Husain aaye hain Abbas utho
-  Rota he mazlum basad yas utho
-  Utho bas ab ghar me chalo bhayi jaan
+  Rota hai mazlum basad yaas, utho
+  Utho bas ab ghar mein chalo bhai jaan
 
   2
-  kon khabar le meri, Shere jawan mar gaya
-  Haey meri bekasi, Shere jawan mar gaya
-  Chalti hay dil par churi, Shere jawan mar gaya
-  Kya huwa sawwaye Sakina ko aa
-  Kisne kiya mere bhara gar tabah
-  Kya huwi abbas biradar ki chaah
-  Ab gaye wo pyaar ki baate kaha
+  Kaun khabar le meri, sher jawan mar gaya
+  Haye meri bekasi, sher jawan mar gaya
+  Chalti hai dil par chhuri, sher jawan mar gaya
+  Kya hua saqqa-e-Sakina ko aah
+  Kis ne kiya mera bhara ghar tabah
+  Kya hui Abbas biradar ki chah
+  Ab gayin wo pyar ki baatein kahan
 
   3
-  mar gaya Akbar pisar, Shere jawan mar gaya
-  Thaam lo meri qamar, Shere jawan mar gaya
-  lut gaya bekas ka ghar, Shere jawan mar gaya
-  Quwate bazu mera kya ho gaya
-  Zeenate pehlu mera kya ho gaya
+  Mar gaya Akbar pisar, sher jawan mar gaya
+  Tham lo meri kamar, sher jawan mar gaya
+  Lut gaya bekas ka ghar, sher jawan mar gaya
+  Quwwat-e-baazu mera kya ho gaya
+  Zinat-e-pehlu mera kya ho gaya
   Aashiqe dil yu mera kya hogaya
   Kya huwa afsos mera qadr daan
 
   4
-  jhume khayme me wa, Shere jawan mar gaya
-  Karti hay Zainab fugaa, Shere jawan mar gaya
-  kis say karoon may bayan, Shere jawan mar gaya
-  Hath se khoya dile gamkhwar ko
-  Paoon kahaan apnay alamdar ko
+  Dhum hai khaime mein wan, sher jawan mar gaya
+  Karti hai Zainab fughaṅ, sher jawan mar gaya
+  Kis se karun main bayan, sher jawan mar gaya
+  Haath se khoya dil-e-ghamkhwar ko
+  Paun kahan apne alamdar ko
   Gheri huwi khanjar-e khu khar ko
   Jalad gale par ho mere ab rawaa
 
   5
-  ab koi chara nahi, Shere jawan mar gaya
-  zeest gawara nahi, Shere jawan mar gaya
-  koi hamara nahi, Shere jawan mar gaya
+  Ab koi chara nahiṅ, sher jawan mar gaya
+  Zist gawara nahiṅ, sher jawan mar gaya
+  Koi hamara nahiṅ, sher jawan mar gaya
   Maa hai bani hasheme wala nahi
   Usme mere mehru ka ujala nahi
   Haaye mere chahane wala nahi
-  Nazro me tarikh ha sara jahan
+  Nazron mein tarik hai sara jahan
 
   6
-  ankho ka tara mera, Shere jawan mar gaya
-  chand ka tukra mera, Shere jawan mar gaya
-  ghar ka ujala mera, Shere jawan mar gaya
+  Aankhon ka tara mera, sher jawan mar gaya
+  Chand ka tukra mera, sher jawan mar gaya
+  Ghar ka ujala mera, sher jawan mar gaya
   Ruh-e-Ali jaan-e-Nabi alvida
   Ashiko shaidai akhi alvida
-  Laasha-e abbase ali alvida
-  Aate hain ab ham bhi chalo bhayijaan
+  Laasha-e-Abbas-e-Ali alvida
+  Aate hain ab hum bhi chalo bhai jaan
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:b7ad208a0f1c564d1ba8
 # source_url: https://www.nohayonline.com/details_content.php?id=3289

@@ -10,27 +10,27 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa hosh mein sajjad ke ghar jal gaye saare
-  Sab toot gaye zainab e muztar ke sahare
+  Aa hosh mein Sajjad ke ghar jal gaye saare
+  Sab tut gaye Zainab-e-muztar ke sahare
 
   1
-  Ghore ke qadam thaam ke kehti thi sakina
-  Baba ho mujhe chod chale kis ke sahare
+  Ghore ke qadam thaam ke kehti thi Sakina
+  Baba ho mujhe chhor chale kis ke sahare
   
   2
   Ye tera hi dil hai ke sina kheenchi hai tu ne
-  Sadqe tere shabbir ibrahim pukare
+  Sadqe tere Shabbir Ibrahim pukare
   
   3
-  Baithi hai yateemon ko jalay qaime mein le kar
+  Baithi hai yatimon ko jale khaime mein le kar
   Saydaniyan tanha hai ke waaris gaye maare
   
   4
-  Mai aakhri ruqsat ke liye aayi hoon bhaiya
-  Ghazi ko pukaro hamay mehmil se utaare
+  Main aakhri rukhsat ke liye aayi huṅ bhaiya
+  Ghazi ko pukaro hameṅ mehmil se utare
   
   5
-  Bhaiya tere baazu mujhe raste mein mile hai
+  Bhaiya tere baazu mujhe raste mein mile hain
   Ye kya hai yahan tum ho wahan baazu tumhare
   
   6
@@ -38,7 +38,7 @@ romanLyrics: |-
   Baccha mera dam todta hai pyaas ke maare
   
   7
-  Khat likhti hai shikwon ke usay kaun bataye
+  Khat likhti hai shikwon ke use kaun bataye
   Tu lut gayi sughra tere bhaiya gaye maare
   
   8
@@ -66,7 +66,7 @@ romanLyrics: |-
   Aata hai abhi jaam e qaza paas tumhare
   
   14
-  Dekhe to nisar aaj koi hurr ka muqaddar
+  Dekhe to Nisar aaj koi Hurr ka muqaddar
   Dozakh se chala aagaya kausar ke kinare
 # source_id: nohayonline:d8041714ab3ca858f2e2
 # source_url: https://www.nohayonline.com/details_content.php?id=3229

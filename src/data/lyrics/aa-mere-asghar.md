@@ -9,12 +9,12 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa mere asghar aa mere asghar
-  Jhoola jhulaun lori sunaun aa mere asghar
+  Aa mere Asghar aa mere Asghar
+  Jhula jhulaun lori sunaun aa mere Asghar
 
   1
   Teri judaai maar gayi hai
-  Maa ki umeedein toot gayi hai
+  Maaṅ ki ummidein tut gayi hain
   Tujhko jo paaun dil se lagaun
   
   2
@@ -24,12 +24,12 @@ romanLyrics: |-
   
   3
   Mil bhi gaya agar pani meri jaan
-  Kaise piyegi baali sakina
+  Kaise piyegi baali Sakina
   Pani jo paaun tujhko pilaun
   
   4
-  Tu hi bata ay mere gule tar
-  Dhoonde kahan ye maadar e muztar
+  Tu hi bata ae mere gul-e-tar
+  Dhundhe kahan ye madar-e-muztar
   Maidan mein aaun darya pe jaaun
   
   5
@@ -40,7 +40,7 @@ romanLyrics: |-
   6
   Saaye mein kaise jayegi maadar
   Teri lehad hai dhoop mein asghar
-  Saaye mein jaaun mai mar na jaaun
+  Saaye mein jaun main mar na jaun
   
   7
   Koi khushi ka din bhi na aaya

@@ -11,30 +11,30 @@ aliases: []
 published: false
 romanLyrics: |-
   Aajao asghar aajao
-  Ay mere asghar aajao
+  Ae mere Asghar aajao
 
   1
-  Gham mein tumhare marti hoo
-  Har dam aahein bharti hoo
+  Gham mein tumhare marti huṅ
+  Har dam aahein bharti huṅ
   Ab to taras khao dilbar
   
   2
   Sannaton ka ye mausam
-  Chaaron taraf huu ka aalam
+  Charon taraf hu ka aalam
   Kitna darona hai manzar
   
   3
   Door talak saaya bhi nahi
   Tapta sehra jalti zameen
-  Neend tumhe aayi kyunkar
+  Neend tumhe aayi kiun kar
   
   4
-  Sach kehti hoo ay beta
+  Sach kehti huṅ ae beta
   Maa se nahi rootha jaata
-  Maan bhi jao ay dilbar
+  Maan bhi jao ae dilbar
   
   5
-  Neendh ye aayi hai kaisi
+  Neend ye aayi hai kaisi
   Sunte nahi awaaz meri
   Kab se bulaati hai maadar
   
@@ -54,7 +54,7 @@ romanLyrics: |-
   Bekas dukhiya ye maadar
   
   9
-  Kaise mai jaaun shaam bhala
+  Kaise main jaun Shaam bhala
   Sar hai khula aati hai haya
   Maa ke liye lekar chaadar
   
@@ -64,8 +64,8 @@ romanLyrics: |-
   Rooth gaye tum bhi jaa kar
   
   11
-  Aamir jaan khota hai bilal
-  Saara jahan rota hai bilal
+  Aamir jaan khota hai Bilal
+  Saara jahan rota hai Bilal
   Rakh qalam itna likh kar
 # source_id: nohayonline:3afdd3a5ce991f21b4b1
 # source_url: https://www.nohayonline.com/details_content.php?id=2442
