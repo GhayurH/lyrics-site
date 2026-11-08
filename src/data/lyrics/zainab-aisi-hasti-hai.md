@@ -9,104 +9,60 @@ poet: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Jo zer e kisa parwaan chade
-
+romanLyrics: |-
+  Jo zer e kisa parwaan chade
   Zainab aisi hasti hai
-
-
-  1
-
   Jo zain e abu jad banke rahe
 
-
-  2
-
+  1
   Wo jisne banayi apni jagah
-
   Arbaab e kisa masoomon may
-
   Khud fatema jis par naaz kare
 
-
-  3
-
+  2
   Shabbir se baaqi deen e nabi
-
   Shabbir se baaqi paighambar
-
   Shabbir rahe zinda jis se
 
-
-  4
-
+  3
   Kunbe ki hifazat bhi karna
-
   Darbar may khutbe bhi dena
-
   Is wasf may hai maa se aage
 
-
-  5
-
+  4
   Qaimon ki hifazat ki khaatir
-
   Toota hua ek naiza lekar
-
   Jo shaam e ghariban pehra de
 
-
-  6
-
+  5
   Dhaaras hai imam e dauran ko
-
   Zainab sa nigehban saath may hai
-
   Abbas kabhi shabbir bane
 
-
-  7
-
+  6
   Sarwar ke liye deen ki khaatir
-
   Jo waar diye un beton ka
-
   Gham bhi na kare pursa bhi na le
 
-
-  8
-
+  7
   Be parda jise ummat ne kiya
-
   Aur apne tayeen ruswa bhi kiya
-
   Jo ummatiyon ka parda rakhe
 
-
-  9
-
-  Har chand hui tash''heer uski
-
+  8
+  Har chand hui tash'heer uski
   Bazaron may darbaron may
-
   Chehre ko chupaya baalon se
 
-
-  10
-
+  9
   Go haath pase gardan ho bandhe
-
   Aur kehne ko qaidi ho phir bhi
-
   Jo girte huon ko sahara de
 
-
-  11
-
+  10
   Mukhtar hai wo majboor nahi
-
   Chaahe to badal de pal bhar may
-
-  Haalaat jo sibte jafar ke'
+  Haalaat jo sibte jafar ke
 # source_id: nohayonline:414f739044fa8e514514
 # source_url: https://www.nohayonline.com/details_content.php?id=1254
 # raw_sha256: 02ce735c8a069ea977afbfaa10142e3ae4e35e732813696288677904b19ccad1
@@ -114,9 +70,9 @@ romanLyrics: 'Jo zer e kisa parwaan chade
 # source_url: https://www.ziyaraat.net/api/noha/2152
 # raw_sha256: 867dadcca443abedb68f388155192522be70be031af125e52d3ac12341484649
 ---
-
-جو زیرِکساء پروان چڑھے زینبؑ ایسی ہستی ہے،
-جو زینِ اب و جد بن کے رہے زینبؑ ایسی ہستی ہے
+جو زیرِکساء پروان چڑھے
+زینبؑ ایسی ہستی ہے
+جو زینِ اب و جد بن کے رہے
 
 ۱
 وہ جس نے بنائی اپنی جگہ
@@ -124,8 +80,9 @@ romanLyrics: 'Jo zer e kisa parwaan chade
 خود فاطمہ جس پر ناز کرے
 
 ۲
-شبیرؑ سے باقی دینِ نبیؐ، شبیرؑ سے باقی پیغمبرؐ،
-شبیرؑ رہے زندہ جس سے زینبؑ ایسی ہستی ہے
+شبیرؑ سے باقی دینِ نبیؐ
+شبیرؑ سے باقی پیغمبرؐ
+شبیرؑ رہے زندہ جس سے
 
 ۳
 کنبے کی حفاظت بھی کرنا
@@ -138,27 +95,31 @@ romanLyrics: 'Jo zer e kisa parwaan chade
 جو شامِ غریباں پہرا دے
 
 ۵
-ڈھارس ہے امامِ دوراں کو، زینب ؑسا نگہباں ساتھ میں ہے
-عباس ؑ کبھی شبیرؑ بنے، زینبؑ ایسی ہستی ہے
-سرورؑ کے لئے دیں کی خاطر، جو وار دیئے اُن بیٹوں کا،
-غم بھی نہ کرے، پُرسہ بھی نہ لے زینبؑ ایسی ہستی ہے
+ڈھارس ہے امامِ دوراں کو
+زینب ؑسا نگہباں ساتھ میں ہے
+عباس ؑ کبھی شبیرؑ بنے
 
 ۶
+سرورؑ کے لئے دیں کی خاطر
+جو وار دیئے اُن بیٹوں کا
+غم بھی نہ کرے، پُرسہ بھی نہ لے
+
+۷
 بے پردہ جسے امت نے کیا
 اور اپنے تئیں رُسوا بھی کیا
 جو امتیوں کا پردہ رکھے
 
-۷
+۸
 ہر چند ہوئی تشہیر اُسکی
 بازاروں میں درباروں میں
 چہرے کو چھپایا بالوں سے
 
-۸
+۹
 گو ہاتھ پسِ گردن ہوں بندھے
 اور کہنے کو قیدی ہو پھر بھی
 جو گرتے ہوؤں کو سہارا دے
 
-۹
+۱۰
 مختار ہے وہ مجبور نہیں
 چاہے تو بدل دے پل بھر میں
 حالات جو سبطِ جعفر کے
