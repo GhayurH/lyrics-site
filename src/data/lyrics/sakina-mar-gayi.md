@@ -12,46 +12,44 @@ published: false
 romanLyrics: |-
   Kehta tha tadap ke natawan
   Ay phupi sakina mar gayi
-  
-  1
   Kehte kehte baba baba jaan
   
-  2
+  1
   Kaise mai ye gham karun sehan
   Bolti nahi meri behan
   Ho gayi khamosh neem jaan
   
-  3
+  2
   Karbala se jis ki bekhata
   Ay phupi hui thi ibteda
   Khatm ho gayi wo daastan
   
-  4
+  3
   Zindagi tamaam ho gayi
   Shaam mein hi shaam ho gayi
   Band ho gayi hai siskiyan
   
-  5
+  4
   Baba jaan ke sar pe rakh ke sar
   Keh rahi thi ro ke nauhagar
   Kab talak sahun mai sakhtiyan
   
-  6
+  5
   Ghamzada behan ki ta hayaat
   Yaad aayegi har ek baat
   Kar na paunga jinhe bayaan
   
-  7
+  6
   Baad e qatle shaahe karbala
   Zindagi se tha jisay gila
   So gayi wo aaj nauha khwan
   
-  8
+  7
   Hathkadi hai mere haath mein
   Koi bhi nahi hai saath mein
   Dafn kaise mai karun yahan
   
-  9
+  8
   Asif e hazeen ba shor o shain
   Aamir e hazeen ye sunke bain
   Gir gayi tadap ke ek maa
@@ -59,49 +57,46 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1810
 # raw_sha256: 5c8831905bdd05fec1b3297ca36bb8c933a6fe06634dfad4ec361555975cac99
 ---
-
 کہتا تھا تڑپ کے ناتواں
 اے پھپھی سکینہ مر گیء
-
-۱
 کہتے کہتے بابا بابا جان
 
-۲
+۱
 کیسے میں یہ غم کروں سہن
 بولتی نہیں میری بہن
 ہو گیء خاموش نیم جاں
 
-۳
+۲
 کربلا سے جس کی بے خطا
 اے پھپھی ہوی تھی ابتداء
 ختم ہو گیء وہ داستاں
 
-۴
+۳
 زندگی تمام ہو گیء
 شام میں ہی شام ہوگیء
 بند ہو گیء ہیں سسکیاں
 
-۵
+۴
 بابا جاں کے سر پہ رکھ کے سر
 کہہ رہی تھی رو کے نوحہ گر
 کب تلک سہوں میں سختیاں
 
-۶
+۵
 غمزدہ بہن کی تا حیات
 یاد آے گی ہر ایک بات
 کر نہ پاؤں گی جنہیں بیان
 
-۷
+۶
 بعد قتل شاہ کربلا
 زندگی سے تھا جسے گلہ
 سو گیء وہ آج نوحہ خواں
 
-۸
+۷
 ہتھکڑی ہے میرے ہاتھ میں
 کوئی بھی نہیں ہے ساتھ میں
 دفن کیسے میں کروں یہاں
 
-۹
+۸
 آصف حزیں با شور و شین
 عامر حزیں یہ سن کے بین
 گر گیء تڑپ کے ایک ماں
