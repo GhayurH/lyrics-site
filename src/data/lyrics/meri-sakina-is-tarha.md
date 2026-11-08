@@ -9,88 +9,49 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Aakhri Salam
-
-  Meri Sakina is terha na rona
-
+romanLyrics: |-
+  Aakhri Salaam
+  Meri Sakina Is Tarha Na Rona
+  Na Meri Bachi Na Is Tarha Na Rona
+  Tum Jao Kahan Allah Jaane
+  Maqtal Mein Rahe Kis Haal Mein Hum
+  Ab Khwab Mein Baba Aayenge
+  Chahe Shaam Ka Wo Zindan Howe
 
   1
-
-  1) Tum jawo kaha(n) Allah Jane maqtal me rahe kis haal mei hum
-
-  Ab khwab may baba aayenge
-
-  Chahe Shaam ka woh zindan howe
-
+  Hum Jaate Hain Milne Baba Se
+  Ab Laut Ke Hum Ko Aana Nahi
+  Kuch Der Lipat Ja Seene Se
+  Phir Baap Ka Seena Milna Nahi
+  So Jana Jahan Phupiyan Keh Dein
 
   2
-
-  Naa meri bachi naa is naa
-
-  Is terhaa naa rona
-
-  2) Hum jaate hay milne baba se ab lot ke hum ko aanaa nahi
-
-  Kuch der lipat jaa sine se phir baap ka sinaa milnaa nahi
-
-  So janaa jahaan phuphiyaa(n) keh dain
-
+  Jaane De Mujhe Maidan Ki Taraf
+  Dena Ye Tujhe Qurbani Hai
+  Rehwaar Ke Mere Paaon Na Pad
+  Meri Bachi Tu Sayyadani Hai
+  Jeena Hai Tujhe Zehra Ki Tarha
 
   3
-
-  Na meri bachi na...
-
-  Jaane de mujhe maidan ki taraf
-
-  Dena ye tujhe qurbani hai
-
-  Rahwaar ke mere paaon na pad
-
-  Meri bachi tu saydani hai
-
-  Jeena hai tujhe zehra ki tarha
-
-  Chaahe shaam ka wo zindan howe
-
+  Aa Ponch Le Aansu Aankhon Se
+  Tu Dekh Le Chehra Baba Ka
+  Kal Ho Sakta Hai Aa Na Sake
+  Pehchan Mein Chehra Baba Ka
+  Hum Saath Tera Na Chodenge
 
   4
-
-  4) Aa ponch le ansoo ankho se tu dekle chehraa baba ka
-
-  Kal ho saktaa hai aa naa sake pehchan me chehraa baba kaa
-
-  Hum saath teraa naa chorenge
-
+  Abbas Ka Dil Akbar Ki Behan
+  Jis Waqt Bandhe Gardan Mein Rasan
+  Tum Baba Baba Mat Kehna
+  Tadpega Mera Be Gor Badan
+  Asghar Ki Tarha Se Chup Rehna
 
   5
-
-  Na meri bachi na...
-
-  Abbas ka dil akbar ki behan
-
-  Jis waqt bandhe gardan mein rasan
-
-  Tum baba baba mat kehna
-
-  Tadpega mera be-gor badan
-
-  Asghar ki tarha se chup rehna
-
-  Chaahe shaam ka wo zindan howe
-
-
-  6
-
-  6) Dekhaa hay Rehan-o-Sarwar nay khud Shaam may jaaker ye manzar
-
-  Sailaab hai pursadaro kaa masroof-e-fughaan taa hadday nazar
-
-  Saara hay ilaaqa Bibi kaa
-
-
-  7
-
-  Akhri Salam'
+  Dekha Hai Rehaan O Sarwar Ne
+  Khud Shaam Mein Ja Kar Ye Manzar
+  Sailaab Hai Pursadaron Ka
+  Masroof E Buka Ta Hadd E Nazar
+  Saara Hai Ilaaqa Bibi Ka
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:1afe0a30c76d97af2af5
 # source_url: https://www.nohayonline.com/details_content.php?id=1742
@@ -109,7 +70,6 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 چاہے شام کا وہ زنداں ہوے
 
 ۱
-نہ میری بچی نہ۔۔۔
 ہم جاتے ہیں ملنے بابا سے
 اب لوٹ کے ہم کو آنا نہیں
 کچھ دیر لپٹ جا سینے سے
