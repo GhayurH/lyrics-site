@@ -45,7 +45,6 @@ romanLyrics: |-
   8
   Jannat may qadam rakhtay nahi Sarwer-o-Rehan
   Jannat may jo Mawla ki, Azadari na hoti
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:2050b95060e446b28bda
 # source_url: https://www.nohayonline.com/details_content.php?id=420
 # raw_sha256: dbcb7cd35f86ecb99e9d3b07397561ed645f59d661c5d8e90d8cef9ccc625bc8
