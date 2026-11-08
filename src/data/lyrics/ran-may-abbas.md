@@ -12,60 +12,60 @@ published: false
 romanLyrics: |-
   Ghuroor e fauj e sitamgar ko tod sakta hoo
   Rukh e furaat nigahon se mod sakta hoo
-
-  1
   Ali ka beta hoo mojiz numaiyon ki qasam
   Mai aaftab se pani nichod sakta hoo
   Har taraf phaila hua maut ka darr hai
   Ran mein abbas ke aane ki khabar hai
+  
+  1
   Phool khilne lagay wafaon ke
   Rang pheeke hai be-wafaon ke
   Hausle past hai jafa'on ke
   Dil dhadakte hai soormaon ke
   Uski haibat ka asar hai
-
+  
   2
   Khaafile barchiyon ke bhaalon ke
   Zor ghatne lage risaalon ke
   Khauf thamte nahi khayalon ke
   Kaampte hai badan jyaalon ke
   Sab ki pathrayi nazar hai
-
+  
   3
   Saath hai mashk o alam bhi uske
   Suye darya hai qadam bhi uske
   Aur pyase hai haram bhi uske
   Dil mein hai ranj o alam bhi uske
   Sher wo tashna jigar hai
-
+  
   4
   Bole abbas ke bas kufr na bak
   La-fata hum ko pukare hai malak
   Hamza jafar se jawano ki dhamak
   Badr ki waadiyon se aaj talak
   Mere shajre ka asar hai
-
+  
   5
   Uske baazu mein hai zor e hyder
   Baap hai uska faatah e khyber
   Yaad hai sab ko marhab o antar
   Raah rokega kaun ab jaa kar
   Ye bhala kis ka jigar hai
-
+  
   6
   Khauf se kyun hui hai bezaari
   Fauj darya pe bula le saari
   Shimr ki dekh loo jafa kaari
   Wo bhi dekhe meri alamdari
   Pisar e saad kidhar hai
-
+  
   7
   Kis mein kitna hunar hai dikhla do
   Mai akela hoo aur tum laakhon
   Tum bahadur ho aaj mat bhago
   Rok kar aaj mujhko dikhla do
   Dekh lo kaun zabar hai
-
+  
   8
   Hai naseem aisa nazara uska
   Uska darya hai kinara uska
@@ -78,12 +78,12 @@ romanLyrics: |-
 ---
 غرور فوج ستمگر کو توڑ سکتا ہوں
 رخ فرات نگاہوں سے موڑ سکتا ہوں
-
-۱
 علی کا بیٹا ہوں معجز نمائیوں کی قسم
 میں آفتاب سے پانی نچوڑ سکتا ہوں
 ہر طرف پھیلا ہوا موت کا ڈر ہے
 رن‌ میں میں عباس کے آنے کی خبر ہے
+
+۱
 پھول کھلنے لگے وفاؤں کے
 رنگ پھیکے ہیں بے وفاؤں کے
 حوصلے پست ہیں جفاؤں کے
