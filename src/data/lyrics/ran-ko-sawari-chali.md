@@ -13,28 +13,28 @@ romanLyrics: |-
   Abbas gire paon pe gardan ko jhuka kar
   Rone lage sheh bhai ko chaati se laga kar
   Bano ne kaha ghash se sakina ko jaga kar
-
-  1
   Sadqe gayi dekh aao chacha jaan ko jaa kar
   Is tarha jo shaahe shohda rote hai bibi
   Sarwar se alamdar juda hote hai bibi
   Sheh ke alamdar ki ran ko sawari chali
   Saahib e talwaar ki ran ko sawari chali
+  
+  1
   Kehte thay shaah e zaman reh gaya mai bewatan
   Bhai wafadaar ki ran ko sawari chali
-
+  
   2
   Seene ko sheh koot ke kehte sakina se thay
   Le tere ghamkhwar ki ran ko sawari chali
-
+  
   3
   Kham na ho kyun kar kamar kis tarha ay daad gar
   Mere madad gaar ki ran ko sawari chali
-
+  
   4
   Beti se sheh ne kaha layenge pani chacha
   Ghazi o jarraar ki ran ko sawari chali
-
+  
   5
   Sayyade aali baham kehti thay ba chashme nam
   Faatah e ghaffaar ki ran ko sawari chali
@@ -46,13 +46,13 @@ romanLyrics: |-
 عباس گرے پاوں پہ گردن کو جھکا کر
 رونے لگے شہ بھائ کو چھاتی سے لگا کے
 بانو نے کہا غش سے سکینہ کو جگا کر
-
-۱
 صدقے گئیں دیکھ آؤ چچا جان کو جاکر
 اس طرح جو شاہِ شہدا روتے ہیں بی بی
 سرور سے علمدار جدا ہوتے ہیں بی بی
 شہ کے علمدار کی رن کو سواری چلی
 صاحبِ تلوار کی رن کو سواری چلی
+
+۱
 کہتے تھے شاہ زمن رہگیا میں بے وطن
 بھائ وفادار کی رن کو سواری چلی
 
