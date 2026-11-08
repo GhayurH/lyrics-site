@@ -11,18 +11,18 @@ aliases: []
 published: false
 romanLyrics: |-
   Mujhe qaidi samajh nahi shireen
-  
-  1
   Kar ghaur zara mai zainab hoo
   Tere shehr mein dekh ye haal hua
   Nahi sar pe rida mai zainab hoo
+
+  1
   Kar yaad wasiyat bhai ki
   Mehmaan banenge hum tere
   Pehchan mujhe in baalon se
   Chehre pe pade hai jo mere
   Dil gham se phata jaata hai mera
   Kar koi dawa mai zainab hoo
-  
+
   2
   Jis shehr ki mai shehzadi thi
   Aayi hoo wahan qaidi ban kar
@@ -30,7 +30,7 @@ romanLyrics: |-
   Wo dekh mere bhai ka sar
   Pehchan mujhe kya aur kahoo
   Ab iske siwa mai zainab hoo
-  
+
   3
   Nazron ko utha kar dekh zara
   Naizon pe shaheedon ke sar hai
@@ -38,7 +38,7 @@ romanLyrics: |-
   Aur ahle haram be-chadar hai
   Aulaad e ali hone ki yahan
   Paayi hai saza mai zainab hoo
-  
+
   4
   Shireen kya kya batlaun tujhe
   Jo zulm sahay hai raahon mein
@@ -46,7 +46,7 @@ romanLyrics: |-
   Kya karb inki aahon mein
   Sehti hoo jafayein ummat ki
   Be-jurm khata mai zainab hoo
-  
+
   5
   Hum aal e mohamed hai shireen
   Ye kunba koi aur nahi
@@ -54,7 +54,7 @@ romanLyrics: |-
   Pairon se tere niklegi zameen
   Ye hai laila ye bano hai
   Ye hai farwa mai zainab hoo
-  
+
   6
   Safdar roodad ye zainab ki
   Sun jar shireen behosh hui
@@ -66,13 +66,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1559
 # raw_sha256: 4157664f51da354544f678ee92fb8d771e16524661ba8f1291a653a0dd98ede5
 ---
-
 مجھے قیدی سمجھ نہیں شیریں
-
-۱
 کر غور زرا میں زینب ہوں
 تیرے شہر میں دیکھ یہ حال ہوا
 نہیں سر پہ ردا میں زینب ہوں
+
+۱
 کر یاد وصیت بھای کی
 مہمان بنینگے ہم تیرے
 پہچان مجھے ان بالوں سے
