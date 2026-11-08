@@ -9,70 +9,49 @@ poet: "Gohar Jarchvi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haey Zainab
-
+romanLyrics: |-
+  Karthi thi bain ran mein ro ro ke haye zainab
+  Ay bhai tera laasha kaise uthaye zainab
 
   1
-
-  2) Abbas-e- hai naa Akber, Sub katla ho chuka hai
-
-  Koi nahi hai zindaaKisko bulaya Zainab.
-
+  Abbas hai na akbar sab qatl ho chuke hai
+  Koi nahi hai zinda kisko bulaye zainab
 
   2
-
-  3) Kaise uthaye aakar, tapdi huwi zammi se
-
-  Saaye me tera lasha, Kistar ha laaya Zainab
-
+  Kaise uthaye aakar tapti hui zameen se
+  Saaye mein tera laasha kis tarha laaye zainab
 
   3
-
-  4) Sunta nahi hai koi, Faryad-e be kaso ki
-
-  Kya kya sitam huwa hai, Kisko batayaa Zainab
-
+  Sunta nahi hai koi faryad bekason ki
+  Kya kya sitam hue hai kisko bataye zainab
 
   4
-
-  5) Baba ki muntazir hai, Dar par khari Sakina
-
-  Sheh katle ho chuka hai, Kaise bataaye Zainab
-
+  Baba ki muntazir hai dar par khadi sakina
+  Sheh qatl ho chuke hai kaise bataye zainab
 
   5
-
-  6) Abbas baa wafa kaa, lasha tarap raha tha
-
-  Jab-e run me zalimonaa, Chinee ridaya Zainab
-
+  Abbas-e-bawafa ka laasha tadap raha tha
+  Jab ran mein zaalimo ne cheeni ridaye zainab
 
   6
-
-  7) Sarpar ridaa nahi hai, khayme bi jal chuka hai
-
-  Maydan me rorahi hai, Sarko jukayye Zainab
-
+  Sar par rida nahi hai qaime bhi jal chuke hai
+  Maidan mein ro rahi hai sar ko jhukaye zainab
 
   7
-
-  8) Zainab ne yu tarap kar, Abbas ko sadaa thi
-
-  Tharra rahe the lasha, Sunkar sadayaa Zainab
-
+  Zainab ne yun tadap kar abbas ko sada di
+  Thar-ra rahe thay laashe sunkar sadaye zainab
 
   8
-
-  9) Abbas jald aawo, Chaane lage andheray
-
-  Dasht-e balaa me tanhaa, Ghabraa na jaaye Zainab
-
+  Abbas jald aao chaane lage andhere
+  Dashte bala mein tanha ghabra na jaye zainab
 
   9
+  Dil kyun na khoon roye jaati hai qaid hokar
+  Aayi hai kis tarha se kya bhool jaye zainab
 
-  10) Dil kyu na khun roye Jaati hai kayde hokar
-
-  Aayi hai kistar ha se, Kya bhool-e jayaa Zainab'
+  10
+  Nasir dua hai meri bibi qabool karle
+  Gohar jo likh rah hai nauhe baraye zainab
 # source_id: nohayonline:61bafc065555aeaca2ac
 # source_url: https://www.nohayonline.com/details_content.php?id=762
 # raw_sha256: 88a13c27874cfce8d308ca0e9e6ed6b2d257a14d79de1d3a1bee75e9182c3210
@@ -83,48 +62,45 @@ romanLyrics: 'Haey Zainab
 # source_url: https://www.ziyaraat.net/api/noha/268
 # raw_sha256: 02e673b89159c4a8e85a75bac00a2da88574724b4f1a401b5a4e8780f6d0b0c7
 ---
-
 کرتی تھی بین رن میں رو رو کے ہائے زینب
-
-۱
 اے بھائی تیرا لاشہ کیسے اٹھائے زینب
 
-۲
+۱
 عباس ہے نہ اکبر سب قتل ہو چکے ہیں
 کوئی نہیں ہے زندہ کس کو بُلائے زینب
 
-۳
+۲
 کیسے اُٹھائے آ کر تپتی ہوئی زمیں سے
 سائے میں تیرا لاشہ کس طرح لائے زینب
 
-۴
+۳
 سُنتا نہیں ہے کوئی فریاد بے کسوں کی
 کیا کیا ستم ہوئے ہیں کس کو بتائے زینب
 
-۵
+۴
 بابا کی منتظر ہے در پر کھڑی سکینہ
 شِہ قتل ہو چکے ہیں کیسے بتائے زینب
 
-۶
+۵
 عباسِ با وفا کا لاشہ تڑپ رہا تھا
 جب رن میں ظالموں نے چھینی ردائے زینب
 
-۷
+۶
 سر پر ردا نہیں ہے خیمے بھی جل چُکے ہین
 میداں میں رو رہی ہے سر کو جھُکائے زینب
 
-۸
+۷
 زینب نے یوں تڑپ کر عباس کو صدا دی
 تھرا رہے تھے لاشے سُن کر صدائے زینب
 
-۹
+۸
 عباس جلد آئو چھانے لگے اندھیرے
 دشتِ بلا میں تنہا گھبرا نہ جائے زینب
 
-۱۰
+۹
 دل کیوں نہ خون روئے جاتی ہے قید ہو کر
 آئی ہے کس طرح سے کیا بھول جائے زینب
 
-۱۱
+۱۰
 ناصر دُعا ہے میری بی بی قبول کر لے
 گوہر جو لکھ رہا ہے نوحے برائے زینب
