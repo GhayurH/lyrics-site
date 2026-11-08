@@ -29,7 +29,7 @@ romanLyrics: |-
   
   4
   Hasrat bhari nazron se tera dekhna maaṅ ko
-  Jaate huwe kuch aur bhi tadpa gaya maa ko
+  Jaate huwe kuch aur bhi tadpa gaya maaṅ ko
   
   5
   Jeene ko nahi deti ye qaime ki udaasi
