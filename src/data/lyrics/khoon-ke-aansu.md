@@ -10,39 +10,37 @@ aliases: []
 published: false
 romanLyrics: |-
   Khoon ke aansu lahoo lahoo ye manzar tere naam
-  
-  1
   Tapti reti be-sar laashe sarwar tere naam
   
-  2
+  1
   Chala abu talib ka beta aayi nidaye ghaib
   Farshe nabi par sone wale khyber tere naam
   
-  3
+  2
   Has kar boli binte asad se kaabe ki deewar
   Sher ki dukhtar sher ki maadar ye ghar tere naam
   
-  4
+  3
   Teri ghulami rashke ameeri wah teri taqdeer
   Aal ki kidmat deen ki nusrat qambar tere naam
   
-  5
+  4
   Ghurbat mein jaan de di lekin daaman e aal na choda
   Haq ki rifaqat faqr ki daulat buzar tere naam
   
-  6
+  5
   Kaisi chain ki neend aayi hai talwaron ke neeche
   Sone waale aaj nabi ka bistar tere naam
   
-  7
+  6
   Sehre ka arman hai dil mein maa ko kya maloom
   Maut jawani ne likh di hai akbar tere naam
   
-  8
+  7
   Sar nange hai jaane waali bazaar e kufa mein
   Khudrat ne tatheer ki likhdi chadar tere naam
   
-  9
+  8
   Chand sa chehra khoon mein ghaltan baap ka baazu zakhmi
   Pyaas ki shiddat maut ki lazzat asghar tere naam
 # source_id: nohayonline:76e790aa05f47656bf9f
@@ -51,38 +49,36 @@ romanLyrics: |-
 ---
 
 خون کے آنسو لہو لہو یہ منظر تیرے نام
-
-۱
 تپتی ریتی بے سر لاشے سرور تیرے نام
 
-۲
+۱
 چلا ابو طالب کا بیٹا آئی ندائے غیب
 فرشِ نبی پر سونے والے خیبر تیرے نام
 
-۳
+۲
 ہس کر بولی بنتِ اسد سے کعبے کی دیوار
 شیر کی دُختر،شیر کی مادر یہ گھر تیرے نام
 
-۴
+۳
 تیری غلامی رشکِ امیری واہ تیری تقدیر
 آل کی خدمت دین کی نُصرت قمبر تیرے نام
 
-۵
+۴
 غُربت میں جاں دے دی لیکن دامنِ آل نہ چھوڑا
 حق کی رفاقت فَقر کی دولت بوذر تیرے نام
 
-۶
+۵
 کیسی چین کی نیند آئی ہے تلواروں کے نیچے
 سونے والے آج نبی کا بستر تیرے نام
 
-۷
+۶
 سہرے کا ارمان ہے دل میں ماں کو کیا معلوم
 موت جوانی نے لکھ دی ہے اکبر تیرے نام
 
-۸
+۷
 سر ننگے ہے جانے والی بازارِ کوفہ میں
 قدرت نے تطہیر کی لکھ دی چادر تیرے نام
 
-۹
+۸
 چاند سا چہرہ خون میں غلطاں باپ کا بازو زخمی
 پیاس کی شدت موت کی لذت اصغر تیرے نام
