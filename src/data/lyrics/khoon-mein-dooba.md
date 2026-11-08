@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Khoon mein dooba jalti zameen par
-  
-  1
   Lashaa e sarwar pada hua hai
   Doobta suraj charkhe bareen par
   Jaam lahoo ka bana hua hai
+
+  1
   Farqe shahe deen kat gaya ran mein
   Kaisa hua andher ye ban mein
   Mehre imamat aaya gehan mein
@@ -48,18 +48,20 @@ romanLyrics: |-
   Dhoondun kahan tujhe ay gulbadan
   Ro ro pukare maa dil jali
   Nanha mera asghar kahan gaya re
+
+  6
   Ran ko gaya tha jo shesh maah
   Teer galay par usne bhi khaaya
   Ek dukhiyari maa ka kaleja
   Naawak se gham se chida hua hai
   
-  6
+  7
   Rehm kisi ko us par na aaya
   Cheen ke bistar le gaye aada
   Haye mera bemaar bhatija
   Ghash mein zameen par pada hua hai
   
-  7
+  8
   Yazeediyat ko jad se ukhada
   Deen e nabi ko isne bachaya
   Ta qayamat sultan e shaheedan
@@ -70,11 +72,11 @@ romanLyrics: |-
 ---
 
 خون میں ڈوبا جلتی زمیں پر
-
-۱
 لاشہء سرور پڑا ہوا ہے
 ڈوبتا سورج چرخ بریں پر
 جام لہو کا بنا ہوا ہے
+
+۱
 فرق شہ دیں کٹ گیا رن‌ میں
 کیسا ہوا اندھیر یہ بن میں
 مہر امامت آیا گہن میں
@@ -107,18 +109,20 @@ romanLyrics: |-
 ڈھونڈوں کہاں تجھے اے گلبدن
 رو رو پکارے ماں دل جلی
 ننھا میرا اصغر کہاں گیا رے
+
+۶
 رن کو گیا تھا جو شش ماہ
 تیر گلے پر اس نے بھی کھایا
 ایک دکھیاری ماں کا کلیجہ
 ناوک سے غم سے چھدا ہوا ہے
 
-۶
+۷
 رحم کسی کو اس پر نہ آیا
 چھین کے بستر لے گےء اعدا
 ہاے میرا بھتیجا
 غش میں زمیں پر پڑا ہوا ہے
 
-۷
+۸
 یزیدیت کو جڑ سے اکھاڑا
 دین نبی کو اس نے بچایا
 تا قیامت سلطان شہیداں
