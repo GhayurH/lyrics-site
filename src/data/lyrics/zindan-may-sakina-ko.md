@@ -10,55 +10,48 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindaan main Sakina ko yaad aaya woh seena
-  Jis seena peh soothi thi, haey haey, Masoom Sakina
+  Zindan mein Sakina ko yaad aaya woh seena
+  Jis seene pe soti thi masoom Sakina
 
   1
-  Kaar taars zara zalim, baba ko na royun gi
-  May goad may madar ki, aaram say soyun gi
-  Bay reham layeeno nay, haey haey
-  Faryaad suni na
+  Kar taras zara zalim baba ko na roungi
+  Mai godh mein maadar ki aaram se soungi
+  Bereham laeenon ne faryaad suni na
 
   2
-  Hay moat ki khamoshi, tareekiye zidaan may
-  Kiya jurm kiya logon, masoom si mehmaan nay
-  Koyi aur to Masooma, haey haey
-  Youn qaid hui na
+  Hai maut ki khamoshi tareeki e zindan mein
+  Kya jurm kiya logon masoom si mehman ne
+  Koi aur to masooma yun qaid hui na
 
   3
-  Haar waqt chamaak-ta tha, Karbal main Medinay may
-  Taveez ki manind tha, Shabbir kay seenay may
-  Gum ho gaya woh kaisay, haey haey
-  Zindaan main nagina
+  Har waqt chamakta tha karbal mein madine mein
+  Taweez ki maanind tha Shabbir ke seene mein
+  Gum ho gaya woh kaise zindan mein nagina
 
   4
-  Phat jaye na ghairat say, Sajjad jigar tera
-  Meray ghaar ki yeh ronaq hay, kehta tha pidaar tera
-  Yeh souch kay Abid ko, haey haey
-  Kuch honay lagay na
+  Phat jaye na ghairat se Sajjad jigar tera
+  Mere ghar ki ye raunaq hai kehta hai pidar tera
+  Ye soch ke Abid ko kuch hosh rahi na
 
   5
-  Rukhsar may nana ko, mehshaar may dikhaoon gi
-  Rudad main zindaan ki, ro ro kay sunaoon gi
-  Pabandi hay ronay pay, haey haey
-  Kehta hay kamina
+  Rukhsaar mein nana ko mehshar mein dikhaungi
+  Roodad mein zindan ki ro ro ke sunaungi
+  Pabandi hai rone pe kehta hai kameena
 
   6
-  Aey daste ajaal ruk ja, beemar ko anay day
-  Baba kay liye koyi, pehghaam suna-nay day
-  Shayed meri turbaat pay, haey haey
-  Woh aye kabhi na
+  Ay dashte ajal ruk ja bemaar ko aane de
+  Baba ke liye koi paigham sunane de
+  Shayad meri turbat pe woh aaye kabhi na
 
   7
   Haye maut bhi hairaan thi masoom ki mayyat pe
-  Afsos rahi karti ahmed ki raiyyat pe
-  Tha maut ke chehre pe ghairat ka pasina
+  Afsos rahi karti Ahmad ki raiyyat pe
+  Tha maut ke chehre pe ghairat ka paseena
 
   8
-  Sardar Sakina ko zindaan may dafan kar kay
-  Sajjad yeh kehtay thay, nah kafan mila mar kay
-  Ta hashar rulaye ga, haey haey
-  Teri moat Sakina
+  Sardar Sakina ko zindan mein dafan kar ke
+  Sajjad ye kehte thay na kafan mila mar ke
+  Ta hashr rulayegi teri maut Sakina
 # source_id: nohayonline:a8dba390baa2921211a3
 # source_url: https://www.nohayonline.com/details_content.php?id=851
 # raw_sha256: 2f3e18ff0a88adc3593e9fa2fe2c7491bacccab1cb50a70a7b4fced28bbfe940
