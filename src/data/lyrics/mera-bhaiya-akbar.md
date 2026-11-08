@@ -13,40 +13,39 @@ romanLyrics: |-
   Madine mein sughra ki hai ye dua
   Mera bhaiya akbar salamat rahe
   
-  1
   Dua meri sun le ay mere khuda
   
-  2
+  1
   Ajab khwaab dekha hai hairaan hoon
   Musibat zada hoon pareshan hoon
   Rahe khair se mere pyare chacha
   
-  3
+  2
   Mere khwaab mein kuch haqeeqat na ho
   Qayamat se pehle qayamat na ho
   Na ho choor zakhmon se baba mera
   
-  4
+  3
   Bichadne se asghar ke dil hai udaas
   Na jaane wo kab aayega mere paas
   Humakta rahe bhaiya asghar mera
   
-  5
+  4
   Dawa chaahe mujhko mayassar na ho
   Ghiza chaahe mujhko mayassar na ho
   Khuda meri sunle meri ilteja
   
-  6
+  5
   Ye dil apne bhai pe qurban hai
   Mujhe uski shadi ka armaan hai
   Mujhe uska chehra dikha de khuda
   
-  7
+  6
   Kayi roz se bad raha hai bukhaar
   Tadapta hai dil soch kar baar baar
   Dhalakti hai kyun sar se meri rida
   
-  8
+  7
   Ye fakhri o aamir qayamat hui
   Lagi dil mein barchi shahadat hui
   Behen ki dua ban gayi marsiya
@@ -58,40 +57,39 @@ romanLyrics: |-
 مدینے میں صغرا کی ہے یہ دعا
 میرا بھیا اکبر سلامت رہے
 
-۱
 دعا میری سن‌ لے اے میرے خدا
 
-۲
+۱
 عجب خواب دیکھا ہے حیران ہوں
 مصیبت زدہ ہوں پریشان ہوں
 رہے خیر سے میرے پیارے چچا
 
-۳
+۲
 میرے خواب میں کچھ حقیقت نہ ہو
 قیامت سے پہلے قیامت نہ ہو
 نہ ہو چور زخموں سے بابا میرا
 
-۴
+۳
 بچھڑنے سے اصغر کے دل ہے اداس
 نہ جانے وہ کب آے گا میرے پاس
 ہمکتا رہے بھیا اصغر میرا
 
-۵
+۴
 دوا چاہے مجھکو میسر نہ ہو
 غذا چاہے مجھکو میسر نہ ہو
 خدا میری سن لے میری التجاء
 
-۶
+۵
 یہ دل اپنے بھائی پہ قربان ہے
 مجھے اس کی شادی کا ارمان ہے
 مجھے اس کا چہرہ دکھا دے خدا
 
-۷
+۶
 کیء روز سے بڑھ رہا ہے بخار
 تڑپتا ہے دل سوچ کر بار بار
 ڈھلکتی ہے کیوں سر سے میری ردا
 
-۸
+۷
 یہ فقری و عامر قیامت ہوی
 لگی دل میں برچھی شہادت ہوئی
 بہن کی دعا بن گیء مرثیہ
