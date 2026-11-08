@@ -10,12 +10,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Parchame abbas hai ye parchame abbas
-  
-  1
   Pehle darya e mawaddat mein naha kar dekho
   Dil ko ehsaas ke zewar se saja kar dekho
   Tum ko dunya hi mein firdaus nazar aayegi
   Parchame hazrate abbas utha kar dekho
+  
+  1
   Khyber ki wigha mein isay hyder ne uthaya
   Aur khoon se abbas e dilawar ne sajaya
   Aur shaane kata kar usay maqtal mein bachaya
@@ -42,14 +42,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2478
 # raw_sha256: 900a05fe1e29b6b8df9258aa68892cbd421bde5361f450aa4bb92ffa536cfc83
 ---
-
 پرچمِ عباس ہے یہ پرچمِ عباس
-
-۱
 پہلے دریائے مودت میں نہا کر دیکھو
 دل کو احساس کے زیور سے سجا کر دیکھو
 تم کو دنیا ہی میں فردوس نظر آے گی
 پرچمِ حضرتِ عبّاس اٹھا کر دیکھو
+
+۱
 خیبر کی وغا میں اسے حیدر نے اٹھایا
 اور خون سے عباس دلاور نے سجایا
 اور شانے کٹا کر اسے مقتل میں بچایا
