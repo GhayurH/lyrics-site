@@ -9,158 +9,87 @@ poet: "Bilal Kazmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Zindan e sitam se ahle aza
-
-
-  1
-
+romanLyrics: |-
+  Zindan e sitam se ahle aza
   Aati hai kisi bibi ki sada
-
   Sab reha huwe mai qaid mein hoo
-
   Mai qaid mein hoo
-
   Humraah mere koi na raha
-
   Mai aaj bhi hoo tanha tanha
-
   Sab reha huwe mai qaid mein hoo
-
   Mai qaid mein hoo
-
+  
+  1
   Maayein phupiyan bhai behne
-
   Abbas chacha baba sarwar
-
   Mai sab ki chaheeti thi ghar mein
-
   Sab jaan chidakte thay mujh par
-
   Ye kaisi chali ghurbat ki hawa
-
   Yasrab bhi chuta kunba bhi chuta
-
-  Mai qaid mein hoo
-
-
+  
   2
-
   Zindan se meri tanhaai par
-
   Sab karte huwe faryaad gaye
-
   Turbat se meri ruqsat ho kar
-
   Khoon rote huwe sajjad gaye
-
   Humraah mere koi na raha
-
   Mai aaj bhi hoo tanha tanha
-
-
+  
   3
-
   Us qaid mein hoo din raat jahan
-
   Wehshat ka basera rehta hai
-
   Suraj to nikalta hai lekin
-
   Is ghar mein andhera rehta hai
-
   Ay kaash koi zaair mera
-
   Ek deep jalaade aake zara
-
-
+  
   4
-
   Nazron mein phira karta hai meri
-
   Har ek ki chaahat ka manzar
-
   Rehti thi chacha ki godhi mein
-
   Soti thi padar ke seene par
-
   Ghar mera bana zindan e bala
-
   Aur khaak bani bistar mera
-
-
+  
   5
-
   Har samt parindo se aksar
-
   Kehti thi sakina ro ro kar
-
   Mujh dukhiya par ehsaan karo
-
   Gar karbobala mein raste mein pade
-
   Ek sher taraayi par hoga
-
   Us sher se itna keh dena
-
-
+  
   6
-
   Haathon ko utha ke suye najaf
-
   Dada se duayein maangte hai
-
   Sab mera waseela de de kar
-
   Baba se duayein maangte hai
-
   Par mera naseeba hai kaisa
-
   Chauda sadiyon se ahle aza
-
-
+  
   7
-
   Har waqt andhere baste hai
-
   Har aan mujhe darr lagta hai
-
   Mai dhoondti hoo jab darwaza
-
   Deewaron se sar lagta hai
-
   Zindan mein rahun kaise tanha
-
   Kul chaar baras hai sin mera
-
-
+  
   8
-
   Nana ka madina choot gaya
-
   Kuch aisa laga kismat ko gahan
-
   Jab ghoomne phirne ke din thay
-
   Us waqt bandhi gardan mein rasan
-
   Mai bekas kamsin masooma
-
   Kuch bhi to nahi hai meri khata
-
-
+  
   9
-
   Shabbir ke matamdaron ko
-
   Ye dard o alam tadpaate hai
-
   Tehreer e sakina pad pad kar
-
   Zawwaron ke dil phat jaate hai
-
   Ashkon se bilal e karbobala
-
-  Zindan ki faseelon par hai likha'
+  Zindan ki faseelon par hai likha
 # source_id: nohayonline:54adc2f8d07ff328466b
 # source_url: https://www.nohayonline.com/details_content.php?id=3692
 # raw_sha256: 47784d64ae6435062800118a910e8e4b2416e1dcee952e93c092fa2fe142a612
@@ -168,10 +97,7 @@ romanLyrics: 'Zindan e sitam se ahle aza
 # source_url: https://www.nohayonline.com/details_content.php?id=2270
 # raw_sha256: f61bcd50bc59be0380f3b793be92d16a0cc8d3a82cecd750d48a11de83df3da9
 ---
-
 زندان ستم سے اہلِ عزا
-
-۱
 آتی ہے کسی بی بی کی صدا
 سب رہا ہوے میں قید میں ہوں
 میں قید میں ہوں
@@ -179,13 +105,14 @@ romanLyrics: 'Zindan e sitam se ahle aza
 میں آج بھی ہوں تنہا تنہا
 سب رہا ہوے میں قید میں ہوں
 میں قید میں ہوں
+
+۱
 ماییں پھوپھیاں بھای بہنیں
 عباس چچا بابا سرور
 میں سب کی چہیتی تھی گھر میں
 سب جان چھڑکتے تھے مجھ پر
 یہ کیسی چلی غربت کی ہوا
 یثرب بھی چھٹا کنبہ بھی چھٹا
-میں قید میں ہوں
 
 ۲
 زنداں سے میری تنہائی پر
