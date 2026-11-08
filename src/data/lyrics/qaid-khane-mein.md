@@ -12,23 +12,23 @@ published: false
 romanLyrics: |-
   Sun rahe ho sada baba jaan baba jaan
   Hum kahan aa gaye ghar kahan reh gaya
-
-  1
   Qaid khaane mein nauha sakina ka tha
+  
+  1
   Yaad aata hai guzra zamana mujhe
   Le ke baahon may jhoola jhulana mujhe
   Mai bulaati rahi aur na aaye chacha
-
+  
   2
   Yaad aata hai pyara madina mujhe
   Phool jaisa wo baba ka seena mujhe
   Wo zamana koi phir dikha de mujhe
-
+  
   3
   Bhai abid ne chalna sikhaya mujhe
   Apne haathon se khaana khilaya mujhe
   Ab usi ke liye hai dawa na ghiza
-
+  
   4
   Hai baba ko dekhe zamana hua
   Un ke seene pe soye zamana hua
@@ -39,9 +39,9 @@ romanLyrics: |-
 ---
 سن رہے ہو صدا بابا جان
 ہم کہاں آ گےء گھر کہاں رہ گیا
+قید خانے میں نوحہ سکینہ کا تھا
 
 ۱
-قید خانے میں نوحہ سکینہ کا تھا
 یاد آتا ہے گزرا زمانہ مجھے
 لے کے باہوں میں جھولا جھلانا مجھے
 میں بلاتی رہی اور نہ آے چچا
