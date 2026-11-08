@@ -10,59 +10,60 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Na maaro na maaro na maaro mujhe
   Mai sakina mai sakina
   Mai yateema hoo mujhe
   Pathar na maaro
+
+  1
   Mai baba ki raaj dulaari
   Apne chacha ko jaan se pyari
   Mai pardesi hoo dukhiyari
   Dekh rahe ho aah o zaari
   Mar gaye waaris ab tanha hoo
-  
+
   2
   Pani maangu to mat dena
   Seekh liya hai pyasi rehna
   Ghut kar jeena ghut kar marna
   Lekin ye kaisa hai khareena
   Dekh lo nabze mai laasha hoo
-  
+
   3
   Baba se thi jang tumhari
   Bachon se kya hai bezaari
   Saans ruk jaati hai hamari
   Chalne mein bhi hai dushwari
   Chaar baras ki zaeefa hoo
-  
+
   4
   Khoon rawan kaano se hamare
   Tum ne tamache itne maare
   Kaash jo ammu hote pyare
   So gaye wo to nehr kanare
   Phir bhi dekho zinda hoo
-  
+
   5
   Chin gaya mujhse baap ka seena
   Bhool chuki hoo raat ko sona
   Dard ka takiya gham ka bichona
   Pyaas lage to aansu peena
   Ek diya jalta bhujta hoo
-  
+
   6
   Ghar se chali to shehzaadi thi
   Ranj o alam ki kab aadi thi
   Qismat mein ye barbaadi thi
   Pani ki kab faryaadi thi
   Na do pani mai tishna hoo
-  
+
   7
   Be-sar laashe ghor andhera
   Khoon ki boo hai gham ka pehra
   Zakhm kaleje ka hai gehra
   Aansu hai rukhsaar pe tehra
   Chaar baras ki zaaefa hoo
-  
+
   8
   Pursa hai rehaan o raza ka
   Ay shahzaadi dard ki malka
@@ -73,12 +74,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1644
 # raw_sha256: 07614a5f958c5e659aca8248c74017f415200827cc8200a7b4c94d9f138d00a6
 ---
-
-۱
 نہ مارو نہ مارو مجھے
 میں سکینہ میں سکینہ
 میں یتیمہ ہوں مجھے
 پتھر نہ مارو
+
+۱
 میں بابا کی راج دلاری
 اپنے چچا کو جان سے پیاری
 میں پردیسی ہوں دکھیاری
