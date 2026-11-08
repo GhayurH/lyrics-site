@@ -11,9 +11,9 @@ published: false
 romanLyrics: |-
   Laashe abbas par sheh jo aaye
   Haye haye
-  
-  1
   Dekha bhai ko khoon mein nahaye
+
+  1
   Lipte bhai ke laashe se sarwar
   Aur bole
   Kaise sadme falak ne dikhaye
@@ -69,9 +69,9 @@ romanLyrics: |-
 
 لاشہ عباس پر شہ جو آے
 ہاے ہاے
+دیکھا بھای کو خوں میں نہائے
 
 ۱
-دیکھا بھای کو خوں میں نہائے
 لپٹے بھای کے لاشے سے سرور
 اور بولے
 کیسے صدمے فلک نے دکھاے
