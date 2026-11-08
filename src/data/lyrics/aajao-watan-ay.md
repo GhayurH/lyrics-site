@@ -1,6 +1,6 @@
 ---
 title: "چین صغرا کو مدینے میں نہیں آتا تھا"
-alternateTitle: "Aajao Watan Ay"
+alternateTitle: "Aajao Watan Ae"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,16 +10,16 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chain sughra ko madine mein nahi aata tha
+  Chain Sughra ko Madine mein nahi aata tha
   Baap ki yaad mein dil uska phata jaata tha
-  Roti thi tadapti thi buka karti thi sughra
-  Tha fatema sughra ke labon par yehi nauha
-  Kehti thi ye ro kar sughra
-  Aajao watan ay baba
+  Roti thi tadapti thi buka karti thi Sughra
+  Tha Fatima Sughra ke labon par yehi nauha
+  Kehti thi ye ro kar Sughra
+  Aajao watan ae baba
 
   1
-  Hai shehre madina soona
-  Soona hai nabi ka rauza
+  Hai shahr-e-Madina suna
+  Suna hai Nabi ka roza
   Hai charon taraf sannata
 
   2
@@ -30,15 +30,15 @@ romanLyrics: |-
   3
   Koi to taras ab khaaye
   Aakar ke mujhe le jaaye
-  Kab tak mai rahungi tanha
+  Kab tak main rahungi tanha
 
   4
-  Kis tarha sukoon mai paaun
-  Dil kaise mai ab behlaun
+  Kis tarha sukun main paaun
+  Dil kaise main ab behlaun
   Asghar bhi nahi hai mera
 
   5
-  Jhoola mai jhulati usko
+  Jhula main jhulati usko
   Seene se lagati usko
   Gar hota wo nanha bhaiya
 
@@ -48,15 +48,15 @@ romanLyrics: |-
   Hai tab se bahot hi sadma
 
   7
-  Ab rok qalam ay waiz
-  Seene mein nahi dam waiz
+  Ab rok qalam ae Waiz
+  Seene mein nahi dam Waiz
   Mushkil hai bahot ab likhna
 # source_id: nohayonline:99b22f27ff49ad19fd06
 # source_url: https://www.nohayonline.com/details_content.php?id=3165
 # raw_sha256: 9d5da19aeb0383d3f20305a4f24439c6353bafb17afc1acc0b148034961cf769
 ---
 چین صغرا کو مدینے میں نہیں آتا تھا
-باپ کی یاد میں دل اس کا پھٹا آتا تھا
+باپ کی یاد میں دل اس کا پھٹا جاتا تھا
 روتی تھی تڑپتی تھی بکا کرتی تھی صغرا
 تھا فاطمہ صغرا کے لبوں پر یہی نوحہ
 کہتی تھی یہ رو کر صغرا
@@ -73,7 +73,7 @@ romanLyrics: |-
 آنکھوں سے لہو تھا بہتا
 
 ۳
-کوی ترس اب کھاے
+کوئی تو ترس اب کھائے
 آ کر کے مجھے لے جاے
 کب تک میں رہوں گی تنہا
 
@@ -93,6 +93,6 @@ romanLyrics: |-
 ہے تب سے بہت ہی صدمہ
 
 ۷
-اب روک قلم اے وایض
-سینے میں نہیں دم وایض
+اب روک قلم اے واعظ
+سینے میں نہیں دم واعظ
 مشکل ہے بہت اب لکھنا

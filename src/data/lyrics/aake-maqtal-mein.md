@@ -10,47 +10,47 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa ke maqtal mein safe matam bichao fatema
+  Aa ke maqtal mein saf-e-matam bichhao Fatima
   
   1
-  Dushmano mein ghir gaya hai aap ka pyara hussain
-  Jaan balab hai karbala mein bekas o tanha hussain
-  Tashna lab bete ko seene se laga lo fatema
+  Dushmano mein ghir gaya hai aap ka pyara Husain
+  Jaan-ba-lab hai karbala mein bekas o tanha Husain
+  Tashna lab bete ko seene se laga lo Fatima
   
   2
-  Ab na qasim hai na akbar hai na abbas e jari
-  Khanjar e zulm o sitam hai gardane sibte nabi
-  Asr ka hangaam hai baali pa aao fatema
+  Ab na Qasim hai na Akbar hai na Abbas-e-Jari
+  Khanjar-e-zulm o sitam hai gardan-e-sibt-e-Nabi
+  Asr ka hangaam hai balin pa aao Fatima
   
   3
   Garm reti par tadapta hai nabi ka laadla
-  Goonjti hai karbala mein wa hussaina ki sada
-  Berida maqtal mei zainab hai sambhalo fatema
+  Gunjti hai karbala mein wa Husaina ki sada
+  Berida maqtal mein Zainab hai sambhalo Fatima
   
   4
-  Kya musibat ki ghaihai kya qayamat ka samaan
-  Aaye hai karbobala mein sarwar e koun o makan
-  Gham ki ye rudaad baba o sunao fatema
+  Kya musibat ki ghari hai kya qayamat ka samaan
+  Aaye hai karbobala mein sarwar-e-kaun o makan
+  Gham ki ye rudaad baba ko sunao Fatima
   
   5
-  Allah allah ibne hyder bekhata maara gaya
-  Reh gayi zainab tadap kar aur gala kaata gaya
-  Bhai ka pursa behen ko dene aao fatema
+  Allah allah ibn-e-Haider bekhata maara gaya
+  Reh gayi Zainab tadap kar aur gala kaata gaya
+  Bhai ka pursa behen ko dene aao Fatima
   
   6
   Ro rahi peet ke sar gham ki maari bibiyan
-  Baap ke gham mein sakina le rahi hai hichkiyan
-  Aa ke seene se sakina ko laga lo fatema
+  Baap ke gham mein Sakina le rahi hai hichkiyan
+  Aa ke seene se Sakina ko laga lo Fatima
   
   7
   Arsh waale ro rahe hai ro raha hai aasman
   Ranj o gham se kaampta hai ek mareez e natawan
-  Abid e muztar ko pursa dene aao fatema
+  Abid-e-muztar ko pursa dene aao Fatima
   
   8
-  Ay kaleem ahle sitam ab ghar jalane aaye hai
-  Ahlebait e mustafa par zulm dhaane aaye hai
-  Bibiyon ko is musibat se bachao fatema
+  Ae Takallum ahl-e-sitam ab ghar jalane aaye hai
+  AhlulBait-e-Mustafa par zulm dhaane aaye hai
+  Bibiyon ko is musibat se bachao Fatima
 # source_id: nohayonline:654d75ced1b201c6aafd
 # source_url: https://www.nohayonline.com/details_content.php?id=3255
 # raw_sha256: c204b1e323e2778b64ca8b9ba08d398e621db923d71c85ea724d4326e53c7110
@@ -76,7 +76,7 @@ romanLyrics: |-
 ۴
 کیا مصیبت کی گھڑی ہے کیا قیامت کا سماں
 آے ہیں کربوبلا میں سرور و کون و مکاں
-غم کی یہ روداد بابا و سناؤ فاطمہ
+غم کی یہ روداد بابا کو سناؤ فاطمہ
 
 ۵
 اللّٰہ اللہ ابن حیدر بے خطا مارا گیا

@@ -10,51 +10,51 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maadar ka ye nauha tha aajao ali asghar
+  Maadar ka ye nauha tha aajao Ali Asghar
   
   1
-  Aajao ali asghar aajao ali asghar
-  Chodo na mujhe tanha aajao ali asghar
+  Aajao Ali Asghar aajao Ali Asghar
+  Chhoro na mujhe tanha aajao Ali Asghar
   
   2
-  Surat teri ay asghar phirti hai nigahon mein
+  Surat teri ae Asghar phirti hai nigahon mein
   Dikhlayi nahi deta in dard ki raahon mein
-  Tadpao na yun beta aajao ali asghar
+  Tadpao na yun beta aajao Ali Asghar
   
   3
   Wo phool sa chehra phir hoga kahan dunya mein
   Ab dhoondne jayegi ye maa kahan dunya mein
-  Jangal mein tum na sona aajao ali asghar
+  Jangal mein tum na sona aajao Ali Asghar
   
   4
   Thi pyaas gawahi mein baysheer ki aahon mein
   Ek dard ki dunya hai shabbir ki baahon mein
-  Dil doobta hai mera aajao ali asghar
+  Dil doobta hai mera aajao Ali Asghar
   
   5
-  Bikhre pade hai laashe aaun kahan mai ran mein
+  Bikhre pade hain laashe aaun kahan main ran mein
   Dil khauf se darta hai karbobala ke ban mein
-  Chodo na mujhe tanha aajao ali asghar
+  Chhoro na mujhe tanha aajao Ali Asghar
   
   6
-  Mai raaton mein uth uth ke wo jhoola jhulati thi
-  Ro ro ke tumhe beta lori mai sunaati thi
-  Veeran hua jhoola aajao ali asghar
+  Main raaton mein uth uth ke wo jhoola jhulati thi
+  Ro ro ke tumhe beta lori main sunaati thi
+  Veeran hua jhoola aajao Ali Asghar
   
   7
-  Behaal sakina hai dekho to zara aa kar
+  Behaal Sakina hai dekho to zara aa kar
   Hai neel tamachon ke masooma ke gaalon par
-  Mar jayegi wo dukhiya aajao ali asghar
+  Mar jayegi wo dukhiya aajao Ali Asghar
   
   8
-  Ab khaak hai baalon mein andhayr hai aankhon mein
+  Ab khaak hai baalon mein andhera hai aankhon mein
   Dikhlayi nahi dete tum mujhko bhi khaabon mein
-  Dil mera larazta hai aajao ali asghar
+  Dil mera larazta hai aajao Ali Asghar
   
   9
   Iqbal ban mein saabir maa ye dua karti hai
-  Matam jo kar rahe hai unki hi zindagi hai
-  Bano ka tha ye nauha aajao ali asghar
+  Matam jo kar rahe hain unki hi zindagi hai
+  Bano ka tha ye nauha aajao Ali Asghar
 # source_id: nohayonline:00f56ad761b045ed3caf
 # source_url: https://www.nohayonline.com/details_content.php?id=929
 # raw_sha256: 90d2e2300b652ff86e902dac5c017501fe97c20364226bc9c361d08cf27ad7f5
@@ -92,16 +92,16 @@ romanLyrics: |-
 ویران ہوا جھولا آجاؤ علی اصغر
 
 ۷
-بےحال سکینہ ہے دیکھو تو ذرا آ کر
+بے حال سکینہ ہے دیکھو تو ذرا آ کر
 ہے نیل تماچوں کے معصومہ کے گالوں پر
 مر جاےگی وہ دکھیا آجاؤ علی اصغر
 
 ۸
-اب خاک ہے بالوں میں اندھیر ہے آنکھوں میں
+اب خاک ہے بالوں میں اندھیرا ہے آنکھوں میں
 دکھلای نہیں دیتے تم مجھکو بھی خوابوں میں
 دل میرے لرزتا ہے آجاؤ علی اصغر
 
 ۹
 اقبال بن میں صابر ماں یہ دعا کرتی ہے
-ماتم جو کر رہے ہیں انکی ہی زندگی ہے
+ماتم جو کر رہے ہیں ان کی ہی زندگی ہے
 بانو کا تھا یہ نوحہ آجاؤ علی اصغر

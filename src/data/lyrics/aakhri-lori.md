@@ -5,58 +5,58 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aakhri lori hai meri jaan kar bejaan hoon mai
-  Ay khuda taala na mujhko aazmana maa hoon mai
+  Aakhri lori hai meri jaan kar bejaan hun main
+  Ae Khuda Taala na mujhko aazmana maa hun main
 
   1
   Nanhe nanhe haath aur pyase labon ko choom kar
-  Mai kaha karti thi asghar ab agar jaaungi ghar
-  Mai padhungi teri surat tu kare quran hoon mai
+  Main kaha karti thi Asghar ab agar jaaungi ghar
+  Main parhungi teri surat tu kare Quran hun main
 
   2
   Putliyan aankhon ki meri tujhse le kar roshni
   Itni roshan hogayi ke bheek maange chandni
-  Ay mere mahtaab aaja muztar o giryan hoon mai
+  Ae mere mahtab aaja muztar o giryan hun main
 
   3
   Aakhri shab hai sahar is shab ki kya dikhlaye rang
   Hai munajaate khuda yan us taraf tayyar jang
-  Tu ladega kis tarha aada se yun hairaan hoon mai
+  Tu ladega kis tarha aada se yun hairan hun main
 
   4
-  Nusrate shabbir to karna hai tum ko bhi magar
+  Nusrat-e-Shabbir to karna hai tum ko bhi magar
   Muskurahat tere lab par aur udhar teer o tabar
-  Tujhpe ay nanhe mujahid is liye qurban hoon mai
+  Tujhpe ae nanhe mujahid is liye qurban hun main
 
   5
   Saari maayein apni qurbani karengi pesh kal
   Chaahti hoon tu idhar maidan mein aise nikal
-  Taake mai bhi keh sakun ek askari ki maa hoon mai
+  Taake main bhi keh sakun ek Askari ki maa hun main
 
   6
   Dhyaan bas itna rahe behre viran jaate huwe
-  Chand qatre pani pee leena jo qismat se mile
-  Ek teri tashna dahani se bohat bejaan hoon mai
+  Chand qatre paani pi lena jo qismat se mile
+  Ek teri tashna dahani se bohat bejaan hun main
 
   7
   Subho se aaghaz hoga teer ki barsaat ka
   Khoon fishan chehra nazar aane laga hai raat ka
-  Teeron se bach kar raho karti dua har aan hoon mai
+  Teeron se bach kar raho karti dua har aan hun main
 
   8
-  Maa dua karti rahi rehaan jhoole ke qareeb
-  Laaj rukhiyo maadare asghar ki rabbul aalameen
+  Maa dua karti rahi Rehan jhoole ke qareeb
+  Laaj rukhiyo maadar-e-Asghar ki Rabbul Aalamin
   Meri qurbani hai asghar be sar o samaan hoon mai
 
   9
   Guftagu maadar ki sunkar bezuban kehne laga
   Kaise so jaaun mai ke sona hai zameene garm par
-  Mai to sojaunga khaa kar teer kal maidan mein
+  Main to so jaunga khaa kar teer kal maidan mein
   Haan magar tum so nahi paaogi amma umr bhar
 # source_id: nohayonline:3fd74faec5543907385d
 # source_url: https://www.nohayonline.com/details_content.php?id=3188
@@ -92,7 +92,7 @@ romanLyrics: |-
 
 ۶
 دھیان بس اتنا رہے بحر ویراں جاتے ہوئے
-چند خطرے پانی پی لینا جو قسمت سے ملے
+چند قطرے پانی پی لینا جو قسمت سے ملے
 ایک تیری تشنہ دہانی سے بہت بے جاں ہوں میں
 
 ۷

@@ -1,5 +1,5 @@
 ---
-title: "صغرا نے کہا روکر آجاؤ علی اکبر"
+title: "صغرا نے کہا رو کر آجاؤ علی اکبر"
 alternateTitle: "Aajao Ali Akbar"
 language: "Urdu"
 lang: "ur"
@@ -10,58 +10,58 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sughra ne kaha rokar aajao ali akbar
-  Dil lagta nahi ghar par aajao ali akbar
+  Sughra ne kaha rokar aajao Ali Akbar
+  Dil lagta nahi ghar par aajao Ali Akbar
   
   1
-  Armaan hai yehi dil mein sehre mein tumhe dekhun
-  Jaldi se palat ke ghar aajao ali akbar
+  Armaan hai yehi dil mein sehre mein tumhein dekhun
+  Jaldi se palat ke ghar aajao Ali Akbar
   
   2
-  Tum kehke gaye mujhse aaunga tumhe milne
-  Kya bhool gaye jaa kar aajao ali akbar
+  Tum kehke gaye mujhse aaunga tumhein milne
+  Kya bhool gaye jaa kar aajao Ali Akbar
   
   3
-  Maa behne phupi bhai asghar ki judaai mein
-  Maayus hai ye khwahar aajao ali akbar
+  Maa behne phupi bhai Asghar ki judaai mein
+  Maayus hai ye khwahar aajao Ali Akbar
   
   4
-  Kya baade qaza milne aaoge mujhe bhaiya
-  Jaan hai meri labon par aajao ali akbar
+  Kya baad-e-qaza milne aaoge mujhe bhaiya
+  Jaan hai meri labon par aajao Ali Akbar
   
   5
-  Yaadon ke sahare mai kuch dayr ki mehman hoo
-  Pardes se baradar aajao ali akbar
+  Yaadon ke sahare main kuch der ki mehman hun
+  Pardes se baradar aajao Ali Akbar
   
   6
-  Hai kaun mere sin ka mai jis se karun baatein
-  Ab kya karungi jee kar aajao ali akbar
+  Hai kaun mere sin ka main jis se karun baatein
+  Ab kya karungi jee kar aajao Ali Akbar
   
   7
-  Kab tak mai bahaungi yaadon mein yuhin aansu
-  Tanhaai mein baradar aajao ali akbar
+  Kab tak main bahaungi yaadon mein yuhin aansu
+  Tanhaai mein baradar aajao Ali Akbar
   
   8
   Khwahar ye tumhari ab jaye to kahan jaye
-  Aaram nahi pal bhar aajao ali akbar
+  Aaram nahi pal bhar aajao Ali Akbar
   
   9
-  Rasta mai tumhara yun dekhungi bhala kab tak
-  Aajao ali akbar aajao ali akbar
+  Raasta main tumhara yun dekhungi bhala kab tak
+  Aajao ali akbar aajao Ali Akbar
   
   10
   Ashkon ki jagah khoon ab aankhon se tapakta hai
-  Palkein hai lahoo mein tar aajao ali akbar
+  Palkein hain lahu mein tar aajao Ali Akbar
   
   11
-  Kehti thi najaf rokar aajao mere bhaiya
-  Ho jaye munavar ghar aajao ali akbar
+  Kehti thi Najaf rokar aajao mere bhaiya
+  Ho jaye munavar ghar aajao Ali Akbar
 # source_id: nohayonline:3396ae9e661cc812d2b7
 # source_url: https://www.nohayonline.com/details_content.php?id=853
 # raw_sha256: ff8e5bcad873f38e046d62c85c8152774a6fd0b31201325ff8a9bee6eba7eed8
 ---
 
-صغرا نے کہا روکر آجاؤ علی اکبر
+صغرا نے کہا رو کر آجاؤ علی اکبر
 دل لگتا نہیں گھر پر آجاؤ علی اکبر
 
 ۱
@@ -89,7 +89,7 @@ romanLyrics: |-
 اب کیا کرونگی جی کر آجاؤ علی اکبر
 
 ۷
-کب تک میں بہاؤ نگی یادوں میں یونہی آنسوں
+کب تک میں بہاؤں گی یادوں میں یونہی آنسوں
 تنہائی میں برادر آجاؤ علی اکبر
 
 ۸
@@ -105,5 +105,5 @@ romanLyrics: |-
 پلکیں ہیں لہو میں تر آجاؤ علی اکبر
 
 ۱۱
-کہتی تھی نجف روکر آجاؤ میرے بھیا
+کہتی تھی نجف رو کر آجاؤ میرے بھیا
 ہو جائے منور گھر آجاؤ علی اکبر

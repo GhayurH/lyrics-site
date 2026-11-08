@@ -11,49 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   Allah allah allah allah allah allah
-  Yun aakhri hussain ne sajda adaa kiya
+  Yun aakhri Husain ne sajda adaa kiya
   Jalti hui zameen ko moalla bana diya
-  Laashe jawan thi saamne ibne batool ke
+  Laashe jawan thi saamne ibn-e-Batul ke
   Seene se jo hata nahi akbar ke baad se
   Wo haath kaampta hua takbeer ko utha
 
   1
-  Takbeer sun ke laasha e akbar tadap gaya
+  Takbeer sun ke laash-e-Akbar tadap gaya
   Tharra rahe thay zauf se maula ke dast o paa
   Zakhmon se sheh ke aati thi alhamd ki sada
 
   2
-  Thi ghurbat e hussain par nabiyon ki bhi nazar
-  Tooti kamar thi gham may alamdar ke magar
-  Tha haalat e qayaam may zahra ka laadla
+  Thi ghurbat-e-Husain par nabiyon ki bhi nazar
+  Tooti kamar thi gham mein alamdar ke magar
+  Tha haalat e qayam mein zahra ka laadla
 
   3
-  Rote thay is khayaal se maula qayaam may
-  Na mehramon ki bheed may darbar e shaam may
+  Rote thay is khayaal se maula qayam mein
+  Na mehramon ki bheed mein darbar-e-Shaam mein
   Zainab khadi rahegi bhala kaise berida
 
   4
-  Yaad aagaya ruku may bemaar ka safar
-  Zainab ki beridayi ke gham may jhukaye sar
-  Darbar tak ruku may sajjad jayega
+  Yaad aagaya ruku mein bemaar ka safar
+  Zainab ki beridayi ke gham mein jhukaye sar
+  Darbar tak ruku mein sajjad jayega
 
   5
   Masjid may reh gaya tha jo ek sajda e ali
-  Maqtal may ibne zahra ne wo sajda aakhri
-  Fuzto be rabbe kaaba ki tareekh may kiya
+  Maqtal mein ibn-e-Zehra ne wo sajda aakhri
+  Fuztu wa Rabb-il-Kaaba ki tarikh mein kiya
 
   6
-  Aayi jo aasman se awaaz e irj'iee
-  Zainab ke sar se chadar e tatheer gir gayi
-  Sajde may sar tha shaah ka khanjar gale pe tha
+  Aayi jo aasman se awaaz-e-irjai
+  Zainab ke sar se chadar-e-Tathir gir gayi
+  Sajde mein sar tha shaah ka khanjar gale pe tha
 
   7
-  Khanjar jo bosagahe nabi par hua rawan
-  Manzar wo kaise mir takallum kare bayan
-  Karbobala may chalne lagi surkh aandhiyan
+  Khanjar jo bosa-gah-e-Nabi par hua rawan
+  Manzar wo kaise Mir Takallum kare bayan
+  Karbobala mein chalne lagi surkh aandhiyan
   Laashe ke gird phirti thi ek burqa posh maa
   Kehti thi mustafa ke nawase ko chod de
-  Ay shimr teen roz ke pyase ko chod de
+  Ae Shimr teen roz ke pyase ko chod de
 # source_id: nohayonline:4a6fcbf5c480078732ec
 # source_url: https://www.nohayonline.com/details_content.php?id=2547
 # raw_sha256: 65dee7e6fce4f0babc904dc56930698400dc60986eceac4e9901bb52b21b9584
