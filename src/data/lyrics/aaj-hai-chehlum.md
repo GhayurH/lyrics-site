@@ -13,13 +13,13 @@ romanLyrics: |-
   Aaj hai chehlum pyason ka
   
   1
-  Kal tha bhara ghar aur qaime
+  Kal tha bhara ghar aur khaime
   Aaj wahan hai sannate
   Aayi hai zainab karbobala
   
   2
-  Yaad aaye abbase jari
-  Tadpi royi binte ali
+  Yaad aaye Abbas-e-Jari
+  Tadpi royi bint-e-Ali
   Kaisi hifazat kya pehra
   
   3
@@ -28,9 +28,9 @@ romanLyrics: |-
   Reh gayi haye mai tanha
   
   4
-  Dilbare farwa ibne hassan
+  Dilbar-e-Farwa ibn-e-Hasan
   Jiska hua pamaal badan
-  Ghurbate kubra wawaila
+  Ghurbat-e-Kubra wawaila
   
   5
   Shesh maaha pyasa asghar
@@ -38,8 +38,8 @@ romanLyrics: |-
   Maa ki nazar khaali jhoola
   
   6
-  Maa'ein tadapti hai bechain
-  Karti hai ro ro kar ye bain
+  Maaen tadapti hain bechain
+  Karti hain ro ro kar ye bain
   Reh gaye haye hum zinda
   
   7
@@ -49,12 +49,12 @@ romanLyrics: |-
   
   8
   Bachon ka gham bhool gayi
-  Bhai ke gham mein binte ali
+  Bhai ke gham mein bint-e-Ali
   Karti thi payham aah o buka
   
   9
-  Karti thi zainab ro ke ye bain
-  Utho mere maajaye hussain
+  Karti thi Zainab ro ke ye bain
+  Utho mere maajaye Husain
   Ab lo sakina ka pursa
   
   10
@@ -68,9 +68,9 @@ romanLyrics: |-
   Zainab degi tumko dua
   
   12
-  Kijay rasheed ab dil se dua
+  Kijiye Rasheed ab dil se dua
   Pahunche hum sab karbobala
-  Paysh kare wan ye noha
+  Pesh kare wan ye noha
 # source_id: nohayonline:f72fd4aa0403850cffd6
 # source_url: https://www.nohayonline.com/details_content.php?id=668
 # raw_sha256: 511fd31e5a8e7594264e657cfc219175dcb3d1b72551f37641f1237b0051d015

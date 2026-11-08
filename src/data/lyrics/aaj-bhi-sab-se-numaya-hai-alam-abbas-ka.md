@@ -1,10 +1,11 @@
 ---
-title: "Aaj Bhi Sab Se Numaya Hai Alam Abbas Ka"
-language: "Roman Urdu"
+title: "آج بھی سب سے نمایاں ہے علم عباس کا"
+alternateTitle: "Aaj Bhi Sab Se Numaya Hai Alam Abbas Ka"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
@@ -12,32 +13,32 @@ romanLyrics: |-
   Dekh lo dunya pe chaya hai Alam Abbas ka
   
   1
-  Log meelon door se pehchan lein ghar ko mere
-  Iss liye ghar pe sajaya hai Alam Abbas ka
+  Log milon door se pehchan lein ghar ko mere
+  Is liye ghar pe sajaya hai Alam Abbas ka
   
   2
-  Youn laga jaise utha li Kainat-e-Kibriya
-  Hath mein jab bhi uthaya hai Alam Abbas ka
+  Yun laga jaise utha li Kainat-e-Kibriya
+  Haath mein jab bhi uthaya hai Alam Abbas ka
   
   3
   Koi parcham bhi hamari aankh ko bhata nahi
   Zehan mein apne samaya hai Alam Abbas ka
   
   4
-  Khuwab dekha hai yeh main ne Rab isse tabeer de
+  Khwab dekha hai yeh main ne Rab isse tabeer de
   Chand par ja ke lagaya hai Alam Abbas ka
   
   5
   Yeh jo Sehwan mein laga hai Lal ke darbar par
-  Tair kar pani pe aaya hai Alam Abbas ka
+  Tair kar paani pe aaya hai Alam Abbas ka
 
   6
-  Kya anokha Tamga-e-Jurrat mila hai Khuld mein
+  Kya anokha Tamgha-e-Jurrat mila hai Khuld mein
   Sab shaheedon ne uthaya hai Alam Abbas ka
 
   7
-  Fikar kya Yasir Raza, soraj sawa naizay pe ho
-  Apne haq mein behray saya hai Alam Abbas ka
+  Fikr kya Yasir Raza, suraj sawa neze pe ho
+  Apne haq mein bahr-e-saaya hai Alam Abbas ka
 # source_id: tajpoints:05f153370c146dccf908
 # source_url: https://tajpoints.com/2018/07/aaj-bhi-sab-se-numaya-hai-alam-abbas-ka.html
 # raw_sha256: d41000e1c3d8c48999aeb1e62e3fc3531341f16451e661ddf194a877b685855c

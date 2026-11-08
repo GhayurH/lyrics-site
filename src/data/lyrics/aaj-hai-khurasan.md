@@ -10,23 +10,23 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj hai khurasan mein ek ghareeb ka matam
+  Aaj hai khurasan mein ek gharib ka matam
   
   1
-  Toos ki hawaon mein hai ye kaisi be-chaini
+  Tus ki hawaon mein hai ye kaisi bechaini
   Har taraf fazaon mein hai ye bekali kaisi
-  Goonjti hai har ghar mein ab sadayein matam ki
+  Gunjti hai har ghar mein ab sadaen matam ki
   Us imam ke gham mein sab ki aankh hai pur nam
   
   2
-  Ek ghareeb o bekas ko kisne zehr de daala
+  Ek gharib o bekas ko kisne zehr de daala
   Is imam e hashtum par ho gaya sitam kaisa
-  Karwatein badalte hai khaak par shahe waala
-  Dil ko thaam kar maula khoon ugalte hai payham
+  Karwatein badalte hain khaak par shah-e-wala
+  Dil ko thaam kar Maula khun ugalte hain paiham
   
   3
   Aaj dilbare kazim hum se hogaya ruqsat
-  Kya bayan kare koi us ghareeb ki haalat
+  Kya bayan kare koi us gharib ki haalat
   Kaisi hai ye tanhaai haye kaisi hai ghurbat
   Ab watan se doori hai bekasi ka hai aalam
   
@@ -34,19 +34,19 @@ romanLyrics: |-
   Hota hai do aalam mein gham imam e zaamin ka
   Kar rahe hai sab matam sab ke lab pa hai nauha
   Lo janaza uth'ta hai aaj uska wavaila
-  Tha na jiska ghurbat mein koi monis o humdam
+  Tha na jiska ghurbat mein koi munis o humdam
   
   5
   Ek bahan pa toota hai bhai ka ye gham kaisa
   Khaak uda ke roti hai aaj qum ki masooma
   Keh rahi hai ro ro kar mar gaya mera bhaiya
-  Kya karoon mai ab jee kar kaun hai mera humdam
+  Kya karun main ab ji kar kaun hai mera humdam
   
   6
   Aagaya taqi par hai daur ab yateemi ka
   Kamsini ke aalam mein haye dard hai kaisa
   Sar se uth gaya unke aaj baap ka saaya
-  Us imam ko pursa dete hai rasheed ab ham
+  Us Imam ko pursa dete hain Rasheed ab hum
 # source_id: nohayonline:e7e14cee2a7432630e76
 # source_url: https://www.nohayonline.com/details_content.php?id=677
 # raw_sha256: 42e2785f4fbb7ac5eae025a96458569533393e35ed6b1523ba2c24cfc58b71da

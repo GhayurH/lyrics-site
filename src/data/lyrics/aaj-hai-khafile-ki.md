@@ -9,7 +9,7 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj hai khaafile ki khaafila salaar behan
+  Aaj hai qafile ki qafila salar behan
   Utho bhaiya ke watan jaati hai lachaar behan
 
   1
@@ -18,9 +18,9 @@ romanLyrics: |-
   Ghaiz se kaamp gayi aap ki lachaar behan
 
   2
-  Jis ghadi ranj o bala se mai suye shaam gayi
+  Jis ghadi ranj o bala se main suye Shaam gayi
   Baalon se moo ko chupayi thi na kuch dekh saki
-  Is liye kar na saki bhai ka dedaar behan
+  Is liye kar na saki bhai ka didar behan
 
   3
   Haye karta tha dandaan se wo be-adabi
@@ -40,22 +40,22 @@ romanLyrics: |-
   6
   Bhaiya mai aap ko do gaz bhi kafan de na saki
   Chalte chalte bhi tumhe pursa behan de na saki
-  Kis khadar dasht may majboor thi lachaar behan
+  Kis qadar dasht mein majbur thi lachaar behan
 
   7
   De ke abbas ko awaaz bula do bhaiya
-  Aake tum mujhko amaari may bitha do bhaiya
+  Aake tum mujhko amari mein bitha do bhaiya
   Tum se karti hai ye minnat teri ghamkhwar behan
 
   8
   So chuke neend se utho mere bhaiya utho
   Apni sughra ke liye koi nishani de do
-  Saath milne ke liye karti hai irqraar behan
+  Saath milne ke liye karti hai iqrar behan
 
   9
-  Khoon may dooba hua baysheer ka kurta lekar
+  Khun mein duba hua beshir ka kurta lekar
   Aur sakina ka wo toota hua bunda lekar
-  Nana ke rauze pe chalne ko hai tayyar behan
+  Nana ke roze pe chalne ko hai tayyar behan
 # source_id: nohayonline:eeab8ea760de084a3661
 # source_url: https://www.nohayonline.com/details_content.php?id=2450
 # raw_sha256: 8b5372ff798faf1af7ca0e70762206333d1ec324aa1ee893a6baf9ec10561e29

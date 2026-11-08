@@ -8,10 +8,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj daswaan Naib Khair ul Bashar paida howa
-  Hain laqab Hadi Naqi jiss ke Ali hai jiss ka naam
-  Rehbar-e-Dein-e-Khuda hai ye Muhammad ka pisar
-  Itrat-e-Athar mein chotha Ali aali muqam
+  Aaj daswaan Naib-e-Khair-ul-Bashar paida howa
+  Hain laqab Hadi Naqi jis ke Ali hai jiss ka naam
+  Rehbar-e-Din-e-Khuda hai ye Muhammad ka pisar
+  Itrat-e-Athaar mein chautha Ali aali maqam
 # source_id: tajpoints:38c59ad6caf907cbe325
 # source_url: https://tajpoints.com/2017/02/aaj-daswaan-naib-khair-ul-bashar-paida.html
 # raw_sha256: c5a6ec71b5a8f98ae2680e8a1163bdb920463224a6f48d535e11606695edf700

@@ -11,27 +11,27 @@ aliases: []
 published: false
 romanLyrics: |-
   Apne bachon se aansu chupaye huwe
-  Ro rahe hai ali sar jhukaye huwe
+  Ro rahe hain Ali sar jhukaye huwe
   Ghar hai veraan kaisi ye raat aagayi
   Ruk chuki hai sada haye tasbeeh ki
 
 
-  Chor ke chal basi Fatima
+  Chhor ke chal basi Fatima
   Aaj chup ho gayi Fatima
-  Mazlooma ya zahra
-  Aaj chup ho gayi Fatima
-  Har sitam seh chuki Fatima
+  Mazlooma ya Zahra
   Aaj chup ho gayi Fatima
   Har sitam seh chuki Fatima
   Aaj chup ho gayi Fatima
-  Mazlooma ya zahra
+  Har sitam seh chuki Fatima
+  Aaj chup ho gayi Fatima
+  Mazlooma ya Zahra
 
   1
   Jab bhi royi hai ye baap ki yaad mein
-  Log bole ali Fatima se kahe
+  Log bole Ali Fatima se kahe
   Itna girya hamein sone deta nahi
   Raat mein royein ya din mein roya karein
-  Ay madine ke logon suno
+  Ae Madine ke logon suno
   Ab nahi royegi Fatima
 
   2
@@ -53,7 +53,7 @@ romanLyrics: |-
   4
   Gham se phat'ta hai dil ye bataate huwe
   Jab tamancha sitamgar ne maara usay
-  Has raha tha layeen saamne tha hassan
+  Hans raha tha lain saamne tha Hasan
   Sakht sadma tha ye ek maa ke liye
   Apna chehra chupaate huwe
   Khaak par gir gayi Fatima
@@ -75,12 +75,12 @@ romanLyrics: |-
   Keh rahe hai ali Fatima
   
   7
-  Ghar se zeeshan o farhan mayyat uthi
+  Ghar se Zeeshan o Farhan mayyat uthi
   Qabr ke paas jab leke pahunche ali
   Uthe do haath turbat se aayi sada
   Saump do ay ali mujhko beti meri
-  Rakh ke turbat mein bole ali
-  Lijiye ya nabi Fatima
+  Rakh ke turbat mein bole Ali
+  Lijiye ya Nabi Fatima
 # source_id: nohayonline:f80bef5d5fcd405d4aab
 # source_url: https://www.nohayonline.com/details_content.php?id=2764
 # raw_sha256: f63ed0050aaed0cfb355fa698a59bc7c8fe5aaf77620652c2bc8511845a2d579
@@ -92,13 +92,13 @@ romanLyrics: |-
 رک چکی ہے صدا ہاے تسبیح کی
 
 چھوڑ کے چل بسی فاطمہ
-آج چھپ ہو گیء فاطمہ
+آج چپ ہو گئی فاطمہ
 مظلومہ یا زہرا
-آج چھپ ہو گیء فاطمہ
+آج چپ ہو گئی فاطمہ
 ہر ستم سہہ چکی فاطمہ
-آج چھپ ہو گیء فاطمہ
+آج چپ ہو گئی فاطمہ
 ہر ستم سہہ چکی فاطمہ
-آج چھپ ہو گیء فاطمہ
+آج چپ ہو گئی فاطمہ
 مظلومہ یا زہرا
 
 ۱
@@ -131,7 +131,7 @@ romanLyrics: |-
 ہنس رہا تھا لعیں سامنے تھا حسن
 سخت صدمہ تھا یہ ایک ماں کے لئے
 اپنا چہرہ چھپاتے ہوے
-خاک پر گر گیا فاطمہ
+خاک پر گر گئی فاطمہ
 
 ۵
 کب کسی کو بھی دیکھا ہے اس حال میں

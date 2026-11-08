@@ -16,14 +16,14 @@ romanLyrics: |-
   Beti faryad karti jaati hai
   Aaj ghar se nahi jao baba
 
-  Ro ke zainab ye hyder se boli
+  Ro ke Zainab ye Haider se boli
   Aaj ghar se nahi jao baba
 
   1
   Kaise samjhaye tumko ye dukhiya
   Kaifiyat ko meri samjho baba
   Khauf hai mere dil mein ajab sa
-  Koi hum se tumhe cheen lega
+  Koi hum se tumhein chhin lega
   Hoga hum pe yateemi ka saaya
 
   2
@@ -41,16 +41,16 @@ romanLyrics: |-
   Ilteja sun lo meri khudara
   
   4
-  Jaanti hoon mai ye baade zahra
+  Jaanti hun main ye baad-e-Zahra
   Ghar mein lagta nahi dil tumhara
   Aaj ke roz bas reh lo ghar mein
-  Saani e fatema hoon mai baba
+  Saani-e-Fatima hun main baba
   Meri chadar ko kar lo musalla
 
   5
   Kya bataun tumhe dil ki haalat
   Toot jayegi hum par qayamat
-  Jab se maa se juda hogaye hai
+  Jab se maa se juda ho gaye hain
   Hai nahi gham ko sehne ki himmat
   Dekh sakte nahi hum janaza
 
@@ -59,14 +59,14 @@ romanLyrics: |-
   Bewafa hai ye saara hi kufa
   Ye to pursa bhi hum ko na denge
   Fitraton mein hai inki madina
-  Jaane kyun khinch raha hai kaleja
+  Jaane kiun khinch raha hai kaleja
 
   7
   Raasta roka murghabiyon ne
   Haath jode hai khud betiyon ne
   Phir bhi masjid ki jaanib badhe wo
   Dekha azlaan sab kufiyon ne
-  Bolti hi rahi binte zahra
+  Bolti hi rahi bint-e-Zahra
 # source_id: nohayonline:3bdd0f914ccfb6bc2daa
 # source_url: https://www.nohayonline.com/details_content.php?id=3398
 # raw_sha256: c1f03d911c8236b23168b9f57071061862fce1658aa8b57f153d3ba2673649dd
@@ -104,7 +104,7 @@ romanLyrics: |-
 ۴
 جانتی ہوں میں یہ بعد زہرا
 گھر میں لگتا نہیں دل تمہارا
-آج ایک روز بس رہ لو گھر میں
+آج کے روز بس رہ لو گھر میں
 ثانیء فاطمہ ہوں میں بابا
 میری چادر کو کر لو مصلیٰ
 

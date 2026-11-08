@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Shaam se jab ahlebait barsare uryan chale
-  Yani suye karbobala chaak gareban chale
+  Yani suye Karbobala chaak gareban chale
   Leke shaheedon ke sar besar o saaman chale
   Karte huwe ye bayan ba dile naalan chale
   Aaj hai chaliswan hazrate shabbir ka
-  Syed e mazloom ka zehra ke masoom ka
+  Syed-e-Mazloom ka Zehra ke masoom ka
   Aaj hai chaliswan
 
   1
@@ -32,7 +32,7 @@ romanLyrics: |-
   Door se jab qatlgaah inko dikhayi diya
   Ro ro ke kehne lage hazrate zainul liba
   Oonton se utro tum ab karte huwe shor o shain
-  Ro ke chalo pyada paa yan se ba laashe hussain
+  Ro ke chalo pyada paa yan se ba laash-e-Husain
 
   3
   Hazrate sajjad se sun ke haram ye kalaam
@@ -46,7 +46,7 @@ romanLyrics: |-
   Hazrate zainul liba nauha ye jab pad chuke
   Bibiyon se is tarha ro ro ke kehne lage
   Pehle kaho kiski laash qabr mein abid rakhe
-  Bewa e abbas yun boli mai sadqe tere
+  Bewa-e-Abbas yun boli main sadqe tere
   Pehle mere waali ki laash ko uthwaiyo
   Deke kafan qabr mein phir usay dafnaiyo
 
@@ -59,15 +59,15 @@ romanLyrics: |-
   Khaak mein madfoon hua sheh ka alamdar hai
 
   6
-  Wo jo tha ibne hassan qasim e aali nasab
+  Wo jo tha ibn-e-Hasan Qasim-e-aali nasab
   Byaah ke din haye haye qatl hua tashnalab
   Shadi ka joda jo tha mil gaya matti se sab
   Uska hi chehlum hai aaj waye sitam hai ghazab
   Hazrate sajjad ne sar ko badan se mila
-  De ke kafan qabr mein laasha e qasim rakha
+  De ke kafan qabr mein laash-e-Qasim rakha
 
   7
-  Kehti thi akbar ki maa ay mere kadiyal jawan
+  Kehti thi Akbar ki maa ae mere kadiyal jawan
   Choot ke zindan se karne ko chaliswan
   Khasta jigar aayi hai sehti hui sakhtiyan
   Dekh to noore nazar kis tarha roti hai maa
@@ -78,17 +78,17 @@ romanLyrics: |-
   Bachon se bichde huwe zainab e lachaar ko
   Beet gaye kitne din muztar o ghamkhwar ko
   Ab jo rehaai mili haye dilafgaar ko
-  Aun o mohamed ke phir seena o ruqsaar ko
-  Pyar kiya aur ye kaha ay mere sheron suno
+  Aun o Muhammad ke phir seena o ruqsaar ko
+  Pyar kiya aur ye kaha ae mere sheron suno
   Karna hai chaliswan bibiyon matam karo
 
   9
   Boli rubab e hazeen laasha e baysheer par
-  Kyun na gire bijliyan maadar e dilgeer par
+  Kiun na gire bijliyan maadar-e-dilgeer par
   Khoon hai abhi tak laga zulm ke us teer par
   Aaj wo din aagaya uff meri taqdeer par
-  Karti hoo chaliswan nanhe se quran ka
-  Sadqa mai dila saki haye teri jaan ka
+  Karti hun chaliswan nanhe se Quran ka
+  Sadqa main dila saki haye teri jaan ka
 # source_id: nohayonline:272e867ad13f759910de
 # source_url: https://www.nohayonline.com/details_content.php?id=2364
 # raw_sha256: 84d5c00fb1753ef27ff9d0b3096dd77a5bb4f176812674a365dd7d9d02e4c257
