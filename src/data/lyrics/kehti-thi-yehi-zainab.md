@@ -11,26 +11,24 @@ published: false
 romanLyrics: |-
   Kehti thi yehi zainab dukhiya
   Mere beeranwa mujra lo mera
-  
-  1
   Kuch baat karo mai tum pa fida
   
-  2
+  1
   Mai kok jali maajayi hoo
   Hamsheer tumhari bhai hoo
   Zindan se chut kar aayi hoo
   
-  3
+  2
   Zindan may gayi darbar gayi
   Sar nange sar e bazaar gayi
   Bin tere zaleel o khaar gayi
   
-  4
+  3
   Akbar bhi nahi abbas nahi
   Qasim sa bhatija paas nahi
   Ab mujhko kisi ki aas nahi
   
-  5
+  4
   Poochegi agar mujh se sughra
   Hai baap phupi kis jaa mera
   Kya us se kahoo bolo bhaiya
@@ -41,26 +39,24 @@ romanLyrics: |-
 
 کہتی تھی یہی زینب دکھیا
 میرے بیرنوا مجرا لو میرا
-
-۱
 کچھ بات کہو میں تم پہ فدا
 
-۲
+۱
 میں کوک جلی مانجای ہوں
 ہمشیر تمہاری بھای ہوں
 زندان سے چھٹ کر آی ہوں
 
-۳
+۲
 زندان گیء دربار گیء
 سر ننگے سر بازار گیء
 بن تیرے ذلیل وخوار گیء
 
-۴
+۳
 اکبر بھی نہیں عباس نہیں
 قاسم سا بھتیجا پاس نہیں
 اب مجھکو کسی کی آس نہیں
 
-۵
+۴
 پوچھے گی اگر مجھ سے صغرا
 ہے باپ پھپھی کس جا میرا
 کیا اس سے کہوں بولو بھیا
