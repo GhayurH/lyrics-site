@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   Aa tujhe lori suna'un ali asghar
-  
-  1
   Aa tujhe jhoola jhula'un ali asghar
   Tere sadqe tere waari ay meri jaan ali asghar
+
+  1
   Aagayi fauje sitam jhoola jalane ke liye
   Aakhri teri nishani ko mitane ke liye
   Gham na kar haath salamat hai jhulane ke liye
-  
+
   2
   Sar se madar ke chini shaam e ghariban mein rida
   Dhoondne kaise tujhe aa'un batade beta
   Apni maadar ke liye dasht se wapas aaja
-  
+
   3
   Roshni din ki kahan raat ki tareeki hai
   Mai bhi aadi hoo teri tu bhi mera aadi hai
   Haath phailaye hue khaak pe maa baithi hai
-  
+
   4
   Ran se laati hai hawaein tere khoon ki khusboo
   Apne dil par nahi rehta mujhe beta khaabu
   Reh gaya jaake kahan dashte bayaban mein tu
-  
+
   5
   Haye jab shaam e ghariban ki sehar hogi ayan
   Sunti hoo shle haram jayenge suye zindan
   Hogi phir tujhse mere laal mulaqat kahan
-  
+
   6
   Karbala se jo madine mein hawa aati hai
   Maa ki umeed to yawar wo jaga jaati hai
@@ -47,12 +47,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=476
 # raw_sha256: 4cb953d2c3ac8ec5459cf81937230f242dbd87d1726b191f49145f41c41b0789
 ---
-
 آ تجھے لوری سُنائوں علی اصغر
-
-۱
 آ تجھے جھولا جھُلائوں علی اصغر
 تیرے صدقے تیرے واری اے میری جان علی اصغر
+
+۱
 آ گئی فوجِ ستم جھولا جلانے کے لیے
 آخری تیری نشانی کو مٹانے کے لیے
 غم نہ کر ہاتھ سلامت ہیں جھُلانے کے لیے
