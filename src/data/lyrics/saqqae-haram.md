@@ -13,28 +13,28 @@ romanLyrics: |-
   Abbas abbas ya abal fazlil abbas
   
   1
-  Saqqa e haram raklena bharam
-  Hum dar pe tumhare aaye hai
+  Saqqa-e-haram rakh lena bharam
+  Hum dar pe tumhare aaye hain
   Tum bhi nahi hum ko thukrana
-  Hum dunya ke thukraye hai
+  Hum dunya ke thukraye hain
   
   2
-  Ab saare sahare toot chuke
+  Ab saare sahare tut chuke
   Hamay apne paraye loot chuke
   Tum apni panahon mein le lo
-  Hum gham se bohat ghabraye hai
+  Hum gham se bahot ghabraye hain
   
   3
   Ashkon ki zaban pehchante ho
   Jo dil mein hai wo bhi jaante ho
   Hum keh nahi sakte tum sun lo
-  Bas haathon ko phailaye hai
+  Bas haathon ko phailaye hain
   
   4
-  Har sooni godhi bhar jaaye
+  Har suni godi khil jaaye
   Har beti ko rishta mil jaaye
   Un chehron ko raunak de do
-  Jo ban ke sabab murjhaye hai
+  Jo gham ke sabab murjhaye hain
   
   5
   Maula tum baabe hawaij ho
@@ -67,25 +67,26 @@ romanLyrics: |-
   Hum aankh mein aansu laaye hai
   
   10
-  Darbar saqi abbas ka tha
+  Darbar Sakhi Abbas ka tha
   Kuch maangna tha laazim maanga
   Lekin ye haqeeqat bhi hai qamar
   Hum pursa dene aaye hai
 # source_id: nohayonline:180f81cba2249707b6d0
 # source_url: https://www.nohayonline.com/details_content.php?id=3067
 # raw_sha256: 37f5f0850efd6ff546f503c5f634665b8b55c52501a404d8e584d9345044ec97
+# notebook_comparison: temp-import-odt-2026-11-08
 ---
 
 عباس عباس یا ابا لفضل العباس
 
 ۱
 سقاے حرم رکھ لینا بھرم
-ہم در پہ تمہارے آے ہیں
+ہم در پہ تمہارے آئے ہیں
 تم بھی نہیں ہم کو ٹھکرانہ
 ہم دنیا کے‌ٹھکراے ہیں
 
 ۲
-اب سہارے سہارے ٹوٹ چکے
+اب سارے سہارے ٹوٹ چکے
 ہمیں اپنے پراے لوٹ چکے
 تم اپنی پناہوں میں لے لو
 ہم غم سے بہت گھبراے ہیں
@@ -97,7 +98,7 @@ romanLyrics: |-
 بس ہاتھوں کو پھیلاے ہیں
 
 ۴
-ہر سونی گودی بھر جائے
+ہر سونی گودی کھل جائے
 ہر بیٹی کو رشتہ مل جائے
 ان چہروں کو رونق دے دو
 جو غم کے سبب مرجھائے ہیں
@@ -118,13 +119,13 @@ romanLyrics: |-
 ہوتے ہیں کتنے ظلم و شدید
 اور أہل عزا ہوتے ہیں شہید
 جو ختم یزیدوں کو کر دے
-وہ طاقت مانگنے آے ہیں
+وہ طاقت مانگنے آئے ہیں
 
 ۸
 مولا ہے آپ سے ایک سوال
 اللہ ہمیں دے رزق حلال
 ہو لشکرِ مہدی میں شامل
-جتنے بھی عریضے آے ہیں
+جتنے بھی زائر آئے ہیں
 
 ۹
 کھا کھا کے طمانچے روتی ہے
@@ -133,7 +134,7 @@ romanLyrics: |-
 ہم‌ آنکھ میں آنسوں لاے‌ ہیں
 
 ۱۰
-دربار سقی عباس کا تھا
+دربار سخی عباس کا تھا
 کچھ مانگنا تھا لازم مانگا
 لیکن‌ یہ حقیقیت بھی ہے قمر
 ہم‌ پرسہ دینے آے ہیں

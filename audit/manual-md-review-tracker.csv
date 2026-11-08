@@ -1,6 +1,5 @@
 path,scope,origin,source,duplicate_pass,roman_transliteration_pass,urdu_completeness_pass,stanza_alignment_pass,archived_nohayonline_html_pass,metadata_pass,review_batch,review_commit,notes
 AGENTS.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
-README.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
 audit/README.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
 docs/ARCHITECTURE.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
 docs/ASSET_WORKFLOW.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
@@ -10,6 +9,7 @@ docs/RECITATION_OPERATIONS.md,other_markdown,other,not_applicable,not_applicable
 docs/RECITATION_SETS.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
 docs/TRANSLITERATION.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
 public/fonts/beaconhouse-nastaliq/SOURCE.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
+README.md,other_markdown,other,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,not_applicable,,,
 src/data/basta/pages/001.md,basta,preexisting_basta,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/basta/pages/002.md,basta,preexisting_basta,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/basta/pages/003.md,basta,preexisting_basta,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
@@ -868,6 +868,7 @@ src/data/lyrics/allah-ka-zakir.md,standalone_lyrics,imported,unclassified,pendin
 src/data/lyrics/allah-ke-shahkar-ka-hai-youm-e-wiladat.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/allah-ki-riza-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/allah-kya-jigar-tha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/allah-mujhe-lashkar-e-mehdi-se-mila-de.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,this_commit,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
 src/data/lyrics/allah-nigehban-watan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/allaho-akbar-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/allaho-baaqi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1560,7 +1561,7 @@ src/data/lyrics/dushwar-kitni-qaid.md,standalone_lyrics,imported,unclassified,pe
 src/data/lyrics/ehad-naama.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-abbas-tere-jaane.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-ali-ki-laadli-thi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ek-baar-aur-mujhe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ek-baar-aur-mujhe.md,standalone_lyrics,imported,nohayonline+personal_notebook,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-notebook-01,this_commit,Merged five additional notebook stanzas and retained five existing stanzas in source order; notebook transcription reviewed.
 src/data/lyrics/ek-bachi-gham-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-behan-bhai-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ek-bemaar-ko-tum.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1780,6 +1781,7 @@ src/data/lyrics/haram-ko-leke.md,standalone_lyrics,imported,unclassified,pending
 src/data/lyrics/haram-sarae-hussaini.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hasan-haye-husaina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hasan-imame-hasan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/hashim-ke-gharane-ke-qamar.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,this_commit,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
 src/data/lyrics/hashr-may-rang-layega.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hasliyon-waale-mere.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hassan-apka-hai-syed-zill-e-raza-zaidi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2055,6 +2057,7 @@ src/data/lyrics/jab-mai-bhi-karbala.md,standalone_lyrics,imported,unclassified,p
 src/data/lyrics/jab-mashk-bhar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jab-maula-aayenge.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jab-mere-ghar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/jab-meri-zindagi-ka-labrez-jaam-hoga.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,this_commit,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
 src/data/lyrics/jab-mujhe-aap-ke-qatil-ne-hai-mara-baba.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/jab-mujhe-aap-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jab-na-aada-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2222,6 +2225,7 @@ src/data/lyrics/kar-rahi-hai-dastane.md,standalone_lyrics,imported,unclassified,
 src/data/lyrics/kar-rahi-hai-lehad-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kar-rahi-thi-sakina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karbal-ke-maseeha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/karbal-ki-kahani-jab.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,reviewed,reviewed,not_applicable,partially_checked,2026-11-08-notebook-01,this_commit,New notebook kalam; Roman and Urdu manually aligned; external source not verified.
 src/data/lyrics/karbal-tune-loot-liya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karbala-aagaye.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karbala-aam-kare.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -3233,7 +3237,7 @@ src/data/lyrics/sallallahu-alaik-ya.md,standalone_lyrics,imported,unclassified,p
 src/data/lyrics/sanae-murtaza-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/saqqa-e-sakina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/saqqae-ahlebayt.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/saqqae-haram.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/saqqae-haram.md,standalone_lyrics,imported,nohayonline+personal_notebook,spot_checked,reviewed,reviewed,reviewed,await_source_classification,partially_checked,2026-11-08-notebook-01,this_commit,Notebook overlaps existing ten-stanza poem; corrected wording without adding duplicate verses.
 src/data/lyrics/sar-ali-ka-sajdae.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sar-apna-kata-gaya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sar-dekh-ke-shabbir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
