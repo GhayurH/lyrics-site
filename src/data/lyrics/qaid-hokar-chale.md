@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Qaid hokar chale to ye bole haram
-  
-  1
   Laashe shaahe zaman alwida alwida
   Aayi hogi yehi ran se sheh ki sada
   Meri dukhiya behan alwida alwida
+  
+  1
   Is tarha suye zindan farwa chali
   Dahste ghurbat mein padkar ye noha chali
   Teri pamaliyan kaise bhoolungi mai
@@ -60,13 +60,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=774
 # raw_sha256: 105628fbadfc241c10054ad8016bacc89b927c53c5c9ea0273a36d151d4cdb40
 ---
-
 قید ہوکر چلے تو یہ بولے حرم
-
-۱
 لاشے شاہ زمن الوداع الوداع
 آی ہوگی یہی رن سے شہ کی صدا
 میری دکھیا بہن الوداع الوداع
+
+۱
 اس طرح سوے زندان فروا چلی
 دہشت غربت میں پڑھ کر یہ نوحہ چلی
 تیری پامالیاں کیسے بھولوں گی میں
