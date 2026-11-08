@@ -21,37 +21,43 @@ romanLyrics: |-
   Kehna hashim ke qamar se ye kare aur karam
   Dekhne hai mujhe rauzon ke badalte parcham
   Is baras maah e aza mujhko wahin dikhlana
-  Kehna hazrat se wasail ko kushada karde
-  Mera is saal zara rizq zyada karde
 
   2
+  Kehna hazrat se wasail ko kushada karde
+  Mera is saal zara rizq zyada karde
   Betiyon beton ko hamraah mujhe hai laana
+
+  3
   Karbala piason se jaate nahi mujhko hai khabar
   Tum bulaate ho to mil jaata hai khud zaad e safar
   Likha ho aana to lagta nahi ek bhi aana
 
-  3
+  4
   Chote hazrat se ye kehna ke hai ashoor khareeb
   Ye bhi kehna ke kya is saal bhi tadpega ghareeb
   Khoon ka dena hai wan aa ke mujhe nazrana
+
+  5
   Unse kehna nahi maangunga mai aazaish o chain
   Neend jab aayegi so jaunga bain ul harmain
-
-  4
   Kafsh ko takiya bana kar hai mujhe so jaana
+
+  6
   Arbaeen ki jo banane lagay fehrist aaqa
   Naam mera bhi sakina ki tassaduq likhna
   Mujhko bhi karbala paidal hai najaf se jaana
 
-  5
+  7
   Mai agar shaam gaya pehle to boloonga yehi
   Aap ke ammu ne bheja hai sakina pani
   Tum abal fazl ke sardaab ka pani laana
+
+  8
   Kaise zinda rahi bin aap ke asghar ki behen
   Mar gayi par na khuli bachi ki gardan se rasan
-
-  6
   Pursa masoom sakina ka hai dene aana
+
+  9
   Mir sajjad ko nauhe ka sila ye dena
   Is baras karbobala aayega jab wo maula
   Aap nazrane ke badle mein nazar aa jaana
@@ -70,37 +76,43 @@ romanLyrics: |-
 کہنا ہاشم کے قمر سے یہ کرے اور کرم
 دیکھنا ہے مجھے روضوں کے بدلتے پرچم
 اس برس ماہ عزا مجھکو وہی دکھلانا
-کہنا حضرت سے وسائل کو کشادہ کر دے
-میرا اس سال زرا رزق ذیادہ کر دے
 
 ۲
+کہنا حضرت سے وسائل کو کشادہ کر دے
+میرا اس سال زرا رزق ذیادہ کر دے
 بیٹیوں بیٹوں کو ہمراہ مجھے ہے لانا
+
+۳
 کربلا پیسوں سے جاتے نہیں مجھکو ہے خبر
 تم بلاتے ہو تو مل جاتا ہے خود زادے سفر
 لکھا ہو آنا تو لگتا نہیں ایک بھی آنا
 
-۳
+۴
 چھوٹے حضرت سے یہ کہنا کہ ہے عاشور قریب
 یہ بھی کہنا کہ کیا اس سال بھی تڑپے گا غریب
 خوں کا دینا ہے واں آ کے مجھے نظرانہ
+
+۵
 ان سے کہنا نہیں مانگوں گا میں آزایش و چین
 نیند جب آے گی سو جاؤں گا بین الحرمین
-
-۴
 کفس کو تکیہ بنا کر ہے مجھے سو جانا
+
+۶
 اربعیں کی جو بنانے لگے فہرست آقا
 نام میرا بھی سکینہ کی تصدق لکھنا
 مجھکو بھی کربلا پیدل ہے نجف سے جانا
 
-۵
+۷
 میں اگر شام گیا پہلے تو بولوں گا یہی
 آپ کے عمو نے بھیجا ہے سکینہ پانی
 تم ابا الفضل کے سرداب کا پانی لانا
+
+۸
 کیسے زندہ رہی بن آپ کے اصغر کی بہن
 مر گیء پر نہ کھلی بچی کی گردن سے رسن
-
-۶
 پرسہ معصوم سکینہ کا ہے دینے آنا
+
+۹
 میر سجاد کو نوحے کا صلہ یہ دینا
 اس برس کربوبلا آے گا جب وہ مولا
 آپ نزرانے کے بدلے میں نظر آجانا
