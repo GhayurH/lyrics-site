@@ -12,17 +12,15 @@ published: false
 romanLyrics: |-
   Kehti thi ye zainab e lachaar
   Qatl alamdar hogaya hai
-  
-  1
   Sar se meri jayegi dastaar
   
-  2
+  1
   Bain karo bibiyon haye alamdare shah
   Zer e alam ye kaho haye alamdare shah
   Bhai ke labon pe ye buka hai
   Zindagi ab hogayi dushwaar
   
-  3
+  2
   Haathon mein kooze liye baithi hai ek ghamzada
   Koi batade usay kaisa sitam ho gaya
   Ab tu yehi bain kar haye alamdare shah
@@ -30,7 +28,7 @@ romanLyrics: |-
   Mashq pe qurban hogaya hai
   Bali sakina ho khabar daar
   
-  4
+  3
   Bole shahe karbala furqate abbas mein
   Sab karo majlis bapa furqate abbas mein
   Milke padho marsiya haye alamdare shah
@@ -38,7 +36,7 @@ romanLyrics: |-
   Charon taraf fauje ashkiyan hai
   Koi nahi saaya e dewaar
   
-  5
+  4
   Aankhon se ye alqama jaari rahegi sada
   Tujhko mere ba-wafa yaad rakhegi wafa
   Lab pe rahenge ye bain haye alamdare shah
@@ -46,7 +44,7 @@ romanLyrics: |-
   Jeene se bezaar ho chuka hai
   Qatl kare mujhko sitamgaar
   
-  6
+  5
   Nauha hai kulsoom ka haye shahe karbala
   Hogaya mujhko yakeen jayegi sar se rida
   Dil se uthi ye sada haye alamdare shah
@@ -54,7 +52,7 @@ romanLyrics: |-
   Ab to har ek saans ek saza hai
   Kaise jiye ab ye dilafgaar
   
-  7
+  6
   Aur bhi to ab sitam dhayenge ye ashkiyan
   Dashte bala mein mera bhai akela hua
   Mujhko yaqeen hogaya haye alamdare shah
@@ -62,7 +60,7 @@ romanLyrics: |-
   Ahle haram ki yehi sada hai
   Hogaye azaad sitamgaar
   
-  8
+  7
   Mazhar o farhan ye gham hai qayamat ka gham
   Zainab o shabbir ka haal karun kya raqam
   Lab pe yehi thi sada haye alamdare shah
@@ -73,20 +71,17 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=970
 # raw_sha256: d21a56c5855163fbb04691adb3cd47ce3c663f3a494b28e129cc918d3e637dc9
 ---
-
 کہتی تھی یہ زینب لاچار
 قتل علمدار ہوگیا ہے
-
-۱
 سر سے میری جاے گی دستار
 
-۲
+۱
 بین کرو بی بیوں ہاے علمدار شاہ
 زیر الم یہ کہو ہاے علمدار شاہ
 بھائی کے لبوں پہ یہ بکا ہے
 زندگی اب ہوگیء دشوار
 
-۳
+۲
 ہاتھوں میں کوزے لےء بیٹھی ہے اک غمزدہ
 کوئی بتادے اسے کیسا ستم ہوگیا
 اب تو یہی بین کر ہاے علمدار شاہ
@@ -94,7 +89,7 @@ romanLyrics: |-
 مشک پہ قربان ہوگیا ہے
 بالی سکینہ ہو خبر دار
 
-۴
+۳
 بولے شہ کربلا فرقت عباس میں
 سب کرو مجلس بپا فرقت عباس میں
 ملکے پڑھو مرثیہ ہاے علمدار شاہ
@@ -102,7 +97,7 @@ romanLyrics: |-
 چاروں طرف فوج اشقیا ہے
 کوئی نہیں سایۂ دیوار
 
-۵
+۴
 آنکھوں سے یہ علقمہ جاری رہے گی صدا
 تجھکو میرے با وفا یاد رکھے گی وفا
 لب پہ رہیں گے یہ بین ہاے علمدار شاہ
@@ -110,7 +105,7 @@ romanLyrics: |-
 جینے سے بیزار ہو چکا ہے
 قتل کرے مجھکو ستمگار
 
-۶
+۵
 نوحہ ہے کلثوم کا ہاے شہ کربلا
 ہوگیا مجھکو یقین جاے گی سر سے ردا
 دل سے اٹھی یہ صدا ہاے علمدار شاہ
@@ -118,7 +113,7 @@ romanLyrics: |-
 اب تو ہر ایک سانس ایک سزا ہے
 کیسے جیے اب یہ دل افگار
 
-۷
+۶
 اور بھی تو اب ستم ڈھاے نگے یہ اشقیا
 دشت بلا میں میرا بھائی اکیلا ہوا
 مجھکو یقین ہوگیا ہاے علمدار شاہ
@@ -126,7 +121,7 @@ romanLyrics: |-
 اہل حرم کی یہی صدا ہے
 ہوگےء آزاد ستمگار
 
-۸
+۷
 مظہر و فرحان یہ غم ہے قیامت کا غم
 زینب و شبیر کا حال کروں کیا رقم
 لب پہ یہی تھی صدا ہاے علمدار شاہ
