@@ -9,104 +9,58 @@ poet: "Anwar Allahbadi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haye SAKINA
-
-
+romanLyrics: |-
+  Ae baad e saba ja ke yeh ammu ko batana
+  Pyasi hai sakina
+  
   1
-
-  Aaye Baad E Saba Ammu Ko Batana..... Pyasi Hai SAKINA
-
-  Is Choti Si Sin Mein Yeh Sitam Mai Ne Uthaie
-
-  Allah (swt) Kisi Ko Na Yateem Aaisa Banaie
-
-
+  Is chote se sin mein yeh sitam maine uthaye
+  Allah kisi ko na yateem aisa banaye
+  Khud apne lahoo mein koi bacchi na nahaye
+  Main tum ko bulati rahi tum bhi to na aaye
+  Main ban gayi baad e asr laeenon ka nishana
+  
   2
-
-  Khud Apni Lahu Mein Koi Bacchi Na Nahaie
-
-  Mai Tum Ko Bulati Rahi Tum Bhi To Na Aaie
-
-  Mai Ban Gai Bad Asr laeenon (la) Ka Nishana....pyasi Hai SAKINA
-
-
+  Pani ki talab mujhko khilati rahi thokar
+  Kehta tha laeen doonga main faujon ko pila kar
+  Jab shimr laeen kar chuka sairaab yeh lashkar
+  Dikhla ke mujhe phenk diya pani zameen par
+  Tab samjhi main kya hota hai umeed dilana
+  
   3
-
-  Pani Ki Talab Mujhko Khilati Rahi Thokar
-
-  Kehta Tha laeen (la) Doonga Main Faujon Ko Pila Kar
-
-  Jub shimr (la) Kar Chuka Shehrab Yeh Lashkar
-
-  Dikhla Ke Mujhe Phenk Diya Pani Zameen Par
-
-  Tub Sumjhi Main Kya Hota Hai Umeed Dilana.....pyasi Hai SAKINA
-
-
+  Ek jaam hua shaam e ghareeban mein mayassar
+  Woh kooza main rakh aayi thi asghar ki lehad par
+  Tha mujhse bhi chota mera bhaiya mera dilbar
+  Sharminda main ho jaati chacha pyaas bujha kar
+  Ab apne hi haathon se meri pyaas bujhana
+  
   4
-
-  Ek Jaam Hua Shaam E Ghareeba Mein Maiyassar
-
-  Woh Kuza Main Rakh Aaie Thi Asghar Ki Lahad Par
-
-  Tha Mujhse Bhi Chota Mera Bhaiya Mera Dilbar
-
-  Sharminda Main Ho Jaati Chacha Pyas Bujha Kar
-
-  Ab Apne Hi Haton Se Meri Pyas Bujhana..... Pyasi Hai SAKINA
-
-
+  Ek rassi mein hum sab ke gale baandh ke aada
+  Karte hue tashheer chale jaanib e koofa
+  Aur uspe musibat yeh thi qad chota tha mera
+  Uthti thi jo phupiyan gala khinchta tha mera
+  Gardan ka mere zakhm chacha dekhne aana
+  
   5
-
-  Ek Rassi Mein Hum Sub Ke Gale Bandh Ke Aada
-
-  Karte Hue Tasheer Chale Janib E Kufa
-
-  Aur Uspe Musibat Yeh Thi Kad Chota Tha Mera
-
-  Uth Ti Thi Jo Phupiyan Gala Khich Ta Tha Mera
-
-  Gardan Ka Mere Zakhm Chacha Dekhne Aana..... Pyasi Hai SAKINA
-
-
+  Jis roz se asghar ko mila baba ka seena
+  Us roz se ammu nahi so paayi sakina
+  Is haal mein jaungi main kis tarha madina
+  Aajaye mujhe maut hai kis kaam ka jeena
+  Jaagi hoon bahot aa ke chacha mujhko sulana
+  
   6
-
-  Jis Roz Se ASGHAR (ASWS) Ko Mila Baba Ka Seena
-
-  Us Roz Se Ammu Nahi So Paaie SAKINA
-
-  Is Haal Mein Jaungi Main Kis Tarha Madina
-
-  Aajaie Mujhe Maut Hai Kis Kaam Ka Hai Jeena
-
-  Jaagi Hun Bahut Aa Ke Chacha Mujhko Sulana..... Pyasi Hai SAKINA
-
-
+  Ghar laut ke jaate hain har ek shaam parinde
+  Qismat mein likhe hain meri zindan ke andhere
+  Kab tak main jiyungi yun ashkon ke sahare
+  Lagta hai ke mar jaungi ab door watan se
+  Hoga na mayassar mujhe ghar laut ke jaana
+  
   7
-
-  Ghar Laut Ke Jaati Hai Har Ek Shaam Parinde
-
-  Kismat Mein Likhe Meri Zindan Ke Andhere
-
-  Kab Tak Mai Jiyungi Yun Ashkon Ke Sahare
-
-  Lagta Hai Ke Mar Jaungi Ab Door Watan Se
-
-  Hoga Na Mayassar Mujhe Ghar Laut Ke Jaana..... Pyasi Hai SAKINA
-
-
-  8
-
-  Pal Bhar Yeh Sada Parcham E ABBAS (ASWS) Aaie
-
-  Mai Bhool Nahi Sakta SAKINA Meri Bacchi
-
-  Kate Gai Bazu Mere Mujhko Yeh Tha Bibi
-
-  Mashkiza Alam Mein Hai Laga Dekh Le Ab Bhi
-
-  Parcham Ka Mere Kaam Hai Dunia Ko Batana'
-reciter: Farhan Ali
+  Anwar yeh sada parcham e abbas se aayi
+  Main bhool nahi sakta sakina meri bacchi
+  Kaate gaye baazu mere majboor tha bibi
+  Mashkeeza alam mein hai laga dekh le ab bhi
+  Parcham ka mere kaam hai dunya ko batana
 # source_id: nohayonline:c9dc830a3544bc137a4d
 # source_url: https://www.nohayonline.com/details_content.php?id=2379
 # raw_sha256: fe136ffcde4360f513d42ed1b1de9a27d8484c2f581f5e6075161c638cb614ba
