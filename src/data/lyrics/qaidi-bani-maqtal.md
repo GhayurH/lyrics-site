@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Qaidi bani maqtal may khadi hai
-  
-  1
   Qaidi chudane waali zainab
   Kaise bachaye khud ko sitam se
   Deen bachane waali zainab
+  
+  1
   Deen e khuda marhoon hai tera
   Khaaliq khud mamnoon hai tera
   Apni rida se deen e khuda ka
@@ -60,13 +60,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=893
 # raw_sha256: 2dddf29e8c38759f5c0f25d550bbd97c7c804353b3ffc021f70194a5ace1998f
 ---
-
 قیدی بنی مقتل میں کھڑی ہے
-
-۱
 قیدی چھڑانے والی زینب
 کیسے بچاے قد کو ستم سے
 دین بچانے والی زینب
+
+۱
 دین خدا مرحون ہے تیرا
 خالق قد ممنون ہے تیرا
 اپنی ردا سے دین خدا کا
