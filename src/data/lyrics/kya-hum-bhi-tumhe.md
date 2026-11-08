@@ -14,12 +14,12 @@ romanLyrics: |-
   Bhaiya ali akbar bhaiya ali akbar
   Sughra ne ye khat akbar ko likha
   Kaise ho mere pyare bhaiya
-
-  1
   Bichde huwe arsa beet gaya
   Kab tak ye behen dekhe rasta
   Jab ghar ko parinde jaate hai
   Kya hum bhi tumhe yaad aate hai
+
+  1
   Lo qasid e sughra ghar se chala
   Likha hai batao ay bhaiya
   Ab tak na khayaal aaya mera
@@ -97,12 +97,12 @@ romanLyrics: |-
 بھیا علی اکبر بھیا علی اکبر
 صغرا نے یہ خط کو لکھا
 کیسے ہو میرے پیارے بھیا
-
-۱
 بچھڑے ہوے عرصہ بیت گیا
 کب تک یہ بہن دیکھے رستہ
 جب گھر کو پرندے جاتے ہیں
 کیا ہم بھی تمہیں یاد آتے ہیں
+
+۱
 لو قاصد صغرا گھر سے چلا
 لکھا ہے بتاؤ اے بھیا
 اب تک نہ خیال آیا میرا
