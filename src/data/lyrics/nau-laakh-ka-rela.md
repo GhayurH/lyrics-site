@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   Kitna ghareeb hogaya hussain
-
-  1
   Asghar ko dafn kar chuka jab fatema ka laal
   Tanhaai apni dekh kar kehta tha pur malaal
   Nau laakh ka raila amma mai akela
+  
+  1
   Beenayi ja chuki hai jigar paash paash hai
   Is haal mein bhi laashe pisar ki talaash hai
   Akbar ka hai laasha amma mai akela
-
+  
   2
   Amma ye aafatein ye masaib ye tashnagi
   Ghurbat mein saath chod gaye hai mera sabhi
   Zakhmo ki ye dunya amma mai akela
-
+  
   3
   Na fauj reh gayi na alamdar reh gaya
   Bas reh gaya to tera dilafgaar reh gaya
   Hai zulm ka sehra amma mai akela
-
+  
   4
   Waade sabhi nibha ke hua aise surkh roo
   Balon mein khaak chehre pe baysheer ka lahoo
   Haathon pe janaza amma mai akela
-
+  
   5
   Daulat rabab ki sare maqtal chupayi hai
   Apne zaeef haathon se turbat banayi hai
   Karta raha nauha amma mai akela
-
+  
   6
   Bachpan mein kitne naaz uthaye hai yaad hai
   Ek pal bhi khud se door na karti thi tu mujhe
   Ye waqt hai kaisa amma mai akela
-
+  
   7
   Awaaz e isteghasa sune kaun ab yahan
   Abbas hai na qasim o akbar na bezaban
   Ab kaun hai mera amma mai akela
-
+  
   8
   Jis phool se badan pe kabhi dhoop na padi
   Teeron ne chaan daala hai amma badan wohi
   Marham na dilaasa amma mai akela
-
+  
   9
   Ek daur tha ke ghar se agar mai kahin gaya
   Saaye ki tarha saath mein rehte thay aqraba
   Ek ye hai zamana amma mai akela
-
+  
   10
   Ye barchiyo ki naizo ki dunya hai aur mai
   Tanhai fauje shaam ka nargha hai aur mai
   De mujhko dilaasa amma mai akela
-
+  
   11
   Zakhmo se choor choor badan qalb aur jigar
   Faryaad hai labon pe khaba hai lahoo mein tar
   Chalni hai kaleja amma mai akela
-
+  
   12
   Farhan us ghareeb ki lachaar ki buka
   Haan mazhar abidi ka qalam likh nahi saka
@@ -79,11 +79,11 @@ romanLyrics: |-
 # raw_sha256: e150e8cc4a6c04cb811983f6b362660500f0d85c40e73cb7c4600fc0c4138408
 ---
 کتنا غریب ہوگیا حسین
-
-۱
 اصغر کو دفن کر چکا جب فاطمہ کا لال
 تنہائی اپنی دیکھ کر کہتا تھا پر ملال
 نو لاکھ کا ریلا اماں میں اکیلا
+
+۱
 بینای جا چکی ہے جگر پاش پاش ہے
 اس حال میں بھی لاش پسر کی تلاش ہے
 اکبر کا ہے لاشہ اماں میں اکیلا
