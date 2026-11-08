@@ -10,9 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Lut gaya hussain lut gaya hussain
   Khatm ho gaya khatm ho gaya
+
+  1
   Ek din mein sab hussain ka ghar khatm ho gaya
   Zehra ki hasraton ka safar khatm ho gaya
   Ran mein hassan ke laal ko pamaal kar diya
@@ -63,9 +64,10 @@ romanLyrics: |-
 # raw_sha256: 097c07fe238b1d32486b1fc5230c2c3104876fa2880404351dd0e0b776347353
 ---
 
-۱
 لٹ گیا حسین لٹ گیا حسین
 ختم ہو گیا ختم ہو گیا
+
+۱
 ایک دن میں سب حسین کا گھر ختم ہو گیا
 زہرا کی حسرتوں کا سفر ختم ہو گیا
 رن میں حسن کے لال کو پامال کر دیا
