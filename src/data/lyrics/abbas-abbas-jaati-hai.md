@@ -10,78 +10,79 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas abbas
-  Jaati hai behan ab be-parda
-  Saqqa saqqa
+  Abbas Abbas
+  Jaati hai behan ab beparda
+  Saqqa Saqqa
   Ek pyasi behan ka sar hai khula
 
   1
-  Jab zeen se gire bin haathon ke
-  Bhaiya mere moo ke bal thay pade
+  Jab zin se gire bin haathoṅ ke
+  Bhaiya mere munh ke bal the pare
   Karwat bhi badalna mushkil tha
   Phir bhi na kisi se lab khole
-  Haalat teri dekhe kaun bhala
+  Halat teri dekhe kaun bhala
   Saqqa hai behan ko ye sadma
 
   2
-  Jis tarha watan se laaye thay hum
-  Waise hi bhala kaise jaaye
-  Kya zulm huwe chadar bhi chini
-  Kis tarha haram chadar paayein
+  Jis tarah watan se laaye the hum
+  Waise hi bhala kaise jaaeṅ
+  Kya zulm hue chadar bhi chhini
+  Kis tarah haram chadar paaeṅ
   Utho bhaiya utho bhaiya
-  Chadar to dilaado ay saqqa
+  Chadar to dila do ae Saqqa
 
   3
-  Ay sher tu kitna pyasa tha
-  Zainab ko teri ehsaas hua
-  Aur tashna dahan bhi maara gaya
-  Do ghoont tumhe pani na mila
-  Mashkeeza chida dil toot gaya
-  Pani nahi tera khoon baha
+  Ae sher tu kitna pyasa tha
+  Zainab ko tera ehsas hua
+  Aur tishna dahan bhi maara gaya
+  Do ghunt tumheṅ pani na mila
+  Mashkiza chhida dil tut gaya
+  Pani nahiṅ tera khun baha
 
   4
   Jab tak tu raha zinda bhaiya
-  Nazrein na uthaata tha koi
-  Zehra ki mai beti hoo ghazi
-  Haa sar pe mere chadar na rahi
+  Nazreṅ na uthata tha koi
+  Zehra ki main beti huṅ Ghazi
+  Haaṅ sar pe mere chadar na rahi
   Aa sar pe mere saaya kar de
-  Ay bhayi mere phir so jaana
+  Ae bhai mere phir so jaana
 
   5
-  Thi teri khata bhi koi nahi
+  Thi teri khata bhi koi nahiṅ
   Aur sar pe tumhare gurz laga
-  Behnein roti hai ye keh kar
+  Behneṅ roti hain ye keh kar
   Bhaiya ko mere kisne maara
-  Sambhla na gaya tumse zeen par
-  Sar khoon mein tera doob gaya
+  Sambhla na gaya tumse zin par
+  Sar khun mein tera dub gaya
 
   6
-  Laaye thay watan se jis tarha
-  Us tarha watan ab pahuncha do
-  Bhaiya meri chadar dilwado
-  Mehmil mein bhi mujhko bithwa do
+  Laaye the watan se jis tarah
+  Us tarah watan ab pahuncha do
+  Bhaiya meri chadar dilwa do
+  Mahmil mein bhi mujhko bithwa do
   Abbas mere aa dekh zara
-  Hai teri behen ka shaana bandha
+  Hai teri behan ka shana bandha
 
   7
-  Kis mein ye bhala jurrat aati
-  Jo baandhta shaano mein rassi
+  Kis mein ye bhala jurat aati
+  Jo bandhta shanoṅ mein rassi
   Bhaiya mere zinda hote agar
-  Chadar na mere sar se lut'ti
-  Mai saani e zahra hoo ghazi
-  Kis tarha rahoongi beparda
+  Chadar na mere sar se lutti
+  Main Sani-e-Zehra huṅ Ghazi
+  Kis tarah rahuṅgi beparda
 
   8
-  Rehan o mubarak zainab ka
-  Pardes mai yun ghar baar luta
+  Rehaan o Mubarak Zainab ka
+  Pardes mein yun ghar bar luta
   Bhai pardes mein maare gaye
-  Shaana bandha parda loota gaya
-  Maqtal mein chaudha sadi se
-  Hai fatema zehra ka nauha
+  Shana bandha parda luta gaya
+  Maqtal mein chaudah sadi se
+  Hai Fatema Zehra ka noha
 # source_id: nohayonline:2450a0d7b312eaa4f47a
 # source_url: https://www.nohayonline.com/details_content.php?id=1376
 # raw_sha256: 4b8565e81aa1f62ceebcf254a187f050545a5501290a232a5d93249731f99a96
 ---
+
 عباس عباس
 جاتی ہے بہن اب بے پردہ
 سقہ سقہ
@@ -96,16 +97,16 @@ romanLyrics: |-
 سقہ ہے بہن کو یہ صدمہ
 
 ۲
-جس طرح وطن سے لاے تھے ہم
-ویسے ہی بھلا کیسے جاے
-کیا ظلم ہوے چادر بھی چھنی
-کس طرح حرم چادر پاییں
+جس طرح وطن سے لائے تھے ہم
+ویسے ہی بھلا کیسے جائیں
+کیا ظلم ہوئے چادر بھی چھنی
+کس طرح حرم چادر پائیں
 اٹھو بھیا اٹھو بھیا
-چادر تو دلادو اے سقہ
+چادر تو دلا دو اے سقہ
 
 ۳
-اے شیر تو کتنا پیاس تھا
-زینب کو تیری احساس ہوا
+اے شیر تو کتنا پیاسا تھا
+زینب کو تیرا احساس ہوا
 اور تشنہ دہن بھی مارا گیا
 دو گھونٹ تمہیں پانی نہ ملا
 مشکیزہ چھدا دل ٹوٹ گیا
@@ -117,36 +118,36 @@ romanLyrics: |-
 زہرا کی میں بیٹی ہوں غازی
 ہاں سر پہ میرے چادر نہ رہی
 آ سر پہ میرے سایہ کر دے
-اے بھای میرے پھر سو جانا
+اے بھائی میرے پھر سو جانا
 
 ۵
 تھی تیری خطا بھی کوئی نہیں
 اور سر پہ تمہارے گرز لگا
-بہنیں روتی ہے یہ کہہ کر
+بہنیں روتی ہیں یہ کہہ کر
 بھیا کو میرے کس نے مارا
 سنبھلا نہ گیا تم سے زیں پر
 سر خون میں تیرا ڈوب گیا
 
 ۶
-لاے تھے وطن سے جس طرح
+لائے تھے وطن سے جس طرح
 اس طرح وطن اب پہنچا دو
-بھیا میری چادر دلوادو
-محمل میں بھی مجھکو بٹھوا دو
-عباس میرے آ دیکھ زرا
+بھیا میری چادر دلوا دو
+محمل میں بھی مجھ کو بٹھوا دو
+عباس میرے آ دیکھ ذرا
 ہے تیری بہن کا شانہ بندھا
 
 ۷
-کس میں یہ بھلا جرت آتی
+کس میں یہ بھلا جرات آتی
 جو باندھتا شانوں میں رسی
 بھیا میرے زندہ ہوتے اگر
 چادر نہ میرے سر سے لٹتی
-میں ثانیء زہرا ہوں غازی
+میں ثانیِ زہرا ہوں غازی
 کس طرح رہوں گی بے پردہ
 
 ۸
 ریحان و مبارک زینب کا
 پردیس میں یوں گھر بار لٹا
-بھای پردیس میں مارے گئے
+بھائی پردیس میں مارے گئے
 شانہ بندھا پردہ لوٹا گیا
 مقتل میں چودہ صدی سے
 ہے فاطمہ زہرا کا نوحہ

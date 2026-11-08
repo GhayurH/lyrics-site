@@ -9,90 +9,57 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Jab aayi shame ghareeban bapa hua matam
-
-  Qayame shaah se aati thi ek sada payham
-
-  Mai tumse karti hoo wada ay mere pyare chacha
-
-  Mai tumse pani na maangungi ab khuda ki qasam
-
+romanLyrics: |-
+  Jab aa gayi Shaam-e-Ghariban bapa hua matam
+  Khiyam-e-Shah se aati thi ek sada paiham
+  Main tum se karti huṅ waada ae mere pyare chacha
+  Main tum se pani na maṅguṅgi ab Khuda ki qasam
+  Abbas Abbas ammu janam man aab namikhwaham
 
   1
-
-  Abbas abbas ammu-janam man aab namiqaham
-
-  Phat''ta hai gham se seena, mushkil hua hai jeena
-
-  Ahle haram ka aaya hirtaas mein safina
-
-  Be-aasra huye hum, abbas abbas…
-
+  Phatta hai gham se sina mushkil hua hai jina
+  Ahl-e-Haram ka aaya hirtaas mein safina
+  Beaasra hue hum
 
   2
-
   Darya se jald aao gham se mujhe bachao
-
-  Kab tak tamache khaye ye gham-zada batao
-
-  Koi nahi hai humdum, abbas abbas…
-
-  Kaano se khoon rawan hai lab par mere fughan hai
-
+  Kab tak tamache khae ye ghamzada batao
+  Koi nahiṅ hai hamdam
 
   3
-
-  Daaman sulag raha hai sehra dhuan dhuan hai
-
-  Saari fiza hai barham, abbas abbas…
-
-  Sar par nahi hai chadar maidan mein jaake sarwar
-
-  Kyon laut ke na aaye, kuch to batao aakar
-
+  Kanoṅ se khun ravaṅ hai lab par mere fughaṅ hai
+  Daman sulag raha hai sahra dhuan dhuan hai
+  Saari fiza hai barham
 
   4
-
-  Hai bekasi ka aalam, abbas abbas…
-
-  Asghar ne teer khaaya, veeran kiya hai jhoola
-
-  Bano ke dil pe ammu ye zakhm hai kuch aisa
-
-  Jiska nahi hai marham, abbas abbas…
-
+  Sar par nahiṅ hai chadar maidan mein ja ke Sarwar
+  Kiun laut ke na aaye kuchh to batao aa kar
+  Hai bekasi ka aalam
 
   5
-
-  Rassi galay mein baandhi aada ne kaske aisi
-
-  Tumko bataun kaise, rukti hai saans meri
-
-  Honton pe aa gaya dum, abbas abbas…
-
-  Dur chin gaye hamare gardish mein hai sitare
-
+  Asghar ne teer khaya veeran kiya hai jhula
+  Bano ke dil pe ammu ye zakhm hai kuchh aisa
+  Jiska nahiṅ hai marham
 
   6
-
-  Roodaad kya bayan ho dil kis ko ab pukare
-
-  Hai bekasi ka mausam, abbas abbas…
-
-  Jaati hoon suye zindan sar hai phuphi ka uryan
-
-  Be-warisi pe apni kunba hai saara giriya
-
+  Rassi gale mein bandhi aada ne kas ke aisi
+  Tum ko bataun kaise rukti hai saans meri
+  Hontoṅ pe aa gaya dam
 
   7
+  Dur chhin gaye hamare gardish mein hain sitare
+  Rudad kya bayaṅ ho dil kis ko ab pukare
+  Hai bekasi ka mausam
 
-  Aankhein hai sab ki purnam, abbas abbas…
+  8
+  Jaati huṅ su-e-zindaṅ sar hai phuphi ka uryaṅ
+  Bewarisi pe apni kunba hai saara girya
+  Aankheṅ hain sab ki purnam
 
-  Rehan azmi ka likha hua ye noha
-
-  Nasir pada jo maine, dil khud ba khud pukara
-
-  Laazim hai ab to matam, abbas abbas…'
+  9
+  Rehaan Azmi ka likha hua ye noha
+  Nasir parha jo maine dil khud ba khud pukara
+  Lazim hai ab to matam
 reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: nohayonline:be567df2a3c7f1e53cb3
 # source_url: https://www.nohayonline.com/details_content.php?id=84
@@ -102,56 +69,53 @@ reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # raw_sha256: c426c9a46e46199ba4e976aa0e32a8a92e01cee3ea11acf7b0732c4ea61fc66e
 ---
 
-جب آئی شامِ غریباں، بپا ہوا ماتم
+جب آ گئی شامِ غریباں بپا ہوا ماتم
 خیامِ شاہ سے آتی تھی اک صدا پیہم
 میں تم سے کرتی ہوں وعدہ اے میرے پیارے چچا
 میں تم سے پانی نہ مانگوں گی اب خدا کی قسم
+عباس عباس عمو جانم من آب نمی خواہم
 
 ۱
-عباس عباس عموں جانم میں اب نامقاہم
+پھٹتا ہے غم سے سینہ مشکل ہوا ہے جینا
+اہلِ حرم کا آیا حرطاس میں سفینہ
+بے آسرا ہوئے ہم
 
 ۲
-پھٹتا ہے غم سے سینا، مشکل ہوا ہے جینا
-اہلِ حرم کا آیا، حرطاس میں سفینہ
-بے آسرا ہوئے ہم عباس عباس ۔۔۔
+دریا سے جلد آؤ غم سے مجھے بچاؤ
+کب تک تماچے کھائے یہ غم زدہ بتاؤ
+کوئی نہیں ہے ہمدم
 
 ۳
-دریا سے جلد آئو، غم سے مجھے بچائو
-کب تک تماچے کھائے، یہ غم زدہ بتائو
-کوئی نہیں ہے ہمدم، عباس عباس ۔۔۔
+کانوں سے خون رواں ہے لب پر میرے فغاں ہے
+دامن سلگ رہا ہے صحرا دھواں دھواں ہے
+ساری فضا ہے برہم
 
 ۴
-کانوں سے خوں رواں ہے، لب پر میرے فغاں ہے
-دامن سُلگ رہا ہے، صحرا دھواں دھواں ہے
-ساری فضا ہے برہم عباس عباس۔۔۔
+سر پر نہیں ہے چادر میدان میں جا کے سرور
+کیوں لوٹ کے نہ آئے کچھ تو بتاؤ آ کر
+ہے بے کسی کا عالم
 
 ۵
-سر پر نہیں ہے چادر، میداں میں جا کے سرور
-کیوں لوٹ کے نہ آئے، کچھ تو بتائو آ کر
-ہے بے کس کا علم، عباس عباس۔۔۔
+اصغر نے تیر کھایا ویراں کیا ہے جھولا
+بانو کے دل پہ عمو یہ زخم ہے کچھ ایسا
+جس کا نہیں ہے مرہم
 
 ۶
-ہے بے کس کا علم، عباس عباس۔۔۔
-اصغر نے تیر کھایا ویراں کیا ہے جھولا
-بانو کے دل پہ عموں یہ زخم ہے کچھ ایسا
-جسکا نہیں ہے مرہم، عباس عباس۔۔۔
+رسی گلے میں بندھی اعدا نے کس کے ایسی
+تم کو بتاؤں کیسے رکتی ہے سانس میری
+ہونٹوں پہ آ گیا دم
 
 ۷
-رسی گلے میں بندھی، اعدا نے کس کے ایسی
-تم کو بتائوں کیسے، رُکتی ہے سانس میری
-ہونٹوں پہ آگیا دم، عباس عباس ۔۔۔
+در چھن گئے ہمارے گردش میں ہیں ستارے
+روداد کیا بیاں ہو دل کس کو اب پکارے
+ہے بے کسی کا موسم
 
 ۸
-دُر چھِن گئے ہمارے، گردش میں ہیں ستارے
-روداد کیا بیاں ہو، دل کس کو اب پُکارے
-ہے بے کسی کا موسم، عباس عباس ۔۔۔
+جاتی ہوں سوئے زنداں سر ہے پھوپھی کا عریاں
+بے وارثی پہ اپنی کنبہ ہے سارا گریہ
+آنکھیں ہیں سب کی پرنم
 
 ۹
-جاتی ہوں سُوئے زنداں، سر ہے پھُوپھی کا عُریاں
-بے وارثوں پہ اپنے، کنبہ ہے سارا گِریہ
-آنکھیں ہیں سب ہی پُر نم، عباس عباس ۔۔۔
-
-۱۰
-ریحان اعظمی کا، لکھا ہوا یہ نوحہ
-ناصر پڑھا جو میں نے، دل خود بخود پُکارا
-لازم ہے اب تو ماتم، عباس عباس
+ریحان اعظمی کا لکھا ہوا یہ نوحہ
+ناصر پڑھا جو میں نے دل خود بخود پکارا
+لازم ہے اب تو ماتم
