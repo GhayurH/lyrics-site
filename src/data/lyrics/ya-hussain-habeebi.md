@@ -12,9 +12,9 @@ published: false
 romanLyrics: |-
   Tu meri tamanna ya hussain
   Tu mera sahara ya hussain
-  
-  1
   Tu mera maula ya hussain
+
+  1
   Ya hussain ya mazloom
   Ya hussain mehroom
   Ya hussain ya mahmoom
@@ -23,67 +23,77 @@ romanLyrics: |-
   Tu mera maseeha ay bine payambar
   Tu hi meri dunya ay bine payambar
   Tu hi meri uqba ay bine payambar
-  
+
   2
   Tu hi mera maula ya hussain
   Ya hussain ya majrooh
   Ya hussain ya matrooh
   Ya hussain ya madbooh
-  Ya hussain habeebi
+
+  3
   Gohar e risalat dil o jaan e zehra
   Qamar e wilayat dil o jaan e zehra
   Samar e imamat dil o jaan e zehra
   Shajar e taharat dil o jaan e zehra
+
+  4
   Tu meri mohabbat ya hussain
   Tu meri mawaddat ya hussain
   Tu hi meri jannat ya hussain
   Ya hussain ya rahman
   Ya hussain ya atshaan
   Ya hussain ya quran
-  Ya hussain habeebi
+
+  5
   Tu meri shariyat ay shafi e mehshar
   Tu meri aqeedat ay shafi e mehshar
   Sabab e shafa'at ay shafi e mehshar
   Hai teri ziyarat ay shafi e mehshar
+
+  6
   Tu mera asaasa ya hussain
   Tu meri maseeha ya hussain
   Tu hi mera kaaba ya hussain
   Ya hussain ya mabroor
   Ya hussain ya maafoor
   Ya hussain ya manhoor
-  Ya hussain habeebi
+
+  7
   Tu hi noor e yazdan ya hussain shaheedan
   Tu hi deen o imaan ya hussain shaheedan
   Tu furaat e ehsaan ya hussain shaheedan
   Tu meri nigeban ya hussain shaheedan
+
+  8
   Tu meri riyazat ya hussain
   Tu meri ibaadat ya hussain
   Tu hi meri izzat ya hussain
   Ya hussain ya masloob
   Ya hussain ya maghzoob
   Ya hussain ya mahyoob
-  Ya hussain habeebi
+
+  9
   Tu hamari hai jaan ay shahe shaheedan
   Tu hamari pehchaan ay shahe shaheedan
   Ye iram aur rehan ay shahe shaheedan
   Hai tere nauhakhwan ay shahe shaheedan
+
+  10
   Tu hamari himmat ya hussain
   Tu hamari quwwat ya hussain
   Tu hamari taaqat ya hussain
   Ya hussain ya masoom
   Ya hussain ya maqdoom
   Ya hussain ya maghmoom
-  Ya hussain habeebi
 # source_id: nohayonline:f528003efe43036407ba
 # source_url: https://www.nohayonline.com/details_content.php?id=2121
 # raw_sha256: cf549a851e53b5e7af396fd9d6f31ca2cba205581e157ff04fde321ccc5aefc6
 ---
-
 تو میری تمنا یا حسین
 تو میرا سہارا یا حسین
+تو میرا مولا یا حسین
 
 ۱
-تو میرا مولا یا حسین
 یا حسین یا مظلوم
 یا حسین محروم
 یا حسین محموم
@@ -98,48 +108,59 @@ romanLyrics: |-
 یا حسین یا مجروح
 یا حسین یا متروح
 یا حسین یا مدبوح
-یا حسین حبیبی
+
+۳
 گوہر رسالت دل و جان زہرا
 قمر ولایت دل و جان زہرا
 ثمر امامت دل و جان زہرا
 شجر طہارت دل و جان زہرا
+
+۴
 تو میری محبت یا حسین
 تو میری مودت یا حسین
 تو ہی میری جنت یا حسین
 یا حسین یا رحمان
 یا حسین یا عطشاں
 یا حسین یا قرآن
-یا حسین حبیبی
+
+۵
 تو میری شریعت اے شافیء محشر
 تو میری عقیدت اے شافیء محشر
 سبب شفاعت اے شافیء محشر
 ہے تیری زیارت اے شافیء محشر
+
+۶
 تو میرا اثاثہ یا حسین
 تو میری مسیحا یا حسین
 تو ہی میرا کعبہ یا حسین
 یا حسین یا مبرور
 یا حسین یا معفور
 یا حسین یا منہور
-یا حسین حبیبی
+
+۷
 تو ہی نورِ یزداں یا حسین شہیداں
 تو ہی دین و ایماں یا حسین شہیداں
 تو فرات احساں یا حسین شہیداں
 تو میری نگہباں یا حسین شہیداں
+
+۸
 تو میری رضیت یا حسین
 تو میری عبادت یا حسین
 تو ہی میری عزت یا حسین
 یا حسین یا مسلوب
 یا حسین یا مغضوب
 یا حسین یا محیوب
-یا حسین حبیبی
+
+۹
 تو ہماری ہے جان اے شاہ شہیداں
 تو ہماری پہچان اے شاہ شہیداں
 یا ارم اور ریحان اے شاہ شہیداں
 ہے تیرے نوحہ خواں اے شاہ شہیداں
+
+۱۰
 تو ہماری ہمت یا حسین
 تو ہماری قوت یا حسین
 تو ہماری طاقت یا حسین
 یا حسین یا معصوم
 یا حسین یا مخدوم
 یا حسین یا مغموم
-یا حسین حبیبی
