@@ -10,19 +10,19 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qadam badta rahe aao karbala ki taraf
-  Aaqa hussain maula hussain
-  Aa raha hoo mai bhi karbala
-  Aarzu e ambiya ziarat e hussain hai
-  Nusrat e imam hai ye nusrat e hussain hai
-  Azm zayareen ka ye taaqat e hussain hai
+  Qadam barhta rahe aao karbala ki taraf
+  Aaqa Husain Maula Husain
+  Aa raha hun main bhi karbala
+  Aarzu-e-Ambiya ziyarat-e-Husain hai
+  Nusrat-e-Imam hai ye nusrat-e-Husain hai
+  Azm-e-zairin ka ye taqat-e-Husain hai
   Dil se aa rahi hai ye sada ek hi lagan hai karbala
   Har qadam pe badh raha hai dil ka hausla
 
   1
   Rok hi nahi saka hai koi khaar phool ko
-  Zaayeron ka ilm kya ho daaishi jahool ko
-  Kaat denge zayareen kufr ke babool ko
+  Zairon ka ilm kya ho daaishi jahool ko
+  Kaat denge zairin kufr ke babool ko
   Sabr ka liye hai asleha haath mein hai parchame wafa
   Dekhte hai rokta hai kaun raasta
 
@@ -31,48 +31,48 @@ romanLyrics: |-
   Fatema ki ye dua hai zaayire hussain hai
   Iska martaba bada hai zaayire hussain hai
   Khidmaton mein mehwe dam ba dam
-  Zaayiron ke kaam aaye hum
-  Maadar e hussain se milega hausla
+  Zairon ke kaam aaye hum
+  Maadar-e-Husain se milega hausla
 
   3
-  Aarzu e murtaza hai ye dua e fatema
+  Aarzu-e-Murtaza hai ye dua-e-Fatima
   Faqr se zameen de isko rahi hai raasta
   Mehr o maah hai safar mein chal raha hai khaafela
   Bhai hai behan hai aur maa bache boodhe saath hai jawan
   Lashkare hussain mein hai aaj faisla
 
   4
-  Hyderi jo walwala hai ishq e arz e toos hai
+  Haideri jo walwala hai ishq e arz e toos hai
   Azm hai shahadaton ka maut to uroos hai
   Karwan jo chal raha hai matami juloos hai
-  Matam e hussain ka asar buzdilon ke phat gaye jigar
+  Matam-e-Husain ka asar buzdilon ke phat gaye jigar
   Darr ke har yazeed apne ghar mein chup gaya
 
   5
-  Haq hai ye hussain ka najaf se karbala chalo
+  Haq hai ye Husain ka najaf se karbala chalo
   Poora khaandan leke misl e shaah tum badho
   Choomte hai raaste har ek zakhm zakhm ko
-  Abid e hazeen hai raah par zainab e hazeen hai humsafar
+  Abid-e-hazin hai raah par Zainab-e-hazin hai humsafar
   Paon mein pade hai aable to kya hua
 
   6
-  Roz o shab tadap raha hoo zindagi ki kya khabar
-  Maanta hoo maula hoo gunahgaar kis qadar
-  Ek bar pahunchun bus mai rauza e hussain par
+  Roz o shab tarap raha hun zindagi ki kya khabar
+  Maanta hun Maula hun gunahgaar kis qadar
+  Ek baar pahunchun bas main rauza-e-Husain par
   Bhai aur bhatije ki talaash cheh mahine ke pisar ki laash
   Pursa dene aap ko har ek shaheed ka
 
   7
   Roze maine rakhe aur khums bhi ada kiya
   Waqt par padi namaz ki nahi kabhi qaza
-  Matami mai aap ka hoo meri zindagi aza
+  Matami main aap ka hun meri zindagi aza
   Dil ki ye tadap hai ek baar aaqa mai hoo ek gunahgaar
-  Hurr ki tarah haath jod kar hoo mai khada
+  Hurr ki tarha haath jod kar hoo mai khada
 
   8
   Karbala hi zindagi meri hai mai hoo matami
   Khoon e dil se jo likhe hai lafz wo hai roshni
-  Ay qamar ziyarat e hussain hogi laazmi
+  Ae Qamar ziyarat e hussain hogi laazmi
   Zulm ke khilaaf har qadam hai hussainiat mera qalam
   Door karbala se mai shaheed ho gaya to kya
 # source_id: nohayonline:fd580d5d7833446f4072

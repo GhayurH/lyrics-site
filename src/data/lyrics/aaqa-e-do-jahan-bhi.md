@@ -10,24 +10,24 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaqa e do jahan hai mushkil kusha bhi hai
-  Hyder ba qaul e qaum e nusairi khuda bhi hai
+  Aaqa-e-do-jahan hai Mushkilkusha bhi hai
+  Haider ba-qaul-e-qaum-e-Nusairi Khuda bhi hai
 
   1
-  Kaabe my budh shikan hai to masjid may hai imam
-  Jibreel keh rahe hai ali la fataa bhi hai
+  Kaabe mein budh shikan hai to masjid mein hai imam
+  Jibrail keh rahe hain Ali La Fata bhi hai
 
   2
   Abbas ab na paltenge darya liye baghair
-  Badta hua qadam kabhi peeche hata bhi hai
+  Barhta hua qadam kabhi peeche hata bhi hai
 
   3
-  Saqqa e ahlebayt hai abbas naam hai
-  Talwaar khaynch le to ye sher e khuda bhi hai
+  Saqqa-e-AhlulBait hai abbas naam hai
+  Talwaar khaynch le to ye Sher-e-Khuda bhi hai
 
   4
-  Khyber may kaise waar se sheh par nahi kate
-  Hyder ki zulfeqar se koi bacha bhi hai
+  Khaibar mein kaise waar se sheh par nahi kate
+  Haider ki Zulfiqar se koi bacha bhi hai
 
   5
   Toofan uth raha hai to uthe hazaar baar
@@ -35,15 +35,15 @@ romanLyrics: |-
 
   6
   Akbar na kyun ho apne muqabil pa fathe yaab
-  Zor e ali hai haath may maa ki dua bhi hai
+  Zor-e-Ali hai haath mein maa ki dua bhi hai
 
   7
-  Khandaq may kaun jayega dushman ke saamne
-  Islam may ali ke siwa doosra bhi hai
+  Khandaq mein kaun jayega dushman ke saamne
+  Islam mein Ali ke siwa doosra bhi hai
 
   8
-  Dekho adab se rauza e shabbir ki taraf
-  Mahir khayal e azmate karbobala bhi hai
+  Dekho adab se rauza-e-Shabbir ki taraf
+  Mahir khayal-e-azmat-e karbobala bhi hai
 # source_id: nohayonline:ee432107d426ea6d2f0d
 # source_url: https://www.nohayonline.com/details_content.php?id=1195
 # raw_sha256: fdb2c092c131a64e6395c4a53d07d227f93f1cc3418d6af1d3d62b581293d1f0

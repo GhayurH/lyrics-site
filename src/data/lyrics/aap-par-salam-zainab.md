@@ -10,13 +10,13 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Marhaba shareekatul hussain
-  Aap par salaam zainab
-  Baad e shahe karbala aap ne poora kiya
-  Itna bada kaam zainab
+  Marhaba Sharikatu-l-Husain
+  Aap par salam Zainab
+  Baad-e-Shah-e-Karbala aap ne poora kiya
+  Kitna bara kaam Zainab
 
   1
-  Maa se jo kiya tha waada khoob wo nibhaya
+  Maa se jo kiya tha waada khub woh nibhaya
   Saath saath bhai ke rahi hai ban ke saaya
   Kaam jo koi na kar saka wo kar dikhaya
   Karbobala bhai ne fatha ki aur aap ne
@@ -24,36 +24,36 @@ romanLyrics: |-
 
   2
   Qatl ho chuka ali ka laal jab furaat par
-  Bibiyon ke bayn cha rahe thay kayenat par
+  Bibiyon ke bayn cha rahe thay kainat par
   Saari zimmedariyan uthayi apni zaat par
   Bibiyan ghabra gayi pehre pe aap aagayi
-  Jab jale qayaam zainab
+  Jab jale khiyam Zainab
 
   3
   Misle shaah e deen nigahein zulm se milayi thi
-  Faujein jis ghadi qayam lootne ko aayi thi
-  Abid e hazeen ko aap hi bacha ke laayi thi
+  Faujein jis ghari khiyam lootne ko aayi thi
+  Abid-e-hazin ko aap hi bacha ke laayi thi
   Dekh ke ye hausla keh rahe they marhaba
   Khud shahe anaam zainab
 
   4
   Kaise kaise imtehan bibi aap ne diye
   Karbala ke dasht se aseer hoke jab chale
-  Aap hi to aasra thi ahlebait ke liye
+  Aap hi to aasra thi AhlulBait ke liye
   Gham mein giraftar thi phir bhi alamdar thi
-  Karbala se shaam zainab
+  Karbala se Shaam Zainab
 
   5
   Kyun na ehteram aap ka ho khaas o aam mein
-  Aap hai shareek e kaar maqsad e imam mein
-  Pehli majlis e hussain wo bhi qaid e shaam mein
-  Koi nahi ho saka baani e farshe aza
+  Aap hai sharik-e-kar maqsad-e-Imam mein
+  Pehli majlis-e-Husain wo bhi qaid e shaam mein
+  Koi nahi ho saka bani-e-farsh-e-aza
   Sirf hai ek naam zainab
 
   6
   Zindagi ko waqf kar diya khuda ke naam par
   Dono laadle fida kiye wafa ke naam par
-  Ek ek ashk shaah e karbala ke naam par
+  Ek ek ashk Shah-e-Karbala ke naam par
   Khutba kuch aise diya zulm ko ruswa kiya
   Hai ye sada aam zainab
 
@@ -67,7 +67,7 @@ romanLyrics: |-
   8
   Aap ki ata jo ho to choole asmaan sab
   Saare zakireen nauhakhwan o soz khan sab
-  Mesum aur mazhar abidi kare bayan sab
+  Mesum aur Mazhar Abidi kare bayan sab
   Kaare numeina sabhi aap ki lachaargi
   Aap ka maqaam zainab
 # source_id: nohayonline:9d64998896524844343b

@@ -5,70 +5,70 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindagi mein ho karam mujhpe bhi mere sarkar
+  Zindagi mein ho karam mujh pe bhi mere sarkar
   
   1
-  Chote hazrat se kahe mujhko bana de zawwar
-  Maula ek baar mujhe izn e ziyarat dedo
-  Tum ko zehra ke qasam mujhko ijazat dedo
-  Zindagi kam hai bohat thodi se mohlat dedo
-  Mera saaman e safar kab se rakha hai tayyar
+  Chhote Hazrat se kahe mujhko bana de zawwar
+  Maula ek baar mujhe izn-e-ziyarat de do
+  Tum ko Zehra ke qasam mujhko ijazat de do
+  Zindagi kam hai bohat thodi se mohlat de do
+  Mera saman-e-safar kab se rakha hai tayyar
   
   2
-  Baab e saqqi e atash par jo nazar jayegi
-  Yaad masoom sakina ke bahot aayegi
-  Laash per teri jahan ro na sake ahle haram
-  Ak zamana hai wahan aaj tera matamdaar
+  Bab-e-Saqqi-e-atash par jo nazar jayegi
+  Yaad masoom Sakina ke bahot aayegi
+  Laash par teri jahan ro na sake ahl-e-haram
+  Ak zamana hai wahan aaj tera matamdar
   Jab sham o sehar fatema zehra tujhe roye
   Abbas tera haq hai zamana tujhe roye
   
   3
-  Jhoola asghar ka rakha hai jahan ek hujre mein
+  Jhula Asghar ka rakha hai jahan ek hujre mein
   Aisa lagta hai wahan maa kisi ek kone mein
-  Choom kar khoon bhara halqoom sada deti hai
+  Choom kar khun bhara halqoom sada deti hai
   Aankhein to kholo meri simt to dekho ak baar
-  Kooza lekar haathon mein wo tujhko dhoondne jaati hai
+  Kuza lekar haathon mein wo tujhko dhoondne jaati hai
   Kuch to bolo aankhein kholo asghar behan bulaati hai
   
   4
-  Jab maqam e ali akbar pe padhunga nauha
-  Aayegi sughra ke rone ke madine se sada
+  Jab maqam-e-Ali Akbar pe padhunga nauha
+  Aayegi Sughra ke rone ke madine se sada
   Aaj bhi laashe pe maa sehra liye roti hai
   Baap ki aaj bhi hai laashe jawan pe ye pukaar
   Apne lahoo mein aap sawarne ke din na thay
   Akbar jawan abhi tere marne ke din na thay
   
   5
-  Qaimagah dekh ke yaad aayega manzar saara
-  Aaye jab aakhri ruqsat ko ghareeb e zehra
-  Shor e girya se qayamat thi fizaon mein bapa
+  Khaimagah dekh ke yaad aayega manzar saara
+  Aaye jab aakhri rukhsat ko gharib-e-Zehra
+  Shor-e-girya se qayamat thi fizaon mein bapa
   Behan kehti thi ye karte huwe bhai ko sawaar
   Zainab ko har ek mod pe tadpayegi dunya
   Yaad aaoge bhaiya yaad aaoge bhaiya
   
   6
-  Ab maqam e kaf e abbas pe jaana hoga
+  Ab maqam-e-kaf-e-Abbas pe jaana hoga
   Kaise hoti hai kate haathon se dekhunga ataa
   Zaairon ko yahan milti hai wafa ke saughaat
-  Maango sadqe mein sakina ke saja hai darbar
-  Dua to maang sakina ka waasta de ke
+  Maango sadqe mein Sakina ke saja hai darbar
+  Dua to maang Sakina ka waasta de ke
   Ye kaise hoga ke abbas aur ataa na kare
   
   7
-  Tila e zainabia par na rukega girya
+  Tila-e-Zainabiya par na rukega girya
   Behan ke saamne kaata gaya bhai ka gala
   Yan se zainab ne churi bhai pe chalte dekhi
   Kehke maqtal ko chali rote huwe wo ghamkhwar
   Kya guzri hai tum par kuch to kaho sadqe gayi
-  Maajayi hai zainab ay bhai hussaina ay bhai hussaina
+  Maajayi hai zainab ay bhai Husaina ay bhai Husaina
   
   8
-  Hogi jab nazre karam ghazi ki rehaan o raza
+  Hogi jab nazr-e-karam Ghazi ki Rehan o Raza
   Karbala jaa ke mai waapis jo watan aaunga
   Log poochenge mera haal mai batlaunga kya
   Askh hai aankhon mein aur dil ko nahi milta qaraar

@@ -10,15 +10,14 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sar ko jhukaye kehte hai zainab ke ye pisar
+  Sar ko jhukaye kehte hain Zainab ke ye pisar
   Aap ki qasam amma aap ki qasam
   Sharminda hone denge na hum tumko umr bhar
-  Ay aun o mohamed ay aun o mohamed
-  Ay aun o mohamed ay aun o mohamed
+  Ae Aun o Muhammad
 
   1
   Pehle tumhare laadle maqtal ko jayenge
-  Nusrat mein shaahe deen ki hum sar katayenge
+  Nusrat mein Shah-e-Din ki hum sar katayenge
   Hum dono ke bhi dasht mein paogi tum ye sar
 
   2
@@ -27,37 +26,37 @@ romanLyrics: |-
   Haathon ko rakh ke haathon pe kehte thay ye pisar
 
   3
-  Khyber ki yaad phir se dilaaun layeeno ko
-  Nana ki shaane jang dikhaun layeeno ko
+  Khaibar ki yaad phir se dilaaun lainon ko
+  Nana ki shaane jang dikhaun lainon ko
   Bhaagenge aada dasht se phir peet phayr kar
 
   4
   Rakhenge tere sheer ki izzat abhi yahan
-  Pehnenge dono taaj e shahadat abhi yahan
+  Pehnenge dono taj-e-shahadat abhi yahan
   Apne lahoo mein dono nahayenge tar ba tar
 
   5
-  Dam kar de padh ke naade ali ruqsati ke waqt
+  Dam kar de parh ke Nad-e-Ali ruqsati ke waqt
   Jaane lage qaza ke liye zindagi ke waqt
   Waada kiya jo maa se to aaya ye honton par
 
   6
   Kausar ke jaam nana pilayenge khuld mein
   Seene se hum ko dada lagayenge khuld mein
-  Lenge hum unse daade shuja'at bhi arsh par
+  Lenge hum unse dad-e-shujaat bhi arsh par
 
   7
   Amma dua karo ke pisar kaamiyab ho
-  Karbobala mein noore nazar kaamiyab ho
+  Karbobala mein nur-e-nazar kaamiyab ho
   Jhukne na denge tera kabhi sharm se ye sar
 
   8
-  Dushman ke sar kaat ke lao to khush hoo mai
-  Karbobala mein taygh chalao to khush hoo mai
+  Dushman ke sar kaat ke lao to khush hun main
+  Karbobala mein tegh chalao to khush hun main
   Taaqeed maa ne ki thi to nikle ye bol kar
 
   9
-  Aamir o shams dekho ye tareekh ne likha
+  Aamir o Shams dekho ye tareekh ne likha
   Maa ki lehad pe jaake ye zainab ne phir kaha
   Apne jigar ke tukdon ko royi na umr bhar
 # source_id: nohayonline:c3a5484d76aa6e208ae9
@@ -67,8 +66,7 @@ romanLyrics: |-
 سر کو جھکاے کہتے ہیں زینب کے یہ پسر
 آپ کی قسم اماں آپ کی قسم
 شرمندہ ہونے دینگے نہ ہم تم کو عمر بھر
-اے عون و محمد اے عون و محمد
-اے عون و محمد اے عون و محمد
+اے عون و محمد
 
 ۱
 پہلے تمہارے لاڈلے مقتل کو جایینگے
@@ -113,4 +111,4 @@ romanLyrics: |-
 ۹
 عامر و شمس دیکھو یہ تاریخ نے لکھا
 ماں کی لحد پہ جا کے یہ زینب نے پھر کہا
-اپنے جگر کے ٹکڑوں کو روی نہ عمر بھر
+اپنے جگر کے ٹکڑوں کو روئی نہ عمر بھر

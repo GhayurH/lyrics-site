@@ -1,5 +1,5 @@
 ---
-title: "آپکی زہرا پہ یہ کیسے زمانے آے"
+title: "آپ کی زہرا پہ یہ کیسے زمانے آے"
 alternateTitle: "Aap Ki Zahra"
 language: "Urdu"
 lang: "ur"
@@ -10,53 +10,53 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aap ki zehra pe ye kaise zamane aaye
+  Aap ki Zehra pe ye kaise zamane aaye
   Dekhiye log mere ghar ko jalane aaye
 
   1
-  Jaane soye thay madine ke musalman kahan
-  Jalta dar dekh ke fizza yehi karti thi fughan
+  Jaane soye thay Madine ke Musalman kahan
+  Jalta dar dekh ke Fizza yehi karti thi fughan
   Aag darwaze ki koi to bujhane aaye
 
   2
-  Phasliyan toot gayi mujhpe gira darwaza
+  Pasliyan tut gayi mujh pe gira darwaza
   Aur chalta huwa darwaze pe zaalim guzra
   Zakhm pehlu pe mere kitne na jaane aaye
 
   3
-  Taaziyana mere baazu pe laga jab baba
-  Aa gayi yaad madine mein mujhe karbobala
-  Yaad abbas ke kat'te huye shaane aaye
+  Taziyana mere baazu pe laga jab baba
+  Aa gayi yaad Madine mein mujhe Karbobala
+  Yaad Abbas ke kat'te huye shaane aaye
 
   4
-  Jab se baandhi gayi hyder ke galay mein rassi
-  Dekh kar zainab o kulsoom ko kehte hai yehi
+  Jab se baandhi gayi Haider ke gale mein rassi
+  Dekh kar Zainab o Kulsoom ko kehte hai yehi
   Kaash tumko koi qaidi na banane aaye
 
   5
   Ghamzada mere gharane ko dilaasa dene
-  Koi mohsin ka mujhe aaya na pursa dene
+  Koi Mohsin ka mujhe aaya na pursa dene
   Log aaye bhi to bas dil to dukhane aaye
 
   6
-  Maine maula ko faqat yehi wasiyat ki hai
+  Maine Maula ko faqat yehi wasiyat ki hai
   Jin musalmano ne mujhko ye aziyat di hai
   Koi un mein se janaza na uthane aaye
 
   7
   Ashk is baat pe aankhon se bahe jaate hai
-  Dekh aayi hoo mai darbar kise kehte hai
-  Yaad zainab ki aseeri ke zamane aaye
+  Dekh aayi hun main darbar kise kehte hai
+  Yaad Zainab ki aseeri ke zamane aaye
 
   8
   Baap ki qabr pe akbar wo ye keh kar royi
   Meri ghurbat ke mera bhai nahi hai koi
-  Kaun hai saath jo zahra ka nibhane aaye
+  Kaun hai saath jo Zehra ka nibhane aaye
 # source_id: nohayonline:b286c95fbb3c6c3f06df
 # source_url: https://www.nohayonline.com/details_content.php?id=1013
 # raw_sha256: ff30a0977ad23da1469131c178566072e84d82f820240ee674d7e9b384934478
 ---
-آپکی زہرا پہ یہ کیسے زمانے آے
+آپ کی زہرا پہ یہ کیسے زمانے آے
 دیکھیےء لوگ میرے گھر کو جلانے آے
 
 ۱
