@@ -10,7 +10,6 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haye asghar haye sakina
   Zindan se reha ho kar bano
   Ab kya jayegi madina
@@ -18,13 +17,14 @@ romanLyrics: |-
   Bibi ke liye kitna mushkil
   Is haal mein hoga jeena
   Na asghar hai na sakina
+  
+  1
   Khaali jhoola shehzade ka
   Aur khoon mein tar ek baali
   Jab dekhegi ghar mein aakar
   Zindan se aane waali
   Tukde tukde ho jayega
   Be-khanjar uska seena
-  Na asghar hai na sakina
   
   2
   Ek ki turbat tareeki mein
@@ -33,7 +33,6 @@ romanLyrics: |-
   Aur mar gaya wo bhi pyasa
   Kisko baali pehnaye ab
   Aur kisko jhulaye jhoola
-  Na asghar hai na sakina
   
   3
   Jab khelte bacche dekhegi
@@ -42,7 +41,6 @@ romanLyrics: |-
   Chal jayega dil par khanjar
   Jab saath nahi dengi saansein
   Kaise wo rahegi zinda
-  Na asghar hai na sakina
   
   4
   Ab is se bada kya hoga sitam
@@ -51,7 +49,6 @@ romanLyrics: |-
   Uth'ta hai jo koi laasha
   Lekin bano ki mayyat par
   Ab kaun hai rone waala
-  Na asghar hai na sakina
   
   5
   Jo baat kahi thi bachon se
@@ -60,7 +57,6 @@ romanLyrics: |-
   Na khud saaye mein aayi
   Bas dhoop mein baithi shaam o sahar
   Kehti hi rahi ye hazeena
-  Na asghar hai na sakina
   
   6
   Lori ki sada nauha ban kar
@@ -69,7 +65,6 @@ romanLyrics: |-
   Ye kaisi hai tanhaai
   Ab maa ne agar sach bol diya
   To mar jaayegi sughra
-  Na asghar hai na sakina
   
   7
   Nauhe mein kahan tak mir hassan
@@ -78,13 +73,11 @@ romanLyrics: |-
   Aati hai sada matam se
   Ye keh kar ay pursadaron
   Zehra ko pursa dena
-  Na asghar hai na sakina
 # source_id: nohayonline:79339bfcd2eea1906583
 # source_url: https://www.nohayonline.com/details_content.php?id=2572
 # raw_sha256: 5fff3dd165218abb9cd1071fb316dc342c92c032230b89fea4c4e1f8ee79a805
 ---
 
-۱
 ہاے اصغر ہاے سکینہ
 زنداں سے رہا ہو کر بانو
 اب کیا جاے گی مدینہ
@@ -92,13 +85,14 @@ romanLyrics: |-
 بی بی کے لئے کتنا مشکل
 اس حال میں ہوگا جینا
 نہ اصغر ہے نہ سکینہ
+
+۱
 خالی جھولا شہزادے کا
 اور خون میں تر اک بالی
 جب دیکھے گی گھر میں آ کر
 زندان سے آنے والی
 ٹکڑے ٹکڑے ہو جاے گا
 بے خنجر اس کا سینہ
-نہ اصغر ہے نہ سکینہ
 
 ۲
 ایک کی تربت تاریکی میں
@@ -107,7 +101,6 @@ romanLyrics: |-
 اور مر گیا وہ بھی پیاسا
 کس کو بالی پہناے اب
 اور کس کو جھلاے جھولا
-نہ اصغر ہے نہ سکینہ
 
 ۳
 جب کھیلتے بچے دیکھے گی
@@ -116,7 +109,6 @@ romanLyrics: |-
 چل جائیگا دل پر خنجر
 جب ساتھ نہیں دینگی سانسیں
 کیسے وہ رہے گی زندہ
-نہ اصغر ہے نہ سکینہ
 
 ۴
 اب اس سے بڑا کیا ہوگا ستم
@@ -125,7 +117,6 @@ romanLyrics: |-
 اٹھتا ہے جو کوئی لاشہ
 لیکن بانو کی میت پر
 اب کون ہے رونے والا
-نہ اصغر ہے نہ سکینہ
 
 ۵
 جو بات کہی تھی بچوں سے
@@ -134,7 +125,6 @@ romanLyrics: |-
 نہ خود ساے میں آی
 بس دھوپ میں بیٹھی شام و سحر
 کہتی ہی رہی یہ حزینہ
-نہ اصغر ہے نہ سکینہ
 
 ۶
 لوری کی صدا نوحہ بن کر
@@ -143,7 +133,6 @@ romanLyrics: |-
 یہ کیسے ہے تنہائی
 اب ماں نے اگر سچ بول دیا
 تو مر حاے گی صغرا
-نہ اصغر ہے نہ سکینہ
 
 ۷
 نوحے میں کہاں تک میر حسن
@@ -152,4 +141,3 @@ romanLyrics: |-
 آتی ہے صدا ماتم سے
 یہ کہہ کر اے پرسہ داروں
 زہرا کو پرسہ دینا
-نہ اصغر ہے نہ سکینہ
