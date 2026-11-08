@@ -10,28 +10,28 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aabro-e-La Ilaha Sajda-e-Shabbir hay
-  tere dam se ya hussaina naara-e-takbeer hay
+  Aabru-e-La Ilaha sajda-e-Shabbir hai
+  Tere dam se Ya Husaina naara-e-takbir hai
   
   1
-  likh diya khoon se hussaina parchame islaam par
-  sar katana raahe haq mein deen ki tauqeer hai
+  Likh diya khun se Husaina parcham-e-Islam par
+  Sar katana rah-e-haq mein din ki tauqir hai
 
   2
-  laashaye akbar utha kar bole shahe karbala
-  khaakh-o-khoon mein sarware kounain ki tasveer hai
+  Laasha-e-Akbar utha kar bole Shah-e-Karbala
+  Khaak o khun mein Sarwar-e-Kaunain ki tasvir hai
 
   3
-  dekhiye ayoob aa kar sabr ki manzil zara
-  haaton pe shahe zaman ke laasha-e-baysheer hai
+  Dekhiye Ayyub aa kar sabr ki manzil zara
+  Haathon pe Shah-e-Zaman ke laasha-e-beshir hai
 
   4
-  kis tarha dafnaye zainab laash ko teri hussain
-  haaton mein rassi bandhi hai sar khule hamsheer hai
+  Kis tarha dafnaye Zainab laash ko teri Husain
+  Haathon mein rassi bandhi hai sar khule hamsheer hai
 
   5
-  is tarha irfan hota hai farize haq adaa
-  khoon mein doobi hui peshani-e-shabbir hai
+  Is tarha Irfan hota hai fariza-e-haq ada
+  Khun mein dubi hui peshani-e-Shabbir hai
 # source_id: nohayonline:0cfc493abdb10448e819
 # source_url: https://www.nohayonline.com/details_content.php?id=31
 # raw_sha256: 01311218c6f1324ec2411fd3485f0f19bfc6d12c5bb2cf8b1be86ad5a8786ef5

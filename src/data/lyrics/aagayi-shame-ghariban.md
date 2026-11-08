@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aagayi shaam e ghariban kahan jaaye zainab
-  Hua sunsaan bayaban kahan jaaye zainab
+  Aa gayi shaam-e-ghariban kahan jaye Zainab
+  Hua sunsan bayaban kahan jaye Zainab
 
   1
-  Sura e hamd ki tamheed jise thaame hai
-  Ye wo daaman hai ke tauheed jise thaame hai
+  Sura-e-Hamd ki tamhid jise thame hai
+  Ye wo daman hai ke tauhid jise thame hai
   Jal raha hai wohi daaman kahan jaaye zainab
   
   2
-  Aur hi rang tha jangal may jab aayi thi yahan
-  Phool hi phool thay aanchal may jab aayi thi yahan
+  Aur hi rang tha jangal mein jab aayi thi yahan
+  Phul hi phul the aanchal mein jab aayi thi yahan
   Haye ab khaak badawan kahan jaaye zainab
   
   3
   Sab se zainab ko jo pyara tha wo bhai na bacha
-  Reh gayi aun o mohamed ko bhi wo kar ke fida
+  Reh gayi Aun o Muhammad ko bhi wo kar ke fida
   Karne is dard ka darmaan kahan jaaye zainab
   
   4
   Maangti hai wo qaza par na qaza aati hai
   Gar sakina ko bachaye to rida jaati hai
-  Aise aalam may pareshan kahan jaaye zainab
+  Aise aalam mein pareshan kahan jaye Zainab
   
   5
   Khaak par girta hai koi koi ghash khaata hai
-  Koi bacha kahin sholon may ghira jaata hai
+  Koi bacha kahin sholon mein ghira jata hai
   Ek hai sab ki nigehbaan kahan jaaye zainab
   
   6
-  Haye ye shaam e ghariban kahan le aayi naved
+  Haye ye shaam-e-ghariban kahan le aayi Naved
   Shaah ka sar rota hai zainab ki hai tanhaai naved
   Kehne ko haye pareshan kahan jaaye zainab
 # source_id: nohayonline:73c569c4c9eef9d04f92

@@ -10,27 +10,29 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aagayi zainab khule sar shaam ke bazaar mein
-  Raah mein khayegi pathar jayegi darbar mein
+  Haye bazaar-e-Shaam
+
+  Aa gayi Zainab khule sar Shaam ke bazaar mein
+  Raah mein khayegi patthar jayegi darbar mein
 
   1
-  Tik ke baithe honge abid haye jis deewar se
+  Tik ke baithe honge Abid haye jis deewar se
   Bad gayi hogi daraarein haye us deewar mein
   
   2
-  Ay khuda e lam yazal ye teri aankhein to nahi
+  Ae Khuda-e-lam-yazal ye teri aankhein to nahiṅ
   Kiski aankhein ro rahi hai deeda e khoon baar mein
   
   3
   Waaris e kul ambiya ki is liye waaris hai tu
-  Jalwa e tauheed hai zainab tere asraar mein
+  Jalwa-e-tauhid hai Zainab tere asrar mein
   
   4
   Baade qatle shaahe waala ek zamane par khula
-  Himmat e zainab thi shaamil shaah ke inkaar mein
+  Himmat-e-Zainab thi shamil Shah ke inkar mein
   
   5
-  Sab thay raazi sar katane par bajuz sajjad ke
+  Sab the razi sar katane par bajuz Sajjad ke
   Jaane kya mushkil chupi thi tauq ke aazaar mein
   
   6
@@ -43,11 +45,13 @@ romanLyrics: |-
   
   8
   Baade qatle shaahe deen ye waqt ruk jaata naved
-  Haye abid gar na hote waqt ki raftaar mein
+  Haye Abid gar na hote waqt ki raftar mein
 # source_id: nohayonline:829f19d99739c4a597e6
 # source_url: https://www.nohayonline.com/details_content.php?id=3104
 # raw_sha256: 8497f12ec76dd283c2522b7bedda19c5c4ef04edcc2281d1fc69defb591897cf
 ---
+ہاے بازار شام
+
 
 آ‌ گیء زینب کھلے سر شام کے بازار میں
 راہ میں کھاے گی پتھر جاے گی دربار میں

@@ -10,18 +10,18 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa gaya bazare shaam aa gaya bazare shaam
-  Bibiyon mein hai koraam aa gaya bazare shaam
+  Aa gaya bazaar-e-Shaam aa gaya bazaar-e-Shaam
+  Bibiyon mein hai kohraam aa gaya bazaar-e-Shaam
 
   1
-  Sang ki barsaat hai kehkahe hai char soo
-  Be rida hai bibiyan sar se behta hai lahoo
-  Has rahe hai ahle shaam aa gaya bazare shaam
+  Sang ki barsaat hai qahqahe hain char su
+  Berida hain bibiyan sar se behta hai lahu
+  Hans rahe hain Ahl-e-Shaam aa gaya bazaar-e-Shaam
   
   2
   Ahle shar hai har taraf haath mein pathar liye
   Hai koi naiza liye hai koi nashtar liye
-  Har taraf hai ek kohraam aa gaya bazare shaam
+  Har taraf hai ek kohraam aa gaya bazaar-e-Shaam
   
   3
   Tauq hai nauha kuna ro rahi hai bediyan
@@ -31,7 +31,7 @@ romanLyrics: |-
   4
   Chin gayi teri rida bach gaya hai la-ilaah
   Ab tujhe darbar mein hai bachana karbala
-  Ab hai zainab tera kaam aa gaya bazare shaam
+  Ab hai Zainab tera kaam aa gaya bazaar-e-Shaam
   
   5
   Aasman haye zameen par toot kar girne ko hai
@@ -46,17 +46,17 @@ romanLyrics: |-
   7
   Ro diye ahle haram tauq ke aazaar par
   Shaam ke bazar mein haye ek bemaar par
-  Ho gayi mushkil tamam aa gaya bazare shaam
+  Ho gayi mushkil tamam aa gaya bazaar-e-Shaam
   
   8
   Rassiyan hai baazuon mein aur naaqe tez tar
   Godh se maa'on ke bache gir rahe hai khaak par
-  Hashr hai har ek gaam aa gaya bazare shaam
+  Hashr hai har ek gaam aa gaya bazaar-e-Shaam
   
   9
   Khoon e dil mein doob kar tune jo likha naved
   Jab talak hai karbala hai tera nauha naved
-  Karbala to hai dawaam aa gaya bazare shaam
+  Karbala to hai dawam aa gaya bazaar-e-Shaam
 # source_id: nohayonline:5b0dc903d3f92b9c1861
 # source_url: https://www.nohayonline.com/details_content.php?id=1671
 # raw_sha256: 55c8ca3e1f3afbb75d37c8274bba1bada1be3fc2e295b363b3946e72cec2c928

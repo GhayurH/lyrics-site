@@ -10,31 +10,31 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Damishk ka hai safar be-rida hai aale nabi
+  Damishq ka hai safar berida hai Aal-e-Nabi
   Na mehmil na kajawa hai na haudaj hai koi
-  Aseer sab thay magar ek hi rasan may bandhe
-  Gala sakina ka hai shaane haram ke jakde huve
+  Asir sab the magar ek hi rasan mein bandhe
+  Gala Sakina ka hai shan-e-haram ke jakre hue
   
-  Rasan jo khichti hai karti hai sakina naale
+  Rasan jo khinchti hai karti hai Sakina nale
   Tehro aahista chalo
-  Aahista chalo ay phupi amma
+  Aahista chalo ae phuphi amma
   Rassi se gala dukhta hai mera
   
   1
-  Hai amma gala is tarha jakda hai rasan may
-  Do gaam bhi chalne ki nahi jaan badan may
+  Hai amma gala is tarha jakra hai rasan mein
+  Do gaam bhi chalne ki nahiṅ jaan badan mein
   Khulwado rasan kardo ye ehsaan
 
   
   2
   Kis shaan se nikli thi sawari mere ghar se
-  Ammu mujhe khud laaye thay mehmil may bitha ke
+  Ammu mujhe khud laye the mehmil mein bitha ke
   Ek ye hai safar haye phupi jaan
   
   3
   Ye dekh ke rote hai mere baba sina par
   Rone pe mujhe durre lagata hai sitamgar
-  Rote hai isi ran may chacha jaan
+  Rote hain isi ran mein chacha jaan
 
   4
   Kya din hai mere naaz uthata nahi koi
@@ -42,23 +42,23 @@ romanLyrics: |-
   Chehre se aziyat hai numayan
   
   5
-  Mai aapke zakhmo se bhi waaqif hoo phupi jaan
+  Main aap ke zakhmon se bhi waqif huṅ phuphi jaan
   Kuch waade nibhane hai mujhe bar sare zindan
-  Bas kehti hoo mai ba haale pareshan
+  Bas kehti huṅ main ba haal-e-pareshan
   
   6
-  Mar jayegi mar jayegi is raah may muztar
-  Dada ko sada deti hoo har gaam tadapkar
+  Mar jayegi mar jayegi is raah mein muztar
+  Dada ko sada deti huṅ har gaam tarap kar
   Ya shaahe najaf sayyed e zeeshan
   
   7
-  Ay amma kaleje may ulajhne lagi saansein
-  Ab aur safar karne ki taaqat nahi mujh may
+  Ae amma kaleje mein ulajhne lagi saansein
+  Ab aur safar karne ki taqat nahiṅ mujh mein
   Ja paungi kya jaanibe zindan
 
   8
-  Ay mazhar o irfan sakina ki fughan par
-  Zainab ne kaha mai bhi tadap jaati hoo dukhtar
+  Ae Mazhar o Irfan Sakina ki fughaṅ par
+  Zainab ne kaha main bhi tarap jati huṅ dukhtar
   Jab kehti hai tu mujhse meri jaan
 # source_id: nohayonline:5b0ec3e32a534ff02107
 # source_url: https://www.nohayonline.com/details_content.php?id=877

@@ -10,28 +10,28 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa gaya bazaar ali akbaram
-  Ghash mein hai bemaar ali akbaram
+  Aa gaya bazaar Ali Akbaram
+  Ghash mein hai bimar Ali Akbaram
 
   1
-  Ashk bahaale ye maa sadqa nikale ye maa
-  Tum ko sajale ye maa dulha banale ye maa
-  Aao jo ek baar ali akbaram
+  Ashk baha le ye maaṅ sadqa nikale ye maaṅ
+  Tumko saja le ye maaṅ dulha bana le ye maaṅ
+  Aao jo ek baar Ali Akbaram
   
   2
   Hichkiyan le le ke maa sunti hai jab bhi azan
-  Tan se nikal ti hai jaan lagti hai dil par sina
+  Tan se nikalti hai jaan lagti hai dil par sina
   Chalti hai talwaar ali akbaram
   
   3
   Aa gayi shaam e bala hoti hai maa berida
-  Bhool gaye maa ko kya sunte nahi kyun sada
+  Bhul gaye maaṅ ko kya sunte nahiṅ kiun sada
   Maa ke madad gaar ali akbaram
   
   4
   Gham se chudao usay shakl dikhao usay
   Le ke to aao usay bhool na jao usay
-  Sugra hai bemaar ali akbaram
+  Sughra hai bimar Ali Akbaram
   
   5
   Wo jo hai maa ki misaal zainab e bargishta haal
@@ -39,9 +39,9 @@ romanLyrics: |-
   Zainab e nachaar ali akbaram
   
   6
-  Ay mere kadiyal jawan maa ke bandhi reesma
+  Ae mere kariyal jawan maaṅ ke bandhi rismaṅ
   Chalne ko hai kaarwan tum ho na jaane kahan
-  Mil to lo ek baar ali akbaram
+  Mil to lo ek baar Ali Akbaram
   
   7
   Tum nahi hona malool maa ko sitam sab qubool
@@ -54,9 +54,9 @@ romanLyrics: |-
   Majma e aghyaar ali akbaram
   
   9
-  Hai ye sada e naved ghar pe jo aaye naved
+  Hai ye sada-e-Naved ghar pe jo aaye Naved
   Sadqa jo paaye naved leke wo jaaye naved
-  Ay mere sarkar ali akbaram
+  Ae mere sarkar Ali Akbaram
 # source_id: nohayonline:940b116949d176bc899d
 # source_url: https://www.nohayonline.com/details_content.php?id=3058
 # raw_sha256: b3d09d521068df59e5e209b4dc9cdecbe9ae86887c9e2f4ca308ea991a3cdb39

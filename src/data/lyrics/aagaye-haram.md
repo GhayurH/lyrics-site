@@ -9,36 +9,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aagaye haram hoga arbaeen
+  Aa gaye haram hoga Arbaeen
   
   1
-  Gham ke paasban dard ke ameen
-  Aaye qaid se abide hazeen
-  Farshe khaak par hai falak nasheen
+  Gham ke pasban dard ke amin
+  Aaye qaid se Abid-e-hazin
+  Farsh-e-khaak par hai falak nashin
   
   2
-  Tauq bediyan aur reesma
+  Tauq beriyan aur rismaṅ
   Sar pe gir pada jaise aasman
   Ghamzada falak roti hai zameen
   
   3
   Dekhiye mera zakhmi hai gala
-  Nange paon mai kaaton par chala
+  Nange paun main kanton par chala
   Aisi bebasi hogi kya kahin
   
   4
   Zindagi se ye maut hai bhali
-  Ay mere chacha sheh ki zindagi
+  Ae mere chacha Sheh ki zindagi
   Shaam mein hai ab teri naazneen
   
   5
   Dukhte hai mere sab ye us suqan
-  Kis se mai karoon haale dil bayan
+  Kis se main karun haal-e-dil bayan
   Keh rahe hai ye abide hazeen
   
   6
-  Akbare jawan mere bhai jaan
-  Saath tum nahi khaak hai jahan
+  Akbar-e-jawan mere bhai jaan
+  Saath tum nahiṅ khaak hai jahan
   Yaad karti hai zainabe hazeen
   
   7
@@ -60,7 +60,7 @@ romanLyrics: |-
 # raw_sha256: 8034f90ef6ff7c14501a49b78c841b7f02c58d8047c78685285b40bccdc38d7d
 ---
 
-آگےء حرم ہوگا اربعین
+آ گئے حرم ہوگا اربعین
 
 ۱
 غم کے پاسبان درد کے امین

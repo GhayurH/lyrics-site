@@ -10,11 +10,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gham ki chaayi hai ghata aansu bahalo momino
-  Aagaya maahe aza aansu bahalo momino
+  Gham ki chhayi hai ghata aansu baha lo momino
+  Aa gaya mah-e-aza aansu baha lo momino
 
   1
-  Haye darya ki tarayi par jari abbas ka
+  Haye darya ki tarai par jari Abbas ka
   Zulm se baazu kata aansu bahalo momino
   
   2
@@ -22,23 +22,23 @@ romanLyrics: |-
   Aur bicha farshe aza aansu bahalo momino
   
   3
-  Akbar o aun o mohamed qasim e naushah ko
+  Akbar o Aun o Muhammad Qasim-e-naushah ko
   Yaad karke tum zara aansu bahalo momino
   
   4
-  Shaah ke haaton pe teere hurmala ki nok se
+  Shah ke haathon pe tir-e-Hurmala ki nok se
   Halqe asghar bhi chida aansu bahalo momino
   
   5
-  Baade ashoora sabhi saydaniyo ke haye haye
+  Baad-e-Ashura sabhi sayyadaniyon ke haye haye
   Chin gayi sar se rida aansu bahalo momino
   
   6
-  Apne aansu marhame zakhme shahe mazloom hai
+  Apne aansu marham-e-zakhm-e-Shah-e-mazlum hain
   Kuch nahi iske siwa aansu bahalo momino
   
   7
-  Jab bhi aajaye moharram zindagi may ay bober
+  Jab bhi aa jaye Muharram zindagi mein ae Bober
   Kehte rehna tum sada aansu bahalo momino
 # source_id: nohayonline:f6b1641de15ddb4a69d9
 # source_url: https://www.nohayonline.com/details_content.php?id=827
@@ -48,7 +48,7 @@ romanLyrics: |-
 غم کی چھای ہے گھٹا آنسوں بہالو مومنوں
 آگیا ماہ عزا آنسوں بہالو مومنوں
 
-1
+۱
 ہاے دریا کی ترای پر جری عباس کا
 ظلم سے بازو کٹا آنسوں بہالو مومنوں
 

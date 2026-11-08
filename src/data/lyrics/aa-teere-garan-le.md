@@ -9,32 +9,32 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa teer e garan le gardan par
-  Ab poora kar ashoor asghar
+  Aa tir-e-giran le gardan par
+  Ab pura kar Ashur Asghar
   Manzoor hai wo hum dono ko
-  Allah ko jo manzoor asghar
+  Allah ko jo manzur Asghar
 
   1
   Ab baat na karna godhi ki
   Ab baat na karna lori ki
   Hona hai hamesha hi ke liye
-  Tujhe apni maa se door asghar
+  Tujhe apni maaṅ se dur Asghar
   
   2
   Ek baar shahadat sab ke liye
   Do baar shahadat tere liye
-  Ek teer e garan aur ek naiza
-  Is gaam pe hai mamoor asghar
+  Ek tir-e-giran aur ek naiza
+  Is gaam pe hai mamur Asghar
   
   3
-  Hum pyaas liye hai zabano par
-  Wo qabza kiye hai daya par
+  Hum pyas liye hain zabanon par
+  Wo qabza kiye hain darya par
   Mansoor ye hum mazloomon ka
   Wo zaalim ka mansoor asghar
   
   4
-  Ye shaami kufi pathar dil
-  Kuch dayr mein ye sab royenge
+  Ye Shami Kufi patthar dil
+  Kuch der mein ye sab royenge
   Mumkin jo na tha ho jayega
   Hasne se tere wo zaroor asghar
   
@@ -54,7 +54,7 @@ romanLyrics: |-
   Abid tere gham ka kaatib hai
   Abid tere dar ka sajid hai
   Hai jo bhi likha hai jo bhi padha
-  Sab tu ne diya hai shaoor asghar
+  Sab tu ne diya hai shaur Asghar
 # source_id: nohayonline:b6296d9b5516ac1bdaf4
 # source_url: https://www.nohayonline.com/details_content.php?id=3097
 # raw_sha256: e069c314497edcc64269f196d91011bcab2fa7d5d2e96e52fb915634b78e2eaf
@@ -84,7 +84,7 @@ romanLyrics: |-
 وہ ظالم کا منصور اصغر
 
 ۴
-یہ شامل کوفی پتھر دل
+یہ شامی کوفی پتھر دل
 کچھ دیر میں یہ سب روییں گے
 ممکن جو نہ تھا ہو جائے گا
 ہنسنے سے تیرے وہ ضرور اصغر

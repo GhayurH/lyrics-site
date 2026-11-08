@@ -1,6 +1,6 @@
 ---
 title: "آغاز ہو رہا ہے کربل کی کہانی کا"
-alternateTitle: "Aaghaz Ho Raha Hai Karbal ki kahani ka"
+alternateTitle: "Aaghaz Ho Raha Hai Karbal Ki Kahani Ka"
 language: Urdu
 lang: ur
 direction: rtl
@@ -10,19 +10,19 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aghaaz ho raha hai Karbal ki kahani ka
-  Logo yeh janaza hai islam ke bani ka
+  Aaghaz ho raha hai Karbal ki kahani ka
+  Logo ye janaza hai Islam ke bani ka
 
   1
-  Bibi ne kaha baba Karbal me chale aana
-  Manzar mai dikhaaongi Akbar ki jawani ka
+  Bibi ne kaha baba Karbal mein chale aana
+  Manzar main dikhaungi Akbar ki jawani ka
 
   2
-  Kat jaaenge bazoo bhi Abbas-e-baawafa ke
+  Kat jayenge baazu bhi Abbas-e-bawafa ke
   Teeron se hoga chalni mashkiza wo pani ka
 
   3
-  Bikhrega Karbala me Kasim ke sar ka sehra
+  Bikhrega Karbala mein Qasim ke sar ka sehra
   Khushiya samet lega alam woh viraani ka
 
   4
@@ -30,7 +30,7 @@ romanLyrics: |-
   Taaboot uth raha hai Imraan ke jaani ka
 
   5
-  Ta hashr mere maula mushtaq rahun tera
+  Ta hashr mere maula Mushtaq rahun tera
   Mil jaae sharaf mujko bas teri gulami ka
 # source_id: nohayonline:bebf4c09ff8d3e94b4f0
 # source_url: https://www.nohayonline.com/details_content.php?id=2216

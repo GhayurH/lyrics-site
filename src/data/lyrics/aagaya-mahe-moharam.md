@@ -10,8 +10,12 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa gaya maahe moharam bich gaya farshe aza
-  Arsh se aansu bahane aa gayi hai fatema
+  Chaand Muharram ka nazar aa gaya
+  Chha gayi gham ki fiza
+  Husain Ya Husain Ya Husain Ya Husain
+
+  Aa gaya mah-e-Muharram bich gaya farsh-e-aza
+  Arsh se aansu bahane aa gayi hai Fatema
 
   1
   Zeb e tan ehe aza ne kar liye kaale libaas
@@ -24,17 +28,17 @@ romanLyrics: |-
   Alqama aankhon se jaari lab pe haye karbala
   
   3
-  Dekh kar maahe aza ko maa ne bachon se kaha
-  Aao mai tum ko bataun kya hai tehzeeb e aza
+  Dekh kar mah-e-aza ko maaṅ ne bachon se kaha
+  Aao main tumko bataun kya hai tahzib-e-aza
   Ba wazoo ho kar hi padna soz nauha marsiya
   
   4
-  Ye azadari chali hai sayyade sajjad se
-  Zakiri ki ibteda hai zainab e nashaad se
+  Ye azadari chali hai Sayyad-e-Sajjad se
+  Zakiri ki ibteda hai Zainab-e-nashad se
   Pairawi sajjad ki hai bediyan shaale aza
   
   5
-  Ban ke saqqa e sakina tifl aur peer o jawan
+  Ban ke saqqa-e-Sakina tifl aur pir o jawan
   Sayyadon ke ghar pe jaake pursa dete hai wahan
   Ye wohi din hai ke jis mein aap ka ghar lut gaya
   
@@ -44,8 +48,8 @@ romanLyrics: |-
   Apne hi khoon mein naha ke kehte hai khooni qaba
   
   7
-  Aaj har dil mein basa hai tera hi gham ya hussain
-  Ghair e muslim bhi manaate hai moharam ya hussain
+  Aaj har dil mein basa hai tera hi gham Ya Husain
+  Ghair Muslim bhi manate hain Muharram Ya Husain
   Ek tere gham ne hi maula sab ko yakjaa kar diya
   
   8
@@ -57,6 +61,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2343
 # raw_sha256: ea91bcbcbb36501cb0d6e0703bf2ada35450fd4bd6b7b190a8d812b74d8ed404
 ---
+چاند محرم کا نظر آ گیا
+چھا گئی غم کی فضا
+حسین یا حسین یا حسین یا حسین
+
 
 آ گیا ماہ محرم بچھ گیا فرش عزا
 عرش سے آنسوں بہانے آ گیء ہے فاطمہ

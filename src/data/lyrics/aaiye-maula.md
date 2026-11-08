@@ -10,6 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
+  Ya Maulana Ya Sahib az-Zaman
+  Al Ghaus Al Ghaus Al Ghaus Adrikni
+  Ya Sahib az-Zaman
+
   Waasta hai shaam waali shaahzadi ka
   Aaiye maula aaiye maula
   
@@ -17,35 +21,35 @@ romanLyrics: |-
   Aaiye maula
   
   1
-  Sunnate sajjad aur zainab ada karte huwe
-  Jayenge paidal najaf se karbala chalte huwe
-  Bas yehi armaan e dil hai har hussaini ka
+  Sunnat-e-Sajjad aur Zainab ada karte hue
+  Jayenge paidal Najaf se Karbala chalte hue
+  Bas yehi arman-e-dil hai har Husaini ka
   
   2
   Sar khule jisko phiraya shaam ke bazar mein
   Haye wo jisko bulaya berida darbar mein
-  Haan usi zainab ka aakar lijiye pursa
+  Haan usi Zainab ka aa kar lijiye pursa
   
   3
   Intezar ab bhi wo karti hai ke akbar aayenge
   Aur mujhe bhi saath apne karbala le jayenge
-  Khatm ho ab intezar e fatema sughra
+  Khatm ho ab intezar-e-Fatema Sughra
   
   4
-  Aap ko us cheh mahine ke sipahi ki qasam
+  Aap ko us chhe mahine ke sipahi ki qasam
   Muskara kar jisne khaya halq par teer e sitam
-  Chaahiye phir deen ko baysheer ka sadqa
+  Chahiye phir din ko beshir ka sadqa
   
   5
-  Aa bhi ja parda e ghaibat se zamane ke imam
+  Aa bhi ja parda-e-ghaibat se zamane ke Imam
   Tujhse mimbar pe tere jadd ki kahani sunlein
   Hum azadaron ki bas aakhri hasrat hai yehi
   Nauha zahra ka bas ek teri zabani sun lein
 
   6
-  Ghar jalaya dar giraya phasliyan zakhmi hui
+  Ghar jalaya dar giraya pasliyan zakhmi hui
   Hogaye mohsin shaheed aur ghamzada bibi hui
-  Dushman e zahra se aa kar lijiye badla
+  Dushman-e-Zehra se aa kar lijiye badla
   
   7
   Aap ko us chaar saala sayyeda ka waasta
@@ -60,6 +64,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3196
 # raw_sha256: a0a24d1b0f5b95b50085abe758240fb2fde9a1df4b218bbc7920bc92dae4d507
 ---
+یا مولانا یا صاحب الزمان
+الغوث الغوث الغوث ادرکنی
+یا صاحب الزمان
+
 
 واسطہ ہے شام والی شاہزادی کا
 آیےء مولا آیےء مولا

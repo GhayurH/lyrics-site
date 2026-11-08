@@ -11,19 +11,19 @@ aliases: []
 published: false
 romanLyrics: |-
   Sadaat watan aa gaye
-  Bibi fizza ka hai marsiya
-  Jeet ke jang e karbobala
+  Bibi Fizza ka hai marsiya
+  Jit ke jang-e-Karbobala
   Lut ke pardes mein
   Laut kar des mein
-  Aagaya aagaya qafla aagaya
+  Aa gaya aa gaya qafla aa gaya
 
   1
-  Ay jawanane hashim kahan ho suno
-  Koi jaa kar ye sughra ko paigam do
-  Aake ujda hua qafla dekh lo
+  Ae jawanan-e-Hashim kahan ho suno
+  Koi ja kar ye Sughra ko paigham do
+  Aa ke ujra hua qafla dekh lo
   
   2
-  Ye hussaini shaheedon ka hai qafla
+  Ye Husaini shahidon ka hai qafla
   Bakason aur aseeron ka hai qafla
   Karbala ke yateemon ka hai qafla
   
@@ -33,12 +33,12 @@ romanLyrics: |-
   Ye sada sun ke dil hogaya karbala
   
   4
-  Bibi fizza ne sughra se phir ye kaha
-  Aa sunaun tujhe mai wo sab maajra
-  Kaise aale mohamed ko loota gaya
+  Bibi Fizza ne Sughra se phir ye kaha
+  Aa sunaun tujhe main wo sab majra
+  Kaise Aal-e-Muhammad ko luta gaya
   
   5
-  Do moharram ko pahunche thay hum karbala
+  Do Muharram ko pahunche the hum Karbala
   Saatween se huwe tashnalab be khata
   Qatl sabhe dahum ho gaye aqraba
   
@@ -76,7 +76,7 @@ romanLyrics: |-
 ۱
 اے جوانان ہاشم کہاں ہو سنو
 کوی جا کر یہ صغرا کو پیغام دو
-آ کے اجزا ہوا قافلہ دیکھ لو
+آ کے اجڑا ہوا قافلہ دیکھ لو
 
 ۲
 یہ حسینی شہیدوں کا ہے قافلہ

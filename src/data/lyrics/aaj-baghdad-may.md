@@ -10,17 +10,17 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj baghdad may koi qaidi
-  Hogaya hai reha raza maula
+  Aaj Baghdad mein koi qaidi
+  Ho gaya hai riha Raza Maula
 
-  Pul pe tere ghareeb baba ka
-  Hai jazana rakha raza maula
+  Pul pe tere gharib baba ka
+  Hai janaza rakha Raza Maula
   
   1
   Ek bibi sarhane baithi hai
   Kisne jaane usay khabar ki hai
   Haath pehlu pe apne rakhe huwe
-  Aayi hai fatema raza maula
+  Aayi hai Fatema Raza Maula
   
   2
   Raat se pul pe laasha rakha hai
@@ -31,14 +31,14 @@ romanLyrics: |-
   3
   Haal ache nahi hai mayyat ke
   Aaja ejaaz se imamat ke
-  Shehr e baghdad se madine ka
+  Shehr-e-Baghdad se Madine ka
   Hai bahot faasla raza maula
   
   4
   Ek manadi nida ye deta hai
   Raafziyon ka maula maara gaya
-  Aaj aulaad par mohamed ki
-  Waqt kya aagaya raza maula
+  Aaj aulaad par Muhammad ki
+  Waqt kya aa gaya Raza Maula
   
   5
   Kabhi dadi ko yaad karta tha
@@ -47,7 +47,7 @@ romanLyrics: |-
   Fatema fatema raza maula
   
   6
-  Qaid khane se pul talak isko
+  Qaidkhane se pul talak isko
   Chand mazdoor leke aaye hai
   Aediyon ke nishan ghurbat ka
   De rahe hai pata raza maula
@@ -55,7 +55,7 @@ romanLyrics: |-
   7
   Tauq gardan ka paon ki bedi
   Ye takallum sadayein dete hai
-  Inna lilaah padh ke baba ka
+  Inna lillah parh ke baba ka
   Ab janaza utha raza maula
 # source_id: nohayonline:af50b6e0733f0ebe1f2f
 # source_url: https://www.nohayonline.com/details_content.php?id=1062

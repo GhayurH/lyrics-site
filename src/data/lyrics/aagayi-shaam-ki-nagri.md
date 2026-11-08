@@ -10,20 +10,20 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aagayi shaam ki nagri may khule sar zainab
-  Maangti reh gayi ek ek se chadar zainab
+  Aa gayi Shaam ki nagri mein khule sar Zainab
+  Maangti reh gayi ek ek se chadar Zainab
 
   1
   Is liye zaalimon ne aur bhi pathar maare
-  Jaante thay ke hai abbas ki khaahar zainab
+  Jaante the ke hai Abbas ki khwahar Zainab
   
   2
-  Karwatein lene lagi laashe hussain ibne ali
-  Bhai ki laash pe aayi jo khule sar zainab
+  Karwatein lene lagi laash-e-Husain ibn-e-Ali
+  Bhai ki laash pe aayi jo khule sar Zainab
   
   3
-  Band ho jaati thi khud naize pe chashme abbas
-  Jab nazar aati thi naaqe pe khule sar zainab
+  Band ho jati thi khud naize pe chashm-e-Abbas
+  Jab nazar aati thi naaqe pe khule sar Zainab
   
   4
   Yaad aa jaati thi us waqt usay nana ki
@@ -35,14 +35,14 @@ romanLyrics: |-
   
   6
   Thi sar e shaam e ghariban wo misaale zehra
-  Ban gayi shaam ke darbar may hyder zainab
+  Ban gayi Shaam ke darbar mein Haider Zainab
   
   7
   Haal ye tha ke na pehchana usay shauhar ne
-  Shaam ki qaid se aayi jo palat kar zainab
+  Shaam ki qaid se aayi jo palat kar Zainab
   
   8
-  Ro diya kufe ke darbar may majid mukhtar
+  Ro diya Kufe ke darbar mein Majid Mukhtar
   Sar e darbar sitamgar thi khule sar zainab
 # source_id: nohayonline:1e4bc9ce97cdfbd05a0c
 # source_url: https://www.nohayonline.com/details_content.php?id=1413
