@@ -11,20 +11,20 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye bekasi bhai aur behan ki
-
-  1
   Shaam haye shaam
   Berida dekh kar ro raha hai
   Nok e naiza pe bhai mera
   Boli zainab mera aasra hai
   Nok e naiza pe bhai mera
+  
+  1
   Sura e kehf ki hai hai tilawat
   Mere bhai ke sookhe labon par
   Bas kalaam e khuda ki hai qiraat
   Mere bhai ke sookhe labon par
   Kibriya ki sana kar raha hai
   Nok e naiza pe bhai mera
-
+  
   2
   Ummat e jad ko khud bakhshwane
   Aaya tha karbala mera bhai
@@ -32,7 +32,7 @@ romanLyrics: |-
   Aaya tha karbala mera bhai
   Ahde tifli ada kar raha hai
   Nok e naiza pe bhai mera
-
+  
   3
   Maangti hoon rida jab kisi se
   Thartarata hai naize pe bhai
@@ -40,7 +40,7 @@ romanLyrics: |-
   Maut mujhko magar kyun na aayi
   Par dilaase mujhe de raha hai
   Nok e naiza pe bhai mera
-
+  
   4
   Chin rahe hai sakina ke gauhar
   Khaa rahi hai tamache wo paiham
@@ -48,7 +48,7 @@ romanLyrics: |-
   Kar rahi hai wo ro ro ke matam
   Bebasi se usay dekhta hai
   Nok e naiza pe bhai mera
-
+  
   5
   Thi jo bhai ke aankhon ki thandak
   Haye wo binte shaahe madina
@@ -56,7 +56,7 @@ romanLyrics: |-
   Gir gayi raaste mein sakina
   Khud ba khud raah mein ruk gaya hai
   Nok e naiza pe bhai mera
-
+  
   6
   Hum ne is tarha se zindagi mein
   Aise raste to dekhe nahi thay
@@ -64,7 +64,7 @@ romanLyrics: |-
   Kabhi be-parda guzre nahi thay
   Bas yehi soch kr ro raha hai
   Nok e naiza pe bhai mera
-
+  
   7
   Wo jo bibi pe raste mein guzre
   Phat rahe hai jigar us alam se
@@ -77,13 +77,13 @@ romanLyrics: |-
 # raw_sha256: 1785c432ce2ee18b3d33a9718b3a25987866953e29f93ee1286a76ad382aa325
 ---
 ہاے بیکسی بھای اور بہن کی
-
-۱
 شام ہاے شام
 بے ردا دیکھ کر رو رہا ہے
 نوکِ نیزہ پہ بھای میرا
 بولی زینب میرا آسرا ہے
 نوکِ نیزہ پہ بھای میرا
+
+۱
 سورہء کہف کی ہے تلاوت
 میرے بھائی کے سوکھے لبوں پر
 بس کلام خدا کی ہے قرات
