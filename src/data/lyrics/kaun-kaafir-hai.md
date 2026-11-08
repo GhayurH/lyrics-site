@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaun kaafir hai kaun momin hai
-  
-  1
   Waqt aane pe faisla hoga
   Baat khul jayegi qayamat mein
   Jab adalat ka saamna hoga
+
+  1
   Zul asheera say hajj-e-aakhir tak
   Kis ko waaris kiya muhammad ne
   Kis ne tareekh ko badal daala
@@ -86,11 +86,11 @@ romanLyrics: |-
 ---
 
 کون کافر ہے کون مومن ہے
-
-۱
 وقت آنے پہ فیصلہ ہو گا
 بات کھل جائے گی قیامت میں
 جب عدالت کا سامنا ہو گا
+
+۱
 ظل عاشیرہ سے حج آخر تک
 کس کو وارث کیا محمد نے
 کس نے تحریک کو بدل ڈالا
