@@ -15,37 +15,43 @@ romanLyrics: |-
   Maa pe girta ha dar dekh ke bachon ne kaha
   Nanhe haathon se ye darwaza uthaye kaise
   In bhadakte huwe sholon ko bujhaye kaise
+  
+  1
   Dekho ay nana hai baba ke galay mein rassi
   Sehn mein be-adabana chale aate hai shaqi
-
-  1
   Zulm se un ke hum amma ko bachaye kaise
+  
+  2
   Aap uth jaate thay amma ke adab mein nana
   Un ko masnad pe bithaate to bichate thay aba
   In musalmano ko sab yaad dilaye kaise
-
-  2
+  
+  3
   Chaaron bachon ne wo darwaza uthana chaaha
   Haath jalte rahe us par bhi yehi dhyaan raha
   Zakhmi maadar ko aziyat se chudaye kaise
+  
+  4
   Durra baazu pe laga hai to lahoo behta hai
   Haath pehlu pe hai rukhsaar bhi to neela hai
-
-  3
   Khaak ke farsh se bistar pe litaye kaise
+  
+  5
   Phir kisi ghar ko ye manzar na jahan dikhlaye
   Bachon ke saamne maadar pe musibat aaye
   Bache kehte thay ke nana ko bulaye kaise
-
-  4
+  
+  6
   Roti hai zainab o kulsoom hai ek hashr bapa
   Baap rassi mein bandha maa pe hai darwaza gira
   Rasan e zulm se baba ko chudaye kaise
+  
+  7
   Jab ke darwaza gira aayi ye zehra ki sada
   Hogaya hai mera mohsin bhi shaheed ay fizza
-
-  5
   Bole hasnain ke bhai ko bachaye kaise
+  
+  8
   Kam hai ye nauha jo khaama ne abhi likha hai
   Haa magar zehra ke atfaal pe jo guzra hai
   Karb wo majid o mukhtar sunaye kaise
@@ -58,37 +64,43 @@ romanLyrics: |-
 ماں پہ گرتا ہوا در دیکھ کے بچّوں نے کہا
 ننّھے ہاتھوں سے یہ دروازہ اٹھائیں کیسے
 اِن بھڑکتے ہوئے شعلوں کو بجھائیں کیسے
-دیکھو اے نانا ھے بابا کے گلے میں رسّی
-صحن میں بے ادبانہ چلے آتے ہیں شقی
 
 ۱
+دیکھو اے نانا ھے بابا کے گلے میں رسّی
+صحن میں بے ادبانہ چلے آتے ہیں شقی
 ظُلم سے اُن کے ہم امّاں کی بچائیں کیسے
+
+۲
 آپ آٹھ جاتے تھے امّاں کے ادب میں نا نا
 اُن کو مسند پہ بٹھاتے تو بچھاتے تھے عبا
 اِن مسلمانوں کو سب یاد دلائیں کیسے
 
-۲
+۳
 چاروں بچّوں نے وہ دروازہ اٹھانا چاہا
 ہاتھ جلتے رھے اُس پر بھی یہی دھیان رہا
 زخمی مادر کو اذیّت سے چھڑائیں کیسے
+
+۴
 درہ بازو پہ لگا ہے تو لہُو بہتا ہے
 ہاتھ پہلو پہ ہے رُخسار بھی تو نیلا ہے
-
-۳
 خاک کے فرش سے بستر پہ لٹائیں کیسے
+
+۵
 پھر کسی گھر کو یہ منظر نہ جہاں دکھلائے
 بچّوں کے سامنے مادر پہ مصیبت آئے
 بچّے کہتے تھے کہ نا نا کو بلائیں کیسے
 
-۴
+۶
 روتی ہیں زینب و کلثوم ہے اِک حشر بپا
 باپ رسّی میں بندھا ماں پہ ہے دروازہ گرا
 رسن ظُلم سے بابا کو چھڑائیں کیسے
+
+۷
 جبکہ دروازہ گرا آئی یہ زہرا کی صدا
 ھو گیا ھے میرا محسن بھی شہید اے فضّہ
-
-۵
 بولے حسنین کہ بھای کو بچائیں کیسے
+
+۸
 کم ہے یہ نوحہ جو خامہ نے ابھی لکّھا ہے
 ہاں مگر زہرا کے اطفال پہ جو گذرا ہے
 کرب وہ ماجد و مختار سنائیں کیسے
