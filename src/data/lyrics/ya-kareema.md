@@ -12,52 +12,54 @@ published: false
 romanLyrics: |-
   Ya hamsheer e raza
   Assalamo alaika ya kareema
+
+  1
   Tera bhai imame zaamin hai
   Tera baba dar e hawaij hai
 
-  1
+  2
   Tu ne paaya hai zainabi rutba
   Kazmi hai hasab nasab tera
   Hai raza ki riza teri marzi
   Hai gilaaf e haram tera parda
 
-  2
+  3
   Sar pe ahle kisa ka hai saaya
   Aap ne naam fatema paaya
   Aap zeenat hai apne baba ki
   Aur rakhti hai zainabi lehja
 
-  3
+  4
   Tere rauze ko ye sa'adat hai
   Marqade fatema se nisbat hai
   Farq do marqadon mein itna hai
   Wo baqiyya ye qum ki jannat hai
 
-  4
+  5
   Shaahzadi jo tere rauze par
   Motariz ho rahe hai sajde par
   Ehteraman hai shukr ka sajda
   Aur wo bhi khuda ke kehne par
 
-  5
+  6
   Saath dono jahan aate hai
   Jab bhi wo jamkaraan aate hai
   Tujhse milne ko tere rauze par
   Khud imame zamaan aate hai
 
-  6
+  7
   Pahunchi jo qum ajeeb manzar tha
   Kaale parcham lage thay har ek jaa
   Aise matam kiya hai bhai ka
   Qum ko tu ne banaya karbobala
 
-  7
+  8
   Ilm o idraak aagahi de de
   Misle behlol zindagi de de
   Naqsh bardaar e zayareen bana
   Apne rauze pe naukri dede
 
-  8
+  9
   Hai ye rehaan ki dua bibi
   Fikre darwesh par nazar ho teri
   Haath bechain hai ye matam ko
@@ -68,52 +70,54 @@ romanLyrics: |-
 ---
 یا ہمشیر رضا
 السلام علیک یا کریمہ
+
+۱
 تیرا بھائی امامِ ضامن ہے
 تیرا بابا در حوایج ہے
 
-۱
+۲
 تو نے پایا ہے زینبی رتبہ
 کاظمی ہے حسب نسب تیرا
 ہے رضا کی رضا تیری مرضی
 ہے غلاف حرم تیرا پردہ
 
-۲
+۳
 سر پہ أہل کساء کا ہے سایہ
 آپ نے نام فاطمہ پایا
 آپ زینت ہے اپنے بابا کی
 اور رکھتی ہے زینبی لہجہ
 
-۳
+۴
 تیرے روضے کو یہ سعادت ہے
 مرقد فاطمہ سے نسبت ہے
 فرق دو مرقدوں میں اتنا ہے
 وہ بقیہ یہ قم کی جنت ہے
 
-۴
+۵
 شاہزادی جو تیرے روضے پر
 معترض ہو رہے ہیں سجدے پر
 احتراماً ہے شکر کا سجدہ
 اور وہ بھی خدا کے کہنے پر
 
-۵
+۶
 ساتھ دونوں جہان آتے ہیں
 جب بھی وہ جمکران آتے ہیں
 تجھ سے ملنے کو تیرے روضے پر
 خود امام زمان آتے ہیں
 
-۶
+۷
 پہنچی جو قم عجیب منظر تھا
 کالے پرچم لگے تھے ہر ایک جا
 ایسے ماتم کیا ہے بھای کا
 قم کو تو نے بنایا کربوبلا
 
-۷
+۸
 علم و ادراک آگہی دے دے
 مثل بہلول زندگی دے دے
 نقش بردار زایرین بنا
 اپنے روضے پہ نوکری دے دے
 
-۸
+۹
 ہے یہ ریحان کی دعا بی بی
 فکر درویش پر نظر ہو تیری
 ہاتھ بے چین ہے یہ ماتم کو

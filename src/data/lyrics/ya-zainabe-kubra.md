@@ -11,10 +11,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya zainabe kubra
+
+  1
   Ay bibi bani e aza paigham e karbala tera
   Jisne suna yehi kaha
 
-  1
+  2
   Taygh khutbon ki bar sare darbar
   Jaise chalti ho hyderi talwaar
   Kat ke girte thay zalimon ke jigar
@@ -22,7 +24,7 @@ romanLyrics: |-
   Ay bibi baani e aza deen e rasool bach gaya
   Quran ki thi ye sada
 
-  2
+  3
   Yaad aata hai shaam ka manzar
   Bibi sar pe tere na thi chadar
   Har taraf patharon ki baarish thi
@@ -30,7 +32,7 @@ romanLyrics: |-
   Ay bibi baani e aza sadma tha ye bahot bada
   Roya sar e shahe huda
 
-  3
+  4
   Tu ne bacchon ki di hai qurbani
   Haye re tera zokh e emaani
   Pyase bhai ki yaad mein tu ne
@@ -38,7 +40,7 @@ romanLyrics: |-
   Ay bibi baani e aza ye zabt hausla tera
   Naize pe sar pukarta
 
-  4
+  5
   Tere dar par ye isteghasa hai
   Jo bhi farshe aza pe rota hai
   Us pe saaya kare tera ghazi
@@ -46,7 +48,7 @@ romanLyrics: |-
   Ay bibi baani e aza hum momino ki ye dua
   Ashk e azaa ka waasta
 
-  5
+  6
   Kitne makrooz matami hai tere
   Karz tu ghaib se adaa kar de
   Bibi tu to saqi ki beti hai
@@ -54,7 +56,7 @@ romanLyrics: |-
   Ay bibi baani e aza tu innama tu hal ataa
   Kehta hai sar jhuka hua
 
-  6
+  7
   Qaid bejurm jo hai matamdar
   Misle mazloom abid e bemaar
   Unko azadiyon ka tohfa de
@@ -62,7 +64,7 @@ romanLyrics: |-
   Ay bibi baani e aza hum ko hai tera aasra
   Ghairon se maangna hai kya
 
-  7
+  8
   Tere bhai ne jaise raahib ko
   Saat bete ataa kiye phir to
   Tu bhi hamsheer us saqi ki hai
@@ -70,7 +72,7 @@ romanLyrics: |-
   Ay bibi baani e aza aulaad aisi kar ataa
   Ho wo bhi matami tera
 
-  8
+  9
   Waasta us aseer bacchi ka
   Rassiyon mein bandha tha jiska gala
   Wo jo pyasi thi mar gayi pyasi
@@ -78,7 +80,7 @@ romanLyrics: |-
   Ay bibi baani e aza hai har sabeel par likha
   Kehta hai koi bawafa
 
-  9
+  10
   Likh ke rehaan azmi nauha
   Maine apne qalam ko jab dekha
   Khoon tapakta tha uski aankhon se
@@ -90,10 +92,12 @@ romanLyrics: |-
 # raw_sha256: 8b86e2e7b4db8dd40e5478cb9a5401ebe74635c752b542dac9f3ec7662db524a
 ---
 یا زینب کبرا
+
+۱
 اے بی بی بانیء عزا پیغام کربلا تیرا
 جس نے سنا یہی کہا
 
-۱
+۲
 تیغ خطبوں کی بر سر دربار
 جیسے چلتی ہو حیدری تلوار
 کٹ کے گرتے تھے ظالموں کے جگر
@@ -101,7 +105,7 @@ romanLyrics: |-
 اے بی بی بانیء عزا دین رسول بچ گیا
 قرآن کی تھی یہ صدا
 
-۲
+۳
 یاد آتا ہے شام کا منظر
 بی بی سر پہ تیرے نہ تھی چادر
 ہر طرف پتھروں کی بارش تھی
@@ -109,7 +113,7 @@ romanLyrics: |-
 اے بی بی بانیء عزا صدمہ تھا یہ بہت بڑا
 رویا سر شہ ہدا
 
-۳
+۴
 تو نے بچوں کی دی ہے قربانی
 ہاے رے تیرا زوق ایمانی
 پیاسے بھای کی یاد میں تو نے
@@ -117,7 +121,7 @@ romanLyrics: |-
 اے بی بی بانیء عزا یہ ضبط حوصلہ تیرا
 نیزے پہ سر پکارتا
 
-۴
+۵
 تیرے در پر یہ استغاثہ ہے
 جو بھی فرش عزا پہ روتا ہے
 اس پہ سایہ کرے تیرا غازی
@@ -125,7 +129,7 @@ romanLyrics: |-
 اے بی بی بانیء عزا ہم مومنوں کی یہ دعا
 اشکِ عزا کا واسطہ
 
-۵
+۶
 کتنے مقروض ماتمی ہے تیرے
 قرض تو غیب سے ادا کر دے
 بی بی تو تو سقی کی بیٹی ہے
@@ -133,7 +137,7 @@ romanLyrics: |-
 اے بی بی بانیء عزا تو انما تو ھل اتیٰ
 کہتا ہے سر سر جھکا ہوا
 
-۶
+۷
 قید بے جرم جو ہے ماتم دار
 مثل مظلوم عابد بیمار
 انکو آزادیوں کا تحفہ دے
@@ -141,7 +145,7 @@ romanLyrics: |-
 اے بی بی بانیء عزا ہم کو ہے تیرا آسرا
 غیروں سے مانگنا ہے کیا
 
-۷
+۸
 تیرے بھای نے جیسے راحب کو
 سات بیٹے عطا کیےء پھر تو
 تو بھی ہمشیر اس سقی کی ہے
@@ -149,7 +153,7 @@ romanLyrics: |-
 اے بی بی بانیء عزا اولاد ایسی کر عطا
 ہو وہ بھی ماتمی تیرا
 
-۸
+۹
 واسطہ اس اسیر بچی کا
 رسیوں میں بندھا تھا جس کا گلا
 وہ جو پیاسی تھی مر گیء پیاسی
@@ -157,7 +161,7 @@ romanLyrics: |-
 اے بی بی بانیء عزا ہے ہر سبیل پر لکھا
 کہتا ہے کوی باوفا
 
-۹
+۱۰
 لکھ کے ریحان اعظمی نوحہ
 میں نے اپنے قلم کو جب دیکھا
 خوں ٹپکتا تھا اس کی آنکھوں سے
