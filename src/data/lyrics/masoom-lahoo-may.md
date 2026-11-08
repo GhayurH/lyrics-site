@@ -10,31 +10,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Masoom lahoo may dooba hua
-  
-  1
   Baysheer ka laasha dekh na le
   Ye maut isi ka kharcha hai
   Maa khaali jhoola dekh na le
   
-  2
+  1
   Haye abbas zara parda kar le
   Ay maut zara haayil ho ja
   Sar khole hue nikli hai behan
   Shabbir ka laasha dekh na le
   
-  3
+  2
   Haye abbas e ali ki aamad par
   Aapas may ye faujein kehti thi
   Shabbir ka bhai pyasa hai
   Darya ka kanara dekh na le
   
-  4
+  3
   Haye garmaye huwe sooraj ki kiran
   Aur godh may baba ki asghar
   Ye phool aba ke saaye may
   Bedard zamana dekh na le
   
-  5
+  4
   Haye jab qatl huwe suraj dooba
   Ghar aal e nabi ka loota hai
   Aagosh may jalte qaimon ki
@@ -45,31 +43,29 @@ romanLyrics: |-
 ---
 
 معصوم لہو میں ڈوبا ہوا
-
-۱
 بے شیر کا لاشہ دیکھ نہ لے
 یہ موت اسی کا خرچہ ہے
 ماں خالی جھولا دیکھ نہ لے
 
-۲
+۱
 ہاے عباس زرا پردہ کر لے
 اے موت زرا حائل ہو جا
 سر کھولے ہوےء نکلی ہے بہن
 شبیر کا لاشہ دیکھ نہ لے
 
-۳
+۲
 ہاے عباس علی کی آمد پر
 آپس میں یہ فوجیں کہتی تھی
 شبیر کا بھای پیاسا ہے
 دریا کا کنارہ دیکھ نہ لے
 
-۴
+۳
 ہاے گرمائے ہوے سورج کی کرن
 اور گود میں بابا کی اصغر
 یہ پھول عبا کے ساے میں
 بے درد زمانہ دیکھ نہ لے
 
-۵
+۴
 ہاے جب قتل ہوے سورج ڈوبا
 گھر آل نبی کا لوٹا ہے
 آغوش میں جلتے خیموں کی
