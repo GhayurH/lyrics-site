@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Akhtar Hussain"
 tags: []
 aliases:
   - "Rihayi Qaid Se Zainab Ko Jab Mili Ho Gi"
@@ -110,6 +111,12 @@ romanLyrics: |-
   Suni jo bali Sakina ne, khabar yeh Akhtar
   Ke sab chale haiṅ mujhe chhor kar Madine ko
   Masuma qabr meiṅ, tanha hi ro rahi hogi
+# source_id: nohayonline:f99a45fe2ef1f5bfa29e
+# source_url: https://www.nohayonline.com/details_content.php?id=3578
+# raw_sha256: 8ad6b94879e6421335c22602e691f3dfd4717220d1c1a16209000e36fba3cd19
+# source_id: ziyaraat:0af0493ccb00c349f767
+# source_url: https://www.ziyaraat.net/api/noha/941
+# raw_sha256: a3a4f369b3fbd5c317cff51263bb95c99c52b0e74b95bf9373dc5bbbb777ba02
 ---
 
 رہائی قید سے زینبؑ کو جب ملی ہوگی
