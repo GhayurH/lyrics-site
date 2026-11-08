@@ -15,53 +15,52 @@ romanLyrics: |-
   Aao ro leṅ Shah-e Karbala ko
   Zindagi ka bharosa nahiṅ hai
 
-  1
   Jo bhi girta hai is gham meiṅ aansu
   Koi bekaar jata nahiṅ hai
 
-  2
+  1
   Chand maah-e-aza ka jo nikla
   Dekh kar ro pari Bint-e-Zehra
   Baad is chand ke zindagi meiṅ
   Koi lamha khushi ka nahiṅ hai
 
-  3
+  2
   Chand badli meiṅ chhup ja tu ja ke
   Na khabar de Muharram ki aa ke
   Jab se dekha hai tujhko falak par
   Mere Sajjad sota nahiṅ hai
 
-  4
+  3
   Jab jale hoṅge khaime haram ke
   Jab chhini hongi sar se ridayeṅ
   Kya bani hogi Sayyidaniyoṅ par
   Woh samaaṅ dil se jata nahiṅ hai
 
-  5
+  4
   Tir itne lage haiṅ badan meiṅ
   Bhai mera tarapta hai ran meiṅ
   Dekh kar mere bhaiya ki haalat
   Mera dam kiuṅ nikalta nahiṅ hai
 
-  6
+  5
   Karbala meiṅ jo jayegi Zainab
   Kya batayegi bhai ko Zainab
   Chhut ke zindaṅ se jo aa rahi haiṅ
   Un meiṅ pyari Sakina nahiṅ hai
 
-  7
+  6
   Bahr-e tazim utho ae Akbar
   Parda dari karo mere dilbar
   Aa rahi hai sawari phuphi ki
   Jis ka koi sahara nahiṅ hai
 
-  8
+  7
   Mar gaye mere saare dulare
   Kaun mehmil se mujhko utare
   Amma Fizza do aa ke sahara
   Paas Abbas mera nahiṅ hai
 
-  9
+  8
   Jab Madine meiṅ jayegi Zainab
   Kya batayegi Sughra ko Zainab
   Woh nishan-e rasan bazuoṅ par
@@ -74,53 +73,52 @@ romanLyrics: |-
 آؤ رولیں شہِ کربلا کو
 زندگی کا بھروسا نہیں ہے
 
-۱
 جو بھی گرتا ہے اِس غم میں آنسو
 کوئی بیکار جاتا نہیں ہے
 
-۲
+۱
 چاند ماہِ عزا کا جو نکلا
 دیکھ کر رو پڑی بنتِ زہرا
 بعد اس چاند کے زندگی میں
 کوئی لمحہ خوشی کا نہیں ہے
 
-۳
+۲
 چاند بدلی میں چھپ جا تو جا کے
 نہ خبر دے محرم کی آ کے
 جب سے دیکھا ہے تجھ کو فلک پر
 میرے سجاد سوتا نہیں ہے
 
-۴
+۳
 جب جلے ہوں گے خیمے حرم کے
 جب چھنی ہوں گی سر سے ردائیں
 کیا بنی ہو گی سیدانیوں پر
 وہ سماں دل سے جاتا نہیں ہے
 
-۵
+۴
 تیر اتنے لگے ہیں بدن میں
 بھائی میرا تڑپتا ہے رن میں
 دیکھ کر میرے بھیا کی حالت
 میرا دم کیوں نکلتا نہیں ہے
 
-۶
+۵
 کربلا میں جو جائے گی زینب
 کیا بتائے گی بھائی کو زینب
 چھٹ کے زنداں سے جو آ رہیں ہیں
 اُن میں پیاری سکینہ نہیں ہے
 
-۷
+۶
 بحرِ تعظیم اُٹھو اے اکبر
 پردا داری کرو میرے دلبر
 آ رہی ہے سواری پھوپھی کی
 جس کا کوئی سہارا نہیں ہے
 
-۸
+۷
 مر گئے میرے سارے دلارے
 کون محمل سے مجھ کو اتارے
 اماں فضہ دو آ کے سہارا
 پاس عباس میرا نہیں ہے
 
-۹
+۸
 جب مدینے میں جائے گی زینب
 کیا بتائے گی صغریٰ کو زینب
 وہ نشانِ رسن بازوؤں پر
