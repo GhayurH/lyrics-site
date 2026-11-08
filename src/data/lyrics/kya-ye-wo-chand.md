@@ -10,12 +10,13 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Hilal e maah e gham hilal e maah e aza
   Ghar lut gaya batool ka laaya hai jo khabar
   Kya ye wo chand hai
   Jis chand mein huwe hai bahattar lahoo mein tar
   Kya ye wo chand hai
+
+  1
   Jis chand mein rasool bhi rote hai zaar zaar
   Hoti hai jisko dekh ke zahra bhi beqarar
   Karta hai jo hassan ke kaleje ko taar taar
@@ -75,12 +76,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2859
 # raw_sha256: e4574e640c5340dec2c1fde3d288e549472013e2c4f4ff5dc70060a48843d31a
 ---
-۱
 ہلال ماہ غم ہلال ماہ عزا
 گھر لٹ گیا بتول کا لایا ہے جو خبر
 کیا یہ وہ چاند ہے
 جس چاند میں ہوے ہیں بہتر لہو میں تر
 کیا یہ وہ چاند ہے
+
+۱
 جس چاند میں رسول بھی روتے ہیں زار زار
 ہوتی ہے جس کو دیکھ کے زہرا بھی بیقرار
 کرتا ہے جو حسن کے کلیجے کو تار تار
