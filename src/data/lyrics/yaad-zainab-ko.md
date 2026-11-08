@@ -12,36 +12,34 @@ published: false
 romanLyrics: |-
   Sar se zaalim ne cheen li jo rida
   Yaad zainab ko aa gaya ghazi
-
-  1
   Dil mein ehsaas bebasi ka hua
 
-  2
+  1
   Jis ke athara bhai karbal mein
   Sogaye aaj khaak e maqtal mein
   Shaam jaati hai ban ke wo qaidi
 
-  3
+  2
   Thay masayab yahan bhi zahra ke
   Neel chehre pe thay sakina ke
   Jab chini baaliyan sakina ki
 
-  4
+  3
   Mai hoo zainab sadayein deti thi
   Keh ke sar khaak se chipaati thi
   Sar pa mere rida thi zehra ki
 
-  5
+  4
   Naaz parde pa kyun na ho us ko
   Jis ka abbas jaisa bhai ho
   Us ki chadar sina pe jab aayi
 
-  6
+  5
   Qalbe zehra ka chain dhoondti hai
   Ran mein zainab hussain dhoondti hai
   Dekha jab ran mein bekafan bhai
 
-  7
+  6
   Shams o rehan kaise wo gham thay
   Tauq o zanjeer mehwe matam thay
   Jab rasan zaalimon ne pehnayi
@@ -51,36 +49,34 @@ romanLyrics: |-
 ---
 سر سے ظالم نے چھین لی جو ردا
 یاد زینب کو آ گیا غازی
-
-۱
 دل میں احساس بے بسی کا ہوا
 
-۲
+۱
 جس کے اٹھارہ بھای کربل میں
 سو گےء آج خاک مقتل میں
 شام جاتی ہے بن کے وہ قیدی
 
-۳
+۲
 تھے مصائب یہاں بھی زہرا کے
 نیل چہرے پہ تھے سکینہ کے
 جب چھنی بالیاں سکینہ کی
 
-۴
+۳
 میں ہوں زینب صداییں دیتی تھی
 کہہ کے سر خاک سے چھپاتی تھی
 سر پہ میرے ردا تھی زہرا کی
 
-۵
+۴
 ناز پردے پہ کیوں نہ ہو اس کو
 جس کا عباس جیسا بھای ہو
 اس کی چادر سناں پہ جب آی
 
-۶
+۵
 قلب زہرا کا چین ڈھونڈتی ہے
 رن میں زینب حسین ڈھونڈتی ہے
 دیکھا جب رن میں بیکفن بھای
 
-۷
+۶
 شمس و ریحان کیسے وہ غم تھے
 طوق و زنجیر محو ماتم تھے
 جب رسن ظالموں نے پنہای

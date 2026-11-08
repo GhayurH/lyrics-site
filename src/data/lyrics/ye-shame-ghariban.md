@@ -9,101 +9,59 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ye shaam e ghariban hai
-
-
-  1
-
+romanLyrics: |-
+  Ye shaam e ghariban hai
   Darya ki rawani hai
-
   Pyase na rahe baaqi
-
   Phir kis liye pani hai
 
+  1
   Asghar tere laashe ko
-
   Maa ban ke zaamin rakhe
-
   Ujdi hui godhi ki
-
   Masoom nishani hai
 
-
   2
-
   Khoon kaise ruke logon
-
   Akbar ka jawani mein
-
   Hai khoon naya lekin
-
   Barchi ko purani hai
 
-
   3
-
   Ye to mujhe lagta hai
-
   Laasha kisi dulha ka
-
   Patka jo kamar mein hai
-
   Rang is ka to dhaani hai
 
-
   4
-
   Maloom na tha sheh ko
-
   Khud apne hi haathon se
-
   Shabbar ki nishani bhi
-
   Matti mein milani hai
 
-
   5
-
   Shabbir ko khanjar se
-
   Zyada ye aziyat hai
-
   Takleef jo zindan mein
-
   Bacchi ko uthani hai
 
-
   6
-
   Zainab ne kaha tehro
-
   Mai dasht mein aati hoon
-
   Bhaiya tumhe akbar ki
-
   Ab laash uthani hai
 
-
   7
-
   Har gham ko bhula denge
-
   Har yaad mita denge
-
   Zahra tere bacchon ki
-
   Bas yaad manani hai
 
-
   8
-
   Rehaan ki sarwar ki
-
   Pehchan hai jannat mein
-
   In dono ke seeno pe
-
-  Matam ki nishani hai'
+  Matam ki nishani hai
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:72826c5403f5cdb054f1
 # source_url: https://www.nohayonline.com/details_content.php?id=3324
@@ -114,11 +72,11 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 یہ شام غریباں ہے
-
-۱
 دریا کی روانی ہے
 پیاسے نہ رہے باقی
 پھر کس لئے پانی ہے
+
+۱
 اصغر تیرے لاشے کو
 ماں بن کے زمیں رکھے
 اجڑی ہوئی گودی کی

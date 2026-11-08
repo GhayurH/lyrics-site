@@ -11,67 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   Zindan mein zainab bain kare
-  
-  1
   Mera kunba saara qatl hua
   Meri chadar lut gayi karbla mein
   Bemaar bhatija rota raha
-  
-  2
+
+  1
   Pamaal hua bhai ka badan
   Mere baal khule haathon mein rasan
   Akbar ka jigar barchi se chida
   Asghar ko mere pani na mila
   
-  3
+  2
   Kanton pe chali hoo ay bhai
   Har ek qadam teri yaad aayi
   Bazaar mein pathar barse hai
   Darbar mein thi mai be-parda
   
-  4
+  3
   Aankhein meri tarsi rone ko
   Tarsi hai sakina sone ko
   Aada ne mujhe rone na diya
   Bacchi ko teri sone na diya
   
-  5
+  4
   Teri gardan aur zaalim ki churi
   Ay bhai mai kuch bhi kar na saki
   Rone ke siwa mai kya karti
   Aankhon se baha khoon ka darya
   
-  6
+  5
   Matam mai karun tera kaise
   Azaad ho pehle haath mere
   Lekin hai mera waada tujhse
   Ta hashr rahega zikr tera
   
-  7
+  6
   Tere bin jo watan jayegi behan
   Zinda to na reh payegi behan
   Ghar qabr lagega zainab ko
   Yaad aayega bhaiya saath tera
   
-  8
+  7
   Poochegi agar sughra mujhse
   Kyun aaye nahi baba mere
   Mai kaise kahungi ay sughra
   Baba ne basayi karbobala
   
-  9
+  8
   Mai aun o mohamed ke hujre
   Dekhungi bhala khaali kaise
   Sab zabt ke bandhan tootenge
   Yaad aayenge ibne abdullah
   
-  10
+  9
   Zindan mein sakina mar gayi hai
   Dunya se safar wo kar gayi hai
   Nikla na rehaai ka armaan
   Taboot e sakina bhi na utha
   
-  11
+  10
   Farhan fughan thi zainab ki
   Jo shaam ke zindan mein goonji
   Rehaan fughan wo dard bhari
@@ -82,67 +80,65 @@ romanLyrics: |-
 ---
 
 زنداں میں زینب بین کرے
-
-۱
 میرا کنبہ سارا قتل ہوا
 میری چادر لٹ گیء کربلا میں
 بیمار بھتیجا روتا رہا
 
-۲
+۱
 پامال ہوا بھای کا بدن
 میرے بال کھلے ہاتھوں میں رسن
 اکبر کا جگر برچھی سے چھدا
 اصغر کو میرے پانی نہ ملا
 
-۳
+۲
 کانٹوں پہ چلی ہوں اے بھائی
 ہر ایک قدم تیری یاد آی
 بازار میں پتھر برسے ہے
 دربار میں تھی میں بے پردہ
 
-۴
+۳
 آنکھیں میری ترسی رونے کو
 ترسی ہے سکینہ سونے کو
 اعدا نے مجھے رونے نہ دیا
 بچی کو تیری سونے نہ دیا
 
-۵
+۴
 تیری گردن اور ظالم کی چھری
 اے بھائی میں کچھ بھی کر نہ سکی
 رونے کے سوا میں کیا کرتی
 آنکھوں سے بہا خوں کا دریا
 
-۶
+۵
 ماتم میں کروں تیرا کیسے
 آزاد ہو پہلے ہاتھ میرے
 لیکن‌ ہے میرا وعدہ تجھ سے
 تا حشر رہے گا ذکر تیرا
 
-۷
+۶
 تیرے بن جو وطن جاے گی بہن
 زندہ تو نہ رہ پاے گی بہن
 گھر قبر لگے گا زینب کو
 یاد آے گا بھیا ساتھ تیرا
 
-۸
+۷
 پوچھے گی اگر صغرا مجھ سے
 کیوں آے نہیں بابا میرے
 میں کیسے کہوں گی اے صغرا
 بابا نے بسای کربوبلا
 
-۹
+۸
 میں عون و محمد کے ہجرے
 دیکھوں گی بھلا خالی کیسے
 سب ضبط کے بندھن ٹوٹیں گے
 یاد آیینگے ابن عبداللہ
 
-۱۰
+۹
 زنداں میں سکینہ مر گیء ہے
 دنیا سے سفر وہ کر گیء ہے
 نکلا نہ رہای کا ارماں
 تابوت سکینہ بھی نہ اٹھا
 
-۱۱
+۱۰
 فرحان فغاں تھی زینب کی
 جو شام کے زنداں میں گونجی
 ریحان فغاں وہ درد بھری

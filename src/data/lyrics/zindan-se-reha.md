@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Zindan se reha hogaye sadaat
-  
-  1
   Allah ye kya hogaye sadaat
   Khud karbobala hogaye sadaat
+
+  1
   Ye kaisi rehaai hai ke dil khush nahi hota
   Kya reh gaya zindan mein ke har qaidi hai rota
   Haa apni sakina se juda hote hai sadaat
@@ -79,10 +79,10 @@ romanLyrics: |-
 ---
 
 زندان سے رہا ہو گئے سادات
-
-۱
 اللہ یہ کیا ہو گئے سادات
 خود کرب و بلا ہو گئے سادات
+
+۱
 یہ کیسی رہائی ہے کے دل خوش نہیں ہوتا
 کیا رِہ گیا زندان میں کے ہر شہہ بھی ہے روتا
 ہا اپنی سکینہ سے جُدا ہوتے ہیں سادات
