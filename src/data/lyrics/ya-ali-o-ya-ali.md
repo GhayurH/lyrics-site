@@ -13,9 +13,9 @@ romanLyrics: |-
   Dard mein doobe hai sabhi matami
   Sab ki zabano pe hai nauha yehi
   Ya ali o ya ali o ya ali
-  Hogaye lawaris o barbad hum
 
   1
+  Hogaye lawaris o barbad hum
   Haye ye kaisa hua maula sitam
   Aap ke gham mein hai har ek aankh nam
   Matami halqon mein hai seena zani
@@ -30,44 +30,40 @@ romanLyrics: |-
   Shor hai kufe mein ye kya ho gaya
   Shere khuda zer e lehad so gaya
   Noor nigahon ka kahin kho gaya
+  Phail gayi chaaron taraf teeragi
 
   4
-  Phail gayi chaaron taraf teeragi
   Ghash mein hai shabbir to naala hassan
   Zainab o kulsoom hai tashna dahan
-
-  5
   Charon taraf ghar mein hai ranj o mehan
   Khaake yateemi hai saron par padi
-  Sunke khabar qatl ki sab gham gusar
 
-  6
+  5
+  Sunke khabar qatl ki sab gham gusar
   Rote hai sar peet ke sab zaar zaar
   Faaqa kashon ki bhi lagi hai qataar
   Sher ke le aaye hai pyaale se sabhi
 
-  7
+  6
   Zarb ke lagne se ye ehsaas hai
   Jaan ke bachne ki na kuch aas hai
   Sar ko jhukaye huwe abbas hai
   Aur hai aankhon se tapakti nami
 
-  8
+  7
   Hogaye barbaad yehi bain hai
   Ghar ke sabhi log hi bechain hai
   Sab ko samayte huwe hasnain hai
-
-  9
   Laayi hai kis mod pe ye zindagi
+
+  8
   Kya hai alam kis ko bataye bhala
   Zakhme jigar kis ko dikhaye bhala
-
-  10
   Kis ko ye roodad sunaye bhala
   Aagayi taqdeer mein ye bebasi
-  Bekas o lachaar hai aamir kumail
 
-  11
+  9
+  Bekas o lachaar hai aamir kumail
   Aap ke ghamkhwar hai aamir kumail
   Sheh ke azadaar hai aamir kumail
   Karte hai bas aap ki ye naukri
@@ -78,9 +74,9 @@ romanLyrics: |-
 درد میں ڈوبے ہیں سبھی ماتمی
 سب کی زبانوں پہ ہے نوحہ یہی
 یا علی و یا علی و یا علی
-ہو گےء لا وارث و برباد ہم
 
 ۱
+ہو گےء لا وارث و برباد ہم
 ہاے یہ کیسا ہوا مولا ستم
 آپ کے غم میں ہے ہر ایک آنکھ نم
 ماتمی حلقوں میں ہے سینہ زنی
@@ -95,44 +91,40 @@ romanLyrics: |-
 شور ہے کوفے میں یہ کیا ہو گیا
 شیر خدا زیر لحد سو گیا
 نور نگاہوں کا کہیں کھو گیا
+پھیل گیء چاروں طرف تیرگی
 
 ۴
-پھیل گیء چاروں طرف تیرگی
 غش میں ہے شبیر تو نالاں حسن
 زینب و کلثوم ہے تشنہ دہن
-
-۵
 چاروں طرف گھر میں ہے رنج و محن
 خاک یتیمی ہے سروں پر پڑی
-سن کے خبر قتل کی سب غم گسار
 
-۶
+۵
+سن کے خبر قتل کی سب غم گسار
 روتے ہیں سر پیٹ کے سب زار زار
 فاقہ کشوں کی بھی لگی ہے خطار
 شیر کے لے آئے ہیں پیالے سے سبھی
 
-۷
+۶
 ضرب کے لگنے سے یہ احساس ہے
 جان کے بچنے کی نہ کچھ آس ہے
 سر کو جھکائے ہوئے عباس ہے
 اور ہے آنکھوں سے ٹپکتی نمی
 
-۸
+۷
 ہو گےء برباد یہی بین ہے
 گھر کے سبھی لوگ ہی بے چین ہے
 سب کو سمیٹتے ہوئے حسنین ہیں
-
-۹
 لای ہے کس موڑ پہ یہ زندگی
+
+۸
 کیا ہے علم کس کو بتاے بھلا
 زخم جگر کس کو دکھاے بھلا
-
-۱۰
 کس کو یہ روداد سناے بھلا
 آ گیء تقدیر میں یہ بے بسی
-بیکس و لاچار ہے عامر کمیل
 
-۱۱
+۹
+بیکس و لاچار ہے عامر کمیل
 آ کے غم خوار ہے عامر کمیل
 شہ کے عزادار ہے عامر کمیل
 کرتے ہیں بس آپ کی یہ نوکری
