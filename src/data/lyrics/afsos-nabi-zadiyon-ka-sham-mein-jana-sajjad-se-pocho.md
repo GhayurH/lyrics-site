@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Salam"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "afsos-nabi-zadiyon-ka-sham-mein-jana-sajjad-se-pocho-mir-hasan-mir"
 published: false
 # source_id: tajpoints:024a5edbf1e659001322
 # source_url: https://tajpoints.com/2017/02/afsos-nabisaww-zadiyon-ka-sham-mein.html

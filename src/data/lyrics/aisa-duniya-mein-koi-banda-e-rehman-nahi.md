@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "aisa-duniya-mein-koi-banda-e-rehman-nahi-lyrics-2013"
 published: false
 # source_id: tajpoints:69e7f0026272fcea2a9f
 # source_url: https://tajpoints.com/2020/11/aisa-duniya-mein-koi-banda-e-rehman.html

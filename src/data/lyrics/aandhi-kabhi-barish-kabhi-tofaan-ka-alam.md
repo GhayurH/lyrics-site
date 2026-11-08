@@ -7,6 +7,7 @@ direction: "rtl"
 kalamType: "Manqabat"
 tags: ["noImage"]
 aliases: []
+recitationId: "aandhi-kabhi-barish-kabhi-tofaan-ka-lyrics-2017"
 published: false
 romanLyrics: |-
   Aandhi kabhi barish kabhi tufan ka aalam

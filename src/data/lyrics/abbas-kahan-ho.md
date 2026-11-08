@@ -9,104 +9,60 @@ poet: "Gohar"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ghazi ka alam aaya to sheh bole ye ro kar
-
-  Abbas kahan ho abbas kahan ho
-
+romanLyrics: |-
+  Ghazi ka alam aaya to Sheh bole ye ro kar
+  Abbas kahan ho Abbas kahan ho
+  Ro ro ke na mar jaaye kahiṅ Zainab-e-muztar
 
   1
-
-  Ro ro ke na mar jaye kahin zainab e muztar
-
+  Jab mashk o alam laaye the ran se Shah-e-Wala
+  Ek hashr bapa tha
+  Noha tha yehi Zainab-e-dilgir ke lab par
 
   2
-
-  Jab mashk o alam laaye thay ran se shahe waala
-
-  Ek hashr bapa tha
-
-  Nauha tha yehi zainab e dilgeer ke lab par
-
+  Le jauṅ main kis tarah jawaṅ bete ka laasha
+  Maidan se tanha
+  Haathoṅ se kamar thame hue kehte hain Sarwar
 
   3
-
-  Le jaaun mai kis tarha jawan bete ka laasha
-
-  Maidan se tanha
-
-  Haathon se kamar thaame huwe kehte hai sarwar
-
+  Sab fauj-e-Khuda qatl hui rah-e-Khuda mein
+  Is dasht-e-bala mein
+  Marne ke liye jaata hai nanha Ali Asghar
 
   4
-
-  Sab fauje khuda qatl hui raahe khuda mein
-
-  Is dasht e bala mein
-
-  Marne ke liye jaata hai nanha ali asghar
-
+  Maqtal ki taraf jab ke chali Sheh ki sawari
+  Zainab ye pukari
+  Ae mere Jari bhai mere sher-e-dilawar
 
   5
-
-  Maqtal ki taraf jab ke chali sheh ki sawari
-
-  Zainab ye pukari
-
-  Ay mere jari bhai mere sher e dilawar
-
+  Jo kuze liye baithe hain raste mein tumhare
+  Seh roz ke pyase
+  In bachchoṅ ka kya hal hai dekho zara aa kar
 
   6
-
-  Jo kooze liye baithe hai raste mein tumhare
-
-  Seh roz ke pyase
-
-  In bacchon ka kya haal hai dekho zara aa kar
-
+  Mar jayegi is dasht mein ro ro ke Sakina
+  Dushwar hai jina
+  Do aa ke dilasa use sine se laga kar
 
   7
-
-  Mar jayegi is dasht mein ro ro ke sakina
-
-  Dushwaar hai jeena
-
-  Do aake dilaasa usay seene se laga kar
-
+  Ab dasht-e-bala qaid mein kohram bapa hai
+  Har lab pe buka hai
+  Kuffar ke narghe mein hai Aulad-e-Payambar
 
   8
-
-  Ab dashte bala qaiz mein kohraam bapa hai
-
-  Har lab pe buka hai
-
-  Kuffaar ke narghe mein hai aulaad e payambar
-
+  Ro ro ke bulati hain Nabizadiyaṅ tum ko
+  Kiun sunte nahiṅ ho
+  Khaimoṅ ko jalata hai sitamgaroṅ ka lashkar
 
   9
-
-  Ro ro ke bulaati hai nabi zadiyan tum ko
-
-  Kyun sunte nahi ho
-
-  Qaimon ko jalaata hai sitamgaaron ka lashkar
-
+  Haathoṅ se rida thaam ke Zainab ye pukari
+  Ho jauṅ main wari
+  Chhin jaaye na sar se mere bhaiya meri chadar
 
   10
-
-  Haathon se rida thaam ke zainab ye pukari
-
-  Ho jaaun mai waari
-
-  Chin jaaye na sar se mere bhaiya meri chadar
-
-
-  11
-
-  Sunte hi tadap jaata tha abbas ka laasha
-
-  Gohar labe darya
-
-  Jab kehti thi saydaniya hasrat se tadap kar'
+  Sunte hi tarap jaata tha Abbas ka laasha
+  Gohar lab-e-darya
+  Jab kehti thi Sayyadaniyaṅ hasrat se tarap kar
 # source_id: nohayonline:6d7e360566a41e0740ee
 # source_url: https://www.nohayonline.com/details_content.php?id=3425
 # raw_sha256: 6e0d95469ea660f95da913b3ea2366cf69090cdc664c608826549562b25c1f86
@@ -115,58 +71,57 @@ romanLyrics: 'Ghazi ka alam aaya to sheh bole ye ro kar
 # raw_sha256: f7027919e63f9e24325dc964398c5846ac186ac3ce819163a524cc57bcee3513
 ---
 
-غازی کا الم آیا تو شہ بولے یہ رو کر
+غازی کا علم آیا تو شہ بولے یہ رو کر
 عباس کہاں ہو عباس کہاں ہو
 
-۱
-رو رو کے نہ مر جاۓ کہیں زینب مضطر
+رو رو کے نہ مر جائے کہیں زینب مضطر
 
-۲
-جب مشک و الم لاے تھے رن سے شہ والا
+۱
+جب مشک و علم لائے تھے رن سے شہ والا
 اک حشر بپا تھا
 نوحہ تھا یہی زینب دلگیر کے لب پر
 
-۳
+۲
 لے جاؤں میں کس طرح جواں بیٹے کا لاشہ
 میدان سے تنہا
-ہاتھوں سے کمر تھامے ہوے کہتے ہیں سرور
+ہاتھوں سے کمر تھامے ہوئے کہتے ہیں سرور
+
+۳
+سب فوج خدا قتل ہوئی راہ خدا میں
+اس دشت بلا میں
+مرنے کے لیے جاتا ہے ننھا علی اصغر
 
 ۴
-سب فوج خدا قتل ہوی راہ خدا میں
-اس دشت بلا میں
-مرنے کے لئے جاتا ہے ننھا علی اصغر
-
-۵
 مقتل کی طرف جب کہ چلی شہ کی سواری
 زینب یہ پکاری
-اے میرے جری بھای میرے شیر دلاور
+اے میرے جری بھائی میرے شیر دلاور
+
+۵
+جو کوزے لیے بیٹھے ہیں رستے میں تمہارے
+سہ روز کے پیاسے
+ان بچوں کا کیا حال ہے دیکھو ذرا آ کر
 
 ۶
-جو کوزے لےء بیٹھے ہیں رستے میں تمہارے
-سہ روز کے پیاسے
-ان بچوں کا کیا حال ہے دیکھو زرا آ کر
-
-۷
-مر جاۓ گی اس دشت میں رو رو کے سکینہ
+مر جائے گی اس دشت میں رو رو کے سکینہ
 دشوار ہے جینا
 دو آکے دلاسہ اسے سینے سے لگا کر
 
-۸
+۷
 اب دشتِ بلا قید میں کہرام بپا ہے
 ہر لب پہ بکا ہے
 کفار کے نرغے میں ہے اولادِ پیغمبر
 
-۹
+۸
 رو رو کے بلاتی ہیں نبی زادیاں تم کو
 کیوں سنتے نہیں ہو
 خیموں کو جلاتا ہے ستمگاروں کا لشکر
 
-۱۰
+۹
 ہاتھوں سے ردا تھام کے زینب یہ پکاری
 ہو جاؤں میں واری
 چھن جاے نہ سر سے میرے بھیا میری چادر
 
-۱۱
+۱۰
 سنتے ہی تڑپ جاتا تھا عباس کا لاشہ
 گوہر لب دریا
 جب کہتی تھی سیدانیاں حسرت سے تڑپ کر

@@ -10,52 +10,52 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ab tak hai zabano pe alamdar alamdar
-  Maara gaya sarwar ka madadgar alamdar
-  Qaimon may nahi aa saka abbas ka laasha
-  Abbas ka laasha abbas ka laasha
-  Pamaal hai khud laasha e qasim se zyada
-  Abbas ka laasha abbas ka laasha
+  Ab tak hai zabanoṅ pe Alamdar Alamdar
+  Maara gaya Sarwar ka madadgar Alamdar
+  Khaimoṅ mein nahiṅ aa saka Abbas ka laasha
+  Abbas ka laasha Abbas ka laasha
+  Pamal hai khud laasha-e-Qasim se ziyada
+  Abbas ka laasha Abbas ka laasha
 
   1
-  Abbas ki qaamat pe bada naaz tha usko
-  Mil ke dua maango
-  Allah kare dekhe nahi bali sakina
+  Abbas ki qamat pe bara naaz tha usko
+  Mil ke dua maṅgo
+  Allah kare dekhe nahiṅ bali Sakina
 
   2
-  Poocha kyun lehad choti hai zainab ne jo ro ke
+  Puchha kiun lahad chhoti hai Zainab ne jo ro ke
   Sajjad ye bole
   Amma mujhe maidan se itna hi mila tha
 
   3
-  Sheh bole ke ghayyur tha wo mera biradar
-  Dekho ali akbar
-  Jis jaa hai giri mashk wahin par hi milega
+  Sheh bole ke ghaiyur tha wo mera baradar
+  Dekho Ali Akbar
+  Jis ja hai giri mashk wahiṅ par hi milega
 
   4
-  Bhai ke kate haathon ko maqtal may utha kar
-  Seene se laga kar
-  Rote huwe khud dhoond rahe hai shah e waala
+  Bhai ke kate haathoṅ ko maqtal mein utha kar
+  Sine se laga kar
+  Rote hue khud dhund rahe hain Shah-e-Wala
 
   5
-  Jis waqt chala gardan e shabbir pe khanjar
-  Har zarb e layeen par
-  Saahil pe tadapta raha sarwar se zyada
+  Jis waqt chala gardan-e-Shabbir pe khanjar
+  Har zarb-e-laeen par
+  Sahil pe tarapta raha Sarwar se ziyada
 
   6
-  Jin haathon se bachpan may usay jhoola jhulaya
-  Godhi may uthaaya
-  Un haathon se ab kaise uthaye mere maula
+  Jin haathoṅ se bachpan mein use jhula jhulaya
+  Godi mein uthaya
+  Un haathoṅ se ab kaise uthae mere Maula
 
   7
-  Akbar bhi yahan hai wahan zainab he akeli
-  Aa jaaye na shaami
-  Kyun aap uthaane ke liye aagaye aaqa
+  Akbar bhi yahiṅ hain wahan Zainab hai akeli
+  Aa jaaye na Shami
+  Kiun aap uthane ke liye aa gaye Aaqa
 
   8
-  Sajjad ghareebi pe tadapne lage maula
+  Sajjad gharibi pe tarapne lage Maula
   Jis waqt ye dekha
-  Godhi may uthaye huwe pehle se thi zehra
+  Godi mein uthaye hue pehle se thi Zehra
 # source_id: nohayonline:4679d31f5e3cc7ee1a41
 # source_url: https://www.nohayonline.com/details_content.php?id=2128
 # raw_sha256: e30b468bb076e290a92de88ec751c0e0841b35162fe9b46507311c8cfbf5be15
@@ -64,7 +64,7 @@ romanLyrics: |-
 مارا گیا سرور کا مددگار علمدار
 خیموں میں نہیں آ سکا عباس کا لاشہ
 عباس کا لاشہ عباس کا لاشہ
-پامال ہے خود لاشہء قاسم سے ذیادہ
+پامال ہے خود لاشۂ قاسم سے زیادہ
 عباس کا لاشہ عباس کا لاشہ
 
 ۱
@@ -83,26 +83,26 @@ romanLyrics: |-
 جس جا ہے گری مشک وہی پر ہی ملے گا
 
 ۴
-بھای کے کٹے ہاتھوں کو مقتل میں اٹھا کر
+بھائی کے کٹے ہاتھوں کو مقتل میں اٹھا کر
 سینے سے لگا کر
-روتے ہوے خود ڈھونڈ رہے ہیں شہ والا
+روتے ہوئے خود ڈھونڈ رہے ہیں شہ والا
 
 ۵
 جس وقت چلا گردن شبیر پہ خنجر
 ہر ضرب لعیں پر
-ساحل پہ تڑپتا رہا سرور سے ذیادہ
+ساحل پہ تڑپتا رہا سرور سے زیادہ
 
 ۶
 جن ہاتھوں سے بچپن میں اسے جھولا جھلایا
 گودی میں اٹھایا
-ان ہاتھوں سے اب کیسے اٹھاے میرے مولا
+ان ہاتھوں سے اب کیسے اٹھائے میرے مولا
 
 ۷
 اکبر بھی یہی ہیں وہاں زینب ہے اکیلی
-آ جاے نہ شامی
-کیوں آپ اٹھانے کے لئے آ گےء آقا
+آ جائے نہ شامی
+کیوں آپ اٹھانے کے لئے آ گئے آقا
 
 ۸
 سجاد غریبی پہ تڑپنے لگے مولا
 جس وقت یہ دیکھا
-گودی میں اٹھاے ہوے پہلے سے تھی زہرا
+گودی میں اٹھائے ہوئے پہلے سے تھی زہرا

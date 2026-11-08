@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "ali-ali-karna-zaroor-chahiye-mir-hasan-mir-lyrics-2021"
 published: false
 # source_id: tajpoints:e1ca933fb3aa198fd78b
 # source_url: https://tajpoints.com/2022/02/ali-ali-karna-zaroor-chahiye-mir-hasan.html

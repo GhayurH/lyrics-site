@@ -8,6 +8,7 @@ kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: ["Aao Tareekh Sunaon Main Shab-e-Hijrat Ki Mir Hasan Mir"]
+recitationId: "aao-tareekh-sunaon-main-shab-e-hijrat-ki-mir-hasan-mir"
 published: false
 romanLyrics: |-
   Aao tarikh sunaun main Shab-e-Hijrat ki

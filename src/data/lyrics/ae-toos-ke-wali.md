@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "aey-toos-k-waali-mir-hasan-mir"
 published: false
 # source_id: tajpoints:6e551d7e0ae00d27464b
 # source_url: https://tajpoints.com/2025/05/aey-toos-k-waali-mir-hasan-mir-lyrics.html
