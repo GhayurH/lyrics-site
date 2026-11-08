@@ -10,10 +10,11 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Muslim ke pisar haye kufe may bhatakte hai
   Kufe may tahe khanjar muslim ka ye nauha
   Bachon ko mere unki maadar se mila dena
+
+  1
   Tum log to sab mil kar kal eid manaoge
   Bachon ko bhi tum apne seene se lagaoge
   Mil jaaye mere bete to un pe taras khaana
@@ -61,10 +62,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1714
 # raw_sha256: 73ce4c91c45ca895c560679f153e2f951e722d74b4fe3e7ee8796972f5440692
 ---
-۱
 مسلم کے پسر ہاے کوفے میں بھٹکتے ہیں
 کوفے میں تہہ خنجر مسلم کا یہ نوحہ
 بچوں کو میرے انکی مادر سے ملا دینا
+
+۱
 تم لوگ تو سب مل کر کل عید مناؤ گے
 بچوں کو بھی تم اپنے سینے سے لگاؤ گے
 مل جاے میرے بیٹے تو ان پہ ترس کھانا
