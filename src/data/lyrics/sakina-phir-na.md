@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Uthaye phir rahe hai aag qaimon ko jalaate hai
-
-  1
   Sitamgar kuch saron ko nok e naiza par sajaate hai
   Uthaye phir raha hai ek shaqi asghar ko naize par
   Dikha kar zakhm chehre ke sakina kehti thi ro kar
   Mere baba sakina phir na soyegi
   Mujhe kuch dayr hi baba sulaalo zakhmi seene par
   Mere baba sakina phir na soyegi
+  
+  1
   Musalsal jaagna hai shaam tak tujh par hi rona hai
   Tumare baad mujhko shaam ke zindan may sona hai
   Hai mere kaan zakhmi aur padhe hai neel chehre par
-
+  
   2
   Tumhare saath meri jaan nikal jaati to kya jaata
   Mujhe bhi kaash tere saath hi dafna diya jaata
   Layeen maarenge kal keh kar mujhe shabbir ki dukhtar
-
+  
   3
   Sitam sab se bada baba teri beti pe tab hoga
   Chacha abbas ki hoo laadli maloom jab hoga
   Sitam mujh par karenge wo sar e abbas dikhla kar
-
+  
   4
   Ridayein chin gayi sar se qayamat phir bhi na aayi
   Nahi abbas jaisa teri zainab ka koi bhai
   Sirhane hai khadi tere phupi amma bhi be-chadar
-
+  
   5
   Saron ke saath naizon par ridayein bhi uthayenge
   Hujoom e aam may hum ko barehna sar phirayenge
   Chathon se aale ahmed par bhi wo barsayenge pathar
-
+  
   6
   Fughan jiski buland hai shams wo bali sakina hai
   Jo apne baap ki hai laadli taweez seena hai
@@ -52,14 +52,14 @@ romanLyrics: |-
 # raw_sha256: 7b401d66f3c414885c881c43449f59e62396599e6719fd4a6728505a86769341
 ---
 اُٹھائے پھر رہے ہیں آگ خیموں کو جلاتے ہیں
-
-۱
 ستمگر کچھ سروں کو نوکِ نیزہ پر سجاتے ہیں
 اٹھائے پھر رہا ہے اک شقی اصغر کو نیزے پر
 دکھا کر زخم چہرے کے سکینہ کہتی تھی رو کر
 میرے بابا سکینہ پھر نہ سوئے گی
 مجھے کچھ دیر ہی بابا سُلا لو زخمی سینے پر
 میرے بابا سکینہ پھر نہ سوئے گی
+
+۱
 مسلسل جاگنا ہے شام تک تجھ پر ہی رونا ہے
 تمہارے بعد مجھکو شام کے زنداں میں سونا ہے
 ہیں میرے کان زخمی اور پڑے ہیں نیل چہرے پر
