@@ -14,11 +14,11 @@ romanLyrics: |-
   Kuch khaak utha ke haathon mein abbas se ye maula ne kaha
   Sar apna yahan katwayenge is khaak pe hum so jayenge
   Khafela roko ghazi khafela roko ghazi
-
-  1
   Aagayi karbobala khafela roko ghazi
   Hai safar khatm hua yehi maqtal hai mera
   Khafela roko ghazi
+
+  1
   Sun ke zahra ki buka jaan chali jaati hai
   Is zameen se to mere khoon ki boo aati hai
   Maa ki aati hai sada dil bhi kehta hai mera
@@ -79,11 +79,11 @@ romanLyrics: |-
 کچھ خاک اٹھا کے ہاتھوں میں عباس سے یہ مولا نے کہا
 سر اپنا یہاں کٹواییں گے اس خاک پہ ہم سو جاییں گے
 قافلہ رو کو غازی قافلہ رو کو غازی
-
-۱
 آ گیء کربوبلا قافلہ رو کو غازی
 ہے سفر ختم ہوا یہی مقتل ہے میرا
 قافلہ رو کو غازی
+
+۱
 سن کے زہرا کی بکا جاں چلی جاتی ہے
 اس زمیں سے تو میرے خون کی بو آتی ہے
 ماں کی آتی ہے صدا دل بھی کہتا ہے میرا
