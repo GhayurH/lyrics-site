@@ -11,7 +11,6 @@ published: false
 romanLyrics: |-
   Kata jo din to jafa fauj ki tamaam hui
   Charagh bujh gaya zehra ka jab to shaam hui
-  Kata jo din to jafa fauj ki tamaam hui
   
   1
   Shaheed so gaye jangal may sar ko katwa ke
@@ -40,16 +39,18 @@ romanLyrics: |-
   7
   Na thay charagh bhi bewarison ke baali par
   Udaasi aur badhi dasht may jo shaam hui
+
+  Kata jo din to jafa fauj ki tamaam hui
+  Charagh bujh gaya zehra ka jab to shaam hui
 # source_id: nohayonline:43a5c58d608694668304
 # source_url: https://www.nohayonline.com/details_content.php?id=1156
 # raw_sha256: b19db952f4eb4b11c45ee376b8c181a3e3111866d997fc4a537162715e4f5613
 ---
 
 کٹا جو دن تو جفا فوج کی تمام ہوئی
-کٹا جو دن تو جفا فوج کی تمام ہوئی
+چراغ بجھ گیا زہراہ کا جب تو شام ہوئی
 
 ۱
-چراغ بجھ گیا زہراہ کا جب تو شام ہوئی
 شہید سو گئے جنگل میں سر کو کٹوا کے
 خیال آیا نشاں کا نہ فکرِ نام ہوئی
 
@@ -77,5 +78,5 @@ romanLyrics: |-
 نہ تھے چراغ بھی بے وارثوں کے بالی پر
 اداسی اور بڑھی دشت میں جو شام ہوئی
 
-۸
+کٹا جو دن تو جفا فوج کی تمام ہوئی
 چراغ بوجھ گیا زہرہ کا جب تو شام ہی
