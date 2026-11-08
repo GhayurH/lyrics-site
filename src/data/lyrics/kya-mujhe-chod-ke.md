@@ -9,145 +9,59 @@ poet: "Shaukath"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Aey amma
-
-  Aray aap se may bayan dil ka haal karon
-
-  Aray dil may uth-ta hay jo ik sawal karpm
-
-  Qaid se jab rehai haram payain gay
-
-  Kia meri qabr pe phir nahi aayain gay
-
-  Sirf ranj o alam, mujh ko tarrpayain gay
-
-  Kia mujhe chorr kar sab chalay jayain gay
-
+romanLyrics: |-
+  Haye amma aray suno amma
+  Aray aap se mai bayan dil ka haal karun
+  Aray dil mein uth'ta hai jo ek sawaal karun
+  Qaid se jab rehaai haram payenge
+  Kya meri qabr pe phir nahi aayenge
+  Sirf ranj o alam mujhko tadpayenge
+  Kya mujhe chod kar sab chale jayenge
 
   1
-
   Kya isi qaid mein ghut ke mar jaaungi
-
   Kya mai do gaz kafan bhi nahi paaungi
-
   Mailay kurte mein kya mujhko dafnayenge
 
-  Kya mujhe chod kar...
-
-  Sar se paaon talak mai lahoo mein hoo tar
-
-  Mera zakhmon bhara ye badan dekh kar
-
-
   2
-
-  Kia isi qaid may ghut ke mar jaon gi
-
-  Kia may do gaz kafan bhi nahi payoon gi
-
-  Mailay kurtay may kia mujh ko dafnayain gay
-
+  Sar se paaon talak mai lahoo mein hoo tar
+  Mera zakhmon bhara ye badan dekh kar
+  Sirf zaalim nahi zulm pachtayenge
 
   3
-
-  Sar se paon talak may lahoo may hoon tar
-
-  Mera zakhmo bhara ye badan dekh kar
-
-  Sirf zalim nahi zulm pachtayain gay
-
+  Shaam waale karenge abhi kuch sitam
+  Mujhko khaaye chala ja raha hai ye gham
+  Ye meri qabr pe shimr ko layenge
 
   4
-
-  Shaam walay karain gay abhi kuch sitam
-
-  Mujh ko khaye chala ja raha hay ye gham
-
-  Yeh meri qabr pe Shimr ko layain gay
-
+  Dekh kar zakhm baba ke ghabrayi mai
+  Hashr mein baap ke paas jab aayi mai
+  Dekh kar mujhko baba bhi ghabrayenge
 
   5
-
-  Dekh kar zakhm baba ke ghabrayi may
-
-  Hashr may baap ke pas jab aayi may
-
-  Dekh kar mujh ko baba bhi ghabrayain gay
-
-
-  6
-
+  Karbala hai kahan aur kahan shaam hai
+  Na mujhe chain na unko aaraam hai
   Wo mujhe karbala roz bulwayenge
 
-  Kya mujhe chod kar...
-
+  6
   Karbala jaa ke baba se ye poochna
-
   Hashr mein unse jab ho mera saamna
-
   Kya mujhe apne seene se liptayenge
 
-  Kya mujhe chod kar...
-
-
   7
-
-  Karbala hay kahan aur kahan Shaam hay
-
-  Na mujhe chain na un ko aaram hay
-
-  Woh mujhe Karbala roza bulwayain gay
-
+  Kehna sughra se apna chaman mil gaya
+  Ho mubarak tumhe to watan mil gaya
+  Hashr tak hum musafir hi kehlayenge
 
   8
-
-  Karbala ja ke baba se ye poochna
-
-  Hashr may un se jab ho mera samna
-
-  Kia mujhe apnay seenay se liptayain gay
-
+  Shaam mein hi meri shaam hojayegi
+  Ye kahani agar aam hojayegi
+  Baap beti se kab pyaar farmayenge
 
   9
-
-  Kehna Sughra se apna chaman mil gaya
-
-  Ho mubarak tumhain to watan mil gaya
-
-  Hashr tak ham musafir hi kelayain gay
-
-
-  10
-
-  Baap beti se kab pyaar farmeinenge
-
-  Kya mujhe chod kar...
-
   Hum na fankaar hai aur na ahle qalam
-
   Hai ye farhan o shaukat pe unka karam
-
   Hum se shabbir nauha kehelwayenge
-
-  Kya mujhe chod kar...
-
-
-  11
-
-  Shaam may hi meri sham ho jaye gi
-
-  Ye kahani meri aam ho jaye gi
-
-  Baap beti se jab pyar farmayain gay
-
-
-  12
-
-  Ham na fankar hain aur na ahle qalam
-
-  Hay ye Frhan o Shokat pe un ka karam
-
-  Ham se Shabbir noha kehlawain gay'
 reciter: Farhan Ali
 # source_id: nohayonline:cc6814a8ef3d0f568e56
 # source_url: https://www.nohayonline.com/details_content.php?id=2377
@@ -163,10 +77,7 @@ reciter: Farhan Ali
 # raw_sha256: b69ab5826ac0e2ac68abb3347ecefe0b1adbda7ea45166bb407cd5fe77a68787
 # added_stanza_source: roman:kalam-nohayonline-cc6814a8ef3d0f568e56
 ---
-
 ہاے اماں ارے سنو اماں
-
-۱
 ارے آپ سے میں بیان دل کا حال کروں
 ارے دل میں اٹھتا ہے جو اک سوال کروں
 قید سے جب رہائی حرم پاییں گے
@@ -174,17 +85,17 @@ reciter: Farhan Ali
 صرف رنج و الم مجھکو تڑپایینگے
 کیا مجھے چھوڑ کر سب چلے جائیں گے
 
-۲
+۱
 کیا اسی قید میں گھٹ کے مر جاؤں گی
 کیا میں دو گز کفن بھی پاؤں گی
 میلے کرتے میں کیا مجھکو دفنایینگے
-کیا مجھے چھوڑ کر۔۔۔
+
+۲
 سر سے پاؤں تلک میں لہو میں ہوں تر
 میرا زخموں بھرا یہ بدن دیکھ کر
+صرف ظالم نہیں ظلم پچتایینگے
 
 ۳
-صرف ظالم نہیں ظلم پچتایینگے
-کیا مجھے چھوڑ کر۔۔۔
 شام والے کرینگے ابھی کچھ ستم
 مجھکو کھاے چلا جا رہا ہے یہ غم
 یہ میری قبر پہ شمر کو لایینگے
@@ -193,26 +104,28 @@ reciter: Farhan Ali
 دیکھ کر زخم بابا کے گھبرای میں
 حشر میں باپ کے پاس جب آی میں
 دیکھ کر مجھکو بابا بھی گھبرایینگے
-کیا مجھے چھوڑ کر۔۔۔
-کربلا ہے کہاں اور کہاں شام ہے
-نہ مجھے چین نہ انکو آرام ہے
 
 ۵
+کربلا ہے کہاں اور کہاں شام ہے
+نہ مجھے چین نہ انکو آرام ہے
 وہ مجھے کربلا روز بلواینگے
+
+۶
 کربلا جا کے بابا سے یہ پوچھنا
 حشر میں ان سے جب ہو میرا سامنا
 کیا مجھے اپنے سینے سے لپٹایینگے
 
-۶
+۷
 کہنا صغرا سے اپنا چمن مل گیا
 ہو مبارک تمہیں تو وطن مل گیا
 حشر تک ہم مسافر ہی کہلائیں گے
-کیا مجھے چھوڑ کر۔۔۔
+
+۸
 شام میں ہی میری شام ہو جاے گی
 یہ کہانی اگر عام ہو جاے گی
-
-۷
 باپ بیٹی سے کب پیار فرمائیں گے
+
+۹
 ہم نہ فنکار ہے اور نہ اہلِ قلم
 ہے یہ فرحان و شوکت پہ ان کا کرم
 ہم سے شبیر نوحہ کہلوایینگے
