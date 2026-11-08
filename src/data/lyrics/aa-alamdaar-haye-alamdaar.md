@@ -48,9 +48,9 @@ romanLyrics: |-
   Kya huwa afsos mera qadr daan
 
   4
-  Dhum hai khaime mein wan, Sher-e-Jawaaṅ mar gaya
+  Dhum hai khaime mein waṅ, Sher-e-Jawaaṅ mar gaya
   Karti hai Zainab fughaṅ, Sher-e-Jawaaṅ mar gaya
-  Kis se karun main bayan, Sher-e-Jawaaṅ mar gaya
+  Kis se karun main bayaṅ, Sher-e-Jawaaṅ mar gaya
 
   Haath se khoya dil-e-ghamkhwar ko
   Paun kahan apne alamdar ko
