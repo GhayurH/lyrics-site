@@ -17,11 +17,9 @@ romanLyrics: |-
   Tum kya gaye dekho mujhe
   Jis ne bhi chaha maara tamacha
   Ammu jaan ay ammu jaan
-  
-  1
   Dekho sakina ka imtehan
   
-  2
+  1
   Aap ko jab bhi maine bulaya
   Shimr ne mujhko aur rulaya
   Baalon se mujhko khaynch ke laaya
@@ -29,7 +27,7 @@ romanLyrics: |-
   Hasta raha kehta raha
   Ghazi nahi ab aayega tera
   
-  3
+  2
   Ek hi jaisa gham hai hamara
   Hont phate khoon beh gaya saara
   Khooli ne jab naize se maara
@@ -37,7 +35,7 @@ romanLyrics: |-
   Dekho zara aaj mera
   Aap ki tarha zakhmi hai chehra
   
-  4
+  3
   Aap ne sar naize se giraya
   Bad ke sakina ne jab uthaya
   Mere qareeb ek zaalim aaya
@@ -45,7 +43,7 @@ romanLyrics: |-
   Sar aap ka cheen liya
   Jaate huwe maara taziyana
   
-  5
+  4
   Amma ke shaano mein jo hai rassi
   Us se bandhi hai gardan meri
   Haye mai qad mein hoon sab se choti
@@ -53,7 +51,7 @@ romanLyrics: |-
   Mera gala ghutne laga
   Panjon pe chalti hai teri sakina
   
-  6
+  5
   Aaj nahi hai sar par chadar
   Maare hai sab ne hum ko patthar
   Ghar mein phupi kehti thi aksar
@@ -61,7 +59,7 @@ romanLyrics: |-
   Phir kyun hame bazaar mein
   Zaalim phirate hai be-parda
   
-  7
+  6
   Raah mein ek mod aisa bhi aaya
   Naaqe se meri rassi ko baandha
   Zaalim ne sab ko paas bulaaya
@@ -69,7 +67,7 @@ romanLyrics: |-
   Sab dekh ke hasne lage
   Naaqe ke saath mujhe daudaya
   
-  8
+  7
   Baba ne jo tohfe mein diye thay
   Wo goshware chin gaye mere
   Pahunchi mai jab baba se kehne
@@ -77,7 +75,7 @@ romanLyrics: |-
   Kya mai kahun zaalim ne kyun
   Baap ki laash pe beti ko maara
   
-  9
+  8
   Farhan aur zeeshan wo bacchi
   Ammu se ye ro ro kar boli
   Kab se hoon pyasi zakhmi qaidi
@@ -88,7 +86,6 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3656
 # raw_sha256: f7eb867041cb5ce8a667f02cffa5a8d6f43e42859f81c4959d09ab2ba795786a
 ---
-
 عمو جان اے عمو جان
 بازار میرے رخسار
 اور اس پہ شمر کا بھاری ہاتھ
@@ -96,11 +93,9 @@ romanLyrics: |-
 تم کیا گےء دیکھو مجھے
 جس نے شاہا مارا طمانچہ
 عمو جان اے عمو جان
-
-۱
 دیکھو سکینہ کا امتحان
 
-۲
+۱
 آپ کو جب بھی میں نے بلایا
 شمر نے مجھکو اور رلایا
 بالوں سے مجھکو کھینچ کے لایا
@@ -108,7 +103,7 @@ romanLyrics: |-
 ہنستا رہا کہتا رہا
 غازی نہیں اب آے گا تیرا
 
-۳
+۲
 ایک ہی جیسا غم ہے ہمارا
 ہونٹ پھٹے خوں بہہ گیا سارا
 خولی نے جب نیزے سے مارا
@@ -116,7 +111,7 @@ romanLyrics: |-
 دیکھو زرا آج میرا
 آپ کی طرح زخمی ہے چہرہ
 
-۴
+۳
 آپ نے سر نیزے سے گرایا
 بڑھ کے سکینہ نے جب اٹھایا
 میرے قریب ایک ظالم آیا
@@ -124,7 +119,7 @@ romanLyrics: |-
 سر آپ کا چھین لیا
 جاتے ہوئے مارا تازیانہ
 
-۵
+۴
 اماں کے شانوں میں جو ہے رسی
 اس سے بندھی ہے گردن میری
 ہاے میری قد میں ہوں سب سے چھوٹی
@@ -132,7 +127,7 @@ romanLyrics: |-
 میرا گلا گھٹنے لگا
 پنجوں پہ چلتی ہے تیری سکینہ
 
-۶
+۵
 آج نہیں ہے سر پر چادر
 مارے ہے سب نے ہم کو پتھر
 گھر میں پھپھی کہتی تھی اکثر
@@ -140,7 +135,7 @@ romanLyrics: |-
 پھر کیوں ہمیں بازار میں
 ظالم پھراتے ہیں بے پردہ
 
-۷
+۶
 راہ میں ایک موڑ ایسا بھی آیا
 ناقے سے میری رسی کو باندھا
 ظالم نے سب کو پاس بلایا
@@ -148,7 +143,7 @@ romanLyrics: |-
 سب دیکھ کے ہسنے لگے
 ناقے کے ساتھ مجھے دوڑایا
 
-۸
+۷
 بابا نے جو تحفے میں دیےء تھے
 وہ گوشوارے چھن گےء میرے
 پہنچی میں جب بابا سے کہنے
@@ -156,7 +151,7 @@ romanLyrics: |-
 کیا میں کہوں ظالم نے کیوں
 باپ کی لاش پہ بیٹی کو مارا
 
-۹
+۸
 فرحان اور زیشان وہ بچی
 عمو سے یہ رو رو کر بولی
 کب سے ہوں پیاسی زخمی قیدی
