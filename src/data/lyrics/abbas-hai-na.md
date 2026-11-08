@@ -38,7 +38,7 @@ romanLyrics: |-
   4
   Dikhayi de tumhe jis dam yazeed ka lashkar
   Dikhaye wo tumheṅ talwar o neza o khanjar
-  Chamak te nezoṅ pe par jaaye gar tumhari nazar
+  Chamakte nezoṅ pe par jaaye gar tumhari nazar
   Tum apne dil mein jagah khauf ko nahiṅ dena
 
   5
@@ -108,7 +108,7 @@ romanLyrics: |-
 
 ۶
 پھپھی یہ بولی سکینہ سے اے میری بچی
-چچا سے کہہ دو وہ لے آئییں گے ابھی پانی
+چچا سے کہہ دو وہ لے آئیں گے ابھی پانی
 یہ مشک کیا ہے وہ دریا اٹھا کے لا دے ابھی
 بس اپنی آنکھ میں آنسو نہیں آنے دینا
 

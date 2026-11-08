@@ -28,24 +28,24 @@ romanLyrics: |-
   Hai sab se juda teri wafaoṅ ka qarina
   Pani na piya tu ne tarai ko to chhina
   Aankhoṅ se juda kaise ho tasvir-e-Sakina
-  Us se hai tujhko pyar ay abbase alamdaar
+  Us se hai tujhko pyaar ae Abbas-e-Alamdar
 
   3
   Hai ashk-fishaṅ aaj bhi gham mein tere pani
-  Ye mashk sakina ki alam teri nishani
+  Ye mashk Sakina ki alam teri nishani
   Rota hai jahan sun ke tere gham ki kahani
   Ae fauj ke sardar ae Abbas-e-Alamdar
 
   4
   Haider ki duaoṅ ka sila hai mere Abbas
-  Zehra ne tujhe beta kaha hai mere Abbas
+  Zahra ne tujhe beta kaha hai mere Abbas
   Har daur mein har dil ki sada hai mere Abbas
   Zainab ke madadgar ae Abbas-e-Alamdar
 
   5
   Tum ko na pukarein to bhala kis ko pukarein
   Hai khushk bhatiji ka gala pyaas ke maare
-  Roti hai sakina jo kabhi gham mein tumhare
+  Roti hai Sakina jo kabhi gham mein tumhare
   Hanste the sitamgar ae Abbas-e-Alamdar
 
   6

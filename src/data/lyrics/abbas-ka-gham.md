@@ -10,72 +10,73 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ka gham hum karte hai
-  Hum apna lahoo zam karte hai
+  Abbas ka gham hum karte hain
+  Hum apna lahu zam karte hain
 
   1
   Darya pe gaya laane pani
-  Nazron mein sakina thi pyasi
-  Abbas e dilawar sher e jari
-  Oonchayi pe parcham karte hai
+  Nazroṅ mein Sakina thi pyasi
+  Abbas-e-dilawar sher-e-Jari
+  Unchai pe parcham karte hain
 
   2
-  Hai sher tarayi par biphra
+  Hai sher tarai par biphra
   Ghazi ko koi kya rokega
   Darya pe wo qabza kar ke kaha
-  Jo chahenge wo hum karte hai
+  Jo chaheṅge wo hum karte hain
 
   3
-  Mashkeeza chida tooti hai aas
+  Mashkiza chhida tuti hai aas
   Pani nahi pahuncha hai ehsaas
-  Sharminda bhatiji se abbas
-  Ehsaas ye paiham karte hai
+  Sharminda bhatiji se Abbas
+  Ehsas ye paiham karte hain
 
   4
-  Ghode se gira abbas e jari
+  Ghore se gira Abbas-e-Jari
   Aaqa lo khabar aakar uski
   Sheh bole kamar tooti meri
-  Sheh rote hai matam karte hai
+  Sheh rote hain matam karte hain
 
   5
-  Qaime mein alam laaye sarwar
-  Sab bibiyan kehti hai ro kar
+  Khaime mein alam laaye Sarwar
+  Sab Bibiyan kehti hain ro kar
   Ab zulm o sitam honge hum par
-  Saqqe ka sabhi gham karte hai
+  Saqqe ka sabhi gham karte hain
 
   6
   Aaya hai alam ammu hai kahan
-  Maangungi na pani aao yahan
-  Lab par ye sakina ki hai fughan
-  Shikwa na yahan hum karte hai
+  Maṅguṅgi na pani aao yahan
+  Lab par ye Sakina ki hai fughaṅ
+  Shikwa na yahan hum karte hain
 
   7
-  Chauda sau baras ke baad abhi
-  Lagta ha ke gham kul hai yehi
-  Rote hai malayek aur nabi
-  Har aankh wo pur nam karte hai
+  Chaudah sau baras ke baad abhi
+  Lagta hai ke gham kal hai yehi
+  Rote hain malaek aur Nabi
+  Har aankh wo purnam karte hain
 
   8
   Dekho to zara matam ka asar
-  Har saal se hota hai bad kar
-  Yaad aata hai karbal ka manzar
-  Matam na kabhi kam karte hai
+  Har saal se hota hai barh kar
+  Yaad aata hai Karbal ka manzar
+  Matam na kabhi kam karte hain
 
   9
   Hai aap ke baad ye haal chacha
   Durre wo tamachon ka lagna
   Ro ro ke sakina ne ye kaha
-  Is tarha basar hum karte hai
+  Is tarah basar hum karte hain
 
   10
-  Abbas ke ay matamdaron
-  Kismat pe sabhi tum naaz karo
-  Sab mil ke raza awaaz ye do
-  Maula tera matam karte hai
+  Abbas ke ae matamdaroṅ
+  Qismat pe sabhi tum naaz karo
+  Sab mil ke Raza awaz ye do
+  Maula tera matam karte hain
 # source_id: nohayonline:4ab3b81902706d8a12f7
 # source_url: https://www.nohayonline.com/details_content.php?id=3254
 # raw_sha256: d64078b17c54d32dd3d8db6091a542cf93182b73113cc37c7edbd074f6dea8f4
 ---
+
 عباس کا غم ہم کرتے ہیں
 ہم اپنا لہو زم کرتے ہیں
 
@@ -86,7 +87,7 @@ romanLyrics: |-
 اونچائی پہ پرچم کرتے ہیں
 
 ۲
-ہے شیر ترای پر بپھرا
+ہے شیر ترائی پر بپھرا
 غازی کو کوئی کیا روکے گا
 دریا پہ وہ قبضہ کر کے کہا
 جو چاہیں گے وہ ہم کرتے ہیں
@@ -105,8 +106,8 @@ romanLyrics: |-
 
 ۵
 خیمے میں علم لاے سرور
-سب بی بیاں کہتی ہے رو کر
-اب ظلم و ستم ہونگے ہم پر
+سب بیبیاں کہتی ہے رو کر
+اب ظلم و ستم ہوں گے ہم پر
 سقے کا سبھی غم کرتے ہیں
 
 ۶
@@ -122,10 +123,10 @@ romanLyrics: |-
 ہر آنکھ وہ پر نم کرتے ہیں
 
 ۸
-دیکھو تو زرا ماتم کا اثر
-ہر سال سے ہوتے ہے بڑھ کر
-یاد آتا نہ کبھی کم کرتے ہیں
-ماتم نہ کبھی کم کرتے ہے
+دیکھو تو ذرا ماتم کا اثر
+ہر سال سے ہوتا ہے بڑھ کر
+یاد آتا ہے کربل کا منظر
+ماتم نہ کبھی کم کرتے ہیں
 
 ۹
 ہے آپ کے بعد یہ حال چچا

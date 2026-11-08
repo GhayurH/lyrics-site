@@ -10,37 +10,38 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ka jab zikr e wafa karti thi sughra
-  Bas khair ki us waqt dua karti thi sughra
+  Abbas ka jab zikr-e-wafa karti thiṅ Sughra
+  Bas khair ki us waqt dua karti thiṅ Sughra
 
   1
-  Ek bar bhare ghar ko mai in aankhon se dekhoo
-  Ro ro ke madina mein dua karti thi sughra
+  Ek baar bhare ghar ko main in aankhoṅ se dekhuṅ
+  Ro ro ke Madina mein dua karti thiṅ Sughra
 
   2
-  Pardes mein baba ne mujhe dil se bhulaya
-  Shikwa yehi nani se kiya karti thi sughra
+  Pardes mein Baba ne mujhe dil se bhulaya
+  Shikwa yehi Nani se kiya karti thiṅ Sughra
 
   3
-  Ab ghutniyo chalne laga hoga mera asghar
-  Ye keh ke bohat yaad kiya karti thi sughra
+  Ab ghutniyoṅ chalne laga hoga mera Asghar
+  Ye keh ke bahot yaad kiya karti thiṅ Sughra
 
   4
-  Aata tha madina mein agar koi musafir
-  Bechain bohat sunke hua karti thi sughra
+  Aata tha Madina mein agar koi musafir
+  Bechain bahot sun ke hua karti thiṅ Sughra
 
   5
   Ek aas lagaye hue wo baithi thi dar par
-  Aayenge chacha lene kaha karti thi sughra
+  Aaeṅge Chacha lene kaha karti thiṅ Sughra
 # source_id: nohayonline:b286da9a03add19aaf07
 # source_url: https://www.nohayonline.com/details_content.php?id=3
 # raw_sha256: 6998ec74ad2f7c4218cf7d81012b27880df73d94140bd24d182ab54b8e9e9611
 ---
+
 عباس کا جب ذکر وفا کرتی تھیں صغرا
-بس خیر کی اس وقت دعا کرتی صغرا
+بس خیر کی اس وقت دعا کرتی تھیں صغرا
 
 ۱
-اک بار بھرے گھرکو میں ان آنکھوں سے دیکھوں
+اک بار بھرے گھر کو میں ان آنکھوں سے دیکھوں
 رو رو کے مدینے میں دعا کرتی تھیں صغرا
 
 ۲

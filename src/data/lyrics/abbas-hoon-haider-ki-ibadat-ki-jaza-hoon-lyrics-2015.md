@@ -12,12 +12,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas huṅ Haider ki ibadat ki jaza huṅ
-  Maaṅ naaz se kehti hai ke Zehra ki dua huṅ
+  Maaṅ naaz se kehti hai ke Zahra ki dua huṅ
 
   1
   Khaliq ne jahan dar pe utara hai sitara
   Main ne usi chaukhat pe hi sab waqt guzara
-  Dehliz pe Zehra ki qamar ban ke jala huṅ
+  Dehliz pe Zahra ki qamar ban ke jala huṅ
 
   2
   Dunya ye jise kehti hai Ghazi ki adaeṅ
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Do khas hijabat bane Bint-e-Wali ke
-  Ek Fatema Zehra ne diya ek Ali ne
+  Ek Fatema Zahra ne diya ek Ali ne
   Ek chadar-e-tathir to ek main wo rida huṅ
 
   5

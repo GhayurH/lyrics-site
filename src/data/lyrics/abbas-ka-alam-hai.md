@@ -10,72 +10,73 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay alamdar e hussain wa abbasa
-  Wa abbasa abbasa
-  Parcham e abbas hi parcham e islam hai
-  Abbas ka alam hai qaumi nishan hamara
-  Ye parcham e nabi hai humko hai jaan se pyara
+  Ae Alamdar-e-Husain wa Abbasa
+  Wa Abbasa Abbasa
+  Parcham-e-Abbas hi parcham-e-Islam hai
+  Abbas ka alam hai qaumi nishaṅ hamara
+  Ye parcham-e-Nabi hai hum ko hai jaṅ se pyara
 
   1
-  Hamza ne murtaza ne jafar ne bhi uthaya
-  Abbas tak ye parcham yun haathon haath aaya
-  Baazu kata ke is ko abbas ne sawara
+  Hamza ne Murtaza ne Jafar ne bhi uthaya
+  Abbas tak ye parcham yuṅ haathoṅ haath aaya
+  Bazu kata ke is ko Abbas ne saṅwara
 
   2
   Do tukde chand kar de panje mein itna dum hai
   Taara jahan pe utra us ghar ka ye alam hai
-  Uski bulandiyon par qurban chand taara
+  Uski bulandiyoṅ par qurban chand taara
 
   3
-  Pabandi sarhadon ki na qaid hai zuban ki
-  Bas ye khusoosiyat hai abbas ke nishan ki
+  Pabandi sarhadoṅ ki na qaid hai zabaṅ ki
+  Bas ye khususiyaat hai Abbas ke nishaṅ ki
   Dunya mein ye alam hai mazloom ka sahara
 
   4
   Saanson ki dor iski dori se hi bandhi hai
   Baab e karam yehi hai baab e ataa yehi hai
-  Is se muradein lene aaye jahan saara
+  Is se muradeṅ lene aaye jahaṅ saara
 
   5
-  Chauda sau saal se hai iski yehi kahani
-  Ye fatha ki hai aayat ye jeet ki nishani
-  Isko uthane waala haarega na aur na haara
+  Chaudah sau saal se hai iski yehi kahani
+  Ye fath ki hai aayat ye jit ki nishani
+  Isko uthane wala haarega na aur na haara
 
   6
-  Islam ka ye parcham allah iska zaamin
-  Kab se utar rahe hai sar momino ke lekin
-  Apne gharon se hum ne parcham nahi utaara
+  Islam ka ye parcham Allah iska zamin
+  Kab se utar rahe hain sar mominoṅ ke lekin
+  Apne gharoṅ se hum ne parcham nahiṅ utara
 
   7
   Abbas ka ye parcham ab tak lahoo bhara hai
-  Zainab se ye takallum mehdi tak aagaya hai
-  Layenge saath apne qaaem isay dobara
+  Zainab se ye Takallum Mehdi tak aa gaya hai
+  Laeṅge saath apne Qaim ise dobara
 
   8
-  Alam bhai ka lahoo mein bhara
-  Utha laaye jab shahe karbala
+  Alam bhai ka lahu mein bhara
+  Utha laaye jab Shah-e-Karbala
   Qayamat bapa haram mein hui
-  Tadapne lagi nabi zadiyan
+  Tarapne lagi Nabizadiyaṅ
   Suni jab sakina ne gham ki khabar
-  Tadap kar ye poocha kahan hai chacha
-  Kaha shaah e deen ne mera ghar luta
+  Tarap kar ye puchha kahan hai chacha
+  Kaha Shah-e-Din ne mera ghar luta
   Sakina tumhara chacha na raha
 
   9
-  Yateemon ka jab suna ye bayan
-  Tadapne lagi nabi zadiyan
+  Yatimoṅ ka jab suna ye bayaṅ
+  Tarapne lagi Nabizadiyaṅ
   Yateemon se ye kaha shaah ne
   Wasiyat ye thi mere bhai ki
-  Na le jaana qaimon mein laasha mera
+  Na le jaana khaimoṅ mein laasha mera
   Hai pyason se sharminda unka chacha
   Ye keh kar alam behen ko diya
   Taqaza kare na koi pyaas ka
-  Alam hi janaza hai abbas ka
+  Alam hi janaza hai Abbas ka
   Sakina tumhara chacha na raha
 # source_id: nohayonline:bf901a1562ade3037ca6
 # source_url: https://www.nohayonline.com/details_content.php?id=2712
 # raw_sha256: e1fb8a29fe8354ac8aa8ef2c9b4c96e9a1d47806787cd3e679c081380c3bf31c
 ---
+
 اے علمدار حسین وا عباسا
 وا عباسا وا عباسا
 پرچمِ عباس ہی پرچمِ اسلام ہے
@@ -83,14 +84,14 @@ romanLyrics: |-
 یہ پرچم نبی ہے ہم کو ہے جاں سے پیارا
 
 ۱
-حمزہ نے مرتظی نے جعفر نے بھی اٹھایا
+حمزہ نے مرتضیٰ نے جعفر نے بھی اٹھایا
 عباس تک یہ پرچم یوں ہاتھوں ہاتھ آیا
 بازو کٹا کے اس کو عباس نے سوارا
 
 ۲
 دو ٹکڑے چاند کر دے پنجے میں اتنا دم ہے
 تارا جہاں پہ اترا اس گھر کا یہ علم ہے
-اسکی بلندیوں پر قربان چاند تارہ
+اس کی بلندیوں پر قربان چاند تارہ
 
 ۳
 پابندی سرحدوں کی نہ قید ہے زباں کی
@@ -100,7 +101,7 @@ romanLyrics: |-
 ۴
 سانسوں کی ڈور اس کی ڈوری سے ہی بندھی ہے
 باب کرم یہی ہے باب عطا یہی ہے
-اس سے مرادیں لینے آے جہاں سارا
+اس سے مرادیں لینے آئے جہاں سارا
 
 ۵
 چودہ سو سال سے ہے اس کی یہی کہانی
@@ -115,12 +116,12 @@ romanLyrics: |-
 ۷
 عباس کا یہ پرچم اب تک لہو بھرا ہے
 زینب سے یہ تکلم مہدی تک آ گیا ہے
-لاییں گے ساتھ اپنے قایم اسے دوبارہ
+لائیں گے ساتھ اپنے قائم اسے دوبارہ
 
 ۸
-علم بھای کا لہو میں بھرا
-اٹھا لاے جب شہ کربلا
-قیامت بپا حرم میں ہوی
+علم بھائی کا لہو میں بھرا
+اٹھا لائے جب شہ کربلا
+قیامت بپا حرم میں ہوئی
 تڑپنے لگی نبی زادیاں
 سنی جب سکینہ نے غم کی خبر
 تڑپ کر یہ پوچھا کہاں ہے چچا
