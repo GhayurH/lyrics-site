@@ -8,62 +8,37 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ay phupi amma meri kya andhera hai phupi
-
+romanLyrics: |-
+  Ay phupi amma meri kya andhera hai phupi
+  Qaid khaane mein sakina ka tha nauha ay phupi
+  Kya andhera hai phupi kya andhera hai phupi
+  Ek shamma mangwaiye ke ho ujaala ay phupi
+  Kya andhera hai phupi kya andhera hai phupi
 
   1
-
-  Qaid khaane mein sakina ka tha nauha ay phupi
-
-  Kya andhera hai phupi kya andhera hai phupi
-
-  Ek shamma mangwaiye ke ho ujaala ay phupi
-
-  Kya andhera hai phupi kya andhera hai phupi
-
   Godh mein apni chupalo dil dhadakta hai mera
-
   Har ghadi lagta hai jaise shimr phir se aa gaya
-
   Paas se mere nahi jaana khudara ay phupi
 
-
   2
-
   Khauf aata hai phupi din ke ujaale mein yahan
-
   Wehshatein hi wehshatein hai qaid khaane mein yahan
-
   Ek pal lagta nahi hai dil hamara ay phupi
 
-
   3
-
   Ab kahan baba ka seena chain ki raatein kahan
-
   Ab kahan wo din rahe wo pyar ki baatein kahan
-
   Aayenge kab laut ke wo din dubaara ay phupi
 
-
   4
-
   Haa abhi kuch dayr pehle mujhko neend aayi to thi
-
   Chand lamhon baad phir se aankh meri khul gayi
-
   Yun laga ho jaise ho baba ne pukara ay phupi
 
-
   5
-
   Aaye Baba To Sunau Mai Sitam Ki Daastaan
-
   Mai Dikhaaungi Rasan Ke Aur Tamacho Ke Nishan
-
   Sun Nahi Paayenge Baba Haal Saara Aye Phuphi
-
-  Kya Andhera Hai Phuphi..... 2'
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:d83e50cfe8396b3aaca1
 # source_url: https://www.nohayonline.com/details_content.php?id=1733
@@ -74,12 +49,12 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 اے پھپھی اماں میری کیا اندھیرا ہے پھپھی
-
-۱
 قید خانے میں سکینہ کا تھا نوحہ اے پھپھی
 کیا اندھیرا ہے پھپھی کیا اندھیرا ہے پھپھی
 ایک شمع منگواییے کے ہو اجالا اے پھپھی
 کیا اندھیرا ہے پھپھی کیا اندھیرا ہے پھپھی
+
+۱
 گود میں اپنی چھپالو دل دھڑکتا ہے میرا
 ہر گھڑی لگتا ہے جیسے شمر پھر سے آ گیا
 پاس سے میرے نہیں جانا خدارا اے پھپھی
