@@ -10,61 +10,62 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab khaak mein chupa chuke beti rasool ki
-  Moo rakh ke apna qabr pe rote rahe ali
-  Quran pad rahe thay jo ro ro ke murtaza
-  Itne mein aayi fatema zahra ki ye sada
-  Marqad pe meri aise na aansu bahaiye
+  Jab khaak mein chhupa chuke beti Rasul ki
+  Muṅh rakh ke apna qabr pe rote rahe Ali
+  Quran parh rahe the jo ro ro ke Murtaza
+  Itne mein aayi Fatima Zehra ki ye sada
+  Marqad pe meri aise na aaṅsu bahaiye
   Ab raat ho chuki hai bahot laut jaaiye
 
   1
-  Maloom hai ye aap ko naazon ke hai palay
-  Bache kabhi bhi raat mein tanha nahi rahe
-  Ghar jaake pyaar kiye khana khilaiye
+  Malum hai ye aap ko nazoṅ ke haiṅ pale
+  Bachche kabhi bhi raat mein tanha nahiṅ rahe
+  Ghar ja ke pyar kiye khana khilaiye
 
   2
-  Bichde hai pehli baar jo maadar se naunehal
-  Bachon ka mere ya ali rakhna bahot khayal
-  Lipta ke apne seene se dhaaras bandhaiye
+  Bichhre haiṅ pahli baar jo maadar se naunehal
+  Bachchoṅ ka mere ya Ali rakhna bahot khayal
+  Lipta ke apne sine se dhaaras baṅdhaiye
 
   3
-  Milta nahi hai chain mere dil ke chain ko
-  Raaton mein pyaas lagti hai mere hussain ko
-  Ashkon ko uske pochiye pani pilaiye
+  Milta nahiṅ hai chain mere dil ke chain ko
+  Raatoṅ mein pyaas lagti hai mere Husain ko
+  Ashkoṅ ko us ke pochhiye pani pilaiye
 
   4
-  Zainab bahot hai choti ye gham seh na payegi
-  Kehna bhi jo chahegi to kuch keh na payegi
-  Bin maa ke kaise rehte hai usko sikhaiye
+  Zainab bahot hai chhoti ye gham seh na paegi
+  Kehna bhi jo chahegi to kuchh keh na paegi
+  Bin maaṅ ke kaise rehte haiṅ us ko sikhaiye
 
   5
-  Ek aarzu hai aap se marqad pe ya ali
-  Le aaiyega bachon ko mere kabhi kabhi
-  Mera nishan e qabr kayi jaa banaiye
+  Ek aarzu hai aap se marqad pe ya Ali
+  Le aaiyega bachchoṅ ko mere kabhi kabhi
+  Mera nishan-e-qabr kai jaa banaiye
 
   6
   Faryad ka na qabr pe rone ka waqt hai
-  Bachon ka mere ya ali sone ka waqt hai
-  Lori thapak ke dijiye unko sulaiye
+  Bachchoṅ ka mere ya Ali sone ka waqt hai
+  Lori thapak ke dijiye un ko sulaiye
 
   7
-  Mujhko yaqeen hai aaj wo hargiz na soyenge
-  Chup chup ke mere hujre mein jaa kar wo royenge
-  Meri nishaniyon ko wahan se hataaiye
+  Mujhko yaqin hai aaj woh hargiz na soeṅge
+  Chhup chhup ke mere hujre mein ja kar woh roeṅge
+  Meri nishaniyoṅ ko wahan se hataiye
 
   8
-  Ainee bhala wo kis tarha bechaargi likhe
-  Aamir na jaane kaise ali qabr se uthay
-  Awaaz bas ye aati rahi gham na khaaiye
+  Ainee bhala woh kis tarha bechargi likhe
+  Aamir na jaane kaise Ali qabr se uthe
+  Aawaz bas ye aati rahi gham na khaiye
+# editorial_uncertainty: Stanza five third line differs between Roman and Urdu source; audio review pending.
 # source_id: nohayonline:ad7e74a2f4f81ec4d600
 # source_url: https://www.nohayonline.com/details_content.php?id=2110
 # raw_sha256: 3d397afb0aa8a9e1954dded371afcd04188dc8a470d9d6e47c1ae9e5c5211c4c
 ---
 جب خاک میں چھپا چکے بیٹی رسول کی
 منہ رکھ کے اپنا قبر پہ روتے رہے علی
-قرآن پڑھ رہے تھے جو رو رو کے مرتظی
+قرآن پڑھ رہے تھے جو رو رو کے مرتضیٰ
 اتنے میں آی فاطمہ زہرا کی یہ صدا
-مرقد پہ میری ایسے نہ آنسوں بہایےء
+مرقد پہ میری ایسے نہ آنسو بہائیے
 اب رات ہو چکی ہے بہت لوٹ جایےء
 
 ۱

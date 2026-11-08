@@ -10,120 +10,96 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaime se ran ke liye jab ali akbar nikle
-  Peeche bete ke jigar thaam ke sarwar nikle
-  
+  Khaime se ran ke liye jab Ali Akbar nikle
+  Pichhe bete ke jigar thaam ke Sarwar nikle
+  Akbar pukare ro kar ab laut jao Baba
+  Bole ye Sheh tarap kar main kaise laut jauṅ
+
   1
-  Akbar pukare ro kar ab laut jao baba
-  Bole ye sheh tadap kar mai kaise laut jaun
-  Haye baba haye haye baba
-  Hai dhoop aag jaisi saaya yahan nahi hai
-  
+  Hai dhup aag jaisi saaya yahan nahiṅ hai
+  Ho tin din se pyase jalti hui zamin hai
+  Paidal chaloge kiuṅ kar ab laut jao Baba
+
   2
-  Ho teen din se pyase jalti hui zameen hai
-  Paidal chaloge kyun kar ab laut jao baba
-  Haye beta haye haye beta
-  Ye to faqat zameen hai gar aag ka ho darya
-  
+  Ye to faqat zamin hai gar aag ka ho darya
+  Chalta rahuṅga paidal chahat mein teri beta
+  Hamsurat-e-Payambar main kaise laut jauṅ
+
   3
-  Chalta rahunga paidal chaahat mein teri beta
-  Hum surat e payambar mai kaise laut jaun
-  Haye baba haye haye baba
-  Sar par musibaton ka ye aasman kab tak
-  
+  Sar par musibatoṅ ka ye aasman kab tak
+  Baba mohabbatoṅ ka ye imtehan kab tak
+  Sine mein dil hai muztar ab laut jao Baba
+
   4
-  Baba mohabbaton ka ye imtehan kab tak
-  Seene mein dil hai muztar ab laut jao baba
-  Haye beta haye haye beta
-  Is imtehan ki azmat tum jaante nahi ho
-  
+  Is imtehan ki azmat tum jaante nahiṅ ho
+  Aulad ki mohabbat tum jaante nahiṅ ho
+  Gardish mein hai muqaddar main kaise laut jauṅ
+
   5
-  Aulaad ki mohabbat tum jaante nahi ho
-  Gardish mein hai muqaddar mai kaise laut jaun
-  Haye baba haye haye baba
-  Sailaab aansuon ke behne se fayda kya
-  
+  Sailab aansuoṅ ke behne se faida kya
+  Yun mere pichhe chalte rehne faida kya
+  Jazbat ko bhula kar ab laut jao Baba
+
   6
-  Yun mere peeche chalte rehne fayda kya
-  Jazbaat ko bhula kar ab laut jao baba
-  Haye beta haye haye beta
   Ahl o ayaal rakhte ghar ko sambhale hote
-  
+  Ae kaash tum bhi beta aulad wale hote
+  Chalta hai dil pe khanjar main kaise laut jauṅ
+
   7
-  Ay kaash tum bhi beta aulaad waale hote
-  Chalta hai dil pe khanjar mai kaise laut jaun
-  Haye baba haye haye baba
-  Jo kuch hai farz mera usko nibharaha hoo
-  
+  Jo kuchh hai farz mera us ko nibha raha huṅ
+  Main din-e-Haq ke khatir maidan mein ja raha huṅ
+  Sabr o raza ke paikar ab laut jao Baba
+
   8
-  Mai deene haq ke khaatir maidan mein jaa raha hoo
-  Sabr o raza ke paikar ab laut jao baba
-  Haye maula haye haye maula
-  Ay aamir aur fakhri tha hashr ka nazara
-  
-  9
-  Dil thaam ke jo ran mein shabbir ne pukara
-  Ay mere laal akbar mai kaise laut jaun
-  Akbar pukare ro kar ab laut jao baba
-  Bole ye sheh tadap kar mai kaise laut jaun
+  Ae Aamir aur Fakhri tha hashr ka nazara
+  Dil thaam ke jo ran mein Shabbir ne pukara
+  Ae mere laal Akbar main kaise laut jauṅ
 # source_id: nohayonline:ead7854d15aa69d33f95
 # source_url: https://www.nohayonline.com/details_content.php?id=2436
 # raw_sha256: 2dd355bcaee08fc317741da7e0b73f8c7924be68464f73cde379293b3a7f5d83
 ---
 
-خیمے سے رن کے لئے جب علی اکبر نکلے
+خیمے سے رن کے لیے جب علی اکبر نکلے
 پیچھے بیٹے کے جگر تھام کے سرور نکلے
+اکبر پکارے رو کر اب لوٹ جاؤ بابا
+بولے یہ شہ تڑپ کر میں کیسے لوٹ جاؤں
 
 ۱
-اکبر پکارے رو کر اب لوٹ جاؤ بابا
-بولے یہ شہ تڑپ کر میں کیسے لوٹ جاؤں
-ہاے بابا ہاے بابا
 ہے دھوپ آگ جیسی سایہ یہاں نہیں ہے
+ہو تین دن سے پیاسے جلتی ہوئی زمین ہے
+پیدل چلو گے کیوں کر اب لوٹ جاؤ بابا
 
 ۲
-ہو تین دن پیاسے جلتی ہوئی زمین ہے
-پیدل چلو گے کیوں کر اب لوٹ جاؤ بابا
-ہاے بیٹا ہاے بیٹا
 یہ تو فقط زمین ہے گر آگ کا ہو دریا
+چلتا رہوں گا پیدل چاہت میں تیری بیٹا
+ہم صورتِ پیمبر میں کیسے لوٹ جاؤں
 
 ۳
-چلتا رہوں گا پیدل چاہت میں تیری بیٹا
-ہم‌ صورت پیمبر میں کیسے لوٹ جاؤں
-ہاے بابا ہاے بابا
 سر پر مصیبتوں کا یہ آسمان کب تک
-
-۴
 بابا محبتوں کا یہ امتحان کب تک
 سینے میں دل ہے مضطر اب لوٹ جاؤ بابا
-ہاے بیٹا ہاے بیٹا
-اس امتحان کی عظمت تم جانتے نہیں ہو
 
-۵
+۴
+اس امتحان کی عظمت تم جانتے نہیں ہو
 اولاد کی محبت تم جانتے نہیں ہو
 گردش میں ہے مقدر میں کیسے لوٹ جاؤں
-ہاے بابا ہاے بابا
+
+۵
 سیلاب آنسوؤں کے بہنے سے فائدہ کیا
+یوں میرے پیچھے چلتے رہنے فائدہ کیا
+جذبات کو بھلا کر اب لوٹ جاؤ بابا
 
 ۶
-یوں میرے پیچھے چلتے رہنے فایدہ کیا
-جزبات کو بھلا کر اب لوٹ جاؤ
-ہاے بیٹا ہاے بیٹا
 اہل و عیال رکھتے گھر کو سنبھالے ہوتے
-
-۷
 اے کاش تم بھی بیٹا اولاد والے ہوتے
 چلتا ہے دل پہ خنجر میں کیسے لوٹ جاؤں
-ہاے بابا ہاے بابا
+
+۷
 جو کچھ ہے فرض میرا اس کو نبھا رہا ہوں
+میں دینِ حق کے خاطر میدان میں جا رہا ہوں
+صبر و رضا کے پیکر اب لوٹ جاؤ بابا
 
 ۸
-میں دین حق کے خاطر میداں میں جا رہا ہوں
-صبر و رضا کے پیکر اب لوٹ جاؤ بابا
-ہاے مولا ہاے ہاے مولا
-اے عامر اور فقری تھا حشر کا نظارہ
-
-۹
+اے عامر اور فخری تھا حشر کا نظارہ
 دل تھام کے جو رن میں شبیر نے پکارا
 اے میرے لال اکبر میں کیسے لوٹ جاؤں
-اکبر پکارے رو کر اب لوٹ جاؤ بابا
-بولے یہ شہ تڑپ کر میں کیسے لوٹ جاؤں

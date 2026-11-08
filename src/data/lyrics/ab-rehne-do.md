@@ -10,40 +10,41 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shamiyon zahra ki hai ye betiyan ab rehne do
-  Kar chuke in par bahot hi sakhtiyan ab rehne do
+  Shamiyoṅ Zehra ki haiṅ ye betiyaṅ ab rehne do
+  Kar chuke in par bahot hi sakhtiyaṅ ab rehne do
 
   1
-  Ab ridayein inki wapas kar do in ko zaalimo
-  Shaam ke bazaar hai aur bastiyan ab rehne do
+  Ab ridaeṅ in ki wapas kar do in ko zalimoṅ
+  Shaam ke bazaar haiṅ aur bastiyaṅ ab rehne do
 
   2
-  Zaalimo tum jaante ho kis khadar maqbool hai
-  Bargaah e rab mein ye sab hastiyan ab rehne do
+  Zalimoṅ tum jaante ho kis qadar maqbul haiṅ
+  Bargah-e-Rab mein ye sab hastiyaṅ ab rehne do
 
   3
-  Aale ahmed ka yehi hai aakhri chashm o chiragh
-  Khol do bemaar ki ye bediyan ab rehne do
+  Aal-e-Ahmad ka yehi hai aakhri chashm o chiragh
+  Khol do bimar ki ye beriyaṅ ab rehne do
 
   4
-  Ab to na dhao sitam nanhi si jaan par shamiyon
-  Le rahi hai maut ki ye hichkiyan ab rehne do
+  Ab to na dhao sitam nanhi si jaaṅ par Shamiyoṅ
+  Le rahi hai maut ki ye hichkiyaṅ ab rehne do
 
   5
-  Dam nahi itni kahe jo shimr se mat cheeno durr
-  Kehti hai mazlooma ki ye siskiyan ab rehne do
+  Dam nahiṅ itna kahe jo Shimr se mat chhino durr
+  Kehti hai mazluma ki ye siskiyaṅ ab rehne do
 
   6
-  Lut gaye ahle haram aur jal gaye qaime sabhi
-  Ho gaya pamaal sheh ka aashiyan ab rehne do
+  Lut gaye Ahl-e-Haram aur jal gaye khaime sabhi
+  Ho gaya pamal Sheh ka aashiyaṅ ab rehne do
 
   7
-  Phat na jaye dil yateema ka sitam ke khauf se
-  Mat dikhao bachi ko yun ghudkiyan ab rehne do
+  Phat na jaaye dil yatima ka sitam ke khauf se
+  Mat dikhao bachchi ko yun ghurkiyaṅ ab rehne do
 
   8
-  Padh ke kehta hai ye aamir ay shanawar loh par
-  Likho na mazloomo ki majburiyan ab rehne do
+  Parh ke kehta hai ye Aamir ae Shanawar lauh par
+  Likho na mazlumoṅ ki majburiyaṅ ab rehne do
+# editorial_uncertainty: Stanza seven source Roman 'ghudkiyan' differs from Urdu 'کھڑکیاں'; audio review pending.
 # source_id: nohayonline:80085dab8e9429b0fab3
 # source_url: https://www.nohayonline.com/details_content.php?id=1273
 # raw_sha256: 465cd87569ac2951b343391ec9ff93e70f3230f8305204ba4b5a33240d4c6c13
@@ -60,7 +61,7 @@ romanLyrics: |-
 بارگاہِ رب میں یہ سب ہستیاں اب رہنے دو
 
 ۳
-آل احمد کا ہیی ہے آخری چشم و چراغ
+آلِ احمد کا یہی ہے آخری چشم و چراغ
 کھول دو بیمار کی یہ بیڑیاں اب رہنے دو
 
 ۴
@@ -72,7 +73,7 @@ romanLyrics: |-
 کہتی ہے مظلومہ کی یہ سسکیاں اب رہنے دو
 
 ۶
-لٹ گےء اہل حرم اور جل گےء خیمے سبھی
+لٹ گئے اہلِ حرم اور جل گئے خیمے سبھی
 ہو گیا پامال شہ کا آشیاں اب رہنے دو
 
 ۷

@@ -10,53 +10,53 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro rahi hai tumhari sakina
-  Laut aao chacha alqama se
-  Pyaas ashkon se apni bujha lungi
-  Ab mai pani na maangungi
+  Ro rahi hai tumhari Sakina
+  Laut aao Chacha Alqama se
+  Pyaas ashkoṅ se apni bujha luṅgi
+  Ab main pani na maṅguṅgi
 
   1
-  Aur kuch roz pyase rahe bhi to kya
-  Pyaas se bad ke gham aap ka hai chacha
-  Koi dega na ab al atash ki sada
-  Pyase bachon ko mai khud mana lungi
+  Aur kuchh roz pyase rahe bhi to kya
+  Pyaas se barh ke gham aap ka hai Chacha
+  Koi dega ab al-atash ki sada
+  Pyase bachchoṅ ko main khud mana luṅgi
 
   2
-  Pani aaye na aaye mujhe gham nahi
-  Par ye furqat yateemi se kuch kam nahi
-  Yun samajhlo chacha tum nahi hum nahi
-  Mai na shikwa kabhi lab pe laungi
-  Pyase bachon ko mai khud mana lungi
+  Pani aaye na aaye mujhe gham nahiṅ
+  Par ye furqat yatimi se kuchh kam nahiṅ
+  Yun samajh lo Chacha tum nahiṅ hum nahiṅ
+  Main na shikwa kabhi lab pe lauṅgi
 
   3
-  Zaalimon ne mujhe besahara kiya
-  Maine kaaton pe chalna gawara kiya
-  Dil ke zakhmo ne nauha dubara kiya
-  Sab ghamon ko gale se laga lungi
+  Zalimoṅ ne mujhe besahara kiya
+  Main ne kaantoṅ pe chalna gawara kiya
+  Dil ke zakhmoṅ ne nauha dubara kiya
+  Sab ghamoṅ ko gale se laga luṅgi
 
   4
   Yun sitamgar mujhe ab satane lage
   Pani mujhko dikha kar bahane lage
-  Zakhm dil ke tumhe phir bulaane lage
-  Zaalimon se tamache bhi khaa lungi
+  Zakhm dil ke tumhein phir bulane lage
+  Zalimoṅ se tamache bhi kha luṅgi
 
   5
-  Raah mein mil bhi jayega pani agar
-  Daal dungi mai abid ki zanjeer par
-  Haan ye nauha rahega labon par magar
-  Pyasa rehna mai khud no sikha lungi
+  Raah mein mil bhi jaega pani agar
+  Daal duṅgi main Abid ki zanjir par
+  Haaṅ ye nauha rahega laboṅ par magar
+  Pyasa rehna main khud ko sikha luṅgi
 
   6
-  Chal basi qaid khane mein jab ghamzada
-  Ghusl e mayyat ko pani mayyasar na tha
-  Aaye laashe sakina se us dam sada
-  Mai bina ghusl ke hi sidharungi
+  Chal basi qaidkhane mein jab ghamzada
+  Ghusl-e-mayyat ko pani muyassar na tha
+  Aaye laash-e-Sakina se us dam sada
+  Main bina ghusl ke hi sidharuṅgi
 
   7
-  Ek din shaam farhan o mazhar gaye
-  Ek mashqeeza pani ka lekar gaye
+  Ek din Shaam Farhan o Mazhar gaye
+  Ek mashkiza pani ka le kar gaye
   Ek sada sun ke aisa laga mar gaye
-  Apna waada yahan bhi nibha lungi
+  Apna waada yahan bhi nibha luṅgi
+# editorial_uncertainty: Urdu lacks the 'na' in stanza one third line; final source lines contain OCR mistakes. Compare audio before adjudication.
 # source_id: nohayonline:5e753083e5201348a98b
 # source_url: https://www.nohayonline.com/details_content.php?id=2646
 # raw_sha256: 3ad9049bbd7c8e7397cbd43494219d0e32930159922956c48b71fca3114cf816
@@ -77,7 +77,6 @@ romanLyrics: |-
 پر یہ فرقت یتیمی سے کچھ کم نہیں
 یوں سمجھ لو چچا تم نہیں ہم نہیں
 میں نہ شکوہ کبھی لب پہ لاؤں گی
-پیاسے بچوں کو میں خود منا لوں گی
 
 ۳
 ظالموں نے مجھے بے سہارا کیا
@@ -101,10 +100,10 @@ romanLyrics: |-
 چل بسی قید خانے میں جب غمزدہ
 غسل میت کو پانی میسر نہ تھا
 آے لاشے سکینہ سے اس دم صدا
-میں بنا غسل کے ہی ساھاروں گی
+میں بنا غسل کے ہی سدھاروں گی
 
 ۷
 ایک دن شام فرحان و مظہر گےء
 ایک مشکیزہ پانی کا لے کر گےء
 اک صدا سن کے ایسا لگا مر گےء
-اپنا وعدہ یہاں بھینبھالوں گی
+اپنا وعدہ یہاں بھی نبھا لوں گی
