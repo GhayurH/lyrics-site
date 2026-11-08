@@ -7,7 +7,8 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases:
+  - "Khafila Ja Raha Hai"
 published: false
 romanLyrics: |-
   Khafila jaa raha hai watan ke liye
@@ -78,6 +79,12 @@ romanLyrics: |-
 # source_id: nohayonline:c21910e95c6e0e1fe089
 # source_url: https://www.nohayonline.com/details_content.php?id=3689
 # raw_sha256: 5457e174d32e858f7dca5f6eaf9c40d505c9dc129523968f7c3e4e452021ce21
+# source_id: nohayonline:565e0d5a77e24c722937
+# source_url: https://www.nohayonline.com/details_content.php?id=47
+# raw_sha256: 444f8dc4a5fd184dcc6fbb86747d353bc791eb2c8d1a3aa087d7fdcfcf0d57bc
+# source_id: ziyaraat:ff121426e5341c119776
+# source_url: https://www.ziyaraat.net/api/noha/1196
+# raw_sha256: 583cc4112e87372348b477caf2ae6565b1bbee17cab9866198df79ec24bc9770
 ---
 
 قافلہ جا رہا ہے وطن کے لئے
