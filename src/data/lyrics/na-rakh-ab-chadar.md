@@ -9,93 +9,54 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Na rakh ab chadar baazuon pe
-
-
-  1
-
+romanLyrics: |-
+  Na rakh ab chadar baazuon pe
   Tu neele daagh chupa nahi
-
   Zahra ki jaan sharma nahi
-
   Tera nana ka ye rauza hai
-
   Koi koofa shaam ka raah nahi
-
+  
+  1
   Jo chadar ujli thi teri
-
   Rang uska kaise laal hua
-
   Ab sar pe tere ay shehzadi
-
   Wo kyun maujood rida nahi
-
-
+  
   2
-
   Atthara jo tere bhai thay
-
   Kis baat pe tujhse rooth gaye
-
   Do shehzade kyun saath nahi
-
   Kyun saath abbas tera nahi
-
-
+  
   3
-
   Ye kaun jawan hai saath tere
-
   Hai kapde jiske khoon se bhare
-
   Kin zakhmon se ye choor hua
-
   Aankhon se bhi khoon rukta nahi
-
-
+  
   4
-
   Kis haal mein karbal se aayi
-
   Ay zainab apne shehr mein tu
-
   Ab is se siwa afsos ho kya
-
   Pehchaan saki sughra nahi
-
-
+  
   5
-
   Wo bacchi jisko seene pe
-
   Shabbir sulaaya karte thay
-
   Mere aankhein dhoond ke haar gayi
-
   Kahin milta uska pata nahi
-
-
+  
   6
-
   Ek ghuncha dahan masoom bhi tha
-
   Naam uska asghar rakha tha
-
   Kyun khaali godh rabab ki hai
-
   Asbaab mein kyun jhoola nahi
-
-
+  
   7
-
   Rehaan karo har dam matam
-
   Tum nauha pado har dam sarwar
-
   Ye ek ibadat hai aisi
-
-  Jo hoti kabhi bhi qaza nahi'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+  Jo hoti kabhi bhi qaza nahi
 # source_id: nohayonline:6ea31efacc0b992f5254
 # source_url: https://www.nohayonline.com/details_content.php?id=3314
 # raw_sha256: 53a057c7ef383991d51b136068130403ea1381ee3bb810c905e4e4e1d8026722
@@ -105,12 +66,12 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 نہ رکھ اب چادر بازوؤں پہ
-
-۱
 تو نیلے داغ چھپا نہیں
 زہرا کی جاں شرما نہیں
 تیرے نانا کا یہ روضہ ہے
 کوی کوفہ شام کی راہ نہیں
+
+۱
 جو چادر اجلی تھی تیری
 رنگ اس کا کیسے لال ہوا
 اب سر پہ تیرے اے شہزادی
