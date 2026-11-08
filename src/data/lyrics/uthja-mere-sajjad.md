@@ -14,14 +14,14 @@ romanLyrics: |-
   Aun o muhamed ki wo maa
   Aayi sajjad ke qaime mein
   Kaha shaana hila kar rote huwe
-
-  1
   Aabaad rahegi karbobala
   Chal shaam kare aabaad
   Uth jaa mere sajjad
   Mera maajaya nahi aaya
   Sun zainab ki faryad
   Uth jaa mere sajjad
+
+  1
   Amma ka haath gale par tha
   Door se dekha tha maine
   Maqtal mein sookhi gardan par
@@ -88,14 +88,14 @@ romanLyrics: |-
 عون و محمد کی ماں
 آئی سجاد کے خیمے میں
 کہا شانہ ہلا کر رُوتے ہوئے
-
-۱
 آباد رہے گی کرب و بلا
 چل شام کریں آباد
 اُٹھ جا میرے سجاد
 میرا ماںجایا نہیں آیا
 سُن زینب کی فریاد
 اُٹھ جا میرے سجاد
+
+۱
 اماں کا ہاتھ گلے پر تھا
 دُور سے دیکھا تھا میں نے
 مقتل میں سوکھی گردن پر

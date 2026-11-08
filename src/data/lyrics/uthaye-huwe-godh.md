@@ -11,18 +11,18 @@ aliases: []
 published: false
 romanLyrics: |-
   Uthaye huwe godh mein sar pidar ka
-  
-  1
   Sakina ye kehti thi le kar balayein
   Sunaati hoo mai qaid khane ki baatein
   Mujhe aap maqtal ki baatein sunayein
+
+  1
   Labon pe chadi aap ke jab lagi thi
   Mai darbar mein saamne hi khadi thi
   Lagaye tamache mujhe jab shaqi ne
   Nazar aap ki meri jaanib uthi thi
   Ye sab neel chehron ke shahid hai kaise
   Hamein shaam waalon ne di hai sazayein
-  
+
   2
   Mai naaqe pe thi aap naize pe baba
   Mere paas se sar kabhi jo guzarta
@@ -30,7 +30,7 @@ romanLyrics: |-
   Layeen aa ke baalon se mujhko uthaata
   Mera kaun tha jisko awaaz deti
   Kise kehti zaalim se aa kar bachayein
-  
+
   3
   Rasan ek thi aur baara galay thay
   Yun hum log bazaar mein chal rahe thay
@@ -38,7 +38,7 @@ romanLyrics: |-
   So ek mod pad gir padi ladkhadake ke
   Badi mushkilon se uthaaya phupi ne
   Layeeno ki khwahish thi bas rondh jaayein
-  
+
   4
   Musalsal sitam kar rahe thay sitamgar
   Bahot khush thay wo kaat kar aap ka sar
@@ -46,7 +46,7 @@ romanLyrics: |-
   Na thanda hua dil jo khanjar chala kar
   Sataya hai yun aap ko zaalimon ne
   Wahin sar rakha rakhi jis jaa ridayein
-  
+
   5
   Kahin thi mai qaidan kahin thi yateema
   Naye shehr mein naam mera naya tha
@@ -54,7 +54,7 @@ romanLyrics: |-
   Ke mai bhool baithi thi khud naam apna
   Mai ye saare dukh bhool jaaungi baba
   Sakina jo ek baar keh kar bulayein
-  
+
   6
   Lehad mein ye baba se boli wo akbar
   Mujhe yaad hai karbala ka wo manzar
@@ -66,13 +66,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2079
 # raw_sha256: bf75467bff8ed7e71a31372c34c5f797b3a05ea71391aebb12ccb113cbb886cd
 ---
-
 اٹھائے ہوئے گود میں سر پدر کا
-
-۱
 سکینہ یہ کہتی تھیں لے کر بلائیں
 سناتی ہوں میں قید خانے کی باتیں
 مجھے آپ مقتل کی باتیں سنائیں
+
+۱
 لبوں پہ چھڑی آپ کہ جب لگی تھی
 میں دربار میں سامنے ہی کھڑی تھی
 لگائے طمانچے مجھے جب شقی نے
