@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zille Raza Zaidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
