@@ -9,79 +9,46 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Salle Ala Nabi Ye Naam, Salle Ala Mohammadin -2
-
-  Sallalaho Alaihi Wassallam.....2
-
+romanLyrics: |-
+  Salli Ala Nabiyyina Salli Ala Muhammadin
+  Sallallahu Alaihi Wasallam
+  Muhammad Hamare Badi Shaan Waale
+  Wo Nabiyon Mein Rehmat Laqab Paane Waale
 
   1
-
-  Mohammad Hamare Badi Shaan Waale..... (3)
-
-
-  2
-
   Khuda jiske seene pe quran utaare
-
   Mudassir kahe aur muzammil pukare
-
   Wo noor e khuda do jahan ke ujaale
 
-  Mohamed hamare...
-
-
-  3
-
+  2
   Jab Aaie Zameen Par Mohammad Hamare
-
   Falak ne Zameen Par Bichaie Sitare
-
   Uthae Sar zameen Ne Arab Se Yeh Naare
 
-
-  4
-
+  3
   Nawase Jo Roye To Roye Mohammad
-
   Woh Jab Taq Na Soye Na Soye Mohammad
-
   Do Aankhe Nabi Ki The Dono Nawase
 
-
-  5
-
+  4
   Nawasa mazaare mohamed pe aaya
-
   Kaha pyare nana ye waada hai mera
-
   Hai islam ab karbala ke hawale
 
-
-  6
-
+  5
   Sada aayi qabre mohamed se beta
-
   Duago hai nana ali aur zehra
-
   Chale ghazi abbas parcham sambhale
 
-
-  7
-
+  6
   Woh Ashur Ka Din Mohammad Ka Qunba
-
   Jo Maqtal Mein Deen Ko Lahu De Raha Tha
-
   Yeh Keh Keh Ke Sino Pe Khaaye Hai Bhaale
 
-
-  8
-
+  7
   Rehaan o ali jee azadare sarwar
-
   Ghulamane hyder ghulame payambar
-
-  Sada is sada se zamana mila le'
+  Sada is sada se zamana mila le
 reciter: Ali Shanawar
 # source_id: nohayonline:102264144e4d28e0fc5f
 # source_url: https://www.nohayonline.com/details_content.php?id=843
@@ -93,7 +60,6 @@ reciter: Ali Shanawar
 # source_url: https://www.ziyaraat.net/api/noha/2943
 # raw_sha256: 2782beaa61e940ff2de581ae85096afe57f22c2a453256e025bf3590a9c2e482
 ---
-
 صل علٰی نبیینا صلی علی محمدن
 صل اللہ علیہ وسلم
 محمد ہمارے بڑی شان والے
@@ -103,7 +69,6 @@ reciter: Ali Shanawar
 خدا جس کے سینے پہ قرآں اتارے
 مدثر کہے اور مزمل پکارے
 وہ نور خدا دو جہاں کے اجالے
-محمد(ص) ہمارے بڑی شان والے – صلی اللہ علیہ وسلم
 
 ۲
 جب آۓ زمیں پر محمد(ص) ہمارے
