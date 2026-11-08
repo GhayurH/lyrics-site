@@ -9,102 +9,60 @@ poet: "Mirza Dabeer"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Yasrab mein aayi khwaab mein zainab ke yun batool
-
+romanLyrics: |-
+  Yasrab mein aayi khwaab mein zainab ke yun batool
   Maatha bhara tha khoon mein sar par rida na thi
 
-
   1
-
   Zainab ne poocha kis ke lahoo se jabeen hai laal
-
   Amma tum par to aafat e safar e karbala na thi
-
   Ro kar kaha batool ne tum yaad to karo
-
   Tum apni yaad ko zara aabaad to karo
 
-
   2
-
   Kis waqt kis jagah mai shareek-e-aza na thi
-
   Ye maa kahan na thi
-
   Zainab safar mein saath tere maa kahan na thi
 
-
   3
-
   Royi tumhare saath bahattar ki laash par
-
   Akbar ki laash par ali asghar ki laash par
-
   Zainab mai kis shaheed ki saahib aza na thi
 
-
   4
-
   Jhaada tha kis ne baalon se sehra e karbala
-
   Kis ne bichaya aa ke musalla e karbala
-
   Haye haye mai karbala mein shabe qatl kya na thi
 
-
   5
-
   Rakht e kohan hussain ne maanga tha jis ghadi
-
   Qaime mein bibi tum ko ghash aaya tha jis ghadi
-
   Qaime ke peeche rone ki meri sada na thi
 
-
   6
-
   Rukhsat ko aaya qaime mein jab ibne bu turab
-
   Thaami thi tum ne jis ghadi mazloom ki rakaab
-
   Kya saath saath ghode ke mai nange paa na thi
 
-
   7
-
   Jab tum giri thi bhai ke laashe pe oont se
-
   Naaqe pe tum sawaar thi baazu rasan mein thay
-
   Kya baal khole laash pe khairunnisa na thi
 
-
   8
-
-  Yasrab se taa''ba maariya aur wan se taa''ba shaam
-
+  Yasrab se taa'ba maariya aur wan se taa'ba shaam
   Humraah thi qadam ba qadam saath gaam gaam
-
   Zainab kahin hussain se zahra juda na thi
 
-
   9
-
   Zainab ne arz ki ke baja kehti hai janab
-
   Mai sun rahi hoon jo ba-khuda kehti hai janab
-
   Ay waalida mujhe khabar e dast o paa na thi
 
-
   10
-
   Imsaal bhi najaf ka iraada tha ay dabeer
-
   Aur karbala bhi jaaun ye socha tha ay dabeer
-
-  Par reh gaye tadap ke ke qismat rasa na thi'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+  Par reh gaye tadap ke ke qismat rasa na thi
 # source_id: nohayonline:cafe823512a3caa848fd
 # source_url: https://www.nohayonline.com/details_content.php?id=3322
 # raw_sha256: f4f397a18ecf4c23e67d862c1ef9fdb1d18393d4c411ed93039346d13e71ede2
@@ -112,7 +70,6 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_url: https://www.ziyaraat.net/api/noha/1232
 # raw_sha256: 84189467b6f3e11cd156c32e317f844cc0912e5b6d99474786210df381d06ee7
 ---
-
 یثرب میں آی خواب میں زینب کے یوں بتول
 ماتھا بھرا تھا خون میں سر پر ردا نہ تھی
 

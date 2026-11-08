@@ -12,12 +12,11 @@ published: false
 romanLyrics: |-
   Hai sogh jis jagah bhi shahe mashraqain ka
   Khud pursa zahra leti hai is noor e ain ka
-
-  1
   Rona sawab jis pe na rona haram hai
   Chashme khuda mein iska bada ehteraam hai
   Ye majlis e hussain alaihis salaam hai
-  Chashme khuda mein iska bada ehteraam hai
+
+  1
   Ye majlise hai hamd e khuda naat e mustafa
   In majlison mein hota hai quran lab kusha
   In majlison se milta hai jannat ka raasta
@@ -64,12 +63,11 @@ romanLyrics: |-
 ---
 ہے سوگ جس جگہ بھی شہ مشرقین کا
 خود پرسہ زہرا لیتی ہے اس نور عین کا
-
-۱
 رونا ثواب جس پہ نہ رونا حرام ہے
 چشمِ خدا میں اس کا بڑا احترام ہے
 یہ مجلس حسین علیہ السّلام ہے
-چشمِ خدا میں اس کا بڑا احترام ہے
+
+۱
 یہ مجلسیں ہے حمد خدا نعت مصطفیٰ
 ان مجلسوں میں ہوتا ہے قرآن لب کشا
 ان مجلسوں سے ملتا ہے جنت کا راستہ
