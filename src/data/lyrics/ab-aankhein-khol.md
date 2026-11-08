@@ -10,60 +10,60 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab suni shaah ne awaaz jawan bete ki
-  Laash par aake ye farmane lage sibte nabi
-  Ab aankhein khol do akbar sirhane aagaya baba
-  Zaeefi mein jawan laasha uthane aagaya baba
+  Jab suni Shah ne aawaz jawaṅ bete ki
+  Laash par aa ke ye farmane lage Sibt-e-Nabi
+  Ab aankheṅ khol do Akbar sirhane aa gaya Baba
+  Zaifi mein jawaṅ laasha uthane aa gaya Baba
 
   1
-  Guzar jayenge hum is imtehan se ya ali keh kar
-  Nikal jayegi ye barche na ghabrana mere dilbar
-  Tumhara haath seene se hatane aagaya baba
+  Guzar jaeṅge hum is imtehan se ya Ali keh kar
+  Nikal jaegi ye barchhi na ghabrana mere dilbar
+  Tumhara haath sine se hatane aa gaya Baba
 
   2
-  Unhone kya samajh rakha tha akbar be-sahara hai
-  Ishare se bata do kisne kisne tum ko maara hai
-  Ulat kar aastin mehshar uthaane aagaya baba
+  Unhoṅ ne kya samajh rakha tha Akbar besahara hai
+  Ishare se bata do kis ne kis ne tum ko maara hai
+  Ulat kar aastin mahshar uthane aa gaya Baba
 
   3
-  Chali aayi thi aadhe raaste tak saani e zehra
-  Badi mushkil se bheja hai qasam de kar teri beta
-  Behen kaise tadapti hai batane aagaya baba
+  Chali aayi thi aadhe raste tak Saani-e-Zehra
+  Bari mushkil se bheja hai qasam de kar teri beta
+  Behen kaise tarapti hai batane aa gaya Baba
 
   4
-  Kaha tha kisi ne seene mein tumhare tod kar naiza
-  Ye manzar dekh kar shabbir zinda reh na payega
-  Khabar kar do usay barchi chudane aagaya baba
+  Kaha tha kisi ne sine mein tumhare tor kar neza
+  Ye manzar dekh kar Shabbir zinda reh na paega
+  Khabar kar do use barchhi chhurane aa gaya Baba
 
   5
-  Lade ho dayr tak thak to gaye hoge mere dilbar
-  Mujhe mat rokna hargiz tumhe meri qasam akbar
-  Tumhare chand se baazu dabane aagaya baba
+  Lare ho der tak thak to gaye hoge mere dilbar
+  Mujhe mat rokna hargiz tumhein meri qasam Akbar
+  Tumhare chand se baazu dabane aa gaya Baba
 
   6
-  Uthaata dhoom se mayyat agar hota madine mein
-  Kafan mai de nahi sakta yehi hai dard seene mein
-  Amaama tumko nana ka udhaane aagaya baba
+  Uthata dhum se mayyat agar hota Madine mein
+  Kafan main de nahiṅ sakta yehi hai dard sine mein
+  Amama tumko Nana ka urhane aa gaya Baba
 
   7
-  Jo rota dekhti mujhko tadap jaati meri madar
-  Mai khul kar ro nahi paaya mohamed ke janaze par
-  Jo aansu reh gaye thay wo bahane aagaya baba
+  Jo rota dekhti mujhko tarap jaati meri maadar
+  Main khul kar ro nahiṅ paaya Muhammad ke janaze par
+  Jo aansu reh gaye the woh bahane aa gaya Baba
 
   8
-  Nazar kaise lagegi ab badan saanso se khaali hai
-  Kalayi se tumhari kaali dori khulne waali hai
-  Phupi ki aakhri mannat badhane aagaya baba
+  Nazar kaise lagegi ab badan saansoṅ se khaali hai
+  Kalai se tumhari kaali dori khulne wali hai
+  Phuphi ki aakhri mannat barhane aa gaya Baba
 
   9
-  Nazar aa jayega tumko behen hai ab kahan beta
-  Utho dekho hamari ungliyon ke darmiyan beta
-  Tumhe sughra ki tanhaai dikhane aagaya baba
+  Nazar aa jaega tumko behen hai ab kahan beta
+  Utho dekho hamari ungliyoṅ ke darmiyaṅ beta
+  Tumhein Sughra ki tanhai dikhane aa gaya Baba
 
   10
-  Padhi nade ali le kar chale sheh laasha e akbar
-  Takkalum aayi pehlu se sada e faatahe khyber
-  Mere beta teri himmat badhane aagaya baba
+  Parhi Nad-e-Ali le kar chale Sheh laasha-e-Akbar
+  Takallum aayi pahlu se sada-e-Fatih-e-Khaibar
+  Mere beta teri himmat barhane aa gaya Baba
 # source_id: nohayonline:97e9e4fdc456b945a2ca
 # source_url: https://www.nohayonline.com/details_content.php?id=2751
 # raw_sha256: d9f7602cffa1ad3f083c5aa3a1c889d094bcc125d95300bf9c9cd9e199155b4b
@@ -80,8 +80,8 @@ romanLyrics: |-
 
 ۲
 انہوں نے کیا سمجھ رکھا تھا اکبر بے سہارا ہے
-اشارے سے بتا دو کس نے\ کس نے تم کو مارا ہے
-الٹ کر آستیں محشر\ اٹھانے آ گیا بابا
+اشارے سے بتا دو کس نے کس نے تم کو مارا ہے
+الٹ کر آستیں محشر اٹھانے آ گیا بابا
 
 ۳
 چلی آی تھی آدھے راستے تک ثانیء زہرا

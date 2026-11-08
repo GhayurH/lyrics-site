@@ -9,60 +9,61 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aayi ye arsh e paak se allah ki sada
-  Ab ay hussain aa ab ay hussain aa
+  Aayi ye arsh-e-pak se Allah ki sada
+  Ab ae Husain aa ab ae Husain aa
   
   1
-  Aaja palat ke rab ki taraf aa hussain aa
-  Ay mere mustafa ke kalaf aa hussain aa
-  Ay laqte qalbe shaahe najaf aa hussain aa
-  Sar kar gaya hai jaan bakaf aa hussain aa
-  Hyder ke laal fatema zehra ke noore ain
-  Noore nazar rasool ke zehra ke dil ke chain
-  Jannat ke baadhshah shehensahe mashraqain
+  Aaja palat ke rab ki taraf aa Husain aa
+  Ae mere mustafa ke kalaf aa Husain aa
+  Ae laqte qalbe shaahe najaf aa Husain aa
+  Sar kar gaya hai jaan bakaf aa Husain aa
+  Haider ke laal Fatima Zehra ke nur-e ain
+  Nur-e nazar rasool ke zehra ke dil ke chain
+  Jannat ke badshah shehensahe mashraqain
   Tere liye hai kaun o makan ke ye zeb o zain
-  Nana se apne tu ne jo waada kiya hussain
-  Mesaaq waale ehd ko poora kiya hussain
-  Tu ne jo mere saamne sajda kiya hussain
-  Haq bandagi ka tu ne ada kar diya hussain
+  Nana se apne tu ne jo waada kiya Husain
+  Mesaaq waale ehd ko poora kiya Husain
+  Tu ne jo mere saamne sajda kiya Husain
+  Haq bandagi ka tu ne ada kar diya Husain
   Ab tere mere beech nahi koi faasla
   
   2
-  Teeron par teer tere badan par baras gaye
+  Tiroṅ par teer tere badan par baras gaye
   Pani ki boondh boondh ko bacche taras gaye
   Ghazi ne tere nehr pe katwa diye hai haath
   Zinda rahenge haath ye mashk o alam ke saath
   Islam sar barehna khada tha jo saamne
   Zainab ne apne sar ki rida baksh di usay
-  Zehra ne chakki pees ke paala tujhe hussain
-  In dushmano ne maar hi daala tujhe hussain
-  Tu ne jawan pisar ali akbar bhi de diya
-  Shish maah bezuban ali asghar bhi de diya
+  Zehra ne chakki pees ke paala tujhe Husain
+  In dushmano ne maar hi daala tujhe Husain
+  Tu ne jawaṅ pisar ali akbar bhi de diya
+  Shish maah bezubaṅ ali asghar bhi de diya
   Ghar ko mere bachane bhara ghar bhi de diya
   Islam ki baqa ke liye sar bhi de diya
-  Ab saari kayenaat tere naam hai hussain
-  Islam tere dam se hi islam hai hussain
-  Haa mai hoo tera tu hai mera
+  Ab saari kainat tere naam hai Husain
+  Islam tere dam se hi islam hai Husain
+  Haaṅ main huṅ tera tu hai mera
   
   3
-  Zakhmon se choor choor hai tera badan hussain
-  Jangal mein lut gaya tera saara chaman hussain
-  Laashon se saj gayi hai teri anjuman hussain
-  Ab karbala ki khaak hai tera watan hussain
+  Zakhmon se chur chur hai tera badan Husain
+  Jangal mein lut gaya tera saara chaman Husain
+  Laashon se saj gayi hai teri anjuman Husain
+  Ab karbala ki khaak hai tera watan Husain
   Khaak e shafa hai maine teri khaak ko kiya
-  Takmeel tujhse panjetan e paak ko kiya
-  Tu mera aaena hai mai hoo aaena tera
+  Takmeel tujhse Panjtan-e-Pak ko kiya
+  Tu mera aaina hai main huṅ aaina tera
   
   4
-  Hussain marzi e khaaliq hai tere haathon mein
+  Husain marzi e khaaliq hai tere haathon mein
   Payam o haq o sadaqat hai tere haathon mein
   Ba ho chuki ye jang har ek maareka hua
-  Raazi hussain tujhse tera kibriya hua
-  Rakh ay hussain apni ye shamsheer niyam mein
+  Raazi Husain tujhse tera kibriya hua
+  Rakh ae Husain apni ye shamsheer niyam mein
   Aa baargahe jalwa e rabbe anaam mein
   Zakhmon se saara jism sajaya hua hai tu
   Apne lahoo mein aaj nahaya hua hai tu
   Tanha khada rahega bhala kab talak bata
+# editorial_uncertainty: NoHayOnline currently blocks verification. Irregular source stanza structure and further readings need review.
 # source_id: nohayonline:0e3ac9ae084f8d99ee57
 # source_url: https://www.nohayonline.com/details_content.php?id=2452
 # raw_sha256: fea717a0a7952913eea1cd9f80c6921895e84946f7ed29c44709ece8f670740a

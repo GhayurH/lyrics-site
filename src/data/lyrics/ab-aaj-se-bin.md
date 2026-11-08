@@ -10,63 +10,63 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai dunya mein beti bahot aise bacche
-  Sada baap nahi jeete hai kisi ke
+  Hai dunya mein beti bahot aise bachche
+  Sada baap nahiṅ jite haiṅ kisi ke
   Ab aaj se bin baap ki kehlaogi beti
-  Sheh bali sakina se ye farmate thay ro kar
-  Aa lag jaa kaleje se sukoon e dil e sarwar
+  Sheh baali Sakina se ye farmate the ro kar
+  Aa lag ja kaleje se sukun-e-dil-e-Sarwar
 
   1
-  Kuch lamhon mein ghir jaunga mai fauje jafa mein
-  Sab khoon ke pyase hai mere karbobala mein
-  Phayrega layeen sookhe galay par mere khanjar
+  Kuchh lamhoṅ mein ghir jaunga main fauj-e-jafa mein
+  Sab khun ke pyase haiṅ mere Karbobala mein
+  Pherega lain sukhe gale par mere khanjar
 
   2
-  Allah ke is dehr mein dastoor hai aise
-  Zinda nahi rehte hai sada baap kisi ke
-  Jo dehr mein aaya hai usay jaana hai dilbar
+  Allah ke is dahr mein dastur hai aise
+  Zinda nahiṅ rehte haiṅ sada baap kisi ke
+  Jo dahr mein aaya hai use jaana hai dilbar
 
   3
-  Maanind yateemon ki tujhe aah mai banadun
-  Aa tujhko mai poshak e yateemi bhi pinhadun
-  Maare na kahin shimr tamache tere rukh par
+  Manind-e-yatimoṅ ki tujhe aah main bana duṅ
+  Aa tujhko main poshak-e-yatimi bhi pahna duṅ
+  Maare na kahiṅ Shimr tamache tere rukh par
 
   4
-  Qaime mein chali jao meri jaan sakina
-  Sab hogaye ab deen pe qurban sakina
-  Imdad ko aayenge na abbas e dilawar
+  Khaime mein chali jao meri jaan Sakina
+  Sab ho gaye ab din pe qurban Sakina
+  Imdad ko aaeṅge na Abbas-e-dilawar
 
   5
-  Aa tujhko kaleje se mai ek baar lagalun
-  Ek baar tujhe aur mai seene pa sulalun
-  Ab aaj se soyega mere seene pa asghar
+  Aa tujhko kaleje se main ek baar laga luṅ
+  Ek baar tujhe aur main sine pe sula luṅ
+  Ab aaj se soega mere sine pe Asghar
 
   6
-  Waada karo mujhse ay meri raahate jaani
-  Ro ro ke na zainab se meri maangogi pani
-  Jab royegi tu royega naize pe mera sar
+  Waada karo mujh se ae meri rahat-e-jaani
+  Ro ro ke na Zainab se meri maangogi pani
+  Jab roegi tu roega neze pe mera sar
 
   7
-  Ab zid na karo chodo meri beti aba ko
-  Kuch lamho mein cheenege udoo teri rida ko
-  Ho jaogi ab aaj se be-maqna o chadar
+  Ab zid na karo chhoro meri beti aba ko
+  Kuchh lamhoṅ mein chhineṅge adu teri rida ko
+  Ho jaogi ab aaj se bemaqna o chadar
 
   8
-  Ab haafiz o nasir tera allah sakina
-  Hoga na meinassar tujhe ab mera ye seena
-  Ye khaakh ki ab aaj se hoga tera bistar
+  Ab Hafiz o Nasir tera Allah Sakina
+  Hoga na muyassar tujhe ab mera ye sina
+  Ye khaak hi ab aaj se hoga tera bistar
 
   9
-  Aamir ye sada sun ke tadapti thi sakina
-  Aalam yehi farmate thay jab shaahe madina
-  Ab baad mere tum ko satayenge sitamgar
+  Aamir ye sada sun ke tarapti thi Sakina
+  Alam yehi farmate the jab Shah-e-Madina
+  Ab baad mere tum ko sataeṅge sitamgar
 # source_id: nohayonline:f9db7a6f28ec777c6bf4
 # source_url: https://www.nohayonline.com/details_content.php?id=2435
 # raw_sha256: bef93887916c8d84ab7edafe04495cf08581889bdf3aaa6bca9db7a58ded6df2
 ---
 ہے دنیا میں بیٹی بہت ایسے بچے
-صدا باپ نہیں جیتے ہیں کسی کے
-اب آج سے بن باپ کی کہہ لونگی بیٹی
+سدا باپ نہیں جیتے ہیں کسی کے
+اب آج سے بن باپ کی کہلاؤ گی بیٹی
 شہ بالی سکینہ سے یہ فرماتے تھے رو کر
 آ لگ جا کلیجے سے سکون دل سرور
 
