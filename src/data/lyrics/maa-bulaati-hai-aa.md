@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Toote bande kafan fatema ke
   Aur phir haath nikle kafan se
-
-  1
   Aayi awaaz aa ay hussain
   Maa bulaati hai aa ay hussain
   Maa bulaati hai aa ay hussain
   Aa mere paas aa ya hussain
+
+  1
   Aaye shabbir zehra ke lab yun hilay
   Chakkiyan pees ke maine paala tujhe
   Aa mere laal aa maa ke lag ja galay
@@ -70,12 +70,12 @@ romanLyrics: |-
 ---
 ٹوٹے بند کفن فاطمہ کے
 اور پھر ہاتھ نکلے کفن سے
-
-۱
 آی آواز آ اے حسین
 ماں بلاتی ہے آ اے حسین
 ماں بلاتی ہے آ اے حسین
 آ میرے پاس آ اے حسین
+
+۱
 آے شبیر زہرا کی لب یوں ہلے
 چکیاں پیس کے میں نے پالا تجھے
 آ میرے لال آ ماں کے لگ جا گلے
