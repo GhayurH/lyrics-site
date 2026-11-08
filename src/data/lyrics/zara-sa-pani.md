@@ -12,28 +12,25 @@ published: false
 romanLyrics: |-
   Hussain jab ke chale baade do pahar ran ko
   Na tha koi ke jo thaame rakaab e tousan ko
-
-  1
   Sakina thaam rahi thi abaa ke daaman ko
   Hussain chup ke khade huwe hai
   Wa ghurbata wa musibata
-  Hussain chup ke khade huwe hai
 
-  2
+  1
   Nazar alam par gadi hui hai
   Sakina thaame abaa ka daaman
   Ye apne baba se keh rahi hai
   Ay pyare baba qasam tumhari
   Mai tishnalab hoo zara sa pani
 
-  3
+  2
   Chacha se ay baba jaan keh de
   Sakina pyasi hai teen din se
   Zaban pe kaante pade huwe hai
   Ye mashk khaali hai teen din se
   Lo baba dekho ye mashk khaali
 
-  4
+  3
   Mujhe hai ehsaas mere baba
   Ke hum se pyase ho tum zyada
   Karungi tum se na phir taqaza
@@ -45,28 +42,25 @@ romanLyrics: |-
 ---
 حسین جب کہ چلے بعد دو پہر رن کو
 نہ تھا کوئی کہ جو تھامے رکاب توسن کو
-
-۱
 سکینہ تھام رہی تھی عبا کے دامن کو
 حسین چپ کے کھڑے ہوے ہیں
 وا غربتا وا مصیبتا
-حسین چپ کے کھڑے ہوے ہیں
 
-۲
+۱
 نظر علم پر گڑی ہوی ہے
 سکینہ تھامے عبا کا دامن
 یہ اپنے بابا سے کہہ رہی ہے
 اے پیارے بابا قسم تمہاری
 میں تشنہ لب ہوں زرا سا پانی
 
-۳
+۲
 چچا سے اے بابا جان کہہ دے
 سکینہ پیاسی ہے تین دن سے
 زباں پہ کانٹے پڑے ہوے ہیں
 یہ مشک خالی ہے تین دن سے
 لو بابا دیکھو یہ مشک خالی
 
-۴
+۳
 مجھے ہے احساس میرے بابا
 کہ ہم سے پیاسے ہو تم ذیادہ
 کروں گی تم سے نہ پھر تقاضا

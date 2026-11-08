@@ -11,8 +11,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay shame ghariban
-  Veeran madina veeran madina
-  Allah allah ye shaan nabi ki ujad gayi hai
 
   1
   Ek shor hua khana e hyder hua taaraz
@@ -21,11 +19,13 @@ romanLyrics: |-
   Be goro kafan laashe ye shame ghariban hai
   Zainab bibi ujad gayi hai
   Al atash al atash kehti hai sakina
+  Allah allah ye shaan nabi ki ujad gayi hai
 
   2
   Lo raakh hue qaime ek shor e qayamat hai
   Ujdi hai abhi zainab aaghaz e musibat hai
   Pardes mein be-parda zehra ki shabahat hai
+  Veeran madina veeran madina
 
   3
   Ye fatema zehra ki haa laadli beti hai
@@ -75,8 +75,6 @@ romanLyrics: |-
 # raw_sha256: 6b5f7cd0608a9d66bd5ded9c54c5740c7f0b95e01715dd879492fc2fddf91519
 ---
 اے شام غریباں
-ویران مدینہ ویران مدینہ
-اللہ اللہ یہ شان نبی کی اجڑ گیء ہے
 
 ۱
 اک شور ہوا خانۂ حیدر ہوا تاراج
@@ -85,11 +83,13 @@ romanLyrics: |-
 بے گورو کفن لاشے یہ شام غریباں ہے
 زینب بی بی اجڑ گیء ہے
 العطش العطش کہتی ہے سکینہ
+اللہ اللہ یہ شان نبی کی اجڑ گیء ہے
 
 ۲
 لو راخ ہوئے خیمے اک شور قیامت ہے
 اجڑی ہے ابھی زینب آغاز مصیبت ہے
 پردیس میں بے پردہ زہرا کی شباہت ہے
+ویران مدینہ ویران مدینہ
 
 ۳
 یہ فاطمہ زہرا کی ہاں لاڈلی بیٹی ہے
