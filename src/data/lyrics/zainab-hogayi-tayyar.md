@@ -13,12 +13,14 @@ romanLyrics: |-
   Binte ali hoon naam hai zainab
   Waada hai tujhse bhaiya
   Rang layega khoon tera
+
+  1
   Dhal gaya ashoor ka din lut gaya ghar baar
   Zainab hogayi tayyar
   Jayegi darbar ban ke hyder e karrar
   Zainab hogayi tayyar
 
-  1
+  2
   Jaa rahi hoon qaid ho kar haan magar waada raha
   Mere bhai mai kabhi sar jhukne na doongi tera
   Naam ay bhai tera zinda rakhungi sada
@@ -26,7 +28,7 @@ romanLyrics: |-
   Aaungi wapas mai bhaiya
   Yaad hai mujhko teri baiyat ka wo inkaar
 
-  2
+  3
   Na rukungi chaahe jitni bhi ho shiddat pyas ki
   Jaante hai shaam waale hoon behen abbas ki
   Mujhpe daurane safar jo uthayega nazar
@@ -34,7 +36,7 @@ romanLyrics: |-
   Bhoolenge shaami na wallah
   Sar pe mere haath rakh do bas uth kar ek baar
 
-  3
+  4
   Jab tilawat tum karoge naize pe quran ki
   Haan ghadi wo hogi bhai jeet ke aelaan ki
   Doongi jab mai ye sada zinda hai bhai mera
@@ -42,7 +44,7 @@ romanLyrics: |-
   Jeeta hai bas bhai mera
   Ay zameen e karbala ke syed aur sardar
 
-  4
+  5
   Saani e zehra hoon mujhko sirf hai chadar ka gham
   Haan magar zainab ne bhai khayi hai teri qasam
   Ay mere pyase shaheed bach na payega yazeed
@@ -50,7 +52,7 @@ romanLyrics: |-
   Maaregi ye zainab tanha
   Kaat degi usko mere khutbon ki talwaar
 
-  5
+  6
   Bolna hai ab jalaale hyder e karrar mein
   Ghaiz mujhko aayega jab shaam ke darbar mein
   Saans ki awaaz bhi sun na payega koi
@@ -58,7 +60,7 @@ romanLyrics: |-
   Hoga kuch aisa sannata
   Goonjegi darbar mein jab uskut ki lalkaar
 
-  6
+  7
   Aansu apne ponch kar farhan o zeeshan abidi
   Khatm zainab ne kiye keh kar mulaqat aakhri
   Bhai ab har daur mein itni hongi majlisein
@@ -72,12 +74,14 @@ romanLyrics: |-
 بنت علی ہوں نام بھی ہے زینب
 وعدہ ہے تجھ سے بھیا
 رنگ لاے گا خوں تیرا
+
+۱
 ڈھل گیا عاشور کا دن لٹ گیا گھر بار
 زینب ہو گیء تیار
 جاے گی دربار بن کے حیدر کرار
 زینب ہو گیء تیار
 
-۱
+۲
 جا رہی ہوں قید ہو کر ہاں مگر وعدہ رہا
 میرے بھائی میں کبھی سر جھکانے نہ دونگی تیرا
 نام اے بھای تیرا زندہ رکھوں گی صدا
@@ -85,7 +89,7 @@ romanLyrics: |-
 آؤں گی واپس میں بھیا
 یاد ہے مجھکو تیری بیعت کا وہ انکار
 
-۲
+۳
 نہ رکوں گی چاہے جتنی بھی ہو شدت پیاس کی
 جانتے ہیں شام والے ہوں بہن عباس کی
 مجھ پہ دوارانے سفر جو اٹھاے گا نظر
@@ -93,7 +97,7 @@ romanLyrics: |-
 بھولیں گے شامی نہ واللہ
 سر پہ میرے ہاتھ رکھ دو بس اٹھ کر ایک بار
 
-۳
+۴
 جب تلاوت تم کرو گے نیزے پہ قرآن کی
 ہاں گھڑی وہ ہونگی بھائی جیت کے اعلان کی
 دونگی جب میں یہ صدا زندہ ہے بھائی میرا
@@ -101,7 +105,7 @@ romanLyrics: |-
 جیتا ہے بس بھای میرا
 اے زمین کربلا کے سید اور سردار
 
-۴
+۵
 ثانیء زہرا ہوں مجھکو صرف ہے چادر کا غم
 ہاں مگر زینب نے بھای کھای ہے تیری قسم
 اے میرے پیاسے شہید بچ نہ پائے گا یزید
@@ -109,7 +113,7 @@ romanLyrics: |-
 مارے گی یہ زینب تنہا
 کاٹ دے گی اس کو میرے خطبوں کی تلوار
 
-۵
+۶
 بولنا ہے اب جلال حیدر کرار میں
 غیض مجھکو آے گا جب شام کے دربار میں
 سانس کی آواز بھی سن نہ پائے گا کوی
@@ -117,7 +121,7 @@ romanLyrics: |-
 ہوگا کچھ ایسا سناٹا
 گونجے گی دربار میں جب اس کٹ کی للکار
 
-۶
+۷
 آنسوں اپنے پونچھ کر فرحان و زیشان عابدی
 ختم زینب نے کیےء کہہ کر ملاقات آخری
 بھای اب ہر دور میں اتنی ہونگی مجلسیں

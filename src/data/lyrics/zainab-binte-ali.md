@@ -11,58 +11,60 @@ aliases: []
 published: false
 romanLyrics: |-
   Aqeelatul arab
+
+  1
   Ay munkir o nakeer sunlo meri sada
   Tum ko nahi pata zainab ka hoon fakeer
   Ye qabr nahi hai uska hai azakhana
   Jo binte murtaza hai shabbir ki hamsheer
   Zainab binte ali
 
-  1
+  2
   Ay nakirayn sawalon ki na bharmaar karo
   Farshe majlis hai yahan aao adab se baitho
   Sheh ki majlis ho bapa hukm deti hai yehi
 
-  2
+  3
   Tum bhi aate thay dar e binte ali pe aksar
   Sajda e shukr kiya maine bhi us chaukhat par
   Jab bhi sajde mein jabeen mai bhi kehta tha yehi
 
-  3
+  4
   Kaun hai maula mera tum ko batata hoon abhi
   Aao baitho tumhe talqeen sunata hoon abhi
   Kya tumhe yaad nahi hai madadgaar meri
 
-  4
+  5
   Daaghe matam jo hai tehreer mere seene par
   Saath aaya hai mere mera hawala ban kar
   Haan kafan par bhi mere ye ibarat hai likhi
 
-  5
+  6
   Tumko batlata hoon mai ashk e aza ki qeemat
   Ek aansu ki barabar nahi baaghe jannat
   Rone waalon ke liye padti hai naade ali
 
-  6
+  7
   Sun ke ye baat nakirayn ne khaalik se kaha
   Ai khuda-wanda e zainab hai ye banda tera
   Kya sawaal is se kare iske lab par hai abhi
 
-  7
+  8
   Hum sawalaat ke khatir to nahi aate hai
   Khairiyat pooch ke momin ki chale jaate hai
   Khuch nahi kehte use jis ki zaamin ho bani
 
-  8
+  9
   Phir nakirayn ne aapas mein ye tay kar ke kaha
   Chod do saare sawalaat sunao nauha
   Aur musalsal ye sada qabr se aati rahi
 
-  9
+  10
   Ay nakirayn wo abbas e ali ki khwahar
   Majma e ahle sitam mein ye pukari ro kar
   Mai wohi bibi hoon jisko kehte hai nabi
 
-  10
+  11
   Baat darvaish ne rehaan ye saabit kar di
   Qabr mein unse sawalaat nakirayn kabhi
   Aake kar denge nahi jis se bhi ho raazi
@@ -74,58 +76,60 @@ romanLyrics: |-
 # raw_sha256: 11c2a49e9dc02d46a6181c5d7aaf2399c7539e4cf0e1a1e5488076a91d908cd3
 ---
 اخی تلعرب
+
+۱
 اے منکر و نکیر سن لو صدا
 تم کو نہیں پتہ زینب کا ہوں فقیر
 یہ خبر نہیں ہے اس کا ہے عزاخانہ
 جو بنت مرتظی ہے شبیر کی ہمشیر
 زینب بنتِ علی
 
-۱
+۲
 اے نکیرین سوالوں کی نہ بھرمار کرو
 فرش مجلس ہے یہاں آؤ ادب سے بیٹھو
 شہ کی مجلس ہو بپا حکم دیتی ہے یہی
 
-۲
+۳
 تم بھی آتے تھے در بنت علی پہ اکثر
 سجدۂ شکر کیا میں نے بھی اس چوکھٹ پر
 جب بھی سجدے میں جبیں میں بھی کہتا تھا یہی
 
-۳
+۴
 کون ہے مولا میرا تم کو بتاتا ہوں ابھی
 آؤ بیٹھو تمہیں تلقین سناتا ہوں ابھی
 کیا تمہیں یاد نہیں ہے مددگار میری
 
-۴
+۵
 داغ ماتم جو ہے تحریر میرے سینے پر
 ساتھ آیا ہے میرے میرا حوالہ بن کر
 ہاں کفن پر بھی میرے یہ عبارت ہے لکھی
 
-۵
+۶
 تم کو بتلاتا ہوں میں میں اشک عزا کی قیمت
 ایک آنسوں کی برابر نہیں باغ جنت
 رونے والوں کے لئے پڑھتی ہے ناد علی
 
-۶
+۷
 سن کے یہ بات نکیرین نے خالق سے کہا
 اے خدا وندہء زینب ہے یہ بندہ تیرا
 کیا سوال اس سے کرے اس کے لب پر ہے ابھی
 
-۷
+۸
 ہم سوالات کے خاطر تو نہیں آتے ہیں
 خیریت پوچھ کے مومن کی چلے جاتے ہیں
 کچھ نہیں کہتے اسے جس کی ضامن ہو بنی
 
-۸
+۹
 پھر نکیرین نے آپس میں یہ طےء کر کے کہا
 چھوڑ دو سارے سوالات سناؤ نوحہ
 اور مسلسل یہ صدا قبر سے آتی رہی
 
-۹
+۱۰
 اے نکیرین وہ عباس علی کی خواہر
 مجمہء أہل ستم میں یہ پکاری رو کر
 میں وہی بی بی ہوں جس کو کہتے ہیں نبی
 
-۱۰
+۱۱
 بات درویش نے ریحان یہ ثابت کر دی
 قبر میں ان سے سوالات نکیرین کبھی
 آ کے کر دیں گے نہیں جس سے بھی ہو راضی
