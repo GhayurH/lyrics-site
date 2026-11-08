@@ -47,7 +47,6 @@ romanLyrics: |-
   Aaj bat ti hai wahan naam pe zainab ke rida
   Kal takallum wahan bemaar mera kehta raha
   Ye aale nabi hai haye tum aise na inko be-parda phirao
-reciter: Meer Hasan Meer
 # source_id: nohayonline:b2601bc40aa2fe67fcc7
 # source_url: https://www.nohayonline.com/details_content.php?id=330
 # raw_sha256: 5eb6e48dcca008d9763483684265bf93e5073439c778fe45a0129881ae8ba50e
