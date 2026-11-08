@@ -1285,7 +1285,7 @@ src/data/lyrics/batlaiye-ye-kaisi.md,standalone_lyrics,imported,unclassified,pen
 src/data/lyrics/batlao-mar-gayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bawafa-bawafa.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/bayaan-karta-hun-darbar-e-shaam-ka-manzar.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,partial_review,reviewed,not_applicable,partially_checked,2026-11-08-notebook-03,this_commit,Long recitation from notebook; Urdu supplied manually; source wording has unresolved uncertain passages.
+src/data/lyrics/bayaan-karta-hun-darbar-e-shaam-ka-manzar.md,standalone_lyrics,notebook,personal_notebook,spot_checked,reviewed,partial_review,reviewed,not_applicable,partially_checked,2026-11-08-notebook-03,b2d12c96dfee1d3c5ab3ff03ff3e47d15f8d639c,Long recitation from notebook; Urdu supplied manually; source wording has unresolved uncertain passages.
 src/data/lyrics/baysheer-mere-aaja.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bazaar-aa-raha-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bazaar-aagaya-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2187,6 +2187,7 @@ src/data/lyrics/kab-aaoge-maula.md,standalone_lyrics,imported,unclassified,pendi
 src/data/lyrics/kab-se-bechain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kab-shamma-jalane.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kabay-ke-sardar-ab-tu-aa-jao-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/kabhi-kabhi-main-ye-sochta-hun.md,standalone_lyrics,notebook,personal_notebook,spot_checked,partial_review,partial_review,reviewed,not_applicable,partially_checked,2026-11-08-notebook-04,this_commit,Longest notebook poem; reconciled source-order differences and missing verses; uncertain transcription requires audio verification.
 src/data/lyrics/kadiyal-jawan-akbar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kadiyal-jawan-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kafan-auno-mohd.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
