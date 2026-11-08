@@ -12,51 +12,49 @@ published: false
 romanLyrics: |-
   Sakina ke ye bain thay ran mein ro kar
   Chalo karbala se chale bhai akbar
-  
-  1
   Hai purhaul sehra qayamat ka manzar
   
-  2
+  1
   Chalo ab madine mein chal kar rahenge
   Na gauhar chinenge na durre lagenge
   Chacha ko bhi le aao ran se jaga kar
   
-  3
+  2
   Qayamat ki garmi hai aur rayg e sehra
   Yahan neend kya tumko aayegi bhaiya
   Na takiya hai koi na hai koi bistar
   
-  4
+  3
   Rida sar pe ahle haram ke nahi hai
   Sitam khez karbobala ki zameen hai
   Koi to madina mein de dega chaadar
   
-  5
+  4
   Rasan se hai jakdi hui meri gardan
   Zamana hua deen e khaalik ka dushman
   Mere bhai akbar shabih e payambar
   
-  6
+  5
   Mere khushk honton ko shadaab kar do
   Muhjhe aake kausar se sairaab kar do
   Ke ab tashnagi ban chuki hai samandar
   
-  7
+  6
   Pase shaah badla hai aisa zamana
   Nahi sar chupane ka koi thikana
   Chini sar se chaadar jalaya gaya ghar
   
-  8
+  7
   Abhi inqilaab aur aayenge bhaiya
   Abhi aake qaime jalayenge aada
   Hai shaam e ghariban ka toofan sar par
   
-  9
+  8
   Khudara taras khao ahle haram par
   Jalane ko qaime bade hai sitamgar
   Bas ab is se pehle ke chin jaye gauhar
   
-  10
+  9
   Hadh e ilteja ki hui khatm ishrat
   Chala khaafila bad gayi gham ki shiddat
   Yehi bain karti rahi binte sarwar
@@ -64,11 +62,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1360
 # raw_sha256: 67e5f59b1aa876ebb89c79ba19bce9c7a6f286e8c24cae4cf10c8a70f5f2da96
 ---
-
-۱
 سکینہ کے یہ بین تھے رن میں رو کر
 چلو کربوبلا سے چلیں بھای اکبر
 ہے پر حول صحرا قیامت کا منظر
+
+۱
 چلو اب مدینے میں چل کر رہیں گے
 نہ گوہر چھنےنگے نہ درے لگیں گے
 چچا کو بھی لے آؤ رن سے جگا کر
