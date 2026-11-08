@@ -16,7 +16,6 @@ romanLyrics: |-
   1
   Maqtal may baqiyya se thi jis waqt mai pahunchi
   Ghodon se teri laash thi pamaal hussaina
-  Mere laal hussaina mere laal hussaina
 
   2
   Hae hae mere bete ka badan khoon may tar hai
@@ -63,7 +62,6 @@ romanLyrics: |-
 ۱
 مقتل میں بقیہ سے تھی جس وقت میں پہنچی
 گھوڑوں سے تیری لاش تھی پامال حسینا
-میرے لال حسینا میرے لال حسینا
 
 ۲
 ہاے ہاے میرے بیٹے کا بدن خوں میں تر ہے
