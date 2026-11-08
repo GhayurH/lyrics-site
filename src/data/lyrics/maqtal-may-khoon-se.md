@@ -11,7 +11,6 @@ aliases: []
 published: false
 romanLyrics: |-
   Maqtal may khoon se laal hai bano ka nownehaal
-  Maqtal may khoon se…
   
   1
   Abroo wohi hussain ke palke hussain ki
@@ -48,7 +47,6 @@ romanLyrics: |-
 ---
 
 مقتل میں خوں سے لعل ہے بانو کا نونہال
-مقتل میں خوں سے
 
 ۱
 ابرو ہی حسین کی پلکیں حسین کی
