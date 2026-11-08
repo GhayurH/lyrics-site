@@ -18,22 +18,22 @@ romanLyrics: |-
   Tumhe dhoondu kaise asghar kahan rayt may gum ho
   Tumse bichad ke bhaiya nahi behan ko jeena
   
-  1
+  2
   Choti si qabr dekhi masooma ne jis dum
   Baahon may usay lekar karne lagi matam
   Khaali qabr padi thi aur gum tha nageena
   
-  2
+  3
   Khoone jigar se likhun wo zor e qalam do
   Juz gham ali asghar ke koi aur na gham ho
   Badta hi rahe har dam is gham ka khazeena
   
-  3
+  4
   Palkon pe durre gham ko tum logon sajao
   Matam ko tum waseela bakshish ka banao
   Hai misle kashti e nooh panjatan ka safeena
   
-  4
+  5
   Jis tarah zaalimon ne naize may paroya
   Ye dekh royi dharti ambar bhi tha roya
   Khursheed ko phir bhoola manzar wo kabhi na
