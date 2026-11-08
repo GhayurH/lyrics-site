@@ -11,12 +11,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Sada e matam gali gali se
-  
-  1
   Nagar nagar se jo aa rahi hai
   Suno tumhe sheh ke pursadaron
   Sada e hal min bula rahi hai
   Ya hussain ya hussain
+  
+  1
   Lo aagaya moharram nikla hilal e gham
   Sab apne gham bhula kar allah ki qasam
   Har ek bibi hamare ghar ki
@@ -73,14 +73,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2281
 # raw_sha256: fe7c98a45b01466170c51fb81ad2360cd743041561388719720213590d14edc1
 ---
-
 صدائے ماتم گلی گلی سے
-
-۱
 نگر نگر سے جو آ رہی ہے
 سنو تمہیں شہ کے پرسہ داروں
 صدائے ھل من بلا رہی ہے
 یا حسین یا حسین
+
+۱
 لو آ گیا محرم نکلا ہلال غم
 سب اپنے غم بھلا کر اللّٰہ کی قسم
 ہر ایک بی بی ہمارے گھر کی
