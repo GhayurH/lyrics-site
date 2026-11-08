@@ -9,58 +9,38 @@ poet: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Lash-e-Akbar utha rahay hain Hussain
-
-  Dil ki quwaat dika rahay hain Hussain
-
+romanLyrics: |-
+  Laashe akbar utha rahe hai hussain
 
   1
-
-  1) Dil ki rahon pe ansoyoon ke charagh
-
-  Kar lo roshan ke aa rahay hain Hussain
-
+  Dil ki raahon pe aansuon ke charagh
+  Kar lo roshan ke aa rahe hai hussain
 
   2
-
-  2) Jis jagha jhuka rahay hain payshaani
-
-  Apna Kaaba bana rahay hain Hussain
-
+  Jis jagah rakh rahe hai peshani
+  Faqre kaaba bana rahe hai hussain
 
   3
-
-  3) Larkhara rahay hain ambia key qadam
-
-  Us jagha muskura rahay hain Hussain
-
+  Ladkhadaye hai ambiya ke qadam
+  Jis jagah muskura rahe hai hussain
 
   4
-
-  4) Do sada ho kahan Ali Akbar
-
-  Wo khare raan me khaa rahain hain Hussain
-
+  Do sada ho kahan ali akbar
+  Thokare ran mein kha rahe hai hussain
 
   5
-
-  5) Jao khayme may jao Zainab
-
-  Lash-e-Akbar dila rahay hain Hussain
-
+  Jao qaime mein jao ay zainab
+  Laash akbar ki laa rahe hai hussain
 
   6
-
-  6) Ah karate hain bhaatay jahte hain
-
-  Iska laasha utha rahay hain Hussain
-
+  Aah karte hai baith jaate hai
+  Kiska laasha utha rahe hai hussain
 
   7
+  Chunke qasim ki laash ke tukde
+  Apne daaman mein laa rahe hai hussain
 
-  7) Chun ke Qasim kay laash kay tukaray
-
-  Apnay daman me la rahay hain Hussain'
+  Dil ki quwwat dikha rahe hai hussain
 # source_id: nohayonline:8e05f34459d6b59a4a76
 # source_url: https://www.nohayonline.com/details_content.php?id=521
 # raw_sha256: daf243b5ad7812ba9868f73a5d9381217f02097d0f72acaf718a4a1ba65540e4
@@ -72,6 +52,7 @@ romanLyrics: 'Lash-e-Akbar utha rahay hain Hussain
 لاشِ اکبر اُٹھا رہے ہیں حُسین
 
 ۱
+دل کی راہوں پہ آنسوؤں کے چراغ
 کر لو روشن کہ آ رہے ہیں حُسین
 
 ۲
@@ -98,5 +79,4 @@ romanLyrics: 'Lash-e-Akbar utha rahay hain Hussain
 چُن کے قاسم کی لاش کے ٹُکڑے
 اپنے دامن میں لا رہے ہیں حُسین
 
-۸
 دل کی قوت دِکھا رہے ہیں حُسین
