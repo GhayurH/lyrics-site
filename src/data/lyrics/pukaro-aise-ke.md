@@ -12,7 +12,6 @@ published: false
 romanLyrics: |-
   Pukaro aise ke mera imam aa jaaye
   Mera bhi lashkar e mehdi may naam aa jaaye
-  Pukaro aise ke mera imam aa jaaye
   
   1
   Wilaye haq may jihad e ghulam jaari hai
@@ -65,10 +64,8 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2631
 # raw_sha256: 1805dd2dffbe44a8f147a719f19b6af23e01fd9532f0e319526cc7d31bc528be
 ---
-
 پکارو ایسے کہ میرا امام آ جاے
 میرا بھی لشکرِ مہدی میں نام آ جاے
-پکارو ایسے کہ میرا امام آ جاے
 
 ۱
 ولاے حق میں جہاد غلام جاری ہے
