@@ -10,64 +10,65 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sab ki ridaon ka nigehdaar hai
-  Ghazi mera aisa wafadaar hai
-  Cheen nahi sakta koi chadarein
-  Jab talak abbas alamdaar hai
-  Ye kehke behno ko zainab ka tasalli dena
-  Abbas hai na abbas hai na
+  Sab ki ridaoṅ ka nigehdar hai
+  Ghazi mera aisa wafadar hai
+  Chhin nahiṅ sakta koi chadareṅ
+  Jab talak Abbas Alamdar hai
+  Ye keh ke behnoṅ ko Zainab ka tasalli dena
+  Abbas hai na Abbas hai na
 
   1
   Har ek behan ko bhai pe maan hota hai
-  Jahan mein bhai to behno ki jaan hota hai
-  Ghamon ki dhoop mein wo sayeban hota hai
-  Bas is yaqeen se qaimon mein mutmain rehna
+  Jahan mein bhai to behnoṅ ki jaan hota hai
+  Ghamoṅ ki dhup mein wo sayebaṅ hota hai
+  Bas is yaqin se khaimoṅ mein mutmain rehna
 
   2
-  Haram ki aas bandhaati raho meri khwahar
+  Haram ki aas bandhati raho meri khwahar
   Batao in ko bharosa hai kitna ghazi par
   Rahe wo baazu salamat dua karo mil kar
-  Nazar utha ke dar e qaima par to dekho na
+  Nazar utha ke dar-e-khaima par to dekho na
 
   3
-  Isi ke saath amaari mein aayi thi ghar se
-  Bahot mujhe bhi hai dhaaras isi baradar se
-  Na hone dega wo mehroom hum ko chadar se
-  Bade jo ranj ke saaye to bas yehi kehna
+  Isi ke saath amari mein aayi thi ghar se
+  Bahot mujhe bhi hai dharas isi baradar se
+  Na hone dega wo mahrum hum ko chadar se
+  Barhe jo ranj ke saaye to bas yehi kehna
 
   4
   Dikhayi de tumhe jis dam yazeed ka lashkar
-  Dikhaye wo tumhe talwar o naiza o khanjar
-  Chamakhte naizon pe pad jaaye gar tumhari nazar
-  Tum apne dil mein jagah khauf ko nahi dena
+  Dikhaye wo tumheṅ talwar o neza o khanjar
+  Chamak te nezoṅ pe par jaaye gar tumhari nazar
+  Tum apne dil mein jagah khauf ko nahiṅ dena
 
   5
   Kaha ye ghazi ne kulsoom se meri khwahar
-  Fida hussain pe har maa karegi apne pisar
+  Fida Husain pe har maaṅ karegi apne pisar
   Jo tere bete nahi hai to koi gham na kar
   Teri taraf se fida sheh pe hone ko behna
 
   6
-  Phupi ye boli sakina se ay meri bacchi
-  Chacha se kehdo wo le aayenge abhi pani
-  Ye mashk kya hai wo darya utha ke laa de abhi
-  Bas apni aankh mein aansu nahi aane dena
+  Phuphi ye boli Sakina se ae meri bachchi
+  Chacha se keh do wo le aaeṅge abhi pani
+  Ye mashk kya hai wo darya utha ke la de abhi
+  Bas apni aankh mein aaṅsu nahiṅ aane dena
 
   7
-  Bayan kaise wo manzar ho dono jaanib ka
+  Bayaṅ kaise wo manzar ho dono janib ka
   Udhar tarayi pe ghazi ka mashk ko bharna
-  Kate jo baazu chhidi mashk saara pani baha
+  Kate jo bazu chhidi mashk saara pani baha
   Idhar sakina ka pyason ko dilaasa dena
 
   8
-  Tere hasham pe hai qurban mazhar o farhan
-  Alam gharon pe lagata hai aaj saara jahan
+  Tere hasham pe hai qurban Mazhar o Farhan
+  Alam gharoṅ pe lagata hai aaj saara jahan
   Hai tu hi ab bhi ghareebon ka bekason ka maan
   Alam ko dekh ke har waqt bas yehi kehna
 # source_id: nohayonline:e0240c539120870064b8
 # source_url: https://www.nohayonline.com/details_content.php?id=2834
 # raw_sha256: 1a05fbd9f906fc3f56d5ac0a8270f1d66bc6397f6058f66773af673292a22f2f
 ---
+
 سب کی رداؤں کا نگہدار ہے
 غازی میرا ایسا وفادار ہے
 چھین نہیں سکتا کوئی چادریں
@@ -76,8 +77,8 @@ romanLyrics: |-
 عباس ہے نہ عباس ہے نہ
 
 ۱
-ہر ایک بہن کو بھای پہ مان ہوتا ہے
-جہاں میں بھای تو بہنوں کی جان ہوتا ہے
+ہر ایک بہن کو بھائی پہ مان ہوتا ہے
+جہاں میں بھائی تو بہنوں کی جان ہوتا ہے
 غموں کی دھوپ میں وہ سایباں ہوتا ہے
 بس اس یقیں سے خیموں میں مطمئن رہنا
 
@@ -88,15 +89,15 @@ romanLyrics: |-
 نظر اٹھا کے در خیمہ پر تو دیکھو نہ
 
 ۳
-اسی کے ساتھ عماری میں آی تھی گھر سے
+اسی کے ساتھ عماری میں آئی تھی گھر سے
 بہت مجھے بھی ہے ڈھارس اسی برادر سے
 نہ ہونے دے گا وہ محروم ہم کو چادر سے
-بڑے جو رنج کے ساے تو بس یہی کہنا
+بڑے جو رنج کے سائے تو بس یہی کہنا
 
 ۴
 دکھائی دے تمہیں جس دم یزید کا لشکر
 دکھاے وہ تمہیں تلوار و نیزہ و خنجر
-چمکتے نیزوں پہ پڑ جاے گر تمہاری نظر
+چمکتے نیزوں پہ پڑ جائے گر تمہاری نظر
 تم اپنے دل میں جگہ خوف کو نہیں دینا
 
 ۵
@@ -107,13 +108,13 @@ romanLyrics: |-
 
 ۶
 پھپھی یہ بولی سکینہ سے اے میری بچی
-چچا سے کہہ دو وہ لے آییں گے ابھی پانی
+چچا سے کہہ دو وہ لے آئییں گے ابھی پانی
 یہ مشک کیا ہے وہ دریا اٹھا کے لا دے ابھی
-بس اپنی آنکھ میں آنسوں نہیں آنے دینا
+بس اپنی آنکھ میں آنسو نہیں آنے دینا
 
 ۷
 بیان کیسے وہ منظر ہو دونوں جانب کا
-ادھر ترای پہ غازی کا مشک کو بھرنا
+ادھر ترائی پہ غازی کا مشک کو بھرنا
 کٹے جو بازو چھدی مشک سارا پانی بہا
 ادھر سکینہ کا پیاسوں کو دلاسہ دینا
 
