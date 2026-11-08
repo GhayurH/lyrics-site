@@ -10,23 +10,23 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aap ke baad mujhe shimr ne maara baba
-  Choor zakhmon se hui teri sakina baba
+  Aap ke baad mujhe Shimr ne maara baba
+  Chur zakhmon se hui teri Sakina baba
 
   1
-  Kya yateemo ko dilaasa nahi deta koi
-  Kya aseeron ka koi ghar nahi hota baba
+  Kya yatimon ko dilaasa nahi deta koi
+  Kya asiron ka koi ghar nahi hota baba
 
   2
   Mujhko is baat pe zaalim ne tamache maare
-  Maine bas aap ka sar shimr se maanga baba
+  Maine bas aap ka sar Shimr se maanga baba
 
   3
-  Itni be-rehmi se durr mere layeen ne cheene
-  Jaise daadi se fidak logon ne cheena baba
+  Itni berahmi se durr mere lain ne cheene
+  Jaise Dadi se Fadak logon ne cheena baba
 
   4
-  Moo ke bal daudte naaqe se girri thi jab mai
+  Munh ke bal daudte naaqe se girri thi jab main
   Shimr ne baalon se tab mujhko uthaya baba
 
   5
@@ -38,7 +38,7 @@ romanLyrics: |-
   Jaise pardes mein ujdi hai sakina baba
 
   7
-  Sogayi shaam ke zindan mein sakina mohsin
+  So gayi Shaam ke zindan mein Sakina Mohsin
   Qaid khaane mein sada reh gayi baba baba
 # source_id: nohayonline:8391d0f7fae05b04c89d
 # source_url: https://www.nohayonline.com/details_content.php?id=2255
@@ -68,7 +68,7 @@ romanLyrics: |-
 ھاتھ رخسار سے میرا نہیں اٹھتا بابا
 
 ۶
-ایسےاجڑے نی کوئی میری دعا ہے رب سے
+ایسے اجڑے نہ کوئی میری دعا ہے رب سے
 جیسے پردیس میں اجڑی ہے سکینہ بابا
 
 ۷

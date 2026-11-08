@@ -10,61 +10,61 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek roz madine waalon ne
-  Hyder se kaha zehra se kahe
-  Wo raat may mehlan ro le ya
-  Baba ke liye din may role
-  Ye baat ali ne batlaayi
-  Jab fatema zehra ko aa kar
-  Boli zehra mai rolungi
+  Ek roz Madine waalon ne
+  Haider se kaha Zehra se kahe
+  Wo raat mein mehlan ro le ya
+  Baba ke liye din mein role
+  Ye baat Ali ne batlaayi
+  Jab Fatima Zehra ko aa kar
+  Boli Zehra main ro lungi
   Ab ghar se door kahin jaa kar
-  Ye sunke madine se baahar
-  Ek baitul huzn banaya gaya
-  Jahan baith ke zehra roti thi
+  Ye sunke Madine se baahar
+  Ek Baitul-Huzn banaya gaya
+  Jahan baith ke Zehra roti thi
   Aur ro ro ke ye kehti thi
-  Haye baba aap ke baad na soyi zehra
+  Haye baba aap ke baad na soyi Zehra
   Bas roti rahi haye wavaila wavaila
 
   1
   Jis ghadi jalta hua mujhpe wo darwaza gira
-  Phasliyan toot gayi pehlu shakista bhi hua
+  Pasliyan tut gayi pehlu shakista bhi hua
   Tumhari ye beti sada de rahi thi
   Haye maara gaya mohsin
 
   2
-  Baba tum jab se gaye hogayi tanha zehra
-  Aap ki yaad may jab ghar may bicha farsh e aza
-  Isi gham may royi yateemi may koi
+  Baba tum jab se gaye ho gayi tanha Zehra
+  Aap ki yaad mein jab ghar mein bicha farsh e aza
+  Isi gham mein royi yatimi mein koi
   Dene nahi aaya hausla
 
   3
   Kaash wo waqt kabhi mujhpe na aata baba
-  Maine hyder ka gala rassi may dekha baba
+  Maine Haider ka gala rassi mein dekha baba
   Gayi jab bachane lagay taaziyane
   Aur haath mera zakhmi hua
 
   4
   Baba ek maa ka liye waqt bahot mushkil tha
   Ek zaalim ne mere rukh pe tamacha maara
-  Chupaati thi chehra hassan dekhta tha
+  Chupaati thi chehra Hasan dekhta tha
   Jab surkh huwa chehra
 
   5
   Mere aane pe jahan aap bhi uth jaate thay
   Wohi darbar tha aur saamne sab baithe rahe
-  Akeli khadi thi fidak maangti thi
+  Akeli khadi thi Fadak mangti thi
   Afsos mujhe haq na mila
 
   6
-  Sirf athara baras may ye mera aalam hai
-  Dekho baalon may safaydi hai kamar bhi kham hai
+  Sirf atharah baras mein ye mera aalam hai
+  Dekho baalon mein safedi hai kamar bhi kham hai
   Zaeefa hai ab to mera haal dekho
-  Mai thaam ke chalti hoo asa
+  Main thaam ke chalti hun asa
 
   7
-  Ro ke zeeshan yehi kehta hai irfan e aza
+  Ro ke Zeeshan yehi kehta hai Irfan-e-aza
   Cheen kar saaya layeen ne wo shajar kaat diya
-  Jahan baith'ti thi bas ab doop may bhi
+  Jahan baith'ti thi bas ab dhup mein bhi
   Honton pe yehi tha marsiya
 # source_id: nohayonline:edfb2686d114612e7356
 # source_url: https://www.nohayonline.com/details_content.php?id=1012
@@ -72,7 +72,7 @@ romanLyrics: |-
 ---
 اک روز مدینے والوں نے
 حیدر سے کہا زہرا سے کہے
-وہ رات میں مہلن رو لے یا
+وہ رات میں مہلت رو لے یا
 بابا کے لئے دن میں رولے
 یہ بات علی نے بتلای
 جب فاطمہ زہرا کو آ کر

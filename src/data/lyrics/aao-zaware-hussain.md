@@ -10,58 +10,58 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala tumko bulaati hai azadar e hussain
-  Aao zawwar e hussain
-  Khud lagayenge galay tumko sab ansar e hussain
-  Aao zawwar e hussain
+  Karbala tumko bulaati hai azadar-e-Husain
+  Aao zawwar-e-Husain
+  Khud lagayenge galay tumko sab ansar-e-Husain
+  Aao zawwar-e-Husain
   
   1
-  Ek jaanib hai maqame ali akbar dekho
-  Ek maqam aisa ke gehwara e asghar dekho
+  Ek jaanib hai maqam-e-Ali Akbar dekho
+  Ek maqam aisa ke gehwara-e-Asghar dekho
   Har jagah sheh ke azadaron ka manzar dekho
-  Ambiya aur malak bhi hai azadar e hussain
+  Ambiya aur malak bhi hain azadar-e-Husain
   
   2
-  Yaum e ashoor zara karbobala ko dekho
+  Yaum-e-Ashur zara karbobala ko dekho
   Jis jagah zulm hua uski fiza ko dekho
-  Khoon ugalti hui tum khaak e shifa ko dekho
-  Ab to har qaum hui jaati hai bemaar e hussain
+  Khoon ugalti hui tum khaak-e-shifa ko dekho
+  Ab to har qaum hui jaati hai bimar-e-Husain
   
   3
   Bhai ki qabr pe jis roz ke aayi khwahar
   Aao zawwaro usi din safar e chehlum par
-  Lehad e shaah talak hoga jo paidal ye safar
-  Dengi har gaam dua maadar e ghamkhaar e hussain
+  Lahad-e-Shah talak hoga jo paidal ye safar
+  Dengi har gaam dua maadar-e-ghamkhwar-e-Husain
   
   4
-  Shehr e shabbir mein aajao fazeelat pao
-  Rizq o aulaad mein aur saanso my barkat pao
-  Zinda reh kar bhi yahan fazle shahadat pao
-  Ho ye koshish ke hamein dekhle sarkar e hussain
+  Shahr-e-Shabbir mein aajao fazeelat pao
+  Rizq o aulaad mein aur saanson mein barkat pao
+  Zinda reh kar bhi yahan fazl-e-shahadat pao
+  Ho ye koshish ke hamein dekhle Sarkar-e-Husain
   
   5
-  Ek jali aayat e allah hai ye karbobala
+  Ek jali ayat-e-Allah hai ye karbobala
   Ambiya ki bhi guzar raah hai ye karbobala
-  Azme shabbir se aagaah hai ye karbobala
-  Mil ke shabbir se khud seekh lo kirdar e hussain
+  Azm-e-Shabbir se aagaah hai ye karbobala
+  Mil ke shabbir se khud seekh lo kirdar-e-Husain
   
   6
   Dil mein shabbir ho har dam chalo karbobala
   Lab pe ho deen ka paigham chalo karbobala
-  Baand kar kaabe ka ehraam chalo karbobala
-  Baith e allah bhi har waqt hai ghamkhaar e hussain
+  Baand kar Kaabe ka ehram chalo karbobala
+  Bait-e-Allah bhi har waqt hai ghamkhwar-e-Husain
   
   7
   Khud ba khud haath wahan jaate matam ko uthe
-  Roz e ashoor jahan baazu e abbas kate
-  Shaah jab laasha e abbas pe ye kehte chale
-  Tum kamar tod gaye meri madadgaar e hussain
+  Roz e ashoor jahan baazu-e-Abbas kate
+  Shaah jab laasha-e-Abbas pe ye kehte chale
+  Tum kamar tod gaye meri madadgar-e-Husain
   
   8
-  Chashm ko ashke ghame shaah tar karna hai
-  Dil mein har naasir e shabbir ke ghar karna hai
-  Suye shabbir kuch tarha safar karna hai
-  Ho sada aagaye wo majid o mukhtar e hussain
+  Chashm ko ashk-e-gham-e-Shah tar karna hai
+  Dil mein har nasir-e-Shabbir ke ghar karna hai
+  Su-e-Shabbir kuch tarha safar karna hai
+  Ho sada aagaye wo Majid o Mukhtar-e-Husain
 # source_id: nohayonline:52dddb602a08d8f28f27
 # source_url: https://www.nohayonline.com/details_content.php?id=1414
 # raw_sha256: ccb25aa384db6ddaafd7d4ea1853b4affe1670d310b5a5a1315ae98f9421228b
@@ -106,7 +106,7 @@ romanLyrics: |-
 دل میں شبیر ہو ہر دم چلو کربوبلا
 لب پہ ہو دین کا پیغام چلو کربوبلا
 باندھ کر کعبے احرام چلو کربوبلا
-بیت اللہ بھی ہر وقت ہے غمخوار حسین
+بیت اللہ بھی ہر وقت ہے غم خوارِ حسین
 
 ۷
 خود بہ خود ہاتھ وہاں جاتے ماتم کو اٹھے

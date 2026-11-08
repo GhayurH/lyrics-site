@@ -10,18 +10,18 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya rasool allah
-  Apni tanhaai mein zehra yaad karti hai tumhe
+  Ya Rasul Allah
+  Apni tanhai mein Zehra yaad karti hai tumhein
   Aap jab se huwe juda baba
-  Fatema ka hai bus khuda baba
+  Fatima ka hai bas Khuda baba
 
   1
   Pehle amma ko khoya ab tumko
-  Paas zahra ke kya bacha baba
+  Paas Zehra ke kya bacha baba
 
   2
   Aap ke baad guzre din aise
-  Fatema aur nahi jafa baba
+  Fatima aur nayi jafa baba
 
   3
   Lakdiyan aag le ke aaya koi
@@ -37,10 +37,10 @@ romanLyrics: |-
 
   6
   Har masayab ki inteha hai yehi
-  Mera mohsin nahi raha baba
+  Mera Mohsin nahi raha baba
 
   7
-  Baad e mohsin samajh gayi hoo mai
+  Baad-e-Mohsin samajh gayi hun main
   Karbala ki hai ibteda baba
 
   8
@@ -48,15 +48,15 @@ romanLyrics: |-
   Uski khaatir kare dua baba
 
   9
-  Ab to milta nahi jawabe salaam
-  Haal e hyder hai is tarha baba
+  Ab to milta nahi jawab-e-salam
+  Haal-e-Haider hai is tarha baba
 
   10
   Naam lewa sahabiyo ne tere
   Haq bhi cheena yateem ka baba
 
   11
-  Najm o rehan par bhi kar do karam
+  Najm o Rehan par bhi kar do karam
   Hai ye zahra ki ilteja baba
 # source_id: nohayonline:8d4234a8cb8b4b9f3372
 # source_url: https://www.nohayonline.com/details_content.php?id=1375
@@ -73,7 +73,7 @@ romanLyrics: |-
 
 ۲
 آپ کے بعد گزرے دن ایسے
-فاطمہ اور نیء جفا بابا
+فاطمہ اور نئی جفا بابا
 
 ۳
 لکڑیاں آگ لے کے آیا کوئی
@@ -92,7 +92,7 @@ romanLyrics: |-
 میرا محسن نہیں رہا بابا
 
 ۷
-بعد محسن سمجھ گیء ہوں میں
+بعد محسن سمجھ گئی ہوں میں
 کربلا کی ہے ابتداء بابا
 
 ۸
