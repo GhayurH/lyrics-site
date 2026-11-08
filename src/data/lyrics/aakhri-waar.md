@@ -10,14 +10,14 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ran mein shabbir ko zibha karte huwe
+  Ran mein Shabbir ko zibha karte huwe
   
   1
   Shimr ne khud suna aakhri waar tak
-  Pyase shabbir ke zakhmi honton pe tha
-  Naam abbas ka aakhri waar tak
-  Zer e khanjar tha bhai ka sookha gala
-  Kuch qadam door thi zainab e aaliya
+  Pyase Shabbir ke zakhmi honton pe tha
+  Naam Abbas ka aakhri waar tak
+  Zer-e-khanjar tha bhai ka sookha gala
+  Kuch qadam door thi Zainab-e-Aaliya
   Bhai kehta raha laut jao behan
   Khushk gardan pe jis waqt khanjar rakha
   Dekh kar pehla waar aisi zainab giri
@@ -25,48 +25,48 @@ romanLyrics: |-
   
   2
   Yun to sattar qadam pe thi zainab khadi
-  Kuch qadam aage bali sakina bhi thi
+  Kuch qadam aage bali Sakina bhi thi
   Apne baba ke seene pe soti thi jo
   Ladkhadate huwe khaak par gir gayi
   Baap ko dekh kar beti roti rahi
   Shimr seene pe tha aakhri waar tak
   
   3
-  Khaynchta tha kabhi reesh shabbir ke
+  Khaynchta tha kabhi resh Shabbir ke
   Maarta tha wo has kar tamacha kabhi
-  Paon rakhta tha zakhmon pe shabbir ke
+  Paon rakhta tha zakhmon pe Shabbir ke
   Aur kabhi jism par maarta tha churi
   Khoon hi khoon tha zakhm hi zakhm thay
   Itna maara gaya aakhri waar tak
   
   4
   Shimr se shaah ka jab gala na kata
-  Paas san'aan ibne anas aa gaya
-  Maar kar naiza shabbir ke halq mein
-  Aise khayncha hui zulm ki inteha
+  Paas Sinaan ibn-e-Anas aa gaya
+  Maar kar neza Shabbir ke halq mein
+  Aise khincha hui zulm ki inteha
   Aa gayi saath mein saari sookhi ragein
-  Naiza uljha raha aakhri waar tak
+  Neza uljha raha aakhri waar tak
   
   5
-  Bughz kitna tha ibne ali se usay
+  Bughz kitna tha ibn-e-Ali se usay
   Shimr jaldi mein tha pehle hi waar se
   Ran mein wo dono haathon se masroof tha
   Ek pyase ka sar kaatne ke liye
-  Uske ek haath mein taygh aur doosra
+  Uske ek haath mein tegh aur doosra
   Haath baalon mein tha aakhri waar tak
   
   6
   Ek maa godh mein rakh ke bete ka sar
   Kab se baithi hai ye shimr ko kya khabar
-  Saath shabbir ke fatema ka lahoo
+  Saath Shabbir ke Fatima ka lahoo
   Beh ke khanjar se girta raha khaak par
   Kat gayi ungliyan phir bhi sar na bacha
   Haath maa ne rakha aakhri waar tak
   
   7
-  Ay raza aur zeeshan dekho zara
+  Ae Raza aur Zeeshan dekho zara
   Karbala mein hai maujood wo qatl gaah
-  Baith kar aaj rote hai zaair jahan
+  Baith kar aaj rote hain zair jahan
   Kal wahan shaah ka koi apna na tha
   Sab tamashayi thay dekhte hi rahe
   Sheh ka kat'ta gala aakhri waar tak
@@ -82,7 +82,7 @@ romanLyrics: |-
 پیاسے شبیر کے زخمی ہونٹوں پہ تھا
 نام عباس کا آخری وار تک
 زیر خنجر تھا بھای کا سوکھا گلا
-کچھ قدم دور تھی زینب عالیہ
+کچھ قدم دور تھی زینبِ عالیہ
 بھای کہتا رہا لوٹ جاؤ بہن
 خشک گردن پہ جس وقت خنجر رکھا
 دیکھ کر پہلا وار ایسی زینب گری

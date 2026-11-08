@@ -10,37 +10,37 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shamma zindan may manga de koi
-  Aakhri raat hai sakina ki
-  Jaa rahi hai hussain ki beti
-  Aakhri raat hai sakina ki
+  Shama zindan mein manga de koi
+  Aakhri raat hai Sakina ki
+  Jaa rahi hai Husain ki beti
+  Aakhri raat hai Sakina ki
   
   1
   Ye jo gardan pe hai rasan ka nishan
-  Saath turbat may iske jayega
-  Koi umme rabab se kehde
+  Saath turbat mein iske jayega
+  Koi umme Rubab se kehde
   Ab ye chehra nazar na aayega
   Aaj jee bhar ke dekh lo bibi
   
   2
   Paas baba ke jaane waali hai
   Ab tamache na koi maarega
-  Qabr may to ghamon ki maari ke
+  Qabr mein to ghamon ki maari ke
   Koi gohar nahi utarega
-  Jaake turbat may chain payegi
+  Jaake turbat mein chain payegi
   
   3
-  Hai janab e ameer ki poti
+  Hai Janab-e-Amir ki poti
   Inteha ispe hai ghareebi ki
-  Aalam e nazha ho gaya taari
+  Aalam-e-naza ho gaya taari
   Saans rukne lagi hai bachi ki
-  Reesma ab to kholdo iski
+  Resman ab to khol do iski
   
   4
   Rone waali ki chalti saanson ko
   Aaj is tarha roka jaata hai
-  Band hojaye shor girya ka
-  Sare shabbir laaya jaata hai
+  Band ho jaaye shor girya ka
+  Sar-e-Shabbir laaya jaata hai
   Hai mulaqaat baap beti ki
   
   5
@@ -51,18 +51,18 @@ romanLyrics: |-
   Abhi legi ye aakhri hichki
   
   6
-  Roke sajjad khud se kehte thay
+  Ro ke Sajjad khud se kehte thay
   Kaise mayyat utha'unga iski
-  Qaid zanjeer may hai haath mere
+  Qaid zanjeer mein hai haath mere
   Qabr kaise bana'unga iski
   Be-kafan jayegi behan meri
   
   7
-  Kaisa manzar tha qaid may akbar
+  Kaisa manzar tha qaid mein Akbar
   Chaar jaanib tha shor giryan ka
-  Laake sajjad ne sakina ki
-  Godh may sar jo rakha baba ka
-  Sare shabbir se sada aayi
+  Laake Sajjad ne Sakina ki
+  Godh mein sar jo rakha baba ka
+  Sar-e-Shabbir se sada aayi
 # source_id: nohayonline:cd40e7e76e8347aad5fe
 # source_url: https://www.nohayonline.com/details_content.php?id=1063
 # raw_sha256: 730a79ffe9cfc7a7e668867f8e6022a836464effabfbb952400ea1371b966895
@@ -98,7 +98,7 @@ romanLyrics: |-
 رونے والی کی چلتی سانسوں کو
 آج اس طرح روکا جاتا ہے
 بند ہوجاے شور گریہ کا
-سر شبیر لایا جاتا ہے
+سرِ شبیر لایا جاتا ہے
 ہے ملاقات باپ بیٹی کی
 
 ۵
@@ -109,7 +109,7 @@ romanLyrics: |-
 ابھی لے گی یہ آخری ہچکی
 
 ۶
-روکے سجاد قد سے کہتے تھے
+رو کے سجاد خود سے کہتے تھے
 کیسے میت اٹھاؤں گا اس کی
 قید زنجیر میں ہے ہاتھ میرے
 قبر کیسے بناؤں گا اس کی
@@ -120,4 +120,4 @@ romanLyrics: |-
 چار جانب تھا شور گریاں کا
 لاکے سجاد نے سکینہ کی
 گود میں سر جو رکھا بابا کا
-سر شبیر سے صدا آی
+سرِ شبیر سے صدا آئی

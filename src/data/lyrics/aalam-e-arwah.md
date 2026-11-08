@@ -1,6 +1,6 @@
 ---
 title: "عالم ارواح میں"
-alternateTitle: "Aalam E Arwah"
+alternateTitle: "Aalam-e-Arwah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,10 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aalam e arwah mein
-  Apne rab se mohamed ne kaha
+  Aalam-e-arwah mein
+  Apne rab se Muhammad ne kaha
   Mera waada hai
-  Mere allah tujhse waada hai
+  Mere Allah tujhse waada hai
 
   1
   Mera beta teen din ka bhooka pyasa
@@ -26,23 +26,23 @@ romanLyrics: |-
   Har ek laasha uthayega
 
   3
-  Laash e qasim ki tarha dil hoga tukde
+  Laash-e-Qasim ki tarha dil hoga tukde
   Layega jab dasht se wo tukde dil ke
   Lahoo falak bhi bahayega
 
   4
-  Laasha e abbas e ghazi alqama par
+  Laasha-e-Abbas-e-Ghazi alqama par
   Jab chinegi bibiyon ke sar se chadar
   Wo sabr ko aazmeinega
 
   5
-  Mauj e darya mein bhi hoga ek talaatum
+  Mauj-e-darya mein bhi hoga ek talaatum
   Tashnagi se sabr ka hoga tasaddum
   Wo sabr hi fatha payega
 
   6
-  Karbala ki sar zameen ko khoon de kar
-  Soyega jalti zameen par ye gule tar
+  Karbala ki sarzameen ko khoon de kar
+  Soyega jalti zameen par ye gul-e-tar
   Lahoo mein apne nahayega
 
   7
@@ -51,22 +51,22 @@ romanLyrics: |-
   Ye sabr bhi wo dikhayega
 
   8
-  Qabr asghar ki banayega akela
-  Seena e akbar se barchi khaynchlega
+  Qabr Asghar ki banayega akela
+  Seena-e-Akbar se barchi khaynchlega
   Janaze sab ke uthayega
 
   9
   Karbala ki dhoop hogi aur laashe
-  Aur qaimon mein haram honge tadapte
+  Aur khaimon mein haram honge tadapte
   Tasalli unko dilayega
 
   10
   Jaisa zaahid aur abid mera beta
   Aisa qari aur ghazi kaun hoga
-  Sina pe quran sunayega
+  Sinaan pe Quran sunayega
 
   11
-  Apni shehzadi se mazhar ka hai waada
+  Apni shehzadi se Mazhar ka hai waada
   Jab talak ek saans baaqi tan mein hoga
   Qalam ye rukne na payega
 # source_id: nohayonline:2baa7da69010fcf469af

@@ -10,55 +10,55 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aakhri raat sakina ki
+  Aakhri raat Sakina ki
   Haye haye haye
-  Mai khaak pa so jaungi haa kehti hoo baba
-  Seene pe sulaane ko kahan kehti hoo baba
+  Main khaak pa so jaungi haan kehti hun baba
+  Seene pe sulane ko kahan kehti hun baba
 
   1
-  Kehti hoo ke chehra hi dikha jaiye baba
-  Marne se mere pehle hi aajaiye baba
-  Pehlu may chupane ko kahan keti hoo baba
+  Kehti hun ke chehra hi dikha jaiye baba
+  Marne se pehle hi aajaiye baba
+  Pehlu mein chupane ko kahan kehti hun baba
 
   2
-  Bacche to bahot chote hua karte hai baba
-  Har ek musibat pe gil karte hai baba
-  Mai naaz uthane ko kahan kehti hoo baba
+  Bacche to bahot chhote hua karte hain baba
+  Har ek musibat pe gila karte hain baba
+  Main naaz uthane ko kahan kehti hoo baba
 
   3
-  Sehlungi jo haaton ki lakeeron may likha hai
+  Seh lungi jo haathon ki lakiron mein likha hai
   Zindan ke andheron ka gila kisne kiya hai
-  Mai shamme jalane ko kahan kehti hoo baba
+  Main shama jalane ko kahan kehti hoo baba
 
   4
   Baba mere bachpan ka takaza to nahi tha
-  Khabon may khilone thay janaza to nahi tha
+  Khwabon mein khilone thay janaza to nahi tha
   Godhi may khilane ko kahan kehti hoo baba
 
   5
   Baba mere zakhmon ki dawa kaun karega
-  Ab jaan sakina ko bhala kaun kahega
-  Pehlu may chupane ko kahan kehti hoo baba
+  Ab jaan Sakina ko bhala kaun kahega
+  Pehlu mein chupane ko kahan kehti hoo baba
 
   6
-  Zindan ke andhere may sula kyun nahi dete
-  Baba mujhe marne ki dua kyun nahi dete
-  Mai lori sunane ko kahan kehti hoo baba
+  Zindan ke andhere mein sula kyun nahi dete
+  Baba mujhe marne ki dua kiun nahi dete
+  Main lori sunane ko kahan kehti hoo baba
 
   7
   Koi bhi nahi aansu mere pochne waala
   Sar pe nahi haathon ko koi pherne waala
-  Baahon may chupane ko kahan kehti hoo baba
+  Baahon mein chupane ko kahan kehti hoo baba
 
   8
-  Mar jaaun agar baba tera shaam ho aana
+  Mar jaaun agar baba tera Shaam ho aana
   Bemaar akela hai janaaze ko uthana
   Godhi may uthana ko kahan kehti hoo baba
 
   9
-  Armaan sakina ke yehi bain thay haye
+  Armaan Sakina ke yehi bain thay haye
   Mai kehti rahi baba magar aap na aaye
-  Turbat mai banana ko kahan kehti hoo baba
+  Turbat mein banana ko kahan kehti hoo baba
 # source_id: nohayonline:703072af991a953f9c50
 # source_url: https://www.nohayonline.com/details_content.php?id=2404
 # raw_sha256: 45d4766c8a0d8080d8d79641dc024ea828543aa0bd74065e4c76fee55e2fabdb
@@ -95,7 +95,7 @@ romanLyrics: |-
 
 ۶
 زنداں کے اندھیرے میں سلا کیوں نہیں دیتے
-بابا مجھے مرنے کی دوا کیوں نہیں دیتے
+بابا مجھے مرنے کی دعا کیوں نہیں دیتے
 میں لوری سنانے کو کہاں کہتی ہوں بابا
 
 ۷
@@ -111,4 +111,4 @@ romanLyrics: |-
 ۹
 ارمان سکینہ کے یہی بین تھے ہائے
 میں کہتی رہی بابا مگر آپ نہ آئے
-تربت میں بنانے کو کہا کہتی ہو بابا
+تربت میں بنانے کو کہاں کہتی ہوں بابا

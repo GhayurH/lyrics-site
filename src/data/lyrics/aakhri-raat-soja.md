@@ -1,6 +1,6 @@
 ---
 title: "سکینہ سے کہتے تھے مقتل میں سرور"
-alternateTitle: "Aakhri Raat Soja"
+alternateTitle: "Aakhri Raat So Ja"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,15 +10,15 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sakina se kehte thay maqtal mein sarwar
+  Sakina se kehte thay maqtal mein Sarwar
   
   1
-  Hai ye aakhri raat soja sakina
+  Hai ye aakhri raat so ja Sakina
   Meri zindagi mein bhi aaram karle
   Abhi to meinassar hai baba ka seena
-  Ay jaan e padar mujhko maloom hai ye
-  Tuhje kal se be-dard sone na denge
-  Meri laash e pamaal par bhi sakina
+  Ae jaan-e-padar mujhko maloom hai ye
+  Tujhe kal se be-dard sone na denge
+  Meri laash-e-pamaal par bhi Sakina
   Tujhe ye sitamgaar rone na denge
   Tu jee bhar ke mujhse mulaqat karle
   Yehi chand lamhe hai meri hazeena
@@ -29,19 +29,19 @@ romanLyrics: |-
   Ke meri mohabbat ka jab imtehan ho
   Judaai teri mai sahun karbala se
   Karun sabr teri yateemi pe mai bhi
-  Kare sabr maqtal mein tu bhi sakina
+  Kare sabr maqtal mein tu bhi Sakina
   
   3
   Ye raunaq bhi kal shaam tak hai sakina
   Ke bad jayegi teri tashna dahani
-  Tera bhai asghar to pyasa rahega
-  Dikha kar tujhe shimr phekega pani
+  Tera bhai Asghar to pyasa rahega
+  Dikha kar tujhe Shimr phenkega paani
   Meri tashnagi yaad karlena beta
-  Ke raahon mein jab bhi kabhi pani peena
+  Ke raahon mein jab bhi kabhi paani peena
   
   4
   Safar ki thaki hai kuch aaram kar le
-  Ay shehzadi ye raat dhalne se pehle
+  Ae shehzadi ye raat dhalne se pehle
   Ye seena bhi pamaal hojayega kal
   Katega gala dam nikalne se pehle
   Mujhe be-khata qatl hona hai ran mein
@@ -52,7 +52,7 @@ romanLyrics: |-
   Tujhe bhi satayenge ye shaam waale
   Tujhe zulm sehne hai in zaalimon ke
   Tujhe kar raha hoo khuda ke hawale
-  Bahot mushkilein hongi ashoor ke din
+  Bahot mushkilein hongi Ashur ke din
   Musibat mein ye ghir gaya hai safeena
   
   6
@@ -60,16 +60,16 @@ romanLyrics: |-
   Phupi ki tarha zulm par sabr karna
   Tujhe dekh kar log aansu bahaye
   Yateemi ko lekar jahan se guzarna
-  Tujhe kufa o shaam ke raasta mein
-  Bahot yaad aayega shehr e madina
+  Tujhe Kufa o Shaam ke raasta mein
+  Bahot yaad aayega shahr-e-Madina
   
   7
-  Zafar dayr tak shaah e deen aur sakina
-  Shab e gham mein karte rahe aah o zaari
-  Wo baap aur beti ki ruqsat ka manzar
-  Dil e karlbala par hai ye zakhm kaari
+  Zafar der tak Shah-e-Din aur Sakina
+  Shab-e-gham mein karte rahe aah o zaari
+  Wo baap aur beti ki rukhsat ka manzar
+  Dil-e-Karbala par hai ye zakhm kaari
   Kahan shaah ki qabr karbobala mein
-  Kahan shaam mein hai mazaar e sakina
+  Kahan shaam mein hai mazar-e-Sakina
 # source_id: nohayonline:562dceb59cc469b6ed33
 # source_url: https://www.nohayonline.com/details_content.php?id=1124
 # raw_sha256: fb993335742f44dceef5473711b1f526d753ead59051dcb39f1def162931f183
