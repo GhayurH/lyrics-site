@@ -11,60 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   Meri maa tum mera gham na karna
-  
-  1
   Bezuban ne ye jhoole se awaaz di
   Apne asghar ka lo ab salaam aakhri
-  
-  2
+
+  1
   Ran mein jis waqt hal min ki goonji sada
   Muztarib hogaya sheh ka mahelaqa
   Qaima e shaah mein shor e girya utha
   Apni maa se isharon mein kehne laga
   Mere baba ko hai ab zaroorat meri
   Unki haathon pe hogi shahadat meri
-  
-  3
+
+  2
   Farz ansaar apna adaa kar chuke
   Taygh khaa kar gire suye kausar gaye
   Ek abid hai bus wo hai ghash mein pade
   Kaun baba ki jaa kar madad ab kare
   Ran ko jaana hai ab zimmedari meri
   Aa gayi jaan dene ki baari meri
-  
-  4
+
+  3
   Laashe qasim ke maidan mein tukde huwe
   Maa ki aankhon se lekin na aansu bahe
   Jaan dene phupi ke dulaare gaye
   Shukr ke waaste maa ne sajde kiye
   Mai hoon asghar magar azm akbar ka hai
   Meri rag rag mein bhi khoon hyder ka hai
-  
-  5
+
+  4
   Bolna tak abhi mujhko aaya nahi
   Nanhe haathon se kuch bhi uthaya nahi
   Teer o shamsheer maine chalaya nahi
   Jang karna kisi ne sikhaya nahi
   Mere haathon mein naiza na talwaar hai
   Bas ye sookhi zuban mera hathyaar hai
-  
-  6
+
+  5
   Jitna dil chaahe ro mere baba pe ro
   Naujawani e akbar ka nauha padho
   Jiske shaane kate uska matam karo
   Mera kya hai suno meri maadar suno
   Cheh mahine ka hoon kuch bhi dekha nahi
   Soch lena mai dunya mein aaya nahi
-  
-  7
+
+  6
   Meri khwahar sakina ko batlaiye
   Ab na aayenge ammu ye samjhaiye
   Raat aaye to seene se liptaiye
   Mera gham chodiye usko behlaiye
   Koi zidd hi karunga na rounga mai
   Ab se baba ke seene pe sounga mai
-  
-  8
+
+  7
   Dekhi maadar ne anwar jo laashe pisar
   Gham se dil phat gaya gir padi khaak par
   Ro ke kehne lagi peet kar apna sar
@@ -75,14 +73,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3171
 # raw_sha256: 74b24d05af1c568129395e73105b5a55481715eaea7ed030836a2e5fd36338df
 ---
-
 میری ماں تم میرا غم نہ کرنا
-
-۱
 بے زباں نے یہ جھولے سے آواز دی
 اپنے اصغر کا لو اب سلام آخری
 
-۲
+۱
 رن میں جس وقت ھل من کی گونجی صدا
 مضطرب ہو گیا شہ کا مہ لقا
 خیمہء شاہ میں شور گریہ اٹھا
@@ -90,7 +85,7 @@ romanLyrics: |-
 میرے بابا کو ہے اب ضرورت میری
 ان کی ہاتھوں پہ ہوگی شہادت میری
 
-۳
+۲
 فرض انصار اپنا اعدا کر چکے
 تیغ کھا کر گرے سوے کوثر گےء
 ایک عابد ہے بس وہ ہے غش میں پڑے
@@ -98,7 +93,7 @@ romanLyrics: |-
 رن کو جانا ہے اب زمہ داری میری
 آ گیء جان دینے کی باری میری
 
-۴
+۳
 لاش قاسم کے میداں میں ٹکڑے ہوے
 ماں کی آنکھوں سے لیکن نہ آنسوں بہے
 جان دینے پھپھی کے دلارے گےء
@@ -106,7 +101,7 @@ romanLyrics: |-
 میں ہوں اصغر مگر ازم اکبر کا ہے
 میری رگ رگ میں بھی خوں حیدر کا ہے
 
-۵
+۴
 بولنا تک ابھی مجھکو آیا نہیں
 ننھے ہاتھوں سے کچھ بھی اٹھایا نہیں
 تیر و شمشیر میں نے چلایا نہیں
@@ -114,7 +109,7 @@ romanLyrics: |-
 میرے ہاتھوں میں نیزہ نہ تلوار ہے
 بس یہ سوکھی زباں میرا ہتھیار ہے
 
-۶
+۵
 جتنا دل چاہے رو میرے بابا پہ رو
 نوجوانیء اکبر کا نوحہ پڑھو
 جس کے شانے کٹے اس کا ماتم کرو
@@ -122,7 +117,7 @@ romanLyrics: |-
 چھ مہینے کا ہوں کچھ بھی دیکھا نہیں
 سوچ لینا میں دنیا میں آیا نہیں
 
-۷
+۶
 میری خواہر سکینہ کو بتلایےء
 اب نہ آیینگے عمو یہ سمجھاییےء
 رات آے تو سینے سے لپٹایےء
@@ -130,7 +125,7 @@ romanLyrics: |-
 کوئی ضد ہی کروں گا نہ روؤں گا میں
 اب سے بابا کے سینے پہ سوؤں گا میں
 
-۸
+۷
 دیکھی مادر نے انور جو لاشے پسر
 غم سے دل پھٹ گیا گر پڑی خاک پر
 روکے کہنے لگی پیٹ کر اپنا سر
