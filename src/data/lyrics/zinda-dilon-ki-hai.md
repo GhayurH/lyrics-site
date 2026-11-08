@@ -14,9 +14,9 @@ romanLyrics: |-
   Doobon ko kanara ya hussain
   Nabiyon ne pukara ya hussain
   Zinda dilon ki hai sada
+  Ya hussain ya hussain ya hussain ya hussain
 
   1
-  Ya hussain ya hussain ya hussain ya hussain
   Kehti hai ye karbobala rutba hai mera yun juda
   Rehte hai yan aaqa hussain
 
@@ -77,9 +77,9 @@ romanLyrics: |-
 ڈوبوں کو کنارہ یا حسین
 نبیوں نے پکارا یا حسین
 زندہ دلوں کی ہے صدا
+یا حسین یا حسین یا حسین یا حسین
 
 ۱
-یا حسین یا حسین یا حسین یا حسین
 کہتی ہے یہ کربوبلا رتبہ ہے میرا یوں جدا
 رہتے ہیں یاں آقا یا حسین
 
