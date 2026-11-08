@@ -10,11 +10,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Kya ghurbat hai ab koi nahi
-  
-  1
   Shabbir pe ab tanhai hai
   Farzand e nabi par ummat ne
   Afsos qayamat dhaayi hai
+  
+  1
   Mazloom pukare ab kis ko
   Akbar bhi nahi abbas nahi
   Ye doshe nabi ka raakib hai
@@ -81,13 +81,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=920
 # raw_sha256: bc7a6f7d4f67aab5a6f29c0e64f38b7a2c134995b148089be37789545b9b97cb
 ---
-
 کیا غربت ہے اب کوئی نہیں
-
-۱
 شبیر پہ اب تنہائی ہے
 فرزند نبی پر امت نے
 افسوس قیامت ڈھائ ہے
+
+۱
 مظلوم پکارے اب کس کو
 اکبر بھی نہیں عباس نہیں
 یہ دوش نبی کا راکب ہے
