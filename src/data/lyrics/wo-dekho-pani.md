@@ -9,124 +9,68 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Wo dekho pani aa raha hai
-
+romanLyrics: |-
+  Wo dekho pani aa raha hai
   Parcham hawa may lehra raha hai
 
-  Wo dekho pani aa raha hai
-
-
   1
-
   Dekho alam hai darya se aata
-
   Ab na rahega koi bhi pyasa
 
-  Parcham hawa maay lehra raha hai
-
-
   2
-
   Boli sakina nazdeek aao
-
   Ay pyase bachon kooze uthao
-
   Baba chacha ko ghar laa raha hai
 
-
   3
-
   Jo sab se chota ghar may hai baccha
-
   Pehle usi ko pani milega
-
   Asghar hai pyasa ghabra raha hai
 
-
   4
-
   Halqa bana lo kooze utha lo
-
   Jo so gaye hai unko jaga lo
-
   Khud chal ke darya ab aa raha hai
 
-
   5
-
   Jee bhar ke tum sab pani ko peena
-
   Aakhir may sab se bali sakina
-
   Pani piyegi waada raha hai
 
-
   6
-
   Kehte thay aada pani na denge
-
   Khush ho ke ab hum pani piyenge
-
   Lashkar yazeedi sharma raha hai
 
-
   7
-
   Nade ali ko mashk o alam par
-
   Dam karti rehti thi mai jo aksar
-
   Uska asar ab rang laa raha hai
 
-
   8
-
   Dekho zameen pe girne na paaye
-
   Pani chacha hai mehnat se laaye
-
   Waqt e museebat ab jaa raha hai
 
-
   9
-
   Pani sakina tum sub ko dena
-
   Baba se lekar mashkiza apna
-
   Ghazi ka beta samjha raha hai
 
-  Wo dekho pani aaraha hai
-
-
   10
-
   Aaya alam to boli sakina
-
   Ay pyase bacho mushkil hai jeena
-
   Mera ye kehna rulwa raha hai
 
-
   11
-
   Pani kahan ka ab pyaas kaisi
-
   Umeed kaisi ab aas kaisi
-
   Mujhko ye jumlaa sharma-raha hai
 
-  Wo dekho pani aaraha hai
-
-
   12
-
   Rehaan o mesum kya tha wo manzar
-
   Bachon se kehte thay jab sitamgar
-
-  Ab bolo ghazi ghar aa raha hai'
-reciter: Meesum Abbas
+  Ab bolo ghazi ghar aa raha hai
 # source_id: nohayonline:827ced11f0a6ae20eb27
 # source_url: https://www.nohayonline.com/details_content.php?id=2214
 # raw_sha256: 8d98ffa792723e4e7b0c3f208eeec612d9df0a1293ea468407eea11e18b74451
@@ -134,10 +78,8 @@ reciter: Meesum Abbas
 # source_url: https://www.ziyaraat.net/api/noha/2263
 # raw_sha256: 379b847103f2541b585cd3cdea16dd0f8dfdd30e22e1ebb0494c25f308f7aecf
 ---
-
 وہ دیکھو پانی آ رہا ہے
 پرچم ہوا میں لہرا رہا ہے
-وہ دیکھو پانی آ رہا ہے
 
 ۱
 دیکھو الم ہے دریا سے آتا
