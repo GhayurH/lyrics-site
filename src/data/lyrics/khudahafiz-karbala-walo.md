@@ -8,53 +8,34 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Khuda hafiz hay rukhsat ki ghari
-
+romanLyrics: |-
+  Khuda hafiz hay rukhsat ki ghari
   Aey karbala walon khuda hafiz
-
-
-  1
-
   Salaame aakhri aey karbala walon khuda hafiz
 
-  1) Na hum se ho saka kuch bhi ada haq mezbani ka
-
+  1
+  Na hum se ho saka kuch bhi ada haq mezbani ka
   Hay ye sharmindagi
 
-
   2
-
-  2) Tumhare saath zehra bhi yahan tashreef laayi thi
-
+  Tumhare saath zehra bhi yahan tashreef laayi thi
   Ye izzat bhi mili
 
-
   3
-
-  3) Hamare ghar ki raunaq bhi tumhare saath jaati hay
-
+  Hamare ghar ki raunaq bhi tumhare saath jaati hay
   Udaasi cha gayi
 
-
   4
-
-  4) Tumhare gham may rote rote mar jaate to acha tha
-
+  Tumhare gham may rote rote mar jaate to acha tha
   Ye hasrat reh gayi
 
-
   5
-
-  5) Kisi soorat behelta hi nahi dil kaise behlaye
-
+  Kisi soorat behelta hi nahi dil kaise behlaye
   Ajab hay bekali
 
-
   6
-
-  6) Phir aglay saal hum yuhin safe matam bichayenge
-
-  Rahi gar zindagi'
+  Phir aglay saal hum yuhin safe matam bichayenge
+  Rahi gar zindagi
 reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:a2b8d7ec90113ec3a232
 # source_url: https://www.nohayonline.com/details_content.php?id=483
@@ -66,9 +47,9 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 
 خُدا حافظ ہے رُخصت کی گھڑی
 اے کربلا والو خُدا حافظ
+سلامِ آخری اے کربلا والو خُدا حافظ
 
 ۱
-سلامِ آخری اے کربلا والو خُدا حافظ
 نہ ہم سے ہو سکا کچھ بھی ادا حق میزبانی کا
 ہے یہ شرمندگی
 
