@@ -10,51 +10,51 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aayi zahra ki sada pyasa hai baccha mera
+  Aayi Zehra ki sada pyasa hai bachcha mera
   Shimr khanjar na chala
-  Jurm kya isne kiya kuch to kar khauf e khuda
-  Mujhpe ye zulm na dhaa
+  Jurm kya is ne kiya kuchh to kar khauf-e-Khuda
+  Mujh pe ye zulm na dha
 
   1
-  Ghar jalaya mere mohsin ko bhi maara tum ne
-  Zehr shabbar ko pilaya tumne
-  Meri beti ke liye hai nigehban ye baccha
+  Ghar jalaya mere Mohsin ko bhi maara tum ne
+  Zehr Shabbar ko pilaya tum ne
+  Meri beti ke liye hai nigehban ye bachcha
   Aakhri beta mera
 
   2
-  Soch kar neend may ye pyaas se jaage na kahin
-  Paani le kar mai khadi rehti thi
-  Kis tarha dekhe ye maatu sirhane pe yahan
-  Leke khanjar hai khada
+  Soch kar nind mein ye pyaas se jaage na kahiṅ
+  Pani le kar main khari rehti thi
+  Kis tarha dekhe ye maaṅ to sarhane pe yahan
+  Le ke khanjar hai khara
 
   3
-  Mera baccha jo suye qaima nazar karta hai
-  Yaad abbas usay aata hai
-  Zere khanjar bhi yahi iske lab par hai sada
-  Haye zainab ki rida
+  Mera bachcha jo su-e-khaima nazar karta hai
+  Yaad Abbas use aata hai
+  Zer-e-khanjar bhi yahi is ke lab par hai sada
+  Haye Zainab ki rida
 
   4
-  Mai sakina se tujhe maang ke laa doongi gohar
-  Le le sab ahle haram ke zewar
-  Maa ka phat'ta hai jigar itni tauheen na kar
-  Payr seene se hata
+  Main Sakina se tujhe maang ke la duṅgi gauhar
+  Le le sab ahl-e-haram ke zewar
+  Maaṅ ka phatta hai jigar itni tauhin na kar
+  Pair sine se hata
 
   5
-  Haath pyase ki na gardan se hatayegi ye maa
-  Apne bacche ko bachayegi ye maa
+  Haath pyase ki na gardan se hataegi ye maaṅ
+  Apne bachche ko bachaegi ye maaṅ
   Ab nahi fikr mujhe haath kat jaaye mere
-  Katne doongi na gala
+  Katne duṅgi na gala
 
   6
-  Baad maa ke jo behen shaah ki maa jaisi thi
-  Jis ghadi qaime se wo nikli thi
-  Khushk tha sheh ka gala zere lab itna kaha
-  Jaa behen qaime may jaa
+  Baad maaṅ ke jo behen Shah ki maaṅ jaisi thi
+  Jis ghari khaime se woh nikli thi
+  Khushk tha Sheh ka gala zer-e-lab itna kaha
+  Ja behen khaime mein ja
 
   7
-  Qatl maadar hui hamsheer bhi beti bhi hui
-  Jab churi shaah pe akbar thi chali
-  Kya qayamat tha samaan tanha mazloom kahan
+  Qatl maadar hui hamshir bhi beti bhi hui
+  Jab chhuri Shah pe Akbar thi chali
+  Kya qayamat tha samaṅ tanha mazlum kahan
   Qatl khanjar se hua
 # source_id: nohayonline:72643a1a678cb724d27f
 # source_url: https://www.nohayonline.com/details_content.php?id=2715

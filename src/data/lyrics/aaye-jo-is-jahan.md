@@ -10,100 +10,100 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaye jo is jahan mein hamshakle mustufa
-  Aisa laga ke chand zameen par utar gaya
-  Aaya phupi ki godh mein jis waqt mehlaqa
-  Peshani uski choom ke zainab ne ye kaha
-  Charcha karo jahan mein is shaah kaar ka
-  Tohfa mila hussain ko parwardigar ka
+  Aaye jo is jahaṅ mein hamshakl-e-Mustafa
+  Aisa laga ke chand zamin par utar gaya
+  Aaya phuphi ki god mein jis waqt mahlaqa
+  Peshani us ki chum ke Zainab ne ye kaha
+  Charcha karo jahan mein is shahkar ka
+  Tohfa mila Husain ko Parwardigar ka
 
   1
-  Al qissa shehr shehr khabar hogayi ye aam
-  Akhbaar mein likha gaya mazmoon ye tamam
-  Akbar pe husn ka kiya khaaliq ne ikhtetaam
-  Na tha na hai na hoga hussain aisa was salaam
-  Mehboob e haq hai shakl mein hyder hai shaan mein
-  Baaham huwe nabi o ali phir jahan mein
+  Alqissa shahr shahr khabar ho gayi ye aam
+  Akhbar mein likha gaya mazmun ye tamam
+  Akbar pe husn ka kiya Khaliq ne ikhtitam
+  Na tha na hai na hoga Husain aisa wassalam
+  Mahbub-e-Haq hai shakl mein Haider hai shaan mein
+  Baham huwe Nabi o Ali phir jahan mein
 
   2
-  Par ashk baadshah e halab ko siwa hua
-  Uske khameer mein ye namak tha mila hua
-  Jis roz khalq yusuf e aale abaa hua
-  Us roz wo bhi morid e fazl e khuda hua
-  Dil mein ali ka ishq tha ye aarzoo mili
-  Shaahe halab ko chand si beti ataa hui
+  Purashk Badshah-e-Halab ko siwa hua
+  Us ke khamir mein ye namak tha mila hua
+  Jis roz khalq Yusuf-e-Aal-e-Aba hua
+  Us roz woh bhi morid-e-fazl-e-Khuda hua
+  Dil mein Ali ka ishq tha ye aarzu mili
+  Shah-e-Halab ko chand si beti ata hui
 
   3
-  Shaahe halab ne paayi musarrat ki ye khabar
-  Utra hai aaj sehne mohamed mein ek qamar
-  Khush hogaya wo shaahe halab bas ye soch kar
+  Shah-e-Halab ne paayi musarrat ki ye khabar
+  Utra hai aaj sahn-e-Muhammad mein ek qamar
+  Khush ho gaya woh Shah-e-Halab bas ye soch kar
   Beti ka meri aqd ho is chand se agar
-  Us roz se halab ka wo sultan e naam daar
-  Taaron ke badle chand kiya karta tha shumaar
+  Us roz se Halab ka woh sultan-e-namdar
+  Taron ke badle chand kiya karta tha shumar
 
   4
-  Atharwan baras hua akbar ko jab shuru
-  Shaahe halab ke bakht ka suraj hua tuloo
-  Chaaha ke rasme aqd ka ye saal ho vuquu
-  Ye soch ke hussain se usne kiya rujoo
-  Sultan ke khat ko paaya jo zehra ke chain ne
-  Khat ka diya jawab usay yun hussain ne
+  Atharhwaṅ baras hua Akbar ko jab shuru
+  Shah-e-Halab ke bakht ka suraj hua tulu
+  Chaha ke rasm-e-aqd ka ye saal ho wuqu
+  Ye soch ke Husain se us ne kiya ruju
+  Sultan ke khat ko paaya jo Zehra ke chain ne
+  Khat ka diya jawab use yun Husain ne
 
   5
-  Pahuncha tera areeza hui ittelaa e haal
-  Beti ke aqd ka ali akbar se hai khayal
-  Armaan hai kamaal teri aarzoo kamaal
-  Mai bhi dua karunga mubarak ho tujhko saal
-  Hai marzi e mabood to inkar kya mera
-  Taqdeer mein nahi hai to iqraar kya mera
+  Pahuncha tera ariza hui ittila-e-haal
+  Beti ke aqd ka Ali Akbar se hai khayal
+  Arman hai kamal teri aarzu kamal
+  Main bhi dua karuṅga mubarak ho tujhko saal
+  Hai marzi-e-Maabud to inkar kya mera
+  Taqdir mein nahi hai to iqrar kya mera
 
   6
-  Shaahe halab ko pahuncha juhin ruqqa e imam
-  Khush hogaya naseeb ke khulne pe nek naam
-  Zauja se apni karne laga is tarha kalaam
-  Beti ke aqd ki karo tayyariyan tamam
-  Dunya o aakhirat mein teri aabroo bane
-  Beti teri hussain ke ghar ki bahu bane
+  Shah-e-Halab ko pahuncha junhi ruqqa-e-Imam
+  Khush ho gaya nasib ke khulne pe nek naam
+  Zauja se apni karne laga is tarha kalam
+  Beti ke aqd ki karo tayyariyaṅ tamam
+  Dunya o aakhirat mein teri aabru bane
+  Beti teri Husain ke ghar ki bahu bane
 
   7
-  Saaman yahan to tha ali akbar ke byaah ka
-  Nikla udhar wo khaafila yasrab ke shaah ka
-  Aate hi dasht mein hua nargha sipaah ka
-  Ghera adoo ne qaima risaalat panaah ka
-  Dulhan ke ghar mein log ghiza nosh karte thay
-  Dulha ke ghar mein tifl mein faaqon se marte thay
+  Saman yahan to tha Ali Akbar ke biyah ka
+  Nikla udhar woh qafila Yasrab ke Shah ka
+  Aate hi dasht mein hua nargha sipah ka
+  Ghera adu ne khaima risalatpanah ka
+  Dulhan ke ghar mein log ghiza nosh karte the
+  Dulha ke ghar mein tifl mein faqon se marte the
 
   8
-  Sehra wahan bana ali akbar ke waaste
-  Yan maut nauhagar thi usi sar ke waaste
-  Poshak thi wahan dil e hyder ke waaste
-  Yan bekafani thi usi dilbar ke waaste
-  Sadqe rasool zadiyan murde pe hoti thi
-  Zainab sirhane paainti maa behne roti thi
+  Sehra wahan bana Ali Akbar ke waste
+  Yahan maut nauhagar thi usi sar ke waste
+  Poshak thi wahan dil-e-Haider ke waste
+  Yahan bekafani thi usi dilbar ke waste
+  Sadqe Rasulzadiyaṅ murde pe hoti thiṅ
+  Zainab sarhane painti maaṅ behneṅ roti thiṅ
 
   9
-  Ab maajera halab ka sunaun ke kya hua
-  Shaahe halab ka mehel tha kaisa saja hua
-  Yasrab ka qazd tha dil mein chupa hua
-  Itne mein ek shaks wahan roonuma hua
-  Usne sunaani aan ke di badshaah ko
-  Maqtal mein maar daala shahe deenpanah ko
+  Ab maajra Halab ka sunaun ke kya hua
+  Shah-e-Halab ka mahal tha kaisa saja hua
+  Yasrab ka qasd tha dil mein chhupa hua
+  Itne mein ek shakhs wahan runuma hua
+  Us ne sunani aan ke di Badshah ko
+  Maqtal mein maar daala Shah-e-Dinpanah ko
 
   10
-  Sultan patak ke taaj pukara ke kya hua
-  Usne kaha hussain shaheed e jafa hua
-  Gharkaab ashk mazhar e noor e khuda hua
-  Yani tabaah gulshane aale aba hua
-  Ye baat sun ke rone laga phir wo nek naam
-  Shadi ke ghar mein hogaya majlis ka ehtemam
+  Sultan patak ke taj pukara ke kya hua
+  Us ne kaha Husain shahid-e-jafa hua
+  Gharqab-e-ashk mazhar-e-nur-e-Khuda hua
+  Yaani tabah gulshan-e-Aal-e-Aba hua
+  Ye baat sun ke rone laga phir woh nek naam
+  Shadi ke ghar mein ho gaya majlis ka ehtimam
 
   11
-  Maqtal mein pahuncha ahle haram ka jo kaarwan
-  Dekha ke ek uroos hai laashon ke darmiyan
-  Bas ay dabeer khatm karo marsiya yahan
-  Sar nange baal khole wo karne lagi fughan
-  Jaane hussain ki mujhe is dam talaash hai
-  Ay karbala kidhar mere dulha ki laash hai
+  Maqtal mein pahuncha ahl-e-haram ka jo karwaṅ
+  Dekha ke ek urus hai laashon ke darmiyaṅ
+  Bas ae Dabeer khatm karo marsiya yahan
+  Sar nange baal khole woh karne lagi fughaṅ
+  Jaan-e-Husain ki mujhe is dam talaash hai
+  Ae Karbala kidhar mere dulha ki laash hai
 # source_id: nohayonline:2309cf986739c3817815
 # source_url: https://www.nohayonline.com/details_content.php?id=2763
 # raw_sha256: 2fa1550e99da18412bd3628e470d4dbcd9eb720eb7cb6ec451ca1c986a0cd090
@@ -126,10 +126,10 @@ romanLyrics: |-
 ۲
 پر اشک بادشاہ حلب کو سوا ہوا
 اسکے خمیر میں یہ نمک تھا ملا ہوا
-جس روز حلق یوسف آل عبا ہوا
+جس روز خلق یوسف آل عبا ہوا
 اس روز وہ بھی مورد فضل خدا ہوا
 دل میں علی کا عشق تھا یہ آرزو ملی
-شاہ حلب کو چاند سی بیٹی آتا ہوی
+شاہ حلب کو چاند سی بیٹی عطا ہوئی
 
 ۳
 شاہ حلب نے پای مسرت کی یہ خبر

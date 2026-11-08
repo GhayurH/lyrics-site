@@ -10,35 +10,35 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Alamdaar na aaya alamdaar na aaya
-  Aaya hai alam aur alamdaar na aaya
-  Darya se dil e hyder e qarraar na aaya
-  Baazu jo kate daanto mein mashkeeza dabaya
-  Jab mashk chidi phir wo hayadaar na aaya
+  Alamdar na aaya Alamdar na aaya
+  Aaya hai alam aur Alamdar na aaya
+  Darya se dil-e-Haider-e-Karrar na aaya
+  Baazu jo kate daanton mein mashkiza dabaya
+  Jab mashk chhidi phir woh hayadar na aaya
 
   1
-  Har laash pe bhai ka madadgaar tha ghazi
-  Baad uske koi sheh ka madadgaar na aaya
+  Har laash pe bhai ka madadgar tha Ghazi
+  Baad us ke koi Sheh ka madadgar na aaya
 
   2
-  Jab tak wo raha chadar e zainab ka muhafiz
-  Qaime ki taraf koi sitamgaar na aaya
+  Jab tak woh raha chadar-e-Zainab ka muhafiz
+  Khaime ki taraf koi sitamgar na aaya
 
   3
-  Baazu tha jo shabbir ka be-baazu hua wo
-  Be dast wo dast e shahe abraar na aaya
+  Baazu tha jo Shabbir ka bebaazu hua woh
+  Bedast woh dast-e-Shah-e-Abrar na aaya
 
   4
-  Jis waqt tamache hai lage boli sakina
-  Kya mujhpe chacha jaan tumhe pyar na aaya
+  Jis waqt tamache hain lage boli Sakina
+  Kya mujh pe Chacha jaan tumhein pyar na aaya
 
   5
-  Hai mujhko yaqeen naize pe ghazi ko ye gham tha
-  Qabze mein mere shaam ka bazaar na aaya
+  Hai mujhko yaqin neze pe Ghazi ko ye gham tha
+  Qabze mein mere Shaam ka bazaar na aaya
 
   6
-  Maanga hai sakina ke tawassul se jo mesum
-  Salman dar e ghazi se inkaar na aaya
+  Maanga hai Sakina ke tawassul se jo Mesum
+  Salman dar-e-Ghazi se inkar na aaya
 # source_id: nohayonline:d3ed9416258941487af2
 # source_url: https://www.nohayonline.com/details_content.php?id=2528
 # raw_sha256: e4b568b04c55dc55aed3b9b845acca91cd393e1b4a6ae50a3e6eda79aaf1f80b

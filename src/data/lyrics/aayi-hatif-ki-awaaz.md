@@ -10,39 +10,39 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aayi haatif ki awaaz sheh ko
-  Utro shabbir ye karbala hai
-  Bas qadam ab na aage badao
+  Aayi Hatif ki aawaz Sheh ko
+  Utro Shabbir ye Karbala hai
+  Bas qadam ab na aage barhao
 
   1
-  Ab safar khatm hai ibne zehra
-  Labe darya karo qaime barpa
-  Hashr tak hai yahin tum ko rehna
+  Ab safar khatm hai Ibn-e-Zehra
+  Lab-e-darya karo khaima barpa
+  Hashr tak hai yahan tum ko rehna
 
   2
   Marte dam bhi na pani milega
-  Pyasi gardan pa khanjar chalega
-  Sar tumhara sina par chadega
+  Pyasi gardan pe khanjar chalega
+  Sar tumhara sinaṅ par charhega
 
   3
-  Laash chalees din tak tumhari
-  Isi jangal mein uryan rahegi
-  Rone waala bhi koi na hoga
+  Laash chaalis din tak tumhari
+  Isi jangal mein uryaṅ rahegi
+  Rone wala bhi koi na hoga
 
   4
-  Khayegi jab sakina tamacha
-  Yahin tadpega laasha tumhara
-  Shimr dega yahin usko eeza
+  Khaegi jab Sakina tamache
+  Yahiṅ tarpega laasha tumhara
+  Shimr dega yahiṅ us ko iza
 
   5
-  Thode din hai jo mehman rahoge
-  Khaane pani ki eeza sahoge
-  Bhooke pyase yahin qatl honge
+  Thore din hain jo mehman rahoge
+  Khaane pani ki iza sahoge
+  Bhukhe pyase yahiṅ qatl hoṅge
 
   6
-  Raahwar apna sarwar ne roka
-  Uthre baqir wahin shaah e waala
-  Haatif e ghaib jis dam pukara
+  Rahwar apna Sarwar ne roka
+  Utre Baqar wahiṅ Shah-e-Wala
+  Hatif-e-ghaib jis dam pukara
 # source_id: nohayonline:083c1b5603d66b0257f5
 # source_url: https://www.nohayonline.com/details_content.php?id=2013
 # raw_sha256: 3e656fb920c60d488e360238e3c4034cdb084be16f7824b0ae33f840ab6c2291

@@ -10,36 +10,37 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aasman larza zameen kaampi samandar roye
-  Qabr may maa ke liye jab ali asghar roye
+  Aasman larza zamiṅ kaanpi samandar roe
+  Qabr mein maaṅ ke liye jab Ali Asghar roe
 
   1
-  Tanha roti thi bahattar ko ali ki beti
-  Be-rida jab hui zainab to bahattar roye
+  Tanha roti thi bahattar ko Ali ki beti
+  Berida jab hui Zainab to bahattar roe
 
   2
-  Waqte ruqsat jo hussain aaye dar e qaima par
-  Shaah zainab se bahot dayr lipat kar roye
+  Waqt-e-rukhsat jo Husain aaye dar-e-khaima par
+  Shah Zainab se bahot der lipat kar roe
 
   3
-  Zibha hote huwe sab dekh rahi thi behne
-  Ye samaa dekh ke maula tahe khanjar roye
+  Zibh hote huwe sab dekh rahi thi behneṅ
+  Ye samaa dekh ke Maula tah-e-khanjar roe
 
   4
-  Shimr ka khuaf hai gardan may rasan bhi hai bandhi
-  Apne baba ko sakina kahan jaa kar roye
+  Shimr ka khauf hai gardan mein rasan bhi hai bandhi
+  Apne Baba ko Sakina kahan ja kar roe
 
   5
   Aise roya na kisi baap ko beta koi
-  Jaise chalees baras abid e muztar roye
+  Jaise chaalis baras Abid-e-muztar roe
 
   6
-  Nazha may yaad jo beemar e madina aayi
-  Hichkiyan bad gayi is tarha se akbar roye
+  Nazaa mein yaad jo bimar-e-Madina aayi
+  Hichkiyaṅ barh gayiṅ is tarha se Akbar roe
 
   7
-  Sunke ay mir takallum tera majlis may salaam
-  Fatema royi ali roye payambar roye
+  Sun ke ae Mir Takallum tera majlis mein salam
+  Fatima roi Ali roe Payambar roe
+# editorial_uncertainty: Urdu has khanjar instead of Roman kahan in stanza 4; source conflict requires audio
 # source_id: nohayonline:2c64aaed94cc9be41f3e
 # source_url: https://www.nohayonline.com/details_content.php?id=1415
 # raw_sha256: f1ccf863bd7726e15b97bfd2e2dae651889231b3bae9bee832be0eb5937b12ad

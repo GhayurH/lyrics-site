@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaye shabbir bayaban ko basaane ke liye
-  Deen ki raah mein bhare ghar ko lutaane ke liye
+  Aaye Shabbir bayabaṅ ko basane ke liye
+  Din ki raah mein bhare ghar ko lutane ke liye
 
   1
-  Apne gulshan se chune phool bahattar shah e deen
-  Karbala dekh teri godh sajaane ke liye
+  Apne gulshan se chune phul bahattar Shah-e-Din
+  Karbala dekh teri god sajane ke liye
 
   2
-  Laal zehra ka chala bakshishe ummat ke liye
-  Kund khanjar ke talay sar wo kataane ke liye
+  Laal Zehra ka chala bakhshish-e-ummat ke liye
+  Kund khanjar ke tale sar woh katane ke liye
 
   3
-  Ali asghar ne musalmano se pani maanga
-  Haye ek teer mila pyaas bhujaane ke liye
+  Ali Asghar ne Musalmanon se pani maanga
+  Haye ek tir mila pyaas bujhane ke liye
 
   4
-  Haakim e shaam ko lalkaar ke bole abbas
-  Mere baazu hai tera naksh mitaane ke liye
+  Hakim-e-Shaam ko lalkar ke bole Abbas
+  Mere baazu hain tera naqsh mitane ke liye
 
   5
-  Binte zehra tere parde ki khuda khair kare
-  Kalma goh aaye hai qayyam jalaane ke liye
+  Bint-e-Zehra tere parde ki Khuda khair kare
+  Kalma go aaye hain khiyam jalane ke liye
 
   6
-  Shah e deen qasim o asghar ko nichawar kar ke
-  Ali akbar ki chale laash uthaane ke liye
+  Shah-e-Din Qasim o Asghar ko nichhavar kar ke
+  Ali Akbar ki chale laash uthane ke liye
 
   7
-  Daali gulzaar ne jab haal e saqeefa pe nazar
-  Saara manzar tha ye zehra ko rulaane ke liye
+  Daali Gulzar ne jab haal-e-Saqifa pe nazar
+  Saara manzar tha ye Zehra ko rulane ke liye
 # source_id: nohayonline:97f982285e4bc2c88996
 # source_url: https://www.nohayonline.com/details_content.php?id=2297
 # raw_sha256: 94a7510de053bc1e9f07295111d9c7ba6f74bebe17b6d81ed3b5d224be05e3b2
