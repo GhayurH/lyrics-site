@@ -12,8 +12,6 @@ published: false
 romanLyrics: |-
   Jab shimr e layeen shohda ke sar kaat ke laaya
   Shohda ke saron ko pisar e saad ne dekha
-
-  1
   Sar asghar e masoom ka maujood nahi tha
   Ye kehte huwe shimr ko paas apne bulaya
   Haakim mujhe bakhshega nahi tujhko khabar hai
@@ -32,56 +30,56 @@ romanLyrics: |-
   Naize pe sar e asghar e masoom ko dekha
   Thaame kaleja boli wo muztar
   Saani e zehra dekho ye manzar
-
-  2
+  
+  1
   Zainab ne suye lashkar e aada jo nazar ki
   Sar peet ke ye kehne lagi dard ki maari
   Ay kushta e shamsheer e jafa ay mere bhai
   Kya baad e shahadat bhi sitam hota hai koi
   Tu hi bata ay sabr k e paikar
   Kaise sambhale dil ko ye maadar
-
-  3
+  
+  2
   Kya zulm mere bacche pe hai dekh khudaya
   Na jhoole mein paaya na sukoon qabr mein paaya
   Maa roti hai ye keh ke kahan doodh badhaya
   Pani ke ewaz teer e sitam halq pe khaaya
   Pyasa gaya tha dunya se asghar
   Ab ye sitam hai khaaliq e akbar
-
-  4
+  
+  3
   Phir kehne lagi maadar e akbar se lipat kar
   Athara baras jee to gaya tha tera dilbar
   Khoon tujhko rulaati hai magar furqat e akbar
   Ab soch ke kya beet gayi hai mere dil par
   Godh se jisko le gaye sarwar
   Dekh rahi hoon aaj ye manzar
-
-  5
+  
+  4
   Shabbir ne dekha jo sina par sar e asghar
   Ek baar nigahon se kiya sajda zameen par
   Phir bole nigahon ko uthate huwe sarwar
   Tu raazi to mai raazi mere khaliq e akbar
   Waada nibhaya ghar ko luta kar
   Ab ye sitam bhi sehta hoon dil par
-
-  6
+  
+  5
   Akbar se kaha sheh ne mere laal tere baad
   Zainab ka hua gham s e bura haal tere baad
   Thay khaak mein aalooda mere baal tere baad
   Aada ne kiya laashon ko pamaal tere baad
   Ye bhi qayamat aayi mere dilbar
   Dekh sako to dekh lo aa kar
-
-  7
+  
+  6
   Sajjad tadapne lage baba ki fughan par
   Baqar ke sahare se uthe ya ali keh kar
   Rokar ye sakina se kaha ay meri khwahar
   Kya tum ne suna baba jo farmate hai ro kar
   Boli sakina mere baradar
   Bhai se baba kehte hai ro kar
-
-  8
+  
+  7
   Farhan lahoo rote huwe likhta hai mazhar
   Dauran e safar ghazi se farmate thay sarwar
   Tu hota to ye zulm nahi hota baradar
@@ -94,8 +92,6 @@ romanLyrics: |-
 ---
 جب شمر لعیں شہداء کے سر کاٹ کے لایا
 شہداء کے سروں کو پسر سعد نے دیکھا
-
-۱
 سر اصغر معصوم کا موجود نہیں تھا
 یہ کہتے ہوئے شمر کو پاس اپنے بلایا
 حاکم مجھے بخشے گا نہیں تجھکو خبر ہے
@@ -115,7 +111,7 @@ romanLyrics: |-
 تھامے کلیجہ بولی وہ مضطر
 ثانیء زہرا دیکھو یہ منظر
 
-۲
+۱
 زینب نے سوے لشکرِ اعدا جو نظر کی
 سر پیٹ کے یہ کہنے لگی درد کی ماری
 اے کشتۂ شمشیر جفا اے میرے بھائی
@@ -123,7 +119,7 @@ romanLyrics: |-
 تو ہی بتا اے صبر کے پیکر
 کیسے سنبھالے دل کو یہ مادر
 
-۳
+۲
 کیا ظلم میرے بچے پہ ہے دیکھ خدایا
 نہ جھولے میں پایا نہ سکوں قبر میں پایا
 ماں روتی ہے یہ کہہ کے کہاں دودھ بڑھایا
@@ -131,7 +127,7 @@ romanLyrics: |-
 پیاسا گیا تھا دنیا سے اصغر
 اب یہ ستم ہے خالق اکبر
 
-۴
+۳
 پھر کہنے لگی مادر اکبر سے لپٹ کر
 اٹھارہ برس جی تو گیا تھا تیرا دلبر
 خوں تجھکو رلاتی ہے مگر فرقت اکبر
@@ -139,7 +135,7 @@ romanLyrics: |-
 گود سے جس کو لے گےء سرور
 دیکھ رہی ہوں آج یہ منظر
 
-۵
+۴
 شبیر نے دیکھا جو سناں پر سر اصغر
 اک بار نگاہوں سے کیا سجدہ زمیں پر
 پھر بولے نگاہوں کو اٹھاتے ہوئے سرور
@@ -147,7 +143,7 @@ romanLyrics: |-
 وعدہ نبھایا گھر کو لٹا کر
 اب یہ ستم بھی سہتا ہوں دل پر
 
-۶
+۵
 اکبر سے کہا شہ نے میرے لال تیرے بعد
 زینب کا ہوا غم سے برا حال تیرے بعد
 تھے خاک میں آلودہ میرے بال تیرے بعد
@@ -155,7 +151,7 @@ romanLyrics: |-
 یہ بھی قیامت آی میرے دلبر
 دیکھ سکو تو دیکھ لو آ کر
 
-۷
+۶
 سجاد تڑپنے لگے بابا کی فغاں پر
 باقر کے سہارے سے اٹھے یا علی کہہ کر
 رو کر یہ سکینہ سے کہا اے میری خواہر
@@ -163,7 +159,7 @@ romanLyrics: |-
 بولی سکینہ میرے برادر
 بھای سے بابا کہتے ہیں روکر
 
-۸
+۷
 فرحان لہو روتے ہوئے لکھتا ہے مظہر
 دورانِ سفر غازی سے فرماتے تھے سرور
 تو ہوتا تو یہ ظلم نہیں ہوتا بردادر
