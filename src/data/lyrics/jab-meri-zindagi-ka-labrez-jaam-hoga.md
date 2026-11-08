@@ -18,14 +18,14 @@ romanLyrics: |-
   Bakhshish ko meri kaafi ye intezam hoga
 
   2
-  Dhanpenge jab qaribi aa kar mere badan ko
-  Kar lunga yaad us dam mazlum-e-bekafan ko
-  Band hongi aankhein rone se kaam hoga
+  Dhanpeṅge jab qaribi aa kar mere badan ko
+  Kar luṅga yaad us dam mazlum-e-bekafan ko
+  Band hoṅgi aankheṅ rone se kaam hoga
 
   3
-  Meri lahad mein kaise malakut aa sakenge
-  Munkar Nakir kaise mujhko dara sakenge
-  Jabke meri lahad mein mera Imam hoga
+  Meri lahad mein kaise malakut aa sakeṅge
+  Munkar Nakir kaise mujh ko dara sakeṅge
+  Jab ke meri lahad mein mera Imam hoga
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---

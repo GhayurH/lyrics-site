@@ -13,15 +13,15 @@ romanLyrics: |-
   Shabih-e-Payambar Ali Ali
 
   1
-  Nazar utha ke to maa ko dekho ae beta
-  Kiun sar jhukaye khare huwe ho ae beta
+  Nazar utha ke to maaṅ ko dekho ae beta
+  Kiuṅ sar jhukaye khare huwe ho ae beta
   Tum hi to maadar ka aasra ho ae beta
   Ae jaan-e-maadar Ali Ali
 
   2
   Ae mere Yusuf-jamal-e-Akbar ruk jao
   Na ji sakegi tumhari maadar ruk jao
-  Sahenge kaise ye daagh Sarwar ruk jao
+  Saheṅge kaise ye daagh Sarwar ruk jao
   Ruko ae Safdar Ali Ali
 
   3
@@ -39,17 +39,17 @@ romanLyrics: |-
   5
   Padar ki aankhon ka nur ho tum ae dilbar
   Suna hai zakhmon se chur ho tum ae dilbar
-  Kiun haye maadar se dur ho tum ae dilbar
+  Kiuṅ haye maadar se dur ho tum ae dilbar
   Dua-e-maadar Ali Ali
 
   6
   Hai khun ki pyasi ye fauj-e-aada aa jao
   Utare Zainab tumhara sadqa aa jao
-  Sadayen deti hain bint-e-Zehra aa jao
+  Sadaeṅ deti hain bint-e-Zehra aa jao
   Rida-e-Zainab Ali Ali
 
   7
-  Batao Kamil likhun main kaise woh manzar
+  Batao Kamil likhuṅ main kaise woh manzar
   Bapa tha Karbobala mein haye woh mahshar
   Uthaye laasha kamar khamida the Sarwar
   Sada-e-Akbar Ali Ali

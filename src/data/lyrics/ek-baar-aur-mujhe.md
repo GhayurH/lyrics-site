@@ -9,37 +9,37 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek baar aur mujhe godh may le lo baba
+  Ek baar aur mujhe god mein le lo Baba
 
   1
-  Wa hussaina ka hua shor haram may barpa
-  Ho ke ruqsat jo chale ghar se shahe karbobala
-  Kehke ye daudi sakina ke teher jao zara
+  Wa Husaina ka hua shor haram mein barpa
+  Ho ke rukhsat jo chale ghar se Shah-e-Karb o Bala
+  Keh ke ye dauri Sakina ke thehar jao zara
 
   2
-  Sheh ne bachi ka jo ye haal pareshan dekha
-  Roke farmaya ke kya haal meri mahelekha
-  Jod kar nanhe se haathon ko sakina ne kaha
+  Sheh ne bachchi ka jo ye haal pareshan dekha
+  Ro ke farmaya ke kya haal meri mahlaqa
+  Jor kar nanhe se haathon ko Sakina ne kaha
 
   3
-  Sochti hoo ke tamache koi maare na mere
-  Goshware koi kaano se uthare na mere
-  Wehm aate hai mere dil may na jaane kya kya
+  Sochti huṅ ke tamache koi maare na mere
+  Goshware koi kaanon se utare na mere
+  Wahm aate hain mere dil mein na jaane kya kya
 
   4
-  Mai samajhti hun ke yunhi mujhe behlate ho
+  Main samajhti huṅ ke yunhi mujhe behlate ho
   Tha na malum ke marne ke liye jaate ho
-  Tum hamesha ke liye hote ho ab mujhse juda
+  Tum hamesha ke liye hote ho ab mujh se juda
 
   5
-  Baba seene se sakina ko lagate jao
-  Ab kahan hogi mulaqaat batate jao
-  Tumko akbar ki qasam ghuncha dahan ka sadqa
+  Baba sine se Sakina ko lagate jao
+  Ab kahan hogi mulaqat batate jao
+  Tum ko Akbar ki qasam ghuncha dahan ka sadqa
 
   6
-  Ab mai pyasi hoo na pani ki zaroorat hai mujhe
-  Koi haajat nahi bas itni si hasrat hai mujhe
-  Dekhloo phir se jee bhar ke tumhara chehra
+  Ab main pyasi huṅ na pani ki zarurat hai mujhe
+  Koi hajat nahi bas itni si hasrat hai mujhe
+  Dekh luṅ phir se ji bhar ke tumhara chehra
 
   7
   Kya khabar tum se koi baat bhi ab ho ke na ho
@@ -47,13 +47,13 @@ romanLyrics: |-
   Dil dharakta hai mera bahr-e-Nabi bahr-e-Khuda
 
   8
-  Apni aaghosh mein ae Baba chhupa lo mujhko
-  Aakhri baar kaleje se laga lo mujhko
-  Jite ji aah kahan ab tumhein paungi bhala
+  Apni aaghosh mein ae Baba chhupa lo mujh ko
+  Aakhri baar kaleje se laga lo mujh ko
+  Jite ji aah kahan ab tumhein pauṅgi bhala
 
   9
-  Tum na aaoge to ae Baba bahot roungi
-  Kis ke sine pe bata dijiye phir soungi
+  Tum na aaoge to ae Baba bahot rouṅgi
+  Kis ke sine pe bata dijiye phir souṅgi
   Na to bhaiya Ali Akbar hain na Abbas Chacha
 
   10
@@ -96,7 +96,7 @@ romanLyrics: |-
 ۶
 اب میں پیاسی ہوں نہ پانی کی ضرورت ہے مجھے
 کوئی حاجت نہیں بس اتنی سی حسرت ہے مجھے
-دیکھلوں پھر سے جی بھر کے تمہارا چہر
+دیکھ لوں پھر سے جی بھر کے تمہارا چہرہ
 
 ۷
 کیا خبر تم سے کوئی بات بھی اب ہو کہ نہ ہو

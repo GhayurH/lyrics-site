@@ -15,21 +15,21 @@ romanLyrics: |-
   1
   Nazron ko meri laiq-e-didar bana de
   Parda jo para hai meri aankhon pe utha de
-  Hadi-e-zaman ka rukh-e-purnur dikha de
+  Hadi-e-zamaṅ ka rukh-e-purnur dikha de
 
   2
-  Har ek nishan kufr o zalalat ka mita dun
-  Har raah mein ek dip sadaqat ka jala dun
+  Har ek nishan kufr o zalalat ka mita duṅ
+  Har raah mein ek dip sadaqat ka jala duṅ
   Is khair-e-amal ki mujhe taufiq Khuda de
 
   3
   Likh de meri taqdir mein Maula ki ghulami
-  Hasil mujhe ho jaaye ye aazaz-e-dawami
+  Hasil mujhe ho jaaye ye aizaz-e-dawami
   Har khwahish-e-dunya ko mere dil se mita de
 
   4
   Shamil rahe lehje mein sada harf-e-sadaqat
-  Shamshir tale main bhi karun koi ibadat
+  Shamshir tale main bhi karuṅ koi ibadat
   Ae kaash mujhe Fatima Zehra ye dua de
 
   5
@@ -38,8 +38,8 @@ romanLyrics: |-
   Khaak-e-qadam-e-Hazrat-e-Shabbir bana de
 
   6
-  Dekhun na agar uthte huwe parda-e-ghaibat
-  Aayen jo mere baad yahan Hazrat-e-Hujjat
+  Dekhuṅ na agar uthte huwe parda-e-ghaibat
+  Aaeṅ jo mere baad yahan Hazrat-e-Hujjat
   Turbat mein aa kar koi mera shana hila de
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook

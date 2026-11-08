@@ -10,67 +10,67 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas abbas ya abal fazlil abbas
-  
+  Abbas Abbas ya Abal Fazlil Abbas
+
   1
-  Saqqa-e-haram rakh lena bharam
-  Hum dar pe tumhare aaye hain
+  Saqqa-e-Haram rakh lena bharam
+  Hum dar pe tumhare aaye haiṅ
   Tum bhi nahi hum ko thukrana
-  Hum dunya ke thukraye hain
-  
+  Hum dunya ke thukraye haiṅ
+
   2
   Ab saare sahare tut chuke
-  Hamay apne paraye loot chuke
+  Hamein apne paraye lut chuke
   Tum apni panahon mein le lo
-  Hum gham se bahot ghabraye hain
-  
+  Hum gham se bahot ghabraye haiṅ
+
   3
-  Ashkon ki zaban pehchante ho
-  Jo dil mein hai wo bhi jaante ho
+  Ashkon ki zabaṅ pehchante ho
+  Jo dil mein hai woh jaante ho
   Hum keh nahi sakte tum sun lo
-  Bas haathon ko phailaye hain
-  
+  Bas haathon ko phailaye haiṅ
+
   4
   Har suni godi khil jaaye
   Har beti ko rishta mil jaaye
-  Un chehron ko raunak de do
-  Jo gham ke sabab murjhaye hain
-  
+  Un chehron ko raunaq de do
+  Jo gham ke sabab murjhaye haiṅ
+
   5
-  Maula tum baabe hawaij ho
-  Rauze pe unhe bhi bulwalo
+  Maula tum Bab-ul-Hawaij ho
+  Rauze pe unhein bhi bulwa lo
   Ghurbat ke sabab jo aa na sake
-  Hum unke areeze laaye hai
-  
+  Hum un ke arize laaye haiṅ
+
   6
   Jo naam tumhara leta hai
-  Allah bhi usko deta hai
-  Khairaat bureeda shaano ki
-  Lene ke liye hum aaye hai
-  
+  Allah bhi us ko deta hai
+  Khairat burida shanon ki
+  Lene ke liye hum aaye haiṅ
+
   7
-  Hote hai kitne zulm shadeed
-  Aur ahle aza hote shaheed
-  Jo khatm yazeedon ko kar de
-  Wo taaqat maangne aaye hai
-  
+  Hote hain kitne zulm o shadid
+  Aur ahl-e-aza hote hain shahid
+  Jo khatm Yazidon ko kar de
+  Woh taqat maangne aaye haiṅ
+
   8
-  Maula hai aap se ek sawaal
-  Allah hamay de rizq e halaal
-  Ho lashkar mehdi mein shaamil
-  Jitne bhi zaayir aaye hai
-  
+  Maula hai aap se ek sawal
+  Allah hamein de rizq-e-halal
+  Ho lashkar-e-Mehdi mein shamil
+  Jitne bhi zair aaye haiṅ
+
   9
-  Khaa khaa ke tamache roti hai
+  Kha kha ke tamache roti hai
   Zindan ki khaak pe soti hai
-  Bujh jaaye pyaas sakina ki
-  Hum aankh mein aansu laaye hai
-  
+  Bujh jaaye pyaas Sakina ki
+  Hum aankh mein aansuṅ laaye haiṅ
+
   10
   Darbar Sakhi Abbas ka tha
-  Kuch maangna tha laazim maanga
-  Lekin ye haqeeqat bhi hai qamar
-  Hum pursa dene aaye hai
+  Kuchh maangna tha lazim maanga
+  Lekin ye haqiqat bhi hai Qamar
+  Hum pursa dene aaye haiṅ
 # source_id: nohayonline:180f81cba2249707b6d0
 # source_url: https://www.nohayonline.com/details_content.php?id=3067
 # raw_sha256: 37f5f0850efd6ff546f503c5f634665b8b55c52501a404d8e584d9345044ec97
@@ -136,5 +136,5 @@ romanLyrics: |-
 ۱۰
 دربار سخی عباس کا تھا
 کچھ مانگنا تھا لازم مانگا
-لیکن‌ یہ حقیقیت بھی ہے قمر
+لیکن‌ یہ حقیقت بھی ہے قمر
 ہم‌ پرسہ دینے آے ہیں

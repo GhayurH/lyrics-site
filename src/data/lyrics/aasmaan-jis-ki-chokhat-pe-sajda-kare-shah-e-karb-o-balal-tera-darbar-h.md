@@ -1,37 +1,62 @@
 ---
-title: "Aasmaan Jis Ki Chokhat Pe Sajda Kare Shah-e-Karb-o-Balal Tera Darbar Hai"
-language: "Roman Urdu"
+title: "آسماں جس کی چوکھٹ پہ سجدہ کرے شاہِ کرب و بلا تیرا دربار ہے"
+alternateTitle: "Aasmaan Jis Ki Chokhat Pe Sajda Kare Shah-e-Karb o Bala Tera Darbar Hai"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Allama Dr Majid Raza Abidi"
+reciter: "Syed Wajhi Hasan Zaidi"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Aasmaan jis ki chokhat pe sajda kare Shah-e-Karb o Bala tera darbar hai
+  Jis mein aansu bhare hoṅ tere naam ke bakhuda bas wohi aankh bedar hai
+  Mansab o jaah ka silsila aur hai yahan to shahi ka kuchh aur mayaar hai
+  Ye hai Karb o Bala Shah-e-Din ka nagar yahan woh sardar hai jo sar-e-dar hai
+
+  1
+  Mere Sarwar mere Shah mere Wali mere Sardar o Sayyid mere Badshah
+  Jab se mala japi hai tere naam ki meri mutthi mein ye sara sansar hai
+  Tu ne Rahib ko bete ata kar diye tu ne Fitrus ko bhi baal o par de diye
+  Kaam saare Khuda jaise karta hai tu phir bhi sajde mein sar tera har baar hai
+
+  2
+  Karbala lauh par likh raha hai qalam din ka hai bharam arsh ka hai hasham
+  Haq to ye hai haqiqat hai Karb o Bala is se hat kar hai jo kuchh woh bekaar hai
+  Jis ko Allah se rabita chahiye ae Karb o Bala us ko ye chahiye
+  Arsh se rabt-e-paiham ki manzil ye rauza-e-Shah ka aisa minar hai
+
+  3
+  Karbala chhor do woh fiza chhor do maal o daulat bhi lo jaah o mansab bhi lo
+  Ye woh ghate ka sauda hai jis se mujhe kal bhi inkar tha ab bhi inkar hai
+  Tu ne jab se bulaya hai darbar mein aalam-e-mahviyat mein hai Majid Raza
+  Ek tasavvur mein rehta hai zehn-e-rifah hai jabin meri aur tera darbar hai
 # source_id: tajpoints:4ecc1b986b474edf5b4c
 # source_url: https://tajpoints.com/2017/12/aasmaan-jis-ki-chokhat-pe-sajda-kare.html
 # raw_sha256: f0e42d16f761360086b4e29129c41851459e6d88f5c2fb4b62e71170c0c67d7e
+# editorial_review: source checked at tajpoints.com; poet and reciter verified; uncertain readings noted in CSV
 ---
+آسماں جس کی چوکھٹ پہ سجدہ کرے شاہِ کرب و بلا تیرا دربار ہے
+جس میں آنسو بھرے ہوں تیرے نام کے بخدا بس وہی آنکھ بیدار ہے
+منصب و جاہ کا سلسلہ اور ہے یہاں تو شاہی کا کچھ اور معیار ہے
+یہ ہے کرب و بلا شاہِ دیں کا نگر یہاں وہ سردار ہے جو سرِ دار ہے
 
-1
-Aasmaan Jis Ki Chokhat Pe Sajda Kare Shah-e-Karb-o-Balal Tera Darbar Hai
-Jiss Mein Aanso Bhare Hoon Tere Naam Ke Ba-Khuda Bas Wohi Aankh Baydar Hai
-Mansab-o-Jaah Ka Silsila Our Hai Yaan To Shahi Ka Kuch Our Maiyar Hai
-Yeh Hai Karb-o-Bala Shah-e-Deein Ka Nagar Yaan Woh Sardar Hai Jo Sar-e-Daar Hai
+۱
+میرے سرور میرے شاہ میرے ولی میرے سردار و سید میرے بادشاہ
+جب سے مالا جپی ہے تیرے نام کی میری مٹھی میں یہ سارا سنسار ہے
+تو نے راہب کو بیٹے عطا کر دیے تو نے فطرس کو بھی بال و پر دے دیے
+کام سارے خدا جیسے کرتا ہے تو پھر بھی سجدے میں سر تیرا ہر بار ہے
 
-2
-Mere Sarwar Mere Shah Mere Wali Mere Sardar-o-Syed Mere Badshah
-Jab Se Mala Japi Hai Tere Naam Ki Meri Muthi Mein Yeh Sara Sansar Hai
-Tu Ne Rahib Ko Betay Atta Kar Diye Tu Ne Fitrus Ko Bhi Bal-o-Par De Diye
-Kam Sare Khuda Jaise Karta Hai Tu Phir Bhi Sajday Mein Sar Tera Har Baar Hai
+۲
+کربلا لوح پر لکھ رہا ہے قلم دین کا ہے بھرم عرش کا ہے حشم
+حق تو یہ ہے حقیقت ہے کرب و بلا اس سے ہٹ کر ہے جو کچھ وہ بیکار ہے
+جس کو اللہ سے رابطہ چاہیے اے کرب و بلا اس کو یہ چاہیے
+عرش سے ربطِ پیہم کی منزل یہ روضۂ شاہ کا ایسا مینار ہے
 
-3
-Karbala Looh Par Likh Raha Hai Qalam Dein Ka Hai Bharam Arsh Ka Hai Hasham
-Haq To Yeh Hai Haqeeqat Hai Karb-o-Bala Iss Se Hat Kar Hai Jo Kuch Woh Be-Kar Hai
-Jiss Ko ALLAH Se Rabita Chahiye Aye Karb-o-Bala Oss Ko Yeh Chahiye
-Arsh Se Rabt-e-Paihum Ki Manzil Yeh Roza-e-Shah Ka Aisa Minar Hai
-
-4
-Karbala Choor Do Woh Fiza Choor Do Maal-o-Dolat Bhi Lo Jaah-o-Mansab Bhi Lo
-Yeh Woh Ghatey Ka Soda Hai Jiss Se Mujhe Kal Bhi Inkar Tha Ab Bhi Inkar Hai
-Tu Ne Jab Se Bulaya Hai Darbar Mein Alam-e-Mehviyat Mein Hai:MAJID RAZA:
-Ik Tasawur Mein Rehta Hai Zehan-e-Rifah Hai Jabeen Meri Our Tera Darbar Hai
+۳
+کربلا چھوڑ دو وہ فضا چھوڑ دو مال و دولت بھی لو جاہ و منصب بھی لو
+یہ وہ گھاٹے کا سودا ہے جس سے مجھے کل بھی انکار تھا اب بھی انکار ہے
+تو نے جب سے بلایا ہے دربار میں عالمِ محویت میں ہے مجید رضا
+اک تصور میں رہتا ہے ذہنِ رفاہ ہے جبیں میری اور تیرا دربار ہے

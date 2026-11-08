@@ -14,64 +14,64 @@ romanLyrics: |-
   Pani barsa de aasman
 
   1
-  Dekh wo pyase bacche sheh ke
-  Haathon mein hai khaali kooze
+  Dekh woh pyase bachche Sheh ke
+  Haathon mein hain khaali kuze
   Dekh udhar darya ki rawani
-  Us pe sitam hai tashna dahani
+  Us pe sitam hai tashnadahani
 
   2
-  Maalik e kausar pani ko tarse
+  Malik-e-Kausar pani ko tarse
   Aur pani phir bhi na barse
-  Sookhe hai lab aur zubanein
+  Sukhe hain lab aur zabaneṅ
   Rukne lagi saanson ki rawani
 
   3
   Aasman tujhko taras na aaya
   Ab tak na pani barsaya
-  Sookhe huwe kooze bhi sunaye
-  Tishna labon ke gham ki kahani
+  Sukhe huwe kuze bhi sunaeṅ
+  Tashnalabon ke gham ki kahani
 
   4
-  Dasht mein har soo zulm ke lashkar
-  Pehre lagaye hai pani par
-  Qaid hui darya ki maujein
-  Ghere huwe hai zulm ke baani
+  Dasht mein har su zulm ke lashkar
+  Pehre lagaye hain pani par
+  Qaid hui darya ki maujeṅ
+  Ghere huwe hain zulm ke bani
 
   5
-  Tu to hai sairaab is neymat se
+  Tu to hai sairab is nemat se
   Soch zara lekin shiddat se
-  Tujhko jaa kar kaun bataye
-  Tashna labi ke kya hai mu’aani
+  Tujhko ja kar kaun batae
+  Tashnalabi ke kya hai maani
 
   6
-  Dekhna ek din aayega wo
-  Pani se mehroom rahe jo
-  Saare jag mein hongi sabeelein
-  Tashna labon ki ban ke nishani
+  Dekhna ek din aaega woh
+  Pani se mahrum rahe jo
+  Saare jag mein hoṅgi sabileṅ
+  Tashnalabon ki ban ke nishani
 
   7
-  Kehti hai tujhse khaak e bayaban
-  Bacche hai betaab hirasan
-  Aati hai rone ki sadayein
-  Kehte hai ro kar pani pani
+  Kehti hai tujh se khaak-e-bayabaṅ
+  Bachche hain betab harasaṅ
+  Aati hain rone ki sadaeṅ
+  Kehte hain ro kar pani pani
 
   8
-  Kaun hai in par rehm jo khaaye
-  Aur pyason ko pani pilaye
-  Door hai ye apne watan se
-  Aaye hai kar ke naql makani
+  Kaun hai in par rahm jo khae
+  Aur pyason ko pani pilae
+  Dur hai ye apne watan se
+  Aae hain kar ke naql-e-makani
 
   9
-  Ashkon se apni pyaas bujhayi
-  Pyase dete hai ye duhaai
-  Dekh ke rote han darya ko
-  Sookhe labon ka rang hai dhaani
+  Ashkon se pani pyaas bujhai
+  Pyase dete hain ye duhai
+  Dekh ke rote hain darya ko
+  Sukhe labon ka rang hai dhaani
 
   10
-  Aaj bhi dil par zakhm hai taaza
-  Is se tu kar le andaaza
-  Pani piyein farhan o mazhar
-  Pyason pe kar ke fateha khwani
+  Aaj bhi dil zakhm hai taza
+  Is se tu kar le andaza
+  Pani pieṅ Farhan o Mazhar
+  Pyason pe kar ke Fateha khwani
 # source_id: nohayonline:a07998e5192141e7e0db
 # source_url: https://www.nohayonline.com/details_content.php?id=2369
 # raw_sha256: 8dc0b2efa4dba2d0c4f0dad035fbfd478b399aa16ccd51efa93fd5a6cef187e5
@@ -98,7 +98,7 @@ romanLyrics: |-
 تشنہ لبوں کے غم کی کہانی
 
 ۴
-دشت میں ہر سوں ظلم کے لشکر
+دشت میں ہر سو ظلم کے لشکر
 پہرے لگاے ہیں پانی پر
 قید ہوی دریا کی موجیں
 گھیرے ہوے ہے ظلم کے بانی
@@ -137,4 +137,4 @@ romanLyrics: |-
 آج بھی دل زخم ہے تازہ
 اس سے تو کر لے اندازہ
 پانی پییں فرحان و مظہر
-پیاسوں پہ کر کے فاتح خوانی
+پیاسوں پہ کر کے فاتحہ خوانی
