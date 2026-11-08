@@ -15,8 +15,8 @@ romanLyrics: |-
   Meri rida sinaaṅ par mujhko dikha rahe hain
 
   1
-  Sadaat ke saroṅ se chhinti thi jab ridaeṅ
-  Aal-e-Nabi ne di thi us dam tujhe sadaeṅ
+  Sadaat ke saroṅ se chhinti thiṅ jab ridaeṅ
+  Aal-e-Nabi ne di thiṅ us dam tujhe sadaeṅ
   Ab khaak-e-Karbala se sar ko chhupa rahe hain
 
   2
