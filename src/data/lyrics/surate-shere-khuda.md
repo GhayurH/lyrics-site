@@ -12,32 +12,31 @@ published: false
 romanLyrics: |-
   Surate shere khuda jaaho hasham kiska hai
   Labe darya zara dekho ye alam kiska hai
-  Surate shere khuda jaaho hasham kiska hai
-  
+
   1
   Alqama mit nahi sakta tere seene se kabhi
   Tujhko maloom nahi nakshe qadam kiska hai
-  
+
   2
   Likh raha hai jo qalam hoke wafaon ki kitaab
   Karbala dekh to ye haath qalam kiska hai
-  
+
   3
   Jab khule baabe hawaij ke maani mujh par
   Tab mai samjha hoon ke mujh par ye karam kiska hai
-  
+
   4
   Koi bhi jhooti qasam jiski nahi khaa sakta
   Mere ghazi ke ilawa ye bharam kiska hai
-  
+
   5
   Nehr par laasha e abbas tadapta kyun hai
   Naam honton pe sakina labe dam kiska hai
-  
+
   6
   Wo farishte ho ke insaan sabhi shaamil hai
   Aisa dunya mein batao zara gham kiska hai
-  
+
   7
   Nauha ghazi ka hai awaaz hasan sadiq ki
   Aur rehaan ke haathon mein qalam kiska hai
@@ -48,7 +47,6 @@ romanLyrics: |-
 
 صورتِ شیر خدا جاہ و ہشم کس کا ہے
 لب دریا زرا دیکھو یہ علم کس کا ہے
-صورتِ شیر خدا جاہ و ہشم کس کا ہے
 
 ۱
 علقمہ مٹ نہیں سکتا تیرے سینے سے کبھی
