@@ -10,12 +10,13 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Haye haye ali akbar
   Laasha jawan bete ka hai saame pada
   Khamosh hai maula
   Armaan tha jiski shadi ka wo laal mar gaya
   Khamosh hai maula
+
+  1
   Allah kitna saabir hai hussain
   Shaana kabhi hilata hai chehra kabhi thapakta hai
   Kitna ghareeb baba hai
@@ -68,12 +69,13 @@ romanLyrics: |-
 # raw_sha256: de1f5928722d18b35b47d6a55e6ffbfa5391d8b2d796806e5e5aedf2d5182c06
 ---
 
-۱
 ہاے ہاے علی اکبر
 لاشہ جوان بیٹے کا ہے سامنے پڑا
 خاموش ہے مولا
 ارمان تھا جس شادی کا وہ لال مر گیا
 خاموش ہے مولا
+
+۱
 اللہ کتنا صابر ہے حسین
 شانہ کبھی ہلاتا ہے چہرہ کبھی تھپکتا ہے
 کتنا غریب بابا ہے
