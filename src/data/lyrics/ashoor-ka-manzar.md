@@ -12,14 +12,14 @@ published: false
 romanLyrics: |-
   Sajjad ki aankhon mein sughra
   Ashoor ka manzar dekhegi
-  Lut'te huwe apni aankhon se
+  Lutte huwe apni aankhon se
   Zehra ka bhara ghar dekhegi
 
   1
   Wo lamha nazar aayega usay
-  Qaime se chale thay jab akbar
-  Kuch dayr lade phir zakhmi huwe
-  Ghode se gire thay jab akbar
+  Khaime se chale thay jab akbar
+  Kuch der lade phir zakhmi huwe
+  Ghore se gire thay jab akbar
   Phat jayega seena sadme se
   Jab seena e akbar dekhegi
 
@@ -27,7 +27,7 @@ romanLyrics: |-
   Jab chashme baradar mein usko
   Aayega nazar ghazi ka alam
   Chehre pe sukoon aa jayega
-  Kuch dayr mein kam ho jayega gham
+  Kuch der mein kam ho jayega gham
   Do baazu unhi aankhon mein phir
   Wo jalti zameen par dekhegi
 
@@ -41,18 +41,18 @@ romanLyrics: |-
 
   4
   Asghar ko un aankhon mein har soo
-  Dhoondegi bahot bemaar behen
-  Shabbir ke haahton pe ek dam
+  Dhoondegi bohat bemaar behen
+  Shabbir ke hathon pe ek dam
   Aayega nazar wo tashna dahan
   Ek teer chalega us dil par
   Jab teer gale par dekhegi
 
   5
   Hai dhoop mein turbat asghar ki
-  Do laashein qareeb e darya hai
-  Samjhegi nahi kuch dayr talak
+  Do laashein qarib-e darya hai
+  Samjhegi nahi kuch der talak
   Ke dasht mein baba tanha hai
-  Royegi bahot aur samjhegi
+  Royegi bohat aur samjhegi
   Jab laashe bahattar dekhegi
 
   6
@@ -68,7 +68,7 @@ romanLyrics: |-
   Be-aas haram aur aag dhuaan
   Dil thaam ke apne haathon se
   Bemaar karegi aah o fughan
-  Ruqsaar sakina ke zakhmi
+  Rukhsar sakina ke zakhmi
   Aur naizon pe chadar dekhegi
 
   8
@@ -89,7 +89,7 @@ romanLyrics: |-
 زہرا کا بھرا گھر دیکھے گی
 
 ۱
-وہ لمحہ نظر آے گا اسے
+وہ لمحہ نظر آئے گا اسے
 خیمے سے چلے تھے جب اکبر
 کچھ دیر لڑے پھر زخمی ہوئے
 گھوڑے سے گرے تھے جب اکبر
@@ -98,7 +98,7 @@ romanLyrics: |-
 
 ۲
 جب چشم برادر میں اس کو
-آے گا نظر غازی کا علم
+آئے گا نظر غازی کا علم
 چہرے پہ سکوں آ جائے گا
 کچھ دیر میں کم ہو جاے گا غم
 دو بازو انہیں آنکھوں میں پھر
@@ -106,9 +106,9 @@ romanLyrics: |-
 
 ۳
 جب باپ کے کاندھے پر گھٹڑی
-دیکھی تو خیال آے ہونگے
+دیکھی تو خیال آئے ہونگے
 صغرا نے کہا ہو گا دل میں
-قاسم کی بری لاے ہونگے
+قاسم کی بری لائے ہونگے
 جب گھٹڑی کھلے گی تو صغرا
 ٹکڑوں میں گل تر دیکھے گی
 
@@ -116,7 +116,7 @@ romanLyrics: |-
 اصغر کو ان آنکھوں میں ہر سو
 ڈھونڈے گی بہت بیمار بہن
 شبیر کے ہاتھوں پہ ایک دم
-آے گا نظر وہ تشنہ دہن
+آئے گا نظر وہ تشنہ دہن
 ایک تیر چلے گا اس دل پر
 جب تیر گلے پر دیکھے گی
 
@@ -125,8 +125,8 @@ romanLyrics: |-
 دو لاشیں قریب دریا ہے
 سمجھے گی نہیں کچھ دیر تلک
 کہ دشت میں بابا تنہا ہے
-روے گی بہت اور سمجھے گی
-جب لاش بہتر دیکھے گی
+روئے گی بہت اور سمجھے گی
+جب لاشے بہتر دیکھے گی
 
 ۶
 زینب نہ سنانے پائے گی
@@ -147,7 +147,7 @@ romanLyrics: |-
 ۸
 بس صفدر و مظہر ختم کرو
 روداد ستم کو یہ کہہ کر
-سجاد کی آنکھیں بند ہوی
-اور بین یہی آے لب پر
+سجاد کی آنکھیں بند ہوئیں
+اور بین یہی آئے لب پر
 مر جائے گی غم سے جب خواہر
 بازار کا منظر دیکھے گی

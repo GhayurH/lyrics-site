@@ -1,6 +1,6 @@
 ---
 title: "اشکِ غم میں ہیں نہاں کرب کے منظر کتنے"
-alternateTitle: "Ashke Gham May"
+alternateTitle: "Ashk-e-Gham Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,27 +9,27 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashk e gham may hai neha karb ke manzar kitne
-  Chand khatron may simat aaye samandar kitne
+  Ashk-e-gham mein hain nihan karb ke manzar kitne
+  Chand qatron mein simat aaye samandar kitne
 
   1
-  Janisaran e hussaini hai parakhle dunya
-  Hum bhi dekhe ke tere paas hai khanjar kitne
+  Janisaran-e-Husaini hain parakh le dunya
+  Hum bhi dekhein ke tere paas hain khanjar kitne
 
   2
   Sar to zakhmi hua apna ye magar jaan gaye
-  Kis kamigaah se phayke gaye pathar kitne
+  Kis kamiṅ-gah se phenke gaye pathar kitne
 
   3
-  Naam allah ka lene ke liye maaz-allah
-  Log tameel kiye baithe hai khyber kitne
+  Naam Allah ka lene ke liye maaz-allah
+  Log tameel kiye baithe hain Khyber kitne
 
   4
-  Ulfate aal ka dunya ne sila khoob diya
-  Lutgaye kitne makeen khaak huye ghar kitne
+  Ulfat-e-Aal ka dunya ne sila khoob diya
+  Lut gaye kitne makeen khaak huye ghar kitne
 
   5
-  Ek aalam hai ke rota hai ghame sarwar may
+  Ik aalam hai ke rota hai gham-e-Sarwar mein
   Bandh baandhenge jigar aap to ghar ghar kitne
 # source_id: nohayonline:ef191d43c24e813baaca
 # source_url: https://www.nohayonline.com/details_content.php?id=749
@@ -47,8 +47,8 @@ romanLyrics: |-
 اس کمیںگاہ سے پھینکے گئے پتھر کتنے
 
 ۳
-نام اللہ کا لینے کے لیئے معاذاللہ
-لوگ تعمیل کیئے بیٹھے ہیں خیبر کتنے
+نام اللہ کا لینے کے لیے معاذاللہ
+لوگ تعمیل کیے بیٹھے ہیں خیبر کتنے
 
 ۴
 اُلفتِ آل کا دنیا نے صلہ خوب دیا

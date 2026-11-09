@@ -10,9 +10,9 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maqtal may tha jab chaaron taraf maut ka pehra
+  Maqtal mein tha jab chaaron taraf maut ka pehra
   Ashoor ka din tha
-  Baandhe tha kamar zulm pa jab lashkar e aada
+  Baandhe tha kamar zulm pe jab Lashkar-e-aada
 
   1
   Jab pani ke izhaar pa padte thay tamache
@@ -20,7 +20,7 @@ romanLyrics: |-
   Jab pyaas ki shiddat se tadapti thi sakina
 
   2
-  Jab sheh ne sina khaynchi thi akbar ke jigar se
+  Jab sheh ne sinaan khainchi thi akbar ke jigar se
   Rote thay farishte
   Jab sheh ne madad ke liye baba ko pukara
 
@@ -30,12 +30,12 @@ romanLyrics: |-
   Jab baalon ko bikhraye huwe baithi thi kubra
 
   4
-  Jaab haath kate dasht may abbas e jari ke
+  Jab haath kate dasht mein abbas e jari ke
   Darya se na palte
   Jab shaah kamar thaam ke farmate thay bhaiya
 
   5
-  Maa baithi thi qaime may kaleje ko sambhale
+  Maa baithi thi khaime mein kaleje ko sambhale
   Aur karti thi naale
   Jab sheh ne lahoo chehre pa asghar ka mala tha
 
@@ -77,13 +77,13 @@ romanLyrics: |-
 
 ۱
 جب پانی کے اظہار پہ پڑتے تھے طمانچے
-اور ظلم نےء تھے
+اور ظلم نئے تھے
 جب پیاس کی شدت سے تڑپتی تھی سکینہ
 
 ۲
 جب شہ نے سناں کھینچی تھی اکبر کے جگر سے
 روتے تھے فرشتے
-جب شہ نے مدد کے لیےء بابا کو پکارا
+جب شہ نے مدد کے لیے بابا کو پکارا
 
 ۳
 جب لاشہء قاسم پہ ستم کرتے تھے سیار
@@ -116,7 +116,7 @@ romanLyrics: |-
 جب لوٹا گیا اصغر معصوم کا جھولا
 
 ۹
-شہ لاے تھے جب عون و محمد کے جنازے
+شہ لائے تھے جب عون و محمد کے جنازے
 میداں سے اٹھا کے
 جب حضرتِ زینب نے کیا شکر کا سجدہ
 

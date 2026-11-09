@@ -22,7 +22,7 @@ romanLyrics: |-
   Jis waqt jala nanha jhoola
 
   2
-  Cheh maah ka uska sin lekin
+  Chhe maah ka uska sin lekin
   Abbas tha maa ki nazron mein
   Zainab ki chini jab sar se rida
 
@@ -32,7 +32,7 @@ romanLyrics: |-
   Pani ka jab bhi zikr hua
 
   4
-  Dauraan e safar is bibi ki
+  Dauran-e-safar is bibi ki
   Lori ki sada nohay mein dhali
   Dekha jo koi bacha hasta
 
@@ -49,11 +49,11 @@ romanLyrics: |-
   7
   Pehlu ko takti rehti thi
   Raaton ko uth kar roti thi
-  Zindan gayi jab aal e aba
+  Zindan gayi jab Aal-e-Aba
 
   8
   Ansar ye qayamat kaisi thi
-  Veerran hui godhi iski
+  Veeran hui godhi iski
   Dunya mein bicha jab farsh e aza
 # source_id: nohayonline:f77f4717ceeb008fcb70
 # source_url: https://www.nohayonline.com/details_content.php?id=1885
@@ -67,17 +67,17 @@ romanLyrics: |-
 بانو کو اصغر یاد آیا
 
 ۱
-شعلوں کی ضد پر خیمے تھے
+شعلوں کی زد پر خیمے تھے
 ارمان بھی ماں کے جلنے لگے
 جس وقت جلا ننھا جھولا
 
 ۲
 چھ ماہ کا اس کا سن لیکن
 عباس تھا ماں کی نظروں میں
-زینب کی چھن جب سر سے ردا
+زینب کی چھنی جب سر سے ردا
 
 ۳
-دل تھام کے خاک پہ بیٹھ گیء
+دل تھام کے خاک پہ بیٹھ گئی
 اشکوں کی روانی اور بڑی
 پانی کا جب بھی ذکر ہوا
 
@@ -92,16 +92,16 @@ romanLyrics: |-
 ہر گام پہ ہر دن ہر لمحہ
 
 ۶
-بیمار نے اپنے بھای کی
+بیمار نے اپنے بھائی کی
 پوشاک بنا کے رکھی تھی
 روی جو مدینے میں صغریٰ
 
 ۷
 پہلو کو تکتی رہتی تھی
 راتوں کو اٹھ کر روتی تھی
-زندان گیء جب آل عبا
+زندان گئی جب آل عبا
 
 ۸
-انصر یہ قیامت کیسی تھی
-ویران ہوی گودی اسکی
+انصار یہ قیامت کیسی تھی
+ویران ہوئی گودی اسکی
 دنیا میں بچھا جب فرش عزا
