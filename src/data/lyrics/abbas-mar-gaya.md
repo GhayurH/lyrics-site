@@ -10,64 +10,65 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaime mein aaye maqtal e ghazi se jab hussain
-  Khaali alam uthaye thay aur thay zaban pe bayn
-  Zainab ne jab ye poocha wo hyder ka noor e ain
-  Aaya na ghar ko laut ke kyun mere dil ka chain
-  Rote hue hussain ne zainab se ye kaha
-  Hamsheer ab badhado alam apne bhai ka
+  Khaime mein aaye maqtal-e-Ghazi se jab Husain
+  Khali alam uthaye the aur the zabaṅ pe bain
+  Zainab ne jab ye puchha wo Haider ka nur-e-ain
+  Aaya na ghar ko laut ke kiun mere dil ka chain
+  Rote hue Husain ne Zainab se ye kaha
+  Hamshir ab barha do alam apne bhai ka
   Abbas mar gaya
 
   1
-  Saansein ukhar rahi thi jawan mere bhai ki
-  Bedast tha jari
-  Meri nazar ke saamne jaan se guzar gaya
+  Saanseṅ ukhar rahi thiṅ jawaṅ mere bhai ki
+  Bedast tha Jari
+  Meri nazar ke saamne jaṅ se guzar gaya
 
   2
-  Behta tha khoon aankh mein paywast teer tha
+  Behta tha khun aankh mein paiwast teer tha
   Manzar tha dard ka
   Zainab hamare bhai pe itni hui jafa
 
   3
-  Har khatra aab ka usay pyara tha jaan se
+  Har qatra-e-aab ka use pyara tha jaan se
   Maqtal mein is liye
-  Lagte hi teer mashk pe pani juhin baha
+  Lagte hi teer mashk pe pani junhi baha
 
   4
-  Boli sakina bachon ke honton pe pyas hai
-  Mujhse hi aas hai
-  Mai unko kis tarha se bataun mera chacha
+  Boli Sakina bachchoṅ ke hoṅtoṅ pe pyaas hai
+  Mujh se hi aas hai
+  Main un ko kis tarah se batauṅ mera chacha
 
   5
-  Akbar kahan ho baap ko aa kar sambhaal lo
+  Akbar kahan ho baap ko aa kar sambhal lo
   Mushkil mein saath do
-  Sarwar ka ab koi bhi sahara nahi raha
+  Sarwar ka ab koi bhi sahara nahiṅ raha
 
   6
-  Ab baade asr kaun hai qaimon ka paasban
-  Mehshar ka hai samaa
-  Ghabrayi binte fatema jab shor ye utha
+  Ab baad-e-asr kaun hai khaimoṅ ka pasbaṅ
+  Mahshar ka hai samaṅ
+  Ghabrai Bint-e-Fatema jab shor ye utha
 
   7
-  Sarwar ki baat kaise bhala taal'ta jari
-  Khaahish thi shaah ki
-  Par bhai kehke hogaya khamosh bawafa
+  Sarwar ki baat kaise bhala talta Jari
+  Khwahish thi Shah ki
+  Par bhai keh ke ho gaya khamosh bawafa
 
   8
-  Izhaar ho ke ghamzada farmate thay hussain
-  Loota gaya hai chain
-  Ab andhiyon ki zad pe hai zainab teri rida
+  Izhaar ho ke ghamzada farmate the Husain
+  Luta gaya hai chain
+  Ab aandhiyoṅ ki zad pe hai Zainab teri rida
 # source_id: nohayonline:83ee52003c984e1d27c6
 # source_url: https://www.nohayonline.com/details_content.php?id=1127
 # raw_sha256: f7e85795f2f2d9d5b031921bb8d6a32df6c8e70ad7e403ad8289777f409184e1
 ---
-خیمے میں آے مقتل غازی سے جب حسین
-خالی الم اٹھاے تھے اور تھے زباں پہ بین
+
+خیمے میں آئے مقتل غازی سے جب حسین
+خالی علم اٹھائے تھے اور تھے زباں پہ بین
 زینب نے جب یہ پوچھا وہ حیدر کا نور عین
 آیا نہ گھر کو لوٹ کے کیوں میرے دل کا چین
 روتے ہوئے حسین نے زینب سے یہ کہا
 ہمشیر اب بڑھا دو علم اپنے بھائی کا
-عباس مرگیا
+عباس مر گیا
 
 ۱
 سانسیں اکھڑ رہی تھیں جواں میرے بھائی کی
@@ -81,7 +82,7 @@ romanLyrics: |-
 
 ۳
 ہر قطرہ آب کا اُسے پیارا تھا جان سے
-مقتل میں اس لئے
+مقتل میں اس لیے
 لگتے ہی تیر مشک پہ پانی جونہی بہا
 
 ۴
