@@ -11,81 +11,82 @@ aliases: []
 published: false
 romanLyrics: |-
   Ghazi to hai na un se hi kehna
-  Ay dunya waalon dar dar na jao
-  Kya gham hai tumko aa kar sunao
+  Ae dunya waloṅ dar dar na jao
+  Kya gham hai tum ko aa kar sunao
   Kehta hai alam hum se
-  Meinoos na ho gham se
+  Mayus na ho gham se
   Abbas ko pukaro
-  Ya hazrate abbas mere gham ki dawa
+  Ya Hazrat-e-Abbas mere gham ki dawa
   Mera bhi koi hai ye zamane ko bata do
-  Babul hawaij alamdar alamadar
+  Bab-ul-Hawaij Alamdar Alamdar
 
   1
-  Dunya se nahi maango kay degi tumhe dunya
-  Allah ne rakha hai ummeed ka ek rasta
-  Dehleez se ghazi ki ho jao wo wabasta
-  Do waasta zainab ka phir kaam bane sab ka
+  Dunya se nahiṅ maṅgo kya degi tumheṅ dunya
+  Allah ne rakha hai umid ka ek rasta
+  Dehliz se Ghazi ki ho jao wo wabasta
+  Do wasta Zainab ka phir kaam bane sab ka
 
   2
-  Dil toota hua ho to apno ko bulaata hai
-  Dukh apne to har koi apno se hi kehta hai
-  Bpno ki pareshani apna hi samajhta hai
-  Wo sab ka sahara hai apno se bhi pyara hai
+  Dil tuta hua ho to apnoṅ ko bulata hai
+  Dukh apne to har koi apnoṅ se hi kehta hai
+  Apnoṅ ki pareshani apna hi samajhta hai
+  Wo sab ka sahara hai apnoṅ se bhi pyara hai
 
   3
-  Ek pyasi bhatiji ki ammu se guzarish hai
-  Hum sab ki duaon mein ye mashk sifarish hai
-  Samjho ko ata'on ki din raat jo baarish hai
-  Radh hogi dua kaise ammu hai sakina ke
+  Ek pyasi bhatiji ki Ammu se guzarish hai
+  Hum sab ki duaoṅ mein ye mashk sifarish hai
+  Samjho ko ataoṅ ki din raat jo barish hai
+  Radd hogi dua kaise Ammu hain Sakina ke
 
   4
-  Moo mod liya sab ne kya chod diya sab ne
-  Halaat se tang aake dil chota nahi karte
-  Abbas ki soorat mein ek aas to baakhi hai
-  Har gham se nikalega seene se lagalega
+  Munh mor liya sab ne kya chhor diya sab ne
+  Halat se tang aa ke dil chhota nahiṅ karte
+  Abbas ki surat mein ek aas to baqi hai
+  Har gham se nikalega sine se laga lega
 
   5
-  Jo dil pe guzarti hai har baat bataani hai
-  Bemaari pareshani sab inko sunaani hai
-  Maine to har ek mannat abbas se maani hai
-  Meinoos na jaaoge jo maanga wo paaoge
+  Jo dil pe guzarti hai har baat batani hai
+  Bimari pareshani sab in ko sunani hai
+  Maine to har ek mannat Abbas se maani hai
+  Mayus na jaoge jo maṅga wo paoge
 
   6
-  Toofan e hawa jis se ghabrana nahi logon
-  Aghiyaar ki chaukat pe tum jaana nahi logon
-  Tum ne mere ghazi ko pehchana nahi logon
-  Kar dega meherbani jaisi ho pareshani
+  Tufan-e-hawa jis se ghabrana nahiṅ logoṅ
+  Aghyar ki chaukhat pe tum jaana nahiṅ logoṅ
+  Tum ne mere Ghazi ko pehchana nahiṅ logoṅ
+  Kar dega mehrbani jaisi ho pareshani
 
   7
-  Har dil ki muradon ko sunta hai mera ghazi
-  Jo maango aqeede se deta hai mera ghazi
-  Saath apne muhibbon ke rehta hai mera ghazi
-  Taqdeer ki ho pasti aajaye jo tang dasti
+  Har dil ki muradoṅ ko sunta hai mera Ghazi
+  Jo maṅgo aqide se deta hai mera Ghazi
+  Saath apne muhibboṅ ke rehta hai mera Ghazi
+  Taqdir ki ho pasti aa jaaye jo tangdasti
 
   8
-  Maslak hai wafadari fitrat mein jalaali hai
-  Ye apni sakhawat mein dunya mein misaali hai
-  Kab haath faqeeron ki is sher ne taali hai
-  Lab hilne nahi paaye aur jholiyan bhar jaaye
+  Maslak hai wafadari fitrat mein jalali hai
+  Ye apni sakhawat mein dunya mein misali hai
+  Kab haath faqiroṅ ki is sher ne tali hai
+  Lab hilne nahiṅ paaye aur jholiyaṅ bhar jaayeṅ
 
   9
-  Farhan aqeeda ye maa baap se paaya hai
-  Abbas ki chaukat pe sar sab ne jhukaya hai
-  Likh likh ke zamane ko mazhar ne bataya hai
-  Aa jaye koi mushkil gharbaye bahot jab dil
+  Farhan aqida ye maaṅ baap se paaya hai
+  Abbas ki chaukhat pe sar sab ne jhukaya hai
+  Likh likh ke zamane ko Mazhar ne bataya hai
+  Aa jaaye koi mushkil ghabraye bahot jab dil
 # source_id: nohayonline:2ab54e7bf0b595537226
 # source_url: https://www.nohayonline.com/details_content.php?id=1699
 # raw_sha256: b9689285f21012dfc719ce493ada8327911b3d1dc512811eca41ce368235bb59
 ---
+
 غازی تو ہے نہ ان سے ہی کہنا
 اے دنیا والوں در در نہ جاؤ
 کیا غم ہے تم کو آ کر سناؤ
-کہتا ہے الم ہم سے
+کہتا ہے علم ہم سے
 مایوس نہ ہو غم سے
 عباس کو پکارو
 یا حضرت عباس میرے غم کی دوا
 میرا بھی کوئی ہے یہ زمانے کو بتا دو
-باب الحوایج علمدار علمدار
+باب الحوائج علمدار علمدار
 
 ۱
 دنیا سے نہیں مانگو کیا دے گی تمہیں دنیا
@@ -127,16 +128,16 @@ romanLyrics: |-
 ہر دل کی مرادوں کو سنتا ہے میرا غازی
 جو مانگو عقیدے سے دیتا ہے میرا غازی
 ساتھ اپنے محبوں کے رہتا ہے میرا غازی
-تقدیر کی ہو پستی آجاے جو تنگ دستی
+تقدیر کی ہو پستی آ جائے جو تنگ دستی
 
 ۸
 مسلک ہے وفاداری فطرت میں جلالی ہے
 یہ اپنی سخاوت میں دنیا میں مثالی ہے
 کب ہاتھ فقیروں کی اس شیر نے ٹالی ہے
-لب ہلنے نہیں پاے اور جھولیاں بھر جاے
+لب ہلنے نہیں پائے اور جھولیاں بھر جائیں
 
 ۹
 فرحان عقیدہ یہ ماں باپ سے پایا ہے
 عباس کی چوکھٹ پہ سر سب نے جھکایا ہے
 لکھ لکھ کے زمانے کو مظہر نے بتایا ہے
-آ جاے کوئی مشکل گھبراے بہت جب دل
+آ جائے کوئی مشکل گھبرائے بہت جب دل

@@ -10,62 +10,63 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jis waqt shaam aaya zainab ka dil ghabraya
-  Bazaar mein sitamgar zainab ko la rahe hai
-  Aale nabi ko zaalim dar dar phira rahe hai
+  Jis waqt Shaam aaya Zainab ka dil ghabraya
+  Bazar mein sitamgar Zainab ko la rahe hain
+  Aal-e-Nabi ko zalim dar dar phira rahe hain
   Abbas ko bulao
 
   1
-  Saydaniya to shah ke matam mein ro rahi hai
-  Aur behaya sitamgar khushiyan mana rahe hai
+  Sayyadaniyaṅ to Sheh ke matam mein ro rahi hain
+  Aur behaya sitamgar khushiyaṅ mana rahe hain
 
   2
-  Ek ashk par hai jin ke dono jahan sadqe
-  Has has ke shaam waale unko rula rahe hai
+  Ek ashk par hain jin ke donoṅ jahaṅ sadqe
+  Hans hans ke Shaam wale un ko rula rahe hain
 
   3
-  Ahle haram pe zaalim barsa rahe hai pathar
-  Mazloom sar jhukaye aansu baha rahe hai
+  Ahl-e-Haram pe zalim barsa rahe hain patthar
+  Mazlum sar jhukaye aaṅsu baha rahe hain
 
   4
-  Bekhauf hoke zaalim ghasib ghulam zaade
-  Sheh ki yateem bacchi pe zulm dha rahe hai
+  Bekhauf ho ke zalim ghasib ghulamzade
+  Sheh ki yatim bachchi pe zulm dha rahe hain
 
   5
-  Tishna dahan sakina hasrat se dekhti hai
-  Pani dikha dikha ke shaami baha rahe hai
+  Tishna dahan Sakina hasrat se dekhti hai
+  Pani dikha dikha ke Shami baha rahe hain
 
   6
-  Beemar sareban se ghabra ke boli zainab
-  Hum berida khule sar darbar jaa rahe hai
+  Bimar sareban se ghabra ke boli Zainab
+  Hum berida khule sar darbar ja rahe hain
 
   7
-  Ek maa tadap tadap ke faryad kar rahi hai
-  Sajjad ke sitamgar durre laga rahe hai
+  Ek maaṅ tarap tarap ke faryad kar rahi hai
+  Sajjad ke sitamgar durre laga rahe hain
 
   8
-  Phir waqt aa gaya hai dunya mein aaj gohar
-  Ahle sitam jahan mein phir sar utha rahe hai
+  Phir waqt aa gaya hai dunya mein aaj Gohar
+  Ahl-e-sitam jahaṅ mein phir sar utha rahe hain
 # source_id: nohayonline:ccf4d7f43c8dbe297d13
 # source_url: https://www.nohayonline.com/details_content.php?id=3424
 # raw_sha256: d01b55bcce486953b3ae37d46d583dadaa8b5134ec7b84a19a8de6fd2b7e2ed8
 ---
+
 جس وقت شام آیا زینب کا دل گھبرایا
 بازار میں ستمگر زینب کو لا رہے ہیں
 آل نبی کو ظالم در در پھرا رہے ہیں
 عباس کو بلاؤ
 
 ۱
-سیدانیاں تو شہ کے ماتم میں رو رہی ہے
+سیدانیاں تو شہ کے ماتم میں رو رہی ہیں
 اور بے حیا ستمگر خوشیاں منا رہے ہیں
 
 ۲
-ایک اشک پر ہے جن کے دونوں جہان صدقے
+ایک اشک پر ہیں جن کے دونوں جہان صدقے
 ہنس ہنس کے شام والے ان کو رلا رہے ہیں
 
 ۳
-أہل حرم پہ ظالم برسا رہے ہیں پتھر
-مظلوم سر جھکائے آنسوں بہا رہے ہیں
+اہل حرم پہ ظالم برسا رہے ہیں پتھر
+مظلوم سر جھکائے آنسو بہا رہے ہیں
 
 ۴
 بے خوف ہو کے ظالم غاصب غلام زادے
@@ -80,9 +81,9 @@ romanLyrics: |-
 ہم بے ردا کھلے سر دربار جا رہے ہیں
 
 ۷
-ایک ماں تڑپ کے فریاد کر رہی ہے
+ایک ماں تڑپ تڑپ کے فریاد کر رہی ہے
 سجاد کے ستمگر درے لگا رہے ہیں
 
 ۸
 پھر وقت آ گیا ہے دنیا میں آج گوہر
-أہل ستم جہاں میں پھر سے اٹھا رہے ہیں
+اہل ستم جہاں میں پھر سر اٹھا رہے ہیں
