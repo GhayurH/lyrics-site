@@ -1,6 +1,6 @@
 ---
 title: "ماں کہہ رہی ہے رکھ کر"
-alternateTitle: "Aankhein To Khol"
+alternateTitle: "Aankheṅ To Khol"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,20 +10,20 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa keh rahi hai rakh kar
-  Zanu pe khun bhara sar
-  Aankhein to khol Akbar
-  Aankhein to khol Akbar
+  Maaṅ keh rahi hai rakh kar
+  Zanuṅ pe khuṅ bhara sar
+  Aankheṅ to khol Akbar
+  Aankheṅ to khol Akbar
 
   1
-  Pehchaan lo to jaano
+  Pehchaan lo to jaanoṅ
   Surat hai kya hamari
-  Aankhein to khol dekho
+  Aankheṅ to khol dekho
   Haalat hai kya hamari
 
   2
   Sehre ki har lari to
-  Ashkon mein dhal gayi hai
+  Ashkoṅ mein dhal gayi hai
   Mehndi ki thi jo hasrat
   Wo khun mal gayi hai
 
@@ -34,14 +34,14 @@ romanLyrics: |-
   Sab ghar ka ghar khada hai
 
   4
-  Khursheed sa ye chehra
-  Sab khun mein bhar gaya hai
-  Dekho to maa ke dil mein
+  Khurshid sa ye chehra
+  Sab khuṅ mein bhar gaya hai
+  Dekho to maaṅ ke dil mein
   Neza utar gaya hai
 
   5
   Lab par ye Umm-e-Laila
-  Ke hai Naved naala
+  Keh hai Naved naala
   Tum kya gaye gaya hai
   Ghar se mere ujaala
 # source_id: nohayonline:cb0587cc4ecbd2b01214
@@ -61,9 +61,9 @@ romanLyrics: |-
 
 ۲
 سہرے کی ہر لڑی تو
-اشکوں میں ڈھل گیء ہے
+اشکوں میں ڈھل گئی ہے
 مہندی کی تھی جو حسرت
-وہ خون مل گیء ہے
+وہ خون مل گئی ہے
 
 ۳
 سرہانے دیکھو صغرا
@@ -72,7 +72,7 @@ romanLyrics: |-
 سب گھر کا گھر کھڑا ہے
 
 ۴
-خرشید سا یہ چہرہ
+خورشید سا یہ چہرہ
 سب خوں میں بھر گیا ہے
 دیکھو تو ماں کے دل میں
 نیزہ اتر گیا ہے
@@ -80,5 +80,5 @@ romanLyrics: |-
 ۵
 لب پر یہ ام لیلیٰ
 کہ ہے نوید نالہ
-تم کیا گےء گیا ہے
+تم کیا گئے گیا ہے
 گھر سے میرے اجالا
