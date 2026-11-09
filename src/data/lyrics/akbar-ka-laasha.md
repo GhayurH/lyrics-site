@@ -9,60 +9,61 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Farhan Ali Waris"
 romanLyrics: |-
-  Akbar ka laasha dekh ke khud mar gaye hussain
-  Zaalim to bas hussain pe khanjar chalayega
+  Akbar ka lasha dekh ke khud mar gaye Husain
+  Zalim to bas Husain pe khanjar chalaega
 
   1
-  Atthara saal waale ka laasha utha liya
+  Atharah saal wale ka lasha utha liya
   Aisa laga ke apna janaza utha liya
-  Akbar ke khoon se ban mein wazoo kar gaye hussain
+  Akbar ke khun se ban mein wuzu kar gaye Husain
 
   2
-  Barchi ka phal ye kaisa ragon mein ulajh gaya
-  Barchi nikaalne pe kaleja bhi kat gaya
-  Sakte mein aagaye hai isi dard se hussain
+  Barchhi ka phal ye kaisa ragoṅ mein ulajh gaya
+  Barchhi nikalne pe kaleja bhi kat gaya
+  Sakte mein aa gaye haiṅ isi dard se Husain
 
   3
   Laila ki hasraton ka janaza nikal gaya
   Sughra ki khwahishon ka janaza nikal gaya
-  Akbar ne barchi khaayi magar mar gaye hussain
+  Akbar ne barchhi khai magar mar gaye Husain
 
   4
-  Ay laal tere gham se kaleja hua figaar
-  Barchi jo tu ne khaayi kaleje ke hai wo paar
-  Dil to dhadak raha hai magar laash hai hussain
+  Ae laal tere gham se kaleja hua figar
+  Barchhi jo tu ne khai kaleje ke hai wo paar
+  Dil to dharak raha hai magar laash hai Husain
 
   5
   Tu kya gaya ke meri basarat chali gayi
-  Tere hi saath jeene ki chaahat chali gayi
-  Beta dhadakna bhool gaya hai dil e hussain
+  Tere hi saath jine ki chahat chali gayi
+  Beta dharakna bhul gaya hai dil-e-Husain
 
   6
-  Qaime ke dar pe pahunche to awaaz di yehi
-  Zainab uthalo aa ke meri laash hai padi
-  Akbar ke saath qatl wahan ho gaye hussain
+  Khaime ke dar pe pahunche to awaz di yehi
+  Zainab utha lo aa ke meri laash hai pari
+  Akbar ke saath qatl wahaṅ ho gaye Husain
 
   7
   Akbar ka gham utha kar mera haal hai yehi
-  Mai to bas ek badan hoon meri jaan nikal gayi
-  Raftaar dekho lafz ki be-jaan hai hussain
+  Main to bas ek badan huṅ meri jaan nikal gayi
+  Raftar dekho lafz ki bejaan hai Husain
 
   8
-  Bhai ka haal dekha to zainab tadap gayi
+  Bhai ka haal dekha to Zainab tarap gayi
   Bete ke gham mein haalat hui kya hussain ki
-  Khoone pisar mein is tarha ghaltan huwe hussain
+  Khun-e-pisar mein is tarah ghaltan hue Husain
 
   9
-  Farhan ho ke mazhar bayaan kya kare koi
-  Maa ne pisar ke laashe pe faryaad ki yehi
-  Ay laal saath tere jahan se gaye hussain
+  Farhan ho ke Mazhar bayan kya kare koi
+  Maaṅ ne pisar ke lashe pe faryad ki yehi
+  Ae laal saath tere jahaṅ se gaye Husain
 # source_id: nohayonline:6404e7ec06c3d690e19e
 # source_url: https://www.nohayonline.com/details_content.php?id=3546
 # raw_sha256: ac8a228a9b5fa13757384db3c80464a71354ee6f3ddb2440e5674893adf44926
 ---
 اکبر کا لاشہ دیکھ کے خود مر گئے حسین
-ظالم تو بس حسین پہ خنجر چلاے گا
+ظالم تو بس حسین پہ خنجر چلائے گا
 
 ۱
 اٹھارہ سال والے کا لاشہ اٹھا لیا
@@ -72,12 +73,12 @@ romanLyrics: |-
 ۲
 برچھی کا پھل یہ کیسا رگوں میں الجھ گیا
 برچھی نکالنے پہ کلیجہ بھی کٹ گیا
-سکتہ میں آ گےء ہے اسی درد سے حسین
+سکتے میں آ گئے ہیں اسی درد سے حسین
 
 ۳
 لیلیٰ کی حسرتوں کا جنازہ نکل گیا
 صغرا کی خواہشوں کا جنازہ نکل گیا
-اکبرنے برچھی کھای مگر مر گےء حسین
+اکبر نے برچھی کھائی مگر مر گئے حسین
 
 ۴
 اے لال تیرے غم سے کلیجہ ہوا فگار
@@ -85,8 +86,8 @@ romanLyrics: |-
 دل تو دھڑک رہا ہے مگر لاش ہے حسین
 
 ۵
-تو کیا گیا کہ میری بسارت چلی گئی
-تیرے ہی ساتھ جینے کی چاہت چلی گیء
+تو کیا گیا کہ میری بصارت چلی گئی
+تیرے ہی ساتھ جینے کی چاہت چلی گئی
 بیٹا دھڑکنا بھول گیا ہے دل حسین
 
 ۶
@@ -96,15 +97,15 @@ romanLyrics: |-
 
 ۷
 اکبر کا غم اٹھا کر میرا حال ہے یہی
-میں تو بس ایک بدن ہوں میری جاں نکل گیء
+میں تو بس ایک بدن ہوں میری جاں نکل گئی
 رفتار دیکھو لفظ کی بے جان ہے حسین
 
 ۸
-بھای کا حال دیکھا تو زینب تڑپ گیء
-بیٹے کے غم میں حالت ہوی کیا حسین کی
+بھائی کا حال دیکھا تو زینب تڑپ گئی
+بیٹے کے غم میں حالت ہوئی کیا حسین کی
 خون پسر میں اس طرح غلطاں ہوئے حسین
 
 ۹
 فرحان ہو کہ مظہر بیاں کیا کرے کوئی
 ماں نے پسر کے لاشے پہ فریاد کی یہی
-اے لال ساتھ تیرے جہاں سے گےء حسین
+اے لال ساتھ تیرے جہاں سے گئے حسین
