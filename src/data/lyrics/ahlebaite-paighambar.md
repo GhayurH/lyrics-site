@@ -1,5 +1,5 @@
 ---
-title: "اہلِ بیتِ پیغمبر سر کٹانے آے ہیں"
+title: "اہلِ بیتِ پیغمبر سر کٹانے آئے ہیں"
 alternateTitle: "Ahlebaite Paighambar"
 language: "Urdu"
 lang: "ur"
@@ -8,96 +8,97 @@ kalamType: "Noha"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Alamdar Razvi"
 romanLyrics: |-
-  Ahlebait e paighambar sar katane aaye hai
-  Haq ke naasir o yawar sar katane aaye hai
+  Ahl-e-Bait-e-Paighambar sar katane aae haiṅ
+  Haq ke nasir o yawar sar katane aae haiṅ
 
   1
-  Ye nabi ka kunba hai haq pa adne waala hai
-  Aandhiyo se toofan se bad ke ladne waala hai
-  Phir bhi kya khabar kaisa waqt padne waala hai
-  Ya khuda mohamed ka ghar ujadne waala hai
-  Ibne hyder e safdar sar katane aaye hai
+  Ye Nabi ka kunba hai haq pe arne wala hai
+  Aṅdhiyoṅ se tufan se barh ke larne wala hai
+  Phir bhi kya khabar kaisa waqt parne wala hai
+  Ya Khuda Muhammad ka ghar ujarne wala hai
+  Ibn-e-Haider-e-Safdar sar katane aae haiṅ
 
   2
   Khair ho mere maula saamne hai ek lashkar
   Zulm ka koi naiza pad na jaye seene par
   Khaak par na gir jaaye naujawan theora kar
   Khoon mein na mil jaye ye shabihe paighambar
-  Haye naujawan akbar sar katane aaye hai
+  Haye naujawaṅ Akbar sar katane aae haiṅ
 
   3
   Karbala ke sehra mein hai rasool ka gulshan
   Ban na jaye phoolon ke haq mein kal yehi madfan
   Sab rasool zaade hai sab ali ke jaan o tan
   Ek raat ka dulha ek raat ki dulhan
-  Haye waarise shabbar sar katane aaye hai
+  Haye Waris-e-Shabbar sar katane aae haiṅ
 
   4
   Haq ke ye nigehban hai dushmanane baatil hai
   Inke dil ka kya kehna sar se paaon tak dil hai
-  Chand ho ke laakhon ke aaj ye mukhabil hai
-  Phool jaise bache bhi kaarwan mein shaamil hai
-  Haye bezaban asghar sar katane aaye hai
+  Chand ho ke lakhoṅ ke aaj ye muqabil haiṅ
+  Phul jaise bachche bhi karwaṅ mein shamil haiṅ
+  Haye bezaban Asghar sar katane aae haiṅ
 
   5
   Kufiyon ke ye mehman qatl hone waale hai
   Ye rasool ke armaan qatl hone waale hai
   Bolte huwe quran qatl hone waale hai
   Sab mahafiz e emaan qatl hone waale hai
-  Fatema ke sab dilbar sar katane aaye hai
+  Fatima ke sab dilbar sar katane aae haiṅ
 
   6
   Pyase bache tadpenge chain jab na payenge
   Mashk ba-wafa lekar alqama pe jayenge
   Gir padenge ghode se itne zakhm khayenge
   Shaane kat rahe honge khoon mein nahayenge
-  Aaj saani e hyder sar katane aaye hai
+  Aaj Sani-e-Haider sar katane aae haiṅ
 # source_id: nohayonline:d23e66b4c17007f1bdc8
 # source_url: https://www.nohayonline.com/details_content.php?id=2012
 # raw_sha256: 49ad7732392235ea5000f52dabca6a43bf07fffa8e5aed9609f0352e6c62d259
 ---
-اہلِ بیتِ پیغمبر سر کٹانے آے ہیں
-حق کے ناصر و یاور سر کٹانے آے ہیں
+اہلِ بیتِ پیغمبر سر کٹانے آئے ہیں
+حق کے ناصر و یاور سر کٹانے آئے ہیں
 
 ۱
 یہ نبی کا کنبہ ہے حق پہ اڑنے والا ہے
 آندھیوں سے طوفاں سے بڑھ کے لڑنے والا ہے
-پھر بھی کیا خبر کیسا وقت پڑھنے والا ہے
+پھر بھی کیا خبر کیسا وقت پڑنے والا ہے
 یا خدا محمد کا گھر اجڑنے والا ہے
-ابنِ حیدر صفدر سر کٹانے آے ہیں
+ابنِ حیدرِ صفدر سر کٹانے آئے ہیں
 
 ۲
 خیر ہو میرے مولا سامنے ہے ایک لشکر
-ظلم کا کوی نیزہ پڑ نہ جاے سینے پر
-خاک پر نہ گر جاے نوجواں تھورا کر
-خون میں نہ مل جاے یہ شبیہ پیغمبر
-ہاے نوجواں اکبر سر سے کٹانے آے ہیں
+ظلم کا کوئی نیزہ پڑ نہ جائے سینے پر
+خاک پر نہ گر جائے نوجواں تھورا کر
+خون میں نہ مل جائے یہ شبیہِ پیغمبر
+ہائے نوجواں اکبر سر کٹانے آئے ہیں
 
 ۳
 کربلا کے سحرے میں ہے رسول کا گلشن
-بن نہ جاے پھولوں کے حق میں کل یہی مدفن
+بن نہ جائے پھولوں کے حق میں کل یہی مدفن
 سب رسول زادے ہیں سب علی کے جان و تن
 ایک رات کا دولہا ایک رات کی دلہن
-ہاے وارث شبّر سر سے کٹانے آے ہیں
+ہائے وارثِ شبر سر کٹانے آئے ہیں
 
 ۴
 حق کے یہ نگہباں ہیں دشمنان باطل ہیں
 انکے دل کا کیا کہنا سر سے پاؤں تک دل ہے
-چاند ہو کے لاکھوں کے آج یہ مقابل ہے
-پھول جیسے بچے بھی کارواں میں شامل ہے
-ہاے بے زبان اصغر سر کٹانے آے ہیں
+چند ہو کے لاکھوں کے آج یہ مقابل ہیں
+پھول جیسے بچے بھی کارواں میں شامل ہیں
+ہائے بے زبان اصغر سر کٹانے آئے ہیں
 
 ۵
 کوفیوں کے یہ مہماں قتل ہونے والے ہیں
 یہ رسول کے ارماں قتل ہونے والے ہیں
-بولتے ہوے قرآں قتل ہونے والے ہیں
+بولتے ہوئے قرآں قتل ہونے والے ہیں
 سب محافظ ایماں قتل ہونے والے ہیں
-فاطمہ کے سب دلبر سر کٹانے آے ہیں
+فاطمہ کے سب دلبر سر کٹانے آئے ہیں
 
 ۶
-پیاسے بچے تڑپینگے چین جب نہ پاےنگے
-مشک با وفا لیکر علقمہ پہ جاینگے
-گر پڑینگے گھوڑے سے اتنے زخم کھائنگے
-شانے کٹ رہے ہونگے خون میں نہائنگے
-آج ثانیء حیدر سر کٹانے آے ہیں
+پیاسے بچے تڑپیں گے چین جب نہ پائیں گے
+مشکِ باوفا لے کر علقمہ پہ جائیں گے
+گر پڑیں گے گھوڑے سے اتنے زخم کھائیں گے
+شانے کٹ رہے ہوں گے خون میں نہائیں گے
+آج ثانیِ حیدر سر کٹانے آئے ہیں

@@ -1,5 +1,5 @@
 ---
-title: "نیزے پہ گےء جب شاہ امم"
+title: "نیزے پہ گئے جب شاہِ امم"
 alternateTitle: "Ahsantum Ya Husain"
 language: "Urdu"
 lang: "ur"
@@ -9,38 +9,39 @@ poet: "Kumail Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
-  Naize pe gaye jab shaah e umam
-  Sar peet rahe thay ahle haram
+  Neze pe gaye jab Shah-e-Umam
+  Sar pit rahe the Ahl-e-Haram
   Sadaat mein ek bezaari thi
   Kohraam tha aur gham khwari thi
   Jab shaah ne yeh manzar dekha
   Sar peet rahe hai aal e aba
-  Shabbir ne pad ke bismillah
-  Bar nok e sina quran padha
+  Shabbir ne parh ke Bismillah
+  Barnok-e-sinaṅ Quran parha
   Kuch dayr mein phir manzar badla
   Kam hone lagi matam ki sada
   Khush rang fizayein chaane lagi
   Ahsan ki sadayein aane lagi
   Pahunchi jo falak tak sheh ki sada
   Allah ne bhi khush ho ke kaha
-  Ahsantum ya hussain
-  Ahsantum ya hussain
+  Ahsantum Ya Husain
+  Ahsantum Ya Husain
 
   1
   Arwaah mein jo waada tha kiya
   Wo tum ne nibhaya hai
   Islam ki khaatir jangal mein
   Ghar apna lutaaya hai
-  Raazi hoon mai tujhse mere wali
-  Ay ibne batool ay ibne ali
-  Karta hoon mai tera shukr ada
+  Razi huṅ main tujh se mere Wali
+  Ae Ibn-e-Batul Ae Ibn-e-Ali
+  Karta huṅ main tera shukr ada
 
   2
   Sunkar ye sukhan allah ke
   Kehte thay ye rasool allah
   Qurban mai tujh par sau jaan se
-  Waah mere hussaina waah
+  Wah mere Husaina wah
   Bachpan mein ay mere lakhte jigar
   Waada jo kiya tha ay dilbar
   Wo tum ne kiya hai aaj wafa
@@ -52,7 +53,7 @@ romanLyrics: |-
   Dunya ko bataya hai
   Dekhi jo shuja’at bete ki
   Aur sun ke tilawat bete ki
-  Hyder ki najaf se aayi sada
+  Haider ki Najaf se aai sada
 
   4
   Zehra ne kaha ay laal tujhe
@@ -64,11 +65,11 @@ romanLyrics: |-
   Kya khoob kiya hai farz ada
 
   5
-  Kya khoob fareeza ay bhai
+  Kya khub fariza Ae bhai
   Anjaam diya tum ne
   Jo kaam na koi kar paata
   Wo kaam kiya tum ne
-  Shabbir se kehte thay ye hassan
+  Shabbir se kehte the ye Hasan
   Bas ab na karo tum ranj o mehan
   Hai zaat tumhari fakhre khuda
 
@@ -82,18 +83,18 @@ romanLyrics: |-
   Hum aap pe ho har baar fida
 
   7
-  Kehti thi zameen e karbobala
-  Gumnaam zameen thi mai
-  Lagta tha kumail o aamir
-  Dunya pe nahi thi mai
-  Pehchaan dilaayi sarwar ne
-  Kya shaan badhaayi sarwar ne
+  Kehti thi Zamin-e-Karbobala
+  Gumnam zamin thi main
+  Lagta tha Kumail o Aamir
+  Dunya pe nahiṅ thi main
+  Pehchan dilai Sarwar ne
+  Kya shaan barhai Sarwar ne
   Ta hashr yehi hai meri sada
 # source_id: nohayonline:335c2556b7851fda1950
 # source_url: https://www.nohayonline.com/details_content.php?id=2833
 # raw_sha256: 0be1bcb258259fad578a9b17f4be9c9b77e192b7f723c3991e8d2c48d067f399
 ---
-نیزے پہ گےء جب شاہ امم
+نیزے پہ گئے جب شاہِ امم
 سر پیٹ رہے تھے اہل حرم
 سادات میں اک بیزاری تھی
 کہرام تھا اور غم خواری تھی
@@ -103,8 +104,8 @@ romanLyrics: |-
 بر نوکِ سِناں قرآن پڑھا
 کچھ دیر میں پھر منظر بدلہ
 کم ہونے لگی ماتم کی صدا
-خوش رنگ فضائیں چھانے لگی
-احسن کی صداییں آنے لگی
+خوش رنگ فضائیں چھانے لگیں
+احسن کی صدائیں آنے لگیں
 پہنچی جو فلک تک شہ کی صدا
 اللّٰہ نے بھی خوش ہو کے کہا
 احسنتم یا حسین
@@ -131,24 +132,24 @@ romanLyrics: |-
 ۳
 نیزے کی اَنی پر آ کر بھی
 قرآن سنایا ہے
-ہم جیت گےء سر دے کر بھی
+ہم جیت گئے سر دے کر بھی
 دنیا کو بتایا ہے
 دیکھی جو شجاعت بیٹے کی
 اور سن کے تلاوت بیٹے کی
-حیدر کی نجف سے آی صدا
+حیدر کی نجف سے آئی صدا
 
 ۴
 زہرا نے کہا اے لال تجھے
 تنہا نہ کروں گی میں
-جاے گا اگر تو شام تلک
+جائے گا اگر تو شام تلک
 تو ساتھ چلوں گی میں
 ہے ناز بہت تجھ پر بیٹا
 جو شیر پلایا تھا اس کا
 کیا خوب کیا ہے فرض ادا
 
 ۵
-کیا خوب فریضہ اے بھای
-انجام دیا تم‌ نے
+کیا خوب فریضہ اے بھائی
+انجام دیا تم نے
 جو کام نہ کوئی کر پاتا
 وہ کام کیا تم نے
 شبیر سے کہتے تھے یہ حسن
@@ -169,6 +170,6 @@ romanLyrics: |-
 گمنام زمیں تھی میں
 لگتا تھا کمیل و عامر
 دنیا پہ نہیں تھی میں
-پہچان دلای سرور نے
-کیا شان بڑھای سرور نے
+پہچان دلائی سرور نے
+کیا شان بڑھائی سرور نے
 تا حشر یہی ہے میری صدا

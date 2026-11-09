@@ -1,5 +1,5 @@
 ---
-title: "أہل حرم کا قافلہ سالار"
+title: "اہلِ حرم کا قافلہ سالار"
 alternateTitle: "Ahle Haram Ka Khafla"
 language: "Urdu"
 lang: "ur"
@@ -9,62 +9,63 @@ poet: "Suroor Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anj. Muhibbane Hussain"
 romanLyrics: |-
-  Ahle haram ka khafila salaar
-  Abid e bemaar abid e bemaar
+  Ahl-e-Haram ka qafila-salar
+  Abid-e-Bimar Abid-e-Bimar
 
   1
   Kis se kahe wo apni musibat
-  Paon mein chaale raasta purkhaar
+  Paaoṅ mein chhale rasta purkhar
 
   2
   Kis ko pukare kisko sada de
-  Koi nahi hai uska madadgaar
+  Koi nahiṅ hai us ka madadgar
 
   3
   Hai ye sitam ki kaun si manzil
-  Saaye mein dunya dhoop mein bemaar
+  Saye mein dunya dhup mein bimar
 
   4
   Jab se pada hai tauq gale mein
-  Saans bhi lena hogaya dushwaar
+  Saṅs bhi lena ho gaya dushwar
 
   5
-  Kis ko nigahein dhoond rahi hai
-  Chaaron taraf hai sirf sitamgaar
+  Kis ko nigaheṅ dhund rahi haiṅ
+  Charoṅ taraf haiṅ sirf sitamgar
 
   6
-  Qaid hai phupiyan wo bhi khule sar
-  Sar hai jhukaye bekas o laachar
+  Qaid haiṅ phuphiyaṅ wo bhi khule sar
+  Sar hai jhukae bekas o lachar
 
   7
   Us ke liye hai raah mein kaante
   Jis pe nichawar khuld ke gulzaar
 
   8
-  Khoon badan ka pee gaye chaale
-  Haathon mein raasha zard hai rukhsaar
+  Khun badan ka pi gaye chhale
+  Haathoṅ mein rasha zard hai rukhsar
 
   9
   Thokarein kha kar karta hai sajde
   Dekha nahi hai aisa giraftaar
 
   10
-  Kyun na wo roye khoon ke aansu
-  Naksh hai dil par shaam ka bazaar
+  Kiun na wo roe khun ke aṅsu
+  Naqsh hai dil par Shaam ka bazar
 
   11
-  Hum ne suroor aaj khoon e jigar se
-  Dil pa likhe hai nauhe ke ash'aar
+  Hum ne Suroor aaj khun-e-jigar se
+  Dil pe likhe haiṅ nohe ke ashar
 # source_id: nohayonline:ebbcdadecc079eaad544
 # source_url: https://www.nohayonline.com/details_content.php?id=3742
 # raw_sha256: 84da142c04f7f401525b67cd5722a41d2b2bb428acfb06129c851807b84dfe35
 ---
-أہل حرم کا قافلہ سالار
+اہلِ حرم کا قافلہ سالار
 عابد بیمار عابد بیمار
 
 ۱
-کس سے کہے وہ مصیبت
+کس سے کہے وہ اپنی مصیبت
 پاؤں میں چھالے راستہ پرخار
 
 ۲
@@ -73,34 +74,34 @@ romanLyrics: |-
 
 ۳
 ہے یہ ستم کی کون سی منزل
-ساے میں دنیا دھوپ میں بیمار
+سائے میں دنیا دھوپ میں بیمار
 
 ۴
 جب سے پڑا ہے طوق گلے میں
 سانس بھی لینا ہو گیا دشوار
 
 ۵
-کس کو نگاہیں ڈھونڈ رہی ہے
-چاروں طرف ہے صرف ستمگار
+کس کو نگاہیں ڈھونڈ رہی ہیں
+چاروں طرف ہیں صرف ستمگار
 
 ۶
 قید ہے پھوپھیاں وہ بھی کھلے سر
-سر ہے جھکاے بیکس و لاچار
+سر ہے جھکائے بیکس و لاچار
 
 ۷
 اس کے لئے راہ میں کانٹے
 جس پہ نچھاور خلد کے گلزار
 
 ۸
-خون بدن کا پی گےء چھالے
-ہاتھوں میں راشا زرد ہیں رخسار
+خون بدن کا پی گئے چھالے
+ہاتھوں میں رعشہ زرد ہیں رخسار
 
 ۹
 ٹھوکریں کھا کر کرتا ہے سجدے
 دیکھا نہیں ہے ایسا گرفتار
 
 ۱۰
-کیوں نہ وہ روے خون کے آنسوں
+کیوں نہ وہ روئے خون کے آنسو
 نقش ہے دل پر شام کا بازار
 
 ۱۱

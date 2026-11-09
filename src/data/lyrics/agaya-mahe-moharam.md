@@ -9,48 +9,49 @@ poet: "Jawad Jaffri"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Sajid Jafri"
 romanLyrics: |-
-  Ay azadaron sheh ke pursadaron
-  Aagaya maahe moharram aao tayyari karein
-  Karbala waale shaheedon se wafadari karein
+  Ae azadaroṅ Sheh ke pursadaroṅ
+  Aa gaya Mah-e-Muharram aao taiyari kareṅ
+  Karbala wale shahidoṅ se wafadari kareṅ
 
   1
-  Royein zainab ki rida ko gham kare shabbir ka
-  Mil ke sab aale mohamed ki azadari karein
+  Roeṅ Zainab ki rida ko gham kareṅ Shabbir ka
+  Mil ke sab Aal-e-Muhammad ki azadari kareṅ
 
   2
   Farsh hum dil mein bicha ke matami mil kar sabhi
-  Majlis e shabbir barpa zindagi saari karein
+  Majlis-e-Shabbir barpa zindagi saari kareṅ
 
   3
-  Matame shaahe saheedan kar ke sab ahle aza
-  Sog mein ibne ali ke girya o zaari karein
+  Matam-e-Shah-e-Shahidaṅ kar ke sab Ahl-e-Aza
+  Sog mein Ibn-e-Ali ke girya o zari kareṅ
 
   4
-  Kar ke izhaar e aqeedat fatema ke laal se
-  Ehtemam e zuljanah o taziyadari karein
+  Kar ke izhar-e-aqidat Fatima ke laal se
+  Ehtemam-e-Zuljanah o taziyadari kareṅ
 
   5
-  Kar ke matam sheh ka de ke ya hussaina ki sada
-  Gham ali ke laal ka kayenat par taari karein
+  Kar ke matam Sheh ka de ke Ya Husaina ki sada
+  Gham Ali ke laal ka kainat par taari kareṅ
 
   6
-  Maalik e kausar labe darya huwe pyase shaheed
-  Naam par unke sabeelein hum sada jaari karein
+  Malik-e-Kausar lab-e-darya hue pyase shahid
+  Naam par un ke sabileṅ hum sada jaari kareṅ
 
   7
-  Matam e shabbir hai jawad saaman e shifa
-  Jo bhi dushman hai azaa ke unse bezaari karein
+  Matam-e-Shabbir hai Jawad saman-e-shifa
+  Jo bhi dushman hai aza ke un se bezari kareṅ
 # source_id: nohayonline:aae892cac0fded263e81
 # source_url: https://www.nohayonline.com/details_content.php?id=3095
 # raw_sha256: e3f7d37a6fbf9ec4947dd15422e5f72a13acb56217a1e6f47be7ef2f16867315
 ---
 اے عزاداروں شہ کے پرسہ داروں
-آ گیا ماہ محرم آؤ تیاری کریں
+آ گیا ماہِ محرم آؤ تیاری کریں
 کربلا والے شہیدوں سے وفاداری کریں
 
 ۱
-روییں زینب کی ردا کو غم کریں شبیر کا
+روئیں زینب کی ردا کو غم کریں شبیر کا
 مل کے سب آل محمد کی عزاداری کریں
 
 ۲
@@ -67,10 +68,10 @@ romanLyrics: |-
 
 ۵
 کر کے ماتم شہ کا دے کے یا حسینا کی صدا
-غم علی کے لال کا کاینات پر طاری کریں
+غم علی کے لال کا کائنات پر طاری کریں
 
 ۶
-مالک کوثر لب دریا ہوے پیاسے شہید
+مالک کوثر لبِ دریا ہوئے پیاسے شہید
 نام پر ان کے سبیلیں ہم صدا جاری کریں
 
 ۷
