@@ -10,75 +10,76 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mehsoos kare koi to dil kaamp uthega
-  Sailaabe gham o dard hai roke na rukega
+  Mahsus kare koi to dil kaṅp uthega
+  Sailab-e-gham o dard hai roke na rukega
 
   1
-  Khud kaatib e taqdeer basad dard likhega
-  Maqtal ki zameen royegi zindan kahega
-  Pardes hai ghurbat hai barabar ki thakan hai
-  Abbas sa bhai hai to zainab si behan hai
+  Khud Katib-e-Taqdir basad dard likhega
+  Maqtal ki zamin roegi zindaṅ kahega
+  Pardes hai ghurbat hai darbar ki thakan hai
+  Abbas sa bhai hai to Zainab si behan hai
 
   2
-  Ek saani e zehra hai to ek saani e hyder
+  Ek Sani-e-Zehra hai to ek Sani-e-Haider
   Shabbir ka ek bhai hai aur ek hai khwahar
-  Hai boodhe ali bhai behan rashke chaman hai
+  Hai burhe Ali bhai behan rashk-e-chaman hai
 
   3
-  Ek zaamin e chadar hai sabhi ahle haram ka
-  Aur ek ki rida dhoop mein saaya hai alam ka
-  Ek dhaaras e shabbir hai ek qalbe hassan hai
+  Ek zamin-e-chadar hai sabhi Ahl-e-Haram ka
+  Aur ek ki rida dhup mein saaya hai alam ka
+  Ek dharas-e-Shabbir hai ek qalb-e-Hasan hai
 
   4
-  Dono ne wafaon ka bharam aise rakha hai
-  Ye hukm ka paband wo paband e haya hai
-  Ek tashna e paikaar hai ek tashna dahan hai
+  Donoṅ ne wafaoṅ ka bharam aisa rakha hai
+  Ye hukm ka paband wo paband-e-haya hai
+  Ek tishna-e-paikar hai ek tishna dahan hai
 
   5
-  Dono hi alamdar e wafa hai sar e maidan
-  Ye asr se pehle wo pase shaam e ghariban
-  Kaampa hua sehma hua dono hi se ran hai
+  Donoṅ hi Alamdar-e-Wafa hain sar-e-maidan
+  Ye asr se pehle wo pas-e-Shaam-e-Ghariban
+  Kaṅpa hua sahma hua donoṅ hi se ran hai
 
   6
-  Ek majlis o matam ki bina daalne waali
-  Ek baad e shahadat bhi hai maidan ka ghazi
-  Ek hai bani hashim ka qamar ek kiran hai
+  Ek majlis o matam ki bina daalne wali
+  Ek baad-e-shahadat bhi hai maidan ka Ghazi
+  Ek hai Bani Hashim ka qamar ek kiran hai
 
   7
-  Baazu thay bandhe sar tha khula jab ke behan ka
-  Be baazu alamdar tha mohtaaj kafan ka
-  Dono ke kalejon mein musalsal ye chubhan hai
+  Bazu the bandhe sar tha khula jab ke behan ka
+  Bebazu Alamdar tha mohtaj kafan ka
+  Donoṅ ke kalejoṅ mein musalsal ye chubhan hai
 
   8
-  Wo barsare naiza tha ye kaanto pe rawan thi
-  Sar uska gira naize se ye mehwe fughan thi
-  Ye khoon ki taseer hai rishton ki lagan hai
+  Wo bar sar-e-neza tha ye kaṅtoṅ pe rawaṅ thi
+  Sar us ka gira neze se ye mahv-e-fughaṅ thi
+  Ye khun ki tasvir hai rishtoṅ ki lagan hai
 
   9
   Abbas ki ek aankh mein jab teer chubha tha
-  Dil thaam ke zainab ne basad dard kaha tha
-  Majboor hoo bhaiya mere haathon mein rasan hai
+  Dil thaam ke Zainab ne basad dard kaha tha
+  Majbur huṅ bhaiya mere haathoṅ mein rasan hai
 
   10
-  Rehaan o raza zainab o ghazi ki dua hai
-  Wallah ye shehzaadi sakina ki ataa hai
-  Is nauhe mein ta'eed e shehenshahe zaman hai
+  Rehaan o Raza Zainab o Ghazi ki dua hai
+  Wallah ye Shahzadi Sakina ki ata hai
+  Is nohe mein taid-e-Shahanshah-e-Zaman hai
 # source_id: nohayonline:910a5fdb3865d7a9c67a
 # source_url: https://www.nohayonline.com/details_content.php?id=2385
 # raw_sha256: b59e584165340a5b3d09f9ea9a384908ddd43057d9485619ee022c991d539738
 ---
+
 محسوس کرے کوئی تو دل کانپ اٹھے گا
 سیلاب غم و درد ہے روکے نہ رکے گا
 
 ۱
 خود کاتب تقدیر بصد درد لکھے گا
-مقتل کی زمیں روے گی زندان کہے گا
+مقتل کی زمیں روئے گی زندان کہے گا
 پردیس ہے غربت ہے دربار کی تھکن ہے
-عباس سا بھای ہے تو زینب سی بہن ہے
+عباس سا بھائی ہے تو زینب سی بہن ہے
 
 ۲
-اس ثانیء زہرا ہے تو اک ثانیء حیدر
-شبیر کا اک بھای ہے اور ایک ہے خواہر
+اک ثانیِ زہرا ہے تو اک ثانیِ حیدر
+شبیر کا اک بھائی ہے اور ایک ہے خواہر
 ہے بوڑھے علی بھائی بہن رشک چمن ہے
 
 ۳
@@ -108,7 +109,7 @@ romanLyrics: |-
 
 ۸
 وہ بر سرِ نیزہ تھا یہ کانٹوں پہ رواں تھی
-سر اسکا گرا نیزے سے یہ محوِ فغاں تھی
+سر اس کا گرا نیزے سے یہ محوِ فغاں تھی
 یہ خون کی تصویر ہے رشتوں کی لگن ہے
 
 ۹
@@ -119,4 +120,4 @@ romanLyrics: |-
 ۱۰
 ریحان و رضا زینب و غازی کی دعا ہے
 واللہ یہ شہزادی سکینہ کی عطا ہے
-اس نوحے میں تاعید شہنشاہِ زمن ہے
+اس نوحے میں تائید شہنشاہِ زمن ہے

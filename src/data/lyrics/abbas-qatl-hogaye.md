@@ -10,59 +10,60 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas qatl hogaye akbar juda hua
-  Hum se kisi ne ye bhi na poocha ke kya hua
+  Abbas qatl ho gaye Akbar juda hua
+  Hum se kisi ne ye bhi na puchha ke kya hua
 
   1
-  Qasim ka laasha ghodon se pamaal ho gaya
-  Maadar ko uska gham mein hamesha rulayega
-  Tukdon mein aaya laasha e qasim bata hua
+  Qasim ka laasha ghoroṅ se pamal ho gaya
+  Madar ko us ka gham mein hamesha rulaega
+  Tukroṅ mein aaya laasha-e-Qasim bata hua
 
   2
-  Ro ro ke yehi kehte thay laashon se lipat kar
-  Thay aun o mohamed mere akbar ke barabar
-  Zainab ke jigar paaron ka sadma bada hua
+  Ro ro ke yehi kehte the laashoṅ se lipat kar
+  The Aun o Muhammad mere Akbar ke barabar
+  Zainab ke jigar paroṅ ka sadma bara hua
 
   3
-  Pyason ke dil mein pani ka armaan reh gaya
-  Mashkeeza chida khoon e alamdar beh gaya
-  Hum laaye alam bhai ka khoon mein bhara hua
+  Pyasoṅ ke dil mein pani ka arman reh gaya
+  Mashkiza chhida khun-e-Alamdar beh gaya
+  Hum laaye alam bhai ka khun mein bhara hua
 
   4
-  Gir jaate thay ghash khaate thay har gaam tadap kar
-  Dete thay sadayein ho mere laal kahan par
-  Aur seena e akbar mein tha nazia laga hua
+  Gir jaate the ghash khaate the har gaam tarap kar
+  Dete the sadaeṅ ho mere laal kahan par
+  Aur sina-e-Akbar mein tha neza laga hua
 
   5
-  Mushkil se bahot khayncha tha us teer ko maine
-  Dafna to diya asghar e baysheer ko maine
-  Yaad aata raha halq wo uska chida hua
+  Mushkil se bahot khincha tha us teer ko main ne
+  Dafna to diya Asghar-e-Beshir ko main ne
+  Yaad aata raha halq wo us ka chhida hua
 
   6
-  Ansaar o aqraba sabhi jaan se chale gaye
-  Akbar ki laash laaye to asghar ko le gaye
+  Ansar o aqraba sabhi jaan se chale gaye
+  Akbar ki laash laaye to Asghar ko le gaye
   Bas do pahar mein khatm ghar bhara hua
 
   7
-  Aankhon mein andhera tha kamar toot chuki thi
-  Majboor behan qaime ki dweodi pe khadi thi
-  Bemaar natawan tha ghash mein pada hua
+  Aankhoṅ mein andhera tha kamar tut chuki thi
+  Majbur behan khaime ki deorhi pe khari thi
+  Bimar natawaṅ tha ghash mein para hua
 
   8
-  Padh kar naseem shadman aansu bahayega
-  Ghaibat mein bhi imame zamaan ko rulayega
-  Misre pe mir anees ke nauha likha hua
+  Parh kar Naseem Shadman aaṅsu bahaega
+  Ghaibat mein bhi Imam-e-Zaman ko rulaega
+  Misre pe Mir Anis ke noha likha hua
 # source_id: nohayonline:df0f0a88b74cbcc7f98a
 # source_url: https://www.nohayonline.com/details_content.php?id=1701
 # raw_sha256: eb85c88f83a3851bd1341ceff68b0e8871d3512e976be976d87b383eb0bc3a5a
 ---
-عباس قتل ہو گےء اکبر جدا ہوا
+
+عباس قتل ہو گئے اکبر جدا ہوا
 ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
 
 ۱
 قاسم کا لاشہ گھوڑوں سے پامال ہو گیا
-مادر کو اسکا غم میں ہمیشہ رلاے گا
-ٹکڑوں میں آیا لاشہء قاسم بٹا ہوا
+مادر کو اس کا غم میں ہمیشہ رلائے گا
+ٹکڑوں میں آیا لاشۂ قاسم بٹا ہوا
 
 ۲
 رو رو کے یہی کہتے تھے لاشوں سے لپٹ کر
@@ -72,21 +73,21 @@ romanLyrics: |-
 ۳
 پیاسوں کے دل میں پانی کا ارمان رہ گیا
 مشکیزہ چھدا خون علمدار بہہ گیا
-ہم لاے الم بھای کا خوں میں بھرا ہوا
+ہم لائے علم بھائی کا خوں میں بھرا ہوا
 
 ۴
 گر جاتے تھے غش کھاتے تھے ہر گام تڑپ کر
-دیتے تھے صداییں ہو میرے لال کہاں پر
+دیتے تھے صدائیں ہو میرے لال کہاں پر
 اور سینۂ اکبر میں تھا نیزہ لگا ہوا
 
 ۵
 مشکل سے بہت کھینچا تھا اس تیر کو میں نے
 دفنا تو دیا اصغر بے شیر کو میں نے
-یاد آتا رہا حلق وہ اسکا چھدا ہوا
+یاد آتا رہا حلق وہ اس کا چھدا ہوا
 
 ۶
-انصار و اقرباء سبھی جاں سے چلے گےء
-اکبر کی لاش لاے تو اصغر کو لے گےء
+انصار و اقرباء سبھی جاں سے چلے گئے
+اکبر کی لاش لائے تو اصغر کو لے گئے
 بس دو پہر میں ختم گھر بھرا ہوا
 
 ۷
@@ -95,6 +96,6 @@ romanLyrics: |-
 بیمار ناتواں تھا غش میں پڑا ہوا
 
 ۸
-پڑھ کر نسیم شادماں آنسوں بہاے گا
-غیبت میں بھی امام زماں کو رلاے گا
+پڑھ کر نسیم شادماں آنسو بہائے گا
+غیبت میں بھی امام زماں کو رلائے گا
 مصرے پہ میر انیس کے نوحہ لکھا ہوا
