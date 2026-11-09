@@ -1,72 +1,131 @@
 ---
-title: "Ali Ali Haider"
-language: "Roman Urdu"
+title: "علی علی حیدر"
+alternateTitle: "Ali Ali Haider"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Zill-e-Raza Zaidi"
+reciter: "Farhan Ali Waris"
+tags: ["noImage"]
 aliases: []
 published: false
 # source_id: tajpoints:67ef88820987030819cf
 # source_url: https://tajpoints.com/2018/03/ali-ali-haider.html
 # raw_sha256: 998df005eebe9a261e4459e50dbe2ea215d865617fa771a674bcdafb1ec7ebb3
+# opening_qata_poet: Hasnain Akbar
+romanLyrics: |-
+  Abhi to Bint-e-Asad thiṅ tawaf-e-Kaba mein
+  Ke pathroṅ mein khushi se ajab hilali thi
+  Khuda ka shukr ke ik samt ruk gayiṅ warna
+  Har aik samt se diwar phatne wali thi
+  
+  Nafs-e-Nabi Sher-e-Khuda Zahra ka shauhar
+  Maula mera aaqa mera Saqi-e-Kausar
+  Ali Ali Haider
+  
+  1
+  Aa ke zaminoṅ ko khud aflak ne chuma
+  Baithe Khuda wajd mein kuchh aur bhi jhuma
+  Bint-e-Asad aayeṅ to Kabe mein bana dar
+  
+  2
+  Bint-e-Asad kehne lagiṅ majra hai kya
+  Aaṅkh nahiṅ kholta dekheṅ mera bachcha
+  Bole Nabi bhayi ko hathoṅ pe utha kar
+  
+  3
+  Dunya ko dekhna bhi gawara nahiṅ kiya
+  Jab tak Ali ne dekha na chehra Rasul ka
+  Sher-e-Khuda na banta to banta bhi aur kya
+  Bachpan hi se jo pala tha Rasul ka
+  Ye bhi Ali Wali ki fazilat hai ik bari
+  Jo hai Ali ka shajra wo shajra Rasul ka
+  Rab ki qasam Ali to hai wo pehla naat khwaṅ
+  Jin ne parha hai pehla qasida Rasul ka
+  Naam-e-Ali Rab ne baharoṅ pe bhi likha
+  Chand pe suraj pe sitaroṅ pe bhi likha
+  Naam yehi likha tha Jibreel ke par par
+  
+  4
+  Haaṅ teri qismat bhi saṅwar jaegi pyare
+  Dubti kashti bhi ubhar jaegi pyare
+  Bola Khuda Nuh se tu wird yehi kar
+  
+  5
+  Jang ke maidan mein chaliswaṅ din tha
+  Nad-e-Ali parh ke Nabi ne jo pukara
+  Aaye Ali jis ghari Khaibar ka ura dar
+  
+  6
+  Yaad dilata huṅ tumheṅ Khum ka nazara
+  Jis ghar Sarkar ne Man Kunto pukara
+  Kehne laga wajd mein Ashab ka lashkar
+  
+  7
+  Shankh ki ye guṅj ye naubat ki sadaeṅ
+  Sare zamane ko ye paigham sunaeṅ
+  Nara lagate the ye Shahbaz Qalandar
+  
+  8
+  Zill-e-Raza ho ke wo Farhan Ali ho
+  Donoṅ ka maqsad hai bayaṅ Shan-e-Ali ho
+  Sab sar-e-mehfil kaheṅ hathoṅ ko utha kar
 ---
 
-Ali Ali Haider Write Up Farhan Ali Waris
+ابھی تو بنتِ اسد تھیں طوافِ کعبہ میں
+کہ پتھروں میں خوشی سے عجب ہلالی تھی
+خدا کا شکر کہ اک سمت رک گئیں ورنہ
+ہر ایک سمت سے دیوار پھٹنے والی تھی
 
-1
-Qata Hasnain Akbar:
-Abhi Tu Bint-e-Asad Thin Tawaf-e-Kaba Mein
-Ke Pathron Mein Khushi Se Ajab Hilali Thi
-Khuda Ka Shukar Ke Ik Samt Ruk Gayin Warna
-Har Aik Samt Se Dewar Phatne Wali Thi
-Nafs-e-Nabi Shai-e-Khuda Zhara Ka Shohar
-Mula Mera Aaqa Mera Saqi-e-Kausar
+نفسِ نبی شیرِ خدا زہرا کا شوہر
+مولا میرا آقا میرا ساقیِ کوثر
+علی علی حیدر
 
-2
-Aa Ke Zameeno Ko Khud Aflak Ne Choma
-Baithe Khuda Wajd Mein Kuch Our Bhi Jhoma
-Bint-e-Asad Aaein Tu Kabe Mein Bana Dar
+۱
+آ کے زمینوں کو خود افلاک نے چوما
+بیٹھے خدا وجد میں کچھ اور بھی جھوما
+بنتِ اسد آئیں تو کعبے میں بنا در
 
-3
-Bint-e-Asad Kehne Lagin Majrah Hai Kya
-Aankh Nahi Kholta Dekhein Mera Bacha
-Bole Nabi Bhai Ko Hathon Pe Utha Kar
+۲
+بنتِ اسد کہنے لگیں ماجرا ہے کیا
+آنکھ نہیں کھولتا دیکھیں میرا بچہ
+بولے نبی بھائی کو ہاتھوں پہ اٹھا کر
 
-4
-Dunya Ko Dekhna Bhi Gawarah Nahi Kiya
-Jab Tak Ali Ne Dekha Na Chehra Rasool Ka
-Shair-e-Khuda Na Banta Tu Banta Bhi Our Kya
-Bachpan Hi Se Jo Pala Tha Rasool Ka
-Yeh Bhi Ali Wali Ki Fazila Hai Ik Bari
-Jo Hai Ali Ka Shajra Woh Shajra Rasool Ka
-Rab Ki Qasam Ali Tu Hai Woh Pehla Naat Khuwaan
-Jin Ne Parha Hai Pehla Qasida Rasool Ka
-Nam-e-AliA Rab Ne Baharon Pe Bhi Likha
-Chand Pe Soraj Pe Sitaron Pe Bhi Likha
-Naam Yehi Likha Tha Jibreel Ke Par Par
+۳
+دنیا کو دیکھنا بھی گوارا نہیں کیا
+جب تک علی نے دیکھا نہ چہرہ رسول کا
+شیرِ خدا نہ بنتا تو بنتا بھی اور کیا
+بچپن ہی سے جو پالا تھا رسول کا
+یہ بھی علی ولی کی فضیلت ہے اک بڑی
+جو ہے علی کا شجرہ وہ شجرہ رسول کا
+رب کی قسم علی تو ہے وہ پہلا نعت خواں
+جن نے پڑھا ہے پہلا قصیدہ رسول کا
+نامِ علی رب نے بہاروں پہ بھی لکھا
+چاند پہ سورج پہ ستاروں پہ بھی لکھا
+نام یہی لکھا تھا جبریل کے پر پر
 
-5
-Han Teri Qismat Bhi Sanwar Jaye Gi Pyare
-Dobti Kashti Bhi Ubhar Jaye Gi Pyare
-Bola Khuda Nooh Se Tu Wird Yehi Kar
+۴
+ہاں تیری قسمت بھی سنور جائے گی پیارے
+ڈوبتی کشتی بھی ابھر جائے گی پیارے
+بولا خدا نوح سے تو ورد یہی کر
 
-6
-Jang Ke Maidan Mein Chaleeswan Din Tha
-Nad-e-Ali Parh Ke Nabi Ne Jo Pukara
-Aaye Ali Jis Ghari Khaibar Ka Urra Dar
+۵
+جنگ کے میدان میں چالیسواں دن تھا
+نادِ علی پڑھ کے نبی نے جو پکارا
+آئے علی جس گھڑی خیبر کا اڑا در
 
-7
-Yaad Dilata Hoon Tumhein Khum Ka Nazara
-Jis Ghar Sarkar Ne Man Kunto Pukara
-Kehne Laga Wajd Mein Ashab Ka Lashkar
+۶
+یاد دلاتا ہوں تمہیں خم کا نظارہ
+جس گھر سرکار نے من کنتو پکارا
+کہنے لگا وجد میں اصحاب کا لشکر
 
-8
-Shankh Ki Yeh Goonj Yeh Nobat Ki Sadaein
-Sare Zamane Ko Yeh Paigham Sunaein
-Narah Lagate The Yeh Shahbaz Qalandar
+۷
+شنکھ کی یہ گونج یہ نوبت کی صدائیں
+سارے زمانے کو یہ پیغام سنائیں
+نعرہ لگاتے تھے یہ شہباز قلندر
 
-9
-:ZILL-E-RAZA: Ho Keh Woh:FARHAN ALI: Ho
-Dono Ka Maqsad Hai Biyaan Shan-e-Ali Ho
-Sab Sar-e-Mehfil Kahein Hathon Ko Utha Kar
+۸
+ظلِ رضا ہو کہ وہ فرحان علی ہو
+دونوں کا مقصد ہے بیاں شانِ علی ہو
+سب سرِ محفل کہیں ہاتھوں کو اٹھا کر
