@@ -1,58 +1,59 @@
 ---
 title: "آؤ تاریخ سناؤں میں شبِ ہجرت کی"
-alternateTitle: "Aao Tarikh Sunaun Main Shab-e-Hijrat Ki"
+alternateTitle: "Aao Tarikh Sunauṅ Main Shab-e-Hijrat Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
-aliases: ["Aao Tareekh Sunaon Main Shab-e-Hijrat Ki Mir Hasan Mir"]
+aliases: ["Aao Tareekh Sunaon Main Shab-e-Hijrat Ki Mir Hasan Mir", "Aao Tarikh Sunaun Main Shab-e-Hijrat Ki"]
 recitationId: "aao-tareekh-sunaon-main-shab-e-hijrat-ki-mir-hasan-mir"
 published: false
 romanLyrics: |-
-  Aao tarikh sunaun main Shab-e-Hijrat ki
-  Kis tarha saaye mein talwaron ke soye the Ali
+  Aao tarikh sunauṅ main Shab-e-Hijrat ki
+  Kis tarha saaye mein talwaaroṅ ke soye the Ali
 
   1
-  Tegh ki chhaon mein sona koi aasan nahi
-  Kull-e-iman hain Ali aam Musalman nahi
-  Dusra hota to bedar nahi hota kabhi
+  Tegh ki chhaaoṅ mein sona koi aasaan nahiṅ
+  Kull-e-imaan hain Ali aam Musalmaaṅ nahiṅ
+  Dusra hota to bedaar nahiṅ hota kabhi
 
   2
-  Chand se ye Abu Talib ka qamar kehta tha
-  Aaj ki raat ibadat ka hai andaz naya
-  Aaj Allah se sote huwe baatein hongi
+  Chaand se ye Abu Talib ka qamar kehta tha
+  Aaj ki raat ibaadat ka hai andaaz naya
+  Aaj Allah se sote huwe baateṅ hoṅ gi
 
   3
-  Bas yahi soch ke hamla nahi kar paate the
-  Saare kuffar isharon mein yahi kehte the
+  Bas yahi soch ke hamla nahiṅ kar paate the
+  Saare kuffaar ishaaroṅ mein yahi kehte the
   Hain Nabi soye huwe jaaga hua hoga Ali
 
   4
-  Yehi Siddiq hai aur yehi Amin hai logon
+  Haaṅ yehi Siddiq hai aur yehi Amin hai logoṅ
   Kitna Haider pe bharosa hai Nabi ko dekho
-  Fatima jaisi amanat bhi Ali ko de di
+  Fatima jaisi amaanat bhi Ali ko de di
 
   5
-  Hajj ada aa ke farishton ne kiya hai apna
+  Hajj ada aa ke farishtoṅ ne kiya hai apna
   So gaya bistar-e-Ahmad pe Amir-e-Kaaba
   Aaj Kaabe ki tarha orh ke kaali kamli
 
   6
-  Ban ke soenge Ali aaj Nabi hairat kya
+  Ban ke soeṅ ge Ali aaj Nabi hairat kya
   Waqia yaad karo Shib-e-Abi Talib ka
   In ke bistar pe to sone ke Ali hain aadi
 
   7
-  Aayatein karti hain ye aaj bhi ailan Ali
-  Shab-e-bedari teri neend pe qurban Ali
-  Tere sone se hui din-e-Khuda ki chandi
+  Aayateṅ karti hain ye aaj bhi ailaan Ali
+  Shab-e-bedaari teri nind pe qurbaan Ali
+  Tere sone se hui din-e-Khuda ki chaandi
 
   8
   Mir Sajjad wo jab subh Madine ko chala
   Raasta rokta aa kar jo mere Maula ka
-  Saare Makke mein na tha itna bahadur koi
+  Saare Makke mein na tha itna bahaadur koi
 # source_id: tajpoints:a30c5ce3469a5a70e7f9
 # source_url: https://tajpoints.com/2018/03/aao-tareekh-sunaon-main-shab-e-hijrat-ki.html
 # raw_sha256: ad2e22a9c8196256be510ad55e5a5f82410c53f516c9a49cba1a340d5f418482
@@ -79,7 +80,7 @@ romanLyrics: |-
 ہیں نبی سوئے ہوئے جاگا ہوا ہو گا علی
 
 ۴
-یہی صدیق ہے اور یہی امین ہے لوگوں
+ہاں یہی صدیق ہے اور یہی امین ہے لوگوں
 کتنا حیدر پہ بھروسہ ہے نبی کو دیکھو
 فاطمہ جیسی امانت بھی علی کو دے دی
 

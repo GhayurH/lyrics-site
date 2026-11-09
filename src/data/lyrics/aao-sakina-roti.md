@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,10 +15,10 @@ romanLyrics: |-
   Abbas Abbas aao Sakina roti hai
 
   1
-  Jangal hai suna kya karun
-  Kya haal hai kis se kahun
+  Jangal hai suna kya karuṅ
+  Kya haal hai kis se kahuṅ
   Palkon pe ashk-e-gham liye
-  Munh ashkon se wo dhoti hai
+  Munh ashkoṅ se wo dhoti hai
 
   2
   Zehra ke dil jaan-e-Ali
@@ -26,21 +27,21 @@ romanLyrics: |-
   Uftaad us par hoti hai
 
   3
-  Shimr-e-lain se darti hai
+  Shimr-e-laiṅ se darti hai
   Jab yaad tumko karti hai
   Marti hai tere gham mein wo
   Bechain o muztar hoti hai
 
   4
-  Usko tasalli deti hun
-  Aaoge bhaiya kehti hun
-  Bolo kahun main kya karun
-  Be-kal wo gham se hoti hai
+  Usko tasalli deti huṅ
+  Aaenge bhaiya kehti huṅ
+  Bolo kahuṅ main kya karuṅ
+  Bekal wo gham se hoti hai
 
   5
-  Nanhi si jaan lakhon sitam
-  Hai ek us par gham pe gham
-  Sina kahan Shabbir ka
+  Nanhi si jaan laakhoṅ sitam
+  Hai ek us pe gham pe gham
+  Sina kahaaṅ Shabbir ka
   Kab chain se wo soti hai
 
   6
@@ -58,7 +59,7 @@ romanLyrics: |-
   8
   Sabir gham-e-Abbas mein
   Bali Sakina pyaas mein
-  Iqbal bint-e-Shah-e-Din
+  Iqbal bint-e-Shah-e-Diṅ
   Ammu ke gham mein roti hai
 # source_id: nohayonline:182305338c47e9a18bcf
 # source_url: https://www.nohayonline.com/details_content.php?id=829
@@ -71,7 +72,7 @@ romanLyrics: |-
 جنگل ہے سونا کیا کروں
 کیا حال ہے کس سے کہوں
 پلکوں پہ اشک غم لیے
-منہ آشکوں سے وہ دھوتی ہے
+منہ اشکوں سے وہ دھوتی ہے
 
 ۲
 زہرا کے دل جان علی
@@ -104,8 +105,8 @@ romanLyrics: |-
 وہ خاک پر اب سوتی ہے
 
 ۷
-کیسے نہر پر سو گےء
-بن بھائی کے ہم ہوگےء
+کیسے نہر پر سو گئے
+بن بھائی کے ہم ہو گئے
 زینب کی تھی رن میں صدا
 شام و سحر وہ روتی تھی
 

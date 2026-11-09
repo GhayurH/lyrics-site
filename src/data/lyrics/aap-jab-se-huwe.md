@@ -6,12 +6,13 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najam Azmi"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ya Rasul Allah
-  Apni tanhai mein Zehra yaad karti hai tumhein
+  Apni tanhaai mein Zehra yaad karti hai tumheṅ
   Aap jab se huwe juda baba
   Fatima ka hai bas Khuda baba
 
@@ -24,23 +25,23 @@ romanLyrics: |-
   Fatima aur nayi jafa baba
 
   3
-  Lakdiyan aag le ke aaya koi
-  Aur jalaya tha dar mera baba
+  Lakriyaaṅ aag le ke aaya koi
+  Aur jalaaya tha dar mera baba
 
   4
   Waasta aap ka diya maine
-  Phir bhi zaalim nahi ruka baba
+  Phir bhi zaalim nahiṅ ruka baba
 
   5
   Aap ke gham mein rona chaaha agar
-  Mujhko rone nahi diya baba
+  Mujhko rone nahiṅ diya baba
 
   6
   Har masayab ki inteha hai yehi
-  Mera Mohsin nahi raha baba
+  Mera Mohsin nahiṅ raha baba
 
   7
-  Baad-e-Mohsin samajh gayi hun main
+  Baad-e-Mohsin samajh gayi huṅ main
   Karbala ki hai ibteda baba
 
   8
@@ -48,23 +49,23 @@ romanLyrics: |-
   Uski khaatir kare dua baba
 
   9
-  Ab to milta nahi jawab-e-salam
+  Ab to milta nahiṅ jawaab-e-salaam
   Haal-e-Haider hai is tarha baba
 
   10
-  Naam lewa sahabiyo ne tere
-  Haq bhi cheena yateem ka baba
+  Naam lewa sahaabiyoṅ ne tere
+  Haq bhi chhina yatim ka baba
 
   11
   Najm o Rehan par bhi kar do karam
-  Hai ye zahra ki ilteja baba
+  Hai ye Zehra ki iltija baba
 # source_id: nohayonline:8d4234a8cb8b4b9f3372
 # source_url: https://www.nohayonline.com/details_content.php?id=1375
 # raw_sha256: 819272228971b2982af96b9ec77a88e78e4a92e7109904ae61b622ddfbd91eb8
 ---
 یا رسول اللّٰہ
 اپنی تنہائی میں زہرا یاد کرتی ہے تمہیں
-آپ جب سے ہوے جدا بابا
+آپ جب سے ہوئے جدا بابا
 فاطمہ کا ہے بس خدا بابا
 
 ۱
@@ -96,8 +97,8 @@ romanLyrics: |-
 کربلا کی ہے ابتداء بابا
 
 ۸
-نفس اپنا کہا جسے تم‌ نے
-اسکی خاطر کرے دعا بابا
+نفس اپنا کہا جسے تم نے
+اس کی خاطر کرے دعا بابا
 
 ۹
 اب تو ملتا نہیں جواب سلام
