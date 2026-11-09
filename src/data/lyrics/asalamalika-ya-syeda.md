@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Raza Abbas Zaidi"
 poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
@@ -12,8 +13,9 @@ published: false
 romanLyrics: |-
   Sayyeda sayyeda sayyeda
   Ya taahera raazia marzia fatema
-  Shaafiya qairunnisa umme abiha
-  Assalaam o alaike ya sayyeda
+  Shaafiya Khairunnisa Umm-e-Abiha
+  Sayyeda sayyeda sayyeda
+  Assalaam alaiki ya Sayyeda
   Alwida alwida sayyeda alwida
 
   1
@@ -23,7 +25,7 @@ romanLyrics: |-
   Keh rahe thay yehi maqtool e jafa
 
   2
-  Hurr chala jaanib e maqtal paye nusrat jis dam
+  Hurr chala jaanib-e-maqtal pa-e-nusrat jis dam
   Yun laga uth'te ho jannat ki taraf uske qadam
   Jang karte huwe jab nargha e aada may ghira
   Zakhm khaata raha aur kehta raha
@@ -63,7 +65,7 @@ romanLyrics: |-
   Gir ke maula ka lahoo bol utha
 
   8
-  Kyun na rehaan o raza nazr kare hum ye kalaam
+  Kiun na Rehaan o Raza nazr kareṅ hum ye kalaam
   Waaris e majlis e shabbir jo hai uske naam
   Taake khush hum se ho ghaibat may hamara wo imam
   Raat din hai ye wazeefa jis ka
@@ -74,8 +76,9 @@ romanLyrics: |-
 
 سیدہ سیدہ سیدہ
 یا طاہرہ راضیہ مرضیہ فاطمہ
-شافیہ خیرالنسا ام ابیہا
-السلام و علیک یا سیدہ
+شافیہ خیرالنسا امِ ابیہا
+سیدہ سیدہ سیدہ
+السلام علیک یا سیدہ
 الوداع الوداع سیدہ الوداع
 
 ۱
@@ -91,36 +94,36 @@ romanLyrics: |-
 زخم کھاتا رہا اور کہتا رہا
 
 ۳
-ہاے عون و محمد مارے گےء
+ہائے عون و محمد مارے گئے
 دونوں زینب کے مہ لقا سیدہ
-رن میں جب عون و محمد کی سواری آی
+رن میں جب عون و محمد کی سواری آئی
 ظلم کی کالی گھٹا ان کی سروں پر چھائی
-خوش ہوے دونوں شہادت کی خبر ہے لای
+خوش ہوئے دونوں شہادت کی خبر ہے لائی
 دی صدا دونوں نے یہ قلب قضاء
 
 ۴
 شاہ کا نورِ نظر لختِ جگر عکس نبی
 لڑکے میدان میں اکبر نے سناں جب کھای
 آ گیا منہ کو جگر قلب میں ٹوٹی برچھی
-چپ زباں ہو گیء لاشہ بولا
+چپ زباں ہو گئی لاشہ بولا
 
 ۵
 ہو کے بے بازو علمدار جری کہتا تھا
-آ رہی ہے مجھے خوشبوے جنابِ زہرا
-موت مہلت مجھے دے دے پےء رب کعبہ
+آ رہی ہے مجھے خوشبوئے جنابِ زہرا
+موت مہلت مجھے دے دے پئے ربِ کعبہ
 آخری جملہ یہ کرنے دے اعدا
 
 ۶
 دفعتاً جھولے سے اک ننھا مجاہد نکلا
 قد میں چھوٹا تھا جگر حضرتِ عبّاس کا تھا
 مثل عباس وہ میدان میں بے تیغ لڑا
-مسکراتے ہوے اصغر نے کہا
+مسکراتے ہوئے اصغر نے کہا
 
 ۷
 چکی پیس کے زہرا نے پالا جسے
 وہ تو پیاسا جہاں سے گیا سیدہ
 آخری سجدۂ آخر کی گھڑی آ پہنچی
-زیں سے آے زمیں پر جو حسین ابنِ علی
+زیں سے آئے زمیں پر جو حسین ابنِ علی
 شمر ملعون نے گردن پہ جو شمشیر رکھی
 گر کے مولا کا لہو بول اٹھا
 

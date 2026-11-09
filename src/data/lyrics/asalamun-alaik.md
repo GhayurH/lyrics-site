@@ -5,14 +5,15 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ali Shanawar, Ali Jee"
 poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya hussain ya hussain
-  As salaamun alaik ya hussain ya hussain
-  Bar zaban o dilam ya hussain ya hussain
+  Ya Husain ya Husain
+  Assalaamun alaik ya Husain ya Husain
+  Bar zabaan o dilam ya Husain ya Husain
 
   1
   Aaye maula madine se karbobala
@@ -55,17 +56,17 @@ romanLyrics: |-
 ---
 
 یا حسین یا حسین
-السلام ان علیک یا حسین یا حسین
+السلام علیک یا حسین یا حسین
 بر زبان و دلم یا حسین یا حسین
 
 ۱
 اے مولا مدینے سے کربوبلا
-بھای بہنوں کا بچوں کا یہ قافلہ
+بھائی بہنوں کا بچوں کا یہ قافلہ
 غازی عباس کا سر پہ پرچم کھلا
 آ رہی تھی صدا یا حسین یا حسین
 
 ۲
-بھای ہے مجتبیٰ بابا جاں مرتظی
+بھائی ہے مجتبیٰ بابا جاں مرتضیٰ
 اور مادر ہے جان نبی فاطمہ
 نانا صلی علیٰ احمد مصطفیٰ
 ان کے دل کی دعا یا حسین یا حسین
@@ -86,10 +87,10 @@ romanLyrics: |-
 ہاے شام غریباں نہ بھولیں گے ہم
 ہاے سیدانیاں اور ان پہ ستم
 بی بی زینب چلی لے کے دیں کا علم
-زینبی ازم تھا یا حسین یا حسین
+زینبی عزم تھا یا حسین یا حسین
 
 ۶
-پوری ریحان و سرور دعا ہو گیء
-منتقل نسل میں اب عزا ہو گیء
-اے شناور علی جی عطا ہو گیء
+پوری ریحان و سرور دعا ہو گئی
+منتقل نسل میں اب عزا ہو گئی
+اے شناور علی جی عطا ہو گئی
 دولتِ کربلا یا حسین یا حسین

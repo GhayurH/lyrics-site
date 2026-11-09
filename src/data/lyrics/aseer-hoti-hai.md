@@ -5,12 +5,13 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Dilawar Hasan"
 poet: "Ishrat Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bata rahi hai dilon ki badi hui dhadkan
+  Bata rahi hai diloṅ ki barhi hui dharkan
   Atash ki aag se ab tak jhulas raha hai badan
   Qayaam jal chuke haathon mein band chuki hai rasan
   Aseer hoti hai atthara bhaiyon ki behan
@@ -33,7 +34,7 @@ romanLyrics: |-
   4
   Qadam qadam pa madine ki yaad aati hai
   Yateem bachon ko taskeen deti jaati hai
-  Kabhi bhatije ko bad kar gale lagati hai
+  Kabhi bhatije ko barh kar gale lagaati hai
 
   5
   Pase hussain munadi ye de raha tha sada
@@ -46,7 +47,7 @@ romanLyrics: |-
   Tumhare khat ka likhe kya jawab ay sughra
 
   7
-  Ruki ruki hui nafzein hai dil dhadakta hai
+  Ruki ruki hui nabzeṅ hain dil dharakta hai
   Qadam qadam pa musibat ka daur dohra hai
   Jari furaat pa ye baat sun ke rota hai
 
@@ -63,7 +64,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1347
 # raw_sha256: b288eae460742b7e56b6d334bf9d8caec8e29e7e31808afee3bc0497026df2fa
 ---
-بتا رہی ہے دلوں کی بڑی ہوی دھڑکن
+بتا رہی ہے دلوں کی بڑھی ہوئی دھڑکن
 عطش کی آگ سے اب تک جھلس رہا ہے بدن
 قیام جل چکے ہاتھوں میں بند چکی ہے رسن
 اسیر ہوتی ہے اٹھارہ بھائیوں کی بہن
@@ -74,19 +75,19 @@ romanLyrics: |-
 کہاں ہو اے میرے عباس رو کے کہتی ہے
 
 ۲
-شہید ہو گےء سب بھائی کربلا آ کر
-ردا بھی چھن گیء سر سے ہوی برہنہ سر
+شہید ہو گئے سب بھائی کربلا آ کر
+ردا بھی چھن گئی سر سے ہوئی برہنہ سر
 جو دیکھ سکتے ہو عباس دیکھ لو منظر
 
 ۳
 عجیب حال سے زینب گزر رہی ہے یہاں
-جالی قناعتوں سے اب تک نکل رہا ہے دھواں
-ابھر کے آ گےء بازو پہ رسیوں کے نشاں
+جلی قناتوں سے اب تک نکل رہا ہے دھواں
+ابھر کے آ گئے بازو پہ رسیوں کے نشاں
 
 ۴
 قدم قدم پہ مدینے کی یاد آتی ہے
 یتیم بچوں کو تسکین دیتی جاتی ہے
-کبھی بھتیجے کو بد کار گلے لگاتی ہے
+کبھی بھتیجے کو بڑھ کر گلے لگاتی ہے
 
 ۵
 پس حسین منادی یہ دے رہا تھا صدا
@@ -94,12 +95,12 @@ romanLyrics: |-
 ملا ہے کربوبلا آکے یہ نیا تحفہ
 
 ۶
-کسے بھلاے کسے دے صدا کرے بھی تو کیا
+کسے بلائے کسے دے صدا کرے بھی تو کیا
 کوئی بھی عابد بیمار کے سوا نہ رہا
 تمہارے خط کا لکھے کیا جواب اے صغرا
 
 ۷
-رکی رکی ہوی نفزیں ہے دل دھڑکتا ہے
+رکی رکی ہوئی نبضیں ہیں دل دھڑکتا ہے
 قدم قدم پہ مصیبت کا دور دہرا ہے
 جری فرات پہ یہ بات سن کے روتا ہے
 
@@ -109,6 +110,6 @@ romanLyrics: |-
 کہا یہ حضرت زینب نے رو کے لیلیٰ سے
 
 ۹
-کہاں پہ لای ہے زینب کو گھر کر قسمت
+کہاں پہ لائی ہے زینب کو گھر کر قسمت
 ہجوم رنج و الم اور درد کی شدت
 زباں کون سی لاے جو یہ کہے عشرت
