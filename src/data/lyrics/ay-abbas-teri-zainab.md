@@ -11,8 +11,8 @@ aliases: []
 published: false
 romanLyrics: |-
   Dukhiyari zainab ke labon par tha nauha
-  Ay abbas teri zainab beparda hai
-  Le jaate hai qaid mujhe kar ke aada
+  Ae Abbas teri Zainab beparda hai
+  Le jate hain qaid mujhe kar ke aada
 
   1
   Suraj ne jis ko na dekha beparda
@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Tu jab se jaa kar darya pe soya hai
   Saara kunba khoon ke aansu roya hai
-  Jal gaye qaime chin gayi chadar ghar ujda
+  Jal gaye khaime chin gayi chadar ghar ujda
 
   3
   Jis ke atthara bhai thay wo khwahar
@@ -30,7 +30,7 @@ romanLyrics: |-
   Mujhko muqaddar ne kar daala hai tanha
 
   4
-  Qatl huye mere bete aur sab bhai
+  Qatl hue mere bete aur sab bhai
   Haye mujhe taqdeer kahan lekar aayi
   Kaun kare imdaad nahi koi apna
 
@@ -45,9 +45,9 @@ romanLyrics: |-
   Chaaron jaanib na-mehram majma hoga
 
   7
-  Mai ek din jis kufe ki shehzadi thi
+  Main aik din jis kufe ki shehzadi thi
   Jaati hoon us shehr mein ban kar ke qaidi
-  Ay ghazi ab phat jayega dil mera
+  Ae Ghazi ab phat jayega dil mera
 
   8
   Ek jaisi hai maa aur beti ki ghurbat
@@ -55,7 +55,7 @@ romanLyrics: |-
   Farq hai itna parde mein thi maa zahra
 
   9
-  Ay waiz ek hashr ka manzar tha us dam
+  Ae Waiz ek hashr ka manzar tha us dam
   Roke ali ye kehti thi zainab jis dam
   Sar hai khula baalon se chupaya hai chehra
 # source_id: nohayonline:d9b6422315bd5cb78047
@@ -75,7 +75,7 @@ romanLyrics: |-
 ۲
 تو جب سے جا کر دریا پہ سویا ہے
 سارا کنبہ خون کے آنسوں رویا ہے
-جل گےء خیمے چھن گیء چادر گھر اجڑا
+جل گئے خیمے چھن گئی چادر گھر اجڑا
 
 ۳
 جس کے اٹھارہ بھائی تھے وہ خواہر
@@ -83,7 +83,7 @@ romanLyrics: |-
 مجھ کو مقدر نے کر ڈالا ہے تنہا
 
 ۴
-قتل ہوے میرے بیٹے اور سب ہیں
+قتل ہوئے میرے بیٹے اور سب بھائی
 ہاے مجھے تقدیر کہاں لے کر آی
 کون کرے امداد نہیں کوئی اپنا
 
@@ -95,19 +95,19 @@ romanLyrics: |-
 ۶
 دل میرا گھبراتا ہے کیا ہوگا اب
 بازاروں سے کیسے گزرے گی زینب
-چاروں جانب نا محرم مجمع ہوگا
+چاروں جانب نامحرم مجمع ہوگا
 
 ۷
 میں ایک دن جس کوفے کی شہزادی تھی
 جاتی ہوں اس شہر میں بن کر کے قیدی
-اے غازی اب پھٹ جاے گا دل میرا
+اے غازی اب پھٹ جائے گا دل میرا
 
 ۸
 ایک جیسی ہے ماں اور بیٹی کی غربت
-دونوں کو دربار تلک لای قسمت
+دونوں کو دربار تلک لائی قسمت
 فرق ہے اتنا پردے میں تھی ماں زہرا
 
 ۹
-اے وائض ایک حشر کا منظر تھا اس دم
+اے واعظ ایک حشر کا منظر تھا اس دم
 روکے علی یہ کہتی تھی زینب جس دم
 سر ہے کھلا بالوں سے چھپایا ہے چہرہ

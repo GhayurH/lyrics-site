@@ -1,25 +1,25 @@
 ---
 title: "آواز الاماں کی خیموں سے آ رہی ہے"
-alternateTitle: "Awaaz Allamaa Ki"
+alternateTitle: "Awaz Al-Amaan Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sardar"
 tags: ["noImage"]
-aliases: []
+aliases: ["awaaz-allamaa-ki"]
 published: false
 romanLyrics: |-
-  Awaaz al amaan ki qaimon se aa rahi hai
-  Ghar fatema ka mil kar ummat jala rahi hai
+  Awaz al-amaan ki khaimoṅ se aa rahi hai
+  Ghar Fatima ka mil kar ummat jala rahi hai
 
   1
-  Bin baazuon ke koi darya pe laash tadpi
+  Bin baazuon ke koi darya pe lash tarpi
   Zainab ke sar chadar haye cheeni jaa rahi hai
 
   2
-  Soye kahan ho asghar meri godh kar ke veeran
-  Maa khaynch ke jhoole ki dori hila rahi hai
+  Soe kahaṅ ho Asghar meri godh kar ke veeran
+  Maa khainch ke jhoole ki dori hila rahi hai
 
   3
   Burqe mein jis ko paala zainab ne saal athara
@@ -27,18 +27,18 @@ romanLyrics: |-
 
   4
   Khamosh umme farwa baithi hai khole ghatri
-  Tasveer e mustufa ko kaise bana rahi hai
+  Tasvir-e-Mustafa ko kaise bana rahi hai
 
   5
-  Qaime to jal chuke hai phir bhi nabi ki ummat
+  Khaime to jal chuke hain phir bhi nabi ki ummat
   Kubra ka lootne ko samaan aa rahi hai
 
   6
-  Jalte huwe qaimon se beti ali ki kaise
-  Bemaar e karbala ko tanha utha rahi hai
+  Jalte hue khaimoṅ se beti ali ki kaise
+  Bimar-e-Karbala ko tanha utha rahi hai
 
   7
-  Haye shaam e ghariban mein mushkil kusha ki beti
+  Haye Sham-e-Ghariban mein mushkil kusha ki beti
   Ban kar abbas ya rab pehre pe aa rahi hai
 
   8
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   9
   Chauda sau baras guzre sardar hai haqeeqat
-  Aale nabi pe ummat haye zulm dha rahi hai
+  Aal-e-Nabi pe ummat haye zulm dha rahi hai
 # source_id: nohayonline:db4349a98d6244a4f3d8
 # source_url: https://www.nohayonline.com/details_content.php?id=2328
 # raw_sha256: a8d03b5dfe19d36249f932225a3b6b4cfc38faa08226af64f3f1ac68e1e6162a
@@ -57,10 +57,10 @@ romanLyrics: |-
 
 ۱
 بن بازوؤں کے کوئی دریا پہ لاش تڑپی
-زینب کے سر سے چادر ہاے چھینی گیء
+زینب کے سر سے چادر ہائے چھینی گئی
 
 ۲
-سوے کہاں ہو اصغر میری گود کر کے ویراں
+سوئے کہاں ہو اصغر میری گود کر کے ویراں
 ماں کھینچ کے جھولے کی ڈوری ہلا رہی ہے
 
 ۳
@@ -68,7 +68,7 @@ romanLyrics: |-
 اس کے لہو کی مہندی سر کو لگا رہی ہے
 
 ۴
-خاموش ام فروہ بیٹھی ہے کھولے گھٹری
+خاموش ام فروہ بیٹھی ہے کھولے گٹھڑی
 تصویر مصطفیٰ کو کیسے بنا رہی ہے
 
 ۵
@@ -76,7 +76,7 @@ romanLyrics: |-
 کبرا کا لوٹنے کو ساماں آ رہی ہے
 
 ۶
-جلتے ہوے خیموں سے بیٹی علی کی کیسے
+جلتے ہوئے خیموں سے بیٹی علی کی کیسے
 بیمار کربلا کو تنہا اٹھا رہی ہے
 
 ۷

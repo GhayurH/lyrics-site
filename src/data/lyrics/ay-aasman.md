@@ -1,6 +1,6 @@
 ---
 title: "اے آسمان اے آسمان"
-alternateTitle: "Ay Aasman"
+alternateTitle: "Ae Aasman"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay aasman ay aasman
+  Ae aasmaṅ ae aasmaṅ
   
   1
   Tune bhi dekha wo samaan
@@ -18,7 +18,7 @@ romanLyrics: |-
   Thay imtehan par imtehan
   
   2
-  Hilta tha arshe kibriya
+  Hilta tha Arsh-e-Kibriya
   Saktay mein thay kul ambiya
   Jab naujawan ke qalb se
   Kheynchi zaeefi ne sina
@@ -36,22 +36,22 @@ romanLyrics: |-
   Ahle haram ka paasban
   
   5
-  Sunte hai sab tharra gaye
-  Moo ko kaleje aa gaye
+  Sunte hi sab tharra gaye
+  Munh ko kaleje aa gaye
   Jab khoon say tar hogayi
-  Baysheer ki sookhi zaban
+  Beshir ki sookhi zaban
   
   6
   Ya bekasi maqtal mein thi
-  Y alaash thi mazloom ki
+  Ye laash thi mazlum ki
   Jab paemaali ke liye
   Hone lagi tayyariyan
   
   7
-  Taskeen e shar hoti rahi
+  Taskin-e-shar hoti rahi
   Insaniyat roti rahi
-  Jab gardane bemaar mein
-  Dekha gaya tauq e garan
+  Jab gardan-e-bimar mein
+  Dekha gaya tauq-e-giraṅ
   
   8
   Shahid sare karbobala
@@ -72,9 +72,9 @@ romanLyrics: |-
 
 ۲
 ہلتا تھا عرش کبریا
-سکتے میں تھے کل انبیائ
+سکتے میں تھے کل انبیا
 جب نوجواں کے قلب سے
-کھینچی ضیعفی نے سناں
+کھینچی ضعیفی نے سناں
 
 ۳
 وہ وقت نوحہ بن گیا
@@ -91,8 +91,8 @@ romanLyrics: |-
 ۵
 سنتے ہی سب تھرا گئے
 منہ کو کلیجے آگئے
-جب خون سے تر ہو گئے
-بشیر کی سوکھی زباں
+جب خون سے تر ہو گئی
+بے شیر کی سوکھی زباں
 
 ۶
 یہ بیکسی مقتل میں تھی
@@ -101,7 +101,7 @@ romanLyrics: |-
 ہونے لگی تیاریاں
 
 ۷
-تسکین شور ہوتی رہی
+تسکینِ شر ہوتی رہی
 انسانیت روتی رہی
 جب گردن بیمار میں
 دیکھا گیا طوق گراں

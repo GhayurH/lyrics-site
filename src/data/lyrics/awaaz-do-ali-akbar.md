@@ -10,30 +10,30 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aina aina ali akbar
+  Aina aina Ali Akbar
   Haye akbar haye akbar
-  Ay naujawan ay naujawan
-  Awaaz do ay ali akbar awaaz do
+  Ae naujawan ae naujawan
+  Awaz do ae Ali Akbar awaaz do
 
   1
   Jaati hai meri jaan
   Maqtal mein hai dhuaan
   Beta ho tum kahan
-  Maara hai kis tarha se tumhe sochta hoon mai
-  Patthar hata hata ke tumhe dhoondta hoon mai
+  Maara hai kis tarha se tumhe sochta huṅ mainn
+  Patthar hata hata ke tumhe dhundta huṅ mainn
   Chaaron taraf hai khoon milta nahi sukoon
   Laashon ke darmiyan
 
   2
-  Kuch bhi dikhayi deta nahi mai ghareeb hoon
+  Kuch bhi dikhayi deta nahi main gharib hoon
   Khushboo se lag raha hai tumhare khareeb hoon
-  Ay mere dil ke chain baba ke noore ain
+  Ae mere dil ke chain baba ke nur-e-ain
   Ab lo na imtehan
 
   3
   Maine suna hai ghode se tum khud nahi gire
-  Ay mere laal baalon se khayncha gaya tumhe
-  Tum ho yahin kahin kyun bolte nahi
+  Ae mere laal baalon se khayncha gaya tumhe
+  Tum ho yahiṅ kahiṅ kiun bolte nahi
   Khamosh hai zuban
 
   4
@@ -56,19 +56,19 @@ romanLyrics: |-
 
   7
   Tum khud ali ho beta zara hausla karo
-  Badhne laga hai dard to nade ali padho
+  Badhne laga hai dard to Nad-e-Ali padho
   Aankhein hai meri nam sughra ki hai qasam
   Ragdo na aediyan
 
   8
   Do maa'on ne jawan kiya tum ko paal kar
-  Qaimon mein jaa ke kaise milaunga mai nazar
+  Khaimoṅ mein jaa ke kaise milaunga mai nazar
   Mai unse kya kahun behta hai tera khoon
   Kaise sahegi maa
 
   9
   Azlaan ro ke kehta raha ye mera imam
-  Beta hamare haal pe hasti hai fauje shaam
+  Beta hamare haal pe hasti hai fauj-e-Shaam
   Dhundhla hai sab jahan hai surkh aasman
   Chalti hai aandhiyan
 # source_id: nohayonline:d7961e2d215b88f6fb84
@@ -86,7 +86,7 @@ romanLyrics: |-
 مقتل میں ہے دھواں
 بیٹا ہو تم کہاں
 مارا ہے کس طرح سے تمہیں سوچتا ہوں میں
-پتھر ہٹا کے تمہیں ڈھونڈتا ہوں میں
+پتھر ہٹا ہٹا کے تمہیں ڈھونڈتا ہوں میں
 چاروں طرف ہے خون ملتا نہیں سکون
 لاشوں کے درمیاں
 
@@ -104,7 +104,7 @@ romanLyrics: |-
 
 ۴
 کیسے گرے ہو مجھکو بتاؤ تو زین سے
-لگتا ہے تمہیں کھای ہے برچھی لعین سے
+لگتا ہے تم نے کھائی ہے برچھی لعین سے
 چہرہ بھی زرد ہے سینے میں درد ہے
 کچھ تو کرو بیاں
 
@@ -115,13 +115,13 @@ romanLyrics: |-
 چہرے پہ ہے نشاں
 
 ۶
-ہمت کرو زرا سی کلیجے کو تھام کر
-ہے وقت عصر جا گو میرے نوجواں پسر
+ہمت کرو ذرا سی کلیجے کو تھام کر
+ہے وقت عصر جاگو میرے نوجواں پسر
 لیلیٰ کی آس ہے زینب اداس ہے
 دو آخری اذاں
 
 ۷
-تم خود علی ہو بیٹا زرا حوصلہ کرو
+تم خود علی ہو بیٹا ذرا حوصلہ کرو
 بڑھنے لگا ہے درد تو ناد علی پڑھو
 آنکھیں ہیں میری نم صغرا کی ہے قسم
 رگڑو نہ ایڑیاں
@@ -129,7 +129,7 @@ romanLyrics: |-
 ۸
 دو ماؤں نے جواں کیا تم کو پال کر
 خیموں میں جا کے کیسے ملاؤں گا میں نظر
-میں ان سے کیا کہوں ہے تیرا خوں
+میں ان سے کیا کہوں بہتا ہے تیرا خوں
 کیسے سہے گی ماں
 
 ۹

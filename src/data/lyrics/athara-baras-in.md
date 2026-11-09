@@ -14,12 +14,12 @@ romanLyrics: |-
   Akbar ne to ye sarwar ne kaha
   Zainab se ijaazat lo beta
   Tum par hai zyada haq us ka
-  Qaime mein phuphi amma ke jab
-  Athara baras waala pahuncha
+  Khaime mein phuphi amma ke jab
+  Athara baras wala pahuncha
   Maangi jo ijaazat akbar ne
-  Zainab ne pukara ay beta
+  Zainab ne pukara ae beta
 
-  Athara baras tumko in haathon se paala hai
+  Athara baras tum ko in haathon se paala hai
   Mai kaise kahun akbar marne ke liye jao
 
   1
@@ -38,16 +38,16 @@ romanLyrics: |-
   Hai abbas ki judaai ka gham
   Ghareeb ul watan bahot thak chuka
   Zaeefi bhi hai nazar bhi hai kam
-  Ay laal mera bhai seh roz ka pyasa hai
+  Ae laal mera bhai seh roz ka pyasa hai
 
   3
-  Mai paalne waali hoo itna to mera haq hai
-  Socha tha ke ek din mai jab jaungi dunya se
+  Main palne wali huṅ itna to mera haq hai
+  Socha tha ke aik din main jab jaungi dunya se
   Lehad mein mujhe utaarega tu
   Ye armaan hai yehi aarzoo
   Rahe tu sada mere saamne
   Ruke saans bhi tere roo baroo
-  Ay laal abhi mera armaan adhoora hai
+  Ae laal abhi mera armaan adhoora hai
 
   4
   Jab pehle pehel tujhko haathon pe uthaya tha
@@ -65,25 +65,25 @@ romanLyrics: |-
   Jo waada kiya nibhaoge tum
   Sakina se wo bahot door hai
   Behan se usay milaoge tum
-  Beta tumhe sughra se wo waada nibhana hai
+  Beta tumhe Sughra se wo waada nibhana hai
 
   6
   Akbar teri shadi ka armaan hai bahot hum ko
-  Hum seh nahi payenge ay laal tere gham ko
+  Hum seh nahi payenge ae laal tere gham ko
   Jabeen par teri jo sehra bandhe
   Tamanna hai wo phuphi dekhle
-  Dulhan ko teri sajaungi mai
-  Ay mere haseen jawan laadle
+  Dulhan ko teri sajaungi main
+  Ae mere haseen jawan laadle
   Zainab ne abhi tujhko dulha bhi banana hai
 
   7
   Ye kehne lage akbar zainab ki sada sun ke
-  Afzal to nahi amma mai dilbare zahra se
+  Afzal to nahi amma main dilbar-e zahra se
   Akele hai wo nahi hai koi
   Musibat mein hai zaroorat meri
-  Nazar kis tarha milaunga mai
+  Nazar kis tarha milaunga main
   Agar aap ne ijaazat na di
-  Kyun aap ke honton pe is waqt ye nauha hai
+  Kiun aap ke honton pe is waqt ye nauha hai
 
   8
   Akbar ki sada sun kar zainab ne ijaazat di
@@ -91,7 +91,7 @@ romanLyrics: |-
   Duayein khuda se karti thi wo
   Mere laal ki khuda khair ho
   Kaha ya ali madad kijiye
-  Mai ruqsat karun jawan laal ko
+  Main rukhsat karun jawan laal ko
   Zeeshan o raza phir na zainab ne pukara hai
 # source_id: nohayonline:ae2017508d7ddfe2d3af
 # source_url: https://www.nohayonline.com/details_content.php?id=2395
@@ -101,26 +101,26 @@ romanLyrics: |-
 مرنے کی اجازت جب مانگی
 اکبر نے تو یہ سرور نے کہا
 زینب سے اجازت لو بیٹا
-تُم پر ھے زیادہ حق اسکا
+تم پر ہے زیادہ حق اسکا
 خیمے میں پھوپی اماں کے جب
-اٹھارا برس والا پہنچا
+اٹھارہ برس والا پہنچا
 مانگی جو اجازت اکبر نے
 زینب نے پکارا اے بیٹا
 
-اٹھارا برس تُم کو اِن ھاتھوں سے پالا ہے
+اٹھارہ برس تم کو اِن ہاتھوں سے پالا ہے
 میں کیسے کہوں اکبر مرنے کے لئے جاؤ
 
 ۱
-اکبر تجھے دیکھوں تو چلتی ہیں میری سانسیں
-کس طرح تجھے زخمی دیکھینگی میری آنکھیں
+اکبر تجہے دیکھوں تو چلتی ہیں میری سانسیں
+کس طرح تجہے زخمی دیکھینگی میری آنکھیں
 میرے گل بدن میرے نوجواں
 کلیجے میں جب لگیگی سناں
-میری جان تُم نا سہ پاؤگے
+میری جان تم نا سہ پاؤگے
 تمہیں کس طرح سمبھالیگی ماں
-معلوم ھے زینب کو نازک تیرا سینہ ہے
+معلوم ہے زینب کو نازک تیرا سینہ ہے
 
 ۲
-اک بار زرا اپنے بابا کی طرف دیکھو
+اک بار ذرا اپنے بابا کی طرف دیکھو
 کس طرح اُٹھائینگے وہ تیرے جنازے کو
 عجب حال ہے کمر میں ہے خم
 ہے عباس کی جدائی کا غم
@@ -131,7 +131,7 @@ romanLyrics: |-
 ۳
 میں پالنے والی ہوں اتنا تو میرا حق ہے
 سوچا تھا کے اک دن میں جب جاؤنگی دنیا سے
-لحد میں مجھے اُتارےگا تو
+لحد میں مجہے اُتارےگا تو
 یہ ارمان ہے یہی آرزو
 رہے تو سدا میرے سامنے
 رُکے سانس بھی تیرے رو برو
@@ -141,24 +141,24 @@ romanLyrics: |-
 جب پہلے پہل تجھکو ہاتھوں پہ اُٹھایا تھا
 یہ کہتے ہوئے میں نے سینے سے لگایا تھا
 میری زندگی میرے لاڈلے
-کسی کی تجھے نظر نہ لگے
-تجھے دیکھنے کو بےچین تھی
-سکوں مل گیا تجھے دیکھ کے
+کسی کی تجہے نظر نہ لگے
+تجہے دیکھنے کو بےچین تھی
+سکوں مل گیا تجہے دیکھ کے
 تو آنکھوں کا تارا ہے تو راج دلارا ہے
 
 ۵
 صغرا سے کیا وعدہ کیا یاد نہیں اکبر
 بیمار مدینے میں مرجائے نہ رو رو کر
-اُسے آس ہے کے آؤگے تُم
-جو وعدہ کیا نبھاؤگے تُم
+اُسے آس ہے کے آؤگے تم
+جو وعدہ کیا نبھاؤگے تم
 سکینہ سے وہ بہت دور ہے
-بہن سے اُسے ملاؤگے تُم
-اے لال ابھی تُم کو وہ وعدہ نبھانا ہے
+بہن سے اُسے ملاؤگے تم
+اے لال ابھی تم کو وہ وعدہ نبھانا ہے
 
 ۶
 اکبر تیری شادی کا ارماں ہے بہت ہم کو
 ہم سہ نہیں پائینگے اے لال تیرے غم کو
-جبیں پر تیری جو سہرا بندھے
+جبیں پر تیری جو سہرا بندہے
 تمنا ہے وہ پھوپی دیکھلے
 دلہن کو تیری سجاؤنگی میں
 اے میرے حسیں جواں لاڈلے
@@ -168,7 +168,7 @@ romanLyrics: |-
 یہ کہنے لگے اکبر زینب کی صدا سن کے
 افضل تو نہیں اماں میں دلبرِ زہرا سے
 اکیلے ہیں وہ نہیں ہے کوئی
-مصیبت میں ہےضرورت میری
+مصیبت میں ہے ضرورت میری
 نظر کس طرح ملاؤنگا میں
 اگر آپ نے اجازت نہ دی
 کیوں آپ کے ہونٹوں پہ اِس وقت یہ نوحہ ہے
@@ -178,6 +178,6 @@ romanLyrics: |-
 رُخصت جو ہوئے اکبر کیسی وہ قیامت تھی
 دعائیں خدا سے کرتی تھی وہ
 میرے لال کی خدا خیر ھو
-کہا یاعلی مدد کیجئے
+کہا یا علی مدد کیجئے
 میں رخصت کروں جواں لال کو
 زیشان و رضا پھر نہ زینب نے پکارا ہے
