@@ -1,148 +1,138 @@
 ---
-title: "مجھے بھول جاے دنیا"
+title: "مجھے بھول جائے دنیا"
 alternateTitle: "Allah Ka Zakir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mujhe bhool jaaye dunya
-  Mai agar tujhe bhuladun
+  Mujhe bhul jae duniya
+  Main agar tujhe bhula dun
+  Ya Husain
 
   1
-  Ya hussain
-  Teeron ki musalle par tu ne
+  Tiroṅ ke musalle par tu ne
   Jo sajda kiya koi kar na saka
-  Jis khaak pe tera khoon baha
-
-  2
+  Jis khaak pe tera khun baha
   Us khaak ke har zarre ne kaha
   Allah ka tu zakir hai
-  Aur tera zakir mai hoo hussain
-  Ya hussain ya hussain
+  Aur tera zakir main huṅ Husain
+  Ya Husain ya Husain
+
+  2
+  Duniya ye bhulaegi kaise
+  Bazaar-e-jafa mein jab tu ne
+  Quran sunaya neze par
+  Quran mukhatib tujh se hua
 
   3
-  Dunya ye bhulayegi kaise
-  Bazaar e jafa mein jab tu ne
-  Quran sunaya naize par
-  Quran mukhaatib tujhse huwa
+  Chand aur sitare baam-e-falak
+  Rizwan-e-jinaṅ sab hur o malak
+  Sab farsh ke tabqe aur shajar
+  Hai sab ke laboṅ par ek sada
 
   4
-  Chand aur sitare baam e falak
-  Rizwane jina sab hoor o malak
-  Sab farsh ke tabkhe aur shajar
+  Allah ki tu ne laaj rakhi
+  Tauhid teri maqruz hui
+  Allah Allah ye shan teri
+  Phir kiun na kahe har abd-e-Khuda
 
   5
-  Hai sab ke labon par ek sada
-  Allah ki tu ne laaj rakhi
-  Tauheed teri maqrooz hui
+  Bar waqt use milti na ajr
+  Imdad teri Zahra ke pisar
+  Mit jata jahaṅ se din-e-Khuda
+  Ab kehta rahega din sada
 
   6
-  Allah allah ye shaan teri
-  Phir kyun na kahe har abd e khuda
-  Bar waqt usay milti na ajar
+  Tarikh ke bojhal hathoṅ ne
+  Ye baat likhi hai rote hue
+  Ae Sher-e-Khuda ke laal salam
+  Kehte haiṅ tujhe khud Sher-e-Khuda
 
   7
-  Imdad teri zahra ke pisar
-  Mit jaata jahan se deen e khuda
-  Ab kehta rahega deen sada
+  Wo Malika-e-ghairat bint-e-Ali
+  Jo tere sahare jiti thi
+  Jab mahw-e-tilawat dekha tujhe
+  Kehta tha dil-e-mahrum-e-rida
 
   8
-  Tareekh ke bojhal haathon ne
-  Ye baat likhi hai rote huwe
-  Ay shere khuda ke laal salaam
-  Kehte hai tujhe khud sher e khuda
+  Haye kushta-e-tegh-e-zulm o jafa
+  Hai tujh sa namazi kaun bhala
+  Neze se iqamat tu ne kahi
+  Tiroṅ ke musalle ne ye kaha
 
   9
-  Wo malka e ghairat binte ali
-  Jo tere sahare jeeti thi
-  Jab mehwe tilawat dekha tujhe
-
-  10
-  Kehta tha dile mehroom e rida
-  Haye kushta e tayghe zulmo jafa
-  Hai tujh sa namazi kaun bhala
-
-  11
-  Naize se aqaamat tu ne kahi
-  Teeron ke musalle ne ye kaha
-  Irfane nabi irfane khuda
-
-  12
-  Mujhko to azakhano se mila
-  Ay mazhar e yazdan ke bete
-  Sajde mein yehi mazhar ne kaha
+  Irfan-e-Nabi Irfan-e-Khuda
+  Mujh ko to azakhanoṅ se mila
+  Ae Mazhar-e-Yazdan ke bete
+  Sajde mein yehi Mazhar ne kaha
 # source_id: nohayonline:a230a815f46ebd96345d
 # source_url: https://www.nohayonline.com/details_content.php?id=2218
 # raw_sha256: 1ed5e6ebc340a608043a30ed7f93afa19da6f7c6f9c51d4909bdf2c60ac1afa1
 ---
-مجھے بھول جاے دنیا
+
+مجھے بھول جائے دنیا
 میں اگر تجھے بھلا دوں
+یا حسین
 
 ۱
-یا حسین
 تیروں کے مصلے پر تو نے
 جو سجدہ کیا کوئی کر نہ سکا
 جس خاک پہ تیرا خون بہا
-
-۲
-اس خاک کے ہر زرے نے کہا
-اللّٰہ کا تو ذاکر ہے
+اس خاک کے ہر ذرے نے کہا
+اللہ کا تو ذاکر ہے
 اور تیرا ذاکر میں ہوں حسین
 یا حسین یا حسین
 
-۳
-دنیا یہ بھلاے گی کیسے
-بازار جفا میں جب تو نے
+۲
+دنیا یہ بھلائے گی کیسے
+بازارِ جفا میں جب تو نے
 قرآن سنایا نیزے پر
 قرآن مخاطب تجھ سے ہوا
 
+۳
+چاند اور ستارے بامِ فلک
+رضوانِ جناں سب حور و ملک
+سب فرش کے طبقے اور شجر
+ہے سب کے لبوں پر ایک صدا
+
 ۴
-چاند اور ستارے بام فلک
-رضوان جناں سب حور و ملک
-سب فرش کے تبقے اور شجر
+اللہ کی تو نے لاج رکھی
+توحید تیری مقروض ہوئی
+اللہ اللہ یہ شان تیری
+پھر کیوں نہ کہے ہر عبدِ خدا
 
 ۵
-ہے سب کے لبوں پر ایک صدا
-اللّٰہ کی تو نے لاج رکھی
-توحید تیری مقروض ہوی
-
-۶
-اللّٰہ اللّٰہ یہ شان تیری
-پھر کیوں نہ کہے ہر ابد خدا
 بر وقت اسے ملتی نہ اجر
-
-۷
 امداد تیری زہرا کے پسر
-مٹ جاتا جہاں سے دین خدا
+مٹ جاتا جہاں سے دینِ خدا
 اب کہتا رہے گا دین صدا
 
-۸
+۶
 تاریخ کے بوجھل ہاتھوں نے
-یہ بات لکھی ہے روتے ہوے
-اے شیر خدا کے لال سلام
-کہتے ہیں تجھے خود شیر خدا
+یہ بات لکھی ہے روتے ہوئے
+اے شیرِ خدا کے لال سلام
+کہتے ہیں تجھے خود شیرِ خدا
 
-۹
-وہ ملکۂ غیرت بنت علی
+۷
+وہ ملکۂ غیرت بنتِ علی
 جو تیرے سہارے جیتی تھی
 جب محوِ تلاوت دیکھا تجھے
+کہتا تھا دلِ محرومِ ردا
 
-۱۰
-کہتا تھا دل محروم ردا
-ہاے کشتۂ تیغِ ظلم و جفا
+۸
+ہائے کشتۂ تیغِ ظلم و جفا
 ہے تجھ سا نمازی کون بھلا
-
-۱۱
 نیزے سے اقامت تو نے کہی
 تیروں کے مصلے نے یہ کہا
-عرفانِ نبی عرفانِ خدا
 
-۱۲
-مجھکو تو عزاخانوں سے ملا
-اے مظہر یزداں کے بیٹے
+۹
+عرفانِ نبی عرفانِ خدا
+مجھ کو تو عزاخانوں سے ملا
+اے مظہرِ یزداں کے بیٹے
 سجدے میں یہی مظہر نے کہا

@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ghulam Abbas"
+reciter: "Mir Bober Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Allah ki riza hai mohabbat hussain ki
-  Poocho rasool-e-paak se azmat hussain ki
+  Allah ki riza hai mohabbat Husain ki
+  Puchho Rasul-e-Pak se azmat Husain ki
 
   1
-  Tareekh hai gawah ke kufre yazeed se
-  Islam ko bachagayi daulat hussain ki
+  Tareekh hai gawah ke kufr-e-Yazid se
+  Islam ko bacha gai daulat Husain ki
 
   2
-  Darya kinare laasha e abbas dekh kar
-  Ahle aza na poochiye haalat hussain ki
+  Darya kinare laasha-e-Abbas dekh kar
+  Ahl-e-aza na poochiye haalat Husain ki
 
   3
   Ran se jawan bete ka laasha uthate hai
-  Sab se badi yehi hai musibat hussain ki
+  Sab se badi yehi hai musibat Husain ki
 
   4
   Dam toot'ta tha uska jo ankhon ka noor tha
-  Jaati na kaise ran may basarat hussain ki
+  Jaati na kaise ran may basarat Husain ki
 
   5
   Beti ali ki peet ke sar apna reh gayi
-  Dashte bala may dekh ke haalat hussain ki
+  Dashte bala may dekh ke haalat Husain ki
 
   6
   Ubhrenge har zamane may kuch waqt ke yazeed
-  Har daur ko rahegi zaroorat hussain ki
+  Har daur ko rahegi zaroorat Husain ki
 
   7
-  Har majlise hussain may aati hai fatema
-  Jabse hui hai ran may shahadat hussain ki
+  Har majlise Husain may aati hai fatema
+  Jabse hui hai ran may shahadat Husain ki
 
   8
   Mehshar ka khuaf unko hai humko nahi ghulam
-  Humko naseeb hogi shifa'at hussain ki
+  Humko naseeb hogi shafaat Husain ki
 # source_id: nohayonline:a5ece2865283594665e2
 # source_url: https://www.nohayonline.com/details_content.php?id=831
 # raw_sha256: ca7be5452b4e9858f1d824c56d6dd624428e2e3c6c6f416f6db29e9e6b170663
@@ -53,19 +54,19 @@ romanLyrics: |-
 
 ۱
 تاریخ ہے گواہ کے کفر یزید سے
-اسلام کو بچاے گی دولت حسین کی
+اسلام کو بچا گئی دولت حسین کی
 
 ۲
-دریا کنارے لاشہء عباس دیکھ کر
-أہل عزا نہ پوچھیے حالت حسین کی
+دریا کنارے لاشۂ عباس دیکھ کر
+اہلِ عزا نہ پوچھیے حالت حسین کی
 
 ۳
 رن سے جوان بیٹے کا لاشہ اٹھاتے ہیں
 سب سے بڑی یہی ہے مصیبت حسین کی
 
 ۴
-دم ٹوٹتا تھا اسکا جو آنکھوں کا نور تھا
-جاتی نہ کیسے رن میں بشارت حسین کی
+دم ٹوٹتا تھا اس کا جو آنکھوں کا نور تھا
+جاتی نہ کیسے رن میں بصارت حسین کی
 
 ۵
 بیٹی علی کی پیٹ کے سر اپنا رہ گئی
@@ -77,8 +78,8 @@ romanLyrics: |-
 
 ۷
 ہر مجلس حسین میں آتی ہیں فاطمہ
-جب سے ہوی ہے رن میں شہادت حسین کی
+جب سے ہوئی ہے رن میں شہادت حسین کی
 
 ۸
-محشر کا خوف انکو ہے ہم کو نہیں غلام
-ہم کو نصیب ہوگی شفاعت حسین کی
+محشر کا خوف ان کو ہے ہم کو نہیں غلام
+ہم کو نصیب ہو گی شفاعت حسین کی
