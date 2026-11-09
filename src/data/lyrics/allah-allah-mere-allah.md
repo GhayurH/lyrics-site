@@ -6,19 +6,20 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Allah allah mere allah
   Guzri jahan jahan se
-  Saydaniya khule sar
-  Had mod pe qatl hua sajjad
+  Saydaniyaṅ khule sar
+  Har mor pe qatl hua Sajjad
 
   1
   Hua pehla qatl mere baba
   Sajjad ka qaime ke andar
-  Bhai ki sada e hal-min par
+  Bhai ki sada-e-hal min par
   Labbaik na keh paaya uthkar
   Phir uske baad baba
   Ek zinda laash ban kar
@@ -77,7 +78,7 @@ romanLyrics: |-
   Bazaare jafa darbar e sitam
   Har gaam ye jumle yaad aaye
   Yasrab ki aurton se
-  Kyun keh rahi thi muztar
+  Kiun keh rahi thi muztar
 # source_id: nohayonline:0b3835a40f38449d8cd2
 # source_url: https://www.nohayonline.com/details_content.php?id=978
 # raw_sha256: 0f9c1b4b4aecc53eb944c2a80de7f78aaee9de444d69f8b4a62f18b95a1769d6
@@ -90,7 +91,7 @@ romanLyrics: |-
 ۱
 ہوا پہلا قتل میرے بابا
 سجاد کا خیمے کے اندر
-بھائی کی صداے ھل من پر
+بھائی کی صدائے ہل من پر
 لبیک نہ کہہ پایا اٹھکر
 پھر اسکے بعد بابا
 اک زندہ لاش بن کر
@@ -104,7 +105,7 @@ romanLyrics: |-
 بے چادری کا خنجر
 
 ۳
-وہ رات کٹی اور آی سحر
+وہ رات کٹی اور آئی سحر
 پھر قیدی بنی ہر سیدانی
 جب دیکھی میرے شانوں میں رسن
 غیرت کے خدا کی سانس رکی
@@ -112,18 +113,18 @@ romanLyrics: |-
 دو بار قتل ہوکر
 
 ۴
-جب آی محبوں کی بستی
-تقسیم رداءیں ہونے لگی
-نو بار ردایں ہمکو ملی
-نو بار ردایں چھینی گیء
+جب آئی محبوں کی بستی
+تقسیم ردائیں ہونے لگیں
+نو بار ردائیں ہم کو ملیں
+نو بار ردائیں چھینی گئیں
 کربل سے تابہ کوفہ
 کوفہ سے شام جا کر
 
 ۵
 وہاں عید منائی جاتی تھی
-آءینے لگاے جاتے تھے
+آئینے لگائے جاتے تھے
 سادات کی آمد پر بابا
-بازار سجاے جاتے تھے
+بازار سجائے جاتے تھے
 بازار میں جو پہنچی
 آل نبی کھلے سر
 
@@ -132,7 +133,7 @@ romanLyrics: |-
 میں بھول نہیں سکتی بابا
 ہے کون اسیروں میں زینب
 جب آکے ستمگر نے پوچھا
-ایسے کیء مصائب
+ایسے کئی مصائب
 قلب حزیں پہ سہہ کر
 
 ۷
@@ -147,6 +148,6 @@ romanLyrics: |-
 عرفان اور مظہر روتے ہوئے
 جب شام کی راہوں سے گزرے
 بازار جفا دربار ستم
-ہر گام یہ جملے یاد آے
+ہر گام یہ جملے یاد آئے
 یثرب کی عورتوں سے
 کیوں کہہ رہی تھی مضطر

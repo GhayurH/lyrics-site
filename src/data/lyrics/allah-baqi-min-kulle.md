@@ -1,32 +1,33 @@
 ---
-title: "شاہ ہدا کی تشنہ دہانی"
+title: "شاہِ ہدا کی تشنہ دہانی"
 alternateTitle: "Allah Baqi Min Kulle"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaahe huda ki tashna dahani
+  Shah-e-Huda ki tashna dahani
   Allah baaqi min kulle faani
 
   1
-  Poocho na manzar dashte bala ke
+  Puchho na manzar dasht-e-bala ke
   Hai khaak pe tadpe pyason ke laashe
   Roti rahi darya ki rawani
 
   2
-  Kadiyal jawan ke ay nauha khwanon
-  Itna to socho ay naujawanon
+  Kadiyal jawan ke ae nauhakhwanoṅ
+  Itna to socho ae naujawanoṅ
   Akbar ka seena barchi purani
 
   3
   Nazron mein yun andher jahan hai
   Hai baap zaeef aur laashe jawan hai
-  Thaame jigar hai zehra ka jaani
+  Thaame jigar hai Zehra ka jaani
 
   4
   Gham mein tumhare rote rahenge
@@ -46,7 +47,7 @@ romanLyrics: |-
   7
   Jab yaad aaya baba ka seena
   Faryad karti ro ro sakina
-  Ran mein tadapta zehra ka jaani
+  Ran mein tadapta Zehra ka jaani
 
   8
   Tum kya sidhare ay mere beta
@@ -54,18 +55,18 @@ romanLyrics: |-
   Kis kaam ki hai ab zindagani
 
   9
-  Kehdo bilal o aamir ye badh kar
+  Keh do Bilal o Aamir ye badh kar
   Khaayi unhone dar dar ki thokar
   Bhoole hai jo gham ki kahani
 # source_id: nohayonline:f491589475030380562c
 # source_url: https://www.nohayonline.com/details_content.php?id=3053
 # raw_sha256: e3b54d2c2b9cd11fe455befdc385712f515aec1edb9fad310285fc530934c07e
 ---
-شاہ ہدا کی تشنہ دہانی
+شاہِ ہدا کی تشنہ دہانی
 اللہ باقی من کل فانی
 
 ۱
-پوچھو نہ منظر بلا کے
+پوچھو نہ منظر دشتِ بلا کے
 ہے خاک پہ تڑپے پیاسوں کے لاشے
 روتی رہی دریا کی روانی
 
@@ -106,5 +107,5 @@ romanLyrics: |-
 
 ۹
 کہدو بلال و آمر یہ بڑھ کر
-کھای انہوں نے در در کی ٹھوکر
+کھائی انہوں نے در در کی ٹھوکر
 بھولے ہے جو غم کی کہانی

@@ -6,25 +6,26 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Goonji ye sada zameen par parwardigar ki
-  Aliyun wali-ullah aliyun wali-ullah
-  Mehnat ali ke laal ki rang laayi hai
-  Sar deke apna shaah ne wilayat bachayi hai
+  Gunji ye sada zameen par parwardigar ki
+  Aliyun Waliullah aliyun wali-ullah
+  Mehnat Ali ke laal ki rang laayi hai
+  Sar de ke apna Shah ne wilayat bachayi hai
 
   1
   Kya kya na gham uthaye wilayat ke waaste
   Laashon pe laash laaye wilayat ke waaste
   Zakhmon pa zakhm khaaye wilayat ke waaste
-  Iske liye hussain ne dunya lutaayi hai
+  Iske liye Husain ne duniya lutaayi hai
 
   2
-  Barchi ko naujawan ka jigar pesh kar diya
-  Asghar ke jaisa noor e nazar pesh kar diya
-  Iske liye hussain ne ghar pesh kar diya
+  Barchhi ko naujawan ka jigar pesh kar diya
+  Asghar ke jaisa nur-e-nazar pesh kar diya
+  Iske liye Husain ne ghar pesh kar diya
   Khud mar ke sheh ne umr e wilayat bachayi hai
 
   3
@@ -34,10 +35,10 @@ romanLyrics: |-
   Ye shaan e karbala ke shaheedon ne paayi hai
 
   4
-  Qurbani e hussain mein aisi umang thi
+  Qurbani e Husain mein aisi umang thi
   Dunya bahot nabi ke nawase pe tang thi
-  Karbobla wilayat e hyder ki jung thi
-  Qurbani e hussain tasavvur pa chaayi hai
+  Karbobla wilayat e Haider ki jung thi
+  Qurbani e Husain tasavvur pa chaayi hai
 
   5
   Allah re batool ke farzand ka jigar
@@ -47,9 +48,9 @@ romanLyrics: |-
 
   6
   Tha shaah e deen ke khoon ka pyasa har aadmi
-  Karbobala mein lut'ti thi dunya hussain ki
-  Dunya ko thi wilayat e hyder se dushmani
-  Be-jurm taygh sookhe galay par chadhayi hai
+  Karbobala mein lut'ti thi duniya Husain ki
+  Dunya ko thi wilayat e Haider se dushmani
+  Bejurm taygh sookhe galay par chadhayi hai
 
   7
   Toda gaya pahaad ghamon ka imam par
@@ -58,48 +59,48 @@ romanLyrics: |-
   Qasim ne apne khoon se mehendi lagayi hai
 
   8
-  Qurbani e hussain ki daulat sambhal ke
+  Qurbani e Husain ki daulat sambhal ke
   Pyase mujahidon ki amanat sambhal ke
   Rakhna dilon mein apne wilayat sambhal ke
-  Irfan ye shaheed e wafa ki kameini hai
+  Irfan ye shaheed e wafa ki kamai hai
 # source_id: nohayonline:631dd10ae1a1c49318c5
 # source_url: https://www.nohayonline.com/details_content.php?id=953
 # raw_sha256: 43e88febb0a2d86770ac881a082d7f34e1c175d596e5bdd1b55bdd2d37eaaa8a
 ---
 گونجی یہ صدا زمین پر پروردگار کی
-علی ین ولی اللہ علی ین ولی اللہ
-محنت علی کے لال کی رنگ لای ہے
-سر دیکے اپنا شاہ نے ولایت بچای ہے
+علیٌ ولی اللہ علیٌ ولی اللہ
+محنت علی کے لال کی رنگ لائی ہے
+سر دے کے اپنا شاہ نے ولایت بچائی ہے
 
 ۱
-کیا کیا نہ غم اٹھاے ولایت کے واسطے
-لاشوں پہ لاش لاے ولایت کے واسطے
+کیا کیا نہ غم اٹھائے ولایت کے واسطے
+لاشوں پہ لاش لائے ولایت کے واسطے
 زخموں پہ زخم کھائے ولایت کے واسطے
-اسکے لیے حسین نے دنیا لٹای ہے
+اسکے لیے حسین نے دنیا لٹائی ہے
 
 ۲
 برچی کو نوجواں کا جگر پیش کر دیا
-اصغر کے جیسا نور نظر بیش کر دیا
+اصغر کے جیسا نورِ نظر پیش کر دیا
 اس کے لئے حسین نے گھر پیش کر دیا
-قد مر کے شہ نے عمر ولایت بچای ہے
+خود مر کے شہ نے عمر ولایت بچائی ہے
 
 ۳
-مرنے کو شہ کے سامنے چھوٹے بڑے گےء
-ہونٹوں پہ اپنے پیاس سجا کر لڑے گےء
-میدان میں دعائے ولایت پڑے گےء
-یہ شان کربلا کے شہیدوں نے پای ہے
+مرنے کو شہ کے سامنے چھوٹے بڑے گئے
+ہونٹوں پہ اپنے پیاس سجا کر لڑے گئے
+میدان میں دعائے ولایت پڑے گئے
+یہ شان کربلا کے شہیدوں نے پائی ہے
 
 ۴
-قربانیء حسین میں ایسی امنگ تھی
+قربانیِ حسین میں ایسی امنگ تھی
 دنیا بہت نبی کے نواسے پہ تنگ تھی
 کربوبلا ولایت حیدر کی جنگ تھی
-قربانی ء حسین تصور پہ چھائی ہے
+قربانیِ حسین تصور پہ چھائی ہے
 
 ۵
 اللہ رے بتول کے فرزند کا جگر
 ہونے کو ہوگیا تھا جدا شہ کا سر سے تن
-مقصد سے پھر بھی اپنے ہٹای نہیں نظر
-نیزے پہ داستان ولایت سنای ہے
+مقصد سے پھر بھی اپنے ہٹائی نہیں نظر
+نیزے پہ داستان ولایت سنائی ہے
 
 ۶
 تھا شاہ دیں کے خون کا پیاسا ہر آدمی
@@ -114,7 +115,7 @@ romanLyrics: |-
 قاسم نے اپنے خون سے مہندی لگای ہے
 
 ۸
-قربانی ء حسین کی دولت سنبھال کے
+قربانیِ حسین کی دولت سنبھال کے
 پیاسے مجاہدوں کی امانت سنبھال کے
 رکھنا دلوں میں اپنے ولایت سنبھال کے
 عرفان یہ شہید وفا کی کمائی ہے

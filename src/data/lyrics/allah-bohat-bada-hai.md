@@ -1,13 +1,14 @@
 ---
 title: سب نے یہی کہا ہے اللہ بہت بڑا ہے
-alternateTitle: Allah Bohat Bada Hai
+alternateTitle: Allah Bohat Bara Hai
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Noha
+kalamType: Hamd
 poet: "Rehaan Azmi"
 tags: ["noImage"]
-aliases: []
+aliases: ["allah-bohat-bara-hai", "allah-bohat-bara-hai-nadeem-sarwar"]
+recitationId: "allah-bohat-bara-hai-nadeem-sarwar"
 published: false
 romanLyrics: 'Sab ne yehi kaha hai allah bohat bada hai
 
@@ -148,6 +149,9 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:2f9abc2ac169225f537f
 # source_url: https://www.nohayonline.com/details_content.php?id=3309
 # raw_sha256: d7630f468043e7b16a738a4e2d86675962994b6a988642cf3f7ad9af5b2abd1a
+# source_id: tajpoints:dd362b90906e530881c8
+# source_url: https://tajpoints.com/2023/01/allah-bohat-bara-hai-nadeem-sarwar.html
+# raw_sha256: df685d9346e6ce6c8a184a5c1c03c819687d3bf546e7b22e70d829111fc0af41
 # source_id: ziyaraat:5041bb559e908acb8dc6
 # source_url: https://www.ziyaraat.net/api/noha/1235
 # raw_sha256: 778e4c27830d92d7c8a3fcb4b52a786f57a9e193bfb4cc5f852625146aae8ffe
@@ -159,15 +163,15 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 قرآن میں لکھا ہے اللہ بہت بڑا ہے
 ہر حد سے ماورا ہے اللّٰہ بہت بڑا ہے
 یہ مہرو ماہ و انجم دریاؤں میں تلاطم
-چلتی ہوئی ہواییں آواز کا ترنم
-خوش رنگ طایروں کا پھیلا ہوا تبسم
+چلتی ہوئی ہوائیں آواز کا ترنم
+خوش رنگ طائروں کا پھیلا ہوا تبسم
 ترتیب وار غنچے ایسے کہ رشک انجم
 یہ کن کا معجزہ ہے اللّٰہ بہت بڑا ہے
 
 ۲
-مٹی کا پیکروں میں تحریک ڈالتا ہے
-سوے فلک زمیں سے تارے اچھالتا ہے
-پاتال سے جواد وہی نکالتا ہے
+مٹی کے پیکروں میں تحریک ڈالتا ہے
+سوئے فلک زمیں سے تارے اچھالتا ہے
+پاتال سے جواہر وہی نکالتا ہے
 پروردگار وہ ہے دنیا کو پالتا ہے
 ہر حد سے ماورا ہے اللّٰہ بہت بڑا ہے
 
@@ -187,8 +191,8 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 
 ۵
 کونین کی تھی منزل حیران انبیاء تھے
-جبریل رک گےء تھے ایک مرحلے پہ آکے
-رستے بناے تو نے پردے ہٹا ہٹا کے
+جبریل رک گئے تھے ایک مرحلے پہ آکے
+رستے بنائے تو نے پردے ہٹا ہٹا کے
 معراج پر محمد پہنچے تیری رضا سے
 ایک شور گونجتا ہے اللّٰہ بہت بڑا ہے
 
@@ -210,7 +214,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 کس نے کیا ہے سجدہ خنجر تلے جہاں میں
 کانٹے پڑے ہوئے تھے جب پیاس سے زباں میں
 جب آگ لگ رہی تھی زہرا کے گلستاں میں
-چھپ چھپ کے چاند تارے روتے تھے آسماں ہے
+چھپ چھپ کے چاند تارے روتے تھے آسمان میں
 مولا نے تب کہا ہے اللّٰہ بہت بڑا ہے
 
 ۹

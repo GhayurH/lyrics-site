@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Anjuman-e-Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -29,7 +30,7 @@ romanLyrics: |-
   Aisa majboor na ho jaaye kisi ka beta
 
   4
-  Haye wo teer e sitam aur wo asghar ka gala
+  Haye wo teer-e-sitam aur wo asghar ka gala
   Kitne dil chid gaye aur hogaya khaali jhoola
   Maa ko chain aaye ye bechain labon par hai dua
 
@@ -61,7 +62,7 @@ romanLyrics: |-
   10
   Wo sakina ki musibat wo galay mein rassi
   Kaan zakhmi huwe khamosh thi pyasi bacchi
-  Haye is din ke liye reh gaya kyun mai zinda
+  Haye is din ke liye reh gaya kiun main zinda
 
   11
   Bibiyan saari rasan basta aseeri ghurbat
@@ -70,14 +71,14 @@ romanLyrics: |-
 
   12
   Is khadar zulm musalsal thay ghareebon pe rasheed
-  Huwe thay abid e bemaar har ek gaam shaheed
+  Huwe thay Abid-e-bemaar har ek gaam shaheed
   Phir bhi honton pe tha bemaar ke bas shukre khuda
 # source_id: nohayonline:c33c9d8828d117350fd6
 # source_url: https://www.nohayonline.com/details_content.php?id=3528
 # raw_sha256: b50986703c2e0c06d0b43ad0972d4c395c356b1f44f06cf7a07982056ecbc7f6
 ---
 اللّٰہ بیمار دعا مانگے دعا مانگے ہے
-ہاے بیمار ہاے بیمار
+ہائے بیمار ہائے بیمار
 
 ۱
 رنج اس کا نہیں ایک دن‌ میں لٹا گھر میرا
@@ -95,42 +96,42 @@ romanLyrics: |-
 ایسا مجبور نہ ہو جائے کسی کا بیٹا
 
 ۴
-ہاے وہ تیر ستم اور وہ اصغر کا گلا
-کتنے دل چھد گےء اور ہو گیا خالی جھولا
+ہائے وہ تیر ستم اور وہ اصغر کا گلا
+کتنے دل چھد گئے اور ہو گیا خالی جھولا
 ماں کو چین آے یہ بے چین لبوں پر ہے دعا
 
 ۵
 نہ رہے قاسم و اکبر نہ ہی عباس چچا
-مر گےء عون و محمد میرا بابا نہ رہا
+مر گئے عون و محمد میرا بابا نہ رہا
 حوصلہ دے مجھے کرتا رہوں میں شکر خدا
 
 ۶
-کوفہ و شام کی راہوں نے بہت رلاوایا
-چادریں چھن گیء ماں بہنیں ہوے بے پردہ
+کوفہ و شام کی راہوں نے بہت رلوایا
+چادریں چھن گئیں ماں بہنیں ہوئیں بے پردہ
 لگتا سورج کو گرہن چھاتا کبھی اندھیارا
 
 ۷
 طوق و زنجیر میں جکڑا ہوں گلہ اس کا نہیں
 یہ تمنا رہے شکر کے سجدے میں جبیں
-امت جد کے لئے آے نہ لب پر نالے
+امت جد کے لئے آئے نہ لب پر نالے
 
 ۸
 بچے گرتے ہوئے اونٹوں سے سفر جاری تھا
-ماییں مجبور رسن بستہ لبوں پر نوحہ
+مائیں مجبور رسن بستہ لبوں پر نوحہ
 اب کسی ماں کے لئے وقت نہ آئے ایسا
 
 ۹
-باپ کی یاد بھی آے تو نہ روے دختر
+باپ کی یاد بھی آئے تو نہ روئے دختر
 ننھے رخسار سکینہ کے طمانچوں کا سفر
 نہ ملے ایسے زمانے میں کسی کو پرسہ
 
 ۱۰
 وہ سکینہ کی مصیبت وہ گلے میں رسی
-کان‌ زخمی ہوئے خاموش تھی پیاسی بچی
-ہاے اس دن کے لئے رہ گیا کیوں میں زندہ
+کان زخمی ہوئے خاموش تھی پیاسی بچی
+ہائے اس دن کے لئے رہ گیا کیوں میں زندہ
 
 ۱۱
-بی بیاں جاری رسن بستہ اسیری غربت
+بیبیاں ساری رسن بستہ اسیری غربت
 وہ سفر دھوپ کا وہ پیاس کی شدت
 کاش یہ دن میرا خالق نہ مجھے دکھلاتا
 
