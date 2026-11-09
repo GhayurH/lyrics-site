@@ -9,13 +9,13 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aa Alamdar Haye Alamdar
+  Aa alamdaar haye alamdaar
 
-  Karte the ro ro ke ye hazrat bayan
-  Tor gaye meri kamar bhai jaan
+  Karte the ro ro ke ye hazrat bayaaṅ
+  Tor gaye meri kamar bhai jaaṅ
 
-  Roti hai khaimon mein Sakina wahan
-  Sote ho Abbas zamin par yahan
+  Roti hai khaimoṅ mein Sakina wahaaṅ
+  Sote ho Abbas zamiṅ par yahaaṅ
 
   1
   Laash uthayega kaun, Sher-e-Jawaaṅ mar gaya
@@ -23,9 +23,9 @@ romanLyrics: |-
   Hum ko sambhalega kaun, Sher-e-Jawaaṅ mar gaya
 
   Toro na ghurbat mein meri aas, utho
-  Utho Husain aaye hain Abbas utho
+  Utho Husain aaye haiṅ Abbas utho
   Rota hai mazlum basad yaas, utho
-  Utho bas ab ghar mein chalo bhai jaan
+  Utho bas ab ghar mein chalo bhai jaaṅ
 
   2
   Kaun khabar le meri, Sher-e-Jawaaṅ mar gaya
@@ -33,49 +33,49 @@ romanLyrics: |-
   Chalti hai dil par chhuri, Sher-e-Jawaaṅ mar gaya
 
   Kya hua saqqa-e-Sakina ko aah
-  Kis ne kiya mera bhara ghar tabah
-  Kya hui Abbas biradar ki chah
-  Ab gayin wo pyar ki baatein kahan
+  Kis ne kiya mere bhara ghar tabaah
+  Kya hui Abbas biradar ki chaah
+  Ab gayiṅ wo pyaar ki baateṅ kahaaṅ
 
   3
   Mar gaya Akbar pisar, Sher-e-Jawaaṅ mar gaya
-  Tham lo meri kamar, Sher-e-Jawaaṅ mar gaya
+  Thaam lo meri kamar, Sher-e-Jawaaṅ mar gaya
   Lut gaya bekas ka ghar, Sher-e-Jawaaṅ mar gaya
 
-  Quwwat-e-baazu mera kya ho gaya
+  Zinat baazu mera kya ho gaya
   Zinat-e-pehlu mera kya ho gaya
-  Aashiqe dil yu mera kya hogaya
-  Kya huwa afsos mera qadr daan
+  Aashiq dil jo mera kya ho gaya
+  Kya hua afsos mera qadr daaṅ
 
   4
   Dhum hai khaime mein waṅ, Sher-e-Jawaaṅ mar gaya
   Karti hai Zainab fughaṅ, Sher-e-Jawaaṅ mar gaya
-  Kis se karun main bayaṅ, Sher-e-Jawaaṅ mar gaya
+  Kis se karuṅ main bayaaṅ, Sher-e-Jawaaṅ mar gaya
 
   Haath se khoya dil-e-ghamkhwar ko
-  Paun kahan apne alamdar ko
-  Gheri huwi khanjar-e khu khar ko
-  Jalad gale par ho mere ab rawaa
+  Paauṅ kahaaṅ apne alamdaar ko
+  Gheri hui khanjar-e-khuṅkhaar ko
+  Jald gale par ho mere ab rawaaṅ
 
   5
   Ab koi chara nahiṅ, Sher-e-Jawaaṅ mar gaya
   Zist gawara nahiṅ, Sher-e-Jawaaṅ mar gaya
   Koi hamara nahiṅ, Sher-e-Jawaaṅ mar gaya
 
-  Maa hai bani hasheme wala nahi
-  Usme mere mehru ka ujala nahi
-  Haaye mere chahane wala nahi
-  Nazron mein tarik hai sara jahan
+  Maaṅ hai bani Haashim waala nahiṅ
+  Bas mere mehru ka ujaala nahiṅ
+  Haye mera chaahne waala nahiṅ
+  Nazroṅ mein taarik ha saara jahaaṅ
 
   6
-  Aankhon ka tara mera, Sher-e-Jawaaṅ mar gaya
+  Aankhoṅ ka taara mera, Sher-e-Jawaaṅ mar gaya
   Chand ka tukra mera, Sher-e-Jawaaṅ mar gaya
   Ghar ka ujala mera, Sher-e-Jawaaṅ mar gaya
   
   Ruh-e-Ali jaan-e-Nabi alvida
-  Ashiko shaidai akhi alvida
+  Aashiq o shaida-e-akhi alvida
   Laasha-e-Abbas-e-Ali alvida
-  Aate hain ab hum bhi chalo bhai jaan
+  Aate haiṅ ab hum bhi chalo bhai jaaṅ
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:b7ad208a0f1c564d1ba8
 # source_url: https://www.nohayonline.com/details_content.php?id=3289

@@ -1,60 +1,61 @@
 ---
 title: "آ اے میرے حسین میری گود میں آجا"
-alternateTitle: "Aa Ay Mere Hussain meri god mein aaja"
+alternateTitle: "Aa Ae Mere Husain Meri God Mein Aaja"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashoor ka suraj hai qayamat ki ghari hai
+  Aashur ka suraj hai qayamat ki ghari hai
   Bhai ka gala katta behan dekh rahi hai
-  Maqtal mein kisi maa ki sada goonj rahi hai
+  Maqtal mein kisi maaṅ ki sada gunj rahi hai
   Aa ae mere Husain meri god mein aaja
   Aaja mere bache meri aaghosh mein aaja
 
   1
-  Mere liye ae laal tu Asghar ki tarha hai
-  Godi meri gehwara hai bistar ki tarha hai
-  Is dhoop mein daaman mera chadar ki tarha hai
+  Mere liye ae laal tu Asghar ki tarah hai
+  Godi meri gehwara hai bistar ki tarah hai
+  Is dhup mein daaman mera chaadar ki tarah hai
   
   2
   Main maaṅ huṅ mera dil nahiṅ sine mein sambhalta
-  Nazuk ye badan tera ye jalta hua sehra
-  Aur is pe sitam ye hai ke tu reh gaya pyasa
+  Naazuk ye badan tera ye jalta hua sehra
+  Aur us pe sitam ye hai ke tu reh gaya pyaasa
   
   3
-  Main god mein le lun tujhe sine se laga lun
-  Sine pe Sakina ki tarha tujhko sula lun
-  Sine ke tere tir main palkon se nika lun
+  Main god mein le luṅ tujhe sine se laga luṅ
+  Sine pe Sakina ki tarah tujh ko sula luṅ
+  Sine ke tere tir main palkoṅ se nikaaluṅ
   
   4
-  Akar mere zaanu pe jo sojate thay beta
-  Chakki ki mashakhat pe bhi pehlu nahi badla
-  Ab kaise tujhe chhor dun maqtal mein akela
+  Aakar mere zaanu pe jo so jaate the beta
+  Chakki ki mashaqqat pe bhi pehlu nahiṅ badla
+  Ab kaise tujhe chhor duṅ maqtal mein akela
   
   5
   Teri bhi to aulaad hai tu bhi to padar hai
   Aulaad ka gham kya hai ye tujh ko bhi khabar hai
-  Gham bache ka she jaye ye kis maa ka jigar hai
+  Gham bache ka seh jaye ye kis maaṅ ka jigar hai
   
   6
-  Tu let gaya thak ke to is jalti zamin par
-  Ye kiska lahoo tune mala rooye haseen par
-  Mat khaak pe so laal teri maa hai yahin par
+  Tu let gaya thak ke to is jalti zamiṅ par
+  Ye kis ka lahu tu ne mala ru-e-hasiṅ par
+  Mat khaak pe so laal teri maaṅ hai yahiṅ par
   
   7
   Jo dil pe tere guzri main sab dekh rahi thi
-  Har laash uthane main tere saath gayi thi
-  Ab baat wo kehti hoo jo bachpan mein kahi thi
+  Har laash uthaane mein tere saath gayi thi
+  Ab baat wo kehti huṅ jo bachpan mein kahi thi
   
   8
-  Nauhe mein bayan kaise kare Sarwar o Rehaan
-  Parh sakta nahi koi bhi ye dard ka quran
-  Maa kehti thi rehjaye na dil mein mere armaan
+  Nauhe mein bayaaṅ kaise kareṅ Sarwar o Rehaan
+  Parh sakta nahiṅ koi bhi ye dard ka Quraan
+  Maaṅ kehti thi reh jaye na dil mein mere armaan
   
 # source_id: nohayonline:98a8a5ed86c9e7ed1f2e
 # source_url: https://www.nohayonline.com/details_content.php?id=343
@@ -104,5 +105,5 @@ romanLyrics: |-
 
 ۸
 نوحے میں بیاں کیسے کریں سرور و ریحان
-پڑ سکتا نہیں کوئی بھی یہ درد کا قرآن
+پڑھ سکتا نہیں کوئی بھی یہ درد کا قرآن
 ماں کہتی تھی رہ جائے نہ دل میں میرے ارمان
