@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "ishq-e-abbas-jo-ik-baar-asar-karta-hai-lyrics-2017"
 published: false
 # source_id: tajpoints:df9d40f7d34cc04fbf7d
 # source_url: https://tajpoints.com/2017/02/ishq-e-abbasas-jo-ik-baar-asar-karta-hai.html

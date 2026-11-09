@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "hujjat-e-kibriya-salamun-alaik-mir-hasan-mir"
 published: false
 # source_id: tajpoints:527938bed9421de120b8
 # source_url: https://tajpoints.com/2022/10/hujjat-e-kibriya-salamun-alaik-mir.html

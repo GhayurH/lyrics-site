@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "kabay-ke-sardar-ab-tu-aa-jao-mir-hasan-mir"
 published: false
 # source_id: tajpoints:6d1a1af64ad1581204c4
 # source_url: https://tajpoints.com/2022/10/kabay-ke-sardar-ab-tu-aa-jao-mir-hasan.html

@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "main-hoon-abbas-e-ali-mir-hasan-mir"
 published: false
 # source_id: tajpoints:27f96277acde3775dfb5
 # source_url: https://tajpoints.com/2022/10/main-hoon-abbas-e-ali-mir-hasan-mir.html

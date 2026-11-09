@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "janab-e-fizza-manqabat-mir-hasan-mir"
 published: false
 # source_id: tajpoints:4ca41b9bedad517fc06e
 # source_url: https://tajpoints.com/2020/12/janab-e-fizza-manqabat-mir-hasan-mir.html

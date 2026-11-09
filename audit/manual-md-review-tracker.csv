@@ -1890,7 +1890,7 @@ src/data/lyrics/honton-se-pholon-ki-barsaat-hoti-hai.md,standalone_lyrics,import
 src/data/lyrics/hosla-islam-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hota-hai-pamaal.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hua-jo-shah-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/hujjat-e-kibriya-salamun-alaik-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/hujjat-e-kibriya-salamun-alaik.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename-only cleanup: removed reciter/lyrics/year/genre suffix; original unpublished lyric text and recitationId preserved. Editorial status unchanged. 
 src/data/lyrics/hukme-haakim.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hukme-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hukme-shabbir-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2009,7 +2009,7 @@ src/data/lyrics/insan-ke-liye-maut-hai.md,standalone_lyrics,imported,unclassifie
 src/data/lyrics/is-baat-se-zaahir-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/is-jawan-ki-magar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/is-qaum-ke-rone-ko.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ishq-e-abbas-jo-ik-baar-asar-karta-hai-lyrics-2017.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ishq-e-abbas-jo-ik-baar-asar-karta-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename-only cleanup: removed reciter/lyrics/year/genre suffix; original unpublished lyric text and recitationId preserved. Editorial status unchanged. 
 src/data/lyrics/ishqe-ali-zehra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/islam-ko-bacha-gayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/islam-ko-fana-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2098,7 +2098,7 @@ src/data/lyrics/jalta-darwaza.md,standalone_lyrics,imported,unclassified,pending
 src/data/lyrics/jalta-hua-bistar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jalte-darwaze-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jalte-hue-qaime-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/janab-e-fizza-manqabat-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/janab-e-fizza.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename-only cleanup: removed reciter/lyrics/year/genre suffix; original unpublished lyric text and recitationId preserved. Editorial status unchanged. 
 src/data/lyrics/janabe-fatema.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/janabe-hazrate-abbas.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/janabe-umme-laila.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2185,7 +2185,7 @@ src/data/lyrics/kab-aaoge-bhaiya.md,standalone_lyrics,imported,unclassified,pend
 src/data/lyrics/kab-aaoge-maula.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kab-se-bechain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kab-shamma-jalane.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/kabay-ke-sardar-ab-tu-aa-jao-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/kabay-ke-sardar-ab-tu-aa-jao.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename-only cleanup: removed reciter/lyrics/year/genre suffix; original unpublished lyric text and recitationId preserved. Editorial status unchanged. 
 src/data/lyrics/kabhi-kabhi-main-ye-sochta-hun.md,standalone_lyrics,notebook,personal_notebook,spot_checked,partial_review,partial_review,reviewed,not_applicable,partially_checked,2026-11-08-notebook-04,36d75f6e6520f7b13a88723960511f3c55ead945,Longest notebook poem; reconciled source-order differences and missing verses; uncertain transcription requires audio verification.
 src/data/lyrics/kadiyal-jawan-akbar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kadiyal-jawan-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2580,7 +2580,7 @@ src/data/lyrics/maidan-mein-zainab.md,standalone_lyrics,imported,unclassified,pe
 src/data/lyrics/maidan-se-lekar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/maidane-karbala-mein.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/main-azmaton-ka-sawera-hun-naam-qasim-hai.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/main-hoon-abbas-e-ali-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/main-hoon-abbas-e-ali.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename-only cleanup: removed reciter/lyrics/year/genre suffix; original unpublished lyric text and recitationId preserved. Editorial status unchanged. 
 src/data/lyrics/main-iss-tarha-se-hoon-ya-rab-teri-sana-ke-beghair.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/main-kya-bataon-dosto-tumhein-ke-kya-hussain-hai-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/main-muhammad-hoon-imran-abbas.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
