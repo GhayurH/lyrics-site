@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -16,34 +17,34 @@ romanLyrics: |-
   Mere Allah tujhse waada hai
 
   1
-  Mera beta teen din ka bhooka pyasa
+  Mera beta tin din ka bhuka pyasa
   Qalb zakhmi pusht zakhmi aur tanha
   Ghar apna tujh par lutayega
 
   2
-  Ambiya bhi dekhte hi royenge sab
-  Sar katane is ke bete jayenge jab
+  Ambiya bhi dekhte hi royeṅge sab
+  Sar katane is ke bete jayeṅge jab
   Har ek laasha uthayega
 
   3
-  Laash-e-Qasim ki tarha dil hoga tukde
-  Layega jab dasht se wo tukde dil ke
-  Lahoo falak bhi bahayega
+  Laasha-e-Qasim ki tarah dil hoga tukre
+  Layega jab dasht se wo tukre dil ke
+  Lahu falak bhi bahayega
 
   4
-  Laasha-e-Abbas-e-Ghazi alqama par
-  Jab chinegi bibiyon ke sar se chadar
-  Wo sabr ko aazmeinega
+  Laasha-e-Abbas Ghazi Alqama par
+  Jab chhinegi bibiyoṅ ke sar se chadar
+  Wo sabr ko aazmayega
 
   5
-  Mauj-e-darya mein bhi hoga ek talaatum
-  Tashnagi se sabr ka hoga tasaddum
-  Wo sabr hi fatha payega
+  Mauj-e-darya mein bhi hoga ek talatum
+  Tashnagi se sabr ka hoga tasadum
+  Wo sabr hi fath payega
 
   6
-  Karbala ki sarzameen ko khoon de kar
-  Soyega jalti zameen par ye gul-e-tar
-  Lahoo mein apne nahayega
+  Karbala ki sarzamiṅ ko khun de kar
+  Soyega jalti zamiṅ par ye gul-e-tar
+  Lahu mein apne nahayega
 
   7
   Ye zamana aisa saabir to dikhaye
@@ -52,18 +53,18 @@ romanLyrics: |-
 
   8
   Qabr Asghar ki banayega akela
-  Seena-e-Akbar se barchi khaynchlega
+  Sina-e-Akbar se barchhi khench le ga
   Janaze sab ke uthayega
 
   9
-  Karbala ki dhoop hogi aur laashe
-  Aur khaimon mein haram honge tadapte
+  Karbala ki dhup hogi aur laashe
+  Aur khaimoṅ mein haram hoṅge tarapte
   Tasalli unko dilayega
 
   10
-  Jaisa zaahid aur abid mera beta
+  Jaisa zaahid aur aabid mera beta
   Aisa qari aur ghazi kaun hoga
-  Sinaan pe Quran sunayega
+  Sinaṅ pe Quran sunayega
 
   11
   Apni shehzadi se Mazhar ka hai waada
@@ -81,54 +82,54 @@ romanLyrics: |-
 ۱
 میرا بیٹا تین دن کا بھوکا پیاسا
 قلب زخمی پشت زخمی اور تنہا
-گھر اپنا تجھ پر لٹاےگا
+گھر اپنا تجھ پر لٹائے گا
 
 ۲
-انبیاء بھی دیکھتے ہی روےنگے سب
-سر کٹانے اس کے بیٹے جاےنگے جب
-ہر ایک لاشہ اٹھاے گا
+انبیاء بھی دیکھتے ہی روئیں گے سب
+سر کٹانے اس کے بیٹے جائیں گے جب
+ہر ایک لاشہ اٹھائے گا
 
 ۳
-لاشہء قاسم کی طرح دل ہوگا ٹکڑے
-لاے گا جب دشت سے وہ ٹکڑے دل کے
-لہو فلک بھی بہاے گا
+لاشۂ قاسم کی طرح دل ہوگا ٹکڑے
+لائے گا جب دشت سے وہ ٹکڑے دل کے
+لہو فلک بھی بہائے گا
 
 ۴
-لاشہء عباس غازی علقمہ پر
+لاشۂ عباس غازی علقمہ پر
 جب چھنے گی بیبیوں کے سر سے چادر
-وہ صبر کو آزماے گا
+وہ صبر کو آزمائے گا
 
 ۵
 موج دریا میں بھی ہوگا اک تلاطم
 تشنگی سے صبر کا ہوگا تصدم
-وہ صبر ہی فتح پاے گا
+وہ صبر ہی فتح پائے گا
 
 ۶
 کربلا کی سر زمیں کو خون دے کر
-سوے گا جلتی زمیں پر گل تر
-لہو میں اپنے نہاے گا
+سوئے گا جلتی زمیں پر گلِ تر
+لہو میں اپنے نہائے گا
 
 ۷
-یہ زمانہ ایسا صابر تو دکھاے
-وہ جو دریا سے بھی پیاسا لوٹ آے
-یہ صبر بھی وہ دکھاے گا
+یہ زمانہ ایسا صابر تو دکھائے
+وہ جو دریا سے بھی پیاسا لوٹ آئے
+یہ صبر بھی وہ دکھائے گا
 
 ۸
-قبر اصغر کی بناے گا اکیلا
+قبر اصغر کی بنائے گا اکیلا
 سینۂ اکبر سے برچھی کھینچ لے گا
-جنازے سب کے اٹھاے گا
+جنازے سب کے اٹھائے گا
 
 ۹
 کربلا کی دھوپ ہوگی اور لاشے
 اور خیموں میں حرم ہونگے تڑپتے
-تسلی انکو دلاے گا
+تسلی ان کو دلائے گا
 
 ۱۰
 جیسا زاہد اور عابد میرا بیٹا
 ایسا قاری اور غازی کون ہوگا
-سناں پہ قرآن سناے گا
+سناں پہ قرآن سنائے گا
 
 ۱۱
 اپنی شہزادی سے مظہر کا ہے وعدہ
 جب تلک ایک سانس باقی تن میں ہو گا
-قلم یہ رکنے نہ پاے گا
+قلم یہ رکنے نہ پائے گا

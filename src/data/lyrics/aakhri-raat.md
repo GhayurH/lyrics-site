@@ -6,71 +6,72 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Armaan Baltistani"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Aakhri raat Sakina ki
   Haye haye haye
-  Main khaak pa so jaungi haan kehti hun baba
-  Seene pe sulane ko kahan kehti hun baba
+  Main khaak pe so jauṅgi haaṅ kehti huṅ baba
+  Sine pe sulane ko kahaṅ kehti huṅ baba
 
   1
-  Kehti hun ke chehra hi dikha jaiye baba
+  Kehti huṅ ke chehra hi dikha jaiye baba
   Marne se pehle hi aajaiye baba
-  Pehlu mein chupane ko kahan kehti hun baba
+  Pehlu mein chhupane ko kahaṅ kehti huṅ baba
 
   2
-  Bacche to bahot chhote hua karte hain baba
-  Har ek musibat pe gila karte hain baba
-  Main naaz uthane ko kahan kehti hoo baba
+  Bachche to bahut chhote hua karte haiṅ baba
+  Har ek musibat pe gila karte haiṅ baba
+  Main naaz uthane ko kahaṅ kehti huṅ baba
 
   3
-  Seh lungi jo haathon ki lakiron mein likha hai
-  Zindan ke andheron ka gila kisne kiya hai
-  Main shama jalane ko kahan kehti hoo baba
+  Seh luṅgi jo haathoṅ ki lakiroṅ mein likha hai
+  Zindaṅ ke andheroṅ ka gila kis ne kiya hai
+  Main shama jalane ko kahaṅ kehti huṅ baba
 
   4
-  Baba mere bachpan ka takaza to nahi tha
-  Khwabon mein khilone thay janaza to nahi tha
-  Godhi may khilane ko kahan kehti hoo baba
+  Baba mere bachpan ka taqaza to nahiṅ tha
+  Khwaboṅ mein khilone thay janaza to nahiṅ tha
+  Godi mein khilane ko kahaṅ kehti huṅ baba
 
   5
-  Baba mere zakhmon ki dawa kaun karega
+  Baba mere zakhmoṅ ki dawa kaun karega
   Ab jaan Sakina ko bhala kaun kahega
-  Pehlu mein chupane ko kahan kehti hoo baba
+  Pehlu mein chhupane ko kahaṅ kehti huṅ baba
 
   6
-  Zindan ke andhere mein sula kyun nahi dete
-  Baba mujhe marne ki dua kiun nahi dete
-  Main lori sunane ko kahan kehti hoo baba
+  Zindaṅ ke andhere mein sula kiuṅ nahiṅ dete
+  Baba mujhe marne ki dua kiuṅ nahiṅ dete
+  Main lori sunane ko kahaṅ kehti huṅ baba
 
   7
-  Koi bhi nahi aansu mere pochne waala
-  Sar pe nahi haathon ko koi pherne waala
-  Baahon mein chupane ko kahan kehti hoo baba
+  Koi bhi nahiṅ aansu mere ponchhne wala
+  Sar pe nahiṅ haathoṅ ko koi pherne wala
+  Baṅhoṅ mein chhupane ko kahaṅ kehti huṅ baba
 
   8
-  Mar jaaun agar baba tera Shaam ho aana
-  Bemaar akela hai janaaze ko uthana
-  Godhi may uthana ko kahan kehti hoo baba
+  Mar jauṅ agar baba tera Shaam ho aana
+  Bimar akela hai janaze ko uthana
+  Godi mein uthane ko kahaṅ kehti huṅ baba
 
   9
   Armaan Sakina ke yehi bain thay haye
-  Mai kehti rahi baba magar aap na aaye
-  Turbat mein banana ko kahan kehti hoo baba
+  Main kehti rahi baba magar aap na aaye
+  Turbat mein banane ko kahaṅ kehti huṅ baba
 # source_id: nohayonline:703072af991a953f9c50
 # source_url: https://www.nohayonline.com/details_content.php?id=2404
 # raw_sha256: 45d4766c8a0d8080d8d79641dc024ea828543aa0bd74065e4c76fee55e2fabdb
 ---
 آخری رات سکینہ کی
 ہائے ہائے ہائے
-میں خاک پہ سوجائونگی ہاں کہتی ہوں بابا
+میں خاک پہ سو جاؤں گی ہاں کہتی ہوں بابا
 سینے پہ سلانے کو کہاں کہتی ہوں بابا
 
 ۱
 کہتی ہوں کے چہرہ ہی دکھا جائیے بابا
-مرنے سے پہلے ہی آجایئے بابا
+مرنے سے پہلے ہی آ جائیے بابا
 پہلو میں چھپانے کو کہاں کہتی ہوں بابا
 
 ۲
@@ -79,7 +80,7 @@ romanLyrics: |-
 میں ناز اٹھانے کو کہاں کہتی ہوں بابا
 
 ۳
-سہہ لونگی جو ہاتھوں کی لکیروں میں لکھا ہے
+سہہ لوں گی جو ہاتھوں کی لکیروں میں لکھا ہے
 زنداں کے اندھیروں کا گلہ کس نے کیا ہے
 میں شمعِ جلانے کو کہاں کہتی ہوں بابا
 
@@ -89,7 +90,7 @@ romanLyrics: |-
 گودی میں کھلانے کو کہاں کہتی ہوں بابا
 
 ۵
-بابا میرے زخموں کی دوا کون کریگا
+بابا میرے زخموں کی دوا کون کرے گا
 اب جان سکینہ کو بھلا کون کہے گا
 پہلو میں چھپانے کو کہاں کہتی ہوں بابا
 
@@ -104,7 +105,7 @@ romanLyrics: |-
 بانہوں میں چھپانے کو کہاں کہتی ہوں بابا
 
 ۸
-مر جائوں اگر بابا تیرا شام ہو آنا
+مر جاؤں اگر بابا تیرا شام ہو آنا
 بیمار اکیلا ہے جنازے کو اٹھانا
 گودی میں اٹھانے کو کہاں کہتی ہوں بابا
 

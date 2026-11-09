@@ -6,81 +6,82 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Sakina se kehte thay maqtal mein Sarwar
+  Hai ye aakhri raat so ja Sakina
+  Meri zindagi mein hi aaram kar le
+  Abhi to muyassar hai baba ka sina
   
   1
-  Hai ye aakhri raat so ja Sakina
-  Meri zindagi mein bhi aaram karle
-  Abhi to meinassar hai baba ka seena
   Ae jaan-e-padar mujhko maloom hai ye
-  Tujhe kal se be-dard sone na denge
+  Tujhe kal se bedard sone na deṅge
   Meri laash-e-pamaal par bhi Sakina
-  Tujhe ye sitamgaar rone na denge
-  Tu jee bhar ke mujhse mulaqat karle
-  Yehi chand lamhe hai meri hazeena
+  Tujhe ye sitamgaar rone na deṅge
+  Tu ji bhar ke mujh se mulaqat kar le
+  Yehi chand lamhe haiṅ meri hazina
   
   2
   Tujhe is liye hi to maanga tha maine
-  Shabon ki namazon mein apne khuda se
-  Ke meri mohabbat ka jab imtehan ho
-  Judaai teri mai sahun karbala se
-  Karun sabr teri yateemi pe mai bhi
+  Shaboṅ ki namazoṅ mein apne Khuda se
+  Ke meri mohabbat ka jab imtehaṅ ho
+  Judaai teri main sahuṅ Karbala se
+  Karuṅ sabr teri yatimi pe main bhi
   Kare sabr maqtal mein tu bhi Sakina
   
   3
-  Ye raunaq bhi kal shaam tak hai sakina
-  Ke bad jayegi teri tashna dahani
+  Ye raunaq bhi kal shaam tak hai Sakina
+  Ke barh jayegi teri tashna dahani
   Tera bhai Asghar to pyasa rahega
   Dikha kar tujhe Shimr phenkega paani
-  Meri tashnagi yaad karlena beta
-  Ke raahon mein jab bhi kabhi paani peena
+  Meri tashnagi yaad kar lena beta
+  Ke raahoṅ mein jab bhi kabhi paani pina
   
   4
   Safar ki thaki hai kuch aaram kar le
   Ae shehzadi ye raat dhalne se pehle
-  Ye seena bhi pamaal hojayega kal
+  Ye sina bhi pamaal ho jayega kal
   Katega gala dam nikalne se pehle
-  Mujhe be-khata qatl hona hai ran mein
-  Meri laal ab mera mushkil hai jeena
+  Mujhe bekhata qatl hona hai ran mein
+  Meri laal ab mera mushkil hai jina
   
   5
-  Inhe ye khabar hai meri laadli hai
-  Tujhe bhi satayenge ye shaam waale
-  Tujhe zulm sehne hai in zaalimon ke
-  Tujhe kar raha hoo khuda ke hawale
-  Bahot mushkilein hongi Ashur ke din
-  Musibat mein ye ghir gaya hai safeena
+  Inheṅ ye khabar hai meri laadli hai
+  Tujhe bhi satayeṅge ye Shaam wale
+  Tujhe zulm sehne haiṅ in zaalimoṅ ke
+  Tujhe kar raha huṅ Khuda ke hawale
+  Bahut mushkileṅ hoṅ giṅ Ashur ke din
+  Musibat mein ye ghir gaya hai safina
   
   6
-  Ghareeb ul watan ki yehi aarzoo hai
-  Phupi ki tarha zulm par sabr karna
-  Tujhe dekh kar log aansu bahaye
-  Yateemi ko lekar jahan se guzarna
-  Tujhe Kufa o Shaam ke raasta mein
-  Bahot yaad aayega shahr-e-Madina
+  Gharib-ul-watan ki yehi aarzu hai
+  Phuphi ki tarah zulm par sabr karna
+  Tujhe dekh kar log aansu bahayeṅ
+  Yatimi ko le kar jahaṅ se guzarna
+  Tujhe Kufa o Shaam ke raaste mein
+  Bahut yaad aayega shahr-e-Madina
   
   7
-  Zafar der tak Shah-e-Din aur Sakina
+  Zafar der tak Shah-e-Diṅ aur Sakina
   Shab-e-gham mein karte rahe aah o zaari
   Wo baap aur beti ki rukhsat ka manzar
   Dil-e-Karbala par hai ye zakhm kaari
-  Kahan shaah ki qabr karbobala mein
-  Kahan shaam mein hai mazar-e-Sakina
+  Kahaṅ Shah ki qabr Karb o Bala mein
+  Kahaṅ Shaam mein hai mazar-e-Sakina
 # source_id: nohayonline:562dceb59cc469b6ed33
 # source_url: https://www.nohayonline.com/details_content.php?id=1124
 # raw_sha256: fb993335742f44dceef5473711b1f526d753ead59051dcb39f1def162931f183
 ---
 
 سکینہ سے کہتے تھے مقتل میں سرور
-
-۱
 ہے یہ آخری رات سوجا سکینہ
 مری زندگی میں ہی آرام کر لے
 ابھی تو میسر ہے بابا کا سینہ
+
+۱
 اے جانِ پدر مجھ کو معلوم ہے یہ
 تجھے کل سے بے درد سونے نہ دیں گے
 مری لاشِ پامال پر بھی سکینہ
