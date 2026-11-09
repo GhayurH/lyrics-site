@@ -9,109 +9,64 @@ poet: "Mehshar Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Alwida aey behan alwida
-
-  Bolay Shah-e-zaman alwida
-
+romanLyrics: |-
+  Alwida ae behan alwida
+  Bole Shah-e-Zaman alwida
 
   1
-
-  1) Qatal ka meray lamha qareeb aagaya
-
+  Qatal ka meray lamha qareeb aagaya
   Ek andhera sa charon taraf chagaya
-
   Waqt say pehlay suraj bhi gehna gaya
-
   May hu tanha mera haar sahara gaya
 
-
   2
-
-  2) Chaltay chaltay faqat tumsay hay ek sawaal
-
+  Chaltay chaltay faqat tumsay hay ek sawaal
   Meri pyaari Sakina ka rakhna khayaal
-
   Bin meray zinda rehna hay iska mohaal
-
   Meri bachi ko honay na daina malaal
 
-
   3
-
-  3) Jab giroon apnay ghoray say sooy-e-zameen
-
+  Jab giroon apnay ghoray say sooy-e-zameen
   Aur jhuka doon may sajday may apni jabeen
-
   Mujhko zibha karega jo Shimaray layeen
-
   Tum na aajana khaimay say baahar kaheen
 
-
   4
-
-  4) Meray kunbay ki ab ho tumhi paasbaan
-
+  Meray kunbay ki ab ho tumhi paasbaan
   Hay mera janasheen laghar-o-natawan
-
   Rahay Kufa hai zanjeer aur bariyaan
-
   Ab tumharay hawalay hay ye karwaan
 
-
   5
-
-  5) Lootnay aaye khaimoon ko jab ashqiya
-
+  Lootnay aaye khaimoon ko jab ashqiya
   Ho sakay toh bacha layna apni rida
-
   Sabar karna na karna kabhi bad-dua
-
   Har qadam par madadgar hoga Khuda
 
-
   6
-
-  6) Yun na gardish may aaya sitara kabhi
-
+  Yun na gardish may aaya sitara kabhi
   Yun huay thay na hum bay sahara kabhi
-
   Sath ek pal na choota hamara kabhi
-
   Ab na aayega bhaye tumhara kabhi
 
-
   7
-
-  7) Ay behan aisi bhi aayegi rehguzar
-
+  Ay behan aisi bhi aayegi rehguzar
   Jab milay tumko rastay may Shireen ka ghaar
-
   Aur pehchan lay tumko Shireen agar
-
   Kehna waada hua poora ay khushsiyar
 
-
   8
-
-  8) So gaye khaak paar tashnalab shah-e-deen
-
+  So gaye khaak paar tashnalab shah-e-deen
   Jal gaye khaimay aur chaadarain chin gayeen
-
   Ho gaye khali Shabbir say ye zameen
-
   Ik sadaye alaam aaj tak hay yaheen
 
-
   9
-
-  9) Bhej mehshar gharibul watan par salaam
-
+  Bhej mehshar gharibul watan par salaam
   Tashnalab khasta tan bay kafan par salaam
-
   Shah kay ansaar par panjatan par salaam
-
-  Ek bhayi peh aur ik behan par salaam'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+  Ek bhayi peh aur ik behan par salaam
+reciter: Nadeem Sarwar
 # source_id: nohayonline:edf4e1f208fe30f5d8dd
 # source_url: https://www.nohayonline.com/details_content.php?id=335
 # raw_sha256: c62ae292c05aa710b07d4671184e20a7de22da7fb68b4b9a61fd1778fa7fc82c
@@ -121,13 +76,13 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 الوداع اے بہن الوداع
+بولے شاہِ زماں الوداع
 
 ۱
-بولے شاہ زمن الوداع
 قتل کا میرے لمحہ قریب آگیا
 اک اندھیرا سا چاروں طرف چھا گیا
 وقت سے پہلے سورج بھی گہن آگیا
-میں ہوں تنہامیرا ہر سہارا گیا
+میں ہوں تنہا میرا ہر سہارا گیا
 
 ۲
 چلتے چلتے فقط تم سے ہے اک سوال
@@ -137,8 +92,8 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 
 ۳
 جب گروں اپنے گھوڑے سے سُوئے زمیں
-اور جھکادوں میں سجدے میں اپنی جبیں
-مجھ کو زبح کرے گا جو شمرِ لعیں
+اور جھکا دوں میں سجدے میں اپنی جبیں
+مجھ کو ذبح کرے گا جو شمرِ لعیں
 تم نہ آجانا خیمے سے باہر کہیں
 
 ۴
@@ -154,7 +109,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ہر قدم پر مددگار ہوگا خدا
 
 ۶
-یوں نہ گردش میںآیا ستارہ کبھی
+یوں نہ گردش میں آیا ستارہ کبھی
 یوں ہوئے تھے نہ ہم بے سہارا کبھی
 ساتھ اک پل نہ چھوٹا ہمارا کبھی
 اب نہ آئے گا بھائی تمہارا کبھی
@@ -168,7 +123,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ۸
 سو گئے خاک پر تشنہ لب شاہِ دیں
 جل گئے خیمے اور چادریں چھن گئیں
-ہوگئی خالی شبیر سے یہ زمیں
+ہو گئی خالی شبیر سے یہ زمیں
 ایک صدائے الم آج تک ہے یہیں
 
 ۹
