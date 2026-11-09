@@ -6,75 +6,77 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
+reciter: "Mir Arif Ali"
 tags: ["noImage"]
 aliases: []
 published: false
+# source_id: nohayonline:08475b81b08d8129a4e5
+# source_url: https://www.nohayonline.com/details_content.php?id=3399
+# raw_sha256: 1ee39f5f28fa4e953da36b6b2b97b31885015d1178e7b59950a9fe95cd1c716a
 romanLyrics: |-
   Ali ali maula maulana ali
   Ali ali maula maula maulana ali
-
+  
   1
-  Quwwate parwardigar lafata illa ali
+  Quwwate parwardigar La Fata illa Ali
   Shaahhe mardan shere yazdan
-  Quwwate parwardigar ya ali ya ali ya ali
+  Quwwate parwardigar Ya Ali Ya Ali Ya Ali
   Ali maula ali maula ali maula ali maula
-
+  
   2
   Tu dil mein hai basa hua tu dhadkano mein goonjta
   Tu rooh ka hai rehnuma tu nafs hai aasra
-  Hai lab pe meri ye sada hai tu khuda ka aeena
-
+  Hai lab pe meri ye sada hai tu Khuda ka aaina
+  
   3
   Ye zindagi tere liye ye bandagi tere liye
   Ye dosti tere liye ye dushmani tere liye
   Rasool e haq ne sach kaha hai tu sach ka tarjuma
-
+  
   4
   Ibadaton ke dil mein tu sadaqaton ke dil mein tu
   Hidayaton ke dil mein tu hai aayaton ke dil mein tu
   Shariyaton ka sayeban khuda ke deen ka paasban
-
+  
   5
   Tu hi khuda ka noor hai ye kehta kohe toor hai
   Jise na ye sha'oor hai wo haq se koson door hai
   Hai tujhse haq ki ibteda hai tujhpe haq ki inteha
-
+  
   6
   Jahan mein guftagu teri samaan mein guftagu teri
-  Makan mein guftagu teri azan mein giftagu teri
+  Makan mein guftagu teri azan mein guftagu teri
   Tu saajidon ka naaz hai na tere bin namaz hai
-
+  
   7
   Shifa hai teri khaak mein dawa hai teri khaak mein
   Baqa hai teri khaak mein wafa hai teri khaak mein
   Hai dar pe tere ay ali har ek nabi ki naukri
-
+  
   8
   Ye kaisa waqt aagaya ali pe haye kibriya
   Lahoo hai sar se beh raha hai khoon mein tar ali tera
   Hai ranj tujhpe teeragi bujhayi tu ne roshni
-
+  
   9
   Bayan kaise ho bhala wo zakhm bu-turab ka
   Na taabe zakhm laa saka zamane se guzar gaya
   Zaban pe uske nauha hai jo nasir aaj rota hai
-# source_id: nohayonline:08475b81b08d8129a4e5
-# source_url: https://www.nohayonline.com/details_content.php?id=3399
-# raw_sha256: 1ee39f5f28fa4e953da36b6b2b97b31885015d1178e7b59950a9fe95cd1c716a
 ---
+
 علی علی مولا مولانا علی
 علی علی مولا مولا مولانا علی
 
 ۱
-قوت پروردگار لا فتی الا علی
+قوت پروردگار لا فتیٰ الا علی
 شاہ مردان شیر یزداں
-قوت پروردگار یا عل یا عل یا عل
+قوت پروردگار یا علی یا علی یا علی
 علی مولا علی مولا علی مولا علی مولا
 
 ۲
 تو دل میں ہے بسا ہوا تو دھڑکنوں میں گونجتا
 تو روح کا ہے رہنما تو نفس ہے آسرا
-ہے لب پہ میری یہ صدا ہے تو خدا کا آیینہ
+ہے لب پہ میری یہ صدا ہے تو خدا کا آئینہ
 
 ۳
 یہ زندگی تیرے لئے یہ بندگی تیرے لئے
@@ -104,7 +106,7 @@ romanLyrics: |-
 ۸
 یہ کیسا وقت آ گیا علی پہ ہاے کبریا
 لہو ہے سر سے بہہ رہا ہے خوں میں تر علی تیرا
-ہے رنج تجھ پہ تیرگی بجھای تو نے روشنی
+ہے رنج تجھ پہ تیرگی بجھائی تو نے روشنی
 
 ۹
 بیان کیسے ہو بھلا وہ زخم بو تراب کا

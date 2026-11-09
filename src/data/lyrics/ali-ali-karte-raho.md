@@ -6,9 +6,13 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
+# source_id: nohayonline:139c86361345d93c21c7
+# source_url: https://www.nohayonline.com/details_content.php?id=3056
+# raw_sha256: d3e3de1b5ba29329d429777a58668ba12a5b8ed53ea20bb11bc9672b6d20e132
 romanLyrics: |-
   Ya ali maula ya ali maula karte raho
   Ali ali ali ali karte raho
@@ -68,7 +72,7 @@ romanLyrics: |-
   Koi kahe allah ka banda koi kahe bhagwan
   
   7
-  Auje fasahat ali ali ali ali
+  Auje fasahat Ali ali ali ali
   Nahje balaghat ali ali ali ali
   Marzi e khudrat rooh e risalat
   Jaan e wilayat shaan e imamat
@@ -93,18 +97,15 @@ romanLyrics: |-
   Aayat aayat ali ali
   Surat surat ali ali
   Yun lagta hai jaise ali ki madha kare quran
-# source_id: nohayonline:139c86361345d93c21c7
-# source_url: https://www.nohayonline.com/details_content.php?id=3056
-# raw_sha256: d3e3de1b5ba29329d429777a58668ba12a5b8ed53ea20bb11bc9672b6d20e132
 ---
 
 یا علی مولا یا علی مولا کرتے رہو
 علی علی علی علی کرتے رہو
 
 ۱
-نکتہء با ہے علی علی علی علی
+نقطۂ با ہے علی علی علی علی
 رب نے کہا ہے علی علی علی علی
-مرضیء داور نفس پیمبر
+مرضیِ داور نفس پیمبر
 شیر غضنفر فاتح خیبر
 سازِ ولا ہے علی علی
 راز خدا ہے علی علی
@@ -113,14 +114,14 @@ romanLyrics: |-
 ۲
 مشکل کا حل علی علی علی علی
 کرم کا بادل علی علی علی علی
-لوحِ اذل ہے حق کے غزل ہے
+لوحِ ازل ہے حق کی غزل ہے
 ساز عمل ہے قول اٹل ہے
 شان جلی ہے علی علی
 رب کا ولی ہے علی علی
 ہجرت کی شب اس کو ملی ہے مرضیء رحماں
 
 ۳
-ھلم کا گھر ہے علی علی علی علی
+حلم کا گھر ہے علی علی علی علی
 علم کا در ہے علی علی علی علی
 قلب و جگر میں فکر و نظر میں
 علم و ہنر میں شام و سحر میں
@@ -130,8 +131,8 @@ romanLyrics: |-
 
 ۴
 مکی مدنی علی علی علی علی
-اجمی عربی علی علی علی علی
-رنگ چمن بھی بوے سمن بھی
+عجمی عربی علی علی علی علی
+رنگ چمن بھی بوئے سمن بھی
 روح سخن بھی تن من دھن بھی
 کہیں سقی ہے علی علی
 کہیں اخی ہے علی علی
@@ -156,13 +157,13 @@ romanLyrics: |-
 کوئی کہے اللہ کا بندہ کوئی کہے بھگوان
 
 ۷
-اوج فساہت علی علی علی علی
-نہج بلاغت علی علی علی علی
-مرضیء قدرت روح رسالت
+اوجِ فصاحت علی علی علی علی
+نہجِ بلاغت علی علی علی علی
+مرضیِ قدرت روح رسالت
 جان ولایت شان امامت
 تم ہی مشیعت علی علی
 تم ہی شریعت علی علی
-سجدے میں تم‌ نے کھای ہے ضربت اے کل ایمان
+سجدے میں تم نے کھائی ہے ضربت اے کل ایمان
 
 ۸
 دھوپ مٹا دو علی علی علی علی
@@ -176,7 +177,7 @@ romanLyrics: |-
 ۹
 نیر کا گن علی علی علی علی
 عامر کی دھن علی علی علی علی
-شمع کی لو میں صبح کی پو‌ میں
+شمع کی لو میں صبح کی پو میں
 حسن کی ضو میں عشق کی رو میں
 آیت آیت علی علی
 صورت صورت علی علی
