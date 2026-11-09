@@ -28,9 +28,9 @@ Be-Saya Jis Ke Saye Mein Aa Kar Panah Le
 2
 Jo Do Jahan Ka Chain Hai Yeh Oss Ka Chain Hai
 Zainab Ki Maa Hai Chehra-e-Yazdaan Ki Zain Hai
-Rab-e-Hasan Hai Fatima Rab-e-Hussain Hai
+Rab-e-Hasan Hai Fatima Rab-e-Husain Hai
 Yeh Ain-e-Haq Hai Iss Ka Addo Ain Gain Hai
-Sun Kar Khuda Ke Deen Ki Cheekh-o-Pukar Ko
+Sun Kar Khuda Ke Deen Ki Cheekh o Pukar Ko
 Pala Hai Iss Ne Sabar Ke Parwardigar Ko
 
 3
@@ -39,7 +39,7 @@ Muhsin Khuda Ki Zaat Hai Ahsan Fatima
 Quran Ko Parhati Hain Quran Fatima
 Mushkil Ali Ki Karti Hain Aasan Fatima
 Qaul-e-Nabi Hai Umm-e-Abeeha Batool Hain
-ALLAH Ke Rasool Ki Zarha Rasool Hain
+Allah Ke Rasool Ki Zarha Rasool Hain
 
 4
 Roshan Hai Itna Syeda-e-Pak Ka Makaan
@@ -58,10 +58,10 @@ Pabandi Sab Ko Karni Hai Iss Ke Usool Ki
 Aate Nahi Beghair Ijazat Rasool Bhi
 
 6
-Iss Ghar Mein Fatima Hain Ali Hain Hasan Hussain
+Iss Ghar Mein Fatima Hain Ali Hain Hasan Husain
 Aabad Hain Yahan Pe Zamane Ke Syedain
 Makhdoom Inn Ka Ghar Hai Do Aalam Hain Khadmain
-Milta Hai Iss Ko Dekh Ke ALLAH Ko Bhi Chain
+Milta Hai Iss Ko Dekh Ke Allah Ko Bhi Chain
 Jalwaon Se Iss Ke Sara Jahan Jagmagaye Ga
 Iss Ghar Se Jo Jale Ga Jahanum Mein Jaye Ga
 
@@ -69,7 +69,7 @@ Iss Ghar Se Jo Jale Ga Jahanum Mein Jaye Ga
 Aain Do Jahan Ka Banati Hain Fatima
 Jhola Mashiyaton Ko Jhulati Hain Fatima
 Nabiyon(AS) Ko Unn Ke Kam Batati Hain Fatima
-ALLAH Ka Nizam Chalati Hain Fatima
+Allah Ka Nizam Chalati Hain Fatima
 Iss Shan Se Qayam Hai Arz-e-Yaqeen Par
 Jab Chahein Aasman Bicha Dein Zameen Par
 
@@ -79,18 +79,18 @@ Tasbeeh Aik Hath Mein Chaki Pe Aik Hath
 Konain Ghomte Hain Isharon Ke Sath Sath
 Inn Ki Kaneez Roz-e-Azal Se Hai Kainat
 Kis Ki Majal Hai Keh Koi Baat Taal De
-Yeh Jis Ko Chahe Kon-o-Makaan Se Nikal De
+Yeh Jis Ko Chahe Kon o Makaan Se Nikal De
 
 9
 Mansoob Woh Hadees-e-Kisa Hai Janab Se
 Aajiz Hai Kufar Aaj Bhi Jis Ke Jawab Se
-Roshan Dil-o-Dimag Hain Jis Aaftab Se
+Roshan Dil o Dimag Hain Jis Aaftab Se
 Hum Ne Yehi Suna Hai Risalat Maab Se
-Ilm-o-Hunar Ka Moor Hadees-e-Kisa Mein Hai
+Ilm o Hunar Ka Moor Hadees-e-Kisa Mein Hai
 Quran Ka Nichoor Hadees-e-Kisa Mein Hai
 
 10
-:GOHAR: Yeh Bazm-e-Malka-e-Youm-e-Alasat Hai
+Gohar Yeh Bazm-e-Malka-e-Youm-e-Alasat Hai
 Eman Ki Ghiza Ka Bara Bando Bast Hai
 Har Shaks Aaj Ishq Ki Masti Mein Mast Hai
 Zahra Ke Dushmano Ki Mukamil Shikast Hai

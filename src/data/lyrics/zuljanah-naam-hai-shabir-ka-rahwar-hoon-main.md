@@ -22,7 +22,7 @@ Zuljanah Naam Hai Shabir Ka Rahwar Hoon Main
 Noor-e-Awal Ki Qasam Sahmil-e-Anwaar Hoon Main
 Khud Wafadar Yeh Kehte Hain Wafadar Hoon Main
 Mere Hum Jins Jo Hain Unka Alamdar Hoon Main
-Jab Se ALLAH Ne Iss Dar Ki Ghulami Di Hai
+Jab Se Allah Ne Iss Dar Ki Ghulami Di Hai
 Mujh Ko Aa Aa Ke Farishton Ne Salami Di Hai
 
 2
@@ -39,15 +39,15 @@ Rooz-e-Awal Se Hai Tuheed Pe Eman Mujhe
 Had-e-Mumkin Mein Nahi La Saka Imkan Mujhe
 Janwar Hai Woh Samajta Hai Jo Haiwan Mujhe
 Aayton Mein Ba-Khuda Zikar Mera Aaya Hai
-Meri Tapoon Ki Tu ALLAH Qasam Khata Hai
+Meri Tapoon Ki Tu Allah Qasam Khata Hai
 
 4
 Nisbat-e-Khas Yeh Rakhi Hai Taharat Mujh Se
-Door ALLAH Ne Rakhi Hai Nijasat Mujh se
-Batein Karti Rahi ALLAH Ki Aayat Mujh Se
+Door Allah Ne Rakhi Hai Nijasat Mujh Se
+Batein Karti Rahi Allah Ki Aayat Mujh Se
 Kitna Khush Bakht Hoon Main Khush Hai Imamat Mujh Se
 Rab-e-Kaba Ki Qasam Youn Bhi Ibadat Ki Hai
-Main Ne ALLAH Ke Chehre Ki Ziyarat Ki Hai
+Main Ne Allah Ke Chehre Ki Ziyarat Ki Hai
 
 5
 Hai Azadar Zamane Mein Dua-e-Zahra
@@ -66,15 +66,15 @@ Dana Shehzadi Ne Palu Mein Khilaya Hai Mujhe
 Pani Saqa-e-Sakina Ne Pilaya Hai Mujhe
 
 7
-Shair-e-ALLAH Se Payi Hai Shujat Main Ne
+Shair-e-Allah Se Payi Hai Shujat Main Ne
 Sath Shabir Ke Ki Dein Ki Nusrat Main Ne
 Payi Kuch Iss Liye Aalam Mein Yeh Azmat Main Ne
-Ki Hai Shabir-o-Alamdar Ki Baiyat Main Ne
+Ki Hai Shabir o Alamdar Ki Baiyat Main Ne
 Dil-e-Momin Mein Sada Meri Aqeedat Ho Gi
 Hashar Tak Meri Shabeehon Ki Ziyarat Ho Gi
 
 8
-Shukar-e-Khaliq Ke Mujhe Bait-e-Payamber MEin Rakha
+Shukar-e-Khaliq Ke Mujhe Bait-e-Payamber Mein Rakha
 Do Jahan Jis Ke Gadagar Hain Ossi Ghar Mein Rakha
 Kissi Batil Na Kissi Ghair Ke Chakar Mein Rakha..
 Jab Bhi Rakha Mujhe Islam Ke Lashkar Mein Rakha
@@ -82,7 +82,7 @@ Zeen Jab Bhi Sheh-e-Wala Ne Sunwari Hai Meri
 Khud Nazar-e-Sani-e-Zahra Ne Utari Hai Meri
 
 9
-Zuljinah Karta Hai Aye:NOOR ALI: Ab Yeh Kalam
+Zuljinah Karta Hai Ae Noor Ali Ab Yeh Kalam
 Sath Qayam Ke Karon Ga Main Sar-e-Dahar Qiyam
 Sare Aalam Ko Samaj Aaye Ga Tab Mera Muqam
 Jab Meri Pusht Pe Aaye Ga Zamane Ka Imam

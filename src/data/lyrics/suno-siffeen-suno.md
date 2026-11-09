@@ -31,7 +31,7 @@ Mula Kahon Kis Ko Yahan Sare Hi Ali Hain
 
 2
 Beton Se Mukhatib Howa Imran Ka Beta
-Dil Mujh Se Yeh Kehta Hai Mera Aye Bani Zarha
+Dil Mujh Se Yeh Kehta Hai Mera Ae Bani Zarha
 Yani Hai Yeh Khliq Ke Irade Ka Iradah
 Maidaan Mein Lare Aaj Koi Beta Ali Ka
 Khul Jaye Keh Waliyon Ka Wali Larta Hai Kaise
@@ -47,9 +47,9 @@ Hasnain Ke Baba Mera Abbas Lare Ga
 
 4
 Goya Howa Phir Dast-e-Adab Joor Ke Zaigham
-Aye Mehram-e-Asrar-e-Khuda Khaliq-e-Adam
+Ae Mehram-e-Asrar-e-Khuda Khaliq-e-Adam
 Hasrat Hai Hamari Bhi Larai Yeh Larein Hum
-Wadah Raha Yeh Aap Se Aye Qibla-e-Aalam
+Wadah Raha Yeh Aap Se Ae Qibla-e-Aalam
 Zahra Ki Tamana ka Aakas Na Kehna
 Dushman Na ALi Keh Dein Tu Abbas Na Kehna
 
@@ -63,7 +63,7 @@ Jaise Pas-e-Parda Mairaj Ali The
 
 6
 Khaime Se Baramad Howa Haider ka Ghazanfar
-Ghaiz-o-Ghazab-o-Roab-o-Jalal Aye Ghazab Par
+Ghaiz o Ghazab o Roab o Jalal Aye Ghazab Par
 Tiyar Nazar Aya Jo Lashkar Pas-e-Lashkar
 Jibreel Ne Dam Nad-e-Ali Kar Li Paron Par
 Haibat Thi Ajab Saans Farishton Ke Charhe The
@@ -107,12 +107,12 @@ Thi Maut Udhar Ran Mein Jidhar Bhag Rahe The
 Bhaga Nahi Jata Tha Magar Bhag Rahe The
 Jaldi Mein Badan Choor Ke Sar Bhag Rahe The
 Sans Un Ke Ruke The Keh Jo Maidaan Mein Ruke The
-Zindoon Ki Yeh Halat Thi Ke Murdoon MEin Chupe The
+Zindoon Ki Yeh Halat Thi Ke Murdoon Mein Chupe The
 
 12
 Kehti Thi Ajal Dasht Se Be-Jaan Samaito
 Yeh Hath Yeh Sar Jism Yeh Dandaan Samaito
-Aye Zakhmiyo Bikhre Howay Osaan Samaito
+Ae Zakhmiyo Bikhre Howay Osaan Samaito
 Ghar Jao Meri Maan Lo Saman Samaito
 Marte Ho Jawani Mein Ajab Zauq Hai Tum Ko
 Kya Khudkushi Karne Ka bohat Shauq Hai Tum Ko
@@ -127,9 +127,9 @@ Do Aise Kiye Chodah Tabaq Kar Diye Roshan
 
 14
 Dil Mein Yehi Kehta Raha Sarwar Ka Alamdar
-Phir Moqa Mile Ya Na Mile Aye Meri Talwar
+Phir Moqa Mile Ya Na Mile Ae Meri Talwar
 Taiz Our Zara Taiz Zara Taiz Ho Raftar
-Aye Kash Mujhe Rokein Na Ab Haider-e-Karar
+Ae Kash Mujhe Rokein Na Ab Haider-e-Karar
 Haq Kar Doon Adda Fatima Zahra Ke Namak Ka
 Arey Badla Abhi Le Loon Ga Main Inn Sab Se Fidaq Ka
 
@@ -139,18 +139,18 @@ Kehte The Fidaq Khoor Ali Hai Yeh Ali Hai
 Bole Yeh Woh Be-Door Ali Hai Yeh Ali Hai
 Arey Bilkul Hai Wohi Zoor Ali Hai Yeh Ali Hai
 Sar Oss Ka Urey Ga Jo Kabhi Iss Se Aray Ga
-ALLAH Ki Taqat Se Bhala Kaun Lare Ga
+Allah Ki Taqat Se Bhala Kaun Lare Ga
 
 16
 Shabir Bhi Kehne Lage Kya Khoob Kiya Kaam
 Do Hath Mein Hi Kar Diya Kuffar Mein Kuhram
 In Hathon Se Hone Hain Abhi Our Bohat Kam
 Bahi Hai Tere Waste Bahi Ka Yeh Inam
-To Aye Ga Aye Shair Palat Kar Jo Hadaf Se
+To Aye Ga Ae Shair Palat Kar Jo Hadaf Se
 Main Bazoo Dabaon Ga Tere Maa Ki Taraf Se
 
 17
-Haider Ne Naqab Aa Ke Uthai Jo :TAKALLAUM:
+Haider Ne Naqab Aa Ke Uthai Jo Takallum
 Abbas Ke Honton Pe Nazar Aya Tabasum
 Baqi Jo Bache The Wo Howay Dekh Ke Gum Sum
 Maula Ne Kaha Sham Ke Lashkar Se Suno Tum

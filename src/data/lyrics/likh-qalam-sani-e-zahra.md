@@ -17,7 +17,7 @@ published: false
 
 1
 Likh Qalam Sani e Zahra Ki Sana Bismillah
-Wahi-o-Ilham Ko Tehreer Mila Bismillah
+Wahi o Ilham Ko Tehreer Mila Bismillah
 Ba Ke Nuqtay Se Har Ik Nuqta Mila Bismillah
 Aaj Yeh Raaz Zamane Ko Bata Bismillah
 Ilm-e-Haider Ka Khulasa Hai Ali Ki Beti
@@ -75,6 +75,6 @@ Sans Bhi Rook Diye Loag Bhi Marne Na Diye
 Qafila Farsh-e-Azza Ka Yeh Chali Hai Le Kar
 Chodah Sadiyon Se Khatab Iss Ka Hai Jari Ghar Ghar
 Tazia Jhola Alam Aanso Hai Iss Ka Lashkar
-Kon Roke Ga Bhala Shah Ka Matam :AKBAR:
+Kon Roke Ga Bhala Shah Ka Matam Akbar
 Karbala Ka Jo Har Ik Sahib-e-Dil Qayal Hai
 Iss Ki Tableeg Mein Zainab Ka Laho Shamil Hai

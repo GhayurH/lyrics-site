@@ -24,7 +24,7 @@ Hazar Gham Hain Tu Gham Ki Dawa Bhi Hai Koi
 Jo Qafilay Hain Rawaan Rahnuma Bhi Hai Koi
 Khuda Agar Hai Tu Phir Na-Khuda Bhi Hai Koi
 Hai Dar-e-Dil Tu Koi Dil Ka Chain Bhi Ho Ga
-Yazeed Lakhon Hain Koi Hussain Bhi Ho Ga
+Yazeed Lakhon Hain Koi Husain Bhi Ho Ga
 
 2
 Abhi Tu Khon Ke Darya Bahaye Jaein Gaye
@@ -43,9 +43,9 @@ Ali Ka Shair Abhi Sabar Ki Kachar Mein Hai
 Zamana Apne Muhammad Ke Intezar Mein Hai
 
 4
-Yeh Keh Rahi Hai Gham-o-Ranj Ki Farawani
-Khabar Yeh Deti Hai Aqal-o-Khird Ki Hairani
-Bata Rahi Hai Yeh Zulm-o-Sitam Ki Tugyani
+Yeh Keh Rahi Hai Gham o Ranj Ki Farawani
+Khabar Yeh Deti Hai Aqal o Khird Ki Hairani
+Bata Rahi Hai Yeh Zulm o Sitam Ki Tugyani
 Barasne Wala Hai Ab Zulfiqar Ka Pani
 Sitam Ki Maut Ka Saman Aane Wala Hai
 Safina Dhond Lo Tofan Aane Wala Hai
@@ -54,9 +54,9 @@ Safina Dhond Lo Tofan Aane Wala Hai
 Manadi Ho Gi Ke Adal-e-Khuda Mubarak Ho
 Jadar-e-Kahana-e-Haq Murtaza Mubarak Ho
 Madine Walo Niya Mustafa Mubarak Ho
-Mera Zahoor Aye Khair-ul-Nisa Mubarak Ho
-Tha Dil Pe Karb-o-Bala Ka Jo Bhaar Khatam Howa
-Aye Meri Dadi Tera Intezar Khatam Howa
+Mera Zahoor Ae Khair-ul-Nisa Mubarak Ho
+Tha Dil Pe Karb o Bala Ka Jo Bhaar Khatam Howa
+Ae Meri Dadi Tera Intezar Khatam Howa
 
 6
 Hai Zaat-e-Haq Jo Pas-e-Mojzaat Meri Hai
@@ -84,7 +84,7 @@ Kachar Choor Ke Shair Aa Gaya Hai Basti Mein
 
 9
 Sunai De Ga Yeh Aylan Taig-e-Haider Ka
-Hisab Loon Gi Yameen-o-Yasaar Se Shar Ka
+Hisab Loon Gi Yameen o Yasaar Se Shar Ka
 Woh Sar Gaya Jo Zara Sa Idhar Udhar Sarka
 Malak Bhi Jan Le Khud Zimedar Hai Par Ka
 Na Jibreel-e-Ameen Ko Bhi Kuch Riayat Hai

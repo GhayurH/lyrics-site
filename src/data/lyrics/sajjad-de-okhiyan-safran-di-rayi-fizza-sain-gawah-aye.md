@@ -33,7 +33,7 @@ Mar Ke V Sain Mojawar Hai Odi Qabar Te Pak Nigah Aye
 
 5
 Jino Bhain Hai Aakhiya Zahra Ne Aate Maa Hasnain Bolanday Si
-Taiyon Roza BiBi Zainab Da Fizza Di Sajdah Ga Aye
+Taiyon Roza Bibi Zainab Da Fizza Di Sajdah Ga Aye
 
 6
 Ik Din Te Tur Gaye Dunya Taun Har Zulm De Jehray Shahid Si

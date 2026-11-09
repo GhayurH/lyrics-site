@@ -23,7 +23,7 @@ Firdos Ke Meway Meri Ulfat Ka Samar Hain
 Gul Gasht Ko Janat Ke Chaman Paish-e-Nazar Hain
 Inn Sab Ke Dil-e-Panjtan-e-Pak Mein Ghar Hain
 Shiyon Ke Liye Hashar Mein Hum Seena Sipar Hain
-Iss Markay Mein Aish-o-Nishat Inn Ke Liye Hain
+Iss Markay Mein Aish o Nishat Inn Ke Liye Hain
 Na Khof-e-Jahanum Na Sirat Inn Ke Liye Hain
 
 1
@@ -75,7 +75,7 @@ Aur Kehne Laga Khuld Se Paigham Hoon Laya
 Yeh Meri Nahi Sare Shaheedon Ki Sada Hai
 
 8
-:YASIR: Yehi Farmati Hain Khud Fatima Zahra
+Yasir Yehi Farmati Hain Khud Fatima Zahra
 Jab Roz-e-Jaza Paish-e-Khuda Faisla Ho Ga
 Janat Mein Nahi Jaongi Karti Hoon Main Wada
 Jab Tak Na Chale Jaein Muhib-e-Sheh-e-Wala

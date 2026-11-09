@@ -32,12 +32,12 @@ Main Naize Pe Chahoon Zameen Ko Utha Loon
 Ababeel Ka Bhi Main Lashkar Bula Loon
 Falak Misal-e-Kagaz Zameen Par Ulat Kar
 Khuda Ki Qasam Main Ali Se Dua Loon
-Khuda Ka Ghazab Mera Qehar-o-Ghazab Hai
+Khuda Ka Ghazab Mera Qehar o Ghazab Hai
 
 3
-Sharaf Hai Ghulam-e-Hussain-o-Hasan Hoon
+Sharaf Hai Ghulam-e-Husain o Hasan Hoon
 Sakhawat Ki Masnad Pe Jalwah Figan Hoon
-Fana-o-Baqa Hain Meri Dastras Mein
+Fana o Baqa Hain Meri Dastras Mein
 Main Paband-e-Hukam-e-Imam-e-Zaman Hoon
 Sheh-e-Deen Ki Chahat Hi Meri Talab Hai
 
@@ -51,7 +51,7 @@ Meri Khamshi Ka Faqat Yeh Sabab Hai
 5
 Suno Mera Mansab Hai Mushkil Kushai
 Zamane Ki Karta Hoon Hajat Rawai
-Main Zaat-o-Sifat Mein Ali Ki Tarha Hoon
+Main Zaat o Sifat Mein Ali Ki Tarha Hoon
 Hai Mere Tasaruf Mein Sari Khudai
 Keh Babul Hawaij Tu Mera Laqab Hai
 
@@ -70,7 +70,7 @@ Nasab Mein Hasab Mein Hoon Sab Se Main Aala
 Keh Qatil Pe Rehmat Hamara Kasab Hai
 
 8
-:MUHIB: Ghaiz Mein Tha Ali Ka Ghazanfar
+Muhib Ghaiz Mein Tha Ali Ka Ghazanfar
 Rajaz Sun Ke Larzaan Thi Foaj-e-Sitamgar
 Tarai Pe Qabza Tha Shair-e-Jari Ka
 Faqat Yeh Rajaz Tha Jari Ke Labon Par
