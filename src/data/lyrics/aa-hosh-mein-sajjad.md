@@ -1,11 +1,12 @@
 ---
-title: "آ ہوش میں سجاد کے گھر جل گےء سارے"
+title: "آ ہوش میں سجاد کے گھر جل گئے سارے"
 alternateTitle: "Aa Hosh Mein Sajjad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -18,63 +19,63 @@ romanLyrics: |-
   Baba ho mujhe chhor chale kis ke sahare
   
   2
-  Ye tera hi dil hai ke sina kheenchi hai tu ne
+  Ye tera hi dil hai ke sinaṅ khinchi hai tu ne
   Sadqe tere Shabbir Ibrahim pukare
   
   3
-  Baithi hai yatimon ko jale khaime mein le kar
-  Saydaniyan tanha hai ke waaris gaye maare
+  Baithi hai yatimoṅ ko jale khaime mein le kar
+  Sayyidaaniyaaṅ tanha hai ke waaris gaye maare
   
   4
   Main aakhri rukhsat ke liye aayi huṅ bhaiya
   Ghazi ko pukaro hameṅ mehmil se utare
   
   5
-  Bhaiya tere baazu mujhe raste mein mile hain
-  Ye kya hai yahan tum ho wahan baazu tumhare
+  Bhaiya tere baazu mujhe raste mein mile haiṅ
+  Ye kya hai yahaaṅ tum ho wahaaṅ baazu tumhare
   
   6
-  Haathon pe utha ke kaha shabbir ne logon
+  Haathoṅ pe utha ke kaha Shabbir ne logoṅ
   Baccha mera dam todta hai pyaas ke maare
   
   7
-  Khat likhti hai shikwon ke use kaun bataye
-  Tu lut gayi sughra tere bhaiya gaye maare
+  Khat likhti hai shikwoṅ ke use kaun bataaye
+  Tu lut gayi Sughra tere bhaiya gaye maare
   
   8
-  Zainab ne diya bosa jo bhai ke galay par
-  Shabbir chale qaime se rone lage saare
+  Zainab ne diya bosa jo bhai ke gale par
+  Shabbir chale khaime se rone lage saare
   
   9
-  Likha hai mujhe sadqe mein asghar ke bula lo
-  Dam ghut'ta hai bhaiya mere tanhaai ke maare
+  Likha hai mujhe sadqe mein Asghar ke bula lo
+  Dam ghutta hai bhaiya mere tanhaai ke maare
   
   10
-  Maare hai tamache mujhe baalon se pakad kar
-  Durr khaynch ke zaalim ne hai kaano se utaare
+  Maare haiṅ tamaache mujhe baaloṅ se pakar kar
+  Dur khinch ke zaalim ne haiṅ kaanoṅ se utaare
   
   11
-  Shabbir lehed khod ke ye soch rahe hai
-  Ab kis se kahe qabr mein asghar ko utaare
+  Shabbir lahad khod ke ye soch rahe haiṅ
+  Ab kis se kahe qabr mein Asghar ko utaare
   
   12
-  Baba mujhe ek pal ko hi seene se laga lo
-  Din bhar se hoon bechain bahot dard ke maare
+  Baba mujhe ek pal ko hi sine se laga lo
+  Din bhar se huṅ bechain bahut dard ke maare
   
   13
-  Hurmal ne kaha teer chala kar shahe deen se
-  Aata hai abhi jaam e qaza paas tumhare
+  Hurmal ne kaha tir chala kar shaah-e-diṅ se
+  Aata hai abhi jaam-e-qaza paas tumhare
   
   14
   Dekhe to Nisar aaj koi Hurr ka muqaddar
-  Dozakh se chala aagaya kausar ke kinare
+  Dozakh se chala aa gaya Kausar ke kinaare
 # source_id: nohayonline:d8041714ab3ca858f2e2
 # source_url: https://www.nohayonline.com/details_content.php?id=3229
 # raw_sha256: 3b608b4d30939975633db03cd65aa27f1518fab0459082c0c2841e8b9e071af5
 ---
 
-آ ہوش میں سجاد کے گھر جل گےء سارے
-سب ٹوٹ گےء زینب مضطر کے سہارے
+آ ہوش میں سجاد کے گھر جل گئے سارے
+سب ٹوٹ گئے زینب مضطر کے سہارے
 
 ۱
 گھوڑے کے قدم تھام کے کہتی تھی سکینہ
@@ -86,10 +87,10 @@ romanLyrics: |-
 
 ۳
 بیٹھی ہے یتیموں کو جلے خیمے میں لے کر
-سیدانیاں تنہا ہے کہ وارث گےء مارے
+سیدانیاں تنہا ہے کہ وارث گئے مارے
 
 ۴
-میں آخری رخصت کے لئے آی ہوں بھیا
+میں آخری رخصت کے لئے آئی ہوں بھیا
 غازی کو پکارو ہمیں محمل سے اتارے
 
 ۵
@@ -102,7 +103,7 @@ romanLyrics: |-
 
 ۷
 خط لکھتی ہے شکووں کے اسے کون بتائے
-تو لٹ گیء صغرا تیرے بھیا گےء مارے
+تو لٹ گئی صغرا تیرے بھیا گئے مارے
 
 ۸
 زینب نے دیا بوسہ جو بھائی کے گلے پر

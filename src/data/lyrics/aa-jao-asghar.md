@@ -6,66 +6,67 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aajao asghar aajao
+  Aajao Asghar aajao
   Ae mere Asghar aajao
 
   1
   Gham mein tumhare marti huṅ
-  Har dam aahein bharti huṅ
+  Har dam aaheṅ bharti huṅ
   Ab to taras khao dilbar
   
   2
-  Sannaton ka ye mausam
-  Charon taraf hu ka aalam
-  Kitna darona hai manzar
+  Sannaatoṅ ka ye mausam
+  Chaaroṅ taraf hu ka aalam
+  Kitna daraauna hai manzar
   
   3
-  Door talak saaya bhi nahi
-  Tapta sehra jalti zameen
-  Neend tumhe aayi kiun kar
+  Dur talak saaya bhi nahiṅ
+  Tapta sehra jalti zamiṅ
+  Nind tumheṅ aayi kiuṅ kar
   
   4
   Sach kehti huṅ ae beta
-  Maa se nahi rootha jaata
+  Maaṅ se nahiṅ rutha jaata
   Maan bhi jao ae dilbar
   
   5
-  Neend ye aayi hai kaisi
-  Sunte nahi awaaz meri
+  Nind ye aayi hai kaisi
+  Sunte nahiṅ aawaaz meri
   Kab se bulaati hai maadar
   
   6
-  Chaunkoge jab raaton ko
-  Jhoola bana ke haathon ko
+  Chaunkoge jab raatoṅ ko
+  Jhula bana ke haathoṅ ko
   Tujhko jhulayegi maadar
   
   7
-  Binte shahe dilgeer hai ye
-  Teri bhi hamsheer hai ye
-  Le ke sakina ke gohar
+  Bint-e-shaah-e-dilgir hai ye
+  Teri bhi hamshir hai ye
+  Le ke Sakina ke gauhar
   
   8
-  Dil mein balayein leti hai
-  Tujhko sadayein deti hai
+  Dil mein balaaeṅ leti hai
+  Tujhko sadaaeṅ deti hai
   Bekas dukhiya ye maadar
   
   9
-  Kaise main jaun Shaam bhala
+  Kaise main jaauṅ Shaam bhala
   Sar hai khula aati hai haya
-  Maa ke liye lekar chaadar
+  Maaṅ ke liye le kar chaadar
   
   10
   Lut gayi chaahat ki dunya
   Uth gayi waali ka saaya
-  Rooth gaye tum bhi jaa kar
+  Ruth gaye tum bhi jaa kar
   
   11
-  Aamir jaan khota hai Bilal
-  Saara jahan rota hai Bilal
+  Aamir jaaṅ khota hai Bilal
+  Saara jahaaṅ rota hai Bilal
   Rakh qalam itna likh kar
 # source_id: nohayonline:3afdd3a5ce991f21b4b1
 # source_url: https://www.nohayonline.com/details_content.php?id=2442
@@ -76,19 +77,19 @@ romanLyrics: |-
 اے میرے اصغر آجاؤ
 
 ۱
-غم‌ میں تمہارے مرتی ہوں
+غم میں تمہارے مرتی ہوں
 ہر دم آہیں بھرتی ہوں
 اب تو ترس کھاؤ دلبر
 
 ۲
 سناٹوں کا یہ موسم
-چاروں طرف ہو کا علم
+چاروں طرف ہو کا عالم
 کتنا ڈراونا ہے منظر
 
 ۳
 دور تلک سایہ بھی نہیں
-تپتا سحرا جلتی زمیں
-نیند تمہیں آی کیوں کر
+تپتا صحرا جلتی زمیں
+نیند تمہیں آئی کیوں کر
 
 ۴
 سچ کہتی ہوں اے بیٹا
@@ -96,14 +97,14 @@ romanLyrics: |-
 مان بھی جاؤ اے دلبر
 
 ۵
-نیند یہ آی ہے کیسی
+نیند یہ آئی ہے کیسی
 سنتے نہیں آواز میری
 کب سے بلاتی ہے مادر
 
 ۶
 چونکو گے جب راتوں کو
 جھولا بنا کے ہاتھوں کو
-تجھکو جھلاے گی مادر
+تجھکو جھلائے گی مادر
 
 ۷
 بنت شہ دلگیر ہے یہ
@@ -111,19 +112,19 @@ romanLyrics: |-
 لے کے سکینہ کے گوہر
 
 ۸
-دل میں بلاییں لیتی ہے
-تجھکو صداییں دیتی ہے
+دل میں بلائیں لیتی ہے
+تجھکو صدائیں دیتی ہے
 بیکس دکھیا یہ مادر
 
 ۹
 کیسے میں جاؤں شام بھلا
 سر ہے کھلا آتی ہے حیا
-ماں کے لیےء لے کر چادر
+ماں کے لیے لے کر چادر
 
 ۱۰
-لٹ گیء چاہت کی دنیا
-اٹھ گیء والی کا سایہ
-روٹھ گےء تم بھی جا کر
+لٹ گئی چاہت کی دنیا
+اٹھ گئی والی کا سایہ
+روٹھ گئے تم بھی جا کر
 
 ۱۱
 عامر جاں کھوتا ہے بلال

@@ -6,63 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  
   Lut ke aa gaya watan Fatema ka kunba
   Aa gaya Madina aa gaya Madina
 
   1
-  Kaisi ye udasiyan fizaon par hain taari
-  Aa rahe hain qudsiya alam siyah amaari
-  Kaisa dardnaak hai musafiron ka kissa
+  Kaisi ye udaasiyaaṅ fizaaoṅ par hai taari
+  Aa rahe haiṅ qudsiya alam siyaah amaari
+  Kaisa dardnaak hai musaafiroṅ ka qissa
   
   2
-  Bibiyon ko phir wohi bahaar yaad aayi
+  Bibiyoṅ ko phir wohi bahaar yaad aayi
   Jo ujad chuki wo yaadgaar yaad aayi
-  Door se nazar jo aaya mustafa ka rauza
+  Dur se nazar jo aaya Mustafa ka rauza
   
   3
-  Fatema ki betiyon kaleje ko sambhalo
-  Baazuon pe neel ke nishan sab chipalo
-  Tez hai hawa rida gire na sar se fizza
+  Fatema ki betiyoṅ kaleje ko sambhaalo
+  Baazuoṅ pe nil ke nishaaṅ sab chhupaalo
+  Tez hai hawa rida gire na sar se Fizza
   
   4
-  Ek do nahi tamaam ghar ki hai sunani
-  Karbala ne cheen li madine ki nishani
-  Rote hain haram Bashir parh raha hai nauha
+  Ek do nahiṅ tamaam ghar ki hai sunaani
+  Karbala ne chhin li Madine ki nishaani
+  Rote hai haram Bashir parh raha hai nauha
   
   5
-  Is qadar khamosh kiun ho ae Rabab bolo
+  Is qadar khaamosh kiuṅ ho ae Rabab bolo
   Apni laadli ko dogi kya jawaab bolo
-  Hai kahan mera sagheer poochegi jo sughra
+  Hai kahaaṅ mera saghir puchhegi jo Sughra
   
   6
-  Kis tarha wo gham ka maajra kahenge abid
-  Sochiye chacha se apne kya kahenge Abid
-  Wo jo poochle gale mein zakhm hai ye kaisa
+  Kis tarah wo gham ka maajra kaheṅge Aabid
+  Sochiye chacha se apne kya kaheṅge Aabid
+  Wo jo puchh le gale mein zakhm hai ye kaisa
   
   7
   Ae Bashir Alqama pe kya hua batao
-  Maa sawaal kar rahi hai waqiya sunao
-  Qaime jab jale to mera laadla kahan tha
+  Maaṅ sawaal kar rahi hai waaqia sunaao
+  Khaime jab jale to mera laadla kahaaṅ tha
   
   8
-  Aa rahe hai poochne ko haal ahle yasrab
-  Wo musibatein bayan karogi kaise zainab
-  Jin musibaton ne tum ko kar diya zaeefa
+  Aa rahe haiṅ puchhne ko haal ahl-e-Yasrab
+  Wo musibateṅ bayaaṅ karogi kaise Zainab
+  Jin musibatoṅ ne tum ko kar diya zaifa
   
   9
-  Kis tarha sitamgaron ne cheeni thi ridayein
-  Betiyan safar ka haal maa ko kya sunayein
+  Kis tarah sitamgaroṅ ne chhini thi ridaaeṅ
+  Betiyaaṅ safar ka haal maaṅ ko kya sunaaeṅ
   Ek hashr jannatul baqi mein hai barpa
   
   10
-  Le chala naseeb jab bhi rauza e nabi par
+  Le chala nasib jab bhi rauza-e-Nabi par
   Soch kar tarap uthe ye Aamir aur Nayyar
-  Ye jagah wo hai jahan Husain phir na aaya
+  Ye jagah wo hai jahaaṅ Husain phir na aaya
 # source_id: nohayonline:33ee7d0d3f8ac38e405b
 # source_url: https://www.nohayonline.com/details_content.php?id=2441
 # raw_sha256: be85540061dd58f12673d04d45d7d69439161cfbb41392f65887518be32429c4
@@ -77,8 +77,8 @@ romanLyrics: |-
 کیسا درد ناک ہے مسافروں کا قصہ
 
 ۲
-بی بیوں کو پھر وہی بہار یاد آی
-جو اجڑ چکی وہ یادگار یاد آی
+بی‌بیوں کو پھر وہی بہار یاد آئی
+جو اجڑ چکی وہ یادگار یاد آئی
 دور سے نظر جو آیا مصطفیٰ کا روضہ
 
 ۳
@@ -93,12 +93,12 @@ romanLyrics: |-
 
 ۵
 اس قدر خاموش کیوں ہو اے رباب بولو
-اپنی لاڈلی کو دو گی کیا جواب بو لو
+اپنی لاڈلی کو دو گی کیا جواب بولو
 ہے کہاں میرا صغیر پوچھے گی جو صغرا
 
 ۶
 کس طرح وہ غم کا ماجرا کہیں گے عابد
-سوچیےء چچا سے اپنے کیا کہیں گے عابد
+سوچیے چچا سے اپنے کیا کہیں گے عابد
 وہ جو پوچھ لے گلے میں زخم ہے یہ کیسا
 
 ۷
@@ -112,11 +112,11 @@ romanLyrics: |-
 جن مصیبتوں نے تم کو کر دیا ضعیفہ
 
 ۹
-کس طرح ستمگروں نے چھین لی رداییں
-بیٹیاں سفر کا حال ماں کو کیا سناییں
+کس طرح ستمگروں نے چھین لی ردائیں
+بیٹیاں سفر کا حال ماں کو کیا سنائیں
 ایک حشر جنت البقیع میں ہے برپا
 
 ۱۰
-لے چلا نصیب جب بھی روضہء نبی پر
+لے چلا نصیب جب بھی روضۂ نبی پر
 سوچ کر تڑپ اٹھے یہ عامر اور نیر
 یہ جگہ وہ ہے جہاں حسین پھر نہ آیا
