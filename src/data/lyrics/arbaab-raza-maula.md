@@ -1,64 +1,113 @@
 ---
-title: "Arbaab Raza Maula Mir Hasan Mir"
-language: "Roman Urdu"
+title: "ارباب رضا مولا"
+alternateTitle: "Arbaab Raza Maula"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+reciter: "Mir Hassan Mir"
+tags: ["noImage"]
+aliases: ["Arbaab Raza Maula Mir Hasan Mir"]
 recitationId: "arbaab-raza-maula-mir-hasan-mir"
 published: false
+romanLyrics: |-
+  1
+  Arbaab, Arbaab, Arbaab, Raza Maula
+  Sultan-e-Arab Shah-e-Khurasan Arbaab Raza Maula
+  Naubat hai teri shahi ka ailaan
+  Tabdiliyaṅ tu lauh pe karta hai qalam se
+  Waaqif hai zamaana tere andaaz-e-karam se
+  Allah bhi rakhta hai tera maan
+
+  2
+  Roze ki ziyarat mein ajab Hajj ka maza hai
+  Zamzam hai sabeel aur Mina sehn-e-shifa hai
+  Roza hai tera Kaaba-e-imaan
+  Pahunchaata hai mujh ko ye kisi aur fiza mein
+  Main sehn mein hote hue urta huṅ hawa mein
+  Hai farsh tera takht-e-Sulaimaan
+
+  3
+  Har ek pe kaunain mein ehsaan tere hain
+  Quraan ki qasam lulu o marjaan tere hain
+  Hai shaan teri Surah-e-Rahmaan
+  Ho aaye Najaf phir bhi khasaare mein rahega
+  Shabbir ke roze pe use kuch na milega
+  Hai jaan ke jo aap se anjaan
+
+  4
+  Mashhad ba-Khuda qata-e-az arsh-e-bareen ast
+  Jaarubkash-e-farsh-e-hurmat Ruh-ul-Ameen ast
+  Aql-e-bashar az fazl-e-tu hairaan
+  Raaziq ki taraf se hai tu hi rizq ka qaasim
+  Hai nazm-e-do aalam ka tu hi aathwaṅ naazim
+  Palte hain tere rizq pe Shiaan
+
+  5
+  Tu jaag raha hai to main sota huṅ sukun se
+  Banda tera waaqif hai tere kun fa yakun se
+  Hai tere tasarruf mein meri jaan
+  Hai arz yehi baargaah-e-Shah-e-Zamaan mein
+  Momin na rahe koi pareshaan jahaaṅ mein
+  Bas aap ka dushman ho pareshaan
+
+  6
+  Aulaad ka taalib koi taalib hai shifa ka
+  Masooma-e-Qum ka unhein de dijiye sadqa
+  Un sab pe bhi kar dijiye ehsaan
+  Dibal ko sana ke liye bulwaate the jaise
+  Hai arz ke mujh ko bhi bula leṅ kabhi aise
+  Hai Mir Hasan Mir ka armaan
+# editorial_uncertain: "Tajpoints Roman-only transcription; Persian couplet in stanza 4 and the first stanza wording require source audio review."
 # source_id: tajpoints:b0f5c229544443f8434a
 # source_url: https://tajpoints.com/2021/06/arbaab-raza-maula-mir-hasan-mir-lyrics.html
 # raw_sha256: 0bcce265db5459a4af57422ac2665393f8329886b026d47c8545b7a82bec27ca
 ---
 
-Arbaab Raza Maula Mir Hasan Mir
+۱
+ارباب ارباب ارباب رضا مولا
+سلطانِ عرب شاہِ خراسان ارباب رضا مولا
+نوبت ہے تیری شاہی کا اعلان
+تبدیلیاں تو لوح پہ کرتا ہے قلم سے
+واقف ہے زمانہ تیرے اندازِ کرم سے
+اللہ بھی رکھتا ہے تیرا مان
 
-1
-Arbaab, Arbaab, Arbaab, Raza Maula
-Sultan-e-Arab Shah-e-Khurasan Arbaab Raza Maula
-Nobat Hai Teri Shahi Ka Ayelan
-Tabdiliyan Tu Loh Pe Karta Hai Qalam Se
-Waqif Hai Zamana Tere Andaz-e-Karam Se
-ALLAH Bhi Rakhta Hai Tera Maan
+۲
+روضے کی زیارت میں عجب حج کا مزا ہے
+زمزم ہے سبیل اور منیٰ صحنِ شفا ہے
+روضہ ہے تیرا کعبۂ ایمان
+پہنچاتا ہے مجھ کو یہ کسی اور فضا میں
+میں صحن میں ہوتے ہوئے اڑتا ہوں ہوا میں
+ہے فرش تیرا تختِ سلیمان
 
-2
-Rozay Ki Ziyarat Mein Ajab Hajj Ka Maza Hai
-Zam Zam Hai Sabeel Our Mina Sehan-e-Shifa Hai
-Roza Hai Tera Kaba-e-Eman
-Pohnchata Hai Mujh Ko Yeh Kissi Our Fiza Mein
-Main Sehan Mein Hotey Hoye Urta Hoon Hawa Mein
-Hai Farsh Tera Takht-e-Suleman
+۳
+ہر ایک پہ کونین میں احسان تیرے ہیں
+قرآن کی قسم لؤلؤ و مرجان تیرے ہیں
+ہے شان تیری سورۂ رحمان
+ہو آئے نجف پھر بھی خسارے میں رہے گا
+شبیر کے روضے پہ اسے کچھ نہ ملے گا
+ہے جان کے جو آپ سے انجان
 
-3
-Har Aik Pe Konain Mein Ahsan Tere Hain
-Quraan Ki Qasam Lolo-o-Marjan Tere Hain
-Hai Shan Teri Sorah-e-Rehman
-Ho Aaye Najaf Phir Bhi Khasarey Mein Rahe Ga
-Shabeer Ke Rozay Pe Ossay Kuch Na Miley Ga
-Hai Jan Ke Jo Aap Se Anjan
+۴
+مشہد بخدا قطعہ ای از عرشِ بریں است
+جاروب کشِ فرشِ حرمت روح الامین است
+عقلِ بشر از فضلِ تو حیران
+رازق کی طرف سے ہے تو ہی رزق کا قاسم
+ہے نظمِ دو عالم کا تو ہی آٹھواں ناظم
+پلتے ہیں تیرے رزق پہ شیعان
 
-4
-Mashhad Ba Khuda Qata E Az Arsh Bareen Asat
-Jarobkash Farsh Hurmat Rooh Al-Amin Asat
-Aqal Bashar Az Fazal Tu Hairan
-Raziq Ki Taraf Se Hai Tu Hi Rizq Ka Qasim
-Hai Nazam-e-Do Aalam Ka Tu Hi Aathwaan Nazim
-Paltay Hain Tere Rizq Pe Shiaan
+۵
+تو جاگ رہا ہے تو میں سوتا ہوں سکون سے
+بندہ تیرا واقف ہے تیرے کن فیکون سے
+ہے تیرے تصرف میں میری جان
+ہے عرض یہی بارگاہِ شاہِ زماں میں
+مومن نہ رہے کوئی پریشان جہاں میں
+بس آپ کا دشمن ہو پریشان
 
-5
-Tu Jaag Raha Hai Tu Main Sota Hoon Sakoon Se
-Banda Tera Waqif Hai Tere Kun Fa Ya Kaoon Se
-Hai Tere Tasaruf Mein Meri Jan
-Hai Arz Yehi Bargah-e-Shah-e-Zamaan Mein
-Momin Na Rahe Koi Pareshan Jahan Mein
-Bas Aap Ka Dushman Ho Pareshan
-
-6
-Aoulad Ka Talib Koi Talib Hai Shifa Ka
-Masooma-e-Qum Ka Unhein De Dijiye Sadqa
-Unn Sab Pe Bhi Kar Dijiye Ahsan
-Debal Ko Sana Ke Liye Bulwatay They Jaisay
-Hai Arz Keh Mujh Ko Bhi Bola Lein Kabhi Aisay
-Hai:MIR HASAN MIR: Ka Arman
+۶
+اولاد کا طالب کوئی طالب ہے شفا کا
+معصومۂ قم کا انہیں دے دیجیے صدقہ
+ان سب پہ بھی کر دیجیے احسان
+دعبل کو ثنا کے لیے بلواتے تھے جیسے
+ہے عرض کہ مجھ کو بھی بلا لیں کبھی ایسے
+ہے میر حسن میر کا ارمان
