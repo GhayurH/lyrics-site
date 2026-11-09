@@ -9,16 +9,17 @@ poet: "Bilal Kazmi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Ajab zehra ke bete ki ghareebi ka zamana hai
-  Kamar tooti hai aur abbas ka laasha uthana hai
+  Ajab Zehra ke bete ki gharibi ka zamana hai
+  Kamar tuti hai aur Abbas ka lasha uthana hai
 
   1
   Taraayi par jise loota hai mil kar shaam waalon ne
-  Ali e murtaza ke daaman e dil ka khazana hai
+  Ali-e-Murtaza ke daman-e-dil ka khazana hai
 
   2
-  Layeen kehte thay abbas e jari ko qatl kar daalo
+  Lain kehte the Abbas-e-Jari ko qatl kar dalo
   Agar is aalam e ghurbat mein sarwar ko rulana hai
 
   3
@@ -27,11 +28,11 @@ romanLyrics: |-
 
   4
   Kaha shabbir ne amma sambhalo haath ghazi ke
-  Inhe baali sakina ke nigahon se chipana hai
+  Inheṅ bali Sakina ki nigahoṅ se chhupana hai
 
   5
-  Ridayein ro ke kehti thi na jao jaanib e darya
-  Tumhe to zainab o kulsoom ka parda bachana hai
+  Ridaeṅ ro ke kehti thiṅ na jao jaanib-e-darya
+  Tumheṅ to Zainab o Kulsum ka parda bachana hai
 
   6
   Hua hai imtehan kab khatm ghazi ke kate sar ka
@@ -43,10 +44,10 @@ romanLyrics: |-
 
   8
   Ye keh kar dasht mein sheh turbat e asghar banate hai
-  Mujhe ay zulfeqar ab sabr tera aazmana hai
+  Mujhe Ae Zulfiqar ab sabr tera aazmana hai
 
   9
-  Bilal e kazmi ta zindagi abbas ke gham mein
+  Bilal-e-Kazmi ta zindagi Abbas ke gham mein
   Yunhi likh likh ke masomeen ko nauhe sunana hai
 # source_id: nohayonline:122dc9d10c9d0042e086
 # source_url: https://www.nohayonline.com/details_content.php?id=2876
@@ -57,7 +58,7 @@ romanLyrics: |-
 
 ۱
 ترای پر جسے لوٹا ہے مل کر شام والوں نے
-علی مرتضیٰ کے دامان دل کا خزانہ ہے
+علیِ مرتضیٰ کے دامنِ دل کا خزانہ ہے
 
 ۲
 لعیں کہتے تھے عباس جری کو قتل کر ڈالو
@@ -69,11 +70,11 @@ romanLyrics: |-
 
 ۴
 کہا شبیر نے اماں سنبھالو ہاتھ غازی کے
-انہیں بالی سکینہ کے نگاہوں سے چھپانا ہے
+انہیں بالی سکینہ کی نگاہوں سے چھپانا ہے
 
 ۵
-رداییں رو کے کہتی تھی نہ جاؤ جانب دریا
-تمہیں تو زینب و کلثوم کا بچانا ہے
+ردائیں رو کے کہتی تھیں نہ جاؤ جانبِ دریا
+تمہیں تو زینب و کلثوم کا پردہ بچانا ہے
 
 ۶
 ہوا ہے امتحاں کب ختم غازی کے کٹے سر کا

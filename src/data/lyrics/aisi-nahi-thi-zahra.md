@@ -9,20 +9,21 @@ poet: "Zeeshan Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Nasir Asghar Party (SM)"
 romanLyrics: |-
-  Dekho madine waalon zakhmi hai jiska chehra
-  Aisi nahi thi zahra
-  Tooti hai phasliyan aur pehlu bhi hai shikasta
+  Dekho Madine waloṅ zakhmi hai jis ka chehra
+  Aisi nahiṅ thi Zahra
+  Tuti hai pasliyaṅ aur pehlu bhi hai shikasta
 
   1
-  Ummat ne sayyeda ka itna lahoo bahaya
-  Pehlu se fatema ke jab jalta dar uthaya
-  Zahra ko dekhte hi ro ro ke boli fizza
+  Ummat ne Sayyeda ka itna lahu bahaya
+  Pehlu se Fatima ke jab jalta dar uthaya
+  Zahra ko dekhte hi ro ro ke boli Fizza
 
   2
   Aulaad waalon socho kya waqt hoga maa pe
   Bacchon ke saamne jab khaati thi wo tamache
-  Chadar mein ab chupa kar rakhti hai gaal apna
+  Chadar mein ab chhupa kar rakhti hai gaal apna
 
   3
   Darbar jab gayi thi haalat nahi thi aisi
@@ -30,17 +31,17 @@ romanLyrics: |-
   Athaarwein baras mein lagti hai ek zaeefa
 
   4
-  Ye qabre mustafa par ro kar ali pukare
+  Ye qabr-e-Mustafa par ro kar Ali pukare
   Zahra ko zaalimon ne hai taaziyane maare
   Jab aap ne ali ko saumpa tha haath uska
 
   5
-  Kehti hai chalte chalte fizza mai gir na jaaun
+  Kehti hai chalte chalte Fizza main gir na jauṅ
   Hai warm is khadar ke uth'te nahi hai paaun
   Chalti hai apne ghar mein ab le ke wo sahara
 
   6
-  Bibi ko dafn kar ke zeeshan bole maula
+  Bibi ko dafn kar ke Zeeshan bole Maula
   Choda hai saath uska ay rooh tu ne warna
   Baade rasool haye chode ali ko tanha
 # source_id: nohayonline:308b9bfa10419854a0eb
@@ -59,10 +60,10 @@ romanLyrics: |-
 ۲
 اولاد والوں سوچو کیا وقت ہوگا ماں پہ
 بچوں کے سامنے جب کھاتی تھی وہ طمانچے
-چادر میں اب چھپا کر رکھ کے گتی ہے گال اپنا
+چادر میں اب چھپا کر رکھتی ہے گال اپنا
 
 ۳
-دربار جب گیء تھی حالت نہیں تھی ایسی
+دربار جب گئی تھی حالت نہیں تھی ایسی
 لوٹی ہے جب سے دیکھو بالوں میں ہے سفیدی
 اٹھارویں برس میں لگتی ہے ایک ضعیفہ
 
@@ -72,11 +73,11 @@ romanLyrics: |-
 جب آپ نے علی کو سونپا تھا ہاتھ اس کا
 
 ۵
-کہتی ہے چلتے فضہ میں گر نہ جاؤں
-ہے ورم اس قدر کے اٹھتے نہ ہے پاؤں
-چلتی ہے اپنے گھر میں اب لے کے وہ سہارے
+کہتی ہے چلتے چلتے فضہ میں گر نہ جاؤں
+ہے ورم اس قدر کہ اٹھتے نہیں ہیں پاؤں
+چلتی ہے اپنے گھر میں اب لے کے وہ سہارا
 
 ۶
 بی بی کو دفن کر کے زیشان بولے مولا
 چھوڑا ہے ساتھ اس کا اے روح تو نے ورنہ
-بعد رسول ہاے چھوڑے علی کو تنہا
+بعدِ رسول ہائے چھوڑے علی کو تنہا

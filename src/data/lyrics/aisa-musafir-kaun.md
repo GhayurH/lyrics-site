@@ -9,21 +9,22 @@ poet: "Bilal Kazmi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anj. Masoomeen"
 romanLyrics: |-
   Aisa musafir kaun hai
-  Ho paon zakhmon se bhare aisa musafir kaun hai
+  Ho paaoṅ zakhmoṅ se bhare aisa musafir kaun hai
   Rote ho jisko raaste aisa musafir kaun hai
 
   1
-  Waada nibhane ke liye deen ko bachane ke liye
-  Kaanton pe jo chalta rahe aisa musafir kaun hai
+  Wada nibhane ke liye din ko bachane ke liye
+  Kantoṅ pe jo chalta rahe aisa musafir kaun hai
 
   2
   Har gaam jisko bekhata durre lagaye ashkiyan
   Wo shukr ka sajda kare aisa musafir kaun hai
 
   3
-  Tujhko khuda ka waasta ay karbala tu hi bata
+  Tujh ko Khuda ka wasta Ae Karbala tu hi bata
   Ghurbat mein jis ka ghar luta aisa musafir kaun hai
 
   4
@@ -31,19 +32,19 @@ romanLyrics: |-
   Taa zindagi rota rahe aisa musafir kaun hai
 
   5
-  Jo paikar e hassaas ho jo waqt ka abbas ho
+  Jo paikar-e-hassas ho jo waqt ka Abbas ho
   Ghairat jise sajda kare aisa musafir kaun hai
 
   6
   Turbat banaye qaid mein mayyat uthaye qaid mein
-  Poocho zara tareekh se aisa musafir kaun hai
+  Puchho zara tarikh se aisa musafir kaun hai
 
   7
   Qaidi ki ghurbat dekh kar jiski musibat dekh kar
-  Ayyub bhi nauha pade aisa musafir kaun hai
+  Ayyub bhi noha parhe aisa musafir kaun hai
 
   8
-  Gardan mein ho tauq e garan aur paon mein ho bediyan
+  Gardan mein ho tauq-e-garaṅ aur paaoṅ mein ho beriyaṅ
   Taa shaam wo paidal chale aisa musafir kaun hai
 
   9
@@ -51,7 +52,7 @@ romanLyrics: |-
   Darbar mein jaana pade aisa musafir kaun hai
 
   10
-  Pehchaan jo tu ne likhi haan ay bilal kazmi
+  Pehchan jo tu ne likhi haaṅ Ae Bilal Kazmi
   Juz abid e bemaar ke aisa musafir kaun hai
 # source_id: nohayonline:04496eadceb6612a950a
 # source_url: https://www.nohayonline.com/details_content.php?id=2761
@@ -63,10 +64,10 @@ romanLyrics: |-
 
 ۱
 وعدہ نبھانے کے لئے دیں کو بچانے کے لئے
-کانٹوں پہ جو چلتا رہا ایسا مسافر کون ہے
+کانٹوں پہ جو چلتا رہے ایسا مسافر کون ہے
 
 ۲
-ہر گام جس کو بے خطا درے لگاے اشقیاء
+ہر گام جس کو بے خطا درے لگائے اشقیاء
 وہ شکر کا سجدہ کرے ایسا مسافر کون ہے
 
 ۳
@@ -82,15 +83,15 @@ romanLyrics: |-
 غیرت جسے سجدہ کرے ایسا مسافر کون ہے
 
 ۶
-تربت بناے قید میں میت اٹھاے قید میں
-پوچھو زرا تاریخ سے ایسا مسافر کون ہے
+تربت بنائے قید میں میت اٹھائے قید میں
+پوچھو ذرا تاریخ سے ایسا مسافر کون ہے
 
 ۷
 قیدی کی غربت دیکھ کر جسکی مصیبت دیکھ کر
-عیوب بھی نوحہ پڑھے ایسا مسافر کون ہے
+ایوب بھی نوحہ پڑھے ایسا مسافر کون ہے
 
 ۸
-گردن میں ہو طوق گردن اور پاؤں میں ہو بیڑیاں
+گردن میں ہو طوقِ گراں اور پاؤں میں ہو بیڑیاں
 تا شام وہ پیدل چلے ایسا مسافر کون ہے
 
 ۹
