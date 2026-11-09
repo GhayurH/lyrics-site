@@ -1,6 +1,6 @@
 ---
-title: "ابوالفضل با وفا علمدار لشکرم"
-alternateTitle: "Abul Fazle Bawafa"
+title: "ابوالفضل باوفا علمدارِ لشکرم"
+alternateTitle: "Abul Fazl-e-Bawafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,75 +9,76 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Nasir Zaidi"
 romanLyrics: |-
-  Abul fazl e bawafa alamdar e lashkaram
-  Maahe hashmi nasab ameere dilawaram
+  Abul Fazl-e-Bawafa Alamdar-e-Lashkaram
+  Mah-e-Hashmi nasab Amir-e-Dilawaram
 
   1
-  Tu shahenshahe wafadari hai
-  Tera gham misle hawa jaari hai
+  Tu shahenshah-e-wafadari hai
+  Tera gham misl-e-hawa jaari hai
   Tere parcham ki chamak kya kehna
-  Taa qayamat ye alamdari hai
+  Ta qayamat ye alamdari hai
 
   2
-  Bakhuda chashm e karbala tum ho
-  Hum fakheeron kaa aasra tum ho
-  Aap ki zaat hai shaoor e falaak
-  Baazu e ibn e fatema tum ho
+  Bakhuda chashm-e-Karbala tum ho
+  Hum faqiroṅ ka aasra tum ho
+  Aap ki zaat hai shaur-e-falak
+  Bazu-e-Ibn-e-Fatima tum ho
 
   3
-  Rukh e pur noor surat e gul hai
-  Juz nahi aks e hyderi kul hai
-  Tum uloom e ali ke taare ho
-  Teri jurrat ka chaar soo ghul hai
+  Rukh-e-purnur surat-e-gul hai
+  Juz nahiṅ aks-e-Haideri kul hai
+  Tum ulum-e-Ali ke taare ho
+  Teri jurrat ka chaar su ghul hai
 
   4
-  Tum sada e dili ki sunte ho
-  Yun bhi haajat rawayi karte ho
-  Dast geeri baghair baazu bhi
-  Chauda sadiyon se karte rehte ho
+  Tum sada-e-dili ki sunte ho
+  Yuṅ bhi hajat-rawai karte ho
+  Dastgiri baghair bazu bhi
+  Chaudah sadiyoṅ se karte rehte ho
 
   5
-  Ay ghulam e hussain ibne ali
-  Bar sar e alqama bhi tashnalabi
-  Tere hi khoon se tar tha tera alam
-  Pyaas jeeti hai alqama haari
+  Ae Ghulam-e-Husain Ibn-e-Ali
+  Barsar-e-Alqama bhi tashnalabi
+  Tere hi khun se tar tha tera alam
+  Pyas jiti hai Alqama haari
 
   6
-  Bain karti hai ek masooma
-  Wo sakina gala bandha jis ka
-  Aaj bhi tere intezaar mein hai
-  Ab bhi zindan se aa rahi hai sada
+  Bain karti hai ek masuma
+  Wo Sakina gala bandha jis ka
+  Aaj bhi tere intezar mein hai
+  Aaj bhi zindan se aa rahi hai sada
 
   7
-  Teer ek aankh mein tha ek mein lahoo
-  Jab kiya hai paye namaz wazoo
-  Qalb e zainab lahoo ugalne laga
-  Aayi pani mein jab teri khushboo
+  Tir ek aankh mein tha ek mein lahu
+  Jab kiya hai pae-namaz wuzu
+  Qalb-e-Zainab lahu ugalne laga
+  Aai pani mein jab teri khushbu
 
   8
-  Sar barehna thi jis ghadi zainab
-  Zer e naiza thi jab khadi zainab
-  Nok e naiza pe tera sar na ruka
-  Khaak pe ro ke gir padi zainab
+  Sar barehna thi jis ghari Zainab
+  Zer-e-neza thi jab khari Zainab
+  Nok-e-neza pe tera sar na ruka
+  Khaak pe ro ke gir pari Zainab
 
   9
-  Tere laashe pe jab gaye shabbir
-  Dekha paywast aankh mein hai teer
-  Shiddat e gham se jhuk gayi thi kamar
-  Khoon mein ghaltan thi baap ki tasveer
+  Tere lashe pe jab gaye Shabbir
+  Dekha paiwast aankh mein hai tir
+  Shiddat-e-gham se jhuk gayi thi kamar
+  Khun mein ghaltan thi baap ki tasvir
 
   10
-  Zindagi bhar hamein kaha aaqa
-  Bole ghazi se shaah e karbobala
-  Mere nasir meri rehaan dili
-  Bhai keh do hamein paye zehra
+  Zindagi bhar hameṅ kaha Aaqa
+  Bole Ghazi se Shah-e-Karbobala
+  Mere Nasir meri Rehaan dili
+  Bhai keh do hameṅ pae Zehra
 # source_id: nohayonline:b3f79b8a895763a48336
 # source_url: https://www.nohayonline.com/details_content.php?id=1882
 # raw_sha256: 36b2538529a91b3587d7d4c3eb34d2e78aaac413023045ee438ccfcadf08a57a
 ---
-ابوالفضل با وفا علمدار لشکرم
-ماہ ہاشمی نصب امیر دلاورم
+ابوالفضل باوفا علمدارِ لشکرم
+ماہِ ہاشمی نسب امیرِ دلاورم
 
 ۱
 تو شہنشاہِ وفاداری ہے
@@ -95,7 +96,7 @@ romanLyrics: |-
 رخ پر نور صورت گل ہے
 جز نہیں عکس حیدری کل ہے
 تم علومِ علی کے تارے ہو
-تیری جرأت کا چار سو فل ہے
+تیری جرأت کا چار سو غل ہے
 
 ۴
 تم صداے دلی کی سنتے ہو
@@ -106,7 +107,7 @@ romanLyrics: |-
 ۵
 اے غلام حسین ابنِ علی
 بر سر علقمہ بھی تشنہ لبی
-تیرے ہی خون سے تر تھا تیرا الم
+تیرے ہی خون سے تر تھا تیرا علم
 پیاس جیتی ہے علقمہ ہاری
 
 ۶
@@ -119,7 +120,7 @@ romanLyrics: |-
 تیر اک آنکھ میں تھا اک میں لہو
 جب کیا ہے پےء نماز وضو
 قلب زینب لہو اگلنے لگا
-اب پانی میں جب تیری خوشبو
+آئی پانی میں جب تیری خوشبو
 
 ۸
 سر برہنہ تھی جس گھڑی زینب
@@ -128,13 +129,13 @@ romanLyrics: |-
 خاک پہ رو کے گر پڑی زینب
 
 ۹
-تیرے لاشے پہ جب گےء شبیر
+تیرے لاشے پہ جب گئے شبیر
 دیکھا پیوست آنکھ میں ہے تیر
-شدت غم سے جھک گیء تھی کمر
+شدتِ غم سے جھک گئی تھی کمر
 خوں میں غلطاں تھی باپ کی تصویر
 
 ۱۰
 زندگی بھر ہمیں کہا آقا
 بولے غازی سے شاہ کربوبلا
 میرے ناصر میری ریحان دلی
-بھای کہہ دو ہو ہمیں پےء زہرا
+بھائی کہہ دو ہو ہمیں پےء زہرا
