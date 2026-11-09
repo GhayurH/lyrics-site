@@ -1,5 +1,5 @@
 ---
-title: "العتش کی درِ خیمے سے صدا آنے لگی"
+title: "العطش کی درِ خیمے سے صدا آنے لگی"
 alternateTitle: "Al Atash Ki Dare"
 language: "Urdu"
 lang: "ur"
@@ -8,105 +8,105 @@ kalamType: "Noha"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Tableegh e Imamia"
 romanLyrics: |-
-  Al atash ki dare qaime se sada aane lagi
-  
+  Al atash ki dar-e-khaime se sada aane lagi
+
   1
-  Mehre purtaab o tapish apne safar par jo chala
-  Roshni hogayi darya ka kanara chamka
-  Rafta rafta ye sama dhoop ki shiddat mein dhala
-  Rayt mein aag lagi dasht hararat se jala
-  Garm hoke jo sehra se hawa aane lagi
-  
+  Mehr-e-purtab o tapish apne safar par jo chala
+  Roshni ho gayi darya ka kinara chamka
+  Rafta rafta ye samaṅ dhup ki shiddat mein dhala
+  Ret mein aag lagi dasht hararat se jala
+  Garm ho ke jo sehra se hawa aane lagi
+
   2
-  Sunke abbas bade ask fishan suye haram
-  Dekha bachon ki jo ye tashnalabi ka aalam
-  Khuskh honton pe zaban phair rahe thay paiham
-  Kaha shehzadi sakina ne ye ba deedae nam
-  Teen din hogaye hai karna sake lab kalabi
-  Mai bhi pyasi hoo chacha jaan ali asghar bhi
-  
+  Sun ke Abbas barhe ashkfishan su-e-Haram
+  Dekha bachchoṅ ki jo ye tashnalabi ka alam
+  Khushk hontoṅ pe zabaṅ pher rahe the paiham
+  Kaha Shahzadi Sakina ne ye ba-dida-e-nam
+  Tin din ho gaye haiṅ kar na sake lab qalbi
+  Main bhi pyasi huṅ Chacha jaan Ali Asghar bhi
+
   3
-  Aaye abbas jhukaye hue sar sheh ke khareeb
-  Paon par sher ne rakh di shahe waala ke jabeen
-  Jaag utha qalbe wafadar mein soz-e-yaqeen
-  Arz ki ran ki raza do mujhe ay qibla-e-deen
-  Sheh ko abbas ka israr-e-raza tha dar pesh
-  Ishq ko marhal-e-hijr wafa tha dar pesh
-  
+  Aae Abbas jhukae hue sar Sheh ke qarib
+  Paaoṅ par sher ne rakh di Shah-e-Wala ki jabin
+  Jaag utha qalb-e-wafadar mein soz-e-yaqin
+  Arz ki ran ki raza do mujhe Ae Qibla-e-Din
+  Sheh ko Abbas ka israr-e-raza tha darpesh
+  Ishq ko marhala-e-hijr-e-wafa tha darpesh
+
   4
-  Al atash kehti hai jab bali sakina aaqa
-  Tooth jaata hai mere dil ka nageena aaqa
-  Ab to kuch aur hi kehta hai kareena aaqa
-  Aap par saaya e sarkar e madina aaqa
-  Hukm hojaye to is shaan se pani laun
-  Qaid kar mauja e kausar ki rawani laun
-  
+  Jab bali Sakina Aaqa al atash kehti hai
+  Tut jaata hai mere dil ka nagina Aaqa
+  Ab to kuchh aur hi kehta hai qarina Aaqa
+  Aap par saya-e-Sarkar-e-Madina Aaqa
+  Hukm ho jae to is shaan se pani lauṅ
+  Qaid kar mauj-e-Kausar ki rawani lauṅ
+
   5
-  Tum chale jaoge reh jayenge ek hum tanha
-  Ranj par ranj sahe jayenge ek hum tanha
-  Aah kis kis ka kiye jayenge matam tanha
+  Tum chale jaoge reh jaeṅge ek hum tanha
+  Ranj par ranj sahe jaeṅge ek hum tanha
+  Aah kis kis ka kiye jaeṅge matam tanha
   Hum se uthega bahattar ka na ye gham tanha
-  Kya tumhe ban ki balaon ke hawale kar doo
-  Shamma raushan ko hawaon ke hawale kar doo
-  
+  Kya tumheṅ ban ki balaoṅ ke hawale kar duṅ
+  Shamma roshan ko hawaoṅ ke hawale kar duṅ
+
   6
-  Jao bhai tumhe allah o nabi ko saumpa
-  Lo tumhe saaya e daaman e ali ko saumpa
-  Jo sabhi ka hai khuda uske wali ko saumpa
-  Yani tum jiski amanat ho usi ko saumpa
-  Hum to har haal mein hai saabe rashakil abbas
-  Lo alam aur khuda hafiz o nasir abbas
+  Jao bhai tumheṅ Allah o Nabi ko sauṅpa
+  Lo tumheṅ saya-e-daman-e-Ali ko sauṅpa
+  Jo sabhi ka hai Khuda us ke Wali ko sauṅpa
+  Yani tum jis ki amanat ho usi ko sauṅpa
+  Hum to har haal mein haiṅ Sabir o Shakir Abbas
+  Lo alam aur Khuda Hafiz o Nasir Abbas
 # source_id: nohayonline:b4ea0f2cc7f2493ed28d
 # source_url: https://www.nohayonline.com/details_content.php?id=52
 # raw_sha256: f4f6d762981e18c7609532575d9f2d1903ac380e0db0e1629f1d56ad8395de74
 ---
-
-العتش کی درِ خیمے سے صدا آنے لگی
+العطش کی درِ خیمے سے صدا آنے لگی
 
 ۱
 مہرِ پُرتاب و تپش اپنے سفر پر جو چلا
-روشنی ہو گئی دریا کا کنارہاچمکا
+روشنی ہو گئی دریا کا کنارہ چمکا
 رفتہ رفتہ یہ سماں دھوپ کی شدت میں ڈھلا
 ریت میں آگ لگی دشت حرارت سے جلا
-گرم ہو کہ جو صحرا سے ہوا آنے لگی
+گرم ہو کے جو صحرا سے ہوا آنے لگی
 
 ۲
-سُن کہ عباس بڑھے اشک فشاں سوئے حرم
+سن کے عباس بڑھے اشک فشاں سوئے حرم
 دیکھا بچوں کی جو یہ تشنہ لبی کا عالم
 خشک ہونٹوں پہ زباں پھیر رہے تھے پیہم
-کہا شہزادی سکینہ نے یہ بادیدئہ نم
+کہا شہزادی سکینہ نے یہ با دیدۂ نم
 تین دن ہو گئے ہیں کر نہ سکے لب قلبی
 میں بھی پیاسی ہوں چچا جان علی اصغر بھی
 
 ۳
-ہائے عباس جھکائے سر شِہ کے قریب
-پائوں پر شیر نے رکھ دی شاہِ والا کے جبیں
-جاگ اُٹھا قلبِ وفادار میں پھر سوزِ یقیں
-عرض کی رن کی رضا دو مجھے قبلہِ دیں
-شِہ کو عباس کا اسرارِ رضا تھا درپیش
-عشق کو مرحلہِ ہجرِ وفا تھا درپیش
+آئے عباس جھکائے ہوئے سر شہ کے قریب
+پاؤں پر شیر نے رکھ دی شاہِ والا کی جبیں
+جاگ اٹھا قلبِ وفادار میں سوزِ یقیں
+عرض کی رن کی رضا دو مجھے اے قبلۂ دیں
+شہ کو عباس کا اصرارِ رضا تھا درپیش
+عشق کو مرحلۂ ہجرِ وفا تھا درپیش
 
 ۴
-جب بالی سکینہ آقا العتش کہتی ہے
+جب بالی سکینہ آقا العطش کہتی ہے
 ٹوٹ جاتا ہے میرے دل کا نگینہ آقا
 اب تو کچھ اور ہی کہتا ہے قرینہ آقا
-آپ پر سایہِ سرکارِ مدینہ آقا
-حُکم ہو جائے تو اس شان سے پانی لائوں
-قید کر موجِ کوثر کی روانی لائوں
+آپ پر سایۂ سرکارِ مدینہ آقا
+حکم ہو جائے تو اس شان سے پانی لاؤں
+قید کر موجِ کوثر کی روانی لاؤں
 
 ۵
-تم چلے جائو گے رہ جائیں گے اک ہم تنہا
+تم چلے جاؤ گے رہ جائیں گے اک ہم تنہا
 رنج پر رنج سہے جائیں گے اک ہم تنہا
-آہ کس کس کا کیئے جائیں گے ماتم تنہا
-ہم سے اُٹھے گا بہتر کا نہ یہ غم تنہا
-کیا تمہیں بن کی بلائوں کے حوالے کر دوں
-شمع روشن کو ہوائوں کے حوالے کر دوں
+آہ کس کس کا کیے جائیں گے ماتم تنہا
+ہم سے اٹھے گا بہتر کا نہ یہ غم تنہا
+کیا تمہیں بن کی بلاؤں کے حوالے کر دوں
+شمع روشن کو ہواؤں کے حوالے کر دوں
 
 ۶
-جائو بھائی تمہیں اللہ و نبی کو سونپا
-لو تمہیں سایہِ دامانِ علی کو سونپا
-جو سبھی کا ہے خُدا اُسکے ولی کو سونپا
-یعنی تم جس کی امانت ہو اُسی کو سونپا
-ہم تو ہر حال میں ہیںصابر و شاکر عباس
-لو علم اور خُدا حافظ و ناصر عباس
+جاؤ بھائی تمہیں اللہ و نبی کو سونپا
+لو تمہیں سایۂ دامانِ علی کو سونپا
+جو سبھی کا ہے خدا اس کے ولی کو سونپا
+یعنی تم جس کی امانت ہو اسی کو سونپا
+ہم تو ہر حال میں ہیں صابر و شاکر عباس
+لو علم اور خدا حافظ و ناصر عباس
