@@ -9,46 +9,47 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Nadeem Sarwar"
 romanLyrics: |-
-  Aisa alam hai kahan
-  Aisa jawan hai kahan
+  Aisa alam hai kahaṅ
+  Aisa jawan hai kahaṅ
 
   1
   Ye hai abu talib ka gharana
   Is pe khuda ka khaas karam hai
-  Saare arab mein saare ajam mein
-  Kisko mila ye jaah o hasham hai
+  Saare Arab mein saare Ajam mein
+  Kis ko mila ye jaah o hasham hai
   In mein koi yasin o muzammil
   In mein koi sardar e iram hai
-  Uski alag hi shaan hai maula
-  Jisko mila hyder ka alam hai
+  Us ki alag hi shaan hai Maula
+  Jis ko mila Haider ka alam hai
 
   2
   Kaisa saja hai kaisa haseen hai
   Karbobala mein shaah ka lashkar
   Yun to sabhi hai sher e dilawar
-  Aun o mphamed qasim o akbar
+  Aun o Muhammad Qasim o Akbar
   Ibne mazahir wehbe kalbi
-  John bhi hurr bhi saare dilawar
+  John bhi Hurr bhi saare dilawar
   Apni jagah ye sab hai bahadur
   Fauj mein teri ay shahe safdar
 
   3
-  Baade namaze fajr ziyarat
-  Tere alam ki karta hoo
+  Baad-e-namaz-e-Fajr ziyarat
+  Tere alam ki karta huṅ
   Sharf ghulami ka mil jaaye
-  Mai ye wazeefa padta hoo
+  Main ye wazifa parhta huṅ
   Kar ke ziyarat tere alam ki
-  Phir mai ghar se chalta hoo
+  Phir main ghar se chalta huṅ
   Saaye mein chauda masoomon ke
-  Shukhre khuda mein rehta hoo
+  Shukr-e-Khuda mein rehta huṅ
 
   4
-  Hum to sag e darbar e ali hai
+  Hum to sag-e-darbar-e-Ali haiṅ
   Khaas ye tujhse rishta hai
   Jadh bhi hai tera kul ka maula
   Tu bhi hamara aaqa hai
-  Tere faqeeron mein ay ghazi
+  Tere faqiroṅ mein Ae Ghazi
   Arsh nasheen bhi rehta hai
   Sindh mein aao maula qadam par
   Laal qalandar kehta hai
@@ -56,22 +57,22 @@ romanLyrics: |-
   5
   Shaam ke lashkar mein halchal thi
   Kaun jari ab aata hai
-  Boodhe jawano se kehte thay
+  Burhe jawanoṅ se kehte the
   Ye to ali ab aata hai
   Sar pe khuda thokar mein qaza hai
-  Qehre jali ab aata hai
+  Qahr-e-Jali ab aata hai
   Kehna pada ahmed ko ali se
   Tera wasi ab aata hai
 
   6
   Teri shahadat se kunbe par
-  Kaisi qayamat toot gayi
+  Kaisi qayamat tut gayi
   Jis ko kaha karte thay aaqa
   Qatl hua wo bhai bhi
-  Sar se chini zainab ke chadar
+  Sar se chhini Zainab ki chadar
   Teri sakina qaid hui
   Haye teri majboori ghazi
-  Maa zehra ye kehti rahi
+  Maaṅ Zehra ye kehti rahi
 
   7
   Ab bhi azakhano mein parcham
@@ -80,7 +81,7 @@ romanLyrics: |-
   Koi lipat ke rota hai
   Tere alam ka surkh pharera
   Haye sakina kehta hai
-  Tum hi kya rehaan o sarwar
+  Tum hi kya Rehaan o Sarwar
   Sab ki zaban par rehta hai
 # source_id: nohayonline:14f8c43fff19f0141257
 # source_url: https://www.nohayonline.com/details_content.php?id=3030
@@ -98,7 +99,7 @@ romanLyrics: |-
 سارے عرب میں سارے اجم میں
 کس کو ملا یہ جاہ و ہشم ہے
 ان میں کوئی یاسین و مزمل
-ان‌ میں کوئی سردار ارم ہے
+ان میں کوئی سردارِ ارم ہے
 اس کی الگ ہی شان ہے مولا
 جس کو ملا حیدر کا علم ہے
 
@@ -119,11 +120,11 @@ romanLyrics: |-
 میں یہ وظیفہ پڑھتا ہوں
 کر کے زیارت تیرے علم کی
 پھر میں گھر سے چلتا ہوں
-ساے میں چودہ معصوموں کے
-شکر خدا میں رہتا ہوں
+سائے میں چودہ معصوموں کے
+شکرِ خدا میں رہتا ہوں
 
 ۴
-ہم‌ تو سگے دربار علی ہیں
+ہم تو سگِ دربارِ علی ہیں
 خاص یہ تجھ سے رشتہ ہے
 جد بھی ہے تیرا کل کا مولا
 تو بھی ہمارا آقا ہے
@@ -144,12 +145,12 @@ romanLyrics: |-
 
 ۶
 تیری شہادت سے کنبے پر
-کیسے قیامت ٹوٹ‌ گیء
+کیسی قیامت ٹوٹ گئی
 جس کو کہا کرتے تھے آقا
-قتل ہوا وہ بھای بھی
-سر سے چھنی زینب کے چادر
-تیری سکینہ قید ہوی
-ہاے تیری مجبوری غازی
+قتل ہوا وہ بھائی بھی
+سر سے چھنی زینب کی چادر
+تیری سکینہ قید ہوئی
+ہائے تیری مجبوری غازی
 ماں زہرا یہ کہتی رہی
 
 ۷
