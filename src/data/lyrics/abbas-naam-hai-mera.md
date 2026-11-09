@@ -1,13 +1,106 @@
 ---
-title: "Abbas Naam Hai Mera"
-language: "Roman Urdu"
+title: "عباس نام ہے میرا"
+alternateTitle: "Abbas Naam Hai Mera"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
-tags: ["noImage", "noUrdu"]
+reciter: "Mir Hasan Mir"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Ibna Zahra Ya Abbas
+  Main ain se Husain ka aashiq bhi ishq bhi
+  Be se huṅ Buturab ki main hasrat bhi
+  Zahir alif se hai Abu Talib ki agahi
+  Aur sin se Hasan ki samajh bujh saath bhi
+  Abbas dekhne mein faqat mera naam hai
+  Darasl ye Husain ke lashkar ka naam hai
+  Abbas naam hai mera Abbas naam hai
+  Maṅga hai Rab se Malik-e-Kaunain ne mujhe
+  Beta kaha hai Madar-e-Hasnain ne mujhe
+
+  1
+  Asma-e-Panjtan ka asasa hai mera naam
+  Alfaz hain tawaf mein Kaaba hai mera naam
+  Asrar o rumuz ki dunya hai mera naam
+  Khud Mustafa ki beti ne mera naam
+  Bejaan nahiṅ hai harf koi mere naam mein
+  Simti hui hai Nad-e-Ali mere naam mein
+
+  2
+  Tauhid ko hai naaz Khuda-e-Wafa huṅ main
+  Mushkilkusha ka laal huṅ Mushkilkusha huṅ main
+  Barsoṅ jabin-e-Sher-e-Khuda mein raha huṅ main
+  Dohraya jab Ali ko Khuda ne bana huṅ main
+  Khilqat mein meri dakhl nahiṅ maoṅ tin ko
+  Tohfa huṅ main Batul ka Ummul Banin ko
+
+  3
+  Qahr-e-Khuda ki bolti tasvir meri tegh
+  Ruhoṅ pe maut karti hai tahrir meri tegh
+  Teghoṅ mein misal-e-Aya-e-Tathir meri tegh
+  Tufan-e-Nuh khwab hai tabir meri tegh
+  Ismat ki pehredar hai Tathir ki qasam
+  Ye chhoti Zulfiqar hai Shabbir ki qasam
+
+  4
+  Talwar meri jaayegi ran mein jidhar jidhar
+  Barish wahan pe hogi saroṅ ki sarar sarar
+  Ashal ke paoṅ piseṅge tum ko karar karar
+  Dekhegi maut khud ye nazare tukar tukar
+  San san ki saut aisi samat pe chhaegi
+  Dhar dhar gireṅge dhar na sada tum ko aayegi
+
+  5
+  Main chahta huṅ quwwat-e-bazu pe jang ho
+  Dekhuṅ to tum ko kitne bahadur ho Shamiyo
+  Manzur ye nahiṅ hai to khud faisla karo
+  Dikhlauṅ mojizat main apne jo tum kaho
+  Darya pe haath dhoge abhi tum hayat se
+  Apne saroṅ ko katoge khud apne haath se
+
+  6
+  Aise karuṅga waar sambhalne na duṅga main
+  Pehlu bhi tum ko aaj badalne na duṅga main
+  Talwar kya zabaṅ bhi chalne na duṅga main
+  Nazroṅ ke daere se nikalne na duṅga main
+  Meri hai kainat kahan bach ke jaoge
+  Sun lo jahan chhipoge wahan mujh ko paoge
+
+  7
+  Tum ko ghamand fauj pe kasrat pe hai ghurur
+  In bazuoṅ ke zor ka tum ko nahiṅ shaur
+  Pal mein nikal duṅga main zehnoṅ ka har futur
+  Dozakh ka naam aaj se hoga Yazidpur
+  Hum keh ke Ya Ali jo abhi tegh uthaeṅge
+  Murde tumhare zer-e-kafan thartharaeṅge
+
+  8
+  Mashhur hai ye baat Khuda ki khudai mein
+  Mahir hai meri tegh safoṅ ki safai mein
+  Tum kya main do jahaṅ dabo duṅ tarai mein
+  Dast-e-Khuda ka zor hai meri kalai mein
+  Chahuṅ to baithe baithe main Ashal ki zin par
+  Lehra ke aasman ko ulat duṅ zamin par
+
+  9
+  Aalam tha terah saal mein aisa jalal ka
+  Siffin mein badal diya naqsha jidal ka
+  Ab to shabab aaya hai mere kamal ka
+  Abbas aaj ho gaya battis saal ka
+  Sun lo qaza ke ghaat utaruṅga main tumheṅ
+  Ghera hai tum ne gher ke maruṅga main tumheṅ
+
+  10
+  Dunya na samjhi Mir Takallum ye falsafa
+  Parcham hai surkh gumbad-e-Ibn-e-Batul ka
+  Yaani ruki nahiṅ hai abhi Jang-e-Karbala
+  Aur aa rahi hai Rauza-e-Abbas se sada
+  Rokega mujh ko tab na Nawasa-e-Rasul ka
+  Mehdi ke saath luṅga main badla Batul ka
 # source_id: tajpoints:912611cdf6a51a239e08
 # source_url: https://tajpoints.com/2017/02/abbas-naam-hai-mera-abbas-naam-hai1-4.html
 # raw_sha256: d9614f93244c9ca7bd75206cd61ce47b86083e828b33a16c10ec7c3df22d84c4
@@ -16,69 +109,93 @@ published: false
 # raw_sha256: c157711bcdc5472e45c27e9e5f308f382ab8a85732e13759b7e6e78e031803b8
 ---
 
-Abbas Naam Hai Mera Abbas Naam Hai
-Manga Hai Rab Se Malik-e-Konain Ne MUjhe
-Baita Kaha Hai Madar-e-Hassnain Ne Mujhe
+یا ابنِ زہرا یا عباس
+میں عین سے حسین کا عاشق بھی عشق بھی
+بے سے ہوں بوتراب کی میں حسرت بھی
+ظاہر الف سے ہے ابو طالب کی آگہی
+اور سین سے حسن کی سمجھ بوجھ ساتھ بھی
+عباس دیکھنے میں فقط میرا نام ہے
+دراصل یہ حسین کے لشکر کا نام ہے
+عباس نام ہے میرا عباس نام ہے
+مانگا ہے رب سے مالکِ کونین نے مجھے
+بیٹا کہا ہے مادرِ حسنین نے مجھے
 
-1
-Asma-e-Panjtan Ka Assasa Hai Mera Naam
-Ilfaz Hain Tawaf Mein Kaba Hai Mera Naam
-Israr Our Romooz Ki Dunya Hai Mera Naam
-Be Ja Nahi Hai Harf Koi Mere Naam Mein
-Simti Hoi Hai Nad-e-Ali Mere Naam Mein
-Tauheed Ko Hai Naaz Khuday-e-Wafa Hoon Main
+۱
+اسمائے پنجتن کا اثاثہ ہے میرا نام
+الفاظ ہیں طواف میں کعبہ ہے میرا نام
+اسرار و رموز کی دنیا ہے میرا نام
+خود مصطفیٰ کی بیٹی نے میرا نام
+بے جان نہیں ہے حرف کوئی میرے نام میں
+سمٹی ہوئی ہے نادِ علی میرے نام میں
 
-2
-Mushkil Kusha Ka Lal Hoon Mushkil Kusha Hoon Main
-Barson Jabeen-e-Shair-e-Khuda Mein Raha Hoon Main
-Dohraya Jab Ali Ko Khuda Ne Bana Hoon Main
-Khilqat Mein Meri Dakhal Nahi Mao Teen Ko
-Tohfa Hoon Main Batool Ka Ummal Baneen Ko
+۲
+توحید کو ہے ناز خدائے وفا ہوں میں
+مشکل کشا کا لال ہوں مشکل کشا ہوں میں
+برسوں جبینِ شیرِ خدا میں رہا ہوں میں
+دہرایا جب علی کو خدا نے بنا ہوں میں
+خلقت میں میری دخل نہیں ماؤں تین کو
+تحفہ ہوں میں بتول کا ام البنین کو
 
-3
-Qehar-e-Khuda Ki Bolti Tasveer Meri Taig
-Rohon Pe Maut Karti Hai Tehreer Meri Taig
-Taigon Mein Misal-e-Aya-e-Tatheer Meri Taig
-Tofan-e-Nooh Khuwab Hai Tabeer Meri Taig
-Ismat Ki Pehre Daar Hai Tatheer Ki Qasam
-Yeh Choti Zulfiqar Hai Shabir Ki Qasam
+۳
+قہرِ خدا کی بولتی تصویر میری تیغ
+روحوں پہ موت کرتی ہے تحریر میری تیغ
+تیغوں میں مثالِ آیۂ تطہیر میری تیغ
+طوفانِ نوح خواب ہے تعبیر میری تیغ
+عصمت کی پہرے دار ہے تطہیر کی قسم
+یہ چھوٹی ذوالفقار ہے شبیر کی قسم
 
-4
-Talwar Meri Jaye Gi Ran Mein Jidhar Jidhar
-Barish Wahan Pe Ho Gi Saron Ki Sarar Sarar
-Ashal Ke Paon Peesein Gaye Tum Ko Karar Karar
-Dekhe Gi Maut Khud Yeh Nazare Tukar Tukar
-San San Ki Saat Aisi Samaat Pe Chaye Gi
-Dar Dar Girein Gaye Dhar Na Sada Tum Ko Aye Gi
+۴
+تلوار میری جائے گی رن میں جدھر جدھر
+بارش وہاں پہ ہو گی سروں کی سرر سرر
+اشعل کے پاؤں پیسیں گے تم کو قرار قرار
+دیکھے گی موت خود یہ نظارے ٹکر ٹکر
+سن سن کی صوت ایسی سماعت پہ چھائے گی
+دھڑ دھڑ گریں گے دھڑ نہ صدا تم کو آئے گی
 
-5
-Main Chahta Hoon Qowat-e-Bazu Pe Jang Ho
-Dekhon Tu Tum Ko Kitne Buhadar Ho Shamiyo
-Manzoor Yeh Nahi Hai Tu Khud Faisla Karo
-Dikhlaon Moajzaat Main Apne Jo Tum Kaho
-Darya Pe Hath Dho Gaye Abhi Tum Hayat Se
-Apne Saron Ko Kato Gaye Khud Apne Hath se
+۵
+میں چاہتا ہوں قوتِ بازو پہ جنگ ہو
+دیکھوں تو تم کو کتنے بہادر ہو شامیوں
+منظور یہ نہیں ہے تو خود فیصلہ کرو
+دکھلاؤں معجزات میں اپنے جو تم کہو
+دریا پہ ہاتھ دھو گے ابھی تم حیات سے
+اپنے سروں کو کاٹو گے خود اپنے ہاتھ سے
 
-6
-Mashoor Hai Yeh Baat Khuda Ki Khudai Mein
-Mahir Hai Meri Taig Safon Ki Safai Mein
-Tum Kya Mein Do Jahan Dabo Doon Tarai Mein
-Dast-e-Khuda Ka Zoor Hai Meri Kalai Mein
-Chahon Tu Baithe Baithe Main Ashal Ki Zeen Par
-Lehra Ke Aasmaan Ko Ulat Doon Zameen Par
+۶
+ایسے کروں گا وار سنبھلنے نہ دوں گا میں
+پہلو بھی تم کو آج بدلنے نہ دوں گا میں
+تلوار کیا زباں بھی چلنے نہ دوں گا میں
+نظروں کے دائرے سے نکلنے نہ دوں گا میں
+میری ہے کائنات کہاں بچ کے جاؤ گے
+سن لو جہاں چھپو گے وہاں مجھ کو پاؤ گے
 
-7
-Aalam Tha Terah Saal Mein Aisa Jalal Ka
-Safeen Mein Badal Diya Naqsha Jadaal Ka
-Ab Tu Shabab Aya Hai Mere Kamal Ka
-Abbas Aaj Ho Giya Batees Saal Ka
-Sun Lo Qaza Ki Ghaat Utaron Ga Main Tumhein
-Ghaira Hai Tum Ne Ghair Ke Maron Ga Main Tumhein
+۷
+تم کو گھمنڈ فوج پہ کثرت پہ ہے غرور
+ان بازوؤں کے زور کا تم کو نہیں شعور
+پل میں نکال دوں گا میں ذہنوں کا ہر فتور
+دوزخ کا نام آج سے ہو گا یزیدپور
+ہم کہہ کے یا علی جو ابھی تیغ اٹھائیں گے
+مردے تمہارے زیرِ کفن تھرتھرائیں گے
 
-8
-Dunya Na Samjhi:MIR TAKALLUM: Yeh Falsafa
-Parcham Hai Surkh Gunbad-e-Ibn-e-Batool Ka
-Yani Ruki Nahi Hai Abhi Jang-e-Karbala
-Our Aa Rahi Hai Roza-e-Abbas Se Sada
-Roke Ga Mujh Ko Tab na Nawasa Rasool Ka
-Mehdi Ke Sath Loon Ga Main Badla Batool Ka
+۸
+مشہور ہے یہ بات خدا کی خدائی میں
+ماہر ہے میری تیغ صفوں کی صفائی میں
+تم کیا میں دو جہاں ڈبو دوں ترائی میں
+دستِ خدا کا زور ہے میری کلائی میں
+چاہوں تو بیٹھے بیٹھے میں اشعل کی زین پر
+لہرا کے آسماں کو الٹ دوں زمیں پر
+
+۹
+عالم تھا تیرہ سال میں ایسا جلال کا
+صفین میں بدل دیا نقشہ جدال کا
+اب تو شباب آیا ہے میرے کمال کا
+عباس آج ہو گیا بتیس سال کا
+سن لو قضا کے گھاٹ اتاروں گا میں تمہیں
+گھیرا ہے تم نے گھیر کے ماروں گا میں تمہیں
+
+۱۰
+دنیا نہ سمجھی میر تکلم یہ فلسفہ
+پرچم ہے سرخ گنبدِ ابنِ بتول کا
+یعنی رکی نہیں ہے ابھی جنگِ کربلا
+اور آ رہی ہے روضۂ عباس سے صدا
+روکے گا مجھ کو تب نہ نواسۂ رسول کا
+مہدی کے ساتھ لوں گا میں بدلہ بتول کا
