@@ -6,73 +6,75 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
+reciter: "Shabbar Ali Irani"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: |-
-  Ali ka zikr mohamed ka naam baaqi hai
-  Hussain tum se khuda ka kalaam baaqi hai
-
-  1
-  Mitane waale imamat ke mit gaye lekin
-  Khuda ke fazl se ab bhi imam baaqi hai
-
-  2
-  Ali ke laal ke dunya may naam baaqi hai
-  Yazeed mit gaya zikre anaam baaqi hai
-
-  3
-  Mitaye laakh zamana mitenge hum kaise
-  Hamare sar pe hamara imam baaqi hai
-
-  4
-  Hamara unse kabhi faisla nahi hoga
-  Yazeed mar gaya kuch rishtedar baaqi hai
-
-  5
-  Wo aur honge yateeman e mazhab o millat
-  Hamare sar pe hamara imam baaqi hai
-
-  6
-  Khareeb jhoole ke aa kar ye ro ke bole hussain
-  Abhi shaheedon may asghar ka naam baaqi hai
-
-  7
-  Zara ay maut teher ja kaha ye akbar ne
-  Zaeef baap ka thoda sa kaam baaqi hai
-
-  8
-  Ba waqte aakhri zainab se ro ke bole hussain
-  Tumhare waaste darbar e shaam baaqi hai
-
-  9
-  Mujeeb ko bhi bulayenge apne rauze par
-  Isi umeed may ab tak ghulam baaqi hai
 # source_id: nohayonline:f42cccf084527caae305
 # source_url: https://www.nohayonline.com/details_content.php?id=1980
 # raw_sha256: 6ebf6c7a1be249673081fbab4e8d315057e9f0be2bdd3ef8b97d8cd60b5db79f
+romanLyrics: |-
+  Ali ka zikr Muhammad ka naam baqi hai
+  Husain tum se Khuda ka kalam baqi hai
+  
+  1
+  Mitane wale imamat ke mit gaye lekin
+  Khuda ke fazl se ab bhi Imam baqi hai
+  
+  2
+  Ali ke lal ke dunya mein naam baqi hai
+  Yazid mit gaya zikr-e-anam baqi hai
+  
+  3
+  Mitae lakh zamana miteṅge hum kaise
+  Hamare sar pe hamara Imam baqi hai
+  
+  4
+  Hamara un se kabhi faisla nahiṅ hoga
+  Yazid mar gaya kuchh rishtedar baqi haiṅ
+  
+  5
+  Wo aur hoṅge yatiman-e-mazhab o millat
+  Hamare sar pe hamara Imam baqi hai
+  
+  6
+  Qarib jhule ke aa kar ye ro ke bole Husain
+  Abhi shahidoṅ mein Asghar ka naam baqi hai
+  
+  7
+  Zara Ae Maut thehar ja kaha ye Akbar ne
+  Zaif baap ka thora sa kam baqi hai
+  
+  8
+  Ba waqt-e-akhri Zainab se ro ke bole Husain
+  Tumhare waste Darbar-e-Sham baqi hai
+  
+  9
+  Mujeeb ko bhi bulaeṅge apne rauze par
+  Isi ummid mein ab tak ghulam baqi hai
 ---
+
 علی کا ذکر محمد کا نام باقی ہے
 حسین تم سے خدا کا کلام باقی ہے
 
 ۱
-مٹانے والے امامت کے مٹ گےء لیکن
+مٹانے والے امامت کے مٹ گئے لیکن
 خدا کے فضل سے اب بھی امام باقی ہے
 
 ۲
 علی کے لال کے دنیا میں نام باقی ہے
-یزید مٹ گےء ذکر انام باقی ہے
+یزید مٹ گئے ذکر انام باقی ہے
 
 ۳
-مٹاے لاکھ زمانہ مٹیں گے ہم کیسے
+مٹائے لاکھ زمانہ مٹیں گے ہم کیسے
 ہمارے سر پہ ہمارا امام باقی ہے
 
 ۴
-ہمارا ان سے کبھی فیصلہ نہیں ہوگا
+ہمارا ان سے کبھی فیصلہ نہیں ہو گا
 یزید مر گیا کچھ رشتہ دار باقی ہے
 
 ۵
-وہ اور ہونگے یتیمان مذہب و ملت
+وہ اور ہوں گے یتیمان مذہب و ملت
 ہمارے سر پہ ہمارا امام باقی ہے
 
 ۶
@@ -80,7 +82,7 @@ romanLyrics: |-
 ابھی شہیدوں میں اصغر کا نام باقی ہے
 
 ۷
-زرا اے موت ٹہر جا کہا یہ اکبر نے
+ذرا اے موت ٹھہر جا کہا یہ اکبر نے
 ضعیف باپ کا تھوڑا سا کام باقی ہے
 
 ۸
@@ -88,5 +90,5 @@ romanLyrics: |-
 تمہارے واسطے دربار شام باقی ہے
 
 ۹
-مجیب کو بھی بلاےنگے اپنے روضے پر
+مجیب کو بھی بلائیں گے اپنے روضے پر
 اسی امید میں اب تک غلام باقی ہے
