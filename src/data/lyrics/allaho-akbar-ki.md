@@ -1,6 +1,6 @@
 ---
 title: "اللّٰہ اکبر کی اذاں"
-alternateTitle: "Allaho Akbar Ki"
+alternateTitle: "Allahu Akbar Ki Azaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Allahu Akbar ki azan
+  Allahu Akbar ki azaan
   Ye keh rahi hai dasht mein
   Ro ro ke ek maa
 
@@ -29,7 +29,7 @@ romanLyrics: |-
   Haye ae Rab aakhri shab
   Aansuon ke saath thi
   Ubhri thi haye is tarha
-  Ashoor ki ajaan
+  Ashoor ki azaan
 
   3
   Mustafa ke chaand taare
@@ -56,24 +56,24 @@ romanLyrics: |-
   Rota hai aasman
 
   6
-  Haye akbar bola rokar
-  Ye ajaan e aakhri
-  Sun rahe hai karbala mein
+  Haye Akbar bola ro kar
+  Ye azaan aakhri
+  Sun rahe hain Karbala mein
   Aaj jis tarha sabhi
   Sugra bhi kaash sun sake
-  Ay mere baba jaan
+  Ae mere baba jaan
 
   7
   Haye haye sar kataye
   Sab jawan so jayenge
-  Dehr chode khaak odhe
+  Dehr chhor ke khaak orhe
   Dasht mein kho jayenge
   Qaayam rahegi hashr tak
-  Allah ki ajaan
+  Allah ki azaan
 
   8
   Wo muazzim maut ke din
-  Gin raha tha ay zafar
+  Gin raha tha ae Zafar
   Shaah ka dil kaisi mushkil
   Mein tha mesum raat bhar
   Yun qatla hoke reh gaya
