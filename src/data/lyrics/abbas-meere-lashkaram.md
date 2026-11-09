@@ -10,73 +10,74 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas meer-e-lashkaram
-  Shakle ali sher-e-khuda
-  Shabbir sa jaaho hasham
+  Abbas mir-e-lashkaram
+  Shakl-e-Ali Sher-e-Khuda
+  Shabbir sa jah o hasham
 
   1
-  Aaya ali ka laadla
-  Kehte thay dushman bar mala
-  Sab de do isko raasta
+  Aaya Ali ka ladla
+  Kehte the dushman barmala
+  Sab de do is ko rasta
   Warna karega sar qalam
 
   2
-  Ek naujawan ek shehsawaar
-  Haathon may naiza tez dhaar
-  Dushman giraye beshumaar
-  Badta gaya yun dum ba dum
+  Ek naujawaṅ ek shahsawar
+  Haathoṅ mein neza tez dhaar
+  Dushman giraaye beshumar
+  Barhta gaya yuṅ dam ba dam
 
   3
-  Darya pe jaanaa hai usay
-  Pani pilaana hai usay
-  Waada nibhana hai usay
-  Khaayi sakina ki qasam
+  Darya pe jaana hai use
+  Pani pilana hai use
+  Wada nibhana hai use
+  Khai Sakina ki qasam
 
   4
-  Raahe wafa may khoon diya
-  Ek bhoondh na pani piya
-  Darya pe jab gaada alam
-  Sab keh uthe arb o ajam
+  Rah-e-wafa mein khun diya
+  Ek bund na pani piya
+  Darya pe jab gara alam
+  Sab keh uthe Arab o Ajam
 
   5
-  Maidan may jab ghazi gaya
-  Hyder ki tarha datt gaya
-  Parcham ko jukne na diya
-  Aur hogaye baazu qalam
+  Maidan mein jab Ghazi gaya
+  Haider ki tarah dat gaya
+  Parcham ko jhukne na diya
+  Aur ho gaye bazu qalam
 
   6
-  Mashke sakina chidh gayi
-  Pyasi sakina reh gayi
-  Na aas ammu ki rahi
-  Jab aagaya khaali alam
+  Mashk-e-Sakina chhid gayi
+  Pyasi Sakina reh gayi
+  Na aas Ammu ki rahi
+  Jab aa gaya khali alam
 
   7
-  Ghode se jab ghazi gira
-  Shabbir ka ek ba-wafa
-  Dunya se ruqsat ho gaya
-  Ujda hai zainab ka bharam
+  Ghore se jab Ghazi gira
+  Shabbir ka ek bawafa
+  Dunya se rukhsat ho gaya
+  Ujra hai Zainab ka bharam
 
   8
-  Abbas ne sheh se kaha
-  Aaqa meri hai iltejaa
-  Laasha na jaaye qaimon may
+  Abbas ne Sheh se kaha
+  Aaqa meri hai iltija
+  Laasha na jaaye khaimoṅ mein
   Kar dijiye itna karam
 
   9
-  Bacchon ka toota aasra
-  Aaya alam jo khoon bhara
-  Ghash may sakina gir padi
-  Ye hogaya kaisa alam
+  Bachchoṅ ka tuta aasra
+  Aaya alam jo khun bhara
+  Ghash mein Sakina gir pari
+  Ye ho gaya kaisa alam
 
   10
-  Irfan ki hai iltejaa
-  Mesum ki poori ho dua
-  Nauhagar tera mai rahun
-  Jab tak rahe seene may dam
+  Irfan ki hai iltija
+  Mesum ki puri ho dua
+  Nohagar tera main rahuṅ
+  Jab tak rahe sine mein dam
 # source_id: nohayonline:6f48b5a3f9810cf86ee0
 # source_url: https://www.nohayonline.com/details_content.php?id=2515
 # raw_sha256: 3bb76986c5b884c3481dfc11cb9fff749929da303dc12f21977662dfe3c49b6e
 ---
+
 عباس میرِ لشکرم
 شکل علی شیر خدا
 شبیر سا جاہ و ہشم
@@ -84,36 +85,36 @@ romanLyrics: |-
 ۱
 آیا علی کا لاڈلا
 کہتے تھے دشمن بر ملا
-سب دے دو اسکو راستہ
+سب دے دو اس کو راستہ
 ورنہ کرے گا سر قلم
 
 ۲
 اک نوجواں اک شہ سوار
 ہاتھوں میں نیزہ تیز دھار
-دشمن گراے بے شمار
+دشمن گرائے بے شمار
 بڑھتا گیا یوں دم بہ دم
 
 ۳
 دریا پہ جانا ہے اسے
 پانی پلانا ہے اسے
 وعدہ نبھانا ہے اسے
-کھای سکینہ کی قسم
+کھائی سکینہ کی قسم
 
 ۴
 راہ وفا میں خوں دیا
-اک بوندھ نہ پانی پیا
+اک بوند نہ پانی پیا
 دریا پہ جب گاڑا علم
 سب کہہ اٹھے عرب و عجم
 
 ۵
 میداں میں جب غازی گیا
 حیدر کی طرح ڈٹ گیا
-پرچم کو جھکنے نے دیا
-اور ہو گےء بازو قلم
+پرچم کو جھکنے نہ دیا
+اور ہو گئے بازو قلم
 
 ۶
-مشک سکینہ چھد گیء
-پیاسی سکینہ رہ گیء
+مشک سکینہ چھد گئی
+پیاسی سکینہ رہ گئی
 نہ آس عمو کی رہی
 جب آ گیا خالی علم
 
@@ -126,8 +127,8 @@ romanLyrics: |-
 ۸
 عباس نے شہ سے کہا
 آقا میری ہے التجا
-لاشہ نہ جاے خیموں میں
-کر دیجیےء اتنا کرم
+لاشہ نہ جائے خیموں میں
+کر دیجیے اتنا کرم
 
 ۹
 بچوں کا ٹوٹا آسرا

@@ -10,59 +10,60 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Saqi abbas hai maula
-  Abbas mera maula abbas mera aaqa
-  Hai sher karbala ka farzand fatema ka
+  Saqi Abbas hai Maula
+  Abbas mera Maula Abbas mera Aaqa
+  Hai sher Karbala ka farzand Fatema ka
 
   1
-  Har dard ki dawa hai ibne shah e huda hai
-  Rag rag mein khoon e hyder ghazi ki bolta hai
-  Salaar e karbala hai sher e khuda ka saaya
+  Har dard ki dawa hai Ibn-e-Shah-e-Huda hai
+  Rag rag mein khun-e-Haider Ghazi ki bolta hai
+  Salar-e-Karbala hai Sher-e-Khuda ka saaya
 
   2
-  Mashk o alam mein jaan hai ghairat ka aasman hai
-  Sar ta qadam jari mein allah jaanta hai
-  Hyder ka dabdaba hai sher e khuda ka saaya
+  Mashk o alam mein jaṅ hai ghairat ka aasmaṅ hai
+  Sar ta qadam Jari mein Allah jaanta hai
+  Haider ka dabdaba hai Sher-e-Khuda ka saaya
 
   3
-  Ahle haram ka saqqa dhaaras shah e zaman ki
-  Pardes ki fiza mein umeed hai behan ki
-  Zainab ka aasra hai sher e khuda ka saaya
+  Ahl-e-Haram ka saqqa dharas Shah-e-Zaman ki
+  Pardes ki fiza mein umid hai behan ki
+  Zainab ka aasra hai Sher-e-Khuda ka saaya
 
   4
-  Chullu mein le ke pani rasm e wafa nibhayi
-  Tashna dahan ke lab tak ek boond bhi na aayi
-  Ye zabt ka khuda hai sher e khuda ka saaya
+  Chullu mein le ke pani rasm-e-wafa nibhayi
+  Tishna dahan ke lab tak ek bund bhi na aayi
+  Ye zabt ka Khuda hai Sher-e-Khuda ka saaya
 
   5
   Pani pe apna parcham lehra ke keh raha tha
-  Ab taa abad rahega darya pe mera qabza
-  Pakka ye qaul ka hai sher e khuda ka saaya
+  Ab ta abad rahega darya pe mera qabza
+  Pakka ye qaul ka hai Sher-e-Khuda ka saaya
 
   6
-  Baazu qalam huwe to wapas na ran se aaya
-  Pani baha tha jitna utna hi khoon bahaya
-  Kis darja ba-haya hai sher e khuda ka saaya
+  Bazu qalam hue to wapas na ran se aaya
+  Pani baha tha jitna utna hi khun bahaya
+  Kis darja bahaya hai Sher-e-Khuda ka saaya
 
   7
-  Is ke alam ko jab se zainab ne hai sambhala
-  Raunaq bana hua hai har majlis e aza ka
-  Shabbir ki dua hai sher e khuda ka saaya
+  Is ke alam ko jab se Zainab ne hai sambhala
+  Raunaq bana hua hai har majlis-e-aza ka
+  Shabbir ki dua hai Sher-e-Khuda ka saaya
 
   8
-  Pani ki ye sabeelein asghar ki hai daleelein
-  Abbas ki wafa ko ahl wafa se poochein
-  Zinda ye maujiza hai sher e khuda ka saaya
+  Pani ki ye sabileṅ Asghar ki hain dalileṅ
+  Abbas ki wafa ko Ahl-e-Wafa se puchheṅ
+  Zinda ye maujiza hai Sher-e-Khuda ka saaya
 
   9
-  Nasir hussain ka hai rehaan karbala bhi
-  Zainab ki aarzu bhi zehra ki hai dua bhi
-  Hyder ka laadla hai sher e khuda ka saaya
+  Nasir Husain ka hai Rehaan Karbala bhi
+  Zainab ki aarzu bhi Zehra ki hai dua bhi
+  Haider ka ladla hai Sher-e-Khuda ka saaya
 # source_id: nohayonline:dec0482fdbd0e0927018
 # source_url: https://www.nohayonline.com/details_content.php?id=1881
 # raw_sha256: 87ae70778598d6814e5e859f3808889699d06300c6b0341657ae4ce681a18fc4
 ---
-سقی عباس ہے مولا
+
+ساقی عباس ہے مولا
 عباس میرا مولا عباس میرا آقا
 ہے شیر کربلا کا فرزند فاطمہ کا
 
@@ -72,7 +73,7 @@ romanLyrics: |-
 سالار کربلا ہے شیر خدا کا سایہ
 
 ۲
-مشک و الم میں جاں ہے غیرت کا آسماں ہے
+مشک و علم میں جاں ہے غیرت کا آسماں ہے
 سر تا قدم جری میں اللہ جانتا ہے
 حیدر کا دبدبہ ہے شیر خدا کا سایہ
 
@@ -82,8 +83,8 @@ romanLyrics: |-
 زینب کا آسرا ہے شیر خدا کا سایہ
 
 ۴
-چلو میں لے کے پانی رسم وفا نبھای
-تشنہ دہن کے لب تک اک بوندھ بھی نہ آی
+چُلّو میں لے کے پانی رسم وفا نبھائی
+تشنہ دہن کے لب تک اک بوند بھی نہ آئی
 یہ ضبط کا خدا ہے شیر خدا کا سایہ
 
 ۵
@@ -92,12 +93,12 @@ romanLyrics: |-
 پکا یہ قول کا ہے شیر خدا کا سایہ
 
 ۶
-بازو قلم ہوے تو واپس نہ رن سے آیا
+بازو قلم ہوئے تو واپس نہ رن سے آیا
 پانی بہا تھا جتنا اتنا ہی خوں بہایا
 کس درجہ با حیا ہے شیر خدا کا سایہ
 
 ۷
-اس کے الم کو جب سے زینب نے ہے سنبھالا
+اس کے علم کو جب سے زینب نے ہے سنبھالا
 رونق بنا ہوا ہے ہر مجلس عزا کا
 شبیر کی دعا ہے شیر خدا کا سایہ
 
