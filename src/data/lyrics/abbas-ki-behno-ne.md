@@ -9,64 +9,40 @@ poet: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Wa hijaba wa hijaba
-
-  Haye abbas ki behno ne na paayi chadar
-
-  Sham tak naize pe deti thi duhaai chadar
-
-  Jiske baba ne udhayi thi rida kaabe ko
-
-  Uski beti ko kisi ne na udhayi chadar
-
+romanLyrics: |-
+  Wa Hijaba Wa Hijaba
+  Haaye Abbas ki behnoṅ ne na paayi chadar
+  Shaam tak neze pe deti thi duhai chadar
+  Jis ke Baba ne urhai thi rida Kaabe ko
+  Us ki beti ko kisi ne na urhai chadar
 
   1
-
-  Bas yehi kehti thi abbas ke sar se zainab
-
+  Bas yehi kehti thi Abbas ke sar se Zainab
   Mere bhai mere bhai mere bhai chadar
 
-
   2
-
-  Sharm se chup gayi sajjad ke peeche zainab
-
-  Hind zindan may jo odhay huwe aayi chadar
-
+  Sharm se chhup gayi Sajjad ke pichhe Zainab
+  Hind zindaṅ mein jo orhe hue aayi chadar
 
   3
-
-  Paon khat dete rahe door talak bachi ke
-
-  Shimr ne aise sakina se chudaai chadar
-
+  Paoṅ khat dete rahe dur talak bachchi ke
+  Shimr ne aise Sakina se chhurai chadar
 
   4
-
-  Gir padi khaak pe abbas ki maa sadme se
-
-  Apne baazu se jo zainab ne hatayi chadar
-
+  Gir pari khaak pe Abbas ki maaṅ sadme se
+  Apne bazu se jo Zainab ne hatayi chadar
 
   5
-
-  Haye rote huwe zainab ne kiya shukre khuda
-
-  Sar pe sughra ke nazar jis ghadi aayi chadar
-
+  Haaye rote hue Zainab ne kiya shukr-e-Khuda
+  Sar pe Sughra ke nazar jis ghari aayi chadar
 
   6
-
-  Zindagi may na udha paaye magar abid ne
-
-  Qabr par bali sakina ki udhayi chadar
-
+  Zindagi mein na urha paaye magar Abid ne
+  Qabr par bali Sakina ki urhai chadar
 
   7
-
-  Mir sajjad jo loota hua asbaab mila
-
-  Pehle sajjad ne ankhon se lagayi chadar'
+  Mir Sajjad jo luta hua asbab mila
+  Pehle Sajjad ne aankhoṅ se lagayi chadar
 # source_id: nohayonline:bb6e08052a2eed49b50f
 # source_url: https://www.nohayonline.com/details_content.php?id=303
 # raw_sha256: 89ed00ee876ffb9b8e5417cff56071b98182d591e8a86c30bb15b15e5c8bda5b
@@ -75,36 +51,37 @@ romanLyrics: 'Wa hijaba wa hijaba
 # raw_sha256: 60270a239f84218f8847bfafd9b800cbea385c74ee1b43b4f14111cbc23fc4ce
 ---
 
+
 واحجابہ واحجابہ
-ہاے عباس کی بہنوں نے نہ پایء چادر
+ہائے عباس کی بہنوں نے نہ پائی چادر
 شام تک نیزے پہ دیتی تھی دہائی چادر
-جسکے بابا نے اڑھایء تھی ردا کعبے کو
-اسکی بیٹی کو کسی نے نہ اڑھایء چادر
+جس کے بابا نے اڑھائی تھی ردا کعبے کو
+اس کی بیٹی کو کسی نے نہ اڑھائی چادر
 
 ۱
 بس یہی کہتی تھی عباس کے سر سے زینب
 میرے بھائی میرے بھائی میرے بھائی چادر
 
 ۲
-شرم سے چھپ گیء سجاد کے پیچھے زینب
-ہند زنداں میں جو اوڑھے ہوئے آیء چادر
+شرم سے چھپ گئی سجاد کے پیچھے زینب
+ہند زنداں میں جو اوڑھے ہوئے آئی چادر
 
 ۳
 پاؤں خط دیتے رہے دور تلک بچی کے
-شمر نے ایسے سکینہ سے چھڑای چادر
+شمر نے ایسے سکینہ سے چھڑائی چادر
 
 ۴
 گر پڑی خاک پہ عباس کی ماں صدمے سے
-اپنے بازو سے جو زینب نے ہٹای چادر
+اپنے بازو سے جو زینب نے ہٹائی چادر
 
 ۵
-ہاے روتے ہوئے زینب نے کیا شکر خدا
+ہائے روتے ہوئے زینب نے کیا شکر خدا
 سر پہ صغرا کے نظر جس گھڑی آی چادر
 
 ۶
-زندگی میں نہ اڑھا پاے مگر عابد نے
-قبر پر بالی سکینہ کی اڑھایء چادر
+زندگی میں نہ اڑھا پائے مگر عابد نے
+قبر پر بالی سکینہ کی اڑھائی چادر
 
 ۷
 میر سجاد جو لوٹا ہوا اسباب ملا
-پہلے سجاد نے آنکھوں سے لگایء چادر
+پہلے سجاد نے آنکھوں سے لگائی چادر

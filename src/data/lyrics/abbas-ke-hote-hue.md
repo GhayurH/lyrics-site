@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Roz aaeṅge tere didar ko Ahl-e-Jahan
-  Teri azmat ko salami dega barh kar aasmaṅ
+  Teri azmat ko salami dega barh kar aasman
   Har zamin ta hashr dohraegi teri dastaṅ
   Gham na kar ae Karbala Abbas ke hote hue
 

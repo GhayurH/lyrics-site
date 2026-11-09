@@ -46,7 +46,7 @@ romanLyrics: |-
   Baba ki qasam pehle hum tum ko pilaeṅge
 
   9
-  Sajjad o Takallum aur ye Mir Hasan kya hain
+  Sajjad o Takallum aur ye Mir Hasan kya hai
   Khud Khizr bhi Jannat mein kehte nazar aaeṅge
 # source_id: nohayonline:ea1245078cf5779e02d4
 # source_url: https://www.nohayonline.com/details_content.php?id=1522

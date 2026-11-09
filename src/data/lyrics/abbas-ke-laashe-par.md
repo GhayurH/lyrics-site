@@ -14,7 +14,7 @@ romanLyrics: |-
   Lag jao bhaiya tum apne baradar ke
 
   1
-  Kya tum ko gawara hai Zainab ki chhine chadar
+  Kya tum ko gawara hai Zainab ki chhini chadar
   Zanjir hai pairoṅ mein bimar ke muztar ke
 
   2
