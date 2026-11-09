@@ -10,33 +10,33 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashoor ki sehar hai akbar ki azaan hi
-  Shabbir ke lashkar mein ek shor-e-fugha hai
+  Ashoor ki sehar hai Akbar ki azaan hai
+  Shabbir ke lashkar mein ek shor-e-fughaṅ hai
 
   1
-  Saf basta ghazi hai maula ki amanat mein
-  Ansare shahe deen hai masroof ibadat mein
+  Saf basta ghazi hain maula ki amanat mein
+  Ansar-e-Shah-e-Deen hain masroof ibadat mein
   Sajde mein dua karti akbar teri maa hai
 
   2
-  Kya sog ka aalam tha shabbir ke laskhar mein
+  Kya sog ka aalam tha shabbir ke lashkar mein
   Maa kehti thi laaungi akbar ki dulhan ghar mein
-  Maloom na tha inki kismat mein sina hai
+  Maloom na tha inki kismat mein sinaan hai
 
   3
   Ashoor se har subhe ki aaghosh mein ab tak
   Masoom ki taaseer-e-bayaan goonj rahi hai
-  Islam ki waadi my aawaz hi ay log
+  Islam ki wadi mein aawaz hi ay log
   Shabbir ke akbar ki azaan goonj rahi hai
 
   4
-  Awaaz-e-azan pahunchi jis waqt madine mein
+  Awaz-e-azaan pahunchi jis waqt madine mein
   Sughra ne kaha koi hasrat nahi senay mein
   Mujhe itna ye bata de bhai tu kahan hai
 
   5
   Dam tod'te akbar ne baba se kaha ro kar
-  Sugra ko bata dena sehra na bandha sar par
+  Sughra ko bata dena sehra na bandha sar par
   Barchi hai kaleje mein aur khusk zaban hai
 
   6
@@ -48,7 +48,7 @@ romanLyrics: |-
   7
   Zainab ke ye naale thay laashe ali akbar par
   Athara baras maine paala tha tujhe akbar
-  Mai dhoop mein baithi hoo aur ashk rawan hai
+  Main dhoop mein baithi hoon aur ashk rawan hai
 # source_id: nohayonline:5250a7c1f96e06669291
 # source_url: https://www.nohayonline.com/details_content.php?id=33
 # raw_sha256: 2428c9cc8f4250e93231c3ca3a2098c3decf71f8feda5cf02ba8b7754139dfca
@@ -65,10 +65,10 @@ romanLyrics: |-
 ۲
 کیا سوگ کا عالم تھا شبیر کے لشکر میں
 ماں کہتی تھی لائوں گی اکبر کی دُلہن گھر میں
-معلو م نہ تھا ان کی قسمت میں سِناں ہے
+معلوم نہ تھا ان کی قسمت میں سِناں ہے
 
 ۳
-عاشور سے ہر صبح کی آ غوش میں اب تک
+عاشور سے ہر صبح کی آغوش میں اب تک
 معصوم کی تاسیرِ بیاں گونج رہی ہے
 اسلام کی وادی میں آواز ہی اے لوگ
 شبیر کے اکبر کی اذاں گونج رہی ہے
@@ -91,5 +91,5 @@ romanLyrics: |-
 
 ۷
 زینب کے یہ نالے تھے لاشِ علی اکبر پر
-اٹھارہ برس میں نے پالا تھاتجھے اکبر
+اٹھارہ برس میں نے پالا تھا تجھے اکبر
 میں دھوپ میں بیٹھی ہوں اور اشک رواں ہے

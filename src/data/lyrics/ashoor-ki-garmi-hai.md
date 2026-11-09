@@ -10,28 +10,28 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Emaan ke ujaale hai ashoor ki garmi hai
+  Iman ke ujaale hai ashoor ki garmi hai
   Shabbir ki qismat hai aur godh ke paale hai
 
   1
   Yahan dil taho baala hai wahan jaan ke laale hai
-  Shabbir zayeefi mein akbar ko sambhale hai
+  Shabbir zaifi mein akbar ko sambhale hai
 
   2
   Jis tarha koi chaahe ghar lootle pyason ka
   Jalti hui reti par sab chaahne waale hai
 
   3
-  Abid ko koi dekhe darbar mein koofe ke
+  Abid ko koi dekhe darbar mein Kufe ke
   Bedi ko uthaye hai zanjeer sambhale hai
 
   4
   Suljhaya tha laila ne uljhi hui zulfon ko
-  Phir maut ne ay akbar bal gaysuon waale hai
+  Phir maut ne ae Akbar bal gaysuon waale hai
 
   5
   Dekho to ali asghar aaghosh mein baba ki
-  Kya kaampte haaton se ummat ko sambhale hai
+  Kya kaampte hathon se ummat ko sambhale hai
 
   6
   Be-faiz zamane se kya usko gharaz koi
@@ -54,10 +54,10 @@ romanLyrics: |-
 
 ۳
 عابد کو کوئی دیکھے دربار میں کوفے کے
-بیڑی کو اٹھاے ہیں زنجیر سنبھالے ہیں
+بیڑی کو اٹھائے ہیں زنجیر سنبھالے ہیں
 
 ۴
-سلجھایا تھا لیلیٰ نے الجھی ہوی ذلفوں کو
+سلجھایا تھا لیلیٰ نے الجھی ہوئی ذلفوں کو
 پھر موت نے اے اکبر بال گیسوؤں والے ہیں
 
 ۵

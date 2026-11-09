@@ -22,9 +22,9 @@ romanLyrics: |-
 
   2
   Ahmed ki nawasi ka aalam
-  Uth'ta hua parda keh dega
+  Uthta hua parda keh dega
   Kis tarha chini sar se chaadar
-  Jalta hua qaima keh dega
+  Jalta hua khaima keh dega
 
   3
   Kis tarha gaye asghar ran mein
@@ -47,7 +47,7 @@ romanLyrics: |-
   6
   Nawak ki khatak dil ki himmat
   Ummat pe nazar baba ka khayal
-  Kya raaze khuda samjhe asghar
+  Kya raz-e-Khuda samjhe asghar
   Hasta hua chehra keh dega
 
   7
@@ -64,8 +64,8 @@ romanLyrics: |-
 
   9
   Shadi se gharaz shadi kab thi
-  Ye dars e alam tha dunya ko
-  Kuch dayr ka dulha keh dega
+  Ye dars-e-ilm tha dunya ko
+  Kuch der ka dulha keh dega
   Ujda hua sehra keh dega
 # source_id: nohayonline:42f920e9574c1a500bf3
 # source_url: https://www.nohayonline.com/details_content.php?id=3508
@@ -80,7 +80,7 @@ romanLyrics: |-
 کس طرح جوانی خاک ہوئی
 لیلیٰ کا کلیجہ کہہ دے گا
 بہتے ہوئے آنسوں کہہ دیں گے
-اترا ہوا چہرہ دیگا
+اترا ہوا چہرہ کہہ دے گا
 
 ۲
 احمد کی نواسی کا عالم
@@ -89,7 +89,7 @@ romanLyrics: |-
 جلتا ہوا خیمہ کہہ دے گا
 
 ۳
-کس طرح گےء اصغر رن میں
+کس طرح گئے اصغر رن میں
 آباد ہوی کیوں کر تربت
 بانو کی اداسی کہہ دے گی
 اجڑا ہوا جھولا کہہ دے گا
@@ -102,8 +102,8 @@ romanLyrics: |-
 
 ۵
 امت کے لئے اصغر آے
-پانی نہ ملا پیاسے ہیں گےء
-چھپ ہو گی اگر ننھی سی لحد
+پانی نہ ملا پیاسے ہی گئے
+چپ ہو گی اگر ننھی سی لحد
 اجڑا ہوا جھولا کہہ دے گا
 
 ۶

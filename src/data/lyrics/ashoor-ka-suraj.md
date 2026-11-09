@@ -9,134 +9,77 @@ poet: "Mirza Murtaza Ali"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Ashoor ka suraj jalta hai
-
-
+romanLyrics: |-
+  Ashoor ka suraj jalta hai
+  
   1
-
   Har khaak ka zarra jalta hai
-
-  Jalti hai zameene karbobala
-
-  Ya arsh e moalla jalat hai
-
-  Ansar ke qaime jalte hai
-
+  Jalti hai zamin-e-Karb o Bala
+  Ya Arsh-e-Moalla jalta hai
+  Ansar ke khaime jalte hai
   Shabbir ka qaima jalta hai
-
   Islam ki dunya jalti hai
-
-  Kaabe ka musalla jalta hai
-
-
+  Kabe ka musalla jalta hai
+  
   2
-
-  Naize jo jaga di hai dil mein
-
-  Aisay ke jigar ka kya kehna
-
-  Akbar ko sukoone qalb mila
-
+  Naize ko jagah di hai dil mein
+  Aise ke jigar ka kya kehna
+  Akbar ko sukun-e-qalb mila
   Laila ka kaleja jalta hai
-
-
+  
   3
-
-  Quran ke padne walon ne
-
+  Quran ke parhne walon ne
   Quran ko jala kar khaak kiya
-
-  Yaseen ka sura jalta hai
-
+  Yasin ka sura jalta hai
   Quran ka paara jalta hai
-
-
+  
   4
-
   Ghar baar jalaya ummat ne
-
-  Kya khoob ye ajre risalat hai
-
-  Jalti hai mohamed ki masnad
-
-  Baysheer ka jhula jalta hai
-
-
+  Kya khoob ye ajr-e-risalat hai
+  Jalti hai Muhammad ki masnad
+  Beshir ka jhula jalta hai
+  
   5
-
-  Itrat pe nabi ke jor o sitam
-
+  Itrat pe Nabi ke jor o sitam
   Kya khoob musalmano ne kiya
-
   Zainab ki rida kya jalti hai
-
   Islam ka parda jalta hai
-
-
+  
   6
-
   Rakhi jo fidak mein chingari
-
   Ye sholay usi ke nikalte hai
-
   Kya aag baghawat ki phaili
-
   Ran karbobala ka jalta hai
-
-
+  
   7
-
-  Baysheer ki tashna dahani ne
-
+  Beshir ki tashna dahani ne
   Ek aag lagadi pani mein
-
   Asghar ke tabassum par ab tak
-
   Darya ka kinara jalta hai
-
-
+  
   8
-
   Qaime mein sakina dekhti hai
-
   Jab yaas se khaali saagar ko
-
   Saahil pe tadapta hai laasha
-
   Saqqa ka kaleja jalta hai
-
-
+  
   9
-
   Thi kufr ko emaan se takkar
-
   Ghar baar nabi ka jal ke raha
-
   Jalti hai jidaar e kaaba e deen
-
   Emaan ka qibla jalta hai
-
-
+  
   10
-
   Zanjeer zani ye seena zani
-
   Tum hum ko na samjho deewane
-
   Shabbir tumhare matam se
-
   Dil aur kisi ka jalta hai
-
-
+  
   11
-
   Sad-haif ke misle range hina
-
   Kubra ka suhaag ab jal hi gaya
-
-  Is dashte bala mein ay mirza
-
-  Kya kya mai kahoo kya jalta hai'
+  Is dashte bala mein ae Mirza
+  Kya kya main kahuṅ kya jalta hai
 # source_id: nohayonline:2b6c5719aa5e497d720f
 # source_url: https://www.nohayonline.com/details_content.php?id=62
 # raw_sha256: f137c12adf29427aea194a35f82947a6df17435e17ee970c8ca2fb7cb76114eb
@@ -148,7 +91,7 @@ romanLyrics: 'Ashoor ka suraj jalta hai
 عاشور کا سورج جلتا ہے
 
 ۱
-ہر خاک کا ذرا جلتا ہے
+ہر خاک کا ذرہ جلتا ہے
 جلتی ہے زمینِ کرب و بلا
 یا عرشِ معلیٰ جلتا ہے
 انصار کے خیمے جلتے ہیں
@@ -171,11 +114,11 @@ romanLyrics: 'Ashoor ka suraj jalta hai
 ۴
 گھر بار جلایا اُمت نے
 کیا خوب یہ اجرِ رسالت ہے
-جلتی ہے محمدکی مسند
+جلتی ہے محمد کی مسند
 بے شیر کا جھولا جلتا ہے
 
 ۵
-عطرت پہ نبی کے جور و ستم
+عترت پہ نبی کے جور و ستم
 کیا خوب مسلمانوں نے کیا
 زینب کی ردا کیا جلتی ہے
 اسلام کا پردہ جلتا ہے

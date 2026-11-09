@@ -13,8 +13,8 @@ romanLyrics: |-
   Ashoor ka suraj dekhega
   
   1
-  Abbas e dilawar maqtal mein
-  Be-izne wigha jab aayega
+  Abbas-e-Dilawar maqtal mein
+  Be-izn-e-wigha jab aayega
   Toofan uthega sehra mein
   Aur darya se takrayega
   Maqtal ki fazaon ko phir se
@@ -39,7 +39,7 @@ romanLyrics: |-
   Jab maujein behte darya ki
   Uth uth ke raqaabe choomengi
   Jab garm hawaein pyason ke
-  Qaimon ki tamaawe choomengi
+  Khaimoṅ ki tamaawe choomengi
   Jab aab rawan ke seene pe
   Ghazi ka alam lehrayega
   
@@ -55,7 +55,7 @@ romanLyrics: |-
   Gham dil mein sambhale bachon ke
   Haathon ke larazte koozon ka
   Jab pani lekar palthega
-  Qaimon ki taraf sardare wafa
+  Khaimoṅ ki taraf sardare wafa
   Be taygh jari ke seene pe
   Har samt se hamla aayega
   
@@ -70,7 +70,7 @@ romanLyrics: |-
   8
   Jab ghazi kahega maula se
   Ek baar hamiyat hai aaqa
-  Qaimon mein mujhe na le jaana
+  Khaimoṅ mein mujhe na le jaana
   Bas itni wasiyat hai aaqa
   Gar laash gayi qaimon ki taraf
   Sar zainab ka khul jayega
@@ -86,8 +86,8 @@ romanLyrics: |-
   10
   Masoom sakina poochegi
   Hai mashk o alam pe kiska lahoo
-  Kyon laut ke wapas aaye nahi
-  Kyon laaye nahi pani ammu
+  Kiun laut ke wapas aaye nahi
+  Kiun laaye nahi pani ammu
   Ye sunke amma fizza ki
   Aankhon mein lahoo aajayega
   
@@ -133,7 +133,7 @@ romanLyrics: |-
 اٹھ اٹھ کے رکابیں چومیں گی
 جب گرم ہوایں پیاسوں کے
 خیموں کی طماویں جومیں گی
-جب آپ رواں کے سینے پہ
+جب آبِ رواں کے سینے پہ
 غازی کا الم لہراے گا
 
 ۵
@@ -170,7 +170,7 @@ romanLyrics: |-
 
 ۹
 جب مولا تنہا لوٹیں گے
-آنکھوں میں لہو کے آشک لئے
+آنکھوں میں لہو کے اشک لئے
 اک خون میں ڈوبا سرخ الم
 تیروں سے چھدی اک مشک لئے
 جب کوزے گرے نگے ہاتھوں سے
@@ -189,5 +189,5 @@ romanLyrics: |-
 نقوی جو عشق کربل میں
 یہ بھی ہے کرم ان ہاتھوں کا
 جو ہاتھ کٹے تھے مقتل میں
-جب اہل عزا کے آشکوں میں
+جب اہل عزا کے اشکوں میں
 ہر لفظ میرا ڈھل جائے گا

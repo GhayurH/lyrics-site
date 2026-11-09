@@ -17,7 +17,7 @@ romanLyrics: |-
   Bano ko asghar yaad aaya
 
   1
-  Sholon ki zad par qaime thay
+  Sholon ki zad par khaime thay
   Armaan bhi maa ke jalne lage
   Jis waqt jala nanha jhoola
 
