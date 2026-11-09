@@ -8,111 +8,64 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Jane Wafa-e-Alam
-
+romanLyrics: |-
+  Jaan-e-Wafa-e-Alam
   Abbas-e-Ammu Janam
 
-
   1
-
-  Darya Par Tum Jao
-
-  Pani Le Kar Aao
-
-  Pyasse Hai Hum Sab
-
-  Pyassa Hai Asghar
-
+  Darya par tum jao
+  Pani le kar aao
+  Pyase haiṅ hum sab
+  Pyasa hai Asghar
 
   2
-
-  Woh Darya Behta Hai
-
-  Sab Ka Gala Sukha Hai
-
-  Tum Bhi To Piyase Ho
-
-  Baba Bhi Piyassa Hai
-
-  Bhari Ho Lakho Per
-
+  Wo darya behta hai
+  Sab ka gala sukha hai
+  Tum bhi to pyase ho
+  Baba bhi pyasa hai
+  Bhari ho laakhoṅ par
 
   3
-
-  Lo Ye Alam Mashkiza
-
-  Mere Pyaray Chacha
-
-  Tum Ko Mili Saqai
-
-  Qurba Tum Pay Sakina
-
-  Aye Sani-E-Haider
-
+  Lo ye alam mashkiza
+  Mere pyare chacha
+  Tum ko mili saqqai
+  Qurbaṅ tum pe Sakina
+  Ae Sani-e-Haider
 
   4
-
-  Sukhe Hen Sab Koozey
-
-  Samjhy Bache Kaise
-
-  Sahil Per Pehra Hai
-
-  Baadal Bhi Na Barse
-
-  Kab Jayengay Hum Ghar
-
+  Sukhe haiṅ sab kuze
+  Samjhe bachche kaise
+  Sahil par pehra hai
+  Baadal bhi na barse
+  Kab jaeṅge hum ghar
 
   5
-
-  Kya Fauj-E-Aada Hai
-
-  Kya Iska Pehra Hai
-
-  Tum Ho Sani-E-Haider
-
-  Piyase Ho To Kya Hai
-
-  Kya Roke Ga Lashkar
-
+  Kya fauj-e-aada hai
+  Kya is ka pehra hai
+  Tum ho Sani-e-Haider
+  Pyase ho to kya hai
+  Kya rokega lashkar
 
   6
-
-  Janey Lagy Jab Ghazi
-
-  Gonji Ah-O-Zari
-
-  Lab Pe Duaye Lay Kar
-
-  Piche Chaley Shezadi
-
-  Ahl-E-HaramNoha Gar
-
+  Jaane lage jab Ghazi
+  Gunji aah o zari
+  Lab pe duaeṅ le kar
+  Pichhe chali Shahzadi
+  Ahl-e-Haram nauhagar
 
   7
-
-  Ammu Laut Ke Aana
-
-  Hum Ko Na Rulwana
-
-  Rhakhe Khuda Hum Sub Ke
-
-  Sar Pe Alam Ka Saya
-
-  Aye Munis-O-Yawer
-
+  Ammu laut ke aana
+  Hum ko na rulwana
+  Rakhe Khuda hum sab ke
+  Sar pe alam ka saya
+  Ae Munis o Yawar
 
   8
-
-  Bolay Ye Roky Ghazi
-
-  Wada Karo Ye Bibi
-
-  Jab Ye Alam Chup Jaye
-
-  Aye Alam Jab Khali
-
-  Naa Rona Ye Khe Kar'
+  Bole ye ro kar Ghazi
+  Wada karo ye Bibi
+  Jab ye alam chhup jaaye
+  Aaye alam jab khali
+  Na rona ye keh kar
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:3ad8479accfd35f036fa
 # source_url: https://www.nohayonline.com/details_content.php?id=2464
@@ -128,7 +81,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ۱
 دریا پر تم جاؤ
 پانی لے کر آؤ
-پیاسے ہے ہم سب
+پیاسے ہیں ہم سب
 پیاسا ہے اصغر
 
 ۲
@@ -141,7 +94,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ۳
 لو یہ علم مشکیزہ
 میرے پیارے چچا
-تم کو ملی سقای
+تم کو ملی سقائی
 قرباں تم پہ سکینہ
 اے ثانیء حیدر
 
@@ -150,12 +103,12 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 سمجھے بچے کیسے
 ساحل پر پہرہ ہے
 بادل بھی نہ برسے
-کب جاینگے ہم گھر
+کب جائیں گے ہم گھر
 
 ۵
 کیا فوج اعدا ہے
 کیا اس کا پہرہ ہے
-تم ثانیء حیدر
+تم ہو ثانیء حیدر
 پیاسے ہو تو کیا ہے
 کیا روکے گا لشکر
 
@@ -178,4 +131,4 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 وعدہ کرو یہ بی بی
 جب یہ علم چھپ جاے
 آے علم جب خالی
-نہ روند یہ کہہ کر
+نہ رونا یہ کہہ کر

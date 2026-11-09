@@ -9,70 +9,71 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Farhan Ali Waris"
 romanLyrics: |-
-  Tu sher e jari hai sakhiyon ka sakhi hai
-  Ya baabe hawaej meri faryad ko sunle
-  Imdad karo meri ab waqte karam hai
-  Abbas tumhe bali sakina ki qasam hai
+  Tu Sher-e-Jari hai sakhiyoṅ ka sakhi hai
+  Ya Bab-e-Hawaij meri faryad ko sun le
+  Imdad karo meri ab waqt-e-karam hai
+  Abbas tumheiṅ bali Sakina ki qasam hai
 
   1
-  Aaya hoo tere dar pe badi aas hai maula
-  Har toote huwe dil ka tu ehsaas hai maula
-  Tu ek samandar hai mujhe pyaas hai maula
-  Zakhmo ki dawa sirf tere paas hai maula
+  Aaya huṅ tere dar pe bari aas hai Maula
+  Har tute hue dil ka tu ehsas hai Maula
+  Tu ek samandar hai mujhe pyaas hai Maula
+  Zakhmoṅ ki dawa sirf tere paas hai Maula
 
   2
-  Be dast sakhi apni sakhawat tu dikha de
-  Marte huwe logon ki hayaat aur badha de
-  Tu chaahe to matti ko bhi akseer bana de
-  Bemaar ko abbas e alamdar shifa de
+  Bedast sakhi apni sakhawat tu dikha de
+  Marte hue logoṅ ki hayat aur barha de
+  Tu chahe to mitti ko bhi aksir bana de
+  Bimar ko Abbas-e-Alamdar shifa de
 
   3
-  Milti hai tere dar se gunahgaar ko izzat
-  Bat'ti hai zamane mein tere haath se daulat
-  Aulaad shifa rizq hunar nutq sama'at
-  Esaar wafa ishq e khuda teri ata'at
+  Milti hai tere dar se gunahgar ko izzat
+  Batti hai zamane mein tere haath se daulat
+  Aulad, shifa, rizq, hunar, lutf o samaat
+  Isaar, wafa, ishq-e-Khuda, teri itaat
 
   4
-  Tu baabe hawaej hai sakhi ibne sakhi hai
-  Allah ke nazdeek teri baat badi hai
-  Jin maaon ki godhi abhi veeran padi hai
-  Aulaad unhe dede dua unki yehi hai
+  Tu Bab-e-Hawaij hai sakhi ibn-e-sakhi hai
+  Allah ke nazdeek teri baat bari hai
+  Jin maaoṅ ki godi abhi viran pari hai
+  Aulad unheiṅ de de dua un ki yahi hai
 
   5
-  Halaat ne ay maula mujhe tod diya hai
-  Aalaam o masayeb se mujhe jod diya hai
-  Toofano ka rukh meri taraf mod diya hai
-  Apno ne bhi ab saath mera chod diya hai
+  Halaat ne ae Maula mujhe tor diya hai
+  Aalaam o masaib se mujhe jor diya hai
+  Tufanoṅ ka rukh meri taraf mor diya hai
+  Apnoṅ ne bhi ab saath mera chhor diya hai
 
   6
-  Har ek se ye baat to karta nahi koi
-  Juz tere kahan jaake wo phailayenge jholi
-  Maa baap ke seeno pe yehi bojh hai bhaari
-  Beti ke naseebo ko jaga do mere ghazi
+  Har ek se ye baat to karta nahiṅ koi
+  Juz tere kahan ja ke wo phailaenge jholi
+  Maaṅ baap ke sinoṅ pe yahi bojh hai bhari
+  Beti ke nasiboṅ ko jaga do mere Ghazi
 
   7
-  Bejurm azadaar jo hai qaid mein maula
-  Zindan mein bichate hai magar farsh aza ka
-  Mil jaaye unhe sayyade sajjad ka sadqa
-  De unko rehaai ki khabar waaris e zehra
+  Bejurm azadar jo hai qaid mein Maula
+  Zindan mein bichhate haiṅ magar farsh-e-aza ka
+  Mil jaaye unheiṅ Sayyid Sajjad ka sadqa
+  De un ko rehai ki khabar Waris-e-Zehra
 
   8
-  Ye kehke nigahon ko tere dar pe jhukaya
-  Bas sar pe salamat rahe maa baap ka saaya
-  De ilm o hunar bacchon ko sehat bhi khudara
+  Ye keh ke nigahoṅ ko tere dar pe jhukaya
+  Bas sar pe salamat rahe maaṅ baap ka saya
+  De ilm o hunar bachchoṅ ko sehat bhi Khudara
   Kab hum ne kisi ghair ko mushkil mein pukara
 
   9
-  Aaya hoo tere dar pe ye ummeed laga kar
-  Pehna hai tere naam ka taweez bana kar
-  Dil kehta hai sarkar se bas itni dua kar
-  Mazhar ko bhi farhan si aulaad ata kar
+  Aaya huṅ tere dar pe ye ummid laga kar
+  Pehna hai tere naam ka tawiz bana kar
+  Dil kehta hai Sarkar se bas itni dua kar
+  Mazhar ko bhi Farhan si aulad ata kar
 # source_id: nohayonline:dacf67ca43f883045486
 # source_url: https://www.nohayonline.com/details_content.php?id=2346
 # raw_sha256: 5745432b01726fdc4fba4d6afe22c05e2297de1bec93ceb7433febbcfa919ce0
 ---
-تو شیر جری ہے سخیوں کا سقی ہے
+تو شیر جری ہے سخیوں کا سخی ہے
 یا باب حوایج میری فریاد کو سن لے
 امداد کرو میری اب وقت کرم ہے
 عباس تمہیں بالی سکینہ کی قسم ہے
@@ -84,7 +85,7 @@ romanLyrics: |-
 زخموں کی دوا صرف تیرے پاس ہے مولا
 
 ۲
-بے دست سقی اپنی سخاوت تو دکھا دے
+بے دست سخی اپنی سخاوت تو دکھا دے
 مرتے ہوے لوگوں کی حیات اور بڑھا دے
 تو چاہے تو مٹی کو بھی اکسیر بنا دے
 بیمار کو عباس علمدار شفا دے
@@ -96,14 +97,14 @@ romanLyrics: |-
 ایثار وفا عشقِ خدا تیری اطاعت
 
 ۴
-تو باب حوایج ہے سقی ابنِ سقی ہے
+تو باب حوایج ہے سخی ابنِ سخی ہے
 اللّٰہ کے نزدیک تیری بات بڑی ہے
 جن ماؤں کی گودی ابھی ویران پڑی ہے
 اولاد انہیں دیدے دعا ان کی یہی ہے
 
 ۵
 حالات نے اے مولا مجھے توڑ دیا ہے
-عالم و مصایب سے مجھے جوڑ دیا ہے
+آلام و مصائب سے مجھے جوڑ دیا ہے
 طوفانوں کا رخ میری طرف موڑ دیا ہے
 اپنوں نے بھی اب ساتھ میرا چھوڑ دیا ہے
 
@@ -111,7 +112,7 @@ romanLyrics: |-
 ہر ایک سے یہ بات تو کرتا نہیں کوئی
 جز تیرے کہاں جا کے وہ پھیلاییں گے جھولی
 ماں باپ کے سینوں پہ یہی بوجھ ہے بھاری
-بیٹی کے نصیبوں کو جگہ دو میرے غازی
+بیٹی کے نصیبوں کو جگا دو میرے غازی
 
 ۷
 بے جرم عزادار جو ہے قید میں مولا
@@ -122,7 +123,7 @@ romanLyrics: |-
 ۸
 یہ کہکے نگاہوں کو تیرے در پہ جھکایا
 بس سر پہ سلامت رہے ماں باپ کا سایہ
-دے علم و ہنر بچوں کو صیحت بھی خدارا
+دے علم و ہنر بچوں کو صحت بھی خدارا
 کب ہم نے کسی غیر کو مشکل میں پکارا
 
 ۹

@@ -9,51 +9,52 @@ poet: "Waiz Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Ali Mohammad Sultanpuri"
 romanLyrics: |-
-  Ya aqi ho kahan
-  Aina abbas aina abbas
-  Zainab pukari rokar abbas tum kahan ho
-  Hote hai zulm hum par abbas tum kahan ho
+  Ya akhi ho kahan
+  Aina Abbas aina Abbas
+  Zainab pukari ro kar Abbas tum kahan ho
+  Hote haiṅ zulm hum par Abbas tum kahan ho
 
   1
-  Bas ek hi rasan mein baara gale bandhe hai
-  Har ek qadam pe bhai dam sab ke ghut rahe hai
-  Ay bawafa dilawar abbas tum kahan ho
+  Bas ek hi rasan mein baarah gale bandhe haiṅ
+  Har ek qadam pe bhai dam sab ke ghut rahe haiṅ
+  Ae bawafa dilawar Abbas tum kahan ho
 
   2
-  Aada ne kar diya hai dushwar iska jeena
-  Har saans le rahi hai mushkil se ab sakina
-  Ab jaan balab hai dukhtar abbas tum kahan ho
+  Aada ne kar diya hai dushwar is ka jina
+  Har saans le rahi hai mushkil se ab Sakina
+  Ab jaaṅ balab hai dukhtar Abbas tum kahan ho
 
   3
-  Hum sab ke sar khule hai abid ka sar jhuka hai
-  Sadme se sar jhuka kar bemaar ro raha hai
-  Mar jaaye na ye laaghar abbas tum kahan ho
+  Hum sab ke sar khule haiṅ Abid ka sar jhuka hai
+  Sadme se sar jhuka kar bimar ro raha hai
+  Mar jaaye na ye laghar Abbas tum kahan ho
 
   4
-  Teri behen pe durre barsa rahe hai aada
-  Kis ko bulaye zainab itna bata do bhaiya
-  Koi nahi hai yawar abbas tum kahan ho
+  Teri behan pe durre barsa rahe haiṅ aada
+  Kis ko bulae Zainab itna bata do bhaiya
+  Koi nahiṅ hai yawar Abbas tum kahan ho
 
   5
-  Apna nahi hai koi aa kar jo inko roke
-  Baaghi ki ye behen hai shaami ye kehke mujhpe
-  Barsa rahe hai patthar abbas tum kahan ho
+  Apna nahiṅ hai koi aa kar jo in ko roke
+  Baghi ki ye behan hai Shami ye keh ke mujh pe
+  Barsa rahe haiṅ patthar Abbas tum kahan ho
 
   6
-  Ahle haram pe zaalim angaare phaynkte hai
-  Arz o samaa hamari ghurbat pe ro rahe hai
-  Ghayyur sher e hyder abbas tum kahan ho
+  Ahl-e-Haram pe zalim angare phenkte haiṅ
+  Arz o samaṅ hamari ghurbat pe ro rahe haiṅ
+  Ghayyur Sher-e-Haider Abbas tum kahan ho
 
   7
-  Apne alam ko laa kar meri rida bana do
-  Darbar ja rahi hoon kuch hausla badha do
-  Sar par nahi hai chadar abbas tum kahan ho
+  Apne alam ko la kar meri rida bana do
+  Darbar ja rahi huṅ kuch hausla barha do
+  Sar par nahiṅ hai chadar Abbas tum kahan ho
 
   8
-  Waiz ali mohammad wo dard ki ghadi thi
-  Darbar mein ye zainab jab roke keh rahi thi
-  Hai hashr ka ye manzar abbas tum kahan ho
+  Waiz Ali Mohammad wo dard ki ghari thi
+  Darbar mein ye Zainab jab ro ke keh rahi thi
+  Hai hashr ka ye manzar Abbas tum kahan ho
 # source_id: nohayonline:e6e1844e5c4226d95b85
 # source_url: https://www.nohayonline.com/details_content.php?id=2847
 # raw_sha256: 1b3f2d1f21b3331dfeec67ec088a3d5c635b136ea569c7881d8c7bc5913d23a0
@@ -76,16 +77,16 @@ romanLyrics: |-
 ۳
 ہم سب کے سر کھلے ہیں عابد کا سر جھکا ہے
 صدمے سے سر جھکا کر بیمار رو رہا ہے
-مر جائے نہ یہ لاگر عباس تم کہاں ہو
+مر جائے نہ یہ لاغر عباس تم کہاں ہو
 
 ۴
 تیری بہن پہ درّے برسا رہے ہیں اعدا
-کس کو بلاۓ زینب اتنا بتا رو بھیّا
+کس کو بلائے زینب اتنا بتا دو بھیا
 کوئی نہیں ہے یاور عباس تم کہاں ہو
 
 ۵
 اپنا نہیں ہے کوئی آکر جو اِن کو روکے
-باغی کی یہ بہن ہے شامی یہ کہکے مجھپے
+باغی کی یہ بہن ہے شامی یہ کہہ کے مجھ پہ
 برسا رہے ہیں پتّھر عباس تم کہاں ہو
 
 ۶

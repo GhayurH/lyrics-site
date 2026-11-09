@@ -8,47 +8,48 @@ kalamType: "Noha"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anjuman Masoomeen"
 romanLyrics: |-
-  Abbas utho mai lut'ti hoon
+  Abbas utho main lutti huṅ
   Baba ki wasiyat yaad karo
   Mujh bekas ki imdad karo
-  Chinti hai mere sar se chadar
-  Abbas utho mai lut'ti hoon
-  
+  Chhinti hai mere sar se chadar
+  Abbas utho main lutti huṅ
+
   1
   Kitna gehra sannata hai
   Wehshat se jigar tharrata hai
-  Is jangal mein mai jaun kidhar
-  
+  Is jangal mein main jauṅ kidhar
+
   2
-  Jangal mein sakina khoyi hai
-  Kya jaane kahan wo soyi hai
-  Dhoondun mai kahan usko jaa kar
-  
+  Jangal mein Sakina khoi hai
+  Kya jaane kahan wo soi hai
+  Dhundhuṅ main kahan us ko ja kar
+
   3
   Zainab pe ye kaisa waqt aaya
-  Hum khaak pe baithe hai bhaiya
-  Hai qabre paymabar zer o zabar
-  
+  Hum khaak pe baithe haiṅ bhaiya
+  Hai qabr-e-Payambar zer o zabar
+
   4
-  Mai kab se bulati hoon tum ko
-  Faryad sunati hoon tum ko
-  Aa jao tarayi se uth kar
-  
+  Main kab se bulati huṅ tum ko
+  Faryad sunati huṅ tum ko
+  Aa jao tarai se uth kar
+
   5
-  Aaghosh e imamat ke paale
-  Ay mere rida ke rakhwale
-  Balwe mein khadi hoon nange sar
-  
+  Aghosh-e-Imamat ke pale
+  Ae mere rida ke rakhwale
+  Balwe mein khari huṅ nange sar
+
   6
-  Dukh dard ke baadal chaate hai
-  Jab shaahe huda yaad aate hai
-  Chalte hai mere dil par khanjar
-  
+  Dukh dard ke baadal chhate haiṅ
+  Jab Shah-e-Huda yaad aate haiṅ
+  Chalte haiṅ mere dil par khanjar
+
   7
-  Daaman mein koi dilbar bhi nahi
-  Hadh ye hai ali asghar bhi nahi
-  Akbar bi gaye barchi khaa kar
+  Daman mein koi dilbar bhi nahiṅ
+  Hadd ye hai Ali Asghar bhi nahiṅ
+  Akbar bhi gaye barchhi kha kar
 # source_id: nohayonline:8ad15f2605b2f9a94b54
 # source_url: https://www.nohayonline.com/details_content.php?id=3253
 # raw_sha256: 8246378c71750f5995016dd71d224e0d59ad2490392abda7c0a53826d8d33d2f
@@ -66,8 +67,8 @@ romanLyrics: |-
 اس جنگل میں میں جاؤں کدھر
 
 ۲
-جنگل میں سکینہ کھوی ہے
-کیا جانے کہاں وہ سوی ہے
+جنگل میں سکینہ کھوئی ہے
+کیا جانے کہاں وہ سوئی ہے
 ڈھونڈوں میں کہاں اس کو جا کر
 
 ۳
@@ -76,7 +77,7 @@ romanLyrics: |-
 ہے قبر پیمبر زیر و زبر
 
 ۴
-میں کب سے سلاتی ہوں تم کو
+میں کب سے بلاتی ہوں تم کو
 فریاد سناتی ہوں تم کو
 آ جاؤ ترای سے اٹھ کر
 
@@ -93,4 +94,4 @@ romanLyrics: |-
 ۷
 دامن میں کوئی دلبر بھی نہیں
 حد یہ ہے علی اصغر بھی نہیں
-اکبر بھی گےء برچھی کھا کر
+اکبر بھی گئے برچھی کھا کر

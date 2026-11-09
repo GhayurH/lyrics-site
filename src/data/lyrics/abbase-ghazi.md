@@ -9,64 +9,65 @@ poet: "Asif Bijnori"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
-  Abbas abbas abbas alamdar
-  Sakina ke chacha abbas e ghazi
-  Ay jaane fatema abbas e ghazi
+  Abbas Abbas Abbas Alamdar
+  Sakina ke chacha Abbas-e-Ghazi
+  Ae Jaan-e-Fatema Abbas-e-Ghazi
 
   1
-  Pukari zainab e muztar ye ro kar
-  Khuda ke waaste aaja palat kar
-  Na chin jaaye kahin sar se bhi chadar
-  Madad kar bawafa abbas e ghazi
+  Pukari Zainab-e-Muztar ye ro kar
+  Khuda ke waste aa ja palat kar
+  Na chhin jaaye kahiṅ sar se bhi chadar
+  Madad kar bawafa Abbas-e-Ghazi
 
   2
-  Sitam dhaane lage jallaad aaja
-  Mere bhaiya paye imdaad aaja
-  Na ho jaye kahin barbaad aaja
-  Hai tujhse ilteja abbas e ghazi
+  Sitam dhane lage jallad aa ja
+  Mere bhaiya paaye imdad aa ja
+  Na ho jaaye kahiṅ barbad aa ja
+  Hai tujhe ilteja Abbas-e-Ghazi
 
   3
-  Koi hum par taras khaata nahi hai
-  Kisi ko bhi reham aata nahi hai
-  Khata bhi koi batlaata nahi hai
-  Karun kis se gila abbas e ghazi
+  Koi hum par taras khata nahiṅ hai
+  Kisi ko bhi raham aata nahiṅ hai
+  Khata bhi koi batlata nahiṅ hai
+  Karuṅ kis se gila Abbas-e-Ghazi
 
   4
-  Khuda ke waaste ek baar aaja
-  Mere monis mere jarraar aaja
-  Bhatija hai tera bemaar aaja
-  Mujhe de hausla abbas e ghazi
+  Khuda ke waste ek baar aa ja
+  Mere munis mere jarrar aa ja
+  Bhatija hai tera bimar aa ja
+  Mujhe de hausla Abbas-e-Ghazi
 
   5
-  Har ek ko kab se mai samjha rahi hoo
-  Mere bhaiyya bahot ghabra rahi hoo
-  Mai kab se taaziyane kha rahi hoo
-  Khabar hai tujkho kya abbas e ghazi
+  Har ek ko kab se main samjha rahi huṅ
+  Mere bhaiya bahot ghabra rahi huṅ
+  Main kab se taziyane kha rahi huṅ
+  Khabar hai tujh ko kya Abbas-e-Ghazi
 
   6
-  Kahin qasim kahin akbar ka laasha
-  Kahin cheh maah ke asghar ka laasha
-  Pada hai dhoop mein sarwar ka laasha
-  Ye kaisi hai jafa abbas e ghazi
+  Kahiṅ Qasim kahiṅ Akbar ka lasha
+  Kahiṅ chhe mah ke Asghar ka lasha
+  Para hai dhup mein Sarwar ka lasha
+  Ye kaisi hai jafa Abbas-e-Ghazi
 
   7
-  Palat aa be-saharon ke sahare
-  Na mar jaaye kahin aafat ke maare
-  Behan tere siwa kis ko pukaare
-  Nahi hai doosra abbas e ghazi
+  Palat aa besaharoṅ ke sahare
+  Na mar jaaye kahiṅ aafat ke mare
+  Behan tere siwa kis ko pukare
+  Nahiṅ hai dusra Abbas-e-Ghazi
 
   8
-  Karun kaise sehan ay mere bhaiya
-  Galay mein hai rasan ay mere bhaiya
-  Na mar jaaye behan ay mere bhaiya
-  Hai mujhse kyun khafa abbas e ghazi
+  Karuṅ kaise sahan ae mere bhaiya
+  Gale mein hai rasan ae mere bhaiya
+  Na mar jaaye behan ae mere bhaiya
+  Hai mujh se kiun khafa Abbas-e-Ghazi
 
   9
-  Bayan e zainab e dilgeer asif
-  Hai sabr o zabt ki tafseer asif
-  Koi kaise kare tehreer asif
-  Padhe aamir bhi kya abbas e ghazi
+  Bayan-e-Zainab-e-Dilgir Asif
+  Hai sabr o zabt ki tasvir Asif
+  Koi kaise kare tahrir Asif
+  Parhe Aamir bhi kya Abbas-e-Ghazi
 # source_id: nohayonline:a595d09b95c948450f0b
 # source_url: https://www.nohayonline.com/details_content.php?id=2129
 # raw_sha256: f707c13834b0d1238475ec72b984e7e374b203ff9561fb7f978cacd3d32de86e
@@ -78,14 +79,14 @@ romanLyrics: |-
 ۱
 پکاری زینبِ مضطر یہ رو کر
 خدا کے واسطے آجا پلٹ کر
-نہ چھن جاے کہیں سر سے بھی چادر
+نہ چھن جائے کہیں سر سے بھی چادر
 مدد کر با وفا عباس غازی
 
 ۲
 ستم ڈھانے لگے جلاد آجا
-میرے بھیا پاے امداد آ جا
+میرے بھیا پائے امداد آ جا
 نہ ہو جاے کہیں برباد آجا
-ہے تجھے التجاء عباس غازی
+ہے تجھے التجا عباس غازی
 
 ۳
 کوئی ہم پر ترس کھاتا نہیں ہے
@@ -113,14 +114,14 @@ romanLyrics: |-
 
 ۷
 پلٹ آ بے سہاروں کے سہارے
-نہ مر جاۓ کہیں آفت کے مارے
+نہ مر جائے کہیں آفت کے مارے
 بہن تیرے سوا کس کو پکارے
 نہیں ہے دوسرا عباس غازی
 
 ۸
 کروں کیسے سہن اے میرے بھیا
 گلے میں ہے رسن اے میرے بھیا
-نہ مر جاۓ بہن اے میرے بھیا
+نہ مر جائے بہن اے میرے بھیا
 ہے مجھ سے کیوں خفا عباس غازی
 
 ۹
