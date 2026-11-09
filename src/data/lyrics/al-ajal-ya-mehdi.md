@@ -9,46 +9,47 @@ poet: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Mesum Abbas"
 romanLyrics: |-
-  Roke zehra ye pukari al ajal ya mehdi
-  Mujhpe darwaza gira tod di pasli meri
+  Ro ke Zehra ye pukari Al ajal Ya Mehdi
+  Mujh pe darwaza gira tor di pasli meri
 
   1
-  Inteqam aa ke tujhe lena hai mohsin ka mere
-  Yaad karti hai abhi se tujhe teri dadi
+  Intiqam aa ke tujhe lena hai Mohsin ka mere
+  Yaad karti hai abhi se tujhe teri Dadi
 
   2
   Zakhmi pehlu pe hi ek haath mera rehta tha
-  Doosra haath utha kar mai dua karti thi
+  Dusra haath utha kar main dua karti thi
 
   3
-  Has rahe thay sabhi darbari meri ghurbat par
-  Maine tehreer e nabi khaak se ye kehke chuni
+  Haṅs rahe the sabhi darbari meri ghurbat par
+  Main ne tahrir-e-Nabi khaak se ye keh ke chuni
 
   4
-  Mere pehlu ki tarha beta shikasta hai mazaar
-  Dekho sau saal huwe qabr dubara na bani
+  Mere pehlu ki tarah beta shikasta hai mazar
+  Dekho sau saal hue qabr dobara na bani
 
   5
-  Ek kooche mein jo zaalim ne tamacha maara
-  Haye mai rote huwe khaak pe ye kehke giri
+  Ek kuche mein jo zalim ne tamacha mara
+  Haye main rote hue khaak pe ye keh ke giri
 
   6
-  Baandh ke khaynchi jo zaalim ne galay mein rassi
-  Dil mera kehta raha dekh ke tauheen e ali
+  Baṅdh ke khinchi jo zalim ne gale mein rassi
+  Dil mera kehta raha dekh ke tauhin-e-Ali
 
   7
-  Mekh darwaze ki jis dam mere phasli pe lagi
-  Mujhko mohsin ki sada rote huwe aati thi
+  Mekh darwaze ki jis dam meri pasli pe lagi
+  Mujh ko Mohsin ki sada rote hue aati thi
 
   8
-  Mir sajjad jo jalta hua darwaza gira
-  Al madad fizza se pehle meri bibi boli
+  Mir Sajjad jo jalta hua darwaza gira
+  Al madad Fizza se pehle meri Bibi boli
 # source_id: nohayonline:8af14ad1567173c40f40
 # source_url: https://www.nohayonline.com/details_content.php?id=1304
 # raw_sha256: 6a461069736e3324f061a8a122cbff15bb01e5574dcbbaec9a2e5aae5bb3bc72
 ---
-روکے زہرا یہ پکاری العجل یا مہدی
+رو کے زہرا یہ پکاری العجل یا مہدی
 مجھ پہ دروازہ گرا توڑ دی پسلی میری
 
 ۱
@@ -61,24 +62,24 @@ romanLyrics: |-
 
 ۳
 ہنس رہے تھے سبھی درباری میری غربت پر
-میں نے تحریر نبی خاک سے یہ کہکے چنی
+میں نے تحریرِ نبی خاک سے یہ کہہ کے چنی
 
 ۴
-میرے پہلو کی طرح بیٹا شکستہ ہے منظر
-دیکھو سو سال ہوے قبر دوبارہ نہ بنی
+میرے پہلو کی طرح بیٹا شکستہ ہے مزار
+دیکھو سو سال ہوئے قبر دوبارہ نہ بنی
 
 ۵
-ایک کوچے میں جو ظالم نے طمانچے مارا
-ہاے میں روتے ہوئے خاک پہ یہ کہکے گری
+ایک کوچے میں جو ظالم نے طمانچہ مارا
+ہائے میں روتے ہوئے خاک پہ یہ کہہ کے گری
 
 ۶
 باندھ کے کھینچی جو ظالم نے گلے میں رسی
-دل میرا کہتا رہا دیکھ کے توحین علی
+دل میرا کہتا رہا دیکھ کے توہینِ علی
 
 ۷
-میخ دروازے کی جس دم میرے پسلی پہ لگی
-مجھکو محسن کی صدا روتے ہوئے آتی تھی
+میخ دروازے کی جس دم میری پسلی پہ لگی
+مجھ کو محسن کی صدا روتے ہوئے آتی تھی
 
 ۸
 میر سجاد جو جلتا ہوا دروازہ گرا
-المدد مدد فضہ سے پہلے میری بی بی بولی
+المدد فضہ سے پہلے میری بی بی بولی
