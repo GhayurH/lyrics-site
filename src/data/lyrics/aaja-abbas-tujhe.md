@@ -14,29 +14,29 @@ romanLyrics: |-
   Kaise paband-e-rasan Shaam mein jaaye Zainab
 
   1
-  Kya karun ye to bata bhai nahi sar pe rida
-  Sar pe baba bhi nahi kaun sune meri sada
+  Kya karuṅ ye to bata bhai nahiṅ sar pe rida
+  Sar pe baba bhi nahiṅ kaun sune meri sada
   Hukm zaalim ka hai darbar mein aaye Zainab
 
   2
   Mera baba hai Ali aur mera nana Nabi
-  Dard o gham seh ke bhi main din bacha kar hun chali
+  Dard o gham seh ke bhi main din bacha kar huṅ chali
   Shaam mein gunj rahi thi ye sada-e-Zainab
 
   3
-  Baad Shabbir ke saaye mein nahi aayi Rubab
+  Baad Shabbir ke saaye mein nahiṅ aayi Rubab
   Ghamzada behen ko is baat ka de bhai jawab
   Dhoop se usko bata kaise uthaye Zainab
 
   4
-  Shaam manzil hai meri bhai hai be-gor o kafan
+  Shaam manzil hai meri bhai hai begor o kafan
   Na hi matam hai kiya na hi kiya usko dafan
   Baat ye tu hi bata kaise bhulaye Zainab
 
   5
   Kya hai aasaan ye Khursheed bhala nauhagari
-  Jaante hain ye sukhanwar ke ye manzil hai kadi
-  Baat banti hai jo hojaye ata-e-Zainab
+  Jaante hai ye sukhanwar ke ye manzil hai kari
+  Baat banti hai jo ho jaaye ata-e-Zainab
 # source_id: nohayonline:acb9429cee86f1b26165
 # source_url: https://www.nohayonline.com/details_content.php?id=3166
 # raw_sha256: 94e409836e32ba3150ac189ff49527912d802e08e5e4d8d8d5afff633376dc6d
@@ -51,7 +51,7 @@ romanLyrics: |-
 
 ۲
 میرا بابا ہے علی اور میرا نانا نبی
-درد و غم سہہ کے بھی میں دیں بچا کر ہوں چلی
+درد و غم سہہ کے بھی میں دین بچا کر ہوں چلی
 شام میں گونج رہی تھی یہ صداے زینب
 
 ۳

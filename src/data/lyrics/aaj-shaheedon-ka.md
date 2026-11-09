@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ho raha hai dasht mein matam
-  Aaj shaheedon ka hai chehlum
+  Aaj shahidoṅ ka hai chehlum
   Shaam se aaya hai qafila
 
   1
-  Loot ka samaan mila mil gayi ridayein sab
+  Lut ka saamaaṅ mila mil gayi ridaayeṅ sab
   Matam-e-Husain ko taras gaye thay tashna lab
   Ab kare jee khol ke matam
 
   2
-  Be-rida jo bibiyan thi aaj hui ba-rida
-  Apne apne warison ko ro rahi hai ghamzada
+  Berida jo Bibiyaṅ thi aaj hui ba-rida
+  Apne apne waarisoṅ ko ro rahi hai ghamzada
   Kehne laga dasht ka aalam
 
   3
   Koi ye kehne lagi haye mere ba-wafa
-  Haye ali akbaram keh ke koi ro diya
+  Haye Ali Akbaram keh ke koi ro diya
   Dil ye sada deta tha paiham
 
   4
   Saani-e-Zehra ne phir aa ke haram se kaha
-  Aaiye sab mil ke hum karte hain majlis bapa
-  Laaiye abbas ka parcham
+  Aaiye sab mil ke hum karte hai majlis bapa
+  Laaiye Abbas ka parcham
 
   5
-  Dasht e bayaban se phir wo mukhatib hui
-  Laal o gohar sab mere kha gayi teri zameen
+  Dasht-e-bayaabaaṅ se phir wo mukhaatib hui
+  Laal o gohar sab mere kha gayi teri zamiṅ
   Dekh le saadat ka matam
 
   6
-  Seena zani thi kahin aur kahin shor o shain
+  Sina zani thi kahiṅ aur kahiṅ shor o shain
   Ek sada chaar su gunj uthi ya Husain
-  Ho gayi ashkon se zameen nam
+  Ho gayi ashkoṅ se zamiṅ nam
 
   7
-  Bain ye fizza ke thay karbobala kuch bata
-  Kaise ruke aankh se ashkon ki ye alqama
+  Bain ye Fizza ke thay Karbobala kuch bata
+  Kaise ruke aankh se ashkoṅ ki ye Alqama
   Kaise kare zabt bhala hum
 
   8
-  Thaam liya haath se qalb ko sajjad ne
-  Laakh dilaase diye Zainab-e-nashaad ne
-  Aa gayi masooma e aalam
+  Thaam liya haath se qalb ko Sajjad ne
+  Laakh dilaase diye Zainab-e-naashaad ne
+  Aa gayi maasuma-e-aalam
 
   9
   Ek hi paigham hai Mazhar o Farhan ka
@@ -67,12 +67,12 @@ romanLyrics: |-
 شام سے آیا ہے قافلہ
 
 ۱
-لوٹ کا ساماں ملا مل گیء رداییں سب
-ماتم حسین کو ترس گےء تھے تشنہ لب
+لوٹ کا ساماں ملا مل گئیں ردائیں سب
+ماتم حسین کو ترس گئے تھے تشنہ لب
 اب کرے جی کھول کے ماتم
 
 ۲
-بے ردا جو بی بیاں تھی آج ہوی با ردا
+بے ردا جو بیبیاں تھی آج ہوئی با ردا
 اپنے اپنے وارثوں کو رو رہی ہے غمزدہ
 کہنے لگا دشت کا عالم
 
@@ -82,19 +82,19 @@ romanLyrics: |-
 دل یہ صدا دیتا تھا پیہم
 
 ۴
-ثانیء زہرا نے پھر آ کے حرم سے کہا
-آییےء سب مل کے ہم کرتے ہے مجلس بپا
-لاییےء عباس کا پرچم
+ثانیٔ زہرا نے پھر آ کے حرم سے کہا
+آئیے سب مل کے ہم کرتے ہے مجلس بپا
+لائیے عباس کا پرچم
 
 ۵
-دشتِ بیاباں سے پھر وہ مخاطب ہوی
-لعل و گوہر سب میرے کھا گیء تیری زمیں
+دشتِ بیاباں سے پھر وہ مخاطب ہوئی
+لعل و گوہر سب میرے کھا گئی تیری زمیں
 دیکھ لے سادات کا ماتم
 
 ۶
 سینہ زنی تھی کہیں اور کہیں شور و شین
 ایک صدا چار سو گونج اٹھی یا حسین
-ہو گیء اشکوں سے زمیں نم
+ہو گئی اشکوں سے زمیں نم
 
 ۷
 بین یہ فضہ کے تھے کربوبلا کچھ بتا
@@ -103,10 +103,10 @@ romanLyrics: |-
 
 ۸
 تھام لیا ہاتھ سے قلب کو سجاد نے
-لاکھ دلاسے دیےء زینب ناشاد نے
-آ گیء معصومہء عالم
+لاکھ دلاسے دیے زینب ناشاد نے
+آ گئی معصومۂ عالم
 
 ۹
 ایک ہی پیغام ہے مظہر و فرحان کا
-پرسہ محمد کو دے آییےء اہلِ عزا
-کیجیےء زنجیر کا ماتم
+پرسہ محمد کو دے آئیے اہلِ عزا
+کیجیے زنجیر کا ماتم

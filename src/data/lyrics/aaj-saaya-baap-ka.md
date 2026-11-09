@@ -14,31 +14,31 @@ romanLyrics: |-
   Ab na dekhegi kabhi ghamkhaar chehra baap ka
 
   1
-  Rukhsat-e-aakhiri ki manzil hai elaahi khair ho
+  Rukhsat-e-aakhiri ki manzil hai Ilaahi khair ho
   Hai qayamat ghar se jaata hai janaza baap ka
 
   2
-  Ya Nabi Allah bahr-e-Fatima aa jaiye
+  Ya Nabi Allah bahr-e-Fatima aa jaaiye
   Aan ke de dijiye bachon ko pursa baap ka
 
   3
-  Baam o dar arsh-e-Ilahi ke larazte hai udhar
-  Padh rahi hai Zainab o Kulsoom nauha baap ka
+  Baam o dar arsh-e-Ilahi ke larazte haiṅ udhar
+  Parh rahi hai Zainab o Kulsum nauha baap ka
 
   4
-  Betiyon ko sabr ki talqeen koi kya kare
+  Betiyoṅ ko sabr ki talqin koi kya kare
   Saamne jis waqt ke rakha ho laasha baap ka
 
   5
-  Haye re aulaad-e-Zehra ki gharibi al amaan
+  Haye re aulaad-e-Zehra ki gharibi al-amaan
   Waqt ne kaisa diya ghurbat mein sadma baap ka
 
   6
-  Kis tarha ashkon ko roke Fatima ki betiyan
+  Kis tarah ashkoṅ ko roke Fatima ki betiyaṅ
   Khun mein duba hua dekha hai chehra baap ka
 
   7
-  Beh padegi chashm besakhta ashk-e-Furat
+  Beh paregi chashm besaakhta ashk-e-Furaat
   Yaad jab aa jayega beti ko lehja baap ka
 
   8
@@ -46,8 +46,8 @@ romanLyrics: |-
   Ek beti dekhti hai zakhmi seena baap ka
 
   9
-  Dayam o Yazdan likhe kaise bahot dushwar hai
-  Betiyon ke saath jo hota hai rishta baap ka
+  Dayam o Yazdaṅ likhe kaise bahut dushwaar hai
+  Betiyoṅ ke saath jo hota hai rishta baap ka
 # source_id: nohayonline:f9a2a563c223521c7d94
 # source_url: https://www.nohayonline.com/details_content.php?id=1438
 # raw_sha256: 578fb9e6e6571a7522507d31f25d79d644df9794500130340665163c3c34f8d2
@@ -60,8 +60,8 @@ romanLyrics: |-
 ہے قیامت گھر سے جاتا ہے جنازہ باپ کا
 
 ۲
-یا نبی اللّٰہ بہر فاطمہ آ جایےء
-آن کے دے دیجیئے بچوں کو پرسہ باپ کا
+یا نبی اللّٰہ بہر فاطمہ آ جائیے
+آن کے دے دیجیے بچوں کو پرسہ باپ کا
 
 ۳
 بام و دَر عرش الہی کے لرزتے ہیں ادھر
@@ -76,11 +76,11 @@ romanLyrics: |-
 وقت نے کیسا دیا غربت میں صدمہ باپ کا
 
 ۶
-کس طرح آشکوں کو روکے فاطمہ کی بیٹیاں
+کس طرح اشکوں کو روکے فاطمہ کی بیٹیاں
 خون میں ڈوبا ہوا دیکھا ہے چہرہ باپ کا
 
 ۷
-بہہ پڑے گی چشم بے ساختہ آشک فرات
+بہہ پڑے گی چشم بے ساختہ اشک فرات
 یاد جب آ جاے گا بیٹی کو لہجہ باپ کا
 
 ۸

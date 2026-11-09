@@ -13,69 +13,71 @@ romanLyrics: |-
   Armaan yehi hota hai
   Bete ke liye maadar ka
   Ek chaand si dulhan aaye
-  Banjaye naseeb is ghar ka
+  Ban jaaye nasib is ghar ka
   Socha tha ye Sughra ne
-  Mehndi rachaungi
-  Aaja Akbar tere sar pe sehra sajaungi
-  Haye Akbar haye haye akbar
+  Mehndi rachaauṅ gi
+  Aaja Akbar tere sar pe sehra sajaauṅ gi
+  Haye Akbar haye haye Akbar
 
   1
-  Main yaad tujhe karti hun
-  Chehra ashkon se dho kar
-  Din raat tadapti hun main
+  Main yaad tujhe karti huṅ
+  Chehra ashkoṅ se dho kar
+  Din raat tarapti huṅ main
   Teri yaad mein beta ro kar
   Ek karb musalsal hai dil mein
   Ye dard jo har pal hai dil mein
-  Tu na aaya to teri qasam mar jaungi aaja
-  Haye Akbar haye haye akbar
+  Tu na aaya to teri qasam mar jaauṅ gi aaja
+  Haye Akbar haye haye Akbar
 
   2
+  Armaan yehi hota hai
+  Bete ke liye maadar ka
   Ek chaand si dulhan aaye
-  Ban jaaye naseeb is ghar ka
-  Ashkon se banaungi sehra
-  Tere sar pe sajaungi sehra
-  Socha tha ye Sughra ne mehndi rachaungi aaja
-  Haye Akbar haye haye akbar
+  Ban jaaye nasib is ghar ka
+  Ashkoṅ se banaauṅ gi sehra
+  Tere sar pe sajaauṅ gi sehra
+  Socha tha ye Sughra ne mehndi rachaauṅ gi aaja
+  Haye Akbar haye haye Akbar
 
   3
   Khud tujhko banaye dulha
   Jannat se Haider aa kar
   Masnad bhi sajaye teri
   Salman o Abuzar aa kar
-  Jannat se gul-e-tar mangwaun
-  Yun sej uroosi banwaun
-  Jitne armaan dil mein hai wo dikhlaungi aaja
-  Haye Akbar haye haye akbar
+  Jannat se gul-e-tar mangwaauṅ
+  Yuṅ sej arusi banwaauṅ
+  Jitne armaan dil mein hai wo dikhlaauṅ gi aaja
+  Haye Akbar haye haye Akbar
 
   4
-  Nabiyon ki qatarein hongi
-  Aur aage Muhammad honge
-  Rizwan padhega sehra
-  Behno ko nayg milenge
-  Jannat mein charaghan bhi hoga
+  Nabiyoṅ ki qataareṅ hoṅ gi
+  Aur aage Muhammad hoṅ ge
+  Rizwan parhega sehra
+  Behnoṅ ko neg mileṅ ge
+  Jannat mein charaaghaaṅ bhi hoga
   Jis waqt banega tu dulha
-  Phoolon se main ye saara jahan mehkaungi aaja
-  Haye Akbar haye haye akbar
+  Phuloṅ se main ye saara jahaaṅ mehkaauṅ gi aaja
+  Haye Akbar haye haye Akbar
 
   5
   Khaime mein jo aaya laasha
   Hamshakl-e-Payambar tera
-  Umeedein miti maadar ki
+  Umideṅ miti maadar ki
   Hasrat ka janaza nikla
   Is dil pe sitam hai furqat ka
   Kuch dosh hai meri qismat ka
-  Batla mujhko ghar kaise laut ke jaungi aaja
-  Haye Akbar haye haye akbar
+  Batla mujhko ghar kaise laut ke jaauṅ gi aaja
+  Haye Akbar haye haye Akbar
 
   6
-  Farhan bayan is gham ka
-  Lafzon mein nahi ho sakta
+  Farhan bayaaṅ is gham ka
+  Lafzoṅ mein nahiṅ ho sakta
   Faryad hai ye maadar ki
   Mazhar ne likha jo nauha
   Kehti thi yehi ro kar maadar
-  Maa tujhpe fida aaja akbar
-  Haasil kya phir main qabr mein jab so jaungi aaja
-  Haye Akbar haye haye akbar
+  Maaṅ tujh pe fida aaja Akbar
+  Haasil kya phir main qabr mein jab so jaauṅ gi aaja
+  Haye Akbar haye haye Akbar
 # source_id: nohayonline:07ab98b29d677c5feb3f
 # source_url: https://www.nohayonline.com/details_content.php?id=2365
 # raw_sha256: 0040d416b88044a1d147647a33c4d43b5a00871aa5bdea7e25451e711af60b99
@@ -100,6 +102,8 @@ romanLyrics: |-
 ہاے اکبر ہاے ہاے اکبر
 
 ۲
+ارمان یہی ہوتا ہے
+بیٹے کے لئے مادر کا
 اک چاند سی دلہن آے
 بن جاے نصیب اس گھر کا
 اشکوں سے بناؤں گی سہرا
@@ -118,13 +122,13 @@ romanLyrics: |-
 ہاے اکبر ہاے ہاے اکبر
 
 ۴
-نبیوں کی خطاریں ہونگی
-اور آگے محمد ہونگے
+نبیوں کی قطاریں ہوں گی
+اور آگے محمد ہوں گے
 رضوان پڑھے گا سہرا
-بہنوں کو نےگ ملینگے
-جنّت مئی چراغاں بھی ہوگا
-جس وقت بنی گا تو دولہا
-پھولوں سے میں یہ سارا جہاں مہکاوں گی آجا
+بہنوں کو نیگ ملیں گے
+جنّت میں چراغاں بھی ہوگا
+جس وقت بنے گا تو دولہا
+پھولوں سے میں یہ سارا جہاں مہکاؤں گی آجا
 ہاے اکبر ہاے ہاے اکبر
 
 ۵

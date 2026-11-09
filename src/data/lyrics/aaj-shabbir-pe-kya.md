@@ -110,7 +110,7 @@ romanLyrics: |-
   Yaas se suye falak dekh ke reh jaate hai
   
   17
-  Arz karte hai ye khaaliq se ke ae lab e ghafoor
+  Arz karte hai ye khaaliq se ke ae Rab-e-Ghafur
   Tu hai aalam ke nahi kuch tere bande ka kasoor
   Karte hai ye mujhe be-jurm o khata teghon se choor
   Haath ummat pe uthaana ko nahi mujhko manzoor
@@ -147,7 +147,7 @@ romanLyrics: |-
   
   23
   Sakhtiyan marg ki kar apne karam se aasan
-  Lab pe takbeer ho jab khalq pe khanjar ho rawan
+  Lab pe takbir ho jab halq pe khanjar ho rawaṅ
   Dil mein ho yaad teri band ho jis waqt zuban
   Dam bharun tera hi tan se jo nikalne lage jaan
   
