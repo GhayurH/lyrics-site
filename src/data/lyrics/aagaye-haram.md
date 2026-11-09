@@ -1,59 +1,60 @@
 ---
-title: "آگےء حرم ہوگا اربعین"
-alternateTitle: "Aagaye Haram"
+title: "آ گئے حرم ہوگا اربعین"
+alternateTitle: "Aa Gaye Haram"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aagaye Haram", "آگےء حرم ہوگا اربعین"]
 published: false
 romanLyrics: |-
   Aa gaye haram hoga Arbaeen
   
   1
-  Gham ke pasban dard ke amin
-  Aaye qaid se Abid-e-hazin
-  Farsh-e-khaak par hai falak nashin
+  Gham ke paasbaan dard ke amin
+  Aaye qaid se Abid-e-haziṅ
+  Farsh-e-khaak par hai falak nashiṅ
   
   2
-  Tauq beriyan aur rismaṅ
-  Sar pe gir pada jaise aasman
-  Ghamzada falak roti hai zameen
+  Tauq beriyaṅ aur rismaṅ
+  Sar pe gir para jaise aasmaṅ
+  Ghamzada falak roti hai zamiṅ
   
   3
   Dekhiye mera zakhmi hai gala
-  Nange paun main kanton par chala
-  Aisi bebasi hogi kya kahin
+  Nange paaoṅ main kaantoṅ par chala
+  Aisi bebasi hogi kya kahiṅ
   
   4
   Zindagi se ye maut hai bhali
   Ae mere chacha Sheh ki zindagi
-  Shaam mein hai ab teri naazneen
+  Shaam mein hai ab teri naazniṅ
   
   5
-  Dukhte hai mere sab ye us suqan
-  Kis se main karun haal-e-dil bayan
-  Keh rahe hai ye abide hazeen
+  Dukhte haiṅ mere sab ye us suqan
+  Kis se main karuṅ haal-e-dil bayaaṅ
+  Keh rahe haiṅ ye Abid-e-haziṅ
   
   6
-  Akbar-e-jawan mere bhai jaan
-  Saath tum nahiṅ khaak hai jahan
-  Yaad karti hai zainabe hazeen
+  Akbar jawaṅ mere bhai jaaṅ
+  Saath tum nahiṅ khaak hai jahaaṅ
+  Yaad karti hai Zainab-e-haziṅ
   
   7
   Sar kata diya ghar luta diya
   Deen ko magar tu bacha liya
-  Fatema ke laal waarise akheer
+  Fatema ke laal waaris-e-akhir
   
   8
   Dafn jo hui dekho parde mein
   Nange sar kabhi thi jo balwe mein
-  Uski betiyan dar badar phiri
+  Us ki betiyaṅ dar badar phiri
   
   9
   Karbala mein ab dekho ek baar
-  Gham mein doob kar hogaya ye haal
+  Gham mein dub kar ho gaya ye haal
   Sayyeda ke saath fakhre mursali
 # source_id: nohayonline:ce76f73f82c74693a1e7
 # source_url: https://www.nohayonline.com/details_content.php?id=927
@@ -98,9 +99,9 @@ romanLyrics: |-
 فاطمہ کے لال وارث اخیر
 
 ۸
-دفن جو ہوی دیکھو پردے میں
+دفن جو ہوئی دیکھو پردے میں
 ننگے سر کبھی تھی جو بلوے میں
-اسکی بیٹیاں در بدر پھری
+اس کی بیٹیاں در بدر پھری
 
 ۹
 کربلا میں اب دیکھو ایک بار

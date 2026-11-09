@@ -1,77 +1,78 @@
 ---
-title: "غم کی چھای ہے گھٹا آنسوں بہالو مومنوں"
-alternateTitle: "Aagaya Maahe Aza"
+title: "غم کی چھائی ہے گھٹا آنسو بہا لو مومنوں"
+alternateTitle: "Aa Gaya Maah-e-Aza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
+reciter: "Mir Bober Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aagaya Maahe Aza", "غم کی چھای ہے گھٹا آنسوں بہالو مومنوں"]
 published: false
 romanLyrics: |-
-  Gham ki chhayi hai ghata aansu baha lo momino
-  Aa gaya mah-e-aza aansu baha lo momino
+  Gham ki chhaayi hai ghata aansu baha lo mominoṅ
+  Aa gaya maah-e-aza aansu baha lo mominoṅ
 
   1
-  Haye darya ki tarai par jari Abbas ka
-  Zulm se baazu kata aansu bahalo momino
+  Haye darya ki taraai par jari Abbas ka
+  Zulm se baazu kata aansu baha lo mominoṅ
   
   2
-  Chand dikhte hi falak par saj gaye har ghar alam
-  Aur bicha farshe aza aansu bahalo momino
+  Chaand dikhte hi falak par saj gaye har ghar alam
+  Aur bichha farsh-e-aza aansu baha lo mominoṅ
   
   3
   Akbar o Aun o Muhammad Qasim-e-naushah ko
-  Yaad karke tum zara aansu bahalo momino
+  Yaad karte tum zara aansu baha lo mominoṅ
   
   4
-  Shah ke haathon pe tir-e-Hurmala ki nok se
-  Halqe asghar bhi chida aansu bahalo momino
+  Shaah ke haathoṅ pe tir-e-Hurmala ki nok se
+  Halq-e-Asghar bhi chhida aansu baha lo mominoṅ
   
   5
-  Baad-e-Ashura sabhi sayyadaniyon ke haye haye
-  Chin gayi sar se rida aansu bahalo momino
+  Baad-e-Ashura sabhi sayyadaniyoṅ ke haye haye
+  Chhin gayi sar se rida aansu baha lo mominoṅ
   
   6
-  Apne aansu marham-e-zakhm-e-Shah-e-mazlum hain
-  Kuch nahi iske siwa aansu bahalo momino
+  Apne aansu marham-e-zakhm-e-Shah-e-mazlum hai
+  Kuchh nahiṅ is ke siwa aansu baha lo mominoṅ
   
   7
   Jab bhi aa jaye Muharram zindagi mein ae Bober
-  Kehte rehna tum sada aansu bahalo momino
+  Kehte rehna tum sada aansu baha lo mominoṅ
 # source_id: nohayonline:f6b1641de15ddb4a69d9
 # source_url: https://www.nohayonline.com/details_content.php?id=827
 # raw_sha256: 8e0850c1a35c0c6bea67a1499d9f6a433e1cfc8b47e50ef7d2e87d92ee94526d
 ---
 
-غم کی چھای ہے گھٹا آنسوں بہالو مومنوں
-آگیا ماہ عزا آنسوں بہالو مومنوں
+غم کی چھائی ہے گھٹا آنسو بہا لو مومنوں
+آ گیا ماہِ عزا آنسو بہا لو مومنوں
 
 ۱
-ہاے دریا کی ترای پر جری عباس کا
-ظلم سے بازو کٹا آنسوں بہالو مومنوں
+ہائے دریا کی ترائی پر جری عباس کا
+ظلم سے بازو کٹا آنسو بہا لو مومنوں
 
 ۲
-چاند دکھتے ہی فلک پر سج گےء ہر گھر علم
-اور بچھا فرش عزا آنسوں بہالو مومنوں
+چاند دکھتے ہی فلک پر سج گئے ہر گھر علم
+اور بچھا فرشِ عزا آنسو بہا لو مومنوں
 
 ۳
-اکبر و عون ومحمد قاسم نوشاہ کو
-یاد کرتے تم زرا آنسوں بہالو مومنوں
+اکبر و عون و محمد قاسمِ نوشاہ کو
+یاد کرتے تم ذرا آنسو بہا لو مومنوں
 
 ۴
-شاہ کے ہاتھوں پہ تیر حرملہ کی نوک سے
-حلق اصغر بھی چھدا آنسوں بہالو مومنوں
+شاہ کے ہاتھوں پہ تیرِ حرملہ کی نوک سے
+حلقِ اصغر بھی چھدا آنسو بہا لو مومنوں
 
 ۵
-بعد عاشورا سبھی سیدانیوں کے ہاے ہاے
-چھن گئی سر سے ردا آنسوں بہالو مومنوں
+بعدِ عاشورا سبھی سیدانیوں کے ہائے ہائے
+چھن گئی سر سے ردا آنسو بہا لو مومنوں
 
 ۶
-اپنے آنسوں مرحم زخم شہ مظلوم ہے
-کچھ نہیں اس کے سوا آنسوں بہالو مومنوں
+اپنے آنسو مرہمِ زخمِ شہِ مظلوم ہے
+کچھ نہیں اس کے سوا آنسو بہا لو مومنوں
 
 ۷
 جب بھی آجائے محرم زندگی میں اے ببر
-کہتے رہنا تم صدا آنسوں بہالو مومنوں
+کہتے رہنا تم صدا آنسو بہا لو مومنوں
