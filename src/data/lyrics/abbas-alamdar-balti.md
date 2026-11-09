@@ -5,7 +5,7 @@ lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["abbas-alamdar-balti-noha"]
 published: false
 # source_id: ziyaraat:0fcf6899a55abd3703ce
 # source_url: https://www.ziyaraat.net/api/noha/2701

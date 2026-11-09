@@ -9,15 +9,16 @@ poet: "Qamar Hasnain"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Shadman Raza"
 romanLyrics: |-
   Janaza jiska chupaye thay shab ki tareeki
   Damishq mein ye usi fatema ki hai beti
   Na kal to shaam mein parda bacha saka tha koi
-  Dukhi hussain ki maa keh rahi hai ya mehdi
-  Dua ko haath uthaye hai maadar e zainab
+  Dukhi Husain ki maa keh rahi hai Ya Mahdi
+  Dua ko haath uthaye haiṅ Madar-e-Zainab
   Bachaye rauze ko rauza hai chadar e zainab
-  Saron ko dhaamp kar aao tumhe zainab bulaati hai
-  Abhi tak shaam ke bazaar se awaaz aati hai
+  Saroṅ ko dhanp kar aao tumheiṅ Zainab bulati hai
+  Abhi tak Shaam ke bazar se awaz aati hai
 
   1
   Batate hai ye raste jo abhi tak khoon mein doobe hai
@@ -26,8 +27,8 @@ romanLyrics: |-
 
   2
   Kahin durron ki baarish hai kahin hai maarte pathar
-  Zameen kyun phat nahi jaati tamashe ko khule hai ghar
-  Kabhi baalon se zainab apne chehre ko chupati hai
+  Zamin kiun phat nahiṅ jaati tamashe ko khule haiṅ ghar
+  Kabhi baloṅ se Zainab apne chehre ko chhupati hai
 
   3
   Na khud hai zainab e nachar bhi us ek rassi mein
@@ -41,7 +42,7 @@ romanLyrics: |-
 
   5
   Khudaya hai yehi mushkil kusha e waqt ki poti
-  Ye saara shaam kehta hai sakina chup nahi hoti
+  Ye saara Shaam kehta hai Sakina chup nahiṅ hoti
   Lahoo kaano se behta hai tamache moo pe khaati hai
 
   6
@@ -55,7 +56,7 @@ romanLyrics: |-
   Madad ko saatwein dar par ali ko ye bulaati hai
 
   8
-  Hai jaari shaam o kufa mein jafa ka silsila ab tak
+  Hai jaari Shaam o Kufa mein jafa ka silsila ab tak
   Ke bhai bekafan aur behan hai berida ab tak
   Nikal kar qaid khane se sakina yaad aati hai
 
@@ -66,7 +67,7 @@ romanLyrics: |-
 
   10
   Safar hota nahi hai khatm ab bhi karb e zainab ka
-  Hamari maayein behne kyun qamar hai aaj beprada
+  Hamari maaeṅ behneṅ kiun Qamar hai aaj beparda
   Musiat ye imame asr ki gardan jhukaati hai
 # source_id: nohayonline:bfeeb5e11551cbec8d1d
 # source_url: https://www.nohayonline.com/details_content.php?id=3002
@@ -75,7 +76,7 @@ romanLyrics: |-
 جنازہ جس کا چھپاے تھے شب کی تاریکی
 دمشق میں یہ اسی فاطمہ کی ہے بیٹی
 نہ کل تو شام میں پردہ بچا سکا تھا کوی
-دکھی حسین کی ماں کہہ رہی ہے یہ مہدی
+دکھی حسین کی ماں کہہ رہی ہے یا مہدی
 دعا کو ہاتھ اٹھائے ہیں مادر زینب
 بچاے روضے کو روضہ ہے چادر زینب
 سروں کو ڈھانپ کر آؤ تمہیں زینب بلاتی ہے
@@ -89,7 +90,7 @@ romanLyrics: |-
 ۲
 کہیں دروں کی بارش ہے کہیں ہے مارتے پتھر
 زمیں کیوں پھٹ نہیں جاتی تماشے کو کھلے ہیں گھر
-کبھی بالوں سے زینب اپنے چہرے چہرے کو چھپاتی ہے
+کبھی بالوں سے زینب اپنے چہرے کو چھپاتی ہے
 
 ۳
 نہ خود ہے زینب ناچار بھی اس ایک رسی میں
@@ -103,7 +104,7 @@ romanLyrics: |-
 
 ۵
 خدایا ہے یہی مشکل کشاے وقت کی پوتی
-یہ سارا شام کہتا ہے سکینہ چھپ نہیں ہوتی
+یہ سارا شام کہتا ہے سکینہ چپ نہیں ہوتی
 لہو کانوں سے بہتا ہے طمانچے منہ پہ کھاتی ہے
 
 ۶

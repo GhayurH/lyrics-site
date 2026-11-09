@@ -9,49 +9,50 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Safdar Abbas"
 romanLyrics: |-
-  Uncha rahega alam seene mein hai jab tak hai dam
-  Karbobala ki qasam zinda rahega ye gham
+  Uncha rahega alam sine mein hai jab tak hai dam
+  Karb o Bala ki qasam zinda rahega ye gham
   Pehre mein muqtar hai haq ke tarafdaar hai
-  Gham ke talabgaar hai hum to azadaar hai
+  Gham ke talabgar haiṅ hum to azadar haiṅ
   Jab talak saans mein hai saans azadari rahegi
   Dil azadaar rahega har azadaar kahega
-  Kaise jhukega hazrate abbas ka alam
-  Kaise rukega hazrate shabbir ka matam
-  Abhi hum zinda hai hum zinda hai
+  Kaise jhukega Hazrat-e-Abbas ka alam
+  Kaise rukega Hazrat-e-Shabbir ka matam
+  Abhi hum zinda haiṅ hum zinda haiṅ
 
   1
-  Kaho labbaik ya hussain labbaik ya hussain
+  Kaho Labbaik Ya Husain Labbaik Ya Husain
   Ye matami ye azadaar hai dua e batool
   Isi liye to mila saaya e rida e batool
-  Hussainiyo ki har ek saans hai baraye batool
+  Husainiyoṅ ki har ek saans hai bara-e-Batool
   Kaise bhala mitenge zamane se ahle noor
   Hai maadare shabbir ka elaan ye har dam
 
   2
   Qadam qadam pe ye farshe aza bichayenge hum
-  Ghame hussain to har haal mein manayenge hum
+  Gham-e-Husain to har haal mein manaeṅge hum
   Gali gali mein charaghe aza jalayenge hum
   Nazre yazeed hazrate shabbir ki qasam
   Tera mita ke jayenge hum khaak mein bharam
 
   3
-  Hawa ke rukh ko badaldenge hum khuda ki qasam
+  Hawa ke rukh ko badal deṅge hum Khuda ki qasam
   Sar e yazeed kuchaldenge hum khuda ki qasam
   Amal ka rukne amal denge hum khuda ki qasam
-  Humse hai ye zamana zamane se nahi hum
+  Hum se hai ye zamana zamane se nahiṅ hum
   Yuhin manaate jayenge har saal moharram
 
   4
   Majlise unse wafa sheh ke matam se bapa
   Ta qayamat karenge hum
-  Ya ali adrikni ya ali adrikni
+  Ya Ali adrikni Ya Ali adrikni
   Ta qayamat kahenge hum
   Hil jayega zamana laraz jayenge qadam
   Goonjenge jab fazaon mein awaaz hama dam
 
   5
-  Hamari haami o nasir khuda ki zaat bhi hai
+  Hamari hami o nasir Khuda ki zaat bhi hai
   Kiya hai azmat o himmat bhi hai sabaat bhi hai
   Hamare sar pe imame zamaan ka haat bhi hai
   Daawa bina daleel ke karte kahan hai hum
@@ -62,19 +63,19 @@ romanLyrics: |-
   Ghareeb dasht mein hal min ki de raha tha sada
   Tadap ke rehgaya har ek shaheede raahe wafa
   Maujood hum nahi thay wahan ay shahe umam
-  De ab tu isteghasa to labbaik kahe hum
+  De ab tu istighasa to Labbaik kaheṅ hum
 
   7
   Sada e safdar o mazhar to har jagah hai yehi
   Ye pursadaar salamat rahe dua hai yehi
   Labon pe unke hama waqt ek sada hai yehi
-  Kaise jhukega hazrate abbas ka alam
-  Kaise rukega hazrate shabbir ka matam
+  Kaise jhukega Hazrat-e-Abbas ka alam
+  Kaise rukega Hazrat-e-Shabbir ka matam
 
   8
   Bola hijaab e ghaib se ye waqt ka imam
   Hum lene aa rahe hai shaheedo ka inteqam
-  Haye hussainiat ke safeeron tumhe salaam
+  Haye Husainiyat ke safiroṅ tumheiṅ salam
   Raahe khuda ke saare shaheedo tumhe salaam
   Shaamil meri dua mein meri tumhara hi naam hai
   Tum sab ke waalidayn pe mera salaam hai
@@ -84,13 +85,13 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1542
 # raw_sha256: 14ce273cb993adde4d1fafce61694890734ecf658fa9fcb70e29c65a969fb7d4
 ---
-اونچا رہے گا الم سینے میں ہے جب تک ہے دم
+اونچا رہے گا علم سینے میں ہے جب تک ہے دم
 کربوبلا کی قسم زندہ رہے گا یہ غم
 پہرے میں مختار ہے حق کے طرفدار ہے
 غم کے طلبگار ہے ہم تو عزادار ہیں
 جب تلک سانس میں ہے سانس عزاداری رہے گی
 دل عزادار رہے گا ہر عزادار کہے گا
-کیسے جھکے گا حضرتِ عبّاس کا الم
+کیسے جھکے گا حضرتِ عبّاس کا علم
 کیسے رکے گا حضرتِ شبیر کا ماتم
 ابھی ہم زندہ ہیں ہم زندہ ہیں
 
@@ -142,7 +143,7 @@ romanLyrics: |-
 صداے صفدر و مظہر تو ہر جگہ ہے یہی
 یہ پرسہ دار سلامت رہے دعا ہے یہی
 لبوں پہ انکے ہمہ وقت اک صدا ہے یہی
-کیسے جھکے گا حضرتِ عبّاس کا الم
+کیسے جھکے گا حضرتِ عبّاس کا علم
 کیسے رکے گا حضرتِ شبیر کا ماتم
 
 ۸
