@@ -3,9 +3,11 @@ title: "Zuljanah Naam Hai Shabir Ka Rahwar Hoon Main"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Noor Ali Noor"
+reciter: "Syed Wajhi Hasan Zaidi"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["zuljanah-naam-hai-shabir-ka-rahwar-hoon-main-1-6"]
 published: false
 # source_id: tajpoints:6dce6de17ef2c8272b3e
 # source_url: https://tajpoints.com/2018/01/zuljanah-naam-hai-shabir-ka-rahwar-hoon.html

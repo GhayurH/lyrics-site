@@ -1,8 +1,10 @@
 ---
-title: "Suno Shan-e-Fatima Suno Shan-e-Syeda 1-6"
+title: "Suno Shan-e-Fatima Suno Shan-e-Syeda"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Gohar Jarchvi"
+reciter: "Rizwan Zaidi"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
@@ -13,7 +15,7 @@ published: false
 # https://tajpoints.com/2019/01/suno-shan-e-fatima-suno-shan-e-syeda-7.html
 ---
 
-Suno Shan-e-Fatima Suno Shan-e-Syeda 1-6
+Suno Shan-e-Fatima Suno Shan-e-Syeda
 
 1
 Zahra Ki Baat Ho Gi Bari Aan Baan Se
@@ -94,7 +96,3 @@ Har Shaks Aaj Ishq Ki Masti Mein Mast Hai
 Zahra Ke Dushmano Ki Mukamil Shikast Hai
 Mehfil Qalandrana Sada Hai Jo Saj Gayi
 Lafzoon Ne Woh Dhmal Kiya Dhoom Mach Gayi
-
-
-Poet: :Gohar Jarchvi
-Manqabat Khuwan: :Rizwan Zaidi

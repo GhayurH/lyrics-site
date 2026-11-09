@@ -1,8 +1,10 @@
 ---
-title: "Janat Tu Azadaron Ke Rehne Ki Jagah Hai 1-4"
+title: "Janat To Azadaron Ke Rehne Ki Jagah Hai"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Yasir Raza Yasir"
+reciter: "Syed Wajhi Hasan Zaidi"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
@@ -78,7 +80,3 @@ Jab Roz-e-Jaza Paish-e-Khuda Faisla Ho Ga
 Janat Mein Nahi Jaongi Karti Hoon Main Wada
 Jab Tak Na Chale Jaein Muhib-e-Sheh-e-Wala
 Main Khuld Ki Malka Hoon Yeh Haq Main Ne Diya Hai
-
-
-Poet: :Yasir Raza Yasir:
-Manqabat Khuwan: :Syed Wajhi Hasan Zaidi:

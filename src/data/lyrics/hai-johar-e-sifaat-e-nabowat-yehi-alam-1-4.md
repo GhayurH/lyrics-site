@@ -10,6 +10,7 @@ published: false
 # source_id: tajpoints:09718452d2507fad4b90
 # source_url: https://tajpoints.com/2017/12/hai-johar-e-sifaat-e-nabowat-yehi-alam.html
 # raw_sha256: 4ffd0f67da928788db408cfc9cd38b0c926127dba52aa682ada6ec5bb962edcf
+# next_source_url: https://tajpoints.com/2017/12/hai-johar-e-sifaat-e-nabowat-yehi-alam-5.html
 ---
 
 1
@@ -43,5 +44,3 @@ Shair-e-Khuda Ki Gaud Ka Pala Hai Yeh Alam
 Ab Shair Ke Pisar Ne Sanbhala Hai Yeh Alam
 Panje Mein Hai Chamak Dil-e-Ghazi Ke Noor Se
 Boo-e-Wafa Phareray Mein Aati Hai Door Se
-
-next 4: https://tajpoints.com/2017/12/hai-johar-e-sifaat-e-nabowat-yehi-alam-5.html

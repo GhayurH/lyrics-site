@@ -1,11 +1,13 @@
 ---
-title: "Suno Bad-e-Zahoor Kya Ho Ga 1-4"
+title: "Suno Bad-e-Zahoor Kya Ho Ga"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Payam Azmi"
+reciter: "Mir Hasan Mir"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["suno-bad-e-zahoor-kya-ho-ga-1-4"]
 published: false
 # source_id: tajpoints:380caddd928aceaddb1b
 # source_url: https://tajpoints.com/2019/04/suno-bad-e-zahoor-kya-ho-ga-1-4-lyrics.html
@@ -13,6 +15,7 @@ published: false
 # source_id: tajpoints:af0385076a6921c6d23e
 # source_url: https://tajpoints.com/2019/04/suno-bad-e-zahoor-kya-ho-ga-5-10-lyrics.html
 # raw_sha256: a0ae742067796500b17c01e4b20915328e99f5f9e2116e1d1dc65623d7544fec
+# additional_verses: Hasnain Akbar
 ---
 
 1
@@ -94,6 +97,3 @@ Na Jane Kitne Yateemo Ki Qarazdar Hoon Main
 Kahe Ga Kon Ke Haider Ki Zulfiqar Hoon Main
 Ali Ke Lal Tere Naam Ki Dohai Hai
 Na Aaj Rook Mujhe Aakhri Larai Hai
-
-Poet: Payam Azmi, Hasnain Akbar
-Manqabat Khuwan: Mir Hasan Mir

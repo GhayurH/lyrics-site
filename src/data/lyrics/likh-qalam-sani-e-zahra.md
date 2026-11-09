@@ -1,8 +1,10 @@
 ---
-title: "Likh Qalam Sani E Zahra 1-4 Lyrics In Urud 2016"
+title: "Likh Qalam Sani-e-Zahra Ki Sana"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Hasnain Akbar"
+reciter: "Mir Hasan Mir"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
@@ -76,7 +78,3 @@ Tazia Jhola Alam Aanso Hai Iss Ka Lashkar
 Kon Roke Ga Bhala Shah Ka Matam :AKBAR:
 Karbala Ka Jo Har Ik Sahib-e-Dil Qayal Hai
 Iss Ki Tableeg Mein Zainab Ka Laho Shamil Hai
-
-
-Poet: :Hasnain Akbar:
-Manqabat Khuwan: :Mir Hasan Mir:

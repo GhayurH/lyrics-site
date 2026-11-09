@@ -3,6 +3,8 @@ title: "Suno Siffeen Suno"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Mir Takallum Mir"
+reciter: "Mir Hasan Mir"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
@@ -154,7 +156,3 @@ Baqi Jo Bache The Wo Howay Dekh Ke Gum Sum
 Maula Ne Kaha Sham Ke Lashkar Se Suno Tum
 Yeh Fatima Zahra Ki Duaon Ka Asar Hai
 Yeh Jan Lo Sab Yeh Bani Hashim Ka Qamar Hai
-
-
-Poet: Mir Takallum Mir
-Manqabat Khuwan: Mir Hasan Mir

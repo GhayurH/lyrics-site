@@ -1,11 +1,13 @@
 ---
-title: "Sada Ran Se Abbas Ki Aa Rahi Hai 1-4"
+title: "Sada Ran Se Abbas Ki Aa Rahi Hai"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Muhib Fazli"
+reciter: "Syed Wajhi Hasan Zaidi"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["sada-ran-se-abbas-ki-aa-rahi-hai-1-4"]
 published: false
 # source_id: tajpoints:bd7e1064fe3899248d8f
 # source_url: https://tajpoints.com/2018/01/sada-ran-se-abbas-ki-aa-rahi-hai-1-4.html
@@ -73,6 +75,3 @@ Rajaz Sun Ke Larzaan Thi Foaj-e-Sitamgar
 Tarai Pe Qabza Tha Shair-e-Jari Ka
 Faqat Yeh Rajaz Tha Jari Ke Labon Par
 Hamare Sabab Se Wojod-e-Arab Hai
-
-Poet: :Muhib Fazli
-Manqabat Khuwan: :Syed Wajhi Hasan Zaidi

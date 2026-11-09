@@ -1,15 +1,18 @@
 ---
-title: "Sajjad De Okhiyan Safran Di Rayi Fizza Sain Gawah Aye Lyrics Punjabi 2026 Pervaiz Pilla Party"
+title: "Sajjad De Okhiyan Safran Di Rayi Fizza Sain Gawah Aye"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Malik Shahid Abbas Awan Karbalai"
+reciter: "Pervaiz Pilla Party"
 kalamType: "Soz"
-tags: ["noImage", "noUrdu"]
-aliases: []
+tags: ["noImage", "noUrdu", "Panjabi"]
+aliases: ["sajjad-de-okhiyan-safran-di-rayi-fizza-sain-gawah-aye-lyrics-punjabi-2"]
 published: false
 # source_id: tajpoint:2ddc323176e39eb7e733
 # source_url: https://tajpoint.com/sajjad-de-okhiyan-safran-di-rayi-fizza-sain-gawah-aye/
 # raw_sha256: 2ddba8d1912873b71a60df7439423574dfc80b70c0622294befb647911d0e3a2
+# soz_credit: Ali Raza Janjua
 ---
 
 1
@@ -35,7 +38,3 @@ Taiyon Roza BiBi Zainab Da Fizza Di Sajdah Ga Aye
 6
 Ik Din Te Tur Gaye Dunya Taun Har Zulm De Jehray Shahid Si
 Wich Sham De Fizza Tur Gayi Aye Wich Yasrab Deen Da Shah Aye
-
-Poet: :Malik Shahid Abbas Awan Karbalai:
-Soz: :Ali Raza Janjua:
-Noha Khuwan: :Pervaiz Pilla Party:

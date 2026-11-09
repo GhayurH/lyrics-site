@@ -1,8 +1,10 @@
 ---
-title: "Suno Suno Qamber Ki Our Fizza Ki Guftgu Suno 1-6"
+title: "Suno Suno Qamber Ki Aur Fizza Ki Guftgu Suno"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
+poet: "Hasnain Akbar"
+reciter: "Mir Hasan Mir"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
@@ -92,7 +94,3 @@ Kitni Fazeelaton Ka Hai Manzar Yeh Martaba
 Yeh Khadam-e-Ali Hain Tu Wo Zahra Ki Khadima
 Dono Ki Baat Apni Jaga Lajawab Hai
 In Ki Koi Misal Na Un Ka Jawab Hai
-
-
-Poet: :Hasnain Akbar
-Manqabat Khuwan: :Mir Hasan Mir
