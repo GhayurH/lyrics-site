@@ -9,90 +9,55 @@ poet: "Asif Bijnori"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Aisa lagta hai hassan do baar kafnaye gaye
-
+reciter: "Ameer Hasan Aamir"
+romanLyrics: |-
+  Aisa lagta hai Hasan do baar kafnae gaye
 
   1
-
-  Soch kar phat''ta hai dil kitne sitam dhaye gaye
-
-  Tukde tukde zeher de kar pehle kar daala jigar
-
-  Baad mein ye zulm bhi dhaaya gaya mazloom par
-
-  Qabr tak jaane se roka teer barsaye gaye
-
+  Soch kar phatta hai dil kitne sitam dhae gaye
+  Tukre tukre zehr de kar pehle kar dala jigar
+  Baad mein ye zulm bhi dhaya gaya mazlum par
+  Qabr tak jaane se roka tir barsae gaye
 
   2
-
-  Laut kar aayi jo mayyat ghar mein qabrustan se
-
-  Yun laga jaise tapakta hai lahoo quran se
-
-  Zainab o kulsoom ko phir zakhm dikhlaye gaye
-
+  Laut kar aai jo maiyyat ghar mein qabristan se
+  Yuṅ laga jaise tapakta hai lahu Quran se
+  Zainab o Kulsum ko phir zakhm dikhlae gaye
 
   3
-
-  Zabt kis dil se kiya ehde wafa ke paas ne
-
-  Jaane kitni baar ulti aasteen abbas ne
-
-  Wo to kahiye hazrate shabbir samjhaye gaye
-
+  Zabt kis dil se kiya ahd-e-wafa ke paas ne
+  Jaane kitni baar ulti aastin Abbas ne
+  Wo to kahiye Hazrat-e-Shabbir samjhae gaye
 
   4
-
   Kya kisi ke saath pehle bhi kabhi aisa hua
-
-  Kya kisi ko dafn karne se kahin roka gaya
-
-  Koi to batlaye kyun ye zulm dohraye gaye
-
+  Kya kisi ko dafn karne se kahiṅ roka gaya
+  Koi to batlae kiun ye zulm dohrae gaye
 
   5
-
-  Ahmad e mukhtar khud naaqa bane jiske liye
-
-  Apni zulfein haath mein dekar chale jiske liye
-
-  Haye uski laash pe patthar bhi barsaye gaye
-
+  Ahmad-e-Mukhtar khud naqa bane jis ke liye
+  Apni zulfeṅ haath mein de kar chale jis ke liye
+  Haye us ki laash pe patthar bhi barsae gaye
 
   6
-
-  Dekh kar bhai ka laasha dayr tak roye hussain
-
-  Kaise dohraye kiye jo zainabe muztar ne bain
-
-  Umme farwa aur qasim ghash pe ghash khaye gaye
-
+  Dekh kar bhai ka lasha der tak roe Husain
+  Kaise dohrae kiye jo Zainab-e-Muztar ne bain
+  Umm-e-Farwa aur Qasim ghash pe ghash khae gaye
 
   7
-
-  Jism e athar pe na jaane zakhm kitne khaye hai
-
-  Aisa lagta hai pehen kar surkh joda aaye hai
-
-  Khoon tapakta tha badan se ghar mein jab laaye gaye
-
+  Jism-e-Athar pe na jaane zakhm kitne khae haiṅ
+  Aisa lagta hai pehan kar surkh jora aae haiṅ
+  Khun tapakta tha badan se ghar mein jab lae gaye
 
   8
-
-  Nana ke pehlu mein mil jaati agar do gaz zameen
-
-  Chain se marqad mein so jaata ye jannat ka makeen
-
-  Kyun na haqdaron ka haq aakhir na dilwaye gaye
-
+  Nana ke pehlu mein mil jaati agar do gaz zamin
+  Chain se marqad mein so jaata ye Jannat ka makin
+  Kiun na haqdaroṅ ka haq aakhir na dilwae gaye
 
   9
-
-  Daastan e ranj o gham asif karun kaisa bayan
-
-  Darr satata hai ye aamir gir na jaaye aasman
-
-  Aqraba mayyat hassan ki laaye le jaaye gaye'
+  Dastan-e-ranj o gham Asif karuṅ kaisa bayan
+  Dar satata hai ye Aamir gir na jae asmaṅ
+  Aqraba maiyyat Hasan ki lae le jae gaye
 # source_id: nohayonline:7cb9ca4e53f8f9cc7769
 # source_url: https://www.nohayonline.com/details_content.php?id=3481
 # raw_sha256: 81bc26a01c4770132553a7306ad89fc30e14e5139f5059b37458f1ada2408db1
@@ -100,53 +65,50 @@ romanLyrics: 'Aisa lagta hai hassan do baar kafnaye gaye
 # source_url: https://www.nohayonline.com/details_content.php?id=1276
 # raw_sha256: 00e84b0b0b4936930de5797804eb5669b189f889fe28908017e5c3c77ac164af
 ---
-
-ایسا لگتا ہے حسن دو بار کفناے گےء
+ایسا لگتا ہے حسن دو بار کفنائے گئے
 
 ۱
-سونچ کر پھٹتا ہے دل کتنے ستم ڈھاے گےء
-
-۲
+سوچ کر پھٹتا ہے دل کتنے ستم ڈھائے گئے
 ٹکڑے ٹکڑے زہر دے کر پہلے کر ڈالا جگر
 بعد میں یہ ظلم بھی ڈھایا گیا مظلوم پر
-قبر تک جانے سے روکا تیر برسائے گےء
+قبر تک جانے سے روکا تیر برسائے گئے
+
+۲
+لوٹ کر آئی جو میت گھر میں قبرستان سے
+یوں لگا جیسے ٹپکتا ہے لہو قرآن سے
+زینب و کلثوم کو پھر زخم دکھلائے گئے
 
 ۳
-لوٹ کر آی جو میت گھر میں قبرستان سے
-یوں لگا جیسے ٹپکتا ہے لہو قرآن سے
-زینب و کلثوم کو پھر زخم دکھلاے گےء
+ضبط کس دل سے کیا عہدِ وفا کے پاس نے
+جانے کتنی بار الٹی آستیں عباس نے
+وہ تو کہیے حضرتِ شبیر سمجھائے گئے
 
 ۴
-ضبط کس دل سے کیا عہد وفا پاس نے
-جانے کتنی بار الٹی آستیں عباس نے
-وہ تو کہیےء حضرتِ شبیر سمجھاے گےء
-
-۵
 کیا کسی کے ساتھ پہلے بھی کبھی ایسا ہوا
 کیا کسی کو دفن کرنے سے کہیں روکا گیا
-کوئی تو بتلاے کیوں یہ ظلم دہراے گےء
+کوئی تو بتلائے کیوں یہ ظلم دہرائے گئے
+
+۵
+احمدِ مختار خود ناقہ بنے جس کے لیے
+اپنی زلفیں ہاتھ میں دے کر چلے جس کے لیے
+ہائے اس کی لاش پہ پتھر بھی برسائے گئے
 
 ۶
-احمد مختار خود ناقہ بنے جس کے لئے
-اپنی ذولفیں ہاتھ میں دے کر چلے جس کے لئے
-ہاے اس کی لاش پہ پتھر بھی برساے گےء
+دیکھ کر بھائی کا لاشہ دیر تک روئے حسین
+کیسے دہرائے کیے جو زینبِ مضطر نے بین
+امِ فروہ اور قاسم غش پہ غش کھائے گئے
 
 ۷
-دیکھ کر بھای کا لاشہ دیر تک روے حسین
-کیسے دہراے کیےء جو زینب مضطر نے بین
-ام فروہ اور قاسم غش پہ غش کھاے گےء
+جسمِ اطہر پہ نہ جانے زخم کتنے کھائے ہیں
+ایسا لگتا ہے پہن کر سرخ جوڑا آئے ہیں
+خون ٹپکتا تھا بدن سے گھر میں جب لائے گئے
 
 ۸
-جسم اطہر پہ نہ جانے زخم کتنے کھاے ہیں
-ایسا لگتا ہے پہن کر سرخ جوڑا آے ہیں
-خوں ٹپکتا تھا بدن سے گھر میں جب لاے گےء
-
-۹
 نانا کے پہلو میں مل جاتی اگر دو گز زمیں
 چین سے مرقد میں سو جاتا یہ جنت کا مکیں
-کیوں نہ حقداروں کا حق آخر نہ دلواے گےء
+کیوں نہ حقداروں کا حق آخر نہ دلوائے گئے
 
-۱۰
-داستان رنج و غم آصف کروں کیسے بیاں
-ڈر ستاتا ہے یہ عامر گر نہ جاے آسماں
-اقرباء میت حسن کی لاے لے جاے گےء
+۹
+داستانِ رنج و غم آصف کروں کیسے بیاں
+ڈر ستاتا ہے یہ عامر گر نہ جائے آسماں
+اقربا میت حسن کی لائے لے جائے گئے
