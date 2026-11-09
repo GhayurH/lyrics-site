@@ -5,45 +5,46 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Aajao ab aajao ab aajao Sakina
-  Bano ki sada thi ke na tadpao Sakina
+  Bano ki sada thi ke na tarpao Sakina
 
   1
   Ab mujh se judaai ka alam uth na sakega
-  Yun rooth ke maadar se na tum jao Sakina
+  Yuṅ ruth ke maadar se na tum jao Sakina
 
   2
-  Phir pyar se maa kehke pukaro meri dilbar
-  Amma ko na is tarha se tadpao Sakina
+  Phir pyaar se maaṅ keh ke pukaaro meri dilbar
+  Amma ko na is tarah se tarpao Sakina
 
   3
-  Asghar ki judai Ali Akbar ki judai
+  Asghar ki judaai Ali Akbar ki judaai
   Kaafi hai na tum bhi mujhe rulwao Sakina
 
   4
-  Kanon se lahu behta hai rukhsaar hain nile
-  Ye shakl na abbas ko dikhlao Sakina
+  Kaanoṅ se lahu behta hai rukhsaar haiṅ nile
+  Ye shakl na Abbas ko dikhlao Sakina
 
   5
-  Lipta ke kaleje se duayein meri kehna
-  Ek nanhi si turbat jo kahin pao Sakina
+  Lipta ke kaleje se duaaeṅ meri kehna
+  Ek nanhi si turbat jo kahiṅ pao Sakina
 
   6
-  Kya mujhse khata ho gayi kiun rooth gayi ho
-  Is ghamzada madar ko ye batlao Sakina
+  Kya mujhse khata ho gayi kiuṅ ruth gayi ho
+  Is ghamzada maadar ko ye batlao Sakina
 
   7
-  Ye sach hai bahot qaid mein dukh tumne uthaye
-  So baap aagosh mein sojao Sakina
+  Ye sach hai bahut qaid mein dukh tum ne uthaae
+  So baap aaghosh mein so jao Sakina
 # source_id: nohayonline:399011e4aa4fe010c1ec
 # source_url: https://www.nohayonline.com/details_content.php?id=458
 # raw_sha256: f8389f5f5b734063b98840fe6191c58a5c0ada779d086d7b427f3e495b1e1bfe
 ---
-آ جائو اب آ جائو اب آ جائو سکینہ
+آجاؤ اب آجاؤ اب آجاؤ سکینہ
 بانو کی صدا تھی کہ نہ تڑپاؤ سکینہ
 
 ۱
@@ -71,5 +72,5 @@ romanLyrics: |-
 اس غمزدہ مادر کو یہ بتلاؤ سکینہ
 
 ۷
-یہ سچ ہے بہت قید میں دکھ تم نے اٹھاے
+یہ سچ ہے بہت قید میں دکھ تم نے اٹھائے
 سو باپ آغوش میں سو جاؤ سکینہ

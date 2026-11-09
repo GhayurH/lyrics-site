@@ -6,64 +6,65 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zahra meri bachi aaja meri beti
-  Aaja meri zahra
+  Zahra meri bachchi aaja meri beti
+  Aaja meri Zahra
   Marqad mein Muhammad ne padha hoga ye nauha
-  Aaja meri beti aaja meri zehra
+  Aaja meri beti aaja meri Zehra
 
   1
-  Ehsaas yateemi ka sataata raha tujhko
+  Ehsaas yatimi ka sataata raha tujhko
   Har koi mere baad rulaata raha tujhko
   Haider ke siwa kaun tarafdaar tha tera
 
   2
-  Jitne bhi huwe tujhpe sitam dekhey hai maine
-  Ghar mein tere ummat ke qadam dekhe hai maine
-  Maloom hai mujhko tujhe jis jis ne sataaya
+  Jitne bhi hue tujh pe sitam dekhe haiṅ main ne
+  Ghar mein tere ummat ke qadam dekhe haiṅ main ne
+  Maalum hai mujhko tujhe jis jis ne sataaya
 
   3
-  Darbar-e-sitam mein tera haq maangne jaana
+  Darbaar-e-sitam mein tera haq maangne jaana
   Dekha na gaya mujhse tera laut ke aana
-  Ek main hi nahi tadpi hai ta-der Khadija
+  Ek main hi nahiṅ tarpi hai taa der Khadija
 
   4
-  Mohsin ki shahadat ka mere dil pe hai sadma
-  Har pal wo raha yaad mujhe main nahi bhoola
+  Mohsin ki shahaadat ka mere dil pe hai sadma
+  Har pal wo raha yaad mujhe main nahiṅ bhula
   Aa baith mere paas tujhe dena hai pursa
 
   5
   Jab jab bhi tu roti thi meri qabr pe aa kar
-  Mujhse kabhi dekha nahi jaata tha wo manzar
-  Phat'ta tha tere naalon se reh reh ke kaleja
+  Mujhse kabhi dekha nahiṅ jaata tha wo manzar
+  Phatta tha tere naaloṅ se reh reh ke kaleja
 
   6
-  Ummat ne tere pehlu pe darwaza giraya
-  Afsos taras tujhpe kisi ne nahi khaaya
+  Ummat ne tere pehlu pe darwaaza giraaya
+  Afsos taras tujhpe kisi ne nahiṅ khaaya
   Jaaiz hai kare mujhse jo har zulm ka shikwa
 
   7
-  Haider ke galay mein thi rasan dekha hai maine
-  Kis tarha kiya tu ne sahan itna bata de
-  Qadmon pe kai baar giri hai tere fizza
+  Haider ke gale mein thi rasan dekha hai main ne
+  Kis tarah kiya tu ne sahan itna bata de
+  Qadmoṅ pe kai baar giri hai tere Fizza
 
   8
-  Marqad mein bhi aaraam kahan paana hai tujhko
+  Marqad mein bhi aaraam kahaaṅ paana hai tujhko
   Ae laal abhi karbobala jaana hai tujhko
-  Shabbir ko waada hai abhi apna nibhana
+  Shabbir ko waada hai abhi apna nibhaana
 
   9
-  Kya haal bayan tumse karun gham ke safar ka
+  Kya haal bayaaṅ tumse karuṅ gham ke safar ka
   Sar naize pe dekhogi abhi apne pisar ka
-  Doobega mere khoon mein tapta hua sehra
+  Dubega mere khuṅ mein tapta hua sehra
 
   10
-  Din kaisa dikhaya hai ye taqdeer ne Asif
-  Sar peet liya Zainab-e-dilgeer ne Asif
-  Aamir jo utha Fatima Zehra ka janaza
+  Din kaisa dikhaaya hai ye taqdir ne Aasif
+  Sar pit liya Zainab-e-dilgir ne Aasif
+  Aamir jo utha Fatima Zehra ka janaaza
 # source_id: nohayonline:e08ea703baa0adcfd80e
 # source_url: https://www.nohayonline.com/details_content.php?id=2126
 # raw_sha256: f74620a1dff784ac8fa24a2ec3a46f4a562dc99c067d3ec61e4b639bdcef8fb0
@@ -79,7 +80,7 @@ romanLyrics: |-
 حیدر کے سوا کون طرفدار تھا تیرا
 
 ۲
-جتنے بھی ہوے تجھ پہ ستم دیکھے ہیں میں نے
+جتنے بھی ہوئے تجھ پہ ستم دیکھے ہیں میں نے
 گھر میں تیرے امت کے قدم دیکھے ہیں میں نے
 معلوم ہے مجھکو تجھے جس جس نے ستایا
 
@@ -101,12 +102,12 @@ romanLyrics: |-
 ۶
 امت نے تیرے پہلو پہ دروازہ گرایا
 افسوس ترس تجھ پہ کسی نے نہیں کھایا
-جایز ہے کرے مجھ سے جو ہر ظلم کا شکوہ
+جائز ہے کرے مجھ سے جو ہر ظلم کا شکوہ
 
 ۷
 حیدر کے گلے میں تھی رسن دیکھا ہے میں نے
 کس طرح کیا تو نے سحن اتنا بتا دے
-قدموں پہ کیء بار گری ہے تیرے فضہ
+قدموں پہ کئی بار گری ہے تیرے فضہ
 
 ۸
 مرقد میں بھی آرام کہاں پانا ہے تجھکو

@@ -6,93 +6,94 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zakhmi kanon pe haathon ko rakhe huwe
-  Nikli qaimon se ek bacchi roti hui
+  Zakhmi kaanoṅ pe haathoṅ ko rakhe hue
+  Nikli khaimoṅ se ek bachchi roti hui
   Uska kurta jala surkh rukhsaar tha
   Baba baba ki wo de rahi thi sada
   Haye baba haye baba haye baba
 
-  Haye larza tha uske haathon mein
-  Baap ko dhoondti thi laashon mein
-  Jab wo baba ko dhoond na paayi
+  Haye larza tha uske haathoṅ mein
+  Baap ko dhundti thi laashoṅ mein
+  Jab wo baba ko dhund na paayi
   Ek laashe se ye sada aayi
-  Aaja meri jaan Sakina tu kahan hai
-  Tera baba yahan hai
+  Aaja meri jaan Sakina tu kahaaṅ hai
+  Tera baba yahaaṅ hai
 
   1
-  Aise ghabra nahi meri bacchi
+  Aise ghabra nahiṅ meri bachchi
   Hai tera baba tere saath abhi
-  Dhoond laashon mein ek laash aisi
+  Dhund laashoṅ mein ek laash aisi
   Jiski ek ungli kati hai beti
-  Sun ke Sakina ne kaha baba un haathon se
-  Tum ne jo tohfe mein mujhe laa kar diye thay
-  Shimr wo gohar le gaya baba kahan ho
-  Khoon mere kaano se baha baba kahan ho
+  Sun ke Sakina ne kaha baba un haathoṅ se
+  Tum ne jo tohfe mein mujhe laa kar diye the
+  Shimr wo gohar le gaya baba kahaaṅ ho
+  Khuṅ mere kaanoṅ se baha baba kahaaṅ ho
 
   2
   Ilayya ilayya bunayya Sakina
   Meri awaaz sun ke aaja idhar
   Ho chuka hai mera badan be sar
   Waar itne kiye gaye mujh par
-  Aa chuki meri ragein baahar
-  Aate huwe maine suna keh raha tha koi
-  Phupiyon ke shaano se meri gardan bandhegi
-  Chota hai khad sab se mera baba kahan ho
-  Hoga mera zakhmi gala baba kahan ho
+  Aa chuki haiṅ meri rageṅ baahar
+  Aate hue main ne suna keh raha tha koi
+  Phuphiyoṅ ke shaanoṅ se meri gardan bandhegi
+  Chhota hai qad sab se mera baba kahaaṅ ho
+  Hoga mera zakhmi gala baba kahaaṅ ho
 
   3
-  Kaise pehchanogi mujhe bolo
+  Kaise pehchaanogi mujhe bolo
   Mil ke maara hai tere baba ko
   Ae meri jaan meri baat suno
   Sab se zakhmi badan talaash karo
-  Maar ke jab tumko layeen qaimon mein aaya
-  Baal mere khaynche mujhe maara tamacha
-  Zakhmi hua chehra mera baba kahan ho
-  Itna mujhe maara gaya baba kahan ho
+  Maar ke jab tumko laiṅ khaimoṅ mein aaya
+  Baal mere khainche mujhe maara tamaacha
+  Zakhmi hua chehra mera baba kahaaṅ ho
+  Itna mujhe maara gaya baba kahaaṅ ho
 
   4
   Kab se jaagi hai paas aa mere
-  Aa rahi hogi beta neend tujhe
-  Tu magar soyegi yahan kaise
-  Mera seena bhara hai teeron se
-  Teer nikalungi main khud nanhe haathon se
-  Baba magar soungi main seene pe tere
-  Ran mein andhera hogaya baba kahan ho
-  Seena kahan dhoondun tera baba kahan ho
+  Aa rahi hogi beta nind tujhe
+  Tu magar soegi yahaaṅ kaise
+  Mera sina bhara hai tiroṅ se
+  Tir nikaaluṅgi main khud nanhe haathoṅ se
+  Baba magar souṅgi main sine pe tere
+  Ran mein andhera ho gaya baba kahaaṅ ho
+  Sina kahaaṅ dhunduṅ tera baba kahaaṅ ho
 
   5
   Pehli manzil hai ye musibat ki
-  Zulm sehna hai tujhko aur abhi
+  Zulm sehne haiṅ tujhko aur abhi
   Jo sunega tu hai meri beti
   Aur maarega tujhko ae Bibi
-  Aap ki beti hun usay jab ye bataya
-  Jaan ke zalim ne mera daaman jalaya
-  Cheen ke legaya rida baba kahan ho
-  Deti rahi main ye sada baba kahan ho
+  Aap ki beti huṅ use jab ye bataaya
+  Jaan ke zaalim ne mera daaman jalaaya
+  Chhin ke le gaya rida baba kahaaṅ ho
+  Deti rahi main ye sada baba kahaaṅ ho
 
   6
   Ye bhi pehchaan hai meri sun le
-  Jab giraya gaya mujhe zeen se
-  Yun to talwarein bhi chali mujhpe
-  Sab se gehre hai zakhm naizon ke
-  Naize ka jab naam suna boli sakina
-  Is tarha khooli ne mujhe neze se maara
-  Chehre ke bal gira diya baba kahan ho
-  Yaad bahot aaye chacha baba kahan ho
+  Jab giraaya gaya mujhe ziṅ se
+  Yuṅ to talwaareṅ bhi chaliṅ mujh pe
+  Sab se gehre haiṅ zakhm nezoṅ ke
+  Neze ka jab naam suna boliṅ Sakina
+  Is tarah Khuli ne mujhe neze se maara
+  Chehre ke bal gira diya baba kahaaṅ ho
+  Yaad bahut aaye chacha baba kahaaṅ ho
 
   7
-  Dhoonda Zeeshan aur Raza har su
-  Aayi jis waqt baap ki khusboo
+  Dhunda Zishaan aur Raza har su
+  Aayi jis waqt baap ki khushbu
   Ponchh kar nanhe haath se aansu
-  Pahunchi laashe pe ho ke be-qaabu
-  Gham jo sahe bhool gayi jab dekha manzar
-  Ghodon se pamaal badan aur tha kata sar
-  Phir na Sakina ne kaha baba kahan ho
-  Uth ke suno haal mera baba kahan ho
+  Pahunchi laashe pe ho ke beqaabu
+  Gham jo sahe bhul gayi jab dekha manzar
+  Ghoroṅ se paamaal badan aur tha kata sar
+  Phir na Sakina ne kaha baba kahaaṅ ho
+  Uth ke suno haal mera baba kahaaṅ ho
 # source_id: nohayonline:6e13f150156971c00298
 # source_url: https://www.nohayonline.com/details_content.php?id=2754
 # raw_sha256: 26cf9cd6c39e18440a50e89872484384c119eeef28067b6b00c81bb9b1317188
@@ -134,20 +135,20 @@ romanLyrics: |-
 ۳
 کیسے پہچانوگی مجھے بولو
 ملکے مارا ہے تیرے بابا کو
-اے میرے جان میری بات سنو
+اے میری جان میری بات سنو
 سب سے زخمی بدن تلاش کرو
 مارکے جب تمکو لعیں خیموں میں آیا
 بال میرے کھینچے مجھے مارا طمانچہ
-زخمی ہوا چہرا میرا بابا کہاں ہو
+زخمی ہوا چہرہ میرا بابا کہاں ہو
 اتنا مجھے مارا گیا بابا کہاں ہو
 
 ۴
 کب سے جاگی ہے پاس آ میرے
 آرہی ہوگی بیٹا نیند تجھے
-تو مگر سوئیگی یہاں کیسے
+تو مگر سوئے گی یہاں کیسے
 میرا سینہ بھرا ہے تیروں سے
 تیر نکالوں گی میں خود ننھے ہاتھوں سے
-بابا مگر سوؤنگی میں سینے پہ تیرے
+بابا مگر سوؤں گی میں سینے پہ تیرے
 رن میں اندھیرا ہوگیا بابا کہاں ہو
 سینہ کہاں ڈھونڈوں تیرا بابا کہاں ہو
 
@@ -155,7 +156,7 @@ romanLyrics: |-
 پہلی منزل ہے یہ مصیبت کی
 ظلم سہنے ہیں تجھکو اور ابھی
 جو سنے گا تو ہے میری بیٹی
-اور مارے گا تجھکو اے بی بی
+اور مارے گا تجھکو اے بی‌بی
 آپ کی بیٹی ہوں اسے جب یہ بتایا
 جان کے ظالم نے میرا دامن جلایا
 چھین کے لے گیا ردا بابا کہاں ہو
