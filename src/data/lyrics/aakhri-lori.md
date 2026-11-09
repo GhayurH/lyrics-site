@@ -6,58 +6,59 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aakhri lori hai meri jaan kar bejaan hun main
-  Ae Khuda Taala na mujhko aazmana maa hun main
+  Aakhri lori hai meri jaan kar bejaan huṅ main
+  Ae Khuda Taala na mujh ko aazmana maaṅ huṅ main
 
   1
-  Nanhe nanhe haath aur pyase labon ko choom kar
-  Main kaha karti thi Asghar ab agar jaaungi ghar
-  Main parhungi teri surat tu kare Quran hun main
+  Nanhe nanhe haath aur pyase laboṅ ko chum kar
+  Main kaha karti thi Asghar ab agar jaauṅ ghar
+  Main parhuṅ gi teri surat tu kare Quran huṅ main
 
   2
-  Putliyan aankhon ki meri tujhse le kar roshni
-  Itni roshan hogayi ke bheek maange chandni
-  Ae mere mahtab aaja muztar o giryan hun main
+  Putliyaaṅ aankhoṅ ki meri tujh se le kar roshni
+  Itni roshan ho gayi ke bhik maange chaandni
+  Ae mere mahtaab aaja muztar o giryaaṅ huṅ main
 
   3
   Aakhri shab hai sahar is shab ki kya dikhlaye rang
-  Hai munajaate khuda yan us taraf tayyar jang
-  Tu ladega kis tarha aada se yun hairan hun main
+  Hai munajaat-e-Khuda yaaṅ us taraf tayyar jang
+  Tu larega kis tarah aada se yuṅ hairaan huṅ main
 
   4
   Nusrat-e-Shabbir to karna hai tum ko bhi magar
-  Muskurahat tere lab par aur udhar teer o tabar
-  Tujhpe ae nanhe mujahid is liye qurban hun main
+  Muskurahat tere lab par aur udhar tir o tabar
+  Tujh pe ae nanhe mujahid is liye qurbaaṅ huṅ main
 
   5
-  Saari maayein apni qurbani karengi pesh kal
-  Chaahti hoon tu idhar maidan mein aise nikal
-  Taake main bhi keh sakun ek Askari ki maa hun main
+  Saari maaeṅ apni qurbani kareṅ gi pesh kal
+  Chaahti huṅ tu idhar maidaaṅ mein aise nikal
+  Taake main bhi keh sakuṅ ek Askari ki maaṅ huṅ main
 
   6
-  Dhyaan bas itna rahe behre viran jaate huwe
+  Dhyaan bas itna rahe bahr-e-viraaṅ jaate hue
   Chand qatre paani pi lena jo qismat se mile
-  Ek teri tashna dahani se bohat bejaan hun main
+  Ek teri tashna dahani se bohat bejaaṅ huṅ main
 
   7
-  Subho se aaghaz hoga teer ki barsaat ka
-  Khoon fishan chehra nazar aane laga hai raat ka
-  Teeron se bach kar raho karti dua har aan hun main
+  Subh se aaghaz hoga tir ki barsaat ka
+  Khuṅ fishaaṅ chehra nazar aane laga hai raat ka
+  Tiroṅ se bach kar raho karti dua har aan huṅ main
 
   8
-  Maa dua karti rahi Rehan jhoole ke qareeb
-  Laaj rukhiyo maadar-e-Asghar ki Rabbul Aalamin
-  Meri qurbani hai asghar be sar o samaan hoon mai
+  Maaṅ dua karti rahi Rehan jhule ke qarib
+  Laaj rakhiyo maadar-e-Asghar ki Rabbul Aalamin
+  Meri qurbani hai Asghar be sar o saamaaṅ huṅ main
 
   9
   Guftagu maadar ki sunkar bezuban kehne laga
-  Kaise so jaaun mai ke sona hai zameene garm par
-  Main to so jaunga khaa kar teer kal maidan mein
-  Haan magar tum so nahi paaogi amma umr bhar
+  Kaise so jaauṅ main ke sona hai zamin-e-garm par
+  Main to so jaauṅ ga khaa kar tir kal maidan mein
+  Haaṅ magar tum so nahiṅ paao gi ammaṅ umr bhar
 # source_id: nohayonline:3fd74faec5543907385d
 # source_url: https://www.nohayonline.com/details_content.php?id=3188
 # raw_sha256: 436262288d819a44a9fdb5ff41781d0a9de1ddb9ad3caf36a48e6fa7b0c4b605
@@ -72,11 +73,11 @@ romanLyrics: |-
 
 ۲
 پتلیاں آنکھوں کی میری تجھ سے لے کر روشنی
-اتنی روشن ہو گیء کہ بھیک مانگے چاندنی
+اتنی روشن ہو گئی کہ بھیک مانگے چاندنی
 اے میرے مہتاب آجا مضطر و گریاں ہوں میں
 
 ۳
-آخری شب ہے سحر اس شب کی کیا دکھلاے رنگ
+آخری شب ہے سحر اس شب کی کیا دکھلائے رنگ
 ہے مناجات خدا یاں اس طرف تیار جنگ
 تو لڑے گا کس طرح اعدا سے یوں حیران ہوں میں
 
@@ -86,9 +87,9 @@ romanLyrics: |-
 تجھ پہ اے ننھے مجاہد اس لئے قرباں ہوں میں
 
 ۵
-ساری ماییں اپنی قربانی کریں گی پیش کل
+ساری مائیں اپنی قربانی کریں گی پیش کل
 چاہتی ہوں تو ادھر میداں میں ایسے نکل
-تاکے میں بھی کہہ سکوں ایک عسکری کی ماں ہوں میں
+تاکہ میں بھی کہہ سکوں ایک عسکری کی ماں ہوں میں
 
 ۶
 دھیان بس اتنا رہے بحر ویراں جاتے ہوئے

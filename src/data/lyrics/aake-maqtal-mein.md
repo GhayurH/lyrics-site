@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qaiser Kaleem"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,44 +14,44 @@ romanLyrics: |-
   Aa ke maqtal mein saf-e-matam bichhao Fatima
   
   1
-  Dushmano mein ghir gaya hai aap ka pyara Husain
-  Jaan-ba-lab hai karbala mein bekas o tanha Husain
+  Dushmanoṅ mein ghir gaya hai aap ka pyara Husain
+  Jaaṅ-ba-lab hai Karbala mein bekas o tanha Husain
   Tashna lab bete ko seene se laga lo Fatima
   
   2
   Ab na Qasim hai na Akbar hai na Abbas-e-Jari
   Khanjar-e-zulm o sitam hai gardan-e-sibt-e-Nabi
-  Asr ka hangaam hai balin pa aao Fatima
+  Asr ka hangaam hai baaliṅ pe aao Fatima
   
   3
-  Garm reti par tadapta hai nabi ka laadla
-  Gunjti hai karbala mein wa Husaina ki sada
+  Garm reti par tadapta hai Nabi ka laadla
+  Gunjti hai Karbala mein wa Husaina ki sada
   Berida maqtal mein Zainab hai sambhalo Fatima
   
   4
-  Kya musibat ki ghari hai kya qayamat ka samaan
-  Aaye hai karbobala mein sarwar-e-kaun o makan
+  Kya musibat ki ghari hai kya qayamat ka samaaṅ
+  Aaye haiṅ Karbobala mein sarwar-e-kaun o makaaṅ
   Gham ki ye rudaad baba ko sunao Fatima
   
   5
-  Allah allah ibn-e-Haider bekhata maara gaya
+  Allah Allah ibn-e-Haider bekhata maara gaya
   Reh gayi Zainab tadap kar aur gala kaata gaya
   Bhai ka pursa behen ko dene aao Fatima
   
   6
-  Ro rahi peet ke sar gham ki maari bibiyan
-  Baap ke gham mein Sakina le rahi hai hichkiyan
+  Ro rahi pit ke sar gham ki maari bibiyaaṅ
+  Baap ke gham mein Sakina le rahi hai hichkiyaaṅ
   Aa ke seene se Sakina ko laga lo Fatima
   
   7
-  Arsh waale ro rahe hai ro raha hai aasman
-  Ranj o gham se kaampta hai ek mareez e natawan
+  Arsh wale ro rahe haiṅ ro raha hai aasmaaṅ
+  Ranj o gham se kaaṅpta hai ek mariz-e-naatawaaṅ
   Abid-e-muztar ko pursa dene aao Fatima
   
   8
-  Ae Takallum ahl-e-sitam ab ghar jalane aaye hai
-  AhlulBait-e-Mustafa par zulm dhaane aaye hai
-  Bibiyon ko is musibat se bachao Fatima
+  Ae Takallum ahl-e-sitam ab ghar jalane aaye haiṅ
+  Ahl-e-Bait-e-Mustafa par zulm dhaane aaye haiṅ
+  Bibiyoṅ ko is musibat se bachao Fatima
 # source_id: nohayonline:654d75ced1b201c6aafd
 # source_url: https://www.nohayonline.com/details_content.php?id=3255
 # raw_sha256: c204b1e323e2778b64ca8b9ba08d398e621db923d71c85ea724d4326e53c7110
@@ -75,16 +76,16 @@ romanLyrics: |-
 
 ۴
 کیا مصیبت کی گھڑی ہے کیا قیامت کا سماں
-آے ہیں کربوبلا میں سرور و کون و مکاں
+آئے ہیں کربوبلا میں سرورِ کون و مکاں
 غم کی یہ روداد بابا کو سناؤ فاطمہ
 
 ۵
 اللّٰہ اللہ ابن حیدر بے خطا مارا گیا
-رہ گیء زینب تڑپ کر اور گلا کاٹا گیا
-بھای کا پرسہ بہن کو دینے آؤ فاطمہ
+رہ گئی زینب تڑپ کر اور گلا کاٹا گیا
+بھائی کا پرسہ بہن کو دینے آؤ فاطمہ
 
 ۶
-رو رہی پیٹ کے سر غم کی ماری بی بیاں
+رو رہی پیٹ کے سر غم کی ماری بیبیاں
 باپ کے غم میں سکینہ لے رہی ہے ہچکیاں
 آ کے سینے سے سکینہ کو لگا لو فاطمہ
 
@@ -94,6 +95,6 @@ romanLyrics: |-
 عابد مضطر کو پرسہ دینے آؤ فاطمہ
 
 ۸
-اے تکلم اہلِ ستم اب گھر جلانے آے ہیں
-اہلبیت مصطفیٰ پر ظلم ڈھانے آے ہیں
-بی بیوں کو اس مصیبت سے بچاؤ فاطمہ
+اے تکلم اہلِ ستم اب گھر جلانے آئے ہیں
+اہلِ بیت مصطفیٰ پر ظلم ڈھانے آئے ہیں
+بیبیوں کو اس مصیبت سے بچاؤ فاطمہ

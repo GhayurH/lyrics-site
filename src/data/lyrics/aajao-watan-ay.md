@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chain Sughra ko Madine mein nahi aata tha
+  Chain Sughra ko Madine mein nahiṅ aata tha
   Baap ki yaad mein dil uska phata jaata tha
   Roti thi tadapti thi buka karti thi Sughra
-  Tha Fatima Sughra ke labon par yehi nauha
+  Tha Fatima Sughra ke laboṅ par yehi nauha
   Kehti thi ye ro kar Sughra
   Aajao watan ae baba
 
   1
   Hai shahr-e-Madina suna
   Suna hai Nabi ka roza
-  Hai charon taraf sannata
+  Hai chaaroṅ taraf sannata
 
   2
-  Main kaise bataun baba
-  Din eid ka kaise guzra
-  Aankhon se lahoo tha behta
+  Main kaise batauṅ baba
+  Din Eid ka kaise guzra
+  Aankhoṅ se lahu tha behta
 
   3
   Koi to taras ab khaaye
   Aakar ke mujhe le jaaye
-  Kab tak main rahungi tanha
+  Kab tak main rahuṅ gi tanha
 
   4
-  Kis tarha sukun main paaun
-  Dil kaise main ab behlaun
-  Asghar bhi nahi hai mera
+  Kis tarah sukuṅ main paauṅ
+  Dil kaise main ab behlaauṅ
+  Asghar bhi nahiṅ hai mera
 
   5
   Jhula main jhulati usko
@@ -49,7 +50,7 @@ romanLyrics: |-
 
   7
   Ab rok qalam ae Waiz
-  Seene mein nahi dam Waiz
+  Seene mein nahiṅ dam Waiz
   Mushkil hai bahot ab likhna
 # source_id: nohayonline:99b22f27ff49ad19fd06
 # source_url: https://www.nohayonline.com/details_content.php?id=3165
@@ -60,7 +61,7 @@ romanLyrics: |-
 روتی تھی تڑپتی تھی بکا کرتی تھی صغرا
 تھا فاطمہ صغرا کے لبوں پر یہی نوحہ
 کہتی تھی یہ رو کر صغرا
-آجاؤ وطن اے‌ بابا
+آجاؤ وطن اے بابا
 
 ۱
 ہے شہر مدینہ سونا
@@ -69,12 +70,12 @@ romanLyrics: |-
 
 ۲
 میں کیسے بتاؤں بابا
-دن‌ عید کا کیسے گزرا
+دن عید کا کیسے گزرا
 آنکھوں سے لہو تھا بہتا
 
 ۳
 کوئی تو ترس اب کھائے
-آ کر کے مجھے لے جاے
+آ کر کے مجھے لے جائے
 کب تک میں رہوں گی تنہا
 
 ۴
