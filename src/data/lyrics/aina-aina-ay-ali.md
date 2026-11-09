@@ -9,47 +9,48 @@ poet: "Anees"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Aina aina ay ali akbar
-  Kahan ho ay ali akbar
+  Aina Aina Ae Ali Akbar
+  Kahaṅ ho Ae Ali Akbar
 
   1
-  Kyun rehm khao baap hai hadh darja soghwaar
-  Qasim na aun aur na abbas zee viqaar
-  Dhoondu kahan pe aata nahi kuch mujhe nazar
+  Kiun rehm khao baap hai hadd darja sogwar
+  Qasim na Aun aur na Abbas zi-waqar
+  Dhundhuṅ kahaṅ pe aata nahiṅ kuchh mujhe nazar
 
   2
   Beta ye tera baap hai is waqt zinda laash
-  Aankhon ka noor bhi nahi kaise karun talaash
+  Aankhoṅ ka nur bhi nahiṅ kaise karuṅ talash
   Kham hai tere chacha ke alam se meri kamar
 
   3
-  Laashon se ran mein thokarein khaata hoo baar baar
-  Qaabu nahi hai dil pe na aaza pe ikhtiyaar
+  Lashoṅ se ran mein thokareṅ khata huṅ baar baar
+  Qabu nahiṅ hai dil pe na aaza pe ikhtiyar
   Qasim ke gham ne kar diye tukde dil o jigar
 
   4
-  Teri phupi nikal na pade qaimagaah se
+  Teri phuphi nikal na pare khaimagah se
   Athara saal paala hai is ne to chaah se
-  Le jaaun tum ko uske mai aane se pesh tar
+  Le jauṅ tum ko us ke main aane se peshtar
 
   5
-  Jab se suni hai teri sada maa hai beqarar
+  Jab se suni hai teri sada maaṅ hai beqarar
   Seene ko pakde poochti hai mujhse baar baar
-  Kisne kiya salaam ye ran se pukaar kar
+  Kis ne kiya salam ye ran se pukar kar
 
   6
-  Mushkil kusha ke potay ho mushkil ka waqt hai
+  Mushkilkusha ke pote ho mushkil ka waqt hai
   Pahuncho madad ko baap pe manzil ye saqt hai
-  Ek baar phir pukaro to aa jaaye ye pidar
+  Ek baar phir pukaro to aa jae ye pidar
 
   7
-  Khath aaya hai watan se behen ka isay pado
+  Khat aaya hai watan se behan ka ise parho
   Uth kar jawab e fatema sughra ko kuch likho
   Tayyar wapasi pe hai sughra ka naamawar
 
   8
-  Is haal ka anees kare kis tarha bayan
+  Is haal ka Anees kare kis tarah bayan
   Jis tarha shaah dhoondte thay apna naujawan
   Maqtal ki khaak aaj bhi hai gham mein nauhagar
 # source_id: nohayonline:1134ae7de0d84438aa83
@@ -67,17 +68,17 @@ romanLyrics: |-
 ۲
 بیٹا یہ تیرا باپ ہے اس وقت زندہ لاش
 آنکھوں کا نور بھی نہیں کیسے کروں تلاش
-خم ہے تیرے چچا کے الم سے میری کمر
+خم ہے تیرے چچا کے علم سے میری کمر
 
 ۳
 لاشوں سے رن میں ٹھوکریں کھاتا ہوں بار بار
 قابو نہیں ہے دل پہ نہ اعضاء پہ اختیار
-قاسم کے غم نے کر دیےء ٹکڑے دل و جگر
+قاسم کے غم نے کر دیے ٹکڑے دل و جگر
 
 ۴
-تیری پھپھی نکل نہ پڑے خیمہ گاہ سے
+تیری پھوپھی نکل نہ پڑے خیمہ گاہ سے
 اٹھارہ سال پالا ہے اس نے تو چاہ سے
-لے جاؤں تم کو اسکے میں آنے سے پیش تر
+لے جاؤں تم کو اس کے میں آنے سے پیش تر
 
 ۵
 جب سے سنی ہے تیری صدا ماں ہے بیقرار
@@ -87,7 +88,7 @@ romanLyrics: |-
 ۶
 مشکل کشا کے پوتے ہو مشکل کا وقت ہے
 پہنچو مدد کو باپ پہ منزل یہ سخت ہے
-اک بار پھر پکارو تو آ جاے یہ پدر
+اک بار پھر پکارو تو آ جائے یہ پدر
 
 ۷
 خط آیا ہے وطن سے بہن کا اسے پڑو
