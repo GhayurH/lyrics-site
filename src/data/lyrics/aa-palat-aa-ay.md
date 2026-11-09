@@ -1,92 +1,93 @@
 ---
-title: "غیب سے آی صدا آ پلٹ آ اے حسین"
-alternateTitle: "Aa Palat Aa Ay"
+title: "غیب سے آئی صدا آ پلٹ آ اے حسین"
+alternateTitle: "Aa Palat Aa Ae"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aa Palat Aa Ay"]
 published: false
 romanLyrics: |-
   Ghaib se aayi sada aa palat aa ae Husain
-  Tujhse razi hai Khuda aa palat aa ae Husain
+  Tujhse raazi hai Khuda aa palat aa ae Husain
 
   1
-  Asre ashoor ka hangaam qayamat ka samaan
-  Dhoop mein jalti hui rayt se uth'ta hai dhuaan
-  Bhuk aur pyas ka mara hai har ek pir o jawan
-  Shiddat-e-pyas se hai tarakhi hui teri zuban
+  Asr-e-Ashur ka hangaam qayamat ka samaaṅ
+  Dhup mein jalti hui ret se uthta hai dhuaaṅ
+  Bhuk aur pyaas ka maara hai har ek pir o jawaaṅ
+  Shiddat-e-pyaas se hai tarakhti hui teri zabaaṅ
   Khushk hai tera gala aa palat aa ae Husain
   
   2
-  Tera har ek amal nayk hai tabinda hai
-  Maareka haq ke liye tera ye paainda hai
-  Sabre ayyub tere sabr se sharminda hai
-  Qatl jo haq ke liye hogaya wo zinda hai
+  Tera har ek amal nek hai taabinda hai
+  Maarka-e-haq ke liye tera ye paainda hai
+  Sabr-e-Ayyub tere sabr se sharminda hai
+  Qatl jo haq ke liye ho gaya wo zinda hai
   Tere haq mein hai baqa aa palat aa ae Husain
   
   3
   Tu ne Islam ko Akbar ki jawani de di
-  Thi jo nana ki nishani wo nishani dedi
-  Nafs emaan ko ashkon ko rawani dedi
-  Khatm jo ho na sakegi wo kahani dedi
+  Thi jo nana ki nishani wo nishani de di
+  Nafs imaan ko ashkoṅ ko rawani de di
+  Khatm jo ho na sakegi wo kahani de di
   Naam uncha hai tera aa palat aa ae Husain
   
   4
-  Subh se tu ne kayi laashe uthaye hai hussain
-  Zakhm par zakhm har ek gaam pe khaye hain Husain
-  Dushman-e-din bahut tujhko sataye hain Husain
-  Khanjar o tegh o sina tujh pe chalaye hain Husain
+  Subh se tu ne kayi laasheṅ uthaaye haiṅ Husain
+  Zakhm par zakhm har ek gaam pe khaaye haiṅ Husain
+  Dushman-e-din bahut tujhko sataaye haiṅ Husain
+  Khanjar o tegh o sinaaṅ tujh pe chalaaye haiṅ Husain
   Tu ne har zulm saha aa palat aa ae Husain
   
   5
-  Laashe qasim ke rakhe tukde abaa mein tu ne
-  Wakf ki apni zuban hamd o sana mein tu ne
-  Dar kiya apna fida raahe khuda mein tu ne
-  Zulm kya kya na sahe karbobala mein tu ne
-  Kar diya wada wafa aa palat aa ae Husain
+  Laash-e-Qasim ke rakhe tukre abaa mein tu ne
+  Waqf ki apni zabaaṅ hamd o sana mein tu ne
+  Dar kiya apna fida raah-e-Khuda mein tu ne
+  Zulm kya kya na sahe Karbobala mein tu ne
+  Kar diya waada wafa aa palat aa ae Husain
   
   6
-  Hogaya qatl har ek nasir o yawar tera
+  Ho gaya qatl har ek naasir o yaawar tera
   Tera Qasim hai na ab hai Ali Akbar tera
   Aun hai aur na Muhammad hai na Asghar tera
-  So gaya nehr pe Abbas-e-dilawar tera
+  So gaya nehr pe Abbas-e-dilaawar tera
   Tu akela hai khara aa palat aa ae Husain
   
   7
   Aa mere paas Muhammad ke nawase aaja
   Ae mere tin shab o roz ke pyase aaja
-  Jaanibe arshe bari karbobala se aaja
-  Ab to milne ke liye apne khuda se aaja
+  Jaanib-e-arsh-e-bariṅ Karbobala se aaja
+  Ab to milne ke liye apne Khuda se aaja
   Mera sab kuch hai tera aa palat aa ae Husain
   
   8
-  Tera nauha tere akhtar ne likha hai shabbir
-  Tere irfan ne nauha ye padha hai shabbir
-  Majlis e gham mein ajab hashr bapa hai shabbir
-  Ye bhi ek tera karam teri ata hai shabbir
+  Tera noha tere Akhtar ne likha hai Shabbir
+  Tere Irfan ne noha ye parha hai Shabbir
+  Majlis-e-gham mein ajab hashr bapa hai Shabbir
+  Ye bhi ek tera karam teri ata hai Shabbir
   De ke ummat ko dua aa palat aa ae Husain
 # source_id: nohayonline:bf0b0b90220b3aceca17
 # source_url: https://www.nohayonline.com/details_content.php?id=3466
 # raw_sha256: e267ca5cf91dbb17feb59ee87d208a285a3b1d9495f069cafccdf1ee9c9205e2
 ---
 
-غیب سے آی صدا آ پلٹ آ اے حسین
+غیب سے آئی صدا آ پلٹ آ اے حسین
 تجھ سے راضی ہے خدا آ پلٹ آ اے حسین
 
 ۱
 عصر عاشور کا ہنگام قیامت کا سماں
 دھوپ میں جلتی ہوئی ریت سے اٹھتا ہے دھواں
 بھوک اور پیاس کا مارا ہے ہر پیر و جواں
-شدت پیاس سے ہے تڑختی ہوی تیری زباں
+شدت پیاس سے ہے تڑختی ہوئی تیری زباں
 خشک ہے تیرا گلا آ پلٹ آ اے حسین
 
 ۲
 تیرا ہر ایک عمل نیک ہے تابندہ ہے
-معرکہ حق کے لئے تیرا یہ پاییندہ ہے
-صبر عیوب تیرے صبر سے شرمندہ ہے
+معرکہ حق کے لئے تیرا یہ پائندہ ہے
+صبر ایوب تیرے صبر سے شرمندہ ہے
 قتل جو حق کے لئے ہو گیا وہ زندہ ہے
 تیرے حق میں ہے بقا آ پلٹ آ اے حسین
 
@@ -98,10 +99,10 @@ romanLyrics: |-
 نام اونچا ہے تیرا آ پلٹ آ اے حسین
 
 ۴
-صبحِ سے تو نے کیء لاشیں اٹھاے ہیں حسین
-زخم پر زخم ہر ایک گام پہ کھاے ہیں حسین
-دشمن دین بہت تجھکو ستاے ہیں حسین
-خنجر و تیغ و سناں تجھ پہ چلاے ہیں حسین
+صبح سے تو نے کئی لاشیں اٹھائے ہیں حسین
+زخم پر زخم ہر ایک گام پہ کھائے ہیں حسین
+دشمن دین بہت تجھکو ستائے ہیں حسین
+خنجر و تیغ و سناں تجھ پہ چلائے ہیں حسین
 تو نے ہر ظلم سہا آ پلٹ آ اے حسین
 
 ۵
