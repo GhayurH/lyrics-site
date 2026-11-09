@@ -7,6 +7,7 @@ kalamType: Dua
 poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
+recitationId: "dua-e-kumail-nadeem-sarwar"
 published: false
 alternateTitle: Dua E Kumail Nadeem Sarwar
 romanLyrics: |-

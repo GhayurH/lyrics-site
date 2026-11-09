@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "hai-shah-e-khurasaan-ka-roza-mere-aagay-lyrics-2015"
 published: false
 # source_id: tajpoints:e523db29fc556c43528c
 # source_url: https://tajpoints.com/2017/02/hai-shah-e-khurasaan-ka-roza-mere-aagay.html

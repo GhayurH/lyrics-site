@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "dua-rasool-ki-pori-hoi-ghadeer-ke-din-rehan-azmi-lyrics-2023"
 published: false
 # source_id: tajpoints:2b7ca72a3da7dda154ce
 # source_url: https://tajpoints.com/2023/06/dua-rasool-ki-pori-hoi-ghadeer-ke-din.html

@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "azza-ke-deep-jalao-main-aane-wala-hoon-lyrics-2007"
 published: false
 # source_id: tajpoints:35c0e1ed2204cc49297f
 # source_url: https://tajpoints.com/2019/04/azza-ke-deep-jalao-main-aane-wala-hoon.html

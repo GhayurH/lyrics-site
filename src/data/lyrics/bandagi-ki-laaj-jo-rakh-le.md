@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "bandagi-ki-laaj-jo-rakh-le-mir-hasan-mir"
 published: false
 # source_id: tajpoints:9343c1692c9af5466edd
 # source_url: https://tajpoints.com/2021/12/bandagi-ki-laaj-jo-rakh-le-mir-hasan.html

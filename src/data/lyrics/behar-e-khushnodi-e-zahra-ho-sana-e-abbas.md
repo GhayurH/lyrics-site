@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "behar-e-khushnodi-e-zahra-ho-sana-e-abbas-mir-hasan-mir"
 published: false
 # source_id: tajpoints:af3c7ac549ebcb17c9cf
 # source_url: https://tajpoints.com/2018/04/behar-e-khushnodi-e-zahra-ho-sana-e.html

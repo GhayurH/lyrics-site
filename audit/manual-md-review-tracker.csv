@@ -667,7 +667,7 @@ src/data/lyrics/abbas-madad-ko.md,standalone_lyrics,imported,unclassified,spot_c
 src/data/lyrics/abbas-mar-gaya.md,standalone_lyrics,imported,unclassified,spot_checked,partial_review,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-house-style-23,this_commit,Source bilingual HTML id 1127 verified six introductory verses plus the unique ending 'Abbas mar gaya', then eight distinct three-verse stanzas. Import omitted choral repetitions but preserved primary refrain. Corrected Roman 'khatra-e-aab' to 'qatra-e-aab' as Urdu قطرہ. Flagged unusual source phrasing for later audio. Prior: 
 src/data/lyrics/abbas-mar-gaye.md,standalone_lyrics,imported,unclassified,spot_checked,partial_review,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-house-style-24,this_commit,Original NoHayOnline HTML id 2371: four opening verses and eight three-verse stanzas, repeated short performance cues dropped. Rechecked Roman and clear Urdu OCR; 'جواز ہمارے نہیں رہا' and some poetic grammar left as printed pending audio. Previous: 
 src/data/lyrics/abbas-meere-lashkaram.md,standalone_lyrics,imported,unclassified,spot_checked,reviewed,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-house-style-24,this_commit,Compared NoHayOnline HTML id 2515. Three opening verses (short title response only once) and ten four-verse stanzas. Repaired Urdu OCR 'جھکنے نے دیا' to 'جھکنے نہ دیا' and 'بوندھ' to 'بوند'. Roman matched all source verses and stanza order. Previous: 
-src/data/lyrics/abbas-mera-maula.md,standalone_lyrics,imported,unclassified,spot_checked,partial_review,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-house-style-24,this_commit,Original HTML id 1881 verified three-line opening plus nine three-verse stanzas. Corrected mistaken Urdu الم (flag) to علم in two places and cupful چلو to چلّو. Roman aligned to current Urdu; source's grammatically odd stanza two and five retained pending recitation. Previous: 
+src/data/lyrics/abbas-mera-maula.md,standalone_lyrics,imported,unclassified,spot_checked,partial_review,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-roman-readback,this_commit,Readback correction: با حیا is ba haya (not bahaya). Original HTML id 1881 verified three-line opening plus nine three-verse stanzas. Corrected mistaken Urdu الم (flag) to علم in two places and cupful چلو to چلّو. Roman aligned to current Urdu; source's grammatically odd stanza two and five retained pending recitation. Previous: 
 src/data/lyrics/abbas-mere-bhai.md,standalone_lyrics,imported,unclassified,spot_checked,partial_review,reviewed,reviewed,verified_live_html,partially_checked,2026-11-08-house-style-24,this_commit,Checked HTML id 2516. Three-line opening and eight three-line stanzas after removing between-stanza short performance refrain. Urdu says اثاثہ while Roman source 'aasa', so Roman transcribes asasa to match Urdu without changing it. Urdu 'تمہیں ہو' in stanza six is semantically uncertain; audio review needed. Previous: 
 src/data/lyrics/abbas-mere-laal.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/abbas-mere-sar-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1160,7 +1160,7 @@ src/data/lyrics/azane-akbar-bula.md,standalone_lyrics,imported,unclassified,pend
 src/data/lyrics/azane-akbar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/azane-darvaish.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/azmat-liye-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/azza-ke-deep-jalao-main-aane-wala-hoon-lyrics-2007.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/azza-ke-deep-jalao-main-aane-wala-hoon.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/ba-khuda-hakima-e-kon-o-makaan-hain-zahra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ba-khuda-hussain-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/baab-e-saat-par.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1241,7 +1241,7 @@ src/data/lyrics/bain-karti-thi-ye.md,standalone_lyrics,imported,unclassified,pen
 src/data/lyrics/bain-tha-sakina-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bain-thay-ye-bano-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bain-ul-haramain-sajjad-ashraf-taqvi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bain-ul-harmain-1-2-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/bain-ul-harmain-1-2.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/bain-ye-zainab-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/baitha-hai-mushkilaat.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bakhi-jo-rafiqe-shahe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1250,7 +1250,7 @@ src/data/lyrics/bali-sakina-tanha.md,standalone_lyrics,imported,unclassified,pen
 src/data/lyrics/baliyan-shaam-talak.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bana-ke-turbate.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/banda-hazaar-saal.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bandagi-ki-laaj-jo-rakh-le-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/bandagi-ki-laaj-jo-rakh-le.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/bano-ka-naunehal.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bano-ka-ye-nauha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bano-kahan-talaash.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1310,7 +1310,7 @@ src/data/lyrics/behan-mai-saath-saath.md,standalone_lyrics,imported,unclassified
 src/data/lyrics/behan-sakina-muaf.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/behan-ye-ghazi-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/behan-zainab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/behar-e-khushnodi-e-zahra-ho-sana-e-abbas-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/behar-e-khushnodi-e-zahra-ho-sana-e-abbas.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/behen-ne-ro-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/behen-sina-pe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/behna-meri-sakina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1545,11 +1545,11 @@ src/data/lyrics/dono-jahan-may.md,standalone_lyrics,imported,unclassified,pendin
 src/data/lyrics/dooba-hua-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/door-hai-ab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/dua-deti-hai-zehra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dua-e-kumail-nadeem-sarwar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/dua-e-kumail.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/dua-e-ziyarat.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/dua-karna-ali-akbar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/dua-karo-amma.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dua-rasool-ki-pori-hoi-ghadeer-ke-din-rehan-azmi-lyrics-2023.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/dua-rasool-ki-pori-hoi-ghadeer-ke-din.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/duaein-roke-karta-tha-ridayen-maangne-wala.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/dukhtare-shabbir-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/dukhtare-shabbir-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1596,9 +1596,9 @@ src/data/lyrics/ek-zuljana-ek-zulfiqar.md,standalone_lyrics,imported,unclassifie
 src/data/lyrics/esyan-nahi-ye-matam.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/faatahe-badr-o-uhad-khandaq-o-khaiber-bolay.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/faatahe-karbobala.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/fakhar-e-mustafa-hai-fatima-mir-hasan-mir-yasir-raza-yasir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/fakhar-e-mustafa-hai-fatima.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/fakhre-maryam.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/faqeer-ki-sada-hussain-hai-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/faqeer-ki-sada-hussain-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/farde-aamaal-bas.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/farmate-thay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/farshe-aza-pe-aao.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1677,7 +1677,7 @@ src/data/lyrics/ghar-mein-ahlebait.md,standalone_lyrics,imported,unclassified,pe
 src/data/lyrics/ghar-sakina-ka-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ghar-se-ali-ke-ruqsat.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ghar-se-nikal-raha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ghar-wich-rab-de-veer-nabi-da-aya-lyrics-13-rajab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ghar-wich-rab-de-veer-nabi-da-aya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/ghareeb-baba.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ghareeb-imam-alvida.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ghareebe-karbala.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1734,7 +1734,7 @@ src/data/lyrics/hai-mere-bhai-kahan.md,standalone_lyrics,imported,unclassified,p
 src/data/lyrics/hai-mere-dono-laal.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hai-momino-pe-farz.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hai-salaam-uspe-jo.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/hai-shah-e-khurasaan-ka-roza-mere-aagay-lyrics-2015.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/hai-shah-e-khurasaan-ka-roza-mere-aagay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
 src/data/lyrics/hai-shahadat-hasan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hai-shame-ghariban.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hai-shimr-ke-hathon.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

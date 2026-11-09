@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "fakhar-e-mustafa-hai-fatima-mir-hasan-mir-yasir-raza-yasir"
 published: false
 # source_id: tajpoints:9a222650f55b7a9ad151
 # source_url: https://tajpoints.com/2022/01/fakhar-e-mustafa-hai-fatima-mir-hasan.html

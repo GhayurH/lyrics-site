@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "bain-ul-harmain-1-2-mir-hasan-mir"
 published: false
 # source_id: tajpoints:94bc25ae0ee9217f8321
 # source_url: https://tajpoints.com/2017/05/bain-ul-harmain-1-2.html

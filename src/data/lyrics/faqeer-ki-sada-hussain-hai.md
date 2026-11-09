@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "faqeer-ki-sada-hussain-hai-mir-hasan-mir"
 published: false
 # source_id: tajpoints:be92fdf5777dcf8054f2
 # source_url: https://tajpoints.com/2018/04/faqeer-ki-sada-hussain-hai.html

@@ -6,6 +6,7 @@ direction: "ltr"
 kalamType: "Qasida"
 tags: ["noImage", "noUrdu"]
 aliases: []
+recitationId: "ghar-wich-rab-de-veer-nabi-da-aya-lyrics-13-rajab"
 published: false
 # source_id: tajpoints:9b2eaa785e6402f7d71f
 # source_url: https://tajpoints.com/2024/01/ghar-wich-rab-de-veer-nabi-da-aya.html

@@ -42,7 +42,7 @@ romanLyrics: |-
   6
   Bazu qalam hue to wapas na ran se aaya
   Pani baha tha jitna utna hi khun bahaya
-  Kis darja bahaya hai Sher-e-Khuda ka saaya
+  Kis darja ba haya hai Sher-e-Khuda ka saaya
 
   7
   Is ke alam ko jab se Zainab ne hai sambhala
