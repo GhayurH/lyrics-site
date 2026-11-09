@@ -8,9 +8,13 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Allah Hu, Allah Hu, Allah Hu"
+  - "allah-hoo-allah-hoo-allah-hoo"
 cover: "/images/lyrics/allah-hu.png"
 coverAlt: "Cover image for Allah Hu, Allah Hu, Allah Hu"
 published: true
+# source_id: tajpoints:52fc41563315606f69ef
+# source_url: https://tajpoints.com/2019/04/allah-hoo-allah-hoo-allah-hoo-lyrics-in.html
+# raw_sha256: 746017461d4f1eda0ed7dd091cef00428dd3edb77584f44d9acee28d2cd0ef57
 romanLyrics: |-
   Allah Hu, Allah Hu, Allah Hu
   
