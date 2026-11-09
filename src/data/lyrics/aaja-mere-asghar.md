@@ -6,17 +6,18 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaja mere Asghar aaja maa ke dulaare aaja
+  Aaja mere Asghar aaja maaṅ ke dulaare aaja
   Aaja mere Asghar mere raj dulaare aaja
+  Maaṅ kehti thi ro kar mere raj dulaare aaja
 
   1
-  Maa kehti thi ro kar mere raj dulaare aaja
-  Jhula jhulaun aaja lori sunaun aaja
-  Jhula jhulaun lori sunaun tujhko manaun aaja
+  Jhula jhulaauṅ aaja lori sunaauṅ aaja
+  Jhula jhulaauṅ lori sunaauṅ tujhko manaauṅ aaja
   Aaja mere dilbar mere raj dulaare aaja
 
   2
@@ -27,47 +28,47 @@ romanLyrics: |-
   3
   Haye re kismat meri haye re ghurbat meri
   Haye re kismat haye re ghurbat lut'ti hai daulat meri
-  Kis se kahun main jaa kar mere raj dulaare aaja
+  Kis se kahuṅ main jaa kar mere raj dulaare aaja
 
   4
   Rahat-e-bekas aaja zaat-e-muqaddas aaja
   Rahat-e-bekas zaat-e-muqaddas der na kar bas aaja
-  Chalte hain dil pe khanjar mere raj dulaare aaja
+  Chalte haiṅ dil pe khanjar mere raj dulaare aaja
 
   5
-  Aah bharun main kaise zabt karun main kaise
-  Aah bharun main zabt karun main zinda rahun main kaise
+  Aah bharuṅ main kaise zabt karuṅ main kaise
+  Aah bharuṅ main zabt karuṅ main zinda rahuṅ main kaise
   Samjhade ye aa kar mere raj dulaare aaja
 
   6
   Hansliyon wale aaja naazon ke paale aaja
   Hansliyon wale naazon ke paale mere jiyaale aaja
-  Chinti hai sar se chadar mere raj dulaare aaja
+  Chhinti hai sar se chaadar mere raj dulaare aaja
 
   7
-  Mahv-e-fughan hun Asghar girya-kunan hun Asghar
-  Mehwe fughan hoo girya kuna hoo main ek maa hun Asghar
-  Zabt karun main kiun kar mere raj dulaare aaja
+  Mahv-e-fughaaṅ huṅ Asghar girya-kunaaṅ huṅ Asghar
+  Mahv-e-fughaaṅ huṅ girya-kunaaṅ huṅ main ik maaṅ huṅ Asghar
+  Zabt karuṅ main kiuṅ kar mere raj dulaare aaja
 
   8
   Laal sada de mujhko khud se mila de mujhko
   Laal sada de khud se mila de chehra dikhaade mujhko
-  Main baithi hun dar par mere raj dulaare aaja
+  Main baithi huṅ dar par mere raj dulaare aaja
 
   9
-  Asif Aamir tere dono zaakir tere
-  Asif Aamir dono zaakir dono shair tere
-  Dono hi nauhagar mere raj dulaare aaja
+  Asif Aamir tere donoṅ zaakir tere
+  Asif Aamir donoṅ zaakir donoṅ shaair tere
+  Donoṅ hi nauhagar mere raj dulaare aaja
 # source_id: nohayonline:0d6bae153169a457fd1b
 # source_url: https://www.nohayonline.com/details_content.php?id=2112
 # raw_sha256: e2bdbd17ce52e0da0f3f19b68cf95d98a661070845670a8b6fa2fe3b0dcecba5
 ---
 آجا میرے اصغر آجا ماں کے دلارے آ جا
 آجا میرے اصغر میرے راج دلارے آجا
+ماں کہتی تھی رو کر میرے راج دلارے آجا
 
 ۱
-ماں کہتی تھی رو کر میرے راج دلارے آجا
-جھولا جھلاوں آجا لوری سناؤں آجا
+جھولا جھلاؤں آجا لوری سناؤں آجا
 جھولا جھلاؤں لوری سناؤں تجھ کو مناؤں آجا
 آجا میرے دلبر میرے راج دلارے آجا
 
