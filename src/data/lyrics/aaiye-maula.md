@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -17,49 +18,56 @@ romanLyrics: |-
   Waasta hai shaam waali shaahzadi ka
   Aaiye maula aaiye maula
   
-  Aap ke hai saath hum ko karbala jaana
+  Aap ke haiṅ saath hum ko Karbala jaana
   Aaiye maula
   
   1
   Sunnat-e-Sajjad aur Zainab ada karte hue
-  Jayenge paidal Najaf se Karbala chalte hue
-  Bas yehi arman-e-dil hai har Husaini ka
+  Jayeṅge paidal Najaf se Karbala chalte hue
+  Bas yehi armaan-e-dil hai har Husaini ka
+  Aaiye maula
   
   2
-  Sar khule jisko phiraya shaam ke bazar mein
+  Sar khule jisko phiraya shaam ke baazaar mein
   Haye wo jisko bulaya berida darbar mein
-  Haan usi Zainab ka aa kar lijiye pursa
+  Haaṅ usi Zainab ka aa kar lijiye pursa
+  Aaiye maula
   
   3
-  Intezar ab bhi wo karti hai ke akbar aayenge
-  Aur mujhe bhi saath apne karbala le jayenge
+  Intezar ab bhi wo karti hai ke Akbar aayeṅge
+  Aur mujhe bhi saath apne Karbala le jayeṅge
   Khatm ho ab intezar-e-Fatema Sughra
+  Aaiye maula
   
   4
   Aap ko us chhe mahine ke sipahi ki qasam
-  Muskara kar jisne khaya halq par teer e sitam
+  Muskara kar jisne khaya halq par tir-e-sitam
   Chahiye phir din ko beshir ka sadqa
+  Aaiye maula
   
   5
   Aa bhi ja parda-e-ghaibat se zamane ke Imam
-  Tujhse mimbar pe tere jadd ki kahani sunlein
-  Hum azadaron ki bas aakhri hasrat hai yehi
-  Nauha zahra ka bas ek teri zabani sun lein
+  Tujhse mimbar pe tere jadd ki kahani sun leṅ
+  Hum azadaroṅ ki bas aakhri hasrat hai yehi
+  Nauha Zahra ka bas ek teri zabani sun leṅ
 
   6
-  Ghar jalaya dar giraya pasliyan zakhmi hui
-  Hogaye mohsin shaheed aur ghamzada bibi hui
+  Ghar jalaya dar giraya pasliyaṅ zakhmi huiṅ
+  Ho gaye Mohsin shahid aur ghamzada Bibi huiṅ
   Dushman-e-Zehra se aa kar lijiye badla
+  Aaiye maula
   
   7
   Aap ko us chaar saala sayyeda ka waasta
-  Jiske kaano se chine gauhar lahoo behta raha
-  Kam na hoga aap ke bin gham sakina ka
+  Jiske kaanoṅ se chhine gauhar lahu behta raha
+  Kam na hoga aap ke bin gham Sakina ka
+  Aaiye maula
 
   8
-  Aaj bhi hai qabre zahra dhoop mein tooti hui
-  Hai dua zeeshan o irfan e aza lab par yehi
-  Kijiye tameer aa kar rauza e zahra
+  Aaj bhi hai qabr-e-Zahra dhup mein tuti hui
+  Hai dua Zeeshan o Irfan-e-aza lab par yehi
+  Kijiye tamir aa kar rauza-e-Zahra
+  Aaiye maula
 # source_id: nohayonline:0154cc28f55932aff958
 # source_url: https://www.nohayonline.com/details_content.php?id=3196
 # raw_sha256: a0a24d1b0f5b95b50085abe758240fb2fde9a1df4b218bbc7920bc92dae4d507
@@ -70,48 +78,55 @@ romanLyrics: |-
 
 
 واسطہ ہے شام والی شاہزادی کا
-آیےء مولا آیےء مولا
+آئیے مولا آئیے مولا
 
-آپ کے‌ ہیں ساتھ ہم کو کربلا جانا
-آیےء مولا
+آپ کے ہیں ساتھ ہم کو کربلا جانا
+آئیے مولا
 
 ۱
 سنت سجاد اور زینب ادا کرتے ہوئے
-جایینگے پیدل نجف سے کربلا چلتے ہوئے
+جائیں گے پیدل نجف سے کربلا چلتے ہوئے
 بس یہی ارمان دل ہے ہر حسینی کا
+آئیے مولا
 
 ۲
 سر کھلے جس کو پھرایا شام کے بازار میں
-ہاے وہ جس کو بلایا بے ردا دربار میں
-ہاں اسی زینب کا آ کر لیجیۓ پرسہ
+ہائے وہ جس کو بلایا بے ردا دربار میں
+ہاں اسی زینب کا آ کر لیجیے پرسہ
+آئیے مولا
 
 ۳
-انتظار اب بھی وہ کرتی ہے کہ اکبر آیینگے
-اور مجھے بھی ساتھ اپنے کربلا لے جایینگے
+انتظار اب بھی وہ کرتی ہے کہ اکبر آئیں گے
+اور مجھے بھی ساتھ اپنے کربلا لے جائیں گے
 ختم ہو اب انتظار فاطمہ صغرا
+آئیے مولا
 
 ۴
 آپ کو اس چھ مہینے کے سپاہی کی قسم
 مسکرا کر جس نے کھایا حلق پر تیر ستم
-چاہیےء پھر دین کو بے شیر کا صدقہ
+چاہیے پھر دین کو بے شیر کا صدقہ
+آئیے مولا
 
 ۵
-آ بھی جا پردہء غیبت سے زمانے کے امام
-تجھ سے ممبر پہ تیر جد کی کہانی سن لیں
+آ بھی جا پردۂ غیبت سے زمانے کے امام
+تجھ سے منبر پہ تیرے جد کی کہانی سن لیں
 ہم عزاداروں کی بس آخری حسرت ہے یہی
 نوحہ زہرا کا بس تیری زبانی سن لیں
 
 ۶
-گھر جلایا در گرایا پسلیاں زخمی ہوی
-ہو گےء محسن شہید اور غمزدہ بی بی ہوی
-دشمن زہرا سے آ کر لیجیۓ بدلہ
+گھر جلایا در گرایا پسلیاں زخمی ہوئیں
+ہو گئے محسن شہید اور غمزدہ بی‌بی ہوئیں
+دشمن زہرا سے آ کر لیجیے بدلہ
+آئیے مولا
 
 ۷
 آپ کو اس چار سالہ سیدہ کا واسطہ
 جس کے کانوں سے چھنے گوہر لہو بہتا رہا
 کم نہ ہوگا آپ کے بن غم سکینہ کا
+آئیے مولا
 
 ۸
 آج بھی ہے قبر زہرا دھوپ میں ٹوٹی ہوئی
-ہے دعا زیشان و عرفان عزا لب پر یہی
-کیجیےُ تعمیر آ کر روضہء زہرا
+ہے دعا ذیشان و عرفان عزا لب پر یہی
+کیجیے تعمیر آ کر روضۂ زہرا
+آئیے مولا
