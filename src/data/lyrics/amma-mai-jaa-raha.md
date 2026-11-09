@@ -5,12 +5,13 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sajjad Zaidi"
 poet: "Gohar Jarchvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Amma mai jaa raha hoo deen e khuda bachane
+  Amma main ja raha huṅ deen-e-Khuda bachaane
   Phir aaun ya na aaun wapas khuda hi jaane
   
   1
@@ -19,7 +20,7 @@ romanLyrics: |-
   
   2
   Kehte hui ye sheh ki awaaz thar tharayi
-  De dunga raahe haq my abbas jaisa bhai
+  De duṅga raah-e-Haq mein Abbas jaisa bhai
   
   3
   Qasim ki laash ke bhi tukde uthaunga mai
@@ -62,7 +63,7 @@ romanLyrics: |-
 
 ۱
 اکبر مرا کرے گا نانا کی ترجمانی
-دے گا خدا کے دیں کو مقتل میں نوجوانی
+دے گا خدا کے دین کو مقتل میں نوجوانی
 
 ۲
 کہتے ہوئے یہ شہہ کی آواز تھرتھرائی
