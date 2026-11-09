@@ -9,40 +9,41 @@ poet: "Hilal Naqvi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Aaj bhi ye alam hamara hai
-  Har azadaar ka sahara hai
+  Har azadar ka sahara hai
 
   1
-  Ay azadaron khush naseeb hai hum
-  Hum ko shabbir ne pukara hai
+  Ae azadaroṅ khushnasib haiṅ hum
+  Hum ko Shabbir ne pukara hai
 
   2
-  Meri tareekh hai azadari
-  Meri majlis bhi ek idaara hai
+  Meri tarikh hai azadari
+  Meri majlis bhi ek idara hai
 
   3
-  Hai gawahi yehi juloos e aza
-  Kaun jeeta hai kaun haara hai
+  Hai gawahi yehi julus-e-aza
+  Kaun jita hai kaun hara hai
 
   4
-  Iska maqtal may faisla hoga
+  Is ka maqtal mein faisla hoga
   Hurr hamara hai ya tumhara hai
 
   5
-  Mukhtalif hai sabhi shaheed magar
-  Ek hi sab ka istikhaara hai
+  Mukhtalif haiṅ sabhi shahid magar
+  Ek hi sab ka istikhara hai
 
   6
-  Baade takbeer aur risalat ke
-  Meri pehechan ali ka naara hai
+  Baad-e-takbir aur risalat ke
+  Meri pehchan Ali ka nara hai
 
   7
-  Ay azadaar ye azakhane
-  Dekh jannat ka ye nazara hai
+  Ae azadar ye azakhane
+  Dekh Jannat ka ye nazara hai
 
   8
-  Hum hai sarwar hilal behre aza
+  Hum haiṅ Sarwar Hilal bahr-e-aza
   Ta qayamat yehi sahara hai
 # source_id: nohayonline:4c1121f408a9ff13e658
 # source_url: https://www.nohayonline.com/details_content.php?id=2607
@@ -52,7 +53,7 @@ romanLyrics: |-
 ہر عزادار کا سہارا ہے
 
 ۱
-اے عزاداروں خوش نصیب ہے ہم
+اے عزاداروں خوش نصیب ہیں ہم
 ہم کو شبیر نے پکارا ہے
 
 ۲
@@ -60,19 +61,19 @@ romanLyrics: |-
 میری مجلس بھی ایک ادارہ ہے
 
 ۳
-ہے گواہی یہی جلوس عزا
+ہے گواہی یہی جلوسِ عزا
 کون جیتا ہے کون ہارا ہے
 
 ۴
-اس کا مقتل میں فیصلہ ہو گا
+اس کا مقتل میں فیصلہ ہوگا
 حر ہمارا ہے یا تمہارا ہے
 
 ۵
-مختلف ہے سبھی شہید مگر
+مختلف ہیں سبھی شہید مگر
 ایک ہی سب کا استخارہ ہے
 
 ۶
-بعد تکبیر اور رسالت کے
+بعدِ تکبیر اور رسالت کے
 میری پہچان علی کا نعرہ ہے
 
 ۷
@@ -80,5 +81,5 @@ romanLyrics: |-
 دیکھ جنت کا یہ نظارہ ہے
 
 ۸
-ہم ہیں سرور ہلال بہر عزا
+ہم ہیں سرور ہلال بہرِ عزا
 تا قیامت یہی سہارا ہے

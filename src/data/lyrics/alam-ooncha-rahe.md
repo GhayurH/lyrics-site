@@ -9,86 +9,87 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Safdar Abbas"
 romanLyrics: |-
-  Hawaon may fazaon may sakina ki duaon may
-  Hai ghar ghar par alam tera alamdar e wafa ghazi
-  Alam ooncha rahe tera alamdar e wafa ghazi
-  Hai ye armaan zainab ka alamdar e wafa ghazi
+  Hawaoṅ mein fazaoṅ mein Sakina ki duaoṅ mein
+  Hai ghar ghar par alam tera Alamdar-e-Wafa Ghazi
+  Alam uncha rahe tera Alamdar-e-Wafa Ghazi
+  Hai ye arman Zainab ka Alamdar-e-Wafa Ghazi
 
   1
-  Kahe har matami tera alam jhukne nahi denge
-  Hawa ka zor ho jitna alam jhukne nahi denge
-  Kate baazu chide seena alamdar e wafa ghazi
+  Kahe har matami tera alam jhukne nahiṅ deṅge
+  Hawa ka zor ho jitna alam jhukne nahiṅ deṅge
+  Kate bazu chhide sina Alamdar-e-Wafa Ghazi
 
   2
-  Alam se jo hawa aaye shifa baante qaza taale
-  Pharera jab bhi lehraye muhibbon ki bala taale
-  Nahi koi tabeeb aisa alamdar e wafa ghazi
+  Alam se jo hawa aae shifa baṅte qaza tale
+  Pharera jab bhi lehrae muhibboṅ ki bala tale
+  Nahiṅ koi tabib aisa Alamdar-e-Wafa Ghazi
 
   3
-  Tera naukar mere ghazi kisi dar par nahi jhukta
-  Alam jo bhi uthaata hai to sar nahi uska jhukta
-  Julooson may yehi dekha alamdar e wafa ghazi
+  Tera naukar mere Ghazi kisi dar par nahiṅ jhukta
+  Alam jo bhi uthata hai to sar nahiṅ us ka jhukta
+  Julusoṅ mein yehi dekha Alamdar-e-Wafa Ghazi
 
   4
-  Hum arshi hai ya farshi hai yehi hum bhool jaate hai
-  Alam ke saaye may aa kar sabhi hum bhool jaate hai
-  Karam tera hai ye kaisa alamdar e wafa ghazi
+  Hum arshi haiṅ ya farshi haiṅ yehi hum bhul jaate haiṅ
+  Alam ke sae mein aa kar sabhi hum bhul jaate haiṅ
+  Karam tera hai ye kaisa Alamdar-e-Wafa Ghazi
 
   5
   Wafadari ka hai rishta taqaza hai mohabbat ka
-  Bhigo deta hai aankhon ko alam ke saath mashkeeza
-  Karoo ye dekh ke nauha alamdar e wafa ghazi
+  Bhigo deta hai aankhoṅ ko alam ke saath mashkiza
+  Karuṅ ye dekh ke noha Alamdar-e-Wafa Ghazi
 
   6
-  Bhara pani se mashkeeza udoo se cheen kar darya
-  Ye bola shimr lashkar se na dena sher ko rasta
-  Bada wo jaanib e qaima alamdar e wafa ghazi
+  Bhara pani se mashkiza adu se chhin kar darya
+  Ye bola Shimr lashkar se na dena sher ko rasta
+  Barha wo jaanib-e-khaima Alamdar-e-Wafa Ghazi
 
   7
-  Ghazab ke bain hai safdar likhe jo aaj mazhar ne
-  Alam jhukte huwe dekha kaha beti se sarwar ne
-  Ke darya par gaya maara alamdar e wafa ghazi
+  Ghazab ke bain haiṅ Safdar likhe jo aaj Mazhar ne
+  Alam jhukte hue dekha kaha beti se Sarwar ne
+  Ke darya par gaya mara Alamdar-e-Wafa Ghazi
 # source_id: nohayonline:fb4837219d1e7dcee8dd
 # source_url: https://www.nohayonline.com/details_content.php?id=1544
 # raw_sha256: 08dc80346e4f3cc878fa130fd36b69a3f99cf4dad71f268587d42846fec615e1
 ---
 ہواؤں میں فضاؤں میں سکینہ کی دعاؤں میں
-ہے گھر گھر پر الم تیرا علمدار وفا غازی
-الم اونچا رہے تیرا علمدار وفا غازی
-ہے یہ ارمان زینب کا علمدار وفا غازی
+ہے گھر گھر پر علم تیرا علمدارِ وفا غازی
+علم اونچا رہے تیرا علمدارِ وفا غازی
+ہے یہ ارمان زینب کا علمدارِ وفا غازی
 
 ۱
-کہے ہر ماتمی تیرا الم جھکنے نہیں دیں گے
-ہوا کا زور ہو جتنا الم جھکنے نہیں دیں گے
-کثے بازو چھدے سینہ علمدار وفا غازی
+کہے ہر ماتمی تیرا علم جھکنے نہیں دیں گے
+ہوا کا زور ہو جتنا علم جھکنے نہیں دیں گے
+کٹے بازو چھدے سینہ علمدارِ وفا غازی
 
 ۲
-الم سے جو ہوا آے شفا بانٹے قضا ٹالے
-پھریرا جب بھی لہراے محبوں کی بلا ٹالے
-نہیں کوئی طبیب ایسا علمدار وفا غازی
+علم سے جو ہوا آئے شفا بانٹے قضا ٹالے
+پھریرا جب بھی لہرائے محبوں کی بلا ٹالے
+نہیں کوئی طبیب ایسا علمدارِ وفا غازی
 
 ۳
 تیرا نوکر میرے غازی کسی در پر نہیں جھکتا
-الم جو بھی اٹھاتا ہے تو سر نہیں اس کا جھکتا
-جلوسوں میں یہی دیکھا علمدار وفا غازی
+علم جو بھی اٹھاتا ہے تو سر نہیں اس کا جھکتا
+جلوسوں میں یہی دیکھا علمدارِ وفا غازی
 
 ۴
-ہم عرشی ہیں یہ فرشی ہے یہی ہم بھول جاتے ہیں
-الم کے ساے میں آ کر سبھی ہم بھول جاتے ہیں
-کرم تیرا ہے یہ کیسا علمدار وفا غازی
+ہم عرشی ہیں یا فرشی ہیں یہی ہم بھول جاتے ہیں
+علم کے سائے میں آ کر سبھی ہم بھول جاتے ہیں
+کرم تیرا ہے یہ کیسا علمدارِ وفا غازی
 
 ۵
 وفاداری کا ہے رشتہ تقاضا ہے محبت کا
-بھگو دیتا ہے آنکھوں کو الم کے ساتھ مشکیزہ
-کروں یہ دیکھ کے نوحہ علمدار وفا غازی
+بھگو دیتا ہے آنکھوں کو علم کے ساتھ مشکیزہ
+کروں یہ دیکھ کے نوحہ علمدارِ وفا غازی
 
 ۶
 بھرا پانی سے مشکیزہ عدو سے چھین کر دریا
 یہ بولا شمر لشکر سے نہ دینا شیر کو رستہ
-بڑا وہ جانب خیمہ علمدار وفا غازی
+بڑھا وہ جانبِ خیمہ علمدارِ وفا غازی
 
 ۷
 غضب کے بین ہیں صفدر لکھے جو آج مظہر نے
-الم جھکتے ہوے دیکھا کہا بیٹی سے سرور نے
-کہ دریا پر گیا مارا علمدار وفا غازی
+علم جھکتے ہوئے دیکھا کہا بیٹی سے سرور نے
+کہ دریا پر گیا مارا علمدارِ وفا غازی
