@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shadman Raza"
 poet: "Qamar Hasnain"
 tags: ["noImage"]
 aliases: []
@@ -31,7 +32,7 @@ romanLyrics: |-
   Nana se waada poora ho
 
   3
-  Sandook may rakkha tha maine
+  Sandook mein rakha tha maine
   Le aao wo kurta meri behen
   Jab laash ko meri loote to
   Reh jaaye badan par ek kafan
@@ -59,7 +60,7 @@ romanLyrics: |-
   Tum karbobala ka zikr karo
 
   7
-  Jaate hai namaze asar ko sheh
+  Jaate hain namaaz-e-asr ko Shah
   Lab tishna hai aur tan zakhmi
   Kehte hai qamar maula in se
   Reh jaaye namaze shab na kabhi
@@ -75,7 +76,7 @@ romanLyrics: |-
 بہن کے بازو کو
 
 ۱
-زینب رکھنا یہ دھیان زرا
+زینب رکھنا یہ دھیان ذرا
 شبیر نہ تنہا رہ جاے
 بچوں کو فدا تم کر دینا
 بھای پہ مصیبت جب آے
@@ -85,7 +86,7 @@ romanLyrics: |-
 میں دیں کو بچاؤں گا زینب
 ہر دکھ میں اٹھاؤں گا زینب
 گردن کو کٹاؤں لیکن
-گردن نہ جھکآؤنگا زینب
+گردن نہ جھکاؤں گا زینب
 نانا سے وعدہ پورا ہو
 
 ۳
@@ -111,14 +112,14 @@ romanLyrics: |-
 
 ۶
 شبیر کا مقصد لے کے چلو
-حق بات درباروں میں
+حق بات کرو درباروں میں
 مجلس ہو بپا زندانوں میں
 ہو فرش عزا بازاروں میں
 تم کربوبلا کا ذکر کرو
 
 ۷
-جاتے ہیں نماز عصر کو شہ
+جاتے ہیں نمازِ عصر کو شہ
 لب تشنہ ہے اور تن زخمی
 کہتے ہیں قمر مولا ان سے
-رہ جاے نماز شب نہ کبھی
+رہ جاے نمازِ شب نہ کبھی
 بھای کو شبوں میں یاد رکھو

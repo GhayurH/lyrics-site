@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shadman Raza"
 poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
@@ -50,24 +51,27 @@ romanLyrics: |-
   Har imtehan mein beta mai tujhko hausla doongi
   Zakhmon pe tere ashkon ka marham bhi mai laga doongi
   In zaalimon ki nazaron se aaja tujhe bachaungi
+  Aaja meri godh mein aaja qurban ho ye maa
 
   8
   Ghode ke zeen se maula jis dam zameen par aaye
   Gham se kaleja thaam kar zehra pukaar uthi haye
   Phaila ke apne haathon ko jhoola bana liya haye
+  Aaja meri godh mein aaja qurban ho ye maa
 
   9
   Hai shadman ke lab par nauha janabe zehra ka
   Maqtal ne is riwayat ko kuch is tarha se likha tha
   Khud mazhar abidi jisko nauhe mein dhaal kar roya
+  Aaja meri godh mein aaja qurban ho ye maa
 # source_id: nohayonline:e61b596e6b9ebe2c32e8
 # source_url: https://www.nohayonline.com/details_content.php?id=3052
 # raw_sha256: b31ad03d302e8d0d0f6f35251449c321a85c4cae847922bc93b0162877f97fc4
 ---
 دیکھا جو دشتِ خونی میں زہرا کے چین نے
 فریاد اماں زہرا سے یوں کی حسین نے
-اکبر اصغر قاسم غازی سارے چلے گےء
-اماں کسے بلاے حسین
+اکبر اصغر قاسم غازی سارے چلے گئے
+اماں کسے بلائے حسین
 
 ۱
 مہماں بلا کے امت نے دل کا سکون لوٹا ہے
@@ -77,16 +81,16 @@ romanLyrics: |-
 ۲
 مانگا دعاؤں میں جس کو اس کو بھی کھو چکا ہوں میں
 کڑیل جواں کے لاشے پر مقتل میں رو چکا ہوں میں
-بینای کھو چکا ہوں میں برباد ہو چکا ہوں میں
+بینائی کھو چکا ہوں میں برباد ہو چکا ہوں میں
 
 ۳
 خیمے میں جھولا روتا ہے روتا ہے قلب مادر کا
-تڑپ ہے میرے ہاتھوں پر ننھا سا لاشہ اصغر کا
+تڑپا ہے میرے ہاتھوں پر ننھا سا لاشہ اصغر کا
 یہ آخری سپاہی تھا اے اماں میرے لشکر کا
 
 ۴
 پیاسوں کی پیاس پر اماں قربان ہوگیا غازی
-ایک مشق پر فدا ہو کر بے جان ہو گیا غازی
+ایک مشک پر فدا ہو کر بے جان ہو گیا غازی
 اماں وفا کی دنیا کا قرآن ہو گیا غازی
 
 ۵
@@ -95,7 +99,7 @@ romanLyrics: |-
 دیکھو حسین کی غربت سب زخم دل کے روتے ہیں
 
 ۶
-بیٹے کی گفتگو سن کر روی رسول کی بیٹی
+بیٹے کی گفتگو سن کر روئی رسول کی بیٹی
 جلتی زمیں پہ بیٹھ کر بولی رسول کی بیٹی
 میں تیرے ساتھ ہوں بیٹا یعنی رسول کی بیٹی
 آجا میری گود میں آجا قربان ہو یہ ماں
@@ -104,13 +108,16 @@ romanLyrics: |-
 ہر امتحان میں بیٹا میں تجھکو حوصلہ دونگی
 زخموں پہ تیرے اشکوں کا مرحم لگا دونگی
 ان ظالموں کی نظروں سے آجا تجھے بچاؤں گی
+آجا میری گود میں آجا قربان ہو یہ ماں
 
 ۸
-گھوڑے کے زین سے مولا جس دم زمیں پر آل
+گھوڑے کی زین سے مولا جس دم زمیں پر آئے
 غم سے کلیجہ تھام کر زہرا پکار اٹھی ہاے
-پھیلا کے اپنے ہاتھوں کو جھولا بنا لیا ہاے
+پھیلا کے اپنے ہاتھوں کو جھولا بنا لیا ہائے
+آجا میری گود میں آجا قربان ہو یہ ماں
 
 ۹
 ہے شادماں کے لب پر نوحہ جنابِ زہرا کا
 مقتل نے اس روایت کو کچھ اس طرح لکھا تھا
 خود مظہر عابدی جس کو نوحے میں ڈھال کر رویا
+آجا میری گود میں آجا قربان ہو یہ ماں

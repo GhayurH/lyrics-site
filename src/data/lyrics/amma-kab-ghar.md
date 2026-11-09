@@ -5,16 +5,17 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shareef Hussain"
 poet: "Anwar Zahir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Amma kab ghar jayenge
-  Qaid may kya mar jayenge
+  Qaid mein kya mar jayeṅge
 
   1
-  Subho parinde jaate hai
+  Subh ko parinde jaate hain
   Sham ko wapas aate hai
   Kya hum bhi ghar jayenge
 
@@ -55,19 +56,19 @@ romanLyrics: |-
 قید میں کیا مر جائیں گے
 
 ۱
-صبح و پرندے جاتے ہیں
+صبح کو پرندے جاتے ہیں
 شام کو واپس آتے ہیں
 کیا ہم بھی گھر جائیں گے
 
 ۲
 باپ کا سر بے پیروں میں
 بھائی ہے زنجیروں میں
-کیسے لیکر جائیں گے
+کیسے لے کر جائیں گے
 
 ۳
 خواب میں بابا آئے تھے
 مجھ سے لپٹ کر کہتے تھے
-خلد میں لیکر جائیں گے
+خلد میں لے کر جائیں گے
 
 ۴
 موت کا سر پر ہے سایہ
@@ -76,8 +77,8 @@ romanLyrics: |-
 
 ۵
 میں نہیں ہر گز مانوں گی
-بس اک شرط پہ جائوں گی
-عموں لیکر جائیں گے
+بس اک شرط پہ جاؤں گی
+عمو لے کر جائیں گے
 
 ۶
 شاہ کا لاشہ میداں میں

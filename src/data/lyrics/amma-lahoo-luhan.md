@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ali Mohd. Sultanpuri"
 poet: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
@@ -15,7 +16,7 @@ romanLyrics: |-
   Nana ki qabr se huwe rukhsat shaahe huda
   Bhai ki qabr pe padha bhai ne marsiya
   Wan se hua jo turbate zahra ka saamna
-  Maa ki lehad pe chal ke gaye ghutniyo hussain
+  Maa ki lehad pe chal ke gaye ghutnoṅ Husain
   Lipte hai maa ki qabr se karte huwe ye bain
   Amma haye amma amma haye amma
   Amma lahoo luhaan chaman dekhne chalo
@@ -63,7 +64,9 @@ romanLyrics: |-
   Zainab ko mere baad satayenge ashqiya
   Chadar bhi cheen lenge rulayenge ashqiya
   Zaalim nabi ki aal ko dar dar phirayenge
-  Paidal chala ke shaam talak le ke jayenge
+  Paidal chala ke Shaam talak le ke jayeṅge
+  Amma lahu luhaan chaman dekhne chalo
+  Zainab ke baazuoṅ mein rasan dekhne chalo
 # source_id: nohayonline:ea0eba4d429df33a3394
 # source_url: https://www.nohayonline.com/details_content.php?id=2845
 # raw_sha256: d16b231776e852faf26923483bbe993dcbb6b25b31898880c9aa7cfd96038d12
@@ -73,7 +76,7 @@ romanLyrics: |-
 نانا کی قبر سے ہوئے رخصت شہ ہدا
 بھائی کی قبر پہ پڑھا بھائی نے مرثیہ
 واں سے ہوا جو تربت زہرا کا سامنا
-ماں کی لحد پہ چل کے گئے گھنٹیوں حسین
+ماں کی لحد پہ چل کے گئے گھٹنوں حسین
 لپٹے ہیں ماں کی قبر سے کرتے ہوئے یہ بین
 اماں ہائے اماں اماں ہائے اماں
 اماں لہو لہان چمن دیکھنے چلو
@@ -86,7 +89,7 @@ romanLyrics: |-
 
 ۲
 قاسم کو میرے ایسے کریں گے وہ پائمال
-ٹکڑوں میں لیکے آئےگا چادر میں تیرا لال
+ٹکڑوں میں لے کے آئے گا چادر میں تیرا لال
 اماں وہ لاشِ ابن حسن دیکھنے چلو
 
 ۳
@@ -119,6 +122,8 @@ romanLyrics: |-
 خیموں میں آکے آگ لگائیں گے اشقیا
 قیدی میری بہن کو بنائیں گے اشقیا
 زینب کو میرے بعد ستائیں گے اشقیا
-چادر بھی چھین لینگے رولائیں اشقیا
+چادر بھی چھین لیں گے رلائیں گے اشقیا
 ظالم نبی کی آل کو در در پھرائیں گے
 پیدل چلا کے شام تلک لے کے جائیں گے
+اماں لہو لہان چمن دیکھنے چلو
+زینب کے بازوؤں میں رسن دیکھنے چلو

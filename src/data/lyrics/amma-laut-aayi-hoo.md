@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -17,7 +18,7 @@ romanLyrics: |-
   Gulsitan tera phoolon se abaad tha
   Haye dashte sitam haye karbobala
   Loot kar legayi sab bhara ghar mera
-  Sab luta aayi teri kameini hoo mai
+  Sab luta aayi teri kamaai huṅ main
 
   2
   Qasimo akbaro asghare dilruba
@@ -29,9 +30,9 @@ romanLyrics: |-
   3
   Choomti thi bade pyar se jo gala
   Dasthe ghurbat mein tan se hua wo juda
-  Ek khatra dame zibha mil na saka
+  Ek qatra dam-e-zabh mil na saka
   Laadla tera pyasa jahan se gaya
-  Khoon bhara payrahan saath laayi hoo mai
+  Khoon bhara pairahan saath laayi huṅ main
 
   4
   Baade shabbir itna bada hausla
@@ -61,7 +62,7 @@ romanLyrics: |-
 داغ دل پہ بہتر کے لائی ہوں میں
 
 ۱
-جب گئے تھے یہا ں سے تو گھر تھا بھرا
+جب گئے تھے یہاں سے تو گھر تھا بھرا
 گُلستان تیرا پھولوں سے آباد تھا
 ہائے دشتِ ستم ہائے کرب و بلا
 لُوٹ کر لے گئے سب بھرا گھر میرا
@@ -79,11 +80,11 @@ romanLyrics: |-
 دشتِ غربت میں تن سے ہوا وہ جُدا
 اک قطرہ دمِ ذبح مل نہ سکا
 لاڈلا تیرا پیاسا جہاں سے گیا
-خون بھرا پیر ہن ساتھ لائی ہوں میں
+خون بھرا پیرہن ساتھ لائی ہوں میں
 
 ۴
 بعدِ شبیر اتنا بڑا حوصلہ
-چھین کر لے گئے چادریں اشقیائ
+چھین کر لے گئے چادریں اشقیا
 خیمئہِ اہل پر تھے رسول خدا
 آگ لگتی گئی خاک ہوتا گیا
 جلتے خیموں سے عابد کو لائی ہوں میں
@@ -91,13 +92,13 @@ romanLyrics: |-
 ۵
 جا بجا پا برہنہ یونہی سر کُھلے
 شام و کوفہ کی گلیوں میں کھینچے گئے
-کیاکہوں والیئِ شام کے سامنے
+کیا کہوں والیئِ شام کے سامنے
 ہاتھ تھے رسیوں میں ہمارے بندھے
 نیل بازو کے دکھلانے آئی ہوں میں
 
 ۶
 وہ دلاری سکینہ بھتیجی میری
-کھا رہی تھی تماچے میں چُپ تھی کھڑی
+کھا رہی تھی طمانچے میں چُپ تھی کھڑی
 ہائے رے بے بسی ہائے بیچارگی
 وہ ستم جھیلتے جھیلتے مر گئی
 شام کی قید میں چھوڑ آئی ہوں میں
