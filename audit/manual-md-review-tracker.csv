@@ -1238,7 +1238,7 @@ src/data/lyrics/bain-karti-thi-ye.md,standalone_lyrics,imported,unclassified,pen
 src/data/lyrics/bain-tha-sakina-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bain-thay-ye-bano-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bain-ul-haramain-sajjad-ashraf-taqvi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bain-ul-harmain-1-2.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename cleanup only: omitted date and/or artist and lyrics tags. Original lyric text and status unchanged. Original recitationId retained. Earlier: 
+src/data/lyrics/bain-ul-harmain.md,standalone_lyrics,imported,tajpoints,merged,pending,pending,partial_review,await_source_classification,partial_review,2026-11-09-tajpoints-continuations,this_commit,Merged 2 Tajpoints parts; manually verified sequence and stanza grouping; Urdu and transliteration remain pending
 src/data/lyrics/bain-ye-zainab-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/baitha-hai-mushkilaat.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bakhi-jo-rafiqe-shahe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1276,7 +1276,7 @@ src/data/lyrics/basta-ba-zanjeer.md,standalone_lyrics,imported,unclassified,pend
 src/data/lyrics/batayegi-fatema.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/batees-baras-ka-saath.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/batees-baras-waar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/batil-ko-taraj-karain-gaye-1-4.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/batil-ko-taraj-karain-gaye.md,standalone_lyrics,imported,tajpoints,merged,pending,pending,reviewed,await_source_classification,partial_review,2026-11-09-tajpoints-continuations,this_commit,Merged 2 Tajpoints parts; manually verified sequence and stanza grouping; Urdu and transliteration remain pending
 src/data/lyrics/batlaiye-ye-kaisi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/batlao-mar-gayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bawafa-bawafa.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -1924,7 +1924,7 @@ src/data/lyrics/hussain-banke-zamane.md,standalone_lyrics,imported,unclassified,
 src/data/lyrics/hussain-bas-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hussain-bole-sakina-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hussain-farz-ada.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/hussain-ghaiz-mein-hai-1-6-mir-hasan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/hussain-ghaiz-mein-hai.md,standalone_lyrics,imported,tajpoints,merged,pending,pending,reviewed,await_source_classification,partial_review,2026-11-09-tajpoints-continuations,this_commit,Merged 3 Tajpoints parts; manually verified sequence and stanza grouping; Urdu and transliteration remain pending
 src/data/lyrics/hussain-ghode-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hussain-girta-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hussain-godh-may.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2776,7 +2776,7 @@ src/data/lyrics/mohamed-ke-alamdar.md,standalone_lyrics,imported,unclassified,pe
 src/data/lyrics/moharam-ka-chand.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/moharram-na-bhoolna.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/mohsin-ne-kaha-rokar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/mola-mehdi-aa-jaiye-1-4.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/mola-mehdi-aa-jaiye.md,standalone_lyrics,imported,tajpoints,merged,pending,pending,reviewed,await_source_classification,partial_review,2026-11-09-tajpoints-continuations,this_commit,Merged 2 Tajpoints parts; manually verified sequence and stanza grouping; Urdu and transliteration remain pending
 src/data/lyrics/mola-mola-bol-musalaman-mola-mola-bol-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/momino-hydere-karar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/momino-hydere.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
@@ -2912,7 +2912,7 @@ src/data/lyrics/paband-agar-ghazi.md,standalone_lyrics,imported,unclassified,pen
 src/data/lyrics/pabasta-e-zanjeer.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/pahunche-khareeb.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/paikaan-baras-rahe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/pakeezgi-e-nafs-ka-unwaan-hai-fatima-1-4.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/pakeezgi-e-nafs-ka-unwaan-hai-fatima.md,standalone_lyrics,imported,tajpoints,merged,pending,pending,reviewed,await_source_classification,partial_review,2026-11-09-tajpoints-continuations,this_commit,Merged 2 Tajpoints parts; manually verified sequence and stanza grouping; Urdu and transliteration remain pending
 src/data/lyrics/palaan-ki-hay-baat-ye-mimbar-ki-baat-hay.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/pamaal-hoke-hazrate.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/pamaal-laasha-dekh.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
