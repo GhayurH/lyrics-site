@@ -9,78 +9,79 @@ poet: "Rasheed Shaheedi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Abid e bemaar
-  
+  Abid-e-Bimar
+
   1
-  Karb mein doobe zakhmi wo manzar
-  Zulm hazaron ek dil e muztar
-  Tha yehi nauha tere labon par
-  As-shaam as-shaam as-shaam
-  Shehr tamasha haye wo bazaar
-  
+  Karb mein dube zakhmi wo manzar
+  Zulm hazaroṅ ek dil-e-muztar
+  Tha yehi noha tere laboṅ par
+  Al-Shaam Al-Shaam Al-Shaam
+  Shehr tamasha haye wo bazar
+
   2
-  Kaisa sitam ye tujhpe hua hai
-  Kaisi aseeri kaisi jafa hai
-  Tauq mein jakda tera gala hai
-  As-shaam as-shaam as-shaam
-  Zainabe kubra teri madadgaar
-  
+  Kaisa sitam ye tujh pe hua hai
+  Kaisi asiri kaisi jafa hai
+  Tauq mein jakra tera gala hai
+  Al-Shaam Al-Shaam Al-Shaam
+  Zainab-e-Kubra teri madadgar
+
   3
-  Raahon mein kaante paaon mein chaale
-  Maaon se bichde godh ke paale
+  Rahoṅ mein kante paaoṅ mein chhale
+  Maaoṅ se bichhre god ke pale
   Kaun kise ab kaise sambhale
-  As-shaam as-shaam as-shaam
-  Zulm musalsil manzil e dushwaar
-  
+  Al-Shaam Al-Shaam Al-Shaam
+  Zulm musalsal manzil-e-dushwar
+
   4
-  Pyaas ki shiddat karbe yateemi
+  Pyas ki shiddat karb-e-yatimi
   Nanhi si gardan aur wo rassi
-  Kaisi thi ghurbat choti behen ki
-  As-shaam as-shaam as-shaam
-  Tere jigar par chalti talwaar
-  
+  Kaisi thi ghurbat chhoti behan ki
+  Al-Shaam Al-Shaam Al-Shaam
+  Tere jigar par chalti talwar
+
   5
-  Khaak mein ghaltan khoon mein doobe
-  Ek rasan mein baara galay thay
-  Unko sitamgar khaynch rahe thay
-  As-shaam as-shaam as-shaam
-  Koi nahi tha unka madadgaar
-  
+  Khaak mein ghaltan khuṅ mein dube
+  Ek rasan mein barah gale the
+  Un ko sitamgar khinch rahe the
+  Al-Shaam Al-Shaam Al-Shaam
+  Koi nahiṅ tha un ka madadgar
+
   6
-  Girya kuna thi aale payambar
-  Baazu mein rassi aur thi khule sar
-  Kursi nasheen thay saare sitamgar
-  As-shaam as-shaam as-shaam
-  Waye musibat shaam ka darbar
-  
+  Giriya kunaṅ thi Aal-e-Payambar
+  Bazu mein rassi aur the khule sar
+  Kursi nasheen the saare sitamgar
+  Al-Shaam Al-Shaam Al-Shaam
+  Wae musibat Shaam ka darbar
+
   7
   Shaam ka zindan aur wo andhera
-  Kehti thi roke pyasi sakina
-  Aaiye baba aaiye baba
-  As-shaam as-shaam as-shaam
-  Maa hai pareshan bhai hai bemaar
-  
+  Kehti thi ro ke pyasi Sakina
+  Aaiye Baba aaiye Baba
+  Al-Shaam Al-Shaam Al-Shaam
+  Maaṅ hai pareshan bhai hai bimar
+
   8
-  Rote hai baqar lab pe hai nauha
-  Kehte hai ro kar mai hua tanha
-  Zehre sitam se mar gaye baba
-  As-shaam as-shaam as-shaam
-  Mar gaya pyason ka ghamkhwar
-  
+  Rote haiṅ Baqir lab pe hai noha
+  Kehte haiṅ ro kar main hua tanha
+  Zehr-e-sitam se mar gaye Baba
+  Al-Shaam Al-Shaam Al-Shaam
+  Mar gaya pyasoṅ ka ghamkhwar
+
   9
-  Hota hai veeran shehre madina
-  Aaj hai khamosh deen ka maseeha
-  Goonj raha hai uska ye nauha
-  As-shaam as-shaam as-shaam
-  Hogaya ruqsat sheh ka azadaar
-  
+  Hota hai viran Shehr-e-Madina
+  Aaj hai khamosh Din ka Masiha
+  Guṅj raha hai us ka ye noha
+  Al-Shaam Al-Shaam Al-Shaam
+  Ho gaya rukhsat Sheh ka azadar
+
   10
-  Kitne masayeb likhe rasheed ab
-  Toot raha hai hausla ya rab
-  Roti hai aankhein kaampte hai lab
-  As-shaam as-shaam as-shaam
-  Bas yehi awaaz aati hai har baar
+  Kitne masaib likhe Rasheed ab
+  Tut raha hai hausla Ya Rab
+  Roti haiṅ aankheṅ kaṅpte haiṅ lab
+  Al-Shaam Al-Shaam Al-Shaam
+  Bas yehi awaz aati hai har baar
 # source_id: nohayonline:6bae8f187e3772ba1c4a
 # source_url: https://www.nohayonline.com/details_content.php?id=3530
 # raw_sha256: 199b1d46df318bf4f70e384fdc0039e5b297715a27bd3a326b78061e6b03727d
@@ -119,28 +120,28 @@ romanLyrics: |-
 ۵
 خاک میں غلطاں خوں میں ڈوبے
 ایک رسن میں بارہ گلے تھے
-ان‌ کو ستمگر کھینچ رہے تھے
+ان کو ستمگر کھینچ رہے تھے
 الشام الشام الشام
-کوی نہیں تھا ان کا مددگار
+کوئی نہیں تھا ان کا مددگار
 
 ۶
 گریہ کناں تھی آل پیمبر
 بازو میں رسی اور تھی کھلے سر
 کرسی نشیں تھے سارے ستمگر
 الشام الشام الشام
-واے مصیبت شام کا دربار
+وائے مصیبت شام کا دربار
 
 ۷
 شام کا زنداں اور وہ اندھیرا
 کہتی تھی رو کے پیاسی سکینہ
-آییےء بابا آییےء بابا
+آئیے بابا آئیے بابا
 الشام الشام الشام
-ماں ہے پریشاں بھای ہے بیمار
+ماں ہے پریشاں بھائی ہے بیمار
 
 ۸
 روتے ہیں باقر لب پہ ہے نوحہ
 کہتے ہیں رو کر میں ہوا تنہا
-زہر ستم سے مر گےء بابا
+زہر ستم سے مر گئے بابا
 الشام الشام الشام
 مر گیا پیاسوں کا غم خوار
 
@@ -152,7 +153,7 @@ romanLyrics: |-
 ہو گیا رخصت شہ کا عزادار
 
 ۱۰
-کتنے مصایب لکھے رشید اب
+کتنے مصائب لکھے رشید اب
 ٹوٹ رہا ہے حوصلہ یا رب
 روتی ہے آنکھیں کانپتے ہیں لب
 الشام الشام الشام

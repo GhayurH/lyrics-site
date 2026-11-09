@@ -1,5 +1,5 @@
 ---
-title: "مومنوں یہ ہے جنازہ عابد بیمار کا"
+title: "مومنوں یہ ہے جنازہ عابدِ بیمار کا"
 alternateTitle: "Abide Bemaar Ka"
 language: "Urdu"
 lang: "ur"
@@ -9,38 +9,39 @@ poet: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Mukhtar Hussain"
 romanLyrics: |-
-  Momino ye hai janaza abid e beemar ka
-  Jo kabhi bhoola na manzar shaam ke bazaar ka
+  Momino ye hai janaza Abid-e-Bimar ka
+  Jo kabhi bhula na manzar Shaam ke bazar ka
 
   1
-  Dhoop thi aur pyaas thi aur taziyana tha ghiza
-  Khoon bhi jaari jism se tha shaah ke dildaar ka
+  Dhup thi aur pyas thi aur taziyana tha ghiza
+  Khuṅ bhi jaari jism se tha Shah ke dildar ka
 
   2
-  Di sada zainab ne baba ko layeeno ne ke jab
-  Pusht se khayncha gaya tha bistar abid e beemar ka
+  Di sada Zainab ne Baba lo lainoṅ ne ke jab
+  Pusht se khincha gaya tha bistar Abid-e-Bimar ka
 
   3
-  Maa phupi bhene khadi thi be-rida bazaar mein
-  Tha ajab ye imtihan us khaafila saalaar ka
+  Maaṅ phuphi behneṅ khari thiṅ berida bazar mein
+  Tha ajab ye imtihan us qafila-salar ka
 
   4
-  Bar sare mehfil taaruf bibiyon ka jab hua
-  Sharm se sar jhuk gaya us bekas o lachaar ka
+  Barsar-e-mehfil taaruf Bibiyoṅ ka jab hua
+  Sharm se sar jhuk gaya us bekas o lachar ka
 
   5
-  Kuch nahi parwa sataaish ki ba-roz e hashr hi
-  Denge maula khud sila mujhko mere ashaar ka
+  Kuchh nahiṅ parwa sataish ki baroz-e-hashr hi
+  Deṅge Maula khud sila mujh ko mere ashar ka
 
   6
-  Ab dua ye hai shajeeha ki imam e asr se
-  Silsila jaari rahe afkaar ke izhaar ka
+  Ab dua ye hai Shajiha ki Imam-e-Asr se
+  Silsila jaari rahe afkar ke izhar ka
 # source_id: nohayonline:b6928817608f9def5066
 # source_url: https://www.nohayonline.com/details_content.php?id=1417
 # raw_sha256: f01b91bdac5015da0113cc41548c4337159b3a7d96b0ca31de19064e75681849
 ---
-مومنوں یہ ہے جنازہ عابد بیمار کا
+مومنوں یہ ہے جنازہ عابدِ بیمار کا
 جو کبھی بھولا نہ منظر شام کے بازار کا
 
 ۱
@@ -52,16 +53,16 @@ romanLyrics: |-
 پشت سے کھینچا گیا تھا بستر عابد بیمار کا
 
 ۳
-ماں پھپھی بہنیں کھڑی تھی بے ردا بازار میں
+ماں پھپھی بہنیں کھڑی تھیں بے ردا بازار میں
 تھا عجب یہ امتحاں اس قافلہ سالار کا
 
 ۴
-بر سرِ محفل تعرف بی بیوں کا جب ہوا
+بر سرِ محفل تعارف بی بیوں کا جب ہوا
 شرم سے سر جھک گیا اس بیکس و لاچار کا
 
 ۵
 کچھ نہیں پرواہ ستایش کی بہ روز حشر ہی
-دینگے مولا خود صلہ مجھکو میرے اشعار کا
+دیں گے مولا خود صلہ مجھ کو میرے اشعار کا
 
 ۶
 اب دعا یہ ہے شجیہا کی امام عصر سے

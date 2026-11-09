@@ -9,72 +9,45 @@ poet: "Rasheed Shaheedi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Abid utha rahein hein apni bahan ka laasha
-
+reciter: "Hasan Abbas Ahsan"
+romanLyrics: |-
+  Abid utha rahe haiṅ apni behan ka lasha
+  Zindan-e-Shaam mein ab ek hashr sa hai barpa
 
   1
-
-  Zindaan-e-Shaam mein ab ek hashr sa hai barpa
-
-  1. Godi hai jiski sooni ujra suhaag jiska
-
-  Karbal mein so raha hai jis Maa ka jhoole wala
-
-  Uss Maa ke dil ko kaese dega koee dilasa
-
+  Godi hai jis ki suni ujra suhag jis ka
+  Karbal mein so raha hai jis maaṅ ka jhule wala
+  Us maaṅ ke dil ko kaise dega koi dilasa
 
   2
-
-  2. Abbas ki bhateeji paiham tamachey khaake
-
-  Aaee thi Karbala se zulm-o-sitam uthaake
-
-  Khamosh hogaee kuen rudaad-e-gham sunaake
-
+  Abbas ki bhatiji paiham tamache kha ke
+  Aai thi Karbala se zulm o sitam utha ke
+  Khamosh ho gayi kiun rudade gham suna ke
 
   3
-
-  3. Baba ko yaad karke roney bhi wo na paaee
-
-  Seena kahan se milta soney bhi wo na paaee
-
-  Zakhmon ko ansooyon ko dhoney bhi wo na paaee
-
+  Baba ko yaad kar ke rone bhi wo na pai
+  Sina kahaṅ se milta sone bhi wo na pai
+  Zakhmoṅ ko aṅsuoṅ se dhone bhi wo na pai
 
   4
-
-  4. Rukhsaar neelgoon hai kurta phata huwa hai
-
-  Kanon se khoon hai jaari zakhmon ka silsila hai
-
-  Har naaz uthane wala karbal mein so raha hai
-
+  Rukhsar nilguṅ hai kurta phata hua hai
+  Kanoṅ se khun hai jaari zakhmoṅ ka silsila hai
+  Har naaz uthane wala Karbal mein so raha hai
 
   5
-
-  Beemar e karbala par tooti nayi musibat
-
-  Hoti hai ab sakina ahle haram se ruqsat
-
-  Zindan mein ban rahi nanhi se ek turbat
-
+  Bimar-e-Karbala par tuti nai musibat
+  Hoti hai ab Sakina Ahl-e-Haram se rukhsat
+  Zindan mein ban rahi nanhi si ek turbat
 
   6
-
-  5. Beemar-e-Karbala per tooti naee musibat
-
-  Nanhi si laash per kya hasrat baras rahi hai
-
-  Hoti hai dafn beti Maa dekhti khari hai
-
+  Bimar-e-Karbala par tuti nai musibat
+  Nanhi si laash par kya hasrat baras rahi hai
+  Hoti hai dafn beti maaṅ dekhti khari hai
 
   7
-
-  6. Ek aakhri wasiyat Bhai se usne ki thi
-
-  Lekin wasiyat uski poori na hone paee
-
-  Zidaan hi mein Rasheed ab turbat baney gi uski'
+  Ek aakhri wasiyat bhai se us ne ki thi
+  Lekin wasiyat us ki puri na hone pai
+  Zindan hi mein Rasheed ab turbat banegi us ki
 # source_id: nohayonline:16381207398d65c08aec
 # source_url: https://www.nohayonline.com/details_content.php?id=678
 # raw_sha256: c614971aed870fad2454dd9231d5e128b21b31a67ea66dc0037b8531ebbe2da3
@@ -82,37 +55,43 @@ romanLyrics: 'Abid utha rahein hein apni bahan ka laasha
 # source_url: https://www.ziyaraat.net/api/noha/1104
 # raw_sha256: e54a63ccd2619cbd9be9cb25676ad80254a2aad47f9d8b55da60c4ac69ebfd9f
 # added_stanza_source: roman:kalam-nohayonline-16381207398d65c08aec
+# variant_note: Ziyaraat overlap preserved separately as stanza 6 pending recitation check
 ---
 
 عابد اٹھا رہے ہیں اپنی بہن کا لاشہ
+زندانِ شام میں اب اک حشر سا ہے برپا
 
 ۱
-زندان شام میں اب اک حشر سا ہے برپا
-گودی ہے جسکی سونی اجڑا سہاگ جسکا
-کربل میں سو رہا ہو جس ماں کا جھولے والا
-اس ماں کے دل کو کیسے دیگا کوئی دلاسہ
+گودی ہے جس کی سونی اجڑا سہاگ جس کا
+کربل میں سو رہا ہے جس ماں کا جھولے والا
+اس ماں کے دل کو کیسے دے گا کوئی دلاسہ
 
 ۲
 عباس کی بھتیجی پیہم طمانچے کھا کے
-آی تھی کربلا سے ظلم و ستم اٹھا کے
-خاموش ہوگیء کیوں روداد غم سنا کے
+آئی تھی کربلا سے ظلم و ستم اٹھا کے
+خاموش ہو گئی کیوں رودادِ غم سنا کے
 
 ۳
-بابا کو یاد کرکے رونے بھی وہ نہ پای
-سینہ کہاں سے ملتا سونے بھی وہ نہ پای
-زخموں سے آنسوؤں کو دھونے بھی وہ نہ پای
+بابا کو یاد کر کے رونے بھی وہ نہ پائی
+سینہ کہاں سے ملتا سونے بھی وہ نہ پائی
+زخموں کو آنسوؤں سے دھونے بھی وہ نہ پائی
 
 ۴
-رخسار نیل گوں ہے کرتہ پھٹا ہوا ہے
-کانوں سے خوں ہے جاری زخموں کا سلسلہ ہے
+رخسار نیل گوں ہے کرتا پھٹا ہوا ہے
+کانوں سے خون ہے جاری زخموں کا سلسلہ ہے
 ہر ناز اٹھانے والا کربل میں سو رہا ہے
 
 ۵
-بیمار کربلا پر ٹوٹی نیء مصیبت
-ہوتی ہے اب سکینہ أہل حرم سے رخصت
-زنداں میں بن رہی ہے ننھی سی ایک تربت
+بیمارِ کربلا پر ٹوٹی نئی مصیبت
+ہوتی ہے اب سکینہ اہلِ حرم سے رخصت
+زنداں میں بن رہی ننھی سی ایک تربت
 
 ۶
+بیمارِ کربلا پر ٹوٹی نئی مصیبت
+ننھی سی لاش پر کیا حسرت برس رہی ہے
+ہوتی ہے دفن بیٹی ماں دیکھتی کھڑی ہے
+
+۷
 اک آخری وصیت بھائی سے اس نے کی تھی
-لیکن وصیت اسکی پوری نہ ہونے پای
-زنداں میں ہی رشید اب تربت بنے گی اسکی
+لیکن وصیت اس کی پوری نہ ہونے پائی
+زنداں ہی میں رشید اب تربت بنے گی اس کی

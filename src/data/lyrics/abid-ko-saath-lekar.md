@@ -1,5 +1,5 @@
 ---
-title: "عابد کو ساتھ لے کر زینب مدینے آی"
+title: "عابد کو ساتھ لے کر زینب مدینے آئی"
 alternateTitle: "Abid Ko Saath Lekar"
 language: "Urdu"
 lang: "ur"
@@ -9,47 +9,48 @@ poet: "Sajid Razvi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Abid ko saath lekar zainab madine aayi
-  Utho rasool dekho hamraah kya kya laayi
+  Abid ko saath le kar Zainab Madine aai
+  Utho Rasul dekho hamrah kya kya lai
 
   1
-  Karbobala ke manzar dekhi jo binte hyder
-  Roti thi yaad kar ke jab hogayi rehaai
+  Karbobala ke manzar dekhi jo Bint-e-Haider
+  Roti thi yaad kar ke jab ho gayi rehai
 
   2
-  Kaise uthaya shah ne kadiyal jawan ka laasha
-  Sarwar ke dil se poocho farzand ki judaai
+  Kaise uthaya Shah ne kariyal jawan ka lasha
+  Sarwar ke dil se puchho farzand ki judai
 
   3
-  Shabbir ke galay par jab chal raha tha khanjar
-  Aankhon mein hai wo manzar zainab jo dekh aayi
+  Shabbir ke gale par jab chal raha tha khanjar
+  Aankhoṅ mein hai wo manzar Zainab jo dekh aai
 
   4
-  Sar par na thi ridayein baazu bande huwe thay
-  Aulaad fatema ki bazaar ho ke aayi
+  Sar par na thi ridaeṅ bazu bandhe hue the
+  Aulad-e-Fatima ki bazar ho ke aai
 
   5
-  Darbaar ka tha manzar tashte tila mein wo sar
-  Har har qadam pa nana abid ko maut aayi
+  Darbar ka tha manzar tasht-e-tala mein wo sar
+  Har har qadam pe Nana Abid ko maut aai
 
   6
-  Karbal se shaam tak bhi pyasi rahi sakina
-  Ghut ghut ke aakhir usko zindan mein maut aayi
+  Karbal se Shaam tak bhi pyasi rahi Sakina
+  Ghut ghut ke aakhir us ko zindan mein maut aai
 
   7
-  Pehre thay aansoun par kya saktiyan thi sajid
-  Baba ko yaad kar ke bacchi na rone paayi
+  Pehre the aṅsuoṅ par kya sakhtiyaṅ thiṅ Sajid
+  Baba ko yaad kar ke bachchi na rone pai
 # source_id: nohayonline:0b340d72c29dd8435250
 # source_url: https://www.nohayonline.com/details_content.php?id=2875
 # raw_sha256: 00c867c5f0564e56b72020729367caf561266785be957f535aff30ed02e0da44
 ---
-عابد کو ساتھ لے کر زینب مدینے آی
-اٹھو رسول دیکھو ہمراہ کیا کیا لای
+عابد کو ساتھ لے کر زینب مدینے آئی
+اٹھو رسول دیکھو ہمراہ کیا کیا لائی
 
 ۱
 کربوبلا کے منظر دیکھی جو بنت حیدر
-روتی تھی یاد کر کے جب ہو گیء رہائی
+روتی تھی یاد کر کے جب ہو گئی رہائی
 
 ۲
 کیسے اٹھایا شاہ نے کڑیل جواں کا لاشہ
@@ -57,20 +58,20 @@ romanLyrics: |-
 
 ۳
 شبیر کے گلے پر جب چل رہا تھا خنجر
-آنکھوں میں ہے وہ منظر زینب جو دیکھ آی
+آنکھوں میں ہے وہ منظر زینب جو دیکھ آئی
 
 ۴
-سر پر نہ تھی رداییں بازو بندھے ہوئے تھے
-اولاد فاطمہ کی بازار ہو کے آی
+سر پر نہ تھیں ردائیں بازو بندھے ہوئے تھے
+اولاد فاطمہ کی بازار ہو کے آئی
 
 ۵
 دربار کا تھا منظر طشت طلا میں وہ سر
-ہر ہر قدم پہ نانا عابد کو موت آی
+ہر ہر قدم پہ نانا عابد کو موت آئی
 
 ۶
 کربل سے شام تک بھی پیاسی رہی سکینہ
-گھٹ گھٹ کے آخر اس کو زنداں میں موت آی
+گھٹ گھٹ کے آخر اس کو زنداں میں موت آئی
 
 ۷
-پہرے تھے آنسوؤں پر کیا سختیاں تھی ساجد
-بابا کو یاد کر کے بچی نہ رونے پای
+پہرے تھے آنسوؤں پر کیا سختیاں تھیں ساجد
+بابا کو یاد کر کے بچی نہ رونے پائی
