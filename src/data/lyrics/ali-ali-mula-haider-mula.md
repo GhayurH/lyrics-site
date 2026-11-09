@@ -1,50 +1,132 @@
 ---
-title: "Ali Ali Mula Haider Mula"
-language: "Roman Urdu"
+title: "علی علی حیدر مولا"
+alternateTitle: "Ali Ali Mula Haider Mula"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
+tags: ["noImage"]
 aliases: []
 published: false
 # source_id: tajpoints:695d24bf0e017a908b3b
 # source_url: https://tajpoints.com/2018/03/ali-ali-mula-haider-mula.html
 # raw_sha256: 7efbc2da1875f9a0a8051c70a831f1e29af9f71d33c3f38e20340864bc66400c
+romanLyrics: |-
+  Ali Ali Haider Maula
+  
+  1
+  Sadiyoṅ ke intezar ka kaisa sila diya
+  Dono jahaṅ ka sar meri janib jhuka diya
+  Terah Rajab Ali se ye bola Khuda ka ghar
+  Qibla mujhe to aap ne Kaba bana diya
+  
+  2
+  Aaye Ali Khana-e-Kaba ye pukara
+  Mil ke lagao sabhi Haideri nara
+  
+  3
+  Dekhne manzar ye Nabi aur Wali aaye haiṅ
+  Ghar hai ye Allah ka aur us mein Ali aaye haiṅ
+  
+  4
+  Kaisa hasiṅ aaj hai Kabe ka nazara
+  Kis ko mila wasf ye dunya mein dobara
+  
+  5
+  Zeb-e-Musalla the Nabi karte the Haq se dua
+  Kaun kufv-e-Fatima Zehra hai Khudaya bata
+  
+  6
+  Kaisa diya Khaliq-e-Akbar ne ishara
+  Aaya dar-e-Haider-e-Safdar pe sitara
+  
+  7
+  Ratoṅ ko Ali jage to Khaliq ne ye socha
+  Farsh-e-Shab-e-Hijrat ko sajana hi parega
+  Khatre mein na par jae mera wasf-e-Khudayi
+  Ik shab ke liye is ko sulana hi parega
+  
+  8
+  Waqia ye bhi Shab-e-Hijrat ke sabab ho gaya
+  Wasf-e-Khudayi ko bachana tha Ali so gaya
+  Bistar-e-Ahmad ke qarib pahuncha bechara
+  Lashkar-e-Kuffar ka sardar pukara
+  
+  9
+  Jis pe mere Maula ne ik ghaiz mein dali nazar
+  Uthta nahiṅ dunya se utha jata hai wo Ahl-e-Shar
+  Bugz-e-Ali deta hai bande ko khasara
+  Ishq-e-Ali ne hi muqaddar ko saṅwara
+  
+  10
+  Le ke Muhammad se alam jate rahe surma
+  Guzre kayi roz magar fatah na Khaibar hua
+  Mil gaya mushkil mein Muhammad ko sahara
+  Nad-e-Ali parh ke Muhammad ne pukara
+  
+  11
+  Mazhar o Farhan ka ailan zamana sune
+  Haider-e-Karrar ki midhat mein tarana sune
+  Kehta hai har aan ye iman hamara
+  Tujh sa banaya hi nahiṅ Rab ne dobara
 ---
 
-1
-Ali Ali Mula Haider Mula
-Sadiyon Ke Intezar Ka Kaisa Sila Diya
-Dono Jahan Ka Sar Meri Janib Jhuka Diya
-Terah Rajab Ali Se Yeh Bola Khuda Ka Ghar
-Qibla Mujhe Tu Aap Ne Kaba Bana Diya
-Aaye Ali Khan-e-Kaba Yeh Pukara
-Mill Ke Lagao Sabhi Haidery Narah
-Dekhne Manzar Yeh Nabi Our Wali Aaye Hain
-Ghar Hai Yeh ALLAH Ka Our Oss Mein Ali Aaye Hain
-Kaisa Haseen Aaj Hai Kabe Ka Nazara
-Kis Ko Mila Wasf Yeh Dunya Mein Dobara
-Zaib-e-Musalla The Nabi Karte The Haq Se Dua
-Koan Kuff-e-Fatima Zahra Hai Khudaya Bata
-Kaisa Diya Khaliq-e-Akbar Ne Ishara
-Aaya Dar-e-Haider-e-Safdar Pe Sitara
-Raton Ko Ali Jage Tu Khaliq Ne Yeh Socha
-Farsh-e-Shab-e-Hijrat Ko Sajana Hi Pare Ga
-Khatre Mein Na Par Jaye Mera Wasf-e-Khudai
-Ik Shab Ke Liye Iss Ko Solana Hi Pare Ga
-Waqiya Yeh Bhi Shab-e-Hijrat Ke Sabab Ho Giya
-Wasf-e-Khudai Ko Bachana Tha Ali SO Giya
-Bistar-e-Ahmad Ke Qareeb Pohancha Be-Chara
-Lashkar-e-Kuffar Ka Sardar Pukara
-Jiss Pe Mere Mula Ne Ik Ghaiz Mein Dali Nazar
-Uthta Nahi Dunya Se Utha Jata Hai Woh Ahl-e-Shar
-Bugz-e-Ali Deta Hai Bande Ko Khisara
-Ishq-e-Ali Ne Hi Muqadar Ko Sanwara
-Le Ke Muhammad Se Alam Jate Rahe Soorma
-Guzre Kayi Rooz Magar Fatah Na Khaiber Howa
-Mill Giya Mushkil Mein Muhammad Ko Sahara
-Nad-e-Ali Parh Ke Muhammad Ne Pukara
-:MAZHAR-O-FARHAN: Ka Elan Zamana Sune
-Haider-e-Karrar Ki Midhat Mein Tarana Sune
-Kehta Hai Har Aan Yeh Eman Hamara
-Tujh Sa Banaya Hi Nahi Rab Ne Dobara
+علی علی حیدر مولا
+
+۱
+صدیوں کے انتظار کا کیسا صلہ دیا
+دونوں جہاں کا سر میری جانب جھکا دیا
+تیرہ رجب علی سے یہ بولا خدا کا گھر
+قبلہ مجھے تو آپ نے کعبہ بنا دیا
+
+۲
+آئے علی خانۂ کعبہ یہ پکارا
+مل کے لگاؤ سبھی حیدری نعرہ
+
+۳
+دیکھنے منظر یہ نبی اور ولی آئے ہیں
+گھر ہے یہ اللہ کا اور اس میں علی آئے ہیں
+
+۴
+کیسا حسیں آج ہے کعبے کا نظارہ
+کس کو ملا وصف یہ دنیا میں دوبارہ
+
+۵
+زیبِ مصلیٰ تھے نبی کرتے تھے حق سے دعا
+کون کفوِ فاطمہ زہرا ہے خدایا بتا
+
+۶
+کیسا دیا خالقِ اکبر نے اشارہ
+آیا درِ حیدرِ صفدر پہ ستارہ
+
+۷
+راتوں کو علی جاگے تو خالق نے یہ سوچا
+فرشِ شبِ ہجرت کو سجانا ہی پڑے گا
+خطرے میں نہ پڑ جائے میرا وصفِ خدائی
+اک شب کے لیے اس کو سلانا ہی پڑے گا
+
+۸
+واقعہ یہ بھی شبِ ہجرت کے سبب ہو گیا
+وصفِ خدائی کو بچانا تھا علی سو گیا
+بسترِ احمد کے قریب پہنچا بیچارہ
+لشکرِ کفار کا سردار پکارا
+
+۹
+جس پہ میرے مولا نے اک غیظ میں ڈالی نظر
+اٹھتا نہیں دنیا سے اٹھا جاتا ہے وہ اہلِ شر
+بغضِ علی دیتا ہے بندے کو خسارہ
+عشقِ علی نے ہی مقدر کو سنوارا
+
+۱۰
+لے کے محمد سے علم جاتے رہے سورما
+گزرے کئی روز مگر فتح نہ خیبر ہوا
+مل گیا مشکل میں محمد کو سہارا
+نادِ علی پڑھ کے محمد نے پکارا
+
+۱۱
+مظہر و فرحان کا اعلان زمانہ سنے
+حیدرِ کرار کی مدحت میں ترانہ سنے
+کہتا ہے ہر آن یہ ایمان ہمارا
+تجھ سا بنایا ہی نہیں رب نے دوبارہ
