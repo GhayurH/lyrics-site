@@ -1,5 +1,5 @@
 ---
-title: "اماں نصار اُٹھو بابا کی جان سکینہ"
+title: "اماں نثار اُٹھو بابا کی جان سکینہ"
 alternateTitle: "Amma Nisar Utho"
 language: "Urdu"
 lang: "ur"
@@ -22,7 +22,7 @@ romanLyrics: |-
   Laaya hai shimr shayad lo baaliyan sakina
 
   3
-  Ay shaah ke fidaayi kaisi ye neendh aayi
+  Ae Shah ke fidaayi kaisi ye neendh aayi
   De paasban na aakar phir ghurkiyan sakina
 
   4
@@ -40,7 +40,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1779
 # raw_sha256: 1f3fa70056ac21fdcfc34f2bccc4a008a2ac9f98ce55b240c135ffd64361dd8a
 ---
-اماں نصار اُٹھو بابا کی جان سکینہ
+اماں نثار اُٹھو بابا کی جان سکینہ
 گردن سے کھولتی ہے ماں ریسماں سکینہ
 
 ۱
@@ -48,7 +48,7 @@ romanLyrics: |-
 زندان سے جا رہی سُوئے جناں سکینہ
 
 ۲
-بی بی اب اُٹھ کے بیٹھو اماں نصار دیکھو
+بی بی اب اُٹھ کے بیٹھو اماں نثار دیکھو
 لایا ہے شمر شاید لو بالیاں سکینہ
 
 ۳

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ali Zia Rizvi"
 poet: "Anees Pehersari"
 tags: ["noImage"]
 aliases: []
@@ -15,7 +16,7 @@ romanLyrics: |-
 
   1
   Batlade koi itna kis ja hai mere ammu
-  Mai jaake mana loongi koi mujhe samjhaye
+  Main ja ke mana luṅgi koi mujhe samjhaye
 
   2
   Akbar hai na qasim hai na aun o mohamed bhi
@@ -52,16 +53,16 @@ romanLyrics: |-
 گھر لوٹ کے میداں سے اب تک تو نہیں آئے
 
 ۳
-شاید کے بہل جاتا دل جھولاجھولانے سے
-ننھا سا میرا بھائی اصغر بھی چھٹاہائے
+شاید کہ بہل جاتا دل جھولا جھلانے سے
+ننھا سا میرا بھائی اصغر بھی چھٹا ہائے
 
 ۴
 آواز تو دو بابا ہیں حد نظر لاشے
-اب ڈھونڈنےکوئی بھی جائے تو کہاں جائے
+اب ڈھونڈنے کوئی بھی جائے تو کہاں جائے
 
 ۵
 کانوں سے میرے چھینے جو شمر ستمگر نے
-بابا جوگوہر مجھ کو تھے آپ نے پہنائے
+بابا جو گوہر مجھ کو تھے آپ نے پہنائے
 
 ۶
 نالوں سے سکینہ کے منہ کو جگر آیا

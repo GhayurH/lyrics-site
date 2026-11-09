@@ -5,13 +5,14 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Hadi Ali Khan Muslim"
 poet: "Zaki Bilgrami"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Marqad pe maa ki zainab faryaad kar rahi hai
-  Amma teri kameini jangal mein lutgayi hai
+  Amma teri kamaai jangal mein lut gayi hai
   Ummat ne mustafa ki loota hai chain tera
   Maara gaya hai pyasa amma hussain tera
   Dil baith sa gaya hai aankhon mein teeragi hai
@@ -88,19 +89,19 @@ romanLyrics: |-
 ۵
 عابد کی پُشت پر ہیں دُرّوں کے نیل اب بھی
 اماں رُلا گئی ہے مظلوم کی اسیری
-چلے ہیں دشت و پا میں بیمار پر غشی ہے
+چھالے ہیں دست و پا میں بیمار پر غشی ہے
 
 ۶
-مارے گےء ہیں پیاسے اماں میرے پسر بھی
+مارے گئے ہیں پیاسے اماں میرے پسر بھی
 دست لعیں نے کردی آغوش میری سونی
-دنیا میری نظر میں تاریک ہو گیء ہے
+دنیا میری نظر میں تاریک ہو گئی ہے
 
 ۷
-زینب کو راس اماں کر بو بلا نہ آیا
+زینب کو راس اماں کرب و بلا نہ آیا
 چھینا ہے میرے سر سے دو بھائیوں کا سایہ
 اب تو دعائیں زینب مرنے کی مانگتی ہے
 
 ۸
-ان بازوئوں کے کچھ تو داغ ورسن دیکھانے
+ان بازوؤں کے کچھ تو داغِ رسن دکھانے
 آئی ہے تیری بیٹی رودادِ غم سُنانے
 کُرتا کہیں جلا ہے چادر کہیں جلی ہے
