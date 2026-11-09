@@ -9,57 +9,58 @@ poet: "Raza"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Shadman Raza"
 romanLyrics: |-
-  Akbar ne kaha zakhm kaleje ka chupa do
-  Amma meri jeeti ho to ek baar mila do
+  Akbar ne kaha zakhm kaleje ka chhupa do
+  Amma meri jiti ho to ek baar mila do
 
   1
   Amma ne ye farmaya tha ghar laut ke aana
-  Is chand si surat ko hamay phir se dikhana
-  Yan khaak basar unka pisar hogaya baba
-  Chehra to mera khoon mein tar hogaya baba
+  Is chaṅd si surat ko hameṅ phir se dikhana
+  Yaṅ khaak basar un ka pisar ho gaya Baba
+  Chehra to mera khun mein tar ho gaya Baba
 
   2
-  Behtar hai chupa de mere seene ke nishan ko
-  Halaan ke khabar mil gayi hogi meri maa ko
-  Kehna ke hai behaal ye bemaar tumhara
-  Karne ko chala aaya hai deedar tumhara
+  Behtar hai chhupa de mere sine ke nishan ko
+  Halanki ke khabar mil gayi hogi meri maaṅ ko
+  Kehna ke hai behaal ye bimar tumhara
+  Karne ko chala aaya hai didar tumhara
 
   3
-  Amma ne bade naazon se sadqa bhi utaara
-  Dulha ki tarha hamay naazon se sambhala
-  Akbar na koi tum pe musiabt khuda laaye
-  Ay laal tumhe ran se salamat khuda laaye
+  Amma ne bare nazoṅ se sadqa bhi utara
+  Dulha ki tarah hameṅ nazoṅ se sambhala
+  Akbar na koi tum pe musibat Khuda lae
+  Ae laal tumheṅ ran se salamat Khuda lae
 
   4
-  Baba ye mera khoon to kapdon se hata do
-  Acha to mujhe doosri poshak pinha do
-  Ghaltan mujhe dekhegi agar khoon ke wuzoo mein
-  Keh dengi mere doodh ki khusboo hai lahoo mein
+  Baba ye mera khun to kaproṅ se hata do
+  Achha to mujhe dusri poshak pehna do
+  Ghaltan mujhe dekhegi agar khun ke wuzu mein
+  Keh deṅgi mere dudh ki khushbu hai lahu mein
 
   5
-  Dam haathon mein de jaata hai jab godh ka paala
-  Phir zinda nahi rehti hai wo maa shahe waala
-  Ye baar garan ay mere maula nahi uth'ta
-  Maa'on se jawan bete ka sadma nahi uth'ta
+  Dam haathoṅ mein de jaata hai jab god ka pala
+  Phir zinda nahiṅ rehti hai wo maaṅ Shah-e-Wala
+  Ye bar-e-garaṅ Ae mere Maula nahiṅ uthta
+  Maoṅ se jawaṅ bete ka sadma nahiṅ uthta
 
   6
-  Ghar jaane ki haalat to nahi aisi hamari
-  Wo zakhm laga kaari ke dam lena hai bhaari
-  Sar ooncha kiya aap ka batlaunga baba
-  Amma ke qadam choomne ghar jaunga baba
+  Ghar jaane ki halat to nahiṅ aisi hamari
+  Wo zakhm laga kari ke dam lena hai bhari
+  Sar uncha kiya aap ka batlaunga Baba
+  Amma ke qadam chumne ghar jaunga Baba
 
   7
-  Kehna ke pisar aap ne shabbir pe waara
-  Maqbool kare aap ki qurbani ko zehra
-  Amma ho mubarak ye bada kaam hua hai
-  Zehra ki kaneezon mein tera naam hua hai
+  Kehna ke pisar aap ne Shabbir pe wara
+  Maqbul kare aap ki qurbani ko Zehra
+  Amma ho mubarak ye bara kaam hua hai
+  Zehra ki kanizoṅ mein tera naam hua hai
 
   8
-  Laila ke jawan laal ka ay shadman nauha
-  Ta'eed e hussaini se raza aap ne likha
-  Allah re majlis mein bada josh e fughan hai
-  Matlab ke yahan aur bhi ek marsiya khwan hai
+  Laila ke jawaṅ laal ka Ae Shadman noha
+  Taid-e-Husaini se Raza aap ne likha
+  Allah re majlis mein bara josh-e-fughaṅ hai
+  Matlab ke yahaṅ aur bhi ek marsiyakhwaṅ hai
 # source_id: nohayonline:8e53c0c712f36f2db687
 # source_url: https://www.nohayonline.com/details_content.php?id=3217
 # raw_sha256: ad2067384c1cdb0b921e04082be869442bf0057f1d17f2680a3be34436313468
@@ -75,15 +76,15 @@ romanLyrics: |-
 
 ۲
 بہتر ہے چھپا دے میرے سینے کے نشان کو
-حالانکہ کے خبر مل گیء ہو گی میری ماں کو
-کہنا کے ہے بے حال یہ بیمار تمہارا
+حالانکہ خبر مل گئی ہو گی میری ماں کو
+کہنا کہ ہے بے حال یہ بیمار تمہارا
 کرنے کو چلا آیا ہے دیدار تمہارا
 
 ۳
 اماں نے بڑے نازوں سے صدقہ بھی اتارا
 دولہا کی طرح ہمیں نازوں سے سنبھالا
-اکبر نہ کوئی تم پہ مصیبت خدا لاے
-اے لال تمہیں رن سے سلامت خدا لاے
+اکبر نہ کوئی تم پہ مصیبت خدا لائے
+اے لال تمہیں رن سے سلامت خدا لائے
 
 ۴
 بابا یہ میرا خون تو کپڑوں سے ہٹا دو
@@ -93,24 +94,24 @@ romanLyrics: |-
 
 ۵
 دم ہاتھوں میں دے جاتا ہے جب گود کا پالا
-پھر زندہ نہیں رہتی ہے وہ ماں شہ والا
-یہ بار گراں اے میرے مولا نہیں اٹھتا
+پھر زندہ نہیں رہتی ہے وہ ماں شہِ والا
+یہ بارِ گراں اے میرے مولا نہیں اٹھتا
 ماؤں سے جواں بیٹے کا صدمہ نہیں اٹھتا
 
 ۶
 گھر جانے کی حالت تو نہیں ایسی ہماری
-وہ زخم لگا کاری کے دم لینا ہے بھاری
+وہ زخم لگا کاری کہ دم لینا ہے بھاری
 سر اونچا کیا آپ کا بتلاؤں گا بابا
 اماں کے قدم چومنے گھر جاؤں گا بابا
 
 ۷
-کہنا کہ پسر آپ نے شبیر پہ وارا‌
+کہنا کہ پسر آپ نے شبیر پہ وارا
 مقبول کرے آپ کی قربانی کو زہرا
 اماں ہو مبارک یہ بڑا کام ہوا ہے
 زہرا کی کنیزوں میں تیرا نام ہوا ہے
 
 ۸
 لیلیٰ کے جواں لال کا اے شادماں نوحہ
-تاعید حسینی سے رضا آپ نے لکھا
-اللّٰہ رے مجلس میں بڑا جوش‌ فغاں ہے
-مطلب کے یہاں اور بھی ایک مرثیہ خواں ہے
+تائیدِ حسینی سے رضا آپ نے لکھا
+اللہ رے مجلس میں بڑا جوشِ فغاں ہے
+مطلب کہ یہاں اور بھی ایک مرثیہ خواں ہے

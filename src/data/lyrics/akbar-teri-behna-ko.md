@@ -9,49 +9,50 @@ poet: "Irfan Haider, Zeeshan Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Raza Abbas Zaidi"
 romanLyrics: |-
-  Akbar teri behna ko teri yaad sataati hai
-  Veeran haveli mein bemaar bulaati hai
+  Akbar teri behna ko teri yaad satati hai
+  Viran haveli mein bimar bulati hai
 
   1
-  Akbar tera waada tha mai lene ko aaunga
+  Akbar tera wada tha main lene ko aaunga
   Bin tere meri behna sehra na sajaunga
-  Kapde teri shadi ke hamsheer banaati hai
+  Kapre teri shadi ke hamshir banati hai
 
   2
-  Khat bheja na khud aaye kya baat hui bhaiya
-  Mai des mein tanha hoo pardes mein hai kunba
-  Din mujhko rulaate hai shab mujhko daraati hai
+  Khat bheja na khud aae kya baat hui bhaiya
+  Main des mein tanha huṅ pardes mein hai kunba
+  Din mujh ko rulate haiṅ shab mujh ko darati hai
 
   3
-  Ek baar jhulaaun mai jhoola ali asghar ka
-  Dekha hi nahi kab se chehra ali asghar ka
-  Roti hoo nazar meri jab jhoole pe jaati hai
+  Is baar jhulauṅ main jhula Ali Asghar ka
+  Dekha hi nahiṅ kab se chehra Ali Asghar ka
+  Roti huṅ nazar meri jab jhule pe jaati hai
 
   4
-  Bhaiya teri sughra ko dhaaras hai tere dam se
-  Itna to bata jao kyun door huwe hum se
-  Din beet gaye kitne ab jaan ye jaati hai
+  Bhaiya teri Sughra ko dharas hai tere dam se
+  Itna to bata jao Kiuṅ dur hue hum se
+  Din bit gaye kitne ab jaan ye jaati hai
 
   5
-  Zakhmi tha tera seena kal khwaab mein dekha tha
-  Kuch aag ke sholay thay jalta hua jhoola tha
-  Is khwaab ki sughra ko ta'beer rulaati hai
+  Zakhmi tha tera sina kal khwab mein dekha tha
+  Kuchh aag ke shole the jalta hua jhula tha
+  Is khwab ki Sughra ko tabir rulati hai
 
   6
-  Bemaar shifa paaye akbar jo mera aaye
-  Bin apne maseeha ke ghut ghut ke na mar jaye
-  Dhadkan tere aane ki bas aas bandhaati hai
+  Bimar shifa paae Akbar jo mera aae
+  Bin apne Masiha ke ghut ghut ke na mar jae
+  Dharkan tere aane ki bas aas bandhati hai
 
   7
-  Abbas chacha tum hi baba se kaho jaa kar
-  Akbar nahi aa sakte le jao tum hi aa kar
-  Dam ghut'ta hai akbar ki jab yaad sataati hai
+  Abbas Chacha tum hi Baba se kaho ja kar
+  Akbar nahiṅ aa sakte le jao tum hi aa kar
+  Dam ghutta hai Akbar ki jab yaad satati hai
 
   8
-  Zeeshan o raza ka bhi maqbool ho ye pursa
-  Zinda hai qayamat tak irfan ka ye nauha
-  Aawaz ye nasir ki har dil ko rulaati hai
+  Zeeshan o Raza ka bhi maqbul ho ye pursa
+  Zinda hai qayamat tak Irfan ka ye noha
+  Awaz ye Nasir ki har dil ko rulati hai
 # source_id: nohayonline:f8ee307ff0e9fb628924
 # source_url: https://www.nohayonline.com/details_content.php?id=1820
 # raw_sha256: b66db9051a83a0fc73bf9c333df44e03b51413fddea03796d0d6c58c8cc471df
@@ -60,24 +61,24 @@ romanLyrics: |-
 ویران حویلی میں بیمار بلاتی ہے
 
 ۱
-اکبر تیرے وعدہ تھا میں لینے کو آؤں گا
+اکبر تیرا وعدہ تھا میں لینے کو آؤں گا
 بن تیرے میری بہنا سہرا نہ سجاؤں گا
 کپڑے تیری شادی کے ہمشیر بناتی ہے
 
 ۲
-خط بھیجا نہ خود آے کیا بات ہوی بھیا
+خط بھیجا نہ خود آئے کیا بات ہوئی بھیا
 میں دیس میں تنہا ہوں پردیس میں ہے کنبہ
-دن مجھکو رلاتے ہیں شب مجھکو ڈراتی ہے
+دن مجھ کو رلاتے ہیں شب مجھ کو ڈراتی ہے
 
 ۳
-اس بار جھلاوں میں جھولا علی اصغر کا
+اس بار جھلاؤں میں جھولا علی اصغر کا
 دیکھا ہی نہیں کب سے چہرہ علی اصغر کا
 روتی ہوں نظر میری جب جھولے پہ جاتی ہے
 
 ۴
 بھیا تیری صغریٰ کو ڈھارس ہے تیرے دم سے
-اتنا تو بتا جاؤ کیوں دور ہوے ہم سے
-دن بیت گےء کتنے اب جان یہ جاتی ہے
+اتنا تو بتا جاؤ کیوں دور ہوئے ہم سے
+دن بیت گئے کتنے اب جان یہ جاتی ہے
 
 ۵
 زخمی تھا تیرا سینہ کل خواب میں دیکھا تھا
@@ -85,8 +86,8 @@ romanLyrics: |-
 اس خواب کی صغرا کو تعبیر رلاتی ہے
 
 ۶
-بیمار شفا پاے اکبر جو میرا آے
-بن اپنے مسیحا کے گھٹ گھٹ کے نہ مر جاۓ
+بیمار شفا پائے اکبر جو میرا آئے
+بن اپنے مسیحا کے گھٹ گھٹ کے نہ مر جائے
 دھڑکن تیرے آنے کی بس آس بندھاتی ہے
 
 ۷
@@ -95,6 +96,6 @@ romanLyrics: |-
 دم گھٹتا ہے اکبر کی جب یاد ستاتی ہے
 
 ۸
-زیشان و رضا کا بھی مقبول ہو یہ پرسہ
+ذیشان و رضا کا بھی مقبول ہو یہ پرسہ
 زندہ ہے قیامت تک عرفان کا یہ نوحہ
 آواز یہ ناصر کی ہر دل کو رلاتی ہے

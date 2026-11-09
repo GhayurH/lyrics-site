@@ -9,45 +9,46 @@ poet: "Ahmed Naved"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Sajid Jafri"
 romanLyrics: |-
-  Akbar ko sada deti thi maa sholon mein ghir kar
-  Kab aaoge akbar
-  Jaate hai mere sar se rida leke sitamgar
+  Akbar ko sada deti thi maaṅ sholoṅ mein ghir kar
+  Kab aaoge Akbar
+  Jaate haiṅ mere sar se rida le ke sitamgar
 
   1
-  Gharabayi hui phirti hai maa qaime ke andar
-  Be-maqna o chadar
-  Ab aag mein jalne ko hai gehwara e asghar
+  Ghabrai hui phirti hai maaṅ khaime ke andar
+  Bemaqna o chadar
+  Ab aag mein jalne ko hai gehwara-e-Asghar
 
   2
-  Har simt se sholon ne hamay ghayr liya hai
+  Har simt se sholoṅ ne hameṅ gher liya hai
   Aur tez hawa hai
-  Aajao ke jalne ko hai sajjad ka bistar
+  Aa jao ke jalne ko hai Sajjad ka bistar
 
   3
-  Zad par hai tamachon ki wo hai naizon ki zad par
-  Hai sholon ki zad par
-  Kaano se sakina ke khiche jaate hai gohar
+  Zad par hai tamachoṅ ki wo hai nezoṅ ki zad par
+  Hai sholoṅ ki zad par
+  Kanoṅ se Sakina ke khinche jaate haiṅ gohar
 
   4
-  Wo haal hai kis ko hai khabar kaun kahan hai
-  Har simt dhuaan hai
-  Sakte mein hai zainab bhi khadi qaime ke dar par
+  Wo haal hai kis ko hai khabar kaun kahaṅ hai
+  Har simt dhuaṅ hai
+  Sakte mein hai Zainab bhi khari khaime ke dar par
 
   5
-  Qaimon mein dhuwein ke siwa paati nahi kuch bhi
-  Milta nahi koi
-  Ek qaime se ek qaime mein jaati hoon khule sar
+  Khaimoṅ mein dhueṅ ke siwa paati nahiṅ kuchh bhi
+  Milta nahiṅ koi
+  Ek khaime se ek khaime mein jaati huṅ khule sar
 
   6
-  Beta mai sitamgaaron se sar kaise chupaun
-  Aakhir kahan jaaun
-  Andar hai lagi aag adoo qaimon ke baahar
+  Beta main sitamgaroṅ se sar kaise chhupauṅ
+  Aakhir kahaṅ jauṅ
+  Andar hai lagi aag adu khaimoṅ ke bahar
 
   7
-  Girti hai rahi khaak se uth'ti rahi laila
+  Girti rahi khaak se uthti rahi Laila
   Ek hashr tha barpa
-  Nauha tha naved uske labon par ye barabar
+  Noha tha Naved us ke laboṅ par ye barabar
 # source_id: nohayonline:cf0c3c055d19b9ccdc1a
 # source_url: https://www.nohayonline.com/details_content.php?id=3184
 # raw_sha256: 136a31880c8a3920bda07fb78e73875a03103df6e37e7902492e81bae1c02389
@@ -57,18 +58,18 @@ romanLyrics: |-
 جاتے ہیں میرے سر سے ردا لے کے ستمگر
 
 ۱
-گھبرای ہوی پھرتی ہے ماں خیمے کے اندر
-بے مقنہ و چادر
-اب آگ میں جلنے کو ہےگہوارہء اصغر
+گھبرائی ہوئی پھرتی ہے ماں خیمے کے اندر
+بے مقنع و چادر
+اب آگ میں جلنے کو ہے گہوارۂ اصغر
 
 ۲
 ہر سمت سے شعلوں نے ہمیں گھیر لیا ہے
 اور تیز ہوا ہے
-آجاؤ کے جلنے کو ہے سجاد کا بستر
+آ جاؤ کہ جلنے کو ہے سجاد کا بستر
 
 ۳
-ضد پر ہے طمانچوں کی وہ ہے نیزوں کی ضد پر
-ہے شعلوں کی ضد پر
+زد پر ہے طمانچوں کی وہ ہے نیزوں کی زد پر
+ہے شعلوں کی زد پر
 کانوں سے سکینہ کے کھنچے جاتے ہیں گوہر
 
 ۴
@@ -77,9 +78,9 @@ romanLyrics: |-
 سکتے میں ہے زینب بھی کھڑی خیمے کے در پر
 
 ۵
-خیموں میں دھویں کے سوا پاتی نہیں کچھ بھی
+خیموں میں دھوئیں کے سوا پاتی نہیں کچھ بھی
 ملتا نہیں کوئی
-ایک خیمے سے اک خیمے میں جاتی ہوں کھلے سر
+ایک خیمے سے ایک خیمے میں جاتی ہوں کھلے سر
 
 ۶
 بیٹا میں ستمگاروں سے سر کیسے چھپاؤں
@@ -87,6 +88,6 @@ romanLyrics: |-
 اندر ہے لگی آگ عدو خیموں کے باہر
 
 ۷
-گرتی ہے رہی خاک سے اٹھتی رہی لیلیٰ
+گرتی رہی خاک سے اٹھتی رہی لیلیٰ
 ایک حشر تھا برپا
 نوحہ تھا نوید اس کے لبوں پر یہ برابر

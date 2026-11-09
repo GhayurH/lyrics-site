@@ -9,45 +9,46 @@ poet: "Javaid Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Nasir Zaidi"
 romanLyrics: |-
-  Akbar e naujawan tujhko dhoondun kahan
-  Nauha laila ka tha akbar e naujawan
+  Akbar-e-naujawaṅ tujh ko dhundhuṅ kahaṅ
+  Noha Laila ka tha Akbar-e-naujawaṅ
 
   1
-  Tere barchi lagi maa ka dil chidh gaya
-  Ab jeeye kis tarha teri dukhiyari maa
+  Tere barchhi lagi maaṅ ka dil chhid gaya
+  Ab jie kis tarah teri dukhiyari maaṅ
 
   2
-  Roye ansar o ahle haram kehke ye
-  Aakhri hai ye aks e nabi ki azan
+  Roe ansar o Ahl-e-Haram keh ke ye
+  Aakhri hai ye aks-e-Nabi ki azaṅ
 
   3
-  Teri tarha lage har jawan ki sada
-  Dekhti hoo jahan tu dikhe hai wahan
+  Teri tarah lage har jawaṅ ki sada
+  Dekhti huṅ jahaṅ tu dikhe hai wahaṅ
 
   4
-  Khat mila aa ke le jao bemaar ko
-  Kyun ho naraaz sughra se ay bhai jaan
+  Khat mila aa ke le jao bimar ko
+  Kiun ho naraz Sughra se Ae bhai jaan
 
   5
-  Jab pisar ne bulaaya madad ke liye
-  Shaah karte thay girte sambhalte fughan
+  Jab pisar ne bulaya madad ke liye
+  Shah karte the girte sambhalte fughaṅ
 
   6
-  Sheh ne khaynchi sina kehke jab ya ali
-  Phasliyon se tha baahar dil e bekaraar
+  Sheh ne khinchi sinaṅ keh ke jab Ya Ali
+  Pasliyoṅ se tha bahar dil-e-beqarar
 
   7
-  Gaysuon waale tujh par phupi ho fida
-  Thi yun zainab bhi laashe pe nauha kuna
+  Gesuṅ wale tujh par phuphi ho fida
+  Thi yuṅ Zainab bhi lashe pe nohakunaṅ
 
   8
-  Ghash mein pyasi sakina ye kehti rahi
-  Mujhko dilwado bhaiya meri baaliyan
+  Ghash mein pyasi Sakina ye kehti rahi
+  Mujh ko dilwa do bhaiya meri baliyaṅ
 
   9
-  Jab ay mirza ye nasir ne nauha padha
-  Ashk aankhon mein thay lab pe tha ye bayan
+  Jab Ae Mirza ye Nasir ne noha parha
+  Ashk aankhoṅ mein the lab pe tha ye bayaṅ
 # source_id: nohayonline:990e51a0d2424424d7fc
 # source_url: https://www.nohayonline.com/details_content.php?id=1895
 # raw_sha256: 300e888461559209e1911a0dc6c3e13e3777abff6c9f6403361179e25216c649
@@ -55,16 +56,16 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/1293
 # raw_sha256: 1115188ad4a2c43c5b422ab14e585aae6adbd0f35b437d8da031b318b95ecff1
 ---
-اکبر نوجواں تجھکو ڈھونڈوں کہاں
-نوحہ لیلیٰ کا تھا اکبر نوجواں
+اکبرِ نوجواں تجھ کو ڈھونڈوں کہاں
+نوحہ لیلیٰ کا تھا اکبرِ نوجواں
 
 ۱
 تیرے برچھی لگی ماں کا دل چھد گیا
-اب جیےء طرح تیری دکھیاری ماں
+اب جیے کس طرح تیری دکھیاری ماں
 
 ۲
-روے انصار و اہلِ کہکے یہ
-آخری ہے یہ عکس نبی کی اذاں
+روئے انصار و اہلِ حرم کہہ کے یہ
+آخری ہے یہ عکسِ نبی کی اذاں
 
 ۳
 تیری طرح لگے ہر جواں کی صدا
@@ -72,15 +73,15 @@ romanLyrics: |-
 
 ۴
 خط ملا آ کے لے جاؤ بیمار کو
-کیوں ہو ناراض صغرا سے اے بھای جاں
+کیوں ہو ناراض صغرا سے اے بھائی جاں
 
 ۵
-جب پسر نے بلایا مدد کے لئے
+جب پسر نے بلایا مدد کے لیے
 شاہ کرتے تھے گرتے سنبھلتے فغاں
 
 ۶
-شہ نے کھینچی سناں کہکے جب یا علی
-پسلیاں سے تھا باہر دل بیقرار
+شہ نے کھینچی سناں کہہ کے جب یا علی
+پسلیوں سے تھا باہر دلِ بے قرار
 
 ۷
 گیسوؤں والے تجھ پر پھپھی ہو فدا
@@ -88,7 +89,7 @@ romanLyrics: |-
 
 ۸
 غش میں پیاسی سکینہ یہ کہتی رہی
-مجھکو دلوادو بھیا میری بالیاں
+مجھ کو دلوا دو بھیا میری بالیاں
 
 ۹
 جب اے مرزا یہ ناصر نے نوحہ پڑھا

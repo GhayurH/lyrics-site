@@ -9,98 +9,99 @@ poet: "Mir Takallum"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Shahid Baltistani"
 romanLyrics: |-
-  Fatema zahra
-  Haye haye zainab haye haye shaam
-  Shaam ko jaate huwe
-  Kehti thi saani e zahra
-  Al madad ya zehra
+  Fatima Zehra
+  Haye Haye Zainab Haye Haye Shaam
+  Shaam ko jaate hue
+  Kehti thi Sani-e-Zehra
+  Al madad Ya Zehra
 
   1
-  Sharm aati thi mujhe mai baap se na keh saki
-  Aap maa hai jaanti hai kaifiyat dil ki meri
-  Ho gayi binte ali na mehramon mein beparda
+  Sharm aati thi mujhe main baap se na keh saki
+  Aap maaṅ haiṅ jaanti haiṅ kaifiyat dil ki meri
+  Ho gayi Bint-e-Ali namehramoṅ mein beparda
 
   2
-  Bekasi dikhla rahi hai kya qayamat ka samaa
-  Mar na jaaye gham se maqtal mein kahin asghar ki maa
-  Kaise dekhegi bhala naize pe jism asghar ka
+  Bekasi dikhla rahi hai kya qayamat ka samaṅ
+  Mar na jae gham se maqtal mein kahiṅ Asghar ki maaṅ
+  Kaise dekhegi bhala neze pe jism Asghar ka
 
   3
-  Door na hone diya tha apni nazron se jise
-  Us jawan bete ko laila alwida kaise kahe
-  Laashe akbar saamne rone pe hai laga pehra
+  Dur na hone diya tha apni nazroṅ se jise
+  Us jawaṅ bete ko Laila alwida kaise kahe
+  Lash-e-Akbar samne rone pe hai laga pehra
 
   4
-  Hathkadi haathon mein hai aur bediyan hai paon mein
-  Ab kaha mohlat milegi baithne ki chhaon mein
-  Shaam tak sajjad ka kaanto se hai hai bhara rasta
+  Hathkari haathoṅ mein hai aur beriyaṅ haiṅ paaoṅ mein
+  Ab kahaṅ mohlat milegi baithne ki chhaoṅ mein
+  Shaam tak Sajjad ka kaṅtoṅ se hai bhara rasta
 
   5
-  Ladkhadate hai qadam aur aankh mein aansu bhare
-  Marhala dushwaar hoga ye ruqayya ke liye
-  Laasha e abbas se guzregi kaise beparda
+  Larkharate haiṅ qadam aur aankh mein aṅsu bhare
+  Marhala dushwar hoga ye Ruqayya ke liye
+  Lasha-e-Abbas se guzregi kaise beparda
 
   6
-  Dasht mein taqseem kaise hogaya wo mahjabeen
-  Sar kahin tukde kahin hai aur sehra hai kahin
-  Apne qasim ko bhala pehchane kis tarha farwa
+  Dasht mein taqsim kaise ho gaya wo mahjabiṅ
+  Sar kahiṅ tukre kahiṅ haiṅ aur sehra hai kahiṅ
+  Apne Qasim ko bhala pehchane kis tarah Farwa
 
   7
-  Berida binte ali hai bekafan ibne ali
-  Shaam jaaye ya sambhale laash ko shabbir ki
-  Kaampte honton pe ye fizza ke isteghasa tha
+  Berida Bint-e-Ali hai bekafan Ibn-e-Ali
+  Shaam jae ya sambhale laash ko Shabbir ki
+  Kaṅpte hontoṅ pe ye Fizza ke istighasa tha
 
   8
-  Dasht mein aun o mohamed ki takallum thi sada
-  Bhar na aaye maa ka dil laashe chupade ay hawa
-  Ruk na jaaye ye qadam hai sakht imtehan maa ka
+  Dasht mein Aun o Muhammad ki Takallum thi sada
+  Bhar na aae maaṅ ka dil lashe chhupa de Ae hawa
+  Ruk na jae ye qadam hai sakht imtihan maaṅ ka
 # source_id: nohayonline:ff20dc56c9c820022b6b
 # source_url: https://www.nohayonline.com/details_content.php?id=2545
 # raw_sha256: 43d6868513067b4459d5a3833ffd27ebe4723f410b8e539b64e343a4146b08d2
 ---
 فاطمہ زہرا
-ہاے ہاے زینب ہاے ہاے شام
-شام کو جاتے ہوے
-کہتی تھی ثانیء زہرا
+ہائے ہائے زینب ہائے ہائے شام
+شام کو جاتے ہوئے
+کہتی تھی ثانیِ زہرا
 المدد یا زہرا
 
 ۱
-شام آتی تھی مجھے میں باپ سے نہ کہہ سکی
-آپ ماں ہے جانتی ہے کیفیت دل کی میری
-ہو گیء بنت علی نا محرموں میں بے پردہ
+شرم آتی تھی مجھے میں باپ سے نہ کہہ سکی
+آپ ماں ہیں جانتی ہیں کیفیت دل کی میری
+ہو گئی بنتِ علی نامحرموں میں بے پردہ
 
 ۲
 بیکسی دکھلا رہی ہے کیا قیامت کا سماں
-مر نہ جاے غم سے مقتل میں کہیں اصغر کی ماں
+مر نہ جائے غم سے مقتل میں کہیں اصغر کی ماں
 کیسے دیکھے گی بھلا نیزے پہ جسم اصغر کا
 
 ۳
 دور نہ ہونے دیا تھا اپنی نظروں سے جسے
 اس جواں بیٹے کو لیلیٰ الوداع کیسے کہے
-لاش اکبر سامنے رونے پہ ہے لگا پہرہ
+لاشِ اکبر سامنے رونے پہ ہے لگا پہرہ
 
 ۴
-ہتھکڑی ہاتھوں میں ہے اور بیڑیاں ہے پاؤں میں
-اب کہاں مہلت ملے گی بیٹھنے کی چاہوں میں
+ہتھکڑی ہاتھوں میں ہے اور بیڑیاں ہیں پاؤں میں
+اب کہاں مہلت ملے گی بیٹھنے کی چھاؤں میں
 شام تک سجاد کا کانٹوں سے ہے بھرا رستہ
 
 ۵
-لڑکھڑاتے ہیں قدم اور آنکھ میں آنسوں بھرے
-مرحلہ دشوار ہو گا یہ رقیہ کے لئے
-لاشہء عباس سے گزرے گی کیسے بے پردہ
+لڑکھڑاتے ہیں قدم اور آنکھ میں آنسو بھرے
+مرحلہ دشوار ہوگا یہ رقیہ کے لیے
+لاشۂ عباس سے گزرے گی کیسے بے پردہ
 
 ۶
-دشت میں تقسیم کیسے ہو گیا وہ مہ جبین
-سر کہیں ٹکڑے کہیں ہے اور سہرا کہیں
-اپنے قاسم کو بھلا پہچان کس طرح فروہ
+دشت میں تقسیم کیسے ہو گیا وہ مہ جبیں
+سر کہیں ٹکڑے کہیں ہیں اور سہرا ہے کہیں
+اپنے قاسم کو بھلا پہچانے کس طرح فروہ
 
 ۷
-بے ردا بنت علی ہے بیکفن ابنِ علی
-شام جاے اے سنبھالے لاش کو شبیر کی
+بے ردا بنتِ علی ہے بے کفن ابنِ علی
+شام جائے یا سنبھالے لاش کو شبیر کی
 کانپتے ہونٹوں پہ یہ فضہ کے استغاثہ تھا
 
 ۸
 دشت میں عون و محمد کی تکلم تھی صدا
-بھر نہ آے ماں کا دل لاشے چھپا دے اے ہوا
-رک نہ جاے یہ قدم ہے سخت امتحان ماں کا
+بھر نہ آئے ماں کا دل لاشے چھپا دے اے ہوا
+رک نہ جائے یہ قدم ہے سخت امتحان ماں کا
