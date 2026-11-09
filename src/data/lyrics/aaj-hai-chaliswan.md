@@ -1,102 +1,121 @@
 ---
 title: "شام سے جب اہلِ بیت برسر عریان چلے"
-alternateTitle: "Aaj Hai Chaliswan"
+alternateTitle: "Aaj Hai Chaaliswaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Dabeer"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aaj Hai Chaliswan"]
 published: false
 romanLyrics: |-
-  Shaam se jab ahlebait barsare uryan chale
-  Yani suye Karbobala chaak gareban chale
-  Leke shaheedon ke sar besar o saaman chale
-  Karte huwe ye bayan ba dile naalan chale
-  Aaj hai chaliswan hazrate shabbir ka
-  Syed-e-Mazloom ka Zehra ke masoom ka
-  Aaj hai chaliswan
+  Shaam se jab Ahl-e-Bait bar-sar-e-uryaaṅ chale
+  Yaani su-e-Karbobala chaak girebaaṅ chale
+  Le ke shahidoṅ ke sar besar o saamaaṅ chale
+  Karte hue ye bayaaṅ baa-dil-e-naalaaṅ chale
+  Aaj hai chaaliswaaṅ Hazrat-e-Shabbir ka
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   1
-  Raah mein unse koi poochta gar aan kar
-  Kiske ho namoos tum kisko ho laqte jigar
-  Kisne loota hai tumhe kisne kiya bepadar
-  Kehte thay ahle haram ro ro ke ba chashme tar
-  Tujhse bayan kya kare hum apne ehwaal ko
-  Dafn karne hai chale fatema ke laal ko
+  Raah meiṅ un se koi puchhta gar aan kar
+  Kis ke ho naamus tum kis ke ho lakht-e-jigar
+  Kis ne luta hai tumheiṅ kis ne kiya bepadar
+  Kehte the Ahl-e-Haram ro ro ke ba-chashm-e-tar
+  Tujh se bayaaṅ kya kare hum apne ehwaal ko
+  Dafn karne haiṅ chale Fatima ke laal ko
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   2
-  Wo haram e mohtaram shaah ke ba sad buka
-  Manzilein tay karte haye pahunche thay jo karbala
-  Door se jab qatlgaah inko dikhayi diya
-  Ro ro ke kehne lage hazrate zainul liba
-  Oonton se utro tum ab karte huwe shor o shain
-  Ro ke chalo pyada paa yan se ba laash-e-Husain
+  Wo Haram-e-Mohtaram Shah ke ba-sad buka
+  Manzileiṅ tai karte haaye pahunche the jo Karbala
+  Dur se jab qatlgaah in ko dikhaayi diya
+  Ro ro ke kehne lage Hazrat-e-Zain-ul-Aba
+  Untoṅ se utro tum ab karte hue shor o shain
+  Ro ke chalo piyaada pa yaaṅ se ba-laash-e-Husain
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   3
-  Hazrate sajjad se sun ke haram ye kalaam
-  Peet'te rote huwe onton se utre tamaam
-  Sar ko lage peetne waarison ke leke naam
-  Aaye jo laashon ke paas haye wo nashaad kaam
-  Chadarein sar se utaar aansu bahane lage
-  Haathon se us ban ki khaak sar pe udhaane lage
+  Hazrat-e-Sajjad se sun ke Haram ye kalaam
+  Pit-te rote hue untoṅ se utre tamaam
+  Sar ko lage pitne waarisoṅ ke le ke naam
+  Aaye jo laashoṅ ke paas haaye wo naashaad kaam
+  Chaadareiṅ sar se utaar aansu bahane lage
+  Haathoṅ se us ban ki khaak sar pe urhaane lage
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   4
-  Hazrate zainul liba nauha ye jab pad chuke
-  Bibiyon se is tarha ro ro ke kehne lage
-  Pehle kaho kiski laash qabr mein abid rakhe
-  Bewa-e-Abbas yun boli main sadqe tere
-  Pehle mere waali ki laash ko uthwaiyo
-  Deke kafan qabr mein phir usay dafnaiyo
+  Hazrat-e-Zain-ul-Aba noha ye jab parh chuke
+  Bibiyoṅ se is tarah ro ro ke kehne lage
+  Pehle kaho kis ki laash qabr meiṅ Abid rakhe
+  Bewa-e-Abbas yuṅ boli maiṅ sadqe tere
+  Pehle mere waali ki laash ko uthwaaiyo
+  De ke kafan qabr meiṅ phir use dafnaaiyo
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   5
-  Al gharaz abbas ko jis ghadi madfoon kiya
-  Matam e abbas tab jinn o malak mein hua
-  Bewa e abbas tab royi wahan khoob sa
-  Ro ro ke abid ne tab apni chachi se kaha
-  Jinn o malak mein hui bas yehi guftaar hai
-  Khaak mein madfoon hua sheh ka alamdar hai
+  Algharaz Abbas ko jis ghari madfuṅ kiya
+  Maatam-e-Abbas tab jinn o malak meiṅ hua
+  Bewa-e-Abbas tab royi wahaaṅ khub sa
+  Ro ro ke Abid ne tab apni chachi se kaha
+  Jinn o malak meiṅ hui bas yehi guftaar hai
+  Khaak meiṅ madfuṅ hua Shah ka alamdaar hai
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   6
   Wo jo tha ibn-e-Hasan Qasim-e-aali nasab
-  Byaah ke din haye haye qatl hua tashnalab
-  Shadi ka joda jo tha mil gaya matti se sab
-  Uska hi chehlum hai aaj waye sitam hai ghazab
-  Hazrate sajjad ne sar ko badan se mila
-  De ke kafan qabr mein laash-e-Qasim rakha
+  Byaah ke din haaye haaye qatl hua tishna-lab
+  Shaadi ka jora jo tha mil gaya mitti se sab
+  Us ka hi chehlum hai aaj waaye sitam hai ghazab
+  Hazrat-e-Sajjad ne sar ko badan se mila
+  De ke kafan qabr meiṅ laasha-e-Qasim rakha
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   7
-  Kehti thi Akbar ki maa ae mere kadiyal jawan
-  Choot ke zindan se karne ko chaliswan
-  Khasta jigar aayi hai sehti hui sakhtiyan
-  Dekh to noore nazar kis tarha roti hai maa
-  Fateha dilwaungi ashkon ki barsaat mein
-  Zakhm hare ho gaye seena e sadaat mein
+  Kehti thi Akbar ki maaṅ ae mere karyal jawaaṅ
+  Chhut ke zindaaṅ se karne ko chaaliswaaṅ
+  Khasta jigar aayi hai sehti hui sakhtiyaaṅ
+  Dekh to nur-e-nazar kis tarah roti hai maaṅ
+  Faatiha dilwaauṅgi ashkoṅ ki barsaat meiṅ
+  Zakhm hare ho gaye sina-e-Saadaat meiṅ
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   8
-  Bachon se bichde huwe zainab e lachaar ko
-  Beet gaye kitne din muztar o ghamkhwar ko
-  Ab jo rehaai mili haye dilafgaar ko
-  Aun o Muhammad ke phir seena o ruqsaar ko
-  Pyar kiya aur ye kaha ae mere sheron suno
-  Karna hai chaliswan bibiyon matam karo
+  Bachchoṅ se bichhre hue Zainab-e-Laachaar ko
+  Bit gaye kitne din muztar o ghamkhwaar ko
+  Ab jo rehaayi mili haaye dilafgaar ko
+  Aun o Muhammad ke phir sina o rukhsaar ko
+  Pyaar kiya aur ye kaha ae mere sheroṅ suno
+  Karna hai chaaliswaaṅ Bibiyoṅ maatam karo
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 
   9
-  Boli rubab e hazeen laasha e baysheer par
-  Kiun na gire bijliyan maadar-e-dilgeer par
-  Khoon hai abhi tak laga zulm ke us teer par
-  Aaj wo din aagaya uff meri taqdeer par
-  Karti hun chaliswan nanhe se Quran ka
-  Sadqa main dila saki haye teri jaan ka
+  Boli Rubab-e-Haziṅ laasha-e-Beshir par
+  Kiuṅ na gire bijliyaaṅ maadar-e-dilgir par
+  Khuṅ hai abhi tak laga zulm ke us tir par
+  Aaj wo din aa gaya uff meri taqdir par
+  Karti huṅ chaaliswaaṅ nanhe se Quran ka
+  Sadqa maiṅ dila saki haaye teri jaan ka
+  Syed-e-Mazlum ka Zehra ke masum ka
+  Aaj hai chaaliswaaṅ
 # source_id: nohayonline:272e867ad13f759910de
 # source_url: https://www.nohayonline.com/details_content.php?id=2364
 # raw_sha256: 84d5c00fb1753ef27ff9d0b3096dd77a5bb4f176812674a365dd7d9d02e4c257
 ---
 شام سے جب اہلِ بیت برسر عریان چلے
-یعنی سوے کربوبلا چاک گریبان چلے
+یعنی سوئے کربوبلا چاک گریبان چلے
 لے کے شہیدوں کے سر بے سر و ساماں چلے
-کرتے ہوۓ یہ بیاں با دل نالاں چلے
+کرتے ہوئے یہ بیاں با دل نالاں چلے
 آج ہے چالیسواں حضرت شبیر کا
 سید مظلوم کا زہرا کے معصوم کا
 آج ہے چالیسواں
@@ -108,67 +127,85 @@ romanLyrics: |-
 کہتے تھے اہلِ حرم رو رو کے با چشم تر
 تجھ سے بیاں کیا کرے ہم اپنے احوال کو
 دفن کرنے ہیں چلے فاطمہ کے لال کو
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
 
 ۲
 وہ حرم محترم شاہ کے بصد بکا
-منزلیں طےء کرتے ہاے پہنچے تھے جو کربلا
-دور سے جب قتل گاہ ان کو دکھای دیا
+منزلیں طے کرتے ہائے پہنچے تھے جو کربلا
+دور سے جب قتل گاہ ان کو دکھائی دیا
 رو رو کے کہنے لگے حضرتِ زین العباء
-اونٹوں سے اترو تم اب کرتے ہوے شور و شین
+اونٹوں سے اترو تم اب کرتے ہوئے شور و شین
 رو کے چلو پیادہ پا یاں سے با لاش حسین
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
 
 ۳
 حضرتِ سجاد سے سن کے حرم یہ کلام
-پیٹتے روتے ہوے اونٹوں سے اترے تمام
-سر کو لگے پیٹنے وارثوں کے لیکے نام
-آے جو لاشوں کے پاس ہاے وہ ناشاد کام
-چادریں سر سے اتار آنسوں بہانے لگے
+پیٹتے روتے ہوئے اونٹوں سے اترے تمام
+سر کو لگے پیٹنے وارثوں کے لے کے نام
+آئے جو لاشوں کے پاس ہائے وہ ناشاد کام
+چادریں سر سے اتار آنسو بہانے لگے
 ہاتھوں سے بن کی خاک سر پہ اڑھانے لگے
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
 
 ۴
 حضرتِ زین العباء نوحہ یہ جب پڑھ چکے
-بی بیوں سے اس طرح رو رو کے کہنے لگے
+بی‌بیوں سے اس طرح رو رو کے کہنے لگے
 پہلے کہو کس کی لاش قبر میں عابد رکھے
-بیوہء عباس یوں بولی میں صدقے تیرے
-پہلے میرے والی کی لاش کو اٹھواییو
-دے کے کفن قبر میں پھر اسے دفناییو
+بیوۂ عباس یوں بولی میں صدقے تیرے
+پہلے میرے والی کی لاش کو اٹھوائیو
+دے کے کفن قبر میں پھر اسے دفنائیو
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
 
 ۵
 الغرض عباس کو جس گھڑی مدفوں کیا
 ماتم عباس تب جن و ملک میں ہوا
-بیوہء عباس تب روی وہاں خوب سا
+بیوۂ عباس تب روئی وہاں خوب سا
 رو رو کے عابد نے تب اپنی چچی سے کہا
-جن و ملک میں ہوی بس یہی گفتار ہے
+جن و ملک میں ہوئی بس یہی گفتار ہے
 خاک میں مدفوں ہوا شہ کا علمدار ہے
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
 
 ۶
 وہ جو تھا ابنِ حسن قاسم عالی نسب
-بیاہ کے دن ہاے ہاے قتل ہوا تشنہ لب
+بیاہ کے دن ہائے ہائے قتل ہوا تشنہ لب
 شادی کا جوڑا جو تھا مل گیا مٹی سے سب
-اس کا ہی چہلم ہے آج واے ستم ہے غضب
+اس کا ہی چہلم ہے آج وائے ستم ہے غضب
 حضرتِ سجاد نے سر کو بدن سے ملا
-دے کے کفن قبر میں لاشہء قاسم رکھا
+دے کے کفن قبر میں لاشۂ قاسم رکھا
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
 
 ۷
 کہتی تھی اکبر کی ماں اے میرے کڑیل جواں
 چھوٹ کے زنداں سے کرنے کو چالیسواں
-خستہ جگر آی ہے سہتی ہوی سختیاں
+خستہ جگر آئی ہے سہتی ہوئی سختیاں
 دیکھ تو نورِ نظر کس طرح روتی ہے ماں
-فاتحہ دلواونگی اشکوں کی برسات میں
-زخم ہرے ہو گےء سینۂ سادات میں
+فاتحہ دلواؤں گی اشکوں کی برسات میں
+زخم ہرے ہو گئے سینۂ سادات میں
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
 
 ۸
-بچوں سے بچھڑے ہوے زینب لاچار کو
-بیت گےء کتنے دِن مضطر و غمخوار کو
-اب جو رہائی ملی ہاے دلافگار کو
+بچوں سے بچھڑے ہوئے زینب لاچار کو
+بیت گئے کتنے دِن مضطر و غمخوار کو
+اب جو رہائی ملی ہائے دلافگار کو
 عون و محمد کے پھر سینہ و رخسار کو
 پیار کیا اور یہ کہا اے میرے شیروں سنو
-کرنا ہے چالیسواں بی بیوں ماتم کرو
+کرنا ہے چالیسواں بی‌بیوں ماتم کرو
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
 
 ۹
-بولی رباب حزیں لاشہء بے شیر پر
+بولی رباب حزیں لاشۂ بے شیر پر
 کیوں نہ گرے بجلیاں مادر دلگیر پر
 خوں ہے ابھی تک لگا ظلم کے اس تیر پر
 آج وہ دن آ گیا اف میری تقدیر پر
 کرتی ہوں چالیسواں ننھے سے قرآن کا
-صدقہ میں دلا سکی ہاے تیری جان کا
+صدقہ میں دلا سکی ہائے تیری جان کا
+سید مظلوم کا زہرا کے معصوم کا
+آج ہے چالیسواں
