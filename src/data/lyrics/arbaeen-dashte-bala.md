@@ -5,12 +5,13 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anjuman-e-Masoomeen"
 poet: "Iqbal Abedi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Arbaeen dashte bala mein hai manana zainab
+  Arbaeen dasht-e-bala mein hai manaana Zainab
   Maa se waada jo kiya tha wo nibhana zainab
 
   1
@@ -24,7 +25,7 @@ romanLyrics: |-
   Neel shaano ka bhi bhai ko dikhana zainab
 
   3
-  Faatah e khyber o khandaq ki dua hai zainab
+  Faatih-e-Khaibar o Khandaq ki dua hai Zainab
   Qalbe zehra ke dhadakne ki sada hai zainab
   Ro ke bhai se mera gham sunana zainab
 
@@ -34,8 +35,8 @@ romanLyrics: |-
   Meri jaanib se usay dena dilaasa zainab
 
   5
-  Umme laila ke kaleje ko sambhale rakhna
-  Bewa dulhan ko beher haal dilaasa dena
+  Umm-e-Laila ke kaleje ko sambhaale rakhna
+  Bewa dulhan ko bahar haal dilaasa dena
   Roye kubra to usay tu hi manana zainab
 
   6
@@ -51,13 +52,13 @@ romanLyrics: |-
 
 ۱
 منتظر تیرا ہے ایک سال سے بھیا زینب
-ایسا بھای نہ ملا ہے نہ ملے گا زینب
-آی زہرا کی صدا اے میری دکھیا زینب
+ایسا بھائی نہ ملا ہے نہ ملے گا زینب
+آئی زہرا کی صدا اے میری دکھیا زینب
 
 ۲
 اپنی روداد شہ دیں سے سنانا زینب
-گزری تو تجھ پہ وہ بھای سے سنانا زینب
-نیل شانوں کا بھی بھای کو دکھانا زینب
+گزری تو تجھ پہ وہ بھائی سے سنانا زینب
+نیل شانوں کا بھی بھائی کو دکھانا زینب
 
 ۳
 فاتح خیبر و خندق کی دعا ہے زینب
@@ -72,7 +73,7 @@ romanLyrics: |-
 ۵
 ام لیلیٰ کے کلیجے کو سنبھالے رکھنا
 بیوہ دلہن کو بحر حال دلاسہ دینا
-روے کبرا تو اسے تو ہی منانا زینب
+روئے کبریٰ تو اسے تو ہی منانا زینب
 
 ۶
 ایسا صابر تھا وہ ایک دونوں جہاں میں اقبال

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Alamdar Razvi"
 poet: "Ghayour"
 tags: ["noImage"]
 aliases: []
@@ -13,7 +14,7 @@ romanLyrics: |-
   Arab ke jangal se jaa raha hai
   
   1
-  Luta hua khaafela kisi ka
+  Luta hua qaafila kisi ka
   Bataati hai saaf ye udaasi
   Ke saaf ghar ho gaya kis ka
   Seena se zakhmi hai pusht o pehlu
@@ -30,11 +31,11 @@ romanLyrics: |-
   3
   Ye dar paye jor hai zamana
   Ruka qadam mil gaya bahana
-  Wo aayi awaaz e taziyana
+  Wo aayi aawaaz-e-taaziyaana
   Wo jism shaq hogaya kisi ka
   
   4
-  Baland naizon pa chand sar hai
+  Buland naizoṅ pe chand sar hain
   Sitare hai shams hai qamar hai
   Kisi ke gaysu lahoo may tar hai
   To pyaas se moo khula kisi ka
@@ -46,9 +47,9 @@ romanLyrics: |-
   To moo hai utra hua kisi ka
   
   6
-  Ghayur bad kar zara khabar le
+  Ghayour barh kar zara khabar le
   Ye kaun bharti hai sard aahein
-  Yaqeenan in kushtagane gham may
+  Yaqeenan in kushtagan-e-gham mein
   Jawan beta bhi tha kisi ka
 # source_id: nohayonline:808ac5b026cf25ac9181
 # source_url: https://www.nohayonline.com/details_content.php?id=2011
@@ -62,9 +63,9 @@ romanLyrics: |-
 بتاتی ہے صاف یہ اداسی
 کہ صاف گھر ہو گیا کس کا
 سینہ سے زخم ہے پشت و پہلو
-جھکی ہے گردن رواں ہے آنسوں
-بندھے ہوے ہیں کسی کے بازو
-کسا ہوا ہےگلا کسی کا
+جھکی ہے گردن رواں ہیں آنسو
+بندھے ہوئے ہیں کسی کے بازو
+کسا ہوا ہے گلا کسی کا
 
 ۲
 تمہیں بتاؤ سیاہ کاروں
@@ -73,9 +74,9 @@ romanLyrics: |-
 بھلا بگاڑے گا کیا کسی کا
 
 ۳
-یہ در پےء جو ہے زمانہ
+یہ درپئے جور ہے زمانہ
 رکا قدم مل گیا بہانا
-وہ آی آواز تعزیانہ
+وہ آئی آوازِ تازیانہ
 وہ جسم شق ہو گیا کسی کا
 
 ۴
@@ -91,7 +92,7 @@ romanLyrics: |-
 تو منہ ہے اترا ہوا کسی کا
 
 ۶
-غیور بڑھ کر زرا خبر لے
+غیور بڑھ کر ذرا خبر لے
 یہ کون بھرتی ہے سرد آہیں
 یقیناً ان کشتگانِ غم میں
 جوان بیٹا بھی تھا کسی کا
