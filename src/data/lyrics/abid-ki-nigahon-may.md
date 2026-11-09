@@ -1,6 +1,6 @@
 ---
 title: "عابد کی نگاہوں میں ہر کرب کا منظر ہے"
-alternateTitle: "Abid Ki Nigahon May"
+alternateTitle: "Abid Ki Nigahon Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,41 +9,42 @@ poet: "Hasan Abbas Ahsan"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Hadi Ali Khan Muslim"
 romanLyrics: |-
-  Abid ki nigahon may har karb ka manzar hai
+  Abid ki nigahoṅ mein har karb ka manzar hai
   
   1
-  Yalghaar hai ghodon ki aur qasim e bepar hai
-  Tooti hui barchi hai aur seena e akbar hai
-  Hulqoom e ali asghar aur teer e sitamgar hai
+  Yalghar hai ghoroṅ ki aur Qasim-e-Bepar hai
+  Tuti hui barchhi hai aur sina-e-Akbar hai
+  Hulqum-e-Ali Asghar aur tir-e-sitamgar hai
   Naize ki bulandi hai aur phool sa ek sar hai
   
   2
-  Hai aalam e tanhaai aur zulm ka lashkar hai
+  Hai aalam-e-tanhai aur zulm ka lashkar hai
   Nargha hai layeeno ka aur jaan e payambar hai
   Tayghon se badan zakhmi aur teeron ka bistar hai
   Shabbir ki gardan hai aur shimr ka khanjar hai
   
   3
-  Uth'ti hui talwarein chalte huwe naize hai
+  Uthti hui talwareṅ chalte hue neze haiṅ
   Sab zakhmi badan goya mashkon ke dahaane hai
-  Har simt se hamle hai abbas akele hai
+  Har simt se hamle haiṅ Abbas akele haiṅ
   Pyase ka sare zakhmi aur gurze sitamgar hai
   
   4
-  Karbal ke biyaban may aasaar hai mehshar ke
+  Karbal ke biyabaṅ mein aasar haiṅ mahshar ke
   Bikhre huwe maidan may laashe hai bahattar ke
-  Zainab ki nigahon may sab zakhm hai sarwar ke
+  Zainab ki nigahoṅ mein sab zakhm haiṅ Sarwar ke
   Jalti hui reti hai aur laasha e be-sar hai
   
   5
   Khamosh biyaban hai aur shaam e ghariban hai
   Har aankh may ashkon ka tehra hua toofan hai
   Bewon ka yateemon ka ab kaun nigehban hai
-  Jalte huwe qaime hai chinti hui chadar hai
+  Jalte hue khaime haiṅ chhinti hui chadar hai
   
   6
-  Bazaar may sar nange ahmed ka gharana hai
+  Bazar mein sar nange Ahmad ka gharana hai
   Jakda hua rassi may har bibi ka shaana hai
   Is haal may zainab ko darbar bhi jaana hai
   Har simt tamashayi zainab ka khula sar hai
@@ -52,10 +53,10 @@ romanLyrics: |-
   Hai pushte sakina par durron ke nashan saare
   Kaano se lahoo jaari rukhsar bhi hai soojhe
   Zakhmon may jalan jaise bharde koi angaare
-  Har lamha tamache hai har gaam pa mehshar hai
+  Har lamha tamache haiṅ har gaam pe mahshar hai
   
   8
-  Darbar may qaidi hai aulaad payambar ki
+  Darbar mein qaidi hai aulad-e-Payambar ki
   Sar tasht may sarwar ka kaisi ye adawat thi
   Honton pa shah e deen ke zaalim ne chadi rakhi
   Zainab ki nazar har dam bhai ke labon par hai
@@ -73,8 +74,8 @@ romanLyrics: |-
 عابد کی نگاہوں میں ہر کرب کا منظر ہے
 
 ۱
-یلگار ہے گھوڑوں کی اور قاسم بے پر ہے
-ٹوٹی ہوی برچھی ہے اور سینۂ اکبر ہے
+یلغار ہے گھوڑوں کی اور قاسم بے پر ہے
+ٹوٹی ہوئی برچھی ہے اور سینۂ اکبر ہے
 حلقوم علی اصغر اور تیر ستمگر ہے
 نیزے کی بلندی ہے اور پھول سا اک سر ہے
 
@@ -85,9 +86,9 @@ romanLyrics: |-
 شبیر کی گردن ہے اور شمر کا خنجر ہے
 
 ۳
-اٹھتی ہے تلواریں چلتے ہوے نیزے ہے
+اٹھتی ہوئی تلواریں چلتے ہوئے نیزے ہیں
 سب زخمی بدن گویا مشکوں کے دہانے ہیں
-ہر سمت سے حملے ہے عباس اکیلے ہیں
+ہر سمت سے حملے ہیں عباس اکیلے ہیں
 پیاسے کا سر زخمی اور گرز ستمگر ہے
 
 ۴

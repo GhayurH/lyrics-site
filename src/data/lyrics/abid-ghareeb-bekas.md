@@ -10,40 +10,40 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abid ghareeb bekas o nachaar mar gaya
-  Sadaat khaak udayenge sardar mar gaya
+  Abid gharib bekas o nachar mar gaya
+  Sadaat khaak uraeṅ ke sardar mar gaya
 
   1
-  Saaya raha saron pa na chauthe imam ka
-  Zehra ki jaan hussain ka dildaar mar gaya
+  Saya raha saroṅ pe na chauthe Imam ka
+  Zehra ki jaaṅ Husain ka dildar mar gaya
 
   2
-  Kaanton pa khaynchte thay jise raahe shaam mein
-  Wo saarban e itrat e athaar mar gaya
+  Kantoṅ pe khinchte the jise rah-e-Shaam mein
+  Wo sarban-e-Itrat-e-Athar mar gaya
 
   3
   Rota raha jo baap ko chalees saal tak
   Wo aaj shahe deen ka azadaar mar gaya
 
   4
-  Shamme mazaar e panjatan e paak bujh gayi
+  Sham-e-mazar-e-Panjtan-e-Pak bujh gayi
   Saydaniyo ka haye parasthaar mar gaya
 
   5
-  Beti hassan ki hogayi bewa hazaar haif
-  Hyder ka pota aashaq e ghaffar mar gaya
+  Beti Hasan ki ho gayi bewa hazar haif
+  Haider ka pota ashiq-e-Ghaffar mar gaya
 
   6
-  Bano ka chand zer e zameen haye chup gaya
+  Bano ka chaṅd zer-e-zamin haye chhup gaya
   Faaqa kash o ghareeb dilafgaar mar gaya
 
   7
-  Bin baap ka layeen ne baqer ko kar diya
-  Choutha wasi e ahmed e mukhtar mar gaya
+  Bin baap ka lain ne Baqir ko kar diya
+  Chautha wasi-e-Ahmad-e-Mukhtar mar gaya
 
   8
-  Kyun kar shaoor khaak udaaun na aaj mai
-  Mai jiski nasl se hoon wo sardaar mar gaya
+  Kiun kar Shaoor khaak uraauṅ na aaj main
+  Main jis ki nasl se huṅ wo sardar mar gaya
 # source_id: nohayonline:7235384bc2a6ee5240bd
 # source_url: https://www.nohayonline.com/details_content.php?id=2951
 # raw_sha256: 880e97e1df8672d783751ca7afe233fca487d9e0dd873ce89eee7a1157173680
@@ -57,18 +57,18 @@ romanLyrics: |-
 
 ۲
 کانٹوں پہ کھینچتے تھے جسے راہ شام میں
-وہ ساربان عطرت اطہار‌ مر گیا
+وہ ساربان عترت اطہار مر گیا
 
 ۳
 روتا رہا جو باپ کو چالیس سال تک
 وہ آج شاہ دیں کا عزادار مر گیا
 
 ۴
-شمعِ مزار پنجتن پاک بجھ گیء
+شمعِ مزار پنجتن پاک بجھ گئی
 سیدانیوں کا ہاے پرستار مر گیا
 
 ۵
-بیٹی حسن کی ہو گیء بیوہ ہزار حیف
+بیٹی حسن کی ہو گئی بیوہ ہزار حیف
 حیدر کا پوتا عاشق غفار مر گیا
 
 ۶

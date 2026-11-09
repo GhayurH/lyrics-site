@@ -9,25 +9,26 @@ poet: "Akhtar Sirsvi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
-  Ye kaisi rehaai hai
-  Abid ki zanjeer utaari jaati hai
-  Roohe sakina sadqe waari jaati hai
+  Ye kaisi rehai hai
+  Abid ki zanjir utari jaati hai
+  Ruh-e-Sakina sadqe wari jaati hai
 
   1
-  Bhai ki turbat par girti hai naaqe se
+  Bhai ki turbat par girti hai naqe se
   Qabr pe jab zainab ki sawari jaati hai
 
   2
-  Zindan ki takleef sakina se poocho
+  Zindan ki taklif Sakina se puchho
   Kaise yahan par raat guzari jaati hai
 
   3
   Dhoondne turbat maqtal mein shash maahe ki
-  Ghutniyon chal kar maa bechari jaati hai
+  Ghutniyoṅ chal kar maaṅ bechari jaati hai
 
   4
-  Abid ke pairon ka waram jaata hi nahi
+  Abid ke pairoṅ ka waram jaata hi nahiṅ
   Saath lehed tak ye beemari jaati hai
 
   5
@@ -39,15 +40,15 @@ romanLyrics: |-
   Zainab le kar naam pukari jaati hai
 
   7
-  Tadpati hai aun o mohamed ki yaadein
+  Tarapti hai Aun o Mohammad ki yaadeṅ
   Jab hujron mein maa dukhyari jaati hai
 
   8
-  Pusht pe abid ki durron se shaam talak
-  Zulm ki ek tasveer ubhari jaati hai
+  Pusht pe Abid ki durroṅ se Shaam talak
+  Zulm ki ek tasvir ubhari jaati hai
 
   9
-  Aamir o akhtar ashk na roko nauhe mein
+  Aamir o Akhtar ashk na roko nauhe mein
   Jannat tak awaaz tumhari jaati hai
 # source_id: nohayonline:2a2e005156003d395b26
 # source_url: https://www.nohayonline.com/details_content.php?id=3101
@@ -58,7 +59,7 @@ romanLyrics: |-
 روح سکینہ صدقے واری جاتی ہے
 
 ۱
-بھای کی تربت پر گرتی ہے ناقے سے
+بھائی کی تربت پر گرتی ہے ناقے سے
 قبر پہ جب زینب کی سواری جاتی ہے
 
 ۲
@@ -90,5 +91,5 @@ romanLyrics: |-
 ظلم کی ایک تصویر ابھاری جاتی ہے
 
 ۹
-آمیر و اختر اشک نہ روکو نوحے میں
+عامر و اختر اشک نہ روکو نوحے میں
 جنت تک آواز تمہاری جاتی ہے

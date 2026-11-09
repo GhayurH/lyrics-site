@@ -9,14 +9,15 @@ poet: "Armaan"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Shahid Baltistani"
 romanLyrics: |-
-  Haye bemaar haye bemaar
-  Ranj o alam mein doobi abid ki kahani
-  Pairon mein aabile hai aankhon se aansuon ki
+  Haye bimar haye bimar
+  Ranj o alam mein dubi Abid ki kahani
+  Pairoṅ mein aable haiṅ aankhoṅ se aṅsuoṅ ki
   Hoti hai rawani
 
   1
-  Is baat ka nahi gham bazaar behaya hai
+  Is baat ka nahiṅ gham bazar behaya hai
   Ummat ki berukhi hai ummat se hi gila hai
   Zainab bhi berida hai badli hai zaeefi mein
   Abid ki jawani
@@ -28,8 +29,8 @@ romanLyrics: |-
   Guzri hai jawani
 
   3
-  Sadaat ke liye hi raahon mein mushkilein hai
-  Koday hai aur kaanthe pathron ki barishein hai
+  Sadaat ke liye hi rahoṅ mein mushkileṅ haiṅ
+  Kore haiṅ aur kante pattharoṅ ki barisheṅ haiṅ
   Qaime jo karbala mein jalte rahe thay ya rab
   Barsa nahi pani
 
@@ -46,10 +47,10 @@ romanLyrics: |-
   Karbal ko kahani
 
   6
-  Na mehramon mein zainab beparda jab khadi thi
+  Na mahramoṅ mein Zainab beparda jab khari thi
   Ummat ki teri nana ghairat kahan gayi thi
   Majma laga hua tha zainab jo pad rahi thi
-  Aayaat e qurani
+  Aayat-e-Qurani
 
   7
   Saaya hata hi tha ke abbas ke bharam ka
@@ -58,9 +59,9 @@ romanLyrics: |-
   Ghazi ki nishani
 
   8
-  Sajjad jis tarha se aankhon se khoon roya
-  Armaan wo kalam se kaise bayaan hoga
-  Bedaar hogaye hum matam bata raha hai
+  Sajjad jis tarah se aankhoṅ se khun roya
+  Armaan wo qalam se kaise bayan hoga
+  Bedar ho gaye hum matam bata raha hai
   Nauhon ki zubani
 # source_id: nohayonline:64b2dfb023e409f31955
 # source_url: https://www.nohayonline.com/details_content.php?id=2709
@@ -78,7 +79,7 @@ romanLyrics: |-
 عابد کی جوانی
 
 ۲
-قاری نمازی حافط حاجی کھڑے ہوے تھے
+قاری نمازی حافظ حاجی کھڑے ہوئے تھے
 بازاروں میں مسلمان سارے بھرے ہوے تھے
 زینب کی پشت پر ہی بیمار سارباں کی
 گزری ہے جوانی
@@ -103,7 +104,7 @@ romanLyrics: |-
 
 ۶
 نا محرموں میں زینب بے پردہ جب کھڑی تھی
-امت کی تیری نانا غیرت کہاں گیء تھی
+امت کی تیری نانا غیرت کہاں گئی تھی
 مجمع لگا ہوا تھا زینب جو پڑھ رہی تھی
 آیات قرآنی
 
@@ -116,5 +117,5 @@ romanLyrics: |-
 ۸
 سجاد جس طرح سے آنکھوں سے خون رویا
 ارمان وہ قلم سے کیسے بیان ہو گا
-بیدار ہو گےء ہم ماتم بتا رہا ہے
+بیدار ہو گئے ہم ماتم بتا رہا ہے
 نوحوں کی زبانی
