@@ -56,10 +56,43 @@ romanLyrics: |-
   Jaam-e-midhat na piyuṅ aisi koi shaam nahiṅ
   Kucha kucha mera phirna to bahaana thehra
   Mera maqsad to munaafiq ko jalaana thehra
-# editorial_uncertain: "Source Roman-only; Khaadim-e-Shafa-e-Mehshar and Rind-e-May Kana-e-Khum need original recording confirmation."
+  
+  7
+  Ba-Khuda ishq-e-Khuda ishq-e-Ali Maula ka
+  Ain-e-tauhid hai kya ishq-e-Ali Maula ka
+  Mehwar-e-nuqta-e-ba ishq-e-Ali Maula ka
+  Mimbar-e-Khum ki sada ishq-e-Ali Maula ka
+  Haaṅ isi ishq ko sine mein basa rakha hai
+  Main ne danai ko diwana bana rakha hai
+  
+  8
+  Shiddat-e-ishq kare kam ye bhala kis ki majal
+  Na hai daulat ki hawas aur na ghurbat pe malal
+  Na mujhe auj ki khwahish na mujhe khauf-e-zawal
+  Fikr-e-faqa hai na ayyam ki gardish ka khayal
+  Meri hasti ki baqa Ibn-e-Wali deta hai
+  Rab ka banda huṅ magar rizq Ali deta hai
+  
+  Qata
+  Dunya kahaṅ samjhegi bhala kya hai faqiri
+  Har aql se azhan se bala hai faqiri
+  Maula ka malang subh o masa shan se jis pe
+  Karta hai ibadat wo musalla hai faqiri
+  
+  9
+  Haaṅ bata dijiye Yasir ke faqiri kya hai
+  Dar-haqiqat ye sanad yafta ik rutba hai
+  Mustanad shakhs jo hota hai use milta hai
+  Ye wo rutba hai jo bande ko amar karta hai
+  Jis ko milti hai faqiri wo baqa pata hai
+  Dub kar ishq ke darya mein ubhar jata hai
+# editorial_uncertain: "Source Roman-only; Khaadim-e-Shafa-e-Mehshar and Rind-e-May Kana-e-Khum need original recording confirmation; continuation qata has uncertain source phrasing (Maula ka malang / musalla) and Yasir's full name is unverified."
 # source_id: tajpoints:445943102081a934c743
 # source_url: https://tajpoints.com/2018/07/anna-majnoonal-ali-faqeer-e-mula-1-6.html
 # raw_sha256: e73faa2ce687ff4d112f0464a71ee4a8007704919cf5cf1ce1f3a9add9b60e12
+# source_id: tajpoints:19383affd0c52cc46733
+# source_url: https://tajpoints.com/2018/07/anna-majnoonal-ali-faqeer-e-mula-7-9.html
+# raw_sha256: 84d411bee018558c75169aaa130bae9f487dff061821c6ff06722aafd2b6e53a
 ---
 
 ۱
@@ -109,3 +142,33 @@ romanLyrics: |-
 جامِ مدحت نہ پیوں ایسی کوئی شام نہیں
 کوچہ کوچہ میرا پھرنا تو بہانہ ٹھہرا
 میرا مقصد تو منافق کو جلانا ٹھہرا
+
+۷
+بخدا عشقِ خدا عشقِ علی مولا کا
+عینِ توحید ہے کیا عشقِ علی مولا کا
+محورِ نقطۂ با عشقِ علی مولا کا
+منبرِ خم کی صدا عشقِ علی مولا کا
+ہاں اسی عشق کو سینے میں بسا رکھا ہے
+میں نے دانائی کو دیوانہ بنا رکھا ہے
+
+۸
+شدتِ عشق کرے کم یہ بھلا کس کی مجال
+نہ ہے دولت کی ہوس اور نہ غربت پہ ملال
+نہ مجھے اوج کی خواہش نہ مجھے خوفِ زوال
+فکرِ فاقہ ہے نہ ایام کی گردش کا خیال
+میری ہستی کی بقا ابنِ ولی دیتا ہے
+رب کا بندہ ہوں مگر رزق علی دیتا ہے
+
+قطعہ
+دنیا کہاں سمجھے گی بھلا کیا ہے فقیری
+ہر عقل سے اذہان سے بالا ہے فقیری
+مولا کا ملنگ صبح و مسا شان سے جس پہ
+کرتا ہے عبادت وہ مصلّیٰ ہے فقیری
+
+۹
+ہاں بتا دیجیے یاسر کہ فقیری کیا ہے
+درحقیقت یہ سند یافتہ اک رتبہ ہے
+مستند شخص جو ہوتا ہے اسے ملتا ہے
+یہ وہ رتبہ ہے جو بندے کو امر کرتا ہے
+جس کو ملتی ہے فقیری وہ بقا پاتا ہے
+ڈوب کر عشق کے دریا میں ابھر جاتا ہے

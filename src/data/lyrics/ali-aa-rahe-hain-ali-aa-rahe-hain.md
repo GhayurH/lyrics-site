@@ -13,7 +13,9 @@ published: false
 # source_id: tajpoints:5c06cfa3fa6befc83883
 # source_url: https://tajpoints.com/2018/03/ali-aa-rahe-hain-ali-aa-rahe-hain-1-4.html
 # raw_sha256: ad3629522698d1ad2107c402b61efd5a783ea368892620b57bc37f567405f637
-# continuation_source_url: https://tajpoints.com/2018/03/ali-aa-rahe-hain-ali-aa-rahe-hain-5-8.html
+# source_id: tajpoints:3fdcae6e9216a500a01c
+# source_url: https://tajpoints.com/2018/03/ali-aa-rahe-hain-ali-aa-rahe-hain-5-8.html
+# raw_sha256: 1c2210d03bf86d7e08e53fa2163f539e14820303253370c2e0235c2f863bbc41
 romanLyrics: |-
   Hai shukr-e-Khuda bar-zaban-e-Payambar
   Bana hai jidar-e-Haram mein naya dar

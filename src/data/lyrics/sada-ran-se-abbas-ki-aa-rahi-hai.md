@@ -13,7 +13,9 @@ published: false
 # source_id: tajpoints:bd7e1064fe3899248d8f
 # source_url: https://tajpoints.com/2018/01/sada-ran-se-abbas-ki-aa-rahi-hai-1-4.html
 # raw_sha256: 74f369f7d22821e689a3ad92fc01e89306a2f4850b64b1a579dcf0819415fcb8
-# https://tajpoints.com/2018/01/sada-ran-se-abbas-ki-aa-rahi-hai-5-8.html
+# source_id: tajpoints:77f87b6ce2b696555fdd
+# source_url: https://tajpoints.com/2018/01/sada-ran-se-abbas-ki-aa-rahi-hai-5-8.html
+# raw_sha256: c6038dbde2d177e9a9a265c6c329ab59574e71bb192c316a0310838f7df3ff88
 romanLyrics: |-
   
   Sada Ran Se Abbas Ki Aa Rahi Hai

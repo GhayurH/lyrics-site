@@ -13,7 +13,9 @@ published: false
 # source_id: tajpoints:09718452d2507fad4b90
 # source_url: https://tajpoints.com/2017/12/hai-johar-e-sifaat-e-nabowat-yehi-alam.html
 # raw_sha256: 4ffd0f67da928788db408cfc9cd38b0c926127dba52aa682ada6ec5bb962edcf
-# source_url_continuation: https://tajpoints.com/2017/12/hai-johar-e-sifaat-e-nabowat-yehi-alam-5.html
+# source_id: tajpoints:99028b2e076faad12876
+# source_url: https://tajpoints.com/2017/12/hai-johar-e-sifaat-e-nabowat-yehi-alam-5.html
+# raw_sha256: fa66ffa52557bfce861a9486de6f5ece5eba89c72f881110d713410144227b20
 romanLyrics: |-
   1
   Hai Johar-e-Sifaat-e-Nabowat Yehi Alam
