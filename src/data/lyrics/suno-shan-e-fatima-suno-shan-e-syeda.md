@@ -10,6 +10,7 @@ published: false
 # source_id: tajpoints:fc045a7f616651ea2b4d
 # source_url: https://tajpoints.com/2019/01/suno-shan-e-fatima-suno-shan-e-syeda-1-6.html
 # raw_sha256: f8d5af12ca98fb6c49fcf2884f6de2e29cf939e7ca62ebab308279c9239a34ff
+# https://tajpoints.com/2019/01/suno-shan-e-fatima-suno-shan-e-syeda-7.html
 ---
 
 Suno Shan-e-Fatima Suno Shan-e-Syeda 1-6
@@ -61,3 +62,39 @@ Makhdoom Inn Ka Ghar Hai Do Aalam Hain Khadmain
 Milta Hai Iss Ko Dekh Ke ALLAH Ko Bhi Chain
 Jalwaon Se Iss Ke Sara Jahan Jagmagaye Ga
 Iss Ghar Se Jo Jale Ga Jahanum Mein Jaye Ga
+
+7
+Aain Do Jahan Ka Banati Hain Fatima
+Jhola Mashiyaton Ko Jhulati Hain Fatima
+Nabiyon(AS) Ko Unn Ke Kam Batati Hain Fatima
+ALLAH Ka Nizam Chalati Hain Fatima
+Iss Shan Se Qayam Hai Arz-e-Yaqeen Par
+Jab Chahein Aasman Bicha Dein Zameen Par
+
+8
+Jalway Ajab Dikhati Hain Khair-ul-Nisa Ki Zaat
+Tasbeeh Aik Hath Mein Chaki Pe Aik Hath
+Konain Ghomte Hain Isharon Ke Sath Sath
+Inn Ki Kaneez Roz-e-Azal Se Hai Kainat
+Kis Ki Majal Hai Keh Koi Baat Taal De
+Yeh Jis Ko Chahe Kon-o-Makaan Se Nikal De
+
+9
+Mansoob Woh Hadees-e-Kisa Hai Janab Se
+Aajiz Hai Kufar Aaj Bhi Jis Ke Jawab Se
+Roshan Dil-o-Dimag Hain Jis Aaftab Se
+Hum Ne Yehi Suna Hai Risalat Maab Se
+Ilm-o-Hunar Ka Moor Hadees-e-Kisa Mein Hai
+Quran Ka Nichoor Hadees-e-Kisa Mein Hai
+
+10
+:GOHAR: Yeh Bazm-e-Malka-e-Youm-e-Alasat Hai
+Eman Ki Ghiza Ka Bara Bando Bast Hai
+Har Shaks Aaj Ishq Ki Masti Mein Mast Hai
+Zahra Ke Dushmano Ki Mukamil Shikast Hai
+Mehfil Qalandrana Sada Hai Jo Saj Gayi
+Lafzoon Ne Woh Dhmal Kiya Dhoom Mach Gayi
+
+
+Poet: :Gohar Jarchvi
+Manqabat Khuwan: :Rizwan Zaidi

@@ -15,17 +15,27 @@ published: false
 1
 Sajjad De Okhiyan Safran Di Rayi Fizza Sain Gawah Aye
 Ban Nokar Habash Di Malka Ne Kita Syedaan Naal Nibah Aye
+
+2
 Karbal Taun Le Ke Sham Taein Har Zulm Hai Bibi Sehndi Rayi
 Beemar De Wangoon Hashar Taein Nahin Bhulne Sham De Rah Aye
 
-2
+3
 Kisay Moor Te Zainab Ban Gayi Si Kisay Moor Te Ban Kulsoom Gayi
 Kha Kha Ke Pathar Bachandi Rayi Aye Ban Ke Pak Panah Aye
+
+4
 Meri Sain Ne Qabar-e-Sakina Te Keeti Ainj Di Nokari Zindagi Bhar
 Mar Ke V Sain Mojawar Hai Odi Qabar Te Pak Nigah Aye
 
-3
+5
 Jino Bhain Hai Aakhiya Zahra Ne Aate Maa Hasnain Bolanday Si
 Taiyon Roza BiBi Zainab Da Fizza Di Sajdah Ga Aye
+
+6
 Ik Din Te Tur Gaye Dunya Taun Har Zulm De Jehray Shahid Si
 Wich Sham De Fizza Tur Gayi Aye Wich Yasrab Deen Da Shah Aye
+
+Poet: :Malik Shahid Abbas Awan Karbalai:
+Soz: :Ali Raza Janjua:
+Noha Khuwan: :Pervaiz Pilla Party:

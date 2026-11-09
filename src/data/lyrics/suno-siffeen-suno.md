@@ -13,6 +13,7 @@ published: false
 # source_id: tajpoints:94a06b153227ebe68791
 # source_url: https://tajpoints.com/2017/02/suno-siffeen-suno-7-12.html
 # raw_sha256: 3358d7b21cd81ae7978b3556b35a55f3829ffdce97fbec12a16f1bc07c89ebf4
+# https://tajpoints.com/2017/02/suno-siffeen-suno-13-17.html
 ---
 
 Quran-e-Shujat Se Main Yaseen Sunao
@@ -113,3 +114,47 @@ Aye Zakhmiyo Bikhre Howay Osaan Samaito
 Ghar Jao Meri Maan Lo Saman Samaito
 Marte Ho Jawani Mein Ajab Zauq Hai Tum Ko
 Kya Khudkushi Karne Ka bohat Shauq Hai Tum Ko
+
+13
+Tareekh Sunaati Hai Yeh Siffeen Ka Qisa
+Maidaan Mein Jo Aye Pisran-e-Bin-e-Shasa
+Nagan Ke Sapole The Magar Wah Reh Hamla
+Musa Ke Assa Ki Tarha Sab Kha Giya Naiza
+Saton Pe Bazurgon Ke Sabaq Kar Diye Roshan
+Do Aise Kiye Chodah Tabaq Kar Diye Roshan
+
+14
+Dil Mein Yehi Kehta Raha Sarwar Ka Alamdar
+Phir Moqa Mile Ya Na Mile Aye Meri Talwar
+Taiz Our Zara Taiz Zara Taiz Ho Raftar
+Aye Kash Mujhe Rokein Na Ab Haider-e-Karar
+Haq Kar Doon Adda Fatima Zahra Ke Namak Ka
+Arey Badla Abhi Le Loon Ga Main Inn Sab Se Fidaq Ka
+
+15
+Maidaan Se Utha Shoor Ali Hai Yeh Ali Hai
+Kehte The Fidaq Khoor Ali Hai Yeh Ali Hai
+Bole Yeh Woh Be-Door Ali Hai Yeh Ali Hai
+Arey Bilkul Hai Wohi Zoor Ali Hai Yeh Ali Hai
+Sar Oss Ka Urey Ga Jo Kabhi Iss Se Aray Ga
+ALLAH Ki Taqat Se Bhala Kaun Lare Ga
+
+16
+Shabir Bhi Kehne Lage Kya Khoob Kiya Kaam
+Do Hath Mein Hi Kar Diya Kuffar Mein Kuhram
+In Hathon Se Hone Hain Abhi Our Bohat Kam
+Bahi Hai Tere Waste Bahi Ka Yeh Inam
+To Aye Ga Aye Shair Palat Kar Jo Hadaf Se
+Main Bazoo Dabaon Ga Tere Maa Ki Taraf Se
+
+17
+Haider Ne Naqab Aa Ke Uthai Jo :TAKALLAUM:
+Abbas Ke Honton Pe Nazar Aya Tabasum
+Baqi Jo Bache The Wo Howay Dekh Ke Gum Sum
+Maula Ne Kaha Sham Ke Lashkar Se Suno Tum
+Yeh Fatima Zahra Ki Duaon Ka Asar Hai
+Yeh Jan Lo Sab Yeh Bani Hashim Ka Qamar Hai
+
+
+Poet: Mir Takallum Mir
+Manqabat Khuwan: Mir Hasan Mir
