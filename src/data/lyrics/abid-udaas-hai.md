@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Rassi se ghut na jae Sakina ka dam kahiṅ
-  Is fikr mein har ek jaaṅ Abid udaas hai
+  Is fikr mein har ek jaa Abid udaas hai
 
   8
   Darbar mein Najaf ye munadi ne di sada

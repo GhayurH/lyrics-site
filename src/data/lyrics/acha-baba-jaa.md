@@ -1,6 +1,6 @@
 ---
-title: "آخری رخصت کو آے جب شہ کربوبلا"
-alternateTitle: "Acha Baba Jaa"
+title: "آخری رخصت کو آئے جب شہ کربوبلا"
+alternateTitle: "Achha Baba Jaa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,17 +9,18 @@ poet: "Samar Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Raza Abbas Zaidi"
 romanLyrics: |-
-  Aakhri ruqsat ko aaye jab shah e karbobala
-  Jod ke haaton ko sughra ne ye baba se kaha
-  Acha baba jaa rahe ho jao bus itna karo
-  Paas ashgar ko mere lekin khudara chod do
+  Aakhri rukhsat ko aae jab Shah-e-Karbobala
+  Jor ke haathoṅ ko Sughra ne ye Baba se kaha
+  Achha Baba jaa rahe ho jao bas itna karo
+  Paas Asghar ko mere lekin Khudara chhor do
 
   1
   Sakht garmi ka safar hai aur ye nanhi se jaan
   Phool sa asghar mera murjha na jaye baba jaan
-  Ap ke hujre mein jannat ki hawa ka hai guzar
-  Mai wahin soungi baba isko lekar raat ko
+  Aap ke hujre mein Jannat ki hawa ka hai guzar
+  Main wahiṅ souṅgi Baba is ko le kar raat ko
 
   2
   Mai bina akbar ke jee na paungi baba magar
@@ -37,7 +38,7 @@ romanLyrics: |-
   Haath mere sar pe rakh ke kaun dega ab dua
   Tum na hoge baba na akbar na abid chacha
   Jaa rahi hai maa behan phupiyan sabhi moo mod ke
-  Mai bhare ghar ke hoo aadi kya karun baba kaho
+  Main bhare ghar ki huṅ aadi kya karuṅ Baba kaho
 
   5
   Baba akbar se mai kehti hi rahi kab aaoge
@@ -72,61 +73,61 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2386
 # raw_sha256: 94c297d8bdbe9b14e0af9657162379ac20f89b3bb2fee868247a172587a9bd24
 ---
-آخری رخصت کو آے جب شہ کربوبلا
+آخری رخصت کو آئے جب شہ کربوبلا
 جوڑ کے ہاتھوں کو صغرا نے یہ بابا سے کہا
 اچھا بابا جا رہے ہو جاؤ بس اتنا کرو
 پاس اصغر کو میرے لیکن خدارا چھوڑ دو
 
 ۱
-سخت گرمی کا سفر ہے اور یہ ننھی سے جان
-پھول سا اصغر میرا مرجھا نہ جاے بابا جاں
-آپ کے ہجرے میں جنت کی ہوا کا ہے گزر
-میں وہی سوونگی بابا اس کو لے کر رات کو
+سخت گرمی کا سفر ہے اور یہ ننھی سی جان
+پھول سا اصغر میرا مرجھا نہ جائے بابا جاں
+آپ کے حجرے میں جنت کی ہوا کا ہے گزر
+میں وہیں سوؤں گی بابا اس کو لے کر رات کو
 
 ۲
 میں بنا اکبر کے جی نہ پاؤں گی بابا مگر
-دل بہل جاے گا اصغر کو ہمکتا دیکھ کر
+دل بہل جائے گا اصغر کو ہمکتا دیکھ کر
 یہ بھرا گھر ہو گا جو ویران مر جاؤں گی میں
 زندہ رہنے کا میرے کوئی بہانا بھی تو ہو
 
 ۳
 ساتھ اپنے لوریاں دے کر سلاؤں گی اسے
 سیدہ کی میں کہانی خود سناؤں گی اسے
-دیکھ کر اصغر کا چہرہ چین آے گا مجھے
+دیکھ کر اصغر کا چہرہ چین آئے گا مجھے
 اس کے چہرے میں شباہت آپ کی آتی ہے جو
 
 ۴
 ہاتھ میرے سر پہ رکھ کے کون دے گا اب دعا
 تم نہ ہو گے بابا نہ اکبر نہ عابد چچا
 جا رہی ہے ماں بہن پھوپھیاں سبھی منہ موڑ کے
-میں بھرے گھر کے ہوں عابد کیا کروں بابا کہو
+میں بھرے گھر کی ہوں عادی کیا کروں بابا کہو
 
 ۵
 بابا اکبر سے میں کہتی ہی رہی کب آؤ گے
-سر جھکائے وہ کھڑا تھا اشک آنکھوں میں لیےء
+سر جھکائے وہ کھڑا تھا اشک آنکھوں میں لیے
 یاد جب وعدہ دلایا رو کے وہ کہنے لگا
 جلد آؤں گا بہن میں دم رہا سینے میں تو
 
 ۶
 جلد بلوانا میرے بابا مدینے سے مجھے
-بھای کا سہرا بناؤں گی میں اپنے ہاتھ سے
+بھائی کا سہرا بناؤں گی میں اپنے ہاتھ سے
 حسن میرے بھائیوں کا دیکھے گا سارا جہاں
 دولہا جب اکبر سا ہو اصغر سا شہ بالا بھی ہو
 
 ۷
 مسکراتا ہے میرا اصغر سکینہ کی طرح
-وہ چلی جاے گی تو کیسے جاؤں گی میں بھلا
-یاد آے گی سکینہ کی تو دیکھوں گی اسے
-دل سکوں پاے گا کیسے گھر میں جب کوئی نہ ہو
+وہ چلی جائے گی تو کیسے جاؤں گی میں بھلا
+یاد آئے گی سکینہ کی تو دیکھوں گی اسے
+دل سکون پائے گا کیسے گھر میں جب کوئی نہ ہو
 
 ۸
 حلق کو اصغر کے بابا چومتے ہو جب کبھی
-یوں تڑپ جاتے ہو جیسے زخم دیکھا ہو کوی
+یوں تڑپ جاتے ہو جیسے زخم دیکھا ہو کوئی
 مسکراتا ہے جو اصغر رو دیا کرتے ہو تم
 مسکرانے میں چھپا ہے راز کیا اس کے کہو
 
 ۹
-جب ثمر آے حرم دیکھا رضا صغرا نے کیا
+جب ثمر آئے حرم دیکھا رضا صغرا نے کیا
 ماں کی گودی میں نہیں اصغر ہے کرتہ خوں بھرا
-لکڑیاں جھولے کی سینے سے لگاے ہے رباب
+لکڑیاں جھولے کی سینے سے لگائے ہے رباب
 کہہ رہے ہیں رو کے عابد دھوپ سے اماں اٹھو
