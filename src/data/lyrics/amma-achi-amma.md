@@ -1,18 +1,19 @@
 ---
-title: "داخل جو مدینے میں ہوے أہل مدینہ"
+title: "داخل جو مدینے میں ہوئے اہلِ مدینہ"
 alternateTitle: "Amma Achi Amma"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Daakhil jo madine mein huwe ahle madina
+  Daakhil jo Madine mein hue ahl-e-Madina
   Jaate huwe kuch aur thay ab kya hai qareena
-  Na akbar o abbas na hamraah sakina
+  Na Akbar o Abbas na hamraah Sakina
   Aur gham se har ek bibi ka labrez tha seena
   Jab ghar ke khareeb aagayi kunbe ki sawari
   Sughra ne jo dekha to ye ro ro ke pukari
@@ -45,7 +46,7 @@ romanLyrics: |-
   Mat pooch kahan hai ab kunba
 
   5
-  Sughra wo asghar jo cheh maah ka tha
+  Sughra wo Asghar jo chhe maah ka tha
   Wo bhi na raha wo bhi na raha
   Maa dhoop mein baithi roti hai
   Mat pooch kahan hai ab kunba
@@ -59,12 +60,12 @@ romanLyrics: |-
   7
   Sughra darti thi andhere se jo bahot
   Wo bali sakina teri behen
-  Ab tak hai wo zindan mein sughra
+  Ab tak hai wo zindan mein Sughra
   Mat pooch kahan hai ab kunba
 
   8
-  Allah sughra se utha hoga kyun kar
-  Ay sarwar ay rehaan ye gham
+  Allah Sughra se utha hoga kiun kar
+  Ae Sarwar ae Rehaan ye gham
   Jis waqt phupi ne ro ke kaha
   Mat pooch kahan hai ab kunba
 # source_id: nohayonline:d9566830b8cd3577666e
@@ -75,9 +76,9 @@ romanLyrics: |-
 جاتے ہوئے کچھ اور تھے اب کیا ہے قرینہ
 نہ اکبر و عباس نہ ہمراہ سکینہ
 اور غم سے ہر ایک بی بی کا لبریز تھا سینہ
-جب گھر کے قریب آ گیء کنبے کی سواری
+جب گھر کے قریب آ گئی کنبے کی سواری
 صغرا نے جو دیکھا تو یہ رو رو کے پکاری
-اماں اماں ہاے
+اماں اماں ہائے
 اماں اچھی اماں میرا کنبہ کہاں ہے
 اماں اچھی اماں میرا بابا کہاں ہے
 
@@ -102,7 +103,7 @@ romanLyrics: |-
 ۴
 صغرا وہ ایک ضعیف جوان جو ہے
 پہچان اسے سجاد ہے یہ
-اسے شام‌ کی گلیاں مار گیء
+اسے شام کی گلیاں مار گئیں
 مت پوچھ کہاں ہے اب کنبہ
 
 ۵
@@ -112,7 +113,7 @@ romanLyrics: |-
 مت پوچھ کہاں ہے اب کنبہ
 
 ۶
-صغرا جب شام غریباں آی تھی
+صغرا جب شامِ غریباں آئی تھی
 زینب پہ بڑی تنہائی تھی
 گھر جلتا تھا چھنتی تھی ردا
 مت پوچھ کہاں ہے اب کنبہ

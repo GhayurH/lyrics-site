@@ -1,16 +1,17 @@
 ---
-title: "اماں بس اک رات کا میہمان ہے حسین"
+title: "اماں بس اک رات کا مہمان ہے حسین"
 alternateTitle: "Amma Bas Ek Raat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Anjuman-e-Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Amma bas ek raat ka mehman hai hussain
+  Amma bas ek raat ka mehmaan hai Husain
   
   1
   Andheri raat hai amma ghamon ka dera hai
@@ -18,14 +19,14 @@ romanLyrics: |-
   Watan se door mujhe kufiyon ne ghera hai
   
   2
-  Har ek sher e dilwar bichadne waala hai
+  Har ek sher-e-dilawar bichadne waala hai
   Mere safeene ka langar bichadne waala hai
   Ke mujhse mera baradar bichadne waala hai
   
   3
-  Jawan pisar ka janaza mai kal uthaunga
+  Jawan pisar ka janaaza main kal uthaunga
   Gham o alam se zaeefi mein ladkhadaunga
-  Zaroor aana mai amma tumhe bulaunga
+  Zarur aana main amma tumhe bulaunga
   
   4
   Dahum ki subha ko ran aisa padne waala hai
@@ -38,7 +39,7 @@ romanLyrics: |-
   Sitamgaron ke tamacho se tum bacha lena
   
   6
-  Tumhare chand ko gherenge shaam ke haale
+  Tumhare chaand ko ghereṅge Shaam ke haale
   Mere badan pe lagayenge zulm ke bhaale
   Ke mujh pe toot padenge ye barchiyon waale
   
@@ -48,13 +49,13 @@ romanLyrics: |-
   Lahoo mein doob ke baysheer muskurayega
   
   8
-  Har ek simt se barsenge mujh pe teer o sina
+  Har ek simt se barseṅge mujh pe teer o sinaṅ
   Gulu e khushk se hoga yahin pe khoon rawan
   Mera mazaar banega isi jagah amma
   
   9
   Abhi to quwwate dil mujhko aazmani hai
-  Abhi to mayyat e akbar mujhe uthaani hai
+  Abhi to mayyat-e-Akbar mujhe uthaani hai
   Abhi to turbat e baysheer bhi banani hai
   
   10
@@ -95,13 +96,13 @@ romanLyrics: |-
 
 ۶
 تمہارے چاند کو گھیریں گے شام کے حالے
-میرے بدن پہ لگاےنگے ظلم‌ کے بھالے
+میرے بدن پہ لگائیں گے ظلم‌ کے بھالے
 کہ مجھ پہ ٹوٹ پڑیں گے یہ برچیوں والے
 
 ۷
-ابھی تو جھولے سے اصغر بھی رن کو جاے گا
-اپنے باپ کے ہاتھوں پہ تیر کھاۓگا
-لہو میں ڈوب کے بے شیر مسکراے گا
+ابھی تو جھولے سے اصغر بھی رن کو جائے گا
+اپنے باپ کے ہاتھوں پہ تیر کھائے گا
+لہو میں ڈوب کے بے شیر مسکرائے گا
 
 ۸
 ہر ایک سمت سے برسیں گے مجھ پہ تیر و سناں
@@ -109,7 +110,7 @@ romanLyrics: |-
 میرا مزار بنے گا اسی جگہ اماں
 
 ۹
-ابھی تو قوت دل مجھکو آزمانی ہے
+ابھی تو قوت دل مجھ کو آزمانی ہے
 ابھی تو میت اکبر مجھے اٹھانی ہے
 ابھی تو تربت بے شیر بھی بنانی ہے
 

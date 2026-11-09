@@ -6,16 +6,18 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aakhri azan to sunli
+  Aakhri azaan to sun li
   Amma achi meri amma
-  Seene se lagalo marne ki riza do
+  Seene se laga lo marne ki riza do
+  Amma achi meri amma
 
   1
-  Ay amma phuphi jaan ke do laal sidhaare
+  Ae amma phuphi jaan ke do laal sidhaare
   Darya ke kanare
   Tum apne jawan laal ko shabbir pe waaro
 
@@ -27,11 +29,11 @@ romanLyrics: |-
   3
   Wo dekho suye dashte bala maadar-e-muztar
   Ghayre hai sitamgar
-  Kya baap ki nusrat na karoo mujko bata do
+  Kya baap ki nusrat na karuṅ mujko bata do
 
   4
   Maana ke nahi bete ki furqat koi aasan
-  Par kya karoo amma
+  Par kya karuṅ amma
   Ye sabr ki manzil hai zara dil ko sambhalo
 
   5
@@ -42,10 +44,10 @@ romanLyrics: |-
   6
   Kya tum ko gawara hai ke zinda rahe beta
   Aur qatl ho baba
-  Mai is liye kehta hoo na jeene ki saza do
+  Main is liye kehta huṅ na jeene ki saza do
 
   7
-  Tadpogi shab-o-roz meri yaad mein har dam
+  Tarpogi shab o roz meri yaad mein har dam
   Kerte huwe matam
   Ek baar mujhe apne kaleje se laga lo
 
@@ -60,6 +62,7 @@ romanLyrics: |-
 آخری اذان تو سُن لی
 اماں اچھی میری اماں
 سینے سے لگا لو مرنے کی رضا دو
+اماں اچھی میری اماں
 
 ۱
 اے اماں پھُوپھی جان کے دو لال سدھارے

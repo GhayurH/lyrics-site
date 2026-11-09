@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -29,13 +30,13 @@ romanLyrics: |-
   Bejaan mere jism kyon dil dhadakta hai
 
   3
-  Ay amma jab se baba se mai door hogayi
+  Ae amma jab se Baba se main dur ho gayi
   Ye zindagi mere liye nasoor hogayi
   Par kya karoon naseeb se majboor hogayi
   Hijre padar se seene mein ek dard uth'ta hai
 
   4
-  Kaante pade hai halq mein ay amma pyaas se
+  Kaante pare hain halq mein ae amma pyaas se
   Darti hoo jhonka guzre hawa ka jo paas se
   Neendh udgayi hai ankhon se khauf-o-hiraas se
   Rone pe mere shimr-e-layeen kyon jhidakta hai
@@ -43,7 +44,7 @@ romanLyrics: |-
   5
   Asghar ke baad pani piyoo mai nahi nahi
   Ammu ke baad zinda rahoo mai nahi nahi
-  Faryad kuch shaqi se karoon mai nahi nahi
+  Faryaad kuch shaqi se karuṅ main nahi nahi
   Pani mein aqse chehra e asghar jhalakta hai
 
   6
@@ -65,7 +66,8 @@ romanLyrics: |-
   Reh reh ke ek sawaal mere dil mein uth'ta hai
 
   9
-  Jao nadeem sarwar-o-rehaan ek baar
+  Jao Nadeem Sarwar o Rehaan ek baar
+  Zindan-e-Shaam mein jahaṅ Bibi ka hai mazaar
   Raaton ko dheemi dheemi si aati hai ek pukaar
   Kaano se mere khoon abhi bhi tapakta hai
 # source_id: nohayonline:6f12ff7bddfe217e229e
@@ -87,19 +89,19 @@ romanLyrics: |-
 ۲
 کانوں کا خون آنکھوں کے آنسو سے مل گیا
 ہر زخم پھول بن کے بدن پر ہے کھِل گیا
-بابا کو ڈھونڈلائوکے سینے سے دل گیا
-بے جان میرے جسم میں کیوں دل ڈھرکتا ہے
+بابا کو ڈھونڈ لاؤ کہ سینے سے دل گیا
+بے جان میرے جسم میں کیوں دل دھڑکتا ہے
 
 ۳
-اے اماں جب سے بابا سے میںدُور ہوگئی
+اے اماں جب سے بابا سے میں دور ہو گئی
 یہ زندگی میرے لئے ناسُور ہوگئی
 پر کیا کروں نصیب سے مجبور ہو گئی
-ہجرِپدر سے سینے میں اک درد اُٹھتا ہے
+ہجرِ پدر سے سینے میں اک درد اُٹھتا ہے
 
 ۴
 کانٹے پڑے ہیں حلق میں اے اماں پیاس سے
-ڈر تی ہوں جھونکا گزرے ہوا کا جو پاس سے
-نیند اُڑگئی ہے آنکھوں سے خوف و ہراس سے
+ڈرتی ہوں جھونکا گزرے ہوا کا جو پاس سے
+نیند اڑ گئی ہے آنکھوں سے خوف و ہراس سے
 رونے پہ میرے شمرِ لعیں کیوں جھڑکتا ہے
 
 ۵
@@ -115,7 +117,7 @@ romanLyrics: |-
 دامن تو جل چکا ہے میرا دل ُسلگتا ہے
 
 ۷
-کونین میںیہ کیسا ہے قانون پوچھیئے
+کونین میں یہ کیسا ہے قانون پوچھیئے
 مرنے کے بعد مجھ کو رہائی نہیں ملے
 یہ کیسی قید ہے کہ لحد بھی یہیں بنے
 قیدی کبھی تو قید سے گھر کو پلٹتا ہے
@@ -127,6 +129,7 @@ romanLyrics: |-
 رہ رہ کہ اک سوال میرے دل میں اُٹھتا ہے
 
 ۹
-جائو ندیم سرور و ریحان ایک بار
+جاؤ ندیم سرور و ریحان ایک بار
+زندانِ شام میں جہاں بی بی کا ہے مزار
 راتوں کو دھیمی دھیمی سی آتی ہے ایک پُکار
 کانوں سے میرے خون ابھی بھی ٹپکتا ہے

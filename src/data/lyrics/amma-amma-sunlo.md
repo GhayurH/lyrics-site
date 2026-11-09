@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anjuman-e-Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -32,9 +33,9 @@ romanLyrics: |-
   Phir bhi na bach saka jab maqtal mein bhai amma
   
   5
-  Dulha tha ibne shabbar aur binte shaah dulhan
+  Dulha tha Ibn-e-Shabbar aur binte shaah dulhan
   Pamaal hogaya jab dulha ka phool sa tan
-  Haathon se mai dulhan ko bewa banayi amma
+  Haathoṅ se main dulhan ko bewa banayi amma
 # source_id: nohayonline:6c67b2b8663f9cebde2d
 # source_url: https://www.nohayonline.com/details_content.php?id=3763
 # raw_sha256: b29596334b2d0bfa973b6c50b4cbb4a77420b27b7cbd910329d4ad451674505d
@@ -43,26 +44,26 @@ romanLyrics: |-
 اماں اماں سن لو دہائی اماں
 
 ۱
-رنج و غم و مصیبت کیا کیا اٹھای اماں
-کربوبلا میں اجڑی تیری کمای اماں
-سوغات ایک سفر سے بیٹی یہ لای اماں
+رنج و غم و مصیبت کیا کیا اٹھائی اماں
+کربوبلا میں اجڑی تیری کمائی اماں
+سوغات ایک سفر سے بیٹی یہ لائی اماں
 
 ۲
 مرقد پہ فاطمہ کی زینب نے کہا رو کر
-کربوبلا کے بن میں بھای کو اپنے کھو کر
-لٹ کر سفر سے آی یہ تیری جای اماں
+کربوبلا کے بن میں بھائی کو اپنے کھو کر
+لٹ کر سفر سے آئی یہ تیری جائی اماں
 
 ۳
 بازو پہ ریسماں کے دیکھو نشاں ہیں ابھرے
 زخمی ہے پشت میری سینے میں دل ہے ٹکڑے
-اشکوں کے بدلے خوں کے آنسوں بہای اماں
+اشکوں کے بدلے خوں کے آنسو بہائے اماں
 
 ۴
 میرے وہ دونوں پیارے آنکھوں کے تھے وہ تارے
-بھای پہ دونوں بچے صدقے میں تھے اتارے
-پھر بھی نہ بچ سکا جب مقتل میں بھای اماں
+بھائی پہ دونوں بچے صدقے میں تھے اتارے
+پھر بھی نہ بچ سکا جب مقتل میں بھائی اماں
 
 ۵
 دولہا تھا ابن شبر اور بنت شاہ دلہن
 پامال ہو گیا جب دولہا کا پھول سا تن
-ہاتھوں سے میں دلہن‌ کو بیوہ بنای اماں
+ہاتھوں سے میں دلہن کو بیوہ بنائی اماں
