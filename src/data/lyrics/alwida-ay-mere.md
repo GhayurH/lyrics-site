@@ -6,13 +6,15 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Waqt e aakhir tha hyder ka nauha
-  Alvida ay mere soghwaro
-  Chod kar jaa raha hoo mai dunya
+  Waqt-e-aakhir tha Haider ka nauha
+  Alvida ae mere sogwaaroṅ
+  Chhor kar ja raha huṅ main dunya
+  Alvida ae mere sogwaaroṅ
 
   1
   Meri mayyat ko kaandha lagana
@@ -20,7 +22,7 @@ romanLyrics: |-
   Dhyaan rakhna hussain o hassan ka
 
   2
-  Ay hussain o hassan paas aao
+  Ae Husain o Hasan paas aao
   Mere nazdeek abbas aao
   Mere seene se lag jao beta
 
@@ -45,7 +47,7 @@ romanLyrics: |-
   Dekh kar mujhko roti thi zehra
 
   7
-  Sehme sehme hussain o hassan thay
+  Sehme sehme Husain o Hasan the
   Khoon e maadar se tar gulbadan thay
   Kya bataun jo tha haal mera
 
@@ -70,6 +72,7 @@ romanLyrics: |-
 وقتِ آخر تھا حیدر کا نوحہ
 الوداع اے میرے سوگواروں
 چھوڑ کر جا رہا ہوں میں دنیا
+الوداع اے میرے سوگواروں
 
 ۱
 میری میت کو کاندھا لگانا
@@ -93,13 +96,13 @@ romanLyrics: |-
 
 ۵
 میں نے دیکھا ہے زہرا کا رونا
-آگ کی ضد پہ محسن کو کھونا
+آگ کی زد پہ محسن کو کھونا
 سہ نہ پایا میں اب تک وہ صدمہ
 
 ۶
 جب گلے میں رسن بندھ رہی تھی
 میرے نزدیک زینب کھڑی تھی
-دیکھ کر مجھکو روتی تھی زہرا
+دیکھ کر مجھ کو روتی تھی زہرا
 
 ۷
 سہمے سہمے حسین و حسن تھے
@@ -112,11 +115,11 @@ romanLyrics: |-
 سب سے مل مل کے کہتے تھے مولا
 
 ۹
-رو کے کہتے تھی شاہ مدینہ
+رو کے کہتے تھے شاہِ مدینہ
 منہ کو آتا ہے میرا کلیجہ
 تم کو میری قسم اب نہ کہنا
 
 ۱۰
-گونجتی تھی یہ آصف صداییں
-لینے آتی ہے زینب بلاییں
+گونجتی تھیں یہ آصف صدائیں
+لینے آتی ہے زینب بلائیں
 لب پہ مولا کے عامر تھا نوحہ
