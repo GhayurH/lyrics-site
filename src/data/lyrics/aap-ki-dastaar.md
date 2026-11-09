@@ -5,47 +5,48 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tar khun se hai aap ki dastar ya Ali
-  Sar par chali hai aap ke talwar ya Ali
+  Tar khuṅ se hi aap ki dastaar ya Ali
+  Sar par chali hai aap ke talwaar ya Ali
 
   1
-  Zarbat lagi hai aisi ke rukta nahi lahoo
-  Lagta hai jaise aap ne khun se kiya wuzu
-  Rukti nahi hai khoon ki raftaar ya Ali
+  Zarbat lagi hai aisi ke rukta nahiṅ lahu
+  Lagta hai jaise aap ne khuṅ se kiya wuzu
+  Rukti nahiṅ hai khun ki raftaar ya Ali
 
   2
-  Mahshar bapa hai Kufe ki galiyon mein haye haye
-  Shor o buka hai Kufe ki galiyon mein haye haye
-  Bewaon aur yateemon ke ghamkhwar ya Ali
+  Mahshar bapa hai Kufe ki galiyoṅ mein haye haye
+  Shor o buka hai Kufe ki galiyoṅ mein haye haye
+  Bewaaoṅ aur yatimoṅ ke ghamkhwaar ya Ali
 
   3
-  Matam bapa hai aap ke arsh o zameen par
-  Hai kainat sog mein Jibrail nauha gar
-  Hai aap ka zamana azadar ya Ali
+  Maatam bapa hai aap ke arsh o zamin par
+  Hai kaainaat sog mein Jibril nauha gar
+  Hai aap ka zamaana azaadaar ya Ali
 
   4
-  Mahv-e-buka hai zainab e dilgir ya Ali
-  Karte hain bain Shabbar o Shabbir ya ali
+  Mahv-e-buka hai Zainab-e-dilgir ya Ali
+  Karte haiṅ bain Shabbar o Shabbir ya Ali
   Rota hai sar jhukaye Alamdar ya Ali
 
   5
-  Ahl-e-haram ke bain se larza hai aasman
-  Abbas matami hai to Kulsoom nauhakhan
+  Ahl-e-haram ke bain se larza hai aasmaaṅ
+  Abbas maatami hai to Kulsum nauhakhwaaṅ
   Karbobala hai aaj se tayyar ya Ali
 
   6
   Aati hai ye Baqia se awaaz-e-Fatima
-  Bachchon ke sar par aap ka saaya nahi raha
-  Larzi e ahmed e Mukhtar ya Ali
+  Bachchoṅ ke sar par aap ka saaya nahiṅ raha
+  Larzi e Ahmad-e-Mukhtaar ya Ali
 
   7
-  Farsh-e-aza bicha hai hua matam-e-Ali
-  Safar hua jahan mein barpa gham-e-Ali
-  Mahv-e-buka hai aap ke hubdar ya Ali
+  Farsh-e-aza bichha hai hua maatam-e-Ali
+  Safar hua jahaan mein barpa gham-e-Ali
+  Mahv-e-buka hai aap ke hubdaar ya Ali
 # source_id: nohayonline:ce8786b3056f78f9f75f
 # source_url: https://www.nohayonline.com/details_content.php?id=2272
 # raw_sha256: 3c9dac339d23fae95eea1a59cba7f0919aa4ed6c786b50f681c834c290f547fc
@@ -59,8 +60,8 @@ romanLyrics: |-
 رکتی نہیں ہے خون کی رفتار یا علی
 
 ۲
-محشر بپا ہے کوفے کی گلیوں میں ہاے ہاے
-شور و بکا ہے کوفے کی گلیوں میں ہاے ہاے
+محشر بپا ہے کوفے کی گلیوں میں ہائے ہائے
+شور و بکا ہے کوفے کی گلیوں میں ہائے ہائے
 بیواؤں اور یتیموں کے غم خوار یا علی
 
 ۳
@@ -74,7 +75,7 @@ romanLyrics: |-
 روتا ہے سر جھکائے علمدار یا علی
 
 ۵
-أہل حرم کے بین سے لرزا ہے آسماں
+اہل حرم کے بین سے لرزا ہے آسماں
 عباس ماتمی ہے تو کلثوم نوحہ خواں
 کربوبلا ہے آج سے تیار یا علی
 

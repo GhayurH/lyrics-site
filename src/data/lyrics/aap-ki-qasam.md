@@ -1,80 +1,87 @@
 ---
-title: "سر کو جھکاے کہتے ہیں زینب کے یہ پسر"
+title: "سر کو جھکائے کہتے ہیں زینب کے یہ پسر"
 alternateTitle: "Aap Ki Qasam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sar ko jhukaye kehte hain Zainab ke ye pisar
-  Aap ki qasam amma aap ki qasam
-  Sharminda hone denge na hum tumko umr bhar
-  Ae Aun o Muhammad
+  Sar ko jhukaye kehte haiṅ Zainab ke ye pisar
+  Aap ki qasam ammaaṅ aap ki qasam
+  Sharminda hone deṅge na hum tumko umr bhar
+  Aap ki qasam ammaaṅ aap ki qasam
+  Ae Aun o Muhammad Ae Aun o Muhammad
+  Ae Aun o Muhammad Ae Aun o Muhammad
+  Aap ki qasam ammaaṅ aap ki qasam
 
   1
-  Pehle tumhare laadle maqtal ko jayenge
-  Nusrat mein Shah-e-Din ki hum sar katayenge
-  Hum dono ke bhi dasht mein paogi tum ye sar
+  Pehle tumhare laadle maqtal ko jayeṅge
+  Nusrat mein Shah-e-Din ki hum sar katayeṅge
+  Hum donoṅ ke bhi dasht mein paaogi tum ye sar
 
   2
-  Amma hum apne mamu pe qurban jayenge
-  Waada hai jo kaha hai wo kar ke dikhayenge
-  Haathon ko rakh ke haathon pe kehte thay ye pisar
+  Ammaaṅ hum apne mamu pe qurbaan jayeṅge
+  Waada hai jo kaha hai wo kar ke dikhayeṅge
+  Haathoṅ ko rakh ke haathoṅ pe kehte the ye pisar
 
   3
-  Khaibar ki yaad phir se dilaaun lainon ko
-  Nana ki shaane jang dikhaun lainon ko
-  Bhaagenge aada dasht se phir peet phayr kar
+  Khaibar ki yaad phir se dilaauṅ lainoṅ ko
+  Nana ki shaan-e-jang dikhaauṅ lainoṅ ko
+  Bhaageṅge aada dasht se phir pit pher kar
 
   4
-  Rakhenge tere sheer ki izzat abhi yahan
-  Pehnenge dono taj-e-shahadat abhi yahan
-  Apne lahoo mein dono nahayenge tar ba tar
+  Rakheṅge tere shir ki izzat abhi yahaaṅ
+  Pehneṅge donoṅ taaj-e-shahaadat abhi yahaaṅ
+  Apne lahu mein donoṅ nahayeṅge tar ba tar
 
   5
-  Dam kar de parh ke Nad-e-Ali ruqsati ke waqt
+  Dam kar de parh ke Naad-e-Ali rukhsati ke waqt
   Jaane lage qaza ke liye zindagi ke waqt
-  Waada kiya jo maa se to aaya ye honton par
+  Waada kiya jo maaṅ se to aaya ye hontoṅ par
 
   6
-  Kausar ke jaam nana pilayenge khuld mein
-  Seene se hum ko dada lagayenge khuld mein
-  Lenge hum unse dad-e-shujaat bhi arsh par
+  Kausar ke jaam nana pilayeṅge khuld mein
+  Sine se hum ko dada lagayeṅge khuld mein
+  Leṅge hum unse daad-e-shujaat bhi arsh par
 
   7
-  Amma dua karo ke pisar kaamiyab ho
-  Karbobala mein nur-e-nazar kaamiyab ho
-  Jhukne na denge tera kabhi sharm se ye sar
+  Ammaaṅ dua karo ke pisar kaamiyaab ho
+  Karbobala mein nur-e-nazar kaamiyaab ho
+  Jhukne na deṅge tera kabhi sharm se ye sar
 
   8
-  Dushman ke sar kaat ke lao to khush hun main
-  Karbobala mein tegh chalao to khush hun main
-  Taaqeed maa ne ki thi to nikle ye bol kar
+  Dushman ke sar kaat ke laao to khush huṅ main
+  Karbobala mein tegh chalaao to khush huṅ main
+  Taakid maaṅ ne ki thi to nikle ye bol kar
 
   9
-  Aamir o Shams dekho ye tareekh ne likha
-  Maa ki lehad pe jaake ye zainab ne phir kaha
-  Apne jigar ke tukdon ko royi na umr bhar
+  Aamir o Shams dekho ye taarikh ne likha
+  Maaṅ ki lahad pe jaa ke ye Zainab ne phir kaha
+  Apne jigar ke tukroṅ ko royi na umr bhar
 # source_id: nohayonline:c3a5484d76aa6e208ae9
 # source_url: https://www.nohayonline.com/details_content.php?id=2434
 # raw_sha256: e31a4bbb3e06c2b543c3b7af5dfbf29cc721080cb4183e69134d86c06867de5c
 ---
-سر کو جھکاے کہتے ہیں زینب کے یہ پسر
+سر کو جھکائے کہتے ہیں زینب کے یہ پسر
 آپ کی قسم اماں آپ کی قسم
-شرمندہ ہونے دینگے نہ ہم تم کو عمر بھر
-اے عون و محمد
+شرمندہ ہونے دیں گے نہ ہم تم کو عمر بھر
+آپ کی قسم اماں آپ کی قسم
+اے عون و محمد اے عون و محمد
+اے عون و محمد اے عون و محمد
+آپ کی قسم اماں آپ کی قسم
 
 ۱
-پہلے تمہارے لاڈلے مقتل کو جایینگے
-نصرت میں شاہ دین کی ہم سر کٹاییں گے
+پہلے تمہارے لاڈلے مقتل کو جائیں گے
+نصرت میں شاہِ دین کی ہم سر کٹائیں گے
 ہم دونوں کے بھی دشت میں پاؤ گی تم یہ سر
 
 ۲
-اماں ہم اپنے مامو پہ قربان جاینگے
+اماں ہم اپنے مامو پہ قربان جائیں گے
 وعدہ ہے جو کہا ہے وہ کر کے دکھائیں گے
 ہاتھوں کو رکھ کے ہاتھوں پہ کہتے تھے یہ پسر
 
@@ -85,17 +92,17 @@ romanLyrics: |-
 
 ۴
 رکھیں گے تیرے شیر کی عزت ابھی یہاں
-پہنیں گے دونوں تاج شہادت ابھی یہاں
-اپنے لہو میں دونوں نہاییں گے تر بہ تر
+پہنیں گے دونوں تاجِ شہادت ابھی یہاں
+اپنے لہو میں دونوں نہائیں گے تر بہ تر
 
 ۵
-دم‌ کر دے پڑھ کے ناد علی رخصتی کے وقت
+دم کر دے پڑھ کے نادِ علی رخصتی کے وقت
 جانے لگے قضا کے لئے زندگی کے وقت
 وعدہ کیا جو ماں سے تو آیا یہ ہونٹوں پر
 
 ۶
-کوثر کے جام نانا پلاینگے خلد میں
-سینے سے ہم کو دادا لگایینگے خلد میں
+کوثر کے جام نانا پلائیں گے خلد میں
+سینے سے ہم کو دادا لگائیں گے خلد میں
 لیں گے ہم ان سے داد شجاعت بھی عرش پر
 
 ۷

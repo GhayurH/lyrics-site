@@ -6,101 +6,104 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek roz Madine waalon ne
+  Ek roz Madine waaloṅ ne
   Haider se kaha Zehra se kahe
   Wo raat mein mehlan ro le ya
-  Baba ke liye din mein role
+  Baba ke liye din mein ro le
   Ye baat Ali ne batlaayi
   Jab Fatima Zehra ko aa kar
-  Boli Zehra main ro lungi
-  Ab ghar se door kahin jaa kar
+  Boli Zehra main ro luṅgi
+  Ab ghar se dur kahiṅ jaa kar
   Ye sunke Madine se baahar
   Ek Baitul-Huzn banaya gaya
-  Jahan baith ke Zehra roti thi
+  Jahaaṅ baith ke Zehra roti thi
   Aur ro ro ke ye kehti thi
   Haye baba aap ke baad na soyi Zehra
   Bas roti rahi haye wavaila wavaila
 
   1
   Jis ghadi jalta hua mujhpe wo darwaza gira
-  Pasliyan tut gayi pehlu shakista bhi hua
+  Pasliyaaṅ tut gayiṅ pehlu shakista bhi hua
   Tumhari ye beti sada de rahi thi
-  Haye maara gaya mohsin
+  Haye maara gaya Mohsin
 
   2
   Baba tum jab se gaye ho gayi tanha Zehra
-  Aap ki yaad mein jab ghar mein bicha farsh e aza
+  Aap ki yaad mein jab ghar mein bichha farsh-e-aza
   Isi gham mein royi yatimi mein koi
-  Dene nahi aaya hausla
+  Dene nahiṅ aaya hausla
 
   3
   Kaash wo waqt kabhi mujhpe na aata baba
   Maine Haider ka gala rassi mein dekha baba
-  Gayi jab bachane lagay taaziyane
+  Gayi jab bachane lage taaziyaane
   Aur haath mera zakhmi hua
 
   4
-  Baba ek maa ka liye waqt bahot mushkil tha
+  Baba ek maaṅ ka liye waqt bahut mushkil tha
   Ek zaalim ne mere rukh pe tamacha maara
-  Chupaati thi chehra Hasan dekhta tha
+  Chhupaati thi chehra Hasan dekhta tha
   Jab surkh huwa chehra
 
   5
-  Mere aane pe jahan aap bhi uth jaate thay
+  Mere aane pe jahaaṅ aap bhi uth jaate the
   Wohi darbar tha aur saamne sab baithe rahe
   Akeli khadi thi Fadak mangti thi
   Afsos mujhe haq na mila
 
   6
   Sirf atharah baras mein ye mera aalam hai
-  Dekho baalon mein safedi hai kamar bhi kham hai
-  Zaeefa hai ab to mera haal dekho
-  Main thaam ke chalti hun asa
+  Dekho baaloṅ mein safedi hai kamar bhi kham hai
+  Zaeefi hai ab to mera haal dekho
+  Main thaam ke chalti huṅ asa
 
   7
   Ro ke Zeeshan yehi kehta hai Irfan-e-aza
-  Cheen kar saaya layeen ne wo shajar kaat diya
-  Jahan baith'ti thi bas ab dhup mein bhi
-  Honton pe yehi tha marsiya
+  Chhin kar saaya laiṅ ne wo shajar kaat diya
+  Jahaaṅ baithti thi bas ab dhup mein bhi
+  Hontoṅ pe yehi tha marsiya
 # source_id: nohayonline:edfb2686d114612e7356
 # source_url: https://www.nohayonline.com/details_content.php?id=1012
 # raw_sha256: 1d61fc09b2c026f20e0f6211f1996719bd312509ca295b868c4c387c518e8488
+# overlapping_source_url: https://tajpoints.com/2022/12/haye-baba-aap-ke-bad-na-soyi-zahra.html
+# overlapping_source_id: tajpoints:cd5490943c5d9f86eaa8
 ---
 اک روز مدینے والوں نے
 حیدر سے کہا زہرا سے کہے
 وہ رات میں مہلت رو لے یا
-بابا کے لئے دن میں رولے
-یہ بات علی نے بتلای
+بابا کے لئے دن میں رو لے
+یہ بات علی نے بتلائی
 جب فاطمہ زہرا کو آ کر
-بولی زہرا میں رولوں گی
+بولی زہرا میں رو لوں گی
 اب گھر سے دور کہیں جا کر
 یہ سن کے مدینے سے باہر
 اک بیت الحزن بنایا گیا
 جہاں بیٹھ کے زہرا روتی تھی
 اور رو رو کے یہ کہتی تھی
-ہاے بابا آپ کے بعد نہ سوی زہرا
-بس روتی رہی ہاے واویلا واویلا
+ہائے بابا آپ کے بعد نہ سوئی زہرا
+بس روتی رہی ہائے واویلا واویلا
 
 ۱
 جس گھڑی جلتا ہوا مجھ پہ وہ دروازہ گرا
-پسلیاں ٹوٹ گیء پہلو شکستہ بھی ہوا
+پسلیاں ٹوٹ گئیں پہلو شکستہ بھی ہوا
 تمہاری یہ بیٹی صدا دے رہی تھی
-ہاے مارا گیا محسن
+ہائے مارا گیا محسن
 
 ۲
-بابا تم جب سے گےء ہوگیء تنہا زہرا
-آپکی یاد میں جب گھر میں بچھا فرش عزا
-اسی غم میں روی یتیمی میں کوی
+بابا تم جب سے گئے ہو گئی تنہا زہرا
+آپ کی یاد میں جب گھر میں بچھا فرشِ عزا
+اسی غم میں روئی یتیمی میں کوئی
 دینے نہیں آیا حوصلہ
 
 ۳
 کاش وہ وقت کبھی مجھ پہ نہ آتا بابا
 میں نے حیدر کا گلا رسی میں دیکھا بابا
-گیء جب بچانے لگے تازیانے
+گئی جب بچانے لگے تازیانے
 اور ہاتھ میرا زخمی ہوا
 
 ۴
