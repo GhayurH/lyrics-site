@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Ek ghamzada ka aa gaya maqtal mein jab khayal
   Sughra ka haal soch ke barhne laga malal
-  Aur phir ukhartī saṅs mein hamshir ke liye
+  Aur phir ukharti saṅs mein hamshir ke liye
 
   6
   Yehi tha gham ke chadareṅ chhineṅge ashqiya
