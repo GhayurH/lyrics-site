@@ -5,74 +5,75 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aao matam karein aao matam karein
-  Zeb-e-farsh-e-aza ho gayi sayyeda
+  Aao matam kareiṅ aao matam kareiṅ
+  Zeb-e-farsh-e-aza ho gayi Sayyeda
 
   1
-  Aansuon ki rida rukh pe daale huwe
+  Aansuoṅ ki rida rukh pe daale huwe
   Aakhri hichki ye dil sambhale huwe
-  Gham ki tehzib mein khud ko dhaale huwe
-  Tum ho sadiyon se ye dard paale huwe
+  Gham ki tehzib meiṅ khud ko dhaale huwe
+  Tum ho sadiyoṅ se ye dard paale huwe
   Zinat-e-lab rahe zikr-e-Karbobala
 
   2
-  Rok sakta nahi jabr dena tumhe
-  Hai payambar ka haasil wasila tumhein
-  Daad deti hai jannat se Zehra tumhein
-  Haq ne baksha hai gham ka saliqa tumhein
+  Rok sakta nahiṅ jabr dena tumheiṅ
+  Hai Payambar ka haasil wasila tumheiṅ
+  Daad deti haiṅ jannat se Zehra tumheiṅ
+  Haq ne bakhsha hai gham ka saliqa tumheiṅ
   Ruh ka faisla zehan o dil ki sada
 
   3
-  Shamiyon ke sitam bhool sakte nahi
-  Sabr-e-Shah-e-Umam bhool sakte nahi
-  Dastan-e-alam bhool sakte nahi
-  Aal-e-Ahmad ka gham bhool sakte nahi
-  Daman-e-ruh par naqsh hai karbala
+  Shamiyoṅ ke sitam bhul sakte nahiṅ
+  Sabr-e-Shah-e-Umam bhul sakte nahiṅ
+  Dastan-e-alam bhul sakte nahiṅ
+  Aal-e-Ahmad ka gham bhul sakte nahiṅ
+  Daman-e-ruh par naqsh hai Karbala
 
   4
-  Laash Qasim ki tukde huwi dasht mein
-  Qalb-e-Akbar pa barchi lagi dasht mein
-  Nanhe Asghar ki gardan chidi dasht mein
-  Ho gaye qatl Abbas bhi dasht mein
-  Lut gaya dasht mein gulshan-e-Fatima
+  Laash Qasim ki tukre huwi dasht meiṅ
+  Qalb-e-Akbar pe barchhi lagi dasht meiṅ
+  Nanhe Asghar ki gardan chhidi dasht meiṅ
+  Ho gaye qatl Abbas bhi dasht meiṅ
+  Lut gaya dasht meiṅ gulshan-e-Fatima
 
   5
-  Chur zakhmon se hai Fatima ka pisar
-  Hai jabeen sajda-e-Haq mein kham farsh par
-  Kund khanjar se kat'ta hai pyase ka sar
-  Khoon chehre pe malte hain Khair-ul-Bashar
-  Az zameen ta falak ab hai shore buka
+  Chur zakhmoṅ se hai Fatima ka pisar
+  Hai jabiṅ sajda-e-Haq meiṅ kham farsh par
+  Kund khanjar se katta hai pyase ka sar
+  Khun chehre pe malte haiṅ Khair-ul-Bashar
+  Az zamiṅ ta falak ab hai shor-e-buka
 
   6
-  Ab padar ko Sakina kahan payegi
-  Kis ke seene pe bachi ko neend aayegi
-  Yaad baba jab aayenge ghabrayegi
-  Nargha-e-ahl-e-shar hai kahan jayegi
-  Dher lashon ke hai khoon hai bikhra huwa
+  Ab padar ko Sakina kahaṅ payegi
+  Kis ke sine pe bachchi ko nind aayegi
+  Yaad baba jab aayeṅge ghabrayegi
+  Nargha-e-ahl-e-shar hai kahaṅ jayegi
+  Dher laashoṅ ke haiṅ khun hai bikhra huwa
 
   7
-  Gham naseebo ke qaime jalaye gaye
+  Gham nasiboṅ ke khaime jalaye gaye
   Farsh par arsh waale bithaye gaye
-  Ek bachi ko durre lagaye gaye
+  Ek bachchi ko durre lagaye gaye
   Jitne mumkin thay sab zulm dhaye gaye
-  Ek bemaar aahan mein jakra gaya
+  Ek bimar aahan meiṅ jakra gaya
 
   8
   Aal ka gham magar juzv-e-iman hai
-  Ashq aayat hai dard Quran hai
+  Ashk aayaat haiṅ dard Quran hai
   Hashr ka marhala kitna aasan hai
-  Daagh-e-matam hi bakshish ka saaman hai
-  Jazb kar lo usi ashq mein karbala
+  Daagh-e-matam hi bakhshish ka saaman hai
+  Jazb kar lo usi ashk meiṅ Karbala
 # source_id: nohayonline:316be3148e601ee6d9fd
 # source_url: https://www.nohayonline.com/details_content.php?id=105
 # raw_sha256: bd906af1c3fd79a45a78e16f073dc84a60ca2dd37bd1f5eec4412a1fc7ddc678
 ---
 آؤ ماتم کریں آؤ ماتم کریں
-زیب فرش عزا ہوگیء سیدہ
+زیبِ فرشِ عزا ہو گئی سیدہ
 
 ۱
 آنسوؤں کی ردا رخ پہ ڈالے ہوئے
@@ -86,7 +87,7 @@ romanLyrics: |-
 ہے پیمبر کا حاصل وسیلہ تمہیں
 داد دیتی ہیں جنت سے زہرہ تمہیں
 حق نے بخشا ہے غم کا سلیقہ تمہیں
-روح کا فیصلہ زہن و دل کی صدا
+روح کا فیصلہ ذہن و دل کی صدا
 
 ۳
 شامیوں کے ستم بھول سکتے نہیں
@@ -96,10 +97,10 @@ romanLyrics: |-
 دامنِ روح پر نقش ہے کربلا
 
 ۴
-لاش قاسم کی ٹکڑے ہویء دشت میں
+لاش قاسم کی ٹکڑے ہوئی دشت میں
 قلب اکبر پہ برچی لگی دشت میں
 ننھے اصغر کی گردن چھدی دشت میں
-ہوگےء قتل عباس بھی دشت میں
+ہو گئے قتل عباس بھی دشت میں
 لٹ گیا دشت میں گلشن فاطمہ
 
 ۵
@@ -110,22 +111,22 @@ romanLyrics: |-
 از زمیں تا فلک اب ہے شور بکا
 
 ۶
-اب پدر کو سکینہ کہاں پاےء گی
-کس کے سینے پہ بچی کو نیند آےء گی
-یاد بابا جب آےءنگے گھبراے گی
-نرغہء اہل شر ہے کہاں جاےء گی
-ڈھیر لاشوں کے ہے خون بکھرا ہوا
+اب پدر کو سکینہ کہاں پائے گی
+کس کے سینے پہ بچی کو نیند آئے گی
+یاد بابا جب آئیں گے گھبرائے گی
+نرغۂ اہل شر ہے کہاں جائے گی
+ڈھیر لاشوں کے ہیں خون بکھرا ہوا
 
 ۷
-غم نصیبوں کے خیمے جلاے گےء
-فرش پر عرش والے بٹھاے گےء
-ایک بچی کو درے لگاے گےء
-جتنے ممکن تھے سب ظلم ڈھاے گےء
+غم نصیبوں کے خیمے جلائے گئے
+فرش پر عرش والے بٹھائے گئے
+ایک بچی کو درے لگائے گئے
+جتنے ممکن تھے سب ظلم ڈھائے گئے
 ایک بیمار آہن میں جکڑا گیا
 
 ۸
 آل کا غم مگر جزوِ ایمان ہے
-آشک آیات ہیں درد قرآن ہے
+اشک آیات ہیں درد قرآن ہے
 حشر کا مرحلہ کتنا آسان ہے
 داغ ماتم ہی بخشش کا سامان ہے
-جزب کرلو اسی آشک میں کربلا
+جذب کر لو اسی اشک میں کربلا

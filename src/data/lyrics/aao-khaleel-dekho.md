@@ -6,36 +6,37 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Jawad Jaffri"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aao Khalil dekho aaghaz hai fughan ka
-  Kandhe zaif ke par, laasha hai naujawan ka
+  Aao Khalil dekho aaghaz hai fughaṅ ka
+  Kaandhe zaif ke par, laasha hai naujawaṅ ka
 
   1
-  Thamo Khalil dil ko shayad na dekh paao
-  Hamshakl-e-Mustafa ke, sine mein phal sina ka
+  Thaamo Khalil dil ko shayad na dekh paao
+  Hamshakl-e-Mustafa ke, sine meiṅ phal sinaṅ ka
 
   2
-  Pardon mein jisko paala atharah saal Zainab
-  Do-lakht hai kaleja maqtal mein us jawan ka
+  Pardoṅ meiṅ jis ko paala atharah saal Zainab
+  Do lakht hai kaleja maqtal meiṅ us jawaṅ ka
 
   3
-  Yasin ke jigar se sheh khinchte hain barchi
-  Dil gham se phat na jaaye khaime ke dar pe maa ka
+  Yasin ke jigar se sheh khinchte haiṅ barchhi
+  Dil gham se phat na jaaye khaime ke dar pe maaṅ ka
 
   4
-  Bechain hogayi hai subh-e-Ashur Asghar
-  Andaaz hu ba hu hai Akbar teri azan ka
+  Bechain ho gayi hai subh-e-Ashur Asghar
+  Andaaz hu bahu hai Akbar teri azaṅ ka
 
   5
   Sughra se koi keh do Bibi diye bujha lo
-  Na aayega palat kar hamshakl Nana jaan ka
+  Na aayega palat kar hamshakl Nana jaṅ ka
 
   6
-  Akbar ke paak khun se rangeen hai khaak-e-Karbal
-  Rang laal hogaya hai Jawad aasman ka
+  Akbar ke paak khuṅ se rangiṅ hai khaak-e-Karbal
+  Rang laal ho gaya hai Jawad aasmaṅ ka
 # source_id: nohayonline:790ad7a2f971c5311210
 # source_url: https://www.nohayonline.com/details_content.php?id=2947
 # raw_sha256: f58eb602b1965e5e9e7604fe1c95d94218248d643d02743dbe461e60c6285436
@@ -55,16 +56,16 @@ romanLyrics: |-
 دو لخت ہے کلیجہ مقتل میں اس جواں کا
 
 ۳
-یاسین کے جگر سے شہ کھینچتے ہے برچھی
+یاسین کے جگر سے شہ کھینچتے ہیں برچھی
 دل غم سے پھٹ نہ جائے خیمے کے در پہ ماں کا
 
 ۴
-بے چین ہو گیء ہے صبحِ عاشور اصغر
+بے چین ہو گئی ہے صبحِ عاشور اصغر
 انداز ہو بہو ہے اکبر تیری اذاں کا
 
 ۵
-صغرا سے کوئی کہدو بی بی دیےء بجھالو
-نہ آے گا پلٹ کر ہمشکل نانا جاں کا
+صغرا سے کوئی کہہ دو بی‌بی دیے بجھا لو
+نہ آئے گا پلٹ کر ہمشکل نانا جاں کا
 
 ۶
 اکبر کے پاک خوں سے رنگیں ہے خاک کربل

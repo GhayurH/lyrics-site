@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,69 +14,69 @@ romanLyrics: |-
   Ali haq hai Ali haq hai Ali haq hai Ali Ali Ali
   Jidhar haq hai udhar Maula
   Jidhar Maula udhar haq hai Ali
-  Aao sab Ali Ali karein
-  Ali Wali ke naam-e-pak se agar tumhein hai pyar
-  Aao sab Ali Ali karein
+  Aao sab Ali Ali kareiṅ
+  Ali Wali ke naam-e-paak se agar tumheiṅ hai pyar
+  Aao sab Ali Ali kareiṅ
   Ali Ali Ali Ali Ali Ali Ali Ali Ali
 
   1
   Likha Ali parha Ali kaha Ali suna Ali
-  Pilaya maa ne doodh mein bas ek naam ya Ali
+  Pilaya maaṅ ne dudh meiṅ bas ek naam ya Ali
   Nagar nagar gali gali chaman chaman kali kali
-  Dono haath uthao aur dil se bolo baar baar
+  Donoṅ haath uthao aur dil se bolo baar baar
 
   2
   Malang ki sada Ali hai sab ka aasra Ali
   Kaha hai Jibrail ne faqat hai La Fata Ali
-  Zameen zameen falak falak Ali ki har jagah jhalak
-  Qalandar o malang ki zuban pe hai yehi pukar
+  Zamiṅ zamiṅ falak falak Ali ki har jagah jhalak
+  Qalandar o malang ki zubaṅ pe hai yehi pukar
 
   3
-  Ghadir aur Mubahila khuda ka ghar ho ya kisa
+  Ghadir aur Mubahila Khuda ka ghar ho ya kisa
   Nabi ke saath saath hai Ali ba-hukm-e-Kibriya
   Qadam qadam liye alam Nabi ke saath dam ba dam
-  Ali chale hain is tarha ke maan ke saath sheer khwar
+  Ali chale haiṅ is tarah ke maaṅ ke saath shir khwar
 
   4
   Khudaya kaisa mojiza Ali ke naam ko diya
   Ke jisne ya Ali kaha buland martaba hua
-  Ali ke gun jo gayega kamal e fan wo payega
-  Milegi nusrat-e-Ali to fatha hogi hamkinaar
+  Ali ke gun jo gayega kamal-e-fan wo payega
+  Milegi nusrat-e-Ali to fath hogi hamkinar
 
   5
-  Wasila-e-nijat hai shaoor e deeniyat hai
+  Wasila-e-nijat hai shuur-e-diniyat hai
   Khuda ke saath hai Ali Khuda Ali ke saath hai
   Khuda Khuda Ali Ali sada jo harf mein dhali
-  Alam Nabi ne de diya khuda ne bheji Zulfiqar
+  Alam Nabi ne de diya Khuda ne bheji Zulfiqar
 
   6
-  Nazar jo Karbala gayi to ruh tharthara gayi
-  Gale pe thi Husain ke baqa-e-din mein churi
-  Zuban zuban jigar jigar haram tamam nauhagar
-  Pukarti thi Bibiyan tamam ho ke ashk baar
+  Nazar jo Karbala gayi to ruh thar thara gayi
+  Gale pe thi Husain ke baqa-e-din meiṅ chhuri
+  Zubaṅ zubaṅ jigar jigar haram tamam nauhagar
+  Pukarti thi Bibiyaṅ tamam ho ke ashk baar
 
   7
-  Rida saron se chin gayi bacha nahi sitam koi
-  Ali ki betiyon ke jab rasan galon mein bandh gayi
-  Buka buka fughan fughan fiza ki shaam dhuan dhuan
-  Ali ki pyari betiyan pukari ho ke beqarar
+  Rida saroṅ se chhin gayi bacha nahiṅ sitam koi
+  Ali ki betiyoṅ ke jab rasan galoṅ meiṅ bandh gayi
+  Buka buka fughaṅ fughaṅ faza ki shaam dhuaṅ dhuaṅ
+  Ali ki pyari betiyaṅ pukari ho ke beqarar
 
   8
-  Alam shadeed hai bahot abhi yazeed hai bahot
-  Kiye Yazid-e-asr ne jawan shaheed hai bahot
+  Alam shadid hai bahut abhi Yazid hai bahut
+  Kiye Yazid-e-asr ne jawaṅ shahid haiṅ bahut
   Utho utho chalo chalo alam Ali ka thaam lo
-  Mita do khaak mein chalo Yazidiyon ka iqtedar
+  Mita do khaak meiṅ chalo Yazidiyoṅ ka iqtidar
 
   9
-  Asir ghamzada haram jigar ke khoon se aankh nam
-  Qadam qadam pe sakhtiyan qadam qadam naye sitam
+  Asir ghamzada haram jigar ke khuṅ se aankh nam
+  Qadam qadam pe sakhtiyaṅ qadam qadam naye sitam
   Lahu lahu dil o jigar bada ajeeb tha safar
-  Thay aabile jo paaon mein to aablon mein laakh khaar
+  The aable jo paaoṅ meiṅ to aabloṅ meiṅ laakh khaar
 
   10
   Ali ki saari zindagi munafiqat ki maut thi
-  Samajh mein jis ki aagaya ali ka tarz e zindagi
-  Nafas nafas qadam qadam ali ke ishq ki qasam
+  Samajh meiṅ jis ki aa gaya Ali ka tarz-e-zindagi
+  Nafas nafas qadam qadam Ali ke ishq ki qasam
   Imam-e-Asr ka usay Rehan hoga intezar
 # source_id: nohayonline:4e2a680355e369ac3f76
 # source_url: https://www.nohayonline.com/details_content.php?id=2585
@@ -97,7 +98,7 @@ romanLyrics: |-
 
 ۲
 ملنگ کی صدا علی ہے سب کا آسرا علی
-کہا ہے جبرییل نے فقط ہے لا فتی علی
+کہا ہے جبریل نے فقط ہے لا فتیٰ علی
 زمیں زمیں فلک فلک علی کی ہر جگہ جھلک
 قلندر و ملنگ کی زباں پہ ہے یہی پکار
 
@@ -110,36 +111,36 @@ romanLyrics: |-
 ۴
 خدایا کیسا معجزہ علی کے نام کو دیا
 کہ جس نے یا علی کہا بلند مرتبہ ہوا
-علی کے گن جو گاے گا کمال فن وہ پاے گا
+علی کے گن جو گائے گا کمال فن وہ پائے گا
 ملے گی نصرتِ علی تو فتح ہوگی ہمکنار
 
 ۵
-وسیلہء نجات ہے شعور دینیات ہے
+وسیلۂ نجات ہے شعور دینیات ہے
 خدا کے ساتھ ہے علی خدا علی کے ساتھ ہے
 خدا خدا علی علی صدا جو حرف میں ڈھلی
 علم نبی نے دے دیا خدا نے بھیجی ذوالفقار
 
 ۶
-نظر جو کربلا گیء تو روح تھر تھرا گیء
-گلے پہ تھی حسین کے بقاے دین میں چھری
+نظر جو کربلا گئی تو روح تھر تھرا گئی
+گلے پہ تھی حسین کے بقائے دین میں چھری
 زباں زباں جگر جگر حرم تمام نوحہ گر
-پکارتی تھی بی بیاں تمام ہو کے اشک بار
+پکارتی تھی بی‌بیاں تمام ہو کے اشک بار
 
 ۷
-ردا سروں سے چھن گیء بچا نہیں ستم کوئی
-علی کی بیٹیوں کے جب رسن گلوں میں بندھ گیء
+ردا سروں سے چھن گئی بچا نہیں ستم کوئی
+علی کی بیٹیوں کے جب رسن گلوں میں بندھ گئی
 بکا بکا فغاں فغاں فضا کی شام دھواں دھواں
 علی کی پیاری بیٹیاں پکاری ہو کے بیقرار
 
 ۸
 علم شہید ہے بہت ابھی یزید ہے بہت
-کےء یزید عصر نے جواں شہید ہیں بہت
+کیے یزید عصر نے جواں شہید ہیں بہت
 اٹھو اٹھو چلو چلو علم علی کا تھام لو
 مٹا دو خاک میں چلو یزیدیوں کا اقتدار
 
 ۹
-اسر غم زدہ حرم جگر کے خوں سے آنکھ نم
-قدم قدم پہ سختیاں قدم قدم نےء ستم
+اسیر غم زدہ حرم جگر کے خوں سے آنکھ نم
+قدم قدم پہ سختیاں قدم قدم نئے ستم
 لہو لہو دل و جگر بڑا عجیب تھا سفر
 تھے آبلے جو پاؤں میں تو آبلوں میں لاکھ خار
 
