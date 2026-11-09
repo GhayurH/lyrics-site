@@ -6,12 +6,13 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Allahu shaafi allahu kaafi
-  Sadqe mein maula hussain ke
+  Sadqe mein maula Husain ke
 
   1
   Ho koi maraz ya koi bala
@@ -61,13 +62,13 @@ romanLyrics: |-
 
   8
   Qurban takallum ho us par
-  Sajjad ka tha ye zakhme jigar
-  Maa behne phupi thi be-chadar
+  Sajjad ka tha ye zakhm-e-jigar
+  Maa behne phupi thi bechadar
   Bazaar mein khoon bhi rota raha
   Aur zakhmi labon se kehta raha
 
   9
-  Karbala ke baad bhi tum sayyed e sajjad ho
+  Karbala ke baad bhi tum Sayyed-e-Sajjad ho
   Doosra hota to keh deta khuda koi nahi
 # source_id: nohayonline:c5d1612d7a5bcdc312f7
 # source_url: https://www.nohayonline.com/details_content.php?id=2781
@@ -81,7 +82,7 @@ romanLyrics: |-
 کام آئے گی بس یہی صدا
 
 ۲
-ویران تھی زمین کربوبلا
+ویران تھی زمینِ کربوبلا
 شبیر کا خوں جب اس میں ملا
 یہ خاک بنی پھر خاک شفا
 اس خاک پہ واجب ہے سجدہ
@@ -90,7 +91,7 @@ romanLyrics: |-
 ۳
 مولا کی ضمانت میں دے کے
 ہم سے یہ کہا ہے ماؤں نے
-ہم خلق ہوے اس غم کے لئے
+ہم خلق ہوئے اس غم کے لئے
 شبیر کا ماتم کر بیٹا
 جی چاہے جتنا خون بہا
 
@@ -104,7 +105,7 @@ romanLyrics: |-
 ۵
 سینے میں لگی جس دم برچھی
 میدان میں قضا بھی رونے لگی
-زینب پہ قیامت تک ٹوٹ گیء
+زینب پہ قیامت ٹوٹ گئی
 اکبر نے جگر کو تھام لیا
 بہتے ہوئے خوں نے دی یہ صدا
 
@@ -116,16 +117,16 @@ romanLyrics: |-
 گھبرانا نہیں اصغر بیٹا
 
 ۷
-حالت عجب تھے غربت کے
+حالات عجب تھے غربت کے
 رخسار تھے نیلے بچی کے
-گوہر بھی لعیں نے چھین لیےء
+گوہر بھی لعیں نے چھین لیے
 کانوں سے لہو جب بہنے لگا
 زینب نے سکینہ سے یہ کہا
 
 ۸
 قربان تکلم ہو اس پر
-سجاد کا تھا یہ زخم جگر
-ماں بہنیں پھپھی تھی بے چادر
+سجاد کا تھا یہ زخمِ جگر
+ماں بہنیں پھوپھی تھیں بے چادر
 بازار میں خوں بھی روتا رہا
 اور زخمی لبوں سے کہتا رہا
 

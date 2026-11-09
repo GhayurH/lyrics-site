@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Allah o akbar ki azaan
+  Allahu Akbar ki azan
   Ye keh rahi hai dasht mein
   Ro ro ke ek maa
 
   1
   Haye haye tum na aaye
-  Ay meri aankhon ke chain
+  Ae meri aankhoṅ ke chain
   Haye wo gham das moharam
-  Aur sakina ke wo bain
+  Aur Sakina ke wo bain
   Akbar bhi sun ke ro pada
   Behno ki siskiyan
 
   2
   Kya jawani kaisa pani
   Tashnagi ki raat thi
-  Haye ay rab aakhri shab
+  Haye ae Rab aakhri shab
   Aansuon ke saath thi
   Ubhri thi haye is tarha
-  Ashoor ki azaan
+  Ashoor ki ajaan
 
   3
   Mustafa ke chaand taare
   Shaam tak gehna gaye
   Haye haye phool saare
   Kis tarha murjha gaye
-  Yun fatema ke baagh mein
+  Yun Fatima ke baagh mein
   Aati rahi khiza
 
   4
@@ -56,7 +57,7 @@ romanLyrics: |-
 
   6
   Haye akbar bola rokar
-  Ye azaan e aakhri
+  Ye ajaan e aakhri
   Sun rahe hai karbala mein
   Aaj jis tarha sabhi
   Sugra bhi kaash sun sake
@@ -68,7 +69,7 @@ romanLyrics: |-
   Dehr chode khaak odhe
   Dasht mein kho jayenge
   Qaayam rahegi hashr tak
-  Allah ki azaan
+  Allah ki ajaan
 
   8
   Wo muazzim maut ke din
@@ -86,9 +87,9 @@ romanLyrics: |-
 رو رو کے ایک ماں
 
 ۱
-ہاے ہاے تم نہ آے
+ہائے ہائے تم نہ آئے
 اے میری آنکھوں کے چین
-ہاے وہ غم دس محرم
+ہائے وہ غم دس محرم
 اور سکینہ کے وہ بین
 اکبر بھی سن کے رو پڑا
 بہنوں کی سسکیاں
@@ -96,26 +97,26 @@ romanLyrics: |-
 ۲
 کیا جوانی کیسا پانی
 تشنگی کی رات تھی
-ہاے اے رب آخری شب
+ہائے اے رب آخری شب
 آنسوؤں کے ساتھ تھی
-ابھری تھی ہاے اس طرح
+ابھری تھی ہائے اس طرح
 عاشور کی اذاں
 
 ۳
 مصطفیٰ کے چاند تارے
-شام تک گہنا گےء
-ہاے ہاے پھول سارے
-کس طرح مرجھا گےء
+شام تک گہنا گئے
+ہائے ہائے پھول سارے
+کس طرح مرجھا گئے
 یوں فاطمہ کے باغ میں
 آتی رہی خزاں
 
 ۴
-ہاے ہاے غم اٹھاے
+ہائے ہائے غم اٹھائے
 اس طرح سادات نے
 آہ و زاری اشک واری
 کی غموں کی رات نے
 جیسے جواں لاش پر
-بیٹھی ہے بی بیاں
+بیٹھی ہے بیبیاں
 
 ۵
 ایسا منظر اس زمین پر
@@ -126,7 +127,7 @@ romanLyrics: |-
 روتا ہے آسماں
 
 ۶
-ہاے اکبر بولا روکر
+ہائے اکبر بولا روکر
 یہ اذان آخری
 سن رہے ہیں کربلا میں
 آج جس طرح سبھی
@@ -134,11 +135,11 @@ romanLyrics: |-
 اے میرے بابا جاں
 
 ۷
-ہاے ہاے سر کٹاے
-سب جوان سو جایینگے
+ہائے ہائے سر کٹائے
+سب جوان سو جائیں گے
 دہر چھوڑ کے خاک اوڑھے
-دشت میں کھو جایینگے
-قیام رہے گی حشر تک
+دشت میں کھو جائیں گے
+قائم رہے گی حشر تک
 اللّٰہ کی اذاں
 
 ۸

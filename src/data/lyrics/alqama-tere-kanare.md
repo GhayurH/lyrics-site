@@ -6,23 +6,24 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
+reciter: "Jawad ul Hasan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Alqama tere kanare so gaya ghazi mera
+  Alqama tere kanare so gaya Ghazi mera
   Tha bharosa jispe mujhko wo baradar chal basa
 
   1
-  Jaagte thay jiske darr se ashqiyan-e-bad gohar
+  Jagte the jis ke dar se ashqiyan-e-bad gohar
   Haath katwa kar wo bhai chain se ab so gaya
 
   2
-  Jab chidhi mashke sakina khoon baha abbas ka
+  Jab chidhi mashke Sakina khoon baha Abbas ka
   Sher ne phir apna ruqh darya ki jaanib kar liya
 
   3
-  Phaynk kar kooze ko ye boli sakina dilfigaar
+  Phaynk kar kooze ko ye boli Sakina dilfigaar
   Pyas ka shikwa nahi ab laut kar aao chacha
 
   4
@@ -30,19 +31,19 @@ romanLyrics: |-
   Paasban parde ka mere bawafa maara gaya
 
   5
-  Jab kaha abbas ne aaqa mera lije salaam
+  Jab kaha Abbas ne aaqa mera lije salaam
   Thaam kar apni kamar ko rote thay shaahe huda
 
   6
-  Mashk pe ruqsaar rakh kar sogaya wo bawafa
+  Mashk pe ruqsaar rakh kar so gaya wo bawafa
   Maut bhi isko bhatiji se na kar payi juda
 
   7
-  Ashk mein bali sakina ke nazar aayi shabi
-  Ek naya sa aashiyana ban gaya abbas ka
+  Ashk mein bali Sakina ke nazar aayi shabi
+  Ek naya sa aashiyana ban gaya Abbas ka
 
   8
-  Is liye ghamgeen hai ay ahmed jari-e-bawafa
+  Is liye ghamgeen hai ae Ahmed jari-e-bawafa
   Pyase bachon tak hassan wo pani na leja saka
 # source_id: nohayonline:89371771f65e9dd52f1d
 # source_url: https://www.nohayonline.com/details_content.php?id=129
@@ -61,15 +62,15 @@ romanLyrics: |-
 
 ۳
 پھینک کر کُوزے کو یہ بولی سکینہ دلفگار
-پیاس کا شکوہ نہیں اب لوٹ کر آئو چچا
+پیاس کا شکوہ نہیں اب لوٹ کر آؤ چچا
 
 ۴
 تھام کر اپنی ردا کو بولی یہ شہہ کی بہن
 پاسباں پردے کا میرے باوفا مارا گیا
 
 ۵
-جب کہا عباس نے آقا میرا لیجیئے سلام
-تھام کر اپنی کمر کو روتے تھے شاہِ ھُدیٰ
+جب کہا عباس نے آقا میرا لیجیے سلام
+تھام کر اپنی کمر کو روتے تھے شاہِ ہدیٰ
 
 ۶
 مشک پہ رُخسار رکھ کر سو گیا وہ باوفا
@@ -80,5 +81,5 @@ romanLyrics: |-
 اک نیا سا آشیانہ بن گیا عباس کا
 
 ۸
-اس لیے غمگین ہے اے احمدجریِ باوفا
+اس لیے غمگین ہے اے احمد جریِ باوفا
 پیاسے بچوں تک حسن وہ پانی نہ لے جا سکا
