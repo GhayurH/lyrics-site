@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Afzal Mirza"
 poet: "Ishrat Lakhnavi"
 tags: ["noImage"]
 aliases: []
@@ -14,7 +15,7 @@ romanLyrics: |-
   Dekha tamaam umr tadapta rabab ko
 
   1
-  Mai doodh bhi plia na saki apne laal ko
+  Main dudh bhi pila na saki apne laal ko
   Ta zindagi raha yehi sadma rabab ko
 
   2
@@ -27,7 +28,7 @@ romanLyrics: |-
 
   4
   Asghar ke baad saaye mein baithi nahi kabhi
-  Deta raha tassaliyan kunba rabab ko
+  Deta raha tasalliyaṅ kunba rabab ko
 
   5
   Daag e judaai de gayi zindan e shaam mein
@@ -64,16 +65,16 @@ romanLyrics: |-
 اصغر نے کر دیا ہے اکیلا رباب کو
 
 ۴
-اصغر کے بعد ساے میں بیٹھی نہیں کبھی
+اصغر کے بعد سائے میں بیٹھی نہیں کبھی
 دیتا رہا تسلیاں کنبہ رباب کو
 
 ۵
-داغ جدائی دے گیء زندان شام میں
+داغِ جدائی دے گئی زندان شام میں
 اصغر کے ساتھ ساتھ سکینہ رباب کو
 
 ۶
-سرور کے بعد خیمے جلایینگے جب لعیں
-تڑپاے گا جلا ہوا جھولا رباب کو
+سرور کے بعد خیمے جلائیں گے جب لعیں
+تڑپائے گا جلا ہوا جھولا رباب کو
 
 ۷
 ہنسنے کا کیا سوال تھا لب تک نہیں کھلے
@@ -81,4 +82,4 @@ romanLyrics: |-
 
 ۸
 تو خدمت عزا میں ہے مصروف جس طرح
-عشرت پسند آۓ گا نوحہ رباب کو
+عشرت پسند آئے گا نوحہ رباب کو

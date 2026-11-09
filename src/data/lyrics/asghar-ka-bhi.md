@@ -1,10 +1,11 @@
 ---
-title: "اصغر کا بھی شمار بہتر میں ایک ہے"
+title: "اصغر کا بھی شمار بہتّر میں ایک ہے"
 alternateTitle: "Asghar Ka Bhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Tableegh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -12,7 +13,7 @@ romanLyrics: |-
   Asghar ka bhi shumaar bahattar mein ek hai
   
   1
-  Hum-rahiyane sibte payambar mein ek hai
+  Humraahiyān-e-Sibt-e-Payambar mein ek hai
   Kehti hai kamsini ke ye ghar bhar mein ek hai
   Kab ghaziyon mein fard hai lashkar mein ek hai
   Yan haajate daleel gawahi nahi koi
@@ -78,10 +79,10 @@ romanLyrics: |-
 # raw_sha256: 722adf3dcdeecc3531777d81f82691e91cecd6284ebe64961ea62182b75ea924
 ---
 
-اصغر کا بھی شمار بہتر میں ایک ہے
+اصغر کا بھی شمار بہتّر میں ایک ہے
 
 ۱
-ہمراہیانِ سبطِ پیعمبر میں ایک ہے
+ہمراہیانِ سبطِ پیغمبر میں ایک ہے
 کہتی ہے کم سنی کہ یہ گھر بھر میں ایک ہے
 کب غازیوں میں فرد ہے لشکر میں ایک ہے
 یاں حاجتِ دلیل گواہی نہیں کوئی
@@ -90,7 +91,7 @@ romanLyrics: |-
 ۲
 کرب و بلا کا اگرچہ تقاضا ہے دم بہ دم
 لیکن حُسین کیسے بڑھائیں ابھی قدم
-محزر میں نام پورے بہتر کے ہیں رقم
+محضر میں نام پورے بہتّر کے ہیں رقم
 موجود سب ہیں ایک مجاہد مگر ہے کم
 گر وہ نہیں تو جنگ کہاں تھی نہیں کوئی
 پھر حُرملا کا مدِ مُقابل نہیں کوئی

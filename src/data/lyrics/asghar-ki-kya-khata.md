@@ -5,13 +5,14 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Irfan Hussain"
 poet: "Shaukath & Nasir Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Kehte thay shah bata de asghar ki kya khata thi
-  Kyun hurmala hamare asghar ki kya khata thi
+  Kiun Hurmala hamaare asghar ki kya khata thi
   
   1
   Batla tu ibne kaahil pathar hai kya tera dil
@@ -30,7 +31,7 @@ romanLyrics: |-
   Is beniyaz bande asghar ki kya khata thi
   
   5
-  Hyder ka bachpana ab sota hai karbala mein
+  Haider ka bachpana ab sota hai karbala mein
   Kaunain ke sahare asghar ki kya khata thi
   
   6
@@ -57,13 +58,12 @@ romanLyrics: |-
 ماں نے کہا تڑپ کر اصغر کی کیا خطا تھی
 
 ۳
-اصغر کی تشنہ گی پر روتا ہے خود خدا بھی
+اصغر کی تشنگی پر روتا ہے خود خدا بھی
 توحید کے دلارے اصغر کی کیا خطا تھی
 
 ۴
-اللّٰہ جو غنی ہے اس کا ہے ایک یہ منظر
+اللّٰہ جو غنی ہے اس کا ہے ایک یہ مظہر
 اس بے نیاز بندے اصغر کی کیا خطا تھی
-حرملہ ہمارے اصغر کی کیا خطا تھی
 
 ۵
 حیدر کا بچپنا اب سوتا ہے کربلا میں

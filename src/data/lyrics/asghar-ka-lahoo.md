@@ -1,10 +1,11 @@
 ---
-title: "اصغر کا لہو جب نہ لیا ارض و سماں نے ہاے"
+title: "اصغر کا لہو جب نہ لیا ارض و سماں نے ہائے"
 alternateTitle: "Asghar Ka Lahoo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Safdar Abbas"
 poet: "Sibtain Kazmi"
 tags: ["noImage"]
 aliases: []
@@ -15,7 +16,7 @@ romanLyrics: |-
 
   1
   Kya jurm tha cheh maah ke bacche ka khudaya
-  Kyun cheda hai asghar ka gala teer e jafa ne
+  Kiuṅ chheda hai Asghar ka gala teer-e-jafa ne
 
   2
   Baysheer ne jaan apni fida kar di padar par
@@ -48,12 +49,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2271
 # raw_sha256: 6c01d5d96b4a6480fa16179bc78473fed7a7c6d07f14c194c1d9c0817e97b809
 ---
-اصغر کا لہو جب نہ لیا ارض و سماں نے ہاے
+اصغر کا لہو جب نہ لیا ارض و سماں نے ہائے
 چہرے پہ ملا خون شہ کربوبلا نے
 
 ۱
 کیا جرم تھا چھ ماہ کے بچے کا خدایا
-کیوں چھیدا ہے اصغر کا گلا تیر جفا نے
+کیوں چھیدا ہے اصغر کا گلا تیرِ جفا نے
 
 ۲
 بے شیر نے جاں اپنی فدا کر دی پدر پر
@@ -69,16 +70,16 @@ romanLyrics: |-
 
 ۵
 آجا میرے بچے میں تیری پیاس پہ صدقے
-خود آے گی ماں رن میں تجھے پانی پلانے
+خود آئے گی ماں رن میں تجھے پانی پلانے
 
 ۶
-سر نوکِ سِناں پر نہ چڑھاے کہیں ظالم
-شبیر چلے لاشہء بے شیر چھپانے
+سر نوکِ سِناں پر نہ چڑھائے کہیں ظالم
+شبیر چلے لاشۂ بے شیر چھپانے
 
 ۷
 جب خیمے میں آیا علی اصغر کا جنازہ
 کہرام بپا کر دیا مادر کی فغاں نے
 
 ۸
-سبطین بھلا کیسے بھلاے گا زمانہ
+سبطین بھلا کیسے بھلائے گا زمانہ
 جنگ جیت لی بے شیر کی معصوم ادا نے
