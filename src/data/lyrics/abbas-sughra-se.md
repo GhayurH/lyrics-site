@@ -10,92 +10,93 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khaafla jab ke rawana tha suye karbobala
-  Aa ke abbas se kehne lagi ro kar sughra
-  Chacha jaan aap ki baat mere baba nahi taalenge
-  Aap baba ko manalenge chacha jaan
-  Le chaliye mujhe karbobala saath
-  Chacha jaan le chaliye mujhe karbobala saath
-  Maula abbas ne jaa kar ye shahe deen se kaha
-  Bibi zidh karti hai le chaliye usay karbobala
-  Hussain bole ay mere bhai alamdar
-  Abbas sughra se kaho tum ghar mein raho
-  Abbas abbbas abbas
+  Qafila jab ke rawana tha su-e-Karbobala
+  Aa ke Abbas se kehne lagi ro kar Sughra
+  Chacha jaan aap ki baat mere Baba nahiṅ taleṅge
+  Aap Baba ko mana leṅge chacha jaan
+  Le chaliye mujhe Karbobala saath
+  Chacha jaan le chaliye mujhe Karbobala saath
+  Maula Abbas ne ja kar ye Shah-e-Din se kaha
+  Bibi zid karti hai le chaliye use Karbobala
+  Husain bole ae mere bhai Alamdar
+  Abbas Sughra se kaho tum ghar mein raho
+  Abbas Abbas Abbas
 
   1
-  Hum jahan jayenge mahaul sharabi hoga
-  Sar chupane ke liye hogi meinassar na rida
-  Sabr karna shahzadi
+  Hum jahan jaaeṅge mahaul sharabi hoga
+  Sar chhupane ke liye hogi mayassar na rida
+  Sabr karna Shahzadi
   Ek sabab hai aur magar
-  Tum shabihe fatema ho
-  Mai kaise tumhe le jaun karbala
+  Tum shabih-e-Fatema ho
+  Main kaise tumheṅ le jauṅ Karbala
 
   2
-  Door darya se mere qaime lagenge beta
-  Aur haftum se sabhi pyase rahenge beta
-  Sabr karna shahzadi
-  Honge haram bhi khaak basar
-  Tum shabihe fatema ho
-  Mai kaise tumhe le jaun karbala
+  Dur darya se mere khaime lageṅge beta
+  Aur haftum se sabhi pyase raheṅge beta
+  Sabr karna Shahzadi
+  Hoṅge haram bhi khaak basar
+  Tum shabih-e-Fatema ho
+  Main kaise tumheṅ le jauṅ Karbala
 
   3
-  Subhe ashoor ke aasaar jo honge muztar
-  Khoon royenge sabhi sunke azan e akbar
-  Sabr karna shahzadi
-  Wo hai shabihe paighambar
-  Tum shabihe fatema ho
-  Mai kaise tumhe le jaun karbala
+  Subh-e-Ashur ke aasaar jo hoṅge muztar
+  Khun roeṅge sabhi sun ke azan-e-Akbar
+  Sabr karna Shahzadi
+  Wo hai shabih-e-Payambar
+  Tum shabih-e-Fatema ho
+  Main kaise tumheṅ le jauṅ Karbala
 
   4
-  Dekh sakti hi nahi aisa wo manzar hoga
-  Halq par mere rawan shimr ka khanjar hoga
-  Sabr karna shahzadi
-  Hongi wahan pe khud maadar
-  Tum shabihe fatema ho
-  Mai kaise tumhe le jaun karbala
+  Dekh sakti hi nahiṅ aisa wo manzar hoga
+  Halq par mere rawaṅ Shimr ka khanjar hoga
+  Sabr karna Shahzadi
+  Hoṅgi wahan pe khud madar
+  Tum shabih-e-Fatema ho
+  Main kaise tumheṅ le jauṅ Karbala
 
   5
-  Beta phir sham e ghariban mein chinegi chadar
-  Qaime jal jayenge phir hogi qayamat ki sehar
-  Sabr karna shahzadi
-  Shaam ki jaanib hoga safar
-  Tum shabihe fatema ho
-  Mai kaise tumhe le jaun karbala
+  Beta phir Shaam-e-Ghariban mein chhinegi chadar
+  Khaime jal jaaeṅge phir hogi qayamat ki sahar
+  Sabr karna Shahzadi
+  Shaam ki janib hoga safar
+  Tum shabih-e-Fatema ho
+  Main kaise tumheṅ le jauṅ Karbala
 
   6
-  Shaam ki galiyon se bazaron se guzrenge haram
-  Pehle darbar mein phir qaid mein jayenge haram
-  Sabr karna shahzadi
-  Qaidi rahenge tashna jigar
-  Tum shabihe fatema ho
-  Mai kaise tumhe le jaun karbala
+  Shaam ki galiyoṅ se bazaroṅ se guzreṅge haram
+  Pehle darbar mein phir qaid mein jaaeṅge haram
+  Sabr karna Shahzadi
+  Qaidi raheṅge tishna jigar
+  Tum shabih-e-Fatema ho
+  Main kaise tumheṅ le jauṅ Karbala
 
   7
-  Ek ek lafz hai mazhar tera irfan e aza
-  Kehke ye rone lage sayyed e zeeshan e aza
-  Sabr karna shahzadi
-  Tum se rahe aabaad ye ghar
-  Tum shabihe fatema ho
-  Mai kaise tumhe le jaun karbala
+  Ek ek lafz hai Mazhar tera irfan-e-aza
+  Keh ke ye rone lage Sayyed-e-Zeeshan-e-aza
+  Sabr karna Shahzadi
+  Tum se rahe aabad ye ghar
+  Tum shabih-e-Fatema ho
+  Main kaise tumheṅ le jauṅ Karbala
 # source_id: nohayonline:30401ba6c46d0fbeeb17
 # source_url: https://www.nohayonline.com/details_content.php?id=2204
 # raw_sha256: f6c7c644f740c7021b35a93c53438f78af6b7a60f0867a549447ab135be5db20
 ---
-قافلہ جب کہ روانہ تھا سوے کربوبلا
+
+قافلہ جب کہ روانہ تھا سوئے کربوبلا
 آ کے عباس سے کہنے لگی رو کر صغرا
 چچا جان آپ کی بات میرے بابا نہیں ٹالیں گے
 آپ بابا کو منالیں گے چچا جان
-لے چلےء مجھے کربوبلا ساتھ
-چچا جان لے چلےء مجھے کربوبلا ساتھ
+لے چلیے مجھے کربوبلا ساتھ
+چچا جان لے چلیے مجھے کربوبلا ساتھ
 مولا عباس نے جا کر یہ شہ دیں سے کہا
-بی بی ضد کرتی ہے لے چلےء اسے کربوبلا
+بی‌بی ضد کرتی ہے لے چلیے اسے کربوبلا
 حسین بولے اے میرے بھائی علمدار
 عباس صغریٰ سے کہو تم گھر میں رہو
 عباس عباس عباس
 
 ۱
-ہم جہاں جاینگے ماحول شرابی ہوگا
-سر چھپانے کے لےء ہوگی میسر نہ ردا
+ہم جہاں جائیں گے ماحول شرابی ہوگا
+سر چھپانے کے لیے ہوگی میسر نہ ردا
 صبر کرنا شہزادی
 اک سبب ہے اور مگر
 تم شبیہ فاطمہ ہو
@@ -105,13 +106,13 @@ romanLyrics: |-
 دور دریا سے میرے خیمے لگیں گے بیٹا
 اور ہفتم سے سبھی پیاسے رہیں گے بیٹا
 صبر کرنا شہزادی
-ہونگے حرم بھی خاک بسر
+ہوں گے حرم بھی خاک بسر
 تم شبیہ فاطمہ ہو
 میں کیسے تمہیں لے جاؤں کربلا
 
 ۳
-صبحِ عاشور کے آثار جو ہونگے مضطر
-خون روےنگے سبھی سن کے اذان اکبر
+صبحِ عاشور کے آثار جو ہوں گے مضطر
+خون روئیں گے سبھی سن کے اذان اکبر
 صبر کرنا شہزادی
 وہ ہے شبیہہ پیغمبر
 تم شبیہ فاطمہ ہو
@@ -127,7 +128,7 @@ romanLyrics: |-
 
 ۵
 بیٹا پھر شامِ غریباں میں چھنے گی چادر
-خیمے جل جاینگے پھر ہوگی قیامت کی سحر
+خیمے جل جائیں گے پھر ہوگی قیامت کی سحر
 صبر کرنا شہزادی
 شام کی جانب ہوگا سفر
 تم شبیہ فاطمہ ہو
@@ -135,7 +136,7 @@ romanLyrics: |-
 
 ۶
 شام کی گلیوں سے بازاروں سے گزریں گے حرم
-پہلے دربار میں پھر قید میں جایینگے حرم
+پہلے دربار میں پھر قید میں جائیں گے حرم
 صبر کرنا شہزادی
 قیدی رہیں گے تشنہ جگر
 تم شبیہ فاطمہ ہو
@@ -143,7 +144,7 @@ romanLyrics: |-
 
 ۷
 ایک اک لفظ ہے مظہر تیرا عرفانِ عزا
-کہکے یہ رونے لگے سید زیشان عزا
+کہہ کے یہ رونے لگے سید ذیشانِ عزا
 صبر کرنا شہزادی
 تم سے رہے آباد یہ گھر
 تم شبیہ فاطمہ ہو
