@@ -9,54 +9,55 @@ poet: "Mazher Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Akbar abhi hai raah mein laila pukaar lo
-  Apne pisar ke husn ka sadqa utaar lo
+  Akbar abhi hai raah mein Laila pukar lo
+  Apne pisar ke husn ka sadqa utar lo
 
   1
-  Ran ki taraf jo jaate hai hamshakle mustafa
-  Be aas hoke reh gaye ab shaah e karbala
-  Ro ro ke keh rahi hai ye ab binte murtaza
+  Ran ki taraf jo jaate haiṅ hamshakl-e-Mustafa
+  Beaas ho ke reh gaye ab Shah-e-Karbala
+  Ro ro ke keh rahi hai ye ab Bint-e-Murtaza
 
   2
   Athara saal paala tha jis naujawan ko
-  Ruqsat hussain karte hai us mehman ko
-  Humnaam e murtaza wo nabi ke nashan ko
+  Rukhsat Husain karte haiṅ us mehman ko
+  Hamnam-e-Murtaza wo Nabi ke nishan ko
 
   3
   Farzand ye tumhara mere dil ka chain hai
-  Taskeen e qalb noor e nigaahe hussain hai
-  Ruqsat ke waqt zainabe muztar ka bain hai
+  Taskin-e-qalb nur-e-nigah-e-Husain hai
+  Rukhsat ke waqt Zainab-e-Muztar ka bain hai
 
   4
-  Run ko chala hai ye jo hai hamshakle mustafa
-  Abbas se jalaal mein jurrat mein murtaza
-  Maadar hai laila baap hai sultane karbala
+  Ran ko chala hai ye jo hai hamshakl-e-Mustafa
+  Abbas se jalal mein jurrat mein Murtaza
+  Madar hai Laila baap hai Sultan-e-Karbala
 
   5
-  Sochi thi uska byaah rachane ke waaste
-  Basti nayi nayi mai basane ke waaste
-  Kya tum jiyogi ashk bahane ke waaste
+  Sochi thi us ka byaah rachane ke waste
+  Basti nai nai main basane ke waste
+  Kya tum jiyogi ashk bahane ke waste
 
   6
-  Bole hussain bete se ba-chashme ashk baar
+  Bole Husain bete se ba-chashm-e-ashkbar
   Beta hamare seene se lag jao ek baar
-  Tum jaa rahe ho dil pa nahi mere ikhtiyaar
+  Tum ja rahe ho dil pe nahiṅ mere ikhtiyar
 
   7
   Zainab ka dil ho dilbare shaahinshahe zaman
-  Attharwi bahaar hai shadaab hai chaman
-  Binte ali ke lab pe har ek baar hai sukhan
+  Atharhwiṅ bahar hai shadab hai chaman
+  Bint-e-Ali ke lab pe har ek baar hai sukhan
 
   8
-  Maidan ki simt jaate hai ab akbar e haseen
-  Thaame kaleja dekhte hai unko shaah e deen
-  Laila se roke kehti hai ye zainab e hazeen
+  Maidan ki simt jaate haiṅ ab Akbar-e-Hasin
+  Thame kaleja dekhte haiṅ un ko Shah-e-Din
+  Laila se ro ke kehti hai ye Zainab-e-Hazin
 
   9
-  Thaame kamar ko fatema zehra ka laal hai
-  Gham se ajeeb maadar e muztar ka haal hai
-  Mazhar phupi ke lab pe faqat ye meqaal hai
+  Thame kamar ko Fatima Zehra ka laal hai
+  Gham se ajib Madar-e-Muztar ka haal hai
+  Mazhar phuphi ke lab pe faqat ye maqaal hai
 # source_id: nohayonline:696712ed37ffeb89859a
 # source_url: https://www.nohayonline.com/details_content.php?id=2896
 # raw_sha256: b3fdcfe7bd412ee5c7eddd81b091d3722b119f81735d64fe16fe25afe67e2040
@@ -66,13 +67,13 @@ romanLyrics: |-
 
 ۱
 رن کی طرف جو جاتے ہے ہمشکل مصطفیٰ
-بے آس ہو کے رہ گےء اب شاہ کربلا
-رو رو کے کہہ رہی ہے یہ اب بنت مرتظی
+بے آس ہو کے رہ گئے اب شاہ کربلا
+رو رو کے کہہ رہی ہے یہ اب بنتِ مرتضیٰ
 
 ۲
 اٹھارہ سال پالا تھا جس نوجوان کو
 رخصت حسین کرتے ہیں اس مہمان کو
-ہمنام مرتظی وہ نبی کے نشان کو
+ہمنامِ مرتضیٰ وہ نبی کے نشان کو
 
 ۳
 فرزند یہ تمہارا میرے دل کا چین ہے
@@ -81,12 +82,12 @@ romanLyrics: |-
 
 ۴
 رن کو چلا ہے یہ جو ہے ہمشکل مصطفیٰ
-عباس سے جلال میں جرأت میں مرتظی
+عباس سے جلال میں جرأت میں مرتضیٰ
 مادر ہے لیلیٰ باپ ہے سلطان کربلا
 
 ۵
 سونچی تھی اس کا بیاہ رچانے کے واسطے
-بستی نیء نیء میں بسانے کے واسطے
+بستی نئی نئی میں بسانے کے واسطے
 کیا تم جیو گے اشک بہانے کے واسطے
 
 ۶
@@ -97,7 +98,7 @@ romanLyrics: |-
 ۷
 زینب کا دل ہو دلبر شاہنشاہ زمن
 اٹھارویں بہار ہے شاداب ہے چمن
-بنت علی کےلب پہ ہر ایک بار ہے سخن
+بنتِ علی کے لب پہ ہر ایک بار ہے سخن
 
 ۸
 میداں کی سمت جاتے ہیں اب اکبر حسیں
@@ -107,4 +108,4 @@ romanLyrics: |-
 ۹
 تھامے کمر کو فاطمہ زہرا کا لال ہے
 غم سے عجیب مادر مضطر کا حال ہے
-مظہر پھپھی کے لب پہ فقط یہ مخال ہے
+مظہر پھپھی کے لب پہ فقط یہ مقال ہے
