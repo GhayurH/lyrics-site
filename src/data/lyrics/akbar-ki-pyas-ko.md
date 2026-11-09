@@ -9,43 +9,44 @@ poet: "Ghulam Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Mir Bober Ali"
 romanLyrics: |-
-  Bhoolo na momino kabhi sarwar ki pyaas ko
-  Akbar ki pyaas ko ali asghar ki pyaas ko
-  Ta hashr kyun na saaton samandar kare salam
-  Shabbir ibne saaqiye kausar ki pyaas ko
+  Bhulo na mominoṅ kabhi Sarwar ki pyas ko
+  Akbar ki pyas ko Ali Asghar ki pyas ko
+  Ta hashr kiun na satoṅ samandar kareṅ salam
+  Shabbir Ibn-e-Saqi-e-Kausar ki pyas ko
 
   1
-  Karlene yaad jab koi pani kare talab
-  Hamshakle mustufa ali akbar ke pyaas ko
+  Kar lena yaad jab koi pani kare talab
+  Hamshakl-e-Mustafa Ali Akbar ki pyas ko
 
   2
-  Wo sabr tha ke pyaas ka shikwa nahi kiya
-  Laakhon salam zainabe muztar ki pyaas ko
+  Wo sabr tha ke pyas ka shikwa nahiṅ kiya
+  Lakhoṅ salam Zainab-e-Muztar ki pyas ko
 
   3
-  Har mausame aza mein sabeelein saja ke hum
-  Karte rahenge yaad bahattar ki pyaas ko
+  Har mausam-e-aza mein sabileṅ saja ke hum
+  Karte raheṅge yaad bahattar ki pyas ko
 
   4
-  Aelaan kar rahi thi ye inmein zabane khushk
-  Aankhon se dekhlo ali asghar ki pyaas ko
+  Elan kar rahi thi ye in mein zaban-e-khushk
+  Aankhoṅ se dekh lo Ali Asghar ki pyas ko
 
   5
-  Seene mein tere dil nahi patthar hai hurmala
-  Kyon teer se bujhata hai asghar ki pyaas ko
+  Sine mein tere dil nahiṅ patthar hai Hurmala
+  Kiun tir se bujhata hai Asghar ki pyas ko
 
   6
-  Chalees saal sayyade sajjad karke yaad
-  Aansu bahate rehte thay sarwar ki pyaas ko
+  Chalis saal Sayyed-e-Sajjad kar ke yaad
+  Aṅsu bahate rehte the Sarwar ki pyas ko
 
   7
-  Aaye nazar jo mashk o alam tumko ek saath
-  Karlena yaad dukhtare sarwar ki pyaas ko
+  Aae nazar jo mashk o alam tum ko ek saath
+  Kar lena yaad Dukhtar-e-Sarwar ki pyas ko
 
   8
-  Auron ka zikr kya hai jigar thaam kar ghulam
-  Khanjar se pooch shimr ke sarwar ki pyaas ko
+  Auroṅ ka zikr kya hai jigar thaam kar Ghulam
+  Khanjar se puchh Shimr ke Sarwar ki pyas ko
 # source_id: nohayonline:7bc1e65e8755e19f6dde
 # source_url: https://www.nohayonline.com/details_content.php?id=805
 # raw_sha256: ceea9274e3153eee97339c001c0f86ab29dc7ff91f59fd35d58e1ef649953788
@@ -56,31 +57,31 @@ romanLyrics: |-
 شبیر ابنِ ساقیِ کوثر کی پیاس کو
 
 ۱
-کرلینے یاد جب کوئی پانی کرے طلب
-ہم شکل مصطفیٰ علی اکبر کی پیاس کو
+کر لینا یاد جب کوئی پانی کرے طلب
+ہم شکلِ مصطفیٰ علی اکبر کی پیاس کو
 
 ۲
 وہ صبر تھا کہ پیاس کا شکوہ نہیں کیا
 لاکھوں سلام زینب مضطر کی پیاس کو
 
 ۳
-ہر موسم عزا میں سبیلیں سجا کے ہم
+ہر موسمِ عزا میں سبیلیں سجا کے ہم
 کرتے رہیں گے یاد بہتر کی پیاس کو
 
 ۴
-علان کررہی تھی یہ ان میں زبان خشک
-آنکھوں سے دیکھلو علی اصغر کی پیاس کو
+اعلان کر رہی تھی یہ ان میں زبانِ خشک
+آنکھوں سے دیکھ لو علی اصغر کی پیاس کو
 
 ۵
 سینے میں تیرے دل نہیں پتھر ہے حرملہ
 کیوں تیر سے بجھاتا ہے اصغر کی پیاس کو
 
 ۶
-چالیس سال سیدے سجاد کرکے یاد
-آنسوں بہاتے رہتے تھے سرور کی پیاس کو
+چالیس سال سیدِ سجاد کر کے یاد
+آنسو بہاتے رہتے تھے سرور کی پیاس کو
 
 ۷
-آے نظر جو مشک و علم تمکو ایک ساتھ
+آئے نظر جو مشک و علم تم کو ایک ساتھ
 کر لینا یاد دختر سرور کی پیاس کو
 
 ۸

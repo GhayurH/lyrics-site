@@ -1,5 +1,5 @@
 ---
-title: "اکبر کو فجر شاہ کو اثر روتی ہے"
+title: "اکبر کو فجر شاہ کو عصر روتی ہے"
 alternateTitle: "Akbar Ko Fajar"
 language: "Urdu"
 lang: "ur"
@@ -8,33 +8,34 @@ kalamType: "Noha"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Nasir Asghar Party (SM)"
 romanLyrics: |-
-  Akbar ko fajar shaah ko asar roti hai
-  Zainab ko magar shaam o sahar roti hai
+  Akbar ko Fajr Shah ko Asr roti hai
+  Zainab ko magar Shaam o Sahar roti hai
 
   1
-  Mila azan ko muazzan na baad akbar ke
-  Lehja akbar ko azanon ki satar roti hai
+  Mila azan ko muazzin na baad Akbar ke
+  Lehja Akbar ko azanoṅ ki satar roti hai
 
   2
-  Kyun na akbar ki jawani pe jawani roye
-  Jis pe hasnain ke nana ki qabr roti hai
+  Kiun na Akbar ki jawani pe jawani roe
+  Jis pe Hasnain ke Nana ki qabr roti hai
 
   3
-  Haye wo shaam e ghariban ke andhere may rabab
-  Khaali aaghosh liye thaame jigar roti hai
+  Haye wo Sham-e-Ghariban ke andhere mein Rubab
+  Khali aaghosh liye thame jigar roti hai
 
   4
-  Shabe ashoor wo sehme huwe pyase bache
-  Jab qaza daalti hai unpe nazar roti hai
+  Shab-e-Ashur wo seh me hue pyase bachche
+  Jab qaza dalti hai un pe nazar roti hai
 
   5
-  Haakim e shaam ye kehta tha sakina ke liye
-  Qaid e tanhaai may daalo ye agar roti hai
+  Hakim-e-Shaam ye kehta tha Sakina ke liye
+  Qaid-e-tanhai mein dalo ye agar roti hai
 
   6
-  Laashe qasim pe hai khamosh khadi binte hussain
-  Mujhse kehti hi nahi haa wo magar roti hai
+  Lash-e-Qasim pe hai khamosh khari Bint-e-Husain
+  Mujh se kehti hi nahiṅ haaṅ wo magar roti hai
 # source_id: nohayonline:2d125ce3a4df49e25ecc
 # source_url: https://www.nohayonline.com/details_content.php?id=1498
 # raw_sha256: deb41651842fe71f8114a9c3f500214ae5ae3d320e5b2a2004925d56493267a3
@@ -43,23 +44,23 @@ romanLyrics: |-
 زینب کو مگر شام و سحر روتی ہے
 
 ۱
-ملا اذاں کو مؤذن نہ بعد اکبر کے
+ملا اذان کو مؤذن نہ بعد اکبر کے
 لہجہ اکبر کو اذانوں کی ستر روتی ہے
 
 ۲
-کیوں نہ اکبر کی جوانی پہ جوانی روے
+کیوں نہ اکبر کی جوانی پہ جوانی روئے
 جس پہ حسنین کے نانا کی قبر روتی ہے
 
 ۳
-ہاے وہ شام غریباں کے اندھیرے میں رباب
-خالی آغوش لیےء تھامے جگر روتی ہے
+ہائے وہ شامِ غریباں کے اندھیرے میں رباب
+خالی آغوش لیے تھامے جگر روتی ہے
 
 ۴
-شب عاشور وہ سہمے ہوے پیاسے بچے
-جب قضاء ڈالتی ہے ان پہ نظر روتی ہے
+شبِ عاشور وہ سہمے ہوئے پیاسے بچے
+جب قضا ڈالتی ہے ان پہ نظر روتی ہے
 
 ۵
-حاکم شاہ یہ کہتا تھا سکینہ کے لئے
+حاکمِ شام یہ کہتا تھا سکینہ کے لیے
 قید تنہائی میں ڈالو یہ اگر روتی ہے
 
 ۶
