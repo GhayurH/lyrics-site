@@ -6,45 +6,47 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hyder"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Girta hai pidar ran mein sambhalo Ali Akbar
+  Girta hai pidar ran mein sambhaalo Ali Akbar
   Aao Ali Akbar aao Ali Akbar
 
   1
-  Zakhmon se mere khaak chhurao mere dilbar
+  Zakhmoṅ se mere khaak chhuraao mere dilbar
+  Aao Ali Akbar aao Ali Akbar
 
   2
   Furqat mein teri shaam o sehar karti hai girya
   Ye haal hai uska
-  Batlao ke ab kaise jiyegi teri maadar
+  Batlaao ke ab kaise jiyegi teri maadar
 
   3
-  Atharah baras jis ne tujhe laad se paala
-  Bachchon se zyada
+  Athaara baras jis ne tujhe laad se paala
+  Bachchoṅ se zyaada
   Sar pitti hai gham mein tere Zainab-e-muztar
 
   4
   Har aan teri yaad mein Sughra ka hai nauha
-  Kab aayenge bhaiya
+  Kab aayeṅ ge bhaiya
   Takti hai Madine mein tera raasta khwahar
 
   5
   Jita tha tujhe dekh ke har pal mere jaani
   Ae Yusuf-e-Saani
-  Ab shakl dam-e-naza dikha do mere dilbar
+  Ab shakl dam-e-naza dikhaa do mere dilbar
 
   6
-  Ghere hain sitamgar pidar kisko pukare
-  Tum chhor sidhare
-  Ab paas nahi koi bhatija na baradar
+  Ghere haiṅ sitamgar pidar kisko pukaare
+  Tum chhor sidhaare
+  Ab paas nahiṅ koi bhatija na baradar
 
   7
-  Piri mein jawan laal ki mayyat ko uthana
-  Bachchon ko bulana
-  Furqat teri guzri hai bahot shaaq pidar par
+  Piri mein jawaaṅ laal ki mayyat ko uthaana
+  Bachchoṅ ko bulaana
+  Furqat teri guzri hai bahut shaaq pidar par
 
   8
   Nauha gham-e-Shabbir mein Haider ne likha hai
@@ -63,15 +65,16 @@ romanLyrics: |-
 
 ۱
 زخموں سے میرے خاک چھڑاؤ میرے دلبر
+آؤ علی اکبر آؤ علی اکبر
 
 ۲
 فرقت میں تیری شام و سحر کرتی ہے گریہ
-یہ حال ہے اسکا
-بتلاؤ کہ اب کیسے جیےء گی تیری مادر
+یہ حال ہے اس کا
+بتلاؤ کہ اب کیسے جیے گی تیری مادر
 
 ۳
 اٹھارہ برس جس نے تجھے لاڈ سے پالا
-بچوں سے ذیادہ
+بچوں سے زیادہ
 سر پیٹتی ہے غم میں تیرے زینب مضطر
 
 ۴
@@ -85,16 +88,16 @@ romanLyrics: |-
 اب شکل دم نزع دکھا دو میرے دلبر
 
 ۶
-گھیرے ہے ستمگار پدر کس کو پکارے
+گھیرے ہیں ستمگار پدر کس کو پکارے
 تم چھوڑ سدھارے
 اب پاس نہیں کوئی بھتیجا نہ برادر
 
 ۷
 پیری میں جواں لال کی میت کو اٹھانا
 بچوں کو بلانا
-فرقت تیری گزری ہے بہت شاخ پدر پر
+فرقت تیری گزری ہے بہت شاق پدر پر
 
 ۸
 نوحہ غمِ شبیر میں حیدر نے لکھا ہے
 لب پر یہ دعا ہے
-مقبول یہ ہو جاے براے علی اکبر
+مقبول یہ ہو جائے برائے علی اکبر

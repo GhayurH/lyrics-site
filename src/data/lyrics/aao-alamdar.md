@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,53 +14,53 @@ romanLyrics: |-
   Bint-e-Ali ke liye hashr ka hai saamna
   Nargha-e-aada mein hai Aal-e-Nabi berida
   Aa gaya bazaar aao Alamdar
-  Naaqon pe mehmil nahi sar pe bhi chadar nahi
-  Kaun dilaye rida koi baradar nahi
+  Naaqoṅ pe mehmil nahiṅ sar pe bhi chadar nahiṅ
+  Kaun dilaaye rida koi baradar nahiṅ
   Shaane kataaye huwe Sher-e-Jari so gaya
 
   1
-  Haye kahan aagayi Fatima ki betiyan
-  Aayi na bandi kahan aur kahan sayyidaniyan
+  Haaye kahaaṅ aa gayi Fatima ki betiyaaṅ
+  Aayi na bandi kahaaṅ aur kahaaṅ sayyidaniyaaṅ
   Khatm bhala hoga kab zulm ka ye silsila
 
   2
   Shor qayamat ka hai shaam ke bazaar mein
-  Kafiron ki kursiyan sajti hai darbaar mein
-  Sar ko uthaate nahi hazrate zainul abaa
+  Kaafiroṅ ki kursiyaaṅ sajti hai darbaar mein
+  Sar ko uthaate nahiṅ Hazrat-e-Zain-ul-Abaa
 
   3
-  Fikr hai bimar ko kaise bataunga main
-  Dil pe guzarti hai jo kaise sunaunga main
+  Fikr hai bimar ko kaise bataauṅ ga main
+  Dil pe guzarti hai jo kaise sunaauṅ ga main
   Chaahne waala koi aise mein gar mil gaya
 
   4
   Aal-e-Payambar hai wo qaid jo rassi mein hai
   Waris-e-Kausar hai wo qaid jo rassi mein hai
-  Aur sakina hai wo kasta hai jis ka gala
+  Aur Sakina hai wo kasta hai jis ka gala
 
   5
-  Bibiyan jo qaid hai waaris e tatheer hai
+  Bibiyaaṅ jo qaid hai waaris-e-Tathir hai
   Dukhtar-e-Khair-ul-Wara khwahar-e-Shabbir hai
   Bain sune to koi roti hai khud Fatima
 
   6
-  Aankhon mein laila ki hai khoon bhari akbar ki laash
-  Dasht mein chod aayi hai bano bhi asghar ki laash
-  Laadlon ki suratein dhoondhti hai maamta
+  Aankhoṅ mein Laila ki hai khuṅ bhari Akbar ki laash
+  Dasht mein chhor aayi hai Bano bhi Asghar ki laash
+  Laadloṅ ki surateṅ dhundhti hai maamta
 
   7
-  Nezon pe Akbar bhi hai Asghar-e-beshir bhi
+  Nezoṅ pe Akbar bhi hai Asghar-e-beshir bhi
   Aun o Muhammad bhi hai Qasim-e-dilgeer bhi
-  Wo sar e abbas hai naize se jo gir pada
+  Wo sar-e-Abbas hai naize se jo gir para
 
   8
-  Zabt kahan tak kare binte ali ka jigar
-  Kab se ye sayyidaniyan hai dare saa'aat par
-  Uth ke najaf se zara dekhlo mushkil kusha
+  Zabt kahaaṅ tak kare Bint-e-Ali ka jigar
+  Kab se ye sayyidaniyaaṅ hai dar-e-Saaat par
+  Uth ke Najaf se zara dekh lo Mushkilkusha
 
   9
-  Nayyar o Aamir ye dil gham wo bhulata nahi
-  Saahib e ghairat wahan sar ko uthaata nahi
+  Nayyar o Aamir ye dil gham wo bhulaata nahiṅ
+  Saahib-e-ghairat wahaaṅ sar ko uthaata nahiṅ
   Aaj bhi hum shaam mein pahunche to nauha padha
 # source_id: nohayonline:3610f165124886a5308d
 # source_url: https://www.nohayonline.com/details_content.php?id=2443
@@ -69,11 +70,11 @@ romanLyrics: |-
 نرغہء اعدا میں ہے آل نبی بے ردا
 آگیا بازار آؤ علمدار
 ناقوں پہ محمل نہیں سر پہ بھی چادر نہیں
-کون دلاے ردا کوئی برادر نہیں
-شانے کٹاے ہوے شیر جری سو گیا
+کون دلائے ردا کوئی برادر نہیں
+شانے کٹائے ہوئے شیر جری سو گیا
 
 ۱
-ہاے کہاں آ گیء فاطمہ کی بیٹیاں
+ہائے کہاں آ گئی فاطمہ کی بیٹیاں
 آئینہ بندی کہاں اور کہاں سیدانیاں
 ختم بھلا ہو گا کب ظلم کا یہ سلسلہ
 
@@ -93,13 +94,13 @@ romanLyrics: |-
 اور سکینہ ہے وہ کستا ہے جس کا گلا
 
 ۵
-بی بیاں جو قید ہے وارث تطہیر ہے
+بی‌بیاں جو قید ہے وارث تطہیر ہے
 دختر خیرالوریٰ خواہر شبیر ہے
 بین سنے تو کوئی روتی ہے خود فاطمہ
 
 ۶
 آنکھوں میں لیلیٰ کی ہے خوں بھری اکبر کی لاش
-دشت میں چھوڑ آی ہے بانو بھی اصغر کی لاش
+دشت میں چھوڑ آئی ہے بانو بھی اصغر کی لاش
 لاڈلوں کی صورتیں ڈھونڈتی ہے مامتا
 
 ۷
@@ -110,7 +111,7 @@ romanLyrics: |-
 ۸
 ضبط کہاں تک کرے بنت علی کا جگر
 کب سے یہ سیدانیاں ہے در ساعات پر
-اٹھ کے نجف سے زرا دیکھ لو مشکل کشاء
+اٹھ کے نجف سے ذرا دیکھ لو مشکل کشا
 
 ۹
 نیر و عامر یہ دل غم وہ بھلاتا نہیں
