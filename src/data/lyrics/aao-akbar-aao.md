@@ -6,55 +6,56 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Aao Akbar aao, mere Akbar aao
-  Maadar ke galay lag jao
+  Maadar ke gale lag jao
 
   1
-  Ae laal zara aankhein kholo
-  Maa tum pe fida kuch to bolo
-  Yun maa ko nahi tadpao
+  Ae laal zara aankheiṅ kholo
+  Maaṅ tum pe fida kuch to bolo
+  Yuṅ maaṅ ko nahiṅ tarpao
 
   2
-  Socha tha dulhan main laaungi
-  Poshak nayi banwaungi
-  Aajao sehra bandhao
+  Socha tha dulhan main laauṅgi
+  Poshaak nayi banwaauṅgi
+  Aa jao sehra bandhaao
 
   3
-  Armaan main poora kar na saki
+  Armaan main pura kar na saki
   Tum ji na sake main mar na saki
   Is dil ki dua le jao
 
   4
-  Sughra ne likha khat mein ro kar
-  Kya bhool gaye waada Akbar
+  Sughra ne likha khat meiṅ ro kar
+  Kya bhul gaye waada Akbar
   Sughra ka waada nibhao
 
   5
-  Maa ban ke tujhe paala jis ne
+  Maaṅ ban ke tujhe paala jis ne
   Wo laash teri kaise dekhe
-  Zainab ko nahi tadpao
+  Zainab ko nahiṅ tarpao
 
   6
   Dil mera hua pamaal suno
-  Kuch apni maa ka haal suno
+  Kuch apni maaṅ ka haal suno
   Kuch apna haal sunao
 
   7
   Kehti hai Sakina ro ro kar
-  Kiun ruth gaye bhaiya Akbar
-  Na aur usay rulwao
+  Kiuṅ ruth gaye bhaiya Akbar
+  Na aur use rulwao
 
   8
-  Bete jo jawan ho jaate hain
-  Maa baap ke gham mit jaate hai
+  Bete jo jawaaṅ ho jaate haiṅ
+  Maaṅ baap ke gham mit jaate haiṅ
   Tum mere dard batao
 
   9
-  Dena hai agar maa ko pursa
+  Dena hai agar maaṅ ko pursa
   Irfan aur Mazhar ye nauha
   Umm-e-Laila ko sunao
 # source_id: nohayonline:782a5a9891eb72518158
@@ -68,29 +69,29 @@ romanLyrics: |-
 مادر کے گلے لگ جاؤ
 
 ۱
-اے لال زرا آنکھیں کھولو
+اے لال ذرا آنکھیں کھولو
 ماں تم پہ فدا کچھ تو بولو
-یوں ماں کو نہیں تڑپاو
+یوں ماں کو نہیں تڑپاؤ
 
 ۲
 سوچا تھا دلہن میں لاؤں گی
-پوشاک نیء بنواوں گی
+پوشاک نئی بنواؤں گی
 آجاؤ سہرا بڑھاؤ
 
 ۳
 ارمان میں پورا کر نہ سکی
-تم جی نہ سکے میں مر‌ نہ سکی
+تم جی نہ سکے میں مر نہ سکی
 اس دل کی دعا لے جاؤ
 
 ۴
 صغرا نے لکھا خط میں رو کر
-کیا بھول گےء وعدہ اکبر
+کیا بھول گئے وعدہ اکبر
 صغرا کا وعدہ نبھاؤ
 
 ۵
 ماں بن کے تجھے پالا جس نے
 وہ لاش تیری کیسے دیکھے
-زینب کو نہیں تڑپاو
+زینب کو نہیں تڑپاؤ
 
 ۶
 دل میرا ہوا پامال سنو
@@ -99,8 +100,8 @@ romanLyrics: |-
 
 ۷
 کہتی ہے سکینہ رو رو کر
-کیوں روٹھ گےء بھیا اکبر
-نہ اور اسے رلواو
+کیوں روٹھ گئے بھیا اکبر
+نہ اور اسے رلواؤ
 
 ۸
 بیٹے جو جواں ہو جاتے ہیں
