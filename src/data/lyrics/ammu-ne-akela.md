@@ -5,14 +5,16 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Dilawar Hasan"
 poet: "Ishrat Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Har dam tha sakina ka nauha
-  Ammu ne akela chod diya
-  Chut'te hi madina zulm hua
+  Ammu ne akela chhor diya
+  Chhutte hi Madina zulm hua
+  Ammu ne akela chhor diya
 
   1
   Bachpan se abhi tak saath rahe
@@ -30,7 +32,7 @@ romanLyrics: |-
   Pani ka taqaaza aisa kiya
 
   4
-  Jab godh may zainab ki baithi
+  Jab godh mein Zainab ki baithi
   Sajjad ke jab seene se lagi
   Ek saans may sau sau baar kaha
 
@@ -41,13 +43,13 @@ romanLyrics: |-
 
   6
   Shabbir ke ghar bhar ki pyari
-  Zindan e sitam may jab pahunchi
+  Zindan-e-sitam mein jab pahunchi
   Jab dard utha moo se nikla
 
   7
-  Zindan e musibat may ishrat
+  Zindan-e-musibat mein Ishrat
   Bigdi jo sakina ki haalat
-  Ye kehte huwe dam tod diya
+  Ye kehte hue dam tor diya
 # source_id: nohayonline:48fff3fd173d879595d9
 # source_url: https://www.nohayonline.com/details_content.php?id=2168
 # raw_sha256: 10e369937b25b3c675822b51651b5b852ddf8fac7a49d2b45ae94aa445ea35c7
@@ -55,6 +57,7 @@ romanLyrics: |-
 ہر دم تھا سکینہ کا نوحہ
 عمو نے اکیلا چھوڑ دیا
 چھٹتے ہی مدینہ ظلم ہوا
+عمو نے اکیلا چھوڑ دیا
 
 ۱
 بچپن سے ابھی تک ساتھ رہے
@@ -62,8 +65,8 @@ romanLyrics: |-
 جینے کا نہیں اب کوئی مزہ
 
 ۲
-اب کون پلاے گا پانی
-ہے کون جو لاے گا پانی
+اب کون پلائے گا پانی
+ہے کون جو لائے گا پانی
 زینب سے مسلسل تھا شکوہ
 
 ۳
@@ -89,4 +92,4 @@ romanLyrics: |-
 ۷
 زندان مصیبت میں عشرت
 بگڑی جو سکینہ کی حالت
-یہ کہتے ہوے دم توڑ دیا
+یہ کہتے ہوئے دم توڑ دیا

@@ -5,19 +5,20 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Raza Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ammu jaan ammu jaan
-  Waadiye ghurbat ke mehman
+  Waadi-e-ghurbat ke mehmaan
   
   1
   Shaah ki dukhtar laashe chacha par
-  Nehr kanare thi nalaan
+  Nehr kinaare thi naalaaṅ
   
   2
-  Dilbare hyder saani e jafar
+  Dilbar-e-Haider saani-e-Jafar
   Shere dilawar tashna dahan
   
   3
@@ -26,7 +27,7 @@ romanLyrics: |-
   Na baba na bhaiya
   Rayth hai ban mein laashon ka
   Jaye taraai dil ko kushaai
-  Kar gaye kunbe ko veeran
+  Kar gaye kunbe ko veeraan
   
   4
   Cheen ke darya pani ko roka
@@ -89,15 +90,14 @@ romanLyrics: |-
 ---
 
 عموجان عمو جان
-وادیء غربت کے میہمان
+وادیِ غربت کے مہمان
 
 ۱
-شاہ کی دختر لاشے چچا پر
+شاہ کی دختر لاشِ چچا پر
 نہر کنارے تھی نالاں
-عمو جان عمو جان
 
 ۲
-دلبر حیدر ثانیء جعفر
+دلبرِ حیدر ثانیِ جعفر
 شیر دلاور تشنہ دہاں
 
 ۳
@@ -106,7 +106,7 @@ romanLyrics: |-
 نہ بابا نہ بھیا
 ریت ہے بن میں لاشوں کا
 جاے ترای دل کو کشائی
-کر گےء کنبے کو ویران
+کر گئے کنبے کو ویران
 
 ۴
 چھین کے دریا پانی کو روکا
@@ -134,7 +134,7 @@ romanLyrics: |-
 
 ۷
 شیدا میرے سقہ
-میرےجنگل میں ہوں افتادہ
+میرے جنگل میں ہوں افتادہ
 وا دردا وا دردا
 ہاے سجادلا تکیہ
 ریت پہ جلتی لاش ہے تپتی
@@ -154,12 +154,12 @@ romanLyrics: |-
 سید کا مرشد کا
 داغ مجھے کم سنی میں دیا
 مارے صدقات ماہ امامت
-ہوگیا مٹی میں ویران
+ہو گیا مٹی میں ویران
 
 ۱۰
 سینۂ سرور ہاے ستمگر
 حیف نہ رتبہ رک جانا
 آقا کا مولا کا
-پڑھکر کلمہ احمد کا
+پڑھ کر کلمہ احمد کا
 فاطمہ زہرا جنت سے آ
 لاشے پر ہے نوحہ کناں

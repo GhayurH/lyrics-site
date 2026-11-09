@@ -5,14 +5,16 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 poet: "Yawar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Kehti thi ye ro ro ke sakina mere baba
-  Ammu nahi aaye
-  Mai kab se khadi dekhti hoo raasta unka
+  Ammu nahiṅ aaye
+  Main kab se khari dekhti huṅ raasta unka
+  Ammu nahiṅ aaye
 
   1
   Ay kaash na mai bhejti saahil pe chacha ko
@@ -20,7 +22,7 @@ romanLyrics: |-
   Ghar khair se aa jaye chacha jaan khudaya
 
   2
-  Kab mashk-o-alam leke suye nehr gaye thay
+  Kab mashk o alam le ke su-e-nehr gaye the
   Aur deke gaye thay wo mujhe kya kya wo dilaase
   Sab bhool gaye nehr ka paaya jo kanara
 
@@ -35,7 +37,7 @@ romanLyrics: |-
   Qaime se zara door hai darya ka kanara
 
   5
-  Koi unhe dede mera paigham zabani
+  Koi unhe de de mera paighaam zabaani
   Aa jao chacha ab mai nahi maangungi pani
   Gham se phata jaata hai mera aah kaleja
 
@@ -62,27 +64,28 @@ romanLyrics: |-
   10
   Yawar ye buka karti thi ro ro ke sakina
   Ammu ki khabar lijiye ya shaahe madina
-  Ammu ke baghiar mera dushwaar hai jeena
+  Ammu ke baghair mera dushwaar hai jeena
 # source_id: nohayonline:028a289719968ce0f0c3
 # source_url: https://www.nohayonline.com/details_content.php?id=529
 # raw_sha256: cf75e236a74743e7e04d0b69a40237e03ea30570972adba5293986dbbd56f40f
 ---
 کہتی تھی یہ رو رو کے سکینہ میرے بابا
-عموں نہیں آئے
-میں کب سے کھڑی دیکھتی ہوں راستہ اُن کا
+عمو نہیں آئے
+میں کب سے کھڑی دیکھتی ہوں راستہ ان کا
+عمو نہیں آئے
 
 ۱
-اے کاش! نہ میں بھیجتی ساحل پہ چچا کو
+اے کاش نہ میں بھیجتی ساحل پہ چچا کو
 اٰمین کہیں ہاتھ اُٹھاتی ہوں دُعا کو
 گھر خیر سے آ جائیں چچا جان خُدایا
 
 ۲
-کب مشق و علم لے کے سوئے نہر گئے تھے
+کب مشک و علم لے کے سوئے نہر گئے تھے
 اور دے کے گئے تھے مُجھے کیا کیا وہ دلاسے
 سب بھول گئے نہر کا پایا جو کنارا
 
 ۳
-کُوزا لیئے ہاتھوں میں سرِ راہ کھڑی ہوں
+کوزہ لیے ہاتھوں میں سرِ راہ کھڑی ہوں
 ہے سوچنا دُشوار مگر سوچ رہی ہوں
 شاید اُنہیں مُجھ سے بھی ہے زیادہ کوئی پیارا
 
@@ -93,7 +96,7 @@ romanLyrics: |-
 
 ۵
 کوئی اُنہیں دے دے میرا پیغام زبانی
-آ جائو چچا اب میں نہیں مانگوں گی پانی
+آ جاؤ چچا اب میں نہیں مانگوں گی پانی
 غم سے پھٹ جاتا ہے میرا آہ کلیجہ
 
 ۶
@@ -112,11 +115,11 @@ romanLyrics: |-
 کس کے لیئے روتا ہے یہ کُنبہ میرا سارا
 
 ۹
-ایسا نہ ہو اعدائ نے اُنہیں گھیر لیا ہو
+ایسا نہ ہو اعدا نے اُنہیں گھیر لیا ہو
 مشکیزے پہ تیر آیا ہو سینے پہ لگا ہو
 ساحل پہ کہیں ڈوب گیا ہو نہ سفینہ
 
 ۱۰
 یاور یہ بُکا کرتی تھی رو رو کے سکینہ
-عموں کی خبر لیجیئے یا شاہِ مدینہ
-عموں کے بغیر میرا دُشوار ہے جینا
+عمو کی خبر لیجیے یا شاہِ مدینہ
+عمو کے بغیر میرا دُشوار ہے جینا

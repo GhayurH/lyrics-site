@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sajid Jafri"
 poet: "Yasir Abbas"
 tags: ["noImage"]
 aliases: []
@@ -13,6 +14,7 @@ romanLyrics: |-
   Shabbir ki yateema ro ro ke keh rahi hai
   Ammu mujhe bacha lo
   Har baat par tamacha ye kaisi zindagi hai
+  Ammu mujhe bacha lo
 
   1
   Tera chacha sitam se tujhko agar bachale
@@ -22,12 +24,12 @@ romanLyrics: |-
   2
   Phir shimr aa raha hai ab le ke taziyana
   Tewar se lag raha hai phir se hoo mai nishana
-  Bebas mai ho gayi hoo kaisi ye bebasi hai
+  Bebas main ho gayi huṅ kaisi ye bebasi hai
 
   3
-  Kaise bhala mai ammu ab ye sitam sahungi
+  Kaise bhala main ammu ab ye sitam sahuṅgi
   Raahon mein kis tarha se panjo ke bal chalungi
-  Chote hai paaon mere takleef ye badi hai
+  Chhote hain paaon mere takleef ye bari hai
 
   4
   Gustaakh kar raha hai mujhse ye bad tameezi
@@ -58,8 +60,9 @@ romanLyrics: |-
 # raw_sha256: 2ab83b9ed181691415aa91aa62e8d4dfd2fc61e239dd13ffec5c7cca0336c07f
 ---
 شبیر کی یتیمہ رو رو کے کہہ رہی ہے
-عمو مجھے بچہ لو
+عمو مجھے بچا لو
 ہر بات پر طمانچے یہ کیسی زندگی ہے
+عمو مجھے بچا لو
 
 ۱
 تیرا چچا ستم سے تجھکو اگر بچالے
@@ -69,20 +72,20 @@ romanLyrics: |-
 ۲
 پھر شمر آ رہا ہے اب لے کے تازیانہ
 تیور سے لگ رہا ہے پھر سے ہوں میں نشانہ
-بے بس میں ہو گیء ہوں کیسی یہ بے بسی ہے
+بے بس میں ہو گئی ہوں کیسی یہ بے بسی ہے
 
 ۳
 کیسے بھلا میں عمو اب یہ ستم سہوں گی
 راہوں میں کس طرح سے پنجوں کے بل چلوں گی
-چھوٹے ہے پاؤں میرے تکلیف یہ بڑی ہے
+چھوٹے ہیں پاؤں میرے تکلیف یہ بڑی ہے
 
 ۴
 گستاخ کر رہا ہے مجھ سے یہ بد تمیزی
-اس کا مطالبہ ہے میرے لیےء کنیزی
-چھلنی جو روح بھی یہ سن کر لرز گیء ہے
+اس کا مطالبہ ہے میرے لیے کنیزی
+چھلنی جو روح بھی یہ سن کر لرز گئی ہے
 
 ۵
-لے لیگا جان میری زنداں کا یہ اندھیرا
+لے لے گا جان میری زنداں کا یہ اندھیرا
 کہتی ہے یہ سکینہ دم گھٹ رہا ہے میرا
 چاروں طرف ہے پہرہ کیسی یہ بیکسی ہے
 
@@ -97,6 +100,6 @@ romanLyrics: |-
 اب ہر گھڑی ہی مجھ پر آفت کی ایک گھڑی ہے
 
 ۸
-جب جاؤ کربلا تو یاصر یہ کام کرنا
+جب جاؤ کربلا تو یاسر یہ کام کرنا
 ساجد میرے چچا کو میرا پیام دینا
 کہنا تیری بھتیجی اب تک یہ کہہ رہی ہے

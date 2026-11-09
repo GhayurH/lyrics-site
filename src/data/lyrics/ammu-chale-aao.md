@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ameer Hasan Aamir"
 poet: "Bilal Kazmi"
 tags: ["noImage"]
 aliases: []
@@ -18,13 +19,13 @@ romanLyrics: |-
   Kaisi mohabbat hai ye kaisi wafa hai
   
   2
-  Rone nahi deta hai shimr e sitamgar
+  Rone nahiṅ deta hai Shimr-e-sitamgar
   Saans ka lena bhi ab hogaya doobhar
   Gham ki satayi par ye kaisi jafa hai
   
   3
-  Aap bhatiji se yun roothe hai kyun kar
-  Kyun nahi aate hai darya se palat kar
+  Aap bhatiji se yuṅ ruthe hain kiuṅ kar
+  Kiun nahiṅ aate hain darya se palat kar
   Itna bata dijiye kya meri khata hai
   
   4
@@ -38,7 +39,7 @@ romanLyrics: |-
   Aur mere kurte ka daaman bhi jala hai
   
   6
-  Behre khuda sun lo faryad e sakina
+  Bahr-e-Khuda sun lo faryaad-e-Sakina
   Apni bhatiji ko pahuncha do madina
   Gham se yahan jeena dushwaar hua hai
   
@@ -69,32 +70,32 @@ romanLyrics: |-
 عمو چلے آؤ عمو چلے آؤ
 
 ۱
-میری خبر لینے آے نہ پلٹ کر
-بھول گےء مجھکو تم نہر پہ جا کر
+میری خبر لینے آئے نہ پلٹ کر
+بھول گئے مجھ کو تم نہر پہ جا کر
 کیسی محبت ہے یہ کیسی وفا ہے
 
 ۲
 رونے نہیں دیتا ہے شمر ستمگر
 سانس کا لینا بھی اب ہو گیا دو بھر
-غم کی ستای پر یہ کیسی جفا ہے
+غم کی ستائی پر یہ کیسی جفا ہے
 
 ۳
-آپ بھتیجی سے یوں روٹھے ہے کیوں کر
+آپ بھتیجی سے یوں روٹھے ہیں کیوں کر
 کیوں نہیں آتے ہیں دریا سے پلٹ کر
-اتنا بتا دیجیۓ کیا میری خطا ہے
+اتنا بتا دیجیے کیا میری خطا ہے
 
 ۴
 اہلِ حرم گریہ ہے خاک پہ بیٹھے
 ڈوب چکا سورج اور جل چکے خیمے
-چھای ہوی ہر سوں اب غم کی گھٹا ہے
+چھائی ہوئی ہر سو اب غم کی گھٹا ہے
 
 ۵
 جل گیا شعلوں میں بیمار کا بستر
-اب نہ رہا باقی گہوارہء اصغر
+اب نہ رہا باقی گہوارۂ اصغر
 اور میرے کرتے کا دامن بھی جلا ہے
 
 ۶
-بہر خدا سن لو فریادہء سکینہ
+بہرِ خدا سن لو فریادِ سکینہ
 اپنی بھتیجی کو پہنچا دو مدینہ
 غم سے یہاں جینا دشوار ہوا ہے
 
@@ -104,8 +105,8 @@ romanLyrics: |-
 سر ہے کھلے سب کے مقنہ نہ ردا ہے
 
 ۸
-کون اٹھاے گا گودی میں بلا کے
-کون پہناے گا بندیں مجھے لا کے
+کون اٹھائے گا گودی میں بلا کے
+کون پہنائے گا بندیں مجھے لا کے
 شمر میرے گوہر بھی چھین رہا ہے
 
 ۹
