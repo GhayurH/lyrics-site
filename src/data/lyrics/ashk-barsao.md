@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Dil ke ho jazbaat har pal nauhagar
-  Saara aalam ho faqat askhkon se tar
+  Saara aalam ho faqat ashkoṅ se tar
   Aisi goonje wa hussaina ki sada
 
   2
@@ -25,7 +25,7 @@ romanLyrics: |-
   Un aseeron ka karo matam bapa
 
   3
-  Apna maula wo husaain ibne ali
+  Apna maula wo Husain ibne ali
   Jis ke dam se deen mein hai roshni
   Asr e ashoora wo suraj dhal gaya
 
@@ -72,7 +72,7 @@ romanLyrics: |-
   12
   Jitna ro sakte ho ro lo shaah par
   Khatm ho jaye na jaane kab safar
-  Kya bharosa zindigi ka ay raza
+  Kya bharosa zindigi ka ae Raza
 # source_id: nohayonline:7f04f6744ca69696437f
 # source_url: https://www.nohayonline.com/details_content.php?id=1995
 # raw_sha256: 8ae4b2259102120435b21095997a7bce987d3d916b45f2d2c1e1684bf9c33a93
@@ -80,15 +80,15 @@ romanLyrics: |-
 
 مومنوں کے لب پہ ہے آہ و بکا
 اشک برساؤ محرم آ گیا
-چھا گیء ہر سوں مصائب کی گھٹا
+چھا گئی ہر سوں مصائب کی گھٹا
 
 ۱
-دل کے ہو جزبات ہر پل نوحہ گر
+دل کے ہو جذبات ہر پل نوحہ گر
 سارا عالم ہو فقط اشکوں سے تر
 ایسی گونجے وا حسینا کی صدا
 
 ۲
-آ گےء پردیس میں چھوٹا وطن
+آ گئے پردیس میں چھوٹا وطن
 جن کے لاشے دشت میں تھے بیکفن
 ان اسیروں کا کرو ماتم بپا
 
@@ -104,7 +104,7 @@ romanLyrics: |-
 
 ۵
 کربلا سے شام جب قیدی چلے
-پڑ گےء پیروں میں انکے آبلے
+پڑ گئے پیروں میں انکے آبلے
 اس قدر دشوار تھا وہ راستہ
 
 ۶
@@ -120,12 +120,12 @@ romanLyrics: |-
 ۸
 ہم غلامان شاہ ابرار ہے
 کربلا والوں کے ماتم دار ہے
-یہ زمیں شبیر کا ہے غم کڑا
+یہ زمیں شبیر کا ہے غم کدہ
 
 ۹
 ایسا ہو فرش عزا کا اہتمام
-صدقہء شبیر میں لنگر ہو آم
-ہر عزا خانہ ہو ایک نعمت کڑا
+صدقہء شبیر میں لنگر ہو عام
+ہر عزا خانہ ہو ایک نعمت کدہ
 
 ۱۰
 مجلس و ماتم ہو نوحے اور سلام
@@ -135,9 +135,9 @@ romanLyrics: |-
 ۱۱
 مقصد شبیر ہو اپنی حیات
 ہو رواں ہر آنکھ سے نہر فرات
-تو تصور تشنگیء شاہ کا
+ہو تصور تشنگئی شاہ کا
 
 ۱۲
 جتنا رو سکتے ہو رو لو شاہ پر
-ختم ہو جاے نہ جانے کب صبر
+ختم ہو جاے نہ جانے کب سفر
 کیا بھروسہ زندگی کا اے رضا

@@ -9,7 +9,7 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa karti thi ye naale karbala ke biyaban mein
+  Maaṅ karti thi ye naale karbala ke biyaban mein
   Asghar mere asghar jaani asghar mere asghar jaani
 
   1
@@ -17,11 +17,11 @@ romanLyrics: |-
   Dam tod diya asghar karbal ke biyaban mein
 
   2
-  Ek hook uthi dil mein dekha jo suye maqtal
-  Rote hai khade sarwar karbal ke biyaban mein
+  Aik huk uthi dil mein dekha jo suye maqtal
+  Rote hain khare sarwar karbal ke biyaban mein
 
   3
-  Baysheer ki mayyat ko daaman mein chipa laaye
+  Beshir ki mayyat ko daaman mein chipa laaye
   Maa dekhti hai manzar karbal ke biyaban mein
 
   4
@@ -34,10 +34,10 @@ romanLyrics: |-
 
   6
   Din raat nigahon mein phirti hai teri surat
-  Mar jaungi mai muztar karbal ke biyaban mein
+  Mar jaungi main muztar karbal ke biyaban mein
 
   7
-  Baysheer teri furqat kis tarha gawara ho
+  Beshir teri furqat kis tarha gawara ho
   Kya dil hai mera pathar karbal ke biyaban mein
 
   8
@@ -60,7 +60,7 @@ romanLyrics: |-
 
 ۲
 ایک ہوک اٹھی دل میں دیکھا جو سوے مقتل
-روتے ہے کھڑے سرور کربل کے بیاباں میں
+روتے ہیں کھڑے سرور کربل کے بیاباں میں
 
 ۳
 بے شیر کی میت کو دامن میں چھپا لاے

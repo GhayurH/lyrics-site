@@ -11,17 +11,17 @@ aliases: []
 published: false
 romanLyrics: |-
   Asghar nisaar kar ke shabbir surkh roo hai
-  Bach jaaye deen e ahmad bas yehi justuju hai
+  Bach jae Deen-e-Ahmad bas yehi justuju hai
 
   1
-  Zara dekh tu sitamgar teer e sitam chala kar
+  Zara dekh tu sitamgar teer-e-sitam chala kar
   Seh pehlu teer tera khayega muskara kar
   Imran ka ye khoon hai jo tere roobaru hai
 
   2
-  De kar azan akbar khaane sina chala hai
+  De kar azaan Akbar khaane sina chala hai
   Qurban ho gaya wo burqe mein jo pala hai
-  Tasveer e mustafa ki akbar jo hoobahu hai
+  Tasveer-e-Mustafa ki akbar jo hubahu hai
 
   3
   Kuch aur bhi talab kar khaliq se keh raha hai
@@ -31,10 +31,10 @@ romanLyrics: |-
   4
   Aisa dikhao koi is dehr mein namazi
   Ghar baar ko luta kar rab ko kiya hai raazi
-  Karbobala mein jis ne khoon se kiya wuzu hai
+  Karbobala mein jis ne khun se kiya wuzu hai
 
   5
-  Waqte nizha ho maula shabbir ki ziyarat
+  Waqt-e-naza ho maula shabbir ki ziyarat
   Is se badi nahi hai mere liye sa'aadat
   Khursheed mere dil mein bas yehi aarzu hai
 # source_id: nohayonline:2740cf483d01d87b875d
@@ -45,8 +45,8 @@ romanLyrics: |-
 بچ جائے دین احمد بس یہی جستجو ہے
 
 ۱
-زرا دیکھ تو ستمگر تیر ستم چلا کر
-سہ پہلو تیر تیرا کھاے گا مسکرا کر
+ذرا دیکھ تو ستمگر تیر ستم چلا کر
+سہ پہلو تیر تیرا کھائے گا مسکرا کر
 عمران کا یہ خوں ہے جو تیرے روبرو ہے
 
 ۲
@@ -60,11 +60,11 @@ romanLyrics: |-
 سر سجدے میں خدا سے وہ محو گفتگو ہے
 
 ۴
-ایسا دکھاؤ کوی اس دہر میں نمازی
+ایسا دکھاؤ کوئی اس دہر میں نمازی
 گھر بار کو لٹا کر رب کو کیا ہے راضی
 کربوبلا میں جس نے خوں سے کیا وضو ہے
 
 ۵
 وقتِ نزع ہو مولا شبیر کی زیارت
-اس سے بڑی نہیں ہے میرے لیےء سعادت
+اس سے بڑی نہیں ہے میرے لیے سعادت
 خورشید میرے دل میں بس یہی آرزو ہے

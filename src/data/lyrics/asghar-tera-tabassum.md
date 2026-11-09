@@ -15,7 +15,7 @@ romanLyrics: |-
   Baatil ko ta qayamat na-kaam kar gaya hai
 
   1
-  Hal min ka isteghasa dena hussain ka
+  Hal min ka isteghasa dena Husain ka
   Zainab ke dil mein paida kohraam kar gaya hai
 
   2
@@ -24,14 +24,14 @@ romanLyrics: |-
 
   3
   Hurmal ke teer ko seh ke bhi asghar ke lab muskaye
-  Shabbir ka laal tha asghar bhi kyun maut se wo ghabraye
+  Shabbir ka laal tha asghar bhi kiun maut se wo ghabraye
   Aaghosh rubab ki khaali hai koi asghar ko ab laaye
   Khud so gaya khaake karbal pe par maa ko neend na aaye
   Goya wo so gaya hai karbal ki khaak mein
-  Maa ko wo mubtila e aalaam kar gaya hai
+  Maa ko wo mubtala-e-alam kar gaya hai
 
   4
-  Abid lahoo ke aansu roya hai go hussain
+  Abid lahoo ke aansu roya hai go Husain
   Dunya mein aam tera paigham kar gaya hai
 
   5
@@ -39,7 +39,7 @@ romanLyrics: |-
   Sailaab mein maut ke jisne thi nanhi si jaan baha di
   Tadfeen hui masoom ki ban mein hairaan hui dunya thi
   Asghar to khaak pe yun soya jaise wo godh ho maa ki
-  Baysheer ki tadfeen se lagta hai yun ameer
+  Beshir ki tadfeen se lagta hai yun ameer
   Jaise wo maa ki godh mein aaram kar gaya hai
 # source_id: nohayonline:a0a33ef5039a9ee1b0c5
 # source_url: https://www.nohayonline.com/details_content.php?id=2948

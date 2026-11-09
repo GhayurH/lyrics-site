@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,63 +14,63 @@ romanLyrics: |-
   Kab tum ghar mein aaoge
   Maa ko dikhane shakl suhani
   Saanj bhayi ghar aa dularwa
-  Asghar moray aghar moray
-  Maa baithi hai dyaan ma tohre
-  Asghar moray aghar moray
+  Asghar moray asghar moray
+  Maa baithi hai dhyaan ma tohre
+  Asghar moray asghar moray
 
   1
   Mukh chandan sa akhiyan roshan
   Mehka mehka man ka aangan
   Palkein sundar baal sunehre
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 
   2
   Khelen waala sin tha bhaiya
   Soch rahi hai behni dukhiya
   Aao humre dil ke savere
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 
   3
   Kaisan pahunche peewan pani
   Hoigayi ghar par maa veerani
   Phailan laage ghor andhere
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 
   4
   Teeran ki barkha barsat hai
   Door watan se ee aafat hai
   Ghup gaye khanjar dil ma moray
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 
   5
   Laagi hai humre dil ma agni
   Sookhat hai ab shaakh gulan ki
   Surkh bhaye hai akhiyan doray
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 
   6
-  Orr chale ho kaahe ran ke
+  Aur chale ho kaahe ran ke
   Wan to laga naiza bayan ke
   Aon ki maa bilkat hai tadpe
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 
   7
   Godh mein baba ki humkat ho
-  Shauq e shahadat mein jaagat ho
+  Shauq-e-shahadat mein jaagat ho
   Kaa bolat ho dheere dheere
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 
   8
   Kurta lahoo ma doob gawa hai
   Gardan ma suraakh bawa hai
   Moo se zaban hai baahar tohre
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 
   9
-  Ee nauha rehaan o raza jab
+  Ee nauha Rehan o Raza jab
   Aawe jaisan maahe aza tab
   Bhariyo royi nain katore
-  Asghar moray aghar moray
+  Asghar moray asghar moray
 # source_id: nohayonline:70f88f2c94f2c5bf1dfd
 # source_url: https://www.nohayonline.com/details_content.php?id=2394
 # raw_sha256: 5cdf6a50d8ccebbf61c854e04aa456d016af4eff612af07cb4b813eeeb4e9ec7

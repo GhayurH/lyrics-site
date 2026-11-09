@@ -10,8 +10,8 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Veeran aagosh e maadar veeran dil sakina ka
-  Qaimon ki tarha hai veeran asghar tera jhoola
+  Veeran aagosh-e-maadar veeran dil sakina ka
+  Khaimoṅ ki tarha hai veeran asghar tera jhoola
   Aansu bahaye kaise jhulaye bali sakina haye
   Asghar tera jhoola asghar tera jhoola
 
@@ -23,13 +23,13 @@ romanLyrics: |-
 
   2
   Soona hai jangal sooni hai godhi
-  Zakhm e judaai de gaya tu bhi
+  Zakhm-e-judai de gaya tu bhi
   Veeran dil hai veeran hai maa
   Ye keh ke roya haye
 
   3
   Aa mere jaani aa gaya pani
-  Aaja mita doo tashnadahani
+  Aaja mita do tashnadahani
   Kooza utha kar royi sakina
   Jaise hi dekha haye
 
@@ -42,7 +42,7 @@ romanLyrics: |-
   5
   Maqtal mein tujhko kya neend aayi
   Kisne wahan par lori sunayi
-  Kal tak thi jhoola aagosh e maadar
+  Kal tak thi jhoola aagosh-e-maadar
   Aaj ye sehra haye
 
   6
@@ -59,12 +59,12 @@ romanLyrics: |-
 
   8
   Maa ki fughan ka lori samajh kar
-  Ay mere bache aaja palat kar
+  Ae mere bache aaja palat kar
   Kehti hai maadar hoti zabaan gar
   Tujhko bulata haye
 
   9
-  Babul hawaij ay maula asghar
+  Babul hawaij ae maula Asghar
   Kehte hai sab se, irfan o mazhar
   Paayi duayein us ne ali se
   Jis ne uthaya haye

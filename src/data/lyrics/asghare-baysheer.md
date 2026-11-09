@@ -5,20 +5,20 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Mir Takallum"
+poet: "Mir Takallum Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro rahi hai soch kar ummul baneen ye aaj bhi
-  Asghar e baysheer jaisi qabr hai abbas ki
-  Rashk karti thi mai aqse hyder e karrar par
+  Ro rahi hai soch kar Ummul Banin ye aaj bhi
+  Asghar Beshir jaisi qabr hai abbas ki
+  Rashk karti thi main aks-e Haider-e-Karrar par
   Paon khat dete thay uske baith kar rahwaar par
   Haye mere sher ki ye kaisi haalat ho gayi
 
   1
   Marke bhi usne nibhaya mujhse jo wada kiya
-  Apne bete ki wafa par faqr hai mujhko bada
+  Apne bete ki wafa par fakhr hai mujhko bada
   Ab nahi asghar ki maa se kuch mujhe sharmindagi
 
   2
@@ -37,7 +37,7 @@ romanLyrics: |-
   Umme farwa jaanti hai kya hai meri bekasi
 
   5
-  Kab samaata tha meri chadar mein tu ay mere laal
+  Kab samaata tha meri chadar mein tu ae mere laal
   Kar diya hai zaalimo ne ye tere laashe ka haal
   Hai mere sar ki rida bhi teri turbat se badi
 
@@ -62,13 +62,13 @@ romanLyrics: |-
 
 ۱
 مرکے بھی اس نے نبھایا مجھ سے جو وعدہ کیا
-اپنے بیٹے کی وفا پر فقر ہے مجھ کو بڑا
+اپنے بیٹے کی وفا پر فخر ہے مجھ کو بڑا
 اب نہیں اصغر کی ماں سے کچھ مجھے شرمندگی
 
 ۲
 باپ کے بدلے مسلمانوں نے بیٹے سے لےء
 سر جدا ہے تن جدا بازو جدا ہیں شیر کے
-آپکی تصویر ٹکڑے ہو گیی ہے یاعلی
+آپکی تصویر ٹکڑے ہو گیی ہے یا علی
 
 ۳
 کون لڑ سکتا تھا اس سے کس میں تھا اتنا جگر
@@ -86,7 +86,7 @@ romanLyrics: |-
 ہے میرے سر کی ردا بھی تیری تربت سے بڑی
 
 ۶
-کہ کے یا عباس کرتا ہے وہ آشکوں سے وضو
+کہ کے یا عباس کرتا ہے وہ اشکوں سے وضو
 ڈرتی ہوں جاری نہ ہو پھر اسکی آنکھوں سے لہو
 سامنے عابد کے یوں کہتی نہیں ہوں میں کبھی
 
