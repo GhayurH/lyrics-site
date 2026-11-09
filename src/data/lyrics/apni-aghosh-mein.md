@@ -5,13 +5,14 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shadman Raza"
 poet: "Nawab Cholasvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye ya hussain haye ya hussain
-  Chal rahi hai meri gardan pe churi
+  Haye ya Husain haye ya Husain
+  Chal rahi hai meri gardan pe chhuri
   Apni aaghosh mein le lo amma
   Keh rahe the ye hussain ibne ali
   Apni aaghosh mein le lo amma
@@ -49,7 +50,7 @@ romanLyrics: |-
 
   7
   Kho diye dasht mein aankhon ke ujaale maine
-  Khaliye dil pe bahot dard ke bhaale maine
+  Kha liye dil pe bahut dard ke bhaale maine
   Maut aati hai to aa jaaye abhi
 
   8
@@ -90,7 +91,7 @@ romanLyrics: |-
 ۳
 تھک گیا لاشیں اٹھا کر بھرے لشکر کی
 لاش قاسم کی میں لایا ہوں کبھی اکبر کی
-خود بنای ہے لحد میں نے علی اصغر کی
+خود بنائی ہے لحد میں نے علی اصغر کی
 دو تسلی مجھے سینے سے لگا لو اماں
 
 ۴
@@ -99,28 +100,28 @@ romanLyrics: |-
 ہو رہی ہے اسے تکلیف بڑی
 
 ۵
-مر گیا میرا جری بھای مگر صبر کیا
-میرے اکبر نے سناں کھای مگر صبر کیا
-مل گیء خاک میں تصویر نبی
+مر گیا میرا جری بھائی مگر صبر کیا
+میرے اکبر نے سناں کھائی مگر صبر کیا
+مل گئی خاک میں تصویر نبی
 
 ۶
-ہاجرہ آسیہ مریم بھی اسی دشت میں ہے
-نوح بھی حضرتِ آدم بھی اسی دشت میں ہے
+ہاجرہ آسیہ مریم بھی اسی دشت میں ہیں
+نوح بھی حضرتِ آدم بھی اسی دشت میں ہیں
 رو رہے ہیں میری غربت پہ سبھی
 
 ۷
-کھو دیےء دشت میں آنکھوں کے اجالے میں نے
-کھا لیا دل پہ بہت درد کے بھالے میں نے
-موت آتی ہے تو آ جاے ابھی
+کھو دیے دشت میں آنکھوں کے اجالے میں نے
+کھا لیے دل پہ بہت درد کے بھالے میں نے
+موت آتی ہے تو آ جائے ابھی
 
 ۸
 کلمہ گو خون رلاتے ہیں مجھے مقتل میں
 دیکھ لو کتنا ستاتے ہیں مجھے مقتل میں
-ہل گیء دیکھ لو مقتل کی زمیں
+ہل گئی دیکھ لو مقتل کی زمیں
 
 ۹
 اک گزارش ہے میری تم سے اب اتنی مادر
-اماں بابا کے قسم ڈھانپ لو منہ پر چادر
+اماں بابا کی قسم ڈھانپ لو منہ پر چادر
 دیکھا جائے گا نہ اب تم سے یہ خونی منظر
 ارے قتل ہوتا ہوں نگاہوں کو ہٹا لو اماں
 

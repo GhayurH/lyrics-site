@@ -5,15 +5,16 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Hassan Mir"
 poet: "Mir Takallum"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Zainab ka tha nauha baba mere baba
-  Mai zainab hoon pehchano zara
+  Main Zainab huṅ pehchaano zara
   Aankhein kholo zakhmi baba
-  Kyun sunte nahi beti ki sada
+  Kiun sunte nahiṅ beti ki sada
   Aankhein kholo zakhmi baba
 
   1
@@ -69,22 +70,22 @@ romanLyrics: |-
 # raw_sha256: 098e36bb096c8f046a9cfc41a112ff44c2fcfad249658a2e1e23262cbeda58e1
 ---
 زینب کا تھا نوحہ بابا میرے بابا
-میں زینب ہوں پہچانو زرا
+میں زینب ہوں پہچانو ذرا
 آنکھیں کھولو زخمی بابا
 کیوں سنتے نہیں بیٹی کی صدا
 آنکھیں کھولو زخمی بابا
 
 ۱
-حضرت کا مصلہ ہے خالی
-کیا صبح قیامت لای ہے
+حضرت کا مصلّٰی ہے خالی
+کیا صبح قیامت لائی ہے
 سورج کو جگاتے تھے تم تو
-اب نیند یہ کیسی آی ہے
+اب نیند یہ کیسی آئی ہے
 میں کب سے ہلاتی ہوں شانہ
 
 ۲
 قربان میں اس کی غیرت کے
 خاموش تمہارا بیٹا ہے
-دہلیز پہ ہجرے کی کب سے
+دہلیز پہ حجرے کی کب سے
 سر اپنا جھکائے بیٹھا ہے
 عباس پہ جاری ہے سکتہ
 
@@ -107,7 +108,7 @@ romanLyrics: |-
 بے رحم زمانہ ہے زینب
 خاموش ہوئے اتنا کہہ کر
 دربار میں جانا ہے زینب
-تفسیل بتا دو اور زرا
+تفصیل بتا دو اور ذرا
 
 ۶
 اماں کی نیابت کرتی ہوں
@@ -118,7 +119,7 @@ romanLyrics: |-
 
 ۷
 کیا لکھوں جنازے کا منظر
-ایک حشر تکلم تھا ہر سوں
+ایک حشر تکلم تھا ہر سو
 آنکھیں تو نہ کھولی زیر کفن
-آنکھوں سے نکلتے تھے آنسوں
+آنکھوں سے نکلتے تھے آنسو
 تابوت پہ جب بیٹی نے کہا

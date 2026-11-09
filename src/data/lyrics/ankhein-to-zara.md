@@ -1,10 +1,11 @@
 ---
-title: اُٹھ جائو علی اصغر
+title: اٹھ جاؤ علی اصغر
 alternateTitle: Ankhein To Zara
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Raza Abbas Zaidi"
 poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
@@ -12,7 +13,8 @@ published: false
 romanLyrics: |-
   Uth jao ali asghar
   Aankhein to zara kholo aise to nahi rootho
-  Kuch bolo mere bhaiya asghar
+  Kuch bolo mere bhaiya Asghar
+  Uth jao Ali Asghar
 
   1
   Lori tujhe sunaungi jhoola jhulaungi
@@ -22,7 +24,7 @@ romanLyrics: |-
   2
   Suraj to jaa chuka hai hone laga andhera
   Tareek shaam aayi bhoolo na ghar ka rasta
-  Mai darr rahi hoo bhaiya jangal mein darr na jao
+  Main dar rahi huṅ bhaiya jangal mein darr na jao
 
   3
   Amma to bekhabar hai maidan mein kya hua hai
@@ -31,7 +33,7 @@ romanLyrics: |-
 
   4
   Khusboo tere lahoo ki saanson mein aa rahi hai
-  Tu aa wagar na meri ab jaan jaa rahi hai
+  Tum aao wagar na meri ab jaan ja rahi hai
   Dil keh raha hai mera bhai ko apne rolo
 
   5
@@ -62,16 +64,17 @@ romanLyrics: |-
 اُٹھ جائو علی اصغر
 آنکھیں تو ذرا کھولو ایسے تو نہیں رُوٹھو
 کچھ بولو میرے بھیا اصغر
+اٹھ جاؤ علی اصغر
 
 ۱
-لوری تجھے سُنائوں گی جھولا جھُلائوں گی
-اشکوں سے تیرا چہرا اصغر میں دھُلائوں گی
+لوری تجھے سناؤں گی جھولا جھلاؤں گی
+اشکوں سے تیرا چہرہ اصغر میں دھلاؤں گی
 آواز میری سُن کر للہ ذرا جاگو
 
 ۲
 سورج تو جا چُکا ہے ہونے لگا اندھیرا
 تاریک شام آئی بھولو نہ گھر کا راستہ
-میں ڈر رہی ہوں بھیا جنگل میں ڈر نہ جائو
+میں ڈر رہی ہوں بھیا جنگل میں ڈر نہ جاؤ
 
 ۳
 اماں تو بے خبر ہیں میداں میں کیا ہوا ہے
@@ -80,11 +83,11 @@ romanLyrics: |-
 
 ۴
 خوشبو تیرے لہو کی سانسوں میں آ رہی ہے
-تم آئو وگر نہ میری اب جان جا رہی ہے
+تم آؤ وگر نہ میری اب جان جا رہی ہے
 دل کہہ رہا ہے میرا بھائی کو اپنے رو لو
 
 ۵
-آ کر دیکھائو چہرا دم گھُٹ رہا ہے میرا
+آ کر دکھاؤ چہرہ دم گھُٹ رہا ہے میرا
 میں بھی تو دیکھوں بھیا ہے زخم کتنا گہرا
 اب میرے صبر کو تم اصغر نہ اور تولو
 
