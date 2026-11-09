@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,13 +15,13 @@ romanLyrics: |-
   Hyder ki tamanna hai to zehra ki dua hai
   Islam ki sheh-rag mein hai khoone dile shabbir
   Saanson mein rawan parcham e ghazi ki hawa hai
-  Alamdare lashkare hussain
+  Alamdare lashkare Husain
 
   1
-  Naam abbas hai zehra ki tamanna mai hoo
-  Sher e khaaliq ki duaon ka nateeja mai hoo
-  Hashmi khoon ki jurrat ka asasa mai hoo
-  Pyas pani ki bujhe jis se wo darya mai hoo
+  Naam abbas hai zehra ki tamanna main huṅ
+  Sher e khaaliq ki duaon ka nateeja main huṅ
+  Hashmi khoon ki jurrat ka asasa main huṅ
+  Pyas pani ki bujhe jis se wo darya main huṅ
   Mai hoo ghairat ka khuda
   Mai hoo zehra ki dua
   Mai alamdare wafa
@@ -64,7 +65,7 @@ romanLyrics: |-
   5
   Mai mita sakta hoo ek lamhe mein tum sab ka nishan
   Hashmi khoon hai kya tum pe ye kardoonga ayan
-  Hukm doo mai to abhi nehr khud aajaye yahan
+  Hukm duṅ main to abhi nehr khud aa jae yahaṅ
   Izn shabbir agar de to ulat jaaye jahan
   Mai hoo marzi e khuda
   La fata ki hoo dua
@@ -73,7 +74,7 @@ romanLyrics: |-
   Apne maula ki razaon ka talabgaar hoo mai
 
   6
-  Ay sakina tera gham zainab e dilgeer ka gham
+  Ae Sakina tera gham zainab e dilgeer ka gham
   Maa ka gham behno ka gham asghare baysheer ka gham
   Chadar e zehra ka gham chadar e tatheer ka gham
   Khoon rulaata hai mujhe hazrate shabbir ka gham
@@ -92,7 +93,7 @@ romanLyrics: |-
   Karta dushman ko fanaa
   Mai alamdare wafa
   Tujhpe hoti na jafa
-  Ay sakina bada majboor hoo lachaar hoo mai
+  Ae Sakina bada majboor hoo lachaar hoo mai
 
   8
   Hai yehi noor ali hazrate ghazi ki sada
@@ -117,13 +118,13 @@ romanLyrics: |-
 ۱
 نام عباس ہے زہرا کی تمنا میں ہوں
 شیر خالق کی دعاؤں کا نتیجہ میں ہوں
-ہاشمی خون کی جرأت کا اساسہ میں ہوں
-پیاس پانی کی بجھ جس سے وہ دریا میں ہوں
+ہاشمی خون کی جرأت کا اثاثہ میں ہوں
+پیاس پانی کی بجھے جس سے وہ دریا میں ہوں
 میں ہوں غیرت کا خدا
 میں ہوں زہرا کی دعا
 میں علمدار وفا
 میں ہوں زینب کی ردا
-ثانیء شیر خدا ہوں میں
+ثانیِ شیرِ خدا ہوں میں
 علمدار ہوں میں
 
 ۲
@@ -135,7 +136,7 @@ romanLyrics: |-
 میں علی کی ہوں دعا
 میں علمدار وفا
 میں سکینہ کا چچا
-اپنی تخلیق میں اللہ کا شاہ کار ہوں میں
+اپنی تخلیق میں اللہ کا شاہکار ہوں میں
 
 ۳
 اپنے قدموں میں زمانے کو جھکا سکتا ہوں
@@ -146,7 +147,7 @@ romanLyrics: |-
 حشر کردوں گا بپا
 میں علمدار وفا
 موت کی ڈر سے گھٹا
-تم پکاروگے قد حیدر کرار ہوں میں
+تم پکارو گے خود حیدرِ کرار ہوں میں
 
 ۴
 کس میں جرأت ہے کہ روکے میرا رستہ کوئی
@@ -162,7 +163,7 @@ romanLyrics: |-
 ۵
 میں مٹا سکتا ہوں اک لمحے میں تم سب کا نشاں
 ہاشمی خون ہے کیا تم پہ یہ کردوں گا عیاں
-حکم دوں میں تو ابھی نہر قد آجائے یہاں
+حکم دوں میں تو ابھی نہر خود آ جائے یہاں
 اذن شبیر اگر دے تو الٹ جائے جہاں
 میں ہوں مرضیء خدا
 لافتی کی ہوں دعا
@@ -195,7 +196,7 @@ romanLyrics: |-
 ۸
 ہے یہی نور علی حضرت غازی کی صدا
 شاہ کے غم میں بچھاتے ہیں جو فرش عزا
-نوحہ و مجلس ماتم میں جو رہتے ہیں صدا
+نوحہ و مجلس و ماتم میں جو رہتے ہیں صدا
 دل میں آباد جو رکھتے ہیں غم کربوبلا
 قلب وہ غم کی ضیا
 باب حاجت ہو عطا
