@@ -5,23 +5,25 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: |-
-  Ali ki betiyan jab zindan may aseer hui
-  Musibatein haram e shaah par kaseer hui
-  Rasool zadiyan haakim ki dastageer hui
-  Firaaq e shaah may shehzadiyan faqeer hui
-  Kayi dino se mayassar na aab o daana tha
-  Andheri raat thi toota sa qaid khana tha
 # source_id: nohayonline:383385cc5fa2b3288a7b
 # source_url: https://www.nohayonline.com/details_content.php?id=2668
 # raw_sha256: d6df866a6152c1468f942f9d13bbcca7ad79a3a9add0749404ccdd3f39fcc17a
+romanLyrics: |-
+  Ali ki betiyaṅ jab zindan mein asir huiṅ
+  Musibateṅ haram-e-Shah par kasir huiṅ
+  Rasulzadiyaṅ hakim ki dastgir huiṅ
+  Firaq-e-Shah mein shahzadiyaṅ faqir huiṅ
+  Kayi dinoṅ se mayassar na aab o dana tha
+  Andheri raat thi tuta sa qaidkhana tha
 ---
-علی کی بیٹیاں جب زندان میں اسیر ہوی
-مصیبتیں حرم شاہ پر کثیر ہوی
-رسول زادیاں حاکم کی درستگیر ہوی
-فراقِ شاہ میں شہزادیاں فقیر ہوی
-کےء دنوں سے میسر نہ آب و دانا تھا
+
+علی کی بیٹیاں جب زندان میں اسیر ہوئیں
+مصیبتیں حرمِ شاہ پر کثیر ہوئیں
+رسول زادیاں حاکم کی دستگیر ہوئیں
+فراقِ شاہ میں شہزادیاں فقیر ہوئیں
+کئی دنوں سے میسر نہ آب و دانہ تھا
 اندھیری رات تھی ٹوٹا سا قید خانہ تھا

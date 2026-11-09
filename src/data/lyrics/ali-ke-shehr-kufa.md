@@ -6,50 +6,52 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: |-
-  Ali ke shehr kufa mein samaan zainab pe kya aaya
-  Kuja burqa shariyat ka rida ka bhi nahi saaya
-
-  1
-  Janaza jis ki maadar ka utha tha parda e shab mein
-  Zamana us ki beti ko sar e bazaar le aaya
-
-  2
-  Kaha ro kar sakina ne chacha muslim duhaai hai
-  Wo dekho phir mujhe zaalim tamache maarne aaya
-
-  3
-  Darazi manzilon ki rayt ke tapte huwe raste
-  Anokha saarban hai bediyan pehne huwe aaya
-
-  4
-  Saje hai baam o dar kufa mein aamad hai aseeron ki
-  Tamasha aale ahmed ka musalman dekhne aaya
-
-  5
-  Wo khutba tha ke haibat cha gayi darbar saare par
-  Ali ki sher dil beti mein hyder sa jalaal aaya
-
-  6
-  Kaha sajjad se zainab ne ro ke kuch to batlao
-  Najaf se le ke chadar kyun mera baba nahi aaya
-
-  7
-  Jahan baba ki shaahi thi usi darbar mein zainab
-  Nisar aayi barehna sar ye kaisa inquilaab aaya
 # source_id: nohayonline:558a6476cdf55e3b6617
 # source_url: https://www.nohayonline.com/details_content.php?id=3230
 # raw_sha256: 8125a06969992674eac1f091bbf4d37b2c6b8f22730ea25ffa4b905821749e2e
+romanLyrics: |-
+  Ali ke shahr Kufa mein samaṅ Zainab pe kya aaya
+  Kuja burqa-e-shariat ka rida ka bhi nahiṅ saya
+  
+  1
+  Janaza jis ki madar ka utha tha parda-e-shab mein
+  Zamana us ki beti ko sar-e-bazar le aaya
+  
+  2
+  Kaha ro kar Sakina ne Chacha Muslim duhayi hai
+  Wo dekho phir mujhe zalim tamache marne aaya
+  
+  3
+  Darazi manziloṅ ki ret ke tapte hue raste
+  Anokha sarban hai beriyaṅ pehne hue aaya
+  
+  4
+  Saje haiṅ bam o dar Kufa mein aamad hai asiroṅ ki
+  Tamasha Aal-e-Ahmad ka Musalman dekhne aaya
+  
+  5
+  Wo khutba tha ke haibat chha gayi darbar sare par
+  Ali ki sher-dil beti mein Haider sa jalal aaya
+  
+  6
+  Kaha Sajjad se Zainab ne ro ke kuchh to batlao
+  Najaf se le ke chadar kiuṅ mera Baba nahiṅ aaya
+  
+  7
+  Jahaṅ Baba ki shahi thi usi darbar mein Zainab
+  Nisar aayi barehna sar ye kaisa inqilab aaya
 ---
-علی کے شہر کوفہ میں سماں زینب پہ کیا آیا
-کجا برقع شریعت کا ردا کا بھی نہیں سایہ
+
+علی کے شہرِ کوفہ میں سماں زینب پہ کیا آیا
+کجا برقعِ شریعت کا ردا کا بھی نہیں سایہ
 
 ۱
-جنازہ جس کی مادر کا اٹھا تھا پردہء شب میں
-زمانہ اس کی بیٹی کو سر بازار لے آیا
+جنازہ جس کی مادر کا اٹھا تھا پردۂ شب میں
+زمانہ اس کی بیٹی کو سرِ بازار لے آیا
 
 ۲
 کہا رو کر سکینہ نے چچا مسلم دہائی ہے
@@ -61,11 +63,11 @@ romanLyrics: |-
 
 ۴
 سجے ہیں بام و در کوفہ میں آمد ہے اسیروں کی
-تماشا آل احمد کا مسلماں دیکھنے آیا
+تماشا آلِ احمد کا مسلماں دیکھنے آیا
 
 ۵
-وہ خطبہ تھا کہ حیبت چھا گیء دربار سارے پر
-علی کی دل بیٹی میں حیدر سا جلال آیا
+وہ خطبہ تھا کہ ہیبت چھا گئی دربار سارے پر
+علی کی شیر دل بیٹی میں حیدر سا جلال آیا
 
 ۶
 کہا سجاد سے زینب نے رو کے کچھ تو بتلاؤ
@@ -73,4 +75,4 @@ romanLyrics: |-
 
 ۷
 جہاں بابا کی شاہی تھی اسی دربار میں زینب
-نثار آی برہنہ سر یہ کیسا انقلاب آیا
+نثار آئی برہنہ سر یہ کیسا انقلاب آیا
