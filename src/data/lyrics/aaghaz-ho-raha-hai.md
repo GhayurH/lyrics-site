@@ -6,32 +6,38 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mushtaq Hussain"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Aaghaz ho raha hai Karbal ki kahani ka
-  Logo ye janaza hai Islam ke bani ka
+  Logoṅ ye janaza hai Islam ke baani ka
 
   1
   Bibi ne kaha baba Karbal mein chale aana
-  Manzar main dikhaungi Akbar ki jawani ka
+  Manzar main dikhaauṅ gi Akbar ki jawani ka
+  Logoṅ ye janaza hai Islam ke baani ka
 
   2
-  Kat jayenge baazu bhi Abbas-e-bawafa ke
-  Teeron se hoga chalni mashkiza wo pani ka
+  Kat jayeṅ ge baazu bhi Abbas bawafa ke
+  Tiroṅ se hoga chhalni mashkiza wo pani ka
+  Logoṅ ye janaza hai Islam ke baani ka
 
   3
   Bikhrega Karbala mein Qasim ke sar ka sehra
-  Khushiya samet lega alam woh viraani ka
+  Khushiyaṅ samet le ga aalam wo viraani ka
+  Logoṅ ye janaza hai Islam ke baani ka
 
   4
-  Rote the farishte bhi ta arzo-sama larzaa
-  Taaboot uth raha hai Imraan ke jaani ka
+  Rote the farishte bhi tha arz o samaṅ larza
+  Taabut uth raha hai Imran ke jaani ka
+  Logoṅ ye janaza hai Islam ke baani ka
 
   5
-  Ta hashr mere maula Mushtaq rahun tera
-  Mil jaae sharaf mujko bas teri gulami ka
+  Ta hashr mere Maula Mushtaq rahuṅ tera
+  Mil jaye sharaf mujh ko bas teri ghulami ka
+  Logoṅ ye janaza hai Islam ke baani ka
 # source_id: nohayonline:bebf4c09ff8d3e94b4f0
 # source_url: https://www.nohayonline.com/details_content.php?id=2216
 # raw_sha256: 2243d14f01815bf473df634ca4c542e5009d231ce2c411b72b25e694d5b207f2
@@ -44,21 +50,26 @@ romanLyrics: |-
 لوگوں یہ جنازہ ہے اسلام کے بانی کا
 
 ۱
-بی بی نے کہا بابا کربل میں چلے آنا
+بی‌بی نے کہا بابا کربل میں چلے آنا
 منظر میں دکھاؤں گی اکبر کی جوانی کا
+لوگوں یہ جنازہ ہے اسلام کے بانی کا
 
 ۲
-کٹ جائيں گے بازو بھی عباس باوفا کے
-تیروں سے ہوگا جھلنی مشکیزہ وہ پانی کا
+کٹ جائیں گے بازو بھی عباس باوفا کے
+تیروں سے ہوگا چھلنی مشکیزہ وہ پانی کا
+لوگوں یہ جنازہ ہے اسلام کے بانی کا
 
 ۳
 بکھرے گا کربلا میں قاسم کے سر کا سہرا
 خوشیاں سمیٹ لے گا عالم وہ ویرانی کا
+لوگوں یہ جنازہ ہے اسلام کے بانی کا
 
 ۴
 روتے تھے فرشتے بھی تھا ارض و سماں لرزہ
 تابوت اٹھ رہا ہے عمران کے جانی کا
+لوگوں یہ جنازہ ہے اسلام کے بانی کا
 
 ۵
 تاحشر میرے مولا مشتاق رہوں تیرا
-مل جاۓ شرف مجھ کو بس تیری غلامی کا
+مل جائے شرف مجھ کو بس تیری غلامی کا
+لوگوں یہ جنازہ ہے اسلام کے بانی کا
