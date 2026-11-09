@@ -10,50 +10,51 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ke naukar hai pani to pilayenge
-  Badle may duayein hum shabbir se payenge
+  Abbas ke naukar hain pani to pilaeṅge
+  Badle mein duaeṅ hum Shabbir se paeṅge
 
   1
-  Shia ho ya sunni ho hindu ho ya esayi
-  Jo hurr ki tarha aaya seene se lagayenge
+  Shia ho ya Sunni ho Hindu ho ya Isai
+  Jo Hurr ki tarah aaya sine se lagaeṅge
 
   2
-  Ye keh ke pilaate hai in haathon se hum pani
-  Is kaam na aaye to kis kaam ye aayenge
+  Ye keh ke pilate hain in haathoṅ se hum pani
+  Is kaam na aaye to kis kaam ye aaeṅge
 
   3
-  Jarob kashi kaisi hum palkein bichayenge
-  Jis raah pe sab zaair chalte nazar aayenge
+  Jarubkashi kaisi hum palkeṅ bichhaeṅge
+  Jis raah pe sab zair chalte nazar aaeṅge
 
   4
-  Pani peelo aao pyason ko yaad karo
-  Saqqe ki tarha hum ye awaaz lagayenge
+  Pani pi lo aao pyasoṅ ko yaad karo
+  Saqqe ki tarah hum ye awaz lagaeṅge
 
   5
-  Hota jo luaab e nabi beshak wo mila dete
-  Hum sache hai jhoota bhi pani na milayenge
+  Hota jo luaab-e-Nabi beshak wo mila dete
+  Hum sachche hain jhuta bhi pani na milaeṅge
 
   6
-  Abbas ziarat to karwayenge har soorat
-  Ya hum ko bulayenge ya khwab may aayenge
+  Abbas ziyarat to karwaeṅge har surat
+  Ya hum ko bulaeṅge ya khwab mein aaeṅge
 
   7
-  Saans aati hai saanson ki shabbir ke matam may
-  Gar chod diya matam hum jee nahi payenge
+  Saans aati hai saansoṅ ki Shabbir ke matam mein
+  Gar chhor diya matam hum ji nahiṅ paeṅge
 
   8
-  Ye fazal sakina se bolay jo mila pani
-  Baba ki qasam pehle hum tumko pilayenge
+  Ye Fazal Sakina se bole jo mila pani
+  Baba ki qasam pehle hum tum ko pilaeṅge
 
   9
-  Sajjad o takallum aur ye mir hassan kya hai
-  Khud khizr bhi jannat may kehte nazar aayenge
+  Sajjad o Takallum aur ye Mir Hasan kya hain
+  Khud Khizr bhi Jannat mein kehte nazar aaeṅge
 # source_id: nohayonline:ea1245078cf5779e02d4
 # source_url: https://www.nohayonline.com/details_content.php?id=1522
 # raw_sha256: e587768f5cc7538792bfb5faf382506a786828524e7f2a52c35658907eb4e36d
 ---
-عباس کے نوکر ہیں پانی تو پلاےنگے
-بدلے میں دعائیں ہم شبیر سے پاےنگے
+
+عباس کے نوکر ہیں پانی تو پلائیں گے
+بدلے میں دعائیں ہم شبیر سے پائیں گے
 
 ۱
 شیعہ ہو یا سنی ہو ہندو ہو یا عیسائی
@@ -61,32 +62,32 @@ romanLyrics: |-
 
 ۲
 یہ کہکے پلاتے ہیں ان ہاتھوں سے ہم پانی
-اس کام نہ آے تو کس کام یہ آےنگے
+اس کام نہ آے تو کس کام یہ آئیں گے
 
 ۳
-جاروب کشی کیسی ہم پلکیں بچھاےنگے
-جس راہ پہ سب زایر چلتے نظر آےنگے
+جاروب کشی کیسی ہم پلکیں بچھائیں گے
+جس راہ پہ سب زائر چلتے نظر آئیں گے
 
 ۴
 پانی پی لو آؤ پیاسوں کو یاد کرو
-سقہ کی طرح ہم یہ آواز لگاےنگے
+سقہ کی طرح ہم یہ آواز لگائیں گے
 
 ۵
 ہوتا جو لعاب نبی بیشک وہ ملا دیتے
-ہم سچے ہیں جھوٹا بھی پانی نہ ملاےنگے
+ہم سچے ہیں جھوٹا بھی پانی نہ ملائیں گے
 
 ۶
-عباس زیارت تو کرواےنگے ہر صورت
-یا ہم کو بلاےنگے یا خواب میں آےنگے
+عباس زیارت تو کروائیں گے ہر صورت
+یا ہم کو بلائیں گے یا خواب میں آئیں گے
 
 ۷
 سانس آتی ہے سانسوں کی شبیر کے ماتم میں
-گر چھوڑ دیا ماتم ہم جی نہیں پاےنگے
+گر چھوڑ دیا ماتم ہم جی نہیں پائیں گے
 
 ۸
 یہ فضل سکینہ سے بولے جو ملا پانی
-بابا کی قسم پہلے ہم تمکو پلاےنگے
+بابا کی قسم پہلے ہم تم کو پلائیں گے
 
 ۹
 سجاد و تکلم اور یہ میر حسن کیا ہے
-خود خضر بھی جنت میں کہتے نظر آےنگے
+خود خضر بھی جنت میں کہتے نظر آئیں گے
