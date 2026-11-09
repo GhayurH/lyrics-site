@@ -5,63 +5,43 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Ali Zia Rizvi"
+# alternate_source_reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 poet: "Anees Pehersari"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Asghar haye asghar
-
-
-  1
-
+romanLyrics: |-
+  Asghar haye asghar
   Ay cheh mahine wale tujko mera salam
 
+  1
   Ay shaahe deen ke dilbar ay roohe qalbe madar
-
   Ay tishnakaam muztar ay bezuban asghar
 
-
   2
-
   Tishnalabi pe teri girya hai ye khudaai
-
   Mazlumiat ne teri insaniyat jagayi
 
-
   3
-
   Sookhe labon pe tune jis dam zuban phirayi
-
   Sar ko jhuka ke roya dushman ka har sipahi
 
-
   4
-
   Kya manzilat hai teri shabbir-e-khastatan ne
-
   Dafna ke tera laasha farmeina purmehan ne
 
-
   5
-
   Shikwa na karna asghar pani nahi meinassar
-
   Aansu baha ke maine turbat ko kar diya tar
 
-
   6
-
   Yaade pisar jab aati to kokh ujdi madar
-
   Raton ko uthke aksar kehti thi dar pe aakar
 
-
   7
-
   Tareekhe karbala ko padkar anees dekho
-
-  Qatil bhi sar jhukaye kehte milenge tum ko'
-reciter: Anjuman Karwan-e-Aza (Irfan Haider)
+  Qatil bhi sar jhukaye kehte milenge tum ko
 # source_id: nohayonline:c779c7697c6f2fd3d8de
 # source_url: https://www.nohayonline.com/details_content.php?id=149
 # raw_sha256: 7dea4108f10dfd05628ffadff2a308f61a80a7b0c93dd83c06a7740e4d0c9d8f
@@ -91,7 +71,7 @@ reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 
 ۵
 شکوہ نہ کرنا اصغرؑ، پانی نہیں میسر
-آنسوں بہا کے میں نے، تربت کو کر دیا تر
+آنسو بہا کے میں نے، تربت کو کر دیا تر
 
 ۶
 یاد پسر جب آتی، تو کوکھ اجڑی مادر
