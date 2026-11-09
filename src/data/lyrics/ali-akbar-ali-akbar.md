@@ -6,76 +6,74 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: |-
-  Ay mere noore nazar ay mere laqte jigar
-  Baap aaya hai utho dekho to haal e padar
-
-  1
-  Maula ne kaha bete ke shaane ko hila kar
-  Ali akbar ali akbar
-  Kyun uth'te nahi ho meri awaaz pe akbar
-  Ali akbar ali akbar
-
-  2
-  Baba hai pareshan zara aankhein to kholo
-  Barchi kahan khaayi hai kahan dard hai bolo
-  Yun aediyan ragdo na mere laal zameen par
-  Ali akbar ali akbar
-
-  3
-  Taari hai ghashi tum pe lahoo beh gaya kitna
-  Himmat nahi uthne ki to letay raho beta
-  Mai theek hoo aahista se kehdo mere dilbar
-
-  4
-  Ali akbar ali akbar
-  Gir gir ke har ek laash se mai pooch raha tha
-  Kya tum mere akbar ho bata do mujhe itna
-
-  5
-  Mai laash pe pohuncha hoo teri ghutniyo chal kar
-  Ali akbar ali akbar
-  Gardan mein meri haath zara daal do beta
-
-  6
-  Baba ke sahare se utho ghar chalo beta
-  Godhi mein utha sakta nahi mai tumhe akbar
-  Ali akbar ali akbar
-
-  7
-  Hum saara nahi padh sake akbar khat e sughra
-  Is baat ka mai kya doo jawab usko ay beta
-  Shaadi ka teri pooch rahi hai teri khwahar
-  Ali akbar ali akbar
-
-  8
-  Bache ko mere maar ke haste hai jo aada
-  Mai bad'dua de doon to koi bhi na bachega
-  Ay laal hai hum naakha e saaleh se to badh kar
-
-  9
-  Ali akbar ali akbar
-  Sona to hai to aajao meri jaan sulayein
-  Aao phupi amma ki tumhe lori sunayein
-
-  10
-  Hum baith gaye baba ki zaanu pe rakho sar
-  Ali akbar ali akbar
-  Aahista se sajjad pukare shah e waala
-
-  11
-  Shabbir ki ghairat ko gawara nahi beta
-  Uth jao nikal aaye na zainab meri baahar
-  Ali akbar ali akbar
 # source_id: nohayonline:27f37dc0f0b96468330d
 # source_url: https://www.nohayonline.com/details_content.php?id=1702
 # raw_sha256: 649d45a314436655bc8481f37ce23472edfddb5f14c8ea495a6cb0f7cff461d8
+romanLyrics: |-
+  Ae mere Nur-e-Nazar Ae mere Lakht-e-Jigar
+  Baap aaya hai utho dekho to haal-e-pidar
+  
+  1
+  Maula ne kaha bete ke shane ko hila kar
+  Ali Akbar Ali Akbar
+  Kiuṅ uthte nahiṅ ho meri aawaz pe Akbar
+  Ali Akbar Ali Akbar
+  
+  2
+  Baba hai pareshan zara aaṅkheṅ to kholo
+  Barchhi kahaṅ khayi hai kahaṅ dard hai bolo
+  Yuṅ eriyaṅ ragro na mere lal zamin par
+  Ali Akbar Ali Akbar
+  
+  3
+  Tari hai ghashi tum pe lahu beh gaya kitna
+  Himmat nahiṅ uthne ki to lete raho beta
+  Main thik huṅ aahista se keh do mere dilbar
+  Ali Akbar Ali Akbar
+  
+  4
+  Gir gir ke har ek lash se main puchh raha tha
+  Kya tum mere Akbar ho bata do mujhe itna
+  Main lash pe pahuncha huṅ teri ghutniyoṅ chal kar
+  Ali Akbar Ali Akbar
+  
+  5
+  Gardan mein mere hath zara dal do beta
+  Baba ke sahare se utho ghar chalo beta
+  Godi mein utha sakta nahiṅ main tumheṅ Akbar
+  Ali Akbar Ali Akbar
+  
+  6
+  Hum sara nahiṅ parh sake Akbar khat-e-Sughra
+  Is baat ka main kya duṅ jawab us ko Ae beta
+  Shadi ka teri puchh rahi hai teri khwahar
+  Ali Akbar Ali Akbar
+  
+  7
+  Bachche ko mere mar ke hanste haiṅ jo aada
+  Main baddua de duṅ to koi bhi na bachega
+  Ae lal haiṅ hum naqa-e-Salih se to barh kar
+  Ali Akbar Ali Akbar
+  
+  8
+  Sona to hai to aa jao meri jaan sulaeṅ
+  Aao phuphi amma ki tumheṅ lori sunaeṅ
+  Hum baith gaye Baba ki zanu pe rakho sar
+  Ali Akbar Ali Akbar
+  
+  9
+  Aahista se Sajjad pukare Shah-e-Wala
+  Shabbir ki ghairat ko gawara nahiṅ beta
+  Uth jao nikal aae na Zainab meri bahar
+  Ali Akbar Ali Akbar
 ---
+
 اے میرے نورِ نظر اے میرے لختِ جگر
-باپ آیا ہے اٹھو دیکھو تو حال پدر
+باپ آیا ہے اٹھو دیکھو تو حالِ پدر
 
 ۱
 مولا نے کہا بیٹے کے شانے کو ہلا کر
@@ -84,53 +82,49 @@ romanLyrics: |-
 علی اکبر علی اکبر
 
 ۲
-بابا ہے پریشان زرا آنکھیں تو کھولو
-برچھی کہاں کھای ہے کہاں درد ہے بولو
+بابا ہے پریشان ذرا آنکھیں تو کھولو
+برچھی کہاں کھائی ہے کہاں درد ہے بولو
 یوں ایڑیاں رگڑو نہ میرے لال زمیں پر
 علی اکبر علی اکبر
 
 ۳
 طاری ہے غشی تم پہ لہو بہہ گیا کتنا
 ہمت نہیں اٹھنے کی تو لیٹے رہو بیٹا
-میں ٹھیک ہوں آہستہ سے کہدو میرے دلبر
+میں ٹھیک ہوں آہستہ سے کہہ دو میرے دلبر
+علی اکبر علی اکبر
 
 ۴
-علی اکبر علی اکبر
 گر گر کے ہر ایک لاش سے میں پوچھ رہا تھا
 کیا تم میرے اکبر ہو بتا دو مجھے اتنا
+میں لاش پہ پہنچا ہوں تری گھٹنیوں چل کر
+علی اکبر علی اکبر
 
 ۵
-میں لاش پہ پہنچا ہوں تیری گھٹنیوں چل کر
-علی اکبر علی اکبر
-گردن میں میری ہاتھ زرا ڈال دو بیٹا
-
-۶
+گردن میں میرے ہاتھ ذرا ڈال دو بیٹا
 بابا کے سہارے سے اٹھو گھر چلو بیٹا
 گودی میں اٹھا سکتا نہیں میں تمہیں اکبر
 علی اکبر علی اکبر
 
-۷
-ہم سارا نہیں پڑھ سکے اکبر خط صغرا
+۶
+ہم سارا نہیں پڑھ سکے اکبر خطِ صغریٰ
 اس بات کا میں کیا دوں جواب اس کو اے بیٹا
-شادی کا تیری پوچھ رہی ہے تیری خواہر
+شادی کا تری پوچھ رہی ہے تری خواہر
+علی اکبر علی اکبر
+
+۷
+بچے کو میرے مار کے ہنستے ہیں جو اعدا
+میں بددعا دے دوں تو کوئی بھی نہ بچے گا
+اے لال ہیں ہم ناقۂ صالح سے تو بڑھ کر
 علی اکبر علی اکبر
 
 ۸
-بچے کو میرے مار کے ہنستے ہیں جو اعدا
-میں بد دعا دے دوں تو کبھی بھی نہ بچے گا
-اے لال ہے ہم ناقہء صالح سے تو بڑھ کر
-
-۹
-علی اکبر علی اکبر
-سونا تو ہے تو آجاؤ میری جان سلاییں
-آؤ پھپھی اماں کی تمہیں لوری سناییں
-
-۱۰
+سونا تو ہے تو آ جاؤ مری جان سلائیں
+آؤ پھپھی اماں کی تمہیں لوری سنائیں
 ہم بیٹھ گئے بابا کی زانو پہ رکھو سر
 علی اکبر علی اکبر
-آہستہ سے سجاد پکارے شہ والا
 
-۱۱
-شبیر کی غیرت کو گنوارا نہیں بیٹا
-اٹھ جاؤ نکل آے نہ زینب میری باہر
+۹
+آہستہ سے سجاد پکارے شہِ والا
+شبیر کی غیرت کو گوارا نہیں بیٹا
+اٹھ جاؤ نکل آئے نہ زینب مری باہر
 علی اکبر علی اکبر
