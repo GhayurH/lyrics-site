@@ -6,38 +6,40 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: |-
-  Ali hai sajde mein tar khoon mein peshani hai
-  Zameen se taa ba falak chaayi pareshani hai
-
-  1
-  Ali ka qatl bhi saazish ka shaakhsana tha
-  Chale hai silsile phir se wohi kahani hai
-
-  2
-  Bhala koi apne bhi mohsin ko qatl karta hai
-  Ye musalmano ki dar asl mein nadani hai
-
-  3
-  Abu turab ko samjhe to mustafa samjhe
-  Ali ki zaat ko ya zaate khuda jaani hai
-
-  4
-  Kiya jo maula ne qaatil ko apne jaam ataa
-  Ali kareem hai kis baat pe hairani hai
-
-  5
-  Ali wali ke hashr tak rahenge charche ameer
-  Baqa unhi ko hai bas ye jahan faani hai
 # source_id: nohayonline:4bc52cf519b2d7bbf2f5
 # source_url: https://www.nohayonline.com/details_content.php?id=3330
 # raw_sha256: 45e914d96a225872dfa72d8f52ea072500cf2a3bd494af513914ad7a3e30db09
+romanLyrics: |-
+  Ali hai sajde mein tar khun mein peshani hai
+  Zamin se ta ba falak chhayi pareshani hai
+  
+  1
+  Ali ka qatl bhi sazish ka shakhssana tha
+  Chale haiṅ silsile phir se wohi kahani hai
+  
+  2
+  Bhala koi apne bhi mohsin ko qatl karta hai
+  Ye Musalmanoṅ ki dar asl mein nadani hai
+  
+  3
+  Abu Turab ko samjhe to Mustafa samjhe
+  Ali ki zat ko ya zat-e-Khuda jani hai
+  
+  4
+  Kiya jo Maula ne qatil ko apne jam ata
+  Ali karim hai kis baat pe hairani hai
+  
+  5
+  Ali Wali ke hashr tak raheṅge charche Ameer
+  Baqa unhi ko hai bas ye jahaṅ fani hai
 ---
+
 علی ہے سجدے میں تر خون میں پیشانی ہے
-زمیں سے تا بہ فلک چھای پریشانی ہے
+زمیں سے تا بہ فلک چھائی پریشانی ہے
 
 ۱
 علی کا قتل بھی سازش کا شاخسانہ تھا
@@ -45,11 +47,11 @@ romanLyrics: |-
 
 ۲
 بھلا کوئی اپنے بھی محسن کو قتل کرتا ہے
-یہ مسلمانوں کی در اصل میں نادانی ہے
+یہ مسلمانوں کی دراصل میں نادانی ہے
 
 ۳
 ابو تراب کو سمجھے تو مصطفیٰ سمجھے
-علی کی ذات کو یا ذات خدا جانی ہے
+علی کی ذات کو یا ذاتِ خدا جانی ہے
 
 ۴
 کیا جو مولا نے قاتل کو اپنے جام عطا

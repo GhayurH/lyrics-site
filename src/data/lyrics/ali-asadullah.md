@@ -6,92 +6,94 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: |-
-  Waaris e taygh o alam baab e sharaf
-  Taaj e wehdat ke liye durre najaf
-  Gauhar e nehje balagha ka sadaf
-  Jalwa e fauje khuda waqte sahar
-  Haan ali-un bashar-un kaifa bashar
-  Ali asadullah ali waliullah
-
-  1
-  Saaqi e kaun o makan qibla e jaan
-  Qasim e ilm o adab naar o jina
-  Saahib e loh o qalam rooh e rawan
-  Mashal e noor e rukan shams o qamar
-
-  2
-  Haamil e qudrat e qum be izni
-  Kulle emaan iradon ka dhani
-  Uske jaisa na sakhi aur ghani
-  Khaak e naalain e ali dur o gauhar
-
-  3
-  Hasti e hyder e karrar khuda ka lashkar
-  Pech ammame ke aflaak o zameen ka chakkar
-  Raasta khuld ka hai jaaye namaz e hyder
-  Maskan e hyder e karrar hai allah ka ghar
-
-  4
-  Naashir e fuzto be rabbil kaaba
-  Ye zameen jiska nishane sajda
-  Jiska saaya nahi uska saaya
-  Rabbahu feehe tajalla e zahar
-
-  5
-  Paaye hyder se jo masraah ka patthar hoga
-  Sang wo durre najaf surat e gauhar hoga
-  Aisa gauher jo kabhi meesam o qambar hoga
-  Aur kabhi surat e salman o abuzar hoga
-
-  6
-  Ishq e hyder ba khuda lutfe khuda
-  Saahib e zarf ko hota hai ataa
-  Ishq e hyder mein ibadat ka maza
-  Jiske maddah sabhi barg o shajar
-
-  7
-  Khoob hyder ne diya jaam e qaza
-  Apne qaatil ko jaga kar yeh kaha
-  Kaam kar dushman e rabbe kaaba
-  Allah allah ali ka ye jigar
-
-  8
-  Aalam e karb hai tanhaai teri
-  Karbala kha gayi beenayi teri
-  Tere bacchon mein thi daanayi teri
-  Utra maidan mein ye keh kar akbar
-
-  9
-  Fikr e rehaan o nadeem e sarwar
-  Hai dua e dil e zehra ka asar
-  Barsar e farshe aza ya hyder
-  Leke maujood hai tere naukar
 # source_id: nohayonline:f82179890d75df82b9cd
 # source_url: https://www.nohayonline.com/details_content.php?id=2606
 # raw_sha256: 046005a2b90fdca67b1e8e0823b7d7aedce6c60ae82a0f48f5c1e405c0662f29
+romanLyrics: |-
+  Waris-e-Tegh o Alam Bab-e-Sharaf
+  Taj-e-Wahdat ke liye Durr-e-Najaf
+  Gauhar-e-Nahj-e-Balagha ka sadaf
+  Jalwa-e-Fauj-e-Khuda waqt-e-sahar
+  Haṅ Ali-un Bashar-un Kaifa Bashar
+  Ali Asadullah Ali Waliullah
+  
+  1
+  Saqi-e-Kaun o Makaṅ qibla-e-jaaṅ
+  Qasim-e-Ilm o Adab nar o jinaṅ
+  Sahib-e-Lauh o Qalam ruh-e-rawaṅ
+  Mashal-e-Nur-e-Rukan shams o qamar
+  
+  2
+  Hamil-e-Qudrat-e-Qum bi izni
+  Kul-e-Iman iradoṅ ka dhani
+  Us ke jaisa na sakhi aur ghani
+  Khak-e-Nalain-e-Ali durr o gauhar
+  
+  3
+  Hasti-e-Haider-e-Karrar Khuda ka lashkar
+  Pech ammame ke aflak o zamin ka chakkar
+  Rasta khuld ka hai jae namaz-e-Haider
+  Maskan-e-Haider-e-Karrar hai Allah ka ghar
+  
+  4
+  Nashir-e-Fuztu bi Rabbil Kaba
+  Ye zamin jis ka nishan-e-sajda
+  Jis ka saya nahiṅ us ka saya
+  Rabbahu fihi tajalla-e-zahar
+  
+  5
+  Pae Haider se jo masrah ka patthar hoga
+  Sang wo Durr-e-Najaf surat-e-gauhar hoga
+  Aisa gauhar jo kabhi Mesam o Qambar hoga
+  Aur kabhi surat-e-Salman o Abuzar hoga
+  
+  6
+  Ishq-e-Haider ba Khuda lutf-e-Khuda
+  Sahib-e-zarf ko hota hai ata
+  Ishq-e-Haider mein ibadat ka maza
+  Jis ke maddah sabhi barg o shajar
+  
+  7
+  Khub Haider ne diya jam-e-qaza
+  Apne qatil ko jaga kar ye kaha
+  Kam kar dushman-e-Rabb-e-Kaba
+  Allah Allah Ali ka ye jigar
+  
+  8
+  Aalam-e-Karb hai tanhayi teri
+  Karbala kha gayi binayi teri
+  Tere bachchoṅ mein thi danayi teri
+  Utra maidan mein ye keh kar Akbar
+  
+  9
+  Fikr-e-Rehaan o Nadeem-e-Sarwar
+  Hai dua-e-dil-e-Zehra ka asar
+  Barsar-e-farsh-e-aza Ya Haider
+  Le ke maujud haiṅ tere naukar
 ---
+
 وارث تیغ و علم باب شرف
 تاج وحدت کے لئے در نجف
 گوہر نہج بلاغہ کا صدف
 جلوۂ فوج خدا وقتِ سحر
-ہاں علی٘ بشر٘ کیف بشر
+ہاں علی بشر کیف بشر
 علی اسد اللہ علی ولی اللہ
 
 ۱
-ثاقیء کون و مکاں قبلہء جاں
-قاسم علم و ادب نار و جناں
+ساقیِ کون و مکاں قبلہء جاں
+قاسمِ علم و ادب نار و جناں
 صاحبِ لوح و قلم روح رواں
-مشال نورِ رکن شمس و قمر
+مشعلِ نورِ رکن شمس و قمر
 
 ۲
 حامل قدرت قم بے اذنی
 کل ایمان ارادوں کا دھنی
-اس کے جیسا نہ سقی اور غنی
-خاک نالین علی در و گوہر
+اس کے جیسا نہ سخی اور غنی
+خاکِ نعلینِ علی دُر و گوہر
 
 ۳
 ہستیء حیدر کرار خدا کا لشکر
@@ -125,12 +127,12 @@ romanLyrics: |-
 
 ۸
 عالم کرب ہے تنہائی تیری
-کربلا کھا گیء بینائی تیری
+کربلا کھا گئی بینائی تیری
 تیرے بچوں میں تھی دانائی تیری
 اترا میدان میں یہ کہہ کر اکبر
 
 ۹
 فکر ریحان و ندیم سرور
-ہے دعاے دل زہرا کا اثر
+ہے دعائے دلِ زہرا کا اثر
 برسر فرش عزا یا حیدر
 لے کے موجود ہے تیرے نوکر
