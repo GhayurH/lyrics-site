@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Shaukat Bilgrami"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -18,8 +19,8 @@ romanLyrics: |-
   Beghusl para mohr-e-nabuwwat ka nagina barbaad hui main
 
   2
-  Kis laash pe roun kise chhorun main biradar
-  Laashe hain bahattar
+  Kis laash pe rouṅ kise chhoruṅ main biradar
+  Laashe haiṅ bahattar
   Hadd ye hai ke rone ki ijazat bhi mili na barbaad hui main
 
   3
@@ -28,13 +29,13 @@ romanLyrics: |-
   Is dasht mein luta gaya Zainab ka khazina barbaad hui main
 
   4
-  Maayen bhi na pahchan sakin bachchon ke chehre
+  Maaeṅ bhi na pahchan sakiṅ bachchoṅ ke chehre
   Bikhre huwe sehre
   Hai khun ke darya mein gharibon ka safina barbaad hui main
 
   5
-  Ek aag hai khaimon mein qayamat ka sama hai
-  Ghazi tu kahan hai
+  Ek aag hai khaimoṅ mein qayamat ka samaaṅ hai
+  Ghazi tu kahaaṅ hai
   Dekho to rida chhin gaya Shimr kamina barbaad hui main
 
   6
@@ -42,12 +43,23 @@ romanLyrics: |-
   Baba se milao
   Neze ke tale baith ke roti hai Sakina barbaad hui main
 
+  Paaband-e-rasan Bibiyaaṅ bazaar khule sar
+  Har mor pe patthar
+  Maasum yatimoṅ ka baha surkh pasina barbaad hui main
+
   7
-  Shauqat sar-e-maqtal ye kaha bint-e-Ali ne
+  Shaukat sar-e-maqtal ye kaha bint-e-Ali ne
   Zehra ki pali ne
   Bhaiya tere bin khaak teri behna ka jina barbaad hui main
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
+# source_id: nohayonline:78bf73957132f492d3aa
+# source_url: https://www.nohayonline.com/details_content.php?id=345
+# raw_sha256: fa7536ca3f97b31eed162ecece9aeef799f4dfcd71f01cb79af1e18ea147bf0a
+# source_id: nohawriteups:74ef16e7a4bd2c447336
+# source_url: https://www.nohawriteups.org/aabad-hui-karbobala/
+# raw_sha256: b46df6519944018a0d88562e61e77b9dd3ce82e48cdadae43026c2f2ffcf4053
+# editorial_note: Archived HTML supplies the additional Paaband-e-rasan stanza before the closing takhallus. It remains unnumbered to preserve existing stanza labels. Notebook stanza 6 differs from the archived wording and needs audio/print confirmation. Complete barbaad hui main returns remain attached to their verses.
 ---
 آباد ہوئی کربوبلا اجڑا مدینہ برباد ہوئی میں
 زینب کو نہ راس آیا محرم کا مہینہ برباد ہوئی میں
@@ -81,6 +93,10 @@ romanLyrics: |-
 چادر چھنی درے لگے اب ظلم نہ ڈھاؤ
 بابا سے ملاؤ
 نیزے کے تلے بیٹھ کے روتی ہے سکینہ برباد ہوئی میں
+
+پابندِ رسن بی‌بیاں بازار کھلے سر
+ہر موڑ پہ پتھر
+معصوم یتیموں کا بہا سرخ پسینہ برباد ہوئی میں
 
 ۷
 شوکت سرِ مقتل یہ کہا بنتِ علی نے

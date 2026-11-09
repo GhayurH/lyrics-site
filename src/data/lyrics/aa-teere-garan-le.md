@@ -1,21 +1,22 @@
 ---
 title: "آ تیر گراں لے گردن پر"
-alternateTitle: "Aa Teere Garan Le"
+alternateTitle: "Aa Tir-e-Giraaṅ Le"
+reciter: "Sajid Jafri"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aa Teere Garan Le"]
 published: false
 romanLyrics: |-
-  Aa tir-e-giran le gardan par
+  Aa tir-e-giraaṅ le gardan par
   Ab pura kar Ashur Asghar
-  Manzoor hai wo hum dono ko
+  Manzur hai wo hum donoṅ ko
   Allah ko jo manzur Asghar
 
   1
-  Ab baat na karna godhi ki
+  Ab baat na karna godi ki
   Ab baat na karna lori ki
   Hona hai hamesha hi ke liye
   Tujhe apni maaṅ se dur Asghar
@@ -23,32 +24,32 @@ romanLyrics: |-
   2
   Ek baar shahadat sab ke liye
   Do baar shahadat tere liye
-  Ek tir-e-giran aur ek naiza
+  Ek tir-e-giraaṅ aur ek naiza
   Is gaam pe hai mamur Asghar
   
   3
-  Hum pyas liye hain zabanon par
-  Wo qabza kiye hain darya par
-  Mansoor ye hum mazloomon ka
-  Wo zaalim ka mansoor asghar
+  Hum pyas liye haiṅ zabaanoṅ par
+  Wo qabza kiye haiṅ darya par
+  Mansur ye hum mazlumoṅ ka
+  Wo zaalim ka Mansur Asghar
   
   4
   Ye Shami Kufi patthar dil
-  Kuch der mein ye sab royenge
+  Kuch der mein ye sab royeṅge
   Mumkin jo na tha ho jayega
-  Hasne se tere wo zaroor asghar
+  Hansne se tere wo zarur Asghar
   
   5
   Shaamil hai azal ke waade mein
-  Chehre pe mere ho tera lahoo
+  Chehre pe mere ho tera lahu
   Aabaad ho teri tajalli se
-  Aagosh ka mere toor asghar
+  Aaghosh ka mere Tur Asghar
   
   6
   Kuch din hi jiyegi baad tere
-  Tujhe godh mein paalne waali maa
-  Bacchon ki judaai ke zakhmon se
-  Us ka dil hoga choor asghar
+  Tujhe god mein paalne waali maaṅ
+  Bachchoṅ ki judaai ke zakhmoṅ se
+  Us ka dil hoga chur Asghar
   
   7
   Abid tere gham ka kaatib hai
@@ -58,6 +59,7 @@ romanLyrics: |-
 # source_id: nohayonline:b6296d9b5516ac1bdaf4
 # source_url: https://www.nohayonline.com/details_content.php?id=3097
 # raw_sha256: e069c314497edcc64269f196d91011bcab2fa7d5d2e96e52fb915634b78e2eaf
+# editorial_note: Archived HTML has ambiguous Mansur/mamur readings in stanzas 2–3 and an unusual final verse in stanza 4; retained pending audio or print. Abbreviated inter-stanza returns are omitted; the full four-line opening is retained.
 ---
 
 آ تیر گراں لے گردن پر
@@ -78,25 +80,25 @@ romanLyrics: |-
 اس گام پہ ہے معمور اصغر
 
 ۳
-ہم پیاس لیےء ہے زبانوں پر
-وہ قبضہ کےء ہیں دریا پر
+ہم پیاس لیے ہیں زبانوں پر
+وہ قبضہ کیے ہیں دریا پر
 منصور یہ ہم مظلوموں کا
 وہ ظالم کا منصور اصغر
 
 ۴
 یہ شامی کوفی پتھر دل
-کچھ دیر میں یہ سب روییں گے
+کچھ دیر میں یہ سب روئیں گے
 ممکن جو نہ تھا ہو جائے گا
 ہنسنے سے تیرے وہ ضرور اصغر
 
 ۵
-شامل ہے اذل کے وعدے میں
+شامل ہے ازل کے وعدے میں
 چہرے پہ میرے ہو تیرا لہو
 آباد ہو تیری تجلی سے
 آغوش کا میرے طور اصغر
 
 ۶
-کچھ دن ہی جیےء گی بعد تیرے
+کچھ دن ہی جیے گی بعد تیرے
 تجھے گود میں پالنے والی ماں
 بچوں کی جدائی کے زخموں سے
 اس کا دل ہوگا چور اصغر

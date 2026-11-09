@@ -1,17 +1,21 @@
 ---
-title: آبروئے لا اِلٰہٰ سجدئہ شبیر ہے
-alternateTitle: Aabrue La Ilaha
+title: آبروئے لا الٰہ سجدۂ شبیر ہے
+alternateTitle: Aabru-e-La Ilaha
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Irfan"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aabrue La Ilaha"]
 published: false
 romanLyrics: |-
   Aabru-e-La Ilaha sajda-e-Shabbir hai
   Tere dam se Ya Husaina naara-e-takbir hai
+
+  Ya Husain Husain Ya Husain
+  Ya Husain Husain Ya Husain
   
   1
   Likh diya khun se Husaina parcham-e-Islam par
@@ -23,11 +27,11 @@ romanLyrics: |-
 
   3
   Dekhiye Ayyub aa kar sabr ki manzil zara
-  Haathon pe Shah-e-Zaman ke laasha-e-beshir hai
+  Haathoṅ pe Shah-e-Zamaaṅ ke laasha-e-beshir hai
 
   4
   Kis tarha dafnaye Zainab laash ko teri Husain
-  Haathon mein rassi bandhi hai sar khule hamsheer hai
+  Haathoṅ mein rassi bandhi hai sar khule hamshir hai
 
   5
   Is tarha Irfan hota hai fariza-e-haq ada
@@ -38,28 +42,33 @@ romanLyrics: |-
 # source_id: ziyaraat:11f6910e22d4a6e51825
 # source_url: https://www.ziyaraat.net/api/noha/190
 # raw_sha256: 58fd95ee918a0cd2295ec590c85e4255b5630745f9f7e5151d8659f5023dc0fd
+# source_id: tajpoints:ea4cc2d34bfa4321118d
+# source_url: https://tajpoints.com/2023/03/aabroo-e-la-ilaha-sajda-e-shabbir-hai.html
+# editorial_note: Ziyaraat supplies the complete Ya Husain invocation. Retained Ziyaraat's Irfan closing verse; NoHayOnline Urdu instead reads har shaam. Shah-e-Zaman ke/ka and khun/khuṅ also differ between source tracks; audio/print confirmation is required.
 ---
 
-آبروِ لا الہٰ سجدہ شبّیرؑ ہے
-تیرے دم سے یا حسینؑاؑ نعرہ تکبیر ہے
+آبروئے لا الٰہ سجدۂ شبّیرؑ ہے
+تیرے دم سے یا حسینا نعرۂ تکبیر ہے
 
+یا حسینؑ حسینؑ یا حسینؑ
+یا حسینؑ حسینؑ یا حسینؑ
 
 ۱
-لکھ دیا خون سے حسینؑا پرچمِ اسلام پر
-سر کٹانا راہ حق میں دین کی توقیر ہے
+لکھ دیا خون سے حسینا پرچمِ اسلام پر
+سر کٹانا راہِ حق میں دین کی توقیر ہے
 
 ۲
-لاشہءِ اکبرؑ اٹھا کر بولے شاہِ کربلا
-خاک و خون میں سرورِؑ کونین کی تصویر ہے
+لاشۂ اکبرؑ اٹھا کر بولے شاہِ کربلا
+خاک و خون میں سرورِ کونین کی تصویر ہے
 
 ۳
-دیکھئیے ایوبؑ آ کر صبر کی منزل ذرا
-ہاتھوں پہ شاہ ضمن کے لاشہ بیشیر ہے
+دیکھیے ایوبؑ آ کر صبر کی منزل ذرا
+ہاتھوں پہ شاہِ زماں کے لاشۂ بے شیر ہے
 
 ۴
 کس طرح دفنائے زینبؑ لاش کو تیری حسینؑ
-ہاتھوں میں رسی بندھی ہے سر کھولے ہمشیر ہے
+ہاتھوں میں رسی بندھی ہے سر کھلے ہمشیر ہے
 
 ۵
-اس طرح عرفان ہوتا ہے فریضِ حق ادا
-خون میں ڈوبی ہوئی پیشانیءِ شبّیرؑ ہے
+اس طرح عرفان ہوتا ہے فریضۂ حق ادا
+خون میں ڈوبی ہوئی پیشانیِ شبّیرؑ ہے
