@@ -10,94 +10,95 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar se chale jab behre safar sibte payambar
-  Kehne lagi abbas ki maadar shere dilawar
-  Ek naseehat karti hoon mai ay mere dilbar
-  Gham koi bhi shabbir ke aayega nahi paas abbas
-  Ujdega na zehra ka bhara ghar
-  Abbas mere sar ki qasam khaa
+  Ghar se chale jab bahr-e-safar Sibt-e-Payambar
+  Kehne lagi Abbas ki madar sher-e-dilawar
+  Ek nasihat karti huṅ main ae mere dilbar
+  Gham koi bhi Shabbir ke aayega nahiṅ paas Abbas
+  Ujrega na Zehra ka bhara ghar
+  Abbas mere sar ki qasam kha
 
   1
-  Ay baazu e shabbir wafadar qasam khaa
-  Ujdega nahi zehra ka bhara ghar qasam khaa
-  Rakh haath mere sar pe tu ek baar qasam khaa
+  Ae bazu-e-Shabbir wafadar qasam kha
+  Ujrega nahiṅ Zehra ka bhara ghar qasam kha
+  Rakh haath mere sar pe tu ek baar qasam kha
   Aaqa pe fida hoga tera sar
 
   2
-  Jab tak tera shaano pe rakha he ye tera sar
-  Aayenge nahi qaima e sarwar mein sitamgar
-  Gar aaye suye qaima layeeno ka wo lashkar
+  Jab tak tere shanoṅ pe rakha hai ye tera sar
+  Aaeṅge nahiṅ khaima-e-Sarwar mein sitamgar
+  Gar aaye su-e-khaima laeenoṅ ka wo lashkar
   Jaan de ke bachana hai tujhe ghar
 
   3
-  Ye baazu nigehban hai zainab ki rida ke
-  Narghe ho agar charon taraf ahle jafa ke
-  Tu rakhega shehzadi ko parde mein chupa ke
-  Jayegi na shehzadi ki chadar
+  Ye bazu nigehban hai Zainab ki rida ke
+  Narghe ho agar charoṅ taraf Ahl-e-Jafa ke
+  Tu rakhega Shahzadi ko parde mein chhupa ke
+  Jaayegi na Shahzadi ki chadar
 
   4
-  Saqqa hai tu saqqayi pe jaan apni lutana
-  Pyasi ho agar aale nabi pani pilaana
-  Din raat sakina ko kaleje se lagana
-  Royegi na shabbir ki dukhtar
+  Saqqa hai tu saqqai pe jaan apni lutana
+  Pyasi ho agar Aal-e-Nabi pani pilana
+  Din raat Sakina ko kaleje se lagana
+  Roegi na Shabbir ki dukhtar
 
   5
-  Kar waada ke ye khaafla hargiz na lutega
-  Jis tarha chala ghar se ye waisa hi milega
-  Ye jhoola bhi aur jhoolne waala bhi rahega
-  Aa jayenge ghar laut ke asghar
+  Kar wada ke ye qafila hargiz na lutega
+  Jis tarah chala ghar se ye waisa hi milega
+  Ye jhula bhi aur jhulne wala bhi rahega
+  Aa jaaeṅge ghar laut ke Asghar
 
   6
-  Daurane safar dhyan rahe ahle haram ka
-  Har waqt unhe saaya mile tere alam ka
-  Ek pal bhi na sadaat ko ehsaas ho gham ka
-  Na dhoop padegi kabhi un par
+  Dauran-e-safar dhyan rahe Ahl-e-Haram ka
+  Har waqt unheṅ saaya mile tere alam ka
+  Ek pal bhi na Sadat ko ehsas ho gham ka
+  Na dhup paregi kabhi un par
 
   7
   Ye baat mere laal tujhe bhi to khabar hai
-  Tu fatema zehra ki dua'on ka samar hai
-  Sarwar ho agar dhoop mein tu misle shajar hai
-  Khanjar na chalega shahe deen par
+  Tu Fatema Zehra ki duaoṅ ka samar hai
+  Sarwar ho agar dhup mein tu misl-e-shajar hai
+  Khanjar na chalega Shah-e-Din par
 
   8
-  Phir mazhar o irfan ye bola wo dilawar
-  Ye jaan bhi qurban hai zehra ke pisar par
-  Kyun aap ye kehti hai meri maadar e muztar
-  Lut jaaye na zehra ka bhara ghar
+  Phir Mazhar o Irfan ye bola wo dilawar
+  Ye jaan bhi qurban hai Zehra ke pisar par
+  Kiun aap ye kehti hain meri madar-e-muztar
+  Lut jaaye na Zehra ka bhara ghar
 # source_id: nohayonline:1df856f57b891f15d8df
 # source_url: https://www.nohayonline.com/details_content.php?id=3193
 # raw_sha256: 312f836af17062bf5c5b9b7673e851fc7bcab7ba407c3070e188ed51f87d0055
 ---
+
 گھر سے چلے جب بہر سفر سبط پیمبر
 کہنے لگی عباس کی مادر شیر دلاور
 ایک نصیحت کرتی ہوں میں اے میرے دلبر
-غم کوئی بھی شبیر کے آے گا نہیں پاس عباس
+غم کوئی بھی شبیر کے آئے گا نہیں پاس عباس
 اجڑے گا نہ زہرا کا بھرا گھر
 عباس میرے سر کی قسم کھا
 
 ۱
-اے بازوے شبیر وفادار قسم کھا
+اے بازوئے شبیر وفادار قسم کھا
 اجڑے گا نہیں زہرا کا بھرا گھر قسم کھا
 رکھ ہاتھ میرے سر پہ تو ایک بار قسم کھا
 آقا پہ فدا ہوگا تیرا سر
 
 ۲
-جب تک تیرا شانوں پہ رکھا ہے یہ تیرا سر
-آیینگے نہیں خیمہء سرور میں ستمگر
-گر آے سوے خیمہ لعینوں کا وہ لشکر
+جب تک تیرے شانوں پہ رکھا ہے یہ تیرا سر
+آئیں گے نہیں خیمۂ سرور میں ستمگر
+گر آئے سوئے خیمہ لعینوں کا وہ لشکر
 جان دے کے بچانے ہے تجھے گھر
 
 ۳
 یہ بازو نگہبان ہے زینب کی ردا کے
-نرغے ہو اگر چاروں اہل جفا کے
+نرغے ہو اگر چاروں طرف اہلِ جفا کے
 تو رکھے گا شہزادی کو پردے میں چھپا کے
-جاے گی نہ شہزادی کی چادر
+جائے گی نہ شہزادی کی چادر
 
 ۴
-سقہ ہے تو سقای پہ جاں اپنی لٹانا
+سقہ ہے تو سقائی پہ جاں اپنی لٹانا
 پیاسی ہو اگر آل نبی پانی پلانا
 دن رات سکینہ کو کلیجے سے لگانا
-روے گی شبیر کی دختر
+روئے گی شبیر کی دختر
 
 ۵
 کر وعدہ کہ یہ قافلہ ہرگز نہ لٹے گا
@@ -120,5 +121,5 @@ romanLyrics: |-
 ۸
 پھر مظہر و عرفان یہ بولا وہ دلاور
 یہ جان بھی قربان ہے زہرا کے پسر پر
-کیوں آپ یہ کہتی ہے میری مادر مضطر
-لٹ جاے نہ زہرا کا بھرا گھر
+کیوں آپ یہ کہتی ہیں میری مادر مضطر
+لٹ جائے نہ زہرا کا بھرا گھر

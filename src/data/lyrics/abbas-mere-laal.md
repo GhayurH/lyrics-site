@@ -10,81 +10,82 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Beta meri ghurbat ki kamayi ko sambhalo
-  Abbas mere laal ko tum aake bachalo
-  Abbas al madad mere abbas al madad
+  Beta meri ghurbat ki kamai ko sambhalo
+  Abbas mere laal ko tum aa ke bacha lo
+  Abbas al-madad mere Abbas al-madad
 
   1
-  Bhai ke liye maujiza dikhla nahi sakte
-  Tum baabe hawaij agar aa nahi sakte
-  Maqtal ke ilaaqe ko taraayi se milado
+  Bhai ke liye mojiza dikhla nahiṅ sakte
+  Tum Bab-e-Hawaij agar aa nahiṅ sakte
+  Maqtal ke ilaqe ko tarai se mila do
 
   2
-  Kuch yaad hai kya tumse kaha tha dam e ruqsat
-  Kya bhool gaye umme baneen ki wo wasiyat
-  Wo maa hai unhe rootne se pele manalo
+  Kuchh yaad hai kya tum se kaha tha dam-e-rukhsat
+  Kya bhul gaye Ummul Banin ki wo wasiyat
+  Wo maaṅ hai unheṅ ruthne se pahle mana lo
 
   3
-  Bhai ka gala kat'te huwe dekhegi kaise
-  Tukdon may usay bat'te huwe dekhegi kaise
-  Zainab ko zara rayt ke teele se hatalo
+  Bhai ka gala katte hue dekhegi kaise
+  Tukroṅ mein use batte hue dekhegi kaise
+  Zainab ko zara ret ke tile se hata lo
 
   4
-  Baba se bichad kar usay neend aayegi kaise
-  Seena na milega to sukoon payegi kaise
-  Taskeen e sakina ki koi raah nikalo
+  Baba se bichhar kar use nind aayegi kaise
+  Sina na milega to sukun paayegi kaise
+  Taskin-e-Sakina ki koi raah nikalo
 
   5
-  Utha bhi nahi jaata mere tashna dahan se
-  Kaise kahun paala hai isay kitne jatan se
-  Hyder ki dua fatema zehra ki dua lo
+  Utha bhi nahiṅ jaata mere tishna dahan se
+  Kaise kahuṅ pala hai ise kitne jatan se
+  Haider ki dua Fatema Zehra ki dua lo
 
   6
-  Jo char qadam mujhse chala bhi nahi jaata
-  Pehlu hai shikasta to utha bhi nahi jaata
-  Baazu e bureeda se mujhe aake sambhalo
+  Jo chaar qadam mujh se chala bhi nahiṅ jaata
+  Pehlu hai shikasta to utha bhi nahiṅ jaata
+  Bazu-e-burida se mujhe aa ke sambhalo
 
   7
-  Teeron ke musalle pe hai yasrab ka namazi
-  Lillaah chale aao kahan ho mere ghazi
-  Shabbir ke is aakhri sajde ko bachalo
+  Tiroṅ ke musalle pe hai Yasrab ka namazi
+  Lillah chale aao kahan ho mere Ghazi
+  Shabbir ke is aakhri sajde ko bacha lo
 
   8
-  Tum umme wafa umme masayib ki kali ho
-  Ay ibne ali tum bhi to ek nade ali ho
-  Islam pe jo mushkilein aayi hai wo taalo
+  Tum Umm-e-Wafa Umm-e-Masaib ki kali ho
+  Ae Ibn-e-Ali tum bhi ho ek Nad-e-Ali ho
+  Islam pe jo mushkileṅ aayi hain wo talo
 
   9
-  Zehra tere nauhon ka karam kam hai ye hum par
-  Hai aaj bhi har maa ki dua aamir o nayyar
-  Ghazi mere bete ko musibat se chudalo
+  Zehra tere nohoṅ ka karam kam hai ye hum par
+  Hai aaj bhi har maaṅ ki dua Aamir o Nayyar
+  Ghazi mere bete ko musibat se chhura lo
 # source_id: nohayonline:1ef6732812722e129832
 # source_url: https://www.nohayonline.com/details_content.php?id=2440
 # raw_sha256: 73fb6a74dd1de8089a282c37f94621cb79ad07fec08203a6e8cb06e4ebc740d8
 ---
-بیٹا میری غربت کی کمای کو سنبھالو
+
+بیٹا میری غربت کی کمائی کو سنبھالو
 عباس میرے لال کو تم آ کے بچالو
 عباس المدد میرے عباس المدد
 
 ۱
-بھای کے لئے معجزہ دکھلا نہیں سکتے
-تم باب حوایج اگر آ نہیں سکتے
-مقتل کے علاقے کو ترای سے ملادو
+بھائی کے لیے معجزہ دکھلا نہیں سکتے
+تم بابِ حوائج اگر آ نہیں سکتے
+مقتل کے علاقے کو ترائی سے ملادو
 
 ۲
 کچھ یاد ہے کیا تم سے کہا تھا دم رخصت
-کیا بھول گےء ام بنیں کی وہ وصیت
+کیا بھول گئے ام البنین کی وہ وصیت
 وہ ماں ہے انہیں روٹھنے سے پہلے منالو
 
 ۳
-بھای کا گلا کٹتے ہوے دیکھے گی کیسے
-ٹکڑوں میں اسے بٹتے ہوی دیکھے گی کیسے
-زینب کو زرا ریت کے ٹیلے سے ہٹاؤ
+بھائی کا گلا کٹتے ہوئے دیکھے گی کیسے
+ٹکڑوں میں اسے بٹتے ہوئے دیکھے گی کیسے
+زینب کو ذرا ریت کے ٹیلے سے ہٹاؤ
 
 ۴
-بابا سے بچھڑ کر اسے نیند آے گی کیسے
-سینہ نہ ملے گا تو سکوں پاے گی کیسے
-تسکین سکینہ کی کوی راہ نکالو
+بابا سے بچھڑ کر اسے نیند آئے گی کیسے
+سینہ نہ ملے گا تو سکون پائے گی کیسے
+تسکین سکینہ کی کوئی راہ نکالو
 
 ۵
 اٹھا بھی نہیں جاتا میرے تشنہ دہن سے
@@ -94,17 +95,17 @@ romanLyrics: |-
 ۶
 جو چار قدم مجھ سے چلا بھی نہیں جاتا
 پہلو ہے شکستہ تو اٹھا بھی نہیں جاتا
-بازوے بریدہ سے مجھے آ کے سنبھالو
+بازوئے بریدہ سے مجھے آ کے سنبھالو
 
 ۷
 تیروں کے مصلے پہ ہے یثرب کا نمازی
-لللہ چلے آؤ کہاں ہو میرے غازی
+لِلّٰہ چلے آؤ کہاں ہو میرے غازی
 شبیر کے اس آخری سجدے کو بچالو
 
 ۸
 تم ام وفا ام مصائب کی کلی ہو
 اے ابنِ علی تم بھی ہو اک ناد علی ہو
-اسلام پہ جو مشکلیں آی ہے وہ ٹالو
+اسلام پہ جو مشکلیں آئی ہیں وہ ٹالو
 
 ۹
 زہرا تیرے نوحوں کا کرم کم ہے یہ ہم پر
