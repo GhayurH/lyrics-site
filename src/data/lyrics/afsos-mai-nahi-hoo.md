@@ -1,5 +1,5 @@
 ---
-title: خواب صغرا
+title: خوابِ صغرا
 alternateTitle: Afsos Mai Nahi Hoo
 language: Urdu
 lang: ur
@@ -10,13 +10,13 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khwaab e sughra
+  Khwab-e-Sughra
   Behan ne khwaab ye kal shab hai dekha
   Shabihe mustafa bhaiya hamara
   Padar ke haath se banta hai dulha
   Bahot masroor hai khush hai sakina
   Damakta hai khushi se sab ka chehra
-  Lekin mai nahi hoo afsoos mai nahi hoo
+  Lekin main nahiṅ huṅ afsos main nahiṅ huṅ
 
   1
   Phupi amma balayein le rahi hai
@@ -42,7 +42,7 @@ romanLyrics: |-
   4
   Mehek sehre ki ye batla rahi hai
   Sawari sayyeda ki aa rahi hai
-  Najaf se murtaza aaye huwe hai
+  Najaf se Murtaza aae hue haiṅ
   Hawa tazeem karne jaa rahi hai
   Hai aanchal mil ke sab behno ne daala
 
@@ -61,10 +61,10 @@ romanLyrics: |-
   Sabhi dete hai baba ko sahara
 
   7
-  Samar behte rahe sughra ke aansu
+  Samar behte rahe Sughra ke aṅsu
   Bhare akbar ke khaak o khoon mein gaysu
   Ali akbar suye jannat sidhaare
-  Fiza mein reh gayi bas khoon ki boo
+  Fiza mein reh gayi bas khun ki bu
   Janaza mai uthaati mil ke baba
 # source_id: nohayonline:7b6a7fab124daf9294c5
 # source_url: https://www.nohayonline.com/details_content.php?id=2387
@@ -73,7 +73,7 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/1344
 # raw_sha256: 904c09a39e05ce979a2ba4fb43d1b6c897a6cd557bf1b1778aa443ed25a3e771
 ---
-خواب صغرا
+خوابِ صغرا
 بہن نے خواب یہ کل شب ہے دیکھا
 شبیہ مصطفیٰ بھیا ہمارا
 پدر کے ہاتھ سے بنتا ہے دولہا
@@ -82,8 +82,8 @@ romanLyrics: |-
 لیکن میں نہیں ہوں افسوس میں نہیں ہوں
 
 ۱
-پھپھی اماں بلاییں لے رہی ہے
-بہت فضہ دعائیں دے رہی ہے
+پھپھی اماں بلائیں لے رہی ہیں
+بہت فضہ دعائیں دے رہی ہیں
 ٹھکانہ کیا ہے بہنوں کی خوشی کا
 جو مانگے وہ جو چاہے لے رہی ہے
 مناتا ہے خوشی کنبہ ہمارا
@@ -91,7 +91,7 @@ romanLyrics: |-
 ۲
 علی اصغر کو شہ والا بنا کر
 بٹھایا ماں نے اکبر کے برابر
-ہتھیلی پر رکھی مہندی زرا سی
+ہتھیلی پر رکھی مہندی ذرا سی
 کھڑے ہیں پاس عباس دلاور
 مجھے قاسم نے ہر خیمے میں ڈھونڈا
 
@@ -105,12 +105,12 @@ romanLyrics: |-
 ۴
 مہک سہرے کی یہ بتلا رہی ہے
 سواری سیدہ کی آ رہی ہے
-نجف سے مرتظی آے ہوے ہے
-ہوا تعظیم کرنے جا رہی ھے
+نجف سے مرتضیٰ آئے ہوئے ہیں
+ہوا تعظیم کرنے جا رہی ہے
 ہے آنچل مل کے سب بہنوں نے ڈالا
 
 ۵
-اچانک خواب ٹوٹا روی صغرا
+اچانک خواب ٹوٹا روئی صغرا
 تھا گھر میں ہر طرف چھایا اندھیرا
 تھا لاشوں سے بھرا گنج شہیداں
 علی اکبر کے سینے میں تھا نیزہ
@@ -119,13 +119,13 @@ romanLyrics: |-
 ۶
 ابھی تو خواب تھا کتنا سہانا
 تھا جن ہاتھوں میں دیکھا میں نے کنگنا
-وہ سینے کا لہو روکے ہوے تھے
+وہ سینے کا لہو روکے ہوئے تھے
 کہاں کی رسم شادی کیسا سہرا
 سبھی دیتے ہیں بابا کو سہارا
 
 ۷
-سمر بہتے رہے صغرا کے آنسوں
-بھرے اکبر کے خاک و خوں میں گیسوں
+سمر بہتے رہے صغرا کے آنسو
+بھرے اکبر کے خاک و خوں میں گیسو
 علی اکبر سوے جنت سدھارے
-فضا میں رہ گیء بس خون کی بو
+فضا میں رہ گئی بس خون کی بو
 جنازہ میں اٹھاتی مل کے بابا

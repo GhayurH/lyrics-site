@@ -10,56 +10,56 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Agar shabbir ka matam na hota
-  To phir islam mustehkam na hota
+  Agar Shabbir ka matam na hota
+  To phir Islam mustahkam na hota
 
   1
-  Sar e maqtal tadapti kyun jawani
-  Agar barchi mein uljha dam na hota
+  Sar-e-maqtal tarapti kiun jawani
+  Agar barchhi mein uljha dam na hota
 
   2
-  Agar dhaaras na banta sabr e shabbir
-  Lahoo baysheer ka tha kam na hota
+  Agar dharas na banta sabr-e-Shabbir
+  Lahu beshir ka tha kam na hota
 
   3
   Na hoti gar bahattar ki shahadat
   Khushi dunya mein hoti gham na hota
 
   4
-  Na hote gar hussain islam haq par
-  Tumhara aaj tak maatam na hota
+  Na hote gar Husain Islam Haq par
+  Tumhara aaj tak matam na hota
 
   5
-  Na gar abbas hote jazb e nusrat
+  Na gar Abbas hote jazb-e-nusrat
   Buland itna tera parcham na hota
 
   6
-  Na chut jaata agar godhi ka paala
-  To phir bano ke dil mein gham na hota
+  Na chhut jaata agar godi ka pala
+  To phir Bano ke dil mein gham na hota
 
   7
-  Agar haq par na hote marne waale
-  Azadari ka ye aalam na hota
+  Agar haq par na hote marne wale
+  Azadari ka ye alam na hota
 
   8
-  Na chinti gar sar e zainab se chadar
-  Zameen se aasman tak gham na hota
+  Na chhinti gar sar-e-Zainab se chadar
+  Zamin se asmaṅ tak gham na hota
 
   9
-  Behan gar qaid khane mein na jaati
-  To bhai faatha e azam na hota
+  Behan gar qaidkhane mein na jaati
+  To bhai Fateh-e-Azam na hota
 
   10
-  Na milti karbala ko gar bulandi
-  To phir kaaba kisi se kam na hota
+  Na milti Karbala ko gar bulandi
+  To phir Kaaba kisi se kam na hota
 
   11
-  Agar shabbir ke aansu na hote
-  To dard e qalb e akbar kam na hota
+  Agar Shabbir ke aṅsu na hote
+  To dard-e-qalb-e-Akbar kam na hota
 
   12
-  Na milti fazl gar sheh ki tajalli
-  To moti aansuon se kam na hota
+  Na milti Fazl gar Sheh ki tajalli
+  To moti aṅsuoṅ se kam na hota
 # source_id: nohayonline:30f08e7084fa2c965496
 # source_url: https://www.nohayonline.com/details_content.php?id=1196
 # raw_sha256: 834ef485e5dc7bca6420080fef381d622095bbf6cb11fbd38d6e39c5eeca4cd8
@@ -84,7 +84,7 @@ romanLyrics: |-
 تمہارا آج تک ماتم نہ ہوتا
 
 ۵
-نہ گر عباس ہوتے جزبے نصرت
+نہ گر عباس ہوتے جذبۂ نصرت
 بلند اتنا تیرا پرچم نہ ہوتا
 
 ۶
@@ -96,19 +96,19 @@ romanLyrics: |-
 عزاداری کا یہ عالم نہ ہوتا
 
 ۸
-نہ چھنتی گر سر زینب سے چادر
+نہ چھنتی گر سرِ زینب سے چادر
 زمیں سے آسماں تک غم نہ ہوتا
 
 ۹
 بہن گر قید خانے میں نہ جاتی
-تو بھای فاتحے عاظم نہ ہوتا
+تو بھائی فاتحِ اعظم نہ ہوتا
 
 ۱۰
 نہ ملتی کربلا کو گر بلندی
 تو پھر کعبہ کسی سے کم نہ ہوتا
 
 ۱۱
-اگر شبیر کے آنسوں نہ ہوتے
+اگر شبیر کے آنسو نہ ہوتے
 تو درد قلب اکبر کم نہ ہوتا
 
 ۱۲
