@@ -35,7 +35,7 @@ romanLyrics: |-
   4
   Rah-e-wafa mein khun diya
   Ek bund na pani piya
-  Darya pe jab gara alam
+  Darya pe jab gaara alam
   Sab keh uthe Arab o Ajam
 
   5
