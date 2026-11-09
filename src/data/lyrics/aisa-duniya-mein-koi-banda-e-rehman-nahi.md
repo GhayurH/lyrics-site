@@ -1,35 +1,58 @@
 ---
-title: "Aisa Duniya Mein Koi Banda E Rehman Nahi Lyrics 2013"
-language: "Roman Urdu"
+title: "ایسا دنیا میں کوئی بندۂ رحمان نہیں"
+alternateTitle: "Aisa Dunya Mein Koi Banda-e-Rehman Nahi"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Mir Hasan Mir"
+reciter: "Mir Hasan Mir"
+tags: ["noImage"]
 aliases: []
 recitationId: "aisa-duniya-mein-koi-banda-e-rehman-nahi-lyrics-2013"
 published: false
+romanLyrics: |-
+  Aisa dunya mein koi banda-e-Rehman nahiṅ
+  Jis pe Sultan-e-Khurasan ka ehsan nahiṅ
+
+  1
+  Is tarah teri karimi pe yaqin hai mujh ko
+  Jaise Tauhid mein shak ka koi imkan nahiṅ
+  Waaṅ gayi fikr meri Madh-e-Raza ki khatir
+  Jahaṅ Jibril ke jaane ka bhi imkan nahiṅ
+
+  2
+  Sheikh ji Madh-e-Raza sun ke ye hairat kaisi
+  Kya kabhi tum ne suni Sura-e-Rehman nahiṅ
+  Tere darbar mein bajti hui naubat ki qasam
+  Kam azanoṅ se teri jit ka elan nahiṅ
+
+  3
+  Har ghari lab pe mere naam-e-Ali rehta hai
+  Kaun kehta hai ke main Hafiz-e-Quran nahiṅ
+  Mil gaya jab teri khudami ka tamgha is ko
+  Ab tere Mir Hasan ko koi arman nahiṅ
 # source_id: tajpoints:69e7f0026272fcea2a9f
 # source_url: https://tajpoints.com/2020/11/aisa-duniya-mein-koi-banda-e-rehman.html
 # raw_sha256: 7e1fa829396e8fb202d4a02fca97bbd736c8f90afbbae26e4f16e14c9148b1ab
 ---
+ایسا دنیا میں کوئی بندۂ رحمان نہیں
+جس پہ سلطانِ خراسان کا احسان نہیں
 
-Aisa Duniya Mein Koi Banda e Rehman Nahi
-Jis Pe Sultan-e-Khurasan Ka Ahsan Nahi
+۱
+اس طرح تیری کریمی پہ یقین ہے مجھ کو
+جیسے توحید میں شک کا کوئی امکان نہیں
+واں گئی فکر مری مدحِ رضا کی خاطر
+جہاں جبرئیل کے جانے کا بھی امکان نہیں
 
-1
-Iss Tarha Teri Kareemi Pe Yaqeen Hai Mujh Ko
-Jaisay Tauheed Mein Shak Ka Koi Imkan Nahi
-Waan Gayi Fikar Meri Madh-e-Raza Ki Khatir
-Jahan Jibreel Ke Jane Ka Bhi Imkan Nahi
+۲
+شیخ جی مدحِ رضا سن کے یہ حیرت کیسی
+کیا کبھی تم نے سنی سورۂ رحمان نہیں
+تیرے دربار میں بجتی ہوئی نوبت کی قسم
+کم اذانوں سے تری جیت کا اعلان نہیں
 
-2
-Sheikh Jee Madh-e-Raza Sun Ke Yeh Hairat Kaisi
-Kiya Kabhi Tum Ne Suni Sorah-e-Rehman Nahi
-Tere Darbar Mein Bajti Hoi Nobat Ki Qasam
-Kam Azano Se Teri Jeet Ka Ayelan Nahi
-
-3
-Har Ghari Lab Pe Mere Nam-e-Ali Rehta Hai
-Kaun Kehta Hai Keh Main Hafiz-e-Quran Nahi
-Mil Ga Jab Teri Khudami Ka Tamga Iss Ko
-Ab Tere:MIR HASAN: Ko Koi Arman Nahi
+۳
+ہر گھڑی لب پہ مرے نامِ علی رہتا ہے
+کون کہتا ہے کہ میں حافظِ قرآن نہیں
+مل گیا جب تری خدامی کا تمغہ اس کو
+اب ترے میر حسن کو کوئی ارمان نہیں
