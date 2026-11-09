@@ -5,12 +5,13 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shahid Baltistani"
 poet: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sooz e dilam kaaba e mann karbobalai
+  Soz-e-dilam Kaaba-e-man Karbobalaai
   Na mikhuaham jahaan hussain hussain
   Sada bizan na mikhuaham ee jahan sada bizan
 
@@ -25,28 +26,26 @@ romanLyrics: |-
   Jald bulwa le mujhe karbobala
 
   3
-  Allah humma arzuqna ziyaratal hussain
+  Allahumma-rzuqna ziyarat-al-Husain
   Ya hussain ya hussain
   Arbaeen ho ke wo ho ashura
   Ek sailaab azadaro ka
   Shukr ka karta hai tujhko sajda
-
-  4
-  Un crore'on mein bus ek mai hi nahi
+  Un karoroṅ mein bas ek main hi nahiṅ
   Soch kar phat'ta hai dil ye mera
 
-  5
+  4
   Sunle armaan mere
   Koi tadbeer bane
   Tera deedaar mile
 
-  6
-  Khadim e zaireen ke sadqe
+  5
+  Khaadim-e-zaireen ke sadqe
   Soz e shahbaaz e qalandar de de
   Yehi nauha hi areeza hai mera
   Ab to darvaish ko deedar milay
 
-  7
+  6
   Chahe kuch bhi na bache
   Karbala dil mein rahe
   Jab talak saans chale
@@ -55,7 +54,7 @@ romanLyrics: |-
 # raw_sha256: bbe8a1f7205885315d1ac9e74f576254f2fe8dee7fea01cd4eb7ce5741b2f002
 ---
 
-سوز دین کعبہء من کربوبلای
+سوزِ دلم کعبۂ من کربوبلائی
 نہ مقواہم جہاں حسین حسین
 صدا بزن نہ مقواہمی جہاں صدا بزن
 
@@ -70,28 +69,26 @@ romanLyrics: |-
 جلد بلوا لے مجھے کربوبلا
 
 ۳
-اللہ ھم ارزقنا زیارت الحسین
+اللہم ارزقنا زیارت الحسین
 یا حسین یا حسین
 اربعیں ہو کہ ہو وہ عاشورا
 ایک سیلاب عزاداروں کا
-شکر کا کرتا ہے تجھکو سجدہ
+شکر کا کرتا ہے تجھ کو سجدہ
+ان کروڑوں میں بس ایک میں ہی نہیں
+سوچ کر پھٹتا ہے دل یہ میرا
 
 ۴
-ان کروڑوں میں بس ایک میں ہی نہیں
-سونچ کر پھٹتا ہے دل یہ میرا
-
-۵
 سن لے ارمان میرے
 کوئی تدبیر بنے
 تیرا دیدار ملے
 
-۶
-قادم زایرین کے صدقے
+۵
+خادمِ زائرین کے صدقے
 سوز شہباز قلندر دے دے
 یہی نوحہ ہی عریضہ ہے میرا
 اب تو درویش کو دیدار ملے
 
-۷
+۶
 چاہے کچھ بھی نہ بچے
 کربلا دل میں رہے
 جب تلک سانس چلے

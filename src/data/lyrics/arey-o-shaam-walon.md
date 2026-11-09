@@ -5,17 +5,18 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shareef Hussain"
 poet: "Anwar Zahir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hua jab qatl ahmed ka nawasa
+  Hua jab qatl Ahmad ka nawaasa
   Layeeno ne har ek qaima jala diya
   Haram ko lootne jab aaye aada
   Ye nauha pad rahi thi binte zehra
   Arey o shaam walon meri chadar na cheeno
-  Arey o kalmagoyo meri chadar na cheeno
+  Are o kalma goyo meri chaadar na chheeno
 
   1
   Shabe hashr mehboob e khuda hai
@@ -30,9 +31,9 @@ romanLyrics: |-
   Meri chadar na cheeno
 
   3
-  Agar suye najaf mud kar pukarun
-  Mai ek awaaz mein unko bulalun
-  Jo chahun khaak mein tumko miladun
+  Agar su-e-Najaf mur kar pukaaruṅ
+  Main ek aawaaz mein unko bula luṅ
+  Jo chaahuṅ khaak mein tum ko mila duṅ
   Meri chadar na cheeno
 
   4
@@ -71,7 +72,7 @@ romanLyrics: |-
 
 ہوا جب قتل احمد کا نواسہ
 لعینوں نے ہر اک خیمہ جلا دیا
-حرم کو لوٹنے جب آے اعدا
+حرم کو لوٹنے جب آئے اعدا
 یہ نوحہ پڑھ رہی تھی بنت زہرا
 ارے او شام والوں میری چادر نہ چھینو
 ارے او کلمہ گویوں میری چادر نہ چھینو
@@ -79,7 +80,7 @@ romanLyrics: |-
 ۱
 شب حشر محبوب خدا ہے
 مسلماں جس کا کلمہ پڑھ رہا ہے
-میرا نانا محمد مصطفےٰ ہے
+میرا نانا محمد مصطفیٰ ہے
 میری چادر نہ چھینو
 
 ۲
@@ -91,13 +92,13 @@ romanLyrics: |-
 ۳
 اگر سوے نجف مڑ کر پکاروں
 میں اک آواز میں ان کو بلالوں
-جو چلوں خاک میں تم کو ملادوں
+جو چاہوں خاک میں تم کو ملا دوں
 میری چادر نہ چھینو
 
 ۴
-میرا بھای ہے عباس دلاور
+میرا بھائی ہے عباس دلاور
 بھتیجا صاحب غیرت ہے اکبر
-نہ سر پر آسماں گر جاے پھٹ کر
+نہ سر پر آسماں گر جائے پھٹ کر
 میری چادر نہ چھینو
 
 ۵
@@ -121,5 +122,5 @@ romanLyrics: |-
 ۸
 سنی فریاد کب زینب کی انور
 نہ چھوڑی سر پہ جلادوں نے چادر
-یہ کہتی رہ گیء سرور کی خواہر
+یہ کہتی رہ گئی سرور کی خواہر
 میری چادر نہ چھینو

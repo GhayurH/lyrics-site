@@ -5,11 +5,12 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anjuman-e-Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Arbaeen tera hogaya bhai
+  Arbaeen tera ho gaya bhai
   Haq ada mera hogaya bhai
 
   1
@@ -29,7 +30,7 @@ romanLyrics: |-
   Waada tera poora hogaya bhai
 
   5
-  Sab ko rone ek reh gayi zainab
+  Sab ko rone ek reh gayi Zainab
   Haal kya mera hogaya bhai
 
   6
@@ -39,29 +40,29 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3764
 # raw_sha256: bc171bae2317920e3a4f6cfcf002451e8e7687c0cf0066656de44cc6ddbb4858
 ---
-اربعیں تیرا ہو گیا بھای
-حق ادا میرا ہوگیا بھای
+اربعیں تیرا ہو گیا بھائی
+حق ادا میرا ہو گیا بھائی
 
 ۱
 جس کو اٹھارہ سال پالا تھا
-وہ تہہ خاک سو گیا بھای
+وہ تہہ خاک سو گیا بھائی
 
 ۲
-ہاے ایک دو پہر میں مانجاے
-صاف گھر تیرا ہو گیا بھای
+ہائے ایک دو پہر میں مانجاے
+صاف گھر تیرا ہو گیا بھائی
 
 ۳
 ہاے سقہ تیرے مرنے سے
-دربدر کنبہ ہو گیا بھای
+دربدر کنبہ ہو گیا بھائی
 
 ۴
 قید میں سکینہ کو دفنا کر
-وعدہ تیرا پورا ہو گیا بھای
+وعدہ تیرا پورا ہو گیا بھائی
 
 ۵
-سب کو رونے ایک رہ گیء زینب
-حا‌ل کیا میرا ہو گیا بھای
+سب کو رونے ایک رہ گئی زینب
+حال کیا میرا ہو گیا بھائی
 
 ۶
 بخشش امت نبی کے لئے
-سر قلم تیرا ہو گیا بھای
+سر قلم تیرا ہو گیا بھائی

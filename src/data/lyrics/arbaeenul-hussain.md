@@ -5,21 +5,22 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shahid Baltistani"
 poet: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Arbaeen arbaeen arbaeen ul hussain
-  Labbaika yabna zahra labbaika ya hussain
+  Arbaeen Arbaeen Arbaeen-ul-Husain
+  Labbaik ya Ibn-e-Zehra labbaik ya Husain
   
   1
   Hum jis se zinda hai wo azadari hai
   Ye azadari to ek zimmedari hai
   Aur jo zawwaron ki ye khidmat gaari hai
-  Mehdi ke lashkar ki ye bhi tayyari hai
+  Mehdi ke lashkar ki ye bhi tayyaari hai
   Chaahe ye ghar jale chaahe ye sar kate
-  Roke rukega na ye khaafila
+  Roke rukega na ye qaafila
   
   2
   Ye suye karbala paidal jo chalna hai
@@ -34,18 +35,18 @@ romanLyrics: |-
 ---
 
 اربعیں اربعیں اربعین الحسین
-لبیک یا زہرا لبیک یا حسین
+لبیک یا ابنِ زہرا لبیک یا حسین
 
 ۱
 ہم جس سے زندہ ہیں وہ عزاداری ہے
-یہ عزاداری تو ایک زمہ داری ہے
+یہ عزاداری تو ایک ذمہ داری ہے
 اور جو زواروں کی یہ خدمت گاری ہے
-مہدی ک لشکر کی یہ بھی تیاری ہے
+مہدی کے لشکر کی یہ بھی تیاری ہے
 چاہے یہ گھر جلے چاہے یہ سر کٹے
 روکے رکے گا نہ یہ قافلہ
 
 ۲
-یہ سوے کربلا پیدل جو چلنا ہے
+یہ سوئے کربلا پیدل جو چلنا ہے
 سجاد و زینب کی غربت کا پرسہ ہے
 منظر یہ باطل کی نیندیں اڑاتا ہے
 لبیک یا حسین کا ہر سو نعرہ ہے
