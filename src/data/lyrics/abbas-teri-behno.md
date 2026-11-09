@@ -9,93 +9,54 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Haye shaam, haye shaam..
-
-  Haye Abbas, haye Abbas..
-
-  Abbas teri behno ko, bazaar mein laaya jatah hay
-
+reciter: "Farhan Ali Waris"
+romanLyrics: |-
+  Abbas teri behnoṅ ko bazar mein laaya jaata hai
 
   1
-
-  1. Suraj ne khule sar jisko, ghar mein bhi kabhi na dekha
-
-  Afsos wahi shehzadi, balwe mein gai wawaila
-
-  Zainab ki yaha aamad par, darbaar sajaya jaata hay
-
+  Suraj ne khule sar jis ko ghar mein bhi kabhi na dekha
+  Afsos wohi Shahzadi balwe mein gayi wawaila
+  Zainab ki yahan aamad par darbar sajaya jaata hai
 
   2
-
-  2. Kis shaan se teri zainab, mehmil me chali thi ghar se
-
-  Aur aaj safar par nikli, to raah mein patthar barse
-
-  Be parda nabi zaadi ko, galiyon me phiraya jaata hay
-
+  Kis shan se teri Zainab mahmil mein chali thi ghar se
+  Aur aaj safar par nikli to raah mein patthar barse
+  Beparda Nabizadi ko galiyoṅ mein phiraya jaata hai
 
   3
-
-  3. Kya tujhse kahu ae Ghazy, dekhe hay yaha ghum kaise
-
-  Raaho mein sakina teri, paani ke liye gar roye
-
-  Bache ko dikha kar paani, reti pe bahaya jaata hay
-
+  Kya tujh se kahuṅ ae Ghazi dekhe hain yahan gham kaise
+  Rahoṅ mein Sakina teri pani ke liye gar roe
+  Bachchi ko dikha kar pani reti pe bahaya jaata hai
 
   4
-
-  4. Be dard hay be ghayrat hay, ye shaam ke rehne waale
-
-  Aankhon pe pade hay parde, aur inki zaban par taale
-
-  Ye chup hay nabi zadi ko, balwe me bulaya jaata hay
-
+  Bedard hai beghairat hai ye Shaam ke rehne wale
+  Aankhoṅ pe pare hain parde aur in ki zabaṅ par taale
+  Ye chup hain Nabizadi ko balwe mein bulaya jaata hai
 
   5
-
-  5. Ek lamha nahi hay aisa, eeza na koi pohchaye
-
-  Thak kar wo kahi gar baithe, sajjad ko neend aa jaye
-
-  Haye haye zanjeer hilakar, qaidi ko jagaya jaata hay
-
+  Ek lamha nahiṅ hai aisa iza na koi pahunchae
+  Thak kar wo kahiṅ gar baithe Sajjad ko nind aa jaaye
+  Haaye haaye zanjir hila kar qaidi ko jagaya jaata hai
 
   6
-
-  6. Dohraya gaya maazi ko, hay zulm wohi aur ghum bhi
-
-  Ummat bhi wohi, chehre bhi, darbaar wohi aur hum bhi
-
-  Kal amma jahan aayi thi, ab mujhko bulaya jaata hay
-
+  Dohraya gaya mazi ko hai zulm wohi aur gham bhi
+  Ummat bhi wohi chehre bhi darbar wohi aur hum bhi
+  Kal Amma jahan aayi thi ab mujh ko bulaya jaata hai
 
   7
-
-  7. Raaho mein kisi manzil par, deta jo hume koi chadar
-
-  Le jaate hay phir wo chadar, hakim ke sipahi aakar
-
-  Ek ghum me teri zainab ko, kai baar rulaya jaata hay
-
+  Rahoṅ mein kisi manzil par deta jo hameṅ koi chadar
+  Le jaate hain phir wo chadar hakim ke sipahi aa kar
+  Ek gham mein teri Zainab ko kai baar rulaya jaata hai
 
   8
-
-  8. Barsaat kabhi durro ki, hoti hay kahi sangbaari
-
-  Ae bhay bata kyu na ho,jeene se mujhe bezaari
-
-  Sadaat ko in raaho mein, har gaam sataya jaata hay
-
+  Barsat kabhi durroṅ ki hoti hai kahiṅ sangbari
+  Ae bhai bata kiun na ho jine se mujhe bezari
+  Sadat ko in rahoṅ mein har gaam sataya jaata hai
 
   9
-
-  9. Ye farsh e aza ye matam, Zainab ka qarz hay humpar
-
-  Duniya se kahe phir kyu na, Farhan aur Mazhar rokar
-
-  Jo aale nabi par guzri, nauho mein sunaya jaata hay'
-reciter: Farhan Ali
+  Ye farsh-e-aza ye matam Zainab ka qarz hai hum par
+  Dunya se kaheṅ phir kiun na Farhan aur Mazhar ro kar
+  Jo Aal-e-Nabi par guzri nohoṅ mein sunaya jaata hai
 # source_id: nohayonline:9a781c81cabad906b46e
 # source_url: https://www.nohayonline.com/details_content.php?id=78
 # raw_sha256: 34f9fb3d52a8db4d9070bc04aeaf0773db3f096f0182a32d37b56a572bdd3bb7
@@ -107,11 +68,12 @@ reciter: Farhan Ali
 # raw_sha256: 1469383691fbafcf21b1ee7282452df799a65551e9df4bb79712ca9ab4eb4236
 ---
 
+
 عباس تیری بہنوں کو بازار میں لایا جاتا ہے
 
 ۱
 سورج نے کھلے سر جس کو گھر میں بھی کبھی نہ دیکھا
-افسوس وہی شہزادی بلوے میں گیء واویلا
+افسوس وہی شہزادی بلوے میں گئی واویلا
 زینب کی یہاں آمد پر دربار سجایا جاتا ہے
 
 ۲
@@ -121,28 +83,28 @@ reciter: Farhan Ali
 
 ۳
 کیا تجھ سے کہوں اے غازی دیکھیں ہیں یہاں غم کیسے
-راہوں میں سکینہ تیری پانی کے لیے گر روےء
+راہوں میں سکینہ تیری پانی کے لیے گر روئے
 بچی کو دکھا کر پانی ریتی پہ بہایا جاتا ہے
 
 ۴
 بے درد ہے بے غیرت ہے یہ شام کے رہنے والے
-آنکھوں پہ پڑے ہیں پردےاور انکے زبان پہ تالے
+آنکھوں پہ پڑے ہیں پردے اور ان کی زبان پہ تالے
 یہ چپ ہے نبی زادی کو بلوے میں بلایا جاتا ہے
 
 ۵
-اک لمحہ نہیں ہے ایسا ایذاء نہ کوئی پہنچاے
+اک لمحہ نہیں ہے ایسا ایذا نہ کوئی پہنچائے
 تھک کر وہ کہیں گر بیٹھے سجاد کو نیند آجائے
 ہاے ہاے زنجیر ہلا کر قیدی کو جگایا جاتا ہے
 
 ۶
 دہرایا گیا ماضی کو ہے ظلم وہی اور غم بھی
 امت بھی وہی چہرے بھی دربار وہی اور ہم بھی
-کل اماں جہاں آییں تھی اب مجھ کو بلایا جاتا ہے
+کل اماں جہاں آئی تھی اب مجھ کو بلایا جاتا ہے
 
 ۷
 راہوں میں کسی منزل پر دیتا جو ہمیں کوئی چادر
 لے جاتے ہیں پھر وہ چادر حاکم کے سپاہی آکر
-اک غم میں تیری زینب کو کیء بار رلایا جاتا ہے
+اک غم میں تیری زینب کو کئی بار رلایا جاتا ہے
 
 ۸
 برسات کبھی دروں کی ہوتی ہے کہیں سنگ باری
@@ -150,6 +112,6 @@ reciter: Farhan Ali
 سادات کو ان راہوں میں ہر گام ستایا جاتا ہے
 
 ۹
-یہ فرش عزا یہ ماتم زینب کا قرض ہے تم پر
+یہ فرش عزا یہ ماتم زینب کا قرض ہے ہم پر
 دنیا سے کہیں پھر کیوں نہ فرحان اور مظہر رو کر
 جو آل نبی پر گزری نوحوں میں سنایا جاتا ہے
