@@ -902,9 +902,9 @@ src/data/lyrics/amma-laut-aayi-hoo.md,standalone_lyrics,imported,nohayonline,spo
 src/data/lyrics/amma-mai-jaa-raha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/amma-mai-pyasa.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/amma-mai-thak.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/amma-meri-amma.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/amma-meri-amma.md,standalone_lyrics,imported,nohayonline,spot_checked,partial_review,reviewed,reviewed,verified_live_html,reviewed,2026-11-09-manual-AMMA-77,this_commit,"Verified NoHayOnline 832 English and Urdu: added missing fourth fully spelled Amma meri amma refrain to three-line opening, followed by seven triplets; added Mir Bober Ali reciter and corrected obvious Urdu OCR. Source abbreviated chorus omitted from stanzas, lexical reading still partially reviewed."
 src/data/lyrics/amma-mujhe-chupa-lo.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/amma-na-jao.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/amma-na-jao.md,standalone_lyrics,imported,nohayonline,spot_checked,partial_review,reviewed,reviewed,verified_live_html,reviewed,2026-11-09-manual-AMMA-77,this_commit,"Verified NoHayOnline 1545: expanded five-line opening to six with fully written repeated Amma na jao, seven quatrains preserved; reciter Safdar Abbas. Fixed original Urdu OCR gender and source Roman be-khabar versus erroneous imported بے قرار, lexical checks still partial."
 src/data/lyrics/amma-nisar-utho.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/amma-tere-bete-ko.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/amma-teri-kamayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

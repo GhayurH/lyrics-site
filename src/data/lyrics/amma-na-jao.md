@@ -1,20 +1,22 @@
 ---
-title: "گھر سے جو زہرا کے میت اٹھی"
+title: "گھر سے جو زہرا کی میت اٹھی"
 alternateTitle: "Amma Na Jao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Safdar Abbas"
 poet: "Altaf Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar se jo zehra ke mayyat uthi
-  Ghar mein ali ke qayamat hui
+  Ghar se jo Zehra ki mayyat uthi
+  Ghar mein Ali ki qayaamat hui
   Kehti thi zainab ye sar peet kar
   Amma na jao mujhe chod kar
-  Veeran hojayega ab ye ghar
+  Veeran ho jayega ab ye ghar
+  Amma na jao mujhe chhor kar
 
   1
   Uth uth ke karti thi shab ko fughan
@@ -61,11 +63,12 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1545
 # raw_sha256: 3ce78718aa9ed6f458255cb012a8a28265d1cf81a7feeca6bf77a5e85b34fce4
 ---
-گھر سے جو زہرا کے میت اٹھی
-گھر میں علی کے قیامت ہوی
+گھر سے جو زہرا کی میت اٹھی
+گھر میں علی کی قیامت ہوئی
 کہتی تھی زینب یہ سر پیٹ کر
 اماں نہ جاؤ مجھے چھوڑ کر
-ویران ہوجاے گا اب یہ گھر
+ویران ہو جائے گا اب یہ گھر
+اماں نہ جاؤ مجھے چھوڑ کر
 
 ۱
 اٹھ اٹھ کے کرتی تھی شب کو فغاں
@@ -77,7 +80,7 @@ romanLyrics: |-
 دے کر صداییں بلاؤ ہمیں
 سینے سے اپنے لگاؤ ہمیں
 فرقت کے دن نہ دکھاؤ ہمیں
-کیوں آج ہم سے ہوی بے قرار
+کیوں آج ہم سے ہوئی بے خبر
 
 ۳
 بچوں پہ کوہ الم گر پڑا
@@ -88,7 +91,7 @@ romanLyrics: |-
 ۴
 بابا کا اپنے جدائی کا غم
 دربار جانے کا دل پر ستم
-امت سے پاے ہیں اس درجہ غم
+امت سے پائے ہیں اس درجہ غم
 سب سے چھپا کے وہ زخم جگر
 
 ۵
