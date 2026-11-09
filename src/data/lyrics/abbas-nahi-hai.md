@@ -10,73 +10,74 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Wavaila hai wavaila
-  Abbas nahi hai wavaila
-  Gham hadh se siwa hai zainab ka
+  Wawaila hai wawaila
+  Abbas nahiṅ hai wawaila
+  Gham had se siwa hai Zainab ka
 
   1
   Shabbir jhukaye sar ko chale
-  Parcham ko liye mashkeeza liye
+  Parcham ko liye mashkiza liye
   Ek bhai hua bhai se juda
 
   2
   Kya hashr bapa hai maqtal mein
   Kubra hai bani bewa pal mein
-  Farwa ka pisar pamaal hua
+  Farwa ka pisar pamal hua
 
   3
   Laila ki tamanna khaak hui
-  Har aarzoo dil ki chaak hui
-  Akbar ka jigar maqtal mein chida
+  Har aarzu dil ki chaak hui
+  Akbar ka jigar maqtal mein chhida
 
   4
-  Jhoole se gira nusrat ko chala
-  Wo teere sitam pyase ka gala
-  Mitti mein mila naazon ka pala
+  Jhule se gira nusrat ko chala
+  Wo teer-e-sitam pyase ka gala
+  Mitti mein mila nazoṅ ka pala
 
   5
-  Bhai ke galay par taygh chali
-  Faryad kuna hai binte ali
+  Bhai ke gale par tegh chali
+  Faryad kunaṅ hai Bint-e-Ali
   Ye keh ke kaleja thaam liya
 
   6
-  Kya shaam e ghariban aayi hai
-  Yun gham ki udaasi chaayi hai
-  Qaime bhi jale kurta bhi jala
+  Kya Shaam-e-Ghariban aayi hai
+  Yuṅ gham ki udasi chhai hai
+  Khaime bhi jale kurta bhi jala
 
   7
-  Jab chaaha sitam bachi pe kiya
-  Jab chaaha tamache maar diya
-  Karti hai sakina aah o buka
+  Jab chaha sitam bachchi pe kiya
+  Jab chaha tamache maar diya
+  Karti hai Sakina aah o buka
 
   8
-  Jab shimr e layeen ne tadpaya
-  Tab bali sakina ne ye kaha
-  Ab aake bachalo ay baba
+  Jab Shimr-e-laeen ne tarpaya
+  Tab bali Sakina ne ye kaha
+  Ab aa ke bacha lo ae Baba
 
   9
-  Pyason pe rahi wo jor o jafa
-  Darya pe layeen ka pehra raha
-  Har zulm nirala sheh pe hua
+  Pyasoṅ pe rahi wo jaur o jafa
+  Darya pe laeen ka pehra tha
+  Har zulm nirala Sheh pe hua
 
   10
-  Wo ban mein luti aulaade ali
-  Bin tere hui hai aal e nabi
-  Ab aaye yahan par tum baba
+  Wo ban mein luti Aulad-e-Ali
+  Bin tere hui hai Aal-e-Nabi
+  Ab aaye yahan par tum Baba
 
   11
-  Baba ne kaha tha ay zainab
-  Tootenge sitam tujhpe zainab
-  Chin jayegi tere sar se rida
+  Baba ne kaha tha ae Zainab
+  Tuteṅge sitam tujh pe Zainab
+  Chhin jaayegi tere sar se rida
 
   12
-  Thi binte ali us dam behaal
-  Kehti hi rahi saabir iqbal
-  Har zulm rawan zainab pe hua
+  Thi Bint-e-Ali us dam behal
+  Kehti hi rahi Sabir Iqbal
+  Har zulm rawaṅ Zainab pe hua
 # source_id: nohayonline:923f7c3c7db6286c0a65
 # source_url: https://www.nohayonline.com/details_content.php?id=830
 # raw_sha256: a10b2c024c9d32c2da41d683cf80fb5847f923f2f79caf78993551bffb54d800
 ---
+
 واویلا ہے واویلا
 عباس نہیں ہے واویلا
 غم حد سے سوا ہے زینب کا
@@ -92,8 +93,8 @@ romanLyrics: |-
 فروا کا پسر پامال ہوا
 
 ۳
-لیلیٰ کی تمنا خاک ہوی
-ہر آرزو دل کی چاک ہوی
+لیلیٰ کی تمنا خاک ہوئی
+ہر آرزو دل کی چاک ہوئی
 اکبر کا جگر مقتل میں چھدا
 
 ۴
@@ -107,7 +108,7 @@ romanLyrics: |-
 یہ کہہ کے کلیجہ تھام لیا
 
 ۶
-کیا شام غریباں آی ہے
+کیا شام غریباں آئی ہے
 یوں غم کی اداسی چھائی ہے
 خیمے بھی جلے کرتا بھی جلا
 
@@ -128,15 +129,15 @@ romanLyrics: |-
 
 ۱۰
 وہ بن میں لٹی اولاد علی
-بن تیرے ہوی ہے آل نبی
-اب آے یہاں پر تم بابا
+بن تیرے ہوئی ہے آل نبی
+اب آئے یہاں پر تم بابا
 
 ۱۱
 بابا نے کہا تھا اے زینب
-ٹوٹیں گے ستم تجھ پے زینب
+ٹوٹیں گے ستم تجھ پہ زینب
 چھن جائے گی تیرے سر سے ردا
 
 ۱۲
 تھی بنت علی اس دم بے حال
-کہتی ہے رہی صابر اقبال
+کہتی ہی رہی صابر اقبال
 ہر ظلم رواں زینب پہ ہوا
