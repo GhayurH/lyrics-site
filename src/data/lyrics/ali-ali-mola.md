@@ -1,19 +1,20 @@
 ---
-title: "Ali Ali Mola Syed Wajhi Sabeeh Askari Hasan Zaidi"
+title: "Ali Ali Mola"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
+poet: "Mir Hilal Rizvi"
+reciter: "Syed Wajhi Hasan Zaidi, Syed Sabeeh Hasan Zaidi, Syed Askari Hasan Zaidi"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["ali-ali-mola-syed-wajhi-sabeeh-askari-hasan-zaidi"]
 published: false
 # source_id: tajpoints:11274161c101f82dcfa4
 # source_url: https://tajpoints.com/2023/02/ali-ali-mola-syed-wajhi-sabeeh-askari.html
 # raw_sha256: 1c1bdd6c1bb8bf1410b8e864c2be3a5a374f5aacf9dd215cdb65b6b5dd17fa8a
+# composition: Zaidi Brothers
 ---
 
-1
-Ali Ali Mola Syed Wajhi Sabeeh Askari Hasan Zaidi
 Tu Sarapa Kahin Mojood Kahin Poshida
 Arsh Se Farsh Talak Bikhra Hai Tera Jalwa
 Ba Khabar Koi Nahi Teri Haqeeqat Se Ali
@@ -38,7 +39,7 @@ Tareekh-e-Zamana Nigraan Hai Ab Tak
 Jis Dar Se Gayin Bint-e-Asad Kabay Mein
 Dewar Mein Oss Dar Ka Nishaan Hai Ab Tak
 Shams Qamar Ik Sath Karein Gay Khushiyon Ka Izhar Juda
-Terah 13 Rajab Ko Aamad Par Youn Hoga Istaqbal Tera
+Terah Rajab Ko Aamad Par Youn Hoga Istaqbal Tera
 Bait-e-Khuda Mein Ban Jaye Ga Aaj Niya Ik Dar
 Sabhi Sajday Abs Oss Ke Rahein Gay
 Khuda Se Door Sari Zindagi Hai
@@ -71,9 +72,9 @@ Ali Se Ishq Rab Ki Bandagi Hai
 Wilayat Ka Jo Munkir Hai Jahan Mein
 Ossi Ke Wastay Lanat Bani Hai
 Qafila Shohrat-e-Dunya Ka Khud Oss Ko Dhondta Rehta Hai
-:MIR HILAL: Oss Shaks Ke Qad Se Arsh-e-Barin Kam Lagta Hai
+Mir Hilal Oss Shaks Ke Qad Se Arsh-e-Barin Kam Lagta Hai
 Shah-e-Najaf Ke Baab-e-Karam Par Jo Bhi Jhokata Hai Sar
-Zikark Zikar ALLAH Al-Akbar
+Zikark Zikar Allah Al-Akbar
 Last Adrai Maa Haider
 Asmk Isamallah Al-Azam
 Wajehk Wajahullah Al-Ikram
