@@ -4,7 +4,8 @@ alternateTitle: "Aaj Maqtal Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
+reciter: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false

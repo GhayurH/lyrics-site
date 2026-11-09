@@ -1,52 +1,53 @@
 ---
 title: "آج ہے خراساں میں اک غریب کا ماتم"
-alternateTitle: "Aaj Hai Khurasan"
+alternateTitle: "Aaj Hai Khurasaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aaj Hai Khurasan"]
 published: false
 romanLyrics: |-
-  Aaj hai khurasan mein ek gharib ka matam
+  Aaj hai Khurasaṅ meiṅ ek gharib ka matam
   
   1
-  Tus ki hawaon mein hai ye kaisi bechaini
-  Har taraf fazaon mein hai ye bekali kaisi
-  Gunjti hai har ghar mein ab sadaen matam ki
-  Us imam ke gham mein sab ki aankh hai pur nam
+  Tus ki hawaaoṅ meiṅ hai ye kaisi bechaini
+  Har taraf fazaaoṅ meiṅ hai ye bekali kaisi
+  Gunjti hai har ghar meiṅ ab sadaaeṅ matam ki
+  Us Imam ke gham meiṅ sab ki aankh hai pur nam
   
   2
   Ek gharib o bekas ko kisne zehr de daala
-  Is imam e hashtum par ho gaya sitam kaisa
-  Karwatein badalte hain khaak par shah-e-wala
-  Dil ko thaam kar Maula khun ugalte hain paiham
+  Is Imam-e-Hashtum par ho gaya sitam kaisa
+  Karwateṅ badalte haiṅ khaak par Shah-e-Waala
+  Dil ko thaam kar Maula khuṅ ugalte haiṅ paiham
   
   3
-  Aaj dilbare kazim hum se hogaya ruqsat
-  Kya bayan kare koi us gharib ki haalat
+  Aaj dilbar-e-Kazim hum se ho gaya rukhsat
+  Kya bayaaṅ kare koi us gharib ki haalat
   Kaisi hai ye tanhaai haye kaisi hai ghurbat
-  Ab watan se doori hai bekasi ka hai aalam
+  Ab watan se duri hai bekasi ka hai aalam
   
   4
-  Hota hai do aalam mein gham imam e zaamin ka
-  Kar rahe hai sab matam sab ke lab pa hai nauha
-  Lo janaza uth'ta hai aaj uska wavaila
-  Tha na jiska ghurbat mein koi munis o humdam
+  Hota hai do aalam meiṅ gham Imam-e-Zaamin ka
+  Kar rahe haiṅ sab matam sab ke lab pe hai nauha
+  Lo janaza uthta hai aaj us ka waawaila
+  Tha na jis ka ghurbat meiṅ koi munis o humdam
   
   5
-  Ek bahan pa toota hai bhai ka ye gham kaisa
-  Khaak uda ke roti hai aaj qum ki masooma
-  Keh rahi hai ro ro kar mar gaya mera bhaiya
-  Kya karun main ab ji kar kaun hai mera humdam
+  Ek behan pe tuta hai bhai ka ye gham kaisa
+  Khaak ura ke roti hai aaj Qum ki Masuma
+  Keh rahi haiṅ ro ro kar mar gaya mera bhaiya
+  Kya karuṅ main ab ji kar kaun hai mera humdam
   
   6
-  Aagaya taqi par hai daur ab yateemi ka
-  Kamsini ke aalam mein haye dard hai kaisa
+  Aa gaya Taqi par hai daur ab yatimi ka
+  Kamsini ke aalam meiṅ haye dard hai kaisa
   Sar se uth gaya unke aaj baap ka saaya
-  Us Imam ko pursa dete hain Rasheed ab hum
+  Us Imam ko pursa dete haiṅ Rashid ab hum
 # source_id: nohayonline:e7e14cee2a7432630e76
 # source_url: https://www.nohayonline.com/details_content.php?id=677
 # raw_sha256: 42e2785f4fbb7ac5eae025a96458569533393e35ed6b1523ba2c24cfc58b71da
@@ -57,7 +58,7 @@ romanLyrics: |-
 ۱
 طوس کی ہواؤں میں ہے یہ کیسی بے چینی
 ہر طرف فضاؤں میں ہے یہ بے کلی کیسی
-گونجتی ہے ہر گھر میں اب صداءیں ماتم کی
+گونجتی ہے ہر گھر میں اب صدائیں ماتم کی
 اس امام کے غم میں سب کی آنکھ ہے پرنم
 
 ۲

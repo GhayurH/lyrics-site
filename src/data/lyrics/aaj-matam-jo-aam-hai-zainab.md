@@ -5,17 +5,18 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
+poet: "Hasnain Akbar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   1
-  Tere khutbon ka kaam hai Zainab
-  Surah-e-Noor jis ko kehte hain
+  Tere khutboṅ ka kaam hai Zainab
+  Surah-e-Nur jis ko kehte haiṅ
   Teri chadar ka naam hai Zainab
-  Teri chokhat pe sar jhukane se
+  Teri chaukhat pe sar jhukane se
   Hurr alaihissalam hai Zainab
-  Tere baba ka jis mein naam na ho
+  Tere baba ka jis meiṅ naam na ho
   Wo ibadat haram hai Zainab
   Tujh se aage chale tu kaise chale
   Waqt tera ghulam hai Zainab

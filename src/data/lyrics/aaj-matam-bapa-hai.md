@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj matam bapa hai maula ka
-  Zikr ghar ghar hua hai maula ka
+  Aaj matam bapa hai Maula ka
+  Zikr ghar ghar hua hai Maula ka
 
   1
   Waar aise kiya hai zaalim ne
-  Zarb se sar phata hai maula ka
+  Zarb se sar phata hai Maula ka
 
   2
   Ho gayi surkh masjid-e-Kufa
-  Khoon aise baha hai maula ka
+  Khun aise baha hai Maula ka
 
   3
-  Ro ke hasnain karte hain naale
-  Unko sadma bada hai maula ka
+  Ro ke Hasnain karte haiṅ naale
+  Un ko sadma bara hai Maula ka
 
   4
-  Ibn-e-Muljim ne maah-e-Ramzan mein
-  Khoon nahaq kiya hai maula ka
+  Ibn-e-Muljim ne maah-e-Ramazaṅ meiṅ
+  Khun naahaq kiya hai Maula ka
 
   5
   Aaj mushkil kusha ki rehlat hai
-  Matami ghamzada hai maula ka
+  Matami ghamzada hai Maula ka
 
   6
-  Pitti sar hai Zainab o Kulsoom
-  Jab janaza chala hai maula ka
+  Pitti sar hai Zainab o Kulsum
+  Jab janaza chala hai Maula ka
 
   7
   Qabr tharra rahi thi Zehra ki
-  Dafn jis dam hua hai maula ka
+  Dafn jis dam hua hai Maula ka
 
   8
-  Dukhzada hai Bober isi gham mein
-  Aaj taboot utha hai maula ka
+  Dukhzada hai Bober isi gham meiṅ
+  Aaj taabut utha hai Maula ka
 # source_id: nohayonline:c9ad87357d9e5175eb84
 # source_url: https://www.nohayonline.com/details_content.php?id=1940
 # raw_sha256: 7a7e0961e00bcf6fb0be66ee04eedf1e9a49e123a3d92ef4cf2cf3ff7f1cf382
@@ -56,7 +57,7 @@ romanLyrics: |-
 ضرب سے سر پھٹا ہے مولا کا
 
 ۲
-ہوگیء سرخ مسجد کوفہ
+ہو گئی سرخ مسجد کوفہ
 خون ایسے بہا ہے مولا کا
 
 ۳
