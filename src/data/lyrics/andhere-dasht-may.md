@@ -5,33 +5,34 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ali Zia Rizvi"
 poet: "Anees Pehersari"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Andhere dasht mein dukhiya sakina kyun chali aayi
-  Tan e be-sar ye kehta tha sakina kyun chali aayi
+  Andhere dasht mein dukhiya sakina kiun chali aayeṅ
+  Tan e be-sar ye kehta tha sakina kiun chali aayeṅ
 
   1
   Pade hai khaak par tukde yahan talwaron naize ke
-  Na zakhm aaye koi gehra sakina kyun chali aayi
+  Na zakhm aaye koi gehra sakina kiun chali aayeṅ
 
   2
-  Bachaye ksi tarha tum ko sitamgar ki jafa'on se
-  Bahot majboor hai baba sakina kyun chali aayi
+  Bachaaye kis tarha tum ko sitamgar ki jafa'on se
+  Bahot majboor hai baba sakina kiun chali aayeṅ
 
   3
   Na do awaaz itne karb se sehra e khooni mein
-  Ajal ka hai yahan pehra sakina kyun chali aayi
+  Ajal ka hai yahan pehra sakina kiun chali aayeṅ
 
   4
-  Dil e baba kya guzri tumhe is haal mein paa kar
-  Ye pehne khoon bhara kurta sakina kyun chali aayi
+  Dil-e-Baba pe kya guzri tumhe is haal mein paa kar
+  Ye pehne khoon bhara kurta sakina kiun chali aayeṅ
 
   5
   Bhatak jaogi ran mein kaun pahuncha-ega qaimon tak
-  Nahi koi aneez aisa sakina kyun chali aayi
+  Nahiṅ koi Anees aisa sakina kiun chali aayeṅ
 # source_id: nohayonline:b6feabd4d7575828f6f9
 # source_url: https://www.nohayonline.com/details_content.php?id=148
 # raw_sha256: ae3a5ce0d49a19e8a42dcb88206c0cfce06df3fc1c87eabfef8a010996780091
@@ -44,7 +45,7 @@ romanLyrics: |-
 نہ زخم آئے کوئی گہرا سکینہ کیوں چلی آئیں
 
 ۲
-بچائے کس طرح تم کو ستمگر کی جفاوں سے
+بچائے کس طرح تم کو ستمگر کی جفاؤں سے
 بہت مجبور ہے بابا سکینہ کیوں چلی آئیں
 
 ۳
@@ -52,9 +53,9 @@ romanLyrics: |-
 اجل کا ہے یہاں پہرہ سکینہ کیوں چلی آئیں
 
 ۴
-دل بابا پہ کیا گذری تمھیں اس حال میں پا کر
+دلِ بابا پہ کیا گزری تمہیں اس حال میں پا کر
 یہ پہنے خون بھرا کرتا سکینہ کیوں چلی آئیں
 
 ۵
-بھٹک جاوگی رن میں کون پہنچائے گا خیموں تک
-نہیں کوئی نہیں ایسا سکینہ کیوں چلی آئیں
+بھٹک جاؤ گی رن میں کون پہنچائے گا خیموں تک
+نہیں کوئی انیس ایسا سکینہ کیوں چلی آئیں

@@ -1,17 +1,18 @@
 ---
-title: "انا قتیل الابرا"
+title: "انا قتیل العبرة"
 alternateTitle: "Ana Qateeul Abra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ameer Hasan Aamir"
 poet: "Bilal Kazmi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ana qateelul abra
-  Mai kushtae ibrat hoon
+  Ana qatil-ul-ibra
+  Main kushta-e-ibrat huṅ
 
   1
   Kis ne paraye des mein dekha aisa khooni manzar
@@ -20,12 +21,12 @@ romanLyrics: |-
 
   2
   Haq ke nabi ne jisko bithaya dosh pe naaqa ban ke
-  Eid ke din rizwan e jina khud laaya jis ke kapde
+  Eid ke din Rizwan-e-jina khud laaya jis ke kapde
   Usko kafan dene ke bajaye pairahan bhi cheena
 
   3
-  Meri behna dekh ke mujhko kyun na pachade khaaye
-  Haye mera bemaar pisar behosh na kyun hojaye
+  Meri behna dekh ke mujhko kiuṅ na pachade khaaye
+  Haye mera bemaar pisar behosh na kiuṅ hojaye
   Zakhm badan par mere lage hai mo-e tan se zyada
 
   4
@@ -49,7 +50,7 @@ romanLyrics: |-
   Haye sitamgaaron ne wahin par mera khoon bahaya
 
   8
-  Mai hoon shaheede raahe khuda aur paikare sabr o raza hoon
+  Main huṅ shaheed-e-raah-e-Khuda aur paikar-e-sabr o raza huṅ
   Karbobala hai shahid aisa kushta e tayghe jafa hoon
   Jis ke janaze ko maqtal mein teeron ne hai uthaya
 
@@ -66,28 +67,28 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3378
 # raw_sha256: 53e43026d3d23fc5f532e3e5033a1de051a4067c27ee07d390166099be1293c2
 ---
-انا قتیل الابرا
+انا قتیل العبرة
 میں کشتۂ عبرت ہوں
 
 ۱
-کس نے پراے دیس میں دیکھا ایسا خونی منظر
+کس نے پرائے دیس میں دیکھا ایسا خونی منظر
 شمر لعیں نے بے رحمی سے پھیرا حلق پہ خنجر
 جس کو ایک دکھیاری ماں نے چکی پیس کے پالا
 
 ۲
 حق کے نبی نے جس کو بٹھایا دوش پہ ناقہ بن کے
-عید کے دن رضوان جناں خلد لایا جس کے کپڑے
+عید کے دن رضوانِ جناں خود لایا جس کے کپڑے
 اس کو کفن دینے کے بجائے پیرہن بھی چھینا
 
 ۳
-میری بہنا دیکھ کے مجھکو کیوں نہ پچھاڑیں کھاے
-ہاے میرا بیمار پسر بے حوش نہ کیوں ہو جائے
-زخم بدن پر میرے لگے ہیں موے تن سے زیادہ
+میری بہنا دیکھ کے مجھکو کیوں نہ پچھاڑیں کھائے
+ہاے میرا بیمار پسر بے ہوش نہ کیوں ہو جائے
+زخم بدن پر میرے لگے ہیں موئے تن سے زیادہ
 
 ۴
 بنت نبی کی قلب کی راحت لختِ دل حیدر ہوں
-رنج و علم سے چور ہوا ہوں بیکس ہوں مضطر ہوں
-میری مظلومی پہ زمانہ خون کے آنسوں رویا
+رنج و الم سے چور ہوا ہوں بیکس ہوں مضطر ہوں
+میری مظلومی پہ زمانہ خون کے آنسو رویا
 
 ۵
 دیکھتے رہتے تھے حسرت سے جس کو بابا حیدر
@@ -102,7 +103,7 @@ romanLyrics: |-
 ۷
 اماں تم جس دشت میں شب بھر آہ و بکا کرتی تھی
 جس کو اپنے بالوں سے تم صاف کیا کرتی تھی
-ہاے ستمگاروں نے وہی پر میرا خوں بہایا
+ہائے ستمگاروں نے وہی پر میرا خوں بہایا
 
 ۸
 میں ہوں شہید راہ خدا اور پیکر صبر و رضا ہوں

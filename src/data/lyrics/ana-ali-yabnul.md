@@ -5,6 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Ali Shanawar, Ali Jee"
 poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
