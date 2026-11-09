@@ -5,56 +5,61 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Zafar Abbas"
+poet: "Zafar Abbas Zafar"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaah e shaheed e karbala
-  Le lo salaam zainab ka
-  Aayi hoo phir se nainawa
+  Shah-e-Shahid-e-Karbala
+  Le lo salam Zainab ka
+  Aayi huṅ phir se Nainawa
 
   1
-  Bhaiya bahattar ka chehlum karungi
-  Dil khol kar aaj matam karungi
-  Farshe aza lo bich gaya
+  Bhaiya bahattar ka chehlum karuṅgi
+  Dil khol kar aaj matam karuṅgi
+  Farsh-e-aza lo bichh gaya
 
   2
-  Bhaiya lahoo mera sajjad roya
-  Mai so saki na aur na sajjad soya
-  Har har qadam thi karbala
+  Bhaiya lahu mera Sajjad roya
+  Main so saki na aur na Sajjad soya
+  Har har qadam thi Karbala
 
   3
-  Bhaiya watan jaa ke mai kya karungi
-  Ujde madine mein kaise rahungi
-  Mar jayegi ye gham zada
+  Bhaiya watan ja ke main kya karuṅgi
+  Ujre Madine mein kaise rahuṅgi
+  Mar jayegi ye ghamzada
 
   4
-  Mai bhi yahin zaairon mein rahungi
-  Aur zaairon ki mai khidmat karungi
+  Main bhi yahiṅ zairoṅ mein rahuṅgi
+  Aur zairoṅ ki main khidmat karuṅgi
   Ye waqt phir kab aayega
 
   5
-  Khoon mein bhara kurta le jaa rahi hoo
-  Lekin tumhari qasam kha rahi hoo
-  Haarungi na mai hausla
+  Khun mein bhara kurta le ja rahi huṅ
+  Lekin tumhari qasam kha rahi huṅ
+  Haruṅgi na main hausla
 
   6
-  Saare shaheed ab tumhare hawale
-  Mai apne in ghamzadon ko sambhale
-  Le jaa rahi hoo khaafila
+  Saare shahid ab tumhare hawale
+  Main apne in ghamzadoṅ ko sambhale
+  Le ja rahi huṅ qafila
 
   7
-  Bhaiya sakina ko na laayi zainab
-  Zindan mein us ko chod aayi zainab
-  Roti rahi wo mehlakha
+  Bhaiya Sakina ko na laayi Zainab
+  Zindaṅ mein us ko chhor aayi Zainab
+  Roti rahi wo mahlaqa
 # source_id: nohayonline:3fe3a70277f7a53e7fd6
 # source_url: https://www.nohayonline.com/details_content.php?id=2042
 # raw_sha256: 0808c0990e526ae949ac98056e11109841f46d23138cc9e9a8f6b75ef9054aec
+# source_id: tajpoints:2633321dd04422ad47be
+# source_url: https://tajpoints.com/2018/10/shah-e-shaheed-e-karbala-le-lo-salam.html
+# raw_sha256: 51a457ef24efbe64a88c347e56c9da7fe81d60507e6e164a8c5082381f3c8a3a
 ---
+
 شاہ شہید کربلا
 لے لو سلام زینب کا
-آی ہوں پھر سے نینوا
+آئی ہوں پھر سے نینوا
 
 ۱
 بھیا بہتر کا چہلم کروں گی
@@ -63,21 +68,21 @@ romanLyrics: |-
 
 ۲
 بھیا لہو میرا سجاد رویا
-میں سو سکی اور نہ سجاد سویا
+میں سو سکی نہ اور نہ سجاد سویا
 ہر ہر قدم تھی کربلا
 
 ۳
 بھیا وطن جا کے میں کیا کروں گی
 اجڑے مدینے میں کیسے رہوں گی
-مر جاۓ گی یہ غم زدہ
+مر جائے گی یہ غم زدہ
 
 ۴
-میں بھی یہی زایروں میں رہوں گی
-اور زایروں کی میں خدمت کروں گی
-یہ وقت پھر کب آے گا
+میں بھی یہی زائروں میں رہوں گی
+اور زائروں کی میں خدمت کروں گی
+یہ وقت پھر کب آئے گا
 
 ۵
-خوں میں بھرا کرتہ لے جارہی ہوں
+خوں میں بھرا کرتہ لے جا رہی ہوں
 لیکن تمہاری قسم کھا رہی ہوں
 ہاروں گی نہ میں حوصلہ
 
@@ -87,6 +92,6 @@ romanLyrics: |-
 لے جا رہی ہوں قافلہ
 
 ۷
-بھیا سکینہ کو نہ لای زینب
-زنداں میں اس کو چھوڑ آی زینب
+بھیا سکینہ کو نہ لائی زینب
+زنداں میں اس کو چھوڑ آئی زینب
 روتی رہی وہ مہہ لقا
