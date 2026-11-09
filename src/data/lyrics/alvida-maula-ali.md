@@ -1,11 +1,12 @@
 ---
-title: "الوداع مولا علٸ الوداع مولا علی"
+title: "الوداع مولا علی الوداع مولا علی"
 alternateTitle: "Alvida Maula Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,17 +15,17 @@ romanLyrics: |-
   Ja raha hai aaj dunya se mohamed ka wasi
 
   1
-  Naale e jibreel se larze zameen o aasman
+  Naala-e-Jibreel se larze zameen o aasmaṅ
   Haye wo maara gaya jo hai imame ins o jaan
-  Sajde e haq mein hai zarbat farqe haider par lagi
+  Sajda-e-Haq mein hai zarbat farq-e-Haider par lagi
 
   2
   Baap ke qadmon se lipti ro rahi hai betiyan
   Kya kare kya keh ke de inko tasalli mujtaba
-  Mar na jaye baap ki mayyat pe ro ro kar abhi
+  Mar na jayeṅ baap ki mayyat pe ro ro kar abhi
 
   3
-  Dhoondti hai tum ko zainab ki nigahein har jagah
+  Dhoondti hain tum ko Zainab ki nigaahein har jagah
   Sayyeda aa kar dilaasa dijiye inko zara
   Farte gham se hai ajab haalat idhar kulsoom ki
 
@@ -35,7 +36,7 @@ romanLyrics: |-
 
   5
   Baap ki tarha yateemon ka jo rakhta tha khayal
-  Us ke gham mein ho rahe hai haye wo bacche nidhal
+  Us ke gham mein ho rahe hain haye wo bachche nidhaal
   Aaj kufe ke yateemon mein ajab hai bekali
 
   6
@@ -59,9 +60,9 @@ romanLyrics: |-
   Chal rahi hogi gulu e shaah par jis dam churi
 
   10
-  Baap se lipti hui kehti thi zianab baar baar
+  Baap se lipti hui kehti thi Zainab baar baar
   Baab e saa’at par karungi aap ka mai intezar
-  Shaam ki fatha ka manzar dekhna aa kar ali
+  Shaam ki fatah ka manzar dekhna aa kar Ali
 # source_id: nohayonline:caed95ac9dc00e833993
 # source_url: https://www.nohayonline.com/details_content.php?id=2901
 # raw_sha256: 0e4f5953ca9a5d9da254b81aa5c3418f80eafe22f8a0e944e2c6f5b493dfa6d4
@@ -70,9 +71,9 @@ romanLyrics: |-
 جا رہا ہے آج دنیا سے محمد کا وصی
 
 ۱
-نالےٴ جبرئیل سے لرزے زمین و آسماں
+نالۂ جبرئیل سے لرزے زمین و آسماں
 ہائے وہ مارا گیا جو ہے امامِ انس و جان
-سجدےٴ حق میں ہے ضربت فرقےٴ حیدر پر لگی
+سجدۂ حق میں ہے ضربت فرقِ حیدر پر لگی
 
 ۲
 باپ کے قدموں سے لپٹی رو رہی ہیں بیٹیاں
@@ -91,7 +92,7 @@ romanLyrics: |-
 
 ۵
 باپ کی طرح یتیموں کا جو رکھتا تھا خیال
-اس کے غم میں ہو رہے ہیں ہائے وہ بچّےنڈھال
+اس کے غم میں ہو رہے ہیں ہائے وہ بچے نڈھال
 آج کوفے کے یتیموں میں عجب ہے بیکلی
 
 ۶
@@ -100,7 +101,7 @@ romanLyrics: |-
 ایک ننھی سی یتیمہ یاد مجھ کو آ گئی
 
 ۷
-بعد تیرے ظلم یہ بھی ہم پے ڈہانگے لئیں
+بعد تیرے ظلم یہ بھی ہم پہ ڈھائیں گے لعیں
 تیر شبّر کے جنازے پر چلائیں گے لئیں
 کس طرح غازی کو روکوں گی بھلا میں اس گھڑی
 
@@ -110,11 +111,11 @@ romanLyrics: |-
 کس طرح گزرے گی بازاروں سے تیری لاڈلی
 
 ۹
-تین دن کی پیس اور وہ کند کنجر شمر کا
+تین دن کی پیاس اور وہ کند خنجر شمر کا
 کس طرح دیکھوں گی بابا تم ہی بتلاوٴ ذرا
-چل رہی ہو گی گلوِ شاہ پر جس دم چری
+چل رہی ہوگی گلوِ شاہ پر جس دم چھری
 
 ۱۰
-باب سے لپٹی ہوئی کہتی تھی زینب بار بار
+باپ سے لپٹی ہوئی کہتی تھی زینب بار بار
 بابے ساعت پر کروں گی آپ کا میں انتظار
 شام کی فتح کا منظر دیکھنا آ کر علی

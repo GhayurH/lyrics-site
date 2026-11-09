@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -19,7 +20,7 @@ romanLyrics: |-
   Ab mere saath hai aah aur hichkiyan
   
   2
-  Kyun piyun mai dawa ho chuki bas shifa
+  Kiuṅ piyuṅ main dawa ho chuki bas shifa
   Chod kar mujhko mera maseeha chala
   Aisa lagta hai mujhse huwe tum khafa
   Meri hum joliyan ab hai tanhaiyan
@@ -32,7 +33,7 @@ romanLyrics: |-
   
   4
   Kaun jaata hai bemaar ko chod kar
-  Haath rakhte hai bemaar ki nafz par
+  Haath rakhte hain bemaar ki nabz par
   Uski dil joyi karte hai shaam o sahar
   Rakhte hai thande pani ki bhi pattiyan
   
@@ -74,32 +75,32 @@ romanLyrics: |-
 
 ۲
 کیوں پیوں میں دوا ہو چکی بس شفا
-چھوڑ کر مجھکو میرا مسیحا چلا
-ایسا لگتا ہے مجھ سے ہوے تم خفا
-میری ہم جھولیاں اب ہے تنہائیاں
+چھوڑ کر مجھ کو میرا مسیحا چلا
+ایسا لگتا ہے مجھ سے ہوئے تم خفا
+میری ہم جھولیاں اب ہیں تنہائیاں
 
 ۳
 کیسے بہلاؤں دل کچھ تو بولو پدر
 قبر سے کم نہیں ہاے اب میرا گھر
 موت ہے میری آپ کا یہ سفر
-بولتی ہے نظر چھپ ہے میری زباں
+بولتی ہے نظر چپ ہے میری زباں
 
 ۴
 کون جاتا ہے بیمار کو چھوڑ کر
-ہاتھ رکھتے ہیں بیمار کی نفس پر
+ہاتھ رکھتے ہیں بیمار کی نبض پر
 اس کی دل جوئی کرتے ہیں شام و سحر
 رکھتے ہیں ٹھنڈے پانی کی بھی پٹیاں
 
 ۵
 لو میرے گھر سے رخصت اجالا ہوا
-جاتا ہے بھای نازوں کا پالا ہوا
+جاتا ہے بھائی نازوں کا پالا ہوا
 رنج اس بات سے ہے دو بالا ہوا
 تم رہو گے یہاں میں رہوں گی وہاں
 
 ۶
 ہاے بابا میرے دن یہ گرمی کے ہیں
 ساتھ بچوں کا ہے یہ سفر نہ کرے
-یہ تو پھر ساتھ مجھکو بھی لے چلے
+یا تو پھر ساتھ مجھ کو بھی لے چلے
 کہہ رہا ہے یہی اب تو اشک رواں
 
 ۷

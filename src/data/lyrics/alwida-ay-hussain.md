@@ -1,20 +1,21 @@
 ---
 title: "الوداع اے حسین"
-alternateTitle: "Alwida Ay Hussain"
+alternateTitle: "Alwida Ae Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Alwida ay hussain
-  Ay dashte nainawa ay shaah e karbala
-  Ay kushta e jafa ay deen ki baqa
+  Alwida ae Husain
+  Ae Dasht-e-Nainawa ae Shah-e-Karbala
+  Ae kushta-e-jafa ae deen ki baqa
   Alwida alwida alwida alwida
-  Alwida ay khooni kafan
+  Alwida ae khooni kafan
 
   1
   Laashe aqi pe kehte huwe ye behan chali
@@ -101,7 +102,7 @@ romanLyrics: |-
 اٹھو کے تابع ضبط کی قوت نہیں رہی
 تم سے بچھڑ کے جینے کی حسرت نہیں رہی
 سلطان مشرقین قرآں کی زیب و زین
-رخصت کی آ گیء ہے گھڑی آیت خدا
+رخصت کی آ گئی ہے گھڑی آیت خدا
 
 ۳
 اے بھای قید شام نبھانے چلی ہو میں
@@ -113,13 +114,13 @@ romanLyrics: |-
 کرنا دعا کہ پیروں میں لرزش کبھی نہ آے
 قوت میں میری ذرہ برابر کمی نہ آے
 زہرا کے دلربا اے روح مرتضیٰ
-میں جا رہی ہوں اٹھکے دعا دو مجھے زرا
+میں جا رہی ہوں اٹھکے دعا دو مجھے ذرا
 
 ۵
 میں کیا کروں کہ بازو ہیں بھیا بندھے ہوئے
-بڑھتا ہی جا رہے ہیں مصایب کے سلسلے
-دشوار ہے دگر مشکل ہے راہ گزر
-ہر ایک قدم پہ ہوگا مصایب کا سامنا
+بڑھتا ہی جا رہے ہیں مصائب کے سلسلے
+دشوار ہے ڈگر مشکل ہے راہ گزر
+ہر ایک قدم پہ ہوگا مصائب کا سامنا
 
 ۶
 روتا ہے تیرا حال پہ چرخے کہن حسین
@@ -128,9 +129,9 @@ romanLyrics: |-
 یہ داغ لے کے دل پہ میں جاتی ہوں بہ خدا
 
 ۷
-کروٹ تو لو نگاہیں تو کھولو شہ زمن
-جنبش زرا سی لب کو تو بولو شہ زمن
-اے شامیء سفر یوں تم کو دیکھ کر
+کروٹ تو لو نگاہیں تو کھولو شاہِ زماں
+جنبش ذرا سی لب کو تو بولو شاہِ زماں
+اے حامیِ سفر یوں تم کو دیکھ کر
 کیسے کہے کی تم کو یہ غمخوار بے نوا
 
 ۸
