@@ -6,75 +6,77 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: |-
-  Subhe ashura hui maa ne ro ro ke suni
-  Ali akbar ki azaan
-
-  1
-  Aakhri fajr hai ye is moazan ke liye
-  Phir ye awaaz kahan
-
-  2
-  Dasht may pyase moazan ne jo takbeer kahi
-  Aagayi apne musalle pe ali ki beti
-  Yaad phir aayi usay apne baba ki azan
-  Ro padi aun ki maa
-
-  3
-  Abhi kuch dayr salamat hai haram ka parda
-  Shaam ke waqt jab aayegi azano ki sada
-  Jaan bachane ke liye sar chupane ke liye
-  Chadarein hongi kahan
-
-  4
-  Ro ke bete ne kaha baap se hasrat hai meri
-  Aap ki behan to sunlengi sada akbar ki
-  In hawaon se kahe rukh madine ka kare
-  Meri sughra hai wahan
-
-  5
-  Naam aaya jo mohamed ka to roye maula
-  Inna lillah padha aur ye ghazi se kaha
-  Is ko marenge sina ye musalman bhala
-  Rehm khayenge kahan
-
-  6
-  Aaya jab naam e ali uth ke ye maula ne kaha
-  Mai fida aap pe baba meri aulaad fida
-  Teer asghar ke lagay seena akbar ka chiday
-  Mujhpe khanjar ho rawan
-
-  7
-  Itna tadpega hussain ibne ali ay beta
-  Teri maa teri phuphi teri sakina sughra
-  Jee na payenge sabhi tujhko barchi jo lagi
-  Tujh may hum sab ki hai jaan
-
-  8
-  Masjid e kufa nazar aane lagi karbobala
-  Do azaano pe bohat royi hai binte zehra
-  Aaj tak bhooli nahi ek baba ki azaan
-  Ek akbar ki azaan
-
-  9
-  Kis khadar dard may doobi thi sada akbar ki
-  Gash se uth kar kaha sajjad ne batlaye phuphi
-  Sab kyun rote hai yahan shor hai kaisa bapa
-  Kaun deta hai azaan
-
-  10
-  Kaise manzar ho bhala mir takallum wo raqam
-  Baabe sa'at pe hui satra azaane jis dam
-  Sun ke ek ek azaan ro ke kehti thi wo maa
-  Mere akbar ho kahan
 # source_id: nohayonline:17924b5806b2b19ef801
 # source_url: https://www.nohayonline.com/details_content.php?id=1070
 # raw_sha256: 0233b82afeb30eb070a745e5daf976d4e7ea5f28fb004f7b2dd2ef15d7285106
+romanLyrics: |-
+  Subh-e-Ashura hui maaṅ ne ro ro ke suni
+  Ali Akbar ki azaṅ
+  
+  1
+  Aakhri fajr hai ye is muazzin ke liye
+  Phir ye aawaz kahaṅ
+  
+  2
+  Dasht mein pyase muazzin ne jo takbir kahi
+  Aa gayi apne musalle pe Ali ki beti
+  Yaad phir aayi use apne Baba ki azaṅ
+  Ro pari Aun ki maaṅ
+  
+  3
+  Abhi kuch der salamat hai haram ka parda
+  Sham ke waqt jab aaegi azanoṅ ki sada
+  Jaan bachane ke liye sar chhupane ke liye
+  Chadareṅ hoṅgi kahaṅ
+  
+  4
+  Ro ke bete ne kaha baap se hasrat hai meri
+  Aap ki bahan to sun leṅgi sada Akbar ki
+  In hawaon se kahe rukh Madine ka kare
+  Meri Sughra hai wahaṅ
+  
+  5
+  Naam aaya jo Muhammad ka to roe Maula
+  Inna Lillah parha aur ye Ghazi se kaha
+  Is ko mareṅge sinaṅ ye Musalman bhala
+  Rahm khaeṅge kahaṅ
+  
+  6
+  Aaya jab naam-e-Ali uth ke ye Maula ne kaha
+  Main fida aap pe Baba meri aulad fida
+  Tir Asghar ko lage sina Akbar ka chhide
+  Mujh pe khanjar ho rawaṅ
+  
+  7
+  Itna tarpega Husain Ibn-e-Ali Ae beta
+  Teri maaṅ teri phuphi teri Sakina Sughra
+  Ji na paeṅge sabhi tujh ko barchhi jo lagi
+  Tujh mein hum sab ki hai jaan
+  
+  8
+  Masjid-e-Kufa nazar aane lagi Karb o Bala
+  Do azanoṅ pe bahut royi hai Bint-e-Zehra
+  Aaj tak bhuli nahiṅ ek Baba ki azaṅ
+  Ek Akbar ki azaṅ
+  
+  9
+  Kis qadar dard mein dubi thi sada Akbar ki
+  Ghash se uth kar kaha Sajjad ne batlae phuphi
+  Sab kiuṅ rote haiṅ yahaṅ shor hai kaisa bapa
+  Kaun deta hai azaṅ
+  
+  10
+  Kaise manzar ho bhala Mir Takallum wo raqam
+  Bab-e-Saat pe hui satrah azaneṅ jis dam
+  Sun ke ek ek azaṅ ro ke kehti thi wo maaṅ
+  Mere Akbar ho kahaṅ
 ---
-صبحِ عاشور ہوی ماں نے رو رو کے سنی
+
+صبحِ عاشور ہوئی ماں نے رو رو کے سنی
 علی اکبر کی اذاں
 
 ۱
@@ -83,15 +85,15 @@ romanLyrics: |-
 
 ۲
 دشت میں پیاسے مؤذن نے جو تکبیر کہیں
-آگیء اپنے مصلے پہ علی کی بیٹی
-یاد پھر آی اسے اپنے بابا کی اذاں
+آ گئی اپنے مصلے پہ علی کی بیٹی
+یاد پھر آئی اسے اپنے بابا کی اذاں
 رو پڑی عون کی ماں
 
 ۳
 ابھی کچھ دیر سلامت ہے حرم کا پردہ
-شام کے وقت جب آے گی اذانوں کی صدا
+شام کے وقت جب آئے گی اذانوں کی صدا
 جاں بچانے کے لئے سر چھپانے کے لئے
-چادریں ہونگی کہاں
+چادریں ہوں گی کہاں
 
 ۴
 روکے بیٹے نے کہا باپ سے حسرت ہے میری
@@ -102,8 +104,8 @@ romanLyrics: |-
 ۵
 نام آیا جو محمد کا تو روے مولا
 انا للہ پڑھا اور یہ غازی سے کہا
-اس کو مریں گے سناں یہ مسلمان بھلا
-رحم کھاے نگے کہاں
+اس کو ماریں گے سناں یہ مسلمان بھلا
+رحم کھائیں گے کہاں
 
 ۶
 آیا جب نام علی اٹھ کے یہ مولا نے کہا
@@ -114,8 +116,8 @@ romanLyrics: |-
 ۷
 اتنا تڑپے گا حسین ابنِ علی اے بیٹا
 تیری ماں تیری پھپھی تیری سکینہ صغرا
-جی نہ پائے نگے سبھی تجھکو برچھی جو لگی
-تجھ میں ہم سب کی ہےجاں
+جی نہ پائیں گے سبھی تجھکو برچھی جو لگی
+تجھ میں ہم سب کی ہے جاں
 
 ۸
 مسجد کوفہ نظر آنے لگی کربوبلا
@@ -125,12 +127,12 @@ romanLyrics: |-
 
 ۹
 کس قدر درد میں ڈوبی تھی صدا اکبر کی
-غش سے اٹھ کر کہا سجاد نے بتلاے پھپھی
+غش سے اٹھ کر کہا سجاد نے بتلائے پھپھی
 سب کیوں روتے ہیں یہاں شور ہے کیسا بپا
 کون دیتا ہے اذاں
 
 ۱۰
 کیسے منظر ہو بھلا میر تکلم وہ رقم
-باب ساعت پہ ہوی سترہ اذانیں جس دم
-سن کے اک ایک اذان روکے کہتی تھی وہ ماں
+باب ساعت پہ ہوئیں سترہ اذانیں جس دم
+سن کے اک ایک اذان رو کے کہتی تھی وہ ماں
 میرے اکبر ہو کہاں
