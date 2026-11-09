@@ -12,21 +12,21 @@ romanLyrics: |-
   Ashoor ki shab hai hashr bapa
   Masoom sakina sojao
   Ro ro ke na mujhko tadpao
-  Ay baali sakina sojao
+  Ae bali Sakina so jao
 
   1
-  Moo ashkon se dhoti hai koi
-  Maidan may roti hai koi
-  Ye girya e zehra ki hai sada
+  Munh ashkoṅ se dhoti hai koi
+  Maidan mein roti hai koi
+  Ye girya-e-Zehra ki hai sada
 
   2
-  Aghosh may maadar ke layto
+  Aaghosh mein madar ke leto
   Aur baap ke seene ko bhoolo
-  Karte hai ibadat shaah e huda
+  Karte hain ibadat Shah-e-Huda
 
   3
-  Kal koi na hoga ay bibi
-  Ansaar hai baaher ab sab hi
+  Kal koi na hoga ae Bibi
+  Ansar hain bahar ab sab hi
   Dete hai talaaya aaj chacha
 
   4
@@ -36,11 +36,11 @@ romanLyrics: |-
 
   5
   Pani ka nahi khatra bibi
-  Kooze hai pade sab hi khaali
+  Kuze hain pare sab hi khali
   Nanha sa hai asghar bhi pyasa
 
   6
-  Bewa'on ki madad ab kaun kare
+  Bewaoṅ ki madad ab kaun kare
   Abbas nahi akbar bhi nahi
   Bemaar bhi hai be-aab o dawa
 # source_id: nohayonline:b888c6ff82bf7014ad83
@@ -50,7 +50,7 @@ romanLyrics: |-
 
 عاشور کی شب ہے حشر بپا
 معصوم سکینہ سو جاؤ
-رو رو کے نہ مجھکو تڑپاو
+رو رو کے نہ مجھ کو تڑپاؤ
 اے بالی سکینہ سو جاؤ
 
 ۱
@@ -60,7 +60,7 @@ romanLyrics: |-
 
 ۲
 آغوش میں مادر کے لیٹو
-اور باپ کے سینے سو بھولو
+اور باپ کے سینے کو بھولو
 کرتے ہیں عبادت شاہ ہدا
 
 ۳
@@ -71,7 +71,7 @@ romanLyrics: |-
 ۴
 سرور کی شہادت کل ہوگی
 سب اہلِ حرم ہونگے قیدی
-کل سے نہ ملے گا چین زرا
+کل سے نہ ملے گا چین ذرا
 
 ۵
 پانی کا نہیں خطرہ بی بی

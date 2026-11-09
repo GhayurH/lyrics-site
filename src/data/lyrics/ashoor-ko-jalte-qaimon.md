@@ -10,27 +10,27 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashoor ko jalte qaimon may
+  Ashoor ko jalte khaimoṅ mein
   Kya janiye kya kya choot gaya
   Ghabra ke nikal aayi bano
-  Baysheer ka jhoola choot gaya
+  Beshir ka jhoola choot gaya
 
   1
   Noor aankhon ka akbar le ke gaye
-  Nazron may andhera choot gaya
+  Nazroṅ mein andhera choot gaya
   Yun laash uthayi maula ne
-  Barchi may kaleja choot gaya
+  Barchhi mein kaleja choot gaya
 
   2
   Darya ke kanare mehmani
   Aur band hai kismat se pani
-  Ay bahti maujon dekh to lo
-  Baysheer bhi pyasa choot gaya
+  Ae behti maujoṅ dekh to lo
+  Beshir bhi pyasa choot gaya
 
   3
   Islam ki nazrein dekh to le
   Emaan zara pehchaan to le
-  Ye kaun hai bibi kufe may
+  Ye kaun hai bibi Kufe mein
   Ye kiska parda choot gaya
 
   4
@@ -42,14 +42,14 @@ romanLyrics: |-
   5
   Ye paara paara laasha hai
   Shabbir ka jalti reti par
-  Peshani e aalam jhukne ko
+  Peshani-e-Aalam jhukne ko
   Ya khaak pa kaaba choot gaya
 
   6
   Cheh maah ke bache ki himmat
   Anjaam se nazrein takrayi
-  Honton par hasi lehrane lagi
-  Baysheer ka rona choot gaya
+  Hontoṅ par hansi lehrane lagi
+  Beshir ka rona choot gaya
 
   7
   Kya le ke gaye kya le jaate
@@ -58,7 +58,7 @@ romanLyrics: |-
   Ek nanha sa kurta choot gaya
 
   8
-  Ye fazl hussaini shayar ka
+  Ye Fazl Husaini shayar ka
   Shabbir se bad kar koi nahi
   Maula ka bharosa jab se kiya
   Dunya ka sahara choot gaya
@@ -68,14 +68,14 @@ romanLyrics: |-
 ---
 
 عاشور کو جلتے خیموں میں
-کیا جانیےء کیا کیا چھوٹ گیا
-گھبرا کے نکل آئ بانو
+کیا جانیے کیا کیا چھوٹ گیا
+گھبرا کے نکل آئی بانو
 بے شیر کا جھولا چھوٹ گیا
 
 ۱
-نور آنکھوں کا اکبر لے کے گےء
+نور آنکھوں کا اکبر لے کے گئے
 نظروں میں اندھیرا چھوٹ گیا
-یوں ساتھ اٹھای مولا نے
+یوں لاش اٹھائی مولا نے
 برچی میں کلیجہ چھوٹ گیا
 
 ۲
@@ -86,7 +86,7 @@ romanLyrics: |-
 
 ۳
 اسلام کی نظریں دیکھ تو لے
-ایمان زرا پہچان تو لے
+ایمان ذرا پہچان تو لے
 یہ کون ہے بی بی کوفے میں
 یہ کس کا پردہ چھوٹ گیا
 
@@ -104,7 +104,7 @@ romanLyrics: |-
 
 ۶
 چھ ماہ کے بچے کی ہمت
-انجام سے نظریں ٹکرای
+انجام سے نظریں ٹکرائیں
 ہونٹوں پہ ہنسی لہرانے لگی
 بے شیر کا رونا چھوٹ گیا
 

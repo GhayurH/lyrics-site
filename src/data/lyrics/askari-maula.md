@@ -10,12 +10,12 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye gham wo gham hai ke dono jahan rote hai
-  Yateem aaj imam e zamaan hote hai
-  Haye hassan askari maula
-  Ay bine zehra askari maula
-  Shaahe saamara askari maula
-  Ay bine zehra askari maula
+  Ye gham wo gham hai ke dono jahaṅ rote hain
+  Yateem aaj Imam-e-Zaman hote hain
+  Haye Hasan Askari maula
+  Ae bin-e-Zehra askari maula
+  Shah-e-Samarra askari maula
+  Ae bin-e-Zehra askari maula
 
   1
   Haye qayamat ki ghadi aa gayi kaisi
@@ -30,9 +30,9 @@ romanLyrics: |-
   Haye ghurbata askari maula
 
   3
-  Saamara har saal chale aate hai zawwar
+  Samarra har saal chale aate hain zawwar
   Aap ka taboot uthaate hai azadaar
-  Farshe aza bichta raha bichta rahega
+  Farsh-e-Aza bichta raha bichta rahega
   Lijiye pursa askari maula
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
   5
   Qaidi o mazloom mere gyaarwe sarkar
   Dene ko pursa tumhe aaye hai azadaar
-  Pursa qubool ho ay mere syed o sardar
+  Pursa qubool ho ae mere Syed o sardar
   Hum log teri nazre karam ke hai talabgaar
   Gham ye tera dil mein sada zinda rahega
   Roti hai dunya askari maula
@@ -56,13 +56,13 @@ romanLyrics: |-
   Karti hai nauha askari maula
 
   7
-  Parda e ghaibat mein jo beta hai tumhara
+  Parda-e-Ghaibat mein jo beta hai tumhara
   Bhejein usay jald pareshan hai dunya
   Sunlo zara behre khuda waaris e kaaba
   Hai ye ilteja askari maula
 
   8
-  Mesum o azlan pe bas itna karam ho
+  Mesum o Arsalan pe bas itna karam ho
   Naam tere chaahne waalon mein raqam ho
   Kardo ata hum ko sila nauhe ka maula
   Khwaab ho poora askari maula
@@ -86,12 +86,12 @@ romanLyrics: |-
 
 ۲
 کیسا اسیری کا ستم تم پہ ہوا ہے
-تیرے لیےء گھر تیرا زندان بنا ہے
+تیرے لیے گھر تیرا زندان بنا ہے
 مولا تیرا گھر میں ہوا دفن جنازہ
 ہاے غربتا عسکری مولا
 
 ۳
-سامرہ ہر سال چھالے آتے ہیں زوار
+سامرہ ہر سال چلے آتے ہیں زوار
 آپ کا تابوت اٹھاتے ہیں عزادار
 فرش عزا بچھتا رہا بچھتا رہے گا
 لیجئے پرسہ عسکری مولا
@@ -104,7 +104,7 @@ romanLyrics: |-
 
 ۵
 قیدی و مظلوم میرے گیارویں سرکار
-دینے کو پرسہ تمہیں آے ہے عزادار
+دینے کو پرسہ تمہیں آئے ہیں عزادار
 پرسہ قبول ہو میرے سید و سردار
 ہم لوگ تیری نظر کرم کے ہیں طلبگار
 غم یہ تیرا دل میں صدا زندہ رہے گا
@@ -113,7 +113,7 @@ romanLyrics: |-
 ۶
 جب بھی تیرے نام کی ہوتی ہے یہ مجلس
 ساتھ میں زہرا کے چلی آتی ہے نرجس
-دیکھ زرا محو بکا ہے تیری زوجہ
+دیکھ ذرا محو بکا ہے تیری زوجہ
 کرتی ہے نوحہ عسکری مولا
 
 ۷
@@ -125,5 +125,5 @@ romanLyrics: |-
 ۸
 میثم و اذلان پہ بس اتنا کرم ہو
 نام تیرے چاہنے والوں میں رقم ہو
-کردو عطا ہم کو صلہ نوحے کا مولا
+کر دو عطا ہم کو صلہ نوحے کا مولا
 خواب ہو پورا عسکری مولا

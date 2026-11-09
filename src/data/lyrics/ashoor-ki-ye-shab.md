@@ -12,26 +12,26 @@ published: false
 romanLyrics: |-
   Ashoor ki ye shab hai shahadat ki raat hai
   Matam bapa karo ke qayamat ki raat hai
-  Zehra ke khaandan pa ghurbat ki raat hai
-  Khamosh qaimagah hai wehshat ki raat hai
+  Zehra ke khandan pe ghurbat ki raat hai
+  Khamosh khaimagah hai wehshat ki raat hai
 
   1
-  As’haab ko hai dhyaan bas apne imam ka
+  Ashab ko hai dhyaan bas apne imam ka
   Pyason ko intezar shahadat ke jaam ka
-  Abbas kar rahe hai talaya qayaam ka
+  Abbas kar rahe hain talaya qayaam ka
   In sab ke waaste ye ibadat ki raat hai
 
   2
-  Ahle haram hai dekh pareshaan karbala
+  Ahl-e-Haram hain dekh pareshaan karbala
   Dil aaj hi se sab ke hai veeran karbala
   Kal tak rahenge ye tere mehman karbala
-  Ye raat unpa sakht musibat ki raat hai
+  Ye raat un pe sakht musibat ki raat hai
 
   3
-  Qasim hassan ka laal jo maidan ko jayega
-  Dashte bala mein khoon ka darya bahayega
+  Qasim Hasan ka laal jo maidan ko jayega
+  Dasht-e-Bala mein khoon ka darya bahayega
   Maqtal ki sar zameen ko mehshar banayega
-  Naushaah e karbala pa shahadat ki raat hai
+  Naushah-e-Karbala pe shahadat ki raat hai
 
   4
   Kal subha deke aakhri mojiz numa azaan
@@ -43,19 +43,19 @@ romanLyrics: |-
   Chaadar hai aaj sar pa hai zainab ko itmenan
   Kal hoga sab saron pa magar charkh sayeban
   Kal hoga fatema ka rasan basta khaandan
-  Ye aakhri rida'on ki hurmat ki raat hai
+  Ye aakhri ridaoṅ ki hurmat ki raat hai
 
   6
   Shaane kata ke nehr pa abbas soyenge
   Tooti kamar ko thaam ke shabbir royenge
   Bacche bhi pyaas bujhne ki ummeed khoyenge
-  Ghazi pa aaj zapte shuja’at ki raat hai
+  Ghazi pa aaj zapte shujaat ki raat hai
 
   7
   Hamla ali ke sher pa hoga furaat par
   Mar jayega sakina ka saqqa furaat par
   Kal hoga ambiya ka bhi girya furaat par
-  Qaimon ki aakhri ye hifazat ki raat hai
+  Khaimoṅ ki aakhri ye hifazat ki raat hai
 
   8
   Teere sitam se kal jo kiya jayega shaheed
@@ -64,21 +64,21 @@ romanLyrics: |-
   Bano pa inteha e aziyat ki raat hai
 
   9
-  Hangaam e asr qatl kiye jayenge hussain
+  Hangam-e-Asr qatl kiye jayenge Husain
   Kal be-kafan rahenge yahan shaahe mashraqain
   Maqtal mein goonj uthenge kal fatema ke bain
   Ye raat mere laal pa ghurbat ki raat hai
 
   10
-  Laazim hai kayenat pa ye gham hussain ka
-  Kaise karenge haq ye ada hum hussain ka
-  Bachpan se karte aaye hai matam hussain ka
+  Laazim hai kainat pa ye gham Husain ka
+  Kaise karenge haq ye ada hum Husain ka
+  Bachpan se karte aaye hai matam Husain ka
   Apne liye ye raat sa’adat ki raat hai
 
   11
   Maango jameel khaaliq e akbar se ye dua
-  Ay rabb e paak tujhko hai is shab ka waasta
-  Hum sab hussain waalon ko pahunchade karbala
+  Ae Rabb-e-Pak tujhko hai is shab ka waasta
+  Hum sab Husain waalon ko pahunchade karbala
   Aansu bahaye jao ye riqqat ki raat hai
 # source_id: nohayonline:d040b2930fd743cbf582
 # source_url: https://www.nohayonline.com/details_content.php?id=3545
@@ -100,7 +100,7 @@ romanLyrics: |-
 اہل حرم ہے دیکھ پریشان کربلا
 دل آج ہی سے سب کے ہیں ویران کربلا
 کل تک رہیں گے یہ تیرے مہمان کربلا
-یہ رات ان پہ سخت مصیبت کے رات ہے
+یہ رات ان پہ سخت مصیبت کی رات ہے
 
 ۳
 قاسم حسن کا لال جو میدان کو جاے گا
@@ -135,7 +135,7 @@ romanLyrics: |-
 ۸
 تیر ستم سے کل جو کیا جائے گا شہید
 ششماہ ہے وہ جس پہ مصیبت ہے یہ شہید
-یہ ظلم کر کے روے گا خود لشکر یزید
+یہ ظلم کر کے روئے گا خود لشکر یزید
 بانو پہ انتہاے اذیت کی رات ہے
 
 ۹

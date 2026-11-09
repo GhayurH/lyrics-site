@@ -10,64 +10,64 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ata e kibriya hai aur mai hoo
-  Dua e fatema hai aur mai hoo
+  Ata-e-Kibriya hai aur main huṅ
+  Dua-e-Fatima hai aur main huṅ
 
   1
-  Paa e jibreel e midhat bait e dil ka
-  Dar e aamad khula hai aur mai hoo
+  Pa-e-Jibril-e-midhat bait e dil ka
+  Dar-e-aamad khula hai aur main huṅ
 
   2
-  Saf e alfaaz hai kaaghaz qalam hai
-  Ajab ye takhliya hai aur mai hoo
+  Saf-e-alfaz hai kaaghaz qalam hai
+  Ajab ye takhliya hai aur main huṅ
 
   3
-  Nahi ehsaas e tahaai zara bhi
-  Koi dil mein basa hai aur mai hoo
+  Nahi ehsas-e-tanhai zara bhi
+  Koi dil mein basa hai aur main huṅ
 
   4
   Na sajde se mujhe koi uthaye
-  Yahan mera khuda hai aur mai hoo
+  Yahan mera khuda hai aur main huṅ
 
   5
   Nahi ehsaas apne gham ka mujhko
-  Khayal e fatema hai aur mai hoo
+  Khayal-e-Fatima hai aur main huṅ
 
   6
-  Tamanna e nabi ki roshni mein
-  Sana e murtaza hai aur mai hoo
+  Tamanna-e-Nabi ki roshni mein
+  Sana-e-Murtaza hai aur main huṅ
 
   7
   Nazar chaukhat se uth'ti hi nahi hai
-  Dar e mushkil kusha hai aur mai hoo
+  Dar-e-Mushkil Kusha hai aur main huṅ
 
   8
-  Yahin aana hai to phir kyun mai jaaun
-  Yahan khaak e shifa hai aur mai hoo
+  Yahin aana hai to phir kiun main jaoṅ
+  Yahan khak-e-shifa hai aur main huṅ
 
   9
-  Sar e dosh e aqeedat har qadam par
-  Alam abbas ka hai aur mai hoo
+  Sar-e-dosh-e-aqidat har qadam par
+  Alam Abbas ka hai aur main huṅ
 
   10
-  Faraat e jaan hai aur is ke kinare
-  Wafaon ki fiza hai aur mai hoo
+  Furat-e-jaan hai aur is ke kinare
+  Wafaon ki fiza hai aur main huṅ
 
   11
   Ye keh kar jhuk gaye sadje mein sarwar
-  Mere rab ki raza hai aur mai hoo
+  Mere rab ki raza hai aur main huṅ
 
   12
-  Khuda se kehta tha ye qalb e abid
-  Tera bas aasra hai aur mai hoo
+  Khuda se kehta tha ye qalb-e-Abid
+  Tera bas aasra hai aur main huṅ
 
   13
-  Nabi kehte thay hyder tumhara
-  Shanasa ek khuda hai aur mai hoo
+  Nabi kehte thay Haider tumhara
+  Shanasa ek khuda hai aur main huṅ
 
   14
   Adeel ab aur kya mujhko talab ho
-  Zameen e karbala hai aur mai hoo
+  Zamin-e-Karbala hai aur main huṅ
 # source_id: nohayonline:b785856f8b53581f1c05
 # source_url: https://www.nohayonline.com/details_content.php?id=2172
 # raw_sha256: 54fe91a85100a0f314fb5cfbb5d6fe054aa18a6977bf6e2af2da3795570a772a
@@ -84,7 +84,7 @@ romanLyrics: |-
 عجب یہ تلخیاں ہیں اور میں ہوں
 
 ۳
-نہیں احساس تنہائی زرا بھی
+نہیں احساس تنہائی ذرا بھی
 کوئی دل میں بسا ہے اور میں ہوں
 
 ۴
@@ -97,7 +97,7 @@ romanLyrics: |-
 
 ۶
 تمناے نبی کی روشنی میں
-ثناے مرتظی ہے اور میں ہوں
+ثناے مرتضیٰ ہے اور میں ہوں
 
 ۷
 نظر چوکھٹ سے اٹھتی ہی نہیں ہے
@@ -116,7 +116,7 @@ romanLyrics: |-
 وفاؤں کی فضا ہے اور میں ہوں
 
 ۱۱
-یہ کہہ کر جھک گےء سجدے میں سرور
+یہ کہہ کر جھک گئے سجدے میں سرور
 میرے رب کی رضا ہے اور میں ہوں
 
 ۱۲
