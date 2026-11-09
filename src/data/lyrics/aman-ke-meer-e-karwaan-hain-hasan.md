@@ -1,46 +1,81 @@
 ---
-title: "Aman Ke Meer-e-Karwaan Hain Hasan"
-language: "Roman Urdu"
+title: "امن کے میرِ کارواں ہیں حسن"
+alternateTitle: "Aman Ke Meer-e-Karwaan Hain Hasan"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Aman ke meer-e-kaarvaṅ hain Hasan
+  Maalik-e-Kausar o jinaṅ hain Hasan
+
+  1
+  In ke lab se hai labkusha Quraan
+  Yaani Quraan ki zabaṅ hain Hasan
+  Qad o qaamat mein hubahu Nana
+  Isteqaamat mein misaal-e-Maa hain Hasan
+
+  2
+  Jis mein Quraan-e-aman rehta hai
+  Dono aalam mein wo makaaṅ hain Hasan
+  Wo Imam-e-Husain ke bhi Imam
+  Aasmaṅ soch to kahaṅ hain Hasan
+
+  3
+  Gulshan-e-Fatima ki pehli bahaar
+  Gul hai Qasim wo gulistaaṅ hain Hasan
+  Khaali neamat se kiuṅ ho dastarkhwaan
+  Ibn-e-Haider hain mezbaaṅ hain Hasan
+
+  4
+  Ran mein Qasim ko dekh kar yuṅ laga
+  Subh-e-Aashoor naujawaṅ hain Hasan
+  Parh ke farmaan-e-Mustafa ye khula
+  Sibt-e-Akbar Nabi ki jaaṅ hain Hasan
+
+  5
+  Baap ka hai laqab Wajhullah
+  Aks-e-Khaaliq-e-do jahaṅ hain Hasan
+  Fikr-e-Rehan naaz kar khud par
+  Tere lafzoṅ ke qadardaaṅ hain Hasan
+# uncertain_credit: "Wajhi Hasan Zaidi" follows the first verse in the import; role not confirmed by accessible source
 # source_id: tajpoints:14d6d45382656dfc7971
 # source_url: https://tajpoints.com/2017/12/aman-ke-meer-e-karwaan-hain-hasan.html
 # raw_sha256: d8bc6ac7fa3b9cdf618e92c276467adcfbd6dbb3a350f15576a360cc737ca112
 ---
 
-Aman Ke Meer-e-Karwaan Hain Hasan Wajhi Hasan Zaidi
-Malik-e-Kausar-o-Jina Hain Hasan
+امن کے میرِ کارواں ہیں حسن
+مالکِ کوثر و جناں ہیں حسن
 
-1
-In Ke Lab Se Hai Lab Kusha Quraan
-Yani Quran Ki Zubaan Hain Hasan
-Qad-o-Qamat Mein Ho Baho Nana
-Isteqamat Mein Misal-e-Maa Hain Hasan
+۱
+ان کے لب سے ہے لب کشا قرآن
+یعنی قرآن کی زباں ہیں حسن
+قد و قامت میں ہو بہو نانا
+استقامت میں مثالِ ماں ہیں حسن
 
-2
-Jis Mein Quran-e-Aman Rehta Hai
-Dono Aalam Mein Woh Makaan Hain Hasan
-Woh Imam-e-Hussain Ke Bhi Imam
-Asamaan Soch To Kahan Hain Hasan
+۲
+جس میں قرآنِ امن رہتا ہے
+دونوں عالم میں وہ مکاں ہیں حسن
+وہ امامِ حسین کے بھی امام
+آسماں سوچ تو کہاں ہیں حسن
 
-3
-Gulshan-e-Fatima Ki Pehli Bahar
-Gul Hai Qasim Woh Gulistaan Hain Hasan
-Khali Naimat Se Kyun Ho Dastar Khuwan
-Ibn-e-Haider Hain Maizbaan Hain Hasan
+۳
+گلشنِ فاطمہ کی پہلی بہار
+گل ہے قاسم وہ گلستاں ہیں حسن
+خالی نعمت سے کیوں ہو دسترخوان
+ابنِ حیدر ہیں میزباں ہیں حسن
 
-4
-Ran Mein Qasim Ko Dekh Kar Youn Laga
-Subah-e-Aashoor Nojawaan Hain Hasan
-Parh Ke Farman-e-Mustafa Yeh Khula
-Sibt-e-Akbar Nabi Ki Jaan Hain Hasan
+۴
+رن میں قاسم کو دیکھ کر یوں لگا
+صبحِ عاشور نوجواں ہیں حسن
+پڑھ کے فرمانِ مصطفیٰ یہ کھلا
+سبطِ اکبر نبی کی جاں ہیں حسن
 
-5
-Baap KaHai Laqab Wajhullah
-Aks-e-Khalaq-e-Do Jahan Hain Hasan
-Fikar-e-REHAN Naaz Kar Khud Par
-Tere Lafzooz Ke Qadar Daan Hain Hasan
+۵
+باپ کا ہے لقب وجہ اللہ
+عکسِ خالقِ دو جہاں ہیں حسن
+فکرِ ریحان ناز کر خود پر
+تیرے لفظوں کے قدرداں ہیں حسن
