@@ -1,36 +1,37 @@
 ---
 title: "آل عبا میں ماتم شیر خدا ہے آج"
-alternateTitle: "Aale Aba Mein"
+alternateTitle: "Aal-e-Aba Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sadiq"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aal-e-Aba mein matam-e-Sher-e-Khuda hai aaj
+  Aal-e-Aba meiṅ maatam-e-Sher-e-Khuda hai aaj
   Roz-e-wida-e-Hazrat-e-Mushkilkusha hai aaj
 
   1
-  Masjid mein ibn-e-Muljim-e-malun ki tegh se
+  Masjid meiṅ ibn-e-Muljim-e-malun ki tegh se
   Zakhmi jo ho gaya tha usi ki qaza hai aaj
 
   2
-  Shiyon udao khaak gareban phaad do
-  Uryan jina mein farq-e-Rasul-e-Khuda hai aaj
+  Shioṅ uraao khaak garebaaṅ phaar do
+  Uryaaṅ jinaaṅ meiṅ farq-e-Rasul-e-Khuda hai aaj
 
   3
-  Mayyat ke gird rote hain baara pisar khade
+  Mayyat ke gird rote haiṅ baarah pisar khare
   Jin ko yatim daur-e-falak ne kiya hai aaj
 
   4
   Pursa do aaj Ahmad-e-Mursal ko bhai ka
-  Naib-e-Rasul-e-Haq ka jahan se utha hai aaj
+  Naib-e-Rasul-e-Haq ka jahaaṅ se utha hai aaj
 
   5
-  Sadiq jahan mein hashr ke aasaar hai ayan
+  Sadiq jahaaṅ meiṅ hashr ke aasaar hai ayaaṅ
   Maah-e-siyam Maah-e-Muharram hua hai aaj
 # source_id: nohayonline:d5877126f9ad62f4c2f5
 # source_url: https://www.nohayonline.com/details_content.php?id=3168
@@ -40,7 +41,7 @@ romanLyrics: |-
 روز وداع حضرتِ مشکل کشاء ہے آج
 
 ۱
-مسجد میں ابن ملجم ملعوں کی تیغ سے
+مسجد میں ابن ملجم ملعون کی تیغ سے
 زخمی جو ہو گیا تھا اسی کی قضا ہے آج
 
 ۲
@@ -52,8 +53,8 @@ romanLyrics: |-
 جن کو یتیم دور فلک نے کیا ہے آج
 
 ۴
-پرسہ دو آج احمد مرسل کو بھای کا
-نایب رسول حق کا جہاں سے اٹھا ہے آج
+پرسہ دو آج احمد مرسل کو بھائی کا
+نائب رسول حق کا جہاں سے اٹھا ہے آج
 
 ۵
 صادق جہاں میں حشر کے آثار ہے عیاں

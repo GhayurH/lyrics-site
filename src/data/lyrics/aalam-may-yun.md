@@ -1,15 +1,16 @@
 ---
 title: "عالم میں یوں شریکِ رسالت ہے فاطمہ"
-alternateTitle: "Aalam Mein Yun"
+alternateTitle: "Aalam Meiṅ Yuṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: ["noImage"]
+reciter: "Pyare Khan"
 aliases: []
 published: false
 romanLyrics: |-
-  Aalam mein yun sharik-e-risalat hai Fatima
+  Aalam meiṅ yuṅ sharik-e-risalat hai Fatima
   Rehmat Nabi hai saya-e-rehmat hai Fatima
 
   1
@@ -21,7 +22,7 @@ romanLyrics: |-
   Maryam to aabida hai ibadat hai Fatima
 
   3
-  Dasht-e-Mubahila mein Payambar ko dekh kar
+  Dasht-e-Mubahila meiṅ Payambar ko dekh kar
   Kehna parega juzv-e-risalat hai Fatima
 
   4
@@ -31,7 +32,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1621
 # raw_sha256: 1d25a6daf78b20e9145e09fd408ce4ca70a14e03b1548cf45a4da4c85c61c20c
 ---
-عالم میں یوں شریک ے رسالت ہئے فاطمہ
+عالم میں یوں شریکِ رسالت ہے فاطمہ
 رحمت نبی ہے سایۂ رحمت ہے فاطمہ
 
 ۱
@@ -43,9 +44,9 @@ romanLyrics: |-
 مریم تو عابدہ ہے عبادت ہے فاطمہ
 
 ۳
-دشت مباھلہ میں پیمبر کو دیکھ کر
+دشتِ مباہلہ میں پیمبر کو دیکھ کر
 کہنا پڑے گا جزوِ رسالت ہے فاطمہ
 
 ۴
-دونوں کے اشتراک سے سجدہ قبول ہئے
+دونوں کے اشتراک سے سجدہ قبول ہے
 حیدر اگر نماز ہے نیت ہے فاطمہ

@@ -1,40 +1,41 @@
 ---
 title: "آلام و مصائب میں گرفتار ہے صغرا"
-alternateTitle: "Aalaam o Masaib Mein"
+alternateTitle: "Aalaam o Masaib Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aalaam o masaib mein giraftar hai Sughra
+  Aalaam o masaib meiṅ giraftar hai Sughra
   Bimar hai Sughra lachaar hai Sughra
 
   1
-  Sab chhor gaye amma phuphi aur biradar
+  Sab chhor gaye ammaṅ phuphi aur biradar
   Socha na kisi ne bhi ke bimar hai Sughra
 
   2
-  Sab bhool gaye jaake khabar tak nahi bheji
+  Sab bhul gaye jaa ke khabar tak nahiṅ bheji
   Kya aisi furqat ki sazawar hai Sughra
 
   3
   Hai wajh-e-judai yehi sehat ki kharaabi
-  Ab apni hi bemaari se bezar hai Sughra
+  Ab apni hi bimaari se bezar hai Sughra
 
   4
-  Milta hai sukoon din ko na neend aati hai shab ko
+  Milta hai sukuṅ din ko na nind aati hai shab ko
   Akbar teri aamad ki talabgar hai Sughra
 
   5
-  Kam hoti nazar aati nahi ashk fishani
-  Kuch aise hi haalaat se do chaar hai Sughra
+  Kam hoti nazar aati nahiṅ ashk fishaani
+  Kuchh aise hi haalaat se dochaar hai Sughra
 
   6
-  Karte hain Anees aah o buka parh ke ye noha
+  Karte haiṅ Anis aah o buka parh ke ye noha
   Kunbe ki judaai se dilafgar hai Sughra
 # source_id: nohayonline:b4810fd530682654f53f
 # source_url: https://www.nohayonline.com/details_content.php?id=1
@@ -65,4 +66,4 @@ romanLyrics: |-
 
 ۶
 کرتے ہیں انیس آہ و بکا پڑھ کے یہ نوحہ
-کنبےکی جدائی سے دل افگار ہے صغرا
+کنبے کی جدائی سے دل افگار ہے صغرا

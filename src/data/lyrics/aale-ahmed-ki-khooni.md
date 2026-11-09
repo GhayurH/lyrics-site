@@ -1,11 +1,12 @@
 ---
 title: "آل احمد کی خونی کہانی"
-alternateTitle: "Aale Ahmed Ki Khooni"
+alternateTitle: "Aal-e-Ahmad Ki Khuni"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: ["noImage"]
+reciter: "Nasir Jahan"
 aliases: []
 published: false
 romanLyrics: |-
@@ -15,33 +16,33 @@ romanLyrics: |-
   Chhaayi Muharram par murzami hai
 
   1
-  Ek bibi hai maqtal mein phirti
+  Ek Bibi hai maqtal meiṅ phirti
   Aur ek ek laashe pa girti
-  Is tarha dil kisi ka na toote
-  Apne pyaron se koi na chhute
+  Is tarah dil kisi ka na tute
+  Apne pyaaroṅ se koi na chhute
 
   2
-  Ret par itne laashe pare hain
-  Kaise moti kahan par pare hain
-  Jalte khaimon mein bachche ghire hain
-  Kaise inke muqaddar phire hain
+  Ret par itne laashe pare haiṅ
+  Kaise moti kahaaṅ par pare haiṅ
+  Jalte khaimoṅ meiṅ bachche ghire haiṅ
+  Kaise in ke muqaddar phire haiṅ
 
   3
-  Kaaf le kar koi yun khada hai
+  Kaaf le kar koi yuṅ khara hai
   Ek bimar tanha para hai
-  Yun Sakina ke gauhar lute hain
-  Dur darya pa shaane kate hain
+  Yuṅ Sakina ke gauhar lute haiṅ
+  Dur darya pa shaane kate haiṅ
 
   4
-  Silsila imtehan ka hai jaari
+  Silsila imtehaaṅ ka hai jaari
   Bibi Zainab tumhari hai baari
-  Nanhe bachon ko lori sunao
-  Khaali jhoole ki dori hilao
+  Nanhe bachchoṅ ko lori sunaao
+  Khaali jhule ki dori hilaao
 
   5
   Dekho Akbar pe girya na hona
-  Misle maadar pareshan na hona
-  Bhai bhai na yun tum pukaro
+  Misl-e-maadar pareshaaṅ na hona
+  Bhai bhai na yuṅ tum pukaaro
   Shaam ke simt ab tum sidharo
 # source_id: nohayonline:6b6906d35ea1999c2117
 # source_url: https://www.nohayonline.com/details_content.php?id=1148
@@ -53,7 +54,7 @@ romanLyrics: |-
 چھای محرم پر مرزمی ہے
 
 ۱
-اک بی بی ہے مقتل میں پھرتی
+اک بی‌بی ہے مقتل میں پھرتی
 اور ایک ایک لاشے پہ گرتی
 اس طرح دل کسی کا نہ ٹوٹے
 اپنے پیاروں سے کوئی نہ چھوٹے
@@ -72,12 +73,12 @@ romanLyrics: |-
 
 ۴
 سلسلہ امتحاں کا ہے جاری
-بی بی زینب تمہاری ہے باری
+بی‌بی زینب تمہاری ہے باری
 ننھے بچوں کو لوری سناؤ
 خالی جھولے کی ڈوری ہلاؤ
 
 ۵
 دیکھو اکبر پہ گریہ نہ ہونا
 مثل مادر پریشاں نہ ہونا
-بھای بھای نہ یوں تم پکارو
+بھائی بھائی نہ یوں تم پکارو
 شام کے سمت اب تم سدھارو
