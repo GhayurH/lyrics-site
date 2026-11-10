@@ -1,57 +1,58 @@
 ---
 title: "باغِ شبر کے مہکتے ہوئے ارماں قاسم"
-alternateTitle: "Baaghe Shabbar Ke"
+alternateTitle: "Baagh-e-Shabbar Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
+reciter: "Viqar Nagri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Baaghe Shabbar Ke"]
 published: false
 romanLyrics: |-
-  Baaghe shabbar ke mehekte huwe armaan qasim
-  Ye teri laash ke tukde biyaban qasim
+  Baagh-e-Shabbar ke mehekte hue armaaṅ Qasim
+  Ye teri laash ke tukre biyaabaaṅ Qasim
 
   1
-  Abhi guzri bhi na thi tera baharein tujh par
-  Haye kya jald hua maut ka samaa qasim
+  Abhi guzri bhi na thi tera bahaareiṅ tujh par
+  Haye kya jald hua maut ka samaaṅ Qasim
 
   2
-  Tashna lab dulha dulhan aur baraati pyase
-  Haye kaisa teri shadi ka hai saaman qasim
+  Tashna lab dulha dulhan aur baraati pyaase
+  Haye kaisa teri shaadi ka hai saamaan Qasim
 
   3
   Ran mein chalti hui wo zulm o sitam ki aandhi
-  Maa ke seene se wo uth'ta hua toofan qasim
+  Maaṅ ke sine se wo uthta hua tufaaṅ Qasim
 
   4
-  Ho ke ruqsat jo chale ran ko to boli kubra
-  Jaaiye aap ka allah nigehban qasim
+  Ho ke ruqsat jo chale ran ko to boli Kubra
+  Jaaiye aap ka Allah nigehbaaṅ Qasim
 
   5
   Dekh kar haal tere jism ki pamaali ka
-  Chaak karti hai ajal apna gareban qasim
+  Chaak karti hai ajal apna garebaan Qasim
 
   6
-  Ran mein bikhre huwe ye tere badan ke tukde
-  Khoon mein tar ye teri zulfein pareshan qasim
+  Ran mein bikhre hue ye tere badan ke tukre
+  Khun mein tar ye teri zulfeiṅ pareshaan Qasim
 
   7
-  Jamma karte hai teri laash ke tukde ran mein
-  Thaam kar apna jigar shaahe shaheedan qasim
+  Jama karte haiṅ teri laash ke tukre ran mein
+  Thaam kar apna jigar Shaah-e-Shahidaaṅ Qasim
 
   8
-  Dil pe kubra ke jo guzri hai khuda hi jaane
-  Laash jab laaye teri sarwar e zeeshan qasim
+  Dil pe Kubra ke jo guzri hai Khuda hi jaane
+  Laash jab laaye teri Sarwar-e-Zishaaṅ Qasim
 
   9
-  Ran ki khamosh fazayein hai tera laasha hai
-  Bain kubra ke hai aur shaam ka zindan qasim
+  Ran ki khaamosh fazaaiṅ hai tera laasha hai
+  Bain Kubra ke hai aur Shaam ka zindaaṅ Qasim
 
   10
-  Nauhakhwan bazme aza mein hai vaqar e ghamgeen
-  Hai tasavvar mein magar shaam ka zindan qasim
+  Nauhakhwaaṅ bazm-e-aza mein haiṅ Viqar-e-Ghamgiṅ
+  Hai tasavvur mein magar Shaam ka zindaaṅ Qasim
 # source_id: nohayonline:3dfd5822d5acec1e58a3
 # source_url: https://www.nohayonline.com/details_content.php?id=2979
 # raw_sha256: 8eeaf70b724eadc824869f11b4da9f15e9ca4b1e8aea31921eb19877aeef4d65

@@ -6,58 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Amir Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Alwida kaise kahe
-  Baap ka taboot hai hasnain hai tanhaai hai
-  Dene bacchon ko dilaasa khuld se maa aayi hai
-  Arsh waale bhi nazar aate hai kuch mayyat ke saath
-  Sogh mein doobi hui hai murtaza ke kayenat
-  Kis qadr jaane ali ke zakhm mein gehrayi hai
+
+  Baap ka taabut hai Hasnain hai tanhaai hai
+  Dene bachchoṅ ko dilaasa khuld se maaṅ aayi hai
+
+  Arsh waale bhi nazar aate haiṅ kuch mayyat ke saath
+  Sog mein dubi hui hai Murtaza ke kaainaat
+  Kis qadr jaan-e-Ali ke zakhm mein gehraai hai
 
   1
-  Sabr aaye zainab o kulsoom ko parwardigar
-  Sehne masjid se sadayein aa rahi hai baar baar
-  Ek rozedar ne sajde mein zarbat khaayi hai
+  Sabr aaye Zainab o Kulsum ko Parwardigaar
+  Sehn-e-masjid se sadaaiṅ aa rahi hai baar baar
+  Ek roze daar ne sajde mein zarbat khaayi hai
 
   2
-  Tak raha hai kisko hasrat se na jaane noor e ain
-  Kaun hai jo keh raha hai sabr kar mere hussain
-  Kis ki ye awaaz hai kaano se jo takrayi hai
+  Tak raha hai kis ko hasrat se na jaane nur-e-ain
+  Kaun hai jo keh raha hai sabr kar mere Husain
+  Kis ki ye aawaaz hai kaanoṅ se jo takraayi hai
 
   3
-  Kaamp jaata hai kaleja dard ke ehsas se
-  Mil ke jab shabbir rote hai gale abbas ke
-  Dekho ek bhai ke gham ka aaena ek bhai hai
+  Kaaṅp jaata hai kaleja dard ke ehsaas se
+  Mil ke jab Shabbir rote haiṅ gale Abbas ke
+  Dekho ek bhai ke gham ka aaina ek bhai hai
 
   4
-  Khoon rota hai falak kufe ke manzar hai udaas
-  Zainab o kulsoom aur shabbir o shabbar hai udaas
-  Chehra e ummul baneen par murdani se chaayi hai
+  Khun rota hai falak Kufe ke manzar haiṅ udaas
+  Zainab o Kulsum aur Shabbir o Shabbar hai udaas
+  Chehra-e-Ummul Baniṅ par murdani si chhaayi hai
 
   5
-  Maa ka gham bhoole na thay baba ka saaya uth gaya
-  Haye ghar hasnain ka dekho dobara lut gaya
-  Waqt ne phir se ghamon ki daastan dohrayi hai
+  Maaṅ ka gham bhule na the baba ka saaya uth gaya
+  Haye ghar Hasnain ka dekho dobaara lut gaya
+  Waqt ne phir se ghamoṅ ki daastaaṅ dohraayi hai
 
   6
   Kaun si manzil mein likha jaye ab is sabr ko
-  Apne haathon se mitaate hai nishane qabr ko
-  Haye kis aalam mein mayyat baap ki dafnayi hai
+  Apne haathoṅ se mitaate haiṅ nishaan-e-qabr ko
+  Haye kis aalam mein mayyat baap ki dafnaayi hai
 
   7
-  Aamir o akhtar siyahi hai falak par har taraf
-  Dono aalam par musallat hai ghame shaahe najaf
-  Arsh ko kudrat ne poshak e aza pehnayi hai
+  Aamir o Akhtar siyaahi hai falak par har taraf
+  Donoṅ aalam par musallat hai gham-e-Shaah-e-Najaf
+  Arsh ko qudrat ne poshaak-e-aza pehnaayi hai
 # source_id: nohayonline:c7238a253aadab972c15
 # source_url: https://www.nohayonline.com/details_content.php?id=3375
 # raw_sha256: 46afdc8375365c2b9bb31594979ea78b50deb0af9e7be19845c50e07b58e067e
 ---
 الوداع کیسے کہے
+
 باپ کا تابوت ہے حسنین ہے تنہائی ہے
 دینے بچوں کو دلاسہ خلد سے ماں آی ہے
+
 عرش والے بھی نظر آتے ہیں کچھ میت کے ساتھ
 سوگ میں ڈوبی ہوئی ہے مرتظی کی کاینات
 کس قدر جانے علی کی زخم میں گہرائی ہے

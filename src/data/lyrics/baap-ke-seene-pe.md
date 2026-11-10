@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jamal Meerthi"
+reciter: "Sharif Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baap ke seene pe sona ab kahan
-  Ay sakina wo bichona ab kahan
+  Baap ke sine pe sona ab kahaaṅ
+  Ae Sakina wo bichhona ab kahaaṅ
 
   1
-  Kis se khelogi sakina kuch kaho
-  Cheh mahine ka khilona ab kahan
+  Kis se khelogi Sakina kuch kaho
+  Chhe mahine ka khilauna ab kahaaṅ
 
   2
-  Sunliya abbas bhi maare gaye
-  Pyase bachon ka wo rona ab kahan
+  Sun liya Abbas bhi maare gaye
+  Pyaase bachchoṅ ka wo rona ab kahaaṅ
 
   3
-  Chand si dulhan ko ghar may dekhti
-  Maa ka ye sapna tha logon ab kahan
+  Chaand si dulhan ko ghar mein dekhti
+  Maaṅ ka ye sapna tha logoṅ ab kahaaṅ
 
   4
-  Shaah ki lakhte jigar bewa hui
-  Qismat e kubra may rona ab kahan
+  Shaah ki lakht-e-jigar bewa hui
+  Qismat-e-Kubra mein rona ab kahaaṅ
 
   5
-  Daur tha tera ali se khush bayan
-  Gham ko ashkon may tha mouna ab kahan
+  Daur tha tera Ali se khush bayaaṅ
+  Gham ko ashkoṅ mein tha mouna ab kahaaṅ
 
   6
-  Ashra e maahe moharram jaa chuka
-  Roz o shab moti phirona ab kahan
+  Ashra-e-maah-e-Muharram jaa chuka
+  Roz o shab moti pirona ab kahaaṅ
 
   7
-  Kehliya kehne ko nauha ay jamaal
-  Khoon may khaama dubona ak kahan
+  Keh liya kehne ko nauha ae Jamal
+  Khun mein khaama dubona ab kahaaṅ
 # source_id: nohayonline:05c79b9f6150374bd822
 # source_url: https://www.nohayonline.com/details_content.php?id=837
 # raw_sha256: 717271919a5fe6f76158170d71d668e63ec73bc9777da0be66faa876415a7af7

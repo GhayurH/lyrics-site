@@ -6,39 +6,40 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
+reciter: "Mir Bober Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kehti thi sakina na uthe baap ka saaya
-  Bachon ke sada sar pe rahe baap ka saaya
+  Kehti thi Sakina na uthe baap ka saaya
+  Bachchoṅ ke sada sar pe rahe baap ka saaya
 
   1
-  Dunya may yehi unko badi neymate rab hai
-  Jeete hai saron par ko liye baap ka saaya
+  Dunya mein yehi unko bari nemat-e-Rab hai
+  Jite haiṅ saroṅ par ko liye baap ka saaya
 
   2
-  Khaati na tamache na kabhi chinte ye gowhar
-  Uth'ta na agar sar se mere baap ka saaya
+  Khaati na tamaanche na kabhi chhinte ye gauhar
+  Uthta na agar sar se mere baap ka saaya
 
   3
-  Kuch kam nahi hai unke liye lutfe zindagi
-  Wo khush naseeb jinko milay baap ka saaya
+  Kuch kam nahiṅ hai unke liye lutf-e-zindagi
+  Wo khush nasib jin ko mile baap ka saaya
 
   4
-  Mayoosi zindagi may lagi rehti hai sada
-  Aulaad ke sar se jo hatay baap ka saaya
+  Maayusi zindagi mein lagi rehti hai sada
+  Aulaad ke sar se jo hate baap ka saaya
 
   5
-  Jab tak mere baba thay koi gham na mujhe tha
-  Jeeti rahi be-khauf liye baap ka saaya
+  Jab tak mere baba the koi gham na mujhe tha
+  Jiti rahi bekhauf liye baap ka saaya
 
   6
-  Sehti na sitam is tarha ashoor se ab tak
+  Sehti na sitam is tarah Aashur se ab tak
   Hota jo agar sar pe mere baap ka saaya
 
   7
-  Tujhko kahan kami thi kisi cheez ki bober
+  Tujhko kahaaṅ kami thi kisi chiz ki Bober
   Jab tak ke raha sar pe tere baap ka saaya
 # source_id: nohayonline:089d158d11bb9570c6d3
 # source_url: https://www.nohayonline.com/details_content.php?id=815

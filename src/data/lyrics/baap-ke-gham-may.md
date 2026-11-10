@@ -1,41 +1,42 @@
 ---
 title: "باپ کے غم میں سکینہ یوں دلاسے پائے گی"
-alternateTitle: "Baap Ke Gham May"
+alternateTitle: "Baap Ke Gham Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akbar"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
-aliases: []
+aliases: ["Baap Ke Gham May"]
 published: false
 romanLyrics: |-
-  Baap ke gham mein sakina yun dilaase payegi
-  Jab bhi baba ko pukaregi tamache khayegi
+  Baap ke gham mein Sakina yuṅ dilaase paayegi
+  Jab bhi baba ko pukaaregi tamaanche khaayegi
 
   1
-  Apne baalon mein basa kar apni turbat ke liye
+  Apne baaloṅ mein basa kar apni turbat ke liye
   Baap ke maqtal ki mitti qaid mein le aayegi
 
   2
-  Kaisi ghurbat hai ke kurta layegi baysheer ka
-  Aur sakina ki jagah maa goshware laayegi
+  Kaisi ghurbat hai ke kurta laayegi beshir ka
+  Aur Sakina ki jagah maaṅ goshwaare laayegi
 
   3
-  Jhurriyan chehre pe hongi baal sab honge safayd
-  Shaam tak baali sakina fatema ban jayegi
+  Jhurriyaaṅ chehre pe hoṅgi baal sab hoṅge safed
+  Shaam tak baali Sakina Fatima ban jaayegi
 
   4
-  Apne dur kaano mein us ke dekh kar royegi wo
-  Haan magar ramla ko jatlaate huwe sharmeinegi
+  Apne dur kaanoṅ mein us ke dekh kar royegi wo
+  Haaṅ magar Ramla ko jatlaate hue sharmaayegi
 
   5
-  Neeli pad jaaye na kirne neela chehra dekh kar
-  Roshni zindan mein jaate huwe ghabrayegi
+  Nili par jaaye na kirneiṅ nila chehra dekh kar
+  Roshni zindaan mein jaate hue ghabraayegi
 
   6
-  Maut hi akbar sula payegi is masoom ko
-  Apni aankhon mein jo mayyat baap ki dafnayegi
+  Maut hi Akbar sula paayegi us maasum ko
+  Apni aankhoṅ mein jo mayyat baap ki dafnaayegi
 # source_id: nohayonline:c0b0b8cbd35ce8ebaec1
 # source_url: https://www.nohayonline.com/details_content.php?id=2308
 # raw_sha256: 8c4e71d08299db8952799405c8a02a9e0e49541f0997a3cee9807b4173179f39
