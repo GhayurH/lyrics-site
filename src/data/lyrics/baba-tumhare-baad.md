@@ -6,37 +6,38 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mohib Fazli"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sadmay utha rahi hoon may baba tumharay baad
-  Darbar ja rahi hoon may baba tumharay baad
+  Sadme utha rahi huṅ maiṅ baba tumhare baad
+  Darbar ja rahi huṅ maiṅ baba tumhare baad
 
   1
-  Baba ye Fatima pe museebat ka waqt hay
-  Ye marhala kathin hay qayamat ka waqt hay
-  Khutba suna rahi hoon may, baba tumharay baad
+  Baba ye Fatima pe musibat ka waqt hai
+  Ye marhala kathin hai qayamat ka waqt hai
+  Khutba suna rahi huṅ maiṅ, baba tumhare baad
 
   2
-  Koi mujhe bataye ke kia tha mera qasoor
-  Sadma ye hay ke shehr ki aabidiyon se door
-  Ansoo baha rahi hoon may, baba tumharay baad
+  Koi mujhe bataye ke kya tha mera qusur
+  Sadma ye hai ke shehr ki aabadiyoṅ se dur
+  Aansu baha rahi huṅ maiṅ, baba tumhare baad
 
   3
-  Baba tumharay baad ye mujh par sitam hua
-  Mohsin mera shaheed hua wa museebata
-  Ye gham utha rahi hoon may, baba tumharay baad
+  Baba tumhare baad ye mujh par sitam hua
+  Mohsin mera shahid hua wa musibata
+  Ye gham utha rahi huṅ maiṅ, baba tumhare baad
 
   4
-  Baba ghareeb beti ki ghurbat to dekh lo
-  Ummat ne haq nahi diya bint e Rasool ko
-  Ye ajr pa rahi hoon may, baba tumharay baad
+  Baba gharib beti ki ghurbat to dekh lo
+  Ummat ne haq nahiṅ diya Bint-e-Rasul ko
+  Ye ajr paa rahi huṅ maiṅ, baba tumhare baad
 
   5
   Ummat ki har naqab ko rukh se hata ke aaj
-  Darbar may laeen ke khutba suna ke aaj
-  Haq ko bacha rahi hoon may, baba tumharay baad
+  Darbar meiṅ lain ke khutba suna ke aaj
+  Haq ko bacha rahi huṅ maiṅ, baba tumhare baad
 # source_id: nohayonline:43e1e325d75ec4cb9daa
 # source_url: https://www.nohayonline.com/details_content.php?id=792
 # raw_sha256: 8979daa6ea0fd428cab19303b7086a89e6e4688a2704fcb15f6ae071a9bd27d4
@@ -54,9 +55,9 @@ romanLyrics: |-
 خطبہ سنا رہی ہوں میں بابا تمہارے بعد
 
 ۲
-کوی مجھے بتاے کہ کیا تھا میرا قصور
+کوئی مجھے بتائے کہ کیا تھا میرا قصور
 صدمہ یہ ہے کہ شہر کی آبادیوں سے دور
-آنسوں بہا رہی ہوں میں بابا تمہارے بعد
+آنسو بہا رہی ہوں میں بابا تمہارے بعد
 
 ۳
 بابا تمہارے بعد یہ مجھ پر ستم ہوا
@@ -64,7 +65,7 @@ romanLyrics: |-
 یہ غم اٹھا رہی ہوں میں بابا تمہارے بعد
 
 ۴
-بابا غریب بیٹی کی غربت تو دیکھلو
+بابا غریب بیٹی کی غربت تو دیکھ لو
 امت نے حق نہیں دیا بنت رسول کو
 یہ اجر پا رہی ہوں میں بابا تمہارے بعد
 

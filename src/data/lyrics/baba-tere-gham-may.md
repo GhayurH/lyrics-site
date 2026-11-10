@@ -1,52 +1,53 @@
 ---
-title: "بابا تیرے غم میںیہ بے چین سکینہ ہے"
-alternateTitle: "Baba Tere Gham May"
+title: "بابا تیرے غم میں یہ بے چین سکینہ ہے"
+alternateTitle: "Baba Tere Gham Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Baba Tere Gham May"]
 published: false
 romanLyrics: |-
-  Baba tere gham may ye bechain sakina hai
-  Zindan ke andhere may mushkil mera jeena hai
+  Baba tere gham meiṅ ye bechain Sakina hai
+  Zindaṅ ke andhere meiṅ mushkil mera jina hai
 
   1
-  Din raat mai roti hoo aur khaak pe soti hoo
-  Aghosh hai madar ki na baap ka seena hai
+  Din raat maiṅ roti huṅ aur khaak pe soti huṅ
+  Aaghosh hai maadar ki na baap ka sina hai
 
   2
-  Dafna ke sakina ko abid ne kaha rokar
-  Ay khaak tujhe saumpa zehra ka nagina hai
+  Dafna ke Sakina ko Abid ne kaha ro kar
+  Ae khaak tujhe sauṅpa Zehra ka nagina hai
 
   3
-  Mai ro bhi nahi sakti zindan may tumhe baba
-  Paband mujhe karta rone se kamina hai
+  Maiṅ ro bhi nahiṅ sakti zindaṅ meiṅ tumheiṅ baba
+  Paaband mujhe karta rone se kamina hai
 
   4
-  Hai kaan mere zakhmi aur neel tamacho ke
-  Zaalim ke tamacho se behaal sakina hai
+  Haiṅ kaan mere zakhmi aur nil tamaachoṅ ke
+  Zaalim ke tamaachoṅ se behaal Sakina hai
 
   5
-  Abid ne kaha rokar zainab se phuphi amma
-  Har zulmo sitam sehna is ghar ka karina hai
+  Abid ne kaha ro kar Zainab se phuphi ammaṅ
+  Har zulm o sitam sehna is ghar ka karina hai
 
   6
-  Karte hai bapa matam dunya may shahe deen ka
-  Momin ke liye irfan bakshish ka khazina hai
+  Karte hai bapa maatam duniya meiṅ Shah-e-diṅ ka
+  Momin ke liye Irfaṅ bakhshish ka khazina hai
 # source_id: nohayonline:43bd6fb1de4e59fdd370
 # source_url: https://www.nohayonline.com/details_content.php?id=34
 # raw_sha256: 661b4e40c2c352653ed712360144393502fd6aa05aa413752f184eafa272aad3
 ---
 
-بابا تیرے غم میںیہ بے چین سکینہ ہے
+بابا تیرے غم میں یہ بے چین سکینہ ہے
 زنداں کے اندھیرے میں مشکل میرا جینا ہے
 
 ۱
 دن رات میں روتی ہوں اور خاک پہ سوتی ہوں
-آ غوش ہے مادر کی نہ باپ کا سینہ ہے
+آغوش ہے مادر کی نہ باپ کا سینہ ہے
 
 ۲
 دفنا کے سکینہ کو عابد نے کہا رو کر
@@ -57,7 +58,7 @@ romanLyrics: |-
 پابند مجھے کرتا رونے سے کمینہ ہے
 
 ۴
-ہیں کان میرے زخمی اور نیل تماچوںکے
+ہیں کان میرے زخمی اور نیل تماچوں کے
 ظالم کے تماچوں سے بے حال سکینہ ہے
 
 ۵
@@ -66,4 +67,4 @@ romanLyrics: |-
 
 ۶
 کرتے ہی بپا ماتم دنیا میں شاہِ دیں کا
-مومن کے لیئے عرفاں بخشش کا خزینہ ہے
+مومن کے لیے عرفاں بخشش کا خزینہ ہے

@@ -1,59 +1,62 @@
 ---
-title: "کتنی غریب ہو گیء بابا تمہاری فاطمہ"
+title: "کتنی غریب ہو گئی بابا تمہاری فاطمہ"
 alternateTitle: "Baba Tumhari Fatema"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Jaffri"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kitni ghareeb hogayi baba tumhari fatema
-  Jisko kaha tha maa tum ne usko hi sab ke saamne
-  Jhooti kaha gaya
+  Kitni gharib ho gayi baba tumhari Fatema
+
+  Jis ko kaha tha maaṅ tum ne us ko hi sab ke saamne
+  Jhuti kaha gaya
 
   1
-  Darbar jab se dekha hai kitni zaeef lagti hoon
-  Pehchan yun karati hoon ro ro ke khud batati hoon
-  Haan mai hoon fatema
+  Darbar jab se dekha hai kitni zaif lagti huṅ
+  Pehchan yuṅ karaati huṅ ro ro ke khud bataati huṅ
+  Haaṅ maiṅ huṅ Fatema
 
   2
-  Beton ke saamne baba maine tamacha khaaya hai
-  Kuch bhi nahi wo kehta hai bas sehma sehma rehta hai
-  Beta hassan mera
+  Betoṅ ke saamne baba maiṅ ne tamaacha khaaya hai
+  Kuchh bhi nahiṅ wo kehta hai bas sehma sehma rehta hai
+  Beta Hasan mera
 
   3
-  Zakhmi hai ungliyan itni tasbeeh pad nahi sakti
-  Kunfuz ne taziyane se teri fatema ke haathon pe
+  Zakhmi hai ungliyaaṅ itni tasbih parh nahiṅ sakti
+  Kunfuz ne taaziyaane se teri Fatema ke haathoṅ pe
   Aisa sitam kiya
 
   4
-  Jis dar pe aap rukte thay us dar pe aag le aaye
-  Apne hi dar ke sholon mein dekhi hai teri beti ne
-  Yasrab mein karbala
+  Jis dar pe aap rukte the us dar pe aag le aaye
+  Apne hi dar ke sholoṅ meiṅ dekhi hai teri beti ne
+  Yasrab meiṅ Karbala
 
   5
-  Shiddat thi wo tamache ki mai moo ke bal zameen pe giri
-  Itna wo haath tha bhari toota hai goshwara bhi
-  Zakhmi hai fatema
+  Shiddat thi wo tamaache ki maiṅ muṅh ke bal zamiṅ pe giri
+  Itna wo haath tha bhaari tuta hai goshwaara bhi
+  Zakhmi hai Fatema
 
   6
-  Baba madine waalon ne maari hai thokarein mujhko
-  Wahid ye jurm tha mera mujhse ali bachane ka
+  Baba Madine waaloṅ ne maari hai thokareiṅ mujh ko
+  Waahid ye jurm tha mera mujh se Ali bachaane ka
   Badla liya gaya
 
   7
-  Ek tooti qabr se mohsin awaaz ab bhi aati hai
-  Ye kaise hogaya baba mai zinda reh gayi mera
-  Mohsin nahi bacha
+  Ek tuti qabr se Mohsin aawaaz ab bhi aati hai
+  Ye kaise ho gaya baba maiṅ zinda reh gayi mera
+  Mohsin nahiṅ bacha
 # source_id: nohayonline:4363e744aaf6f30b0909
 # source_url: https://www.nohayonline.com/details_content.php?id=3127
 # raw_sha256: 8bf95e703592aee3df3fc0c9d7ded669eb4e303369faf70a684f01d98f4e3d4c
 ---
 
-کتنی غریب ہو گیء بابا تمہاری فاطمہ
+کتنی غریب ہو گئی بابا تمہاری فاطمہ
+
 جس کو کہا تھا تم نے اس کو ہی سب کے سامنے
 جھوٹی کہا گیا
 
@@ -64,7 +67,7 @@ romanLyrics: |-
 
 ۲
 بیٹوں کے سامنے بابا میں نے طمانچے کھایا ہے
-کچھ بھی نہیں وہ کہتا ہے بس سہما سہمہ رہتا ہے
+کچھ بھی نہیں وہ کہتا ہے بس سہما سہما رہتا ہے
 بیٹا حسن میرا
 
 ۳
@@ -83,11 +86,11 @@ romanLyrics: |-
 زخمی ہے فاطمہ
 
 ۶
-بابا مدینے والوں نے ماری ہے ٹھوکریں مجھکو
+بابا مدینے والوں نے ماری ہے ٹھوکریں مجھ کو
 واحد یہ جرم تھا میرا مجھ سے علی بچانے کا
 بدلہ لیا گیا
 
 ۷
 ایک ٹوٹی قبر سے محسن آواز اب بھی آتی ہے
-یہ کیسے ہو گیا بابا میں زندہ رہ گیء میرا
+یہ کیسے ہو گیا بابا میں زندہ رہ گئی میرا
 محسن نہیں بچا

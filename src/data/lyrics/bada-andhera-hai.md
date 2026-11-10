@@ -1,64 +1,67 @@
 ---
 title: "سکینہ قید ہو کر شام کے زندان میں جب آئی"
-alternateTitle: "Bada Andhera Hai"
+alternateTitle: "Bara Andhera Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Rizwan Zaidi"
+bastaPage: 106
+bastaNote: "additional-stanzas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bada Andhera Hai"]
 published: false
 romanLyrics: |-
-  Sakina qaid ho kar shaam ke zindan mein jab aayi
-  Wo bacchi us andhere ghar ki tareeki se ghabrayi
-  Muqaddar ne ajab aafat ki pehli raat dikhlayi
-  Zameen to farsh tha saaya fighan tha charkhe meenayi
-  Phupi ke saath rehti thi na maa ke paas soti thi
-  Barehna sar khadi zindan ke darwaze pa roti thi
+  Sakina qaid ho kar Sham ke zindaan meiṅ jab aayi
+  Wo bachchi us andhere ghar ki taariki se ghabraayi
+  Muqaddar ne ajab aafat ki pehli raat dikhlaayi
+  Zamiṅ to farsh tha saaya fagan tha charkh-e-minaai
+  Phuphi ke saath rehti thi na maaṅ ke paas soti thi
+  Barahna sar khari zindaan ke darwaaze pe roti thi
 
-  Pukari ro ke sakina bada andhera hai
-  Ye kaisi qaid hai baba bada andhera hai
+  Pukaari ro ke Sakina bara andhera hai
+  Ye kaisi qaid hai baba bara andhera hai
 
   1
-  Main ek kone mein baithi hui hoon sehmi hui
-  Dikhayi kuch nahi deta bada andhera hai
+  Maiṅ ek kone meiṅ baithi hui huṅ sehmi hui
+  Dikhaayi kuchh nahiṅ deta bara andhera hai
 
   2
   Jigar figaar hai kamsin hai aur akeli hai
-  Na jee sakegi sakina bada andhera hai
+  Na ji sakegi Sakina bara andhera hai
 
   3
-  Tumhari laadli tanha hai koi paas nahi
-  Madad ko aaiye baba bada andhera hai
+  Tumhaari laadli tanha hai koi paas nahiṅ
+  Madad ko aaiye baba bara andhera hai
 
   4
-  Agar ho aana to asghar ko saath mat laana
-  Jahan mai qaid hoon baba bada andhera hai
+  Agar ho aana to Asghar ko saath mat laana
+  Jahaaṅ maiṅ qaid huṅ baba bara andhera hai
 
   5
-  Tamache lagte hai mere jo dar ke roti hoon
-  Magar mai kya karun baba bada andhera hai
+  Tamaanche lagte haiṅ mere jo dar ke roti huṅ
+  Magar maiṅ kya karuṅ baba bara andhera hai
 
   6
-  Behan se milne ko aao agar ali akbar
-  To ek charaagh bhi laana bada andhera hai
+  Behan se milne ko aao agar Ali Akbar
+  To ik charaagh bhi laana bara andhera hai
 
   7
-  Bahot tadapte thay sajjad ye sada sun kar
-  Behan bulaati hai bhaiya bada andhera hai
+  Bahut tarapte the Sajjad ye sada sun kar
+  Behan bulaati hai bhaiya bara andhera hai
 
   8
-  Koi charaagh jalane na aa saka haye
-  Pukarti rahi dukhiya bada andhera hai
+  Koi charaagh jalaane na aa saka haaye
+  Pukaarti rahi dukhiya bara andhera hai
 
   9
-  Kahan ke hai ye musafir shikasta haal o ghareeb
-  Kahan kiya hai basera bada andhera hai
+  Kahaaṅ ke haiṅ ye musaafir shikasta haal o gharib
+  Kahaaṅ kiya hai basera bara andhera hai
 
   10
-  Ab uska maqbara minaar e noor hai gohar
-  Jo roz karti thi nauha bada andhera hai
+  Ab us ka maqbara minaar-e-nur hai Gohar
+  Jo roz karti thi nauha bara andhera hai
 # source_id: nohayonline:87a236253060a98059f7
 # source_url: https://www.nohayonline.com/details_content.php?id=2895
 # raw_sha256: 71ba50fe585bbf275233b373a931f9fdcd5b1acf12b80fa10703f9b4f30233f6
