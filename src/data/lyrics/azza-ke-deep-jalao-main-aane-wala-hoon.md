@@ -1,11 +1,13 @@
 ---
-title: "Azza Ke Deep Jalao Main Aane Wala Hoon Lyrics 2007"
+title: "Aza Ke Dip Jalao Main Aane Waala Huṅ"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
+poet: "Mir Takallum Mir"
+reciter: "Mir Hasan Mir"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["Azza Ke Deep Jalao Main Aane Wala Hoon Lyrics 2007"]
 recitationId: "azza-ke-deep-jalao-main-aane-wala-hoon-lyrics-2007"
 published: false
 # source_id: tajpoints:35c0e1ed2204cc49297f
@@ -13,44 +15,44 @@ published: false
 # raw_sha256: edeccf3468ef5959525ccd47b280db42e6243a7fdd81c488a6737675575792e1
 ---
 
-Azza Ke Deep Jalao Main Aane Wala Hoon Lyrics
+Aza ke dip jalao main aane waala huṅ
 
 1
-Uthi Hai Noor Ki Nori Ghataein Ghaibat Se
-Tamam Ahl-e-Azza Lao Lagaein Ghaibat Se
-Sunein Ba-Ghoor Tu Mehsoos Aisa Hota Hai
-Keh Aa Rahi Hain Musalsal Sadaein Ghaibat Se
-Azza Ke Deep Jalao Main Aane Wala Hoon
-Gham-e-Hussain Manao Main Aane Wala Hoon
+Uthi hai nur ki nori ghataaeṅ ghaibat se
+Tamaam ahl-e-aza lao lagaaeṅ ghaibat se
+Suneṅ ba-ghaur tu mahsus aisa hota hai
+Kah aa rahi haiṅ musalsal sadaaeṅ ghaibat se
+Aza ke dip jalao main aane waala huṅ
+Gham-e-Husain manao main aane waala huṅ
 
 2
-Main Janta Hoon Ke Niyyat Mein Naik Hain Dono
-Namazi Our Azadar Aik Hain Dono
-Bas Ab Farq Mitao Main Aane Wala Hoon
-Rasool Paish Karein Gaye Wahan Qasida Niya
-Wahin Pe Ho Ga Bapa Jashn Mere Dada Ka
-Qadam Najaf Ko Barhao Main Aane Wala Hoon
+Main jaanta huṅ ke niyyat mein nek haiṅ donoṅ
+Namaazi aur azaadaar ek haiṅ donoṅ
+Bas ab farq mitao main aane waala huṅ
+Rasul pesh kareṅ gaye wahaaṅ qasida niya
+Wahiṅ pe ho ga bapa jashn mere Daada ka
+Qadam Najaf ko barhao main aane waala huṅ
 
 3
-Tumhare Dil Mein Hamari Wila Makeen Nahi
-Areezay Likhte Ho Lekin Tumhein Yaqeen Nahi
-Yaqeen Kar Lo Yeh Jao Main Aane Wala Hoon
-Faroo-e-Deen Se Hargiz Karo Na Bezari
-Harm Mein Kar Ke Namaz-o-Azza Ki Teyari
-Azaan Yeh Sab Ko Sunao Main Aane Wala Hoon
+Tumhaare dil mein hamaari wila makin nahiṅ
+Arize likhte ho lekin tumheṅ yaqin nahiṅ
+Yaqin kar lo yeh jao main aane waala huṅ
+Furu-e-din se hargiz karo na bezaari
+Harm mein kar ke namaaz o aza ki taiyaari
+Azaan yeh sab ko sunao main aane waala huṅ
 
 4
-Na Hone Paye Kabhi Dil Se Kam Hussain Ka Gham
-Hai Meri Foj Ka Parcham Mere Chacha Ka Alam
-Alam Gharon Mein Sajao Main Aane Wala Hoon
-Main Apna Dard Karon Kis Tarha Se Tum Pe Ayyan
-Meri Nigah Mein Phirti Hai Har Shaheed Ki Maan
-Ossay Bhi Ja Ke Batao Main Aane Wala Hoon
+Na hone paaye kabhi dil se kam Husain ka gham
+Hai meri fauj ka parcham mere Chaacha ka alam
+Alam gharoṅ mein sajao main aane waala huṅ
+Main apna dard karuṅ kis tarah se tum pe ayaan
+Meri nigaah mein phirti hai har shahid ki maaṅ
+Use bhi jaa ke batao main aane waala huṅ
 
 5
-Yeh Mefilein Yeh Azza Zindagi Ka Rizq Hai Sab
-Yeh Ain Ishq Hai Zinda Ho Tum Unhi Ke Sabab
-Na Inn Se Maal Kamao Main Aane Wala Hoon
-Sunni Hai:MIR TAKALLUM: Ne Karbala Se Sada
-Hai Akhtetam Ke Nazdeek Ghaibat-e-Kubra
-Harm Pe Nazrein Jamao Main Aane Wala Hoon
+Yeh mefileṅ yeh aza zindagi ka rizq hai sab
+Yeh ain ishq hai zinda ho tum unhi ke sabab
+Na in se maal kamao main aane waala huṅ
+Suni hai Mir Takallum ne Karbala se sada
+Hai ikhtitaam ke nazdik ghaibat-e-kubra
+Harm pe nazreṅ jamao main aane waala huṅ

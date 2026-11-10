@@ -1,62 +1,63 @@
 ---
-title: "عظمت لیےء ہے خلد کی دامان کربلا"
+title: "عظمت لیے ہے خلد کی دامان کربلا"
 alternateTitle: "Azmat Liye Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Azmat liye hai khuld ki daaman e karbala
-  Khoone shaheed e haq se bandhi shaan e karbala
+  Azmat liye hai khuld ki daaman-e-Karbala
+  Khun-e-shahid-e-haq se baandhi shaan-e-Karbala
 
   1
-  Andaaz keh rahe thay ye zainab ke laal ke
-  Jaane na denge haath se maidan e karbala
+  Andaaz kah rahe the ye Zainab ke laal ke
+  Jaane na deṅge haath se maidaan-e-Karbala
 
   2
-  Hyder ka laal ghaiz mein aaya hai nehr par
-  Chalkega aaj khoon se maidan e karbala
+  Haidar ka laal ghaiz mein aaya hai nahr par
+  Chhalke ga aaj khun se maidaan-e-Karbala
 
   3
-  Islam ki ragon mein rawan hai tera lahoo
-  Ay bezuban asghare nadaan e karbala
+  Islam ki ragoṅ mein rawaaṅ hai tera lahu
+  Ae bezabaan Asghar-e-naadaan-e-Karbala
 
   4
-  Utho lab e furaat se abbas e bawafa
-  Tanha ghire hai fauj mein sultan e karbala
+  Utho lab-e-Furaat se Abbas-e-baawafa
+  Tanha ghire hai fauj mein sultaan-e-Karbala
 
   5
-  Has kar gala badha diya nawak ke saamne
-  Dekhe zamana jurrate nadaan e karbala
+  Hans kar gala barha diya naawak ke saamne
+  Dekhe zamaana juraat-e-naadaan-e-Karbala
 
   6
-  Jalti zameen pe mayyat e shabbir thi padi
-  Jaate thay ek simt aseeran e karbala
+  Jalti zamiṅ pe mayyat-e-Shabbir thi pari
+  Jaate the ek simt asiraan-e-Karbala
 
   7
-  Zainab talaya karti thi qaime ka jis ghadi
-  Rota tha bekasi pe biyaban e karbala
+  Zainab talaaya karti thi khaime ka jis ghari
+  Rota tha bekasi pe biyaabaan-e-Karbala
 
   8
-  Zainab tadapti reh gayi allah re bekasi
-  Pyasa shaheed hogaya sultan e karbala
+  Zainab tarapti rah gayi Allah re bekasi
+  Pyaasa shahid ho gaya sultaan-e-Karbala
 
   9
-  De kar shikast maqsad e baatil ko shaam se
-  Aaye hai karbala mein aseeran e karbala
+  De kar shikast maqsad-e-baatil ko Shaam se
+  Aaye hai Karbala mein asiraan-e-Karbala
 # source_id: nohayonline:cd9267cdd0ef67c086e8
 # source_url: https://www.nohayonline.com/details_content.php?id=3766
 # raw_sha256: e3cfafbe7cc2561c41e38bafb9ac24f55dd4cd72c3bc9f582604896b54e871d2
 ---
-عظمت لیےء ہے خلد کی دامان کربلا
+عظمت لیے ہے خلد کی دامان کربلا
 خون شہید حق سے باندھی شان کربلا
 
 ۱
 انداز کہہ رہے تھے یہ زینب کے لال کے
-جانے نہ دینگے ہاتھ سے میدان کربلا
+جانے نہ دیں گے ہاتھ سے میدان کربلا
 
 ۲
 حیدر کا لال غیض میں آیا ہے نہر پر
@@ -83,9 +84,9 @@ romanLyrics: |-
 روتا تھا بیکسی پہ بیابان کربلا
 
 ۸
-زینب تڑپتی رہ گیء اللہ رے بیکسی
+زینب تڑپتی رہ گئی اللہ رے بیکسی
 پیاسا شہید ہو گیا سلطان کربلا
 
 ۹
 دے کر شکست مقصد باطل کو شام سے
-آے ہے کربلا میں اسیران کربلا
+آئے ہے کربلا میں اسیران کربلا

@@ -1,50 +1,51 @@
 ---
-title: "ام لیلیٰ نہ بھول پای اذاں اکبر کی"
+title: "ام لیلیٰ نہ بھول پائی اذاں اکبر کی"
 alternateTitle: "Azane Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Umme laila na bhula paayi azan akbar ki
-  Ghut ke roti rahi zindan may maa akbar ki
+  Umm-e-Laila na bhul paayi azaaṅ Akbar ki
+  Ghut ke roti rahi zindaaṅ mein maaṅ Akbar ki
 
   1
-  Tod di seena e akbar may udoo ne barchi
-  Kaun kar sakta hai bayan takleef bayan akbar ki
+  Tor di sina-e-Akbar mein adu ne barchhi
+  Kaun kar sakta hai bayaaṅ taklif bayaaṅ Akbar ki
 
   2
-  Akhri waqt may bete ne jo maanga pani
-  Dekh kar ro diye sheh khushk zaban akbar ki
+  Aakhri waqt mein bete ne jo maanga paani
+  Dekh kar ro diye Shah khushk zabaaṅ Akbar ki
 
   3
-  Mout ki hichki pe pahuncha tha behan ka qasid
-  Khat e sughra may thi atki hui jaan akbar ki
+  Maut ki hichki pe pahuncha tha bahan ka qaasid
+  Khat-e-Sughra mein thi atki hui jaaṅ Akbar ki
 
   4
-  Shaam may bhai ka sar dekh ke roya sajjad
-  Yaad beemar ko aayi thi kahan akbar ki
+  Shaam mein bhaai ka sar dekh ke roya Sajjad
+  Yaad bimaar ko aayi thi kahaaṅ Akbar ki
 
   5
-  Umme laila ne yehi keh ke mala sar pe lahoo
-  Rakhun mai koi nishani to jawan akbar ki
+  Umm-e-Laila ne yehi kah ke mala sar pe lahu
+  Rakhuṅ main koi nishaani to jawaan Akbar ki
 
   6
-  Dekhi darbar ki halat to pukari zainab
-  Haye sajjad zaroorat thi yahan akbar ki
+  Dekhi darbaar ki haalat to pukaari Zainab
+  Haae Sajjad zarurat thi yahaaṅ Akbar ki
 
   7
-  Ay zafar koi bhi nasir ya madadgaar na tha
-  Siskiyan leti rahi raahon may maa akbar ki
+  Ae Zafar koi bhi naasir ya madadgaar na tha
+  Siskiyaaṅ leti rahi raahoṅ mein maaṅ Akbar ki
 # source_id: nohayonline:9b1364bfb02eef5c07f1
 # source_url: https://www.nohayonline.com/details_content.php?id=1893
 # raw_sha256: 92a4869464c9ff56a2dbc954f4593f564322a9f8782cdf303494fb65cd35baba
 ---
-ام لیلیٰ نہ بھول پای اذاں اکبر کی
+ام لیلیٰ نہ بھول پائی اذاں اکبر کی
 گھٹ کے روتی رہی زنداں میں ماں اکبر کی
 
 ۱
@@ -53,15 +54,15 @@ romanLyrics: |-
 
 ۲
 آخری وقت میں بیٹے نے جو مانگا پانی
-دیکھ کر رو دیےء شہ خشک زباں اکبر کی
+دیکھ کر رو دیے شہ خشک زباں اکبر کی
 
 ۳
 موت کی ہچکی پہ پہنچا تھا بہن کا قاصد
-خط صغرا میں تھی اٹکی ہوی جاں اکبر کی
+خط صغرا میں تھی اٹکی ہوئی جاں اکبر کی
 
 ۴
-شام میں بھای کا سر دیکھ کے رویا سجاد
-یاد بیمار کو آی تھی کہاں اکبر کی
+شام میں بھائی کا سر دیکھ کے رویا سجاد
+یاد بیمار کو آئی تھی کہاں اکبر کی
 
 ۵
 ام لیلیٰ نے یہی کہہ کے ملا سر پہ لہو
@@ -69,7 +70,7 @@ romanLyrics: |-
 
 ۶
 دیکھی دربار کی حالت تو پکاری زینب
-ہاے سجاد ضرورت تھی یہاں اکبر کی
+ہائے سجاد ضرورت تھی یہاں اکبر کی
 
 ۷
 اے ظفر کوئی بھی ناصر یا مددگار نہ تھا
