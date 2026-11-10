@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Ali Raza Baqri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aza e ahle haram ke din hai
-  Ye zikre daure sitam ke din hai
+  Azaa-e-ahl-e-haram ke din haiṅ
+  Ye zikr-e-daur-e-sitam ke din haiṅ
 
   1
-  Hamara girya hamara matam
-  Suna raha hai hussain ka gham
+  Hamaara girya hamaara maatam
+  Suna raha hai Husain ka gham
   Laraz raha hai tamaam aalam
-  Jahan may shaahe umam ke din hai
+  Jahaaṅ mein Shaah-e-umam ke din haiṅ
 
   2
-  Tabaah zehra ka ghar hua hai
-  Galay pe sheh ke khanjar chala hai
-  Supurde jaan ka ye silsila hai
-  Haram pa dard o alam ke din hai
+  Tabaah Zehra ka ghar hua hai
+  Gale pe Shah ke khanjar chala hai
+  Supurd-e-jaan ka ye silsila hai
+  Haram pa dard o alam ke din haiṅ
 
   3
-  Kisi ka laasha aba may aaya
+  Kisi ka laasha aba mein aaya
   Kisi ne seene pa zakhm khaaya
-  Koi zamane pe muskuraya
-  Hussain bekas pe gham ke din hai
+  Koi zamaane pe muskuraaya
+  Husain bekas pe gham ke din haiṅ
 
   4
-  Dukh apna zainab kise sunaye
-  Batao darbar kaise jaaye
-  Behen ko abbas yaad aaye
-  Faza e mashk o alam ke din hai
+  Dukh apna Zainab kise sunaaye
+  Bataao darbaar kaise jaaye
+  Behen ko Abbas yaad aaye
+  Fazaa-e-mashk o alam ke din haiṅ
 
   5
-  Safar se zainab palat ke aayi
-  Salam leeje hussain bhai
-  Watan ko jaati hai maa ki jaayi
-  Qadam qadam chashme nam ke din hai
+  Safar se Zainab palat ke aayi
+  Salaam lije Husain bhaai
+  Watan ko jaati hai maaṅ ki jaayi
+  Qadam qadam chashm-e-nam ke din haiṅ
 
   6
-  Na kam ho shahid hussain ka gham
-  Sada bahe yuhin ashke payham
+  Na kam ho Shahid Husain ka gham
+  Sada bahe yuṅhi ashk-e-paiham
   Na jaane kal ho bhi ya na ho hum
-  Ye momino pe karam ke din hai
+  Ye mominoṅ pe karam ke din haiṅ
 # source_id: nohayonline:f1ca153bfc18b3b6865e
 # source_url: https://www.nohayonline.com/details_content.php?id=591
 # raw_sha256: 47893ea7d5d1ed3dfa405838a0af77499ddd0980536adbb0b8a9645230a86d1c
@@ -63,7 +64,7 @@ romanLyrics: |-
 
 ۲
 تباہ زہرا کا گھر ہوا ہے
-گلے پہ شہ کے خنجر چلا ہت
+گلے پہ شہ کے خنجر چلا ہے
 سپرد جاں کا یہ سلسلہ ہے
 حرم پہ درود الم کا دن ہے
 
@@ -75,9 +76,9 @@ romanLyrics: |-
 
 ۴
 دکھ اپنا زینب کسے سنائے
-بتائو دربار کیسے جائے
+بتاؤ دربار کیسے جائے
 بہن کو عباس یاد آئے
-فضاے مشک و علم کے دن ہیں
+فضائے مشک و علم کے دن ہیں
 
 ۵
 سفر سے زینب پلٹ کے آئی
