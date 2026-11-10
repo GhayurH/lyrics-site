@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba ka sar sakina aghosh mein utha ke
-  Faryad kar rahi hai roodad e gham suna ke
+  Baba ka sar Sakina aaghosh mein utha ke
+  Faryaad kar rahi hai rudaad-e-gham suna ke
 
   1
-  Shimre layeen ne mujhpar kya kya sitam na dhaye
+  Shimr-e-laiṅ ne mujh par kya kya sitam na dhaaye
   Lekin meri madad ko afsos tum na aaye
-  Pani ko phaynkta tha zaalim dikha dikha ke
+  Paani ko pheṅkta tha zaalim dikha dikha ke
 
   2
-  Bin parda zaalimo ne bazaar se guzara
-  Maine tadap tadap ke tum ko bahot pukara
-  Guzri hoo raaston se balon se moo ko chupa ke
+  Bin parda zaalimoṅ ne baazaar se guzaara
+  Main ne tarap tarap ke tum ko bahut pukaara
+  Guzri huṅ raastoṅ se baaloṅ se muṅh ko chhupa ke
 
   3
-  Shimre layeen tamache jab mere maarta tha
-  Nanha sa dil tadap ke tum ko pukarta tha
-  Rote thay har qadam par sajjad sar ko jhuka ke
+  Shimr-e-laiṅ tamaanche jab mere maarta tha
+  Nanha sa dil tarap ke tum ko pukaarta tha
+  Rote the har qadam par Sajjad sar ko jhuka ke
 
   4
-  Rehwaar ke galay mein ammu ka sar pada tha
-  Meri aziyaton ka sadma unhe bada tha
-  Aankhein lahoo lahoo thi khoone jigar baha ke
+  Rahwaar ke gale mein ammu ka sar para tha
+  Meri aziyyatoṅ ka sadma unheṅ bara tha
+  Aankheṅ lahu lahu thi khun-e-jigar baha ke
 
   5
-  Saaye ko bhi safar mein qaidi tadap rahe thay
-  Raahon mein har taraf se pathar baras rahe thay
-  Laayi hai mujhko jaane kaise phupi bacha ke
+  Saaye ko bhi safar mein qaidi tarap rahe the
+  Raahoṅ mein har taraf se patthar baras rahe the
+  Laayi hai mujh ko jaane kaise phuphi bacha ke
 
   6
-  Koi na tha hamari faryad sun'ne waala
-  Be pardagi ne baba meri maa ko maar daala
-  Khush ho rahe thay zaalim dar dar hame phirake
+  Koi na tha hamaari faryaad sunne waala
+  Be pardagi ne baba meri maaṅ ko maar daala
+  Khush ho rahe the zaalim dar dar hameṅ phira ke
 
   7
-  Karti rahi duayein zindan se sakina
-  Jab tak khuloos e dil se padte rahe ye nauha
-  Irfa aur akhtar aansu baha baha ke
+  Karti rahi duaaeṅ zindaan se Sakina
+  Jab tak khulus-e-dil se parhte rahe ye noha
+  Irfa aur Akhtar aansu baha baha ke
 # source_id: nohayonline:06850d50aabea34b62dc
 # source_url: https://www.nohayonline.com/details_content.php?id=1174
 # raw_sha256: 0595e09088304099b91ea269e6474e4f7913e926da5f8fb484fdbd7c8c0a550f

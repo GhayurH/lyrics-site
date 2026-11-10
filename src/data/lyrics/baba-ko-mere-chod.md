@@ -1,60 +1,65 @@
 ---
 title: "بابا کو میرے چھوڑ کے آے ہو تم کہاں"
-alternateTitle: "Baba Ko Mere Chod"
+alternateTitle: "Baba Ko Mere Chhor"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Ahsan"
+reciter: "Anj. Parwane Shabbir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Baba Ko Mere Chod"]
 published: false
 romanLyrics: |-
-  Baba ko mere chod ke aaye ho tum kahan
-  Zainab lipat ke bhai ke karti thi ye bayan
+  Baba ko mere chhor ke aaye ho tum kahaaṅ
+
+  Zainab lipat ke bhaai ke karti thi ye bayaaṅ
+  Baba ko mere chhor ke aaye ho tum kahaaṅ
 
   1
-  Dekho to aaj arshe mualla udaas hai
-  Kaaba khamosh hai to madina udaas hai
-  Sakte mein hai namaz musalla udaas hai
-  Hai zalzala zameen ko larzan hai aasman
+  Dekho to aaj arsh-e-mualla udaas hai
+  Kaaba khaamosh hai to Madina udaas hai
+  Sakte mein hai namaaz musalla udaas hai
+  Hai zalzala zamin ko larzaaṅ hai aasmaaṅ
 
   2
   Ab apne waaste hai har ek gham har ek sitam
-  Mai jaanti hoo ranj o alam mein har ek qadam
-  Poori tarha se hogaye ab to yateem hum
-  Nana hai ab na baap ka saaya hai aur na maa
+  Main jaanti huṅ ranj o alam mein har ek qadam
+  Puri tarah se ho gaye ab to yatim hum
+  Naana hai ab na baap ka saaya hai aur na maaṅ
 
   3
-  Andher hai jahan ujaala koi nahi
-  Chaayi wo raat jiska savera koi nahi
-  Hum bekason ka poochne waala koi nahi
-  Ab tang hai zameen to hai door aasman
+  Andher hai jahaan ujaala koi nahiṅ
+  Chhaayi woh raat jis ka sawera koi nahiṅ
+  Hum bekasoṅ ka puchhne waala koi nahiṅ
+  Ab tang hai zamin to hai dur aasmaaṅ
 
   4
-  Waqt e akheer karte thay baba wasiyatein
-  Khushiyan tamaam hogayi ab hai musibatein
-  Zainab hai tere waaste har gaam zehmatein
-  Har ek qadam pa ab tujhe dena hai imtihan
+  Waqt-e-akhir karte the baba wasiyyateṅ
+  Khushiyaṅ tamaam ho gayi ab hai musibateṅ
+  Zainab hai tere waaste har gaam zahmateṅ
+  Har ek qadam pe ab tujhe dena hai imtihaaṅ
 
   5
   Barbaad hoga zulm ki aandhi mein ye chaman
-  Zehr e dagha se qatl kiya jayega hassan
-  Ghodon se tukde hoyega shabbir ka badan
-  Beti bandhegi baazuon mein tere reesma
+  Zahr-e-dagha se qatl kiya jaaye ga Hasan
+  Ghoroṅ se tukre hoye ga Shabbir ka badan
+  Beti bandhe gi baazuoṅ mein tere rismaaṅ
 
   6
-  Peeto saron ko doston jab tak hayaat hai
-  Ahsan lahoo mein doobi hui kayenaat hai
-  Mushkil kusha ke ghar mein qayamat ki raat hai
-  Zainab hassan hussain se karti rahi fughan
+  Pito saroṅ ko dostoṅ jab tak hayaat hai
+  Ahsan lahu mein dubi hui kaainaat hai
+  Mushkil kusha ke ghar mein qayaamat ki raat hai
+  Zainab Hasan Husain se karti rahi fughaaṅ
 # source_id: nohayonline:c58234cc06781c27d45c
 # source_url: https://www.nohayonline.com/details_content.php?id=2992
 # raw_sha256: 854d30abb7314aec1bc370a14a64c23d37bc9cf4dbf6f9b737ab90fbaed816fa
 ---
 
 بابا کو میرے چھوڑ کے آے ہو تم کہاں
+
 زینب لپٹ کے بھائی کے کرتی تھی یہ بیاں
+بابا کو میرے چھوڑ کے آے ہو تم کہاں
 
 ۱
 دیکھو تو آج عرش معلیٰ اداس ہے

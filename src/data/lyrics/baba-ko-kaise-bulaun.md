@@ -1,66 +1,71 @@
 ---
 title: "سوچتے تھے یہ مقتل میں اکبر"
-alternateTitle: "Baba Ko Kaise Bulaun"
+alternateTitle: "Baba Ko Kaise Bulaauṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Baba Ko Kaise Bulaun"]
 published: false
 romanLyrics: |-
-  Sochte thay ye maqtal may akbar
-  Ran may baba ko kaise bulaun
-  Phal hai barchi ka seene ke andar
+  Sochte the ye maqtal mein Akbar
+  Ran mein baba ko kaise bulaauṅ
+
+  Phal hai barchhi ka sine ke andar
+  Ran mein baba ko kaise bulaauṅ
 
   1
-  Mere seene may tooti hai barchi
-  Hai lahoo mere seene se jaari
-  Kaise dekhenge baba ye manzar
+  Mere sine mein tuti hai barchhi
+  Hai lahu mere sine se jaari
+  Kaise dekheṅ ge baba ye manzar
 
   2
   Saans meri ukhadne lagi hai
-  Chand lamho ki ab zindagi hai
-  Kya karenge wo maqtal may aakar
+  Chand lamhoṅ ki ab zindagi hai
+  Kya kareṅ ge woh maqtal mein aa kar
 
   3
-  Choomte thay jise roz baba
-  Pesh e sarwar jo kham hi raha tha
-  Khaak o khoon may bhara hai wohi sar
+  Chumte the jise roz baba
+  Pesh-e-Sarwar jo kham hi raha tha
+  Khaak o khuṅ mein bhara hai woh hi sar
 
   4
-  Khaake naiza zameen par gira hoo
-  Dard jitna bhi hai seh raha hoo
-  Dekh kar mujhko honge wo muztar
+  Kha ke neza zamiṅ par gira huṅ
+  Dard jitna bhi hai sah raha huṅ
+  Dekh kar mujh ko hoṅ ge woh muztar
 
   5
-  Hai shahe deen pe waqt e musibat
-  Ho chuke haye ammu bhi ruqsat
-  Ab kahan hai koi unka yawar
+  Hai Shah-e-diṅ pe waqt-e-musibat
+  Ho chuke haaye ammu bhi rukhsat
+  Ab kahaaṅ hai koi un ka yaawar
 
   6
-  Mai tadapta hoo reti pe ban may
-  Ho raha ha izafa dukhan may
-  Aake tadpenge maqtal may sarwar
+  Main tarapta huṅ reti pe ban mein
+  Ho raha hai izaafa dukhan mein
+  Aa ke tarpeṅ ge maqtal mein Sarwar
 
   7
-  Mai pukarunga baba ko jis dam
-  Honge qaime may jab shaah pur nam
-  Meri haalat samajhlegi maadar
+  Main pukaaruṅ ga baba ko jis dam
+  Hoṅ ge khaime mein jab Shaah pur nam
+  Meri haalat samajh le gi maadar
 
   8
-  Tha ye izhaar nauha jawan ka
-  Aayenge ran may jab mere baba
-  Khayenge wo to thokar pe thokar
+  Tha ye Izhaar noha jawaaṅ ka
+  Aaeṅ ge ran mein jab mere baba
+  Khaaeṅ ge woh to thokar pe thokar
 # source_id: nohayonline:bc95820869e178f2f1ff
 # source_url: https://www.nohayonline.com/details_content.php?id=1140
 # raw_sha256: 3fabf7c87467df15df2691c392bdb3e8fc2b95427c313025fd8cabf5b60be6f6
 ---
 
 سوچتے تھے یہ مقتل میں اکبر
-رن میں بابا کو کیسےبلائوں
+رن میں بابا کو کیسے بلائوں
+
 پھل ہے برچھی کا سینے کے اندر
+رن میں بابا کو کیسے بلائوں
 
 ۱
 میرے سینے میں ٹوٹی ہے برچھی
@@ -93,7 +98,7 @@ romanLyrics: |-
 آ کے تڑپیں گے مقتل میں سرور
 
 ۷
-میں پکاروں گا بابا کو جس د م
+میں پکاروں گا بابا کو جس دم
 ہوں گے خیمے میں جب شاہ پُر نم
 میری حالت سمجھ لے گی مادر
 
