@@ -5,60 +5,61 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba sakina ko ab godh mein lelo
-  
+  Baba Sakina ko ab god mein le lo
+
   1
-  Mere baba ye kaise toote sitam
-  Sunaun kis ko mai roodad e alam
-  Tum waqif ho ab koi nahi hai mera
+  Mere baba ye kaise tute sitam
+  Sunauṅ kis ko main rudaad-e-alam
+  Tum waaqif ho ab koi nahiṅ hai mera
   Ghar lut gaya saara
-  Bas aakhri ek baar seene se laga lo
-  
+  Bas aakhri ek baar sine se laga lo
+
   2
-  Akele kyun mujhe tum chod gaye
-  Chaheeti beti se moo mod gaye
-  Beti ko koi yun kar deta hai tanha
+  Akele kiuṅ mujhe tum chhor gaye
+  Chahiti beti se munh mor gaye
+  Beti ko koi yuṅ kar deta hai tanha
   Dil rota hai mera
-  Bas aakhri ek baar seene se laga lo
-  
+  Bas aakhri ek baar sine se laga lo
+
   3
-  Tamache khaayi aur mai ro na saki
-  Tumhari yaad mein mai so na saki
-  Is beti ka bistar tha tumhara seena
+  Tamaache khaayi aur main ro na saki
+  Tumhaari yaad mein main so na saki
+  Is beti ka bistar tha tumhaara sina
   Ab khaak bichona
-  Bas aakhri ek baar seene se laga lo
-  
+  Bas aakhri ek baar sine se laga lo
+
   4
   Akele so gaye tum maqtal mein
-  Tumhe dhoondu kahan mai jangal mein
-  Hai bikhre huwe maidan mein saare laashe
-  Har soo sannate
-  Bas aakhri ek baar seene se laga lo
-  
+  Tumheṅ dhunduṅ kahaaṅ main jangal mein
+  Hai bikhre huwe maidaan mein saare laashe
+  Har suṅ sannaate
+  Bas aakhri ek baar sine se laga lo
+
   5
   Hai zakhmi raaste ghurbat ka safar
   Rulaate hai mujhe saare manzar
-  Oonton se wo nanhe bachon ka gir jaana
-  Maa'on ka tadapna
-  Bas aakhri ek baar seene se laga lo
-  
+  Uṅtoṅ se wo nanhe bachchoṅ ka gir jaana
+  Maaoṅ ka tarapna
+  Bas aakhri ek baar sine se laga lo
+
   6
-  Teri beti mein ab himmat bhi nahi
-  Pukarun kis ko mai taaqat bhi nahi
-  Khulwado zara aa kar gardan ki rassi
-  Dam ghut'ta hai mera
-  Bas aakhri ek baar seene se laga lo
-  
+  Teri beti mein ab himmat bhi nahiṅ
+  Pukaaruṅ kis ko main taaqat bhi nahiṅ
+  Khulwa do zara aa kar gardan ki rassi
+  Dam ghutta hai mera
+  Bas aakhri ek baar sine se laga lo
+
   7
-  Nighaon mein kisi ka zakhmi badan
-  Wahin baithi hui ek bewa dulhan
-  Ek maa ki nighaon mein hai nanha laasha
-  Aur khaali jhoola
-  Bas aakhri ek baar seene se laga lo
+  Nigaahoṅ mein kisi ka zakhmi badan
+  Wahiṅ baithi hui ek bewa dulhan
+  Ek maaṅ ki nigaahoṅ mein hai nanha laasha
+  Aur khaali jhula
+  Bas aakhri ek baar sine se laga lo
 # source_id: nohayonline:9084bc4f6e365223975c
 # source_url: https://www.nohayonline.com/details_content.php?id=1763
 # raw_sha256: 1446abc46b7daee2b8131c78bcc31e19e45891fee43cd44161e4f161477dc7ba

@@ -6,57 +6,58 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Naqvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Beti se kaha sheh ne meri jaan sakina
-  Baba tera ek shab ka hai mehman sakina
+  Beti se kaha Sheh ne meri jaan Sakina
+  Baba tera ek shab ka hai mehmaan Sakina
 
   1
-  Ashoor ki ghurbat mein aseeri ke safar mein
-  Be-rehm zamane mein rahe baad padar ke
-  Har gaam khuda tera nigehban sakina
+  Aashur ki ghurbat mein asiri ke safar mein
+  Berahm zamaane mein rahe baad-e-padar ke
+  Har gaam Khuda tera nigahbaan Sakina
 
   2
-  Pathar bhi tamacha kabhi durra bhi lagela
-  Badlega kayi rang tera phool sa chehra
-  Haan daure yateemi nahi aasan sakina
+  Patthar bhi tamaache kabhi durra bhi lage ga
+  Badle ga kayi rang tera phul sa chehra
+  Haaṅ daur-e-yatimi nahiṅ aasaan Sakina
 
   3
-  Mai aap ki aagosh mein chup jaungi baba
-  Aur akbar o abbas ko bulwaungi baba
-  Tanha to na hogi sar e maidan sakina
+  Main aap ki aaghosh mein chhup jaauṅ gi baba
+  Aur Akbar o Abbas ko bulwaauṅ gi baba
+  Tanha to na hogi sar-e-maidaan Sakina
 
   4
-  Maqtal mein na kooza liye khaali chali aana
+  Maqtal mein na kuza liye khaali chali aana
   Abbas ko ro ro ke na darya se bulaana
-  Hojayenge sharminda chacha jaan sakina
+  Ho jaayeṅge sharminda chacha jaan Sakina
 
   5
-  Baba tera qatil kya musalman nahi hai
-  Kya yaad nabi ka usay farmaan nahi hai
-  Shabbir ki baaton pe hai hairaan sakina
+  Baba tera qaatil kya musalmaan nahiṅ hai
+  Kya yaad Nabi ka use farmaan nahiṅ hai
+  Shabbir ki baatoṅ pe hai hairaan Sakina
 
   6
-  Jal jayega ghar baar to ghabraogi bibi
-  Kal shab kahin baba ko na tum paogi bibi
-  Na rehm karenge ye musalman sakina
+  Jal jaaye ga ghar baar to ghabraao gi Bibi
+  Kal shab kahiṅ baba ko na tum paao gi Bibi
+  Na rahm kareṅge ye musalmaan Sakina
 
   7
-  Jin bacchon ke jal jaate hai ghar sote hai kaise
-  Mar jaaye jo gar baap to phir rote hai kaise
-  Batlao na baba ke hai nadaan sakina
+  Jin bachchoṅ ke jal jaate haiṅ ghar sote haiṅ kaise
+  Mar jaaye jo gar baap to phir rote haiṅ kaise
+  Batlaao na baba ke hai naadaan Sakina
 
   8
-  Kaano ke tere zakhm tujhe sone na denge
-  Zaalim mere laashe pe tujhe rone na denge
-  Tarsegi tu rone ko meri jaan sakina
+  Kaanoṅ ke tere zakhm tujhe sone na deṅge
+  Zaalim mere laashe pe tujhe rone na deṅge
+  Tarse gi tu rone ko meri jaan Sakina
 
   9
-  Sone ki tere seene pe zid chod ke baba
-  So jayegi zindan ki zameen od ke baba
-  Ho jayegi islam pe qurban sakina
+  Sone ki tere sine pe zid chhor ke baba
+  So jaaye gi zindaaṅ ki zamiṅ orh ke baba
+  Ho jaaye gi Islam pe qurbaan Sakina
 # source_id: nohayonline:10f2e1e8af89882e0cfc
 # source_url: https://www.nohayonline.com/details_content.php?id=3065
 # raw_sha256: c7eaaaa18ca2fbdc63d169363bc15047be44f854e227bbce33757fd97262c2df

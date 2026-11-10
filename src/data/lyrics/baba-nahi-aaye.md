@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaimon mein aag lag gayi baba nahi aaye
-  Chadar phupi ki cheen li baba nahi aaye
+  Khaimoṅ mein aag lag gayi baba nahiṅ aaye
+  Chaadar phuphi ki chhin li baba nahiṅ aaye
 
   1
-  Kis karb se pukara sare dashte karbala
-  Ammu ne bhi khabar na li baba nahi aaye
+  Kis karb se pukaara sar-e-dasht-e-Karbala
+  Ammu ne bhi khabar na li baba nahiṅ aaye
 
   2
-  Royega shab mein chaunk ke asghar to layenge
-  Laila dekhti rahi baba nahi aaye
+  Royega shab mein chauṅk ke Asghar to laayeṅge
+  Laila dekhti rahi baba nahiṅ aaye
 
   3
-  Maare tamache shimr ne durr mere cheen kar
-  Behre madad pukara ki baba nahi aaye
+  Maare tamaache Shimr ne durr mere chhin kar
+  Bahr-e-madad pukaara ki baba nahiṅ aaye
 
   4
-  Asghar ka jhoola jal gaya durre bhi kha chuke
-  Masnad nabi ki jal gayi baba nahi aaye
+  Asghar ka jhula jal gaya durre bhi khaa chuke
+  Masnad-e-Nabi ki jal gayi baba nahiṅ aaye
 
   5
-  Ab aayenge ab aayenge is intezar mein
-  Shab ko mai jaagti rahi baba nahi aaye
+  Ab aayeṅge ab aayeṅge is intezaar mein
+  Shab ko main jaagti rahi baba nahiṅ aaye
 
   6
-  Dene ko pehra dast e bayaban mein anees
-  Misle chacha phupi bani baba nahi aaye
+  Dene ko pehra dasht-e-bayaabaṅ mein Anees
+  Misl-e-chacha phuphi bani baba nahiṅ aaye
 # source_id: nohayonline:a197ea10bc18f42eea18
 # source_url: https://www.nohayonline.com/details_content.php?id=3450
 # raw_sha256: 4097780df4fbb1fc9cce6cdbd586cfeeef6db98e30a0f84a7551b3c6ecf00fd0

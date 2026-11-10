@@ -5,52 +5,53 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba tere baghair bhala kaise jiyungi
-  Tanha rahungi qaid may zindan may marungi
+  Baba tere baghair bhala kaise jiyuṅ gi
+  Tanha rahuṅ gi qaid mein zindaaṅ mein maruṅ gi
 
   1
-  Roti hui behna ko chacha chod na jaana
-  Ye aakhri rishta bhi kahin tod na jaana
-  Pani ke liye aap se ab mai na kahungi
+  Roti hui behna ko chacha chhor na jaana
+  Ye aakhri rishta bhi kahiṅ tor na jaana
+  Paani ke liye aap se ab main na kahuṅ gi
 
   2
-  Baba ko dekti thi to aate thay nazar teer
-  Ek pal may sakina se juda hogaye shabbir
-  Seene se laga lo mujhe ab kis se kahungi
+  Baba ko dekhti thi to aate the nazar tir
+  Ek pal mein Sakina se juda ho gaye Shabbir
+  Sine se laga lo mujhe ab kis se kahuṅ gi
 
   3
-  Guzregi kis tarha se meri shaam e ghariban
-  Asghar ko sada dungi mai laashon ke darmiyan
-  Haathon may hoga magar mai na piyungi
+  Guzre gi kis tarah se meri shaam-e-gharibaaṅ
+  Asghar ko sada duṅ gi main laashoṅ ke darmiyaaṅ
+  Haathoṅ mein hoga paani magar main na piyuṅ gi
 
   4
-  Mai aal e mohamed ka hoo anmol nagina
-  Rakha hai aap hi ne mera naam sakina
-  Ab qaidi sagheeron ki mai salaar banungi
+  Main Aal-e-Muhammad ka huṅ anmol nagina
+  Rakha hai aap hi ne mera naam Sakina
+  Ab qaidi saghiroṅ ki main saalaar banuṅ gi
 
   5
-  Tasveer payambar ki dikha kyun nahi dete
-  Baba mujhe asghar se mila kyun nahi dete
-  Ye sadma judaai ka bhala kaise sahungi
+  Tasvir-e-Payambar ki dikha kiuṅ nahiṅ dete
+  Baba mujhe Asghar se mila kiuṅ nahiṅ dete
+  Ye sadma-e-judaai ka bhala kaise sahuṅ gi
 
   6
-  Baba ka rasta rok ke raahon may khadi hai
-  Masoom sakina pe qayamat ki ghadi hai
-  Ro ro ke ye kehti hai ke jaane nahi dungi
+  Baba ka rasta rok ke raahoṅ mein khari hai
+  Maasum Sakina pe qayaamat ki ghari hai
+  Ro ro ke ye kehti hai ke jaane nahiṅ duṅ gi
 
   7
-  Hai bheed qayamat ki patharon ki hai barsaat
-  Mai haath uthaun to mitt jaye kayenaat
-  Ye bad'dua jahan ke liye mai na karungi
+  Hai bhir qayaamat ki pattharoṅ ki hai barsaat
+  Main haath uthaauṅ to mit jaaye kaainaat
+  Ye baddua jahaaṅ ke liye main na karuṅ gi
 
   8
-  Qaime bhi jala daale jala daale hai quran
-  Phir bhi ye apne aap ko kehte hai musalman
-  Hai baat bade dukh ki ye nana se kahungi
+  Khaime bhi jala daale jala daale haiṅ Quraaṅ
+  Phir bhi ye apne aap ko kehte haiṅ musalmaaṅ
+  Hai baat bare dukh ki ye naana se kahuṅ gi
 # source_id: nohayonline:97359c3f8da11c5fb9c2
 # source_url: https://www.nohayonline.com/details_content.php?id=1501
 # raw_sha256: dd8e21b9bdb2d7e0135823fa2630262594ee4ac95516fd873aef4d83b6de6b27
