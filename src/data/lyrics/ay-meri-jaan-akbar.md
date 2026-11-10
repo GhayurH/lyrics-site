@@ -1,71 +1,72 @@
 ---
 title: "جب رن کو چلے خیمے سے ہمشکل پیمبر"
-alternateTitle: "Ay Meri Jaan Akbar"
+alternateTitle: "Ae Meri Jaaṅ Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Meri Jaan Akbar"]
 published: false
 romanLyrics: |-
-  Jab ran ko chale qaime se hamshakle payambar
-  Laila ne kaha bete ko seene se laga kar
+  Jab ran ko chale khaime se hamshakl-e-Payambar
+  Laila ne kaha bete ko sine se laga kar
 
   1
-  Ay meri jaan akbar jab zakhm koi khaana
-  Baba se chupana
-  Laila ne kaha ro kar jab dard ho seene mein
-  Tum maa ko batana
+  Ae meri jaaṅ Akbar jab zakhm koi khaana
+  Baba se chhupaana
+  Laila ne kaha ro kar jab dard ho sine mein
+  Tum maaṅ ko bataana
 
   2
-  Laashe utha utha ke ab thak chuke hai baba
-  Athara saal waala tu hai jawan beta
-  Mai jaanti hoon akbar mushkil hai zaeefi mein
+  Laashe utha utha ke ab thak chuke haiṅ baba
+  Athaara saal waala tu hai jawaan beta
+  Main jaanti huṅ Akbar mushkil hai zaifi mein
   Tera laasha uthana
 
   3
   Mar jaaye jiska beta wo kaise gham uthaye
-  Tujhse lipat ke ran mein shabbir mar na jaaye
-  Is maa ke liye akbar aasan nahi qaimon mein
-  Do laashon ko laana
+  Tujh se lipat ke ran mein Shabbir mar na jaaye
+  Is maaṅ ke liye Akbar aasaan nahiṅ khaimoṅ mein
+  Do laashoṅ ko laana
 
   4
-  Rakhe khuda salamat akbar teri jawani
-  Bas tu hi mustafa ki hai aakhri nishani
-  Takte hai tera chehra jab bhi tere baba ko
-  Yaad aate hai nana
+  Rakhe Khuda salaamat Akbar teri jawaani
+  Bas tu hi Mustafa ki hai aakhri nishaani
+  Takte haiṅ tera chehra jab bhi tere baba ko
+  Yaad aate haiṅ nana
 
   5
-  Barchi ka dard seh ke tehroge kaise zeen par
-  Jab dil pe haath rakh kar girne lago zameen par
-  Mai tumko sambhalungi godhi mein uthalungi
-  Tum mujhko bulana
+  Barchhi ka dard seh ke thehro ge kaise zin par
+  Jab dil pe haath rakh kar girne lago zamin par
+  Main tum ko sambhaaluṅ gi godi mein utha luṅ gi
+  Tum mujh ko bulaana
 
   6
-  Ay laal sabr karna na dard se tadapna
-  Baba ke saamne tum mat aediyan ragadna
-  Tum bete ho laila ke wo dilbar e zahra hai
-  Ye bhool na jaana
+  Ae laal sabr karna na dard se tadapna
+  Baba ke saamne tum mat aeriyaaṅ ragarna
+  Tum bete ho Laila ke wo dilbar-e-Zahra hai
+  Ye bhul na jaana
 
   7
-  Jaate huwe phupi se ek baar aur milna
+  Jaate huwe phuphi se ek baar aur milna
   Armaan dil mein koi reh jaaye na adhura
   Zainab ki tamanna hai beta tere maathe par
-  Sehra hai sajana
+  Sehra hai sajaana
 
   8
-  Jab sughra yaad aayi ro ro ke maa pukari
+  Jab Sughra yaad aayi ro ro ke maaṅ pukaari
   Hai muntazir watan mein kab se behen tumhari
-  Ye bhool nahi jaana sughra se abhi tum ne
+  Ye bhul nahiṅ jaana Sughra se abhi tum ne
   Waada hai nibhana
 
   9
-  Zeeshan abidi wo maa gir gayi zameen par
-  Qaime se jab jawan ko ruqsat kiya ye keh kar
-  Jab barchi koi maare is chand se seene se
-  Na dhaal hatana
+  Zishan Aabidi wo maaṅ gir gayi zamin par
+  Khaime se jab jawaan ko ruqsat kiya ye keh kar
+  Jab barchhi koi maare is chaand se sine se
+  Na dhaal hataana
 # source_id: nohayonline:ce8a059426441aed9b77
 # source_url: https://www.nohayonline.com/details_content.php?id=3290
 # raw_sha256: de8111e4f34274f0122bf7f27421760e0a4e8e2be59e0c7c40f64c556e762df7
@@ -75,7 +76,7 @@ romanLyrics: |-
 لیلیٰ نے کہا بیٹے کو سینے سے لگا کر
 
 ۱
-اے میری جاں اکبر جب زخم کوی کھانا
+اے میری جاں اکبر جب زخم کوئی کھانا
 بابا سے چھپانا
 لیلیٰ نے کہا رو کر جب درد ہو سینے میں
 تم ماں کو بتانا
@@ -87,7 +88,7 @@ romanLyrics: |-
 تیرا لاشہ اٹھانا
 
 ۳
-مر جائے جس کا بیٹا وہ کیسے غم اٹھاے
+مر جائے جس کا بیٹا وہ کیسے غم اٹھائے
 تجھ سے لپٹ کے رن میں شبیر مر نہ جائے
 اس ماں کے لئے اکبر آسان نہیں خیموں میں
 دو لاشوں کو لانا
@@ -99,10 +100,10 @@ romanLyrics: |-
 یاد آتے ہیں نانا
 
 ۵
-برچھی کا درد سہہ کے ٹہرو گے کیسے زین پر
+برچھی کا درد سہہ کے ٹھہرو گے کیسے زین پر
 جب دل پہ ہاتھ رکھ کے گرنے لگو زمین پر
-میں تم کو سنبھالوں گی گودی میں اٹھالوں گی
-تم مجھکو بلانا
+میں تم کو سنبھالوں گی گودی میں اٹھا لوں گی
+تم مجھ کو بلانا
 
 ۶
 اے لال صبر کرنا نہ درد سے تڑپنا
@@ -117,7 +118,7 @@ romanLyrics: |-
 زہرا ہے سجانا
 
 ۸
-جب صغرا یاد آی رو رو کے ماں پکاری
+جب صغرا یاد آئی رو رو کے ماں پکاری
 ہے منتظر وطن میں کب سے بہن تمہاری
 یہ بھول نہیں جانا صغرا سے ابھی تم نے
 وعدہ ہے نبھانا
@@ -125,5 +126,5 @@ romanLyrics: |-
 ۹
 زیشان عابدی وہ ماں گر گئی زمین پر
 خیمے سے جب کو رخصت کیا یہ کہہ کر
-جب چھری کوی مارے اس چاند سے سینے سے
+جب چھری کوئی مارے اس چاند سے سینے سے
 نہ ڈھال ہٹانا
