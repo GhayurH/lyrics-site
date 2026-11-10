@@ -12,40 +12,40 @@ published: false
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Ye kaisi rehai hai
-  Abid ki zanjir utari jaati hai
-  Ruh-e-Sakina sadqe wari jaati hai
+  Abid ki zanjir utaari jaati hai
+  Ruh-e-Sakina sadqe waari jaati hai
 
   1
-  Bhai ki turbat par girti hai naqe se
-  Qabr pe jab zainab ki sawari jaati hai
+  Bhai ki turbat par girti hai naaqe se
+  Qabr pe jab Zainab ki sawari jaati hai
 
   2
-  Zindan ki taklif Sakina se puchho
-  Kaise yahan par raat guzari jaati hai
+  Zindaṅ ki taklif Sakina se puchho
+  Kaise yahaṅ par raat guzari jaati hai
 
   3
-  Dhoondne turbat maqtal mein shash maahe ki
+  Dhundne turbat maqtal mein shashmaahe ki
   Ghutniyoṅ chal kar maaṅ bechari jaati hai
 
   4
   Abid ke pairoṅ ka waram jaata hi nahiṅ
-  Saath lehed tak ye beemari jaati hai
+  Saath lahad tak ye bimari jaati hai
 
   5
   Asghar ki mayyat ek aisi mayyat hai
   Qabr mein jo do baar utaari jaati hai
 
   6
-  Roti hai darbar mein ghazi ki ghairat
+  Roti hai darbar mein Ghazi ki ghairat
   Zainab le kar naam pukari jaati hai
 
   7
   Tarapti hai Aun o Mohammad ki yaadeṅ
-  Jab hujron mein maa dukhyari jaati hai
+  Jab hujroṅ mein maaṅ dukhyari jaati hai
 
   8
   Pusht pe Abid ki durroṅ se Shaam talak
-  Zulm ki ek tasvir ubhari jaati hai
+  Zulm ki ek tasvir ubhaari jaati hai
 
   9
   Aamir o Akhtar ashk na roko nauhe mein

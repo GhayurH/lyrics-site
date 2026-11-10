@@ -13,64 +13,66 @@ reciter: "Shahid Baltistani"
 romanLyrics: |-
   Haye bimar haye bimar
   Ranj o alam mein dubi Abid ki kahani
-  Pairoṅ mein aable haiṅ aankhoṅ se aṅsuoṅ ki
+  Pairoṅ mein aable haiṅ aankhoṅ se aansuoṅ ki
   Hoti hai rawani
+  Ranj o alam mein dubi Abid ki kahani
 
   1
-  Is baat ka nahiṅ gham bazar behaya hai
+  Is baat ka nahiṅ gham bazaar behaya hai
   Ummat ki berukhi hai ummat se hi gila hai
-  Zainab bhi berida hai badli hai zaeefi mein
+  Zainab bhi berida hai badli hai zaifi mein
   Abid ki jawani
 
   2
-  Qaari namazi hafiz haaji khade huwe thay
-  Bazaron mein musalman saare bhare huwe thay
-  Zainab ki pusht par hi bemaar e sareban ki
+  Qaari namazi hafiz haaji khare hue the
+  Bazaaroṅ mein musalman saare bhare hue the
+  Zainab ki pusht par hi bimar-e-saarbaṅ ki
   Guzri hai jawani
 
   3
-  Sadaat ke liye hi rahoṅ mein mushkileṅ haiṅ
-  Kore haiṅ aur kante pattharoṅ ki barisheṅ haiṅ
-  Qaime jo karbala mein jalte rahe thay ya rab
-  Barsa nahi pani
+  Sadaat ke liye hi raahoṅ mein mushkileṅ haiṅ
+  Kore haiṅ aur kaante pattharoṅ ki baarisheṅ haiṅ
+  Khaime jo Karbala mein jalte rahe the ya Rab
+  Barsa nahiṅ pani
 
   4
-  Jab karbala ko aaye choota watan madina
-  Choda jo karbala ko tanha hui sakina
-  Sarwar ki shaahzadi kaise sahegi ya rab
-  Zindan ki veerani
+  Jab Karbala ko aaye chhuta watan Madina
+  Chhora jo Karbala ko tanha hui Sakina
+  Sarwar ki shahzadi kaise sahegi ya Rab
+  Zindaṅ ki virani
 
   5
-  Sajjad ko imamat deti hai shaam e ghurbat
-  Mazloom sayyedon se kehti hai shaam e ghurbat
-  Purse mein de rahi hoo bemaar ko aseeri
+  Sajjad ko imamat deti hai shaam-e-ghurbat
+  Mazlum sayyadoṅ se kehti hai shaam-e-ghurbat
+  Purse mein de rahi huṅ bimar ko asiri
   Karbal ko kahani
 
   6
   Na mahramoṅ mein Zainab beparda jab khari thi
-  Ummat ki teri nana ghairat kahan gayi thi
-  Majma laga hua tha zainab jo pad rahi thi
-  Aayat-e-Qurani
+  Ummat ki teri nana ghairat kahaṅ gayi thi
+  Majma laga hua tha Zainab jo parh rahi thi
+  Aayaat-e-Qurani
 
   7
-  Saaya hata hi tha ke abbas ke bharam ka
-  Aaghaz hogaya tha sadaat pe sitam ka
-  Deti rahi dilaasa pardes mein zainab ko
+  Saaya hata hi tha ke Abbas ke bharam ka
+  Aaghaz ho gaya tha Sadaat pe sitam ka
+  Deti rahi dilaasa pardes mein Zainab ko
   Ghazi ki nishani
 
   8
   Sajjad jis tarah se aankhoṅ se khun roya
-  Armaan wo qalam se kaise bayan hoga
+  Armaan wo qalam se kaise bayaan hoga
   Bedar ho gaye hum matam bata raha hai
-  Nauhon ki zubani
+  Nauhoṅ ki zubani
 # source_id: nohayonline:64b2dfb023e409f31955
 # source_url: https://www.nohayonline.com/details_content.php?id=2709
 # raw_sha256: 2465462f5f147522aa6778cb2b8ef7b61772076c66fc75d31b67af5d5e3dac1d
 ---
 ہاے بیمار ہاے بیمار
 رنج و الم میں ڈوبی عابد کی کہانی
-پیروں میں آبلے ہے آنکھوں سے آنسوؤں کی
+پیروں میں آبلے ہیں آنکھوں سے آنسوؤں کی
 ہوتی ہے روانی
+رنج و الم میں ڈوبی عابد کی کہانی
 
 ۱
 اس بات کا نہیں غم بازار بے حیا ہے
@@ -80,19 +82,19 @@ romanLyrics: |-
 
 ۲
 قاری نمازی حافظ حاجی کھڑے ہوئے تھے
-بازاروں میں مسلمان سارے بھرے ہوے تھے
+بازاروں میں مسلمان سارے بھرے ہوئے تھے
 زینب کی پشت پر ہی بیمار سارباں کی
 گزری ہے جوانی
 
 ۳
-سادات کے لئے ہی راہوں میں مشکلیں ہے
-کوڑے ہے اور کانٹے پتھروں کی بارشیں ہے
+سادات کے لئے ہی راہوں میں مشکلیں ہیں
+کوڑے ہیں اور کانٹے پتھروں کی بارشیں ہیں
 خیمے جو کربلا میں جلتے رہے تھے یا رب
 برسا نہیں پانی
 
 ۴
-جب کربلا کو آے چھوٹا وطن مدینہ
-چھوڑا جو کربلا کو تنہا ہوی سکینہ
+جب کربلا کو آئے چھوٹا وطن مدینہ
+چھوڑا جو کربلا کو تنہا ہوئی سکینہ
 سرور کی شاہزادی کیسے سہے گی یا رب
 زنداں کی ویرانی
 
