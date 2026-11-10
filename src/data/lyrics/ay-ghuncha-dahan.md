@@ -1,66 +1,67 @@
 ---
 title: "اے غنچہ دہن بیکس دولہا"
-alternateTitle: "Ay Ghuncha Dahan"
+alternateTitle: "Ae Ghuncha Dahan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ghayour"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Ghuncha Dahan"]
 published: false
 romanLyrics: |-
-  Ay ghuncha dahan bekas dulha
-  Ay seem badan bekas dulha
+  Ae ghuncha dahan bekas dulha
+  Ae sim badan bekas dulha
   Mujre ke liye aayi hai utho
   Nashaad dulhan bekas dulha
 
   1
-  Dunya se nayi ye shadi hai
-  Dono hi taraf barbadi hai
+  Dunya se nayi ye shaadi hai
+  Donoṅ hi taraf barbaadi hai
   Shabbir ki beti bewa dulhan
-  Aur ibne hassan bekas dulha
+  Aur Ibn-e-Hasan bekas dulha
 
   2
   Hai khauf mujhe naraaz na ho
   Marzi hai tumhari kya bolo
-  Mai haath may ab kangna rakhun
-  Ya rakhun rasan bekas dulha
+  Maiṅ haath mein ab kangna rakhuṅ
+  Ya rakhuṅ rasan bekas dulha
 
   3
-  Hum naam hoo mai bhi dadi ki
-  Hai tum ko qasm is shaadi ki
-  Banwado mujhe bhi rone ko
+  Hamnaam huṅ maiṅ bhi daadi ki
+  Hai tum ko qasam is shaadi ki
+  Bandhwa do mujhe bhi rone ko
   Ek bait ul hazan bekas dulha
 
   4
   Tha mujhko tumhare ghar chalne
-  Laazim tha tumhe mil kar chalna
-  Raste hi may mujhko chod gaye
-  Hai door watan bekas dulha
+  Laazim tha tumheṅ mil kar chalna
+  Raste hi mein mujhko chhor gaye
+  Hai dur watan bekas dulha
 
   5
-  Ye bekhabari mujhse qasim
-  Chilte hai mere paonche qasim
-  Khulwado ke uljhi jaati hai
-  Kangne may rasan bekas dulha
+  Ye bekhabari mujh se Qasim
+  Chhilte haiṅ mere pahunche Qasim
+  Khulwa do ke uljhi jaati hai
+  Kangne mein rasan bekas dulha
 
   6
-  Jao shahe deen ke paas utho
-  Aate hai mujhe wiswas utho
-  Sab roote hai tum ko keh kar
+  Jaao Shah-e-diṅ ke paas utho
+  Aate haiṅ mujhe waswaas utho
+  Sab rote haiṅ tum ko keh keh kar
   Be gor o kafan bekas dulha
 
   7
-  Sab kehte hai ab mujhko bewa
+  Sab kehte haiṅ ab mujhko bewa
   Batlao mujhe ye baat hai kya
-  Ye log mujh hi ko kehte thay
+  Ye log mujh hi ko kehte the
   Ek shab ki dulhan bekas dulha
 
   8
-  Dunya may ghayoor aisa asla
-  Insan ne nahi matam dekha
-  Laashe pa bane ke kehti thi
+  Dunya mein Ghayur aisa asla
+  Insaan ne nahiṅ maatam dekha
+  Laashe pe bane ke kehti thi
   Ro ro ke dulhan bekas dulha
 # source_id: nohayonline:fc17095db06b738ff82a
 # source_url: https://www.nohayonline.com/details_content.php?id=2009
@@ -69,11 +70,11 @@ romanLyrics: |-
 
 اے غنچہ دہن بیکس دولہا
 اے سیم بدن بیکس دولہا
-مجرے کے لئے آی ہے اٹھو
+مجرے کے لئے آئی ہے اٹھو
 ناشاد دلہن بیکس دولہا
 
 ۱
-دنیا سے نیء یہ شادی ہے
+دنیا سے نئی یہ شادی ہے
 دونوں ہی طرف بربادی ہے
 شبیر کی بیٹی بیوہ دلہن
 اور ابنِ حسن بیکس دولہا
@@ -93,7 +94,7 @@ romanLyrics: |-
 ۴
 تھا مجھکو تمہارے گھر چلنے
 لازم تھا تمہیں مل کر چلنا
-رستے ہی میں مجھکو چھوڑ گےء
+رستے ہی میں مجھکو چھوڑ گئے
 ہے دور وطن بیکس دولہا
 
 ۵
