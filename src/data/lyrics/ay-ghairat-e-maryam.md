@@ -1,53 +1,54 @@
 ---
 title: "اے غیرتِ مریم تیرا بازار میں آنا"
-alternateTitle: "Ay Ghairat-e-maryam"
+alternateTitle: "Ae Ghairat-e-Maryam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sada e Gham"
+reciter: "Hasan Ayaz Jafri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Ghairat-e-maryam"]
 published: false
 romanLyrics: |-
-  Ay ghairat-e-maryam tera bazaar may aana
-  Na bhool sakega tujhe ta hashr zamana
+  Ae ghairat-e-Maryam tera baazaar mein aana
+  Na bhul sake ga tujhe taa hashr zamaana
 
   1
-  Kyun zainab-o-kulsoom ki chinti hai ridayein
-  Jao aray logon mere ghazi ko bulana
+  Kiuṅ Zainab o Kulsum ki chhinti haiṅ ridaaeṅ
+  Jaao are logo mere Ghazi ko bulaana
 
   2
-  Tu dukhtare zehra hai nawasi hai nabi ki
-  Baazar may sar nange tera khutba sunana
+  Tu dukhtar-e-Zehra hai nawaasi hai Nabi ki
+  Baazaar mein sar nange tera khutba sunaana
 
   3
-  Neend aaye bhala kaise sakina ko zameen par
-  Tune hi sikhaya isay seene pe sulaana
+  Nind aaye bhala kaise Sakina ko zamiṅ par
+  Tu ne hi sikhaaya ise sine pe sulaana
 
   4
-  Uth'ti nahi baba se teri laash ali akbar
-  Tha tune to beta meri mayyat ko uthana
+  Uthti nahiṅ baaba se teri laash Ali Akbar
+  Tha tu ne to beta meri mayyat ko uthaana
 
   5
-  Jis dar pe salami diya karte thay payambar
-  Thehro ay musalmano wohi ghar na jalana
+  Jis dar pe salaami diya karte the payambar
+  Thehro ae musalmaanoṅ wohi ghar na jalaana
 
   6
-  Islam pe do beton ko qurban kiya hai
-  Kismat may teri likha hai ye daag uthana
+  Islam pe do betoṅ ko qurbaan kiya hai
+  Qismat mein teri likha hai ye daagh uthaana
 
   7
-  Ay dukhtare hyder wo qayamat ki ghadi thi
-  Sar nange tera shaam ke darbaar may jaana
+  Ae dukhtar-e-Haidar wo qayaamat ki ghari thi
+  Sar nange tera Shaam ke darbaar mein jaana
 
   8
-  Mar jaate hai shauhar to panah dete hai bhai
-  Kubra kahan jaaye na raha koi thikana
+  Mar jaate haiṅ shauhar to panaah dete haiṅ bhaai
+  Kubra kahaaṅ jaaye na raha koi thikaana
 
   9
   Ye majlis o maatam ki bina tere hi dam se
-  Paaya hai azadaar ne bakhshish ka banana
+  Paaya hai azaadaar ne bakhshish ka banaana
 # source_id: nohayonline:9b1a9e2de0a831f7a4c4
 # source_url: https://www.nohayonline.com/details_content.php?id=547
 # raw_sha256: aec06ea2eb81aefa7faac3edda9f61d29a254696999b97e05f8abd637fe71c38

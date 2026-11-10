@@ -1,57 +1,58 @@
 ---
 title: "اب نہیں جینے کی کچھ آس اے غازی عباس"
-alternateTitle: "Ay Ghazi Abbas"
+alternateTitle: "Ae Ghazi Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Ghazi Abbas"]
 published: false
 romanLyrics: |-
-  Ab nahi jeene ki kuch aas ay ghazi abbas
-  Mai bhi aata hoo tere paas ay ghazi abbas
+  Ab nahiṅ jine ki kuchh aas ae Ghazi Abbas
+  Main bhi aata huṅ tere paas ae Ghazi Abbas
 
   1
-  Dard tum mujhse judaai ka na seh paoge
-  Bin mere khuld e bari mein bhi reh paoge
-  Mujhse ulfat jo hai kuch khaas ay ghazi abbas
+  Dard tum mujh se judaai ka na seh paao ge
+  Bin mere khuld-e-bariṅ mein bhi reh paao ge
+  Mujh se ulfat jo hai kuchh khaas ae Ghazi Abbas
 
   2
-  Shaane ye tere nahi baazu kata hai mera
-  Bhai chautees baras waala chuta hai mera
-  Ho gaya mujhko ye ehsaas ay ghazi abbas
+  Shaane ye tere nahiṅ baazu kata hai mera
+  Bhaai chautis baras waala chhuta hai mera
+  Ho gaya mujhko ye ehsaas ae Ghazi Abbas
 
   3
-  Kab se deta hoo sada khaak se ab uth jao
-  Aakhri baar kaleje se mere lag jao
-  Nehr aayi na tumhe raas ay ghazi abbas
+  Kab se deta huṅ sada khaak se ab uth jaao
+  Aakhri baar kaleje se mere lag jaao
+  Nehr aai na tumheṅ raas ae Ghazi Abbas
 
   4
-  Aankh ke saamne laasha hai mere bhai ka
-  Ashkiyan dete hai taana mujhe tanhaai ka
-  Kya nahi tum ko ye ehsaas ay ghazi abbas
+  Aankh ke saamne laasha hai mere bhaai ka
+  Ashqiya dete haiṅ taana mujhe tanhaai ka
+  Kya nahiṅ tum ko ye ehsaas ae Ghazi Abbas
 
   5
-  Kaise le jaun mai qaime mein alam ko bhaiya
-  Tumse dhaaras thi bahot ahle haram ko bhaiya
-  Sab ki ab toot gayi aas ay ghazi abbas
+  Kaise le jaauṅ main khaime mein alam ko bhaiya
+  Tum se dhaaras thi bahut ahl-e-haram ko bhaiya
+  Sab ki ab tut gai aas ae Ghazi Abbas
 
   6
-  Utho sharminda hai ab tashna dahani tumse
-  Haye maangegi na hargiz kabhi pani tumse
-  Ab sakina ko nahi pyaas ay ghazi abbas
+  Utho sharminda hai ab tashna dahaani tum se
+  Haaye maange gi na har giz kabhi paani tum se
+  Ab Sakina ko nahiṅ pyaas ae Ghazi Abbas
 
   7
-  Aa gaya sakht musibat mein safeena mera
+  Aa gaya sakht musibat mein safina mera
   Aa ke pardes mein chatka hai nagina mera
-  Toot'ta hai mera almaas ay ghazi abbas
+  Tutta hai mera almaas ae Ghazi Abbas
 
   8
-  Ainee qaime mein jo abbas ka parcham paaya
-  Jo bhi behosh tha aamir wo labe dam aaya
-  Shor utha ye basad yaas ay ghazi abbas
+  Aini khaime mein jo Abbas ka parcham paaya
+  Jo bhi behosh tha Aamir wo lab-e-dam aaya
+  Shor utha ye basad yaas ae Ghazi Abbas
 # source_id: nohayonline:c28565f34ef99b7a7cd4
 # source_url: https://www.nohayonline.com/details_content.php?id=1274
 # raw_sha256: 57c4383e15df347f7e262ecc3b77579e65d3fc33b1766599c22a7980c59df7ed

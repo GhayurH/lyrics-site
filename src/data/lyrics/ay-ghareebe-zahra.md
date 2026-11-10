@@ -1,58 +1,59 @@
 ---
 title: "اے غریب زہرا اے غریب زہرا"
-alternateTitle: "Ay Ghareebe Zahra"
+alternateTitle: "Ae Gharib-e-Zahra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Ghareebe Zahra"]
 published: false
 romanLyrics: |-
-  Ay ghareeb e zahra ay ghareeb e zahra
-  Asr e ashoor ye ek maa ki hai maqtal mein sada
-  Ay ghareeb e zahra ay ghareeb e zahra
-  
+  Ae gharib-e-Zahra ae gharib-e-Zahra
+  Asr-e-Ashur ye ek maaṅ ki hai maqtal mein sada
+  Ae gharib-e-Zahra ae gharib-e-Zahra
+
   1
-  Mere bete mai teri pyaas bujhaun kaise
-  Kund khanjar se tujhe laal bachaun kaise
-  Khaak maqtal mein uda kar ye pukari mamta
-  
+  Mere bete main teri pyaas bujhaauṅ kaise
+  Kund khanjar se tujhe laal bachaauṅ kaise
+  Khaak maqtal mein ura kar ye pukaari mamta
+
   2
-  Subhe ashoor se ab tak thay jo muztar laashe
-  Tu ne kaandhon pe uthaye wo ekhattar laashe
-  Gham ye hai tujhko mayassar nahi koi kaandha
-  
+  Subh-e-Ashur se ab tak the jo muztar laashe
+  Tu ne kaandhoṅ pe uthaaye wo ikhattar laashe
+  Gham ye hai tujhko mayassar nahiṅ koi kaandha
+
   3
-  Teer hi teer badan mein hai nikaale koi
-  Maa tadapti hai tujhe laal bachaale koi
-  Phir ye boli tera akbar tera ghazi na raha
-  
+  Tir hi tir badan mein hai nikaale koi
+  Maaṅ tarapti hai tujhe laal bacha le koi
+  Phir ye boli tera Akbar tera Ghazi na raha
+
   4
-  Shimr khanjar na chala maa ye tadap kar boli
-  Mar chuka laal mera waqte zohr pehle hi
-  Qasim o akbar o asghar ka utha kar laasha
-  
+  Shimr khanjar na chala maaṅ ye tarap kar boli
+  Mar chuka laal mera waqt-e-zohr pehle hi
+  Qasim o Akbar o Asghar ka utha kar laasha
+
   5
-  Mere shabbir ki hai teeron pe mayyat ghazi
-  Hai sabab iska tumhari ye shahadat ghazi
-  Laashe abbas pe maa kehti hai kar ke girya
-  
+  Mere Shabbir ki hai tiroṅ pe mayyat Ghazi
+  Hai sabab is ka tumhaari ye shahaadat Ghazi
+  Laash-e-Abbas pe maaṅ kehti hai kar ke girya
+
   6
-  Qatl ke baad ye sadma mujhe tadpayega
-  Sar e naiza mere bete tera sar jayega
-  Sang maarega tere sar pe ye shaam o kufa
-  
+  Qatl ke baad ye sadma mujhe tarpaaye ga
+  Sar-e-naiza mere bete tera sar jaaye ga
+  Sang maare ga tere sar pe ye Shaam o Kufa
+
   7
-  Shimr se apni sakina ko bachana beta
-  Tum wahan jaa ke usay saath mein laana beta
-  Qaid khane mein sakina jo kare wavaila
-  
+  Shimr se apni Sakina ko bachaana beta
+  Tum wahaaṅ jaa ke use saath mein laana beta
+  Qaid khaane mein Sakina jo kare waawaila
+
   8
-  Hai ye waada tere yasir ko shifa'at doongi
-  Tere ghamkhwar ko jannat ki zamanat doongi
-  Jab bhi sajid mujhe dega tere gham ka pursa
+  Hai ye waada tere Yasir ko shafaat duṅ gi
+  Tere gham khwaar ko jannat ki zamaanat duṅ gi
+  Jab bhi Sajid mujhe de ga tere gham ka pursa
 # source_id: nohayonline:248bad3739befec70ad8
 # source_url: https://www.nohayonline.com/details_content.php?id=2794
 # raw_sha256: 8c8fa650bd24ae930305da7c18488d20c389bfaec7bf4da5f2063660980b17fe

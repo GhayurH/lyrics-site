@@ -1,47 +1,48 @@
 ---
 title: "اے فاطمہ کے لال تجھے آخری سلام"
-alternateTitle: "Ay Fatema Ke Laal"
+alternateTitle: "Ae Fatema Ke Laal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Fatema Ke Laal"]
 published: false
 romanLyrics: |-
-  Ay fatema ke laal tujhe aakhri salaam
-  Tujhko wida karne ko aaye hai ye ghulam
+  Ae Fatema ke laal tujhe aakhri salaam
+  Tujhko wida karne ko aaye haiṅ ye ghulaam
 
   1
-  Kaisi udasiyan hai ye ghurbat ka waqt hai
+  Kaisi udaasiyaaṅ hai ye ghurbat ka waqt hai
   Hum par ye aaj kaisi musibat ka waqt hai
-  Bazme azaa se aap ki ruqsat ka waqt hai
-  Raunaq hamare ghar ki na le jaaiye imam
+  Bazm-e-azaa se aap ki ruqsat ka waqt hai
+  Raunaq hamaare ghar ki na le jaaiye Imam
 
   2
-  Hamshakle mustafa ali akbar ki wo azaan
-  Tadpaati hai ali asghar ki hichkiyan
-  Ab chaa rahi hai haye ye kaisi khamoshiyan
-  Ayyam ye azaa ke huwe jaate hai tamam
+  Hamshakl-e-Mustafa Ali Akbar ki wo azaaṅ
+  Tarpaati hai Ali Asghar ki hichkiyaaṅ
+  Ab chhaa rahi hai haaye ye kaisi khamoshiyaaṅ
+  Ayyaam ye azaa ke hue jaate haiṅ tamaam
 
   3
-  Qaimon ki aag aur wo har simt shor o shain
-  Wo al-atash ki goonj wo kamsin labon ke bain
-  Durre tamache aur wo har lab pa ya hussain
-  Aankhon mein ab bhi baaqi hai wo karbala ki shaam
+  Khaimoṅ ki aag aur wo har simt shor o shain
+  Wo al-atash ki gunj wo kamsin laboṅ ke bain
+  Durre tamaache aur wo har lab pe ya Husain
+  Aankhoṅ mein ab bhi baaqi hai wo Karbala ki shaam
 
   4
-  Akbar salaam ay ali asghar tujhe salaam
-  Farwa ke chand qasim e muztar tujhe salaam
-  Abbas ay hussain ke lashkar tujhe salaam
-  Ay bekas o ghareeb mere tashnalab imam
+  Akbar salaam ae Ali Asghar tujhe salaam
+  Farwa ke chaand Qasim-e-Muztar tujhe salaam
+  Abbas ae Husain ke lashkar tujhe salaam
+  Ae bekas o gharib mere tashna lab Imam
 
   5
-  Maula ye hai rasheed shaheedi ki ilteja
-  Pahunchade hum ghulamon ko ab jald karbala
-  Matam karenge phir tere rauze pa hum tera
-  Hum se no saki teri khidmat shahe anaam
+  Maula ye hai Rasheed Shaheedi ki iltejaa
+  Pahuncha de hum ghulaamoṅ ko ab jald Karbala
+  Maatam kareṅ ge phir tere rauze pe hum tera
+  Hum se na ho saki teri khidmat Shah-e-Anaam
 # source_id: nohayonline:5cc340e53bf22f539393
 # source_url: https://www.nohayonline.com/details_content.php?id=3544
 # raw_sha256: 9f01897e3b3d115501fe5fcd17a2f5eae7934c187c68363ccf6d720e7ec9f562
