@@ -11,86 +11,86 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jo thi kaunain ki shaahzadi
-  Sar barehna sar-e-Sham aai
-  Kiun na Fizza ye de ab duhaai
+  Jo thi kaunain ki shahzaadi
+  Sar barehna sar-e-Shaam aai
+  Kiuṅ na Fizza ye de ab duhaai
   Behen Abbas ki berida hai
 
   1
-  Allah allah qayamat bapa hai
+  Allah Allah qayamat bapa hai
   Behen Abbas ki berida hai
-  Ye sitam dil pe sab se bada hai
+  Ye sitam dil pe sab se bara hai
   Behen Abbas ki berida hai
 
   2
   Main to aai thi tere sahare
   So gaya tu to darya kinare
-  Shaam jayegi kis tarha zainab
+  Shaam jaayegi kis tarah Zainab
   Dil tadapne laga gham ke maare
-  Bibiyon ke labon par buka hai
+  Bibiyoṅ ke laboṅ par buka hai
   Behen Abbas ki berida hai
 
   3
-  Ae Alamdar-e-Ghazi dua kar
+  Ae Alamdaar-e-Ghaazi dua kar
   Gham se mar jaaye na teri khwahar
   Ae Khuda-e-wafa ye bata de
-  Zabt kaise karun is sitam par
-  Shimr has kar yehi keh raha hai
+  Zabt kaise karuṅ is sitam par
+  Shimr hans kar yehi keh raha hai
   Behen Abbas ki berida hai
 
   4
-  Ban gaya mera sajjad qaidi
-  Tauq pehne hai aur bediyan bhi
-  Khaafile ka yehi saareban hai
-  Is ki ghairat ye nauha karegi
-  Ab to ehsaas jeena saza hai
+  Ban gaya mere Sajjad qaidi
+  Tauq pehne hai aur beriyaṅ bhi
+  Qaafile ka yehi saarbaaṅ hai
+  Is ki ghairat nauha karegi
+  Ab to ehsaas jina saza hai
   Behen Abbas ki berida hai
 
   5
   Baad tere ye pehla safar hai
-  Har qadam gham se chalni jigar hai
+  Har qadam gham se chhalni jigar hai
   Aaj mehmil hai aur na kajawa
-  Aur zainab pe sab ki nazar hai
-  Tu nahi saath ye gham chala hai
+  Aur Zainab pe sab ki nazar hai
+  Tu nahiṅ saath ye gham chala hai
   Behen Abbas ki berida hai
 
   6
   Log apne na apna watan hai
   Bas isi gham ki dil mein chubhan hai
-  Kaise parda karun tu batade
-  Mujhko jhakde huwe jo rasan hai
+  Kaise parda karuṅ tu bata de
+  Mujhko jakre hue jo rasan hai
   Dil yehi soch kar ro raha hai
   Behen Abbas ki berida hai
 
   7
-  Jab suni bekason ki sadayein
-  Aasman ro pada aur hawayein
-  Ro ke sajjad bhi keh raha hai
-  Koi lillaah de de ridayein
-  Kaise ajr e risalat mila hai
+  Jab suni bekasoṅ ki sadaaeṅ
+  Aasmaaṅ ro para aur hawaaeṅ
+  Ro ke Sajjad bhi keh raha hai
+  Koi lillaah de de ridaaeṅ
+  Kaise ajr-e-risaalat mila hai
   Behen Abbas ki berida hai
 
   8
-  Bain fizza ke lab par yehi hai
-  Ya ali ye madad ki ghadi hai
-  Dekh darbar hai ashkiyan ka
-  Aur beparda aale nabi hai
-  Waqt sajjad par ye kada hai
+  Bain Fizza ke lab par yehi haiṅ
+  Ya Ali ye madad ki ghari hai
+  Dekh darbaar hai ashqiyaa ka
+  Aur beparda Aal-e-Nabi hai
+  Waqt Sajjad par ye kara hai
   Behen Abbas ki berida hai
 
   9
-  Shimr se jab ye haakim ne poocha
-  Tu bata tera in'aam ho kya
-  Bola badzaat haakim se has kar
-  Haal tu dekh in qaidiyon ka
-  Mujhko in'aam ye mil gaya hai
+  Shimr se jab ye haakim ne puchha
+  Tu bata tera inaam ho kya
+  Bola badzaat haakim se hans kar
+  Haal tu dekh in qaidiyoṅ ka
+  Mujhko inaam ye mil gaya hai
   Behen Abbas ki berida hai
 
   10
-  Ro ke safdar se kehta hai mazhar
-  Likh nahi sakta koi sukhanwar
-  Jo sitam meri bibi pe toote
-  Baad shere jari shaam jaa kar
+  Ro ke Safdar se kehta hai Mazhar
+  Likh nahiṅ sakta koi sukhanwar
+  Jo sitam meri Bibi pe tute
+  Baad sher-e-jari Shaam jaa kar
   Bas ye misra hi khud marsiya hai
   Behen Abbas ki berida hai
 # source_id: nohayonline:9d84fd2c6bae82dd6f18
@@ -113,7 +113,7 @@ romanLyrics: |-
 سو گیا تو تو دریا کنارے
 شام جائے گی کس طرح زینب
 دل تڑپنے لگا غم کے مارے
-بی بیوں کے لبوں پر بکا ہے
+بی‌بیوں کے لبوں پر بکا ہے
 بہن عباس کی بے ردا ہے
 
 ۳
@@ -145,7 +145,7 @@ romanLyrics: |-
 بس اسی غم کی دل میں چبھن ہے
 کیسے پردہ کروں تو بتا دے
 مجھکو جکڑے ہوئے جو رسن ہے
-دل ‌یہی سوچ کر رو رہا ہے
+دل یہی سوچ کر رو رہا ہے
 بہن عباس کی بے ردا ہے
 
 ۷
@@ -175,7 +175,7 @@ romanLyrics: |-
 ۱۰
 رو کے صفدر سے کہتا ہے مظہر
 لکھ نہیں سکتا کوئی سخنور
-جو ستم میری بی بی پہ ٹوٹے
+جو ستم میری بی‌بی پہ ٹوٹے
 بعد شیر جری شام جا کر
 بس یہ مصرہ ہی خود مرثیہ ہے
 بہن عباس کی بے ردا ہے
