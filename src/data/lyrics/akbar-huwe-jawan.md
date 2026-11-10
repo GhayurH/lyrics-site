@@ -11,20 +11,20 @@ aliases: []
 published: false
 reciter: "Afzal Mirza"
 romanLyrics: |-
-  Akbar hue jawaṅ jo bachpan guzar ke
-  Laila ye samjhi aae haiṅ ab din bahar ke
+  Akbar hue jawaṅ jo bachpan guzaar ke
+  Laila ye samjhi aae haiṅ ab din bahaar ke
 
   1
   Ye kab khabar thi aaegi pardes mein qaza
-  Arman na hoṅge pure dil-e-sogwar ke
+  Armaan na hoṅge pure dil-e-sogwaar ke
 
   2
-  Akbar ko raas aaya na atharhwaṅ baras
-  Luta khizaṅ ne daur mein fasleṅ bahar ke
+  Akbar ko raas aaya na athaarwaṅ baras
+  Luta khizaaṅ ne daur mein fasleṅ bahaar ke
 
   3
-  Husn-e-jawani-e-Ali Akbar ko dekhiye
-  Laila sirhane baithi hai zulfeṅ saṅwar ke
+  Husn-e-jawaani-e-Ali Akbar ko dekhiye
+  Laila sirhaane baithi hai zulfeṅ sanwaar ke
 
   4
   Hamshakl-e-Mustafa pe bhi aaya na kuchh taras
@@ -32,10 +32,10 @@ romanLyrics: |-
 
   5
   Barchhi ka phal hai sine mein hichki hai maut ki
-  Sheh ko salam karte haiṅ Akbar pukar ke
+  Sheh ko salaam karte haiṅ Akbar pukaar ke
 
   6
-  Laila ke dil mein reh gaya arman byaah ka
+  Laila ke dil mein reh gaya armaan byaah ka
   Baithi hai ghamrasida muqaddar se haar ke
 
   7
@@ -43,28 +43,28 @@ romanLyrics: |-
   Maaṅ dekh kar tarapne lagi chikh maar ke
 
   8
-  Kubra ka ye bayan tha madar se baar baar
-  Behnoṅ ko de do bhai ka sadqa utar ke
+  Kubra ka ye bayaan tha maadar se baar baar
+  Behnoṅ ko de do bhai ka sadqa utaar ke
 
   9
   Afsos tin roz ke pyase hue shahid
-  Kumla gaye haiṅ hont mere gulzar ke
+  Kumla gaye haiṅ hont mere gulzaar ke
 
   10
   Maaṅ ki lahad pe aaoge parhne ko fatiha
-  Baithoge tum qarib hamare mazar ke
+  Baithoge tum qarib hamaare mazaar ke
 
   11
   Muddat se dil mein maaṅ ke tamanna thi mere laal
-  Shadi teri rachauṅgi sadqa utar ke
+  Shaadi teri rachaauṅgi sadqa utaar ke
 
   12
   Baad-e-Husain Ahl-e-Haram haiṅ barehna sar
-  Zalim ridaeṅ le gaye sar se utar ke
+  Zaalim ridaaeṅ le gaye sar se utaar ke
 
   13
   Bas aakhri ye dil ki tamanna hai Ae Qamar
-  Rauze pe jald pahunche Shah-e-Namdar ke
+  Rauze pe jald pahunche Shah-e-Naamdaar ke
 # source_id: nohayonline:e275988ea56b5bb24cb8
 # source_url: https://www.nohayonline.com/details_content.php?id=1879
 # raw_sha256: 1600f219f0caeadbdf49a59f65ed23b1e6d781cc7f4ad0b8a49f1ee5ff4c5990
@@ -105,7 +105,7 @@ romanLyrics: |-
 بہنوں کو دے دو بھائی کا صدقہ اتار کے
 
 ۹
-افسوس تین روز کے پیاسے ہوے شہید
+افسوس تین روز کے پیاسے ہوئے شہید
 کملا گئے ہیں ہونٹ میرے گلزار کے
 
 ۱۰

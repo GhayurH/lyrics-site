@@ -1,5 +1,5 @@
 ---
-title: "غربت کی گھڑی یہ آی آنکھوں سے چلی بینای"
+title: "غربت کی گھڑی یہ آئی آنکھوں سے چلی بینائی"
 alternateTitle: "Akbar Hame Mar"
 language: "Urdu"
 lang: "ur"
@@ -11,51 +11,51 @@ aliases: []
 published: false
 reciter: "Mir Hassan Mir"
 romanLyrics: |-
-  Ghurbat ki ghari ye aai aankhoṅ se chali binai
-  Tum ghar se chale ho aise jaata hai janaza jaise
+  Ghurbat ki ghari ye aai aankhoṅ se chali binaai
+  Tum ghar se chale ho aise jaata hai janaaza jaise
   Haye Akbar Haye Akbar
   Akbar hameṅ mar jaane do phir marne ko jaana
-  Mushkil hai zaifi mein jawaṅ laash uthana
+  Mushkil hai zaifi mein jawaṅ laash uthaana
 
   1
-  Phir laut ke aaegi na maqtal se sawari
-  Maaṅ ko bara arman tha shadi ka tumhari
-  Tabut pe mumkin to nahiṅ sehra sajana
+  Phir laut ke aaegi na maqtal se sawaari
+  Maaṅ ko bara armaan tha shaadi ka tumhari
+  Taabut pe mumkin to nahiṅ sehra sajaana
 
   2
   Khaime se zara dur chalo Ae mere dilbar
   Ye baat na sun le kahiṅ Zainab meri aa kar
-  Ae laal tera sina hai nezoṅ ka nishana
+  Ae laal tera sina hai nezoṅ ka nishaana
 
   3
-  Maṅgo na qaza mujh se tarapta hai mera dil
+  Maango na qaza mujh se tarapta hai mera dil
   Qismat ki lakiroṅ ka badalna nahiṅ mushkil
-  Hum umr barha deṅge zara haath dikhana
+  Hum umr barha deṅge zara haath dikhaana
 
   4
-  Abbas ka marna hai meri maut ka elan
+  Abbas ka marna hai meri maut ka elaan
   Kuchh rahm karo meri zaifi pe meri jaan
-  Aasan nahiṅ sine se barchhi ka chhurana
+  Aasaan nahiṅ sine se barchhi ka chhuraana
 
   5
   Mazlum ki tuti hai kamar aas na toro
-  Ae laal mere samne yuṅ haath na joro
-  Achha nahiṅ lagta hameṅ har baar batana
+  Ae laal mere saamne yuṅ haath na joro
+  Achha nahiṅ lagta hameṅ har baar bataana
 
   6
-  Neza dil-e-nazuk mein utarta hua dekhuṅ
+  Neza dil-e-naazuk mein utarta hua dekhuṅ
   Main zinda rahuṅ aur tumheṅ marta hua dekhuṅ
   Tum mein nazar aate haiṅ hamesha mujhe Nana
 
   7
-  Utho mere qadmoṅ se ijazat tumheṅ deṅge
+  Utho mere qadmoṅ se ijaazat tumheṅ deṅge
   Achha chalo hum baat agar maan bhi leṅge
-  Mushkil hai bahut Sani-e-Zahra ko manana
+  Mushkil hai bahut Saani-e-Zahra ko manaana
 
   8
-  Akbar gaye maqtal mein gire zin se zamin par
-  Lashe se Takallum ye kaha Sheh ne tarap kar
-  Thehro abhi kuchh der na ho khuld rawana
+  Akbar gaye maqtal mein gire ziṅ se zamiṅ par
+  Laashe se Takallum ye kaha Sheh ne tarap kar
+  Thehro abhi kuchh der na ho khuld rawaana
 # source_id: nohayonline:65b7f7c26969b6ea4e63
 # source_url: https://www.nohayonline.com/details_content.php?id=3622
 # raw_sha256: 39e6eee17d2b402e67077a11fd535f69aa77b37b4b629ecc12687a663734ea80

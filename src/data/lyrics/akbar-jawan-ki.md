@@ -11,17 +11,17 @@ aliases: []
 published: false
 reciter: "Mukhtar Hussain"
 romanLyrics: |-
-  Akbar jawaṅ ki laash pe madar ke haiṅ ye bain
-  Duba hai khun mein mara gaya mera nur-e-ain
+  Akbar jawaṅ ki laash pe maadar ke haiṅ ye bain
+  Duba hai khuṅ mein maara gaya mera nur-e-ain
 
   1
-  Utho Ae beta deti sadaeṅ haiṅ tujh ko maaṅ
-  Shana hila ke bete ka kehti hai ro ro maaṅ
+  Utho Ae beta deti sadaaeṅ haiṅ tujh ko maaṅ
+  Shaana hila ke bete ka kehti hai ro ro maaṅ
   Ae laal kuchh to bolo mile dil ko mere chain
 
   2
-  Ae laal tu hai Baba ka aur mera larla
-  Naraz ho to maaṅ se kaho kya hai majra
+  Ae laal tu hai Baba ka aur mera laadla
+  Naraaz ho to maaṅ se kaho kya hai maajra
   Sun kar ye bain khaime mein hota hai shor o shain
 
   3
@@ -30,27 +30,27 @@ romanLyrics: |-
   Boli kaleja hai kahaṅ Ae Shah-e-Mashriqain
 
   4
-  Lakht-e-jigar ko mere jawani ye kha gayi
-  Shadi ke din the beta tujhe maut aa gayi
-  Sughra ko kya batauṅgi bolo Ya Nur-e-Ain
+  Lakht-e-jigar ko mere jawaani ye khaa gayi
+  Shaadi ke din the beta tujhe maut aa gayi
+  Sughra ko kya bataauṅgi bolo Ya Nur-e-Ain
 
   5
-  Harkat nahiṅ hai jism mein karta nahiṅ kalam
-  Pani pilao aankhoṅ ko kholega tashna kaam
+  Harkat nahiṅ hai jism mein karta nahiṅ kalaam
+  Paani pilaao aankhoṅ ko kholega tashna kaam
   Akbar ko sota dekh ke rote haiṅ Kiuṅ Husain
 
   6
-  Tukre jigar ye hota hai Ae mere naunihal
-  Tanha na chhoro kar lo zaifi ka kuchh khayal
-  Hasrat se chume bete ke madar ne ro ke nain
+  Tukre jigar ye hota hai Ae mere naunihaal
+  Tanha na chhoro kar lo zaifi ka kuchh khayaal
+  Hasrat se chume bete ke maadar ne ro ke nain
 
   7
-  Khun mein haiṅ dube gesu to chehra hai khun bhara
-  Sehra kahaṅ main bandhuṅ bata do koi zara
-  Dulha banauṅ kaise tujhe bol dil ke chain
+  Khuṅ mein haiṅ dube gesu to chehra hai khuṅ bhara
+  Sehra kahaṅ main baandhuṅ bata do koi zara
+  Dulha banaauṅ kaise tujhe bol dil ke chain
 
   8
-  Saib ye piri aur wo Akbar jawaṅ ki laash
+  Saaib ye piri aur wo Akbar jawaṅ ki laash
   Bete ki maiyyat pe hai dil-e-Shah paash paash
   Aankhoṅ ka nur kho gaya kehte haiṅ ye Husain
 # source_id: nohayonline:e286d9db2b1dd2366eec
@@ -82,7 +82,7 @@ romanLyrics: |-
 
 ۵
 حرکت نہیں ہے جسم میں کرتا نہیں کلام
-پانی پلاؤ آنکھوں کو کھولے گا تشنا کام
+پانی پلاؤ آنکھوں کو کھولے گا تشنہ کام
 اکبر کو سوتا دیکھ کے روتے ہیں کیوں حسین
 
 ۶
