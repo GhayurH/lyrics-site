@@ -1,45 +1,46 @@
 ---
 title: "پیاسے خیموں میں مسلسل ہے فغاں اے دریا"
-alternateTitle: "Ay Dariya"
+alternateTitle: "Ae Dariya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Dariya"]
 published: false
 romanLyrics: |-
-  Pyase qaimon may musalsal hai fughan ay dariya
-  Tune ghazi ko chupaya hai kahan ay dariya
+  Pyaase khaimoṅ meiṅ musalsal hai fughaaṅ ae dariya
+  Tu ne Ghaazi ko chhupaaya hai kahaaṅ ae dariya
 
   1
-  Kitni hasrat se takay jaate hai sheh ko abbas
-  Jab se goonji ali akbar ki azan ay dariya
+  Kitni hasrat se take jaate haiṅ Shah ko Abbas
+  Jab se gunji Ali Akbar ki azaaṅ ae dariya
 
   2
-  Mashk par teer jo aaya to ye mehsoos hua
-  Jaise seene may utar aayi sina ay dariya
+  Mashk par tir jo aaya to ye mehsus hua
+  Jaise sine meiṅ utar aayi sinaaṅ ae dariya
 
   3
-  Haath katne pa bhi abbas kay tayvar hai wohi
-  Shaah bach jaye chali jaye ye jaan ay dariya
+  Haath katne pe bhi Abbas ke tewar haiṅ wohi
+  Shaah bach jaaye chali jaaye ye jaaṅ ae dariya
 
   4
-  Jaane kabse dar-e-qaima pa khade hai bache
-  Sukhe honton pa rakhi khushk zaban ay dariya
+  Jaane kab se dar-e-khaima pe khare haiṅ bachche
+  Sukhe hontoṅ pe rakhi khushk zabaaṅ ae dariya
 
   5
-  Noke naiza se utaari gayi zainab ki rida
-  Sogaya khaak pa jab sher-e-jawan ay dariya
+  Nok-e-naiza se utaari gayi Zainab ki rida
+  So gaya khaak pe jab sher-e-jawaaṅ ae dariya
 
   6
-  Tere saahil pa kabhi shaah ke maqtal may kabhi
-  Roti phirti hai musalsal koi maa ay dariya
+  Tere saahil pe kabhi Shaah ke maqtal meiṅ kabhi
+  Roti phirti hai musalsal koi maaṅ ae dariya
 
   7
-  Haye juz sham e ghariban nahi koi shahid
-  Roke kehta hai ye qaimo ka dhuan ay dariya
+  Haaye juz Shaam-e-gharibaaṅ nahiṅ koi Shaahid
+  Ro ke kehta hai ye khaimoṅ ka dhuaaṅ ae dariya
 # source_id: nohayonline:53fb999793a463c8d11b
 # source_url: https://www.nohayonline.com/details_content.php?id=167
 # raw_sha256: 911bd14289bed8ad7e3a1747f478fb0fbc19b317809204a3b49a178838e883ac
