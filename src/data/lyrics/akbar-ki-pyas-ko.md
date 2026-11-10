@@ -13,32 +13,32 @@ reciter: "Mir Bober Ali"
 romanLyrics: |-
   Bhulo na mominoṅ kabhi Sarwar ki pyas ko
   Akbar ki pyas ko Ali Asghar ki pyas ko
-  Ta hashr kiun na satoṅ samandar kareṅ salam
-  Shabbir Ibn-e-Saqi-e-Kausar ki pyas ko
+  Taa hashr kiuṅ na saatoṅ samandar kare salaam
+  Shabbir Ibn-e-Saaqi-e-Kausar ki pyas ko
 
   1
-  Kar lena yaad jab koi pani kare talab
-  Hamshakl-e-Mustafa Ali Akbar ki pyas ko
+  Kar lena yaad jab koi paani kare talab
+  Hamshakl-e-Mustafaa Ali Akbar ki pyas ko
 
   2
   Wo sabr tha ke pyas ka shikwa nahiṅ kiya
-  Lakhoṅ salam Zainab-e-Muztar ki pyas ko
+  Laakhoṅ salaam Zainab-e-Muztar ki pyas ko
 
   3
-  Har mausam-e-aza mein sabileṅ saja ke hum
+  Har mausam-e-azaa mein sabileṅ sajaa ke hum
   Karte raheṅge yaad bahattar ki pyas ko
 
   4
-  Elan kar rahi thi ye in mein zaban-e-khushk
+  Aelaan kar rahi thi ye in mein zabaan-e-khushk
   Aankhoṅ se dekh lo Ali Asghar ki pyas ko
 
   5
   Sine mein tere dil nahiṅ patthar hai Hurmala
-  Kiun tir se bujhata hai Asghar ki pyas ko
+  Kiuṅ tir se bujhaata hai Asghar ki pyas ko
 
   6
-  Chalis saal Sayyed-e-Sajjad kar ke yaad
-  Aṅsu bahate rehte the Sarwar ki pyas ko
+  Chaalis saal Sayyed-e-Sajjaad kar ke yaad
+  Aansu bahaate rehte the Sarwar ki pyas ko
 
   7
   Aae nazar jo mashk o alam tum ko ek saath

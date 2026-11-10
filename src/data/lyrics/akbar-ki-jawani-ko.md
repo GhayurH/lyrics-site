@@ -11,48 +11,48 @@ aliases: []
 published: false
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Akbar ki jawani ko qaza maṅg rahi hai
-  Zehra ke charaghoṅ ko hawa maṅg rahi hai
+  Akbar ki jawaani ko qazaa maaṅg rahi hai
+  Zehra ke charaaghoṅ ko hawaa maaṅg rahi hai
 
   1
-  Faryad hai faryad hai Ya Saqi-e-Kausar
-  Pyasoṅ ka lahu tegh-e-jafa maṅg rahi hai
+  Faryaad hai faryaad hai ya Saaqi-e-Kausar
+  Pyasoṅ ka lahu tegh-e-jafaa maaṅg rahi hai
 
   2
-  Akbar ko mere barchhiyoṅ waloṅ se bacha le
-  Laila ye musalle pe dua maṅg rahi hai
+  Akbar ko mere barchhiyoṅ waaloṅ se bachaa le
+  Laila ye musalle pe duaa maaṅg rahi hai
 
   3
-  Shabbir ki khatir jinheṅ maṅga tha Ali ne
-  Un haathoṅ ko ab Karbobala maṅg rahi hai
+  Shabbir ki khaatir jinheṅ maaṅga tha Ali ne
+  Un haathoṅ ko ab Karbobala maaṅg rahi hai
 
   4
-  Ahmad ki nawasi pe ajab waqt para hai
-  Bazar mein ek ek se rida maṅg rahi hai
+  Ahmad ki nawaasi pe ajab waqt para hai
+  Baazaar mein ek ek se ridaa maaṅg rahi hai
 
   5
-  Ye Asr ka hangam hai utho Ali Akbar
-  Piri Shah-e-Wala ki asa maṅg rahi hai
+  Ye Asr ka hangaam hai utho Ali Akbar
+  Piri Shah-e-Waala ki asaa maaṅg rahi hai
 
   6
-  Suraj se kaho raat ke parde mein chala jae
-  Ummat sar-e-Zainab se rida maṅg rahi hai
+  Suraj se kaho raat ke parde mein chala jaae
+  Ummat sar-e-Zainab se ridaa maaṅg rahi hai
 
   7
-  Bano Ali Asghar ko kaleje mein chhupa lo
-  Ye chaṅd bhi ghurbat ki ghata maṅg rahi hai
+  Baano Ali Asghar ko kaleje mein chhupa lo
+  Ye chaand bhi ghurbat ki ghataa maaṅg rahi hai
 
   8
-  Pardes se ghar laut ke aa jao baradar
-  Bimar tumhari ye shifa maṅg rahi hai
+  Pardes se ghar laut ke aa jaao baraadar
+  Bimaar tumhaari ye shifaa maaṅg rahi hai
 
   9
-  Kal dasht-e-musibat mein jo mohtaj-e-kafan tha
-  Aaj us se kafan khalq-e-Khuda maṅg rahi hai
+  Kal dasht-e-musibat mein jo mohtaaj-e-kafan tha
+  Aaj us se kafan khalq-e-Khuda maaṅg rahi hai
 
   10
-  Lagta hai Bilal aaj bhi Shabbir ki beti
-  Zindan se rehai ki dua maṅg rahi hai
+  Lagta hai Bilaal aaj bhi Shabbir ki beti
+  Zindaaṅ se rihaai ki duaa maaṅg rahi hai
 # source_id: nohayonline:7983570d514a6bf9ae90
 # source_url: https://www.nohayonline.com/details_content.php?id=3529
 # raw_sha256: 2296e8273b690f850cf3f7e5301e560830fe8ba2d5fc2170741c1fb88b29c7d4

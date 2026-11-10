@@ -14,27 +14,27 @@ romanLyrics: |-
   Zainab ko magar Shaam o Sahar roti hai
 
   1
-  Mila azan ko muazzin na baad Akbar ke
-  Lehja Akbar ko azanoṅ ki satar roti hai
+  Mila azaan ko muazzin na baad Akbar ke
+  Lehja Akbar ko azaanoṅ ki satar roti hai
 
   2
-  Kiun na Akbar ki jawani pe jawani roe
-  Jis pe Hasnain ke Nana ki qabr roti hai
+  Kiuṅ na Akbar ki jawaani pe jawaani roe
+  Jis pe Hasnain ke Naana ki qabr roti hai
 
   3
-  Haye wo Sham-e-Ghariban ke andhere mein Rubab
-  Khali aaghosh liye thame jigar roti hai
+  Haye wo Shaam-e-Gharibaaṅ ke andhere mein Rubaab
+  Khaali aaghosh liye thaame jigar roti hai
 
   4
-  Shab-e-Ashur wo seh me hue pyase bachche
-  Jab qaza dalti hai un pe nazar roti hai
+  Shab-e-Aashur wo sehme hue pyase bachche
+  Jab qazaa daalti hai un pe nazar roti hai
 
   5
-  Hakim-e-Shaam ye kehta tha Sakina ke liye
-  Qaid-e-tanhai mein dalo ye agar roti hai
+  Haakim-e-Shaam ye kehta tha Sakina ke liye
+  Qaid-e-tanhaai mein daalo ye agar roti hai
 
   6
-  Lash-e-Qasim pe hai khamosh khari Bint-e-Husain
+  Laasha-e-Qaasim pe hai khaamosh khari Bint-e-Husain
   Mujh se kehti hi nahiṅ haaṅ wo magar roti hai
 # source_id: nohayonline:2d125ce3a4df49e25ecc
 # source_url: https://www.nohayonline.com/details_content.php?id=1498
