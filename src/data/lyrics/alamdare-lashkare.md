@@ -1,6 +1,6 @@
 ---
 title: "عباس علمدار وفاؤں کا خدا ہے"
-alternateTitle: "Alamdare Lashkare"
+alternateTitle: "Alamdar-e-Lashkar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,100 +11,100 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas e alamdar wafaon ka khuda hai
-  Hyder ki tamanna hai to zehra ki dua hai
-  Islam ki sheh-rag mein hai khoone dile shabbir
-  Saanson mein rawan parcham e ghazi ki hawa hai
-  Alamdare lashkare Husain
+  Abbas-e-Alamdar wafaoṅ ka khuda hai
+  Haidar ki tamanna hai to Zehra ki dua hai
+  Islam ki shah-rag mein hai khun-e-dil-e-Shabbir
+  Saansoṅ mein rawaṅ parcham-e-Ghazi ki hawa hai
+  Alamdar-e-Lashkar-e-Husain
 
   1
-  Naam abbas hai zehra ki tamanna main huṅ
-  Sher e khaaliq ki duaon ka nateeja main huṅ
-  Hashmi khoon ki jurrat ka asasa main huṅ
-  Pyas pani ki bujhe jis se wo darya main huṅ
-  Mai hoo ghairat ka khuda
-  Mai hoo zehra ki dua
-  Mai alamdare wafa
-  Mai hoo zainab ki rida
-  Saani e shere khuda hoo mai
-  Alamdar hoo mai
+  Naam Abbas hai Zehra ki tamanna main huṅ
+  Sher-e-Khaaliq ki duaoṅ ka natija main huṅ
+  Haashmi khun ki jurat ka asasa main huṅ
+  Pyaas paani ki bujhe jis se wo darya main huṅ
+  Main huṅ ghairat ka khuda
+  Main huṅ Zehra ki dua
+  Main alamdar-e-wafa
+  Main huṅ Zainab ki rida
+  Saani-e-Sher-e-Khuda huṅ main
+  Alamdar huṅ main
 
   2
-  Fatema zehra ki dukhtar ne mujhe maanga hai
-  Sayyeda binte payambar ne mujhe maanga hai
-  Karbala ke liye sarwar ne mujhe maanga hai
-  Rab se har sajde mein hyder ne mujhe maanga hai
-  Mai hoo khaaliq ki ata
-  Mai ali ki hoo dua
-  Mai alamdare wafa
-  Mai sakina ka chacha
-  Apni taqleeq mein allah ka shaah-kaar hoo mai
+  Fatima Zehra ki dukhtar ne mujhe maanga hai
+  Sayyeda bint-e-Payambar ne mujhe maanga hai
+  Karbala ke liye Sarwar ne mujhe maanga hai
+  Rab se har sajde mein Haidar ne mujhe maanga hai
+  Main huṅ Khaaliq ki ata
+  Main Ali ki huṅ dua
+  Main alamdar-e-wafa
+  Main Sakina ka chacha
+  Apni takhliq mein Allah ka shahkaar huṅ main
 
   3
-  Apne khadmon mein zamane ko jhuka sakta hoo
-  Karbala mein tumhe khyber mai dikha sakta hoo
-  Apne naize ko mai talwaar bana sakta hoo
-  Sab ko ek waar mein dunya se mita sakta hoo
-  Mai bhi hoo sher e khuda
-  Hashr kardoonga bapa
-  Mai alamdare wafa
+  Apne qadmoṅ mein zamane ko jhuka sakta huṅ
+  Karbala mein tumheṅ Khaibar mein dikha sakta huṅ
+  Apne naize ko main talwar bana sakta huṅ
+  Sab ko ik waar mein dunya se mita sakta huṅ
+  Main bhi huṅ Sher-e-Khuda
+  Hashr kar duṅ ga bapa
+  Main alamdar-e-wafa
   Maut ki dar se ghata
-  Tum pukaroge khud hydere karaar hoo mai
+  Tum pukaro ge khud Haidar-e-Karrar huṅ main
 
   4
-  Kisme jurrat hai ke roke mera rasta koi
-  Aaj tak saamne mere nahi tehra koi
+  Kis mein jurat hai ke roke mera rasta koi
+  Aaj tak saamne mere nahiṅ thahra koi
   Hoga fin-naar agar saamne aaya koi
-  Aa nahi sakta khareeb e shahe waala koi
-  Mai bhi hoo sher e khuda
-  Quwwate shahe huda
-  Mai alamdare wafa
-  Sab ko kar doonga fanaah
-  Kufr ki raah mein ek aahni dewaar hoo mai
+  Aa nahiṅ sakta qarib-e-Shah-e-Wala koi
+  Main bhi huṅ Sher-e-Khuda
+  Quwwat-e-Shah-e-Huda
+  Main alamdar-e-wafa
+  Sab ko kar duṅ ga fana
+  Kufr ki raah mein ek aahani diwar huṅ main
 
   5
-  Mai mita sakta hoo ek lamhe mein tum sab ka nishan
-  Hashmi khoon hai kya tum pe ye kardoonga ayan
+  Main mita sakta huṅ ik lamhe mein tum sab ka nishaṅ
+  Haashmi khun hai kya tum pe ye kar duṅ ga ayaṅ
   Hukm duṅ main to abhi nehr khud aa jae yahaṅ
-  Izn shabbir agar de to ulat jaaye jahan
-  Mai hoo marzi e khuda
-  La fata ki hoo dua
-  Mai alamdare wafa
-  Mere khadmon mein jahan
-  Apne maula ki razaon ka talabgaar hoo mai
+  Izn Shabbir agar de to ulat jae jahaṅ
+  Main huṅ marzi-e-Khuda
+  La Fata ki huṅ dua
+  Main alamdar-e-wafa
+  Mere qadmoṅ mein jahaṅ
+  Apne maula ki razaoṅ ka talabgar huṅ main
 
   6
-  Ae Sakina tera gham zainab e dilgeer ka gham
-  Maa ka gham behno ka gham asghare baysheer ka gham
-  Chadar e zehra ka gham chadar e tatheer ka gham
-  Khoon rulaata hai mujhe hazrate shabbir ka gham
+  Ae Sakina tera gham Zainab-e-Dilgir ka gham
+  Maaṅ ka gham behnoṅ ka gham Asghar-e-Beshir ka gham
+  Chadar-e-Zehra ka gham chadar-e-tathir ka gham
+  Khuṅ rulata hai mujhe Hazrat-e-Shabbir ka gham
   Al atash ki ye sada
-  Mashq ka qalb chida
-  Mai alamdare wafa
-  Aankh mein teer e jafa
-  Hai ye zanjeer e alam jisme giraftaar hoo mai
+  Mashk ka qalb chhida
+  Main alamdar-e-wafa
+  Aankh mein tir-e-jafa
+  Hai ye zanjir-e-alam jis mein giraftar huṅ main
 
   7
-  Haye sakina ye tera rona rulaata hai mujhe
-  Pyas mein tera tadapna ye satata hai mujhe
+  Hae Sakina ye tera rona rulata hai mujhe
+  Pyaas mein tera tarapna ye satata hai mujhe
   Jang karne se mere maula ne roka hai mujhe
-  Hukme shabbir ki zanjeer ne baandha hai mujhe
-  Mai bhi dikhlaata vigha
-  Karta dushman ko fanaa
-  Mai alamdare wafa
-  Tujhpe hoti na jafa
-  Ae Sakina bada majboor hoo lachaar hoo mai
+  Hukm-e-Shabbir ki zanjir ne baandha hai mujhe
+  Main bhi dikhlata wagha
+  Karta dushman ko fana
+  Main alamdar-e-wafa
+  Tujh pe hoti na jafa
+  Ae Sakina bara majbur huṅ lachar huṅ main
 
   8
-  Hai yehi noor ali hazrate ghazi ki sada
-  Shaah ke gham mein bichate hai jo farshe aza
-  Nauha o majlis o matam mein jo rehte hai sada
-  Dil mein aabaad jo rakhte hai ghame karbobala
+  Hai yehi Noor Ali Hazrat-e-Ghazi ki sada
+  Shah ke gham mein bichhate haiṅ jo farsh-e-aza
+  Nauha o majlis o matam mein jo rehte haiṅ sada
+  Dil mein aabad jo rakhte haiṅ gham-e-Karbobala
   Qalbe wo gham ki ziya
-  Baabe haajat ho ata
-  Mai alamdare wafa
-  Mai bhi hoo unka kusha
-  Aise sab logon ka har gaam mein madadgaar hoo mai
+  Bab-e-hajat ho ata
+  Main alamdar-e-wafa
+  Main bhi huṅ un ka kusha
+  Aise sab logoṅ ka har gaam mein madadgar huṅ main
 # source_id: nohayonline:ecb6720a86aa77bdb1a2
 # source_url: https://www.nohayonline.com/details_content.php?id=952
 # raw_sha256: 5038073bb3481da64e321886a7f79a2521a4a5d8a643e2ebc376e7599a99b430
