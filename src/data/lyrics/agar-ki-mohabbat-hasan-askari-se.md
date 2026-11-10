@@ -15,7 +15,7 @@ romanLyrics: |-
   Agar ki mohabbat Hasan Askari se
   Samajh le ke tu mil gaya zindagi se
   Nahiṅ phir kisi dar ki tujh ko zarurat
-  Kabhi maṅg kar dekh Ibn-e-Ali se
+  Kabhi maang kar dekh Ibn-e-Ali se
 
   2
   Jahannam hai wajib har us lanati par

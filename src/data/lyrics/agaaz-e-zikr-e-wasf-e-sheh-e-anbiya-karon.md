@@ -1,16 +1,17 @@
 ---
 title: "آغازِ ذکرِ وصفِ شہِ انبیا کروں"
-alternateTitle: "Agaaz-e-Zikr-e-Wasf-e-Sheh-e-Anbiya Karon"
+alternateTitle: "Aghaaz-e-Zikr-e-Wasf-e-Sheh-e-Anbiya Karuṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Naat"
+poet: "Khalique Hussain Mumtaz"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   1
-  Agaaz-e-zikr-e-wasf-e-Sheh-e-Anbiya karuṅ
+  Aghaaz-e-zikr-e-wasf-e-Sheh-e-Anbiya karuṅ
   Pehle durud parh luṅ to phir ibtida karuṅ
   Misal-e-gulab mehke aqidat ka lafz lafz
   Gulpashi-e-adab hi se midhat kiya karuṅ
@@ -22,7 +23,7 @@ romanLyrics: |-
   Apne hi laboṅ ke aap hi bose liya karuṅ
 
   3
-  Iman ki chaṅdni se mawaddat ka nur luṅ
+  Iman ki chandni se mawaddat ka nur luṅ
   Sidq o safa se ajr-e-risalat ada karuṅ
   Sarmast-e-kaif o masti jam-e-wila jo huṅ
   Yasrab ke maikade ki damadam piya karuṅ

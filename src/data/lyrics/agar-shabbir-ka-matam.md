@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -30,7 +31,7 @@ romanLyrics: |-
   Tumhara aaj tak matam na hota
 
   5
-  Na gar Abbas hote jazb-e-nusrat
+  Na gar Abbas hote jazba-e-nusrat
   Buland itna tera parcham na hota
 
   6
@@ -43,7 +44,7 @@ romanLyrics: |-
 
   8
   Na chhinti gar sar-e-Zainab se chadar
-  Zamin se asmaṅ tak gham na hota
+  Zamiṅ se aasmaṅ tak gham na hota
 
   9
   Behan gar qaidkhane mein na jaati
@@ -54,12 +55,12 @@ romanLyrics: |-
   To phir Kaaba kisi se kam na hota
 
   11
-  Agar Shabbir ke aṅsu na hote
+  Agar Shabbir ke aaṅsu na hote
   To dard-e-qalb-e-Akbar kam na hota
 
   12
   Na milti Fazl gar Sheh ki tajalli
-  To moti aṅsuoṅ se kam na hota
+  To moti aaṅsuoṅ se kam na hota
 # source_id: nohayonline:30f08e7084fa2c965496
 # source_url: https://www.nohayonline.com/details_content.php?id=1196
 # raw_sha256: 834ef485e5dc7bca6420080fef381d622095bbf6cb11fbd38d6e39c5eeca4cd8

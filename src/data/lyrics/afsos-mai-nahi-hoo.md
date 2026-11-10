@@ -1,71 +1,72 @@
 ---
 title: خوابِ صغرا
-alternateTitle: Afsos Mai Nahi Hoo
+alternateTitle: Afsos Main Nahiṅ Huṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Samar Zaidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khwab-e-Sughra
+  Khwaab-e-Sughra
   Behan ne khwaab ye kal shab hai dekha
-  Shabihe mustafa bhaiya hamara
+  Shabih-e-Mustafa bhaiya hamara
   Padar ke haath se banta hai dulha
-  Bahot masroor hai khush hai sakina
+  Bahut masrur hai khush hai Sakina
   Damakta hai khushi se sab ka chehra
   Lekin main nahiṅ huṅ afsos main nahiṅ huṅ
 
   1
-  Phupi amma balayein le rahi hai
-  Bahit fizza duayein de rahi hai
-  Thikana kya hai behno ki khushi ka
+  Phuphi ammaṅ balaaeṅ le rahi haiṅ
+  Bahut Fizza duaaeṅ de rahi haiṅ
+  Thikana kya hai behnoṅ ki khushi ka
   Jo maange wo jo chaahe le rahi hai
   Manaata hai khushi kunba hamara
 
   2
-  Ali asghar ko shehwaala bana kar
-  Bithaya maa ne akbar ke barabar
+  Ali Asghar ko shahbala bana kar
+  Bithaya maaṅ ne Akbar ke barabar
   Hatheli par rakhi mahendi zara si
-  Khade hai paas abbas e dilawar
-  Mujhe qasim ne har qaime mein dhoonda
+  Khare haiṅ paas Abbas Dilawar
+  Mujhe Qasim ne har khaime mein dhunda
 
   3
-  Dulhan ke paas baithi hai sakina
-  Bahot masroor hai ghazi ka beta
-  Chacha akbar ki shadi ki khushi mein
-  Naya malboos hai baqir ne pehne
-  Achanak mujhko abid ne pukaara
+  Dulhan ke paas baithi hai Sakina
+  Bahut masrur hai Ghazi ka beta
+  Chacha Akbar ki shadi ki khushi mein
+  Naya malbus hai Baqir ne pehna
+  Achanak mujh ko Abid ne pukaara
 
   4
   Mehek sehre ki ye batla rahi hai
-  Sawari sayyeda ki aa rahi hai
+  Sawari Sayyeda ki aa rahi hai
   Najaf se Murtaza aae hue haiṅ
   Hawa tazeem karne jaa rahi hai
-  Hai aanchal mil ke sab behno ne daala
+  Hai aanchal mil ke sab behnoṅ ne daala
 
   5
-  Achanak khwaab toota royi sughra
+  Achanak khwaab tuta royi Sughra
   Tha ghar mein har taraf chaaya andhera
-  Tha laashon se bhara ganje shaheedan
-  Ali akbar ke seene mein tha naiza
-  Mere baba tumhe dene ko pursa
+  Tha laashoṅ se bhara ganj-e-shahidaṅ
+  Ali Akbar ke sine mein tha naiza
+  Mere baba tumheiṅ dene ko pursa
 
   6
   Abhi to khwaab tha kitna suhana
-  Tha jin haathon mein dekha maine kangna
-  Wo seene ka lahoo roke huwe thay
-  Kahan ki rasme shadi kaisa sehra
-  Sabhi dete hai baba ko sahara
+  Tha jin haathoṅ mein dekha main ne kangna
+  Wo sine ka lahu roke hue the
+  Kahaṅ ki rasm-e-shadi kaisa sehra
+  Sabhi dete haiṅ baba ko sahara
 
   7
-  Samar behte rahe Sughra ke aṅsu
-  Bhare akbar ke khaak o khoon mein gaysu
-  Ali akbar suye jannat sidhaare
+  Samar behte rahe Sughra ke aaṅsu
+  Bhare Akbar ke khaak o khuṅ mein gesu
+  Ali Akbar su-e-jannat sidhaare
   Fiza mein reh gayi bas khun ki bu
-  Janaza mai uthaati mil ke baba
+  Janaza main uthaati mil ke baba
 # source_id: nohayonline:7b6a7fab124daf9294c5
 # source_url: https://www.nohayonline.com/details_content.php?id=2387
 # raw_sha256: 333c14ad65601a95602b3f8fe28d709072ca0f14e70170c2c7eb9a0267c386f7
@@ -89,7 +90,7 @@ romanLyrics: |-
 مناتا ہے خوشی کنبہ ہمارا
 
 ۲
-علی اصغر کو شہ والا بنا کر
+علی اصغر کو شہبالا بنا کر
 بٹھایا ماں نے اکبر کے برابر
 ہتھیلی پر رکھی مہندی ذرا سی
 کھڑے ہیں پاس عباس دلاور
@@ -99,8 +100,8 @@ romanLyrics: |-
 دلہن کے پاس بیٹھی ہے سکینہ
 بہت مسرور ہے غازی کا بیٹا
 چچا اکبر کی شادی کی خوشی میں
-نیا ملبوس ہے باقر نے پہنے
-اچانک مجھکو عابد نے پکارا
+نیا ملبوس ہے باقر نے پہنا
+اچانک مجھ کو عابد نے پکارا
 
 ۴
 مہک سہرے کی یہ بتلا رہی ہے
