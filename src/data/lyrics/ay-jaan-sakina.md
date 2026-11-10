@@ -1,53 +1,54 @@
 ---
 title: اے جان سکینہ نادان سکینہ
-alternateTitle: Ay Jaan Sakina
+alternateTitle: Ae Jaan Sakina
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hilmi Afandi"
+reciter: "Abbas Mirza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Jaan Sakina"]
 published: false
 romanLyrics: |-
-  Aey jaan Sakina nadan Sakina
-  Aey Shaam ke zindan ki mehman Sakina
+  Ae jaan Sakina naadaan Sakina
+  Ae Shaam ke zindaan ki mehmaan Sakina
 
   1
-  Dekho to utho qaid may hai kiska ye matam
-  Bano tere is neend ke qurban Sakina
+  Dekho to utho qaid mein hai kis ka ye maatam
+  Bano tere is nind ke qurbaan Sakina
 
   2
-  Uth-ti nazar aati nahi ye neendh hai kaisi
-  Ye khwab to karta hai pareshan Sakina
+  Wo roz ki sayli wo tera roz ka rona
+  Bas aaj se zindaan hai sunsaan Sakina
 
   3
-  Is kokh jali maa to tamanna ye na thi kya
-  Poora na hua ek bhi armaan Sakina
+  Ye des naya log naye hum bhi naye haiṅ
+  Kis tarah se ho dafn ka saamaan Sakina
 
   4
-  Kyon haath ye kano pe rakhe hue baithi
-  Dukhte hai abhi tak kaho kya kaan Sakina
+  Asghar ko karuṅ pyaar luṅ Akbar ki balaaeiṅ
+  Jab khuld mein tum jaao meri jaan Sakina
 
   5
-  Ye des naya log naye hum bhi naye hai
-  Kis tarha se ho dafn ka saaman Sakina
+  Do gaz ka kafan bhi tujhe maaṅ de sakti nahiṅ
+  Zindaan mein Bano hai pareshaan Sakina
 
   6
-  Do gaz ka kafn bhi tujhe de sakti nahi maa
-  Zindan may bhi aayi hai pareshan Sakina
+  Uthti nazar aati nahiṅ ye nind hai kaisi
+  Ye khwaab to karta hai pareshaan Sakina
 
   7
-  Asghar ko karo pyar lo akbar ki balayein
-  Jab khuld may tum jao meri jaan Sakina
+  Kiuṅ haath ye kaanoṅ pe ho rakhe hue Bibi
+  Dukhte haiṅ abhi tak kaho kya kaan Sakina
 
   8
-  Wo roz ki seeri wo tera roz ka rona
-  Bas aaj se zindan hai sunsan Sakina
+  Is kokh jali maaṅ ko tamanna ye na thi kya
+  Pura na hua ek bhi armaan Sakina
 
   9
-  Ye din bhi khuda jald hi bano ke liye laaye
-  Kholega dar e qaid ko darbaan Sakina
+  Ye din bhi Khuda jald hi Bano ke liye laaye
+  Kholega dar-e-qaid ko darbaan Sakina
 # source_id: nohayonline:1c435d35b38305aa041a
 # source_url: https://www.nohayonline.com/details_content.php?id=1409
 # raw_sha256: 0a4d73e8e4ea7af364df038fa8ee9a735caa506ff50ebcfdb3dbdcf008020efc
@@ -67,11 +68,11 @@ romanLyrics: |-
 بس آج سے زندان ہے سنسان سکینہ
 
 ۳
-یہ دیس نیا لوگ نےء ہم بھی نےء ہیں
+یہ دیس نیا لوگ نئے ہم بھی نئے ہیں
 کس طرح سے ہو دفن کا سامان سکینہ
 
 ۴
-اصغر کو کروں پیار لوں اکبر کی بلاییں
+اصغر کو کروں پیار لوں اکبر کی بلائیں
 جب خلد میں تم جاؤ میری جان سکینہ
 
 ۵
@@ -83,7 +84,7 @@ romanLyrics: |-
 یہ خواب تو کرتا ہے پریشان سکینہ
 
 ۷
-کیوں ہاتھ یہ کانوں پہ ہو رکھے ہوے بی بی
+کیوں ہاتھ یہ کانوں پہ ہو رکھے ہوئے بی بی
 دکھتے ہیں ابھی تک کہو کیا کان سکینہ
 
 ۸
@@ -91,5 +92,5 @@ romanLyrics: |-
 پورا نہ ہوا ایک بھی ارمان سکینہ
 
 ۹
-یہ دن بھی خدا جلد ہی بانو کے لئے لاے
+یہ دن بھی خدا جلد ہی بانو کے لئے لائے
 کھولے گا در قید کو دربان سکینہ

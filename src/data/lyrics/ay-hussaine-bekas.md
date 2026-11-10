@@ -1,46 +1,47 @@
 ---
 title: "اے حسین بیکس کی غمزدہ بہن زینب"
-alternateTitle: "Ay Hussaine Bekas"
+alternateTitle: "Ae Husain-e-Bekas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Agha Abbasi Hashr"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Hussaine Bekas"]
 published: false
 romanLyrics: |-
-  Ay hussain e bekas ki ghamzada bahan zainab
+  Ae Husain-e-bekas ki ghamzada bahan Zainab
   
   1
-  Binte faatahe khyber khwahare hassan zainab
-  Do jahan ki shehzadi jaane panjetan zainab
-  Phir hui bhatije ke saath be-watan zainab
-  Haye wo tere baazu aur wo rasan zainab
+  Bint-e-Faateh-e-Khaibar khwaahar-e-Hasan Zainab
+  Do jahaaṅ ki shahzaadi jaan-e-Panjatan Zainab
+  Phir hui bhatije ke saath bewatan Zainab
+  Haaye wo tere baazu aur wo rasan Zainab
   
   2
-  Khatema hua tujh par har nayi musibat ka
-  Tu ne phir nahi dekha daur koi raahat ka
+  Khaatima hua tujh par har nayi musibat ka
+  Tu ne phir nahiṅ dekha daur koi raahat ka
   Kya jawab ho sakta koi teri himmat ka
-  Kyun na ho qalaq humko phir teri shahadat ka
+  Kiuṅ na ho qalaq hum ko phir teri shahaadat ka
   
   3
-  Khoon naunehalon ka laasha e jawan dekha
-  Naawak e sitam dekha halq e bezaban dekha
-  Karbala ka nazaara shaam ka samaan dekha
-  Seh ke har musibat ko suye aasman dekha
+  Khun naunihaaloṅ ka laasha-e-jawaaṅ dekha
+  Naawak-e-sitam dekha halq-e-bezabaaṅ dekha
+  Karbala ka nazaara Shaam ka samaaṅ dekha
+  Sah ke har musibat ko su-e-aasmaaṅ dekha
   
   4
-  Manzilein hui aakhir shaam ka dayaar aaya
-  Ahlebait ke ghar mein ahde inteshaar aaya
-  Khud imam baali par ho ke ashk baar aaya
-  Haye sar pa zainab ke belche ka waar aaya
+  Manzileiṅ hui aakhir Shaam ka dayaar aaya
+  Ahl-e-Bait ke ghar mein ahd-e-intishaar aaya
+  Khud Imam baaliṅ par ho ke ashk baar aaya
+  Haaye sar pe Zainab ke belche ka waar aaya
   
   5
-  Hashr shaahzadi ne kitne gham uthaye hai
-  Zulm ki fazaon mein taziyane khaaye hai
-  Di hai apni chadar bhi haath bhi bandhaye hai
-  Sabr o zapt ke jauhar qaum ko dikhaye hai
+  Hashr shahzaadi ne kitne gham uthaaye hai
+  Zulm ki fazaaoṅ mein taaziyaane khaaye hai
+  Di hai apni chaadar bhi haath bhi bandhaaye hai
+  Sabr o zabt ke jauhar qaum ko dikhaaye haiṅ
 # source_id: nohayonline:654925657c3c1d909722
 # source_url: https://www.nohayonline.com/details_content.php?id=3543
 # raw_sha256: 6d38d720a763a77f5e7c3f6be5b9ed8385a01aaad324c081889d918e7ae8416c
@@ -51,11 +52,11 @@ romanLyrics: |-
 ۱
 بنت فاتح خیبر خواہر حسن زینب
 دو جہاں کی شہزادی جان پنجتن زینب
-پھر ہوی بھتیجے کے ساتھ بے وطن زینب
-ہاے وہ تیرے بازو اور وہ رسن زینب
+پھر ہوئی بھتیجے کے ساتھ بے وطن زینب
+ہائے وہ تیرے بازو اور وہ رسن زینب
 
 ۲
-خاتمہ ہوا تجھ پر ہر نیء مصیبت کا
+خاتمہ ہوا تجھ پر ہر نئی مصیبت کا
 تو نے پھر نہیں دیکھا دور کوئی راحت کا
 کیا جواب ہو سکتا کوئی تیری ہمت کا
 کیوں نہ ہو قلق ہم کو پھر تیری شہادت کا
@@ -67,13 +68,13 @@ romanLyrics: |-
 سہہ کے ہر مصیبت کو سوے آسماں دیکھا
 
 ۴
-منزلیں ہوی آخر شام کا دیار آیا
+منزلیں ہوئی آخر شام کا دیار آیا
 اہلبیت کے گھر میں عہد انتشار آیا
-خود امام بالیں پر ہو کے آشک بار آیا
-ہاے سر پہ زینب کے بیلچے کا وار آیا
+خود امام بالیں پر ہو کے اشک بار آیا
+ہائے سر پہ زینب کے بیلچے کا وار آیا
 
 ۵
-حشر شاہزادی نے کتنے غم اٹھاے ہے
-ظلم کی فضاؤں میں تازیانے کھاے ہے
-دی ہے اپنی بھی ہاتھ بھی بندھاے ہے
-صبر و ضبط کے جوہر قوم کو دکھاے ہیں
+حشر شاہزادی نے کتنے غم اٹھائے ہے
+ظلم کی فضاؤں میں تازیانے کھائے ہے
+دی ہے اپنی بھی ہاتھ بھی بندھائے ہے
+صبر و ضبط کے جوہر قوم کو دکھائے ہیں
