@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
+poet: "Mir Takallum Mir"
+reciter: "Mir Hasan Mir"
 tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
