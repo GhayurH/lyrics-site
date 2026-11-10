@@ -6,11 +6,12 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Din-e-Ahmad ki baqa tu kiun na Ghazi ye kahuṅ
+  Din-e-Ahmad ki baqa tu kiuṅ na Ghazi ye kahuṅ
   Karbala mein kar diya hai tu ne batil sar-niguṅ
   Aaj bhi lehra raha jo parcham-e-Abbas hai
   Hai diya Ghazi ko rutba Kibriya ne khas hai
@@ -27,16 +28,16 @@ romanLyrics: |-
 
   3
   Yaad rakhega zamana iski meraj-e-wafa
-  Pani mein bhige jo bazu wo diye dono kata
+  Pani mein bhige jo bazu wo diye donoṅ kata
   Maar di pani ko thokar tin din ki pyaas hai
 
   4
   Jis tarah Maula Ali hai ye bhi hai mushkilkusha
   Hai yehi Bab-ul-Hawaij hai yehi bahr-e-ata
-  Paas hai jo jo ali ke sab unhi ke paas hai
+  Paas hai jo jo Ali ke sab unhi ke paas hai
 
   5
-  Sar barehna bibiyoṅ ko dekhe kaise Alamdar
+  Sar barehna Bibiyoṅ ko dekhe kaise Alamdar
   Unka sar Khursheed neze se hai girta baar baar
   Kis qadar behnoṅ ke parde ka unhe ehsas hai
 # source_id: nohayonline:127c0f6b311aafdcadde
@@ -51,7 +52,7 @@ romanLyrics: |-
 
 ۱
 پرچمِ اسلام ہے یہ نہ کبھی ہو گا یہ خم
-مصطفیٰ ہمزہ علی عباس کا ہے یہ علم
+مصطفیٰ حمزہ علی عباس کا ہے یہ علم
 لکھے جو اس کی فضیلت قلم نہ قرطاس ہے
 
 ۲
@@ -70,6 +71,6 @@ romanLyrics: |-
 پاس ہے جو علی کے سب انہیں کے پاس ہے
 
 ۵
-سر برہنہ بی بیوں کو دیکھے کیسے علمدار
-ان کا خورشید نیزے سے ہے گرتا بار بار
+سر برہنہ بی‌بیوں کو دیکھے کیسے علمدار
+ان کا سر خورشید نیزے سے ہے گرتا بار بار
 کس قدر بہنوں کے پردے کا انہیں احساس ہے

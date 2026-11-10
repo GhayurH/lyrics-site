@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -19,9 +20,9 @@ romanLyrics: |-
 
   1
   Har ek behan ko bhai pe maan hota hai
-  Jahan mein bhai to behnoṅ ki jaan hota hai
+  Jahaṅ mein bhai to behnoṅ ki jaan hota hai
   Ghamoṅ ki dhup mein wo sayebaṅ hota hai
-  Bas is yaqin se khaimoṅ mein mutmain rehna
+  Bas is yaqiṅ se khaimoṅ mein mutmain rehna
 
   2
   Haram ki aas bandhati raho meri khwahar
@@ -36,15 +37,15 @@ romanLyrics: |-
   Barhe jo ranj ke saaye to bas yehi kehna
 
   4
-  Dikhayi de tumhe jis dam yazeed ka lashkar
+  Dikhayi de tumheṅ jis dam Yazid ka lashkar
   Dikhaye wo tumheṅ talwar o neza o khanjar
   Chamakte nezoṅ pe par jaaye gar tumhari nazar
   Tum apne dil mein jagah khauf ko nahiṅ dena
 
   5
-  Kaha ye ghazi ne kulsoom se meri khwahar
+  Kaha ye ghazi ne Kulsum se meri khwahar
   Fida Husain pe har maaṅ karegi apne pisar
-  Jo tere bete nahi hai to koi gham na kar
+  Jo tere bete nahiṅ hai to koi gham na kar
   Teri taraf se fida sheh pe hone ko behna
 
   6
@@ -54,15 +55,15 @@ romanLyrics: |-
   Bas apni aankh mein aaṅsu nahiṅ aane dena
 
   7
-  Bayaṅ kaise wo manzar ho dono janib ka
+  Bayaṅ kaise wo manzar ho donoṅ janib ka
   Udhar tarayi pe ghazi ka mashk ko bharna
   Kate jo bazu chhidi mashk saara pani baha
-  Idhar sakina ka pyason ko dilaasa dena
+  Idhar Sakina ka pyasoṅ ko dilaasa dena
 
   8
   Tere hasham pe hai qurban Mazhar o Farhan
-  Alam gharoṅ pe lagata hai aaj saara jahan
-  Hai tu hi ab bhi ghareebon ka bekason ka maan
+  Alam gharoṅ pe lagata hai aaj saara jahaṅ
+  Hai tu hi ab bhi ghariboṅ ka bekasoṅ ka maan
   Alam ko dekh ke har waqt bas yehi kehna
 # source_id: nohayonline:e0240c539120870064b8
 # source_url: https://www.nohayonline.com/details_content.php?id=2834
@@ -96,7 +97,7 @@ romanLyrics: |-
 
 ۴
 دکھائی دے تمہیں جس دم یزید کا لشکر
-دکھاے وہ تمہیں تلوار و نیزہ و خنجر
+دکھائے وہ تمہیں تلوار و نیزہ و خنجر
 چمکتے نیزوں پہ پڑ جائے گر تمہاری نظر
 تم اپنے دل میں جگہ خوف کو نہیں دینا
 

@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -19,7 +20,7 @@ romanLyrics: |-
   Isko nazar mila ke na ta der dekhna
 
   2
-  Haider ki har sifat ka aainadar hai
+  Haider ki har sifaat ka aaina-dar hai
   Betegh apni zaat mein khud Zulfiqar hai
   Tum iske saamne kabhi uncha na bolna
 
@@ -44,7 +45,7 @@ romanLyrics: |-
   Aata nahiṅ diler ko maidan chhorna
 
   7
-  Pyasoṅ ki aas zamin-e-chadar hai ye Jari
+  Pyasoṅ ki aas zaamin-e-chadar hai ye Jari
   Hai waqf-e-kainat-e-wafa iski zindagi
   Is se kalam karne se pehle ye sochna
 
@@ -56,7 +57,7 @@ romanLyrics: |-
   9
   Abbas ki raza hai raza-e-Husain se
   Rehaan hukm-e-Fateh-e-Badr o Hunain se
-  Bekhauf hum ne seekha hai jumla ye bolna
+  Bekhauf hum ne sikha hai jumla ye bolna
 # source_id: nohayonline:51ff1c969365470f0e2c
 # source_url: https://www.nohayonline.com/details_content.php?id=2370
 # raw_sha256: b6fa57dfbc146652cbe6ebb4277ffb69e76372a548299743871af9c279f32b74

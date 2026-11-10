@@ -16,19 +16,19 @@ romanLyrics: |-
   Maaṅ naaz se kehti hai ke Zahra ki dua huṅ
 
   1
-  Khaliq ne jahan dar pe utara hai sitara
+  Khaliq ne jahaṅ dar pe utara hai sitara
   Main ne usi chaukhat pe hi sab waqt guzara
   Dehliz pe Zahra ki qamar ban ke jala huṅ
 
   2
   Dunya ye jise kehti hai Ghazi ki adaeṅ
-  Maaṅ ne ye mujhe ghutti mein bakhshi hain wafaeṅ
+  Maaṅ ne ye mujhe ghutti mein bakhshi haiṅ wafaeṅ
   Bachpan se yehi dars-e-wafa roz parha huṅ
 
   3
   Jo kaam liya karta hai Rab lauh o qalam se
   Wo kaam liya karta huṅ main mashk o alam se
-  In haathoṅ se main rizq-e-jahaṅ baṅt raha huṅ
+  In haathoṅ se main rizq-e-jahaṅ baant raha huṅ
 
   4
   Do khas hijabat bane Bint-e-Wali ke
