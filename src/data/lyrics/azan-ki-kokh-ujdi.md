@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Azaan ki kokh ujdi maa ko jab awaaz aati hai
-  To har takbeer par laila pachade gham se khaati hai
+  Azaaṅ ki kokh ujri maaṅ ko jab aawaaz aati hai
+  To har takbir par Laila pachhaareṅ gham se khaati hai
 
   1
-  Nikal jayega seena tod kar jaise abhi baahar
-  Kaleja apna maa haathon se kuch aise dabati hai
+  Nikal jaaye ga sina tor kar jaise abhi baahar
+  Kaleja apna maaṅ haathoṅ se kuchh aise dabaati hai
 
   2
-  Kisi ne poocha jab ehwaal laila se to yun boli
-  Pisar mar jaaye jis maa ka wo kab aaram paati hai
+  Kisi ne puchha jab ahwaal Laila se to yuṅ boli
+  Pisar mar jaaye jis maaṅ ka wo kab aaraam paati hai
 
   3
-  Chutay kadiyal jawan jis maa se aur shauhar bhi mar jaye
+  Chhute karyal jawaaṅ jis maaṅ se aur shauhar bhi mar jaaye
   Wo bewa har nafas apni qaza ko hi bulaati hai
 
   4
-  Bulalo paas apne maa ko ye jeena bhi jeena hai
-  Tumhari yaad har lamha hamay aa kar sataati hai
+  Bula lo paas apne maaṅ ko ye jina bhi jina hai
+  Tumhaari yaad har lamha hameṅ aa kar sataati hai
 
   5
-  Jawan bete ki maa se poocho kitni hoti hai chaahat
+  Jawaaṅ bete ki maaṅ se puchho kitni hoti hai chaahat
   Tasavvur mein na jaane kya kya wo armaan sajaati hai
 
   6
-  Koi baccha kahin rota tadap kar kehti thi bano
-  Mere asghar ke rone ki suno awaaz aati hai
+  Koi bachcha kahiṅ rota tarap kar kehti thi Baano
+  Mere Asghar ke rone ki suno aawaaz aati hai
 
   7
-  Dua deti hai zehra aa ke jannat se anees unko
-  Ke jinko nauha o matam mein wo mashghool paati hai
+  Dua deti hai Zehra aa ke jannat se Anis un ko
+  Ke jin ko nauha o maatam mein wo mashghul paati hai
 # source_id: nohayonline:dff6711e1958e4830f8e
 # source_url: https://www.nohayonline.com/details_content.php?id=3448
 # raw_sha256: 910c1db93576ae7327d93db6fc3786cca470090ed490ee1b7502ae77c67c5cd5
@@ -53,10 +54,10 @@ romanLyrics: |-
 
 ۲
 کسی نے پوچھا جب احوال لیلیٰ سے تو یوں بولی
-پسر مر جائے جاے جس ماں کا وہ کب آرام پاتی ہے
+پسر مر جائے جس ماں کا وہ کب آرام پاتی ہے
 
 ۳
-چھٹے کڑیل جواں جس ماں سے اور شوہر بھی مر جاۓ
+چھٹے کڑیل جواں جس ماں سے اور شوہر بھی مر جائے
 وہ بیوہ ہر نفس اپنی قضا کو ہی بلاتی ہے
 
 ۴

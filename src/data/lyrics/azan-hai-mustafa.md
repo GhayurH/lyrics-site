@@ -6,32 +6,33 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Azaan hai mustufa aur murtaza meri iqamat hai
-  Yehi mazhab hai mera aur yehi meri ibadat hai
+  Azaaṅ hai Mustafa aur Murtaza meri iqaamat hai
+  Yehi mazhab hai mera aur yehi meri ibaadat hai
 
   1
-  Ye kyun shabbir ki daryadili par hurr ko hairat hai
-  Khatayein baksh dena is gharane ki to aadat hai
+  Ye kiuṅ Shabbir ki darya dili par Hur ko hairat hai
+  Khataaeṅ bakhsh dena is gharaane ki to aadat hai
 
   2
-  Aseeri beridayi hai atash hai sar hai naizon par
-  Zara dekho nabi ki aal par kaisi qayamat hai
+  Asiri beridaai hai atash hai sar hai nezoṅ par
+  Zara dekho Nabi ki aal par kaisi qayaamat hai
 
   3
-  Sahara do zara abbas aa kar apne bhai ko
-  Zaeefi hai nakahat hai jawan bete ki mayyat hai
+  Sahaara do zara Abbas aa kar apne bhaai ko
+  Zaifi hai naqaahat hai jawaaṅ bete ki mayyat hai
 
   4
-  Isay to dedo pani sheh ye farmate thay aada se
-  Bhala cheh maah ke bacche se tum ko kya adawat hai
+  Ise to de do paani Sheh ye farmaate the aadaa se
+  Bhala chhe maah ke bachche se tum ko kya adaawat hai
 
   5
-  Yahan hai karbala uqba mein hai baaghe iram mehshar
-  Yahan bhi ek jannat hai wahan bhi ek jannat hai
+  Yahaaṅ hai Karbala uqba mein hai Baagh-e-Iram Mahshar
+  Yahaaṅ bhi ek jannat hai wahaaṅ bhi ek jannat hai
 # source_id: nohayonline:9cb934468a66ae2535a3
 # source_url: https://www.nohayonline.com/details_content.php?id=3441
 # raw_sha256: 9284f32a99fee5240c70e8df1da27c59bf3096200d383e8a0d6c0c003ffc914c
@@ -48,11 +49,11 @@ romanLyrics: |-
 زہرا دیکھو نبی کی آل پر کیسی قیامت ہے
 
 ۳
-سہارا دو زرا عباس آ کر اپنے بھائی کو
+سہارا دو ذرا عباس آ کر اپنے بھائی کو
 ضعیفی ہے نقاہت ہے جواں بیٹے کی میت ہے
 
 ۴
-اسے تو دیدو پانی شہ یہ فرماتے تھے اعدا سے
+اسے تو دے دو پانی شہ یہ فرماتے تھے اعدا سے
 بھلا چھ ماہ کے بچے سے تم کو کیا عداوت ہے
 
 ۵

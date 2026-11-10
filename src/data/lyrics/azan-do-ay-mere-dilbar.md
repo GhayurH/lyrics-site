@@ -1,59 +1,60 @@
 ---
 title: "اذان دو اے میرے دلبر سویرا ہونے والا ہے"
-alternateTitle: "Azan Do Ay Mere Dilbar"
+alternateTitle: "Azan Do Ae Mere Dilbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
+reciter: "Mir Raza Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Azan Do Ay Mere Dilbar"]
 published: false
 romanLyrics: |-
-  Azan do ay mere dilbar savera hone wala hai
+  Azaan do ae mere dilbar sawera hone wala hai
   Tumhare baad aalam mein andhera hone wala hai
 
   1
-  Kaha sarwar ne akbar se ujala hone wala hai
-  Bala ke ban mein ek khooni savera hone wala hai
-  Hamare khoon se rangeen sehra hone wala hai
-  Kaleje se tumhare paar naiza hone wala hai
+  Kaha Sarwar ne Akbar se ujaala hone wala hai
+  Bala ke ban mein ek khuni sawera hone wala hai
+  Hamaare khun se rangin sehra hone wala hai
+  Kaleje se tumhaare paar neza hone wala hai
 
   2
-  Rasool allah ki itrat par aafat aane wali hai
-  Ali ke naunehalon par musibat aane wali hai
-  Nabi ki aal par subhe qayamat aane wali hai
-  Aseerane haram ki shaam e ghurbat aane wali hai
+  Rasul Allah ki itrat par aafat aane wali hai
+  Ali ke naunihaaloṅ par musibat aane wali hai
+  Nabi ki aal par subh-e-qayaamat aane wali hai
+  Asiraan-e-haram ki shaam-e-ghurbat aane wali hai
 
   3
-  Shaheede zulm hojayenge bhai bhi bhatije bhi
-  Tahe tayghe sitam hojayenge bache bhi boodhe bhi
-  Chidegi gardane asghar jawano ke kaleje bhi
-  Chalenge teer bhi talwar bhi khanjar bhi naize bhi
+  Shahid-e-zulm ho jaaeṅ ge bhaai bhi bhatije bhi
+  Tah-e-tegh-e-sitam ho jaaeṅ ge bachche bhi burhe bhi
+  Chhidegi gardan-e-Asghar jawaanoṅ ke kaleje bhi
+  Chaleṅ ge tir bhi talwaar bhi khanjar bhi neze bhi
 
   4
-  Juda shaane kisi ke aur kisi ke sar qalam honge
-  Na abbas e jari honge na tum honge na hum honge
-  Hamare qaanwade par bahot zulm o sitam honge
-  Jafaon par jafa hogi bala honge alam honge
+  Juda shaane kisi ke aur kisi ke sar qalam hoṅ ge
+  Na Abbas-e-jari hoṅ ge na tum hoṅ ge na hum hoṅ ge
+  Hamaare khaanwaade par bahut zulm o sitam hoṅ ge
+  Jafaaoṅ par jafa hogi bala hoṅ ge alam hoṅ ge
 
   5
-  Labe darya mere haaton pa naazon ka pala hoga
-  Zaban sookhe labon par hogi aur manka dhala hoga
-  Sitam insaniyat par is se bad kar aur kya hoga
-  Mere baysheer ki gardan mein teer e hurmala hoga
+  Lab-e-darya mere haathoṅ pe naazoṅ ka pala hoga
+  Zabaaṅ sukhe laboṅ par hogi aur manka dhala hoga
+  Sitam insaaniyat par is se barh kar aur kya hoga
+  Mere beshir ki gardan mein tir-e-Hurmala hoga
 
   6
-  Sitamgaron ka nargha hoga aur aale abaa hogi
-  Rasan basta hamare baad binte murtaza hogi
-  Bhare darbar mein zehra ki beti berida hogi
-  Meri nanhi sakina par tamachon ki jafa hogi
+  Sitamgaaroṅ ka nargha hoga aur Aal-e-Abaa hogi
+  Rasan basta hamaare baad Bint-e-Murtaza hogi
+  Bhare darbaar mein Zehra ki beti berida hogi
+  Meri nanhi Sakina par tamaachoṅ ki jafa hogi
 
   7
-  Shab e ashoor sheh ke qaimo mein mirza tha ek mehshar
-  Basad hasrat pisar se apne farmate thay jab sarwar
-  Mere kadiyal jawan ay hoo baroo hamshakale payghambar
-  Tumhare baad ay noore nazar hai khaak aalam par
+  Shab-e-Aashur Sheh ke khaimoṅ mein Mirza tha ek mahshar
+  Basad hasrat pisar se apne farmaate the jab Sarwar
+  Mere karyal jawaaṅ ae hu baru hamshakl-e-Paighambar
+  Tumhaare baad ae nur-e-nazar hai khaak aalam par
 # source_id: nohayonline:2ed57ff0cba5ba8d0757
 # source_url: https://www.nohayonline.com/details_content.php?id=573
 # raw_sha256: fc57d183aab018c54849f48e0f813bfc407cc1334d6631e04284dcd7727c45db
@@ -62,28 +63,28 @@ romanLyrics: |-
 تمہارے بعد عالم میں اندھیرا ہونے والا ہے
 
 ۱
-کہا سرور نے اکبر سے اجالا ہونے والاہے
+کہا سرور نے اکبر سے اجالا ہونے والا ہے
 بلا کے بن میں اک خونی سویرا ہونے والا ہے
 ہمارے خون سے رنگین سہرا ہونے والا ہے
 کلیجے سے تمہارے پار نیزہ ہونے والا ہے
 
 ۲
-رسول اللہ کی عطرت پر آفت آنے والی ہے
+رسول اللہ کی عترت پر آفت آنے والی ہے
 علی کے نونہالوں پر مصیبت آنے والی ہے
 نبی کی آل پر صبحِ قیامت آنے والی ہے
 اسیران حرم کی شام غربت آنے والی ہے
 
 ۳
-شہید ظلم ہوجائیں گے بھای بھی بھتیجے بھی
-تہہ تیغ ستم ہوجایں گے بچے بھی بوڑھے بھی
+شہید ظلم ہو جائیں گے بھائی بھی بھتیجے بھی
+تہہ تیغ ستم ہو جائیں گے بچے بھی بوڑھے بھی
 چھدے گی گردن اصغر جوانوں کے کلیجے بھی
 چلیں گے تیر بھی تلوار بھی خنجر بھی نیزے بھی
 
 ۴
 جدا شان کسی کے اور کسی کے سر قلم ہوں گے
-نہ عباس جری ہوں گے نہ تم ہونگے نہ ہم ہوں گے
+نہ عباس جری ہوں گے نہ تم ہوں گے نہ ہم ہوں گے
 ہمارے خانوادے پر بہت ظلم و ستم ہوں گے
-جفاؤں پر جفا ہوگی بلا ہونگے الم ہونگے
+جفاؤں پر جفا ہوگی بلا ہوں گے الم ہوں گے
 
 ۵
 لب دریا میرے ہاتھوں پہ نازوں کا پلا ہوگا
