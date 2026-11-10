@@ -14,11 +14,11 @@ published: false
 # raw_sha256: eb44b67d440466ebfb53fdbab16c6e895557fc0b74f20b4574eabe1b4b44f1a5
 romanLyrics: |-
   Ali ko zakhm-e-sar tarpa raha hai
-  Musalla khun mein duba ja raha hai
+  Musalla khuṅ mein duba ja raha hai
   
   1
   Namazi sath hai chadar sambhale
-  Nabi ka janasheen yuṅ ja raha hai
+  Nabi ka janashiṅ yuṅ ja raha hai
   
   2
   Hui thi Kabe mein jis ki wiladat
@@ -34,7 +34,7 @@ romanLyrics: |-
   
   5
   Hasan ko de ke miras-e-Payambar
-  Nabi ka janasheen farma raha hai
+  Nabi ka janashiṅ farma raha hai
   
   6
   Khabar rakhna Hasan sab bhaiyoṅ ki
@@ -46,7 +46,7 @@ romanLyrics: |-
   
   8
   Husain us ko gale se tum lagana
-  Tumhare samt de ke aa raha hai
+  Tumhare simt de ke aa raha hai
   
   9
   Khayal-e-Karbala aa aa ke shayad
@@ -58,7 +58,7 @@ romanLyrics: |-
   
   11
   Ibn-e-Muljim teri talwar ka war
-  Kalam Allah se takra raha hai
+  Kalam-e-Allah se takra raha hai
   
   12
   Ali ko Fazl manzar Karbala ka
