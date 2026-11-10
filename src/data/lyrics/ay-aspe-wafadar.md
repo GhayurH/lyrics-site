@@ -1,75 +1,76 @@
 ---
 title: "جب آخری رخصت کو چلے سیدہ والا"
-alternateTitle: "Ay Aspe Wafadar"
+alternateTitle: "Ae Asp-e-Wafaadaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Aspe Wafadar"]
 published: false
 romanLyrics: |-
-  Jab aakhri ruqsat ko chale sayyede waala
-  Hamsheer ko dukhtar ko bhi allah ko saumpa
-  Phir rote huwe aspe wafadaar se bole
-  Aa tu bhi wida bekas o mazloom se ho le
-  Ay aspe wafadaar ay aspe wafadaar
+  Jab aakhri rukhsat ko chale Sayyid-e-waala
+  Hamsheer ko dukhtar ko bhi Allah ko sauṅpa
+  Phir rote huwe asp-e-wafaadaar se bole
+  Aa tu bhi wida bekas o mazlum se ho le
+  Ae asp-e-wafaadaar ae asp-e-wafaadaar
 
   1
-  Maana ke bahot zakhm hai tere bhi badan par
-  Asghar ki tarha pyasa hai meri tarha muztar
-  Ye aakhri khidmat hai ada kar paye hyder
-  Gardan pe meri shimr ki chalne ko hai talwaar
+  Maana ke bahut zakhm hai tere bhi badan par
+  Asghar ki tarah pyaasa hai meri tarah muztar
+  Ye aakhri khidmat hai ada kar paaye Haidar
+  Gardan pe meri Shimr ki chalne ko hai talwaar
 
   2
-  Tu to mere nana ki sawari mein raha hai
-  Ab tujhse bichadne ka mujhe ranj bada hai
-  Par kya karun mehzar mein mera naam likha hai
-  Raakib tera marne ko chala hai mere rehwaar
+  Tu to mere naana ki sawaari mein raha hai
+  Ab tujh se bichharne ka mujhe ranj bara hai
+  Par kya karuṅ mehzar mein mera naam likha hai
+  Raakib tera marne ko chala hai mere rahwaar
 
   3
-  Jab girne lagun zeen se maqtal ki zameen par
-  Jab mujhpe barasne lage har simt se pathar
-  Aur shimre layeen tan se juda karne lage sar
-  Zainab na kahin dekhkle ban jaaiyo dewaar
+  Jab girne laguṅ zin se maqtal ki zamiṅ par
+  Jab mujh pe barasne lage har simt se patthar
+  Aur Shimr-e-laiṅ tan se juda karne lage sar
+  Zainab na kahiṅ dekh le ban jaaiyo diwaar
 
   4
-  Laasha mera pamaal karenge ye sitamgar
-  Maarega koi teer koi pherega khanjar
-  Rehne nahi denge mera malboos badan par
-  Tadpega sar e nehr mera bhai alamdar
+  Laasha mera paamaal kareṅge ye sitamgar
+  Maarega koi tir koi pherega khanjar
+  Rehne nahiṅ deṅge mera malbus badan par
+  Tarpega sar-e-nehr mera bhai alamdaar
 
   5
-  Ye sun ke tadapne laga kehne laga ro kar
-  Behtar hai ke jaan dedun mai kuffar se lad kar
-  Ay kaash ke chal jaaye mere halq pe khanjar
-  Mai aap pe jaan dene ko tayyar hoon sau baar
-  Ay sayyede abraar ay sayyede abraar
+  Ye sun ke tarapne laga kehne laga ro kar
+  Behtar hai ke jaaṅ de duṅ main kuffaar se lar kar
+  Ae kaash ke chal jaaye mere halq pe khanjar
+  Main aap pe jaaṅ dene ko tayyaar huṅ sau baar
+  Ae Sayyid-e-abraar ae Sayyid-e-abraar
 
   6
-  De hukm to is fauje sitamgar ko kuchal dun
-  Naksha mai zara dayr mein maqtal ka badal dun
-  Har ek sitamgaar ko paigham e ajal dun
-  Ay ibne ali hukm hai bas aap ka darkaar
+  De hukm to is fauj-e-sitamgar ko kuchal duṅ
+  Naqsha main zara der mein maqtal ka badal duṅ
+  Har ek sitamgaar ko paighaam-e-ajal duṅ
+  Ae Ibn-e-Ali hukm hai bas aap ka darkaar
 
   7
-  Ye sun ke hui tar mere maula ki nigahein
-  Gardan mein bade pyar se phir daal di baahein
-  Aur aspe wafadaar bhi bharne laga aahein
-  Maula ne kaha jaa tera allah madadgaar
+  Ye sun ke hui tar mere Maula ki nigaaheiṅ
+  Gardan mein bare pyaar se phir daal di baaheiṅ
+  Aur asp-e-wafaadaar bhi bharne laga aaheiṅ
+  Maula ne kaha jaa tera Allah madadgaar
 
   8
-  Ab hashr mein hum tujhse mulaqaat karenge
-  Maqtal mein basar aaj se din raat karenge
-  Hum khuld mein nana se teri baat karenge
-  Royenge tujhe dekh ke sab mere azadaar
+  Ab hashr mein hum tujh se mulaaqaat kareṅge
+  Maqtal mein basar aaj se din raat kareṅge
+  Hum khuld mein naana se teri baat kareṅge
+  Royeṅge tujhe dekh ke sab mere azaadaar
 
   9
-  Rehaan nazar aati hai jab sheh ki sawari
-  Aankhon se azadaron ke khoon hota hai jaari
-  Kehte hai ke qurban ho jaan tum pe hamari
-  Dekha nahi tujh jaisa koi shaah ka ghamkhwar
+  Rehaan nazar aati hai jab Shah ki sawaari
+  Aankhoṅ se azaadaaroṅ ke khuṅ hota hai jaari
+  Kehte haiṅ ke qurbaan ho jaaṅ tum pe hamaari
+  Dekha nahiṅ tujh jaisa koi Shaah ka ghamkhwaar
 # source_id: nohayonline:e6cb47adbb6e2c4c3bfe
 # source_url: https://www.nohayonline.com/details_content.php?id=3421
 # raw_sha256: 86106bc957f5673a2bd539d99370404edd184c370d66b29e3bbd9434d0f3fc71
@@ -97,7 +98,7 @@ romanLyrics: |-
 جب گرنے لگوں زین سے مقتل کی زمیں پر
 جب مجھ پہ برسنے لگے ہر سمت سے پتھر
 اور شمر لعیں تن سے جدا کرنے لگے سر
-زینب نہ کہیں دیکھ لے بن جاییو دیوار
+زینب نہ کہیں دیکھ لے بن جائیو دیوار
 
 ۴
 لاشہ میرا پامال کریں گے یہ ستمگر
@@ -114,12 +115,12 @@ romanLyrics: |-
 
 ۶
 دے حکم تو اس فوج ستمگر کو کچل دوں
-نقشہ میں زرا دیر میں مقتل کا بدل دوں
+نقشہ میں ذرا دیر میں مقتل کا بدل دوں
 ہر ایک ستمگار کو پیغام اجل دوں
 اے ابنِ علی حکم ہے بس آپ کا درکار
 
 ۷
-یہ سن کے ہوی تر میرے مولا کی نگاہیں
+یہ سن کے ہوئی تر میرے مولا کی نگاہیں
 گردن میں بڑے پیار سے پھر ڈال دی باہیں
 اور اسپ وفادار بھی بھرنے لگا آہیں
 مولا نے کہا جا تیرا اللہ مددگار
@@ -128,7 +129,7 @@ romanLyrics: |-
 اب حشر میں ہم تجھ سے ملاقات کریں گے
 مقتل میں بسر آج سے دن رات کریں گے
 ہم خلد میں نانا سے تیری بات کریں گے
-رویینگے تجھے دیکھ کے سب میرے عزادار
+روئیں گے تجھے دیکھ کے سب میرے عزادار
 
 ۹
 ریحان نظر آتی ہے جب شہ کی سواری

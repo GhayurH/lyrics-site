@@ -1,40 +1,41 @@
 ---
 title: "اے اصغر ناداں"
-alternateTitle: "Ay Asghare Nadan"
+alternateTitle: "Ae Asghar-e-Naadaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Asghare Nadan"]
 published: false
 romanLyrics: |-
-  Ay asghar e nadan
-  
+  Ae Asghar-e-naadaaṅ
+
   1
-  Dushman ki nazar se tumhe allah bachaye
-  Phir maa se milaye
-  Takti hai teri raah ko dewdi pe khadi maa
-  
+  Dushman ki nazar se tumheiṅ Allah bachaaye
+  Phir maaṅ se milaaye
+  Takti hai teri raah ko deorhi pe khari maaṅ
+
   2
-  Ay mere pur armaan meri aankhon ke taare
-  Ay raaj dulaare
-  Maidan ko tum jaate ho allah nigehban
-  
+  Ae mere pur armaaṅ meri aankhoṅ ke taare
+  Ae raaj dulaare
+  Maidaaṅ ko tum jaate ho Allah nigahbaaṅ
+
   3
-  Rakha tha tumhe maine zamane se bacha ke
-  Seene se laga ke
-  Is dasht mein tum maa se bichadte ho meri jaan
-  
+  Rakha tha tumheiṅ main ne zamaane se bacha ke
+  Sine se laga ke
+  Is dasht mein tum maaṅ se bichharte ho meri jaaṅ
+
   4
-  Ay raahate jaan noor e nazar ghar ke ujaale
-  Ay hasliyon waale
-  Maidan se jald aaiyo ye maa tere qurban
-  
+  Ae raahat-e-jaaṅ nur-e-nazar ghar ke ujaale
+  Ae hasliyoṅ waale
+  Maidaan se jald aaiyo ye maaṅ tere qurbaaṅ
+
   5
-  Tum hote jawan shaan se mai byaah rachaati
+  Tum hote jawaaṅ shaan se main byaah rachaati
   Aur dulha banaati
-  Mai lut'ti hoon milta hai mera khaak mein armaan
+  Main lutti huṅ milta hai mera khaak mein armaaṅ
 # source_id: nohayonline:80b5361745d30734151c
 # source_url: https://www.nohayonline.com/details_content.php?id=3765
 # raw_sha256: 78857b4656e88bafbaded334d922e0bd0b3984ee292d1a8db1a9efda786f2031
@@ -44,7 +45,7 @@ romanLyrics: |-
 
 ۱
 دشمن کی نظر سے تمہیں اللہ بچائے
-پھر ماں سے ملاے
+پھر ماں سے ملائے
 تکتی ہے تیری راہ کو ڈیوڑھی پہ کھڑی ماں
 
 ۲

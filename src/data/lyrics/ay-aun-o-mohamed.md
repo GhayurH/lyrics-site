@@ -1,40 +1,41 @@
 ---
 title: "اے عون و محمد میرے"
-alternateTitle: "Ay Aun O Mohamed"
+alternateTitle: "Ae Aun o Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Aun O Mohamed"]
 published: false
 romanLyrics: |-
-  Ay aun o mohamed mere
-  
+  Ae Aun o Muhammad mere
+
   1
-  Dunya ko khatakne lage do phool se chehre
-  Insano ke seeno may thay pathar ke kaleje
-  Talwaron se naizon se kiye tum pe jo hamle
-  
+  Dunya ko khatakne lage do phul se chehre
+  Insaanoṅ ke sinoṅ mein the patthar ke kaleje
+  Talwaaroṅ se nezoṅ se kiye tum pe jo hamle
+
   2
-  Dono hai shaeedane wafa aun o mohamed
-  Islam ke maqsad ki baqa aun o mohamed
-  Maa karti hai laashon pe jo shukr ke sajde
-  
+  Donoṅ haiṅ shahidaan-e-wafa Aun o Muhammad
+  Islam ke maqsad ki baqa Aun o Muhammad
+  Maaṅ karti hai laashoṅ pe jo shukr ke sajde
+
   3
-  Bhai ka ye aalam mujhe dekha nahi jaata
-  Hai narghaye aada may mohamed ka nawasa
-  Tum hote to faujon ko bahot door bhagate
-  
+  Bhai ka ye aalam mujhe dekha nahiṅ jaata
+  Hai nargha-e-aada mein Muhammad ka nawaasa
+  Tum hote to faujoṅ ko bahut dur bhagaate
+
   4
-  Abbas e ali nehr par jaakar nahi palte
-  Pani ko taraste hai jo qaimon may ye bache
+  Abbas-e-Ali nehr par jaa kar nahiṅ palte
+  Paani ko taraste haiṅ jo khaimoṅ mein ye bachche
   Darya pe wo zaalim ne kiye zulm ke pehre
-  
+
   5
-  Ab hogayi zainab ko sada zindagi bhaari
-  Maa hoo mera pathar ka kaleja nahi waari
-  Tum dono gaye chod ke maadar ko akele
+  Ab ho gayi Zainab ko sada zindagi bhaari
+  Maaṅ huṅ mera patthar ka kaleja nahiṅ waari
+  Tum donoṅ gaye chhor ke maadar ko akele
 # source_id: nohayonline:3b8ec920a49247c7325f
 # source_url: https://www.nohayonline.com/details_content.php?id=931
 # raw_sha256: 419f85e5e505861d1a580090b232fa3686eb6c2533162a6a12e34d306ad649e4
@@ -63,6 +64,6 @@ romanLyrics: |-
 دریا پہ وہ ظالم نے کیے ظلم کے پہرے
 
 ۵
-اب ہوگیء زینب کو صدا زندگی بھاری
+اب ہو گئی زینب کو صدا زندگی بھاری
 ماں ہوں میرا پتھر کا کلیجہ نہیں واری
-تم دونوں گےء چھوڑ کے مادر کو اکیلے
+تم دونوں گئے چھوڑ کے مادر کو اکیلے

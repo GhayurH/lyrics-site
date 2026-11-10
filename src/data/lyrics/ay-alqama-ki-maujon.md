@@ -1,57 +1,58 @@
 ---
 title: "اے علقمہ کی موجوں خاموش کیوں ہو بولو"
-alternateTitle: "Ay Alqama Ki Maujon"
+alternateTitle: "Ae Alqama Ki Maujoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Alqama Ki Maujon"]
 published: false
 romanLyrics: |-
-  Ay alqama ki maujon khamosh kyun ho bolo
-  Kya raaze tashnagi tha kuch to zuban kholo
+  Ae Alqama ki maujoṅ khaamosh kiuṅ ho bolo
+  Kya raaz-e-tashnagi tha kuch to zubaan kholo
 
   1
-  Ghazi ke gham mein bacche ro ro ke so chuke hai
-  Aankhon mein meri aansu sab khushk ho chuke hai
+  Ghazi ke gham mein bachche ro ro ke so chuke haiṅ
+  Aankhoṅ mein meri aansu sab khushk ho chuke haiṅ
   Abbas ke alam se tum hi lipat ke ro lo
 
   2
-  Kooze zameen pe rakh kar be-aas ho gayi hai
-  Yani sakina ab to pani se darr rahi hai
-  Pani ke naam se bhi darti hai ab wo dekho
+  Kuze zamiṅ pe rakh kar beaas ho gayi hai
+  Yaani Sakina ab to paani se dar rahi hai
+  Paani ke naam se bhi darti hai ab wo dekho
 
   3
-  Baazu qalam huwe hai darya pe jis jari ke
-  Saydaniya jama hai uske alam ke neeche
-  Mashk e sakina koi uske alam se kholo
+  Baazu qalam huwe haiṅ darya pe jis jari ke
+  Sayyidaaniyaṅ jama haiṅ us ke alam ke niche
+  Mashk-e-Sakina koi us ke alam se kholo
 
   4
-  Do neem hogayi hai gham se kamar hamari
-  Kehte thay shaahe waala ghazi mai tujhpe waari
-  Hasrat hai ye hamari ek baar bhai keh do
+  Do nim ho gayi hai gham se kamar hamaari
+  Kehte the Shaah-e-waala Ghazi main tujh pe waari
+  Hasrat hai ye hamaari ek baar bhai keh do
 
   5
   Zainab pukarti hai meri rida ka zaamin
-  Darya pe sogaya hai guzrenge kis tarha din
-  Ay bibiyon ab apni chadar se haath dholo
+  Darya pe so gaya hai guzreṅge kis tarah din
+  Ae Bibiyoṅ ab apni chaadar se haath dho lo
 
   6
-  Har soo bapa hai matam har dil tadap raha hai
-  Ek sher alqama ki godhi mein so raha hai
+  Har su bapa hai maatam har dil tarap raha hai
+  Ek sher Alqama ki godi mein so raha hai
   Soya hua hai thak kar aahistigi se bolo
 
   7
-  Kehta tha fazl ro kar ay mere baba jaan
-  Rehne na doonga laasha aada ke darmiyan
-  Mai aa raha hoon baba lillaah tum na roko
+  Kehta tha Fazl ro kar ae mere baaba jaan
+  Rehne na duṅga laasha aada ke darmiyaaṅ
+  Main aa raha huṅ baaba lillaah tum na roko
 
   8
-  Ghazi ke baad sheh ke bacchon ka haal kya tha
-  Koi bilak raha tha koi tadap raha tha
-  Ghazi ke ye masayeb rehaan tum bhi likho
+  Ghazi ke baad Shah ke bachchoṅ ka haal kya tha
+  Koi bilak raha tha koi tarap raha tha
+  Ghazi ke ye masaaib Rehaan tum bhi likho
 # source_id: nohayonline:f1d73b05a1969486fa9b
 # source_url: https://www.nohayonline.com/details_content.php?id=3422
 # raw_sha256: 2469f30df1de6f96d95e0fff32f87363eeeeeecade84b9edc51d1288fefacfe8
@@ -61,23 +62,23 @@ romanLyrics: |-
 
 ۱
 غازی کے غم میں بچے رو رو کے سو چکے ہیں
-آنکھوں میں میری آنسوں سب خشک ہو چکے ہیں
+آنکھوں میں میری آنسو سب خشک ہو چکے ہیں
 عباس کے علم سے تم ہی لپٹ کے رو لو
 
 ۲
-کوزے زمیں پہ رکھ کر بے آس ہو ہو گیء ہے
+کوزے زمیں پہ رکھ کر بے آس ہو گئی ہے
 یعنی سکینہ اب تو پانی سے ڈر رہی ہے
 پانی کے نام سے بھی ڈرتی ہے اب وہ دیکھو
 
 ۳
 بازو قلم ہوئے ہیں دریا پہ جس جری کے
 سیدانیاں جمع ہیں اس کے علم کے نیچے
-مشک سکینہ کوی اس کے علم سے کھولو
+مشک سکینہ کوئی اس کے علم سے کھولو
 
 ۴
-دو نیم ہو گیء ہے غم سے کمر ہماری
+دو نیم ہو گئی ہے غم سے کمر ہماری
 کہتے تھے شاہ والا غازی میں تجھ پہ واری
-حسرت ہے یہ ہماری ایک بار بھای کہہ دو
+حسرت ہے یہ ہماری ایک بار بھائی کہہ دو
 
 ۵
 زینب پکارتی ہے میری ردا کا ضامن
@@ -85,16 +86,16 @@ romanLyrics: |-
 اے بی بیوں اب اپنی چادر سے ہاتھ دھو لو
 
 ۶
-ہر سوں بپا ہے ماتم ہر دل تڑپ رہا ہے
+ہر سو بپا ہے ماتم ہر دل تڑپ رہا ہے
 ایک شیر علقمہ کی گودی میں سو رہا ہے
 سویا ہوا ہے تھک کر آہستگی سے بولو
 
 ۷
 کہتا تھا فضل رو کر اے میرے بابا جان
 رہنے نہ دوں گا لاشہ اعدا کے درمیاں
-میں آ رہا ہوں بابا لللہ تم نہ رو کو
+میں آ رہا ہوں بابا للہ تم نہ روکو
 
 ۸
 غازی کے بعد شہ کے بچوں کا حال کیا تھا
-کوی بلک رہا تھا کوی تڑپ رہا تھا
+کوئی بلک رہا تھا کوئی تڑپ رہا تھا
 غازی کے یہ مصائب ریحان تم بھی لکھو
