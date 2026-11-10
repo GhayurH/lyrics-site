@@ -48,6 +48,9 @@ romanLyrics: |-
 # source_id: nohayonline:66e65b6e151ed603e0e4
 # source_url: https://www.nohayonline.com/details_content.php?id=2034
 # raw_sha256: 6883e62a05f8ba78f35b7061648bbf9672fe04c4537e0c80fce522abfb0fc573
+# source_id: ziyaraat:51dbe63a3ee863e8c963
+# source_url: https://www.ziyaraat.net/api/noha/1886
+# raw_sha256: 9ac52a9111a958456481bf2bbe19df1697218d289dfc466c6c7f95db27bf879e
 ---
 
 اے راکب دوشِ شاہ لو لاک
