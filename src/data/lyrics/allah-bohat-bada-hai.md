@@ -10,141 +10,80 @@ tags: ["noImage"]
 aliases: ["allah-bohat-bara-hai", "allah-bohat-bara-hai-nadeem-sarwar"]
 recitationId: "allah-bohat-bara-hai-nadeem-sarwar"
 published: false
-romanLyrics: 'Sab ne yehi kaha hai allah bohat bada hai
-
+romanLyrics: |-
+  Sab ne yehi kaha hai Allah bohat bara hai
+  Quran mein likha hai Allah bohat bara hai
+  Har had se maawara hai Allah bohat bara hai
 
   1
-
-  Quran mein likha hai allah bohat bada hai
-
-  Har hadh se maawara hai allah bohat bada hai
-
-  Ye mehr o maah o anjum daryaon mein talatum
-
-  Chlati hui hawayein awaaz ka tarannum
-
-  Khush rang taayeron ka phaila hua tabassum
-
-  Tarteeb waar ghunche aise ke rashk e anjum
-
-  Ye kun ka maujiza hai allah bohat bada hai
-
+  Ye mehr o maah o anjum daryaaoṅ mein talaatum
+  Chalti hui hawaayeṅ aawaaz ka tarannum
+  Khush rang taairoṅ ka phaila hua tabassum
+  Tarteeb waar ghunche aise ke rashk-e-anjum
+  Ye kun ka maujiza hai Allah bohat bara hai
 
   2
-
-  Mitti ke paikaron mein tehreek daalta hai
-
-  Suye falak zameen se taare uchaalta hai
-
-  Pataal se jawaade wo hi nikalta hai
-
-  Parwardigar wo hai dunya ko paalta hai
-
-  Har hadh se maawara hai allah bohat bada hai
-
+  Mitti ke paikaroṅ mein tehreek daalta hai
+  Su-e-falak zamiṅ se taare uchhaalta hai
+  Paataal se jawaahir wohi nikaalta hai
+  Parwardigaar wo hai duniya ko paalta hai
+  Har had se maawara hai Allah bohat bara hai
 
   3
-
-  Kaunain mein ayan hai ya rab jo noor tera
-
-  Hai taab kis nazar mein dekhe zahoor tera
-
-  Tasbeeh khwah hum kya hai koh e toor tera
-
-  Jisko bhi mil gaya hai maula sha''oor tera
-
-  Wo mustufa hua hai allah bohat bada hai
-
+  Kaunain mein ayaaṅ hai ya Rab jo nur tera
+  Hai taab kis nazar mein dekhe zuhur tera
+  Tasbih khwaah hum kya hai koh-e-Tur tera
+  Jis ko bhi mil gaya hai Maula shaur tera
+  Wo Mustafa hua hai Allah bohat bara hai
 
   4
-
-  Tu ba-kamaal jaisa waise tere payambar
-
-  Sab tere madhakhwan hai sab hi tere sanagar
-
-  Kya badshaah o kudsi kya muflis o gadagar
-
-  In saari hastiyaon mein wo aamina ka dilbar
-
-  Wo bhi to lab kusha hai allah bohat bada hai
-
+  Tu ba kamaal jaisa waise tere payambar
+  Sab tere madh khwaaṅ haiṅ sab hi tere sanaa gar
+  Kya baadshaah o qudsi kya muflis o gadaagar
+  In saari hastiyoṅ mein wo Aamina ka dilbar
+  Wo bhi to lab kusha hai Allah bohat bara hai
 
   5
-
-  Kausain ki thi manzil hairaan ambiya thay
-
-  Jibreel ruk gaye thay ek marhale pe aake
-
-  Raste banaye tu ne parde hata hata ke
-
-  Meraaj par mohamed pahunche teri riza se
-
-  Ek shor goonjta hai allah bohat bada hai
-
+  Qausain ki thi manzil hairaan ambiya the
+  Jibril ruk gaye the ek marhale pe aake
+  Raste banaaye tu ne parde hata hata ke
+  Meraaj par Muhammad pahunche teri riza se
+  Ek shor gunjta hai Allah bohat bara hai
 
   6
-
-  Jaise hi guftugu ki allah ne nabi se
-
-  Bole nabi ye lehja marboot hai ali se
-
-  Hairaan huwe mohamed is lehja e khafi se
-
-  Kya guftugu hai meri allah ke wali se
-
-  Ye raaz ghaib ka hai allah bohat bada hai
-
+  Jaise hi guftugu ki Allah ne Nabi se
+  Bole Nabi ye lehja marbut hai Ali se
+  Hairaaṅ hue Muhammad is lehja-e-khafi se
+  Kya guftugu hai meri Allah ke wali se
+  Ye raaz ghaib ka hai Allah bohat bara hai
 
   7
-
-  Allah ki badayi yun to sabhi ne ki hai
-
-  Lekin jo karbala ki tareekh bolti hai
-
-  Nok e sina se rab ki tauseef ho chuki hai
-
-  Tadbeer zer e khanjar shabbir ne kahi hai
-
-  Mazloom ki sada hai allah bohat bada hai
-
+  Allah ki baraai yuṅ to sabhi ne ki hai
+  Lekin jo Karbala ki taarikh bolti hai
+  Nok-e-sinaaṅ se Rab ki tausif ho chuki hai
+  Tadbeer zer-e-khanjar Shabbir ne kahi hai
+  Mazlum ki sada hai Allah bohat bara hai
 
   8
-
-  Kisne kiya hai sajda khanjar tale jahan mein
-
-  Kaante pade huwe thay jab pyaas se zuban mein
-
-  Jab aag lag rahi thi zehra ke gulsitan mein
-
-  Chup chup ke chand taare rote thay aasman hai
-
-  Maula ne tab kaha hai allah bohat bada hai
-
+  Kis ne kiya hai sajda khanjar tale jahaaṅ mein
+  Kaante pare hue the jab pyaas se zabaaṅ mein
+  Jab aag lag rahi thi Zehra ke gulsitaaṅ mein
+  Chhup chhup ke chaand taare rote the aasmaan mein
+  Maula ne tab kaha hai Allah bohat bara hai
 
   9
-
-  Kya nafse mutmainna sajjad ne tha paaya
-
-  Ek ek sitam pe jisne sajde mein sar jhukaya
-
-  Tauq e garan pehen kar shikwa na lab pe laaya
-
-  Kunbe ko apne lekar taa shaam tha jo aaya
-
-  Har gaam par kaha hai allah bohat bada hai
-
+  Kya nafs-e-mutmainna Sajjad ne tha paaya
+  Ek ek sitam pe jis ne sajde mein sar jhukaaya
+  Tauq-e-garaaṅ pehen kar shikwa na lab pe laaya
+  Kunbe ko apne le kar taa Shaam tha jo aaya
+  Har gaam par kaha hai Allah bohat bara hai
 
   10
-
-  Seene pe barchi khaa ke akbar ne ye sada di
-
-  Ye aakhri hai manzil khushnoodi e khuda ki
-
-  Khaake shifa bana di karbobala ki matti
-
-  Bole rehaan o sarwar tareekh e karbala bhi
-
-  Maula ne sach kaha hai allah bohat bada hai'
+  Sine pe barchhi khaa ke Akbar ne ye sada di
+  Ye aakhri hai manzil khushnudi-e-Khuda ki
+  Khaak-e-shifa bana di Karbobala ki mitti
+  Bole Rehaan o Sarwar taarikh-e-Karbala bhi
+  Maula ne sach kaha hai Allah bohat bara hai
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:2f9abc2ac169225f537f
 # source_url: https://www.nohayonline.com/details_content.php?id=3309
@@ -158,11 +97,11 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 سب نے یہی کہا ہے اللہ بہت بڑا ہے
-
-۱
 قرآن میں لکھا ہے اللہ بہت بڑا ہے
 ہر حد سے ماورا ہے اللّٰہ بہت بڑا ہے
-یہ مہرو ماہ و انجم دریاؤں میں تلاطم
+
+۱
+یہ مہر و ماہ و انجم دریاؤں میں تلاطم
 چلتی ہوئی ہوائیں آواز کا ترنم
 خوش رنگ طائروں کا پھیلا ہوا تبسم
 ترتیب وار غنچے ایسے کہ رشک انجم
@@ -183,14 +122,14 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 وہ مصطفیٰ ہوا ہے اللّٰہ بہت بڑا ہے
 
 ۴
-تا بہ کمال جیسا ویسے تیرے پیمبر
+تو با کمال جیسا ویسے تیرے پیمبر
 سب تیرے مدح خواں ہیں سب ہی تیرے ثنا گر
 کیا بادشاہ و قدسی کیا مفلس و گداگر
 ان ساری ہستیوں میں وہ آمنہ کا دلبر
 وہ بھی تو لب کشا ہے اللّٰہ بہت بڑا ہے
 
 ۵
-کونین کی تھی منزل حیران انبیاء تھے
+قوسین کی تھی منزل حیران انبیاء تھے
 جبریل رک گئے تھے ایک مرحلے پہ آکے
 رستے بنائے تو نے پردے ہٹا ہٹا کے
 معراج پر محمد پہنچے تیری رضا سے
@@ -204,9 +143,9 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 یہ راز غیب کا ہے اللّٰہ بہت بڑا ہے
 
 ۷
-اللّٰہ کی بڑای یوں تو سبھی نے کی ہے
+اللّٰہ کی بڑائی یوں تو سبھی نے کی ہے
 لیکن جو کربلا کی تاریخ بولتی ہے
-نوکِ سناں سے رب کی توسیف ہو چکی ہے
+نوکِ سناں سے رب کی توصیف ہو چکی ہے
 تدبیر زیر خنجر شبیر نے کہی ہے
 مظلوم کی صدا ہے اللّٰہ بہت بڑا ہے
 

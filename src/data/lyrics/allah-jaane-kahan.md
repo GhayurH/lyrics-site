@@ -11,61 +11,61 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab Sham ke zindan mein huvi shaam haram ko
-  Ek aan na rahat thi na aaram haram ko
-  Har baar tapakta tha lahoo ashke rawan se
-  Zindan larazta tha sakina ki fughan se
-  Allah jaane kahan ho ae Baba
-  Kitni raatein guzar gayi baba
+  Jab Shaam ke zindaaṅ mein hui shaam haram ko
+  Ek aan na raahat thi na aaraam haram ko
+  Har baar tapakta tha lahu ashk-e-rawaaṅ se
+  Zindaan larazta tha Sakina ki fughaaṅ se
+  Allah jaane kahaaṅ ho ae Baba
+  Kitni raateṅ guzar gaiṅ Baba
 
   1
-  Chhote se sin mein qaidi e zindan hogayi
-  Baba main kiun na aap pe qurban hogayi
+  Chhote se sin mein qaidi-e-zindaan ho gai
+  Baba main kiuṅ na aap pe qurbaan ho gai
 
   2
-  Dil mein jo mere dard hai khaaliq ke hai ayan
-  Kis ko kahoo mai baap mera baap hai kahan
-  Tum bekafan mai besar o saman hogayi
+  Dil mein jo mere dard hai Khaaliq ke hai ayaaṅ
+  Kis ko kahuṅ main baap mera baap hai kahaaṅ
+  Tum bekafan main besar o saamaan ho gai
 
   3
-  Kya kya na khalq kalme haqarat ke kehgayi
-  Mai bekasi se dekh ke moo sab ka rehgayi
-  Kurta phata huwa meri pehchan hogayi
+  Kya kya na khalq kalme haqaarat ke keh gai
+  Main bekasi se dekh ke munh sab ka reh gai
+  Kurta phata hua meri pehchaan ho gai
 
   4
-  Gar aah ki to shimr pukara khamosh ho
-  Aur chup huwi to be-padari ne kaha ke ro
-  In aafaton mein ghir ke pareshan hogayi
+  Gar aah ki to Shimr pukaara khamosh ho
+  Aur chup hui to bepadari ne kaha ke ro
+  In aafatoṅ mein ghir ke pareshaan ho gai
 
   5
-  Bejurm kaan zakhmi huwe aur tamache khaye
-  Jo chahe mujh falak ki satayi ko phir sataye
-  Shehzadi e Husain ki ye shaan hogayi
+  Bejurm kaan zakhmi hue aur tamaache khaaye
+  Jo chaahe mujh falak ki sataai ko phir sataaye
+  Shehzaadi-e-Husain ki ye shaan ho gai
 
   6
-  Sadqe gayi batao kahan hai mere padar
-  Aaye padar to jaye sakina bhi apne ghar
-  Kyun aise zaalimo ki mai mehman hogayi
+  Sadqe gai bataao kahaaṅ haiṅ mere padar
+  Aaeṅ padar to jaaye Sakina bhi apne ghar
+  Kiuṅ aise zaalimoṅ ki main mehmaan ho gai
 
   7
-  Pothi hoo uski jo ke hai kaunain ka ameer
-  Jisne hazaro qaid se chudwa diye aseer
-  Ummat nabi ki dekh ke anjaan hogayi
+  Poti huṅ uski jo ke hai kaunain ka amir
+  Jis ne hazaaroṅ qaid se chhurwa diye asir
+  Ummat Nabi ki dekh ke anjaan ho gai
 
   8
-  Jab sar pe shaah-e-deen ke sakina ne ki nazar
-  Chillayi roke haye ghazab mar gaye padar
-  Baba ke sar ko dekh ke hairan hogayi
+  Jab sar pe Shaah-e-diṅ ke Sakina ne ki nazar
+  Chillaai roke haaye ghazab mar gaye padar
+  Baba ke sar ko dekh ke hairaan ho gai
 
   9
-  Moo rakh ke moo pe shaah ke royi jo dil figaar
-  Sadma huwa nikalne lagi tan se jaan-e-zaar
-  Nanhi si jaan jaan se bejaan hogayi
+  Munh rakh ke munh pe Shaah ke roi jo dil figaar
+  Sadma hua nikalne lagi tan se jaan-e-zaar
+  Nanhi si jaan jaan se bejaan ho gai
 
   10
-  Bas ay anees bazm mein hai girya o buka
-  Sadiyon talak rulayega sab ko ye marsiya
-  Bali sakina karb ka unwan hogayi
+  Bas ae Anees bazm mein hai girya o buka
+  Sadiyoṅ talak rulaaye ga sab ko ye marsiya
+  Baali Sakina karb ka unwaan ho gai
 # source_id: nohayonline:aa244a3f92a829b505d9
 # source_url: https://www.nohayonline.com/details_content.php?id=334
 # raw_sha256: d2b2d719b1c4a1fd32e69a8baf19ea55bc6254fbf3b5104cd0817689b817b9b8

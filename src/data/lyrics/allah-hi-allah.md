@@ -11,37 +11,37 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sarwar ki shahadat ka andaz nirala hai
+  Sarwar ki shahaadat ka andaaz niraala hai
   Allah hi Allah Maula hi Maula
   Sog mana lo duniya waloṅ
 
   1
   Karbobala mein sheroṅ ka ek hi naara hai
-  Sar kat ke shahadat ka andaz nirala hai
+  Sar kat ke shahaadat ka andaaz niraala hai
 
   2
-  Sher gira Abbas gira ran sara kanpa hai
+  Sher gira Abbas gira ran saara kaanpa hai
   Gumbad Masjid-e-Nabawi ka sog mein girya hai
 
   3
-  Chirag-e-Hasan bhi kafan sar se bandhe
+  Chiraagh-e-Hasan bhi kafan sar se baandhe
   Chale Karbala ko chale
-  Nishani Hasan ki dulha ran mein ban ke
+  Nishaani Hasan ki dulha ran mein ban ke
   Lare Karbala mein lare
-  Ibn-e-Hasan Qasim ka tan para para hai
+  Ibn-e-Hasan Qasim ka tan paara paara hai
   Dulhan ki taqdir ka duba taara hai
 
   4
-  Akbar ki jawani ka bas khatm fasana hai
+  Akbar ki jawaani ka bas khatm fasaana hai
   Misl-e-Payambar Akbar si khun mein duba hai
 
   5
-  Sab se bari ibadat hi matam karna hai
-  Matam ke mukhalif se ab kya darna hai
+  Sab se bari ibaadat hi maatam karna hai
+  Maatam ke mukhalif se ab kya darna hai
 
   6
-  Mashk-e-Sakina ka ab se Abbas sahara hai
-  Pyasoṅ ki har aas ka Abbas sahara hai
+  Mashk-e-Sakina ka ab se Abbas sahaara hai
+  Pyaasoṅ ki har aas ka Abbas sahaara hai
 # source_id: nohayonline:63b096308c902a446c82
 # source_url: https://www.nohayonline.com/details_content.php?id=955
 # raw_sha256: 1cc4d8bd35dd72de2c2771b3fff282239c8b525b3d48843042e824b1d5b2e907
@@ -49,7 +49,7 @@ romanLyrics: |-
 
 سرور کی شہادت کا انداز نرالہ ہے
 اللہ ہی اللہ مولا ہی مولا
-سوگ منا لو دنیا والو
+سوگ منا لو دنیا والوں
 
 ۱
 کربوبلا میں شیروں کا ایک ہی نعرہ ہے
