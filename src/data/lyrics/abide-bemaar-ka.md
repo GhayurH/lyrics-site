@@ -11,32 +11,32 @@ aliases: []
 published: false
 reciter: "Mukhtar Hussain"
 romanLyrics: |-
-  Momino ye hai janaza Abid-e-Bimar ka
-  Jo kabhi bhula na manzar Shaam ke bazar ka
+  Mominoṅ ye hai janaaza Abid-e-Bimar ka
+  Jo kabhi bhula na manzar Shaam ke baazaar ka
 
   1
   Dhup thi aur pyas thi aur taziyana tha ghiza
-  Khuṅ bhi jaari jism se tha Shah ke dildar ka
+  Khuṅ bhi jaari jism se tha Shah ke dildaar ka
 
   2
   Di sada Zainab ne Baba lo lainoṅ ne ke jab
   Pusht se khincha gaya tha bistar Abid-e-Bimar ka
 
   3
-  Maaṅ phuphi behneṅ khari thiṅ berida bazar mein
-  Tha ajab ye imtihan us qafila-salar ka
+  Maaṅ phuphi behneṅ khari thiṅ berida baazaar mein
+  Tha ajab ye imtihaṅ us qaafila-saalaar ka
 
   4
   Barsar-e-mehfil taaruf Bibiyoṅ ka jab hua
-  Sharm se sar jhuk gaya us bekas o lachar ka
+  Sharm se sar jhuk gaya us bekas o laachaar ka
 
   5
   Kuchh nahiṅ parwa sataish ki baroz-e-hashr hi
-  Deṅge Maula khud sila mujh ko mere ashar ka
+  Deṅ ge Maula khud sila mujh ko mere ashaar ka
 
   6
   Ab dua ye hai Shajiha ki Imam-e-Asr se
-  Silsila jaari rahe afkar ke izhar ka
+  Silsila jaari rahe afkaar ke izhaar ka
 # source_id: nohayonline:b6928817608f9def5066
 # source_url: https://www.nohayonline.com/details_content.php?id=1417
 # raw_sha256: f01b91bdac5015da0113cc41548c4337159b3a7d96b0ca31de19064e75681849

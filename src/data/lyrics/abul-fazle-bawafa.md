@@ -12,7 +12,7 @@ published: false
 reciter: "Nasir Zaidi"
 romanLyrics: |-
   Abul Fazl-e-Bawafa Alamdar-e-Lashkaram
-  Mah-e-Hashmi nasab Amir-e-Dilawaram
+  Maah-e-Haashmi nasab Amir-e-Dilaawaram
 
   1
   Tu shahenshah-e-wafadari hai
@@ -48,10 +48,10 @@ romanLyrics: |-
   Bain karti hai ek masuma
   Wo Sakina gala bandha jis ka
   Aaj bhi tere intezar mein hai
-  Aaj bhi zindan se aa rahi hai sada
+  Aaj bhi zindaṅ se aa rahi hai sada
 
   7
-  Tir ek aankh mein tha ek mein lahu
+  Tir ik aankh mein tha ik mein lahu
   Jab kiya hai pae-namaz wuzu
   Qalb-e-Zainab lahu ugalne laga
   Aai pani mein jab teri khushbu
@@ -66,13 +66,13 @@ romanLyrics: |-
   Tere lashe pe jab gaye Shabbir
   Dekha paiwast aankh mein hai tir
   Shiddat-e-gham se jhuk gayi thi kamar
-  Khun mein ghaltan thi baap ki tasvir
+  Khuṅ mein ghaltaṅ thi baap ki tasvir
 
   10
   Zindagi bhar hameṅ kaha Aaqa
   Bole Ghazi se Shah-e-Karbobala
   Mere Nasir meri Rehaan dili
-  Bhai keh do hameṅ pae Zehra
+  Bhai keh do ho hameṅ pae Zehra
 # source_id: nohayonline:b3f79b8a895763a48336
 # source_url: https://www.nohayonline.com/details_content.php?id=1882
 # raw_sha256: 36b2538529a91b3587d7d4c3eb34d2e78aaac413023045ee438ccfcadf08a57a

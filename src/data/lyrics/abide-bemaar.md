@@ -17,70 +17,70 @@ romanLyrics: |-
   Karb mein dube zakhmi wo manzar
   Zulm hazaroṅ ek dil-e-muztar
   Tha yehi noha tere laboṅ par
-  Al-Shaam Al-Shaam Al-Shaam
+  As-Shaam As-Shaam As-Shaam
   Shehr tamasha haye wo bazar
 
   2
   Kaisa sitam ye tujh pe hua hai
   Kaisi asiri kaisi jafa hai
   Tauq mein jakra tera gala hai
-  Al-Shaam Al-Shaam Al-Shaam
+  As-Shaam As-Shaam As-Shaam
   Zainab-e-Kubra teri madadgar
 
   3
   Rahoṅ mein kante paaoṅ mein chhale
   Maaoṅ se bichhre god ke pale
   Kaun kise ab kaise sambhale
-  Al-Shaam Al-Shaam Al-Shaam
+  As-Shaam As-Shaam As-Shaam
   Zulm musalsal manzil-e-dushwar
 
   4
   Pyas ki shiddat karb-e-yatimi
   Nanhi si gardan aur wo rassi
   Kaisi thi ghurbat chhoti behan ki
-  Al-Shaam Al-Shaam Al-Shaam
+  As-Shaam As-Shaam As-Shaam
   Tere jigar par chalti talwar
 
   5
   Khaak mein ghaltan khuṅ mein dube
   Ek rasan mein barah gale the
   Un ko sitamgar khinch rahe the
-  Al-Shaam Al-Shaam Al-Shaam
+  As-Shaam As-Shaam As-Shaam
   Koi nahiṅ tha un ka madadgar
 
   6
   Giriya kunaṅ thi Aal-e-Payambar
-  Bazu mein rassi aur the khule sar
-  Kursi nasheen the saare sitamgar
-  Al-Shaam Al-Shaam Al-Shaam
+  Baazu mein rassi aur thi khule sar
+  Kursi nashiṅ the saare sitamgar
+  As-Shaam As-Shaam As-Shaam
   Wae musibat Shaam ka darbar
 
   7
-  Shaam ka zindan aur wo andhera
+  Shaam ka zindaṅ aur wo andhera
   Kehti thi ro ke pyasi Sakina
   Aaiye Baba aaiye Baba
-  Al-Shaam Al-Shaam Al-Shaam
-  Maaṅ hai pareshan bhai hai bimar
+  As-Shaam As-Shaam As-Shaam
+  Maaṅ hai pareshaan bhai hai bimar
 
   8
   Rote haiṅ Baqir lab pe hai noha
   Kehte haiṅ ro kar main hua tanha
   Zehr-e-sitam se mar gaye Baba
-  Al-Shaam Al-Shaam Al-Shaam
+  As-Shaam As-Shaam As-Shaam
   Mar gaya pyasoṅ ka ghamkhwar
 
   9
   Hota hai viran Shehr-e-Madina
-  Aaj hai khamosh Din ka Masiha
+  Aaj hai khaamosh Diṅ ka Masiha
   Guṅj raha hai us ka ye noha
-  Al-Shaam Al-Shaam Al-Shaam
+  As-Shaam As-Shaam As-Shaam
   Ho gaya rukhsat Sheh ka azadar
 
   10
-  Kitne masaib likhe Rasheed ab
+  Kitne masaaib likhe Rasheed ab
   Tut raha hai hausla Ya Rab
   Roti haiṅ aankheṅ kaṅpte haiṅ lab
-  Al-Shaam Al-Shaam Al-Shaam
+  As-Shaam As-Shaam As-Shaam
   Bas yehi awaz aati hai har baar
 # source_id: nohayonline:6bae8f187e3772ba1c4a
 # source_url: https://www.nohayonline.com/details_content.php?id=3530
