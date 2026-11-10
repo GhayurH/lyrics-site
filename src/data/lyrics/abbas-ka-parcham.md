@@ -10,7 +10,7 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nishan-e-lashkar-e-fauj-e-Khuda Abbas ka parcham
+  Nishaan-e-lashkar-e-fauj-e-Khuda Abbas ka parcham
   Shujaan-e-Arab ka silsila Abbas ka parcham
   Waqar o azm o himmat hausla Abbas ka parcham
   Sikhata hai itaat aur wafa Abbas ka parcham
@@ -28,11 +28,11 @@ romanLyrics: |-
   Riza-e-Haq dua-e-Sayyeda Abbas ka parcham
 
   4
-  Hai Hamza Jafar o Haider ki yadeṅ is se wabasta
+  Hai Hamza Jafar o Haider ki yaadeṅ is se wabasta
   Inhi hazraat ki miras tha Abbas ka parcham
 
   5
-  Liwa-il-Hamd ke manind misl-e-chadar-e-Zehra
+  Liwa-il-Hamd ke maanind misl-e-chadar-e-Zehra
   Khuda ka qurb karta hai ata Abbas ka parcham
 
   6
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   12
   Lagaye ab sine se mashkiza Sakina ka
-  Bahot ghamgin hai bad-e-Karbala Abbas ka parcham
+  Bahot ghamgin hai baad-e-Karbala Abbas ka parcham
 
   13
   Majalis mein julusoṅ mein azakhanoṅ mein zindaṅ mein

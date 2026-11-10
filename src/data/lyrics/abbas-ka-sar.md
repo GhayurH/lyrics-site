@@ -10,9 +10,9 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aal-e-Nabi ka qafila bazar jo pahuncha
+  Aal-e-Nabi ka qaafila bazaar jo pahuncha
   Chehre the zard gham se saroṅ par na thi rida
-  Ghazi ka sar jo neze se aaya zamin par
+  Ghazi ka sar jo neze se aaya zamiṅ par
   Fizza ne dil ko thaam ke noha yehi kiya
   Na dekh sakega Zainab ko
   Haaye bechadar Abbas ka sar
@@ -40,19 +40,19 @@ romanLyrics: |-
   Bhulega dil-e-hassas nahiṅ
   Baba ki shahadat par roya
   Phir roya kabhi Abbas nahiṅ
-  Karbal se yahan tak rota raha
+  Karbal se yahaṅ tak rota raha
   Har manzil par Abbas ka sar
 
   4
   Zindaṅ se watan ja kar bhi hum
-  Aaram se kab so paeṅge
+  Aaraam se kab so paeṅge
   Jab band kareṅge aankhoṅ ko
   Manzar wo hameṅ tarpaeṅge
   Shabbir ka Qasim o Akbar ka
   Beshir ka sar Abbas ka sar
 
   5
-  Sajjad batana chahuṅ agar
+  Sajjad batana chaahuṅ agar
   Tujh se bhi nahiṅ keh pauṅgi
   Kuchh zakhm-e-jigar to aise hain
   Jo qabr talak le jauṅgi

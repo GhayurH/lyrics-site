@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas mere bhai ye dekh meri tanhai
-  Haaye Shaam-e-Ghariban aayi
+  Haaye Shaam-e-Gharibaṅ aayi
   Pehre pe Zehra jaayi
-  Abbas kahan ho bhai
+  Abbas kahaṅ ho bhai
   Har Bibi hai ghabrai
   Fauj hai lutne aayi
 
@@ -34,10 +34,10 @@ romanLyrics: |-
   Abid ko bacha le aayi
 
   3
-  Ye garm zamin sahme bachche
+  Ye garm zamiṅ sahme bachche
   Main kaise inheṅ samjhauṅ
   Rote hain tarapte hain pyase
-  Main pani kahan se lauṅ
+  Main pani kahaṅ se lauṅ
   Koi bhi nahiṅ hai baqi
   Ab kaun kare saqqai
 
@@ -73,7 +73,7 @@ romanLyrics: |-
 ہائے شام غریباں آئی
 پہرے پہ زہرا جائی
 عباس کہاں ہو بھائی
-ہر بی‌بی ہے گھبرای
+ہر بی‌بی ہے گھبرائی
 فوج ہے لوٹنے آئی
 
 ۱
@@ -114,7 +114,7 @@ romanLyrics: |-
 سر تیرا نوکِ نیزہ سے
 اے شیر جری گر جائے گا
 جس وقت کہے گی زینب
-باغی کی بہن کہہ لای
+باغی کی بہن کہہ لائی
 
 ۶
 فرحان و مظہر یہ منظر
