@@ -1,84 +1,86 @@
 ---
 title: "عاشور کی یہ شب ہے شہادت کی رات ہے"
-alternateTitle: "Ashoor Ki Ye Shab"
+alternateTitle: "Aashur Ki Ye Shab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jameel Moosavi"
+reciter: "Hassan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashoor ki ye shab hai shahadat ki raat hai
+  Aashur ki ye shab hai shahadat ki raat hai
   Matam bapa karo ke qayamat ki raat hai
-  Zehra ke khandan pe ghurbat ki raat hai
+
+  Zehra ke khaandaan pe ghurbat ki raat hai
   Khamosh khaimagah hai wehshat ki raat hai
 
   1
-  Ashab ko hai dhyaan bas apne imam ka
-  Pyason ko intezar shahadat ke jaam ka
-  Abbas kar rahe hain talaya qayaam ka
+  Ashab ko hai dhyaan bas apne Imam ka
+  Pyaasoṅ ko intezar shahadat ke jaam ka
+  Abbas kar rahe haiṅ talaya qayaam ka
   In sab ke waaste ye ibadat ki raat hai
 
   2
-  Ahl-e-Haram hain dekh pareshaan karbala
-  Dil aaj hi se sab ke hai veeran karbala
-  Kal tak rahenge ye tere mehman karbala
+  Ahl-e-haram hai dekh pareshaan Karbala
+  Dil aaj hi se sab ke haiṅ viraan Karbala
+  Kal tak rahenge ye tere mehman Karbala
   Ye raat un pe sakht musibat ki raat hai
 
   3
   Qasim Hasan ka laal jo maidan ko jayega
-  Dasht-e-Bala mein khoon ka darya bahayega
-  Maqtal ki sar zameen ko mehshar banayega
+  Dasht-e-Bala mein khun ka darya bahayega
+  Maqtal ki sar zamin ko mehshar banayega
   Naushah-e-Karbala pe shahadat ki raat hai
 
   4
-  Kal subha deke aakhri mojiz numa azaan
-  Barchi jigar pa khayega phir akbare jawan
-  Sakte mein kal se aakhri din tak rahegi maa
+  Kal subha deke aakhri mojiz numa azaaṅ
+  Barchi jigar pa khayega phir Akbar-e-jawaṅ
+  Sakte mein kal se aakhri din tak rahegi maaṅ
   Bete ki aakhri ye ziyarat ki raat hai
 
   5
-  Chaadar hai aaj sar pa hai zainab ko itmenan
-  Kal hoga sab saron pa magar charkh sayeban
-  Kal hoga fatema ka rasan basta khaandan
+  Chaadar hai aaj sar pa hai Zainab ko itminaan
+  Kal hoga sab saroṅ pa magar charkh saayabaaṅ
+  Kal hoga Fatima ka rasan basta khaandaan
   Ye aakhri ridaoṅ ki hurmat ki raat hai
 
   6
-  Shaane kata ke nehr pa abbas soyenge
-  Tooti kamar ko thaam ke shabbir royenge
-  Bacche bhi pyaas bujhne ki ummeed khoyenge
-  Ghazi pa aaj zapte shujaat ki raat hai
+  Shaane kata ke nehr pa Abbas soyenge
+  Tuti kamar ko thaam ke Shabbir royenge
+  Bachche bhi pyaas bujhne ki ummeed khoyenge
+  Ghazi pa aaj zabt-e-shujaat ki raat hai
 
   7
-  Hamla ali ke sher pa hoga furaat par
-  Mar jayega sakina ka saqqa furaat par
+  Hamla Ali ke sher pa hoga furaat par
+  Mar jayega Sakina ka saqqa furaat par
   Kal hoga ambiya ka bhi girya furaat par
   Khaimoṅ ki aakhri ye hifazat ki raat hai
 
   8
-  Teere sitam se kal jo kiya jayega shaheed
-  Shash maaha hai wo jispa musibat hai ye shadeed
-  Ye zulm kar ke royega khud lashkare yazeed
-  Bano pa inteha e aziyat ki raat hai
+  Tir-e-sitam se kal jo kiya jayega shahid
+  Shashmaah hai wo jis pe musibat hai ye shadid
+  Ye zulm kar ke royega khud lashkar-e-Yazid
+  Bano pa intehaa-e-aziyat ki raat hai
 
   9
   Hangam-e-Asr qatl kiye jayenge Husain
-  Kal be-kafan rahenge yahan shaahe mashraqain
-  Maqtal mein goonj uthenge kal fatema ke bain
+  Kal bekafan rahenge yahaaṅ shaah-e-mashraqain
+  Maqtal mein gunj uthenge kal Fatima ke bain
   Ye raat mere laal pa ghurbat ki raat hai
 
   10
-  Laazim hai kainat pa ye gham Husain ka
+  Laazim hai kaainaat pa ye gham Husain ka
   Kaise karenge haq ye ada hum Husain ka
-  Bachpan se karte aaye hai matam Husain ka
-  Apne liye ye raat sa’adat ki raat hai
+  Bachpan se karte aaye haiṅ matam Husain ka
+  Apne liye ye raat saadat ki raat hai
 
   11
-  Maango jameel khaaliq e akbar se ye dua
-  Ae Rabb-e-Pak tujhko hai is shab ka waasta
-  Hum sab Husain waalon ko pahunchade karbala
+  Maango Jameel Khaaliq-e-Akbar se ye dua
+  Ae Rabb-e-Pak tujh ko hai is shab ka waasta
+  Hum sab Husain waaloṅ ko pahuncha de Karbala
   Aansu bahaye jao ye riqqat ki raat hai
 # source_id: nohayonline:d040b2930fd743cbf582
 # source_url: https://www.nohayonline.com/details_content.php?id=3545
@@ -87,6 +89,7 @@ romanLyrics: |-
 
 عاشور کی یہ شب ہے شہادت کی رات ہے
 ماتم بپا کرو کہ قیامت کی رات ہے
+
 زہرا کے خاندان پہ غربت کی رات ہے
 خاموش خیمہ گاہ ہے وحشت کی رات ہے
 
@@ -103,14 +106,14 @@ romanLyrics: |-
 یہ رات ان پہ سخت مصیبت کی رات ہے
 
 ۳
-قاسم حسن کا لال جو میدان کو جاے گا
+قاسم حسن کا لال جو میدان کو جائے گا
 دشت بلا میں خون کا دریا بہائے گا
 مقتل کی سر زمین کو محشر بنائے گا
 نوشاہ کربلا پہ شہادت کی رات ہے
 
 ۴
-کل صبح دے کے آخری نما اذاں
-برچھی جگر پہ کھاے گا پھر اکبر جواں
+کل صبح دے کے آخری معجز نما اذاں
+برچھی جگر پہ کھائے گا پھر اکبر جواں
 سکتے میں کل سے آخری دن تک رہے گی ماں
 بیٹے کی آخری یہ زیارت کی رات ہے
 
@@ -121,9 +124,9 @@ romanLyrics: |-
 یہ آخری رداؤں کی حرمت کی رات ہے
 
 ۶
-شانے کٹا کے نہر پہ عباس سوییں گے
-ٹوٹی کمر کو تھام کے شبیر روییں گے
-بچے بھی پیاس بجھنے کی امید کھوییں گے
+شانے کٹا کے نہر پہ عباس سوئیں گے
+ٹوٹی کمر کو تھام کے شبیر روئیں گے
+بچے بھی پیاس بجھنے کی امید کھوئیں گے
 غازی پہ آج ضبط شجاعت کی رات ہے
 
 ۷
@@ -134,24 +137,24 @@ romanLyrics: |-
 
 ۸
 تیر ستم سے کل جو کیا جائے گا شہید
-ششماہ ہے وہ جس پہ مصیبت ہے یہ شہید
+ششماہ ہے وہ جس پہ مصیبت ہے یہ شدید
 یہ ظلم کر کے روئے گا خود لشکر یزید
-بانو پہ انتہاے اذیت کی رات ہے
+بانو پہ انتہائے اذیت کی رات ہے
 
 ۹
-ہنگام عصر قتل کیےء جاییں گے حسین
+ہنگام عصر قتل کیے جائیں گے حسین
 کل بے کفن رہیں گے یہاں شاہ مشرقین
 مقتل میں گونج اٹھیں گے کل فاطمہ کے بین
 یہ رات میرے لال پہ غربت کی رات ہے
 
 ۱۰
-لازم ہے کاینات پہ غم حسین کا
+لازم ہے کائنات پہ غم حسین کا
 کیسے کریں گے حق یہ ادا ہم حسین کا
-بچپن سے کرتے آے ہیں ماتم حسین کا
+بچپن سے کرتے آئے ہیں ماتم حسین کا
 اپنے لئے یہ رات سعادت کی رات ہے
 
 ۱۱
 مانگو جمیل خالق اکبر سے یہ دعا
-اے رب پاک تجھکو ہے اس شب کا واسطہ
+اے رب پاک تجھ کو ہے اس شب کا واسطہ
 ہم سب حسین والوں کو پہنچا دے کربلا
-آنسوں بہاے جاؤ یہ رقت کی رات ہے
+آنسو بہائے جاؤ یہ رقت کی رات ہے

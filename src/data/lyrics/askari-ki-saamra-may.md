@@ -1,45 +1,46 @@
 ---
 title: عسکری کی سامرہ میں ہائے شہادت ہو گئی
-alternateTitle: Askari Ki Saamra May
+alternateTitle: Askari Ki Saamra Mein
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rizwan Rizvi"
+reciter: "Taqi Raza Alipuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Askari ki Samarra mein haye shahadat hogayi
-  Aaj phir se Fatima ke ghar qayamat hogayi
+  Askari ki Saamra mein haye shahadat ho gayi
+  Aaj phir se Fatima ke ghar qayamat ho gayi
 
   1
-  Khun mein apne hi ghaltan hai gharib-e-Samarra
-  Surkh apne khun mein phir se imamat hogayi
+  Khun mein apne hi ghaltaaṅ haiṅ gharib-e-Saamra
+  Surkh apne khun mein phir se imamat ho gayi
 
   2
-  Zehr paa kar yun tadapte jaa rahe hai askari
-  Mujtaba ki zehn may taaza musibat hogayi
+  Zehr paa kar yuṅ tadapte jaa rahe haiṅ Askari
+  Mujtaba ki zehn mein taaza musibat ho gayi
 
   3
-  Ek aur masoom ko maara hai zulm o jor se
-  Yun shahadat is gharane ki riwayat hogayi
+  Ek aur maasum ko maara hai zulm o jaur se
+  Yuṅ shahadat is gharane ki riwayat ho gayi
 
   4
-  Chupke chupke ro rahe hai askari ke ghar may sab
+  Chupke chupke ro rahe haiṅ Askari ke ghar mein sab
   Rone pe pehra laga aisi shaqawat ho gayi
 
   5
-  Panchwaṅ hi saal tha Mehdi ka jab zulm o sitam
-  Is qadar barhne laga har soo adawat hogayi
+  Paanchwaṅ hi saal tha Mehdi ka jab zulm o sitam
+  Is qadar barhne laga har su adawat ho gayi
 
   6
-  Mahw-e-girya Haider-e-Karrar bhi Zehra bhi hain
-  Ghamzada shehr-e-Madina mein risalat hogayi
+  Mahw-e-girya Haider-e-Karraar bhi haiṅ Zehra bhi
+  Ghamzada shehr-e-Madina mein risalat ho gayi
 
   7
-  Ro rahe hain sab muhib sun kar musibat ka bayan
-  Is tarha rizwan ki kaamil ibadat hogayi
+  Ro rahe haiṅ sab muhib sun kar musibat ka bayaaṅ
+  Is tarah Rizwan ki kaamil ibadat ho gayi
 # source_id: nohayonline:19c6af2d710461d489a4
 # source_url: https://www.nohayonline.com/details_content.php?id=1620
 # raw_sha256: f57a5155e313f1aec5c775dea3b23030e1175f75db4fe2854924805e2629a316
