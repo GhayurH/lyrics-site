@@ -1,93 +1,94 @@
 ---
-title: "بابا نہ جایےء بابا نہ جایےء"
+title: "بابا نہ جائیے بابا نہ جائیے"
 alternateTitle: "Baba Na Jaaiye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Baba na jaaiye baba na jaaiye
+  Zainab ki ye buka hai khudara na jaaiye
+  Hum ko jahaaṅ mein chhor ke tanha na jaaiye
 
   1
-  Zainab ki ye buka hai khudara na jaaiye
-  Hum ko jahan may chod ke tanha na jaaiye
-  Beti lipat ke baap ki mayyat se ro padi
+  Beti lipat ke baap ki mayyat se ro pari
   Kehne lagi ke aap ke bin kya hai zindagi
-  Hum ko bahot satayegi dunya na jaaiye
+  Hum ko bahut sataayegi dunya na jaaiye
 
   2
-  Sadmaat sab ali ke kafan may ayaan huwe
-  Mayyat ki band aankh se aansu rawan huwe
+  Sadmaat sab Ali ke kafan mein ayaaṅ hue
+  Mayyat ki band aankh se aansu rawaaṅ hue
   Beti ne itne karb se bola na jaaiye
 
   3
-  Hyder ke dar pe doodh ke pyale liye huwe
-  Kufe ke har yateem ne naale yehi kiye
+  Haidar ke dar pe dudh ke pyaale liye hue
+  Kufe ke har yatim ne naale yehi kiye
   Maula na jaaiye mere maula na jaaiye
 
   4
-  Bachon ko mere kaun sambhalega murtaza
-  Arz e baqi pe dard bhari hai yehi sada
-  Boli tadap ke fatema zehra na jaaiye
+  Bachchoṅ ko mere kaun sambhaalega Murtaza
+  Arz-e-Baqi pe dard bhari hai yehi sada
+  Boli tarap ke Fatema Zehra na jaaiye
 
   5
-  Kulsoom aur zainab e muztar ki hai sada
-  Abbas e naamdaar ke lab par hai ilteja
-  Koi nahi hai aap ke jaisa na jaaiye
+  Kulsum aur Zainab-e-muztar ki hai sada
+  Abbas-e-naamdaar ke lab par hai iltija
+  Koi nahiṅ hai aap ke jaisa na jaaiye
 
   6
-  Zarbat ki subh qayamat e kubra se kam na thi
-  Dar par ali ne phaila qadam bhi rakha abhi
-  Murghabiyo ne shor machaya na jaaiye
+  Zarbat ki subh qayamat-e-kubra se kam na thi
+  Dar par Ali ne phaila qadam bhi rakha abhi
+  Murghaabiyoṅ ne shor machaaya na jaaiye
 
   7
-  Yasir ye ajre haq hai imamat ki hai azan
-  Maula imam e waqt ki aati hai ye sada
-  Sajid suna ali ka ye nauha na jaaiye
+  Yasir ye ajr-e-haq hai imaamat ki hai azaaṅ
+  Maula Imam-e-waqt ki aati hai ye sada
+  Sajid suna Ali ka ye nauha na jaaiye
 # source_id: nohayonline:e602478271ba2e5bcaeb
 # source_url: https://www.nohayonline.com/details_content.php?id=1673
 # raw_sha256: 9eae9e3562aeb7f3700bc7b52fa7491ea44f7685f65a9a4dbd4d4c9f99d9ffd2
 ---
 
-بابا نہ جایےء بابا نہ جایےء
+بابا نہ جائیے بابا نہ جائیے
+زینب کی یہ بکا ہے خدارا نہ جائیے
+ہم کو جہاں میں چھوڑ کے تنہا نہ جائیے
 
 ۱
-زینب کی یہ بکا ہےخدارا نہ جایےء
-ہم کو جہاں میں چھوڑ کے تنہا نہ جایےء
 بیٹی لپٹ کے باپ کی میت سے رو پڑی
 کہنے لگی کے پاس کے بن کیا ہے زندگی
-ہم کو بہت ستاے گیدنیا نہ جایےء
+ہم کو بہت ستائے گی دنیا نہ جائیے
 
 ۲
-صدمات سب علی کے کفن میں عیاں ہوے
-میت کی بند آنکھ سے آنسوں رواں ہوے
-بیٹی نے اتنے کرب سے بولا نہ جایےء
+صدمات سب علی کے کفن میں عیاں ہوئے
+میت کی بند آنکھ سے آنسو رواں ہوئے
+بیٹی نے اتنے کرب سے بولا نہ جائیے
 
 ۳
-حیدر کے در پہ دودھ کے پیالے لےء ہوے
-کوفے کے ہر یتیم نے نالے یہی کیےء
-مولا نہ جایےء میرے مولا نہ جایےء
+حیدر کے در پہ دودھ کے پیالے لیے ہوئے
+کوفے کے ہر یتیم نے نالے یہی کیے
+مولا نہ جائیے میرے مولا نہ جائیے
 
 ۴
-بچوں کو میرے کون سنبھالے گا مرتظی
-أرض بقی پہ درد بھری ہے یہی صدا
-بولی تڑپ کے فاطمہ زہرا نہ جایےء
+بچوں کو میرے کون سنبھالے گا مرتضیٰ
+ارض بقی پہ درد بھری ہے یہی صدا
+بولی تڑپ کے فاطمہ زہرا نہ جائیے
 
 ۵
 کلثوم اور زینب مضطر کی ہے صدا
 عباس نامدار کے لب پر ہے التجاء
-کوئی نہیں ہے آپ کے جیسا نہ جایےء
+کوئی نہیں ہے آپ کے جیسا نہ جائیے
 
 ۶
 ضربت کی صبح قیامت کبرا سے کم نہ تھی
 در پر علی نے پھیلا قدم بھی رکھا ابھی
-مرغابیوں نے شور مچایا نہ جایےء
+مرغابیوں نے شور مچایا نہ جائیے
 
 ۷
 یاسر یہ اجر حق ہے امامت کی ہے اذاں
 مولا امام وقت کی آتی ہے یہ صدا
-ساجد سنا علی کا یہ نوحہ نہ جایےء
+ساجد سنا علی کا یہ نوحہ نہ جائیے

@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Meri dunya ujad na jaaye khudara ruk jao
-  Hai bain ye zainab ka baba na jao
-  Ho jaaye na ghar soona baba na jao
+  Meri dunya ujar na jaaye khudara ruk jaao
+  Hai bain ye Zainab ka baba na jaao
+  Ho jaaye na ghar suna baba na jaao
 
   1
-  Kal khwab mein dekha tha baba hai lahoo mein tar
-  Veeran pada hai ghar
-  Kufe mein wavaila baba na jao
+  Kal khwaab mein dekha tha baba hai lahu mein tar
+  Viraaṅ para hai ghar
+  Kufe mein waawaila baba na jaao
 
   2
-  Murghabiyan hyder ke daaman se lipat'ti hai
-  Baba wo tadapti hai
-  Manzar hai qayamat ka baba na jao
+  Murghaabiyaaṅ Haidar ke daamaan se lipatti hai
+  Baba wo tarapti hai
+  Manzar hai qayamat ka baba na jaao
 
   3
-  Amma ki judaai ko mai bhool nahi paayi
+  Ammaa ki judaai ko main bhul nahiṅ paayi
   Zainab pe tanhaai
-  Dil mera hai ghabraya baba na jao
+  Dil mera hai ghabraaya baba na jaao
 
   4
-  Ruk jaaye zara baba sadqa mai utarungi
-  Jee bhar ke mai dekhungi
-  Baba ka haseen chehra baba na jao
+  Ruk jaaye zara baba sadqa main utaaruṅgi
+  Ji bhar ke main dekhuṅgi
+  Baba ka hasiṅ chehra baba na jaao
 
   5
-  Baba se bichadne ki ye aakhri shab aayi
-  Bechain hai dono bhai
-  Ghabrata dil kyun baba na jao
+  Baba se bichharne ki ye aakhri shab aayi
+  Bechain hai donoṅ bhaai
+  Ghabraata dil kiuṅ baba na jaao
 
   6
-  Lagta hai ke zainab par hai waqt yateemi ka
-  Mabood karam farma
-  Afsurda hai dil mera baba na jao
+  Lagta hai ke Zainab par hai waqt yatimi ka
+  Maabud karam farma
+  Afsurda hai dil mera baba na jaao
 
   7
-  Baba mujhe sadma hai amma se bichadne ka
-  Dil phat'ta hai kyun mera
-  Zainab ke labon par tha baba na jao
+  Baba mujhe sadma hai ammaa se bichharne ka
+  Dil phatta hai kiuṅ mera
+  Zainab ke laboṅ par tha baba na jaao
 
   8
-  Jis waqt mohib ghar se maula e zaman nikle
-  Aflaak larazte thay
-  Beti ka ye nauha tha baba na jao
+  Jis waqt Mohib ghar se Maula-e-zaman nikle
+  Aflaak larazte the
+  Beti ka ye nauha tha baba na jaao
 # source_id: nohayonline:947e876d442c51b20218
 # source_url: https://www.nohayonline.com/details_content.php?id=3391
 # raw_sha256: 87149d4e4ac85d348a83128085676f8100655838a79e79fbe5bd1c170da21299
@@ -73,17 +74,17 @@ romanLyrics: |-
 منظر ہے قیامت کا بابا نہ جاؤ
 
 ۳
-اماں کی جدائی کو میں بھول نہیں پای
+اماں کی جدائی کو میں بھول نہیں پائی
 زینب پہ تنہائی
 دل میرا ہے گھبرایا بابا نہ جاؤ
 
 ۴
-رک جائے زرا بابا صدقہ میں اتاروں گی
+رک جائے ذرا بابا صدقہ میں اتاروں گی
 جی بھر کے میں دیکھوں گی
 بابا کا حسیں چہرہ بابا نہ جاؤ
 
 ۵
-بابا سے بچھڑنے کی یہ آخری شب آی
+بابا سے بچھڑنے کی یہ آخری شب آئی
 بے چین ہے دونوں بھائی
 گھبراتا دل کیوں بابا نہ جاؤ
 

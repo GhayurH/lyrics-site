@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas Zafar"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba musafiron pe qayamat guzar gayi
+  Baba musafiroṅ pe qayamat guzar gayi
 
   1
-  Pahunche ghareeb jis ghadi qabre hussain par
-  Ye keh ke roye qabr pe sajjad nauhagar
-  Baba suno ghareebon se ab haalat e safar
+  Pahunche gharib jis ghari qabr-e-Husain par
+  Ye keh ke roye qabr pe Sajjad nauhagar
+  Baba suno ghariboṅ se ab haalat-e-safar
   Ummat ne bewatan ko phiraya hai dar badar
-  Zainab dayaar e shaan mein jab nange sar gayi
+  Zainab dayaar-e-shaan mein jab nange sar gayi
 
   2
-  Maqtal se hum chale thay to haathon mein thi rasan
+  Maqtal se hum chale the to haathoṅ mein thi rasan
   Baba muaaf karna na hum de sake kafan
-  Pamaal ho chuke thay shaheedon ke sab badan
-  Tha kor khoon mein dooba hua tha tamaam ban
-  Aulaad e fatema sar e maqtal bikhar gayi
+  Paamaal ho chuke the shahidoṅ ke sab badan
+  Tha kor khuṅ mein duba hua tha tamaam ban
+  Aulaad-e-Fatema sar-e-maqtal bikhar gayi
 
   3
-  Maqtal se is tarha se guzara gaya hamay
-  Khoon ke samandaron mein utaara gaya hamay
-  Baba har ek gaam pe maara gaya hamay
-  Baaghi ki aal keh ke pukara gaya hamay
-  Ranj o alam ki taygh jigar mein utar gayi
+  Maqtal se is tarah se guzaara gaya hameṅ
+  Khuṅ ke samandaroṅ mein utaara gaya hameṅ
+  Baba har ek gaam pe maara gaya hameṅ
+  Baaghi ki aal keh ke pukaara gaya hameṅ
+  Ranj o alam ki tegh jigar mein utar gayi
 
   4
-  Bazaar e shaam aur wo logon ka ijdehaam
-  Aise mein shimr leta tha saydaniyon ke naam
-  Us shaam mein hua tha aseeron ka qatle aam
+  Bazaar-e-Shaam aur wo logoṅ ka izdihaam
+  Aise mein Shimr leta tha sayyidaaniyoṅ ke naam
+  Us Shaam mein hua tha asiroṅ ka qatl-e-aam
   Koi na tha jo karta hamara bhi ehteraam
-  Qaatil hi dikh rahe thay jahan tak nazar gayi
+  Qaatil hi dikh rahe the jahaaṅ tak nazar gayi
 
   5
-  Zindan e shaam pahunche to ye bhi ghazab hua
-  Amma rabab karne lagi girya o fughan
-  Ek karbala ke baad hui ek karbala
-  Zindan ke dar se deti thi ammu ko jo sada
-  Aakhir yehi hua ke sakina bhi mar gayi
+  Zindaan-e-Shaam pahunche to ye bhi ghazab hua
+  Ammaa Rabaab karne lagi girya o fughaaṅ
+  Ek Karbala ke baad hui ek Karbala
+  Zindaaṅ ke dar se deti thi ammu ko jo sada
+  Aakhir yehi hua ke Sakina bhi mar gayi
 
   6
   Ye keh ke ghamzada ne kiya aakhri salaam
-  Royenge jaa ke shehre madina mein subho shaam
-  Sughra ko denge kaise tasalli e tashna kaam
-  Ghar jaa ke yaad aayenge jalte huwe qayaam
-  Basti zafar ghareebon ki ashkon se bhar gayi
+  Royeṅge jaa ke shahr-e-Madina mein subh o shaam
+  Sughra ko deṅge kaise tasalli-e-tashna kaam
+  Ghar jaa ke yaad aayeṅge jalte hue khiyaam
+  Basti Zafar ghariboṅ ki ashkoṅ se bhar gayi
 # source_id: nohayonline:168ef570348969e9ba2b
 # source_url: https://www.nohayonline.com/details_content.php?id=2976
 # raw_sha256: 1128ef68c8b84e6f411518604fb30d480f9b55db88335205ce362cb28cb024bf
