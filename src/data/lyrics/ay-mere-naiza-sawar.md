@@ -1,63 +1,65 @@
 ---
 title: ایک بچی پھول سی جس کا سکینہ نام تھا
-alternateTitle: Ay Mere Naiza Sawar
+alternateTitle: Ae Mere Naiza Sawaar
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mere Naiza Sawar"]
 published: false
 romanLyrics: |-
-  Ek bacchi phool si jiska sakina naam tha
-  Ro rahi thi shaam ki rahon mein wo karke buka
-  Karte thay tum kitna pyar baba
-  Ay mere naiza sawar baba
+  Ek bachchi phul si jis ka Sakina naam tha
+  Ro rahi thi Shaam ki raahoṅ mein wo kar ke buka
+  Karte the tum kitna pyaar baba
+  Ae mere naiza sawaar baba
 
   1
-  Chal nahi sakti sakina raaste dushwaar hai
-  Aable hai paon mein aur aablon may khaar hai
+  Chal nahiṅ sakti Sakina raaste dushwaar haiṅ
+  Aable haiṅ paaoṅ mein aur aabloṅ mein khaar hai
   Aankh hai nam dil figaar baba
 
   2
-  Neele hai rukhsaar mere aur gale mein hai rasan
-  Tashnagi bewaarsi lachaargi aur bewatan
+  Nile haiṅ rukhsaar mere aur gale mein hai rasan
+  Tashnagi bewaarsi laachaargi aur bewatan
   Ek hai dil gham hazaar baba
 
   3
-  Aap ke seene pe baba chain se soti thi mai
-  Aap tadapte jo kisi baat pe roti thi mai
-  Roti hoo zaar o qataar baba
+  Aap ke sine pe baba chain se soti thi main
+  Aap tarapte jo kisi baat pe roti thi main
+  Roti huṅ zaar o qataar baba
 
   4
-  Berida sab bibiyan hai shaam ka bazaar hai
-  Zabt ka yaara nahi hai sabr bhi dushwar hai
+  Berida sab Bibiyaṅ haiṅ Shaam ka baazaar hai
+  Zabt ka yaara nahiṅ hai sabr bhi dushwaar hai
   Sabr ke parwardigaar baba
 
   5
-  Mil -na sakungi kabhi mai aap se ay baba jaan
-  Aap ka rauza banega karbala ke darmiyan
+  Mil na sakuṅ gi kabhi main aap se ae baba jaaṅ
+  Aap ka rauza banega Karbala ke darmiyaaṅ
   Shaam mein mera mazaar baba
 
   6
   Yaad isi baat pe aata hai ghar aksar mujhe
-  Aaj kaneezi mein bulaata hai sitamgar mujhe
-  Koi nahi gham gusaar baba
+  Aaj kanizi mein bulaata hai sitamgar mujhe
+  Koi nahiṅ gham gusaar baba
 
   7
-  Khaati thi jab bhi tamache shimr e sitamgaar se
-  Aap ke chehre ki simth bekasi aur yaas se
+  Khaati thi jab bhi tamaache Shimr sitamgaar se
+  Aap ke chehre ki simt bekasi aur yaas se
   Dekhti thi baar baar baba
 
   8
-  Kaun hai pursaane haal pyaas bujhayega kaun
-  Baaliyan meri sitamgaron se dilayega kaun
+  Kaun hai pursaan-e-haal pyaas bujhaayega kaun
+  Baaliyaaṅ meri sitamgaroṅ se dilaayega kaun
   So gaye sab jaanisaar baba
 
   9
-  Mazhar abidi bayan karta hai irfan se
-  Aati hai ab bhi sadayein shaam ke zindan se
+  Mazhar Abidi bayaan karta hai Irfan se
+  Aati hai ab bhi sadaaeiṅ Shaam ke zindaan se
+  Karte the tum kitna pyaar baba
 # source_id: nohayonline:e59b239feb34f80ae89e
 # source_url: https://www.nohayonline.com/details_content.php?id=3027
 # raw_sha256: 04d0c9ff4d0a85981b1809054756a70dc10224b632d828632f5d7245c799eee8
@@ -87,7 +89,7 @@ romanLyrics: |-
 روتی ہوں زار و قطار بابا
 
 ۴
-بے ردا سب بی بیاں ہیں شام کا بازار ہے
+بے ردا سب بی‌بیاں ہیں شام کا بازار ہے
 ضبط کا یارا نہیں ہے صبر بھی دشوار ہے
 صبر کے پروردگار بابا
 
@@ -99,7 +101,7 @@ romanLyrics: |-
 ۶
 یاد اسی بات پہ آتا ہے گھر اکثر مجھے
 آج کنیزی میں بلاتا ہے ستمگر مجھے
-کوی نہیں غم گسار بابا
+کوئی نہیں غم گسار بابا
 
 ۷
 کھاتی تھی جب بھی طمانچے شمر ستمگار سے
@@ -107,10 +109,11 @@ romanLyrics: |-
 دیکھتی تھی بار بار بابا
 
 ۸
-کون ہے پرساں نہال پیاس بجھاے گا کون
+کون ہے پرسانِ حال پیاس بجھائے گا کون
 بالیاں میری ستمگروں سے دلاے گا کون
-سو گےء سب جانثار بابا
+سو گئے سب جانثار بابا
 
 ۹
-مظہر و عابدی بیان کرتا ہے عرفان سے
-آتی ہے اب بھی صداییں شام کے زندان سے
+مظہر عابدی بیان کرتا ہے عرفان سے
+آتی ہے اب بھی صدائیں شام کے زندان سے
+کرتے تھے تم کتنا پیار بابا

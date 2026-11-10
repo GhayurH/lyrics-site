@@ -1,71 +1,72 @@
 ---
 title: "اے میرے مولا حسین اے میرے آقا حسین"
-alternateTitle: "Ay Mere Maula Hussain"
+alternateTitle: "Ae Mere Maula Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mere Maula Hussain"]
 published: false
 romanLyrics: |-
-  Ay mere maula hussain ay mere aaqa hussain
-  
+  Ae mere Maula Husain ae mere aaqa Husain
+
   1
-  Khoon kiye qalbe ali monise islame nabi
-  Fatema zehra ka pisar ibne rasoole arabi
-  Haye purhaul biyaban hai koi monis o yawar bhi nahi
-  Dasht mein tanha hai hussain ibne ali
-  
+  Khuṅ kiye qalb-e-Ali monis-e-Islam-e-Nabi
+  Fatima Zehra ka pisar ibn-e-Rasul-e-Arabi
+  Haye purhaul biyaabaan hai koi monis o yaawar bhi nahiṅ
+  Dasht mein tanha hai Husain ibn-e-Ali
+
   2
-  Zeest ki aas nahi mera abbas nahi
-  Koi ab paas nahi
-  Haye uthe huwe qaimon ka dhuaan
-  Shaam e gariban ka ye purhaul samaan
-  Fauje jafa ki yalghaar
-  Haye ab kisko bulaun paye imdad ye zainab ne kaha
-  Mere khuda chinti hai chadar meri
-  
+  Zist ki aas nahiṅ mera Abbas nahiṅ
+  Koi ab paas nahiṅ
+  Haye uthe hue khaimoṅ ka dhuaaṅ
+  Shaam-e-Gharibaaṅ ka ye purhaul samaaṅ
+  Fauj-e-jafa ki yalghaar
+  Haye ab kis ko bulaauṅ pay-e-imdaad ye Zainab ne kaha
+  Mere Khuda chhinti hai chaadar meri
+
   3
-  Waaris e aale aba qaidi e joro jafa
-  Jab suye shaam chala
-  Gir pada khaak pe ghash khaake shahe deen ka pisar
-  Kaampte honthon se bas itna keh kar
-  Baap be-gor o kafan dashte bala mein hai pada
-  Aur kafan tak bhi nahi haye re gurbat meri
-  
+  Waaris-e-Aal-e-Aba qaidi-e-jaur o jafa
+  Jab su-e-Shaam chala
+  Gir para khaak pe ghash khaa ke Shah-e-Diṅ ka pisar
+  Kaampte honthoṅ se bas itna keh kar
+  Baap begor o kafan dasht-e-bala mein hai para
+  Aur kafan tak bhi nahiṅ haye re ghurbat meri
+
   4
-  Waali e har do jahan yaad hai wo bhi samaan
-  Di jo akbar ne zaban
-  Khanych li rote huwe apni zaban bano e muztar ke pisar ne bhi
-  Sare qaima dahan se tere
-  Waali e kon o makan shaahe zaman saaqi e kausar ke pisar
-  Roze dahum haye teri tashnalabi
-  
+  Waali-e-har do jahaaṅ yaad hai wo bhi samaaṅ
+  Di jo Akbar ne zabaaṅ
+  Khinch li rote hue apni zabaaṅ Baanu-e-muztar ke pisar ne bhi
+  Sar-e-khaima dahan se tere
+  Waali-e-kaun o makaaṅ Shah-e-Zaman saaqi-e-Kausar ke pisar
+  Roz-e-dahum haye teri tashnalabi
+
   5
-  Garm maqtal ki hawa phool kumlaya hua
+  Garm maqtal ki hawa phul kumlaaya hua
   Haye wo shishmaha
-  Asre ashoor sare karbobala ahle aza teere sitamgar se faqat
-  Gardane asghar hi nahi
-  Chidh gaya dasht mein mamta ka gala saath mein hulqoome tamanna e padar
+  Asr-e-Ashur sar-e-Karb o Bala ahl-e-aza tir-e-sitamgar se faqat
+  Gardan-e-Asghar hi nahiṅ
+  Chhid gaya dasht mein mamta ka gala saath mein hulqum-e-tamanna-e-padar
   Haye wo naawak figani
-  
+
   6
-  Khoon rota tha jahan dukhtare shaahe zaman
-  Haye abbas ki jaan
-  Shaam hote hi sakina ki rida cheeni gohar cheene layeeno ne
-  Tamachon se aziyat de kar
-  Haye afsos sitamgaaron ne itna bhi na socha ki ye
-  Be-yaar o madadgaar hai beti sheh ki
-  
+  Khun rota tha jahaaṅ dukhtar-e-Shah-e-Zaman
+  Haye Abbas ki jaaṅ
+  Shaam hote hi Sakina ki rida chhini gauhar chhine lainoṅ ne
+  Tamaachoṅ se aziyat de kar
+  Haye afsos sitamgaaroṅ ne itna bhi na socha ki ye
+  Beyaar o madadgaar hai beti shah ki
+
   7
-  Dard ka lehja bilal gham ka aeena bilal
-  Ye tera nauha bilal
-  Khoob aamir ne padha dard mein dooba hua ye nauha e gham
-  Uthne lagi aah o buka ki awaaz
-  Ab tamanna hai ke likha hai jo ye nauha e gham jald ho maqbool
-  Sare baargahe aale nabi
+  Dard ka lehja Bilal gham ka aaina Bilal
+  Ye tera nauha Bilal
+  Khub Aamir ne parha dard mein duba hua ye nauha-e-gham
+  Uthne lagi aah o buka ki aawaaz
+  Ab tamanna hai ke likha hai jo ye nauha-e-gham jald ho maqbul
+  Sar-e-baargaah-e-Aal-e-Nabi
 # source_id: nohayonline:a29229cda82331078f5a
 # source_url: https://www.nohayonline.com/details_content.php?id=3377
 # raw_sha256: 7b686892580df8d93c1ca035d6f24e17b98000aeb7681d3ac5343a480d654d1c
