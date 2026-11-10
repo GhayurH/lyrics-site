@@ -13,29 +13,29 @@ published: false
 romanLyrics: |-
   Tumhare baad barha dard aur kam na hua
   Kisi ke dil pe bhi itna bara sitam na hua
-  Qadam qadam pe rahi tum Ali ke gham mein shareek
-  Ali ko gham hai tumhara shareek-e-gham na hua
+  Qadam qadam pe rahi tum Ali ke gham meiṅ sharik
+  Ali ko gham hai tumhara sharik-e-gham na hua
   Ali sharminda hai Zehra
   Bahot dunya ne tarapaya Ali kuchh bhi na kar paaya
   Ali sharminda hai Zehra
   
   1
-  Suni kab dard mein dubi tumhari siskiyan maine
-  Na dekhi haaye jeete ji shikasta pasliyan maine
+  Suni kab dard meiṅ dubi tumhari siskiyaaṅ main ne
+  Na dekhi haaye jite ji shikasta pasliyaaṅ main ne
   Na kuchh tum ne hi batlaya
   
   2
   Mujhe khud bhi na tha us waqt apne gham ka andaza
   Gira jab haaye pehlu par tumhare jalta darwaza
-  Madad ko bhi nahi aaya
+  Madad ko bhi nahiṅ aaya
   
   3
-  Bhare darbar mein ummat ke jhutlaya gaya tum ko
-  Ali ke saamne dunya mein tarapaya gaya tum ko
+  Bhare darbar meiṅ ummat ke jhutlaya gaya tum ko
+  Ali ke saamne dunya meiṅ tarapaya gaya tum ko
   Tumhara haq na dilwaya
   
   4
-  Utaara qabr mein jis dam Nabi-zaadi ki mayyat ko
+  Utaara qabr meiṅ jis dam Nabi-zaadi ki mayyat ko
   Kabhi Hasnain ko dekha kabhi Zehra ki surat ko
   Yehi ro ro ke farmaya
   
@@ -45,9 +45,9 @@ romanLyrics: |-
   Na Mohsin ko bacha paaya
   
   6
-  Shikasta pasliyon ka dard bhi kuchh kam na kar paaya
-  Maseeha ko yehi gham hai ilaaj-e-gham na kar paaya
-  Isi aalam mein dafnaya
+  Shikasta pasliyoṅ ka dard bhi kuchh kam na kar paaya
+  Masiha ko yehi gham hai ilaaj-e-gham na kar paaya
+  Isi aalam meiṅ dafnaya
   
   7
   Kabhi jab qabr par aaye baraye fateha-khwani
@@ -60,8 +60,8 @@ romanLyrics: |-
   Ye jumla phir se dohraya
   
   9
-  Wo dekho aaj bhi saaya nahi hai qabr-e-Zehra par
-  Kisi ki ye sadayein aa rahi hain Aamir o Akhtar
+  Wo dekho aaj bhi saaya nahiṅ hai qabr-e-Zehra par
+  Kisi ki ye sadaaeiṅ aa rahi haiṅ Aamir o Akhtar
   Zamane ne sitam dhaya
 # source_id: nohayonline:07cef3e236048b025b0e
 # source_url: https://www.nohayonline.com/details_content.php?id=3054

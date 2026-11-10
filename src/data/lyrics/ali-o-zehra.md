@@ -12,23 +12,23 @@ aliases: ["ali-o-zehra-mir-sajjad-mir"]
 recitationId: "ali-o-zehra-mir-sajjad-mir"
 published: false
 romanLyrics: |-
-  Fatima kya hain ye darain ke Maula se sunein
-  Aur Haider ki sana Fatima Zahra se sunein
-  Guftagu karte hain aapas mein Ali o Zahra
+  Fatima kya haiṅ ye darain ke Maula se suneiṅ
+  Aur Haider ki sana Fatima Zahra se suneiṅ
+  Guftagu karte haiṅ aapas meiṅ Ali o Zahra
   
   1
-  Murtaza bole Batool aap hain izzat meri
-  Aap zaujah hain meri ye hai fazilat meri
-  Dast-e-Khaliq hun magar aap hain taaqat meri
-  Haan faqat aap hain dunya mein zarurat meri
-  Sochta hun ke namazon mein dua kya maangun
-  Aap ke baad Khuda se main bhala kya maangun
+  Murtaza bole Batul aap haiṅ izzat meri
+  Aap zaujah haiṅ meri ye hai fazilat meri
+  Dast-e-Khaliq huṅ magar aap haiṅ taaqat meri
+  Haaṅ faqat aap haiṅ dunya meiṅ zarurat meri
+  Sochta huṅ ke namazoṅ meiṅ dua kya maanguṅ
+  Aap ke baad Khuda se main bhala kya maanguṅ
   
   2
-  Fatima bolein Ali aap ke mansab hain bare
-  Dahr mein aana tha to ghar mein Khuda ke utre
-  Martabe aap ke jaise na rasulon ko mile
-  Aap ke baba ke ehsaan hain hum par kitne
+  Fatima boleiṅ Ali aap ke mansab haiṅ bare
+  Dahr meiṅ aana tha to ghar meiṅ Khuda ke utre
+  Martabe aap ke jaise na rasuloṅ ko mile
+  Aap ke baba ke ehsaan haiṅ hum par kitne
   Bachpane hi se sambhala hai mere baba ko
   Aap ke baba ne paala hai mere baba ko
   
@@ -36,64 +36,64 @@ romanLyrics: |-
   Bole Haider ye do aalam tera sadqa Zahra
   Arsh se utra hai tere liye Zohra Zahra
   Teri dehleez hai Sidra ka ilaqa Zahra
-  Yahan bichhta hai tahajjud ka musalla Zahra
-  Bas Muhammad pae tazeem khare rehte hain
-  Warna sab anbiya sajde mein pare rehte hain
+  Yahaaṅ bichhta hai tahajjud ka musalla Zahra
+  Bas Muhammad pae tazeem khare rehte haiṅ
+  Warna sab anbiya sajde meiṅ pare rehte haiṅ
   
   4
-  Fatima bolein main qurban mere Aaqa par
+  Fatima boleiṅ main qurban mere Aaqa par
   Khatm hai manzil-e-irfan mere Aaqa par
   Fakhr khud karta hai Rahman mere Aaqa par
-  Baba jaan dete hain khud jaan mere Aaqa par
+  Baba jaan dete haiṅ khud jaan mere Aaqa par
   Baat Baba ne ye ashab ko batlayi hai
   Tum to naukar ho magar mera Ali bhai hai
   
   5
   Murtaza bole faqat masdar-e-ismat tum ho
-  Hujjatullah jo hain un pe bhi hujjat tum ho
+  Hujjatullah jo haiṅ un pe bhi hujjat tum ho
   Halqa-e-wasl-e-risalat o imamat tum ho
-  Main hun haq par to mere haq ki shahadat tum ho
-  Kaun darbar mein paigham-e-Ilahi deta
-  Tum na hoti to meri kaun gawahi deta
+  Main huṅ haq par to mere haq ki shahadat tum ho
+  Kaun darbar meiṅ paigham-e-Ilahi deta
+  Tum na hotiṅ to meri kaun gawahi deta
   
   6
-  Bolein Zahra main zamane ki khabar jaanti hun
-  Is hatheli ki tarah aalam-e-zarr jaanti hun
-  Khaak se kis tarah banta hai bashar jaanti hun
-  Dast-e-Khaliq ke main haathon ka hunar jaanti hun
+  Boleiṅ Zahra main zamane ki khabar jaanti huṅ
+  Is hatheli ki tarah aalam-e-zarr jaanti huṅ
+  Khaak se kis tarah banta hai bashar jaanti huṅ
+  Dast-e-Khaliq ke main haathoṅ ka hunar jaanti huṅ
   Mojiza bar sar-e-aflaak dikhaya tum ne
   Main ne khud dekha hai Aadam ko banaya tum ne
   
   7
-  Bole Haider nahi shak is mein zara sa Zahra
-  Aap hain ilm-e-ladunni ka asasa Zahra
+  Bole Haider nahiṅ shak is meiṅ zara sa Zahra
+  Aap haiṅ ilm-e-ladunni ka asasa Zahra
   Aap ko yaad hai sab lauh ka likha Zahra
-  Wo bhi maloom hai jo kuchh nahi hoga Zahra
-  Jitna Allah ne nabiyon ko parha rakha hai
+  Wo bhi malum hai jo kuchh nahiṅ hoga Zahra
+  Jitna Allah ne nabiyoṅ ko parha rakha hai
   Utna to aap ne Fizza ko bata rakha hai
   
   8
-  Fatima bolein mere Maalik o Mukhtar Ali
-  Khadima hun main teri tu mera sardar Ali
-  Tujh pe sau jaan se qurban hun sau baar Ali
+  Fatima boleiṅ mere Maalik o Mukhtar Ali
+  Khadima huṅ main teri tu mera sardar Ali
+  Tujh pe sau jaan se qurban huṅ sau baar Ali
   Fatima sab se bari hai teri hubdar Ali
-  Teri azmat yun zamane ko dikhaye Zahra
-  Teri nalain ko haathon pe uthaye Zahra
+  Teri azmat yuṅ zamane ko dikhaye Zahra
+  Teri nalain ko haathoṅ pe uthaye Zahra
   
   9
-  Teri qismat ke paighambar bhi sana-khwan mile
-  Ab kisi maa ko bhi mumkin nahi ye shaan mile
+  Teri qismat ke paighambar bhi sana-khwaṅ mile
+  Ab kisi maaṅ ko bhi mumkin nahiṅ ye shaan mile
   Bahr-e-ismat se tujhe lulu o marjaan mile
-  Tujh ko hujre mein tere bolte Quran mile
-  Kab Ibrahim ke virse mein ye izzat aayi
-  Tere har bete ke hisse mein imamat aayi
+  Tujh ko hujre meiṅ tere bolte Quran mile
+  Kab Ibrahim ke virse meiṅ ye izzat aayi
+  Tere har bete ke hisse meiṅ imamat aayi
   
   10
   Mir Sajjad Ali kehte the har baar yehi
-  Ek hai Fatima aur ek hai dunya mein Ali
+  Ek hai Fatima aur ek hai dunya meiṅ Ali
   Mere jaisa na hai koi na hai tum sa koi
-  Ek haqeeqat kahan maloom hai dunya ko abhi
-  Waqt-e-mushkil kahan dunya se madad leta hai
+  Ik haqiqat kahaaṅ malum hai dunya ko abhi
+  Waqt-e-mushkil kahaaṅ dunya se madad leta hai
   Bas Ali Fatima Zahra se madad leta hai
 # source_id: tajpoints:0179c83677203f2ad506
 # source_url: https://tajpoints.com/2023/01/ali-o-zehra-mir-sajjad-mir-lyrics-in.html
