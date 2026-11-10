@@ -1,79 +1,80 @@
 ---
 title: "عباس اے شیر نیستانِ حیدر"
-alternateTitle: "Ay Shere Nayastane"
+alternateTitle: "Ae Sher-e-Nayastan-e-Haider"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Shere Nayastane"]
 published: false
 romanLyrics: |-
-  Abbas ay shere nayastane hyder
-  Deti thi sada zainab ro kar
+  Abbas ae sher-e-nayastan-e-Haider
+  Deti thi sada Zainab ro kar
 
   1
   Kya isi din ke liye maangi thi baba ne dua
-  Aake pardes mein hojaoge tum humse juda
-  Sotay ho chain se darya ke kanare bhaiya
-  Kya sunayi nahi deti tumhe halmin ki sada
-  Abbas tanha hai khade ran mein sarwar
+  Aa ke pardes meiṅ ho jaaoge tum ham se juda
+  Sote ho chain se darya ke kinaare bhaiya
+  Kya sunaai nahiṅ deti tumheṅ hal min ki sada
+  Abbas tanha haiṅ khare ran meiṅ Sarwar
 
   2
-  Ay mere shere jawan ay mere bhai ho kahan
-  Shaakh hai dil pe mere teri judaai ho kahan
-  Dayr se deti hoo bhaiya mai duhaai ho kahan
-  Lut-ti hai fatema zehra ki kameini ho kahan
-  Abbas khanjar hai halqe sarwar par
+  Ae mere sher-e-jawaṅ ae mere bhai ho kahaṅ
+  Shaakh hai dil pe mere teri judaai ho kahaṅ
+  Der se deti huṅ bhaiya main duhaai ho kahaṅ
+  Lutti hai Fatema Zehra ki kamaai ho kahaṅ
+  Abbas khanjar hai halq-e-Sarwar par
 
   3
   Kya isi din ke liye saath behan thi aayi
-  Aagayi neend jo darya ki tarayi paayi
-  Phir palat kar hamein soorat bhi nahi dikhlayi
-  Aa gaya ran se alam tum nahi aaye bhai
-  Abbas phat-ta hai mera sadme se jigar
+  Aa gayi nind jo darya ki taraai paayi
+  Phir palat kar hameṅ surat bhi nahiṅ dikhlaai
+  Aa gaya ran se alam tum nahiṅ aaye bhai
+  Abbas phatta hai mera sadme se jigar
 
   4
-  Gir ke ghode se sada baap ko akbar ne jo di
-  Dilbare fatema zehra ki ajab haalat thi
-  Haath malte thay kabhi ghaat ko takte thay kabhi
-  Thaam kar tooti kamar kehte thi farzande nabi
-  Abbas laa'un kaise laashe akbar
+  Gir ke ghore se sada baap ko Akbar ne jo di
+  Dilbar-e-Fatema Zehra ki ajab haalat thi
+  Haath malte the kabhi ghaat ko takte the kabhi
+  Thaam kar tuti kamar kehte the farzand-e-Nabi
+  Abbas laauṅ kaise laash-e-Akbar
 
   5
-  Haal shabbir ka ab to nahi dekha jaata
-  Hai kamar kham nahi aankhon se soojhayi deta
-  Ye zaeefi ye jawan laal ka sadma bhaiya
-  Thaam lo badke zara haath tumhi bhai ka
-  Abbas khaate hai thokar par thokar
+  Haal Shabbir ka ab to nahiṅ dekha jaata
+  Hai kamar kham nahiṅ aankhoṅ se sujhaai deta
+  Ye zaifi ye jawaan laal ka sadma bhaiya
+  Thaam lo barh ke zara haath tum hi bhai ka
+  Abbas khaate haiṅ thokar par thokar
 
   6
-  Bhai ko bhool gaye dhyan na behno ka raha
+  Bhai ko bhul gaye dhyaan na behnoṅ ka raha
   Yaad aaya na koi paayi jo darya ki hawa
-  Haye kis dil se kiya tum ne gawara bhaiya
-  Har tamache pe sakina ne tumhe yaad kiya
-  Abbas jab cheene gaye kano se gohar
+  Haaye kis dil se kiya tum ne gawaara bhaiya
+  Har tamaache pe Sakina ne tumheṅ yaad kiya
+  Abbas jab chhine gaye kaanoṅ se gohar
 
   7
-  Hai qayamat ka samaa loot hai har simt machi
-  Koi pursa nahi haalat hai ajab bachon ki
-  Taaziyane koi khaata hai tamache koi
-  Aag daaman mein hai masoom sakina ke lagi
+  Hai qayaamat ka samaaṅ lut hai har simt machi
+  Koi pursa nahiṅ haalat hai ajab bachchoṅ ki
+  Taaziyaane koi khaata hai tamaache koi
+  Aag daaman meiṅ hai maasum Sakina ke lagi
   Abbas bhaiya utho lo jald khabar
 
   8
-  Chor kar dashte musibat mein behan ko bhai
-  Tumne acha hi kiya door basayi basti
-  Dekh sakte thay kahan tum jo hai haalat meri
-  Balwaye aam mein bhaiya mai khule sar hoo khadi
-  Abbas aada le gaye sae se chaadar
+  Chhor kar dasht-e-musibat meiṅ behan ko bhai
+  Tum ne achchha hi kiya dur basaai basti
+  Dekh sakte the kahaṅ tum jo hai haalat meri
+  Balwa-e-aam meiṅ bhaiya main khule sar huṅ khari
+  Abbas aada le gaye sar se chaadar
 
   9
-  Azmat o izzat e sadaat bhula di bhai
-  Aag qaimo mein layeeno ne laga di bhai
-  Masnade ahmade mursal bhi jaladi bhai
-  Taaziyano se hai abid ko saza di bhai
-  Abbas ghash mein hai pada mera dilbar
+  Azmat o izzat-e-Saadaat bhula di bhai
+  Aag khaimoṅ meiṅ lainoṅ ne laga di bhai
+  Masnad-e-Ahmad-e-Mursal bhi jala di bhai
+  Taaziyaanoṅ se hai Abid ko saza di bhai
+  Abbas ghash meiṅ hai para mera dilbar
 # source_id: nohayonline:8bdbb2743272720db62f
 # source_url: https://www.nohayonline.com/details_content.php?id=41
 # raw_sha256: d59e9a217ec9a5f2c2474b6e2938909beac3eb9c9ec161ff1b9313a4fa817b4e
@@ -84,16 +85,16 @@ romanLyrics: |-
 
 ۱
 کیا اسی دن کے لیے مانگی تھی بابا نے دُعا
-آ کے پردیس میں ہو جائو گے تم ہم سے جدا
+آ کے پردیس میں ہو جاؤ گے تم ہم سے جدا
 سوتے ہو چین سے دریا کے کنارے بھیا
-کیا سنا ئی نہیں دیتی تمہیں ھل من کی صدا
+کیا سنائی نہیں دیتی تمہیں ہل من کی صدا
 عباس تنہا ہیں کھڑے رن میں سرور
 
 ۲
 اے میرے شیر جواں اے میرے بھائی ہو کہاں
 ساکھ ہے دل پہ میرے تیری جدائی ہو کہاں
 دیر سے دیتی ہوں بھیا میں دُہائی ہو کہاں
-لُٹتی ہے فاطمہ زھرائ کی کمائی ہو کہاں
+لُٹتی ہے فاطمہ زہرا کی کمائی ہو کہاں
 عباس خنجر ہے حلق سرور پر
 
 ۳
@@ -108,11 +109,11 @@ romanLyrics: |-
 دلبر فاطمہ کی عجب حالت تھی
 ہاتھ ملتے تھے کبھی گھاٹ کو تکتے تھے کبھی
 تھام کر ٹوٹی کمر کہتے تھے فرزند نبی
-عباس لائو ں کیسے لاش اکبر
+عباس لاؤں کیسے لاش اکبر
 
 ۵
 حال شبیر کا اب تو نہیں دیکھا جاتا
-ہے کمر خم نہیں آ نکھوں سے سو جھائی دیتا
+ہے کمر خم نہیں آنکھوں سے سوجھائی دیتا
 یہ ضعیفی یہ جوان لال کا صدمہ بھیا
 تھام لو بڑھ کے ذرا ہاتھ تم ہی بھائی کا
 عباس کھاتے ہیں ٹھوکر پر ٹھوکر
@@ -135,12 +136,12 @@ romanLyrics: |-
 چھوڑ کر دشت مُصیبت میں بہن کو بھائی
 تم نے اچھا ہی کیا دُور بسائی بستی
 دیکھ سکتے تھے کہاں تم خو ہے حالت میری
-بلوائ عام میں بھیا میں کُھلے سر ہوں کھڑی
-عباس عدائ لے گئے سر سے چادر
+بلوائے عام میں بھیا میں کُھلے سر ہوں کھڑی
+عباس اعدا لے گئے سر سے چادر
 
 ۹
 عظمت و عزت سادات بُھلا دی بھائی
 آگ خیموں میں لعینوں نے لگا دی بھائی
 مسند احمد مُرسل بھی جلدی بھائی
 تعزیانوں سے ہے عابد کو سزا دی بھائی
-عباس غش میںہے پڑا میرادلبر
+عباس غش میں ہے پڑا میرا دلبر

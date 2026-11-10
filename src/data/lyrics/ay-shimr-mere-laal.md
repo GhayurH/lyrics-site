@@ -1,75 +1,80 @@
 ---
 title: "بولے شبیر کے سرور کو سنبھالو اماں"
-alternateTitle: "Ay Shimr Mere Laal"
+alternateTitle: "Ae Shimr Mere Laal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Shimr Mere Laal"]
 published: false
 romanLyrics: |-
-  Bole shabbir ke sarwar ko sambhalo amma
-  Aakhri baar kaleje se lagalo amma
-  Sunke bete ki sada aagayi khatoon e jina
-  Dasht mein kehne lagi maa hai mera laal kahan
-  Bikhraye baal kehti hai jangal mein fatema
+  Bole Shabbir ke Sarwar ko sambhaalo amma
+  Aakhri baar kaleje se laga lo amma
+
+  Sun ke bete ki sada aa gayi khaatun-e-jinaaṅ
+  Dasht meiṅ kehne lagi maaṅ hai mera laal kahaṅ
+
+  Bikhraaye baal kehti hai jangal meiṅ Fatema
+  Ae Shimr mere laal ko aise na zabh kar
 
   1
-  Ay shimr mere laal ko aise na zibha kar
-  Paala hai chakki pees ke maine hussain ko
-  Do boondh pani dede zara noor e ain ko
+  Paala hai chakki pis ke main ne Husain ko
+  Do bund paani de de zara nur-e-ain ko
   Hai teen din se khushk gala wa musibata
 
   2
-  Mai maa hoo mere saamne mat qatl kar isay
-  Sookha gala hai kis tarha khanjar tera chale
-  Manzar ye dekh dekh ke rote hai mustafa
+  Main maaṅ huṅ mere saamne mat qatl kar ise
+  Sukha gala hai kis tarah khanjar tera chale
+  Manzar ye dekh dekh ke rote haiṅ Mustafa
 
   3
-  Maloom tha ki hogi shahadat hussain ki
-  Maloom tha ke jaan na bachegi pisar teri
-  Aise koi bhi qatl nahi aaj tak hua
+  Maalum tha ke hogi shahaadat Husain ki
+  Maalum tha ke jaan na bachegi pisar teri
+  Aisa koi bhi qatl nahiṅ aaj tak hua
 
   4
-  Itne badan mein teer chube hai mai kya karoo
-  Mai kaunsa badan se bhala teer khaynch loo
-  Aisa chuba hai teer ke hilta nahi zara
+  Itne badan meiṅ tir chubhe haiṅ main kya karuṅ
+  Main kaun sa badan se bhala tir khainch luṅ
+  Aisa chubha hai tir ke hilta nahiṅ zara
 
   5
   Mayyat utha chuka hai bahattar ki laadla
-  Akbar ke khoon mein doob gayi shaah ki aba
-  Uski jabeen se khoon hai baysheer ka laga
+  Akbar ke khuṅ meiṅ dub gayi Shaah ki aba
+  Us ki jabiṅ se khun hai beshir ka laga
 
   6
-  Mai isko dekh dekh ke roti rahi sada
-  Jab jab bhi choomti thi mai halqoom shaah ka
-  Amma na roiye yehi kheta tha baareha
+  Main is ko dekh dekh ke roti rahi sada
+  Jab jab bhi chumti thi main halqum Shaah ka
+  Amma na roiye yehi kehta tha baaraha
 
   7
-  Shabbir qatl hogaye mai dekhti rahi
-  Sheh ki zameen garm pa mayyat padi rahi
-  Chalees roz dhoop mein laasha pada raha
+  Shabbir qatl ho gaye main dekhti rahi
+  Sheh ki zamin-e-garm pe mayyat pari rahi
+  Chaalis roz dhup meiṅ laasha para raha
 
   8
-  Allah karbala ko mubarak agar gaya
-  Tadpega dekh dekh ke rauza hussain ka
-  Rehan hai yaqeen ke goonjegi ek sada
+  Allah Karbala ko Mubarak agar gaya
+  Tarpega dekh dekh ke rauza-e-Husain ka
+  Rehan hai yaqin ke gunjegi ik sada
 # source_id: nohayonline:326293f972790f14a693
 # source_url: https://www.nohayonline.com/details_content.php?id=729
 # raw_sha256: b61104f9a0a803eb410c6e35f12f805ac542352846f4ee8af0b012dc2b19599d
 ---
 بولے شبیر کے سرور کو سنبھالو اماں
 آخری بار کلیجے سے لگا لو اماں
-سن کے بیٹے کی صدا آگیء خاتون جناں
+
+سن کے بیٹے کی صدا آ گئی خاتون جناں
 دشت میں کہنے لگی ماں ہے میرا لال کہاں
-بکھراے بال کہتی ہے جنگل میں فاطمہ
+
+بکھرائے بال کہتی ہے جنگل میں فاطمہ
+اے شمر میرے لال کو ایسے نہ ذبح کر
 
 ۱
-اے شمر میرے لال کو ایسے نہ زبح کر
 پالا ہے چکی پیس کے میں نے حسین کو
-دو بوندھ پانی دیدے زرا نور عین کو
+دو بوند پانی دے دے ذرا نور عین کو
 ہے تین دن سے خشک گلا وامصیبتا
 
 ۲
@@ -84,18 +89,18 @@ romanLyrics: |-
 
 ۴
 اتنے بدن میں تیر چبھے ہیں میں کیا کروں
-میں کونسا بدن سے بھلا تیر کھینچ لوں
-ایسا چھبا ہے تیر کے ہلتا نہیں زرا
+میں کون سا بدن سے بھلا تیر کھینچ لوں
+ایسا چبھا ہے تیر کے ہلتا نہیں ذرا
 
 ۵
 میت اٹھا چکا ہے بہتر کی لاڈلا
-اکبر کے خوں میں ڈوب گیء شاہ کی عبا
+اکبر کے خوں میں ڈوب گئی شاہ کی عبا
 اسکی جبیں سے خون ہے بے شیر کا گلا
 
 ۶
-میں اسکو دیکھ دیکھ کے روتی رہی سدا
+میں اس کو دیکھ دیکھ کے روتی رہی سدا
 جب جب بھی چومتی تھی میں حلقوم شاہ کا
-اماں نہ رویےء یہی کہتا تھا بارہا
+اماں نہ روئیے یہی کہتا تھا بارہا
 
 ۷
 شبیر قتل ہوگئے میں دیکھتی رہی
