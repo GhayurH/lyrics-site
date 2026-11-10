@@ -1,75 +1,76 @@
 ---
 title: "دیکھا زینب کو تو عبداللہ نے رو کر پوچھا"
-alternateTitle: "Ay Zaeefa Meri"
+alternateTitle: "Ae Zaifa Meri"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Zaeefa Meri"]
 published: false
 romanLyrics: |-
-  Dekha zainab ko to abdullah ne ro kar poocha
-  Ay zaeefa meri zainab ko kahin dekha hai
+  Dekha Zainab ko to Abdullah ne ro kar puchha
+  Ae zaifa meri Zainab ko kahiṅ dekha hai
   Kis liye aayi hai karne mere ghar tu girya
 
   1
-  Kya mohamed ki nawasi ko tu pehchaanti hai
-  Kya mere aun o mohamed ko bhi tu jaanti hai
-  Tujhko maloom hai ehwaal mere bachon ka
+  Kya Muhammad ki nawaasi ko tu pehchaanti hai
+  Kya mere Aun o Muhammad ko bhi tu jaanti hai
+  Tujhko maalum hai ahwaal mere bachchoṅ ka
 
   2
-  Kitne mashoor thay is shehr mein khairaat uski
-  Apni maadar se bahot milti thi surat uski
-  Od kar ghar se nikalti thi wo zehra ki rida
+  Kitne mashhur the is shehr mein khairaat uski
+  Apni maadar se bahut milti thi surat uski
+  Orh kar ghar se nikalti thi wo Zehra ki rida
 
   3
-  Khayncha karta tha qalatein ali akbar uski
-  Kitni tazeem kiya karte thay sarwar uski
-  Aur abbas diya karte thay pehra uska
+  Khencha karta tha qalatein Ali Akbar uski
+  Kitni taazim kiya karte the Sarwar uski
+  Aur Abbas diya karte the pehra uska
 
   4
-  Badliyan gham ki madine pe jo ye chaayi hai
-  Kya wo shehzadiyan pardes se laut aayi hai
-  Aa gaya khair se kya sibte nabi ka kunba
+  Badliyaṅ gham ki Madine pe jo ye chhaayi hai
+  Kya wo shehzaadiyaṅ pardes se laut aayi hai
+  Aa gaya khair se kya Sibt-e-Nabi ka kunba
 
   5
-  Roke abdullah se tab hazrate zainab ne kaha
-  Mai hi zainab hoo masayeb ne mujhe ghera hai
-  Aaj tum bhi nahi pehchaante chehra mera
+  Ro ke Abdullah se tab Hazrat-e-Zainab ne kaha
+  Main hi Zainab huṅ masaaib ne mujhe ghera hai
+  Aaj tum bhi nahiṅ pehchaante chehra mera
 
   6
-  Mai hi zainab hoo magar aaj hoo mai kitni ghareeb
-  Le gaya nargha e aada mein mujhe mera naseeb
+  Main hi Zainab huṅ magar aaj huṅ main kitni gharib
+  Le gaya nargha-e-aada mein mujhe mera nasib
   Aur mere paas na mehmil thi na maqna na rida
 
   7
-  Huwe maqtool e jafa dasht mein bache mere
-  Hadh to ye hai ke jalaye gaye qaime mere
-  Jal gaya sholon mein baysheer ka nanha jhoola
+  Hue maqtul-e-jafa dasht mein bachche mere
+  Had to ye hai ke jalaaye gaye khaime mere
+  Jal gaya sholoṅ mein beshir ka nanha jhula
 
   8
-  Rukh pe sarwar ne mala khoon ali asghar ka
-  Dekha barchi mein jigar maine ali akbar ka
+  Rukh pe Sarwar ne mala khun Ali Asghar ka
+  Dekha barchhi mein jigar main ne Ali Akbar ka
   Saamne mere kata hai mere bhai ka gala
 
   9
-  Kahun kis tarha bandhi thi mere shaano pe rasan
-  Kaise batlaun mai wo shaam ke zindan ki ghutan
-  Hogayi khaak ka pewand sakina dukhiya
+  Kahuṅ kis tarah bandhi thi mere shaanoṅ pe rasan
+  Kaise batlaauṅ main wo Shaam ke zindaaṅ ki ghutan
+  Ho gayi khaak ka paiwand Sakina dukhiya
 
   10
-  Kya kahe nayyar o aamir wo bhala gham ka samaa
-  Wo madina ki faza ho ya ho zainab ki fughan
-  Uth rahi thi dar o deewar se nauhon ki sada
+  Kya kahe Nayyar o Aamir wo bhala gham ka samaaṅ
+  Wo Madine ki faza ho ya ho Zainab ki fughaaṅ
+  Uth rahi thi dar o diwaar se nauhoṅ ki sada
 # source_id: nohayonline:08d0dfbf60a15b3643eb
 # source_url: https://www.nohayonline.com/details_content.php?id=2111
 # raw_sha256: 33fc7e7caadb990632d3984caafd2fa72705b0dafc80fa11a4af74a6fef4fe0a
 ---
 دیکھا زینب کو تو عبداللہ نے رو کر پوچھا
 اے ضعیفہ میری زینب کو کہیں دیکھا ہے
-کس لئے آی ہے کرنے میرے گھر تو گریہ
+کس لئے آئی ہے کرنے میرے گھر تو گریہ
 
 ۱
 کیا محمد کی نواسی سو تو پہچانتی ہے
@@ -87,7 +88,7 @@ romanLyrics: |-
 اور عباس دیا کرتے تھے پہرہ اس کا
 
 ۴
-بدلیاں غم کی مدینے پہ جو یہ چھای ہے
+بدلیاں غم کی مدینے پہ جو یہ چھائی ہے
 کیا وہ شہزادیاں پردیس سے لوٹ آئی ہے
 آ گیا خیر سے کیا سبط نبی کا کنبہ
 
@@ -102,9 +103,9 @@ romanLyrics: |-
 اور میرے پاس نہ محمل تھی نہ مقنہ نہ ردا
 
 ۷
-ہوے مقتول جفا دشت میں بچے میرے
-حد تو یہ ہے کہ جلاے گےء خیمے میرے
-جل گےء شعلوں میں بے شیر کا ننھا جھولا
+ہوئے مقتول جفا دشت میں بچے میرے
+حد تو یہ ہے کہ جلائے گئے خیمے میرے
+جل گئے شعلوں میں بے شیر کا ننھا جھولا
 
 ۸
 رخ پہ سرور نے ملا خون علی اصغر کا
@@ -114,7 +115,7 @@ romanLyrics: |-
 ۹
 کہوں کس طرح بندھی تھی میرے شانوں میں رسن
 کیسے بتلاؤں میں وہ شام کے زنداں کی گھٹن
-ہو گیء خاک کا پیوند سکینہ دکھیا
+ہو گئی خاک کا پیوند سکینہ دکھیا
 
 ۱۰
 کیا کہے نیر و عامر وہ بھلا غم کا سماں
