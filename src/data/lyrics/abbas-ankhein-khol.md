@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yaqoob Jarchvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -28,7 +29,7 @@ romanLyrics: |-
   Ho nahiṅ paayi wo mar kar bhi riha
 
   3
-  Ho gayi hai dafn wo zer-e-zamin
+  Ho gayi hai dafn wo zer-e-zamiṅ
   Aaj bhi us ke liye pani nahiṅ
   Qaidkhana ban gaya hai Karbala
 
@@ -58,7 +59,7 @@ romanLyrics: |-
   Khol do ek baar tum aankheṅ zara
 
   9
-  Aamir o Yaqoob gham barpa hua
+  Aamir o Yaqub gham barpa hua
   Zainab-e-dilgir ne jab ye kaha
   Mil gayi mujhko Sakina ki rida
 # source_id: nohayonline:d856e4c4d08834da5111

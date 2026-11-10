@@ -10,10 +10,10 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab aa gayi Shaam-e-Ghariban bapa hua matam
+  Jab aa gayi Shaam-e-Gharibaṅ bapa hua matam
   Khiyam-e-Shah se aati thi ek sada paiham
   Main tum se karti huṅ waada ae mere pyare chacha
-  Main tum se pani na maṅguṅgi ab Khuda ki qasam
+  Main tum se pani na maṅguṅ gi ab Khuda ki qasam
   Abbas Abbas ammu janam man aab namikhwaham
 
   1
@@ -28,22 +28,22 @@ romanLyrics: |-
 
   3
   Kanoṅ se khun ravaṅ hai lab par mere fughaṅ hai
-  Daman sulag raha hai sahra dhuan dhuan hai
+  Daman sulag raha hai sahra dhuaṅ dhuaṅ hai
   Saari fiza hai barham
 
   4
   Sar par nahiṅ hai chadar maidan mein ja ke Sarwar
-  Kiun laut ke na aaye kuchh to batao aa kar
+  Kiuṅ laut ke na aaye kuchh to batao aa kar
   Hai bekasi ka aalam
 
   5
-  Asghar ne teer khaya veeran kiya hai jhula
+  Asghar ne teer khaya viraṅ kiya hai jhula
   Bano ke dil pe ammu ye zakhm hai kuchh aisa
   Jiska nahiṅ hai marham
 
   6
   Rassi gale mein bandhi aada ne kas ke aisi
-  Tum ko bataun kaise rukti hai saans meri
+  Tum ko batauṅ kaise rukti hai saans meri
   Hontoṅ pe aa gaya dam
 
   7

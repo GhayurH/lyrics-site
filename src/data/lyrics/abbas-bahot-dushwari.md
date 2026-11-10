@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,8 +15,10 @@ romanLyrics: |-
   Abbas bahot dushwari hai
   Zainab ne kaha ro kar bhaiya
   Sar khulne ki tayyari hai
+  Abbas bahot dushwari hai
   Badhta hai meri jaanib lashkar
   Aa jaldi aa darr taari hai
+  Abbas bahot dushwari hai
 
   1
   Aakhir main karuṅ kya batla de
@@ -26,64 +29,64 @@ romanLyrics: |-
   Is waqt alambardari hai
 
   2
-  Kiun leta nahiṅ hai meri khabar
+  Kiuṅ leta nahiṅ hai meri khabar
   Main ho gayi huṅ ghar se beghar
-  Darti hoo na chin jaye chadar
+  Darti huṅ na chhin jaye chadar
   Hae dekh qayamat ka manzar
-  Kiun karta nahiṅ imdad meri
+  Kiuṅ karta nahiṅ imdad meri
   Kya baat hai jo be zaari hai
 
   3
   Kya is se bada bhi hoga sitam
-  Ab nargha e aada mein hai hum
-  Saanseṅ hain gale mein atki hui
+  Ab nargha-e-aada mein haiṅ hum
+  Saanseṅ hai gale mein atki hui
   Lagta hai nikal jayega dam
-  Karti hai sakina yaad tujhe
+  Karti hai Sakina yaad tujhe
   Ghabrai hui bechari hai
 
   4
   Khaimoṅ ko jalaya jaata hai
   Be jurm sataya jaata hai
-  Aa dekh mere ghazi qaidi
+  Aa dekh mere Ghazi qaidi
   Abid ko banaya jaata hai
   Pehnate hain zalim zanjireṅ
   Aur tauq galay mein bhaari hai
 
   5
   Aise mein kare kya teri behan
-  Bandhti hai mere shaano mein rasan
+  Bandhti hai mere shanoṅ pe rasan
   Kis tarah rakhuṅ dil par qabu
-  Kis tarha karun ye zulm sahan
-  Ghairat se mera phat'ta hai jigar
+  Kis tarah karuṅ ye zulm sahan
+  Ghairat se mera phatta hai jigar
   Saansoṅ mein bhi aah o zari hai
 
   6
-  Kis tarha jiye naazon ke palay
-  Hai ek rasan mein barah gale
-  Haste hai meri ghurbat pe layeen
-  Din ye bhi meri taqdeer mein thay
-  Zinda mujhe bhaiya rakhe huwe
+  Kis tarah jiye nazoṅ ke pale
+  Hai ek rasan aur barah gale
+  Hanste haiṅ meri ghurbat pe laiṅ
+  Din ye bhi meri taqdir mein the
+  Zinda mujhe bhaiya rakhe hue
   Is waqt meri khuddaari hai
 
   7
   Koroṅ pe main kore khati huṅ
   Aur kuchh bhi nahiṅ keh paati huṅ
-  Jab dekhti hoo naizon pe sar
-  Dil thaam ke bas reh jaati hoo
+  Jab dekhti huṅ naizoṅ pe sar
+  Dil thaam ke bas reh jaati huṅ
   Hote hain musalsal zulm o sitam
   Ghurbat ka safar bhi jaari hai
 
   8
-  Ae tishna jigar ae tishna dahan
-  Ae sher-e-ghazanfar rahat-e-jaan
-  Itna to bata de zainab ko
-  Manzil hai kahan jaana hai kahan
-  Bithlaate hai zaalim naaqe par
+  Ae tishna jigar ae tishna dahaṅ
+  Ae sher Ghazanfar rahat-e-jaṅ
+  Itna to bata de Zainab ko
+  Manzil hai kahaṅ jaana hai kahaṅ
+  Bithlaate haiṅ zalim naaqe par
   Kis zulm ki ye tayyari hai
 
   9
-  Asif jo sukhan zainab ke sune
-  Abbas lab e darya tadpe
+  Asif jo sukhan Zainab ke sune
+  Abbas lab-e-darya tarpe
   Shabbir ka sar roya Aamir
   Aankhoṅ ko na khola Ghazi ne
   Kehti rahi khwahar ro ro kar
@@ -97,8 +100,10 @@ romanLyrics: |-
 عباس بہت دشواری ہے
 زینب نے کہا رو کر بھیا
 سر کھلنے کی تیاری ہے
+عباس بہت دشواری ہے
 بڑھتا ہے میری جانب لشکر
 آ جلدی آ ڈر طاری ہے
+عباس بہت دشواری ہے
 
 ۱
 آخر میں کروں کیا بتلا دے
@@ -134,7 +139,7 @@ romanLyrics: |-
 
 ۵
 ایسے میں کرے کیا تیری بہن
-بندھتی ہی میرے شانوں پہ رسن
+بندھتی ہے میرے شانوں پہ رسن
 کس طرح رکھوں دل پر قابو
 کس طرح کروں یہ ظلم سہن
 غیرت سے میرا پھٹتا ہے جگر

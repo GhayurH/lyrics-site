@@ -1,34 +1,35 @@
 ---
 title: "اہلِ حرم کے پاسباں عباس اے شیر جواں"
-alternateTitle: "Abbas Ay Shere Jawan"
+alternateTitle: "Abbas Ae Sher-e-Jawaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ahl-e-Haram ke pasbaṅ Abbas ae sher-e-jawaṅ
+  Ahl-e-Haram ke paasbaṅ Abbas ae sher-e-jawaṅ
 
   1
-  Kehta tha zehra ka pisar thaame huwe tooti kamar
+  Kehta tha Zehra ka pisar thaame hue tuti kamar
   Bhai mere tum so gaye ab kaun le meri khabar
   Dekho meri tanhaiyaṅ Abbas ae sher-e-jawaṅ
 
   2
-  Tum thay alamdar e jari lashkar ki tum se shaan thi
-  Waqif the tum is baat se tum se hi hai meri zindagi
-  Koi nahi mera yahan Abbas ae sher-e-jawaṅ
+  Tum the alamdar-e-jari lashkar ki tum se shaan thi
+  Waqif the tum is baat se tum se hi meri zindagi
+  Koi nahiṅ mera yahaṅ Abbas ae sher-e-jawaṅ
 
   3
-  Shane tumhare kat gaye ghore se tum kaise gire
-  Sar par laga gurz e sitam tum kis qadar zakhmi hue
-  Saare badan se khoon rawan Abbas ae sher-e-jawaṅ
+  Shaane tumhare kat gaye ghore se tum kaise gire
+  Sar par laga gurz-e-sitam tum kis qadar zakhmi hue
+  Saare badan se khuṅ ravaṅ Abbas ae sher-e-jawaṅ
 
   4
-  Har qadam par the humsafar har lamha thay seena sipar
+  Har qadam par the humsafar har lamha the sine sipar
   Ae tishnalab bhai mere chhora mujhe kis mor par
   Har simt hai viraniyaṅ Abbas ae sher-e-jawaṅ
 
@@ -38,34 +39,34 @@ romanLyrics: |-
   Ab hai hamara imtehaṅ Abbas ae sher-e-jawaṅ
 
   6
-  Tum se tha har dil ko bharam thay mutmain ahle haram
-  Ek tum juda kya ho gaye so jayegi fauje sitam
-  Jaagegi saari bibiyan Abbas ae sher-e-jawaṅ
+  Tum se tha har dil ko bharam the mutmain Ahl-e-Haram
+  Ek tum juda kya ho gaye so jayegi fauj-e-sitam
+  Jaagegi saari Bibiyaṅ Abbas ae sher-e-jawaṅ
 
   7
-  Ye hai sakina ki fughan aa jao ammu ho kahan
-  Kaise usay samjhaun mai us se karun kya kya bayan
+  Ye hai Sakina ki fughaṅ aa jao ammu ho kahaṅ
+  Kaise use samjhauṅ main us se karuṅ kya kya bayaṅ
   Mar jayegi wo nim jaṅ Abbas ae sher-e-jawaṅ
 
   8
-  Mashk e sakina chid gayi hasrat thi tujhko jang ki
+  Mashk-e-Sakina chhid gayi hasrat thi tujhko jang ki
   Koi bhi teri aarzu bhai na puri ho saki
   Bechain teri hichkiyaṅ Abbas ae sher-e-jawaṅ
 
   9
-  Ay mere bhai ba-wafa allah ne tay kar liya
+  Ae mere bhai bawafa Allah ne tay kar liya
   Tere waseele se agar jo bhi kare dil se dua
-  Bhar dega unki jholiyan Abbas ae sher-e-jawaṅ
+  Bhar dega unki jholiyaṅ Abbas ae sher-e-jawaṅ
 
   10
   Sheh ne kaha mere jari dil ki tadap hai ab yehi
   Maula kaha Aaqa kaha ek baar keh do bas Akhi
-  Dekho meri bechainiya Abbas ae sher-e-jawaṅ
+  Dekho meri bechainiyaṅ Abbas ae sher-e-jawaṅ
 
   11
   Abbas ne bhai kaha bhai se bhai chut gaya
-  Matam rasheed ab hota hai pyase jari abbas ka
-  Girya kunaṅ hain Bibiyan Abbas ae sher-e-jawaṅ
+  Matam Rasheed ab hota hai pyase jari Abbas ka
+  Girya kunaṅ hain Bibiyaṅ Abbas ae sher-e-jawaṅ
 # source_id: nohayonline:143df18857578d5de150
 # source_url: https://www.nohayonline.com/details_content.php?id=1754
 # raw_sha256: e702714c34146c3a1c52e80bd54bd00553c8388b61537ec0145b8255a77a1572
@@ -96,12 +97,12 @@ romanLyrics: |-
 
 ۵
 جس سمت جاتی ہے نظر خنجر ہے اور تیر و تبر
-عباس کچھ ہی دیر میں کٹ جاے گا میرا بھی سر
+عباس کچھ ہی دیر میں کٹ جائے گا میرا بھی سر
 اب ہے ہمارا امتحاں عباس اے شیر جواں
 
 ۶
-تم سے تھا ہر دل کو بھرم تھے مطمئن أہل حرم
-اک تم جدا کیا ہو گئے سو جاے گی فوج ستم
+تم سے تھا ہر دل کو بھرم تھے مطمئن اہل حرم
+اک تم جدا کیا ہو گئے سو جائے گی فوج ستم
 جاگے گی ساری بی بیاں عباس اے شیر جواں
 
 ۷
@@ -110,7 +111,7 @@ romanLyrics: |-
 مر جائے گی وہ نیم جاں عباس اے شیر جواں
 
 ۸
-مشکِ سکینہ چھد گیء حسرت تھی تجھکو جنگ کی
+مشکِ سکینہ چھد گئی حسرت تھی تجھکو جنگ کی
 کوئی بھی تیری آرزو بھائی نہ پوری ہو سکی
 بے چین تیری ہچکیاں عباس اے شیر جواں
 
