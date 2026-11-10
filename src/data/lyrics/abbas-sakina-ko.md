@@ -1,11 +1,12 @@
 ---
-title: "سقاے سکینہ سقاے سکینہ"
+title: "سقائے سکینہ سقائے سکینہ"
 alternateTitle: "Abbas Sakina Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -31,12 +32,12 @@ romanLyrics: |-
   Wo ho gayi beaasra tum aas bandha lo
 
   5
-  Ya tum wahan aa jao jahan bhi hai Sakina
-  Ya tum ho jahan haaye wahan us ko bula lo
+  Ya tum wahaaṅ aa jao jahaaṅ bhi hai Sakina
+  Ya tum ho jahaaṅ haaye wahaaṅ us ko bula lo
 
   6
   Is khaime se us khaime mein jaati hai Sakina
-  Khaimoṅ mein laeen aate hain parda to bana lo
+  Khaimoṅ mein laeeṅ aate hain parda to bana lo
 
   7
   Zainab ye sada deti thi sar peet ke apna

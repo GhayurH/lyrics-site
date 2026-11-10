@@ -1,11 +1,12 @@
 ---
-title: "عباس قتل ہو گےء اکبر جدا ہوا"
+title: "عباس قتل ہو گئے اکبر جدا ہوا"
 alternateTitle: "Abbas Qatl Hogaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Naseem Buknalvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -30,7 +31,7 @@ romanLyrics: |-
 
   4
   Gir jaate the ghash khaate the har gaam tarap kar
-  Dete the sadaeṅ ho mere laal kahan par
+  Dete the sadaeṅ ho mere laal kahaaṅ par
   Aur sina-e-Akbar mein tha neza laga hua
 
   5
@@ -39,7 +40,7 @@ romanLyrics: |-
   Yaad aata raha halq wo us ka chhida hua
 
   6
-  Ansar o aqraba sabhi jaan se chale gaye
+  Ansar o aqraba sabhi jaaṅ se chale gaye
   Akbar ki laash laaye to Asghar ko le gaye
   Bas do pahar mein khatm ghar bhara hua
 
@@ -49,7 +50,7 @@ romanLyrics: |-
   Bimar natawaṅ tha ghash mein para hua
 
   8
-  Parh kar Naseem Shadman aaṅsu bahaega
+  Parh kar Naseem Shadmaṅ aaṅsu bahaega
   Ghaibat mein bhi Imam-e-Zaman ko rulaega
   Misre pe Mir Anis ke noha likha hua
 # source_id: nohayonline:df0f0a88b74cbcc7f98a

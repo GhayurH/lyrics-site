@@ -6,16 +6,17 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mahsus kare koi to dil kaṅp uthega
+  Mahsus kare koi to dil kaanp uthega
   Sailab-e-gham o dard hai roke na rukega
+  Khud Katib-e-Taqdir basad dard likhega
+  Maqtal ki zamiṅ roegi zindan kahega
 
   1
-  Khud Katib-e-Taqdir basad dard likhega
-  Maqtal ki zamin roegi zindaṅ kahega
   Pardes hai ghurbat hai darbar ki thakan hai
   Abbas sa bhai hai to Zainab si behan hai
 
@@ -25,19 +26,19 @@ romanLyrics: |-
   Hai burhe Ali bhai behan rashk-e-chaman hai
 
   3
-  Ek zamin-e-chadar hai sabhi Ahl-e-Haram ka
+  Ek zaamin-e-chadar hai sabhi Ahl-e-Haram ka
   Aur ek ki rida dhup mein saaya hai alam ka
-  Ek dharas-e-Shabbir hai ek qalb-e-Hasan hai
+  Ek dhaaras-e-Shabbir hai ek qalb-e-Hasan hai
 
   4
   Donoṅ ne wafaoṅ ka bharam aisa rakha hai
   Ye hukm ka paband wo paband-e-haya hai
-  Ek tishna-e-paikar hai ek tishna dahan hai
+  Ek tashna-e-paikaar hai ek tashna dahaaṅ hai
 
   5
-  Donoṅ hi Alamdar-e-Wafa hain sar-e-maidan
-  Ye asr se pehle wo pas-e-Shaam-e-Ghariban
-  Kaṅpa hua sahma hua donoṅ hi se ran hai
+  Donoṅ hi Alamdar-e-Wafa hain sar-e-maidaaṅ
+  Ye asr se pehle wo pas-e-Shaam-e-Gharibaaṅ
+  Kaanpa hua sahma hua donoṅ hi se ran hai
 
   6
   Ek majlis o matam ki bina daalne wali
@@ -50,7 +51,7 @@ romanLyrics: |-
   Donoṅ ke kalejoṅ mein musalsal ye chubhan hai
 
   8
-  Wo bar sar-e-neza tha ye kaṅtoṅ pe rawaṅ thi
+  Wo bar sar-e-neza tha ye kaantoṅ pe rawaṅ thi
   Sar us ka gira neze se ye mahv-e-fughaṅ thi
   Ye khun ki tasvir hai rishtoṅ ki lagan hai
 
@@ -62,7 +63,7 @@ romanLyrics: |-
   10
   Rehaan o Raza Zainab o Ghazi ki dua hai
   Wallah ye Shahzadi Sakina ki ata hai
-  Is nohe mein taid-e-Shahanshah-e-Zaman hai
+  Is nohe mein taaid-e-Shahanshah-e-Zaman hai
 # source_id: nohayonline:910a5fdb3865d7a9c67a
 # source_url: https://www.nohayonline.com/details_content.php?id=2385
 # raw_sha256: b59e584165340a5b3d09f9ea9a384908ddd43057d9485619ee022c991d539738
@@ -70,10 +71,10 @@ romanLyrics: |-
 
 محسوس کرے کوئی تو دل کانپ اٹھے گا
 سیلاب غم و درد ہے روکے نہ رکے گا
-
-۱
 خود کاتب تقدیر بصد درد لکھے گا
 مقتل کی زمیں روئے گی زندان کہے گا
+
+۱
 پردیس ہے غربت ہے دربار کی تھکن ہے
 عباس سا بھائی ہے تو زینب سی بہن ہے
 
