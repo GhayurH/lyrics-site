@@ -6,71 +6,72 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aina aina Ali Akbar
-  Haye akbar haye akbar
-  Ae naujawan ae naujawan
-  Awaz do ae Ali Akbar awaaz do
+  Aaiina aaiina Ali Akbar
+  Haye Akbar haye Akbar
+  Ae naujawaṅ ae naujawaṅ
+  Awaaz do ae Ali Akbar awaaz do
 
   1
-  Jaati hai meri jaan
-  Maqtal mein hai dhuaan
-  Beta ho tum kahan
-  Maara hai kis tarha se tumhe sochta huṅ mainn
-  Patthar hata hata ke tumhe dhundta huṅ mainn
-  Chaaron taraf hai khoon milta nahi sukoon
-  Laashon ke darmiyan
+  Jaati hai meri jaaṅ
+  Maqtal meiṅ hai dhuaaṅ
+  Beta ho tum kahaaṅ
+  Maara hai kis tarah se tumheiṅ sochta huṅ main
+  Patthar hata hata ke tumheiṅ dhundta huṅ main
+  Chaaroṅ taraf hai khun milta nahiṅ sukun
+  Laashoṅ ke darmiyaaṅ
 
   2
-  Kuch bhi dikhayi deta nahi main gharib hoon
-  Khushboo se lag raha hai tumhare khareeb hoon
+  Kuchh bhi dikhaai deta nahiṅ main gharib huṅ
+  Khushbu se lag raha hai tumhaare qarib huṅ
   Ae mere dil ke chain baba ke nur-e-ain
-  Ab lo na imtehan
+  Ab lo na imtihaaṅ
 
   3
-  Maine suna hai ghode se tum khud nahi gire
-  Ae mere laal baalon se khayncha gaya tumhe
-  Tum ho yahiṅ kahiṅ kiun bolte nahi
-  Khamosh hai zuban
+  Main ne suna hai ghore se tum khud nahiṅ gire
+  Ae mere laal baaloṅ se kheincha gaya tumheiṅ
+  Tum ho yahi kahiṅ kiuṅ bolte nahiṅ
+  Khaamosh hai zubaaṅ
 
   4
-  Kaise gire ho mujhko batao to zeen se
-  Lagta hai tumne khaayi hai barchi layeen se
-  Chehra bhi zard hai seene mein dard hai
-  Kuch to karo bayan
+  Kaise gire ho mujhko bataao to zin se
+  Lagta hai tum ne khaai hai barchhi lain se
+  Chehra bhi zard hai sine meiṅ dard hai
+  Kuchh to karo bayaaṅ
 
   5
-  Maqtal mein aate aate bhi maara gaya mujhe
-  Dooba hua hoon khoon mein patthar ke zakhm se
+  Maqtal meiṅ aate aate bhi maara gaya mujhe
+  Duba hua huṅ khun meiṅ patthar ke zakhm se
   Zakhmi hai ye jigar dekho mere pisar
-  Chehre pe hai nishan
+  Chehre pe hai nishaaṅ
 
   6
   Himmat karo zara si kaleje ko thaam kar
-  Hai waqte asr jaago mere naujawan pisar
-  Laila ki aas hai zainab udaas hai
-  Do aakhri azaan
+  Hai waqt-e-asr jaago mere naujawaṅ pisar
+  Laila ki aas hai Zainab udaas hai
+  Do aakhri azaaṅ
 
   7
-  Tum khud ali ho beta zara hausla karo
-  Badhne laga hai dard to Nad-e-Ali padho
-  Aankhein hai meri nam sughra ki hai qasam
-  Ragdo na aediyan
+  Tum khud Ali ho beta zara hausla karo
+  Barhne laga hai dard to Naad-e-Ali parho
+  Aankheiṅ haiṅ meri nam Sughra ki hai qasam
+  Ragro na aeriyaaṅ
 
   8
-  Do maa'on ne jawan kiya tum ko paal kar
-  Khaimoṅ mein jaa ke kaise milaunga mai nazar
-  Mai unse kya kahun behta hai tera khoon
-  Kaise sahegi maa
+  Do maaoṅ ne jawaaṅ kiya tum ko paal kar
+  Khaimoṅ meiṅ jaa ke kaise milaauṅ ga main nazar
+  Main un se kya kahuṅ behta hai tera khuṅ
+  Kaise sahegi maaṅ
 
   9
-  Azlaan ro ke kehta raha ye mera imam
-  Beta hamare haal pe hasti hai fauj-e-Shaam
-  Dhundhla hai sab jahan hai surkh aasman
-  Chalti hai aandhiyan
+  Azlaan ro ke kehta raha ye mera Imam
+  Beta hamaare haal pe hansti hai fauj-e-Shaam
+  Dhundla hai sab jahaan hai surkh aasmaaṅ
+  Chalti hai aandhiyaaṅ
 # source_id: nohayonline:d7961e2d215b88f6fb84
 # source_url: https://www.nohayonline.com/details_content.php?id=3625
 # raw_sha256: fe84ae9be39f1f4af191abd8796188233c68b712975204525ca2ba4894b9d9e2

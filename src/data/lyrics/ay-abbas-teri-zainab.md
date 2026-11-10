@@ -1,18 +1,20 @@
 ---
 title: "دکھیاری زینب کے لبوں پر تھا نوحہ"
-alternateTitle: "Ay Abbas Teri Zainab"
+alternateTitle: "Ae Abbas Teri Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dukhiyari zainab ke labon par tha nauha
+  Dukhiyari Zainab ke laboṅ par tha nauha
   Ae Abbas teri Zainab beparda hai
-  Le jate hain qaid mujhe kar ke aada
+  Le jaate haiṅ qaid mujhe kar ke aada
+  Ae Abbas teri Zainab beparda hai
 
   1
   Suraj ne jis ko na dekha beparda
@@ -21,18 +23,18 @@ romanLyrics: |-
 
   2
   Tu jab se jaa kar darya pe soya hai
-  Saara kunba khoon ke aansu roya hai
-  Jal gaye khaime chin gayi chadar ghar ujda
+  Saara kunba khun ke aansu roya hai
+  Jal gaye khaime chhin gayi chaadar ghar ujra
 
   3
-  Jis ke atthara bhai thay wo khwahar
+  Jis ke athaarah bhaai the wo khwaahar
   Qaidi ban kar khaati hai dar dar thokar
   Mujhko muqaddar ne kar daala hai tanha
 
   4
   Qatl hue mere bete aur sab bhai
-  Haye mujhe taqdeer kahan lekar aayi
-  Kaun kare imdaad nahi koi apna
+  Haye mujhe taqdir kahaaṅ le kar aai
+  Kaun kare imdaad nahiṅ koi apna
 
   5
   Jab se suna hai aane waala hai bazaar
@@ -41,23 +43,23 @@ romanLyrics: |-
 
   6
   Dil mera ghabrata hai kya hoga ab
-  Bazaron se kaise guzregi zainab
-  Chaaron jaanib na-mehram majma hoga
+  Baazaaroṅ se kaise guzregi Zainab
+  Chaaroṅ jaanib naamahram majma hoga
 
   7
-  Main aik din jis kufe ki shehzadi thi
-  Jaati hoon us shehr mein ban kar ke qaidi
+  Main ek din jis Kufe ki shahzaadi thi
+  Jaati huṅ us shahr meiṅ ban kar ke qaidi
   Ae Ghazi ab phat jayega dil mera
 
   8
-  Ek jaisi hai maa aur beti ki ghurbat
-  Dono ko darbar talak laayi qismat
-  Farq hai itna parde mein thi maa zahra
+  Ek jaisi hai maaṅ aur beti ki ghurbat
+  Donoṅ ko darbaar talak laai qismat
+  Farq hai itna parde meiṅ thi maaṅ Zahra
 
   9
   Ae Waiz ek hashr ka manzar tha us dam
-  Roke ali ye kehti thi zainab jis dam
-  Sar hai khula baalon se chupaya hai chehra
+  Roke Ali ye kehti thi Zainab jis dam
+  Sar hai khula baaloṅ se chhupaaya hai chehra
 # source_id: nohayonline:d9b6422315bd5cb78047
 # source_url: https://www.nohayonline.com/details_content.php?id=2849
 # raw_sha256: 87178e35daf54cb1d249512bbf51caee6e6f9af4f8e787b9576e9a24b414b66d
@@ -66,6 +68,7 @@ romanLyrics: |-
 دکھیاری زینب کے لبوں پر تھا نوحہ
 اے عباس تیری زینب بے پردہ ہے
 لے جاتے ہیں قید مجھے کر کے اعدا
+اے عباس تیری زینب بے پردہ ہے
 
 ۱
 سورج نے جس کو نہ دیکھا بے پردہ
@@ -84,7 +87,7 @@ romanLyrics: |-
 
 ۴
 قتل ہوئے میرے بیٹے اور سب بھائی
-ہاے مجھے تقدیر کہاں لے کر آی
+ہاے مجھے تقدیر کہاں لے کر آئی
 کون کرے امداد نہیں کوئی اپنا
 
 ۵
