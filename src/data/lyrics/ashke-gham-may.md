@@ -5,32 +5,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashk-e-gham mein hain nihan karb ke manzar kitne
-  Chand qatron mein simat aaye samandar kitne
+  Ashk-e-gham mein haiṅ nihaaṅ karb ke manzar kitne
+  Chand qatroṅ mein simat aaye samandar kitne
 
   1
-  Janisaran-e-Husaini hain parakh le dunya
-  Hum bhi dekhein ke tere paas hain khanjar kitne
+  Jaanisaraan-e-Husaini haiṅ parakh le dunya
+  Hum bhi dekheṅ ke tere paas haiṅ khanjar kitne
 
   2
   Sar to zakhmi hua apna ye magar jaan gaye
-  Kis kamiṅ-gah se phenke gaye pathar kitne
+  Is kamiṅgaah se pheṅke gaye patthar kitne
 
   3
-  Naam Allah ka lene ke liye maaz-allah
-  Log tameel kiye baithe hain Khyber kitne
+  Naam Allah ka lene ke liye maaz Allah
+  Log taamil kiye baithe haiṅ Khaibar kitne
 
   4
-  Ulfat-e-Aal ka dunya ne sila khoob diya
-  Lut gaye kitne makeen khaak huye ghar kitne
+  Ulfat-e-Aal ka dunya ne sila khub diya
+  Lut gaye kitne makiṅ khaak hue ghar kitne
 
   5
   Ik aalam hai ke rota hai gham-e-Sarwar mein
-  Bandh baandhenge jigar aap to ghar ghar kitne
+  Bandh baandhe jigar aap to ghar ghar kitne
 # source_id: nohayonline:ef191d43c24e813baaca
 # source_url: https://www.nohayonline.com/details_content.php?id=749
 # raw_sha256: 3a6fe27cad3d772338d3d56fc5babe0c3ccf41ec2af891427ece48aa274a1f20

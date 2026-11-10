@@ -1,78 +1,80 @@
 ---
 title: "مومنوں کے لب پہ ہے آہ و بکا"
-alternateTitle: "Ashk Barsao"
+alternateTitle: "Ashk Barsaao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ghadeer Fatima"
 poet: "Raza Ali Khan Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Momino ke lab pa hai aah o buka
-  Ashk barsao moharam aa gaya
-  Cha gayi har soo masayab ki ghata
+  Mominoṅ ke lab pe hai aah o buka
+  Ashk barsaao Muharram aa gaya
+  Chhaa gayi har suṅ masaaib ki ghataa
+  Ashk barsaao Muharram aa gaya
 
   1
   Dil ke ho jazbaat har pal nauhagar
   Saara aalam ho faqat ashkoṅ se tar
-  Aisi goonje wa hussaina ki sada
+  Aisi gunje waa Husaina ki sada
 
   2
-  Aa gaye pardes mein choota watan
-  Jin ke laashe dasht mein thay bekafan
-  Un aseeron ka karo matam bapa
+  Aa gaye pardes mein chhuta watan
+  Jin ke laashe dasht mein the bekafan
+  Un asiroṅ ka karo maatam bapa
 
   3
-  Apna maula wo Husain ibne ali
-  Jis ke dam se deen mein hai roshni
-  Asr e ashoora wo suraj dhal gaya
+  Apna Maula wo Husain ibn-e-Ali
+  Jis ke dam se diṅ mein hai roshni
+  Asr-e-Aashur wo suraj dhal gaya
 
   4
-  Bhool ke haalat ki ye abtari
-  Apni aankhein ashke gham se ho bhari
-  Hai ghame shabbir har gham ki dawa
+  Bhul ke haalat ki ye abtari
+  Apni aankheṅ ashk-e-gham se ho bhari
+  Hai gham-e-Shabbir har gham ki dawa
 
   5
-  Karbala se shaam jab qaidi chale
-  Pad gaye pairon mein unke aabile
+  Karbala se Shaam jab qaidi chale
+  Par gaye pairoṅ mein unke aable
   Is qadar dushwaar tha wo raasta
 
   6
-  In pa rote hai sabhi jinn o malak
-  Hai zameen ghamgeen pareshan hai falak
-  Itna hai pur soz zikr e karbala
+  Is pe rote haiṅ sabhi jinn o malak
+  Hai zamiṅ ghamgiṅ pareshaaṅ hai falak
+  Itna hai pur soz zikr-e-Karbala
 
   7
-  Ho na madham aansuon ki roshni
-  Ye wasiyat hazrat e zainab ki thi
-  Us wasiyat ka hai tum ko waasta
+  Ho na maddham aansuoṅ ki roshni
+  Ye wasiyyat Hazrat-e-Zainab ki thi
+  Us wasiyyat ka hai tum ko waasta
 
   8
-  Hum ghulamane shah e abraar hai
-  Karbala waalon ke matamdaar hai
-  Ye zameen shabbir ka hai ghamkada
+  Hum ghulaamaan-e-Shaah-e-Abraar hai
+  Karbala waaloṅ ke maatamdaar hai
+  Ye zamiṅ Shabbir ka hai ghamkada
 
   9
-  Aisa ho farsh e aza ka ehtemaam
-  Sadqa e shabbir mein langar ho aam
-  Har aza khana ho ek neymat kada
+  Aisa ho farsh-e-aza ka ehtemaam
+  Sadqa-e-Shabbir mein langar ho aam
+  Har aza khaana ho ek nemat kada
 
   10
-  Majlis o matam ho nauhe aur salaam
-  Marsiye ho aur zaakir ka kalaam
+  Majlis o maatam ho nauhe aur salaam
+  Marsiya ho zaakir ka kalaam
   Raat bhar jaari rahe ye silsila
 
   11
-  Maqsad e shabbir ho apni hayaat
-  Ho rawan har aankh se nehre furaat
-  Ho tassawur tashnagi e shaah ka
+  Maqsad-e-Shabbir ho apni hayaat
+  Ho rawaaṅ har aankh se nehr-e-Furaat
+  Ho tasawwur tashnagi-e-Shaah ka
 
   12
-  Jitna ro sakte ho ro lo shaah par
-  Khatm ho jaye na jaane kab safar
-  Kya bharosa zindigi ka ae Raza
+  Jitna ro sakte ho ro lo Shaah par
+  Khatm ho jaaye na jaane kab safar
+  Kya bharosa zindagi ka ae Raza
 # source_id: nohayonline:7f04f6744ca69696437f
 # source_url: https://www.nohayonline.com/details_content.php?id=1995
 # raw_sha256: 8ae4b2259102120435b21095997a7bce987d3d916b45f2d2c1e1684bf9c33a93
@@ -81,6 +83,7 @@ romanLyrics: |-
 مومنوں کے لب پہ ہے آہ و بکا
 اشک برساؤ محرم آ گیا
 چھا گئی ہر سوں مصائب کی گھٹا
+اشک برساؤ محرم آ گیا
 
 ۱
 دل کے ہو جذبات ہر پل نوحہ گر
@@ -135,9 +138,9 @@ romanLyrics: |-
 ۱۱
 مقصد شبیر ہو اپنی حیات
 ہو رواں ہر آنکھ سے نہر فرات
-ہو تصور تشنگئی شاہ کا
+ہو تصور تشنگیِ شاہ کا
 
 ۱۲
 جتنا رو سکتے ہو رو لو شاہ پر
-ختم ہو جاے نہ جانے کب سفر
+ختم ہو جائے نہ جانے کب سفر
 کیا بھروسہ زندگی کا اے رضا

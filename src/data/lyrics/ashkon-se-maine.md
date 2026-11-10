@@ -1,41 +1,42 @@
 ---
 title: "اشکوں سے میں نے شام کا دربار لکھ دیا"
-alternateTitle: "Ashkon Se Maine"
+alternateTitle: "Ashkoṅ Se Main Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mirza Sikander Ali"
 poet: "Viqar Nagri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashkoṅ se main ne Shaam ka darbar likh diya
-  Phir khun-e-dil Abid-e-bimar likh diya
+  Ashkoṅ se main ne Shaam ka darbaar likh diya
+  Phir khun-e-dil Abid-e-bimaar likh diya
 
   1
-  Wo naam us ka shamil-e-fauj-e-Yazid tha
-  Qismat ne hurr ko sheh ka tarafdaar likh diya
+  Wo naam us ka shaamil-e-fauj-e-Yazid tha
+  Qismat ne Hur ko Shah ka tarafdaar likh diya
 
   2
   Zainab ki bekasi ke kai baab khul gaye
-  Likhne ko maine Kufe ka bazaar likh diya
+  Likhne ko main ne Kufe ka baazaar likh diya
 
   3
-  Bimar-e-Karbala ke masaib na likh saka
-  Kaagaz pe maine tauq e giraṅbar lik diya
+  Bimaar-e-Karbala ke masaaib na likh saka
+  Kaaghaz pe main ne tauq-e-giraaṅ baar likh diya
 
   4
-  Tafseel e bekasi e sakina na likh saka
-  Zindan-e-Shaam ke dar o dewaar likh diya
+  Tafsil-e-bekasi-e-Sakina na likh saka
+  Zindaan-e-Shaam ke dar o diwaar likh diya
 
   5
-  Abid chale to paaon ke chaalon ne khaak par
-  Bekas ghareeb e khaafela salaar likh diya
+  Abid chale to paaon ke chhaaloṅ ne khaak par
+  Bekas gharib-e-qaafila saalaar likh diya
 
   6
-  Likhna to tha ghulam hoon Qambar ae Viqar
-  Khud ko ghulam e hyder e karrar likh diya
+  Likhna to tha ghulaam huṅ Qanbar ka ae Viqar
+  Khud ko ghulaam-e-Haider-e-Karrar likh diya
 # source_id: nohayonline:20a75b8d00364d73d90b
 # source_url: https://www.nohayonline.com/details_content.php?id=1941
 # raw_sha256: fae1bcd363c9fb8cf172b80e74c5b2a0e0174107af3a99fc78900ca57b498014

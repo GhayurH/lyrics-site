@@ -1,64 +1,65 @@
 ---
-title: "رورہی ہے سوچ کر ام البنین یہ آج بھی"
-alternateTitle: "Asghare Baysheer"
+title: "رو رہی ہے سوچ کر ام البنین یہ آج بھی"
+alternateTitle: "Asghar-e-Beshir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Hassan Mir"
 poet: "Mir Takallum Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ro rahi hai soch kar Ummul Banin ye aaj bhi
-  Asghar Beshir jaisi qabr hai abbas ki
-  Rashk karti thi main aks-e Haider-e-Karrar par
-  Paon khat dete thay uske baith kar rahwaar par
-  Haye mere sher ki ye kaisi haalat ho gayi
+  Asghar-e-Beshir jaisi qabr hai Abbas ki
+  Rashk karti thi main aks-e-Haider-e-Karrar par
+  Paaon khat dete the uske baith kar rahwaar par
+  Haaye mere sher ki ye kaisi haalat ho gayi
 
   1
-  Marke bhi usne nibhaya mujhse jo wada kiya
-  Apne bete ki wafa par fakhr hai mujhko bada
-  Ab nahi asghar ki maa se kuch mujhe sharmindagi
+  Mar ke bhi usne nibhaya mujhse jo waada kiya
+  Apne bete ki wafa par fakhr hai mujhko bara
+  Ab nahiṅ Asghar ki maaṅ se kuchh mujhe sharmindagi
 
   2
-  Baap ke badle musalmano ne bete se liye
-  Sar juda hai tan juda baazu juda hai sher ke
-  Aap ki tasveer tukde hogayi hai ya ali
+  Baap ke badle musalmaanoṅ ne bete se liye
+  Sar juda hai tan juda baazu juda haiṅ sher ke
+  Aap ki tasvir tukre ho gayi hai Ya Ali
 
   3
-  Kaun lad sakta tha us se kis mein tha itna jigar
-  Sunti hoo nau laakh ne maara hai usko ghayr kar
-  Laash bhi uski salamat dasht mein rehne na di
+  Kaun lar sakta tha us se kis mein tha itna jigar
+  Sunti huṅ nau laakh ne maara hai usko gher kar
+  Laash bhi uski salaamat dasht mein rehne na di
 
   4
-  Kya qad o qaamat thi uski ye usay maloom tha
-  Ek ghatri mein simat kar kaise qasim aa gaya
-  Umme farwa jaanti hai kya hai meri bekasi
+  Kya qad o qaamat thi uski ye use maalum tha
+  Ek gathri mein simat kar kaise Qasim aa gaya
+  Umme Farwa jaanti hai kya hai meri bekasi
 
   5
-  Kab samaata tha meri chadar mein tu ae mere laal
-  Kar diya hai zaalimo ne ye tere laashe ka haal
-  Hai mere sar ki rida bhi teri turbat se badi
+  Kab samaata tha meri chaadar mein tu ae mere laal
+  Kar diya hai zaalimoṅ ne ye tere laashe ka haal
+  Hai mere sar ki rida bhi teri turbat se bari
 
   6
-  Keh ke ya abbas karta hai wo ashkon se wuzoo
-  Darti hoo jaari na ho phir uski aankhon se lahoo
-  Saamne abid ke yun kehti nahi hoo mai kabhi
+  Keh ke Ya Abbas karta hai wo ashkoṅ se wuzu
+  Darti huṅ jaari na ho phir uski aankhoṅ se lahu
+  Saamne Abid ke yuṅ kehti nahiṅ huṅ main kabhi
 
   7
-  Roke karti hai salaam unko takallum karbala
-  Fatema zehra se maa bete ne ki aise wafa
-  Maadare abbas ki turbat bhi hai tooti hui
+  Ro ke karti hai salaam unko Takallum Karbala
+  Fatima Zehra se maaṅ bete ne ki aisi wafa
+  Maadar-e-Abbas ki turbat bhi hai tuti hui
 # source_id: nohayonline:0e1e1ab0018d72bf46b5
 # source_url: https://www.nohayonline.com/details_content.php?id=340
 # raw_sha256: 2008640ef084d91c9b5bc68920d626dbd589ae669752cddf31ef6f0c4cbe2b46
 ---
-رورہی ہے سوچ کر ام البنین یہ آج بھی
+رو رہی ہے سوچ کر ام البنین یہ آج بھی
 اصغر بے شیر جیسی قبر ہے عباس کی
 رشک کرتی تھی میں عکس حیدر کرار پر
 پاؤں خط دیتے تھے اسکے بیٹھ کر رہوار پر
-ہاے میرے شیر کی یہ کیسی حالت ہوگیء
+ہائے میرے شیر کی یہ کیسی حالت ہو گئی
 
 ۱
 مرکے بھی اس نے نبھایا مجھ سے جو وعدہ کیا
@@ -66,9 +67,9 @@ romanLyrics: |-
 اب نہیں اصغر کی ماں سے کچھ مجھے شرمندگی
 
 ۲
-باپ کے بدلے مسلمانوں نے بیٹے سے لےء
+باپ کے بدلے مسلمانوں نے بیٹے سے لیے
 سر جدا ہے تن جدا بازو جدا ہیں شیر کے
-آپکی تصویر ٹکڑے ہو گیی ہے یا علی
+آپ کی تصویر ٹکڑے ہو گئی ہے یا علی
 
 ۳
 کون لڑ سکتا تھا اس سے کس میں تھا اتنا جگر
@@ -91,6 +92,6 @@ romanLyrics: |-
 سامنے عابد کے یوں کہتی نہیں ہوں میں کبھی
 
 ۷
-روکے کرتی ہے سلام انکو تکلم کربلا
+رو کے کرتی ہے سلام انکو تکلم کربلا
 فاطمہ زہرا سے ماں بیٹے نے کی ایسی وفا
-مادر عباس کی تربت بھی ہےٹوٹی ہوئی
+مادر عباس کی تربت بھی ہے ٹوٹی ہوئی
