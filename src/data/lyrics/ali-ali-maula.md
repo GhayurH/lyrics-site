@@ -14,54 +14,54 @@ published: false
 # source_url: https://www.nohayonline.com/details_content.php?id=3399
 # raw_sha256: 1ee39f5f28fa4e953da36b6b2b97b31885015d1178e7b59950a9fe95cd1c716a
 romanLyrics: |-
-  Ali ali maula maulana ali
-  Ali ali maula maula maulana ali
+  Ali Ali maula maulana Ali
+  Ali Ali maula maula maulana Ali
   
   1
-  Quwwate parwardigar La Fata illa Ali
-  Shaahhe mardan shere yazdan
-  Quwwate parwardigar Ya Ali Ya Ali Ya Ali
-  Ali maula ali maula ali maula ali maula
+  Quwwat-e-Parwardigaar la fata illa Ali
+  Shah-e-mardaan sher-e-Yazdaṅ
+  Quwwat-e-Parwardigaar ya Ali ya Ali ya Ali
+  Ali maula Ali maula Ali maula Ali maula
   
   2
-  Tu dil mein hai basa hua tu dhadkano mein goonjta
-  Tu rooh ka hai rehnuma tu nafs hai aasra
+  Tu dil meiṅ hai basa hua tu dharkanoṅ meiṅ gunjta
+  Tu ruh ka hai rehnuma tu nafs hai aasra
   Hai lab pe meri ye sada hai tu Khuda ka aaina
   
   3
   Ye zindagi tere liye ye bandagi tere liye
   Ye dosti tere liye ye dushmani tere liye
-  Rasool e haq ne sach kaha hai tu sach ka tarjuma
+  Rasul-e-haq ne sach kaha hai tu sach ka tarjuma
   
   4
-  Ibadaton ke dil mein tu sadaqaton ke dil mein tu
-  Hidayaton ke dil mein tu hai aayaton ke dil mein tu
-  Shariyaton ka sayeban khuda ke deen ka paasban
+  Ibaadatoṅ ke dil meiṅ tu sadaaqatoṅ ke dil meiṅ tu
+  Hidaayatoṅ ke dil meiṅ tu hai aayatoṅ ke dil meiṅ tu
+  Shariyatoṅ ka saayabaṅ Khuda ke din ka paasbaṅ
   
   5
-  Tu hi khuda ka noor hai ye kehta kohe toor hai
-  Jise na ye sha'oor hai wo haq se koson door hai
-  Hai tujhse haq ki ibteda hai tujhpe haq ki inteha
+  Tu hi Khuda ka nur hai ye kehta koh-e-Tur hai
+  Jise na ye shaur hai wo haq se kosoṅ dur hai
+  Hai tujh se haq ki ibtida hai tujh pe haq ki inteha
   
   6
-  Jahan mein guftagu teri samaan mein guftagu teri
-  Makan mein guftagu teri azan mein guftagu teri
-  Tu saajidon ka naaz hai na tere bin namaz hai
+  Jahaṅ meiṅ guftagu teri samaṅ meiṅ guftagu teri
+  Makaaṅ meiṅ guftagu teri azaaṅ meiṅ guftagu teri
+  Tu saajidoṅ ka naaz hai na tere bin namaaz hai
   
   7
-  Shifa hai teri khaak mein dawa hai teri khaak mein
-  Baqa hai teri khaak mein wafa hai teri khaak mein
-  Hai dar pe tere ay ali har ek nabi ki naukri
+  Shifa hai teri khaak meiṅ dawa hai teri khaak meiṅ
+  Baqa hai teri khaak meiṅ wafa hai teri khaak meiṅ
+  Hai dar pe tere ae Ali har ek nabi ki naukri
   
   8
-  Ye kaisa waqt aagaya ali pe haye kibriya
-  Lahoo hai sar se beh raha hai khoon mein tar ali tera
-  Hai ranj tujhpe teeragi bujhayi tu ne roshni
+  Ye kaisa waqt aa gaya Ali pe haaye Kibriya
+  Lahu hai sar se beh raha hai khuṅ meiṅ tar Ali tera
+  Hai ranj tujh pe tiragi bujhaayi tu ne roshni
   
   9
-  Bayan kaise ho bhala wo zakhm bu-turab ka
-  Na taabe zakhm laa saka zamane se guzar gaya
-  Zaban pe uske nauha hai jo nasir aaj rota hai
+  Bayaan kaise ho bhala wo zakhm Bu Turaab ka
+  Na taab-e-zakhm la saka zamaane se guzar gaya
+  Zabaaṅ pe us ke nauha hai jo Nasir aaj rota hai
 ---
 
 علی علی مولا مولانا علی

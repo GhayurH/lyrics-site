@@ -14,93 +14,95 @@ published: false
 # source_url: https://www.nohayonline.com/details_content.php?id=3056
 # raw_sha256: d3e3de1b5ba29329d429777a58668ba12a5b8ed53ea20bb11bc9672b6d20e132
 romanLyrics: |-
-  Ya ali maula ya ali maula karte raho
-  Ali ali ali ali karte raho
+  Ya Ali maula ya Ali maula karte raho
+  Ali Ali Ali Ali karte raho
+  Ya Ali maula ya Ali maula karte raho
   
   1
-  Nukta e baa hai ali ali ali ali
-  Rab ne kaha hai ali ali ali ali
-  Marzi e daawar nafse payambar
-  Shere ghazanfar faatahe khybar
-  Saaze wila hai ali ali
-  Raaze khuda hai ali ali
-  Bete ne jiske jaake padha hai naize par quran
+  Nuqta-e-baa hai Ali Ali Ali Ali
+  Rab ne kaha hai Ali Ali Ali Ali
+  Marzi-e-Daawar nafs-e-Payambar
+  Sher-e-Ghazanfar faateh-e-Khaibar
+  Saaz-e-wila hai Ali Ali
+  Raaz-e-Khuda hai Ali Ali
+  Bete ne jis ke ja ke parha hai neze par Quran
   
   2
-  Mushkil ka hal ali ali ali ali
-  Karam ka baadal ali ali ali ali
-  Lauhe azal hai haq ki ghazal hai
-  Saaze amal hai qaul atal hai
-  Shaane jali hai ali ali
-  Rab ka wali hai ali ali
-  Hijrat ki shab usko mili hai marzi e rehman
+  Mushkil ka hal Ali Ali Ali Ali
+  Karam ka baadal Ali Ali Ali Ali
+  Lauh-e-azal hai haq ki ghazal hai
+  Saaz-e-amal hai qaul atal hai
+  Shaan-e-jali hai Ali Ali
+  Rab ka wali hai Ali Ali
+  Hijrat ki shab us ko mili hai marzi-e-Rahmaṅ
   
   3
-  Hilm ka ghar hai ali ali ali ali
-  Ilm ka dar hai ali ali ali ali
-  Qalb o jigar mein fikr o nazar mein
-  Ilm o hunar mein shaam o sahar mein
-  Gyan ka suraj ali ali
-  Dhyan ki sajdhaj ali ali
-  Naam e ali ki maala japna momin ki pehachan
+  Hilm ka ghar hai Ali Ali Ali Ali
+  Ilm ka dar hai Ali Ali Ali Ali
+  Qalb o jigar meiṅ fikr o nazar meiṅ
+  Ilm o hunar meiṅ shaam o sahar meiṅ
+  Gyaan ka suraj Ali Ali
+  Dhyaan ki saj dhaj Ali Ali
+  Naam-e-Ali ki maala japna momin ki pehchaan
   
   4
-  Makki madani ali ali ali ali
-  Ajami arabi ali ali ali ali
-  Rang chaman bhi boo e saman bhi
-  Rooh e sukhan bhi tann mann dhan bhi
-  Kahin saqi hai ali ali
-  Kahin aqi hai ali ali
-  Naam se uske ho jaati hai har mushkil aasan
+  Makki Madani Ali Ali Ali Ali
+  Ajami Arabi Ali Ali Ali Ali
+  Rang-e-chaman bhi bu-e-saman bhi
+  Ruh-e-sukhan bhi tan man dhan bhi
+  Kahiṅ saqi hai Ali Ali
+  Kahiṅ aqi hai Ali Ali
+  Naam se us ke ho jaati hai har mushkil aasaan
   
   5
-  Haq ka qaseeda ali ali ali ali
-  Fatha ka surah ali ali ali ali
+  Haq ka qasida Ali Ali Ali Ali
+  Fath ka surah Ali Ali Ali Ali
   Taara utre suraj palte
-  Khyber ukhde saamp ho tukde
-  Ran ki sada hai ali ali
-  Shere khuda hai ali ali
-  Zarb se jiski goonj raha hai khandaq ka maidan
+  Khaibar ukhre saamp ho tukre
+  Ran ki sada hai Ali Ali
+  Sher-e-Khuda hai Ali Ali
+  Zarb se jis ki gunj raha hai Khandaq ka maidaan
   
   6
-  Jaan e haram hai ali ali ali ali
-  Shaan e haram hai ali ali ali ali
-  Banda e rab hai sajda e rab hai
-  Lahja e rab hai chehra e rab hai
-  Nooh ka taqwa ali ali
-  Khizr ka jalwa ali ali
-  Koi kahe allah ka banda koi kahe bhagwan
+  Jaan-e-haram hai Ali Ali Ali Ali
+  Shaan-e-haram hai Ali Ali Ali Ali
+  Banda-e-Rab hai sajda-e-Rab hai
+  Lahja-e-Rab hai chehra-e-Rab hai
+  Nuh ka taqwa Ali Ali
+  Khizr ka jalwa Ali Ali
+  Koi kahe Allah ka banda koi kahe Bhagwan
   
   7
-  Auje fasahat Ali ali ali ali
-  Nahje balaghat ali ali ali ali
-  Marzi e khudrat rooh e risalat
-  Jaan e wilayat shaan e imamat
-  Tum hi mashiyat ali ali
-  Tum hi shariyat ali ali
-  Sajde mein tum ne khaayi hai zarbat ay kulle emaan
+  Auj-e-fasaahat Ali Ali Ali Ali
+  Nahj-e-balaaghat Ali Ali Ali Ali
+  Marzi-e-qudrat ruh-e-risaalat
+  Jaan-e-wilaayat shaan-e-imaamat
+  Tum hi mashiyat Ali Ali
+  Tum hi shariyat Ali Ali
+  Sajde meiṅ tum ne khaayi hai zarbat ae kull-e-imaan
   
   8
-  Dhoop mita do ali ali ali ali
-  Dhoop saja do ali ali ali ali
-  Phool khila do chao bicha do
-  Zahen jaga do jeena sikha do
-  Hum ko asar do ali ali
-  Daaman bhar do ali ali
-  Apne karam se qayam kar do daher mein amn o amaan
+  Dhup mita do Ali Ali Ali Ali
+  Dhup saja do Ali Ali Ali Ali
+  Phul khila do chhaaṅv bichha do
+  Zehn jaga do jina sikha do
+  Hum ko asar do Ali Ali
+  Daaman bhar do Ali Ali
+  Apne karam se qayaam kar do dahr meiṅ amn o amaan
   
   9
-  Nayyar ka gun ali ali ali ali
-  Aamir ki dhun ali ali ali ali
-  Shamma ki lau mein subh ki pau mein
-  Husn ki zau mein ishq ki rau mein
-  Aayat aayat ali ali
-  Surat surat ali ali
-  Yun lagta hai jaise ali ki madha kare quran
+  Nayyar ka gun Ali Ali Ali Ali
+  Aamir ki dhun Ali Ali Ali Ali
+  Shama ki lau meiṅ subh ki pau meiṅ
+  Husn ki zau meiṅ ishq ki rau meiṅ
+  Aayat aayat Ali Ali
+  Surat surat Ali Ali
+  Yuṅ lagta hai jaise Ali ki madh kare Quran
 ---
 
 یا علی مولا یا علی مولا کرتے رہو
 علی علی علی علی کرتے رہو
+یا علی مولا یا علی مولا کرتے رہو
 
 ۱
 نقطۂ با ہے علی علی علی علی
