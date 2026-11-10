@@ -1,6 +1,6 @@
 ---
 title: "وقتِ آخر تھا حیدر کا نوحہ"
-alternateTitle: "Alwida Ay Mere"
+alternateTitle: "Alwida Ae Mere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,63 +8,63 @@ kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Alwida Ay Mere"]
 published: false
 romanLyrics: |-
   Waqt-e-aakhir tha Haider ka nauha
-  Alvida ae mere sogwaaroṅ
-  Chhor kar ja raha huṅ main dunya
-  Alvida ae mere sogwaaroṅ
+  Alwida ae mere sogwaaroṅ
+  Chhor kar jaa raha huṅ main dunya
+  Alwida ae mere sogwaaroṅ
 
   1
-  Meri mayyat ko kaandha lagana
-  Mere bachon ki dhaaras bandhana
-  Dhyaan rakhna hussain o hassan ka
+  Meri mayyat ko kaandha lagaana
+  Mere bachchoṅ ki dhaaras bandhaana
+  Dhyaan rakhna Husain o Hasan ka
 
   2
   Ae Husain o Hasan paas aao
-  Mere nazdeek abbas aao
-  Mere seene se lag jao beta
+  Mere nazdik Abbas aao
+  Mere sine se lag jaao beta
 
   3
-  Mere abbas naazon ke paale
-  Meri zainab hai tere hawale
-  Tu muhafiz hai iski rida ka
+  Mere Abbas naazoṅ ke paale
+  Meri Zainab hai tere hawaale
+  Tu muhaafiz hai is ki rida ka
 
   4
-  Har qadam par sataya gaya hoo
-  Be-sabab mai rulaya gaya hoo
+  Har qadam par sataaya gaya huṅ
+  Besabab main rulaaya gaya huṅ
   Martaba koi samjha na mera
 
   5
-  Maine dekha hai zehra ka rona
-  Aag ki zad pe mohsin ko khona
-  Seh na paaya mai ab tak wo sadma
+  Main ne dekha hai Zehra ka rona
+  Aag ki zad pe Mohsin ko khona
+  Seh na paaya main ab tak wo sadma
 
   6
-  Jab galay may rasan bandh rahi thi
-  Mere nazdeek zainab khadi thi
-  Dekh kar mujhko roti thi zehra
+  Jab gale meiṅ rasan bandh rahi thi
+  Mere nazdik Zainab khari thi
+  Dekh kar mujh ko roti thi Zehra
 
   7
   Sehme sehme Husain o Hasan the
-  Khoon e maadar se tar gulbadan thay
-  Kya bataun jo tha haal mera
+  Khun-e-maadar se tar gulbadan the
+  Kya bataauṅ jo tha haal mera
 
   8
-  Khoon tapakta tha maula ke sar se
-  Yani kaabe ki deewar o dar se
-  Sab se mil mil ke kehte thay maula
+  Khuṅ tapakta tha Maula ke sar se
+  Yaani Kaabe ki diwaar o dar se
+  Sab se mil mil ke kehte the Maula
 
   9
-  Ro ke kehte thay shaah e madina
-  Moo ko aata hai mera kaleja
+  Ro ke kehte the Shah-e-Madina
+  Munh ko aata hai mera kaleja
   Tum ko meri qasam ab na kehna
 
   10
-  Goonjti thi ye asif sadayein
-  Lene aati hai zainab balayein
-  Lab pe maula ke aamir tha nauha
+  Gunjti thi ye Asif sadaaeiṅ
+  Lene aati hai Zainab balaaeiṅ
+  Lab pe Maula ke Aamir tha nauha
 # source_id: nohayonline:ba46861272649fb8001c
 # source_url: https://www.nohayonline.com/details_content.php?id=2130
 # raw_sha256: 9d5af630da87eaba85025685572be91090eba0aee059e8bf23fec3a0078a9085

@@ -1,71 +1,71 @@
 ---
 title: الوداع اے بہن الوداع
-alternateTitle: Alwida Ay Behan
+alternateTitle: Alwida Ae Behan
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mehshar Lakhnavi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Alwida Ay Behan"]
 published: false
 romanLyrics: |-
   Alwida ae behan alwida
-  Bole Shah-e-Zaman alwida
+  Bole Shah-e-Zamaṅ alwida
 
   1
-  Qatal ka meray lamha qareeb aagaya
-  Ek andhera sa charon taraf chagaya
-  Waqt say pehlay suraj bhi gehna gaya
-  May hu tanha mera haar sahara gaya
+  Qatl ka mere lamha qarib aa gaya
+  Ek andhera sa chaaroṅ taraf chha gaya
+  Waqt se pehle suraj bhi gehan aa gaya
+  Main huṅ tanha mera har sahaara gaya
 
   2
-  Chaltay chaltay faqat tumsay hay ek sawaal
+  Chalte chalte faqat tum se hai ek sawaal
   Meri pyaari Sakina ka rakhna khayaal
-  Bin meray zinda rehna hay iska mohaal
-  Meri bachi ko honay na daina malaal
+  Bin mere zinda rehna hai is ko muhaal
+  Meri bachchi ko hone na dena malaal
 
   3
-  Jab giroon apnay ghoray say sooy-e-zameen
-  Aur jhuka doon may sajday may apni jabeen
-  Mujhko zibha karega jo Shimaray layeen
-  Tum na aajana khaimay say baahar kaheen
+  Jab giruṅ apne ghore se su-e-zamiṅ
+  Aur jhuka duṅ main sajde meiṅ apni jabiṅ
+  Mujh ko zabh karega jo Shimr-e-laiṅ
+  Tum na aa jaana khaime se baahar kahiṅ
 
   4
-  Meray kunbay ki ab ho tumhi paasbaan
-  Hay mera janasheen laghar-o-natawan
-  Rahay Kufa hai zanjeer aur bariyaan
-  Ab tumharay hawalay hay ye karwaan
+  Mere kunbe ki ab ho tumhi paasbaṅ
+  Hai mera jaanashiṅ laaghar o naatawaṅ
+  Raah-e-Kufa hai zanjir aur beriyaṅ
+  Ab tumhaare hawaale hai ye kaarwaṅ
 
   5
-  Lootnay aaye khaimoon ko jab ashqiya
-  Ho sakay toh bacha layna apni rida
-  Sabar karna na karna kabhi bad-dua
-  Har qadam par madadgar hoga Khuda
+  Lutne aaye khaimoṅ ko jab ashqiya
+  Ho sake to bacha lena apni rida
+  Sabr karna na karna kabhi bad dua
+  Har qadam par madadgaar hoga Khuda
 
   6
-  Yun na gardish may aaya sitara kabhi
-  Yun huay thay na hum bay sahara kabhi
-  Sath ek pal na choota hamara kabhi
-  Ab na aayega bhaye tumhara kabhi
+  Yuṅ na gardish meiṅ aaya sitaara kabhi
+  Yuṅ hue the na hum besahaara kabhi
+  Saath ek pal na chhuta hamaara kabhi
+  Ab na aayega bhaai tumhaara kabhi
 
   7
-  Ay behan aisi bhi aayegi rehguzar
-  Jab milay tumko rastay may Shireen ka ghaar
-  Aur pehchan lay tumko Shireen agar
-  Kehna waada hua poora ay khushsiyar
+  Ae behan aisi bhi aayegi rehguzar
+  Jab mile tum ko raste meiṅ Shiriṅ ka ghar
+  Aur pehchaan le tum ko Shiriṅ agar
+  Kehna waada hua pura ae khushsiyar
 
   8
-  So gaye khaak paar tashnalab shah-e-deen
-  Jal gaye khaimay aur chaadarain chin gayeen
-  Ho gaye khali Shabbir say ye zameen
-  Ik sadaye alaam aaj tak hay yaheen
+  So gaye khaak par tashna lab Shah-e-Diṅ
+  Jal gaye khaime aur chaadareiṅ chhin gayiṅ
+  Ho gayi khaali Shabbir se ye zamiṅ
+  Ek sada-e-alam aaj tak hai yahiṅ
 
   9
-  Bhej mehshar gharibul watan par salaam
-  Tashnalab khasta tan bay kafan par salaam
-  Shah kay ansaar par panjatan par salaam
-  Ek bhayi peh aur ik behan par salaam
+  Bhej Mehshar Gharib-ul-Watan par salaam
+  Tashna lab khasta tan bekafan par salaam
+  Shah ke ansaar par Panjatan par salaam
+  Ek bhaai pe aur ek behan par salaam
 reciter: Nadeem Sarwar
 # source_id: nohayonline:edf4e1f208fe30f5d8dd
 # source_url: https://www.nohayonline.com/details_content.php?id=335
@@ -103,7 +103,7 @@ reciter: Nadeem Sarwar
 اب تمہارے حوالے ہے یہ کارواں
 
 ۵
-لوٹنے آئے خیموں کو جب اشقیائ
+لوٹنے آئے خیموں کو جب اشقیا
 ہو سکے تو بچا لینا اپنی ردا
 صبر کرنا نہ کرنا کبھی بد دُعا
 ہر قدم پر مددگار ہوگا خدا
@@ -115,10 +115,10 @@ reciter: Nadeem Sarwar
 اب نہ آئے گا بھائی تمہارا کبھی
 
 ۷
-اے بہن ایسی بھی آئے گئی رہ گزر
+اے بہن ایسی بھی آئے گی رہ گزر
 جب ملے تم کو رستے میں شیریں کا گھر
 اور پہچان لے تم کو شیریں اگر
-کہنا وعدہ ہوا پورااے خود سیعر
+کہنا وعدہ ہوا پورا اے خود سیعر
 
 ۸
 سو گئے خاک پر تشنہ لب شاہِ دیں
