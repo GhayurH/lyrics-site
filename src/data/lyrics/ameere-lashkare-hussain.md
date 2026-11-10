@@ -1,6 +1,6 @@
 ---
 title: ہژبرِ دشتِ نینوا امیرِ لشکرِ حسین
-alternateTitle: Ameere Lashkare Hussain
+alternateTitle: Amir-e-Lashkar-e-Husain
 language: Urdu
 lang: ur
 direction: rtl
@@ -11,91 +11,91 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hizabr-e-Dasht-e-Nainawa Ameer-e-Lashkar-e-Husain
+  Hizabr-e-dasht-e-Nainawa Amir-e-lashkar-e-Husain
 
   1
-  Nihange qulzume wagha Ameer-e-Lashkar-e-Husain
-  Khadange tarkashe khaza Ameer-e-Lashkar-e-Husain
-  Barange shaahe la fata Ameer-e-Lashkar-e-Husain
-  Jari diler bawafa Ameer-e-Lashkar-e-Husain
-  Wafa ba hadde maujeza Ameer-e-Lashkar-e-Husain
+  Nihang-e-qulzum-e-wagha Amir-e-lashkar-e-Husain
+  Khadang-e-tarkash-e-qaza Amir-e-lashkar-e-Husain
+  Barang-e-Shah-e-La Fata Amir-e-lashkar-e-Husain
+  Jari diler bawafa Amir-e-lashkar-e-Husain
+  Wafa ba-hadd-e-maujiza Amir-e-lashkar-e-Husain
 
   2
-  Ye zulfaqare Haideri ye shere beshaye najaf
-  Ye taygo tayz hashmi nishane jurrate salab
-  Har ek ka markaze nazar kafeele tashnagane taf
-  Kanare nehre alqama tamam fauj ka hadaf
-  Kisi se par na ruk saka Ameer-e-Lashkar-e-Husain
+  Ye Zulfiqar-e-Haidari ye sher-e-besha-e-Najaf
+  Ye tegh-e-tez-e-Hashmi nishaan-e-jurat-e-salaf
+  Har ek ka markaz-e-nazar kafil-e-tashnagaan-e-Taf
+  Kinaar-e-nehr-e-Alqama tamaam fauj ka hadaf
+  Kisi se par na ruk saka Amir-e-lashkar-e-Husain
 
   3
-  Bahadurane safshikan mein is jari ke tazkire
-  Dilwarane taygho zan mein is jari ke tazkire
+  Bahaaduraan-e-safshikan mein is jari ke tazkire
+  Dilaawaraan-e-teghzan mein is jari ke tazkire
   Har ek wafa ki anjuman mein is jari ke tazkire
-  Rasoole paak ke chaman mein is jari ke tazkire
-  Ghuroore aale mustafa Ameer-e-Lashkar-e-Husain
+  Rasul-e-paak ke chaman mein is jari ke tazkire
+  Ghurur-e-Aal-e-Mustafa Amir-e-lashkar-e-Husain
 
   4
-  Husain meer-e-qaafila ye qaafile ka paasbaṅ
-  Kabhi qareeb-e-raahila qareeb-e-saarbaṅ
-  Kabhi barha ke aap ko wahaṅ jahaṅ ammaariyaṅ
-  Kabhi salaam ke liye huzoor-e-Shah-e-ins o jaaṅ
-  Har ek su har ek ja Ameer-e-Lashkar-e-Husain
+  Husain mir-e-qaafila ye qaafile ka paasbaaṅ
+  Kabhi qarib-e-raahila qarib-e-saarbaaṅ
+  Kabhi barha ke aap ko wahaaṅ jahaaṅ ammaariyaaṅ
+  Kabhi salaam ke liye huzur-e-Shah-e-ins o jaaṅ
+  Har ek su har ek ja Amir-e-lashkar-e-Husain
 
   5
-  Husain ka aqi bhi hai Husain ka ghulam bhi
+  Husain ka akhi bhi hai Husain ka ghulaam bhi
   Husain ki sipar bhi hai tabar bhi hai husaam bhi
-  Husain ki zira bhi hai kamaa bhi hai sihaam bhi
-  Husain hukm de agar to shimr se kalaam bhi
-  Wagarna wo kuja kuja Ameer-e-Lashkar-e-Husain
+  Husain ki zirah bhi hai kamaaṅ bhi hai sihaam bhi
+  Husain hukm deṅ agar to Shimr se kalaam bhi
+  Wagarna wo kuja kuja Amir-e-lashkar-e-Husain
 
   6
   Safeṅ durust kar chuki hai fauj-e-Shah-e-Mashriqain
-  Yasaar mein Habeeb yameen mein Zuhair-e-Qain
-  Alam ba-dosh qalb mein hai ye Ali ka noor-e-ain
+  Yasaar mein Habib mein yamin mein Zuhair-e-Qain
+  Alam ba-dosh qalb mein hai ye Ali ka nur-e-ain
   Kabhi nazar hai fauj par kabhi nazar su-e-Husain
-  Ke muntazir hai izn ka Ameer-e-Lashkar-e-Husain
+  Ke muntazir hai izn ka Amir-e-lashkar-e-Husain
 
   7
-  Husain izn de agar abhi ye sab ko dekhle
-  Abhi iraq o shaam ko abhi halab ko dekhle
-  Abhi abhi ye koofiyane be-adab ko dekhle
-  Muqabila jo aa pade to kul arab ko dekhle
-  Misaale shaahe la-fata Ameer-e-Lashkar-e-Husain
+  Husain izn deṅ agar abhi ye sab ko dekh le
+  Abhi Iraq o Shaam ko abhi Halab ko dekh le
+  Abhi abhi ye Kufiyaan-e-beadab ko dekh le
+  Muqaabila jo aa pare to kul Arab ko dekh le
+  Misaal-e-Shah-e-La Fata Amir-e-lashkar-e-Husain
 
   8
   Ba-tarz-e-khaas sher-e-Haq ba-shakl-e-shahna-e-Najaf
   Ba-raub o adab-e-Hashmi ba-taur-e-ahd-e-ma-salaf
   Ba-shadd o madd ba-karr o farr alam ba-dosh sar ba-kaf
-  Ulat ke aasteen ko jidhar barhe ulat de wasf
-  Pisar Khuda ke sher ka Ameer-e-Lashkar-e-Husain
+  Ulat ke aastin ko jidhar barhe ulat de wasf
+  Pisar 'Khuda ke sher' ka Amir-e-lashkar-e-Husain
 
   9
-  Jo marzi-e-Husain ho to fauj-e-Shaam heech hai
-  Ye dushmanoṅ ka ijtimaa ye izdihaam heech hai
-  Furaat par ye bandisheṅ ye intizaam heech hai
-  Ali ke ghar se Badr ka ye intiqaam heech hai
-  Dikha de zor-e-La Fata Ameer-e-Lashkar-e-Husain
+  Jo marzi-e-Husain ho to fauj-e-Shaam hech hai
+  Ye dushmanoṅ ka ijtimaa ye izdihaam hech hai
+  Furaat par ye bandisheṅ ye intizaam hech hai
+  Ali ke ghar se Badr ka ye intiqaam hech hai
+  Dikha de zor-e-La Fata Amir-e-lashkar-e-Husain
 
   10
-  Ishara e imam ho to fatha mein dhara hai kya
-  Shoyae mehr ke liye ye shaam ki ghata hai kya
+  Ishaara-e-Imam ho to fath mein dhara hai kya
+  Shuaa-e-mehr ke liye ye Shaam ki ghata hai kya
   Furaat tak na jaane de kisi mein hausla hai kya
-  Ali ke sher ke liye ye jang e karbala hai kya
-  Ulat de taqt shaam ka Ameer-e-Lashkar-e-Husain
+  Ali ke sher ke liye ye jang-e-Karbala hai kya
+  Ulat de takht-e-Shaam ka Amir-e-lashkar-e-Husain
 
   11
-  Yazeed e bad nihaad se sukoone zaat cheen le
-  Muhafizeene nehr se haqe hayaat cheen le
-  Jo marziye Husain ho abhi furaat cheen le
-  Furaat kya hai ye wo hai ke kayenat cheen le
-  Bada baland hausla Ameer-e-Lashkar-e-Husain
+  Yazid-e-badnihaad se sukun-e-zaat chhin le
+  Muhaafizin-e-nehr se haq-e-hayaat chhin le
+  Jo marzi-e-Imam ho abhi Furaat chhin le
+  Furaat kya hai ye wo hai ke kaainaat chhin le
+  Bara buland hausla Amir-e-lashkar-e-Husain
 
   12
-  Magar yahan to hukm hai ke bas ali ke sher bas
-  Husain apni zindagi se ho chuka hai sayr bas
-  Qareeb e waqte asr hai bas ab mere dilayr bas
-  Hamare kooch mein kahin mazeed ho na dayr bas
-  Karega taaba gar wagha Ameer-e-Lashkar-e-Husain
+  Magar yahaaṅ to hukm hai ke bas Ali ke sher bas
+  Husain apni zindagi se ho chuka hai ser bas
+  Qarib-e-waqt-e-asr hai bas ab mere diler bas
+  Hamaare kuch mein kahiṅ mazid ho na der bas
+  Karega taaba ke wagha Amir-e-lashkar-e-Husain
 # source_id: nohayonline:6a78614874e08bdda74c
 # source_url: https://www.nohayonline.com/details_content.php?id=482
 # raw_sha256: d8e662021946a5e6ebb0e962f7689e5c001e584e2c2bf65e926e3e83ea41b503
@@ -105,7 +105,7 @@ romanLyrics: |-
 # source_id: ziyaraat:e40fc7bcc7de24790775
 # source_url: https://www.ziyaraat.net/api/noha/2361
 # raw_sha256: 57377a85ad74d42953bce0d89e6fe83c113195cb88002351873d179ee2b62c9c
-# uncertain_reciter: Zulfiqar-e-Haidry (Sachchay Bhai) | Qurban Jafry
+# source_reciters: Ziyaraat 503 credits Zulfiqar-e-Haidry (Sachchay Bhai); variant 2361 credits Qurban Jafry
 ---
 
 ہژبرِ دشتِ نینوا امیرِ لشکرِ حسینؑ

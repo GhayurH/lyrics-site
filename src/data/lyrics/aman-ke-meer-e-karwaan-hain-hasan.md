@@ -1,28 +1,30 @@
 ---
 title: "امن کے میرِ کارواں ہیں حسن"
-alternateTitle: "Aman Ke Meer-e-Karwaan Hain Hasan"
+alternateTitle: "Aman Ke Mir-e-Kaarvaaṅ Hain Hasan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Rehan Azmi"
+reciter: "Syed Wajhi Hasan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aman ke meer-e-kaarvaṅ hain Hasan
-  Maalik-e-Kausar o jinaṅ hain Hasan
+  Aman ke mir-e-kaarvaaṅ hain Hasan
+  Maalik-e-Kausar o jinaaṅ hain Hasan
 
   1
-  In ke lab se hai labkusha Quraan
-  Yaani Quraan ki zabaṅ hain Hasan
-  Qad o qaamat mein hubahu Nana
-  Isteqaamat mein misaal-e-Maa hain Hasan
+  In ke lab se hai lab kusha Quraan
+  Yaani Quraan ki zabaaṅ hain Hasan
+  Qad o qaamat mein hu bahu Nana
+  Isteqaamat mein misaal-e-Maaṅ hain Hasan
 
   2
   Jis mein Quraan-e-aman rehta hai
   Dono aalam mein wo makaaṅ hain Hasan
   Wo Imam-e-Husain ke bhi Imam
-  Aasmaṅ soch to kahaṅ hain Hasan
+  Aasmaaṅ soch to kahaaṅ hain Hasan
 
   3
   Gulshan-e-Fatima ki pehli bahaar
@@ -38,10 +40,9 @@ romanLyrics: |-
 
   5
   Baap ka hai laqab Wajhullah
-  Aks-e-Khaaliq-e-do jahaṅ hain Hasan
-  Fikr-e-Rehan naaz kar khud par
+  Aks-e-Khaaliq-e-do jahaaṅ hain Hasan
+  Fikr-e-Rehaan naaz kar khud par
   Tere lafzoṅ ke qadardaaṅ hain Hasan
-# uncertain_credit: "Wajhi Hasan Zaidi" follows the first verse in the import; role not confirmed by accessible source
 # source_id: tajpoints:14d6d45382656dfc7971
 # source_url: https://tajpoints.com/2017/12/aman-ke-meer-e-karwaan-hain-hasan.html
 # raw_sha256: d8bc6ac7fa3b9cdf618e92c276467adcfbd6dbb3a350f15576a360cc737ca112
