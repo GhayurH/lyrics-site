@@ -5,48 +5,49 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maaṅ karti thi ye naale karbala ke biyaban mein
-  Asghar mere asghar jaani asghar mere asghar jaani
+  Maaṅ karti thi ye naale Karbala ke biyaabaaṅ meiṅ
+  Asghar mere Asghar jaani Asghar mere Asghar jaani
 
   1
-  Zaalim ne kiya wo zulm haathon pe shahe deen ke
-  Dam tod diya asghar karbal ke biyaban mein
+  Zaalim ne kiya wo zulm haathoṅ pe Shah-e-diṅ ke
+  Dam tor diya Asghar Karbal ke biyaabaaṅ meiṅ
 
   2
-  Aik huk uthi dil mein dekha jo suye maqtal
-  Rote hain khare sarwar karbal ke biyaban mein
+  Ek huk uthi dil meiṅ dekha jo su-e-maqtal
+  Rote haiṅ khare Sarwar Karbal ke biyaabaaṅ meiṅ
 
   3
-  Beshir ki mayyat ko daaman mein chipa laaye
-  Maa dekhti hai manzar karbal ke biyaban mein
+  Beshir ki mayyat ko daaman meiṅ chhupa laaye
+  Maaṅ dekhti hai manzar Karbal ke biyaabaaṅ meiṅ
 
   4
-  Is nanhi si mayyat par thay bain sakina ke
-  Dunya se gaya asghar karbal ke biyaban mein
+  Is nanhi si mayyat par thay bain Sakina ke
+  Dunya se gaya Asghar Karbal ke biyaabaaṅ meiṅ
 
   5
-  Tu maa ka dulaara hai kunbe ka tu pyara hai
-  Rote hai sabhi tujh par karbal ke biyaban mein
+  Tu maaṅ ka dulaara hai kunbe ka tu pyaara hai
+  Rote haiṅ sabhi tujh par Karbal ke biyaabaaṅ meiṅ
 
   6
-  Din raat nigahon mein phirti hai teri surat
-  Mar jaungi main muztar karbal ke biyaban mein
+  Din raat nigaahoṅ meiṅ phirti hai teri surat
+  Mar jaauṅgi maiṅ muztar Karbal ke biyaabaaṅ meiṅ
 
   7
-  Beshir teri furqat kis tarha gawara ho
-  Kya dil hai mera pathar karbal ke biyaban mein
+  Beshir teri furqat kis tarah gawaara ho
+  Kya dil hai mera pathar Karbal ke biyaabaaṅ meiṅ
 
   8
-  Be ghusl o kafan asghar turbat jo bani teri
-  Aankhon mein hai wo manzar karbal ke biyaban mein
+  Beghusl o kafan Asghar turbat jo bani teri
+  Aankhoṅ meiṅ hai wo manzar Karbal ke biyaabaaṅ meiṅ
 
   9
-  Tanhaai pe haste thay shabbir ke jo zaalim
-  Sab mit chuke hai saabir karbal ke biyaban mein
+  Tanhaai pe hanste thay Shabbir ke jo zaalim
+  Sab mit chuke haiṅ Saabir Karbal ke biyaabaaṅ meiṅ
 # source_id: nohayonline:776e4db653d4bb1332ee
 # source_url: https://www.nohayonline.com/details_content.php?id=2760
 # raw_sha256: 7c5511ef4e5a596308ddc110921799f0ae28bf3dccb7382b75a4cddabeac16a7
@@ -63,7 +64,7 @@ romanLyrics: |-
 روتے ہیں کھڑے سرور کربل کے بیاباں میں
 
 ۳
-بے شیر کی میت کو دامن میں چھپا لاے
+بے شیر کی میت کو دامن میں چھپا لائے
 ماں دیکھتی ہے منظر کربل کے بیاباں میں
 
 ۴

@@ -11,53 +11,53 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Asghar ki saari umr safar mein guzar gayi
-  Tareekiyon mein haq ki ziya jis se bhar gayi
+  Asghar ki saari umr safar meiṅ guzar gayi
+  Taarikiyoṅ meiṅ haq ki ziya jis se bhar gayi
 
   1
   Zaalim ke har iraade ko barbaad kar diya
-  Islam ke wujood ko azaad kar diya
-  Itni si jaan utna bada kaam kar gayi
+  Islam ke wujud ko aazaad kar diya
+  Itni si jaan utna bara kaam kar gayi
 
   2
-  Yasrab se karwan chala nikli sawaariyaṅ
-  Gehwara pusht-e-naaqa bana ghar maraiyan
-  Raahe safar mein din gaya shaam o sehar gayi
+  Yasrab se kaarwaan chala nikli sawaariyaṅ
+  Gehwaara pusht-e-naaqa bana ghar maraiyan
+  Raah-e-safar meiṅ din gaya shaam o sehar gayi
 
   3
-  Aaghosh mein ajal ki wo aaya hayaat se
-  Has has ke khelta raha baysheer maut se
-  Aakhir jaza tabassum e asghar pe mar gayi
+  Aaghosh meiṅ ajal ki wo aaya hayaat se
+  Hans hans ke khelta raha beshir maut se
+  Aakhir jaza tabassum-e-Asghar pe mar gayi
 
   4
-  Sookhi zaban pheri labon par sagheer ne
-  Pyase galay to tar kiya zaalim ke teer ne
+  Sukhi zabaan pheri laboṅ par Saghir ne
+  Pyaase gale to tar kiya zaalim ke tir ne
   Nanhi si jaan maut ko hairaan kar gayi
 
   5
-  Khaa kar galay pe teer bhi jaari raha safar
-  Baba ke saath saath ye maujood tha udhar
-  Ho kar aseer baali sakina jidhar gayi
+  Khaa kar gale pe tir bhi jaari raha safar
+  Baba ke saath saath ye maujud tha udhar
+  Ho kar asir baali Sakina jidhar gayi
 
   6
   Manzar ye dekh dekh ke rota raha falak
-  Karbobala se kufa to kufe se shaam tak
-  Bhai ke saath saath behan nange sar gayi
+  Karbobala se Kufa to Kufe se Shaam tak
+  Bhaai ke saath saath behan nange sar gayi
 
   7
-  Maa se bichad ke chain na aaya sagheer ko
-  Har gaam karta jaata tha maa ko talaash wo
-  Naize pe dhoondta tha ke amma kidhar gayi
+  Maaṅ se bichhar ke chain na aaya Saghir ko
+  Har gaam karta jaata tha maaṅ ko talaash wo
+  Naize pe dhundta tha ke ammaṅ kidhar gayi
 
   8
-  Naize pe sar sagheer ka dekha rabab ne
-  Mamta balayein lene lagi izteraab mein
+  Naize pe sar Saghir ka dekha Rabab ne
+  Mamta balaaeṅ lene lagi iztiraab meiṅ
   Chehre pe apne laal ke jab jab nazar gayi
 
   9
-  Asghar ke baad karti thi faryaad ek maa
-  Saansein to chal rahi hai magar zindagi kahan
-  Beta tumhare saath ye maadar bhi mar gayi
+  Asghar ke baad karti thi faryaad ek maaṅ
+  Saaṅseṅ to chal rahi hai magar zindagi kahaaṅ
+  Beta tumhaare saath ye maadar bhi mar gayi
 # source_id: nohayonline:8007380c5b2401b3ab1e
 # source_url: https://www.nohayonline.com/details_content.php?id=2973
 # raw_sha256: 2c530d16dd5e026fccdfe0c9f5cde4b01322f0f140fdba322f7c676290d46f7a
