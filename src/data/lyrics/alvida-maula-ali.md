@@ -11,63 +11,63 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Alvida maula ali alvida maula ali
-  Ja raha hai aaj dunya se mohamed ka wasi
+  Alvida Maula Ali alvida Maula Ali
+  Ja raha hai aaj dunya se Muhammad ka wasi
 
   1
-  Naala-e-Jibreel se larze zameen o aasmaṅ
-  Haye wo maara gaya jo hai imame ins o jaan
+  Naala-e-Jibril se larze zamin o aasmaṅ
+  Haye wo maara gaya jo hai Imam-e-ins o jaan
   Sajda-e-Haq mein hai zarbat farq-e-Haider par lagi
 
   2
-  Baap ke qadmon se lipti ro rahi hai betiyan
-  Kya kare kya keh ke de inko tasalli mujtaba
+  Baap ke qadmoṅ se lipti ro rahi haiṅ betiyaṅ
+  Kya kareṅ kya keh ke deṅ in ko tasalli Mujtaba
   Mar na jayeṅ baap ki mayyat pe ro ro kar abhi
 
   3
-  Dhoondti hain tum ko Zainab ki nigaahein har jagah
-  Sayyeda aa kar dilaasa dijiye inko zara
-  Farte gham se hai ajab haalat idhar kulsoom ki
+  Dhundti haiṅ tum ko Zainab ki nigaaheṅ har jagah
+  Sayyeda aa kar dilaasa dijiye in ko zara
+  Fart-e-gham se hai ajab haalat idhar Kulsum ki
 
   4
-  Baba tum hi thay sahara baad e binte mustafa
-  Gham abhi taaza tha dil mein maadare dilgeer ka
-  Bas yateemon ki tarha guzregi ab ye zindagi
+  Baba tum hi the sahaara baad-e-Bint-e-Mustafa
+  Gham abhi taaza tha dil mein Maadar-e-dilgir ka
+  Bas yatimoṅ ki tarah guzregi ab ye zindagi
 
   5
-  Baap ki tarha yateemon ka jo rakhta tha khayal
-  Us ke gham mein ho rahe hain haye wo bachche nidhaal
-  Aaj kufe ke yateemon mein ajab hai bekali
+  Baap ki tarah yatimoṅ ka jo rakhta tha khayaal
+  Us ke gham mein ho rahe haiṅ haye wo bachche nidhaal
+  Aaj Kufe ke yatimoṅ mein ajab hai bekali
 
   6
   Murtaza ghar mein jo aaye bas usi hangaam mein
-  Betiyan aa kar jo lipti to usi kohraam mein
-  Ek nanhi si yateema yaad mujhko aa gayi
+  Betiyaṅ aa kar jo liptiṅ to usi kohraam mein
+  Ek nanhi si yatima yaad mujh ko aa gayi
 
   7
-  Baad tere zulm ye bhi hum pe dhayenge layeen
-  Teer shabbar ke janaze par chalayenge layeen
-  Kis tarha ghazi ko rokungi bhala mai us ghadi
+  Baad tere zulm ye bhi hum pe dhaayeṅ ge laiṅ
+  Tir Shabbar ke janaaze par chalaayeṅ ge laiṅ
+  Kis tarah Ghazi ko rokuṅ gi bhala main us ghari
 
   8
-  Ab tumhare baad sajne hi ko hai karbobala
-  Pa barehna haath bandwaye huwe aur berida
-  Kis tarha guzregi baazaron se teri laadli
+  Ab tumhaare baad sajne hi ko hai Karb o Bala
+  Pa barehna haath bandwaaye hue aur berida
+  Kis tarah guzregi baazaaroṅ se teri laadli
 
   9
-  Teen din ki pyaas aur wo kund khanjar shimr ka
-  Kis tarha dekhungi baba tum hi batlao zara
-  Chal rahi hogi gulu e shaah par jis dam churi
+  Tin din ki pyaas aur wo kund khanjar Shimr ka
+  Kis tarah dekhuṅ gi baba tum hi batlaao zara
+  Chal rahi hogi gulu-e-Shah par jis dam chhuri
 
   10
   Baap se lipti hui kehti thi Zainab baar baar
-  Baab e saa’at par karungi aap ka mai intezar
+  Baab-e-Saaat par karuṅ gi aap ka main intezaar
   Shaam ki fatah ka manzar dekhna aa kar Ali
 # source_id: nohayonline:caed95ac9dc00e833993
 # source_url: https://www.nohayonline.com/details_content.php?id=2901
 # raw_sha256: 0e4f5953ca9a5d9da254b81aa5c3418f80eafe22f8a0e944e2c6f5b493dfa6d4
 ---
-الوداع مولا علٸ الوداع مولا علی
+الوداع مولا علی الوداع مولا علی
 جا رہا ہے آج دنیا سے محمد کا وصی
 
 ۱
@@ -97,12 +97,12 @@ romanLyrics: |-
 
 ۶
 مُرتضیٰ گھر میں جو آئے بس اُسی ہنگام میں
-بیٹیاں آ کر جو لپٹیں تو اُسی کہرم میں
+بیٹیاں آ کر جو لپٹیں تو اُسی کہرام میں
 ایک ننھی سی یتیمہ یاد مجھ کو آ گئی
 
 ۷
 بعد تیرے ظلم یہ بھی ہم پہ ڈھائیں گے لعیں
-تیر شبّر کے جنازے پر چلائیں گے لئیں
+تیر شبّر کے جنازے پر چلائیں گے لعیں
 کس طرح غازی کو روکوں گی بھلا میں اس گھڑی
 
 ۸
@@ -117,5 +117,5 @@ romanLyrics: |-
 
 ۱۰
 باپ سے لپٹی ہوئی کہتی تھی زینب بار بار
-بابے ساعت پر کروں گی آپ کا میں انتظار
+بابِ ساعت پر کروں گی آپ کا میں انتظار
 شام کی فتح کا منظر دیکھنا آ کر علی

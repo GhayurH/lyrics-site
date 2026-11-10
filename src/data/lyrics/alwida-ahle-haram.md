@@ -11,55 +11,55 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Asr ka waqt qareeb aagaya lo jaate hain ham
+  Asr ka waqt qarib aa gaya lo jaate haiṅ hum
   Alwida ahl-e-haram alwida alwida
-  Jane phir laut ke aayain ke na aayain ye qadam
+  Jaane phir laut ke aayeṅ ke na aayeṅ ye qadam
   Alwida ahl-e-haram alwida alwida
 
   1
-  meray nana ki abaa aur amama lao
-  Wo jo kurta meri amma ne siya tha lao
-  Aur Zainab ko bula lao ke ab waqt hay kam
+  Mere nana ki aba aur amaama laao
+  Wo jo kurta meri ammaṅ ne siya tha laao
+  Aur Zainab ko bula laao ke ab waqt hai kam
 
   2
-  bibiyo dekh lo jee bharke chalo rooye Hussain
-  Gale Zainab se juda hoti khushbuye Aussain
-  Jaane phir ho ke na ho lamha ye ziarat ka baham
+  Bibiyo dekh lo ji bhar ke chalo ru-e-Husain
+  Gul-e-Zainab se juda hoti hai khushbu-e-Husain
+  Jaane phir ho ke na ho lamha ye ziyaarat ka baham
 
   3
-  bole sheh ghar ki nigehban meri Zainab tum ho
-  May to jaata hoon magar meri jagah ab tum ho
-  Janiyo isko ghanimat hay jo Sajjad ka dam
+  Bole Shah ghar ki nigahbaṅ meri Zainab tum ho
+  Main to jaata huṅ magar meri jagah ab tum ho
+  Jaaniyo is ko ghanimat hai jo Sajjad ka dam
 
   4
-  bibiyan halqa kiye theen tane mazloom ke gird
-  Baal khole huay aansu liye masoom ke gird
-  Noha aey hazrate Zainab pe tha Sheh ka matam
+  Bibiyaṅ halqa kiye thiṅ tan-e-mazlum ke gird
+  Baal khole hue aansu liye maasum ke gird
+  Noha-e-Hazrat-e-Zainab pe tha Shah ka maatam
 
   5
-  haat uthate hi nahi zulm se ye baniye shar
-  Legaye kaat ke ye auno mohamed ke bhi sar
-  Ab mere sar ke talabgaar hain ye ahle sitam
+  Haath uthaate hi nahiṅ zulm se ye baani-e-shar
+  Le gaye kaat ke ye Aun o Muhammad ke bhi sar
+  Ab mere sar ke talabgaar haiṅ ye ahl-e-sitam
 
   6
-  ghash se abid ko uthakar kaha beta hoshiyar
-  Lo hui sham hui sham ki manzil tayyar
-  Tum ho ab aur hay be-pardagiye ahle harram
+  Ghash se Abid ko utha kar kaha beta hoshiyaar
+  Lo hui Shaam hui Shaam ki manzil tayyaar
+  Tum ho ab aur hai bepardagi-e-ahl-e-haram
 
   7
-  hoke ruqsat hue Shabbir jo ghoray pa sawaar
-  Ayrh dete thay to barhta na tha aage rahwaar
-  Koi bachi thi jo rahwaar ke thaame thi khadam
+  Ho ke rukhsat hue Shabbir jo ghore pe sawaar
+  Erh dete the jo barhta na tha aage raahwaar
+  Koi bachchi thi jo raahwaar ke thaame thi qadam
 
   8
-  utre ghoray se Sakina ko uthaya ek baar
-  Jhuk ke rukhsaar ko seene se lagaya ek baar
-  Bole phir se ke pani ke liye jaate hain hum
+  Utre ghore se Sakina ko uthaaya ek baar
+  Jhuk ke rukhsaar ko sine se lagaaya ek baar
+  Bole phir se ke paani ke liye jaate haiṅ hum
 
   9
-  karke seenay se Sakina ko juda Sheh ne Naved
-  Jao khaime may Sakina se kaha Sheh ne Naved
-  Phir barhe suye faraz Shah ba-larzida qadam
+  Kar ke sine se Sakina ko juda Shah ne Naved
+  Jaao khaime mein Sakina se kaha Shah ne Naved
+  Phir barhe su-e-faras Shah ba larzida qadam
 # source_id: nohayonline:c1ea9d2cb2839e7c7a65
 # source_url: https://www.nohayonline.com/details_content.php?id=9
 # raw_sha256: 82f955fbeeeaff0c796cf9a6aaed63b07207dd37ad55b1535aa89601ad0d7132

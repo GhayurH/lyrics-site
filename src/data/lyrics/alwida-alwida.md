@@ -11,55 +11,55 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba kaise kahun alwida alwida
-  
+  Baba kaise kahuṅ alwida alwida
+
   1
-  Aap jaate nahi jaan jaane lagi
-  Zindagi mujhse daaman chudane lagi
-  Saans seene mein ruk ruk ke aane lagi
-  Ab mere saath hai aah aur hichkiyan
-  
+  Aap jaate nahiṅ jaan jaane lagi
+  Zindagi mujh se daaman chhuraane lagi
+  Saans sine mein ruk ruk ke aane lagi
+  Ab mere saath hai aah aur hichkiyaṅ
+
   2
   Kiuṅ piyuṅ main dawa ho chuki bas shifa
-  Chod kar mujhko mera maseeha chala
-  Aisa lagta hai mujhse huwe tum khafa
-  Meri hum joliyan ab hai tanhaiyan
-  
+  Chhor kar mujh ko mera masiha chala
+  Aisa lagta hai mujh se hue tum khafa
+  Meri hum jholiyaṅ ab haiṅ tanhaaiyaṅ
+
   3
-  Kaise behlaun dil kuch to bolo padar
-  Qabr se kam nahi haye ab mera ghar
+  Kaise behlaauṅ dil kuchh to bolo padar
+  Qabr se kam nahiṅ haye ab mera ghar
   Maut hai meri aap ka ye safar
-  Bolti hai nazar chup hai meri zuban
-  
+  Bolti hai nazar chup hai meri zabaṅ
+
   4
-  Kaun jaata hai bemaar ko chod kar
-  Haath rakhte hain bemaar ki nabz par
-  Uski dil joyi karte hai shaam o sahar
-  Rakhte hai thande pani ki bhi pattiyan
-  
+  Kaun jaata hai bimaar ko chhor kar
+  Haath rakhte haiṅ bimaar ki nabz par
+  Us ki dil joi karte haiṅ shaam o sahar
+  Rakhte haiṅ thande paani ki bhi pattiyaṅ
+
   5
-  Lo mere ghar se ruqsat ujaala hua
-  Jaata hai bhai naazon ka paala hua
-  Ranj is baat se hai dobala hua
-  Tum rahoge yahan mai rahungi wahan
-  
+  Lo mere ghar se rukhsat ujaala hua
+  Jaata hai bhai naazoṅ ka paala hua
+  Ranj is baat se hai do baala hua
+  Tum raho ge yahaṅ main rahuṅ gi wahaṅ
+
   6
-  Haye baba mere din ye garmi ke hai
-  Saath bacchon ka hai ye safar na kare
-  Ya to phir saath mujhko bhi le ke chale
-  Keh raha hai yehi ab to ashk e rawan
-  
+  Haye baba mere din ye garmi ke haiṅ
+  Saath bachchoṅ ka hai ye safar na kare
+  Ya to phir saath mujh ko bhi le chale
+  Keh raha hai yehi ab to ashk-e-rawaṅ
+
   7
-  Din to kat jayega shab na kat payegi
-  Aap ke hijr mein neend kab aayegi
-  Neend aayi to wo maut ban jayegi
-  Royega meri ghurbat pe ab aasman
-  
+  Din to kat jaaye ga shab na kat paaye gi
+  Aap ke hijr mein nind kab aaye gi
+  Nind aayi to wo maut ban jaaye gi
+  Roye ga meri ghurbat pe ab aasmaṅ
+
   8
-  Nauha farhan sughra ke lab pe ye tha
-  Moo ko aane laga hai kaleja mera
-  Hogaya khaali kaisa bhara ghar jo tha
-  Haye rehaan mai bhi hoon nauha kuna
+  Noha Farhan Sughra ke lab pe ye tha
+  Muṅh ko aane laga hai kaleja mera
+  Ho gaya khaali kaisa bhara ghar jo tha
+  Haye Rehaan main bhi huṅ noha kunaṅ
 # source_id: nohayonline:92621ca2ff0085d13013
 # source_url: https://www.nohayonline.com/details_content.php?id=3423
 # raw_sha256: 15262b70d0b7c79b16ffca27ded0098a1865f94698f59ee959e8794ebabe1c81
