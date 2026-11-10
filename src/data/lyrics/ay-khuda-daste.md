@@ -1,6 +1,6 @@
 ---
 title: یاد عباس سر شام غریباں آید
-alternateTitle: Ay Khuda Daste
+alternateTitle: Ae Khuda Dast-e-Karam
 language: Urdu
 lang: ur
 direction: rtl
@@ -9,115 +9,65 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Yaad e abbas sare shaam e ghariban aayad
+romanLyrics: |-
+  Yaad-e-Abbas sar-e-shaam-e-gharibaaṅ aayad
+  Dukhtar-e-Hazrat-e-Shabbir hiraasaaṅ aayad
 
+  Bekasi kaisi ayaaṅ thi ban mein
+  Laashe paamaal hue jab ran mein
+  Aag Zehra ki lagi gulshan mein
+  Yaad-e-Abbas thi aur ahl-e-haram
+  Ae Khuda dast-e-karam ae Khuda dast-e-karam
+  Ae Khuda dast-e-karam
+  Shaam-e-gharibaaṅ shaam-e-gharibaaṅ
 
-  1
+  ۱
+  Qasim o Akbar o Abbas kuja raftand aah
+  Haaye dar dasht-e-bala yaad-e-shahidaaṅ aayad
+  Qasim o Akbar o Abbas nahiṅ
+  Kuchh bhi sine mein bajuz yaas nahiṅ
+  Ab to jine ki bhi kuchh aas nahiṅ
+  Saaya afgan nahiṅ Ghazi ka alam
 
-  Dukhtare hazrate shabbir hirasan aayad
+  ۲
+  Yaaṅ kase nist ke aayad pay-e-imdaad-e-haram
+  Iṅ safina taraf-e-yurish-e-tufaaṅ aayad
+  Koi imdaad ko aaye kiun kar
+  Kat gaye Akbar o Abbas ke sar
+  Gham ka tufaan hai aur yaad-e-padar
+  Chaar jaanib se bare ranj o alam
 
-  Bekasi kaisi ayan thi ban mein
+  ۳
+  Sili-e-Shimr bah rukhsaar-e-Sakina sad haif
+  Chuṅ bah zulm o sitam aaṅ dushman-e-imaaṅ aayad
+  Haaye wo phul se rukhsaar tere
+  Shimr ne jis pe tamaache maare
+  Nil rukhsaar ke dekhe na gaye
+  Roya naize pe sar-e-Shaah-e-umam
 
-  Laashe pamaal huwe jab ran mein
+  ۴
+  Haif aaṅ aalam-e-ghurbat ke Sakina girya
+  Yaad-e-altaaf-e-padar bah gham o hirmaaṅ aayad
+  Dasht-e-ghurbat mein Sakina ki fughaaṅ
+  Baaba dasta hai andhera zindaaṅ
+  Jald aao ke nikal jaaye na jaaṅ
+  Aap ki yaad mein mar jaayeṅge ham
 
-  Aag zehra ki lagi gulshan mein
+  ۵
+  Mi kashad naala ze hasrat sar-e-darbaar-e-Yazid
+  Be muhaabaana khayaal-e-dar-e-zindaaṅ aayad
+  Sar-e-darbaar fughaaṅ Zainab ki
+  Qaid Kufe mein hui bint-e-Ali
+  Lahad-e-Shaah-e-Najaf hilne lagi
+  Ashk Zainab ke jo barse paiham
 
-  Yaad e abbas thi aur ahle haram
-
-  Ay khuda daste karam ay khuda daste karam
-
-  Ay khuda daste karam
-
-  Shaam e ghariban shaam e ghariban
-
-  Qasim o akbar o abbas kuja raftand aah
-
-  Haaye dar dashte bala yaade shaheedan aayad
-
-  Qasim o akbar o abbas nahi
-
-  Kuch bhi seene mein bajus yaas nahi
-
-  Ab to jeene ke bhi kuch aas nahi
-
-  Saaya afgan nahi ghazi ka alam
-
-  Ay khuda dast e karam...
-
-
-  2
-
-  Yan kase neest ke aayad paye imdaad e haram
-
-  Ee safeena tarafe yurishe toofan aayad
-
-  Koi imdaad ko aaye kyun kar
-
-  Kat gaye akbar o abbas ke sar
-
-  Gham ka toofan hai aur yaad e padar
-
-  Char jaanib se bade ranj o alam
-
-
-  3
-
-  Sayli e shimr e ba rokhsar e sakina sad haif
-
-  Chu ba zulm o sitam a dushman e emaan aayad
-
-  Haye wo phool se rukhsar tere
-
-  Shimr ne jis pe tamache maare
-
-  Neel rukhsar ke dekhe na gaye
-
-  Roya naize pe sar e shaahe umam
-
-
-  4
-
-  Haif aan aalam e ghurbat ke sakina girya
-
-  Yaade altaaf e padar ba gham o hirman aayad
-
-  Dashte ghurbat mein sakina ki fughan
-
-  Baba dassta hai andhera zindan
-
-  Jald aao ke nikal jaaye na jaan
-
-  Aap ki yaad mein mar jayenge hum
-
-
-  5
-
-  Mi kashad naala ze hasrat sare darbar e yazeed
-
-  Be muhabana khayale dar e zindan aayad
-
-  Sar e darbar fughan zainab ki
-
-  Qaid kufe mein hui binte ali
-
-  Lahad e shaahe najaf hilne lagi
-
-  Ashk zainab ke jo barse paiham
-
-
-  6
-
-  Tohfa e ashq e azaa pesh konam mann ba khuloos
-
-  Aah ee nauha e gham bar labe rehaan aayad
-
-  Hai bhi kya sarwar o rehaan ke paas
-
-  Inki daulat hai yehi gham ki asaas
-
-  Aap ki nazr janab e abbas
-
-  Ek awaaz hai aur ek qalam'
+  ۶
+  Tohfa-e-ashk-e-aza pesh konam man bah khulus
+  Aah iṅ nauha-e-gham bar lab-e-Rehaaṅ aayad
+  Hai bhi kya Sarwar o Rehaan ke paas
+  In ki daulat hai yehi gham ki asaas
+  Aap ki nazr Janaab-e-Abbas
+  Ek aawaaz hai aur ek qalam
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:9d209cd008b2e6df0aab
 # source_url: https://www.nohayonline.com/details_content.php?id=3093
@@ -128,38 +78,38 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 یاد عباس سر شام غریباں آید
-
-۱
 دختر حضرتِ شبیر ہراساں آید
+
 بیکسی کیسی عیاں تھی بن میں
-لاشے پامال ہوے جب رن‌ میں
+لاشے پامال ہوئے جب رن میں
 آگ زہرا کے لگی گلشن میں
 یاد عباس تھی اور اہلِ حرم
 اے خدا دست کرم اے خدا دست کرم
 اے خدا دست کرم
 شام غریباں شام غریباں
+
+۱
 قاسم و اکبر و عباس کجا رفتند آہ
-ہاے در دشت بلا یاد شہیداں آید
+ہائے در دشت بلا یاد شہیداں آید
 قاسم و اکبر و عباس نہیں
 کچھ بھی سینے بہ جز یاس نہیں
 اب تو جینے کی بھی کچھ آس نہیں
 سایہ افگن نہیں غازی کا علم
-اے خدا دست کرم۔۔۔
 
 ۲
 یاں کسے نیست کے آید پےء امداد حرم
 ایں سفینہ طرف یورش طوفاں آید
-کوی امداد کو آے کیوں کر
-کٹ گےء اکبر و عباس کے سر
+کوئی امداد کو آئے کیوں کر
+کٹ گئے اکبر و عباس کے سر
 غم کا طوفان اور یاد پدر
 چار جانب سے بڑے رنج و الم
 
 ۳
 سیلیء شمر بہ رخسار سکینہ صد حیف
 چوں بہ ظلم و ستم آں دشمن ایماں آید
-ہاے وہ پھول سے رخسار تیرے
+ہائے وہ پھول سے رخسار تیرے
 شمر نے جس پہ طمانچے مارے
-نیل رخسار کے دیکھے نہ گےء
+نیل رخسار کے دیکھے نہ گئے
 روے نیزے پہ سر شاہ امم
 
 ۴
@@ -167,14 +117,14 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 یاد الطاف پدر بہ غم و حرماں آید
 دشت غربت میں سکینہ کی فغاں
 بابا ڈستہ ہے اندھیرا زنداں
-جلد آؤ کے نکل جاے نہ جاں
-آپ کی یاد میں مر جاینگے ہم
+جلد آؤ کے نکل جائے نہ جاں
+آپ کی یاد میں مر جائیں گے ہم
 
 ۵
 می کشد نالہ ز حسرت سر دربار یزید
 بے محبانہ خیال در زنداں آید
 سر دربار فغاں زینب کی
-قید کوفے میں ہوی بنت علی
+قید کوفے میں ہوئی بنت علی
 لحد شاہ نجف ہلنے لگی
 اشک زینب کے جو برسے پیہم
 
