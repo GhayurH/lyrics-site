@@ -6,103 +6,104 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye waqia hai pas e qatle shaahe karbobala
+  Ye waaqia hai pas-e-qatl-e-Shaah-e-Karbobala
 
   1
-  Koi na monis o ghamkhwar bibiyon ka raha
-  Sukoot e sehra mein taapon ki goonj uthi sada
-  Ali ki beti ne bad kar utha liya naiza
-  Hisaar tod ke nazdeek aagaya sawaar
-  Tadap ke saani e zehra pukar uthi ek baar
-  Baba hyder baba hyder
+  Koi na monis o ghamkhwaar Bibiyoṅ ka raha
+  Sukut-e-sehra mein taapoṅ ki gunj uthi sada
+  Ali ki beti ne barh kar utha liya naiza
+  Hisaar tor ke nazdik aa gaya sawaar
+  Tarap ke saani-e-Zehra pukaar uthi ek baar
+  Baba Haidar baba Haidar
 
   2
-  Aagayi shaam e ghariban baba
-  Hum huwe be sar o saaman baba
-  Laashein maqtal mein hai uryan baba
-  Hai safar jaanib e zindan baba
-  Laadli aap ki hai be-chadar
+  Aa gayi shaam-e-gharibaaṅ baba
+  Hum hue be sar o saamaaṅ baba
+  Laasheṅ maqtal mein hai uryaaṅ baba
+  Hai safar jaanib-e-zindaaṅ baba
+  Laadli aap ki hai bechaadar
 
   3
-  Bhai athara thay koi na raha
+  Bhai athaarah the koi na raha
   Aap ki laadli ban mein tanha
-  Khaak daale huwe sar pe baba
+  Khaak daale hue sar pe baba
   Dekhiye karti hai ab aah o buka
-  Haath rakhta nahi koi sar par
+  Haath rakhta nahiṅ koi sar par
 
   4
-  Sheh ki abbas kamar tod gaye
-  Hum se pardes mein moo mod gaye
-  Gham ke toofan mein hamay chod gaye
-  Rishta har dukh se mera jod gaye
-  Daagh seene ke dikhaun kyun kar
+  Sheh ki Abbas kamar tor gaye
+  Hum se pardes mein muṅh mor gaye
+  Gham ke tufaaṅ mein hameṅ chhor gaye
+  Rishta har dukh se mera jor gaye
+  Daagh sine ke dikhaauṅ kiuṅ kar
 
   5
-  Mere akbar ka kaleja chalni
-  Kar gayu naiza e khooli ki ani
-  Tha jo hamshakle rasool e madani
+  Mere Akbar ka kaleja chhalni
+  Kar gayu naiza-e-Khuli ki ani
+  Tha jo hamshakl-e-Rasul-e-Madani
   Us ke marne se jo is dil pe bani
-  Kaise batlaye tumhe ye muztar
+  Kaise batlaaye tumheṅ ye muztar
 
   6
-  Chaaron jaanib se chale teer o tabar
-  Hogaya tukde hassan ka dilbar
-  Chunte thay laash ke tukde sarwar
-  Kehte thay aao madad ko hyder
-  Laash jo rond raha tha lashkar
+  Chaaroṅ jaanib se chale tir o tabar
+  Ho gaya tukre Hasan ka dilbar
+  Chunte the laash ke tukre Sarwar
+  Kehte the aao madad ko Haidar
+  Laash jo raund raha tha lashkar
 
   7
   Haath malti thi tumhari beti
-  Jab churi aun o mohamed pe chali
-  Godh khaali hui baba meri
-  Khoon ka sailaab tha gham ki aandhi
+  Jab chhuri Aun o Muhammad pe chali
+  God khaali hui baba meri
+  Khun ka sailaab tha gham ki aandhi
   Aap ne kaise wo dekha manzar
 
   8
-  Kat gaye baazu e abbas e jari
-  Reh gayi bali sakina pyasi
-  Khoon se qasim ne lagayi mehendi
-  Maang ek shab ki dulhan ki ujdi
-  Kya masayab thay jo toote hum par
+  Kat gaye baazu-e-Abbas-e-Jari
+  Reh gayi baali Sakina pyaasi
+  Khun se Qasim ne lagaayi mehndi
+  Maaṅg ek shab ki dulhan ki ujri
+  Kya masaaib the jo tute hum par
 
   9
-  Mar ke mashk na seene se hati
-  Saath abbas ke maidan mein rahi
-  Kehti ho jaise sakina pyasi
-  Mashk ammu mai na yun loongi kabhi
-  Layenge aap na jab tak bhar kar
+  Mar ke mashk na sine se hati
+  Saath Abbas ke maidaan mein rahi
+  Kehti ho jaise Sakina pyaasi
+  Mashk ammu main na yuṅ luṅgi kabhi
+  Laayeṅge aap na jab tak bhar kar
 
   10
-  Dekhiye ubhre wo sar naizon par
+  Dekhiye ubhre wo sar naizoṅ par
   Shimr durra liye aata hai idhar
-  Kis khadar dard bhara hai manzar
-  Tauq mein jakda sambhale langar
-  Jaanib e shaam chala ek laaghar
+  Kis qadar dard bhara hai manzar
+  Tauq mein jakra sambhaale langar
+  Jaanib-e-Shaam chala ek laaghar
 
   11
-  Sun ke faryad o fughan zainab ki
-  Ro ke kehne lage beti se ali
-  Poch le ashk na ro ay beti
-  Mai tere saath hoo ay kokh jali
-  Jaunga saath tu jayegi jidhar
+  Sun ke faryaad o fughaaṅ Zainab ki
+  Ro ke kehne lage beti se Ali
+  Puchh le ashk na ro ae beti
+  Main tere saath huṅ ae kokh jali
+  Jaauṅ ga saath tu jaaye gi jidhar
 
   12
-  Jeeti tu haar gaye baani e shar
-  Kat ke bhi ooncha hai shabbir ka sar
-  Qabza abbas ka hai darya par
-  Parchame deen hai teri chadar
-  Tujhpe qurban meri pyari dukhtar
+  Jiti tu haar gaye baani-e-shar
+  Kat ke bhi uṅcha hai Shabbir ka sar
+  Qabza Abbas ka hai darya par
+  Parcham-e-din hai teri chaadar
+  Tujh pe qurbaan meri pyaari dukhtar
 
   13
-  Majlis e gham mein ye aah o zaari
-  Yun hi rehaan rahegi jaari
+  Majlis-e-gham mein ye aah o zaari
+  Yuṅ hi Rehaan rahegi jaari
   Umr kat jaaye isi mein saari
-  Maqsad e zeest hai matamdari
-  Nauha mai likhta hoo bas ye keh kar
+  Maqsad-e-zist hai maatamdaari
+  Nauha main likhta huṅ bas ye keh kar
 # source_id: nohayonline:f0ed8d6b2d969365f324
 # source_url: https://www.nohayonline.com/details_content.php?id=3000
 # raw_sha256: 699dd6fdb246522bbbf28d98f74cf20cc1073b00160967e7eb9982d83863de7b

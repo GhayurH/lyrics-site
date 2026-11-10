@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chain akbar ko kahan baba badi takleef hai
-  Khaynch lo dil se sina baba badi takleef hai
+  Chain Akbar ko kahaaṅ baba bari taklif hai
+  Khinch lo dil se sinaaṅ baba bari taklif hai
 
   1
-  Naujawan bete ki kuch takleef kam kar dijiye
-  Zakhm pe nade ali padh padh ke dam kar dijiye
-  Mustaqil hai khoon rawan baba badi takleef hai
+  Naujawaaṅ bete ki kuchh taklif kam kar dijiye
+  Zakhm pe Naad-e-Ali parh parh ke dam kar dijiye
+  Mustaqil hai khuṅ rawaaṅ baba bari taklif hai
 
   2
   Waqt ye manzar na dikhlaye kisi bhi baap ko
-  Mujhpe kya guzri hai batlaun mai kaise aap ko
-  Ladkhadati hai zaban baba badi takleef hai
+  Mujh pe kya guzri hai batlaauṅ main kaise aap ko
+  Larkharaati hai zabaaṅ baba bari taklif hai
 
   3
-  Saans bhi lene nahi deta mujhe barchi ka phal
-  Kijiye bas ye dua ab mujhko aa jaaye ajal
-  Dil pe hai baare giran baba badi takleef hai
+  Saaṅs bhi lene nahiṅ deta mujhe barchhi ka phal
+  Kijiye bas ye dua ab mujh ko aa jaaye ajal
+  Dil pe hai baar-e-giraaṅ baba bari taklif hai
 
   4
-  Tashnagi mein zakhme dil ki taab laaun kis tarha
-  Ye batao haath seene se hataun kis tarha
-  Dard hota hai yahan baba badi takleef hai
+  Tashnagi mein zakhm-e-dil ki taab laauṅ kis tarah
+  Ye bataao haath sine se hataauṅ kis tarah
+  Dard hota hai yahaaṅ baba bari taklif hai
 
   5
-  Ab yaqeen hai mujhko mushkil hai bohat jeena mera
-  Paar naiza hogaya hai tod kar seena mera
-  Kyun na ragdun aediyan baba badi takleef hai
+  Ab yaqiṅ hai mujh ko mushkil hai bahut jina mera
+  Paar naiza ho gaya hai tor kar sina mera
+  Kiuṅ na ragruṅ eriyaaṅ baba bari taklif hai
 
   6
-  Haal maadar se ne kehna jaake mujh ghamgeen ka
-  Poch lo aankhon se aansu waqt hai yaseen ka
-  Aa rahi hai hichkiyan baba badi takleef hai
+  Haal maadar se na kehna jaa ke mujh ghamgin ka
+  Puchh lo aankhoṅ se aansu waqt hai Yaasin ka
+  Aa rahi hai hichkiyaaṅ baba bari taklif hai
 
   7
-  Mere qaatil ne mere seene mein barchi tod'di
-  Ab to bas umeed bhi jeene ki maine chod'di
-  Jism se khichti hai jaan baba badi takleef hai
+  Mere qaatil ne mere sine mein barchhi tor di
+  Ab to bas ummid bhi jine ki main ne chhor di
+  Jism se khichti hai jaaṅ baba bari taklif hai
 
   8
-  Noor aankhon ka pisar ke hijr mein jaata raha
-  Aamir o akhtar dile shabbir tharrata raha
-  Sun ke akbar ka bayan baba badi takleef hai
+  Nur aankhoṅ ka pisar ke hijr mein jaata raha
+  Aamir o Akhtar dil-e-Shabbir tharraata raha
+  Sun ke Akbar ka bayaaṅ baba bari taklif hai
 # source_id: nohayonline:7f1063c886cb6ddc4ed0
 # source_url: https://www.nohayonline.com/details_content.php?id=3389
 # raw_sha256: 34b1dc10ff2aa9cdefd1c7b66151b6d31874554290a8bd855e4ce94a3e161e09

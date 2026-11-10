@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Veeran udaas ghar may sughra ki ye sada hai
-  Tanhiyon may baba dum mera ghut raha hai
-  Baba dum ghut'ta hai
+  Viraan udaas ghar mein Sughra ki ye sada hai
+  Tanhaaiyoṅ mein baba dam mera ghut raha hai
+  Baba dam ghutta hai
 
   1
-  Rudaad apne gham ki ashkon se likh rahi hoo
-  Tanha mai baithe baithe har dum ye sochti hoo
-  Lene nahi tum aaye kya tumko hogaya hai
+  Rudaad apne gham ki ashkoṅ se likh rahi huṅ
+  Tanha main baithe baithe har dam ye sochti huṅ
+  Lene nahiṅ tum aaye kya tum ko ho gaya hai
 
   2
-  Qasim ko dekhlun mai asghar ko dekhlun mai
-  Choti bahan se mil loon akbar ko dekhlun mai
-  Bemaar hoo mai baba meri yehi dawa hai
+  Qasim ko dekh luṅ main Asghar ko dekh luṅ main
+  Chhoti behan se mil luṅ Akbar ko dekh luṅ main
+  Bimaar huṅ main baba meri yehi dawa hai
 
   3
-  Khaali pade hai hujre soone pade hai bistar
-  Dasta hai mujhko baba ujda hua mera ghar
-  Kya aap ki nazar may meri yehi saza hai
+  Khaali pare haiṅ hujre sune pare haiṅ bistar
+  Dasta hai mujh ko baba ujra hua mera ghar
+  Kya aap ki nazar mein meri yehi saza hai
 
   4
-  Aajaye aap wapas ya phir mujhe bulaale
-  Furqat may aapki hum ghut ghut ke mar na jaaye
-  Wo shiddat e aalam hai dum lab pe aa gaya hai
+  Aa jaayeṅ aap waapas ya phir mujhe bulaa leṅ
+  Furqat mein aap ki hum ghut ghut ke mar na jaayeṅ
+  Wo shiddat-e-aalam hai dam lab pe aa gaya hai
 
   5
-  Pehli si rounaqe wo sab yaad aa rahi hai
-  Bhai behan ki yaadein mujhko sata rahi hai
-  Ek darde mustakhil hai ashkon ka silsila hai
+  Pehli si raunaqeṅ wo sab yaad aa rahi haiṅ
+  Bhai behan ki yaadeṅ mujh ko sata rahi haiṅ
+  Ek dard-e-mustaqil hai ashkoṅ ka silsila hai
 
   6
-  Bas may nahi hai mere ab intezaar karna
-  Mere taraf se baba tum usko pyar karna
-  Asghar ka muskurana nazron may phir raha hai
+  Bas mein nahiṅ hai mere ab intezaar karna
+  Mere taraf se baba tum us ko pyaar karna
+  Asghar ka muskuraana nazroṅ mein phir raha hai
 
   7
-  Moula ye sher kab hai tukde hai ye jigar ke
-  Yeh nauha teri beti sughra ko yaad karke
-  Ahmed ne keh diya hai mohsin ne pad diya hai
+  Maula ye sher kab hai tukre haiṅ ye jigar ke
+  Ye nauha teri beti Sughra ko yaad kar ke
+  Ahmed ne keh diya hai Mohsin ne parh diya hai
 # source_id: nohayonline:8df1341ee27c7dfc8f8c
 # source_url: https://www.nohayonline.com/details_content.php?id=687
 # raw_sha256: a0900893a7aaebe3aa17a67752432ac0779f812548463de63108fab0ceeec3d1
