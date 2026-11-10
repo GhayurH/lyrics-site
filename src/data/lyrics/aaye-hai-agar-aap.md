@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -16,7 +17,7 @@ romanLyrics: |-
 
   1
   Ab aaye haiṅ jab fauj-e-Khuda so gayi ran mein
-  Jab khun bhara parcham hai Alamdar ka ban mein
+  Jab khuṅ bhara parcham hai Alamdar ka ban mein
   Sine se alam Ghazi ka liptaaiye Baba
 
   2
@@ -26,7 +27,7 @@ romanLyrics: |-
 
   3
   Abid ko bacha laayi huṅ jalte huwe ghar se
-  Go Shimr-e-lain le gaya chadar meri sar se
+  Go Shimr-e-laiṅ le gaya chadar meri sar se
   Sar pe amame ko phailaaiye Baba
 
   4
@@ -41,7 +42,7 @@ romanLyrics: |-
 
   6
   Baba main rasanbasta su-e-Shaam chali huṅ
-  Lagta hi nahi mujhko ke main bint-e-Ali huṅ
+  Lagta hi nahiṅ mujhko ke main bint-e-Ali huṅ
   Hamraah Najaf ab mujhe le jaaiye Baba
 
   7
@@ -53,40 +54,40 @@ romanLyrics: |-
 # raw_sha256: 578bc5540aecae6102ce7a6ca55b64d8fb00a44925191a53ce53925a2c25d2c0
 ---
 اے شام غریباں
-آے ہیں اگر آپ تو رک جائیے بابا
-گھر جل گیا میں کیا کروں فرمایےء بابا
+آئے ہیں اگر آپ تو رک جائیے بابا
+گھر جل گیا میں کیا کروں فرمائیے بابا
 
 ۱
-اب آے ہیں جب فوج خدا سو گیء رن میں
+اب آئے ہیں جب فوج خدا سو گئی رن میں
 جب خوں بھرا پرچم ہے علمدار کا بن میں
-سینے سے علم غازی کا لپٹایےء بابا
+سینے سے علم غازی کا لپٹائیے بابا
 
 ۲
 میدان میں لاشہ ہے میرے بھائی کا عریاں
 پوشاک میرے بھائی کی ہے خون میں غلطاں
-لللہ کفن بھای کو پہنایےء بابا
+للہ کفن بھائی کو پہنائیے بابا
 
 ۳
-عابد کو بچا لای ہوں جلتے ہوے گھر سے
+عابد کو بچا لائی ہوں جلتے ہوئے گھر سے
 گو شمر لعیں لے گیا چادر میری سر سے
-سر پہ عمامے کو پھیلایےء بابا
+سر پہ عمامے کو پھیلائیے بابا
 
 ۴
 بابا مجھے جانا ہے ابھی قید ستم میں
 ہونا ہے اضافہ ابھی کچھ اور بھی غم میں
-دم‌ ناد علی بازو کے کر جایےء بابا
+دم ناد علی بازو کے کر جائیے بابا
 
 ۵
 بابا میں بہت تڑپی ہوں شبیر کے غم میں
 دل ٹکڑے ہے بابا میرا غازی کے علم میں
-ماتم کروں یہ ریسماں کھلوایےء بابا
+ماتم کروں یہ ریسماں کھلوائیے بابا
 
 ۶
 بابا میں رسن بستہ سوے شام چلی ہوں
 لگتا ہی نہیں مجھکو کہ میں بنت علی ہوں
-ہمراہ نجف اب مجھے لے جایےء بابا
+ہمراہ نجف اب مجھے لے جائیے بابا
 
 ۷
 کرتے ہیں سوالات فرشتے جو لحد میں
-اب دیر نہ لللہ کرے آپ مدد میں
-ریحان کی تربت میں چلے جایےء بابا
+اب دیر نہ للہ کریں آپ مدد میں
+ریحان کی تربت میں چلے جائیے بابا

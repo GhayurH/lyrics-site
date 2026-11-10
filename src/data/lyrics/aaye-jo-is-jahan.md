@@ -1,17 +1,18 @@
 ---
-title: "آے جو اس جہاں میں ہمشکل مصطفیٰ"
-alternateTitle: "Aaye Jo Is Jahan"
+title: "آئے جو اس جہاں میں ہمشکل مصطفیٰ"
+alternateTitle: "Aaye Jo Is Jahaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Dabeer"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Aaye jo is jahaṅ mein hamshakl-e-Mustafa
-  Aisa laga ke chand zamin par utar gaya
+  Aisa laga ke chand zamiṅ par utar gaya
   Aaya phuphi ki god mein jis waqt mahlaqa
   Peshani us ki chum ke Zainab ne ye kaha
   Charcha karo jahan mein is shahkar ka
@@ -23,7 +24,7 @@ romanLyrics: |-
   Akbar pe husn ka kiya Khaliq ne ikhtitam
   Na tha na hai na hoga Husain aisa wassalam
   Mahbub-e-Haq hai shakl mein Haider hai shaan mein
-  Baham huwe Nabi o Ali phir jahan mein
+  Baham huwe Nabi o Ali phir jahaṅ mein
 
   2
   Purashk Badshah-e-Halab ko siwa hua
@@ -47,7 +48,7 @@ romanLyrics: |-
   Chaha ke rasm-e-aqd ka ye saal ho wuqu
   Ye soch ke Husain se us ne kiya ruju
   Sultan ke khat ko paaya jo Zehra ke chain ne
-  Khat ka diya jawab use yun Husain ne
+  Khat ka diya jawab use yuṅ Husain ne
 
   5
   Pahuncha tera ariza hui ittila-e-haal
@@ -55,7 +56,7 @@ romanLyrics: |-
   Arman hai kamal teri aarzu kamal
   Main bhi dua karuṅga mubarak ho tujhko saal
   Hai marzi-e-Maabud to inkar kya mera
-  Taqdir mein nahi hai to iqrar kya mera
+  Taqdir mein nahiṅ hai to iqrar kya mera
 
   6
   Shah-e-Halab ko pahuncha junhi ruqqa-e-Imam
@@ -66,28 +67,28 @@ romanLyrics: |-
   Beti teri Husain ke ghar ki bahu bane
 
   7
-  Saman yahan to tha Ali Akbar ke biyah ka
+  Samaṅ yahaṅ to tha Ali Akbar ke biyah ka
   Nikla udhar woh qafila Yasrab ke Shah ka
   Aate hi dasht mein hua nargha sipah ka
   Ghera adu ne khaima risalatpanah ka
   Dulhan ke ghar mein log ghiza nosh karte the
-  Dulha ke ghar mein tifl mein faqon se marte the
+  Dulha ke ghar mein tifl mein faqoṅ se marte the
 
   8
-  Sehra wahan bana Ali Akbar ke waste
-  Yahan maut nauhagar thi usi sar ke waste
-  Poshak thi wahan dil-e-Haider ke waste
-  Yahan bekafani thi usi dilbar ke waste
-  Sadqe Rasulzadiyaṅ murde pe hoti thiṅ
-  Zainab sarhane painti maaṅ behneṅ roti thiṅ
+  Sehra wahaṅ bana Ali Akbar ke waste
+  Yaṅ maut nauhagar thi usi sar ke waste
+  Poshak thi wahaṅ dil-e-Haider ke waste
+  Yaṅ bekafani thi usi dilbar ke waste
+  Sadqe Rasulzadiyaṅ murde pe hoti thi
+  Zainab sarhane painti maaṅ behneṅ roti thi
 
   9
-  Ab maajra Halab ka sunaun ke kya hua
+  Ab maajra Halab ka sunauṅ ke kya hua
   Shah-e-Halab ka mahal tha kaisa saja hua
   Yasrab ka qasd tha dil mein chhupa hua
-  Itne mein ek shakhs wahan runuma hua
+  Itne mein ek shakhs wahaṅ runuma hua
   Us ne sunani aan ke di Badshah ko
-  Maqtal mein maar daala Shah-e-Dinpanah ko
+  Maqtal mein maar daala Shah-e-Diṅpanah ko
 
   10
   Sultan patak ke taj pukara ke kya hua
@@ -100,7 +101,7 @@ romanLyrics: |-
   11
   Maqtal mein pahuncha ahl-e-haram ka jo karwaṅ
   Dekha ke ek urus hai laashon ke darmiyaṅ
-  Bas ae Dabeer khatm karo marsiya yahan
+  Bas ae Dabeer khatm karo marsiya yahaṅ
   Sar nange baal khole woh karne lagi fughaṅ
   Jaan-e-Husain ki mujhe is dam talaash hai
   Ae Karbala kidhar mere dulha ki laash hai
@@ -108,7 +109,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2763
 # raw_sha256: 2fa1550e99da18412bd3628e470d4dbcd9eb720eb7cb6ec451ca1c986a0cd090
 ---
-آے جو اس جہاں میں ہمشکل مصطفیٰ
+آئے جو اس جہاں میں ہمشکل مصطفیٰ
 ایسا لگا کہ چاند زمیں پر اتر گیا
 آیا پھپھی کی گود میں جس وقت مہ لقا
 پیشانی اسکی چوم کے زینب نے یہ کہا
@@ -116,12 +117,12 @@ romanLyrics: |-
 تحفہ ملا حسین کو پروردگار کا
 
 ۱
-القصہ شہر شہر خبر ہو گیء یہ عام
+القصہ شہر شہر خبر ہو گئی یہ عام
 اخبار میں لکھا گیا مضمون یہ تمام
 اکبر پہ حسن کا کیا خالق نے اختتام
 نہ تھا نہ ہے نہ ہوگا حسین ایسا والسلام
 محبوب حق ہے شکل میں حیدر ہے شان میں
-باہم ہوے نبی و علی پھر جہاں میں
+باہم ہوئے نبی و علی پھر جہاں میں
 
 ۲
 پر اشک بادشاہ حلب کو سوا ہوا
@@ -132,8 +133,8 @@ romanLyrics: |-
 شاہ حلب کو چاند سی بیٹی عطا ہوئی
 
 ۳
-شاہ حلب نے پای مسرت کی یہ خبر
-اترا ہے آج سہنے محمد میں ایک قمر
+شاہ حلب نے پائی مسرت کی یہ خبر
+اترا ہے آج صحنِ محمد میں ایک قمر
 خوش ہو گیا وہ شاہ حلب بس یہ سوچ کر
 بیٹی کا میری عقد ہو اس چاند سے اگر
 اس روز سے حلب کا وہ سلطان نام دار
@@ -148,15 +149,15 @@ romanLyrics: |-
 خط کا دیا جواب اسے یوں حسین نے
 
 ۵
-پہنچا تیرا عریضہ ہوی اطلاع اے حال
+پہنچا تیرا عریضہ ہوئی اطلاعِ حال
 بیٹی کے عقد کا علی اکبر سے ہے خیال
 ارمان ہے کمال تیری آرزو کمال
 میں بھی دعا کروں گا مبارک ہو تجھکو سال
-ہے مرضیء معبود تو انکار کیا میرا
+ہے مرضیِ معبود تو انکار کیا میرا
 تقدیر میں نہیں ہے تو اقرار کیا میرا
 
 ۶
-شاہ حلب کو پہنچا جونہی رقعہء امام
+شاہ حلب کو پہنچا جونہی رقعۂ امام
 خوش ہو گیا نصیب کے کھلنے پہ نیک نام
 زوجہ سے اپنی کرنے لگا اس طرح کلام
 بیٹی کے عقد کی کرو تیاریاں تمام
@@ -190,7 +191,7 @@ romanLyrics: |-
 ۱۰
 سلطان پٹک کے تاج پکارا کہ کیا ہوا
 اس نے کہا حسین شہید جفا ہوا
-گھرکاب اشک مظہر نورِ خدا ہوا
+غرقابِ اشک مظہر نورِ خدا ہوا
 یعنی تباہ گلشنِ آل عبا ہوا
 یہ بات سن کے رونے لگا پھر وہ نیک نام
 شادی کے گھر میں ہو گیا مجلس کا اہتمام

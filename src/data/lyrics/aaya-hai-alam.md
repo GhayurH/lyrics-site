@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,7 +14,8 @@ romanLyrics: |-
   Alamdar na aaya Alamdar na aaya
   Aaya hai alam aur Alamdar na aaya
   Darya se dil-e-Haider-e-Karrar na aaya
-  Baazu jo kate daanton mein mashkiza dabaya
+
+  Baazu jo kate daantoṅ mein mashkiza dabaya
   Jab mashk chhidi phir woh hayadar na aaya
 
   1
@@ -29,11 +31,11 @@ romanLyrics: |-
   Bedast woh dast-e-Shah-e-Abrar na aaya
 
   4
-  Jis waqt tamache hain lage boli Sakina
-  Kya mujh pe Chacha jaan tumhein pyar na aaya
+  Jis waqt tamache haiṅ lage boli Sakina
+  Kya mujh pe Chacha jaan tumheiṅ pyar na aaya
 
   5
-  Hai mujhko yaqin neze pe Ghazi ko ye gham tha
+  Hai mujhko yaqiṅ neze pe Ghazi ko ye gham tha
   Qabze mein mere Shaam ka bazaar na aaya
 
   6
@@ -46,16 +48,17 @@ romanLyrics: |-
 علمدار نہ آیا علمدار نہ آیا
 آیا ہے علم اور علمدار نہ آیا
 دریا سے دل حیدر کرار نہ آیا
+
 بازو جو کٹے دانتوں میں مشکیزہ دبایا
 جب مشک چھدی پھر وہ حیادار نہ آیا
 
 ۱
-ہر لاش پہ بھای کا مددگار تھا غازی
-بعد اس کے کوی شہ کا مددگار نہ آیا
+ہر لاش پہ بھائی کا مددگار تھا غازی
+بعد اس کے کوئی شہ کا مددگار نہ آیا
 
 ۲
 جب تک وہ رہا چادر زینب کا محافظ
-خیمے کی طرف کوی ستمگار نہ آیا
+خیمے کی طرف کوئی ستمگار نہ آیا
 
 ۳
 بازو تھا جو شبیر کا بے بازو ہوا وہ
