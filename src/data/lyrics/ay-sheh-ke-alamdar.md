@@ -1,77 +1,77 @@
 ---
 title: اے شِہ کے علمدار، اے شِہ کے علمدار علمدار
-alternateTitle: Ay Sheh Ke Alamdar
+alternateTitle: Ae Sheh Ke Alam Daar
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Sheh Ke Alamdar"]
 published: false
 romanLyrics: |-
-  Ay sheh ke alamdar, ay sheh ke alamdar alamdar
-  Ay zay ghame hyder, ay hyderi talwar alamdar
+  Ae Sheh ke alam daar, ae Sheh ke alam daar, ae Sheh ke alam daar alam daar
+  Ae Zaigham-e-Haidar, ae Zaigham-e-Haidar, ae Haidari talwaar alam daar
 
   1
-  Roti hai behan teri aa dekh mere ghazi
-  Hai dard bhara manzar chadar bhi nahi sar par
-  Hai majmae kuffaar, ay sheh ke alamdar alamdar
+  Roti hai behan teri aa dekh mere Ghaazi
+  Hai dard bhara manzar chaadar bhi nahiṅ sar par
+  Hai majma-e-kuffaar, hai majma-e-kuffaar, ae Sheh ke alam daar alam daar
 
   2
-  Ye khoon bhara parcham karta hai tera matam
-  Qaimo se dhuwa utha ay bhai mere aaja
-  Faujo ki hai yalghaar, ay sheh ke alamdar alamdar
+  Ye khun bhara parcham karta hai tera maatam
+  Khaimoṅ se dhuaaṅ utha ae bhai mere aa ja
+  Faujoṅ ki hai yalghaar, faujoṅ ki hai yalghaar, ae Sheh ke alam daar alam daar
 
   3
-  Faryad meri sunlo darya se chale aao
-  Tum de chuke qurbani dar kaari nahi paani
-  Jeena huwa dushwar, ay sheh ke alamdar alamdar
+  Faryaad meri sun lo darya se chale aao
+  Tum de chuke qurbaani darkaar nahiṅ paani
+  Jina hua dushwaar, jina hua dushwaar, ae Sheh ke alam daar alam daar
 
   4
-  Tum baazue sarwar thay shabbir ka lashkar thay
-  Zainab ka bharosa thay bachon ka sahara thay
-  Hoti hoo dilafgaar, ay sheh ke alamdar alamdar
+  Tum baazu-e-Sarwar the Shabbir ka lashkar the
+  Zainab ka bharosa the bachchoṅ ka sahaara the
+  Hoti huṅ dil afgaar, hoti huṅ dil afgaar, ae Sheh ke alam daar alam daar
 
   5
-  Amma ka chaman ujda pardes mein ay bhaiya
-  Mai dasht mein tanha hai char taraf aada
-  Mar jaye na bemaar, ay sheh ke alamdar alamdar
+  Ammaṅ ka chaman ujra pardes meiṅ ae bhaiya
+  Hum dasht meiṅ tanha haiṅ chaaroṅ taraf aada haiṅ
+  Mar jaae na bimaar, mar jaae na bimaar, ae Sheh ke alam daar alam daar
 
   6
-  Masoom sakina hai garmi ka mahina hai
-  Do boondh nahi pani hone ko hai zindani
-  Mehshar ke hai aasaar, ay sheh ke alamdar alamdar
+  Maasum Sakina hai garmi ka mahina hai
+  Do bund nahiṅ paani hone ko hai zindaani
+  Mahshar ke haiṅ aasaar, mahshar ke haiṅ aasaar, ae Sheh ke alam daar alam daar
 
   7
-  Jhoole mein nahi asghar lori de kise maadar
-  Darwaza e qaima par kehti hai wo ro ro kar
-  Mai kisko karoo pyar, ay sheh ke alamdar alamdar
+  Jhule meiṅ nahiṅ Asghar lori de kise maadar
+  Darwaaza-e-khaima par kehti hai wo ro ro kar
+  Maiṅ kis ko karuṅ pyaar, maiṅ kis ko karuṅ pyaar, ae Sheh ke alam daar alam daar
 
   8
-  Bachon ko hoo mai royi keh sakta nahi koi
-  Wo bhai ka sadqa thay bas is liye zinda thay
-  Kya unse saropaar, ay sheh ke alamdar alamdar
+  Bachchoṅ ko huṅ maiṅ roi keh sakta nahiṅ koi
+  Wo bhai ka sadqa the bas is liye zinda the
+  Kya un se sarokaar, kya un se sarokaar, ae Sheh ke alam daar alam daar
 
   9
-  Jaati hoo sare zindaan ay bhaai sare uriyan
-  Bazu hai rasan basta purkhaar bahot rasta
-  Nazron mein hai darbaar, ay sheh ke alamdar alamdar
+  Jaati huṅ sar-e-zindaaṅ ae bhai sar-e-uryaaṅ
+  Baazu haiṅ rasan basta purkhaar bahut rasta
+  Nazroṅ meiṅ hai darbaar, nazroṅ meiṅ hai darbaar, ae Sheh ke alam daar alam daar
 
   10
-  Akbar ne sina khaayi mujko na ajal aayi
-  Seena hua do-paara naizo se usay maara
-  Mai uski hoo ghamkhaar, ay sheh ke alamdar alamdar
+  Akbar ne sinaaṅ khaai mujh ko na ajal aai
+  Sina hua do paara nezoṅ se use maara
+  Maiṅ us ki huṅ ghamkhwaar, maiṅ us ki huṅ ghamkhwaar, ae Sheh ke alam daar alam daar
 
   11
-  Mai laut ke aaungi marqad bhi banaungi
-  Mai doongi kafan tujko mohlat de ajal mujko
-  Ay mere wafadaar, ay sheh ke alamdar alamdar
+  Maiṅ laut ke aauṅ gi marqad bhi banaauṅ gi
+  Maiṅ duṅ gi kafan tujh ko mohlat de agar mujh ko
+  Ae mere wafaadaar, ae mere wafaadaar, ae Sheh ke alam daar alam daar
 
   12
-  Rehaan kalam roya jab lik chuka ye nowha
-  Majlis mein hua matam jab aaya tera parcham
-  Rote thay azadaar, ay sheh ke alamdar alamdar
+  Rehaan qalam roya jab likh chuka ye noha
+  Majlis meiṅ hua maatam jab aaya tera parcham
+  Rote the azaadaar, rote the azaadaar, ae Sheh ke alam daar alam daar
 reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: nohayonline:4f70b9c20cf1333f8c40
 # source_url: https://www.nohayonline.com/details_content.php?id=85
