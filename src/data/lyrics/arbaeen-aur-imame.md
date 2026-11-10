@@ -11,75 +11,75 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zameen-e-ishq pe guṅji azaan-e-Arbaeen
-  Jigar figaar hua karbala ki hook uthi
-  Ghame hussain ne qaime laga diye dil mein
-  Tumhari yaad mein rone ke waaste maula
+  Zamin-e-ishq pe guṅji azaan-e-Arbaeen
+  Jigar figaar hua Karbala ki huk uthi
+  Gham-e-Husain ne khaime laga diye dil mein
+  Tumhari yaad mein rone ke waaste Maula
 
   1
-  Libaas e sog mein ashkon ke khaafile phir se
-  Andheri raat mein palkon pe aake utre hai
-  Tumhare wasl ki hasrat mein jaagti aaṅkhein
-  Zareeh e paak ko choone ke khwaab dekhti hai
+  Libaas-e-sog mein ashkoṅ ke qaafile phir se
+  Andheri raat mein palkoṅ pe aake utre hai
+  Tumhare wasl ki hasrat mein jaagti aaṅkheiṅ
+  Zarih-e-paak ko chhune ke khwaab dekhti hai
 
   2
-  Hai aarzu tere rauze pe arbaeen ke liye
-  Mujhe naseeb se wo khaafila e ishq milay
-  Ke sarbaan imam e zamaan ho jiske
-  Najaf se karbobala khaar khaar chalte huwe
+  Hai aarzu tere rauze pe Arbaeen ke liye
+  Mujhe nasib se wo qaafila-e-ishq mile
+  Ke saarbaaṅ Imam-e-zamaaṅ ho jis ke
+  Najaf se Karb o Bala khaar khaar chalte hue
 
   3
-  Meri jabeen pe un raaston ki gard pade
-  Ho jinpe mehdi e dauran ne apne paon dhare
-  Qadam qadam wo kahin aas paas saath mere
-  Kadodo logon mein tanha akele chalte ho
+  Meri jabiṅ pe un raastoṅ ki gard pare
+  Ho jin pe Mehdi-e-dauraaṅ ne apne paaoṅ dhare
+  Qadam qadam wo kahiṅ aas paas saath mere
+  Karoroṅ logoṅ mein tanha akele chalte ho
 
   4
-  Main baar baar nigaahoṅ se ponchh kar aaṅsu
-  Har ek chehre mein mehdi ke noor ko dhoondu
-  Har ek se poochu koi chalees baras ka jawan dekha hai
-  Kya tumne bheed mein mera imam dekha hai
+  Main baar baar nigaahoṅ se poṅchh kar aaṅsu
+  Har ek chehre mein Mehdi ke nur ko dhuṅduṅ
+  Har ek se puchho koi chaalis baras ka jawaaṅ dekha hai
+  Kya tum ne bhir mein mera Imam dekha hai
 
   5
   Har ek lazzat-e-dunya se bekhabar ho ke
-  Dayaar e ghair mein ho jaun be sar o saaman
-  Taam maange bina mere haath mein deke
-  Galay lagale koi mujhko bewatan keh ke
+  Dayaar-e-ghair mein ho jaauṅ besar o saamaan
+  Taam maaṅge bina mere haath mein deke
+  Gale laga le koi mujhko bewatan keh ke
 
   6
-  Tumhare rauze ki jaanib payada paa mehman
-  Udaata khaak chale khasta jaan o tan pahunche
-  Taqaiulaat mein phailaake apne daaman ko
-  Ameer e karbobala dekh teri chaukat pe
+  Tumhare rauze ki jaanib piyaada paa mehmaaṅ
+  Uraata khaak chale khasta jaan o tan pahuṅche
+  Taqaiulaat mein phaila ke apne daaman ko
+  Amir-e-Karbobala dekh teri chaukhat pe
 
   7
-  Nazar jameine huwe ye faqeer baitha hai
+  Nazar jamaaye hue ye faqir baitha hai
   Tumhare dar pe ye dastak ka jo tasalsul hai
   Mere sawaal ki zaahir isi se shiddat hai
-  Tere baghair zamana udaas hai saara
+  Tere baghair zamaana udaas hai saara
 
   8
-  Mai tashnalab hoo tu meri furaat hai maula
-  Mai chahta hoo isi raahe ishq mein kho kar
-  Kabhi talaash karun apni zaat mein khud ko
-  Kare jo mujhse baghawat wo hurr milay mujh mein
+  Main tashna lab huṅ tu meri Furaat hai Maula
+  Main chaahta huṅ isi raah-e-ishq mein kho kar
+  Kabhi talaash karuṅ apni zaat mein khud ko
+  Kare jo mujh se baghaawat wo Hur mile mujh mein
 
   9
-  Tere huzoor mein bakshish ki aarzu le kar
-  Aseer e nafs tere dar pe kis tarha aaye
-  Bandha ke haath chale ya ke sar kataye
-  Mujhe bhi zindagi ki aarzoo hai mere hussain
+  Tere huzur mein bakhshish ki aarzu le kar
+  Asir-e-nafs tere dar pe kis tarah aaye
+  Bandha ke haath chale ya ke sar kataaye
+  Mujhe bhi zindagi ki aarzu hai mere Husain
 
   10
-  Mai tujhpe aisa maroo ke hayaat mil jaye
-  Qafas se nikle parinda hawa mein ur jaye
-  Magar raza o ita'at ka jaam khaali hai
-  Ba naame ishq zaade raah paas kuch bhi nahi
+  Main tujh pe aisa maruṅ ke hayaat mil jaaye
+  Qafas se nikle parinda hawa mein ur jaaye
+  Magar raza o itaaat ka jaam khaali hai
+  Ba naam-e-ishq zaade raah paas kuchh bhi nahiṅ
 
   11
-  Tu jaanta hai mai kitna ghareeb hoo lekin
-  Mai jaanta hoo tu kitna kareem hai maula
-  Bajuz tere meri jaaye panaah kuch bhi nahi
+  Tu jaanta hai main kitna gharib huṅ lekin
+  Main jaanta huṅ tu kitna karim hai Maula
+  Ba juz tere meri jaaye panaah kuchh bhi nahiṅ
   Tere siwa bhari dunya mein kaun hai mera
 # source_id: nohayonline:b7191670296b688e9898
 # source_url: https://www.nohayonline.com/details_content.php?id=1464
@@ -87,7 +87,7 @@ romanLyrics: |-
 ---
 زمینِ عشق پہ گونجی اذانِ اربعین
 جگر فگار ہوا کربلا کی ہوک اٹھی
-غم حسین نے خیمے لگا دیےء دل میں
+غم حسین نے خیمے لگا دیے دل میں
 تمہاری یاد میں رونے کے واسطے مولا
 
 ۱
@@ -116,7 +116,7 @@ romanLyrics: |-
 
 ۵
 ہر ایک لذتِ دنیا سے بے خبر ہو کے
-دیار غیر میں ہو جون بے سر و سامان
+دیار غیر میں ہو جاؤں بے سر و سامان
 طعام مانگے بنا میرے ہاتھ میں دیکے
 گلے لگا لے کوئی مجھکو بے وطن کہہ کے
 

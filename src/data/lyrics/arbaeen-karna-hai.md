@@ -11,67 +11,67 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Arbaeen karna hai shah-e-karbalayi ka
+  Arbaeen karna hai Shah-e-Karbalaayi ka
 
   1
-  Leke daagh seene par shah ki judaai ka
+  Le ke daagh sine pe Shah ki judaai ka
   Haq ada kare Zainab kaise apne bhai ka
-  Qaafila utar aaya sabr ki khudayi ka
-  Karbala ke maidan par fatima ki jaayi ka
+  Qaafila utar aaya sabr ki khudaai ka
+  Karbala ke maidaan par Fatima ki jaayi ka
 
   2
-  Maut ke bayaban mein zindagi ka matam hai
-  Zulm ke andheron mein roshni ka matam hai
-  Aansuon ke toofan mein tashnagi ka matam hai
-  Ek behan ke hisse mein har kisi ka matam hai
+  Maut ke biyaabaan mein zindagi ka maatam hai
+  Zulm ke andheroṅ mein roshni ka maatam hai
+  Aaṅsuoṅ ke tufaaṅ mein tashnagi ka maatam hai
+  Ek behan ke hisse mein har kisi ka maatam hai
 
   3
   Bhai kya sunaauṅ main hum pe kya sitam guzre
-  Baade asre ashoora be-kafan thay sab laashe
-  Shaam-e-gham ke jaate hi maut ke bade saaye
-  Chin gayi rida meri bhai jal gaye qaime
+  Baad-e-asr-e-Aashura bekafan the sab laashe
+  Shaam-e-gham ke jaate hi maut ke barhe saaye
+  Chhin gayi rida meri bhai jal gaye khaime
 
   4
-  Door tak nigahon mein shaam ka andhera hai
-  Karbala se Kufa tak haadson ne ghayra hai
-  Jab se naunihaaloṅ ne moo ko apne phera hai
-  Maamta ki godhi mein maut ka basera hai
+  Dur tak nigaahoṅ mein Shaam ka andhera hai
+  Karbala se Kufa tak haadisoṅ ne ghera hai
+  Jab se naunihaaloṅ ne muṅh ko apne phera hai
+  Maamta ki godi mein maut ka basera hai
 
   5
-  Baad-e-karbala bhai, har qadam qayamat thi
-  Be-rida rasan basta raah-e-shaam se guzri
-  Bhai hum tamasha thay raaste tamaashai
+  Baad-e-Karbala bhai, har qadam qayaamat thi
+  Berida rasan basta raah-e-Shaam se guzri
+  Bhai hum tamaasha the raaste tamaashaai
   Har qadam dua ye thi kaash maut aa jaati
 
   6
-  Bhai qaid khane ki teeragi se ho aaye
-  Aap ki amanat ko zulmaton mein kho aaye
-  Khoon goshwaron ka aansuon se dho aaye
-  Yun sakina bibi ko sab aseer ro aaye
+  Bhai qaid khaane ki tiragi se ho aaye
+  Aap ki amaanat ko zulmatoṅ mein kho aaye
+  Khun goshwaaroṅ ka aaṅsuoṅ se dho aaye
+  Yuṅ Sakina Bibi ko sab asir ro aaye
 
   7
-  Sab se juda ho kar jab madina jaauṅgi
-  Ja ke maa ki turbat par marsiya sunaauṅgi
-  Karbala ke maqtal mein kya huwa bataauṅgi
-  Bhai apne baazu ke neel bhi dikhaauṅgi
+  Sab se juda ho kar jab Madina jaauṅgi
+  Ja ke maaṅ ki turbat par marsiya sunaauṅgi
+  Karbala ke maqtal mein kya hua bataauṅgi
+  Bhai apne baazuoṅ ke nil bhi dikhaauṅgi
 
   8
-  Khud aseere qismat thi dar badar gayi zainab
-  Moo ko apne baalon se dhaamp kar gayi zainab
-  Majlise sitamgar mein nange sar gayi zainab
-  Le ke saath kunbe ko nauhagar gayi zainab
+  Khud asir-e-qismat thi dar badar gayi Zainab
+  Muṅh ko apne baaloṅ se dhaaṅp kar gayi Zainab
+  Majlis-e-sitamgar mein nange sar gayi Zainab
+  Le ke saath kunbe ko nauhagar gayi Zainab
 
   9
-  Aap se juda ho kar jab madina jaaungi
-  Jaa ke maa ki turbat par marsiya sunaungi
-  Karbala ke maqtal mein kya hua bataungi
-  Bhai apne baazu ke neel bhi dikhaungi
+  Aap se juda ho kar jab Madina jaauṅgi
+  Ja ke maaṅ ki turbat par marsiya sunaauṅgi
+  Karbala ke maqtal mein kya hua bataauṅgi
+  Bhai apne baazu ke nil bhi dikhaauṅgi
 
   10
-  Bhai ab Khuda haafiz qabr se chali zainab
-  Bin tere guza-regi kaise zindagi zainab
-  Uth gayi fareed aakhir keh ke ya ali zainab
-  Ranj o gham ki dunya mein phir se kho gayi zainab
+  Bhai ab Khuda haafiz qabr se chali Zainab
+  Bin tere guzaaregi kaise zindagi Zainab
+  Uth gayi Fareed aakhir keh ke Ya Ali Zainab
+  Ranj o gham ki dunya mein phir se kho gayi Zainab
 # source_id: nohayonline:a669b7999bb9a1524793
 # source_url: https://www.nohayonline.com/details_content.php?id=182
 # raw_sha256: c2f01e1b4a912db4c6b89bd74b46f85ecef2f2196c0cb86071224564a27b04c7
@@ -116,7 +116,7 @@ romanLyrics: |-
 بھائی قید خانے کی تیرگی سے ہو آئے
 آپ کی امانت کو ظلمتوں میں کھو آئے
 خون گوشواروں کا آنسوؤں سے دھو آئے
-یوں سکینہ بی بی کو سب اسیر رو آئے
+یوں سکینہ بی‌بی کو سب اسیر رو آئے
 
 ۷
 سب سے جدا ہو کر جب مدینہ جاؤں گی

@@ -12,37 +12,37 @@ aliases: []
 published: false
 romanLyrics: |-
   Arbaeen dasht-e-bala mein hai manaana Zainab
-  Maa se waada jo kiya tha wo nibhana zainab
+  Maaṅ se waada jo kiya tha wo nibhaana Zainab
 
   1
-  Muntazir tera hai ek saal se bhaiya zainab
-  Aisa bhai na mila hai na milega zainab
-  Aayi zehra ki sada ay meri dukhiya zainab
+  Muntazir tera hai ek saal se bhaiya Zainab
+  Aisa bhai na mila hai na milega Zainab
+  Aayi Zehra ki sada ae meri dukhiya Zainab
 
   2
-  Apni roodad shahe deen se sunana zainab
-  Guzri to tujhpe wo bhai se sunana zainab
-  Neel shaano ka bhi bhai ko dikhana zainab
+  Apni rudaad Shah-e-diṅ se sunaana Zainab
+  Guzri to tujh pe wo bhai se sunaana Zainab
+  Nil shaanoṅ ka bhi bhai ko dikhaana Zainab
 
   3
   Faatih-e-Khaibar o Khandaq ki dua hai Zainab
-  Qalbe zehra ke dhadakne ki sada hai zainab
-  Ro ke bhai se mera gham sunana zainab
+  Qalb-e-Zehra ke dharakne ki sada hai Zainab
+  Ro ke bhai se mera gham sunaana Zainab
 
   4
-  Jhoola khaali ali asghar ka wo jab dekhegi
-  Sughra asghar ko tere godh mein jab dhoondegi
-  Meri jaanib se usay dena dilaasa zainab
+  Jhula khaali Ali Asghar ka wo jab dekhegi
+  Sughra Asghar ko tere god mein jab dhuṅdegi
+  Meri jaanib se use dena dilaasa Zainab
 
   5
   Umm-e-Laila ke kaleje ko sambhaale rakhna
   Bewa dulhan ko bahar haal dilaasa dena
-  Roye kubra to usay tu hi manana zainab
+  Roye Kubra to use tu hi manaana Zainab
 
   6
-  Aisa sabir tha wo ek dono jahan mein iqbal
-  Bekasi roti thi sar peet ke tha uska wo haal
-  Qabr bete ka mere tu hi banana zainab
+  Aisa saabir tha wo ek donoṅ jahaaṅ mein Iqbal
+  Bekasi roti thi sar pit ke tha us ka haal
+  Qabr bete ka mere tu hi banaana Zainab
 # source_id: nohayonline:e18c989c43da47818064
 # source_url: https://www.nohayonline.com/details_content.php?id=3249
 # raw_sha256: 6beb7ca55ed954151a7b7b744fa259bc53c72b99e780c608d40bd59d261ae3cb
@@ -72,7 +72,7 @@ romanLyrics: |-
 
 ۵
 ام لیلیٰ کے کلیجے کو سنبھالے رکھنا
-بیوہ دلہن کو بحر حال دلاسہ دینا
+بیوہ دلہن کو بہر حال دلاسہ دینا
 روئے کبریٰ تو اسے تو ہی منانا زینب
 
 ۶
