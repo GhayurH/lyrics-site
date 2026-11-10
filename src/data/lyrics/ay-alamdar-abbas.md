@@ -1,58 +1,59 @@
 ---
 title: "اے علمدار علمدار علمدار عباس"
-alternateTitle: "Ay Alamdar Abbas"
+alternateTitle: "Ae Alamdaar Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay alamdar alamdar alamdar abbas
-  
+  Ae alamdaar alamdaar alamdaar Abbas
+
   1
-  Tune qurban dil o jaan kiye sarwar par
-  Bibi zehra ke pisar lakhte dile hyder par
-  Tu hi bhai tane tanha tha har ek lashkar par
-  Lashkar e shaam tha abbas teri thokar par
-  Tu bhi hai misle ali haq ka wali sher e khuda
-  
+  Tu ne qurbaaṅ dil o jaaṅ kiye Sarwar par
+  Bibi Zehra ke pisar lakht-e-dil-e-Haidar par
+  Tu hi bhaai tan-e-tanha tha har ek lashkar par
+  Lashkar-e-Shaam tha Abbas teri thokar par
+  Tu bhi hai misl-e-Ali haq ka wali sher-e-Khuda
+
   2
-  Tujhko beta kaha zahra ne sharaf tera hai
-  Karbala teri madina o najaf tera hai
-  Jo bhi dushman hai shahe deen ka hadaf tera hai
-  Khelna taygh se khanjar se shafaq tera hai
-  Hyderi waar hai abbas har ek waar tera
-  
+  Tujh ko beta kaha Zahra ne sharaf tera hai
+  Karbala teri Madina o Najaf tera hai
+  Jo bhi dushman hai Shaah-e-diṅ ka hadaf tera hai
+  Khelna tegh se khanjar se shafaq tera hai
+  Haidari waar hai Abbas har ek waar tera
+
   3
-  Sabr ke taaj ka ek saaya mein akkas hai tu
-  Kitne jasbon ka haseen paykar o ehsaas hai tu
-  Qaima e shah mein pyason ke liye aas hai tu
-  Naaz tujhpar hai shujaat ko ke abbas hai tu
-  Sahibe haq o yaqeen maalike tasleem o raza
-  
+  Sabr ke taaj ka ek saaya meiṅ akkaas hai tu
+  Kitne jazboṅ ka hasin paikar o ehsaas hai tu
+  Khaima-e-Shaah meiṅ pyaasoṅ ke liye aas hai tu
+  Naaz tujh par hai shujaaat ko ke Abbas hai tu
+  Saahib-e-haq o yaqiṅ maalik-e-taslim o raza
+
   4
-  Karbala kya hai wafaon ke samandar ke siwa
-  Sabr o eesaar hai kya ek tere paikar ke siwa
-  Deen e haq aur hai kya zarbate hyder ke siwa
-  Deen ki bunyad hai kya sajda e sarwar ke siwa
-  Quwwate baazu e shabbir rukhe haq ki riza
-  
+  Karbala kya hai wafaaoṅ ke samandar ke siwa
+  Sabr o isaar hai kya ek tere paikar ke siwa
+  Din-e-haq aur hai kya zarbat-e-Haidar ke siwa
+  Din ki bunyaad hai kya sajda-e-Sarwar ke siwa
+  Quwwat-e-baazu-e-Shabbir rukh-e-haq ki riza
+
   5
-  Raahe islam mein haaton ko kataya tune
-  Zulm jhela kabhi sar na jhukaya tune
-  Lafze bayyat ko zamane se mitaya tune
-  Parcham e deen e elaahi ko bachaya tune
-  Tujhpe qurban dil o jaan wafaon ke khuda
-  
+  Raah-e-Islam meiṅ haathoṅ ko kataaya tu ne
+  Zulm jhela kabhi sar na jhukaaya tu ne
+  Lafz-e-baiat ko zamaane se mitaaya tu ne
+  Parcham-e-din-e-ilaahi ko bachaaya tu ne
+  Tujh pe qurbaan dil o jaaṅ wafaaoṅ ke Khuda
+
   6
-  Aabroo pyas ki rakhli hai tere honton ne
-  Haath islam ko bakshe hai tere shano ne
-  Alam o mashk sambhala hai tere daaton ne
-  Haq ko zakmo se bachaya hai tere zakhmo ne
-  Goonjti nauhe mein hai akhtar o mohsin ki sada
+  Aabru pyaas ki rakh li hai tere hontoṅ ne
+  Haath Islam ko bakhshe haiṅ tere shaanoṅ ne
+  Alam o mashk sambhaala hai tere daantoṅ ne
+  Haq ko zakhmoṅ se bachaaya hai tere zakhmoṅ ne
+  Gunjti nauhe meiṅ hai Akhtar o Mohsin ki sada
 # source_id: nohayonline:b36827384ca1e6cf275b
 # source_url: https://www.nohayonline.com/details_content.php?id=686
 # raw_sha256: ff8c4d8fae59708ffc45b2cce5f445e8d915a9ffe5e40bae47e604a73577e726
@@ -61,8 +62,8 @@ romanLyrics: |-
 اے علمدار علمدار علمدار عباس
 
 ۱
-تُو نے قرباں دلو جاں کیئے سرور پر
-بی بی زہرا کے پسر لختِ دلِ حیدر پر
+تُو نے قرباں دل و جاں کیے سرور پر
+بی‌بی زہرا کے پسر لختِ دلِ حیدر پر
 تُو ہی بھائی تنِ تنہا تھا ہر اک لشکر پر
 لشکرِ شام تھا عباس تیری ٹھوکر پر
 تُو بھی ہے مثلِ علی حق کا ولی شیرِ خدا
@@ -77,15 +78,15 @@ romanLyrics: |-
 ۳
 صبر کے تاج کا اک سایا میں عکاس ہے تُو
 کتنے جذبوں کا حسین پیکر و احساس ہے تُو
-خیمئہ شاہ میں پیاسوں کے لیے آس ہے تُو
-ناز تجھ پر ہے شجاعت کو کے عباس ہے تُو
-صاحبِ حق و یقیںمالکِ تسلیم و رضا
+خیمۂ شاہ میں پیاسوں کے لیے آس ہے تُو
+ناز تجھ پر ہے شجاعت کو کہ عباس ہے تُو
+صاحبِ حق و یقیں مالکِ تسلیم و رضا
 
 ۴
-کربلا کیا ہے وفائوں کے سمندر کے سوا
+کربلا کیا ہے وفاؤں کے سمندر کے سوا
 صبر و ایثار ہے کیا ایک تیرے پیکر کے سوا
 دینِ حق اور ہے کیا ضربتِ حیدر کے سوا
-دین کی بنیاد ہے کیا سجدئہ سرور کے سوا
+دین کی بنیاد ہے کیا سجدۂ سرور کے سوا
 قوتِ بازوئے شبیر رُخِ حق کی رضا
 
 ۵
@@ -93,7 +94,7 @@ romanLyrics: |-
 ظلم جھیلا کبھی سر نہ جھُکایا تُو نے
 لفظِ بیعت کو زمانے سے مٹایا تُو نے
 پرچمِ دینِ الٰہی کو بچایا تُو نے
-تجھ پہ قربان دل و جاں وفائوں کے خدا
+تجھ پہ قربان دل و جاں وفاؤں کے خدا
 
 ۶
 آبرو پیاس کی رکھ لی ہے ہونٹوں نے
