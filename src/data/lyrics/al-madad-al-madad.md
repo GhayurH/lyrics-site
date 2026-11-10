@@ -12,9 +12,9 @@ published: false
 reciter: "Tableegh e Imamia"
 romanLyrics: |-
   Al madad al madad Ya Ali
+  Berida ho ke Zainab chali
 
   1
-  Berida ho ke Zainab chali
   Boli Zainab tarap kar ye haye
   Ghar hamare lain ne jalae
   Bekhata taziyane lagae
@@ -35,7 +35,7 @@ romanLyrics: |-
   3
   Jis ke Dada the Shah-e-Madina
   Jis ka takiya tha Sarwar ka sina
-  Dar badar hai wo bali Sakina
+  Dar badar hai wo baali Sakina
   Ab to dushwar hai us ka jina
   Kis se shikwa karuṅ kis ko awaz duṅ
   Koi sunta nahiṅ aah o zari
@@ -66,7 +66,7 @@ romanLyrics: |-
   Shair-e-Karbala hai tu Gohar
   Hai ye noha tera tere dil ki sada
   Koi bhi gham na hoga tujhe ab
-  Teri bakhshish ki zamin hai Zainab
+  Teri bakhshish ki zaamin hai Zainab
 # source_id: nohayonline:7f244be23932c11a6380
 # source_url: https://www.nohayonline.com/details_content.php?id=3440
 # raw_sha256: 99fd79825218e3da09d5b3df0c15425bdc16948c8cafbaca600ec3066ae49a54
@@ -75,9 +75,9 @@ romanLyrics: |-
 # raw_sha256: e759bb01a8de876a6abcecdcd59ed08afe0abefe5ebb75eb90fc9d3e954855a5
 ---
 المدد المدد یا علی
+بے ردا ہو کے زینب چلی
 
 ۱
-بے ردا ہو کے زینب چلی
 بولی زینب تڑپ کر یہ ہائے
 گھر ہمارے لعیں نے جلائے
 بے خطا تازیانے لگائے

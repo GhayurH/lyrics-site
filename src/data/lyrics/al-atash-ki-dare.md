@@ -20,7 +20,7 @@ romanLyrics: |-
   Garm ho ke jo sehra se hawa aane lagi
 
   2
-  Sun ke Abbas barhe ashkfishan su-e-Haram
+  Sun ke Abbas barhe ashk fishaṅ su-e-Haram
   Dekha bachchoṅ ki jo ye tashnalabi ka alam
   Khushk hontoṅ pe zabaṅ pher rahe the paiham
   Kaha Shahzadi Sakina ne ye ba-dida-e-nam
@@ -29,14 +29,14 @@ romanLyrics: |-
 
   3
   Aae Abbas jhukae hue sar Sheh ke qarib
-  Paaoṅ par sher ne rakh di Shah-e-Wala ki jabin
-  Jaag utha qalb-e-wafadar mein soz-e-yaqin
-  Arz ki ran ki raza do mujhe Ae Qibla-e-Din
+  Paaoṅ par sher ne rakh di Shah-e-Wala ki jabiṅ
+  Jaag utha qalb-e-wafadar mein phir soz-e-yaqiṅ
+  Arz ki ran ki raza do mujhe Ae Qibla-e-Diṅ
   Sheh ko Abbas ka israr-e-raza tha darpesh
   Ishq ko marhala-e-hijr-e-wafa tha darpesh
 
   4
-  Jab bali Sakina Aaqa al atash kehti hai
+  Jab baali Sakina Aaqa al atash kehti hai
   Tut jaata hai mere dil ka nagina Aaqa
   Ab to kuchh aur hi kehta hai qarina Aaqa
   Aap par saya-e-Sarkar-e-Madina Aaqa
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   6
   Jao bhai tumheṅ Allah o Nabi ko sauṅpa
-  Lo tumheṅ saya-e-daman-e-Ali ko sauṅpa
+  Lo tumheṅ saya-e-daaman-e-Ali ko sauṅpa
   Jo sabhi ka hai Khuda us ke Wali ko sauṅpa
   Yani tum jis ki amanat ho usi ko sauṅpa
   Hum to har haal mein haiṅ Sabir o Shakir Abbas
@@ -82,7 +82,7 @@ romanLyrics: |-
 ۳
 آئے عباس جھکائے ہوئے سر شہ کے قریب
 پاؤں پر شیر نے رکھ دی شاہِ والا کی جبیں
-جاگ اٹھا قلبِ وفادار میں سوزِ یقیں
+جاگ اٹھا قلبِ وفادار میں پھر سوزِ یقیں
 عرض کی رن کی رضا دو مجھے اے قبلۂ دیں
 شہ کو عباس کا اصرارِ رضا تھا درپیش
 عشق کو مرحلۂ ہجرِ وفا تھا درپیش
