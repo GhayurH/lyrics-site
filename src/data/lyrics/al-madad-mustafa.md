@@ -30,8 +30,8 @@ romanLyrics: |-
   3
   Log yuṅ mahw haiṅ fikr-e-dastar mein
   Jaise khami na koi kirdar mein
-  Asmaṅ zard hai gard hi gard hai
-  Admiyat hai masruf-e-aah o buka
+  Aasmaṅ zard hai gard hi gard hai
+  Aadmiyat hai masruf-e-aah o buka
 
   4
   Amn-e-insaniyat phir se mafqud hai

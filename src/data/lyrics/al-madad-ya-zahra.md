@@ -35,10 +35,10 @@ romanLyrics: |-
   4
   Hathkari haathoṅ mein hai aur beriyaṅ haiṅ paaoṅ mein
   Ab kahaṅ mohlat milegi baithne ki chhaoṅ mein
-  Shaam tak Sajjad ka kaṅtoṅ se hai bhara rasta
+  Shaam tak Sajjad ka kaantoṅ se hai bhara rasta
 
   5
-  Larkharate haiṅ qadam aur aankh mein aṅsu bhare
+  Larkharate haiṅ qadam aur aankh mein aansu bhare
   Marhala dushwar hoga ye Ruqayya ke liye
   Lasha-e-Abbas se guzregi kaise beparda
 
@@ -50,7 +50,7 @@ romanLyrics: |-
   7
   Berida Bint-e-Ali hai bekafan Ibn-e-Ali
   Shaam jae ya sambhale laash ko Shabbir ki
-  Kaṅpte hontoṅ pe ye Fizza ke istighasa tha
+  Kaanpte hontoṅ pe ye Fizza ke istighasa tha
 
   8
   Dasht mein Aun o Muhammad ki Takallum thi sada
