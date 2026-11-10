@@ -1,24 +1,25 @@
 ---
 title: "اب سکینہ میں دم کہاں اماں"
-alternateTitle: "Ab Sakina May Dam"
+alternateTitle: "Ab Sakina Mein Dam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilmi Afandi"
+reciter: "Mir Azhar Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ab Sakina mein dam kahan Amma
+  Ab Sakina mein dam kahaaṅ Amma
   Ab to khulwao resmaṅ Amma
 
   1
-  Kam ye zindan nahi hai turbat se
+  Kam ye zindaaṅ nahiṅ hai turbat se
   Maut behtar hai aisi dahshat se
   Dam ghuta ja raha hai wahshat se
-  Shama bhi to nahi hai qismat se
-  Kaisa tarik hai makan Amma
+  Shama bhi to nahiṅ hai qismat se
+  Kaisa taarik hai makaaṅ Amma
 
   2
   Kaan zakhmi kiye liye lo lo
@@ -60,7 +61,7 @@ romanLyrics: |-
   Qaidkhane mein kiuṅ na woh roe
   Woh juda hum se hum juda un se
   Karbala mein haiṅ Karbala wale
-  Kya kareṅ reh ke hum yahan Amma
+  Kya kareṅ reh ke hum yahaaṅ Amma
 
   8
   Baba le jaane aa gaye lijiye
@@ -74,8 +75,9 @@ romanLyrics: |-
   Ya Ali keh ke ghash hui maaṅ bhi
   Aa ke sab jama ho gaye qaidi
   Keh ke nadan ye mar gayi Hilmi
+  Ab to khulwao resmaṅ Amma
 # source_id: nohayonline:6e7bbf16fd06491f3857
-# editorial_uncertainty: Live original verified nine stanzas; last has four unique lines plus an omitted repeated refrain. Urdu stanza two first line and stanza five 'kad' remain ambiguous.
+# editorial_uncertainty: Archived HTML has nine stanzas; complete closing refrain retained. Stanza two first line and hukm/zulm disagreement, stanza five kad, stanza eight ghash se/mein, and closing Urdu/Roman wording require audio or print adjudication.
 # source_url: https://www.nohayonline.com/details_content.php?id=1911
 # raw_sha256: 7fa73f4c4a5b484618b562af5c75144cc39a2c59481dbb682503acd496e38bac
 ---
@@ -98,9 +100,9 @@ romanLyrics: |-
 
 ۳
 لوگ دیتے ہیں کیا یونہی پرسہ
-دونوں رخسار میرے دیکھیےء گا
-دیگا کتنی یتیم کو ایذا
-پوچھیےء شمر سے براے خدا
+دونوں رخسار میرے دیکھیے گا
+دے گا کتنی یتیم کو ایذا
+پوچھیے شمر سے برائے خدا
 کتنے کھاؤں میں سیلیاں اماں
 
 ۴
@@ -132,14 +134,15 @@ romanLyrics: |-
 کیا کریں رہ کے ہم یہاں اماں
 
 ۸
-بابا لے جانے آگےء لیجئے
-مجھکو اب قبلہ رو لٹا دیجیےء
+بابا لے جانے آ گئے لیجئے
+مجھ کو اب قبلہ رو لٹا دیجیے
 اتنی تکلیف اور بھی کیجئے
 پڑھنے یاسین ان سے کہہ دیجئے
 غش میں اٹھے جو بھائی جاں اماں
 
 ۹
 لی جو بچی نے موت کی ہچکی
-یا علی کہکے غش ہوی ماں بھی
+یا علی کہہ کے غش ہوئی ماں بھی
 آکے سب جمع ہوگئے قیدی
-کہکے نادان مرگیء حلمی
+کہہ کے نادان مر گئی حلمی
+اب تو کھلواؤ ریسماں اماں

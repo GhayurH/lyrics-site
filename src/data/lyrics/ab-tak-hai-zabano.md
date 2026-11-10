@@ -1,19 +1,20 @@
 ---
 title: "اے جان و دلِ حیدرِ کرار علمدار"
-alternateTitle: "Ab Tak Hai Zabano"
+alternateTitle: "Ab Tak Hai Zabaanoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
+reciter: "Jafer Kazmi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ae jaan o dil-e-Haider-e-Karrar Alamdar
-  Zinda hai jahan mein tere aasar Alamdar
+  Zinda hai jahaaṅ mein tere aasar Alamdar
   Mashk o alam ab bhi haiṅ khunbar Alamdar
-  Ab tak hai zabanoṅ pe Alamdar Alamdar
+  Ab tak hai zabaanoṅ pe Alamdar Alamdar
 
   1
   Lehreṅ abhi leta hai fiza mein tera parcham
@@ -32,7 +33,7 @@ romanLyrics: |-
 
   4
   Kya sina sipar mashk-e-Sakina ka raha tu
-  Ek tir na aane diya jab tak rahe baazu
+  Ik tir na aane diya jab tak rahe baazu
   Is shaan se chamki teri talwar Alamdar
 
   5
@@ -55,7 +56,7 @@ romanLyrics: |-
   Haaṅ ek nigah-e-lutf Yadullah ke jaaye
   Himmat hai diloṅ mein teri darkar Alamdar
 # source_id: nohayonline:d8ea04a9cbd2efe5166b
-# editorial_uncertainty: Live HTML verified eight three-verse stanzas. Corrected missing vocative Ae in Urdu title and nasal Roman; original stanza one and eight wording ambiguous.
+# editorial_uncertainty: Archived HTML confirms eight three-verse stanzas and abbreviated performance refrains. Stanzas one and eight wording remains uncertain; Urdu alam is misspelled الم in the source while Roman reads alam. Audio/print review remains necessary.
 # source_url: https://www.nohayonline.com/details_content.php?id=1089
 # raw_sha256: 1220531afb61931a76777633e89c73886a97a342cefcbbef434eae36a27a8ce3
 ---

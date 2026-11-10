@@ -1,18 +1,19 @@
 ---
 title: "عاشور کی شب بیٹی سے کہتے تھے یہ سرور"
-alternateTitle: "Ab Tera Bichona"
+alternateTitle: "Ab Tera Bichhona"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ashur ki shab beti se kehte the ye Sarwar
   Ab tera bichhona khaak hai Sakina
-  Kal nahi milega baap ka ye sina
+  Kal nahiṅ milega baap ka ye sina
 
   1
   Main ne mana garm ret par na so sakogi
@@ -22,7 +23,7 @@ romanLyrics: |-
   2
   Beshikasta ho ke bhi guzarni haiṅ raateṅ
   Yaad aaeṅgi hamare baad saari baateṅ
-  Yun tarap tarap ke ab tujhe hai jina
+  Yuṅ tarap tarap ke ab tujhe hai jina
 
   3
   Zindagi guzarni hai ab yatim ho kar
@@ -35,8 +36,8 @@ romanLyrics: |-
   Kya karogi us dam soch lo hazina
 
   5
-  Kal ka din rulaega tumhein bhi aur hamein bhi
-  Waqt aazmaega tumhein bhi aur hamein bhi
+  Kal ka din rulaega tumheiṅ bhi aur hameiṅ bhi
+  Waqt aazmaega tumheiṅ bhi aur hameiṅ bhi
   Sabr ka ye daman chhorna kabhi na
 
   6
@@ -59,7 +60,7 @@ romanLyrics: |-
   Baap ko Sakina bekasi se dekhti thi
   Shah keh rahe the alvida Sakina
 # source_id: nohayonline:978f4fbec19af5d1ac33
-# editorial_uncertainty: Source HTML verified nine three-verse stanzas; refrain repetition excluded. Original 'beshikasta' and stanza four 'hazina' require source/audio adjudication.
+# editorial_uncertainty: Archived HTML confirms nine three-verse stanzas with abbreviated performance refrains. Beshikasta, hazina, stanza six final wording and Urdu hai/Roman hain in stanza two require audio/print adjudication.
 # source_url: https://www.nohayonline.com/details_content.php?id=2647
 # raw_sha256: 950e34da5ec97aa679147fba39d59194f7093fb002196dc772cb1aef1c9f3e61
 ---
@@ -70,11 +71,11 @@ romanLyrics: |-
 ۱
 میں نے مانا گرم ریت پر نہ سو سکو گی
 کروٹیں بدل بدل کے رات بھر جگوگی
-یاد آییں گے ہم اور کبھی مدینہ
+یاد آئیں گے ہم اور کبھی مدینہ
 
 ۲
 بے شکستہ ہو کے بھی گزارنی ہے راتیں
-یاد آیینگی ہمارے بعد ساری باتیں
+یاد آئیں گی ہمارے بعد ساری باتیں
 یوں تڑپ تڑپ کے اب تجھے ہے جینا
 
 ۳
