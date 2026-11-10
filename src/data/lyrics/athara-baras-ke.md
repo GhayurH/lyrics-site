@@ -6,45 +6,46 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Ishrat Lakhnavi"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Akbar ka janaza
-  Athara baras ke ali akbar ka janaza
-  Sheh laate hai hamshakle Payambar ka janaza
+  Akbar ka janaaza
+  Athara baras ke Ali Akbar ka janaaza
+  Sheh laate haiṅ hamshakl-e-Payambar ka janaaza
   
   1
-  Ae kul ke madagaar madad karne ko aao
-  Shabbir se uthta nahi akbar ka janaza
+  Ae kul ke madadgaar madad karne ko aao
+  Shabbir se uthta nahiṅ Akbar ka janaaza
   
   2
   Khaime mein alam aaya hai kohraam hai barpa
-  Darya pe hai Abbas-e-Dilawar ka janaza
+  Darya pe hai Abbas-e-Dilaawar ka janaaza
   
   3
-  Is darja sakina se tha sharminda alamdar
-  Sheh laa na sake apne biradar ka janaza
+  Is darja Sakina se tha sharminda alamdaar
+  Sheh laa na sake apne biraadar ka janaaza
   
   4
-  Par jae na ya rab kahin zainab ki nigahein
-  Teeron pe hai rakha hua sarwar ka janaza
+  Par jaaye na ya Rab kahiṅ Zainab ki nigaaheṅ
+  Tiroṅ pe hai rakha hua Sarwar ka janaaza
   
   5
   Kya zulm hai tapti hui reti pe pada hai
-  Be gor o kafan Sibt-e Payambar ka janaza
+  Be gor o kafan Sibt-e-Payambar ka janaaza
   
   6
-  Bano ne kaha teer hai paywast badan mein
-  Dheere se uthana mere shauhar ka janaza
+  Bano ne kaha tir hai paiwast badan mein
+  Dhire se uthaana mere shauhar ka janaaza
   
   7
-  Pamaal hua dasht mein ghodon ke sumon se
-  Kis tarha uthay Qasim-e-Muztar ka janaza
+  Paamaal hua dasht mein ghoroṅ ki sumoṅ se
+  Kis tarah uthe Qasim-e-Muztar ka janaaza
   
   8
-  Zainab zara bano ke kaleje ko sambhalo
-  Shabbir ke hathoṅ pe hai asghar ka janaza
+  Zainab zara Bano ke kaleje ko sambhaalo
+  Shabbir ke haathoṅ pe hai Asghar ka janaaza
 # source_id: nohayonline:4a4ad555ad7767473df0
 # source_url: https://www.nohayonline.com/details_content.php?id=392
 # raw_sha256: 791442a11eeea288cadaddd1193e77966137241b71071c101606c03e4343f33e
@@ -75,7 +76,7 @@ romanLyrics: |-
 
 ۵
 کیا ظلم ہے تپتی ہوئی ریتی پہ پڑا ہے
-بے گورو کفن سبط پیمبر کا جنازہ
+بے گور و کفن سبط پیمبر کا جنازہ
 
 ۶
 بانو نے کہا تیر ہے پیوست بدن میں

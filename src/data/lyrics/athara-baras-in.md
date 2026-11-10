@@ -6,93 +6,94 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Marne ki ijaazat jab maangi
-  Akbar ne to ye sarwar ne kaha
+  Akbar ne to ye Sarwar ne kaha
   Zainab se ijaazat lo beta
   Tum par hai zyada haq us ka
-  Khaime mein phuphi amma ke jab
+  Khaime mein phuphi ammaṅ ke jab
   Athara baras wala pahuncha
-  Maangi jo ijaazat akbar ne
+  Maangi jo ijaazat Akbar ne
   Zainab ne pukara ae beta
 
-  Athara baras tum ko in haathon se paala hai
-  Mai kaise kahun akbar marne ke liye jao
+  Athara baras tum ko in haathoṅ se paala hai
+  Main kaise kahuṅ Akbar marne ke liye jaao
 
   1
-  Akbar tujhe dekhun to chalti hai meri saansein
-  Kis tarha se tujhe zakhmi dekhengi meri aankhein
-  Mere gul badan mere naujawan
-  Kaleje mein jab lagegi sina
+  Akbar tujhe dekhuṅ to chalti haiṅ meri saanseṅ
+  Kis tarah tujhe zakhmi dekheṅgi meri aankheṅ
+  Mere gul badan mere naujawaaṅ
+  Kaleje mein jab lagegi sinaṅ
   Meri jaan tum na seh paoge
-  Tumhe kis tarha sambhalegi maa
-  Maloom hai zainab ko nazuk tera seena hai
+  Tumheṅ kis tarah sambhaalegi maaṅ
+  Malum hai Zainab ko naazuk tera sina hai
 
   2
-  Ek baar zara apne baba ki taraf dekho
-  Kis tarha uthayenge wo tere janaze ko
+  Ek baar zara apne baaba ki taraf dekho
+  Kis tarah uthaaeṅge wo tere janaaze ko
   Ajab haal hai kamar mein hai kham
-  Hai abbas ki judaai ka gham
-  Ghareeb ul watan bahot thak chuka
-  Zaeefi bhi hai nazar bhi hai kam
+  Hai Abbas ki judaai ka gham
+  Gharib ul watan bahot thak chuka
+  Zaifi bhi hai nazar bhi hai kam
   Ae laal mera bhai seh roz ka pyasa hai
 
   3
-  Main palne wali huṅ itna to mera haq hai
-  Socha tha ke aik din main jab jaungi dunya se
+  Main paalne waali huṅ itna to mera haq hai
+  Socha tha ke ek din main jab jaauṅgi dunya se
   Lehad mein mujhe utaarega tu
-  Ye armaan hai yehi aarzoo
+  Ye armaan hai yehi aarzu
   Rahe tu sada mere saamne
-  Ruke saans bhi tere roo baroo
-  Ae laal abhi mera armaan adhoora hai
+  Ruke saans bhi tere ru baru
+  Ae laal abhi mera armaan adhura hai
 
   4
-  Jab pehle pehel tujhko haathon pe uthaya tha
+  Jab pehle pehel tujhko haathoṅ pe uthaaya tha
   Ye kehte huwe maine seene se lagaya tha
   Meri zindagi mere laadle
   Kisi ki tujhe nazar na lage
   Tujhe dekhne ko bechain thi
-  Sukoon mil gaya tujhe dekh ke
-  Tu aankhon ka taara hai tu raaj dulara hai
+  Sukuṅ mil gaya tujhe dekh ke
+  Tu aankhoṅ ka taara hai tu raaj dulaara hai
 
   5
-  Sughra se kiya waada kya yaad nahi akbar
-  Bemaar madine mein mar jaye na ro ro kar
+  Sughra se kiya waada kya yaad nahiṅ Akbar
+  Bimaar Madine mein mar jaaye na ro ro kar
   Usay aas hai ke aaoge tum
   Jo waada kiya nibhaoge tum
-  Sakina se wo bahot door hai
+  Sakina se wo bahot dur hai
   Behan se usay milaoge tum
-  Beta tumhe Sughra se wo waada nibhana hai
+  Beta tumheṅ Sughra se wo waada nibhaana hai
 
   6
-  Akbar teri shadi ka armaan hai bahot hum ko
-  Hum seh nahi payenge ae laal tere gham ko
-  Jabeen par teri jo sehra bandhe
+  Akbar teri shaadi ka armaaṅ hai bahot hum ko
+  Hum seh nahiṅ paaeṅge ae laal tere gham ko
+  Jabiṅ par teri jo sehra bandhe
   Tamanna hai wo phuphi dekhle
-  Dulhan ko teri sajaungi main
-  Ae mere haseen jawan laadle
+  Dulhan ko teri sajaauṅgi main
+  Ae mere hasiṅ jawaaṅ laadle
   Zainab ne abhi tujhko dulha bhi banana hai
 
   7
-  Ye kehne lage akbar zainab ki sada sun ke
-  Afzal to nahi amma main dilbar-e zahra se
-  Akele hai wo nahi hai koi
-  Musibat mein hai zaroorat meri
-  Nazar kis tarha milaunga main
+  Ye kehne lage Akbar Zainab ki sada sun ke
+  Afzal to nahiṅ ammaṅ main dilbar-e-Zahra se
+  Akele haiṅ wo nahiṅ hai koi
+  Musibat mein hai zarurat meri
+  Nazar kis tarah milaauṅga main
   Agar aap ne ijaazat na di
-  Kiun aap ke honton pe is waqt ye nauha hai
+  Kiuṅ aap ke hoṅtoṅ pe is waqt ye nauha hai
 
   8
-  Akbar ki sada sun kar zainab ne ijaazat di
-  Ruqsat jo huwe akbar kaisi wo qayamat thi
-  Duayein khuda se karti thi wo
-  Mere laal ki khuda khair ho
-  Kaha ya ali madad kijiye
-  Main rukhsat karun jawan laal ko
-  Zeeshan o raza phir na zainab ne pukara hai
+  Akbar ki sada sun kar Zainab ne ijaazat di
+  Rukhsat jo huwe Akbar kaisi wo qayaamat thi
+  Duaaeṅ Khuda se karti thi wo
+  Mere laal ki Khuda khair ho
+  Kaha ya Ali madad kijiye
+  Main rukhsat karuṅ jawaaṅ laal ko
+  Zeeshan o Raza phir na Zainab ne pukaara hai
 # source_id: nohayonline:ae2017508d7ddfe2d3af
 # source_url: https://www.nohayonline.com/details_content.php?id=2395
 # raw_sha256: 085b449a638c1975654a5479bbbe01b89b0484f8d857c3265290a39fc57a2a81
@@ -111,12 +112,12 @@ romanLyrics: |-
 میں کیسے کہوں اکبر مرنے کے لئے جاؤ
 
 ۱
-اکبر تجہے دیکھوں تو چلتی ہیں میری سانسیں
-کس طرح تجہے زخمی دیکھینگی میری آنکھیں
+اکبر تجھے دیکھوں تو چلتی ہیں میری سانسیں
+کس طرح تجھے زخمی دیکھیں گی میری آنکھیں
 میرے گل بدن میرے نوجواں
-کلیجے میں جب لگیگی سناں
+کلیجے میں جب لگے گی سناں
 میری جان تم نا سہ پاؤگے
-تمہیں کس طرح سمبھالیگی ماں
+تمہیں کس طرح سنبھالے گی ماں
 معلوم ہے زینب کو نازک تیرا سینہ ہے
 
 ۲
@@ -131,7 +132,7 @@ romanLyrics: |-
 ۳
 میں پالنے والی ہوں اتنا تو میرا حق ہے
 سوچا تھا کے اک دن میں جب جاؤنگی دنیا سے
-لحد میں مجہے اُتارےگا تو
+لحد میں مجھے اُتارے گا تو
 یہ ارمان ہے یہی آرزو
 رہے تو سدا میرے سامنے
 رُکے سانس بھی تیرے رو برو
@@ -141,9 +142,9 @@ romanLyrics: |-
 جب پہلے پہل تجھکو ہاتھوں پہ اُٹھایا تھا
 یہ کہتے ہوئے میں نے سینے سے لگایا تھا
 میری زندگی میرے لاڈلے
-کسی کی تجہے نظر نہ لگے
-تجہے دیکھنے کو بےچین تھی
-سکوں مل گیا تجہے دیکھ کے
+کسی کی تجھے نظر نہ لگے
+تجھے دیکھنے کو بےچین تھی
+سکوں مل گیا تجھے دیکھ کے
 تو آنکھوں کا تارا ہے تو راج دلارا ہے
 
 ۵
@@ -158,7 +159,7 @@ romanLyrics: |-
 ۶
 اکبر تیری شادی کا ارماں ہے بہت ہم کو
 ہم سہ نہیں پائینگے اے لال تیرے غم کو
-جبیں پر تیری جو سہرا بندہے
+جبیں پر تیری جو سہرا بندھے
 تمنا ہے وہ پھوپی دیکھلے
 دلہن کو تیری سجاؤنگی میں
 اے میرے حسیں جواں لاڈلے
