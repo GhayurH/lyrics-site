@@ -6,78 +6,79 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+reciter: "Safdar Abbas"
+tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad ki aankhon mein sughra
+  Sajjad ki aankhoṅ mein Sughra
   Ashoor ka manzar dekhegi
-  Lutte huwe apni aankhon se
+  Lutte hue apni aankhoṅ se
   Zehra ka bhara ghar dekhegi
 
   1
-  Wo lamha nazar aayega usay
-  Khaime se chale thay jab akbar
-  Kuch der lade phir zakhmi huwe
-  Ghore se gire thay jab akbar
-  Phat jayega seena sadme se
-  Jab seena e akbar dekhegi
+  Wo lamha nazar aayega use
+  Khaime se chale the jab Akbar
+  Kuchh der lare phir zakhmi hue
+  Ghore se gire the jab Akbar
+  Phat jaayega sina sadme se
+  Jab sina-e-Akbar dekhegi
 
   2
-  Jab chashme baradar mein usko
-  Aayega nazar ghazi ka alam
-  Chehre pe sukoon aa jayega
-  Kuch der mein kam ho jayega gham
-  Do baazu unhi aankhon mein phir
-  Wo jalti zameen par dekhegi
+  Jab chashm-e-baraadar mein us ko
+  Aayega nazar Ghazi ka alam
+  Chehre pe sukuṅ aa jaayega
+  Kuchh der mein kam ho jaayega gham
+  Do baazu unheiṅ aankhoṅ mein phir
+  Wo jalti zamiṅ par dekhegi
 
   3
   Jab baap ke kaandhe par ghatri
-  Dekhi to khayaal aaye honge
+  Dekhi to khayaal aaye hoṅge
   Sughra ne kaha hoga dil mein
-  Qasim ki bari laaye honge
-  Jab ghatri khulegi to sughra
-  Tukdon mein gul e tar dekhegi
+  Qasim ki bari laaye hoṅge
+  Jab ghatri khulegi to Sughra
+  Tukroṅ mein gul-e-tar dekhegi
 
   4
-  Asghar ko un aankhon mein har soo
-  Dhoondegi bohat bemaar behen
-  Shabbir ke hathon pe ek dam
+  Asghar ko un aankhoṅ mein har su
+  Dhundegi bohat bimaar behen
+  Shabbir ke haathoṅ pe ek dam
   Aayega nazar wo tashna dahan
-  Ek teer chalega us dil par
-  Jab teer gale par dekhegi
+  Ek tir chalega us dil par
+  Jab tir gale par dekhegi
 
   5
-  Hai dhoop mein turbat asghar ki
-  Do laashein qarib-e darya hai
-  Samjhegi nahi kuch der talak
+  Hai dhup mein turbat Asghar ki
+  Do laasheiṅ qarib-e-darya hai
+  Samjhegi nahiṅ kuchh der talak
   Ke dasht mein baba tanha hai
   Royegi bohat aur samjhegi
   Jab laashe bahattar dekhegi
 
   6
-  Zainab na sunane payegi
+  Zainab na sunaane paayegi
   Shabbir ki ghurbat ka qissa
-  Dekhegi nighaon mein phir se
+  Dekhegi nigaahoṅ mein phir se
   Baba ke saath hua kya tha
-  Tootegi qayamat sughra par
+  Tutegi qayaamat Sughra par
   Jab halq pe khanjar dekhegi
 
   7
-  Jab shaam e ghariban dekhegi
-  Be-aas haram aur aag dhuaan
-  Dil thaam ke apne haathon se
-  Bemaar karegi aah o fughan
-  Rukhsar sakina ke zakhmi
-  Aur naizon pe chadar dekhegi
+  Jab shaam-e-gharibaaṅ dekhegi
+  Beaas haram aur aag dhuaaṅ
+  Dil thaam ke apne haathoṅ se
+  Bimaar karegi aah o fughaaṅ
+  Rukhsaar Sakina ke zakhmi
+  Aur naizoṅ pe chaadar dekhegi
 
   8
-  Bas safdar o mazhar khatm karo
-  Roodad e sitam ko ye keh kar
-  Sajjad ki aankhein band hui
+  Bas Safdar o Mazhar khatm karo
+  Rudaad-e-sitam ko ye keh kar
+  Sajjad ki aankheiṅ band huiṅ
   Aur bain yehi aaye lab par
-  Mar jayegi gham se jab khwahar
-  Bazaar ka manzar dekhegi
+  Mar jaayegi gham se jab khwaahar
+  Baazaar ka manzar dekhegi
 # source_id: nohayonline:a4be94b94ece1db78bcc
 # source_url: https://www.nohayonline.com/details_content.php?id=3743
 # raw_sha256: b91b06fe57ce930ccbbb5bdcc02c78ef3ecec7b5633319cd13ea3b5f146d9264

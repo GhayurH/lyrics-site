@@ -6,55 +6,56 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ansar"
-tags: ["noImage"]
+reciter: "Nasir Zaidi"
+tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaja asghar aaja aaja asghar aaja
-  Ashoor ka jab suraj dooba
-  Bano ko asghar yaad aaya
-  Jab ban mein andhera chaane laga
-  Bano ko asghar yaad aaya
+  Aaja Asghar aaja aaja Asghar aaja
+  Ashoor ka jab suraj duba
+  Bano ko Asghar yaad aaya
+  Jab ban mein andhera chhaane laga
+  Bano ko Asghar yaad aaya
 
   1
-  Sholon ki zad par khaime thay
-  Armaan bhi maa ke jalne lage
-  Jis waqt jala nanha jhoola
+  Sholoṅ ki zad par khaime the
+  Armaan bhi maaṅ ke jalne lage
+  Jis waqt jala nanha jhula
 
   2
-  Chhe maah ka uska sin lekin
-  Abbas tha maa ki nazron mein
-  Zainab ki chini jab sar se rida
+  Chhe maah ka us ka sin lekin
+  Abbas tha maaṅ ki nazroṅ mein
+  Zainab ki chhini jab sar se rida
 
   3
   Dil thaam ke khaak pe baith gayi
-  Ashkon ki rawani aur badi
-  Pani ka jab bhi zikr hua
+  Ashkoṅ ki rawaani aur bari
+  Paani ka jab bhi zikr hua
 
   4
-  Dauran-e-safar is bibi ki
-  Lori ki sada nohay mein dhali
-  Dekha jo koi bacha hasta
+  Dauraan-e-safar is Bibi ki
+  Lori ki sada nohe mein dhali
+  Dekha jo koi bachcha hansta
 
   5
-  Ashoor ke baad azadari
+  Ashoor ke baad azaadaari
   Bas karti rahi wo bete ki
   Har gaam pe har din har lamha
 
   6
-  Beemar ne apne bhai ki
-  Poshak bana ke rakhi thi
-  Royi jo madine mein sughra
+  Bimaar ne apne bhai ki
+  Poshaak bana ke rakhi thi
+  Royi jo Madine mein Sughra
 
   7
   Pehlu ko takti rehti thi
-  Raaton ko uth kar roti thi
-  Zindan gayi jab Aal-e-Aba
+  Raatoṅ ko uth kar roti thi
+  Zindaan gayi jab Aal-e-Aba
 
   8
-  Ansar ye qayamat kaisi thi
-  Veeran hui godhi iski
-  Dunya mein bicha jab farsh e aza
+  Ansar ye qayaamat kaisi thi
+  Viraan hui godi is ki
+  Dunya mein bichha jab farsh-e-aza
 # source_id: nohayonline:f77f4717ceeb008fcb70
 # source_url: https://www.nohayonline.com/details_content.php?id=1885
 # raw_sha256: f8d0041307e1c4aae578df5adfd46ce89741ac1e64f923d190f9aa061a1da9bf
@@ -82,7 +83,7 @@ romanLyrics: |-
 پانی کا جب بھی ذکر ہوا
 
 ۴
-دورانِ سفر اس بی بی کی
+دورانِ سفر اس بی‌بی کی
 لوری کی صدا نوحے میں ڈھلی
 دیکھا جو کوئی بچہ ہنستا
 
@@ -94,7 +95,7 @@ romanLyrics: |-
 ۶
 بیمار نے اپنے بھائی کی
 پوشاک بنا کے رکھی تھی
-روی جو مدینے میں صغریٰ
+روئی جو مدینے میں صغریٰ
 
 ۷
 پہلو کو تکتی رہتی تھی
