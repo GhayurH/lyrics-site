@@ -22,8 +22,8 @@ romanLyrics: |-
   Kate bazu chhide sina Alamdar-e-Wafa Ghazi
 
   2
-  Alam se jo hawa aae shifa baṅte qaza tale
-  Pharera jab bhi lehrae muhibboṅ ki bala tale
+  Alam se jo hawa aae shifa baante qaza taale
+  Pharera jab bhi lehrae muhibboṅ ki bala taale
   Nahiṅ koi tabib aisa Alamdar-e-Wafa Ghazi
 
   3

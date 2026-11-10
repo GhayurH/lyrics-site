@@ -15,7 +15,7 @@ romanLyrics: |-
   Mere Ghazi ke muqabil ho ye dam kis ka hai
 
   1
-  Zamin wale use tute diloṅ ki aas kehte haiṅ
+  Zamiṅ wale use tute diloṅ ki aas kehte haiṅ
   Shariat mein use Sadat ka ehsan kehte haiṅ
   Karam sabr o raza ki saltanat ka naam hai Shabbir
   Wafa ki aakhri sarhad ko hum Abbas kehte haiṅ
@@ -25,7 +25,7 @@ romanLyrics: |-
   Sardar-e-Fatima Zehra pe ye kham kis ka hai
 
   3
-  Hurr ne ek pal mein shifaat ki sanad pai hai
+  Hurr ne ik pal mein shifaat ki sanad pai hai
   Shab-e-Ashur ye andaz-e-karam kis ka hai
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Abhi to Bagh-e-Fidak ka hisab hona hai
 
   5
-  Tum ye kehte ho Fidak haq hai Nabizadi ka
+  Tum ye kehte ho Fidak haq hai Nabi zaadi ka
   Hum ye kehte haiṅ Arab aur Ajam kis ka hai
 
   6

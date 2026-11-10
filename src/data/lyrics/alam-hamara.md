@@ -1,5 +1,5 @@
 ---
-title: "کتنے زمانے گزر گےء"
+title: "کتنے زمانے گزر گئے"
 alternateTitle: "Alam Hamara"
 language: "Urdu"
 lang: "ur"
@@ -22,31 +22,31 @@ romanLyrics: |-
   Ke is alam ki bulandiyoṅ par
   Janab-e-Zehra ki hai dua
   Alam hamara rahega uncha
-  Sitam ki lakhoṅ chale hawaeṅ
+  Sitam ki lakhoṅ chaleṅ hawaeṅ
 
   2
-  Isi alam par murad maṅge
-  Tamam alam ke saath hum bhi
+  Isi alam par murad maangeṅ
+  Tamam aalam ke saath hum bhi
   Hai is alam ki qayadatoṅ mein
   Husainiyat bhi julus-e-gham bhi
-  Hum is alam se hi maṅgte haiṅ
+  Hum is alam se hi maangte haiṅ
   Dawa sifarish aur wafaeṅ
 
   3
-  Ise wasile bana ke maṅgo
-  Jo maṅgo Parwardigar dega
-  Jo is ke sae mein saṅs lega
-  Ye us ki nasleṅ saṅwar dega
+  Ise wasila bana ke maango
+  Jo maango Parwardigar dega
+  Jo is ke sae mein saans lega
+  Ye us ki nasleṅ sanwar dega
   Jab is pe saya hai Sayyeda ka
-  To is ke sae mein kiun na jae
+  To is ke sae mein kiuṅ na jaeṅ
 
   4
   Husain karte the naaz jis par
   Usi Masiha ka ye alam hai
-  Jo maut tale nazar utha kar
+  Jo maut taale nazar utha kar
   Usi Masiha ka ye alam hai
-  To kiun na phir is alam ko ghar ghar
-  Uthae bete sajae maeṅ
+  To kiuṅ na phir is alam ko ghar ghar
+  Uthaeṅ bete sajaeṅ maaeṅ
 
   5
   Jahaṅ pe Abbas ka alam ho
@@ -54,14 +54,14 @@ romanLyrics: |-
   Alam uthate hi jaan loge
   Ke maut kya aur dawam kya hai
   Hayat taqsim karti jae
-  Alam jo chhu kar chali hawaeṅ
+  Alam jo chhu kar chaleṅ hawaeṅ
 
   6
   Hamari izzat hasham hamara
   Azimtar hai alam hamara
   Rakhega dunya o aakhirat mein
   Qasam Khuda ki bharam hamara
-  Kareṅge raij hum ek nara
+  Kareṅge raij hum ik nara
   Alam uthaeṅ najat paeṅ
 
   7
@@ -70,7 +70,7 @@ romanLyrics: |-
   Alam ye jis ne lagaya ghar par
   Na hoga mohtaj wo kisi ka
   Hamare dawe pe jin ko shak ho
-  Wo aa ke qismat ko aazmae
+  Wo aa ke qismat ko aazmaeṅ
 # source_id: nohayonline:4153c3bfd7e8e35cdf1a
 # source_url: https://www.nohayonline.com/details_content.php?id=2283
 # raw_sha256: 15236ad157b7519c9c5ee871e7f4049a1ff2ed7c3a1fceaf1a48505f72077cd0
