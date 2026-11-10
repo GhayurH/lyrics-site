@@ -6,43 +6,44 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahsan Zaidi"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sar jo cheh maah ke baysheer ka naize pe chada
-  Nok e naiza se ye asghar ki sada aane lagi
+  Sar jo chhe maah ke beshir ka naize pe charha
+  Nok-e-naiza se ye Asghar ki sada aane lagi
 
-  Badan se nok e naiza tak mera sar aa gaya amma
-  Tera asghar bhi ek akbar ke barabar aa gaya amma
+  Badan se nok-e-naiza tak mera sar aa gaya ammaṅ
+  Tera Asghar bhi ek Akbar ke barabar aa gaya ammaṅ
 
   1
-  Galay par teer khaaye chain se soya hua tha mai
-  Achanak qabr may naiza utar kar aa gaya amma
+  Gale par tir khaaye chain se soya hua tha main
+  Achanak qabr meiṅ naiza utar kar aa gaya ammaṅ
 
   2
-  Hai kuch teer o sina par aur kuch baba ke chehre par
-  Badan may khoon jitna tha wo baahar aa gaya amma
+  Hai kuch tir o sinaṅ par aur kuch baba ke chehre par
+  Badan meiṅ khun jitna tha wo baahar aa gaya ammaṅ
 
   3
-  Bataye aap ne ye raakh jo pehlu may baandhi hai
-  Mera jhoola bhi kya sholon ki zad par aa gaya amma
+  Bataayeṅ aap ne ye raakh jo pehlu meiṅ baandhi hai
+  Mera jhula bhi kya sholoṅ ki zad par aa gaya ammaṅ
 
   4
-  Sar e bazaar us lamhe bhi tumko sabr karna hai
-  Mere sar ki taraf koi jo pathar aa gaya amma
+  Sar-e-bazaar us lamhe bhi tum ko sabr karna hai
+  Mere sar ki taraf koi jo patthar aa gaya ammaṅ
 
   5
-  Bhala tum meri masooma behen ko kya batati ho
-  Sakina poochti hogi ke asghar aa gaya amma
+  Bhala tum meri masuma behan ko kya batati ho
+  Sakina puchhti hogi ke Asghar aa gaya ammaṅ
 
   6
-  Mera khoon may bhara kurta liye yasrab chali jaana
-  Samajh lena tumhare saath mai ghar aa gaya amma
+  Mera khuṅ meiṅ bhara kurta liye Yasrab chali jaana
+  Samajh lena tumhare saath main ghar meiṅ aa gaya ammaṅ
 
   7
-  Ba roze hashr ahsan bas yehi sun'ne ki hasrat
-  Ali asghar kahe mera sukhanwar aa gaya amma
+  Ba-roz-e-hashr Ahsan bas yehi sunne ki hasrat hai
+  Ali Asghar kaheiṅ mera sukhanwar aa gaya ammaṅ
 # source_id: nohayonline:26391a59b50342437195
 # source_url: https://www.nohayonline.com/details_content.php?id=1629
 # raw_sha256: 197136ba697296571bbde4aee15ee9b3bfa3493190de2f0be743630aef337835

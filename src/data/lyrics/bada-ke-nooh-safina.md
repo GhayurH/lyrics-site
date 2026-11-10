@@ -6,58 +6,59 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bada ke nooh safeena ali ali bole
-  Saleeb par dil e eesa ali ali bole
-  Kaleja pooch le dunya ali ali bole
+  Bada ke Nuh safina Ali Ali bole
+  Salib par dil-e-Isa Ali Ali bole
+  Kaleja puchh le duniya Ali Ali bole
 
   1
-  Murraqqa khaynch le ye hikmat e qalam to nahi
-  Jihad e aun o mohamad kisi se kam to nahi
-  Har ek taygh ka qabza ali ali bole
+  Murraqqa khaynch le ye hikmat-e-qalam to nahiṅ
+  Jihad-e-Aun o Muhammad kisi se kam to nahiṅ
+  Har ek tegh ka qabza Ali Ali bole
 
   2
-  Hisar e naad e ali har taraf kiye hai rasool
-  Alam ko deen ke khyber mein yun liye hai rasool
-  Alam ka udta pharera ali ali bole
+  Hisar-e-Naad-e-Ali har taraf kiye haiṅ Rasul
+  Alam ko din ke Khaibar meiṅ yuṅ liye haiṅ Rasul
+  Alam ka urta pharera Ali Ali bole
 
   3
-  Fazeelat e alawi ke diye jalaye hue
-  Falak se utra hai apni jabeen jhukaye hue
-  Dar e ali par sitara ali ali bole
+  Fazilat-e-Alawi ke diye jalaye hue
+  Falak se utra hai apni jabiṅ jhukaye hue
+  Dar-e-Ali par sitara Ali Ali bole
 
   4
-  Ladaayi hazrat e abbas ki khuda ki panaah
-  Wo khoon hai sar e saahil ke kaampti hai nigaah
-  Lahoo mein doobta naiza ali ali bole
+  Larai Hazrat-e-Abbas ki Khuda ki panaah
+  Wo khun hai sar-e-saahil ke kaanpti hai nigaah
+  Lahu meiṅ dubta naiza Ali Ali bole
 
   5
-  Kanara chod diya khauf kha ke darya ne
-  Ajeeb shaan se hamla kiya hai saqqa ne
-  Alam ka kaampta panja ali ali bole
+  Kinara chhor diya khauf kha ke darya ne
+  Ajib shaan se hamla kiya hai saqqa ne
+  Alam ka kaanpta panja Ali Ali bole
 
   6
-  Hili hussain ke hamlon se kufr ki bunyad
-  Ghuroor e kufr ke lab par hai naala o faryad
-  Uthaye taygh to dunya ali ali bole
+  Hili Husain ke hamloṅ se kufr ki bunyad
+  Ghurur-e-kufr ke lab par hai naala o faryad
+  Uthaye tegh to duniya Ali Ali bole
 
   7
-  Khamoshiyon ki haqeeqat hamari samjhi hai
-  Behan hussain ki zainab ali ki beti hai
-  Zaban khole to lehja ali ali bole
+  Khamoshiyoṅ ki haqiqat hamari samjhi hai
+  Behan Husain ki Zainab Ali ki beti hai
+  Zaban khole to lehja Ali Ali bole
 
   8
-  Ani to khaych li barchi ki qalb e akbar se
-  Qadam sambhaalna mushkil hai ran mein sarwar se
-  Dhadak dhadak ke kaleja ali ali bole
+  Ani to khench li barchhi ki qalb-e-Akbar se
+  Qadam sambhaalna mushkil hai ran meiṅ Sarwar se
+  Dharak dharak ke kaleja Ali Ali bole
 
   9
-  Rawan hai madham e mahir qalam ba-faiz e ali
-  Ubal rahe hai mazameene gham ba-faiz e ali
-  Hamare qalb ka dhaara ali ali bole
+  Rawaṅ hai madham-e-Mahir qalam ba-faiz-e-Ali
+  Ubal rahe haiṅ mazamin-e-gham ba-faiz-e-Ali
+  Hamare qalb ka dhaara Ali Ali bole
 # source_id: nohayonline:07c63cc0f1b9f882eb2d
 # source_url: https://www.nohayonline.com/details_content.php?id=1204
 # raw_sha256: 4b65d7b37bcd88638a51152ffc209203cd8d907c137d7e927222269d1430a33a
