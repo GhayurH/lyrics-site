@@ -11,59 +11,59 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dekha jo dashte khooni mein zehera ke chain ne
-  Faryaad amma zehra se yun ki hussain ne
-  Akbar asghar qasim ghazi saare chale gaye
-  Amma kise bulaye hussain
+  Dekha jo dasht-e-khuni mein Zehra ke chain ne
+  Faryaad amma Zehra se yuṅ ki Husain ne
+  Akbar Asghar Qasim Ghazi saare chale gaye
+  Amma kise bulaaye Husain
 
   1
-  Mehmab bula ke ummat ne dil ka sukoon loota hai
-  Naiza sitam ka ay amma seene mein mere toota hai
-  Toofan aasuon ka hai saahil bhi mujhse rootha hai
+  Mehmaṅ bula ke ummat ne dil ka sukun luta hai
+  Naiza sitam ka ae amma sine mein mere tuta hai
+  Tufaan aaṅsuoṅ ka hai saahil abhi mujh se rutha hai
 
   2
-  Maanga duaon mein jisko usko bhi kho chuka hoo mai
-  Kadiyal jawan ke laashe par maqtal mein ro chuka hoo mai
-  Beenayi kho chuka hoo mai barbaad ho chuka hoo mai
+  Maaṅga duaaoṅ mein jis ko us ko bhi kho chuka huṅ main
+  Karyal jawaaṅ ke laashe par maqtal mein ro chuka huṅ main
+  Binaai kho chuka huṅ main barbaad ho chuka huṅ main
 
   3
-  Qaime mein jhoola rota hai rota hai qalb maadar ka
-  Tadpa hai mere haathon par nanha sa laasha asghar ka
-  Ye aakhri sipaahi tha ay amma mere lashkar ka
+  Khaime mein jhula rota hai rota hai qalb maadar ka
+  Tarpa hai mere haathoṅ par nanha sa laasha Asghar ka
+  Ye aakhri sipaahi tha ae amma mere lashkar ka
 
   4
-  Pyason ki pyaas par amma qurban hogaya ghazi
-  Ek mashk par fida ho kar bejaan hogaya ghazi
-  Amma wafa ki dunya ka quran hogaya ghazi
+  Pyaasoṅ ki pyaas par amma qurbaan ho gaya Ghazi
+  Ek mashk par fida ho kar bejaan ho gaya Ghazi
+  Amma wafa ki duniya ka Quraan ho gaya Ghazi
 
   5
-  Ansaar o aqroba mere sar ko kata ke sote hai
-  Pardesiyon pe ay amma kya aise zulm hote hai
-  Dekho hussain ki ghurbat sab zakhm dil ke rote hai
+  Ansaar o aqraba mere sar ko kata ke sote haiṅ
+  Pardesiyoṅ pe ae amma kya aise zulm hote haiṅ
+  Dekho Husain ki ghurbat sab zakhm dil ke rote haiṅ
 
   6
-  Bete ki guftagu sun kar royi rasool ki beti
-  Jalti zameen pe baith kar boli rasool ki beti
-  Mai tere saath hoo beta yani rasool ki beti
-  Aaja meri godh mein aaja qurban ho ye maa
+  Bete ki guftagu sun kar roi Rasul ki beti
+  Jalti zamiṅ pe baith kar boli Rasul ki beti
+  Main tere saath huṅ beta yaani Rasul ki beti
+  Aaja meri god mein aaja qurbaan ho ye maaṅ
 
   7
-  Har imtehan mein beta mai tujhko hausla doongi
-  Zakhmon pe tere ashkon ka marham bhi mai laga doongi
-  In zaalimon ki nazaron se aaja tujhe bachaungi
-  Aaja meri godh mein aaja qurban ho ye maa
+  Har imtehaan mein beta main tujhko hausla duṅgi
+  Zakhmoṅ pe tere ashkoṅ ka marham bhi main laga duṅgi
+  In zaalimoṅ ki nazroṅ se aaja tujhe bachaauṅ gi
+  Aaja meri god mein aaja qurbaan ho ye maaṅ
 
   8
-  Ghode ke zeen se maula jis dam zameen par aaye
-  Gham se kaleja thaam kar zehra pukaar uthi haye
-  Phaila ke apne haathon ko jhoola bana liya haye
-  Aaja meri godh mein aaja qurban ho ye maa
+  Ghore ki zin se Maula jis dam zamiṅ par aaye
+  Gham se kaleja thaam kar Zehra pukaar uthi haaye
+  Phaila ke apne haathoṅ ko jhula bana liya haaye
+  Aaja meri god mein aaja qurbaan ho ye maaṅ
 
   9
-  Hai shadman ke lab par nauha janabe zehra ka
-  Maqtal ne is riwayat ko kuch is tarha se likha tha
-  Khud mazhar abidi jisko nauhe mein dhaal kar roya
-  Aaja meri godh mein aaja qurban ho ye maa
+  Hai Shadmaṅ ke lab par nauha janaab-e-Zehra ka
+  Maqtal ne is riwaayat ko kuchh is tarah se likha tha
+  Khud Mazhar Abidi jis ko nauhe mein dhaal kar roya
+  Aaja meri god mein aaja qurbaan ho ye maaṅ
 # source_id: nohayonline:e61b596e6b9ebe2c32e8
 # source_url: https://www.nohayonline.com/details_content.php?id=3052
 # raw_sha256: b31ad03d302e8d0d0f6f35251449c321a85c4cae847922bc93b0162877f97fc4
@@ -106,7 +106,7 @@ romanLyrics: |-
 
 ۷
 ہر امتحان میں بیٹا میں تجھکو حوصلہ دونگی
-زخموں پہ تیرے اشکوں کا مرحم لگا دونگی
+زخموں پہ تیرے اشکوں کا مرحم بھی میں لگا دونگی
 ان ظالموں کی نظروں سے آجا تجھے بچاؤں گی
 آجا میری گود میں آجا قربان ہو یہ ماں
 
@@ -118,6 +118,6 @@ romanLyrics: |-
 
 ۹
 ہے شادماں کے لب پر نوحہ جنابِ زہرا کا
-مقتل نے اس روایت کو کچھ اس طرح لکھا تھا
+مقتل نے اس روایت کو کچھ اس طرح سے لکھا تھا
 خود مظہر عابدی جس کو نوحے میں ڈھال کر رویا
 آجا میری گود میں آجا قربان ہو یہ ماں

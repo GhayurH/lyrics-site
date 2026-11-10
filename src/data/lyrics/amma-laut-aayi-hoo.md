@@ -1,6 +1,6 @@
 ---
 title: "اماں لوٹ آئی ہوں میں"
-alternateTitle: "Amma Laut Aayi Hoo"
+alternateTitle: "Amma Laut Aayi Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,50 +10,50 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Amma laut aayi hoo mai
-  Daagh dil pe bahattar ke laayi hoo mai
+  Amma laut aayi huṅ main
+  Daagh dil pe bahattar ke laayi huṅ main
 
   1
-  Jab gaye thay yahan se to ghar tha bhara
-  Gulsitan tera phoolon se abaad tha
-  Haye dashte sitam haye karbobala
-  Loot kar legayi sab bhara ghar mera
+  Jab gaye the yahaaṅ se to ghar tha bhara
+  Gulistaan tera phuloṅ se aabaad tha
+  Haaye dasht-e-sitam haaye Karb o Bala
+  Lut kar le gaye sab bhara ghar mera
   Sab luta aayi teri kamaai huṅ main
 
   2
-  Qasimo akbaro asghare dilruba
-  Sab ke sab hogaye karbala mein juda
-  Sher jaisa wo abbas bhai mera
-  Katgaye haath saahil pe maara gaya
-  Nehr pe bekafan chod aayi hoo mai
+  Qasim o Akbar o Asghar dilruba
+  Sab ke sab ho gaye Karbala mein juda
+  Sher jaisa wo Abbas bhaai mera
+  Kat gaye haath saahil pe maara gaya
+  Nehr pe bekafan chhor aayi huṅ main
 
   3
-  Choomti thi bade pyar se jo gala
-  Dasthe ghurbat mein tan se hua wo juda
-  Ek qatra dam-e-zabh mil na saka
-  Laadla tera pyasa jahan se gaya
-  Khoon bhara pairahan saath laayi huṅ main
+  Chumti thi bare pyaar se jo gala
+  Dasht-e-ghurbat mein tan se hua wo juda
+  Ik qatra dam-e-zabh mil na saka
+  Laadla tera pyaasa jahaaṅ se gaya
+  Khun bhara pairahan saath laayi huṅ main
 
   4
-  Baade shabbir itna bada hausla
-  Cheen kar legaye chadare ashkiyan
-  Qaima e ahl par thay rasoole khuda
+  Baad-e-Shabbir itna bara hausla
+  Chhin kar le gaye chaadareṅ ashqiya
+  Khaima-e-ahl par the Rasul Khuda
   Aag lagti gayi khaak hota gaya
-  Jalte qaimon se abid ko laayi hoo mai
+  Jalte khaimoṅ se Abid ko laayi huṅ main
 
   5
-  Jaa baja pa barehna yuhin sar khule
-  Shaam o koofa ki galiyon mein khaynche gaye
-  Kya kahoon waaliye shaam ke saamne
-  Haath thay rassiyon mein hamare bandhe
-  Neel baazu ke dikhlane aayi hoo mai
+  Ja baja pa barehna yuṅhi sar khule
+  Shaam o Kufa ki galiyoṅ mein kheṅche gaye
+  Kya kahuṅ waali-e-Shaam ke saamne
+  Haath the rassiyoṅ mein hamaare bandhe
+  Nil baazu ke dikhlaane aayi huṅ main
 
   6
-  Wo dulaari sakina bhatiji meri
-  Kha rahi thi tamache mai chup thi khadi
-  Haye re bebasi haye bechaargi
+  Wo dulaari Sakina bhatiji meri
+  Kha rahi thi tamaanche main chup thi khari
+  Haaye re bebasi haaye bechaargi
   Wo sitam jhelte jhelte mar gayi
-  Shaam ki qaid mein chod aayi hoo mai
+  Shaam ki qaid mein chhor aayi huṅ main
 # source_id: nohayonline:a445b2b9395629ab6cd5
 # source_url: https://www.nohayonline.com/details_content.php?id=748
 # raw_sha256: 9165d43f190f5087a8e0edd339c7322727e06d8ee478ac1f7c415f43599f3bfe

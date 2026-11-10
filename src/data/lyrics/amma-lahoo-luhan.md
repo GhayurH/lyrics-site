@@ -11,61 +11,62 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Amma haye amma
-  Jaane laga watan se jo kunba hussain ka
-  Nana ki qabr se huwe rukhsat shaahe huda
-  Bhai ki qabr pe padha bhai ne marsiya
-  Wan se hua jo turbate zahra ka saamna
-  Maa ki lehad pe chal ke gaye ghutnoṅ Husain
-  Lipte hai maa ki qabr se karte huwe ye bain
-  Amma haye amma amma haye amma
-  Amma lahoo luhaan chaman dekhne chalo
-  Zainab ke baazuon mein rasan dekhne chalo
+  Amma haaye amma
+  Jaane laga watan se jo kunba Husain ka
+  Nana ki qabr se hue rukhsat Shah-e-Huda
+  Bhaai ki qabr pe parha bhaai ne marsiya
+  Waaṅ se hua jo turbat Zahra ka saamna
+  Maaṅ ki lahad pe chal ke gaye ghutnoṅ Husain
+  Lipte haiṅ maaṅ ki qabr se karte hue ye bain
+  Amma haaye amma amma haaye amma
+  Amma lahu lahaan chaman dekhne chalo
+  Zainab ke baazuoṅ mein rasan dekhne chalo
 
   1
-  Jis mein mai apne godh ke paalon ko ro'unga
-  Aur khud bhi sar kata ke mai jis ban mein so’unga
-  Amma hamare saath wo ban dekhne chalo
+  Jis mein main apne god ke paaloṅ ko rouṅ ga
+  Aur khud bhi sar kata ke main jis ban mein souṅ ga
+  Amma hamaare saath wo ban dekhne chalo
 
   2
-  Qasim ko mere aise karenge wo payemal
-  Tukdon mein leke aayega chaadar mein tera laal
-  Amma wo laashe ibne hassan dekhne chalo
+  Qasim ko mere aise kareṅ ge wo paaymaal
+  Tukroṅ mein le ke aaye ga chaadar mein tera laal
+  Amma wo laash-e-Ibn Hasan dekhne chalo
 
   3
-  Naiza jahan lagega mere naujawan ko
-  Teer e sitam lagega jahan bezaban ko
+  Naiza jahaaṅ lage ga mere naujawaan ko
+  Tir-e-sitam lage ga jahaaṅ bezabaan ko
   Rakh kar ke haath dil pe wo ran dekhne chalo
 
   4
   Khud aap jis ke naaz uthaati thi raat din
-  Pani ka jaam laa ke pilaati thi raat din
-  Karbal mein usko tashna dahan dekhne chalo
+  Paani ka jaam laa ke pilaati thi raat din
+  Karbal mein us ko tashna dahan dekhne chalo
 
   5
-  Ghode pe jab sambhal na sakega tera hussain
-  Zakhmon se choor ho ke girega tera hussain
-  Teeron pe apne laal ka tan dekhne chalo
+  Ghore pe jab sambhal na sake ga tera Husain
+  Zakhmoṅ se chur ho ke gire ga tera Husain
+  Tiroṅ pe apne laal ka tan dekhne chalo
 
   6
-  Zaalim tere hussain pe dhayenge sakhtiyan
-  Amma ye tod daalenge meri bhi phasliyan
-  Tukdon mein mera saara badan dekhne chalo
+  Zaalim tere Husain pe dhaaeṅ ge sakhtiyaaṅ
+  Amma ye tor daaleṅ ge meri bhi pasliyaaṅ
+  Tukroṅ mein mera saara badan dekhne chalo
 
   7
-  Ro kar ali ye shaah ne ki maa se iltejaa
-  Ud ud ke mere sogh mein wo khaake karbala
-  Kaise banegi mera kafan dekhne chalo
+  Ro kar Ali ye Shah ne ki maaṅ se iltija
+  Ur ur ke mere sog mein wo khaak-e-Karbala
+  Kaise bane gi mera kafan dekhne chalo
 
   8
+  Amma haaye amma
   Amma meri amma
-  Qaimon mein aa ke aag lagayenge ashqiya
-  Qaidi meri behan ko banayenge ashqiya
-  Zainab ko mere baad satayenge ashqiya
-  Chadar bhi cheen lenge rulayenge ashqiya
-  Zaalim nabi ki aal ko dar dar phirayenge
-  Paidal chala ke Shaam talak le ke jayeṅge
-  Amma lahu luhaan chaman dekhne chalo
+  Khaimoṅ mein aa ke aag lagaaeṅ ge ashqiya
+  Qaidi meri behan ko banaaeṅ ge ashqiya
+  Zainab ko mere baad sataaeṅ ge ashqiya
+  Chaadar bhi chhin leṅ ge rulaaeṅ ge ashqiya
+  Zaalim Nabi ki aal ko dar dar phiraaeṅ ge
+  Paidal chala ke Shaam talak le ke jaaeṅ ge
+  Amma lahu lahaan chaman dekhne chalo
   Zainab ke baazuoṅ mein rasan dekhne chalo
 # source_id: nohayonline:ea0eba4d429df33a3394
 # source_url: https://www.nohayonline.com/details_content.php?id=2845
@@ -118,6 +119,7 @@ romanLyrics: |-
 کیسے بنے گی میرا کفن دیکھنے چلو
 
 ۸
+اماں ہائے اماں
 اماں میری اماں
 خیموں میں آکے آگ لگائیں گے اشقیا
 قیدی میری بہن کو بنائیں گے اشقیا
