@@ -1,172 +1,177 @@
 ---
 title: "اے فاتح کربوبلا"
-alternateTitle: "Ay Fatahe Karbobala"
+alternateTitle: "Ae Faateh-e-Karbobala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Fatahe Karbobala"]
 published: false
 romanLyrics: |-
-  Ay faatahe karbobala
-  
+  Ae Faateh-e-Karbobala
+
   1
-  Ay virsadaar e ambiya
-  Ay maalik e mulk e khuda
-  Ay shaafa e roze jaza
-  Mamnoon hai kabaa tera
+  Ae virsadaar-e-ambiya
+  Ae maalik-e-mulk-e-Khuda
+  Ae shaafe-e-roz-e-jaza
+  Mamnun hai Kaaba tera
   Jannat teri kausar tera
-  
+
   2
-  Tu shaan hai quran ki
-  Tu jaan hai emaan ki
-  Tu ne khuda ke deen par
+  Tu shaan hai Quraan ki
+  Tu jaan hai imaan ki
+  Tu ne Khuda ke din par
   Qurban apni jaan ki
-  Mamnoon hai yazdan tera
-  
+  Mamnun hai Yazdaaṅ tera
+
   3
   Tu ne sahe kitne sitam
-  Beton ka gham bhai ka gham
-  Takraake tujhse thak gaye
+  Betoṅ ka gham bhai ka gham
+  Takra ke tujh se thak gaye
   Zulm o sitam ranj o alam
   Hum teri himmat ke fida
-  
+
   4
-  Ye masjidein ye aastaan
-  Teri balandi ke nashaan
-  Dunya mein baaqi reh gayi
-  Akbar ke sadqe mein azan
-  Kabaa bana rauza tera
-  
+  Ye masjideṅ ye aastaaṅ
+  Teri balandi ke nishaaṅ
+  Dunya meiṅ baaqi reh gayi
+  Akbar ke sadqe meiṅ azaaṅ
+  Kaaba bana rauza tera
+
   5
-  Laazim hai ye matam tera
-  Wajhe baqa hai gham tera
-  Zinda isi matam se hai
-  Deen e nabi deen e khuda
-  Ye gham hai zehra ki dua
-  
+  Laazim hai ye maatam tera
+  Wajh-e-baqa hai gham tera
+  Zinda isi maatam se hai
+  Din-e-Nabi din-e-Khuda
+  Ye gham hai Zehra ki dua
+
   6
-  Tharra rahe thay ambia
-  Tu ne jo haathon par liya
-  Khyber ke dar se bhi giran
-  Laasha jawan farzand ka
-  Girya kuna thay murtaza
-  
+  Tharra rahe the ambiya
+  Tu ne jo haathoṅ par liya
+  Khaibar ke dar se bhi giraaṅ
+  Laasha jawaaṅ farzand ka
+  Girya kunaaṅ the Murtaza
+
   7
-  Arz o samaa mein goonjti
-  Awaaze hal min hai abhi
+  Arz o samaa meiṅ gunjti
+  Aawaaz-e-hal min hai abhi
   Aa jaaye nusrat ko teri
-  Hurr ki tarha gar ho koi
+  Hur ki tarah gar ho koi
   Ab bhi hai dar tera khula
-  
+
   8
-  Bhai wo tera ba-wafa
-  Wo naayab e sher e khuda
+  Bhai wo tera ba wafa
+  Wo naayab-e-Sher-e-Khuda
   Saahil pa qabza kar ke bhi
   Teri qasam pyasa raha
   Darya tadap kar reh gaya
-  
+
   9
-  Matam hai ye abbas ka
-  Pyason ki an-mit pyaas ka
-  Ahle haram ki bekasi
+  Maatam hai ye Abbas ka
+  Pyaasoṅ ki anmit pyaas ka
+  Ahl-e-haram ki bekasi
   Aur dard ke ehsaas ka
-  Qurban hui jis par wafa
-  
+  Qurbaaṅ hui jis par wafa
+
   10
-  Pyasa ali asghar tera
-  Wo phool sa sookha gala
-  Jis ko sawaal e aab par
-  Teer e sitam maara gaya
+  Pyaasa Ali Asghar tera
+  Wo phul sa sukha gala
+  Jis ko sawaal-e-aab par
+  Tir-e-sitam maara gaya
   Tu ne ye gham bhi seh liya
-  
+
   11
-  Wo rayg e garm e karbala
-  Daste sitam tayghe jafa
+  Wo reg-e-garm-e-Karbala
+  Dast-e-sitam tegh-e-jafa
   Kis zulm se kaata gaya
-  Maula tera pyasa gala
+  Maula tera pyaasa gala
   Sar tera naize par chadha
-  
+
   12
-  Wo qatl ka tere samaa
-  Maqtal mein zehra ki fughan
-  Is zulm par roti zameen
-  Aansu bahaata aasmaan
+  Wo qatl ka tere samaaṅ
+  Maqtal meiṅ Zehra ki fughaaṅ
+  Is zulm par roti zamiṅ
+  Aansu bahaata aasmaaṅ
   Zainab ki wo aah o buka
-  
+
   13
-  Kunba nahi hai ghar nahi
-  Jalti hui tapti zameen
-  Dil mein gham o ranj o alam
-  Aur shukre khaaliq mein jabeen
-  Sajde mein hai zainul aba
-  
+  Kunba nahiṅ hai ghar nahiṅ
+  Jalti hui tapti zamiṅ
+  Dil meiṅ gham o ranj o alam
+  Aur shukr-e-Khaaliq meiṅ jabiṅ
+  Sajde meiṅ hai Zainul Aba
+
   14
-  Bekas aseeron ka safar
-  Naizon pa mazloomon ke sar
-  Shehzaadiyon ke sar khule
-  Mehwe tamaasha ahle sharr
+  Bekas asiroṅ ka safar
+  Naizoṅ pa mazlumoṅ ke sar
+  Shahzaadiyoṅ ke sar khule
+  Mahw-e-tamaasha ahl-e-sharr
   Wo taaziyane aur jafa
-  
+
   15
-  Ahle sitam sab thak gaye
-  Ashkon pa kab pehre lagay
+  Ahl-e-sitam sab thak gaye
+  Ashkoṅ pa kab pehre lage
   Har daur mein ye gham tera
-  Ahle wafa karte rahe
-  Matam tera kab ruk saka
-  
+  Ahl-e-wafa karte rahe
+  Maatam tera kab ruk saka
+
   16
-  Wo tere naazon ki pali
-  Beti teri pyasi rahi
+  Wo tere naazoṅ ki pali
+  Beti teri pyaasi rahi
   Seh kar har ek zulm o sitam
-  Zindan mein aakhir mar gayi
+  Zindaaṅ meiṅ aakhir mar gayi
   Beta tera qaidi bana
-  
+
   17
-  Kis dil mein tera gham nahi
-  Kis ghar mein ye matam nahi
+  Kis dil meiṅ tera gham nahiṅ
+  Kis ghar meiṅ ye maatam nahiṅ
   Aaqa tere gham ki qasam
-  Ye gham nahi to hum nahi
+  Ye gham nahiṅ to hum nahiṅ
   Hai zindagi teri aza
-  
+
   18
-  Bemaar ka zakhmi badan
-  Dulhan ke baazu mein rasan
-  Kulsoom o zainab be-rida
-  Aur tera laasha be-kafan
-  Mehshar na kyun barpa hua
-  
+  Bimaar ka zakhmi badan
+  Dulhan ke baazu meiṅ rasan
+  Kulsum o Zainab be rida
+  Aur tera laasha bekafan
+  Mahshar na kiuṅ barpa hua
+
   19
-  Maidan se zainab ke pisar
-  Aaye lahoo mein doob kar
-  Qaime mein laashe hai rakhe
-  Sajde mein hai zainab ka sar
-  Hairaan khade hai ambiya
-  
+  Maidaaṅ se Zainab ke pisar
+  Aaye lahu meiṅ dub kar
+  Khaime meiṅ laasheṅ haiṅ rakhe
+  Sajde meiṅ hai Zainab ka sar
+  Hairaaṅ khare haiṅ ambiya
+
   20
-  Armaan maadar ke mitay
-  Paamaal qasim hogaye
+  Armaan maadar ke mite
+  Paamaal Qasim ho gaye
   Naoshah ka laasha tha ye
-  Tukde dil e shabbar ke the
-  Kya haal kubra ka hua
-  Aye faatehe karbobala
-  Hum dard ki tafseer hai
-  Gham ki tere tasveer hai
-  Dunya ye kehti hai hamein
-  Parwana e shabbir hai
-  Hum hai dua e fatema
-  
+  Tukre dil-e-Shabbar ke the
+  Kya haal Kubra ka hua
+  Ae Faateh-e-Karbobala
+
   21
+  Hum dard ki tafsir hai
+  Gham ki tere tasvir hai
+  Dunya ye kehti hai hameṅ
+  Parwaana-e-Shabbir hai
+  Hum haiṅ dua-e-Fatima
+
+  22
   Armaan hai ye dilgeer ka
-  Shabbir ki hamsheer ka
-  Javed ye jeena bhi hai
-  Sadqa gham e shabbir ka
+  Shabbir ki hamshir ka
+  Jaaved ye jina bhi hai
+  Sadqa gham-e-Shabbir ka
   Dete raho bas ye sada
 # source_id: nohayonline:5ecdf4affe705d63ec68
 # source_url: https://www.nohayonline.com/details_content.php?id=1954
 # raw_sha256: 7d209117ef03ad779be3fdd43b28350062582f2ae42b2061e7e11da723e1b897
+# Archived Urdu/Roman conflict at shaafe-e-mulk/roz-e-jaza and gharaz/arz o samaa; print or linked audio must resolve the readings.
+# Preserve the unabbreviated Roman refrain after stanza 20 in both editions; omit only abbreviated performance returns.
 ---
 
 اے فاتح کربوبلا
@@ -187,15 +192,15 @@ romanLyrics: |-
 
 ۳
 تو نے سہے کتنے ستم
-بیٹوں کا غم بھای کا غم
-ٹکرا کے تجھ سے تھک گےء
+بیٹوں کا غم بھائی کا غم
+ٹکرا کے تجھ سے تھک گئے
 ظلم و ستم رنج و الم
 ہم تیری ہمت کے فدا
 
 ۴
 یہ مسجدیں یہ آستاں
 تیری بلندی کے نشاں
-دنیا میں باقی رہ گیء
+دنیا میں باقی رہ گئی
 اکبر کے صدقے میں اذاں
 کعبہ بنا روضہ تیرا
 
@@ -211,17 +216,17 @@ romanLyrics: |-
 تو نے جو ہاتھوں پر لیا
 خیبر کے در سے بھی گراں
 لاشہ جواں فرزند کا
-گریہ کناں تھے مرتظی
+گریہ کناں تھے مرتضیٰ
 
 ۷
 غرض و سماں میں گونجتی
 آواز ھل من ہے ابھی
-آ جاے نصرت کو تیری
+آ جائے نصرت کو تیری
 حر کی طرح گر ہو کوئی
 اب بھی ہے در تیرا کھلا
 
 ۸
-بھای وہ تیرا با وفا
+بھائی وہ تیرا با وفا
 وہ نایاب شیر خدا
 ساحل پہ قبضہ کر کے بھی
 تیری قسم پیاسا رہا
@@ -232,7 +237,7 @@ romanLyrics: |-
 پیاسوں کی ان مٹ پیاس کا
 اہلِ حرم کی بیکسی
 اور درد کے احساس کا
-قرباں ہوی جس پر وفا
+قرباں ہوئی جس پر وفا
 
 ۱۰
 پیاسا علی اصغر تیرا
@@ -252,7 +257,7 @@ romanLyrics: |-
 وہ قتل کا تیرے سماں
 مقتل میں زہرا کی فغاں
 اس ظلم پر روتی زمیں
-آنسوں بہاتا آسماں
+آنسو بہاتا آسماں
 زینب کی وہ آہ و بکا
 
 ۱۳
@@ -270,7 +275,7 @@ romanLyrics: |-
 وہ تازیانے اور جفا
 
 ۱۵
-اہلِ ستم سب تھک گےء
+اہلِ ستم سب تھک گئے
 اشکوں پہ کب پہرے لگے
 ہر دور میں یہ غم تیرا
 اہلِ وفا کرتے رہے
@@ -280,14 +285,14 @@ romanLyrics: |-
 وہ تیرے نازوں کی پلی
 بیٹی تیری پیاسی رہی
 سہ کر ہر اک ظلم و ستم
-زنداں میں آخر مر گیء
+زنداں میں آخر مر گئی
 بیٹا تیرا قیدی بنا
 
 ۱۷
 کس دل میں تیرا غم نہیں
 کس گھر میں یہ ماتم نہیں
 آقا تیرے غم کی قسم
-یہ غم نہیں تو ہم‌ نہیں
+یہ غم نہیں تو ہم نہیں
 ہے زندگی تیری عزا
 
 ۱۸
@@ -299,24 +304,25 @@ romanLyrics: |-
 
 ۱۹
 میداں سے زینب کے پسر
-آےلہو میں ڈوب کر
+آئے لہو میں ڈوب کر
 خیمے میں لاشیں ہیں رکھے
 سجدے میں ہے زینب کا سر
 حیراں کھڑے ہیں انبیاء
 
 ۲۰
 ارمان مادر کے مٹے
-پامال قاسم ہو گےء
+پامال قاسم ہو گئے
 نوشاہ کا لاشہ تھا یہ
 ٹکڑے دل شبر کے تھے
 کیا حال کبرا کا ہوا
+اے فاتح کربوبلا
 
 ۲۱
 ہم درد کی تفسیر ہے
 غم کی تیرے تصویر ہے
 دنیا یہ کہتی ہے ہمیں
-پروانہء شبیر ہے
-ہم ہیں دعاے فاطمہ
+پروانۂ شبیر ہے
+ہم ہیں دعائے فاطمہ
 
 ۲۲
 ارمان ہے یہ دلگیر کا
