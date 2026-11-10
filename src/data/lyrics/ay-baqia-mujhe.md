@@ -1,62 +1,63 @@
 ---
 title: "اے بقیہ مجھے تیرا غم ہے"
-alternateTitle: "Ay Baqia Mujhe"
+alternateTitle: "Ae Baqia Mujhe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Baqia Mujhe"]
 published: false
 romanLyrics: |-
-  Ay baqia mujhe tera gham hai
+  Ae Baqia mujhe tera gham hai
   Is liye to ye aankh purnam hai
 
   1
-  Jab se tera ye inhedaam hua
-  Dil mein bas gham ka hi khayaam hua
-  Ab to ek ezteraab e payham hai
+  Jab se tera ye inhidaam hua
+  Dil mein bas gham ka hi qiyaam hua
+  Ab to ik iztiraab-e-paiham hai
 
   2
-  Qabre zehra jo dhaayi aada ne
-  Kya bigada tha inka dukhiya ne
-  Hum to jitna bhi roye wo kam hai
+  Qabr-e-Zehra jo dhaai aada ne
+  Kya bigaara tha in ka dukhiya ne
+  Hum to jitna bhi royeṅ wo kam hai
 
   3
-  Hai jo be-saaya turbat e sajjad
-  Kyun na hum ghamzada kare faryad
-  Is se bad kar bhi koi kya gham hai
+  Hai jo besaaya turbat-e-Sajjad
+  Kiuṅ na hum ghamzada kareṅ faryaad
+  Is se barh kar bhi koi kya gham hai
 
   4
-  Qabr baqar ki aur jafar ki
-  Hai shakista jo qabr shabbar ki
+  Qabr Baqir ki aur Jafar ki
+  Hai shikasta jo qabr Shabbar ki
   Har taraf sog ka sa aalam hai
 
   5
-  Keh utha dekh kar dil e muztar
-  Haye re qabre maadar e hyder
-  Is ki tauqeer to muqadam hai
+  Keh utha dekh kar dil-e-muztar
+  Haaye re qabr-e-maadar-e-Haider
+  Is ki tauqir to muqaddam hai
 
   6
-  Jab bhi tashreef layenge mehdi
-  Hoga taameer phir baqia bhi
-  Mujhko ek yehi aas har dam hai
+  Jab bhi tashrif laayeṅge Mehdi
+  Hoga taamir phir Baqia bhi
+  Mujh ko ik ye hi aas har dam hai
 
   7
-  Kyun na awaaze haq uthaye hum
-  Kaise baatil se khauf khaye hum
+  Kiuṅ na aawaaz-e-haq uthaayeṅ hum
+  Kaise baatil se khauf khaayeṅ hum
   Sar pe jab bawafa ka parcham hai
 
   8
-  Jis ne zehra ka dil dukhaya hai
-  Aur unhe umr bhar rulaaya hai
+  Jis ne Zehra ka dil dukhaaya hai
+  Aur unheṅ umr bhar rulaaya hai
   Us pe lanat hi ab to har dam hai
 
   9
-  Chain izhaar yun nahi aata
-  Har ghadi hai alam baqia ka
-  Har ghadi dil mein shor e matam hai
+  Chain Izhaar yuṅ nahiṅ aata
+  Har ghari hai alam Baqia ka
+  Har ghari dil mein shor-e-maatam hai
 # source_id: nohayonline:5ccfbc5c7c11c65579ad
 # source_url: https://www.nohayonline.com/details_content.php?id=1132
 # raw_sha256: 0a73add9760c9c5de8bdc96711b270f88eb1e29f9cd28fc19991ca77d984f546
