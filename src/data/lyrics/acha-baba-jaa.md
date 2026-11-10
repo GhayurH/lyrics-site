@@ -17,58 +17,58 @@ romanLyrics: |-
   Paas Asghar ko mere lekin Khudara chhor do
 
   1
-  Sakht garmi ka safar hai aur ye nanhi se jaan
-  Phool sa asghar mera murjha na jaye baba jaan
+  Sakht garmi ka safar hai aur ye nanhi si jaan
+  Phul sa Asghar mera murjha na jaae Baba jaaṅ
   Aap ke hujre mein Jannat ki hawa ka hai guzar
-  Main wahiṅ souṅgi Baba is ko le kar raat ko
+  Main wahiṅ souṅ gi Baba is ko le kar raat ko
 
   2
-  Mai bina akbar ke jee na paungi baba magar
-  Dil behal jayega ashgar ko humakta dekh kar
-  Ye bhara ghar hoga jo veeran mar jaungi mai
-  Zinda rehne ka mere koi bahana bhi to ho
+  Main bina Akbar ke ji na paauṅ gi Baba magar
+  Dil behal jaae ga Asghar ko humakta dekh kar
+  Ye bhara ghar ho ga jo wiraan mar jaauṅ gi main
+  Zinda rehne ka mere koi bahaana bhi to ho
 
   3
-  Saath apne loriyan de kar sulaungi isay
-  Sayyeda ki mai kahani khud sunaungi isay
-  Dekh kar asghar ka chehra chain aayega mujhe
-  Iske chehre mein shabahat aap ki aati hai jo
+  Saath apne loriyaaṅ de kar sulaauṅ gi ise
+  Sayyeda ki main kahaani khud sunaauṅ gi ise
+  Dekh kar Asghar ka chehra chain aae ga mujhe
+  Is ke chehre mein shabaahat aap ki aati hai jo
 
   4
-  Haath mere sar pe rakh ke kaun dega ab dua
-  Tum na hoge baba na akbar na abid chacha
-  Jaa rahi hai maa behan phupiyan sabhi moo mod ke
+  Haath mere sar pe rakh ke kaun de ga ab dua
+  Tum na ho ge Baba na Akbar na Abid chacha
+  Jaa rahi hai maaṅ behan phuphiyaaṅ sabhi muṅh mor ke
   Main bhare ghar ki huṅ aadi kya karuṅ Baba kaho
 
   5
-  Baba akbar se mai kehti hi rahi kab aaoge
-  Sar jukhaye wo khada tha ashk aankhon mein liye
-  Yaad jab waada dilaya ro ke wo kehne laga
-  Jald aaunga behan mai dam raha seene mein to
+  Baba Akbar se main kehti hi rahi kab aao ge
+  Sar jhukaae wo khara tha ashk aankhoṅ mein liye
+  Yaad jab waada dilaaya ro ke wo kehne laga
+  Jald aauṅ ga behan main dam raha sine mein to
 
   6
-  Jald bulwana mere baba madine se mujhe
-  Bhai ka sehra banaungi mai apne haath se
-  Husn mere bhaiyon ka dekhega saara jahan
-  Dulha jab akbar sa ho asghar sa shehbala bhi ho
+  Jald bulwaana mere Baba Madine se mujhe
+  Bhai ka sehra banaauṅ gi main apne haath se
+  Husn mere bhaaiyoṅ ka dekhe ga saara jahaaṅ
+  Dulha jab Akbar sa ho Asghar sa shah baala bhi ho
 
   7
-  Muskurata hai mera asghar sakina ki tarha
-  Wo chali jayegi to kaise jaungi mai bhala
-  Yaad aayegi sakina ki to dekhungi isay
-  Dil sukoon payega kaise ghar mein jab koi na ho
+  Muskuraata hai mera Asghar Sakina ki tarah
+  Wo chali jaae gi to kaise jaauṅ gi main bhala
+  Yaad aae gi Sakina ki to dekhuṅ gi ise
+  Dil sukun paae ga kaise ghar mein jab koi na ho
 
   8
-  Halq ko asghar ke baba choomte ho jab kabhi
-  Yun tadap jaate ho jaise zakhm dekha ho koi
-  Muskurata hai jo asghar ro diya karte ho tum
-  Muskurane mein chupa hai raaz kya is ke kaho
+  Halq ko Asghar ke Baba chumte ho jab kabhi
+  Yuṅ tarap jaate ho jaise zakhm dekha ho koi
+  Muskuraata hai jo Asghar ro diya karte ho tum
+  Muskuraane mein chhupa hai raaz kya is ke kaho
 
   9
-  Jab samar aaye haram dekha raza sughra ne kya
-  Maa ki godhi mein nahi asghar hai kurta khoon bhara
-  Lakdiyan jhoole ki seene se lagaye hai rubab
-  Keh rahe hai ro ke abid dhoop se amma utho
+  Jab Samar aae haram dekha Raza Sughra ne kya
+  Maaṅ ki godi mein nahiṅ Asghar hai kurta khuṅ bhara
+  Lakriyaaṅ jhule ki sine se lagaae hai Rubab
+  Keh rahe haiṅ ro ke Abid dhup se Amma utho
 # source_id: nohayonline:ef3add192a14fbc85835
 # source_url: https://www.nohayonline.com/details_content.php?id=2386
 # raw_sha256: 94c297d8bdbe9b14e0af9657162379ac20f89b3bb2fee868247a172587a9bd24

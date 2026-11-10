@@ -1,5 +1,7 @@
 ---
-title: "Aye Shaheedo Aye Haider Ke Pyaro Mir Hasan Mir"
+title: "Ae Shahido Ae Haider Ke Pyaro"
+poet: "Mir Hasan Mir"
+reciter: "Mir Hasan Mir"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -14,18 +16,29 @@ published: false
 ---
 
 1
-Aye Shaheedo Aye Haider Ke Pyaro Mir Hasan Mir
-Aye Shaheedo Aye Haider Ke Pyaro Tum Ko Zahra Dua De Rahi Hain
-Aye Nadar Aye Bahadur Jiyalo Tum Ko Zahra Dua De Rahi Hain
-Pe Ke Jam-e-Wilayat Ali Se Pohanchay Jam-e-Shahadat Talak Tum
-Jaam Kausar Ke Ab Peenay Walo Tum Ko Zahra Dua De Rahi Hain
-Dad Detey Hain Shah-e-Madina Khush Hain Tum Se Imam-e-Zamana
-Ba Nasab Bawafa Ba Zamero Tum Ko Zahra Dua De Rahi Hain
-Tum Sa Koi Nahi Iss Jahan Mein Kaun Ho Ga Tumharey Barabar
-Kya Yeh Kam Hai Keh Aye Khush Naseebo Tum Ko Zahra Dua De Rahi Hain
-Jab Tumhein Maut Lainay Ko Aayi Wa Hussaina Ki Lab Par Sada Thi
-Waqt Ki Karbala Ke Shaheedo Tum Ko Zahra Dua De Rahi Hain
-Hain Tumhari Shujat Ke Charchay Aa Rahi Hai Sada Masjidon Se
-Aye Quran-e-Shahadat Ke Paro Tum Ko Zahra Dua De Rahi Hain
-Tum Se Qayam Rahe Ga Yeh Matam Tum Se Roshan Rahe Gi Yeh Majlis
-Asman-e-Azza Ke Sitaro Tum Ko Zahra Dua De Rahi Hain
+Ae shahido ae Haider ke pyaro tum ko Zahra dua de rahi haiṅ
+Ae nadar ae bahaadur jiyaalo tum ko Zahra dua de rahi haiṅ
+
+2
+Pi ke jaam-e-Wilaayat Ali se pahunche jaam-e-Shahaadat talak tum
+Jaam Kausar ke ab pine waalo tum ko Zahra dua de rahi haiṅ
+
+3
+Daad dete haiṅ Shah-e-Madina khush haiṅ tum se Imam-e-Zamaana
+Ba nasab bawafa ba zamiro tum ko Zahra dua de rahi haiṅ
+
+4
+Tum sa koi nahiṅ is jahaaṅ mein kaun ho ga tumhaare baraabar
+Kya ye kam hai ke ae khush nasibo tum ko Zahra dua de rahi haiṅ
+
+5
+Jab tumheṅ maut lene ko aai Wa Husaina ki lab par sada thi
+Waqt ki Karbala ke shahido tum ko Zahra dua de rahi haiṅ
+
+6
+Haiṅ tumhaari shujaat ke charche aa rahi hai sada masjidoṅ se
+Ae Quran-e-Shahaadat ke paaro tum ko Zahra dua de rahi haiṅ
+
+7
+Tum se qaayam rahe ga ye maatam tum se roshan rahe gi ye majlis
+Aasmaan-e-Aza ke sitaaro tum ko Zahra dua de rahi haiṅ

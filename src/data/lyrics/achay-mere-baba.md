@@ -12,27 +12,27 @@ reciter: "Ali Zia Rizvi"
 romanLyrics: |-
   Achhe mere Baba
   Hazrat se Sakina ne kaha bhul na jaana
-  Jab khuld mein pahuncho to Sakina ko bulana
+  Jab khuld mein pahuncho to Sakina ko bulaana
 
   1
-  Baba mere pyare mere ashiq mere shaida
-  Is waqt phuphi se batlaiye kiuṅ maṅga hai
-  Malbus purana
+  Baba mere pyaare mere aashiq mere shaida
+  Is waqt phuphi se batlaiye kiuṅ maaṅga hai
+  Malbus puraana
 
   2
-  Main jaan gayi jaate ho sar apna katane
-  Darya ke kinare
-  Pani ka to laane ka faqat hai ye bahana
+  Main jaan gayi jaate ho sar apna kataane
+  Darya ke kinaare
+  Paani ka to laane ka faqat hai ye bahaana
 
   3
-  Tum jaate ho marne ko hameṅ kis pe hai sompa
+  Tum jaate ho marne ko hameṅ kis pe hai sauṅpa
   Ye ghaur ki hai jaa
-  Sajjad to bimar hai batlao thikana
+  Sajjad to bimaar hai batlaao thikaana
 
   4
-  Durr kanoṅ se chhinega to faryad karuṅgi
+  Durr kaanoṅ se chhine ga to faryaad karuṅ gi
   Main Shimr-e-Lain ki
-  Beti ko sitamgar ke tamachoṅ se bachana
+  Beti ko sitamgar ke tamaachoṅ se bachaana
 # source_id: nohayonline:0f659189d8766e5fa25a
 # source_url: https://www.nohayonline.com/details_content.php?id=7
 # raw_sha256: c91ff27c57db425b03d2e84b45b687a77fe5de3b9e85dc18914bc8040a9cc56f

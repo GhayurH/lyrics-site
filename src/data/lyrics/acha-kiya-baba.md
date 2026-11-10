@@ -11,62 +11,62 @@ aliases: []
 published: false
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
-  Chahat ka meri kaisa ye mujh ko sila diya
+  Chaahat ka meri kaisa ye mujh ko sila diya
   Achha kiya Baba jo mujh ko bhula diya
 
   1
-  Zinda raho hazaroṅ baras shadmaṅ raho
-  Baba zamin pe ban ke sada asmaṅ raho
-  Quran tum pe saya kare tum jahaṅ raho
-  Parhti huṅ har namaz mein Baba yehi dua
+  Zinda raho hazaaroṅ baras shaadmaaṅ raho
+  Baba zamin pe ban ke sada aasmaaṅ raho
+  Quran tum pe saaya kare tum jahaaṅ raho
+  Parhti huṅ har namaaz mein Baba yahi dua
 
   2
-  Baba tumhare baad main khushiyoṅ se dur huṅ
-  Lekin tumhari raah main takti zarur huṅ
-  Bimar o natawaṅ huṅ ghamoṅ se main chur huṅ
+  Baba tumhaare baad main khushiyoṅ se dur huṅ
+  Lekin tumhaari raah main takti zarur huṅ
+  Bimaar o naatawaaṅ huṅ ghamoṅ se main chur huṅ
   Ab ke to din bhi Eid ka ro kar guzar gaya
 
   3
   Raatoṅ ko jaag jaag kar karti huṅ ye dua
   Kunbe ko raas aae mere dasht-e-Karbala
-  Darya ke paas khaima ho Sheh ka laga hua
+  Darya ke paas khaima ho Shah ka laga hua
   Garmi ke din haiṅ Amma ke sar par rahe rida
 
   4
   Asghar ko bhej do Ali Akbar ko bhej do
-  Kuchh roz ko sahi meri madar ko bhej do
-  Koi nahiṅ to bas meri khwahar ko bhej do
+  Kuchh roz ko sahi meri maadar ko bhej do
+  Koi nahiṅ to bas meri khwaahar ko bhej do
   Hontoṅ pe ab to Sughra ka dam hai ruka hua
 
   5
-  Karta hai kaun yuṅ bhi marizoṅ se itna pyar
-  Main gul khizaṅ rasida huṅ tum ho meri bahar
-  Waise bhi ab nasib mein mere hai intezar
-  Bujhta hua charagh huṅ apne mazar ka
+  Karta hai kaun yuṅ bhi marizoṅ se itna pyaar
+  Main gul khizaaṅ rasida huṅ tum ho meri bahaar
+  Waise bhi ab nasib mein mere hai intezaar
+  Bujhta hua charaagh huṅ apne mazaar ka
 
   6
   Haaṅ ye qalaq hai Amma ne mujh ko kiya na yaad
-  Akbar to lene aaeṅge kitna tha etemad
-  Allah ab to puri karega meri murad
-  Aaega jab Madine mein Karbal ka qafila
+  Akbar to lene aaeṅ ge kitna tha etemaad
+  Allah ab to puri kare ga meri muraad
+  Aae ga jab Madine mein Karbal ka qaafila
 
   7
-  Lagta hai meri qabr pe aaoge Ae Padar
+  Lagta hai meri qabr pe aao ge ae Padar
   Wo bhi agar pahunch gayi taqdir se khabar
-  Talqin parh na paoge bazu ko thaam kar
-  Tanhaiyaṅ uthaeṅgi tabut bhi mera
+  Talqin parh na paao ge baazu ko thaam kar
+  Tanhaaiyaaṅ uthaaeṅ gi taabut bhi mera
 
   8
-  Ae Sarwar o Rehaan koi ja ke ye kahe
-  Sughra wo saneha kahaṅ malum hai tujhe
-  Baba shahid ho gaye bhai nahiṅ rahe
+  Ae Sarwar o Rehaan koi jaa ke ye kahe
+  Sughra wo saaneha kahaaṅ maalum hai tujhe
+  Baba shahid ho gae bhai nahiṅ rahe
   Ro ro ke roz kis ko tu deti hai ab sada
 # source_id: nohayonline:a9bc16742df9b864ca1a
 # source_url: https://www.nohayonline.com/details_content.php?id=21
 # raw_sha256: 985327eaa1ddbce27ebf7129f4d3b1af74bdecce36b1129233c317498d5b6cd9
 ---
 
-چاہت کا میری کیسا یہ مجھ کو صلا دیا
+چاہت کا میری کیسا یہ مجھ کو صِلا دیا
 اچھا کیا بابا جو مجھ کو بھلا دیا
 
 ۱
