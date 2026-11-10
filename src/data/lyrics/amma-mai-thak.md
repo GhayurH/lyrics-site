@@ -5,51 +5,52 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shadman Raza"
 poet: "Majid Raza Abdi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gardan se sheh ki khanjar e qatil khareeb tha
-  Zehra sirhaane aa gayi karti hui buka
-  Zaanu ki maa ki shaah ne tab sar ko rakh diya
-  Aankhein thi band aur ye nauha labon pe tha
-  Shabbir keh rahe hai aansu baha baha ke
+  Gardan se sheh ki khanjar-e-qaatil qarib tha
+  Zahra sirhaane aa gayi karti hui buka
+  Zaanu ki maaṅ ki shaah ne tab sar ko rakh diya
+  Aankheiṅ thiṅ band aur ye nauha laboṅ pe tha
+  Shabbir keh rahe haiṅ aansu baha baha ke
   Amma main thak chuka huṅ laashe utha utha ke
 
   1
-  Maine uthayi amma haathon pe laashe akbar
-  In haathon se banayi khud maine qabre asghar
-  Yun maarte hai zaalim mujhko rula rula ke
+  Main ne uthaayi amma haathoṅ pe laash-e-Akbar
+  In haathoṅ se banaayi khud main ne qabr-e-Asghar
+  Yuṅ maarte haiṅ zaalim mujh ko rula rula ke
 
   2
-  Maidan se mujhko jis dam abbas ne pukara
-  Kham aa gaya kamar mein toota mera sahara
-  Darya pe jaa raha tha mai sar jhuka jhuka ke
+  Maidaan se mujh ko jis dam Abbas ne pukaara
+  Kham aa gaya kamar mein tuta mera sahaara
+  Darya pe jaa raha tha main sar jhuka jhuka ke
 
   3
-  Akbar meri nazar ki beenayi le gaye thay
-  Gir gir ke poochta tha beta mera kidhar hai
-  Wo mujhko dhoondta tha gardan utha utha ke
+  Akbar meri nazar ki binaayi le gaye the
+  Gir gir ke puchhta tha beta mera kidhar hai
+  Wo mujh ko dhundta tha gardan utha utha ke
 
   4
-  Do bhanjon ke mere jab ran se aaye laashe
-  Zainab ne laadlon ke jis waqt paaye laashe
+  Do bhaanjoṅ ke mere jab ran se aaye laashe
+  Zainab ne laadloṅ ke jis waqt paaye laashe
   Sajde wo kar rahi thi aansu baha baha ke
 
   5
-  Amma meri nazar mein manzar wo chaa rahe hai
-  Bacchi pe meri aada yun zulm dhaa rahe hai
-  Pani baha rahe hai us ko dikha dikha ke
+  Amma meri nazar mein manzar wo chhaa rahe haiṅ
+  Bachchi pe meri aada yuṅ zulm dhaa rahe haiṅ
+  Paani baha rahe haiṅ us ko dikha dikha ke
 
   6
-  Guzrenge aur masayib meri behan ke upar
-  Aankhon mein phir raha hai ye dardnaak manzar
-  Wo sham ja rahi hai nauhe suna suna ke
+  Guzreṅge aur masaaib meri behan ke upar
+  Aankhoṅ mein phir raha hai ye dardnaak manzar
+  Wo Shaam jaa rahi hai nauhe suna suna ke
 
   7
-  Ay shadman o majid kaise padhe ye manzar
-  Jab halq rakh rahi thi zehra gulu e sheh par
+  Ae Shadman o Majid kaise parhe ye manzar
+  Jab halq rakh rahi thi Zahra gulu-e-sheh par
   Gardan jhuka jhuka ke khanjar hata hata ke
 # source_id: nohayonline:a689be3f0f4d7221184f
 # source_url: https://www.nohayonline.com/details_content.php?id=3051

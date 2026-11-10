@@ -11,67 +11,67 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Farzand e payambar pe wo ashoor ki raat
-  Moo chupane lagi ghabrane lagi nehre furaat
-  Sogaye baat ke shabbir jo maqtal mein hayaat
-  Fatema aagayi sehra mein gham o ranj ke saath
-  Kya sada aati thi us waqt mai bataata hoo
-  Sada shaeedon ki kya thi wohi sunaata hoo
+  Farzand-e-payambar pe wo Aashur ki raat
+  Munh chhupaane lagi ghabraane lagi nahr-e-Furaat
+  So gaye baat ke Shabbir jo maqtal mein hayaat
+  Fatima aa gayi sehra mein gham o ranj ke saath
+  Kya sada aati thi us waqt main bataata huṅ
+  Sada shahidoṅ ki kya thi wohi sunaata huṅ
   Amma main pyaasa huṅ amma main pyaasa huṅ
 
   1
-  Binte rasool pehle gayi jaanibe furaat
-  Kya dekhti hai khaak pe do hai bureeda haath
-  Saahil pe jism jism pe teeron ki kayenaat
-  Dekha jo maa ko aagayi ghazi ke lab pe baat
+  Bint-e-Rasul pehle gayi jaanib-e-Furaat
+  Kya dekhti hai khaak pe do haiṅ burida haath
+  Saahil pe jism jism pe tiroṅ ki kaainaat
+  Dekha jo maaṅ ko aa gayi Ghazi ke lab pe baat
 
   2
-  Maqtal mein ek jawan jo seena figaar tha
-  Zahra pukari ye to hai tasveer e mustafa
-  Royi tadap ke boli mere laal kya hua
-  Ek aah bhar ke laasha e akbar ne di sada
+  Maqtal mein ik jawaan jo sina figaar tha
+  Zahra pukaari ye to hai tasvir-e-Mustafa
+  Royi tarap ke boli mere laal kya hua
+  Ik aah bhar ke laasha-e-Akbar ne di sada
 
   3
-  Do chote chote laashe bhi be-sar thay khaak par
-  Zahra pukari ye mere zainab ke hai pisar
-  Laashon ke paas baith gayi dil ko thaam kar
-  Kehte thay laashe aun o mohamed ke khoon mein tar
+  Do chhote chhote laashe bhi be sar the khaak par
+  Zahra pukaari ye mere Zainab ke haiṅ pisar
+  Laashoṅ ke paas baith gayi dil ko thaam kar
+  Kehte the laashe Aun o Muhammad ke khun mein tar
 
   4
-  Hurr john ausaja habeeb e wafa shinaas
-  In ke khareeb jab gayi zahra falak viqaar
-  Taazeem ke liye uthi har laash baar baar
-  Bola har ek sayyed e waala ka jaanisaar
+  Hur Jon Ausaja Habib wafa shinaas
+  In ke qarib jab gayi Zahra falak waqaar
+  Taazim ke liye uthi har laash baar baar
+  Bola har ek Sayyid waala ka jaanisaar
 
   5
-  Ek laash qatlgaah mein itni sagheer thi
-  Aamad pe jiski tha bada qatil ko teeragi
-  Boo aa rahi thi aankhon se khoon aur sheer ki
-  Zahra ka dil ulat gaya awaaz jab suni
+  Ik laash qatl gaah mein itni saghir thi
+  Aamad pe jis ki tha bara qaatil ko tiragi
+  Bu aa rahi thi aankhoṅ se khuṅ aur shir ki
+  Zahra ka dil ulat gaya aawaaz jab suni
 
   6
-  Kaampi zameen e karbobala zalzala utha
-  Jaise hi ek nasheb mein maa ka guzar hua
-  Dekha tha tan hussain ka teeron pe hai rakha
-  Zahra ne haal poocha to laashe ne di sada
+  Kaaṅpi zamin Karbobala zalzala utha
+  Jaise hi ik nasheb mein maaṅ ka guzar hua
+  Dekha tha tan Husain ka tiroṅ pe hai rakha
+  Zahra ne haal puchha to laashe ne di sada
 
   7
   Zahra ne baal khole rida daali laash par
-  Boli tadap ke ay mere mazloom tera sar
+  Boli tarap ke ae mere mazlum tera sar
   Kis ne shigaaf kar diya zakhmi kiya jigar
-  Lab tar karungi ashkon se tere kahe agar
+  Lab tar karuṅgi ashkoṅ se tere kahe agar
 
   8
-  Bole hussain kya piyun pani ay amma jaan
-  Pyasa shaheed hogaya masoom bezuban
-  Sunta hoo qatlgaah mein pyason ki hichkiyan
-  Amma is alqama ne liya mera imtehan
+  Bole Husain kya piyuṅ paani ae amma jaaṅ
+  Pyaasa shahid ho gaya maasum bezabaaṅ
+  Sunta huṅ qatl gaah mein pyaasoṅ ki hichkiyaaṅ
+  Amma is Alqama ne liya mera imtihaaṅ
 
   9
-  Rehaan dard naak hai kitna ye waqiya
-  Aale nabi ko dasht mein pani nahi mila
-  Girya kuna hai khuld mein zahra o murtuza
-  Aati hai karbala se mohsin yehi sada
+  Rehaan dard naak hai kitna ye waaqia
+  Aal-e-Nabi ko dasht mein paani nahiṅ mila
+  Girya kunaṅ hai khuld mein Zahra o Murtaza
+  Aati hai Karbala se Mohsin yehi sada
 # source_id: nohayonline:970208e7e706a020f05e
 # source_url: https://www.nohayonline.com/details_content.php?id=2465
 # raw_sha256: a94a62543181a3e2f4b1eceeb2997a9f982b8d33cd307bfdcfcd80501032c64d
@@ -79,7 +79,7 @@ romanLyrics: |-
 فرزند پیمبر پہ وہ عاشور کی رات
 منہ چھپانے لگی گھبرانے لگی نہر فرات
 سو گئے باٹ کے شبیر جو مقتل میں حیات
-فاطمہ آگیء صحرا میں غم و رنج کے ساتھ
+فاطمہ آ گئی صحرا میں غم و رنج کے ساتھ
 کیا صدا آتی تھی اس وقت میں بتاتا ہوں
 صدا شہیدوں کی کیا تھی وہی سناتا ہوں
 اماں میں پیاسا ہوں اماں میں پیاسا ہوں
@@ -87,7 +87,7 @@ romanLyrics: |-
 ۱
 بنتِ رسول پہلے گئی جانبِ فرات
 کیا دیکھتی ہے خاک پہ دو ہیں بریدہ ہاتھ
-ساحل پہ جسم جسم پہ تیروں کی کاینات
+ساحل پہ جسم جسم پہ تیروں کی کائنات
 دیکھا جو ماں کو آ گئی غازی کے لب پہ بات
 
 ۲
@@ -99,7 +99,7 @@ romanLyrics: |-
 ۳
 دو چھوٹے چھوٹے لاشے بھی بے سر تھے خاک پر
 زہرا پکاری یہ میرے زینب کے ہیں پسر
-لاشوں کے پاس بیٹھ گیء دل کو تھام کر
+لاشوں کے پاس بیٹھ گئی دل کو تھام کر
 کہتے تھے لاش‌عون و محمد کے خون میں تر
 
 ۴
