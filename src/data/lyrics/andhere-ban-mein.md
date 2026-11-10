@@ -10,28 +10,28 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Andhere ban mein hai baba sakina kiun chali aayi
-  Lahoo mein dooba hai laasha sakina kiun chali aayi
+  Andhere ban mein hai baba Sakina kiuṅ chali aayi
+  Lahu mein duba hai laasha Sakina kiuṅ chali aayi
 
   1
-  Na ab neend aayegi tum ko na ab baba sulayenge
-  Hai zakhmi teeron se seena sakina kiun chali aayi
+  Na ab nind aaye gi tum ko na ab baba sulaayeṅ ge
+  Hai zakhmi tiroṅ se sina Sakina kiuṅ chali aayi
 
   2
   Akeli tum bachi ho baap ki mayyat pe rone ko
-  Yahan hai maut ka pehra sakina kiun chali aayi
+  Yahaṅ hai maut ka pehra Sakina kiuṅ chali aayi
 
   3
   Chacha se koi keh de tum abhi tak ran mein pyaasi ho
-  Unhi ke paas hai darya sakina kiun chali aayi
+  Unhiṅ ke paas hai darya Sakina kiuṅ chali aayi
 
   4
-  Phuphi har samt tumko dekhti aur dhoondti hoṅgi
-  Jale qaime mein hai tanha sakina kiun chali aayi
+  Phuphi har samt tum ko dekhti aur dhundti hoṅ gi
+  Jale khaime mein hai tanha Sakina kiuṅ chali aayi
 
   5
-  Tumhare waaste jo khoon mein dooba hai darya par
-  Tadap jaata hai wo laasha sakina kiun chali aayi
+  Tumhaare waaste jo khun mein duba hai darya par
+  Tarap jaata hai wo laasha Sakina kiuṅ chali aayi
 # source_id: nohayonline:83c595adf1026bedaed2
 # source_url: https://www.nohayonline.com/details_content.php?id=3438
 # raw_sha256: 2b94001539002c8eb4cfaae5fba2f9845432b3db6f0afc3dc3533437fa352687

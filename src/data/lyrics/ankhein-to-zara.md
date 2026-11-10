@@ -1,6 +1,6 @@
 ---
 title: اٹھ جاؤ علی اصغر
-alternateTitle: Ankhein To Zara
+alternateTitle: Aankheiṅ To Zara
 language: Urdu
 lang: ur
 direction: rtl
@@ -11,45 +11,52 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Uth jao ali asghar
-  Aankhein to zara kholo aise to nahi rootho
-  Kuch bolo mere bhaiya Asghar
-  Uth jao Ali Asghar
+  Uth jaao Ali Asghar
+  Aankheiṅ to zara kholo aise to nahiṅ rutho
+  Kuchh bolo mere bhaiya Asghar
+  Uth jaao Ali Asghar
 
   1
-  Lori tujhe sunaungi jhoola jhulaungi
-  Ashkon se tera chehra asghar mai dhulaungi
-  Awaaz meri sun kar lillaah zara jaago
+  Lori tujhe sunaauṅ gi jhula jhulaauṅ gi
+  Ashkoṅ se tera chehra Asghar main dhulaauṅ gi
+  Aawaaz meri sun kar lillaah zara jaago
+  Kuchh bolo mere bhaiya Asghar
 
   2
   Suraj to jaa chuka hai hone laga andhera
-  Tareek shaam aayi bhoolo na ghar ka rasta
-  Main dar rahi huṅ bhaiya jangal mein darr na jao
+  Taarik shaam aayi bhulo na ghar ka raasta
+  Main dar rahi huṅ bhaiya jangal mein dar na jaao
+  Kuchh bolo mere bhaiya Asghar
 
   3
-  Amma to bekhabar hai maidan mein kya hua hai
+  Amma to bekhabar haiṅ maidaaṅ mein kya hua hai
   Lekin mujhe khabar hai zakhmi tera gala hai
-  Haazir hai ashk mere zakhmon ko apne dholo
+  Haazir haiṅ ashk mere zakhmoṅ ko apne dho lo
+  Kuchh bolo mere bhaiya Asghar
 
   4
-  Khusboo tere lahoo ki saanson mein aa rahi hai
-  Tum aao wagar na meri ab jaan ja rahi hai
-  Dil keh raha hai mera bhai ko apne rolo
+  Khushbu tere lahu ki saansoṅ mein aa rahi hai
+  Tum aao wagar na meri ab jaan jaa rahi hai
+  Dil keh raha hai mera bhai ko apne ro lo
+  Kuchh bolo mere bhaiya Asghar
 
   5
-  Aa kar dikhao chehra dum ghut raha hai mera
-  Mai bhi to dekhun bhaiya hai zakhm kitna gehra
-  Ab mere sabr ko tum asghar na aur tolo
+  Aa kar dikhaao chehra dam ghut raha hai mera
+  Main bhi to dekhuṅ bhaiya hai zakhm kitna gehra
+  Ab mere sabr ko tum Asghar na aur tolo
+  Kuchh bolo mere bhaiya Asghar
 
   6
-  Ye khaali khaali jhoola mujhko sata raha hai
-  Tere baghair asghar dil dooba jaa raha hai
-  Tum ko jo ran se laaye awaaz doo mai kisko
+  Ye khaali khaali jhula mujh ko sata raha hai
+  Tere baghair Asghar dil duba jaa raha hai
+  Tum ko jo ran se laaye aawaaz duṅ main kis ko
+  Kuchh bolo mere bhaiya Asghar
 
   7
-  Rehaan jab sakina ye bain kar rahi thi
-  Asghar ki maa bhi uska nauha ye sun rahi thi
-  Kehti thi ay sakina ye baat ab na bolo
+  Rehaan jab Sakina ye bain kar rahi thi
+  Asghar ki maaṅ bhi us ka nauha ye sun rahi thi
+  Kehti thi ae Sakina ye baat ab na bolo
+  Kuchh bolo mere bhaiya Asghar
 # source_id: nohayonline:79fc42e47cbc20ee3091
 # source_url: https://www.nohayonline.com/details_content.php?id=438
 # raw_sha256: 97fbd89d91205d747d625a6616d1de86d27bfae2c017136a6fd4183ad49d9430
@@ -70,33 +77,40 @@ romanLyrics: |-
 لوری تجھے سناؤں گی جھولا جھلاؤں گی
 اشکوں سے تیرا چہرہ اصغر میں دھلاؤں گی
 آواز میری سُن کر للہ ذرا جاگو
+کچھ بولو میرے بھیا اصغر
 
 ۲
 سورج تو جا چُکا ہے ہونے لگا اندھیرا
 تاریک شام آئی بھولو نہ گھر کا راستہ
 میں ڈر رہی ہوں بھیا جنگل میں ڈر نہ جاؤ
+کچھ بولو میرے بھیا اصغر
 
 ۳
 اماں تو بے خبر ہیں میداں میں کیا ہوا ہے
 لیکن مجھے خبر ہے زخمی تیرا گلا ہے
 حاضر ہیں اشک میرے زخموں کو اپنے دھو لو
+کچھ بولو میرے بھیا اصغر
 
 ۴
 خوشبو تیرے لہو کی سانسوں میں آ رہی ہے
 تم آؤ وگر نہ میری اب جان جا رہی ہے
 دل کہہ رہا ہے میرا بھائی کو اپنے رو لو
+کچھ بولو میرے بھیا اصغر
 
 ۵
 آ کر دکھاؤ چہرہ دم گھُٹ رہا ہے میرا
 میں بھی تو دیکھوں بھیا ہے زخم کتنا گہرا
 اب میرے صبر کو تم اصغر نہ اور تولو
+کچھ بولو میرے بھیا اصغر
 
 ۶
 یہ خالی خالی جھولا مجھ کو ستا رہا ہے
 تیرے بغیر اصغر دل ڈوبا جا رہا ہے
 تم کو جو رن سے لائے آواز دوں میں کس کو
+کچھ بولو میرے بھیا اصغر
 
 ۷
 ریحان جب سکینہ یہ بین کر رہی تھی
 اصغر کی ماں بھی اُس کا نوحہ یہ سُن رہی تھی
 کہتی تھی اے سکینہ یہ بات اب نہ بولو
+کچھ بولو میرے بھیا اصغر
