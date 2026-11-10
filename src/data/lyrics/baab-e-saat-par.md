@@ -1,57 +1,58 @@
 ---
 title: "باب ساعت پر کھڑی ہے فاطمہ کی بیٹیاں"
-alternateTitle: "Baab E Saat Par"
+alternateTitle: "Baab-e-Saaat Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Rizwan Zaidi Party"
 tags: ["noImage"]
-aliases: []
+aliases: ["Baab E Saat Par"]
 published: false
 romanLyrics: |-
-  Baab e sa'at par khadi hai fatema ki betiyan
-  Shaam ke darbar may hai jashn ki tayyarian
+  Baab-e-saaat par khari hai Fatema ki betiyaṅ
+  Shaam ke darbaar mein hai jashn ki tayyaariyaṅ
 
   1
-  Wa hussaina ki sada hai itrat e athaar may
-  Jaane kya guzri hai in par shaam ke bazaar may
-  Khoon may tar hogayi kaunain ki shehzadiyan
+  Wa Husaina ki sada hai itrat-e-athaar mein
+  Jaane kya guzri hai in par Shaam ke baazaar mein
+  Khun mein tar ho gayi kaunain ki shehzaadiyaṅ
 
   2
-  Subho se thak jaate hai jab shaami pathar maar kar
-  Shaam hote hi chale jaate hai zaalim apne ghar
-  Raat bhar qaidi khade rehte hai zer e aasman
+  Subah se thak jaate haiṅ jab shaami patthar maar kar
+  Shaam hote hi chale jaate haiṅ zaalim apne ghar
+  Raat bhar qaidi khare rehte haiṅ zer-e-aasmaaṅ
 
   3
-  Gham to ye hai chaar jaanib kalma go aabad thay
-  Chadarein phir bhi na di sar ko chupane ke liye
-  Sar khule kitni azan'ein sun chuki hai bibiyan
+  Gham to ye hai chaar jaanib kalma go aabaad the
+  Chaadareṅ phir bhi na di sar ko chhupaane ke liye
+  Sar khule kitni azaaneṅ sun chuki hai Bibiyaṅ
 
   4
-  Koi jaa kar ye bata do bekas o mazloom ko
-  Mil rahi hai ye yateemi ki saza masoom ko
-  Ab sakina ko tamache de rahe hai loriyan
+  Koi jaa kar ye bata do bekas o mazlum ko
+  Mil rahi hai ye yatimi ki saza maasum ko
+  Ab Sakina ko tamaanche de rahe haiṅ loriyaṅ
 
   5
-  Khoon may baqir ke shaamil ghairat e abbas hai
-  Hai abhi kamsin magar isko bhi ye ehsaas hai
-  Bazm may noshi kahan aur saani e zahra kahan
+  Khun mein Baaqir ke shaamil ghairat-e-Abbas hai
+  Hai abhi kamsin magar is ko bhi ye ehsaas hai
+  Bazm mein noshi kahaaṅ aur saani-e-Zahra kahaaṅ
 
   6
-  Ban gaya tareekh e ghurbat shaam o kufa ka safar
-  Zulm jitne ho gaye hai be-khata sadaat par
-  Mujrimon par bhi kahan hoti hai itni sakhtiyan
+  Ban gaya taarikh-e-ghurbat Shaam o Kufa ka safar
+  Zulm jitne ho gaye haiṅ bekhata saadaat par
+  Mujrimoṅ par bhi kahaaṅ hoti hai itni sakhtiyaṅ
 
   7
-  Abid e bemaar aansu khoon ke barsata raha
-  Be-ridayi ka isay zainab ki gham khaata raha
-  Aate aate shaam tak boodha hua hai ye jawan
+  Aabid-e-bimaar aansu khun ke barsaata raha
+  Beridaai ka ise Zainab ki gham khaata raha
+  Aate aate Shaam tak burha hua hai ye jawaaṅ
 
   8
-  Jaa ke chehlum par takallum ne ye dekha hai samaa
-  Kal jahan se be-rida guzri thi sab saydaniya
-  Chadarein ab naam pe zainab ke bat'thi hai wahan
+  Jaa ke chehlum par Takallum ne ye dekha hai samaaṅ
+  Kal jahaaṅ se berida guzri thi sab sayyidaaniyaṅ
+  Chaadareṅ ab naam pe Zainab ke batti haiṅ wahaaṅ
 # source_id: nohayonline:3d52898059aee39d2c8a
 # source_url: https://www.nohayonline.com/details_content.php?id=1138
 # raw_sha256: 758c32e7edc060494655fd4cfad0a9d64e3481163402ea3161a85cc822ffcf7d
@@ -60,9 +61,9 @@ romanLyrics: |-
 شام کے دربار میں ہے جشن کی تیاریاں
 
 ۱
-وا حسینا کی صدا ہے عطرت اطہار میں
+وا حسینا کی صدا ہے عترت اطہار میں
 جانے کیا گزری ہے ان پر شام کے بازار میں
-خون میں تر ہوگیء کونین کی شہزادیاں
+خون میں تر ہو گئی کونین کی شہزادیاں
 
 ۲
 صبح سے تھک جاتے ہیں جب شامی پتھر مار کر
@@ -72,7 +73,7 @@ romanLyrics: |-
 ۳
 غم تو یہ ہے چار جانب کلمہ گو آباد تھے
 چادریں پھر بھی نہ دی سر کو چھپانے کے لئے
-سر کھلے کتنی اذانیں سن چکی ہے بی بیاں
+سر کھلے کتنی اذانیں سن چکی ہے بی‌بیاں
 
 ۴
 کوئی جا کر یہ بتا دو بے کس و مظلوم کو
@@ -86,11 +87,11 @@ romanLyrics: |-
 
 ۶
 بن گیا تاریخ غربت شام و کوفہ کا سفر
-ظلم جتنے ہو گےء ہیں بے خطا سادات پر
+ظلم جتنے ہو گئے ہیں بے خطا سادات پر
 مجرموں پر بھی کہاں ہوتی ہے اتنی سختیاں
 
 ۷
-عابد بیمار آنسوں خون کے برساتا رہا
+عابد بیمار آنسو خون کے برساتا رہا
 بے ردائی کا اسے زینب کی غم کھاتا رہا
 آتے آتے شام تک بوڑھا ہوا ہے یہ جواں
 

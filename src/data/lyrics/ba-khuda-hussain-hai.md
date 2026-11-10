@@ -1,108 +1,127 @@
 ---
 title: "یا حسین یا حسین"
-alternateTitle: "Ba Khuda Hussain Hai"
+alternateTitle: "Ba Khuda Husain Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ba Khuda Hussain Hai"]
 published: false
 romanLyrics: |-
-  Ya hussain ya hussain
-  Ya hussain hussain hussain
-  Sayyed o sardar e man
-  Murshad o sultan e man
-  Akbar o salaar e man
-  Mimbar e emaan e man
+  Ya Husain ya Husain
+  Ya Husain Husain Husain
+
+  Sayyid o sardaar-e-man
+  Murshid o sultaan-e-man
+  Ya Husain ya Husain
+  Akbar o salaar-e-man
+  Mimbar-e-imaan-e-man
+
   Wal asr ki qasam walfajr ki qasam
-  Wan noor ki qasam yaseen ki qasam
-  Allah ke bataye huwe deen ki qasam
+  Wan nur ki qasam Yaasin ki qasam
+  Allah ke bataaye hue din ki qasam
   Keh raha hai khud ye kibriya
   Ba khuda ba khuda ba khuda
-  Deher mein binaye la ilaah
-  Ba khuda hussain hai
+  Dehr mein binaa-e-la ilaah
+  Ba khuda Husain hai
 
   1
-  Saansein nisar baadshahe mashraqain par
-  Qurban dil ka chain bhi zahra ke chain par
-  Apne lahoo se likhte hai akbar ke pursadar
-  Sadqe ye do jahan hai imame hussain par
-  Haq ki zaban raaz e azaan shaahe shaheedan
-  Kashti e nabi ka nakhuda
+  Saanseṅ nisaar baadshaah-e-mashriqain par
+  Qurbaan dil ka chain bhi Zahra ke chain par
+  Apne lahu se likhte haiṅ Akbar ke pursadaar
+  Sadqe ye do jahaaṅ hai Imaam-e-Husain par
+  Haq ki zabaan raaz-e-azaaṅ shaah-e-shahidaan
+  Kashti-e-Nabi ka naakhuda
+  Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   2
-  Uski bulandiyon ka ihata koi nahi
-  Wo behr hai ke jiska kinara koi nahi
-  Tareekh e kayenat mein aisa koi nahi
-  Khilkat mein uski shaan ka band akoi nahi
-  Noore haram shaahe umam deen ka bharam hai
-  Do jahan mein naaze kibriya
+  Us ki bulandiyoṅ ka ihaata koi nahiṅ
+  Wo bahr hai ke jis ka kinaara koi nahiṅ
+  Taarikh-e-kaainaat mein aisa koi nahiṅ
+  Khilqat mein us ki shaan ka banda koi nahiṅ
+  Nur-e-haram shaah-e-umam din ka bharam hai
+  Do jahaaṅ mein naaz-e-kibriya
+  Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   3
   As salaam as salaam as salaam
-  Ya hussain as salaam
-  Maula hussain sayyed o salaar as salaam
-  Au kushtagane ishq ke sardar as salaam
-  Ay mehmana e assaib e noor as salaam
-  Haye hussain tashna o ranjoor as salaam
-  Ay aakhri nabi ke nawase tere nisaar
-  Ay saahile furaat ke pyase tere nisaar
+  Ya Husain as salaam
+  Maula Husain sayyid o salaar as salaam
+  Aur kushtagaan-e-ishq ke sardaar as salaam
+  Ae mehmana-e-assaib-e-nur as salaam
+  Haaye Husain tashna o ranjur as salaam
+  Ae aakhri Nabi ke nawaase tere nisaar
+  Ae saahil-e-Furaat ke pyaase tere nisaar
   As salaam as salaam as salaam
-  Sallal lahu wa alika ya abaab dillah
-  Laayek e salaame kibriya
+  Sallal laahu wa alika ya Aba Abdillah
+  Laaiq-e-salaam-e-kibriya
+  Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   4
-  Halqon mein chal rahi hai hawa ya hussain ki
-  Daulat hamay hui hai ataa ya hussain ki
-  Lagta hai aane waala hai ab aakhri hussain
-  Kaabe se aa rahi hai sada ya hussain ki
-  Baabe saqa rabbe ataa dar hai dua ka
+  Halqoṅ mein chal rahi hai hawa ya Husain ki
+  Daulat hameṅ hui hai ataa ya Husain ki
+  Lagta hai aane waala hai ab aakhri Husain
+  Kaabe se aa rahi hai sada ya Husain ki
+  Baab-e-saqa rabb-e-ataa dar hai dua ka
   Matami ka sirf aasra
+  Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   5
-  Saje ko apne qibla e kaaba bana diya
-  Khaali zameen ko arshe moalla bana diya
-  Meraaj ke nazare dikhaye zameen par
-  Qaime ko kohe toor ke jaisa bana diya
-  Abre karam naaze ajamshaahe arab hai
-  Aaj tak ameer e karbala
+  Saje ko apne qibla-e-Kaaba bana diya
+  Khaali zamiṅ ko arsh-e-mualla bana diya
+  Meraaj ke nazaare dikhaaye zamin par
+  Khaime ko koh-e-Tur ke jaisa bana diya
+  Abr-e-karam naaz-e-ajam shaah-e-Arab hai
+  Aaj tak amir-e-Karbala
+  Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   6
-  Poora nabi ka khwab kiya hai hussain ne
-  Maqtal ka inteqab kiya hai hussain ne
-  Chadar chini hai zainab o kulsoom ki magar
-  Dushamn ko be-naqaab kiya hai hussain ne
-  Subhe azal shaame abad noore ahad hai
-  Inqelaab e waqt ki sada
+  Pura Nabi ka khwaab kiya hai Husain ne
+  Maqtal ka intikhaab kiya hai Husain ne
+  Chaadar chhini hai Zainab o Kulsum ki magar
+  Dushman ko benaqaab kiya hai Husain ne
+  Subh-e-azal shaam-e-abad nur-e-ahad hai
+  Inqilaab-e-waqt ki sada
+  Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   7
-  Ashoor aur dasht ka manzar lahoo lahoo
-  Asghar ka halq seena e akbar lahoo lahoo
-  Zakhmon se choor ho ke mohamed ka laadla
-  Aaya hai pushte zeen se zameen par lahoo lahoo
-  Shor utha pyasa gala katne gala hai
-  Bekas o ghareeb o bekhata
+  Aashur aur dasht ka manzar lahu lahu
+  Asghar ka halq sina-e-Akbar lahu lahu
+  Zakhmoṅ se chur ho ke Muhammad ka laadla
+  Aaya hai pusht-e-ziṅ se zamin par lahu lahu
+  Shor utha pyaasa gala katne gala hai
+  Bekas o gharib o bekhata
+  Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   8
-  Matam ki saf jahan bhi banate hai matami
-  Daste khuda ka haath batate hai matami
-  Tazeem mein utha hai takallum har ek bashar
-  Ek shor hai ke hashr mein aate hai matami
-  Aankhon mein nam seeno mein gham lab pe sada hai
-  Kaarwan e haq ka peshwa
+  Maatam ki saf jahaaṅ bhi banaate hai matami
+  Dast-e-khuda ka haath bataate haiṅ matami
+  Taazim mein utha hai Takallum har ek bashar
+  Ek shor hai ke hashr mein aate haiṅ matami
+  Aankhoṅ mein nam sinoṅ mein gham lab pe sada hai
+  Kaarwaan-e-haq ka peshwa
+  Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   9
-  Haye shahe karbala
+  Haaye shaah-e-Karbala
+  Ya Husain ya Husain
   Fatema ka laadla
+  Ya Husain ya Husain
   Ghar ka ghar tera luta
+  Ya Husain ya Husain
   Koi na tera raha
-  Asghar e bekhata
-  Hussain hussain hussain husssain
-  Akbar e naujawan
-  Haye wo bawafa
-  Haye sheh ka gala
+  Ya Husain ya Husain
+  Asghar-e-bekhata
+  Husain Husain Husain Husain
+  Akbar-e-nau jawaaṅ
+  Husain Husain Husain Husain
+  Haaye wo bawafa
+  Husain Husain Husain Husain
+  Haaye sheh ka gala
+  Husain Husain Husain Husain
 # source_id: nohayonline:eba2b349220a9ce2bc4d
 # source_url: https://www.nohayonline.com/details_content.php?id=3611
 # raw_sha256: 7ef322ad6e1857c6e27352f6e0d9d65adb2fddc600eec6398793240b9ed9a9ef
@@ -110,16 +129,19 @@ romanLyrics: |-
 
 یا حسین یا حسین
 یا حسین حسین حسین
+
 سید و سردار من
 مرشد و سلطان من
+یا حسین یا حسین
 اکبر و سالار من
 ممبر ایمان من
+
 والعصر کی قسم والفجر کی قسم
 والنور کی قسم یاسین کی قسم
 اللہ کے بتائے ہوئے دین کی قسم
 کہہ رہا ہے خود یہ کبریا
 با خدا با خدا با خدا
-دہر میں بناے لا الہ
+دہر میں بنائے لا الہ
 با خدا حسین ہے
 
 ۱
@@ -129,14 +151,16 @@ romanLyrics: |-
 صدقے یہ دو جہاں ہے امام حسین پر
 حق کی زبان راز اذاں شاہ شہیدان
 کشتیء نبی کا نا خدا
+با خدا با خدا با خدا با خدا حسین ہے
 
 ۲
-اس کی بلندیوں کا احاطہ کوی نہیں
-وہ بحر ہے کہ جس کا کنارہ کوی نہیں
-تاریخ کاینات میں ایسا کوئی نہیں
-خلقت میں اس کی شان کا بندہ کوی نہیں
+اس کی بلندیوں کا احاطہ کوئی نہیں
+وہ بحر ہے کہ جس کا کنارہ کوئی نہیں
+تاریخ کائنات میں ایسا کوئی نہیں
+خلقت میں اس کی شان کا بندہ کوئی نہیں
 نور حرم شاہ امم دین کا بھرم ہے
 دو جہاں میں ناز کبریا
+با خدا با خدا با خدا با خدا حسین ہے
 
 ۳
 السلام السلام السلام
@@ -144,28 +168,31 @@ romanLyrics: |-
 مولا حسین سید و سالار السلام
 اور کشتہ گان عشق کے سردار السلام
 اے میہمان اسایب نور السلام
-ہاے حسین تشنہ و رنجور السلام
+ہائے حسین تشنہ و رنجور السلام
 اے آخری نبی کے نواسے تیرے نثار
 اے ساحل فرات کے پیاسے تیرے نثار
 السلام السلام السلام
 صلی اللہ وا علیک یا ابا عبداللہ
-لایک سلام کبریا
+لائق سلام کبریا
+با خدا با خدا با خدا با خدا حسین ہے
 
 ۴
 حلقوں میں چل رہی ہے ہوا یا حسین کی
-دولت ہمیں ہوی ہے عطا یا حسین کی
+دولت ہمیں ہوئی ہے عطا یا حسین کی
 لگتا ہے آنے والا ہے اب آخری حسین
 کعبے سے آ رہی ہے صدا یا حسین کی
 باب سقہ رب عطا در ہے دعا کا
 ماتمی کا صرف آسرا
+با خدا با خدا با خدا با خدا حسین ہے
 
 ۵
 سجے کو اپنے قبلہء کعبہ بنا دیا
 خالی زمیں کو عرش معلیٰ بنا دیا
-معراج کے نظارے دکھاے زمین پر
+معراج کے نظارے دکھائے زمین پر
 خیمے کو کوہ طور کے جیسا بنا دیا
 ابر کرم ناز اجم شاہ عرب ہے
 آج تک آمیر کربلا
+با خدا با خدا با خدا با خدا حسین ہے
 
 ۶
 پورا نبی کا خواب کیا ہے حسین نے
@@ -174,6 +201,7 @@ romanLyrics: |-
 دشمن کو بے نقاب کیا ہے حسین نے
 صبحِ ازل شام ابد نور عہد ہے
 انقلاب وقت کی صدا
+با خدا با خدا با خدا با خدا حسین ہے
 
 ۷
 عاشور اور دشت کا منظر لہو لہو
@@ -182,6 +210,7 @@ romanLyrics: |-
 آیا ہے پشت زیں سے زمین پر لہو لہو
 شور اٹھا پیاسا گلا کٹنے گلا ہے
 بیکس و غریب و بے خطا
+با خدا با خدا با خدا با خدا حسین ہے
 
 ۸
 ماتم کی صف جہاں بھی بناتے ہے ماتمی
@@ -190,14 +219,22 @@ romanLyrics: |-
 ایک شور ہے کہ حشر میں آتے ہیں ماتمی
 آنکھوں میں نم سینوں میں غم لب پہ صدا ہے
 کاروانہء حق کا پیشوا
+با خدا با خدا با خدا با خدا حسین ہے
 
 ۹
-ہاے شہ کربلا
+ہائے شہ کربلا
+یا حسین یا حسین
 فاطمہ کا لاڈلا
+یا حسین یا حسین
 گھر کا گھر تیرا لٹا
+یا حسین یا حسین
 کوئی نہ تیرا رہا
+یا حسین یا حسین
 اصغر بے خطا
 حسین حسین حسین حسین
 اکبر نوجواں
-ہاے وہ با وفا
-ہاے شہ کا گلا
+حسین حسین حسین حسین
+ہائے وہ با وفا
+حسین حسین حسین حسین
+ہائے شہ کا گلا
+حسین حسین حسین حسین
