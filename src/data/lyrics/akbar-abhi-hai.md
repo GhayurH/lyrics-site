@@ -11,8 +11,8 @@ aliases: []
 published: false
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Akbar abhi hai raah mein Laila pukar lo
-  Apne pisar ke husn ka sadqa utar lo
+  Akbar abhi hai raah mein Laila pukaar lo
+  Apne pisar ke husn ka sadqa utaar lo
 
   1
   Ran ki taraf jo jaate haiṅ hamshakl-e-Mustafa
@@ -20,9 +20,9 @@ romanLyrics: |-
   Ro ro ke keh rahi hai ye ab Bint-e-Murtaza
 
   2
-  Athara saal paala tha jis naujawan ko
+  Athaarah saal paala tha jis naujawaan ko
   Rukhsat Husain karte haiṅ us mehman ko
-  Hamnam-e-Murtaza wo Nabi ke nishan ko
+  Hamnaam-e-Murtaza wo Nabi ke nishaan ko
 
   3
   Farzand ye tumhara mere dil ka chain hai
@@ -31,32 +31,32 @@ romanLyrics: |-
 
   4
   Ran ko chala hai ye jo hai hamshakl-e-Mustafa
-  Abbas se jalal mein jurrat mein Murtaza
-  Madar hai Laila baap hai Sultan-e-Karbala
+  Abbas se jalaal mein jurrat mein Murtaza
+  Maadar hai Laila baap hai Sultaan-e-Karbala
 
   5
-  Sochi thi us ka byaah rachane ke waste
-  Basti nai nai main basane ke waste
-  Kya tum jiyogi ashk bahane ke waste
+  Sochi thi us ka byaah rachane ke waaste
+  Basti nai nai main basane ke waaste
+  Kya tum jiyoge ashk bahane ke waaste
 
   6
-  Bole Husain bete se ba-chashm-e-ashkbar
-  Beta hamare seene se lag jao ek baar
-  Tum ja rahe ho dil pe nahiṅ mere ikhtiyar
+  Bole Husain bete se ba-chashm-e-ashkbaar
+  Beta hamare sine se lag jao ek baar
+  Tum ja rahe ho dil pe nahiṅ mere ikhtiyaar
 
   7
-  Zainab ka dil ho dilbare shaahinshahe zaman
-  Atharhwiṅ bahar hai shadab hai chaman
+  Zainab ka dil ho dilbar-e-Shahanshah-e-Zaman
+  Athaarhwiṅ bahaar hai shaadaab hai chaman
   Bint-e-Ali ke lab pe har ek baar hai sukhan
 
   8
-  Maidan ki simt jaate haiṅ ab Akbar-e-Hasin
-  Thame kaleja dekhte haiṅ un ko Shah-e-Din
+  Maidaṅ ki simt jaate haiṅ ab Akbar-e-Hasin
+  Thaame kaleja dekhte haiṅ un ko Shah-e-Din
   Laila se ro ke kehti hai ye Zainab-e-Hazin
 
   9
-  Thame kamar ko Fatima Zehra ka laal hai
-  Gham se ajib Madar-e-Muztar ka haal hai
+  Thaame kamar ko Fatima Zehra ka laal hai
+  Gham se ajib Maadar-e-Muztar ka haal hai
   Mazhar phuphi ke lab pe faqat ye maqaal hai
 # source_id: nohayonline:696712ed37ffeb89859a
 # source_url: https://www.nohayonline.com/details_content.php?id=2896
@@ -86,7 +86,7 @@ romanLyrics: |-
 مادر ہے لیلیٰ باپ ہے سلطان کربلا
 
 ۵
-سونچی تھی اس کا بیاہ رچانے کے واسطے
+سوچی تھی اس کا بیاہ رچانے کے واسطے
 بستی نئی نئی میں بسانے کے واسطے
 کیا تم جیو گے اشک بہانے کے واسطے
 
@@ -103,7 +103,7 @@ romanLyrics: |-
 ۸
 میداں کی سمت جاتے ہیں اب اکبر حسیں
 تھامے کلیجہ دیکھتے ہیں ان کو شاہ دیں
-لیلیٰ سے روکے کہتی ہے یہ زینب حزیں
+لیلیٰ سے رو کے کہتی ہے یہ زینب حزیں
 
 ۹
 تھامے کمر کو فاطمہ زہرا کا لال ہے

@@ -17,23 +17,23 @@ romanLyrics: |-
 
   1
   Bole hawa se Akbar kuchh khaak hi ura de
-  Sina bamae sina ke Lillah tu chhupa de
+  Sina bamae sinaṅ ke Lillah tu chhupa de
   Hum zakhm kha chuke haiṅ wo zakhm kha rahe haiṅ
 
   2
   Kuchh der nind kar lo jaage ho raat bhar ke
   Kuchh kaam hai phuphi ke kuchh Shaam ke safar ke
-  Hum rastoṅ ke kante Baba hata rahe haiṅ
+  Hum raastoṅ ke kaante Baba hata rahe haiṅ
 
   3
-  Aana hai gar zaruri is dasht-e-beaman mein
-  Is abr-e-tir o khanjar is barish-e-sinaṅ mein
+  Aana hai gar zaruri is dasht-e-beamaan mein
+  Is abr-e-tir o khanjar is baarish-e-sinaṅ mein
   Abid ko bhej dijiye kiun aap aa rahe haiṅ
 
   4
   Barchhi ka phal hamare sine mein kab hai utra
   Yaad aa gayi thi Sughra sine mein dard utha
-  Sine pe haath rakh ke yadeṅ bhula rahe haiṅ
+  Sine pe haath rakh ke yaadeṅ bhula rahe haiṅ
 
   5
   Sheh ne pae tasalli Akbar ko ye sada di
@@ -42,21 +42,21 @@ romanLyrics: |-
 
   6
   Aakhir wo waqt aaya Shabbir larkharae
-  Ghutnoṅ ke bal wo chal ke lash-e-pisar pe aae
-  Bole Ae laal uth jaa hum khat suna rahe haiṅ
+  Ghutnoṅ ke bal wo chal ke laash-e-pisar pe aae
+  Bole ae laal uth jaa hum khat suna rahe haiṅ
 
   7
-  Khat kya sunate Maula aṅsu baha ke bole
+  Khat kya sunate Maula aansu baha ke bole
   Wo kaise khat sunega jo aankh tak na khole
-  Hum aṅsuoṅ se Sughra khat ko mita rahe haiṅ
+  Hum aansuoṅ se Sughra khat ko mita rahe haiṅ
 
   8
-  Barchhi jigar se khinchi ubla lahu ka dhara
+  Barchhi jigar se khinchi ubla lahu ka dhaara
   Akbar tarap ke bole ruk jaiye Khudara
   Sughra se kya hai kehna hum wo bata rahe haiṅ
 
   9
-  Lash-e-pisar pe Maula ghash kha ke gir chuke the
+  Laash-e-pisar pe Maula ghash kha ke gir chuke the
   Maqtal mein gunjte the Sayyidaniyoṅ ke nohe
   Rehaan aur Raza jo dohrae ja rahe haiṅ
 # source_id: nohayonline:24693a0212608e95f5c0

@@ -15,23 +15,23 @@ romanLyrics: |-
   Koi barh ke us ko rok lo
   
   1
-  Zainab ne us ko pala hai
-  Laila ka chaṅd nikla hai
-  Atharah saal wale ko
+  Zainab ne us ko paala hai
+  Laila ka chaand nikla hai
+  Athaarah saal wale ko
   
   2
   Bhaiya nazar na us ko lage
-  Shadi ho us ki phule phale
-  Arman pure hone do
+  Shaadi ho us ki phule phale
+  Armaan pure hone do
   
   3
-  Sadqa utar luṅ us ka
+  Sadqa utaar luṅ us ka
   De waqt mujh ko mere Khuda
   Ruk jae us ko itna kahuṅ
   
   4
   Shabbir ka hai nur-e-nazar
-  Zinda haiṅ khwahisheṅ madar
+  Zinda haiṅ khwahisheṅ maadar
   Zainab ki aarzu hai wo
   
   5

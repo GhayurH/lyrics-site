@@ -11,19 +11,20 @@ aliases: []
 published: false
 reciter: "Irfan Haider"
 romanLyrics: |-
-  Andhere ghar mein Sughra diye jalati hai
-  Jab dil ghabrata hai jab yaad satati hai
-  Bimar behan tujh ko ro ro ke bulati hai
-  Akbar ghar aa ja Sughra ka wasta
+  Andhere ghar mein Sughra diye jalaati hai
+  Jab dil ghabrata hai jab yaad sataati hai
+  Bimaar behan tujh ko ro ro ke bulaati hai
+  Akbar ghar aa ja Sughra ka waasta
   Yaad mein teri ro ro kar mar jaegi Sughra
+  Akbar ghar aa ja Sughra ka waasta
 
   1
   Tu dur hai mujh ko ye gham hai
   Baba ki tujhe qasam hai
-  Main takti rahi tera rasta
-  Madine se tu jab gaya karbala
+  Main takti rahi tera raasta
+  Madine se tu jab gaya Karbala
   Karbala Karbala haye Karbala
-  Mujh ko bhi le chal pura kar de wada
+  Mujh ko bhi le chal pura kar de waada
 
   2
   Ab katte nahiṅ haiṅ raat aur din
@@ -35,23 +36,23 @@ romanLyrics: |-
 
   3
   Awaaz mein teri jeete ji
-  Main phir se azan sun luṅ
+  Main phir se azaan sun luṅ
   Tujhe dekhna hai mehrab mein
-  Tu ek baar aa ja mere khwab mein
+  Tu ek baar aa ja mere khwaab mein
   Khwaab mein khwaab mein haye khwaab mein
   Main ne dekha hai zakhmi tera sina
 
   4
   Akbar ye tamanna hai meri
-  Main shadi rachauṅ teri
-  Behan bhai hum dobara mile
+  Main shaadi rachauṅ teri
+  Behan bhai hum dobara mileṅ
   Barhani haiṅ bhaiya mujhe mannateṅ
-  Mannatein mannatein haye mannatein
-  Mani haiṅ main ne dekhuṅ tera sehra
+  Mannateṅ mannateṅ haye mannateṅ
+  Maani haiṅ main ne dekhuṅ tera sehra
 
   5
-  Jab chaṅd Muharram ka dekha
-  Dil mera tadap ke bola
+  Jab chaand Muharram ka dekha
+  Dil mera tarap ke bola
   Khuda se yehi dua main ne ki
   Barha de mere bhai ki zindagi
   Zindagi zindagi haye zindagi
@@ -73,6 +74,7 @@ romanLyrics: |-
 بیمار بہن تجھ کو رو رو کے بلاتی ہے
 اکبر گھر آ جا صغرا کا واسطہ
 یاد میں تیری رو رو کر مر جائے گی صغرا
+اکبر گھر آ جا صغرا کا واسطہ
 
 ۱
 تُو دُور ہے مجھ کو یہ غم ہے
