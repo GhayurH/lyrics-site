@@ -15,7 +15,7 @@ romanLyrics: |-
   Kaabe mein kandhe par uthaya Kiuṅ tha
   Baazu pakar kar Khum pe dikhaya Kiuṅ tha
   Agar Ya Ali Madad kehna ghalat hai
-  To poochho mere Muhammad se
+  To puchho mere Muhammad se
   Khaibar mein bulaya Kiuṅ tha
   
   1
@@ -34,10 +34,10 @@ romanLyrics: |-
   Jihne Kaabe chon sajda karaya
   
   3
-  Ali ki maa jo na aati haram sajane ko
+  Ali ki maaṅ jo na aati haram sajane ko
   Tere haram ki tabiyat bhi theek ho jaati
   Agar na hota Ali ka aqd jo Zahra se
-  Batool Rab ki tarah la-shareek ho jaati
+  Batool Rab ki tarah lasharik ho jaati
   
   4
   Dindiyan mubarakaan horaan thalle aa ke

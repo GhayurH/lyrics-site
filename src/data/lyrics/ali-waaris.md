@@ -12,16 +12,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali Waaris tera waaris mera waaris
-  Lazzat-e-ishq-e-Ali kya hai zamane walon
-  Is ko darvesh sifat log samajh paate hain
+  Lazzat-e-ishq-e-Ali kya hai zamane walo
+  Is ko darvesh sifat log samajh paate haiṅ
   Kaun waaris hai tera kaun mera waaris hai
-  Aao ae ahl-e-jahan hum tumhein samjhate hain
+  Aao ae ahl-e-jahaaṅ hum tumheiṅ samjhate haiṅ
   Ali Waaris Ali Waaris
   
   1
   Naara darvesh ka har ghari har jagah
   Ali Waaris Ali Waaris
-  Main kahun tum kaho jo Nabi ne kaha
+  Main kahuṅ tum kaho jo Nabi ne kaha
   Ali Waaris Ali Waaris
   
   2
@@ -45,7 +45,7 @@ romanLyrics: |-
   Rakh ke maidan mein qadam apne lashkar se kaha
   
   6
-  Hai hamari mehfilon ki aabru zikr-e-Ali
+  Hai hamari mehfiloṅ ki aabru zikr-e-Ali
   Ye dua-e-Sayyeda se manzilat hum ko mili
   Aakhirat ki fikr kya fikr ho dunya ki kya
   
@@ -56,11 +56,11 @@ romanLyrics: |-
   
   8
   Hum hote nahi pareshan Ali Waaris hai
-  Mushkilein hoti hain aasan Ali Waaris hai
-  Hum us qabile ke afraad hain
-  Ye rasmein jis mein hamesha se hain
+  Mushkileiṅ hoti haiṅ aasaan Ali Waaris hai
+  Hum us qabile ke afraad haiṅ
+  Ye rasmeiṅ jis mein hamesha se haiṅ
   Ho imtehan ya koi maareka
-  Ghar se jo nikle to maa ne kaha
+  Ghar se jo nikle to maaṅ ne kaha
   Ja tera waaris hai mushkil-kusha
   Hai kaamyabi muqaddar tera
   Dushman tera kuchh na kar payega
@@ -69,17 +69,17 @@ romanLyrics: |-
   
   9
   Mashwara hai ye hamara aaj har insaan ko
-  Dushmanon se gar bachana chaho Pakistan ko
+  Dushmanoṅ se gar bachana chaho Pakistan ko
   Hai nizam-e-Mustafa har taraf ho ye sada
   
   10
   Deen bola Karbala mein aasra ab kaun hai
-  Hai bhanwar mein ye safeena na-khuda ab kaun hai
+  Hai bhanwar mein ye safina naakhuda ab kaun hai
   Deen ki sun kar sada keh uthi Karbobala
   
   11
   Mashk de kar ye Sakina ne kaha Abbas se
-  Khushk hai mera gala main mar na jaun pyas se
+  Khushk hai mera gala main mar na jaauṅ pyas se
   Dam karo Naad-e-Ali paani le aao ae chacha
   
   12
@@ -88,9 +88,9 @@ romanLyrics: |-
   Gham na khao tum mera jao bhai alvida
   
   13
-  Be-rida Sayyedaniyon se Shimr ne jab ye kaha
-  Ab hifazat ko tumhari kaun aayega bhala
-  Bekason ko dekh kar ro ke Zainab ne kaha
+  Berida Sayyedaniyoṅ se Shimr ne jab ye kaha
+  Ab hifazat ko tumhaari kaun aayega bhala
+  Bekasoṅ ko dekh kar ro ke Zainab ne kaha
   
   14
   Har ghari ishq-e-Ali mein lab-kusha Farhan hai
