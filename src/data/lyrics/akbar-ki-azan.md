@@ -14,21 +14,24 @@ romanLyrics: |-
   Shor tha Ashur ko
   Haye Husain Haye Husain
 
-  1
   Zehra ki fughaṅ Haye Husain
   Abbas ke bazu Haye Husain
   Asghar ka gala Haye Husain
   Zainab ki rida Haye Husain
+
+  1
   Ashur ko waqt-e-Asr sada
-  Deta tha munadi Khaliq ka
+  Deta tha munaadi Khaaliq ka
   Chhinti hai sar-e-Zainab se rida
   Ro ro ke ye kehti hai dukhiya
+  Haye Husain Haye Husain
 
   2
   Hamshakl-e-Nabi farzand-e-jawaṅ
-  Wo pyas mein tar wo lehja wo zabaṅ
-  Takbir mein wo andaz-e-bayan
+  Wo pyaas mein tar wo lehja wo zabaṅ
+  Takbir mein wo andaaz-e-bayaṅ
   Ashur ke din Akbar ki azan
+  Haye Husain Haye Husain
 # source_id: nohayonline:1f9e1a18a53546806a1d
 # source_url: https://www.nohayonline.com/details_content.php?id=454
 # raw_sha256: 853a701e74a6d75dfead05f028659bdde129e6147d73e32a561246ce708ed2e7
@@ -39,18 +42,21 @@ romanLyrics: |-
 شور تھا عاشور کو
 ہائے حسین ہائے حسین
 
-۱
 زہرا کی فغاں ہائے حسین
 عباس کے بازو ہائے حسین
 اصغر کا گلا ہائے حسین
 زینب کی ردا ہائے حسین
+
+۱
 عاشور کو وقتِ عصر صدا
 دیتا تھا منادی خالق کا
 چھنتی ہے سرِ زینب سے ردا
 رو رو کے یہ کہتی ہے دکھیا
+ہائے حسین ہائے حسین
 
 ۲
 ہم شکلِ نبی فرزندِ جواں
 وہ پیاس میں تر وہ لہجہ وہ زباں
 تکبیر میں وہ اندازِ بیاں
 عاشور کے دن اکبر کی اذاں
+ہائے حسین ہائے حسین

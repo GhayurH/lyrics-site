@@ -15,8 +15,10 @@ romanLyrics: |-
   Shabbir ko Zainab ne sada di ye tarap kar
   Akbar ke janaze pe mujhe le chalo bhaiya
 
+  Hum mil ke utha leṅge jawaṅ laal ka laasha
+  Akbar ke janaze pe mujhe le chalo bhaiya
+
   1
-  Hum mil ke utha leṅge jawaṅ laal ka lasha
   Atharah baras wale ka sar god mein le kar
   Main Nad-e-Ali parhti rahuṅgi Ae baradar
   Tum sina-e-Akbar se nikaloge jo neza
@@ -29,7 +31,7 @@ romanLyrics: |-
   3
   Main jaanti huṅ kaise jawaṅ hote haiṅ bete
   Aur dekhne par jaeṅ agar un ke janaze
-  Ab main bhi samajh sakti huṅ aulad ka sadma
+  Ab main bhi samajh sakti huṅ aulaad ka sadma
 
   4
   Aane nahiṅ duṅgi main kisi ko bhi wahaṅ par
@@ -38,13 +40,13 @@ romanLyrics: |-
 
   5
   Baba mere Baba ki sada de to raha hai
-  Awaz se lagta hai bahut dur gira hai
+  Aawaaz se lagta hai bahut dur gira hai
   Lo haath mera thamo bahut dur hai jaana
 
   6
-  Us karb ki halat se nikalega tumheṅ kaun
+  Us karb ki haalat se nikaalega tumheṅ kaun
   Wo eriyaṅ ragrega sambhalega tumheṅ kaun
-  Chadar se bana luṅgi main kuchh der ko parda
+  Chaadar se bana luṅgi main kuchh der ko parda
 
   7
   Tuti hai kamar aap ki Ae mere baradar
@@ -63,8 +65,10 @@ romanLyrics: |-
 شبیر کو زینب نے صدا دی یہ تڑپ کر
 اکبر کے جنازے پہ مجھے لے چلو بھیا
 
-۱
 ہم مل کے اٹھا لیں گے جواں لال کا لاشہ
+اکبر کے جنازے پہ مجھے لے چلو بھیا
+
+۱
 اٹھارہ برس والے کا سر گود میں لے کر
 میں نادِ علی پڑھتی رہوں گی اے برادر
 تم سینۂ اکبر سے نکالو گے جو نیزہ
@@ -100,6 +104,6 @@ romanLyrics: |-
 میں آپ کو بننے تو نہیں دوں گی تماشا
 
 ۸
-روتی ہے کوئی بی بی مسلسل پسِ پردہ
+روتی ہے کوئی بی‌بی مسلسل پسِ پردہ
 جب سے ہے سنا میر تکلم تیرا نوحہ
 بھائی سے گلے مل کے بہن بولی دوبارہ

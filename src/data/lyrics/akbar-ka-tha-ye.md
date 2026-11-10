@@ -12,14 +12,14 @@ published: false
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Akbar ka tha ye noha Sughra maaf karna
-  Dam tutta hai mera Sughra maaf karna
+  Dam tut'ta hai mera Sughra maaf karna
 
   1
-  Zakhmoṅ ke darmiyaṅ huṅ lamhoṅ ka mehman huṅ
-  Kaise nibhauṅ wada Sughra maaf karna
+  Zakhmoṅ ke darmiyaṅ huṅ lamhoṅ ka mehmaṅ huṅ
+  Kaise nibhauṅ waada Sughra maaf karna
 
   2
-  Kya hal-e-dil sunauṅ aauṅ to kaise aauṅ
+  Kya haal-e-dil sunauṅ aauṅ to kaise aauṅ
   Barchhi mein hai kaleja Sughra maaf karna
 
   3
@@ -36,10 +36,10 @@ romanLyrics: |-
 
   6
   Manzur thi shahadat pai na itni mohlat
-  Milne bhi aa na paya Sughra maaf karna
+  Milne bhi aa na paaya Sughra maaf karna
 
   7
-  Quran ki roshni se milta tha jo Nabi se
+  Quraaṅ ki roshni se milta tha jo Nabi se
   Ab bhul ja wo lehja Sughra maaf karna
 
   8
@@ -47,8 +47,8 @@ romanLyrics: |-
   Mehndi hai aur na sehra Sughra maaf karna
 
   9
-  Ammu ko ro rahe haiṅ binai kho rahe haiṅ
-  Baba hai besahara Sughra maaf karna
+  Ammu ko ro rahe haiṅ binaai kho rahe haiṅ
+  Baba haiṅ besahara Sughra maaf karna
 
   10
   Asghar ko pa sakogi jhula jhula sakogi
