@@ -8,36 +8,37 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Ali Zia Rizvi"
 romanLyrics: |-
-  Akbar-e-kadiyal jawan, akbar-e-kadiyal jawan
-  Seene pe akbar ne jab zulm ki khaayi sina
-  Har taraf chaayi hui gham ki thi tareekiyan
-  Kehti thi sar peet kar is tarha maqtal mein maa
+  Akbar karyal jawaṅ, Akbar karyal jawaṅ
+  Sine pe Akbar ne jab zulm ki khai sinaṅ
+  Har taraf chhai hui gham ki thi tarikiyaṅ
+  Kehti thi sar pit kar is tarah maqtal mein maaṅ
 
   1
-  Kaise hue beta tum aankhon se meri nihaa
-  Kaise pura shoab mein maa tumhe dhoonde kahan
-  Tum hi do awaaz ho ali akbar jahan
+  Kaise hue beta tum aankhoṅ se meri nihaṅ
+  Kaise pur aashob mein maaṅ tumheṅ dhundhe kahaṅ
+  Tum hi do aawaz ho Ali Akbar jahaṅ
 
   2
-  Algharaz pahunchay wahan thokare khaate hussain
-  Khoon mein dooba hua aaya nazar noore ayn
-  Kehke zameen par giray haaye mere dil ke chain
+  Algharaz pahunche wahaṅ thokareṅ khate Husain
+  Khun mein duba hua aaya nazar nur-e-ain
+  Keh ke zamin par gire haae mere dil ke chain
 
   3
-  Dekha ke seene se hai khoon ka darya rawan
-  Dard se noor e nazar khaak pa hai neem jaan
-  Khaynchli dil thaam ke seene se sheh ne sina
+  Dekha ke sine se hai khun ka darya rawaṅ
+  Dard se nur-e-nazar khaak pe hai nim jaaṅ
+  Khainch li dil thaam ke sine se Shah ne sinaṅ
 
   4
-  Laashaye akbar na jab shahe huda se utha
-  Rukh kiya suye najaf aaiye mushkil kusha
-  Kaise pura shoab mein dekhiye mai lut gaya
+  Lasha-e-Akbar na jab Shah-e-Huda se utha
+  Rukh kiya su-e-Najaf aaiye Mushkil Kusha
+  Kaise pur aashob mein dekhiye main lut gaya
 
   5
-  Sadke ho tum par ye maa aankhein to kholo zara
-  Sadke ho tum par ye maa moo se to bolo zara
-  Sadke ho tum par ye maa zakhm to dholo zara
+  Sadqe ho tum par ye maaṅ aankheṅ to kholo zara
+  Sadqe ho tum par ye maaṅ muṅh se to bolo zara
+  Sadqe ho tum par ye maaṅ zakhm to dho lo zara
 # source_id: nohayonline:5cc0043f98c897a491de
 # source_url: https://www.nohayonline.com/details_content.php?id=8
 # raw_sha256: 0aa3052a82230cd40c025bf3919002dbcf632fb775a737b54eff4f1b22f58191
@@ -57,20 +58,20 @@ romanLyrics: |-
 
 ۲
 الغرض پہنچے وہاں ٹھوکریں کھاتے حسین
-خون میں ڈوبا ہوا آیا نظر نور عین
-کہہ کے زمین پر گرے ہاے میرے دل کے چین
+خون میں ڈوبا ہوا آیا نظر نورِ عین
+کہہ کے زمین پر گرے ہائے میرے دل کے چین
 
 ۳
 دیکھا کے سینے سے ہے خون کا دریا رواں
-درد سے نور نظر خاک پہ ہے نیم جاں
+درد سے نورِ نظر خاک پہ ہے نیم جاں
 کھینچ لی دل تھام کے سینے سے شہ نے سناں
 
 ۴
-لاشہ اکبر نہ جب شاہ ہدا سے اٹھا
-رخ کیا سوے نجف آیے مشکل کشا
+لاشۂ اکبر نہ جب شاہِ ہدیٰ سے اٹھا
+رخ کیا سوئے نجف آئیے مشکل کشا
 کیسے پر آشوب مئی دیکھئے میں لٹ گیا
 
 ۵
 صدقے ہو تم پر یہ ماں آنکھیں تو کھولو ذرا
 صدقے ہو تم پر یہ ماں منہ سے تو بولو ذرا
-صدقے ہو تم پر یہ ماں زخم تو دھولو ذرا
+صدقے ہو تم پر یہ ماں زخم تو دھو لو ذرا

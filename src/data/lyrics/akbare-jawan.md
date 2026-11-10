@@ -9,63 +9,41 @@ poet: "Iqbal Abedi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Laila ki jaan sheh ke pisar akbar e jawan
-
+reciter: "Anj. Masoomeen"
+romanLyrics: |-
+  Laila ki jaan Shah ke pisar Akbar-e-jawaṅ
 
   1
-
-  Zehra ne jo basayi thi basti ujad gayi
-
-  Soona sa hogaya hai jahan akbar e jawan
-
+  Zehra ne jo basai thi basti ujar gai
+  Suna sa ho gaya hai jahaṅ Akbar-e-jawaṅ
 
   2
-
-  Parda jo qaimagah se uth''ta tha baar baar
-
-  Kya dil qaraash tha wo samaan akbar e jawan
-
+  Parda jo khaimagah se uthta tha baar baar
+  Kya dil kharash tha wo samaṅ Akbar-e-jawaṅ
 
   3
-
-  Chehra tera ay laal in aankhon mein reh gaya
-
-  Tujh par ay laal roti hai maa akbar e jawan
-
+  Chehra tera ae laal in aankhoṅ mein reh gaya
+  Tujh par ae laal roti hai maaṅ Akbar-e-jawaṅ
 
   4
-
-  Seena figaar hogaya barchi ki nok se
-
-  Tum par ye ro raha hai jahan akbar e jawan
-
+  Sina figar ho gaya barchhi ki nok se
+  Tum par ye ro raha hai jahaṅ Akbar-e-jawaṅ
 
   5
-
-  Ya rab kisi bhi baap ko ye din na dikhaye
-
-  Ek khoon bhari ho laashe jawan akbar e jawan
-
+  Ya Rab kisi bhi baap ko ye din na dikhae
+  Ek khuṅ bhari ho lash jawaṅ Akbar-e-jawaṅ
 
   6
-
-  Dekho khaleel aap bhi manzar ye khoon bhara
-
-  Sarwar uthaye laashe jawan akbar e jawan
-
+  Dekho Khalil aap bhi manzar ye khuṅ bhara
+  Sarwar uthae lash jawaṅ Akbar-e-jawaṅ
 
   7
-
-  Kis dil se mayyat laaye hai kadiyal jawan ki
-
-  Dar par khadi hai aap ki maa akbar e jawan
-
+  Kis dil se mayyat lae haiṅ karyal jawan ki
+  Dar par khari hai aap ki maaṅ Akbar-e-jawaṅ
 
   8
-
-  Sabir jahan se deen ka akbar guzar gaya
-
-  Iqbal ro raha hai yahan akbar e jawan'
+  Sabir jahaṅ se din ka Akbar guzar gaya
+  Iqbal ro raha hai yahaṅ Akbar-e-jawaṅ
 # source_id: nohayonline:c28665038f32156166e4
 # source_url: https://www.nohayonline.com/details_content.php?id=3036
 # raw_sha256: 929e45b0247cd2b8199303d9bd64d4711919d8cfba92c380dcabee34f3f2ff32
@@ -77,7 +55,7 @@ romanLyrics: 'Laila ki jaan sheh ke pisar akbar e jawan
 لیلیٰ کی جان شہ کے پسر اکبر جواں
 
 ۱
-زہرا نے جو بسای تھی بستی اجڑ گیء
+زہرا نے جو بسائی تھی بستی اجڑ گئی
 سونا سا ہو گیا ہے جہاں اکبر جواں
 
 ۲
@@ -93,15 +71,15 @@ romanLyrics: 'Laila ki jaan sheh ke pisar akbar e jawan
 تم پر یہ رو رہا ہے جہاں اکبر جواں
 
 ۵
-یا رب کسی بھی باپ کو یہ دن نہ دکھاے
+یا رب کسی بھی باپ کو یہ دن نہ دکھائے
 ایک خوں بھری ہو لاش جواں اکبر جواں
 
 ۶
 دیکھو خلیل آپ بھی منظر یہ خوں بھرا
-سرور اٹھاے لاش جواں اکبر جواں
+سرور اٹھائے لاش جواں اکبر جواں
 
 ۷
-کس دل سے میت لاے ہیں کڑیل جوان کی
+کس دل سے میت لائے ہیں کڑیل جوان کی
 در پر کھڑی ہے آپ کی ماں اکبر جواں
 
 ۸

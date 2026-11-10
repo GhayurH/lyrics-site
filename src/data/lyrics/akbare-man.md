@@ -9,50 +9,51 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Shahid Baltistani"
 romanLyrics: |-
-  Akbar e man nawjawan akbar e man
-  Ay mere raahat e jaan naujawan akbar e man
-  Tujpe qurban ye maa naujawan akbar e man jawan
+  Akbar-e-man naujawaṅ Akbar-e-man
+  Ae mere rahat-e-jaaṅ naujawaṅ Akbar-e-man
+  Tujh pe qurban ye maaṅ naujawaṅ Akbar-e-man jawan
 
   1
-  Saal atharwan kya ban ke qayamat aaya
-  Chand se seene pe pardes mein naiza khaaya
-  Hai kahan zakhme sina bol kuch to meri jaan
+  Saal atharahwaṅ kya ban ke qayamat aaya
+  Chand se sine pe pardes mein naiza khaya
+  Hai kahaṅ zakhm-e-sinaṅ bol kuchh to meri jaaṅ
 
   2
-  Baap ki aankhon se benaayi meri aas gayi
-  Tujko kausar ki taraf leke teri pyaas gayi
-  Meri tadapti hoo yahan ay meri raahat e jaan
+  Baap ki aankhoṅ se binai meri aas gai
+  Tujh ko Kausar ki taraf le ke teri pyas gai
+  Meri tarapti huṅ yahaṅ ae meri rahat-e-jaaṅ
 
   3
-  Waada sughra se kiya tha jo chale thay ghar se
-  Laut aaunga bahot jald mai tujhse milne
-  Dhoondti hai wo behen tere qadmon ke nishan
+  Wada Sughra se kiya tha jo chale the ghar se
+  Laut aauṅ ga bahut jald main tujh se milne
+  Dhundhti hai wo behen tere qadmoṅ ke nishaṅ
 
   4
-  Tum ko athara baras naazon se jisne paala
-  Wo phupi beton se bad kar tumhe jisne chaaha
-  Kehti hai laut ke aa ho gaya waqte azaan
+  Tum ko atharah baras nazoṅ se jis ne pala
+  Wo phuphi betoṅ se barh kar tumheṅ jis ne chaha
+  Kehti hai laut ke aa ho gaya waqt-e-azaṅ
 
   5
-  Khaa ke seene pe sina sota hai tu lakhte jigar
-  Tere bin zinda na reh payegi teri maadar
-  Uske haathon mein rasan jiska ho laal jawan
+  Kha ke sine pe sinaṅ sota hai tu lakht-e-jigar
+  Tere bin zinda na reh pae gi teri madar
+  Us ke haathoṅ mein rasan jis ka ho laal jawaṅ
 
   6
-  Aagayi gyara moharam hai safar zindan ka
-  Hai pase pusht bandhe haath nahi sar pe rida
-  Kya gawara hai tujhe thokare khaaye ye maa
+  Aa gai gyarah Muharram hai safar zindaṅ ka
+  Hai pas-e-pusht bandhe haath nahiṅ sar pe rida
+  Kya gawara hai tujhe thokareṅ khae ye maaṅ
 
   7
-  Tauq karta hai fughan karti hai matam zanjeer
-  Ashke khoon rote hai naize pe janabe shabbir
-  Paaye sajjad ke hai aabile nauha kuna
+  Tauq karta hai fughaṅ karti hai matam zanjir
+  Ashk-e-khuṅ rote haiṅ naize pe Janab-e-Shabbir
+  Pa-e-Sajjad ke hai aable nauha kunaṅ
 
   8
-  Maa ke armaan tere saath hi soye ban mein
-  Tu ne seene pe sina khaayi kuch aise ran mein
-  Roya rehan qalam likh ke laila ka bayan
+  Maaṅ ke armaan tere saath hi soe ban mein
+  Tu ne sine pe sinaṅ khai kuchh aise ran mein
+  Roya Rehaan qalam likh ke Laila ka bayaṅ
 # source_id: nohayonline:4e5a31055586acd39fe9
 # source_url: https://www.nohayonline.com/details_content.php?id=2708
 # raw_sha256: b59f3c4f268fdd65cc72b3abc934bb8d7be4a8a081359ed50a662b68fabc3767
@@ -67,8 +68,8 @@ romanLyrics: |-
 ہے کہاں زخم سناں بول کچھ تو میری جاں
 
 ۲
-باپ کی آنکھوں سے بنای میری آس گیء
-تجھکو کوثر کی طرف لے کے تیری پیاس گیء
+باپ کی آنکھوں سے بینائی میری آس گئی
+تجھ کو کوثر کی طرف لے کے تیری پیاس گئی
 میری تڑپتی ہوں یہاں اے میری راحت جاں
 
 ۳
@@ -83,20 +84,20 @@ romanLyrics: |-
 
 ۵
 کھا کے سینے پہ سناں سوتا ہے تو لختِ جگر
-تیرے بن زندہ نہ رہ پاے گی تیری مادر
+تیرے بن زندہ نہ رہ پائے گی تیری مادر
 اس کے ہاتھوں میں رسن جس کا ہو لال جواں
 
 ۶
-آ گیء گیارہ محرم ہے سفر زنداں کا
+آ گئی گیارہ محرم ہے سفر زنداں کا
 ہے پس پشت بندھے ہاتھ نہیں سر پہ ردا
-کیا گنوارا ہے تجھے ٹھوکریں کھاے یہ ماں
+کیا گوارا ہے تجھے ٹھوکریں کھائے یہ ماں
 
 ۷
 طوق کرتا ہے فغاں کرتی ہے ماتم زنجیر
 اشک خوں روتے ہیں نیزے پہ جنابِ شبیر
-پاے سجاد کے ہے آبلے نوحہ کناں
+پائے سجاد کے ہے آبلے نوحہ کناں
 
 ۸
-ماں کے ارمان تیرے ساتھ ہی سوے بن میں
-تو نے سینے پہ سناں کھای کچھ ایسے رن میں
+ماں کے ارمان تیرے ساتھ ہی سوئے بن میں
+تو نے سینے پہ سناں کھائی کچھ ایسے رن میں
 رویا ریحان قلم لکھ کے لیلیٰ کا بیاں

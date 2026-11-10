@@ -59,7 +59,7 @@ romanLyrics: |-
   Kuchh to qarar aae dil-e-beqarar mein
 
   12
-  Rateṅ guzar rahi haiṅ Madine mein is tarah
+  Raateṅ guzar rahi haiṅ Madine mein is tarah
   Jaise koi tarapta ho apne mazar mein
 
   13
