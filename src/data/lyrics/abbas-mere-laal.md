@@ -1,11 +1,12 @@
 ---
-title: "بیٹا میری غربت کی کمای کو سنبھالو"
+title: "بیٹا میری غربت کی کمائی کو سنبھالو"
 alternateTitle: "Abbas Mere Laal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,6 +14,7 @@ romanLyrics: |-
   Beta meri ghurbat ki kamai ko sambhalo
   Abbas mere laal ko tum aa ke bacha lo
   Abbas al-madad mere Abbas al-madad
+  Abbas mere laal ko tum aa ke bacha lo
 
   1
   Bhai ke liye mojiza dikhla nahiṅ sakte
@@ -42,11 +44,11 @@ romanLyrics: |-
   6
   Jo chaar qadam mujh se chala bhi nahiṅ jaata
   Pehlu hai shikasta to utha bhi nahiṅ jaata
-  Bazu-e-burida se mujhe aa ke sambhalo
+  Baazu-e-burida se mujhe aa ke sambhalo
 
   7
   Tiroṅ ke musalle pe hai Yasrab ka namazi
-  Lillah chale aao kahan ho mere Ghazi
+  Lillah chale aao kahaṅ ho mere Ghazi
   Shabbir ke is aakhri sajde ko bacha lo
 
   8
@@ -66,6 +68,7 @@ romanLyrics: |-
 بیٹا میری غربت کی کمائی کو سنبھالو
 عباس میرے لال کو تم آ کے بچالو
 عباس المدد میرے عباس المدد
+عباس میرے لال کو تم آ کے بچالو
 
 ۱
 بھائی کے لیے معجزہ دکھلا نہیں سکتے

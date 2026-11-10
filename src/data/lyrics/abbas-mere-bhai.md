@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Faizan"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,6 +14,7 @@ romanLyrics: |-
   Abbas mere bhai Abbas mere bhai
   Mujhe bhai to keh do
   Hai meri tamanna ke hai meri tamanna ke
+  Mujhe bhai to keh do
 
   1
   Aaqa hi kaha hai mujhe jab jab bhi pukara
@@ -20,13 +22,13 @@ romanLyrics: |-
   Muddat se mere dil mein hai bas ek tamanna
 
   2
-  Pani ke liye bheja tha darya ke kinare
+  Paani ke liye bheja tha darya ke kinare
   Ye kis ki nazar kha gayi tum ko mere pyare
-  Bazu hai qalam khun mein duba hai pharera
+  Baazu hai qalam khun mein duba hai pharera
 
   3
   Tanha mujhe is tarah na chhoro mere bhai
-  Is hal mein munh mujh se na moro mere bhai
+  Is haal mein munh mujh se na moro mere bhai
   Main seh nahiṅ sakta huṅ judai ka ye sadma
 
   4
@@ -61,6 +63,7 @@ romanLyrics: |-
 عباس میرے بھائی عباس میرے بھائی
 مجھے بھائی تو کہہ دو
 ہے میری تمنا کہ ہے میری تمنا کہ
+مجھے بھائی تو کہہ دو
 
 ۱
 آقا ہی کہا ہے مجھے جب جب بھی پکارا

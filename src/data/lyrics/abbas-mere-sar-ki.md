@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -18,7 +19,7 @@ romanLyrics: |-
   Abbas mere sar ki qasam kha
 
   1
-  Ae bazu-e-Shabbir wafadar qasam kha
+  Ae baazu-e-Shabbir wafadar qasam kha
   Ujrega nahiṅ Zehra ka bhara ghar qasam kha
   Rakh haath mere sar pe tu ek baar qasam kha
   Aaqa pe fida hoga tera sar
@@ -30,14 +31,14 @@ romanLyrics: |-
   Jaan de ke bachana hai tujhe ghar
 
   3
-  Ye bazu nigehban hai Zainab ki rida ke
-  Narghe ho agar charoṅ taraf Ahl-e-Jafa ke
+  Ye baazu nigehban hai Zainab ki rida ke
+  Narghe ho agar chaaroṅ taraf Ahl-e-Jafa ke
   Tu rakhega Shahzadi ko parde mein chhupa ke
   Jaayegi na Shahzadi ki chadar
 
   4
-  Saqqa hai tu saqqai pe jaan apni lutana
-  Pyasi ho agar Aal-e-Nabi pani pilana
+  Saqqa hai tu saqqai pe jaaṅ apni lutana
+  Pyasi ho agar Aal-e-Nabi paani pilana
   Din raat Sakina ko kaleje se lagana
   Roegi na Shabbir ki dukhtar
 
