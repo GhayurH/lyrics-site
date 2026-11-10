@@ -15,12 +15,12 @@ romanLyrics: |-
   Kore na maar bekhata Abid udaas hai
 
   1
-  Pahuncha jo Shaam qafila Abid udaas hai
+  Pahuncha jo Shaam qaafila Abid udaas hai
   Khush hai har ek behaya Abid udaas hai
 
   2
-  Ehsan hoga kuchh to karam kar alil par
-  Tujh ko Khuda ka wasta Abid udaas hai
+  Ehsaan hoga kuchh to karam kar alil par
+  Tujh ko Khuda ka waasta Abid udaas hai
 
   3
   Dekhega kaise maaoṅ ka behnoṅ ka sar khula
@@ -31,11 +31,11 @@ romanLyrics: |-
   Neze pe sar Husain ka Abid udaas hai
 
   5
-  Ye halat-e-ruku mein kaise safar kare
+  Ye haalat-e-ruku mein kaise safar kare
   Rakhegi kaise hausla Abid udaas hai
 
   6
-  Abbas garche hota salamat Ae Shamiyoṅ
+  Abbas garche hota salaamat Ae Shaamiyoṅ
   Kehna na parta bakhuda Abid udaas hai
 
   7
@@ -43,7 +43,7 @@ romanLyrics: |-
   Is fikr mein har ek jaa Abid udaas hai
 
   8
-  Darbar mein Najaf ye munadi ne di sada
+  Darbaar mein Najaf ye munadi ne di sada
   Aai hai Bint-e-Fatima Abid udaas hai
 # source_id: nohayonline:07ef268e23f0b310cc22
 # source_url: https://www.nohayonline.com/details_content.php?id=854

@@ -13,14 +13,14 @@ reciter: "Mir Hassan Mir"
 romanLyrics: |-
   Abid ko jahaṅ ghash aata hai
   Durroṅ se jagaya jaata hai
-  Ek phul hai jis ko kantoṅ par
+  Ik phul hai jis ko kantoṅ par
   Din raat chalaya jaata hai
 
   1
   Abbas ki ghairat se aksar
   Abid ki asiri puchhti hai
   Kya chaar baras ki behna ko
-  Zindan mein sulaya jaata hai
+  Zindaaṅ mein sulaya jaata hai
 
   2
   Sadaat ke khaime jalte haiṅ
@@ -35,20 +35,20 @@ romanLyrics: |-
   Bachchi ko giraya jaata hai
 
   4
-  Bibi ko qarib-e-lash-e-jari
+  Bibi ko qarib-e-laash-e-jari
   Durroṅ ki aziyat dete haiṅ
-  Abbas ko tarpane ke liye
+  Abbas ko tarapne ke liye
   Zainab ko sataya jaata hai
 
   5
   Ghairat ke sabab jis Bibi ne
   Ghar mein bhi na dekha aaina
   Beparda use laane ke liye
-  Darbar sajaya jaata hai
+  Darbaar sajaya jaata hai
 
   6
   Bin byaah ke Akbar maare gaye
-  Armaan na nikle Bano ke
+  Armaan na nikla Baano ka
   Tabut pe Akbar ke sehra
   Kuch yuṅ bhi charhaya jaata hai
 
@@ -91,13 +91,13 @@ romanLyrics: |-
 بچی کو گرایا جاتا ہے
 
 ۴
-بی بی کو قریب لاش جری
+بی‌بی کو قریب لاش جری
 درّوں کی اذیت دیتے ہیں
 عباس کو تڑپنے کے لئے
 زینب کو ستایا جاتا ہے
 
 ۵
-غیرت کے سبب جس بی بی نے
+غیرت کے سبب جس بی‌بی نے
 گھر میں بھی نہ دیکھا آیینہ
 بے پردہ اسے لانے کے لئے
 دربار سجایا جاتا ہے

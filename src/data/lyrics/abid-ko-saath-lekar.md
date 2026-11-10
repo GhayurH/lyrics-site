@@ -19,7 +19,7 @@ romanLyrics: |-
   Roti thi yaad kar ke jab ho gayi rehai
 
   2
-  Kaise uthaya Shah ne kariyal jawan ka lasha
+  Kaise uthaya Shah ne kariyal jawaṅ ka laasha
   Sarwar ke dil se puchho farzand ki judai
 
   3
@@ -27,19 +27,19 @@ romanLyrics: |-
   Aankhoṅ mein hai wo manzar Zainab jo dekh aai
 
   4
-  Sar par na thi ridaeṅ bazu bandhe hue the
-  Aulad-e-Fatima ki bazar ho ke aai
+  Sar par na thiṅ ridaeṅ bazu bandhe hue the
+  Aulad-e-Fatima ki bazaar ho ke aai
 
   5
-  Darbar ka tha manzar tasht-e-tala mein wo sar
+  Darbaar ka tha manzar tasht-e-tala mein wo sar
   Har har qadam pe Nana Abid ko maut aai
 
   6
   Karbal se Shaam tak bhi pyasi rahi Sakina
-  Ghut ghut ke aakhir us ko zindan mein maut aai
+  Ghut ghut ke aakhir us ko zindaaṅ mein maut aai
 
   7
-  Pehre the aṅsuoṅ par kya sakhtiyaṅ thiṅ Sajid
+  Pehre the aansuoṅ par kya sakhtiyaṅ thiṅ Sajid
   Baba ko yaad kar ke bachchi na rone pai
 # source_id: nohayonline:0b340d72c29dd8435250
 # source_url: https://www.nohayonline.com/details_content.php?id=2875
