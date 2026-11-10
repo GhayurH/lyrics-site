@@ -14,76 +14,78 @@ romanLyrics: |-
   Waadi-e-ghurbat ke mehmaan
   
   1
-  Shaah ki dukhtar laashe chacha par
+  Shaah ki dukhtar laash-e-chacha par
   Nehr kinaare thi naalaaṅ
+  Ammu jaan ammu jaan
+  Waadi-e-ghurbat ke mehmaan
   
   2
   Dilbar-e-Haider saani-e-Jafar
-  Shere dilawar tashna dahan
+  Sher dilaawar tashna dahaaṅ
   
   3
-  Baaghe nabi gulzaare ali
-  Pamaal kiye ran mein aada
+  Baagh Nabi gulzaar Ali
+  Paamaal kiye ran mein aada
   Na baba na bhaiya
-  Rayth hai ban mein laashon ka
+  Ret hai ban mein laashoṅ ka
   Jaye taraai dil ko kushaai
   Kar gaye kunbe ko veeraan
   
   4
-  Cheen ke darya pani ko roka
-  Pyason ko pani bhi na diya
-  Amre dagha bachon ka
+  Chhin ke darya paani ko roka
+  Pyaasoṅ ko paani bhi na diya
+  Amr dagha bachchoṅ ka
   Aah na kuch bhi paas kiya
-  Dard ye utha dil hai tadapta
+  Dard ye utha dil hai tarapta
   Kiski dawa hai na darmaan
   
   5
   Kaisi dagha hai kaisi jafa hai
-  Haath juda hai shaano se
-  Dil tukde tan purze
-  Teer o tabar shamsheeron se
-  Qalb hai muztar jaan labon par
-  Dekh ke tumko lahoo lahaan
+  Haath juda haiṅ shaanoṅ se
+  Dil tukre tan purze
+  Tir o tabar shamshiroṅ se
+  Qalb hai muztar jaan laboṅ par
+  Dekh ke tum ko lahu lahaan
   
   6
   Bekas utho bebas utho
-  Ghayre hai qaimon ko naari
+  Ghere haiṅ khaimoṅ ko naari
   Haye khaari dukhyaari
-  Bibiyan karte hai zaari
-  Maa hai munawar fidyaye daawar
-  Neend se jaago o nalaan
+  Bibiyaaṅ karte haiṅ zaari
+  Maah munawwar fidya-e-Daawar
+  Nind se jaago o naalaan
   
   7
   Shayda mere saqqa
-  Mere jangal mein ho uff tada
-  Wa darda wa darla
+  Mere jangal mein huṅ uftaada
+  Wa darda wa darda
   Haye sajjada la takiya
-  Rayt pe jalti laash hai tapti
-  Dhoop kadi soona maidan
+  Ret pe jalti laash hai tapti
+  Dhup kari suna maidaan
   
   8
-  Pehlu e anwar aah sitamgar
-  Gurze giran se choor kiya
-  Sar taapa wa darda
-  Behne laga khoon ka darya
-  Nehr kanare laash ko chode
-  Sar hai chadaye noke sinaan
+  Pehlu-e-anwar aah sitamgar
+  Gurz giraaṅ se chur kiya
+  Sar taa paa wa darda
+  Behne laga khuṅ ka darya
+  Nehr kinaare laash ko chhore
+  Sar hai charhaaya nok-e-sinaaṅ
   
   9
-  Shimre badakhtar khaynch ke khanjar
-  Khaufna laakar kaata gala
+  Shimr bad akhtar kheṅch ke khanjar
+  Khauf na laa kar kaata gala
   Sayyed ka murshad ka
-  Daagh mujhe kamsini mein diya
-  Maare sadaqat maahe imamat
-  Hogaya mitti mein veeran
+  Daagh mujhe kam sini mein diya
+  Maare sadaqaat maah imaamat
+  Ho gaya mitti mein viraan
   
   10
-  Seena e sarwar haye sitamgar
+  Sina-e-Sarwar haye sitamgar
   Haif na rutba ruk jaana
   Aaqa ka maula ka
-  Pad kar kalma ahmed ka
-  Fatema zehra jannat se aa
-  Laashe par hai nauha kunaan
+  Parh kar kalma Ahmad ka
+  Fatima Zehra jannat se aa
+  Laashe par hai nauha kunaaṅ
 # source_id: nohayonline:23a280fa99e131c52af6
 # source_url: https://www.nohayonline.com/details_content.php?id=833
 # raw_sha256: 717979eb4cf2c4118eb2e1aafad3fd23006e46aa0a7dc1cbc55aa1e6a60a7fa8
@@ -95,6 +97,8 @@ romanLyrics: |-
 ۱
 شاہ کی دختر لاشِ چچا پر
 نہر کنارے تھی نالاں
+عمو جان عمو جان
+وادیِ غربت کے مہمان
 
 ۲
 دلبرِ حیدر ثانیِ جعفر

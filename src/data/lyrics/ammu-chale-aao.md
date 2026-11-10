@@ -15,53 +15,53 @@ romanLyrics: |-
   
   1
   Meri khabar lene aaye na palat kar
-  Bhool gaye mujhko tum nehr pe jaa kar
+  Bhul gaye mujh ko tum nehr pe jaa kar
   Kaisi mohabbat hai ye kaisi wafa hai
   
   2
-  Rone nahiṅ deta hai Shimr-e-sitamgar
-  Saans ka lena bhi ab hogaya doobhar
+  Rone nahiṅ deta hai Shimr sitamgar
+  Saans ka lena bhi ab ho gaya dubhar
   Gham ki satayi par ye kaisi jafa hai
   
   3
-  Aap bhatiji se yuṅ ruthe hain kiuṅ kar
-  Kiun nahiṅ aate hain darya se palat kar
+  Aap bhatiji se yuṅ ruthe haiṅ kiuṅ kar
+  Kiuṅ nahiṅ aate haiṅ darya se palat kar
   Itna bata dijiye kya meri khata hai
   
   4
-  Ahle haram girya hai khaak pe baithe
-  Doob chuka suraj aur jal chuke qaime
-  Chaayi hui har soo ab gham ki ghata hai
+  Ahl-e-haram girya hai khaak pe baithe
+  Dub chuka suraj aur jal chuke khaime
+  Chhaayi hui har su ab gham ki ghata hai
   
   5
-  Jal gaya sholon mein bemaar ka bistar
-  Ab na raha baaqi gehwara e asghar
+  Jal gaya sholoṅ mein bimaar ka bistar
+  Ab na raha baaqi gehwaara-e-Asghar
   Aur mere kurte ka daaman bhi jala hai
   
   6
   Bahr-e-Khuda sun lo faryaad-e-Sakina
-  Apni bhatiji ko pahuncha do madina
-  Gham se yahan jeena dushwaar hua hai
+  Apni bhatiji ko pahuncha do Madina
+  Gham se yahaaṅ jina dushwaar hua hai
   
   7
-  Aale payambar ka jeena hua doobhar
-  Unko phiraate hai balwe mein khule sar
+  Aal payambar ka jina hua dubhar
+  Un ko phiraate haiṅ balwe mein khule sar
   Sar hai khule sab ke maqna na rida hai
   
   8
-  Kaun uthayega godhi mein bula ke
+  Kaun uthaaye ga godi mein bula ke
   Kaun pinhayega bunde mujhe laa ke
-  Shimr mere gohar bhi cheen raha hai
+  Shimr mere gohar bhi chhin raha hai
   
   9
   Bas yehi hasrat hai ammu mere dil ki
   Dekh le tum ko bas ek baar bhatiji
-  Pyaas ka shikwa na pani ka gila hai
+  Pyaas ka shikwa na paani ka gila hai
   
   10
-  Aaj bhi us gham sab girya kuna hai
-  Ab bhi bilal aankhon se ashk rawan hai
-  Keh ke sakina ne dam tod diya hai
+  Aaj bhi us gham sab girya kunaaṅ hai
+  Ab bhi Bilal aankhoṅ se ashk rawaaṅ hai
+  Keh ke Sakina ne dam tor diya hai
 # source_id: nohayonline:03e0804cf43a701aaa0d
 # source_url: https://www.nohayonline.com/details_content.php?id=3098
 # raw_sha256: ed0dc71eeb6e4f214fe5eecc72f1027ce280f78dd18fcb4a4aa92147f6b1cbe5
@@ -116,5 +116,5 @@ romanLyrics: |-
 
 ۱۰
 آج بھی اس غم سب گریہ کناں ہے
-اب بھی بلال آنکھوں سے آشک رواں ہے
+اب بھی بلال آنکھوں سے اشک رواں ہے
 کہہ کے سکینہ نے دم توڑ دیا ہے
