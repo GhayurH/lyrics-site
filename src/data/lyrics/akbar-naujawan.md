@@ -28,18 +28,18 @@ romanLyrics: |-
 
   4
   Khat mila aa ke le jao bimar ko
-  Kiun ho naraz Sughra se Ae bhai jaan
+  Kiuṅ ho naraaz Sughra se Ae bhai jaaṅ
 
   5
   Jab pisar ne bulaya madad ke liye
   Shah karte the girte sambhalte fughaṅ
 
   6
-  Sheh ne khinchi sinaṅ keh ke jab Ya Ali
-  Pasliyoṅ se tha bahar dil-e-beqarar
+  Sheh ne khenchi sinaṅ keh ke jab Ya Ali
+  Pasliyoṅ se tha baahar dil-e-beqaraar
 
   7
-  Gesuṅ wale tujh par phuphi ho fida
+  Gesuoṅ wale tujh par phuphi ho fida
   Thi yuṅ Zainab bhi lashe pe nohakunaṅ
 
   8

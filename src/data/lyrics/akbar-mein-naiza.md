@@ -19,16 +19,16 @@ romanLyrics: |-
   Thokareṅ khaate rahe maqtal mein Maula der tak
 
   2
-  Sina-e-Akbar se khincha Sheh ne keh kar Ya Ali
-  Dil mein uljha jab nikal paya na neza der tak
+  Sina-e-Akbar se khencha Sheh ne keh kar Ya Ali
+  Dil mein uljha jab nikal paaya na neza der tak
 
   3
   Saath mein barchhi ke nikla jab Ali Akbar ka dil
-  Ban ke aṅsu khun-e-dil aankhoṅ se nikla der tak
+  Ban ke aansu khun-e-dil aankhoṅ se nikla der tak
 
   4
   Jab ragar kar eriyaṅ bejaan Akbar ho gaye
-  Sheh ki aankhoṅ mein raha chhaya andhera der tak
+  Sheh ki aankhoṅ mein raha chhaaya andhera der tak
 
   5
   Uth na pai jab zaifi mein jawaṅ bete ki laash
@@ -36,19 +36,19 @@ romanLyrics: |-
 
   6
   Le ke Sheh kuchh dur aage barh gaye phir rakh diya
-  Jab na sambhla naujawaṅ bete ka lasha der tak
+  Jab na sambhla naujawaṅ bete ka laasha der tak
 
   7
   Le ke burha baap jab aaya jawaṅ bete ki laash
-  Khaima-e-Sheh mein hua kohram barpa der tak
+  Khaima-e-Sheh mein hua kohraam barpa der tak
 
   8
-  Kaise le jae jawaṅ ki laash maaṅ ke samne
+  Kaise le jae jawaṅ ki laash maaṅ ke saamne
   Yaas se dekha kiye Sheh su-e-khaima der tak
 
   9
-  Alam-e-ghurbat mein Sheh ko jab khat-e-Sughra mila
-  Shah-e-Din dekha kiye tahrir-e-Sughra der tak
+  Aalam-e-ghurbat mein Sheh ko jab khat-e-Sughra mila
+  Shah-e-Diṅ dekha kiye tahrir-e-Sughra der tak
 
   10
   Maiyyat-e-Akbar pe maaṅ ne yuṅ Zafar girya kiya
