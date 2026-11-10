@@ -1,24 +1,25 @@
 ---
 title: "عباس عباس اے میرے بھائی"
-alternateTitle: "Abbas Abbas Ay Mere"
+alternateTitle: "Abbas Abbas Ae Mere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Abbas Abbas Ay Mere"]
 published: false
 romanLyrics: |-
   Abbas Abbas ae mere bhai
 
   1
   Akbar bhi gaye chhor diye mujhko akele
-  Kya kya na sitam hain mere dil ne hain jhele
-  Lute hain sitamgar mere barsoṅ ki kamai
+  Kya kya na sitam haiṅ mere dil ne haiṅ jhele
+  Lute haiṅ sitamgar mere barsoṅ ki kamai
 
   2
   Bachchoṅ ka tarapna mujhe dekha nahiṅ jaata
-  Hai aas mein baithe hain liye haath mein kuza
+  Hai aas mein baithe haiṅ liye haath mein kuza
   Ab lutf nahiṅ khaimoṅ mein virani si chhai
 
   3
@@ -28,7 +29,7 @@ romanLyrics: |-
 
   4
   Bhai mere bhai ki sada gunj rahi hai
-  Mayus zaifi mein khare Ibn-e-Ali hain
+  Mayus zaifi mein khare Ibn-e-Ali haiṅ
   Ab halat-e-Shabbir pe roti hai Khudai
 # source_id: nohayonline:2e039ae0092eab67a871
 # source_url: https://www.nohayonline.com/details_content.php?id=3185
@@ -48,7 +49,7 @@ romanLyrics: |-
 اب لطف نہیں خیموں میں ویرانی سی چھائی
 
 ۳
-بیوؤں کی رداؤں کا بھی اب خوف ہے مجھ کو
+بیواؤں کی رداؤں کا بھی اب خوف ہے مجھ کو
 ٹوٹی ہے کمر شہ کی کہ اب کھو دیا تجھ کو
 اب داغِ رسن دیکھے گی زینب کی کلائی
 

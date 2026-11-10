@@ -1,22 +1,24 @@
 ---
 title: "اک شور ہے الامان"
-alternateTitle: "Abbas Aa Rahe Hai"
+alternateTitle: "Abbas Aa Rahe Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Abbas Aa Rahe Hai"]
 published: false
 romanLyrics: |-
   Ek shor hai al-aman
-  Abbas aa rahe hain Abbas aa rahe hain
+  Abbas aa rahe haiṅ Abbas aa rahe haiṅ
   Ek haath mein alam aur mashk-e-Sakina
+  Abbas aa rahe haiṅ Abbas aa rahe haiṅ
 
   1
   Kandhe pe mashk mashk mein dil hai diler ka
-  Darya ko chheen lena nahi kaam der ka
+  Darya ko chhin lena nahiṅ kaam der ka
   Ehsan tishnagi mein milega na ghair ka
   Bigra hua mizaj hai Haider ke sher ka
 
@@ -30,10 +32,10 @@ romanLyrics: |-
   Pyaasa hai sher ghaat ka rasta na rokna
   Aankheṅ jhukao sher ki janib na dekhna
   Kaise bachegi jaan ye lazim hai sochna
-  Abbas hain jalal mein hargiz na tokna
+  Abbas haiṅ jalal mein hargiz na tokna
 
   4
-  Tewar bata rahe hain qayamat uthayega
+  Tewar bata rahe haiṅ qayamat uthayega
   Tegh-e-nazar se iski Khuda hi bachayega
   Aaya jo saamne koi wo maara jayega
   Ek mashk mein Furat ko bhar kar dikhayega
@@ -41,19 +43,19 @@ romanLyrics: |-
   5
   Qabza hua Furat par al-qissa mukhtasar
   Pani ko dekha phat gaya Abbas ka jigar
-  Aankheṅ lahu lahu hui bachchoṅ ki pyaas par
+  Aankheṅ lahu lahu huiṅ bachchoṅ ki pyaas par
   Bali Sakina bachchoṅ se kehti rahi udhar
 
   6
   Khaime ke dar par pyasi Sakina thi muntazar
-  Jumbish alam ki dekh ke deti thi ye khabar
+  Junbish-e-alam ki dekh ke deti thi ye khabar
   Tishna laboṅ dua mein tumhari hua asar
   Wo dekho aa raha hai chacha ka alam nazar
 
   7
   Aaya alam zarur magar khun mein bhara
   Zainab ne sar ko peet ke Shabbir se kaha
-  Kiun kham kamar hai aap ki Ghazi kahan gaya
+  Kiuṅ kham kamar hai aap ki Ghazi kahaṅ gaya
   Bole Husain ab koi pyasa na de sada
 
   8
@@ -69,6 +71,7 @@ romanLyrics: |-
 اک شور ہے الامان
 عباس آ رہے ہیں عباس آ رہے ہیں
 اک ہاتھ میں علم اور مشکِ سکینہ
+عباس آ رہے ہیں عباس آ رہے ہیں
 
 ۱
 کاندھے پہ مشک مشک میں دل ہے دلیر کا

@@ -11,13 +11,13 @@ tags: ["noImage"]
 aliases: ["Abal Hasan Mola Shah E Khurasan Mir Hasan Lyrics 2024"]
 published: false
 romanLyrics: |-
-  Zaamin-e-Aahu Raza, Shafi-e-Roz-e-Jaza, Aashiq-e-Karb o Bala, Jaan o Dil-e-Fatema
+  Zaamin-e-Aahu Raza, Shaafi-e-Roz-e-Jaza, aashiq-e-Karb o Bala, jaan o dil-e-Fatima
   Abal Hasan Maula, Abal Hasan Maula, Abal Hasan Maula Shah-e-Khurasan
   Aap Sakhi Ibn-e-Sakhi, aap Rauf o Rahman
 
   1
-  Hai tere darbar ki ye shan nirali
-  Jaata nahiṅ hai kabhi yahan se koi khaali
+  Hai tere darbar ki ye shaan nirali
+  Jaata nahiṅ hai kabhi yahaṅ se koi khaali
   Dast-e-Khuda ban ke sada karte haiṅ sab pe ehsan
 
   2
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Roz hi hum tera namak khate haiṅ Maula
-  Khas muzif apne magar tum ne bulaya
+  Khaas muzif apne magar tum ne bulaya
   Hai ye ata shukr-e-Khuda hum hue tere mehman
 
   7
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Qum ki ziyarat ko jo logo kabhi jana
   Madh-e-Raza ja ke Karima ko sunana
-  Bibi tumheṅ deṅgi dua sun ke baradar ki shan
+  Bibi tumheṅ deṅgi dua sun ke baradar ki shaan
 
   9
   Hum ko sada aap ne Maula hai sambhala
@@ -67,7 +67,7 @@ romanLyrics: |-
 # source_id: tajpoints:899a46902b996e90991f
 # source_url: https://tajpoints.com/2024/05/abal-hasan-mola-shah-e-khurasan-mir.html
 # raw_sha256: 6bfd9ba6825bb2264e22161bcfc4c9aad413733c364f844e52ef17187caac398
-# editorial_uncertainty: Urdu manually corrected. fix roman
+# editorial_uncertainty: Recitation needed for Izzat-e-Qaim, garche parha deṅ Salman and khaas muzif apne magar; reviewed Urdu retained.
 ---
 ضامنِ آہو رضا، شافعِ روزِ جزا، عاشقِ کرب و بلا، جان و دلِ فاطمہ
 ابا الحسن مولا، ابا الحسن مولا، ابا الحسن مولا شاہِ خراسان
