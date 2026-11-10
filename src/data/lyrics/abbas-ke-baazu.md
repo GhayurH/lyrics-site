@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khaime mein jo Sheh laate hain Abbas ke bazu
-  Kulsum ko tarpate hain Abbas ke bazu
+  Khaime mein jo Sheh laate hain Abbas ke baazu
+  Kulsum ko tarpate hain Abbas ke baazu
 
   1
   Shabbir bhi maare gaye main kar na saka kuchh
-  Is baat pe khun rote hain Abbas ke bazu
+  Is baat pe khuṅ rote hain Abbas ke baazu
 
   2
   Chhin jaati hai phir Zainab o Kulsum ki chadar
-  Maqtal mein jo kat jaate hain Abbas ke bazu
+  Maqtal mein jo kat jaate hain Abbas ke baazu
 
   3
   Hal min ki sada sunte hi Shabbir ki ran se
-  Darya pe tarap uthte hain Abbas ke bazu
+  Darya pe tarap uthte hain Abbas ke baazu
 
   4
   Zalim ne Sakina se kaha maar ke durre
-  Kaise tujhe chhurwate hain Abbas ke bazu
+  Kaise tujhe chhurwate hain Abbas ke baazu
 
   5
   Zainab ki rida lutti hai bazar mein jab bhi
-  Sajjad ko yaad aate hain Abbas ke bazu
+  Sajjad ko yaad aate hain Abbas ke baazu
 
   6
   Laasha Ali Akbar ka utha to nahiṅ sakte
-  Aapas mein hi takrate hain Abbas ke bazu
+  Aapas mein hi takrate hain Abbas ke baazu
 
   7
   Likhta hai Aqeel Aal-e-Nabi ke jo masaib
-  To bahr-e-ata uthte hain Abbas ke bazu
+  To bahr-e-ata uthte hain Abbas ke baazu
 # source_id: nohayonline:e62dc10a97b7a2f9862f
 # source_url: https://www.nohayonline.com/details_content.php?id=1170
 # raw_sha256: 0509ef644b4916416f81906efac5b6ee5adf45420d83d6c95ad3660340708849

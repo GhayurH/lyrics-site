@@ -24,7 +24,7 @@ romanLyrics: |-
   Kufe pe bhi lagta hai Madine ka asar hai
 
   3
-  Kal beti pe barseṅge inhi galiyoṅ mein patthar
+  Kal beti pe barseṅge inhiṅ galiyoṅ mein patthar
   Jin galiyoṅ se Baba ke janaze ka guzar hai
 
   4
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Phaila hua Mabud hi ka khun hai Akbar
-  Jis khun se rangin hua Mabud ka ghar hai
+  Jis khun se rangiṅ hua Mabud ka ghar hai
 # source_id: nohayonline:afa8962e86334be29f4e
 # source_url: https://www.nohayonline.com/details_content.php?id=1363
 # raw_sha256: d6fea2bc9c9274553c84373839696a84152fbfa4e4c146d8dc4c70aa0a4274d7
@@ -49,12 +49,12 @@ romanLyrics: |-
 ڈوبا ہوا غم میں بنی ہاشم کا قمر ہے
 
 ۱
- عباس کے چہرے پہ ہیں زینب کی نگاہیں
+عباس کے چہرے پہ ہیں زینب کی نگاہیں
 یہ پوچھتی ہو جیسے مرا بابا کدھر ہے
 
 ۲
 آ پہنچی ہے زہرا کی شہادت بھی علی تک
- کوفے پہ بھی لگتا ہے مدینے کا اثر ہے
+کوفے پہ بھی لگتا ہے مدینے کا اثر ہے
 
 ۳
 کل بیٹی پہ برسیں گے انہی گلیوں میں پتھر

@@ -1,5 +1,5 @@
 ---
-title: غازی کا الم آیا تو شہ بولے یہ رو کر
+title: غازی کا علم آیا تو شہ بولے یہ رو کر
 alternateTitle: Abbas Kahan Ho
 language: Urdu
 lang: ur
@@ -13,6 +13,7 @@ romanLyrics: |-
   Ghazi ka alam aaya to Sheh bole ye ro kar
   Abbas kahan ho Abbas kahan ho
   Ro ro ke na mar jaaye kahiṅ Zainab-e-muztar
+  Abbas kahan ho Abbas kahan ho
 
   1
   Jab mashk o alam laaye the ran se Shah-e-Wala
@@ -51,7 +52,7 @@ romanLyrics: |-
 
   8
   Ro ro ke bulati hain Nabizadiyaṅ tum ko
-  Kiun sunte nahiṅ ho
+  Kiuṅ sunte nahiṅ ho
   Khaimoṅ ko jalata hai sitamgaroṅ ka lashkar
 
   9
@@ -73,8 +74,8 @@ romanLyrics: |-
 
 غازی کا علم آیا تو شہ بولے یہ رو کر
 عباس کہاں ہو عباس کہاں ہو
-
 رو رو کے نہ مر جائے کہیں زینب مضطر
+عباس کہاں ہو عباس کہاں ہو
 
 ۱
 جب مشک و علم لائے تھے رن سے شہ والا
@@ -119,7 +120,7 @@ romanLyrics: |-
 ۹
 ہاتھوں سے ردا تھام کے زینب یہ پکاری
 ہو جاؤں میں واری
-چھن جاے نہ سر سے میرے بھیا میری چادر
+چھن جائے نہ سر سے میرے بھیا میری چادر
 
 ۱۰
 سنتے ہی تڑپ جاتا تھا عباس کا لاشہ

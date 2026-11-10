@@ -12,10 +12,14 @@ published: false
 romanLyrics: |-
   Maaṅ pareshan hai kitni hairan hai
   Laal reh jayega tanha mere Abbas ke baad
+  Mere Abbas ke baad
+
   Bain karti hai ye Zehra mere Abbas ke baad
+  Laal reh jayega tanha mere Abbas ke baad
+  Mere Abbas ke baad
 
   1
-  Har taraf teer o tabar aur ye khanjar bhale
+  Har taraf tir o tabar aur ye khanjar bhale
   Chaar su hoṅge faqat zulm hi karne wale
   Kaun imdad karega mere Abbas ke baad
 
@@ -47,10 +51,10 @@ romanLyrics: |-
   7
   Kaise hoti hai musibat ae falak dekh to le
   Jis ka gehwara hilate the malak dekh to le
-  Ran mein kehta nahiṅ Aaqa mere Abbas ke baad
+  Ran mein kehte nahiṅ Aaqa mere Abbas ke baad
 
   8
-  Teer paiwast hain itne ke nikaluṅ kaise
+  Tir paiwast hai itne ke nikaluṅ kaise
   Koi batla de kaleje ko sambhaluṅ kaise
   Fatema karti hai noha mere Abbas ke baad
 
@@ -65,7 +69,11 @@ romanLyrics: |-
 
 ماں پریشان ہے کتنی حیران ہے
 لال رہ جائے گا تنہا میرے عباس کے بعد
+میرے عباس کے بعد
+
 بین کرتی ہے یہ زہرا میرے عباس کے بعد
+لال رہ جائے گا تنہا میرے عباس کے بعد
+میرے عباس کے بعد
 
 ۱
 ہر طرف تیر و تبر اور یہ خنجر بھالے
