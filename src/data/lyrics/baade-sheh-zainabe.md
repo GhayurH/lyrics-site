@@ -1,6 +1,6 @@
 ---
 title: "بعدِ شِہ زینبِ دلگیر نے کیا کیا دیکھا"
-alternateTitle: "Baade Sheh Zainabe"
+alternateTitle: "Baad-e-Sheh Zainab-e-Dilgir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,39 +10,39 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baade sheh zainabe dilgeer ne kya kya dekha
-  Sumein aspo ke talay bhai ka laasha dekha
+  Baad-e-Sheh Zainab-e-dilgir ne kya kya dekha
+  Sumein aspoṅ ke tale bhai ka laasha dekha
 
   1
-  Haq paraston ka wafadaron ka aur pyaron ka
+  Haq parastoṅ ka wafadaaroṅ ka aur pyaaroṅ ka
   Sar ko naize pe jasad khaak pe bikhra dekha
 
   2
-  Chaadare cheen ke kuffaro ne loota ghar ko
-  Sar barehna shahe laulaak ka kunba dekha
+  Chaadareṅ chhin ke kuffaaroṅ ne luta ghar ko
+  Sar barehna Shaah-e-Laulaak ka kunba dekha
 
   3
-  Shimr ne cheene gohar moo pe tamache maare
-  Khoon kaano se sakina ke tapakta dekha
+  Shimr ne chhine gohar muṅh pe tamaache maare
+  Khun kaanoṅ se Sakina ke tapakta dekha
 
   4
-  Ek rasan mein kiya paband bade choton ko
-  Tauq o zanjeer mein bemaar ko jakda dekha
+  Ek rasan mein kiya paaband bare chhotoṅ ko
+  Tauq o zanjir mein bimaar ko jakra dekha
 
   5
-  Godh se maa'on ki daurane rahe kufa o shaam
-  Jo bhi bacha gira naaqe se kuchalta dekha
+  God se maa'oṅ ki dauraane rahe Kufa o Shaam
+  Jo bhi bachcha gira naaqe se kuchalta dekha
 
   6
-  Haye jis shehr mein shehzadi kahi jaati thi
-  Khud ko is koofe mein be-makna o chaadar dekha
+  Haaye jis shehr mein shehzaadi kahi jaati thi
+  Khud ko is Kufe mein bemakna o chaadar dekha
 
   7
-  Qaid mein margayi ghut ghut ke sakina aakhir
-  Markhad ek chota sa zindan mein banta dekha
+  Qaid mein mar gayi ghut ghut ke Sakina aakhir
+  Marqad ek chhota sa zindaan mein banta dekha
 
   8
-  Haye shabbir ne aur zainab o kubra ne anees
+  Haaye Shabbir ne aur Zainab o Kubra ne Anees
   Waqt ke saath zamane ko badalta dekha
 # source_id: nohayonline:7d9db1328635713571fd
 # source_url: https://www.nohayonline.com/details_content.php?id=1046

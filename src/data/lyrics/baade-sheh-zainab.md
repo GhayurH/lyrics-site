@@ -1,41 +1,42 @@
 ---
 title: "بعدِ شہ زینب مضطر کو کہاں نیند آتی"
-alternateTitle: "Baade Sheh Zainab"
+alternateTitle: "Baad-e-Sheh Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Muslim Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baade sheh zainabe muztar ko kahan neend aati
-  Waaris e laasha e be-sar ko kahan neend aati
+  Baad-e-Sheh Zainab-e-muztar ko kahaaṅ nind aati
+  Waaris-e-laasha-e-besar ko kahaaṅ nind aati
 
   1
   Karbala khaak ka bistar jo na hota tera
-  Roz e ashoor bahattar ko kahan neend aati
+  Roz-e-Aashur bahattar ko kahaaṅ nind aati
 
   2
-  Raat bhar jaag ke zaanu jo na milta sheh ka
-  Sochta hoon hurr e muztar kahan neend aati
+  Raat bhar jaag ke zaanu jo na milta Sheh ka
+  Sochta huṅ Hur-e-muztar kahaaṅ nind aati
 
   3
-  Khaak zindan ki kahan baap ka seena banti
-  Haye shabbir ki dukhtar ko kahan neend aati
+  Khaak zindaan ki kahaaṅ baap ka sina banti
+  Haaye Shabbir ki dukhtar ko kahaaṅ nind aati
 
   4
-  Saaye mein aate hi kyun dam na nikalta uska
-  Kokh ujdi hui maadar ko kahan neend aati
+  Saaye mein aate hi kiuṅ dam na nikalta us ka
+  Kokh ujri hui maadar ko kahaaṅ nind aati
 
   5
-  Sitam e shaam e ghariban se pade thay ghash mein
-  Raakh par ujde huwe ghar ko kahan neend aati
+  Sitam-e-shaam-e-gharibaaṅ se pare the ghash mein
+  Raakh par ujre hue ghar ko kahaaṅ nind aati
 
   6
-  Neend zainab ke khule sar ne udaayi thi naved
-  Ghash bhi abid e muztar ko kahan neend aati
+  Nind Zainab ke khule sar ne uraayi thi Naved
+  Ghash bhi Aabid-e-muztar ko kahaaṅ nind aati
 # source_id: nohayonline:cd0bcaba7ec0f3c1c86a
 # source_url: https://www.nohayonline.com/details_content.php?id=3175
 # raw_sha256: 6626e88af10510dfb712818d2fb2f03f2041e8ffa650829882c335ef95fd581d
