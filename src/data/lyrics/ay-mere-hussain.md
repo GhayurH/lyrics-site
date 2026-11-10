@@ -1,55 +1,56 @@
 ---
 title: "اے میرے حسین السلام"
-alternateTitle: "Ay Mere Hussain"
+alternateTitle: "Ae Mere Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Shakeeb"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mere Hussain"]
 published: false
 romanLyrics: |-
-  Ay mere hussain as-salam
-  Ay mere imam as-salam
-  Bekas o ghareeb as-salam
-  Shaahe tishnakaam as-salam
+  Ae mere Husain as-salaam
+  Ae mere Imam as-salaam
+  Bekas o gharib as-salaam
+  Shaah-e-tishnakaam as-salaam
 
   1
   Alqama pe jab alam gira
-  Goonji ye taraai mein sada
-  Al-madad ay shaahe karbala
-  Kehta hai ghulam as-salam
+  Gunji ye taraai mein sada
+  Al-madad ae Shaah-e-Karbala
+  Kehta hai ghulaam as-salaam
 
   2
   Ek sitam ye aur ho gaya
-  Qalbe akbar-e-hazeen chida
-  Akse mustufa ne di sada
-  Ya shahe inaam as-salam
+  Qalb-e-Akbar-e-haziṅ chhida
+  Aks-e-Mustafa ne di sada
+  Ya Shaah-e-inaam as-salaam
 
   3
   Kehti thi ye shaah ki behan
-  Haye be-dayaro be-watan
-  Berida hoo kaise doo kafan
-  Jaa rahi hoo shaam as-salam
+  Haae bediyaar o bewatan
+  Berida huṅ kaise duṅ kafan
+  Jaa rahi huṅ Shaam as-salaam
 
   4
-  Ay habeeb ay hure jari
-  Aun-o-akbar-o-mere aqi
-  Yun hi saare dard mein ghiri
-  Mere nayk naam as-salam
+  Ae Habib ae Hur-e-jari
+  Aun o Akbar o mere akhi
+  Yuṅ hi saare dard mein ghiri
+  Mere nek naam as-salaam
 
   5
-  Tum kahan ho paaraye jigar
-  Dhoondti hai tum ko ye nazar
-  Chin chuki rida jala hai ghar
-  Mere la-laqaam as-salam
+  Tum kahaaṅ ho paara-e-jigar
+  Dhundti hai tum ko ye nazar
+  Chhin chuki rida jala hai ghar
+  Mere la-laqaam as-salaam
 
   6
-  Maine ye kalaam jo likha
-  Is ko nazre shaah kar diya
-  Hai yahin pa mohsin ab mera
-  Harfe istetaam as-salam
+  Main ne ye kalaam jo likha
+  Is ko nazr-e-shaah kar diya
+  Hai yahiṅ pe Mohsin ab mera
+  Harf-e-istetaam as-salaam
 # source_id: nohayonline:74e91115846a4d3508dd
 # source_url: https://www.nohayonline.com/details_content.php?id=194
 # raw_sha256: 40bbb326ec41dd498750008600a8f65704a7b6e24d8463ac14e42930f5ffe23c
@@ -74,7 +75,7 @@ romanLyrics: |-
 
 ۳
 کہتی تھی یہ شاہ کی بہن
-ہائے بے دیارو بے وطن
+ہائے بے دیار و بے وطن
 بے ردا ہوں کیسے دوں کفن
 جا رہی ہوں شام السلام
 
@@ -92,6 +93,6 @@ romanLyrics: |-
 
 ۶
 میں نے یہ کلام جو لکھا
-اس کو نظر شاہ کر دیا
+اس کو نذر شاہ کر دیا
 ہے یہیں پہ محسن اب میرا
 حرف استطام السلام

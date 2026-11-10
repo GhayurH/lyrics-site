@@ -1,64 +1,66 @@
 ---
 title: "اے میرے کڑیل جواں اے میرے کڑیل جواں"
-alternateTitle: "Ay Mere Kadiyal Jawan"
+alternateTitle: "Ae Mere Kariyal Jawaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mere Kadiyal Jawan"]
 published: false
 romanLyrics: |-
-  Ay mere kadiyal jawan ay mere kadiyal jawan
-  Ay pisar e naujawan ay pisar e naujawan
-  Peet ke sar dasht mein nauha ye karti thi maa
-  Ay mere kadiyal jawan ay mere kadiyal jawan
-  
+  Ae mere kariyal jawaaṅ ae mere kariyal jawaaṅ
+  Ae pisar-e-naujawaaṅ ae pisar-e-naujawaaṅ
+
+  Pit ke sar dasht mein nauha ye karti thi maaṅ
+  Ae mere kariyal jawaaṅ ae mere kariyal jawaaṅ
+
   1
-  Tu hi tha mera sukoon tujhse tha aabaad ghar
-  Jaate hi tere mera hogaya barbaad ghar
-  Dasht mein ab dhoondne tujhko mai jaaun kahan
-  
+  Tu hi tha mera sukuṅ tujh se tha aabaad ghar
+  Jaate hi tere mera ho gaya barbaad ghar
+  Dasht mein ab dhundne tujh ko main jaauṅ kahaaṅ
+
   2
   Tu tha kameini meri tu hi tha haasil mera
-  Barchi lagi hai tujhe zakhmi hua dil mera
-  Khoon mere dil se bhi hone laga hai rawan
-  
+  Barchhi lagi hai tujhe zakhmi hua dil mera
+  Khun mere dil se bhi hone laga hai rawaaṅ
+
   3
-  Zulm ye kaisa hua haye sar e karbala
-  Lut gaya asbaab sab chin gayi sar se rida
-  Rota hai akbar tujha qaimon se uth'ta dhuwan
-  
+  Zulm ye kaisa hua haae sar-e-Karbala
+  Lut gaya asbaab sab chhin gayi sar se rida
+  Rota hai Akbar tujhe khaimoṅ se uthta dhuaaṅ
+
   4
-  Ashk bahaungi mai khaak udaungi mai
-  Roti rahungi sada sab ko rulaungi mai
-  Hoga labon par mere nauha tera hi rawan
-  
+  Ashk bahaauṅ gi main khaak uraauṅ gi main
+  Roti rahuṅ gi sada sab ko rulaauṅ gi main
+  Hoga laboṅ par mere nauha tera hi rawaaṅ
+
   5
-  Ay mere noor e nazar kha gayi kis ki nazar
-  Hogi bhala kis tarha umr meri ab basar
-  Royegi akbar tujhe jayegi maadar jahan
-  
+  Ae mere nur-e-nazar khaa gayi kis ki nazar
+  Hogi bhala kis tarah umr meri ab basar
+  Roe gi Akbar tujhe jaae gi maadar jahaaṅ
+
   6
-  Jab mein sunungi azan yaad teri aayegi
-  Khon har ek gaam pe yaad ye rulwayegi
-  Dil mera phat jayega jab mai sunungi azan
-  
+  Jab main sunuṅ gi azaaṅ yaad teri aae gi
+  Khun har ek gaam pe yaad ye rulwaae gi
+  Dil mera phat jaae ga jab main sunuṅ gi azaaṅ
+
   7
-  Kis tarha ab laut ke jaungi mai karbala
-  Kya kahun sughra ko mai itna tu maaa ko bata
-  Gham tera sughra se mai kaise karungi bayan
-  
+  Kis tarah ab laut ke jaauṅ gi main Karbala
+  Kya kahuṅ Sughra ko main itna to maaṅ ko bata
+  Gham tera Sughra se main kaise karuṅ gi bayaaṅ
+
   8
-  Godh ke paale mere paas bulaale mujhe
-  Zulm o sitamgaar se aake bachaale mujhe
-  Baandh rahe hai layeen shaano mein ab reesma
-  
+  God ke paale mere paas bula le mujhe
+  Zulm o sitamgaar se aa ke bachaa le mujhe
+  Baandh rahe haiṅ laiṅ shaanoṅ mein ab rismaaṅ
+
   9
-  Noor ali lab pe hai sab ke hi aah o buka
-  Chaayi hai chaaron taraf ranj o alam ki ghata
-  Nasir e zaidi kare kis tarha ye gham bayan
+  Noor Ali lab pe hai sab ke hi aah o buka
+  Chhaai hai chaaroṅ taraf ranj o alam ki ghata
+  Nasir Zaidi kare kis tarah ye gham bayaaṅ
 # source_id: nohayonline:87f57dd4474ed0d86e07
 # source_url: https://www.nohayonline.com/details_content.php?id=1888
 # raw_sha256: c9a3bcb9a83c6fd2380116a0d34f9d699d3f74e76451c0030b499b61818cea83
@@ -66,13 +68,14 @@ romanLyrics: |-
 
 اے میرے کڑیل جواں اے میرے کڑیل جواں
 اے پسر نوجواں اے پسر نوجواں
+
 پیٹ کے سر دشت میں نوحہ یہ کرتی تھی ماں
 اے میرے کڑیل جواں اے میرے کڑیل جواں
 
 ۱
 تو ہی تھا میرا سکوں تجھ سے تھا آباد گھر
-جاتے ہی تیرے میرا ہوگیا برباد گھر
-دشت میں اب ڈھونڈنے تجھکو میں جاؤں کہاں
+جاتے ہی تیرے میرا ہو گیا برباد گھر
+دشت میں اب ڈھونڈنے تجھ کو میں جاؤں کہاں
 
 ۲
 تو تھا کمای میری تو ہی تھا حاصل میرا
@@ -80,24 +83,24 @@ romanLyrics: |-
 خون میرا دل سے بھی ہونے لگا ہے رواں
 
 ۳
-ظلم یہ کیسا ہوا ہاے سر کربلا
-لٹ گیا اسباب سب چھن گیء سر سے ردا
+ظلم یہ کیسا ہوا ہائے سر کربلا
+لٹ گیا اسباب سب چھن گئی سر سے ردا
 روتا ہے اکبر تجھے خیموں سے اٹھتا دھواں
 
 ۴
-اشک بہاوں گی میں خاک اڑاؤں گی میں
-روتی رہوں گی صدا سب کو رلاؤں گی میں
+اشک بہاؤں گی میں خاک اڑاؤں گی میں
+روتی رہوں گی سدا سب کو رلاؤں گی میں
 ہوگا لبوں پر میرے نوحہ تیرا ہی رواں
 
 ۵
-اے میرے نورِ نظر کھا گیء کس کی نظر
+اے میرے نورِ نظر کھا گئی کس کی نظر
 ہوگی بھلا کس طرح عمر میری اب بسر
-روے گی اکبر تجھے جاے گی مادر جہاں
+روئے گی اکبر تجھے جائے گی مادر جہاں
 
 ۶
-جب میں سنوں گی اذاں یاد تیری آے گی
-خون ہر ایک گام پہ یاد یہ رلواے گی
-دل میرا پھٹ جاے گا جب میں سنوں گی اذاں
+جب میں سنوں گی اذاں یاد تیری آئے گی
+خون ہر ایک گام پہ یاد یہ رلوائے گی
+دل میرا پھٹ جائے گا جب میں سنوں گی اذاں
 
 ۷
 کس طرح اب لوٹ کے جاؤں گی میں کربلا
@@ -105,11 +108,11 @@ romanLyrics: |-
 غم تیرا صغرا سے میں کیسے کروں گی بیاں
 
 ۸
-گود کے پالے میرے پاس بلالے مجھے
-ظلم و ستمگار سے آکے بچالے مجھے
+گود کے پالے میرے پاس بلا لے مجھے
+ظلم و ستمگار سے آ کے بچا لے مجھے
 باندھ رہے ہیں لعیں شانوں میں اب ریسماں
 
 ۹
 نور علی لب پہ ہے سب کے ہی آہ و بکا
-چھای ہے چاروں طرف رنج و الم کی گھٹا
+چھائی ہے چاروں طرف رنج و الم کی گھٹا
 ناصر زیدی کرے کس طرح یہ غم بیاں
