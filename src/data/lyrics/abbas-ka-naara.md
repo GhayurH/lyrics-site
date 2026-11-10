@@ -15,7 +15,7 @@ romanLyrics: |-
   Lalkar ke phir fauj ko Ghazi ye pukara
   Tum sab yehi kehte the ke darya hai hamara
   Ab dekhuṅ ke darya hai hamara ke tumhara
-  Lo chhin lo ye hum hain ye qabza hai hamara
+  Lo chhin lo ye hum haiṅ ye qabza hai hamara
   Darya hai hamara Darya hai hamara
   Abbas ka naara hai Alamdar ka naara
 
@@ -32,8 +32,8 @@ romanLyrics: |-
   Lehra ke pharera bhi ye karta hai ishara
 
   3
-  Sahil pe jo ye fauj ke daste hain tumhare
-  Ek aan mein paiwand-e-zamin hoṅ abhi saare
+  Sahil pe jo ye fauj ke daste haiṅ tumhare
+  Ik aan mein paiwand-e-zamiṅ ho abhi saare
   Darya ulat aaye abhi qadmoṅ mein hamare
   Ek hashr bapa kar duṅ main kar duṅ jo ishara
 
@@ -56,14 +56,14 @@ romanLyrics: |-
   Ab naam na lena kisi hakim ka dobara
 
   7
-  Pyasa huṅ magar sun le sabhi dushman-e-jani
+  Pyasa huṅ magar sun leṅ sabhi dushman-e-jani
   Pani mujhe pina nahiṅ le jaana hai pani
   Haaye mere masumoṅ ki wo tishna dahani
   Hai mashk-e-Sakina unhi pyasoṅ ka sahara
 
   8
   Tarikh ne dekha na Hilal aisa wafadar
-  Ab bhi hai tarai ki zamin par wo dilafgar
+  Ab bhi hai tarai ki zamiṅ par wo dilafgar
   Wo dekh zara rauza-e-Abbas-e-Alamdar
   Ek zinda gawahi hai ye marqad ka nazara
 # source_id: nohayonline:81cd4dd63dacf65fe396

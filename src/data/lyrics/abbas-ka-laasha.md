@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+sixVerseLayout: "pairs"
 poet: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
@@ -35,7 +36,7 @@ romanLyrics: |-
   4
   Bhai ke kate haathoṅ ko maqtal mein utha kar
   Sine se laga kar
-  Rote hue khud dhund rahe hain Shah-e-Wala
+  Rote hue khud dhund rahe haiṅ Shah-e-Wala
 
   5
   Jis waqt chala gardan-e-Shabbir pe khanjar
@@ -48,7 +49,7 @@ romanLyrics: |-
   Un haathoṅ se ab kaise uthae mere Maula
 
   7
-  Akbar bhi yahiṅ hain wahan Zainab hai akeli
+  Akbar bhi yahiṅ haiṅ wahaṅ Zainab hai akeli
   Aa jaaye na Shami
   Kiun aap uthane ke liye aa gaye Aaqa
 

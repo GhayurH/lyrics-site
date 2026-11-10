@@ -14,8 +14,8 @@ romanLyrics: |-
   Bas khair ki us waqt dua karti thiṅ Sughra
 
   1
-  Ek baar bhare ghar ko main in aankhoṅ se dekhuṅ
-  Ro ro ke Madina mein dua karti thiṅ Sughra
+  Ik baar bhare ghar ko main in aankhoṅ se dekhuṅ
+  Ro ro ke Madine mein dua karti thiṅ Sughra
 
   2
   Pardes mein Baba ne mujhe dil se bhulaya
@@ -26,11 +26,11 @@ romanLyrics: |-
   Ye keh ke bahot yaad kiya karti thiṅ Sughra
 
   4
-  Aata tha Madina mein agar koi musafir
+  Aata tha Madine mein agar koi musafir
   Bechain bahot sun ke hua karti thiṅ Sughra
 
   5
-  Ek aas lagaye hue wo baithi thi dar par
+  Ik aas lagaye hue wo baithi thiṅ dar par
   Aaeṅge Chacha lene kaha karti thiṅ Sughra
 # source_id: nohayonline:b286da9a03add19aaf07
 # source_url: https://www.nohayonline.com/details_content.php?id=3
@@ -50,11 +50,11 @@ romanLyrics: |-
 
 ۳
 اب گھٹنیوں چلنے لگا ہو گا میرا اصغر
-یہ کہہ کے بہت یاد کرتی تھیں صغرا
+یہ کہہ کے بہت یاد کیا کرتی تھیں صغرا
 
 ۴
 آتا تھا مدینے میں اگر کوئی مسافر
-بے چین بہت سن کے ہوا کرتا تھیں صغرا
+بے چین بہت سن کے ہوا کرتی تھیں صغرا
 
 ۵
 اک آس لگائے ہوئے وہ بیٹھی تھیں در پر

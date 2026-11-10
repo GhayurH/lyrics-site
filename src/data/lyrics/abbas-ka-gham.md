@@ -10,68 +10,68 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ka gham hum karte hain
-  Hum apna lahu zam karte hain
+  Abbas ka gham hum karte haiṅ
+  Hum apna lahu zam karte haiṅ
 
   1
   Darya pe gaya laane pani
   Nazroṅ mein Sakina thi pyasi
   Abbas-e-dilawar sher-e-Jari
-  Unchai pe parcham karte hain
+  Unchai pe parcham karte haiṅ
 
   2
   Hai sher tarai par biphra
   Ghazi ko koi kya rokega
   Darya pe wo qabza kar ke kaha
-  Jo chaheṅge wo hum karte hain
+  Jo chaheṅge wo hum karte haiṅ
 
   3
   Mashkiza chhida tuti hai aas
-  Pani nahi pahuncha hai ehsaas
+  Pani nahiṅ pahuncha hai ehsaas
   Sharminda bhatiji se Abbas
-  Ehsas ye paiham karte hain
+  Ehsaas ye paiham karte haiṅ
 
   4
   Ghore se gira Abbas-e-Jari
   Aaqa lo khabar aakar uski
-  Sheh bole kamar tooti meri
-  Sheh rote hain matam karte hain
+  Sheh bole kamar tuti meri
+  Sheh rote haiṅ matam karte haiṅ
 
   5
   Khaime mein alam laaye Sarwar
-  Sab Bibiyan kehti hain ro kar
-  Ab zulm o sitam honge hum par
-  Saqqe ka sabhi gham karte hain
+  Sab Bibiyaṅ kehti haiṅ ro kar
+  Ab zulm o sitam hoṅge hum par
+  Saqqe ka sabhi gham karte haiṅ
 
   6
-  Aaya hai alam ammu hai kahan
-  Maṅguṅgi na pani aao yahan
+  Aaya hai alam ammu hai kahaṅ
+  Maṅguṅgi na pani aao yahaṅ
   Lab par ye Sakina ki hai fughaṅ
-  Shikwa na yahan hum karte hain
+  Shikwa na yahaṅ hum karte haiṅ
 
   7
   Chaudah sau baras ke baad abhi
   Lagta hai ke gham kal hai yehi
-  Rote hain malaek aur Nabi
-  Har aankh wo purnam karte hain
+  Rote haiṅ malaek aur Nabi
+  Har aankh wo purnam karte haiṅ
 
   8
   Dekho to zara matam ka asar
   Har saal se hota hai barh kar
   Yaad aata hai Karbal ka manzar
-  Matam na kabhi kam karte hain
+  Matam na kabhi kam karte haiṅ
 
   9
   Hai aap ke baad ye haal chacha
-  Durre wo tamachon ka lagna
-  Ro ro ke sakina ne ye kaha
-  Is tarah basar hum karte hain
+  Durre wo tamachoṅ ka lagna
+  Ro ro ke Sakina ne ye kaha
+  Is tarah basar hum karte haiṅ
 
   10
   Abbas ke ae matamdaroṅ
   Qismat pe sabhi tum naaz karo
   Sab mil ke Raza awaz ye do
-  Maula tera matam karte hain
+  Maula tera matam karte haiṅ
 # source_id: nohayonline:4ab3b81902706d8a12f7
 # source_url: https://www.nohayonline.com/details_content.php?id=3254
 # raw_sha256: d64078b17c54d32dd3d8db6091a542cf93182b73113cc37c7edbd074f6dea8f4
@@ -105,8 +105,8 @@ romanLyrics: |-
 شہ روتے ہیں ماتم کرتے ہیں
 
 ۵
-خیمے میں علم لاے سرور
-سب بیبیاں کہتی ہے رو کر
+خیمے میں علم لائے سرور
+سب بیبیاں کہتی ہیں رو کر
 اب ظلم و ستم ہوں گے ہم پر
 سقے کا سبھی غم کرتے ہیں
 
