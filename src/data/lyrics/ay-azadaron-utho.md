@@ -1,89 +1,91 @@
 ---
 title: "اے عزاداروں اٹھو شہ کے انصار بنو"
-alternateTitle: "Ay Azadaron Utho"
+alternateTitle: "Ae Azadaroṅ Utho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Azadaron Utho"]
 published: false
 romanLyrics: |-
-  Ay azadaron utho sheh ke ansaar bano
-  Pairawi hurr ki karo waqt ko jaane na do
-  Aagaya maahe buka maahe alam maahe aza
-  Jiske ek din mein luta zehra ka ghar wavaila
-  Ye maahe moharram ye aza e shahe waala
-  Is maah mein loota gaya shabbir ka kunba
-  Is maah mein sadaat ne gham khaye hai kya kya
+  Ae azadaroṅ utho Shah ke ansaar bano
+  Pairawi Hur ki karo waqt ko jaane na do
+  Aa gaya maah-e-buka maah-e-alam maah-e-aza
+  Jis ke ek din mein luta Zehra ka ghar waawaila
+
+  Ye maah-e-Muharram ye aza-e-Shah-e-waala
+  Is maah mein luta gaya Shabbir ka kunba
+  Is maah mein saadaat ne gham khaae haiṅ kya kya
   Is maah mein kaunain mein barpa hua larza
 
   1
-  Hai aamad e shabbir azakhana sajao
-  Taqdeem karo taaziya haathon se banao
-  Abbas ka parcham bhi kareeb aake lagao
-  Humraah e alam mashke sakina ko bi lao
+  Hai aamad-e-Shabbir azakhana sajaao
+  Taqdim karo taaziya haathoṅ se banaao
+  Abbas ka parcham bhi qarib aa ke lagaao
+  Hamraah-e-alam mashk-e-Sakina ko bhi laao
 
   2
-  Naam e ali asghar pe sabeelon ko lagao
-  Raahon mein azadaron ke palkon ko bichao
-  Lillaah karo zikr na dunya ko dikhao
-  Jo kuch hai azadri e sarwar mein lutao
+  Naam-e-Ali Asghar pe sabiloṅ ko lagaao
+  Raahoṅ mein azadaroṅ ke palkoṅ ko bichhaao
+  Lillaah karo zikr na dunya ko dikhaao
+  Jo kuch hai azadari-e-Sarwar mein lutaao
 
   3
-  Aayaat shahadat ki padho sab ko sunao
-  Jazba hai wafadari ka dunya ko batao
-  Hurr ban ke dar e hazrate shabbir pe aao
-  Khud haathon se bigdi hui taqdeer banao
+  Aayaat-e-shahadat ki parho sab ko sunaao
+  Jazba hai wafadari ka dunya ko bataao
+  Hur ban ke dar-e-Hazrat-e-Shabbir pe aao
+  Khud haathoṅ se bigri hui taqdir banaao
 
   4
-  Is maah mein farwa se chuta qasim e muztar
-  Pamaal hua laasha e ibne bine hyder
-  Phoolon ki tarha jism ke tukde thay zameen par
-  Sheh laaye jisay ek ghatri mein rakh kar
+  Is maah mein Farwa se chhuta Qasim-e-muztar
+  Paamaal hua laasha-e-ibne bine Haidar
+  Phuloṅ ki tarah jism ke tukre the zamiṅ par
+  Shah laae jise ek ghatri mein rakh kar
 
   5
-  Is maah mein laila se chuta godh ka paala
-  Maidan se phir lauta nahi gaysuon waala
-  Naize ki ani aur jawan laal ka seena
-  Kis tarha ye manzar shahe abraar ne dekha
+  Is maah mein Laila se chhuta god ka paala
+  Maidan se phir lauta nahiṅ gesuoṅ waala
+  Naize ki ani aur jawaaṅ laal ka sina
+  Kis tarah ye manzar Shah-e-abraar ne dekha
 
   6
-  Is maah ne sughra ko madine mein rulaaya
+  Is maah ne Sughra ko Madine mein rulaaya
   Har saans naye karb ka ehsaas dilaaya
-  Sheh qatl huwe dasht mein ye aake bataya
-  Zauf e jasad e sughra ko kuch aur badhaya
+  Shah qatl hue dasht mein ye aa ke bataaya
+  Zof-e-jasad-e-Sughra ko kuch aur barhaaya
 
   7
-  Is maah mein sadaat ko aafaat ne ghayra
-  Aalam o masayab ke parindo ka basera
-  Dekha nahi bachon ne sukoon baksh savera
-  Chaaya raha taqdeer ki dunya mein andhera
+  Is maah mein saadaat ko aafaat ne ghera
+  Aalaam o masaaib ke parindoṅ ka basera
+  Dekha nahiṅ bachchoṅ ne sukuṅ bakhsh sawera
+  Chhaaya raha taqdir ki dunya mein andhera
 
   8
-  Gham khaate rahe sabr ka daaman nahi choda
-  Saabir na nazar aayega shabbir ke jaisa
+  Gham khaate rahe sabr ka daaman nahiṅ chhora
+  Saabir na nazar aaega Shabbir ke jaisa
   Dekha na falak ne koi is shaan ka banda
-  Laashon pe shaheedon ke kiya shukr ka sajda
+  Laashoṅ pe shahidoṅ ke kiya shukr ka sajda
 
   9
-  Is maah ne shabbir ko kunbe se chudaya
-  Aankhon se lahoo hazrate zehra ko rulaya
-  Is maah ne abid ko bahot zakhm diye hai
-  Har gaam mazaalim dil emuztar pe sahe hai
+  Is maah ne Shabbir ko kunbe se chhuraaya
+  Aankhoṅ se lahu Hazrat-e-Zehra ko rulaaya
+  Is maah ne Abid ko bahut zakhm diye haiṅ
+  Har gaam mazaalim dil-e-muztar pe sahe haiṅ
 
   10
-  Pani ke ewaz ashk e ghame shaah piye hai
-  Maula hi batayenge wo kis tarha jiye hai
-  Abid ke liye kaisi qayamat ki ghadi thi
-  Be-gor o kafan laasha e shabbir padi thi
+  Paani ke iwaz ashk-e-gham-e-Shah piye haiṅ
+  Maula hi bataaeṅge wo kis tarah jiye haiṅ
+  Abid ke liye kaisi qayamat ki ghari thi
+  Begor o kafan laasha-e-Shabbir pari thi
 
   11
-  Is maah mein ay dayam o yazdan ye rah dhyaan
-  Is maah ka har haal mein baakhi rahe irfan
-  Padte raho qurbani e shabbir ka quran
-  Batalaate raho dunya ko shabbir ka ehsaan
+  Is maah mein ae Dayam o Yazdaaṅ ye rahe dhyaan
+  Is maah ka har haal mein baaqi rahe irfaan
+  Parhte raho qurbani-e-Shabbir ka Quraan
+  Batlaate raho dunya ko Shabbir ka ehsaan
 # source_id: nohayonline:11029bf7f0996b11cb52
 # source_url: https://www.nohayonline.com/details_content.php?id=1444
 # raw_sha256: 3748ad0b08de8055649dbf5b8e18f2031173994bdc1b9e9961554bba5a960c5b
@@ -93,10 +95,11 @@ romanLyrics: |-
 پیروی حر کی کرو وقت کو جانے نہ دو
 آگیا ماہ بکا ماہ الم ماہ عزا
 جس کے ایک دن میں لٹا زہرا کا گھر واویلا
+
 یہ ماہ محرم یہ عزاے شہ والا
 اس ماہ میں لوٹا گیا شبیر کا کنبہ
-اس ماہ میں سادات نے غم کھاے ہیں کیا کیا
-اس ماہ میں کونین میں برپا ہوا لرزا
+اس ماہ میں سادات نے غم کھائے ہیں کیا کیا
+اس ماہ میں کونین میں برپا ہوا لرزہ
 
 ۱
 ہے آمد شبیر عزاخانہ سجاؤ
@@ -107,20 +110,20 @@ romanLyrics: |-
 ۲
 نام علی اصغر پہ سبیلوں کو لگاؤ
 راہوں میں عزاداروں کے پلکوں کو بچھاؤ
-لللہ کرو ذکر نہ دنیا کو دکھاؤ
-جو کچھ ہے عزاداریء سرور میں لٹاو
+للہ کرو ذکر نہ دنیا کو دکھاؤ
+جو کچھ ہے عزاداریِ سرور میں لٹاؤ
 
 ۳
-آیات شہادت کی پڑھو سبکو سناؤ
-جزبہ ہے وفاداری کا دنیا کو بتاؤ
+آیات شہادت کی پڑھو سب کو سناؤ
+جذبہ ہے وفاداری کا دنیا کو بتاؤ
 حر بن کے در حضرت شبیر پہ آؤ
-خود ہاتھوں سے بگڑی ہوی تقدیر بناؤ
+خود ہاتھوں سے بگڑی ہوئی تقدیر بناؤ
 
 ۴
 اس ماہ میں فروہ سے چھٹا قاسم مضطر
 پامال ہوا لاشہء ابنِ پیمبر
 پھولوں کی طرح جسم کے ٹکڑے تھے زمیں پر
-شہ لاے جسے ایک گھٹڑی میں رکھ کر
+شہ لائے جسے ایک گھٹڑی میں رکھ کر
 
 ۵
 اس ماہ میں لیلیٰ سے چھٹا گود کا پالا
@@ -130,8 +133,8 @@ romanLyrics: |-
 
 ۶
 اس ماہ نے صغرا کو مدینے میں رلایا
-ہر سانس نےء کرب کا احساس دلایا
-شہ قتل ہوے دشت میں یہ آکے بتایا
+ہر سانس نئے کرب کا احساس دلایا
+شہ قتل ہوئے دشت میں یہ آکے بتایا
 ضعف جسد صغرا کو کچھ اور بڑھایا
 
 ۷
@@ -142,20 +145,20 @@ romanLyrics: |-
 
 ۸
 غم کھاتے رہے صبر کا دامن نہیں چھوڑا
-صابر نہ نظر آے گا شبیر کے جیسا
+صابر نہ نظر آئے گا شبیر کے جیسا
 دیکھا نہ فلک نے کوئی اس شان کا بندہ
 لاشوں پہ شہیدوں کے کیا شکر کا سجدہ
 
 ۹
 اس ماہ نے شبیر کو کنبے سے چھڑایا
 آنکھوں سے لہو حضرت زہراء کو رلایا
-اس ماہ نے عابد کو بہت زخم دیےء ہیں
+اس ماہ نے عابد کو بہت زخم دیے ہیں
 ہر گام مظالم دل مضطر پہ سہے ہیں
 
 ۱۰
-پانی کے عوض اشک غم شاہ پییےء ہیں
-مولا ہی بتائیں گے وہ کس طرح جیےء ہیں
-عابد کے لئے کیسی قی کی گھڑی تھی
+پانی کے عوض اشک غم شاہ پیے ہیں
+مولا ہی بتائیں گے وہ کس طرح جیے ہیں
+عابد کے لئے کیسی قیامت کی گھڑی تھی
 بے گور و کفن لاشہء شبیر پڑی تھی
 
 ۱۱
