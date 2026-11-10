@@ -15,14 +15,14 @@ romanLyrics: |-
   Sar pit rahe the Ahl-e-Haram
   Sadaat mein ek bezaari thi
   Kohraam tha aur gham khwari thi
-  Jab shaah ne yeh manzar dekha
-  Sar peet rahe hai aal e aba
+  Jab Shah ne ye manzar dekha
+  Sar pit rahe haiṅ Aal-e-Aba
   Shabbir ne parh ke Bismillah
-  Barnok-e-sinaṅ Quran parha
-  Kuch dayr mein phir manzar badla
+  Bar nok-e-sinaṅ Quran parha
+  Kuchh der mein phir manzar badla
   Kam hone lagi matam ki sada
-  Khush rang fizayein chaane lagi
-  Ahsan ki sadayein aane lagi
+  Khush rang fizaaeṅ chhaane lagiṅ
+  Ahsan ki sadaaeṅ aane lagiṅ
   Pahunchi jo falak tak sheh ki sada
   Allah ne bhi khush ho ke kaha
   Ahsantum Ya Husain
@@ -38,53 +38,53 @@ romanLyrics: |-
   Karta huṅ main tera shukr ada
 
   2
-  Sunkar ye sukhan allah ke
-  Kehte thay ye rasool allah
-  Qurban mai tujh par sau jaan se
+  Sun kar ye sukhan Allah ke
+  Kehte the ye Rasul Allah
+  Qurban main tujh par sau jaan se
   Wah mere Husaina wah
-  Bachpan mein ay mere lakhte jigar
-  Waada jo kiya tha ay dilbar
+  Bachpan mein ae mere lakht-e-jigar
+  Waada jo kiya tha ae dilbar
   Wo tum ne kiya hai aaj wafa
 
   3
-  Naize ki ani par aa kar bhi
+  Neze ki ani par aa kar bhi
   Quran sunaya hai
-  Hum jeet gaye sar de kar bhi
+  Hum jit gaye sar de kar bhi
   Dunya ko bataya hai
-  Dekhi jo shuja’at bete ki
+  Dekhi jo shujaat bete ki
   Aur sun ke tilawat bete ki
   Haider ki Najaf se aai sada
 
   4
-  Zehra ne kaha ay laal tujhe
-  Tanha na karungi mai
-  Jayega agar tu shaam talak
-  To saath chalungi mai
-  Hai naaz bahot tujh par beta
-  Jo sheer pilaaya tha us ka
-  Kya khoob kiya hai farz ada
+  Zehra ne kaha ae laal tujhe
+  Tanha na karuṅ gi main
+  Jaaye ga agar tu Shaam talak
+  To saath chaluṅ gi main
+  Hai naaz bahut tujh par beta
+  Jo shir pilaaya tha us ka
+  Kya khub kiya hai farz ada
 
   5
-  Kya khub fariza Ae bhai
+  Kya khub fariza ae bhai
   Anjaam diya tum ne
   Jo kaam na koi kar paata
   Wo kaam kiya tum ne
   Shabbir se kehte the ye Hasan
   Bas ab na karo tum ranj o mehan
-  Hai zaat tumhari fakhre khuda
+  Hai zaat tumhari fakhr-e-Khuda
 
   6
-  Abbas dilawar aun o mohamed
-  Qasim o akbar hai
-  Naizon pe sar e shabbir ke sang
-  Shohda ke kate sar hai
-  Aankhon se rawan hai ashk magar
-  Hai saare shaheedon ke lab par
+  Abbas dilawar Aun o Muhammad
+  Qasim o Akbar hai
+  Nezoṅ pe sar-e-Shabbir ke sang
+  Shuhada ke kate sar haiṅ
+  Aankhoṅ se rawaṅ hai ashk magar
+  Hai saare shahidoṅ ke lab par
   Hum aap pe ho har baar fida
 
   7
   Kehti thi Zamin-e-Karbobala
-  Gumnam zamin thi main
+  Gumnaam zamiṅ thi main
   Lagta tha Kumail o Aamir
   Dunya pe nahiṅ thi main
   Pehchan dilai Sarwar ne

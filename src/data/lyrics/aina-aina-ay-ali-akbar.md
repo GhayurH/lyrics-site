@@ -1,6 +1,6 @@
 ---
 title: "یوسف لیلیٰ شبیہ پیمبر"
-alternateTitle: "Aina Aina Ay Ali Akbar"
+alternateTitle: "Aina Aina Ae Ali Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,64 +18,64 @@ romanLyrics: |-
   Aina Aina Ae Ali Akbar
 
   1
-  Buka ye sunlo zaroor beta
+  Buka ye sun lo zarur beta
   Hue ho tum jab se dur beta
-  Gaya in aankhon se noor beta
+  Gaya in aankhoṅ se nur beta
   Hue haiṅ tarik do jahaṅ
   Dhundhuṅ main kahaṅ jaa kar
 
   2
-  Uthaye maine tamaam laashe
-  Na haath larze na paaoṅ kaṅpe
+  Uthaye main ne tamaam laashe
+  Na haath larze na paaoṅ kaaṅpe
   Sada tumhari suni hai jab se
   Laraz raha hai badan mera
   Ye kehta chala ro kar
 
   3
-  Koi tasalli na kuch dilaasa
-  Main kaise dhundhuṅ tumhara lasha
-  Laboṅ pe nale badan mein rasha
+  Koi tasalli na kuchh dilaasa
+  Main kaise dhundhuṅ tumhara laasha
+  Laboṅ pe naale badan mein rasha
   Bhatak raha huṅ main ja baja
-  Hai naad e ali lab par
+  Hai Naad-e-Ali lab par
 
   4
   Madad ko aayega kaun beta
-  Habib o Hurr haiṅ na John beta
+  Habib o Hurr haiṅ na Jaun beta
   Na mera Qasim na Aun beta
   Har ek maqtal mein so chuka
   Tanha hai padar dilbar
 
   5
-  Ye bhook aur pyaas ki nakahat
-  Aur uspe beta tumhari furqat
+  Ye bhuk aur pyaas ki naqaahat
+  Aur us pe beta tumhari furqat
   Qadam qadam par nai hai zahmat
   Lagi jo thokar to ye kaha
-  De mujhko sada akbar
+  De mujhko sada Akbar
 
   6
   Main kaise Abbas ko bulauṅ
-  Sitam raseeda ka kyun sataun
-  Batade tu hi kahan mai aaun
-  Kahan pe ghode se tu gira
-  Aa jaunga nauhagar
+  Sitam rasida ko kiuṅ satauṅ
+  Bata de tu hi kahaṅ main aauṅ
+  Kahaṅ pe ghore se tu gira
+  Aa jauṅ ga nauhagar
 
   7
-  Tamaam waade nibha chuka hoo
-  Lahoo mein apne naha chuka hoo
-  Jo dil pe guzri bata chuka hoo
-  Bas ek baaki hai marhala
-  Takmeel pe hai mehzar
+  Tamaam waade nibha chuka huṅ
+  Lahu mein apne naha chuka huṅ
+  Jo dil pe guzri bata chuka huṅ
+  Bas ek baqi hai marhala
+  Takmil pe hai mehzar
 
   8
-  Phupi ki awaaz aa rahi hai
+  Phuphi ki aawaaz aa rahi hai
   Wo beta tujhko bula rahi hai
   Gham apne tujhko suna rahi hai
-  De usko awaaz tu zara
+  De usko aawaaz tu zara
   Kehti hai yehi muztar
 
   9
-  Yehi tha sheh ka bayaan mazhar
-  Tha jis pe ab nauhakhwan safdar
+  Yehi tha sheh ka bayaan Mazhar
+  Tha jis pe ab nauhakhwan Safdar
   Qalam bhi rota hai likh ke manzar
   Husain parhte the marsiya
   Tha haath kaleje par

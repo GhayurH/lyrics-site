@@ -11,48 +11,48 @@ published: false
 reciter: "Alamdar Razvi"
 romanLyrics: |-
   Ahl-e-Bait-e-Paighambar sar katane aae haiṅ
-  Haq ke nasir o yawar sar katane aae haiṅ
+  Haq ke naasir o yaawar sar katane aae haiṅ
 
   1
   Ye Nabi ka kunba hai haq pe arne wala hai
-  Aṅdhiyoṅ se tufan se barh ke larne wala hai
+  Aandhiyoṅ se tufaaṅ se barh ke larne wala hai
   Phir bhi kya khabar kaisa waqt parne wala hai
   Ya Khuda Muhammad ka ghar ujarne wala hai
   Ibn-e-Haider-e-Safdar sar katane aae haiṅ
 
   2
   Khair ho mere maula saamne hai ek lashkar
-  Zulm ka koi naiza pad na jaye seene par
-  Khaak par na gir jaaye naujawan theora kar
-  Khoon mein na mil jaye ye shabihe paighambar
+  Zulm ka koi neza par na jaye sine par
+  Khaak par na gir jaaye naujawaṅ theora kar
+  Khun mein na mil jaye ye Shabih-e-Paighambar
   Haye naujawaṅ Akbar sar katane aae haiṅ
 
   3
-  Karbala ke sehra mein hai rasool ka gulshan
-  Ban na jaye phoolon ke haq mein kal yehi madfan
-  Sab rasool zaade hai sab ali ke jaan o tan
+  Karbala ke sehra mein hai Rasul ka gulshan
+  Ban na jaye phuloṅ ke haq mein kal yehi madfan
+  Sab Rasul zaade haiṅ sab Ali ke jaan o tan
   Ek raat ka dulha ek raat ki dulhan
   Haye Waris-e-Shabbar sar katane aae haiṅ
 
   4
-  Haq ke ye nigehban hai dushmanane baatil hai
-  Inke dil ka kya kehna sar se paaon tak dil hai
-  Chand ho ke lakhoṅ ke aaj ye muqabil haiṅ
-  Phul jaise bachche bhi karwaṅ mein shamil haiṅ
-  Haye bezaban Asghar sar katane aae haiṅ
+  Haq ke ye nigehbaaṅ haiṅ dushmanaan-e-baatil haiṅ
+  Inke dil ka kya kehna sar se paaoṅ tak dil hai
+  Chand ho ke laakhoṅ ke aaj ye muqabil haiṅ
+  Phul jaise bachche bhi kaarwaṅ mein shamil haiṅ
+  Haye bezabaan Asghar sar katane aae haiṅ
 
   5
-  Kufiyon ke ye mehman qatl hone waale hai
-  Ye rasool ke armaan qatl hone waale hai
-  Bolte huwe quran qatl hone waale hai
-  Sab mahafiz e emaan qatl hone waale hai
+  Kufiyoṅ ke ye mehmaaṅ qatl hone waale haiṅ
+  Ye Rasul ke armaaṅ qatl hone waale haiṅ
+  Bolte hue Quraaṅ qatl hone waale haiṅ
+  Sab muhafiz-e-imaaṅ qatl hone waale haiṅ
   Fatima ke sab dilbar sar katane aae haiṅ
 
   6
-  Pyase bache tadpenge chain jab na payenge
-  Mashk ba-wafa lekar alqama pe jayenge
-  Gir padenge ghode se itne zakhm khayenge
-  Shaane kat rahe honge khoon mein nahayenge
+  Pyase bachche tarpeṅge chain jab na paaeṅge
+  Mashk-e-bawafa le kar Alqama pe jaaeṅge
+  Gir pareṅge ghore se itne zakhm khaaeṅge
+  Shaane kat rahe hoṅge khun mein nahaaeṅge
   Aaj Sani-e-Haider sar katane aae haiṅ
 # source_id: nohayonline:d23e66b4c17007f1bdc8
 # source_url: https://www.nohayonline.com/details_content.php?id=2012
