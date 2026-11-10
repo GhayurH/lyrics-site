@@ -11,27 +11,27 @@ aliases: []
 published: false
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Al ajal al ajal Ya Imam-e-Zaman
+  Al ajal al ajal Ya Imam-e-Zamaṅ
 
   1
-  Ya Imam-e-Zaman Kaaba-e-do-jahaṅ
-  De rahe haiṅ sada ye zamin asmaṅ
-  Hum Shabih-e-Nabi de chuke haiṅ azaṅ
+  Ya Imam-e-Zamaṅ Kaaba-e-do-jahaṅ
+  De rahe haiṅ sada ye zamiṅ aasmaṅ
+  Hum Shabih-e-Nabi de chuke haiṅ azaaṅ
 
   2
-  Ae Ali Ae Muhammad Ae Zehra ki jaan
+  Ae Ali Ae Muhammad Ae Zehra ki jaaṅ
   Kitni sadiyoṅ se aankheṅ bichhae yahaṅ
   Karbala dhundhti hai qadam ke nishaṅ
 
   3
-  Aaiye muntazir hai ye dunya o din
-  Puchhti hai ye Karbobala ki zamin
+  Aaiye muntazir hai ye dunya o diṅ
+  Puchhti hai ye Karbobala ki zamiṅ
   Kitni sadiyoṅ ka gham hai abhi darmiyaṅ
 
   4
-  Ae Husain-e-Zaman Ae Muhammad ki jaan
-  Dekhiye aaj bhi Ya Imam-e-Zaman
-  Khun-e-mazlum se surkh hai asmaṅ
+  Ae Husain-e-Zamaṅ Ae Muhammad ki jaaṅ
+  Dekhiye aaj bhi Ya Imam-e-Zamaṅ
+  Khun-e-mazlum se surkh hai aasmaṅ
 
   5
   Ae Azadar-e-Karbobala al ajal
@@ -39,7 +39,7 @@ romanLyrics: |-
   Ae Sharik-e-Aza-e-Shah-e-Do-Jahaṅ
 
   6
-  Kaise bhule wo manzar Imam-e-Zaman
+  Kaise bhule wo manzar Imam-e-Zamaṅ
   Wo zaifi wo maqtal wo lashe jawaṅ
   Kya qayamat ka tha Karbala mein samaṅ
 
@@ -60,16 +60,16 @@ romanLyrics: |-
 
   10
   Tashnagi dhup sehra wo reg-e-tapaṅ
-  Zer-e-khanjar wo sajda wo Zehra ki jaan
+  Zer-e-khanjar wo sajda wo Zehra ki jaaṅ
   Thi sar-e-Karbala maaṅ ki aah o fughaṅ
 
   11
-  Ek nigah-e-karam Ya Imam-e-Zaman
+  Ek nigah-e-karam Ya Imam-e-Zamaṅ
   Nasir-e-Ibn-e-Zehra hai ye anjuman
   Hai ariza hamara ye ashk-e-rawaṅ
 
   12
-  Ae Shabih-e-Rasul-e-Zaman al madad
+  Ae Shabih-e-Rasul-e-Zamaṅ al madad
   Al madad Ibn-e-Khaibar-Shikan al madad
   Hai Fareed aaj sab ke ye wird-e-zabaṅ
 # source_id: nohayonline:a7acae43c9df9182592c

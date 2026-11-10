@@ -1,72 +1,74 @@
 ---
 title: "جب گرنے لگا جب حضرتِ عباس کا پرچم"
-alternateTitle: "Akela Hai Hussain"
+alternateTitle: "Akela Hai Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Akela Hai Hussain"]
 published: false
+reciter: "Mesum Zaidi & Sajjad Zaidi"
 romanLyrics: |-
-  Jab girne laga jab hazrat e abbas ka parcham
-  Ro ro ke sada dene lage ye shahe aalam
+  Jab girne laga jab Hazrat-e-Abbas ka parcham
+  Ro ro ke sada dene lage ye Shah-e-Alam
   Laut aao mere bhai khudara palat aao
-  Kuch ho gaya agar tumko to mar jayenge phir hum
-  Waasta deta hoon sakina ka tumhe
-  Laut kar qaimon mein aa jao akela hai hussain
+  Kuchh ho gaya agar tum ko to mar jaeṅge phir hum
+  Wasta deta huṅ Sakina ka tumheṅ
+  Laut kar khaimoṅ mein aa jao akela hai Husain
 
   1
-  Haath ko jod ke ab tumko bulaata hai hussain
-  Laut aao hamay maloom hai tum ho zakhmi
-  Ab sakina bhi nahi maangegi tum se pani
-  Waasta deta hoon sakina ka tumhe
-  Tum bulao to tumhe lene ko aata hai hussain
+  Haath ko jor ke ab tum ko bulata hai Husain
+  Laut aao hameṅ malum hai tum ho zakhmi
+  Ab Sakina bhi nahiṅ maangegi tum se paani
+  Wasta deta huṅ Sakina ka tumheṅ
+  Tum bulao to tumheṅ lene ko aata hai Husain
+  Haye Abbas haye Abbas haye Abbas haye Abbas
 
   2
-  Ghayr kar qatl na kar de ye tumhe fauje yazid
-  Jab talak zinda ho baaqi hai hamari ummeed
-  Waasta deta hoon sakina ka tumhe
-  Ay mere bhai tumhe khone se darta hai hussain
+  Ghair kar qatl na kar de ye tumheṅ fauj-e-Yazid
+  Jab talak zinda ho baaqi hai hamari ummid
+  Wasta deta huṅ Sakina ka tumheṅ
+  Ae mere bhai tumheṅ khone se darta hai Husain
 
   3
-  Aaj jee bhar ke tumhe dekha nahi hai maine
-  Aaj baazu bhi tera chooma nahi hai maine
-  Waasta deta hoon abbas sakina ka tumhe
-  Aao seene se tumhe apne lagata hai hussain
+  Aaj ji bhar ke tumheṅ dekha nahiṅ hai main ne
+  Aaj baazu bhi tera chuma nahiṅ hai main ne
+  Wasta deta huṅ Abbas Sakina ka tumheṅ
+  Aao sine se tumheṅ apne lagata hai Husain
 
   4
-  Bhai kyun dil ko mere tod diya hai tum ne
-  Mujhko marne ke liye chod diya hai tum ne
-  Waasta deta hoon abbas sakina ka tumhe
-  Ab judaai ko teri seh nahi sakta hai hussain
+  Bhai kiuṅ dil ko mere tor diya hai tum ne
+  Mujhko marne ke liye chhor diya hai tum ne
+  Wasta deta huṅ Abbas Sakina ka tumheṅ
+  Ab judai ko teri seh nahiṅ sakta hai Husain
 
   5
-  Bhai hum dono ka bachpan se ajab hai rishta
-  Door mai bhi nahi tu bhi nahi reh sakta tha
-  Waasta deta hoon abbas sakina ka tumhe
-  Jaanta hoon ke tere dil mein dhadakta hai hussain
+  Bhai hum donoṅ ka bachpan se ajab hai rishta
+  Dur main bhi nahiṅ tu bhi nahiṅ reh sakta tha
+  Wasta deta huṅ Abbas Sakina ka tumheṅ
+  Jaanta huṅ ke tere dil mein dharakta hai Husain
 
   6
-  Tum gaye jab se tabiyat meri ghabrati hai
-  Theek se bhai mujhe saans nahi aati hai
-  Waasta deta hoon abbas sakina ka tumhe
-  Bin tumhare badi mushkil se hi zinda hai hussain
+  Tum gae jab se tabiat meri ghabrati hai
+  Thik se bhai mujhe saans nahiṅ aati hai
+  Wasta deta huṅ Abbas Sakina ka tumheṅ
+  Bin tumhare bari mushkil se hi zinda hai Husain
 
   7
-  Aise azlaan ko zawwar bana lo maula
-  Jeete jee mujhe rauze pe bula lo maula
-  Waasta deta hoon abbas sakina ka tumhe
-  Tumse maango to dua ko meri sunta hai hussain
+  Aise Azlaan ko zawwar bana lo Maula
+  Jite ji mujhe rauze pe bula lo Maula
+  Wasta deta huṅ Abbas Sakina ka tumheṅ
+  Tum se maango to dua ko meri sunta hai Husain
 # source_id: nohayonline:212de3f012962989c08d
 # source_url: https://www.nohayonline.com/details_content.php?id=2870
 # raw_sha256: 31894d128c42282c179b40adf9f3e6152a17a4387330c8efee798b629d7f5c28
 ---
 جب گرنے لگا جب حضرتِ عباس کا پرچم
-رو رو کے صدا دینے لگے یہ شہ عالم
+رو رو کے صدا دینے لگے یہ شہِ عالم
 لوٹ آؤ میرے بھائی خدارا پلٹ آؤ
-کچھ ہو گیا اگر تم کو تو مر جاییں گے پھر ہم
+کچھ ہو گیا اگر تم کو تو مر جائیں گے پھر ہم
 واسطہ دیتا ہوں سکینہ کا تمہیں
 لوٹ کر خیموں میں آ جاؤ اکیلا ہے حسین
 
@@ -76,9 +78,10 @@ romanLyrics: |-
 اب سکینہ بھی نہیں مانگے گی تم سے پانی
 واسطہ دیتا ہوں سکینہ کا تمہیں
 تم بلاؤ تو تمہیں لینے کو آتا ہے حسین
+ہائے عباس ہائے عباس ہائے عباس ہائے عباس
 
 ۲
-غیر کر قتل نہ کر دے یہ تمہیں فوج یزید
+غیر کر قتل نہ کر دے یہ تمہیں فوجِ یزید
 جب تلک زندہ ہو باقی ہے ہماری امید
 واسطہ دیتا ہوں سکینہ کا تمہیں
 اے میرے بھائی تمہیں کھونے سے ڈرتا ہے حسین
@@ -90,20 +93,20 @@ romanLyrics: |-
 آؤ سینے سے تمہیں اپنے لگاتا ہے حسین
 
 ۴
-بھای کیوں دل کو میرے توڑ دیا ہے تم نے
-مجھکو مرنے کے لئے چھوڑ دیا ہے تم‌ نے
+بھائی کیوں دل کو میرے توڑ دیا ہے تم نے
+مجھکو مرنے کے لئے چھوڑ دیا ہے تم نے
 واسطہ دیتا ہوں عباس سکینہ کا تمہیں
-اب جدائی کو تیری سہہ نہیں سکتا ہے حسین
+اب جدائی کو تیری سہ نہیں سکتا ہے حسین
 
 ۵
-بھای ہم دونوں کا بچپن سے عجب ہے رشتہ
+بھائی ہم دونوں کا بچپن سے عجب ہے رشتہ
 دور میں بھی نہیں تو بھی نہیں رہ سکتا تھا
 واسطہ دیتا ہوں عباس سکینہ کا تمہیں
 جانتا ہوں کہ تیرے دل میں دھڑکتا ہے حسین
 
 ۶
-تم گےء جب سے طبیعت میری گھبراتی ہے
-ٹھیک سے بھای مجھے سانس نہیں آتی ہے
+تم گئے جب سے طبیعت میری گھبراتی ہے
+ٹھیک سے بھائی مجھے سانس نہیں آتی ہے
 واسطہ دیتا ہوں عباس سکینہ کا تمہیں
 بن تمہارے بڑی مشکل سے ہی زندہ ہے حسین
 
