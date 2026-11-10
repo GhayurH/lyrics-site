@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Wasi"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Azal se dil hai ghame sibte mustufa ke liye
-  Ye aeena to bana tha isi jila ke liye
+  Azal se dil hai gham-e-Sibt-e-Mustafa ke liye
+  Ye aaina to bana tha isi jila ke liye
 
   1
-  Khuda e paak ne bakshe hai arsh ke gowhar
-  Hassan hussain sa zewar hai fatema ke liye
+  Khuda-e-Paak ne bakhshe haiṅ arsh ke gauhar
+  Hasan Husain sa zewar hai Fatema ke liye
 
   2
-  Bada jigar tha tera ay rasool ki beti
-  Pisar hussain sa paala tha karbala ke liye
+  Bada jigar tha tera ae Rasul ki beti
+  Pisar Husain sa paala tha Karbala ke liye
 
   3
-  Dare hussain hai manzil numeine zaate khuda
-  Dare hussain pa sajde karo khuda ke liye
+  Dar-e-Husain hai manzil numa-e-Zaat-e-Khuda
+  Dar-e-Husain pe sajde karo Khuda ke liye
 
   4
-  Dua ko haath uthaye ke bas murad aayi
-  Hussain aisa waseela bane dua ke liye
+  Dua ko haath uthaaye ke bas muraad aayi
+  Husain aisa wasila bane dua ke liye
 
   5
-  Zamane bhar ke hai sajde umeed bakshish par
-  Magar hussain ka sajda faqat khuda ke liye
+  Zamane bhar ke haiṅ sajde umid-e-bakhshish par
+  Magar Husain ka sajda faqat Khuda ke liye
 
   6
-  Ghareeb dil ki bhala nazr aur kya hogi
-  Mera salaam shaheedan e karbala ke liye
+  Gharib dil ki bhala nazr aur kya hogi
+  Mera salaam shahidaan-e-Karbala ke liye
 
   7
-  Labe furaat qalam hoke baazu e abbas
-  Sutoon ban gaye tameer e karbala ke liye
+  Lab-e-Furaat qalam ho ke baazu-e-Abbas
+  Sutun ban gaye tamir-e-Karbala ke liye
 
   8
-  Ghazab ka waqt hai aale rasool yun mohtaj
-  Kafan ke waaste bhai behan rida ke liye
+  Ghazab ka waqt hai Aal-e-Rasul yuṅ mohtaaj
+  Kafan ke waaste bhaai behan rida ke liye
 
   9
-  Ghame hussain ko aasan samajh rahe ho wasi
-  Ye imtehan hai dile sabr o aazma ke liye
+  Gham-e-Husain ko aasaaṅ samajh rahe ho Wasi
+  Ye imtihaaṅ hai dil-e-sabr o aazma ke liye
 # source_id: nohayonline:afd37879ef20245cfa39
 # source_url: https://www.nohayonline.com/details_content.php?id=627
 # raw_sha256: bac5ef2aecfc04dafd27daccfc887ccea43a4630b006e447cf77fe614918ae51
@@ -80,7 +81,7 @@ romanLyrics: |-
 میرا سلام شہیدانِ کربلا کے لیئے
 
 ۷
-لبِ فرا،ت قلم ہو کے بازوئے عباس
+لبِ فرات قلم ہو کے بازوئے عباس
 ستون بن گئے تعمیرِ کربلا کے لیئے
 
 ۸

@@ -6,75 +6,76 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayab Balyavi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Azakhane hai jiski shaan ye mera mulk mera emaan
-  Mere maula ki khwahish ka naam hai hindustan
+  Mere Maula ki khwahish ka naam hai Hindustan
 
   1
-  Chand muharram ka jab nikla gaon huwe saare aabaad
-  Gali gali se shor utha ke nasle yazeedi murdabad
-  Hindu'on ke lab par hai shabbir hamara zindabad
-  Dunya ke har mulk se zayed hind mein hai hum sab azaad
-  Isi se saari dunya se acha hai hindustan
+  Chaand Muharram ka jab nikla gaaṅw huwe saare aabaad
+  Gali gali se shor utha ke nasl-e-Yazidi murdabaad
+  Hinduoṅ ke lab par hai Shabbir hamara zindabaad
+  Dunya ke har mulk se zaayed Hind meiṅ hai hum sab aazaad
+  Isi se saari dunya se achchha hai Hindustan
 
   2
-  U.p m.p karnatak gujrat goa dehli aasaam
-  Manipur bihar himachal hai laddakh baland maqam
-  In sab ki qismat ki jabeen par likha hai shabbir ka naam
-  Subho azane akbar se hai shaam e gariban inki shaam
-  Dashte bala ki yaad mein tapta hai wo rajasthan
+  U.P. M.P. Karnatak Gujarat Goa Dehli Aasaam
+  Manipur Bihar Himachal hai Laddakh buland maqaam
+  In sab ki qismat ki jabiṅ par likha hai Shabbir ka naam
+  Subh azaan-e-Akbar se hai shaam-e-gharibaaṅ inki shaam
+  Dasht-e-bala ki yaad meiṅ tapta hai wo Rajasthan
 
   3
-  Haryana punjab mizoram andhr tamil keral kashmir
-  Daman diu telangana pandicherry gham ki tasveer
-  Andaman chattisgarh aur uttrakhand gham ki tanveer
-  Maharashtr ho ya ke odisa shaane aza ki hai jageer
-  Sheh ki azadari ka in sab par hai bada ehsaan
+  Haryana Punjab Mizoram Aandhr Tamil Keral Kashmir
+  Daman Diu Telangana Pandicheri gham ki tasvir
+  Andaman Chhattisgarh aur Uttarakhand gham ki tanvir
+  Maharashtr ho ya ke Orissa shaan-e-aza ki hai jaagir
+  Sheh ki azadaari ka in sab par hai bada ehsaan
 
   4
-  Masjid ke jo ehtaram ki ek hadh par ruk jaata hai
-  Hindu wo lekin ye sach hai farshe aza par aata hai
-  Qaumi yekjehti ka hunar ye farshe aza sikhlata hai
-  Sikh esaayi apni muradein farshe aza se paata hai
-  Farshe aza par aane se ghabrata hai shaitan
+  Masjid ke jo ehtiraam ki ek had par ruk jaata hai
+  Hindu wo lekin ye sach hai farsh-e-aza par aata hai
+  Qaumi yakjehti ka hunar ye farsh-e-aza sikhlaata hai
+  Sikh Isaai apni muraadeṅ farsh-e-aza se paata hai
+  Farsh-e-aza par aane se ghabraata hai shaitaan
 
   5
-  Mulk hai mera sab se pyara mulk se hai hum sab ko pyar
-  Iski khaatir jeena marna asl hussaini hai kirdaar
-  Sheh ki azadari se hi ye mulk hua har soo zaubaar
-  Iski azadi mein shaamil karbobala ka hai eesaar
+  Mulk hai mera sab se pyaara mulk se hai hum sab ko pyaar
+  Iski khaatir jina marna asl Husaini hai kirdaar
+  Sheh ki azadaari se hi ye mulk hua har su zaubaar
+  Iski aazaadi meiṅ shaamil Karbobala ka hai isaar
   Aise watan se ulfat karna nisf hua emaan
 
   6
-  Maana ke dunya ke har goshe mein raaij sheh ki aza
-  Lekin apne mulk ki raaij sheh ki aza ka kya kehna
-  Karbobala se door bani taskeen ki laakhon karbobala
-  Kalmago kya hindu'on ke ghar mein aza ka farsh bicha
-  Sheh ki azadari se hai ye bharat desh mahaan
+  Maana ke dunya ke har goshe meiṅ raaij Sheh ki aza
+  Lekin apne mulk ki raaij Sheh ki aza ka kya kehna
+  Karbobala se dur bani taskin ki laakhoṅ Karbobala
+  Kalma go kya Hinduoṅ ke ghar meiṅ aza ka farsh bichha
+  Sheh ki azadaari se hai ye Bharat desh mahaan
 
   7
-  Waadi waadi sehra sehra matam e sheh jangal jangal
-  Darya darya saahil saahil khushki ho yaa ke jal thal
-  Sadiyon se hai zikre shahe deen sa’at sa’at har ek pal
-  Gulshan gulshan koh ka daaman sausan ho ya phool kawal
-  Patta patta boota boota mausam e gham ki shaan
+  Waadi waadi sehra sehra matam-e-Sheh jangal jangal
+  Darya darya saahil saahil khushki ho ya ke jal thal
+  Sadiyoṅ se hai zikr-e-Shah-e-diṅ saaat saaat har ek pal
+  Gulshan gulshan koh ka daaman sausan ho ya phul kanwal
+  Patta patta buta buta mausam-e-gham ki shaan
 
   8
-  Nagaland meghalay sikkim arunachal jharkhand tripura
-  Asle namaze ishqe aza har ek ne ki hai in mein adaa
-  Inke dil ke daaman mein pur noor hui hai karbobala
-  Lakhsdeep aur chandigarh mein goonji hai matam ki sada
-  Sheh ki azadari hi unki asl mein hai pehchaan
+  Nagaland Meghalaya Sikkim Arunachal Jharkhand Tripura
+  Asl-e-namaaz-e-ishq-e-aza har ek ne ki hai in meiṅ ada
+  Inke dil ke daaman meiṅ pur nur hui hai Karbobala
+  Lakshadip aur Chandigarh meiṅ gunji hai matam ki sada
+  Sheh ki azadaari hi unki asl meiṅ hai pehchaan
 
   9
-  Hindu muslim sikh eesaai ke hai labon par shaah ka naam
-  Qaumi yekjehti ka kya is behtar hoga paigham
-  Ganga jamna ki hai sabeelein tashna labon ki yaad mein aam
-  Uth'ta hai bangaal se badal liye huwe ashkon ka jaam
-  Aamir aur nayaab ke jazbe bharat pe qurban
+  Hindu Muslim Sikh Isaai ke hai laboṅ par Shah ka naam
+  Qaumi yakjehti ka kya is behtar hoga paighaam
+  Ganga Jamna ki hai sabileṅ tashna laboṅ ki yaad meiṅ aam
+  Uthta hai Bangaal se baadal liye huwe ashkoṅ ka jaam
+  Aamir aur Nayaab ke jazbe Bharat pe qurbaan
 # source_id: nohayonline:93de1b572a35539f281d
 # source_url: https://www.nohayonline.com/details_content.php?id=3643
 # raw_sha256: c7eeba1069a5fb36d70347a2ee7276ff6ab0fb91ea9808874f60d40dd22fe1d7
@@ -85,13 +86,13 @@ romanLyrics: |-
 ۱
 چاند محرم کا جب نکلا گاؤں ہوئے سارے آباد
 گلی گلی سے شور اٹھا کہ نسل یزیدی مردہ باد
-ہندوؤں کے لب ہے شبیر ہمارا زندہ باد
+ہندوؤں کے لب پر ہے شبیر ہمارا زندہ باد
 دنیا کے ہر ملک سے زاید ہند میں ہے ہم سب آزاد
 اسی سے ساری دنیا سے اچھا ہے ہندوستان
 
 ۲
 یو پی ایم پی کرناٹک گجرات گوا دہلی آسام
-منی پور بہار ہماچل ہے لڑکھ بلند مقام
+منی پور بہار ہماچل ہے لداخ بلند مقام
 ان سب کی قسمت کی جبیں پر لکھا ہے شبیر کا نام
 صبح اذان اکبر سے ہے شام غریباں ان کی شام
 دشت بلا کی یاد میں تپتا ہے وہ راجستان
@@ -106,15 +107,15 @@ romanLyrics: |-
 ۴
 مسجد کے جو احترام کی ایک حد پر رک جاتا ہے
 ہندو وہ لیکن یہ سچ ہے فرش عزا پر آتا ہے
-قومی یک جہتی ہنر یہ فرش عزا سکھلاتا ہے
+قومی یک جہتی کا ہنر یہ فرش عزا سکھلاتا ہے
 سکھ عیسائی اپنی مرادیں فرش عزا سے پاتا ہے
-فرش عزا پر آنے گھبراتا ہے شیطان
+فرش عزا پر آنے سے گھبراتا ہے شیطان
 
 ۵
-ملک ہے میرا سب سے پیارا ملک سے ہم سب کو پیار
+ملک ہے میرا سب سے پیارا ملک سے ہے ہم سب کو پیار
 اس کی خاطر جینا مرنا اصل حسینی ہے کردار
 شہ کی عزاداری سے ہی یہ ملک ہوا ہر سو زوبار
-اس کی میں شامل کربوبلا کا ہے ایثار
+اس کی آزادی میں شامل کربوبلا کا ہے ایثار
 ایسے وطن سے الفت کرنا نصف ہوا ایمان
 
 ۶
@@ -134,13 +135,13 @@ romanLyrics: |-
 ۸
 نا گا لینڈ میگھا لے سکم اروناچل جھارکھنڈ تریپورہ
 اصل نماز عشق عزا ہر ایک نے کی ہے ان میں ادا
-ان کے دل کے دامن میں پر نور ہوی ہے کربوبلا
+ان کے دل کے دامن میں پر نور ہوئی ہے کربوبلا
 لکشادیپ اور چندی گڑھ میں گونجی ہے ماتم کی صدا
-شہ کی عزاداری ہوی انکی اصل میں ہے پہچان
+شہ کی عزاداری ہی ان کی اصل میں ہے پہچان
 
 ۹
 ہندو مسلم سکھ عیسائی کے ہے لبوں پر شاہ کا نام
 قومی یک جہتی کا کیا اس بہتر ہوگا پیغام
 گنگا جمنا کی ہے سبیلیں تشنہ لبوں کی یاد میں عام
-اٹھتا ہے بنگال سے بادل لیےء ہوئے اشکوں کا جام
-عامر اور نایاب کے جزبے بھارت پہ قرباں
+اٹھتا ہے بنگال سے بادل لیے ہوئے اشکوں کا جام
+عامر اور نایاب کے جذبے بھارت پہ قرباں
