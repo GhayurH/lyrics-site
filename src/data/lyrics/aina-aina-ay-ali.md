@@ -1,6 +1,6 @@
 ---
 title: "عینا عینا اے علی اکبر"
-alternateTitle: "Aina Aina Ay Ali"
+alternateTitle: "Aina Aina Ae Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -36,22 +36,22 @@ romanLyrics: |-
 
   5
   Jab se suni hai teri sada maaṅ hai beqarar
-  Seene ko pakde poochti hai mujhse baar baar
+  Seene ko pakde puchhti hai mujh se baar baar
   Kis ne kiya salam ye ran se pukar kar
 
   6
   Mushkilkusha ke pote ho mushkil ka waqt hai
-  Pahuncho madad ko baap pe manzil ye saqt hai
-  Ek baar phir pukaro to aa jae ye pidar
+  Pahuncho madad ko baap pe manzil ye sakht hai
+  Ik baar phir pukaro to aa jaaye ye pidar
 
   7
   Khat aaya hai watan se behan ka ise parho
-  Uth kar jawab e fatema sughra ko kuch likho
-  Tayyar wapasi pe hai sughra ka naamawar
+  Uth kar jawab-e-Fatima Sughra ko kuchh likho
+  Tayyar wapasi pe hai Sughra ka naamawar
 
   8
-  Is haal ka Anees kare kis tarah bayan
-  Jis tarha shaah dhoondte thay apna naujawan
+  Is haal ka Anees kare kis tarah bayaṅ
+  Jis tarah Shah dhundte the apna naujawaṅ
   Maqtal ki khaak aaj bhi hai gham mein nauhagar
 # source_id: nohayonline:1134ae7de0d84438aa83
 # source_url: https://www.nohayonline.com/details_content.php?id=1755
@@ -91,7 +91,7 @@ romanLyrics: |-
 اک بار پھر پکارو تو آ جائے یہ پدر
 
 ۷
-خط آیا ہے وطن سے بہن کا اسے پڑو
+خط آیا ہے وطن سے بہن کا اسے پڑھو
 اٹھ کر جواب فاطمہ صغرا کو کچھ لکھو
 تیار واپسی پہ ہے صغریٰ کا نامور
 

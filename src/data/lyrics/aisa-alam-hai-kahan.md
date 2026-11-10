@@ -12,27 +12,27 @@ published: false
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Aisa alam hai kahaṅ
-  Aisa jawan hai kahaṅ
+  Aisa jawaṅ hai kahaṅ
 
   1
-  Ye hai abu talib ka gharana
-  Is pe khuda ka khaas karam hai
+  Ye hai Abu Talib ka gharana
+  Is pe Khuda ka khaas karam hai
   Saare Arab mein saare Ajam mein
   Kis ko mila ye jaah o hasham hai
-  In mein koi yasin o muzammil
-  In mein koi sardar e iram hai
+  In mein koi Yasin o Muzammil
+  In mein koi sardar-e-Iram hai
   Us ki alag hi shaan hai Maula
   Jis ko mila Haider ka alam hai
 
   2
-  Kaisa saja hai kaisa haseen hai
-  Karbobala mein shaah ka lashkar
-  Yun to sabhi hai sher e dilawar
+  Kaisa saja hai kaisa hasiṅ hai
+  Karbobala mein Shah ka lashkar
+  Yuṅ to sabhi haiṅ sher dilawar
   Aun o Muhammad Qasim o Akbar
-  Ibne mazahir wehbe kalbi
-  John bhi Hurr bhi saare dilawar
-  Apni jagah ye sab hai bahadur
-  Fauj mein teri ay shahe safdar
+  Ibn-e-Mazahir Wahb-e-Kalbi
+  Jaun bhi Hurr bhi saare dilawar
+  Apni jagah ye sab haiṅ bahadur
+  Fauj mein teri Ae Shah-e-Safdar
 
   3
   Baad-e-namaz-e-Fajr ziyarat
@@ -41,27 +41,27 @@ romanLyrics: |-
   Main ye wazifa parhta huṅ
   Kar ke ziyarat tere alam ki
   Phir main ghar se chalta huṅ
-  Saaye mein chauda masoomon ke
+  Saaye mein chaudah masumoṅ ke
   Shukr-e-Khuda mein rehta huṅ
 
   4
   Hum to sag-e-darbar-e-Ali haiṅ
   Khaas ye tujhse rishta hai
-  Jadh bhi hai tera kul ka maula
+  Jad bhi hai tera kul ka Maula
   Tu bhi hamara aaqa hai
   Tere faqiroṅ mein Ae Ghazi
-  Arsh nasheen bhi rehta hai
-  Sindh mein aao maula qadam par
-  Laal qalandar kehta hai
+  Arsh nashiṅ bhi rehta hai
+  Sindh mein aao Maula qadam par
+  Laal Qalandar kehta hai
 
   5
   Shaam ke lashkar mein halchal thi
   Kaun jari ab aata hai
   Burhe jawanoṅ se kehte the
-  Ye to ali ab aata hai
-  Sar pe khuda thokar mein qaza hai
+  Ye to Ali ab aata hai
+  Sar pe Khuda thokar mein qaza hai
   Qahr-e-Jali ab aata hai
-  Kehna pada ahmed ko ali se
+  Kehna para Ahmad ko Ali se
   Tera wasi ab aata hai
 
   6
@@ -70,19 +70,19 @@ romanLyrics: |-
   Jis ko kaha karte thay aaqa
   Qatl hua wo bhai bhi
   Sar se chhini Zainab ki chadar
-  Teri sakina qaid hui
-  Haye teri majboori ghazi
+  Teri Sakina qaid hui
+  Haye teri majburi Ghazi
   Maaṅ Zehra ye kehti rahi
 
   7
-  Ab bhi azakhano mein parcham
+  Ab bhi azakhanoṅ mein parcham
   Tera aise rehta hai
   Shaam dhale aisa lagta hai
   Koi lipat ke rota hai
   Tere alam ka surkh pharera
-  Haye sakina kehta hai
+  Haye Sakina kehta hai
   Tum hi kya Rehaan o Sarwar
-  Sab ki zaban par rehta hai
+  Sab ki zabaṅ par rehta hai
 # source_id: nohayonline:14f8c43fff19f0141257
 # source_url: https://www.nohayonline.com/details_content.php?id=3030
 # raw_sha256: ed55c0f72d54c1582dc80391c0b5a81034bea77d7d60a0963e434ea5434182de
@@ -96,8 +96,8 @@ romanLyrics: |-
 ۱
 یہ ہے ابو طالب کا گھرانہ
 اس پہ خدا کا خاص کرم ہے
-سارے عرب میں سارے اجم میں
-کس کو ملا یہ جاہ و ہشم ہے
+سارے عرب میں سارے عجم میں
+کس کو ملا یہ جاہ و حشم ہے
 ان میں کوئی یاسین و مزمل
 ان میں کوئی سردارِ ارم ہے
 اس کی الگ ہی شان ہے مولا
@@ -159,6 +159,6 @@ romanLyrics: |-
 شام ڈھلے ایسا لگتا ہے
 کوئی لپٹ کے روتا ہے
 تیرے علم کا سرخ پھریرا
-ہاے سکینہ کہتا ہے
+ہائے سکینہ کہتا ہے
 تم ہی کیا ریحان و سرور
 سب کی زباں پر رہتا ہے

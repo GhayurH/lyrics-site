@@ -12,7 +12,7 @@ published: false
 reciter: "Ali Rizvi Sachey"
 romanLyrics: |-
   Ghore se ran mein jab gire hamshakl-e-Mustafa
-  Baba mera salam ho di aakhri sada
+  Baba mara salam ho di aakhri sada
   Daure kamar ko thaam ke yuṅ Shah-e-Karbala
   Aankhoṅ se ashk jaari the hontoṅ pe marsiya
   Aankhoṅ ka nur kho gaya dhundhuṅ kahaṅ tujhe
@@ -31,23 +31,23 @@ romanLyrics: |-
   Yuṅ thaam ke dil eriyaṅ ragro na dilawar
 
   3
-  Kya haal mere laal tera hogaya haye
+  Kya haal mere laal tera ho gaya haye
   Allah kisi baap ko ye din na dikhaye
-  Peeri mein falak ne hamay dikhlaye jo manzar
+  Piri mein falak ne hameṅ dikhlaye jo manzar
 
   4
   Kis tarah mere laal tere dard ko thamuṅ
-  Sine se tere kis tarah barchhi ko nikaluṅ
-  Aajaye kaleja na kahin seene se baahar
+  Seene se tere kis tarah barchhi ko nikaluṅ
+  Aa jaaye kaleja na kahiṅ seene se baahar
 
   5
-  Yun chod ke ghurbat mein na jao mujhe beta
+  Yuṅ chhor ke ghurbat mein na jao mujhe beta
   Bas tum hi ho jeene ka sahara mere beta
-  Kis tarah teri laash uthauṅga main dilbar
+  Kis tarah teri laash uthauṅ main dilbar
 
   6
   Madar se teri ja ke bhala kaise kahuṅga
-  Akbar ko tere ran mein qaza aagayi laila
+  Akbar ko tere ran mein qaza aa gayi Laila
   Wo dekh rahi hogi teri raah khule sar
 # source_id: nohayonline:f44772b24e9be45e25f0
 # source_url: https://www.nohayonline.com/details_content.php?id=2903

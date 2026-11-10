@@ -18,20 +18,20 @@ romanLyrics: |-
   1
   Is tarah teri karimi pe yaqin hai mujh ko
   Jaise Tauhid mein shak ka koi imkan nahiṅ
-  Waaṅ gayi fikr meri Madh-e-Raza ki khatir
+  Waaṅ gayi fikr mari Madh-e-Raza ki khatir
   Jahaṅ Jibril ke jaane ka bhi imkan nahiṅ
 
   2
   Sheikh ji Madh-e-Raza sun ke ye hairat kaisi
   Kya kabhi tum ne suni Sura-e-Rehman nahiṅ
   Tere darbar mein bajti hui naubat ki qasam
-  Kam azanoṅ se teri jit ka elan nahiṅ
+  Kam azanoṅ se tari jit ka elan nahiṅ
 
   3
-  Har ghari lab pe mere naam-e-Ali rehta hai
+  Har ghari lab pe mare naam-e-Ali rehta hai
   Kaun kehta hai ke main Hafiz-e-Quran nahiṅ
-  Mil gaya jab teri khudami ka tamgha is ko
-  Ab tere Mir Hasan ko koi arman nahiṅ
+  Mil gaya jab tari khudami ka tamgha is ko
+  Ab tare Mir Hasan ko koi arman nahiṅ
 # source_id: tajpoints:69e7f0026272fcea2a9f
 # source_url: https://tajpoints.com/2020/11/aisa-duniya-mein-koi-banda-e-rehman.html
 # raw_sha256: 7e1fa829396e8fb202d4a02fca97bbd736c8f90afbbae26e4f16e14c9148b1ab
