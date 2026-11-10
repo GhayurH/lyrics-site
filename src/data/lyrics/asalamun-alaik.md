@@ -16,40 +16,40 @@ romanLyrics: |-
   Bar zabaan o dilam ya Husain ya Husain
 
   1
-  Aaye maula madine se karbobala
-  Bhai behno ka bachon ka ye khaafila
-  Ghazi abbas ka sar pe parcham khula
-  Aa rahi thi sada ya hussain ya hussain
+  Ae Maula Madine se Karbobala
+  Bhaai behnoṅ ka bachchoṅ ka ye qaafila
+  Ghaazi Abbas ka sar pe parcham khula
+  Aa rahi thi sada ya Husain ya Husain
 
   2
-  Bhai hai mujtaba baba jaan murtaza
-  Aur maadar hai jaane nabi fatema
-  Nana salle ala ahmad e mustafa
-  Inke dil ki dua ya hussain ya hussain
+  Bhaai hai Mujtaba baaba jaaṅ Murtaza
+  Aur maadar hai jaan-e-Nabi Fatema
+  Naana salle alaa Ahmad-e-Mustafa
+  In ke dil ki dua ya Husain ya Husain
 
   3
   Aap ke ghar ko aada sataate rahe
-  Band pani kiya aur rulaate rahe
-  Aap quran pad ke sunaate rahe
-  Rahnuma rahnuma ya hussain ya hussain
+  Band paani kiya aur rulaate rahe
+  Aap Quraan parh ke sunaate rahe
+  Rahnuma rahnuma ya Husain ya Husain
 
   4
-  Aa rahi hai imam e zamaan ki sada
-  As salaam ay ghareebul watan marhaba
-  Padh ke rote hai hum ziyarat e naahiya
-  Ay qateel e jafa ya hussain ya hussain
+  Aa rahi hai Imam-e-zamaaṅ ki sada
+  Assalaam ae gharibul watan marhaba
+  Parh ke rote haiṅ hum ziyaarat-e-Naahiya
+  Ae qatil-e-jafa ya Husain ya Husain
 
   5
-  Haye shaam e ghariban na bhoolenge hum
-  Haye saydaniyan aur un pe sitam
-  Bibi zainab chali leke deen ka alam
-  Zainabi azm tha ya hussain ya hussain
+  Haaye Shaam-e-gharibaaṅ na bhuleṅ ge hum
+  Haaye sayyidaaniyaaṅ aur un pe sitam
+  Bibi Zainab chali le ke diṅ ka alam
+  Zainabi azm tha ya Husain ya Husain
 
   6
-  Poori rehaan o sarwar dua hogayi
-  Muntaqil nasl mein ab azaa hogayi
-  Ay shanawar ali jee ataa hogayi
-  Daulate karbala ya hussain ya hussain
+  Puri Rehaan o Sarwar dua ho gayi
+  Muntaqil nasl mein ab azaa ho gayi
+  Ae Shanawar Ali Ji ataa ho gayi
+  Daulat-e-Karbala ya Husain ya Husain
 # source_id: nohayonline:e405d69c08f728197df5
 # source_url: https://www.nohayonline.com/details_content.php?id=2467
 # raw_sha256: 2642a4be8c3e93b02eb7729a5694a539232a7002010d38b20abdabc95c83b9d3
@@ -86,7 +86,7 @@ romanLyrics: |-
 ۵
 ہاے شام غریباں نہ بھولیں گے ہم
 ہاے سیدانیاں اور ان پہ ستم
-بی بی زینب چلی لے کے دیں کا علم
+بی‌بی زینب چلی لے کے دیں کا علم
 زینبی عزم تھا یا حسین یا حسین
 
 ۶

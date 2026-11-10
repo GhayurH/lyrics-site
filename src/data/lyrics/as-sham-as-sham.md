@@ -11,74 +11,74 @@ aliases: []
 published: false
 romanLyrics: |-
   Abid se jab watan mein kisi ne kiya kalaam
-  Guzre kalak zyada kahan tumpe ya imam
-  Abid ne teen baar kaha shaam shaam shaam
-  As-sham as-sham as-sham kaha
-  Bazaar mein jaana yaad raha
+  Guzre qalaq zyaada kahaaṅ tum pe ya Imam
+  Abid ne tin baar kaha Shaam Shaam Shaam
+  Ash-Shaam ash-Shaam ash-Shaam kaha
+  Baazaar mein jaana yaad raha
 
   1
-  Pabande rasan beparda haram
-  Bazaar mein aayi maa bandi
-  Un galiyon mein bazaaron mein
-  Abid pe qayamat kya guzri
-  Pathar dil un bedardo ka
-  Bazaar sajana yaad raha
+  Paaband-e-rasan beparda haram
+  Baazaar mein aayi maaṅ bandi
+  Un galiyoṅ mein baazaaroṅ mein
+  Abid pe qayaamat kya guzri
+  Patthar dil un bedardoṅ ka
+  Baazaar sajaana yaad raha
 
   2
   Jab yaad wo manzar aata tha
-  Sajjad ka dil khoon rota tha
-  Aankhon se lahoo barsaata tha
-  Ek dard jigar mein hota tha
-  Bemaar tadapta tha keh kar
-  Ghurbat ka zamana yaad raha
+  Sajjad ka dil khuṅ rota tha
+  Aankhoṅ se lahu barsaata tha
+  Ik dard jigar mein hota tha
+  Bimaar tarapta tha keh kar
+  Ghurbat ka zamaana yaad raha
 
   3
-  Naizo pe shaheedo ke sar thay
-  Aur ahle haram be chadar thay
-  Lachaar haram bazaaron mein
+  Naizoṅ pe shahidoṅ ke sar the
+  Aur ahl-e-haram bechaadar the
+  Laachaar haram baazaaroṅ mein
   Bas ahl-e-sitam ki zad par the
-  Pardes mein khoon rokar mujhko
-  Ye zakhm uthana yaad raha
+  Pardes mein khun ro kar mujh ko
+  Ye zakhm uthaana yaad raha
 
   4
-  Hai ahle shaam tamashayi
-  Hum par pathar barsate thay
-  Bazaaron se darbaron tak
-  Hum sar ko jhuka kar jaate thay
-  Ghairat ki sabab un raahon mein
-  Sar apna jhukana yaad raha
+  Hai ahl-e-Shaam tamaashaayi
+  Hum par patthar barsaate the
+  Baazaaroṅ se darbaaroṅ tak
+  Hum sar ko jhuka kar jaate the
+  Ghairat ke sabab un raahoṅ mein
+  Sar apna jhukaana yaad raha
 
   5
-  Khaati thi tamache zaalim ke
-  Masoom sakina raahon mein
+  Khaati thi tamaanche zaalim ke
+  Maasum Sakina raahoṅ mein
   Dil ab bhi laraz jaata hai mera
-  Wo dard tha uski aankhon mein
-  Meri mazloom sakina ka
-  Ghazi ko bulana yaad raha
+  Wo dard tha us ki aankhoṅ mein
+  Meri mazlum Sakina ka
+  Ghaazi ko bulaana yaad raha
 
   6
-  Shabbir ki khwahar ko zaalim
-  Baaghi ki behan jab kehte thay
-  Dil khoon ke aansu rota tha
-  Jis waqt ye taane sehte thay
-  Wo meri phupi ka is gham se
-  Ashkon ka bahana yaad raha
+  Shabbir ki khwaahar ko zaalim
+  Baaghi ki behan jab kehte the
+  Dil khun ke aansu rota tha
+  Jis waqt ye taane sehte the
+  Wo meri phuphi ka is gham se
+  Ashkoṅ ka bahaana yaad raha
 
   7
-  Abbas ki khwahar be-chadar
-  Ye baat to khoon rulaati thi
+  Abbas ki khwaahar bechaadar
+  Ye baat to khuṅ rulaati thi
   Zainab ke khule sar par jab bhi
-  Ghazi ki nazar pad jaati thi
-  Naize ki ani se ghazi ka
+  Ghaazi ki nazar par jaati thi
+  Naize ki ani se Ghaazi ka
   Sar khaak pe aana yaad raha
 
   8
   Sajjad ka ye nauha likh kar
-  Dil rone laga mera safdar
-  Namoose nabi bazaaron se
-  Kis tarha gayi hogi rokar
-  Jis gham ke sabab abid ko sada
-  Sar apna jhukana yaad raha
+  Dil rone laga mera Safdar
+  Naamus-e-Nabi baazaaroṅ se
+  Kis tarah gayi hogi ro kar
+  Jis gham ke sabab Abid ko sada
+  Sar apna jhukaana yaad raha
 # source_id: nohayonline:edd83efe643bd4ec3bf1
 # source_url: https://www.nohayonline.com/details_content.php?id=879
 # raw_sha256: 6fceecc242ca4ead56ba13d8eedfeae1164cb3c05632f20ee1f0fc4cf52102ba
