@@ -11,8 +11,8 @@ aliases: []
 published: false
 reciter: "Mir Hassan Mir"
 romanLyrics: |-
-  Shabih-e-Imam-e-Zaman khinchte haiṅ
-  Tasawwur mein tasvir-e-jaan khinchte haiṅ
+  Shabih-e-Imam-e-Zamaṅ khinchte haiṅ
+  Tasawwur mein tasvir-e-jaaṅ khinchte haiṅ
   Kaha ro ke Akbar ne Ae dard tham ja
   Ke sine se Baba sinaṅ khinchte haiṅ
 
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Yasrab ki taraf aankheṅ har dam meri rehti haiṅ
-  Ab waqt bahut kam hai saṅseṅ bhi ulajhti haiṅ
+  Ab waqt bahut kam hai saaṅseṅ bhi ulajhti haiṅ
   Qasid meri Sughra ke jaldi se zara aa ja
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
   6
   Arman jo dil mein hai dil mein hi na dafna de
   Aisa na ho Zainab ko ja kar koi batla de
-  Pyari phuphi Amma se bardasht na ye hoga
+  Pyari phuphi Ammaaṅ se bardasht na ye hoga
 
   7
   Marne ka nahiṅ hai gham gham hai to bas itna hai

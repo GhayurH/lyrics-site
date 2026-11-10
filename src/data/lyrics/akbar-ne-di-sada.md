@@ -6,6 +6,7 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -15,6 +16,7 @@ romanLyrics: |-
 
   1
   Zakhmi hai kaleja hai waqt madad ka
+  Ghore se gir raha huṅ Baba sambhalna
 
   2
   Sukhi hui zaban hai ghalba hai pyas ka
@@ -37,7 +39,7 @@ romanLyrics: |-
   De aap ko Khuda ye sabr o hausla
 
   6
-  Mujh se siwa hai aap ki lachari pidar
+  Mujh se siwa hai aap ki lachargi pidar
   Tanha gaye haiṅ aap hi har ek laash par
   Hote agar chacha to main nahiṅ kehta
 
@@ -67,6 +69,7 @@ romanLyrics: |-
 
 ۱
 زخمی ہے کلیجہ ہے وقت مدد کا
+گھوڑے سے گر رہا ہوں بابا سنبھالنا
 
 ۲
 سوکھی ہوئی زبان ہے غلبہ ہے پیاس کا

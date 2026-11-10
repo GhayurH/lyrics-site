@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Behtar hai chhupa de mere sine ke nishan ko
-  Halanki ke khabar mil gayi hogi meri maaṅ ko
+  Haalanke khabar mil gayi hogi meri maaṅ ko
   Kehna ke hai behaal ye bimar tumhara
   Karne ko chala aaya hai didar tumhara
 
@@ -35,20 +35,20 @@ romanLyrics: |-
   4
   Baba ye mera khun to kaproṅ se hata do
   Achha to mujhe dusri poshak pehna do
-  Ghaltan mujhe dekhegi agar khun ke wuzu mein
+  Ghaltaṅ mujhe dekhegi agar khuṅ ke wuzu mein
   Keh deṅgi mere dudh ki khushbu hai lahu mein
 
   5
   Dam haathoṅ mein de jaata hai jab god ka pala
   Phir zinda nahiṅ rehti hai wo maaṅ Shah-e-Wala
   Ye bar-e-garaṅ Ae mere Maula nahiṅ uthta
-  Maoṅ se jawaṅ bete ka sadma nahiṅ uthta
+  Maaoṅ se jawaṅ bete ka sadma nahiṅ uthta
 
   6
   Ghar jaane ki halat to nahiṅ aisi hamari
   Wo zakhm laga kari ke dam lena hai bhari
-  Sar uncha kiya aap ka batlaunga Baba
-  Amma ke qadam chumne ghar jaunga Baba
+  Sar uncha kiya aap ka batlauṅga Baba
+  Amma ke qadam chumne ghar jauṅga Baba
 
   7
   Kehna ke pisar aap ne Shabbir pe wara
@@ -57,8 +57,8 @@ romanLyrics: |-
   Zehra ki kanizoṅ mein tera naam hua hai
 
   8
-  Laila ke jawaṅ laal ka Ae Shadman noha
-  Taid-e-Husaini se Raza aap ne likha
+  Laila ke jawaṅ laal ka Ae Shadmaṅ noha
+  Taaid-e-Husaini se Raza aap ne likha
   Allah re majlis mein bara josh-e-fughaṅ hai
   Matlab ke yahaṅ aur bhi ek marsiyakhwaṅ hai
 # source_id: nohayonline:8e53c0c712f36f2db687
