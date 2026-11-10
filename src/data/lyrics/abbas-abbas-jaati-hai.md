@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -50,7 +51,7 @@ romanLyrics: |-
   5
   Thi teri khata bhi koi nahiṅ
   Aur sar pe tumhare gurz laga
-  Behneṅ roti hain ye keh kar
+  Behneṅ roti haiṅ ye keh kar
   Bhaiya ko mere kisne maara
   Sambhla na gaya tumse zin par
   Sar khun mein tera dub gaya
@@ -73,7 +74,7 @@ romanLyrics: |-
 
   8
   Rehaan o Mubarak Zainab ka
-  Pardes mein yun ghar bar luta
+  Pardes mein yuṅ ghar baar luta
   Bhai pardes mein maare gaye
   Shana bandha parda luta gaya
   Maqtal mein chaudah sadi se

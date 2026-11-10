@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -72,7 +73,7 @@ romanLyrics: |-
 
 ۵
 جو شامِ غریباں میں علمدار بنی تھی
-کہتی ہے علم دیکھ کے تیرا وہی بی بی
+کہتی ہے علم دیکھ کے تیرا وہی بی‌بی
 پردے کے نگہدار علم اونچا ہے تیرا
 
 ۶

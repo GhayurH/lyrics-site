@@ -6,6 +6,7 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Bober Ali"
+reciter: "Mir Bober Ali"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -15,7 +16,7 @@ romanLyrics: |-
 
   1
   Darya pe chhidi mashk kate bazu-e-Abbas
-  Sina dhuan dhuan tha Sakina ki thi wo pyaas
+  Sina dhuaṅ dhuaṅ tha Sakina ki thi wo pyaas
   Tuti kamar Husain ki behneṅ huiṅ beaas
   Chhin jayegi ab sar se rida ho gaya ehsas
   Rudad-e-tishnagi ki sunate hi raheṅge
@@ -29,14 +30,14 @@ romanLyrics: |-
 
   3
   Pamal ran mein ho gaya jis dam Hasan ka laal
-  Is gham ka qalb-e-Shah pe kiun kar na ho malal
+  Is gham ka qalb-e-Shah pe kiuṅ kar na ho malal
   Kehti thi Umm-e-Farwa ke ae Rabb-e-Zuljalal
   Ek raat ke dulhe ki hui laash paymal
   Shab ki dulhan ka hal sunate hi raheṅge
 
   4
   Barchhi lagi Akbar ko tarapne lage Shabbir
-  Pahunche jawan ki laash pe jab Sarwar-e-dilgir
+  Pahunche jawaṅ ki laash pe jab Sarwar-e-dilgir
   Zainab ki thi sada ke miti Nana ki tasvir
   Kehti thi Karbala mein meri lut gayi jagir
   Laila pe jo guzri wo sunate hi raheṅge
@@ -53,7 +54,7 @@ romanLyrics: |-
   Jab khushk gala kaat chuka Shimr-e-badatwar
   Neze ki ani par tha sar-e-Sayyed-e-Abrar
   Paighambar o Zehra o Ali the jigar afgar
-  Tasvir Karbala ki dikhate hi raheṅge
+  Tasvir-e-Karbala ki dikhate hi raheṅge
 
   7
   Jalti hui reti pe para laasha-e-besar
@@ -65,9 +66,9 @@ romanLyrics: |-
   8
   Yuṅ lut gaya ghurbat mein Muhammad ka gharana
   Rota hai jise sun ke abhi tak ye zamana
-  Kiun kar na Bober likhe Karbal ka fasana
+  Kiuṅ kar na Bober likhe Karbal ka fasana
   Milta hai Najaf se use lafzoṅ ka khazana
-  Gham Aal-e-Payambar ka manate hi raheṅge
+  Gham-e-Aal-e-Payambar ka manate hi raheṅge
 # source_id: nohayonline:b2e59d7b73329a4356cf
 # source_url: https://www.nohayonline.com/details_content.php?id=804
 # raw_sha256: d12231872b07c37d6ed35af516c0c440963b9217b6d1a818166ea06903c56f6f

@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -28,10 +29,10 @@ romanLyrics: |-
   Abbas Abbas mujhko bhi bachao na
 
   3
-  Sab Karbobala ko jaate hain
-  Aur dil ki muradeṅ paate hain
+  Sab Karbobala ko jaate haiṅ
+  Aur dil ki muradeṅ paate haiṅ
   Ek main hi tarasta huṅ Maula
-  Kiun aap mujhe tarpate hain
+  Kiuṅ aap mujhe tarpate haiṅ
   Abbas Abbas zawwar banao na
 
   4
@@ -45,12 +46,12 @@ romanLyrics: |-
   Jab aath Muharram aati hai
   Maaṅ saqqa mujhe banwati hai
   Jis ghar mein hazri hoti hai
-  Wahan teri sawari aati hai
+  Wahaṅ teri sawari aati hai
   Abbas Abbas mere ghar bhi to aao na
 
   6
   Girtoṅ ko sahara dete ho
-  Dube to kinara dete ho
+  Dube to kinare dete ho
   Jab tut raha ho koi dil
   Tum hi to dilasa dete ho
   Abbas Abbas girta huṅ uthao na
@@ -63,10 +64,10 @@ romanLyrics: |-
   Abbas Abbas use pani pilao na
 
   8
-  Karte hain buka Mesum Mazhar
+  Karte haiṅ buka Mesum Mazhar
   Aata hai yaad wohi manzar
   Hal min ki sadaeṅ dete hue
-  Shabbir ye kehte hain ro kar
+  Shabbir ye kehte haiṅ ro kar
 # source_id: nohayonline:95b0cdb138c1f36c6161
 # source_url: https://www.nohayonline.com/details_content.php?id=1698
 # raw_sha256: b34786c438956b7aedad5edbd30a40d073252f3008109ab4263c1004de42ca2d

@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abdi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -18,10 +19,10 @@ romanLyrics: |-
   Janab-e-Fatema bint-e-Asad ka pota hai
 
   1
-  Har ek sawal se pehle jawab dete hain
-  Jo zarra maṅgo to ye aftab dete hain
-  Koi jo khatra kahe bahr-e-aab dete hain
-  Sakhi hain kantoṅ ke badle gulab dete hain
+  Har ek sawal se pehle jawab dete haiṅ
+  Jo zarra maango to ye aaftab dete haiṅ
+  Koi jo khatra kahe bahr-e-aab dete haiṅ
+  Sakhi haiṅ kaantoṅ ke badle gulab dete haiṅ
   Yehi ruke hue tufan ka ishara hai
   Furat par abhi Abbas ka ijara hai
 
@@ -35,7 +36,7 @@ romanLyrics: |-
 
   3
   Kaha ye aur su-e-Firdaus chal diya Ghazi
-  Lab-e-Furat har ek mauj khun bahati rahi
+  Lab-e-Furat har ek mauj khuṅ bahati rahi
   Ye chunke Hazrat-e-Abbas ki wasiyat thi
   Jo laash sahil-e-darya pe Shah ne chhori
   Ye kehte jaate the kis tarah ab jiye Shabbir
@@ -44,13 +45,13 @@ romanLyrics: |-
   4
   Tamam bachchoṅ ne haathoṅ se kuze pheṅk diye
   Alam se haaye chacha keh ke daur kar lipte
-  Sakina boli chacha ko kahan pe chhor aaye
+  Sakina boli chacha ko kahaṅ pe chhor aaye
   Na pani chahiye ab aur hai na pyaas mujhe
   Chacha ko ya to yahiṅ par bula do ae Baba
   Ya mujhko paas unhi ke par sula do ae Baba
 
   5
-  Zaban-e-hal se Zainab pukari ae bhai
+  Zaban-e-haal se Zainab pukari ae bhai
   Ho tum pe khwahar-e-dilgir wari ae bhai
   Suno to aa ke hamari bezari ae bhai
   Kahiṅ lute na ridaeṅ hamari ae bhai
@@ -62,7 +63,7 @@ romanLyrics: |-
   Ajib tarah ki jaur o jafa thi ae Majid
   Ke ashk afshan wo chashm-e-Khuda thi ae Majid
   Ke ta ba Shaam haram ki sada thi ae Majid
-  Kahan ho ab pa-e-imdad aao ae Abbas
+  Kahaṅ ho ab pa-e-imdad aao ae Abbas
   Hameṅ sitam se laeen ke bachao ae Abbas
 # source_id: nohayonline:491c002c2b596e4cd09e
 # source_url: https://www.nohayonline.com/details_content.php?id=3722
