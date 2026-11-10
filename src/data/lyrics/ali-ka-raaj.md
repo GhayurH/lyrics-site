@@ -77,6 +77,7 @@ Pehla Sawal Apne Nabiyon Se Pochay Ga
 Malik-e-Mehshar Ki Aawaz Aaye Gi
 Nooh Batao Keh Kar-e-Nabowat Mein
 Kaun Tumhara Hai Gawah?
+
 Nooh Muhammad Ke, Pas Aa Ke Bolein Gay
 Hum Se Gawahon Ka, Pocha Hai Malik Ne
 Hamza-o-Jafar Ko Aaqa Sada Dein Gay
@@ -90,6 +91,7 @@ Bolein Gay Ahmad Khuda Jab Bulaye Ga
 Mujh Se Gawahi Nabowat Ki Mangay Ga
 Fakhar Ke Aalam Mein Rab Se Main Bolon Ga
 Meri Gawahi Hai Ali
+
 Sawa Lakh Nabiyon Mein Parcham Utha Kar
 Sar Pe Apne Taj-e-Wilayat Saja Kar
 Aaein Gay Maula Ali Saye Mein Hoon Gay Nabi
@@ -98,4 +100,4 @@ Our Lehra Ke Pukarey Gi Yeh Parcham Ki Hawa
 Mahraj Ka Raaj Kehte Hain Kis Ko Dekhey Ga Sara Zamana
 Mehdi Ke Humrah Rajat Mein Jis Dam Abbas Ka Hoga Aana
 Kabay Pe Rakh Ke Qadam Jab Lagaye Ga Alam
-HogiZeeshan o Raza Ghazi Ke Honton Pe Sada
+Hogi Zeeshan o Raza Ghazi Ke Honton Pe Sada

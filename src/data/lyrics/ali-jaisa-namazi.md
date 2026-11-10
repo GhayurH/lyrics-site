@@ -50,7 +50,7 @@ romanLyrics: |-
   7
   Lahu Rehaan roe Waris-e-Kaba ki furqat mein
   Mujeeb Afkar ne nauhe parhe roze ki halat mein
-  Kiya unnisweṅ Ramazan ne bhi matam musalle par
+  Kiya unnisweṅ Ramazaṅ ne bhi matam musalle par
 ---
 
 علی جیسا نمازی توڑتا ہے دم مصلے پر
@@ -78,7 +78,7 @@ romanLyrics: |-
 
 ۵
 جبیں سجدے میں ہے اور ذہن میں کوفہ کا منظر ہے
-نظر میں زخمی سر ہے نوحۂ حیدر لبوں‌ پر
+نظر میں زخمی سر ہے نوحۂ حیدر لبوں پر
 کہ آنسو کر رہے ہیں شاہ کا ماتم مصلے پر
 
 ۶

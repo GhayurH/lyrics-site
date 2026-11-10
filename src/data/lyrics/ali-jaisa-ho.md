@@ -16,69 +16,81 @@ published: false
 romanLyrics: |-
   Ali jaisa ho Ali jaisa
   Ae Ummat-e-Nabawi aisi ho zindagi
-  Zinat ho Ali ki kirdar tumhara ho
+  Zinat ho Ali ki kirdaar tumhara ho
+  Ali jaisa ho Ali jaisa
   
   1
   Tum Aal-e-Nabi ki aan bano
-  Wallah mard-e-maidan bano
-  Ae Momino kam wo kar jana
-  Sajde mein sar ko katwana
+  Wallah mard-e-maidaṅ bano
+  Ae Mominoṅ kaam wo kar jaana
+  Sajde mein sar ko katwaana
+  Ali jaisa ho Ali jaisa
   
   2
   Ye ajr-e-risalat yaad rahe
   Asghar ki shahadat yaad rahe
   Akbar ki azaṅ ye kehti hai
-  Quran ka muhafiz kehlana
+  Quran ka muhafiz kehlaana
+  Ali jaisa ho Ali jaisa
   
   3
   Wo tauq-e-garaṅ wo zanjireṅ
   Wo pusht pe zulm ki tahrireṅ
-  Bazar-e-sitam mein tafsireṅ
-  Khutbe mein wo lehja apnana
+  Baazaar-e-sitam mein tafsireṅ
+  Khutbe mein wo lehja apnaana
+  Ali jaisa ho Ali jaisa
   
   4
   Shabbir ka sina yaad rahe
   Mazlum Sakina yaad rahe
   Itrat ka nagina yaad rahe
-  Mushkil mein na tera ghabrana
+  Mushkil mein na tera ghabraana
+  Ali jaisa ho Ali jaisa
   
   5
   Jis pe zinda Islam rahe
-  Bas pesh-e-nazar wo kam rahe
+  Bas pesh-e-nazar wo kaam rahe
   Aijaaz mawaddat ki khatir
-  Kar dalo dil ka nazrana
+  Kar daalo dil ka nazraana
+  Ali jaisa ho Ali jaisa
 ---
 
 علی جیسا ہو علی جیسا
 اے امت نبوی ایسی ہو زندگی
 زینت ہو علی کی کردار تمہارا ہو
+علی جیسا ہو علی جیسا
 
 ۱
 تم آل نبی کی آن بنو
 واللہ مرد میداں بنو
 اے مومنوں کام وہ کر جانا
 سجدے میں سر کو کٹوانا
+علی جیسا ہو علی جیسا
 
 ۲
 یہ اجر رسالت یاد رہے
 اصغر کی شہادت یاد رہے
 اکبر کی اذاں یہ کہتی ہے
 قرآن کا محافظ کہلانا
+علی جیسا ہو علی جیسا
 
 ۳
 وہ طوق گراں وہ زنجیریں
 وہ پشت پہ ظلم کی تحریریں
 بازار ستم میں تفسیریں
 خطبے میں وہ لہجہ اپنانا
+علی جیسا ہو علی جیسا
 
 ۴
 شبیر کا سینہ یاد رہے
 مظلوم سکینہ یاد رہے
 عترت کا نگینہ یاد رہے
 مشکل میں نہ تیرا گھبرانا
+علی جیسا ہو علی جیسا
 
 ۵
 جس پہ زندہ اسلام رہے
 بس پیش نظر وہ کام رہے
 اعجاز مودت کی خاطر
 کر ڈالو دل کا نذرانہ
+علی جیسا ہو علی جیسا
