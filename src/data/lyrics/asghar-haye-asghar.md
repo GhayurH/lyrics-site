@@ -12,36 +12,50 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Asghar haye asghar
-  Ay cheh mahine wale tujko mera salam
+  Asghar haye Asghar
+  Ae chhe mahine waale tujh ko mera salaam
 
   1
-  Ay shaahe deen ke dilbar ay roohe qalbe madar
-  Ay tishnakaam muztar ay bezuban asghar
+  Ae Shaah-e-diṅ ke dilbar, ae ruh-e-qalb-e-maadar
+  Ae tishna kaam muztar, ae bezabaan Asghar
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
 
   2
-  Tishnalabi pe teri girya hai ye khudaai
-  Mazlumiat ne teri insaniyat jagayi
+  Tishna labi pe teri, girya hai ye khudaai
+  Mazlumiyat ne teri, insaaniyat jagaai
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
 
   3
-  Sookhe labon pe tune jis dam zuban phirayi
-  Sar ko jhuka ke roya dushman ka har sipahi
+  Sukhe laboṅ pe tu ne, jis dam zabaaṅ phiraai
+  Sar ko jhuka ke roya, dushman ka har sipaahi
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
 
   4
-  Kya manzilat hai teri shabbir-e-khastatan ne
-  Dafna ke tera laasha farmeina purmehan ne
+  Kya manzilat hai teri, Shabbir-e-khasta tan ne
+  Dafna ke tera laasha, farmaaya purmehan ne
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
 
   5
-  Shikwa na karna asghar pani nahi meinassar
-  Aansu baha ke maine turbat ko kar diya tar
+  Shikwa na karna Asghar, paani nahiṅ mayassar
+  Aansu baha ke main ne, turbat ko kar diya tar
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
 
   6
-  Yaade pisar jab aati to kokh ujdi madar
-  Raton ko uthke aksar kehti thi dar pe aakar
+  Yaad-e-pisar jab aati, to kokh ujri maadar
+  Raatoṅ ko uth kar aksar, kehti thi dar pe agar
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
 
   7
-  Tareekhe karbala ko padkar anees dekho
-  Qatil bhi sar jhukaye kehte milenge tum ko
+  Taarikh-e-Karbala ko, parh kar Anees dekho
+  Qaatil bhi sar jhukaaye, kehte mileṅ ge tum ko
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
 # source_id: nohayonline:c779c7697c6f2fd3d8de
 # source_url: https://www.nohayonline.com/details_content.php?id=149
 # raw_sha256: 7dea4108f10dfd05628ffadff2a308f61a80a7b0c93dd83c06a7740e4d0c9d8f
@@ -56,27 +70,41 @@ romanLyrics: |-
 ۱
 اے شاہ دیں کے دلبر، اے روح قلب مادر
 اے تشنہ کام مضطر، اے بے زبان اصغر
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ
 
 ۲
 تشنہ لبی پہ تیری، گریہ ہے یہ خدائی
 مظلومیت نے تیری، انسانیت جگائی
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ
 
 ۳
 سوکھے لبوں پہ تو نے، جس دم زباں پھرائی
 سر کو جھکا کے رویا، دشمن کا ہر سپاہی
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ
 
 ۴
 کیا منزلت ہے تیری، شبیرؑ خستہ تن نے
 دفنا کے تیرا لاشہ، فرمایا پرمہن نے
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ
 
 ۵
 شکوہ نہ کرنا اصغرؑ، پانی نہیں میسر
 آنسو بہا کے میں نے، تربت کو کر دیا تر
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ
 
 ۶
 یاد پسر جب آتی، تو کوکھ اجڑی مادر
 راتوں کو اٹھ کر اکثر، کہتی تھی در پہ اگر
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ
 
 ۷
 تاریخ کربلا کو، پڑھ کر انیس دیکھو
 قاتل بھی سر جھکائے، کہتے ملیں گے تم کو
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ

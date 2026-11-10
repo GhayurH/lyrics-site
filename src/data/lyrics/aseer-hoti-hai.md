@@ -1,5 +1,5 @@
 ---
-title: "بتا رہی ہے دلوں کی بڑی ہوی دھڑکن"
+title: "بتا رہی ہے دلوں کی بڑھی ہوئی دھڑکن"
 alternateTitle: "Aseer Hoti Hai"
 language: "Urdu"
 lang: "ur"
@@ -13,53 +13,53 @@ published: false
 romanLyrics: |-
   Bata rahi hai diloṅ ki barhi hui dharkan
   Atash ki aag se ab tak jhulas raha hai badan
-  Qayaam jal chuke haathon mein band chuki hai rasan
-  Aseer hoti hai atthara bhaiyon ki behan
+  Qayaam jal chuke haathoṅ mein band chuki hai rasan
+  Aseer hoti hai atthaara bhaiyoṅ ki behan
 
   1
-  Abhi masayib e karbobala se guzri hai
-  Abhi to qaimon se baahar nikal ke baithi hai
-  Kahan ho ay mere abbas ro ke kehti hai
+  Abhi masaaib-e-Karbobala se guzri hai
+  Abhi to khaimoṅ se baahar nikal ke baithi hai
+  Kahaaṅ ho ae mere Abbas ro ke kehti hai
 
   2
-  Shaheed ho gaye sab bhai karbala aa kar
-  Rida bhi chin gayi sar se hui barehna sar
-  Jo dekh sakte ho abbas dekh lo manzar
+  Shahid ho gaye sab bhai Karbala aa kar
+  Rida bhi chhin gayi sar se hui barehna sar
+  Jo dekh sakte ho Abbas dekh lo manzar
 
   3
-  Ajeeb haal se zainab guzar rahi hai yahan
-  Jali qanaaton se ab tak nikal raha hai dhuan
-  Ubhar ke aa gaye baazu pa rassiyon ke nishan
+  Ajib haal se Zainab guzar rahi hai yahaaṅ
+  Jali qanaatoṅ se ab tak nikal raha hai dhuaaṅ
+  Ubhar ke aa gaye baazu pe rassiyoṅ ke nishaaṅ
 
   4
-  Qadam qadam pa madine ki yaad aati hai
-  Yateem bachon ko taskeen deti jaati hai
+  Qadam qadam pe Madine ki yaad aati hai
+  Yatim bachchoṅ ko taskin deti jaati hai
   Kabhi bhatije ko barh kar gale lagaati hai
 
   5
-  Pase hussain munadi ye de raha tha sada
-  Chuta madina to sab bhayion ne chod diya
-  Mila hai karbobala aake ye naya tohfa
+  Pas-e-Husain munaadi ye de raha tha sada
+  Chhuta Madina to sab bhaiyoṅ ne chhor diya
+  Mila hai Karbobala aake ye naya tohfa
 
   6
-  Kise bulaye kise de sada kare bhi to kya
-  Koi bhi abid e beemaar ke siwa na raha
-  Tumhare khat ka likhe kya jawab ay sughra
+  Kise bulaaye kise de sada kare bhi to kya
+  Koi bhi Aabid-e-bimaar ke siwa na raha
+  Tumhaare khat ka likhe kya jawaab ae Sughra
 
   7
-  Ruki ruki hui nabzeṅ hain dil dharakta hai
-  Qadam qadam pa musibat ka daur dohra hai
-  Jari furaat pa ye baat sun ke rota hai
+  Ruki ruki hui nabzeṅ haiṅ dil dharakta hai
+  Qadam qadam pe musibat ka daur dohra hai
+  Jari Furaat pe ye baat sun ke rota hai
 
   8
-  Tha itna sharm mein dooba hua sakina se
-  Palat ke aaya na abbas mera darya se
-  Kaha ye hazrat e zainab ne ro ke laila se
+  Tha itna sharm mein duba hua Sakina se
+  Palat ke aaya na Abbas mera darya se
+  Kaha ye Hazrat-e-Zainab ne ro ke Laila se
 
   9
-  Kahan pa laayi hai zainab ko ghar kar qismat
-  Hujoom e ranj o alam aur dard ki shiddat
-  Zaban kaun si laaye jo ye kahe ishrat
+  Kahaaṅ pe laayi hai Zainab ko ghar kar qismat
+  Hujum-e-ranj o alam aur dard ki shiddat
+  Zabaaṅ kaun si laaye jo ye kahe Ishrat
 # source_id: nohayonline:ab70fd6ba598e302803c
 # source_url: https://www.nohayonline.com/details_content.php?id=1347
 # raw_sha256: b288eae460742b7e56b6d334bf9d8caec8e29e7e31808afee3bc0497026df2fa
@@ -112,4 +112,4 @@ romanLyrics: |-
 ۹
 کہاں پہ لائی ہے زینب کو گھر کر قسمت
 ہجوم رنج و الم اور درد کی شدت
-زباں کون سی لاے جو یہ کہے عشرت
+زباں کون سی لائے جو یہ کہے عشرت

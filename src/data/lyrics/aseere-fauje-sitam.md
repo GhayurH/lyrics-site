@@ -12,48 +12,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Aseer-e-fauj-e-sitam qaidi-e-mehan Zainab
-  
+
   1
-  Hai jiska aayat e tatheer pairahan zainab
-  Imamaton ki madadgaar khasta tan zainab
-  Hai shaane deen e khuda jaan e panjatan zainab
-  Ali ki jaayi hai abbas ki bahan zainab
-  
+  Hai jis ka aayat-e-tathir pairahan Zainab
+  Imaamatoṅ ki madadgaar khasta tan Zainab
+  Hai shaan-e-din-e-Khuda jaan-e-Panjatan Zainab
+  Ali ki jaayi hai Abbas ki behan Zainab
+
   2
-  Wo waqte asr wo maqtal wo sogwaar fazaa
+  Wo waqt-e-asr wo maqtal wo sogwaar faza
   Nazar ke saamne bhai ka kat raha tha gala
-  Tadap raha tha badan zer e taygh pyase ka
-  Udhar thi mehwe fughan shaah ki bahan zainab
-  
+  Tarap raha tha badan zer-e-tegh pyaase ka
+  Udhar thi mahw-e-fughaaṅ Shaah ki behan Zainab
+
   3
-  Chuta hai bhai bhi aur mar chuke hai bacche bhi
-  Rida bhi sar pa nahi jal chuke hai qaime bhi
-  Jale hai qalb bhi daaman bhi aur kurte bhi
-  Chali hai chod ke bhai ko bekafan zainab
-  
+  Chhuta hai bhai bhi aur mar chuke haiṅ bachche bhi
+  Rida bhi sar pe nahiṅ jal chuke haiṅ khaime bhi
+  Jale haiṅ qalb bhi daaman bhi aur kurte bhi
+  Chali hai chhor ke bhai ko bekafan Zainab
+
   4
-  Jawan ka qatl to khud uske dil pa bhaala tha
-  Tha gham azeem to shabbir ko sambhala tha
-  Qadam jo qaime se pehle pahal nikaala tha
-  Sahara dene ko aayi thi pur mehan zainab
-  
+  Jawaaṅ ka qatl to khud us ke dil pe bhaala tha
+  Tha gham azim to Shabbir ko sambhaala tha
+  Qadam jo khaime se pehle pahal nikaala tha
+  Sahaara dene ko aayi thi pur mehan Zainab
+
   5
-  Dayaar-e-Kufa mein taqreer se jihaad kiya
-  Diya hai shaam ke darbaar mein kabhi khutba
-  Kabhi khamoshi se mazloomiyat ko nashr kiya
-  Kabhi ali kabhi zehra kabhi hassan zainab
-  
+  Dayaar-e-Kufa mein taqrir se jihaad kiya
+  Diya hai Shaam ke darbaar mein kabhi khutba
+  Kabhi khamoshi se mazlumiyat ko nashr kiya
+  Kabhi Ali kabhi Zehra kabhi Hasan Zainab
+
   6
-  Khayal kunbe ka tha ro saki na jee bhar ke
-  Nikalne paaye na armaan binte hyder ke
-  Tha ek qalb e hazeen daagh thay bahattar ke
-  Lahad mein legayi zakhmon ka ye chaman zainab
-  
+  Khayaal kunbe ka tha ro saki na ji bhar ke
+  Nikalne paaye na armaan bint-e-Haidar ke
+  Tha ek qalb-e-haziṅ daagh the bahattar ke
+  Lahad mein le gayi zakhmoṅ ka ye chaman Zainab
+
   7
-  Qanaat thaam le ye akbar e jawan se kaho
-  Sahara dene ko ay saani e ali utho
-  Bahan ko ay shahe bekas tumhi sawaar karo
-  Chali hai karbobala se suye watan zainab
+  Qanaat thaam le ye Akbar-e-jawaaṅ se kaho
+  Sahaara dene ko ae saani-e-Ali utho
+  Behan ko ae Shah-e-bekas tumheṅ sawaar karo
+  Chali hai Karbobala se su-e-watan Zainab
 # source_id: nohayonline:65766151008e27eb6335
 # source_url: https://www.nohayonline.com/details_content.php?id=2991
 # raw_sha256: 8ba6984b2aa720644ce467cd3d8cf553685dbee6f139025fc6e2675286043df0
