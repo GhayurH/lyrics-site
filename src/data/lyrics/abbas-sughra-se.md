@@ -6,13 +6,14 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Qafila jab ke rawana tha su-e-Karbobala
   Aa ke Abbas se kehne lagi ro kar Sughra
-  Chacha jaan aap ki baat mere Baba nahiṅ taleṅge
+  Chacha jaan aap ki baat mere Baba nahiṅ taaleṅge
   Aap Baba ko mana leṅge chacha jaan
   Le chaliye mujhe Karbobala saath
   Chacha jaan le chaliye mujhe Karbobala saath
@@ -23,7 +24,7 @@ romanLyrics: |-
   Abbas Abbas Abbas
 
   1
-  Hum jahan jaaeṅge mahaul sharabi hoga
+  Hum jahaṅ jaaeṅge mahaul sharabi hoga
   Sar chhupane ke liye hogi mayassar na rida
   Sabr karna Shahzadi
   Ek sabab hai aur magar
@@ -50,7 +51,7 @@ romanLyrics: |-
   Dekh sakti hi nahiṅ aisa wo manzar hoga
   Halq par mere rawaṅ Shimr ka khanjar hoga
   Sabr karna Shahzadi
-  Hoṅgi wahan pe khud madar
+  Hoṅgi wahaṅ pe khud maadar
   Tum shabih-e-Fatema ho
   Main kaise tumheṅ le jauṅ Karbala
 
@@ -122,7 +123,7 @@ romanLyrics: |-
 دیکھ سکتی ہی نہیں ایسا وہ منظر ہوگا
 حلق پر میرے رواں شمر کا خنجر ہو گا
 صبر کرنا شہزادی
-ہونگی وہاں پہ خود مادر
+ہوں گی وہاں پہ خود مادر
 تم شبیہ فاطمہ ہو
 میں کیسے تمہیں لے جاؤں کربلا
 

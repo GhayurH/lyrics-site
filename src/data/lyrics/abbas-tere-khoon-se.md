@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Muntaqim Hasnain"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false

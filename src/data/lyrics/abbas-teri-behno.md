@@ -16,22 +16,22 @@ romanLyrics: |-
   1
   Suraj ne khule sar jis ko ghar mein bhi kabhi na dekha
   Afsos wohi Shahzadi balwe mein gayi wawaila
-  Zainab ki yahan aamad par darbar sajaya jaata hai
+  Zainab ki yahaṅ aamad par darbar sajaya jaata hai
 
   2
-  Kis shan se teri Zainab mahmil mein chali thi ghar se
+  Kis shaan se teri Zainab mahmil mein chali thi ghar se
   Aur aaj safar par nikli to raah mein patthar barse
   Beparda Nabizadi ko galiyoṅ mein phiraya jaata hai
 
   3
-  Kya tujh se kahuṅ ae Ghazi dekhe hain yahan gham kaise
+  Kya tujh se kahuṅ ae Ghazi dekheiṅ hain yahaṅ gham kaise
   Rahoṅ mein Sakina teri pani ke liye gar roe
   Bachchi ko dikha kar pani reti pe bahaya jaata hai
 
   4
   Bedard hai beghairat hai ye Shaam ke rehne wale
-  Aankhoṅ pe pare hain parde aur in ki zabaṅ par taale
-  Ye chup hain Nabizadi ko balwe mein bulaya jaata hai
+  Aankhoṅ pe pare hain parde aur in ki zaban pe taale
+  Ye chup hai Nabizadi ko balwe mein bulaya jaata hai
 
   5
   Ek lamha nahiṅ hai aisa iza na koi pahunchae
@@ -41,7 +41,7 @@ romanLyrics: |-
   6
   Dohraya gaya mazi ko hai zulm wohi aur gham bhi
   Ummat bhi wohi chehre bhi darbar wohi aur hum bhi
-  Kal Amma jahan aayi thi ab mujh ko bulaya jaata hai
+  Kal Ammaṅ jahaṅ aayi thi ab mujh ko bulaya jaata hai
 
   7
   Rahoṅ mein kisi manzil par deta jo hameṅ koi chadar
