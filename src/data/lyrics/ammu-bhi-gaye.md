@@ -11,54 +11,54 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jis dum jale qayaam e shehenshahe behrobar
-  Ek bacchi nikli qaime se us dum barehna sar
-  Jalta tha daaman aag se kapde thay khoon mein tar
+  Jis dam jale qayaam-e-shahanshaah-e-bahr o bar
+  Ek bachchi nikli khaime se us dam barehna sar
+  Jalta tha daaman aag se kapre the khuṅ mein tar
   Maqtal ki simt rukh kiye jaati thi nauhagar
-  Sab ran mein jaa ke reh gaye tanha hamay kiya
-  Aada ne cheeni chadarein qaima jala diya
+  Sab ran mein jaa ke reh gaye tanha hameṅ kiya
+  Aada ne chhini chaadareṅ khaima jala diya
   Ammu bhi gaye baba bhi gaye
 
   1
-  Ta hadd e nazar laashe hai pade
-  Baandhe halqa aada hai khade
+  Taa hadd-e-nazar laashe haiṅ pare
+  Baandhe halqa aada haiṅ khare
   Ghar jalta hai zar luta hai
   Waaris na rahe
 
   2
-  Loota zewar cheeni chadar
-  Hai aale mohamed nange sar
-  Karte hai jafa hum par aada
+  Luta zewar chhini chaadar
+  Hai Aal-e-Muhammad nange sar
+  Karte haiṅ jafa hum par aada
   Kaun ab roke
 
   3
-  Bar waqt phupi qaime mein gayi
+  Bar waqt phuphi khaime mein gayi
   Bistar hi jala bas khair hui
   Tap hai aisa ghash mein bhaiya
-  Abid hai pade
+  Abid hai pare
 
   4
-  Dum ghut'ta hai phaila hai dhuaan
-  Ab jaaye kahan jo paaye amaan
-  Hai kaun yahan jo jaa ke wahan
+  Dam ghutta hai phaila hai dhuaaṅ
+  Ab jaaye kahaaṅ jo paaye amaaṅ
+  Hai kaun yahaaṅ jo jaa ke wahaaṅ
   Qasim se kahe
 
   5
-  Athara baras yun paala tha
-  Pardes mein akbar honge juda
-  Seena kobi karti hai phupi
+  Athaara baras yuṅ paala tha
+  Pardes mein Akbar hoṅge juda
+  Sina kobi karti hai phuphi
   Kar ke naale
 
   6
-  Naalon se kaleja phat'ta hai
-  Ek dard sa dil mein uth'ta hai
-  Maa roti hai jaan khoti hai
+  Naaloṅ se kaleja phatta hai
+  Ek dard sa dil mein uthta hai
+  Maaṅ roti hai jaaṅ khoti hai
   Asghar na rahe
 
   7
-  Wo bain anees ho kaise raqam
-  Karti thi sakina jo pur gham
-  Waqt e aakhir uske lab par
+  Wo bain Anees ho kaise raqam
+  Karti thi Sakina jo pur gham
+  Waqt-e-aakhir us ke lab par
   Naale ye rahe
 # source_id: nohayonline:7f3c613bcf8062414aa8
 # source_url: https://www.nohayonline.com/details_content.php?id=3310
@@ -82,7 +82,7 @@ romanLyrics: |-
 لوٹا زیور چھینی چادر
 ہے آل محمد ننگے سر
 کرتے ہیں جفا ہم پر اعدا
-کون اب رو کے
+کون اب روکے
 
 ۳
 بر وقت پھپھی خیمے میں گئی

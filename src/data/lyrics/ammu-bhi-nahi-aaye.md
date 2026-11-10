@@ -11,32 +11,32 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ammu bhi nahi aaye baba bhi nahi aaye
+  Ammu bhi nahiṅ aaye baba bhi nahiṅ aaye
   Kya baat hai darya par jo jaaye wo reh jaaye
 
   1
-  Batlade koi itna kis ja hai mere ammu
-  Main ja ke mana luṅgi koi mujhe samjhaye
+  Batla de koi itna kis jaa haiṅ mere ammu
+  Main jaa ke mana luṅ gi koi mujhe samjhaaye
 
   2
-  Akbar hai na qasim hai na aun o mohamed bhi
-  Ghar laut ke maidan se ab tak to nahi aaye
+  Akbar haiṅ naaṅ Qasim haiṅ naaṅ Aun o Muhammad bhi
+  Ghar laut ke maidaaṅ se ab tak to nahiṅ aaye
 
   3
-  Shayad ke behal jaata dil jhoola jhulane se
-  Nanha sa mera bhai asghar bhi chuta haaye
+  Shaayad ke behal jaata dil jhula jhulaane se
+  Nanha sa mera bhaai Asghar bhi chhuta haaye
 
   4
-  Awaaz to do baba hai hadde nazar laashe
-  Ab dhoondne koi bhi jaaye to kahan jaaye
+  Aawaaz to do baba haiṅ hadd-e-nazar laashe
+  Ab dhundne koi bhi jaaye to kahaaṅ jaaye
 
   5
-  Kano se mere cheene jo shimre sitamgar ne
-  Baba jo gohar mujhko jo thay aap ne pehnaaye
+  Kaanoṅ se mere chhine jo Shimr sitamgar ne
+  Baba jo gauhar mujh ko jo the aap ne pehnaaye
 
   6
-  Naalon se sakina ke moo ko hai jigar aaya
-  Khamoshi anees-e-gham ye qalb na phat jaaye
+  Naaloṅ se Sakina ke muṅh ko hai jigar aaya
+  Khaamoshi Anees-e-gham ye qalb na phat jaaye
 # source_id: nohayonline:2042ef317a5f33ee0a08
 # source_url: https://www.nohayonline.com/details_content.php?id=10
 # raw_sha256: d9f8d25643bac94ce73ad3733699f7c66a2588a777376f3f6b3b066dd422f353

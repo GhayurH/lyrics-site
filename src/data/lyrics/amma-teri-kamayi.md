@@ -11,51 +11,51 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Marqad pe maa ki zainab faryaad kar rahi hai
+  Marqad pe maaṅ ki Zainab faryaad kar rahi hai
   Amma teri kamaai jangal mein lut gayi hai
-  Ummat ne mustafa ki loota hai chain tera
-  Maara gaya hai pyasa amma hussain tera
-  Dil baith sa gaya hai aankhon mein teeragi hai
+  Ummat ne Mustafa ki luta hai chain tera
+  Maara gaya hai pyaasa amma Husain tera
+  Dil baith sa gaya hai aankhoṅ mein tiragi hai
 
   1
-  Teero se hogaya hai qasim ka jism chalni
-  Makhtal ki zulmaton mein dulhan ki maang ujhdi
-  Sehre ki har ladi se hasrat baras rahi hai
+  Tiroṅ se ho gaya hai Qasim ka jism chhalni
+  Maqtal ki zulmatoṅ mein dulhan ki maang ujri
+  Sehre ki har lari se hasrat baras rahi hai
 
   2
-  Barchi jigar pe kha kar akbar ki naujawani
-  Mitti mein milgayi hai laila ki zindagani
-  Bete ko yaad karke madar tadap rahi hai
+  Barchhi jigar pe khaa kar Akbar ki naujawaani
+  Mitti mein mil gayi hai Laila ki zindagaani
+  Bete ko yaad kar ke maadar tarap rahi hai
 
   3
-  Yaadon se khelti hai baysheer ki adayein
-  Reh reh ke de rahi hai asghar ko maa sadayein
-  Jhule ki khamoshi par khud maut ro rahi hai
+  Yaadoṅ se khelti hai beshir ki adaaeṅ
+  Reh reh ke de rahi hai Asghar ko maaṅ sadaaeṅ
+  Jhule ki khaamoshi par khud maut ro rahi hai
 
   4
-  Ankhon mein bas gaye hai zindan ke andhere
-  Yaade sakina amma rehti hai mujko ghere
-  Baba ko rote rote masoom chal basi hai
+  Aankhoṅ mein bas gaye haiṅ zindaan ke andhere
+  Yaad-e-Sakina amma rehti hai mujh ko ghere
+  Baba ko rote rote maasum chal basi hai
 
   5
-  Abid ki pusht par hai durro ke neel ab bhi
-  Amma rulagayi hai mazloom ki aseeri
-  Chaale hai dast-o-pa mein beemar par ghashi hai
+  Abid ki pusht par haiṅ durroṅ ke nil ab bhi
+  Amma rula gayi hai mazlum ki asiri
+  Chhaale haiṅ dast o paa mein bimaar par ghashi hai
 
   6
-  Maare gaye hai pyase amma mere pisar bhi
-  Daste layeen ne kardi aaghosh meri sooni
-  Dunya meri nazar mein tareek ho gayi hai
+  Maare gaye haiṅ pyaase amma mere pisar bhi
+  Dast-e-laiṅ ne kar di aaghosh meri suni
+  Duniya meri nazar mein taarik ho gayi hai
 
   7
-  Zainab ko raas amma karbobala na aaya
-  Cheena hai mere sar se do bhaiyon ka saaya
-  Ab to duayein zainab marne ki maangti hai
+  Zainab ko raas amma Karb o Bala na aaya
+  Chhina hai mere sar se do bhaaiyoṅ ka saaya
+  Ab to duaaeṅ Zainab marne ki maangti hai
 
   8
-  In baazu'on ke kuch to daaghe rasan dikhane
-  Aayi hai teri beti roodade gham sunane
-  Kurta kahin jala hai chadar kahin jali hai
+  In baazuoṅ ke kuchh to daagh-e-rasan dikhaane
+  Aayi hai teri beti rudaad-e-gham sunaane
+  Kurta kahiṅ jala hai chaadar kahiṅ jali hai
 # source_id: nohayonline:ecf31e164ab2b7843a21
 # source_url: https://www.nohayonline.com/details_content.php?id=191
 # raw_sha256: 6b434df87c893d3b4644117c1f804ccfbb3b06ec22b8dd42d7d09d8bf24dbffa
@@ -78,7 +78,7 @@ romanLyrics: |-
 
 ۳
 یادوں سے کھیلتی ہے بے شیر کی ادائیں
-رِہ رِہ کے دے رہی اصغر کو ماں صدائیں
+رِہ رِہ کے دے رہی ہے اصغر کو ماں صدائیں
 جھولے کی خاموشی پر خود موت رو رہی ہے
 
 ۴
