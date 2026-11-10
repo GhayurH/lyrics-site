@@ -1,53 +1,54 @@
 ---
 title: "یہ بین کرتی تھی صغرا بہت اکیلی ہوں"
-alternateTitle: "Bahot Akeli Hoo"
+alternateTitle: "Bahot Akeli Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bahot Akeli Hoo"]
 published: false
 romanLyrics: |-
-  Ye bain karti thi sughra bahot akeli hoon
-  Safar mein hai mera kunba bahot akeli hoon
+  Ye bain karti thi Sughra bahot akeli huṅ
+  Safar mein hai mera kunba bahot akeli huṅ
 
   1
-  Koi bhi paas nahi hai jo khairiyat pooche
-  Ke dil ka haal hai kaisa bahot akeli hoon
+  Koi bhi paas nahiṅ hai jo khairiyat puchhe
+  Ke dil ka haal hai kaisa bahot akeli huṅ
 
   2
   Wo dukh sa dukh hai watan haan aisi hai tanhaai
-  Koi nazar nahi aata bahot akeli hoon
+  Koi nazar nahiṅ aata bahot akeli huṅ
 
   3
-  Guzaar deti hoon raaton ki raat aankhon mein
-  Na koi neend na sapna bahot akeli hoon
+  Guzaar deti huṅ raatoṅ ki raat aankhoṅ mein
+  Na koi nind na sapna bahot akeli huṅ
 
   4
-  Koi hasi koi aahat na koi kilkaari
-  Hai be-sada mera hujra bahot akeli hoon
+  Koi haṅsi koi aahat na koi kilkaari
+  Hai besada mera hujra bahot akeli huṅ
 
   5
-  Buland hoti thi jis se rasool ki awaaz
-  Na ab wo lab na wo lehja bahot akeli hoon
+  Buland hoti thi jis se Rasul ki aawaaz
+  Na ab wo lab na wo lehja bahot akeli huṅ
 
   6
-  Wo intezar hai dhundhla rahi hai beenayi
-  Bhula na doon koi chehra bahot akeli hoon
+  Wo intezaar hai dhundhla rahi hai binaai
+  Bhula na duṅ koi chehra bahot akeli huṅ
 
   7
-  Koi nahi jo giroon mai to thaam le bad kar
-  Kahan ho meri sakina bahot akeli hoon
+  Koi nahiṅ jo giruṅ main to thaam le bad kar
+  Kahaaṅ ho meri Sakina bahot akeli huṅ
 
   8
-  Jo toot jaaye ye dam bistar e alaalat par
-  Uthega kaise janaza bahot akeli hoon
+  Jo tut jaaye ye dam bistar-e-alaalat par
+  Uthega kaise janaaza bahot akeli huṅ
 
   9
-  Hamari sochon ke yasrab se nayyar o aamir
-  Na mit sakega ye nauha bahot akeli hoon
+  Hamaari sochoṅ ke Yasrab se Nayyar o Aamir
+  Na mit sakega ye nauha bahot akeli huṅ
 # source_id: nohayonline:5cb314aa21bffa3629ff
 # source_url: https://www.nohayonline.com/details_content.php?id=3393
 # raw_sha256: c422aa115669a699ea6b2da34b5cb45721bcccc027cb025fc833426967daf17d
@@ -56,19 +57,19 @@ romanLyrics: |-
 سفر میں ہے میرا کنبہ بہت اکیلی ہوں
 
 ۱
-کوی بھی پاس نہیں ہے جو خیریت پوچھے
+کوئی بھی پاس نہیں ہے جو خیریت پوچھے
 کہ دل کا حال ہے کیسا بہت اکیلی ہوں
 
 ۲
 وہ دکھ سا دکھ ہے وطن ہاں ایسی ہی تنہائی
-کوی نظر نہیں آتا بہت اکیلی ہوں
+کوئی نظر نہیں آتا بہت اکیلی ہوں
 
 ۳
 گزار دیتی ہوں راتوں کی رات آنکھوں میں
 نہ کوئی نیند نہ سپنا بہت اکیلی ہوں
 
 ۴
-کوی ہنسی کوئی آہٹ نہ کوئی کلکاری
+کوئی ہنسی کوئی آہٹ نہ کوئی کلکاری
 ہے بے صدا میرا ہجرہ بہت اکیلی ہوں
 
 ۵
@@ -76,11 +77,11 @@ romanLyrics: |-
 نہ اب وہ لب نہ وہ لہجہ بہت اکیلی ہوں
 
 ۶
-وہ انتظار ہے دھندھلا رہی ہے بینای
-بھلا نہ دوں کوی چہرہ بہت اکیلی ہوں
+وہ انتظار ہے دھندھلا رہی ہے بینائی
+بھلا نہ دوں کوئی چہرہ بہت اکیلی ہوں
 
 ۷
-کوی نہیں جو گروں میں تو تھام لے بد کار
+کوئی نہیں جو گروں میں تو تھام لے بد کار
 کہاں ہو میری سکینہ بہت اکیلی ہوں
 
 ۸

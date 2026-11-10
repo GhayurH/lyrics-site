@@ -1,125 +1,125 @@
 ---
 title: "خیال آتا ہے وہ وقت کیا رہا ہو گا"
-alternateTitle: "Bahot Diler Thay Ammu"
+alternateTitle: "Bahot Diler The Ammu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bahot Diler Thay Ammu"]
 published: false
 romanLyrics: |-
   Khayaal aata hai wo waqt kya raha hoga
-  Aseer khaafila darbar jab gaya hoga
-  Yazeed taqt pe beti ko godh mein lekar
-  Suye sakina takabbur se dekhta hoga
+  Asir qaafila darbaar jab gaya hoga
+  Yazid takht pe beti ko god mein le kar
+  Suye Sakina takabbur se dekhta hoga
   Sawaal beti ne maloon ki kiya hoga
-  Ye jiska naam sakina hai kaun hai baba
-  Lahoo hai kaano se jaari phata hua kurta
-  Kaha yazeed ne beti se poochle khud hi
-
+  Ye jis ka naam Sakina hai kaun hai baaba
+  Lahu hai kaanoṅ se jaari phata hua kurta
+  Kaha Yazid ne beti se puchh le khud hi
   Sakina boli khabardaar tu agar boli
-  Mai sakina hoo mohamed ki mai nawasi hoo
-  Mujhe ye yaad nahi kitne din ki pyasi hoo
-  Mat kar koi sawaal na pooch mera haal
-  Watan se door bhi sheron ke sher hai ammu
-  Bahot diler thay ammu bahot diler thay ammu
+  Main Sakina huṅ Muhammad ki main nawaasi huṅ
+  Mujhe ye yaad nahiṅ kitne din ki pyaasi huṅ
+  Mat kar koi sawaal na puchh mera haal
+
+  Watan se dur bhi sheroṅ ke sher hai ammu
+  Bahot diler the ammu bahot diler the ammu
 
   1
   Ye mera haal jo is waqt dekhti hai tu
   Sabab hai uska tera baap sun rahi hai tu
-  Isi ne kunbe ko mere bula ke loota hai
+  Isi ne kunbe ko mere bula ke luta hai
   Isi ne mere chacha ka bhi sar utaara hai
+  Mere chacha ko hazaaroṅ ne mil ke maara hai
 
   2
-  Mere chacha ko hazaron ne mil ke maara hai
-  Akela jaan ke nau laakh lashkari iske
-  Sage na jiski tarha haye unpe toot pade
-  Kisi ne gurz lagaya kisi ne talwarein
-  Baghair taygh lade wo falak ne dekha hai
-  Labe faraat abhi tak alam chacha ka hai
+  Akela jaan ke nau laakh lashkari is ke
+  Sage na jis ki tarah haae un pe tut pare
+  Kisi ne gurz lagaaya kisi ne talwaareṅ
+  Baghair tegh lare wo falak ne dekha hai
+  Lab-e-Furaat abhi tak alam chacha ka hai
 
   3
-  Jigar ko thaam ke binte yazeed sun meri baat
-  Mere chacha se tera baap le saka na furaat
-  Agrache dhoke se kaate gaye chacha ke haath
-  Ye buzdili hai hame qaid karke laaya hai
+  Jigar ko thaam ke bint-e-Yazid sun meri baat
+  Mere chacha se tera baap le saka na Furaat
+  Agarche dhoke se kaate gaye chacha ke haath
+  Ye buzdili hai hameṅ qaid kar ke laaya hai
   Har ek lashkari tere pidar ka kehta hai
 
   4
-  Tu mere kaano se behte lahoo ko poochti hai
-  Na kaise poochegi beti to tu yazeed ki hai
-  Ye khoon ye kurta ye mere galay mein rasan
-  Chacha ke baad sitam isne mujhpe dhaaya hai
-  Shaheed hoke bhi baaki bharam chacha ka hai
+  Tu mere kaanoṅ se behte lahu ko puchhti hai
+  Na kaise puchhegi beti to tu Yazid ki hai
+  Ye khun ye kurta ye mere gale mein rasan
+  Chacha ke baad sitam is ne mujh pe dhaaya hai
+  Shahid ho ke bhi baaqi bharam chacha ka hai
 
   5
-  Tu meri shaan madine mein dekh leti agar
-  Mila na sakhti thi meri kaneez se tu nazar
-  Ye tera baap jo baitha hai takht e shaahi par
-  Ye isne bheek mein sadaat hi se paaya hai
-  Yazeed naam pe ghazi ke chaunk jaata hai
+  Tu meri shaan Madine mein dekh leti agar
+  Mila na sakti thi meri kaniz se tu nazar
+  Ye tera baap jo baitha hai takht-e-shaahi par
+  Ye is ne bhik mein Saadaat hi se paaya hai
+  Yazid naam pe Ghaazi ke chauṅk jaata hai
 
   6
   Chacha ke hote kisi ki bhi ye majaal na thi
-  Meri phuphi ke galay mein jo baandhta rassi
+  Meri phuphi ke gale mein jo baandhta rassi
   Meri taraf koi kya dekhta nazar bhar kar
   Chacha ke baad tamacha bhi maine khaaya hai
-  Yahan bhi hai unhe baba ne rok rakha hai
+  Yahaaṅ bhi hai unheṅ baaba ne rok rakha hai
 
   7
-  Ghulam zaadi hai tu mai to shaahzadi hoo
-  Jhulaye hoorein mera jhoola uski aadi hoo
-  Janabe zehra ki chadar ke saaye mein hoo pali
-  Yazeed bandh ke naaqe pe mujhko laaya hai
-  Ab unke sar se bhi nazrein churaye phirta hai
+  Ghulaam zaadi hai tu main to shaahzaadi huṅ
+  Jhulaaye hureṅ mera jhula us ki aadi huṅ
+  Janaab-e-Zehra ki chaadar ke saaye mein huṅ pali
+  Yazid baandh ke naaqe pe mujh ko laaya hai
+  Ab un ke sar se bhi nazreṅ churaaye phirta hai
 
   8
-  Chacha to sang se pani nichod sakte thay
-  Wo alqama ko meri samt mod sakte thay
-  Unhe to izne wigha hi na diya baba ne
-  Shaheed hoke bhi ghazi laqab unhi ka hai
-  Bhala ye martaba kisne jahan mein paaya hai
+  Chacha to sang se paani nichor sakte the
+  Wo Alqama ko meri samt mor sakte the
+  Unheṅ to izn-e-wagha hi na diya baaba ne
+  Shahid ho ke bhi Ghaazi laqab unhi ka hai
+  Bhala ye martaba kis ne jahaaṅ mein paaya hai
 
   9
-  Yazeed unke kate sar se khauf khaata hai
-  Wo dekh chakke ghulamon ke saath baitha hai
-  Wo din bhi ayega nafrat karegi baap se tu
-  Mera chacha mera baba imam zaada hai
-  Yazeed unki to nalain se bhi chota hai
+  Yazid un ke kate sar se khauf khaata hai
+  Wo dekh chakke ghulaamoṅ ke saath baitha hai
+  Wo din bhi aaye ga nafrat karegi baap se tu
+  Mera chacha mera baaba imaam zaada hai
+  Yazid un ki to nalain se bhi chhota hai
 
   10
-  Jami hai pyaas labon par ye imtehaani hai
-  Meher mein daadi ke dono jahan ka pani hai
-  Hamare daada ko kehte hai saaqi e kausar
+  Jami hai pyaas laboṅ par ye imtehaani hai
+  Mehr mein daadi ke donoṅ jahaaṅ ka paani hai
+  Hamaare daada ko kehte haiṅ saaqi-e-Kausar
   Laqab bahishti ka mere chacha ne paaya hai
-  Agar wo chaahe to pani baras bhi sakta hai
+  Agar wo chaahe to paani baras bhi sakta hai
 
   11
-  Ye sunke ashk jo binte yazeed ke tapke
-  Utar ke baap ki godhi se maazerat karke
-  Kaha sakina se mai bhi kaneez aap ki hoo
-  Jo hukm ho to kahun main bhi dil ye kehta hai
-  Kaha sakina dil tera mere dil sa hai
+  Ye sun ke ashk jo bint-e-Yazid ke tapke
+  Utar ke baap ki godi se maazerat kar ke
+  Kaha Sakina se main bhi kaniz aap ki huṅ
+  Jo hukm ho to kahuṅ main bhi dil ye kehta hai
+  Kaha Sakina dil tera mere dil sa hai
 
   12
-  Ye jang jeeti rehaan o raza sakina ne
-  Ajeeb shaan se hamla kiya sakina ne
-  Ali ki poti thi abbas ki bhatiji thi
-  Labe sakina se nikli wo baat zinda hai
-  Lehad pe bali sakina ke ab bhi likha
+  Ye jang jiti Rehaan o Raza Sakina ne
+  Ajib shaan se hamla kiya Sakina ne
+  Ali ki poti thi Abbas ki bhatiji thi
+  Lab-e-Sakina se nikli wo baat zinda hai
+  Lehad pe baali Sakina ke ab bhi likha
 
   13
-  Nanhi si lehad shaam mein maujood hai logon
-  Masoom ki lalkaar ne zindan nahi choda
-  Lagta hai ke sadiyon se sakina ki fughan ne
-  Abbas ke qatil ka gireban nahi choda
+  Nanhi si lehad Shaam mein maujud hai logoṅ
+  Maasum ki lalkaar ne zindaaṅ nahiṅ chhora
+  Lagta hai ke sadiyoṅ se Sakina ki fughaaṅ ne
+  Abbas ke qaatil ka girebaan nahiṅ chhora
 # source_id: nohayonline:d4d74d4393b3ca529c2c
 # source_url: https://www.nohayonline.com/details_content.php?id=2657
 # raw_sha256: 253c32ad1174f7f66f84b0e4c1ef68b3c6144eec84189c6e9fa59f38c936f9e0
 ---
-
 خیال آتا ہے وہ وقت کیا رہا ہو گا
 اسیر قافلہ دربار جب گیا ہو گا
 یزید تخت پہ بیٹی کو گود میں لے کر
@@ -128,11 +128,11 @@ romanLyrics: |-
 یہ جس کا نام سکینہ ہے کون ہے بابا
 لہو ہے کانوں سے جاری پھٹا ہوا کرتہ
 کہا یزید نے بیٹی سے پوچھ لے خود ہی
-
 سکینہ بولی خبردار تو اگر بولی
 میں سکینہ ہوں محمد کی میں نواسی ہوں
 مجھے یہ یاد نہیں کتنے دن کی پیاسی ہوں
 مت کر کوئی سوال نہ پوچھ میرا حال
+
 وطن سے دور بھی شیروں کے شیر ہے عمو
 بہت دلیر تھے عمو بہت دلیر تھے عمو
 
@@ -141,9 +141,9 @@ romanLyrics: |-
 سبب ہے اس کا تیرا باپ سن رہی ہے تو
 اسی نے کنبے کو میرے بلا کے لوٹا ہے
 اسی نے میرے چچا کا بھی سر اتارا ہے
+میرے چچا کو ہزاروں نے مل کے مارا ہے
 
 ۲
-میرے چچا کو ہزاروں نے مل کے مارا ہے
 اکیلا جان کے نو لاکھ لشکری اس کے
 سگے نہ جس کی طرح ہاے ان پہ ٹوٹ پڑے
 کسی نے گرز لگایا کسی نے تلواریں

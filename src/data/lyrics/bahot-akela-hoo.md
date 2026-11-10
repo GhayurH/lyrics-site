@@ -1,62 +1,63 @@
 ---
 title: "حسین کہتے ہیں بھیا بہت اکیلا ہوں"
-alternateTitle: "Bahot Akela Hoo"
+alternateTitle: "Bahot Akela Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bahot Akela Hoo"]
 published: false
 romanLyrics: |-
-  Hussain kehte hai bhaiya bahot akela hoo
-  Na jao chod ke tanha bahot akela hoo
+  Husain kehte haiṅ bhaiya bahot akela huṅ
+  Na jaao chhor ke tanha bahot akela huṅ
 
   1
-  Sukoon ho meri dhaaras ho mera shaana ho
+  Sukun ho meri dhaaras ho mera shaana ho
   Tumhi to jism ho mera tumhi to saaya ho
-  Ujad gayi meri dunya bahot akela hoo
+  Ujar gayi meri dunya bahot akela huṅ
 
   2
-  Ajeeb haal may bhaiya ye saara ban dekha
-  Kahin pe haath kahin sar kahin badan dekha
-  Bahot bada hai ye sadma bahot akela hoo
+  Ajib haal mein bhaiya ye saara ban dekha
+  Kahiṅ pe haath kahiṅ sar kahiṅ badan dekha
+  Bahot bara hai ye sadma bahot akela huṅ
 
   3
-  Tumhara bhai ho sadqe tumhare shaano par
-  Ay bhai bhai kaho ek baar to uth kar
-  Utho utho mere bhaiya bahot akela hoo
+  Tumhaara bhai ho sadqe tumhaare shaanoṅ par
+  Ae bhai bhai kaho ek baar to uth kar
+  Utho utho mere bhaiya bahot akela huṅ
 
   4
-  Koi bhi saath nahi hai jo thaam le aa kar
-  Har ek laash pe jaata hoo ghutniyon chal kar
-  Badan ke choor hai aaza bahot akela hoo
+  Koi bhi saath nahiṅ hai jo thaam le aa kar
+  Har ek laash pe jaata huṅ ghutniyoṅ chal kar
+  Badan ke chur haiṅ aaza bahot akela huṅ
 
   5
-  Amama dekho mera aur payrahan dekho
-  Hai khaak o khoon se aalood ye badan dekho
-  Raha na koi sahara bahot akela hoo
+  Amaama dekho mera aur pairahan dekho
+  Hai khaak o khun se aalud ye badan dekho
+  Raha na koi sahaara bahot akela huṅ
 
   6
-  Tumhare saath may rehna hamari aadat hai
-  Jawan bhai ka marna bhi ek qayamat hai
-  Hai dasht khoon may dooba bahot akela hoo
+  Tumhaare saath mein rehna hamaari aadat hai
+  Jawaaṅ bhai ka marna bhi ik qayaamat hai
+  Hai dasht khuṅ mein duba bahot akela huṅ
 
   7
   Har ek simt udaasi hai beqaraari hai
-  Hamari fauj ki tum pe hi zimmedaari hai
-  Karo na hum ko akela bahot akela hoo
+  Hamaari fauj ki tum pe hi zimmedaari hai
+  Karo na hum ko akela bahot akela huṅ
 
   8
-  Mai jaa ke qaime may zainab se kya kahoo bolo
-  Bas ek baar hi qaime may mere saath chalo
-  Karunga phir na ye shikwa bahot akela hoo
+  Main jaa ke khaime mein Zainab se kya kahuṅ bolo
+  Bas ek baar hi khaime mein mere saath chalo
+  Karuṅ ga phir na ye shikwa bahot akela huṅ
 
   9
-  Ay shams tera muqaddar faraaz tak pahunche
-  Sada ye aap ki aamir hijaaz tak pahunche
-  Hussain padte hai nauha bahot akela hoo
+  Ae Shams tera muqaddar faraaz tak pahunche
+  Sada ye aap ki Aamir Hijaaz tak pahunche
+  Husain parhte haiṅ nauha bahot akela huṅ
 # source_id: nohayonline:618b73807620c163849f
 # source_url: https://www.nohayonline.com/details_content.php?id=1626
 # raw_sha256: ea8cbaba5cb0fbe8cb02a8b6a3df6e00e7ed2a07bdcb2fab082bf4ae48e97fe2
@@ -67,7 +68,7 @@ romanLyrics: |-
 ۱
 سکون ہو میری ڈھارس ہو میرا شانہ ہو
 تمہیں تو جسم ہو میرا تمہیں تو سایہ ہو
-اجڑ گیء میری دنیا بہت اکیلا ہوں
+اجڑ گئی میری دنیا بہت اکیلا ہوں
 
 ۲
 عجیب حال میں بھیا یہ سارا بن دیکھا
@@ -75,8 +76,8 @@ romanLyrics: |-
 بہت بڑا ہے یہ صدمہ بہت اکیلا ہوں
 
 ۳
-تمہارا بھای ہو صدقے تمہارے شانوں پر
-اے بھای بھای کہو ایک بار تو اٹھ کر
+تمہارا بھائی ہو صدقے تمہارے شانوں پر
+اے بھائی بھائی کہو ایک بار تو اٹھ کر
 اٹھو اٹھو میرے بھیا بہت اکیلا ہوں
 
 ۴
@@ -91,7 +92,7 @@ romanLyrics: |-
 
 ۶
 تمہارے ساتھ میں رہنا ہماری عادت ہے
-جواں بھای کا مرنا بھی اک قیامت ہے
+جواں بھائی کا مرنا بھی اک قیامت ہے
 ہے دشت خوں میں ڈوبا بہت اکیلا ہوں
 
 ۷
