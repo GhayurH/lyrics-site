@@ -1,64 +1,65 @@
 ---
 title: لے گا نہ جانے کتنی یہ کروٹیں زمانہ
-alternateTitle: Ay Momino Payame
+alternateTitle: Ae Mominoṅ Payaam-e-Sarwar
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mehshar Lakhnavi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Momino Payame"]
 published: false
 romanLyrics: |-
-  Lega na jaane kitni ye karwate zamana
-  Chaahe har ek shay ko dunya ki bhool jaana
+  Le ga na jaane kitni ye karwateṅ zamaana
+  Chaahe har ek shai ko dunya ki bhul jaana
 
   1
-  Ujda jo ek din mein us ghar ko yaad rakna
-  Ay momino payame sarwar ko yaad rakna
-  Karbobala ke khooni manzar ko yaad rakna
+  Ujra jo ek din mein us ghar ko yaad rakhna
+  Ae mominoṅ payaam-e-Sarwar ko yaad rakhna
+  Karbobala ke khuni manzar ko yaad rakhna
 
   2
-  Aaghosh mein tumhari masoom koi aaye
-  Jab pyar se koi maa jhoola use jhulaye
-  Bano ki bebasi ko asghar ko yaad rakhna
+  Aaghosh mein tumhaari maasum koi aaye
+  Jab pyaar se koi maaṅ jhula use jhulaaye
+  Bano ki bebasi ko Asghar ko yaad rakhna
 
   3
-  Aajaye jab kisi par taqdeer se yateemi
-  Furqat mein baap ki jab mar jaye koi bachi
-  Aulad walon meri dukhtar ko yaad rakhna
+  Aa jaaye jab kisi par taqdir se yatimi
+  Furqat mein baap ki jab mar jaaye koi bacchi
+  Aulaad waaloṅ meri dukhtar ko yaad rakhna
 
   4
-  Tumko khuda dikhaye khushiyo ka har sawera
-  Kismat se jab bhi baandho apne pisar ke sehra
-  Qasim ko yaad rakhna akbar ko yaad rakhna
+  Tum ko Khuda dikhaaye khushiyoṅ ka har sawera
+  Qismat se jab bhi baandho apne pisar ka sehra
+  Qasim ko yaad rakhna Akbar ko yaad rakhna
 
   5
-  Dekho na zindagi mein marna jawan pisar ka
+  Dekho na zindagi mein marna jawaaṅ pisar ka
   Bete ka daagh dil par hota hai umr bhar ka
-  Laila ki hasraton ko akbar ko yaad rakhna
+  Laila ki hasratoṅ ko Akbar ko yaad rakhna
 
   6
-  Behno ko betiyo ko jab bhi rida udhana
-  Hum bekaso ko hargiz dil se nahi bhulana
+  Behnoṅ ko betiyoṅ ko jab bhi rida urhaana
+  Hum bekasoṅ ko hargiz dil se nahiṅ bhulaana
   Meri behan ke sar ki chadar ko yaad rakhna
 
   7
-  Beton ko jo na royi qurban karke mujh par
-  Aur sar nahi uthaya ehsaan karke mujh par
-  Us jaan nisaar meri khwahar ko yaad rakhna
+  Betoṅ ko jo na royi qurbaan kar ke mujh par
+  Aur sar nahiṅ uthaaya ehsaan kar ke mujh par
+  Us jaaṅ nisaar meri khwaahar ko yaad rakhna
 
   8
-  Aaye kisi taraf se matam ki jab sadayein
-  Ahle aza ko mehshar dena agar duwayein
-  Gulzaare hyderi ko sarwar ko yaad rakhna
+  Aayeṅ kisi taraf se maatam ki jab sadaaeṅ
+  Ahl-e-aza ko Mehshar dena agar duaaeṅ
+  Gulzaar-e-Haidari ko Sarwar ko yaad rakhna
 # source_id: nohayonline:37dc1ab5302b71e37104
 # source_url: https://www.nohayonline.com/details_content.php?id=358
 # raw_sha256: 7a27d3a575226ceaaf55467c322cad35e730fda320e2a2ba7c65969027f3e3ec
 # source_id: ziyaraat:93a1fc5badb113ef8bdf
 # source_url: https://www.ziyaraat.net/api/noha/391
 # raw_sha256: a7081c2a4b054a596d044f8c1407913f0df90bf94299cc0e3b994f2742c5ed86
-# added_stanza_source: roman:kalam-ziyaraat-93a1fc5badb113ef8bdf
+# source_note: Ziyaraat supplies a shorter Roman performance variant, not an additional unique stanza.
 ---
 
 لے گا نہ جانے کتنی یہ کروٹیں زمانہ
@@ -80,7 +81,7 @@ romanLyrics: |-
 اولاد والوں میری دُختر کو یاد رکھنا
 
 ۴
-تم کوخدا دیکھائے خوشیوں کا ہر سویرا
+تم کو خدا دکھائے خوشیوں کا ہر سویرا
 قسمت سے جب بھی باندھو اپنے پسر کا سہرا
 قاسم کو یاد رکھنا اکبر کو یاد رکھنا
 
@@ -90,7 +91,7 @@ romanLyrics: |-
 لیلیٰ کی حسرتوں کو اکبر کو یاد رکھنا
 
 ۶
-بہنوں کو بیٹیوںکو جب بھی ردا اُڑھانا
+بہنوں کو بیٹیوں کو جب بھی ردا اُڑھانا
 ہم بے کسوں کو ہر گِز دل سے نہیں بُھلانا
 میری بہن کے سر کی چادر کو یاد رکھنا
 
@@ -102,4 +103,4 @@ romanLyrics: |-
 ۸
 آئیں کسی طرف سے ماتم کی جب صدائیں
 اہلِ عزا کو محشر دینا اگر دُعائیں
-گلزارِحیدری کو سرور کویاد رکھنا
+گلزارِ حیدری کو سرور کو یاد رکھنا

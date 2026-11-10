@@ -1,58 +1,59 @@
 ---
 title: "بڑھنے لگے جب شام غریباں کے اندھیرے"
-alternateTitle: "Ay Meri Laadli"
+alternateTitle: "Ae Meri Laadli"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Meri Laadli"]
 published: false
 romanLyrics: |-
-  Badne laga jab shaam e gariban ka andhera
-  Zainab ne kisi shaks ko aate huwe dekha
+  Barhne lage jab Shaam-e-Gharibaaṅ ke andhere
+  Zainab ne kisi shakhs ko aate hue dekha
 
   1
-  Tum kaun ho jab saani e zehra ne ye poocha
-  Chehre se naqaab apne utha kar wo pukara
-  Ke aaya hai najaf chod ke beti tera baba
-  Ay meri laadli zainab
+  Tum kaun ho jab saani-e-Zehra ne ye pucha
+  Chehre se naqaab apne uthaa kar wo pukaara
+  Ke aaya hai Najaf chhor ke beti tera baba
+  Ae meri laadli Zainab
 
   2
-  Sunkar teri awaaz lehad chod chuka hoo
-  Tere liye main bandhe kafan tod chuka hoo
-  Naazon ki pali aa meri aaghosh mein aaja
+  Sun kar teri aawaaz lahad chhor chuka huṅ
+  Tere liye main bandhe kafan tor chuka huṅ
+  Naazoṅ ki pali aa meri aaghosh mein aa jaa
 
   3
-  Abbas ka baba hoo khabar hai tujhe beti
-  Ghairat mujhe nazron ko uthane nahi deti
-  Beparda hai tu baap se dekha nahi jaata
+  Abbas ka baba huṅ khabar hai tujhe beti
+  Ghairat mujhe nazroṅ ko uthaane nahiṅ deti
+  Beparda hai tu baap se dekha nahiṅ jaata
 
   4
   Kaisa hai sitam tera bhara ghar hua khaali
-  Pardes mein tu ho gayi bin bhaiyon waali
-  Tu rolay alamdaar ko mai deta hoo pehra
+  Pardes mein tu ho gayi bin bhaiyoṅ waali
+  Tu ro le alamdaar ko main deta huṅ pehra
 
   5
-  Bachon ko ghulamon ke barabar hi samajhle
-  Bete na samajh khadim e akbar hi samajhle
-  Kar aun o mohamed pe bhi kuch dayr to girya
+  Bacchoṅ ko ghulaamoṅ ke baraabar hi samajh le
+  Bete na samajh khaadim-e-Akbar hi samajh le
+  Kar Aun o Muhammad pe bhi kuch der to girya
 
   6
-  Ghairon ki tarha door wo kyun baithi hai jaakar
-  Mai aa na saka uska padar tha tahe khanjar
-  Kya roothi hai is baat pe dada se sakina
+  Ghairoṅ ki tarah dur wo kiuṅ baithi hai jaa kar
+  Main aa na saka us ka padar tha tah-e-khanjar
+  Kya ruthi hai is baat pe dada se Sakina
 
   7
-  Kal se hai safar tera bohat door ka beti
-  Ye soch ke phat'ta hai kaleja mera beti
-  Paidal tujhe aadat nahi chalne ki zyada
+  Kal se hai safar tera bohat dur ka beti
+  Ye soch ke phatta hai kaleja mera beti
+  Paidal tujhe aadat nahiṅ chalne ki ziyaada
 
   8
-  Zainab ne takallum kaha haye mera parda
-  Jab bolae ali shaam ke darbar hai jana
-  Tu tanha nahi jayegi mai saath chalunga
+  Zainab ne Takallum kaha haaye mera parda
+  Jab bole Ali Shaam ke darbaar hai jaana
+  Tu tanha nahiṅ jaayegi main saath chaluṅ ga
 # source_id: nohayonline:fb8ec4872fbf2cf4cb2e
 # source_url: https://www.nohayonline.com/details_content.php?id=981
 # raw_sha256: 8450a7a26ca2775e53a8dee31ce0f95d52ba44592be48e3a97051941a6088cca
@@ -78,7 +79,7 @@ romanLyrics: |-
 
 ۴
 کیسا ہے ستم تیرا بھرا گھر ہوا خالی
-پردیس میں تو ہو گیء بن بھائیوں والی
+پردیس میں تو ہو گئی بن بھائیوں والی
 تو رولے علمدار کو میں دیتا ہوں پہرا
 
 ۵
@@ -93,10 +94,10 @@ romanLyrics: |-
 
 ۷
 کل سے ہے سفر تیرا بہت دور کا بیٹی
-یہ سونچ کے پھٹتا ہے کلیجہ میرا بیٹی
-پیدل تجھے عادت نہیں چلنے کی ذیادہ
+یہ سوچ کے پھٹتا ہے کلیجہ میرا بیٹی
+پیدل تجھے عادت نہیں چلنے کی زیادہ
 
 ۸
-زینب نے تکلم کہا ہاے میرا پردہ
+زینب نے تکلم کہا ہائے میرا پردہ
 جب بولے علی شام کے دربار ہے جانا
-تو تنہا نہیں جاے گی میں ساتھ چلوں گا
+تو تنہا نہیں جائے گی میں ساتھ چلوں گا

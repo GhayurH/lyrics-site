@@ -1,121 +1,122 @@
 ---
 title: "اے مومنوں حسین سے مقتل قریب ہے"
-alternateTitle: "Ay Momino Hussain Se"
+alternateTitle: "Ae Mominoṅ Husain Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
 poet: "Mirza Dabeer"
+reciter: "Himayath Ali Taha"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Momino Hussain Se"]
 published: false
 romanLyrics: |-
-  Ay momino hussain se maqtal qareeb hai
-  Aakhar hai umr manzil-e-awwal qareeb hai
-  Shehr-e-madina door hai jangal qareeb hai
-  Zehra ka chand chupta hai baadal qareeb hai
+  Ae mominoṅ Husain se maqtal qarib hai
+  Aakhir hai umr manzil-e-awwal qarib hai
+  Shahr-e-Madina dur hai jangal qarib hai
+  Zehra ka chaand chhupta hai baadal qarib hai
 
   1
-  Lene ke waaste malakul maut aate hai
-  Marqad ko apne paaon se shabbir jaate hai
-  Al qissa manzil-e-aakhir ayaan huwi
-  Lekin ye subha sibte nabi ko kahan huwi
+  Lene ke waaste malakul maut aate haiṅ
+  Marqad ko apne paaoṅ se Shabbir jaate haiṅ
+  Alqissa manzil-e-aakhir ayaaṅ hui
+  Lekin ye subh sibt-e-Nabi ko kahaaṅ hui
 
   2
-  Jis jaa sawari ruk ke na aage rawaan huwi
-  Hairaan sipaah e qasr-o-koun-o-makaan huwi
-  Cheh ghode badle dosh-e-nabi ke sawaar ne
-  Lekin qadam badhaya na ek raahwaar ne
+  Jis jaa sawaari ruk ke na aage rawaaṅ hui
+  Hairaaṅ sipaah-e-qasr o kaun o makaaṅ hui
+  Chhe ghore badle dosh-e-Nabi ke sawaar ne
+  Lekin qadam barhaaya na ek raahwaar ne
 
   3
-  Jumbish na markabon may na paayi hussain ne
-  Ek musht e khaak jhuk ke uthaayi hussain ne
-  Khud soonghi aur behan ko sunghaayi hussain ne
-  Hamsheer ki suni ye duhaayi hussain ne
+  Jumbish na markaboṅ mein na paayi Husain ne
+  Ek musht-e-khaak jhuk ke uthaayi Husain ne
+  Khud suṅghi aur behan ko suṅghaayi Husain ne
+  Hamshir ki suni ye duhaayi Husain ne
 
   4
-  Hae hae ye khaak phaynko meri jaan jaati hai
-  Bhaiya tumhare khoon ki boo is may aati hai
-  Baashindo ko wahan ke ye maula ne di nida
-  Naam is zameen ke jitne ho lo tum juda juda
+  Haaye haaye ye khaak pheṅko meri jaan jaati hai
+  Bhaiya tumhaare khun ki bu is mein aati hai
+  Baashindoṅ ko wahaaṅ ke ye Maula ne di nida
+  Naam is zamin ke jitne ho lo tum juda juda
 
   5
   Wo bole aap ko ho mubarak har ek balaa
-  Ye nainawa hai maariya hai, aur karbala
-  Maabood hai ye khaleel ka gumbad maseeh ka
-  Sheh bole ab ye hoyega madfan zabeeh ka
+  Ye Nainawa hai Maariya hai, aur Karbala
+  Maabud hai ye Khalil ka gumbad Masih ka
+  Shah bole ab ye hoyega madfan zabih ka
 
   6
-  Abbas ko pukare na aage alam badhao
-  Manzil yehi hai chaoni pardesiyon ki chaao
-  Hamshakle mustafa ko nida di badhe na jaao
-  Beta qanaathein ghero sarache yahin lagao
+  Abbas ko pukaare na aage alam barhaao
+  Manzil yahi hai chhaaoni pardesiyoṅ ki chhaao
+  Hamshakl-e-Mustafa ko nida di barhe na jaao
+  Beta qanaatheṅ ghero saraache yahiṅ lagaao
 
   7
-  Ghurre ko tu hua hai hamara safar tamaam
-  Daswee ko hoga fatema zehra ka ghar tamaam
-  Masnad pa yaan bitha ke behan ko shah-e-huda
-  Kursi bicha ke baithe khareeb e haram sara
+  Ghurre ko to hua hai hamaara safar tamaam
+  Daswiṅ ko hoga Fatima Zehra ka ghar tamaam
+  Masnad pe yaaṅ bitha ke behan ko Shah-e-Huda
+  Kursi bichha ke baithe qarib-e-haram sara
 
   8
-  Thay dast basta gird jawanan e mailaqa
-  Le le ke nazrein aaye zamindar e karbala
-  Istaada farte gham se jo shabbir hogaye
-  Nazron pa haath rakh ke baghal geer hogaye
+  The dast basta gird jawaanaan-e-mah laqa
+  Le le ke nazreṅ aaye zamindaar-e-Karbala
+  Istaada fart-e-gham se jo Shabbir ho gaye
+  Nazroṅ pe haath rakh ke baghal gir ho gaye
 
   9
-  Bithlake pehluon may unhe ye kiya bayaan
-  Ay karbalaiyo mai tumhara hoo mehmaan
-  Zaalim mujhe sataate hai jaata hoo mai jahan
-  Baycho jo ye zameen to chand din rahoo yahan
+  Bithla ke pehluoṅ mein unheṅ ye kiya bayaaṅ
+  Ae Karbalaaiyoṅ main tumhaara huṅ mehmaaṅ
+  Zaalim mujhe sataate haiṅ jaata huṅ main jahaaṅ
+  Becho jo ye zamin to chand din rahuṅ yahaaṅ
 
   10
-  Rehne se yaan hamare sab aaram paayenge
-  Khaake shifa tumhari zameen ko banayenge
-  Deenar de ke saat hazaar un se ye kaha
-  Bakshi tumhe zamee hiba maine kar diya
+  Rehne se yaaṅ hamaare sab aaraam paayeṅge
+  Khaak-e-shifa tumhaari zamiṅ ko banaayeṅge
+  Dinaar de ke saat hazaar un se ye kaha
+  Bakhshi tumheṅ zamin hiba main ne kar diya
 
   11
-  Shabbir ke maamle par sab ne ro diya
-  Likhne laga qabala zamindar e karbala
-  Ghul pad gaya hussain watan ko na jayenge
-  Lo moul-li zameen yahin basti basayenge
+  Shabbir ke muaamle par sab ne ro diya
+  Likhne laga qabaala zamindaar-e-Karbala
+  Ghul par gaya Husain watan ko na jaayeṅge
+  Lo mol li zamiṅ yahiṅ basti basaayeṅge
 
   12
-  Markhoom ho raha tha qhabala ke naagaha
-  Qaime se ek zann-e-arabiya huwi ayaan
-  Sartha qadam libaas may saara badan nehaan
-  Par ispe bhi haya se larazthe the isteqaan
+  Marqum ho raha tha qabaala ke naagaah
+  Khaime se ek zan-e-Arabiya hui ayaaṅ
+  Sar taa qadam libaas mein saara badan nihaaṅ
+  Par is pe bhi haya se larazte the istikhwaaṅ
 
   13
-  Betaab hoke ulfate akbar may aayi thi
-  Raavi ne ye likha hai wo zehra ki jaayi thi
-  Lekar balayein bhai ke kuch kaan may kaha
-  Aur jaldi yun phiri ke na saaya nazar pada
+  Betaab ho ke ulfat-e-Akbar mein aayi thi
+  Raawi ne ye likha hai wo Zehra ki jaayi thi
+  Le kar balaaeṅ bhai ke kuch kaan mein kaha
+  Aur jaldi yuṅ phiri ke na saaya nazar para
 
   14
-  Kursi se yaan tadap ke gire shaah-e- karbala
-  Abbas ne utha ke kaha haye kya huwa
-  Maula bata qasam tujhe sheer e batool ki
-  Kya keh gayi nawasi janaab e rasool ki
+  Kursi se yaaṅ tarap ke gire Shah-e-Karbala
+  Abbas ne uthaa ke kaha haaye kya hua
+  Maula bata qasam tujhe shir-e-Batul ki
+  Kya kah gayi nawaasi Janaab-e-Rasul ki
 
   15
-  Sheh bole aah mujhse ye zainab ka tha kalaam
-  Bhaiya qhabala may ali akbar ka huwe naam
-  Yaane ke uski milk may ho ye zameen tamaam
-  Abbas jao kehdo ke majboor hai imam
+  Shah bole aah mujh se ye Zainab ka tha kalaam
+  Bhaiya qabaala mein Ali Akbar ka hue naam
+  Yaani ke us ki milk mein ho ye zamiṅ tamaam
+  Abbas jaao kah do ke majbur hai Imam
 
   16
-  Athara saal ke ye zamane se jayenge
-  Ek qabr ki jagah ali akbar bhi payenge
-  Abbas qaime may gaye dene ko ye payaam
-  Zainab ne dekhte hi unhen ye kiya kalaam
+  Athaara saal ke ye zamaane se jaayeṅge
+  Ek qabr ki jagah Ali Akbar bhi paayeṅge
+  Abbas khaime mein gaye dene ko ye payaam
+  Zainab ne dekhte hi unheṅ ye kiya kalaam
 
   17
-  Kyun bhai meri baat pa raazi huwe anaam
-  Likha gaya qhabale may akbar ka mere naam
-  Dulha banaaungi mai dulhan byaah laaungi
-  Akbar ke naam ki yahan basti basaungi
+  Kiuṅ bhai meri baat pe raazi hue anaam
+  Likha gaya qabaale mein Akbar ka mere naam
+  Dulha banaauṅ gi main dulhan byaah laauṅ gi
+  Akbar ke naam ki yahaaṅ basti basaauṅ gi
 # source_id: nohayonline:0f82e9cb7aa20028e0e5
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=15
 # raw_sha256: c0d49f9858b8da08fd291fcaa28ce8750ed5641ac0d210b1024604af01fc38db
@@ -128,23 +129,23 @@ romanLyrics: |-
 ۱
 لینے کے واسطے ملک الموت آتے ہیں
 مرقد کو اپنے پاؤں سے شبیر جاتے ہیں
-القصہ منزل آخر عیاں ہوی
-لیکن یہ صبح سبط نبی کو کہاں ہوی
+القصہ منزل آخر عیاں ہوئی
+لیکن یہ صبح سبط نبی کو کہاں ہوئی
 
 ۲
-جس جا سواری رک کے نہ آگے رواں ہوی
-حیراں سپاہ قصر و کون و مکاں ہوی
+جس جا سواری رک کے نہ آگے رواں ہوئی
+حیراں سپاہ قصر و کون و مکاں ہوئی
 چھ گھوڑے بدلے دوش نبی کے سوار نے
 لیکن قدم بڑھایا نہ اک راہوار نے
 
 ۳
 جنبش نہ مرکبوں میں نہ پائی حسین نے
-اک مشت خاک جھک کے اٹھای حسین نے
+اک مشت خاک جھک کے اٹھائی حسین نے
 خود سونگھی اور بہن کو سنگھای حسین نے
-ہمشیر کی سنی یہ دہای حسین نے
+ہمشیر کی سنی یہ دہائی حسین نے
 
 ۴
-ہاے ہاے یہ خاک پھینکو میری جان جاتی ہے
+ہائے ہائے یہ خاک پھینکو میری جان جاتی ہے
 بھیا تمہارے خون کی بو اس میں آتی ہے
 باشندوں کو وہاں کے یہ مولا نے دی صدا
 نام اس زمیں کے جتنے ہو لو تم جدا جدا
@@ -153,10 +154,10 @@ romanLyrics: |-
 وہ بولے آپ کو ہو مبارک ہر ایک بلا
 یہ نینوا ہے ماریہ ہے اور کربلا
 معبود ہے یہ خلیل کا گنبد مسیح کا
-شہ بولے اب یہ ہوے گا مدفن زبیح کا
+شہ بولے اب یہ ہوئے گا مدفن زبیح کا
 
 ۶
-عباس کو پکارے نہ آگے الم بڑھاؤ
+عباس کو پکارے نہ آگے علم بڑھاؤ
 منزل یہی ہے چھاؤنی پردیسیوں کی چھاؤ
 ہمشکل مصطفیٰ کو ندا دی بڑھے نہ جاؤ
 بیٹا قناعتیں گھیرو سراچے یہی لگاؤ
@@ -169,60 +170,60 @@ romanLyrics: |-
 
 ۸
 تھے دست بستہ گرد جوانان مہ لقا
-لے لے کے نظریں آے زمیندار کربلا
-استادہ فرط غم سے جو شبیر ہو گےء
-نظروں پہ ہاتھ رکھ کے بغل گیر ہو گےء
+لے لے کے نظریں آئے زمیندار کربلا
+استادہ فرط غم سے جو شبیر ہو گئے
+نظروں پہ ہاتھ رکھ کے بغل گیر ہو گئے
 
 ۹
 بٹھلا کے پہلوؤں میں انہیں یہ کیا بیاں
-اے کربلاییوں میں تمہارا ہوں میہماں
+اے کربلائیوں میں تمہارا ہوں میہماں
 ظالم مجھے ستاتے ہیں جاتا ہوں میں جہاں
 بیچو جو یہ زمین تو چند دن رہوں یہاں
 
 ۱۰
-رہنے سے یاں ہمارے سب آرام پاےنگے
-خاک شفا تمہاری زمیں کو بناےنگے
-دینار دے کے ساتھ ہزار ان سے یہ کہا
+رہنے سے یاں ہمارے سب آرام پائیں گے
+خاک شفا تمہاری زمیں کو بنائیں گے
+دینار دے کے سات ہزار ان سے یہ کہا
 بخشی تمہیں زمین حبا میں نے کر دیا
 
 ۱۱
 شبیر کے معاملے پر سب نے رو دیا
 لکھنے لگا قبالہ زمیندار کربلا
-غل پڑ گیا حسین وطن کو نہ جاے گا
-لو مول لی زمیں یہی بستی بساےنگے
+غل پڑ گیا حسین وطن کو نہ جائے گا
+لو مول لی زمیں یہی بستی بسائیں گے
 
 ۱۲
 مرقوم ہو رہا تھا قبالہ کہ ناگاہ
-خیمے سے ایک زن عربیہ ہوی عیاں
+خیمے سے ایک زن عربیہ ہوئی عیاں
 سرتا قدم لباس میں سارا بدن نہاں
 پر اس پہ بھی حیا سے لرزتے تھے استخواں
 
 ۱۳
-بیتاب ہوکے الفت اکبر میں آی تھی
-راوی نے یہ لکھا ہے وہ زہرا کی جای تھی
-لے کر بلاییں بھای کے کچھ میں کہا
+بیتاب ہوکے الفت اکبر میں آئی تھی
+راوی نے یہ لکھا ہے وہ زہرا کی جائی تھی
+لے کر بلائیں بھائی کے کچھ کان میں کہا
 اور جلدی یوں پھری کہ نہ سایہ نظر پڑا
 
 ۱۴
 کرسی سے یاں تڑپ کے گرے شاہ کربلا
-عباس نے اٹھا کے کہا ہاے کیا ہوا
+عباس نے اٹھا کے کہا ہائے کیا ہوا
 مولا بتا قسم تجھے شیر بتول کی
-کیا کہہ گیء نواسی جنابِ رسول کی
+کیا کہہ گئی نواسی جنابِ رسول کی
 
 ۱۵
 شہ بولے آہ مجھ سے یہ زینب کا تھا کلام
-بھیا قبالہ میں علی اکبر کا ہوے نام
-یعنی کہ اسکی ملک میں ہو یہ زمیں تمام
-عباس جاؤ کہدو کہ مجبور ہے امام
+بھیا قبالہ میں علی اکبر کا ہوئے نام
+یعنی کہ اس کی ملک میں ہو یہ زمیں تمام
+عباس جاؤ کہہ دو کہ مجبور ہے امام
 
 ۱۶
-اٹھارہ سال کے یہ زمان سے جاےنگے
-اک قبر کی جگہ علی اکبر بھی پاےنگے
-عباس خیمے میں گےء دینے کو یہ پیام
+اٹھارہ سال کے یہ زمان سے جائیں گے
+اک قبر کی جگہ علی اکبر بھی پائیں گے
+عباس خیمے میں گئے دینے کو یہ پیام
 زینب نے دیکھتے ہی انہیں یہ کیا کلام
 
 ۱۷
-کیوں بھای میری بات پہ راضی ہوے انام
+کیوں بھائی میری بات پہ راضی ہوئے انام
 لکھا گیا قبالے میں اکبر کا میرے نام
-دولہا بناؤں گی میں لہن بیاہ لاؤں گی
-اکبر کے نام کی یہاں ستی بساؤں گی
+دولہا بناؤں گی میں دلہن بیاہ لاؤں گی
+اکبر کے نام کی یہاں بستی بساؤں گی
