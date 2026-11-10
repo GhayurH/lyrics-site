@@ -6,15 +6,17 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ae Alamdar-e-Husain wa Abbasa
-  Wa Abbasa Abbasa
+  Wa Abbasa wa Abbasa
   Parcham-e-Abbas hi parcham-e-Islam hai
   Abbas ka alam hai qaumi nishaṅ hamara
   Ye parcham-e-Nabi hai hum ko hai jaṅ se pyara
+  Abbas ka alam hai qaumi nishaṅ hamara
 
   1
   Hamza ne Murtaza ne Jafar ne bhi uthaya
@@ -22,18 +24,18 @@ romanLyrics: |-
   Bazu kata ke is ko Abbas ne saṅwara
 
   2
-  Do tukde chand kar de panje mein itna dum hai
-  Taara jahan pe utra us ghar ka ye alam hai
-  Uski bulandiyoṅ par qurban chand taara
+  Do tukre chaand kar de panje mein itna dum hai
+  Taara jahaṅ pe utra us ghar ka ye alam hai
+  Uski bulandiyoṅ par qurbaan chaand taara
 
   3
-  Pabandi sarhadoṅ ki na qaid hai zabaṅ ki
-  Bas ye khususiyaat hai Abbas ke nishaṅ ki
-  Dunya mein ye alam hai mazloom ka sahara
+  Paabandi sarhadoṅ ki na qaid hai zabaṅ ki
+  Bas ye khususiyaat hai Abbas ke nishan ki
+  Dunya mein ye alam hai mazlum ka sahaara
 
   4
-  Saanson ki dor iski dori se hi bandhi hai
-  Baab e karam yehi hai baab e ataa yehi hai
+  Saansoṅ ki dor iski dori se hi bandhi hai
+  Baab-e-karam yehi hai baab-e-ataa yehi hai
   Is se muradeṅ lene aaye jahaṅ saara
 
   5
@@ -47,30 +49,30 @@ romanLyrics: |-
   Apne gharoṅ se hum ne parcham nahiṅ utara
 
   7
-  Abbas ka ye parcham ab tak lahoo bhara hai
+  Abbas ka ye parcham ab tak lahu bhara hai
   Zainab se ye Takallum Mehdi tak aa gaya hai
   Laeṅge saath apne Qaim ise dobara
 
   8
   Alam bhai ka lahu mein bhara
   Utha laaye jab Shah-e-Karbala
-  Qayamat bapa haram mein hui
+  Qayaamat bapa haram mein hui
   Tarapne lagi Nabizadiyaṅ
-  Suni jab sakina ne gham ki khabar
-  Tarap kar ye puchha kahan hai chacha
+  Suni jab Sakina ne gham ki khabar
+  Tarap kar ye puchha kahaṅ hai chacha
   Kaha Shah-e-Din ne mera ghar luta
   Sakina tumhara chacha na raha
 
   9
   Yatimoṅ ka jab suna ye bayaṅ
   Tarapne lagi Nabizadiyaṅ
-  Yateemon se ye kaha shaah ne
+  Yatimoṅ se ye kaha Shah ne
   Wasiyat ye thi mere bhai ki
   Na le jaana khaimoṅ mein laasha mera
-  Hai pyason se sharminda unka chacha
+  Hai pyasoṅ se sharminda unka chacha
   Ye keh kar alam behen ko diya
-  Taqaza kare na koi pyaas ka
-  Alam hi janaza hai Abbas ka
+  Taqaaza kare na koi pyaas ka
+  Alam hi janaaza hai Abbas ka
   Sakina tumhara chacha na raha
 # source_id: nohayonline:bf901a1562ade3037ca6
 # source_url: https://www.nohayonline.com/details_content.php?id=2712
@@ -82,6 +84,7 @@ romanLyrics: |-
 پرچمِ عباس ہی پرچمِ اسلام ہے
 عباس کا علم ہے قومی نشاں ہمارا
 یہ پرچم نبی ہے ہم کو ہے جاں سے پیارا
+عباس کا علم ہے قومی نشاں ہمارا
 
 ۱
 حمزہ نے مرتضیٰ نے جعفر نے بھی اٹھایا

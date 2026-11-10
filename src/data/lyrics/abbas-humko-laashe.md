@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,38 +15,38 @@ romanLyrics: |-
 
   1
   Akbar ki jang dur se dekha kiye Husain
-  Jab aakhri salam suna chal pare Husain
-  Har ek qadam pe thokareṅ khate rahe Husain
+  Jab aakhri salaam suna chal pare Husain
+  Har ek qadam pe thokareṅ khaate rahe Husain
   Bhai ko yaad kar ke ye kehne lage Husain
 
   2
   Akbar lare hazaroṅ se bekhauf o bekhatar
-  Girte hue kaha ke Khudahafiz ae pidar
+  Girte hue kaha ke Khuda haafiz ae pidar
   Gham se kaleja shaq hua dhundla gayi nazar
   Dunya hui siyah kaho jaaeṅ hum kidhar
 
   3
   Bichhre Habib jine ki lazzat chali gayi
-  Qasim gaye to zabt ki taqat chali gayi
+  Qasim gaye to zabt ki taaqat chali gayi
   Ruthe jo tum to qalb ki quwwat chali gayi
-  Akbar ke saath meri basarat chali gayi
+  Akbar ke saath meri basaarat chali gayi
 
   4
   Dar hai na gham se Abid-e-bimar chal base
   Zainab na berida kahiṅ ran mein nikal pare
   Maaṅ ke tasawwurat mein sehre ke phul the
-  Wo kam se kam pisar ka janaza to dekh le
+  Wo kam se kam pisar ka janaaza to dekh le
 
   5
-  Gum hain chiragh-ha-e-mere ghar ka der se
+  Gum hain chiraagh-ha-e-mere ghar ka der se
   Hai shauq-e-did shakl-e-Payambar ka der se
   Dil khun hai tumhare baradar ka der se
-  Laila ko intezar hai Akbar ka der se
+  Laila ko intezaar hai Akbar ka der se
 
   6
   Barchhi hamare bete ke dil mein hai kya kareṅ
-  Kis tarah uske dard-e-jigar ki dawa kareṅ
-  Hum bemuin o yavar o nasir hain kya kareṅ
+  Kis tarah uske dard-e-jigar ki dawaa kareṅ
+  Hum bemuin o yaavar o naasir hain kya kareṅ
   Pahuncheṅge laash tak jo madad Murtaza kare
 # source_id: nohayonline:3f92ffd5ae37a9ceff72
 # source_url: https://www.nohayonline.com/details_content.php?id=1950
@@ -65,12 +66,12 @@ romanLyrics: |-
 اکبر لڑے ہزاروں سے بے خوف و بے خطر
 گرتے ہوئے کہا کے خدا حافظ اے پدر
 غم سے کلیجے شق ہوا دھندلا گئی نظر
-دنیا ہوی سیاہ کہو جائیں ہم کدھر
+دنیا ہوئی سیاہ کہو جائیں ہم کدھر
 
 ۳
 بچھڑے حبیب جینے کی لذت چلی گئی
 قاسم گئے تو ضبط کی طاقت چلی گئی
-روٹھے جو تم قلب کی قوت چلی گئی
+روٹھے جو تم تو قلب کی قوت چلی گئی
 اکبر کے ساتھ میری بصارت چلی گئی
 
 ۴

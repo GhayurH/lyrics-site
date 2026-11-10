@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,21 +14,23 @@ romanLyrics: |-
   Bachche tarap rahe hain
   Abbas ja rahe hain
   Har Bibi ro rahi hai
+  Abbas ja rahe hain
   Apne rida ko Zainab
   Haaye hasrat se dekhti hai
+  Abbas ja rahe hain
 
   1
   Sukhe hue laboṅ par
   Bachchoṅ zabaṅ na phero
   Mashk o alam ko dekho
-  Kuchh der mein yahan tak
+  Kuchh der mein yahaṅ tak
   Khud nehr aa rahi hai
 
   2
-  Kiun mashk tum ne de di
+  Kiuṅ mashk tum ne de di
   Ghazi ko Shahzadi
   Ae ranj o gham ki aadi
-  Khush kiun hai ae Sakina
+  Khush kiuṅ hai ae Sakina
   Kuchh der ki khushi hai
 
   3
@@ -35,7 +38,7 @@ romanLyrics: |-
   Abbas ka safar hai
   Sheh mar na jaaye dar hai
   Aafat gham o alam ki
-  Sarwar pe gir padi hai
+  Sarwar pe gir pari hai
 
   4
   Ek shor-e-al-atash hai
@@ -45,16 +48,16 @@ romanLyrics: |-
   Umid aakhri hai
 
   5
-  Khaimoṅ mein shor-e-matam
+  Khaimoṅ mein shor-e-maatam
   Hone laga hai paiham
   Har aankh ho gayi nam
-  Shaam-e-Ghariban daman
+  Shaam-e-Gharibaṅ daaman
   Phailati ja rahi hai
 
   6
   Zainab ke bazuoṅ ko
   Chuma tha jab Ali ne
-  Lamhat-e-zindagi mein
+  Lamhaat-e-zindagi mein
   Bazu bandheṅge mere
   Zainab samajh gayi hai
 
@@ -71,9 +74,11 @@ romanLyrics: |-
 
 بچے تڑپ رہے ہیں
 عباس جا رہے ہیں
-ہر بی بی رو رہی ہے
+ہر بی‌بی رو رہی ہے
+عباس جا رہے ہیں
 اپنے ردا کو زینب
 ہائے حسرت سے دیکھتی ہے
+عباس جا رہے ہیں
 
 ۱
 سوکھے ہوئے لبوں پر
