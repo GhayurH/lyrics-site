@@ -16,11 +16,11 @@ romanLyrics: |-
   Rote ho jisko raaste aisa musafir kaun hai
 
   1
-  Wada nibhane ke liye din ko bachane ke liye
+  Waada nibhane ke liye diṅ ko bachane ke liye
   Kantoṅ pe jo chalta rahe aisa musafir kaun hai
 
   2
-  Har gaam jisko bekhata durre lagaye ashkiyan
+  Har gaam jisko bekhata durre lagaye ashqiya
   Wo shukr ka sajda kare aisa musafir kaun hai
 
   3
@@ -32,7 +32,7 @@ romanLyrics: |-
   Taa zindagi rota rahe aisa musafir kaun hai
 
   5
-  Jo paikar-e-hassas ho jo waqt ka Abbas ho
+  Jo paikar-e-hassaas ho jo waqt ka Abbas ho
   Ghairat jise sajda kare aisa musafir kaun hai
 
   6
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   10
   Pehchan jo tu ne likhi haaṅ Ae Bilal Kazmi
-  Juz abid e bemaar ke aisa musafir kaun hai
+  Juz Abid-e-bimaar ke aisa musafir kaun hai
 # source_id: nohayonline:04496eadceb6612a950a
 # source_url: https://www.nohayonline.com/details_content.php?id=2761
 # raw_sha256: c34df0d76bf3078608e4e6874ce85a04c5934fb8d4736b5f4bf29abfe3232f31

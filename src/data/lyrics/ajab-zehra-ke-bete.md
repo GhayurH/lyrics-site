@@ -15,19 +15,19 @@ romanLyrics: |-
   Kamar tuti hai aur Abbas ka lasha uthana hai
 
   1
-  Taraayi par jise loota hai mil kar shaam waalon ne
+  Taraayi par jise luta hai mil kar Shaam waloṅ ne
   Ali-e-Murtaza ke daman-e-dil ka khazana hai
 
   2
   Lain kehte the Abbas-e-Jari ko qatl kar dalo
-  Agar is aalam e ghurbat mein sarwar ko rulana hai
+  Agar is aalam-e-ghurbat mein Sarwar ko rulana hai
 
   3
-  Wafa ghazi ki kehti thi pharere ka lahoo pocho
-  Alam ko bibiyon ke darmiyan qaime mein jaan hai
+  Wafa Ghazi ki kehti thi pharere ka lahu puchho
+  Alam ko bibiyoṅ ke darmiyan khaime mein jaan hai
 
   4
-  Kaha shabbir ne amma sambhalo haath ghazi ke
+  Kaha Shabbir ne ammaṅ sambhalo haath Ghazi ke
   Inheṅ bali Sakina ki nigahoṅ se chhupana hai
 
   5
@@ -35,20 +35,20 @@ romanLyrics: |-
   Tumheṅ to Zainab o Kulsum ka parda bachana hai
 
   6
-  Hua hai imtehan kab khatm ghazi ke kate sar ka
-  Abhi to berida behno ko le kar shaam jaana hai
+  Hua hai imtehaṅ kab khatm Ghazi ke kate sar ka
+  Abhi to berida behnoṅ ko le kar Shaam jaana hai
 
   7
-  Ajal akbar ke laashe par ye keh kar bain karti thi
+  Ajal Akbar ke laashe par ye keh kar bain karti thi
   Jigar hai naujawan ka magar naiza purana hai
 
   8
-  Ye keh kar dasht mein sheh turbat e asghar banate hai
+  Ye keh kar dasht mein Shah turbat-e-Asghar banate haiṅ
   Mujhe Ae Zulfiqar ab sabr tera aazmana hai
 
   9
-  Bilal-e-Kazmi ta zindagi Abbas ke gham mein
-  Yunhi likh likh ke masomeen ko nauhe sunana hai
+  Bilal Kazmi taa zindagi Abbas ke gham mein
+  Yuṅhi likh likh ke Masumin ko nauhe sunana hai
 # source_id: nohayonline:122dc9d10c9d0042e086
 # source_url: https://www.nohayonline.com/details_content.php?id=2876
 # raw_sha256: 4ac261f1e6eb0e6ab6bd05c5306b3875e0f2fb265dfbf8cc5d1a6de519aa1ee4
