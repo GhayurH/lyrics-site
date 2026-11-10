@@ -23,15 +23,15 @@ romanLyrics: |-
   Zalim ka haath meri rida tak pahunch gaya
 
   3
-  Awaz ran se aai ke Baba main gir para
+  Awaaz ran se aai ke Baba main gir para
   Girta hua Husain sada tak pahunch gaya
 
   4
-  Sine mein neza tor ke kehta tha ye lain
+  Sine mein neza tor ke kehta tha ye laiṅ
   Dekho Husain apni qaza tak pahunch gaya
 
   5
-  Maula zaif ho gaye kuchh der mein magar
+  Maula zaif ho gaya kuchh der mein magar
   Akbar ka lasha Aal-e-Aba tak pahunch gaya
 
   6
@@ -49,7 +49,7 @@ romanLyrics: |-
 زینب کا خون خاک شفا تک پہنچ گیا
 
 ۲
-لیلیٰ یہ روکے کہتی تھی اکبر کہاں ہو تم
+لیلیٰ یہ رو کے کہتی تھی اکبر کہاں ہو تم
 ظالم کا ہاتھ میری ردا تک پہنچ گیا
 
 ۳

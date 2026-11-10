@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Atharah saal wale ka lasha utha liya
   Aisa laga ke apna janaza utha liya
-  Akbar ke khun se ban mein wuzu kar gaye Husain
+  Akbar ke khuṅ se ban mein wuzu kar gaye Husain
 
   2
   Barchhi ka phal ye kaisa ragoṅ mein ulajh gaya
@@ -25,8 +25,8 @@ romanLyrics: |-
   Sakte mein aa gaye haiṅ isi dard se Husain
 
   3
-  Laila ki hasraton ka janaza nikal gaya
-  Sughra ki khwahishon ka janaza nikal gaya
+  Laila ki hasratoṅ ka janaza nikal gaya
+  Sughra ki khwahishoṅ ka janaza nikal gaya
   Akbar ne barchhi khai magar mar gaye Husain
 
   4
@@ -40,22 +40,22 @@ romanLyrics: |-
   Beta dharakna bhul gaya hai dil-e-Husain
 
   6
-  Khaime ke dar pe pahunche to awaz di yehi
+  Khaime ke dar pe pahunche to awaaz di yehi
   Zainab utha lo aa ke meri laash hai pari
   Akbar ke saath qatl wahaṅ ho gaye Husain
 
   7
   Akbar ka gham utha kar mera haal hai yehi
-  Main to bas ek badan huṅ meri jaan nikal gayi
+  Main to bas ek badan huṅ meri jaaṅ nikal gayi
   Raftar dekho lafz ki bejaan hai Husain
 
   8
   Bhai ka haal dekha to Zainab tarap gayi
-  Bete ke gham mein haalat hui kya hussain ki
-  Khun-e-pisar mein is tarah ghaltan hue Husain
+  Bete ke gham mein haalat hui kya Husain ki
+  Khun-e-pisar mein is tarah ghaltaṅ hue Husain
 
   9
-  Farhan ho ke Mazhar bayan kya kare koi
+  Farhan ho ke Mazhar bayaṅ kya kare koi
   Maaṅ ne pisar ke lashe pe faryad ki yehi
   Ae laal saath tere jahaṅ se gaye Husain
 # source_id: nohayonline:6404e7ec06c3d690e19e
@@ -82,7 +82,7 @@ romanLyrics: |-
 
 ۴
 اے لال تیرے غم سے کلیجہ ہوا فگار
-برچھی جو تو نے کھای کلیجے کے ہے وہ پار
+برچھی جو تو نے کھائی کلیجے کے ہے وہ پار
 دل تو دھڑک رہا ہے مگر لاش ہے حسین
 
 ۵
@@ -92,7 +92,7 @@ romanLyrics: |-
 
 ۶
 خیمے کے در پہ پہنچے تو آواز دی یہی
-زینب اٹھالو آ کے میری لاش ہے پڑی
+زینب اٹھا لو آ کے میری لاش ہے پڑی
 اکبر کے ساتھ قتل وہاں ہو گئے حسین
 
 ۷
