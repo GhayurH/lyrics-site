@@ -1,37 +1,38 @@
 ---
 title: "اے شاہِ انبیاء یہ مسلماں نے کیا کِیا"
-alternateTitle: "Ay Shaahe Ambiya"
+alternateTitle: "Ae Shaah-e-Ambiya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
+reciter: "Mesum Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Shaahe Ambiya"]
 published: false
 romanLyrics: |-
-  Ay shaahe ambiya ye musalman ne kya kiya
-  Minbar pe fatema ka mujrim bitha diya
+  Ae Shaah-e-Ambiya ye musalmaaṅ ne kya kiya
+  Minbar pe Fatema ka mujrim bitha diya
 
-  1
-  Jis dar pe aap rukte thay lene ijazatein
-  Aate farishte arsh se karne ziyaratein
-  Ek behaya ne aag se wo dar jala diya
+  ۱
+  Jis dar pe aap rukte the lene ijaazateṅ
+  Aate farishte arsh se karne ziyaarateṅ
+  Ik behaya ne aag se wo dar jala diya
 
-  2
-  Hasne laga layeen jo rone lagi batool
-  Ghasib ne sayyeda ki gawahi na ki qabool
-  Khud saccha ban ke bibi ko jhoota bana diya
+  ۲
+  Hansne laga lain jo rone lagiṅ Batul
+  Ghaasib ne Sayyeda ki gawaahi na ki qabul
+  Khud sachcha ban ke Bibi ko jhuta bana diya
 
-  3
-  Utri hai jin ki shaan mein aayaat baar baar
-  Jin ki raza ko rad na kare rabb e kirdgaar
+  ۳
+  Utri haiṅ jin ki shaan mein aayaat baar baar
+  Jin ki raza ko rad na kare Rabb-e-Kirdgaar
   Haq maangne gayi wo to khaali lauta diya
 
-  4
-  Jis shakhs ne di aap ko hizyan ki saughaat
+  ۴
+  Jis shakhs ne di aap ko hizyaan ki saughaat
   Jis se mila na aap ko kaghaz qalam dawaat
-  Darbar mein batool ko us ne rula diya
+  Darbaar mein Batul ko us ne rula diya
 # source_id: nohayonline:e4c11a6574c1b9fd20e5
 # source_url: https://www.nohayonline.com/details_content.php?id=3278
 # raw_sha256: 04f54ff02dee9f2d1735190ba61b400b0a355053e0920c83994e35a767e94f5e
@@ -47,7 +48,7 @@ romanLyrics: |-
 ۲
 ہنسنے لگا لعین جو رونے لگیں بتول
 غاصب نے سیدہ کی گواہی نہ کی قبول
-خود سچا بن کے بی بی کو جھوٹا بنا دیا
+خود سچا بن کے بی‌بی کو جھوٹا بنا دیا
 
 ۳
 اُتری ہیں جن کی شان میں آیات بار بار

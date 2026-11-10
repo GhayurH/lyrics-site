@@ -1,49 +1,50 @@
 ---
 title: "اے شام کے مسافر منزل تیری کہاں ہے"
-alternateTitle: "Ay Shaam Ke Musafir"
+alternateTitle: "Ae Shaam Ke Musaafir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Shaam Ke Musafir"]
 published: false
 romanLyrics: |-
-  Ay shaam ke musafir manzil teri kahan hai
-  Zanjeer hai badan par zakhmon se khoon rawan hai
+  Ae Shaam ke musaafir manzil teri kahaaṅ hai
+  Zanjir hai badan par zakhmoṅ se khuṅ rawaaṅ hai
 
-  1
-  Be parda aaj zainab darbar jaa rahi hai
-  Sajjad par khudaya ye kaisa imtehan hai
+  ۱
+  Be parda aaj Zainab darbaar jaa rahi hai
+  Sajjad par Khudaaya ye kaisa imtihaaṅ hai
 
-  2
-  Ay shehr e bewafa ye hai inqilaab kaisa
-  Kufe ki shaahzadi kufe may be-amaan hai
+  ۲
+  Ae shehr-e-bewafa ye hai inqilaab kaisa
+  Kufe ki shaahzaadi Kufe mein be amaaṅ hai
 
-  3
-  Sad haif ke musalman baithe hai kursiyon par
-  Jakda hua rasan may bemaar saarban hai
+  ۳
+  Sad haif ke musalmaaṅ baithe haiṅ kursiyoṅ par
+  Jakra hua rasan mein bimaar saarbaaṅ hai
 
-  4
-  Hum gir gaye zameen par amma bachao hum ko
-  Oonton se girne waale bachon ki ye fughan hai
+  ۴
+  Hum gir gaye zamiṅ par ammaaṅ bachaao hum ko
+  Uṅtoṅ se girne waale bachchoṅ ki ye fughaaṅ hai
 
-  5
-  Mai shaam ki musafat tay kar ke aa gaya hoo
-  Rauze pe mustafa ke sajjad ka bayaan hai
+  ۵
+  Main Shaam ki musaafat tai kar ke aa gaya huṅ
+  Rauze pe Mustafa ke Sajjad ka bayaaṅ hai
 
-  6
-  Zainab ki be-ridayi pe chup hai kyun zamana
-  Is waqt kalmago ki insaniyat kahan hai
+  ۶
+  Zainab ki be ridaai pe chup hai kiuṅ zamaana
+  Is waqt kalma go ki insaaniyat kahaaṅ hai
 
-  7
-  Chalta rahega yun hi ye khaafila azaa ka
-  Hargiz na chup sakegi ye ran ki dastan hai
+  ۷
+  Chalta rahe ga yuṅ hi ye qaafila aza ka
+  Hargiz na chhup sake gi ye ran ki daastaaṅ hai
 
-  8
-  Hai ye dua muhib ki is par karam ho maalik
-  Aulaad e mustafa ka ye mir nauhakhwan hai
+  ۸
+  Hai ye dua Mohib ki is par karam ho Maalik
+  Aulaad-e-Mustafa ka ye Mir nauha khwaaṅ hai
 # source_id: nohayonline:b544afbc598aba051865
 # source_url: https://www.nohayonline.com/details_content.php?id=2570
 # raw_sha256: 6e4f6f9a9d0f32b30c67dfbc458a930ac376ffd68382ab46d4edf3ebbf52543e
@@ -64,11 +65,11 @@ romanLyrics: |-
 جکڑا ہوا رسن میں بیمار سارباں ہے
 
 ۴
-ہم گر گےء زمیں پر اماں بچاؤ ہم کو
+ہم گر گئے زمیں پر اماں بچاؤ ہم کو
 اونٹوں سے گرنے والے بچوں کی یہ فغاں ہے
 
 ۵
-میں شام کی مسافت طےء کر کے آ گیا ہوں
+میں شام کی مسافت طے کر کے آ گیا ہوں
 روضے پہ مصطفیٰ کے سجاد کا بیاں ہے
 
 ۶

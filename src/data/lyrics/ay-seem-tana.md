@@ -1,98 +1,103 @@
 ---
-title: "چاندی سا بدن پھول سا تن‌ خاک ہوا ہے"
-alternateTitle: "Ay Seem Tana"
+title: "چاندی سا بدن پھول سا تن خاک ہوا ہے"
+alternateTitle: "Ae Sim Tana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Seem Tana"]
 published: false
 romanLyrics: |-
-  Chandi sa badan phool sa tan khaak hua hai
-  Zainab ka jigar rashke qamar chaak hua hai
-  Aun o mohamed aun o mohamed
-  Ay seem tana gulbadana aun o mohamed
+  Chaandi sa badan phul sa tan khaak hua hai
+  Zainab ka jigar rashk-e-qamar chaak hua hai
 
-  1
-  Zainab hai kahan aur kahan aun o mohamed
-  Pyase rahe darya ki taraf ki na nigahein
-  De aaye thay zainab ko zuban aun o mohamed
+  Aun o Muhammad Aun o Muhammad
 
-  2
-  Ek dard ki dunya hai basi dashte bala mein
-  Kafoor huwe dono jahan aun o mohamed
+  Ae sim tana gulbadana Aun o Muhammad
+  Zainab hai kahaaṅ aur kahaaṅ Aun o Muhammad
 
-  3
-  Qaime mein thay jab tak to faqat dono thay bacche
-  Maidan mein huwe jaake jawan aun o mohamed
+  ۱
+  Pyaase rahe darya ki taraf ki na nigaaheṅ
+  De aaye the Zainab ko zabaaṅ Aun o Muhammad
 
-  4
-  Wo maut ke sehra mein raha manzar e mehshar
-  Angdaiyan lete thay wahan aun o mohamed
+  ۲
+  Ek dard ki duniya hai basi dasht-e-bala mein
+  Kaafur hue donoṅ jahaaṅ Aun o Muhammad
 
-  5
-  Wo maqsad e sarwar pe fida dono ka hona
-  Tum jaise kahan deeda varan aun o mohamed
+  ۳
+  Khaime mein the jab tak to faqat donoṅ the bachche
+  Maidaaṅ mein hue jaake jawaaṅ Aun o Muhammad
 
-  6
-  Laashon pe kiye hai zainab e dilgeer ne sajde
-  Un sajdon ke raushan hai nishan aun o mohamed
+  ۴
+  Wo maut ke sehra mein raha manzar-e-mehshar
+  Angraaiyaaṅ lete the wahaaṅ Aun o Muhammad
 
-  7
-  Ashoor ko dulhan thi bani ashoor ko bewa
-  Pamaal hua ran mein jawan aun o mohamed
+  ۵
+  Wo maqsad-e-Sarwar pe fida donoṅ ka hona
+  Tum jaise kahaaṅ dida waraaṅ Aun o Muhammad
 
-  8
-  Baysheer ki gardan par chala teer e sitamgar
-  Honton pa jo pheri hai zuban aun o mohamed
+  ۶
+  Laashoṅ pe kiye hai Zainab-e-dilgir ne sajde
+  Un sajdoṅ ke raushan hai nishaaṅ Aun o Muhammad
 
-  9
-  Barchi ki ani jo dhans gayi khud mere jigar mein
-  Ab hai meri aankhon mein dhuaan aun o mohamed
+  ۷
+  Aashur ko dulhan thi bani Aashur ko bewa
+  Paamaal hua ran mein jawaaṅ Aun o Muhammad
 
-  10
-  Darya ko bhi abbas ne darya nahi samjha
-  Tha husne wafa se ye ayan aun o mohamed
+  ۸
+  Beshir ki gardan par chala tir-e-sitamgar
+  Hontoṅ pe jo pheri hai zabaaṅ Aun o Muhammad
 
-  11
-  Abbas e jari sogaye darya ke kanare
-  Bedast huwe sher e jawan aun o mohamed
+  ۹
+  Barchhi ki ani jo dhans gayi khud mere jigar mein
+  Ab hai meri aaṅkhoṅ mein dhuaaṅ Aun o Muhammad
 
-  12
-  Akbar bhi nahi abbas nahi tum bhi nahi ho
-  Bhai ke bina hum hai yahan aun o mohamed
+  ۱۰
+  Darya ko bhi Abbas ne darya nahiṅ samjha
+  Tha husn-e-wafa se ye ayaaṅ Aun o Muhammad
 
-  13
-  Ek nusrat e haq ke siwa maa ne na socha
-  Ay jaane dileraane jawan aun o mohamed
+  ۱۱
+  Abbas-e-jari so gaye darya ke kinaare
+  Bedast hue sher-e-jawaaṅ Aun o Muhammad
 
-  14
+  ۱۲
+  Akbar bhi nahiṅ Abbas nahiṅ tum bhi nahiṅ ho
+  Bhai ke bina hum haiṅ yahaaṅ Aun o Muhammad
+
+  ۱۳
+  Ek nusrat-e-haq ke siwa maaṅ ne na socha
+  Ae jaan-e-dileraan-e-jawaaṅ Aun o Muhammad
+
+  ۱۴
   Iqbal ke nauhe ye sada haq ki sada hai
-  Dhoondenge tumhe haq talaban aun o mohamed
+  Dhundeṅge tumheṅ haq talabaaṅ Aun o Muhammad
 # source_id: nohayonline:7176c37b7353e5e2d9ab
 # source_url: https://www.nohayonline.com/details_content.php?id=2878
 # raw_sha256: 1a63f0ace412f39ae362b57e317487f0127f3aa35f9d258c825a111f43cfd055
 ---
 
-چاندی سا بدن پھول سا تن‌ خاک ہوا ہے
+چاندی سا بدن پھول سا تن خاک ہوا ہے
 زینب کا جگر رشک قمر چاک ہوا ہے
+
 عون و محمد عون و محمد
+
 اے سیمتنا گلبدنا عون و محمد
+زینب ہے کہاں اور کہاں عون و محمد
 
 ۱
-زینب ہے کہاں اور کہاں عون و محمد
 پیاسے رہے دریا کی طرف کی نہ نگاہیں
-دے آے تھے زینب کو زباں عون و محمد
+دے آئے تھے زینب کو زباں عون و محمد
 
 ۲
 ایک درد کی دنیا ہے بسی دشتِ بلا میں
-کافور ہوے دونوں جہاں عون و محمد
+کافور ہوئے دونوں جہاں عون و محمد
 
 ۳
 خیمے میں تھے جب تک تو فقط دونوں تھے بچے
-میداں میں ہوے جاکے جواں عون و محمد
+میداں میں ہوئے جاکے جواں عون و محمد
 
 ۴
 وہ موت کے صحرا میں رہا منظر محشر
@@ -123,12 +128,12 @@ romanLyrics: |-
 تھا حسن وفا سے یہ عیاں عون و محمد
 
 ۱۱
-عباس جری سو گےء دریا کے کنارے
-بے دست ہوے شیر جواں عون و محمد
+عباس جری سو گئے دریا کے کنارے
+بے دست ہوئے شیر جواں عون و محمد
 
 ۱۲
 اکبر بھی نہیں عباس نہیں تم بھی نہیں ہو
-بھای کے بنا ہم ہیں یہاں عون و محمد
+بھائی کے بنا ہم ہیں یہاں عون و محمد
 
 ۱۳
 ایک نصرتِ حق کے سوا ماں نے نہ سوچا
