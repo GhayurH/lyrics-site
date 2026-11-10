@@ -1,74 +1,77 @@
 ---
 title: "اے حسین جان اے حسین جان"
-alternateTitle: "Ay Hussain Jaan"
+alternateTitle: "Ae Husain Jaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Hussain Jaan"]
 published: false
 romanLyrics: |-
-  Ay hussain jaan ay hussain jaan
+  Ae Husain jaan ae Husain jaan
   
   1
-  Ay ali ke laal ay shahe zaman
-  Fatha kar liye tune do jahan
-  Muskura utha jab ke bezuban
+  Ae Ali ke laal ae Shah-e-zamaaṅ
+  Fath kar liye tu ne do jahaaṅ
+  Muskura utha jab ke bezubaaṅ
   
   2
-  Tu panahe deen tu hi shahe deen
-  Warise nabi kaaba e yaqeen
-  Naazish e haram haq ke paasban
+  Tu panaah-e-din tu hi Shah-e-din
+  Waaris-e-Nabi Kaaba-e-yaqin
+  Naazish-e-haram haq ke paasbaaṅ
   
   3
-  Karbala jihad karbala qayam
-  Tune hashr tak de diya payam
-  Roohe karbala raaze kunfaka
+  Karbala jihaad Karbala qiyaam
+  Tu ne hashr tak de diya payaam
+  Ruh-e-Karbala raaz-e-kun fakaaṅ
   
   4
-  De ke sar liya zulm se firaat
-  Tujhse reh gayi ambiya ki laaj
-  Ibne fatima faqre mursala
+  De ke sar liya zulm se Furaat
+  Tujh se reh gayi ambiya ki laaj
+  Ibn-e-Fatima faqr-e-mursala
   
   5
   Hurr ka tazkira hai waraq waraq
-  Sunke aagaya jo sadaye haq
-  Subhe karbala maaniye azan
+  Sun ke aa gaya jo sadaa-e-haq
+  Subh-e-Karbala maani-e-azaan
   
   6
-  Zindagi se door hogaye haram
-  Jab hua shaheed aamile alam
-  Jis ke dosh par haq ka tha nishan
+  Zindagi se dur ho gaye haram
+  Jab hua shahid aamil-e-alam
+  Jis ke dosh par haq ka tha nishaaṅ
   
   7
-  Jab se hat gaye saare mursaleen
-  Bad gaye nabi choomne jabeen
-  Keh ke ya ali khaynchi jo sina
+  Jab se hat gaye saare mursalin
+  Barh gaye Nabi chumne jabiṅ
+  Keh ke Ya Ali khenchi jo sinaaṅ
   
   8
-  Jis mareez par tha sitam tamam
-  Dashte zulm se ta-ziyare shaam
-  Wo aseere gham meer e karwan
+  Jis mariz par tha sitam tamaam
+  Dasht-e-zulm se taa ziyaare Shaam
+  Wo asir-e-gham mir-e-kaarwaaṅ
   
   9
-  Madare hussain deti hai dua
-  Goonjti rahe bas yehi sada
-  Farshe khaak se ta ba aasma
+  Maadar-e-Husain deti hai dua
+  Gunjti rahe bas yehi sada
+  Farsh-e-khaak se taa ba aasmaaṅ
   
   10
-  Zindagi tamam zikre karbala
-  Nusrate imam girya-o-buka
-  Lab pe suboh shaam ho yahi fughan
+  Zindagi tamaam zikr-e-Karbala
+  Nusrat-e-Imaam girya o buka
+  Lab pe subh o shaam ho yehi fughaaṅ
   
   11
-  Do sada fareed matame hussain
-  Koi gham na ho juz ghame hussain
-  Hashr tak rahe bas yehi samaa
+  Do sada Fareed maatam-e-Husain
+  Koi gham na ho juz gham-e-Husain
+  Hashr tak rahe bas yehi samaaṅ
 # source_id: nohayonline:d07773c0b5991df7a242
 # source_url: https://www.nohayonline.com/details_content.php?id=193
 # raw_sha256: a32f60e22e317a1faad7d97c9a570f9651a6b4bf6c35b0929cf5b99c0127f05d
+# Archived Urdu/Roman conflict in stanza 4: قلم/zulm and فرق مرسلہ/faqre mursala; neither reading silently substituted.
+# Print/audio needed for کن فکاں (3), عامل علم (6), تا زیارے شام (8), and the intended stanza-4 readings.
 ---
 
 اے حسین جان اے حسین جان
@@ -79,8 +82,8 @@ romanLyrics: |-
 مسکرا اٹھا جب کہ بے زباں
 
 ۲
-تو پناہ دیں تو ہی شاہ دیں
-وراث نبی کعبہ یقین
+تو پناہ دین تو ہی شاہ دین
+وارث نبی کعبہ یقین
 نازش حرم حق کے پاسباں
 
 ۳
