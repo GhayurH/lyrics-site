@@ -1,82 +1,84 @@
 ---
 title: "بہت غم ملے بابا جاں"
-alternateTitle: "Bahot Gham Milay"
+alternateTitle: "Bahot Gham Mile"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hameed Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bahot Gham Milay"]
 published: false
 romanLyrics: |-
-  Bahot gham milay baba jaan
+  Bahot gham mile baba jaaṅ
   Zindan mein baba ka sar jo mila
-  Bali sakina ne nauha kiya
-  Pardes mein hogayi be-amaan
+  Baali Sakina ne nauha kiya
+  Pardes mein ho gayi beamaan
+  Bahot gham mile baba jaaṅ
 
   1
-  Kya kya na dhaaye sitam ashkiyan ne
-  Khaati rahi bibiyan taaziyane
-  Thi ek rasan aur baara galay
-  Mai khad mein choti sab thay bade
-  Ghuton pe meelon chali bibiyan
+  Kya kya na dhaaye sitam ashqiya ne
+  Khaati rahi bibiyaṅ taaziyane
+  Thi ek rasan aur baarah gale
+  Main qad mein chhoti sab the bare
+  Ghutoṅ pe main miloṅ chali bibiyaṅ
 
   2
-  Shaam e ghariban ka ghamnaak manzar
-  Qaime hamare thay sholon ki zad par
-  Bistar jala bhai sajjad ka
-  Gehwara e bezaban bhi jala
-  Manzar tha wo al hafeez o amaan
+  Shaam-e-gharibaṅ ka ghamnaak manzar
+  Khaime hamaare the sholoṅ ki zad par
+  Bistar jala bhai Sajjad ka
+  Gehwara-e-bezabaṅ bhi jala
+  Manzar tha wo al-Hafiz o al-Amaan
 
   3
-  Jab ban mein aayi gyara moharram
+  Jab ban mein aayi gyaarah Muharram
   Baba tha mujh par aseeri ka aalam
   Phir mere dil par sitam ye hua
   Naize pe sar aap ka aa gaya
-  Aankhon se khoone jigar tha rawan
+  Aankhoṅ se khun-e-jigar tha rawaaṅ
 
   4
-  Mujhko tamache sitamgar ne maare
+  Mujhko tamaanche sitamgar ne maare
   Sajjad khaata raha taaziyane
   Tishna labi aur safar ki thakan
-  Karte bhi kya dono bhai behan
+  Karte bhi kya donoṅ bhai behan
   Dete rahe sabr ka imtehan
 
   5
   Phir kaan zakhmi kurta jala tha
-  Chaale zuban par sookha gala tha
+  Chhaale zabaṅ par sukha gala tha
   Soti to sone na dete zara
   Royi to rone pe pehra laga
-  Mujh par hui hai badi sakhtiyan
+  Mujh par hui hai bari sakhtiyaṅ
 
   6
   Tha ye taqaza unki wafa ka
-  Gham mujhse poocho mere chacha ka
-  Dekhe jo phupiyon ke sar berida
+  Gham mujhse puchho mere chacha ka
+  Dekhe jo phuphiyoṅ ke sar berida
   Naize se ammu ka sar gir gaya
-  Hai yaad wo shor e aah o fughan
+  Hai yaad wo shor-e-aah o fughaaṅ
 
   7
-  Haa mere baba hai yaad ab bhi
-  Jab pushte naaqa se mai gir gayi thi
-  Tumse bichad kar mai soti na thi
-  Aaghosh e zehra mein neend aagayi
-  Baad uske phir neend aayi kahan
+  Haaṅ mere baba hai yaad ab bhi
+  Jab pusht-e-naaqa se main gir gayi thi
+  Tumse bichhar kar main soti na thi
+  Aaghosh-e-Zehra mein nind aa gayi
+  Baad uske phir nind aayi kahaaṅ
 
   8
-  Balon pe mere jo hai safedi
-  Gham ki fazayein dekhi hai aisi
-  Nauhon ka kamsin saheefa hoo mai
-  Ek chaar saala zaeefa hoo mai
-  Kham hai kamar meri misle kamaan
+  Baaloṅ pe mere jo hai safedi
+  Gham ki fazaayeṅ dekhi hai aisi
+  Nauhoṅ ka kamsin sahifa huṅ main
+  Ik chaar saala zaifa huṅ main
+  Kham hai kamar meri misl-e-kamaaṅ
 
   9
-  Nauha jo likha hameed abidi ne
-  Likhwaya shabbir ki laadli ne
-  Nauhon se safdar ki pehchaan hai
-  Bali sakina ka ehsaan hai
-  Jo aaj nauha hai wirde zaban
+  Nauha jo likha Hameed Abidi ne
+  Likhwaaya Shabbir ki laadli ne
+  Nauhoṅ se Safdar ki pehchaan hai
+  Baali Sakina ka ehsaan hai
+  Jo aaj nauha hai wird-e-zabaṅ
 # source_id: nohayonline:98d65b0f61d343de0071
 # source_url: https://www.nohayonline.com/details_content.php?id=1548
 # raw_sha256: 1712a4af4bb5138cde8e32ebd759e5537558187d5c47ad41a8e57976d196312c
@@ -85,24 +87,25 @@ romanLyrics: |-
 بہت غم ملے بابا جاں
 زندان میں بابا کا سر جو ملا
 بالی سکینہ نے نوحہ کیا
-پردیس میں ہوگیءبے امان
+پردیس میں ہو گئی بے امان
+بہت غم ملے بابا جاں
 
 ۱
-کیا کیا نہ ڈھاے ستم اشقیاء نے
-کھاتی رہی بی بیاں تازیانے
+کیا کیا نہ ڈھائے ستم اشقیاء نے
+کھاتی رہی بی‌بیاں تازیانے
 تھی ایک رسن اور بارہ گلے
 میں قد میں چھوٹی سب تھے بڑے
-گھٹوں پہ میں میلوں چلی بی بیاں
+گھٹوں پہ میں میلوں چلی بی‌بیاں
 
 ۲
 شام غریباں کا غمناک منظر
 خیمے ہمارے تھے شعلوں کی ضد پر
-بستر جلا بھای سجاد کا
+بستر جلا بھائی سجاد کا
 گہوارہء بے زباں بھی جلا
 منظر تھا وہ الحفیظ و الامان
 
 ۳
-جب بن میں آی گیارہ محرم
+جب بن میں آئی گیارہ محرم
 بابا تھا مجھ پر اسیری کا عالم
 پھر میرے دل پر ستم یہ ہوا
 نیزے پہ سر آپ کا آ گیا
@@ -118,9 +121,9 @@ romanLyrics: |-
 ۵
 پھر کان زخمی کرتہ جلا تھا
 چھالے زباں پر سوکھا گلا تھا
-سوتی تو سونے نہ دیتے زرا
-روی تو رونے پہ پہرا لگا
-مجھ پر ہوی ہے بڑی سختیاں
+سوتی تو سونے نہ دیتے ذرا
+روئی تو رونے پہ پہرا لگا
+مجھ پر ہوئی ہے بڑی سختیاں
 
 ۶
 تھا یہ تقاضہ انکی وفا کا
@@ -131,14 +134,14 @@ romanLyrics: |-
 
 ۷
 ہاں میرے بابا ہے یاد اب بھی
-جب پشت ناقہ سے میں گر گیء تھی
+جب پشت ناقہ سے میں گر گئی تھی
 تم سے بچھڑ کر میں سوتی نہ تھی
-آغوش زہرا میں نیند آ گیء
-بعد اسکے پھر نیند آی کہاں
+آغوش زہرا میں نیند آ گئی
+بعد اسکے پھر نیند آئی کہاں
 
 ۸
 بالوں پہ میرے جو ہے سفیدی
-غم کی فضاییں دیکھی ہے ایسی
+غم کی فضائیں دیکھی ہے ایسی
 نوحوں کا کمسن صحیفہ ہوں میں
 اک چار سالہ ضعیفہ ہوں میں
 خم ہے کمر میرے مثل کماں

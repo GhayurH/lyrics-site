@@ -5,63 +5,64 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khuda ne jab malakul maut ko ye izn diya
-  Ke roohe hazrate sarwar nikaal kar le aa
-  Rahe khayaal ke shabbir ko na ho eeza
-  Hussain pehle hi zakhmon se choor choor hua
+  Khuda ne jab Malak-ul-maut ko ye izn diya
+  Ke ruh-e-Hazrat-e-Sarwar nikaal kar le aa
+  Rahe khayaal ke Shabbir ko na ho iza
+  Husain pehle hi zakhmoṅ se chur chur hua
+  Malak pukaara ye mujhse na ho sakega Khuda
 
   1
-  Malak pukara ye mujhse na ho sakega khuda
-  Mai kis tarha se nikalun badan se jaan e hussain
-  Bahot hi saqt hai ya rab ye imtehane hussain
+  Main kis tarah se nikaaluṅ badan se jaan-e-Husain
+  Bahot hi sakht hai ya Rab ye imtihaan-e-Husain
 
   2
-  Laga hai zaqme tabar beh raha hai sar se lahoo
-  Bhare hai khoon mein jaane rasool ke gaysoo
-  Khareeb jake rakhun dil pe kis tarha khaboo
-  Ke is lahoo mein to hai fatema ke doodh ki boo
+  Laga hai zakhm-e-tabar beh raha hai sar se lahu
+  Bhare haiṅ khun mein jaan-e-Rasul ke gesu
+  Qarib jaa ke rakhuṅ dil pe kis tarah qaabu
+  Ke is lahu mein to hai Fatima ke dudh ki bu
 
   3
-  Mai phir in aankhon pe dhaun sitam ye kya hai zaroor
-  Bichad ke wo ali akbar se hogayi be-noor
-  Nida ye aayi dahan se nikaal jaan e huzoor
-  Kaha dahan mein to kaante pade hai rabbe ghafoor
+  Main phir in aankhoṅ pe dhaauṅ sitam ye kya hai zarur
+  Bichhar ke wo Ali Akbar se ho gayi benur
+  Nida ye aayi dahan se nikaal jaan-e-Huzur
+  Kaha dahan mein to kaante pare haiṅ Rabb-e-Ghafur
 
   4
   Nida ye aayi ke gardan se khainch jaan inki
-  Kaha mai kya karoon gardan pe chal rahi hai churi
-  Churi pakad ke ye chillaati hai koi bibi
-  Na zibha kar mere bache ko mai dua dungi
+  Kaha main kya karuṅ gardan pe chal rahi hai chhuri
+  Chhuri pakar ke ye chillaati hai koi Bibi
+  Na zibh kar mere bachche ko main dua duṅgi
 
   5
-  Nida ye aayi ke seene se khabz kar le jaan
-  Kaha wo teeron se chalni hai ay mere rehman
-  Abhi to maar ke barchi hata tha ek shaitan
-  Aur ab to hai tahe zaanu e shimr ye quran
+  Nida ye aayi ke sine se qabz kar le jaan
+  Kaha wo tiroṅ se chhalni hai ae mere Rahman
+  Abhi to maar ke barchhi hata tha ik shaitan
+  Aur ab to hai tah-e-zaanu-e-Shimr ye Quran
 
   6
   Nida ye aayi ke mazlumiyat ke rutba shinaas
-  Kamar se khaich le saabir ke jaan be waswaas
-  Kaha malak ne tadap ke ba-dard o hasrat o yaas
-  Kamar to toot gayi jab se mar gaye abbas
+  Kamar se khinch le Saabir ke jaan bewaswaas
+  Kaha malak ne tarap ke ba-dard o hasrat o yaas
+  Kamar to tut gayi jab se mar gaye Abbas
 
   7
-  Falak se tab huwa roohul ameen ka ran mein nuzool
-  Kaha pukaar ke moo dhamp lo baraye batool
-  Pisar ki laash pe kholengi baal binte rasool
-  Sada ye thi malukul maut ki ba huzn o malool
+  Falak se tab hua Ruh-ul-Amiṅ ka ran mein nuzul
+  Kaha pukaar ke munh dhaanp lo baraaye Batul
+  Pisar ki laash pe kholeṅgi baal bint-e-Rasul
+  Sada ye thi Malak-ul-maut ki ba-huzn o malul
 
   8
-  Mutee e hukm hoo par fikr hai ye ay yazdan
-  Har ek uzr hai zaqmi lagaun haath kahan
-  Khuda pukara ye mushkil karenge hum aasan
-  Na tu nikaal mere aashiqe ghareeb ki jaan
-  Mai khud nikaal raha hoon badan se jaane hussain
-  Ke khatm hone ko ab hai ye imtehane hussain
+  Muti-e-hukm huṅ par fikr hai ye ae Yazdaaṅ
+  Har ek uzr hai zakhmi lagaauṅ haath kahaaṅ
+  Khuda pukaara ye mushkil kareṅge hum aasaaṅ
+  Na tu nikaal mere aashiq-e-gharib ki jaaṅ
+  Main khud nikaal raha huṅ badan se jaan-e-Husain
+  Ke khatm hone ko ab hai ye imtihaan-e-Husain
 # source_id: nohayonline:96d0bb35903379114b9e
 # source_url: https://www.nohayonline.com/details_content.php?id=885
 # raw_sha256: 82042ff0e4587b867c62e0745ee49d27d2c4fd8b345b4f567dd01d4209efd406
@@ -70,9 +71,9 @@ romanLyrics: |-
 کہ روح حضرت سرور نکال کر لے آ
 رہے خیال کہ شبیر کو نہ ہو ایذا
 حسین پہلے ہی زخموں سے چور چور ہوا
+ملک پکارا یہ مجھ سے نہ ہو سکے گا خدا
 
 ۱
-ملک پکارا یہ مجھ سے نہ ہو سکے گا خدا
 میں کس طرح سے نکالوں بدن سے جان حسین
 بہت ہی سخت ہے یارب یہ امتحان حسین
 
@@ -91,7 +92,7 @@ romanLyrics: |-
 ۴
 ندا یہ آی کہ گردن سے کھینچ جان انکی
 کہا میں کیا کروں گردن پہ چل رہی ہے چھری
-چھری پکڑ کے یہ چلاتی ہے کوی بی بی
+چھری پکڑ کے یہ چلاتی ہے کوئی بی‌بی
 نہ ذبح کر میرے بچے کو میں دعا دوں گی
 
 ۵

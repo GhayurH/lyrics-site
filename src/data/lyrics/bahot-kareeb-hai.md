@@ -1,48 +1,49 @@
 ---
 title: "بہت قریب ہے کوثر سے کربلائے حُسین"
-alternateTitle: "Bahot Kareeb Hai"
+alternateTitle: "Bahot Qarib Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bahot Kareeb Hai"]
 published: false
 romanLyrics: |-
-  Bahot kareeb hai kausar se karbala e hussain
-  Waseela haq ka koi nahi siwae hussain
+  Bahot qarib hai Kausar se Karbala-e-Husain
+  Wasila haq ka koi nahiṅ siwaaye Husain
 
   1
-  Bata rahi ye tareekhe karbala hum ko
-  Jise mitaye zamana usay banaye hussain
+  Bata rahi hai ye taarikh-e-Karbala hum ko
+  Jise mitaaye zamaana use banaaye Husain
 
   2
-  Jo aale paak ke munkir hai unko batlado
-  Zia e deen labe hai faqad zia e hussain
+  Jo Aal-e-paak ke munkir haiṅ unko batla do
+  Ziya-e-din lab-e hai faqat ziya-e-Husain
 
   3
   Na kooch jis ke be-rang jab nazar aaye
-  Wo zere khanjar e qaatil bhi muskuraye hussain
+  Wo zer-e-khanjar-e-qaatil bhi muskuraaye Husain
 
   4
-  Madad ko sheh ne pukara tha jab dam e aakhir
-  Fiza mein goonj rahi hai wohi sada e hussain
+  Madad ko Shah ne pukaara tha jab dam-e-aakhir
+  Fiza mein gunj rahi hai wohi sada-e-Husain
 
   5
-  Udoo ye samjhe ke quran le ke aaye hai
-  Jab apne haaton pe asghar ko leke aaye hussain
+  Adu ye samjhe ke Quran le ke aaye haiṅ
+  Jab apne haathoṅ pe Asghar ko le ke aaye Husain
 
   6
-  Kaha ye laasha e abbas par shahe deen ne
-  Sakina pyasi hai pani kahan se laaye hussain
+  Kaha ye laasha-e-Abbas par Shah-e-diṅ ne
+  Sakina pyaasi hai paani kahaaṅ se laaye Husain
 
   7
-  Zameen pe jab kahin zikre hussain hota hai
-  Falak se aati hai awaaz ab bhi aa ay hussain
+  Zamiṅ pe jab kahiṅ zikr-e-Husain hota hai
+  Falak se aati hai aawaaz ab bhi aa ae Husain
 
   8
-  Siyah habakh hai ya kafire mohabbat hai
-  Nazar muqarb pe jisne nahi wilaye hussain
+  Siyah habakh hai ya kafir-e-muhabbat hai
+  Nazar muqarb pe jisne nahiṅ wilaaye Husain
 # source_id: nohayonline:ab5d5ad176d3efb12152
 # source_url: https://www.nohayonline.com/details_content.php?id=630
 # raw_sha256: b8e00a1897622e24c9e34060e39a36a2a1bc56d8e0a2052613025a8d2a0bae54
@@ -64,7 +65,7 @@ romanLyrics: |-
 
 ۴
 مدد کو شِہ نے پُکارا تھا جب دمِ آخر
-فضائ میں گونج رہی ہے وہی صدائے حُسین
+فضا میں گونج رہی ہے وہی صدائے حُسین
 
 ۵
 عُدو یہ سمجھے کہ قرآن لے کہ آئے ہیں

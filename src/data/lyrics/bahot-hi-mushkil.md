@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Farhan Ali Waris"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jawan ki laash uthana bahot hi mushkil hai
-  Phir usko qaime mein laana bahot hi mushkil hai
+  Jawaaṅ ki laash uthaana bahot hi mushkil hai
+  Phir usko khaime mein laana bahot hi mushkil hai
 
   1
-  Hussain seena e akbar se khaynch lenge sina
-  Sina jigar se chudana bahot hi mushkil hai
+  Husain sina-e-Akbar se khinch leṅge sina
+  Sinaaṅ jigar se chhuraana bahot hi mushkil hai
 
   2
-  Kiya hai teer se asghar ko zibha zaalim ne
-  Yaqeen maa ko dilaana bahot hi mushkil hai
+  Kiya hai tir se Asghar ko zibh zaalim ne
+  Yaqin maaṅ ko dilaana bahot hi mushkil hai
 
   3
-  Hai zakhm itne sakina ke jism par sajjad
-  Badan se kurta chudana bahot hi mushkil hai
+  Haiṅ zakhm itne Sakina ke jism par Sajjad
+  Badan se kurta chhuraana bahot hi mushkil hai
 
   4
-  Itne tukdo mein bati laasha e qasim ban mein
-  Chunke ek gathri mein laana bahot hi mushkil hai
+  Itne tukroṅ mein bati laasha-e-Qasim ban mein
+  Chun ke ik gathri mein laana bahot hi mushkil hai
 
   5
-  Kaha ye sughra se abid ne zakhm itne hai
-  Tujhe galay se lagana bahot hi mushkil hai
+  Kaha ye Sughra se Abid ne zakhm itne haiṅ
+  Tujhe gale se lagaana bahot hi mushkil hai
 
   6
   Ali ki beti ko aati hai sharm shauhar se
-  Nishan rasan ke dikhana bahot hi mushkil hai
+  Nishaaṅ rasan ke dikhaana bahot hi mushkil hai
 
   7
-  Hijaab mein bhi na jaaye shareef zaadi jahan
-  Bina rida wahan jaana bahot hi mushkil hai
+  Hijaab mein bhi na jaaye sharif zaadi jahaaṅ
+  Bina rida wahaaṅ jaana bahot hi mushkil hai
 
   8
-  Teri kareemi hai sajjad ghar mein qaatil ko
-  Bulake khana khilana bahot hi mushkil hai
+  Teri karimi hai Sajjad ghar mein qaatil ko
+  Bula ke khaana khilaana bahot hi mushkil hai
 
   9
-  Nauha-khwano pe hai bibi ka karam ay farhan
-  Warna ye nauha sunana bahot hi mushkil hai
+  Nauha khwaanoṅ pe hai Bibi ka karam ae Farhan
+  Warna ye nauha sunaana bahot hi mushkil hai
 # source_id: nohayonline:7a1b3e98c7cdb05c7b26
 # source_url: https://www.nohayonline.com/details_content.php?id=75
 # raw_sha256: 9f43921aa17e2f0677f0651919cc40c4914a7a24be4f997c63188a7b186ea871
@@ -60,7 +61,7 @@ romanLyrics: |-
 سناں جگر سے چھڑانا بہت ہی مشکل ہے
 
 ۲
-کیا ہے تیر سے اصغر کو زبح ظالم نے
+کیا ہے تیر سے اصغر کو ذبح ظالم نے
 یقین ماں کو دلانا بہت ہی مشکل ہے
 
 ۳
@@ -88,5 +89,5 @@ romanLyrics: |-
 بلاکے کھانا کھلانا بہت ہی مشکل ہے
 
 ۹
-نوحہ خوانوں پہ ہے بی بی کا کرم ای فرحان
+نوحہ خوانوں پہ ہے بی‌بی کا کرم اے فرحان
 ورنہ یہ نوحہ سنانا بہت ہی مشکل ہے
