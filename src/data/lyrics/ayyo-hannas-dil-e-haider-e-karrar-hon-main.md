@@ -1,11 +1,13 @@
 ---
-title: "Ayyo Hannas Dil E Haider E Karrar Hon Main Mir Hasan Mir"
+title: "Ayyo Hannas Dil-e-Haider-e-Karrar Huṅ Main"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
+poet: "Bilal Kazmi"
+reciter: "Mir Hasan Mir"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["Ayyo Hannas Dil E Haider E Karrar Hon Main Mir Hasan Mir"]
 recitationId: "ayyo-hannas-dil-e-haider-e-karrar-hon-main-mir-hasan-mir"
 published: false
 # source_id: tajpoints:cdd46f12d3820b337b2f
@@ -13,7 +15,7 @@ published: false
 # raw_sha256: 42f6cb147efea3b5f8ac73804c4b99782db29074ee474c20038826a8b40f400e
 ---
 
-Ayyo Hannas Dil e Haider e Karrar Hon Main Mir Hasan Mir
+Ayyo Hannas Dil-e-Haider-e-Karrar Huṅ Main
 
 1
 Ayyo Hannas Dil-e-Haider-e-Karrar Hoon Main

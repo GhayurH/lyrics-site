@@ -1,80 +1,83 @@
 ---
 title: "اے زہرا کے بابا اے شاہ مدینہ"
-alternateTitle: "Ay Zahra Ke Baba"
+alternateTitle: "Ae Zahra Ke Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Zahra Ke Baba"]
 published: false
 romanLyrics: |-
-  Ay zahra ke baba ay shaahe madina
-  Yun beti ko teri sataya gaya hai
+  Ae Zahra ke baba ae Shah-e-Madina
+  Yuṅ beti ko teri sataaya gaya hai
+
   Shikasta hai pehlu shikasta hai baazu
-  Lahoo fatema ka bahaya gaya hai
+  Lahu Fatema ka bahaaya gaya hai
 
   1
-  Madine ki kya thi mai haalat bataun
-  Tumhe sayyeda ki musibat bataun
+  Madine ki kya thi main haalat bataauṅ
+  Tumheṅ Sayyeda ki musibat bataauṅ
   Kabhi aag dar par lagayi hai uske
   Kabhi haath us par uthaya gaya hai
 
   2
   Sada aa rahi thi ye ghar hi mita do
-  Jo rehte hai ghar mein unhe bhi jala do
+  Jo rehte haiṅ ghar mein unheṅ bhi jala do
   Taharat ka kaaba jalane ki khaatir
-  Jama'at ko saari bulaya gaya hai
+  Jamaat ko saari bulaaya gaya hai
 
   3
-  Koi bhi na samjha shahe lafata ko
-  Ye gham khaa gaya hai teri fatema ko
-  Madine ki galyion mein qaidi bana kar
-  Tere janasheen ko phiraya gaya hai
+  Koi bhi na samjha Shah-e-La Fata ko
+  Ye gham khaa gaya hai teri Fatema ko
+  Madine ki galiyoṅ mein qaidi bana kar
+  Tere jaanashiṅ ko phiraaya gaya hai
 
   4
-  Na uth'te thay bacche na rukte thay aansu
-  Sambhale farishton ne dono ke baazu
-  Badi mushkilon se janaze se maa ke
-  Hussain o hassan ko hataya gaya hai
+  Na uthte the bachche na rukte the aansu
+  Sambhaale farishtoṅ ne donoṅ ke baazu
+  Bari mushkiloṅ se janaaze se maaṅ ke
+  Husain o Hasan ko hataaya gaya hai
 
   5
-  Ali murtaza ki ajab thi ghareebi
-  Teri laadli par hase jab namazi
-  Sanad kardi tukde mazaak is tarha se
-  Teri sayyeda ka udaya gaya hai
+  Ali Murtaza ki ajab thi gharibi
+  Teri laadli par hanse jab namaazi
+  Sanad kar di tukre mazaaq is tarah se
+  Teri Sayyeda ka uraaya gaya hai
 
   6
   Giri khaak par arsh par rehne waali
-  Shikasta hui uske kaano ki bali
-  Lahoo chashme zahra mein bharne laga tha
-  Tamacha hi aisa lagaya gaya hai
+  Shikasta hui uske kaanoṅ ki baali
+  Lahu chashm-e-Zahra mein bharne laga tha
+  Tamaacha hi aisa lagaaya gaya hai
 
   7
   Ali ko jo masjid bulaya gaya tha
-  Teri laadli ko jalaal aagaya tha
+  Teri laadli ko jalaal aa gaya tha
   Ali ne diya waasta apne haq ka
-  Madine ko aise bachaya gaya hai
+  Madine ko aise bachaaya gaya hai
 
   8
-  Ali ne banayi thi chalees qabrein
-  Pata poochti hai takallum ki aahein
-  Zameen e madina mein jaane kahan par
-  Khazana tumhara chupaya gaya hai
+  Ali ne banaayi thi chaalis qabreṅ
+  Pata puchhti hai Takallum ki aaheṅ
+  Zamin-e-Madina mein jaane kahaaṅ par
+  Khazaana tumhaara chhupaaya gaya hai
 # source_id: nohayonline:1df23ca76af2882bd517
 # source_url: https://www.nohayonline.com/details_content.php?id=3077
 # raw_sha256: 114fa348cd27f98906a379fb5ad582f3a5f46547e4e6b8365fb3db95f8a98b77
 ---
 اے زہرا کے بابا اے شاہ مدینہ
 یوں بیٹی کو تیری ستایا گیا ہے
+
 شکستہ ہے پہلو شکستہ ہے بازو
 لہو فاطمہ کا بہایا گیا ہے
 
 ۱
 مدینے کی کیا تھی میں حالت بتاؤں
 تمہیں سیدہ کی مصیبت بتاؤں
-کبھی آگ در پر لگای ہے اس کے
+کبھی آگ در پر لگائی ہے اس کے
 کبھی ہاتھ اس پر اٹھایا گیا ہے
 
 ۲
@@ -84,7 +87,7 @@ romanLyrics: |-
 جماعت کو ساری بلایا گیا ہے
 
 ۳
-کوی بھی نہ سمجھا شہ لا فتی کو
+کوئی بھی نہ سمجھا شہ لا فتی کو
 یہ غم کھا گیا ہے تیری فاطمہ کو
 مدینے کی گلیوں میں قیدی بنا کر
 تیرے جانشیں کو پھرایا گیا ہے
@@ -108,7 +111,7 @@ romanLyrics: |-
 طمانچہ ہی ایسا لگایا گیا ہے
 
 ۷
-علی‌ کو جو مسجد بلایا گیا تھا
+علی کو جو مسجد بلایا گیا تھا
 تیری لاڈلی کو جلال آ گیا تھا
 علی نے دیا واسطہ اپنے حق کا
 مدینے کو ایسے بچایا گیا ہے

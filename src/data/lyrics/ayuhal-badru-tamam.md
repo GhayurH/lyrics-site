@@ -6,62 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaime se is tarha se laila ka chand nikla
-  Tha arsh se zameen tak phaila hua ujaala
-  Lab phol aankh jugnu aabroo hilaal jaise
-  Zulfein se aah jaise kamli mein kamli waala
-  Shabihe mustafa akbar jamaal e karbala akbar
-  Jo dekhe wo pukar uthe rakhe tujhko khuda akbar
+  Khaime se is tarah se Laila ka chaand nikla
+  Tha arsh se zamin tak phaila hua ujaala
+  Lab phul aankh jugnu aabru hilaal jaise
+  Zulfeṅ se aah jaise kamli mein kamli waala
+  Shabih-e-Mustafa Akbar jamaal-e-Karbala Akbar
+  Jo dekhe wo pukaar uthe rakhe tujhko Khuda Akbar
   Ayuhal badru tamaam
 
   1
-  Wo palkein aayaton jaisi wo quran ki tarha seena
-  Wo hyder ki tarha baazu wo lehja mustafa jaisa
-  Ali samjhun nabi kehdun kahun mai tujhko kya akbar
+  Wo palkeṅ aayatoṅ jaisi wo Quraan ki tarah sina
+  Wo Haidar ki tarah baazu wo lehja Mustafa jaisa
+  Ali samjhuṅ Nabi keh duṅ kahuṅ main tujhko kya Akbar
 
   2
-  Wo kausar se dhule gaysu hilaal e eid se abroo
-  Badan se chan ke aati thi rasool e pak ki khushboo
-  Bana kar tujhko naazan tha mohamed ka khuda akbar
+  Wo Kausar se dhule gesu hilaal-e-Id se abru
+  Badan se chhan ke aati thi Rasul-e-Paak ki khushbu
+  Bana kar tujhko naazaaṅ tha Muhammad ka Khuda Akbar
 
   3
-  Zameen par paon rakhte thay falak ko rashk aata tha
-  Falak ko dekh lete gar sitara jhoom jaata tha
-  Sitaare maangte thay tere chahre se ziya akbar
+  Zamin par paaoṅ rakhte the falak ko rashk aata tha
+  Falak ko dekh lete gar sitaara jhum jaata tha
+  Sitaare maangte the tere chehre se ziya Akbar
 
   4
-  Balayein maa liya karti phupi naad e ali padti
-  Lage na nazre bad unko behan har dam dua karti
-  Liya karti thi bose husn e yusuf ki ada akbar
+  Balaaeṅ maaṅ liya karti phuphi Naad-e-Ali parhti
+  Lage na nazar-e-bad unko behan har dam dua karti
+  Liya karti thi bose husn-e-Yusuf ki ada Akbar
 
   5
-  Azan e subho ka manzar sar e karbobala kya tha
-  Azan kya thi wo akbar ki nabi ka saaf lehja tha
-  Kiya sadqa to mitti ban gayi khaak e shifa akbar
+  Azaan-e-subh ka manzar sar-e-Karb o Bala kya tha
+  Azaaṅ kya thi wo Akbar ki Nabi ka saaf lehja tha
+  Kiya sadqa to mitti ban gayi khaak-e-shifa Akbar
 
   6
-  Sina seene pe jab khaayi sada shabbir ki aayi
-  Ali akbar hui rukhsat meri aankhon se beenayi
-  Tere marne se zainab ka kaleja phat gaya akbar
+  Sina sine pe jab khaayi sada Shabbir ki aayi
+  Ali Akbar hui rukhsat meri aankhoṅ se binaai
+  Tere marne se Zainab ka kaleja phat gaya Akbar
 
   7
-  Jawani raas na aayi kaleje par sina khaayi
-  Madine mein behan khush thi ke ghar aayega ab bhai
-  Magar ye khwaab tha us ka jo poora na hua akbar
+  Jawaani raas na aayi kaleje par sinaaṅ khaayi
+  Madine mein behan khush thi ke ghar aayega ab bhaai
+  Magar ye khwaab tha us ka jo pura na hua Akbar
 
   8
-  Tha armaan byaah ka dil mein lagayi khoon ki mehendi
-  Kaha laila ne mayyat par rachayi kis tarha shaadi
-  Jawan ho kar ye kaisa daagh maadar ko diya akbar
+  Tha armaaṅ byaah ka dil mein lagaayi khun ki mehndi
+  Kaha Laila ne mayyat par rachaayi kis tarah shaadi
+  Jawaaṅ ho kar ye kaisa daagh maadar ko diya Akbar
 
   9
-  Ali akbar ka sadqa hai qalam rehaan kehta hai
-  Wahan mai mohtaram tehra jahan majlis hai nauha hai
-  Ab is izzat ke badle rab se maangun aur kya akbar
+  Ali Akbar ka sadqa hai qalam Rehaan kehta hai
+  Wahaaṅ main mohtaram thehra jahaaṅ majlis hai nauha hai
+  Ab is izzat ke badle Rab se maanguṅ aur kya Akbar
 # source_id: nohayonline:71a3ff113b7cf8aaa300
 # source_url: https://www.nohayonline.com/details_content.php?id=1890
 # raw_sha256: 47ce56a148996454c2452d317675cac39465f0da5f767a6bda0731fa42b3c848
@@ -91,31 +92,31 @@ romanLyrics: |-
 ستارے مانگتے تھے تیرے چہرے سے ضیا اکبر
 
 ۴
-بلاییں ماں لیا کرتی پھپھی ناد علی پڑتی
+بلائیں ماں لیا کرتی پھپھی ناد علی پڑھتی
 لگے نہ نظر بد انکو بہن ہر دم دعا کرتی
 لیا کرتی تھی بوسے حسن یوسف کی ادا اکبر
 
 ۵
 اذان صبح کا منظر سر کربوبلا کیا تھا
 اذاں کیا تھی وہ اکبر کی نبی کا صاف لہجہ تھا
-کیا صدقہ تو مٹی بن گیء خاک شفا اکبر
+کیا صدقہ تو مٹی بن گئی خاک شفا اکبر
 
 ۶
-سنا سینے پہ جب کھای صدا شبیر کی آی
-علی اکبر ہوی رخصت میری آنکھوں سے بینائی
+سنا سینے پہ جب کھائی صدا شبیر کی آئی
+علی اکبر ہوئی رخصت میری آنکھوں سے بینائی
 تیرے مرنے سے زینب کا کلیجہ پھٹ گیا اکبر
 
 ۷
-جوانی راس نہ آی کلیجے پر سناں کھای
-مدینے میں بہن خوش تھی کہ گھر آے گا اب بھای
+جوانی راس نہ آئی کلیجے پر سناں کھائی
+مدینے میں بہن خوش تھی کہ گھر آئے گا اب بھائی
 مگر یہ خواب تھا اس کا جو پورا نہ ہوا اکبر
 
 ۸
-تھا ارماں بیاہ کا دل میں لگای خون کی مہندی
-کہا لیلیٰ نے میت پر رچای کس طرح شادی
+تھا ارماں بیاہ کا دل میں لگائی خون کی مہندی
+کہا لیلیٰ نے میت پر رچائی کس طرح شادی
 جواں ہو کر یہ کیسا داغ مادر کو دیا اکبر
 
 ۹
 علی اکبر کا صدقہ ہے قلم ریحان کہتا ہے
-وہاں میں محترم ٹہرا جہاں مجلس ہے نوحہ ہے
+وہاں میں محترم ٹھہرا جہاں مجلس ہے نوحہ ہے
 اب اس عزت کے بدلے رب سے مانگوں اور کیا اکبر
