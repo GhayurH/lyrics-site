@@ -1,53 +1,54 @@
 ---
 title: "اے قمر بنی ہاشم غم کیسے ہو کم تیرا"
-alternateTitle: "Ay Qamre Bani Hashim"
+alternateTitle: "Ae Qamr-e-Bani Hashim"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Taha Istefa"
+reciter: "Mir Arif Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Qamre Bani Hashim"]
 published: false
 romanLyrics: |-
-  Ay qamre bani hashim gham kaise ho kam tera
-  Sadiyon se rulaata hai abbas alam tera
+  Ae qamr-e-Bani Hashim gham kaise ho kam tera
+  Sadiyoṅ se rulaata hai Abbas alam tera
 
   1
-  Is daur pur khatar may is daur be-amaan may
-  Bas ek aasra hai sarkar haram tera
+  Is daur-e-pur khatar mein is daur-e-beamaan mein
+  Bas ek aasra hai sarkaar-e-haram tera
 
   2
-  Lagta hai ke lipti hai ammu se sakina jaan
-  Jab dekhte hai ek jaa mashkeeza alam tera
+  Lagta hai ke lipti hai ammu se Sakina jaan
+  Jab dekhte haiṅ ek jaa mashkiza alam tera
 
   3
-  Phookon se nahi hoga gul shamme aza sheh ka
-  Hai paasban khudrat jis gham ka wo tera
+  Phunkoṅ se nahiṅ hoga gul shama-e-aza Shah ka
+  Hai paasbaan qudrat jis gham ka wo tera
 
   4
-  Ye seena zani sheh ki matam ye lahoo aala
-  Ehsaan zamane par karta hai raqam tera
+  Ye sina zani Shah ki maatam ye lahu aala
+  Ehsaan zamaane par karta hai raqam tera
 
   5
-  Har dard ki manzil se guzre hai ye keh keh kar
-  Ta hashr rahoo maula mamnoon karam tera
+  Har dard ki manzil se guzre haiṅ ye keh keh kar
+  Taa hashr rahuṅ Maula mamnun-e-karam tera
 
   6
-  Sheh kehte thay ay bhai tooti hai kamar meri
-  Bardaasht karoo kaise ghurbat may alam tera
+  Shah kehte the ae bhai tuti hai kamar meri
+  Bardaasht karuṅ kaise ghurbat mein alam tera
 
   7
-  Kin sadmon se guzra hai tu jis se mere ghazi
-  Alfaz nahi jin may ho dard raqam tera
+  Kin sadmoṅ se guzra hai tu jis se mere Ghazi
+  Alfaaz nahiṅ jin mein ho dard raqam tera
 
   8
-  Tanhaai e sarwar ka tha haal ajab ran may
+  Tanhaai-e-Sarwar ka tha haal ajab ran mein
   Lipte huwe laashe se karte rahe gham tera
 
   9
-  Jis naam ka bharti hai dam ab bhi wafa arif
-  Be tok kahe taha abbas wo dam tera
+  Jis naam ka bharti hai dam ab bhi wafa Arif
+  Be tok kahe Taha Abbas wo dam tera
 # source_id: nohayonline:76cf9f0f8159b8d3c8ba
 # source_url: https://www.nohayonline.com/details_content.php?id=1329
 # raw_sha256: 1fd5a15115b3571a2c2c31149e500b28755438b5777c4ab9bccbed039d7e1bb8
@@ -76,7 +77,7 @@ romanLyrics: |-
 تا حشر رہوں مولا ممنون کرم تیرا
 
 ۶
-شہ کہتے تھے اے بھای ٹوٹی ہے کمر میری
+شہ کہتے تھے اے بھائی ٹوٹی ہے کمر میری
 برداشت کروں کیسے غربت میں الم تیرا
 
 ۷
@@ -84,8 +85,8 @@ romanLyrics: |-
 الفاظ نہیں جن میں ہو درد رقم تیرا
 
 ۸
-تنہائیء سرور کا تھا حال عجب رن میں
-لپٹے ہوے لاشے سے کرتے رہے غم تیرا
+تنہائیِ سرور کا تھا حال عجب رن میں
+لپٹے ہوئے لاشے سے کرتے رہے غم تیرا
 
 ۹
 جس نام کا بھرتی ہے دم اب بھی وفا عارف

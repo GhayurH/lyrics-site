@@ -1,48 +1,50 @@
 ---
 title: "اے راکب دوشِ شاہ لو لاک"
-alternateTitle: "Ay Rakibe Doshe"
+alternateTitle: "Ae Raakib-e-Dosh-e-Shah-e-Lau Laak"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Rakibe Doshe"]
 published: false
 romanLyrics: |-
-  Ay raakibe doshe shaahe lau laak
-  Ba izz o wiqar wa hussaina
-  Seene pa tumhare ya shahe paak
-  Qatil ho sawaar wa hussaina
+  Ae raakib-e-dosh-e-Shah-e-lau laak
+  Ba izz o waqaar wa Husaina
+
+  Sine pe tumhaare ya Shah-e-paak
+  Qaatil ho sawaar wa Husaina
 
   1
-  Farq aap ka aur sinaan e khooli
-  Sar aap ka aur makaan e khooli
-  Aalood e khaakh wo rukhe paak
-  Zulfon may ghubaar wa hussaina
+  Farq aap ka aur sinaan-e-Khuli
+  Sar aap ka aur makaan-e-Khuli
+  Aaluda-e-khaak wo rukh-e-paak
+  Zulfoṅ mein ghubaar wa Husaina
 
   2
-  Ay khusrawe ko shaheer sad haif
-  Ek tan tera laakhon teer sad haif
-  Ghodon ke sumon wo jisme sad chaak
-  Mai tere nisaar wa hussaina
+  Ae khusraw-e-ko shahir sad haif
+  Ek tan tera laakhoṅ tir sad haif
+  Ghoroṅ ke sumoṅ wo jism-e-sad chaak
+  Main tere nisaar wa Husaina
 
   3
-  Majrooh o al-amaan wo seena
-  Zaanu wo kahan kahan wo seena
-  Wo bosagahe payambar e lau laak
-  Aur taygh ki dhaar wa hussaina
+  Majruh o al-amaan wo sina
+  Zaanu wo kahaaṅ kahaaṅ wo sina
+  Wo bosa gaah-e-payambar-e-lau laak
+  Aur tegh ki dhaar wa Husaina
 
   4
-  Khwahar teri anjuman may jaaye
-  Beti teri aur tamache khaye
-  Beta tera khaynche ya shahe paak
-  Oonton ki mehaar wa hussaina
+  Khwaahar teri anjuman mein jaaye
+  Beti teri aur tamaache khaaye
+  Beta tera kheṅche ya Shah-e-paak
+  Uṅtoṅ ki mahaar wa Husaina
 
   5
-  Kuch sirf ghayour rahi nahi hai
-  Matam may tere har ek hazeen hai
-  Ya shaah hai tere gham may ghamnaak
-  Aflaak o behaar wa hussaina
+  Kuchh sirf ghayur rahi nahiṅ hai
+  Maatam mein tere har ek haziṅ hai
+  Ya Shah hai tere gham mein ghamnaak
+  Aflaak o bahaar wa Husaina
 # source_id: nohayonline:66e65b6e151ed603e0e4
 # source_url: https://www.nohayonline.com/details_content.php?id=2034
 # raw_sha256: 6883e62a05f8ba78f35b7061648bbf9672fe04c4537e0c80fce522abfb0fc573
@@ -50,6 +52,7 @@ romanLyrics: |-
 
 اے راکب دوشِ شاہ لو لاک
 بہ عزو وقار واحسینا
+
 سینے پہ تمہارے یا شہ پاک
 قاتل ہو سوار وا حسینا
 
@@ -57,7 +60,7 @@ romanLyrics: |-
 فرق آپ کا اور سنان خولی
 سر آپ کا اور مکان خولی
 آلودہء خاک وہ رخ پاک
-ذوالفوں میں غبار وا حسینا
+زلفوں میں غبار وا حسینا
 
 ۲
 اے خسرو کو شہیر صد حیف
@@ -72,8 +75,8 @@ romanLyrics: |-
 اور تیغ کی دھار وا حسینا
 
 ۴
-خواہر تیری انجمن میں جاے
-بیٹی تیری اور طمانچے کھاے
+خواہر تیری انجمن میں جائے
+بیٹی تیری اور طمانچے کھائے
 بیٹا تیرا کھینچے یا شہ پاک
 اونٹوں کی مہار وا حسینا
 
