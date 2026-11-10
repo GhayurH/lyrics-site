@@ -1,44 +1,46 @@
 ---
 title: "اے بےکفن حسین غریب الوطن حسین"
-alternateTitle: "Ay Bekafan Hussain"
+alternateTitle: "Ae Bekafan Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Masroor"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Bekafan Hussain"]
 published: false
 romanLyrics: |-
-  Ay bekafan hussain ghareebul watan hussain
+  Ae bekafan Husain gharib-ul-watan Husain
 
   1
-  Ab bhi falak se aati hai awaaz e fatema
-  Ummat ne haye tujhko kafan bhi nahi diya
+  Ab bhi falak se aati hai aawaaz-e-Fatema
+  Ummat ne haaye tujh ko kafan bhi na diya
 
   2
-  Aayi na kabhi laal tujhe dhoop mein le kar
-  Ab tapti zameen par hai tera laashaye be-sar
-  Uryan badan hussain ghareebul watan hussain
+  Aayi na kabhi laal tujhe dhup mein le kar
+  Ab tapti zamin par hai tera laashaye besar
+  Uryaaṅ badan Husain gharib-ul-watan Husain
 
   3
-  Soti thi sada laqte jigar tujhko sula kar
-  Chakki bhi jo peesi hai to godhi mein lita kar
+  Soti thi sada lakht-e-jigar tujh ko sula kar
+  Chakki bhi jo pisi hai to godi mein lita kar
 
   4
-  Ummat ne khoob ajre risalat ada kiya
-  Pamaal teri laash ko baad e qaza kiya
-  Ay gulbadan hussain ghareebul watan hussain
+  Ummat ne khub ajr-e-risalat ada kiya
+  Pamaal teri laash ko baad-e-qaza kiya
+  Ae gulbadan Husain gharib-ul-watan Husain
 
   5
-  Uff qabr mein bhi chain mila muhko na dilbar
-  Ta hashr yuhin roti rahegi teri madar
-  Waqte muhan hussain ghareebul watan hussain
+  Uff qabr mein bhi chain mila mujh ko na dilbar
+  Ta hashr yuṅhi roti rahegi teri maadar
+  Waqt-e-muhan Husain gharib-ul-watan Husain
 
   6
   Masroor kaam aayega girya ye qabr mein
-  Ay kaash lab pe ho mere nauha ye hashr mein
-  Tashna dahan hussain ghareebul watan hussain
+  Ae kaash lab pe ho mere nauha ye hashr mein
+  Tashna dahan Husain gharib-ul-watan Husain
+# editorial_uncertainty: Audio/print needed for stanza 2 laashaye versus Urdu laasha, stanza 4 conflicting word order, and stanza 5 source muhan pronunciation against محن. Archived readings retained where unresolved.
 # source_id: nohayonline:0716a8272df882dd29e3
 # source_url: https://www.nohayonline.com/details_content.php?id=150
 # raw_sha256: eb8224e2d698c9c34fec78b015510697c2dc36625444b1152fe7017d01c0a970
@@ -50,7 +52,7 @@ romanLyrics: |-
 امّت نے ہاے تجھ کو کفن بھی نہ دیا
 
 ۲
-آئ نہ کبھی لال تجھے دھوپ میں لےکر
+آئی نہ کبھی لال تجھے دھوپ میں لے کر
 اب تپتی زمین پر ہے تیرا لاشہ بےسر
 عریاں بدن حسین غریب الوطن حسین
 
@@ -69,6 +71,6 @@ romanLyrics: |-
 وقت محن حسین غریب الوطن حسین
 
 ۶
-مسرور کام آۓ گا گریہ یہ قبر میں
+مسرور کام آئے گا گریہ یہ قبر میں
 اے کاش لب پہ ہو میرے نوحہ یہ حشر میں
 تشنہ دہن حسین غریب الوطن حسین
