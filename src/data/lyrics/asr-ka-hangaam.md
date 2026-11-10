@@ -6,41 +6,42 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Ahsan"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Asr ka hangam hai aur Zainab dilgir hai
-  
+  Asr ka hangaam hai aur Zainab dilgir hai
+
   1
-  Khanjar o tir o sinaan hai naiza o shamsheer hai
-  Har taraf hathyaar hai aur darmiyan shabbir hai
-  Haye peshani pe Sheh ki hurmula ka teer hai
-  Khoon mein doobi hui islam ki tasveer hai
-  
+  Khanjar o tir o sinaaṅ hai naiza o shamshir hai
+  Har taraf hathyaar hai aur darmiyaaṅ Shabbir hai
+  Haye peshaani pe Sheh ki Hurmula ka tir hai
+  Khun mein dubi hui Islam ki tasvir hai
+
   2
-  Dard ka har aik manzar hai nazar ke saamne
-  Shimr ke haathon mein khanjar hai nazar ke saamne
-  Bhai ka kat’ta hua sar hai nazar ke saamne
-  Zibh hote hain Husain aur saamne hamsheer hai
-  
+  Dard ka har ek manzar hai nazar ke saamne
+  Shimr ke haathoṅ mein khanjar hai nazar ke saamne
+  Bhai ka katta hua sar hai nazar ke saamne
+  Zibh hote haiṅ Husain aur saamne hamshir hai
+
   3
   Garm reti par tarapta hai dil-e-Zehra ka chain
   Ghir chuka hai barchhiyoṅ mein Mustafa ka nur-e-ain
-  Chand lamho mein abhi kat jayega halq-e-Husain
-  Karbala ke ban mein tanhaai hai aur shabbir hai
-  
+  Chand lamhoṅ mein abhi kat jaayega halq-e-Husain
+  Karbala ke ban mein tanhaai hai aur Shabbir hai
+
   4
-  Ab siyaah aandhi chalegi aayenge ab zalzale
-  Gardan-e-Shabbir hogi shimr ke khanjar talay
-  Ek rasan mein honge ab baara aseeron ke galay
-  Ab tamache hai musalsal dukhtar-e-Shabbir hai
-  
+  Ab siyaah aandhi chalegi aayeṅge ab zalzale
+  Gardan-e-Shabbir hogi Shimr ke khanjar tale
+  Ek rasan mein hoṅge ab baarah asiroṅ ke gale
+  Ab tamaanche haiṅ musalsal dukhtar-e-Shabbir hai
+
   5
-  Karbala hai haq paraston ke liye kul kainat
-  Karbala ke haath mein hum ne diye hai apne haath
-  Jaan bhi jaaye to ahsan haq ka chodenge na saath
-  Jaante hai hum yehi to maqsad-e-Shabbir hai
+  Karbala hai haq parastoṅ ke liye kul kaainaat
+  Karbala ke haath mein hum ne diye haiṅ apne haath
+  Jaan bhi jaaye to Ahsan haq ka chhoreṅge na saath
+  Jaante haiṅ hum yehi to maqsad-e-Shabbir hai
 # source_id: nohayonline:9388e655a32a382be90c
 # source_url: https://www.nohayonline.com/details_content.php?id=1953
 # raw_sha256: d097a6d1c30f94ce4cd78685b0986d15d5192035ad8cb46710eb87f8a5f33371

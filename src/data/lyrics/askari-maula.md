@@ -6,66 +6,67 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye gham wo gham hai ke dono jahaṅ rote hain
-  Yateem aaj Imam-e-Zaman hote hain
+  Ye gham wo gham hai ke donoṅ jahaan rote haiṅ
+  Yatim aaj Imam-e-Zamaan hote haiṅ
   Haye Hasan Askari maula
-  Ae bin-e-Zehra askari maula
-  Shah-e-Samarra askari maula
-  Ae bin-e-Zehra askari maula
+  Ae bin-e-Zehra Askari maula
+  Shah-e-Samarra Askari maula
+  Ae bin-e-Zehra Askari maula
 
   1
-  Haye qayamat ki ghadi aa gayi kaisi
-  Saaye se mehroom tere hogaye mehdi
+  Haye qayamat ki ghari aa gayi kaisi
+  Saaye se mehrum tere ho gaye Mehdi
   Hoke juda rota raha aap ka beta
-  Ay mere baba askari maula
+  Ae mere baba Askari maula
 
   2
-  Kaisa aseeri ka sitam tumpe hua hai
-  Tere liye ghar tera zindan bana hai
+  Kaisa asiri ka sitam tum pe hua hai
+  Tere liye ghar tera zindaan bana hai
   Maula tera ghar mein hua dafn janaza
-  Haye ghurbata askari maula
+  Haye ghurbata Askari maula
 
   3
-  Samarra har saal chale aate hain zawwar
-  Aap ka taboot uthaate hai azadaar
-  Farsh-e-Aza bichta raha bichta rahega
-  Lijiye pursa askari maula
+  Samarra har saal chale aate haiṅ zawwar
+  Aap ka tabut uthaate haiṅ azadaar
+  Farsh-e-aza bichhta raha bichhta rahega
+  Lijiye pursa Askari maula
 
   4
-  Saare azadaron ke lab par ye dua hai
+  Saare azadaaroṅ ke lab par ye dua hai
   Waasta tujhko tere bete ka diya hai
-  Dil mein basa rauza tera mehdi ke baba
-  Hum ko bulana askari maula
+  Dil mein basa rauza tera Mehdi ke baba
+  Hum ko bulaana Askari maula
 
   5
-  Qaidi o mazloom mere gyaarwe sarkar
-  Dene ko pursa tumhe aaye hai azadaar
-  Pursa qubool ho ae mere Syed o sardar
-  Hum log teri nazre karam ke hai talabgaar
+  Qaidi o mazlum mere gyaarweiṅ sarkar
+  Dene ko pursa tumheiṅ aaye haiṅ azadaar
+  Pursa qubul ho ae mere Syed o sardar
+  Hum log teri nazr-e-karam ke haiṅ talabgaar
   Gham ye tera dil mein sada zinda rahega
-  Roti hai dunya askari maula
+  Roti hai dunya Askari maula
 
   6
   Jab bhi tere naam ki hoti hai ye majlis
-  Saath mein zahra ke chali aati hai narjis
-  Dekh zara mehve buka hai teri zauja
-  Karti hai nauha askari maula
+  Saath mein Zahra ke chali aati hai Narjis
+  Dekh zara mahv-e-buka hai teri zauja
+  Karti hai nauha Askari maula
 
   7
-  Parda-e-Ghaibat mein jo beta hai tumhara
-  Bhejein usay jald pareshan hai dunya
-  Sunlo zara behre khuda waaris e kaaba
-  Hai ye ilteja askari maula
+  Parda-e-ghaibat mein jo beta hai tumhaara
+  Bhejeiṅ use jald pareshaan hai dunya
+  Sun lo zara bahr-e-Khuda waaris-e-Kaaba
+  Hai ye iltija Askari maula
 
   8
-  Mesum o Arsalan pe bas itna karam ho
-  Naam tere chaahne waalon mein raqam ho
-  Kardo ata hum ko sila nauhe ka maula
-  Khwaab ho poora askari maula
+  Mesum o Azlan pe bas itna karam ho
+  Naam tere chaahne waaloṅ mein raqam ho
+  Kar do ata hum ko sila nauhe ka maula
+  Khwaab ho pura Askari maula
 # source_id: nohayonline:335f497848d86c93c6fb
 # source_url: https://www.nohayonline.com/details_content.php?id=1306
 # raw_sha256: 4be2695c37749baf3dda3acaef275023bf6da8176ab095dc0991218d5e075dfe
@@ -79,8 +80,8 @@ romanLyrics: |-
 اے بن زہرا عسکری مولا
 
 ۱
-ہاے قیامت کے گھڑی آ گئ کیسی
-ساے سے محروم تیرے ہوگےء مہدی
+ہاے قیامت کی گھڑی آ گئی کیسی
+سائے سے محروم تیرے ہو گئے مہدی
 ہوکے جدا روتا رہا آپ کا بیٹا
 اے میرے بابا عسکری مولا
 
@@ -105,10 +106,10 @@ romanLyrics: |-
 ۵
 قیدی و مظلوم میرے گیارویں سرکار
 دینے کو پرسہ تمہیں آئے ہیں عزادار
-پرسہ قبول ہو میرے سید و سردار
+پرسہ قبول ہو اے میرے سید و سردار
 ہم لوگ تیری نظر کرم کے ہیں طلبگار
-غم یہ تیرا دل میں صدا زندہ رہے گا
-روٹی ہے دنیا عسکری مولا
+غم یہ تیرا دل میں سدا زندہ رہے گا
+روتی ہے دنیا عسکری مولا
 
 ۶
 جب بھی تیرے نام کی ہوتی ہے یہ مجلس
@@ -119,7 +120,7 @@ romanLyrics: |-
 ۷
 پردہء غیبت میں جو بیٹا ہے تمہارا
 بھیجیں اسے جلد پریشان ہے دنیا
-سن لو زرا بہر خدا وارث کعبہ
+سن لو ذرا بہر خدا وارث کعبہ
 ہے یہ التجا عسکری مولا
 
 ۸

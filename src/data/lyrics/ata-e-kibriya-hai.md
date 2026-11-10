@@ -1,11 +1,12 @@
 ---
 title: "عطاے کبریا ہے اور میں ہوں"
-alternateTitle: "Ata E Kibriya Hai"
+alternateTitle: "Ata-e-Kibriya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Adeel Zaidi"
+reciter: "Raza Ali Khan"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,23 +15,23 @@ romanLyrics: |-
   Dua-e-Fatima hai aur main huṅ
 
   1
-  Pa-e-Jibril-e-midhat bait e dil ka
+  Paa-e-Jibril-e-midhat bait-e-dil ka
   Dar-e-aamad khula hai aur main huṅ
 
   2
-  Saf-e-alfaz hai kaaghaz qalam hai
+  Saf-e-alfaaz hai kaaghaz qalam hai
   Ajab ye takhliya hai aur main huṅ
 
   3
-  Nahi ehsas-e-tanhai zara bhi
+  Nahiṅ ehsaas-e-tanhaai zara bhi
   Koi dil mein basa hai aur main huṅ
 
   4
   Na sajde se mujhe koi uthaye
-  Yahan mera khuda hai aur main huṅ
+  Yahaaṅ mera Khuda hai aur main huṅ
 
   5
-  Nahi ehsaas apne gham ka mujhko
+  Nahiṅ ehsaas apne gham ka mujhko
   Khayal-e-Fatima hai aur main huṅ
 
   6
@@ -38,12 +39,12 @@ romanLyrics: |-
   Sana-e-Murtaza hai aur main huṅ
 
   7
-  Nazar chaukhat se uth'ti hi nahi hai
+  Nazar chaukhat se uthti hi nahiṅ hai
   Dar-e-Mushkil Kusha hai aur main huṅ
 
   8
-  Yahin aana hai to phir kiun main jaoṅ
-  Yahan khak-e-shifa hai aur main huṅ
+  Yahiṅ aana hai to phir kiuṅ main jaauṅ
+  Yahaaṅ khaak-e-shifa hai aur main huṅ
 
   9
   Sar-e-dosh-e-aqidat har qadam par
@@ -51,19 +52,19 @@ romanLyrics: |-
 
   10
   Furat-e-jaan hai aur is ke kinare
-  Wafaon ki fiza hai aur main huṅ
+  Wafaaoṅ ki fiza hai aur main huṅ
 
   11
-  Ye keh kar jhuk gaye sadje mein sarwar
-  Mere rab ki raza hai aur main huṅ
+  Ye keh kar jhuk gaye sajde mein Sarwar
+  Mere Rab ki raza hai aur main huṅ
 
   12
   Khuda se kehta tha ye qalb-e-Abid
   Tera bas aasra hai aur main huṅ
 
   13
-  Nabi kehte thay Haider tumhara
-  Shanasa ek khuda hai aur main huṅ
+  Nabi kehte the Haider tumhara
+  Shanaasa ek Khuda hai aur main huṅ
 
   14
   Adeel ab aur kya mujhko talab ho
