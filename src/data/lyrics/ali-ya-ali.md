@@ -12,7 +12,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Afsos Ali ka ummat ne
-  Sajde mein khoon bahaya hai
+  Sajde meiṅ khun bahaya hai
   Kaisa ye waqt qayamat ka
   Aulaad-e-Nabi par aaya hai
   Ali ya Ali ya Ali
@@ -20,13 +20,13 @@ romanLyrics: |-
   1
   Us zakhm se zarb-e-Muljim ke
   Zainab ka kaleja chhalni hai
-  Is qaum ki khaatir sajde mein
-  Jo zakhm Ali ne khaya hai
+  Is qaum ki khaatir sajde meiṅ
+  Jo zakhm Ali ne khaaya hai
   
   2
-  Masjid mein hue zakhmi Haider
-  Baba ki jabeen hai khoon mein tar
-  Ye Masjid-e-Kufa mein nauha
+  Masjid meiṅ hue zakhmi Haider
+  Baba ki jabiṅ hai khun meiṅ tar
+  Ye Masjid-e-Kufa meiṅ nauha
   Abbas ke lab par aaya hai
   
   3
@@ -36,9 +36,9 @@ romanLyrics: |-
   Tabut utha kar laaya hai
   
   4
-  Hasnain ne sar ko peeta hai
-  Zainab pe yateemi aayi hai
-  Kufe mein udaasi chhayi hai
+  Hasnain ne sar ko pita hai
+  Zainab pe yatimi aayi hai
+  Kufe meiṅ udaasi chhayi hai
   Aflaak ka dil tharraya hai
   
   5
@@ -49,12 +49,12 @@ romanLyrics: |-
   
   6
   Hasnain ke baba qatl hue
-  Jibreel sada ye deta hai
-  Abbas ke aansu behte hain
+  Jibril sada ye deta hai
+  Abbas ke aansu behte haiṅ
   Shabbir ka dil bhar aaya hai
   
   7
-  Tareekh gawahi deti hai
+  Tarikh gawahi deti hai
   Wo Kufa ho ya Karbobala
   Ummat ne Mohib har zulm o sitam
   Aulaad-e-Nabi par dhaya hai

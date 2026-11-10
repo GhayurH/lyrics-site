@@ -11,58 +11,58 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gunji ye sada zameen par parwardigar ki
-  Aliyun Waliullah aliyun wali-ullah
+  Gunji ye sada zamin par Parwardigar ki
+  Aliyun Waliullah Aliyun Waliullah
   Mehnat Ali ke laal ki rang laayi hai
   Sar de ke apna Shah ne wilayat bachayi hai
 
   1
   Kya kya na gham uthaye wilayat ke waaste
-  Laashon pe laash laaye wilayat ke waaste
-  Zakhmon pa zakhm khaaye wilayat ke waaste
+  Laashoṅ pe laash laaye wilayat ke waaste
+  Zakhmoṅ pe zakhm khaaye wilayat ke waaste
   Iske liye Husain ne duniya lutaayi hai
 
   2
-  Barchhi ko naujawan ka jigar pesh kar diya
+  Barchhi ko naujawaṅ ka jigar pesh kar diya
   Asghar ke jaisa nur-e-nazar pesh kar diya
   Iske liye Husain ne ghar pesh kar diya
-  Khud mar ke sheh ne umr e wilayat bachayi hai
+  Khud mar ke Shah ne umr-e-wilayat bachayi hai
 
   3
-  Marne ko sheh ke saamne chote bade gaye
-  Honton pa apne pyaas saja kar lade gaye
-  Maidan mein dua e wilayat pade gaye
-  Ye shaan e karbala ke shaheedon ne paayi hai
+  Marne ko Shah ke saamne chhote bare gaye
+  Hontoṅ pe apne pyaas saja kar lare gaye
+  Maidan meiṅ dua-e-wilayat pare gaye
+  Ye shaan-e-Karbala ke shahidoṅ ne paayi hai
 
   4
-  Qurbani e Husain mein aisi umang thi
-  Dunya bahot nabi ke nawase pe tang thi
-  Karbobla wilayat e Haider ki jung thi
-  Qurbani e Husain tasavvur pa chaayi hai
+  Qurbani-e-Husain meiṅ aisi umang thi
+  Duniya bahut Nabi ke nawase pe tang thi
+  Karbobala wilayat-e-Haider ki jang thi
+  Qurbani-e-Husain tasavvur pe chhayi hai
 
   5
-  Allah re batool ke farzand ka jigar
-  Hone ko hogaya tha juda sheh ka sar se tan
-  Maqsad se phir bhi apne hatayi nahi nazar
-  Naize pe daastan e wilayat sunayi hai
+  Allah re Batul ke farzand ka jigar
+  Hone ko hogaya tha juda Shah ka sar se tan
+  Maqsad se phir bhi apne hatayi nahiṅ nazar
+  Naize pe daastan-e-wilayat sunayi hai
 
   6
-  Tha shaah e deen ke khoon ka pyasa har aadmi
-  Karbobala mein lut'ti thi duniya Husain ki
-  Dunya ko thi wilayat e Haider se dushmani
-  Bejurm taygh sookhe galay par chadhayi hai
+  Tha Shah-e-diṅ ke khun ka pyasa har aadmi
+  Karbobala meiṅ lutti thi duniya Husain ki
+  Duniya ko thi wilayat-e-Haider se dushmani
+  Bejurm tegh sukhe gale par charhayi hai
 
   7
-  Toda gaya pahaad ghamon ka imam par
-  Baazu diye kise na wilayat ke naam par
-  Pani tha band tifl e shahe tishnakaam par
-  Qasim ne apne khoon se mehendi lagayi hai
+  Tora gaya pahaar ghamoṅ ka Imam par
+  Baazu diye kisi na wilayat ke naam par
+  Pani tha band tifl-e-Shah-e-tishna kaam par
+  Qasim ne apne khun se mehndi lagayi hai
 
   8
-  Qurbani e Husain ki daulat sambhal ke
-  Pyase mujahidon ki amanat sambhal ke
-  Rakhna dilon mein apne wilayat sambhal ke
-  Irfan ye shaheed e wafa ki kamai hai
+  Qurbani-e-Husain ki daulat sambhaal ke
+  Pyase mujahidoṅ ki amanat sambhaal ke
+  Rakhna diloṅ meiṅ apne wilayat sambhaal ke
+  Irfan ye shahid-e-wafa ki kamaai hai
 # source_id: nohayonline:631dd10ae1a1c49318c5
 # source_url: https://www.nohayonline.com/details_content.php?id=953
 # raw_sha256: 43e88febb0a2d86770ac881a082d7f34e1c175d596e5bdd1b55bdd2d37eaaa8a
@@ -112,7 +112,7 @@ romanLyrics: |-
 توڑا گیا پہاڑ غموں کا امام پر
 بازو دیے کسی نہ ولایت کے نام پر
 پانی تھا بند طفل شہ تشنہ کام پر
-قاسم نے اپنے خون سے مہندی لگای ہے
+قاسم نے اپنے خون سے مہندی لگائی ہے
 
 ۸
 قربانیِ حسین کی دولت سنبھال کے
