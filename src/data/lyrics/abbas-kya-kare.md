@@ -1,5 +1,5 @@
 ---
-title: ہاے عباس کیا کرے
+title: ہائے عباس کیا کرے
 alternateTitle: Abbas Kya Kare
 language: Urdu
 lang: ur
@@ -15,26 +15,28 @@ romanLyrics: |-
   1
   Roka hua hai tegh ko Ghazi hai tishnakaam
   Hukm-e-Imam-e-Waqt se majbur hai ghulam
-  Arman saara jang ka ashkoṅ mein beh gaya
+  Armaan saara jang ka ashkoṅ mein beh gaya
   Abbas aaj laasheṅ uthane ko reh gaya
   Milti nahiṅ hai ran ki raza jab Imam se
+  Abbas kya kare
 
   2
   Laashoṅ pe laashe aate rahe dekhta rahe
+  Abbas kya kare
 
   3
   Koi bachcha maqtal se jab
-  Khun mein naha kar aata hai
-  Aaqa laasha laate hain to
+  Khuṅ mein naha kar aata hai
+  Aaqa laasha laate haiṅ to
   Sharm se sar jhuk jaata hai
-  Tukre hue hain khaak pe wo god ke pale
+  Tukre hue haiṅ khaak pe wo god ke pale
 
   4
   Baba ijazat milti nahiṅ
   Aaj bahot sharminda huṅ
   Aun o Muhammad jaan se guzre
   Aur main ab tak zinda huṅ
-  Bint-e-Ali ke lakht-e-jigar dono mar gaye
+  Bint-e-Ali ke lakht-e-jigar donoṅ mar gaye
 
   5
   Maqtal mein kya haal hua hai
@@ -48,14 +50,14 @@ romanLyrics: |-
   Mashk mein le kar jauṅga
   Bibi Sakina ki khatir main
   Pani le kar aauṅga
-  Maṅgi hai is ne izn-e-wigha haath jor ke
+  Maangi hai is ne izn-e-wigha haath jor ke
 
   7
   Darya saamne behta hai bas
   Izn-e-wigha ka mil jaaye
   Saqi-e-Kausar ke bachchoṅ par
   Pani band hua haaye
-  Rote hue ye aas se hain mujhko dekhte
+  Rote hue ye aas se haiṅ mujh ko dekhte
 
   8
   Khwahish ye hai aakhri lamha
@@ -65,10 +67,10 @@ romanLyrics: |-
   Aayeṅ madad ko Aaqa mere kis tarah kahe
 
   9
-  Shadman pani lene gaye
+  Shadmaṅ pani lene gaye
   Abbas ki mushkil kam na hui
   Teer Qamar aankhoṅ mein laga tha
-  Khun baha aur mashk chhidi
+  Khuṅ baha aur mashk chhidi
   Sar pe laga hai gurz mere haath kat gaye
 # source_id: nohayonline:fe77969d554a82b38659
 # source_url: https://www.nohayonline.com/details_content.php?id=2626
@@ -87,9 +89,11 @@ romanLyrics: |-
 ارمان سارا جنگ کا اشکوں میں بہہ گیا
 عباس آج لاشیں اٹھانے کو رہ گیا
 ملتی نہیں ہے رن کی رضا جب امام سے
+عباس کیا کرے
 
 ۲
 لاشوں پہ لاشے آتے رہے دیکھتا رہے
+عباس کیا کرے
 
 ۳
 کوئی بچہ مقتل سے جب
@@ -130,11 +134,11 @@ romanLyrics: |-
 خواہش یہ ہے آخری لمحہ
 ان کی زیارت ہم پائیں
 ایسا نہیں ہو لاش اٹھا کر
-میرے آقا تھک جاے
+میرے آقا تھک جائے
 آئے مدد کو آقا میرے کس طرح کہے
 
 ۹
-شادماں پانی لینے گےء
+شادماں پانی لینے گئے
 عباس کی مشکل کم نہ ہوئی
 تیر قمر آنکھوں میں لگا تھا
 خوں بہا اور مشک چھدی

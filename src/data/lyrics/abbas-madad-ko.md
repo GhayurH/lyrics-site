@@ -13,16 +13,17 @@ romanLyrics: |-
   Maqtal mein kaha Sheh ne ro kar
   Abbas madad ko aa jao
   Kis tarah uthe laash-e-Akbar
+  Abbas madad ko aa jao
 
   1
   Sahil se chale aao bhaiya
   Uthwao bhatije ka laasha
   Hai sina-e-Akbar mein neza
   Har samt andhera hai chhaya
-  Benur hain aankheṅ tuti kamar
+  Benur haiṅ aankheṅ tuti kamar
 
   2
-  Sine se ani jo hai khinchi
+  Sine se ani jo hai khenchi
   Main kaise batauṅ kya guzri
   Hamshakl-e-Nabi reti pe gira
   To rone lage khud pyare Nabi
@@ -40,11 +41,11 @@ romanLyrics: |-
   Yaad aaye mujhe mere Nana
   Kis tarah sambhaluṅ main dil ko
   Reti pe tarapta hai laasha
-  Khun mein hai shabih-e-Payambar
+  Khuṅ mein hai shabih-e-Payambar
 
   5
-  Sughra se kiya tha jo wada
-  Wo wada Akbar tut gaya
+  Sughra se kiya tha jo waada
+  Wo waada Akbar tut gaya
   Ab sochta huṅ kya boluṅga
   Jab khat aayega Sughra ka
   Tuti hai qayamat ab mujh par
@@ -58,7 +59,7 @@ romanLyrics: |-
 
   7
   Har samt bapa ek mahshar tha
-  Jab khun mein ghaltan Akbar tha
+  Jab khun mein ghaltaṅ Akbar tha
   Ek noha Sheh ke lab par tha
   Yazdan wo kaisa manzar tha
   Sheh kehte the ro ro kar Asghar
@@ -70,6 +71,7 @@ romanLyrics: |-
 مقتل میں کہا شہ نے رو کر
 عباس مدد کو آجاؤ
 کس طرح اٹھے لاش اکبر
+عباس مدد کو آجاؤ
 
 ۱
 ساحل سے چلے آؤ بھیا
