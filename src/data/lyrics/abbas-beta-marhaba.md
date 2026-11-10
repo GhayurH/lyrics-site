@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -23,7 +24,7 @@ romanLyrics: |-
   2
   Aal-e-Nabi ki aas hai
   Imran ka akkas hai
-  Teri talab darya nahi
+  Teri talab darya nahiṅ
   Darya ko teri pyaas hai
   Saqqa-e-Aal-e-Mustafa
 
@@ -44,29 +45,29 @@ romanLyrics: |-
   5
   Tere shanoṅ pe qurban jauṅ
   Aa ja sine se apne lagauṅ
-  Tujhko shabbir jaisa samajh kar
+  Tujhko Shabbir jaisa samajh kar
   Apne haathoṅ se pani pilauṅ
-  Darya se pyasa aagaya
+  Darya se pyasa aa gaya
 
   6
   Tha ye mazhar mein Abbas likha
   Tishnalab hi rahegi Sakina
   Gham na kar mashk gar chid gayi hai
   Tujhse razi hai Shah-e-Madina
-  Tune ada haq kar diya
+  Tu ne ada haq kar diya
 
   7
   Jo muhafiz the Aal-e-Nabi ke
   Kat gaye haaye bazu wo tere
-  Aaj se hashr tak deen ka parcham
+  Aaj se hashr tak din ka parcham
   Tu uthayega bin bazuoṅ ke
   Ab ye alam tera hua
 
   8
   Jo Takallum hai iman tera
-  Shadman ka wohi hai aqeeda
+  Shadmaṅ ka wohi hai aqeeda
   Rauza-e-Ibn-e-Sher-e-Khuda par
-  Dil ye kehta hai ahle aza ka
+  Dil ye kehta hai ahl-e-aza ka
   Ek maaṅ ki aati hai sada
 # source_id: nohayonline:75574bc63ea78b35c11e
 # source_url: https://www.nohayonline.com/details_content.php?id=3003

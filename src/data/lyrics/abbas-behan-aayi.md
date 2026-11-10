@@ -1,11 +1,12 @@
 ---
-title: "عباس بہن آی ہے دربار میں جاکر"
+title: "عباس بہن آئی ہے دربار میں جاکر"
 alternateTitle: "Abbas Behan Aayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Manzar Aelia"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -22,7 +23,7 @@ romanLyrics: |-
   Abbas suno Shaam-e-Ghariban ki bhi rudad
   Ji bhar ke nahiṅ kar sake hum laashoṅ pe faryad
   Khaime bhi jale ghar bhi luta ho gaye barbad
-  Thi zer-e-sama bibiyan bemaqna o chadar
+  Thi zer-e-samaṅ bibiyaṅ bemaqna o chadar
 
   3
   Har gaam pe mahshar tha har ek lamha qayamat
@@ -32,21 +33,21 @@ romanLyrics: |-
 
   4
   Darbar mein zaalim ke qayamat ka tha manzar
-  Thi zauja-e-hakim pas-e-parda mein khule sar
+  Thi zauja-e-hakim pas-e-parde mein khule sar
   Sar sharm se Zainab ka na uthta tha baradar
   Le le ke mere naam rulate the sitamgar
 
   5
   Har gaam pe durre jo lagate the sitamgar
   Kis yaas se karte the nazar Abid-e-bimar
-  Sun paoge kya aur masaib mere ghamkhwar
+  Sun paoge kya aur masaib mere ghamkhwaar
   Main aayi huṅ durroṅ ke nishaṅ pusht pe lekar
 
   6
-  Chhaya hua nazroṅ mein hai zindaṅ ka andhera
-  Yaad aata hai reh reh ke wo bachi ka tadapna
+  Chhaya hua nazroṅ mein hai zindan ka andhera
+  Yaad aata hai reh reh ke wo bachi ka tarapna
   Thi dil mein Sakina ke rihai ki tamanna
-  Mar kar bhi rahi qaid mein shabbir ki dukhtar
+  Mar kar bhi rahi qaid mein Shabbir ki dukhtar
 
   7
   Manzar ye bayaṅ karti thi jab khwahar-e-Hasnain
