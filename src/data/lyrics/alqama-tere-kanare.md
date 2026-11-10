@@ -15,36 +15,36 @@ romanLyrics: |-
   Tha bharosa jispe mujhko wo baradar chal basa
 
   1
-  Jagte the jis ke dar se ashqiyan-e-bad gohar
+  Jaagte the jis ke dar se ashqiyan-e-bad gohar
   Haath katwa kar wo bhai chain se ab so gaya
 
   2
-  Jab chidhi mashke Sakina khoon baha Abbas ka
-  Sher ne phir apna ruqh darya ki jaanib kar liya
+  Jab chhidi mashk-e-Sakina khun baha Abbas ka
+  Sher ne phir apna rukh darya ki jaanib kar liya
 
   3
-  Phaynk kar kooze ko ye boli Sakina dilfigaar
-  Pyas ka shikwa nahi ab laut kar aao chacha
+  Pheṅk kar kuze ko ye boli Sakina dilfigaar
+  Pyas ka shikwa nahiṅ ab laut kar aao chacha
 
   4
-  Thaam kar apni rida ko boli ye sheh ki bahan
-  Paasban parde ka mere bawafa maara gaya
+  Thaam kar apni rida ko boli ye Shah ki bahan
+  Paasbaaṅ parde ka mere bawafa maara gaya
 
   5
-  Jab kaha Abbas ne aaqa mera lije salaam
-  Thaam kar apni kamar ko rote thay shaahe huda
+  Jab kaha Abbas ne aaqa mera lijiye salaam
+  Thaam kar apni kamar ko rote the Shaah-e-Huda
 
   6
-  Mashk pe ruqsaar rakh kar so gaya wo bawafa
-  Maut bhi isko bhatiji se na kar payi juda
+  Mashk pe rukhsaar rakh kar so gaya wo bawafa
+  Maut bhi us ko bhatiji se na kar payi juda
 
   7
-  Ashk mein bali Sakina ke nazar aayi shabi
+  Ashk mein bali Sakina ke nazar aayi shabih
   Ek naya sa aashiyana ban gaya Abbas ka
 
   8
-  Is liye ghamgeen hai ae Ahmed jari-e-bawafa
-  Pyase bachon tak hassan wo pani na leja saka
+  Is liye ghamgin hai ae Ahmed jari-e-bawafa
+  Pyase bachchoṅ tak Hasan wo paani na le ja saka
 # source_id: nohayonline:89371771f65e9dd52f1d
 # source_url: https://www.nohayonline.com/details_content.php?id=129
 # raw_sha256: f1260476fcc1f43bb80a5782ff8123341dadf52dc22b34b0d0b340fb6d5362ea

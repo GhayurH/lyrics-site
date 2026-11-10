@@ -14,67 +14,67 @@ romanLyrics: |-
   Allah allah allah allah
   Ya maalik o ya khaliqo ya batino ya zahiro
   Ya qadiro ya haakimo ya momino ya hadiyo
-  Ya awwalo ya aakhiro ya qaaimo al nafi'o
+  Ya awwalo ya aakhiro ya qaaimo al nafio
   Allaho qabla kullo shay
-  Allaho baa'da kullo shay
-  Ye keh ke Haider ne sajde mein rakhi peshani
-  Allaho baaqi min kulle fani
+  Allaho baada kullo shay
+  Ye keh ke Haider ne sajde mein rakhi peshaani
+  Allaho baaqi min kulle faani
 
   1
-  Rab ka irada Haider aur uski marzi bhi
-  Iske haathon ne goondhi aadam ki matti bhi
-  Iske bachon ke naukar jannat ke darzi bhi
+  Rab ka iraada Haider aur uski marzi bhi
+  Is ke haathoṅ ne gundhi Aadam ki mitti bhi
+  Is ke bachchoṅ ke naukar jannat ke darzi bhi
   Ya rabbe zuljalaal
   Har jumla Haider ka is misre ka hai saani
 
   2
-  Haathon se marna baante thokar se jeena bhi
-  Marhab ke tukde kar de dharti ka seena bhi
-  Khud hai manshoore yazdan uski kapeena bhi
+  Haathoṅ se marna baaṅte thokar se jina bhi
+  Marhab ke tukre kar de dharti ka sina bhi
+  Khud hai manshur-e-Yazdaaṅ uski kapeena bhi
   Ya rabbe zuljalaal
-  Daawa salooni ka aur phir bhi baat ye maani
+  Daawa saluni ka aur phir bhi baat ye maani
 
   3
-  Khud hi quran e natiq aur khud hi qaari hai
-  Iske haathon ki khilqat ye dunya saari hai
-  Fuzto be rabbil kaaba ye hamd e baari hai
+  Khud hi Quraan-e-naatiq aur khud hi qaari hai
+  Is ke haathoṅ ki khilqat ye dunya saari hai
+  Fuzto be rabbil kaaba ye hamd-e-Baari hai
   Ya rabbe zuljalaal
-  Kehdi do lafzon mein thi baat badi toolani
+  Kehdi do lafzoṅ mein thi baat bari tulaani
 
   4
-  Chalta hai mera sikka arz o samaa par
-  Mai to rahunga zinda hukme khuda par
-  Mujhpe qaza gir jaye ya mai qaza par
+  Chalta hai mera sikka arz o samaaṅ par
+  Main to rahuṅ ga zinda hukm-e-Khuda par
+  Mujh pe qaza gir jaaye ya main qaza par
   Ya rabbe zuljalaal
-  Ye sunke Haider se dunya ko hui hairani
+  Ye sunke Haider se dunya ko hui hairaani
 
   5
-  Ek din nusairi bola kyun mujhko maara hai
-  Jo kuch aankhon se dekha maine wo bola hai
-  Meri sochon ka maalik iske hi jaisa hai
+  Ek din Nusairi bola kiuṅ mujhko maara hai
+  Jo kuch aaṅkhoṅ se dekha main ne wo bola hai
+  Meri sochoṅ ka maalik iske hi jaisa hai
   Ya rabbe zuljalaal
-  Ye hamd e baari hai Haider ki qasida khani
+  Ye hamd-e-Baari hai Haider ki qasida khwaani
 
   6
-  Nafse khuda bhi Haider aur iska pehlu bhi
-  Wo hai hijab e akbar wird e allahu bhi
-  Maana hai waliyon ne bhi kehte hai saadhu bhi
+  Nafs-e-Khuda bhi Haider aur iska pehlu bhi
+  Wo hai hijaab-e-akbar wird-e-Allahu bhi
+  Maana hai waliyoṅ ne bhi kehte haiṅ saadhu bhi
   Ya rabbe zuljalaal
-  Samjha na koi isko baat hai ye irfani
+  Samjha na koi isko baat hai ye irfaani
 
   7
-  Karbobala se poocho is jumle ka matlab
-  Sookhe kooze dikhlake kehdenge tashna lab
-  Besar laashe bolenge ya phir bibi zainab
+  Karbobala se puchho is jumle ka matlab
+  Sukhe kuze dikhla ke keh deṅ ge tashna lab
+  Be sar laashe boleṅ ge ya phir Bibi Zainab
   Ya rabbe zuljalaal
-  Zere khanjar keh dega karbobala ka baani
+  Zer-e-khanjar keh dega karbobala ka baani
 
   8
-  Kull-e-iman ki baatein emaan hai mazhar
-  Is mein hai haami tera irfan e haider
-  Ye baatein karte hai hum mimbar pe jaa kar
+  Kull-e-imaan ki baateṅ imaan hai Mazhar
+  Is mein hai haami tera Irfan-e-Haider
+  Ye baateṅ karte haiṅ hum minbar pe jaa kar
   Ya rabbe zuljalaal
-  Haan ishq e Haider mein Haider ki baat hi maani
+  Haaṅ ishq-e-Haider mein Haider ki baat hi maani
 # source_id: nohayonline:cc48af2388c4e10bbe38
 # source_url: https://www.nohayonline.com/details_content.php?id=2219
 # raw_sha256: 657293304fc108a13ef7b96e2589f1d1f25172dec444ce393ac767fd82e688c3
@@ -133,7 +133,7 @@ romanLyrics: |-
 ۷
 کربوبلا سے پوچھو اس جملے کا مطلب
 سوکھے کوزے دکھلا کے کہہ دیں گے تشنہ لب
-بے سر لاشے بولیں گے یا پھر بی بی زینب
+بے سر لاشے بولیں گے یا پھر بی‌بی زینب
 یا رب ذوالجلال
 زیر خنجر کہہ دیگا کربوبلا کا بانی
 
