@@ -6,86 +6,89 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kehte hai hussain jab bhi aao karbala
-  Pehle maango mere chote bhai se riza
-  Zaairon do sada baadshahe wafa
-  Yaad aa rahi hai karbala
+  Kehte haiṅ Husain jab bhi aao Karbala
+  Pehle maango mere chhote bhaai se riza
+  Zaairoṅ do sada baadshah-e-wafa
+  Yaad aa rahi hai Karbala
 
   Wo hai maula sakhi maula
-  Tum iraada karo ziyarat ka
-  Dil nahi todte kabhi maula
-  Izne ziyarat chote sarkar se le ke
-  Aao chale bade sarkar se milne
-  Tizurooni aaidkum taarifooni shafee'akum
+  Tum iraada karo ziyaarat ka
+  Dil nahiṅ torte kabhi maula
+  Izn-e-ziyaarat chhote sarkar se le ke
+  Aao chale bare sarkar se milne
+
+  Tizuruni aaidkum taarifuni shafiakum
 
   1
-  Saamne rauze ke gumbad jo nazar aayenge
-  Aankh mein aansu unhe dekh ke bhar jaayenge
-  Dil se niklegi sada ya aba abdillah
-  Aap par mera salaam ay hussain saarallah
-  Rote huwe unhe awaaz ye denge
-  Maula yahan aap mazloom thay kitne
+  Saamne rauze ke gumbad jo nazar aayeṅge
+  Aankh mein aansu unheṅ dekh ke bhar jaayeṅge
+  Dil se niklegi sada ya Aba Abdillah
+  Aap par mera salaam ae Husain Saarallah
+  Rote hue unheṅ aawaaz ye deṅge
+  Maula yahaaṅ aap mazlum the kitne
 
   2
-  Karte hai fazl o karam fazl ke baba sab par
-  Unko tum yaad karo babul hawaij keh kar
-  Tumko lene ke liye khud wo aa jayenge
-  Saath abbas ke hum karbala jayenge
-  Waada karo in ziyaraat se pehle
-  Royenge hum kafe abbas pe jaa ke
+  Karte hai fazl o karam Fazl ke baaba sab par
+  Unko tum yaad karo Baabul Hawaaij keh kar
+  Tumko lene ke liye khud wo aa jaayeṅge
+  Saath Abbas ke hum Karbala jaayeṅge
+  Waada karo in ziyaaraat se pehle
+  Royeṅge hum kaf-e-Abbas pe jaa ke
 
   3
-  Dil mein jo baat hai abbas se ja kar kehna
+  Dil mein jo baat hai Abbas se jaa kar kehna
   Unke rauze ki taraf dekh ke rote rehna
-  Do kate haathon ka unko pursa dena
-  Kehna hum bhoole nahi alqama par jo hua
-  Gurz laga haye jab aap ke sar pe
-  Zakhmi huwe aap rahwaar se gir ke
+  Do kate haathoṅ ka unko pursa dena
+  Kehna hum bhule nahiṅ Alqama par jo hua
+  Gurz laga haaye jab aap ke sar pe
+  Zakhmi hue aap rahwaar se gir ke
 
   4
-  Maula abbas jise chaahe bula lete hai
-  Wo ghareebon ko bhi zawwar bana dete hai
-  Ay azadaron suno fikr kyun karte ho
-  Maula bulwa lenge unse keh kar dekho
+  Maula Abbas jise chaahe bula lete haiṅ
+  Wo ghariboṅ ko bhi zawwaar bana dete haiṅ
+  Ae azaadaaroṅ suno fikr kiuṅ karte ho
+  Maula bulwa leṅge unse keh kar dekho
   Haath rakho jaa ke ek baar alam pe
-  Zaade safar khud alamdar karenge
+  Zaad-e-safar khud alamdaar kareṅge
 
   5
-  Abadwallah ya zahra maaninsa hussaina
-  Maula jab sunta hoon naara mai abad wallah ka
-  Dil mera kehta hai maaninsa hussaina zahra
-  Haan wo halmin ki sada kabhi bhoolenge na hum
-  Jab nazar aayega shaahe waala ka haram
-  Bolenge hum door se haath utha ke
-  Aa gaye hum ya hussain aap se milne
+  Abadwallah ya Zahra maaninsa Husaina
+  Abadwallah ya Zahra maaninsa Husaina
+  Maula jab sunta huṅ naara main abad wallah ka
+  Dil mera kehta hai maaninsa Husaina Zahra
+  Haaṅ wo hal min ki sada kabhi bhuleṅge na hum
+  Jab nazar aayega shah-e-waala ka haram
+  Boleṅge hum dur se haath utha ke
+  Aa gaye hum ya Husain aap se milne
 
   6
-  Izn jab hazrate abbas se hum payenge
-  Ya hussain aap ke rauze se lipat jayenge
-  Waasta zehra ka mujhko rone dena
+  Izn jab Hazrat-e-Abbas se hum paayeṅge
+  Ya Husain aap ke rauze se lipat jaayeṅge
+  Waasta Zehra ka mujhko rone dena
   Haath mere dil par maula tum na rakhna
-  Haq to ye hai dil ye phat jaaye wahan pe
-  Qatl huwe maula jis khaak pe pyase
+  Haq to ye hai dil ye phat jaaye wahaaṅ pe
+  Qatl hue maula jis khaak pe pyaase
 
   7
-  Wahin qasim ka badan ghode se pamaal hua
-  Barchi akbar ko lagi seene ka kya haal hua
-  Teer asghar ko laga chid gaya nanha gala
-  Do thay zainab ke pisar dono ko maar diya
-  Ahle haram jahan har laash pe roye
-  Aaj bhi hai wahin sadaat ke qaime
+  Wahiṅ Qasim ka badan ghore se paamaal hua
+  Barchhi Akbar ko lagi sine ka kya haal hua
+  Tir Asghar ko laga chhid gaya nanha gala
+  Do the Zainab ke pisar donoṅ ko maar diya
+  Ahl-e-haram jahaaṅ har laash pe roye
+  Aaj bhi hai wahiṅ saadaat ke khaime
 
   8
-  Kitne din ho gaye wo rauza nahi dekha hai
-  Jis ke darwaze pe saaqi e atash likha hai
-  Bolo zeeshan o raza ay shehenshahe wafa
-  Zaairon mein ab to naam likh de mera
-  Baithun kabhi mai bhi darbar mein aa ke
-  Rota rahun haye awaaz ye sun ke
+  Kitne din ho gaye wo rauza nahiṅ dekha hai
+  Jis ke darwaaze pe saaqi-e-atash likha hai
+  Bolo Zishaan o Raza ae shehenshah-e-wafa
+  Zaairoṅ mein ab to naam likh de mera
+  Baithuṅ kabhi main bhi darbaar mein aa ke
+  Rota rahuṅ haaye aawaaz ye sun ke
 # source_id: nohayonline:4cfea05c28604c564759
 # source_url: https://www.nohayonline.com/details_content.php?id=3644
 # raw_sha256: dc8939aac803c0cb6d6bf05bf48cc92f3c176bf4ae2492784819fb21500f1139
@@ -101,6 +104,7 @@ romanLyrics: |-
 دل نہیں توڑتے کبھی مولا
 اذن زیارت چھوٹے سرکار سے لے کے
 آؤ چلے بڑے سرکار سے ملنے
+
 تزورونی اعاهدکم تعرفونی شفیع الکم
 
 ۱
@@ -136,6 +140,7 @@ romanLyrics: |-
 زاد سفر خود علمدار کریں گے
 
 ۵
+ابد واللہ یا زہرا ماننسا حسینا
 ابد واللہ یا زہرا ماننسا حسینا
 مولا جب سنتا ہوں نعرہ میں ابد واللہ کا
 دل میرا کہتا ہے ماننسا حسینا زہرا
