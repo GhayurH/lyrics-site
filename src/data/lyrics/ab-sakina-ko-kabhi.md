@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Khun ke ashk yatimi use rulvaegi
-  Ab Sakina ko kabhi nind nahi aaegi
+  Ab Sakina ko kabhi nind nahiṅ aaegi
 
   1
   Khaak par Aun o Muhammad ko para dekha hai
@@ -20,22 +20,22 @@ romanLyrics: |-
   Baap ke sine ko tiroṅ se bhara dekha hai
 
   2
-  Maaṅ rasanbasta hai aur qaid hai bhai bimar
+  Maaṅ rasan basta hai aur qaid hai bhai bimar
   Chain ab dil ko aaega na aaega qarar
   Maarta jaega har gaam tamache badkar
   Khaak par sar jo rakhegi to dukheṅge rukhsar
 
   3
-  Maar kar durra tarapne bhi nahi dega lain
-  Kha ke ghash khaak pe girne bhi nahi dega lain
-  Rona chahegi to rone bhi nahi dega lain
-  Nind gar aayi to sone bhi nahi dega lain
+  Maar kar durra tarapne bhi nahiṅ dega laiṅ
+  Kha ke ghash khaak pe girne bhi nahiṅ dega laiṅ
+  Rona chahegi to rone bhi nahiṅ dega laiṅ
+  Nind gar aayi to sone bhi nahiṅ dega laiṅ
 
   4
   Gardan-e-Shah pe chalta hua khanjar dekha
   Us ne barchhi se chhida sina-e-Akbar dekha
   Ek hi din mein ujarta hua sab ghar dekha
-  Asr-e-Ashur ko Zainab ka khula sar dekha
+  Asr-e-Aashur ko Zainab ka khula sar dekha
 
   5
   Jalte khaimoṅ ka dhuaṅ aankhoṅ mein baqi hai abhi
@@ -61,36 +61,36 @@ romanLyrics: |-
   Gaam dar gaam jo patthar kabhi durre khae
   Nauha Nasir ne parha dil se ye nikla haye
 # source_id: nohayonline:037c10368093b8a5ee22
-# editorial_uncertainty: Source HTML inaccessible; Roman normalized to Urdu. Differences in stanza two cheek line and stanza seven Kufa word require source/audio verification.
+# editorial_uncertainty: Archived HTML checked. Stanza two has badkaar/بڑھکار and to dukhenge/دیکھیں گے; stanza six has pyaas/پیاسے; stanza seven has ehwaano/اہوانوں. Existing disputed readings retained pending audio/print verification.
 # source_url: https://www.nohayonline.com/details_content.php?id=1894
 # raw_sha256: dee087a43914fce494dbf6709ea9166c98a30b85c6dd00282a27ad1fc6f3ca2f
 ---
-خون کے اشک یتیمی اسے رلواے گی
-اب سکینہ کو کبھی نیند نہیں آے گی
+خون کے اشک یتیمی اسے رلوائے گی
+اب سکینہ کو کبھی نیند نہیں آئے گی
 
 ۱
 خاک پر عون و محمد کو پڑا دیکھا ہے
-لاشے عباس میں نیزوں کو گڑا دیکھا ہے
+لاشِ عباس میں نیزوں کو گڑا دیکھا ہے
 سر کو بے شیر کے بھی تن سے جدا دیکھا ہے
 باپ کے سینے کو تیروں سے بھرا دیکھا ہے
 
 ۲
-ماں رسن بستہ ہے اور قید ہے بھای بیمار
-چین اب دل کو آے گا نہ آے گا قرار
-مارتا جاے گا ہر گام طمانچے بڑھکار
+ماں رسن بستہ ہے اور قید ہے بھائی بیمار
+چین اب دل کو آئے گا نہ آئے گا قرار
+مارتا جائے گا ہر گام طمانچے بڑھکار
 خاک پر سر جو رکھے گی دیکھیں گے رخسار
 
 ۳
-مار کر درہ تڑپنے بھی نہیں دیگا لعیں
-کھا کے غش خاک پہ گرنے بھی نہیں دیگا لعیں
-رونا چاہے گی تو رونے بھی نہیں دیگا لعیں
-نیند گر آی تو سونے بھی نہیں دیگا لعیں
+مار کر درہ تڑپنے بھی نہیں دے گا لعیں
+کھا کے غش خاک پہ گرنے بھی نہیں دے گا لعیں
+رونا چاہے گی تو رونے بھی نہیں دے گا لعیں
+نیند گر آئی تو سونے بھی نہیں دے گا لعیں
 
 ۴
 گردنِ شاہ پہ چلتا ہوا خنجر دیکھا
 اس نے برچھی سے چھدا سینۂ اکبر دیکھا
 ایک ہی دن میں اجڑتا ہوا سب گھر دیکھا
-عصر عاشور کو زینب کا کھلا سر دیکھا
+عصرِ عاشور کو زینب کا کھلا سر دیکھا
 
 ۵
 جلتے خیموں کا دھواں آنکھوں میں باقی ہے ابھی
@@ -105,13 +105,13 @@ romanLyrics: |-
 یہ جو زندہ ہے تو زندان میں جانے کے لئے
 
 ۷
-بھول پاے گی نہ غازی کے کٹے شانوں کو
-بھول پاے گی نہ لٹتے ہوے ارمانوں کو
-بھول پاے گی نہ وہ کوفے کے اہوانوں کو
-بھول پاے گی نہ وہ شام کے زندانوں کو
+بھول پائے گی نہ غازی کے کٹے شانوں کو
+بھول پائے گی نہ لٹتے ہوئے ارمانوں کو
+بھول پائے گی نہ وہ کوفے کے اہوانوں کو
+بھول پائے گی نہ وہ شام کے زندانوں کو
 
 ۸
-نیند اسے نور علی آے تو کیسے آے
-جس کو تقدیر یہ غربت کی گھڑی دکھلاے
-گام در گام جو پتھر کبھی درے کھاے
-نوحہ ناصر نے پڑھا دل سے یہ نکلا ہاے
+نیند اسے نور علی آئے تو کیسے آئے
+جس کو تقدیر یہ غربت کی گھڑی دکھلائے
+گام در گام جو پتھر کبھی درے کھائے
+نوحہ ناصر نے پڑھا دل سے یہ نکلا ہائے

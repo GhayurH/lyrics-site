@@ -30,7 +30,7 @@ romanLyrics: |-
   Le rahi hai maut ki ye hichkiyaṅ ab rehne do
 
   5
-  Dam nahiṅ itna kahe jo Shimr se mat chhino durr
+  Dam nahiṅ itni kahe jo Shimr se mat chhino durr
   Kehti hai mazluma ki ye siskiyaṅ ab rehne do
 
   6
@@ -39,12 +39,12 @@ romanLyrics: |-
 
   7
   Phat na jaaye dil yatima ka sitam ke khauf se
-  Mat dikhao bachchi ko yun ghurkiyaṅ ab rehne do
+  Mat dikhao bachchi ko yuṅ ghurkiyaṅ ab rehne do
 
   8
   Parh ke kehta hai ye Aamir ae Shanawar lauh par
   Likho na mazlumoṅ ki majburiyaṅ ab rehne do
-# editorial_uncertainty: Stanza seven source Roman 'ghudkiyan' differs from Urdu 'کھڑکیاں'; audio review pending.
+# editorial_uncertainty: Archived stanza seven has Roman yateema/ghudkiyan against Urdu یتیمی/کھڑکیاں; stanza two has ہے against Roman hai (existing haiṅ). Disputed readings retained pending audio/print review.
 # source_id: nohayonline:80085dab8e9429b0fab3
 # source_url: https://www.nohayonline.com/details_content.php?id=1273
 # raw_sha256: 465cd87569ac2951b343391ec9ff93e70f3230f8305204ba4b5a33240d4c6c13
@@ -77,7 +77,7 @@ romanLyrics: |-
 ہو گیا پامال شہ کا آشیاں اب رہنے دو
 
 ۷
-پھٹ نہ جاے دل یتیمی کا ستم کے خوف سے
+پھٹ نہ جائے دل یتیمی کا ستم کے خوف سے
 مت دکھاؤ بچی کو یوں کھڑکیاں اب رہنے دو
 
 ۸
