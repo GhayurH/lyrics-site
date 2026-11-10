@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arif Sahab"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -50,7 +51,7 @@ romanLyrics: |-
 
   5
   Badr o Khaibar ki jo adawat thi
-  Us ka yun inteqam lete haiṅ
+  Us ka yuṅ inteqam lete haiṅ
   Shaam ke log bhir mein har dam
   Meri phuphiyoṅ ka naam lete haiṅ
   Taziyane to seh gaya Baba
@@ -67,10 +68,10 @@ romanLyrics: |-
   7
   Jis behen ne hamesha jine ki
   Haye Abbas ko duaeṅ di
-  Berida sar pe rakh ke haathon ko
+  Berida sar pe rakh ke haathoṅ ko
   Us ne Abbas ko sadaeṅ di
-  Sar sinaṅ se wahan gira un ka
-  Aur yahan khaak par gira Sajjad
+  Sar sinaṅ se wahaṅ gira un ka
+  Aur yahaṅ khaak par gira Sajjad
 
   8
   Apne Maula ke ek aaṅsu ka
@@ -86,21 +87,21 @@ romanLyrics: |-
 ہاے ہاے شام ہاے ہاے شام
 نوکِ نیزہ سے دیکھ لو بابا
 اب وہ سجاد نہ رہا سجاد
-جس گھڑی بے ردا ہوی زینب
+جس گھڑی بے ردا ہوئی زینب
 کربلا میں ہی مر گیا سجاد
 
 ۱
 کیا ہے پردہ یہ شام والوں کو
 تیری دادی نے ہی سکھایا ہے
-انہیں لوگوں نے میری پھوپھیوں کو
+انہی لوگوں نے میری پھوپھیوں کو
 بے ردا شام میں پھرایا ہے
 کیا غضب ہے کہ ہاتھ پھیلا کر
 مانگتا ہے بس ایک ردا سجاد
 
 ۲
 ہاے جس نے بغیر محمل کے
-گھر سے باہر قدم نہ رکھتا تھا
-اس پھپھی کو زمانے والوں نے
+گھر سے باہر قدم نہ رکھا تھا
+اس پھوپھی کو زمانے والوں نے
 آپ کے بعد بے ردا دیکھا
 کاش عباس آج ہوتے تو
 یہ قیامت نہ دیکھتا سجاد
@@ -110,7 +111,7 @@ romanLyrics: |-
 ماؤں بہنوں کے سر پہ تھی چادر
 ورنہ میں بھی علی کا بیٹا ہوں
 جانتا ہوں میں جنگ کے جوہر
-دیکھ کر بے ردا پھوپی کا سر
+دیکھ کر بے ردا پھوپھی کا سر
 شرم کے مارے جھک گیا سجاد
 
 ۴
@@ -135,18 +136,18 @@ romanLyrics: |-
 نہ جھکوں تو زمین سے بابا
 پاؤں اٹھتے ہیں ننھے بچوں کے
 بس رکوع میں ہی شکر کے سجدے
-کر کے گزرے ‌گا اب تیرا سجاد
+کر کے گزرے گا اب تیرا سجاد
 
 ۷
 جس بہن نے ہمیشہ جینے کی
 ہاے عباس کو دعائیں دی
 بے ردا سر پہ رکھ کے ہاتھوں کو
-اس نے عباس کو صداییں دی
+اس نے عباس کو صدائیں دی
 سر سناں سے وہاں گرا ان کا
 اور یہاں خاک پر گرا سجاد
 
 ۸
-اپنے مولا کے ایک آنسوں کا
+اپنے مولا کے ایک آنسو کا
 حق ادا نہ صحاب کر پایا
 گرتے اشکوں کی روشنائی سے
 دل کے قرطاس پر یہی لکھا

@@ -1,13 +1,14 @@
 ---
 title: "آباد گھر حسین کا ویران ہو گیا"
-alternateTitle: "Abaad Ghar Hussain"
+alternateTitle: "Abaad Ghar Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Ahsan"
+reciter: "Anj. Parwane Shabbir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Abaad Ghar Hussain"]
 published: false
 romanLyrics: |-
   Aabad ghar Husain ka viran ho gaya
@@ -15,7 +16,7 @@ romanLyrics: |-
 
   1
   Jalti zamin pe gir pare jab Akbar-e-jawaṅ
-  Laashe pe Shah pahunche to andher tha jahan
+  Laashe pe Shah pahunche to andher tha jahaṅ
   Laila se dekha jaega kis tarha ye samaṅ
   Karil jawaṅ ke sine mein tuti hui sinaṅ
 
@@ -38,14 +39,14 @@ romanLyrics: |-
 
   5
   Karbobala se karwaṅ Kufa hua rawaṅ
-  Uṅtoṅ ki nangi pusht pe baithi haiṅ Bibiyan
+  Uṅtoṅ ki nangi pusht pe baithi haiṅ Bibiyaṅ
   Hai sar khula har ek ka baazu mein resmaṅ
   Zainab tarap ke dekhti hai su-e-aasmaṅ
 
   6
   Tarik qaidkhane mein jab qafila gaya
   Ro kar Sakina boli ke Amma ye kya hua
-  Kya waqt meri maut ka nazdeek aa gaya
+  Kya waqt meri maut ka nazdik aa gaya
   Bano pukari ye na kaho meri dilruba
 
   7
@@ -67,7 +68,7 @@ romanLyrics: |-
   Sar ko jhukaye rote the Sajjad-e-natawaṅ
 
   10
-  Hai zikr subh o Shaam Shah-e-Mashriqain ka
+  Hai zikr subh o shaam Shah-e-Mashriqain ka
   Karbal ke tashnakaam ka Zehra ke chain ka
   Matam hai dilbar-e-Shah-e-Badr o Hunain ka
   Ahsan hayat apni hai sadqa Husain ka
@@ -82,15 +83,15 @@ romanLyrics: |-
 جلتی زمیں پہ گر پڑے جب اکبر جواں
 لاشے پہ شاہ پہنچے تو اندھیر تھا جہاں
 لیلیٰ سے دیکھا جائے گا کس طرح یہ سماں
-کڑیل جواں سینے میں ٹوٹی ہوئی سناں
+کڑیل جواں کے سینے میں ٹوٹی ہوئی سناں
 
 ۲
 آنکھوں میں شہ کی دید کا ارماں لبوں پہ جاں
-حایل ہے درمیان میں ایک تیر جا نساں
-رونے لگی تڑپ کے شہنشاہ انس و جاں
+حائل ہے درمیان میں ایک تیر جا نساں
+رونے لگے تڑپ کے شہنشاہ انس و جاں
 
 ۳
-کیا حوصلے تھے طفل شہ بے نزیر کے
+کیا حوصلے تھے طفل شہ بے نظیر کے
 تھے نہر پر بلند ارادے صغیر کے
 تیور عیاں تھے رخ سے جناب امیر کے
 ننھا سا ایک گلا تھا مقابل میں تیر کے
@@ -103,7 +104,7 @@ romanLyrics: |-
 
 ۵
 کربوبلا سے کارواں کوفہ ہوا رواں
-اونٹوں کی ننگی پشت پہ بیٹھی ہیں بی بیاں
+اونٹوں کی ننگی پشت پہ بیٹھی ہیں بیبیاں
 ہے سر کھلا ہر ایک کا بازو میں ریسماں
 زینب تڑپ کے دیکھتی ہے سوئے آسماں
 
@@ -122,17 +123,17 @@ romanLyrics: |-
 ۸
 جاری تھے قیدیوں پہ مظالم کے سلسلے
 اثنائے راہ کوفہ میں تھے سخت مرحلے
-اونٹوں سے گر کے مر گےء بچے حسین کے
-گودی غریب ماؤں کی ویران کر گےء
+اونٹوں سے گر کے مر گئے بچے حسین کے
+گودی غریب ماؤں کی ویران کر گئے
 
 ۹
 تھا ہچکیوں کے درمیاں خواہر کا یہ بیاں
 ہے شدت عطش سے میرے خشک استخواں
-ٹھنڈی جگہ پہ دفن کرو ہم کو بھای جاں
+ٹھنڈی جگہ پہ دفن کرو ہم کو بھائی جان
 سر کو جھکائے روتے تھے سجاد ناتواں
 
 ۱۰
-ہر ذکر صبح و شام شہ مشرقین کا
+ہے ذکر صبح و شام شہ مشرقین کا
 کربل کے تشنہ کام کا زہرا کے چین کا
 ماتم ہے دلبر شہ بدر و حنین کا
-احساں حیات اپنی ہے صدقہ حسین کا
+احسن حیات اپنی ہے صدقہ حسین کا
