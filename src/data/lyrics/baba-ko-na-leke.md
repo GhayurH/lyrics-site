@@ -6,48 +6,50 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bali sakina ne ro kar kaha
-  Baba ko na leke jaa zuljana
-  Zakhmon se hai choor baba mera
+  Bali Sakina ne ro kar kaha
+  Baba ko na leke jaa Zuljana
+  Zakhmoṅ se hai chur baba mera
+  Baba ko na leke jaa Zuljana
 
   1
-  Mai jaanti hoon wafadar tu hai
-  Baba ke ghode samajhdar tu hai
-  Daaghe yateemi se mujhko bacha
+  Main jaanti huṅ wafadaar tu hai
+  Baba ke ghore samajhdaar tu hai
+  Daagh-e-yatimi se mujhko bacha
 
   2
-  Mai gham yateemi ka seh na sakungi
-  Bin baba jaan ke mai reh na sakungi
-  Ehsaan kar mujhpe ay bawafa
+  Main gham-e-yatimi ka seh na sakuṅ gi
+  Bin baba jaaṅ ke main reh na sakuṅ gi
+  Ehsaan kar mujh pe ae ba wafa
 
   3
-  Neend aati hai mujhko sadr e padar par
-  Mai khaak pe haye soungi kyun kar
+  Nind aati hai mujhko sadr-e-padar par
+  Main khaak pe haye souṅ gi kiuṅ kar
   Hai meri tujhse yehi ilteja
 
   4
-  Kaise bataun jo sadma hai dil par
-  Maare gaye bhai qasim o akbar
+  Kaise bataauṅ jo sadma hai dil par
+  Maare gaye bhai Qasim o Akbar
   Darya se aaye na mere chacha
 
   5
-  Kuch dayr pehle jo gaya tha asghar
-  Aaya tha wo apne khoon mein naha kar
-  Shesh maaha bhaiya bhi maara gaya
+  Kuch der pehle jo gaya tha Asghar
+  Aaya tha wo apne khuṅ meiṅ naha kar
+  Shashmaah bhaiya bhi maara gaya
 
   6
-  Maujood hote agar mere ammu
-  Behte na yun mere aankhon se aansu
-  Deti na mai tujhko ro kar sada
+  Maujud hote agar mere ammu
+  Behte na yuṅ mere aankhoṅ se aansuṅ
+  Deti na main tujhko ro kar sada
 
   7
-  Waiz sakina ki aah o buka par
+  Waiz Sakina ki aah o buka par
   Rehwaar rota tha sar ko jhuka kar
-  Nauha tha wo gham mein dooba hua
+  Nauha tha wo gham meiṅ duba hua
 # source_id: nohayonline:5127768a93f549026f42
 # source_url: https://www.nohayonline.com/details_content.php?id=3161
 # raw_sha256: 2b608f63d929402e82de70235a0cc84653bdbb6a98bb3d8e1c9f2c706484611d
@@ -56,6 +58,7 @@ romanLyrics: |-
 بالی سکینہ نے رو کر کہا
 بابا کو نہ لے کے جا ذوالجناح
 زخموں سے ہے چور بابا میرا
+بابا کو نہ لے کے جا ذوالجناح
 
 ۱
 میں جانتی ہوں وفادار تو ہے

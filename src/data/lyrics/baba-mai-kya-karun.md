@@ -1,54 +1,56 @@
 ---
 title: "رو رو کے بابا جان سے کہتی تھی فاطمہ"
-alternateTitle: "Baba Mai Kya Karun"
+alternateTitle: "Baba Main Kya Karuṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Izzat Lakhnavi"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Baba Mai Kya Karun"]
 published: false
 romanLyrics: |-
-  Ro ro ke baba jaan se kehti thi fatema
-  Baba mai kya karun
-  Daswi ko karbala mein mera ghar ujad gaya
-  Ek do paher mein haye muqaddar bigad gaya
+  Ro ro ke baba jaan se kehti thi Fatema
+  Baba main kya karuṅ
+  Daswiṅ ko Karbala meiṅ mera ghar ujar gaya
+  Ek do pahar meiṅ haye muqaddar bigar gaya
+  Baba main kya karuṅ
 
   1
-  Aun o mohamed apne abo jadd ki thay misaal
+  Aun o Muhammad apne abo jadd ki the misaal
   Zainab ke dono laal
-  Maa ne nisaar unhe bhi biradar pe kar diya
-  Phir bhi mera hussain jafa se na bach saka
+  Maaṅ ne nisaar unheṅ bhi biradar pe kar diya
+  Phir bhi mera Husain jafa se na bach saka
 
   2
-  Qasim sa naujawan ke nihayat haseen tha
-  Kitna zaheen tha
+  Qasim sa naujawaaṅ ke nihaayat hasin tha
+  Kitna zahin tha
   Aada ne uski laash ko pamaal kar diya
-  Nasle hassan ko qata kiya haye kya kiya
+  Nasl-e-Hasan ko qata kiya haye kya kiya
 
   3
   Farzand mera kitna jari aur diler tha
-  Sheron ka sher tha
-  Mai dekhti rahi mera abbas mar gaya
+  Sheroṅ ka sher tha
+  Main dekhti rahi mera Abbas mar gaya
   Shaane kata ke nehr pe ghazi guzar gaya
 
   4
-  Kadiyal jawan aap ki bilkul shabih tha
-  Kaisa wajeeh tha
-  Khaa kar sina kaleje pe akbar guzar gaya
-  Ek aah ki hussain ne aur dil pakad liya
+  Karyal jawaan aap ki bilkul shabih tha
+  Kaisa wajih tha
+  Khaa kar sinaaṅ kaleje pe Akbar guzar gaya
+  Ek aah ki Husain ne aur dil pakar liya
 
   5
-  Asghar wo cheh mahine ki jaan haye natawan
-  Pyasa tha bezaban
-  Lekin shaqi ne teer e seh shoba chala diya
-  Aaghosh mein hussain ki baccha ulat gaya
+  Asghar wo chhe mahine ki jaan haye na tawaaṅ
+  Pyaasa tha bezabaaṅ
+  Lekin shaqi ne tir-e-seh shoba chala diya
+  Aaghosh meiṅ Husain ki bachcha ulat gaya
 
   6
-  Baba idhar to dekhiye balwa e aam mein
-  Izdehaam emin
-  Wo jaa raha hai dard raseedon ka khafila
+  Baba idhar to dekhiye balwa-e-aam meiṅ
+  Izdehaam meiṅ
+  Wo jaa raha hai dard rasidoṅ ka qaafila
   Zainab bhi saath saath chali hoke berida
 # source_id: nohayonline:1f984db78d07f372b3c2
 # source_url: https://www.nohayonline.com/details_content.php?id=3506
@@ -59,6 +61,7 @@ romanLyrics: |-
 بابا میں کیا کروں
 دسویں کو کربلا میں میرا گھر اجڑ گیا
 ایک دو پہر میں ہاے مقدر بگڑ گیا
+بابا میں کیا کروں
 
 ۱
 عون و محمد اپنے ابو جد کی تھے مثال

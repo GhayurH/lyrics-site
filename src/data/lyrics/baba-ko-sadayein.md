@@ -1,36 +1,37 @@
 ---
 title: "بابا کو صدائیں دیتی ہے"
-alternateTitle: "Baba Ko Sadayein"
+alternateTitle: "Baba Ko Sadaaeṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Baba Ko Sadayein"]
 published: false
 romanLyrics: |-
-  Baba ko sadayein deti hai
-  Jangal may sakina raat gaye
-  Jab kaan may uske aati hai
-  Awaaz e ilayya raat gaye
+  Baba ko sadaaeṅ deti hai
+  Jangal meiṅ Sakina raat gaye
+  Jab kaan meiṅ us ke aati hai
+  Aawaaz-e-ilayya raat gaye
 
   1
-  Abbas nahi qasim bhi nahi
-  Akbar bhi nahi asghar bhi nahi
-  Be-gor o kafan hai jangal may
+  Abbas nahiṅ Qasim bhi nahiṅ
+  Akbar bhi nahiṅ Asghar bhi nahiṅ
+  Begor o kafan hai jangal meiṅ
   Shabbir ka laasha raat gaye
 
   2
-  Zehra ki dulaari sar kholay
-  Be-makhna o chadar baithi hai
-  Roodad e alam dohrata hai
-  Jalta hua qaima raat gaye
+  Zehra ki dulaari sar khole
+  Bemakhna o chaadar baithi hai
+  Rudaad-e-alam dohraata hai
+  Jalta hua khaima raat gaye
 
   3
-  Jab sham e ghariban ko lekar
-  Ashoor ka suraj doob gaya
-  Sajjad ko bhi be-deeno ne
-  Zanjeer may jakda raat gaye
+  Jab shaam-e-gharibaṅ ko le kar
+  Aashur ka suraj dub gaya
+  Sajjad ko bhi bedinoṅ ne
+  Zanjir meiṅ jakra raat gaye
 # source_id: nohayonline:7d195688cdc11dc46dbf
 # source_url: https://www.nohayonline.com/details_content.php?id=629
 # raw_sha256: 7431cff354e9cf7e7b9e358d242faf8c46f6d882172dc7d722b89cf865ad9548
