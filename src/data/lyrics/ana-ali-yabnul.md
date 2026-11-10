@@ -12,15 +12,15 @@ aliases: []
 published: false
 romanLyrics: 'Yaa Ali
 
-  Ayse Aaye Ali Akbar Sare Maidane Viga
+  Aise aaye Ali Akbar sar-e-maidan-e-wigha
 
-  Jaise Baadli Se Naya Chaand Namudaar Huwa
+  Jaise badli se naya chaand namudaar hua
 
-  Jaise Tasweere Mohammed Se Uthho Parda
+  Jaise taswir-e-Mohammed se utha ho parda
 
-  Jaise Haider Ki Jaawani Ka Chalan Jalwa Numa
+  Jaise Haider ki jawaani ka chalan jalwa numa
 
-  Yak Pa Yak Sale Aala Naaraye Akbar Gunjaa
+  Yak bayak salle ala naara-e-Akbar gunja
 
 
   1
@@ -34,22 +34,20 @@ romanLyrics: 'Yaa Ali
 
   2
 
-  Hum ko haasil sharafe khoone nabi
-
-  Ana ali yabnal hussain...
+  Hum ko haasil sharaf-e-khun-e-Nabi
 
   Badnasab hum pe hukumat karta
 
-  Na huwa hai na kabhi ho sakta
+  Na hua hai na kabhi ho sakta
 
 
   3
 
-  Wallah wallah aba''ab dillah
+  Wallah wallah Aba Abdillah
 
-  Mai fida tum pe hussain ibne ali
+  Main fida tum pe Husain ibn-e-Ali
 
-  Shamiyon ab mera hamla dekho
+  Shaamiyoṅ ab mera hamla dekho
 
 
   4
@@ -67,123 +65,123 @@ romanLyrics: 'Yaa Ali
 
   5
 
-  Naam Akbar Ali Akbar Hai Mera
+  Naam Akbar Ali Akbar hai mera
 
-  Main Hussain Ibne Ali Ka Beta
+  Main Husain ibn-e-Ali ka beta
 
-  Khaa Raha Hun Qasam E Baitullah…..(2)
+  Khaa raha huṅ qasam-e-Baitullah
 
-  Hum Ko Haasil Sharafe Khoone Nabi
+  Hum ko haasil sharaf-e-khun-e-Nabi
 
 
   6
 
-  Badnasab Ham Pe Hukumart Karta
+  Badnasab ham pe hukumat karta
 
-  Na Huwa Hai Na Kabhi Hosakta
+  Na hua hai na kabhi ho sakta
 
-  Wallah Wallah Aba Abdillah….. (2)
+  Wallah wallah Aba Abdillah
 
-  Main Fida Tum Pe Hussain Ibne Ali
+  Main fida tum pe Husain ibn-e-Ali
 
 
   7
 
-  Shaamiyo Ab Mera Hamla Dekho
+  Shaamiyoṅ ab mera hamla dekho
 
-  Zarbate Sayyade Wala Dekho
+  Zarbat-e-Sayyad-e-waala dekho
 
-  Meri Talwwar Ka Chalna Dekho….. (2)
+  Meri talwaar ka chalna dekho
 
-  Zarbate Haashmi Zarbe Alavi
+  Zarbat-e-Haashmi zarb-e-Alavi
 
 
   8
 
-  Kahke Yeh Fauj Mein Duba Who Shujaye Azali
+  Keh ke ye fauj mein duba wo shujaa-e-azali
 
-  Naar Zanja Ke Ana Ibne Hussain Ibne Ali
+  Naara zan tha ke ana ibn-e-Husain ibn-e-Ali
 
-  Teer Chalne Lage Naize Chalne Talwar Chali
+  Tir chalne lage naize chale talwaar chali
 
   Bad Ke Shamsheere Do Dum Se Safe Kuffar Jail
 
-  Kis Tarah Ladhte Hai Hum Shakle Payambar Dekho
+  Kis tarah larta hai hamshakl-e-Payambar dekho
 
-  Aaj Shamsheere Hussaini Ke Bhi Jauhar Dekho
+  Aaj shamshir-e-Husaini ke bhi jauhar dekho
 
 
   9
 
-  Palte Maidaan Se Vigaah Karte Huwe
+  Palte maidan se wigha karte hue
 
-  Aake Baba Se Yeh Akbar Bole
+  Aa ke baba se ye Akbar bole
 
-  Thoda Pani Mere Baba Jo Mile….. (2)
+  Thora paani mere baba jo mile
 
-  Dekhe Na Phir Se Merei Teg Zani
+  Dekhna phir se meri tegh zani
 
 
   10
 
-  Bole Sheh Sukhi Zabaan Dikhlakar
+  Bole Sheh sukhi zabaaṅ dikhla kar
 
-  Muuh Mein Rakho Yeh Anguthi Akbar
+  Muṅh mein rakho ye anguthi Akbar
 
-  Aaisa Sharbat Tumhe Denge Haidar….. (2)
+  Aisa sharbat tumheṅ deṅge Haider
 
-  Jisko Pi Kar Tumhe Kehna Hai Yahi
+  Jisko pi kar tumheṅ kehna hai yahi
 
 
   11
 
-  Ek sada goonji aba adrikni
+  Ek sada gunji aba adrikni
 
-  Sunke awaaz e pisar sheh daude
+  Sun ke aawaaz-e-pisar Sheh daure
 
-  Khaayi thokar kabhi gir kar sambhle
+  Khaai thokar kabhi gir kar sambhle
 
 
   12
 
-  Ghutniyo chalte huwe jab pahunche
+  Ghutniyoṅ chalte hue jab pahuṅche
 
-  Ali akbar ki ye awaaz suni
+  Ali Akbar ki ye aawaaz suni
 
-  Kya kare ab tera baba jee kar
+  Kya kare ab tera baba ji kar
 
 
   13
 
-  Ran Mein Jaakar Who Bahut Der Lade
+  Ran mein jaa kar wo bahut der lare
 
-  Chaar Janib Se Udu Tut Padhe
+  Chaar jaanib se adu tut pare
 
-  Naubate Bajen Lagi Jab Who Gire….. (2)
+  Naubateṅ bajne lagi jab wo gire
 
-  Ek Sada Gunji Aba Adrikni
+  Ek sada gunji aba adrikni
 
 
   14
 
-  Sun Ke Aawaze Pisar Shaahe Duade
+  Sun ke aawaaz-e-pisar Sheh daure
 
-  Khai Thokar Kabhi Gir Kar Sambhle
+  Khaai thokar kabhi gir kar sambhle
 
-  Guthniyo Chalet Huwe Jab Pahuche….. (2)
+  Ghutniyoṅ chalte hue jab pahuṅche
 
-  Ali Akbar Ki Yeh Awaz Suni
+  Ali Akbar ki ye aawaaz suni
 
 
   15
 
-  Kya Kare Ab Tera Baba Jee Kar
+  Kya kare ab tera baba ji kar
 
-  Khaak Duni Hai Tere Baad Akbar
+  Khaak duniya hai tere baad Akbar
 
-  Nauha Jaari Tha Rehan O Sarwar….. (2)
+  Nauha jaari tha Rehaan o Sarwar
 
-  Run Mein Roti Thi Sadaye Zakhmi'
+  Ran mein roti thi sada-e-zakhmi'
 # source_id: nohayonline:a512e098bc70ad69eebd
 # source_url: https://www.nohayonline.com/details_content.php?id=802
 # raw_sha256: 1405165f2a3d3fed3c5ae70ed61d83920c08949ea139b15db9a896bb05ec5ab5
@@ -208,7 +206,6 @@ romanLyrics: 'Yaa Ali
 ضرب غلامن ہاشمی ان علوی
 
 ۲
-انا علی یبن الحسین۔۔۔
 نام علی اکبر علی اکبر ہے میرا
 میں حسین ابنِ علی کا بیٹا
 کھا رہا ہوں قسم بیت اللہ
@@ -258,7 +255,7 @@ romanLyrics: 'Yaa Ali
 ۱۱
 اک صدا گونجی ابا ادرکنی
 سنکے آواز پسر شہ دوڑے
-کھای ٹھوکر کبھی گر کر سنبھلے
+کھائی ٹھوکر کبھی گر کر سنبھلے
 
 ۱۲
 گھٹنیوں چلتے ہوئے جب پہنچے
