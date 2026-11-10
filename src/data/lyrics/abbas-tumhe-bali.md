@@ -1,5 +1,5 @@
 ---
-title: "تو شیر جری ہے سخیوں کا سقی ہے"
+title: "تو شیر جری ہے سخیوں کا سخی ہے"
 alternateTitle: "Abbas Tumhe Bali"
 language: "Urdu"
 lang: "ur"
@@ -12,21 +12,21 @@ published: false
 reciter: "Farhan Ali Waris"
 romanLyrics: |-
   Tu Sher-e-Jari hai sakhiyoṅ ka sakhi hai
-  Ya Bab-e-Hawaij meri faryad ko sun le
-  Imdad karo meri ab waqt-e-karam hai
+  Ya Bab-e-Hawaij meri faryaad ko sun le
+  Imdaad karo meri ab waqt-e-karam hai
   Abbas tumheiṅ bali Sakina ki qasam hai
 
   1
   Aaya huṅ tere dar pe bari aas hai Maula
-  Har tute hue dil ka tu ehsas hai Maula
+  Har tute hue dil ka tu ehsaas hai Maula
   Tu ek samandar hai mujhe pyaas hai Maula
   Zakhmoṅ ki dawa sirf tere paas hai Maula
 
   2
-  Bedast sakhi apni sakhawat tu dikha de
+  Bedast sakhi apni sakhaawat tu dikha de
   Marte hue logoṅ ki hayat aur barha de
   Tu chahe to mitti ko bhi aksir bana de
-  Bimar ko Abbas-e-Alamdar shifa de
+  Bimaar ko Abbas-e-Alamdaar shifa de
 
   3
   Milti hai tere dar se gunahgar ko izzat
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Tu Bab-e-Hawaij hai sakhi ibn-e-sakhi hai
-  Allah ke nazdeek teri baat bari hai
+  Allah ke nazdik teri baat bari hai
   Jin maaoṅ ki godi abhi viran pari hai
   Aulad unheiṅ de de dua un ki yahi hai
 
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   6
   Har ek se ye baat to karta nahiṅ koi
-  Juz tere kahan ja ke wo phailaenge jholi
+  Juz tere kahaṅ ja ke wo phailaenge jholi
   Maaṅ baap ke sinoṅ pe yahi bojh hai bhari
   Beti ke nasiboṅ ko jaga do mere Ghazi
 
@@ -80,13 +80,13 @@ romanLyrics: |-
 
 ۱
 آیا ہوں تیرے در پہ بڑی آس ہے مولا
-ہر ٹوٹے ہوے دل کا تو احساس ہے مولا
+ہر ٹوٹے ہوئے دل کا تو احساس ہے مولا
 تو ایک سمندر ہے مجھے پیاس ہے مولا
 زخموں کی دوا صرف تیرے پاس ہے مولا
 
 ۲
 بے دست سخی اپنی سخاوت تو دکھا دے
-مرتے ہوے لوگوں کی حیات اور بڑھا دے
+مرتے ہوئے لوگوں کی حیات اور بڑھا دے
 تو چاہے تو مٹی کو بھی اکسیر بنا دے
 بیمار کو عباس علمدار شفا دے
 
@@ -100,7 +100,7 @@ romanLyrics: |-
 تو باب حوایج ہے سخی ابنِ سخی ہے
 اللّٰہ کے نزدیک تیری بات بڑی ہے
 جن ماؤں کی گودی ابھی ویران پڑی ہے
-اولاد انہیں دیدے دعا ان کی یہی ہے
+اولاد انہیں دے دے دعا ان کی یہی ہے
 
 ۵
 حالات نے اے مولا مجھے توڑ دیا ہے
@@ -110,18 +110,18 @@ romanLyrics: |-
 
 ۶
 ہر ایک سے یہ بات تو کرتا نہیں کوئی
-جز تیرے کہاں جا کے وہ پھیلاییں گے جھولی
+جز تیرے کہاں جا کے وہ پھیلائیں گے جھولی
 ماں باپ کے سینوں پہ یہی بوجھ ہے بھاری
 بیٹی کے نصیبوں کو جگا دو میرے غازی
 
 ۷
 بے جرم عزادار جو ہے قید میں مولا
 زنداں میں بچھاتے ہیں مگر فرش عزا کا
-مل جاے انہیں سید سجاد کا صدقہ
+مل جائے انہیں سید سجاد کا صدقہ
 دے ان کو رہائی کی خبر وارث زہرا
 
 ۸
-یہ کہکے نگاہوں کو تیرے در پہ جھکایا
+یہ کہہ کے نگاہوں کو تیرے در پہ جھکایا
 بس سر پہ سلامت رہے ماں باپ کا سایہ
 دے علم و ہنر بچوں کو صحت بھی خدارا
 کب ہم نے کسی غیر کو مشکل میں پکارا
