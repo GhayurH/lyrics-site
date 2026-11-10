@@ -11,58 +11,58 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ana qatil-ul-ibra
+  Ana qatil-ul-abra
   Main kushta-e-ibrat huṅ
 
   1
-  Kis ne paraye des mein dekha aisa khooni manzar
-  Shimre layeen ne be-rehmi se phera halq pe khanjar
-  Jis ko ek dukhiyari maa ne chakki pees ke paala
+  Kis ne paraye des mein dekha aisa khuni manzar
+  Shimr-e-laiṅ ne berahmi se phera halq pe khanjar
+  Jis ko ek dukhiyari maaṅ ne chakki pis ke paala
 
   2
-  Haq ke nabi ne jisko bithaya dosh pe naaqa ban ke
-  Eid ke din Rizwan-e-jina khud laaya jis ke kapde
-  Usko kafan dene ke bajaye pairahan bhi cheena
+  Haq ke Nabi ne jis ko bithaya dosh pe naqa ban ke
+  Eid ke din Rizwan-e-jinaṅ khud laaya jis ke kapre
+  Us ko kafan dene ke bajaye pairahan bhi chhina
 
   3
-  Meri behna dekh ke mujhko kiuṅ na pachade khaaye
-  Haye mera bemaar pisar behosh na kiuṅ hojaye
-  Zakhm badan par mere lage hai mo-e tan se zyada
+  Meri behna dekh ke mujh ko kiuṅ na pachhareṅ khaaye
+  Haye mera bimar pisar behosh na kiuṅ ho jaaye
+  Zakhm badan par mere lage haiṅ mu-e-tan se zyada
 
   4
-  Binte nabi ki qalb ki raahat laqte dile hyder hoon
-  Ranj o alam se choor hua hoon bekas hoon muztar hoon
-  Meri mazloomi pe zamana khoon ke aansu roya
+  Bint-e-Nabi ki qalb ki rahat lakht-e-dil-e-Haider huṅ
+  Ranj o alam se chur hua huṅ bekas huṅ muztar huṅ
+  Meri mazlumi pe zamana khun ke aansu roya
 
   5
-  Dekhte rehte thay hasrat se jis ko baba hyder
-  Subho masa jis halq ko chooma karte thay paighambar
-  Shimre layeen ne roze dahum us halq pe khanjar phera
+  Dekhte rehte the hasrat se jis ko Baba Haider
+  Subh o masa jis halq ko chuma karte the Payambar
+  Shimr-e-laiṅ ne roz-e-dahum us halq pe khanjar phera
 
   6
-  Rok ke khutba jisko uthaya godh mein mere jadh ne
-  Jis ke liye apne sajde ko tool diya ahmed ne
-  Kalma goyon ne sajde mein qatl usay kar daala
+  Rok ke khutba jis ko uthaya god mein mere jad ne
+  Jis ke liye apne sajde ko tul diya Ahmad ne
+  Kalma goyoṅ ne sajde mein qatl use kar daala
 
   7
-  Amma tum jis dasht mein shab bhar aaho buka karti thi
-  Jis ko apne baalon se tum saaf kiya karti thi
-  Haye sitamgaaron ne wahin par mera khoon bahaya
+  Ammaṅ tum jis dasht mein shab bhar aah o buka karti thi
+  Jis ko apne baaloṅ se tum saaf kiya karti thi
+  Haye sitamgaroṅ ne wohi par mera khuṅ bahaya
 
   8
-  Main huṅ shaheed-e-raah-e-Khuda aur paikar-e-sabr o raza huṅ
-  Karbobala hai shahid aisa kushta e tayghe jafa hoon
-  Jis ke janaze ko maqtal mein teeron ne hai uthaya
+  Main huṅ shahid-e-raah-e-Khuda aur paikar-e-sabr o raza huṅ
+  Karbobala hai shahid aisa kushta-e-tegh-e-jafa huṅ
+  Jis ke janaze ko maqtal mein tiroṅ ne hai uthaya
 
   9
-  Sharte wafa bas itini hai mil jaaye jo thanda pani
-  Yaad kare mazloom ki aur bekas ki tashna dahani
-  Zainab ye paigham hamare shiyon se keh dena
+  Shart-e-wafa bas itni hai mil jaaye jo thanda pani
+  Yaad kare mazlum ki aur bekas ki tashna dahani
+  Zainab ye paigham hamare Shioṅ se keh dena
 
   10
-  Rooh ko bhi mil jaaye sukoon aur qalb ko chain aa jaaye
-  Karbobala se kaash bilal awaaz e hussain aa jaaye
-  Dard mein dooba mere shayar khoob ye nauha likha
+  Ruh ko bhi mil jaaye sukuṅ aur qalb ko chain aa jaaye
+  Karbobala se kaash Bilal aawaz-e-Husain aa jaaye
+  Dard mein duba mere shayar khub ye nauha likha
 # source_id: nohayonline:c98ac94c8ff0657f8cfd
 # source_url: https://www.nohayonline.com/details_content.php?id=3378
 # raw_sha256: 53e43026d3d23fc5f532e3e5033a1de051a4067c27ee07d390166099be1293c2
@@ -81,8 +81,8 @@ romanLyrics: |-
 اس کو کفن دینے کے بجائے پیرہن بھی چھینا
 
 ۳
-میری بہنا دیکھ کے مجھکو کیوں نہ پچھاڑیں کھائے
-ہاے میرا بیمار پسر بے ہوش نہ کیوں ہو جائے
+میری بہنا دیکھ کے مجھ کو کیوں نہ پچھاڑیں کھائے
+ہائے میرا بیمار پسر بے ہوش نہ کیوں ہو جائے
 زخم بدن پر میرے لگے ہیں موئے تن سے زیادہ
 
 ۴
