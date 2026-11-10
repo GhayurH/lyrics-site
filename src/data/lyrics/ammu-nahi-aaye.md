@@ -11,60 +11,60 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kehti thi ye ro ro ke sakina mere baba
+  Kehti thi ye ro ro ke Sakina mere baba
   Ammu nahiṅ aaye
-  Main kab se khari dekhti huṅ raasta unka
+  Main kab se khari dekhti huṅ raasta un ka
   Ammu nahiṅ aaye
 
   1
-  Ay kaash na mai bhejti saahil pe chacha ko
-  Aameen kahe haath uthaati hoo dua ko
-  Ghar khair se aa jaye chacha jaan khudaya
+  Ae kaash na main bhejti saahil pe chacha ko
+  Aamin kaheṅ haath uthaati huṅ dua ko
+  Ghar khair se aa jaaeṅ chacha jaan Khudaaya
 
   2
   Kab mashk o alam le ke su-e-nehr gaye the
-  Aur deke gaye thay wo mujhe kya kya wo dilaase
-  Sab bhool gaye nehr ka paaya jo kanara
+  Aur de ke gaye the wo mujhe kya kya wo dilaase
+  Sab bhul gaye nehr ka paaya jo kinaara
 
   3
-  Kooza liye haaton mein sare raah khadi hoo
-  Hai soch na dushwar magar soch rahi hoo
-  Shayad unhe mujhse bi hai zyada koi pyara
+  Kuza liye haathoṅ mein sar-e-raah khari huṅ
+  Hai sochna dushwaar magar soch rahi huṅ
+  Shaayad unheṅ mujh se bhi hai zyaada koi pyaara
 
   4
-  Kehte thay ke darya se abhi laata hoo pani
-  Kuch dayr jo hojaye to rona nahi jaani
-  Qaime se zara door hai darya ka kanara
+  Kehte the ke darya se abhi laata huṅ paani
+  Kuchh der jo ho jaaye to rona nahiṅ jaani
+  Khaime se zara dur hai darya ka kinaara
 
   5
-  Koi unhe de de mera paighaam zabaani
-  Aa jao chacha ab mai nahi maangungi pani
-  Gham se phata jaata hai mera aah kaleja
+  Koi unheṅ de de mera paighaam zabaani
+  Aa jaao chacha ab main nahiṅ maanguṅ gi paani
+  Gham se phat jaata hai mera aah kaleja
 
   6
-  Reh reh ke mera seene mein kat'ta hai kaleja
-  Maidan se lauta nahi ab tak mera saqqa
-  Mashkeeza chida khoon mein hai tar alam aaya
+  Reh reh ke mera sine mein katta hai kaleja
+  Maidaan se lauta nahiṅ ab tak mera saqqa
+  Mashkiza chhida khun mein hai tar alam aaya
 
   7
-  Mai darti hoo allah bura waqt na laaye
-  Kuch dayr jo darya se abhi aur na aaye
-  Dam tod'de jhoole mein asghar kahin pyasa
+  Main darti huṅ Allah bura waqt na laaye
+  Kuchh der jo darya se abhi aur na aaye
+  Dam tor de jhule mein Asghar kahiṅ pyaasa
 
   8
-  Kyon takti hai hasrat se phuphi jaan rida ko
-  Kya hogaya darya pe bata ay zara mujhko
+  Kiuṅ takti haiṅ hasrat se phuphi jaan rida ko
+  Kya ho gaya darya pe bata ae zara mujh ko
   Kis ke liye rota hai ye kunba mera saara
 
   9
-  Aisa na ho aada ne unhe ghayr liya ho
-  Mashkeeze pe teer aaye ho seene pe laga ho
-  Saahil pe kahin doob gaya ho na safeena
+  Aisa na ho aada ne unheṅ gher liya ho
+  Mashkize pe tir aaya ho sine pe laga ho
+  Saahil pe kahiṅ dub gaya ho na safina
 
   10
-  Yawar ye buka karti thi ro ro ke sakina
-  Ammu ki khabar lijiye ya shaahe madina
-  Ammu ke baghair mera dushwaar hai jeena
+  Yawar ye buka karti thi ro ro ke Sakina
+  Ammu ki khabar lijiye ya Shah-e-Madina
+  Ammu ke baghair mera dushwaar hai jina
 # source_id: nohayonline:028a289719968ce0f0c3
 # source_url: https://www.nohayonline.com/details_content.php?id=529
 # raw_sha256: cf75e236a74743e7e04d0b69a40237e03ea30570972adba5293986dbbd56f40f
