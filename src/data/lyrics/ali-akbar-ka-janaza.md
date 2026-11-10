@@ -26,7 +26,7 @@ romanLyrics: |-
   Mere bhayi ka na shadi ka bulawa aaya
   
   3
-  Le to aaye Shah-e-Din lasha-e-jawaṅ khaime tak
+  Le to aaye Shah-e-Din lasha-e-jawaaṅ khaime tak
   Aisa lagta tha ke Shabbir ka lasha aaya
   
   4
@@ -34,12 +34,12 @@ romanLyrics: |-
   Kis tarah barchhi mein Akbar ka kaleja aaya
   
   5
-  Naujawaṅ lal ke sine se nikali barchhi
+  Naujawaaṅ lal ke sine se nikali barchhi
   Waqt mazlum musafir pe ye kaisa aaya
   
   6
-  Jis ko arman tha shadi ka wo maaṅ kya karti
-  Jis ki taqdir mein ta umr tarapna aaya
+  Jis ko armaan tha shadi ka wo maaṅ kya karti
+  Jis ki taqdir mein taa umr tarapna aaya
   
   7
   Ab na Akbar hai na Abbas na koi nasir

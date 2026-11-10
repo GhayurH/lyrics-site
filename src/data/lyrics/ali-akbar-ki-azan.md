@@ -1,5 +1,5 @@
 ---
-title: "صبحِ عاشور ہوی ماں نے رو رو کے سنی"
+title: "صبحِ عاشور ہوئی ماں نے رو رو کے سنی"
 alternateTitle: "Ali Akbar Ki Azan"
 language: "Urdu"
 lang: "ur"
@@ -30,13 +30,13 @@ romanLyrics: |-
   3
   Abhi kuch der salamat hai haram ka parda
   Sham ke waqt jab aaegi azanoṅ ki sada
-  Jaan bachane ke liye sar chhupane ke liye
+  Jaaṅ bachane ke liye sar chhupane ke liye
   Chadareṅ hoṅgi kahaṅ
   
   4
   Ro ke bete ne kaha baap se hasrat hai meri
   Aap ki bahan to sun leṅgi sada Akbar ki
-  In hawaon se kahe rukh Madine ka kare
+  In hawaaoṅ se kahe rukh Madine ka kare
   Meri Sughra hai wahaṅ
   
   5
@@ -48,14 +48,14 @@ romanLyrics: |-
   6
   Aaya jab naam-e-Ali uth ke ye Maula ne kaha
   Main fida aap pe Baba meri aulad fida
-  Tir Asghar ko lage sina Akbar ka chhide
+  Tir Asghar ke lage sina Akbar ka chhide
   Mujh pe khanjar ho rawaṅ
   
   7
   Itna tarpega Husain Ibn-e-Ali Ae beta
   Teri maaṅ teri phuphi teri Sakina Sughra
   Ji na paeṅge sabhi tujh ko barchhi jo lagi
-  Tujh mein hum sab ki hai jaan
+  Tujh mein hum sab ki hai jaaṅ
   
   8
   Masjid-e-Kufa nazar aane lagi Karb o Bala
@@ -71,7 +71,7 @@ romanLyrics: |-
   
   10
   Kaise manzar ho bhala Mir Takallum wo raqam
-  Bab-e-Saat pe hui satrah azaneṅ jis dam
+  Bab-e-Saat pe huiṅ satrah azaneṅ jis dam
   Sun ke ek ek azaṅ ro ke kehti thi wo maaṅ
   Mere Akbar ho kahaṅ
 ---
@@ -84,7 +84,7 @@ romanLyrics: |-
 پھر یہ آواز کہاں
 
 ۲
-دشت میں پیاسے مؤذن نے جو تکبیر کہیں
+دشت میں پیاسے مؤذن نے جو تکبیر کہی
 آ گئی اپنے مصلے پہ علی کی بیٹی
 یاد پھر آئی اسے اپنے بابا کی اذاں
 رو پڑی عون کی ماں
@@ -96,13 +96,13 @@ romanLyrics: |-
 چادریں ہوں گی کہاں
 
 ۴
-روکے بیٹے نے کہا باپ سے حسرت ہے میری
+رو کے بیٹے نے کہا باپ سے حسرت ہے میری
 آپ کی بہن تو سن لیں گی صدا اکبر کی
 ان ہواؤں سے کہے رخ مدینے کا کرے
 میری صغرا ہے وہاں
 
 ۵
-نام آیا جو محمد کا تو روے مولا
+نام آیا جو محمد کا تو روئے مولا
 انا للہ پڑھا اور یہ غازی سے کہا
 اس کو ماریں گے سناں یہ مسلمان بھلا
 رحم کھائیں گے کہاں
@@ -116,12 +116,12 @@ romanLyrics: |-
 ۷
 اتنا تڑپے گا حسین ابنِ علی اے بیٹا
 تیری ماں تیری پھپھی تیری سکینہ صغرا
-جی نہ پائیں گے سبھی تجھکو برچھی جو لگی
+جی نہ پائیں گے سبھی تجھ کو برچھی جو لگی
 تجھ میں ہم سب کی ہے جاں
 
 ۸
 مسجد کوفہ نظر آنے لگی کربوبلا
-دو اذانوں پہ بہت روی ہے بنت زہرا
+دو اذانوں پہ بہت روئی ہے بنت زہرا
 آج تک بھولی نہیں ایک بابا کی اذاں
 ایک اکبر کی اذاں
 

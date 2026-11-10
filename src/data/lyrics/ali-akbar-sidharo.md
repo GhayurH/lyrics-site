@@ -16,7 +16,9 @@ published: false
 romanLyrics: |-
   Ali Akbar sidharo
   Shah-e-Wala ne di aawaz Ae hamshakl-e-Payambar
-  Baqa-e-Haq ki khatir baṅdh lo beta kafan sar par
+  Ali Akbar sidharo
+  Baqa-e-Haq ki khatir baandh lo beta kafan sar par
+  Ali Akbar sidharo
   
   1
   Wo dekho wo barhe aate haiṅ aada janib-e-khaima
@@ -36,19 +38,19 @@ romanLyrics: |-
   
   5
   Ani khud barh ke barchhi ki laga lo apne sine se
-  Jigar par khao ab zakhm-e-sinaṅ o tir haṅs haṅs kar
+  Jigar par khao ab zakhm-e-sinaan o tir hans hans kar
   
   6
   Ijazat maaṅ se haaṅ ab ja ke khaime mein zara le lo
   Phuphi se hum ijazat khud dila deṅge tumheṅ chal kar
   
   7
-  Pisar ko barchhiyoṅ mein bhejna aasaṅ nahiṅ beta
+  Pisar ko barchhiyoṅ mein bhejna aasaaṅ nahiṅ beta
   Hai fitrat ka taqaza ghash bhi ho sakti hai maaṅ sun kar
   
   8
   Phuphi ke sath hi Ae lal hai bimar ka khaima
-  Ye rakhna dhyan chauṅk uthe na ghash se Abid-e-Muztar
+  Ye rakhna dhyan chaunk uthe na ghash se Abid-e-Muztar
   
   9
   Shikayat pyas ki ab ja ke Dada jaan se karna
@@ -59,11 +61,11 @@ romanLyrics: |-
   Tumhari lash pe sajda karuṅga shukr ka dilbar
   
   11
-  Jawaṅ bete ka lasha kis tarah late haiṅ maqtal se
+  Jawaaṅ bete ka lasha kis tarah late haiṅ maqtal se
   Zamana dekh lega daur-e-Ibn-e-Fatih-e-Khaibar
   
   12
-  Ye lamha dard ka chha jaega yuṅ din-e-aalam par
+  Ye lamha dard ka chha jaega yuṅ zehn-e-aalam par
   Na bhulega zamana hashr tak ye dasht ye manzar
   
   13
@@ -73,11 +75,13 @@ romanLyrics: |-
 
 علی اکبر سِدھارو
 شہِ والا نے دی آواز اے ہم شکلِ پیغمبر
+علی اکبر سِدھارو
 بقائے حق کی خاطر باندھ لو بیٹا کفن سر پر
+علی اکبر سِدھارو
 
 ۱
 وہ دیکھو وہ بڑھے آتے ہیں اعدا جانبِ خیمہ
-بڑھو اور بڑھ کہ بیٹا روک دو بڑھتا ہوا لشکر
+بڑھو اور بڑھ کے بیٹا روک دو بڑھتا ہوا لشکر
 
 ۲
 گلا کٹ جائے لیکن حق پہ آنچ آنے نہیں پائے
@@ -92,7 +96,7 @@ romanLyrics: |-
 تمھارے سامنے کیا ہے بھلا یہ فوج یہ لشکر
 
 ۵
-اَنی خود بڑھ کے بَرچھی کی لگالو اپنے سینے سے
+اَنی خود بڑھ کے بَرچھی کی لگا لو اپنے سینے سے
 جگر پر کھاؤ اب زخمِ سِنان و تِیر ہنس ہنس کر
 
 ۶
@@ -109,7 +113,7 @@ romanLyrics: |-
 
 ۹
 شکایت پیاس کی اب جا کے دادا جان سے کرنا
-تمہیں سیراب بیٹا اب کرینگے ساقیِ کوثر
+تمہیں سیراب بیٹا اب کریں گے ساقیِ کوثر
 
 ۱۰
 سِناں کھا کر جو گرنا خاک پر گر کر صدا دینا
@@ -117,12 +121,12 @@ romanLyrics: |-
 
 ۱۱
 جواں بیٹے کا لاشہ کس طرح لاتے ہیں مقتل سے
-زمانہ دیکھ لیگا دورِ ابنِ فاتحِ خیبر
+زمانہ دیکھ لے گا دورِ ابنِ فاتحِ خیبر
 
 ۱۲
 یہ لمحہ درد کا چھا جائے گا یوں ذہنِ عالم پر
 نہ بھولے گا زمانہ حشر تک یہ دَشت یہ منظر
 
 ۱۳
-جو سُن لیگا میرا بھائی تمہیں جانے نہیں دے گا
-وہ بے بس مجھ کو کردے گا میرے قدموں پہ سَر رکھ کر
+جو سُن لے گا میرا بھائی تمہیں جانے نہیں دے گا
+وہ بے بس مجھ کو کر دے گا میرے قدموں پہ سَر رکھ کر
