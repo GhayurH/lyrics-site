@@ -6,49 +6,51 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashoor ki sehar hai Akbar ki azaan hai
-  Shabbir ke lashkar mein ek shor-e-fughaṅ hai
+  Ashoor ki sehar hai Akbar ki azaaṅ hai
+  Shabbir ke lashkar mein ek shor-e-fughaaṅ hai
+  Ashoor ki sehar hai Akbar ki azaaṅ hai
 
   1
-  Saf basta ghazi hain maula ki amanat mein
-  Ansar-e-Shah-e-Deen hain masroof ibadat mein
-  Sajde mein dua karti akbar teri maa hai
+  Saf basta ghazi haiṅ maula ki amanat mein
+  Ansar-e-Shah-e-diṅ haiṅ masruf ibadat mein
+  Sajde mein dua karti Akbar teri maaṅ hai
 
   2
-  Kya sog ka aalam tha shabbir ke lashkar mein
-  Maa kehti thi laaungi akbar ki dulhan ghar mein
-  Maloom na tha inki kismat mein sinaan hai
+  Kya sog ka aalam tha Shabbir ke lashkar mein
+  Maaṅ kehti thi laauṅ gi Akbar ki dulhan ghar mein
+  Malum na tha in ki qismat mein sinaaṅ hai
 
   3
-  Ashoor se har subhe ki aaghosh mein ab tak
-  Masoom ki taaseer-e-bayaan goonj rahi hai
-  Islam ki wadi mein aawaz hi ay log
-  Shabbir ke akbar ki azaan goonj rahi hai
+  Ashoor se har subh ki aaghosh mein ab tak
+  Masum ki taasir-e-bayaaṅ gunj rahi hai
+  Islam ki waadi mein aawaz hi ae log
+  Shabbir ke Akbar ki azaaṅ gunj rahi hai
 
   4
-  Awaz-e-azaan pahunchi jis waqt madine mein
-  Sughra ne kaha koi hasrat nahi senay mein
-  Mujhe itna ye bata de bhai tu kahan hai
+  Aawaz-e-azaaṅ pahunchi jis waqt Madine mein
+  Sughra ne kaha koi hasrat nahiṅ sine mein
+  Mujhe itna ye bata de bhai tuṅ kahaṅ hai
 
   5
-  Dam tod'te akbar ne baba se kaha ro kar
+  Dam torte Akbar ne baba se kaha ro kar
   Sughra ko bata dena sehra na bandha sar par
-  Barchi hai kaleje mein aur khusk zaban hai
+  Barchhi hai kaleje mein aur khushk zabaaṅ hai
 
   6
-  Athara baras paal ke jis ko jawan kiya
-  Zainab ke saamne wohi dam todne laga
-  Zainab ne sar ko peet ke laashe se ya kaha
-  Akbar nahi gaya mere seene se dil gaya
+  Athaara baras paal ke jis ko jawaaṅ kiya
+  Zainab ke saamne woh hi dam torne laga
+  Zainab ne sar ko pit ke laashe se ye kaha
+  Akbar nahiṅ gaya mere sine se dil gaya
 
   7
-  Zainab ke ye naale thay laashe ali akbar par
-  Athara baras maine paala tha tujhe akbar
-  Main dhoop mein baithi hoon aur ashk rawan hai
+  Zainab ke ye naale the laash-e-Ali Akbar par
+  Athaara baras main ne paala tha tujhe Akbar
+  Main dhup mein baithi huṅ aur ashk rawaaṅ hai
 # source_id: nohayonline:5250a7c1f96e06669291
 # source_url: https://www.nohayonline.com/details_content.php?id=33
 # raw_sha256: 2428c9cc8f4250e93231c3ca3a2098c3decf71f8feda5cf02ba8b7754139dfca
@@ -56,6 +58,7 @@ romanLyrics: |-
 
 عاشور کی سحر ہے اکبر کی اذاں ہے
 شبیر کے لشکر میں اک شورِ فغاں ہے
+عاشور کی سحر ہے اکبر کی اذاں ہے
 
 ۱
 صف بستہ غازی ہیں مولا کی امانت میں

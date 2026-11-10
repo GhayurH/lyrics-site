@@ -6,36 +6,38 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Iman ke ujaale hai ashoor ki garmi hai
-  Shabbir ki qismat hai aur godh ke paale hai
+  Iman ke ujaale haiṅ Ashoor ki garmi hai
+  Shabbir ki qismat hai aur god ke paale haiṅ
+  Iman ke ujaale haiṅ Ashoor ki garmi hai
 
   1
-  Yahan dil taho baala hai wahan jaan ke laale hai
-  Shabbir zaifi mein akbar ko sambhale hai
+  Yahaṅ dil tah o baala hai wahaṅ jaan ke laale haiṅ
+  Shabbir zaifi mein Akbar ko sambhaale haiṅ
 
   2
-  Jis tarha koi chaahe ghar lootle pyason ka
-  Jalti hui reti par sab chaahne waale hai
+  Jis tarah koi chaahe ghar lutte pyasoṅ ka
+  Jalti hui reti par sab chaahne waale haiṅ
 
   3
-  Abid ko koi dekhe darbar mein Kufe ke
-  Bedi ko uthaye hai zanjeer sambhale hai
+  Abid ko koi dekhe darbaar mein Kufe ke
+  Beri ko uthaaye haiṅ zanjir sambhaale haiṅ
 
   4
-  Suljhaya tha laila ne uljhi hui zulfon ko
-  Phir maut ne ae Akbar bal gaysuon waale hai
+  Suljhaaya tha Laila ne uljhi hui zulfoṅ ko
+  Phir maut ne ae Akbar baal gesuoṅ waale haiṅ
 
   5
-  Dekho to ali asghar aaghosh mein baba ki
-  Kya kaampte hathon se ummat ko sambhale hai
+  Dekho to Ali Asghar aaghosh mein baba ki
+  Kya kaampte haathoṅ se ummat ko sambhaale haiṅ
 
   6
-  Be-faiz zamane se kya usko gharaz koi
-  Ab fazl ki dunya ke shabbir ujaale hai
+  Befaiz zamaane se kya usko gharaz koi
+  Ab Fazl ki dunya ke Shabbir ujaale haiṅ
 # source_id: nohayonline:3de21c0ca4d8267dd239
 # source_url: https://www.nohayonline.com/details_content.php?id=1199
 # raw_sha256: 28d9b39b46020335c4b88b2bfb574497d9366bba9a617a4c2e2e341c401a752d
@@ -43,6 +45,7 @@ romanLyrics: |-
 
 ایمان کے اجالے ہیں عاشور کی گرمی ہے
 شبیر کی قسمت ہے اور گود کے پالے ہیں
+ایمان کے اجالے ہیں عاشور کی گرمی ہے
 
 ۱
 یہاں دل تہہ و بالا ہے وہاں جان کے لالے ہیں
@@ -57,7 +60,7 @@ romanLyrics: |-
 بیڑی کو اٹھائے ہیں زنجیر سنبھالے ہیں
 
 ۴
-سلجھایا تھا لیلیٰ نے الجھی ہوئی ذلفوں کو
+سلجھایا تھا لیلیٰ نے الجھی ہوئی زلفوں کو
 پھر موت نے اے اکبر بال گیسوؤں والے ہیں
 
 ۵

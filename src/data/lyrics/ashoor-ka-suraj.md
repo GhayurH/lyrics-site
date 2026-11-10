@@ -6,79 +6,80 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mirza Murtaza Ali"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ashoor ka suraj jalta hai
-  
-  1
   Har khaak ka zarra jalta hai
   Jalti hai zamin-e-Karb o Bala
   Ya Arsh-e-Moalla jalta hai
-  Ansar ke khaime jalte hai
-  Shabbir ka qaima jalta hai
+
+  1
+  Ansar ke khaime jalte haiṅ
+  Shabbir ka khaima jalta hai
   Islam ki dunya jalti hai
   Kabe ka musalla jalta hai
-  
+
   2
   Naize ko jagah di hai dil mein
   Aise ke jigar ka kya kehna
   Akbar ko sukun-e-qalb mila
   Laila ka kaleja jalta hai
-  
+
   3
-  Quran ke parhne walon ne
-  Quran ko jala kar khaak kiya
+  Quraan ke parhne waloṅ ne
+  Quraaṅ ko jala kar khaak kiya
   Yasin ka sura jalta hai
-  Quran ka paara jalta hai
-  
+  Quraan ka paara jalta hai
+
   4
-  Ghar baar jalaya ummat ne
-  Kya khoob ye ajr-e-risalat hai
+  Ghar baar jalaaya ummat ne
+  Kya khub ye ajr-e-risalat hai
   Jalti hai Muhammad ki masnad
   Beshir ka jhula jalta hai
-  
+
   5
   Itrat pe Nabi ke jor o sitam
-  Kya khoob musalmano ne kiya
+  Kya khub musalmanoṅ ne kiya
   Zainab ki rida kya jalti hai
   Islam ka parda jalta hai
-  
+
   6
-  Rakhi jo fidak mein chingari
-  Ye sholay usi ke nikalte hai
+  Rakhi jo Fadak mein chingaari
+  Ye shole usi ke nikalte haiṅ
   Kya aag baghawat ki phaili
-  Ran karbobala ka jalta hai
-  
+  Ran Karb o Bala ka jalta hai
+
   7
   Beshir ki tashna dahani ne
-  Ek aag lagadi pani mein
+  Ek aag laga di pani mein
   Asghar ke tabassum par ab tak
-  Darya ka kinara jalta hai
-  
+  Darya ka kinaara jalta hai
+
   8
-  Qaime mein sakina dekhti hai
-  Jab yaas se khaali saagar ko
-  Saahil pe tadapta hai laasha
+  Khaime mein Sakina dekhti hai
+  Jab yaas se khaali saaghar ko
+  Saahil pe tarapta hai laasha
   Saqqa ka kaleja jalta hai
-  
+
   9
-  Thi kufr ko emaan se takkar
-  Ghar baar nabi ka jal ke raha
-  Jalti hai jidaar e kaaba e deen
-  Emaan ka qibla jalta hai
-  
+  Thi kufr ko iman se takkar
+  Ghar baar Nabi ka jal ke raha
+  Jalti hai jidaar-e-Kaaba-e-diṅ
+  Iman ka qibla jalta hai
+
   10
-  Zanjeer zani ye seena zani
-  Tum hum ko na samjho deewane
-  Shabbir tumhare matam se
+  Zanjir zani ye sina zani
+  Tum hum ko na samjho diwane
+  Shabbir tumhaare maatam se
   Dil aur kisi ka jalta hai
-  
+
   11
-  Sad-haif ke misle range hina
+  Sad haif ke misl-e-rang-e-hina
   Kubra ka suhaag ab jal hi gaya
-  Is dashte bala mein ae Mirza
+  Is dasht-e-bala mein ae Mirza
   Kya kya main kahuṅ kya jalta hai
 # source_id: nohayonline:2b6c5719aa5e497d720f
 # source_url: https://www.nohayonline.com/details_content.php?id=62
@@ -89,11 +90,11 @@ romanLyrics: |-
 ---
 
 عاشور کا سورج جلتا ہے
-
-۱
 ہر خاک کا ذرہ جلتا ہے
 جلتی ہے زمینِ کرب و بلا
 یا عرشِ معلیٰ جلتا ہے
+
+۱
 انصار کے خیمے جلتے ہیں
 شبیر کا خیمہ جلتا ہے
 اسلام کی دنیا جلتی ہے
@@ -127,7 +128,7 @@ romanLyrics: |-
 رکھی جو فدک میں چنگاری
 یہ شعلے اُسی کے نکلتے ہیں
 کیا آگ بغاوت کی پھیلی
-رن کر ب و بلا کا جلتا ہے
+رن کرب و بلا کا جلتا ہے
 
 ۷
 بے شیر کی تشنہ دہانی نے
