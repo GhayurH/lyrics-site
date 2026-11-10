@@ -18,11 +18,11 @@ romanLyrics: |-
 
   1
   Aisa dunya mein koi hai na hoga
-  Husain wo badshah hai jo mulkoṅ pe nahiṅ
+  Husain wo baadshah hai jo mulkoṅ pe nahiṅ
   Diloṅ pe hukumat karta hai
   Husain hamara hai
   Jaan se bhi pyara hai
-  Aankhoṅ ka tara hai
+  Aankhoṅ ka taara hai
   Sab ka sahara hai
   Aisa mera Husain
   Mera Maula Husain
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   2
   Is ke liye hi saari dunya bani hai
-  Jo is ko mane wohi Panjtani hai
+  Jo is ko maane wohi Panjtani hai
   Har dil pe raaj us ka
   Sab kuchh hai aaj us ka
   Kehne waloṅ kaho
@@ -67,7 +67,7 @@ romanLyrics: |-
   Wallah
 
   5
-  Har koi mane jise apna Imam
+  Har koi maane jise apna Imam
   Saari zabanoṅ pe hai ek hi naam
   Hindu Muslim Isai
   Is dar pe bhai bhai
@@ -88,17 +88,17 @@ romanLyrics: |-
   Fatima is ki maaṅ
   Baba kull-e-iman
   Aisa shajra kahaṅ
-  Sun le sara jahaṅ
+  Sun le saara jahaṅ
 
   7
   Khidmat-e-aza ki karta main aaya
   Wirsa yehi aulad mein paya
   Majlis girya o matam
   Karte raheṅge har dam
-  Mujh ko hai ye sukun
-  Hai paak mera khun
+  Mujh ko hai ye sukuṅ
+  Hai paak mera khuṅ
   Main rahuṅ na rahuṅ
-  Bolega ye junun
+  Bolega ye junuṅ
 
   8
   Zinda rahega painda rahega
@@ -132,7 +132,7 @@ romanLyrics: |-
   Hai safar mein har ghadi
   Din mein shab mein har koi
   Karta rehta hai mashi
-  Sab ka ye data hai
+  Sab ka ye daata hai
   Har dil ko bhata hai
   Dar pe bulata hai
   Rab se milata hai
@@ -148,7 +148,7 @@ romanLyrics: |-
   Bulana Maula Karbala
 
   11
-  Badshah-e-Karbala
+  Baadshah-e-Karbala
   Alwida yabna Zahra
   Tishna-lab-e-Nainawa
   Alwida yabna Zahra
@@ -201,7 +201,7 @@ romanLyrics: |-
 حسینا حسینا
 
 ۲
-اس کے لیےء ہی ساری دنیا بنی ہے
+اس کے لیے ہی ساری دنیا بنی ہے
 جو اس کو مانے وہی پنجتنی ہے
 ہر دل پہ راج اس کا
 سب کچھ ہے آج اس کا
@@ -266,7 +266,7 @@ romanLyrics: |-
 ورثہ یہی اولاد میں پایا
 مجلس گریہ و ماتم
 کرتے رہیں گے ہر دم
-مجھکو ہے یہ سکوں
+مجھ کو ہے یہ سکوں
 ہے پاک میرا خوں
 میں رہوں نہ رہوں
 بولے گا یہ جنوں
@@ -277,7 +277,7 @@ romanLyrics: |-
 زندہ رہے گا پایندہ رہے گا
 مولا حسین کا نام
 کربوبلا کا ثانی کوئی نہیں حسین
-آ کے یہاں پہ یہ کہے زایرین
+آ کے یہاں پہ یہ کہے زائرین
 یہ پاک سر زمین
 ملتا ہے رب یہیں
 یہ ہے خاک شفا
