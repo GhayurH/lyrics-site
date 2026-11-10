@@ -63,7 +63,7 @@ romanLyrics: |-
   Kehne laga wajd mein Ashab ka lashkar
   
   7
-  Shankh ki ye guṅj ye naubat ki sadaeṅ
+  Shankh ki ye gunj ye naubat ki sadaeṅ
   Sare zamane ko ye paigham sunaeṅ
   Nara lagate the ye Shahbaz Qalandar
   

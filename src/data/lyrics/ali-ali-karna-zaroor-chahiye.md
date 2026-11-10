@@ -36,7 +36,7 @@ romanLyrics: |-
   Pak Nabi ne ghore tauṅ lahaya
   Nabi da alam mere Maula chaya
   De ke alam Nabi farmaya
-  Tuṅ Allah da Wali aeṅ nale mera Wasi
+  Tuṅ Allah da Wali aeṅ nale mainda Wasi
   Oh Marhab marna zarur chahi da
   
   4
@@ -109,11 +109,11 @@ romanLyrics: |-
 پاک نبی نے گھوڑے توں لایا
 نبی دا علم میرے مولا چایا
 دے کے علم نبی فرمایا
-توں اللہ دا ولی ایں نالے میرا وصی
+توں اللہ دا ولی ایں نالے مینڈا وصی
 اوہ مرحب مرنا ضرور چاہی دا
 
 ۴
-بی بی کہو غدیر کے مولا کو بھیج دوں
+بی‌بی کہو غدیر کے مولا کو بھیج دوں
 گھر میں ہی کیا حقیقت قبلہ کو بھیج دوں
 تیرہ رجب کو بولا خدا اے علی کی ماں
 آپ آؤ گی یہاں خانۂ کعبہ کو بھیج دوں
