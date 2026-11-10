@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Naqvi"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,89 +15,90 @@ romanLyrics: |-
   
   1
   Abbas-e-Dilawar maqtal mein
-  Be-izn-e-wigha jab aayega
-  Toofan uthega sehra mein
+  Be izn-e-wigha jab aayega
+  Tufaan uthega sehra mein
   Aur darya se takrayega
-  Maqtal ki fazaon ko phir se
-  Ek baar ali yaad aayega
+  Maqtal ki fazaoṅ ko phir se
+  Ik baar Ali yaad aayega
   
   2
-  Shaane pe sajaye mashkeeza
-  Aayega jari haathon mein liye
-  Bas ek alam aur ek naiza
-  Jab ghaat ka pehra tootega
+  Ashoor ka suraj dekhega
+  Shaane pe sajaye mashkiza
+  Aayega jari haathoṅ mein liye
+  Bas ek alam aur ik naiza
+  Jab ghaat ka pehra tutega
   Dil zaalim ka ghabrayega
   
   3
   Saahil ki hawa ki thandak mein
-  Ghode ka badan jab haampega
-  Bechain sumon ki taapon se
-  Jab darya thar thar kaampega
-  Jab abr ki soorat darya pe
-  Ek tashna dahan chajayega
+  Ghore ka badan jab haanpega
+  Bechain sumoṅ ki taapoṅ se
+  Jab darya thar thar kaanpega
+  Jab abr ki surat darya pe
+  Ik tashna dahan chhaa jayega
   
   4
-  Jab maujein behte darya ki
-  Uth uth ke raqaabe choomengi
-  Jab garm hawaein pyason ke
-  Khaimoṅ ki tamaawe choomengi
-  Jab aab rawan ke seene pe
+  Jab maujeṅ behte darya ki
+  Uth uth ke rakaabeṅ chumeṅ gi
+  Jab garm hawaeṅ pyasoṅ ke
+  Khaimoṅ ki tamaaweṅ chumeṅ gi
+  Jab aab-e-rawaaṅ ke sine pe
   Ghazi ka alam lehrayega
   
   5
-  Pani mein girega mashkeeza
-  Jab katne waale haathon se
+  Pani mein girega mashkiza
+  Jab kaatne wale haathoṅ se
   Kat kar bhi apne maqsad se
-  Na hatne waale haathon se
-  Jab farte nidamat se darya
-  Mashkeeze mein aajayega
+  Na hatne wale haathoṅ se
+  Jab fart-e-nidaamat se darya
+  Mashkize mein aa jaaeṅ ge
   
   6
-  Gham dil mein sambhale bachon ke
-  Haathon ke larazte koozon ka
-  Jab pani lekar palthega
-  Khaimoṅ ki taraf sardare wafa
-  Be taygh jari ke seene pe
+  Gham dil mein sambhaale bachchoṅ ke
+  Haathoṅ ke larazte kuzoṅ ka
+  Jab pani le kar paltega
+  Khaimoṅ ki taraf sardaar-e-wafa
+  Be tegh jari ke sine pe
   Har samt se hamla aayega
   
   7
   Jab gurz lagega chehre pe
-  Jab shaane girenge kat kat kar
-  Jab khaak udegi maqtal mein
+  Jab shaane gireṅ ge kat kat kar
+  Jab khaak uregi maqtal mein
   Jab laash bahegi matti par
-  Jab mashq chidegi teeron se
-  Dil saqqa ka phat jayega
+  Jab mashk chhidegi tiroṅ se
+  Dil saqqa ka phat jaayega
   
   8
-  Jab ghazi kahega maula se
-  Ek baar hamiyat hai aaqa
+  Jab Ghazi kahega Maula se
+  Ik baar hamiyat hai aaqa
   Khaimoṅ mein mujhe na le jaana
   Bas itni wasiyat hai aaqa
-  Gar laash gayi qaimon ki taraf
-  Sar zainab ka khul jayega
+  Gar laash gayi khaimoṅ ki taraf
+  Sar Zainab ka khul jaayega
   
   9
-  Jab maula tanha lautenge
-  Aankhon mein lahoo ke ashk liye
-  Ek khoon mein dooba surkh alam
-  Teeron se chidi ek mashk liye
-  Jab kooze girenge haathon se
-  Kulsoom ko ghash aajayega
+  Jab Maula tanha lauteṅ ge
+  Aankhoṅ mein lahu ke ashk liye
+  Ik khun mein duba surkh alam
+  Tiroṅ se chhidi ik mashk liye
+  Jab kuze gireṅ ge haathoṅ se
+  Kulsum ko ghash aa jaayega
   
   10
-  Masoom sakina poochegi
-  Hai mashk o alam pe kiska lahoo
-  Kiun laut ke wapas aaye nahi
-  Kiun laaye nahi pani ammu
-  Ye sunke amma fizza ki
-  Aankhon mein lahoo aajayega
+  Maasum Sakina puchhegi
+  Hai mashk o alam pe kis ka lahu
+  Kiuṅ laut ke waapas aaye nahiṅ
+  Kiuṅ laaye nahiṅ pani ammu
+  Ye sun ke ammaaṅ Fizza ki
+  Aankhoṅ mein lahu aa jaayega
   
   11
-  Dil apna dhadakta hai mazhar
-  Naqvi jo ishqe karbal mein
-  Ye bhi hai karam un haathon ka
+  Dil apna dharakta hai Mazhar
+  Naqvi jo ishq-e-Karbal mein
+  Ye bhi hai karam un haathoṅ ka
   Jo haath kate thay maqtal mein
-  Jab ahle aza ke ashkon mein
+  Jab ahl-e-aza ke ashkoṅ mein
   Har lafz mera dhal jayega
 # source_id: nohayonline:93010477c3ae12f670d2
 # source_url: https://www.nohayonline.com/details_content.php?id=979
@@ -107,18 +109,19 @@ romanLyrics: |-
 
 ۱
 عباس دلاور مقتل میں
-بے اذن وغا جب آے گا
+بے اذن وغا جب آئے گا
 طوفان اٹھے گا صحرا میں
-اور دریا سے ٹکراے گا
+اور دریا سے ٹکرائے گا
 مقتل کی فضاؤں کو پھر سے
-اک بار علی یاد آے گا
+اک بار علی یاد آئے گا
 
 ۲
-شانے پہ سجاے مشکیزہ
-آے گا جری ہاتھوں میں لیے
-بس ایک الم اور اک نیزہ
+عاشور کا سورج دیکھے گا
+شانے پہ سجائے مشکیزہ
+آئے گا جری ہاتھوں میں لیے
+بس ایک علم اور اک نیزہ
 جب گھاٹ کا پہرا ٹوٹے گا
-دل ظالم کا گھبراے گا
+دل ظالم کا گھبرائے گا
 
 ۳
 ساحل کی ہوا کی ٹھنڈک میں
@@ -131,10 +134,10 @@ romanLyrics: |-
 ۴
 جب موجیں بہتے دریا کی
 اٹھ اٹھ کے رکابیں چومیں گی
-جب گرم ہوایں پیاسوں کے
-خیموں کی طماویں جومیں گی
+جب گرم ہوائیں پیاسوں کے
+خیموں کی طماویں چومیں گی
 جب آبِ رواں کے سینے پہ
-غازی کا الم لہراے گا
+غازی کا علم لہرائے گا
 
 ۵
 پانی میں گرے گا مشکیزہ
@@ -150,11 +153,11 @@ romanLyrics: |-
 جب پانی لے کر پلٹے گا
 خیموں کی طرف سردار وفا
 بے تیغ جری کے سینے پہ
-ہر سمت سے حملہ آے گا
+ہر سمت سے حملہ آئے گا
 
 ۷
 جب گرز لگے گا چہرے پہ
-جب شان گریں گے کٹ کٹ کر
+جب شانے گریں گے کٹ کٹ کر
 جب خاک اڑے گی مقتل میں
 جب لاش بہے گی مٹی پر
 جب مشک چھدے گی تیروں سے
@@ -165,22 +168,22 @@ romanLyrics: |-
 اک بار ہمیت ہے آقا
 خیموں میں مجھے نہ لے جانا
 بس اتنی وصیت ہے آقا
-گر لاش گیء خیموں کی طرف
+گر لاش گئی خیموں کی طرف
 سر زینب کا کھل جائے گا
 
 ۹
 جب مولا تنہا لوٹیں گے
 آنکھوں میں لہو کے اشک لئے
-اک خون میں ڈوبا سرخ الم
+اک خون میں ڈوبا سرخ علم
 تیروں سے چھدی اک مشک لئے
-جب کوزے گرے نگے ہاتھوں سے
-کلثوم کو غش آجاے گا
+جب کوزے گریں گے ہاتھوں سے
+کلثوم کو غش آجائے گا
 
 ۱۰
 معصوم سکینہ پوچھے گی
-ہے مشک و الم پہ کس کا لہو
+ہے مشک و علم پہ کس کا لہو
 کیوں لوٹ کے واپس آئے نہیں
-کیوں لاے نہیں پانی عمو
+کیوں لائے نہیں پانی عمو
 یہ سن کے اماں فضہ کی
 آنکھوں میں لہو آجائے گا
 
