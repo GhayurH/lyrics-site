@@ -23,7 +23,7 @@ romanLyrics: |-
   Sab ka gala sukha hai
   Tum bhi to pyase ho
   Baba bhi pyasa hai
-  Bhari ho laakhoṅ par
+  Bhaari ho laakhoṅ par
 
   3
   Lo ye alam mashkiza
@@ -128,7 +128,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 
 ۸
 بولے یہ رو کر غازی
-وعدہ کرو یہ بی بی
+وعدہ کرو یہ بی‌بی
 جب یہ علم چھپ جاے
 آے علم جب خالی
 نہ رونا یہ کہہ کر

@@ -22,7 +22,7 @@ romanLyrics: |-
   Madad kar bawafa Abbas-e-Ghazi
 
   2
-  Sitam dhane lage jallad aa ja
+  Sitam dhaane lage jallad aa ja
   Mere bhaiya paaye imdad aa ja
   Na ho jaaye kahiṅ barbad aa ja
   Hai tujhe ilteja Abbas-e-Ghazi
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   6
   Kahiṅ Qasim kahiṅ Akbar ka lasha
-  Kahiṅ chhe mah ke Asghar ka lasha
+  Kahiṅ chhe maah ke Asghar ka lasha
   Para hai dhup mein Sarwar ka lasha
   Ye kaisi hai jafa Abbas-e-Ghazi
 
@@ -61,7 +61,7 @@ romanLyrics: |-
   Karuṅ kaise sahan ae mere bhaiya
   Gale mein hai rasan ae mere bhaiya
   Na mar jaaye behan ae mere bhaiya
-  Hai mujh se kiun khafa Abbas-e-Ghazi
+  Hai mujh se kiuṅ khafa Abbas-e-Ghazi
 
   9
   Bayan-e-Zainab-e-Dilgir Asif

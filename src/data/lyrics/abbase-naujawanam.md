@@ -30,8 +30,8 @@ romanLyrics: |-
   Meri kamar hui kham baradar baradar
 
   4
-  Ajib hai ye ghurbat tarap rahe haiṅ dono
-  Ye gham mila qayamat tarap rahe haiṅ dono
+  Ajib hai ye ghurbat tarap rahe haiṅ donoṅ
+  Ye gham mila qayamat tarap rahe haiṅ donoṅ
   Wahaṅ tum aur yahaṅ hum baradar baradar
 
   5
@@ -40,13 +40,13 @@ romanLyrics: |-
   Lahu lahu hai alam baradar baradar
 
   6
-  Na ji sakunga main bhi tere bina Alamdar
+  Na ji sakuṅ ga main bhi tere bina Alamdar
   Jo tera ghar se jaana rulaega Alamdar
-  Bapa karunga matam baradar baradar
+  Bapa karuṅ ga matam baradar baradar
 
   7
   Qarib-e-Bawafa jab pahunch gaye Shah-e-Din
-  Jabiṅ se khun hata kar ye kehte the Shah-e-Din
+  Jabiṅ se khuṅ hata kar ye kehte the Shah-e-Din
   Kaho hameṅ lab-e-dam baradar baradar
 
   8
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   9
   Tu Irfan-e-Wafa hai main Mazhar-e-Masaib
-  Main us ka huṅ jo tere bayan kare masaib
+  Main us ka huṅ jo tere bayaṅ kare masaib
   Ye martaba bhi hai kam baradar baradar
 # source_id: nohayonline:137fb5f977d3d81e2499
 # source_url: https://www.nohayonline.com/details_content.php?id=3192
