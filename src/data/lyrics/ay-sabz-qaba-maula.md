@@ -1,53 +1,54 @@
 ---
 title: "اے سبز قبا مولا اے سرخ کفن مولا"
-alternateTitle: "Ay Sabz Qaba Maula"
+alternateTitle: "Ae Sabz Qaba Maula"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Sabz Qaba Maula"]
 published: false
 romanLyrics: |-
-  Ay sabz qaba maula ay surkh kafan maula
-  Barsaat hai teeron ki kyun tujhpe hassan maula
+  Ae sabz qaba Maula ae surkh kafan Maula
+  Barsaat hai tiroṅ ki kiuṅ tujh pe Hasan Maula
 
   1
-  Ye kaisa janaza haijo laut ke ghar aaya
-  Is teri ghareebi pe roti hai behan maula
+  Ye kaisa janaza hai jo laut ke ghar aaya
+  Is teri gharibi pe roti hai behan Maula
 
   2
-  Haye zehr e halahal ne kaise ye sitam dhaya
-  Tukde hai jigar tera zakkhmi hai dahan maula
+  Haye zehr-e-halahal ne kaise ye sitam dhaya
+  Tukre hai jigar tera zakhmi hai dahan Maula
 
   3
-  Abbas ye ro ro ke kehne lage sarwar se
-  Dekhe to zara kitne zakhmi hai hassan maula
+  Abbas ye ro ro ke kehne lage Sarwar se
+  Dekhe to zara kitne zakhmi haiṅ Hasan Maula
 
   4
-  Jab tere janaze par teeron ki hui baarish
-  Kis tarha sahi tu ne teeron ki chuban maula
+  Jab tere janaze par tiroṅ ki hui baarish
+  Kis tarah sahi tu ne tiroṅ ki chubhan Maula
 
   5
-  Aulaad e mohamed par jaari hai sitam haye
-  Kyun ahle madina ka badla hai chalan maula
+  Aulaad-e-Muhammad par jaari hai sitam haye
+  Kiuṅ ahl-e-Madina ka badla hai chalan Maula
 
   6
-  Jis tarha jigar tera tukde hai isi tarha
-  Bat jayega tukdon may qasim ka badan maula
+  Jis tarah jigar tera tukre hai isi tarah
+  Bat jaayega tukroṅ mein Qasim ka badan Maula
 
   7
-  Jin haaton se zainab ne teeron ko nikaala hai
-  Hogi unhi haathon may ek roz rasan maula
+  Jin haathoṅ se Zainab ne tiroṅ ko nikaala hai
+  Hogi unhiṅ haathoṅ mein ik roz rasan Maula
 
   8
-  Ay maula teri tarha zakhmi hai teri turbat
-  Hai ghair teri khaatir apna hi watan maula
+  Ae Maula teri tarah zakhmi hai teri turbat
+  Hai ghair teri khaatir apna hi watan Maula
 
   9
-  Rehaan o raza haye girya na kare kyun kar
-  Phir fatema zehra ka ujda hai chaman maula
+  Rehaan o Raza haye girya na kare kiuṅ kar
+  Phir Fatima Zehra ka ujra hai chaman Maula
 # source_id: nohayonline:b849eda71791bbf19de3
 # source_url: https://www.nohayonline.com/details_content.php?id=1836
 # raw_sha256: 2b0b0fb96f73cda267cfb7fbe09f5ea925e9231fd73c23e5849a42a7153597f6
@@ -60,24 +61,24 @@ romanLyrics: |-
 اس تیری غریبی پہ روتی ہے بہن مولا
 
 ۲
-ہاے زہر ہلاہل نے کیسے یہ ستم ڈھایا
+ہائے زہر ہلاہل نے کیسے یہ ستم ڈھایا
 ٹکڑے ہے جگر تیرا زخمی ہے دہن مولا
 
 ۳
 عباس یہ رو رو کے کہنے لگے سرور سے
-دیکھے تو زرا کتنے زخمی ہیں حسن مولا
+دیکھے تو ذرا کتنے زخمی ہیں حسن مولا
 
 ۴
-جب تیرے جنازے پر تیروں کی ہوی بارش
-کس طرح سہی تو نے تیروں کی چھبھن مولا
+جب تیرے جنازے پر تیروں کی ہوئی بارش
+کس طرح سہی تو نے تیروں کی چبھن مولا
 
 ۵
-اولاد محمد پر جاری ہے ستم ہاے
+اولاد محمد پر جاری ہے ستم ہائے
 کیوں اہلِ مدینہ کا بدلا ہے چلن مولا
 
 ۶
 جس طرح جگر تیرا ٹکڑے ہے اسی طرح
-بٹ جاے گا ٹکڑوں میں قاسم کا بدن مولا
+بٹ جائے گا ٹکڑوں میں قاسم کا بدن مولا
 
 ۷
 جن ہاتھوں سے زینب نے تیروں کو نکالا ہے
@@ -88,5 +89,5 @@ romanLyrics: |-
 ہے غیر تیری خاطر اپنا ہی وطن مولا
 
 ۹
-ریحان و رضا ہاے گریہ نہ کرے کیوں کر
+ریحان و رضا ہائے گریہ نہ کرے کیوں کر
 پھر فاطمہ زہرا کا اجڑا ہے چمن مولا

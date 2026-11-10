@@ -1,66 +1,70 @@
 ---
 title: "ہوتی ہے عیاں دشت میں اب شام غریباں"
-alternateTitle: "Ay Sayyede Sajjad"
+alternateTitle: "Ae Sayyed-e-Sajjad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Sayyede Sajjad"]
 published: false
 romanLyrics: |-
-  Hoti hai ayan dasht may ab shaam e ghariban
-  Ay sayyed e sajjad ay sayyed e sajjad
-  Ujde huwe is ghar ke ho ab tum hi nigehban
+  Hoti hai ayaaṅ dasht mein ab shaam-e-gharibaṅ
+  Ae Sayyed-e-Sajjad ae Sayyed-e-Sajjad
+
+  Ujre hue is ghar ke ho ab tum hi nigehbaan
+  Ae Sayyed-e-Sajjad ae Sayyed-e-Sajjad
 
   1
-  Maqtal may shah e deen ka bhara ghar hua barbaad
-  Kis se kare faryaad
-  Afsos ke sab mil gaye wo khaak may armaan
+  Maqtal mein shah-e-diṅ ka bhara ghar hua barbaad
+  Kis se kareiṅ faryaad
+  Afsos ke sab mil gaye wo khaak mein armaan
 
   2
-  Thay jis may ali asghar o qasim se sahare
-  Wo aankhon ke taare
-  Maqtal may hai bikhra hua zehara ka wo quran
+  The jis mein Ali Asghar o Qasim se sahare
+  Wo aankhoṅ ke taare
+  Maqtal mein hai bikhra hua Zehra ka wo Quraan
 
   3
-  Ab zainab o kulsom ke sar par nahi chadar
-  Ay haye muqaddar
-  Bazaar may jayenge ye le kar sar e uryan
+  Ab Zainab o Kulsum ke sar par nahiṅ chaadar
+  Ae haye muqaddar
+  Bazaar mein jaayeṅge ye le kar sar-e-uryaaṅ
 
   4
-  Maqtal se guzar aaye magar zulm na tehra
-  Hai zakhmon ka pehra
-  Hai khaak saron par huwe hai chaak gareban
+  Maqtal se guzar aaye magar zulm na thehra
+  Hai zakhmoṅ ka pehra
+  Hai khaak saroṅ par hue hai chaak garebaṅ
 
   5
-  Ab zabt ka yaara bhi kahin toot na jaye
+  Ab zabt ka yaara bhi kahiṅ tut na jaaye
   Hai dard ke saaye
-  Darbar may ab jaana hai zainab hai pareshan
+  Darbaar mein ab jaana hai Zainab hai pareshaan
 
   6
-  Mazloom shah e deen ki nishani ko sambhalo
-  Dukhiya ko bachalo
-  Masoom sakina hui zakhmon se lab e jaan
+  Mazlum shah-e-din ki nishaani ko sambhaalo
+  Dukhiya ko bachaalo
+  Masum Sakina hui zakhmoṅ se lab-e-jaaṅ
 
   7
-  Koi bhi zafar nasir o ghamkhwar nahi hai
-  Hubdaar nahi hai
-  Khaa jayegi masooma ko tareeki e zindan
+  Koi bhi Zafar naasir o ghamkhwaar nahiṅ hai
+  Hubdaar nahiṅ hai
+  Khaa jaayegi masuma ko tariki-e-zindan
 # source_id: nohayonline:e13ce56923ecaec2fe11
 # source_url: https://www.nohayonline.com/details_content.php?id=1889
 # raw_sha256: 572009bb67d70ba3688538063b7a1c77d9f9a7068798c69c876606261fdf262b
 ---
-
 ہوتی ہے عیاں دشت میں اب شام غریباں
 اے سید سجاد اے سید سجاد
-اجڑے ہوے اس گھر کے ہو اب تم ہی نگہبان
+
+اجڑے ہوئے اس گھر کے ہو اب تم ہی نگہبان
+اے سید سجاد اے سید سجاد
 
 ۱
 مقتل میں شہ دیں کا بھرا گھر ہوا برباد
 کس سے کریں فریاد
-افسوس کے سب مل گےء وہ خاک میں ارمان
+افسوس کے سب مل گئے وہ خاک میں ارمان
 
 ۲
 تھے جس میں علی اصغر و قاسم سے سہارے
@@ -69,25 +73,25 @@ romanLyrics: |-
 
 ۳
 اب زینب و کلثوم کے سر پر نہیں چادر
-اے ہاے مقدر
-بازار میں جاےنگے یہ لے کر سر عریاں
+اے ہائے مقدر
+بازار میں جائیں گے یہ لے کر سر عریاں
 
 ۴
-مقتل سے گزر آے مگر ظلم نہ ٹہرا
+مقتل سے گزر آئے مگر ظلم نہ ٹہرا
 ہے زخموں کا پہرہ
-ہے خاک سروں پر ہوے ہے چاک گریباں
+ہے خاک سروں پر ہوئے ہے چاک گریباں
 
 ۵
-اب ضبط کا یارا بھی کہیں ٹوٹ نہ جاے
-ہے درد کے ساے
+اب ضبط کا یارا بھی کہیں ٹوٹ نہ جائے
+ہے درد کے سائے
 دربار میں اب جانا ہے زینب ہے پریشان
 
 ۶
 مظلوم شہ دین کی نشانی کو سنبھالو
 دکھیا کو بچالو
-معصوم سکینہ ہوی زخموں سے لب جاں
+معصوم سکینہ ہوئی زخموں سے لب جاں
 
 ۷
 کوئی بھی ظفر ناصر و غم خوار نہیں ہے
 حبدار نہیں ہے
-کھا جاے گی معصومہ کو تاریکیء زندان
+کھا جائے گی معصومہ کو تاریکیء زندان
