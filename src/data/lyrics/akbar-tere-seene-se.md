@@ -1,5 +1,5 @@
 ---
-title: "ڈر ہے نکل آے نہ سینے سے کلیجہ"
+title: "ڈر ہے نکل آئے نہ سینے سے کلیجہ"
 alternateTitle: "Akbar Tere Seene Se"
 language: "Urdu"
 lang: "ur"
@@ -14,6 +14,7 @@ romanLyrics: |-
   Dar hai nikal aae na sine se kaleja
   Akbar tere sine se sinaṅ kaise nikaluṅ
   Ye soch ke dil tukre hua jaata hai mera
+  Akbar tere sine se sinaṅ kaise nikaluṅ
 
   1
   Aasan nahiṅ piri mein sehna koi sadma
@@ -21,7 +22,7 @@ romanLyrics: |-
   Dam niklega tera to main mar jaunga beta
 
   2
-  Sina tera zakhmi hai lahu behta hai sara
+  Sina tera zakhmi hai lahu behta hai saara
   Ulfat ka taqaza hai ke kuchh bhi nahiṅ dikhta
   Sine ko tere baap ne bachpan se hai chuma
 
@@ -61,6 +62,7 @@ romanLyrics: |-
 ڈر ہے نکل آئے نہ سینے سے کلیجہ
 اکبر تیرے سینے سے سناں کیسے نکالوں
 یہ سوچ کے دل ٹکڑے ہوا جاتا ہے میرا
+اکبر تیرے سینے سے سناں کیسے نکالوں
 
 ۱
 آسان نہیں پیری میں سہنا کوئی صدمہ

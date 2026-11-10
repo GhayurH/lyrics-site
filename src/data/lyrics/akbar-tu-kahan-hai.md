@@ -9,16 +9,17 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Hasan Sadiq"
 romanLyrics: |-
   Kehti hai sahar gham ki Akbar tu kahaṅ hai
   Sajde bhi haiṅ afsurda betab azaṅ hai
 
   1
-  Shadi ka teri waqt hai ya waqt-e-shahadat
+  Shaadi ka teri waqt hai ya waqt-e-shahadat
   Sehra hai duaoṅ ka aur maaṅ ki zabaṅ hai
 
   2
-  Lariyaṅ tere sehre ki chume tere sine ko
+  Lariyaṅ tere sehre ki chumeṅ tere sine ko
   Afsos magar tere sine mein sinaṅ hai
 
   3

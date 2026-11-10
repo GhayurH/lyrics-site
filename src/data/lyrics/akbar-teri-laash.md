@@ -1,5 +1,5 @@
 ---
-title: اکبر تیری لاش اٹھاے کیسے حسین
+title: اکبر تیری لاش اٹھائے کیسے حسین
 alternateTitle: Akbar Teri Laash
 language: Urdu
 lang: ur
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Ae laal teri surat ki qasam
-  Ab taab nahiṅ hai is dil ko
+  Ab taab nahiṅ is dil ko
   Main burha pidar aur tum ho jawaṅ
   Kya waqt para itna socho
   Main bekas o tanha aur muztar
@@ -75,10 +75,10 @@ romanLyrics: |-
 
   10
   Jo bain kiye Sheh ne ban mein
-  Mazhar wo bayan kar sakta nahiṅ
+  Mazhar wo bayaṅ kar sakta nahiṅ
   Sine pe pisar ke sar rakh kar
-  Ye kehte rahe bas Shah-e-Din
-  Ab zinda rahuṅ main bhi kiun kar
+  Ye kehte rahe bas Shah-e-Diṅ
+  Ab zinda rahuṅ main bhi kiuṅ kar
 # source_id: nohayonline:c7caeafca207216b05b6
 # source_url: https://www.nohayonline.com/details_content.php?id=902
 # raw_sha256: c48f463f460b027c628b5285562f9c9cc6eba65545543fc432c1a39053dec3a7

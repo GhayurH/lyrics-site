@@ -11,18 +11,18 @@ aliases: []
 published: false
 reciter: "Raza Abbas Zaidi"
 romanLyrics: |-
-  Akbar teri behna ko teri yaad satati hai
-  Viran haveli mein bimar bulati hai
+  Akbar teri behna ko teri yaad sataati hai
+  Viran haveli mein bimar bulaati hai
 
   1
-  Akbar tera wada tha main lene ko aaunga
+  Akbar tera waada tha main lene ko aaunga
   Bin tere meri behna sehra na sajaunga
-  Kapre teri shadi ke hamshir banati hai
+  Kapre teri shaadi ke hamshir banaati hai
 
   2
   Khat bheja na khud aae kya baat hui bhaiya
   Main des mein tanha huṅ pardes mein hai kunba
-  Din mujh ko rulate haiṅ shab mujh ko darati hai
+  Din mujh ko rulaate haiṅ shab mujh ko daraati hai
 
   3
   Is baar jhulauṅ main jhula Ali Asghar ka
@@ -30,29 +30,29 @@ romanLyrics: |-
   Roti huṅ nazar meri jab jhule pe jaati hai
 
   4
-  Bhaiya teri Sughra ko dharas hai tere dam se
+  Bhaiya teri Sughra ko dhaaras hai tere dam se
   Itna to bata jao Kiuṅ dur hue hum se
   Din bit gaye kitne ab jaan ye jaati hai
 
   5
   Zakhmi tha tera sina kal khwab mein dekha tha
   Kuchh aag ke shole the jalta hua jhula tha
-  Is khwab ki Sughra ko tabir rulati hai
+  Is khwab ki Sughra ko tabir rulaati hai
 
   6
   Bimar shifa paae Akbar jo mera aae
   Bin apne Masiha ke ghut ghut ke na mar jae
-  Dharkan tere aane ki bas aas bandhati hai
+  Dharkan tere aane ki bas aas bandhaati hai
 
   7
   Abbas Chacha tum hi Baba se kaho ja kar
   Akbar nahiṅ aa sakte le jao tum hi aa kar
-  Dam ghutta hai Akbar ki jab yaad satati hai
+  Dam ghutta hai Akbar ki jab yaad sataati hai
 
   8
   Zeeshan o Raza ka bhi maqbul ho ye pursa
   Zinda hai qayamat tak Irfan ka ye noha
-  Awaz ye Nasir ki har dil ko rulati hai
+  Aawaz ye Nasir ki har dil ko rulaati hai
 # source_id: nohayonline:f8ee307ff0e9fb628924
 # source_url: https://www.nohayonline.com/details_content.php?id=1820
 # raw_sha256: b66db9051a83a0fc73bf9c333df44e03b51413fddea03796d0d6c58c8cc471df
