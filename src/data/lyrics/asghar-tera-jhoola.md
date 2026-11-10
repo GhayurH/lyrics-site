@@ -6,68 +6,69 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Veeran aagosh-e-maadar veeran dil sakina ka
-  Khaimoṅ ki tarha hai veeran asghar tera jhoola
-  Aansu bahaye kaise jhulaye bali sakina haye
-  Asghar tera jhoola asghar tera jhoola
+  Viraan aaghosh-e-maadar viraan dil Sakina ka
+  Khaimoṅ ki tarah hai viraan Asghar tera jhula
+  Aansu bahaaye kaise jhulaaye baali Sakina haaye
+  Asghar tera jhula Asghar tera jhula
 
   1
-  Jalti zameen par tu so raha hai
-  Furqat mein teri dil ro raha hai
+  Jalti zamiṅ par tu so raha hai
+  Furqat meiṅ teri dil ro raha hai
   Roti hai maadar roti hai khwahar
-  Karta hai nauha haye
+  Karta hai nauha haaye
 
   2
-  Soona hai jangal sooni hai godhi
-  Zakhm-e-judai de gaya tu bhi
-  Veeran dil hai veeran hai maa
-  Ye keh ke roya haye
+  Suna hai jangal suni hai godi
+  Zakhm-e-judaai de gaya tu bhi
+  Viraan dil hai viraan hai maaṅ
+  Ye keh ke roya haaye
 
   3
-  Aa mere jaani aa gaya pani
-  Aaja mita do tashnadahani
-  Kooza utha kar royi sakina
-  Jaise hi dekha haye
+  Aa mere jaani aa gaya paani
+  Aaja mita do tashnadahaani
+  Kuza utha kar royi Sakina
+  Jaise hi dekha haaye
 
   4
   Tera humakna yaad aa raha hai
-  Maadar ke dil ko tadpa raha hai
-  Thaam ke royi jhoole ki dori
-  Khaali jhulaya haye
+  Maadar ke dil ko tarpa raha hai
+  Thaam ke royi jhule ki dori
+  Khaali jhulaaya haaye
 
   5
-  Maqtal mein tujhko kya neend aayi
-  Kisne wahan par lori sunayi
-  Kal tak thi jhoola aagosh-e-maadar
-  Aaj ye sehra haye
+  Maqtal meiṅ tujhko kya nind aayi
+  Kis ne wahaaṅ par lori sunaayi
+  Kal tak thi jhula aaghosh-e-maadar
+  Aaj ye sehra haaye
 
   6
-  Nazdeek jaa kar jhoole ke maadar
+  Nazdik jaa kar jhule ke maadar
   Kokh jali ye kehti hai ro kar
-  Jaaun kahan mai saare jahan mein
-  Hai meri dunya haye
+  Jaauṅ kahaaṅ maiṅ saare jahaaṅ meiṅ
+  Hai meri dunya haaye
 
   7
-  Aankhon mein jajna hai aansuon ka
-  Lab pe buka hai dil matami hai
-  Hai azakhana dil teri maa ka
-  Aur is mein beta haye
+  Aankhoṅ meiṅ jajna hai aansuoṅ ka
+  Lab pe buka hai dil maatami hai
+  Hai aza khaana dil teri maaṅ ka
+  Aur is meiṅ beta haaye
 
   8
-  Maa ki fughan ka lori samajh kar
-  Ae mere bache aaja palat kar
-  Kehti hai maadar hoti zabaan gar
-  Tujhko bulata haye
+  Maaṅ ki fughaaṅ ka lori samajh kar
+  Ae mere bachche aaja palat kar
+  Kehti hai maadar hoti zabaaṅ gar
+  Tujhko bulaata haaye
 
   9
-  Babul hawaij ae maula Asghar
-  Kehte hai sab se, irfan o mazhar
-  Paayi duayein us ne ali se
-  Jis ne uthaya haye
+  Baab-ul-hawaaij ae Maula Asghar
+  Kehte hai sab se, Irfan o Mazhar
+  Paayi duaaeṅ us ne Ali se
+  Jis ne uthaaya haaye
 # source_id: nohayonline:8ee38339041fcbc78146
 # source_url: https://www.nohayonline.com/details_content.php?id=2233
 # raw_sha256: ef362f184ac47b53fe6bd86916401d18aecdaad44907b31aac81faa9ea3f3f99
@@ -78,59 +79,59 @@ romanLyrics: |-
 
 ویران آغوشِ مادر ویران دل سکینہ کا
 خیموں کی طرح ہے ویران اصغر تیرا جھولا
-آنسوں بہاے کیسے جھلاے بالی سکینہ ہاے
+آنسو بہائے کیسے جھلائے بالی سکینہ ہائے
 اصغر تیرا جھولا اصغر تیرا جھولا
 
 ۱
 جلتی زمیں پر تو سو رہا ہے
 فرقت میں تیری دل رو رہا ہے
-روتی ہے مادر روتی خواہر
-کرتا ہے نوحہ ہاے
+روتی ہے مادر روتی ہے خواہر
+کرتا ہے نوحہ ہائے
 
 ۲
 سونا ہے جنگل سونی ہے گودی
 زخم جدائی دے گیا تو بھی
 ویران دل ہے ویران ہے ماں
-یہ کہہ کے رویا ہاے
+یہ کہہ کے رویا ہائے
 
 ۳
 آ میرے جانی آ گیا پانی
 آجا مٹا دو تشنہ دہانی
-کوزہ اٹھا کر روی سکینہ
-جیسے ہی دیکھا ہاے
+کوزہ اٹھا کر روئی سکینہ
+جیسے ہی دیکھا ہائے
 
 ۴
 تیرا ہمکنا یاد آ رہا ہے
 مادر کے دل کو تڑپا رہا ہے
-تھام کے روی جھولے کی ڈوری
-خالی جھلایا ہاے
+تھام کے روئی جھولے کی ڈوری
+خالی جھلایا ہائے
 
 ۵
-مقتل میں تجھکو کیا نیند آی
-کس نے وہاں پر لوری سنای
+مقتل میں تجھکو کیا نیند آئی
+کس نے وہاں پر لوری سنائی
 کل تک تھی جھولا آغوشِ مادر
-آج یہ سہرا ہاے
+آج یہ سہرا ہائے
 
 ۶
 نزدیک جا کر جھولے کے مادر
-کوک جلی یہ کہتی ہے رو کر
+کوکھ جلی یہ کہتی ہے رو کر
 جاؤں کہاں میں سارے جہاں میں
-ہے میری دنیا ہاے
+ہے میری دنیا ہائے
 
 ۷
 آنکھوں میں ججنا ہے آنسوؤں کا
 لب پہ بکا ہے دل ماتمی ہے
 ہے عزا خانہ دل تیری ماں کا
-اور اس میں بیٹا ہاے
+اور اس میں بیٹا ہائے
 
 ۸
 ماں کی فغاں کا لوری سمجھ کر
 اے میرے بچے آجا پلٹ کر
 کہتی ہے مادر ہوتی زباں گر
-تجھکو بلاتا ہاے
+تجھکو بلاتا ہائے
 
 ۹
-باب الحویج اے مولا اصغر
+باب الحوائج اے مولا اصغر
 کہتے ہے سب سے عرفان و مظہر
-پای دعائیں اس نے علی سے
-جس نے اٹھایا ہاے
+پائی دعائیں اس نے علی سے
+جس نے اٹھایا ہائے
