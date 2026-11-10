@@ -1,59 +1,60 @@
 ---
 title: "اے کربلا میں حق کے سفیروں سلام لو"
-alternateTitle: "Ay Karbala Mein Haq"
+alternateTitle: "Ae Karbala Mein Haq"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sajjad Hussain"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Karbala Mein Haq"]
 published: false
 romanLyrics: |-
-  Ay karbala mein haq ke safeeron salam lo
-  Ay bekason yateemon aseeron salam lo
+  Ae Karbala mein haq ke safiroṅ salaam lo
+  Ae bekasoṅ yatimoṅ asiroṅ salaam lo
 
   1
-  Ay haamiyan e aal-e-payambar tumhe salam
-  Ay nasiran e bekaso muztar tumhe salam
-  Ay karbala ke hamza-o-jafar tumhe salam
-  Ay pasbaan e itrate hyder tumhe salam
+  Ae haamiyaan-e-Aal-e-Payambar tumheṅ salaam
+  Ae naasiraan-e-bekas o muztar tumheṅ salaam
+  Ae Karbala ke Hamza o Jafar tumheṅ salaam
+  Ae paasbaan-e-itrat-e-Haidar tumheṅ salaam
 
   2
-  Ghar bhar ke laadle ali akbar tumhe salam
-  Ay fatima ke laal ke dilbar tumhe salam
-  Barchi kagi hai kaisi jigar par tumhe salam
-  Soona pada hai ab ye bhara ghar tumhe salam
+  Ghar bhar ke laadle Ali Akbar tumheṅ salaam
+  Ae Fatima ke laal ke dilbar tumheṅ salaam
+  Barchhi lagi hai kaisi jigar par tumheṅ salaam
+  Suna para hai ab ye bhara ghar tumheṅ salaam
 
   3
-  Qasim ki haye marge jawani tumhe salam
-  Khoon mein bhari hassan ki nishani tumhe salam
-  Ay teen din ki tishna-dahani tumhe salam
-  Shahzade band hogaya pani tumhe salam
+  Qasim ki haaye marg-e-jawaani tumheṅ salaam
+  Khuṅ mein bhari Hasan ki nishaani tumheṅ salaam
+  Ae tin din ki tishna-dahaani tumheṅ salaam
+  Shahzaade band ho gaya paani tumheṅ salaam
 
   4
-  Sheron ke sher saaniye hyder tumhe salam
-  Kya thi majaal rokta lashkar tumhe salam
-  Pani ko tumne maardi thokar tumhe salam
-  Bas laut aaye mashq ko bhar kar tumhe salam
+  Sheroṅ ke sher saani-e-Haidar tumheṅ salaam
+  Kya thi majaal rokta lashkar tumheṅ salaam
+  Paani ko tum ne maar di thokar tumheṅ salaam
+  Bas laut aaye mashk ko bhar kar tumheṅ salaam
 
   5
-  Ay fauj e sheh ke nanhe sipahi tumhe salam
-  Kya khoob thi tumhari ladayi tumhe salam
-  Aisi zuban labon pe phirayi tumhe salam
-  Ulta ke rakhdi saari khudaai tumhe salam
+  Ae fauj-e-Shah ke nanhe sipaahi tumheṅ salaam
+  Kya khub thi tumhaari laraai tumheṅ salaam
+  Aisi zubaaṅ laboṅ pe phiraai tumheṅ salaam
+  Ulta ke rakh di saari khudaai tumheṅ salaam
 
   6
-  Teeron se chalni jisme mutahhar tumhe salam
-  Baakhi nahi libaas badan par tumhe salam
-  Pamaal laashe sipte payambar tumhe salam
-  Naize pe vird karte hue sar tumhe salam
+  Tiroṅ se chhalni jism-e-mutahhar tumheṅ salaam
+  Baaqi nahiṅ libaas badan par tumheṅ salaam
+  Paamaal laashe Sibt-e-Payambar tumheṅ salaam
+  Neze par wird karte hue sar tumheṅ salaam
 
   7
-  Dukh ay sakina tumne uthaye tumhe salam
-  Baba bhi laut kar nahi aaye tumhe salam
-  Ruqsaar par tamache bhi khaye tumhe salam
-  Nazuk se kaan khoon mein nahaye tumhe salam
+  Dukh ae Sakina tum ne uthaae tumheṅ salaam
+  Baba bhi laut kar nahiṅ aaye tumheṅ salaam
+  Rukhsaar par tamaache bhi khaaye tumheṅ salaam
+  Naazuk se kaan khuṅ mein nahaae tumheṅ salaam
 # source_id: nohayonline:90498c42c113c330f651
 # source_url: https://www.nohayonline.com/details_content.php?id=271
 # raw_sha256: e953f6bb984eca3ae1a7798451e77432a655920aa73a4f352011503e10f58274
