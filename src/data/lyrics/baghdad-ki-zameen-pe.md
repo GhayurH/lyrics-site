@@ -6,56 +6,57 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Wila Hallauri"
+reciter: "Ashfaq Marchant"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baghdad ki zameen pe matam taqi ka hai
-  Zahra jigar figaar hai wo gham taqi ka hai
+  Baghdad ki zamin pe maatam Taqi ka hai
+  Zahra jigar figaar haiṅ wo gham Taqi ka hai
 
   1
-  Aaj aagayi qaza ko bhi maula hassan ki yaad
-  Tukde jigar hua wohi aalam taqi ka hai
+  Aaj aa gayi qaza ko bhi Maula Hasan ki yaad
+  Tukre jigar hua wohi aalam Taqi ka hai
 
   2
-  Har ek muhib hai chaak gareban basad buka
-  Matam kuna ba-deeda e purnam taqi ka hai
+  Har ik muhib hai chaak garebaaṅ basad buka
+  Maatam kunaaṅ ba-dida-e-purnam Taqi ka hai
 
   3
-  Chaayi naqi ke sar pa yateemi ki ek ghata
-  Hai aaj sogwaar jo humdam taqi ka hai
+  Chhaayi Naqi ke sar pe yatimi ki ik ghata
+  Hai aaj sogwaar jo hamdam Taqi ka hai
 
   4
-  Zakhmi dil e batool tha ummat ke zulm se
-  Us par mazeed dard ye paiham taqi ka hai
+  Zakhmi dil-e-Batul tha ummat ke zulm se
+  Us par mazid dard ye paiham Taqi ka hai
 
   5
-  Tareekiyan ghamon ki zamane pa cha gayi
-  Dunya siyah posh hai matam taqi ka hai
+  Taarikiyaaṅ ghamoṅ ki zamaane pe chha gayiṅ
+  Duniya siyaah posh hai maatam Taqi ka hai
 
   6
-  Hoti hai ashk baar ujalon ki anjuman
-  Uth'ta jo aaj noor e mujasim taqi ka hai
+  Hoti hai ashk baar ujaaloṅ ki anjuman
+  Uthta jo aaj nur-e-mujassam Taqi ka hai
 
   7
-  Misle raza ghareeb e watan thay bine raza
-  Jab zehr e mohtasin se ruka dam taqi ka hai
+  Misl-e-Raza gharib-e-watan the bin-e-Raza
+  Jab zehr-e-mohtasin se ruka dam Taqi ka hai
 
   8
-  Sad paash dil pa khaare masayib ki hai chuban
-  Rota hai khoon jahan mein jo mehram taqi ka hai
+  Sad paash dil pe khaar-e-masaaib ki hai chubhan
+  Rota hai khuṅ jahaaṅ mein jo mihram Taqi ka hai
 
   9
-  Maula hussain hoke azadaar aaye hai
-  Shiyon ye gham na hashr se kuch kam taqi ka hai
+  Maula Husain ho ke azaadaar aaye haiṅ
+  Shioṅ ye gham na hashr se kuch kam Taqi ka hai
 
   10
-  Bughze ali ke zehr ka koi nahi ilaaaj
-  Barsa jo ashke gham wohi marham taqi ka hai
+  Bughz-e-Ali ke zehr ka koi nahiṅ ilaaj
+  Barsa jo ashk-e-gham wohi marham Taqi ka hai
 
   11
-  Az farsh taaba arsh bapa majlisein hai aaj
-  Ahle wila mein dard muqaddam taqi ka hai
+  Az farsh taa ba arsh bapa majliseṅ haiṅ aaj
+  Ahl-e-Wila mein dard muqaddam Taqi ka hai
 # source_id: nohayonline:290a2894f167c26fa2f8
 # source_url: https://www.nohayonline.com/details_content.php?id=1232
 # raw_sha256: 835133cf151d2881bb19ec49f045678c86d43ea5b19c4df3b2dff696f9c96b25

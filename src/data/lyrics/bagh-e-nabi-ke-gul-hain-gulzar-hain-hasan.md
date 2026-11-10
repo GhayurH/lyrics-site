@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
+poet: "Farman Zaki"
 tags: ["noImage", "noUrdu"]
 aliases: []
 published: false
@@ -12,23 +13,23 @@ published: false
 # raw_sha256: 63b2922c9c29b071524d0e87adabf94b663434563095d67c43c2241fb03ebbb1
 ---
 
-Bagh-e-Nabi Ke Gul Hain Gulzar Hain Hasan
-Beshaq Ke Imamat Ke Tajdar Hain Hasan
+Baagh-e-Nabi ke gul haiṅ gulzaar haiṅ Hasan
+Beshaq ke imamat ke taajdaar haiṅ Hasan
 
 1
-Khair-Al-Nisa Ki Gaud Mein Yeh Dekh Lo Ali
-Ik Mustafa Ke Deen Ki Bahar Hain Hasan
-Galiyon Mein Madine Ki Kehte They Musalmaan
-Dosh-e-Nabi Pe Dekh Lo Sawar Hain Hasan
+Khair-al-Nisa ki god mein ye dekh lo Ali
+Ik Mustafa ke din ki bahaar haiṅ Hasan
+Galiyoṅ mein Madine ki kehte the Musalmaan
+Dosh-e-Nabi pe dekh lo sawaar haiṅ Hasan
 
 2
-Shami Ko Takht Par Bhi Be Chain Kar Diya Hai
-Kyun Ke Ali Ki Tarha Jarrar Hain Hasan
-Phir Sham Ke Lashkar Halchal Na Machay Kyun Kar
-Woh Samne Basorat-e-Talwar Hain Hasan
+Shaami ko takht par bhi bechain kar diya hai
+Kiun ke Ali ki tarah jarraar haiṅ Hasan
+Phir Shaam ke lashkar halchal na machaay kiun kar
+Wo saamne basurat-e-talwaar haiṅ Hasan
 
 3
-Le Kar Rasool Gaud Mein Kehte They Bar Bar
-Khaliq Ki Muhabbat Ka Izhar Hain Hasan
-Manzoor Karaye Maula Zahra Ke Wastay Se
-:FARMAN ZAKI: Ke Jo Ashar Hain Hasan
+Le kar Rasul god mein kehte the baar baar
+Khaaliq ki muhabbat ka izhaar haiṅ Hasan
+Manzur karaaye Maula Zahra ke waaste se
+Farman Zaki ke jo ashaar haiṅ Hasan

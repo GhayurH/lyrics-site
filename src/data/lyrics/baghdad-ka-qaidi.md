@@ -6,49 +6,50 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hasnain Akbar"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya musa e kazim, haye haye imam kazim imam
+  Ya Musa-e-Kazim, haaye haaye Imam Kazim
 
-  Kar kar ke yaad sakina ko baghdad ka qaidi rota hai
-  Bazar-e-shaam hai aankhon may sajjad ka lab par nauha hai
+  Kar kar ke yaad Sakina ko Baghdad ka qaidi rota hai
+  Bazaar-e-Shaam hai aankhoṅ mein Sajjad ka lab par nauha hai
 
   1
-  Khud qaid jahan par kazim hai har din hai raat ke jaisa
-  Zindaan hai ye bhi tang magar har raat raza ka baba
-  Zindaan-e-shaam jo yaad aaye deewar se sar takrata hai
+  Khud qaid jahaaṅ par Kazim hai har din hai raat ke jaisa
+  Zindaan hai ye bhi tang magar har raat Raza ka baba
+  Zindaan-e-Shaam jo yaad aaye diwaar se sar takraata hai
 
   2
-  Hai door nigahon se lekin iska bhi jawan hai beta
-  Jab yaad raza ki aati hai rukh karke karbobala ka
-  Zakhmi akbar ke seene ke nazron se bosay leta hai
+  Hai dur nigaahoṅ se lekin is ka bhi jawaan hai beta
+  Jab yaad Raza ki aati hai rukh karke Karb o Bala ka
+  Zakhmi Akbar ke sine ke nazroṅ se bose leta hai
 
   3
-  Jab shaam ke saaye badte hai badti hai sadaye girya
-  Ek dard sa dil may uth-ta hai kehte hai tadap kar maula
-  Hai saath raza ke masooma zindaan may sakina tanha hai
+  Jab shaam ke saaye barhte haiṅ barhti hai sadaa-e-girya
+  Ik dard sa dil mein uthta hai kehte haiṅ tarap kar Maula
+  Hai saath Raza ke Masuma zindaan mein Sakina tanha hai
 
   4
-  Mazloom paraye des may hai dhaaras hai dil ko phir bhi
-  Mil jayega mujhko ghusl-o-kafan basti hai musalmano ki
-  Mazloom hussain ki ghurbat par dil khoon ke aansoo rota hai
+  Mazlum paraaye des mein hai dhaaras hai dil ko phir bhi
+  Mil jaayega mujhko ghusl o kafan basti hai musalmaanoṅ ki
+  Mazlum Husain ki ghurbat par dil khun ke aansu rota hai
 
   5
-  Hai chauda baras se qaid magar phir bhi wo yehi hai kehta
-  Abid ka ruku aur mera ruku ek jaisa nahi ho sakta
-  Mai tanha hoo wo maa behne bazaar se lekar guzra hai
+  Hai chaudah baras se qaid magar phir bhi wo yehi hai kehta
+  Abid ka ruku aur mera ruku ik jaisa nahiṅ ho sakta
+  Main tanha huṅ wo maaṅ behneṅ bazaar se lekar guzra hai
 
   6
-  Mazloomi matam karti hai padhti hai ghurbat nauha
-  Wo jiske dada ko aakar jibreel jhulaye jhoola
-  Laasha uska mazdooro ne baghdad ke pul par rakha hai
+  Mazlumi maatam karti hai parhti hai ghurbat nauha
+  Wo jis ke dada ko aakar Jibril jhulaaeṅ jhula
+  Laasha us ka mazduroṅ ne Baghdad ke pul par rakha hai
 
   7
-  Baghdad ke qaidi ne har dum abid pe kiya hai girya
-  Lekin akbar is ghurbat par sajjad bhi rota hoga
-  Zanjeero may tha jakda hua jab kazim ne dum toda hai
+  Baghdad ke qaidi ne har dam Abid pe kiya hai girya
+  Lekin Akbar is ghurbat par Sajjad bhi rota hoga
+  Zanjiroṅ mein tha jakra hua jab Kazim ne dam tora hai
 # source_id: nohayonline:49886383a6e04182158e
 # source_url: https://www.nohayonline.com/details_content.php?id=904
 # raw_sha256: c0948113e95adebcb595a0b87781c1c647291fb5f79bd92b45e7b91766d80443
@@ -77,13 +78,13 @@ romanLyrics: |-
 
 ۳
 جب شام كے سائے بڑھتے ہیں، بڑھتی ہے صدائے گریہ
-اک درد سا دِل میں اٹھتا ہے، کہتے ہے تڑپ کر مولاؑ
+اک درد سا دِل میں اٹھتا ہے، کہتے ہیں تڑپ کر مولاؑ
 ہے ساتھ رضاؑ كے معصومہؑ، زندان میں سكینہؑ تنہا ہے
 
 ۴
 مظلوم پرائے دیس میں ہے، ڈھارس ہے دِل کو پِھر بھی
 مل جائیگا مجھکو غسل و کفن بستی ہے مسلمانوں کی
-مظلوم حسینؑ کی غربت پر، دِل خون كے آنسوں روتا ہے
+مظلوم حسینؑ کی غربت پر، دِل خون كے آنسو روتا ہے
 
 ۵
 ہے چودہ برس سے قید مگر، پِھر بھی وہ یہی ہے کہتا
@@ -93,7 +94,7 @@ romanLyrics: |-
 ۶
 مظلومی ماتم کرتی ہے، پڑھتی ہے غربت نوحہ
 وہ جسکے دادا کو آکر، جبریلؑ جُھلائیں جھولا
-لاشپ اُسکا مزدوروں نے، بغداد كے پُل پر رکھا ہے
+لاشہ اُسکا مزدوروں نے، بغداد كے پُل پر رکھا ہے
 
 ۷
 بغداد كے قیدی نے ہر دم، عابدؑ پہ کیا ہے گریہ

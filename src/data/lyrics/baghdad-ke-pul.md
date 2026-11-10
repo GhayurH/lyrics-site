@@ -6,66 +6,67 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye musa e kazim
+  Haaye Musa-e-Kazim
 
-  Shaheede baghdad ka janaza
-  Mazdoor utha kar laate hai
-  Baghdad ke pul par kazim ka
-  Kisne ye janaza rakha hai
-  Afsos ke maula ka laasha
-  Zanjeer e sitam may jakda hai
+  Shahid-e-Baghdad ka janaaza
+  Mazdur utha kar laate haiṅ
+  Baghdad ke pul par Kazim ka
+  Kis ne ye janaaza rakha hai
+  Afsos ke Maula ka laasha
+  Zanjir-e-sitam mein jakra hai
 
   1
-  Zindan to tang hote hai magar
-  Itne bhi tang nahi hote
-  Maula thay ruku may chauda baras
-  Ehsaas ye khoon rulaata hai
+  Zindaan to tang hote haiṅ magar
+  Itne bhi tang nahiṅ hote
+  Maula the ruku mein chaudah baras
+  Ehsaas ye khun rulaata hai
 
   2
-  Pehle to layeen ne zehr diya
-  Phir laash ko tanha chor diya
+  Pehle to lain ne zehr diya
+  Phir laash ko tanha chhor diya
   Rone ke liye is laashe par
   Bhai na behan na beta hai
 
   3
-  Is qaid e sitam may bhi maula
-  Rehte thay musalle par har dam
-  Be-jurm namazi qatl hua
+  Is qaid-e-sitam mein bhi Maula
+  Rehte the musalle par har dam
+  Bejurm namaazi qatl hua
   Ro ro ke musalla kehta hai
 
   4
-  Aisi bhi ghareebi dunya may
-  Kya logon kisi par dekhi hai
-  Afsos janaza kazim ka
-  Mazdooron se uthwaya hai
+  Aisi bhi gharibi duniya mein
+  Kya logoṅ kisi par dekhi hai
+  Afsos janaaza Kazim ka
+  Mazduroṅ se uthwaaya hai
 
   5
-  Payvast badan may hai kadiyan
-  Lohaar se bolay ye maula
-  Aahista kaat ye zanjeere
-  Laasha ye sadayein deta hai
+  Paiwast badan mein haiṅ kariyaaṅ
+  Lohaar se bole ye Maula
+  Aahista kaat ye zanjireṅ
+  Laasha ye sadaaeṅ deta hai
 
   6
-  Eiday athaees guzri hai
-  Bin aap ke ay baba mere
+  Eideṅ atthaais guzri hai
+  Bin aap ke Ae baba mere
   Is eid pe tum ghar aa jana
-  Masooma e qum ka nauha hai
+  Masuma-e-Qum ka nauha hai
 
   7
-  Mazloom mere maula tujh par
+  Mazlum mere Maula tujh par
   Aulaad bhi teri ro na saki
-  Baghdad nahi do aalam may
-  Ab matam tera hota hai
+  Baghdad nahiṅ do aalam mein
+  Ab maatam tera hota hai
 
   8
-  Mazloomiye ibn e jafar ko
+  Mazlumi-e-Ibn-e-Jafar ko
   Kya koi bayaan kar payega
-  Farhan aur mazhar rote hai
-  Har ek zabaan par nauha hai
+  Farhan aur Mazhar rote haiṅ
+  Har ek zabaaṅ par nauha hai
 # source_id: nohayonline:adad88adec54c635cd11
 # source_url: https://www.nohayonline.com/details_content.php?id=76
 # raw_sha256: 0db9ea346f5525a15c5825c11a8a5a234e5955a3cc8b51de10f8adffad11f55a
@@ -77,7 +78,7 @@ romanLyrics: |-
 مزدور اٹھا کر لاتے ہیں
 بغداد کے پل پر کاظم کا
 کس نے یہ جنازہ رکھا ہے
-آفسوس کے مولا کا لاشہ
+افسوس کہ مولا کا لاشہ
 زنجیر ستم میں جکڑا ہے
 
 ۱
@@ -101,17 +102,17 @@ romanLyrics: |-
 ۴
 ایسی بھی غریبی دنیا میں
 کیا لوگوں کسی پر دیکھی ہے
-آفسوس جنازہ کاظم کا
+افسوس جنازہ کاظم کا
 مزدوروں سے اٹھوایا ہے
 
 ۵
 پیوست بدن میں ہیں کڑیاں
 لوہار سے بولے یہ مولا
 آہستہ کاٹ یہ زنجیریں
-لاشہ یہ صداءیں دیتا ہے
+لاشہ یہ صدائیں دیتا ہے
 
 ۶
-عیدیں اٹھایس گزری ہے
+عیدیں اٹھائیس گزری ہے
 بن باپ کے اے بابا میرے
 اس عید پہ تم گھر آجانا
 معصومہء قم کا نوحہ ہے
@@ -124,6 +125,6 @@ romanLyrics: |-
 
 ۸
 مظلومیء ابن جعفر کو
-کیا کوئی بیاں کر پاے گا
+کیا کوئی بیاں کر پائے گا
 فرحان اور مظہر روتے ہیں
 ہر ایک زباں پر نوحہ ہے
