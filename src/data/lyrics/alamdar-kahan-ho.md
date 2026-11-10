@@ -12,43 +12,43 @@ published: false
 reciter: "Safdar Abbas"
 romanLyrics: |-
   Alamdar kahaṅ ho
-  Zainab ki buka thi mere ghamkhwar kahaṅ ho
+  Zainab ki bukaa thi mere ghamkhwaar kahaṅ ho
   Alamdar kahaṅ ho Alamdar Alamdar Alamdar kahaṅ ho
 
   1
   Ashur gaya aai hai ab gyarah Muharram
-  Naqe pe rasan basta su-e-Shaam chale hum
-  Hai Aal-e-Nabi gham mein giraftar kahaṅ ho
+  Naaqe pe rasan basta su-e-Shaam chale hum
+  Hai Aal-e-Nabi gham mein giraftaar kahaṅ ho
 
   2
-  Jab ghar se chali tum ne amari mein bithaya
-  Bazar karo band ye elan karaya
-  Main jaati huṅ ab Shaam ke bazar kahaṅ ho
+  Jab ghar se chali tum ne amaari mein bithaaya
+  Baazaar karo band ye elaan karaaya
+  Main jaati huṅ ab Shaam ke baazaar kahaṅ ho
 
   3
-  Malum hai tujh ko ye bara sakht safar hai
-  Unnis maqamat se Zainab ka guzar hai
-  Har gaam wahaṅ hoṅge sitamgar kahaṅ ho
+  Maalum hai tujh ko ye bara sakht safar hai
+  Unnis maqaamaat se Zainab ka guzar hai
+  Har gaam wahaṅ hoṅge sitamgaar kahaṅ ho
 
   4
-  Wo dekho barasne lage Sadat pe patthar
-  Jab rote haiṅ Sadat to haṅste haiṅ sitamgar
-  Hai Aal-e-Nabi bekas o lachar kahaṅ ho
+  Wo dekho barasne lage Saadaat pe patthar
+  Jab rote haiṅ Saadaat to haṅste haiṅ sitamgar
+  Hai Aal-e-Nabi bekas o laachaar kahaṅ ho
 
   5
-  Lamhoṅ ki musafat hui sadiyoṅ ke barabar
-  Darwaza-e-Saad pe khare hum haiṅ khule sar
-  Awaz tumheṅ deta hai bimar kahaṅ ho
+  Lamhoṅ ki musaafat hui sadiyoṅ ke baraabar
+  Darwaaza-e-Saad pe khare hum haiṅ khule sar
+  Aawaaz tumheṅ deta hai bimaar kahaṅ ho
 
   6
-  Khamosh haiṅ sab Hakim-e-Badkar ke dar se
-  Gustakhi lain karta hai Shabbir ke sar se
-  Ae bazu-e-Shabbir wafadar kahaṅ ho
+  Khaamosh haiṅ sab haakim-e-badkaar ke dar se
+  Gustaakhi lain karta hai Shabbir ke sar se
+  Ae baazu-e-Shabbir wafaadaar kahaṅ ho
 
   7
-  Faryad thi Zainab ki yehi Safdar o Mazhar
-  Kis tarah bayan hoga wo darbar ka manzar
-  Aao mere parde ke nigehdar kahaṅ ho
+  Faryaad thi Zainab ki yehi Safdar o Mazhar
+  Kis tarah bayaaṅ hoga wo darbaar ka manzar
+  Aao mere parde ke nigehdaar kahaṅ ho
 # source_id: nohayonline:3f0a85c9d81546791865
 # source_url: https://www.nohayonline.com/details_content.php?id=2827
 # raw_sha256: e44a1c5109f136c41d12e3769b463fbbf7b6635ab345464fe33a3e98590a9b34

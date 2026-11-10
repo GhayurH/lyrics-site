@@ -1,5 +1,5 @@
 ---
-title: بچھا کے فرشِ اعزا فاطمہ کو یاد کرو
+title: بچھا کے فرشِ عزا فاطمہ کو یاد کرو
 alternateTitle: Alam Sajao Kisi
 language: Urdu
 lang: ur
@@ -16,58 +16,58 @@ romanLyrics: |-
 
   1
   Siyah kapre badan par hoṅ sirf is gham mein
-  Ruke na aankh se aṅsu kabhi Muharram mein
-  Libas-e-Hazrat-e-Zainulaba ko yaad karo
+  Rukeṅ na aankh se aaṅsu kabhi Muharram mein
+  Libaas-e-Hazrat-e-Zain-ul-Aba ko yaad karo
 
   2
-  Kabhi sabil se pani piyo to ye keh kar
-  Main teri pyas pe qurban Husain ki Dukhtar
+  Kabhi sabil se paani piyo to ye keh kar
+  Main teri pyaas pe qurbaan Husain ki dukhtar
   Kabhi Sakina kabhi Bawafa ko yaad karo
 
   3
-  Gale mein shal-e-aza aur haath sinoṅ par
+  Gale mein shaal-e-aza aur haath sinoṅ par
   Alam utha ke chalo yuṅ dahakte sholoṅ par
-  Jo bekasoṅ pe hui us jafa ko yaad karo
+  Jo bekasoṅ pe hui us jafaa ko yaad karo
 
   4
-  Jhulāo jhula kisi bezabaṅ ka jab bhi
+  Jhulao jhula kisi bezabaṅ ka jab bhi
   To yaad karna zara bekasi wo Bano ki
-  Kabhi Rubab ki aah o buka ko yaad karo
+  Kabhi Rubaab ki aah o bukaa ko yaad karo
 
   5
   Gham-e-Husain mila hai tumheṅ muqaddar se
-  Sada Husain ke matam ki aae ghar ghar se
+  Sadaa Husain ke maatam ki aae ghar ghar se
   Husain Husain karo Karbala ko yaad karo
 
   6
-  Wo jis ne din ki khatir luta diya ghar ko
+  Wo jis ne din ki khaatir luta diya ghar ko
   Khuda ki raah mein jis ne kata diya sar ko
-  Parho namaz to us bekhata ko yaad karo
+  Parho namaaz to us bekhataa ko yaad karo
 
   7
   Alam jo Hazrat-e-Abbas ka uthate haiṅ
-  Dil-e-Batul se lakhoṅ duaeṅ paate haiṅ
-  Alam ke sae mein aao dua ko yaad karo
+  Dil-e-Batul se laakhoṅ duaaeṅ paate haiṅ
+  Alam ke saae mein aao duaa ko yaad karo
 
   8
   Kabhi ye soch ke tum dekhna pharere ko
-  Yehi to Zainab-e-Muztar ki aas tha logoṅ
+  Yehi to Zainab-e-Muztar ki aas tha logo
   Alam ko dekho to us berida ko yaad karo
 
   9
   Behan ke samne dulha bane koi bhai
   Jo apne bhai ka sehra na dekhne pai
-  Usi gharib behan ki sada ko yaad karo
+  Usi gharib behan ki sadaa ko yaad karo
 
   10
   Khuda nakhwasta qismat ye din jo dikhlae
   Kisi jawaṅ ko jawani mein maut aa jae
-  To hum Shabih-e-Nabi ki qaza ko yaad karo
+  To hum Shabih-e-Nabi ki qazaa ko yaad karo
 
   11
-  Jo qatlgah ko baloṅ se jhar kar roi
-  Sada hai Mazhar o Irfan ye usi maaṅ ki
-  Mere gharib mere bekhata ko yaad karo
+  Jo qatlgaah ko baaloṅ se jhaar kar roi
+  Sadaa hai Mazhar o Irfan ye usi maaṅ ki
+  Mere gharib mere bekhataa ko yaad karo
 # source_id: nohayonline:6c5792648c2917f09e4d
 # source_url: https://www.nohayonline.com/details_content.php?id=443
 # raw_sha256: 1c1ae4c021668a45eb052a2a4e617032bfe58e407bd75d9e8a65fbb24f6f359a
