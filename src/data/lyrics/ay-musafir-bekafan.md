@@ -1,48 +1,49 @@
 ---
 title: "اے مسافر بے کفن تو خاک پر وا حسرتا"
-alternateTitle: "Ay Musafir Bekafan"
+alternateTitle: "Ae Musafir Bekafan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay musafir be kafan tu khaak par wa hasrata
-  Mai musafir shaam ki hoo dushmano may be rida
+  Ae musafir be kafan tu khaak par wa hasrata
+  Main musafir Shaam ki huṅ dushmanoṅ mein be rida
   Alwida alwida alwida
 
   1
-  Boli zainab ay mere majaye ye kya haal hai
-  Kaise pehchanu tera laasha bahot pamaal hai
-  Aah re anta aqi kya hai tu hi bhaiya mera
+  Boli Zainab ae mere maaṅ jaaye ye kya haal hai
+  Kaise pehchaanuṅ tera laasha bahut paamaal hai
+  Aah re anta akhi kya hai tu hi bhaiya mera
 
   2
-  Kya tumhi ibne zehra kya tumhi ibne ali
-  Kya tumhi bhai hassan ke aur jaane zainabi
-  Ay gule baaghe mohamed haal ye kya hogaya
+  Kya tum hi ho ibn-e-Zehra kya tum hi ibn-e-Ali
+  Kya tum hi bhaai Hasan ke aur jaan-e-Zainabi
+  Ae gul-e-baagh-e-Muhammad haal ye kya ho gaya
 
   3
-  Na rahi nalayn na malboos na dastaar hai
-  Ay ghareebe fatema tu khuld ka sardar hai
-  Ay tane uryan tera to aaj sab kuch lut gaya
+  Na rahi naalain na malbus na dastaar hai
+  Ae gharib-e-Fatema tu khuld ka sardaar hai
+  Ae tan-e-uryaaṅ tera to aaj sab kuchh lut gaya
 
   4
-  Mai rasan basta chali waada nibhane ke liye
-  Ghar may qaatil ke teri masnad bichane ke liye
-  Kal yehi masnad bana dungi teri farshe aza
+  Main rasan basta chali waada nibhaane ke liye
+  Ghar mein qaatil ke teri masnad bichhaane ke liye
+  Kal yehi masnad bana duṅgi teri farsh-e-aza
 
   5
-  Bhai amma aur nana ka padar ka waasta
-  Baat kar mujhse baradar khol de aankehin zara
-  Dekh to chehra behan ka kis khadar murjha gaya
+  Bhaai ammaṅ aur naana ka padar ka waasta
+  Baat kar mujh se baraadar khol de aankheṅ zara
+  Dekh to chehra behan ka kis qadar murjha gaya
 
   6
-  Lashaye be-sar tadap kar ye sada dene laga
-  Ay behan wada nibha ke mai to maqtal se chala
-  Thi sada rehan o sarwar haye khaahar alwida
+  Laasha-e-besar tarap kar ye sada dene laga
+  Ae behan waada nibha ke main to maqtal se chala
+  Thi sada Rehaan o Sarwar haaye khaahar alwida
 # source_id: nohayonline:d5d9b74ca79c238ef884
 # source_url: https://www.nohayonline.com/details_content.php?id=152
 # raw_sha256: bb6533888ee5b5e57c250f159c9a33679da3c61b218f74acc1f352498e9249b8
@@ -53,7 +54,7 @@ romanLyrics: |-
 الوداع الوداع الوداع
 
 ۱
-بولی زینب اے میرے ماں جاے یہ کیا حال ہے
+بولی زینب اے میرے ماں جائے یہ کیا حال ہے
 کیسے پہچانوں تیرا لاشہ بہت پامال ہے
 آہ رے انتا اخی کیا ہے تو ہی بھیا میرا
 
@@ -68,13 +69,13 @@ romanLyrics: |-
 اے تن عریاں تیرا تو آج سب کچھ لٹ گیا
 
 ۴
-میں رسن بستہ چلی وعدہ نبھانے کے لیےء
+میں رسن بستہ چلی وعدہ نبھانے کے لیے
 گھر میں قاتل کے تیری مسند بچھانے کے لئے
 کل یہی مسند بنادونگی تیری فرش عزا
 
 ۵
 بھائی اماں اور نانا کا پدر کا واسطہ
-بات کر مجھ سے برادر کھول دے آنکھیں زرا
+بات کر مجھ سے برادر کھول دے آنکھیں ذرا
 دیکھ تو چہرہ بہن کا کس قدر مرجھا گیا
 
 ۶

@@ -1,61 +1,62 @@
 ---
 title: "اے مسلماں یہ بتا قتل پیاسا کیوں کیا"
-alternateTitle: "Ay Musalman Ye"
+alternateTitle: "Ae Musalmaaṅ Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sarwar"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay musalman ye bata qatl pyasa kyun kiya
-  Kya thi khata shabbir ki
-  Na kiya khaufe khuda cheen li sar se rida
-  Kyun waaris e tatheer ki
+  Ae musalmaaṅ ye bata qatl pyaasa kiun kiya
+  Kya thi khata Shabbir ki
+  Na kiya khauf-e-Khuda chhin li sar se rida
+  Kiun waaris-e-tathir ki
 
   1
-  Chal gaya sajde mein khanjar fatema ke laal par
-  Jal gaya zahra ka ghar
-  Lut gayi binte ali tune hi baad az nabi
-  Is zulm ki tadbeer ki
+  Chal gaya sajde mein khanjar Fatema ke laal par
+  Jal gaya Zahra ka ghar
+  Lut gayi bint-e-Ali tu ne hi baad az Nabi
+  Is zulm ki tadbir ki
 
   2
-  Be-khata in qaidiyon ki gham bhari ye daastan
-  Sun ke rota hai jahan
-  Shaam ke bazaar mein abid e bemaar ne
-  Thi khoon se tehreer ki
+  Bekhata in qaidiyoṅ ki gham bhari ye daastaaṅ
+  Sun ke rota hai jahaaṅ
+  Shaam ke baazaar mein Aabid-e-bimaar ne
+  Thi khun se tahrir ki
 
   3
-  Madar e asghar tumhari zindagani ka samar
-  Mar gaya islam par
-  Hum na bhoolenge kabhi nok nazuk se galay mein
-  Hurmala ke teer ki
+  Maadar-e-Asghar tumhaari zindagaani ka samar
+  Mar gaya Islaam par
+  Ham na bhuleṅge kabhi nok naazuk se gale mein
+  Hurmala ke tir ki
 
   4
-  Karbala se shaam tak aale payambar be-amaan
-  Tazaiyane rassiyan
-  Balwe mein laaya gaya haye aale mustufa
-  Ki is tarha tauqeer ki
+  Karbala se Shaam tak aal-e-Payambar be amaaṅ
+  Taaziyaane rassiyaaṅ
+  Balwe mein laaya gaya haaye aal-e-Mustafa
+  Ki is tarah tauqir ki
 
   5
-  Kab talak seh paati aakhir jhidkiyan aur sayliyan
-  Qaid ki tanhaiyan
-  Is khadar dhaayi jafa qabr zindan mein bani hai
-  Dukhtare shabbir ki
+  Kab talak sah paati aakhir jhirkiyaaṅ aur sailiyaaṅ
+  Qaid ki tanhaaiyaaṅ
+  Is qadar dhaayi jafa qabr zindaaṅ mein bani hai
+  Dukhtar-e-Shabbir ki
 
   6
-  Saani e zehra barehna sar gayi bazaar mein
+  Saani-e-Zehra barahna sar gayi baazaar mein
   Aur bhare darbaar mein
-  Mehfile mehkhaar mein malka e sharm o haya ki
-  Tume kyun tasheer ki
+  Mahfil-e-mai khwaar mein malka-e-sharm o haya ki
+  Tu ne kiun tashhir ki
 
   7
-  Sun ke jisko har ghadi rote hai saare matami
-  Karte hai seena zani
-  Aa rahi hai shaam se ab bhi wo awaaz e sarwar
-  Tauq aur zanjeer ki
+  Sun ke jis ko har ghari rote haiṅ saare maatami
+  Karte haiṅ sina zani
+  Aa rahi hai Shaam se ab bhi wo aawaaz Sarwar
+  Tauq aur zanjir ki
 # source_id: nohayonline:bf661fcf30b7c124decb
 # source_url: https://www.nohayonline.com/details_content.php?id=1135
 # raw_sha256: 6cac7d9015406362135158a0c5327e77ad12de7d1bdf8de27a3188b36d3e8056
@@ -99,7 +100,7 @@ romanLyrics: |-
 ۶
 ثانی زہرا برہنہ سر گئی بازار میں
 اور بھرے دربار میں
-محفلِ مئے خوار میں ملکہِ شرم و حیاکی
+محفلِ مئے خوار میں ملکہِ شرم و حیا کی
 تو نے کیوں تشہیر کی
 
 ۷
