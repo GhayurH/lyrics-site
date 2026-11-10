@@ -1,6 +1,6 @@
 ---
 title: "اللّٰہ اکبر کی اذاں"
-alternateTitle: "Allahu Akbar Ki Azaan"
+alternateTitle: "Allahu Akbar Ki Azaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,9 +11,9 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Allahu Akbar ki azaan
+  Allahu Akbar ki azaaṅ
   Ye keh rahi hai dasht mein
-  Ro ro ke ek maa
+  Ro ro ke ek maaṅ
 
   1
   Haye haye tum na aaye
@@ -21,63 +21,63 @@ romanLyrics: |-
   Haye wo gham das moharam
   Aur Sakina ke wo bain
   Akbar bhi sun ke ro pada
-  Behno ki siskiyan
+  Behnoṅ ki siskiyaṅ
 
   2
   Kya jawani kaisa pani
   Tashnagi ki raat thi
   Haye ae Rab aakhri shab
-  Aansuon ke saath thi
+  Aansuoṅ ke saath thi
   Ubhri thi haye is tarha
-  Ashoor ki azaan
+  Aashur ki azaaṅ
 
   3
   Mustafa ke chaand taare
   Shaam tak gehna gaye
-  Haye haye phool saare
+  Haye haye phul saare
   Kis tarha murjha gaye
-  Yun Fatima ke baagh mein
-  Aati rahi khiza
+  Yuṅ Fatima ke baagh mein
+  Aati rahi khizaṅ
 
   4
   Haye haye gham uthaye
   Is tarha saadat ne
   Aah o zaari ashk waari
-  Ki ghamon ki raat ne
-  Jaise jawan laash par
-  Baithi hai bibiyan
+  Ki ghamoṅ ki raat ne
+  Jaise jawaaṅ laash par
+  Baithi hai bibiyaṅ
 
   5
-  Aisa manzar is zameen par
-  Phir nazar aaya nahi
-  Naujawan ka yun janaza
-  Aise uth'ta hai kahin
-  Roti hai aaj ye zameen
-  Rota hai aasman
+  Aisa manzar is zamin par
+  Phir nazar aaya nahiṅ
+  Naujavaaṅ ka yuṅ janaza
+  Aise uthta hai kahiṅ
+  Roti hai aaj ye zamin
+  Rota hai aasmaṅ
 
   6
   Haye Akbar bola ro kar
   Ye azaan aakhri
-  Sun rahe hain Karbala mein
+  Sun rahe haiṅ Karbala mein
   Aaj jis tarha sabhi
-  Sugra bhi kaash sun sake
-  Ae mere baba jaan
+  Sughra bhi kaash sun sake
+  Ae mere baba jaaṅ
 
   7
   Haye haye sar kataye
-  Sab jawan so jayenge
+  Sab jawan so jaaeṅge
   Dehr chhor ke khaak orhe
-  Dasht mein kho jayenge
+  Dasht mein kho jaaeṅge
   Qaayam rahegi hashr tak
-  Allah ki azaan
+  Allah ki azaaṅ
 
   8
   Wo muazzim maut ke din
   Gin raha tha ae Zafar
   Shaah ka dil kaisi mushkil
-  Mein tha mesum raat bhar
-  Yun qatla hoke reh gaya
-  Shabbir ka bayaan
+  Mein tha Meesum raat bhar
+  Yuṅ qatl ho ke reh gaya
+  Shabbir ka bayaaṅ
 # source_id: nohayonline:833f6383126760687de9
 # source_url: https://www.nohayonline.com/details_content.php?id=2532
 # raw_sha256: ab00ef28557371e0278c41bc9f222d1dee8c916c9af8d7dcf4a188fc2ed8b93c

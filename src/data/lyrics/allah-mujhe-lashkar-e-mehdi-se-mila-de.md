@@ -13,8 +13,8 @@ romanLyrics: |-
   Aisa na ho Aaqa mera Hal Min ki sada de
 
   1
-  Nazron ko meri laiq-e-didar bana de
-  Parda jo para hai meri aankhon pe utha de
+  Nazroṅ ko meri laiq-e-didar bana de
+  Parda jo para hai meri aankhoṅ pe utha de
   Hadi-e-zamaṅ ka rukh-e-purnur dikha de
 
   2
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   6
   Dekhuṅ na agar uthte huwe parda-e-ghaibat
-  Aaeṅ jo mere baad yahan Hazrat-e-Hujjat
+  Aaeṅ jo mere baad yahaṅ Hazrat-e-Hujjat
   Turbat mein aa kar koi mera shana hila de
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
