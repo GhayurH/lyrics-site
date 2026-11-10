@@ -1,85 +1,89 @@
 ---
 title: "مقتل کے سناٹے میں"
-alternateTitle: "Ay Mere Baba Jaan"
+alternateTitle: "Ae Mere Baba Jaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mere Baba Jaan"]
 published: false
 romanLyrics: |-
-  Maqtal ke sannate mein
-  Nauha karti hai naadan
-  Ay mere baba jaan
+  Maqtal ke sannaate mein
+  Nauha karti hai naadaaṅ
+  Ae mere baba jaaṅ
+  Ae mere baba jaaṅ
 
   1
-  Baaki nahi ab mere
-  Jeene ka koi imkaan
+  Baaqi nahiṅ ab mere
+  Jine ka koi imkaaṅ
+  Ae mere baba jaaṅ
+  Ae mere baba jaaṅ
 
   2
-  Jangal hainghar bhi nahi hai
-  Koi yawar bhi nahi hai
-  Ab to akbar bhi nahi hai
-  Sar par chadar bhi nahi hai
-  Yun hi ab qaidi ho kar
-  Jaana hai mujhko zindan
+  Jangal hai ghar bhi nahiṅ hai
+  Koi yaawar bhi nahiṅ hai
+  Ab to Akbar bhi nahiṅ hai
+  Sar par chaadar bhi nahiṅ hai
+  Yuṅ hi ab qaidi ho kar
+  Jaana hai mujh ko zindaaṅ
 
   3
-  Kab se khaati hoo tamache
-  Dono aariz hai neele
-  Pehnaye thay jo bunde
-  Wo bhi aada ne cheene
+  Kab se khaati huṅ tamaanche
+  Donoṅ aariz hain nile
+  Pehnaaye the jo bunde
+  Wo bhi aadaa ne chhine
   Beti ki haalat dekho
-  Zakhmi hai dono hi kaan
+  Zakhmi hain donoṅ hi kaan
 
   4
-  Loota qaima bhi ghar bhi
-  Gehwara bhi bistar bhi
-  Maqna bhi aur chadar bhi
+  Luta khaima bhi ghar bhi
+  Gehwaara bhi bistar bhi
+  Maqna bhi aur chaadar bhi
   Hasli bhi aur gauhar bhi
-  Aada ne aag laga kar
-  Loote hai ghar ke saaman
+  Aadaa ne aag laga kar
+  Lute hain ghar ke saamaan
 
   5
-  Ye akbar ki mayyat hai
-  Wo asghar ki turbat hai
-  Ye farwa ki hasrat hai
-  Wo zainab ki ghairat hai
-  Bikhre pade hai ran mein
-  Zehra ke dil ke armaan
+  Ye Akbar ki mayyat hai
+  Wo Asghar ki turbat hai
+  Ye Farwa ki hasrat hai
+  Wo Zainab ki ghairat hai
+  Bikhre pare hain ran mein
+  Zehra ke dil ke armaaṅ
 
   6
-  Tum thay ahmed ke nawase
-  Doori thi kya darya se
-  Zabha huwe kyun pyase
-  Batlaun kya dunya se
-  Tum ko kalmagoyo ne
-  Maara bula ke mehman
+  Tum the Ahmad ke nawaase
+  Duri thi kya darya se
+  Zabha hue kiuṅ pyaase
+  Batlaauṅ kya duniya se
+  Tum ko kalma goyoṅ ne
+  Maara bula ke mehmaaṅ
 
   7
-  Wo hai ammu ke baazu
-  Ye hai akbar ke gaysu
-  Qasim bikhre hai har soo
-  Mai hoo aur mere aansu
+  Wo hain ammu ke baazu
+  Ye hain Akbar ke gesu
+  Qasim bikhre hain har su
+  Main huṅ aur mere aansu
   Kal tak thi is maqtal mein
   Mere kunbe ki kya shaan
 
   8
-  Kufe mein ghabraungi
-  Kyun kar himmat laaungi
-  Balwe mein sharmaungi
-  Ghairat se mar jaungi
-  Rukh par matti hi mal do
+  Kufe mein ghabraauṅgi
+  Kiuṅ kar himmat laauṅgi
+  Balwe mein sharmaauṅgi
+  Ghairat se mar jaauṅgi
+  Rukh par mitti hi mal do
   Hone na paaye pehchaan
 
   9
-  Majalis mein jab aate hai
-  Ashk e gham barsaate hai
-  Matam mein kho jaate hai
-  Rote hai rulwaate hai
-  Nayyar aur aamir ki tum
+  Majaalis mein jab aate hain
+  Ashk-e-gham barsaate hain
+  Maatam mein kho jaate hain
+  Rote hain rulwaate hain
+  Nayyar aur Aamir ki tum
   Mushkil kar dena aasaan
 # source_id: nohayonline:2750b2b6f82f16be88fa
 # source_url: https://www.nohayonline.com/details_content.php?id=2423
@@ -89,26 +93,29 @@ romanLyrics: |-
 مقتل کے سناٹے میں
 نوحہ کرتی ہے ناداں
 اے میرے بابا جاں
+اے میرے بابا جاں
 
 ۱
 باقی نہیں اب میرے
-جینے کا کوی امکاں
+جینے کا کوئی امکاں
+اے میرے بابا جاں
+اے میرے بابا جاں
 
 ۲
 جنگل ہے گھر بھی نہیں ہے
-کوی یاور بھی نہیں ہے
+کوئی یاور بھی نہیں ہے
 اب تو اکبر بھی نہیں ہے
 سر پر چادر بھی نہیں ہے
 یوں ہی اب قیدی ہو کر
-جانا ہے مجھکو زنداں
+جانا ہے مجھ کو زنداں
 
 ۳
 کب سے کھاتی ہوں طمانچے
 دونوں عارض ہیں نیلے
-پہناے تھے جو بوندیں
+پہنائے تھے جو بوندیں
 وہ بھی اعدا نے چھینے
 بیٹی کی حالت دیکھو
-زخمی ہے دونوں ہی کان
+زخمی ہیں دونوں ہی کان
 
 ۴
 لوٹا خیمہ بھی گھر بھی
@@ -135,7 +142,7 @@ romanLyrics: |-
 مارا بلا کے مہماں
 
 ۷
-وہ ہے عمو کے بازو
+وہ ہیں عمو کے بازو
 یہ ہے اکبر کے گیسوں
 قاسم بکھرے ہیں ہر سو
 میں ہوں اور میرے آنسو
@@ -148,7 +155,7 @@ romanLyrics: |-
 بلوے میں شرماؤں گی
 غیرت سے مر جاؤں گی
 رخ پر مٹی ہی مل دو
-ہونے نہ پاے پہچان
+ہونے نہ پائے پہچان
 
 ۹
 مجالس میں جب آتے ہیں

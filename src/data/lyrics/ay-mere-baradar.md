@@ -1,60 +1,63 @@
 ---
 title: "عباس کے لاشے پر بیاں کرتے تھے سرور"
-alternateTitle: "Ay Mere Baradar"
+alternateTitle: "Ae Mere Baradar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Mirza"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mere Baradar"]
 published: false
 romanLyrics: |-
-  Abbas ke laashe par bayan karte thay sarwar
-  Ay mere baradar
-  Gardan pe chalega meri ab shimr ka khanjar
+  Abbas ke laashe par bayaaṅ karte the Sarwar
+  Ae mere baradar
+  Gardan pe chalega meri ab Shimr ka khanjar
+  Ae mere baradar
 
   1
   Nasir na koi aur na madadgaar hai mera
-  Mai hogaya tanha
-  Loota gaya pardes mein amma ka bhara ghar
+  Main ho gaya tanha
+  Luta gaya pardes mein ammaaṅ ka bhara ghar
 
   2
-  Jo mere wafadar thay sab mar gaye ansaar
-  Koi nahi ghamkhwar
-  Ab mera alamdar raha aur na ye lashkar
+  Jo mere wafaadaar the sab mar gaye ansaar
+  Koi nahiṅ ghamkhwaar
+  Ab mera alamdaar raha aur na ye lashkar
 
   3
-  Tum sogaye abbas jo darya ke kinare
-  Shaano ko kata ke
-  Chin jayegi ab zainab o kulsoom ki chadar
+  Tum so gaye Abbas jo darya ke kinaare
+  Shaanoṅ ko kata ke
+  Chhin jaayegi ab Zainab o Kulsum ki chaadar
 
   4
-  Darwaza e qaima pe hai bechain sakina
-  Bekal hai hazeena
+  Darwaaza-e-khaima pe hai bechain Sakina
+  Bekal hai hazina
   Roti hui darya pe chali aaye na muztar
 
   5
-  Atfaal uthayenge meri pyaas ki eeza
-  Pani na milega
-  Dam todenge bache mere pyase hi tadapkar
+  Atfaal uthaayeṅge meri pyaas ki iza
+  Paani na milega
+  Dam toreṅge bachche mere pyaase hi tarap kar
 
   6
-  Khush honge adoo zainab e muztar ko rulaake
-  Le jayenge darbar mein be-maqna o chadar
-  Khoon royegi har ek azadar ki aankhein
-  Dil khenchegi aahein
-  Laayegi tere haath jo amma sare mehshar
+  Khush hoṅge adu Zainab-e-muztar ko rula ke
+  Le jaayeṅge darbaar mein bemaqna o chaadar
+
+  Khuṅ royegi har ek azaadaar ki aankheṅ
+  Dil khenchegi aaheṅ
+  Laayegi tere haath jo ammaaṅ sar-e-mahshar
 
   7
-  Mai baad e shahadat bhi uthaunga alam aur
-  Hoyenge sitam aur
-  Pamaal meri laash ko kardenge sitamgar
+  Main baad-e-shahaadat bhi uthaauṅga alam aur
+  Hoyeṅge sitam aur
+  Paamaal meri laash ko kar deṅge sitamgar
 
   8
-  Awaaz mein rehan ke hilal aisa asar tha
+  Aawaaz mein Rehan ke Hilal aisa asar tha
   Rone laga darya
-  Sar peet'ti thi mauje jo sheh kehte thay rokar
+  Sar pitti thi maujeṅ jo Shah kehte the ro kar
 # source_id: nohayonline:49abdbf83d65800ed80f
 # source_url: https://www.nohayonline.com/details_content.php?id=717
 # raw_sha256: 7e5b42334cae2a6032dbda66d2973e00c1c10b653c27d835c61844812dad3248
@@ -62,43 +65,45 @@ romanLyrics: |-
 عباس کے لاشے پر بیاں کرتے تھے سرور
 اے میرے برادر
 گردن پہ چلے گا میری اب شمر کا خنجر
+اے میرے برادر
 
 ۱
 ناصر نہ کوئی اور نہ مدد گار ہے میرا
-میں ہوگیا تنہا
-لوٹا گیا پردیس میں اماں کابھرا گھر
+میں ہو گیا تنہا
+لوٹا گیا پردیس میں اماں کا بھرا گھر
 
 ۲
-جو میرے وفادار تھے سب مرگےء انصار
+جو میرے وفادار تھے سب مر گئے انصار
 کوئی نہیں غم خوار
 اب میرا علمدار رہا اور نہ یہ لشکر
 
 ۳
-تم سوگےء عباس جو دریا کے کنارے
+تم سو گئے عباس جو دریا کے کنارے
 شانوں کو کٹا کے
 چھن جائے گی اب زینب و کلثوم کی چادر
 
 ۴
-دروازہ ء خیمہ پہ ہے بے چین سکینہ
+دروازۂ خیمہ پہ ہے بے چین سکینہ
 بیکل ہے حزینہ
-روتی ہوئی دریا پہ چلی آے نہ مضطر
+روتی ہوئی دریا پہ چلی آئے نہ مضطر
 
 ۵
-اطفال اٹھایںگے میری پیاس کی ایذاء
+اطفال اٹھائیں گے میری پیاس کی ایذا
 پانی نہ ملے گا
-دم توڑینگے بچے میرے پیاسے ہی تڑپ کر
+دم توڑیں گے بچے میرے پیاسے ہی تڑپ کر
 
 ۶
-خوش ہونگے عدو زینب مضطر کو رلاکے
-لے جاینگے دربار میں بے مقنہ و چادر
-خوں رویےگی ہر ایک عزادار کی آنکھیں
+خوش ہوں گے عدو زینبِ مضطر کو رلا کے
+لے جائیں گے دربار میں بے مقنہ و چادر
+
+خوں روئے گی ہر ایک عزادار کی آنکھیں
 دل کھینچے گی آہیں
-لاے گی تیرے ہاتھ جو اماں سر محشر
+لائے گی تیرے ہاتھ جو اماں سرِ محشر
 
 ۷
-میں بعد شہادت بھی اٹھاؤں گا علم اور
+میں بعدِ شہادت بھی اٹھاؤں گا علم اور
 ہوےنگے ستم اور
-پامال میری لاش کو کردیں گے ستمگر
+پامال میری لاش کو کر دیں گے ستمگر
 
 ۸
 آواز میں ریحان کے ہلال ایسا اثر تھا
