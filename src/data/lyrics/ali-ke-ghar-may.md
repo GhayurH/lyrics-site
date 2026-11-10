@@ -1,5 +1,5 @@
 ---
-title: "علی کے گھر میں قیامت کی صبح آی ہے"
+title: "علی کے گھر میں قیامت کی صبح آئی ہے"
 alternateTitle: "Ali Ke Ghar May"
 language: "Urdu"
 lang: "ur"
@@ -14,48 +14,48 @@ published: false
 # source_url: https://www.nohayonline.com/details_content.php?id=1758
 # raw_sha256: 585a2b9f193147718e092b1019515cfb11e5fb698ae7686441bdb7dd8bdaeb59
 romanLyrics: |-
-  Ali ke ghar mein qayamat ki subh aayi hai
-  Khabar ye khalq ko Jibreel ne sunayi hai
+  Ali ke ghar mein qayaamat ki subh aayi hai
+  Khabar ye khalq ko Jibril ne sunaayi hai
   
   1
-  Kiya hai war sitamgar ne puri shiddat se
-  Shigafta hua sar Murtaza ka zarbat se
-  Tarap rahe haiṅ Ali dard intihayi hai
+  Kiya hai waar sitamgar ne puri shiddat se
+  Shigaafta hua sar Murtaza ka zarbat se
+  Tarap rahe haiṅ Ali dard intihaayi hai
   
   2
   Bapa hui hai jo Kufe mein Karbala dekho
   Ali Wali se jo ummat ne ki dagha dekho
-  Imam-e-Waqt se ye kaisi bewafayi hai
+  Imam-e-Waqt se ye kaisi bewafaayi hai
   
   3
   Lahu mein tar hai rukh-e-Bu Turab wawaila
-  Nabi ko khuld mein hai iztirab wawaila
-  Gham o alam ki faza zindagi pe chhayi hai
+  Nabi ko khuld mein hai iztiraab wawaila
+  Gham o alam ki faza zindagi pe chhaayi hai
   
   4
-  Hasan Husain haiṅ Baba ko dekh kar maghmum
+  Hasan Husain hai Baaba ko dekh kar maghmum
   Saroṅ ko pit ke roti hai Zainab o Kulsum
   Shadid gham hai musibat ye kaisi aayi hai
   
   5
-  Asar se zahr ke Maula pe hai ghashi tari
-  Wasiyatoṅ ka musalsal hai silsila jari
-  Ye jante haiṅ ke bachchoṅ se ab judayi hai
+  Asar se zahr ke Maula pe hai ghashi taari
+  Wasiyatoṅ ka musalsal hai silsila jaari
+  Ye jaante haiṅ ke bachchoṅ se ab judaayi hai
   
   6
   Hasan Husain se farma rahe haiṅ ye Maula
-  Sitam ke war se bachna muhal hai mera
-  Shaqi ne tegh-e-sitam zahr mein bujhayi hai
+  Sitam ke waar se bachna muhaal hai mera
+  Shaqi ne tegh-e-sitam zahr mein bujhaayi hai
   
   7
-  Isi ke sath hui ibtida-e-Karb o Bala
+  Isi ke saath hui ibtida-e-Karb o Bala
   Buland Zainab o Kulsum ki hai aah o buka
-  Ye subh Sham-e-Ghariban ka rang layi hai
+  Ye subh Shaam-e-Gharibaaṅ ka rang laayi hai
   
   8
-  Jahaṅ mein koi na Aulad-e-Fatima ka raha
+  Jahaaṅ mein koi na Aulad-e-Fatima ka raha
   Hua jo zulm ke Sadiq ujar gaya kunba
-  Ali shahid hue Ya Nabi duhayi hai
+  Ali shahid hue Ya Nabi duhaayi hai
 ---
 
 علی کے گھر میں قیامت کی صبح آئی ہے
@@ -79,7 +79,7 @@ romanLyrics: |-
 ۴
 حسن حسین ہے بابا کو دیکھ کر مغموم
 سروں کو پیٹ کے روتی ہے زینب و کلثوم
-شدید غم ہے مصیبت یہ کیسی آی ہے
+شدید غم ہے مصیبت یہ کیسی آئی ہے
 
 ۵
 اثر سے زہر کے مولا پہ ہے غشی طاری

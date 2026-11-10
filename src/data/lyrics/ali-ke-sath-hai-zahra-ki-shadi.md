@@ -17,63 +17,63 @@ published: false
 # additional_source_id: tajpoints:8dd5cd1e501ade1677c9
 # additional_source_url: https://tajpoints.com/2017/02/alias-ke-sath-hai-zahrasa-ki-shadi.html
 # source_part_poets: Qamar Jalalvi (opening couplet); Mohsin Naqvi (insert verses); Mir Takallum Mir (stanza 9); Gohar Jarchvi (later verses)
-# source_stanza_boundaries: grouped manually from printed verse blocks; confirm against recitation
+# source_stanza_boundaries: two opening couplets and 13 lyric paragraphs verified in both archived HTML sources
 romanLyrics: |-
-  Murtaza ko khanazad-e-Rabb-e-Akbar dekh kar
+  Murtaza ko khaana zaad-e-Rabb-e-Akbar dekh kar
   Byah di beti Payambar ne bara ghar dekh kar
   
-  Sabhi khush haiṅ Khudayi bhi Khuda bhi
-  Ali ke sath hai Zahra ki shadi
+  Sabhi khush haiṅ Khudaayi bhi Khuda bhi
+  Ali ke saath hai Zahra ki shaadi
   
   1
   Dulha hai Khuda ke ghar ka dulhan hai Nabi ke ghar ki
   Wo arz o sama ka malik ye malka bahr o bar ki
-  Zamin raqsaṅ hai raqsaṅ aasmaṅ bhi
+  Zamiṅ raqsaaṅ hai raqsaaṅ aasmaaṅ bhi
   
   2
-  Jab hukm Khuda ka paya huroṅ ne arsh sajaya
-  Ismat ne banaya saya aur Nur-e-Wila lehraya
-  Wilayat ne hasiṅ masnad bichha di
+  Jab hukm Khuda ka paaya huroṅ ne arsh sajaaya
+  Ismat ne banaaya saaya aur Nur-e-Wila lehraaya
+  Wilaayat ne hasiṅ masnad bichha di
   
   3
-  Kayi bahareṅ guzar gayi haiṅ khila na aisa chaman jahaṅ mein
-  Kahaṅ Khudayi mein aisa dulha kahaṅ hai aisi dulhan jahaṅ mein
+  Kayi bahaareṅ guzar gayi haiṅ khila na aisa chaman jahaaṅ mein
+  Kahaaṅ Khudaayi mein aisa dulha kahaaṅ hai aisi dulhan jahaaṅ mein
   
   4
-  Haider haiṅ Kul-e-Iman aur Kul-e-Ismat Zahra
+  Haider haiṅ Kul-e-Imaaṅ aur Kul-e-Ismat Zahra
   Us sar pe wafa ka sehra is sar pe haya ka sehra
-  Wo shahzada hai aur ye shahzadi
+  Wo shahzaada hai aur ye shahzaadi
   
   5
   Tohfe mein mile maike se inheṅ Kausar aur Jannat to
-  Ye sara namak aur pani Haq mehr mila Zahra ko
-  Salami mein mili marzi Khuda ki
+  Ye saara namak aur paani Haq mehr mila Zahra ko
+  Salaami mein mili marzi Khuda ki
   
   6
-  Ye Anbiya haiṅ ye Auliya haiṅ Ali Wali ki barat dekho
-  Chhirakta hai Khizr har barati ke rukh pe Ab-e-Hayat dekho
+  Ye Anbiya haiṅ ye Auliya haiṅ Ali Wali ki baaraat dekho
+  Chhirakta hai Khizr har baaraati ke rukh pe Aab-e-Hayaat dekho
   Ye bazm dekho ye log dekho ye rang dekho ye raat dekho
   
   7
-  Barat chali Haider ki rahmat ke sae sae
-  Barat ke aage aage waliyoṅ ne qaside gaye
-  Nabi sare chale ban kar barati
+  Baaraat chali Haider ki rahmat ke saaye saaye
+  Baaraat ke aage aage waliyoṅ ne qaside gaaye
+  Nabi saare chale ban kar baaraati
   
   8
-  Tathir ke zer-e-saya raheṅ shad ye dulha dulhan
-  Ae Bagh-e-Jina ke malik aabad rahe ye gulshan
-  Khudawanda mubarak ho ye shadi
+  Tathir ke zer-e-saaya raheṅ shaad ye dulha dulhan
+  Ae Baagh-e-Jina ke maalik aabaad rahe ye gulshan
+  Khudaawanda mubaarak ho ye shaadi
   
   9
   Ata kar ke Haider ko Zahra si zauja
-  Pukara falak par ye Mabud mera
-  Ali ne banayi hai qismat jahaṅ ki
-  Ali ki main qismat banane chala huṅ
+  Pukaara falak par ye Mabud mera
+  Ali ne banaayi hai qismat jahaaṅ ki
+  Ali ki main qismat banaane chala huṅ
   
   10
-  Kheti ne bichhaya sabza suraj ne ujale baṅte
-  Khud Dast-e-Khuda ne shab ke aaṅchal pe sitare taṅke
-  Hui rangin jo thi tasvir sadi
+  Kheti ne bichhaaya sabza suraj ne ujaale baaṅte
+  Khud Dast-e-Khuda ne shab ke aaṅchal pe sitaare taaṅke
+  Hui rangin jo thi tasvir saadi
   
   11
   Ab chahe koi tarpe ab chahe koi bharke
@@ -81,14 +81,14 @@ romanLyrics: |-
   Khushi ki baat thi main ne suna di
   
   12
-  Rukhsat ki ghari jab aayi taroṅ ne maṅg sajayi
-  Haq ne rahmat barsayi naroṅ ne dhum machayi
-  Uthi doli chali bad-e-bahari
+  Rukhsat ki ghari jab aayi taaroṅ ne maaṅg sajaayi
+  Haq ne rahmat barsaayi naaroṅ ne dhum machaayi
+  Uthi doli chali baad-e-bahaari
   
   13
-  Thi aisi muqaddas mehfil aise pakiza jalwe
+  Thi aisi muqaddas mehfil aise paakiza jalwe
   Ae Mir Hasan aur Gohar kaha sab ne ye khush ho ke
-  Mubarak hai mubarak hai ye shadi
+  Mubaarak hai mubaarak hai ye shaadi
 ---
 
 مرتضیٰ کو خانہ زادِ ربِ اکبر دیکھ کر

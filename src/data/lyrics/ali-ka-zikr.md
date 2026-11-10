@@ -14,44 +14,44 @@ published: false
 # source_url: https://www.nohayonline.com/details_content.php?id=1980
 # raw_sha256: 6ebf6c7a1be249673081fbab4e8d315057e9f0be2bdd3ef8b97d8cd60b5db79f
 romanLyrics: |-
-  Ali ka zikr Muhammad ka naam baqi hai
-  Husain tum se Khuda ka kalam baqi hai
+  Ali ka zikr Muhammad ka naam baaqi hai
+  Husain tum se Khuda ka kalaam baaqi hai
   
   1
-  Mitane wale imamat ke mit gaye lekin
-  Khuda ke fazl se ab bhi Imam baqi hai
+  Mitaane wale imaamat ke mit gaye lekin
+  Khuda ke fazl se ab bhi Imam baaqi hai
   
   2
-  Ali ke lal ke dunya mein naam baqi hai
-  Yazid mit gaya zikr-e-anam baqi hai
+  Ali ke laal ke dunya mein naam baaqi hai
+  Yazid mit gaya zikr-e-anaam baaqi hai
   
   3
-  Mitae lakh zamana miteṅge hum kaise
-  Hamare sar pe hamara Imam baqi hai
+  Mitaaye laakh zamaana miteṅge hum kaise
+  Hamaare sar pe hamaara Imam baaqi hai
   
   4
-  Hamara un se kabhi faisla nahiṅ hoga
-  Yazid mar gaya kuchh rishtedar baqi haiṅ
+  Hamaara un se kabhi faisla nahiṅ hoga
+  Yazid mar gaya kuchh rishtedaar baaqi hai
   
   5
-  Wo aur hoṅge yatiman-e-mazhab o millat
-  Hamare sar pe hamara Imam baqi hai
+  Wo aur hoṅge yatimaan-e-mazhab o millat
+  Hamaare sar pe hamaara Imam baaqi hai
   
   6
   Qarib jhule ke aa kar ye ro ke bole Husain
-  Abhi shahidoṅ mein Asghar ka naam baqi hai
+  Abhi shahidoṅ mein Asghar ka naam baaqi hai
   
   7
   Zara Ae Maut thehar ja kaha ye Akbar ne
-  Zaif baap ka thora sa kam baqi hai
+  Zaif baap ka thora sa kaam baaqi hai
   
   8
-  Ba waqt-e-akhri Zainab se ro ke bole Husain
-  Tumhare waste Darbar-e-Sham baqi hai
+  Ba waqt-e-aakhri Zainab se ro ke bole Husain
+  Tumhaare waaste Darbaar-e-Shaam baaqi hai
   
   9
-  Mujeeb ko bhi bulaeṅge apne rauze par
-  Isi ummid mein ab tak ghulam baqi hai
+  Mujib ko bhi bulaayeṅge apne rauze par
+  Isi ummid mein ab tak ghulaam baaqi hai
 ---
 
 علی کا ذکر محمد کا نام باقی ہے

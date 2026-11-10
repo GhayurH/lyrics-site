@@ -16,18 +16,18 @@ published: false
 # raw_sha256: 29eab36864133ef05b0ef1f205cd3323a34912614a7fa9eef56f7f86ed806ded
 romanLyrics: |-
   Ali ke nur ka sadqa dikhayi deta hai
-  Khuda ke ghar mein ujala dikhayi deta hai
+  Khuda ke ghar mein ujaala dikhayi deta hai
   
   1
-  Mizaj-e-Nahj-e-Balagha hai aayatoṅ jaisa
-  Kalam ye bhi Khuda ka dikhayi deta hai
+  Mizaaj-e-Nahj-e-Balaagha hai aayatoṅ jaisa
+  Kalaam ye bhi Khuda ka dikhayi deta hai
   
   2
-  Ali Imam-e-Man ast o Manam Ghulam-e-Ali
+  Ali Imam-e-Man ast o Manam Ghulaam-e-Ali
   Har ik Nabi yehi kehta dikhayi deta hai
   
   3
-  Kamal-e-Qudrat-e-Mabud hai mera Abbas
+  Kamaal-e-Qudrat-e-Mabud hai mera Abbas
   Ali ko bhi ye Ali sa dikhayi deta hai
   
   4
@@ -51,11 +51,11 @@ romanLyrics: |-
 ہر اک نبی یہی کہتا دکھائی دیتا ہے
 
 ۳
-کمالِ قدرتِ معبود ہے مرا عباس
+کمالِ قدرتِ معبود ہے میرا عباس
 علی کو بھی یہ علی سا دکھائی دیتا ہے
 
 ۴
-مجھے زمیں پہ کچھ بھی نظر نہیں آتا
+مجھے زمین پہ کچھ بھی نظر نہیں آتا
 فقط حسین کا سجدہ دکھائی دیتا ہے
 
 ۵
