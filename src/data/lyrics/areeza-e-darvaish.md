@@ -1,6 +1,6 @@
 ---
 title: "سوز دین کعبہء من کربوبلای"
-alternateTitle: "Areeza E Darvaish"
+alternateTitle: "Ariza-e-Darvaish"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,41 +12,41 @@ aliases: []
 published: false
 romanLyrics: |-
   Soz-e-dilam Kaaba-e-man Karbobalaai
-  Na mikhuaham jahaan hussain hussain
+  Na mikhuaham jahaan Husain Husain
   Sada bizan na mikhuaham ee jahan sada bizan
 
   1
-  Dil ke arbab mere kab mujhe izn milay
+  Dil ke arbaab mere kab mujhe izn mile
   Jald bulwa le mujhe
 
   2
-  Ay mere dard ke mehram maula
-  Door hai tujhse ye beemar tera
-  Dil ye seene mein na reh payega
-  Jald bulwa le mujhe karbobala
+  Ae mere dard ke mehram Maula
+  Dur hai tujh se ye bimaar tera
+  Dil ye sine mein na reh paaye ga
+  Jald bulwa le mujhe Karbobala
 
   3
   Allahumma-rzuqna ziyarat-al-Husain
-  Ya hussain ya hussain
-  Arbaeen ho ke wo ho ashura
-  Ek sailaab azadaro ka
-  Shukr ka karta hai tujhko sajda
+  Ya Husain ya Husain
+  Arbaiṅ ho ke ho wo Aashura
+  Ek sailaab azadaaroṅ ka
+  Shukr ka karta hai tujh ko sajda
   Un karoroṅ mein bas ek main hi nahiṅ
-  Soch kar phat'ta hai dil ye mera
+  Soch kar phatta hai dil ye mera
 
   4
-  Sunle armaan mere
-  Koi tadbeer bane
-  Tera deedaar mile
+  Sun le armaan mere
+  Koi tadbir bane
+  Tera didaar mile
 
   5
-  Khaadim-e-zaireen ke sadqe
-  Soz e shahbaaz e qalandar de de
-  Yehi nauha hi areeza hai mera
-  Ab to darvaish ko deedar milay
+  Khaadim-e-zaairin ke sadqe
+  Soz-e-Shahbaaz-e-Qalandar de de
+  Yehi nauha hi ariza hai mera
+  Ab to darvaish ko didaar mile
 
   6
-  Chahe kuch bhi na bache
+  Chaahe kuchh bhi na bache
   Karbala dil mein rahe
   Jab talak saans chale
 # source_id: nohayonline:50528795ff3eb802c66b

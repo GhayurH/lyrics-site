@@ -12,59 +12,59 @@ aliases: []
 published: false
 romanLyrics: |-
   Hua jab qatl Ahmad ka nawaasa
-  Layeeno ne har ek qaima jala diya
-  Haram ko lootne jab aaye aada
-  Ye nauha pad rahi thi binte zehra
-  Arey o shaam walon meri chadar na cheeno
-  Are o kalma goyo meri chaadar na chheeno
+  Lainoṅ ne har ek khaima jala diya
+  Haram ko lutne jab aaye aada
+  Ye nauha parh rahi thi Bint-e-Zehra
+  Are o Shaam waaloṅ meri chaadar na chhino
+  Are o kalma goyoṅ meri chaadar na chhino
 
   1
-  Shabe hashr mehboob e khuda hai
-  Musalaman jiska kalma pad raha hai
-  Mera nana mohamed mustufa hai
-  Meri chadar na cheeno
+  Shab-e-hashr mahbub-e-Khuda hai
+  Musalmaaṅ jis ka kalma parh raha hai
+  Mera naana Muhammad Mustafa hai
+  Meri chaadar na chhino
 
   2
-  Mera baba ali e murtaza hai
-  Rasoolon ka bhi wo mushkil kusha hai
-  Na ye samjho ke wo mujhse juda hai
-  Meri chadar na cheeno
+  Mera baaba Ali Murtaza hai
+  Rasuloṅ ka bhi wo mushkil kusha hai
+  Na ye samjho ke wo mujh se juda hai
+  Meri chaadar na chhino
 
   3
   Agar su-e-Najaf mur kar pukaaruṅ
-  Main ek aawaaz mein unko bula luṅ
+  Main ek aawaaz mein un ko bula luṅ
   Jo chaahuṅ khaak mein tum ko mila duṅ
-  Meri chadar na cheeno
+  Meri chaadar na chhino
 
   4
-  Mera bhai hai abbas e dilawar
-  Bhatija sahib e ghairat hai akbar
-  Na sar par aasman gir jaye phat kar
-  Meri chadar na cheeno
+  Mera bhaai hai Abbas dilaawar
+  Bhatija saahib-e-ghairat hai Akbar
+  Na sar par aasmaaṅ gir jaaye phat kar
+  Meri chaadar na chhino
 
   5
   Mere bachpan mein ye ek din hua tha
-  Achanak sar jo mera khul gaya tha
-  To suraj sharm o ghairat se chipa tha
-  Meri chadar na cheeno
+  Achaanak sar jo mera khul gaya tha
+  To suraj sharm o ghairat se chhupa tha
+  Meri chaadar na chhino
 
   6
-  Mere bhai ko maara chup rahi mai
-  Mere ghar ko ujada chup rahi mai
-  Har ek qaima jalaya chup rahi mai
-  Meri chadar na cheeno
+  Mere bhaai ko maara chup rahi main
+  Mere ghar ko ujaara chup rahi main
+  Har ek khaima jalaaya chup rahi main
+  Meri chaadar na chhino
 
   7
-  Agar mai bad'dua ko haath uthadun
-  Abhi arsh e mualla ko hiladun
-  Har ek zaalim ko mitti mein miladun
-  Meri chadar na cheeno
+  Agar main bad dua ko haath utha duṅ
+  Abhi arsh-e-mualla ko hila duṅ
+  Har ek zaalim ko mitti mein mila duṅ
+  Meri chaadar na chhino
 
   8
-  Suni faryad kab zainab ki anwar
-  Na chodi sar pe jalladon ne chadar
-  Ye kehti reh gayi sarwar ki khwahar
-  Meri chadar na cheeno
+  Suni faryaad kab Zainab ki Anwar
+  Na chhori sar pe jallaadoṅ ne chaadar
+  Ye kehti reh gayi Sarwar ki khwaahar
+  Meri chaadar na chhino
 # source_id: nohayonline:e6bad84559d2dfd6cf8a
 # source_url: https://www.nohayonline.com/details_content.php?id=1259
 # raw_sha256: 78a053cd0bdd391ffedd614ef55db96ba3a4f964c39689eb34c16f0576188540

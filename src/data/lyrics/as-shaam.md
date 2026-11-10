@@ -1,6 +1,6 @@
 ---
 title: "کسی بیمار کے ہونٹوں پہ رہا ایک ہی نام"
-alternateTitle: "As-shaam"
+alternateTitle: "As-Shaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,43 +11,43 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kisi bemaar ke honton pe raha ek hi naam
-  Haye as-shaam haye as-shaam haye as-shaam
+  Kisi bimaar ke hontoṅ pe raha ek hi naam
+  Haaye ash-Shaam haaye ash-Shaam haaye ash-Shaam
 
   1
-  Jabaja koocha o bazaar mein logon ka hujoom
-  Jaise mele ka samaa jaise kisi eid ki dhoom
-  Aur zanjeer mein jakda hua mazlom imam
+  Ja ba ja kucha o baazaar mein logoṅ ka hujum
+  Jaise mele ka samaaṅ jaise kisi Eid ki dhum
+  Aur zanjir mein jakra hua mazlum Imam
 
   2
-  Nok-e-naize pe wo Quraan sunaate hue sar
-  Apne chehron ko wo balon se chupate hue sar
-  Aur is haal mein phir umme habiba se kalaam
+  Nok-e-naiza pe wo Quraan sunaate hue sar
+  Apne chehroṅ ko wo baaloṅ se chhupaate hue sar
+  Aur is haal mein phir Umm Habiba se kalaam
 
   3
-  Saat sau kursi nasheeno se bhara wo darbar
-  Haram e shaah ke hamraah wo bebas lachaar
-  Usi laaghar ke garajte hue lehje ko salaam
+  Saat sau kursi nashinoṅ se bhara wo darbaar
+  Haram-e-Shaah ke hamraah wo bebas laachaar
+  Usi laaghar ke garajte hue lahje ko salaam
 
   4
-  Tasht mein farqe shahe deen pa wo hakim ki chadi
-  Dil e bemaar pa wo lamha qayamat ki ghadi
-  Zabt ki aakhri had paar hai imamat ka qayaam
+  Tasht mein farq-e-Shah-e-din pe wo haakim ki chhari
+  Dil-e-bimaar pe wo lamha qayaamat ki ghari
+  Zabt ki aakhri had par hai imaamat ka qayaam
 
   5
-  Sab aseeron ke liye ek andhera zindan
-  Us andhere mein tadap kar kisi bachi ka fughan
-  Kis ko neend aayegi aise mein kahan ka aaraam
+  Sab asiroṅ ke liye ek andhera zindaaṅ
+  Us andhere mein tarap kar kisi bachchi ki fughaaṅ
+  Kis ko nind aayegi aise mein kahaaṅ ka aaraam
 
   6
-  Raat ke pichle peher baap ko jo roti thi
-  Margayi shaam ke zindan mein phir wo bachi
-  Ek bhai pe guzarte rahe kya kya aalaam
+  Raat ke pichhle pahar baap ko jo roti thi
+  Mar gayi Shaam ke zindaan mein phir wo bachchi
+  Ek bhaai pe guzarte rahe kya kya aalaam
 
   7
-  Baad e ashoor jo rota raha chalees baras
-  Zehr e maloon se mara gaya aakhir bekas
-  Aakhri waqt bhi shahid yehi kehta tha imam
+  Baad Aashur jo rota raha chaalis baras
+  Zahr-e-malaun se maara gaya aakhir bekas
+  Aakhri waqt bhi shaayad yehi kehta tha Imam
 # source_id: nohayonline:e82a01687d83d2e848d0
 # source_url: https://www.nohayonline.com/details_content.php?id=590
 # raw_sha256: 0490da138681261a036e5cd00a9927b3db21c90a06ce90e1886716b96fdee1c7
