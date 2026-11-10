@@ -1,59 +1,67 @@
 ---
 title: "اے علمدارا غازی عباسا"
-alternateTitle: "Ay Alamdara Rasha"
+alternateTitle: "Ae Alamdara Rasha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Alamdara Rasha"]
 published: false
 romanLyrics: |-
-  Ay alamdara ghazi abbasa
-  Ay alamdara raasha zamarora
-  Ghazi abbasa raasha zamarora
+  Ae alamdara Ghazi Abbasa
+  Ae alamdara raasha zama ro ra
+  Ghazi Abbasa raasha zama ro ra
 
   1
-  Kaun bewaon ki chadar ko bachaye aa kar
-  Laashe sab waali o waaris ke pade hai be-sar
-  Meri awaaz pe koi nahi aata ghazi
-  Hogayi dasht e bayaban mein tanha khwahar
+  Kaun bewaoṅ ki chaadar ko bachaaye aa kar
+  Laashe sab waali o waaris ke pare haiṅ be sar
+  Meri aawaaz pe koi nahiṅ aata Ghazi
+  Ho gayi dasht-e-bayabaaṅ mein tanha khwaahar
+  Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   2
-  Zulm karte hai hamay tanha samajh kar aada
-  Berida balwe mein rote hai haram wawaila
-  Sar pe masoom sakina ke nahi dast e karam
-  Chingaye uske gohar aag se daaman bhi jala
+  Zulm karte haiṅ hameṅ tanha samajh kar aada
+  Be rida balwe mein rote haiṅ haram waawaila
+  Sar pe maasum Sakina ke nahiṅ dast-e-karam
+  Chhin gaye us ke gauhar aag se daaman bhi jala
+  Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   3
-  Ay alamdar fughan lab pe sakina laaye
-  Har taraf aag dhuan hai wo kahan par jaaye
-  Ghurkiyan ranj o alam tashnalabi daagh e padar
-  Suye darya na chali jaaye sakina haye
+  Ae alamdar fughaaṅ lab pe Sakina laaye
+  Har taraf aag dhuaaṅ hai wo kahaaṅ par jaaye
+  Ghurkiyaaṅ ranj o alam tishna labi daagh-e-padar
+  Su-e-darya na chali jaaye Sakina haaye
+  Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   4
-  Hum to aaye thay yahan tere sahare ghazi
-  Tu magar sogaya darya ke kanare ghazi
-  Bewatan tashna dahan maara gaya bhai mera
-  Chin gayi chadarein ab sar se hamare ghazi
+  Hum to aaye the yahaaṅ tere sahaare Ghazi
+  Tu magar so gaya darya ke kinaare Ghazi
+  Be watan tishna dahan maara gaya bhaai mera
+  Chhin gayi chaadareṅ ab sar se hamaare Ghazi
+  Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   5
-  Ay mere parde ke zaamin ay alamdar aaja
-  Mere ghazi ay mere monis o ghamkhwar aaja
-  Aake pardes mein bigda hai muqaddar mera
-  Teri zainab ka nahi koi madadgaar aaja
+  Ae mere parde ke zaamin ae alamdar aa ja
+  Mere Ghazi ae mere munis o ghamkhwaar aa ja
+  Aa ke pardes mein bigra hai muqaddar mera
+  Teri Zainab ka nahiṅ koi madadgaar aa ja
+  Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   6
-  Teri hamsheer hai balwe mein khule sar ghazi
-  Ab nahi koi mera monis o yawar ghazi
-  Tere jaane se bharam toot gaya zainab ka
-  Haye be-aas hui aale payambar ghazi
+  Teri hamshir hai balwe mein khule sar Ghazi
+  Ab nahiṅ koi mera munis o yaawar Ghazi
+  Tere jaane se bharam tut gaya Zainab ka
+  Haaye be aas hui Aal-e-Payambar Ghazi
+  Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   7
-  Safdar e khasta jigar mera qalam bhi bhi roye
-  Karbala roti rahi ahle haram bhi roye
-  Bain karti thi ye abbas ki khwahar ran mein
-  Sun ke faryad meri mashk o alam bhi roye
+  Safdar-e-khasta jigar mera qalam bhi roye
+  Karbala roti rahi ahl-e-haram bhi roye
+  Bain karti thi ye Abbas ki khwaahar ran mein
+  Sun ke faryaad meri mashk o alam bhi roye
+  Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 # source_id: nohayonline:cfb46338a998e19b4aa7
 # source_url: https://www.nohayonline.com/details_content.php?id=3129
 # raw_sha256: a69810815d0d70f963a3b30266db140b888d1e6906592f782576d43fd9318590
@@ -64,43 +72,50 @@ romanLyrics: |-
 غازی عباسا راشا زما رو را
 
 ۱
-کون بیوؤں کی چادر کو بچاے آ کر
+کون بیواؤں کی چادر کو بچائے آ کر
 لاشے سب والی و وارث کے پڑے ہیں بے سر
 میری آواز پہ کوئی نہیں آتا غازی
-ہو گیء دشتِ بیاباں میں تنہا خواہر
+ہو گئی دشتِ بیاباں میں تنہا خواہر
+غازی عباسا غازی عباسا راشا زما رو را
 
 ۲
 ظلم کرتے ہیں ہمیں تنہا سمجھ کر اعدا
 بے ردا بلوے میں روتے ہیں حرم واویلا
 سر پہ معصوم سکینہ کے نہیں دست کرم
-چھن گےء اس کے گوہر آگ سے دامن بھی جلا
+چھن گئے اس کے گوہر آگ سے دامن بھی جلا
+غازی عباسا غازی عباسا راشا زما رو را
 
 ۳
-اے علمدار فغاں لب پہ سکینہ لاے
-ہر طرف آگ دھواں ہے وہ کہاں پر جاے
+اے علمدار فغاں لب پہ سکینہ لائے
+ہر طرف آگ دھواں ہے وہ کہاں پر جائے
 گھرکیاں رنج و الم تشنہ لَبی داغ پدر
-سوے دریا نہ چلی جاے سکینہ ہاے
+سوئے دریا نہ چلی جائے سکینہ ہائے
+غازی عباسا غازی عباسا راشا زما رو را
 
 ۴
-ہم تو آے تھے یہاں تیرے سہارے غازی
-تو مگر سوگیا دریا کے کنارے غازی
+ہم تو آئے تھے یہاں تیرے سہارے غازی
+تو مگر سو گیا دریا کے کنارے غازی
 بے وطن تشنہ دہن مارا گیا بھائی میرا
 چھن گئی چادریں اب سر سے ہمارے غازی
+غازی عباسا غازی عباسا راشا زما رو را
 
 ۵
 اے میرے پردے کے ضامن اے علمدار آجا
 میرے غازی اے میرے مونس و غم خوار آجا
 آ کے پردیس میں بگڑا ہے مقدر میرا
 تیری زینب کا نہیں کوئی مددگار آجا
+غازی عباسا غازی عباسا راشا زما رو را
 
 ۶
 تیری ہمشیر ہے بلوے میں کھلے سر غازی
 اب نہیں کوئی میرا مونس و یاور غازی
 تیرے جانے سے بھرم ٹوٹ گیا زینب کا
-ہاے بے آس ہوی آل پیمبر غازی
+ہائے بے آس ہوئی آل پیمبر غازی
+غازی عباسا غازی عباسا راشا زما رو را
 
 ۷
-صفدر خستہ جگر میرا قلم بھی روے
-کربلا روتی رہی أہل حرم بھی روے
+صفدر خستہ جگر میرا قلم بھی روئے
+کربلا روتی رہی اہل حرم بھی روئے
 بین کرتی تھی یہ عباس کی خواہر رن میں
-سن کے فریاد میری مشک و علم بھی روے
+سن کے فریاد میری مشک و علم بھی روئے
+غازی عباسا غازی عباسا راشا زما رو را

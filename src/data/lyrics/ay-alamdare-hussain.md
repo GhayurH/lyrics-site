@@ -1,55 +1,63 @@
 ---
 title: "اے یداللہ کے بے دست پسر اے عباس"
-alternateTitle: "Ay Alamdare Hussain"
+alternateTitle: "Ae Alamdar-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Ali Murtaza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Alamdare Hussain"]
 published: false
 romanLyrics: |-
-  Ay yadullah ke bedast pisar ay abbas
-  Ay alamdare hussain
-  
+  Ae Yadullah ke be dast pisar ae Abbas
+  Ae alamdar-e-Husain
+
   1
-  Dhoondti hai tujhe har ek nazar ay abbas
-  
+  Dhundti hai tujhe har ik nazar ae Abbas
+  Ae alamdar-e-Husain
+
   2
-  Tu numa'inda ali ka hai sare karbobala
+  Tu numaainda Ali ka hai sar-e-Karb o Bala
   Aur alam haq tera
-  Tu madine se hai itrat ki sipar ay abbas
-  
+  Tu Madine se hai itrat ki sipar ae Abbas
+  Ae alamdar-e-Husain
+
   3
   Jang karne ki ijazat na mili sarwar se
-  Jaante thay anjaam
-  Ye mashiyat hi rahi peshe nazar ay abbas
-  
+  Jaante the anjaam
+  Ye mashiyat hi rahi pesh-e-nazar ae Abbas
+  Ae alamdar-e-Husain
+
   4
-  Hukm par shaah ke mashkeeza o naiza lekar
+  Hukm par shaah ke mashkiza o neza le kar
   Rukh kiya darya ka
-  Tune samjhaya ata'at ka hunar ay abbas
-  
+  Tu ne samjhaaya itaaat ka hunar ae Abbas
+  Ae alamdar-e-Husain
+
   5
-  Laash qaime may na lejaye khudara hargiz
-  Sab se hoo sharminda
-  Sheh se kehta tha tera deedae tar ay abbas
-  
+  Laash khaime mein na le jaaye khudaara hargiz
+  Sab se huṅ sharminda
+  Shah se kehta tha tera dida-e-tar ae Abbas
+  Ae alamdar-e-Husain
+
   6
-  Ek maa roz dua karti hai bete ka amaan
-  Sheh e deen bach jaye
-  To usi maa ka hai ek laqte jigar ay abbas
-  
+  Ik maaṅ roz dua karti hai bete ki amaan
+  Shah-e-diṅ bach jaaye
+  Tu usi maaṅ ka hai lakht-e-jigar ae Abbas
+  Ae alamdar-e-Husain
+
   7
-  Tera sar bandh ke rumaal may jo rakha hai
-  Kya sabab iska hai
-  Kyun sina par nahi aaya tera sar ay abbas
-  
+  Tera sar baandh ke rumaal mein jo rakha hai
+  Kya sabab is ka hai
+  Kiuṅ sinaaṅ par nahiṅ aaya tera sar ae Abbas
+
   8
-  Waqt shahid hai ke az karbobala ka ye sira
-  Kya masaib guzre
-  Tay hua kaise ye zainab ka safar ay abbas
+  Waqt shaahid hai ke az Karb o Bala ka ye sira
+  Kya masaaib guzre
+  Tai hua kaise ye Zainab ka safar ae Abbas
+  Ae alamdar-e-Husain
 # source_id: nohayonline:2e95a7f77b2991580072
 # source_url: https://www.nohayonline.com/details_content.php?id=166
 # raw_sha256: 3337ee9e5bfa18a8b6840f1a65302dc6db63edf38635895996599e93dc7727ac
@@ -60,31 +68,37 @@ romanLyrics: |-
 
 ۱
 ڈھونڈتی ہے تجھے ہر اک نظر اے عباس
+اے علمدار حسین
 
 ۲
 تو نمائندہ علی کا ہے سر کرب و بلا
 اور علم حق تیرا
 تو مدینے سے ہے عطرت کی سپر اے عباس
+اے علمدار حسین
 
 ۳
 جنگ کرنے کی اجازت نہ ملی سرور سے
 جانتے تھے انجام
 یہ مشیت ہی رہی پیش نظر اے عباس
+اے علمدار حسین
 
 ۴
 حکم پر شاہ کے مشکیزہ و نیزہ لے کر
 رخ کیا دریا کا
 تو نے سمجھایا اطاعت کا ہنر اے عباس
+اے علمدار حسین
 
 ۵
 لاش خیمے میں نہ لے جائے خدارا ہر گز
 سب سے ہوں شرمندہ
 شہہ سے کہتا تھا تیرا دیدہ تر اے عباس
+اے علمدار حسین
 
 ۶
 اک ماں روز دعا کرتی ہے بیٹے کی امان
 شاہ دیں بچ جائے
 تو اسی ماں کا ہے لخت جگر اے عباس
+اے علمدار حسین
 
 ۷
 تیرا سر باندھ کے رومال میں جو رکھا ہے
@@ -95,3 +109,4 @@ romanLyrics: |-
 وقت شاہد ہے کہ از کرب و بلا کا یہ سرا
 کیا مصائب گذرے
 طے ہوا کیسے یہ زینب کا سفر اے عباس
+اے علمدار حسین
