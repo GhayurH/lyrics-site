@@ -1,48 +1,49 @@
 ---
 title: "اے معرکہء قوت اسلام کے جوہر"
-alternateTitle: "Ay Maarkae Quwwate"
+alternateTitle: "Ae Maarka-e-Quwwat-e-Islam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
+reciter: "Nasir Jahan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Maarkae Quwwate"]
 published: false
 romanLyrics: |-
-  Ay maarka e quwwate islam ke jauhar
-  Cheh maah ki muddat mein qayamat ke barabar
-  Nanhe se mujahid ali asghar ali asghar
-  Maqsad tha wiladat ka faqat kaar e shahadat
+  Ae maarka-e-quwwat-e-Islam ke jauhar
+  Chhe maah ki muddat mein qayaamat ke baraabar
+  Nanhe se mujaahid Ali Asghar Ali Asghar
 
   1
-  Ye baat hui aur kisi ko na meinassar
-  Yakta hai teri khoon mein doobi hui tasveer
-  Tareekh dikhati nahi aisa koi manzar
+  Maqsad tha wilaadat ka faqat kaar-e-shahaadat
+  Ye baat hui aur kisi ko na mayassar
+  Yakta hai teri khun mein dubi hui taswir
+  Taarikh dikhaati nahiṅ aisa koi manzar
 
   2
-  Baba ke sab andaaz hai dada ke tareekhe
-  Neend aa gayi reti pe na takiya hai na bistar
-  Uljhe hua baalon pa fida shaam e shab e gham
-  Doobi hui nafson pa sitaron ki nichawar
+  Baba ke sab andaaz haiṅ dada ke tariqe
+  Nind aa gayi reti pe na takiya hai na bistar
+  Uljhe hua baaloṅ pa fida shaam-e-shab-e-gham
+  Dubi hui nafsoṅ pa sitaaroṅ ki nichhaawar
 
   3
-  Dhalki hui gardan pe yadullah ke bosay
-  Sookhe hue honton pe tasadduq lab e kausar
-  Chitwan mein chipaye hue akbar ki jawani
-  Mutthi mein dabaye hue sajjad ke jauhar
+  Dhalki hui gardan pe Yadullah ke bose
+  Sukhe hue hontoṅ pe tasadduq lab-e-Kausar
+  Chitwan mein chhipaaye hue Akbar ki jawaani
+  Mutthi mein dabaaye hue Sajjad ke jauhar
 
   4
-  Aankhon mein chalakta hua masoom tabassum
-  Gardan se tapakta hua khoon e dil e maadar
-  Tareekh mein hai sab tere bachpan ka saleeka
-  Tu maut ki aagosh mein aaya tha humak kar
+  Aankhoṅ mein chhalakta hua maasum tabassum
+  Gardan se tapakta hua khun-e-dil-e-maadar
+  Taarikh mein hai sab tere bachpan ka saliqa
+  Tu maut ki aaghosh mein aaya tha humak kar
 
   5
-  Jis waqt hui mohar tere zakhm e gulu ki
-  Poora hua shabbir ke eesaar ka daftar
-  Aaram se so ay shab e ashoor ke jaage
-  Lori tujhe deta hai tere najm e sukhanwar
+  Jis waqt hui mohr tere zakhm-e-gulu ki
+  Pura hua Shabbir ke isaar ka daftar
+  Aaraam se so ae shab-e-Aashur ke jaage
+  Lori tujhe deta hai tere Najm-e-sukhanwar
 # source_id: nohayonline:16e03c19e5ccaabe2b8f
 # source_url: https://www.nohayonline.com/details_content.php?id=1151
 # raw_sha256: a0cc6da92d87df4d591de8d11f0a951fc5014c192576212061d9545fa5336586
@@ -50,9 +51,9 @@ romanLyrics: |-
 اے معرکہء قوت اسلام کے جوہر
 چھ ماہ کی مدت میں قیامت کے برابر
 ننھے سے مجاہد علی اصغر علی اصغر
-مقصد تھا ولادت کا فقط کار شہادت
 
 ۱
+مقصد تھا ولادت کا فقط کار شہادت
 یہ بات ہوی اور کسی کو نہ میسر
 یکتا ہے تیری خون میں ڈوبی ہوی تصویر
 تاریخ دکھاتی نہیں ایسا کوئی منظر
