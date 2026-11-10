@@ -6,65 +6,67 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Naqvi"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Har ek jaanib udasi hai, aza ki rooh pyasi hai
-  Fazaon mein lahoo ki phir wohi manoos khushboo hai
-  Bapa hai dhadkano mein tashnagane karbala ki pyas ka matam
-  Na jaane phir kisay ye ruth meinassar ho
-  So ashkon ke areezo se alam ki chaon mein aakar
-  Wafa ke ahed ki tajdeed karlije
-  Ke ye mausam wafadari ka mausam hai
-  Azadari ka mausam hai
-  Sare farshe aza aao azadari ka mausam hai
-  Lahoo aankhon se barsao azadari ka mausam hai
+  Har ek jaanib udaasi hai, aza ki ruh pyaasi hai
+  Fazaaoṅ mein lahu ki phir wohi maanus khushbu hai
+  Bapa hai dharkanoṅ mein tashnagaan-e-Karbala ki pyaas ka maatam
+  Na jaane phir kise ye rut mayassar ho
+  So ashkoṅ ke arizoṅ se alam ki chhaaoṅ mein aa kar
+  Wafa ke ahd ki tajdid kar lije
+  Ke ye mausam wafaadaari ka mausam hai
+  Azadaari ka mausam hai
+
+  Sar-e-farsh-e-aza aao azadaari ka mausam hai
+  Lahu aankhoṅ se barsaao azadaari ka mausam hai
 
   1
-  Utho ishqe ali walon tumhe manzil bulaati hai
-  Suno karbobala walon sada hal min ki aati hai
-  Sare maqtal chale aao azadari ka mausam hai
+  Utho ishq-e-Ali waaloṅ tumheṅ manzil bulaati hai
+  Suno Karbobala waaloṅ sada hal min ki aati hai
+  Sar-e-maqtal chale aao azadaari ka mausam hai
 
   2
-  Hateli pe dhara hai sar badan tayyar rakha hai
-  Yahan har farde millat ne kafan tayyar rakha hai
-  Adoo ko jaake batlao azadari ka mausam hai
+  Hatheli pe dhara hai sar badan tayyaar rakha hai
+  Yahaaṅ har fard-e-millat ne kafan tayyaar rakha hai
+  Adu ko jaa ke batlaao azadaari ka mausam hai
 
   3
   Bayaad e zakhm mein mashkeeza abhi rota hai ye pani
-  Abhi maujon ke seene mein chupi hai ek tughyani
-  Ay dunya bhar ke darya''on azadari ka mausam hai
+  Abhi maujoṅ ke sine mein chhupi hai ek tughyaani
+  Ae dunya bhar ke daryaaoṅ azadaari ka mausam hai
 
   4
-  Kathin halaat hai aise ke ab jeena musibat hai
-  Ghutan aisi hai ay humdam ke dum lena ghaneemat hai
-  Alam ghazi ka lehrao azadari ka mausam hai
+  Kathin haalaat hai aise ke ab jina musibat hai
+  Ghutan aisi hai ae hamdam ke dam lena ghanimat hai
+  Alam Ghaazi ka lehraao azadaari ka mausam hai
 
   5
-  Binaye aale ahmed par khuda tumko jazayein de
-  Nikharo aise auladein ke zehra bhi duayein de
-  Hussaini khaum ki maa''on azadari ka mausam hai
+  Binaa-e-Aal-e-Ahmad par Khuda tum ko jazaayeṅ de
+  Nikhaaro aise aulaadeṅ ke Zehra bhi duaaeṅ de
+  Husaini qaum ki maaoṅ azadaari ka mausam hai
 
   6
-  Kaha shabbir ne maa ki tarha darbar jaogi
-  Na dogi bad''dua tum jab sare bazaar jaogi
-  Qasam zainab meri khao azadari ka mausam hai
+  Kaha Shabbir ne maaṅ ki tarah darbaar jaaogi
+  Na dogi baddua tum jab sar-e-baazaar jaaogi
+  Qasam Zainab meri khaao azadaari ka mausam hai
 
   7
-  Uthake nanhe haathon ko duayein deke jaati hai
-  Sakina karbala walon ka pursa lene aati hai
-  Azakhano ko mehkao azadari ka mausam hai
+  Uthaa ke nanhe haathoṅ ko duaaeṅ de ke jaati haiṅ
+  Sakina Karbala waaloṅ ka pursa lene aati haiṅ
+  Aza khaanoṅ ko mehkaao azadaari ka mausam hai
 
   8
-  Yehi shaam e ghariban hai jale qaime hai ghurbat hai
-  Gareban chaak kar daalo ke zainab par musibat hai
-  Hawaon baal bikhrao azadari ka mausam hai
+  Yehi shaam-e-gharibaaṅ hai jale khaime haiṅ ghurbat hai
+  Garebaaṅ chaak kar daalo ke Zainab par musibat hai
+  Hawaaoṅ baal bikhraao azadaari ka mausam hai
 
   9
-  Kabhi rizwan hum hote hai jo halaat se muztar
-  Hawa e parcham e abbas kehti hai suno mazhar
-  Mere saaye mein aajao azadari ka mausam hai
+  Kabhi Rizwan hum hote haiṅ jo haalaat se muztar
+  Hawa-e-parcham-e-Abbas kehti hai suno Mazhar
+  Mere saaye mein aa jaao azadaari ka mausam hai
 # source_id: nohayonline:557c83209198896baf17
 # source_url: https://www.nohayonline.com/details_content.php?id=855
 # raw_sha256: 946ab81a4ab64848adec46a674dff6e22834e889d11e4110fb703ae0d0749e21
@@ -81,6 +83,7 @@ romanLyrics: |-
 وفا کے عہد کی تجدید کر لیجئے
 کہ یہ موسم وفاداری کا موسم ہے
 عزاداری کا موسم ہے
+
 سر فرش عزا آؤ عزاداری کا موسم ہے
 لہو آنکھوں سے برساؤ عزاداری کا موسم ہے
 
@@ -95,7 +98,7 @@ romanLyrics: |-
 عدو کو جاکے بتلاؤ عزاداری کا موسم ہے
 
 ۳
-بہ یاد زخم میںمشکیزہ بھی روتا ہے یہ پانی
+بہ یاد زخم میں مشکیزہ بھی روتا ہے یہ پانی
 ابھی موجوں کے سینے میں چھپی ہے ایک طغیانی
 اے دنیا بھر کے دریاؤں عزاداری کا موسم ہے
 
@@ -105,7 +108,7 @@ romanLyrics: |-
 علم غازی کا لہراؤ عزاداری کا موسم ہے
 
 ۵
-بناے آل احمد پر خدا تم کو جزایں دے
+بنائے آل احمد پر خدا تم کو جزائیں دے
 نکھارو ایسے اولادیں کہ زہرا بھی دعائیں دے
 حسینی قوم کی ماؤں عزاداری کا موسم ہے
 
@@ -117,7 +120,7 @@ romanLyrics: |-
 ۷
 اٹھاکے ننھے ہاتھوں کو دعائیں دیکے جاتی ہیں
 سکینہ کربلا والوں کا پرسہ لینے آتی ہیں
-عزا خانوں کو مہکاوء عزاداری کا موسم ہے
+عزا خانوں کو مہکاؤ عزاداری کا موسم ہے
 
 ۸
 یہی شام غریباں ہے جلے خیمے ہیں غربت ہے
@@ -126,5 +129,5 @@ romanLyrics: |-
 
 ۹
 کبھی رضوان ہم ہوتے ہیں جو حالات سے مضطر
-ہواے پرچم عباس کہتی ہے سنو مظہر
-میرے ساے میں آجاؤ عزاداری کا موسم ہے
+ہوائے پرچم عباس کہتی ہے سنو مظہر
+میرے سائے میں آجاؤ عزاداری کا موسم ہے
