@@ -1,72 +1,75 @@
 ---
 title: "یہ رو کے کہتی تھی ام رباب مقتل میں"
-alternateTitle: "Ay Mere Chand"
+alternateTitle: "Ae Mere Chand"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mere Chand"]
 published: false
 romanLyrics: |-
-  Ye ro ke kehti thi umme rabab maqtal mein
-  Kahan pe sote ho maa ke baghair jangal mein
-  Ay mere chand meri aankh ke taare asghar
-  Karbala aayi thi mai tere bharose asghar
+  Ye ro ke kehti thi Umm-e-Rabab maqtal mein
+  Kahaṅ pe sote ho maaṅ ke baghair jangal mein
+
+  Ae mere chaand meri aaṅkh ke taare Asghar
+  Karbala aayi thi main tere bharose Asghar
 
   1
-  Haye afsos ke maujood nahi hai pani
+  Haye afsos ke maujud nahiṅ hai paani
   Kaisi ghurbat hai meri
-  Maa bhala teri nazar kaise utaare asghar
+  Maaṅ bhala teri nazar kaise utaare Asghar
 
   2
-  Haath shabbir ki gardan pe rakhe thay jaise
-  Teer bhi chalte huwe
-  Fatema aa ke khadi thi tere aage asghar
+  Haath Shabbir ki gardan pe rakhe the jaise
+  Tir bhi chalte hue
+  Fatema aa ke khari thi tere aage Asghar
 
   3
-  Tum bhi abbas ho kausar pe nahi jaana abhi
+  Tum bhi Abbas ho Kausar pe nahiṅ jaana abhi
   Laaj rakh lena meri
-  Hai abhi ahle haram dasht mein pyase asghar
+  Hai abhi Ahl-e-haram dasht mein pyase Asghar
 
   4
-  Teer ek baar to ek baar chalaye khanjar
-  Mere mazloom pisar
-  Zibha do baar hua koi na aise asghar
+  Tir ek baar to ek baar chalaye khanjar
+  Mere mazlum pisar
+  Zibh do baar hua koi na aise Asghar
 
   5
-  Tum ne has has ke rulaya tha jinhe mere pisar
+  Tum ne haṅs haṅs ke rulaya tha jinheiṅ mere pisar
   Haye pathar le kar
-  Ab sakina se wohi lete hai badle asghar
+  Ab Sakina se wohi lete hai badle Asghar
 
   6
-  Shamiyon ki na nazar unke khule sar pe pade
-  Apni behno ke liye
-  Tum bhi quran padho noke sina se asghar
+  Shamiyoṅ ki na nazar un ke khule sar pe pare
+  Apni behnoṅ ke liye
+  Tum bhi Quraṅ parho nok-e-sinaṅ se Asghar
 
   7
-  Teer khaate huwe khud dekha hai maine tumko
+  Tir khaate hue khud dekha hai main ne tum ko
   Ab to ye zulm na ho
-  Koi pathar na lage sar pe tumhare asghar
+  Koi pathar na lage sar pe tumhare Asghar
 
   8
-  Pushte qaima pe banate thay lahad teri padar
+  Pusht-e-khaima pe banate the lahad teri padar
   Jhuk gayi meri kamar
-  Chand lamho ko teri laash utha ke asghar
+  Chand lamhoṅ ko teri laash utha ke Asghar
 
   9
-  Laash uthaani hai mujhe baali sakina ki abhi
-  Maa takallum boli
-  Keh de zaalim se mere haath na baandhe asghar
+  Laash uthaani hai mujhe baali Sakina ki abhi
+  Maaṅ Takallum boli
+  Keh de zaalim se mere haath na baandhe Asghar
 # source_id: nohayonline:1f9f4f801c6f0707080b
 # source_url: https://www.nohayonline.com/details_content.php?id=2707
 # raw_sha256: 144cdff67e40755acfdc250298c3c05359793233da13fed1826fc429f58fa54a
 ---
 یہ رو کے کہتی تھی ام رباب مقتل میں
 کہاں پہ سوتے ہو ماں کے بغیر جنگل میں
+
 اے میرے چاند میری آنکھ کے تارے اصغر
-کربلا آی تھی میں تیرے بھروسے اصغر
+کربلا آئی تھی میں تیرے بھروسے اصغر
 
 ۱
 ہاے افسوس کے موجود نہیں ہے پانی
@@ -75,7 +78,7 @@ romanLyrics: |-
 
 ۲
 ہاتھ شبیر کی گردن پہ رکھے تھے جیسے
-تیر بھی چلتے ہوے
+تیر بھی چلتے ہوئے
 فاطمہ آ کے کھڑی تھی تیرے آگے اصغر
 
 ۳
@@ -89,23 +92,23 @@ romanLyrics: |-
 ذبح دو بار ہوا کوئی نہ ایسے اصغر
 
 ۵
-تم‌ نے ہنس ہنس کے رلاے تھا جنہیں میرے پسر
+تم نے ہنس ہنس کے رلاے تھا جنہیں میرے پسر
 ہاے پتھر لے کر
 اب سکینہ سے وہی لیتے ہے بدلے اصغر
 
 ۶
 شامیوں کی نہ نظر ان کے کھلے سر پہ پڑے
-اپنی بہنوں کے لیےء
+اپنی بہنوں کے لیے
 تم بھی قرآں پڑھو نوکِ سناں سے اصغر
 
 ۷
-تیر کھاتے ہوے خود دیکھا ہے میں نے تم کو
+تیر کھاتے ہوئے خود دیکھا ہے میں نے تم کو
 اب تو یہ ظلم نہ ہو
 کوئی پتھر نہ لگے سر پہ تمہارے اصغر
 
 ۸
 پشت خیمہ پہ بناتے تھے لحد تیری پدر
-جھک گیء میری کمر
+جھک گئی میری کمر
 چند لمحوں کو تیری لاش اٹھا کے اصغر
 
 ۹

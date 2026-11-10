@@ -1,89 +1,96 @@
 ---
 title: "سنو سنو شب عاشور کا یہ منظر ہے"
-alternateTitle: "Ay Mere Bhai Hussain"
+alternateTitle: "Ae Mere Bhai Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mere Bhai Hussain"]
 published: false
 romanLyrics: |-
-  Suno suno shabe ashoor ka ye manzar hai
-  Sirhane bhai ke baithi ali ki dukhtar hai
+  Suno suno Shab-e-Ashur ka ye manzar hai
+  Sirhane bhai ke baithi Ali ki dukhtar hai
 
   1
-  Wo keh rahi hai mera sabr azmaoge
+  Wo keh rahi hai mera sabr aazmaoge
+  Ae mere bhai Husain
   Qadam qadam pe mujhe bhai yaad aaoge
+  Ae mere bhai Husain ae mere bhai Husain
   Sehar ko nana ka waada jo tum nibhaoge
+  Ae mere bhai Husain ae mere bhai Husain
 
   2
-  Meri nigaah mein bachpan ki saari yaadein hai
-  Kahi thi nana ne jo yaad wo bhi baatein hai
-  Sahar se pehle charaghon ko tum bujhaoge
+  Meri nigaah mein bachpan ki saari yaadeiṅ hai
+  Kahi thi nana ne jo yaad wo bhi baateiṅ hai
+  Sahar se pehle charaghoṅ ko tum bujhaoge
 
   3
   Nabi sawari tumhari sawaar tum bhai
-  Thay amma zahra ke dil ka qaraar tum bhai
-  Aur aaj khoon mein apne hi tum nahaoge
+  The ammaṅ Zahra ke dil ka qaraar tum bhai
+  Aur aaj khun mein apne hi tum nahaoge
 
   4
-  Tumhare chehre ka ye itmenan jaanti hoon
-  Tumhara hona hai jo imtehan jaanti hoon
-  Behan se dard e jigar ko chupa na paaoge
+  Tumhare chehre ka ye itmenan jaanti huṅ
+  Tumhara hona hai jo imtehan jaanti huṅ
+  Behan se dard-e-jigar ko chhupa na paaoge
 
   5
-  Gulu e asghar e baysheer seena e akbar
-  Sata raha hai tumhe sabr kar rahe ho magar
-  Rida ki baat pe nazrein mila na paaoge
+  Gulu-e-Asghar-e-beshir sina-e-Akbar
+  Sata raha hai tumheiṅ sabr kar rahe ho magar
+  Rida ki baat pe nazreiṅ mila na paaoge
 
   6
-  Abhi to bali sakina ka zikr baaqi hai
-  Abhi to shaam e ghariban ki fikr baqi hai
-  Rakhoge yaad kise kisko bhool jaoge
+  Abhi to baali Sakina ka zikr baaqi hai
+  Abhi to Shaam-e-gharibaṅ ki fikr baaqi hai
+  Rakhoge yaad kise kis ko bhul jaoge
 
   7
   Na gham karo mere bhai tumhare baad bahan
-  Rida na odhegi jab tak tumhe mile na kafan
+  Rida na orhegi jab tak tumheiṅ mile na kafan
   Ye dukh hai saath hamare watan na jaoge
 
   8
-  Kaha hussain ne sun kar kalaam zainab ka
+  Kaha Husain ne sun kar kalaam Zainab ka
   Hamari jaan ke badle bache tera parda
   Ye kya kaha ke mera sabr aazmaoge
 
   9
-  Tere baghair mukammal nahi payaam mera
-  Tere baghair adhoora hai ab to naam mera
-  Kaho mai aaungi majlis mein jab bulaoge
+  Tere baghair mukammal nahiṅ payaam mera
+  Tere baghair adhura hai ab to naam mera
+  Kaho main aauṅgi majlis mein jab bulaoge
 
   10
-  Ye guftugu thi ke goonji azaan akbar ki
-  Rehaan hoti thi yalghaar sheh pe lashkar ki
-  Ali ki beti pukari hamay rulaoge
+  Ye guftugu thi ke gunji azaan Akbar ki
+  Rehaan hoti thi yalghaar Sheh pe lashkar ki
+  Ali ki beti pukari hameiṅ rulaoge
 # source_id: nohayonline:ea8d529328dcdd00ebac
 # source_url: https://www.nohayonline.com/details_content.php?id=3572
 # raw_sha256: 5ade48c91b3046f73db48a75eb43d4fa83c4862d00205777752810c46038a19f
 ---
 
 سنو سنو شب عاشور کا یہ منظر ہے
-سرہانے بھای کے بیٹھی علی کی دختر ہے
+سرہانے بھائی کے بیٹھی علی کی دختر ہے
 
 ۱
 وہ کہہ رہی ہے میرا صبر آزماؤ گے
-قدم قدم پہ مجھے بھای یاد آؤ گے
+اے میرے بھائی حسین
+قدم قدم پہ مجھے بھائی یاد آؤ گے
+اے میرے بھائی حسین اے میرے بھائی حسین
 سحر کو نانا کا وعدہ جو تم نبھاؤ گے
+اے میرے بھائی حسین اے میرے بھائی حسین
 
 ۲
 میری نگاہ میں بچپن کی ساری یادیں ہے
 کہی تھی نانا نے جو یاد وہ بھی باتیں ہے
-سحر سے پہلے چراغوں کو تم بجھاو گے
+سحر سے پہلے چراغوں کو تم بجھاؤ گے
 
 ۳
-نبی سواری تمہاری سوار تم بھای
-تھے اماں زہرا کے دل کا قرار تم بھای
-اور آج خون‌ میں اپنے ہی تم نہاو‌ گے
+نبی سواری تمہاری سوار تم بھائی
+تھے اماں زہرا کے دل کا قرار تم بھائی
+اور آج خون میں اپنے ہی تم نہاؤ گے
 
 ۴
 تمہارے چہرے کا یہ امتنان جانتی ہوں
@@ -111,7 +118,7 @@ romanLyrics: |-
 یہ کیا کہا کہ میرے صبر آزماؤ گے
 
 ۹
-تیرے بغیر مکلمل نہیں پیام میرا
+تیرے بغیر مکمل نہیں پیام میرا
 تیرے بغیر ادھورا ہے اب تو نام میرا
 کہو میں آؤں گی مجلس میں جب بلاؤ گے
 
