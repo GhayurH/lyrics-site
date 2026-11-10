@@ -33,11 +33,11 @@ romanLyrics: |-
   4
   Naubat ka mere dil se asar ja nahiṅ sakta
   Mujh par to bura waqt kabhi aa nahiṅ sakta
-  Saṅsoṅ ki ghari Sehn-e-Shifa se hai mila li
+  Saansoṅ ki ghari Sehn-e-Shifa se hai mila li
 
   5
   Har gyarhwiṅ Ziqad ko hota hai ye Maula
-  Masuma se hum maṅgte haiṅ aap ka sadqa
+  Masuma se hum maangte haiṅ aap ka sadqa
   Eidi hameṅ phir deti haiṅ Masuma nirali
 
   6
@@ -51,12 +51,12 @@ romanLyrics: |-
   Is waqt mere haathoṅ mein hai roze ki jaali
 
   8
-  Ae paṅchweṅ Shabbir tu beshir ke sadqe
+  Ae paanchweṅ Shabbir tu beshir ke sadqe
   Aaghosh mein maaoṅ ki azadar pisar de
   Jo jholiyaṅ haiṅ aaj tak aulad se khali
 
   9
-  Arbab-e-Khurasan ki kafalat mein rahegi
+  Arbab-e-Khurasaaṅ ki kafalat mein rahegi
   Aahu ki tarah teri zamanat mein rahegi
   Main ne jo tere rizq pe aulad hai pali
 

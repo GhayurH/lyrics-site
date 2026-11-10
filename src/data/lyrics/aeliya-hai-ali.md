@@ -24,12 +24,12 @@ romanLyrics: |-
 
   3
   Ali rah-e-mushkil Ali Haq ki manzil
-  Ali din-e-kamil Ali sham-e-mehfil
+  Ali din-e-kamil Ali shama-e-mehfil
   Khuda ki ata hai Khuda ki ata hai
 
   4
   Wo husn-e-Payambar wo mehw-e-munawwar
-  Shujaat ka paikar wo Fattah-e-Khaibar
+  Shujaat ka paikar wo Fateh-e-Khaibar
   Shah-e-la-fata hai Shah-e-la-fata hai
 
   5
@@ -55,7 +55,7 @@ romanLyrics: |-
 
 ۲
 وہ حق کی طرف ہے نمازوں کی صف ہے
-وہ شاہ نجف ہے وہ دیں کا شرف ہے
+وہ شاہ نجف ہے وہ دین کا شرف ہے
 وہ حاجت روا ہے وہ حاجت روا ہے
 
 ۳
