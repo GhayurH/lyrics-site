@@ -1,53 +1,54 @@
 ---
 title: "اے مشک و علم حضرت عباس کہاں ہیں"
-alternateTitle: "Ay Mashko Alam"
+alternateTitle: "Ae Mashk o Alam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Anj. Hyderi Ali Basti"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Mashko Alam"]
 published: false
 romanLyrics: |-
-  Ay mashk o alam hazrate abbas kahan hai
-  Saqqa e haram hazrate abbas kahan hai
+  Ae mashk o alam Hazrat-e-Abbas kahaaṅ haiṅ
+  Saqqa-e-haram Hazrat-e-Abbas kahaaṅ haiṅ
 
   1
-  Sab ahle haram dekh rahe hai shah e deen ko
-  Har aankh hai nam hazrate abbas kahan hai
+  Sab ahl-e-haram dekh rahe haiṅ Shah-e-din ko
+  Har aankh hai nam Hazrat-e-Abbas kahaaṅ haiṅ
 
   2
-  Yun pyaas ki shiddat se bilakti hai sakina
-  Ruk jaaye na dam hazrate abbas kahan hai
+  Yuṅ pyaas ki shiddat se bilakti hai Sakina
+  Ruk jaaye na dam Hazrat-e-Abbas kahaaṅ haiṅ
 
   3
-  Shabbir jawan laashe pisar kaise uthaye
-  Gehra hai ye gham hazrate abbas kahan hai
+  Shabbir jawaan laash-e-pisar kaise uthaaye
+  Gehra hai ye gham Hazrat-e-Abbas kahaaṅ haiṅ
 
   4
-  Dilband e ali fatema zehra ke dulaare
-  Behno ka bharam hazrate abbas kahan hai
+  Dilband-e-Ali Fatema Zehra ke dulaare
+  Behnoṅ ka bharam Hazrat-e-Abbas kahaaṅ haiṅ
 
   5
-  Shabbir se ye ghurbat-e-shabbir ne poocha
-  Ay shaah e umam hazrate abbas kahan hai
+  Shabbir se ye ghurbat-e-Shabbir ne puchha
+  Ae Shah-e-umam Hazrat-e-Abbas kahaaṅ haiṅ
 
   6
-  Halq e shahe mazloom hai aur shimr ka khanjar
-  Ab waqt hai kam hazrate abbas kahan hai
+  Halq-e-Shah-e-mazlum hai aur Shimr ka khanjar
+  Ab waqt hai kam Hazrat-e-Abbas kahaaṅ haiṅ
 
   7
-  Kuch deyr mein hojayegi ab shaam e ghariban
-  Ay dasht e sitam hazrate abbas kahan hai
+  Kuch der mein ho jaayegi ab shaam-e-gharibaaṅ
+  Ae dasht-e-sitam Hazrat-e-Abbas kahaaṅ haiṅ
 
   8
-  Kano se gowhar khainchne qaimon ko jalane
-  Badhte hai khadam hazrate abbas kahan hai
+  Kaanoṅ se gauhar khainchne khaimoṅ ko jalaane
+  Barhte haiṅ qadam Hazrat-e-Abbas kahaaṅ haiṅ
 
   9
-  Ek lashkare ashraar muqaabil pe hai shahid
-  Narghe mein hai hum hazrate abbas kahan hai
+  Ek lashkar-e-ashraar muqaabil pe hai Shahid
+  Narghe mein haiṅ hum Hazrat-e-Abbas kahaaṅ haiṅ
 # source_id: nohayonline:45a4a4436a652a54499e
 # source_url: https://www.nohayonline.com/details_content.php?id=571
 # raw_sha256: d71d214227b36259c8b2725ab1ce4df8be158de9c0f1dcca13dbeb5a6deb543a

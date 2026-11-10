@@ -1,75 +1,76 @@
 ---
 title: ہچکیاں لیتے تھے علی اکبر
-alternateTitle: Ay Maut Teher Ja
+alternateTitle: Ae Maut Thehar Ja
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Maut Teher Ja"]
 published: false
 romanLyrics: |-
-  Hichkiyan layta hay Ali Akbar
-  Umme Laila ye bain karti thi
-  Poshaak urha loon kay may armaan nikaloon
-  Ay mout tehar jaa, ay mout tehar jaa
-  May apnay jawan laal ko dulha to bana loon
+  Hichkiyaaṅ lete the Ali Akbar
+  Umm-e-Laila ye bain karti thi
+  Poshaak urha luṅ ke main armaan nikaaluṅ
+  Ae maut thehar ja, ae maut thehar ja
+  Main apne jawaan laal ko dulha to bana luṅ
 
   1
-  Is laal ko may kaisay karoon teray hawalay
-  Yeh chand to daita hay zamanay ko ujalay
-  Is chand ki poshaak sitaron say saajaloon.
+  Is laal ko main kaise karuṅ tere hawaale
+  Ye chaand to deta hai zamaane ko ujaale
+  Is chaand ki poshaak sitaaroṅ se saja luṅ.
 
   2
-  Athara baras phoolon ki tarha jisay paala
-  Jaata hay mujhay choor kay woh gaysuwo wala
-  Ab tu hi bata kaisay may is dil ko sambhaloon.
+  Athaara baras phuloṅ ki tarha jise paala
+  Jaata hai mujhe chhor ke wo gesuoṅ waala
+  Ab tu hi bata kaise main is dil ko sambhaaluṅ.
 
   3
-  Dekhay thay bahot khaab magar khaak howay saab
-  Is baitay kay sehray ki dua karti thi Zainab
-  Dhulla na sayhi may issay dhulla sah banaloon.
+  Dekhe the bahut khwaab magar khaak hue sab
+  Is bete ke sehre ki dua karti thi Zainab
+  Dulha na sahi main ise dulha sa bana luṅ.
 
   4
-  Haar shaam jisay lagti hay ab shaam-e-gharibaan
-  Jo kehti thi Akbar ki dulhan laungi amma
-  Us Fatima Sughra ko Madinay say bulaloon.
+  Har shaam jise lagti hai ab shaam-e-gharibaaṅ
+  Jo kehti thi Akbar ki dulhan laauṅ gi amma
+  Us Fatima Sughra ko Madine se bula luṅ.
 
   5
-  Qaimay say zara door khaaray rotay hay Sarwar
-  Ek haat kallejay pay hay ek haat kamaar paar
-  Mai khud ko sambhaloon kay Shah-e- deen ko sambhaloon.
+  Khaime se zara dur khare rote haiṅ Sarwar
+  Ek haath kaleje pe hai ek haath kamar par
+  Main khud ko sambhaaluṅ ke Shah-e-diṅ ko sambhaaluṅ.
 
   6
-  Ye kiski nazar kha gayi is nooray nazar ko
-  Veraan kiye jaatay hai Akbar meray ghaar ko
-  Jee karta hai is chaand ko duniya say chupaloon.
+  Ye kis ki nazar kha gayi is nur-e-nazar ko
+  Viraan kiye jaate haiṅ Akbar mere ghar ko
+  Ji karta hai is chaand ko duniya se chhupa luṅ.
 
   7
-  Zainab kay labon paar hay buka haye muqaddar
-  Kya sehra chaarhaun may teri laash peh Akbar
-  Aur khud ko teri laash peh sadqay hi uttaroon.
+  Zainab ke laboṅ par hai buka haaye muqaddar
+  Kya sehra charhaauṅ main teri laash pe Akbar
+  Aur khud ko teri laash pe sadqe hi utaaruṅ.
 
   8
-  Mendhi na laagi haaton may hai khoon badan ka
-  Pooshak-e-shahani ko milla daag kafan ka
-  Is laash peh athaarveen mannat ko barahaloon.
+  Mehndi na lagi haathoṅ mein hai khun badan ka
+  Poshaak-e-shahaani ko mila daagh kafan ka
+  Is laash pe athaarviṅ mannat ko barha luṅ.
 
   9
-  Taqdeer kisi maa ko yeh manzaar na dikhaaye
-  Maiyat peh jawaan laal kay woh ashq bahaaye
-  Jee bhaar kay issay dekhloon aur ashq bahaun.
+  Taqdir kisi maaṅ ko ye manzar na dikhaaye
+  Mayyat pe jawaaṅ laal ke wo ashq bahaaye
+  Ji bhar ke ise dekh luṅ aur ashq bahaauṅ.
 
   10
-  Fariyaad zara sunlay Sakina ki zubaani
-  Maarjaungi bichra jo mera yusuf-e-saani
-  Bhaiya meray naraaz hay may unko manaloon.
+  Fariyaad zara sun le Sakina ki zabaani
+  Mar jaauṅ gi bichhra jo mera Yusuf-e-saani
+  Bhaiya mere naaraaz haiṅ main un ko mana luṅ.
 
   11
-  Maa roti rayhi mazhar-o-irfan tarapkaar
-  Aur aakhri hichki may safar kaargaye Akbar
-  Maa kehti rahi may issay dhulla toh banaloon.
+  Maaṅ roti rahi Mazhar o Irfan tarap kar
+  Aur aakhri hichki mein safar kar gaye Akbar
+  Maaṅ kehti rahi main ise dulha to bana luṅ.
 # source_id: nohayonline:00a0da4d24ffb910e2d5
 # source_url: https://www.nohayonline.com/details_content.php?id=445
 # raw_sha256: 16ac2ac60866d6b729502cb115b5098c06d6fcfb9119d55bc94d7633b335076a
