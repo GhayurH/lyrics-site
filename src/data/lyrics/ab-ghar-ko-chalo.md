@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -25,13 +26,13 @@ romanLyrics: |-
   Aankhoṅ ko hua kya meri puchho Ali Akbar
 
   3
-  Kiuṅ paoṅ ragarte ho kahan dard utha hai
+  Kiuṅ paaoṅ ragarte ho kahaaṅ dard utha hai
   Batlao meri jaan mera dil baith raha hai
-  Kiuṅ haath hai sine pe kahan zakhm laga hai
+  Kiuṅ haath hai sine pe kahaaṅ zakhm laga hai
   Phat jaega dil baap ka bolo Ali Akbar
 
   4
-  Nauha hai laboṅ par hai lahu aankhoṅ se jaari
+  Nauha hai laboṅ par hai aankhoṅ se khuṅ jaari
   Hum kab se khare rote haiṅ baali pe tumhari
   Khaya na taras tum ne gharibi pe hamari
   Dil baap ka is tarha na toro Ali Akbar
@@ -39,7 +40,7 @@ romanLyrics: |-
   5
   Ae laal tasavvur mein tha maaṅ ke tera sehra
   Hai der se darwaza-e-khaima pe woh dukhiya
-  Kya ja ke bataun jo hua haal tumhara
+  Kya ja ke bataauṅ jo hua haal tumhara
   Laila se kahuṅ kya ye batao Ali Akbar
 
   6
@@ -75,8 +76,8 @@ romanLyrics: |-
 ۱
 پہنچے جو حسین ابنِ علی لاشِ پسر پر
 وہ حال نظر آیا چھُری چل گئی دل پر
-یہ کہہ کے زمین پر گِر ے بیٹے کے برابر
-آیا ہے پدر ہوش میں آئو علی اکبر
+یہ کہہ کے زمین پر گرے بیٹے کے برابر
+آیا ہے پدر ہوش میں آؤ علی اکبر
 
 ۲
 ظالم کوئی بے کس کو بتاتا نہ تھا راستہ
@@ -85,8 +86,8 @@ romanLyrics: |-
 آنکھوں کو ہوا کیا میری پوچھو علی اکبر
 
 ۳
-کیوں پائوں رگڑتے ہو کہا ں درد اُٹھا ہے
-بتلائو میری جان میرا دل بیٹھ رہا ہے
+کیوں پاؤں رگڑتے ہو کہاں درد اُٹھا ہے
+بتلاؤ میری جان میرا دل بیٹھ رہا ہے
 کیوں ہاتھ ہے سینے پہ کہاں زخم لگا ہے
 پھٹ جائے گا دل باپ کا بولو علی اکبر
 
@@ -98,9 +99,9 @@ romanLyrics: |-
 
 ۵
 اے لال تصور میں تھا ماں کے تیرا سہرا
-ہے دیر سے دروازئہ خیمہ پہ وہ دُکھیا
-کیا جا کے بتائوں جو ہوا حال تمہارا
-لیلیٰ سے کہوں کیا یہ بتائو علی اکبر
+ہے دیر سے دروازۂ خیمہ پہ وہ دُکھیا
+کیا جا کے بتاؤں جو ہوا حال تمہارا
+لیلیٰ سے کہوں کیا یہ بتاؤ علی اکبر
 
 ۶
 اب دیر جو کی تم نے تو کرتی ہوئی زاری

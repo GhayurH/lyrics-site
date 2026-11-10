@@ -6,12 +6,13 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ab kisi se ruk nahiṅ sakta bayan-e-Karbala
-  Likh gaye Abbas khun se dastan-e-Karbala
+  Likh gaye Abbas khuṅ se daastaan-e-Karbala
 
   1
   Gham manate hi raheṅge hum azadar-e-Husain
@@ -19,10 +20,10 @@ romanLyrics: |-
 
   2
   Jaaṅ Muhammad ki bacha kar so gaye jaise Ali
-  Din bacha kar so gaya yun mehman-e-Karbala
+  Diṅ bacha kar so gaya yuṅ mehman-e-Karbala
 
   3
-  Jaan de kar Karbala waloṅ ne aasaṅ kar diya
+  Jaan de kar Karbala waloṅ ne aasaaṅ kar diya
   Kis qadar mushkil tha warna imtehan-e-Karbala
 
   4
@@ -30,12 +31,13 @@ romanLyrics: |-
   Woh to kahiye ho gaya baqi nishan-e-Karbala
 
   5
-  Asghar-e-nadaṅ ki danai ke sadqe jaaiye
+  Asghar-e-naadaaṅ ki daanai ke sadqe jaaiye
   Ye mujahid ban gaya hai haṅs ke jaan-e-Karbala
 
   6
-  Sirf din-e-Haq ki tafsireṅ bahattar the Urooj
+  Sirf din-e-Haq ki tafsir-e-bahtar the Urooj
   Ban gaye haiṅ Karbala wale zaban-e-Karbala
+# editorial_uncertainty: Final couplet differs within archived HTML: Roman tafseerein bahattar hai versus Urdu تفسیرِ بہتر تھے. Urdu reading retained; intended wording requires audio or print.
 # source_id: nohayonline:92aa411572540a454a50
 # source_url: https://www.nohayonline.com/details_content.php?id=51
 # raw_sha256: 4100e72f90a54d024462bedf0ee7d32b1d962c1ebc825b5583b80934153e7080
