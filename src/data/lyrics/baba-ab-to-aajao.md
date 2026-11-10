@@ -6,54 +6,58 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaam e ghariban
-  Mere pyare baba mere ache baba
-  Lutgaya hamara ghar baba ab to aajao
-  Chin gayi meri chadar baba ab to aajao
+  Shaam-e-gharibaṅ
+  Mere pyare baba mere achchhe baba
+
+  Lut gaya hamara ghar baba ab to aajao
+  Baba ab to aajao baba ab to aajao
+  Chhin gayi meri chaadar baba ab to aajao
+  Baba ab to aajao baba ab to aajao
 
   1
-  Shaam e ghariban dekho khoon ka ye samaa dekho
-  Ab hamare qaimon se uth'ta hai dhuan dekho
-  Koi bhi nahi sar par baba ab to aajao
+  Shaam-e-gharibaṅ dekho khuṅ ka ye samaaṅ dekho
+  Ab hamare khaimoṅ se uthta hai dhuaaṅ dekho
+  Koi bhi nahiṅ sar par baba ab to aajao
 
   2
-  Baba baba kehti thi roke zainabe muztar
-  Aina qasime muztar aina shakle payghambar
+  Baba baba kehti thi ro ke Zainab-e-muztar
+  Aina Qasim-e-muztar aina shakl-e-Payghambar
   Kaun de jawab uth kar baba ab to aajao
 
   3
-  Gaal par sakina ke jab tamacha lagta tha
-  Jabke sholo ki zad par ghamzada ka kurta tha
-  Kehti thi yehi rokar baba ab to aajao
+  Gaal par Sakina ke jab tamacha lagta tha
+  Jab ke sholoṅ ki zad par ghamzada ka kurta tha
+  Kehti thi yehi ro kar baba ab to aajao
 
   4
-  Thay haram jo be parda rote jaate thay sajjad
-  Durra jab bhi lagta tha karte thay yehi faryad
-  Mai sitam ke hoo zad par baba ab to aajao
+  The haram jo be parda rote jaate the Sajjad
+  Durra jab bhi lagta tha karte the yehi faryaad
+  Main sitam ke huṅ zad par baba ab to aajao
 
   5
-  Fatema ke zaanu par kat raha tha sheh ka sar
-  Dekh kar suye yasrab keh rahi thi maa rokar
+  Fatema ke zaanu par kat raha tha shah ka sar
+  Dekh kar su-e-Yasrab keh rahi thi maaṅ ro kar
   Lut raha hai mera ghar baba ab to aajao
 
   6
-  Qaid may sakina ko kaat'ti hai tanhai
+  Qaid mein Sakina ko kaatti hai tanhai
   Kabhi kehti hai ammu kabhi kehti hai bhai
-  Kabhi kehti hai rokar baba ab to aajao
+  Kabhi kehti hai ro kar baba ab to aajao
 
   7
-  Beti ki sada'on par aagaye ali haider
-  Ye pukare zainab ko tab galay se lipta kar
-  Ab na yun kaho rokar baba ab to aajao
+  Beti ki sadaaoṅ par aa gaye Ali Haider
+  Ye pukare Zainab ko tab gale se lipta kar
+  Ab na yuṅ kaho ro kar baba ab to aajao
 
   8
-  Likh raha hai jo majid shadman padho nauha
-  Goonjta hai kaano may bekason ka ye naala
-  Ay yateemo ke yawar baba ab to aajao
+  Likh raha hai jo Majid Shadmaaṅ parho nauha
+  Gunjta hai kaanoṅ mein bekasoṅ ka ye naala
+  Ae yatimoṅ ke yaawar baba ab to aajao
 # source_id: nohayonline:6700aa2c66ffe379a493
 # source_url: https://www.nohayonline.com/details_content.php?id=903
 # raw_sha256: c38834c8f897f49cff637531fea2db8bc19a3a48346445973c78a6ce2872a1b9
@@ -61,8 +65,11 @@ romanLyrics: |-
 
 شام غریباں
 میرے پیارے بابا میرے اچھے بابا
+
 لٹ گیا ہمارا گھر بابا اب تو آجاؤ
+بابا اب تو آجاؤ بابا اب تو آجاؤ
 چھن گئی میری چادر بابا اب تو آجاؤ
+بابا اب تو آجاؤ بابا اب تو آجاؤ
 
 ۱
 شام غریباں دیکھو خوں کا یہ سماں دیکھو

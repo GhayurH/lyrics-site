@@ -6,75 +6,78 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  So gayi sakina so gayi sakina
-  Kaise rabab e khasta jigar se kahe koi
-  Dunya mein ab tumhari sakina nahi rahi
-  Ashkon se apne baba ke ruksaar dho gayi
+  So gayi Sakina so gayi Sakina
+
+  Kaise Rabab-e-khasta jigar se kahe koi
+  Duniya mein ab tumhari Sakina nahiṅ rahi
+  Ashkoṅ se apne baba ke rukhsaar dho gayi
+  Aaghosh mein Husain ka sar rakh ke so gayi
 
   1
-  Aaghosh mein hussain ka sar rakh ke so gayi
-  Baba baba kehte kehte so gayi sakina
-  Zindan mein kaise allah jaane so gayi sakina
+  Baba baba kehte kehte so gayi Sakina
+  Zindaaṅ mein kaise Allah jaane so gayi Sakina
 
   2
-  Ahle haram mein shore buka hai kaisi qayamat aayi
-  Gurbat mein phir apni behan ko rota hai ek bhai
-  Apna hi nauha padhte padhte so gayi sakina
+  Ahl-e-haram mein shor-e-buka hai kaisi qayaamat aayi
+  Ghurbat mein phir apni behan ko rota hai ek bhai
+  Apna hi nauha parhte parhte so gayi Sakina
 
   3
-  Godhi mein rakh kar sarwar ke sar ko ro ro ke dukhda sunaya
-  Khaaye hai kitne pathar bata kar kurte ka daaman dikhaya
-  Baba ke moo pe moo rakhe rakhe so gayi sakina
+  Godi mein rakh kar Sarwar ke sar ko ro ro ke dukhra sunaaya
+  Khaaye haiṅ kitne patthar bata kar kurte ka daaman dikhaaya
+  Baba ke muṅh pe muṅh rakhe rakhe so gayi Sakina
 
   4
-  Dil ko yaqeen tha zindan se ek din mil jayegi rehaai
+  Dil ko yaqiṅ tha zindaan se ek din mil jaayegi rihaai
   Koi kabhi to aayega lene kab tak rahegi judaai
-  Zindan ke dar pe baithe baithe so gayi sakina
+  Zindaaṅ ke dar pe baithe baithe so gayi Sakina
 
   5
-  Ghassaala ye dekh ke royi kaise bhala nehlaye
-  Kaise badan se kurta utaare kaise bhala kafnaye
-  Zakhmon ki chaadar odhe odhe so gayi sakina
+  Ghassaala ye dekh ke royi kaise bhala nehlaaye
+  Kaise badan se kurta utaare kaise bhala kafnaaye
+  Zakhmoṅ ki chaadar orhe orhe so gayi Sakina
 
   6
-  Qaide sitam mein pyari behan ki kis dil se turbat banayi
-  Haathon se apne na jaane kaise nanhi si mayyat uthayi
-  Kaise kiya turbat ke hawaale so gayi sakina
+  Qaid-e-sitam mein pyari behan ki kis dil se turbat banaayi
+  Haathoṅ se apne na jaane kaise nanhi si mayyat uthaayi
+  Kaise kiya turbat ke hawaale so gayi Sakina
 
   7
-  Rota raha ek bhai behan ki mayyat par zindan mein
-  Kehta raha maajayi lagega tujhko darr zindan mein
-  Tujhko kahan neend aati thi kaise so gayi sakina
+  Rota raha ek bhai behan ki mayyat par zindaaṅ mein
+  Kehta raha maajayi lagega tujh ko dar zindaaṅ mein
+  Tujh ko kahaaṅ nind aati thi kaise so gayi Sakina
 
   8
-  Kaise rabab e khasta jigar ko samjhayegi zainab
-  Beti ka chehra maa ko kaise dikhlayegi zainab
-  Kaise kahegi rote rote so gayi sakina
+  Kaise Rabab-e-khasta jigar ko samjhaayegi Zainab
+  Beti ka chehra maaṅ ko kaise dikhlaayegi Zainab
+  Kaise kahegi rote rote so gayi Sakina
 
   9
-  Kaise jagaye kaise uthaye kaise lagaye dil se
-  Aakhir ye sadma koi bataye kaise uthaye dil se
-  Bemaar khud ko kaise sambhaale so gayi sakina
+  Kaise jagaaye kaise uthaaye kaise lagaaye dil se
+  Aakhir ye sadma koi bataaye kaise uthaaye dil se
+  Bimaar khud ko kaise sambhaale so gayi Sakina
 
   10
-  Asif aamir kaise sunaye mazlooma ka nauha
-  Ahle haram ko kis tarha de masooma ka pursa
-  Zulm e sitamgar sehte sehte so gayi sakina
+  Asif Aamir kaise sunaaye mazluma ka nauha
+  Ahl-e-haram ko kis tarah de masuma ka pursa
+  Zulm-e-sitamgar sehte sehte so gayi Sakina
 # source_id: nohayonline:821b4121b6c1b8c8f6d2
 # source_url: https://www.nohayonline.com/details_content.php?id=2134
 # raw_sha256: ac254c6abcbbde81613afc967a52394f41ac1b309e1581a47a448e7223b24593
 ---
 سو گیء سکینہ سو گیء سکینہ
+
 کیسے رباب خستہ جگر سے کہے کوئی
 دنیا میں اب تمہاری سکینہ نہیں رہی
 اشکوں سے اپنے بابا کے رخسار دھو گیء
+آغوش میں حسین کا سر رکھ کے سو گیء
 
 ۱
-آغوش میں حسین کا سر رکھ کے سو گیء
 بابا بابا کہتے کہتے سو گیء سکینہ
 زنداں میں کیسے اللّٰہ جانے سو گیء سکینہ
 

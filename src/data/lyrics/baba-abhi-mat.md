@@ -6,62 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Baba abhi mat jaaiye
-  Mayyat pe zainab ne kaha
+  Mayyat pe Zainab ne kaha
 
   1
-  Aankhein to apni kholiye
-  Khamosh kyun hai boliye
-  Kya hogaye humse khafa
+  Aankheiṅ to apni kholiye
+  Khaamosh kiuṅ hai boliye
+  Kya ho gaye hum se khafa
 
   2
   Mayyat uthi gar aap ki
-  Baba yahin mar jaaungi
-  Mujh mein nahi ab hausla
+  Baba yahiṅ mar jaauṅgi
+  Mujh mein nahiṅ ab hausla
 
   3
   Eid aa rahi hai baba jaan
-  Kaise rahengi betiyan
-  Veeran ghar ho jayega
+  Kaise raheṅgi betiyaaṅ
+  Viraan ghar ho jaayega
 
   4
-  Kyun mere baazu choom ke
-  Aise tadap kar roye thay
+  Kiuṅ mere baazu chum ke
+  Aise tarap kar roye the
   Batlaye kya yaad aa gaya
 
   5
-  Bazaar kaise jaaungi
-  Darbar kaise jaaungi
-  Mei seekh loo chalna zara
+  Bazaar kaise jaauṅgi
+  Darbaar kaise jaauṅgi
+  Main sikh luṅ chalna zara
 
   6
-  Jitne bhi hai kufi khade
+  Jitne bhi hai Kufi khare
   Pathar na maare ye mujhe
   Keh dijiye in se zara
 
   7
-  Aata nahi usko chain
-  Bhoola nahi maa ko hussain
-  Mar jayega bhai mera
+  Aata nahiṅ us ko chain
+  Bhula nahiṅ maaṅ ko Husain
+  Mar jaayega bhai mera
 
   8
-  Ghabrayegi amma meri
+  Ghabraayegi ammaaṅ meri
   Ghusl o kafn ke baad bhi
-  Khoon beh raha hai aap ka
+  Khuṅ beh raha hai aap ka
 
   9
-  Parda chinega jab mera
-  Aayenge milne karbala
-  Ye waada kar lije zara
+  Parda chhinega jab mera
+  Aayeṅge milne Karbala
+  Ye waada kar lijiye zara
 
   10
   Sajjad kaisi thi ghadi
-  Roti thi khud binte ali
-  Jis dam yateemon ne kaha
+  Roti thi khud bint-e-Ali
+  Jis dam yatimoṅ ne kaha
 # source_id: nohayonline:3124a3ba6bfe8c6c0fa2
 # source_url: https://www.nohayonline.com/details_content.php?id=1526
 # raw_sha256: cb103774e15a3800ea3bb93422e637635fd0c6c665d676833fb92500be0e3380
