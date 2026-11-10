@@ -10,32 +10,32 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Amma nisar utho baba ki jaan sakina
-  Gardan se kholti hai maa reesma sakina
+  Amma nisaar utho baaba ki jaan Sakina
+  Gardan se kholti hai maaṅ resmaaṅ Sakina
 
   1
-  Bano ko chod kar tu moo apna mod kar tu
-  Zindan se jaa rahi suye jina sakina
+  Baano ko chhor kar tu munh apna mor kar tu
+  Zindaan se jaa rahi su-e-jinaaṅ Sakina
 
   2
   Bibi ab uth ke baitho amma nisaar dekho
-  Laaya hai shimr shayad lo baaliyan sakina
+  Laaya hai Shimr shaayad lo baaliyaaṅ Sakina
 
   3
-  Ae Shah ke fidaayi kaisi ye neendh aayi
-  De paasban na aakar phir ghurkiyan sakina
+  Ae Shaah ki fidaai kaise ye nind aayi
+  De paasbaan na aa kar phir ghurkiyaaṅ Sakina
 
   4
   Kya haal hai ye beti dil phat raha hai mera
-  Reh reh ke le rahi ho kyun hichkiyan sakina
+  Reh reh ke le rahi ho kiuṅ hichkiyaaṅ Sakina
 
   5
-  Dekho zara khudaara jaane imam waala
-  Sar par gira hai maa ke ab aasman sakina
+  Dekho zara khudaara jaan-e-Imaam waala
+  Sar pe gira hai maaṅ ke ab aasmaaṅ Sakina
 
   6
-  Mehshar mein bhool jaana is ko na shahzaadi
-  Hilmi bhi hai tumhara wo madhakhan sakina
+  Mahshar mein bhul jaana is ko na shahzaadi
+  Hilmi bhi hai tumhaara wo madh khwaaṅ Sakina
 # source_id: nohayonline:2c37693c09ca19667655
 # source_url: https://www.nohayonline.com/details_content.php?id=1779
 # raw_sha256: 1f3fa70056ac21fdcfc34f2bccc4a008a2ac9f98ce55b240c135ffd64361dd8a
@@ -48,7 +48,7 @@ romanLyrics: |-
 زندان سے جا رہی سُوئے جناں سکینہ
 
 ۲
-بی بی اب اُٹھ کے بیٹھو اماں نثار دیکھو
+بی‌بی اب اُٹھ کے بیٹھو اماں نثار دیکھو
 لایا ہے شمر شاید لو بالیاں سکینہ
 
 ۳

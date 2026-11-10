@@ -11,58 +11,58 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Amma tere bete ko sitamgaron ne maara
-  Sajde may hua qatl bhara ghar tera pyasa
+  Amma tere bete ko sitamgaroṅ ne maara
+  Sajde mein hua qatl bhara ghar tera pyaasa
 
   1
-  Barchi ali akbar ke kaleje se nikaali
-  Ashoor ko mayyat bhi akele hi uthayi
-  Phir bhi sheh e deen par na kiya rehm zara sa
+  Barchhi Ali Akbar ke kaleje se nikaali
+  Aashur ko mayyat bhi akele hi uthaai
+  Phir bhi Shah-e-diṅ par na kiya rahm zara sa
 
   2
-  Abbas ki laashe pe ye sarwar ne sada di
-  Bhai teri ruqsat ne kamar tod di meri
-  Jab so gaya haye mera ghazi labe darya
+  Abbas ke laashe pe ye Sarwar ne sada di
+  Bhaai teri rukhsat ne kamar tor di meri
+  Jab so gaya haaye mera Ghaazi lab-e-darya
 
   3
-  Wo zulm o sitam shaah pe maidan may toote
-  Zakhmon pe lage zakhm shenshah e huda ke
-  Be jaan tha wo jab suye zameen zeen se aaya
+  Wo zulm o sitam Shaah pe maidaan mein tute
+  Zakhmoṅ pe lage zakhm Shahanshaah-e-huda ke
+  Bejaan tha wo jab su-e-zamiṅ zin se aaya
 
   4
-  Khanjar liye jo shimr badha jaanib e sarwar
-  Bachi ne kaha maar na zaalim na sitam kar
-  Phat'ta tha jigar door se manzar jo ye dekha
+  Khanjar liye jo Shimr barha jaanib-e-Sarwar
+  Bachchi ne kaha maar na zaalim na sitam kar
+  Phatta tha jigar dur se manzar jo ye dekha
 
   5
-  Jab gardan e sarwar pe rakha shimr ne khanjar
-  Beti se kaha baba ne tehro na yahan par
-  Sajde may layeen ne sar e shabbir ko kaata
+  Jab gardan-e-Sarwar pe rakha Shimr ne khanjar
+  Beti se kaha baaba ne thehro na yahaaṅ par
+  Sajde mein laiṅ ne sar-e-Shabbir ko kaata
 
   6
-  Nanha sa gala rakh ke shah e deen ke galay par
-  Bachi ne kaha shimr chala hum pe bhi khanjar
-  Beti ka laga saamne baba ke tamacha
+  Nanha sa gala rakh ke Shah-e-diṅ ke gale par
+  Bachchi ne kaha Shimr chala ham pe bhi khanjar
+  Beti ka laga saamne baaba ke tamaacha
 
   7
-  Khanjar jo chala sheh ke galay par sar e maqtal
-  Har zarb se barpa hua mehshar sar e maqtal
-  Sar peet ke nabiyon ne kiya shaah pa girya
+  Khanjar jo chala Shah ke gale par sar-e-maqtal
+  Har zarb se barpa hua mahshar sar-e-maqtal
+  Sar pit ke nabiyoṅ ne kiya Shaah pe girya
 
   8
-  Sar kaat ke ye zulm kiya aur unho ne
-  Pamaal kiya laasha e shabbir sumon se
-  Aaza e shahe deen ko musalmano ne kaata
+  Sar kaat ke ye zulm kiya aur unhoṅ ne
+  Paamaal kiya laasha-e-Shabbir sumoṅ ne
+  Aazaa-e-Shah-e-diṅ ko musalmaanoṅ ne kaata
 
   9
-  Teeron ke lagay zakhm shahe deen ke badan par
-  Zakhmi tha bahot naizon se tauheed ka mazhar
-  Phir jalti hui rayt ko har zakhm pa daala
+  Tiroṅ ke lage zakhm Shah-e-diṅ ke badan par
+  Zakhmi tha bahut nezoṅ se tauhid ka mazhar
+  Phir jalti hui ret ko har zakhm pe daala
 
   10
-  Rehan o erum bas wo qayamat ki ghadi thi
-  Jab qabr pa zehra ki ye zainab ne buka ki
-  Be gor o kafan dasht may tha shaah ka laasha
+  Rehan o Erum bas wo qayaamat ki ghari thi
+  Jab qabr pe Zehra ki ye Zainab ne buka ki
+  Begor o kafan dasht mein tha Shaah ka laasha
 # source_id: nohayonline:fe031cb9aff6aa9f9925
 # source_url: https://www.nohayonline.com/details_content.php?id=1380
 # raw_sha256: ad2903d95a6c061e81b7554151db3ce65de8cdc1a2a46c59c820d3f1994a0055
@@ -78,7 +78,7 @@ romanLyrics: |-
 ۲
 عباس کے لاشے پہ یہ سرور نے صدا دی
 بھائی تیری رخصت نے کمر توڑ دی میری
-جب سو گیا ہاے میرا غازی لب دریا
+جب سو گیا ہائے میرا غازی لب دریا
 
 ۳
 وہ ظلم و ستم شاہ پہ میدان میں ٹوٹے
@@ -92,7 +92,7 @@ romanLyrics: |-
 
 ۵
 جب گردن سرور پہ رکھا شمر نے خنجر
-بیٹی سے کہا بابا نے ٹہرو نہ یہاں پر
+بیٹی سے کہا بابا نے ٹھہرو نہ یہاں پر
 سجدے میں لعیں نے سر شبیر کو کاٹا
 
 ۶
