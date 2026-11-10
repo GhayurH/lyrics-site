@@ -19,7 +19,7 @@ romanLyrics: |-
   Paaoṅ mein chhale rasta purkhar
 
   2
-  Kis ko pukare kisko sada de
+  Kis ko pukare kis ko sada de
   Koi nahiṅ hai us ka madadgar
 
   3
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Jab se pada hai tauq gale mein
-  Saṅs bhi lena ho gaya dushwar
+  Saans bhi lena ho gaya dushwar
 
   5
   Kis ko nigaheṅ dhund rahi haiṅ
@@ -39,19 +39,19 @@ romanLyrics: |-
   Sar hai jhukae bekas o lachar
 
   7
-  Us ke liye hai raah mein kaante
+  Us ke liye raah mein kaante
   Jis pe nichawar khuld ke gulzaar
 
   8
   Khun badan ka pi gaye chhale
-  Haathoṅ mein rasha zard hai rukhsar
+  Haathoṅ mein rasha zard haiṅ rukhsar
 
   9
-  Thokarein kha kar karta hai sajde
-  Dekha nahi hai aisa giraftaar
+  Thokareṅ kha kar karta hai sajde
+  Dekha nahiṅ hai aisa giraftaar
 
   10
-  Kiun na wo roe khun ke aṅsu
+  Kiuṅ na wo roe khun ke aansu
   Naqsh hai dil par Shaam ka bazar
 
   11
