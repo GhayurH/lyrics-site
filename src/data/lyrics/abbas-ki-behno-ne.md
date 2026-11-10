@@ -1,18 +1,19 @@
 ---
-title: ہاے عباس کی بہنوں نے نہ پای چادر
+title: ہائے عباس کی بہنوں نے نہ پائی چادر
 alternateTitle: Abbas Ki Behno Ne
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Sajjad Mir"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Wa Hijaba Wa Hijaba
   Haaye Abbas ki behnoṅ ne na paayi chadar
-  Shaam tak neze pe deti thi duhai chadar
+  Shaam tak neze pe deti thi duhaai chadar
   Jis ke Baba ne urhai thi rida Kaabe ko
   Us ki beti ko kisi ne na urhai chadar
 
@@ -25,12 +26,12 @@ romanLyrics: |-
   Hind zindaṅ mein jo orhe hue aayi chadar
 
   3
-  Paoṅ khat dete rahe dur talak bachchi ke
+  Paaoṅ khat dete rahe dur talak bachchi ke
   Shimr ne aise Sakina se chhurai chadar
 
   4
   Gir pari khaak pe Abbas ki maaṅ sadme se
-  Apne bazu se jo Zainab ne hatayi chadar
+  Apne baazu se jo Zainab ne hatayi chadar
 
   5
   Haaye rote hue Zainab ne kiya shukr-e-Khuda
@@ -76,7 +77,7 @@ romanLyrics: |-
 
 ۵
 ہائے روتے ہوئے زینب نے کیا شکر خدا
-سر پہ صغرا کے نظر جس گھڑی آی چادر
+سر پہ صغرا کے نظر جس گھڑی آئی چادر
 
 ۶
 زندگی میں نہ اڑھا پائے مگر عابد نے
