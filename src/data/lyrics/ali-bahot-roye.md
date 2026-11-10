@@ -23,7 +23,7 @@ romanLyrics: |-
   Shikasta pahlu jo dekha Ali bahut roe
   
   2
-  Gale mein baṅdhi gayi rassiyaṅ to sabr kiya
+  Gale mein bandhi gayiṅ rassiyaṅ to sabr kiya
   Dar-e-Batool se utha dhuaṅ to sabr kiya
   Bana ke turbat-e-Zehra Ali bahut roe
   
@@ -58,8 +58,8 @@ romanLyrics: |-
   Hasan Husain ko dekha Ali bahut roe
   
   9
-  Sula ke zer-e-zamin Bint-e-Mustafa ko Ali
-  Kiye wo bain ke sari zamin larazne lagi
+  Sula ke zer-e-zamiṅ Bint-e-Mustafa ko Ali
+  Kiye wo bain ke sari zamiṅ larazne lagi
   Hisar-e-sabr jo tuta Ali bahut roe
   
   10
@@ -89,7 +89,7 @@ romanLyrics: |-
 ۴
 ابھی تو قبر رسول زماں بھی تھی تازہ
 علی کے زخموں کا کس طرح ہو گا اندازہ
-جو گھر میں رہ گےء تنہا علی بہت روئے
+جو گھر میں رہ گئے تنہا علی بہت روئے
 
 ۵
 پکارا ماں کو تڑپ کر حسین نے جس دم

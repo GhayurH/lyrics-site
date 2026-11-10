@@ -15,10 +15,10 @@ published: false
 # raw_sha256: 45e914d96a225872dfa72d8f52ea072500cf2a3bd494af513914ad7a3e30db09
 romanLyrics: |-
   Ali hai sajde mein tar khun mein peshani hai
-  Zamin se ta ba falak chhayi pareshani hai
+  Zamiṅ se ta ba falak chhayi pareshani hai
   
   1
-  Ali ka qatl bhi sazish ka shakhssana tha
+  Ali ka qatl bhi sazish ka shaakhsaana tha
   Chale haiṅ silsile phir se wohi kahani hai
   
   2
