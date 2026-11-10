@@ -14,7 +14,7 @@ romanLyrics: |-
   Ya Ibna Zahra Ya Abbas
   Main ain se Husain ka aashiq bhi ishq bhi
   Be se huṅ Buturab ki main hasrat bhi
-  Zahir alif se hai Abu Talib ki agahi
+  Zahir alif se hai Abu Talib ki aagahi
   Aur sin se Hasan ki samajh bujh saath bhi
   Abbas dekhne mein faqat mera naam hai
   Darasl ye Husain ke lashkar ka naam hai
@@ -23,8 +23,8 @@ romanLyrics: |-
   Beta kaha hai Madar-e-Hasnain ne mujhe
 
   1
-  Asma-e-Panjtan ka asasa hai mera naam
-  Alfaz hain tawaf mein Kaaba hai mera naam
+  Asma-e-Panjtan ka asaasa hai mera naam
+  Alfaaz hain tawaf mein Kaaba hai mera naam
   Asrar o rumuz ki dunya hai mera naam
   Khud Mustafa ki beti ne mera naam
   Bejaan nahiṅ hai harf koi mere naam mein
@@ -48,10 +48,10 @@ romanLyrics: |-
 
   4
   Talwar meri jaayegi ran mein jidhar jidhar
-  Barish wahan pe hogi saroṅ ki sarar sarar
+  Baarish wahaṅ pe hogi saroṅ ki sarar sarar
   Ashal ke paoṅ piseṅge tum ko karar karar
-  Dekhegi maut khud ye nazare tukar tukar
-  San san ki saut aisi samat pe chhaegi
+  Dekhegi maut khud ye nazaare tukar tukar
+  San san ki saut aisi samaat pe chhaegi
   Dhar dhar gireṅge dhar na sada tum ko aayegi
 
   5
@@ -60,20 +60,20 @@ romanLyrics: |-
   Manzur ye nahiṅ hai to khud faisla karo
   Dikhlauṅ mojizat main apne jo tum kaho
   Darya pe haath dhoge abhi tum hayat se
-  Apne saroṅ ko katoge khud apne haath se
+  Apne saroṅ ko kaatoge khud apne haath se
 
   6
   Aise karuṅga waar sambhalne na duṅga main
   Pehlu bhi tum ko aaj badalne na duṅga main
   Talwar kya zabaṅ bhi chalne na duṅga main
   Nazroṅ ke daere se nikalne na duṅga main
-  Meri hai kainat kahan bach ke jaoge
-  Sun lo jahan chhipoge wahan mujh ko paoge
+  Meri hai kaainaat kahaṅ bach ke jaoge
+  Sun lo jahaṅ chhipoge wahaṅ mujh ko paoge
 
   7
   Tum ko ghamand fauj pe kasrat pe hai ghurur
-  In bazuoṅ ke zor ka tum ko nahiṅ shaur
-  Pal mein nikal duṅga main zehnoṅ ka har futur
+  In baazuoṅ ke zor ka tum ko nahiṅ shaur
+  Pal mein nikaal duṅga main zehnoṅ ka har futur
   Dozakh ka naam aaj se hoga Yazidpur
   Hum keh ke Ya Ali jo abhi tegh uthaeṅge
   Murde tumhare zer-e-kafan thartharaeṅge
@@ -84,7 +84,7 @@ romanLyrics: |-
   Tum kya main do jahaṅ dabo duṅ tarai mein
   Dast-e-Khuda ka zor hai meri kalai mein
   Chahuṅ to baithe baithe main Ashal ki zin par
-  Lehra ke aasman ko ulat duṅ zamin par
+  Lehra ke aasmaṅ ko ulat duṅ zamin par
 
   9
   Aalam tha terah saal mein aisa jalal ka

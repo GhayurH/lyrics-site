@@ -6,6 +6,7 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Anwar Zahir"
+reciter: "Shareef Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -18,7 +19,7 @@ romanLyrics: |-
   Matlab tha yehi main kaise piyuṅ Beshir hamara pyasa hai
 
   2
-  Barsat ka mausam bhi to nahiṅ pani ka barsna namumkin
+  Barsaat ka mausam bhi to nahiṅ pani ka barasna namumkin
   Darya bhi adu ki qaid mein hai Shabbir ka kunba pyasa hai
 
   3
@@ -30,11 +31,11 @@ romanLyrics: |-
   Munh pher liya sab ne keh kar Ahmad ka nawasa pyasa hai
 
   5
-  Laghar hai bahot bimar bhi hai zanjir badan se bhari hai
+  Laaghar hai bahot bimar bhi hai zanjir badan se bhaari hai
   Durre na laga Abid ke shaqi Wallah ye bhuka pyasa hai
 
   6
-  Azad hui Itrat lekin zindaṅ mein Sakina hai ab tak
+  Aazaad hui Itrat lekin zindan mein Sakina hai ab tak
   Chhirkao lahad par kaun kare har zarra zarra pyasa hai
 
   7

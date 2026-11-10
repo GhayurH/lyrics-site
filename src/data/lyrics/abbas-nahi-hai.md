@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -40,13 +41,13 @@ romanLyrics: |-
   Ye keh ke kaleja thaam liya
 
   6
-  Kya Shaam-e-Ghariban aayi hai
+  Kya Shaam-e-Gharibaṅ aayi hai
   Yuṅ gham ki udasi chhai hai
   Khaime bhi jale kurta bhi jala
 
   7
   Jab chaha sitam bachchi pe kiya
-  Jab chaha tamache maar diya
+  Jab chaha tamaanche maar diya
   Karti hai Sakina aah o buka
 
   8
@@ -62,7 +63,7 @@ romanLyrics: |-
   10
   Wo ban mein luti Aulad-e-Ali
   Bin tere hui hai Aal-e-Nabi
-  Ab aaye yahan par tum Baba
+  Ab aaye yahaṅ par tum Baba
 
   11
   Baba ne kaha tha ae Zainab
@@ -70,7 +71,7 @@ romanLyrics: |-
   Chhin jaayegi tere sar se rida
 
   12
-  Thi Bint-e-Ali us dam behal
+  Thi Bint-e-Ali us dam behaal
   Kehti hi rahi Sabir Iqbal
   Har zulm rawaṅ Zainab pe hua
 # source_id: nohayonline:923f7c3c7db6286c0a65
