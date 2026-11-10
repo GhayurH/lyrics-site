@@ -25,7 +25,7 @@ romanLyrics: |-
   
   2
   Keh raha hai yehi sardab mein pani ruk kar
-  Roz-e-Ashur se ab Roz-e-Jaza tak muṅh par
+  Roz-e-Ashur se ab Roz-e-Jaza tak mukh par
   Tera bas tera ijara hai Alamdar-e-Husain
   
   3
@@ -41,7 +41,7 @@ romanLyrics: |-
   5
   Sari dunya pe ayaṅ hoga tera jah o hasham
   Ek din aaega har ghar pe sajega ye alam
-  Sab pukareṅge hamara hai Alamdar-e-Husain
+  Sab pukareṅ ge hamara hai Alamdar-e-Husain
   
   6
   Jis se khul jata hai insan ka jauhar wo bhi
@@ -54,7 +54,7 @@ romanLyrics: |-
   Hum ne jo waqt guzara hai Alamdar-e-Husain
   
   8
-  Kis tarah bhuleṅge us aalam-e-tanhayi ko
+  Kis tarah bhuleṅ ge us aalam-e-tanhayi ko
   Jis mein Zehra ke dulare ko tere bhayi ko
   Gher ke lakhoṅ ne mara hai Alamdar-e-Husain
   
@@ -80,7 +80,7 @@ romanLyrics: |-
 
 ۲
 کہہ رہا ہے یہی سرداب میں پانی رک کر
-روزِ عاشور سے اب روزِ جزا تک منہ پر
+روزِ عاشور سے اب روزِ جزا تک مکھ پر
 تیرا بس تیرا اجارہ ہے علمدارِ حسین
 
 ۳
