@@ -18,7 +18,7 @@ romanLyrics: |-
   
   1
   Sadiyoṅ ke intezar ka kaisa sila diya
-  Dono jahaṅ ka sar meri janib jhuka diya
+  Donoṅ jahaaṅ ka sar meri janib jhuka diya
   Terah Rajab Ali se ye bola Khuda ka ghar
   Qibla mujhe to aap ne Kaba bana diya
   
@@ -43,7 +43,7 @@ romanLyrics: |-
   Aaya dar-e-Haider-e-Safdar pe sitara
   
   7
-  Ratoṅ ko Ali jage to Khaliq ne ye socha
+  Raatoṅ ko Ali jage to Khaliq ne ye socha
   Farsh-e-Shab-e-Hijrat ko sajana hi parega
   Khatre mein na par jae mera wasf-e-Khudayi
   Ik shab ke liye is ko sulana hi parega
@@ -57,7 +57,7 @@ romanLyrics: |-
   9
   Jis pe mere Maula ne ik ghaiz mein dali nazar
   Uthta nahiṅ dunya se utha jata hai wo Ahl-e-Shar
-  Bugz-e-Ali deta hai bande ko khasara
+  Bughz-e-Ali deta hai bande ko khasara
   Ishq-e-Ali ne hi muqaddar ko saṅwara
   
   10

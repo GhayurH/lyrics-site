@@ -1,11 +1,12 @@
 ---
 title: "علی اصغر تو ہے مشکل میں علی"
 alternateTitle: "Ali Asghar Tu Hai Mushkil Mein Ali"
-alternateTitle: "Ali Asghar Tu Hai Mushkil Mein Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Syeda Sahar Rizvi"
+reciter: "Syed Minhal Abbas Jaffery"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -24,14 +25,14 @@ romanLyrics: |-
   
   2
   Hum to Abbas ke parcham se dua karte haiṅ
-  Apni janeṅ Ali Asghar pe fida karte haiṅ
-  Dono hajat ke dar hum ko ata karte haiṅ
-  Dono Haider ki shabahat haiṅ Khuda ke haiṅ Wali
+  Apni jaaneṅ Ali Asghar pe fida karte haiṅ
+  Donoṅ haajaat ke dar hum ko ata karte haiṅ
+  Donoṅ Haider ki shabahat haiṅ Khuda ke haiṅ Wali
   
   3
-  Saṅs le pae na dushman jo ishara kar duṅ
-  Hath uthauṅ bhi na mitti ko sitara kar duṅ
-  Tum agar chaho jahaṅ sara tumhara kar duṅ
+  Saaṅs le pae na dushman jo ishara kar duṅ
+  Haath uthauṅ bhi na mitti ko sitara kar duṅ
+  Tum agar chaho jahaaṅ sara tumhara kar duṅ
   Baat ye maan lo hum chhote bare sab haiṅ Ali
   
   4
