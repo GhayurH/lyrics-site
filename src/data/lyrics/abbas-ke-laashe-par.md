@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -19,7 +20,7 @@ romanLyrics: |-
 
   2
   Pamal hue Qasim Akbar ne sinaṅ khai
-  Tum ne bhi hameṅ chhora asar hai mahshar ke
+  Tum ne bhi hameṅ chhora aasaar hai mahshar ke
 
   3
   Shabbir ne bachchi ko pehnaye the jo bunde
@@ -62,7 +63,7 @@ romanLyrics: |-
 تم نے بھی ہمیں چھوڑا آثار ہے محشر کے
 
 ۳
-شبیر نے بچی کو پہنائے تھے جو بوندیں
+شبیر نے بچی کو پہنائے تھے جو بندے
 چھینے گئے مقتل میں وہ دست ستمگر کے
 
 ۴
@@ -71,7 +72,7 @@ romanLyrics: |-
 
 ۵
 جس گھر میں فرشتے بھی آتے ہیں سلامی کو
-ماتم کی صدائیں اب آتی ہے اسی گھر سے
+ماتم کی صدائیں اب آتی ہیں اسی گھر سے
 
 ۶
 اے ظالموں زینب کو درے تو نہیں مارو

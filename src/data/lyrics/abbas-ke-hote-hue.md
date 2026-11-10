@@ -1,10 +1,11 @@
 ---
-title: "تھی حرم کی یہ صدا عباس کے ہوتے ہوے"
+title: "تھی حرم کی یہ صدا عباس کے ہوتے ہوئے"
 alternateTitle: "Abbas Ke Hote Hue"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ameer Hasan Aamir"
 poet: "Bilal Kazmi"
 tags: ["noImage"]
 aliases: []
@@ -20,21 +21,21 @@ romanLyrics: |-
   Gham bhala kis baat ka Abbas ke hote hue
 
   2
-  Kaṅp uthegi fiza us sher ki lalkar se
+  Kaanp uthegi fiza us sher ki lalkar se
   Tegh kya shamshir kya bas abruoṅ ke waar se
   Faujeṅ takraeṅgi ja kar Shaam ki diwar se
   Kya kareṅge ashqiya Abbas ke hote hue
 
   3
   Haath mein wo khushk kuze aur sada-e-alatash
-  Hoṅt nile zard chehre aur sada-e-alatash
+  Hont nile zard chehre aur sada-e-alatash
   Saqi-e-Kausar ke bachche aur sada-e-alatash
   Kis ne socha tha bhala Abbas ke hote hue
 
   4
-  Roz aaeṅge tere didar ko Ahl-e-Jahan
-  Teri azmat ko salami dega barh kar aasman
-  Har zamin ta hashr dohraegi teri dastaṅ
+  Roz aaeṅge tere didar ko Ahl-e-Jahaaṅ
+  Teri azmat ko salami dega barh kar aasmaaṅ
+  Har zamiṅ ta hashr dohraegi teri dastaṅ
   Gham na kar ae Karbala Abbas ke hote hue
 
   5

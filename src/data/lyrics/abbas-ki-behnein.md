@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Rizwan Zaidi"
 poet: "Mazhar Naqvi"
 tags: ["noImage"]
 aliases: []
@@ -12,8 +13,8 @@ published: false
 romanLyrics: |-
   Kha gaya Shahzadiyoṅ ko gham isi ehsas ka
   Haaye tha rahwar ki gardan mein sar Abbas ka
-  Kahan napak nazreṅ aur kahan Abbas ki behneṅ
-  Pareshan hain Ali ki betiyaṅ Abbas ki behneṅ
+  Kahaaṅ napak nazreṅ aur kahaaṅ Abbas ki behneṅ
+  Pareshaaṅ hain Ali ki betiyaṅ Abbas ki behneṅ
 
   1
   Isi khatir tha sar rahwar ki gardan mein Ghazi ka
@@ -81,8 +82,8 @@ romanLyrics: |-
 مسلمانوں تمہارے درمیاں عباس کی بہنیں
 
 ۴
-تلاوت کر رہی ہے خون میں ڈوبی ہوئی آنکھیں
-سنے گی کیسے ننگے سر اذاں عباس کی بہنیں
+تلاوت کر رہی ہیں خون میں ڈوبی ہوئی آنکھیں
+سنیں گی کیسے ننگے سر اذاں عباس کی بہنیں
 
 ۵
 کھجوریں پھینکتے ہیں لوگ صدقے کی اسیروں پہ
@@ -94,18 +95,18 @@ romanLyrics: |-
 
 ۷
 کھلے سر جس نجس ماحول سے ہو آئی لوگوں
-رہیں گی اب صدا گریہ کناں عباس کی بہنیں
+رہیں گی اب سدا گریہ کناں عباس کی بہنیں
 
 ۸
 چلی ہے معرکہ سر شام کا کرنے غریبی میں
-بندھاے بازوؤں میں رسیاں عباس کی بہنیں
+بندھائے بازوؤں میں رسیاں عباس کی بہنیں
 
 ۹
 دکھا کر نیل بولی بیٹیاں زہرا کے مرقد پر
-اجڑ کے آی ہے گھر دیکھ ماں عباس کی بہنیں
+اجڑ کے آئی ہے گھر دیکھ ماں عباس کی بہنیں
 
 ۱۰
-چھپائےنگے بھلا اب مادر عباس سے کیسے
+چھپائیں گی بھلا اب مادر عباس سے کیسے
 یہ دروں کی اذیت کے نشاں عباس کی بہنیں
 
 ۱۱

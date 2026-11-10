@@ -1,10 +1,11 @@
 ---
-title: "عباس کے نوکر ہیں پانی تو پلاےنگے"
+title: "عباس کے نوکر ہیں پانی تو پلائیں گے"
 alternateTitle: "Abbas Ke Naukar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Sajjad Mir"
 poet: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
@@ -62,7 +63,7 @@ romanLyrics: |-
 
 ۲
 یہ کہکے پلاتے ہیں ان ہاتھوں سے ہم پانی
-اس کام نہ آے تو کس کام یہ آئیں گے
+اس کام نہ آئے تو کس کام یہ آئیں گے
 
 ۳
 جاروب کشی کیسی ہم پلکیں بچھائیں گے
