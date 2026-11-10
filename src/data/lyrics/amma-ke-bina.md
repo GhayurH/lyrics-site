@@ -11,67 +11,67 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek roz shahzadi ne asma se ye kaha
-  Mai jaa rahi hoon hujre mein karne ko ab dua
-  Awaaz gar na aaye mere shor o shain ki
-  Bas ye samajhna mar gayi maadar hussain ki
-  Bacche jo aaye laut ke tu pyar kijiyo
+  Ek roz shahzaadi ne Asma se ye kaha
+  Main jaa rahi huṅ hujre mein karne ko ab dua
+  Aawaaz gar na aaye mere shor o shain ki
+  Bas ye samajhna mar gayi maadar Husain ki
+  Bacche jo aayeṅ laut ke to pyaar kijiyo
   Marne ka mere kuch bhi na izhaar kijiyo
-  Alqissa band hogayi awaaz e shor o shain
-  Asma pachadhe khaati thi aur kar rahi thi bain
-  Itne mein aaye khelte ghar mein hasaan hussain
-  Asma ye aansu poch ke kehti thi dil ke chain
-  Khaana laga rahi hoo mai ab khana khaiye
-  Bacche tadap ke kehne lage ye bataye
-  Tum ko maloom hai ye aaj talak ay asma
+  Alqissa band ho gayi aawaaz shor o shain
+  Asma pachhaareṅ khaati thi aur kar rahi thi bain
+  Itne mein aaye khelte ghar mein Hasan Husain
+  Asma ye aansu ponchh ke kehti thiṅ dil ke chain
+  Khaana laga rahi huṅ main ab khaana khaaiye
+  Bacche tarap ke kehne lage ye bataaiye
+  Tum ko maalum hai ye aaj talak ae Asma
   Hum ne khaana kabhi amma ke bina khaaya hai
-  Kaisi baatein hai ajab hota hai dil ko sadma
+  Kaisi baateṅ haiṅ ajab hota hai dil ko sadma
   Hum ne khaana kabhi amma ke bina khaaya hai
 
   1
-  Pehle batlao ay asma ke kahan hai amma
-  Le chalo hum ko bhi is waqt jahan hai amma
-  Kyun sunayi nahi deti hamay amma ki sada
+  Pehle batlaao ae Asma ke kahaaṅ haiṅ amma
+  Le chalo hum ko bhi is waqt jahaaṅ haiṅ amma
+  Kiuṅ sunaai nahiṅ deti hameṅ amma ki sada
 
   2
-  Jaa ke amma se kaho noor e nazar aaye hai
-  Jis pa qurban thi wohi lakhte jigar aaye hai
-  Phir hamesha ki tarha daud ke liptaye zara
+  Jaa ke amma se kaho nur-e-nazar aaye haiṅ
+  Jis pe qurbaaṅ thiṅ wohi lakht-e-jigar aaye haiṅ
+  Phir hamesha ki tarah daur ke liptaayeṅ zara
 
   3
-  Tum ko maloom hai kis tarha bulaati thi wo
-  Apne haathon se hamay khaana khilati thi wo
-  Choomti jaati thi ulfat se hamara chehra
+  Tum ko maalum hai kis tarah bulaati thiṅ wo
+  Apne haathoṅ se hameṅ khaana khilaati thiṅ wo
+  Chumti jaati thiṅ ulfat se hamaara chehra
 
   4
-  Godh mein baith ke unke hi sukoon payenge
-  Amma jab khaana khilayengi tu hum khayenge
+  God mein baith ke un ke hi sukuṅ paayeṅge
+  Amma jab khaana khilaayeṅgi to hum khaayeṅge
   Kis liye band hai amma ka abhi tak hujra
 
   5
-  Kis liye roti ho ab jald batao asma
-  Tum ko nana ki qasam kuch na chupao asma
-  Dil dhadakta hai phata jaata hai gham se seena
+  Kis liye roti ho ab jald bataao Asma
+  Tum ko nana ki qasam kuchh na chhupaao Asma
+  Dil dharakta hai phata jaata hai gham se sina
 
   6
-  Sun ke bacchon ki fughan cheekh ke royi asma
-  Aah lipta ke kaleje se ye boli asma
-  Tukde dil hogaya sun sun ke tumhara jumla
+  Sun ke bacchoṅ ki fughaaṅ chikh ke roiṅ Asma
+  Aah lipta ke kaleje se ye boliṅ Asma
+  Tukre dil ho gaya sun sun ke tumhaara jumla
 
   7
-  Ay mere laadlon kya is tarha ghabrate hai
-  Jinki maayein nahi hoti wo nahi khaate hai
-  Tum ko amma ki qasam ab na dobara kehna
+  Ae mere laadloṅ kya is tarah ghabraate haiṅ
+  Jin ki maaeṅ nahiṅ hotiṅ wo nahiṅ khaate haiṅ
+  Tum ko amma ki qasam ab na dobaara kehna
 
   8
-  Ab na aayengi khilane ko tumhari amma
-  Chod kar hum ko suye khuld sidhari amma
-  Ay mere laadlon is waqt baja hai kehna
+  Ab na aayeṅgi khilaane ko tumhaari amma
+  Chhor kar hum ko su-e-khuld sidhaareṅ amma
+  Ae mere laadloṅ is waqt baja hai kehna
 
   9
-  Ainee kis tarha se us waqt ka likhe manzar
-  Laash par maa ki ye kehte thay wo aamir ro kar
-  Kaise ta zindagi ab khayenge khaana tanha
+  Aini kis tarah se us waqt ka likhe manzar
+  Laash par maaṅ ki ye kehte the wo Aamir ro kar
+  Kaise taa zindagi ab khaayeṅge khaana tanha
 # source_id: nohayonline:bf365b6efb8c15fb1dab
 # source_url: https://www.nohayonline.com/details_content.php?id=3099
 # raw_sha256: 55f435ea4002b85078951afe4e68fd574d718923e4ff04c918f825f567b7ab3e
@@ -80,7 +80,7 @@ romanLyrics: |-
 میں جا رہی ہوں حجرے میں کرنے کو اب دعا
 آواز گر نہ آۓ مرے شور و شین کی
 بس یہ سمجھنا مر گئی مادر حسین کی
-بچے جو آیں لوٹ کے تو پیار کیجئو
+بچے جو آئیں لوٹ کے تو پیار کیجئو
 مرنے کا میرے کچھ بھی نہ اظہار کیجئو
 القصہ بند ہو گئی آواز شور و شین
 اسما پچھاڑیں کھاتی تھی اور کر رہی تھی بین
@@ -110,7 +110,7 @@ romanLyrics: |-
 
 ۴
 گود میں بیٹھ کے ان کے ہی سکوں پائیں گے
-اماں جب کھانا کھلائیں گی تو ہم کھائیگے
+اماں جب کھانا کھلائیں گی تو ہم کھائیں گے
 کس لیے بند ہے اماں کا ابھی تک حجرہ
 
 ۵
@@ -125,7 +125,7 @@ romanLyrics: |-
 
 ۷
 اے مرے لاڈلوں کیا اس طرح گھبراتے ہیں
-جنکی مایئں نہیں ہوتیں وہ نہیں کھاتے ہیں
+جنکی مائیں نہیں ہوتیں وہ نہیں کھاتے ہیں
 تمکو اماں کی قسم اب نہ دوبارہ کہنا
 
 ۸
@@ -136,4 +136,4 @@ romanLyrics: |-
 ۹
 عینی کس طرح سے اس وقت کا لکھے منظر
 لاش پر ماں کی یہ کہتے تھے وہ عامر رو کر
-کیسے تا زندگی اب کھاینگے کھانا تنہا
+کیسے تا زندگی اب کھائیں گے کھانا تنہا

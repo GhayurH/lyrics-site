@@ -11,43 +11,43 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Amma kab ghar jayenge
-  Qaid mein kya mar jayeṅge
+  Amma kab ghar jaayeṅge
+  Qaid mein kya mar jaayeṅge
 
   1
-  Subh ko parinde jaate hain
-  Sham ko wapas aate hai
-  Kya hum bhi ghar jayenge
+  Subh ko parinde jaate haiṅ
+  Shaam ko waapas aate haiṅ
+  Kya hum bhi ghar jaayeṅge
 
   2
-  Baap ka sar be-peeron may
-  Bhai hai zanjeeron may
-  Kaise le kar jayenge
+  Baap ka sar bepiroṅ mein
+  Bhai hai zanjiroṅ mein
+  Kaise le kar jaayeṅge
 
   3
-  Khwaab may baba aaye thay
-  Mujhse lipat kar kehte thay
-  Khuld may le kar jayenge
+  Khwaab mein baba aaye the
+  Mujh se lipat kar kehte the
+  Khuld mein le kar jaayeṅge
 
   4
   Maut ka sar par hai saaya
   Aisa lagta hai bhaiya
-  Qabr bana kar jayenge
+  Qabr bana kar jaayeṅge
 
   5
-  Mai nahi hargiz manungi
-  Bas ek shart pa jaungi
-  Ammu le kar jayenge
+  Main nahiṅ hargiz maanuṅgi
+  Bas ek shart pe jaauṅgi
+  Ammu le kar jaayeṅge
 
   6
-  Shaah ka laasha maidan may
-  Ahle haram hai zindan may
-  Hum to yahin mar jayege
+  Shaah ka laasha maidaaṅ mein
+  Ahl-e-haram haiṅ zindaaṅ mein
+  Hum to yahiṅ mar jaayeṅge
 
   7
-  Mar gayi ek din wo anwar
+  Mar gayi ek din wo Anwar
   Jo ye kehti thi aksar
-  Qabre nabi par jayenge
+  Qabr-e-Nabi par jaayeṅge
 # source_id: nohayonline:8b13fdc4d5e692b0a479
 # source_url: https://www.nohayonline.com/details_content.php?id=453
 # raw_sha256: 7ad5ff6b3359df1f81fa019e537b665e14529b7db1e40bc1fc65cd633cb84169
