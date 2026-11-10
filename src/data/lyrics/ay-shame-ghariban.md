@@ -1,47 +1,48 @@
 ---
 title: اے شامِ غریباں مجھے کچھ حال سُنا دے
-alternateTitle: Ay Shame Ghariban
+alternateTitle: Ae Shaam-e-Gharibaaṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Urooj Bijnori"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Shame Ghariban"]
 published: false
 romanLyrics: |-
-  Ay sham e ghariban mujhe kuch haal suna de
-  Koofe mein aseero pe jo guzri hai bata de
+  Ae shaam-e-gharibaaṅ mujhe kuch haal suna de
+  Kufe mein asiroṅ pe jo guzri hai bata de
 
   1
-  Aa mujhko bata kya hua darya ke kanare
-  Maqtal se kahan par gaye zainab ke dulaare
-  Ab kya huye asghar ke wo masoom ishare
-  Zaalim ne sakina ke tamache to na maare
+  Aa mujh ko bata kya hua darya ke kinaare
+  Maqtal se kahaaṅ par gaye Zainab ke dulaare
+  Ab kya hue Asghar ke wo maasum ishaare
+  Zaalim ne Sakina ke tamaache to na maare
 
   2
-  Roodaad suna sibte payambar pe jo guzri
-  Asghar pe jo guzri ali akbar pe jo guzri
-  Qasim pe aur abbas e dilawar pe jo guzri
-  Aur wo bhi bata bibi ki chadar pe jo guzri
+  Rudaad suna Sibt-e-Payambar pe jo guzri
+  Asghar pe jo guzri Ali Akbar pe jo guzri
+  Qasim pe aur Abbas-e-dilaawar pe jo guzri
+  Aur wo bhi bata Bibi ki chaadar pe jo guzri
 
   3
-  Baysheer ke jab teer laga tha to hua kya
+  Beshir ke jab tir laga tha to hua kya
   Wo sher jo darya pe gaya tha to hua kya
   Maqtal mein andhera jo hua tha to hua kya
-  Jab qaima aseeron ka jala tha to hua kya
+  Jab khaima asiroṅ ka jala tha to hua kya
 
   4
-  Kya haal hua baad mein shabbir ke ghar ka
-  Kuch haal bata mujhko aseero ke safar ka
-  Kaisa tha ujaala bani hashim ke qamar ka
-  Kya haal tha us waqt shahadat ke asar ka
+  Kya haal hua baad mein Shabbir ke ghar ka
+  Kuch haal bata mujh ko asiroṅ ke safar ka
+  Kaisa tha ujaala Bani Haashim ke qamar ka
+  Kya haal tha us waqt shahaadat ke asar ka
 
   5
-  Abid pe urooj aisi musibat ki ghadi thi
-  Bemaar thay aur paon mein zanjeer padi thi
+  Abid pe Uruj aisi musibat ki ghari thi
+  Bimaar the aur paaoṅ mein zanjir pari thi
   Har chand ke mushkil thi magar baat badi thi
-  Kis tarha se tay ki gayi manzil jo kadi thi
+  Kis tarah se tay ki gayi manzil jo kari thi
 # source_id: nohayonline:708ab8cf8c1df61c226e
 # source_url: https://www.nohayonline.com/details_content.php?id=56
 # raw_sha256: 38ec7f8a5f424070391a39d07fd39ffbf0053212b3428fbf40051cc1dbcaaa0a
@@ -59,10 +60,10 @@ romanLyrics: |-
 ظالم نے سکینہ کے تماچے تو نہ مارے
 
 ۲
-روداد سُنا سبطِ پیعمبر پہ جو گزری
+روداد سُنا سبطِ پیمبر پہ جو گزری
 اصغر پہ جو گزری علی اکبر پہ جو گزری
 قاسم پہ اور عباسِ دلاور پہ جو گزری
-اور وہ بھی بتا بی بی کی چادر پہ جو گزری
+اور وہ بھی بتا بی‌بی کی چادر پہ جو گزری
 
 ۳
 بے شیر کے جب تیر لگا تھا تو ہوا کیا
@@ -73,11 +74,11 @@ romanLyrics: |-
 ۴
 کیا حال ہوا بعد میں شبیر کے گھر کا
 کچھ حال بتا مجھ کو اسیروں کے سفر کا
-کیسا تھا اُجالا بنی ہاشم کے کمر کا
+کیسا تھا اُجالا بنی ہاشم کے قمر کا
 کیا حال تھا اُس وقت شہادت کے اثر کا
 
 ۵
 عابد پہ عروج ایسی مصیبت کی گھڑی تھی
-بیمار تھے اور پائوں میں زنجیر پڑی تھی
+بیمار تھے اور پاؤں میں زنجیر پڑی تھی
 ہر چند کہ مشکل تھی مگر بات بڑی تھی
 کس طرح سے طے کی گئی منزل جو کڑی تھی

@@ -1,49 +1,50 @@
 ---
 title: "اے شامیوں اس شور کی عادی نہیں زینب"
-alternateTitle: "Ay Shamiyon Is Shor"
+alternateTitle: "Ae Shaamiyoṅ Is Shor"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Hassan Mir"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Shamiyon Is Shor"]
 published: false
 romanLyrics: |-
-  Ay shamiyon is shor ki aadi nahi zainab
-  Kyun jashn manate ho ke baaghi nahi zainab
+  Ae shaamiyoṅ is shor ki aadi nahiṅ Zainab
+  Kiuṅ jashn manaate ho ke baaghi nahiṅ Zainab
 
   1
-  Kehte rahe sab log ke shabbir ko maaro
-  Maaro na mere bhai ko kehti rahi zainab
+  Kehte rahe sab log ke Shabbir ko maaro
+  Maaro na mere bhaai ko kehti rahi Zainab
 
   2
-  Shayad kisi bazaar mein bichdi hai sakina
-  Durre bhi layeen maare to badhti nahi zainab
+  Shaayad kisi baazaar mein bichhri hai Sakina
+  Durre bhi layin maare to barhti nahiṅ Zainab
 
   3
-  Amma ki rida choomne lag jaaati hai ro kar
-  Ghar aake bhi bazaar ko bhooli nahi zainab
+  Amma ki rida chumne lag jaati hai ro kar
+  Ghar aa ke bhi baazaar ko bhuli nahiṅ Zainab
 
   4
-  Aa jaaye na abid ko koi maarne waala
-  Zindan mein bhi is khauf se soyi nahi zainab
+  Aa jaaye na Abid ko koi maarne waala
+  Zindaaṅ mein bhi is khauf se soyi nahiṅ Zainab
 
   5
-  Todenge ye patthar kya bhala hausla iska
-  Qasim ke janaze pe bhi bikhri nahi zainab
+  Toreṅ ge ye patthar kya bhala hausla is ka
+  Qasim ke janaaze pe bhi bikhri nahiṅ Zainab
 
   6
-  Ab karni hai sajjad ki tujhko hi hifazat
-  Pehre pe tere ab tera bhai nahi zainab
+  Ab karni hai Sajjad ki tujh ko hi hifaazat
+  Pehre pe tere ab tera bhaai nahiṅ Zainab
 
   7
-  Zakhmon ki rida odh ke is tarha se soyi
-  Sajjad jagate rahe jaagi nahi zainab
+  Zakhmoṅ ki rida orh ke is tarah se soyi
+  Sajjad jagaate rahe jaagi nahiṅ Zainab
 
   8
-  Chehlum ke liye bhai ke phir shaam bulana
-  Ye sirf tere mir ki arzi nahi zainab
+  Chehlum ke liye bhaai ke phir Shaam bulaana
+  Ye sirf tere Mir ki arzi nahiṅ Zainab
 # source_id: nohayonline:0d40837f5d2b3c87bd41
 # source_url: https://www.nohayonline.com/details_content.php?id=3626
 # raw_sha256: e500bfb9f37f7719b69fcb7916e200b03604effe847e0a04f43cc2a717117778
@@ -65,20 +66,20 @@ romanLyrics: |-
 
 ۴
 آ جائے نہ عابد کو کوئی مارنے والا
-زنداں میں بھی اس خوف سے سوی نہیں زینب
+زنداں میں بھی اس خوف سے سوئی نہیں زینب
 
 ۵
 توڑیں گے یہ پتھر کیا بھلا حوصلہ اس کا
 قاسم کے جنازے پہ بھی بکھری نہیں زینب
 
 ۶
-اب کرنی ہے سجاد کی تجھکو ہی حفاظت
+اب کرنی ہے سجاد کی تجھ کو ہی حفاظت
 پہرے پہ تیرے اب تیرا بھائی نہیں زینب
 
 ۷
-زخموں کی ردا اوڑھ کے اس طرح سے سوی
-سجاد جگاتے رہے جا گی نہیں زینب
+زخموں کی ردا اوڑھ کے اس طرح سے سوئی
+سجاد جگاتے رہے جاگی نہیں زینب
 
 ۸
-چہلم کے لئے بھای کے پھر شام بلانا
+چہلم کے لئے بھائی کے پھر شام بلانا
 یہ صرف تیرے میر کی عرضی نہیں زینب

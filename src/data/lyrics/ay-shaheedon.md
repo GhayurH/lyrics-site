@@ -1,41 +1,42 @@
 ---
 title: "لو سلامی راہ حق کے جانثاروں اے شہیدوں"
-alternateTitle: "Ay Shaheedon"
+alternateTitle: "Ae Shahidoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Shaheedon"]
 published: false
 romanLyrics: |-
-  Lo salaami raah e haq ke jaanisaron ay shaheedon
-  Bekafan aur sar bureeda be-mazaron ay shaheedon
+  Lo salaami raah-e-haq ke jaanisaaroṅ ae shahidoṅ
+  Bekafan aur sar burida bemazaaroṅ ae shahidoṅ
 
   1
-  Gulsitan e deen ki saari hai baharein bas tumhi se
-  Aasman e haq ke roshan chaand taaron ay shaheedon
+  Gulistaan-e-din ki saari hai bahaareṅ bas tumhiṅ se
+  Aasmaan-e-haq ke roshan chaand taaroṅ ae shahidoṅ
 
   2
   Tum ne apne sar kata kar laaj rakhi hai wafa ki
-  Fatema o murtaza ke ay saharon ay shaheedon
+  Fatema o Murtaza ke ae sahaaroṅ ae shahidoṅ
 
   3
-  Bekafan laashon ko chadar garm reti ne udaayi
-  Ran mein quran ke bikhre huwe paaron ay shaheedon
+  Bekafan laashoṅ ko chaadar garm reti ne uraayi
+  Ran mein Quraan ke bikhre hue paaroṅ ae shahidoṅ
 
   4
-  Tum se seekha hai zamane ne itaa’at ka kareena
-  Ay gulistan e imamat ki baharon ay shaheedon
+  Tum se sikha hai zamaane ne itaaat ka qarina
+  Ae gulistaan-e-imamat ki bahaaroṅ ae shahidoṅ
 
   5
-  Raunak e baagh e nabuwat khushboo e jism e imamat
-  Azm o eesaar o wafa ke shaahkaron ay shaheedon
+  Raunaq-e-baagh-e-nabuwat khushbu-e-jism-e-imamat
+  Azm o isaar o wafa ke shaahkaaroṅ ae shahidoṅ
 
   6
-  Wo ho safdar ya ho mazhar aaj tak tum pe hai naazan
-  Tum ho quran e wafa ke maah paaron ay shaheedon
+  Wo ho Safdar ya ho Mazhar aaj tak tum pe hai naazaaṅ
+  Tum ho Quraan-e-wafa ke maah paaroṅ ae shahidoṅ
 # source_id: nohayonline:ec5161262acc32f83a0e
 # source_url: https://www.nohayonline.com/details_content.php?id=2832
 # raw_sha256: ab52ab3d62d76be3b1e8a987564d6c937aece7a43fef4f3832d6634dc2c366e8
@@ -49,7 +50,7 @@ romanLyrics: |-
 
 ۲
 تم نے اپنے سر کٹا کر لاج رکھی ہے وفا کی
-فاطمہ و مرتظی کے اے سہاروں اے شہیدوں
+فاطمہ و مرتضیٰ کے اے سہاروں اے شہیدوں
 
 ۳
 بیکفن لاشوں کو چادر گرم ریتی نے اڑائی
