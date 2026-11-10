@@ -1,5 +1,5 @@
 ---
-title: ایسا لگتا ہے حسن دو بار کفناے گےء
+title: ایسا لگتا ہے حسن دو بار کفنائے گئے
 alternateTitle: Aisa Lagta Hai
 language: Urdu
 lang: ur
@@ -12,10 +12,10 @@ published: false
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Aisa lagta hai Hasan do baar kafnae gaye
+  Soch kar phatta hai dil kitne sitam dhae gaye
 
   1
-  Soch kar phatta hai dil kitne sitam dhae gaye
-  Tukre tukre zehr de kar pehle kar dala jigar
+  Tukre tukre zehr de kar pehle kar daala jigar
   Baad mein ye zulm bhi dhaya gaya mazlum par
   Qabr tak jaane se roka tir barsae gaye
 
@@ -26,16 +26,16 @@ romanLyrics: |-
 
   3
   Zabt kis dil se kiya ahd-e-wafa ke paas ne
-  Jaane kitni baar ulti aastin Abbas ne
+  Jaane kitni baar ulti aastiṅ Abbas ne
   Wo to kahiye Hazrat-e-Shabbir samjhae gaye
 
   4
   Kya kisi ke saath pehle bhi kabhi aisa hua
   Kya kisi ko dafn karne se kahiṅ roka gaya
-  Koi to batlae kiun ye zulm dohrae gaye
+  Koi to batlae kiuṅ ye zulm dohrae gaye
 
   5
-  Ahmad-e-Mukhtar khud naqa bane jis ke liye
+  Ahmad-e-Mukhtar khud naaqa bane jis ke liye
   Apni zulfeṅ haath mein de kar chale jis ke liye
   Haye us ki laash pe patthar bhi barsae gaye
 
@@ -50,13 +50,13 @@ romanLyrics: |-
   Khun tapakta tha badan se ghar mein jab lae gaye
 
   8
-  Nana ke pehlu mein mil jaati agar do gaz zamin
-  Chain se marqad mein so jaata ye Jannat ka makin
-  Kiun na haqdaroṅ ka haq aakhir na dilwae gaye
+  Naana ke pehlu mein mil jaati agar do gaz zamiṅ
+  Chain se marqad mein so jaata ye Jannat ka makiṅ
+  Kiuṅ na haqdaroṅ ka haq aakhir na dilwae gaye
 
   9
-  Dastan-e-ranj o gham Asif karuṅ kaisa bayan
-  Dar satata hai ye Aamir gir na jae asmaṅ
+  Daastaan-e-ranj o gham Asif karuṅ kaise bayaaṅ
+  Dar sataata hai ye Aamir gir na jae aasmaaṅ
   Aqraba maiyyat Hasan ki lae le jae gaye
 # source_id: nohayonline:7cb9ca4e53f8f9cc7769
 # source_url: https://www.nohayonline.com/details_content.php?id=3481
@@ -66,9 +66,9 @@ romanLyrics: |-
 # raw_sha256: 00e84b0b0b4936930de5797804eb5669b189f889fe28908017e5c3c77ac164af
 ---
 ایسا لگتا ہے حسن دو بار کفنائے گئے
+سوچ کر پھٹتا ہے دل کتنے ستم ڈھائے گئے
 
 ۱
-سوچ کر پھٹتا ہے دل کتنے ستم ڈھائے گئے
 ٹکڑے ٹکڑے زہر دے کر پہلے کر ڈالا جگر
 بعد میں یہ ظلم بھی ڈھایا گیا مظلوم پر
 قبر تک جانے سے روکا تیر برسائے گئے
