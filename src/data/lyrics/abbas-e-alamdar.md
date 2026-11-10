@@ -1,25 +1,26 @@
 ---
-title: "کس شیر کی آمد ہے کے رن کانپ رہا ہے"
+title: "کس شیر کی آمد ہے کہ رن کانپ رہا ہے"
 alternateTitle: "Abbas E Alamdar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kis sher ki aamad hai ke ran kaṅp raha hai
-  Ran ek taraf charkh-e-kohan kaṅp raha hai
-  Rustam ka badan zer-e-kafan kaṅp raha hai
-  Har qasr-e-salatin-e-zaman kaṅp raha hai
+  Kis sher ki aamad hai ke ran kaanp raha hai
+  Ran ek taraf charkh-e-kohan kaanp raha hai
+  Rustam ka badan zer-e-kafan kaanp raha hai
+  Har qasr-e-salatin-e-zaman kaanp raha hai
   Shamshir-bakaf dekh ke Haider ke pisar ko
-  Jibril larazte hain samete hue par ko
+  Jibril larazte haiṅ samete hue par ko
   Abbas-e-Alamdar Abbas-e-Alamdar
 
   1
-  Is shaan se islam ke parcham ko uthaya
+  Is shaan se Islam ke parcham ko uthaya
   Sar de diya aur Din-e-Muhammad ko bachaya
   Kya maqsad-e-Shabbir ye tu ne hai bataya
   Ae Sheh ke wafadar ae Abbas-e-Alamdar
@@ -33,7 +34,7 @@ romanLyrics: |-
   3
   Hai ashk-fishaṅ aaj bhi gham mein tere pani
   Ye mashk Sakina ki alam teri nishani
-  Rota hai jahan sun ke tere gham ki kahani
+  Rota hai jahaṅ sun ke tere gham ki kahani
   Ae fauj ke sardar ae Abbas-e-Alamdar
 
   4
@@ -43,7 +44,7 @@ romanLyrics: |-
   Zainab ke madadgar ae Abbas-e-Alamdar
 
   5
-  Tum ko na pukarein to bhala kis ko pukarein
+  Tum ko na pukareṅ to bhala kis ko pukareṅ
   Hai khushk bhatiji ka gala pyaas ke maare
   Roti hai Sakina jo kabhi gham mein tumhare
   Hanste the sitamgar ae Abbas-e-Alamdar
@@ -55,10 +56,10 @@ romanLyrics: |-
   Ae fauj ke sardar ae Abbas-e-Alamdar
 
   7
-  Karte hain dua Ahmad o Mohsin yehi paiham
+  Karte haiṅ dua Ahmad o Mohsin yehi paiham
   Haathoṅ pe uthaye hue Abbas ka parcham
   Jaeṅge ziyarat ko teri Karbobala hum
-  Hum tere hain ghamkhwar ae Abbas-e-Alamdar
+  Hum tere haiṅ ghamkhwar ae Abbas-e-Alamdar
 # source_id: nohayonline:6ce8f3ff673f3e9a5e63
 # source_url: https://www.nohayonline.com/details_content.php?id=1751
 # raw_sha256: 79f619b826c0b0f9fb8ae6f65986b38d22cde1908bd6c2e28848b2013978fc7f
@@ -97,13 +98,13 @@ romanLyrics: |-
 زینب کے مددگار اے عباسِ علمدار
 
 ۵
-تم کو نہ پُکارے تو بھلا کس کو پُکارے
+تم کو نہ پُکاریں تو بھلا کس کو پُکاریں
 ہے خشک بھتیجی کا گلا پیاس کے مارے
 روتی ہے سکینہ جو کبھی غم میں تمہارے
 ہنستے تھے ستمگار اے عباسِ علمدار
 
 ۶
-عباس کے لاشے پہ یہ کہتی رہے سرور
+عباس کے لاشے پہ یہ کہتے رہے سرور
 رُخصت ہوئی بینائی جو رُخصت ہوئے اکبر
 توڑی ہے کمر غم نے تیرے میرے برادر
 اے فوج کے سردار اے عباسِ علمدار

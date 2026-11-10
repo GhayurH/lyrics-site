@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Raza Ali Khan"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -16,7 +17,7 @@ romanLyrics: |-
   Zainab ye fughaṅ Abbas Jari
 
   1
-  Hum ghairat-e-Haider shan-e-Ali
+  Hum ghairat-e-Haider shaan-e-Ali
   Puchho to behan par kya guzri
   Utho main dikhane aayi huṅ
   Bazu ke nishaṅ Abbas Jari
@@ -24,7 +25,7 @@ romanLyrics: |-
   2
   Di maine sada bhaiya tum ko
   Amma ne pukara tha tum ko
-  Jab pyase galay par sarwar ke
+  Jab pyase gale par Sarwar ke
   Khanjar tha ravaṅ Abbas Jari
 
   3
@@ -34,7 +35,7 @@ romanLyrics: |-
   Jab laash-e-jawaṅ Abbas Jari
 
   4
-  Jab Shaam-e-Ghariban khaime jale
+  Jab Shaam-e-Gharibaṅ khaime jale
   Jab hum pe baraste the kore
   Saahil pe suni hogi tum ne
   Bewaoṅ ki fughaṅ Abbas Jari
@@ -42,35 +43,35 @@ romanLyrics: |-
   5
   Shabbir ke dil par kya guzri
   Kuchh tum ko khabar iski na hui
-  Tooti mere akbar ke dil mein
+  Tuti mere Akbar ke dil mein
   Jab nok-e-sinaṅ Abbas Jari
 
   6
   Bemaqna o chadar Aal-e-Nabi
-  Bazar mein darbaroṅ mein gayi
-  Har lamha tumhe deti thi sada
+  Bazar mein darbaroṅ mein gayiṅ
+  Har lamha tumheṅ deti thi sada
   Ashkoṅ ki zabaṅ Abbas Jari
 
   7
-  Tum naaz uthaate thay jis ke
+  Tum naaz uthate the jis ke
   Hum qaid mein usko chhor aaye
   Ta hashr tumhari pyari ka
   Zindaṅ hai makaṅ Abbas Jari
 
   8
-  Ae sher-e-dilawar kya bayaṅ
+  Ae sher-e-dilawar kya ho bayaṅ
   Phatta hai jigar rukti hai zabaṅ
   Pamaal hua tanha ran mein
   Zehra ka nishaṅ Abbas Jari
 
   9
   Bano ne jo Asghar ka laasha
-  Shabbir ke haathon par dekha
-  Manzar tha qayamt ka bhaiya
+  Shabbir ke haathoṅ par dekha
+  Manzar tha qayamat ka bhaiya
   Mahshar ka samaṅ Abbas Jari
 
   10
-  Jawed tha ek mahshar barpa
+  Jaaved tha ek mahshar barpa
   Ghazi ka larazta tha rauza
   Awaz jo deti thi Zainab
   Ae sher-e-jawaṅ Abbas Jari
@@ -105,7 +106,7 @@ romanLyrics: |-
 ۴
 جب شام غریباں خیمے جلے
 جب ہم پہ برستے تھے کوڑے
-ساحل پہ سنی ہوگی تم‌نے
+ساحل پہ سنی ہوگی تم نے
 بیوؤں کی فغاں عباس جری
 
 ۵
@@ -121,7 +122,7 @@ romanLyrics: |-
 اشکوں کی زباں عباس جری
 
 ۷
-تم‌ ناز اٹھاتے تھے جس کے
+تم ناز اٹھاتے تھے جس کے
 ہم قید میں اس کو چھوڑ آئے
 تا حشر تمہاری پیاری کا
 زنداں ہے مکاں عباس جری

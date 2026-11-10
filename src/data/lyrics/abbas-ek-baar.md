@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -22,48 +23,48 @@ romanLyrics: |-
 
   1
   Shabbir ko bhai tu ne kaha
-  Bhai ka kiya arman pura
-  Armaan mera poora kar de abbas
+  Bhai ka kiya armaan pura
+  Armaan mera pura kar de Abbas
 
   2
   Ae laal mere maaṅ hone ka
   Har farz nibhaya hai maine
-  Shabbir ke haathon se tujhko
-  Jhoola bhi jhulaya hai maine
-  Ehsaan tera hoga mujhpe abbas
+  Shabbir ke haathoṅ se tujhko
+  Jhula bhi jhulaya hai maine
+  Ehsaan tera hoga mujh pe Abbas
 
   3
   Zakhmi thi bohat phir bhi tujhse
-  Is maa ko mohabbat thi itni
+  Is maaṅ ko mohabbat thi itni
   Ek haath tha mera pehlu pe
-  Ek haath se kurta seeti thi
-  Sab zakhm mere bhar jayenge abbas
+  Ek haath se kurta siti thi
+  Sab zakhm mere bhar jaeṅge Abbas
 
   4
   Jis waqt gira tu ghore se
   Main dekh rahi thi wo manzar
-  Aaghosh mein tujhko rote huwe
+  Aaghosh mein tujhko rote hue
   Maine hi sambhala tha barh kar
   Kab dur hui huṅ main tujhse Abbas
 
   5
   Bachchoṅ ke liye jab darya se
-  Mashkeeza bhara pani na piya
+  Mashkiza bhara pani na piya
   Seh roz ka pyasa ho kar bhi
-  Kya khoob nibhayi tu ne wafa
+  Kya khub nibhayi tu ne wafa
   Ae tishna dahan mere pyase Abbas
 
   6
   Teri aankh se teer nikaluṅ main
-  Tu dekhle bhai ka chehra
-  Ye waqt e judaai hai dil mein
+  Tu dekh le bhai ka chehra
+  Ye waqt-e-judai hai dil mein
   Hasrat na rahe koi beta
   Aa khun hata duṅ aankhoṅ se Abbas
 
   7
   Khaime mein Sakina pyasi hai
   Ye baat tujhe tarpati hai
-  Is hal mein bhi tujhko haaye
+  Is haal mein bhi tujhko haaye
   Zainab ki rida yaad aati hai
   Aa tujhko laga luṅ sine se Abbas
 
@@ -84,7 +85,7 @@ romanLyrics: |-
 وقتِ رخصت حسین کو بھائی
 جب علمدار نے کہا ہوگا
 سوچتا ہوں کہ روح زہرا نے
-روکے اس وقت یہ کہا ہوگا
+رو کے اس وقت یہ کہا ہوگا
 عباس عباس
 ایک بار مجھے بھی ماں کہہ دے
 
@@ -95,7 +96,7 @@ romanLyrics: |-
 
 ۲
 اے لال میرے ماں ہونے کا
-ہر فرض نبھائیا ہے میں نے
+ہر فرض نبھایا ہے میں نے
 شبیر کے ہاتھوں سے تجھ کو
 جھولا بھی جھلایا ہے میں نے
 احسان تیرا ہوگا مجھ پہ عباس
@@ -117,7 +118,7 @@ romanLyrics: |-
 ۵
 بچوں کے لئے جب دریا سے
 مشکیزہ بھرا پانی نہ پیا
-سہہ روز کا پیاسا ہو کر بھی
+سہ روز کا پیاسا ہو کر بھی
 کیا خوب نبھائی تو نے وفا
 اے تشنہ دہن میرے پیاسے عباس
 
@@ -125,13 +126,13 @@ romanLyrics: |-
 تیری آنکھ سے تیر نکالوں میں
 تو دیکھ لے بھائی کا چہرہ
 یہ وقت جدائی ہے دل میں
-حسرت نہ رکھے کوی بیٹا
+حسرت نہ رکھے کوئی بیٹا
 آ خون ہٹا دوں آنکھوں سے عباس
 
 ۷
 خیمے میں سکینہ پیاسی ہے
 یہ بات تجھے تڑپاتی ہے
-اس حال میں بھی تجھ کو ہاے
+اس حال میں بھی تجھ کو ہائے
 زینب کی ردا یاد آتی ہے
 آ تجھ کو لگا لوں سینے سے عباس
 
