@@ -1,6 +1,6 @@
 ---
 title: "عجیب ہے داستانِ غم عجیب ہے"
-alternateTitle: "Ajeeb Hai Dastane"
+alternateTitle: "Ajib Hai Dastaan-e-Gham"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ aliases: []
 published: false
 reciter: "Sachey Bhai"
 romanLyrics: |-
-  Ajeeb hai dastan-e-gham ajeeb hai
-  Nabi ki itrat pe ye sitam ajeeb hai
+  Ajib hai dastaan-e-gham ajib hai
+  Nabi ki itrat pe ye sitam ajib hai
 
   1
-  Bhulne wali baat nahi thi
+  Bhulne wali baat nahiṅ thi
   Ghar ghar is ka charcha tha
   Ye to kal ki baat thi khud apni
   Aankhoṅ se dekha tha
@@ -25,13 +25,13 @@ romanLyrics: |-
   2
   Ek hi nur ke do tukre haiṅ
   Ek Muhammad ek Ali
-  Donoṅ haiṅ mahbub-e-Ilahi
+  Donoṅ hi mahbub-e-Ilahi
   Donoṅ ko Meraj hui
-  Ek ko Haq ne kar diya zahir
+  Ek ko Haq ne kar diya zaahir
   Ek parde mein chhupa diya
 
   3
-  Zindabad hai jazba-e-matam
+  Zindabad hai jazba-e-maatam
   Mehnat ab rang lai hai
   Chaudah sau sala nafrat
   Ab khul kar samne aai hai
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   5
   Haathoṅ mein hai Shimr ke khanjar
-  Zanu ke niche hai Husain
+  Zaanoṅ ke niche hai Husain
   Khaime ke dar par karti hai
   Zainab sar khole hue bain
   Baba ab tum kab aaoge
@@ -65,10 +65,10 @@ romanLyrics: |-
   7
   Aise mein ek bachchi nikli
   Khaimoṅ se ghabrai hui
-  Khun tapakta tha kanoṅ se
+  Khun tapakta tha kaanoṅ se
   Rukh pe yatimi chhai hui
-  Kaṅp rahi thi khauf se wo
-  Aur Shimr tamache marta tha
+  Kaanp rahi thi khauf se wo
+  Aur Shimr tamaanche maarta tha
 
   8
   Daman mein thi aag lagi aur
@@ -80,11 +80,11 @@ romanLyrics: |-
 
   9
   Bain Sakina ke sun sun kar
-  Tharrati thi lash-e-Husain
-  Sahil par ek lasha
+  Tharraati thi laash-e-Husain
+  Saahil par ek laasha
   Uth uth parta tha ho kar bechain
   Aati thi reh reh ke sada jab
-  Aa jao Aa jao Chacha
+  Aa jao aa jao Chacha
 # source_id: nohayonline:522a2eb0eb507b6b706c
 # source_url: https://www.nohayonline.com/details_content.php?id=462
 # raw_sha256: 9cbbfc46ee2d41d7f5cf18845d8212ca102781e72cc19cfe8a16962433f90c4e

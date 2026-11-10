@@ -1,6 +1,6 @@
 ---
 title: "حسینیوں یہ تم پہ ہو گیا لازم جو تم حسینی ہو"
-alternateTitle: "Ajal Hussain Ki"
+alternateTitle: "Ajal Husain Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,85 +11,85 @@ aliases: []
 published: false
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
-  Husainiyo ye tum pe ho gaya lazim jo tum Husaini ho
+  Husainiyoṅ ye tum pe ho gaya laazim jo tum Husaini ho
   Ajal Husain ki surat jiyo Ali ki tarah
 
   1
-  Husainiyo ye tumheṅ Karbala batati hai
+  Husainiyoṅ ye tumheṅ Karbala bataati hai
   Jo qaum apne shahidoṅ ko bhul jaati hai
-  Qadam qadam pe ajal se fareb khati hai
+  Qadam qadam pe ajal se fareb khaati hai
   Phir aisi qaum ki qismat mein besabati hai
-  Husainiyo karo jo pairawi to Hurr ki pairawi ki tarah
+  Husainiyoṅ karo jo pairawi to Hurr ki pairawi ki tarah
 
   2
   Koi Husaini kabhi maut se nahiṅ darta
-  Ali ka naam kabhi besukun nahiṅ karta
+  Ali ka naam kabhi besukuṅ nahiṅ karta
   Ali ke bughz ka jo zakhm hai nahiṅ bharta
-  Ali ka manne wala kabhi nahiṅ marta
-  Husainiyo jo in pe marta hai wo hai shahid hi ki tarah
+  Ali ka maanne wala kabhi nahiṅ marta
+  Husainiyoṅ jo in pe marta hai wo hai shahid hi ki tarah
 
   3
-  Ali ke bachchoṅ ko jo maut se darata hai
-  Wo apni fikr-e-najis se fareb khata hai
-  Ali ki raah se jo bhi qadam hatata hai
+  Ali ke bachchoṅ ko jo maut se daraata hai
+  Wo apni fikr-e-najis se fareb khaata hai
+  Ali ki raah se jo bhi qadam hataata hai
   Nabi ka beta bhi tufan mein dub jaata hai
-  Husainiyo Nabi ke bete agar ho raho Nabi ki tarah
+  Husainiyoṅ Nabi ke bete agar ho raho Nabi ki tarah
 
   4
-  Ali ke jine ka andaz kya nirala hai
-  Ali ne maut ko bhi rizq de ke pala hai
+  Ali ke jine ka andaaz kya niraala hai
+  Ali ne maut ko bhi rizq de ke paala hai
   Khuda ke ghar mein shahadat bara hawala hai
-  Ali ne maut ko bhi mushkiloṅ mein dala hai
-  Husainiyo Hasan Husain bhi zinda rahe inhi ki tarah
+  Ali ne maut ko bhi mushkiloṅ mein daala hai
+  Husainiyoṅ Hasan Husain bhi zinda rahe inhi ki tarah
 
   5
   Jo haqparast hai wo sab ghulam-e-Haider haiṅ
   Nazar mein Badr o Uhad ke tamam manzar haiṅ
-  Jo haqparast nahiṅ buzdilan-e-Khaibar haiṅ
+  Jo haqparast nahiṅ buzdilaan-e-Khaibar haiṅ
   Jo haqparast hai un ke jale hue ghar haiṅ
-  Husainiyo shaur-e-haq ki zarurat hai Qambari ki tarah
+  Husainiyoṅ shaur-e-haq ki zarurat hai Qambari ki tarah
 
   6
   Inhi ke dar pe ajal aa ke ho gayi majbur
-  Hayat o maut ka banta hai in ke ghar manshur
+  Hayaat o maut ka banta hai in ke ghar manshur
   Inhi ke laal banate haiṅ sabr ka dastur
   Munafiqat hai hamesha dar-e-Husain se dur
-  Husainiyo huquq rakhte haiṅ saare ye dawari ki tarah
+  Husainiyoṅ huquq rakhte haiṅ saare ye daawari ki tarah
 
   7
-  Sanad ghulami ki de de to khuld mil jae
+  Sanad ghulaami ki de de to khuld mil jae
   Ye muskurae to murjhaya phul khil jae
-  Zamin ko ghaiz se dekhe falak bhi hil jae
-  Yahaṅ se maṅgne dharkan Nabi ka dil jae
-  Husainiyo karim sab haiṅ yahaṅ Rab-e-Akbari ki tarah
+  Zamiṅ ko ghaiz se dekhe falak bhi hil jae
+  Yahaṅ se maangne dharkan Nabi ka dil jae
+  Husainiyoṅ karim sab haiṅ yahaṅ Rab-e-Akbari ki tarah
 
   8
-  Ali se zindagi qatil Ali ka kya chhine
-  Ke jaam-e-shirin jise dast-e-Haideri se mile
-  Ali ne nind se bedar kar diya ho jise
+  Ali se zindagi qaatil Ali ka kya chhine
+  Ke jaam-e-shiriṅ jise dast-e-Haideri se mile
+  Ali ne nind se bedaar kar diya ho jise
   Ali se zindagi wo chhinta bhala kaise
-  Husainiyo ajal pe kaun gira dahr mein Ali ki tarah
+  Husainiyoṅ ajal pe kaun gira dahr mein Ali ki tarah
 
   9
   Ye kaun jaata hai marne lahu lahu hai badan
   Faras ke dosh pe suraj ki jaa rahi hai kiran
-  Jalal kehta hai ye shakhs to hai mautshikan
+  Jalaal kehta hai ye shakhs to hai mautshikan
   Tarap rahi hai dar-e-khaima pe ye kis ki behan
-  Husainiyo ye kainat larazti hai sarsari ki tarah
+  Husainiyoṅ ye kaainaat larazti hai sarsari ki tarah
 
   10
   Ye kis ke halq pe ruk ruk ke tegh chalti hai
   Hayat roti hai aur maut haath malti hai
   Zamin-e-garm se ek aag si nikalti hai
   Ye kis ki maaṅ hai jo girti hai aur sambhalti hai
-  Husainiyo ye kainat pe chalti hai kya chhuri ki tarah
+  Husainiyoṅ ye kaainaat pe chalti hai kya chhuri ki tarah
 
   11
-  Hayat o maut ka ye falsafa diya kis ne
+  Hayaat o maut ka ye falsafa diya kis ne
   Ajal ka jaam Khuda ke liye piya kis ne
   Ye marhala tha kathan tai magar kiya kis ne
   Rehaan Azmi mar ke bata diya kis ne
-  Husainiyo hayat o maut hai besar Husain hi ki tarah
+  Husainiyoṅ hayaat o maut hai besar Husain hi ki tarah
 # source_id: nohayonline:55ae22a164b80c771036
 # source_url: https://www.nohayonline.com/details_content.php?id=3029
 # raw_sha256: 80513a2abec5858b3cb648e9575e153699b505d2af73324d8f1765773a729f43

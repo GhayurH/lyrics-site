@@ -11,19 +11,19 @@ aliases: []
 published: false
 reciter: "Faazil Lakhnavi"
 romanLyrics: |-
-  Ajal se bachane ko aṅsu bahae
+  Ajal se bachane ko aansu bahae
   Magar maaṅ ki godi mein Asghar na aae
 
   1
   Ye himmat thi Asghar ki dunya pe jae
-  Haṅsi aa gayi aur aṅsu na aae
+  Hansi aa gayi aur aansu na aae
 
   2
-  Wo sahil par Abbas bharte haiṅ pani
+  Wo saahil par Abbas bharte haiṅ paani
   Magar behti maujoṅ se daman bachae
 
   3
-  Chale aao Asghar tarapti hai madar
+  Chale aao Asghar tarapti hai maadar
   Akela hai jhula kahaṅ tak jhulae
 
   4
@@ -31,7 +31,7 @@ romanLyrics: |-
   Ye kya dekhte haiṅ nigaheṅ jhukae
 
   5
-  Ajal puchhti hai Shah-e-Din se ran mein
+  Ajal puchhti hai Shah-e-Diṅ se ran mein
   Kise la rahe haiṅ aba mein chhupae
 # source_id: nohayonline:9ddf54c2fbc921850548
 # source_url: https://www.nohayonline.com/details_content.php?id=1198
