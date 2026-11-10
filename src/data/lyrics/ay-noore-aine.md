@@ -1,59 +1,60 @@
 ---
-title: "اے نورِ عین فاطمہ زہرا نہ جایےء"
-alternateTitle: "Ay Noore Aine"
+title: "اے نورِ عین فاطمہ زہرا نہ جائیے"
+alternateTitle: "Ae Nur-e-Ain-e-Fatema Zehra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sadat Ali Khan"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay noor e ain e fatema zehra na jaaiye
-  Hum bekason ko chod ke aaqa na jaaiye
+  Ae nur-e-ain-e-Fatema Zehra na jaaiye
+  Hum bekasoṅ ko chhor ke aaqa na jaaiye
 
   1
-  Maula tumhare aane se rounaq gharon may thi
-  Din raat gham tumhara kiya karte thay sabhi
-  Muddat ye do mahino ki matam may kat gayi
-  Rounaq ki jaah hai aaj udaasi baras rahi
+  Maula tumhaare aane se raunaq gharoṅ mein thi
+  Din raat gham tumhaara kiya karte the sabhi
+  Muddat ye do mahinoṅ ki maatam mein kat gai
+  Raunaq ki jaa hai aaj udaasi baras rahi
 
   2
-  Maula tumhare taazia khaane udaas hai
-  Jitne tumhare shia hai sab be hawaas hai
-  Dhaaras ye thi ke aap ghulamon ke paas hai
-  Ab aap jaa rahe hai to hum sab hiraas hai
+  Maula tumhaare taaziya khaane udaas haiṅ
+  Jitne tumhaare Shia haiṅ sab behawaas haiṅ
+  Dhaaras ye thi ke aap ghulaamoṅ ke paas haiṅ
+  Ab aap jaa rahe haiṅ to hum sab hiraas haiṅ
 
   3
-  Maula aza ki bazm may aati thi fatema
-  Zehmat ye do mahine uthaati thi fatema
-  Aansu hamare saath bahaati thi fatema
-  Hum ko duayein de ke hi jaati thi fatema
+  Maula aza ki bazm mein aati thi Fatema
+  Zehmat ye do mahine uthaati thi Fatema
+  Aansu hamaare saath bahaati thi Fatema
+  Hum ko duaaeṅ de ke hi jaati thi Fatema
 
   4
-  Maula ab aap agle baras hind aayenge
-  Jeete hai rone waale to phir tum ko payenge
-  Matam karenge aur alam bhi uthayenge
-  Waada karo ke aayenge aur sab ko layenge
+  Maula ab aap agle baras Hind aayeṅge
+  Jite haiṅ rone wale to phir tum ko paayeṅge
+  Maatam kareṅge aur alam bhi uthaayeṅge
+  Waada karo ke aayeṅge aur sab ko laayeṅge
 
   5
-  Ay jaan e mustafa o ali shaah e mashraqain
-  Lillaah sunte jaaiye maula hamare bain
-  Ehsaas keh raha hai ke ay fatema ke chain
-  Jee bhar ke hum na kar sake matam tera hussain
+  Ae jaan-e-Mustafa o Ali shaah-e-mashraqain
+  Lillaah sunte jaaiye maula hamaare bain
+  Ehsaas keh raha hai ke ae Fatema ke chain
+  Ji bhar ke hum na kar sake maatam tera Husain
 # source_id: nohayonline:b2ec27cff4831e5273de
 # source_url: https://www.nohayonline.com/details_content.php?id=1955
 # raw_sha256: 4cf969a0ab9d9ad24144ba88715d15c3f30658d217a45afe8acb337144e7727d
 ---
 
-اے نورِ عین فاطمہ زہرا نہ جایےء
-ہم‌ بیکسوں کو چھوڑ کے آقا نہ جایےء
+اے نورِ عین فاطمہ زہرا نہ جائیے
+ہم بیکسوں کو چھوڑ کے آقا نہ جائیے
 
 ۱
 مولا تمہارے آنے سے رونق گھروں میں تھی
 دن رات غم تمہارا کیا کرتے تھے سبھی
-مدت یہ دو مہینوں کی ماتم میں کٹ گیء
+مدت یہ دو مہینوں کی ماتم میں کٹ گئی
 رونق کی جا ہے آج اداسی برس رہی
 
 ۲
@@ -65,17 +66,17 @@ romanLyrics: |-
 ۳
 مولا عزا کی بزم میں آتی تھی فاطمہ
 زحمت یہ دو مہینے اٹھاتی تھی فاطمہ
-آنسوں ہمارے ساتھ بہاتی تھی فاطمہ
+آنسو ہمارے ساتھ بہاتی تھی فاطمہ
 ہم کو دعائیں دے کے ہی جاتی تھی فاطمہ
 
 ۴
-مولا اب آپ اگلے برس ہند آینگے
-جاتے ہیں رونے والے تو پھر تم کو پاینگے
-ماتم کریں گے اور الم بھی اٹھاینگے
-وعدہ کرو کہ آینگے اور سب کو لاینگے
+مولا اب آپ اگلے برس ہند آئیں گے
+جاتے ہیں رونے والے تو پھر تم کو پائیں گے
+ماتم کریں گے اور علم بھی اٹھائیں گے
+وعدہ کرو کہ آئیں گے اور سب کو لائیں گے
 
 ۵
 اے جان مصطفیٰ و علی شاہ مشرقین
-لللہ سنتے جایےء مولا ہمارے بین
+للہ سنتے جائیے مولا ہمارے بین
 احساس کہہ رہے ہیں کہ اے فاطمہ کے چین
 جی بھر کے ہم نہ کر سکے ماتم تیرا حسین
