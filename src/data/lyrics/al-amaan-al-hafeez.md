@@ -11,25 +11,27 @@ aliases: []
 published: false
 reciter: "Ali Yazdan"
 romanLyrics: |-
-  Aamad hui jo bar sar-e-maidan Husain ki
+  Aamad hui jo bar sar-e-maidaṅ Husain ki
   Aur dilbar-e-Rasul Shah-e-Mashriqain ki
   Sardar-e-do-jahan Shah-e-Qibla-Qain ki
   Haider ke laal Fatima Zehra ke chain ki
   Shabbir ne shuru kiya apne khitab ko
   Sun kar pasina aane laga aaftab ko
-  Al aman al hafiz al aman al hafiz
+  Al amaṅ al hafiz al amaṅ al hafiz
 
   1
   Jis ghari jalwanuma Shah ki talwar hui
   Fauj-e-aada pe chali bar sar-e-kuffar hui
-  Sirf phirti hui maidan mein nazar aai ajal
+  Sirf phirti hui maidaṅ mein nazar aai ajal
   Ek sada thi jo zaban-e-dar o diwar hui
+  Al amaṅ al hafiz al amaṅ al hafiz
 
   2
   Pal mein chamki sar sar pal mein sar sani
   Jism ke shahr mein har simt hui virani
   Chhor kar ruhoṅ ne jismoṅ ko chuni rah-e-firaq
   Thi sar-e-dasht sada thehro Ali ke jaani
+  Al amaṅ al hafiz al amaṅ al hafiz
 
   3
   Tab ran mein Zulfiqar-e-Ali jalwagar hui
@@ -42,37 +44,42 @@ romanLyrics: |-
   4
   Dast-e-Shabbir ne jab ghaiz mein toli talwar
   Par samette hue pichhe hate Jibril ek baar
-  Itni dehshat hui taari ke laraz uthi zamin
+  Itni dehshat hui taari ke laraz uthi zamiṅ
   Har taraf gunj uthi dasht-e-wigha mein ye pukar
+  Al amaṅ al hafiz al amaṅ al hafiz
 
   5
   Apni haibat dil-e-batil pe raqam karti hui
   Hasti-e-Ahl-e-Sitamgar ko adam karti hui
   Apni thokar pe liye hai sar-e-maidan-e-wigha
   Jhumti hai sar-e-batil ko qalam karti hui
+  Al amaṅ al hafiz al amaṅ al hafiz
 
   6
   Jo bhi panje mein chala aaya wo fin nar hua
   Dasht kuchh der mein hi lashoṅ ka ambar hua
   Us taraf kasrat-e-afwaj mein aai qillat
   Shah ki tegh ka rukh jis taraf ek baar hua
+  Al amaṅ al hafiz al amaṅ al hafiz
 
   7
-  Surmaoṅ ko zamin doz kiye jaati hai
-  Khun-e-aghyar-e-Shah-e-Din piye jaati hai
+  Surmaoṅ ko zamiṅ doz kiye jaati hai
+  Khun-e-aghyar-e-Shah-e-Diṅ piye jaati hai
   Aaj thora sa muyassar hua mauqa is ko
   Fatima Zehra ka badla bhi liye jaati hai
+  Al amaṅ al hafiz al amaṅ al hafiz
 
   8
   Sun ke hatif ki sada Shah ne roki talwar
   Phir hujum-e-sitam aala hua shal se ek baar
-  Zin se su-e-zamin Shah-e-khush-atbar chale
+  Zin se su-e-zamiṅ Shah-e-khush-atbar chale
   God phaila ke ye Zehra ne pukara zinhar
+  Husain Husain Husain Husain
 
   9
-  Husain Husain Husain Husain
   Ye shor hai girya hai ek maaṅ ka ye noha hai
   Har samt fazaoṅ mein bas ek hi nara hai
+  Husain Husain Husain Husain
 
   10
   Bekhata haye tujhe qatl kiya
@@ -81,7 +88,7 @@ romanLyrics: |-
   Aur mazlum tera khushk gala
   Shiddat-e-tashnalabi haye Husain
   Aur zalim ki chhuri haye Husain
-  Khun ugalti hai zamin wawaila
+  Khun ugalti hai zamiṅ wawaila
   Chain Zehra ko nahiṅ wawaila
   Maqtal-e-Shah ka manzar hai ajab
   Sina-e-Shah pe zalim hai ghazab
@@ -91,9 +98,9 @@ romanLyrics: |-
   11
   Bar-e-imdad Ali aae yahaṅ
   Lutne wala hai Nabi ka kunba
-  Katne wala hai Shah-e-Din ka gala
+  Katne wala hai Shah-e-Diṅ ka gala
   Ye sada thi ke qayamat guzri
-  Phir gayi halq-e-Shah-e-Din pe chhuri
+  Phir gayi halq-e-Shah-e-Diṅ pe chhuri
   Karbala roti rahi haye Husain
   Aur maaṅ kehti rahi haye Husain
   Haye Husain Haye Husain
@@ -103,6 +110,7 @@ romanLyrics: |-
   Orh kar gham ki rida sog mein dubi hai faza
   Kaisa manzar tha ajab Dayam o Yazdaṅ ba Khuda
   Ek maaṅ roti thi aur parhti thi ro kar noha
+  Husain Husain Husain Husain
 # source_id: nohayonline:f091a1b319b9e7887b4e
 # source_url: https://www.nohayonline.com/details_content.php?id=1441
 # raw_sha256: b1d4ea2b473505085db4f5237c4d1f6b4714c7a176322a76cc5ca65c6787223d
@@ -120,12 +128,14 @@ romanLyrics: |-
 فوجِ اعدا پہ چلی بر سرِ کفار ہوئی
 صرف پھرتی ہوئی میداں میں نظر آئی اجل
 اک صدا تھی جو زبانِ در و دیوار ہوئی
+الاماں الحفیظ الاماں الحفیظ
 
 ۲
 پل میں چمکی سر سر پل میں سر ثانی
 جسم کے شہر میں ہر سمت ہوئی ویرانی
 چھوڑ کر روحوں نے جسموں کو چنی راہِ فراق
 تھی سرِ دشت صدا ٹھہرو علی کے جانی
+الاماں الحفیظ الاماں الحفیظ
 
 ۳
 تب رن میں ذوالفقارِ علی جلوہ گر ہوئی
@@ -140,35 +150,40 @@ romanLyrics: |-
 پر سمیٹتے ہوئے پیچھے ہٹے جبریل اک بار
 اتنی دہشت ہوئی طاری کہ لرز اٹھی زمیں
 ہر طرف گونج اٹھی دشتِ وغا میں یہ پکار
+الاماں الحفیظ الاماں الحفیظ
 
 ۵
 اپنی ہیبت دلِ باطل پہ رقم کرتی ہوئی
 ہستیِ اہلِ ستمگر کو عدم کرتی ہوئی
 اپنی ٹھوکر پہ لیے ہے سرِ میدانِ وغا
 جھومتی ہے سرِ باطل کو قلم کرتی ہوئی
+الاماں الحفیظ الاماں الحفیظ
 
 ۶
 جو بھی پنجے میں چلا آیا وہ فی النار ہوا
 دشت کچھ دیر میں ہی لاشوں کا انبار ہوا
 اس طرف کثرتِ افواج میں آئی قلت
 شاہ کی تیغ کا رخ جس طرف اک بار ہوا
+الاماں الحفیظ الاماں الحفیظ
 
 ۷
 سورماؤں کو زمیں دوز کیے جاتی ہے
 خونِ اغیارِ شہِ دیں پیے جاتی ہے
 آج تھوڑا سا میسر ہوا موقع اس کو
 فاطمہ زہرا کا بدلہ بھی لیے جاتی ہے
+الاماں الحفیظ الاماں الحفیظ
 
 ۸
 سن کے ہاتف کی صدا شاہ نے روکی تلوار
 پھر ہجومِ ستم اعلیٰ ہوا شل سے اک بار
 زین سے سوئے زمیں شاہِ خوش اتبار چلے
 گود پھیلا کے یہ زہرا نے پکارا زنہار
+حسین حسین حسین حسین
 
 ۹
-حسین حسین حسین حسین
 یہ شور ہے گریہ ہے اک ماں کا یہ نوحہ ہے
 ہر سمت فضاؤں میں بس ایک ہی نعرہ ہے
+حسین حسین حسین حسین
 
 ۱۰
 بے خطا ہائے تجھے قتل کیا
@@ -199,3 +214,4 @@ romanLyrics: |-
 اوڑھ کر غم کی ردا سوگ میں ڈوبی ہے فضا
 کیسا منظر تھا عجب دایم و یزداں بخدا
 ایک ماں روتی تھی اور پڑھتی تھی رو کر نوحہ
+حسین حسین حسین حسین

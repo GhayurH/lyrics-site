@@ -26,13 +26,13 @@ romanLyrics: |-
 
   3
   Dhati rahi sitam pe sitam Ummat-e-Rasul
-  Deti rahi azaṅ-e-wilayat wahaṅ Batul
+  Deti rahi azan-e-wilayat wahaṅ Batul
   Zahra ki baat sunta nahiṅ tha koi jahaṅ
 
   4
   Darbar se jo laut ke Bint-e-Nabi gayi
   Guzre na us maqam se Maula Hasan kabhi
-  Jis kuche mein giri thi zamin par Hasan ki maaṅ
+  Jis kuche mein giri thi zamiṅ par Hasan ki maaṅ
 
   5
   Aabad hoga phir se wo ujra hua dayar
@@ -50,7 +50,7 @@ romanLyrics: |-
   Zainab ke dil se nikli nahiṅ aaj tak sinaṅ
 
   8
-  Bali Sakina qaid hai zindan mein aaj bhi
+  Bali Sakina qaid hai zindaṅ mein aaj bhi
   Akbar hai intezar mein beti Husain ki
   Ab bhi sunai deti hai bachchi ki hichkiyaṅ
 # source_id: nohayonline:efb428638c41dab8c531
