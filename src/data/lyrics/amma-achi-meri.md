@@ -19,27 +19,27 @@ romanLyrics: |-
   1
   Ae amma phuphi jaan ke do laal sidhaare
   Darya ke kanare
-  Tum apne jawan laal ko shabbir pe waaro
+  Tum apne jawaan laal ko Shabbir pe waaro
 
   2
-  Sehra tere bete ke muqaddar mein nahi tha
+  Sehra tere bete ka muqaddar mein nahiṅ tha
   Ab waqt ye aaya
   Poshak-e-shahani ko kafan mera banalo
 
   3
-  Wo dekho suye dashte bala maadar-e-muztar
-  Ghayre hai sitamgar
-  Kya baap ki nusrat na karuṅ mujko bata do
+  Wo dekho suye dasht-e-bala maadar-e-muztar
+  Ghere haiṅ sitamgar
+  Kya baap ki nusrat na karuṅ mujh ko bata do
 
   4
-  Maana ke nahi bete ki furqat koi aasan
+  Maana ke nahiṅ bete ki furqat koi aasaaṅ
   Par kya karuṅ amma
   Ye sabr ki manzil hai zara dil ko sambhalo
 
   5
-  Kuch dayr mein ye laal bhi kehlayega laasha
+  Kuch der mein ye laal bhi kehlayega laasha
   Hai ek tamanna
-  Bemaar-e-madina ko madine se bula lo
+  Bimaar-e-Madina ko Madine se bula lo
 
   6
   Kya tum ko gawara hai ke zinda rahe beta
@@ -48,13 +48,13 @@ romanLyrics: |-
 
   7
   Tarpogi shab o roz meri yaad mein har dam
-  Kerte huwe matam
+  Karte hue maatam
   Ek baar mujhe apne kaleje se laga lo
 
   8
-  Jo mazhar-o-irfan ke honton ke buka hai
+  Jo Mazhar o Irfan ke hontoṅ ki buqa hai
   Akbar ki sada hai
-  Jo kehte thay amma mujhe marne ki riza do
+  Jo kehte the amma mujhe marne ki riza do
 # source_id: nohayonline:588647744c01ba769243
 # source_url: https://www.nohayonline.com/details_content.php?id=444
 # raw_sha256: 32085e2bf4f3f1001bca9ab3ea43eaffc08ea34465db9e2b8691c7110906ee34

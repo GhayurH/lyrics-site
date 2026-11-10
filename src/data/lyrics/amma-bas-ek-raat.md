@@ -14,60 +14,60 @@ romanLyrics: |-
   Amma bas ek raat ka mehmaan hai Husain
   
   1
-  Andheri raat hai amma ghamon ka dera hai
+  Andheri raat hai amma ghamoṅ ka dera hai
   Ab is ke baad mera aakhri savera hai
-  Watan se door mujhe kufiyon ne ghera hai
+  Watan se dur mujhe Kufiyoṅ ne ghera hai
   
   2
-  Har ek sher-e-dilawar bichadne waala hai
-  Mere safeene ka langar bichadne waala hai
-  Ke mujhse mera baradar bichadne waala hai
+  Har ek sher-e-dilaawar bichharne waala hai
+  Mere safine ka langar bichharne waala hai
+  Ke mujh se mera baraadar bichharne waala hai
   
   3
-  Jawan pisar ka janaaza main kal uthaunga
-  Gham o alam se zaeefi mein ladkhadaunga
-  Zarur aana main amma tumhe bulaunga
+  Jawaaṅ pisar ka janaaza main kal uthaauṅ ga
+  Gham o alam se zaifi mein larkharaauṅ ga
+  Zarur aana main amma tumheṅ bulaauṅ ga
   
   4
-  Dahum ki subha ko ran aisa padne waala hai
-  Ke mujh ghareeb se kunba bichadne waala hai
-  Bhara hua ye mera ghar ujadne waala hai
+  Dahum ki subh ko ran aisa parne waala hai
+  Ke mujh gharib se kunba bichharne waala hai
+  Bhara hua ye mera ghar ujarne waala hai
   
   5
-  Meri sakina ko seene se tum laga lena
-  Giray jo naaqe se amma usay utha lena
-  Sitamgaron ke tamacho se tum bacha lena
+  Meri Sakina ko sine se tum laga lena
+  Gire jo naaqe se amma use utha lena
+  Sitamgaroṅ ke tamaanchoṅ se tum bacha lena
   
   6
   Tumhare chaand ko ghereṅge Shaam ke haale
-  Mere badan pe lagayenge zulm ke bhaale
-  Ke mujh pe toot padenge ye barchiyon waale
+  Mere badan pe lagaayeṅ ge zulm ke bhaale
+  Ke mujh pe tut pareṅ ge ye barchhiyoṅ waale
   
   7
-  Abhi to jhoole se asghar bhi ran ko jayega
-  Zaeef baap ke haaton pe teer khayega
-  Lahoo mein doob ke baysheer muskurayega
+  Abhi to jhule se Asghar bhi ran ko jaaye ga
+  Zaif baap ke haathoṅ pe tir khaaye ga
+  Lahu mein dub ke beshir muskuraaye ga
   
   8
-  Har ek simt se barseṅge mujh pe teer o sinaṅ
-  Gulu e khushk se hoga yahin pe khoon rawan
+  Har ek simt se barseṅ ge mujh pe tir o sinaaṅ
+  Gulu-e-khushk se hoga yahi pe khun rawaaṅ
   Mera mazaar banega isi jagah amma
   
   9
-  Abhi to quwwate dil mujhko aazmani hai
+  Abhi to quwwat-e-dil mujh ko aazmaani hai
   Abhi to mayyat-e-Akbar mujhe uthaani hai
-  Abhi to turbat e baysheer bhi banani hai
+  Abhi to turbat-e-beshir bhi banaani hai
   
   10
-  Fiza mein goonj rahi thi sada e wawaila
-  Haram mein shor tha hilti thi arz e karbobala
-  Bilal ro ke ye kehte thay sayyede waala
+  Fiza mein gunj rahi thi sada-e-waawaila
+  Haram mein shor tha hilti thi arz-e-Karbobala
+  Bilal ro ke ye kehte the Sayyid-e-waala
 # source_id: nohayonline:65a926dcb6b528b65996
 # source_url: https://www.nohayonline.com/details_content.php?id=1759
 # raw_sha256: ff14b0f2794774591184aa774ae04241412d3eac55d0f3cd0e6dc591cbf8b87b
 ---
 
-اماں بس اک رات کا میہمان ہے حسین
+اماں بس اک رات کا مہمان ہے حسین
 
 ۱
 اندھیری رات ہے اماں غموں کا ڈیرا ہے
@@ -81,7 +81,7 @@ romanLyrics: |-
 
 ۳
 جواں پسر کا جنازہ میں کل اٹھاؤں گا
-غم و الم سے ضعیفی میں لڑکھڑاوں گا
+غم و الم سے ضعیفی میں لڑکھڑاؤں گا
 ضرور آنا میں اماں تمہیں بلاؤں گا
 
 ۴
@@ -96,7 +96,7 @@ romanLyrics: |-
 
 ۶
 تمہارے چاند کو گھیریں گے شام کے حالے
-میرے بدن پہ لگائیں گے ظلم‌ کے بھالے
+میرے بدن پہ لگائیں گے ظلم کے بھالے
 کہ مجھ پہ ٹوٹ پڑیں گے یہ برچیوں والے
 
 ۷

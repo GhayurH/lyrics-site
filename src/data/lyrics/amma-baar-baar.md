@@ -1,5 +1,5 @@
 ---
-title: "زندانِ شام میں جہاں بی بی کا ہے مزار"
+title: "زندانِ شام میں جہاں بی‌بی کا ہے مزار"
 alternateTitle: "Amma Baar Baar"
 language: "Urdu"
 lang: "ur"
@@ -11,70 +11,70 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan e shaam mein jahan bibi ka hai mazaar
-  Raaton ko dheemi dheemi si aati hai ek pukar
-  Kaano se mere khoon abhi bhi tapakta hai
+  Zindan-e-Shaam mein jahaaṅ Bibi ka hai mazaar
+  Raatoṅ ko dhimi dhimi si aati hai ek pukaar
+  Kaanoṅ se mere khun abhi bhi tapakta hai
   Amma baar baar gala mera dukhta hai
-  Uth'ti hai jab bhi aap mera saans rukhta hai
+  Uthtiṅ haiṅ jab bhi aap mera saans rukta hai
 
   1
-  Soyi nahi hoo shaam e ghariban ke baad mai
-  Ab kya jiyungi shaam ke zindan ke baad mai
-  Be-aas ab hoo shahe shaheedan ke baad mai
+  Soyi nahiṅ huṅ Shaam-e-gharibaaṅ ke baad main
+  Ab kya jiyuṅ gi Shaam ke zindaaṅ ke baad main
+  Be aas ab huṅ Shaah-e-shahidaaṅ ke baad main
   Saaya ajal ka amma mere saath chalta hai
 
   2
-  Kano ka khoon ankhon ke aansu se mil gaya
-  Har zakhm phool banke badan par hai khil gaya
-  Baba ko dhoond laao ke seene se dil gaya
-  Bejaan mere jism kyon dil dhadakta hai
+  Kaanoṅ ka khun aankhoṅ ke aansu se mil gaya
+  Har zakhm phul ban ke badan par hai khil gaya
+  Baba ko dhund laao ke sine se dil gaya
+  Bejaan mere jism mein kiuṅ dil dharakta hai
 
   3
   Ae amma jab se Baba se main dur ho gayi
-  Ye zindagi mere liye nasoor hogayi
-  Par kya karoon naseeb se majboor hogayi
-  Hijre padar se seene mein ek dard uth'ta hai
+  Ye zindagi mere liye naasur ho gayi
+  Par kya karuṅ nasib se majbur ho gayi
+  Hijr-e-padar se sine mein ek dard uthta hai
 
   4
-  Kaante pare hain halq mein ae amma pyaas se
-  Darti hoo jhonka guzre hawa ka jo paas se
-  Neendh udgayi hai ankhon se khauf-o-hiraas se
-  Rone pe mere shimr-e-layeen kyon jhidakta hai
+  Kaante pare haiṅ halq mein ae amma pyaas se
+  Darti huṅ jhonka guzre hawa ka jo paas se
+  Nind ur gayi hai aankhoṅ se khauf o hiraas se
+  Rone pe mere Shimr-e-laiṅ kiuṅ jhirakta hai
 
   5
-  Asghar ke baad pani piyoo mai nahi nahi
-  Ammu ke baad zinda rahoo mai nahi nahi
-  Faryaad kuch shaqi se karuṅ main nahi nahi
-  Pani mein aqse chehra e asghar jhalakta hai
+  Asghar ke baad paani piyuṅ main nahiṅ nahiṅ
+  Ammuṅ ke baad zinda rahuṅ main nahiṅ nahiṅ
+  Faryaad kuch shaqi se karuṅ main nahiṅ nahiṅ
+  Paani mein aks-e-chehra-e-Asghar jhalakta hai
 
   6
-  Lagta hai qaid e jaan se rihaai khareeb hai
-  Ay amma jaan-o-tan se rihaai khareeb hai
-  Ab maut mujhko qabr ke laayi khareeb hai
+  Lagta hai qaid-e-jaaṅ se rihaai qarib hai
+  Ae amma jaan o tan se rihaai qarib hai
+  Ab maut mujh ko qabr ke laayi qarib hai
   Daaman to jal chuka hai mera dil sulagta hai
 
   7
-  Kaunain mein ye kaisa hai kanoon poochiye
-  Marne ke baad mujko rihaai nahi milay
-  Ye kaisi qaid hai ke lehad bhi yahin bane
-  Qaidi kabhi to qaid se ghar ko palat'ta hai
+  Kaunain mein ye kaisa hai qaanun puchhiye
+  Marne ke baad mujh ko rihaai nahiṅ mile
+  Ye kaisi qaid hai ke lahad bhi yahiṅ bane
+  Qaidi kabhi to qaid se ghar ko palatta hai
 
   8
-  Amma rihaai paake watan tum to jaa'ogi
-  Sughra meri behan ko galay se laga'ogi
-  Poochegi jab mujhe to usay kya bata'ogi
-  Reh reh ke ek sawaal mere dil mein uth'ta hai
+  Amma rihaai paa ke watan tum to jaao gi
+  Sughra meri behan ko gale se lagaao gi
+  Puchhe gi jab mujhe to use kya bataao gi
+  Reh reh ke ek sawaal mere dil mein uthta hai
 
   9
-  Jao Nadeem Sarwar o Rehaan ek baar
-  Zindan-e-Shaam mein jahaṅ Bibi ka hai mazaar
-  Raaton ko dheemi dheemi si aati hai ek pukaar
-  Kaano se mere khoon abhi bhi tapakta hai
+  Jaao Nadeem Sarwar o Rehaan ek baar
+  Zindan-e-Shaam mein jahaaṅ Bibi ka hai mazaar
+  Raatoṅ ko dhimi dhimi si aati hai ek pukaar
+  Kaanoṅ se mere khun abhi bhi tapakta hai
 # source_id: nohayonline:6f12ff7bddfe217e229e
 # source_url: https://www.nohayonline.com/details_content.php?id=336
 # raw_sha256: 5e0b6c61dc4e0a724dcbb80e8a102ccb8c7aab7e3df2a84ebe2330e5371c7870
 ---
-زندانِ شام میں جہاں بی بی کا ہے مزار
+زندانِ شام میں جہاں بی‌بی کا ہے مزار
 راتوں کو دھیمی دھیمی سی آتی ہے اک پُکار
 کانوں سے میرے خون ابھی بھی ٹپکتا ہے
 اماں بار بار گلہ میرا دُکھتا ہے
@@ -114,7 +114,7 @@ romanLyrics: |-
 لگتا ہے قیدِ جاں سے رہائی قریب ہے
 اے اماں جان و تن رہائی قریب ہے
 اب موت مجھ کو قبر کے لائی قریب ہے
-دامن تو جل چکا ہے میرا دل ُسلگتا ہے
+دامن تو جل چکا ہے میرا دل سُلگتا ہے
 
 ۷
 کونین میں یہ کیسا ہے قانون پوچھیئے
@@ -130,6 +130,6 @@ romanLyrics: |-
 
 ۹
 جاؤ ندیم سرور و ریحان ایک بار
-زندانِ شام میں جہاں بی بی کا ہے مزار
+زندانِ شام میں جہاں بی‌بی کا ہے مزار
 راتوں کو دھیمی دھیمی سی آتی ہے ایک پُکار
 کانوں سے میرے خون ابھی بھی ٹپکتا ہے

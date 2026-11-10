@@ -18,23 +18,23 @@ romanLyrics: |-
   Saughaat ek safar se beti ye laayi amma
   
   2
-  Marqad pe fatema ki zainab ne kaha ro kar
+  Marqad pe Fatema ki Zainab ne kaha ro kar
   Karbobala ke ban mein bhai ko apne kho kar
   Lut kar safar se aayi ye teri jaayi amma
   
   3
-  Baazu pe reesma ke dekho nishan hai ubhre
+  Baazu pe resmaaṅ ke dekho nishaaṅ haiṅ ubhre
   Zakhmi hai pusht meri seene mein dil hai tukde
-  Ashkon ke badle khoon ke aansu bahayi amma
+  Ashkoṅ ke badle khuṅ ke aansu bahaaye amma
   
   4
-  Mere wo dono pyare aankhon ke thay wo taare
-  Bhai pe dono bacche sadqe mein thay utaare
+  Mere wo donoṅ pyaare aankhoṅ ke the wo taare
+  Bhai pe donoṅ bachche sadqe mein the utaare
   Phir bhi na bach saka jab maqtal mein bhai amma
   
   5
-  Dulha tha Ibn-e-Shabbar aur binte shaah dulhan
-  Pamaal hogaya jab dulha ka phool sa tan
+  Dulha tha Ibn-e-Shabbar aur Bint-e-Shaah dulhan
+  Paamaal ho gaya jab dulha ka phul sa tan
   Haathoṅ se main dulhan ko bewa banayi amma
 # source_id: nohayonline:6c67b2b8663f9cebde2d
 # source_url: https://www.nohayonline.com/details_content.php?id=3763
