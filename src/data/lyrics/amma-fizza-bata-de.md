@@ -11,53 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Amma Fizza bata de mujhko patthar kiuṅ aa rahe hain
-
-  1
   Kaisa hai ye charaaghaṅ dil dube ja rahe hain
   Kya Shaam aa gaya hai
+
+  1
   Itna chale hain paidal kaaṅtoṅ pe saare qaidi
-  Thak jaati chalte chalte chalti agar zameen bhi
+  Thak jaati chalte chalte chalti agar zamiṅ bhi
   Pairoṅ ke aable bhi aaṅsu baha rahe hain
+  Kya Shaam aa gaya hai
 
   2
   Hain log kis tarha ke hum se dua karayeṅ
-  Ae qaidiyoṅ dua do ye din na hum pe aayeṅ
-  Le kar duaaein hum se dil bhi dukha rahe hain
+  Ae qaidiyoṅ dua do ye din na hum pe aaye
+  Le kar duaaeṅ hum se dil bhi dukha rahe hain
+  Kya Shaam aa gaya hai
 
   3
   Naizoṅ pe jitne sar hain ek sar hai un mein aisa
-  Aaṅkhein hain band uski aur khaak par hai girta
+  Aaṅkheṅ hain band uski aur khaak par hai girta
   Abbas ka ye sar hai tewar bata rahe hain
+  Kya Shaam aa gaya hai
 
   4
-  Maaon ki godiyoṅ se lipte hue hain bachche
-  Hain haath rassiyoṅ mein maaon ke aise jakre
+  Maaoṅ ki godiyoṅ se lipte hue hain bachche
+  Hain haath rassiyoṅ mein maaoṅ ke kaise jakre
   Bachche jo gir rahe hain wo marte ja rahe hain
+  Kya Shaam aa gaya hai
 
   5
   Naize pe ro raha hai Mushkilkusha ka beta
   Na mehramoṅ ke lab par aaya hai naam mera
-  Mujhko kaneezzaade yuṅ bhi rula rahe hain
+  Mujhko kaniz zaade yuṅ bhi rula rahe hain
+  Kya Shaam aa gaya hai
 
   6
   Sajjad ka kaleja sad paash ho raha hai
-  Ek ek zakhm unka is gham mein ro raha hai
+  Ik ek zakhm unka is gham mein ro raha hai
   Zainab ka naam le kar aada bula rahe hain
+  Kya Shaam aa gaya hai
 
   7
   Aaya jo Baab-e-Saaat roke gaye musaafir
   Kehta tha Shimr inko karna abhi na haazir
   Darbaar ko abhi hum dulhan bana rahe hain
+  Kya Shaam aa gaya hai
 
   8
-  Hone lagi azaaneṅ kaise saroṅ ko dhaaṅpeṅ
-  Baazu bandhe hue hain khoon ro rahi hain aaṅkhein
-  Aaṅkhoṅ ke khoon se raste khoon mein naha rahe hain
+  Hone lagiṅ azaaneṅ kaise saroṅ ko dhaaṅpe
+  Baazu bandhe hue hain khuṅ ro rahi hain aaṅkheṅ
+  Aaṅkhoṅ ke khuṅ se raste khuṅ mein naha rahe hain
+  Kya Shaam aa gaya hai
 
   9
-  Rehaan qaidiyoṅ mein barpa hai shor-e-giryaṅ
-  Palkoṅ se kar rahi hai maatam jo Bint-e-Zehra
+  Rehaan qaidiyoṅ mein barpa tha shor-e-giryaṅ
+  Palkoṅ se kar rahi thi maatam jo Bint-e-Zehra
   Sajjad nauhakhwaaṅ hain nauha suna rahe hain
+  Kya Shaam aa gaya hai
 reciter: Mir Hassan Mir
 # source_id: nohayonline:54b394274805a8c00573
 # source_url: https://www.nohayonline.com/details_content.php?id=313
@@ -69,50 +78,59 @@ reciter: Mir Hassan Mir
 ---
 
 اماں فضہ بتا دے مجھ کو پتھر کیوں آ رہے ہیں
-
-۱
 کیسا ہے یہ چراغاں دل ڈوبے جارہے ہیں
 کیا شام آ گیا ہے
+
+۱
 اتنا چلے ہیں پیدل کانٹوں پہ سارے قیدی
 تھک جاتی چلتے چلتے چلتی اگر زمیں بھی
 پیروں کے آبلے بھی آنسو بہا رہے ہیں
+کیا شام آ گیا ہے
 
 ۲
 ہیں لوگ کس طرح کے ہم سے دعا کرائیں
 اے قیدیوں دعا دو یہ دن نہ ہم پہ آئے
 لے کر دعائیں ہم سے دل بھی دکھا رہے ہیں
+کیا شام آ گیا ہے
 
 ۳
 نیزوں پہ جتنے سر ہیں اک سر ہے ان میں ایسا
 آنکھیں ہیں بند اسکی اور خاک پر ہے گرتا
 عباس کا یہ سر ہے تیور بتا رہے ہیں
+کیا شام آ گیا ہے
 
 ۴
 ماؤں کی گودیوں سے لپٹے ہوئے ہیں بچے
 ہیں ہاتھ رسیوں میں ماؤں کے کیسے جکڑے
 بچے جو گر رہے ہیں وہ مرتے جارہے ہیں
+کیا شام آ گیا ہے
 
 ۵
 نیزے پہ رو رہا ہے مشکل کشا کا بیٹا
 نامحرموں کے لب پر آیا ہے نام میرا
 مجھکو کنیز زادے یوں بھی رلا رہے ہیں
+کیا شام آ گیا ہے
 
 ۶
 سجاد کا کلیجہ صد پاش ہو رہا ہے
 اک ایک زخم ان کا اس غم میں رو رہا ہے
 زینب کا نام لے کر اعدا بلا رہے ہیں
+کیا شام آ گیا ہے
 
 ۷
 آیا جو باب ساعت روکے گئے مسافر
 کہتا تھا شمر ان کو کرنا ابھی نہ حاضر
 دربار کو ابھی ہم دلہن بنا رہے ہیں
+کیا شام آ گیا ہے
 
 ۸
 ہونے لگیں اذانیں کیسے سروں کو ڈھانپے
-بازو بندھے ہوئے ہیں خوں رہی ہیں آنکھیں
+بازو بندھے ہوئے ہیں خوں رو رہی ہیں آنکھیں
 آنکھوں کے خوں سے رستے خوں میں نہا رہے ہیں
+کیا شام آ گیا ہے
 
 ۹
 ریحان قیدیوں میں برپا تھا شور گریاں
 پلکوں سے کر رہی تھی ماتم جو بنت زہرا
 سجاد نوحہ خواں ہیں نوحہ سنا رہے ہیں
+کیا شام آ گیا ہے

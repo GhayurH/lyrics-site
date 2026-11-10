@@ -28,14 +28,14 @@ romanLyrics: |-
   Sehra mein kho chuka huṅ amma gawaah rehna
 
   3
-  Teeroṅ ne chhaan daala amma mere badan ko
+  Tiroṅ ne chhaan daala amma mere badan ko
   Kitna ghareeb huṅ main mohtaaj huṅ kafan ko
   Haalaaṅ ke baadshaah huṅ amma gawaah rehna
 
   4
-  Jalti hui zameen par teeroṅ ka hai bichhauna
+  Jalti hui zamin par tiroṅ ka hai bichhauna
   Is haal mein na dekhe mujhko meri Sakina
-  Teeroṅ pe so raha huṅ amma gawaah rehna
+  Tiroṅ pe so raha huṅ amma gawaah rehna
 
   5
   Kuch der pehle amma Asghar ko dafn kar ke
@@ -43,14 +43,14 @@ romanLyrics: |-
   Khud laash ban gaya huṅ amma gawaah rehna
 
   6
-  Seene se naujawan ke kaise nikaale barchhi
+  Sine se naujawaṅ ke kaise nikaale barchhi
   Barchhi ke saath amma meri bhi saaṅs tuti
-  Binaai dhoondta huṅ amma gawaah rehna
+  Binaai dhundta huṅ amma gawaah rehna
 
   7
   Aap aayi hain sirhaane Naad-e-Ali sunaane
   Mujhko talab kiya hai amma mere Khuda ne
-  Jaan de ke ja raha huṅ amma gawaah rehna
+  Jaaṅ de ke ja raha huṅ amma gawaah rehna
 
   8
   Rehaan aur Raza ki jo naukri hai amma

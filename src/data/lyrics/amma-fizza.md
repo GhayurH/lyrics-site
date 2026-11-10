@@ -23,7 +23,7 @@ romanLyrics: |-
   Darbaar ye kaise hota hai
 
   2
-  Seene se laga kar Zahra ne
+  Sine se laga kar Zahra ne
   Ro ro ke mujhse itna kaha
   Main sab ko bata sakti huṅ magar
   Dekhuṅ jo tujhe dil rota hai
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   7
   Kisi beti ne ye dunya mein nahiṅ dekha ho
-  Kund khanjar se Baba jiska zabh ho
+  Kund khanjar se Baba jiska zabah ho
   Sar tasht-e-tala mein rakha tha
   Aur zaalim sab se kehta tha
   Ye kis ki bachchi hai jis ne
@@ -70,7 +70,7 @@ romanLyrics: |-
   Hai shukr tera ae Shehzaadi
   Auqaat kahaṅ thi Mohsin ki
   Wo sar ko jhuka ke kehta hai
-  Ye nauha tum ne likhwaaya hai
+  Ye nauha tum ne likhaaya hai
 # source_id: nohayonline:50bccdc83c05c722bc06
 # source_url: https://www.nohayonline.com/details_content.php?id=2449
 # raw_sha256: f2f0c45ea40acbf7b69032eee1aa6a2252e3ad6fe3879cdaa474aebadd592d0d
@@ -134,4 +134,4 @@ romanLyrics: |-
 ہے شکر تیرا اے شہزادی
 اوقات کہاں تھی محسن کی
 وہ سر کو جھکا کے کہتا ہے
-یہ نوحہ تم نے لکھوایا ہے
+یہ نوحہ تم نے لکھایا ہے
