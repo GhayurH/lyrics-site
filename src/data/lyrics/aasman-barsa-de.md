@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -15,27 +16,27 @@ romanLyrics: |-
 
   1
   Dekh woh pyase bachche Sheh ke
-  Haathon mein hain khaali kuze
+  Haathoṅ meiṅ hai khaali kuze
   Dekh udhar darya ki rawani
   Us pe sitam hai tashnadahani
 
   2
   Malik-e-Kausar pani ko tarse
   Aur pani phir bhi na barse
-  Sukhe hain lab aur zabaneṅ
-  Rukne lagi saanson ki rawani
+  Sukhe hai lab aur zabaneṅ
+  Rukne lagi saansoṅ ki rawani
 
   3
-  Aasman tujhko taras na aaya
+  Aasmaṅ tujhko taras na aaya
   Ab tak na pani barsaya
-  Sukhe huwe kuze bhi sunaeṅ
-  Tashnalabon ke gham ki kahani
+  Sukhe huwe kuze bhi sunae
+  Tashnalaboṅ ke gham ki kahani
 
   4
-  Dasht mein har su zulm ke lashkar
-  Pehre lagaye hain pani par
+  Dasht meiṅ har su zulm ke lashkar
+  Pehre lagaye haiṅ pani par
   Qaid hui darya ki maujeṅ
-  Ghere huwe hain zulm ke bani
+  Ghere huwe hai zulm ke bani
 
   5
   Tu to hai sairab is nemat se
@@ -44,34 +45,34 @@ romanLyrics: |-
   Tashnalabi ke kya hai maani
 
   6
-  Dekhna ek din aaega woh
+  Dekhna ek din aayega woh
   Pani se mahrum rahe jo
-  Saare jag mein hoṅgi sabileṅ
-  Tashnalabon ki ban ke nishani
+  Saare jag meiṅ hoṅgi sabileṅ
+  Tashnalaboṅ ki ban ke nishani
 
   7
   Kehti hai tujh se khaak-e-bayabaṅ
-  Bachche hain betab harasaṅ
-  Aati hain rone ki sadaeṅ
-  Kehte hain ro kar pani pani
+  Bachche haiṅ betaab haraasaṅ
+  Aati hai rone ki sadaaeṅ
+  Kehte haiṅ ro kar pani pani
 
   8
   Kaun hai in par rahm jo khae
-  Aur pyason ko pani pilae
+  Aur pyasoṅ ko pani pilae
   Dur hai ye apne watan se
-  Aae hain kar ke naql-e-makani
+  Aaye haiṅ kar ke naql-e-makani
 
   9
-  Ashkon se pani pyaas bujhai
-  Pyase dete hain ye duhai
-  Dekh ke rote hain darya ko
-  Sukhe labon ka rang hai dhaani
+  Ashkoṅ se pani pyaas bujhai
+  Pyase dete haiṅ ye duhai
+  Dekh ke rote haiṅ darya ko
+  Sukhe laboṅ ka rang hai dhaani
 
   10
   Aaj bhi dil zakhm hai taza
   Is se tu kar le andaza
   Pani pieṅ Farhan o Mazhar
-  Pyason pe kar ke Fateha khwani
+  Pyasoṅ pe kar ke Fatiha khwani
 # source_id: nohayonline:a07998e5192141e7e0db
 # source_url: https://www.nohayonline.com/details_content.php?id=2369
 # raw_sha256: 8dc0b2efa4dba2d0c4f0dad035fbfd478b399aa16ccd51efa93fd5a6cef187e5
@@ -94,41 +95,41 @@ romanLyrics: |-
 ۳
 آسماں تجھکو ترس نہ آیا
 اب تک نہ پانی برسایا
-سوکھے ہوے کوزے بھی سناے
+سوکھے ہوئے کوزے بھی سنائے
 تشنہ لبوں کے غم کی کہانی
 
 ۴
 دشت میں ہر سو ظلم کے لشکر
-پہرے لگاے ہیں پانی پر
-قید ہوی دریا کی موجیں
-گھیرے ہوے ہے ظلم کے بانی
+پہرے لگائے ہیں پانی پر
+قید ہوئی دریا کی موجیں
+گھیرے ہوئے ہے ظلم کے بانی
 
 ۵
 تو تو ہے سیراب اس نعمت سے
-سوچ زرا لیکن شدت سے
+سوچ ذرا لیکن شدت سے
 تجھکو جا کر کون بتائے
 تشنہ لبی کے کیا ہے معانی
 
 ۶
-دیکھنا اک دن آے گا وہ
+دیکھنا اک دن آئے گا وہ
 پانی سے محروم رہے جو
-سارے جگ میں ہونگی سبیلیں
+سارے جگ میں ہوں گی سبیلیں
 تشنہ لبوں کی بن کے نشانی
 
 ۷
 کہتی ہے تجھ سے خاک بیاباں
 بچے ہیں بیتاب ہراساں
-آتی ہے رونے کی صداییں
+آتی ہے رونے کی صدائیں
 کہتے ہیں رو کر پانی پانی
 
 ۸
-کون ہے ان پر رحم جو کھاے
-اور پیاسوں کو پانی پلاے
+کون ہے ان پر رحم جو کھائے
+اور پیاسوں کو پانی پلائے
 دور ہے یہ اپنے وطن سے
-آے ہیں کر کے نقل مکانی
+آئے ہیں کر کے نقلِ مکانی
 
 ۹
-اشکوں سے پانی پیاس بجھای
+اشکوں سے پانی پیاس بجھائی
 پیاسے دیتے ہیں یہ دہائی
 دیکھ کے روتے ہیں دریا کو
 سوکھے لبوں کا رنگ ہے دھانی
@@ -136,5 +137,5 @@ romanLyrics: |-
 ۱۰
 آج بھی دل زخم ہے تازہ
 اس سے تو کر لے اندازہ
-پانی پییں فرحان و مظہر
+پانی پیئیں فرحان و مظہر
 پیاسوں پہ کر کے فاتحہ خوانی

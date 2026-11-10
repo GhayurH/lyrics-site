@@ -1,67 +1,68 @@
 ---
 title: آرام کہاں ہائے ہائے آرام کہاں
-alternateTitle: Aaram Kahan
+alternateTitle: Aaram Kahaṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehan Azmi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aaram Kahan"]
 published: false
 romanLyrics: |-
-  Aaram kahan haye haye aaram kahan
-  Dasht-e-aalam mein Zainab ko bhala, aaram kahan
+  Aaram kahaṅ haye haye aaram kahaṅ
+  Kasht-e-aalaam meiṅ Zainab ko bhala, aaram kahaṅ
 
   1
   Qatl Shabbir bhi Abbas bhi Akbar bhi huve
-  Kat gaye Aun o Muhammad ke bhi maqtal mein galay
-  Laash-e-ibn-e-Hasan ho gaya paamale jafa
+  Kat gaye Aun o Muhammad ke bhi maqtal meiṅ gale
+  Laasha-e-Ibn-e-Hasan ho gaya paamaal-e-jafa
 
   2
-  Teer jab Asghar-e-masum ki gardan pe laga
-  Deti thi khaime ke dar pe khadi bano ye sada
-  Bin tere chain milay kaise mere mahelakha
+  Tir jab Asghar-e-masum ki gardan pe laga
+  Deti thi khaime ke dar pe khari Banu ye sada
+  Bin tere chain mile kaise mere maah-laqa
 
   3
   Chhid gayi mashk-e-Sakina lab-e-darya afsos
-  Be-kafn khaak pe hai sher ka laasha afsos
-  Pyase bachon ka koi chahne wala na raha
+  Be-kafan khaak pe hai sher ka laasha afsos
+  Pyase bachchoṅ ka koi chahne wala na raha
 
   4
   Chin gayi sar se rida jal gaya asbaab tamaam
   Baad-e-Shabbir namudar huvi kaisi ye shaam
-  Khoon kano se baha bachi ka daaman bhi jala
+  Khun kaanoṅ se baha bachchi ka daaman bhi jala
 
   5
-  Sar shaheedo ke sar-e-nok-e-sinaan qaid haram
-  Ek do ka nahi seene mein bahattar ka hai gham
-  Bediyan pehne huve laaghiro beemar chala
+  Sar shahidoṅ ke sar-e-nok-e-sinaṅ qaid haram
+  Ek do ka nahiṅ sine meiṅ bahattar ka hai gham
+  Beriyaṅ pehne huve laaghar o bimar chala
 
   6
   Koi maara gaya talwar se naize se koi
-  Laash maqtal mein kisi dulha ki pamaal hui
-  Hogaye baazu e abbase alamdar juda
+  Laash maqtal meiṅ kisi dulha ki paamaal hui
+  Ho gaye baazu-e-Abbas-e-Alamdar juda
 
   7
   Ro ro kehti hai Sakina mere ammu aao
-  Mujko maare na lain aake inhe samjhao
-  Kiun nahi sunte ho deti hun tumhe kab se sada
+  Mujhko maareṅ na laiṅ aa ke inheiṅ samjhao
+  Kiuṅ nahiṅ sunte ho deti huṅ tumheiṅ kab se sada
 
   8
-  Qafila jaata hai aab Shaam ke bazaron mein
-  Chalte hai ahle haram zulm ke angaro mein
-  Har qadam hoti hai beemar pe ek taaza jafa
+  Qafila jaata hai ab Shaam ke bazaaroṅ meiṅ
+  Chalte haiṅ ahl-e-haram zulm ke angaaroṅ meiṅ
+  Har qadam hoti hai bimar par ek taaza jafa
 
   9
-  Bache jo khaak pa girte hai kuchal jaate hai
-  Gham se dil maa'on ke seene se nikal jaate hai
-  Koi sunta nahi bewa'on ki faryad-o-buka
+  Bachche jo khaak pe girte haiṅ kuchal jaate haiṅ
+  Gham se dil maaoṅ ke sine se nikal jaate haiṅ
+  Koi sunta nahiṅ bewaoṅ ki faryaad o buka
 
   10
   Aankh roti hai qalam likhta hai noha Rehan
-  Hai karam mujhpe shahe karbobala ka Rehan
-  Nowha jab tak na likhoo roz shahe deen ka naya
+  Hai karam mujh pe Shah-e-Karb o Bala ka Rehan
+  Noha jab tak na likhuṅ roz Shah-e-Diṅ ka naya
 # source_id: nohayonline:9ac2b9f7c54db1dd44db
 # source_url: https://www.nohayonline.com/details_content.php?id=83
 # raw_sha256: 862809c1f0f73c3570e1c91d282fda97526876b98cb178f0708a2332b5666663

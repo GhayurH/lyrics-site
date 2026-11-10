@@ -1,17 +1,18 @@
 ---
-title: آسمان لرزا زمیں کانپی سمندر روے
-alternateTitle: Aasman Larza Zameen
+title: آسمان لرزا زمیں کانپی سمندر روئے
+alternateTitle: Aasman Larza Zamiṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aasman Larza Zameen"]
 published: false
 romanLyrics: |-
   Aasman larza zamiṅ kaanpi samandar roe
-  Qabr mein maaṅ ke liye jab Ali Asghar roe
+  Qabr meiṅ maaṅ ke liye jab Ali Asghar roe
 
   1
   Tanha roti thi bahattar ko Ali ki beti
@@ -23,24 +24,25 @@ romanLyrics: |-
 
   3
   Zibh hote huwe sab dekh rahi thi behneṅ
-  Ye samaa dekh ke Maula tah-e-khanjar roe
+  Ye samaaṅ dekh ke Maula tah-e-khanjar roe
 
   4
-  Shimr ka khauf hai gardan mein rasan bhi hai bandhi
-  Apne Baba ko Sakina kahan ja kar roe
+  Shimr ka khauf hai gardan meiṅ rasan bhi hai bandhi
+  Apne Baba ko Sakina kahaṅ ja kar roe
 
   5
   Aise roya na kisi baap ko beta koi
   Jaise chaalis baras Abid-e-muztar roe
 
   6
-  Nazaa mein yaad jo bimar-e-Madina aayi
+  Naza meiṅ yaad jo bimar-e-Madina aayi
   Hichkiyaṅ barh gayiṅ is tarha se Akbar roe
 
   7
-  Sun ke ae Mir Takallum tera majlis mein salam
+  Sun ke ae Mir Takallum tera majlis meiṅ salam
   Fatima roi Ali roe Payambar roe
-# editorial_uncertainty: Urdu has khanjar instead of Roman kahan in stanza 4; source conflict requires audio
+# editorial_review: stanza 4 کہاں agrees with archived Ziyaraat Urdu and NoHayOnline Roman; NoHayOnline Urdu خنجر is a conflicting transcription
+# editorial_uncertainty: stanza 6 بڑھ گئی / بندھ گئیں and stanza 3 تھی / تھیں differ between archived sources; audio or print needed
 # source_id: nohayonline:2c64aaed94cc9be41f3e
 # source_url: https://www.nohayonline.com/details_content.php?id=1415
 # raw_sha256: f1ccf863bd7726e15b97bfd2e2dae651889231b3bae9bee832be0eb5937b12ad
@@ -48,33 +50,33 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/2652
 # raw_sha256: ee90989778a190059ba6b7269b429ee0c1b67b5eb08b3fbe8e4a548077178b83
 ---
-آسمان لرزا زمیں کانپی سمندر روے
-قبر میں ماں کے لئے جب علی اصغر روے
+آسمان لرزا زمیں کانپی سمندر روئے
+قبر میں ماں کے لیے جب علی اصغر روئے
 
 ۱
 تنہا روتی تھی بہتر کو علی کی بیٹی
-بے ردا جب ہوی زینب تو بہتر روے
+بے ردا جب ہوئی زینب تو بہتر روئے
 
 ۲
-وقتِ رخصت جو حسین آے در خیمہ پر
-شاہ زینب سے بہت دیر لپٹ کر روے
+وقتِ رخصت جو حسین آئے درِ خیمہ پر
+شاہ زینب سے بہت دیر لپٹ کر روئے
 
 ۳
-زبح ہوتے ہوے سب دیکھ رہی تھی بہنیں
-یہ سماں دیکھ کے مولا تہہ خنجر روے
+ذبح ہوتے ہوئے سب دیکھ رہی تھی بہنیں
+یہ سماں دیکھ کے مولا تہِ خنجر روئے
 
 ۴
 شمر کا خوف ہے گردن میں رسن بھی ہے بندھی
-اپنے بابا کو سکینہ خنجر جا کر روے
+اپنے بابا کو سکینہ کہاں جا کر روئے
 
 ۵
 ایسے رویا نہ کسی باپ کو بیٹا کوئی
-جیسے چالیس برس عابد مضطر روے
+جیسے چالیس برس عابدِ مضطر روئے
 
 ۶
-نزع میں یاد جو بیمار مدینہ آی
-ہچکیاں بڑھ گیء اس طرح سے اکبر روے
+نزع میں یاد جو بیمارِ مدینہ آئی
+ہچکیاں بڑھ گئیں اس طرح سے اکبر روئے
 
 ۷
 سن کے اے میر تکلم تیرا مجلس میں سلام
-فاطمہ روی علی روے پیمبر روے
+فاطمہ روئی علی روئے پیمبر روئے

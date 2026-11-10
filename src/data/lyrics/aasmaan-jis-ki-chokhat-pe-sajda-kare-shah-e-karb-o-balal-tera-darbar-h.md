@@ -1,6 +1,6 @@
 ---
 title: "آسماں جس کی چوکھٹ پہ سجدہ کرے شاہِ کرب و بلا تیرا دربار ہے"
-alternateTitle: "Aasmaan Jis Ki Chokhat Pe Sajda Kare Shah-e-Karb o Bala Tera Darbar Hai"
+alternateTitle: "Aasmaṅ Jis Ki Chokhat Pe Sajda Kare Shah-e-Karb o Bala Tera Darbar Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,31 +8,31 @@ kalamType: "Manqabat"
 poet: "Allama Dr Majid Raza Abidi"
 reciter: "Syed Wajhi Hasan Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Aasmaan Jis Ki Chokhat Pe Sajda Kare Shah-e-Karb o Bala Tera Darbar Hai"]
 published: false
 romanLyrics: |-
-  Aasmaan jis ki chokhat pe sajda kare Shah-e-Karb o Bala tera darbar hai
-  Jis mein aansu bhare hoṅ tere naam ke bakhuda bas wohi aankh bedar hai
-  Mansab o jaah ka silsila aur hai yahan to shahi ka kuchh aur mayaar hai
-  Ye hai Karb o Bala Shah-e-Din ka nagar yahan woh sardar hai jo sar-e-dar hai
+  Aasmaṅ jis ki chokhat pe sajda kare Shah-e-Karb o Bala tera darbar hai
+  Jis meiṅ aansu bhare hoṅ tere naam ke bakhuda bas wohi aankh bedar hai
+  Mansab o jaah ka silsila aur hai yahaṅ to shahi ka kuchh aur mayaar hai
+  Ye hai Karb o Bala Shah-e-Diṅ ka nagar yahaṅ woh sardar hai jo sar-e-daar hai
 
   1
   Mere Sarwar mere Shah mere Wali mere Sardar o Sayyid mere Badshah
-  Jab se mala japi hai tere naam ki meri mutthi mein ye sara sansar hai
+  Jab se mala japi hai tere naam ki meri mutthi meiṅ ye saara sansar hai
   Tu ne Rahib ko bete ata kar diye tu ne Fitrus ko bhi baal o par de diye
-  Kaam saare Khuda jaise karta hai tu phir bhi sajde mein sar tera har baar hai
+  Kaam saare Khuda jaise karta hai tu phir bhi sajde meiṅ sar tera har baar hai
 
   2
   Karbala lauh par likh raha hai qalam din ka hai bharam arsh ka hai hasham
   Haq to ye hai haqiqat hai Karb o Bala is se hat kar hai jo kuchh woh bekaar hai
-  Jis ko Allah se rabita chahiye ae Karb o Bala us ko ye chahiye
+  Jis ko Allah se raabita chahiye ae Karb o Bala us ko ye chahiye
   Arsh se rabt-e-paiham ki manzil ye rauza-e-Shah ka aisa minar hai
 
   3
   Karbala chhor do woh fiza chhor do maal o daulat bhi lo jaah o mansab bhi lo
   Ye woh ghate ka sauda hai jis se mujhe kal bhi inkar tha ab bhi inkar hai
-  Tu ne jab se bulaya hai darbar mein aalam-e-mahviyat mein hai Majid Raza
-  Ek tasavvur mein rehta hai zehn-e-rifah hai jabin meri aur tera darbar hai
+  Tu ne jab se bulaya hai darbar meiṅ aalam-e-mahviyat meiṅ hai Majid Raza
+  Ek tasavvur meiṅ rehta hai zehn-e-rifah hai jabiṅ meri aur tera darbar hai
 # source_id: tajpoints:4ecc1b986b474edf5b4c
 # source_url: https://tajpoints.com/2017/12/aasmaan-jis-ki-chokhat-pe-sajda-kare.html
 # raw_sha256: f0e42d16f761360086b4e29129c41851459e6d88f5c2fb4b62e71170c0c67d7e
