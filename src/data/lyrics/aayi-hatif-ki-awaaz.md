@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baqar"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,6 +14,7 @@ romanLyrics: |-
   Aayi Hatif ki aawaz Sheh ko
   Utro Shabbir ye Karbala hai
   Bas qadam ab na aage barhao
+  Utro Shabbir ye Karbala hai
 
   1
   Ab safar khatm hai Ibn-e-Zehra
@@ -35,7 +37,7 @@ romanLyrics: |-
   Shimr dega yahiṅ us ko iza
 
   5
-  Thore din hain jo mehman rahoge
+  Thore din haiṅ jo mehmaṅ rahoge
   Khaane pani ki iza sahoge
   Bhukhe pyase yahiṅ qatl hoṅge
 
@@ -50,6 +52,7 @@ romanLyrics: |-
 آی ہاتف کی آواز شہ کو
 اترو شبیر یہ کربلا ہے
 بس قدم اب نہ آگے بڑھاؤ
+اترو شبیر یہ کربلا ہے
 
 ۱
 اب سفر ختم ہے ابنِ زہرا

@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Alam Sultanpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,7 +15,9 @@ romanLyrics: |-
   Sada baap nahiṅ jite haiṅ kisi ke
   Ab aaj se bin baap ki kehlaogi beti
   Sheh baali Sakina se ye farmate the ro kar
+  Ab aaj se bin baap ki kehlaogi beti
   Aa lag ja kaleje se sukun-e-dil-e-Sarwar
+  Ab aaj se bin baap ki kehlaogi beti
 
   1
   Kuchh lamhoṅ mein ghir jaunga main fauj-e-jafa mein
@@ -68,16 +71,18 @@ romanLyrics: |-
 سدا باپ نہیں جیتے ہیں کسی کے
 اب آج سے بن باپ کی کہلاؤ گی بیٹی
 شہ بالی سکینہ سے یہ فرماتے تھے رو کر
+اب آج سے بن باپ کی کہلاؤ گی بیٹی
 آ لگ جا کلیجے سے سکون دل سرور
+اب آج سے بن باپ کی کہلاؤ گی بیٹی
 
 ۱
-کچھ لمحوں میں گھر جاؤں گا میں فوج جفا میں
+کچھ لمحوں میں گھِر جاؤں گا میں فوج جفا میں
 سب خوں کے پیاسے ہیں میرے کربوبلا میں
 پھیرے گا لعیں سوکھے گلے پر میرے خنجر
 
 ۲
 اللّٰہ کے اس دہر میں دستور ہے ایسے
-زندہ نہیں رہتے ہیں صدا باپ کسی کے
+زندہ نہیں رہتے ہیں سدا باپ کسی کے
 جو دہر میں آیا ہے اسے جانا ہے دلبر
 
 ۳
@@ -87,7 +92,7 @@ romanLyrics: |-
 
 ۴
 خیمے میں چلی جاؤ میری جان سکینہ
-سب ہو گےء اب دین پہ قربان سکینہ
+سب ہو گئے اب دین پہ قربان سکینہ
 امداد کو آیینگے نہ عباس دلاور
 
 ۵
@@ -97,7 +102,7 @@ romanLyrics: |-
 
 ۶
 وعدہ کرو مجھ سے اے میری راحت جانی
-رو رو کے نہ زینب سے میری مانگوں گی پانی
+رو رو کے نہ زینب سے میری مانگو گی پانی
 جب روے گی تو روے گا نیزے پہ میرا سر
 
 ۷

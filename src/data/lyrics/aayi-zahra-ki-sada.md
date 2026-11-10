@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -42,7 +43,7 @@ romanLyrics: |-
   5
   Haath pyase ki na gardan se hataegi ye maaṅ
   Apne bachche ko bachaegi ye maaṅ
-  Ab nahi fikr mujhe haath kat jaaye mere
+  Ab nahiṅ fikr mujhe haath kat jaaye mere
   Katne duṅgi na gala
 
   6
@@ -62,7 +63,7 @@ romanLyrics: |-
 ---
 آی زہرا کی صدا پیاسا ہے بچہ میرا
 شمر خنجر نہ چلا
-جرم کیا اس نے کچھ تو کر خوف خدا
+جرم کیا اس نے کیا کچھ تو کر خوف خدا
 مجھ پہ یہ ظلم نہ ڈھا
 
 ۱
@@ -86,7 +87,7 @@ romanLyrics: |-
 ۴
 میں سکینہ سے تجھے مانگ کے لا دونگی گوہر
 لے لے سب اہلِ حرم کے زیور
-ماں کا پھٹتا ہے جگر اتنی توحین نہ کر
+ماں کا پھٹتا ہے جگر اتنی توہین نہ کر
 پیر سینے سے ہٹا
 
 ۵

@@ -46,9 +46,9 @@ romanLyrics: |-
 # source_url: https://tajpoints.com/2023/02/ab-arahay-hain-hussain-mukhtar-hussain.html
 # raw_sha256: 4578ff8f76e185d1648a65ae919af55e520a2c6d8cf18a63f7cdfb6d530e0dcf
 # source_composer: Waheed ul Hasan Kamalvi
-# editorial_uncertainty: manually fixed
+# editorial_uncertainty: Urdu reconstructed from archived Roman; stanza 3 bete/betay and stanza 4 ke/keh require audio or the Urdu poster; not independently verified.
 ---
-١
+۱
 خدا کے لے کے خزانے اب آ رہے ہیں حسین
 زمین کو عرش بنانے اب آ رہے ہیں حسین
 

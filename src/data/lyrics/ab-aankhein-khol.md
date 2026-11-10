@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -16,14 +17,14 @@ romanLyrics: |-
   Zaifi mein jawaṅ laasha uthane aa gaya Baba
 
   1
-  Guzar jaeṅge hum is imtehan se ya Ali keh kar
+  Guzar jaeṅge hum is imtihaṅ se ya Ali keh kar
   Nikal jaegi ye barchhi na ghabrana mere dilbar
   Tumhara haath sine se hatane aa gaya Baba
 
   2
   Unhoṅ ne kya samajh rakha tha Akbar besahara hai
   Ishare se bata do kis ne kis ne tum ko maara hai
-  Ulat kar aastin mahshar uthane aa gaya Baba
+  Ulat kar aastiṅ mahshar uthane aa gaya Baba
 
   3
   Chali aayi thi aadhe raste tak Saani-e-Zehra
