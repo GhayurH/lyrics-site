@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -22,7 +23,7 @@ romanLyrics: |-
   1
   Tum jaante ho koi nahiṅ mera sahara
   Abbas kate haathoṅ se tum kar do ishara
-  Jab yaad Husain aate hain rota hai mera dil
+  Jab yaad Husain aate haiṅ rota hai mera dil
   Mar jauṅga Maula se mila do na Khudara
   Kitna bechain hai dil Karbala hai manzil
   Jald aasan karo Maula meri mushkil
@@ -33,23 +34,23 @@ romanLyrics: |-
   Rota huṅ bahot der gale us ko laga kar
   Main bhi to azadar huṅ kya dil nahiṅ mera
   Zawwaroṅ ki khidmat mein karuṅ paoṅ daba kar
-  Wahan paidal main chaluṅ saare maukab dekhuṅ
+  Wahaṅ paidal main chaluṅ saare maukab dekhuṅ
   Wa Husaina keh kar khaak chehre pe maluṅ
-  Ek baar mashi mujhko kara do
+  Ik baar mashi mujhko kara do
 
   3
   Paoṅ the kahiṅ jism kahiṅ haath kahiṅ the
-  Rauza hai jahan khun mein tar aap wahiṅ the
+  Rauza hai jahaṅ khuṅ mein tar aap wahiṅ the
   Teer aankh mein tha chehra bhi zakhmoṅ se bhara tha
   Jab zin se gire aap ke bazu hi nahiṅ the
   Pursa dena hai mujhe aap ko ro ro ke
-  Jahan dono bazu khaak par kat ke gire
-  Dono kaf-e-Abbas dikha do
+  Jahaṅ donoṅ bazu khaak par kat ke gire
+  Donoṅ kaf-e-Abbas dikha do
 
   4
   Sine se lipat jaata hai jaise koi bachcha
   Aise hai mujhe Shah ke rauze se lipatna
-  Mas kar ke sabhi apna kafan laate hain lekin
+  Mas kar ke sabhi apna kafan laate haiṅ lekin
   Main un ke liye le ke kafan jauṅga Maula
   Dil tarapta hai mera aaj bhi ae Maula
   Bekafan ghurbat mein hai Gharib-e-Zehra
@@ -58,7 +59,7 @@ romanLyrics: |-
   5
   Jab pehli nazar aap ke gumbad pe paregi
   Gir jauṅga sajde mein dua maṅguṅga Ghazi
-  Har saal yahan aata rahuṅ aap se milne
+  Har saal yahaṅ aata rahuṅ aap se milne
   Sun lena Alamdar tum awaz ye dil ki
   Tum hi to sunte ho haaṅ karam karte ho
   Hum azadaroṅ ke dil mein tum rehte ho
@@ -66,7 +67,7 @@ romanLyrics: |-
 
   6
   Zawwaroṅ se aati hai mujhe aap ki khushbu
-  Aankhoṅ se nikal aate hain Maula mere aaṅsu
+  Aankhoṅ se nikal aate haiṅ Maula mere aaṅsu
   Hasrat se unheṅ dekhta rehta huṅ main ro kar
   Us waqt nahiṅ rehta hai dil par mere qabu
   Dil ye kehta hai mera ae Shahanshah-e-Wafa
@@ -74,19 +75,19 @@ romanLyrics: |-
   Ab jald koi raah bana do
 
   7
-  Abbas jahan par hui Akbar ki shahadat
+  Abbas jahaṅ par hui Akbar ki shahadat
   Kya mere muqaddar mein nahiṅ hai wo ziyarat
-  Akbar ke kaleje pe jahan tuti thi barchhi
+  Akbar ke kaleje pe jahaṅ tuti thi barchhi
   Tuti thi wahiṅ Dilbar-e-Zehra pe qayamat
   Dekh luṅ main ja kar wo maqam-e-Akbar
-  Shah pahunche the jahan khaak par gir gir kar
+  Shah pahunche the jahaṅ khaak par gir gir kar
   Akbar se mohabbat ka sila do
 
   8
   Dil kitna pareshan hai Abbas se bolo
-  Wo Bab-e-Hawaij hai tum umid na chhoro
-  Aate hain wo khud Shah ke zawwaroṅ ko lene
-  Ek baar unheṅ bali Sakina ki qasam do
+  Wo Bab-ul-Hawaij hai tum umid na chhoro
+  Aate haiṅ wo khud Shah ke zawwaroṅ ko lene
+  Ik baar unheṅ bali Sakina ki qasam do
   Jald wo aaeṅge Shah bulwaeṅge
   Aur tumheṅ Karbobala saath le jaaeṅge
   Ae Mesum o Zeeshan sada do

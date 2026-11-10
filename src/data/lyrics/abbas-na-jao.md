@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -39,8 +40,8 @@ romanLyrics: |-
   Jite ji mujhe tum to na ye daagh dikhao
 
   7
-  Phir Shimr hai aur Shaam-e-Ghariban ka andhera
-  Chhoruṅ main Sakina ko kahan ye to batao
+  Phir Shimr hai aur Shaam-e-Gharibaṅ ka andhera
+  Chhoruṅ main Sakina ko kahaṅ ye to batao
 
   8
   The bain ye khaime mein Naved Ahl-e-Haram ke
