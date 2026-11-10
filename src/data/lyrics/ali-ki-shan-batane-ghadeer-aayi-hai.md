@@ -1,10 +1,11 @@
 ---
 title: "علی کی شان بتانے غدیر آئی ہے"
-alternateTitle: "Ali Ki Shan Batane Ghadeer Aayi Hai"
+alternateTitle: "Ali Ki Shaan Batane Ghadeer Aayi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Danish Abbas Danish"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -12,13 +13,13 @@ published: false
 # source_url: https://tajpoints.com/2019/08/ali-ki-shan-batane-ghadeer-aayi-hai.html
 # raw_sha256: 11d87e40a22d530f7471cda450e4aae3ebca129a393e0befc4d2bcba672d046e
 romanLyrics: |-
-  Ali ki shan batane Ghadeer aayi hai
+  Ali ki shaan batane Ghadeer aayi hai
   Munafiqoṅ ko jalane Ghadeer aayi hai
   Rasul kar do wo ailan jo farz hai tujh par
   Diya ye hukm Khuda ne Ghadeer aayi hai
   
   1
-  Hai aaj khatre mein kar-e-risalat-e-Mursal
+  Hai aaj khatre mein kaar-e-risalat-e-Mursal
   Nabuwatoṅ ko bachane Ghadeer aayi hai
   Ali Wali ki wilayat ka ho gaya ailan
   Wila ki khushiyaṅ manane Ghadeer aayi hai
@@ -38,11 +39,11 @@ romanLyrics: |-
   4
   Bakhin bakhin to kaha par diloṅ pe tir lage
   Qulub un ke dukhane Ghadeer aayi hai
-  Mare bema ut kayi log sun ke hukm-e-Rasul
+  Mare be maut kayi log sun ke hukm-e-Rasul
   Lapeta un ko qaza ne Ghadeer aayi hai
   
   5
-  Ghadeer walo piyoṅ ishq-e-Murtaza ki sharab
+  Ghadeer walo piyo ishq-e-Murtaza ki sharab
   Sharab-e-ishq pilane Ghadeer aayi hai
   Mujhe hai bazm-e-wila mein Ae Danish-e-Abbas
   Ali ke git sunane Ghadeer aayi hai

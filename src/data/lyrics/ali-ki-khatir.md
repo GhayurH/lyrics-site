@@ -15,27 +15,27 @@ published: false
 # raw_sha256: 8074a18413d4a743bb98208717eff257e4004f21e224fd2158c795ac928dc0f9
 # composition: Abbas Haider Lalji and Yusuf Okera
 romanLyrics: |-
-  Banayi Khaliq ne sari dunya Ali ki khatir
+  Banayi Khaaliq ne saari dunya Ali ki khatir
   Ye bahas ab chhor do hai kya kya Ali ki khatir
   
   1
   Wo arsh par hai Rajab ki terah Ali ki khatir
-  Ali hai Kabe mein aane wala Ali Jalla Jalalahu ki khatir
+  Ali hai Kabe mein aane waala Ali Jalla Jalalahu ki khatir
   
   2
   Wahaṅ talak hai zarur chaukhat Ali ke ghar ki
   Jahaṅ se suraj palat ke aaya Ali ki khatir
   
   3
-  Kuchh is tarah dar par tha Mesam ka chehra roshan
-  Ke jaise ho aik chand nikla Ali ki khatir
+  Kuchh is tarah daar par tha Mesam ka chehra roshan
+  Ke jaise ho aik chaand nikla Ali ki khatir
   
   4
   Are muqassir na parh tu Quran dekh is mein
   Jagah jagah hai likha qasida Ali ki khatir
   
   5
-  Nahiṅ ke bas Jibreel Quran hi tha lata
+  Nahiṅ ke bas Jibril Quran hi tha laata
   Kabhi kabhi tha faqat wo aata Ali ki khatir
   
   6

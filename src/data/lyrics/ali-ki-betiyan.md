@@ -1,10 +1,11 @@
 ---
-title: "علی کی بیٹیاں جب زندان میں اسیر ہوی"
+title: "علی کی بیٹیاں جب زندان میں اسیر ہوئیں"
 alternateTitle: "Ali Ki Betiyan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+sixVerseLayout: "pairs"
 reciter: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []

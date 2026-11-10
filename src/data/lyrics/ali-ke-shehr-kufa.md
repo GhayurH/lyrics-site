@@ -14,36 +14,36 @@ published: false
 # source_url: https://www.nohayonline.com/details_content.php?id=3230
 # raw_sha256: 8125a06969992674eac1f091bbf4d37b2c6b8f22730ea25ffa4b905821749e2e
 romanLyrics: |-
-  Ali ke shahr Kufa mein samaṅ Zainab pe kya aaya
-  Kuja burqa-e-shariat ka rida ka bhi nahiṅ saya
+  Ali ke shahr-e-Kufa mein samaṅ Zainab pe kya aaya
+  Kuja burqa-e-shariat ka rida ka bhi nahiṅ saaya
   
   1
-  Janaza jis ki madar ka utha tha parda-e-shab mein
-  Zamana us ki beti ko sar-e-bazar le aaya
+  Janaza jis ki maadar ka utha tha parda-e-shab mein
+  Zamana us ki beti ko sar-e-baazaar le aaya
   
   2
   Kaha ro kar Sakina ne Chacha Muslim duhayi hai
-  Wo dekho phir mujhe zalim tamache marne aaya
+  Wo dekho phir mujhe zaalim tamaache maarne aaya
   
   3
-  Darazi manziloṅ ki ret ke tapte hue raste
-  Anokha sarban hai beriyaṅ pehne hue aaya
+  Daraazi manziloṅ ki ret ke tapte hue raste
+  Anokha saarbaṅ hai beriyaṅ pehne hue aaya
   
   4
-  Saje haiṅ bam o dar Kufa mein aamad hai asiroṅ ki
-  Tamasha Aal-e-Ahmad ka Musalman dekhne aaya
+  Saje haiṅ baam o dar Kufa mein aamad hai asiroṅ ki
+  Tamasha Aal-e-Ahmad ka Musalmaṅ dekhne aaya
   
   5
   Wo khutba tha ke haibat chha gayi darbar sare par
-  Ali ki sher-dil beti mein Haider sa jalal aaya
+  Ali ki sher dil beti mein Haider sa jalaal aaya
   
   6
   Kaha Sajjad se Zainab ne ro ke kuchh to batlao
   Najaf se le ke chadar kiuṅ mera Baba nahiṅ aaya
   
   7
-  Jahaṅ Baba ki shahi thi usi darbar mein Zainab
-  Nisar aayi barehna sar ye kaisa inqilab aaya
+  Jahaṅ Baba ki shaahi thi usi darbar mein Zainab
+  Nisaar aayi barehna sar ye kaisa inqilaab aaya
 ---
 
 علی کے شہرِ کوفہ میں سماں زینب پہ کیا آیا
