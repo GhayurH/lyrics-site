@@ -1,73 +1,74 @@
 ---
 title: "اے موسی کاظم اے موسی کاظم باب حوایج"
-alternateTitle: "Ay Musa E Kazim"
+alternateTitle: "Ae Musa-e-Kazim"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Musa E Kazim"]
 published: false
 romanLyrics: |-
-  Ay musa e kazim ay mere baab e hawaij
-  Mohtaaj e dua hoo mai tere dar ka gada hoo
-  Mai risq e aza risq e wafa maang raha hoo
+  Ae Musa-e-Kazim ae mere Baab-e-Hawaaij
+  Mohtaaj-e-dua huṅ main tere dar ka gada huṅ
+  Main rizq-e-aza rizq-e-wafa maang raha huṅ
 
   1
-  Mai ghair ke dar ka to sawali nahi maula
-  Maulayi hoo aur zarf se khaali nahi maula
-  Pehle bhi to mai aap ke tukdo pe pala hoo
+  Main ghair ke dar ka to sawaali nahiṅ Maula
+  Maulaai huṅ aur zarf se khaali nahiṅ Maula
+  Pehle bhi to main aap ke tukroṅ pe pala huṅ
 
   2
-  Neymat ghame shabbir ki naslon se na jaaye
-  Baitha hoo tere dar pe msi daaman pe bichaye
-  Maana hoo gunehgaar magar ahle aza hoo
+  Nemat gham-e-Shabbir ki nasloṅ se na jaaye
+  Baitha huṅ tere dar pe main daamaan bichhaaye
+  Maana huṅ gunahgaar magar ahl-e-aza huṅ
 
   3
-  Jo aap ke nabiyon ke madadgaar hai maula
-  Mansab wohi allah ne hai aap ko baksha
-  Mai aap ke rauze ko najaf jaan raha hoo
+  Jo aap ke nabiyoṅ ke madadgaar haiṅ Maula
+  Mansab wohi Allah ne haiṅ aap ko bakhsha
+  Main aap ke rauze ko Najaf jaan raha huṅ
 
   4
-  Maqrooz hoo nadaar hoo bemaar o pareshan
-  Hai aap maseeha e jahan waaris e quran
-  Tukda tere khaane se bacha maang raha hoo
+  Maqruz huṅ naadaar huṅ bimaar o pareshaan
+  Haiṅ aap Masiha-e-jahaaṅ waaris-e-Quraaṅ
+  Tukra tere khaane se bacha maang raha huṅ
 
   5
-  Jo godiyan aulaad ki neymat se hai khaali
-  Pakde huwe wo aap ke rauze ki hai jaali
-  Mai bhi kisi kone may yahin mehwe dua hoo
+  Jo godiyaaṅ aulaad ki nemat se haiṅ khaali
+  Pakre hue wo aap ke rauze ki hai jaali
+  Main bhi kisi kone mein yahiṅ mahw-e-dua huṅ
 
   6
-  Ay baab e ata waasta zainab ki rida ka
-  Matam se jo chadar ka diya karti hai pursa
-  Un behno ke parde ki baqa maang raha hoo
+  Ae Baab-e-ata waasta Zainab ki rida ka
+  Maatam se jo chaadar ka diya karti hai pursa
+  Un behnoṅ ke parde ki baqa maang raha huṅ
 
   7
-  Kuch aisi kaneezein bhi hai sarkar tumhari
-  Bachpan se sare farsh e aza umr guzaari
-  Ghar unke base unke areeze ki nawa hoo
+  Kuchh aisi kanizeṅ bhi haiṅ Sarkaar tumhaari
+  Bachpan se sar-e-farsh-e-aza umr guzaari
+  Ghar un ke baseṅ un ke arize ki nawa huṅ
 
   8
-  Maula ka azadar namazi bhi bada ho
-  Aaqa tere rauze pe ye maqbool dua ho
-  Ye arz liye aap ki chaukat pe khada hoo
+  Maula ka azaadaar namaazi bhi bara ho
+  Aaqa tere rauze pe ye maqbul dua ho
+  Ye arz liye aap ki chaukhat pe khara huṅ
 
   9
-  Baghdad may jo zulm o sitam aap pe guzre
-  Wo soch ke maula mere aansu nahi rukte
-  Us gham se sabab aaj bhi mai mehve buka hoo
+  Baghdad mein jo zulm o sitam aap pe guzre
+  Wo soch ke Maula mere aansu nahiṅ rukte
+  Us gham se sabab aaj bhi main mahw-e-buka huṅ
 
   10
-  Zanjeeron may jakda hua taboot rakha tha
-  Mazdooron ne maula tere laashe ko uthaya
-  Purse ke liye shehr e khurasan gaya hoo
+  Zanjiroṅ mein jakra hua taabut rakha tha
+  Mazduroṅ ne Maula tere laashe ko uthaaya
+  Purse ke liye shahr-e-Khuraasaan gaya huṅ
 
   11
-  Mai musa e kazim ka azadar hoo rehaan
-  Mashad may chalo pursa kuna is tarha rizwan
-  Khud maula raza kehde tumhe deta dua hoo
+  Main Musa-e-Kazim ka azaadaar huṅ Rehaaṅ
+  Mashhad mein chalo pursa kunaaṅ is tarah Rizwaaṅ
+  Khud Maula Raza kah de tumheṅ deta dua huṅ
 # source_id: nohayonline:9b1084c82b056faf4a7f
 # source_url: https://www.nohayonline.com/details_content.php?id=1134
 # raw_sha256: c3e9c7448afb22b34e4e5fcc7f6b052a2369ef91cf222a3491443c71d1d1a07e
@@ -79,27 +80,27 @@ romanLyrics: |-
 
 ۱
 میں غیر کے در کا تو سوالی نہیں مولا
-مولای ہوں اور ظرف سے خالی نہیں مولا
+مولائی ہوں اور ظرف سے خالی نہیں مولا
 پہلے بھی تو میں آپ کے ٹکڑوں پہ پلا ہوں
 
 ۲
-نعمت غمِ شبیر کی نسلوں سے نہ جاے
-بیٹھا ہوں تیرے در پہ میں دامان بچھاے
-مانا ہوں گنہگار مگر أہل عزا ہوں
+نعمت غمِ شبیر کی نسلوں سے نہ جائے
+بیٹھا ہوں تیرے در پہ میں دامان بچھائے
+مانا ہوں گنہگار مگر اہل عزا ہوں
 
 ۳
-جو آپکے نبیوں کے مددگار ہیں مولا
-منصب وہی اللہ نے ہیں آپکو بخشا
-میں آپکے روضے کو نجف جان رہا ہوں
+جو آپ کے نبیوں کے مددگار ہیں مولا
+منصب وہی اللہ نے ہیں آپ کو بخشا
+میں آپ کے روضے کو نجف جان رہا ہوں
 
 ۴
 مقروض ہوں نادار ہوں بیمار و پریشان
-ہیں آپ مسیحاے جہاں وارث قرآں
+ہیں آپ مسیحائے جہاں وارث قرآں
 ٹکڑا تیرے کھانے سے بچا مانگ رہا ہوں
 
 ۵
 جو گودیاں اولاد کی نعمت سے ہیں خالی
-پکڑے ہوے وہ آپکے روضے کی ہے جالی
+پکڑے ہوئے وہ آپ کے روضے کی ہے جالی
 میں بھی کسی کونے میں یہی محو دعا ہوں
 
 ۶
@@ -110,12 +111,12 @@ romanLyrics: |-
 ۷
 کچھ ایسی کنیزیں بھی ہیں سرکار تمہاری
 بچپن سے سر فرش عزا عمر گزاری
-گھر انکے بسیں انکے عریضے کی نوا ہوں
+گھر ان کے بسیں ان کے عریضے کی نوا ہوں
 
 ۸
 مولا کا عزادار نمازی بھی بڑا ہو
 آقا تیرے روضے پہ یہ مقبول دعا ہو
-یہ عرض لیےء آپکی چوکھٹ پہ کھڑا ہوں
+یہ عرض لیے آپ کی چوکھٹ پہ کھڑا ہوں
 
 ۹
 بغداد میں جو ظلم و ستم آپ پہ گزرے

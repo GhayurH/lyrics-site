@@ -1,140 +1,145 @@
 ---
 title: "سنو سنو اے مومنو"
-alternateTitle: "Ay Momino Sunata"
+alternateTitle: "Ae Momino Sunata"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Momino Sunata"]
 published: false
 romanLyrics: |-
-  Suno suno ay momino
-  Ay momino sunata hoo pur dard waaqia
-  Dulha bana jo hazrate shabbar ka laadla
-  Ashoor ki wo shab wo qayamat ki thi ghadi
-  Ibne hassan ke haath mein mehndi rachi hui
-  Sehra bhi sar pe nade ali ka saja hua
+  Suno suno ae momino
+
+  Ae momino sunaata huṅ pur dard waaqia
+  Dulha bana jo Hazrat-e-Shabbar ka laadla
+
+  Aashur ki wo shab wo qayaamat ki thi ghari
+  Ibn-e-Hasan ke haath mein mehndi rachi hui
+  Sehra bhi sar pe Naad-e-Ali ka saja hua
 
   1
-  Itna haseen lagta tha wo noor pairahan
-  Sehre mein aaftab e imamat ki wo kiran
-  Aankhein sitara jaisi thi chehra tha chand sa
+  Itna hasiṅ lagta tha wo nur pairahan
+  Sehre mein aaftaab-e-imaamat ki wo kiran
+  Aankheṅ sitaara jaisi thi chehra tha chaand sa
 
   2
-  Behno ne sar pe daal ke aanchal balayein li
-  Sab bhaiyon ne pyaar se badh kar duayein di
-  Saaya alam ka karte thay abbas e bawafa
+  Behnoṅ ne sar pe daal ke aanchal balaaeṅ li
+  Sab bhaaiyoṅ ne pyaar se barh kar duaaeṅ di
+  Saaya alam ka karte the Abbas ba wafa
 
   3
-  Ashkon ke phool goond ke maa ne kaha pisar
-  Ay laal mera sharm se jhukne na paaye sar
-  Rangeen tere khoon se ho daste karbala
+  Ashkoṅ ke phul gundh ke maaṅ ne kaha pisar
+  Ae laal mera sharm se jhukne na paaye sar
+  Rangin tere khun se ho dasht-e-Karbala
 
   4
-  Bola hassan ka laal meri bhi hai aarzoo
-  Bakhte jidaal pehle hamara bahe lahoo
-  Izne jihad dete nahi hai mujhe chacha
+  Bola Hasan ka laal meri bhi hai aarzu
+  Bakht-e-jidaal pehle hamaara bahe lahu
+  Izn-e-jihaad dete nahiṅ haiṅ mujhe chacha
 
   5
-  Amma hamein chacha se paye shere kibriya
-  Izne jihad aap hi dilwaaiye zara
-  Yaad aayega layeeno ko khyber ka maareka
+  Amma hameṅ chacha se pa-e-Sher-e-Kibriya
+  Izn-e-jihaad aap hi dilwaaiye zara
+  Yaad aayega lainoṅ ko Khaibar ka maaraka
 
   6
-  Maa ne kaha ki mai to bahot arz kar chuki
-  Ibne batool sunte nahi ilteja meri
-  Tum khud hi jaa ke unse kaho apna mud'da
+  Maaṅ ne kaha ki main to bahut arz kar chuki
+  Ibn-e-Batul sunte nahiṅ iltija meri
+  Tum khud hi jaa ke un se kaho apna muddaa
 
   7
-  Qasim ne maa ke hukm pe sheh se basad buka
-  Haathon ko apne jod ke rote huwe kaha
-  Izne wigha yateem ko de shaahe karbala
+  Qasim ne maaṅ ke hukm pe Shah se basad buka
+  Haathoṅ ko apne jor ke rote hue kaha
+  Izn-e-wigha yatim ko de Shah-e-Karbala
 
   8
-  Bole hussain tum to nishani hassan ki ho
-  Ay laal mujh ghareeb ka tum imtehan na lo
+  Bole Husain tum to nishaani Hasan ki ho
+  Ae laal mujh gharib ka tum imtihaan na lo
   Tum mar gaye to kaise jiyega ye ghamzada
 
   9
-  Taweez ek baazu se qasim ne khol kar
-  Maula hussain ko diya qadmon pe rakh ke sar
-  Taweez mein payaame hassan tha likha hua
+  Taawiz ek baazu se Qasim ne khol kar
+  Maula Husain ko diya qadmoṅ pe rakh ke sar
+  Taawiz mein payaam-e-Hasan tha likha hua
 
   10
-  Amma ki jaan bhai ke qalb o jigar hussain
-  Karbobala mein fidya hai mera ye noor e ain
-  Qasim ko dena izne wigha hukm hai mera
+  Amma ki jaan bhaai ke qalb o jigar Husain
+  Karbobala mein fidya hai mera ye nur-e-ain
+  Qasim ko dena izn-e-wigha hukm hai mera
 
   11
-  Tehreer padh ke ro diye mazloome karbala
-  Sar ko jhuka ke izne wigha de ke ye kaha
-  Pardes mein hamara muqaddar bigad gaya
+  Tahrir parh ke ro diye Mazlum-e-Karbala
+  Sar ko jhuka ke izn-e-wigha de ke ye kaha
+  Pardes mein hamaara muqaddar bigar gaya
 
   12
-  Izne jihad milte hi qasim huwe nihaa
-  Pharte khushi se ho gaya chehre ka rang laal
-  Dulha kamar ko kass ke paye jang chal diya
+  Izn-e-jihaad milte hi Qasim hue nihaaṅ
+  Fart-e-khushi se ho gaya chehre ka rang laal
+  Dulha kamar ko kas ke pa-e-jang chal diya
 
   13
   Sehra tha sar pe haath mein kangna bandha hua
   Dulha jo qatl gaah ki jaanib chala gaya
-  Qaimon mein shaahe waala ke kohraam ho gaya
+  Khaimoṅ mein Shah-e-waala ke kohraam ho gaya
 
   14
-  Hamla kiya hassan ke pisar ne kuch is tarha
-  Apne hadaf pe sher jhapat'ta hai jis tarha
-  Talwarein apni phaynk ke chupte thay ashkiyan
+  Hamla kiya Hasan ke pisar ne kuchh is tarah
+  Apne hadaf pe sher jhapatta hai jis tarah
+  Talwaareṅ apni phenk ke chhupte the ashqiya
 
   15
-  Arzak ke chaar bete tahe taygh kar diye
-  Hadde nigaah raaste laashon se bhar diye
-  Qasim ko daad deta tha maidane karbala
+  Arzaq ke chaar bete tah-e-tegh kar diye
+  Hadd-e-nigaah raaste laashoṅ se bhar diye
+  Qasim ko daad deta tha maidaan-e-Karbala
 
   16
-  Wo kamsini wo bhook wo garmi thi al amaan
-  Wo pyaas thi ki khushk thi masoom ki zaban
-  Kamsin hassan ka pyaas se behaal ho gaya
+  Wo kamsini wo bhuk wo garmi thi al amaan
+  Wo pyaas thi ki khushk thi maasum ki zabaaṅ
+  Kamsin Hasan ka pyaas se behaal ho gaya
 
   17
-  Fauje udoo ne mauka ghanimat ye jaan kar
-  Ghera hassan ke laal ko talwarein taan kar
+  Fauj-e-adu ne mauqa ghanimat ye jaan kar
+  Ghera Hasan ke laal ko talwaareṅ taan kar
   Hamle pe hamla chaar taraf se kiya gaya
 
   18
-  Aakhir ko dashte garm pe wo gul badan gira
-  Awaaz di hussain ko jald aaiye chacha
-  Aaqa ghulam aap ka ghode se gir gaya
+  Aakhir ko dasht-e-garm pe wo gul badan gira
+  Aawaaz di Husain ko jald aaiye chacha
+  Aaqa ghulaam aap ka ghore se gir gaya
 
   19
-  Daude hussain akbar o abbas bhi chale
-  Bhaagi sipaahe shaam to ghode bidak gaye
-  Laasha hassan ke laal ka pamaal ho gaya
+  Daure Husain Akbar o Abbas bhi chale
+  Bhaagi sipaah-e-Shaam to ghore bidak gaye
+  Laasha Hasan ke laal ka paamaal ho gaya
 
   20
-  Sar tha kahin to haath kahin aur badan kahin
-  Tukdon mein bat gaya tha wo farwa ka nazneen
+  Sar tha kahiṅ to haath kahiṅ aur badan kahiṅ
+  Tukroṅ mein bat gaya tha wo Farwa ka naazniṅ
   Dulha ka qatl gaah mein laasha bikhar gaya
 
   21
-  Daaman mein apne laash ke tukde shahe huda
-  Chunte thay aur kehte thay ay mere mehlaqa
-  Dulhan se teri jaa ke kahega hussain kya
+  Daaman mein apne laash ke tukre Shah-e-Huda
+  Chunte the aur kehte the ae mere mah laqa
+  Dulhan se teri jaa ke kahega Husain kya
 
   22
-  Mesum tadap ke reh gaya rehaan ka qalam
-  Nauha hassan ke laal ka jis dam kiya raqam
+  Mesum tarap ke reh gaya Rehaan ka qalam
+  Nauha Hasan ke laal ka jis dam kiya raqam
   Har ashk dulha dulha ki deta raha sada
 # source_id: nohayonline:b20c415896027434af15
 # source_url: https://www.nohayonline.com/details_content.php?id=2131
 # raw_sha256: 31ae97008d068401bb183ce1e7f4653700059b9c3db48e001e12f1bd9d0dd162
 ---
 سنو سنو اے مومنو
+
 اے مومنو سناتا ہوں پر درد واقعہ
 دولہا بنا جو حضرتِ شبیر کا لاڈلا
+
 عاشور کی وہ شب وہ قیامت کی تھی گھڑی
-ابنِ حسن کے ہاتھ میں مہندی رچی ہوی
+ابنِ حسن کے ہاتھ میں مہندی رچی ہوئی
 سہرا بھی ناد علی کا سجا ہوا
 
 ۱
@@ -143,13 +148,13 @@ romanLyrics: |-
 آنکھیں ستارہ جیسی تھی چہرہ تھا چاند سا
 
 ۲
-بہنوں نے سر پہ ڈال کے آنچل بلاییں لی
+بہنوں نے سر پہ ڈال کے آنچل بلائیں لی
 سب بھائیوں نے پیار سے بڑھ کر دعائیں دی
 سایہ علم کا کرتے تھے عباس با وفا
 
 ۳
-آشکوں کے پھول گوندھ کے ماں نے کہا پسر
-اے لال میرا شرم سے جھکنے نہ پاے سر
+اشکوں کے پھول گوندھ کے ماں نے کہا پسر
+اے لال میرا شرم سے جھکنے نہ پائے سر
 رنگین تیرے خون سے ہو دشتِ کربلا
 
 ۴
@@ -158,24 +163,24 @@ romanLyrics: |-
 اذن جہاد دیتے نہیں ہیں مجھے چچا
 
 ۵
-اماں ہمیں چچا سے پےء شیر کبریا
-اذن جہاد آپ ہی دلوایےء زرا
-یاد آے گا لعینوں کو خیبر کا معرکہ
+اماں ہمیں چچا سے پئے شیر کبریا
+اذن جہاد آپ ہی دلوائیے ذرا
+یاد آئے گا لعینوں کو خیبر کا معرکہ
 
 ۶
 ماں نے کہا کی میں تو بہت عرض کر چکی
 ابنِ بتول سنتے نہیں التجاء میری
-تم خود ہی جا کے ان سے کہو اپنا مد دعا
+تم خود ہی جا کے ان سے کہو اپنا مدعا
 
 ۷
 قاسم نے ماں کے حکم پہ شہ سے بصد بکا
-ہاتھوں کو اپنے جوڑ کے روتے ہوے کہا
+ہاتھوں کو اپنے جوڑ کے روتے ہوئے کہا
 اذن وغا یتیم کو دے شاہ کربلا
 
 ۸
 بولے حسین تم تو نشانی حسن کی ہو
 اے لال مجھ غریب کا تم امتحان نہ لو
-تم مر گےء تو کیسے جیےء گا یہ غمزدہ
+تم مر گئے تو کیسے جیے گا یہ غمزدہ
 
 ۹
 تعویذ اک بازو سے قاسم نے کھول کر
@@ -183,19 +188,19 @@ romanLyrics: |-
 تعویذ میں پیام حسن تھا لکھا تھا ہوا
 
 ۱۰
-اماں کی جان بھای کے قلب و جگر حسین
+اماں کی جان بھائی کے قلب و جگر حسین
 کربوبلا میں فدیہ ہے میرے یہ نورِ عین
 قاسم کو دینا اذن وغا حکم ہے میرا
 
 ۱۱
-تحریر پڑھ کے رو دیےء مظلوم کربلا
+تحریر پڑھ کے رو دیے مظلوم کربلا
 سر کو جھکا کے اذن وغا دے کے یہ کہا
 پردیس میں ہمارا مقدر بگڑ گیا
 
 ۱۲
-اذن جہاد ملتے ہی قاسم ہوے نہاں
+اذن جہاد ملتے ہی قاسم ہوئے نہاں
 فرط خوشی سے ہو گیا چہرے کا رنگ لال
-دولہا کمر کو کس کے پےء جنگ چل دیا
+دولہا کمر کو کس کے پئے جنگ چل دیا
 
 ۱۳
 سہرا تھا سر پہ ہاتھ میں کنگنا بندھا ہوا
@@ -208,14 +213,14 @@ romanLyrics: |-
 تلواریں اپنی پھینک کے چھپتے تھے اشقیاء
 
 ۱۵
-ارزق کے چار بیٹے تہہ تیغ کر دیےء
-حد نگاہ راستے لاشوں سے بھر دیےء
+ارزق کے چار بیٹے تہہ تیغ کر دیے
+حد نگاہ راستے لاشوں سے بھر دیے
 قاسم کو داد دیتا تھا میدان کربلا
 
 ۱۶
 وہ کمسنی وہ بھوک وہ گرمی تھی الامان
 وہ پیاس تھی کی خشک تھی معصوم کی زباں
-کمسن حسن کا پیاس سے بہ حال ہو گیا
+کمسن حسن کا پیاس سے بے حال ہو گیا
 
 ۱۷
 فوج عدو نے موقع غنیمت یہ جان کر
@@ -224,12 +229,12 @@ romanLyrics: |-
 
 ۱۸
 آخر کو دشتِ گرم پہ وہ گل بدن گرا
-آواز دی حسین کو جلد آیےء چچا
+آواز دی حسین کو جلد آئیے چچا
 آقا غلام آپ کا گھوڑے سے گر گیا
 
 ۱۹
 دوڑے حسین اکبر و عباس بھی چلے
-بھاگی سپاہ شام تو گھوڑے بدک گےء
+بھاگی سپاہ شام تو گھوڑے بدک گئے
 لاشہ حسن کے لال کا پامال ہو گیا
 
 ۲۰
