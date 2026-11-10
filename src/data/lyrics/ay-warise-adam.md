@@ -1,76 +1,77 @@
 ---
 title: "اے وارث آدم تیری قربانیاں"
-alternateTitle: "Ay Warise Adam"
+alternateTitle: "Ae Waaris-e-Aadam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Warise Adam"]
 published: false
 romanLyrics: |-
-  Ay waaris e adam teri qurbaniyan
-  Farzande fatema teri qurbaniyan
+  Ae waaris-e-Aadam teri qurbaniyaṅ
+  Farzand-e-Fatema teri qurbaniyaṅ
 
   1
-  Ya hussain teri qurbani ki sunnat koi bhi kar na saka
-  Teer par teer bhi kha kar tu dua deta raha
-  Aisi anmol ibadat koi bhi kar na saka
+  Ya Husain teri qurbani ki sunnat koi bhi kar na saka
+  Tir par tir bhi kha kar tu dua deta raha
+  Aisi anmol ibaadat koi bhi kar na saka
 
   2
-  Khaak ko khaake shifa tu ne kiya ek taraf
-  Ek taraf aayi ye awaaz e shehenshahe najaf
-  Tu ne maidan e jafa ko laaeq e sajda kiya
+  Khaak ko khaak-e-shifa tu ne kiya ek taraf
+  Ek taraf aayi ye aawaaz-e-shahanshah-e-Najaf
+  Tu ne maidan-e-jafa ko laaiq-e-sajda kiya
   Ek maidan ko jannat koi bhi kar na saka
 
   3
-  Tujhse bayyat ka taqaza jo layeeno ne kiya
-  Tu ne baatil ke taqazon ka jawab aisa diya
-  Ban gaya qaari e quran bar sare noke sina
-  Aur phir aisi tilawat koi bhi kar na saka
+  Tujh se baiat ka taqaaza jo lainoṅ ne kiya
+  Tu ne baatil ke taqaazoṅ ka jawaab aisa diya
+  Ban gaya qaari-e-Quraan bar sar-e-nok-e-sinaṅ
+  Aur phir aisi tilaawat koi bhi kar na saka
 
   4
-  Subhe se shaam talak laashein uthaye thay magar
-  Yun lada jang ke maidan mein hyder ka pisar
-  Dasht laashon se sajaya keh uthe jinn o bashar
-  Pyasa reh kar bhi ye himmat koi bhi kar na saka
+  Subh se shaam talak laasheṅ uthaye the magar
+  Yuṅ lara jang ke maidan mein Haider ka pisar
+  Dasht laashoṅ se sajaaya keh uthe jinn o bashar
+  Pyaasa reh kar bhi ye himmat koi bhi kar na saka
 
   5
-  Khud raha pyasa magar pyason ko sairaab kiya
-  Zarf maula tere jaisa kahin dekha na suna
-  Hurr ko seene se lagaya to yehi hurr ne kaha
-  Aisi insan se mohabbat koi bhi kar na saka
+  Khud raha pyaasa magar pyaasoṅ ko sairaab kiya
+  Zarf Maula tere jaisa kahiṅ dekha na suna
+  Hur ko sine se lagaaya to yehi Hur ne kaha
+  Aisi insaan se mohabbat koi bhi kar na saka
 
   6
-  Tere hone se azaan hai tere hone se namaz
-  Tere sajde se mila deen e mohamed ko faraaz
-  Har dhadakte huwe dil ki hai yehi ek awaaz
-  Yun dilon par to hukumat koi bhi kar na saka
+  Tere hone se azaan hai tere hone se namaaz
+  Tere sajde se mila din-e-Muhammad ko faraaz
+  Har dharakte hue dil ki hai yehi ek aawaaz
+  Yuṅ diloṅ par to hukumat koi bhi kar na saka
 
   7
-  Faqr e adam bhi tu hi hai faqr e hyder bhi tu hi
-  Naazish e ahle haram naazish e daawar bhi tu hi
-  Tu hi sardar e jina hai aur kausar bhi tu hi
-  Khud ko aaeena e aayat koi bhi kar na saka
+  Fakhr-e-Aadam bhi tu hi hai fakhr-e-Haider bhi tu hi
+  Naazish-e-ahl-e-haram naazish-e-Daawar bhi tu hi
+  Tu hi sardaar-e-jinaṅ hai aur Kausar bhi tu hi
+  Khud ko aaina-e-aayat koi bhi kar na saka
 
   8
-  Pyasa darya ke kanare se alamdar chala
-  Kat gaye baazu magar nazron mein asghar hi raha
-  Mashk se pani gaya aur deen se ghazi gaya
-  Ye wafayein ye ata'at koi bhi kar na saka
+  Pyaasa darya ke kinaare se alamdaar chala
+  Kat gaye baazu magar nazroṅ mein Asghar hi raha
+  Mashk se paani gaya aur din se Ghaazi gaya
+  Ye wafaaeṅ ye itaaat koi bhi kar na saka
 
   9
-  Ek mastoor ne mushkil mein bada kaam kiya
-  Teri mazloomi ka parchaar sar e aam kiya
-  Khud to be-ghar hui ghar ghar tera paigham diya
-  Is tarha teri himayat koi bhi kar na saka
+  Ek mastur ne mushkil mein bara kaam kiya
+  Teri mazlumi ka parchaar sar-e-aam kiya
+  Khud to beghar hui ghar ghar tera paighaam diya
+  Is tarah teri himaayat koi bhi kar na saka
 
   10
-  Shadman hogayi zehra jo qalam chalta raha
-  Apne alfazon mein pursa tu unhe deta raha
-  Raat din nauhe jo mazhar ro ke tu likhta raha
-  Zikre sheh mein ye riyazat koi bhi kar na saka
+  Shaadmaaṅ ho gayi Zehra jo qalam chalta raha
+  Apne alfaazoṅ mein pursa tu unheṅ deta raha
+  Raat din nauhe jo Mazhar ro ke tu likhta raha
+  Zikr-e-Shah mein ye riyaazat koi bhi kar na saka
 # source_id: nohayonline:44eab5688db4029cebda
 # source_url: https://www.nohayonline.com/details_content.php?id=3048
 # raw_sha256: 6690b17aa312626d5a88efa0f35015087505ae4266f7c6b134faddc11c8fcd4c

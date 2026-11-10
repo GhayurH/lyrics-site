@@ -1,69 +1,71 @@
 ---
 title: "عزاداروں سوگواروں رونے والوں پرسہ داروں"
-alternateTitle: "Ay Zaairon Qadam"
+alternateTitle: "Ae Zaairoṅ Qadam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Zaairon Qadam"]
 published: false
 romanLyrics: |-
-  Azadaro soghwaro rone walo pursadaro
-  Ay zaairon qadam ko rakho dekh bhaal kar
-  Kis kis ka khoon baha hai na jaane kahan kahan
+  Azaadaaroṅ sogwaaroṅ rone waaloṅ pursadaaroṅ
+  Ae zaairoṅ qadam ko rakho dekh bhaal kar
+  Kis kis ka khuṅ baha hai na jaane kahaaṅ kahaaṅ
 
   1
-  Halq e sagheer teer se jab zakhmi ho gayi
-  Sehra e karbala mein bahi khoon ki nadi
-  Aur mayyat liye hussain bhi tadpe hai kis qadar
+  Halq-e-saghir tir se jab zakhmi ho gayi
+  Sahra-e-Karbala mein bahi khun ki nadi
+  Aur mayyat liye Husain bhi tarpe hai kis qadar
 
   2
-  Ek naujawan tha jiska jigar chalni ho gaya
-  Kitna badan mein khoon tha akbar ka beh gaya
-  Thi shakle mustafa ke lahoo se zameen tar
+  Ek naujawaaṅ tha jis ka jigar chhalni ho gaya
+  Kitna badan mein khun tha Akbar ka beh gaya
+  Thi shakl-e-Mustafa ke lahu se zamin tar
 
   3
-  Mayyat jawan pisar ki liye jab chale hussain
-  Phir naujawan ki laash liye gir pade hussain
-  Seene mein phat na jaye kahin shaah ka jigar
+  Mayyat jawaaṅ pisar ki liye jab chale Husain
+  Phir naujawaaṅ ki laash liye gir pare Husain
+  Sine mein phat na jaaye kahiṅ Shah ka jigar
 
   4
-  Farwa ke ek chand ko aisa grehan laga
-  Maqtal mein jiske jism ka tukda hai ja ba ja
-  Dhalta hai khaak o khoon se shabbar tera pisar
+  Farwa ke ek chaand ko aisa grahan laga
+  Maqtal mein jis ke jism ka tukra hai ja ba ja
+  Dhalta hai khaak o khun se Shabbar tera pisar
 
   5
-  Reti pe khoon hai ab bhi sayeed o zohair ka
-  Hai ja ba ja habib ka hurr ka burair ka
-  Har jism tha zameen pe naizon pe sab ke sar
+  Reti pe khuṅ hai ab bhi Said o Zuhair ka
+  Hai ja ba ja Habib ka Hur ka Burair ka
+  Har jism tha zamin pe naizoṅ pe sab ke sar
 
   6
-  Is sar zameen pe khoon hai mohamed ke aon ke
-  Is sar zameen pe khoon ke katre hai john ke
-  Arz e bala mein ahle falak bole aan kar
+  Is sarzamiṅ pe khun hai Muhammad ke Aun ke
+  Is sarzamiṅ pe khun ke qatre hai Jaun ke
+  Arz-e-bala mein ahl-e-falak bole aan kar
 
   7
-  Ashoor ko hussain ka chalna muhaal tha
-  Maqtal ka waqt e asr tha zahra ka laal tha
-  Roya kiye hussain yehi soch soch kar
+  Aashur ko Husain ka chalna muhaal tha
+  Maqtal ka waqt-e-asr tha Zahra ka laal tha
+  Roya kiye Husain yehi soch soch kar
 
   8
-  Jab sibte mustafa ke galay par churi chali
-  Zainab khadi hai ye samaa dekhti rahi
-  Behre madad bulaati kise haye nauhagar
+  Jab Sibt-e-Mustafa ke gale par chhuri chali
+  Zainab khari hai ye samaaṅ dekhti rahi
+  Bahr-e-madad bulaati kise haaye nauhagar
 
   9
-  Har laash ran mein ghodon se pamaal ho gayi
-  Ashoor ko ye arz e bala laal ho gayi
+  Har laash ran mein ghoroṅ se paamaal ho gayi
+  Aashur ko ye arz-e-bala laal ho gayi
   Sajjad bhi pukaar uthe ghash se chaunk kar
 
   10
-  Nauha raqam ho kis tarha ay arze karbala
-  Rehan ke bayan pe mubarak ne ki buka
-  Hum karbala pahunch ke pukare ba chashme tar
-  Labbaik ya hussain
+  Nauha raqam ho kis tarah ae arz-e-Karbala
+  Rehan ke bayaaṅ pe Mubarak ne ki buka
+  Hum Karbala pahunch ke pukaare ba-chashm-e-tar
+  Labbaik ya Husain
+  Labbaik ya Husain
 # source_id: nohayonline:d200274d357db28e8759
 # source_url: https://www.nohayonline.com/details_content.php?id=718
 # raw_sha256: c31b98bb8aebdd8df4b883f6c24f56bb2789b72f6e5299befc079af25b079d6d
@@ -122,4 +124,5 @@ romanLyrics: |-
 نوحہ رقم ہو کس طرح اے ارض کربلا
 ریحان کے بیاں پہ مبارک نے کی بکا
 ہم کربلا پہنچ کے پکاریں بہ چشمِ تر
+لبیک یا حسین
 لبیک یا حسین

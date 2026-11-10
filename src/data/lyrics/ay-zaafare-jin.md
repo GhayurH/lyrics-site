@@ -1,79 +1,86 @@
 ---
 title: "زعفر میں لٹ گیا میرا کوئی نہیں بچا"
-alternateTitle: "Ay Zaafare Jin"
+alternateTitle: "Ae Zaafar-e-Jinn"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Zaafare Jin"]
 published: false
 romanLyrics: |-
-  Zaafar mai lut gaya mera koi nahi bacha
-  Mai jee ke kya karun mera ab kaun hai raha
-  Ay zaafar e jinn ay zaafar e jinn
+  Zaafar main lut gaya mera koi nahiṅ bacha
+  Main ji ke kya karuṅ mera ab kaun hai raha
+  Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   1
-  Zaafar tumhe dikhaun kahan hadh e sabr hai
-  Dekho wo saamne ali asghar ki qabr hai
-  Chehre pe uska khoon hai maine mala hua
+  Zaafar tumheṅ dikhaauṅ kahaaṅ hadd-e-sabr hai
+  Dekho wo saamne Ali Asghar ki qabr hai
+  Chehre pe us ka khun hai main ne mala hua
+  Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   2
-  Zaafar na poocho kaise zameen par hai ye nishan
-  Ragdi yahan pe hai ali akbar ne aediyan
-  Ye khaak par hai khoon usi ka gira hua
+  Zaafar na puchho kaise zamiṅ par hai ye nishaaṅ
+  Ragri yahaaṅ pe hai Ali Akbar ne eriyaaṅ
+  Ye khaak par hai khuṅ usi ka gira hua
 
   3
-  Hamare jaan o jigar thay yehi ali akbar
-  Hamare noor e nazar thay yehi ali akbar
-  Hamare rashk e qamar thay yehi ali akbar
-  Hamare sher pisar thay yehi ali akbar
-  Huwe zaeef kidhar jaaye hum asa na raha
-  Hamari zeest ka zaafar koi maza na raha
+  Hamaare jaan o jigar the yehi Ali Akbar
+  Hamaare nur-e-nazar the yehi Ali Akbar
+  Hamaare rashk-e-qamar the yehi Ali Akbar
+  Hamaare sher pisar the yehi Ali Akbar
+  Hue zaif kidhar jaaye hum asa na raha
+  Hamaari zist ka Zaafar koi maza na raha
 
   4
-  Tum se zyada rakhta tha taaqat wo bawafa
-  Yun khul ke apne bhai ko ladne nahi diya
+  Tum se ziyaada rakhta tha taaqat wo baawafa
+  Yuṅ khul ke apne bhaai ko larne nahiṅ diya
   Kat kar bhi uska haath na talwaar se hata
+  Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   5
-  Pehla yahan pe doosra baazu wahan kata
-  Mashkeeza yahan chida wahan gurze garan laga
-  Ran mein hua hai chaar jagah qatl bawafa
+  Pehla yahaaṅ pe dusra baazu wahaaṅ kata
+  Mashkiza yahaaṅ chhida wahaaṅ gurz-e-giraaṅ laga
+  Ran mein hua hai chaar jagah qatl baawafa
 
   6
-  Laashon ke darmiyan jo hai ghatri rakhi hui
-  Zaafar usi mein laash hai farwa ke laal ki
-  Qasim hamara ghodon se pamaal ho gaya
+  Laashoṅ ke darmiyaaṅ jo hai ghatri rakhi hui
+  Zaafar usi mein laash hai Farwa ke laal ki
+  Qasim hamaara ghoroṅ se paamaal ho gaya
+  Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   7
-  Ye mayyatein hai aun o mohamed ki be-kafan
-  Do aansu tum bhi nazar karo jee uthe behan
-  Laashon pe unki royi nahi binte murtaza
+  Ye mayyateṅ hai Aun o Muhammad ki bekafan
+  Do aansu tum bhi nazar karo ji uthe behan
+  Laashoṅ pe un ki royi nahiṅ bint-e-Murtaza
+  Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   8
-  Pehchaante ho kiska ye laasha hai khoon bhara
-  Khat likh ke hum ne inko bulaya tha karbala
-  Dekho mere habeeb ko bhi le gayi qaza
+  Pehchaante ho kis ka ye laasha hai khuṅ bhara
+  Khat likh ke hum ne in ko bulaaya tha Karbala
+  Dekho mere Habib ko bhi le gayi qaza
 
   9
-  Tehreer ek nikaal ke kehne lage imam
-  Sab ko likha hai dukhtare mazloom ne salaam
-  Kuch dayr pehle khat hamein sughra ka hai mila
+  Tahrir ek nikaal ke kehne lage Imam
+  Sab ko likha hai dukhtar-e-mazlum ne salaam
+  Kuchh der pehle khat hameṅ Sughra ka hai mila
+  Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   10
-  Nigaah thi taraf e aasman chale hazrat
-  Jahan khade thay wahin aaye phir zahe qismat
-  Kaha sabon se mulaaqat ho chuki rukhsat
-  Farishte jaaye falak par nabi suye jannat
-  Jidhar se laaye hai tashreef sab udhar jaaye
-  Faqat yahan malak ul maut ab nazar aaye
+  Nigaah thi taraf-e-aasmaaṅ chale Hazrat
+  Jahaaṅ khare the wahiṅ aaye phir zahe qismat
+  Kaha saboṅ se mulaaqaat ho chuki rukhsat
+  Farishte jaaye falak par Nabi su-e-jannat
+  Jidhar se laaye hai tashrif sab udhar jaaye
+  Faqat yahaaṅ Malak-ul-Maut ab nazar aaye
 
   11
-  Sajjad bole maula ke manzil khareeb hai
-  Khanjar qareeb zaanu e qaatil khareeb hai
-  Jaa ab chala jaa aati hai maqtal mein fatema
+  Sajjad bole Maula ke manzil qarib hai
+  Khanjar qarib zaanu-e-qaatil qarib hai
+  Jaa ab chala jaa aati hai maqtal mein Fatema
+  Ae Zaafar-e-jinn ae Zaafar-e-jinn
 # source_id: nohayonline:60e1c8095ea17d78d3b9
 # source_url: https://www.nohayonline.com/details_content.php?id=2746
 # raw_sha256: a062316797257e62d1fa087c94afdf9c66bafb9efda209d87bdbc5b769acc8b1
@@ -87,6 +94,7 @@ romanLyrics: |-
 زعفر تمہیں دکھاؤں کہاں حد صبر ہے
 دیکھو وہ سامنے علی اصغر کی قبر ہے
 چہرے پہ اس کا خون ہے میں نے ملا ہوا
+اے زعفر جن اے زعفر جن
 
 ۲
 زعفر نہ پوچھو کیسے زمیں پر ہے یہ نشاں
@@ -105,6 +113,7 @@ romanLyrics: |-
 تم سے ذیادہ رکھتا تھا طاقت وہ با وفا
 یوں کھل کے اپنے بھائی کوئی کو لڑنے نہیں دیا
 کٹ کر بھی اس کا ہاتھ نہ تلوار سے ہٹا
+اے زعفر جن اے زعفر جن
 
 ۵
 پہلا یہاں پہ دوسرا بازو وہاں کٹا
@@ -115,11 +124,13 @@ romanLyrics: |-
 لاشوں کے درمیاں جو ہے گھٹڑی رکھی ہوئی
 زعفر اسی میں لاش ہے فروہ کے لال کی
 قاسم ہمارا گھوڑوں سے پامال ہو گیا
+اے زعفر جن اے زعفر جن
 
 ۷
 یہ میتیں ہے عون و محمد کی بے کفن
 دو آنسوں تم بھی نظر کرو جی اٹھے بہن
 لاشوں پہ ان کی روی نہیں بنت مرتظی
+اے زعفر جن اے زعفر جن
 
 ۸
 پہچانتے ہو کس کا یہ لاشہ ہے خوں بھرا
@@ -130,6 +141,7 @@ romanLyrics: |-
 تحریر ایک نکال کے کہنے لگے امام
 سب کو لکھا ہے دختر مظلوم نے سلام
 کچھ دیر پہلے خط ہمیں صغرا کا ہے ملا
+اے زعفر جن اے زعفر جن
 
 ۱۰
 نگاہ تھی طرف آسماں چلے حضرت
@@ -143,3 +155,4 @@ romanLyrics: |-
 سجاد بولے مولا کے منزل قریب ہے
 خنجر قریب زانوئے قاتل قریب ہے
 جا اب چلا جا آتی ہے مقتل میں فاطمہ
+اے زعفر جن اے زعفر جن
