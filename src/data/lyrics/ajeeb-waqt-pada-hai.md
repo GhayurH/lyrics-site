@@ -40,7 +40,7 @@ romanLyrics: |-
   Khudara kar do ye Abbas-e-Bawafa ko khabar
 
   6
-  Kabhi tamache lagate haiṅ taziyana kabhi
+  Kabhi tamaanche lagate haiṅ taziyana kabhi
   Koi satata hai haye rula raha hai koi
   Nahiṅ hai koi jo us ko dilasa de Gohar
 # source_id: nohayonline:5a2fa2e4951279ff2628
