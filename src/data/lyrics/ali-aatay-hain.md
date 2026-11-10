@@ -15,100 +15,100 @@ published: false
 # raw_sha256: 007c78f7d1a4d2d37ed6918698032d0c7d9e7c705d4f5091e49e3a7af396dcc0
 romanLyrics: |-
   1
-  Abu Talib Ka Haram, Bait-e-Haram Tak Pohancha
-  Yani Khaliq Ka Karam Bait-e-Haram Tak Pohancha
-  Khana e Rab Ka Bharam Bait-e-Haram Tak Pohancha
-  Bani Hashim Ka Hasham Bait-e-Haram Tak Pohancha
-  Aayi Aawaz-e-Jali Rab Ka Wali Aata Hai
-  Kaba Dewar Ko Dar Kar Ke Ali Aata Hai
+  Abu Talib ka haram, Bait-e-Haram tak pahuncha
+  Yani Khaliq ka karam Bait-e-Haram tak pahuncha
+  Khana-e-Rab ka bharam Bait-e-Haram tak pahuncha
+  Bani Hashim ka hasham Bait-e-Haram tak pahuncha
+  Aayi aawaz-e-jali Rab ka wali aata hai
+  Kaba diwar ko dar kar ke Ali aata hai
   
   2
-  Sun Aye Kaba Haram-e-Hazrat-e-Imran Hai Yeh
-  Dekh Aaina-e-Wahdat Ka Ik Imkan Hai Yeh
-  Dekh Kaba Sabab e Natiq-e-Quran Hai Yeh
-  Yaad Rakh Kaba Keh Allah Ki Mehman Hai Yeh
-  Hamil-e-Noor Hai Noor-e-Azali Ki Maa Hai
-  Sar Ko Qadmo Mein Jhuka De Yeh Ali Ki Maa Hai
+  Sun Ae Kaba haram-e-Hazrat-e-Imran hai yeh
+  Dekh aaina-e-wahdat ka ik imkan hai yeh
+  Dekh Kaba sabab-e-natiq-e-Quran hai yeh
+  Yaad rakh Kaba ke Allah ki mehman hai yeh
+  Hamil-e-nur hai Nur-e-Azali ki maaṅ hai
+  Sar ko qadmoṅ mein jhuka de yeh Ali ki maaṅ hai
   
   3
-  Yaad Rakh Kaba Yeh Khaton Ali Ki Maa Hai
-  Do Jahan Iss Ke Hain Mamnon Ali Ki Maa Hai
-  Kul Khudai Bhi Hai Marhon Ali Ki Maa Hai
-  Kya Raqam Ho Koi Mazmoon Ali Ki Maa Hai
-  Apne Hathoon Se Imamat Ka Gohar Dhalay Gi
-  Yeh Woh Maa Hai Jo Nuseri Ka Khuda Palay Gi
+  Yaad rakh Kaba yeh khatun Ali ki maaṅ hai
+  Do jahaṅ is ke haiṅ mamnun Ali ki maaṅ hai
+  Kul Khudayi bhi hai Marhon Ali ki maaṅ hai
+  Kya raqam ho koi mazmun Ali ki maaṅ hai
+  Apne hathoṅ se imamat ka gohar dhale gi
+  Yeh woh maaṅ hai jo Nuseri ka Khuda pale gi
   
   4
-  Dekh Aye Kaba Yeh Hai Qibla Numai Ka Jawaz
-  Lainay Aayi Hai Yahan Yeh Meri Tauheed Ka Raaz
-  Maa Issay Keh Ke Pukarey Ga Jo Wahdat Ka Hai Naaz
-  Aaj Se Khana e Rab Tujh Pe Bhi Wajib Hai Namaz
-  Baam o Dar Tere Sabhi Waqf e Tawala Hoon Gay
-  Iss Ke Qadmo Ke Nishaan Tera Musalla Hoon Gay
+  Dekh Ae Kaba yeh hai qibla numayi ka jawaz
+  Lene aayi hai yahaṅ yeh meri tauhid ka raaz
+  Maaṅ ise keh ke pukare ga jo wahdat ka hai naaz
+  Aaj se Khana-e-Rab tujh pe bhi wajib hai namaz
+  Baam o dar tere sabhi waqf-e-tawalla hoṅ ge
+  Is ke qadmoṅ ke nishaṅ tera musalla hoṅ ge
   
   5
-  Dekh Kaba Teri Azmat Ke Nishaan Hain Yeh Qadam
-  Woh Jagah Arsh-e-Mualla Hai Jahan Hain Yeh Qadam
-  Kis Ko Maloom Bulandi Mein Kahan Hain Yeh Qadam
-  Jahan Qausain Ki Manzil Hai Wahan Hain Yeh Qadam
-  Rab-e-Akbar Ne Har Ik Maa Ko Atta Ki Janat
-  Inn Ke Neechay Hai Nuseri Ke Khuda Ki Janat
+  Dekh Kaba teri azmat ke nishaṅ haiṅ yeh qadam
+  Woh jagah Arsh-e-Mualla hai jahaṅ haiṅ yeh qadam
+  Kis ko malum bulandi mein kahaṅ haiṅ yeh qadam
+  Jahaṅ Qausain ki manzil hai wahaṅ haiṅ yeh qadam
+  Rab-e-Akbar ne har ik maaṅ ko ata ki jannat
+  In ke niche hai Nuseri ke Khuda ki jannat
   
   6
-  Martaba Tera Barhanay Yeh Qadam Aaye Hain
-  Raz-e-Tauheed Bataney Yeh Qadam Aaye Hain
-  Baam o Dar Tere Sajane Yeh Qadam Aaye Hain
-  Tujh Ko Ab Qibla Bananey Yeh Qadam Aaye Hain
-  Yeh Nahi Aate Tu Phir Soch Zara Kya Hota
-  Jis Jagah Aate Ali Phir Wohi Kaba Hota
+  Martaba tera barhane yeh qadam aaye haiṅ
+  Raaz-e-tauhid batane yeh qadam aaye haiṅ
+  Baam o dar tere sajane yeh qadam aaye haiṅ
+  Tujh ko ab qibla banane yeh qadam aaye haiṅ
+  Yeh nahiṅ aate to phir soch zara kya hota
+  Jis jagah aate Ali phir wohi Kaba hota
   
   7
-  Kalma-e-Rab-e-Jali Hai Yeh Kalamon Ki Hai Maa
-  Yeh Duroodon Ki Hai Maa Our Salamo Ki Hai Maa
-  Woh Jo Isma e Khuda Hain Unhi Namo Ki Hai Maa
-  Bas Ali Ki Nahi Yeh Barah Imamo Ki Hai Maa
-  Sare Aalam Ki Amma Apni Amma Kehta Hai
-  Soch Woh Kya Hai Muhammad Jisay Maa Kehta Hai
+  Kalma-e-Rab-e-Jali hai yeh kalmoṅ ki hai maaṅ
+  Yeh durodoṅ ki hai maaṅ aur salamoṅ ki hai maaṅ
+  Woh jo asma-e-Khuda haiṅ unhi namoṅ ki hai maaṅ
+  Bas Ali ki nahiṅ yeh barah Imamoṅ ki hai maaṅ
+  Sare aalam ki Amma apni Amma kehta hai
+  Soch woh kya hai Muhammad jise maaṅ kehta hai
   
   8
-  Noor-e-Allah Ka Maskan Bana Iss Maa Ka Wojood
-  Mariyam o Sarah Karein Naqsh-e-Kaf-e-Pa Pe Sajod
-  Maqsad-e-Zaat-e-Elahi Ka Yehi Hai Maqsood
-  Iss Ke Farzandoon Pe Khud Parhta Hai Allah Darood
-  Be Niyazana Sar-e-Koye Niyaz Aati Hai
-  Youn Samajh Lijiye Kabay Mein Namaz Aati Hai
+  Nur-e-Allah ka maskan bana is maaṅ ka wujud
+  Maryam o Sarah kareṅ naqsh-e-kaf-e-pa pe sujud
+  Maqsad-e-zaat-e-Ilahi ka yehi hai maqsud
+  Is ke farzandoṅ pe khud parhta hai Allah durud
+  Beniyazana sar-e-ku-e-niyaz aati hai
+  Yuṅ samajh lijiye Kabe mein namaz aati hai
   
   9
-  Kul-e-Eman Ka Eman Hai Iss Ki Jholi
-  Parda e Wahdat-e-Imkan Hai Iss Ki Jholi
-  Aayat-e-Kubra Ka Juzdan Hai Iss Ki Jholi
-  Khud Mein Dhanpey Hoye Quran Hai Iss Ki Jholi
-  Yeh Woh Mumkin Jisay Imkaan Ki Zarorat Hi Nahi
-  Oss Ki Maa Hai Keh Jisay Maa Ki Zarorat Hi Nahi
+  Kul-e-iman ka iman hai is ki jholi
+  Parda-e-wahdat-e-imkan hai is ki jholi
+  Aayat-e-Kubra ka juzdan hai is ki jholi
+  Khud mein dhaṅpe hue Quran hai is ki jholi
+  Yeh woh mumkin jise imkan ki zarurat hi nahiṅ
+  Us ki maaṅ hai ke jise maaṅ ki zarurat hi nahiṅ
   
   10
-  Sun Ke Aawaz Yeh Kabay Ne Niya Dar Khola
-  Dar Jo Khola Tu Woh Dewar Ke Andar Khola
-  Woh Jo Manzar Mein Na Tha Woh Pas-e-Manzar Khola
-  Wali Allah Ne Allah Ka Youn Ghar Khola
-  Aayi Aawaz-e-Khuda Ghar Ke Makeen Aate Hain
-  Woh Jo Pardon Mein Nihaan They Woh Yahin Aate Hain
+  Sun ke aawaz yeh Kabe ne naya dar khola
+  Dar jo khola to woh diwar ke andar khola
+  Woh jo manzar mein na tha woh pas-e-manzar khola
+  Wali Allah ne Allah ka yuṅ ghar khola
+  Aayi aawaz-e-Khuda ghar ke makin aate haiṅ
+  Woh jo pardoṅ mein nihaṅ the woh yahiṅ aate haiṅ
   
   11
-  Dar-e-Kaba Ne Kaha Bint-e-Asad Bismillah
-  Layi Hain Sath Khudai Ki Sand Bismillah
-  Layi Hain Jhotay Khudaon Ki Bhi Rad Bismillah
-  Qaba Qausain Se Ab Mil Gayi Had Bismillah
-  Aamad-e-Noor-e-Mubeen Aaj Yahan Honi Hai
-  Aaj Mairaj Ko Mairaj Yahan Honi Hai
+  Dar-e-Kaba ne kaha Bint-e-Asad Bismillah
+  Layi haiṅ sath Khudayi ki sanad Bismillah
+  Layi haiṅ jhute khudaoṅ ki bhi rad Bismillah
+  Qab-e-Qausain se ab mil gayi had Bismillah
+  Aamad-e-Nur-e-Mubiṅ aaj yahaṅ honi hai
+  Aaj meraj ko meraj yahaṅ honi hai
   
   12
-  Boli Dewar-e-Haram Aap Pe Hoon Lakh Salam
-  Aap Ka Hai Yeh Karam Aap Pe Hoon Lakh Salam
-  Aap Se Hai Yeh Bharam Aap Pe Hoon Lakh Salam
-  Aap Ke Aaye Qadam Aap Pe Hoon Lakh Salam
-  Meri Dehleez Pe Anwar Utar Aaye Hain
-  Asal Waris Hain Jo Iss Ghar Ke Woh Ghar Aaye Hain
+  Boli diwar-e-haram aap pe hoṅ lakh salam
+  Aap ka hai yeh karam aap pe hoṅ lakh salam
+  Aap se hai yeh bharam aap pe hoṅ lakh salam
+  Aap ke aaye qadam aap pe hoṅ lakh salam
+  Meri dehliz pe anwar utar aaye haiṅ
+  Asal waris haiṅ jo is ghar ke woh ghar aaye haiṅ
 ---
 
 ۱

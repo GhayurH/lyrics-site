@@ -14,7 +14,7 @@ published: false
 # source_url: https://www.nohayonline.com/details_content.php?id=1702
 # raw_sha256: 649d45a314436655bc8481f37ce23472edfddb5f14c8ea495a6cb0f7cff461d8
 romanLyrics: |-
-  Ae mere Nur-e-Nazar Ae mere Lakht-e-Jigar
+  Ae mere nur-e-nazar Ae mere lakht-e-jigar
   Baap aaya hai utho dekho to haal-e-pidar
   
   1
@@ -26,7 +26,7 @@ romanLyrics: |-
   2
   Baba hai pareshan zara aaṅkheṅ to kholo
   Barchhi kahaṅ khayi hai kahaṅ dard hai bolo
-  Yuṅ eriyaṅ ragro na mere lal zamin par
+  Yuṅ eriyaṅ ragro na mere lal zamiṅ par
   Ali Akbar Ali Akbar
   
   3
@@ -61,8 +61,8 @@ romanLyrics: |-
   
   8
   Sona to hai to aa jao meri jaan sulaeṅ
-  Aao phuphi amma ki tumheṅ lori sunaeṅ
-  Hum baith gaye Baba ki zanu pe rakho sar
+  Aao phupphi amma ki tumheṅ lori sunaeṅ
+  Hum baith gaye baba ki zanu pe rakho sar
   Ali Akbar Ali Akbar
   
   9

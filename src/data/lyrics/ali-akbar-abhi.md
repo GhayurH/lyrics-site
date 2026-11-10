@@ -14,7 +14,7 @@ published: false
 # source_url: https://www.nohayonline.com/details_content.php?id=1757
 # raw_sha256: 6392188ccd1e1448d8b4eea9c44b1bce92b1759a4a61f77c9f4aab74c5e4edf8
 romanLyrics: |-
-  Ali Akbar abhi maidan mein na jao beta
+  Ali Akbar abhi maidaṅ mein na jao beta
   
   1
   Teri shadi ka hai arman bara Zainab ko
@@ -30,7 +30,7 @@ romanLyrics: |-
   
   3
   Ahmad-e-Mursal-e-Aazam ki shabahat tum ho
-  Baad-e-Abbas-e-Jari meri biza'at tum ho
+  Baad-e-Abbas-e-Jari meri bizaat tum ho
   Sach to ye hai meri aaṅkhoṅ ki basarat tum ho
   Lahn-e-Ahmad mein azaṅ de ke sunao beta
   
@@ -38,17 +38,17 @@ romanLyrics: |-
   Zindagi bhar teri furqat mujhe tarpaegi
   Ab khushi laut ke is ghar mein nahiṅ aaegi
   Sath tere meri binayi chali jaegi
-  Apni surat mujhe ek baar dikhao beta
+  Apni surat mujhe ik baar dikhao beta
   
   5
-  Jo mere dil pe guzarti hai bataun kaise
-  Zakhm sine ka mere lal chhupaun kaise
-  Main zaeefi mein jawaṅ lash uthaun kaise
+  Jo mere dil pe guzarti hai batauṅ kaise
+  Zakhm sine ka mere lal chhupauṅ kaise
+  Main zaeefi mein jawaṅ lash uthauṅ kaise
   Meri ghurbat pe zara rahm to khao beta
   
   6
   Tir khaega meri god ka pala Asghar
-  Ab koi dam mein main ho jaunga tanha Akbar
+  Ab koi dam mein main ho jauṅga tanha Akbar
   Tham kar tuti kamar kehte the Sarwar Mazher
   Apni peshani pe sehra to sajao beta
 ---
