@@ -11,52 +11,53 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Apna sar peet ke kehti thi ye laila akbar
-  Mar gaye tum hui veeran meri dunya akbar
+  Apna sar pit ke kehti thi ye Laila Akbar
+  Mar gaye tum hui wiraan meri dunya Akbar
 
   1
-  Mar gaye qasim o abbas o hussain ibne ali
-  Ab nahi koi mera poochne waala akbar
+  Mar gaye Qasim o Abbas o Husain Ibn-e-Ali
+  Ab nahiṅ koi mera puchhne waala Akbar
 
   2
-  Shaam waalon ne tumhe qatl kiya hai jab se
-  Chid gaya hai meri kismat ka savera akbar
+  Shaam waaloṅ ne tumheṅ qatl kiya hai jab se
+  Chhir gaya hai meri qismat ka sawera Akbar
 
   3
-  Raas aaya na tumhe dasht mein atharwan saal
-  De diye tum ne hamein dard ka tohfa akbar
+  Raas aaya na tumheṅ dasht mein athaarwaaṅ saal
+  De diye tum ne hameṅ dard ka tohfa Akbar
 
   4
-  Tum ne pardes mein laa kar hamein tanha chhora
-  Phat na jaaye kahin is gham se kaleja akbar
+  Tum ne pardes mein laa kar hameṅ tanha chhora
+  Phat na jaaye kahiṅ is gham se kaleja Akbar
 
   5
   Tum ne jis waqt se maqtal mein qadam rakha hai
-  Yaad kar ke tumhe roti hai sakina akbar
+  Yaad kar ke tumheṅ roti hai Sakina Akbar
 
   6
-  Tum nahi aao to itna hi bata do beta
-  Berida jaaye kahan jal gaya qaima akbar
+  Tum nahiṅ aao to itna hi bata do beta
+  Berida jaaye kahaaṅ jal gaya khaima Akbar
 
   7
-  Ghash mein hai sayyed e sajjad zara socho to
-  Kaun uthaye shahe mazloom ka laasha akbar
+  Ghash mein hai Sayyid Sajjad zara socho to
+  Kaun uthaaye Shah-e-mazlum ka laasha Akbar
 
   8
-  Dashte pur haul mein mai kaise rahungi tanha
-  Hai ye afsos ke tum ne bhi na socha akbar
+  Dasht-e-purhaul mein main kaise rahuṅ gi tanha
+  Hai ye afsos ke tum ne bhi na socha Akbar
 
   9
-  Darr rahi hoo ke tumhe aur pareshan na kare
-  Raat ki sard hawa aur ye sehra akbar
+  Dar rahi huṅ ke tumheṅ aur pareshaan na kare
+  Raat ki sard hawa aur ye sehra Akbar
 
   10
-  Jab se ujdi hai meri maang sar e karbobala
-  Yaad aata hai mohamed ka madina akbar
+  Jab se ujri hai meri maaṅg sar-e-Karbobala
+  Yaad aata hai Muhammad ka Madina Akbar
 
   11
-  Laashe akbar pa tha shabbir ka nauha ishrat
-  Le gaye tum meri aankhon ka ujaala akbar
+  Laash-e-Akbar pe tha Shabbir ka nauha Ishrat
+  Le gaye tum meri aaṅkhoṅ ka ujaala Akbar
+# editorial_uncertain: "Stanza 2: archived Urdu has چھد گیا and Roman chid gaya; existing چھڑ گیا retained pending audio/print confirmation of the unusual savera phrase."
 # source_id: nohayonline:b8383fc695f836eb9b08
 # source_url: https://www.nohayonline.com/details_content.php?id=2235
 # raw_sha256: 7078657ead751a5b01ea56cdcf102373308ee25d443018a247a3fd2d78a17cf7
@@ -77,7 +78,7 @@ romanLyrics: |-
 دے دیے تم نے ہمیں درد کا تحفہ اکبر
 
 ۴
-تم‌ نے پردیس میں لا کر ہمیں تنہا چھوڑا
+تم نے پردیس میں لا کر ہمیں تنہا چھوڑا
 پھٹ نہ جائے کہیں اس غم سے کلیجہ اکبر
 
 ۵
@@ -85,7 +86,7 @@ romanLyrics: |-
 یاد کر کے تمہیں روتی ہے سکینہ اکبر
 
 ۶
-تم‌ نہیں آؤ تو اتنا ہی بتا دو بیٹا
+تم نہیں آؤ تو اتنا ہی بتا دو بیٹا
 بے ردا جائے کہاں جل گیا خیمہ اکبر
 
 ۷
