@@ -5,7 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
+poet: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: ["Arbaab Raza Maula Mir Hasan Mir"]
 recitationId: "arbaab-raza-maula-mir-hasan-mir"
@@ -36,8 +37,8 @@ romanLyrics: |-
   Hai jaan ke jo aap se anjaan
 
   4
-  Mashhad ba-Khuda qata-e-az arsh-e-bareen ast
-  Jaarubkash-e-farsh-e-hurmat Ruh-ul-Ameen ast
+  Mashhad ba-Khuda qata-e-az arsh-e-bariṅ ast
+  Jaarubkash-e-farsh-e-hurmat Ruh-ul-Amin ast
   Aql-e-bashar az fazl-e-tu hairaan
   Raaziq ki taraf se hai tu hi rizq ka qaasim
   Hai nazm-e-do aalam ka tu hi aathwaṅ naazim

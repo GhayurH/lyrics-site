@@ -10,40 +10,40 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aqraba kat gaye jab shaah ke baari baari
-  Aur adam chalne ki us shaah ne ki tayyari
-  Qaime ka parda utha zainulleba ek baari
-  Dekh maqtal ki taraf karne laga yun zaari
+  Aqraba kat gaye jab Shaah ke baari baari
+  Aur adam chalne ki us Shaah ne ki tayyaari
+  Khaime ka parda utha Zain-ul-Aba ek baari
+  Dekh maqtal ki taraf karne lage yuṅ zaari
 
   1
-  Khuld ke kooch may hum ko nahi bulwate ho
-  Khaafile walon hame chode chale jaate ho
-  Haye sheh ka na raha koi bhi yawar baakhi
-  Na alamdar rahe aur na lashkar baakhi
+  Khuld ke kuch mein hum ko nahiṅ bulwaate ho
+  Qaafile waalo hameṅ chhore chale jaate ho
+  Haye Shah ka na raha koi bhi yaawar baaqi
+  Na Alamdar rahe aur na lashkar baaqi
 
   2
-  Na rahe qasim e jarrar na akbar baakhi
-  Hai faqt sibte nabi ka sar e anwar baakhi
-  Hum to baakhi hai gham o ranj uthane ke liye
-  Maut ne choda hame ashk bahane ke liye
+  Na rahe Qasim-e-Jarraar na Akbar baaqi
+  Hai faqat Sibt-e-Nabi ka sar-e-anwar baaqi
+  Hum to baaqi haiṅ gham o ranj uthaane ke liye
+  Maut ne chhora hameṅ ashk bahaane ke liye
 
   3
-  Haye shabbir ke marne ki hai ab tayyari
-  Zakhm par zakhm lagay hai tane sheh par kaari
-  Bhook may pyaas may ghash aate hai sau sau baari
-  Beech may ibne ali gird khade hai naari
+  Haye Shabbir ke marne ki hai ab tayyaari
+  Zakhm par zakhm lage haiṅ tan-e-Shah par kaari
+  Bhuk mein pyaas mein ghash aate haiṅ sau sau baari
+  Bich mein Ibn-e-Ali gird khare haiṅ naari
 
   4
-  Apni bemaari se sharminda pisar hota hai
+  Apni bimaari se sharminda pisar hota hai
   Qatl ab saamne bete ke pidar hota hai
-  Haye baba ko mere koi bachale aa kar
-  Pher de laake gale par mere koi khanjar
+  Haye baba ko mere koi bacha le aa kar
+  Pher de laa ke gale par mere koi khanjar
 
   5
-  Baad baba ke pisar ka nahi jeena behtar
-  Baap to qatl ho jeeta rahe ye khasta jigar
-  Ahlebayt e nabvi par ye jafaein hongi
-  Balwa e aam may sar par na ridaein hongi
+  Baad baba ke pisar ka nahiṅ jina behtar
+  Baap to qatl ho jita rahe ye khasta jigar
+  Ahl-e-Bait-e-Nabavi par ye jafaaeṅ hoṅ gi
+  Balwa-e-aam mein sar par na ridaaeṅ hoṅ gi
 # source_id: nohayonline:7e1d7e7f3f51d058dc2e
 # source_url: https://www.nohayonline.com/content_salaam.php?id=31
 # raw_sha256: 68ac7b4508261a741673c898429de592322b2a87c3d5dde889ed0eab6f39c0ca

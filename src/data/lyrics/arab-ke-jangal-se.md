@@ -12,45 +12,45 @@ aliases: []
 published: false
 romanLyrics: |-
   Arab ke jangal se jaa raha hai
-  
+
   1
   Luta hua qaafila kisi ka
   Bataati hai saaf ye udaasi
   Ke saaf ghar ho gaya kis ka
-  Seena se zakhmi hai pusht o pehlu
-  Jhuki hai gardan rawan hai aansu
-  Bandhe huwe hai kisi ke baazu
+  Sina se zakhm hai pusht o pehlu
+  Jhuki hai gardan rawaaṅ haiṅ aansu
+  Bandhe hue haiṅ kisi ke baazu
   Kasa hua hai gala kisi ka
-  
+
   2
-  Tumhi batao siya kaaron
-  Tumhi batao sitam shiyaron
-  Ye cheh mahine ki jaan yaaro
-  Bhala bigadega kya kisi ka
-  
+  Tumheṅ bataao siyaah kaaroṅ
+  Tumheṅ bataao sitam shiaaroṅ
+  Ye chhe mahine ki jaan yaaro
+  Bhala bigaare ga kya kisi ka
+
   3
-  Ye dar paye jor hai zamana
-  Ruka qadam mil gaya bahana
-  Wo aayi aawaaz-e-taaziyaana
-  Wo jism shaq hogaya kisi ka
-  
+  Ye darpaye jaur hai zamaana
+  Ruka qadam mil gaya bahaana
+  Wo aai aawaaz-e-taaziyaana
+  Wo jism shaq ho gaya kisi ka
+
   4
-  Buland naizoṅ pe chand sar hain
-  Sitare hai shams hai qamar hai
-  Kisi ke gaysu lahoo may tar hai
-  To pyaas se moo khula kisi ka
-  
+  Buland naizoṅ pe chand sar haiṅ
+  Sitaare haiṅ shams hai qamar hai
+  Kisi ke gesuoṅ lahu mein tar hai
+  To pyaas se munh khula kisi ka
+
   5
-  Sawaar shehzadiyan hai saari
-  Na hai kajawa na hai amaari
-  Hai zouf se ghash kisi pe taari
-  To moo hai utra hua kisi ka
-  
+  Sawaar shahzaadiyaaṅ haiṅ saari
+  Na hai kajaawa na hai amaari
+  Hai zuf se ghash kisi pe taari
+  To munh hai utra hua kisi ka
+
   6
   Ghayour barh kar zara khabar le
-  Ye kaun bharti hai sard aahein
-  Yaqeenan in kushtagan-e-gham mein
-  Jawan beta bhi tha kisi ka
+  Ye kaun bharti hai sard aaheṅ
+  Yaqinan in kushtagaan-e-gham mein
+  Jawaan beta bhi tha kisi ka
 # source_id: nohayonline:808ac5b026cf25ac9181
 # source_url: https://www.nohayonline.com/details_content.php?id=2011
 # raw_sha256: d86db4bb11762f8c7c4702b76cd7519ae688b9974fce04975cf6b49da8536f4a
