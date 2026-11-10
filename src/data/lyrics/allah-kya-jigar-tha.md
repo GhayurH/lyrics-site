@@ -12,61 +12,61 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek do pahar mein apna bhara ghar luta diya
-  Allah kya jigar tha janab-e-Husain ka
+  Allah kya jigar tha Janab-e-Husain ka
 
   1
-  Zakhmi badan firaaq e pisar tashnagi alam
-  Tanhaai fauj e shaam ka nargha naye sitam
-  Ansar o aqroba ke bichadne ka dil mein gham
-  Qaime se aa rahi thi sadaye buka baham
+  Zakhmi badan firaq-e-pisar tashnagi alam
+  Tanhai fauj-e-Sham ka nargha naye sitam
+  Ansar o aqraba ke bichharne ka dil mein gham
+  Khaime se aa rahi thi sada-e-buka baham
 
   2
-  Jab aaye izn lene ko abbas e bawafa
-  Hasrat se unko dekh ke shabbir ne kaha
-  Jao sidharo bhai nigehban hai khuda
-  Hum jaante hai door nahi aap se khaza
+  Jab aae izn lene ko Abbas bawafa
+  Hasrat se un ko dekh ke Shabbir ne kaha
+  Jao sidharo bhai nigehban hai Khuda
+  Hum jaante haiṅ dur nahiṅ aap se qaza
 
   3
-  Jis waqt ishteghasa e abbas ko suna
-  Jaate thay ran mein thokare khaate shahe huda
-  Naagah ek simt mein baazu pada mila
-  Dil thaam kar hussain ne usko utha liya
+  Jis waqt istighasa-e-Abbas ko suna
+  Jaate the ran mein thokareṅ khaate Shah-e-Huda
+  Naagah ek simt mein baazu para mila
+  Dil thaam kar Husain ne us ko utha liya
 
   4
-  Bhai ke baad ran mein gaya naujawan pisar
-  Barchi ne tukde kar diya uska dil o jigar
-  Pahunche khareeb laash ke aur baithe khaak par
-  Barchi jigar se khaynchi to haatif ne di khabar
+  Bhai ke baad ran mein gaya naujawaṅ pisar
+  Barchi ne tukre kar diya us ka dil o jigar
+  Pahunche qarib laash ke aur baithe khaak par
+  Barchi jigar se khainchi to hatif ne di khabar
 
   5
-  Ayyub dekho sabr-e-Shehenshah e karbala
+  Ayyub dekho sabr-e-Shahanshah-e-Karbala
   Tanha jawan laal ka laasha utha liya
-  Haathon pe leke qaime ki jaanib jari chala
-  Dekha na hoga aisa kisi dil ka hosla
+  Haathoṅ pe le ke khaime ki jaanib jari chala
+  Dekha na hoga aisa kisi dil ka hausla
 
   6
-  Sab fauj qatl hogayi ab koi bhi nahi
-  Nargha kiye hai sham ke aada udoo e deen
-  Barsa rahe hai teeron ko har simt se layeen
-  Haathon pe apne laate hai bano ka mehjabeen
+  Sab fauj qatl ho gai ab koi bhi nahiṅ
+  Nargha kiye haiṅ Sham ke aada adu-e-diṅ
+  Barsa rahe haiṅ tiroṅ ko har simt se laiṅ
+  Haathoṅ pe apne laate haiṅ Bano ke mahjabiṅ
 
   7
-  Maidan mein sheerkhwar ko laaye juhin hussain
-  Khoya sipaah e shaam ne apna sukoon o chain
-  Paika galay se lipta hua kar raha tha bain
-  Kis sabr se juda kiya wo shaahe mashraqain
+  Maidaṅ mein shir khwar ko laae junhi Husain
+  Khoya sipah-e-Sham ne apna sukun o chain
+  Paikaṅ gale se lipta hua kar raha tha bain
+  Kis sabr se juda kiya wo Shah-e-Mashriqain
 
   8
-  Dafna ke sheerkhwar ke laashe ko Shah-e-din
-  Aaye khayaam e zainab e kulsoom ke khareeb
-  Lipti sakina qadmo se dil sog tha hazeen
-  Baba na aap jaaiye kehti thi mehjabeen
+  Dafna ke shir khwar ke laashe ko Shah-e-diṅ
+  Aae khayam-e-Zainab-e-Kulsum ke qarib
+  Lipti Sakina qadmoṅ se dil sog tha haziṅ
+  Baba na aap jaiye kehti thi mahjabiṅ
 
   9
-  Lipta ke apni beti ko sarwar ne ye kaha
-  Sab hogaye anees o aizza mere juda
-  Hum jaaye qatl gaah mein hai ye marzi e khuda
-  Ran ko sidhaare kehte huwe shaah alwida
+  Lipta ke apni beti ko Sarwar ne ye kaha
+  Sab ho gae Anis o aizza mere juda
+  Hum jaaeṅ qatl gaah mein hai marzi-e-Khuda
+  Ran ko sidhaare kehte hue Shah alwida
 # source_id: nohayonline:1afca99a785a4f2becc5
 # source_url: https://www.nohayonline.com/details_content.php?id=372
 # raw_sha256: fcd93d9fe0103152aa87d00c432c35c140c67079d139d053b7ea235706d3a1b3

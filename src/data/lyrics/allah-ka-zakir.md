@@ -12,7 +12,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Mujhe bhul jae duniya
-  Main agar tujhe bhula dun
+  Main agar tujhe bhula duṅ
   Ya Husain
 
   1
@@ -39,7 +39,7 @@ romanLyrics: |-
   4
   Allah ki tu ne laaj rakhi
   Tauhid teri maqruz hui
-  Allah Allah ye shan teri
+  Allah Allah ye shaan teri
   Phir kiun na kahe har abd-e-Khuda
 
   5
@@ -55,7 +55,7 @@ romanLyrics: |-
   Kehte haiṅ tujhe khud Sher-e-Khuda
 
   7
-  Wo Malika-e-ghairat bint-e-Ali
+  Wo Malka-e-ghairat bint-e-Ali
   Jo tere sahare jiti thi
   Jab mahw-e-tilawat dekha tujhe
   Kehta tha dil-e-mahrum-e-rida

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Khalique Hussain Mumtaz Sialkot"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -12,7 +13,7 @@ romanLyrics: |-
   1
   Allah ke shahkar ka hai Youm-e-Wiladat
   Abbas Alamdar ka hai Youm-e-Wiladat
-  Sarkar Husain ibn-e-Ali jis ke huṅ mamnun
+  Sarkar Husain ibn-e-Ali jis ke hoṅ mamnun
   Us Shah-e-wafadar ka hai Youm-e-Wiladat
 
   2
@@ -24,7 +25,7 @@ romanLyrics: |-
   3
   Hai tazkara-e-Ghazi fasahat ka karishma
   Hai tarz-e-sukhan husn-e-balaghat ka karishma
-  Likhta huṅ jo is shan se ashaar-e-fazilat
+  Likhta huṅ jo is shaan se ashaar-e-fazilat
   Hai Maula Alamdar se nisbat ka karishma
 
   4
@@ -34,10 +35,10 @@ romanLyrics: |-
   Pal bhar mein badal deta hai saail ki ye taqdir
 
   5
-  Abbas alamdari-e-Sarwar ka nishan hai
+  Abbas alamdari-e-Sarwar ka nishaṅ hai
   Is zaat pe qurban shujaat ka jahaṅ hai
   Jo qabl-e-shahadat hi kehlae behishti
-  Tarikh-e-jahaṅ mein yehi bas ek jawan hai
+  Tarikh-e-jahaṅ mein yehi bas ek jawaṅ hai
 
   6
   Hai us ka alam shaukat o satwat ki nishani
@@ -48,7 +49,7 @@ romanLyrics: |-
   7
   Uthta hai basad jah o hasham parcham-e-Abbas
   Hai haq o sadaqat ka alam parcham-e-Abbas
-  Sae mein isi ke haiṅ aman duniya o din ko
+  Sae mein isi ke haiṅ amaṅ duniya o din ko
   Ta hashr ye lehraeṅge hum parcham-e-Abbas
 # source_id: tajpoints:09cd49fb80e43e7a1c95
 # source_url: https://tajpoints.com/2017/02/allah-ke-shahkar-ka-hai-youm-e-wiladat.html

@@ -15,36 +15,36 @@ romanLyrics: |-
   Puchho Rasul-e-Pak se azmat Husain ki
 
   1
-  Tareekh hai gawah ke kufr-e-Yazid se
+  Tarikh hai gawah ke kufr-e-Yazid se
   Islam ko bacha gai daulat Husain ki
 
   2
   Darya kinare laasha-e-Abbas dekh kar
-  Ahl-e-aza na poochiye haalat Husain ki
+  Ahl-e-aza na puchhiye haalat Husain ki
 
   3
-  Ran se jawan bete ka laasha uthate hai
-  Sab se badi yehi hai musibat Husain ki
+  Ran se jawan bete ka laasha uthate haiṅ
+  Sab se bari yehi hai musibat Husain ki
 
   4
-  Dam toot'ta tha uska jo ankhon ka noor tha
-  Jaati na kaise ran may basarat Husain ki
+  Dam tutta tha us ka jo aankhoṅ ka nur tha
+  Jaati na kaise ran mein basarat Husain ki
 
   5
-  Beti ali ki peet ke sar apna reh gayi
-  Dashte bala may dekh ke haalat Husain ki
+  Beti Ali ki pit ke sar apna reh gai
+  Dasht-e-bala mein dekh ke haalat Husain ki
 
   6
-  Ubhrenge har zamane may kuch waqt ke yazeed
-  Har daur ko rahegi zaroorat Husain ki
+  Ubhreṅge har zamane mein kuchh waqt ke Yazid
+  Har daur ko rahegi zarurat Husain ki
 
   7
-  Har majlise Husain may aati hai fatema
-  Jabse hui hai ran may shahadat Husain ki
+  Har majlis-e-Husain mein aati haiṅ Fatima
+  Jab se hui hai ran mein shahadat Husain ki
 
   8
-  Mehshar ka khuaf unko hai humko nahi ghulam
-  Humko naseeb hogi shafaat Husain ki
+  Mahshar ka khauf un ko hai hum ko nahiṅ Ghulam
+  Hum ko nasib hogi shafaat Husain ki
 # source_id: nohayonline:a5ece2865283594665e2
 # source_url: https://www.nohayonline.com/details_content.php?id=831
 # raw_sha256: ca7be5452b4e9858f1d824c56d6dd624428e2e3c6c6f416f6db29e9e6b170663
