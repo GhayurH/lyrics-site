@@ -11,40 +11,40 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Asghar ke baad chain na aaya rabab ko
-  Dekha tamaam umr tadapta rabab ko
+  Asghar ke baad chain na aaya Rabab ko
+  Dekha tamaam umr tarapta Rabab ko
 
   1
   Main dudh bhi pila na saki apne laal ko
-  Ta zindagi raha yehi sadma rabab ko
+  Taa zindagi raha yahi sadma Rabab ko
 
   2
-  Kya mera laal aa gaya poocha rabab ne
-  Zainab ne jab kabhi bhi pukara rabab ko
+  Kya mera laal aa gaya puchha Rabab ne
+  Zainab ne jab kabhi bhi pukaara Rabab ko
 
   3
-  Kha kar galay pa teer sar e dasht e karbala
-  Asghar ne kar diya hai akela rabab ko
+  Kha kar gale pe tir sar-e-dasht-e-Karbala
+  Asghar ne kar diya hai akela Rabab ko
 
   4
-  Asghar ke baad saaye mein baithi nahi kabhi
-  Deta raha tasalliyaṅ kunba rabab ko
+  Asghar ke baad saaye mein baithi nahiṅ kabhi
+  Deta raha tasalliyaaṅ kunba Rabab ko
 
   5
-  Daag e judaai de gayi zindan e shaam mein
-  Asghar ke saath saath sakina rabab ko
+  Daagh-e-judaai de gayi zindaan-e-Shaam mein
+  Asghar ke saath saath Sakina Rabab ko
 
   6
-  Sarwar ke baad qaime jalayenge jab layeen
-  Tadpayega jala hua jhoola rabab ko
+  Sarwar ke baad khaime jalaaeṅ ge jab laiṅ
+  Tarpaaye ga jala hua jhula Rabab ko
 
   7
-  Hasne ka kya sawaal tha lab tak nahi khule
-  Itna gham o alam ne sataya rabab ko
+  Hansne ka kya sawaal tha lab tak nahiṅ khule
+  Itna gham o alam ne sataaya Rabab ko
 
   8
-  Tu khidmat e aza mein hai masroof jis tarha
-  Ishrat pasand aayega nauha rabab ko
+  Tu khidmat-e-aza mein hai masruf jis tarah
+  Ishrat pasand aaye ga nauha Rabab ko
 # source_id: nohayonline:ac7b1a6989f2ef999cb8
 # source_url: https://www.nohayonline.com/details_content.php?id=1878
 # raw_sha256: ca99e6d584b584d100495d03a44e575953e4684bf629404bb17427bf553c6cdc

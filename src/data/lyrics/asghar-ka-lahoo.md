@@ -11,40 +11,40 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Asghar ka lahoo jab na liya arz o samaa ne haye
-  Chehre pe mala khoon shahe karbobala ne
+  Asghar ka lahu jab na liya arz o samaaṅ ne haaye
+  Chehre pe mala khun Shah-e-Karbobala ne
 
   1
-  Kya jurm tha cheh maah ke bacche ka khudaya
-  Kiuṅ chheda hai Asghar ka gala teer-e-jafa ne
+  Kya jurm tha chhe maah ke bachche ka Khudaaya
+  Kiuṅ chheda hai Asghar ka gala tir-e-jafa ne
 
   2
-  Baysheer ne jaan apni fida kar di padar par
-  Nusrat ke liye di thi sada shaahe huda ne
+  Beshir ne jaaṅ apni fida kar di padar par
+  Nusrat ke liye di thi sada Shaah-e-huda ne
 
   3
-  Tu dekhle shabbir ki aaghosh may ya rab
-  Aaya hai tera deen ye baysheer bachane
+  Tu dekh le Shabbir ki aaghosh mein ya Rab
+  Aaya hai tera din ye beshir bachaane
 
   4
-  Farmate thay shabbir hifazat se tu rakhna
-  Hai dafn yahan karbobala mere khazane
+  Farmaate the Shabbir hifaazat se tu rakhna
+  Hai dafn yahaaṅ Karbobala mere khazaane
 
   5
-  Aaja mere bacche mai teri pyaas pe sadqe
-  Khud aayegi maa ran may tujhe pani pilaane
+  Aa ja mere bachche main teri pyaas pe sadqe
+  Khud aaye gi maaṅ ran mein tujhe paani pilaane
 
   6
-  Sar nok e sina par na chadaye kahin zaalim
-  Shabbir chale laasha e baysheer chupane
+  Sar nok-e-sinaaṅ par na charhaae kahiṅ zaalim
+  Shabbir chale laasha-e-beshir chhupaane
 
   7
-  Jab qaime may aaya ali asghar ka janaza
-  Kohraam bapa kar diya maadar ki fughan ne
+  Jab khaime mein aaya Ali Asghar ka janaaza
+  Kohraam bapa kar diya maadar ki fughaaṅ ne
 
   8
-  Sibtain bhala kaise bhulayega zamana
-  Jang jeetli baysheer ki masoom ada ne
+  Sibtain bhala kaise bhulaaye ga zamaana
+  Jang jit li beshir ki maasum ada ne
 # source_id: nohayonline:400600256e8c561ac515
 # source_url: https://www.nohayonline.com/details_content.php?id=2271
 # raw_sha256: 6c01d5d96b4a6480fa16179bc78473fed7a7c6d07f14c194c1d9c0817e97b809

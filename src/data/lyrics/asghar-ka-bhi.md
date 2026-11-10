@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   Asghar ka bhi shumaar bahattar mein ek hai
-  
+
   1
-  Humraahiyān-e-Sibt-e-Payambar mein ek hai
-  Kehti hai kamsini ke ye ghar bhar mein ek hai
-  Kab ghaziyon mein fard hai lashkar mein ek hai
-  Yan haajate daleel gawahi nahi koi
-  Is umr ka jahan mein sipahi nahi koi
-  
+  Humraahiyaan-e-Sibt-e-Payambar mein ek hai
+  Kehti hai kam sini ke ye ghar bhar mein ek hai
+  Kab ghaaziyoṅ mein fard hai lashkar mein ek hai
+  Yaaṅ haajat-e-dalil gawaahi nahiṅ koi
+  Is umr ka jahaaṅ mein sipaahi nahiṅ koi
+
   2
-  Karbobala ka garche takaza hai dum ba dum
-  Lekin hussain kaise badhaye abhi qadam
-  Mehzar mein naam koore bahattar ke hai raqam
-  Maujood sab hai ek mujahid magar hai kam
-  Gar wo nahi to jang kahan thi nahi koi
-  Phir hurmula ka madde muqaabil nahi koi
-  
+  Karb o bala ka agarche taqaaza hai dam ba dam
+  Lekin Husain kaise barhaaeṅ abhi qadam
+  Mahzar mein naam pure bahattar ke haiṅ raqam
+  Maujud sab haiṅ ek mujaahid magar hai kam
+  Gar wo nahiṅ to jang kahaaṅ thi nahiṅ koi
+  Phir Hurmala ka madd-e-muqaabil nahiṅ koi
+
   3
-  Bas is liye hai apne gulaytar ka intezar
-  As-haab ka na fauj na lashkar na intezar
-  Abbas ka na qasim o akbar ka intezar
-  Ran saat tak faqad ali asghar ka intezar
-  Jab tak na paaya usko shahe mashraqain ne
-  Cheda na koi kaare shahadat hussain ne
-  
+  Bas is liye hai apne gul-e-tar ka intezaar
+  Ashaab ka na fauj na lashkar ka intezaar
+  Abbas ka na Qasim o Akbar ka intezaar
+  Ran saat tak faqat Ali Asghar ka intezaar
+  Jab tak na paaya us ko Shaah-e-Mashraqain ne
+  Chhera na koi kaar-e-shahaadat Husain ne
+
   4
-  Haan jab talak ye aalam e anwaar mein nihaa
-  Deta tha daste khudrate haq usko loriyan
-  Aksar sitare tod ke deti thi kehkashan
-  Zid ki to pehro leke tehelta tha aasman
-  Machla to phir na maano hazaron se poochlo
-  Raton ki neend udh gayi taaron se poochlo
-  
+  Haaṅ jab talak ye aalam-e-anwaar mein nihaaṅ
+  Deta tha dast-e-qudrat-e-Haq us ko loriyaaṅ
+  Aksar sitaare tor ke deti thi kahkashaaṅ
+  Zid ki to pahro le ke tahalta tha aasmaaṅ
+  Machla to phir na maano hazaaroṅ se puchh lo
+  Raatoṅ ki nind ur gayi taaroṅ se puchh lo
+
   5
-  Tehreer tha jo arsh ke maathe pe la ilaah
-  Padta tha kalma jiski bhi pad jaati thi nigaah
-  Asghar bhi thay jo waaqife adaab e rasm o raah
-  Hairaan thay farishte ke allah ki panaah
-  Is bezaban par ye samajh gulbadan mein hai
+  Tahrir tha jo arsh ke maathe pe laa ilaah
+  Parhta tha kalma jis ki bhi par jaati thi nigaah
+  Asghar bhi the jo waaqif-e-aadaab-e-rasm o raah
+  Hairaan the farishte ke Allah ki panaah
+  Is bezabaan par ye samajh gul badan mein hai
   Kalme ke badle kalme ki ungli dahan mein hai
-  
+
   6
-  Hai kash ma kash mein baadshahe aasman janab
-  Asghar tadap rahe hai ke ran ko chale shitaab
+  Hai kashmakash mein Baadshaah-e-aasmaaṅ janaab
+  Asghar tarap rahe haiṅ ke ran ko chale shitaab
   Aur dil ye soch soch ke khaata hai pech o taab
-  Jhoola hua jo khaali to mar jayegi rabab
-  Aakhir badaye haath isi ghaur o khaus mein
-  Tooba ki shaan se jo gayi kausar ke hauz mein
-  
+  Jhula hua jo khaali to mar jaaye gi Rabab
+  Aakhir barhaae haath isi ghaur o khaus mein
+  Tuba ki shaan se jo gaye Kausar ke hauz mein
+
   7
-  Misle kamand gaysu e paycha liye hue
-  Khanjar se tez dishana e misgan liye hue
-  Masoom si nigaah ka payka liye hue
-  Itrat se sab ye jang ke samaan liye hue
-  Nau laak ke mubaakile ko ja raha hai ab
-  Durre najaf pahad se takra raha hai ab
-  
+  Misl-e-kamand gesu-e-pechaaṅ liye hue
+  Khanjar se tez dashna-e-mizhgaaṅ liye hue
+  Maasum si nigaah ka paikaaṅ liye hue
+  Itrat se sab ye jang ke saamaaṅ liye hue
+  Nau laakh ke muqaabale ko ja raha hai ab
+  Durr-e-Najaf pahaar se takra raha hai ab
+
   8
-  Pyasa tha teen roz se yasrab ka kaarwan
-  Allah re tashnagi ke bani har nafas dhuan
-  Wo waqt tha ke bali sakina basad fughan
-  Abbas ko dikhati thi sookhi hui zaban
-  Qurban magar sagheer ki is aal baan par
-  Ek lafz al atash bhi na aaya zaban par
+  Pyaasa tha tin roz se Yasrib ka kaarwaaṅ
+  Allah re tashnagi ke bani har nafas dhuaaṅ
+  Wo waqt tha ke baali Sakina basad fughaaṅ
+  Abbas ko dikhaati thi sukhi hui zabaaṅ
+  Qurbaaṅ magar saghir ke is aal baan par
+  Ek lafz al atash bhi na aaya zabaan par
 # source_id: nohayonline:3aa00bc622221940492d
 # source_url: https://www.nohayonline.com/details_content.php?id=54
 # raw_sha256: 722adf3dcdeecc3531777d81f82691e91cecd6284ebe64961ea62182b75ea924
@@ -108,7 +108,7 @@ romanLyrics: |-
 ہاں جب تلک یہ عالمِ انوار میں نیہاں
 دیتا تھا دستِ قُدرتِ حق اُس کو لوریاں
 اکثر ستارے توڑ کہ دیتی تھی کہکشاں
-زد کی تو پہرو لے کہ ٹہلتا تھا آسماں
+ضد کی تو پہرو لے کہ ٹہلتا تھا آسماں
 مچلا تو پھر نہ مانہ ہزاروں سے پوچھ لو
 راتوں کی نیند اُڑ گئی تاروں سے پوچھ لو
 
