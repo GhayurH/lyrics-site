@@ -1,11 +1,12 @@
 ---
-title: "ہاے حسیں ہاے حسیں"
+title: "ہائے حسیں ہائے حسیں"
 alternateTitle: "Abbas Mar Gaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -32,7 +33,7 @@ romanLyrics: |-
 
   4
   Kehte hain ab bulaiye imdad ke liye
-  Bolo Husain Akbar o Ghazi kahan gaye
+  Bolo Husain Akbar o Ghazi kahaaṅ gaye
   Dete hain taane purse ke badle ye ashqiya
 
   5
@@ -46,13 +47,13 @@ romanLyrics: |-
   Haaye magar hamari gharibi ki inteha
 
   7
-  Charoṅ taraf hain tiroṅ ki bauchhar dekh lo
-  Hum par sabhi uthate hain talwar dekh lo
-  Zainab batao ab kahan ja kar kareṅ gila
+  Chaaroṅ taraf hai tiroṅ ki bauchhar dekh lo
+  Hum par sabhi uthaye hain talwar dekh lo
+  Zainab batao ab kahaaṅ ja kar kareṅ gila
 
   8
   Khanjar tale bhi Sheh ko Takallum yehi tha gham
-  Kitne gharib ho gaye Karbobala mein hum
+  Kitne gharib ho gaye Karb o Bala mein hum
   Khanjar rawaṅ tha parhte the Maula ye marsiya
 # source_id: nohayonline:8498ee46e55938dd4f09
 # source_url: https://www.nohayonline.com/details_content.php?id=2371

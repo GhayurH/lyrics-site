@@ -1,21 +1,23 @@
 ---
 title: "عباس میرِ لشکرم"
-alternateTitle: "Abbas Meere Lashkaram"
+alternateTitle: "Abbas Mir-e-Lashkaram"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Abbas mir-e-lashkaram
   Shakl-e-Ali Sher-e-Khuda
-  Shabbir sa jah o hasham
+  Shabbir sa jaah o hasham
+  Abbas mir-e-lashkaram
 
   1
-  Aaya Ali ka ladla
+  Aaya Ali ka laadla
   Kehte the dushman barmala
   Sab de do is ko rasta
   Warna karega sar qalam
@@ -29,17 +31,17 @@ romanLyrics: |-
   3
   Darya pe jaana hai use
   Pani pilana hai use
-  Wada nibhana hai use
+  Waada nibhana hai use
   Khai Sakina ki qasam
 
   4
-  Rah-e-wafa mein khun diya
+  Raah-e-wafa mein khuṅ diya
   Ek bund na pani piya
   Darya pe jab gaara alam
   Sab keh uthe Arab o Ajam
 
   5
-  Maidan mein jab Ghazi gaya
+  Maidaaṅ mein jab Ghazi gaya
   Haider ki tarah dat gaya
   Parcham ko jhukne na diya
   Aur ho gaye bazu qalam
@@ -52,7 +54,7 @@ romanLyrics: |-
 
   7
   Ghore se jab Ghazi gira
-  Shabbir ka ek bawafa
+  Shabbir ka ek baawafa
   Dunya se rukhsat ho gaya
   Ujra hai Zainab ka bharam
 
@@ -64,7 +66,7 @@ romanLyrics: |-
 
   9
   Bachchoṅ ka tuta aasra
-  Aaya alam jo khun bhara
+  Aaya alam jo khuṅ bhara
   Ghash mein Sakina gir pari
   Ye ho gaya kaisa alam
 
@@ -81,6 +83,7 @@ romanLyrics: |-
 عباس میرِ لشکرم
 شکل علی شیر خدا
 شبیر سا جاہ و ہشم
+عباس میرِ لشکرم
 
 ۱
 آیا علی کا لاڈلا

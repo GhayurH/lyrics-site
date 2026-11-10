@@ -1,11 +1,12 @@
 ---
-title: "سقی عباس ہے مولا"
+title: "ساقی عباس ہے مولا"
 alternateTitle: "Abbas Mera Maula"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,6 +14,7 @@ romanLyrics: |-
   Saqi Abbas hai Maula
   Abbas mera Maula Abbas mera Aaqa
   Hai sher Karbala ka farzand Fatema ka
+  Abbas mera Maula Abbas mera Aaqa
 
   1
   Har dard ki dawa hai Ibn-e-Shah-e-Huda hai
@@ -25,13 +27,13 @@ romanLyrics: |-
   Haider ka dabdaba hai Sher-e-Khuda ka saaya
 
   3
-  Ahl-e-Haram ka saqqa dharas Shah-e-Zaman ki
+  Ahl-e-Haram ka saqqa dhaaras Shah-e-Zaman ki
   Pardes ki fiza mein umid hai behan ki
   Zainab ka aasra hai Sher-e-Khuda ka saaya
 
   4
   Chullu mein le ke pani rasm-e-wafa nibhayi
-  Tishna dahan ke lab tak ek bund bhi na aayi
+  Tashna dahan ke lab tak ek bund bhi na aayi
   Ye zabt ka Khuda hai Sher-e-Khuda ka saaya
 
   5
@@ -41,7 +43,7 @@ romanLyrics: |-
 
   6
   Bazu qalam hue to wapas na ran se aaya
-  Pani baha tha jitna utna hi khun bahaya
+  Pani baha tha jitna utna hi khuṅ bahaya
   Kis darja ba haya hai Sher-e-Khuda ka saaya
 
   7
@@ -50,14 +52,14 @@ romanLyrics: |-
   Shabbir ki dua hai Sher-e-Khuda ka saaya
 
   8
-  Pani ki ye sabileṅ Asghar ki hain dalileṅ
+  Pani ki ye sabileṅ Asghar ki hai dalileṅ
   Abbas ki wafa ko Ahl-e-Wafa se puchheṅ
   Zinda ye maujiza hai Sher-e-Khuda ka saaya
 
   9
   Nasir Husain ka hai Rehaan Karbala bhi
   Zainab ki aarzu bhi Zehra ki hai dua bhi
-  Haider ka ladla hai Sher-e-Khuda ka saaya
+  Haider ka laadla hai Sher-e-Khuda ka saaya
 # source_id: nohayonline:dec0482fdbd0e0927018
 # source_url: https://www.nohayonline.com/details_content.php?id=1881
 # raw_sha256: 87ae70778598d6814e5e859f3808889699d06300c6b0341657ae4ce681a18fc4
@@ -66,6 +68,7 @@ romanLyrics: |-
 ساقی عباس ہے مولا
 عباس میرا مولا عباس میرا آقا
 ہے شیر کربلا کا فرزند فاطمہ کا
+عباس میرا مولا عباس میرا آقا
 
 ۱
 ہر درد کی دوا ہے ابنِ شہ ہدا ہے
