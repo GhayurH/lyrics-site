@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -17,15 +18,15 @@ romanLyrics: |-
   Tayyar kar ke qafila
   Zainab se Sheh ne kaha
   Meri behan dekho zara
-  Kis shan ka hai qafila
+  Kis shaan ka hai qafila
   Ahl-e-Haram ka aasra
-  Abbas salar-e-qafila
+  Abbas salaar-e-qafila
 
   1
-  Sadat ka hai ye safar
+  Sadaat ka hai ye safar
   Uthti nahiṅ koi nazar
-  Ghazi ki ek awaz par
-  Sunsan hai har rahguzar
+  Ghazi ki ek aawaz par
+  Sunsaan hai har rahguzar
   Aisa bharam ye dabdaba
 
   2
@@ -37,28 +38,28 @@ romanLyrics: |-
 
   3
   Hai sabz saari mahmileṅ
-  Shahzadiyaṅ mahmil mein hain
+  Shahzaadiyaṅ mahmil mein haiṅ
   Samjha rahi hai sab ko ye
-  Zainab tumhari chadareṅ
+  Zainab tumhaari chaadareṅ
   Qaim raheṅgi ba-Khuda
 
   4
   Hai dhup mein saaya bara
   Ghazi ka hai parcham khula
-  Koi nahiṅ pyasa yahan
-  Hai mashk mein pani bhara
+  Koi nahiṅ pyaasa yahaṅ
+  Hai mashk mein paani bhara
   Hai mutmain chhota bara
 
   5
   Ahl-e-Haram ki aas hai
-  Shabbir ko ehsas hai
-  Zor-e-kamar bazu mera
+  Shabbir ko ehsaas hai
+  Zor-e-kamar baazu mera
   Bhai mera Abbas hai
   Sab ke liye Mushkilkusha
 
   6
-  Zainab ka ye farman hai
-  Koi hawaoṅ se kahe
+  Zainab ka ye farmaan hai
+  Koi hawaaoṅ se kahe
   Bepardagi ho na kahiṅ
   Mahmil ka na parda hate
   Haaṅ rok sakta hai hawa
@@ -72,14 +73,14 @@ romanLyrics: |-
 
   8
   Saaye ki tarah saath hai
-  Akbar jawaṅ Shabbir ke
-  Mahv-e-tawaf-e-Shah-e-Din
-  Zainab ke dono ladle
-  Hamrah Zainab ki dua
+  Akbar jawaaṅ Shabbir ke
+  Mahv-e-tawaaf-e-Shah-e-Din
+  Zainab ke donoṅ laadle
+  Hamraah Zainab ki dua
 
   9
   Baqir se ye kehne lagi
-  Bali Sakina Shah ki
+  Baali Sakina Shah ki
   In rastoṅ mein to hameṅ
   Taklif na hogi koi
   Hai saath mein mere chacha
@@ -87,7 +88,7 @@ romanLyrics: |-
   10
   Farhan aur Mazhar suno
   Jab bhi alam le kar chalo
-  Uncha alam Ghazi ka hai
+  Uṅcha alam Ghazi ka hai
   Dunya se ye kehte raho
   Hai qafila Shabbir ka
 # source_id: nohayonline:d7c5c5e74b64f16db0e0

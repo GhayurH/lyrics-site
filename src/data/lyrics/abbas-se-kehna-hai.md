@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Ali Jee"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -23,52 +24,53 @@ romanLyrics: |-
   Abbas se kehna hai ke tum Shah-e-Wafa ho
   Tum Sheh ke Alamdar Sakina ke chacha ho
   Aur saare muhibboṅ ke liye dast-e-ata ho
-  Abbas ghulami ki sanad aap se lena hai
+  Abbas ghulaami ki sanad aap se lena hai
 
   2
-  Jo shan-e-Alamdar wohi shan-e-alam hai
-  Donoṅ hi hamare hain ye Malik ka karam hai
+  Jo shaan-e-Alamdar wohi shaan-e-alam hai
+  Donoṅ hi hamaare haiṅ ye Malik ka karam hai
   Maula ye alam aap ka hum sab ka bharam hai
   Hum ko to alam ke hi sada saaye mein rehna hai
 
   3
-  Tum Bab-e-Hawaij ho wasila ho hamara
-  Aata hai muradeṅ liye chaukhat pe zamana
-  Haaṅ dar se tumhare koi khali nahiṅ jaata
-  Allah se maṅga hai magar tum ne dilana hai
+  Tum Bab-e-Hawaij ho wasila ho hamaara
+  Aata hai muradeṅ liye chaukhat pe zamaana
+  Haaṅ dar se tumhaare koi khaali nahiṅ jaata
+  Allah se maaṅga hai magar tum ne dilaana hai
 
   4
-  Gham koi bhi jab dil ko hamare hai satata
+  Gham koi bhi jab dil ko hamaare hai sataata
   Jab koi kara waqt kabhi hum pe hai aata
-  Abbas alam aap ka himmat hai barhata
-  Dil tute to tuta hua dil tum ko bulata hai
+  Abbas alam aap ka himmat hai barhaata
+  Dil tute to tuta hua dil tum ko bulaata hai
 
   5
-  Sain mere Sarkar mere Murshid o Maula
-  Is baar Muharram mein ho mera bhi bulawa
+  Saiṅ mere Sarkar mere Murshid o Maula
+  Is baar Muharram mein ho mera bhi bulaawa
   Likhwa do mera naam bhi zawwaroṅ mein Aaqa
-  Ro ro ke tumheṅ noha Sakina ka sunana hai
+  Ro ro ke tumheṅ noha Sakina ka sunaana hai
 
   6
   Jo jo bhi sitam baad-e-Alamdar hua hai
-  Sadat ne pardes mein jo zulm saha hai
+  Sadaat ne pardes mein jo zulm saha hai
   Har mor pe Zainab ne yehi ro ke kaha hai
   Is dil pe jo guzri hai kisi se nahiṅ kehna hai
 
   7
   Abbas se kehna ke ghar aao na Maula
-  Tum apni ziyarat hameṅ karwao na Maula
-  Ek tohfa tumhara hai wo le jao na Maula
-  Pani se bhari mashk Sakina tumheṅ dena hai
+  Tum apni ziyaarat hameṅ karwaao na Maula
+  Ek tohfa tumhaara hai wo le jaao na Maula
+  Paani se bhari mashk Sakina tumheṅ dena hai
 
   8
   Abbas mere Rab ka anmol wasila hai
-  Mashhur zamane mein Saqqa-e-Sakina hai
+  Mashhur zamaane mein Saqqa-e-Sakina hai
   Har tute hue dil ka Abbas wasila hai
-  Ye Bab-e-Hawaij hai har gham ka madawa hai
+  Ye Bab-e-Hawaij hai har gham ka madaawa hai
   Har lab ka wazifa hai har dil mein dharakta hai
-  Girtoṅ ko uthata hai dubo to bachata hai
-  Taqdir jagata hai qismat ko sajata hai
+  Girtoṅ ko uthaata hai dubo to bachaata hai
+  Taqdir jagaata hai qismat ko sajaata hai
+  Abbas se kehna hai Abbas se kehna hai
 
   9
   Hasnain ka sadqa do Abbas se kehna hai
@@ -102,7 +104,7 @@ romanLyrics: |-
 جو شان علمدار وہی شان علم ہے
 دونوں ہی ہمارے ہیں یہ مالک کا کرم ہے
 مولا یہ علم آپ کا ہم سب کا بھرم ہے
-ہم کو تو الم کے ہی سدا سائے میں رہنا ہے
+ہم کو تو علم کے ہی سدا سائے میں رہنا ہے
 
 ۳
 تم باب الحوائج ہو وسیلہ ہو ہمارا
@@ -142,6 +144,7 @@ romanLyrics: |-
 ہر لب کا وظیفہ ہے ہر دل میں دھڑکتا ہے
 گرتوں کو اٹھاتا ہے ڈوبو تو بچاتا ہے
 تقدیر جگاتا ہے قسمت کو سجاتا ہے
+عباس سے کہنا ہے عباس سے کہنا ہے
 
 ۹
 حسنین کا صدقہ دو عباس سے کہنا ہے
