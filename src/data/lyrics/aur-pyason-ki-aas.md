@@ -14,55 +14,55 @@ romanLyrics: |-
   Saqqa koi Furat pe aaya tha tashnalab
 
   1
-  Mashkeeza bhar ke janib-e-khaima chala wo jab
-  Barse wo teer chidgayi mashk-e-Sakina jab
-  Roya alam faraat wafa mashk aur sab
-  Goonji maqtal mein Shah-e-Deen ki sada
-  Qatl darya pe alamdar huwa
-  Aur pyason ki aas toot gayi
+  Mashkiza bhar ke janib-e-khaima chala wo jab
+  Barse wo tir chhid gayi mashk-e-Sakina jab
+  Roya alam Furat wafa mashk aur sab
+  Gunji maqtal mein Shah-e-Diṅ ki sada
+  Qatl darya pe alamdaar huwa
+  Aur pyasoṅ ki aas tut gayi
 
   2
-  Aaya maqtal se alam khoon mein bhara
+  Aaya maqtal se alam khuṅ mein bhara
   
   3
-  Din dhala shaam e ghariban ke andhere chaaye
-  Bas sakina ne yehi roke kaha
+  Din dhala Shaam-e-Gharibaṅ ke andhere chaaye
+  Bas Sakina ne yehi ro ke kaha
 
   4
-  Ab mere sar se rida jayegi zainab ne kaha
-  Rodiye sun ke shah-e-karbobala
+  Ab mere sar se rida jayegi Zainab ne kaha
+  Ro diye sun ke Shah-e-Karb o Bala
 
   5
-  Tere ammu to teri pyaas pe qurban huve
-  Sheh ne ye bali sakina se kaha
+  Tere ammuṅ to teri pyaas pe qurban huve
+  Sheh ne ye bali Sakina se kaha
 
   6
-  Haath mein sukhe hue kooze liye baithe thay
+  Haath mein sukhe hue kuze liye baithe the
   Marsiya pyaas ka maula se suna
 
   7
   Khun-e-Abbas jo parcham se tapakte dekha
-  Dukhtare shaah ka dil doob gaya
+  Dukhtar-e-Shah ka dil dub gaya
 
   8
-  Ro ke Kulsum se fizza ne kaha shehzadi
+  Ro ke Kulsum se Fizza ne kaha shehzadi
   Teri chadar ka muhafiz bhi gaya
 
   9
-  Dono haaton se kamar thaame hue sheh ne kaha
+  Donoṅ haathoṅ se kamar thaame hue sheh ne kaha
   Bujh gaya teri ummidoṅ ka diya
 
   10
-  Al-atash kehke jo rote thay wo khamosh hue
+  Al-atash keh ke jo rote thay wo khamosh hue
   Chaayi maahol pe matam ki faza
 
   11
-  Roye sadaat to darya ka kanara roya
-  Zindagi royi kahin royi qaza
+  Roye Saadaat to darya ka kanara roya
+  Zindagi royi kahiṅ royi qaza
 
   12
-  Ye sada mazhar o irfan bani hai nauha
-  Qatl darya pe alamdar hua
+  Ye sada Mazhar o Irfan bani hai nauha
+  Qatl darya pe alamdaar hua
 # source_id: nohayonline:e97b5526d86f888be9c7
 # source_url: https://www.nohayonline.com/details_content.php?id=557
 # raw_sha256: 23ed933bdfcebd981ac85aa3c9db034ddc5ea4ea5aa0753d5e6278e5e89db518
@@ -111,7 +111,7 @@ romanLyrics: |-
 بُجھ گیا تیری امیدوں کا دیا
 
 ۱۰
-العتش کہہ کے جو روتے تھے وہ خاموش ہوئے
+العطش کہہ کے جو روتے تھے وہ خاموش ہوئے
 چھائی ماحول پہ ماتم کی فضا
 
 ۱۱

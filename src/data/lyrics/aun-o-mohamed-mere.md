@@ -11,55 +11,55 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab ke dulare Aun o Muhammad
-  Aun o Muhammad mere aun o Muhammad
+  Aun o Muhammad mere Aun o Muhammad
 
   1
-  Boli zainab ye mere maan badhana bachon
-  Surkh roo jang ke maidan se aana bachon
-  Maut ko zeest ka unwaan banana bachon
-  Pyase seh roz ke ho khoon mein nahana bachon
+  Boli Zainab ye mere maan barhana bachchoṅ
+  Surkh ru jang ke maidan se aana bachchoṅ
+  Maut ko zist ka unwaan banana bachchoṅ
+  Pyase seh roz ke ho khuṅ mein nahana bachchoṅ
 
   2
-  Aaj ke din ke liye maine tumhe paala tha
-  Ibn-e-Makhduma-e-Konain hai mushkil mein ghira
-  Aarzu Aun o Muhammad hai tumhari maa ki
-  Dono ho jao mere bhai ke akbar pe fida
+  Aaj ke din ke liye main ne tumheiṅ paala tha
+  Ibn-e-Makhduma-e-Kaunain hai mushkil mein ghira
+  Aarzu Aun o Muhammad hai tumhari maaṅ ki
+  Dono ho jao mere bhai ke Akbar pe fida
 
   3
   Zakhm maidan mein tum khao to khush ho maadar
-  Shaan ajdaad ki dikhlao to khush ho maadar
-  Sue darya na utha kar kabhi nazrein dekho
+  Shaan-e-ajdaad ki dikhlao to khush ho maadar
+  Su-e-darya na utha kar kabhi nazreiṅ dekho
   Pyase dunya se guzar jao to khush ho maadar
 
   4
   Jang is tarha karo ahl-e-wafa yaad kare
-  Aise hamle ho jinhe shaami sada yaad kare
-  Neemche khol ke lamhon mein ulat do lashkar
-  Daad abbas de aur Sher-e-Khuda yaad kare
+  Aise hamle ho jinheiṅ Shaami sada yaad kare
+  Nimche khol ke lamhoṅ mein ulat do lashkar
+  Daad Abbas de aur Sher-e-Khuda yaad kare
 
   5
-  Dum karun Nad-e-Ali sar ko jhuka lo bachon
-  Sare arman ladayi ke nikaalo bachon
+  Dam karuṅ Naad-e-Ali sar ko jhuka lo bachchoṅ
+  Saare armaan larai ke nikaalo bachchoṅ
   Haye sehra na saja sar pe tumhare lekin
-  Maut ko aaj dulhan apni banalo bachon
+  Maut ko aaj dulhan apni bana lo bachchoṅ
 
   6
-  Hukm zainab ka baja laaye dulaare bache
-  Maut to haar gayi ran mein na haare bache
-  Dekh kar laashe pukari ye ali ki beti
-  Surkh roo main hui dunya se sidhare bache
+  Hukm Zainab ka baja laaye dulaare bachche
+  Maut to haar gayi ran mein na haare bachche
+  Dekh kar laashe pukari ye Ali ki beti
+  Surkh ru main hui dunya se sidhaare bachche
 
   7
-  Boli maa laashon se kyun neend hai aayi utho
-  Maa ko batlao ladi kaisi ladayi utho
-  Ba-adab tum ho bahot phir ye ghazab hai kaisa
-  Kab se baali pe khade hai mere bhai utho
+  Boli maaṅ laashoṅ se kiuṅ neend hai aayi utho
+  Maaṅ ko batlao lari kaisi larai utho
+  Ba adab tum ho bahut phir ye ghazab hai kaisa
+  Kab se baaliṅ pe khare haiṅ mere bhai utho
 
   8
-  Jaffri royi kahan bachon ko binte zehra
-  Haa magar laut ke jab ghar mein wo aayi dukhiya
+  Jaffri royi kahaṅ bachchoṅ ko Bint-e-Zehra
+  Haaṅ magar laut ke jab ghar mein wo aayi dukhiya
   Khaali hujre jo nazar aaye to phir zabt hua
-  Haath phailaye huwe ro ke ye zainab ne kaha
+  Haath phailaye huwe ro ke ye Zainab ne kaha
 # source_id: nohayonline:466d8ba6b3993b3f8f1c
 # source_url: https://www.nohayonline.com/details_content.php?id=1886
 # raw_sha256: 911ecee891bbd6ecb77a699ce71a712a5487ecb6ea8d2d9629726cc50134650b
@@ -94,7 +94,7 @@ romanLyrics: |-
 ۵
 دم کروں ناد علی سر کو جھکا لو بچوں
 سارے ارمان لڑائی کے نکالو بچوں
-ہاے سہرا نہ سجا سر پہ تمہارے لیکن
+ہائے سہرا نہ سجا سر پہ تمہارے لیکن
 موت کو آج دلہن اپنی بنالو بچوں
 
 ۶
@@ -104,13 +104,13 @@ romanLyrics: |-
 سرخ رو میں ہوئی دنیا سے سدھارے بچے
 
 ۷
-بولی ماں لاشوں سے کیوں نیند ہے آی اٹھو
+بولی ماں لاشوں سے کیوں نیند ہے آئی اٹھو
 ماں کو بتلاؤ لڑی کیسی لڑائی اٹھو
 با ادب تم ہو بہت پھر یہ غضب ہے کیسا
 کب سے بالیں پہ کھڑے ہیں میرے بھائی اٹھو
 
 ۸
-جعفری روی کہاں بچوں کو بنت زہرا
-ہاں مگر لوٹ کے جب گھر میں وہ آی دکھیا
-خالی حجرے جو نظر آے تو پھر ضبط ہوا
-ہاتھ پھیلائے ہوے رو کے یہ زینب نے کہا
+جعفری روئی کہاں بچوں کو بنت زہرا
+ہاں مگر لوٹ کے جب گھر میں وہ آئی دکھیا
+خالی حجرے جو نظر آئے تو پھر ضبط ہوا
+ہاتھ پھیلائے ہوئے رو کے یہ زینب نے کہا

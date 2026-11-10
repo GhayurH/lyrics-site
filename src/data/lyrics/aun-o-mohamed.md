@@ -10,52 +10,52 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ne kaha nur-e-nazar aun o Muhammad
-  Tum kar gaye dunya se safar aun o Muhammad
+  Zainab ne kaha nur-e-nazar Aun o Muhammad
+  Tum kar gaye dunya se safar Aun o Muhammad
 
   1
-  Tum log bhi mamuṅ pe fida hogaye ran mein
-  Aayi hai ye maqtal se khabar aun o Muhammad
+  Tum log bhi mamuṅ pe fida ho gaye ran mein
+  Aayi hai ye maqtal se khabar Aun o Muhammad
 
   2
-  Deedar ki hasrat mein musalsal meri aankhein
-  Dhoondegi tumhe sham o sahar aun o Muhammad
+  Didaar ki hasrat mein musalsal meri aankheiṅ
+  Dhundegi tumheiṅ shaam o sahar Aun o Muhammad
 
   3
-  Ye sochna maa baithi hai nazdeek tumhare
-  Aajaye meri yaad agar aun o Muhammad
+  Ye sochna maaṅ baithi hai nazdik tumhare
+  Aajaye meri yaad agar Aun o Muhammad
 
   4
-  Tum ye na samajhna main tumhe bhool gayi hoo
-  Hai dil pe judaai ka asar aun o Muhammad
+  Tum ye na samajhna main tumheiṅ bhul gayi huṅ
+  Hai dil pe judaai ka asar Aun o Muhammad
 
   5
   Ye soch ke kab khelte aajao mere paas
-  Darwaze pe rehti hai nazar aun o Muhammad
+  Darwaze pe rehti hai nazar Aun o Muhammad
 
   6
-  Phir tum pe naye zulm ki yalghaar na hojaye
-  Har waqt laga rehta hai darr aun o Muhammad
+  Phir tum pe naye zulm ki yalghaar na ho jaye
+  Har waqt laga rehta hai darr Aun o Muhammad
 
   7
-  Jis waqt madine mein qadam rakhungi jaa kar
-  Veeran nazar aayega ghar aun o Muhammad
+  Jis waqt Madine mein qadam rakhuṅgi jaa kar
+  Viraan nazar aayega ghar Aun o Muhammad
 
   8
-  Jis roz se khoya hai tumhe karbobala mein
-  Daaman mera ashkon se hai tar aun o Muhammad
+  Jis roz se khoya hai tumheiṅ Karb o Bala mein
+  Daaman mera ashkoṅ se hai tar Aun o Muhammad
 
   9
-  Mehsoos ye hota hai mujhe ae mere beta
-  Tum laut ke aa jaaoge ghar aun o Muhammad
+  Mehsus ye hota hai mujhe ae mere beta
+  Tum laut ke aa jaaoge ghar Aun o Muhammad
 
   10
-  Jis waqt chali jati huṅ hujre mein tumhare
-  Takleef se uth'ta nahi sar aun o Muhammad
+  Jis waqt chali jaati huṅ hujre mein tumhare
+  Taklif se uthta nahiṅ sar Aun o Muhammad
 
   11
-  Ishrat hai abhi tak yehi zainab ki sadayein
-  Aajao ke phatta hai jigar aun o Muhammad
+  Ishrat hai abhi tak yehi Zainab ki sadaaeiṅ
+  Aajao ke phatta hai jigar Aun o Muhammad
 # source_id: nohayonline:6c89f004fd37ec37c9c4
 # source_url: https://www.nohayonline.com/details_content.php?id=2205
 # raw_sha256: 4cfb1c7c6410b521a3a9f5e43827efc294cbce21126f647a16c963a9739c8d5c
@@ -89,7 +89,7 @@ romanLyrics: |-
 
 ۷
 جس وقت مدینے میں قدم رکھوں گی جا کر
-ویران نظر آے گا گھر عون و محمد
+ویران نظر آئے گا گھر عون و محمد
 
 ۸
 جس روز کھویا ہے تمہیں کربوبلا میں
@@ -104,5 +104,5 @@ romanLyrics: |-
 تکلیف سے اٹھتا نہیں سر عون و محمد
 
 ۱۱
-عشرت ہے ابھی تک یہی زینب کی صداییں
-آجاؤ کے پھٹتا ہے جگر عون و محمد
+عشرت ہے ابھی تک یہی زینب کی صدائیں
+آجاؤ کہ پھٹتا ہے جگر عون و محمد

@@ -14,39 +14,39 @@ romanLyrics: |-
   Ghar Fatima ka mil kar ummat jala rahi hai
 
   1
-  Bin baazuon ke koi darya pe lash tarpi
-  Zainab ke sar chadar haye cheeni jaa rahi hai
+  Bin baazuoṅ ke koi darya pe laash tarpi
+  Zainab ke sar chadar haye chhini jaa rahi hai
 
   2
-  Soe kahaṅ ho Asghar meri godh kar ke veeran
-  Maa khainch ke jhoole ki dori hila rahi hai
+  Soye kahaṅ ho Asghar meri god kar ke viraṅ
+  Maaṅ khainch ke jhule ki dori hila rahi hai
 
   3
-  Burqe mein jis ko paala zainab ne saal athara
-  Us ke lahoo ki mehendi sar ko laga rahi hai
+  Burqae mein jis ko paala Zainab ne saal athara
+  Us ke lahu ki mehendi sar ko laga rahi hai
 
   4
-  Khamosh umme farwa baithi hai khole ghatri
+  Khamosh Umm-e-Farwa baithi hai khole gathri
   Tasvir-e-Mustafa ko kaise bana rahi hai
 
   5
-  Khaime to jal chuke hain phir bhi nabi ki ummat
-  Kubra ka lootne ko samaan aa rahi hai
+  Khaime to jal chuke haiṅ phir bhi Nabi ki ummat
+  Kubra ka lutne ko saamaaṅ aa rahi hai
 
   6
-  Jalte hue khaimoṅ se beti ali ki kaise
+  Jalte hue khaimoṅ se beti Ali ki kaise
   Bimar-e-Karbala ko tanha utha rahi hai
 
   7
-  Haye Sham-e-Ghariban mein mushkil kusha ki beti
-  Ban kar abbas ya rab pehre pe aa rahi hai
+  Haye Shaam-e-Gharibaṅ mein mushkil kusha ki beti
+  Ban kar Abbas ya rab pehre pe aa rahi hai
 
   8
-  Jakde huwe rasan mein hai haath phir bhi zainab
+  Jakre huwe rasan mein hai haath phir bhi Zainab
   Shabbir ke laashe se pathar hata rahi hai
 
   9
-  Chauda sau baras guzre sardar hai haqeeqat
+  Chaudah sau baras guzre Sardar hai haqiqat
   Aal-e-Nabi pe ummat haye zulm dha rahi hai
 # source_id: nohayonline:db4349a98d6244a4f3d8
 # source_url: https://www.nohayonline.com/details_content.php?id=2328
@@ -64,7 +64,7 @@ romanLyrics: |-
 ماں کھینچ کے جھولے کی ڈوری ہلا رہی ہے
 
 ۳
-برقے میں جس کو پالا زینب نے سال اٹھارہ
+برقعے میں جس کو پالا زینب نے سال اٹھارہ
 اس کے لہو کی مہندی سر کو لگا رہی ہے
 
 ۴
@@ -80,13 +80,13 @@ romanLyrics: |-
 بیمار کربلا کو تنہا اٹھا رہی ہے
 
 ۷
-ہاے شام غریباں میں مشکل کشاء کی بیٹی
+ہائے شام غریباں میں مشکل کشاء کی بیٹی
 بن کر عباس یا رب پہرے پہ آ رہی ہے
 
 ۸
-جکڑے ہوے رسن میں ہے ہاتھ پھر بھی زینب
+جکڑے ہوئے رسن میں ہے ہاتھ پھر بھی زینب
 شبیر کے لاشے سے پتھر ہٹا رہی ہے
 
 ۹
 چودہ سو برس گزرے سردار ہے حقیقت
-آل نبی پہ امت ہاے ظلم ڈھا رہی ہے
+آل نبی پہ امت ہائے ظلم ڈھا رہی ہے
