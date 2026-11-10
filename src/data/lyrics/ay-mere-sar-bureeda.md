@@ -1,65 +1,66 @@
 ---
 title: "اے میرے سر بریدہ بدن دریدہ"
-alternateTitle: "Ay Mere Sar Bureeda"
+alternateTitle: "Ae Mere Sar Burida"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Faraz"
+reciter: "Nasir Jahan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain
-  Ay mere sar bureeda badan dareeda
-  Sada tera naam bar gazeeda
-  Mai karbala ke lahoo dasht mein tujhe
+  Husain
+  Ae mere sar burida badan darida
+  Sada tera naam barguzida
+  Main Karbala ke lahu dasht mein tujhe
 
   1
-  Dushmano ke narghe mein
-  Taygh dar dast dekhta hoo
-  Mai dekhta hoo ke tere saare rafeeq
-  Sab hum nawa sabhi jaan farosh
+  Dushmanoṅ ke narghe mein
+  Tegh dar dast dekhta huṅ
+  Main dekhta huṅ ke tere saare rafiq
+  Sab hamnawa sabhi jaanfarosh
 
   2
-  Apne saron ki fasle kata chuke hai
-  Gulaab se jism apne khoon mein naha chuke hai
-  Hawaye jaankaah ke bagulay
-  Charagh se taab naak chehre bujha chuke hai
+  Apne saroṅ ki fasleṅ kata chuke haiṅ
+  Gulaab se jism apne khuṅ mein naha chuke haiṅ
+  Hawa-e-jaankah ke bagule
+  Charaagh se tabnaak chehre bujha chuke haiṅ
 
   3
-  Musafirane rahe wafa lut luta chuke hai
-  Aur ab faqat tu zameen ke is shafaq kadhe mein
-  Sitara e suboh ki tarha
-  Roshni ka parcham liye khada hai
+  Musafiran-e-rah-e-wafa lut luta chuke haiṅ
+  Aur ab faqat tu zamin ke is shafaq kade mein
+  Sitara-e-subh ki tarah
+  Roshni ka parcham liye khara hai
 
   4
-  Ye ek manzar nahi hai
-  Ek daastan ka hissa nahi hai
-  Ek waaqia nahi hai
-  Yahin se tareekh
+  Ye ek manzar nahiṅ hai
+  Ek daastaṅ ka hissa nahiṅ hai
+  Ek waaqia nahiṅ hai
+  Yahiṅ se taarikh
 
   5
-  Apne taaza safar ka awaaz kar rahi hai
-  Yahin se insaniyat
-  Nayi rif'aton ki parwaaz kar rahi hai
-  Mai aaj is karbala mein
+  Apne taaza safar ka aaghaaz kar rahi hai
+  Yahiṅ se insaniyat
+  Nayi rifatoṅ ko parwaaz kar rahi hai
+  Main aaj is Karbala mein
 
   6
-  Be aabru nigun sar
-  Shikast khurda khajil khada hoo
-  Jahan se mera azeem hadi
-  Hussain kal surkh roo gaya hai
+  Be-aabru niguṅ sar
+  Shikast khurda khajil khara huṅ
+  Jahaṅ se mera azim haadi
+  Husain kal surkhru gaya hai
 
   7
-  Mai jaan bacha kar
-  Fana ke daldal mein jaan balab hoo
-  Zameen aur aasman ke izz o faqr
+  Main jaaṅ bacha kar
+  Fana ke daldal mein jaaṅ balab huṅ
+  Zamin aur aasmaan ke izz o fakhr
   Saare haraam mujh par
 
   8
-  Wo jaan luta kar
-  Manara e arsh choo gaya hai
+  Wo jaaṅ luta kar
+  Manara-e-arsh chhu gaya hai
   Salaam us par
   Salaam us par
 # source_id: nohayonline:96bd27423bd8845e1e85
