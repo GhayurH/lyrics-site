@@ -1,11 +1,12 @@
 ---
-title: "Aye Khadija Ho Gayi Tauqeer Sari Aap Ki"
+title: "Ae Khadija Ho Gayi Tauqir Sari Aap Ki"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
+poet: "Shadan Dehlvi"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["Aye Khadija Ho Gayi Tauqeer Sari Aap Ki"]
 published: false
 # source_id: tajpoints:afaf1fbd5019a02df36e
 # source_url: https://tajpoints.com/2023/03/aye-khadija-ho-gayi-tauqeer-sari-aap-ki.html
@@ -13,25 +14,25 @@ published: false
 ---
 
 1
-Aye Khadija Ho Gayi Tauqeer Sari Aap Ki
-Aayi Jab Ghar Mein Muhammad Ke Sawari Aap Ki
-Zair Bar Islam Hai Zarbar Hai Deen-e-Rasool
-Kharch Iss Par Ho Gayi Dolat Jo Sari Aap Ki
+Ae Khadija ho gayi tauqir sari aap ki
+Aayi jab ghar mein Muhammad ke sawaari aap ki
+Zair bar Islam hai zarbar hai din-e-Rasul
+Kharch is par ho gayi daulat jo sari aap ki
 
 2
-Kar Diya Deen-e-Khuda Par Aap Ne Sab Kuch Nisar
-Zeenat-e-Islam Hai Jo Jaan Nisari Aap Ki
-Pehli Saf Mein Aap Ne Ki Hai Ada Pehli Namaz
-Awwaliyat Ki Sand Taat Guzari Aap Ki
+Kar diya din-e-Khuda par aap ne sab kuchh nisaar
+Zinat-e-Islam hai jo jaan nisaari aap ki
+Pehli saf mein aap ne ki hai ada pehli namaaz
+Awwaliyat ki sand taat guzaari aap ki
 
 3
-Salsabeel-o-Kausar-o-Tasneem Ki Malik Hain Aap
-Sood Mand Itni Hoi Sarmaya Kari Aap Ki
-Aap Ne Di Hai Nabi Ko Nasal-e-Sadaat-e-Karam
-Sorah-e-Kausar Ka Markaz Hai Dulari Aap Ki
+Salsabil o Kausar o Tasnim ki maalik haiṅ aap
+Sudmand itni hui sarmaaya kaari aap ki
+Aap ne di hai Nabi ko nasal-e-Saadaat-e-Karam
+Surah-e-Kausar ka markaz hai dulaari aap ki
 
 4
-Chaar Din Mein Aap Ki Rehlat, Abu Talib Ki Maut
-Haye Shafqat Unn Ki Our Khidmat Guzari Aap Ki
-Yeh Jo Aamo Al-Huzan Thehra Aap Ki Rehlat Ka Saal
-Youn Nabi Ke Kam Aayi Ghamgusari Aap Ki
+Chaar din mein aap ki rehlat, Abu Talib ki maut
+Haaye shafqat un ki aur khidmat guzaari aap ki
+Ye jo Aamo Al-Huzan thehra aap ki rehlat ka saal
+Yuṅ Nabi ke kaam aayi ghamgusaari aap ki

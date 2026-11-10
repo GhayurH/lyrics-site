@@ -1,45 +1,46 @@
 ---
 title: "اے ذوالجناح کیا کیا اپنے سوار کو"
-alternateTitle: "Ay Zuljana"
+alternateTitle: "Ae Zuljanah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qais Zangipuri"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Zuljana"]
 published: false
 romanLyrics: |-
-  Ay zuljana kya kiya apne sawaar ko
-  Dilbande mustufa shahe gardo viqar ko
+  Ae Zuljanah kya kiya apne sawaar ko
+  Dilband-e-Mustafa Shah-e-gardo waqaar ko
 
   1
-  Jab jaanta tha mar gaye sab khaish o akhraba
-  Phir kis pe chod aaya ghareeb-ud-dayaar ko
+  Jab jaanta tha mar gaye sab khaish o aqraba
+  Phir kis pe chhor aaya gharib-ud-dayaar ko
 
   2
-  Maqtal se daudta hua khaali phira hai kyun
-  Viswas aa raha hai dil e beqarar ko
+  Maqtal se daurta hua khaali phira hai kiuṅ
+  Waswaas aa raha hai dil-e-beqaraar ko
 
   3
-  Ay zuljana is tarhe se aane ka fayeda
-  Jab khairiat se leke na aaya sawaar ko
+  Ae Zuljanah is tarhe se aane ka faaida
+  Jab khairiyat se le ke na aaya sawaar ko
 
   4
-  Kyun sar jhukaye sharm se rota hai zaar zaar
+  Kiuṅ sar jhukaaye sharm se rota hai zaar zaar
   Kya khaak par gira diya apne sawaar ko
 
   5
-  Kya hogayi yateem sakina bala naseeb
-  Kyun ro roha hai dekh ke us dilfigaar ko
+  Kya ho gayi yatim Sakina bala nasib
+  Kiuṅ ro raha hai dekh ke us dilfigaar ko
 
   6
-  Jis manzile akheer ka bachpan se shauk tha
-  Kya us jaga utaara hai apne sawaar ko
+  Jis manzil-e-aakhir ka bachpan se shauq tha
+  Kya us jagah utaara hai apne sawaar ko
 
   7
-  Ay qais ahle shaam ne andhayr kar diya
-  Gul kar diya nabi ke charaghe mazaar ko
+  Ae Qais ahl-e-Shaam ne andher kar diya
+  Gul kar diya Nabi ke charaagh-e-mazaar ko
 # source_id: nohayonline:e26ebdcdcb367fd25c89
 # source_url: https://www.nohayonline.com/details_content.php?id=753
 # raw_sha256: 6222bc1ad0bc8658733cd99810755339e2bab66e851f5b021dc5d398132badb4
@@ -57,7 +58,7 @@ romanLyrics: |-
 
 ۳
 اے ذوالجناح اس طرحے سے آنے کا فائدہ
-جب خیریت سے لےکے نہ لایا سوار کو
+جب خیریت سے لے کے نہ لایا سوار کو
 
 ۴
 کیوں سر جھُکائے شرم سے روتا ہے زار زار

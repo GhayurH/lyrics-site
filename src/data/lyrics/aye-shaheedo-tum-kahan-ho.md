@@ -1,36 +1,81 @@
 ---
-title: "Aye Shaheedo Tum Kahan Ho"
-language: "Roman Urdu"
+title: "اے شہیدو تم کہاں ہو"
+alternateTitle: "Ae Shahido Tum Kahaaṅ Ho"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+reciter: "Mir Hasan Mir"
+tags: ["noImage"]
+aliases: ["Aye Shaheedo Tum Kahan Ho"]
 published: false
+romanLyrics: |-
+  Fasl-e-gul hai ab jahaaṅ mein ae shahido tum kahaaṅ ho
+  Taazgi hai gulistaaṅ mein ae shahido tum kahaaṅ ho
+
+  1
+  Sabz o khurram dasht-e-dunya hai tumhaare gham mein giryaaṅ
+  Bulbul-e-Shah-e-gulistaaṅ ro ro kehte haiṅ ye har aan
+  Mere phulo mere ghuncho ae shahido tum kahaaṅ ho
+
+  2
+  Chal ke raah-e-haq pe tum ne kaam aisa kar dikhaaya
+  Shuhada-e-Karbala se apne waadoṅ ko nibhaaya
+  Ae jawaano ahd saazo ae shahido tum kahaaṅ ho
+
+  3
+  Pursa daar-e-Karbala the raunaq-e-farsh-e-aza the
+  Aashiq-e-khaak-e-shifa the saajid-e-Rabb-e-ula the
+  Shah-e-din par rone waalo ae shahido tum kahaaṅ ho
+
+  4
+  Tum julusoṅ mein aza ke chalne waale aage aage
+  Sogwaaroṅ ko bana kar seh gaye khud bomb dhamaake
+  Raah-e-haq ke jaaṅ nisaaro ae shahido tum kahaaṅ ho
+
+  5
+  Tum muazzin tum musalli qalb-e-momin ki tasalli
+  Tum dua-e-Sayyida ki har zamaane mein tajalli
+  Ismatoṅ ke paasdaaro ae shahido tum kahaaṅ ho
+
+  6
+  Bin tumhaare kya bahaareṅ kaise naghme kya taraane
+  Chashm nam hai lab pe aaheṅ hum mileṅ ge kab na jaane
+  Paas apne ab bula lo ae shahido tum jahaaṅ ho
 # source_id: tajpoints:feec1daa1ef72d480d36
 # source_url: https://tajpoints.com/2020/12/aye-shaheedo-tum-kahan-ho-lyrics-in.html
 # raw_sha256: d62f40a100bdcaa16b9ef5cfc9a1ccc89ee0fb754a7ea31ec964fb9980fa50b5
 ---
 
-1
-Aye Shaheedo Tum Kahan Ho Lyrics
-Fasl-e-Gul Hai Ab Jahan Mein Aye Shaheedo Tum Kahan Ho
-Tazgi Hai Gulistaan Mein Aye Shaheedo Tum Kahan Ho
-Sabz-o-Khurram Dasht-e-Dunya Hai Tumharey Gham Mein Giriyaan
-Bulbul-e-Shah-e-Gulistaan Ro Ro Kehte Hain Yeh Har Aan
-Mere Pholo Mere Guncho Aye Shaheedo Tum Kahan Ho
-Chal Ke Rah-e-Haq Pe Tum Ne Kam Aisa Kar Dikhaya
-Shuhda-e-Karbala Se Apne Wadoon Ko Nibhaya
-Aye Jawano Ehd Sazo Aye Shaheedo Tum Kahan Ho
-Pursa Dar-e-Karbala They Ronaq-e-Farsh-e-Azza They
-Ashiq-e-Khak-e-Shifa They Sajid-e-Rab-e-Ola They
-Shah-e-Dein Par Roney Walo Aye Shaheedo Tum Kahan Ho
-Tum Jaloson Mein Azza Ke Chalne Walay Aagay Aagay
-Sogawaron Ko Bana Kar Seh Gaye Khud Bomb Dhamakay
-Rah-e-Haq Ke Jaan Nisaro Aye Shaheedo Tum Kahan Ho
-Tum Moazin Tum Musalli Qalb-e-Momin Ki Tasali
-Tum Dua-e-Syeda Ki Har Zamane Mein Tajali
-Ismaton Ke Pasdaro Aye Shaheedo Tum Kahan Ho
-Bin Tumharey Kya Baharein Kaisay Nagmey Kya Taraney
-Chashm Nam Hai Lab Pe Aahein Hum Milein Gay Kab Na Jane
-Pas Apne Ab Bola Lo Aye Shaheedo Tum Jahan Ho
+فصلِ گل ہے اب جہاں میں اے شہیدو تم کہاں ہو
+تازگی ہے گلستاں میں اے شہیدو تم کہاں ہو
+
+۱
+سبز و خرم دشتِ دنیا ہے تمہارے غم میں گریاں
+بلبلِ شاہِ گلستاں رو رو کہتے ہیں یہ ہر آن
+میرے پھولو میرے غنچو اے شہیدو تم کہاں ہو
+
+۲
+چل کے راہِ حق پہ تم نے کام ایسا کر دکھایا
+شہدائے کربلا سے اپنے وعدوں کو نبھایا
+اے جوانو عہد سازو اے شہیدو تم کہاں ہو
+
+۳
+پرسہ دارِ کربلا تھے رونقِ فرشِ عزا تھے
+عاشقِ خاکِ شفا تھے ساجدِ ربِ عُلا تھے
+شاہِ دین پر رونے والو اے شہیدو تم کہاں ہو
+
+۴
+تم جلوسوں میں عزا کے چلنے والے آگے آگے
+سوگواروں کو بنا کر سہ گئے خود بم دھماکے
+راہِ حق کے جاں نثارو اے شہیدو تم کہاں ہو
+
+۵
+تم مؤذن تم مصلیٰ قلبِ مومن کی تسلی
+تم دعائے سیدہ کی ہر زمانے میں تجلی
+عصمتوں کے پاسدارو اے شہیدو تم کہاں ہو
+
+۶
+بن تمہارے کیا بہاریں کیسے نغمے کیا ترانے
+چشم نم ہے لب پہ آہیں ہم ملیں گے کب نہ جانے
+پاس اپنے اب بلا لو اے شہیدو تم جہاں ہو
