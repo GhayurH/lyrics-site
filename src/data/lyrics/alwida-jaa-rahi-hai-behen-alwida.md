@@ -13,20 +13,20 @@ published: false
 ---
 
 1
-Alwida haaye hussain
+Alwida haaye Husain
 Alwida jaa rahi hai behen alwida
 (Lo chali shaam ko, aake rukhsat karo)
-Haathon me hai rasan alwida
+Haathoṅ mein hai rasan alwida
 
 2
-(Tere laashe pe ansu baha naa saki
+(Tere laashe pe aansu baha naa saki
 Aur tujh ko gale se laga naa saki)
-(Shaam ki qaid se aaungi laut kar)
-Khud karungi dafan alwida
+(Shaam ki qaid se aauṅ gi laut kar)
+Khud karuṅ gi dafan alwida
 
 3
-(Na hai abbas ab aur na akbar jawaan
-Saath sajjad bemaar hai natawaan)
+(Na hai Abbas ab aur na Akbar jawaan
+Saath Sajjad bimaar hai naatawaṅ)
 (Bas khuda jaane kaise kate ga safar)
 Marhala hai katan alwida
 
@@ -34,16 +34,16 @@ Marhala hai katan alwida
 Kaise tanha tujhe marne chore behen
 Sar sina pe hai aur khaak par hai badan
 (Bas isi baat ka kha gaya gham mujhe)
-Ay gareebul watan alwida
+Ae gharib-ul-watan alwida
 
 5
 Ab mera kiya raha gar ko jaun agar
-Mere akbar aur qasim sabhi hai itha
-(Aur sughra ko ro kar bataungi me)
+Mere Akbar aur Qasim sabhi hai itha
+(Aur Sughra ko ro kar bataauṅ gi main)
 Mera ujar sehan alwida
 
 6
-Tere maqsad ko pura me karne chali
-Saath uryaano ke parh ke nade ali
+Tere maqsad ko pura main karne chali
+Saath uryaano ke parh ke Naad-e-Ali
 Hai salaam aakhiri mohsin o kibriya
 Aur tashna dahan alwida

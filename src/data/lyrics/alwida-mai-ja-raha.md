@@ -11,33 +11,33 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Alwida khairul wara main ja raha huṅ Karbala
-  Tujhse ab hone juda main ja raha huṅ Karbala
+  Alwida khairul wara main jaa raha huṅ Karbala
+  Tujh se ab hone juda main jaa raha huṅ Karbala
 
   1
-  Martaba mera zamane ko dikhaya aap ne
-  Meri khaatir ya nabi sajda badhaya aap ne
-  Sehne ab jor o jafa main ja raha huṅ Karbala
+  Martaba mera zamaane ko dikhaaya aap ne
+  Meri khaatir ya Nabi sajda barhaaya aap ne
+  Sehne ab jaur o jafa main jaa raha huṅ Karbala
 
   2
-  Turbat e zehra pe aa ke shaah e karbal ne kaha
-  Chod kar ab qabr teri deen par hone fida
-  Maa meri khairunnisa main ja raha huṅ Karbala
+  Turbat-e-Zehra pe aa ke Shaah-e-Karbala ne kaha
+  Chhor kar ab qabr teri din pe hone fida
+  Maaṅ meri khairunnisa main jaa raha huṅ Karbala
 
   3
-  Waqt e ruqsat aap se hai bas yehi kehna mujhe
-  Saaya ban kar fatema sughra pe rehna hai tujhe
-  Mere bhaiya mujtaba main ja raha huṅ Karbala
+  Waqt-e-rukhsat aap se hai bas yehi kehna mujhe
+  Saaya ban kar Fatima Sughra pe rehna hai tujhe
+  Mere bhaiya Mujtaba main jaa raha huṅ Karbala
 
   4
-  Khoon se apne charagh e deen jalana hai mujhe
-  Farsh ko arsh e moalla se milaana hai mujhe
-  Farz ye karne ada main ja raha huṅ Karbala
+  Khun se apne charaagh-e-din jalaana hai mujhe
+  Farsh ko arsh-e-mualla se milaana hai mujhe
+  Farz ye karne ada main jaa raha huṅ Karbala
 
   5
   Waaṅ Zameer insaanoṅ ki yehi banegi darsgaah
-  Ye batayega jahan ko rayt par sajda mera
-  Keh raha huṅ barmala main ja raha huṅ Karbala
+  Ye bataaye gi jahaṅ ko ret par sajda mera
+  Keh raha huṅ barmala main jaa raha huṅ Karbala
 # source_id: nohayonline:2ac135097e6175e18619
 # source_url: https://www.nohayonline.com/details_content.php?id=1499
 # raw_sha256: 2f8ab4d77ab4399208c6a12e521fdce16c8bf4b8131016c22f9adb2b5d891802

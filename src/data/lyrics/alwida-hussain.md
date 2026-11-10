@@ -19,60 +19,60 @@ romanLyrics: |-
   Alwida Husain alwida
 
   1
-  Dasht mein tujhko layeeno ne kafan bhi na diya
-  Cheen li sar se mere haye sitamgar ne rida
-  Na raha koi madadgaar sar e dasht e bala
-  Tu raha bekafan mai aseer e mahan
-  Mai hui berida tu ghareeb ul watan
+  Dasht mein tujhko lainoṅ ne kafan bhi na diya
+  Chhin li sar se mere haye sitamgar ne rida
+  Na raha koi madadgaar sar-e-dasht-e-bala
+  Tu raha bekafan main asir-e-mihan
+  Main hui berida tu gharib-ul-watan
 
   2
-  Tera laasha hua pamaal sar e karbobala
-  Haye tukde hua zainab ka jigar wawaila
-  Aayi be-saakhta bhai mere honton pe sada
+  Tera laasha hua paamaal sar-e-Karbobala
+  Haye tukre hua Zainab ka jigar wawaila
+  Aayi besaakhta bhai mere hontoṅ pe sada
   Ye sitam kya hua mera ghar lut gaya
-  Koi yawar nahi kya karun mai bhala
+  Koi yaawar nahiṅ kya karuṅ main bhala
 
   3
-  Mere mazloom baradar mai tujhe deti kafan
-  Haye pardes mein majboor hui teri behan
+  Mere mazlum baradar main tujhe deti kafan
+  Haye pardes mein majbur hui teri behan
   Yaad aata hai mere bhai mujhe mera watan
-  Dard se choor hoo gham se ranjoor hoo
-  Imtehan hai mera haye majboor hoo
+  Dard se chur huṅ gham se ranjur huṅ
+  Imtihaṅ hai mera haye majbur huṅ
 
   4
-  Jo mere dil pe guzarti hai bayan kaise karun
-  Jo lage zakhm jigar par wo ayan kaise karun
-  Mai bhala sabr mere tashna dahan kaise karun
-  Khaak udaungi mai gham uthaungi mai
-  Kis tarha berida shaam jaungi mai
+  Jo mere dil pe guzarti hai bayaṅ kaise karuṅ
+  Jo lage zakhm jigar par wo ayaṅ kaise karuṅ
+  Main bhala sabr mere tashna dahaṅ kaise karuṅ
+  Khaak uraauṅ gi main gham uthaauṅ gi main
+  Kis tarah berida Shaam jaauṅ gi main
 
   5
-  Ye tera jism nahi khoon mein tar hai quran
-  Nok e naiza se chini chadar e tatheer yahan
-  Beridayi ka hai ehsaas mere dil pe garan
-  Mai karungi ada jo mera farz hai
+  Ye tera jism nahiṅ khun mein tar hai Quraaṅ
+  Nok-e-naiza se chhini chaadar-e-tathir yahaṅ
+  Beridai ka hai ehsaas mere dil pe garaṅ
+  Main karuṅ gi ada jo mera farz hai
   Mere bhai magar ye meri arz hai
 
   6
-  Binte zehra pe qayamat ki ghadi hai bhai
-  Bekafan ran mein teri laash padi hai bhai
-  Aur behan dasht mein be-aas khadi hai bhai
-  Mai jigar thaam kar reh gayi khaak par
+  Bint-e-Zehra pe qayaamat ki ghari hai bhai
+  Bekafan ran mein teri laash pari hai bhai
+  Aur behan dasht mein beaas khari hai bhai
+  Main jigar thaam kar reh gayi khaak par
   Apni hamsheer par ek ehsaan kar
 
   7
-  Waqt e ruqsat ye layeen hum pe sitam dhayenge
-  Bar sar e nok e sina tera ye sar layenge
-  Berida mujhko bhi bazaar mein le jayenge
-  Tera dil royega zakhm wo paungi
-  Suye bazaar mai berida jaungi
+  Waqt-e-rukhsat ye laiṅ hum pe sitam dhaayeṅ ge
+  Bar sar-e-nok-e-sinaṅ tera ye sar laayeṅ ge
+  Berida mujh ko bhi baazaar mein le jaayeṅ ge
+  Tera dil roye ga zakhm wo paauṅ gi
+  Su-e-baazaar main berida jaauṅ gi
 
   8
-  Kya qayamat ka wo manzar tha nadeem o safdar
-  Laasha e shaah tadapta tha ye naale sun kar
-  Aur sar peet ke kehti rahi binte hyder
-  Alwida khastatan alwida bekafan
-  Alwida bewatan alwida pur mahan
+  Kya qayaamat ka wo manzar tha Nadeem o Safdar
+  Laasha-e-Shaah tarapta tha ye naale sun kar
+  Aur sar pit ke kehti rahi Bint-e-Haider
+  Alwida khasta tan alwida bekafan
+  Alwida bewatan alwida pur mihan
 # source_id: nohayonline:fa31dd520f58f325cf86
 # source_url: https://www.nohayonline.com/details_content.php?id=2252
 # raw_sha256: 5b826dc20065c2b7add6e8deb4d04260a00cff1c43741f2277d1dd4fc4a4319a
