@@ -6,55 +6,56 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba aap ki zahra par kya waqt ye aaya hai
-  Rone pa bhi pabandi hai bin bap ke beti ko yun
+  Baba aap ki Zahra par kya waqt ye aaya hai
+  Rone pe bhi paabandi hai bin baap ke beti ko yuṅ
   Ummat ne sataya hai
 
   1
-  Baad aap ke kalmagoyo ne is darja sitam mujh par dhaye
-  Gar din pa pade ye ranj o alam wo raat ke jaisa ho jaaye
-  Bas mera khuda hi jaane ye bojh ghamon ka kaise
+  Baad aap ke kalma goyoṅ ne is darja sitam mujh par dhaaye
+  Gar din pe pare ye ranj o alam wo raat ke jaisa ho jaaye
+  Bas mera Khuda hi jaane ye bojh ghamoṅ ka kaise
   Zahra ne uthaya hai
 
   2
-  Atthara baras ke sin mein hi baalon mein safedi aayi hai
-  Hai jism mera sha kham hai kamar kamzor meri beenayi hai
-  Ya shaahe madina dekho ummat ne nabi zaadi ka
+  Atthaara baras ke sin mein hi baaloṅ mein safedi aayi hai
+  Hai jism mera sha kham hai kamar kamzor meri binaayi hai
+  Ya Shaah-e-Madina dekho ummat ne Nabi zaadi ka
   Kya haal banaya hai
 
   3
-  Ab baith ke padhti hai zahra mushkil se namazein bhi baba
-  Dushwaar hua hai us din se kuch dayr khade rehna mera
-  Jis din se mere pehlu pe jalte huwe darwaze ko
+  Ab baith ke parhti hai Zahra mushkil se namaazeṅ bhi baba
+  Dushwaar hua hai us din se kuch der khare rehna mera
+  Jis din se mere pehlu pe jalte hue darwaaze ko
   Aada ne giraya hai
 
   4
-  Kya ye tha ajr risalat ka ummat se jo paaya hai maine
-  Kuch neel nishano ko ab tak bacchon se chupaya hai maine
-  Rukhsaar hai mera neela zaalim ne tamacha aisa
+  Kya ye tha ajr-e-risaalat ka ummat se jo paaya hai main ne
+  Kuch nil nishaanoṅ ko ab tak bachchoṅ se chhupaaya hai main ne
+  Rukhsaar hai mera nila zaalim ne tamaancha aisa
   Chehre pe lagaya hai
 
   5
   Talwaar ke qabze se mujh par zaalim ne kiya jab se hamla
-  Uth'te hi nahi dono baazu ek saath namazon mein baba
-  Dil mera bahot roya hai takbeer ko jab jab maine
+  Uthte hi nahiṅ donoṅ baazu ek saath namaazoṅ mein baba
+  Dil mera bahut roya hai takbir ko jab jab main ne
   Ek haath uthaaya hai
 
   6
-  Mai kaise kahun us dam baba kya beet gayi dil par mere
-  Jab dekhe zameen par bikhre huye tehreer e risalat ke tukde
-  Darbar mein tanha maine bikhre huwe un tukdon ko
+  Main kaise kahuṅ us dam baba kya bit gayi dil par mere
+  Jab dekhe zamiṅ par bikhre hue tahrir-e-risaalat ke tukre
+  Darbaar mein tanha main ne bikhre hue un tukroṅ ko
   Chun chun ke uthaya hai
 
   7
-  Thay bain nadeem ek beti ke ye apne pidar ki turbat par
-  Hil jaati thi qabr e paighambar kehti thi ye zahra jab rokar
-  Thi aap se ranjish jinko un sab ne mujhe badle mein
-  Jee bhar ke rulaaya hai
+  The bain Nadeem ek beti ke ye apne pidar ki turbat par
+  Hil jaati thi qabr-e-Paighambar kehti thi ye Zahra jab ro kar
+  Thi aap se ranjish jin ko un sab ne mujhe badle mein
+  Ji bhar ke rulaaya hai
 # source_id: nohayonline:3058103b29324ffe8d38
 # source_url: https://www.nohayonline.com/details_content.php?id=2853
 # raw_sha256: 08d1660c2c14250d5579db45a115fbcf6cb88ddf81eaa4d059952c6b0b5b7fb2

@@ -6,76 +6,87 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Hashmi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hum rote reh jayenge
-  Bali sakina soja
+  Hum rote reh jaayeṅge
+  Bali Sakina so ja
+  Baba ab na aayeṅge
+  Bali Sakina so ja
 
   1
-  Baba ab na aayenge
-  Shaam e ghariban aayi hai
-  Kaisi udaasi chaayi hai
-  Bikhre hai ran may laashe
+  Shaam-e-gharibaaṅ aayi hai
+  Kaisi udaasi chhaayi hai
+  Bikhre haiṅ ran mein laashe
   Kis jaa mera bhai hai
-  Ke dhoondte hum reh jayenge
+  Ke dhundte hum reh jaayeṅge
+  Bali Sakina so ja
 
   2
-  Jab jab pani maangogi
-  Shimr tamache maarega
-  Dikhla ke tum ko pani
+  Jab jab paani maangogi
+  Shimr tamaanche maarega
+  Dikhla ke tum ko paani
   Mitti par wo daalega
-  Hum pyase reh jayenge
+  Hum pyaase reh jaayeṅge
+  Bali Sakina so ja
 
   3
-  Kis may itni himmat thi
-  Ke aag lagaye qaimon may
-  Ek bhai ke marte hi
-  Aada aaye qaimon may
-  Ab qaime jal jayenge
+  Kis mein itni himmat thi
+  Ke aag lagaaye khaimoṅ mein
+  Ik bhai ke marte hi
+  Aada aaye khaimoṅ mein
+  Ab khaime jal jaayeṅge
+  Bali Sakina so ja
 
   4
-  Nana ke deen ki khaatir
+  Nana ke diṅ ki khaatir
   Ranj o gham ye sehna hai
   Saare kunbe ko le kar
-  Qaid may hum ko rehna hai
-  Hum qaidi ban jayenge
+  Qaid mein hum ko rehna hai
+  Hum qaidi ban jaayeṅge
+  Bali Sakina so ja
 
   5
-  Rote huwe baba keh kar
-  Ran may jab tum jaogi
-  Sun kar awaaz e sarwar
-  Laashe ko tum paogi
-  Tumko gham tadpayenge
+  Rote hue baba keh kar
+  Ran mein jab tum jaaogi
+  Sun kar aawaaz-e-Sarwar
+  Laashe ko tum paaogi
+  Tum ko gham tarpaayeṅge
+  Bali Sakina so ja
 
   6
-  Dar dar humko phirna hai
+  Dar dar hum ko phirna hai
   Dukh ye saare sehna hai
-  Ghar hai apna aur na bichona
-  Khaak pa hum ko rehna hai
-  Hum kaise so payenge
+  Ghar hai apna aur na bichhauna
+  Khaak pe hum ko rehna hai
+  Hum kaise so paayeṅge
+  Bali Sakina so ja
 
   7
-  Jo hum par guzri usko
+  Jo hum par guzri us ko
   Hashmi kaise likhega
-  Padte hi irfan ye nauha
+  Parhte hi Irfaaṅ ye noha
   Saara aalam royega
-  Aansu behke aayenge
+  Aansu beh ke aayeṅge
+  Bali Sakina so ja
 # source_id: nohayonline:ff3d6cbc8afce636e969
 # source_url: https://www.nohayonline.com/details_content.php?id=1173
 # raw_sha256: fe0cb89c97bc6918e261bab0593a5634d531c2f35fad49a048de99880160b959
 ---
 ہم روتے رہ جائینگے
 بالی سکینہ سو جا
+بابا اب نہ آے نگے
+بالی سکینہ سو جا
 
 ۱
-بابا اب نہ آے نگے
 شام غریباں آی ہے
 کیسی اداسی چھائی ہے
 بکھرے ہیں رن میں لاشے
 کس جا میرا بھائی ہے
 کہ ڈھونڈتے ہم رہ جائینگے
+بالی سکینہ سو جا
 
 ۲
 جب جب پانی مانگوگی
@@ -83,6 +94,7 @@ romanLyrics: |-
 دکھلا کے تم کو پانی
 مٹی پر وہ ڈالے گا
 ہم پیاسے رہ جائینگے
+بالی سکینہ سو جا
 
 ۳
 کس میں اتنی ہمت تھی
@@ -90,6 +102,7 @@ romanLyrics: |-
 اک بھای کے مرتے ہی
 اعدا آے خیموں میں
 اب خیمے جل جائیں گے
+بالی سکینہ سو جا
 
 ۴
 نانا کے دیں کی خاطر
@@ -97,6 +110,7 @@ romanLyrics: |-
 سارے کنبے کو لے کر
 قید میں ہم کو رہنا ہے
 ہم قیدی بن جاےنگے
+بالی سکینہ سو جا
 
 ۵
 روتے ہوئے بابا کہہ کر
@@ -104,6 +118,7 @@ romanLyrics: |-
 سن کر آواز سرور
 لاشے کو تم پاؤ گی
 تم کو غم تڑپاےنگے
+بالی سکینہ سو جا
 
 ۶
 در در ہم کو پھرنا ہے
@@ -111,6 +126,7 @@ romanLyrics: |-
 گھر ہے اپنا اور نہ بچھونا
 خاک پہ ہم کو رہنا ہے
 ہم کیسے سو پاےنگے
+بالی سکینہ سو جا
 
 ۷
 جو ہم پر گزری اس کو
@@ -118,3 +134,4 @@ romanLyrics: |-
 پڑھتے ہی عرفاں یہ نوحہ
 سارا عالم روے گا
 آنسوں بہہ کے آےنگے
+بالی سکینہ سو جا

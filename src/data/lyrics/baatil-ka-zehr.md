@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baatil ka zehr phail raha hai hawaon may
-  Rahiye wila e aale mohamed ki chaon may
+  Baatil ka zehr phail raha hai hawaaoṅ mein
+  Rahiye wilaa-e-Aal-e-Muhammad ki chhaaoṅ mein
 
   1
-  Lekar chala hai haath may taqdeer deen ki
-  Gardan may jiske tauq hai zanjeer hai paon may
+  Le kar chala hai haath mein taqdir din ki
+  Gardan mein jis ke tauq hai zanjir hai paaoṅ mein
 
   2
-  Ek roz wo zameen par gir kar bikhar gaye
-  Udte rahe jo zulm ki andhi hawa'on may
+  Ik roz wo zamin par gir kar bikhar gaye
+  Urte rahe jo zulm ki andhi hawaaoṅ mein
 
   3
-  Hai ab bhi deen e haq ke ujalon ka paasban
-  Zehra ka chand zulm ki kaali ghata'on may
+  Hai ab bhi din-e-Haq ke ujaaloṅ ka paasbaaṅ
+  Zehra ka chaand zulm ki kaali ghataaoṅ mein
 
   4
-  Yun mustufa ki aabroo rakhli hussain ne
-  Islam ko bacha liya ghir kar bala'on may
+  Yuṅ Mustafa ki aabru rakh li Husain ne
+  Islam ko bacha liya ghir kar balaaoṅ mein
 
   5
-  Bache to sogaye shabe ashoor chain se
-  Lekin bapa tha shor qayamat ka maa'on may
+  Bachche to so gaye shab-e-Aashur chain se
+  Lekin bapa tha shor qayaamat ka maaoṅ mein
 
   6
-  Ay momino behan se juda kya hue hussain
-  Zainab ke bain aaj talak hai fiza'on may
+  Ae momino behan se juda kya hue Husain
+  Zainab ke bain aaj talak haiṅ fizaaoṅ mein
 
   7
-  Gulshan ke phool dekh kar murjha gaye urooj
-  Lipte jo khaar hazrate abid ke paon may
+  Gulshan ke phul dekh kar murjha gaye Uruj
+  Lipte jo khaar Hazrat-e-Aabid ke paaoṅ mein
 # source_id: nohayonline:df00b4dcab8597b398e8
 # source_url: https://www.nohayonline.com/details_content.php?id=628
 # raw_sha256: e29929770eb15e90df742ccefee204edcad13bc2028457fdc880ef42a23406ad
@@ -73,4 +74,4 @@ romanLyrics: |-
 
 ۷
 گُلشن کے پھول دیکھ کر مُرجھا گئے عروج
-لپٹے جو خار حضرتِ عابد کے پائو ں میں
+لپٹے جو خار حضرتِ عابد کے پائوں میں

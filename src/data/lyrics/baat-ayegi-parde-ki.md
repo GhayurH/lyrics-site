@@ -6,36 +6,37 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baat aayegi parde ki to yaad aayegi zainab
-  Tareekhe gham-o-dard ko dohraegi zainab
+  Baat aayegi parde ki to yaad aayegi Zainab
+  Taarikh gham o dard ko dohraayegi Zainab
 
   1
-  Ut'ti jo nahi laashe jawan dijiye awaaz
-  Paala hai to laasha bhi utha layegi zainab
+  Uthti jo nahiṅ laash jawaaṅ dijiye aawaaz
+  Paala hai to laasha bhi utha laayegi Zainab
 
   2
-  Kis kis ko sambhalegi kise degi tasalli
-  Jalte huve qaimon se kise layegi zainab
+  Kis kis ko sambhaalegi kise degi tasalli
+  Jalte hue khaimoṅ se kise laayegi Zainab
 
   3
   Sar nange jise dekh ke suraj bhi na nikla
-  Ab sar khule balwe may wohi jayegi zainab
+  Ab sar khule balwe mein wohi jaayegi Zainab
 
   4
-  Machlegi jo sone ke liye raat ko bachi
-  Kya de ke tasalli usay behlayegi zainab
+  Machlegi jo sone ke liye raat ko bachchi
+  Kya de ke tasalli use behlaayegi Zainab
 
   5
-  Chadar hi ka de deti kafan cheenli wo bhi
-  Ab bhai ko kis tarha se dafnayegi zainab
+  Chaadar hi ka de deti kafan chhin li wo bhi
+  Ab bhai ko kis tarah se dafnaayegi Zainab
 
   6
-  Purse ko anees aayenge aur puchenge ehwaal
-  Kis kis ko nishan durro ke dikhlayegi zainab
+  Purse ko Anees aayeṅge aur puchheṅge ahwaal
+  Kis kis ko nishaaṅ durro ke dikhlaayegi Zainab
 # source_id: nohayonline:f2e6ed32f46dcd02bea2
 # source_url: https://www.nohayonline.com/details_content.php?id=200
 # raw_sha256: ea0be35087ee00a25bf038b767d9ccdcdec2d6e38bcf377b6d484de14487af84
