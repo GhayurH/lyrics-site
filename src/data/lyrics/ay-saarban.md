@@ -1,67 +1,77 @@
 ---
 title: "ای سارباں ای سارباں"
-alternateTitle: "Ay Saarban"
+alternateTitle: "Ae Saarbaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Saarban"]
 published: false
 romanLyrics: |-
-  Ai saarban ai saarban
-  Aahista chal ay natawan
-  Zakhmi badan tashna laban
+  Ae saarbaaṅ ae saarbaaṅ
+  Aahista chal ae naatawaaṅ
+
+  Zakhmi badan tashna labaaṅ
+  Aahista chal ae naatawaaṅ
 
   1
-  Ek reesma baara galay
-  Ye khaafila kaise chale
+  Ek reesmaaṅ baarah gale
+  Ye qaafila kaise chale
   Sar pe bala ki dhoop hai
-  Pairon talay dharti jale
-  Hai bibiyan sab neem jaan
+  Pairoṅ tale dharti jale
+  Hai Bibiyaaṅ sab nim jaaṅ
+  Aahista chal ae naatawaaṅ
 
   2
-  Ay saarban salaar e gham
-  Ghurbat may ye jaaho hashm
-  Tu naayab e abbas hai
-  Kehte hai sab ahle haram
-  Ban kar zameen par aasman
+  Ae saarbaaṅ salaar-e-gham
+  Ghurbat meiṅ ye jaah o hashm
+  Tu naayaab-e-Abbas hai
+  Kehte haiṅ sab Ahl-e-Haram
+  Ban kar zamiṅ par aasmaaṅ
+  Aahista chal ae naatawaaṅ
 
   3
-  Naaqon ki jo raftaar hai
+  Naaqoṅ ki jo raftaar hai
   Chalna mera dushwaar hai
-  Bacche hai naaqon par bandhe
-  Durron ki bhi bauchaar hai
-  Kehne lagi asghar ki maa
+  Bachche haiṅ naaqoṅ par bandhe
+  Durroṅ ki bhi bauchhaar hai
+  Kehne lagi Asghar ki maaṅ
+  Aahista chal ae naatawaaṅ
 
   4
   Zainab ko ghash aane laga
-  Jab shimr ne aa kar kaha
+  Jab Shimr ne aa kar kaha
   Jaldi badhao ab qadam
   Tay jald ho ye faasla
-  Koi na ab khole zaban
+  Koi na ab khole zabaaṅ
+  Aahista chal ae naatawaaṅ
 
   5
-  Akbar ki maa kehne lagi
-  Ay shimr ye jurrat teri
-  Mai zauja e shabbir hoo
-  Maa hoo imam e waqt ki
-  Bas ab chalega hukme maa
+  Akbar ki maaṅ kehne lagi
+  Ae Shimr ye juraat teri
+  Main zauja-e-Shabbir huṅ
+  Maaṅ huṅ Imam-e-waqt ki
+  Bas ab chalega hukm-e-maaṅ
+  Aahista chal ae naatawaaṅ
 
   6
-  Nagaah ye aayi khabar
+  Naagah ye aayi khabar
   Zainab hui hai nauhagar
-  Tehro sakina gir gayi
-  Rone lage naizon pe sar
-  Kehne lage ahle jina
+  Thehro Sakina gir gayi
+  Rone lage naizoṅ pe sar
+  Kehne lage Ahl-e-Jinaaṅ
+  Aahista chal ae naatawaaṅ
 
   7
-  Bazaar se jaate huwe
+  Bazaar se jaate hue
   Sajjad jab jaldi chale
-  Sakte may thay rehaan sab
+  Sakte meiṅ the Rehaan sab
   Phir yak bayak ko ruk gaye
-  Kehne lagi saut e azan
+  Kehne lagi saut-e-azaaṅ
+  Aahista chal ae naatawaaṅ
 # source_id: nohayonline:d04d9a1532b75af7c1e2
 # source_url: https://www.nohayonline.com/details_content.php?id=2397
 # raw_sha256: 8b24ceffeb4015ec172f4d1039a375b5163b5ea68aed4bdf7d8051eb78999de3
@@ -69,14 +79,17 @@ romanLyrics: |-
 
 ای سارباں ای سارباں
 آہستہ چل اے ناتواں
+
 زخمی بدن تشنہ لباں
+آہستہ چل اے ناتواں
 
 ۱
 اک ریسماں بارہ گلے
 یہ قافلہ کیسے چلے
 سر پہ بلا کی دھوپ ہے
 پیروں تلے دھرتی جلے
-ہے بی بیاں سب نیم جاں
+ہے بی‌بیاں سب نیم جاں
+آہستہ چل اے ناتواں
 
 ۲
 اے سارباں سالار غم
@@ -84,6 +97,7 @@ romanLyrics: |-
 تو نایاب عباس ہے
 کہتے ہیں سب اہلِ حرم
 بن کر زمیں پر آسماں
+آہستہ چل اے ناتواں
 
 ۳
 ناقوں کی جو رفتار ہے
@@ -91,13 +105,15 @@ romanLyrics: |-
 بچے ہیں ناقوں پر بندھے
 دروں کے بھی ب چھار ہے
 کہنے لگی اصغر کی ماں
+آہستہ چل اے ناتواں
 
 ۴
 زینب کو غش آنے لگا
 جب شمر نے آ کر کہا
 جلدی بڑھاؤ اب قدم
-طےء جلد ہو یہ فاصلہ
-کوی نہ اب کھولے زباں
+طے جلد ہو یہ فاصلہ
+کوئی نہ اب کھولے زباں
+آہستہ چل اے ناتواں
 
 ۵
 اکبر کی ماں کہنے لگی
@@ -105,17 +121,20 @@ romanLyrics: |-
 میں زوجہء شبیر ہوں
 ماں ہوں امام وقت کی
 بس اب چلے گا حکم ماں
+آہستہ چل اے ناتواں
 
 ۶
-ناگاہ یہ آی خبر
-زینب ہوی ہے نوحہ گر
-ٹہرو سکینہ گر گیء
+ناگاہ یہ آئی خبر
+زینب ہوئی ہے نوحہ گر
+ٹھہرو سکینہ گر گئی
 رونے لگے نیزوں پہ سر
 کہنے لگے اہلِ جنان
+آہستہ چل اے ناتواں
 
 ۷
-بازار سے جاتے ہوے
+بازار سے جاتے ہوئے
 سجاد جب جلدی چلے
 سکتے میں تھے ریحان سب
 پھر یک بہ یک کو رک گےء
 کہنے لگی سوت اذاں
+آہستہ چل اے ناتواں

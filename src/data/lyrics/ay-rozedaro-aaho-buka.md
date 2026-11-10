@@ -1,124 +1,126 @@
 ---
 title: "اے روزہ داروں آہ و بکا کے یہ روز ہیں"
-alternateTitle: "Ay Rozedaro Aaho Buka"
+alternateTitle: "Ae Rozedaaro Aah o Buka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
 poet: "Mirza Dabeer"
+reciter: "Mir Momin Ali Qaisar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ay Rozedaro Aaho Buka"]
 published: false
 romanLyrics: |-
-  Ay rozedaro aah o buka ke ye roz hai
-  Sadaat par nuzool e bala ke ye roz hai
-  Sartaaj e ousiya ki aza ke ye roz hai
-  Tum se wida e sher e khuda ke ye roz hai
+  Ae rozedaaro aah o buka ke ye roz haiṅ
+  Sadaat par nuzul-e-bala ke ye roz haiṅ
+  Sartaaj-e-Ausiya ki aza ke ye roz haiṅ
+  Tum se wida-e-Sher-e-Khuda ke ye roz haiṅ
 
   1
-  Zakhmi hua imam tumhara namaz may
-  Zaalim ne rozadaar ko maara namaz may
-  Maahe mubarak e ramazan aur khuda ka ghar
-  Tadhka wo noor ka wo shabe qadr ki sahar
+  Zakhmi hua Imam tumhaara namaz meiṅ
+  Zaalim ne rozadaar ko maara namaz meiṅ
+  Maah-e-mubaarak-e-Ramzaaṅ aur Khuda ka ghar
+  Tarka wo nur ka wo Shab-e-Qadr ki sahar
 
   2
-  Pesh e khuda wo sajde may sher e khuda ka sar
-  Aur haye taygh zulm ki zarbat wo farq par
-  Fawware khoon ke zakhm e jabeen se baha kiye
-  Sajde may aap rabbi-ul aala kaha kiye
+  Pesh-e-Khuda wo sajde meiṅ Sher-e-Khuda ka sar
+  Aur haye tegh zulm ki zarbat wo farq par
+  Fawwaare khuṅ ke zakhm-e-jabiṅ se baha kiye
+  Sajde meiṅ aap Rabbi-ul-Aala kaha kiye
 
   3
-  Sar peeto momino sar e hyder hua do neem
-  Emaan ke burj ka mahe anwar hua do neem
-  Socho to farq shaah ka kyun kar hua do neem
-  Likha hai maghz taksar e athar hua do neem
+  Sar pito mominoṅ sar-e-Haider hua do nim
+  Imaaṅ ke burj ka maah-e-anwar hua do nim
+  Socho to farq Shaah ka kiun kar hua do nim
+  Likha hai maghz tak sar-e-athar hua do nim
 
   4
-  Zehra ne baal khole nabi nange sar huwe
-  Tum be imam aur hassan be pidar huwe
-  Likha hai jab do neem hua farq e murtaza
-  Sidre se jibraeel ke rone ka ghul utha
+  Zehra ne baal khole Nabi nange sar hue
+  Tum be Imam aur Hasan be pidar hue
+  Likha hai jab do nim hua farq-e-Murtaza
+  Sidre se Jibrail ke rone ka ghul utha
 
   5
-  Phenki saron se zainab o kulsoom ne rida
-  Chilla ke bhaiyon ko pukari ghazab hua
-  Sunte ho jibraeel ne is waqt kya kaha
-  Wo bole peet kar qutl-al murtaza kaha
+  Phenki saroṅ se Zainab o Kulsum ne rida
+  Chilla ke bhaaiyoṅ ko pukaari ghazab hua
+  Sunte ho Jibrail ne is waqt kya kaha
+  Wo bole pit kar qutl-al-Murtaza kaha
 
   6
-  Daude ye kehke jaanib e masjid wo nek zaat
-  Doobi hui lahoo may mili kashti e najaat
-  Maathe pa khoon baap ka mal kar kahi ye baat
+  Daure ye kehke jaanib-e-masjid wo nek zaat
+  Dubi hui lahu meiṅ mili kashti-e-najaat
+  Maathe pa khun baap ka mal kar kahi ye baat
   Hae hae uthaya qibla o kaaba pa kisne haath
 
   7
-  Rulwaya nana jaan ko daarus salam may
-  Bin baap ka kiya hamay maahe siyaam may
-  Naagah namaziyon ka groh aaya nange sar
-  Hyder ne mujtaba se kaha ankhein khol kar
+  Rulwaaya Nana jaan ko Daarus Salaam meiṅ
+  Bin baap ka kiya hameiṅ maah-e-siyaam meiṅ
+  Naagah namaaziyoṅ ka giroh aaya nange sar
+  Haider ne Mujtaba se kaha aankheṅ khol kar
 
   8
-  Padhwao tum namaz jama'at ki ay pisar
-  Hum baithe baithe padte hai apne maqam par
-  Lekin jabeen ke zaqm pe roomal baandh do
-  Mera sar hai shigaafta ay laal baandh do
+  Parhwaao tum namaz jamaat ki ae pisar
+  Hum baithe baithe parhte haiṅ apne maqaam par
+  Lekin jabiṅ ke zakhm pe rumaal baandh do
+  Mera sar hai shigaafta ae laal baandh do
 
   9
-  Baandha hassan ne zaqme sar e shaah e zuljalaal
-  Bole ali ke aur kaso dard hai kamaal
-  Shabbar ne jab kasa to kiya phir wohi miqaal
-  Phir chust baandh kar ye pukara wo khush-qisaal
+  Baandha Hasan ne zakhm-e-sar-e-Shaah-e-Zuljalaal
+  Bole Ali ke aur kaso dard hai kamaal
+  Shabbar ne jab kasa to kiya phir wohi maqaal
+  Phir chust baandh kar ye pukaara wo khush khisaal
 
   10
-  Ab dard kaisa ay asad e zuljalaal hai
-  Haathon se sar pakad ke kaha ke wohi haal hai
-  Padwa ke phir namaaz jama'at ki mujtaba
-  Baba ke sar pa padne lage aaya e shifa
+  Ab dard kaisa ae Asad-e-Zuljalaal hai
+  Haathoṅ se sar pakar ke kaha ke wohi haal hai
+  Parhwa ke phir namaz jamaat ki Mujtaba
+  Baba ke sar pa parhne lage aaya-e-shifa
 
   11
   Naagah aan kar kisi aurat ne di nida
-  Zehra ke pyaro tum se ye zainab ne hai kaha
-  Baba ko mere jald jo ghar may na laaoge
-  To sar barehna mujhko bhi masjid may paaoge
+  Zehra ke pyaaro tum se ye Zainab ne hai kaha
+  Baba ko mere jald jo ghar meiṅ na laaoge
+  To sar barehna mujhko bhi masjid meiṅ paaoge
 
   12
-  Bole ali hawaas abhi se baja nahi
-  Zainab se kehdo kufa hai ye karbala nahi
-  Mai be-dayaar o bekas o be-aashna nahi
-  Shia hai gird nargha e ahle jafa nahi
+  Bole Ali hawaas abhi se baja nahiṅ
+  Zainab se kehdo Kufa hai ye Karbala nahiṅ
+  Main bedayaar o bekas o beaashna nahiṅ
+  Shia haiṅ gird nargha-e-ahl-e-jafa nahiṅ
 
   13
-  Parde se nange sar tu abhi kyun nikalti hai
-  Kya halq par hussain ke talwaar chalti hai
-  Ummul baneen ko paaya jo sadme may mubtela
-  Baahein galay may daal ke abbas ne kaha
+  Parde se nange sar tu abhi kiuṅ nikalti hai
+  Kya halq par Husain ke talwaar chalti hai
+  Ummul Banin ko paaya jo sadme meiṅ mubtala
+  Baaheṅ gale meiṅ daal ke Abbas ne kaha
 
   14
-  Ay amma sadqa dene se rad hoti hai bala
-  Bhai hassan hussain hai zehra ke dilruba
-  Roshan karo jahan may tum apne naam ko
-  Sadqa utaro shaah e najaf par ghulam ko
+  Ae ammaaṅ sadqa dene se rad hoti hai bala
+  Bhai Hasan Husain haiṅ Zehra ke dilruba
+  Roshan karo jahaan meiṅ tum apne naam ko
+  Sadqa utaaro Shaah-e-Najaf par ghulaam ko
 
   15
-  Ye sunke us hiraas may sambhli wo be-qaraar
-  Leke balayein boli chalo mere gul ezaar
-  Baba pa tum nisaar ho tum par ye maa nisaar
-  Chillayi badke majma e matam may ek baar
+  Ye sunke us hiraas meiṅ sambhli wo beqaraar
+  Leke balaaeṅ boli chalo mere gul ezaar
+  Baba pa tum nisaar ho tum par ye maaṅ nisaar
+  Chillaayi barhke majma-e-maatam meiṅ ek baar
 
   16
-  Saydaniyo randape ke gham se panaah do
-  Sadqa utaarne ko mai aayi hoo raah do
-  Bole ali tu hosh may ay nauha gar nahi
-  Abbas ke wiqaar ki tujhko khabar nahi
+  Sayyidaaniyo randape ke gham se panaah do
+  Sadqa utaarne ko main aayi huṅ raah do
+  Bole Ali tu hosh meiṅ ae nauhagar nahiṅ
+  Abbas ke waqaar ki tujhko khabar nahiṅ
 
   17
-  Ye fatema ka beta hai tera pisar nahi
-  Shabbir ke liye koi aisi sipar nahi
-  Zehra se rutba poochiye is noor e ain ka
-  Ye karbala may hoega fidya hussain ka
+  Ye Fatima ka beta hai tera pisar nahiṅ
+  Shabbir ke liye koi aisi sipar nahiṅ
+  Zehra se rutba puchhiye is nur-e-ain ka
+  Ye Karbala meiṅ hoega fidya Husain ka
 # source_id: nohayonline:64e158bc382b9d414a3f
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=12
 # raw_sha256: 75b106263b6df01b592fa65c1545df951fb9a79ff098a64bb0ec79fa6ee4f53e
+# source_note: Basta 292–293 selects overlapping stanzas with variant readings and a different closing stanza; no merged text or printed identity mapping asserted.
 ---
 اے روزہ داروں آہ و بکا کے یہ روز ہیں
 سادات پر نزولِ بلا کے یہ روز ہیں
