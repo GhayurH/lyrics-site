@@ -1,5 +1,5 @@
 ---
-title: "اونچا رہے گا الم سینے میں ہے جب تک ہے دم"
+title: "اونچا رہے گا علم سینے میں ہے جب تک ہے دم"
 alternateTitle: "Abhi Hum Zinda Hai"
 language: "Urdu"
 lang: "ur"
@@ -13,8 +13,8 @@ reciter: "Safdar Abbas"
 romanLyrics: |-
   Uncha rahega alam sine mein hai jab tak hai dam
   Karb o Bala ki qasam zinda rahega ye gham
-  Pehre mein muqtar hai haq ke tarafdaar hai
-  Gham ke talabgar haiṅ hum to azadar haiṅ
+  Pehre mein mukhtaar hai haq ke tarafdaar hai
+  Gham ke talabgaar hai hum to azadar haiṅ
   Jab talak saans mein hai saans azadari rahegi
   Dil azadaar rahega har azadaar kahega
   Kaise jhukega Hazrat-e-Abbas ka alam
@@ -23,64 +23,64 @@ romanLyrics: |-
 
   1
   Kaho Labbaik Ya Husain Labbaik Ya Husain
-  Ye matami ye azadaar hai dua e batool
-  Isi liye to mila saaya e rida e batool
-  Husainiyoṅ ki har ek saans hai bara-e-Batool
-  Kaise bhala mitenge zamane se ahle noor
-  Hai maadare shabbir ka elaan ye har dam
+  Ye matami ye azadaar hai dua-e-Batul
+  Isi liye to mila saaya-e-rida-e-Batul
+  Husainiyoṅ ki har ek saans hai bara-e-Batul
+  Kaise bhala miteṅge zamane se Ahl-e-Nur
+  Hai Madar-e-Shabbir ka elaan ye har dam
 
   2
-  Qadam qadam pe ye farshe aza bichayenge hum
+  Qadam qadam pe ye farsh-e-aza bichhaeṅge hum
   Gham-e-Husain to har haal mein manaeṅge hum
-  Gali gali mein charaghe aza jalayenge hum
-  Nazre yazeed hazrate shabbir ki qasam
-  Tera mita ke jayenge hum khaak mein bharam
+  Gali gali mein charagh-e-aza jalaeṅge hum
+  Nazre Yazid Hazrat-e-Shabbir ki qasam
+  Tera mita ke jaaeṅge hum khaak mein bharam
 
   3
   Hawa ke rukh ko badal deṅge hum Khuda ki qasam
-  Sar e yazeed kuchaldenge hum khuda ki qasam
-  Amal ka rukne amal denge hum khuda ki qasam
+  Sar-e-Yazid kuchal deṅge hum Khuda ki qasam
+  Amal ka rukne amal deṅge hum Khuda ki qasam
   Hum se hai ye zamana zamane se nahiṅ hum
-  Yuhin manaate jayenge har saal moharram
+  Yunhi manaate jaaeṅge har saal Muharram
 
   4
-  Majlise unse wafa sheh ke matam se bapa
-  Ta qayamat karenge hum
+  Majlise unse wafa Shah ke matam se bapa
+  Ta qayamat kareṅge hum
   Ya Ali adrikni Ya Ali adrikni
-  Ta qayamat kahenge hum
-  Hil jayega zamana laraz jayenge qadam
-  Goonjenge jab fazaon mein awaaz hama dam
+  Ta qayamat kaheṅge hum
+  Hil jaaega zamana laraz jaaeṅge qadam
+  Gunjeṅge jab fazaoṅ mein awaaz hama dam
 
   5
-  Hamari hami o nasir Khuda ki zaat bhi hai
+  Hamari haami o nasir Khuda ki zaat bhi hai
   Kiya hai azmat o himmat bhi hai sabaat bhi hai
-  Hamare sar pe imame zamaan ka haat bhi hai
-  Daawa bina daleel ke karte kahan hai hum
-  Karte rahenge aag pe zanjeer ka matam
+  Hamare sar pe Imam-e-Zamaṅ ka haath bhi hai
+  Daawa bina dalil ke karte kahaṅ haiṅ hum
+  Karte rahenge aag pe zanjir ka matam
 
   6
-  Siwaye asghar e baysheer jab koi na raha
-  Ghareeb dasht mein hal min ki de raha tha sada
-  Tadap ke rehgaya har ek shaheede raahe wafa
-  Maujood hum nahi thay wahan ay shahe umam
+  Siwae Asghar-e-beshir jab koi na raha
+  Gharib dasht mein hal min ki de raha tha sada
+  Tarap ke reh gaya har ek shahid-e-rah-e-wafa
+  Maujud hum nahiṅ the wahaṅ ae Shah-e-umam
   De ab tu istighasa to Labbaik kaheṅ hum
 
   7
-  Sada e safdar o mazhar to har jagah hai yehi
-  Ye pursadaar salamat rahe dua hai yehi
-  Labon pe unke hama waqt ek sada hai yehi
+  Sada-e-Safdar o Mazhar to har jagah hai yehi
+  Ye pursa daar salamat rahe dua hai yehi
+  Laboṅ pe unke hama waqt ek sada hai yehi
   Kaise jhukega Hazrat-e-Abbas ka alam
   Kaise rukega Hazrat-e-Shabbir ka matam
 
   8
-  Bola hijaab e ghaib se ye waqt ka imam
-  Hum lene aa rahe hai shaheedo ka inteqam
-  Haye Husainiyat ke safiroṅ tumheiṅ salam
-  Raahe khuda ke saare shaheedo tumhe salaam
+  Bola hijaab-e-ghaib se ye waqt ka Imam
+  Hum lene aa rahe haiṅ shahidoṅ ka inteqam
+  Haae Husainiyat ke safiroṅ tumheiṅ salam
+  Rah-e-Khuda ke saare shahidoṅ tumheiṅ salaam
   Shaamil meri dua mein meri tumhara hi naam hai
-  Tum sab ke waalidayn pe mera salaam hai
-  Ay azadaron utho maut se tum na daro
-  Baandlo sar se kafan in yazeedon se kaho
+  Tum sab ke waalidain pe mera salaam hai
+  Ae azadaroṅ utho maut se tum na daro
+  Baandh lo sar se kafan in Yazidoṅ se kaho
 # source_id: nohayonline:24ea2171a99b114fe8ae
 # source_url: https://www.nohayonline.com/details_content.php?id=1542
 # raw_sha256: 14ce273cb993adde4d1fafce61694890734ecf658fa9fcb70e29c65a969fb7d4

@@ -11,64 +11,64 @@ aliases: []
 published: false
 reciter: "Shadman Raza"
 romanLyrics: |-
-  Janaza jiska chupaye thay shab ki tareeki
-  Damishq mein ye usi fatema ki hai beti
-  Na kal to shaam mein parda bacha saka tha koi
-  Dukhi Husain ki maa keh rahi hai Ya Mahdi
+  Janaza jis ka chhupaae the shab ki tariki
+  Damishq mein ye usi Fatima ki hai beti
+  Na kal to Shaam mein parda bacha saka tha koi
+  Dukhi Husain ki maaṅ keh rahi hai Ya Mahdi
   Dua ko haath uthaye haiṅ Madar-e-Zainab
-  Bachaye rauze ko rauza hai chadar e zainab
-  Saroṅ ko dhanp kar aao tumheiṅ Zainab bulati hai
-  Abhi tak Shaam ke bazar se awaz aati hai
+  Bachaae rauze ko rauza hai chadar-e-Zainab
+  Saroṅ ko dhaanp kar aao tumheiṅ Zainab bulati hai
+  Abhi tak Shaam ke bazaar se awaaz aati hai
 
   1
-  Batate hai ye raste jo abhi tak khoon mein doobe hai
-  Yahan se sayyade sajjad zanjeeron mein guzre hai
-  Tamachon se sakina ko kabhi zainab bachati hai
+  Batate haiṅ ye raste jo abhi tak khuṅ mein dube haiṅ
+  Yahaṅ se Sayyad Sajjad zanjiroṅ mein guzre haiṅ
+  Tamaanchoṅ se Sakina ko kabhi Zainab bachati hai
 
   2
-  Kahin durron ki baarish hai kahin hai maarte pathar
-  Zamin kiun phat nahiṅ jaati tamashe ko khule haiṅ ghar
-  Kabhi baloṅ se Zainab apne chehre ko chhupati hai
+  Kahiṅ durroṅ ki baarish hai kahiṅ hai maarte pathar
+  Zamiṅ kiuṅ phat nahiṅ jaati tamashe ko khule haiṅ ghar
+  Kabhi baaloṅ se Zainab apne chehre ko chhupati hai
 
   3
-  Na khud hai zainab e nachar bhi us ek rassi mein
-  Bandhe hai abid e bemaar bhi is ek rassi mein
-  Sakina kis tarha panjo ke bal par chal ke jaati hai
+  Na khud hai Zainab-e-nachaar bhi us ek rassi mein
+  Bandhe haiṅ Abid-e-bimaar bhi is ek rassi mein
+  Sakina kis tarha panjoṅ ke bal par chal ke jaati hai
 
   4
-  Bahot rote hai abid dekh kar ye haalat e zainab
-  Ke aisa imtehan nabiyon se bhi leta nahi ya rab
-  Imamat sar jhuka kar khoon ke aansu bahati hai
+  Bahut rote haiṅ Abid dekh kar ye haalat-e-Zainab
+  Ke aisa imtehaṅ nabiyoṅ se bhi leta nahiṅ Ya Rab
+  Imamat sar jhuka kar khun ke aansuṅ bahati hai
 
   5
-  Khudaya hai yehi mushkil kusha e waqt ki poti
+  Khudaya hai yehi mushkil kusha-e-waqt ki poti
   Ye saara Shaam kehta hai Sakina chup nahiṅ hoti
-  Lahoo kaano se behta hai tamache moo pe khaati hai
+  Lahu kaanoṅ se behta hai tamaanche muṅh pe khaati hai
 
   6
-  Khuda aur mustufa ke deen ka paband hai koi
-  Na majme mein hazaron ke bhi ghairatmand hai koi
-  Musalmano ki ghairat par bahot aansu bahati hai
+  Khuda aur Mustafa ke din ka paband hai koi
+  Na majme mein hazaroṅ ke bhi ghairatmand hai koi
+  Musalmanoṅ ki ghairat par bahut aansuṅ bahati hai
 
   7
-  Sharabi badnasab darbar mein kitne layeen dekhe
-  Khadi zainab thi jis ne saat sau kursi nasheen dekhe
-  Madad ko saatwein dar par ali ko ye bulaati hai
+  Sharabi bad nasab darbaar mein kitne laiṅ dekhe
+  Khari Zainab thi jis ne saat sau kursi nashiṅ dekhe
+  Madad ko saatveṅ dar par Ali ko ye bulaati hai
 
   8
   Hai jaari Shaam o Kufa mein jafa ka silsila ab tak
   Ke bhai bekafan aur behan hai berida ab tak
-  Nikal kar qaid khane se sakina yaad aati hai
+  Nikal kar qaid khane se Sakina yaad aati hai
 
   9
-  Yehi zehra ki khwahish hai ziyarat shaam ki karna
-  Wahan rauze pe jaa kar bhai ka pursa usay dena
-  Aza ka farsh rauze par yehi bibi bichati hai
+  Yehi Zehra ki khwahish hai ziyarat Shaam ki karna
+  Wahaṅ rauze pe jaa kar bhai ka pursa use dena
+  Aza ka farsh rauze par yehi Bibi bichati hai
 
   10
-  Safar hota nahi hai khatm ab bhi karb e zainab ka
-  Hamari maaeṅ behneṅ kiun Qamar hai aaj beparda
-  Musiat ye imame asr ki gardan jhukaati hai
+  Safar hota nahiṅ hai khatm ab bhi karb-e-Zainab ka
+  Hamari maaeṅ behneṅ kiuṅ Qamar hai aaj beparda
+  Musiat ye Imam-e-Asr ki gardan jhukaati hai
 # source_id: nohayonline:bfeeb5e11551cbec8d1d
 # source_url: https://www.nohayonline.com/details_content.php?id=3002
 # raw_sha256: f2e8cabadf667605a3dc23ece9b4f339697213b260a03669e2ff88cd7c4096a2
@@ -125,7 +125,7 @@ romanLyrics: |-
 ۹
 یہی زہرا کی خواہش ہے زیارت شام کی کرنا
 وہاں روضے پہ جا کر بھای کا پرسہ اسے دینا
-عزا کا فرش روضے پر یہی بی بی بچھاتی ہے
+عزا کا فرش روضے پر یہی بی‌بی بچھاتی ہے
 
 ۱۰
 سفر ہوتا نہیں ہے ختم اب بھی کرب زینب کا

@@ -10,40 +10,40 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abid gharib bekas o nachar mar gaya
-  Sadaat khaak uraeṅ ke sardar mar gaya
+  Abid gharib bekas o nachaar mar gaya
+  Sadaat khaak uraaeṅ ke sardaar mar gaya
 
   1
-  Saya raha saroṅ pe na chauthe Imam ka
-  Zehra ki jaaṅ Husain ka dildar mar gaya
+  Saaya raha saroṅ pe na chauthe Imam ka
+  Zehra ki jaaṅ Husain ka dildaar mar gaya
 
   2
-  Kantoṅ pe khinchte the jise rah-e-Shaam mein
-  Wo sarban-e-Itrat-e-Athar mar gaya
+  Kaantoṅ pe khenchte the jise rah-e-Shaam mein
+  Wo saarban-e-Itrat-e-Athaar mar gaya
 
   3
-  Rota raha jo baap ko chalees saal tak
-  Wo aaj shahe deen ka azadaar mar gaya
+  Rota raha jo baap ko chaalis saal tak
+  Wo aaj Shah-e-diṅ ka azadaar mar gaya
 
   4
-  Sham-e-mazar-e-Panjtan-e-Pak bujh gayi
-  Saydaniyo ka haye parasthaar mar gaya
+  Shama-e-mazar-e-Panjtan-e-Paak bujh gayi
+  Sayyadaniyoṅ ka haae parastaar mar gaya
 
   5
-  Beti Hasan ki ho gayi bewa hazar haif
-  Haider ka pota ashiq-e-Ghaffar mar gaya
+  Beti Hasan ki ho gayi bewa hazaar haif
+  Haider ka pota aashiq-e-Ghaffar mar gaya
 
   6
-  Bano ka chaṅd zer-e-zamin haye chhup gaya
-  Faaqa kash o ghareeb dilafgaar mar gaya
+  Bano ka chaand zer-e-zamiṅ haae chhup gaya
+  Faaqa kash o gharib dilafgaar mar gaya
 
   7
   Bin baap ka lain ne Baqir ko kar diya
-  Chautha wasi-e-Ahmad-e-Mukhtar mar gaya
+  Chautha wasi-e-Ahmad-e-Mukhtaar mar gaya
 
   8
-  Kiun kar Shaoor khaak uraauṅ na aaj main
-  Main jis ki nasl se huṅ wo sardar mar gaya
+  Kiuṅ kar Shuur khaak uraauṅ na aaj main
+  Main jis ki nasl se huṅ wo sardaar mar gaya
 # source_id: nohayonline:7235384bc2a6ee5240bd
 # source_url: https://www.nohayonline.com/details_content.php?id=2951
 # raw_sha256: 880e97e1df8672d783751ca7afe233fca487d9e0dd873ce89eee7a1157173680
