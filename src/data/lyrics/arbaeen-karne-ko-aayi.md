@@ -1,5 +1,5 @@
 ---
-title: "اربعیں کرنے کو آی ہے بہن"
+title: "اربعیں کرنے کو آئی ہے بہن"
 alternateTitle: "Arbaeen Karne Ko Aayi"
 language: "Urdu"
 lang: "ur"
@@ -11,37 +11,37 @@ aliases: []
 published: false
 romanLyrics: |-
   Arbaeen karne ko aayi hai behan
-  Qaid se chut ke paband e mehan
+  Qaid se chhut ke paaband-e-mihan
 
   1
-  Peshwayi ko mere aaye koi
-  Hausla mera badaye to koi
-  Mujhko seene se lagaye to koi
-  Kya hua mere gharane ka chalan
+  Peshwaayi ko mere aaye koi
+  Hausla mera barhaaye to koi
+  Mujhko sine se lagaaye to koi
+  Kya hua mere gharaane ka chalan
 
   2
-  Mera abbas e dilawar hai kahan
-  Mera armaan mera akbar hai kahan
-  Jhoole waala ali asghar hai kahan
-  Ye batao hai kahan ibne hassan
+  Mera Abbas-e-dilaawar hai kahaaṅ
+  Mera armaan mera Akbar hai kahaaṅ
+  Jhule waala Ali Asghar hai kahaaṅ
+  Ye bataao hai kahaaṅ ibn-e-Hasan
 
   3
-  Mai kabhi koocha o bazaar mein thi
-  Aur kabhi qaid e sitamgaar mein thi
-  Sar barehna kabhi darbar mein thi
-  Gir pada phat ke na kyun charkhe kohan
+  Main kabhi kucha o baazaar mein thi
+  Aur kabhi qaid-e-sitamgaar mein thi
+  Sar barehna kabhi darbaar mein thi
+  Gir para phat ke na kiuṅ charkh-e-kohan
 
   4
-  Baazuon mein mere rassi thi bandhi
-  Pusht kodon se badan hai zakhmi
-  Har qadam par thi ek uftaad nayi
-  Baazuon par hai mere daagh e rasan
+  Baazuoṅ mein mere rassi thi bandhi
+  Pusht koroṅ se badan hai zakhmi
+  Har qadam par thi ik uftaad nayi
+  Baazuoṅ par hai mere daagh-e-rasan
 
   5
-  Apna moo ashkon se dhone waali
+  Apna muṅh ashkoṅ se dhone waali
   Raat din aap ko rone waali
-  Mar gayi seene pe sone waali
-  Uska zindan mein bana kar madfan
+  Mar gayi sine pe sone waali
+  Us ka zindaaṅ mein bana kar madfan
 # source_id: nohayonline:e83a20f082993a51f4e1
 # source_url: https://www.nohayonline.com/details_content.php?id=1760
 # raw_sha256: 0b4323d780d8a151f97b22218b7becf8d76ad5aea53ad3c368b2589639dfb063

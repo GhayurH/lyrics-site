@@ -1,5 +1,5 @@
 ---
-title: "اربعیں تیرا ہو گیا بھای"
+title: "اربعیں تیرا ہو گیا بھائی"
 alternateTitle: "Arbaeen Tera Hogaya"
 language: "Urdu"
 lang: "ur"
@@ -11,31 +11,31 @@ aliases: []
 published: false
 romanLyrics: |-
   Arbaeen tera ho gaya bhai
-  Haq ada mera hogaya bhai
+  Haq ada mera ho gaya bhai
 
   1
-  Jis ko athara saal paala tha
-  Wo tahe khaak so gaya bhai
+  Jis ko athaarah saal paala tha
+  Wo tah-e-khaak so gaya bhai
 
   2
-  Haye ek do peher mein maajaye
-  Saaf ghar tera hogaya bhai
+  Haaye ek do pehar mein maajaye
+  Saaf ghar tera ho gaya bhai
 
   3
-  Haye saqqa tere marne se
-  Darbadar kunba hogaya bhai
+  Haaye saqqa tere marne se
+  Darbadar kunba ho gaya bhai
 
   4
-  Qaid mein sakina ko dafna kar
-  Waada tera poora hogaya bhai
+  Qaid mein Sakina ko dafna kar
+  Waada tera pura ho gaya bhai
 
   5
   Sab ko rone ek reh gayi Zainab
-  Haal kya mera hogaya bhai
+  Haal kya mera ho gaya bhai
 
   6
-  Bakshishe ummate nabi ke liye
-  Sar qalam tera hogaya bhai
+  Bakhshish-e-ummat-e-Nabi ke liye
+  Sar qalam tera ho gaya bhai
 # source_id: nohayonline:1de8c243bb1872f9f483
 # source_url: https://www.nohayonline.com/details_content.php?id=3764
 # raw_sha256: bc171bae2317920e3a4f6cfcf002451e8e7687c0cf0066656de44cc6ddbb4858
@@ -52,7 +52,7 @@ romanLyrics: |-
 صاف گھر تیرا ہو گیا بھائی
 
 ۳
-ہاے سقہ تیرے مرنے سے
+ہائے سقہ تیرے مرنے سے
 دربدر کنبہ ہو گیا بھائی
 
 ۴

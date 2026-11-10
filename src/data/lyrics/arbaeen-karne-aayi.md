@@ -1,5 +1,5 @@
 ---
-title: "اربعین کرنے آی ہے زینب"
+title: "اربعین کرنے آئی ہے زینب"
 alternateTitle: "Arbaeen Karne Aayi"
 language: "Urdu"
 lang: "ur"
@@ -11,44 +11,44 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Arbaeen karne aayi hai zainab
-  Zakhm par zakhm khaayi hai zainab
+  Arbaeen karne aayi hai Zainab
+  Zakhm par zakhm khaayi hai Zainab
 
   1
   Sar ko bhai ke dafn karne ko
-  Qabre sarwar pe aayi hai zainab
+  Qabr-e-Sarwar pe aayi hai Zainab
 
   2
-  Jo bhi guzri hai shaam o kufe mein
-  Khoone dil se sunayi hai zainab
+  Jo bhi guzri hai Shaam o Kufe mein
+  Khun-e-dil se sunaayi hai Zainab
 
   3
-  Seh ke har mod par sitam pe sitam
-  Deene ahmed bachayi hai zainab
+  Seh ke har mor par sitam pe sitam
+  Din-e-Ahmad bachaayi hai Zainab
 
   4
-  Qabre abbas ibne haider par
-  Ashk behad bahayi hai zainab
+  Qabr-e-Abbas ibn-e-Haider par
+  Ashk behad bahaaye haiṅ Zainab
 
   5
-  Kehti thi dekhlo meri haalat
-  Be-rida hoke aayi hai zainab
+  Kehti thi dekh lo meri haalat
+  Berida ho ke aayi hai Zainab
 
   6
-  Chut gayi qaid mein sakina bhi
-  Qabr uski banayi hai zainab
+  Chhut gayi qaid mein Sakina bhi
+  Qabr us ki banaayi hai Zainab
 
   7
-  Kya na dekhoge reesma ke nashan
-  Jo ke baazu pe laayi hai zainab
+  Kya na dekho ge reesma ke nishaaṅ
+  Jo ke baazu pe laayi hai Zainab
 
   8
-  Qabre ghazi laraz gayi us dam
-  Jab kaha utho aayi hai zainab
+  Qabr-e-Ghazi laraz gayi us dam
+  Jab kaha utho aayi hai Zainab
 
   9
-  Kaise roodad e gham bober likhe
-  Jo bhi aafat uthayi hai zainab
+  Kaise rudaad-e-gham Bober likhe
+  Jo bhi aafat uthaayi hai Zainab
 # source_id: nohayonline:22702dfcf25324d7f850
 # source_url: https://www.nohayonline.com/details_content.php?id=834
 # raw_sha256: 37569006ebea7a5cfd90f3981b5a96a7dd9b53102cb2f70cc6090fbff60a369a
@@ -73,7 +73,7 @@ romanLyrics: |-
 اشک بے حد بہائے ہیں زینب
 
 ۵
-کہتی تھی دیکھلو میری حالت
+کہتی تھی دیکھ لو میری حالت
 بے ردا ہو کے آئی ہے زینب
 
 ۶
@@ -81,7 +81,7 @@ romanLyrics: |-
 قبر اس کی بنائی ہے زینب
 
 ۷
-کیا نہ دیکھوگے ریسما کے نشاں
+کیا نہ دیکھو گے ریسما کے نشاں
 جو کہ بازو پہ لائی ہے زینب
 
 ۸

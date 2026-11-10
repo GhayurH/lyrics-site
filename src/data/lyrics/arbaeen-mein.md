@@ -11,53 +11,53 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maula bulalo karbobala arbaeen mein
-  Karte hai sogwaar dua arbaeen mein
+  Maula bula lo Karbobala Arbaeen mein
+  Karte haiṅ sogwaar dua Arbaeen mein
 
   1
-  Toote huwe dilon ki hai ye aas dekhle
-  Ek baar hum bhi rauza e abbas dekhle
-  Kar do sharaf ye humko ataa arbaeen mein
+  Tute hue diloṅ ki hai ye aas dekh le
+  Ek baar hum bhi rauza-e-Abbas dekh leṅ
+  Kar do sharaf ye hum ko ataa Arbaeen mein
 
   2
   Aasaan kijiye sabhi dushwaar raaste
-  Kab se tadap rahe hai ziyarat ke waaste
-  Dikhla do khuld ek dafa arbaeen mein
+  Kab se tarap rahe haiṅ ziyarat ke waaste
+  Dikhla do khuld ek dafa Arbaeen mein
 
   3
-  Jaakar haram mein shukr ke sajde ada kare
-  Maula har ek shaheed ki majlis bapa kare
-  Hum bhi bichaye farshe aza arbaeen mein
+  Ja kar haram mein shukr ke sajde ada kare
+  Maula har ek shahid ki majlis bapa kare
+  Hum bhi bichhaayeṅ farsh-e-aza Arbaeen mein
 
   4
-  Maula tumhe janab e sakina ka waasta
+  Maula tumheṅ janaab-e-Sakina ka waasta
   Hum ko bhi dekhna hai wo jannat ka raasta
-  Jaaye najaf se karbobala arbaeen mein
+  Jaayeṅ Najaf se Karb o Bala Arbaeen mein
 
   5
-  Maa baap se kiya hai ye waada dikhaunga
-  Mai aap ko hussain ki dunya dikhaunga
-  Karna hai mujhko waada wafa arbaeen mein
+  Maaṅ baap se kiya hai ye waada dikhaaunga
+  Main aap ko Husain ki duniya dikhaaunga
+  Karna hai mujhko waada wafa Arbaeen mein
 
   6
-  Har waqt bas ye fikr hai mere khayal mein
-  Lagta hai mar na jaaun kahin is malaal mein
-  Mai ek dafa bhi jaa na saka arbaeen mein
+  Har waqt bas ye fikr hai mere khayaal mein
+  Lagta hai mar na jaauṅ kahiṅ is malaal mein
+  Main ek dafa bhi ja na saka Arbaeen mein
 
   7
-  Is baar kar do mere safar ka kuch intezam
-  Har saal soch soch ke reh jaata hai ghulam
-  Jaati hai saari khalq e khuda arbaeen mein
+  Is baar kar do mere safar ka kuchh intezaam
+  Har saal soch soch ke reh jaata hai ghulaam
+  Jaati hai saari khalq-e-Khuda Arbaeen mein
 
   8
-  Is ghamzada ke qalb ki khwahish hai aakhri
+  Is ghamzada ke qalb ki khwaahish hai aakhri
   Jis waqt bhi ho aap ke rauze pe haazri
-  Ho jaye meri rooh fanaa arbaeen mein
+  Ho jaaye meri ruh fanaa Arbaeen mein
 
   9
-  Hai aamir o kumail ki maula se ilteja
-  Hum bekason ka khalq mein tum hi ho aasra
-  Kar lo qubool sab ki dua arbaeen mein
+  Hai Aamir o Kumail ki Maula se iltija
+  Hum bekasoṅ ka khalq mein tum hi ho aasra
+  Kar lo qubul sab ki dua Arbaeen mein
 # source_id: nohayonline:789ae9b1038b64afa3ac
 # source_url: https://www.nohayonline.com/details_content.php?id=2798
 # raw_sha256: b7182bc068f9e59c6dd7b29f51bf584b43c011ed995031dcb75ffc2f5611e8a6

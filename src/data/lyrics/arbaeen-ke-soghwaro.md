@@ -14,32 +14,32 @@ romanLyrics: |-
   Aakhri majlis hai yaaro alwida
 
   1
-  Khatema bil khair chehlum ka hua
+  Khaatima bilkhair chehlum ka hua
   Alwida ae ashk baaro alwida
 
   2
-  Akbar o asghar ali ki zaamini
-  Naujawano sheer khaaro alwida
+  Akbar o Asghar Ali ki zaamini
+  Naujawaanoṅ shir khwaaroṅ alwida
 
   3
-  Kehte thay ganje shaheedan par haram
-  Fatema zehra ke pyaro alwida
+  Kehte the ganj-e-shahidaaṅ par haram
+  Fatima Zehra ke pyaaro alwida
 
   4
-  Karbala ki khaak ko saumpa tumhe
-  Arshe aazam ke sitaro alwida
+  Karbala ki khaak ko saunpa tumheṅ
+  Arsh-e-aazam ke sitaaro alwida
 
   5
-  Qabr par beton ki Zainab ne kaha
-  Maa watan jaati hai pyaro alwida
+  Qabr par betoṅ ki Zainab ne kaha
+  Maaṅ watan jaati hai pyaaro alwida
 
   6
-  Dasht soona paas basti bhi nahi
-  Be-dayaro be-mazaaro alwida
+  Dasht suna paas basti bhi nahiṅ
+  Bediyaaro bemazaaro alwida
 
   7
-  Qabr se awaaz dete hai Husain
-  Lo behan Zainab sidharo alwida
+  Qabr se aawaaz dete haiṅ Husain
+  Lo behan Zainab sidhaaro alwida
 # source_id: nohayonline:7f8e0f97a402b34c6a6e
 # source_url: https://www.nohayonline.com/content_salaam.php?id=17
 # raw_sha256: 07ade1b4463ff65ed070dc5de55ba219ffef61891eeaa96ec9a12300d7a4d1a5
