@@ -6,61 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayim"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chalo rone walaon chalo pursa daaron
-  Hussain ya hussain ya hussain
-  Sarwar ke soghwaron chalo karbala chale
-  Pyason ke soghwaron chalo karbala chale
+  Chalo rone waloṅ chalo pursa daaroṅ
+  Husain ya Husain ya Husain
+
+  Sarwar ke sogwaaroṅ chalo Karbala chaleṅ
+  Pyaasoṅ ke sogwaaroṅ chalo Karbala chaleṅ
 
   1
-  Maqtal mein jis jagah pe kata baazu e jari
-  Roye jahan pe teer se ek mashk thi chidi
-  Hone ko ashkbaar chalo karbala chale
+  Maqtal mein jis jagah pe kata baazu-e-jari
+  Roye jahaaṅ pe tir se ik mashk thi chhidi
+  Hone ko ashkbaar chalo Karbala chaleṅ
 
   2
-  Dekhe jahan ghareeb ka kunba hua tabaah
-  Goonji thi jis jagah pe kisi tashnalab ki aah
-  Rone ko beshumaar chalo karbala chale
+  Dekhe jahaaṅ gharib ka kunba hua tabaah
+  Gunji thi jis jagah pe kisi tashna lab ki aah
+  Rone ko beshumaar chalo Karbala chaleṅ
 
   3
-  Asghar ke waaste koi jhoola bhi le chalo
-  Haathon se apne see ke shaluka bhi le chalo
-  Ghamkhwar sheerkhwar chalo karbala chale
+  Asghar ke waaste koi jhula bhi le chalo
+  Haathoṅ se apne si ke shaluka bhi le chalo
+  Ghamkhwaar shir khwaar chalo Karbala chaleṅ
 
   4
-  Be-dast ba-wafa ki ghareebi pe royenge
-  Chaukhat haram ki ashkon se ro ro ke dhoyenge
-  Royenge jaan zaar chalo karbala chale
+  Bedast baawafa ki gharibi pe royeṅge
+  Chaukhat haram ki ashkoṅ se ro ro ke dhoyeṅge
+  Royeṅge jaan zaar chalo Karbala chaleṅ
 
   5
-  Maqtal saja hua hai shahadat ke waaste
-  Jazba bara e nusrat e sarwar liye huwe
-  Matloob e kaarzaar chalo karbala chale
+  Maqtal saja hua hai shahaadat ke waaste
+  Jazba baraa-e-nusrat-e-Sarwar liye hue
+  Matlub-e-kaarzaar chalo Karbala chaleṅ
 
   6
-  Jaye wahan jahan pe chida halq e bezuban
-  Roya tha jis jagah pe lahoo aa ke aasman
-  Asghar ke soghwaron chalo karbala chale
+  Jaaye wahaaṅ jahaaṅ pe chhida halq-e-bezubaaṅ
+  Roya tha jis jagah pe lahu aa ke aasmaaṅ
+  Asghar ke sogwaaroṅ chalo Karbala chaleṅ
 
   7
-  Daayim muaaf shaah karenge hai ye yaqeen
-  Ek ek se keh rahe hai yehi nasir e hazeen
-  Mehboob e kirdigaar chalo karbala chale
+  Daaim muaaf Shaah kareṅge hai ye yaqiṅ
+  Ik ik se keh rahe haiṅ yehi Naasir-e-haziṅ
+  Mehbub-e-Kirdigaar chalo Karbala chaleṅ
 # source_id: nohayonline:c8cc00a838dca3fc808b
 # source_url: https://www.nohayonline.com/details_content.php?id=1900
 # raw_sha256: 08b4f4746c784787fa14cd5f0d592be9398d51e454e02b6fe98a2886fdd9fb94
 ---
 چلو رونے والوں چلو پرسہ داروں
 حسین یا حسین یا حسین
+
 سرور کے سوگواروں چلو کربلا چلیں
 پیاسوں کے سوگواروں چلو کربلا چلیں
 
 ۱
-مقتل میں جس جگہ پہ کٹا بازوے جری
-روے جہاں پہ تیر سے اک مشک تھی چھدی
+مقتل میں جس جگہ پہ کٹا بازوئے جری
+روئے جہاں پہ تیر سے اک مشک تھی چھدی
 ہونے کو اشکبار چلو کربلا چلیں
 
 ۲
@@ -74,21 +77,21 @@ romanLyrics: |-
 غم خوار شیر خوار چلو کربلا چلیں
 
 ۴
-بے دست با وفا کی غریبی پہ روےنگے
-چوکھٹ حرم کی اشکوں سے رو رو کے دھوےنگے
-روےنگے جان زار چلو کربلا چلیں
+بے دست با وفا کی غریبی پہ روئیں گے
+چوکھٹ حرم کی اشکوں سے رو رو کے دھوئیں گے
+روئیں گے جان زار چلو کربلا چلیں
 
 ۵
 مقتل سجا ہوا ہے شہادت کے واسطے
-جزبہ برائے نصرت سرور لیےء ہوے
+جذبہ برائے نصرت سرور لیے ہوئے
 مطلوب کارزار چلو کربلا چلیں
 
 ۶
-جاے وہاں جہاں پہ چھدا حلق بے زباں
+جائے وہاں جہاں پہ چھدا حلق بے زباں
 رویا تھا جس جگہ پہ لہو آ کے آسماں
 اصغر کے سوگواروں چلو کربلا چلیں
 
 ۷
-دایم معاف شاہ کریں گے ہے یہ یقیں
+دائم معاف شاہ کریں گے ہے یہ یقیں
 اک اک سے کہہ رہے ہیں یہی ناصر حزیں
 محبوب کردگار چلو کربلا چلیں

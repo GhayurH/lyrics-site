@@ -1,58 +1,69 @@
 ---
 title: "دن یہ قسمت نے تم کو دکھایا ہے آج"
-alternateTitle: "Chalo Shaam Chale"
+alternateTitle: "Chalo Shaam Chaleṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Din ye kismat ne tumko dikhaya hai aaj
-  Aansuon se ye daaman bhigone chalo
-  Jinke ghurbat pe rote rahe umr bhar
-  Unke rauze pe ab unko rone chalo
-  Chalo shaam chalein
-  Pursadaron aao bibi ne bulaya hai
-  Chalo shaam chalein
+  Din ye qismat ne tum ko dikhaaya hai aaj
+  Aansuoṅ se ye daaman bhigone chalo
+  Jin ke ghurbat pe rote rahe umr bhar
+  Un ke rauze pe ab un ko rone chalo
+  Chalo Shaam chaleṅ
+
+  Pursa daaroṅ aao Bibi ne bulaaya hai
+  Chalo Shaam chaleṅ
 
   1
-  Pursa unko aansuon se denge unke bhai ka
-  Shaam e ghurbat ke andheron ka kabhi tanhaai ka
+  Pursa un ko aansuoṅ se deṅge un ke bhaai ka
+  Shaam-e-ghurbat ke andheroṅ ka kabhi tanhaai ka
+  Chalo Shaam chaleṅ
 
   2
-  Pursa denge be-saron ka matam e zanjeer se
-  Pursadari ka ye mauka mil gaya taqdeer se
+  Pursa deṅge besaroṅ ka maatam-e-zanjir se
+  Pursa daari ka ye mauqa mil gaya taqdir se
+  Chalo Shaam chaleṅ
 
   3
-  Faisla hai apne haq mein kaatib e taqdeer ka
-  Bibi ke rauze pe chehlum hum kare shabbir ka
+  Faisla hai apne haq mein kaatib-e-taqdir ka
+  Bibi ke rauze pe chehlum hum kareṅ Shabbir ka
+  Chalo Shaam chaleṅ
 
   4
-  Jinko wo bibi na royi gardish e aalaam mein
-  Matam e aun o mohamed barpa karne shaam mein
+  Jin ko wo Bibi na royi gardish-e-aalaam mein
+  Maatam-e-Aun o Muhammad barpa karne Shaam mein
+  Chalo Shaam chaleṅ
 
   5
-  Tees ghanton mein jahan se guzri aale mustafa
-  Pursa dena dekh kar manzar usi bazaar ka
+  Tis ghantoṅ mein jahaaṅ se guzri Aal-e-Mustafa
+  Pursa dena dekh kar manzar usi baazaar ka
+  Chalo Shaam chaleṅ
 
   6
-  Khutba zainab ne diya tha jis jagah par momino
-  Dekhne apni nigahon se usi darbaar ko
+  Khutba Zainab ne diya tha jis jagah par mominoṅ
+  Dekhne apni nigaahoṅ se usi darbaar ko
+  Chalo Shaam chaleṅ
 
   7
-  Rote rote jaan dedi thi sakina ne jahan
-  Zakhme dil bhar jaye maa ka aise rona tum wahan
+  Rote rote jaan de di thi Sakina ne jahaaṅ
+  Zakhm-e-dil bhar jaaye maaṅ ka aise rona tum wahaaṅ
+  Chalo Shaam chaleṅ
 
   8
-  Is tarha be-chadari ka bibi se baatenge gham
-  Shaam jaa kar aurton ko chadarein baatenge hum
+  Is tarah bechaadari ka Bibi se baateṅge gham
+  Shaam jaa kar auratoṅ ko chaadareṅ baanteṅge hum
+  Chalo Shaam chaleṅ
 
   9
-  Jaane kab mera bulawa hoga mazhar abidi
-  Jab mere kaano mein goonjegi sada farhan ki
+  Jaane kab mera bulaawa hoga Mazhar Abidi
+  Jab mere kaanoṅ mein gunjegi sada Farhan ki
+  Chalo Shaam chaleṅ
 # source_id: nohayonline:794ab6e87b3f10c1ce98
 # source_url: https://www.nohayonline.com/details_content.php?id=2659
 # raw_sha256: 462e4b035532f4df3318fb241dad5ac5b51635dabd6be002b41deca406fdbac4
@@ -63,41 +74,51 @@ romanLyrics: |-
 جن کے غربت پہ روتے رہے عمر بھر
 ان کے روضے پہ اب ان کو رونے چلو
 چلو شام چلیں
-پرسہ داروں آؤ بی بی نے بلایا ہے
+
+پرسہ داروں آؤ بی‌بی نے بلایا ہے
 چلو شام چلیں
 
 ۱
 پرسہ ان کو آنسوؤں سے دیں گے ان کے بھائی کا
 شام غربت کے اندھیروں کا کبھی تنہائی کا
+چلو شام چلیں
 
 ۲
 پرسہ دیں گے بے سروں کا ماتم زنجیر سے
 پرسہ داری کا یہ موقع مل گیا تقدیر سے
+چلو شام چلیں
 
 ۳
 فیصلہ ہے اپنے حق میں کاتب تقدیر کا
-بی بی کے روضے پہ چہلم ہم کریں شبیر کا
+بی‌بی کے روضے پہ چہلم ہم کریں شبیر کا
+چلو شام چلیں
 
 ۴
-جن کو وہ بی بی نہ روی گردش آلام میں
+جن کو وہ بی‌بی نہ روئی گردش آلام میں
 ماتم عون و محمد برپا کرنے شام میں
+چلو شام چلیں
 
 ۵
 تیس گھنٹوں میں جہاں سے گزری آل مصطفیٰ
 پرسہ دینا دیکھ کر منظر اسی بازار کا
+چلو شام چلیں
 
 ۶
 خطبہ زینب نے دیا تھا جس جگہ پر مومنوں
 دیکھنے اپنی نگاہوں سے اسی دربار کو
+چلو شام چلیں
 
 ۷
 روتے روتے جان دے دی تھی سکینہ نے جہاں
-زخم‌ دل بھر جاے ماں کا ایسے رونا تم وہاں
+زخمِ دل بھر جائے ماں کا ایسے رونا تم وہاں
+چلو شام چلیں
 
 ۸
-اس طرح بے چادری کا بی بی سے باٹیں گی غم
+اس طرح بے چادری کا بی‌بی سے باٹیں گی غم
 شام جا کر عورتوں کو چادریں بانٹیں گے ہم
+چلو شام چلیں
 
 ۹
 جانے کب میرا بلاوا ہوگا مظہر عابدی
 جب میرے کانوں میں گونجے گی صدا فرحان کی
+چلو شام چلیں
