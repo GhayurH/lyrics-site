@@ -1,86 +1,87 @@
 ---
 title: "عباس علمدار"
-alternateTitle: "Chote Hazrat"
+alternateTitle: "Chhote Hazrat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Chote Hazrat"]
 published: false
 romanLyrics: |-
-  Abbas alamdar
-  Kya hua kyun udaas baitha hai
-  Tu azadare ibne zehra hai
-  Chal wahan rab jahan pe milta hai
-  Chal jahan panjetan ka saaya hai
-  Wo saqi dar khula hi rehta hai
+  Abbas Alamdar
+  Kya hua kiuṅ udaas baitha hai
+  Tu azaadaar-e-Ibn-e-Zehra hai
+  Chal wahaaṅ Rab jahaaṅ pe milta hai
+  Chal jahaaṅ Panjatan ka saaya hai
+  Wo sakhi dar khula hi rehta hai
 
-  Chote hazrat ki bargah chalo
-  Chalo abbas ki dargah chalo
+  Chhote Hazrat ki baargaah chalo
+  Chalo Abbas ki dargaah chalo
 
   1
-  Inki dargah se saughate wafa milti hai
-  Naame zainab pe yahan sabko rida milti hai
-  Zaayaron aao sakina ki dua milti hai
-  Mere saqqe ke azadaar jiyo
+  In ki dargaah se saughaat-e-wafa milti hai
+  Naam-e-Zainab pe yahaaṅ sab ko rida milti hai
+  Zaairoṅ aao Sakina ki dua milti hai
+  Mere saqqe ke azaadaar jiyo
 
   2
-  Haan yehi baabe hawaej dua e zehra
-  Ye ali ka hai sarapa to hassan ka chehra
-  Inko kehte hai hussain ibne ali ka pyara
-  Panjatan paak ke pyare se kaho
+  Haaṅ yehi Baab-e-Hawaaij dua-e-Zehra
+  Ye Ali ka hai saraapa to Hasan ka chehra
+  In ko kehte haiṅ Husain Ibn-e-Ali ka pyaara
+  Panjatan Paak ke pyaare se kaho
 
   3
-  Haazri inki jab hoti hai diye jalte hai
-  Mustafa fatema hasnain o ali aate hai
-  Milke sab maadare abbas se farmate hai
-  Aao abbas ki tum nazr to do
+  Haaziri in ki jab hoti hai diye jalte haiṅ
+  Mustafa Fatima Hasnain o Ali aate haiṅ
+  Mil ke sab Maadar-e-Abbas se farmaate haiṅ
+  Aao Abbas ki tum nazr to do
 
   4
-  Inka jab aat moharam ko alam uth-ta hai
-  Ek mashkeeza bhi panje se bandha rehta hai
-  Uspe saqqaye sakina bhi likha rehta hai
-  Ye alam kya hai sakina se suno
+  In ka jab aath Muharram ko alam uthta hai
+  Ek mashkiza bhi panje se bandha rehta hai
+  Us pe Saqqa-e-Sakina bhi likha rehta hai
+  Ye alam kya hai Sakina se suno
 
   5
-  Jisne nau laak ke lashkar ka bharam tod diya
-  Uspe ek mashk ke chidne ne sitam tod diya
-  Ya sakina kaha aur khaak pe dam tod diya
-  Milke sab matame abbas karo
+  Jis ne nau laakh ke lashkar ka bharam tor diya
+  Us pe ik mashk ke chhidne ne sitam tor diya
+  Ya Sakina kaha aur khaak pe dam tor diya
+  Mil ke sab maatam-e-Abbas karo
 
   6
-  Zaamine chadare zainab thay alamdare wafa
-  Jis ghadi saaniye zehra se ye fizza ne kaha
-  Chadare apni sambhalo ke wo ghazi na raha
-  Pursa ab zainab o kulsoom ko do
+  Zaamin-e-chaadar-e-Zainab the Alamdar-e-Wafa
+  Jis ghari Saani-e-Zehra se ye Fizza ne kaha
+  Chaadareṅ apni sambhaalo ke wo Ghaazi na raha
+  Pursa ab Zainab o Kulsum ko do
 
   7
-  Chote hazrat ki ghulami ka sharaf paaya hai
-  Rabbe kaaba ki qasam ye bada sarmeina hai
-  Nauha jo sarwar o rehan se padhwaya hai
-  Shukre maula chalo ghazi se kaho
+  Chhote Hazrat ki ghulaami ka sharaf paaya hai
+  Rabb-e-Kaaba ki qasam ye bara sarmaaya hai
+  Nauha jo Sarwar o Rehaan se parhwaaya hai
+  Shukr-e-Maula chalo Ghaazi se kaho
 
   8
-  Chote hazrat hussain ke bhai
-  Chote hazrat ba haqqe saqqayi
-  Tum waseela ho gham ke maaro ka
-  Tum waseela ho be-saharon ka
-  Baargahe khuda mein ay ghazi
-  Aap ki baat radh nahi hoti
-  Dil ki uljhan nikaal do maula
-  Meri mushkil ko taal do maula
-  Ye gunahgaar bhi tumhara hai
-  Is liye aap ko pukara hai
+  Chhote Hazrat Husain ke bhaai
+  Chhote Hazrat ba haqq-e-saqqaai
+  Tum wasila ho gham ke maaroṅ ka
+  Tum wasila ho besahaaroṅ ka
+  Baargaah-e-Khuda meiṅ ae Ghaazi
+  Aap ki baat rad nahiṅ hoti
+  Dil ki uljhan nikaal do Maula
+  Meri mushkil ko taal do Maula
+  Ye gunaahgaar bhi tumhaara hai
+  Is liye aap ko pukaara hai
   Dard ki ab koi dawa bhejo
-  Ab mujhe karbala bula bhejo
-  Waasta sayyede madina ka
-  Waasta zainab o sakina ka
-  Bibi ummul baneen ka sadqa
-  Waasta panjetan ka deta hoo
-  Waasta be-kafan ka deta hoo
-  Chote hazrat hussain ke bhai
+  Ab mujhe Karbala bula bhejo
+  Waasta Sayyid-e-Madina ka
+  Waasta Zainab o Sakina ka
+  Bibi Umm-ul-Banin ka sadqa
+  Waasta Panjatan ka deta huṅ
+  Waasta bekafan ka deta huṅ
+  Chhote Hazrat Husain ke bhaai
 # source_id: nohayonline:6f3927e7ef3df077b71f
 # source_url: https://www.nohayonline.com/details_content.php?id=24
 # raw_sha256: 9f0372bc5c8e41b21bd859c808380aeffef262f3b537d576da1037bd7a8ab5b6
@@ -97,22 +98,22 @@ romanLyrics: |-
 چلو عباس کی درگاہ چلو
 
 ۱
-انکی درگاہ سے سوغاتِ وفا ملتی ہے
+ان کی درگاہ سے سوغاتِ وفا ملتی ہے
 نامِ زینب پہ یہاں سب کو ردا ملتی ہے
-زائروں آئوسکینہ کی دُعا ملتی ہے
+زائروں آؤ سکینہ کی دُعا ملتی ہے
 میرے سقّے کے عزادار جیو
 
 ۲
 ہاں یہی بابِ حوائج دُعائے زہرا
 یہ علی کا ہے سراپا تو حسن کا چہرہ
-ان کوکہتے ہیں حسین ابن علی کاپیارا
+ان کو کہتے ہیں حسین ابنِ علی کا پیارا
 پنجتن پاک کے پیارے سے کہو
 
 ۳
-حاضری اِنکی جب ہوتی ہے دیے جلتے ہیں
-مصطفی فاطمہ حثنین و علی آتے ہیں
-مل کے سب مادرِعباس سے فرماتے ہیں
-آئو عباس کی تم نظر تو دو
+حاضری اِن کی جب ہوتی ہے دیے جلتے ہیں
+مصطفی فاطمہ حسنین و علی آتے ہیں
+مل کے سب مادرِ عباس سے فرماتے ہیں
+آؤ عباس کی تم نذر تو دو
 
 ۴
 اِن کا جب آٹھ محرم کو علم اُٹھتا ہے
@@ -121,21 +122,21 @@ romanLyrics: |-
 یہ علم کیا ہے سکینہ سے سنو
 
 ۵
-جس نے نو لاکھ کے لشکر کا بھرم توڑدیا
-اُس پہ اک مشک کے چھدنے نے ستم توڑدیا
-یا سکینہ کہا اور خاک پہ دم توڑدیا
+جس نے نو لاکھ کے لشکر کا بھرم توڑ دیا
+اُس پہ اک مشک کے چھدنے نے ستم توڑ دیا
+یا سکینہ کہا اور خاک پہ دم توڑ دیا
 مل کے سب ماتمِ عباس کرو
 
 ۶
-ضامنِ چادرِزینب تھے علمدارِ وفا
-جس گھڑی ثانیئ زہرا سے یہ فضّہ نے کہا
-چادریںاپنی سنبھالو کہ وہ غازی نہ رہا
+ضامنِ چادرِ زینب تھے علمدارِ وفا
+جس گھڑی ثانیِ زہرا سے یہ فضّہ نے کہا
+چادریں اپنی سنبھالو کہ وہ غازی نہ رہا
 پرسہ اب زینب و کلثوم کو دو
 
 ۷
 چھوٹے حضرت کی غلامی کا شرف پایا ہے
-ربّ ِکعبہ کی قسم یہ بڑا سرمایا ہے
-نوحہ جو سروروریحان سے پڑ ھ وایا ہے
+ربّ کعبہ کی قسم یہ بڑا سرمایہ ہے
+نوحہ جو سرور و ریحان سے پڑھوایا ہے
 شکرِ مولا چلو غازی سے کہو
 
 ۸
@@ -148,12 +149,12 @@ romanLyrics: |-
 دل کی اُلجھن نکال دو مولا
 میری مشکل کو ٹال دو مولا
 یہ گناہ گار بھی تمہارا ہے
-اس لیئے آپ کو پکارا ہے
+اس لیے آپ کو پکارا ہے
 درد کی اب کوئی دوا بھیجو
 اب مجھے کربلا بُلا بھیجو
 واسطہ سیدِ مدینہ کا
 واسطہ زینب و سکینہ کا
-بی بی اُم البنین کا صدقہ
+بی‌بی اُم البنین کا صدقہ
 واسطہ پنجتن کا دیتا ہوں
 واسطہ بے کفن کا دیتا ہوں
 چھوٹے حضرت حسین کے بھائی
