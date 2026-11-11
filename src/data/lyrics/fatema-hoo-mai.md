@@ -1,104 +1,105 @@
 ---
-title: "یا سیدہ یا طاہرہ یا امِؔ ابیہا"
-alternateTitle: "Fatema Hoo Mai"
+title: "یا سیدہ یا طاہرہ یا اُمِّ ابیہا"
+alternateTitle: "Fatema Huṅ Main"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
-aliases: []
+aliases: ["Fatema Hoo Mai"]
 published: false
 romanLyrics: |-
-  Ya sayyeda ya tahera ya umme abiha
+  Ya Sayyeda ya Taahira ya Umm-e-Abiha
 
-  Salaam jis ko alaihis salam karte hai
-  Wo fatema hoo mai
-  Jhuk ke hasnain bhi jis se kalaam karte hai
-  Wo fatema hoo mai
+  Salaam jis ko alaihis salaam karte haiṅ
+  Wo Fatema huṅ main
+  Jhuk ke Hasnain bhi jis se kalaam karte haiṅ
+  Wo Fatema huṅ main
 
   1
-  Mujhe hi raaziya marziya sadeeqa kehte hai
-  Mujhe taahira umme abiha kehte hai
-  Wo jiska ahmed bhi ehteraam karte hai
-  Wo fatema hoo mai
-  
+  Mujhe hi Raaziya Marziya Siddiqa kehte haiṅ
+  Mujhe hi Taahira Umm-e-Abiha kehte haiṅ
+  Wo jis ka Ahmad bhi ehteraam karte haiṅ
+  Wo Fatema huṅ main
+
   2
-  Daleel e haq tera sajda teri jabeen to nahi
-  Tera wajood gumaan hai tera yaqeen to nahi
-  Mai fatema hoo sadaqat ki wo daleel hoo mai
-  Agar mai kehdun khuda hai to hai nahi to nahi
-  Bana ke sura e kausar mujhe utaara gaya
-  Mujhe hijaab e muzammil se hai pukara gaya
-  Tazeeem jiski baara imam karte hai
-  Wo fatema hoo mai
-  
+  Dalil-e-haq tera sajda teri jabiṅ to nahiṅ
+  Tera wujud gumaaṅ hai tera yaqiṅ to nahiṅ
+  Main Fatema huṅ sadaaqat ki wo dalil huṅ main
+  Agar main keh duṅ Khuda hai to hai nahiṅ to nahiṅ
+  Bana ke surah-e-Kausar mujhe utaara gaya
+  Mujhe hijaab-e-Muzzammil se hai pukaara gaya
+  Taazim jis ki baarah Imam karte haiṅ
+  Wo Fatema huṅ main
+
   3
-  Khuda ne aise jahan may mujhe badaayi di
-  Quran ne aayaton se meri hi gawahi di
-  Wo jiske ghar se arshi ta'aam karte hai
-  Wo fatema hoo mai
-  
+  Khuda ne aise jahaaṅ mein mujhe baraai di
+  Quran ne aayatoṅ se meri hi gawaahi di
+  Wo jis ke ghar se arshi taam karte haiṅ
+  Wo Fatema huṅ main
+
   4
-  Nabi ki beti hoo darbar may khada na karo
-  Hijaab e kibriya hoo mujhko yun ruswa na karo
-  Wo jis ke dar pe farishte qayam karte hai
-  Wo fatema hoo mai
-  
+  Nabi ki beti huṅ darbaar mein khara na karo
+  Hijaab-e-kibriya huṅ mujh ko yuṅ ruswa na karo
+  Wo jis ke dar pe farishte qiyaam karte haiṅ
+  Wo Fatema huṅ main
+
   5
-  Yun mere ghar ko musalmano tum jalao na
-  Aur mere pehlu pe darwaze ko girao na
-  Darood jis pe sab khaas o aam padte hai
-  Wo fatema hoo mai
-  
+  Yuṅ mere ghar ko musalmaano tum jalaao na
+  Aur mere pehlu pe darwaaze ko giraao na
+  Durud jis pe sab khaas o aam parhte haiṅ
+  Wo Fatema huṅ main
+
   6
-  Dehr may aise mujhe tum agar rulaoge
-  Hashr may kaise shafa'at nabi se paoge
-  Hisaab e mehshar khuda jiske naam karte hai
-  Wo fatema hoo mai
-  
+  Dehr mein aise mujhe tum agar rulaao ge
+  Hashr mein kaise shafaaat Nabi se paao ge
+  Hisaab-e-mahshar Khuda jis ke naam karte haiṅ
+  Wo Fatema huṅ main
+
   7
-  Jo khaali lauti thi darbar se zaeef ho kar
-  Ali imam se yasir thi kehti ro ro kar
-  Ke jiske hone se saare nizaam chalte hai
-  Wo fatema hoo mai
+  Jo khaali lauti thi darbaar se zaif ho kar
+  Ali Imam se Yasir thi kehti ro ro kar
+  Keh jis ke hone se saare nizaam chalte haiṅ
+  Wo Fatema huṅ main
 # source_id: nohayonline:a811c309a28f2f26c2a7
 # source_url: https://www.nohayonline.com/details_content.php?id=1010
 # raw_sha256: 330cbd7700a80ef410f704980bbf6edad4fc6f2d63aeca27609051c7bc43986f
 ---
 
-یا سیدہ یا طاہرہ یا امِؔ ابیہا
+یا سیدہ یا طاہرہ یا اُمِّ ابیہا
 
 سلام جس کو علیہِ سلام کرتے ہیں
 وہ فاطمہ ہوں میں
-جھک کے حسنین بھی جس سے کلام کرتے ہی
+جھک کے حسنین بھی جس سے کلام کرتے ہیں
 وہ فاطمہ ہوں میں
 
 ۱
 مجھے ہی راضیہ مرضیہ صدیقہ کہتے ہیں
 مجھے ہی طاہرہ اُمِّ ابیہا کہتے ہیں
-‏وہ جس کا احمد بھی احترام کرتے ہیں
+وہ جس کا احمد بھی احترام کرتے ہیں
 وہ فاطمہ ہوں میں
 
 ۲
-دلیل حق تیرا سجدہ تیری جبیں تو نہیں
+دلیلِ حق تیرا سجدہ تیری جبیں تو نہیں
 تیرا وجود گماں ہے تیرا یقیں تو نہیں
 میں فاطمہ ہوں صداقت کی وہ دلیل ہوں میں
-اگر میں کہروں خدا ہے تو ہے نہیں تو نہیں
-بنا کے سور ۂ کوثر مجھے اُتارا گیا
+اگر میں کہہ دوں خدا ہے تو ہے نہیں تو نہیں
+بنا کے سورۂ کوثر مجھے اُتارا گیا
 مجھے حجابِ مزمّل سے ہے پکارا گیا
 تعظیم جس کی بارہ امام کرتے ہیں
 وہ فاطمہ ہوں میں
 
 ۳
-خدا نے ایسے جہاں میں مجھے بڑائ دی
+خدا نے ایسے جہاں میں مجھے بڑائی دی
 قرآن نے آیتوں سے میری ہی گواہی دی
-وہ جس کے گھر سے عرشی تعام کرتے ہیں
+وہ جس کے گھر سے عرشی طعام کرتے ہیں
 وہ فاطمہ ہوں میں
 
 ۴
 نبی کی بیٹی ہوں دربار میں کھڑا نہ کرو
-حجابِ کبریا ہوں مجھ کو یوں رُسوانہ کرو
+حجابِ کبریا ہوں مجھ کو یوں رُسوا نہ کرو
 وہ جس کے در پہ فرشتے قیام کرتے ہیں
 وہ فاطمہ ہوں میں
 
@@ -116,6 +117,6 @@ romanLyrics: |-
 
 ۷
 جو خالی لوٹی تھی دربار سے ضعیف ہو کر
-علی امام سے یاسر ٓ تھی کہتی رو رو کر
+علی امام سے یاسر تھی کہتی رو رو کر
 کہ جس کے ہونے سے سارے نظام چلتے ہیں
 وہ فاطمہ ہوں میں

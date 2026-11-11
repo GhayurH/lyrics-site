@@ -5,62 +5,63 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ali Mohammed"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Fatema ka tha ye nauha mere mazloom hussain
-  Mujhko aawaz do beta mere mazloom hussain
+  Fatema ka tha ye noha mere mazlum Husain
+  Mujh ko aawaaz do beta mere mazlum Husain
 
   1
-  Maa ne paala tha tujhe pees ke chakki beta
-  Tera rondha gaya laasha mere mazloom hussain
+  Maaṅ ne paala tha tujhe pis ke chakki beta
+  Tera raunda gaya laasha mere mazlum Husain
 
   2
-  Soone jangal mein padi hai teri mayyat pyare
-  Koi pursa nahi tera mere mazloom hussain
+  Sune jangal mein pari hai teri mayyat pyaare
+  Koi pursa nahiṅ tera mere mazlum Husain
 
   3
-  Bewa bano se sambhalti nahi nanhi bachi
-  Yaad karti hai sakina mere mazloom hussain
+  Bewa Baano se sambhalti nahiṅ nanhi bachchi
+  Yaad karti hai Sakina mere mazlum Husain
 
   4
-  Dekhun kin aankhon se laasha tera purze purze
-  Tukde hota hai kaleja mere mazloom hussain
+  Dekhuṅ kin aankhoṅ se laasha tera purze purze
+  Tukre hota hai kaleja mere mazlum Husain
 
   5
-  Ye na samjhe ke mera doodh bhi shaamil ismein
-  Tera khoon ran mein bahaya mere mazloom hussain
+  Ye na samjhe keh mera dudh bhi shaamil is mein
+  Tera khuṅ ran mein bahaaya mere mazlum Husain
 
   6
   Kaun mayyat pe tere baith ke beta roye
-  Qaid mein hai tera kunba mere mazloom hussain
+  Qaid mein hai tera kunba mere mazlum Husain
 
   7
-  Zakhm hai jism ke gehre na aziyyat ho kahin
-  Tujhko liptaun mai kaise mere mazloom hussain
+  Zakhm hai jism ke gehre na aziyyat ho kahiṅ
+  Tujh ko liptaauṅ main kaise mere mazlum Husain
 
   8
-  Taygh thi haath mein ya khanjar tha qaatil ke
-  Sar tera kaahe se kaata mere mazloom hussain
+  Tegh thi haath mein ya khanjar tha qaatil ke
+  Sar tera kaahe se kaata mere mazlum Husain
 
   9
-  Karke bebas tujhe kyun qatl kiya qaatil ne
-  Tune kya jurm kiya tha mere mazloom hussain
+  Kar ke bebas tujhe kiuṅ qatl kiya qaatil ne
+  Tu ne kya jurm kiya tha mere mazlum Husain
 
   10
-  Khushk halqoom ko be-aab churi se kaata
-  Na diya pani ka khatra mere mazloom hussain
+  Khushk halqum ko beaab chhuri se kaata
+  Na diya paani ka khatra mere mazlum Husain
 
   11
-  Ranj mein dekho na sarwar se kuch ho jaye
-  Dil hai insan ka beta mere mazloom hussain
+  Ranj mein dekho na Sarwar se kuchh ho jaaye
+  Dil hai insaan ka beta mere mazlum Husain
 # source_id: nohayonline:a1406f3bd1e7a4c29f1a
 # source_url: https://www.nohayonline.com/details_content.php?id=1115
 # raw_sha256: 4b33c71ce16b25d10de62ae0f42b87383608d4806a7fc01c2698941b2104733d
 ---
 فاطمہ کا تھا یہ نوحہ میرے مظلوم حسین
-مجھکو آواز دو بیٹا میرے مظلوم حسین
+مجھ کو آواز دو بیٹا میرے مظلوم حسین
 
 ۱
 ماں نے پالا تھا تجھے پیس کے چکی بیٹا
@@ -83,12 +84,12 @@ romanLyrics: |-
 تیرا خوں رن میں بہایا میرے مظلوم حسین
 
 ۶
-کون میت پہ تیرے بیٹھ کے بیٹا رویے
+کون میت پہ تیرے بیٹھ کے بیٹا روئے
 قید میں ہے تیرا کنبہ میرے مظلوم حسین
 
 ۷
 زخم ہے جسم کے گہرے نہ اذیت ہو کہیں
-تجھکو لپٹاوں میں کیسے میرے مظلوم حسین
+تجھ کو لپٹاؤں میں کیسے میرے مظلوم حسین
 
 ۸
 تیغ تھی ہاتھ میں یا خنجر تھا قاتل کے
@@ -103,5 +104,5 @@ romanLyrics: |-
 نہ دیا پانی کا خطرہ میرے مظلوم حسین
 
 ۱۱
-رنج میں دیکھو نہ سرور سے کچھ ہو جاے
+رنج میں دیکھو نہ سرور سے کچھ ہو جائے
 دل ہے انسان کا بیٹا میرے مظلوم حسین

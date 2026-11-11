@@ -1,87 +1,88 @@
 ---
 title: "فریادِ زندانِ شام"
-alternateTitle: "Faryade Zindane"
+alternateTitle: "Faryaad-e-Zindaan-e-Shaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Faryade Zindane"]
 published: false
 romanLyrics: |-
-  Faryad e zindan e shaam
-  Mai hoon zindan e shaam
+  Faryaad-e-zindaan-e-Shaam
+  Main huṅ zindaan-e-Shaam
 
   1
-  Maine dekhe hazaar ha qaidi
-  Aise qaidi magar nahi dekhe
-  Khoon mein doobe badan to dekhe hai
-  Is qadar khoon mein tar nahi dekhe
+  Main ne dekhe hazaar haa qaidi
+  Aise qaidi magar nahiṅ dekhe
+  Khuṅ mein dube badan to dekhe haiṅ
+  Is qadar khuṅ mein tar nahiṅ dekhe
 
   2
-  Maine dekhe hai jitne qaidi bhi
-  Unki aankhon se ashk jaari thay
-  Unke jismon pe zakhm kaari thay
-  Unpe lamhe alam ke bhaari thay
-  Jinka rona mujhe rulaata ho
-  Maine yun nauhagar nahi dekhe
+  Main ne dekhe haiṅ jitne qaidi bhi
+  Un ki aankhoṅ se ashk jaari the
+  Un ke jismoṅ pe zakhm kaari the
+  Un pe lamhe alam ke bhaari the
+  Jin ka rona mujhe rulaata ho
+  Main ne yuṅ noha gar nahiṅ dekhe
 
   3
   Ek qaidi to in mein aisa hai
-  Tauq jiske galay mein bhaari hai
-  Khaafile ka yehi muhaari hai
-  Jiski aankhon se khoon jaari hai
-  Sabr ke jo hunar hai paas iske
-  Maine aise hunar nahi dekhe
+  Tauq jis ke gale mein bhaari hai
+  Qaafile ka yahi mahaari hai
+  Jis ki aankhoṅ se khun jaari hai
+  Sabr ke jo hunar haiṅ paas is ke
+  Main ne aise hunar nahiṅ dekhe
 
   4
-  Shaam rote sahar ko rote hai
-  Bekasi ke safar ko rote hai
-  Thaam kar ye jigar ko rote hai
-  Yaad kar kar ke ghar ko rote hai
-  Aisa lagta hai in ghareebon ne
-  Ek muddat se ghar nahi dekhe
+  Shaam rote sahar ko rote haiṅ
+  Bekasi ke safar ko rote haiṅ
+  Thaam kar ye jigar ko rote haiṅ
+  Yaad kar kar ke ghar ko rote haiṅ
+  Aisa lagta hai in ghariboṅ ne
+  Ek muddat se ghar nahiṅ dekhe
 
   5
-  Aise qaidi ke jin ke aane par
-  Qaid khane sajaye jaate hai
-  Khud rulaate hai aur rone par
-  Taziyane lagaye jaate hai
-  Qaidiyon par sitam to dekhe hai
-  Par sitam is qadar nahi dekhe
+  Aise qaidi keh jin ke aane par
+  Qaid khaane sajaaye jaate haiṅ
+  Khud rulaate haiṅ aur rone par
+  Taaziyaane lagaaye jaate haiṅ
+  Qaidiyoṅ par sitam to dekhe haiṅ
+  Par sitam is qadar nahiṅ dekhe
 
   6
-  Inke rone se aisa lagta hai
-  Jaise ye do jahan rote hai
-  Jab bhi karte hai ro ke ye naale
-  Sab zameen asmaan rote hai
-  Maine naale kisi bhi qaidi ke
-  Is qadar pur asar nahi dekhe
+  In ke rone se aisa lagta hai
+  Jaise ye do jahaan rote haiṅ
+  Jab bhi karte haiṅ ro ke ye naale
+  Sab zamiṅ aasmaan rote haiṅ
+  Main ne naale kisi bhi qaidi ke
+  Is qadar pur asar nahiṅ dekhe
 
   7
-  Khud mein hi qaid ho raha hoon mai
-  Dekh kar in ko ro raha hoon mai
-  Kya bataun ye dard kaisa hai
-  Jis ko dil mein samo raha hoon mai
-  Maine mazloom to kayi dekhe
-  Aise mazloom par nahi dekhe
+  Khud mein hi qaid ho raha huṅ main
+  Dekh kar in ko ro raha huṅ main
+  Kya bataauṅ ye dard kaisa hai
+  Jis ko dil mein samo raha huṅ main
+  Main ne mazlum to kai dekhe
+  Aise mazlum par nahiṅ dekhe
 
   8
-  Is museebat pe shukr ke sajde
+  Is musibat pe shukr ke sajde
   Itni ghurbat pe shukr ke sajde
-  Ambiya bhi na kar sake honge
+  Ambiya bhi na kar sake hoṅ ge
   Aisi haalat pe shukr ke sajde
   Jin ke sar par ho naaz sajde ko
-  Maine to aise sar nahi dekhe
+  Main ne to aise sar nahiṅ dekhe
 
   9
-  Aisi qaamat hai inki noor ali
-  Deen ki qaamat e daraaz hai ye
-  Hai namazi ke khud namaz hai ye
-  Dono aalam ke charasaaz hai ye
-  Qaid mein qaidiyon ko dekha hai
-  Qaid mein chaaragar nahi dekhe
+  Aisi qaamat hai in ki Noor Ali
+  Din ki qaamat-e-daraaz haiṅ ye
+  Haiṅ namaazi keh khud namaaz haiṅ ye
+  Donoṅ aalam ke chaarah saaz haiṅ ye
+  Qaid mein qaidiyoṅ ko dekha hai
+  Qaid mein chaarah gar nahiṅ dekhe
 # source_id: nohayonline:a6fabff4ee087eef6ff5
 # source_url: https://www.nohayonline.com/details_content.php?id=3274
 # raw_sha256: cd8c523a32cf76395b5f4078ae6723fcfdc703f8fd39d4e68289def6391a0a40
@@ -92,7 +93,7 @@ romanLyrics: |-
 
 ۱
 میں نے دیکھے ہزار ہا قیدی
-ایسی قیدی مگر نہیں دیکھے
+ایسے قیدی مگر نہیں دیکھے
 خوں میں ڈوبے بدن تو دیکھے ہیں
 اس قدر خوں میں تر نہیں دیکھے
 
@@ -134,12 +135,12 @@ romanLyrics: |-
 جب بھی کرتے ہیں رو کے یہ نالے
 سب زمیں آسمان روتے ہیں
 میں نے نالے کسی بھی قیدی کے
-اس قدر پُر اسر نہیں دیکھے
+اس قدر پُر اثر نہیں دیکھے
 
 ۷
 خود میں ہی قید ہو رہا ہوں میں
 دیکھ کر اِن کو رو رہا ہوں میں
-کیا بتائوں یہ درد کیسا ہے
+کیا بتاؤں یہ درد کیسا ہے
 جس کو دل میں سمو رہا ہوں میں
 میں نے مظلوم تو کئی دیکھے
 ایسے مظلوم پر نہیں دیکھے
