@@ -1,6 +1,6 @@
 ---
 title: "دین کا داتا جگت کا مالک"
-alternateTitle: "Deen Ka Data Jagat Ka Malik"
+alternateTitle: "Din Ka Daata Jagat Ka Maalik"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Din ka data jagat ka malik sab ka palanhar
+  Din ka daata jagat ka maalik sab ka paalanhaar
   Maula Ali Ali Maula Ali Ali
 
   1
-  Tere charan ki dhul ke aage kya chandi kya sona hai
-  Dharti chand sitare sab kuch tere husn ka sadqa hai
-  Tera pasina hai tere mathe ka pasina Nabi Wali avtar
+  Tere charan ki dhul ke aage kya chaaṅdi kya sona hai
+  Dharti chaand sitaare sab kuchh tere husn ka sadqa hai
+  Tera pasina hai tere maathe ka pasina Nabi Wali avtaar
 
   2
-  Tere siwa woh kaun hai jis ke dar pe tara utra hai
-  Dharti se aakash talak bas tera sikka chalta hai
-  Mere Maula suraj tere hukm se nikla ek din mein do baar
+  Tere siwa wo kaun hai jis ke dar pe taara utra hai
+  Dharti se aakaash talak bas tera sikka chalta hai
+  Mere Maula suraj tere hukm se nikla ik din mein do baar
 
   3
-  Purab pachhim uttar dakshin sahme sahme rahte hain
-  Khauf se apne pankh samete dur farishte rahte hain
-  Ae balhari chalti hai anyay ke aage jab teri talwar
+  Purab pachham uttar dakshin sahme sahme rehte haiṅ
+  Khauf se apne pankh samete dur farishte rehte haiṅ
+  Ae balihaari chalti hai anyaay ke aage jab teri talwaar
 
   4
-  Nainon mein teri yaad ki jyoti zehnon mein teri murat hai
-  Saansen hain tere naam ki mala man mein pyar ki daulat hai
-  Ae jagdata mere badan ke rom rom par hai tera upkar
+  Nainoṅ mein teri yaad ki jyoti zehnoṅ mein teri murat hai
+  Saaṅseṅ haiṅ tere naam ki maala man mein pyaar ki daulat hai
+  Ae jag daata mere badan ke rom rom par hai tera upkaar
 
   5
-  Misam Salman aur Abuzar sab humko pahchane hain
-  Teri gali ke bhikshu hain hum Qambar humko jaane hain
+  Maisam Salman aur Abuzar sab ham ko pehchaane haiṅ
+  Teri gali ke bhikshu haiṅ ham Qanbar ham ko jaane haiṅ
   Bhej de Maula bhej de ab Hasnain ka sadqa kar de bera paar
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
