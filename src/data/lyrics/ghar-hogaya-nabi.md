@@ -6,42 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar hogaya nabi ka barbaad karbala mein
-  Mardon mein bas bache hai sajjad karbala mein
+  Ghar ho gaya Nabi ka barbaad Karbala mein
+  Mardoṅ mein bas bache haiṅ Sajjad Karbala mein
 
   1
-  Abbas hai na akbar zainab kise pukaare
-  Maqtal mein bujh gaye hai ghar ke chiraag saare
-  Ranj o alam se dil hai aabaad karbala mein
+  Abbas haiṅ na Akbar Zainab kise pukaare
+  Maqtal mein bujh gaye haiṅ ghar ke chiraagh saare
+  Ranj o alam se dil hai aabaad Karbala mein
 
   2
-  Zainab ne kaise dil mein is dard ko chupaya
-  Kis darja saabira thi aansu na ek bahaya
-  Bhai pe kar ke sadqe aulaad karbala mein
+  Zainab ne kaise dil mein is dard ko chhupaaya
+  Kis darja saabira thi aaṅsu na ek bahaaya
+  Bhai pe kar ke sadqe aulaad Karbala mein
 
   3
-  Zainab ko karbala mein kitne ghamon ne loota
-  Saydaniyo ke zewar na mehramon ne loota
-  Kya kya na guzri haye bedaad karbala mein
+  Zainab ko Karbala mein kitne ghamoṅ ne luta
+  Sayyidaaniyoṅ ke zewar naamehramoṅ ne luta
+  Kya kya na guzri haaye bedaad Karbala mein
 
   4
-  Sab cheente thay zaalim bewon ki chadaron ko
-  Hasrat se dekhti thi ahbaab ke saron ko
-  Koi na tha jo sunta faryaad karbala mein
+  Sab chhinte the zaalim bewaoṅ ki chaadaroṅ ko
+  Hasrat se dekhti thi ahbaab ke saroṅ ko
+  Koi na tha jo sunta faryaad Karbala mein
 
   5
-  Maa'on ki godiyan bhi ran mein ujad gayi hai
-  Sehra mein waarison se apne bichad gayi hai
-  Bas rehgayi hai baakhi ek yaad karbala mein
+  Maaoṅ ki godiyaaṅ bhi ran mein ujar gayi hai
+  Sahra mein waarisoṅ se apne bichhar gayi hai
+  Bas reh gayi hai baaqi ek yaad Karbala mein
 
   6
-  Baad e hussain akhtar zainab ka tha ye noha
-  Abbas hai na qasim kis ko bulaun baba
-  Aajao tum hi behre imdaad karbala mein
+  Baad-e-Husain Akhtar Zainab ka tha ye noha
+  Abbas hai na Qasim kis ko bulaauṅ Baba
+  Aa jaao tum hi bahr-e-imdaad Karbala mein
 # source_id: nohayonline:0fd6f5cb48ee4744c6b9
 # source_url: https://www.nohayonline.com/details_content.php?id=958
 # raw_sha256: c0fc2a1368f6e4506c5e818442609b0bf6b8fbaf1f44a19a94950be266f058a8
@@ -51,30 +52,30 @@ romanLyrics: |-
 
 ۱
 عباس ہیں نہ اکبر زینب کسے پکارے
-مقتل میں بجھ گےء ہیں گھر کے چراغ سارے
+مقتل میں بجھ گئے ہیں گھر کے چراغ سارے
 رنج و الم سے دل ہے آباد کربلا میں
 
 ۲
 زینب نے کیسے دل میں اس درد کو چھپایا
-کس درجہ صابرہ تھی آنسوں نہ اک بہایا
+کس درجہ صابرہ تھی آنسو نہ اک بہایا
 بھائی پہ کر کے صدقے اولاد کربلا میں
 
 ۳
 زینب کو کربلا میں کتنے غموں نے لوٹا
-سیدانیوں کے زیور نہ محرموں نے لوٹا
-کیا کیا نہ گزری ہاے بیداد کربلا میں
+سیدانیوں کے زیور نامحرموں نے لوٹا
+کیا کیا نہ گزری ہائے بیداد کربلا میں
 
 ۴
-سب چھینتے تھے ظالم بیووءں کی چادروں کو
+سب چھینتے تھے ظالم بیواؤں کی چادروں کو
 حسرت سے دیکھتی تھی احباب کے سروں کو
 کوئی نہ تھا جو سنتا فریاد کربلا میں
 
 ۵
 ماؤں کی گودیاں بھی رن میں اجڑ گئی ہے
-صحرا میں وارثوں سے اپنے بچھڑ گیء ہے
-بس رہ گیء ہے باقی اک یاد کربلا میں
+صحرا میں وارثوں سے اپنے بچھڑ گئی ہے
+بس رہ گئی ہے باقی اک یاد کربلا میں
 
 ۶
-بعد حسین اختر زینب کا تھا یہ نوحہ
+بعدِ حسین اختر زینب کا تھا یہ نوحہ
 عباس ہے نہ قاسم کس کو بلاؤں بابا
-آجاؤ تم ہی بہر امداد کربلا میں
+آجاؤ تم ہی بہرِ امداد کربلا میں

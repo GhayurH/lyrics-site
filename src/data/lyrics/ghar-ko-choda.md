@@ -1,42 +1,43 @@
 ---
 title: "گھر کو چھوڑا شاہ نے جنگل بسانے کے لئے"
-alternateTitle: "Ghar Ko Choda"
+alternateTitle: "Ghar Ko Chhora"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Salam"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ghar Ko Choda"]
 published: false
 romanLyrics: |-
-  Ghar ko choda shaah ne jangal basane ke liye
-  Karbala may aaye thay jannat may jaane ke liye
+  Ghar ko chhora Shaah ne jangal basaane ke liye
+  Karbala mein aaye the jannat mein jaane ke liye
 
   1
-  Zohr ko zainab se jab milne gaye ghar may hussain
-  Koi dweodi par na tha parda uthane ke liye
+  Zohr ko Zainab se jab milne gaye ghar mein Husain
+  Koi deorhi par na tha parda uthaane ke liye
 
   2
-  Sheh uthe pad kar namaze subah mehshar hogaya
-  Hazrate zainab chali kapde pehnane ke liye
+  Sheh uthe parh kar namaaz-e-subh mahshar ho gaya
+  Hazrat-e-Zainab chali kapre pehnaane ke liye
 
   3
-  Kehti thi maa khat mere akbar ko tha paighame marg
-  Ye jawani aayi thi goya bhulaane ke liye
+  Kehti thi maaṅ khat mere Akbar ko tha paighaam-e-marg
+  Ye jawaani aayi thi goya bhulaane ke liye
 
   4
-  Thi sada zehra ki zainab margaya tera hussain
-  Ghar my jaa beti safay matam bichane ke liye
+  Thi sada Zehra ki Zainab mar gaya tera Husain
+  Ghar mein jaa beti saf-e-maatam bichhaane ke liye
 # source_id: nohayonline:f5ba0f284ff93260ad0c
 # source_url: https://www.nohayonline.com/content_salaam.php?id=20
 # raw_sha256: a067a3339bef3029d6c643bc703567c9c7109cb66872eaeac7ea12fcebb6ba86
 ---
 
 گھر کو چھوڑا شاہ نے جنگل بسانے کے لئے
-کربلا میں آے تھے جنت میں جانے کے لئے
+کربلا میں آئے تھے جنت میں جانے کے لئے
 
 ۱
-ظہر کو زینب سے جب ملنے گےء گھر میں حسین
+ظہر کو زینب سے جب ملنے گئے گھر میں حسین
 کوئی دیوڑھی پر نہ تھا پردہ اٹھانے کے لئے
 
 ۲
@@ -44,8 +45,8 @@ romanLyrics: |-
 حضرت زینب چلی کپڑے پہنانے کے لئے
 
 ۳
-کہتی تھی ماں خط میرے اکب کو تھا پیغام مرگ
-یہ جوانی آی تھی گویا بلانے کے لئے
+کہتی تھی ماں خط میرے اکبر کو تھا پیغامِ مرگ
+یہ جوانی آئی تھی گویا بلانے کے لئے
 
 ۴
 تھی صدا زہرا کی زینب مرگیا تیرا حسین

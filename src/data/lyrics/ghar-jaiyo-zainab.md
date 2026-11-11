@@ -1,60 +1,61 @@
 ---
-title: "شہ نے کہا جب شام سے گھر جاییو زینب"
+title: "شہ نے کہا جب شام سے گھر جائیو زینب"
 alternateTitle: "Ghar Jaiyo Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shakir Hussain"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh ne kaha jab shaam se ghar jaaiyo zainab
-  Sughra ko meri seene se liptaiyo zainab
+  Sheh ne kaha jab Shaam se ghar jaaiyo Zainab
+  Sughra ko meri sine se liptaaiyo Zainab
 
   1
-  Maange jo kaneezi mein sakina ko sitamgar
-  Tu minnate kar kar usay chudwaiyo zainab
+  Maange jo kanizi mein Sakina ko sitamgar
+  Tu minnateṅ kar kar use chhurwaaiyo Zainab
 
   2
-  Mil jaaye agar pani to sab pyason se pehle
-  Pani meri sakina ko pilwaiyo zainab
+  Mil jaaye agar paani to sab pyaasoṅ se pehle
+  Paani meri Sakina ko pilwaaiyo Zainab
 
   3
-  Dekhe jo nishan rassi ke sughra dam e giryan
-  Baazu mein rasan thi na ye farmiyo zainab
+  Dekhe jo nishaaṅ rassi ke Sughra dam-e-giryaaṅ
+  Baazu mein rasan thi na ye farmaaiyo Zainab
 
   4
-  Mil jaaye agar chadarein to sab bewon se pehle
-  Chadar tu meri kubra ko pinwaiyo zainab
+  Mil jaaye agar chaadareṅ to sab bewaoṅ se pehle
+  Chaadar tu meri Kubra ko pinwaaiyo Zainab
 
   5
-  Mil jaaye agar doodh to do koozon mein bhar ke
-  Fateha mere asghar ki tu dilwaiyo zainab
+  Mil jaaye agar dudh to do kuzoṅ mein bhar ke
+  Faateha mere Asghar ki tu dilwaaiyo Zainab
 # source_id: nohayonline:2e8ef4ddb506d150a57f
 # source_url: https://www.nohayonline.com/details_content.php?id=2672
 # raw_sha256: 3082ecf0bf42b488ae07ba56f25c4ca5c577227803649d14c86c758a365e87a2
 ---
-شہ نے کہا جب شام سے گھر جاییو زینب
-صغرا کو میری سینے سے لپٹاییو زینب
+شہ نے کہا جب شام سے گھر جائیو زینب
+صغرا کو میری سینے سے لپٹائیو زینب
 
 ۱
 مانگے جو کنیزی میں سکینہ کو ستمگر
-تو منتیں کر کر اسے چھڑواییو زینب
+تو منتیں کر کر اسے چھڑوائیو زینب
 
 ۲
-مل جاے اگر پانی تو سب پیاسوں سے پہلے
-پانی میری سکینہ کو پلواییو زینب
+مل جائے اگر پانی تو سب پیاسوں سے پہلے
+پانی میری سکینہ کو پلوائیو زینب
 
 ۳
-دیکھے جو نشاں رسی کے صغرا دم گریاں
-بازو میں رسن تھی نہ یہ فرماییو زینب
+دیکھے جو نشاں رسی کے صغرا دمِ گریاں
+بازو میں رسن تھی نہ یہ فرمائیو زینب
 
 ۴
-مل جاے اگر چادریں تو سب بیوؤں سے پہلے
-چادر تو میری کبرا کو پنواییو زینب
+مل جائے اگر چادریں تو سب بیواؤں سے پہلے
+چادر تو میری کبرا کو پنوائیو زینب
 
 ۵
-مل جاے اگر دودھ تو دو کوزوں میں بھر کے
+مل جائے اگر دودھ تو دو کوزوں میں بھر کے
 فاتحہ میرے اصغر کی تو دلوائیو زینب
