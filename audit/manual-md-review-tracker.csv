@@ -1466,8 +1466,8 @@ src/data/lyrics/dam-hama-dam-ali-ali.md,standalone_lyrics,imported,tajpoints,pen
 src/data/lyrics/dar-dhoond-ke.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/dar-e-husain-pe-kaasa-utha-ke-le-aaya.md,standalone_lyrics,imported,tajpoints,pending,reviewed,reviewed,reviewed,not_applicable,reviewed,,,
 src/data/lyrics/dar-se-deti-thi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: preamble ""Shaq ab hai judaai ye dil par""; s1 ""Khauf dehshat hai kitni rumaayaan"" (Roman source adds o and reads rumeinan); s7 ""Kya koi kehna un ka na maana""; s9 ""Kya malak"", ""Sab Anees Shah-e-Karbalaai"". Confirm wording and izafat."
-src/data/lyrics/darbar-bulaya-jaata.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/darbar-kaise-jaun.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/darbar-bulaya-jaata.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/darbar-kaise-jaun.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s5 Urdu ""mar gayi hai"" versus Roman ""mar chuki hai""."
 src/data/lyrics/darbar-ke-diye.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/darbar-may-jab-katke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/darbar-se-jab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
