@@ -10,28 +10,29 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aag seene may lagata raha behta pani
-  Baad e ashoor aseeron ne jo dekha pani
+  Aag sine mein lagaata raha behta paani
+  Baad-e-aashur asiroṅ ne jo dekha paani
 
   1
-  Jab alamdar ke baazu ko qalam dekh liya
-  Phir aseeron ne kisi se bhi na maanga pani
+  Jab Alamdar ke baazu ko qalam dekh liya
+  Phir asiroṅ ne kisi se bhi na maanga paani
 
   2
   Ek hasrat se wo darya ki taraf dekhti hai
-  Bache aa aa ke jo kehte hai sakina pani
+  Bachche aa aa ke jo kehte haiṅ Sakina paani
 
   3
-  Waada asghar se nibhate huwe dam tod gayi
-  Saaye may aayi na maa ne piya thanda pani
+  Waada Asghar se nibhaate hue dam tor gayi
+  Saaye mein aayi na maaṅ ne piya thanda paani
 
   4
-  Turbate saani e zehra ki mujawar ban kar
-  Raah-geeron ko pilaati rahi fizza pani
+  Turbat-e-saani-e-Zehra ki mujaawar ban kar
+  Raah giroṅ ko pilaati rahi Fizza paani
 
   5
-  Kaash saqlain mere khwab ko tabeer milay
-  Marte dam mere galay se nahi utra pani
+  Kaash Saqlain mere khwaab ko taabir mile
+  Marte dam mere gale se nahiṅ utra paani
+reciter: Shahid Baltistani
 # source_id: nohayonline:d5589ec7a87a434709a4
 # source_url: https://www.nohayonline.com/details_content.php?id=1408
 # raw_sha256: c1c772462c471a54926fde9a56472d0858149dc06b4dee4253a58b12fdf4ab90
@@ -40,7 +41,7 @@ romanLyrics: |-
 # raw_sha256: 15131b830ec5c117ac00fa3c90ce12cc7586244677296182e5c96e967be3a3e7
 ---
 آگ سینے میں لگاتا رہا بہتا پانی
-بعد عاشور اسیروں نے جو دیکھا پانی
+بعدِ عاشور اسیروں نے جو دیکھا پانی
 
 ۱
 جب علمدار کے بازو کو قلم دیکھ لیا
@@ -51,11 +52,11 @@ romanLyrics: |-
 بچے آ آ کے جو کہتے ہیں سکینہ پانی
 
 ۳
-وعدہ اصغر سے نبھاتے ہوے دم توڑ گیء
-ساے میں آی نہ ماں نے پیا ٹھنڈا پانی
+وعدہ اصغر سے نبھاتے ہوئے دم توڑ گئی
+سائے میں آئی نہ ماں نے پیا ٹھنڈا پانی
 
 ۴
-تربت ثانیء زہرا کی مجاور بن کر
+تربتِ ثانیِ زہرا کی مجاور بن کر
 راہ گیروں کو پلاتی رہی فضہ پانی
 
 ۵
