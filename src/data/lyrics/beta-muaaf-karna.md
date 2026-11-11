@@ -6,61 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Beta muaf karna mujhe dayr ho gayi
-  Noore nazar hassan ke mere paara e jigar
-  Beta muaf karna mujhe dayr ho gayi
-  
+  Beta muaaf karna mujhe der ho gai
+
+  Nur-e-nazar Hasan ke mere paara-e-jigar
+  Beta muaaf karna mujhe der ho gai
+
   1
-  Phaile huwe zameen pe hai tukde kahan kahan
-  Seene pe tere ghodon ki taapon ke hai nishan
-  Bhagdar machi to ghode idhar se huwe udhar
-  
+  Phaile hue zamin pe hai tukre kahaaṅ kahaaṅ
+  Sine pe tere ghoroṅ ki taapoṅ ke hai nishaaṅ
+  Bhagdar machi to ghore idhar se hue udhar
+
   2
   Tum saamne ho aur tumhari talaash hai
-  Kaise uthaun tumko mai tukdon mein laash hai
-  Jaise hua tha tukde mere bhai ka jigar
-  
+  Kaise uthaauṅ tum ko main tukroṅ mein laash hai
+  Jaise hua tha tukre mere bhai ka jigar
+
   3
-  Gehna gaya hai khaak pe farwa ka maahtab
-  Gulshan mein hai batool ke bikhra hua gulaab
-  Bhai ki yaad aati hai hoo dekhta jigar
-  
+  Gehna gaya hai khaak pe Farwa ka maahtaab
+  Gulshan mein hai Batul ke bikhra hua gulaab
+  Bhai ki yaad aati hai huṅ dekhta jigar
+
   4
-  Maine bahot sulaaya hai aaghosh mein tujhe
-  Laashe ko leke jaaunga ghathri mein baandh ke
-  Maa mar na jaaye laash ke tukdon ko dekh kar
-  
+  Main ne bahut sulaaya hai aaghosh mein tujhe
+  Laashe ko le ke jaauṅ ga ghathri mein baandh ke
+  Maaṅ mar na jaae laash ke tukroṅ ko dekh kar
+
   5
-  Kehti hai ye uroose ajal tum ko kya hua
-  Sar par hai tere zakhmon ka sehra saja hua
-  Kuchla hua badan hai jabeen hai lahoo mein tar
-  
+  Kehti hai ye arus-e-ajal tum ko kya hua
+  Sar par hai tere zakhmoṅ ka sehra saja hua
+  Kuchla hua badan hai jabiṅ hai lahu mein tar
+
   6
-  Girte huwe kisi ne pukara jo door se
-  Pahuncha hoo har maqam pe raftaar e noor se
+  Girte hue kisi ne pukaara jo dur se
+  Pahuṅcha huṅ har maqaam pe raftaar-e-nur se
   Ye gham ki inteha thi ke aata na tha nazar
-  
+
   7
-  Haalat tumhari dekh ke seena hua hai shaq
-  Ta hashr hoga ab dil e shabbir ko khalaq
-  Afsos ye rahega na pahuncha mai waqt par
+  Haalat tumhaari dekh ke sina hua hai shaq
+  Ta hashr ho ga ab dil-e-Shabbir ko khalaq
+  Afsos ye rahe ga na pahuṅcha main waqt par
 # source_id: nohayonline:bb05e17575d80d9fe126
 # source_url: https://www.nohayonline.com/details_content.php?id=2327
 # raw_sha256: 2bad4250fb805c94782f86de1dc307428372e0a73b5b563900c280026db5effa
 ---
-
 بیٹا معاف کرنا مجھے دیر ہو گئی
+
 نورِ نظر حسن کے میرے پارہء جگر
 بیٹا معاف کرنا مجھے دیر ہو گئی
 
 ۱
 پھیلے ہوئے زمین پہ ہے ٹکڑے کہاں کہاں
 سینے پہ تیرے گھوڑوں کی ٹاپوں کے ہے نشاں
-بھگدڑ مچی تو گھوڑے ادھر سے ہوے ادھر
+بھگدڑ مچی تو گھوڑے ادھر سے ہوئے ادھر
 
 ۲
 تم سامنے ہو اور تمہاری تلاش ہے
@@ -70,12 +72,12 @@ romanLyrics: |-
 ۳
 گہنا گیا ہے خاک پہ فروہ کا ماہ تاب
 گلشن میں ہے بتول کے بکھرا ہوا گلاب
-بھای کی یاد آتی ہے ہوں دیکھتا جگر
+بھائی کی یاد آتی ہے ہوں دیکھتا جگر
 
 ۴
 میں نے بہت سلایا ہے آغوش میں تجھے
 لاشے کو لے کے جاؤں گا گھٹڑی میں باندھ کے
-ماں مر نہ جاے لاش کے ٹکڑوں کو دیکھ کر
+ماں مر نہ جائے لاش کے ٹکڑوں کو دیکھ کر
 
 ۵
 کہتی ہے یہ عروس اجل تم کو کیا ہوا
@@ -83,7 +85,7 @@ romanLyrics: |-
 کچلا ہوا بدن ہے جبیں ہے لہو میں تر
 
 ۶
-گرتے ہوے کسی نے پکارا جو دور سے
+گرتے ہوئے کسی نے پکارا جو دور سے
 پہنچا ہوں ہر مقام پہ رفتار نور سے
 یہ غم کی انتہا تھی کہ آتا نہ تھا نظر
 
