@@ -1,71 +1,72 @@
 ---
-title: "ہاے مظلومہ فاطمہ زہرا"
-alternateTitle: "Ghame Fatema"
+title: "ہائے مظلومہ فاطمہ زہرا"
+alternateTitle: "Gham-e-Fatema"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye mazlooma fatema zehra
-  Haye mehrooma fatema zehra
+  Haye mazluma Fatema Zehra
+  Haye mehruma Fatema Zehra
 
   1
-  Fatema ka bhare madine may
-  Gham batane koi nahi aaya
-  Ghar jalane ko kalmago aaye
-  Ghar bujhane koi nahi aaya
+  Fatema ka bhare Madine mein
+  Gham bataane koi nahiṅ aaya
+  Ghar jalaane ko kalma go aaye
+  Ghar bujhaane koi nahiṅ aaya
 
   2
-  Kya wo islam ka hi markaz tha
-  Kya madina tha wo mohamed ka
-  Lag rahe thay jahan pe zahra ke
-  Taaziyane koi nahi aaya
+  Kya wo Islam ka hi markaz tha
+  Kya Madina tha wo Muhammad ka
+  Lag rahe the jahaaṅ pe Zahra ke
+  Taaziyaane koi nahiṅ aaya
 
   3
-  Rassiyan thi ali ki gardan may
-  Aur bazaar se guzarte thay
-  Sab tamashayi ban ke takte rahe
-  Aur chudane koi nahi aaya
+  Rassiyaaṅ thi Ali ki gardan mein
+  Aur bazaar se guzarte the
+  Sab tamaashaai ban ke takte rahe
+  Aur chhuraane koi nahiṅ aaya
 
   4
-  Dar jala qatl hogaye mohsin
-  Phasliyan sayyeda ki toot gayi
-  Phir bhi kehte ho tum ke zehra par
-  Zulm dhaane koi nahi aaya
+  Dar jala qatl ho gaye Mohsin
+  Pasliyaaṅ Sayyeda ki tut gayiṅ
+  Phir bhi kehte ho tum ke Zehra par
+  Zulm dhaane koi nahiṅ aaya
 
   5
-  Khud hi chunne lagi nabi zaadi
-  Bikhri tehreer apne baba ki
-  Mustafa ki sanad ke tukdon ko
-  Jab uthaane koi nahi aaya
+  Khud hi chunne lagi Nabi zaadi
+  Bikhri tahrir apne Baba ki
+  Mustafa ki sanad ke tukroṅ ko
+  Jab uthaane koi nahiṅ aaya
 
   6
-  Har sitam fatema pe dhaaya gaya
-  Jalta darwaza bhi giraya gaya
-  Apne mehdi ko di sada usne
-  Jab bachane koi nahi aaya
+  Har sitam Fatema pe dhaaya gaya
+  Jalta darwaaza bhi giraaya gaya
+  Apne Mehdi ko di sada us ne
+  Jab bachaane koi nahiṅ aaya
 
   7
-  Aath shawwal ko hui akbar
-  Phir shahadat nabi ki beti ki
-  Gir raha tha mazaar bibi ka
-  Aur bachane koi nahi aaya
+  Aath Shawwal ko hui Akbar
+  Phir shahaadat Nabi ki beti ki
+  Gir raha tha mazaar Bibi ka
+  Aur bachaane koi nahiṅ aaya
 # source_id: nohayonline:c996c19f993e4a8e84d2
 # source_url: https://www.nohayonline.com/details_content.php?id=1925
 # raw_sha256: e1f05886795741d242268213233ee97f39a4177090efa72164d901c8ca58215f
 ---
 
-ہاے مظلومہ فاطمہ زہرا
-ہاے محرومہ فاطمہ زہرا
+ہائے مظلومہ فاطمہ زہرا
+ہائے محرومہ فاطمہ زہرا
 
 ۱
 فاطمہ کا بھرے مدینے میں
 غم بٹانے کوئی نہیں آیا
-گھر جلانے کو کلمہ گو آے
+گھر جلانے کو کلمہ گو آئے
 گھر بجھانے کوئی نہیں آیا
 
 ۲
@@ -81,13 +82,13 @@ romanLyrics: |-
 اور چھڑانے کوئی نہیں آیا
 
 ۴
-در جلا قتل ہو گےء محسن
-پسلیاں سیدہ کی ٹوٹ گیء
+در جلا قتل ہو گئے محسن
+پسلیاں سیدہ کی ٹوٹ گئیں
 پھر بھی کہتے ہو تم کہ زہرا پر
 ظلم ڈھانے کوئی نہیں آیا
 
 ۵
-خود ہی چن نے لگی نبی زادی
+خود ہی چننے لگی نبی زادی
 بکھری تحریر اپنے بابا کی
 مصطفیٰ کی سند کے ٹکڑوں کو
 جب اٹھانے کوئی نہیں آیا
@@ -99,7 +100,7 @@ romanLyrics: |-
 جب بچانے کوئی نہیں آیا
 
 ۷
-آٹھ شوال کو ہوی اکبر
+آٹھ شوال کو ہوئی اکبر
 پھر شہادت نبی کی بیٹی کی
-گر رہا تھا مزار بی بی کا
+گر رہا تھا مزار بی‌بی کا
 اور بچانے کوئی نہیں آیا

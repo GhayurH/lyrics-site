@@ -1,58 +1,60 @@
 ---
 title: "غمِ حُسین منانا بہت ضروری ہے"
-alternateTitle: "Ghame Hussain Manana"
+alternateTitle: "Gham-e-Husain Manaana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tableegh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghame hussain manana bahot zaroori hai
-  Hussaini shamma jalana bahot zaroori hai
-  
+  Gham-e-Husain manaana bahut zaruri hai
+  Husaini shama jalaana bahut zaruri hai
+
   1
-  Rahe nijaat mein khursheede zindagi ke liye
+  Raah-e-nijaat mein khurshid-e-zindagi ke liye
   Baqa ke waaste khaaliq ki bandagi ke liye
-  Jihalaton ke andheron mein roshni ke liye
-  
+  Jahaalatoṅ ke andheroṅ mein roshni ke liye
+  Husaini shama jalaana bahut zaruri hai
+
   2
-  Wo jis mein asghare masoom ka tabassum hai
-  Wo jis mein ashkon ka sailaab hai talatum hai
-  Wo jis mein aakhri shabbir ki sada gum hai
-  Wo daastan sunana bahot zaroori hai
-  
+  Wo jis mein Asghar-e-Maasum ka tabassum hai
+  Wo jis mein ashkoṅ ka sailaab hai talaatum hai
+  Wo jis mein aakhri Shabbir ki sada gum hai
+  Wo daastaaṅ sunaana bahut zaruri hai
+
   3
-  Ye wo hussain hai jo faqre ibne adam hai
-  Ke jiske zere qadam rifat e do aalam hai
-  Usi hussain ke gham mein ye shore matam hai
-  Ye baat sab ko batana bahot zaroori hai
-  
+  Ye wo Husain hai jo fakhr-e-Ibn-e-Aadam hai
+  Ke jis ke zer-e-qadam rifat-e-do aalam hai
+  Usi Husain ke gham mein ye shor-e-maatam hai
+  Ye baat sab ko bataana bahut zaruri hai
+
   4
-  Wo jisne deen bachaya hai karbala aa kar
-  Wo jisne aakhri sajda kiya tahe khanjar
-  Wo jiske dar pe farishte jhuka rahe hai sar
-  Sar uske dar pe jhukana bahot zaroori hai
-  
+  Wo jis ne din bachaaya hai Karbala aa kar
+  Wo jis ne aakhri sajda kiya tah-e-khanjar
+  Wo jis ke dar pe farishte jhuka rahe haiṅ sar
+  Sar us ke dar pe jhukaana bahut zaruri hai
+
   5
-  Wo bhook-o-pyas wo barchi wo seena e akbar
+  Wo bhuk o pyaas wo barchhi wo sina-e-Akbar
   Wo mashk aur wo baazu kate jo darya par
-  Wo sheh ka aakhri sajda wo shimr ka khanjar
-  Har ek ko yaad dilaana bahot zaroori hai
-  
+  Wo Shah ka aakhri sajda wo Shimr ka khanjar
+  Har ek ko yaad dilaana bahut zaruri hai
+
   6
-  Khamosh aale mohamed ka aaj dera hai
-  Bala ka shaam e ghariban mein ek andhera hai
-  Rasool zadiyan aur khaak par basera hai
-  Aza ka farsh bichana bahot zaroori hai
-  
+  Khaamosh Aal-e-Muhammad ka aaj dera hai
+  Bala ka Shaam-e-Gharibaaṅ mein ek andhera hai
+  Rasul zaadiyaaṅ aur khaak par basera hai
+  Aza ka farsh bichhaana bahut zaruri hai
+
   7
-  Hussain hi to sahara hai aadmi ke liye
-  Hussain hi ki zaroorat hai zindagi ke liye
-  Urooj azme hussaini ko badtari ke liye
-  Nishaan e raah banana bahot zaroori hai
+  Husain hi to sahaara hai aadmi ke liye
+  Husain hi ki zarurat hai zindagi ke liye
+  Uruj azm-e-Husaini ko badtari ke liye
+  Nishaan-e-raah banaana bahut zaruri hai
 # source_id: nohayonline:8087a8d162b12d9c95fc
 # source_url: https://www.nohayonline.com/details_content.php?id=694
 # raw_sha256: a5420a6bb2ad60177fbf68fbb3d126cbf61878ab73ee71dab98db3f13c9b6682
@@ -62,15 +64,16 @@ romanLyrics: |-
 حُسینی شمع جلانا بہت ضروری ہے
 
 ۱
-راہِ نجات میں خورشیدِ زندگی کے لیئے
-بقا کے واسطے خالق کی بندگی کے لیئے
-جہالتوں کے اندھیروں میں روشنی کے لیئے
+راہِ نجات میں خورشیدِ زندگی کے لیے
+بقا کے واسطے خالق کی بندگی کے لیے
+جہالتوں کے اندھیروں میں روشنی کے لیے
+حُسینی شمع جلانا بہت ضروری ہے
 
 ۲
 وہ جس میں اصغرِ معصوم کا تبسم ہے
-وہ جس میں آنکھوں کا سیلاب ہے طلاطم ہے
+وہ جس میں آنکھوں کا سیلاب ہے تلاطم ہے
 وہ جس میں آخری شبیر کی صدا گُم ہے
-وہ داستاںن سُنانا بہت ضروری ہے
+وہ داستاں سُنانا بہت ضروری ہے
 
 ۳
 یہ وہ حُسین ہے جو فخرِ ابنِ آدم ہے
@@ -80,12 +83,12 @@ romanLyrics: |-
 
 ۴
 وہ جس نے دین بچایا ہے کربلا آ کر
-وہ جس نے آخری سجدہ کیا تہہِ خنجر
-وہ جس کے در پہ فرشتے جُھکارہے ہیں سر
+وہ جس نے آخری سجدہ کیا تہِ خنجر
+وہ جس کے در پہ فرشتے جُھکا رہے ہیں سر
 سر اُس کے در پہ جُھکانا بہت ضروری ہے
 
 ۵
-وہ بھوک و پیاس وہ برچھی وہ سینہِ اکبر
+وہ بھوک و پیاس وہ برچھی وہ سینۂ اکبر
 وہ مشک اور وہ بازو کٹے جو دریا پر
 وہ شہ کا آخری سجدہ وہ شمر کا خنجر
 ہر ایک کو یاد دلانا بہت ضروری ہے
