@@ -1,81 +1,82 @@
 ---
 title: "در زنداں پہ سکینہ یہی کرتی تھی بکا"
-alternateTitle: "Dare Zindan Pe"
+alternateTitle: "Dar-e-Zindaaṅ Pe"
+aliases: ["Dare Zindan Pe"]
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaz Rizvi"
+reciter: "Ahsan Husain"
 tags: ["noImage"]
-aliases: []
 published: false
 romanLyrics: |-
-  Dare zindan pe sakina yehi karti thi buka
-  Shaam hone ko hai ab laut ke aao baba
+  Dar-e-zindaaṅ pe Sakina yehi karti thi buka
+  Shaam hone ko hai ab laut ke aao Baba
 
   1
-  Tang hai shaam ka zindan andhera hai bahot
-  Hai nahi aap to ab khaak bichona hai sada
+  Tang hai Shaam ka zindaan andhera hai bahut
+  Haiṅ nahiṅ aap to ab khaak bichhauna hai sada
 
   2
-  Takti rehti hoo parindo ko basad hasrat o yas
-  Kya watan jaungi is qaid se chutkar mai bhala
+  Takti rehti huṅ parindoṅ ko basad hasrat o yaas
+  Kya watan jaauṅ gi is qaid se chhut kar main bhala
 
   3
-  Dekh kar haalate sajjad wo roke kehti
-  Haye bemaar mere bhai pe hai kaisi jafa
+  Dekh kar haalat-e-Sajjad wo ro ke kehti
+  Haae bimaar mere bhaai pe hai kaisi jafa
 
   4
-  Yaad aajate jo asghar kabhi akbar usko
-  Bhai aajao yahan ro ro wo deti thi sada
+  Yaad aa jaate jo Asghar kabhi Akbar us ko
+  Bhaai aa jaao yahaaṅ ro ro wo deti thi sada
 
   5
-  Maa ki aagosh mein kis tarha usay neendh aaye
-  Baap ke seene pe soti rahi bachi jo sada
+  Maaṅ ki aaghosh mein kis tarah use nind aaye
+  Baap ke sine pe soti rahi bachchi jo sada
 
   6
-  Kis tarha dil ko mai behlaun ghuta jaata hai dam
-  Hai na nanhe mere saathi hai na ammu baba
+  Kis tarah dil ko main behlaauṅ ghuta jaata hai dam
+  Hai na nanhe mere saathi hai na ammu Baba
 
   7
-  Iska daaman bhi jala kaano se durr cheen liye
-  Pusht par neele thay aur kaano mein bhi khoon tha jama
+  Is ka daaman bhi jala kaanoṅ se durr chhin liye
+  Pusht par nile the aur kaanoṅ mein bhi khuṅ tha jama
 
   8
-  Rote rote yuhin ek shab jo zara aankh lagi
-  Chaunk kar uthi sakina yehi madar se kaha
+  Rote rote yuṅhi ik shab jo zara aaṅkh lagi
+  Chauṅk kar uthi Sakina jo yehi maadar se kaha
 
   9
-  Shor ye sunke utha neendh se badaqt yazeed
-  Bola zindan mein lejao sare shaahe huda
+  Shor ye sun ke utha nind se badbakht Yazid
+  Bola zindaan mein le jaao sar-e-Shah-e-Huda
 
   10
-  Sab ne bad bad ke salaami shahe mazloom ko di
-  Godh mein leke sare shaah sakina ne kaha
+  Sab ne barh barh ke salaami Shah-e-mazlum ko di
+  God mein le ke sar-e-Shah Sakina ne kaha
 
   11
-  Aap ke baad mujhe shimr ne maare durre
-  Baad baba tere kya kya na sitam humne saha
+  Aap ke baad mujhe Shimr ne maare durre
+  Baad Baba tere kya kya na sitam ham ne saha
 
   12
-  Wo mujhe lene ko aaye hai mai sadqe unke
-  Baba ke saath mai jaungi hui poori dua
+  Wo mujhe lene ko aaye haiṅ main sadqe un ke
+  Baba ke saath main jaauṅ gi hui puri dua
 
   13
-  Bolte bolte khamosh hui jab bibi
-  Roke bano ne kaha dekho to sajjad zara
+  Bolte bolte khaamosh hui jab Bibi
+  Ro ke Bano ne kaha dekho to Sajjad zara
 
   14
-  Kya hua baat nahi karti hai mazloom meri
-  Paas abid jo gaye dekha ke sadma hai naya
+  Kya hua baat nahiṅ karti hai mazlum meri
+  Paas Abid jo gaye dekha ke sadma hai naya
 
   15
-  Hatkadi pehne hue khodi lehad abid ne
-  Khoon bhara kurta kafan bangaya shehzadi ka
+  Hathkari pehne hue khodi lahad Abid ne
+  Khuṅ bhara kurta kafan ban gaya Shahzaadi ka
 
   16
-  Nauha aijaz o hasan ka ye padha ahsan ne
-  Aap bulwaiye rauze pe kare izn ata
+  Noha Aijaz o Hasan ka ye parha Ahsan ne
+  Aap bulwaaiye rauze pe kareṅ izn ata
 # source_id: nohayonline:6027d5597bc7c14659b6
 # source_url: https://www.nohayonline.com/details_content.php?id=857
 # raw_sha256: f18d29662276d74dac6c99fae948a04e1a1af6e21a6519ca235dc692936ea453
@@ -90,18 +91,18 @@ romanLyrics: |-
 
 ۲
 تکتی رہتی ہوں پرندوں کو بصد حسرت و یاس
-کیا وطن جاؤنگی اس قید سے چھٹ کر میں بھلا
+کیا وطن جاؤں گی اس قید سے چھٹ کر میں بھلا
 
 ۳
 دیکھ کر حالت سجاد وہ رو کے کہتی
-ہاے بیمار میرے بھائی پہ ہے کیسی جفا
+ہائے بیمار میرے بھائی پہ ہے کیسی جفا
 
 ۴
-یاد آجاتے جو اصغر کبھی اکبر اسکو
-بھائی آجاؤ یہاں رو رو وہ دیتی تھی صدا
+یاد آ جاتے جو اصغر کبھی اکبر اس کو
+بھائی آ جاؤ یہاں رو رو وہ دیتی تھی صدا
 
 ۵
-ماں کی آغوش میں کس طرح اسے نیند آے
+ماں کی آغوش میں کس طرح اسے نیند آئے
 باپ کے سینے پہ سوتی رہی بچی جو صدا
 
 ۶
@@ -109,36 +110,36 @@ romanLyrics: |-
 ہے نہ ننھے میرے ساتھی ہے نہ عمو بابا
 
 ۷
-اس کا دامن بھی جلا کانوں سے در چھین لیے
+اس کا دامن بھی جلا کانوں سے دُر چھین لیے
 پشت پر نیلے تھے اور کانوں میں بھی خوں تھا جما
 
 ۸
-روتے روتے یونہی اک شب جو زرا آنکھ لگی
+روتے روتے یونہی اک شب جو ذرا آنکھ لگی
 چونک کر اٹھی سکینہ جو یہی مادر سے کہا
 
 ۹
-شور یہ سن کے اٹھا نیند سے بد بخت یزید
-بولا زندان میں لے جاؤ سر شاہ ہدا
+شور یہ سن کے اٹھا نیند سے بدبخت یزید
+بولا زندان میں لے جاؤ سرِ شاہِ ہدیٰ
 
 ۱۰
 سب نے بڑھ بڑھ کے سلامی شہ مظلوم کو دی
-گود میں لیکے سر شاہ سکینہ نے کہا
+گود میں لے کے سر شاہ سکینہ نے کہا
 
 ۱۱
 آپ کے بعد مجھے شمر نے مارے درے
 بعد بابا تیرے کیا کیا نہ ستم ہم نے سہا
 
 ۱۲
-وہ مجھے لینے کو آے ہیں میں صدقے ان کے
-بابا کے ساتھ میں جاؤنگی ہوی پوری دعا
+وہ مجھے لینے کو آئے ہیں میں صدقے ان کے
+بابا کے ساتھ میں جاؤں گی ہوئی پوری دعا
 
 ۱۳
-بولتے بولتے خاموش ہوی جب بی بی
-روکے بانو نے کہا دیکھو تو سجاد زرا
+بولتے بولتے خاموش ہوئی جب بی‌بی
+رو کے بانو نے کہا دیکھو تو سجاد ذرا
 
 ۱۴
 کیا ہوا بات نہیں کرتی ہے مظلوم میری
-پاس عابد جو گےء دیکھا کہ صدمہ ہے نیا
+پاس عابد جو گئے دیکھا کہ صدمہ ہے نیا
 
 ۱۵
 ہتھکڑی پہنے ہوئے کھودی لحد عابد نے
@@ -146,4 +147,4 @@ romanLyrics: |-
 
 ۱۶
 نوحہ اعجاز و حسن کا یہ پڑھا احسن نے
-آپ بلوایے روضے پہ کریں اذن عطا
+آپ بلوائیے روضے پہ کریں اذن عطا
