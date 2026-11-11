@@ -1,74 +1,75 @@
 ---
 title: "اے ناطقِ قرآں یا مولا"
-alternateTitle: "Ek Natiqe Quran"
+alternateTitle: "Ek Naatiq-e-Quran"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay natiq e quran ya maula
-  Ay waaris e quran ya maula
-  Ek natiq e quran naize par quran sunata jaata hai
-  Aur waaris e quran marqad mein khaak udaata jaata hai
+  Ae Naatiq-e-Quraaṅ ya Maula
+  Ae Waaris-e-Quraaṅ ya Maula
+  Ek Naatiq-e-Quraaṅ neze par Quran sunaata jaata hai
+  Aur Waaris-e-Quraaṅ marqad mein haaye khaak uraata jaata hai
 
   1
-  Quran e masayeb ke sar se juzdaan utaare jaate hai
-  Ek ek aayat ke seene mein khanjar jo utaare jaate hai
-  Quran ke haafiz ke haathon quran jalaya jaata hai
+  Quran-e-masaaib ke sar se juzdaan utaare jaate haiṅ
+  Ek ek aayat ke sine mein khanjar jo utaare jaate haiṅ
+  Quran ke haafiz ke haathoṅ Quran jalaaya jaata hai
 
   2
-  Ek chota sa quran abhi naize pe jo maine dekha hai
-  Seh pehlu teer se us ka gala takbeer suna kar cheda hai
-  Ek rehl-numa jhoole ko sar e maidan jalaya jaata hai
+  Ek chhota sa Quran abhi neze pe jo main ne dekha hai
+  Seh pehlu tir se us ka gala takbir suna kar chheda hai
+  Ek rehl numa jhule ko sar-e-maidaan jalaaya jaata hai
 
   3
-  Quran sifat wo do bacche jo doshe nabi ke raakib thay
-  Wo jin ke galay mehboobe khuda chooma karte thay aankhon se
-  Kabhi zehr pilaaya jaata hai teeron pe sulaya jaata hai
+  Quran sifat wo do bachche jo dosh-e-Nabi ke raakib the
+  Wo jin ke gale Mehbub-e-Khuda chuma karte the aaṅkhoṅ se
+  Kabhi zehr pilaaya jaata hai tiroṅ pe sulaaya jaata hai
 
   4
-  Quran ka parda rakhna hai ay umme abiha teri tarha
-  Sajjad ki majboori dekho tadpa hai kisi machli ki tarha
-  Kausar si choti aayat ko turbat mein chupaya jaata hai
+  Quran ka parda rakhna hai ae Umm-e-Abiha teri tarah
+  Sajjad ki majburi dekho tarpa hai kisi machhli ki tarah
+  Kausar si chhoti aayat ko turbat mein chhupaaya jaata hai
 
   5
-  Kuch choti badi aayaat bhi thi ek soora bhi qaidi dekha
-  Bazaar e sitam mein be parda suraj ne wo chehra bhi dekha
-  Jise saani e zahra kehte huwe palkon ko jhukaya jaata hai
+  Kuchh chhoti bari aayaat bhi thiṅ ek sura bhi qaidi dekha
+  Baazaar-e-sitam mein beparda suraj ne wo chehra bhi dekha
+  Jise Saani-e-Zahra kehte hue palkoṅ ko jhukaaya jaata hai
 
   6
-  Tatheer ki aayat jin ke liye khud kaatib e qismat ne likhi
-  Us aayat ki tafseeron ko saaya na mila chadar na mili
-  Baala e sitam be-maqna unhe darbar mein laaya jaata hai
+  Tathir ki aayat jin ke liye khud Kaatib-e-Qismat ne likhi
+  Us aayat ki tafsiroṅ ko saaya na mila chaadar na mili
+  Baalaa-e-sitam be maqna unheṅ darbaar mein laaya jaata hai
 
   7
-  Ay kalmago kuch sharm to kar ay qaari e quran doob ke mar
-  Quran e imamat ki dukhtar kis tarha kare kaanton pe safar
-  In pairon ke riste khoon se zam zam ko banaya jaata hai
+  Ae kalma go kuchh sharm to kar ae qaari-e-Quraaṅ dub ke mar
+  Quran-e-imaamat ki dukhtar kis tarah kare kaaṅtoṅ pe safar
+  In pairoṅ ke riste khuṅ se zam zam ko banaaya jaata hai
 
   8
-  Be-ghusl o kafan kitne quran pamaal kiye haye haye
-  Afsos ke baa e bismillah naizon pe utha ke le aaye
-  Quran ki hurmat loot ke ye kyun jashn manaya jaata hai
+  Be ghusl o kafan kitne Quraaṅ paamaal kiye haaye haaye
+  Afsos ke baa-e-Bismillah nezoṅ pe utha ke le aaye
+  Quran ki hurmat lut ke ye kiuṅ jashn manaaya jaata hai
 
   9
-  Chonsat paare raston mein giray aaghosh se apni maaon ki
-  Khoon rang hui raahon ki zameen in bacchon ki turbat na bani
-  In ujdi godh ki maaon ko phir khoon rulaaya jaata hai
+  Chausath paare rastoṅ mein gire aaghosh se apni maaoṅ ki
+  Khuṅ rang hui raahoṅ ki zamiṅ in bachchoṅ ki turbat na bani
+  In ujri god ki maaoṅ ko phir khun rulaaya jaata hai
 
   10
-  Quran mein rakha hai khudrat ne har khushk o tar ka zikr magar
-  Kuch aise quran dekhe gaye ashoor ko apne khoon mein tar
-  Wo jin ke paseene se kaabe ko ghusl karaya jaata hai
+  Quraaṅ mein rakha hai qudrat ne har khushk o tar ka zikr magar
+  Kuchh aise Quraaṅ dekhe gaye Aashur ko apne khun mein tar
+  Wo jin ke pasine se Kaabe ko ghusl karaaya jaata hai
 
   11
-  Quran e aza hai farshe aza rehaan e aza rizwan e aza
-  Ye nauha e gham roadad-e-sitam zahra ki qasam bar doshe hawa
-  Majlis mein suna kar zahra ko mehman banaya jaata hai
+  Quran-e-aza hai farsh-e-aza Raihaan-e-aza Rizwaan-e-aza
+  Ye noha-e-gham rudaad-e-sitam Zahra ki qasam bar dosh-e-hawa
+  Majlis mein suna kar Zahra ko mehmaan banaaya jaata hai
 # source_id: nohayonline:bfae8435530111066ba7
 # source_url: https://www.nohayonline.com/details_content.php?id=3268
 # raw_sha256: 410f4afbcbd1c687f55aa5441ef25e62688fe4f5c0062396d3c6d82ae49b8da9
@@ -101,7 +102,7 @@ romanLyrics: |-
 ۵
 کچھ چھوٹی بڑی آیات بھی تھیں اِک سورہ بھی قیدی دیکھا
 بازارِ ستم میں بے پردا سورج نے وہ چہرا بھی دیکھا
-جسےثانی زہرا کہتے ہوئے پلکوں کو جھکایا جاتا ہے
+جسے ثانی زہرا کہتے ہوئے پلکوں کو جھکایا جاتا ہے
 
 ۶
 تطہیر کی آیت جن کے لئے خود کاتبِ قسمت نے لکھی

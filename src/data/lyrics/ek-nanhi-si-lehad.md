@@ -1,6 +1,6 @@
 ---
 title: اک ننھی سی لحد رن میں بناتے ہیں حسین
-alternateTitle: Ek Nanhi Si Lehad
+alternateTitle: Ek Nanhi Si Lahad
 language: Urdu
 lang: ur
 direction: rtl
@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek nanhi si lehad ran may banate hai hussain
-  Khaak may doosre mohsin ko chupate hai hussain
+  Ek nanhi si lahad ran mein banaate haiṅ Husain
+  Khaak mein dusre Mohsin ko chhupaate haiṅ Husain
 
   1
-  Daalte jaate hai asghar ke badan par mitti
-  Aur qaimo ki taraf dekhte jaate hai hussain
+  Daalte jaate haiṅ Asghar ke badan par mitti
+  Aur khaimoṅ ki taraf dekhte jaate haiṅ Husain
 
   2
-  Marte dam nanhe se haathon ne jise thaama tha
-  Ab wo daaman ali asghar se churate hai hussain
+  Marte dam nanhe se haathoṅ ne jise thaama tha
+  Ab wo daaman Ali Asghar se chhuraate haiṅ Husain
 
   3
-  Laashe hurr ne kaha rumaal ye dedo jaa kar
-  Zakhm baysheer ka haathon se chupate hai hussain
+  Laash-e-Hur ne kaha rumaal ye de do jaa kar
+  Zakhm be shir ka haathoṅ se chhupaate haiṅ Husain
 
   4
-  Dhoondne aayenge is laash ko naiza bardaar
-  Chup ke bano se ye zainab ko batate hai hussain
+  Dhundne aaeṅ ge is laash ko neza bardaar
+  Chhup ke Bano se ye Zainab ko bataate haiṅ Husain
 
   5
-  Kaha sughra ne ke mar kar to miloongi sheh se
-  Mujhko maloom hai har qabr may aate hai hussain
+  Kaha Sughra ne ke mar kar miluṅ gi Sheh se
+  Mujh ko maalum hai har qabr mein aate haiṅ Husain
 
   6
-  Laashe abbas pa kehti thi ye zehra roke
-  Utho abbas tumhe kabse bulaate hai hussain
+  Laash-e-Abbas pe kehti thiṅ ye Zehra ro ke
+  Utho Abbas tumheṅ kab bulaate haiṅ Husain
 
   7
-  Koi zainab ko bula laaye takallum jaa kar
-  Barchi akbar ke kaleje se churate hai hussain
+  Koi Zainab ko bula laaye Takallum jaa kar
+  Barchhi Akbar ke kaleje se chhuraate haiṅ Husain
 reciter: Meer Hasan Meer
 # source_id: nohayonline:91834567a66be35f20b9
 # source_url: https://www.nohayonline.com/details_content.php?id=195

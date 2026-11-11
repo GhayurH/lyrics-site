@@ -1,41 +1,42 @@
 ---
 title: "اک مہرِ کربلا اور اُس کی تنویریں بہت"
-alternateTitle: "Ek Mehre Karbala"
+alternateTitle: "Ek Mehr-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek mehre karbala aur uski tanveere bahot
-  Aaene mein yun nazar aati hai tasveere bahot
+  Ek Mehr-e-Karbala aur us ki tanvireṅ bahot
+  Aaine mein yuṅ nazar aati haiṅ tasvireṅ bahot
 
   1
-  Haasile ashke ghame shabbir jannat hi nahi
-  Khuld se pehle bhi hai maqsoos jaagere bahot
+  Haasil ashk-e-gham-e-Shabbir jannat hi nahiṅ
+  Khuld se pehle bhi haiṅ makhsus jaagireṅ bahot
 
   2
-  Tu bhi khaake karbala apni jabeen par mal ke dekh
-  Hum ne yun bante hue dekhi hai taqdeere bahot
+  Tuṅ bhi khaak-e-Karbala apni jabiṅ par mal ke dekh
+  Ham ne yuṅ bante hue dekhiṅ haiṅ taqdireṅ bahot
 
   3
-  Rishta e quran o ahlebait kya samjhenge wo
-  Apni marzi se jo karlete hai tafseere bahot
+  Rishta-e-Quran o Ahl-e-Bait kya samjheṅ ge wo
+  Apni marzi se jo kar lete haiṅ tafsireṅ bahot
 
   4
-  Tha ali ka sher aaya aur pani le gaya
-  Sar patakti reh gayi darya pe shamsheere bahot
+  Tha Ali ka sher aaya aur paani le gaya
+  Sar patakhti reh gaiṅ darya pe shamshireṅ bahot
 
   5
-  Raaste ki har kadi zanjeer kat kar gir gayi
-  Thi agarche paon mein abid ke zanjeere bahot
+  Raaste ki har kari zanjir kat kar gir gai
+  Thi agarche paaoṅ mein Aabid ke zanjireṅ bahot
 
   6
-  Is mein shaamil hai lahoo sibte payambar ka urooj
-  Kyun na rakhe karbala ki khaak taaseere bahot
+  Is mein shaamil hai lahu Sibt-e-Paighambar ka Urooj
+  Kiuṅ na rakhe Karbala ki khaak taasireṅ bahot
 # source_id: nohayonline:273e460d64d5f474ba8c
 # source_url: https://www.nohayonline.com/details_content.php?id=644
 # raw_sha256: 0a36a87aa9c60fe78bcacb52cbd25cff24879c504c150c4e8f1033b7f9c97382
@@ -52,7 +53,7 @@ romanLyrics: |-
 ہم نے یوں بنتے ہوئے دیکھیں ہیں تقدیریں بہت
 
 ۳
-رشتہِ قرآن و اہلیبیت کیا سمجھیں گے وہ
+رشتۂ قرآن و اہلِ بیت کیا سمجھیں گے وہ
 اپنی مرضی سے جو کر لیتے ہیں تفسیریں بہت
 
 ۴
@@ -60,9 +61,9 @@ romanLyrics: |-
 سر پٹختی رہ گئیں دریا پہ شمشیریں بہت
 
 ۵
-راستے کی ہر کڑی زنجیر کٹ کرگِر گئی
+راستے کی ہر کڑی زنجیر کٹ کر گِر گئی
 تھی اگرچہ پائوں میں عابد کے زنجیریں بہت
 
 ۶
-اس میں شامل ہے لہو سبطِ پیعمبر کا عروج
+اس میں شامل ہے لہو سبطِ پیغمبر کا عروج
 کیوں نہ رکھے کربلا کی خاک تاسیریں بہت

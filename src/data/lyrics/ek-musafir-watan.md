@@ -5,62 +5,63 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shor e matam hai aah o buka hai
-  Ya elaahi ye kya maajera hai
-  Ek musafir watan se chala hai
+  Shor maatam hai aah o buka hai
+  Ya Ilaahi ye kya maajra hai
+  Ek musaafir watan se chala hai
   Shehr bhar kis liye ro raha hai
 
   1
-  Ranj o hasrat jo hadh se siwa hai
-  Ek mareeza ko ghash aagaya hai
+  Ranj o hasrat jo had se siwa hai
+  Ek mariza ko ghash aa gaya hai
   Gham ki maari musibat zada hai
-  Chota bhai abhi chut gaya hai
+  Chhota bhai abhi chhut gaya hai
 
   2
-  Uff ye sannata bojhal faza hai
-  Rehnuma e sadaqat chala hai
-  Aage aage rawan khaafila hai
-  Peeche peeche koi ro raha hai
+  Uf ye sannaata bojhal faza hai
+  Rehnuma-e-sadaaqat chala hai
+  Aage aage rawaaṅ qaafila hai
+  Pichhe pichhe koi ro raha hai
 
   3
-  Sheh ne ham rahiyon se ye poocha
+  Sheh ne ham raahiyoṅ se ye puchha
   Bolo kya naam hai is jagah ka
-  Doston ke labon par ye aaya
-  Karbala karbala karbala hai
+  Dostoṅ ke laboṅ par ye aaya
+  Karbala Karbala Karbala hai
 
   4
-  Saaye saaye hawa beh rahi hai
+  Saaeiṅ saaeiṅ hawa beh rahi hai
   Ek behen bhai se keh rahi hai
-  Kaun dukhiyari gham seh rahi hai
+  Kaun dukhiyaari gham seh rahi hai
   Dekhna bhai kis ki sada hai
 
   5
-  Kyun qayamat bapa ho rahi hai
-  Kya hua hai jo jaan kho rahi hai
-  Karb se aise maa ro rahi hai
-  Jaise baccha abhi mar gaya hai
+  Kiuṅ qayaamat bapa ho rahi hai
+  Kya hua hai jo jaaṅ kho rahi hai
+  Karb se aise maaṅ ro rahi hai
+  Jaise bachcha abhi mar gaya hai
 
   6
-  Sun ke shaahe umam ne bataya
-  Tum ne ab bhi na pehchana lehja
-  Ye hai maadar hamari azeeza
-  Jin ki awaaz hi marsiya hai
+  Sun ke Shaah-e-Umam ne bataaya
+  Tum ne ab bhi na pehchaana lehja
+  Ye hai maadar hamaari aziza
+  Jin ki aawaaz hi marsiya hai
 
   7
-  Raasta saara ro kar guzara
-  Lab pe faryad thi haye baba
-  Kis liye zaalimon ne sataya
-  Mere bacche ki taqseer kya hai
+  Raasta saara ro kar guzaara
+  Lab pe faryaad thi haaye baba
+  Kis liye zaalimoṅ ne sataaya
+  Mere bachche ki taqsir kya hai
 
   8
-  Yaad kije wo gham naak manzar
-  Shimr e bad bakht kheenche hai khanjar
-  Dekhiye qatl hote hai sarwar
-  Godh mein maa ne sar rakh liya hai
+  Yaad kijiye wo gham naak manzar
+  Shimr bad bakht khinche hai khanjar
+  Dekhiye qatl hote haiṅ Sarwar
+  God mein maaṅ ne sar rakh liya hai
 # source_id: nohayonline:d09c685c7210d0067642
 # source_url: https://www.nohayonline.com/details_content.php?id=3501
 # raw_sha256: 803ca1727c060bf175dd0af0756a9982cb71e9ede3fae80ae669147c12153de8
@@ -89,7 +90,7 @@ romanLyrics: |-
 کربلا کربلا کربلا ہے
 
 ۴
-ساییں ساییں‌ ہوا بہہ رہی ہے
+ساییں ساییں ہوا بہہ رہی ہے
 ایک بہن بھائی سے کہہ رہی ہے
 کون دکھیاری غم سہ رہی ہے
 دیکھنا بھائی کس کی صدا ہے
@@ -104,16 +105,16 @@ romanLyrics: |-
 سن کے شاہ امم نے بتایا
 تم نے اب بھی نہ پہچانا لہجہ
 یہ ہے مادر ہماری عزیزہ
-جن‌ کی آواز ہی مرثیہ ہے
+جن کی آواز ہی مرثیہ ہے
 
 ۷
 راستہ سارا رو کر گزارا
 لب پہ فریاد تھی ہاے بابا
 کس لئے ظالموں نے ستایا
-میرے بچے کی تقسیر کیا ہے
+میرے بچے کی تقصیر کیا ہے
 
 ۸
-یاد کیجیےء وہ غم ناک منظر
+یاد کیجیے وہ غم ناک منظر
 شمر بد بخت کھینچے ہے خنجر
-دیکھیےء قتل ہوتے ہیں سرور
+دیکھیے قتل ہوتے ہیں سرور
 گود میں ماں نے سر رکھ لیا ہے
