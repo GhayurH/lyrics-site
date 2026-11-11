@@ -1,166 +1,168 @@
 ---
 title: "غمِ کربوبلا اللّٰہ و اکبر"
-alternateTitle: "Ghame Karbobala"
+alternateTitle: "Gham-e-Karbobala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hasan Abbas Ahsan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gham e karbobala allah o akbar
-  Ye matam ki sada allah o akbar
-  
+  Gham-e-Karbobala Allah o Akbar
+  Ye maatam ki sada Allah o Akbar
+
   1
-  Yahan khud sar nigo arsh e ula hai
-  Yahin to sajdagaah e ambia hai
-  Yahan ki khaak bhi khaake shifa hai
-  Zameen e karbala allah o akbar
-  
+  Yahaaṅ khud sar niguṅ arsh-e-ula hai
+  Yehi to sajdagaah-e-anbiya hai
+  Yahaaṅ ki khaak bhi khaak-e-shifa hai
+  Zamin-e-Karbala Allah o Akbar
+
   2
-  Bahate hai gham e sheh mein lahoo hum
-  Sar e mehshar rahenge surkh roo hum
-  Yuhin phailayenge ab chaar soo hum
-  
+  Bahaate haiṅ gham-e-Shah mein lahu hum
+  Sar-e-mahshar raheṅge surkh ru hum
+  Yuṅhi phailaayeṅge ab chaar suṅ hum
+  Ye maatam ki sada Allah o Akbar
+
   3
-  Wo saqqa e haram ibne ali hai
-  Alam ke jis ke har soo roshni hai
-  Fazaon mein musalsal keh rahi hai
-  Pharere ki hawa allah o akbar
-  
+  Wo saqqa-e-haram Ibn-e-Ali hai
+  Alam ke jis ke har suṅ roshni hai
+  Fazaaoṅ mein musalsal keh rahi hai
+  Pharere ki hawa Allah o Akbar
+
   4
   Ye wo gham hai ke jis mein zindagi hai
   Isi gham se nazar mein roshni hai
   Yehi gham mohtaram hai bandagi hai
-  Aza e karbala allah o akbar
-  
+  Aza-e-Karbala Allah o Akbar
+
   5
-  Kahin milti nahi aisi balandi
-  Jahan majlis bapa hoti hai sheh ki
-  Wahan aati hai zehra ki sawari
-  Musalla ashk ka allah o akbar
-  
+  Kahiṅ milti nahiṅ aisi bulandi
+  Jahaaṅ majlis bapa hoti hai Shah ki
+  Wahaaṅ aati hai Zehra ki sawaari
+  Musalla ashk ka Allah o Akbar
+
   6
-  Namaz o roza o hajj sab aham hai
-  Ye ehkaam e khuda sab mohtaram hai
-  Mussalon par jabeenein sab ki kham hai
-  Magar farsh e aza allah o akbar
-  
+  Namaaz o roza o hajj sab aham hai
+  Ye ahkaam-e-Khuda sab mohtaram hai
+  Musalloṅ par jabineṅ sab ki kham hai
+  Magar farsh-e-aza Allah o Akbar
+
   7
-  Khuda ka ghar to kaaba bil yaqeen hai
-  Jo yan kham ho wohi roshan jabeen hai
-  Badi pakeeza makke ki zameen hai
-  Magar khaak e shifa allah o akbar
-  
+  Khuda ka ghar to Kaaba bilyaqin hai
+  Jo yaaṅ kham ho wohi roshan jabiṅ hai
+  Bari paakiza Makka ke zamiṅ hai
+  Magar khaak-e-shifa Allah o Akbar
+
   8
-  Bas ek shab mein hua tabdeel manzar
-  Sehr ashoor ki hurr ka muqaddar
-  Chala baatil se aaya raahe haq par
-  Jab akbar ne kaha allah o akbar
-  
+  Bas ik shab mein hua tabdil manzar
+  Sahar Aashur ki Hur ka muqaddar
+  Chala baatil se aaya raah-e-haq par
+  Jab Akbar ne kaha Allah o Akbar
+
   9
-  Wafa haq mein shiyar e ambia hai
-  Magar kya martaba abbas ka hai
-  Faqat us ko zamana keh raha hai
-  Wafaon ka khuda allah o akbar
-  
+  Wafa haq mein shiaar-e-anbiya hai
+  Magar kya martaba Abbas ka hai
+  Faqat us ko zamaana keh raha hai
+  Wafaaoṅ ka Khuda Allah o Akbar
+
   10
-  Huwe jab qatl zainab ke dulaare
-  Wo maa ka sabr dunya kaise bhoole
-  Junhi maqtal se sheh ne laaye laashe
-  Wo sajda shukr ka allah o akbar
-  
+  Hue jab qatl Zainab ke dulaare
+  Wo maaṅ ka sabr duniya kaise bhule
+  Juṅhi maqtal se Shah ne laaye laashe
+  Wo sajda shukr ka Allah o Akbar
+
   11
-  Hai ran mein muntashir qasim ka laasha
-  Uthaye laash kaise jaan e zehra
-  Magar ab kya kare thaam e kaleja
-  Bichate hai aba allah o akbar
-  
+  Hai ran mein muntashir Qasim ka laasha
+  Uthaaye laash kaise jaan-e-Zehra
+  Magar ab kya kare thaame kaleja
+  Bichhaate haiṅ aba Allah o Akbar
+
   12
-  Shahe deen par hai kaisa waqt aaya
-  Ke khaak aur khoon mein ghaltan hai beta
-  Tadapta hai jigar par khaa ke naiza
-  Shabihe mustafa allah o akbar
-  
+  Shah-e-diṅ par hai kaisa waqt aaya
+  Ke khaak aur khun mein ghaltaaṅ hai beta
+  Tarapta hai jigar par khaa ke neza
+  Shabih-e-Mustafa Allah o Akbar
+
   13
-  Wo jhoole se tera maqtal mein aana
-  Gulu e khushk par wo teer khaana
-  Ali asghar na bhoolega zamana
-  Tabassum pyaas ka allah o akbar
-  
+  Wo jhule se tera maqtal mein aana
+  Gulu-e-khushk par wo tir khaana
+  Ali Asghar na bhulega zamaana
+  Tabassum pyaas ka Allah o Akbar
+
   14
-  Kate abbas ke jis waqt shaane
-  To guzri us pa kya allah jaane
-  Tadap mehsoos karli fatema ne
-  Nigaahe maamta allah o akbar
-  
+  Kate Abbas ke jis waqt shaane
+  To guzri us pe kya Allah jaane
+  Tarap mehsus kar li Fatima ne
+  Nigaah-e-maamta Allah o Akbar
+
   15
-  Badan se kat ke sar rakhte hai qudrat
-  Sar e naiza se quran ki tilaawat
-  Hai zinda jaan e zehra ki badaolat
-  Azaano ki sada allah o akbar
-  
+  Badan se kat ke sar rakhte haiṅ qudrat
+  Sar-e-neza se Quraaṅ ki tilaawat
+  Hai zinda jaan-e-Zehra ki badaulat
+  Azaanoṅ ki sada Allah o Akbar
+
   16
-  Riza khaaliq ki banda chaahta hai
+  Raza khaaliq ki banda chaahta hai
   Isi mein bartari hai jaanta hai
-  Magar sheh se khuda khud poochta hai
-  Bata teri riza allah o akbar
-  
+  Magar Shah se Khuda khud puchhta hai
+  Bata teri raza Allah o Akbar
+
   17
-  Kisi ko daulat e aulaad dedi
-  Kisi ko quwwat e parwaaz bakshi
-  Na thi qismat mein wo naymat ataa ki
-  Karam shabbir ka allah o akbar
-  
+  Kisi ko daulat-e-aulaad de di
+  Kisi ko quwwat-e-parwaaz bakhshi
+  Na thi qismat mein wo nemat ata ki
+  Karam Shabbir ka Allah o Akbar
+
   18
-  Chala jab khaafla karbobala se
-  Saje thay raaste jor o jafa se
-  Na hota sabr mumkin ambia se
-  Magar zainul aba allah o akbar
-  
+  Chala jab qaafila Karbobala se
+  Saje the raaste jaur o jafa se
+  Na hota sabr mumkin anbiya se
+  Magar Zain-ul-Aba Allah o Akbar
+
   19
-  Jhulasti dhoop aur akbar ka laasha
-  Ye manzar dekhti thi umme laila
-  Sina ki nok par bete ka sar tha
-  Wo maa ka hausla allah o akbar
-  
+  Jhulasti dhup aur Akbar ka laasha
+  Ye manzar dekhti thi Umm-e-Laila
+  Sinaaṅ ki nok par bete ka sar tha
+  Wo maaṅ ka hausla Allah o Akbar
+
   20
-  Jise suraj ki kirno ne na dekha
+  Jise suraj ki kirnoṅ ne na dekha
   Falak ne bhi na dekha jis ka saaya
-  Raha awaaz par bhi jis ka parda
-  Wohi hai berida allah o akbar
-  
+  Raha aawaaz par bhi jis ka parda
+  Wohi hai berida Allah o Akbar
+
   21
-  Gale mein tauq hai zainul aba ke
-  Hai chaale paon mein raahon mein kaante
-  Wo zanjeerein wo langar taaziane
-  Safar wo dhoop ka allah o akbar
-  
+  Gale mein tauq hai Zain-ul-Aba ke
+  Hai chhaale paaoṅ mein raahoṅ mein kaaṅte
+  Wo zanjireṅ wo langar taaziyaane
+  Safar wo dhup ka Allah o Akbar
+
   22
-  Gham e shabbir ki daulat mili hai
-  Azadaron badi naymat mili hai
-  Kis aasani se ye jannat mili hai
-  Dua e fatema allah o akbar
-  
+  Gham-e-Shabbir ki daulat mili hai
+  Azaadaaroṅ bari nemat mili hai
+  Kis aasaani se ye jannat mili hai
+  Dua-e-Fatima Allah o Akbar
+
   23
-  Yateemi kamsini tashna dahani
-  Tamache taziyane kaan zakhmi
-  Sakina bibi ki thi zindagaani
-  Musalsal marsiya allah o akbar
-  
+  Yatimi kamsini tashna dahaani
+  Tamaanche taaziyaane kaan zakhmi
+  Sakina Bibi ki thi zindagaani
+  Musalsal marsiya Allah o Akbar
+
   24
-  Jo ashkon ka lahoo ka silsila hai
-  Azadari ka ye jo khaafela hai
-  Saleeqa ye jo majlis ka mila hai
-  Hai zainab ki ata allah o akbar
-  
+  Jo ashkoṅ ka lahu ka silsila hai
+  Azaadaari ka ye jo qaafila hai
+  Saliqa ye jo majlis ka mila hai
+  Hai Zainab ki ata Allah o Akbar
+
   25
-  Aza ke ashk hai aankhon ki zeenat
-  Karenge hum rasheed is ki hifazat
-  Hai gham pyason ka is dil ki ibadat
-  Muqaddar ki ata allah o akbar
+  Aza ke ashk hai aankhoṅ ki zinat
+  Kareṅge hum Rasheed is ki hifaazat
+  Hai gham pyaasoṅ ka is dil ki ibaadat
+  Muqaddar ki ata Allah o Akbar
 # source_id: nohayonline:61bab4d150e24c6a41c2
 # source_url: https://www.nohayonline.com/details_content.php?id=1958
 # raw_sha256: 62dc6714388a6414d6fbcc5bbc687d8c9f71065cc2879c5dd340acad737a084c
@@ -171,18 +173,19 @@ romanLyrics: |-
 
 ۱
 یہاں خود سر نگوں عرش علا ہے
-یہی تو سجد گاہ انبیاء ہے
+یہی تو سجدہ گاہ انبیاء ہے
 یہاں کی خاک بھی خاک شفا ہے
 زمین کربلا اللّٰہ اکبر
 
 ۲
 بہاتے ہیں غمِ شہ میں لہو ہم
 سر محشر رہیں گے سرخ رو ہم
-یونہی پھیلاےنگے اب چار سوں ہم
+یونہی پھیلائیں گے اب چار سوں ہم
+یہ ماتم کی صدا اللّٰہ اکبر
 
 ۳
-وہ سقاے حرم ابنِ علی ہے
-الم کے جس کے ہر سوں روشنی ہے
+وہ سقائے حرم ابنِ علی ہے
+علم کے جس کے ہر سوں روشنی ہے
 فضاؤں میں مسلسل کہہ رہی ہے
 پھریرے کی ہوا اللّٰہ اکبر
 
@@ -190,18 +193,18 @@ romanLyrics: |-
 یہ وہ غم ہے کہ جس میں زندگی ہے
 اسی غم سے نظر میں روشنی ہے
 یہی غم محترم ہے بندگی ہے
-عزاے کربلا اللّٰہ اکبر
+عزائے کربلا اللّٰہ اکبر
 
 ۵
 کہیں ملتی نہیں ایسی بلندی
 جہاں مجلس بپا ہوتی ہے شہ کی
 وہاں آتی ہے زہرا کی سواری
-مصلہ اشک کا اللّٰہ اکبر
+مصلیٰ اشک کا اللّٰہ اکبر
 
 ۶
 نماز و روزہ و حج سب اہم ہے
 یہ احکام خدا سب محترم ہے
-مصلوں پر جبینیں سب کی خم ہے
+مصلّوں پر جبینیں سب کی خم ہے
 مگر فرش عزا اللّٰہ اکبر
 
 ۷
@@ -223,14 +226,14 @@ romanLyrics: |-
 وفاؤں کا خدا اللّٰہ اکبر
 
 ۱۰
-ہوے جب قتل زینب کے دلارے
+ہوئے جب قتل زینب کے دلارے
 وہ ماں کا صبر دنیا کیسے بھولے
-جونہی مقتل سے شہ نے لاے لاشے
+جونہی مقتل سے شہ نے لائے لاشے
 وہ سجدہ شکر کا اللّٰہ اکبر
 
 ۱۱
 ہے رن میں منتشر قاسم کا لاشہ
-اٹھاے لاش کیسے جان زہرا
+اٹھائے لاش کیسے جان زہرا
 مگر اب کیا کرے تھامے کلیجہ
 بچھاتے ہیں عبا اللّٰہ اکبر
 
@@ -242,7 +245,7 @@ romanLyrics: |-
 
 ۱۳
 وہ جھولے سے تیرا مقتل میں آنا
-گلوے خشک پر وہ تیر کھانا
+گلوئے خشک پر وہ تیر کھانا
 علی اصغر نہ بھولے گا زمانہ
 تبسم پیاس کا اللّٰہ اکبر
 
@@ -298,12 +301,12 @@ romanLyrics: |-
 غمِ شبیر کی دولت ملی ہے
 عزاداروں بڑی نعمت ملی ہے
 کس آسانی سے یہ جنت ملی ہے
-دعاے فاطمہ اللّٰہ اکبر
+دعائے فاطمہ اللّٰہ اکبر
 
 ۲۳
 یتیمی کمسنی تشنہ دہانی
 طمانچے تازیانے کان زخمی
-سکینہ بی بی کی تھی زندگانی
+سکینہ بی‌بی کی تھی زندگانی
 مسلسل مرثیہ اللّٰہ اکبر
 
 ۲۴
