@@ -1,67 +1,68 @@
 ---
 title: "گھر چلو گھر چلو اے سکینہ"
-alternateTitle: "Ghar Chalo Ay"
+alternateTitle: "Ghar Chalo Ghar Chalo Ae Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["ghar-chalo-ay"]
 published: false
 romanLyrics: |-
-  Ghar chalo ghar chalo ay sakina
-  Qabr e zindan pe zainab pukari
-  Hogayi hai rehaai hamari
+  Ghar chalo ghar chalo ae Sakina
+  Qabr-e-zindaaṅ pe Zainab pukaari
+  Ho gayi hai rihaai hamaari
 
   1
-  Poochti thi ye har baar mujhse
-  Dekh kar aasman ke parinde
-  Phupi amma ye mujhko batado
-  Kab talak jayenge hum madine
-  Utho utho sarwar ki pyari
+  Puchhti thi ye har baar mujh se
+  Dekh kar aasmaaṅ ke parinde
+  Phuphi ammaaṅ ye mujh ko bataa do
+  Kab talak jaayeṅ ge ham Madine
+  Utho utho Sarwar ki pyaari
 
   2
-  Kaan zakhmi hai ab tak tumhare
-  Utho marham unhe mai lagadoo
-  Gar tum na saath aao hamare
-  Kaise ghazi ko chehra dikhaun
-  Apne ammu ki tum ho dulaari
+  Kaan zakhmi haiṅ ab tak hamaare
+  Utho marham unheṅ main lagaa duṅ
+  Gar tum na saath aao hamaare
+  Kaise Ghaazi ko chehra dikhaauṅ
+  Apne ammuṅ ki tum ho dulaari
 
   3
-  Hai ghazab ka andhera yahan par
-  Aur kisi simt ujaala nahi hai
-  Hai parayi ye basti yahan ki
-  Koi ghamkhwar apna nahi hai
-  Hogayi ye phupi tumpe waari
+  Hai ghazab ka andhera yahaaṅ par
+  Aur kisi simt ujaala nahiṅ hai
+  Hai paraai ye basti yahaaṅ ki
+  Koi ghamkhwaar apna nahiṅ hai
+  Ho gayi ye phuphi tum pe waari
 
   4
-  Ab to paidal bhi tum na chalogi
-  Aur na zulm o sitam ko sahogi
-  Na rasan koi baandhega tumko
-  Aur na haaton se parda karogi
-  Mil gayi hai jo chadar tumhari
+  Ab to paidal bhi tum na chalo gi
+  Aur na zulm o sitam ko saho gi
+  Na rasan koi baandhe ga tum ko
+  Aur na haathoṅ se parda karo gi
+  Mil gayi hai jo chaadar tumhaari
 
   5
-  Jab mai jaungi apne watan ko
-  Ujde ghar ko mai seh na sakungi
-  Meri masooma meri sakina
-  Ye batao usay kya kahoongi
-  Tumko pooche jo behna tumhari
+  Jab main jaauṅ gi apne watan ko
+  Ujre ghar ko main seh na sakuṅ gi
+  Meri maasuma meri Sakina
+  Ye bataao use kya kahuṅ gi
+  Tum ko puchhe jo behna tumhaari
 
   6
-  Karbala ki zameen pe hai asghar
-  Aur saath uske soye hai sarwar
-  Kaun dilaasa usay dega dilbar
-  Jo yahan sogayi ho zameen par
-  Mar na jaye ye maadar tumhari
+  Karbala ki zamiṅ pe hai Asghar
+  Aur saath us ke soye haiṅ Sarwar
+  Kaun dilaasa use de ga dilbar
+  Jo yahaaṅ so gayi ho zamiṅ par
+  Mar na jaaye ye maadar tumhaari
 
   7
-  Qaid e zindan se haye ahmed
-  Ab talak bhi reha ho na paayi
-  Sheh ki is laadli ko ay mohsin
-  Ye zameen kis tarha raas aayi
-  Keh rahi thi phupi gham ki maari
+  Qaid-e-zindaaṅ se haae Ahmed
+  Ab talak bhi riha ho na paai
+  Shah ki is laadli ko ae Mohsin
+  Ye zamin kis tarah raas aai
+  Keh rahi thi phuphi gham ki maari
 # source_id: nohayonline:bb5ca7fdaa788185b5b6
 # source_url: https://www.nohayonline.com/details_content.php?id=688
 # raw_sha256: 66c23a03266bef33dda1e19355783ba75ec6dc28ba595a1ffe7c6736d40298e9
@@ -80,9 +81,9 @@ romanLyrics: |-
 
 ۲
 کان زخمی ہیں اب تک ہمارے
-اُٹھو مرہم اُنہیں میں لگادوں
-گر تم نہ ساتھ آئو ہمارے
-کیسے غازی کو چہرہ دیکھائوں
+اُٹھو مرہم اُنہیں میں لگا دوں
+گر تم نہ ساتھ آؤ ہمارے
+کیسے غازی کو چہرہ دکھاؤں
 اپنے عموں کی تم ہو دُلاری
 
 ۳
@@ -100,22 +101,22 @@ romanLyrics: |-
 مل گئی ہے جو چادر تمہاری
 
 ۵
-جب میں جائوں گی اپنے وطن کو
+جب میں جاؤں گی اپنے وطن کو
 اُجڑے گھر کو میں سہہ نہ سکوں گی
-میری معصومع میری سکینہ
-یہ بتائو اُسے کیا کہوں گی
+میری معصومہ میری سکینہ
+یہ بتاؤ اُسے کیا کہوں گی
 تم کو پوچھے جو بہنا تمہاری
 
 ۶
-کربلا کی زمیں پہ ہے ا صغر
+کربلا کی زمیں پہ ہے اصغر
 اور ساتھ اُس کے سوئے ہیں سرور
 کون دلاسا اُسے دے گا دلبر
 جو یہاں سو گئی ہو زمیں پر
 مر نہ جائے یہ مادر تمہاری
 
 ۷
-قید ِ زنداں سے ہائے احمد
+قیدِ زنداں سے ہائے احمد
 اب تلک بھی رہا ہو نہ پائی
-شہ کی اس لادلی کو اے محسن
+شہ کی اس لاڈلی کو اے محسن
 یہ زمین کس طرح راس آئی
 کہہ رہی تھی پھوپھی غم کی ماری

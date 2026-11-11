@@ -6,88 +6,121 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghamzada sakina pad rahi hai nauha
-  Haye meri ghurbat haye meri ghurbat
-  Itne chote sin mein mai hui yateema
+  Ghamzada Sakina parh rahi hai nauha
+  Haae meri ghurbat haae meri ghurbat
+
+  Itne chhote sin mein main hui yatima
+  Haae meri ghurbat haae meri ghurbat
 
   1
-  Kamsini mein kha rahi hoon dar badar ki thokar
-  Mere ammu jaan sogaye neher pe jaa kar
-  Shimr aa raha hai leke taaziyana
+  Kamsini mein khaa rahi huṅ dar badar ki thokar
+  Mere ammu jaaṅ so gaye nehr pe jaa kar
+  Mera Qasim na raha mera Akbar na raha
+  Koi munis na raha koi yaawar na raha
+  Shimr aa raha hai le ke taaziyaana
 
   2
-  Jo bhi aa raha hai maarta hai taaziyane
-  Kaun hai jo aayega sakina ko bachane
+  Jo bhi aa raha hai maarta hai taaziyaane
+  Kaun hai jo aayega Sakina ko bachaane
+  Mera Qasim na raha mera Akbar na raha
+  Koi munis na raha koi yaawar na raha
   Jis pe tha bharosa jab wohi na aaya
 
   3
-  Mera cheh mahine waala bhai bach na paaya
-  Haye zaalimon ne usko maar daala pyasa
-  Kis tarha bhoolun bezuban ka chehra
+  Mera chhe mahine waala bhaai bach na paaya
+  Haae zaalimoṅ ne us ko maar daala pyaasa
+  Mera Qasim na raha mera Akbar na raha
+  Koi munis na raha koi yaawar na raha
+  Kis tarah bhuluṅ bezubaaṅ ka chehra
 
   4
   Mere baap ka gala kata hai mere aage
   Ek din mein mera ghar luta hai mere aage
-  Mujhko bad naseebi ne ye din dikhaya
+  Mera Qasim na raha mera Akbar na raha
+  Koi munis na raha koi yaawar na raha
+  Mujh ko badnasibi ne ye din dikhaaya
 
   5
-  Ay jahan waalon usko chain kaise aaye
-  Jiska baap ran mein bhooka pyasa maara jaye
+  Ae jahaaṅ waaloṅ us ko chain kaise aaye
+  Jis ka baap ran mein bhuka pyaasa maara jaaye
+  Mera Qasim na raha mera Akbar na raha
+  Koi munis na raha koi yaawar na raha
   Phat raha hai gham se ab mera kaleja
 
   6
-  Chadarein bhi cheen kar ke le gaye sitamgar
-  Aale mustafa ko maare jaa rahe hai pathar
-  Khoon mein tar batar hai aaj mera kunba
+  Chaadareṅ bhi chhin kar ke le gaye sitamgar
+  Aal-e-Mustafa ko maare jaa rahe haiṅ patthar
+  Mera Qasim na raha mera Akbar na raha
+  Koi munis na raha koi yaawar na raha
+  Khuṅ mein tar ba tar hai aaj mera kunba
 
   7
-  Aaj bhi sunayi de rahi hai wo karahein
-  Duktare hussain ki wo dard naak aahein
-  Goonjta hai waiz aaj bhi ye nauha
+  Aaj bhi sunaai de rahi hai wo karaaheṅ
+  Dukhtar-e-Husain ki wo dardnaak aaheṅ
+  Mera Qasim na raha mera Akbar na raha
+  Koi munis na raha koi yaawar na raha
+  Gunjta hai Waiz aaj bhi ye nauha
 # source_id: nohayonline:23132a4afa7259326d6f
 # source_url: https://www.nohayonline.com/details_content.php?id=2858
 # raw_sha256: 42d839ac55135ad30dac0e1dd47e24aa541fce7b9cf6a8a04a59dbf052acb63e
 ---
 
 غمزدہ سکینہ پڑھ رہی ہے نوحہ
-ہاے میری غربت ہاے میری غربت
-اتنے چھوٹے سن میں میں ہوی یتیمہ
+ہائے میری غربت ہائے میری غربت
+
+اتنے چھوٹے سن میں میں ہوئی یتیمہ
+ہائے میری غربت ہائے میری غربت
 
 ۱
 کمسنی میں کھا رہی ہوں در بدر کی ٹھوکر
-میرے عمو جاں سو گےء نہر پہ جا کر
+میرے عمو جاں سو گئے نہر پہ جا کر
+میرا قاسم نہ رہا میرا اکبر نہ رہا
+کوئی مونس نہ رہا کوئی یاور نہ رہا
 شمر آ رہا ہے لے کے تازیانہ
 
 ۲
 جو بھی آ رہا ہے مارتا ہے تازیانے
-کون ہے جو آے گا سکینہ کو بچانے
+کون ہے جو آئے گا سکینہ کو بچانے
+میرا قاسم نہ رہا میرا اکبر نہ رہا
+کوئی مونس نہ رہا کوئی یاور نہ رہا
 جس پہ تھا بھروسہ جب وہی نہ آیا
 
 ۳
-میرا چھ مہینے والا بھای بچ نہ پایا
-ہاے ظالموں نے اس کو مار ڈالا پیاسا
+میرا چھ مہینے والا بھائی بچ نہ پایا
+ہائے ظالموں نے اس کو مار ڈالا پیاسا
+میرا قاسم نہ رہا میرا اکبر نہ رہا
+کوئی مونس نہ رہا کوئی یاور نہ رہا
 کس طرح بھولوں بے زباں کا چہرہ
 
 ۴
 میرے باپ کا گلا کٹا ہے میرے آگے
 ایک دن میں میرا گھر لٹا ہے میرے آگے
-مجھکو بد نصیبی نے یہ دن دکھایا
+میرا قاسم نہ رہا میرا اکبر نہ رہا
+کوئی مونس نہ رہا کوئی یاور نہ رہا
+مجھ کو بد نصیبی نے یہ دن دکھایا
 
 ۵
-اے جہاں والوں اس کو چین کیسے آے
-جس کا باپ رن‌ میں بھوکا پیاسا مارا جائے
+اے جہاں والوں اس کو چین کیسے آئے
+جس کا باپ رن میں بھوکا پیاسا مارا جائے
+میرا قاسم نہ رہا میرا اکبر نہ رہا
+کوئی مونس نہ رہا کوئی یاور نہ رہا
 پھٹ رہا ہے غم سے اب میرا کلیجہ
 
 ۶
-چادریں بھی چھین کر کے لے گےء ستمگر
-آل مصطفیٰ کو مارے جا رہے ہیں پتھر
+چادریں بھی چھین کر کے لے گئے ستمگر
+آلِ مصطفیٰ کو مارے جا رہے ہیں پتھر
+میرا قاسم نہ رہا میرا اکبر نہ رہا
+کوئی مونس نہ رہا کوئی یاور نہ رہا
 خوں میں تر بہ تر ہے آج میرا کنبہ
 
 ۷
 آج بھی سنائی دے رہی ہے وہ کراہیں
-دختر حسین کی وہ درد ناک آہیں
-گونجتا ہے وایض آج بھی یہ نوحہ
+دخترِ حسین کی وہ درد ناک آہیں
+میرا قاسم نہ رہا میرا اکبر نہ رہا
+کوئی مونس نہ رہا کوئی یاور نہ رہا
+گونجتا ہے واعظ آج بھی یہ نوحہ
