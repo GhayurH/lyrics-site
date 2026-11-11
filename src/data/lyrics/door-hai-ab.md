@@ -8,13 +8,14 @@ kalamType: "Noha"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Raza Ali Khan"
 romanLyrics: |-
-  Door hai ab dastagaah e jabr o istebdaad se
-  Uth nahi sakta hai shor e naala o faryad se
+  Dur hai ab dastgaah-e-jabr o istibdaad se
+  Uth nahiṅ sakta hai shor-e-naala o faryaad se
 
   1
-  Nau shabein jaaga hua tha paasban e ahlebait
-  So gaya pehra badal ke zainab e nashaad se
+  Nau shabeṅ jaaga hua tha paasbaan-e-Ahl-e-Bait
+  So gaya pehra badal ke Zainab-e-naashaad se
 # source_id: nohayonline:8799b771487d19edb9b5
 # source_url: https://www.nohayonline.com/details_content.php?id=2177
 # raw_sha256: 81acd21b8b43a01f15678a6ffdd3614bbecbeb0b301730c58b7034989767f2d0

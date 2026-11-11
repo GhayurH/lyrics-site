@@ -9,51 +9,52 @@ poet: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Mir Sajjad Mir"
 romanLyrics: |-
-  Hum farsh bichate hai dua deti hai zehra
-  Shabbir pe rone ka sila deti hai zehra
+  Hum farsh bichhaate haiṅ dua deti haiṅ Zehra
+  Shabbir pe rone ka sila deti haiṅ Zehra
 
   1
-  Har saal tabarruk mein kami yun nahi hoti
-  Majlis mein mera haath bataa deti hai zehra
+  Har saal tabarruk mein kami yuṅ nahiṅ hoti
+  Majlis mein mira haath banta deti haiṅ Zehra
 
   2
-  Mai roshni karta hoo azakhano mein jaa kar
-  Turbat pe diya maa ki jala deti hai zehra
+  Main raushni karta huṅ azaakhaanoṅ mein jaa kar
+  Turbat pe diya maaṅ ki jala deti haiṅ Zehra
 
   3
-  Phailaate hai jo haath tabarruk ki safon mein
-  Un logon ko hissay mein ana deti hai zehra
+  Phailaate haiṅ jo haath tabarruk ki safoṅ mein
+  Un logoṅ ko hisse mein ana deti haiṅ Zehra
 
   4
-  Ashoor ko jab tak na uthe taaziya sheh ka
-  Maayein kahan bachon ko ghiza deti hai zehra
+  Aashur ko jab tak na uthe taaziya Shah ka
+  Maaeṅ kahaaṅ bachchoṅ ko ghiza deti haiṅ Zehra
 
   5
-  Kuch hota nahi is liye zanjeer zano ko
-  Sajjad ke sadqe mein shifa deti hai zehra
+  Kuchh hota nahiṅ is liye zanjirzanoṅ ko
+  Sajjad ke sadqe mein shifa deti haiṅ Zehra
 
   6
-  Rumaal jo tar hota hai ashkon se hamare
-  Wo shaah ke zakhmo pe laga deti hai zehra
+  Rumaal jo tar hota hai ashkoṅ se hamaare
+  Wo Shaah ke zakhmoṅ pe laga deti haiṅ Zehra
 
   7
-  Sheh bolay bahattar ke janazon pe ye ro kar
-  Jeet raho tum sab ko dua deti hai zehra
+  Shah bole bahattar ke janaazoṅ pe ye ro kar
+  Jite raho tum sab ko dua deti haiṅ Zehra
 
   8
-  Padti hai nazar zakhmon pe jab binte ali ke
-  Shabbir ke zakhmon ko bhula deti hai zehra
+  Parti hai nazar zakhmoṅ pe jab Bint-e-Ali ke
+  Shabbir ke zakhmoṅ ko bhula deti haiṅ Zehra
 
   9
-  Sajjad ye gham aise kahan milta hai sab ko
-  Khush ho to gham e shaah dila deti hai zehra
+  Sajjad ye gham aise kahaaṅ milta hai sab ko
+  Khush hoṅ to gham-e-Shaah dila deti haiṅ Zehra
 # source_id: nohayonline:f244286948640664f532
 # source_url: https://www.nohayonline.com/details_content.php?id=1639
 # raw_sha256: ea25f2dc7c4e16609490685827f089a99a43121148ef1b5d89ba2935aa438358
 ---
 ہم فرش بچھاتے ہیں دعا دیتی ہیں زہرا
-‎شبیر پہ رونے کا صلہ دیتی ہیں زہرا
+شبیر پہ رونے کا صلہ دیتی ہیں زہرا
 
 ۱
 ہر سال تبرک میں کمی یوں نہیں ہوتی
@@ -61,27 +62,27 @@ romanLyrics: |-
 
 ۲
 میں روشنی کرتا ہوں عزاخانوں میں جاکر
-تتبت پہ دیا ماں کی جلا دیتی ہیں زہرا
+تربت پہ دیا ماں کی جلا دیتی ہیں زہرا
 
 ۳
-‎پھیلاتے ہیں جو ہاتھ تبرک کی صفوں میں
-‎ان لوگوں کو حصے میں انا دیتی ہیں زہرا
+پھیلاتے ہیں جو ہاتھ تبرک کی صفوں میں
+ان لوگوں کو حصے میں انا دیتی ہیں زہرا
 
 ۴
 عاشور کو جب تک نہ اٹھے تعزیہ شہ کا
 مائیں کہاں بچوں کو غذا دیتی ہیں زہرا
 
 ۵
-‎کچھ ہوتا نہیں اس لیے زنجیرزنوں کو
-‎سجاد کے صدقے میں شفا دیتی ہیں زہرا
+کچھ ہوتا نہیں اس لیے زنجیرزنوں کو
+سجاد کے صدقے میں شفا دیتی ہیں زہرا
 
 ۶
-‎رومال جو تر ہوتا ہے اشکوں سے ہمارے
-‎وہ شاہ کے زخموں پہ لگا دیتی ہیں زہر
+رومال جو تر ہوتا ہے اشکوں سے ہمارے
+وہ شاہ کے زخموں پہ لگا دیتی ہیں زہرا
 
 ۷
-‎ شہہ بولے بہتر کے جنازوں پہ یہ روکر
-‎جیتے رہو تم سب کو دعا دیتی ہیں زہرا
+شہ بولے بہتر کے جنازوں پہ یہ روکر
+جیتے رہو تم سب کو دعا دیتی ہیں زہرا
 
 ۸
 پڑتی ہے نظر زخموں پہ جب بنت علی کے
