@@ -6,47 +6,50 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan ke andhere qaidi mera imam
+  Zindaan ke andhere qaidi mera Imam
+
+  Dushwaar kitni qaid thi Kazim Imam ki
+  Dekhi na kabhi subh aai na shaam thi
 
   1
-  Dushwar kitni qaid thi kazim imam ki
-  Dekhi na kabhi subho aayi na shaam thi
-  Haye kis qadar wo kothri tang o tareek thi
-  Na sajda hi ki jaa thi na thi qayaam ki
+  Haaye kis qadar wo kothri tang o taarik thi
+  Na sajda hi ki jaa thi na thi qiyaam ki
 
   2
-  Kuch zehr de ke maare aur kuch qatal kiye
-  Tazeem khoob ki hai khairul anaam ki
+  Kuch zahr de ke maare aur kuch qatl kiye
+  Taazim khub ki hai Khair-ul-Anaam ki
 
   3
-  Zanjeer o tauq to rag o pay mein paywast thay
-  Mazdoor le ke aaye mayyat imam ki
+  Zanjir o tauq to rag o pai mein paiwast the
+  Mazdur le ke aaye mayyat Imam ki
 
   4
-  Najfi adab se choom le bedi malang ki
-  Jo aaj tak bataati hai tareekh shaam ki
+  Najfi adab se chum le beri malang ki
+  Jo aaj tak bataati hai taarikh Shaam ki
 # source_id: nohayonline:bd51535168633b00e46c
 # source_url: https://www.nohayonline.com/details_content.php?id=3370
 # raw_sha256: 6919693d064efdb85bc8cd8576d0f828a3afcdac9b7a2adb1e83048746999dbb
 ---
 زندان کے اندھیرے قیدی میرا امام
 
-۱
 دشوار کتنی قید تھی کاظم امام کی
-دیکھی نہ کبھی صبح آی نہ شام تھی
-ہاے کس قدر وہ کوٹھری تنگ و تاریک تھی
+دیکھی نہ کبھی صبح آئی نہ شام تھی
+
+۱
+ہائے کس قدر وہ کوٹھری تنگ و تاریک تھی
 نہ سجدہ ہی کی جا تھی نہ قیام کی
 
 ۲
-کچھ زہر دے کے مارے اور کچھ قتل کیےء
+کچھ زہر دے کے مارے اور کچھ قتل کیے
 تعظیم خوب کی ہے خیر الانام کی
 
 ۳
-زنجیر و طوق تو رگ و پےء میں پیوست تھے
+زنجیر و طوق تو رگ و پے میں پیوست تھے
 مزدور لے کے آئے میت امام کی
 
 ۴

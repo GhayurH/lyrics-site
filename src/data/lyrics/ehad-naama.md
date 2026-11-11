@@ -6,94 +6,95 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Syeda Naqvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zameen e qalb pe sheh ki aza ka mausam hai
-  Khata e hurr pe hussaini ata ka mausam hai
-  Mareez nafs ki khaatir dawa ka mausam hai
-  Hussain asr se ahde wafa ka mausam hai
-  Imam e waqt se waada hai sar kata dunga
-  Lahoo ka aakhri khatra bhi mai baha dunga
+  Zamin-e-qalb pe sheh ki aza ka mausam hai
+  Khata-e-Hur pe Husaini ata ka mausam hai
+  Mariz-e-nafs ki khaatir dawa ka mausam hai
+  Husain-e-Asr se ahd-e-wafa ka mausam hai
+  Imam-e-Waqt se waada hai sar kata duṅ ga
+  Lahu ka aakhri khatra bhi main baha duṅ ga
 
-  Al ajal al ajal ajal ya imame zamana
+  Al ajal al ajal al ajal ya Imam-e-Zamaana
 
   1
-  Habeeb e mazahir ki tarha
-  Na khat likh ke mujhko bulana
+  Habib-e-Mazaahir ki tarah
+  Na khat likh ke mujh ko bulaana
   Bujha kar diya aur na hal min
   Ki awaaz se aazmana
   Tere saamne haath baandhe
-  Mai hurr banke tehra milunga
+  Main Hur ban ke thehra miluṅ ga
 
   2
-  Nigahein pareshan sadiyon se
+  Nigaaheiṅ pareshaan sadiyoṅ se
   Kaabe ki jaanib lagi hai
   Tere paak qadmon ki aahat
-  Zameen se abhi uth rahi hai
-  Teri aarzoo may najaf se
-  Mai karbobala tak chalunga
+  Zamiṅ se abhi uth rahi hai
+  Teri aarzu mein Najaf se
+  Main Karb o Bala tak chaluṅ ga
 
   3
-  Bandha mere maathe ke zakhom
-  Pe rumaal wo fatema ka
-  Ho ghodon ki taapon se ran may
+  Bandha mere maathe ke zakhm
+  Par rumaal wo Fatima ka
+  Ho ghoroṅ ki taapoṅ se ran mein
   Badan kaash pamaal mera
-  Mai sau baar bhi jee uthoo to
-  Mai sau baar tujhpe marunga
+  Main sau baar bhi ji uthuṅ to
+  Main sau baar tujh pe maruṅ ga
 
   4
   Wo zakhmi jigar jis ki baais
-  Tu maqtal may ghutno chala tha
-  Kayi baar khaayi thi thokar
-  Kayi baar ran may gira tha
-  Mai akbar ke seene ki barchi
-  Kaleje pe maula sahunga
+  Tu maqtal mein ghutnoṅ chala tha
+  Kai baar khaai thi thokar
+  Kai baar ran mein gira tha
+  Main Akbar ke sine ki barchhi
+  Kaleje pe Maula sahuṅ ga
 
   5
-  Wo shaam e ghariban abhi bhi
+  Wo Shaam-e-Gharibaaṅ abhi bhi
   Mere qalb pe dhal rahi hai
-  Wo raste kadi dhoop may jo
+  Wo raaste kari dhup mein jo
   Sakina bhi chal rahi hai
-  Yateema ki raahon ke kaante
-  Mai palkon se apni chununga
+  Yatima ki raahoṅ ke kaante
+  Main palkoṅ se apni chunuṅ ga
 
   6
-  Ghiri shaam waalon may zainab
+  Ghiri Shaam waaloṅ mein Zainab
   Madad ki sada de rahi hai
-  Jhuka dunga gustaakh nazrein
+  Jhuka duṅ ga gustaakh nazreiṅ
   Jo rauze ki jaanib uthi hai
-  Ay binte ali teri khaatir
-  Mai abbas ban kar ladunga
+  Ae Bint-e-Ali teri khaatir
+  Main Abbas ban kar laruṅ ga
 
   7
-  Pade tauq gardan may chaahe
-  Bandhe mere pairon may bedi
-  Sunega zamana kisi din
+  Pare tauq gardan mein chaahe
+  Bandhe mere pairoṅ mein beri
+  Sune ga zamaana kisi din
   Garajdaar lalkaar meri
-  Mai tareek zinda ki zulmat
-  Se mukhtar ban kar uthunga
+  Main taarik zindaaṅ ki zulmat
+  Se Mukhtar ban kar uthuṅ ga
 # source_id: nohayonline:8653ca3eaa498793a809
 # source_url: https://www.nohayonline.com/details_content.php?id=1706
 # raw_sha256: 25997a0ffb640d33482fce109123be4eaa4c550af69e48b60273282661470cc2
 ---
 زمین قلب پہ شہ کی عزا کا موسم ہے
-خطاے حر پہ حسینی عطا کا موسم ہے
+خطائے حر پہ حسینی عطا کا موسم ہے
 مریض نفس کی خاطر دوا کا موسم ہے
-حسین عصر سے احد وفا کا موسم ہے
-امام وقت سے وعدہ ہے سر کٹا دونگا
-لہو کا آخری خطرہ بھی میں بہا دونگا
+حسین عصر سے عہد وفا کا موسم ہے
+امام وقت سے وعدہ ہے سر کٹا دوں گا
+لہو کا آخری خطرہ بھی میں بہا دوں گا
 
 العجل العجل العجل یا امام زمانہ
 
 ۱
 حبیب مظاہر کی طرح
-نہ خط لکھ کے مجھکو بلانا
-بجھا کر دیا اور نہ ھل من
+نہ خط لکھ کے مجھ کو بلانا
+بجھا کر دیا اور نہ ہل من
 کی آواز سے آزمانا
 تیرے سامنے ہاتھ باندھے
-میں حر بنکے ٹہرا ملوں گا
+میں حر بن کے ٹھہرا ملوں گا
 
 ۲
 نگاہیں پریشان صدیوں سے
@@ -101,7 +102,7 @@ romanLyrics: |-
 تیرے پاک قدموں کی آہٹ
 زمیں سے ابھی اٹھ رہی ہے
 تیری آرزو میں نجف سے
-میں کربوبلا تک چلوں گا
+میں کرب و بلا تک چلوں گا
 
 ۳
 بندھا میرے ماتھے کے زخم
@@ -109,15 +110,15 @@ romanLyrics: |-
 ہو گھوڑوں کی ٹاپوں سے رن میں
 بدن کاش پامال میرا
 میں سو بار بھی جی اٹھوں تو
-میں سو بار تجھ پہ مرونگا
+میں سو بار تجھ پہ مروں گا
 
 ۴
 وہ زخمی جگر جس کی بایس
 تو مقتل میں گھٹنوں چلا تھا
-کیء بار کھای تھی ٹھوکر
-کیء بار رن میں گرا تھا
+کئی بار کھائی تھی ٹھوکر
+کئی بار رن میں گرا تھا
 میں اکبر کے سینے کی برچھی
-کلیجے پہ مولا سہونگا
+کلیجے پہ مولا سہوں گا
 
 ۵
 وہ شام غریباں ابھی بھی
@@ -133,7 +134,7 @@ romanLyrics: |-
 جھکا دوں گا گستاخ نظریں
 جو روضے کی جانب اٹھی ہے
 اے بنت علی تیری خاطر
-میں عباس بن کر لڑونگا
+میں عباس بن کر لڑوں گا
 
 ۷
 پڑے طوق گردن میں چاہے
