@@ -6,71 +6,72 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tableegh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chaman chaman kali kali ali ali ali ali
-  
+  Chaman chaman kali kali Ali Ali Ali Ali
+
   1
-  Mera shahe zaman ali jari o bu shikan ali
-  Shareeke panjatan ali charaghe anjuman ali
-  Khuda ka kaun hai wali ali ali iali ali
-  
+  Mera Shah-e-Zaman Ali jari o bu shikan Ali
+  Sharik-e-Panjatan Ali charaagh-e-anjuman Ali
+  Khuda ka kaun hai wali Ali Ali Ali Ali
+
   2
   Ali ka daaye khambari ata kare qalandari
-  Ali hai faqre buzari hai jiska naara hyderi
-  Shehr shehr gali gali ali ali ali ali
-  
+  Ali hai fakhr-e-Buzari hai jis ka naara Haidari
+  Shahr shahr gali gali Ali Ali Ali Ali
+
   3
-  Ali khuda ki shan hai rasool ki zaban hai
-  Ibatado ki jaan hai bilal ki azan hai
-  Namaz jisme hai dhali ali ali ali ali
-  
+  Ali Khuda ki shaan hai Rasul ki zabaan hai
+  Ibaadatoṅ ki jaan hai Bilaal ki azaan hai
+  Namaaz jis mein hai dhali Ali Ali Ali Ali
+
   4
-  Wo aql bhi shaoor bhi wo ghaibat o zahoor bhi
-  Wo mustufa ka noor bhi wo noor ka ghurooro bhi
-  Hai jiski zaat munjali ali ali iali ali
-  
+  Wo aql bhi shuur bhi wo ghaibat o zuhur bhi
+  Wo Mustafa ka nur bhi wo nur ka ghurur bhi
+  Hai jis ki zaat-e-munjali Ali Ali Ali Ali
+
   5
-  Wo lashkar e sipaah bhi kahin wo baadshah bhi
-  Karam ki baargah bhi hamari sajdagah bhi
-  Ye kehke har bala tali ali ali ali ali
-  
+  Wo lashkar-e-sipaah bhi kahiṅ wo baadshaah bhi
+  Karam ki baargaah bhi hamaari sajdagaah bhi
+  Ye keh ke har bala tali Ali Ali Ali Ali
+
   6
-  Zameen pe bu turaab hai falak pe aaftab hai
-  Khuda ka inteqab hai jahan may la jawab hai
-  Khuda ka naam bhi ali ali ali ali ali
-  
+  Zamiṅ pe Bu Turaab hai falak pe aaftaab hai
+  Khuda ka intikhaab hai jahaaṅ mein laajawaab hai
+  Khuda ka naam bhi Ali Ali Ali Ali Ali
+
   7
-  Wo taygh ki chamak bhi hai wo deen ki kumak bhi hai
-  Wo deen ka falak bhi hai nusairiyo ka shak bhi hai
-  Kisi ka hai mahabali ali ali ali ali
-  
+  Wo tegh ki chamak bhi hai wo din ki kumak bhi hai
+  Wo din ka falak bhi hai Nusairiyoṅ ka shak bhi hai
+  Kisi ka hai maha bali Ali Ali Ali Ali
+
   8
-  Wo deen ka viqar hai khuda ki zulfiqar hai
-  Wo adl ki pukar hai wo aisa taajdaar hai
-  Malak ne jiske aur dhali ali ali ali ali
-  
+  Wo din ka waqaar hai Khuda ki Zulfiqaar hai
+  Wo adl ki pukaar hai wo aisa taajdaar hai
+  Malak ne jis ke aur dhali Ali Ali Ali Ali
+
   9
-  Zameen bhi hai zaman bhi hai makeen bhi hai makan bhi hai
-  Ayan bhi hai niha bhi hai yahan bhi hai wahan bhi hai
-  Rasool ka hai mursali ali ali ali ali
-  
+  Zamiṅ bhi hai zamaaṅ bhi hai makiṅ bhi hai makaaṅ bhi hai
+  Ayaaṅ bhi hai nihaaṅ bhi hai yahaaṅ bhi hai wahaaṅ bhi hai
+  Rasul ka hai mursali Ali Ali Ali Ali
+
   10
-  Namaz hai wazu hai tu khuda ki guftuga hai tu
-  Aza ki aabroo hai tu hamari justujoo hai tu
-  Likha najaf ki har gali ali ali ali ali
-  
+  Namaaz hai wuzu hai tu Khuda ki guftugu hai tu
+  Aza ki aabru hai tu hamaari justuju hai tu
+  Likha Najaf ki har gali Ali Ali Ali Ali
+
   11
-  Khuda ka ehteraam ho rasool ka nizam ho
-  Ali ka intezam ho durood ho salam ho
-  Sada ho ye gali gali ali ali ali ali
-  
+  Khuda ka ehtiraam ho Rasul ka nizaam ho
+  Ali ka intizaam ho durud ho salaam ho
+  Sada ho ye gali gali Ali Ali Ali Ali
+
   12
-  Wo mustufa ka ja-nasheen dua e mehshar e hazeen
-  Kiya hai laaj jab kahin madad ko aa gaye wahin
-  Saynjali saynjali ali ali ali ali
+  Wo Mustafa ka jaanashiṅ dua-e-Mahshar-e-haziṅ
+  Kiya hai laaj jab kahiṅ madad ko aa gaye wahiṅ
+  Sainjali sainjali Ali Ali Ali Ali
 # source_id: nohayonline:504e37592d805ac45d4e
 # source_url: https://www.nohayonline.com/details_content.php?id=633
 # raw_sha256: 49a76ab8a6b4f2e2826f75c833e9af3326bb853c574cf0b37c95845f81abcf46
@@ -79,7 +80,7 @@ romanLyrics: |-
 چمن چمن کلی کلی علی علی علی علی
 
 ۱
-میرا شاہِ ذمن علی جری و بو شکن علی
+میرا شاہِ زمن علی جری و بو شکن علی
 شریکِ پنجتن علی چراغِ انجمن علی
 خُدا کا کون ہے ولی علی علی علی علی
 
@@ -109,7 +110,7 @@ romanLyrics: |-
 خُدا کا نام بھی علی علی علی علی
 
 ۷
-وہ تیغ کی چمک بھی ہے وہ دین کی خُمک بھی ہے
+وہ تیغ کی چمک بھی ہے وہ دین کی کمک بھی ہے
 وہ دین کا فلک بھی ہے نُصیریوں کا شک بھی ہے
 کسی کا ہے مہا بلی علی علی علی علی
 
