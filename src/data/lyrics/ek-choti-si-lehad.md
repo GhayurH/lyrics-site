@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar Yusufi"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek choti si lehad dekho bana kar abid
-  Khoon roya hai sakina ko sula kar abid
+  Ek chhoti si lahad dekho bana kar Abid
+  Khun roya hai Sakina ko sula kar Abid
 
   1
-  Kaise baba ne uthaya tha badan asghar ka
-  Uth na paaya hai sakina ko utha kar abid
+  Kaise baba ne uthaya tha badan Asghar ka
+  Uth na paaya hai Sakina ko utha kar Abid
 
   2
-  Phoool se gaalon pe kehte hai tamachon ke nishan
-  Kaash baba ko dikhaati mai bitha kar abid
+  Phul se gaaloṅ pe kehte haiṅ tamaanchoṅ ke nishaaṅ
+  Kaash baba ko dikhaati main bitha kar Abid
 
   3
-  Ay musalmano tumhe ab na satayegi sada
-  Bole turbat mein sakina ko sula kar abid
+  Ae musalmaanoṅ tumheiṅ ab na sataayegi sada
+  Bole turbat mein Sakina ko sula kar Abid
 
   4
-  Dekh kar khoon bhare kurte ko badan se chipka
-  Gir gaye khaak pe ye nauha suna kar abid
+  Dekh kar khuṅ bhare kurte ko badan se chipka
+  Gir gaye khaak pe ye nauha suna kar Abid
 
   5
-  Ek kohraam utha roye tadap kar maula
-  Amma zainab ko gale apne laga kar abid
+  Ek kohraam utha roye tarap kar Maula
+  Ammaaṅ Zainab ko gale apne laga kar Abid
 
   6
-  Jis tarha sunti thi baba se ye bibi lori
-  Aise talqeen padhi shaane hila kar abid
+  Jis tarah sunti thi baba se ye Bibi lori
+  Aise talqin parhi shaana hila kar Abid
 
   7
-  Bhool na payega momin ye judaai yawar
-  Gham sakina ka chale dil mein basa kar abid
+  Bhul na paayega momin ye judaai Yawar
+  Gham-e-Sakina ka chale dil mein basa kar Abid
 # source_id: nohayonline:306868cbb842278190bf
 # source_url: https://www.nohayonline.com/details_content.php?id=838
 # raw_sha256: 90aa464307084f0e4c8b672f3b006d398e2eaf5f4babc62350094ebc816f7d3a
@@ -56,19 +57,19 @@ romanLyrics: |-
 کاش بابا کو دکھاتی میں بٹھا کر عابد
 
 ۳
-اے مسلمانوں تمہیں اب نہ ستاے گی صدا
+اے مسلمانوں تمہیں اب نہ ستائے گی صدا
 بولے تربت میں سکینہ کو سلا کر عابد
 
 ۴
 دیکھ کر خوں بھرے کرتے کو بدن سے چپکا
-گر گےء خاک پہ یہ نوحہ سنا کر عابد
+گر گئے خاک پہ یہ نوحہ سنا کر عابد
 
 ۵
-ایک کہرام اٹھا روے تڑپ کر مولا
+ایک کہرام اٹھا روئے تڑپ کر مولا
 اماں زینب کو گلے اپنے لگا کر عابد
 
 ۶
-جس طرح سنتی تھی بابا سے یہ بی بی لوری
+جس طرح سنتی تھی بابا سے یہ بی‌بی لوری
 ایسے تلقین پڑھی شانہ ہلا کر عابد
 
 ۷
