@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false

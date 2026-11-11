@@ -1,92 +1,93 @@
 ---
-title: "پڑھکے مہظر جب مدینے سے چلا وہ قافلہ"
+title: "پڑھ کے مہظر جب مدینے سے چلا وہ قافلہ"
 alternateTitle: "Ek Ali Ki Laadli Thi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Padke mehzar jab madine se chala wo khaafila
-  Qasim o abbas o akbar aur sibte mustufa
-  Saath mein zainab sakina aur roohe fatema
-  Syed e sajjad o asghar saath sughra ki dua
-  Khaafila tha ek lekin do thay roohe khaafila
-  Ek ali ki laadli thi ek ali ka laal tha
+  Parh ke mehzar jab Madine se chala wo qaafila
+  Qaasim o Abbas o Akbar aur Sibt-e-Mustafa
+  Saath mein Zainab Sakina aur ruh-e-Faatima
+  Sayyid-e-Sajjaad o Asghar saath Sughra ki dua
+  Qaafila tha ek lekin do the ruh-e-qaafila
+  Ek Ali ki laadli thi ek Ali ka laal tha
 
   1
-  Haye wo kis shaan se nikle thay suye karbala
-  Saath abbas e jari khabze mein tayghe murtuza
-  Markaze tazeem thi do hastiyan har ek ka
+  Haaye wo kis shaan se nikle the su-e-Karbala
+  Saath Abbas-e-jari qabze mein tegh-e-Murtaza
+  Markaz-e-taazim thi do hastiyaaṅ har ek ka
 
   2
-  Apne beton ko fida bhai pe zainab ne kiya
-  Bhai mar ke bhi na zainab se huwa ek pal juda
-  Sar-barehna wo chali wo bar sare naiza chala
+  Apne betoṅ ko fida bhai pe Zainab ne kiya
+  Bhai mar ke bhi na Zainab se hua ek pal juda
+  Sar barahna wo chali wo bar sar-e-naiza chala
 
   3
-  Sar diya bhai ne chadar di bahan ne deen ko
-  Na bahan aisi na aisa bhai hoga momino
-  Jisne sar uncha kiya hai baani-e-islam ka
+  Sar diya bhai ne chaadar di behan ne din ko
+  Na behan aisi na aisa bhai hoga mominoṅ
+  Jis ne sar uncha kiya hai baani-e-Islaam ka
 
   4
-  Sar-barehna thi behan to bhai bhi tha be-kafan
+  Sar barahna thi behan to bhai bhi tha bekafan
   Bhai ke baazu juda behna ke baazu mein rasan
-  Sar kiya dono ne mil kar karbala ka maareka
+  Sar kiya donoṅ ne mil kar Karbala ka maaraka
 
   5
-  Bhai ne cheh maah ke bacche ki mayyat gaad kar
-  Ek nayi tareekh likhi karbal ki khaak par
-  Shukr ka sajda jawabe tay ke marne par kiya
+  Bhai ne chhe maah ke bachche ki mayyat gaar kar
+  Ek nayi taarikh likh di Karbala ki khaak par
+  Shukr ka sajda jawaaṅ bete ke marne par kiya
 
   6
-  Thi rasan basta behan lekin jalalat al-amaan
-  Khutba e zainab se larza thay zameen o aasman
-  Rak diya thakhta palat ke jisne mulke shaam ka
+  Thi rasan basta behan lekin jalaalat al-amaaṅ
+  Khutba-e-Zainab se larzaaṅ the zamin o aasmaaṅ
+  Rakh diya takhta palat ke jis ne mulk-e-Shaam ka
 
   7
-  Bhai khaak o khoon mein ghaltan aur zindani bahan
-  Aabroo-e-mustufa ek aabroo-e-panjatan
-  Daudta tha jism mein dono ke sheere sayyeda
+  Bhai khaak o khuṅ mein ghaltaaṅ aur zindaani behan
+  Aabru-e-Mustafa ek aabru-e-Panjatan
+  Daurta tha jism mein donoṅ ke shir-e-Sayyida
 
   8
-  Tasht mein bhai ka sar zainab bhare darbar mein
-  Koi bhi insaan nahi tha lashkare kuffar mein
-  Khaak madfan mein udaate thay nabiye do sara
+  Tasht mein bhai ka sar Zainab bhare darbaar mein
+  Koi bhi insaaṅ nahiṅ tha lashkar-e-kuffaar mein
+  Khaak madfan mein uraate the Nabi-e-do sara
 
   9
-  Aaj tak qayam hai jinke dam se deene mustufa
-  Naam jinka shaamile juzwe ibaadat hogaya
-  Khudsiyan e arsh ki rehaan aati hai sada
+  Aaj tak qaaim hai jinke dam se din-e-Mustafa
+  Naam jin ka shaamil-e-juzv-e-ibaadat ho gaya
+  Qudsiyaan-e-arsh ki Rehaan aati hai sada
 # source_id: nohayonline:188b1cd63722ba9f3870
 # source_url: https://www.nohayonline.com/details_content.php?id=369
 # raw_sha256: e72494b7b7ad5dfc3574174ae3093004ead8efab866020a50c0b3d8b8b2174bb
 ---
 
-پڑھکے مہظر جب مدینے سے چلا وہ قافلہ
-قاسم و عباس واکبر اور سبطِ مصطفےٰ
+پڑھ کے مہظر جب مدینے سے چلا وہ قافلہ
+قاسم و عباس و اکبر اور سبطِ مصطفےٰ
 ساتھ میں زینب سکینہ اور روحِ فاطمہ
 سیّدِ سجاد اصغر ساتھ صغرا کی دُعا
 قافلہ تھا ایک لیکن دو تھے روحِ قافلہ
-اک علی کی لاڈلی تھی ا ک علی کا لال تھا
+اک علی کی لاڈلی تھی اک علی کا لال تھا
 
 ۱
 ہائے وہ کس شان سے نکلے تھے سُوئے کربلا
 ساتھ عباسِ جری قبضے میں تیغِ مرتضیٰ
-مرکزِتعظیم تھی دو ہستیاں ہر ایک کا
+مرکزِ تعظیم تھی دو ہستیاں ہر ایک کا
 
 ۲
 اپنے بیٹوں کو فدا بھائی پہ زینب نے کیا
-بھائی مرکے بھی نہ زینب سے ہوا اک پل جدا
+بھائی مر کے بھی نہ زینب سے ہوا اک پل جدا
 سر برہنہ وہ چلی وہ بر سرِ نیزہ چلا
 
 ۳
 سر دیا بھائی نے چادر دی بہن نے دین کو
 نہ بہن ایسی نہ ایسا بھائی ہوگا مومنوں
-جس نے سر اُونچا کیا ہے بانیئ اسلام کا
+جس نے سر اُونچا کیا ہے بانیِ اسلام کا
 
 ۴
 سربرہنہ تھی بہن تو بھائی بھی تھا بے کفن
@@ -100,20 +101,20 @@ romanLyrics: |-
 
 ۶
 تھی رسن بستہ بہن لیکن جلالت الاماں
-خطبہئ زینب سے لرزاں تھے زمین و آسماں
+خطبۂ زینب سے لرزاں تھے زمین و آسماں
 رکھ دیا تختہ پلٹ کے جس نے ملکِ شام کا
 
 ۷
 بھائی خاک و خوں میں غلطاں اور زندانی بہن
 آبروئے مصطفےٰ اک آبروئے پنجتن
-دوڑتاتھا جسم میں دونوں کے شیرِسیّدہ
+دوڑتا تھا جسم میں دونوں کے شیرِ سیّدہ
 
 ۸
-تشت میںبھائی کا سر زینب بھرے دربار میں
+تشت میں بھائی کا سر زینب بھرے دربار میں
 کوئی بھی انساں نہیں تھا لشکرِ کفّار میں
-خاک مدفن میں اُڑاتے تھے نبی ئِ دوسرا
+خاک مدفن میں اُڑاتے تھے نبیِ دوسرا
 
 ۹
 آج تک قائم ہے جن کے دم سے دینِ مصطفےٰ
-نام جن کا شامل ِجزوے عبادت ہوگیا
+نام جن کا شاملِ جزوِ عبادت ہو گیا
 قدسیانِ عرش کی ریحان آتی ہے صدا
