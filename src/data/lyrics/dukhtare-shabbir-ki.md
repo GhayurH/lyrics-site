@@ -1,51 +1,52 @@
 ---
 title: "دُخترِ شبیر کی تشنہ دہانی دیکھ کر"
-alternateTitle: "Dukhtare Shabbir Ki"
+alternateTitle: "Dukhtar-e-Shabbir Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Dukhtare Shabbir Ki"]
 published: false
 romanLyrics: |-
-  Dukhtare shabbir ki tashna dahani dekh kar
-  Khoon aankhon mein utar aata hai pani dekh kar
-  
+  Dukhtar-e-Shabbir ki tashna dahaani dekh kar
+  Khun aankhoṅ mein utar aata hai paani dekh kar
+
   1
-  Dono haaton se jigar ko thaam kar tadpe hussain
-  Khaak mein milti mohamed ki nishani dekh kar
-  
+  Donoṅ haathoṅ se jigar ko thaam kar tarpe Husain
+  Khaak mein milti Muhammad ki nishaani dekh kar
+
   2
-  Aks pyason ka nazar aaya jo sathay aab par
-  Rodiye abbas darya ki rawani dekh kar
-  
+  Aks pyaasoṅ ka nazar aaya jo satah-e-aab par
+  Ro diye Abbas darya ki rawaani dekh kar
+
   3
-  Pani pani hogayi darya ki mauje sharm se
-  Hazrate abbas ki aankhon mein pani dekh kar
-  
+  Paani paani ho gayiṅ darya ki maujeṅ sharm se
+  Hazrat-e-Abbas ki aankhoṅ mein paani dekh kar
+
   4
-  Tak rahe hai pyar se bete ki soorat ko hussain
-  Maut roti hai sarahne naujawani dekh kar
-  
+  Tak rahe haiṅ pyaar se bete ki surat ko Husain
+  Maut roti hai sarhaane naujawaani dekh kar
+
   5
-  Sar patakti hai behan qaime mein rote hai haram
-  Halqe shaahe deen pe khanjar ki rawani dekh kar
-  
+  Sar patakhti hai behan khaime mein rote haiṅ haram
+  Halq-e-Shaah-e-din par khanjar ki rawaani dekh kar
+
   6
-  Haye kya batlaye kya guzri dil e shabbir par
-  Ghodon ki taapon mein bhai ki nishani dekh kar
-  
+  Haaye kya batlaaeṅ kya guzri dil-e-Shabbir par
+  Ghoroṅ ki taapoṅ mein bhai ki nishaani dekh kar
+
   7
-  Khushk honton par phirayi jab zaban baysheer ne
-  Rodiya lashkar ada e bezabani dekh kar
+  Khushk hontoṅ par phiraai jab zabaan beshir ne
+  Ro diya lashkar adaa-e-bezabaani dekh kar
 # source_id: nohayonline:fc677784b0d839573143
 # source_url: https://www.nohayonline.com/details_content.php?id=466
 # raw_sha256: 61e26090b591123d0cc265af605d42a0f3c11d4ba8b8e4e87359ae76f4a62ebb
 ---
 
 دُخترِ شبیر کی تشنہ دہانی دیکھ کر
-خون آنکھوں میں اُترآ تا ہے پانی دیکھ کر
+خون آنکھوں میں اُتر آتا ہے پانی دیکھ کر
 
 ۱
 دونوں ہاتھوں سے جگر کو تھام کر تڑپے حُسین
@@ -57,7 +58,7 @@ romanLyrics: |-
 
 ۳
 پانی پانی ہو گئیں دریا کی موجیں شرم سے
-حضرتِ عباسکی آنکھوں میں پانی دیکھ کر
+حضرتِ عباس کی آنکھوں میں پانی دیکھ کر
 
 ۴
 تک رہے ہیں پیار سے بیٹے کی صورت کو حُسین
@@ -65,11 +66,11 @@ romanLyrics: |-
 
 ۵
 سر پٹختی ہے بہن خیمے میں روتے ہیں حرم
-حلقِ شاہِ دین پرخنجر کی روانی دیکھ کر
+حلقِ شاہِ دین پر خنجر کی روانی دیکھ کر
 
 ۶
 ہائے کیا بتلائیں کیا گُزری دلِ شبیر پر
-گھوڑوں کی ٹا پوں میں بھائی کی نشانی دیکھ کر
+گھوڑوں کی ٹاپوں میں بھائی کی نشانی دیکھ کر
 
 ۷
 خشک ہونٹوں پر پھرائی جب زبان بے شیر نے

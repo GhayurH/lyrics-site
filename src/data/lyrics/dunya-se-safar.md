@@ -1,70 +1,71 @@
 ---
-title: "دنیا سے سفر جانب عقبہ ہے نقی کا"
+title: "دنیا سے سفر جانب عقبیٰ ہے نقی کا"
 alternateTitle: "Dunya Se Safar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Azeem Azmi"
+reciter: "Shajar Naqvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dunya se safar jaanib e uqba hai naqi ka
-  Ghamgheen har ek chaahne wala hai naqi ka
+  Dunya se safar jaanib-e-uqba hai Naqi ka
+  Ghamgin har ek chaahne waala hai Naqi ka
 
   1
-  Pardes mein maut aayi hai zehra ke pisar ko
-  Shabbir ka gham sogh manata hai naqi ka
+  Pardes mein maut aayi hai Zehra ke pisar ko
+  Shabbir ka gham sog manaata hai Naqi ka
 
   2
-  Abbas alamdar madad karne ko aao
-  Dam aalame ghurbat mein nikalta hai naqi ka
+  Abbas alamdaar madad karne ko aao
+  Dam aalam-e-ghurbat mein nikalta hai Naqi ka
 
   3
-  Neela hai badan zehr e halahal se sad afsos
-  Reh reh ke dehn khoon ughalta hai naqi ka
+  Nila hai badan zehr-e-halaahal se sad afsos
+  Reh reh ke dahan khun ugalta hai Naqi ka
 
   4
-  Yun saamra aa jaye na yasrab se payambar
-  Ghurbat mein musibat mein sarapa hai naqi ka
+  Yuṅ Saamra aa jaaye na Yasrab se Payambar
+  Ghurbat mein musibat mein saraapa hai Naqi ka
 
   5
-  Saare hi imam aah tadapte hai basad gham
-  Tanhaai ka aalam hai janaza hai naqi ka
+  Saare hi Imam aah tarapte haiṅ basad gham
+  Tanhaai ka aalam hai janaaza hai Naqi ka
 
   6
-  Marqad mein nahi chain taqi ko koi lamha
-  Chain aaye bhi kyun haal hi aisa hai naqi ka
+  Marqad mein nahiṅ chain Taqi ko koi lamha
+  Chain aaye bhi Kiuṅ haal hi aisa hai Naqi ka
 
   7
-  Aulaad ka gham maa se zyada kise hoga
-  Zehra se koi pooche to gham kya hai naqi ka
+  Aulaad ka gham maaṅ se ziyaada kise hoga
+  Zehra se koi puchhe to gham kya hai Naqi ka
 
   8
-  Is tarha azeem aap ne likhi hai ye rudaad
-  Alfaaz bhi kehte hai ye nauha hai naqi ka
+  Is tarah Azeem aap ne likhi hai ye rudaad
+  Alfaaz bhi kehte haiṅ ye nauha hai Naqi ka
 # source_id: nohayonline:8b0136d67b88dba3b2ca
 # source_url: https://www.nohayonline.com/details_content.php?id=1345
 # raw_sha256: d35ef78d830dc3d5e6065052c00cd49749c6c42d02bb021aa8936c9c8178504e
 ---
-دنیا سے سفر جانب عقبہ ہے نقی کا
+دنیا سے سفر جانب عقبیٰ ہے نقی کا
 غمگین ہر ایک چاہنے والا ہے نقی کا
 
 ۱
-پردیس میں موت آی ہے زہرا کے پسر کو
+پردیس میں موت آئی ہے زہرا کے پسر کو
 شبیر کا غم سوگ مناتا ہے نقی کا
 
 ۲
 عباس علمدار مدد کرنے کو آؤ
-دم‌ عالم غربت میں نکلتا ہے نقی کا
+دم عالم غربت میں نکلتا ہے نقی کا
 
 ۳
 نیلا ہے بدن زہر ہلاہل سے صد افسوس
 رہ رہ کے دہن خون اگلتا ہے نقی کا
 
 ۴
-یوں سامرہ آ جاے نہ یثرب سے پیمبر
+یوں سامرہ آ جائے نہ یثرب سے پیمبر
 غربت میں مصیبت میں سراپا ہے نقی کا
 
 ۵
@@ -73,10 +74,10 @@ romanLyrics: |-
 
 ۶
 مرقد میں نہیں چین تقی کو کوئی لمحہ
-چین آے بھی کیوں حال ہی ایسا ہے نقی کا
+چین آئے بھی کیوں حال ہی ایسا ہے نقی کا
 
 ۷
-اولاد کا غم ماں سے ذیادہ کسے ہوگا
+اولاد کا غم ماں سے زیادہ کسے ہوگا
 زہرا سے کوئی پوچھے تو غم کیا ہے نقی کا
 
 ۸

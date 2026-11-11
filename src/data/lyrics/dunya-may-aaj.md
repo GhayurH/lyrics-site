@@ -1,49 +1,50 @@
 ---
 title: "دنیا میں آج حشر کا دن آشکار ہے"
-alternateTitle: "Dunya May Aaj"
+alternateTitle: "Dunya Mein Aaj"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Anees"
+reciter: "Raza Ali Khan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Dunya May Aaj"]
 published: false
 romanLyrics: |-
-  Dunya may aaj hashr ka din aashkaar hai
-  Sibte nabi ke seene pa qatil sawaar hai
+  Dunya mein aaj hashr ka din aashkaar hai
+  Sibt-e-Nabi ke sine pe qaatil sawaar hai
 
   1
-  Mar jaunga mai aap hi ab thodi dayr may
-  Qaalib may rooh ka koi dam ko qaraar hai
+  Mar jaauṅ ga main aap hi ab thori der mein
+  Qaalib mein ruh ka koi dam ko qaraar hai
 
   2
-  Unees sau hai taygh o sinaan o tabar ka zakhm
-  Sang e sitam ke khoon se badan laal zaar hai
+  Unnis sau haiṅ tegh o sinaan o tabar ke zakhm
+  Sang-e-sitam ke khuṅ se badan laala zaar hai
 
   3
-  Hai zalzala zameen ko gehn may hai aaftab
-  Baarish hai khoon ki chashme falak ashk baar hai
+  Hai zalzala zamiṅ ko gahan mein hai aaftaab
+  Baarish hai khuṅ ki chashm-e-falak ashkbaar hai
 
   4
-  Chilla rahi hai qaime se zainab utar layeen
-  Bhai ka mere zakhm se seena figaar hai
+  Chilla rahi hai khaime se Zainab utar laiṅ
+  Bhai ka mere zakhmoṅ se sina figaar hai
 
   5
-  Kehte thay shaah shimr se mujhko na zibha kar
-  Dunya hai chand roz ka kya aetbaar hai
+  Kehte the Shaah Shimr se mujh ko na zabh kar
+  Dunya-e-chand roza ka kya aetibaar hai
 
   6
-  Quran hai saaf seena ye baith'ta hai jis pe tu
-  Bosagah e rasool pe khanjar ki dhaar hai
+  Quraaṅ hai saaf sina ye baitha hai jis pe tu
+  Bosa gah-e-Rasul pe khanjar ki dhaar hai
 
   7
-  Hai an-khareeb phoonke sarafeel soor ko
-  Bas hukme kibriya ka faqat intezaar hai
+  Hai anqarib phunke Saraafil sur ko
+  Bas hukm-e-Kibriya ka faqat intezaar hai
 
   8
-  Ab aage kar bayan na anees e jigar figaar
-  Ye din wo hai ke saara jahan ashk baar hai
+  Ab aage kar bayaaṅ na Anis-e-jigar figaar
+  Ye din wo hai ke saara jahaaṅ ashkbaar hai
 # source_id: nohayonline:bb6cc8e7eec0b2064971
 # source_url: https://www.nohayonline.com/details_content.php?id=2175
 # raw_sha256: 29c810e86dac500367a5f6ccd05d32a48e6d61eb5eb1d31548055b00f3a9c2f7

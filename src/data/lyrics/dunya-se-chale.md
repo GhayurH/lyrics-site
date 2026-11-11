@@ -6,69 +6,72 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jafri"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Har ghar mein bichao farshe aza
-  
-  1
+  Har ghar mein bichhaao farsh-e-aza
   Dunya se chale zaamin maula
-  Kazim ke paak dulaare ko
-  Mamoon ne qaatil zeher diya
-  Hai chaak gareban zakhmi jigar
+
+  Kaazim ke paak dulaare ko
+  Maamun ne qaatil zehr diya
+
+  1
+  Hai chaak garebaaṅ zakhmi jigar
   Aayi hai yateemi maula par
-  Karte hai taqi maula matam
-  Masoom huwe baba se juda
-  
+  Karte haiṅ Taqi maula maatam
+  Maasum hue baba se juda
+
   2
-  Sadaat pe ghurbat chaayi hai
+  Saadaat pe ghurbat chhaai hai
   Mashhad se sada ye aayi hai
-  Phir aale nabi ka ghar ujda
-  Phir ek ali hai qatl huwa
-  
+  Phir Aal-e-Nabi ka ghar ujra
+  Phir ek Ali hai qatl hua
+
   3
-  Kazim ke laal ka hai matam
-  Hai nauha kuna saara aalam
-  Maula ko nasle umayya ne
-  Hai qatl kiya be-jurm o khata
-  
+  Kaazim ke laal ka hai maatam
+  Hai nauha kunaaṅ saara aalam
+  Maula ko nasl-e-Umayya ne
+  Hai qatl kiya bejurm o khata
+
   4
   Jis bhai se milne ke liye
   Hamsheer ne paidal safar kiye
   Afsos wohi bhai na raha
-  Masooma e qum karti hai buka
-  
+  Maasuma-e-Qum karti hai buka
+
   5
-  Mazloom raza ki mayyat par
-  Rote hai nabi zehra hyder
+  Mazlum Raza ki mayyat par
+  Rote haiṅ Nabi Zehra Haidar
   Girya hai shaam ki makhdooma
-  Rota hai ghareeb e karbobala
-  
+  Rota hai gharib-e-Karbobala
+
   6
   Ek sog ka aalam hai taari
-  Rote hai imame zamana bhi
-  Jawad zamane mein jaari
-  Matam hai imam e zaamin ka
+  Rote haiṅ Imam-e-Zamaana bhi
+  Jawad zamaane mein jaari
+  Maatam hai Imam-e-Zaamin ka
 # source_id: nohayonline:d07d6867381bd630421f
 # source_url: https://www.nohayonline.com/details_content.php?id=3371
 # raw_sha256: d30ad4b16ebe355aa1e84f0fe271795f7789c375a75d8a13fbce9d530a1644ca
 ---
 
 ہر گھر میں بچھاؤ فرش عزا
-
-۱
 دنیا سے چلے ضامن مولا
+
 کاظم کے پاک دلارے کو
 مامون نے قاتل زہر دیا
-ہے چاک غریباں زخمی جگر
-آی ہے یتیمی مولا پر
+
+۱
+ہے چاک گریباں زخمی جگر
+آئی ہے یتیمی مولا پر
 کرتے ہیں تقی مولا ماتم
 معصوم ہوئے بابا سے جدا
 
 ۲
 سادات پہ غربت چھائی ہے
-مشہد سے صدا یہ آی ہے
+مشہد سے صدا یہ آئی ہے
 پھر آل نبی کا گھر اجڑا
 پھر ایک علی ہے قتل ہوا
 
@@ -80,9 +83,9 @@ romanLyrics: |-
 
 ۴
 جس بھائی سے ملنے کے لئے
-ہمشیر نے پیدل سفر کیےء
-افسوس وہی بھای نہ رہا
-معصومہء قم کرتی ہے بکا
+ہمشیر نے پیدل سفر کیے
+افسوس وہی بھائی نہ رہا
+معصومۂ قم کرتی ہے بکا
 
 ۵
 مظلوم رضا کی میت پر

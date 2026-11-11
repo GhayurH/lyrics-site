@@ -1548,11 +1548,11 @@ src/data/lyrics/dua-karo-amma.md,standalone_lyrics,imported,nohayonline,pending,
 src/data/lyrics/dua-rasool-ki-pori-hoi-ghadeer-ke-din.md,standalone_lyrics,imported,tajpoints,pending,reviewed,reviewed,reviewed,not_applicable,reviewed,2026-11-08-filename-cleanup,this_commit,
 src/data/lyrics/duaein-roke-karta-tha-ridayen-maangne-wala.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/dukhtare-shabbir-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s3 ""گھرکیاں"" spelling; s5 Urdu ""تطہیر"" vs Roman ""tehreer""; s8 ""مصطفیٰ کے آل"" (کے/کی)."
-src/data/lyrics/dukhtare-shabbir-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dunya-may-aaj.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dunya-se-ab-safar-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dunya-se-chale.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dunya-se-safar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/dukhtare-shabbir-ki.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-first-sweep-dukhtar-dunya-five,,
+src/data/lyrics/dunya-may-aaj.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-first-sweep-dukhtar-dunya-five,,"Need audio/print: s1 ""قالب میں روح کا کوئی دم کو قرار ہے""; s2 ""سنگِ ستم کے خوں سے""; s6 ""قرآں ہے صاف سینہ"" and archived Urdu ""بیٹھا"" vs Roman ""baithta""."
+src/data/lyrics/dunya-se-ab-safar-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-first-sweep-dukhtar-dunya-five,,"Need audio/print: s1 ""معبود آنسوؤں سے کب چشمِ نم نہیں تھی""; s2 archived Urdu ""تازیانے / قید خانے"" vs Roman singular; s3 ""اور یاد کبریا تھا""; s4 ""آنسوؤں کے شمعِ""."
+src/data/lyrics/dunya-se-chale.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-first-sweep-dukhtar-dunya-five,,"Need audio/print: s5 ""گریہ ہے شام کی مخدومہ"" (""گریاں ہے""?)."
+src/data/lyrics/dunya-se-safar.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-first-sweep-dukhtar-dunya-five,,"Need audio/print: s1 ""شبیر کا غم سوگ مناتا ہے نقی کا""; s4 ""یوں سامرہ آ جائے نہ یثرب سے پیمبر / غربت میں مصیبت میں سراپا ہے نقی کا""."
 src/data/lyrics/durre-abid-ko-mere.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/dushman-ko-bhi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/dushwar-kitni-qaid.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
