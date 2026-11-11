@@ -1,88 +1,90 @@
 ---
 title: "رواں دواں تھا جانب دمشق قافلہ"
-alternateTitle: "Bas Mera Hussain"
+alternateTitle: "Bas Mera Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Rawan dawan tha jaanib e damishk khaafila
-  Kalaam e haq suna raha tha sar hussain ka
+  Rawaaṅ dawaaṅ tha jaanib-e-Dimashq qaafila
+  Kalaam-e-haq suna raha tha sar Husain ka
+
+  Behan ki jab nazar pari to dil se ye sada uthi
+  Khatib-e-mimbar-e-sinaaṅ bas mera Husain hai
 
   1
-  Behan ki jab nazar padi to dil se ye sada uthi
-  Khateeb e mimbar e sina bas mera hussain hai
-  Maujiza ye dekhte hai ashqiyan
-  Sar sina pe jaa ke bolne laga
-  Arsh se khuda ki aayi ye sada
-  Marhaba mere hussain marhaba
+  Maujiza ye dekhte haiṅ ashqiyaa
+  Sar sinaaṅ pe jaa ke bolne laga
+  Arsh se Khuda ki aayi ye sada
+  Marhaba mere Husain marhaba
   Tu ne haq ada kiya jo apna ghar luta diya
-  Mujh pe karz ho gaya to maine faisla diya
-  Ke hashr tak meri zaban bas mera hussain hai
-  Hussain hussain bas mera hussain hai
+  Mujh pe qarz ho gaya to main ne faisla diya
+  Ke hashr tak meri zabaaṅ bas mera Husain hai
+  Husain Husain bas mera Husain hai
 
   2
   Ambiya bhi dekhte hi reh gaye
   Karbala ke ban mein tere hausle
-  Har taraf se teer aur tabar chale
-  Par paon dasht mein jamein rahe
-  Ek do pahar mein ghar luta ke garm rayt par
-  Misl e sher e kibriya jo todi zulm ki kamar
-  Har ek nabi ka hai bayan bas mera hussain hai
-  Hussain hussain bas mera hussain hai
+  Har taraf se tir aur tabar chale
+  Par paaoṅ dasht mein jame rahe
+  Ek do pahar mein ghar luta ke garm ret par
+  Misl-e-sher-e-kibriya jo tori zulm ki kamar
+  Har ek Nabi ka hai bayaaṅ bas mera Husain hai
+  Husain Husain bas mera Husain hai
 
   3
-  Juloos hai qadam qadam rawan dawan
-  Bhai behnw tifl peer aur jawan
-  Alam sabeel zuljanah taaziye
-  Hai gham e hussain ki nishaniya
-  Alam bana ke sayban chala hussaini karwan
-  Bole hoke yak zaban ye matami ye naujawan
-  Yahan bhi meer e karwan bas mera hussain hai
-  Hussain hussain bas mera hussain hai
+  Julus hai qadam qadam rawaaṅ dawaaṅ
+  Bhaai behan tifl pir aur jawaaṅ
+  Alam sabil Zuljanaah taaziye
+  Hai gham-e-Husain ki nishaaniyaaṅ
+  Alam bana ke saayabaaṅ chala Husaini kaarwaaṅ
+  Bole ho ke yak zabaaṅ ye maatami ye naujawaaṅ
+  Yahaaṅ bhi mir-e-kaarwaaṅ bas mera Husain hai
+  Husain Husain bas mera Husain hai
 
   4
-  Aaj bhi zamaana sara dang hai
-  Kyun khuda hussainiyo ke sang hai
-  Qatl e aam ho rahe hai jaa baja
-  Phir bhi majlison ka wo hi rang hai
-  Aayi ghaib se sada bataun tumko aur kya
-  Tum na rok paoge ye majlison ka silsila
-  Hussainiyo ka sayban bas mera hussain hai
-  Hussain hussain bas mera hussain hai
+  Aaj bhi zamaana saara dang hai
+  Kiuṅ Khuda Husainiyoṅ ke sang hai
+  Qatl-e-aam ho rahe haiṅ jaa baja
+  Phir bhi majlisoṅ ka wo hi rang hai
+  Aayi ghaib se sada bataauṅ tum ko aur kya
+  Tum na rok paaoge ye majlisoṅ ka silsila
+  Husainiyoṅ ka saayabaaṅ bas mera Husain hai
+  Husain Husain bas mera Husain hai
 
   5
-  Pur sada'on ka sukhan
-  Ay shehenshah e zaman
+  Pur sadaaoṅ ka sukhan
+  Ae shahenshaah-e-zaman
   Ek jaisi hai fiza ek jaisa hai chalan
-  De rahe hai jo sada ye tere khooni badan
-  Karbala meri zameen karbala mera watan
-  Is watan ka shaah jahan bas mera hussain hai
-  Hussain hussain bas mera hussain hai
+  De rahe haiṅ jo sada ye tere khuni badan
+  Karbala meri zamiṅ Karbala mera watan
+  Is watan ka shaah jahaaṅ bas mera Husain hai
+  Husain Husain bas mera Husain hai
 
   6
-  Deen jab sitam ki zad pe aa gaya
+  Din jab sitam ki zad pe aa gaya
   Karbala mein keh raha tha la ilaah
-  Kaun hai jahan mein aisa soorma
-  Jo mujhe yazeed se bachayega
-  Sunke deen ki sada hussain ibne sayyeda
-  Deen ko bachayega lahoo mein jo nahayega
-  Tadap ke boli ek maa bas mera hussain hai
-  Hussain hussain bas mera hussain hai
+  Kaun hai jahaaṅ mein aisa surma
+  Jo mujhe Yazid se bachaayega
+  Sun ke din ki sada Husain ibn-e-Sayyada
+  Din ko bachaayega lahu mein jo nahaayega
+  Tarap ke boli ek maaṅ bas mera Husain hai
+  Husain Husain bas mera Husain hai
 
   7
-  Karbala hai khuld ye to hai yaqeen
-  Kyun na ho ke hai hussain ki zameen
-  Safdar aur mazhar abdi kaho
-  Baad e marg hum to jayenge wahin
-  Jaza ki kayenat mein utha ke jaam haath mein
-  Hussain pehle aayenge ali bhi honge saath mein
-  Ke us jahan ka mezban bas mera hussain hai
-  Hussain hussain bas mera hussain hai
+  Karbala hai khuld ye to hai yaqiṅ
+  Kiuṅ na ho ke hai Husain ki zamiṅ
+  Safdar aur Mazhar Abidi kaho
+  Baad-e-marg ham to jaayeṅge wahiṅ
+  Jaza ki kaainaat mein utha ke jaam haath mein
+  Husain pehle aayeṅge Ali bhi hoṅge saath mein
+  Ke us jahaaṅ ka mezbaaṅ bas mera Husain hai
+  Husain Husain bas mera Husain hai
 # source_id: nohayonline:63d00f93a1838d6cc7c0
 # source_url: https://www.nohayonline.com/details_content.php?id=1551
 # raw_sha256: 95d44bba5a46258215efc89d22694b04577c12782a98877d3802b1ca08d2ea8e
@@ -90,12 +92,13 @@ romanLyrics: |-
 رواں دواں تھا جانب دمشق قافلہ
 کلام حق سنا رہا تھا سر حسین کا
 
-۱
 بہن کی جب نظر پڑی تو دل سے یہ صدا اٹھی
 خطیب منبر سناں بس میرا حسین ہے
+
+۱
 معجزہ یہ دیکھتے ہیں اشقیاء
 سر سناں پہ جا کے بولنے لگا
-عرش سے خدا کی آی یہ صدا
+عرش سے خدا کی آئی یہ صدا
 مرحبا میرے حسین مرحبا
 تو نے حق ادا کیا جو اپنا گھر لٹا دیا
 مجھ پہ قرض ہو گیا تو میں نے فیصلہ دیا
@@ -103,7 +106,7 @@ romanLyrics: |-
 حسین حسین بس میرا حسین ہے
 
 ۲
-انبیاء بھی دیکھتے ہی رہ گےء
+انبیاء بھی دیکھتے ہی رہ گئے
 کربلا کے بن میں تیرے حوصلے
 ہر طرف سے تیر اور تبر چلے
 پر پاؤں دشت میں جمے رہے
@@ -114,10 +117,10 @@ romanLyrics: |-
 
 ۳
 جلوس ہے قدم قدم رواں دواں
-بھای بہن طفل پیر اور جواں
-الم سبیل ذوالجناح تعزیے
+بھائی بہن طفل پیر اور جواں
+علم سبیل ذوالجناح تعزیے
 ہے غم حسین کی نشانیاں
-الم بنا کے سایباں چلا حسینی کارواں
+علم بنا کے سایباں چلا حسینی کارواں
 بولے ہوکے یک زباں یہ ماتمی یہ نوجواں
 یہاں بھی میر کارواں بس میرا حسین ہے
 حسین حسین بس میرا حسین ہے
@@ -127,7 +130,7 @@ romanLyrics: |-
 کیوں خدا حسینیوں کے سنگ ہے
 قتلِ عام ہو رہے ہیں جابجا
 پھر بھی مجلسوں کا وہ ہی رنگ ہے
-آی غیب سے صدا بتاؤں تم کو اور کیا
+آئی غیب سے صدا بتاؤں تم کو اور کیا
 تم نہ روک پاؤ گے یہ مجلسوں کا سلسلہ
 حسینیوں کا سایباں بس میرا حسین ہے
 حسین حسین بس میرا حسین ہے
@@ -142,12 +145,12 @@ romanLyrics: |-
 حسین حسین بس میرا حسین ہے
 
 ۶
-دین جب ستم کی ضد پہ آ گیا
+دین جب ستم کی زد پہ آ گیا
 کربلا میں کہہ رہا تھا لا الہ
 کون ہے جہاں میں ایسا سورمہ
-جو مجھے یزید سے بچاے گا
+جو مجھے یزید سے بچائے گا
 سن کے دین کی صدا حسین ابنِ سیدہ
-دین کو بچاے گا لہو میں جو نہاے گا
+دین کو بچائے گا لہو میں جو نہائے گا
 تڑپ کے بولی ایک ماں بس میرا حسین ہے
 حسین حسین بس میرا حسین ہے
 
@@ -155,8 +158,8 @@ romanLyrics: |-
 کربلا ہے خلد یہ تو ہے یقیں
 کیوں نہ ہو کہ ہے حسین کی زمیں
 صفدر اور مظہر عابدی کہو
-بعد مرگ ہم تو جاےنگے وہی
-جزا کی کاینات میں اٹھا کے جام ہاتھ میں
-حسین پہلے آےنگے علی بھی ہونگے ساتھ میں
+بعد مرگ ہم تو جائیں گے وہیں
+جزا کی کائنات میں اٹھا کے جام ہاتھ میں
+حسین پہلے آئیں گے علی بھی ہوں گے ساتھ میں
 کہ اس جہاں کا میزباں بس میرا حسین ہے
 حسین حسین بس میرا حسین ہے
