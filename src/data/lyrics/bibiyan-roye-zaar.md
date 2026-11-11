@@ -1,145 +1,147 @@
 ---
-title: "بی بیاں روے زار و زار"
+title: "بی‌بیاں روئے زار و زار"
 alternateTitle: "Bibiyan Roye Zaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bibiyan roye zaar o zaar
-  Shehzadiyan roye zaar o zaar
-  Lut gaya karbal mein ghar baar
-  Hussain hussain hussain hussain
+  Bibiyaṅ roye zaar o zaar
+  Shehzaadiyaṅ roye zaar o zaar
+  Lut gaya Karbal mein ghar baar
+  Husain Husain Husain Husain
+
+  Hai Aal-e-Nabi ki aur darbaar
+  Husain Husain Husain Husain
+  Zanjir mein jakra hai bimaar
+  Husain Husain Husain Husain
 
   1
-  Hai aal nabi ki aur darbar
-  Hussain hussain hussain hussain
-  Zanjeer mein jakda hai beemar
-  Hussain hussain hussain hussain
-  Koi bain kare bachon ke liye
-  Koi ro ke kahe bhai na rahe
-  Nahi zainab ka koi ghamkhwar
-  Karbobala mein hai ye pukar
-  Hussain hussain hussain hussain
+  Koi bain kare bachchoṅ ke liye
+  Koi ro ke kahe bhaai na rahe
+  Nahiṅ Zainab ka koi ghamkhwaar
+  Karb o Bala mein hai ye pukaar
+  Husain Husain Husain Husain
 
   2
-  Akbar ka jigar asghar ka gala
-  Abbas ke baazu taygh e jafa
-  Haye halq e shah e deen aur talwar
-  Karbobala mein hai ye pukar
-  Hussain hussain hussain hussain
+  Akbar ka jigar Asghar ka gala
+  Abbas ke baazu tegh-e-jafa
+  Haaye halq-e-Shah-e-Diṅ aur talwaar
+  Karb o Bala mein hai ye pukaar
+  Husain Husain Husain Husain
 
   3
-  Qasim ka badan pamaal hua
+  Qasim ka badan paamaal hua
   Aati thi sada dulha dulha
-  Ghar aa jaa tu bas ek baar
-  Karbobala mein hai ye pukar
-  Hussain hussain hussain hussain
+  Ghar aa ja tu bas ek baar
+  Karb o Bala mein hai ye pukaar
+  Husain Husain Husain Husain
 
   4
-  Kat’ta tha shahe waala ka gala
-  Roti thi zameene karbobala
-  Hai aaj qayamat ke aasaar
-  Karbobala mein hai ye pukar
-  Hussain hussain hussain hussain
+  Katta tha Shah-e-Waala ka gala
+  Roti thi zamin-e-Karb o Bala
+  Hai aaj qayaamat ke aasaar
+  Karb o Bala mein hai ye pukaar
+  Husain Husain Husain Husain
 
   5
-  Ro ro ke sakina bain kare
+  Ro ro ke Sakina bain kare
   Darya pe gaye ammu mere
-  Ab kaun karega mujhko pyar
-  Karbobala mein hai ye pukar
-  Hussain hussain hussain hussain
+  Ab kaun karega mujh ko pyaar
+  Karb o Bala mein hai ye pukaar
+  Husain Husain Husain Husain
 
   6
-  Be-parda huwe sab ahle haram
-  Jab thanda hua ghazi ka alam
-  Jeena hai sakina ka dushwaar
-  Karbobala mein hai ye pukar
-  Hussain hussain hussain hussain
+  Beparda hue sab Ahl-e-Haram
+  Jab thanda hua Ghaazi ka alam
+  Jina hai Sakina ka dushwaar
+  Karb o Bala mein hai ye pukaar
+  Husain Husain Husain Husain
 
   7
-  Jalte huwe qaime ahle haram
-  Hai shaam e ghariban aur matam
-  Hai khaafila jaane ko tayyaar
-  Karbobala mein hai ye pukar
-  Hussain hussain hussain hussain
+  Jalte hue khaime Ahl-e-Haram
+  Hai Shaam-e-Gharibaṅ aur maatam
+  Hai qaafila jaane ko tayyaar
+  Karb o Bala mein hai ye pukaar
+  Husain Husain Husain Husain
 
   8
-  Rehaan ghame sarwar ki qasam
-  Rote hai mere qirtaas o qalam
-  Aankhon se rawan ashkon ki dhaar
-  Karbobala mein hai ye pukar
-  Hussain hussain hussain hussain
+  Rehaan gham-e-Sarwar ki qasam
+  Rote haiṅ mere qirtaas o qalam
+  Aankhoṅ se rawaaṅ ashkoṅ ki dhaar
+  Karb o Bala mein hai ye pukaar
+  Husain Husain Husain Husain
 # source_id: nohayonline:15daf39e09e457bc24d9
 # source_url: https://www.nohayonline.com/details_content.php?id=2998
 # raw_sha256: 83c5cdd73d996b48b34e74be3bc55eb2b9bbac0905dabb9203631616284454f4
 ---
-
-بی بیاں روے زار و زار
-شہزادیاں روے زار و زار
+بی‌بیاں روئے زار و زار
+شہزادیاں روئے زار و زار
 لٹ گیا کربل میں گھر بار
 حسین حسین حسین حسین
 
-۱
-ہے آل نبی کی اور دربار
+ہے آلِ نبی کی اور دربار
 حسین حسین حسین حسین
 زنجیر میں جکڑا ہے بیمار
 حسین حسین حسین حسین
+
+۱
 کوئی بین کرے بچوں کے لئے
-کوئی رو کے کہے بھای نہ رہے
+کوئی رو کے کہے بھائی نہ رہے
 نہیں زینب کا کوئی غم خوار
-کربوبلا میں ہے یہ پکار
+کرب و بلا میں ہے یہ پکار
 حسین حسین حسین حسین
 
 ۲
 اکبر کا جگر اصغر کا گلا
-عباس کے بازو تیغ جفا
-ہاے حلق شہ دیں اور تلوار
-کربوبلا میں ہے یہ پکار
+عباس کے بازو تیغِ جفا
+ہائے حلقِ شہِ دیں اور تلوار
+کرب و بلا میں ہے یہ پکار
 حسین حسین حسین حسین
 
 ۳
 قاسم کا بدن پامال ہوا
 آتی تھی صدا دولہا دولہا
 گھر آ جا تو بس اک بار
-کربوبلا میں ہے یہ پکار
+کرب و بلا میں ہے یہ پکار
 حسین حسین حسین حسین
 
 ۴
-کٹتا تھا شہ والا کا گلا
-روتی تھی زمین کربوبلا
+کٹتا تھا شہِ والا کا گلا
+روتی تھی زمینِ کرب و بلا
 ہے آج قیامت کے آثار
-کربوبلا میں ہے یہ پکار
+کرب و بلا میں ہے یہ پکار
 حسین حسین حسین حسین
 
 ۵
 رو رو کے سکینہ بین کرے
-دریا پہ گےء عمو میرے
-اب کون کرے گا مجھکو پیار
-کربوبلا میں ہے یہ پکار
+دریا پہ گئے عمو میرے
+اب کون کرے گا مجھ کو پیار
+کرب و بلا میں ہے یہ پکار
 حسین حسین حسین حسین
 
 ۶
-بے پردہ ہوے سب اہلِ حرم
+بے پردہ ہوئے سب اہلِ حرم
 جب ٹھنڈا ہوا غازی کا علم
 جینا ہے سکینہ کا دشوار
-کربوبلا میں ہے یہ پکار
+کرب و بلا میں ہے یہ پکار
 حسین حسین حسین حسین
 
 ۷
-جلتے ہوئے خیمے أہل حرم
-ہے شام غریباں اور ماتم
+جلتے ہوئے خیمے اہلِ حرم
+ہے شامِ غریباں اور ماتم
 ہے قافلہ جانے کو تیار
-کربوبلا میں ہے یہ پکار
+کرب و بلا میں ہے یہ پکار
 حسین حسین حسین حسین
 
 ۸
-ریحان غم سرور کی قسم
+ریحان غمِ سرور کی قسم
 روتے ہیں میرے قرطاس و قلم
 آنکھوں سے رواں اشکوں کی دھار
-کربوبلا میں ہے یہ پکار
+کرب و بلا میں ہے یہ پکار
 حسین حسین حسین حسین

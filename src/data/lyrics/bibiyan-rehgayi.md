@@ -1,76 +1,90 @@
 ---
-title: "سوگیا لشکر اے شامِ غریباں"
+title: "سو گیا لشکر اے شامِ غریباں"
 alternateTitle: "Bibiyan Rehgayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sogaya lashkar ay shame ghariban
-  Bibiyan reh gayi
+  So gaya lashkar Ae Shaam-e-Gharibaṅ
+  Bibiyaṅ reh gayiṅ
+
+  Jalte hue khaimoṅ ki bujhti raakh par
+  Bibiyaṅ reh gayiṅ
+  Dil se lagaaye daagh bahattar nauhagar
+  Bibiyaṅ reh gayiṅ
 
   1
-  Jalte hue qaimon ki bujhti raakh par
-  Dil se lagaye daagh bahattar nauhagar
-  Shaam e ghariban se kuch pehle
-  Jhoola chaadar bistar tha
-  Pehlu mein hamshakle payambar
-  Godh mein maa ki asghar tha
-  Godhiyan khaali maange ujri be-pisar
+  Shaam-e-Gharibaṅ se kuchh pehle
+  Jhula chaadar bistar tha
+  Pehlu mein hamshakl-e-Payambar
+  God mein maaṅ ki Asghar tha
+  Godiyaṅ khaali maangeṅ ujriṅ bepisar
+  Bibiyaṅ reh gayiṅ
 
   2
-  Haan ye abu talib ka kunba
-  Betiyan saari hyder ki
-  Azmate zehra azmate maryam
-  Izzat thi payghambar ki
-  Chaadarein maangti naame payambar dar badar
+  Haan ye Abu Talib ka kunba
+  Betiyaṅ saari Haidar ki
+  Azmat-e-Zahra azmat-e-Maryam
+  Izzat thi Payghambar ki
+  Chaadareṅ maangtiṅ naam-e-Payambar dar badar
+  Bibiyaṅ reh gayiṅ
 
   3
   Dhalta suraj soch raha hai
-  Waqte sahar kya manzar tha
-  Mehwe ibadat zer e alam
+  Waqt-e-sahar kya manzar tha
+  Mahv-e-ibaadat zer-e-alam
   Shabbir ka saara lashkar tha
-  Sogaya lashkar jaagne wali raat bhar
+  So gaya lashkar jaagne waali raat bhar
+  Bibiyaṅ reh gayiṅ
 
   4
-  Darya maujein maar raha hai
+  Darya maujeṅ maar raha hai
   Pyaas abhi tak baaqi hai
-  Shayad ghazi laut ke aaye
+  Shaayad Ghaazi laut ke aaye
   Aas abhi tak baaqi hai
-  Dekh zara zainab ke baradar jaag kar
+  Dekh zara Zainab ke baraadar jaag kar
+  Bibiyaṅ reh gayiṅ
 
   5
-  Koi nahi jo poochle aa kar
-  Kya huwi zainab teri chadar
-  Tere to thay athara baradar
-  Kyun hai akeli pehre par
-  Humsafar maqtool huve sab humsafar
+  Koi nahiṅ jo puchh le aa kar
+  Kya hui Zainab teri chaadar
+  Tere to the athaarah baraadar
+  Kiuṅ hai akeli pehre par
+  Hamsafar maqtul hue sab hamsafar
+  Bibiyaṅ reh gayiṅ
 
   6
-  Socho zara rehaan o sarwar
-  Shaam e ghariban ka wo manzar
-  Chaak gireban aaye jo hyder
-  Dekh ke zainab ko pehre par
-  Rodiye hyder qaime maqtal dekh kar
+  Sochoṅ zara Rehaan aur Sarwar
+  Shaam-e-Gharibaṅ ka wo manzar
+  Chaak garebaṅ aaye jo Haidar
+  Dekh ke Zainab ko pehre par
+  Ro diye Haidar khaime maqtal dekh kar
+  Bibiyaṅ reh gayiṅ
 # source_id: nohayonline:96c7a712825f9de82d58
 # source_url: https://www.nohayonline.com/details_content.php?id=364
 # raw_sha256: 3f5f594715e0100e3f817b2523e9ee29f15ea473f65f13f7f649ec889562fd6e
 ---
-سوگیا لشکر اے شامِ غریباں
-بیبیاں رہ گئیں
+سو گیا لشکر اے شامِ غریباں
+بی‌بیاں رہ گئیں
+
+جلتے ہوئے خیموں کی بجھتی راکھ پر
+بی‌بیاں رہ گئیں
+دل سے لگائے داغ بہتر نوحہ گر
+بی‌بیاں رہ گئیں
 
 ۱
-جلتے ہوئے خیموں کی بجھتی راکھ پر
-دل سے لگائے داغ بہتر نوحہ گر
 شامِ غریباں سے کچھ پہلے
 جھولا چادر بستر تھا
 پہلو میں ہمشکلِ پیمبر
-گودِ میں ماں کی اصغر تھا
+گود میں ماں کی اصغر تھا
 گودیاں خالی مانگیں اُجڑیں بے پسر
+بی‌بیاں رہ گئیں
 
 ۲
 ہے یہ ابوطالب کا کنبہ
@@ -78,31 +92,36 @@ romanLyrics: |-
 عظمتِ زہرا عظمتِ مریم
 عزت تھی پیغمبر کی
 چادریں مانگتیں نامِ پیمبر در بدر
+بی‌بیاں رہ گئیں
 
 ۳
 ڈھلتا سورج سوچ رہا ہے
-وقتِ سحرکیا منظر تھا
-محوِ عبادت زیرعلم
+وقتِ سحر کیا منظر تھا
+محوِ عبادت زیرِ علم
 شبیر کا سارا لشکر تھا
-سوگیا لشکر جاگنے والی رات بھر
+سو گیا لشکر جاگنے والی رات بھر
+بی‌بیاں رہ گئیں
 
 ۴
 دریا موجیں مار رہا ہے
 پیاس ابھی تک باقی ہے
 شاید غازی لوٹ کے آئے
 آس ابھی تک باقی ہے
-دیکھ زرا زینب کے برادر جاگ کر
+دیکھ ذرا زینب کے برادر جاگ کر
+بی‌بیاں رہ گئیں
 
 ۵
-کوئی نہیں جو پو چھ لے آکر
+کوئی نہیں جو پوچھ لے آ کر
 کیا ہوئی زینب تیری چادر
 تیرے تو تھے اٹھارہ برادر
 کیوں ہے اکیلی پہرے پر
 ہمسفر مقتول ہوئے سب ہمسفر
+بی‌بیاں رہ گئیں
 
 ۶
-سوچوں زرا ریحان اور سرور
-شامِ غریباں کا و ہ منظر
+سوچوں ذرا ریحان اور سرور
+شامِ غریباں کا وہ منظر
 چاک گریباں آئے جو حیدر
-دیکھ کے زینب کوپہرے پر
+دیکھ کے زینب کو پہرے پر
 رو دیئے حیدر خیمے مقتل دیکھ کر
+بی‌بیاں رہ گئیں
