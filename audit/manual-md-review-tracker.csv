@@ -1381,10 +1381,10 @@ src/data/lyrics/bibiyan-kar-rahi.md,standalone_lyrics,imported,nohayonline,pendi
 src/data/lyrics/bibiyan-rehgayi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,reviewed,partial_review,verified,reviewed,2026-11-11-batch-bibiyan-01,,"Need audio/print: s2 ""Haan"" vs Urdu ""ہے""; s6 ""socho"" vs ""سوچوں"", ""o"" vs ""اور"", and ""خیمے مقتل"" phrasing."
 src/data/lyrics/bibiyan-roye-zaar.md,standalone_lyrics,imported,nohayonline,pending,partial_review,reviewed,reviewed,verified,reviewed,2026-11-11-batch-bibiyan-01,,"Need audio/print: preamble ""ہے آلِ نبی کی اور دربار"" wording."
 src/data/lyrics/bibiyon-ke-qaime.md,standalone_lyrics,imported,nohayonline,pending,partial_review,reviewed,partial_review,verified,reviewed,2026-11-11-batch-bibiyan-01,,"Need audio/print: s1 ""خیر کے بس / bes"" and ""جب سے عباس سے علقمہ پر لگے""; s3 ""آ گئی سیدہ""; s4 ""جانب بڑی""; s5 ""ساتویں سے محرم""; s6 ""اکبر کہ اصغر کہ قاسم"" vs Roman ""ke""."
-src/data/lyrics/bicha-ke-farshe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bichao-farshe-aza.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bikherti-hui-raahon.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bikhre-pade-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/bicha-ke-farshe.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: opening ""زین العبا""; s2 ""دیں پناہ""; s3 ""ضرب و ایثار"" (Roman source ""zabr"")."
+src/data/lyrics/bichao-farshe-aza.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/bikherti-hui-raahon.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s3 last ""مشکیزہ"" vs Roman ""makhzan""; s4 v3 ""مصاہبین ستمگر کی لرزہ بان ہم دام""; s6 v1 ""سیرت"" vs ""siraat"", v2 ""ایثار کفر میں دنیا ستم"" vs ""isaare kufr mein dunya simat"", v4 ""پٹ""; s7 v4 ""سبھی کلی ہے تیرے""."
+src/data/lyrics/bikhre-pade-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/bilqees-pasban-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bin-baazuon-ke-utra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bin-bhai-ke-ab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

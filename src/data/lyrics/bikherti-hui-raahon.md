@@ -1,99 +1,104 @@
 ---
-title: "ملتا نہیں تھا کوی سہارا یزید کو"
+title: "ملتا نہیں تھا کوئی سہارا یزید کو"
 alternateTitle: "Bikherti Hui Raahon"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Milta nahi tha koi sahara yazeed ko
-  Zainab ne is tarha se ujaada yazeed ko
-  Khatoon jang kar nahi sakti thi is liye
-  Khutbon ki zulfiqar se maara yazeed ko
-  As salaam ya zainab e kubra as salaam
-  Bikherti hui raahon mein roshni zainab
-  Mizaaj e hazrate shabbir le chali zainab
+  Milta nahiṅ tha koi sahaara Yazid ko
+  Zainab ne is tarah se ujaara Yazid ko
+  Khaatun jang kar nahiṅ sakti thi is liye
+  Khutboṅ ki Zulfiqaar se maara Yazid ko
+
+  As salaam ya Zainab-e-Kubra as salaam
+  Bikherti hui raahoṅ mein roshni Zainab
+
+  Mizaaj-e-Hazrat-e-Shabbir le chali Zainab
 
   1
-  Jahan mein maqsade shabbir aam karti rahi
-  Jo kaam bhai ne saumpa tha kaam karti rahi
-  Kabhi hussain ki surat kabhi ali ki tarha
-  Yazeed e waqt ki neendein haram karti rahi
-  Teri zuban hai ya tayghe hyderi zainab
+  Jahaaṅ mein maqsad-e-Shabbir aam karti rahi
+  Jo kaam bhaai ne sauṅpa tha kaam karti rahi
+  Kabhi Husain ki surat kabhi Ali ki tarah
+  Yazid-e-waqt ki nindeṅ haraam karti rahi
+  Teri zabaaṅ hai ya tegh-e-Haidari Zainab
 
   2
-  Yazeediyat ke liye kaam khoob ho jaata
-  Jo aaftab e shariyat ghuroob ho jaata
-  Zamana jehle murakkab ki neend so jaata
-  Khuda ke deen mein shaamil uyub ho jaata
-  Pase hussain na karti jo rehbari zainab
+  Yazidiyat ke liye kaam khub ho jaata
+  Jo aaftaab-e-shariat ghurub ho jaata
+  Zamaana jahl-e-murakkab ki nind so jaata
+  Khuda ke din mein shaamil uyub ho jaata
+  Pas-e-Husain na karti jo rehbari Zainab
 
   3
-  Tera wujood sadaqat ka pasban raha
-  Tera wujood imamat ka pasban raha
-  Quran e paak ki tatheer ki shahadat hai
-  Tera wujood taharat ka pasban raha
-  Hai tu hi makhzane ismat ki chaaoni zainab
+  Tera wujud sadaaqat ka paasbaan raha
+  Tera wujud imaamat ka paasbaan raha
+  Quraan-e-paak ki tathir ki shahaadat hai
+  Tera wujud tahaarat ka paasbaan raha
+  Hai tu hi makhzan-e-ismat ki chhaaoṅni Zainab
 
   4
-  Ali ki laadli hamsheer e shabbar o shabbir
-  Janabe fatema zehra ki hoo bahoo tasveer
-  Masahebeen e sitamgar ki larzaban hamdaam
-  Dayare shaam mein karke kuch is tarha taqreer
-  Misaale hydare karraar chaa gayi zainab
+  Ali ki laadli hamshir-e-Shabbar o Shabbir
+  Janaab-e-Fatema Zehra ki hu bahu tasvir
+  Masahebin-e-sitamgar ki larzabaan hamdaam
+  Dayaar-e-Shaam mein kar ke kuchh is tarah taqrir
+  Misaal-e-Haidar-e-Karraar chhaa gayi Zainab
 
   5
-  Sitamgaron ne to chaaha magar na hone diya
-  Khuda ke deen mein biddat ka ghar na hone diya
-  Gawara kar liya khud daagh beridayi ka
-  Barehna deene payambar ka sar na hone diya
-  Hai tere khoon mein shaamil tawangari zainab
+  Sitamgaroṅ ne to chaaha magar na hone diya
+  Khuda ke din mein bidat ka ghar na hone diya
+  Gawaara kar liya khud daagh beridaai ka
+  Barehna din-e-Payambar ka sar na hone diya
+  Hai tere khun mein shaamil tawangari Zainab
 
   6
-  Siraate haq o sadaaqat se hat gayi hoti
-  Isaare kufr mein dunya simat gayi hoti
-  Tamam nabiyon ki mehnat bhi zere takhte yazeed
-  Qurane paak ke hamraah pat gayi hoti
-  Agar mizaaj e zamana na modti zainab
+  Siraat-e-haq o sadaaqat se hat gayi hoti
+  Isaar-e-kufr mein dunya simat gayi hoti
+  Tamaam nabiyoṅ ki mehnat bhi zer-e-takht-e-Yazid
+  Quraan-e-paak ke hamraah pat gayi hoti
+  Agar mizaaj-e-zamaana na morti Zainab
 
   7
-  Khuda tera hai imaam o rasool tere hai
-  Jo panjetan ke hai zainab usool tere hai
-  Mehek raha hai gulistane kibriya jis se
-  Sabhi kali hai tere saare phool tere hai
-  Hai tujhse deene mohamed ki dilkashi zainab
+  Khuda tera hai imaam o rasul tere haiṅ
+  Jo Panjetan ke haiṅ Zainab usul tere haiṅ
+  Mehek raha hai gulistaan-e-Kibriya jis se
+  Sabhi kali hai tere saare phul tere haiṅ
+  Hai tujh se din-e-Muhammad ki dilkashi Zainab
 
   8
-  Kahan bayan ka mohtaaj zikr hai tera
+  Kahaaṅ bayaan ka mohtaaj zikr hai tera
   Har ek zikr ka sartaaj zikr hai tera
   Tere amal tere kirdaar ki badaulat hai
-  Zuban zuban pe agar aaj zikr hai tera
-  Hai tere zikr ki mohtaaj har sadi zainab
+  Zabaaṅ zabaaṅ pe agar aaj zikr hai tera
+  Hai tere zikr ki mohtaaj har sadi Zainab
 
   9
-  Misaale hazrate meesam dahan ataa kar do
-  Hamay janabe farazdaq sa fan ataa kar do
-  Dua ye monis o kausar ki shadman ki hai
-  Ay bibi hum ko bhi auje sukhan ataa kardo
-  Tumhari bazm mein karte hai naukri zainab
+  Misaal-e-Hazrat-e-Misam dahan ata kar do
+  Hameṅ Janaab-e-Farazdaq sa fan ata kar do
+  Dua ye Monis o Kausar ki Shadman ki hai
+  Ae Bibi hum ko bhi auj-e-sukhan ata kar do
+  Tumhaari bazm mein karte haiṅ naukri Zainab
 # source_id: nohayonline:a93ea88d76675bbd9ff8
 # source_url: https://www.nohayonline.com/details_content.php?id=2997
 # raw_sha256: 093996005a655b8dedd6874bf2b3309405d17cdecb9edb7e009781bb283bcae5
 ---
-ملتا نہیں تھا کوی سہارا یزید کو
+ملتا نہیں تھا کوئی سہارا یزید کو
 زینب نے اس طرح سے اجاڑا یزید کو
 خاتون جنگ کر نہیں سکتی تھی اس لئے
-خطبوں کی ذولفقار سے مارا یزید کو
+خطبوں کی ذوالفقار سے مارا یزید کو
+
 السلام یا زینب کبرا السلام
 بکھیرتی ہوئی راہوں میں روشنی زینب
+
 مزاج حضرتِ شبیر لے چلی زینب
 
 ۱
 جہاں میں مقصد شبیر عام کرتی رہی
-جو کام بھای نے سونپا تھا کام کرتی رہی
+جو کام بھائی نے سونپا تھا کام کرتی رہی
 کبھی حسین کی صورت کبھی علی کی طرح
 یزید وقت کی نیندیں حرام کرتی رہی
 تیری زباں ہے یا تیغ حیدری زینب
@@ -101,15 +106,15 @@ romanLyrics: |-
 ۲
 یزیدیت کے لئے کام خوب ہو جاتا
 جو آفتاب شریعت غروب ہو جاتا
-زمانہ جہلے مرکب کی نیند سو جاتا
+زمانہ جہل مرکب کی نیند سو جاتا
 خدا کے دین میں شامل عیوب ہو جاتا
 پس حسین نہ کرتی جو رہبری زینب
 
 ۳
-تیرا وجود صداقت کا پاس بند رہا
-تیرا وجود امامت کا پاس بند رہا
-قران پاک کی تطہیر کی شہادت ہے
-تیرا وجود طہارت کا پاس بند رہا
+تیرا وجود صداقت کا پاسبان رہا
+تیرا وجود امامت کا پاسبان رہا
+قرآن پاک کی تطہیر کی شہادت ہے
+تیرا وجود طہارت کا پاسبان رہا
 ہے تو ہی مشکیزہ عصمت کی چھاؤنی زینب
 
 ۴
@@ -117,28 +122,28 @@ romanLyrics: |-
 جنابِ فاطمہ زہرا کی ہو بہو تصویر
 مصاہبین ستمگر کی لرزہ بان ہم دام
 دیار شام میں کر کے کچھ اس طرح تقریر
-مثال حیدر کرار چھا گیء زینب
+مثال حیدر کرار چھا گئی زینب
 
 ۵
 ستمگروں نے تو چاہا مگر نہ ہونے دیا
 خدا کے دین میں بدعت کا گھر نہ ہونے دیا
-گنوارا کر لیا خود داغ بے ردائی کا
+گوارا کر لیا خود داغ بے ردائی کا
 برہنہ دین پیمبر کا سر نہ ہونے دیا
 ہے تیرے خون میں شامل تونگری زینب
 
 ۶
-سیرت حق و صداقت سے ہٹ گیء ہوتی
-ایثار کفر میں دنیا ستم گیء ہوتی
+سیرت حق و صداقت سے ہٹ گئی ہوتی
+ایثار کفر میں دنیا ستم گئی ہوتی
 تمام نبیوں کی محنت بھی زیر تخت یزید
-قرآن پاک کے ہمراہ پٹ گیء ہوتی ہوتی
+قرآن پاک کے ہمراہ پٹ گئی ہوتی
 اگر مزاج زمانہ نہ موڑتی زینب
 
 ۷
-خدا تیرا ہے امام و رسول تیرے ہے
-جو پنجتن کے ہیں زینب اصول تیرے ہے
+خدا تیرا ہے امام و رسول تیرے ہیں
+جو پنجتن کے ہیں زینب اصول تیرے ہیں
 مہک رہا ہے گلستان کبریا جس سے
-سبھی کلی ہے تیرے سارے پھول تیرے ہے
-ہے تجھ سے دین محمد کے دلکشی زینب
+سبھی کلی ہے تیرے سارے پھول تیرے ہیں
+ہے تجھ سے دین محمد کی دلکشی زینب
 
 ۸
 کہاں بیان کا محتاج ذکر ہے تیرا
@@ -149,7 +154,7 @@ romanLyrics: |-
 
 ۹
 مثال حضرتِ میثم دہن عطا کر دو
-ہمیں جنابِ فرض داق سا فن عطا کر دو
+ہمیں جنابِ فرزدق سا فن عطا کر دو
 دعا یہ مونس و کوثر کی شادماں کی ہے
-اے بی بی ہم کو بھی اوج سخن عطا کر دو
+اے بی‌بی ہم کو بھی اوج سخن عطا کر دو
 تمہاری بزم میں کرتے ہیں نوکری زینب
