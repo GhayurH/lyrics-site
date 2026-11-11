@@ -6,42 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Batlaiye ye kaisi aseeri hai phuphi jaan
-  Kya mere muqaddar may tha ye shaam ka zindan
+  Batlaiye ye kaisi asiri hai phuphi jaaṅ
+  Kya mere muqaddar mein tha ye Shaam ka zindaaṅ
 
   1
-  Yan khaak udati hai jahan shaam se wehshat
-  Har suboh tapakti hai jahan baam se wehshat
-  Hoga isi zindan may mere dafn ka saaman
+  Yaaṅ khaak uraati hai jahaaṅ shaam se wehshat
+  Har subh tapakti hai jahaaṅ baam se wehshat
+  Hoga isi zindaaṅ mein mere dafn ka saamaaṅ
 
   2
-  Ye raat ye tanhai ye khamoshi ye ghurbat
-  Amma isi goshay may banana meri turbat
-  Kya meri tarha se meri ho qabr bhi veeran
+  Ye raat ye tanhaai ye khaamoshi ye ghurbat
+  Amma isi goshe mein banaana meri turbat
+  Kya meri tarah se meri ho qabr bhi viraaṅ
 
   3
-  Amma ho kahan kuch bhi dikhayi nahi deta
-  Haaton ko mere haath sujhaayi nahi deta
-  Aisa hai andhera ke khata hote hai ausaan
+  Amma ho kahaaṅ kuchh bhi dikhaai nahiṅ deta
+  Haathoṅ ko mere haath sujhaai nahiṅ deta
+  Aisa hai andhera ke khata hote haiṅ ausaan
 
   4
-  Wo sham tamachon bhari ruqsat hui amma
-  Daman jalay gowhar chinay muddat hui amma
-  Hai aaj talak dard se dukhte hai mere kaan
+  Wo shaam tamaachoṅ bhari rukhsat hui amma
+  Daaman jale gauhar chhine muddat hui amma
+  Hai aaj talak dard se dukhte haiṅ mere kaan
 
   5
-  Socha tha ke zindan se reha jab bhi mai hoongi
-  Jaungi madine ko mai sughra se miloongi
-  Lagta hai magar yan se rehaai nahi aasan
+  Socha tha ke zindaaṅ se riha jab bhi main huṅ gi
+  Jaauṅ gi Madine ko main Sughra se miluṅ gi
+  Lagta hai magar yaaṅ se rihaai nahiṅ aasaan
 
   6
-  Pur shor naved itna hai jitna hai ye sunsaan
-  Ek qabr ke hote hue ye sham ka zindan
-  Aabad kahan baad hai veeran ka veeran
+  Pur shor Naved itna hai jitna hai ye sunsaan
+  Ek qabr ke hote hue ye Shaam ka zindaaṅ
+  Aabaad kahaaṅ baad hai viraan ka viraaṅ
 # source_id: nohayonline:368d368616d09d0c1fd4
 # source_url: https://www.nohayonline.com/details_content.php?id=278
 # raw_sha256: 4deb009f4241f332d51a54603768bd0aaf4092f34bd11a99f3dec69fc0b51a08
@@ -60,9 +61,9 @@ romanLyrics: |-
 کیا میری طرح سے میری ہو قبر بھی ویراں
 
 ۳
-اماں ہوکہاں کچھ بھی دکھائی نہیں دیتا
+اماں ہو کہاں کچھ بھی دکھائی نہیں دیتا
 ہاتھوں کو میرے ہاتھ سجھائی نہیں دیتا
-ایسا ہے اندھیرا کر خطا ہوتے ہیں اوسان
+ایسا ہے اندھیرا کہ خطا ہوتے ہیں اوسان
 
 ۴
 وہ شام طمانچوں بھری رخصت ہوئی اماں
@@ -71,7 +72,7 @@ romanLyrics: |-
 
 ۵
 سوچا تھا کہ زنداں سے رہا جب بھی میں ہوں گی
-جاوں گی مدینے کو میں صغرا سے ملوں گی
+جاؤں گی مدینے کو میں صغرا سے ملوں گی
 لگتا ہے مگر یاں سے رہائی نہیں آسان
 
 ۶
