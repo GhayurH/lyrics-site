@@ -1,41 +1,42 @@
 ---
-title: "بے زبان تڑپا جو کھا کے تیرِستم رن میں"
-alternateTitle: "Bezaban Tadpa"
+title: "بے زبان تڑپا جو کھا کے تیرِ ستم رن میں"
+alternateTitle: "Bezabaan Tarpa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bezaban Tadpa"]
 published: false
 romanLyrics: |-
-  Bezaban tadpa jo kha ke teer e sitam ran may
-  Zameen kaamp uthi ro ke aasman tadpa
+  Bezabaan tarpa jo kha ke tir-e-sitam ran meiṅ
+  Zamin kaaṅp uthi ro ke aasmaan tarpa
 
   1
-  Wahan wahan pe zameen ran ki laala zaar bani
-  Jahan jahan pe shahe deen ka naujawan tadpa
+  Wahaaṅ wahaaṅ pe zamiṅ ran ki laalazaar bani
+  Jahaaṅ jahaaṅ pe Shah-e-diṅ ka naujawaaṅ tarpa
 
   2
-  Jahan jahan pe tamache lage sakina ko
-  Sar e hussain sina par wahan wahan tadpa
+  Jahaaṅ jahaaṅ pe tamaache lage Sakina ko
+  Sar-e-Husain sinaaṅ par wahaaṅ wahaaṅ tarpa
 
   3
-  Sawaal e aab ka kya khoob ye jawab mila
-  Jo has raha tha wo masoom bezaban tadpa
+  Sawaal-e-aab ka kya khub ye jawaab mila
+  Jo haṅs raha tha wo maasum bezabaan tarpa
 
   4
-  Haram ko leke ye naaqe kidhar se ho ke chale
-  Ke ahle bayt e mohamad ka saarban tadpa
+  Haram ko le ke ye naaqe kidhar se ho ke chale
+  Ke Ahl-e-Bait-e-Muhammad ka saarbaan tarpa
 
   5
-  Kamal e sabr bhi tha had ki natawani bhi
-  Ke taziyana laga aur na natawan tadpa
+  Kamaal-e-sabr bhi tha had ki naatawaani bhi
+  Ke taaziyaana laga aur na naatawaaṅ tarpa
 # source_id: nohayonline:96194a3b49b1b317db74
 # source_url: https://www.nohayonline.com/details_content.php?id=526
 # raw_sha256: 43a984ca6ea2a751c70564d0c8a95b7f5369e9765e460bf6b9449947001767a9
 ---
-بے زبان تڑپا جو کھا کے تیرِستم رن میں
+بے زبان تڑپا جو کھا کے تیرِ ستم رن میں
 زمین کانپ اُٹھی رو کے آسمان تڑپا
 
 ۱
@@ -48,7 +49,7 @@ romanLyrics: |-
 
 ۳
 سوالِ آب کا کیا خوب یہ جواب ملا
-جو ہس رہا تھا وہ معصوم بے زبان تڑپا
+جو ہنس رہا تھا وہ معصوم بے زبان تڑپا
 
 ۴
 حرم کو لے کے یہ ناقے کدھر سے ہو کے چلے
@@ -56,4 +57,4 @@ romanLyrics: |-
 
 ۵
 کمالِ صبر بھی تھا حد کی ناتوانی بھی
-کہ تعزیانہ لگا اور نہ ناتواں تڑپا
+کہ تازیانہ لگا اور نہ ناتواں تڑپا

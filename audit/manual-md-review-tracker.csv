@@ -1345,10 +1345,10 @@ src/data/lyrics/beti-ali-ki-turbate.md,standalone_lyrics,imported,nohayonline,pe
 src/data/lyrics/beti-ghareeb-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s1 ""ہے نورِ خدا اُن پہ راضی ہیں خود خدا""; s2 ""سجاد حسن باقر کا شان کیوں گھٹایا"". Confirm these awkward source readings."
 src/data/lyrics/betiyan-ro-rahi-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/betiyon-ke-saamne.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s1 ""درد و غم کا بھی سفر""; s6 ""آنسو رواں ہے""; s7 ""ممکن جس کا مرہم ہی نہیں"" (ممکن vs ناممکن). Source readings retained."
-src/data/lyrics/beton-ki-maa.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bewarison-ka-kya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bezaban-tadpa.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bhai-abbas-ko.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/beton-ki-maa.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-11-editorial-beton-bhai,,"Need audio/print: preamble Urdu ""اک منادی نے دی"" vs Roman ""sada di""; s5 ""کب ہی ملتا تھا"" vs ""kab hi mila tha"" and ""شرمندی""; s8 ""تمہاری لٹ گئی اماں کمائی"" vs Roman ""amma kameini""."
+src/data/lyrics/bewarison-ka-kya.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-editorial-beton-bhai,,
+src/data/lyrics/bezaban-tadpa.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-editorial-beton-bhai,,
+src/data/lyrics/bhai-abbas-ko.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-editorial-beton-bhai,,"Need audio/print: s5 ""بعد از سبطِ رسولِ دوسرا""; confirm wording and syntax without conjectural repair."
 src/data/lyrics/bhai-bhai-pukarti.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bhai-ka-pehla.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bhai-ki-awaaz.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

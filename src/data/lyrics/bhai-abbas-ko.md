@@ -6,78 +6,82 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qatl karne ke iraade se sitamgar jo badha
-  Hogayi dasht e bayaban ki khamosh fiza
-  Paas aaya to qayamat ka ye manzar dekha
-  Sajda e shukr may sar rakhe huwe shaahe huda
-  Bhai abbas ko dete thay sada
-  Zarb jab lagti thi tab shaahe huda
-  Bhai abbas ko dete thay sada
+  Qatl karne ke iraade se sitamgar jo barha
+  Ho gayi dasht-e-bayaabaaṅ ki khaamosh fiza
+  Paas aaya to qayaamat ka ye manzar dekha
+  Sajda-e-shukr meiṅ sar rakhe hue Shah-e-Huda
+  Bhai Abbas ko dete the sada
+
+  Zarb jab lagti thi tab Shah-e-Huda
+  Bhai Abbas ko dete the sada
+
   Tan se sar hota tha jis waqt juda
-  Bhai abbas ko dete thay sada
+  Bhai Abbas ko dete the sada
 
   1
-  Jaanta tha ke shahe jinn o bashar pyase hai
-  Jumbishe lab se ye lagta tha ke kuch kehte hai
+  Jaanta tha ke Shah-e-jinn o bashar pyaase haiṅ
+  Jumbish-e-lab se ye lagta tha ke kuchh kehte haiṅ
   Shimr ne kaan laga kar jo suna
 
   2
-  Aisa bhai bhi zamane may na dekha na suna
-  Bhai ko jisne tahe taygh e sitam yaad kiya
-  Har mu'arrikh ne likha shaah e huda
+  Aisa bhai bhi zamaane meiṅ na dekha na suna
+  Bhai ko jis ne tah-e-tegh-e-sitam yaad kiya
+  Har muarrikh ne likha Shah-e-Huda
 
   3
-  Waar jis waqt kiya karta tha gardan pe layeen
-  Kaamp jaata tha falak hilti thi maqtal ki zameen
-  Jab bhi shabbir ka kat'ta tha gala
+  Waar jis waqt kiya karta tha gardan pe laiṅ
+  Kaaṅp jaata tha falak hilti thi maqtal ki zamiṅ
+  Jab bhi Shabbir ka katta tha gala
 
   4
-  Aah karte thay na faryad o buka karte thay
-  Koi shikwa na shikayat na gila karte thay
-  Ummat e aasi ko dete thay dua
+  Aah karte the na faryaad o buka karte the
+  Koi shikwa na shikaayat na gila karte the
+  Ummat-e-aasi ko dete the dua
 
   5
-  Binte hyder jo nazar aayi dare qaima par
-  Mai abhi zinda hoo zainab ye pukare sarwar
-  Baad az sibt e rasool e dosara
+  Bint-e-Haidar jo nazar aayi dar-e-khaima par
+  Main abhi zinda huṅ Zainab ye pukaare Sarwar
+  Baad az Sibt-e-Rasul-e-dosara
 
   6
-  Pehli cheh zarbon may har ek ko kiya yaad magar
-  Phir na ghazi ke siwa aaya koi bhi lab par
-  Hogaya hone ko sar tan se juda
+  Pehli chhe zarboṅ meiṅ har ek ko kiya yaad magar
+  Phir na Ghazi ke siwa aaya koi bhi lab par
+  Ho gaya hone ko sar tan se juda
 
   7
-  Aakhri zarb jo zaalim ne lagayi asif
-  Hogayi sheh ke tan o sar may judaai asif
-  Shadman tab bhi shah e karbobala
+  Aakhri zarb jo zaalim ne lagaai Asif
+  Ho gayi Shah ke tan o sar meiṅ judaai Asif
+  Shaadmaaṅ tab bhi Shah-e-Karbobala
 # source_id: nohayonline:163179964fb372ec1d4c
 # source_url: https://www.nohayonline.com/details_content.php?id=2613
 # raw_sha256: 260e103cec0dc238c59943c17c71c5db6f444667f18591466ec9046b0bf96e82
 ---
-
 قتل کرنے کے ارادے سے ستمگر جو بڑھا
-ہو گیء دشت بیاباں کی خاموش فضا
+ہو گئی دشتِ بیاباں کی خاموش فضا
 پاس آیا تو قیامت کا یہ منظر دیکھا
-سجدۂ شکر میں سر رکھے ہوے شاہ ہدا
-بھای عباس کو دیتے تھے صدا
-ضرب جب لگتی تھی تب شاہ ہدا
-بھای عباس کو دیتے تھے صدا
+سجدۂ شکر میں سر رکھے ہوئے شاہِ ہدیٰ
+بھائی عباس کو دیتے تھے صدا
+
+ضرب جب لگتی تھی تب شاہِ ہدیٰ
+بھائی عباس کو دیتے تھے صدا
+
 تن سے سر ہوتا تھا جس وقت جدا
-بھای عباس کو دیتے تھے صدا
+بھائی عباس کو دیتے تھے صدا
 
 ۱
-جانتا تھا کہ شہ جن و بشر پیاسے ہیں
-جنبش لب سے یہ لگتا تھا کہ کچھ کہتے ہیں
+جانتا تھا کہ شہِ جن و بشر پیاسے ہیں
+جنبشِ لب سے یہ لگتا تھا کہ کچھ کہتے ہیں
 شمر نے کان لگا کر جو سنا
 
 ۲
-ایسا بھای بھی زمانے میں نہ دیکھا نہ سنا
-بھای کو جس نے تہہ تیغ ستم یاد کیا
-ہر معرق نے لکھا شاہ ہدا
+ایسا بھائی بھی زمانے میں نہ دیکھا نہ سنا
+بھائی کو جس نے تہہِ تیغِ ستم یاد کیا
+ہر مؤرخ نے لکھا شاہِ ہدیٰ
 
 ۳
 وار جس وقت کیا کرتا تھا گردن پہ لعیں
@@ -87,12 +91,12 @@ romanLyrics: |-
 ۴
 آہ کرتے تھے نہ فریاد و بکا کرتے تھے
 کوئی شکوہ نہ شکایت نہ گلہ کرتے تھے
-امت عاصی کو دیتے تھے دعا
+امتِ عاصی کو دیتے تھے دعا
 
 ۵
-بنت حیدر جو نظر آی در خیمہ پر
+بنتِ حیدر جو نظر آئی درِ خیمہ پر
 میں ابھی زندہ ہوں زینب یہ پکارے سرور
-بعد از سبط رسولِ دوسرا
+بعد از سبطِ رسولِ دوسرا
 
 ۶
 پہلی چھ ضربوں میں ہر ایک کو کیا یاد مگر
@@ -100,6 +104,6 @@ romanLyrics: |-
 ہو گیا ہونے کو سر تن سے جدا
 
 ۷
-آخری ضرب جو ظالم نے لگای آصف
-ہو گیء شہ کے تن و سر میں جدائی آصف
-شادماں تب بھی شہ کربوبلا
+آخری ضرب جو ظالم نے لگائی آصف
+ہو گئی شہ کے تن و سر میں جدائی آصف
+شادماں تب بھی شہِ کربوبلا
