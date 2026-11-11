@@ -1,44 +1,45 @@
 ---
 title: "برچھیوں میں دل کا ٹکڑا رہ گیا"
-alternateTitle: "Barchiyon Mein Dil Ka"
+alternateTitle: "Barchiyoṅ Mein Dil Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Barchiyon mein dil ka tukda rehgaya
-  Sheh ki aankhon mein andhera rehgaya
+  Barchiyoṅ mein dil ka tukra reh gaya
+  Shah ki aankhoṅ mein andhera reh gaya
 
   1
-  Ay falak sehne sitam ke waaste
-  Kya nabi zadon ka kunba rehgaya
+  Ae falak sehne sitam ke waaste
+  Kya Nabi zaadoṅ ka kunba reh gaya
 
   2
-  Noke naize par sare akbar ke saath
-  Umme laila ka kaleja rehgaya
+  Nok-e-naiza par sar-e-Akbar ke saath
+  Umm-e-Laila ka kaleja reh gaya
 
   3
-  Ab na wo akbar hai na husno shabab
-  Haan magar dunya mein charcha rehgaya
+  Ab na wo Akbar hai na husn o shabaab
+  Haaṅ magar duniya mein charcha reh gaya
 
   4
-  Odthi kyun kar rida binte ali
-  Be-kafan bhai ka laasha rehgaya
+  Orhti kiun kar rida Bint-e-Ali
+  Bekafan bhaai ka laasha reh gaya
 
   5
-  Isko kehte hai wafa ahle wafa
-  Bhar ke saqqa mashk pyasa rehgaya
+  Is ko kehte haiṅ wafa ahl-e-wafa
+  Bhar ke saqqa mashk pyaasa reh gaya
 
   6
-  Jal gaye qaime ridayein chin gayi
-  Khaanaye zehra mein ab kya rehgaya
+  Jal gaye khaime ridaaeṅ chhin gayiṅ
+  Khaana-e-Zehra mein ab kya reh gaya
 
   7
-  Jhaad kar daaman shahe deen uth gaye
-  Bezaban markhad mein tanha rehgaya
+  Jhaar kar daaman Shaah-e-diṅ uth gaye
+  Bezabaaṅ marqad mein tanha reh gaya
 # source_id: nohayonline:ff1d1c3ea93b5d7945fe
 # source_url: https://www.nohayonline.com/details_content.php?id=783
 # raw_sha256: b274a5844e3f0e4a3a7a419848001ec03c8537d85b104ea1f4dc34673ad7df5d
@@ -52,7 +53,7 @@ romanLyrics: |-
 
 ۲
 نوکِ نیزہ پر سرِ اکبر کے ساتھ
-امِ لیلیٰ کا کلیجہ رہ گیا
+امِّ لیلیٰ کا کلیجہ رہ گیا
 
 ۳
 اب نہ وہ اکبر ہے نہ حسن و شباب
@@ -60,16 +61,16 @@ romanLyrics: |-
 
 ۴
 اوڑھتی کیونکر ردا بنتِ علی
-بے کفن بھائی کا لاشہ رِہ گیا
+بے کفن بھائی کا لاشہ رہ گیا
 
 ۵
 اس کو کہتے ہیں وفا اہلِ وفا
-بھر کے سقہ مشک پیاسا رِہ گیا
+بھر کے سقہ مشک پیاسا رہ گیا
 
 ۶
 جل گئے خیمے ردائیں چھِن گئیں
-خانئہ زہرا میں اب کیا رِہ گیا
+خانۂ زہرا میں اب کیا رہ گیا
 
 ۷
 جھاڑ کر دامن شاہِ دیں اُٹھ گئے
-بے زباں مرقد میں تنہا رِہ گیا
+بے زباں مرقد میں تنہا رہ گیا
