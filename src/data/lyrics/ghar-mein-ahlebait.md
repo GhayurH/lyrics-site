@@ -5,40 +5,41 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar mein ahlebait ke matam hai khyber-geer ka
-  Hogaya suraj ghuroob islam ki taqdeer ka
+  Ghar meiṅ Ahl-e-Bait ke maatam hai Khaibar-gir ka
+  Ho gaya suraj ghurub Islam ki taqdir ka
 
   1
-  Maa ki ulfat cheenli ummat ne kal ki baat hai
-  Aaj baba bhi jahan se uth gaya shabbir ka
+  Maaṅ ki ulfat chhin li ummat ne kal ki baat hai
+  Aaj baaba bhi jahaaṅ se uth gaya Shabbir ka
 
   2
-  Ibne muljim ne do paara kar diya qalbe rasool
-  Farqe hyder mein utar aaya hai phal shamsheer ka
+  Ibn-e-Muljim ne do paara kar diya qalb-e-Rasul
+  Farq-e-Haidar meiṅ utar aaya hai phal shamshir ka
 
   3
-  Karbala mein us ka hi farzand tarse aab ko
-  Apne qaatil ko pilaye jo pyala sheer ka
+  Karbala meiṅ us ka hi farzand tarse aab ko
+  Apne qaatil ko pilaaye jo pyaala shir ka
 
   4
-  Shama o kufa ke tasavvur mein tadap ke murtaza
-  Tak rahe hai yaas se sar zainab e dilgeer ka
+  Shaam o Kufa ke tasavvur meiṅ tarap ke Murtaza
+  Tak rahe hai yaas se sar Zainab-e-Dilgir ka
 
   5
-  Thaam kar abbas ka baazu ye hyder ne kaha
-  Karbala mein dhyan rakhna chadare hamsheer ka
+  Thaam kar Abbaas ka baazu ye Haidar ne kaha
+  Karbala meiṅ dhyaan rakhna chaadar-e-Hamshir ka
 
   6
-  Gardan e hyder mein jo baandhi gayi hai reesma
-  Phir dikhayega falak manzar isi tasveer ka
+  Gardan-e-Haidar meiṅ jo baandhi gayi hai rismaaṅ
+  Phir dikhaayega falak manzar isi tasvir ka
 
   7
-  Sayyeda ke ghar mein barpa aaj phir kohraam hai
-  Haal hai behaal gham se shabbar o shabbir ka
+  Sayyeda ke ghar meiṅ barpa aaj phir kohraam hai
+  Haal hai behaal gham se Shabbar o Shabbir ka
 # source_id: nohayonline:980495fd42790da2ce81
 # source_url: https://www.nohayonline.com/details_content.php?id=2978
 # raw_sha256: 1f9c857b4a94c0871c54f83e079f310e2a36bec968d9dd1c206a9b4dd592fbcc
@@ -56,10 +57,10 @@ romanLyrics: |-
 
 ۳
 کربلا میں اس کا ہی فرزند ترسے آب کو
-اپنے قاتل کو پلاے جو پیالا شیر کا
+اپنے قاتل کو پلائے جو پیالا شیر کا
 
 ۴
-شام و کوفہ کے تصور میں تڑپ کے مرتظی
+شام و کوفہ کے تصور میں تڑپ کے مرتضیٰ
 تک رہے ہے یاس سے سر زینب دلگیر کا
 
 ۵
@@ -67,8 +68,8 @@ romanLyrics: |-
 کربلا میں دھیان رکھنا چادر ہمشیر کا
 
 ۶
-گردن حیدر میں جو باندھی گیء ہے ریسماں
-پھر دکھاے گا فلک منظر اسی تصویر کا
+گردن حیدر میں جو باندھی گئی ہے ریسماں
+پھر دکھائے گا فلک منظر اسی تصویر کا
 
 ۷
 سیدہ کے گھر میں برپا آج پھر کہرام ہے

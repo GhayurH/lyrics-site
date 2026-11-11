@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mujeeb Alipuri"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar se nikal raha hai janaza batool ka
-  Girya kuna hai saara gharana batool ka
+  Ghar se nikal raha hai janaaza Batul ka
+  Girya kunaaṅ hai saara gharaana Batul ka
 
   1
-  Baad e rasool itne masayib huwe nuzool
-  Athara saal hi mein zaeefa hui batool
-  Matam sara bana hai madina batool ka
+  Baad-e-Rasul itne masaaib hue nuzul
+  Athaara saal hi meiṅ zaifa hui Batul
+  Maatam sara bana hai Madina Batul ka
 
   2
-  Darwaza e ali ko adoo ne jala diya
-  Pehlu pe haye jalta hua dar gira diya
-  Dushwaar kar ke rakh diya jeena batool ka
+  Darwaaza-e-Ali ko adu ne jala diya
+  Pehlu pe haaye jalta hua dar gira diya
+  Dushwaar kar ke rakh diya jina Batul ka
 
   3
-  Dewaar o dar ke darmiyan shehzadi aa gayi
-  Ek keeli phasliyon mein jo paywast hogayi
-  Haye shaheed ho gaya beta batool ka
+  Diwaar o dar ke darmiyaaṅ shahzaadi aa gayi
+  Ek kili pasliyoṅ meiṅ jo paiwast ho gayi
+  Haaye shahid ho gaya beta Batul ka
 
   4
-  Le aaye ghusl khaane mein mayyat ko aeliya
-  Daurane ghusl cheekh pade sher e kibriya
-  Aaya nazar jo pehlu shikasta batool ka
+  Le aaye ghusl khaane meiṅ mayyat ko Aeliya
+  Dauraan-e-Ghusl chikh pare Sher-e-Kibriya
+  Aaya nazar jo pehlu shikasta Batul ka
 
   5
-  Wallah de koi to dilaasa hussain ko
-  Mayyat pe maa ki rone na dena hussain ko
-  Rone se iske phat'ta hai seena batool ka
+  Wallaah de koi to dilaasa Husain ko
+  Mayyat pe maaṅ ki rone na dena Husain ko
+  Rone se is ke phatta hai sina Batul ka
 
   6
-  Hasnain muztarib hai to bechain hai ali
-  Ghash mein padi hai zainab o kulsoom ya nabi
-  Ranj o alam mein gharkh hai kunba batool ka
+  Hasnain muztarib hai to bechain hai Ali
+  Ghash meiṅ pari hai Zainab o Kulsum ya Nabi
+  Ranj o alam meiṅ gharq hai kunba Batul ka
 
   7
-  Har simt hai madine mein shor e buka mujeeb
-  Rote hai sar ko peet ke ahle aza mujeeb
-  Rehan ke labon pe hai nauha batool ka
+  Har simt hai Madine meiṅ shor-e-Buka Mujib
+  Rote haiṅ sar ko pit ke ahl-e-Aza Mujib
+  Rehan ke laboṅ pe hai nauha Batul ka
 # source_id: nohayonline:09d20ee2297126e7771b
 # source_url: https://www.nohayonline.com/details_content.php?id=1393
 # raw_sha256: 63ac1fa7f376e9ede673630a521edcabd5c3fcb7a7f61e4e1601e7029710156f
@@ -55,22 +56,22 @@ romanLyrics: |-
 گریہ کناں ہے سارا گھرانہ بتول کا
 
 ۱
-بعد رسول اتنے مصایب ہوے نزول
-اٹھارہ سال ہی میں ضعیفی ہوی بتول
+بعد رسول اتنے مصائب ہوئے نزول
+اٹھارہ سال ہی میں ضعیفی ہوئی بتول
 ماتم سرا بنا ہے مدینہ بتول کا
 
 ۲
-دروازہء علی کو عدو نے جلا دیا
-پہلو پہ ہاے جلتا ہوا در گرا دیا
+دروازۂ علی کو عدو نے جلا دیا
+پہلو پہ ہائے جلتا ہوا در گرا دیا
 دشوار کر کے رکھ دیا جینا بتول کا
 
 ۳
-دیوار و در کے درمیاں شہزادی آ گیء
-اک کیل پسلیوں میں جو پیوست ہو گیء
-ہاے شہید ہو گیا بیٹا بتول کا
+دیوار و در کے درمیاں شہزادی آ گئی
+اک کیل پسلیوں میں جو پیوست ہو گئی
+ہائے شہید ہو گیا بیٹا بتول کا
 
 ۴
-لے آے غسل خانے میں میت کو اعلیا
+لے آئے غسل خانے میں میت کو اعلیا
 دوران غسل چیخ پڑے شیر کبریا
 آیا نظر جو پہلو شکستہ بتول کا
 
@@ -86,5 +87,5 @@ romanLyrics: |-
 
 ۷
 ہر سمت ہے مدینے میں شور بکا مجیب
-روتے ہیں سر کو پیٹ کے أہل عزا مجیب
+روتے ہیں سر کو پیٹ کے اہل عزا مجیب
 ریحان کے لبوں پہ ہے نوحہ بتول کا

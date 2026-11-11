@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar se ali ke ruqsat e khairunisa hui
-  Maula-e-kayanat se zehra juda hui
+  Ghar se Ali ke rukhsat-e-Khair-un-Nisa hui
+  Maula-e-Kaainaat se Zehra juda hui
 
   1
-  Zehra ko ek pal bhi sukoon ka na mil saka
-  Baad e rasool us pa wo joro jafa hui
+  Zehra ko ek pal bhi sukun ka na mil saka
+  Baad-e-Rasul us pe wo jaur o jafa hui
 
   2
-  Hasnain bhi udaas hai hyder bhi hai malool
+  Hasnain bhi udaas haiṅ Haidar bhi haiṅ malul
   Kaabe ke baam o dar pe jo raunaq thi kya hui
 
   3
-  Zainab ke sar pa saaya e zehra nahi raha
-  Beti abhi se dehr mein kya berida hui
+  Zainab ke sar pe saaya-e-Zehra nahiṅ raha
+  Beti abhi se dehr meiṅ kya berida hui
 
   4
-  Fizza tadap ke kehti hai sar apna peet kar
-  Ruqsat jahan se khalq ki haajat rawa hui
+  Fizza tarap ke kehti hai sar apna pit kar
+  Rukhsat jahaaṅ se khalq ki haajat rawa hui
 
   5
-  Mohsin shaheed hogaye dar is tarha gira
-  Yan karbala se pehle hi ek karbala hui
+  Mohsin shahid ho gaye dar is tarah gira
+  Yaaṅ Karbala se pehle hi ek Karbala hui
 
   6
-  Jis ka janaza uth'ta hai tareek raat mein
-  Din mein usi ki laqte jigar berida hui
+  Jis ka janaaza uthta hai taarik raat meiṅ
+  Din meiṅ usi ki lakht-e-Jigar berida hui
 
   7
-  Maula ka ghar ujad gaya zehra guzar gayi
-  Akhtar na pooch kaisi qayamat bapa hui
+  Maula ka ghar ujar gaya Zehra guzar gayi
+  Akhtar na puchh kaisi qayaamat bapa hui
 # source_id: nohayonline:90ef8efd078ec25277cc
 # source_url: https://www.nohayonline.com/details_content.php?id=279
 # raw_sha256: 4ea2a09a4a47648afe8a70062c49d4343c10b45b4160bfbfb2b784c0911ce2ae
@@ -50,18 +51,18 @@ romanLyrics: |-
 
 ۱
 زہرا کو ایک پل بھی سکون کا نہ مل سکا
-بعد رسول اس پہ وہ جو رو جفا ہوئی
+بعد رسول اس پہ وہ جور و جفا ہوئی
 
 ۲
 حسنین بھی اداس ہیں حیدر بھی ہیں ملول
 کعبے کے بام و در پہ جو رونق تھی کیا ہوئی
 
 ۳
-زینب کے سر پہ سائے زہرا نہیں رہا
+زینب کے سر پہ سایۂ زہرا نہیں رہا
 بیٹی ابھی سے دہر میں کیا بے ردا ہوئی
 
 ۴
-فضا تڑپ کے کہتی ہے سر اپنا پیٹ کر
+فضہ تڑپ کے کہتی ہے سر اپنا پیٹ کر
 رخصت جہاں سے خلق کی حاجت روا ہوئی
 
 ۵

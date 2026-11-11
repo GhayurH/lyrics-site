@@ -5,61 +5,62 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Suroor Lakhnavi"
+poet: "Surur Lakhnavi"
+reciter: "Anj. Muhibbane Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar sakina ka hai qaid khana
-  Ab na ho ga watan uska jaana
+  Ghar Sakina ka hai qaid khaana
+  Ab na ho ga watan us ka jaana
 
   1
-  Ro ke ghurbat se boli sakina
-  Jaane waalon hamay bhool jaana
+  Ro ke ghurbat se boli Sakina
+  Jaane waaloṅ hameiṅ bhul jaana
 
   2
-  Qaid hai aur lehed ka andhera
-  Ab gaya roshni ka zamana
+  Qaid hai aur lahad ka andhera
+  Ab gaya roshni ka zamaana
 
   3
-  Gham sakina ka samjha usi ne
-  Jo parinda hai be-aashiyana
+  Gham Sakina ka samjha usi ne
+  Jo parinda hai beaashiyaana
 
   4
-  Kaise jeeti wo jab ek din mein
-  Lut gaya zindagi ka khazana
+  Kaise jiti wo jab ek din meiṅ
+  Lut gaya zindagi ka khazaana
 
   5
-  Jo na ro paayi baba par usko
-  Royega hashr tak ab zamana
+  Jo na ro paayi baaba par us ko
+  Royega hashr tak ab zamaana
 
   6
-  Teer jitne chale ranj o gham ke
-  Uska masoom dil tha nishana
+  Tir jitne chale ranj o gham ke
+  Us ka maasum dil tha nishaana
 
   7
-  Kamsini mein milay zakhm itne
-  Maut ka ban gaya ye bahana
+  Kamsini meiṅ mile zakhm itne
+  Maut ka ban gaya ye bahaana
 
   8
-  Baap maqtal mein beti lehed mein
-  Ab kahan roothna aur manana
+  Baap maqtal meiṅ beti lahad meiṅ
+  Ab kahaaṅ ruthna aur manaana
 
   9
-  Thi amaari sakina ki khaali
-  Khafila jab hua tha rawana
+  Thi amaari Sakina ki khaali
+  Qaafila jab hua tha rawaana
 
   10
-  Kitni ghurbat mein maut aayi usko
-  Tha kafan uska kurta purana
+  Kitni ghurbat meiṅ maut aayi us ko
+  Tha kafan us ka kurta puraana
 
   11
   Jaagte jaagte mar gayi wo
-  Jisko dushwaar tha neend aana
+  Jis ko dushwaar tha nind aana
 
   12
-  Yaad karna suroor uski turbat
-  Jab andhere mein shamma jalana
+  Yaad karna Surur us ki turbat
+  Jab andhere meiṅ shama jalaana
 # source_id: nohayonline:0ab11d26bd39c7c52896
 # source_url: https://www.nohayonline.com/details_content.php?id=3747
 # raw_sha256: 962c00624e6dc594dc5624409ed709ac1af883d03557bc1f289982dec9f92e6d
@@ -84,8 +85,8 @@ romanLyrics: |-
 لٹ گیا زندگی کا خزانہ
 
 ۵
-جو نہ پای بابا پر اس کو
-روے گا حشر تک اب زمانہ
+جو نہ رو پائی بابا پر اس کو
+روئے گا حشر تک اب زمانہ
 
 ۶
 تیر جتنے چلے رنج و غم کے
@@ -104,13 +105,13 @@ romanLyrics: |-
 قافلہ جب ہوا تھا روانہ
 
 ۱۰
-کتنی غربت میں موت آی اس کو
-تھا کفن اس کا کرتہ پرانہ
+کتنی غربت میں موت آئی اس کو
+تھا کفن اس کا کرتہ پرانا
 
 ۱۱
-جاگتے جاگتے مر گیء وہ
+جاگتے جاگتے مر گئی وہ
 جس کو دشوار تھا نیند آنا
 
 ۱۲
-یاد کرنا سرور اسکی تربت
+یاد کرنا سرور اس کی تربت
 جب اندھیرے میں شمع جلانا
