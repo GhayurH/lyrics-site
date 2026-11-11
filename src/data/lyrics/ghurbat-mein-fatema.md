@@ -6,77 +6,78 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Zaidi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghurbat mein fatema ka aabad ghar luta hai
-  
+  Ghurbat mein Fatema ka aabaad ghar luta hai
+
   1
-  Ye karbala mein akhtar kya saaneha hua hai
-  Laashe pade hai kis ke khoon kis ka ye baha hai
-  Tehre nazar jahan bhi manzar lahoo bhara hai
-  Maidan ka zarra zarra awaaz de raha hai
-  
+  Ye Karbala mein Akhtar kya saaneha hua hai
+  Laashe pare haiṅ kis ke khun kis ka ye baha hai
+  Thehre nazar jahaaṅ bhi manzar lahu bhara hai
+  Maidaaṅ ka zarra zarra aawaaz de raha hai
+
   2
-  Dashte bala mein sab ne shaadi ka sog dekha
-  Kubra bani thi dulhan qasim bana tha dulha
-  Pamaal ran e dulha taaza dulhan hai bewa
-  Kaandhe pa shaahe deen ke naushah ka hai laasha
-  
+  Dasht-e-bala mein sab ne shaadi ka sog dekha
+  Kubra bani thi dulhan Qasim bana tha dulha
+  Paamaal ran mein dulha taaza dulhan hai bewa
+  Kaandhe pe Shaah-e-diṅ ke naushaah ka hai laasha
+
   3
-  Qaime ke dar pa bacche kooze liye khade hai
-  Abbas sar se paa tak khoon mein naha gaye hai
-  Mashkeeza chid gaya hai shaane kate huwe hai
-  Thaame huwe kamar ko shabbir ro rahe hai
-  
+  Khaime ke dar pe bachche kuze liye khare haiṅ
+  Abbas sar se paa tak khuṅ mein naha gaye haiṅ
+  Mashkiza chhid gaya hai shaane kate hue haiṅ
+  Thaame hue kamar ko Shabbir ro rahe haiṅ
+
   4
-  Yun akbar e jawan ki maqtal se laash aayi
-  Seene pa zakhm taaza zulfon mein khaak ran ki
-  Allah jaanta hai zainab pa jo bhi guzri
-  Ye sochti hai laila kis tarha ab jiyegi
-  
+  Yuṅ Akbar-e-jawaaṅ ki maqtal se laash aayi
+  Sine pe zakhm taaza zulfoṅ mein khaak ran ki
+  Allah jaanta hai Zainab pe jo bhi guzri
+  Ye sochti hai Laila kis tarah ab jiye gi
+
   5
-  Shabbir laashe asghar qaime mein aise laaye
-  Pyase gaye thay ran ko khoon mein naha ke aaye
-  Honton pa muskurahat gardan pa teer khaaye
-  Daure khiza mein jaise ek phool muskuraye
-  
+  Shabbir laash-e-Asghar khaime mein aise laaye
+  Pyaase gaye the ran ko khuṅ mein naha ke aaye
+  Hoṅtoṅ pe muskuraahat gardan pe tir khaaye
+  Daur-e-khizaaṅ mein jaise ek phul muskuraaye
+
   6
   Kufe mein daakhila bhi uftaad ek nayi thi
-  Bedard raaston par aulaad mustafa ki
-  Sehmi hui sakina ankhon mein ek udaasi
-  Zainab ki be-ridayi sajjad ki aseeri
-  
+  Bedard raastoṅ par aulaad-e-Mustafa ki
+  Sehmi hui Sakina aaṅkhoṅ mein ek udaasi
+  Zainab ki beridaai Sajjad ki asiri
+
   7
-  Darbar shaam ka tha aur khaafela khada tha
-  Sardar e do jahan ka sar tasht mein rakha tha
-  Honton pa shaahe deen ke wo zulm ho raha tha
-  Zainab ke tan badan mein larza pada hua tha
-  
+  Darbaar Shaam ka tha aur qaafila khara tha
+  Sardaar-e-do jahaaṅ ka sar tasht mein rakha tha
+  Hoṅtoṅ pe Shaah-e-diṅ ke wo zulm ho raha tha
+  Zainab ke tan badan mein larza para hua tha
+
   8
-  Bigdi hui wo dunya badla hua zamana
-  Kamsin yateem bacchi zaalim ka taaziyana
-  Raushan zameer qaidi tareek qaid khana
-  Maa peet’ti rahi sar aur chal basi sakina
-  
+  Bigri hui wo duniya badla hua zamaana
+  Kamsin yatim bachchi zaalim ka taaziyaana
+  Raushan zamir qaidi taarik qaid khaana
+  Maaṅ pitti rahi sar aur chal basi Sakina
+
   9
-  Jab arbaeen karne kunba nabi ka pahuncha
-  Maidan e karbala mein ek hashr ka samaa tha
-  Qabr e hussain kaampi matam ka shor utha
-  Zainab suna rahi thi roodad e shaam o kufa
-  
+  Jab arbain karne kunba Nabi ka pahuṅcha
+  Maidaan-e-Karbala mein ek hashr ka samaaṅ tha
+  Qabr-e-Husain kaaṅpi maatam ka shor utha
+  Zainab suna rahi thi rudaad-e-Shaam o Kufa
+
   10
-  Beete huwe dino ke sab zakhm ab hare thay
-  Zainab ye sochti thi haathon se dil ko thaame
-  Abbbas ki lahad par jaaungi ab mai kaise
-  Zindan mein hai sakina aankhon mein hai andhere
-  
+  Bite hue dinoṅ ke sab zakhm ab hare the
+  Zainab ye sochti thi haathoṅ se dil ko thaame
+  Abbas ki lahad par jaauṅ gi ab main kaise
+  Zindaaṅ mein hai Sakina aaṅkhoṅ mein hai andhere
+
   11
-  Marqad pa shaahe deen ke naale rabab ke thay
-  Jaa kar watan ye dukhiya roodad kya sunaye
-  Waaris nahi hai sar par bacche bhi mujhse bichde
-  Apni lahad mein waali mujhko bhi ab chipaale
+  Marqad pe Shaah-e-diṅ ke naale Rabab ke the
+  Jaa kar watan ye dukhiya rudaad kya sunaaye
+  Waaris nahiṅ hai sar par bachche bhi mujh se bichhre
+  Apni lahad mein waali mujh ko bhi ab chhupa le
 # source_id: nohayonline:5a7a7cbbdd78d89b3048
 # source_url: https://www.nohayonline.com/details_content.php?id=2996
 # raw_sha256: 4a4056137f2f57ed1e6543fa69ec8ec7e657804572a541fca334892777323a15
@@ -87,8 +88,8 @@ romanLyrics: |-
 ۱
 یہ کربلا میں اختر کیا سانحہ ہوا ہے
 لاشے پڑے ہیں کس کے خون کس کا یہ بہا ہے
-ٹہرے نظر جہاں بھی منظر لہو بھرا ہے
-میداں کا زرہ زرہ آواز دے رہا ہے
+ٹھہرے نظر جہاں بھی منظر لہو بھرا ہے
+میداں کا ذرہ ذرہ آواز دے رہا ہے
 
 ۲
 دشتِ بلا میں سب نے شادی کا سوگ دیکھا
@@ -97,26 +98,26 @@ romanLyrics: |-
 کاندھے پہ شاہ دیں کے نوشاہ کا ہے لاشہ
 
 ۳
-خیمے کے در بچے کوزے لیےء کھڑے ہیں
-عباس سر سے پا تک خوں میں نہا گےء ہیں
+خیمے کے در پہ بچے کوزے لیے کھڑے ہیں
+عباس سر سے پا تک خوں میں نہا گئے ہیں
 مشکیزہ چھد گیا ہے شانے کٹے ہوئے ہیں
 تھامے ہوئے کمر کو شبیر رو رہے ہیں
 
 ۴
-یوں اکبر جواں کی مقتل سے لاش آی
-سینے پہ زخم تازہ ذوالفوں میں خاک رن کی
+یوں اکبرِ جواں کی مقتل سے لاش آئی
+سینے پہ زخم تازہ زلفوں میں خاک رن کی
 اللہ جانتا ہے زینب پہ جو بھی گزری
-یہ سوچتی ہے لیلیٰ کس طرح اب جیےء گی
+یہ سوچتی ہے لیلیٰ کس طرح اب جیے گی
 
 ۵
-شبیر لاش اصغر خیمے میں ایسے لاے
-پیاسے گےء تھے رن کو خوں میں نہا کے آے
-ہونٹوں پہ مسکراہٹ گردن پہ تیر کھاے
-دور خزاں میں جیسے اک پھول مسکراے
+شبیر لاشِ اصغر خیمے میں ایسے لائے
+پیاسے گئے تھے رن کو خوں میں نہا کے آئے
+ہونٹوں پہ مسکراہٹ گردن پہ تیر کھائے
+دورِ خزاں میں جیسے اک پھول مسکرائے
 
 ۶
-کوفے میں داخلہ بھی افتاد ایک نیء تھی
-بے درد راستوں پر اولاد مصطفیٰ کی
+کوفے میں داخلہ بھی افتاد ایک نئی تھی
+بے درد راستوں پر اولادِ مصطفیٰ کی
 سہمی ہوئی سکینہ آنکھوں میں ایک اداسی
 زینب کی بے ردائی سجاد کی اسیری
 
@@ -146,6 +147,6 @@ romanLyrics: |-
 
 ۱۱
 مرقد پہ شاہ دیں کے نالے رباب کے تھے
-جا کر وطن یہ دکھیا روداد کیا سناے
+جا کر وطن یہ دکھیا روداد کیا سنائے
 وارث نہیں ہے سر پر بچے بھی مجھ سے بچھڑے
-اپنی لحد میں والی مجھکو بھی اب چھپالے
+اپنی لحد میں والی مجھ کو بھی اب چھپا لے
