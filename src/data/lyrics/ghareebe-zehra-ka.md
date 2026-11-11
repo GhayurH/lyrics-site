@@ -1,95 +1,96 @@
 ---
 title: "کیا ہے پامال اسکو رن میں"
-alternateTitle: "Ghareebe Zehra Ka"
+alternateTitle: "Gharib-e-Zehra Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ghareebe Zehra Ka"]
 published: false
 romanLyrics: |-
-  Kiya hai paamal isko ran mein
-  Hai zakhm hi zakhm is badan mein
-  Nahi hai koi uthaane waala
-  Bahot akela hai is watan mein
+  Kiya hai paamaal is ko ran mein
+  Haiṅ zakhm hi zakhm is badan mein
+  Nahiṅ hai koi uthaane waala
+  Bahut akela hai is watan mein
 
   1
-  Idhar ki sab phasliyan udhar hai
-  Udhar ki sab phasliyan idhar hai
-  Jo garm reti pe be-kafan hai
-  Ghareeb e zahra ka ye badan hai
+  Idhar ki sab pasliyaṅ udhar haiṅ
+  Udhar ki sab pasliyaṅ idhar haiṅ
+  Jo garm reti pe bekafan hai
+  Gharib-e-Zahra ka ye badan hai
 
   2
-  Ye wo badan hai ke jiska seena
-  Haan choomte thay shah e madina
-  Bhara hai teeron se haye ghurbat
-  Kahan pe soyegi ab sakina
-  Yehi wo seena hai jispe chad kar
-  Layeen ne kaata hussain ka sar
+  Ye wo badan hai ke jis ka sina
+  Haaṅ chumte the Shah-e-Madina
+  Bhara hai tiroṅ se haaye ghurbat
+  Kahaṅ pe soyegi ab Sakina
+  Yehi wo sina hai jis pe charh kar
+  Laiṅ ne kaata Husain ka sar
 
   3
-  Hui thi wo jinki naal bandi
-  Thay aam ghodon se aur wazni
-  Jo ghode daude thay is badan par
-  Kuchalna unki khusoosiyat thi
-  Na jaane kis tarha maa ne dekha
-  Sumon ke neeche ghareeb beta
+  Hui thi wo jin ki naal bandi
+  The aam ghoroṅ se aur wazni
+  Jo ghore daure the is badan par
+  Kuchalna unki khususiyat thi
+  Na jaane kis tarah maaṅ ne dekha
+  Sumoṅ ke niche gharib beta
 
   4
-  Layeen wo bajdal tha naam jiska
-  Sirhane jab is badan ke pahuncha
-  Angoothi kis tarha loot'ta wo
-  Tha zakhmi haathon pe warm itna
-  Na utri zaalim se jab angoothi
+  Laiṅ wo Bajdal tha naam jis ka
+  Sirhaane jab is badan ke pahuncha
+  Anguthi kis tarah lutta wo
+  Tha zakhmi haathoṅ pe waram itna
+  Na utri zaalim se jab anguthi
   To kaat kar le gaya wo ungli
 
   5
-  Akela laakhon se zakhm kha kar
-  Ye sogaya jab sitam utha kar
+  Akela laakhoṅ se zakhm kha kar
+  Ye so gaya jab sitam utha kar
   Andhere ban mein isi badan se
-  Behen ne patthar hataye aakar
-  Na jaane zainab ne kaise dekha
-  Ghareeb bhai ka zakhmi laasha
+  Behan ne patthar hataaye aa kar
+  Na jaane Zainab ne kaise dekha
+  Gharib bhaai ka zakhmi laasha
 
   6
-  Saron ko naizon pe jab chadhaya
-  Sar ek chota sa mil na paaya
-  Layeen ne naiza zameen pe maara
-  To laasha asghar ka saath aaya
+  Saroṅ ko nezoṅ pe jab charhaaya
+  Sar ek chhota sa mil na paaya
+  Laiṅ ne neza zamiṅ pe maara
+  To laasha Asghar ka saath aaya
   Pidar ke zakhmi badan pe rakh kar
-  Chalaya nanhe galay pe khanjar
+  Chalaaya nanhe gale pe khanjar
 
   7
-  Pidar ke seene pe sone waali
-  Jab is badan ke khareeb pahunchi
-  Ye aake shimr e layeen ne dekha
+  Pidar ke sine pe sone waali
+  Jab is badan ke qarib pahunchi
+  Ye aa ke Shimr-e-Laiṅ ne dekha
   Pidar se lipti hui hai beti
-  Pakad ke baalon se jab chudaya
-  Badan zameen par tadap raha tha
+  Pakar ke baaloṅ se jab chhuraaya
+  Badan zamiṅ par tarap raha tha
 
   8
-  Kahin pe talwar ke nishan hai
-  Kahin pe naize hai barchiyan hai
-  Lahoo bhi zakhmon se ris raha hai
-  Ghareeb ki zakhmi aediyan hai
-  Badan hai ye chaak chaak haye
-  Bahri hai zakhmon mein khaak haye
+  Kahiṅ pe talwaar ke nishaaṅ haiṅ
+  Kahiṅ pe neze haiṅ barchhiyaṅ haiṅ
+  Lahu bhi zakhmoṅ se ris raha hai
+  Gharib ki zakhmi eriyaṅ haiṅ
+  Badan hai ye chaak chaak haaye
+  Bhari hai zakhmoṅ mein khaak haaye
 
   9
-  Hussain ki jab lehad pe jaana
-  Raza o zeeshan yaad rakhna
-  Bichi hai turbat mein ek chatayi
-  Ye dil ki aankhon se dekh lena
-  Wahin ye zakhmi badan rakha hai
-  Sagheer seene pe so raha hai
+  Husain ki jab lahad pe jaana
+  Raza o Zeeshan yaad rakhna
+  Bichhi hai turbat mein ik chataai
+  Ye dil ki aankhoṅ se dekh lena
+  Wahiṅ ye zakhmi badan rakha hai
+  Saghir sine pe so raha hai
 # source_id: nohayonline:7312bba32232804551be
 # source_url: https://www.nohayonline.com/details_content.php?id=2692
 # raw_sha256: d345ddfc944cf24c0ad318c75432c1cf6c8d37205e46533a6affa6e5e2713b81
 ---
 
-کیا ہے پامال اسکو رن میں
+کیا ہے پامال اس کو رن میں
 ہیں زخم ہی زخم اس بدن میں
 نہیں ہے کوئی اُٹھانے والا
 بہت اکیلا ہے اِس وطن میں
@@ -101,23 +102,23 @@ romanLyrics: |-
 غریب زہرا کا یہ بدن ہے
 
 ۲
-یہ وہ بدن ہے کہ جسکا سینہ
+یہ وہ بدن ہے کہ جس کا سینہ
 ہاں چومتے تھے شہ مدینہ
 بھرا ہے تیروں سے ہائے غربت
-کہاں پہ سوئیگی اب سکینہ
-یہی وہ سینہ ہے جس پہ چڑھکر
+کہاں پہ سوئے گی اب سکینہ
+یہی وہ سینہ ہے جس پہ چڑھ کر
 لعیں نے کاٹا حسین کا سر
 
 ۳
-ہوئی تھی وہ جنکی کی نال بندی
+ہوئی تھی وہ جن کی نال بندی
 تھے عام گھوڑوں سے اور وزنی
 جو گھوڑے دوڑے تھے اس بدن پر
-کچلنا اُنکی خصوصیت تھی
+کچلنا اُن کی خصوصیت تھی
 نہ جانے کس طرح ماں نے دیکھا
 سموں کے نیچے غریب بیٹا
 
 ۴
-لعیں وہ بجدل تھا نام جسکا
+لعیں وہ بجدل تھا نام جس کا
 سرہانے جب اس بدن کے پہنچا
 انگوٹھی کس طرح لوٹتا وہ
 تھا زخمی ہاتھوں میں ورم اتنا
@@ -125,10 +126,10 @@ romanLyrics: |-
 تو کاٹ کر لے گیا وہ انگلی
 
 ۵
-اکیلا لاکھوں سے زخم کھاکر
-یہ سوگیا جب ستم اُٹھاکر
+اکیلا لاکھوں سے زخم کھا کر
+یہ سو گیا جب ستم اُٹھا کر
 اندھیرے بن میں اسی بدن سے
-بہن نے پتھر ھٹائے آکر
+بہن نے پتھر ہٹائے آ کر
 نہ جانے زینب نے کیسا دیکھا
 غریب بھائی کا زخمی لاشہ
 
@@ -143,9 +144,9 @@ romanLyrics: |-
 ۷
 پدر کے سینے پہ سونے والی
 جب اس بدن کے قریب پہنچی
-یہ آکے شمرِ لعیں نے دیکھا
+یہ آ کے شمرِ لعیں نے دیکھا
 پدر سے لپٹی ہوئی تھی بیٹی
-پکڑکے بالوں سے جب چھڑایا
+پکڑ کے بالوں سے جب چھڑایا
 بدن زمیں پر تڑپ رہا تھا
 
 ۸
