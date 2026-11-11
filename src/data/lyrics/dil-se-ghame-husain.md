@@ -1,65 +1,66 @@
 ---
 title: "دل سے غم حسین نہ ہو کم خدا کرے"
-alternateTitle: "Dil Se Ghame Husain"
+alternateTitle: "Dil Se Gham-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
-aliases: []
+aliases: ["Dil Se Ghame Husain"]
 published: false
 romanLyrics: |-
-  Dil se ghame hussain na ho kam khuda kare
-  Le jaaun mai lehad mein yehi gham khuda kare
+  Dil se gham-e-Husain na ho kam Khuda kare
+  Le jaauṅ maiṅ lahad meiṅ yehi gham Khuda kare
 
   1
-  Hubbe ali ho dil mein zaban par ho ya hussain
-  Jab waqte nazha nikle mera dam khuda kare
+  Hubb-e-Ali ho dil meiṅ zabaaṅ par ho Ya Husain
+  Jab waqt-e-naza nikle mera dam Khuda kare
 
   2
-  Thokar lage to aaye zaban par ali ka naam
-  Har gham mein ho hussain ka matam khuda kare
+  Thokar lage to aaye zabaaṅ par Ali ka naam
+  Har gham meiṅ ho Husain ka maatam Khuda kare
 
   3
-  Seene pe daagh matame shabbir ka rahe
-  Daaman ho ashke gham se sada nam khuda kare
+  Sine pe daagh-e-maatam-e-Shabbir ka rahe
+  Daaman ho ashk-e-gham se sada nam Khuda kare
 
   4
-  Phaile nishane hazrat abbas ki ziya
-  Saare jahan pe chaaye ye parcham khuda kare
+  Phaile nishaan-e-Hazrat-e-Abbas ki ziya
+  Saare jahaaṅ pe chhaaye ye parcham Khuda kare
 
   5
-  Har dukh mein yaad aaye shaheedan e karbala
-  Har zakhme dil ka ho yehi marham khuda kare
+  Har dukh meiṅ yaad aaye shahidaan-e-Karbala
+  Har zakhm-e-dil ka ho yehi marham Khuda kare
 
   6
-  Dar dar ke keh rahe thay ye aapas mein sab layeen
-  Abbas ho na nehr pe barham khuda kare
+  Dar dar ke keh rahe the ye aapas meiṅ sab laiṅ
+  Abbas ho na nehr pe barham Khuda kare
 
   7
-  Faujein adoo ki aati thi zainab ye kehti thi
-  Aa jaaye koi shimr ka bhi kaam khuda kare
+  Faujeṅ adu ki aati thi Zainab ye kehti thi
+  Aa jaaye koi Shimr ka bhi kaam Khuda kare
 
   8
-  Akbar ne sheh ke saamne toda tha jaise dam
-  Koi pidar na dekhe ye aalam khuda kare
+  Akbar ne Shah ke saamne tora tha jaise dam
+  Koi pidar na dekhe ye aalam Khuda kare
 
   9
-  Qaime mein kar rahi thi sakina yehi dua
-  Aa jaaye khairiyat se mere amm khuda kare
+  Khaime meiṅ kar rahi thi Sakina yehi dua
+  Aa jaaye khairiyat se mere am Khuda kare
 
   10
-  Akbar palat ke aaye ye sughra ki thi dua
-  Phir bhai aur behen mile baaham khuda kare
+  Akbar palat ke aaye ye Sughra ki thi dua
+  Phir bhaai aur behen mile baaham Khuda kare
 
   11
-  Sheh bole lab pe ye bakhshishe ummat ki ho dua
-  Khanjar rawan ho halq pe jis dam khuda kare
+  Shah bole lab pe ye bakhshish-e-ummat ki ho dua
+  Khanjar rawaaṅ ho halq pe jis dam Khuda kare
 
   12
-  Ye keh ke khatm kar do mujahid kalaam ko
-  Badta rahe hussain ka matam khuda kare
+  Ye keh ke khatm kar do Mujahid kalaam ko
+  Barhta rahe Husain ka maatam Khuda kare
 # source_id: nohayonline:4850e278daf43bc0d444
 # source_url: https://www.nohayonline.com/details_content.php?id=3682
 # raw_sha256: 41c568aa4b1fbf959ea3afd41589200e8776274b5e2a740eea1f9c65f69ab422
@@ -72,7 +73,7 @@ romanLyrics: |-
 جب وقت نزع نکلے میرا دم خدا کرے
 
 ۲
-ٹھوکر لگے تو آے زباں پر علی کا نام
+ٹھوکر لگے تو آئے زباں پر علی کا نام
 ہر غم میں ہو حسین کا ماتم خدا کرے
 
 ۳
@@ -81,11 +82,11 @@ romanLyrics: |-
 
 ۴
 پہلے نشان حضرت عباس کی ضیا
-سارے جہاں پہ چھاے یہ پرچم خدا کرے
+سارے جہاں پہ چھائے یہ پرچم خدا کرے
 
 ۵
-ہر دکھ میں یاد آے شہیدان کربلا
-ہر زخم دل کا ہو یہی مرحم خدا کرے
+ہر دکھ میں یاد آئے شہیدان کربلا
+ہر زخم دل کا ہو یہی مرہم خدا کرے
 
 ۶
 ڈر ڈر کے کہہ رہے تھے یہ آپس میں سب لعیں
@@ -104,8 +105,8 @@ romanLyrics: |-
 آ جائے خیریت سے میرے عم خدا کرے
 
 ۱۰
-اکبر پلٹ کے آے یہ صغرا کی تھی دعا
-پھر بھای اور بہن ملے باہم خدا کرے
+اکبر پلٹ کے آئے یہ صغرا کی تھی دعا
+پھر بھائی اور بہن ملے باہم خدا کرے
 
 ۱۱
 شہ بولے لب پہ یہ بخشش امت کی ہو دعا

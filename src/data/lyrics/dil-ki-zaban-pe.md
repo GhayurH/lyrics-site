@@ -1,71 +1,72 @@
 ---
 title: "دل کی زباں پہ نام رہے گا حسین کا"
-alternateTitle: "Dil Ki Zaban Pe"
+alternateTitle: "Dil Ki Zabaaṅ Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Dil Ki Zaban Pe"]
 published: false
 romanLyrics: |-
-  Dil ki zaban pe naam rahega hussain ka
-  Har ashk e gham sunayega nauha hussain ka
+  Dil ki zabaaṅ pe naam rahega Husain ka
+  Har ashk-e-gham sunaayega nauha Husain ka
 
   1
-  Chalti hui galay pe hai shimr e layeen ki taygh
-  Wo rayghe karbala pe tadapna hussain ka
+  Chalti hui gale pe hai Shimr-e-laiṅ ki tegh
+  Wo reg-e-Karbala pe tarapna Husain ka
 
   2
-  Laashe rasool karwate leti thi qabr mein
-  Jalti hui zameen pe tha laasha hussain ka
+  Laash-e-Rasul karwateṅ leti thi qabr meiṅ
+  Jalti hui zamiṅ pe tha laasha Husain ka
 
   3
-  Phirta hai apni aankhon mein jannat liye huwe
-  Dekha hai jis kisi ne bhi rauza hussain ka
+  Phirta hai apni aankhoṅ meiṅ jannat liye hue
+  Dekha hai jis kisi ne bhi rauza Husain ka
 
   4
-  Us aadmi se poochiye azmat namaz ki
-  Hai jisko yaad aakhri sajda hussain ka
+  Us aadmi se puchhiye azmat-e-namaaz ki
+  Hai jis ko yaad aakhri sajda Husain ka
 
   5
-  Hone ko hai hussain ke lashkar ka khatema
-  Aata hai ran mein aakhri fidya hussain ka
+  Hone ko hai Husain ke lashkar ka khaatema
+  Aata hai ran meiṅ aakhri fidya Husain ka
 
   6
-  Allah wo naqahate peeri ke ba-wajood
-  Akbar ki laash ran se uthana hussain ka
+  Allah wo naqaahat-e-piri ke baawajud
+  Akbar ki laash ran se uthaana Husain ka
 
   7
-  Apno ka zikr kya hai tabarruk ke naam se
-  Khaate rahenge ghair bhi sadqa hussain ka
+  Apnoṅ ka zikr kya hai tabarruk ke naam se
+  Khaate raheṅge ghair bhi sadqa Husain ka
 
   8
-  Kya saqt imtehan thay sibte rasool ke
-  Aasan nahi tha ghar ko lutana hussain ka
+  Kya sakht imtehaan the Sibt-e-Rasul ke
+  Aasaaṅ nahiṅ tha ghar ko lutaana Husain ka
 
   9
-  Seene pe hai hussain ke shimre layeen sawaar
-  Jibreel ne jhulaya tha jhoola hussain ka
+  Sine pe hai Husain ke Shimr-e-laiṅ sawaar
+  Jibril ne jhulaaya tha jhula Husain ka
 
   10
-  Yaade hussain ban gayi zainab ki kayenaat
-  Ankhon mein phirta rehta hai chehra hussain ka
+  Yaad-e-Husain ban gayi Zainab ki kaainaat
+  Aankhoṅ meiṅ phirta rehta hai chehra Husain ka
 
   11
-  Maula madad ko aaiye apne hussain ki
-  Koi nahi hai bekas o tanha hussain ka
+  Maula madad ko aaiye apne Husain ki
+  Koi nahiṅ hai bekas o tanha Husain ka
 
   12
-  Hum ko viqar khoon ke aansoo rulayega
-  Qabre nabi pe ashk bahana hussain ka
+  Hum ko Viqar khun ke aansu rulaayega
+  Qabr-e-Nabi pe ashk bahaana Husain ka
 # source_id: nohayonline:cc58001a6579e5e23b72
 # source_url: https://www.nohayonline.com/details_content.php?id=139
 # raw_sha256: 50a0c88c12de3b4f1c451cdc8c561da471bdd9cfd3cc7a69126404aa61df7cda
 ---
 دل کی زباں پہ نام رہے گا حسین کا
-ہر آشک غم سناے گا نوحہ حسین کا
+ہر اشکِ غم سنائے گا نوحہ حسین کا
 
 ۱
 چلتی ہوئی گلے پہ ہے شمر لعیں کی تیغ
@@ -80,7 +81,7 @@ romanLyrics: |-
 دیکھا ہے جس کسی نے بھی روضہ حسین کا
 
 ۴
-اس آدمی سے پوچھیےء عظمت نماز کی
+اس آدمی سے پوچھیے عظمتِ نماز کی
 ہے جس کو یاد آخری سجدہ حسین کا
 
 ۵
@@ -104,7 +105,7 @@ romanLyrics: |-
 جبریل نے جھلایا تھا جھولا حسین کا
 
 ۱۰
-یاد حسین بن گیء زینب کی کاینات
+یادِ حسین بن گئی زینب کی کائنات
 آنکھوں میں پھرتا رہتا ہے چہرہ حسین کا
 
 ۱۱
@@ -112,5 +113,5 @@ romanLyrics: |-
 کوئی نہیں ہے بیکس و تنہا حسین کا
 
 ۱۲
-ہم کو وقار خون کے آنسوں رلاےء گا
-قبر نبی پہ آشک بہانا حسین کا
+ہم کو وقار خون کے آنسو رلائے گا
+قبرِ نبی پہ اشک بہانا حسین کا
