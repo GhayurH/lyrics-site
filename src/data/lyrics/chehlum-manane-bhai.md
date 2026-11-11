@@ -1,69 +1,70 @@
 ---
-title: "چہلم منانے بھای زینب تمہاری آی"
-alternateTitle: "Chehlum Manane Bhai"
+title: "چہلم منانے بھائی زینب تمہاری آئی"
+alternateTitle: "Chehlum Manaane Bhai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chehlum manane bhai zainab tumhari aayi
-  Phir zulm ke shehr may deti hui duhaayi
+  Chehlum manaane bhai Zainab tumhaari aayi
+  Phir zulm ke shehr mein deti hui duhaayi
 
   1
-  Bhai wo mera akbar taskeen e jaane maadar
-  Jangal may so raha hai barchi jigar pe kha kar
-  Tasveer mustufa ki ummat ne hai mitayi
+  Bhai wo mera Akbar taskin-e-jaan-e-maadar
+  Jangal mein so raha hai barchhi jigar pe kha kar
+  Tasvir Mustafa ki ummat ne hai mitaayi
 
   2
-  Abbas uth ke dekho baazu pe kya nashan hai
-  Deti rahi sadayein bhai mera kahan hai
-  Rassi se jab sitamgar baandhe meri kalayi
+  Abbaas uth ke dekho baazu pe kya nishaaṅ hai
+  Deti rahi sadaaeṅ bhai mera kahaaṅ hai
+  Rassi se jab sitamgar baandhe meri kalaayi
 
   3
-  Ab aun na mohamed kaisi ye bebasi hai
-  Koi nahi hai mera ab kya ye zindagi hai
-  Sab yaad aa rahe hai veerani si hai chaayi
+  Ab Aun na Muhammad kaisi ye bebasi hai
+  Koi nahiṅ hai mera ab kya ye zindagi hai
+  Sab yaad aa rahe haiṅ viraani si hai chhaayi
 
   4
-  Sab qatl ho gaye jab abid pe zulm dhaaye
-  Sar se ridayein cheeni qaime sabhi jalaye
-  Jab zulm ke shehr may shaam e ghariban aayi
+  Sab qatl ho gaye jab Aabid pe zulm dhaaye
+  Sar se ridaaeṅ chhiniṅ khaime sabhi jalaaye
+  Jab zulm ke shehr mein shaam-e-gharibaaṅ aayi
 
   5
-  Bhai mai shaam ke bhi bazaar may phiri hoo
-  Bhai mai sar barehna darbar may gayi hoo
-  Ahmed ki mai nawasi mai dar badar phirayi
+  Bhai main Shaam ke bhi baazaar mein phiri huṅ
+  Bhai main sar barehna darbaar mein gayi huṅ
+  Ahmed ki main nawaasi main dar badar phiraayi
 # source_id: nohayonline:92a571fed00f749bd5c8
 # source_url: https://www.nohayonline.com/details_content.php?id=1765
 # raw_sha256: 928357551d7196175f3a7234330500d05615bf32ad263c4a33ad9efaf787e804
 ---
-چہلم منانے بھای زینب تمہاری آی
-پھر ظلم کے شہر میں دیتی ہوی دہائی
+چہلم منانے بھائی زینب تمہاری آئی
+پھر ظلم کے شہر میں دیتی ہوئی دہائی
 
 ۱
-بھای وہ میرا اکبر تسکین جان مادر
+بھائی وہ میرا اکبر تسکین جان مادر
 جنگل میں سو رہی ہے برچی جگر پہ کھا کر
-تصویر مصطفیٰ کی امت نے ہے مٹای
+تصویر مصطفیٰ کی امت نے ہے مٹائی
 
 ۲
 عباس اٹھ کے دیکھو بازو پہ کیا نشاں ہے
-دیتی رہی صداییں بھای میرا کہاں ہے
-رسی سے جب ستمگر باندھے میری کلای
+دیتی رہی صدائیں بھائی میرا کہاں ہے
+رسی سے جب ستمگر باندھے میری کلائی
 
 ۳
 اب عون نہ محمد کیسی یہ بے بسی ہے
 کوئی نہیں ہے میرا اب کیا یہ زندگی ہے
-سب یاد آ رہے ہیں ویرانی سی ہے چھای
+سب یاد آ رہے ہیں ویرانی سی ہے چھائی
 
 ۴
-سب قتل ہو گےء جب عابد پہ ظلم ڈھاے
-سر سے رداییں چھینی خیمے سبھی جلاے
-جب ظلم کے شہر میں شام غریباں آی
+سب قتل ہو گئے جب عابد پہ ظلم ڈھائے
+سر سے ردائیں چھینیں خیمے سبھی جلائے
+جب ظلم کے شہر میں شام غریباں آئی
 
 ۵
-بھای میں شام کے بھی بازار میں پھری ہوں
-بھای میں سر برہنہ دربار میں گیء ہوں
-احمد کی میں نواسی میں دربدر پھرای
+بھائی میں شام کے بھی بازار میں پھری ہوں
+بھائی میں سر برہنہ دربار میں گئی ہوں
+احمد کی میں نواسی میں دربدر پھرائی

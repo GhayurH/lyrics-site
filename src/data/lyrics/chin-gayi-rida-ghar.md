@@ -1,118 +1,119 @@
 ---
 title: "ڈھلنے لگی جو رات میں بے وارثوں کی شام"
-alternateTitle: "Chin Gayi Rida Ghar"
+alternateTitle: "Chhin Gayi Rida Ghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Muslim Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dhalne lagi jo raat mein bewarison ki shaam
-  Aata hua sawaar jo dekha suye qayaam
-  Binte ali ne thaam ke dil thaamli lajaam
-  Goonji sada e dukhtare zehra e nek naam
+  Dhalne lagi jo raat mein bewaarisoṅ ki shaam
+  Aata hua sawaar jo dekha su-e-qiyaam
+  Bint-e-Ali ne thaam ke dil thaam li lajaam
+  Gunji sada-e-Dukhtar-e-Zehra-e-nek naam
 
-  Chingayi rida ghar ujad gaya
-  Aap thay kahan haye baba jaan
+  Chhin gayi rida ghar ujar gaya
+  Aap the kahaaṅ haaye baaba jaaṅ
   Ran mein kat gaya bhai ka gala
-  Aap thay kahan haye baba jaan
+  Aap the kahaaṅ haaye baaba jaaṅ
 
   1
   Thaam ke wo dil khaak par gira
-  Hoo bahoo jo tha shakle mustufa
-  Uske seene par naiza jab laga
-  Aap thay kahan haye baba jaan
+  Hu bahu jo tha shakl-e-Mustafa
+  Us ke sine par neza jab laga
+  Aap the kahaaṅ haaye baaba jaaṅ
 
   2
-  Nanha sa gala teer se chida
-  Khoon jab baha larzi karbala
-  Chehre par wo khoon bhai ne mala
-  Aap thay kahan haye baba jaan
+  Nanha sa gala tir se chhida
+  Khun jab baha larzi Karbala
+  Chehre par wo khun bhai ne mala
+  Aap the kahaaṅ haaye baaba jaaṅ
 
   3
-  Mashk ki taraf teer jab chala
+  Mashk ki taraf tir jab chala
   Mere sher ka baazu jab kata
-  Mashk jab chidi gurz jab laga
-  Aap thay kahan haye baba jaan
+  Mashk jab chhidi gurz jab laga
+  Aap the kahaaṅ haaye baaba jaaṅ
 
   4
-  Bhoolungi na mai wo dard ki ghadi
-  Chal rahi thi jab bhai par churi
-  De rahi thi mai us ghadi sada
-  Aap thay kahan haye baba jaan
+  Bhuluṅgi na main wo dard ki ghari
+  Chal rahi thi jab bhai par chhuri
+  De rahi thi main us ghari sada
+  Aap the kahaaṅ haaye baaba jaaṅ
 
   5
-  Lootne ko jab aaye ashkiyan
-  Ghar ka ghar tha jab sholon mein ghira
-  Chin rahi thi jab sar se ye rida
-  Aap thay kahan haye baba jaan
+  Lutne ko jab aaye ashqiya
+  Ghar ka ghar tha jab sholoṅ mein ghira
+  Chhin rahi thi jab sar se ye rida
+  Aap the kahaaṅ haaye baaba jaaṅ
 
   6
-  Lag rahi thi jab moo pe sayliyan
-  Haye kano se tha lahoo rawan
-  Jab gohar chinay kurta jab jala
-  Aap thay kahan haye baba jaan
+  Lag rahi thi jab munh pe sayliyaaṅ
+  Haaye kaanoṅ se tha lahu rawaaṅ
+  Jab gauhar chhine kurta jab jala
+  Aap the kahaaṅ haaye baaba jaaṅ
 
   7
-  Haye baba tha honton par naved
-  Ro rahi thi baag thaam kar naved
-  Goonjti thi ye dasht mein sada
-  Aap thay kahan haye baba jaan
+  Haaye baaba tha hoṅtoṅ par Naved
+  Ro rahi thi baag thaam kar Naved
+  Gunjti thi ye dasht mein sada
+  Aap the kahaaṅ haaye baaba jaaṅ
 # source_id: nohayonline:c03534931c707a541d0b
 # source_url: https://www.nohayonline.com/details_content.php?id=808
 # raw_sha256: 72e047b5e5253ed8b0d108f55e91e04c14d6e05781057a83d7b9464f451fbf28
 ---
 ڈھلنے لگی جو رات میں بے وارثوں کی شام
-آتا ہوا سوار جو دیکھا سوے قیام
-بنت علی نے تھامکےدل تھام لی لجام
-گونجی صداے دختر زہراے نیک نام
+آتا ہوا سوار جو دیکھا سوئے قیام
+بنت علی نے تھام کے دل تھام لی لجام
+گونجی صدائے دختر زہرائے نیک نام
 
 چھن گئی ردا گھر اجڑ گیا
-آپ تھے کہاں ہاے بابا جاں
+آپ تھے کہاں ہائے بابا جاں
 رن میں کٹ گیا بھائی کا گلا
-آپ تھے کہاں ہاے بابا جاں
+آپ تھے کہاں ہائے بابا جاں
 
 ۱
 تھام کے وہ دل خاک پر گرا
 ہو بہو جو تھا شکل مصطفیٰ
-اسکے سینے پر نیزہ جب لگا
-آپ تھے کہاں ہاے بابا جاں
+اس کے سینے پر نیزہ جب لگا
+آپ تھے کہاں ہائے بابا جاں
 
 ۲
 ننھا سا گلا تیر سے چھدا
 خون جب بہا لرزی کربلا
-چہرے پر وہ خون بھای نے ملا
-آپ تھے کہاں ہاے بابا جاں
+چہرے پر وہ خون بھائی نے ملا
+آپ تھے کہاں ہائے بابا جاں
 
 ۳
 مشک کی طرف تیر جب چلا
 میرے شیر کا بازو جب کٹا
 مشک جب چھدی گرز جب لگا
-آپ تھے کہاں ہاے بابا جاں
+آپ تھے کہاں ہائے بابا جاں
 
 ۴
-بھولونگی نہ میں وہ درد کی گھڑی
-چل رہی تھی جب بھای پر چھری
+بھولوں گی نہ میں وہ درد کی گھڑی
+چل رہی تھی جب بھائی پر چھری
 دے رہی تھی میں اس گھڑی صدا
-آپ تھے کہاں ہاے بابا جاں
+آپ تھے کہاں ہائے بابا جاں
 
 ۵
-لوٹنے کو جب آے اشقیا
+لوٹنے کو جب آئے اشقیا
 گھر کا گھر تھا جب شعلوں میں گھرا
 چھن رہی تھی جب سر سے یہ ردا
-آپ تھے کہاں ہاے بابا جاں
+آپ تھے کہاں ہائے بابا جاں
 
 ۶
 لگ رہی تھی جب منہ پہ سہیلیاں
-ہاے کانوں سے تھا لہو رواں
+ہائے کانوں سے تھا لہو رواں
 جب گوہر چھنے کرتا جب جلا
-آپ تھے کہاں ہاے بابا جاں
+آپ تھے کہاں ہائے بابا جاں
 
 ۷
-ہاے بابا تھا ہونٹوں پر نوید
-رورہی تھی باگ تھام کر نوید
+ہائے بابا تھا ہونٹوں پر نوید
+رو رہی تھی باگ تھام کر نوید
 گونجتی تھی یہ دشت میں صدا
-آپ تھے کہاں ہاے بابا جاں
+آپ تھے کہاں ہائے بابا جاں
