@@ -6,69 +6,71 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaam e ghariban mein tha zainab ka nauha
-  Beta sajjad utho beta sajjad utho
-  
+  Shaam-e-gharibaṅ mein tha Zainab ka nauha
+  Beta Sajjad utho beta Sajjad utho
+
   1
-  Jal gaye qaime mera koi bhi na raha
-  
+  Jal gaye khaime mera koi bhi na raha
+  Beta Sajjad utho beta Sajjad utho
+
   2
-  Qasim hai na ab ali akbar
-  Qatl huwe abbas e dilawar
-  Chal gaya khanjar sheh ke galay par
-  Koi nahi ab monis o yawar
-  
+  Qasim hai na ab Ali Akbar
+  Qatl hue Abbas-e-dilaawar
+  Chal gaya khanjar Shah ke gale par
+  Koi nahiṅ ab munis o yaawar
+
   3
-  Tashna labon ke khoon mein doobi
-  Karbobala ki pyasi zameen hai
-  Mazloomon bewon ka sahara
-  Koi nahi ab koi nahi hai
-  
+  Tishna laboṅ ke khuṅ mein dubi
+  Karbobala ki pyaasi zamiṅ hai
+  Mazlumoṅ bewaoṅ ka sahaara
+  Koi nahiṅ ab koi nahiṅ hai
+
   4
-  Nanhe mujahid gaysuwo waale
-  Sher jari ki maa ko sambhalo
-  Hai ye mere asghar ki nishani
-  Jhoole ko jalne se bacha le
-  
+  Nanhe mujaahid gesuoṅ waale
+  Sher-e-jari ki maaṅ ko sambhaalo
+  Hai ye mere Asghar ki nishaani
+  Jhule ko jalne se bacha le
+
   5
-  Maar raha hai shimr tamache
-  Neel pade hai rukhsaaron par
-  Sun sun ke bachi ki sadayein
-  Kaamp uth'ta hai laasha e sarwar
-  
+  Maar raha hai Shimr tamaaṅche
+  Nil pare haiṅ rukhsaaroṅ par
+  Sun sun ke bachchi ki sadaaeṅ
+  Kaaṅp uthta hai laasha-e-Sarwar
+
   6
-  Roko sitamgaaro ko roko
-  Utho mere beta uth jao
+  Roko sitamgaaroṅ ko roko
+  Utho mere beta uth jaao
   Sher se bete ko dekha hai
-  Khoon mein nahaye barchi khaye
-  
+  Khuṅ mein nahaae barchi khaae
+
   7
   Dekho zara kya zulm hua hai
   Dekho hui hai kaisi tabaahi
-  Uth ke tassalli do kubra ko
+  Uth ke tasalli do Kubra ko
   Bewa hui ek raat ki byaahi
-  
+
   8
-  Maadar kitni tadpi royi
-  Haye kaisi ne rehm na khaaya
-  Teer laga asghar ke galay par
-  Maara gaya baysheer bhi pyasa
-  
+  Maadar kitni tarpi roi
+  Haae kisi ne rahm na khaaya
+  Tir laga Asghar ke gale par
+  Maara gaya beshir bhi pyaasa
+
   9
   Sher se bete ko dekha hai
-  Khoon mein nahaye barchi khaye
-  Dil pe jawan bete ka gham hai
-  Maa akbar ki mar na jaaye
-  
+  Khuṅ mein nahaae barchhi khaae
+  Dil pe jawaaṅ bete ka gham hai
+  Maaṅ Akbar ki mar na jaae
+
   10
-  Ahle sitam ne us abid ko
-  Itna sataya itna sataya
-  Zulm usi par ye huwe gohar
-  Wohi abid baith na paaya
+  Ahl-e-sitam ne us Aabid ko
+  Itna sataaya itna sataaya
+  Zulm usi par ye hue Gohar
+  Wohi Aabid baith na paaya
 # source_id: nohayonline:520fb31b0efb41c3a44a
 # source_url: https://www.nohayonline.com/details_content.php?id=1592
 # raw_sha256: fcd050661dd1005828e42b9cb66bba71d8e48de50056adbc17684dbbc489b38d
@@ -78,11 +80,12 @@ romanLyrics: |-
 بیٹا سجاد اٹھو بیٹا سجاد اٹھو
 
 ۱
-جل گےء خیمے میرا کوئی بھی نہ رہا
+جل گئے خیمے میرا کوئی بھی نہ رہا
+بیٹا سجاد اٹھو بیٹا سجاد اٹھو
 
 ۲
 قاسم ہے نہ اب علی اکبر
-قتل ہوے عباس دلاور
+قتل ہوئے عباس دلاور
 چل گیا خنجر شہ کے گلے پر
 کوئی نہیں اب مونس و یاور
 
@@ -101,35 +104,35 @@ romanLyrics: |-
 ۵
 مار رہا ہے شمر طمانچے
 نیل پڑے ہیں رخساروں پر
-سن سن کے بچی کی صداییں
-کانپ اٹھتا ہے لاشہء سرور
+سن سن کے بچی کی صدائیں
+کانپ اٹھتا ہے لاشۂ سرور
 
 ۶
 روکو ستمگاروں کو روکو
 اٹھو میرے بیٹا اٹھ جاؤ
 شیر سے بیٹے کو دیکھا ہے
-خوں میں نہائے برچی کھاے
+خوں میں نہائے برچی کھائے
 
 ۷
-دیکھو زرا کیا ظلم ہوا ہے
-دیکھو ہوی ہے کیسی تباہی
-اٹھ کے تسلی دو کبرا کو
-بیوہ ہوی اک رات کی بیاہی
+دیکھو ذرا کیا ظلم ہوا ہے
+دیکھو ہوئی ہے کیسی تباہی
+اٹھ کے تسلی دو کبریٰ کو
+بیوہ ہوئی اک رات کی بیاہی
 
 ۸
-مادر کتنی تڑپتی روی
-ہاے کسی نے رحم نہ کھایا
+مادر کتنی تڑپتی روئی
+ہائے کسی نے رحم نہ کھایا
 تیر لگا اصغر کے گلے پر
 مارا گیا بے شیر بھی پیاسا
 
 ۹
 شیر سے بیٹے کو دیکھا ہے
-خوں میں نہائے برچھی کھاے
+خوں میں نہائے برچھی کھائے
 دل پہ جواں بیٹے کا غم ہے
-ماں اکبر کی مر نہ جاے
+ماں اکبر کی مر نہ جائے
 
 ۱۰
 اہلِ ستم نے اس عابد کو
 اتنا ستایا اتنا ستایا
-ظلم اسی پر یہ ہوے گوہر
+ظلم اسی پر یہ ہوئے گوہر
 وہی عابد بیٹھ نہ پایا
