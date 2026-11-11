@@ -1,62 +1,63 @@
 ---
 title: "غازیِ باوفا چھن رہی ہے ردا"
-alternateTitle: "Ghazi E Bawafa"
+alternateTitle: "Ghazi-e-Bawafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghazi e bawafa chin rahi hai rida
-  Nehr se laut aa chin rahi hai rida
+  Ghazi-e-bawafa chhin rahi hai rida
+  Nehr se laut aa chhin rahi hai rida
 
   1
-  Maal o asbaab sab loot'te hai layeen
-  Jalte qayyam mein ghus rahe hai layeen
-  Hashr hai ek bapa chin rahi hai rida
+  Maal o asbaab sab lutte haiṅ laiṅ
+  Jalte khayaam mein ghus rahe haiṅ laiṅ
+  Hashr hai ik bapa chhin rahi hai rida
 
   2
-  Jaan se saydaniyan ab guzar jayengi
-  Maut se pehle hi saari mar jayengi
-  Hai ye waqte qaza chin rahi hai rida
+  Jaaṅ se sayyidaaniyaṅ ab guzar jaaeṅ gi
+  Maut se pehle hi saari mar jaaeṅ gi
+  Hai ye waqt-e-qaza chhin rahi hai rida
 
   3
   Is se pehle ke sar ran mein ho berida
-  Saari saydaniyan kar rahi hai dua
-  Maut de ay khuda chin rahi hai rida
+  Saari sayyidaaniyaṅ kar rahi haiṅ dua
+  Maut de ae Khuda chhin rahi hai rida
 
   4
-  Tere baazu kate sabr maine kiya
-  Sab sahare chine sabr maine kiya
-  Ab nahi hausla chin rahi hai rida
+  Tere baazu kate sabr main ne kiya
+  Sab sahaare chhine sabr main ne kiya
+  Ab nahiṅ hausla chhin rahi hai rida
 
   5
-  Har taraf ab yahan aag hi aag hai
-  Jaaun aakhir kahan aag hi aag hai
-  Zulm is par siwa chin rahi hai rida
+  Har taraf ab yahaaṅ aag hi aag hai
+  Jaauṅ aakhir kahaaṅ aag hi aag hai
+  Zulm is par siwa chhin rahi hai rida
 
   6
-  Be-ridayi ka gham bhai kaise sahoon
-  Tu hi aa kar bata mai sada kis ko doon
-  Sun behan ki buka chin rahi hai rida
+  Beridaai ka gham bhaai kaise sahuṅ
+  Tu hi aa kar bata main sada kis ko duṅ
+  Sun behan ki buka chhin rahi hai rida
 
   7
-  Mujhse kehte thay ye mere baba ali
-  Hogi tu berida ay meri laadli
-  Waqt wo aagaya chin rahi hai rida
+  Mujh se kehte the ye mere baba Ali
+  Ho gi tu berida ae miri laadli
+  Waqt wo aa gaya chhin rahi hai rida
 
   8
-  Main teri aas par aayi thi karbala
-  Tere hote huwe kyun chinegi rida
-  Qatl tu ho gaya chin rahi hai rida
+  Main teri aas par aayi thi Karbala
+  Tere hote hue kiuṅ chhine gi rida
+  Qatl tu ho gaya chhin rahi hai rida
 
   9
-  Noor har laash se khoon ubalne laga
-  Laasha e bawafa bhi tadapne laga
-  Jab ye goonji sada chin rahi hai rida
+  Nur har laash se khuṅ ubalne laga
+  Laasha-e-bawafa bhi tarapne laga
+  Jab ye gunji sada chhin rahi hai rida
 # source_id: nohayonline:60be208ecccd8fd46fca
 # source_url: https://www.nohayonline.com/details_content.php?id=3273
 # raw_sha256: c7999ff66682d56fe2803ebe7d8d4c503ce932b05ef6512bd598c4dac05eb916
@@ -86,7 +87,7 @@ romanLyrics: |-
 
 ۵
 ہر طرف اب یہاں آگ ہی آگ ہے
-جائوں آخر کہاں آگ ہی آگ ہے
+جاؤں آخر کہاں آگ ہی آگ ہے
 ظلم اِس پر سوا چھن رہی ہے ردا
 
 ۶
@@ -106,5 +107,5 @@ romanLyrics: |-
 
 ۹
 نور ہر لاش سے خوں ابلنے لگا
-لاشہِ باوفا بھی تڑپنے لگا
+لاشۂ باوفا بھی تڑپنے لگا
 جب یہ گونجی صدا چھن رہی ہے ردا
