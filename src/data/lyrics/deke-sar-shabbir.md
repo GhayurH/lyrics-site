@@ -1,42 +1,43 @@
 ---
 title: دے کے سر شبیر نے اسلام زندہ کر دیا
-alternateTitle: Deke Sar Shabbir
+alternateTitle: De Ke Sar Shabbir
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Jawad Jaffri"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Deke Sar Shabbir"]
 published: false
 romanLyrics: |-
-  Deke sar shabbir ne islam zinda kar diya
-  Karbala ko jiske sajde ne mualla kar diya
+  De ke sar Shabbir ne Islaam zinda kar diya
+  Karbala ko jis ke sajde ne mualla kar diya
 
   1
-  Hashr tak koi yazeedi sar utha sakta nahi
-  Jiska badla zindagi bhar deen chuka sakta nahi
+  Hashr tak koi Yazidi sar utha sakta nahiṅ
+  Jis ka badla zindagi bhar din chuka sakta nahiṅ
   Fatema ke laal ne ehsaan aisa kar diya
 
   2
-  Teri qurbani se pehle deen ko aaya na chain
-  Ambiya se bhi mukammil jo na ho paaya hussain
+  Teri qurbaani se pehle din ko aaya na chain
+  Ambiya se bhi mukammal jo na ho paaya Husain
   Ek sajde ne tere wo kaam pura kar diya
 
   3
-  Aaj bhi nazaan wafaein hai tere abbas par
-  Nehr par ghazi ke dono kat gaye baazu magar
-  Taa abad islam ke parcham ko uncha kar diya
+  Aaj bhi naazaaṅ wafaaeṅ haiṅ tere Abbas par
+  Nehr par Ghaazi ke donoṅ kat gaye baazu magar
+  Taa abad Islaam ke parcham ko uṅcha kar diya
 
   4
-  Maar kar ibne ali ko cheeni zainab ki rida
-  Jab padha kalma nabi ka phir sare karbobala
-  Aale ahmad ke liye kyon hashr barpa kar diya
+  Maar kar Ibn-e-Ali ko chhini Zainab ki rida
+  Jab parha kalma Nabi ka phir sar-e-Karb o Bala
+  Aal-e-Ahmad ke liye kiuṅ hashr barpa kar diya
 
   5
-  Naaz se noke sina pe ubhra tha jawad jo
-  Kaise bhoolega zamana fatema ke chand ko
-  Sar kata ke usne apna yun ujaala kar diya
+  Naaz se nok-e-sinaaṅ pe ubhra tha Jawad jo
+  Kaise bhulega zamaana Fatema ke chaand ko
+  Sar kata ke us ne apna yuṅ ujaala kar diya
 # source_id: nohayonline:bcb678e46a677fef4255
 # source_url: https://www.nohayonline.com/details_content.php?id=39
 # raw_sha256: be0140a22d53893d8e60d65ff39693207188887a9e0e3ccdaf98125daf463c27
@@ -50,12 +51,12 @@ romanLyrics: |-
 
 ۱
 حشر تک کوئی یزیدی سر اُٹھا سکتا نہیں
-جس کا بدلہ زندگی بھر دیں چُکا سکتا نہیں
+جس کا بدلہ زندگی بھر دین چُکا سکتا نہیں
 فاطمہ کے لال نے احسان ایسا کر دیا
 
 ۲
 تیری قربانی سے پہلے دین کو آیا نہ چین
-انبیائ سے بھی مکمل جو نہ ہو پایا حُسین
+انبیاء سے بھی مکمل جو نہ ہو پایا حُسین
 ایک سجدے نے تیرے وہ کام پورا کر دیا
 
 ۳
@@ -66,7 +67,7 @@ romanLyrics: |-
 ۴
 مار کر ابنِ علی کو چھینی زینب کی ردا
 جب پڑھا کلمہ نبی کا پھر سرِ کرب و بلا
-آلِ احمد کے لیئے کیوںحشر برپا کر دیا
+آلِ احمد کے لیے کیوں حشر برپا کر دیا
 
 ۵
 ناز سے نوکِ سِناں پہ اُبھرا تھا جواد جو
