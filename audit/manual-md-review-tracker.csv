@@ -1406,11 +1406,11 @@ src/data/lyrics/boli-rabab-dasht.md,standalone_lyrics,imported,nohayonline,pendi
 src/data/lyrics/boodha-baap.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-11-manual-b-04,,Need audio/print: s2 یاد آتے ہے (ہے vs ہیں); s4 تیرے بھی اولاد (تیرے vs تیری); s5 عباس تیرے دلاور vs Abbas-e-dilaawar; s7 چلے ہے (ہے vs ہیں).
 src/data/lyrics/boond-pani-nahi.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-manual-b-04,,
 src/data/lyrics/bosagahe-ahmed.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-11-manual-b-04,,Need audio/print: s5 Urdu تو اُٹھے vs Roman ro uthe; s6 کوثر کے تصویر (کے vs کی).
-src/data/lyrics/bula-kar-sab-ko.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/buland-hote-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bulao-apne-ammu.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bunyade-lailaah.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/chaadare-maangi-to.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/bula-kar-sab-ko.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-11-batch-bula-chaadare,,"Need audio/print: s2 Urdu ""فضا"" vs Roman ""qaza""; s3 ""مد دعا""/""muddua""; s4 ""تا بہ چہلم"" and ""میرے ناموس""; s6 Urdu ""میرے پتہ"" vs Roman ""mera pata""."
+src/data/lyrics/buland-hote-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-batch-bula-chaadare,,"Need audio/print: s2 ""گال میں گوہر"" and ""بتول رونے سے""; s7 ""ہے اس کا کنبہ جو صحرا میں آب کوثر سے"" appears textually incomplete."
+src/data/lyrics/bulao-apne-ammu.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-batch-bula-chaadare,,
+src/data/lyrics/bunyade-lailaah.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-batch-bula-chaadare,,"Need audio/print: opening ""قد قامت الصلٰوۃ کے روحِ روانِ حُسین""; s1 ""روحِ کلامِ پاک کے ہیں درمیاں""; s3 ""کوئی محل ہے گھر نہ کوئی در""."
+src/data/lyrics/chaadare-maangi-to.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-batch-bula-chaadare,,
 src/data/lyrics/chaar-saal-ki-bachi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/chadare-fatema.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/chakkiyan-pees-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

@@ -1,45 +1,46 @@
 ---
 title: "بنیادِ لاالٰہ وجودِ اذانِ حُسین"
-alternateTitle: "Bunyade Lailaah"
+alternateTitle: "Bunyaad-e-La Ilaaha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bunyade Lailaah"]
 published: false
 romanLyrics: |-
-  Bunyade la ilaaha wujood e azan hussain
-  Khad khamatis salaat ke roohe rawan hussain
+  Bunyaad-e-la ilaaha wujud-e-azaan-e-Husain
+  Qad qaamatis salaat ke ruh-e-rawaan-e-Husain
 
   1
-  Mere rasool e paak hai quran ki tarha
-  Sher e khuda ki zaat hai juz daan ki tarha
-  Aur sayyeda hai sura e rehman ki tarha
-  Sulhe hassan hai amn ke maidan ki tarha
-  Roohe kalame paak ke hai darmiyan hussain
+  Mere Rasul-e-Paak haiṅ Quraan ki tarah
+  Sher-e-Khuda ki zaat hai juzdaan ki tarah
+  Aur Sayyeda haiṅ Sura-e-Rehmaan ki tarah
+  Sulh-e-Hasan hai amn ke maidaan ki tarah
+  Ruh-e-Kalaam-e-Paak ke haiṅ darmiyaaṅ Husain
 
   2
-  Maula ali jahan bhi hai haq saath saath hai
-  Quran ki bandishon mein waraq saath saath hai
-  Aur aasman pe jaise shafaq saath saath hai
-  Kalma hai aur deen ka sabakh saath saath hai
-  Islam jis jagah hai samajhlo wahan hussain
+  Maula Ali jahaaṅ bhi haiṅ haq saath saath hai
+  Quraan ki bandishoṅ mein waraq saath saath hai
+  Aur aasmaan pe jaise shafaq saath saath hai
+  Kalma hai aur din ka sabaq saath saath hai
+  Islaam jis jagah hai samajh lo wahaaṅ Husain
 
   3
-  Badnaam o be-nishan lashkar yazeed ka
-  Dozakh ki aag bangayi bistar yazeed ka
-  Ruswayi bangayi hai muqaddar yazeed ka
-  Koi mehal hai ghar na koi dar yazeed ka
-  Jannat se bad gaya hai tera aastan hussain
+  Badnaam o benishaan lashkar Yazid ka
+  Dozakh ki aag ban gayi bistar Yazid ka
+  Ruswaayi ban gayi hai muqaddar Yazid ka
+  Koi mehal hai ghar na koi dar Yazid ka
+  Jannat se barh gaya hai tera aastaaṅ Husain
 
   4
-  Mushkil ke waqt aata hai khyber shikan ka naam
-  Dhaaras hai mere qalb ki shaahe zaman ka naam
-  Jaise azan mein akbare gulpairahan ka naam
-  Mehshar ke dil pe naqsh hai yun panjetan ka naam
-  Ye dil bana hua hai tera gulsitan hussain
+  Mushkil ke waqt aata hai Khaibar shikan ka naam
+  Dhaaras hai mere qalb ki Shaah-e-Zaman ka naam
+  Jaise azaan mein Akbar-e-Gul Pairahan ka naam
+  Mehshar ke dil pe naqsh hai yuṅ Panjetan ka naam
+  Ye dil bana hua hai tera gulistaaṅ Husain
 # source_id: nohayonline:94a0522eec8da928b9fe
 # source_url: https://www.nohayonline.com/details_content.php?id=643
 # raw_sha256: 578e7a76b3f3ae68160c9b8173e3e477ab800c43faf5103b7f928f652f53804f
@@ -50,8 +51,8 @@ romanLyrics: |-
 ۱
 میرے رسولِ پاک ہیں قرآن کی طرح
 شیرِ خُدا کی ذات ہے جُزدان کی طرح
-اور سیدہ ہیں سورئہ رحمن کی طرح
-صُلح حسن ہے امن کے میدان کی طرح
+اور سیدہ ہیں سورۂ رحمن کی طرح
+صُلحِ حسن ہے امن کے میدان کی طرح
 روحِ کلامِ پاک کے ہیں درمیاں حُسین
 
 ۲
@@ -70,7 +71,7 @@ romanLyrics: |-
 
 ۴
 مشکل کے وقت آتا ہے خیبر شکن کا نام
-ڈھارس ہے میرے قلب کی شاہِ ذمن کا نام
-جیسے اذان میں اکبر ِ گُل پیرہن کا نام
+ڈھارس ہے میرے قلب کی شاہِ زمن کا نام
+جیسے اذان میں اکبرِ گُل پیرہن کا نام
 محشر کے دل پہ نقش ہے یوں پنجتن کا نام
 یہ دل بنا ہوا ہے تیرا گُلستاں حُسین

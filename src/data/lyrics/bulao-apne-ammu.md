@@ -6,65 +6,69 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maar kar rukh par tamache bola shimr e behaya
-  Ay sakina ab bulao apne ammu jaan ko
-  Chaahte hai wo tumhe kitna mai dekhun to zara
+  Maar kar rukh par tamaache bola Shimr behaya
+  Ae Sakina ab bulaao apne ammu jaaṅ ko
+
+  Chaahte haiṅ woh tumheṅ kitna main dekhuṅ to zara
+  Ae Sakina ab bulaao apne ammu jaaṅ ko
 
   1
-  Baal bacchi ke pakad kar khaynch kar dono gohar
-  Bad nasab kehne laga rukh par tamache maar kar
-  Kyun nahi kuch bolti sar kyun tumhara hai jhuka
+  Baal bachchi ke pakar kar kheṅch kar donoṅ gohar
+  Badnasab kehne laga rukh par tamaache maar kar
+  Kiuṅ nahiṅ kuchh bolti sar kiuṅ tumhaara hai jhuka
 
   2
-  Dono haathon se tamache maarta tha be-rehm
-  Kar raha tha be jhijhak bekas yateem par sitam
-  Har tamache par ye kehta tha chacha ko do sada
+  Donoṅ haathoṅ se tamaache maarta tha berehm
+  Kar raha tha bejhijhak bekas yatima par sitam
+  Har tamaache par ye kehta tha chacha ko do sada
 
   3
-  Naaz tha tumko bahot jis par usay awaaz do
-  Jao darya ki taraf jaa kar usay awaaz do
-  Apne dil ka dard batlao usay jaa kar zara
+  Naaz tha tum ko bahut jis par use aawaaz do
+  Jaao darya ki taraf jaa kar use aawaaz do
+  Apne dil ka dard batlaao use jaa kar zara
 
   4
-  Maarta hoon mai tumhe koi bachata kyun nahi
-  Jaan jo tum par lutaata tha wo aata kyun nahi
-  Ho gaya kya ab tumhara chaahne waala khafa
+  Maarta huṅ main tumheṅ koi bachaata kiuṅ nahiṅ
+  Jaan jo tum par lutaata tha woh aata kiuṅ nahiṅ
+  Ho gaya kya ab tumhaara chaahne waala khafa
 
   5
-  Mai tumhe maarunga durre aur tamache tab talak
-  Tum tadap kar padh nahi dogi ye nauha jab talak
-  Mai bahot mushkil mein hoon imdaad ko aao chacha
+  Main tumheṅ maaruṅga durre aur tamaache tab talak
+  Tum tarap kar parh nahiṅ dogi ye nauha jab talak
+  Main bahut mushkil mein huṅ imdaad ko aao chacha
 
   6
-  Tha qayamat khaiz dard angez wo manzar ajeeb
-  Laaya bacchi ko layeen abbas ke sar ke khareeb
-  Kaske phir rassi galay ki be-rehm kehne laga
+  Tha qayaamat khez dard angez woh manzar ajib
+  Laaya bachchi ko laiṅ Abbas ke sar ke qarib
+  Kas ke phir rassi gale ki berehm kehne laga
 
   7
-  Us ghadi sar peet kar roye bahot ahle haram
-  Jab kaha zaalim ne dikhla kar ke ghazi ka alam
-  Ye alam to hai kahan hai ab alamdar e wafa
+  Us ghari sar pit kar roye bahut Ahl-e-Haram
+  Jab kaha zaalim ne dikhla kar ke Ghaazi ka alam
+  Ye alam to hai kahaaṅ hai ab Alamdaar-e-Wafa
 
   8
-  Ro rahi thi dukhtare shabbir waiz zaar zaar
-  Ay ali thay dard se ahle haram sab beqarar
-  Karbala se shaam tak shimr e layeen kehta gaya
+  Ro rahi thi Dukhtar-e-Shabbir Waaiz zaar zaar
+  Ae Ali the dard se Ahl-e-Haram sab beqaraar
+  Karbala se Shaam tak Shimr laiṅ kehta gaya
 # source_id: nohayonline:370606222b8ed1ab778e
 # source_url: https://www.nohayonline.com/details_content.php?id=2850
 # raw_sha256: ed7d5a56ba4b7ddeb53147e929b99a02848786d48ecd87734c38d69284545449
 ---
-
 مار کر رخ پر طمانچے بولا شمر بے حیا
 اے سکینہ اب بلاؤ اپنے عمو جاں کو
-چاہتے ہیں وہ تمہیں کتنا میں دیکھوں تو زرا
+
+چاہتے ہیں وہ تمہیں کتنا میں دیکھوں تو ذرا
+اے سکینہ اب بلاؤ اپنے عمو جاں کو
 
 ۱
 بال بچی کے پکڑ کر کھینچ کر دونوں گوہر
-بد نصب کہنے لگا رخ پر طمانچے مار کر
+بد نسب کہنے لگا رخ پر طمانچے مار کر
 کیوں نہیں کچھ بولتی سر کیوں تمہارا ہے جھکا
 
 ۲
@@ -75,7 +79,7 @@ romanLyrics: |-
 ۳
 ناز تھا تم کو بہت جس پر اسے آواز دو
 جاؤ دریا کی طرف جا کر اسے آواز دو
-اپنے دل کا درد بتلاؤ اسے جا کر زرا
+اپنے دل کا درد بتلاؤ اسے جا کر ذرا
 
 ۴
 مارتا ہوں میں تمہیں کوئی بچاتا کیوں نہیں
@@ -93,11 +97,11 @@ romanLyrics: |-
 کس کے پھر رسی گلے کی بے رحم کہنے لگا
 
 ۷
-اس گھڑی سر پیٹ کر روے بہت اہلِ حرم
+اس گھڑی سر پیٹ کر روئے بہت اہلِ حرم
 جب کہا ظالم نے دکھلا کر کے غازی کا علم
 یہ علم تو ہے کہاں ہے اب علمدار وفا
 
 ۸
-رو رہی تھی دختر شبیر وایض زار زار
+رو رہی تھی دختر شبیر واعظ زار زار
 اے علی تھے درد سے اہلِ حرم سب بیقرار
 کربلا سے شام تک شمر لعیں کہتا گیا
