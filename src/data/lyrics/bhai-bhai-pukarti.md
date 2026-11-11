@@ -6,139 +6,140 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Amma ruka na shimre layeen mere bayn se
-  Sattar qadam thi door ye zainab hussain se
-  Bhai bhai pukarti rahi mai
-  Phir bhi khanjar nahi ruka amma
+  Amma ruka na Shimr-e-laiṅ mere bain se
+  Sattar qadam thi dur ye Zainab Husain se
 
   1
+  Bhai bhai pukaarti rahi main
+  Phir bhi khanjar nahiṅ ruka amma
   Shimr ne ki phir aisi gustakhi
-  Mujhse dekha nahi gaya amma
+  Mujh se dekha nahiṅ gaya amma
 
   2
-  Tum jo zulfein sawara karti thi
-  Unhi zulfon may haath tha uska
-  Jahan bosay diye thay nana ne
-  Usi gardan se khoon tapakta tha
-  Sar e shabbir yun uthaye huwe
-  Shimr qaime tak aagaya amma
+  Tum jo zulfeṅ sanwaara karti thi
+  Unhiṅ zulfoṅ mein haath tha us ka
+  Jahaaṅ bose diye the Nana ne
+  Usi gardan se khuṅ tapakta tha
+  Sar-e-Shabbir yuṅ uthaaye hue
+  Shimr khaime tak aa gaya amma
 
   3
-  Dekh kar mujhko bain karte huwe
+  Dekh kar mujh ko bain karte hue
   Shimr har baar muskurata raha
-  Meri nazron ke saamne zaalim
-  Waar gin kar churi chalata raha
-  Tera zarbein thi kund khanjar tha
-  Aur shabbir ka gala amma
+  Meri nazroṅ ke saamne zaalim
+  Waar gin kar chhuri chalaata raha
+  Terah zarbeṅ thi kund khanjar tha
+  Aur Shabbir ka gala amma
 
   4
-  Charon jaanib se ghayr rakha tha
-  Tere noor e nazar ko lashkar ne
-  Teer barsaata tha koi us par
-  Koi pathar se maarta tha usay
-  Rayt zakhmo pe wo giraata raha
-  Jisko pathar nahi mila amma
+  Chaaroṅ jaanib se gher rakha tha
+  Tere nur-e-nazar ko lashkar ne
+  Tir barsaata tha koi us par
+  Koi patthar se maarta tha use
+  Ret zakhmoṅ pe wo giraata raha
+  Jis ko patthar nahiṅ mila amma
 
   5
-  Taygh jis dam koi chali us par
-  Haye abbas keh ke roya tha
-  Teer peshani pe laga jis dam
-  Haye asghar zaban pe aaya tha
-  Haye akbar pukara bhaiya ne
+  Tegh jis dam koi chali us par
+  Haaye Abbas keh ke roya tha
+  Tir peshaani par laga jis dam
+  Haaye Asghar zabaaṅ pe aaya tha
+  Haaye Akbar pukaara bhaiya ne
   Jab bhi naiza koi laga amma
 
   6
-  Jab chalaya tha shimr ne khanjar
-  Maine aankhon se apni dekha tha
+  Jab chalaaya tha Shimr ne khanjar
+  Main ne aaṅkhoṅ se apni dekha tha
   Haath apne utha ke pehlu se
-  Tune sookhe galay pe rakha tha
-  Ungliyan zakhmi hogayi hongi
-  Haath mujhse to na chupa amma
+  Tu ne sukhe gale pe rakha tha
+  Ungliyaaṅ zakhmi ho gayi hoṅgi
+  Haath mujh se to na chhupa amma
 
   7
-  Aisi nafrat thi unke seeno may
-  Ye bhi socha na shaam walon ne
-  Deene islam may zabiha tak
-  Zibha pyase nahi kiye jaate
-  Teen din se hussain pyasa hai
-  Ye bhi socha nahi gaya amma
+  Aisi nafrat thi un ke sinoṅ mein
+  Ye bhi socha na Shaam waaloṅ ne
+  Din-e-Islam mein zabiha tak
+  Zibh pyaase nahiṅ kiye jaate
+  Tin din se Husain pyaasa hai
+  Ye bhi socha nahiṅ gaya amma
 
   8
-  Maa ye zainab se kehti thi akbar
-  Meri aaghosh may tha sar uska
-  Maine gardan ko kat'te dekha tha
-  Maine saanson ko rukte dekha tha
-  Haye aakhri baar zere khanjar hi
-  Maine shabbir se suna amma
+  Maaṅ ye Zainab se kehti thi Akbar
+  Meri aaghosh mein tha sar us ka
+  Main ne gardan ko katte dekha tha
+  Main ne saaṅsoṅ ko rukte dekha tha
+  Haaye aakhri baar zer-e-khanjar hi
+  Main ne Shabbir se suna amma
 # source_id: nohayonline:a2a6ce7cb2cd4a9850e2
 # source_url: https://www.nohayonline.com/details_content.php?id=89
 # raw_sha256: 4e146416c48a97940456a719648ead5df353f3c3e0893e737e7104ebe27b4524
 ---
 اماں رکا نہ شمر لعیں میرے بین سے
-سترقدم تھی دور یہ زینب حسین سے
-بھائی بھائی پکارتی رہی میں
-پھربھی خنجر نہیں رکا اماں
+ستر قدم تھی دور یہ زینب حسین سے
 
 ۱
+بھائی بھائی پکارتی رہی میں
+پھر بھی خنجر نہیں رکا اماں
 شمر نے کی پھر ایسی گستاخی
 مجھ سے دیکھا نہیں گیا اماں
 
 ۲
-تم جو ذلفیں سنوارا کرتی تھی
-انہیں ذلفوں میں ہاتھ تھا اسکا
-جہاں بوسے دیےء تھے نانا نے
+تم جو زلفیں سنوارا کرتی تھی
+انہیں زلفوں میں ہاتھ تھا اس کا
+جہاں بوسے دیے تھے نانا نے
 اسی گردن سے خوں ٹپکتا تھا
-سر شبیر یوں اٹھاے ہوئے
-شمر خیمے تک آگیا اماں
+سرِ شبیر یوں اٹھائے ہوئے
+شمر خیمے تک آ گیا اماں
 
 ۳
-دیکھ کر مجھکو بین کرتے ہوئے
+دیکھ کر مجھ کو بین کرتے ہوئے
 شمر ہر بار مسکراتا رہا
 میری نظروں کے سامنے ظالم
-وار گن کر چھری چلا تا رہا
+وار گن کر چھری چلاتا رہا
 تیرہ ضربیں تھی کند خنجر تھا
 اور شبیر کا گلا اماں
 
 ۴
 چاروں جانب سے گھیر رکھا تھا
-تیرے نور نظر کو لشکر نے
-تیر برساتا تھا کویء اس پر
+تیرے نورِ نظر کو لشکر نے
+تیر برساتا تھا کوئی اس پر
 کوئی پتھر سے مارتا تھا اسے
 ریت زخموں پہ وہ گراتا رہا
-جسکو پتھر نہیں ملا اماں
+جس کو پتھر نہیں ملا اماں
 
 ۵
 تیغ جس دم چلی اس پر
-ہاے عباس کہکے رویا تھا
+ہائے عباس کہہ کے رویا تھا
 تیر پیشانی پر لگا جس دم
-ہاے اصغر زباں پہ آیا تھا
-ہاے اکبر پکارا بھیا نے
+ہائے اصغر زباں پہ آیا تھا
+ہائے اکبر پکارا بھیا نے
 جب بھی نیزہ کوئی لگا اماں
 
 ۶
 جب چلایا تھا شمر نے خنجر
 میں نے آنکھوں سے اپنی دیکھا تھا
-ہاتھ اپنے اٹھاکے پہلو سے
+ہاتھ اپنے اٹھا کے پہلو سے
 تو نے سوکھے گلے پہ رکھا تھا
-انگلیاں زخمی ہوگیء ہونگی
+انگلیاں زخمی ہو گئی ہوں گی
 ہاتھ مجھ سے تو نہ چھپا اماں
 
 ۷
-ایسی نفرت تھی انکے سینوں میں
+ایسی نفرت تھی ان کے سینوں میں
 یہ بھی سوچا نہ شام والوں نے
-دین اسلام میں زبیحا تک
-ذبح پیا سے نہیں کیےء جاتے
+دینِ اسلام میں ذبیحہ تک
+ذبح پیاسے نہیں کیے جاتے
 تین دن سے حسین پیاسا ہے
 یہ بھی سوچا نہیں گیا اماں
 
 ۸
 ماں یہ زینب سے کہتی تھی اکبر
-میری آغوش میں تھا سر اسکا
+میری آغوش میں تھا سر اس کا
 میں نے گردن کو کٹتے دیکھا تھا
 میں نے سانسوں کو رکتے دیکھا تھا
-ہاے آخری بار زیر خنجر بھی
+ہائے آخری بار زیرِ خنجر بھی
 میں نے شبیر سے سنا اماں

@@ -1349,10 +1349,10 @@ src/data/lyrics/beton-ki-maa.md,standalone_lyrics,imported,nohayonline,pending,p
 src/data/lyrics/bewarison-ka-kya.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-editorial-beton-bhai,,
 src/data/lyrics/bezaban-tadpa.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-editorial-beton-bhai,,
 src/data/lyrics/bhai-abbas-ko.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-editorial-beton-bhai,,"Need audio/print: s5 ""بعد از سبطِ رسولِ دوسرا""; confirm wording and syntax without conjectural repair."
-src/data/lyrics/bhai-bhai-pukarti.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bhai-ka-pehla.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bhai-ki-awaaz.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bhai-ki-kamar-toot.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/bhai-bhai-pukarti.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s2 ""انہیں"" vs ""انہی"" and ""کرتی تھی"" vs ""کرتی تھیں""; s3 ""ضربیں تھی"" vs ""ضربیں تھیں""; s5 Roman has ""koi"" absent in Urdu; s8 ""hi"" vs ""بھی"" after ""زیرِ خنجر""."
+src/data/lyrics/bhai-ka-pehla.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s2 ""نظر"" vs ""نذر"", ""اک خطرہ"" vs ""اک قطرہ"" (Roman ""ek khatra""); s3 ""اپنے بھائی کو مانجای"" vs Roman ""Apne bhai ko maajaayi""."
+src/data/lyrics/bhai-ki-awaaz.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s6 ""بد کے دو بیٹا سہارا باپ کو"" / ""Bad ke do beta sahaara baap ko""; confirm whether ""بڑھ کے"" is intended."
+src/data/lyrics/bhai-ki-kamar-toot.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s7 ""نوحہ کرنے لگا سفر بھی"" / ""Nauha karne laga safar bhi""; confirm whether ""صفدر"" is intended."
 src/data/lyrics/bhai-ki-nazar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bhai-mai-luti-aayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bhai-mai-zainab-hoo.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

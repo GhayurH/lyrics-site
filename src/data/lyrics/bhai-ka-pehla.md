@@ -6,72 +6,77 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  1
-  Zindan mein zainab roti hai
+  Zindaan mein Zainab roti hai
   Bhai ka pehla chehlum hai
+
+  1
   Sar apna jhukaye baithi hai
-  Bhai ka pehla chehlum hia
-  Wo nazr dilaye kis tarha
-  Pani bhi nahi hai ek khatra
-  Ghazi ki bahot yaad aati hai
+  Bhai ka pehla chehlum hai
   
   2
-  Dil khol ke rone na paayi
-  Apne bhai ko maajayi
-  Rone pa bhi pabandi hai
+  Wo nazr dilaaye kis tarah
+  Paani bhi nahiṅ hai ek khatra
+  Ghazi ki bahut yaad aati hai
   
   3
-  Is tarha koi majboor na ho
-  Aur itne ghamon se choor na ho
-  Zahra ki dulaari qaidi hai
+  Dil khol ke rone na paayi
+  Apne bhai ko maajaayi
+  Rone pe bhi paabandi hai
   
   4
-  Kulsoom ke dil pe kya guzri
-  Ye jaan nahi paaya koi
-  Chehre pe bahot mayoosi hai
+  Is tarah koi majbur na ho
+  Aur itne ghamoṅ se chur na ho
+  Zahra ki dulaari qaidi hai
   
   5
-  Athara baradar ki khwahar
-  Kis tarha rajhe dil pe pathar
-  Zindan hai aur lachari hai
+  Kulsum ke dil pe kya guzri
+  Ye jaan nahiṅ paaya koi
+  Chehre pe bahut maayusi hai
   
   6
-  Zindan ke andar ay waiz
-  Hai hashr ka manzar ay waiz
-  Ghurbat hai ali ki beti hai
+  Athaara baraadar ki khwaahar
+  Kis tarah rakhe dil par patthar
+  Zindaan hai aur laachaari hai
+
+  7
+  Zindaan ke andar Ae Waiz
+  Hai hashr ka manzar Ae Waiz
+  Ghurbat hai Ali ki beti hai
 # source_id: nohayonline:82730fce256c48851502
 # source_url: https://www.nohayonline.com/details_content.php?id=3160
 # raw_sha256: 3e33b0438f63398f46f4ca5de1b0493dbb91295986b9372bf66510c1687cf3de
 ---
 
 زندان میں زینب روتی ہے
-بھای کا پہلا چہلم ہے
+بھائی کا پہلا چہلم ہے
 
 ۱
 سر اپنا جھکائے بیٹھی ہے
+بھائی کا پہلا چہلم ہے
 
 ۲
-وہ نظر دلاے کس طرح
+وہ نظر دلائے کس طرح
 پانی بھی نہیں ہے اک خطرہ
 غازی کی بہت یاد آتی ہے
 
 ۳
-دل کھول کے رونے نہ پای
+دل کھول کے رونے نہ پائی
 اپنے بھائی کو مانجای
 رونے پہ بھی پابندی ہے
 
 ۴
-اس طرح کوی مجبور نہ ہو
+اس طرح کوئی مجبور نہ ہو
 اور اتنے غموں سے چور نہ ہو
 زہرا کی دلاری قیدی ہے
 
 ۵
 کلثوم کے دل پہ کیا گزری
-یہ جان نہیں پایا کوی
+یہ جان نہیں پایا کوئی
 چہرے پہ بہت مایوسی ہے
 
 ۶
@@ -80,6 +85,6 @@ romanLyrics: |-
 زندان ہے اور لاچاری ہے
 
 ۷
-زندان کے اندر اے وایض
-ہے حشر کا منظر اے وایض
+زندان کے اندر اے واعظ
+ہے حشر کا منظر اے واعظ
 غربت ہے علی کی بیٹی ہے
