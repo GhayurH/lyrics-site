@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Jafri"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gham o alam ka sarapa hussain tanha hai
-  Meinaan e lashkare aada hussain tanha hai
+  Gham o alam ka saraapa Husain tanha hai
+  Miyaan-e-lashkar-e-aadaa Husain tanha hai
 
   1
-  Koi nahi hai jo thaame rakaab e asp e hussain
-  Ab aao zainab e kubra hussain tanha hai
+  Koi nahiṅ hai jo thaame rikaab-e-asp-e-Husain
+  Ab aao Zainab-e-Kubra Husain tanha hai
 
   2
-  Zaeef baap uthaye huwe hai laashe jawan
-  Koi nahi hai sahara hussain tanha hai
+  Zaif baap uthaae hue hai laasha jawaaṅ
+  Koi nahiṅ hai sahaara Husain tanha hai
 
   3
-  Wo jis se ahle haram ke dilon ko dhaaras thi
-  Chala gaya suye darya hussain tanha hai
+  Wo jis se ahl-e-haram ke diloṅ ko dhaaras thi
+  Chala gaya su-e-darya Husain tanha hai
 
   4
-  Aba mein baand ke laata hai laashe qasim ko
-  Hai paara paara bhatija hussain tanha hai
+  Aba mein baaṅdh ke laata hai laasha-e-Qasim
+  Hai paara paara bhatija Husain tanha hai
 
   5
-  Batao kaise wo asghar ki qabr khodega
-  Hai iske haathon pe laasha hussain tanha hai
+  Bataao kaise wo Asghar ki qabr khode ga
+  Hai kis ke haathoṅ pe laasha Husain tanha hai
 
   6
-  Badi hi wehshat o hasrat se dekhti hai behan
-  Utha ke qaime ka parda hussain tanha hai
+  Bari hi wahshat o hasrat se dekhti hai behan
+  Utha ke khaime ka parda Husain tanha hai
 
   7
-  Mere qalam ne banaya hai karbala ko watan
-  Ye soch kar mera maula hussain tanha hai
+  Mere qalam ne banaaya hai Karbala ko watan
+  Ye soch kar mere Maula Husain tanha hai
 # source_id: nohayonline:1b31ac5f2b00913366ce
 # source_url: https://www.nohayonline.com/details_content.php?id=1422
 # raw_sha256: df18bcee128e5cf1746b805ac1a82f0776d8092eb69247a6f1c7ecb4553c92cf
@@ -52,19 +53,19 @@ romanLyrics: |-
 اب آؤ زینب کبریٰ حسین تنہا ہے
 
 ۲
-ضعیف باپ اٹھاے ہوے ہے لاشہ جواں
+ضعیف باپ اٹھائے ہوئے ہے لاشہ جواں
 کوئی نہیں ہے سہارا حسین تنہا ہے
 
 ۳
 وہ جس سے اہلِ حرم کے دلوں کو ڈھارس تھی
-چلا گیا سوے دریا حسین تنہا ہے
+چلا گیا سوئے دریا حسین تنہا ہے
 
 ۴
-عبا میں باندھ کے لاتا ہے لاشہء قاسم
+عبا میں باندھ کے لاتا ہے لاشۂ قاسم
 ہے پارہ پارہ بھتیجا حسین تنہا ہے
 
 ۵
-بتاؤ کیسے وہ اصغر کی قبر کھو دے گا
+بتاؤ کیسے وہ اصغر کی قبر کھودے گا
 ہے کس کے ہاتھوں پہ لاشہ حسین تنہا ہے
 
 ۶

@@ -6,64 +6,65 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Zaidi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gham ki maari ye boli sakina
-  
+  Gham ki maari ye boli Sakina
+  Koi ab to nahiṅ haaye apna
+
   1
-  Koi ab to nahi haye apna
-  Ab na qasim rahe hai na bhaiya
-  Ab na ammu rahe hai na baba
-  Kis ko awaaz doon mai khudaya
-  
+  Ab na Qasim rahe haiṅ na bhaiya
+  Ab na ammu rahe haiṅ na baba
+  Kis ko aawaaz duṅ main Khudaaya
+
   2
-  Pani lene ko darya kinaare
-  Mere ammu yahan se sidhaare
-  Dum bhi ghutne laga gham ke maare
+  Paani lene ko darya kinaare
+  Mere ammu yahaaṅ se sidhaare
+  Dam bhi ghutne laga gham ke maare
   Ab to dubhar hua saans lena
-  
+
   3
-  Jhoola asghar ka khaali pada hai
-  Meri amma ko gash aa gaya hai
-  Haath jhoole pe unka dhara hai
+  Jhula Asghar ka khaali para hai
+  Meri ammaaṅ ko ghash aa gaya hai
+  Haath jhule pe un ka dhara hai
   Koi aa kar khudara uthaana
-  
+
   4
-  Bhaiya abid bhi ghash may pada hai
-  Wohi is waqt sab se bada hai
-  Unke charon taraf sab khadhe hai
-  Unke maathe pe bhi hai pasina
-  
+  Bhaiya Aabid bhi ghash mein para hai
+  Wohi is waqt sab se bara hai
+  Un ke chaaroṅ taraf sab khare haiṅ
+  Un ke maathe pe bhi hai pasina
+
   5
-  Baba jaane ko aaye hai dekho
-  Kuch batane ko aaye hai dekho
-  Kya sunane ko aaye hai dekho
-  Ab to mushkil hua mera jeena
-  
+  Baba jaane ko aaye haiṅ dekho
+  Kuchh bataane ko aaye haiṅ dekho
+  Kya sunaane ko aaye haiṅ dekho
+  Ab to mushkil hua mera jina
+
   6
-  Dukh pa dukh zaalimon ne diye hai
-  Shimr ne mere bunde liye hai
-  Kaan mere wo zakhmi kiye hai
-  Haye rukta nahi khoon behna
-  
+  Dukh pe dukh zaalimoṅ ne diye haiṅ
+  Shimr ne mere bunde liye haiṅ
+  Kaan mere wo zakhmi kiye haiṅ
+  Haaye rukta nahiṅ khun behna
+
   7
-  Rassiyan kab ye aakhir khulengi
-  Sakhtiyan zulm ki kab rukengi
-  Sayliyan yun hi padti rahengi
-  Meri amma se jaa kar ye kehna
-  
+  Rassiyaaṅ kab ye aakhir khuleṅ gi
+  Sakhtiyaaṅ zulm ki kab rukeṅ gi
+  Seliyaaṅ yuṅ hi parti raheṅ gi
+  Meri ammaaṅ se jaa kar ye kehna
+
   8
-  Qaid may kya sada hum rahenge
-  Zulm kab tak ye aakhir sahenge
-  Aisa lagta hai ab hum marenge
-  Hua hargiz na sughra se milna
-  
+  Qaid mein kya sadaa ham raheṅ ge
+  Zulm kab tak ye aakhir saheṅ ge
+  Aisa lagta hai ab ham mareṅ ge
+  Hua hargiz na Sughra se milna
+
   9
-  Ab bhi tauqeer zaidi ye sun lo
-  Ek bachi ye kehti hai ro ro
-  Qaid khane se mujh ko chuda do
+  Ab bhi Tauqir Zaidi ye sun lo
+  Ek bachchi ye kehti hai ro ro
+  Qaid khaane se mujh ko chhura do
   Mere ammu ko jaa kar ye kehna
 # source_id: nohayonline:4b8d6395a51328d77bd6
 # source_url: https://www.nohayonline.com/details_content.php?id=1909
@@ -71,9 +72,9 @@ romanLyrics: |-
 ---
 
 غم کی ماری یہ بولی سکینہ
+کوئی اب تو نہیں ہائے اپنا
 
 ۱
-کوی اب تو نہیں ہاے اپنا
 اب نہ قاسم رہے ہیں نہ بھیا
 اب نہ عمو رہے ہیں نہ بابا
 کس کو آواز دوں میں خدایا
@@ -82,31 +83,31 @@ romanLyrics: |-
 پانی لینے کو دریا کنارے
 میرے عمو یہاں سے سدھارے
 دم بھی گھٹنے لگا غم کے مارے
-اب تو دو بھر ہوا سانس لینا
+اب تو دوبھر ہوا سانس لینا
 
 ۳
 جھولا اصغر کا خالی پڑا ہے
 میری اماں کو غش آ گیا ہے
-ہاتھ جھولے پہ انکا دھرا ہے
-کوی آ کر خدارا اٹھانا
+ہاتھ جھولے پہ ان کا دھرا ہے
+کوئی آ کر خدارا اٹھانا
 
 ۴
 بھیا عابد بھی غش میں پڑا ہے
 وہی اس وقت سب سے بڑا ہے
-انکے چاروں طرف سب کھڑے ہیں
-انکے ماتھے پہ بھی ہے پسینہ
+ان کے چاروں طرف سب کھڑے ہیں
+ان کے ماتھے پہ بھی ہے پسینہ
 
 ۵
-بابا جانے کو آے ہیں دیکھو
-کچھ بتانے کو آے ہیں دیکھو
-کیا سنانے کو آے ہیں دیکھو
+بابا جانے کو آئے ہیں دیکھو
+کچھ بتانے کو آئے ہیں دیکھو
+کیا سنانے کو آئے ہیں دیکھو
 اب تو مشکل ہوا میرا جینا
 
 ۶
-دکھ پہ دکھ ظالموں نے دیےء ہیں
-شمر نے میرے بوندیں لیےء ہیں
-کان میرے وہ زخمی کیےء ہیں
-ہاے رکتا نہیں خون بہنا
+دکھ پہ دکھ ظالموں نے دیے ہیں
+شمر نے میرے بوندیں لیے ہیں
+کان میرے وہ زخمی کیے ہیں
+ہائے رکتا نہیں خون بہنا
 
 ۷
 رسیاں کب یہ آخر کھلیں گی
@@ -115,13 +116,13 @@ romanLyrics: |-
 میری اماں سے جا کر یہ کہنا
 
 ۸
-قید میں کیا صدا ہم رہیں گے
-ظلم کب تک یہ آخر سہینگے
+قید میں کیا سدا ہم رہیں گے
+ظلم کب تک یہ آخر سہیں گے
 ایسا لگتا ہے اب ہم مریں گے
-ہوا ہر گز نہ صغرا سے ملنا
+ہوا ہرگز نہ صغرا سے ملنا
 
 ۹
 اب بھی توقیر زیدی یہ سن لو
 ایک بچی یہ کہتی ہے رو رو
-قید خانے سے مجھکو چھڑا دو
+قید خانے سے مجھ کو چھڑا دو
 میرے عمو کو جا کر یہ کہنا
