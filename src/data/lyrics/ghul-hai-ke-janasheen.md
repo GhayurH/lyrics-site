@@ -1,61 +1,62 @@
 ---
 title: "غل ہے کہ جانشین پیمبر ہوا شہید"
-alternateTitle: "Ghul Hai Ke Janasheen"
+alternateTitle: "Ghul Hai Ke Jaanashin"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fayyaz Lakhnavi"
+reciter: "Dilawar Hasan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghul hai ke janasheen e payambar hua shaheed
-  Girya karo batool ka shauhar hua shaheed
+  Ghul hai ke jaanashin-e-Payambar hua shahid
+  Girya karo Batul ka shauhar hua shahid
 
   1
-  Chaaye na kyun andhera sar e chashm e momineen
-  Deen ke falak ka mehr e munawar hua shaheed
+  Chhaaye na kiuṅ andhera sar-e-chashm-e-mominiṅ
+  Din ke falak ka mehr-e-munawwar hua shahid
 
   2
-  Kuffaar ke dilon mein raha khauf ban ke jo
-  Wo mard e jang faatahe khyber hua shaheed
+  Kuffaar ke diloṅ mein raha khauf ban ke jo
+  Wo mard-e-jang faateh-e-Khaibar hua shahid
 
   3
-  Sajdon ko jis pa naaz hai jannat ko faqr hai
-  Wo ghamgusaar saaqi e kausar hua shaheed
+  Sajdoṅ ko jis pe naaz hai jannat ko fakhr hai
+  Wo ghamgusaar saaqi-e-Kausar hua shahid
 
   4
-  Rab ki riza bana ke rahe manzil e muraad
-  Haq ke safar mein deen ka rehbar hua shaheed
+  Rab ki riza bana ke rahe manzil-e-muraad
+  Haq ke safar mein din ka rehbar hua shahid
 
   5
-  Kaunain mein mahafiz e islam e haq shinaas
-  Azm o wafa o sabr ka paikar hua shaheed
+  Kaunain mein muhaafiz-e-Islaam-e-haq shinaas
+  Azm o wafa o sabr ka paikar hua shahid
 
   6
-  Dast e nabi se jis ko mila deen ka alam
-  Wo meer e kaarzaar ghazanfar hua shaheed
+  Dast-e-Nabi se jis ko mila din ka alam
+  Wo mir-e-kaarzaar Ghazanfar hua shahid
 
   7
-  Thay jiske ilm o fahem mein asraar e kayenaat
-  Dunya mein aisa shahid e daawar hua shaheed
+  The jis ke ilm o fahm mein asraar-e-kaainaat
+  Duniya mein aisa shaahid-e-Daawar hua shahid
 
   8
-  Quran jis se kar liya karta tha dil ki baat
-  Aisa musafir aisa sukhanwar hua shaheed
+  Quraan jis se kar liya karta tha dil ki baat
+  Aisa musaafir aisa sukhanwar hua shahid
 
   9
-  Danishwaraan e dehr mein kohraam mach gaya
-  Jab baab e ilm naam e khuda par hua shaheed
+  Daanishwaraan-e-dahr mein kohraam mach gaya
+  Jab baab-e-ilm naam-e-Khuda par hua shahid
 
   10
-  Mehrab o masjid o dar o dewaar hai khamosh
-  Bazm e jahan mein saahib e mimbar hua shaheed
+  Mehraab o masjid o dar o diwaar hai khamosh
+  Bazm-e-jahaaṅ mein saahib-e-minbar hua shahid
 
   11
-  Fayyaz zulfeqar e falak kyun na ho malool
-  Aisa shuja'a naazim e lashkar hua shaheeed
+  Fayyaz Zulfiqaar-e-falak kiuṅ na ho malul
+  Aisa shujaa naazim-e-lashkar hua shahid
 # source_id: nohayonline:f2f5f8b5c4d6e924319c
 # source_url: https://www.nohayonline.com/details_content.php?id=1349
 # raw_sha256: 5c308047bdfe967e9e717e34315d62e364f4217b833be2aee275b8ec9d416555
@@ -64,8 +65,8 @@ romanLyrics: |-
 گریہ کرو بتول کا شوہر ہوا شہید
 
 ۱
-چھاے نہ کیوں اندھیرا سر چشم مومنیں
-دیں کے فلک کا مہر منور ہوا شہید
+چھائے نہ کیوں اندھیرا سر چشم مومنیں
+دین کے فلک کا مہر منور ہوا شہید
 
 ۲
 کفار کے دلوں میں رہا خوف بن کے جو
@@ -81,14 +82,14 @@ romanLyrics: |-
 
 ۵
 کونین میں محافظ اسلام حق شناس
-عظم و وفا و صبر کا پیکر ہوا شہید
+عزم و وفا و صبر کا پیکر ہوا شہید
 
 ۶
-دست نبی سے جس کو ملا دین کا الم
+دست نبی سے جس کو ملا دین کا علم
 وہ میر کارزار غضنفر ہوا شہید
 
 ۷
-تھے جس کے علم و فہم میں اسرار کاینات
+تھے جس کے علم و فہم میں اسرار کائنات
 دنیا میں ایسا شاہد داور ہوا شہید
 
 ۸
@@ -101,7 +102,7 @@ romanLyrics: |-
 
 ۱۰
 محراب و مسجد و در و دیوار ہے خموش
-بزمِ جہاں میں صاحب ممبر ہوا شہید
+بزمِ جہاں میں صاحب منبر ہوا شہید
 
 ۱۱
 فیاض ذوالفقار فلک کیوں نہ ہو ملول
