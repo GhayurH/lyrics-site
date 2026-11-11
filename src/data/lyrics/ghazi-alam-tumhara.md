@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Muslim Jafri"
+reciter: "Jawad Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hamay jaan se hai pyara ghazi alam tumhara
-  Abbas ye alam hai qaumi nishan hamara
+  Hameiṅ jaan se hai pyaara Ghazi alam tumhaara
+  Abbas ye alam hai qaumi nishaaṅ hamaara
 
   1
-  Nisbat se teri ghazi haajat rawan hai ye bhi
-  Parcham ye mushkilon mein momin ka hai sahara
+  Nisbat se teri Ghazi haajat rawaaṅ hai ye bhi
+  Parcham ye mushkiloṅ mein momin ka hai sahaara
 
   2
-  Sher e khuda ali hai tu sher e murtaza hai
-  Har lab pe goonjta hai abbas tere naara
+  Sher-e-Khuda Ali hai tu Sher-e-Murtaza hai
+  Har lab pe guṅjta hai Abbas tera naara
 
   3
-  Tu hai dua e zehra tu hai rida e zainab
-  Ummul baneen ki tu aankhon ka hai sitara
+  Tu hai dua-e-Zehra tu hai rida-e-Zainab
+  Ummul Banin ki tu aankhoṅ ka hai sitaara
 
   4
-  Imdaad uski karne ban ke ali hai aaya
-  Jab bhi jahan bhi jis ne ghazi tujhe pukara
+  Imdaad us ki karne ban ke Ali hai aaya
+  Jab bhi jahaaṅ bhi jis ne Ghazi tujhe pukaara
 
   5
-  Taqdeer hai jagata aulaad baant'ta hai
-  Sunta hai iltejayein maula ali ka pyara
+  Taqdir hai jagaata aulaad baaṅtta hai
+  Sunta hai iltijaaeṅ Maula Ali ka pyaara
 
   6
-  Jab bhi diya jala ke abbas ko sada di
-  Gham paas matami ke aaya nahi dobara
+  Jab bhi diya jala ke Abbas ko sada di
+  Gham paas maatami ke aaya nahiṅ dobaara
 
   7
-  Banta nahi hai koi zawwar karbala ka
-  Abbas bawafa ka jab tak na ho ishara
+  Banta nahiṅ hai koi zawwaar Karbala ka
+  Abbas ba wafa ka jab tak na ho ishaara
 
   8
-  Jawad kar raha hai tazeem ke jo sajde
-  Ghazi tera alam bhi rauze ka hai nazara
+  Jawad kar raha hai taazim ke jo sajde
+  Ghazi tera alam bhi rauze ka hai nazaara
 # source_id: nohayonline:fc20651f29d2ae571115
 # source_url: https://www.nohayonline.com/details_content.php?id=3012
 # raw_sha256: f276cae54db89108625bf874e352e8c55ca5bf5b71b3ead540e2a877eeeeef78
@@ -56,11 +57,11 @@ romanLyrics: |-
 پرچم یہ مشکلوں میں مومن کا ہے سہارا
 
 ۲
-شیر خدا علی ہے تو شیر مرتظی ہے
+شیرِ خدا علی ہے تو شیرِ مرتضیٰ ہے
 ہر لب پہ گونجتا ہے عباس تیرا نعرہ
 
 ۳
-تو ہے دعاے زہرا تو ہے رداے زینب
+تو ہے دعائے زہرا تو ہے ردائے زینب
 ام البنین کی تو آنکھوں کا ہے ستارہ
 
 ۴
@@ -76,7 +77,7 @@ romanLyrics: |-
 غم پاس ماتمی کے آیا نہیں دوبارہ
 
 ۷
-بانٹا نہیں ہے کوی زوار کربلا کا
+بانٹا نہیں ہے کوئی زوار کربلا کا
 عباس با وفا کا جب تک نہ ہو اشارہ
 
 ۸

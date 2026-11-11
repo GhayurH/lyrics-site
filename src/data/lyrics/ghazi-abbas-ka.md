@@ -1,67 +1,68 @@
 ---
-title: "غازی عباس کے پرچم سو اٹھاتے رہنا"
+title: "غازی عباس کے پرچم کو اٹھاتے رہنا"
 alternateTitle: "Ghazi Abbas Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Saahil"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghazi abbas ke parcham ko uthaate rehna
-  Hum hussaini hai zamane ko bataate rehna
+  Ghazi Abbas ke parcham ko uthaate rehna
+  Ham Husaini haiṅ zamaane ko bataate rehna
 
   1
-  Hai ye shehzadi e zainab ki tamanna sun lo
-  Apne ghar farsh e aza aap bichaate rehna
+  Hai ye Shahzaadi-e-Zainab ki tamanna sun lo
+  Apne ghar farsh-e-aza aap bichhaate rehna
 
   2
-  Fatema aayi hai rumaal liye majlis mein
-  Ashk aankhon se ghame sheh mein bahate rehna
+  Fatima aayi hai rumaal liye majlis mein
+  Ashk aankhoṅ se gham-e-Shah mein bahaate rehna
 
   3
-  Waar kar jhoole pe asghar ki meri maa behno
-  Apni aulaad ko parwaan chadaate rehna
+  Waar kar jhule pe Asghar ki meri maaṅ behnoṅ
+  Apni aulaad ko parwaan charhaate rehna
 
   4
-  Nusrate hazrate shabbir agar ho karni
-  Apne seeno se lahoo apna bahaate rehna
+  Nusrat-e-Hazrat-e-Shabbir agar ho karni
+  Apne sinoṅ se lahu apna bahaate rehna
 
   5
-  Waasta deke sakina ka shahe waala ko
-  Apni soyi hui taqdeer jagaate rehna
+  Waasta de ke Sakina ka Shah-e-waala ko
+  Apni soyi hui taqdir jagaate rehna
 
   6
-  Tazkira kar ke hussain ibne ali ka saahil
-  Jab talak saans hai ghame sheh ka manate rehna
+  Tazkira kar ke Husain Ibn-e-Ali ka Saahil
+  Jab talak saaṅs hai gham-e-Shah ka manaate rehna
 # source_id: nohayonline:23cabcc40bf79b8d031e
 # source_url: https://www.nohayonline.com/details_content.php?id=2773
 # raw_sha256: 6679a472a4eb591dc01b0c58af1126cb1d03cba28b63ff907a9e10a40b4bf8ac
 ---
-غازی عباس کے پرچم سو اٹھاتے رہنا
-ہم حسینی ہے زمانے کو بتاتے رہنا
+غازی عباس کے پرچم کو اٹھاتے رہنا
+ہم حسینی ہیں زمانے کو بتاتے رہنا
 
 ۱
-ہے یہ شہزادیء زینب کی تمنا سن لو
-اپنے گھر فرش عزا آپ بچھاتے رہنا
+ہے یہ شہزادیِ زینب کی تمنا سن لو
+اپنے گھر فرشِ عزا آپ بچھاتے رہنا
 
 ۲
-فاطمہ آی ہے رومال لیےء مجلس میں
-اشک آنکھوں سے غم شہ میں بہاتے رہنا
+فاطمہ آئی ہے رومال لیے مجلس میں
+اشک آنکھوں سے غمِ شہ میں بہاتے رہنا
 
 ۳
 وار کر جھولے پہ اصغر کی میری ماں بہنوں
 اپنی اولاد کو پروان چڑھاتے رہنا
 
 ۴
-نصرت حضرت شبیر اگر ہو کرنی
+نصرتِ حضرتِ شبیر اگر ہو کرنی
 اپنے سینوں سے لہو اپنا بہاتے رہنا
 
 ۵
-واسطہ دیکے سکینہ کا شہ والا کو
-اپنی سوی ہوی تقدیر جگاتے رہنا
+واسطہ دے کے سکینہ کا شہِ والا کو
+اپنی سوئی ہوئی تقدیر جگاتے رہنا
 
 ۶
 تذکرہ کر کے حسین ابنِ علی کا ساحل
