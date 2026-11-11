@@ -1,66 +1,69 @@
 ---
-title: "ہاے اکبر ہاے اکبر"
-alternateTitle: "Ek Zaeefi Ye Duja"
+title: "ہائے اکبر ہائے اکبر"
+alternateTitle: "Ek Zaifi Ye Duja"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ek Zaeefi Ye Duja"]
 published: false
 romanLyrics: |-
-  Haye akbar haye akbar
+  Haaye Akbar haaye Akbar
 
-  Ek zaeefi ye dooja mulk paraya akbar
-  Baabe te zaalimanu na tars aaya akbar
-  Is zaeefi mein tera laasha uthaun kaise
-  Dekh baba pe tere waqt ye aaya akbar
+  Ek zaifi ye duja mulk paraaya Akbar
+  Baab te zaalimaaṅ nu na taras aaya Akbar
+
+  Is zaifi mein tera laasha uthaauṅ kaise
+  Dekh Baaba pe tere waqt ye aaya Akbar
 
   1
-  Kya kahun dil pe mere beeth gayi kya beta
-  Qasid e sughra khat e sughra jo laaya akbar
+  Kya kahuṅ dil pe mere bit gayi kya beta
+  Qaasid-e-Sughra khat-e-Sughra jo laaya Akbar
 
   2
-  Tere laashe pe kahin mar hi na jaaye zainab
-  Jis ne seene pe tujhe apne sulaaya akbar
+  Tere laashe pe kahiṅ mar hi na jaaye Zainab
+  Jis ne sine pe tujhe apne sulaaya Akbar
 
   3
-  Dekh qaime mein teri maa ye buka karne lagi
-  Itne armaan se tera seha banaya akbar
+  Dekh khaime mein teri maaṅ ye buka karne lagi
+  Itne armaaṅ se tera sehra banaaya Akbar
 
   4
-  Tu abhi zinda hai aur noor gaya aankhon se
-  Haath jo taygh pe tha seene pe aaya akbar
+  Tu abhi zinda hai aur nur gaya aankhoṅ se
+  Haath jo tegh pe tha sine pe aaya Akbar
 
   5
-  Kya ghareebi hai teri laash uthaane ke liye
-  Kaam aaya na koi apna paraya akbar
+  Kya gharibi hai teri laash uthaane ke liye
+  Kaam aaya na koi apna paraaya Akbar
 
   6
-  Tum bhi auron ki tarha chod gaye saath mera
-  Sirf ghurbat ne mera saath nibhaya akbar
+  Tum bhi auroṅ ki tarah chhor gaye saath mera
+  Sirf ghurbat ne mera saath nibhaaya Akbar
 
   7
-  Dekhta hoo mai usi seene mein barchi ki ani
-  Kal isi seene ko seene ko lagaya akbar
+  Dekhta huṅ main usi sine mein barchhi ki ani
+  Kal isi sine ko sine ko lagaaya Akbar
 
   8
-  Shadman hoga sar e hashr hai mazhar ko yaqeen
-  Jisne dunya ko tere gham mein rulaya akbar
+  Shaadmaaṅ hoga sar-e-hashr hai Mazhar ko yaqin
+  Jis ne dunya ko tere gham mein rulaaya Akbar
+reciter: Shadman Raza
 # source_id: nohayonline:37c31fc05bd9010c63fa
 # source_url: https://www.nohayonline.com/details_content.php?id=3061
 # raw_sha256: cdaa999005a7e0d3964b4da773cffbb410bb522b2580e69e23fe0af6a672e111
 ---
-ہاے اکبر ہاے اکبر
+ہائے اکبر ہائے اکبر
 
 ایک ضعیفی یہ دوجا ملک پرایا اکبر
 باب تے ظالماں نو نہ ترس آیا اکبر
+
 اس ضعیفی میں تیرا لاشہ اٹھاؤں کیسے
 دیکھ بابا پہ تیرے وقت یہ آیا اکبر
 
 ۱
-کیا کہوں دل پہ میرے بیت گیء کیا بیٹا
+کیا کہوں دل پہ میرے بیت گئی کیا بیٹا
 قاصد صغرا خط صغرا جو لایا اکبر
 
 ۲
@@ -80,7 +83,7 @@ romanLyrics: |-
 کام آیا نہ کوئی اپنا پرایا اکبر
 
 ۶
-تم بھی اوروں کی طرح چھوڑ گےء ساتھ میرا
+تم بھی اوروں کی طرح چھوڑ گئے ساتھ میرا
 صرف غربت نے میرا ساتھ نبھایا اکبر
 
 ۷

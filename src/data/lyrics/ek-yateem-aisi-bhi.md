@@ -1,86 +1,86 @@
 ---
-title: راہ میں ناقے سے جب گرگئی چھوٹی زہرا
-alternateTitle: Ek Yateem Aisi Bhi
+title: راہ میں ناقے سے جب گر گئی چھوٹی زہرا
+alternateTitle: Ek Yatim Aisi Bhi
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Zeeshan Abidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ek Yateem Aisi Bhi"]
 published: false
 romanLyrics: |-
-  Raah mein naaqe se jab gir gayi choti zahra
-  Godh mein ek zaeefa ne usay thaam liya
-  Sar pe jab haath rakha roke sakina ne kaha
-  Jabse baba se mai bichdi hoo bahot maara gaya
-  Mere gaalon pe tamachon ke nishan hai bibi
-  Tumne dekhi hai mere jaisi yateema koi
+  Raah mein naaqe se jab gir gayi chhoti Zahra
+  God mein ek zaifa ne use thaam liya
+  Sar pe jab haath rakha ro ke Sakina ne kaha
+  Jab se Baaba se main bichhri huṅ bahut maara gaya
+  Mere gaaloṅ pe tamaanchoṅ ke nishaaṅ haiṅ Bibi
+  Tum ne dekhi hai mere jaisi yatima koi
 
-  Baat ye jab suni wo bhi rone lagi
-  Phir zaeefa sakina se kehne lagi
+  Baat jab ye suni wo bhi rone lagi
+  Phir zaifa Sakina se kehne lagi
 
-  Tumse pehle ek yateema aisi bhi thi
+  Tum se pehle ek yatima aisi bhi thi
 
   1
-  Haa tumhare watan mein hi rehti thi wo
-  Badshah e madina ki beti thi wo
-  Baap ke baad itne masayab pade
-  Apne ghar mein sahare se chalti thi wo
-  Gham uthaati rahi kham kamar hogayi
-  Naujawani mein hi jo zaeefa hui
+  Haaṅ tumhaare watan mein hi rehti thi wo
+  Baadshaah-e-Madina ki beti thi wo
+  Baap ke baad itne masaaib pare
+  Apne ghar mein sahaare se chalti thi wo
+  Gham uthaati rahi kham kamar ho gayi
+  Naujawaani mein hi jo zaifa hui
 
   2
-  Zaalimo ne yun baba ka pursa diya
-  Jalta darwaza uspe giraya gaya
-  Dar ke neeche thi wo dar hata na saki
+  Zaalimoṅ ne yuṅ Baaba ka pursa diya
+  Jalta darwaaza us par giraaya gaya
+  Dar ke niche thi wo dar hataa na saki
   Haath bhi jal gaye pehlu zakhmi hua
-  Log chal kar yahan se gaye jab wahan
-  Paon rakh rakh ke todi gayi phasliyan
+  Log chal kar yahaaṅ se gaye jab wahaaṅ
+  Paaoṅ rakh rakh ke tori gayi pasliyaaṅ
 
   3
-  Wo zaeefa kahani sunati rahi
-  Aur masoom aansu bahati rahi
-  Gaal neele hai jaise tumhare abhi
-  Uske gaalon ki rangat bhi aisi hi thi
-  Saamne usko beton ke maara gaya
-  Waqt ye na kisi maa pe aaye kabhi
-  Shaahzadi suno kitni bebas thi wo
-  Ghar mein bachon se chehra chupati thi jo
+  Wo zaifa kahaani sunaati rahi
+  Aur maasum aansu bahaati rahi
+  Gaal nile haiṅ jaise tumhaare abhi
+  Us ke gaaloṅ ki rangat bhi aisi hi thi
+  Saamne us ko betoṅ ke maara gaya
+  Waqt ye na kisi maaṅ pe aaye kabhi
+  Shaahzaadi suno kitni bebas thi wo
+  Ghar mein bachchoṅ se chehra chhupaati thi jo
 
   4
-  Jis tarha tere kaano se hai khoon rawan
-  Kaan uske bhi zakhmi thay ay meri jaan
-  Itni shiddat se zaalim ne maara usay
-  Toot kar khaak pe gir gayi baliyan
+  Jis tarah tere kaanoṅ se hai khuṅ rawaaṅ
+  Kaan us ke bhi zakhmi the ae meri jaaṅ
+  Itni shiddat se zaalim ne maara use
+  Tut kar khaak pe gir gayiṅ baaliyaaṅ
   Beti bin baap ki dard seh na saki
-  Haath kano pe rakh kar wo roti rahi
+  Haath kaanoṅ pe rakh kar wo roti rahi
 
   5
-  Wo zaeefa kahani sunati rahi
-  Aur masoom aansu bahati rahi
-  Pani uth uth ke jisko pilaati thi wo
-  Loriyan de ke jisko sulaati thi wo
-  Haath chadar mein us se chupane lagi
-  Haath phailaake jisko bulaati thi wo
-  Kaise kehti wo maa mere dil meri jaan
-  Taziyano se zakhmi sab ungliyan
+  Wo zaifa kahaani sunaati rahi
+  Aur maasum aansu bahaati rahi
+  Paani uth uth ke jis ko pilaati thi wo
+  Loriyaaṅ de ke jis ko sulaati thi wo
+  Haath chaadar mein us se chhupaane lagi
+  Haath phaila ke jis ko bulaati thi wo
+  Kaise kehti wo maaṅ mere dil meri jaaṅ
+  Taaziyaanoṅ se zakhmi haiṅ sab ungliyaaṅ
 
   6
-  Uska marna bhi sab se chupaya gaya
-  Chauda logon mein ghar se janaza utha
-  Uski chalees qabrein banayi gayi
-  Bas ye sunte hi bachi ne rokar kaha
-  Ay zaeefa suno meri dadi thi wo
-  Mujhko jaldi batao ke tum kaun ho
+  Us ka marna bhi sab se chhupaaya gaya
+  Chaudah logoṅ mein ghar se janaaza utha
+  Us ki chaalis qabreṅ banaai gayiṅ
+  Bas ye sunte hi bachchi ne ro kar kaha
+  Ae zaifa suno meri daadi thiṅ wo
+  Mujh ko jaldi bataao ke tum kaun ho
 
   7
-  Haath pehlu se apne uthaate huwe
-  Zakmi chehre se parda hataate huwe
-  Ay raza aur zeeshan rone lagi
-  Ye sakina ko zehra bataate huwe
-  Mera virsa ho tum mera chehra ho tum
-  Ab samajh aaya kyun choti zehra ho tum
+  Haath pehlu se apne uthaate hue
+  Zakhmi chehre se parda hataate hue
+  Ae Raza aur Zeeshan rone lagiṅ
+  Ye Sakina ko Zehra bataate hue
+  Mera wirsa ho tum mera chehra ho tum
+  Ab samajh aaya kiuṅ chhoti Zehra ho tum
 reciter: Syed Haider Raza Zaidi
 # source_id: nohayonline:ac81abd2c5cb684d20d2
 # source_url: https://www.nohayonline.com/details_content.php?id=1037
@@ -90,11 +90,11 @@ reciter: Syed Haider Raza Zaidi
 # raw_sha256: a64ce2c5a3cdd686e50b8a256884b9343aba66f07d013d44034d48f851355a19
 ---
 
-راہ میں ناقے سے جب گرگئی چھوٹی زہرا
+راہ میں ناقے سے جب گر گئی چھوٹی زہرا
 گود میں ایک ضعیفہ نے اُسے تھام لیا
-سر پہ جب ہاتھ رکھا روکے سکینہ نے کہا
-جب سے بابا سے میں بچھڑی ہوں بہت ماراگیا
-میرے گالوں پہ طمانچوں کے نشاں ہیں بی بی
+سر پہ جب ہاتھ رکھا رو کے سکینہ نے کہا
+جب سے بابا سے میں بچھڑی ہوں بہت مارا گیا
+میرے گالوں پہ طمانچوں کے نشاں ہیں بی‌بی
 تم نے دیکھی ہے مرے جیسی یتیمہ کوئی
 
 بات جب یہ سنی وہ بھی رونے لگی
@@ -113,7 +113,7 @@ reciter: Syed Haider Raza Zaidi
 ۲
 ظالموں نے یوں بابا کا پرسہ دیا
 جلتا دروازہ اُس پر گرایا گیا
-در کے نیچے تھی وہ در ہٹا نا سکی
+در کے نیچے تھی وہ در ہٹا نہ سکی
 ہاتھ بھی جل گئے پہلو زخمی ہوا
 لوگ چل کر یہاں سے گئے جب وہاں
 پاؤں رکھ رکھ کے توڑی گئی پسلیاں
@@ -124,16 +124,16 @@ reciter: Syed Haider Raza Zaidi
 گال نیلے ہیں جیسے تمہارے ابھی
 اُسکے گالوں کی رنگت بھی ایسی ہی تھی
 سامنے اُسکو بیٹوں کے مارا گیا
-وقت یہ نا کسی ماں پہ آئے کبھی
+وقت یہ نہ کسی ماں پہ آئے کبھی
 شاہ زادی سنو کتنی بے بس تھی وہ
-گھر میں بچوں سے چہرا چھپاتی تھی جو
+گھر میں بچوں سے چہرہ چھپاتی تھی جو
 
 ۴
 جس طرح تیرے کانوں سے ہے خوں رواں
 کان اُسکے بھی زخمی تھے اے میری جاں
 اتنی شدت سے ظالم نے مارا اُسے
 ٹوٹ کر خاک پہ گر گئیں بالیاں
-بیٹی بن باپ کی درد سہہ نا سکی
+بیٹی بن باپ کی درد سہ نہ سکی
 ہاتھ کانوں پہ رکھ کر وہ روتی رہی
 
 ۵
@@ -143,8 +143,8 @@ reciter: Syed Haider Raza Zaidi
 لوریاں دے کے جسکو سلاتی تھی وہ
 ہاتھ چادر میں اُس سے چھپانے لگی
 ہاتھ پھیلاکے جسکو بلاتی تھی وہ
-کیسے کہتی وہ ماں میرے دل میری جان
-تازیانوں سے زخمی سب اُنگلیاں
+کیسے کہتی وہ ماں میرے دل میری جاں
+تازیانوں سے زخمی ہیں سب اُنگلیاں
 
 ۶
 اُسکا مرنا بھی سب سے چھپایا گیا
@@ -159,5 +159,5 @@ reciter: Syed Haider Raza Zaidi
 زخمی چہرے سے پردہ ہٹاتے ہوئے
 اے رضا اور ذیشان رونے لگیں
 یہ سکینہ کو زہرا بتاتے ہوئے
-میرا ورثہ ہو تم میرا چہرا ہو تم
+میرا ورثہ ہو تم میرا چہرہ ہو تم
 اب سمجھ آیا کیوں چھوٹی زہرا ہو تم
