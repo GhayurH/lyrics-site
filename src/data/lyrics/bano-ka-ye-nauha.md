@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bano ka ye nauha tha aajao ali akbar
-  Aajao mera beta aajao ali akbar
+  Bano ka ye nauha tha aajao Ali Akbar
+  Aajao mera beta aajao Ali Akbar
 
   1
-  Hai ghere huwe lashkar ahmed ke nawase ko
-  Mazloom musafir ko seh roz ke pyase ko
-  Tanha hai shah we waala aajao ali akbar
+  Hai ghere hue lashkar Ahmad ke nawaase ko
+  Mazlum musaafir ko seh roz ke pyaase ko
+  Tanha hai Shaah-e-waala aajao Ali Akbar
 
   2
-  Talwaron ki zad par hai is waqt mere waali
-  Aaqa se mere dunya hojaye na ye khaali
-  Lut jaye na ghar mera aajao ali akbar
+  Talwaroṅ ki zad par hai is waqt mere waali
+  Aaqa se mere duniya ho jaye na ye khaali
+  Lut jaye na ghar mera aajao Ali Akbar
 
   3
-  Is ghamzada madar ko ab aur na tadpao
-  Jisne tumhe paala hai kuch us pa taras khao
-  Kyun rooth gaye beta aajao ali akbar
+  Is ghamzada maadar ko ab aur na tarpao
+  Jis ne tumheṅ paala hai kuchh us pe taras khao
+  Kiuṅ ruth gaye beta aajao Ali Akbar
 
   4
-  Zaalim ki jafaon se behaal jo bache hai
-  De kar tumhe aawazein rote hai tadapte hai
-  Kohraam hai ek barpa aajao ali akbar
+  Zaalim ki jafaaoṅ se behaal jo bachche haiṅ
+  De kar tumheṅ aawaazeṅ rote haiṅ tarapte haiṅ
+  Kohraam hai ik barpa aajao Ali Akbar
 
   5
-  Ghar loot chuke zaalim ab qaime jalate hai
-  Mazloomno yateemon ko has has ke rulaate hai
-  Karte hai sitam aada aajao ali akbar
+  Ghar lut chuke zaalim ab khaime jalaate haiṅ
+  Mazlumoṅ yatimoṅ ko haṅs haṅs ke rulaate haiṅ
+  Karte haiṅ sitam aada aajao Ali Akbar
 
   6
-  Sadaat ke qaimon se uth'ta hai dhuwan haye
-  Sajjad ki gardan mein hai tauq e garan haye
-  Zainab hai rasan basta aajao ali akbar
+  Saadaat ke khaimoṅ se uthta hai dhuaaṅ haaye
+  Sajjad ki gardan mein hai tauq-e-giraaṅ haaye
+  Zainab hai rasan basta aajao Ali Akbar
 
   7
-  Mai kab se bulaati hoo kyun sunte nahi akbar
-  Ab dasht e musibat mein chinti hai meri chadar
-  Hai waqt qayamat ka aajao ali akbar
+  Main kab se bulaati huṅ kiuṅ sunte nahiṅ Akbar
+  Ab dasht-e-musibat mein chhinti hai meri chaadar
+  Hai waqt-e-qayaamat ka aajao Ali Akbar
 
   8
-  Wo sher e jari haye phir aa na saka gohar
-  Jab tak bhi rahi zinda dil thaame huwe ro kar
-  Maa karti rahi nauha aajao ali akbar
+  Wo sher-e-jari haaye phir aa na saka Gohar
+  Jab tak bhi rahi zinda dil thaame hue ro kar
+  Maaṅ karti rahi nauha aajao Ali Akbar
 # source_id: nohayonline:dcb163d68ce00c2e9889
 # source_url: https://www.nohayonline.com/details_content.php?id=1591
 # raw_sha256: 07f595dafe74f2e342ee7ce606650bf4c76a08f94baf603c3d2db8642983b94c
@@ -60,19 +61,19 @@ romanLyrics: |-
 آجاؤ میرا بیٹا آجاؤ علی اکبر
 
 ۱
-ہے گھیرے ہوے لشکر احمد کے نواسے کو
-مظلوم مسافر کو سہہ روز کے پیاسے کو
-تنہا ہے شہ والا آجاؤ علی اکبر
+ہے گھیرے ہوئے لشکر احمد کے نواسے کو
+مظلوم مسافر کو سہ روز کے پیاسے کو
+تنہا ہے شہِ والا آجاؤ علی اکبر
 
 ۲
-تلواروں کی ضد پر ہے اس وقت میرے والی
-آقا سے میرے دنیا ہوجاے نہ یہ خالی
-لٹ جاے نہ گھر میرا آجاؤ علی اکبر
+تلواروں کی زد پر ہے اس وقت میرے والی
+آقا سے میرے دنیا ہو جائے نہ یہ خالی
+لٹ جائے نہ گھر میرا آجاؤ علی اکبر
 
 ۳
-اس غمزدہ مادر کو اب اور نہ تدپاؤ
+اس غمزدہ مادر کو اب اور نہ تڑپاؤ
 جس نے تمہیں پالا ہے کچھ اس پہ ترس کھاؤ
-کیوں روٹھ گےء بیٹا آجاؤ علی اکبر
+کیوں روٹھ گئے بیٹا آجاؤ علی اکبر
 
 ۴
 ظالم کی جفاؤں سے بے حال جو بچے ہیں
@@ -82,19 +83,19 @@ romanLyrics: |-
 ۵
 گھر لوٹ چکے ظالم اب خیمے جلاتے ہیں
 مظلوموں یتیموں کو ہنس ہنس کے رلاتے ہیں
-کرتے ہے ستم آجاؤ علی اکبر
+کرتے ہیں ستم اعدا آجاؤ علی اکبر
 
 ۶
-سادات کے خیموں سے اٹھتا ہے دھواں ہاے
-سجاد کی گردن میں ہے طوقِ گراں ہاے
+سادات کے خیموں سے اٹھتا ہے دھواں ہائے
+سجاد کی گردن میں ہے طوقِ گراں ہائے
 زینب ہے رسن بستہ آجاؤ علی اکبر
 
 ۷
 میں کب سے بلاتی ہوں کیوں سنتے نہیں اکبر
-اب دشت مصیبت میں چھنتی ہے میری چادر
-ہے وقت قیامت کا آجاؤ علی اکبر
+اب دشتِ مصیبت میں چھنتی ہے میری چادر
+ہے وقتِ قیامت کا آجاؤ علی اکبر
 
 ۸
-وہ شیر جری ہاے پھر آ نہ سکا گوہر
-جب تک بھی رہی زندہ دل تھامے ہوے رو کر
+وہ شیرِ جری ہائے پھر آ نہ سکا گوہر
+جب تک بھی رہی زندہ دل تھامے ہوئے رو کر
 ماں کرتی رہی نوحہ آجاؤ علی اکبر
