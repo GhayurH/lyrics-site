@@ -1,116 +1,117 @@
 ---
-title: "بولی ماں دشتِ ستم میں کس طرح چین آے گا"
+title: "بولی ماں دشتِ ستم میں کس طرح چین آئے گا"
 alternateTitle: "Boli Maa Dashte"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Ghadeer Fatima"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Boli maa dashte sitam mein kis tarha chain aayega
-  Nanhi si turbat mein asghar kaun dil behlayega
+  Boli maa dasht-e-sitam mein kis tarah chain aayega
+  Nanhi si turbat mein Asghar kaun dil behlayega
 
   1
-  Aao maa ki godh mein aao badal doo mai libaas
-  Khoon bhara kurta ye eeza jism ko pahunchayega
+  Aao maa ki god mein aao badal duṅ main libaas
+  Khuṅ bhara kurta ye iza jism ko pahunchayega
 
   2
-  Maine to bheja tha tum ko pani peene ke liye
-  Ye na samjhi thi ke naawak se gala chid jayega
+  Main ne to bheja tha tum ko paani pine ke liye
+  Ye na samjhi thi ke naawak se gala chhid jayega
 
   3
-  Maamta dhoondegi tujhko godh mein ay mere laal
-  Jab koi masoom chehra saamne aa jayega
+  Maamta dhundegi tujhko god mein ae mere laal
+  Jab koi masum chehra saamne aa jayega
 
   4
-  Hai tumhari umr choti itna to socho zara
-  Nanha sa masoom dil is dasht mein darr jayega
+  Hai tumhari umr chhoti itna to socho zara
+  Nanha sa masum dil is dasht mein dar jayega
 
   5
-  Aaj hai shaam e ghariban kal shabe ashoor thi
-  Kya pata tha ek din mein aisa toofan aayega
+  Aaj hai shaam-e-gharibaṅ kal shab-e-ashur thi
+  Kya pata tha ek din mein aisa tufaan aayega
 
   6
-  Har ghadi beta yehi mai sochti hoo baar baar
-  Kaun uljhe gaysuon ko ab wahan suljhayega
+  Har ghari beta yehi main sochti huṅ baar baar
+  Kaun uljhe gesuoṅ ko ab wahaṅ suljhayega
 
   7
-  Wo tera nanha gala aur haye wo sehra ki dhoop
-  Jab bhi sochungi mere dil ko bohat tadpayega
+  Wo tera nanha gala aur haye wo sehra ki dhup
+  Jab bhi sochuṅ gi mere dil ko bahut tarpayega
 
   8
-  Neend tujhko maa ki lori ke baghair aati nahi
-  Har ghadi bechain tu turbat mein khud ko payega
+  Nind tujhko maa ki lori ke baghair aati nahiṅ
+  Har ghari bechain tu turbat mein khud ko payega
 
   9
-  Din mere nazroon mein hoga raat se bad kar siyah
-  Un ghane baalon ka tere jab khayaal aa jayega
+  Din mere nazroṅ mein hoga raat se barh kar siyah
+  Un ghane baaloṅ ka tere jab khayaal aa jayega
 
   10
-  Nanhe se dil ki badegi aur kuch bechainiya
-  Mere bache jab wahan jhoola nahi tu payega
+  Nanhe se dil ki barhegi aur kuchh bechainiyaṅ
+  Mere bachche jab wahaṅ jhula nahiṅ tu payega
 
   11
-  Wo tere sookhe huwe lab aur wo sehra ki dhoop
+  Wo tere sukhe hue lab aur wo sehra ki dhup
   Ye tasavvur maa ke dil par ek qayamat dhayega
 
   12
-  Kyun darun mai qabr ki manzil se jab ke ay raza
-  Khuld ka ghar sheh ke sadqe mein mujhe mil jayega
+  Kiuṅ daruṅ main qabr ki manzil se jab ke ae Raza
+  Khuld ka ghar Sheh ke sadqe mein mujhe mil jayega
 # source_id: nohayonline:698c7063a6490713aa6e
 # source_url: https://www.nohayonline.com/details_content.php?id=1994
 # raw_sha256: 4ac4575e142bbbd25015789ab105457830446bd2bdd2dc2f035cf4b2ff004828
 ---
-بولی ماں دشتِ ستم میں کس طرح چین آے گا
-ننھی سی تربت میں اصغر کون دل بہلاے گا
+بولی ماں دشتِ ستم میں کس طرح چین آئے گا
+ننھی سی تربت میں اصغر کون دل بہلائے گا
 
 ۱
 آؤ ماں کی گود میں آؤ بدل دوں میں لباس
-خوں بھرا کرتہ یہ ایذا جسم کو پہنچاے گا
+خوں بھرا کرتہ یہ ایذا جسم کو پہنچائے گا
 
 ۲
 میں نے تو بھیجا تھا تم کو پانی پینے کے لئے
-یہ نہ سمجھی تھی کہ ناؤک سے گلا چھد جاے گا
+یہ نہ سمجھی تھی کہ ناوک سے گلا چھد جائے گا
 
 ۳
 مامتا ڈھونڈے گی تجھکو گود میں اے میرے لال
-جب کوئی معصوم چہرہ سامنے آ جاے گا
+جب کوئی معصوم چہرہ سامنے آ جائے گا
 
 ۴
-ہے تمہاری عمر چھوٹی اتنا تو سوچو زرا
-ننھا سا معصوم دل اس دشت میں ڈر جاے گا
+ہے تمہاری عمر چھوٹی اتنا تو سوچو ذرا
+ننھا سا معصوم دل اس دشت میں ڈر جائے گا
 
 ۵
-آج ہے شام غریباں کل شب عاشور تھی
-کیا پتہ تھا اک دن میں ایسا طوفان آے گا
+آج ہے شامِ غریباں کل شبِ عاشور تھی
+کیا پتہ تھا ایک دن میں ایسا طوفان آئے گا
 
 ۶
 ہر گھڑی بیٹا یہی میں سوچتی ہوں بار بار
-کون الجھے گیسوؤں کو اب وہاں سلجھاے گا
+کون الجھے گیسوؤں کو اب وہاں سلجھائے گا
 
 ۷
-وہ تیرا ننھا گلا اور ہاے وہ سحرا کی دھوپ
-جب بھی سوچوں گی میرے دل کو بہت تڑپاے گا
+وہ تیرا ننھا گلا اور ہائے وہ صحرا کی دھوپ
+جب بھی سوچوں گی میرے دل کو بہت تڑپائے گا
 
 ۸
-نیند تجھکو ماں کی لوری کے بغیر آتی ننھی
-ہر گھڑی بے چین تو تربت میں خود کو پاے گا
+نیند تجھکو ماں کی لوری کے بغیر آتی نہیں
+ہر گھڑی بے چین تو تربت میں خود کو پائے گا
 
 ۹
-دن میرے نظروں میں ہوگا رات سے بڑھکر سیاہ
-ان گھنے بالوں کا تیرے جب خیال آ جاے گا
+دن میرے نظروں میں ہوگا رات سے بڑھ کر سیاہ
+ان گھنے بالوں کا تیرے جب خیال آ جائے گا
 
 ۱۰
 ننھے سے دل کی بڑھے گی اور کچھ بے چینیاں
-میرے بچے جب وہاں جھولا نہیں تو پاے گا
+میرے بچے جب وہاں جھولا نہیں تو پائے گا
 
 ۱۱
-وہ تیرے سوکھے ہوے لب اور وہ سحرے کی دھوپ
-یہ تصور ماں کے دل پر اک قیامت ڈھاے گا
+وہ تیرے سوکھے ہوئے لب اور وہ صحرا کی دھوپ
+یہ تصور ماں کے دل پر ایک قیامت ڈھائے گا
 
 ۱۲
 کیوں ڈروں میں قبر کی منزل سے جب کہ اے رضا
-خلد کا گھر شہ کے صدقے میں مجھے مل جاے گا
+خلد کا گھر شہ کے صدقے میں مجھے مل جائے گا
