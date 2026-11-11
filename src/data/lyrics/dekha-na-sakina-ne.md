@@ -6,56 +6,57 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Awais Khan"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chehra na tera saamne gar paungi baba
-  Tareeki e zindan may ghabraungi baba
-  Darti hoo andhere may nazar kuch nahi aata
-  Dewaaron se takrati hoo mar jaungi baba
-  
-  Dekha na sakina ne zindan may savera hai
-  Mai kya bataun baba yahan kitna andhera hai
+  Chehra na tera saamne gar paauṅ gi Baba
+  Taariki-e-zindaan mein ghabraauṅ gi Baba
+  Darti huṅ andhere mein nazar kuchh nahiṅ aata
+  Diwaaroṅ se takraati huṅ mar jaauṅ gi Baba
+
+  Dekha na Sakina ne zindaaṅ mein sawera hai
+  Main kya bataauṅ Baba yahaaṅ kitna andhera hai
 
   1
-  Har roz maarte hai mujhko tamache zaalim
-  Teri laadli ka baba zakhmi hua chehra hai
+  Har roz maarte haiṅ mujh ko tamaaṅche zaalim
+  Teri laadli ka Baba zakhmi hua chehra hai
 
   2
-  Pabandi hai rone pe mai bain karoo kaise
-  Akbar ke qaatilon ne zindan ko ghera hai
+  Paabandi hai rone pe main bain karuṅ kaise
+  Akbar ke qaatiloṅ ne zindaan ko ghera hai
 
   3
-  Hota nahi guzar bhi zindan se hawa ka
-  Gardan may tang rasan hai dam ghut raha mera hai
+  Hota nahiṅ guzar bhi zindaaṅ se hawa ka
+  Gardan mein tang rasan hai dam ghut raha mera hai
 
   4
-  Sajjad ke seene pe mai kis tarha so jaaun
-  Bhai ka paak seena zanjeeron ne ghera hai
+  Sajjad ke sine pe main kis tarah so jaauṅ
+  Bhai ka paak sina zanjiroṅ ne ghera hai
 
   5
-  Asghar ka khoon bhara wo kurta nahi mai bhooli
-  Aur yaad mujhko baba qasim ka wo sehra hai
+  Asghar ka khuṅ bhara wo kurta nahiṅ main bhuli
+  Aur yaad mujh ko Baba Qasim ka wo sehra hai
 
   6
-  Tere galay ko zakhmi khanjar ne kiya baba
-  Rassiyon se gala zakhmi ab hogaya mera hai
+  Tere gale ko zakhmi khanjar ne kiya Baba
+  Rassiyoṅ se gala zakhmi ab ho gaya mera hai
 
   7
-  Pyasa zibha kiya hai in zaalimon ne tujhko
-  Mai bhi rahungi pyasi ab waada ye mera hai
+  Pyaasa zabh kiya hai in zaalimoṅ ne tujh ko
+  Main bhi rahuṅ gi pyaasi ab waada ye mera hai
 
   8
-  Salman poochti thi baba se ye sakina
-  Mujhse bhi zyada zakhmi kyun aap ka chehra hai
+  Salman puchhti thi Baba se ye Sakina
+  Mujh se bhi ziyaada zakhmi kiuṅ aap ka chehra hai
 # source_id: nohayonline:2b01bd0756936da82ad0
 # source_url: https://www.nohayonline.com/details_content.php?id=1627
 # raw_sha256: a25e7fc609b7f77ee58e2d7420bfe7108dd78a00bb994ca35ef6d0da2d2e1637
 ---
 
 چہرہ نہ تیرا سامنے گر پاؤں گی بابا
-تاریکیء زندان میں گھبراؤں گی بابا
+تاریکیِ زندان میں گھبراؤں گی بابا
 ڈرتی ہوں اندھیرے میں نظر کچھ نہیں آتا
 دیواروں سے ٹکراتی ہوں مر جاؤں گی بابا
 
@@ -63,7 +64,7 @@ romanLyrics: |-
 میں کیا بتاؤں بابا یہاں کتنا اندھیرا ہے
 
 ۱
-ہر روز مارتے ہیں مجھکو طمانچے ظالم
+ہر روز مارتے ہیں مجھ کو طمانچے ظالم
 تیری لاڈلی کا بابا زخمی ہوا چہرہ ہے
 
 ۲
@@ -76,18 +77,18 @@ romanLyrics: |-
 
 ۴
 سجاد کے سینے پہ میں کس طرح سو جاؤں
-بھای کا پاک سینہ زنجیروں نے گھیرا ہے
+بھائی کا پاک سینہ زنجیروں نے گھیرا ہے
 
 ۵
 اصغر کا خوں بھرا وہ کرتہ نہیں میں بھولی
-اور یاد مجھکو بابا قاسم کا وہ سہرا ہے
+اور یاد مجھ کو بابا قاسم کا وہ سہرا ہے
 
 ۶
 تیرے گلے کو زخمی خنجر نے کیا بابا
 رسیوں سے گلا زخمی اب ہو گیا میرا ہے
 
 ۷
-پیاسا ذبح کیا ہے ان ظالموں نے تجھکو
+پیاسا ذبح کیا ہے ان ظالموں نے تجھ کو
 میں بھی رہوں گی پیاسی اب وعدہ یہ میرا ہے
 
 ۸

@@ -1,76 +1,77 @@
 ---
-title: "دیکھا جب باپ کا لاشہ تو سکینہ روی"
+title: "دیکھا جب باپ کا لاشہ تو سکینہ روئی"
 alternateTitle: "Dekha Jab Baap Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dekha jab baap ka laasha to sakina royi
-  Shimr ne maara jo durra to sakina royi
+  Dekha jab baap ka laasha to Sakina royi
+  Shimr ne maara jo durra to Sakina royi
 
   1
-  Na mila pani usay aag bujhane ke liye
-  Jal gaya bhai ka jhoola to sakina royi
+  Na mila paani use aag bujhaane ke liye
+  Jal gaya bhai ka jhula to Sakina royi
 
   2
-  Od kar sar pe rida kaan may durr pehne huwe
-  Saamne aayi jo ramla to sakina royi
+  Orh kar sar pe rida kaan mein durr pehne hue
+  Saamne aayi jo Ramla to Sakina royi
 
   3
-  Maar kar sayyed e mazloom ke honton pe chadi
-  Jab hasa haakim e kufa to sakina royi
+  Maar kar Sayyid-e-mazlum ke hoṅtoṅ pe chhari
+  Jab haṅsa haakim-e-Kufa to Sakina royi
 
   4
-  Kya sakina ho tumhi itna batado bibi
-  Hind ne aa ke jo poocha to sakina royi
+  Kya Sakina ho tumhi itna bata do Bibi
+  Hind ne aa ke jo puchha to Sakina royi
 
   5
-  Chaahti thi ke wo le aaye usay qaime may
-  Baap ka laasha na utha to sakina royi
+  Chaahti thi ke wo le aaye use khaime mein
+  Baap ka laasha na utha to Sakina royi
 
   6
-  Qaid may sunte huwe baap ke sar se lori
-  Zakhmi honton ko jo dekha to sakina royi
+  Qaid mein sunte hue baap ke sar se lori
+  Zakhmi hoṅtoṅ ko jo dekha to Sakina royi
 
   7
-  Mir sajjad wo naaqe se giri royi nahi
-  Aa ke daadi ne uthaya to sakina royi
+  Mir Sajjad wo naaqe se giri royi nahiṅ
+  Aa ke daadi ne uthaaya to Sakina royi
 # source_id: nohayonline:c01b6e54bd68958183e4
 # source_url: https://www.nohayonline.com/details_content.php?id=1076
 # raw_sha256: 90db9a28289f577110b0c0dec0cb4bb09a2c3a6dfd285a02b5319a9775829322
 ---
-دیکھا جب باپ کا لاشہ تو سکینہ روی
-شمر نے مارا جو درہ تو سکینہ روی
+دیکھا جب باپ کا لاشہ تو سکینہ روئی
+شمر نے مارا جو درہ تو سکینہ روئی
 
 ۱
 نہ ملا پانی اسے آگ بجھانے کے لئے
-جل گیا بھای کا جھولا تو سکینہ روی
+جل گیا بھائی کا جھولا تو سکینہ روئی
 
 ۲
-اوڑھ کر سر پہ ردا کان میں در پہنے ہوے
-سامنے آی جو رملہ تو سکینہ روی
+اوڑھ کر سر پہ ردا کان میں دُر پہنے ہوئے
+سامنے آئی جو رملہ تو سکینہ روئی
 
 ۳
-مار کر سیدے مظلوم کے ہونٹوں پہ چھڑی
-جب ہنسا حاکم کوفہ تو سکینہ روی
+مار کر سیدِ مظلوم کے ہونٹوں پہ چھڑی
+جب ہنسا حاکمِ کوفہ تو سکینہ روئی
 
 ۴
-کیا سکینہ ہو تمہیں اتنا بتادو بی بی
-ہند نے آ کے جو پوچھا تو سکینہ روی
+کیا سکینہ ہو تمہیں اتنا بتا دو بی‌بی
+ہند نے آ کے جو پوچھا تو سکینہ روئی
 
 ۵
-چاہتی تھی کہ وہ لے آے اسے خیمے میں
-باپ کا لاشہ نہ اٹھا تو سکینہ روی
+چاہتی تھی کہ وہ لے آئے اسے خیمے میں
+باپ کا لاشہ نہ اٹھا تو سکینہ روئی
 
 ۶
 قید میں سنتے ہوئے باپ کے سر سے لوری
-زخمی ہونٹوں کو جو دیکھا تو سکینہ روی
+زخمی ہونٹوں کو جو دیکھا تو سکینہ روئی
 
 ۷
-میر سجاد وہ ناقے سے گری روی نہیں
-آ کے دادی نے اٹھایا تو سکینہ روی
+میر سجاد وہ ناقے سے گری روئی نہیں
+آ کے دادی نے اٹھایا تو سکینہ روئی

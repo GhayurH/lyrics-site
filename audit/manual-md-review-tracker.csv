@@ -1506,11 +1506,11 @@ src/data/lyrics/dekh-kar-haibate.md,standalone_lyrics,imported,nohayonline,pendi
 src/data/lyrics/dekh-kar-hairaan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-11-dekh-editorial,,"Need audio/print: s2 ""bhul jaayegi laiṅ ko"" and ""qabr bhulegi na teri""; s4 ""jhulta neze pe jhula"" and ""kar gaya naakaam zaalim ki jo har tadbir ko""."
 src/data/lyrics/dekh-kar-pamaal.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-dekh-editorial,,
 src/data/lyrics/dekh-madine-kya.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-11-dekh-editorial,,"Need audio/print: s2 Urdu ""gham ki kaise rudaad"" vs Roman ""gham ki kise rudaad""."
-src/data/lyrics/dekh-shireen.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dekha-jab-baap-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dekha-jo-zere-taygh.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dekha-na-sakina-ne.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dekhe-to-koi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/dekh-shireen.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: opening Urdu ""لاشے پہ ہے پڑے"" vs Roman ""laashe hai pade""; s3 ""کیء بار گراں"" vs ""kai baar gira""; s7 ""غم نہ بھولے گی کبھی کربوبلا قاسم کا""; s8 ""پھپھیاں بے پردہ ہے"" (hai/haiṅ)."
+src/data/lyrics/dekha-jab-baap-ka.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s4 Urdu ""تمہیں"" vs Roman ""tumhi""; confirm intended address before aligning."
+src/data/lyrics/dekha-jo-zere-taygh.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s2 Urdu ""اکبرِ محرو"" vs Roman ""Akbar-e-mehru""; confirm epithet before aligning."
+src/data/lyrics/dekha-na-sakina-ne.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/dekhe-to-koi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s2 ""پامال سومے اسپا"" / ""pamaal sumay aspa""; s3 ""عزم طلب"" and Urdu ""رک جانے دو آپا کے"" vs Roman ""ruk jaane to do aaqa ke""."
 src/data/lyrics/dekho-hurr-aa-raha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/dekho-maula-ali.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/deti-hai-zanjeer.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
