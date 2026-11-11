@@ -1,130 +1,131 @@
 ---
 title: "گھر فاطمہ کا لٹ گیا"
-alternateTitle: "Ghar Fatema Ka"
+alternateTitle: "Ghar Fatema Ka Lut Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar fatema ka lut gaya
-  
+  Ghar Fatema ka lut gaya
+
   1
-  Matam karo ahle aza
-  Hai aasmano par buka
-  Karte hai matam ambiya
-  Hai sar barehna mustafa
-  
+  Maatam karo Ahl-e-Aza
+  Hai aasmaanoṅ par buka
+  Karte haiṅ maatam Ambiya
+  Hai sar barehna Mustafa
+
   2
-  Zainab ke wo noor e nazar
+  Zainab ke wo nur-e-nazar
   Jab chal base dono pisar
-  Maa ka jigar sajde mein sar
-  Rone lage shaah e huda
-  
+  Maaṅ ka jigar sajde mein sar
+  Rone lage Shaah-e-Huda
+
   3
-  Tukde hassan ke laal ke
-  Maqtal mein thay bikhre huwe
+  Tukre Hasan ke laal ke
+  Maqtal mein the bikhre hue
   Ab laash ye kaise uthe
-  Sarwar bichate hai abaa
-  
+  Sarwar bichhaate haiṅ abaa
+
   4
-  Kubra ki haye zindagi
+  Kubra ki haae zindagi
   Dulhan bani bewa hui
   Kya keh ke roye bekasi
-  Hamsin wahan koi na tha
-  
+  Hamsin wahaaṅ koi na tha
+
   5
-  Laila ka aur shabbir ka
-  Kadiyal jawan farzand tha
-  Barchi se dil uska chida
-  Jalti zameen par so gaya
-  
+  Laila ka aur Shabbir ka
+  Karyal jawaaṅ farzand tha
+  Barchhi se dil us ka chhida
+  Jalti zamiṅ par so gaya
+
   6
-  Abbas saqqa e haram
-  Haq ka nishan jis ka alam
-  Jis ki wafa deen ka bharam
-  Bhai wo sheh ka ba-wafa
-  
+  Abbaas saqqa-e-haram
+  Haq ka nishaaṅ jis ka alam
+  Jis ki wafa din ka bharam
+  Bhaai wo Shah ka baawafa
+
   7
-  Ummul baneen ka wo pisar
-  Be-dast ghazi khoon mein tar
+  Ummul Banin ka wo pisar
+  Bedast Ghaazi khuṅ mein tar
   Kaise gira wo khaak par
-  Girya kuna hai fatema
-  
+  Girya kunaaṅ hai Fatema
+
   8
-  Haathon pa apne baap ke
-  Maqtal ko asghar jab gaye
-  Ahle sitam rone lage
-  Wo teer kha kar has pada
-  
+  Haathoṅ pe apne baap ke
+  Maqtal ko Asghar jab gaye
+  Ahl-e-sitam rone lage
+  Wo tir khaa kar haṅs para
+
   9
-  Thay muztarib ran mein hussain
-  Ro ro ke karte thay ye bain
-  Kis tarha aaye dil ko chain
-  Maa se kahenge jaa ke kya
-  
+  The muztarib ran mein Husain
+  Ro ro ke karte the ye bain
+  Kis tarah aaye dil ko chain
+  Maaṅ se kaheṅ ge jaa ke kya
+
   10
-  Sar fatema ke laal ka
+  Sar Fatema ke laal ka
   Jab ho gaya tan se juda
-  Deti rahi zainab sada
-  Pamaal laasha ho gaya
-  
+  Deti rahi Zainab sada
+  Paamaal laasha ho gaya
+
   11
-  Aage yuhin badte raho
-  Matam yuhin karte raho
-  Nauha yuhin padte raho
-  Binte ali dengi dua
-  
+  Aage yuṅhi barhte raho
+  Maatam yuṅhi karte raho
+  Noha yuṅhi parhte raho
+  Bint-e-Ali deṅ gi dua
+
   12
-  Matam karo abbas ka
+  Maatam karo Abbaas ka
   Tum ko milega hausla
-  Aankhon mein rakho karbala
-  Behte rahe ashk e aza
-  
+  Aankhoṅ mein rakho Karbala
+  Behte rahe ashk-e-aza
+
   13
-  Parwana e shabbir ka
-  Abbas to hai aasra
+  Parwaana-e-Shabbir ka
+  Abbaas to hai aasra
   Milti rahe in ko sada
   Bas tere parcham ki hawa
-  
+
   14
-  Wo bekason ka kaarwan
-  Bemaar abid natawan
-  Wo tauq aur wo bediyan
-  Wo taaziyano ki jafa
-  
+  Wo bekasoṅ ka kaarwaaṅ
+  Bimaar Aabid naatawaaṅ
+  Wo tauq aur wo beriyaaṅ
+  Wo taaziyaanoṅ ki jafa
+
   15
-  Be-chadari be-chainiya
-  Mushkil kusha ki betiyan
-  Aur baazuon mein reesma
-  Zanjeer mein zainulliba
-  
+  Bechaadari bechainiyaaṅ
+  Mushkil kusha ki betiyaaṅ
+  Aur baazuoṅ mein rismaaṅ
+  Zanjir mein Zainul Abaa
+
   16
-  Durre tamache sayliyan
-  Mazloom bachi ki fughan
-  Cheeni gayi hai baaliyan
-  Kaano se khoon behta raha
-  
+  Durre tamaache sailiyaaṅ
+  Mazlum bachchi ki fughaaṅ
+  Chhini gayi hai baaliyaaṅ
+  Kaanoṅ se khuṅ behta raha
+
   17
-  Shabbir ay jaan e batool
-  Lafzon ko de khadmon ki dhool
-  Nauha ye tu karle qubool
-  Aezaaz ye karde ata
-  
+  Shabbir ae jaan-e-Batul
+  Lafzoṅ ko de qadmoṅ ki dhul
+  Noha ye tu kar le qubul
+  Aezaaz ye kar de ata
+
   18
-  Matam hamari zindagi
-  Ye gham hamari bandagi
-  Izzat hamein is gham ne di
-  Hum yaad rakhenge sada
-  
+  Maatam hamaari zindagi
+  Ye gham hamaari bandagi
+  Izzat hameṅ is gham ne di
+  Ham yaad rakheṅ ge sada
+
   19
-  Ab hai rasheed ashkon ke bain
-  Ay fatema ke noor e ain
-  De dil ko chain ab ya hussain
-  Pahuncha de hum ko karbala
+  Ab hai Rashid ashkoṅ ke bain
+  Ae Fatema ke nur-e-ain
+  De dil ko chain ab ya Husain
+  Pahuṅcha de ham ko Karbala
 # source_id: nohayonline:b76a41888bc7f9f25a4f
 # source_url: https://www.nohayonline.com/details_content.php?id=1959
 # raw_sha256: 220efcac648fbafb4229b90c832e2483dc49c2abf48dec1b2770901c2a8d0093
@@ -133,8 +134,8 @@ romanLyrics: |-
 گھر فاطمہ کا لٹ گیا
 
 ۱
-ماتم کرو اہلِ عزا ہے
-آسمانوں پر بکا
+ماتم کرو اہلِ عزا
+ہے آسمانوں پر بکا
 کرتے ہیں ماتم انبیاء
 ہے سر برہنہ مصطفیٰ
 
@@ -142,18 +143,18 @@ romanLyrics: |-
 زینب کے وہ نورِ نظر
 جب چل بسے دونوں پسر
 ماں کا جگر سجدے میں سر
-رونے لگے شاہ ہدا
+رونے لگے شاہِ ہدیٰ
 
 ۳
 ٹکڑے حسن کے لال کے
-مقتل میں تھے بکھرے ہوے
+مقتل میں تھے بکھرے ہوئے
 اب لاش یہ کیسے اٹھے
-سرور بچھاتے ہیں ابا
+سرور بچھاتے ہیں عبا
 
 ۴
-کبرا کی ہاے زندگی
-دلہن بنی بیوہ ہوی
-کیا کہہ کے روے بیکسی
+کبریٰ کی ہائے زندگی
+دلہن بنی بیوہ ہوئی
+کیا کہہ کے روئے بیکسی
 ہمسن وہاں کوئی نہ تھا
 
 ۵
@@ -163,10 +164,10 @@ romanLyrics: |-
 جلتی زمیں پر سو گیا
 
 ۶
-عباس سقاے حرم
-حق کا نشاں جس کا الم
-جس کی وفا دیں کا بھرم
-بھای وہ شہ کا با وفا
+عباس سقائے حرم
+حق کا نشاں جس کا علم
+جس کی وفا دین کا بھرم
+بھائی وہ شہ کا باوفا
 
 ۷
 ام البنین کا وہ پسر
@@ -176,14 +177,14 @@ romanLyrics: |-
 
 ۸
 ہاتھوں پہ اپنے باپ کے
-مقتل کو اصغر جب گےء
-أہل ستم رونے لگے
+مقتل کو اصغر جب گئے
+اہلِ ستم رونے لگے
 وہ تیر کھا کر ہنس پڑا
 
 ۹
 تھے مضطرب رن میں حسین
 رو رو کے کرتے تھے یہ بین
-کس طرح آے دل کو چین
+کس طرح آئے دل کو چین
 ماں سے کہیں گے جا کے کیا
 
 ۱۰
@@ -195,17 +196,17 @@ romanLyrics: |-
 ۱۱
 آگے یونہی بڑھتے رہو
 ماتم یونہی کرتے رہو
-نوحہ یونہی بڑھتے رہو
-بنت علی دیں گی دعا
+نوحہ یونہی پڑھتے رہو
+بنتِ علی دیں گی دعا
 
 ۱۲
 ماتم کرو عباس کا
 تم کو ملے گا حوصلہ
 آنکھوں میں رکھو کربلا
-بہتے رہے اشک عزا
+بہتے رہے اشکِ عزا
 
 ۱۳
-پروانہء شبیر کا
+پروانۂ شبیر کا
 عباس تو ہے آسرا
 ملتی رہے ان کو صدا
 بس تیرے پرچم کی ہوا
@@ -218,30 +219,30 @@ romanLyrics: |-
 
 ۱۵
 بے چادری بے چینیاں
-مشکل کشاء کی بیٹیاں
+مشکل کشا کی بیٹیاں
 اور بازوؤں میں ریسماں
 زنجیر میں زین العباء
 
 ۱۶
 درے طمانچے سیلیاں
 مظلوم بچی کی فغاں
-چھینی گیء ہے بالیاں
+چھینی گئی ہے بالیاں
 کانوں سے خوں بہتا رہا
 
 ۱۷
 شبیر اے جانِ بتول
-لفظوں کو دے خدموں کی دھول
-نوحہ یہ تو کرلے قبول
-ایزاز یہ کردے عطا
+لفظوں کو دے قدموں کی دھول
+نوحہ یہ تو کر لے قبول
+اعزاز یہ کر دے عطا
 
 ۱۸
 ماتم ہماری زندگی
 یہ غم ہماری بندگی
 عزت ہمیں اس غم نے دی
-ہم یاد رکھیں گے صدا
+ہم یاد رکھیں گے سدا
 
 ۱۹
 اب ہے رشید اشکوں کے بین
-اے فاطمہ کے نور عین
+اے فاطمہ کے نورِ عین
 دے دل کو چین اب یا حسین
 پہنچا دے ہم کو کربلا
