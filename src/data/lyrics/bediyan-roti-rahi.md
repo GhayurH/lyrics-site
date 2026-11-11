@@ -1,52 +1,53 @@
 ---
 title: "بیڑیاں روتی رہی عابد بیمار کے ساتھ"
-alternateTitle: "Bediyan Roti Rahi"
+alternateTitle: "Beriyaṅ Roti Rahi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hassan Mujtaba"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bediyan roti rahi abid e beemaar ke saath
-  Khoon behta raha zanjeer ki jhankar ke saath
+  Beriyaṅ roti rahi Aabid-e-bimaar ke saath
+  Khun behta raha zanjir ki jhankaar ke saath
 
   1
-  Khaar chubte rahe paon may qadam jalte rahe
-  Durre khaate rahe sajjad e hazeen chalte rahe
-  Bait paaye na kabhi saaye may deewar ke saath
+  Khaar chubhte rahe paaoṅ mein qadam jalte rahe
+  Durre khaate rahe Sajjad-e-haziṅ chalte rahe
+  Baith paaye na kabhi saaye mein diwaar ke saath
 
   2
-  Tauqe pur khaar se zaqmi tha gulu e athar
-  Khoon rista tha galay se jo hilaate thay sar
-  Aisa jakda tha gala tauqe garabaar ke saat
+  Tauq-e-pur khaar se zakhmi tha gulu-e-Athar
+  Khun rista tha gale se jo hilaate the sar
+  Aisa jakra tha gala tauq-e-giraaṅ baar ke saath
 
   3
-  Sar jhukaye hai phupi amma se hai sharminda
-  Chadarein laake udha bhi nahi sakte maula
-  Roo ba roo kaise ho wo zainab lachaar ke saath
+  Sar jhukaaye haiṅ phuphi ammaṅ se haiṅ sharminda
+  Chaadareṅ laake urha bhi nahiṅ sakte Maula
+  Rubaru kaise ho wo Zainab laachaar ke saath
 
   4
-  Haye wo itrat e shabbir ka phirna dar dar
-  Arsh walon ne jinhe dekha nahi be chadar
-  Berida kaise gayi fauje sitamgaar ke saath
+  Haaye wo itrat-e-Shabbir ka phirna dar dar
+  Arsh waaloṅ ne jinheṅ dekha nahiṅ be chaadar
+  Berida kaise gayi fauj-e-sitamgaar ke saath
 
   5
-  Haye abid pe jawani may budhapa aaya
-  Khoon aankhon se bahata raha mera maula
-  Qaid hokar chali maa behne jab aghyaar ke saath
+  Haaye Aabid pe jawaani mein burhaapa aaya
+  Khun aankhoṅ se bahaata raha mera Maula
+  Qaid ho kar chali maaṅ behneṅ jab aghyaar ke saath
 
   6
-  Shaam ke baad bhi jab shaam koi kehta tha
-  Maula sajjad ki aankhon se lahoo behta tha
-  Gham hai kuch aise judhe shaam ke bazaar ke saath
+  Shaam ke baad bhi jab Shaam koi kehta tha
+  Maula Sajjad ki aankhoṅ se lahu behta tha
+  Gham hai kuch aise jure Shaam ke baazaar ke saath
 
   7
-  Aake majlis may hassan sar ko jhukaye rakhna
-  Roke sajjad ko shabbir ka pursa dena
-  Baithe honge wo kisi sheh ke azadar ke saath
+  Aake majlis mein Hasan sar ko jhukaaye rakhna
+  Ro ke Sajjad ko Shabbir ka pursa dena
+  Baithe hoṅge wo kisi Shah ke azaadaar ke saath
 # source_id: nohayonline:9b9e6a159156457ce686
 # source_url: https://www.nohayonline.com/details_content.php?id=1385
 # raw_sha256: a7e739eaea962a34763b205ec2268e439a9833e867187579d2ff720605d773f3
@@ -57,10 +58,10 @@ romanLyrics: |-
 ۱
 خار چبھتے رہے پاؤں میں قدم جلتے رہے
 درے کھاتے رہے سجاد حزیں چلتے رہے
-بیٹھ پاے نہ کبھی ساے میں دیوار کے ساتھ
+بیٹھ پائے نہ کبھی سائے میں دیوار کے ساتھ
 
 ۲
-طوقِ پر خار سے زخمی تھا گلوے اطہر
+طوقِ پر خار سے زخمی تھا گلوئے اطہر
 خون رستا تھا گلے سے جو ہلاتے تھے سر
 ایسا جکڑا تھا گلا طوقِ گراں بار کے ساتھ
 
@@ -70,12 +71,12 @@ romanLyrics: |-
 روبرو کیسے ہو وہ زینب لاچار کے ساتھ
 
 ۴
-ہاے وہ عطرت شبیر کا پھرنا در در
+ہائے وہ عترت شبیر کا پھرنا در در
 عرش والوں نے جنہیں دیکھا نہیں بے چادر
-بے ردا کیسے گیء فوج ستمگار کے ساتھ
+بے ردا کیسے گئی فوج ستمگار کے ساتھ
 
 ۵
-ہاے عابد پہ جوانی میں بڑھاپا آیا
+ہائے عابد پہ جوانی میں بڑھاپا آیا
 خون آنکھوں سے بہاتا رہا میرا مولا
 قید ہو کر چلی ماں بہنیں جب اغیار کے ساتھ
 
@@ -86,5 +87,5 @@ romanLyrics: |-
 
 ۷
 آکے مجلس میں حسن سر کو جھکائے رکھنا
-روکے سجاد کو شبیر کا پرسہ دینا
+رو کے سجاد کو شبیر کا پرسہ دینا
 بیٹھے ہونگے وہ کسی شہ کے عزادار کے ساتھ

@@ -1,88 +1,91 @@
 ---
 title: "ہے شام غریباں کا نوحہ"
-alternateTitle: "Beemar Bahot Takleef"
+alternateTitle: "Bimaar Bahut Taklif"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
+reciter: "Humayun Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai shaam e ghariban ka nauha
-  Beemar bahot takleef mein hai
-  Aaram se hai zaalim dunya
+  Hai shaam-e-gharibaaṅ ka nauha
+  Bimaar bahut taklif mein hai
+
+  Aaraam se hai zaalim dunya
+  Bimaar bahut taklif mein hai
   
   1
   Kuch din se ghashi ka aalam tha
-  Jab aankh khuli to sannata
-  Doobi hai lahoo mein karbobala
+  Jab aankh khuli to sannaata
+  Dubi hai lahu mein Karb o Bala
   
   2
-  Hai chaaron taraf qaimon ka dhuan
-  Aada to manate hai khushiyan
-  Ab kaun sune zainab ki sada
+  Hai chaaroṅ taraf khaimoṅ ka dhuaaṅ
+  Aada to manaate haiṅ khushiyaṅ
+  Ab kaun sune Zainab ki sada
   
   3
   Har dil pe bahattar sadme hai
-  Faryad pe durre lagte hai
-  Hai ganje shaheedan mein kunba
+  Faryaad pe durre lagte haiṅ
+  Hai ganj-e-shahidaaṅ mein kunba
   
   4
   Ye zulm ki kaisi manzil hai
   Do gaam bhi chalna mushkil hai
-  Kaanton se bhara hai har rasta
+  Kaantoṅ se bhara hai har rasta
   
   5
   Dushman hai ye sab dunya waale
   Wo apni musibat kis se kahe
-  Wo bheed mein reh kar bhi tanha
+  Wo bhir mein reh kar bhi tanha
   
   6
-  Zakhmon se bhara har pehlu hai
-  Chaalon se baha kuch itna lahoo
-  Zanjeer ke har halqe ne kaha
+  Zakhmoṅ se bhara har pehlu hai
+  Chhaaloṅ se baha kuch itna lahu
+  Zanjir ke har halqe ne kaha
   
   7
-  Ek dil pa bahattar daagh liye
+  Ek dil pe bahattar daagh liye
   Aakhir wo jiye to kaise jiye
-  Dunya ko nahi hai andaza
+  Dunya ko nahiṅ hai andaaza
   
   8
-  Jeene ka nahi koi armaan
-  Balwe mein khule sar hai phupiyan
-  Bechain bahot hai dil ye mera
+  Jine ka nahiṅ koi armaaṅ
+  Balwe mein khule sar hai phuphiyaaṅ
+  Bechain bahut hai dil ye mera
   
   9
   Gir gir ke sambhalna hai usko
   Har haal mein chalna hai usko
-  Ruk jaaye to padta hai durra
+  Ruk jaaye to parta hai durra
   
   10
-  Naize pe chada hai baap ka sar
-  Aur ahle haram hai be-chadar
-  Kismat ne dikhaya hai kya kya
+  Neze pe charha hai baap ka sar
+  Aur ahl-e-haram hai be chaadar
+  Qismat ne dikhaaya hai kya kya
   
   11
-  Zindan mein behen ko maut aayi
+  Zindaaṅ mein behen ko maut aayi
   De ghusl o kafan kaise bhai
-  Rakha hai sakina ka laasha
+  Rakha hai Sakina ka laasha
   
   12
   Kab isko milegi azaadi
-  Zanjeer hai iski faryadi
-  Kab choot ke ghar jaana hoga
+  Zanjir hai iski faryaadi
+  Kab chhut ke ghar jaana hoga
   
   13
   Kab tauq khulega gardan se
-  Kab khoon rukega gardan se
-  Hai surkh lahoo se uski aba
+  Kab khun rukega gardan se
+  Hai surkh lahu se uski aba
   
   14
-  Ye likhna suroor aasaan nahi
-  Lagta hai badan mein jaan nahi
-  Tahreer karun kaise mai bhala
+  Ye likhna Suroor aasaan nahiṅ
+  Lagta hai badan mein jaan nahiṅ
+  Tahrir karuṅ kaise main bhala
 # source_id: nohayonline:1d4b0e75a38e085af396
 # source_url: https://www.nohayonline.com/details_content.php?id=3744
 # raw_sha256: b4d87e1f50d679374a5748a0d1f7eed5aad03211c1b982773166131284cc7127
@@ -90,7 +93,9 @@ romanLyrics: |-
 
 ہے شام غریباں کا نوحہ
 بیمار بہت تکلیف میں ہے
+
 آرام سے ہے ظالم دنیا
+بیمار بہت تکلیف میں ہے
 
 ۱
 کچھ دن سے غشی کا عالم تھا
@@ -120,11 +125,11 @@ romanLyrics: |-
 ۶
 زخموں سے بھرا ہر پہلو ہے
 چھالوں سے بہا کچھ اتنا لہو
-زنجیر کے ہر حلق نے کہا
+زنجیر کے ہر حلقے نے کہا
 
 ۷
-ایک دل پہ بہتر داغ لیےء
-آخر وہ جیےء تو کیسے جیےء
+ایک دل پہ بہتر داغ لیے
+آخر وہ جیے تو کیسے جیے
 دنیا کو نہیں ہے اندازہ
 
 ۸
@@ -144,7 +149,7 @@ romanLyrics: |-
 
 ۱۱
 زنداں میں بہن کو موت آئی
-دے غسل و کفن کیسے بھای
+دے غسل و کفن کیسے بھائی
 رکھا ہے سکینہ کا لاشہ
 
 ۱۲
@@ -154,7 +159,7 @@ romanLyrics: |-
 
 ۱۳
 کب طوق کھلے گا گردن سے
-کا خون رکے گا گردن سے
+کب خون رکے گا گردن سے
 ہے سرخ لہو سے اس کی عبا
 
 ۱۴
