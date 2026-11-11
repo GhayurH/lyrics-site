@@ -1,62 +1,63 @@
 ---
 title: "فرش عزا پہ آؤ سر کو جھکا جھکا کے"
-alternateTitle: "Farshe Aza Pe Aao"
+alternateTitle: "Farsh-e-Aza Pe Aao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Salaam"
 poet: "Ali Naqvi Najaf"
+reciter: "Musa Naqvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Farshe Aza Pe Aao"]
 published: false
 romanLyrics: |-
-  Farshe aza pe aao sar ko jhuka jhuka ke
-  Zehra ko pursa dena aansu baha baha ke
+  Farsh-e-aza pe aao sar ko jhuka jhuka ke
+  Zehra ko pursa dena aaṅsu baha baha ke
 
   1
-  Imran ne bachayi is shaan se nabuwat
-  Bistar pe mustafa ke bete sula sula ke
+  Imran ne bachaai is shaan se nabuwwat
+  Bistar pe Mustafa ke bete sula sula ke
 
   2
   Sughra ke khat ke andar bas ye likha hua tha
-  Zinda hoo baba khaali jhoola jhula jhula ke
+  Zinda huṅ baba khaali jhula jhula jhula ke
 
   3
-  Shabbir kehte jaate abbas mere bhaiya
-  Maqtal se bawafa ke shaane utha utha ke
+  Shabbir kehte jaate Abbas mere bhaiya
+  Maqtal se baawafa ke shaane utha utha ke
 
   4
-  Jalti hui zameen par pani kahan se laate
-  Tar kar di qabre asghar aansu baha baha ke
+  Jalti hui zamiṅ par paani kahaaṅ se laate
+  Tar kar di qabr-e-Asghar aaṅsu baha baha ke
 
   5
-  Ruqsat to kar diya tha kadiyal jawan ko lekin
-  Mud mud ke maa ne dekha parda utha utha ke
+  Rukhsat to kar diya tha karyal jawaaṅ ko lekin
+  Mur mur ke maaṅ ne dekha parda utha utha ke
 
   6
-  Marne ke waaste jab ran ko chale thay sarwar
-  Ruqsat kiya haram ne halqa bana bana ke
+  Marne ke waaste jab ran ko chale the Sarwar
+  Rukhsat kiya haram ne halqa bana bana ke
 
   7
-  Chupte thay qaimon qaimon bache shahe huda ke
-  Aur has rahe thay zaalim qaime jala jala ke
+  Chhupte the khaimoṅ khaimoṅ bachche Shah-e-Huda ke
+  Aur haṅs rahe the zaalim khaime jala jala ke
 
   8
-  Ye kam nahi aakhir mazloomi e sakina
-  Zaalim jo phaynte thay pani dikha dikha ke
+  Ye kam nahiṅ aakhir mazlumi-e-Sakina
+  Zaalim jo pheṅkte the paani dikha dikha ke
 
   9
-  Abid bhi ye najaf jab rote hai khoon ke aansu
-  Pursa do khoon apna tum bhi baha baha ke
+  Abid bhi ye Najaf jab rote haiṅ khuṅ ke aaṅsu
+  Pursa do khun apna tum bhi baha baha ke
 # source_id: nohayonline:b44b2542538c6f25758c
 # source_url: https://www.nohayonline.com/content_salaam.php?id=28
 # raw_sha256: eaf5e32f1728a0360fd3eece163b93dce47dd749ccbcf31dce1f308465db146f
 ---
 فرش عزا پہ آؤ سر کو جھکا جھکا کے
-زہرا کو پرسہ دینا آنسوں بہا بہا کے
+زہرا کو پرسہ دینا آنسو بہا بہا کے
 
 ۱
-عمران نے بچای اس شان سے نبوت
+عمران نے بچائی اس شان سے نبوت
 بستر پہ مصطفیٰ کے بیٹے سلا سلا کے
 
 ۲
@@ -69,7 +70,7 @@ romanLyrics: |-
 
 ۴
 جلتی ہُوئی زمیں پر پانی کہاں سے لاتے
-تر کر دی قبر اصغر آنسوں بہا بہا کے
+تر کر دی قبر اصغر آنسو بہا بہا کے
 
 ۵
 رخصت تو کر دیا تھا کڑیل جواں کو لیکن
@@ -80,7 +81,7 @@ romanLyrics: |-
 رخصت کیا حرم نے حلقہ بنا بنا کے
 
 ۷
-چھپتے تھے خیموں خیموں بچے شہ ہدا کے
+چھپتے تھے خیموں خیموں بچے شہ ہدیٰ کے
 اور ہنس رہے تھے ظالم خیمے جلا جلا کے
 
 ۸
@@ -88,5 +89,5 @@ romanLyrics: |-
 ظالم جو پھینکتے تھے پانی دکھا دکھا کے
 
 ۹
-عابد بھی یہ نجف جب روتے ہیں خوں کے آنسوں
+عابد بھی یہ نجف جب روتے ہیں خوں کے آنسو
 پرسہ دو خون اپنا تم بھی بہا بہا کے

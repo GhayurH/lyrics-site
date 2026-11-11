@@ -1,59 +1,61 @@
 ---
 title: "فرماتے تھے یہ سید ابرار"
-alternateTitle: "Farmate Thay"
+alternateTitle: "Farmaate The"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Farmate Thay"]
 published: false
 romanLyrics: |-
-  Farmate thay ye sayyede abraar
-  Abbas alamdar
-  Ay lashkare islam ke salaar
+  Farmaate the ye Sayyid-e-Abraar
+  Abbas alamdaar
+  Ae lashkar-e-Islam ke salaar
+  Abbas alamdaar
 
   1
-  Hai kaun tere baad nigehban haram ka
-  Batlao to waris hai bhala kaun alam ka
-  Uthega kahan daag o bala ranjo alam ka
-  Hai kaun yahan mera madadgaar
+  Hai kaun tere baad nigahbaan haram ka
+  Batlaao to waaris hai bhala kaun alam ka
+  Uthega kahaaṅ daagh o bala ranj o alam ka
+  Hai kaun yahaaṅ mera madadgaar
 
   2
-  Ruqsat jo hue hazrate shabbir haram se
-  Gehre hai haram lipte hue shaahe umam se
-  Ek bachi bhi lipti hui thi sheh ke khadam se
-  Thay ghash mein udhar abid e bemaar
+  Rukhsat jo hue Hazrat-e-Shabbir haram se
+  Ghere haiṅ haram lipte hue Shaah-e-Umam se
+  Ek bachchi bhi lipti hui thi Shah ke qadam se
+  The ghash meiṅ udhar Abid-e-bimaar
 
   3
-  Zakhmo se badan choor hai aur haal hai muztar
-  Kis tarha tanha mujhse uthe laasha e akbar
-  Aao meri imdad ko ay mere biradar
-  Tum ho pisare hyder e karraar
+  Zakhmoṅ se badan chur hai aur haal hai muztar
+  Kis tarah tanha mujh se uthe laasha-e-Akbar
+  Aao meri imdaad ko ae mere biraadar
+  Tum ho pisar-e-Haidar-e-Karraar
 
   4
-  Le jayega kumbe ko mere shaam ka lashkar
-  Sar nange haram jayenge darbar mein kyon kar
-  Ek ek se faryad karegi meri khaahar
-  Bemaar mera khaafila salaar
+  Le jaayega kumbe ko mere Shaam ka lashkar
+  Sar nange haram jaayeṅge darbaar meiṅ kiuṅ kar
+  Ek ek se faryaad karegi meri khwaahar
+  Bimaar mera qaafila salaar
 
   5
-  Rehj ayegi beyar o madadgaar sakina
-  Kis tarha sahegi bhala aazaar sakina
-  Ab hogi na pani ki talabgaar sakina
-  Darya se ab aa jao wafadar
+  Reh jaayegi beyaar o madadgaar Sakina
+  Kis tarah sahegi bhala aazaar Sakina
+  Ab hogi na paani ki talabgaar Sakina
+  Darya se ab aa jaao wafaadaar
 
   6
-  Hum ahle aza karte hai shabbir ka matam
-  Is gham se nahi badke hume aur koi gham
-  Bas saaya figan sar pa rahe aap ka parcham
-  Kehlaate hai hum aap ke ghamkhaar
+  Ham ahl-e-aza karte haiṅ Shabbir ka maatam
+  Is gham se nahiṅ barh ke hameiṅ aur koi gham
+  Bas saaya figan sar pe rahe aap ka parcham
+  Kehlaate haiṅ ham aap ke ghamkhwaar
 
   7
-  Pur dil se mere door nahi aap ka rauza
-  Rehta hai mere seene mein ek dard ka darya
-  Daala hai isi mauj mein nowhe ka areeza
+  Par dil se mere dur nahiṅ aap ka rauza
+  Rehta hai mere sine meiṅ ek dard ka darya
+  Daala hai isi mauj meiṅ nauhe ka ariza
   Mehshar bhi hai ek adna azadaar
 # source_id: nohayonline:5a05c5a810589a63e7f3
 # source_url: https://www.nohayonline.com/details_content.php?id=218
@@ -63,11 +65,12 @@ romanLyrics: |-
 فرماتے تھے یہ سید ابرار
 عباس علمدار
 اے لشکر اسلام کے سالار
+عباس علمدار
 
 ۱
 ہے کون تیرے بعد نگہبان حرم کا
 بتلاؤ تو وارث ہے بھلا کون علم کا
-اٹھیگا کہاں داغ و بلا رنج و الم کا
+اٹھے گا کہاں داغ و بلا رنج و الم کا
 ہے کون یہاں میرا مددگار
 
 ۲
@@ -83,22 +86,22 @@ romanLyrics: |-
 تم ہو پسر حیدر کرار
 
 ۴
-لے جاےگا کنبے کو میرے شام کا لشکر
-سر ننگے حرم جاینگے دربار میں کیوں کر
+لے جائے گا کنبے کو میرے شام کا لشکر
+سر ننگے حرم جائیں گے دربار میں کیوں کر
 اک ایک سے فریاد کرے گی میری خواہر
 بیمار میرا قافلہ سالار
 
 ۵
-رہ جائے گی بے یارو مددگار سکینہ
+رہ جائے گی بے یار و مددگار سکینہ
 کس طرح سہے گی بھلا آزار سکینہ
 اب ہوگی نہ پانی کی طلبگار سکینہ
 دریا سے اب آجاؤ وفادار
 
 ۶
 ہم اہلِ عزا کرتے ہیں شبیر کا ماتم
-اس غم سے نہیں بڑھکے ہمیں اور کوئی غم
-بس سایہ فگن سر پہ رہے آپکا پرچم
-کہلاتے ہیں ہم آپکے غم خوار
+اس غم سے نہیں بڑھ کے ہمیں اور کوئی غم
+بس سایہ فگن سر پہ رہے آپ کا پرچم
+کہلاتے ہیں ہم آپ کے غم خوار
 
 ۷
 پر دل سے میرے دور نہیں آپ کا روضہ

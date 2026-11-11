@@ -1,43 +1,44 @@
 ---
 title: "فرد اعمال میں بس اشک ہمارے ہونگے"
-alternateTitle: "Farde Aamaal Bas"
+alternateTitle: "Fard-e-Aamaal Bas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
-aliases: []
+aliases: ["Farde Aamaal Bas"]
 published: false
 romanLyrics: |-
-  Fard e aamaal mein bas ashk hamare honge
-  Hashr ke din yehi bakshish ke sahare honge
-  Qabr mein chain se soyenge azadaar e hussain
-  Aankh kholenge to kausar ke kanare honge
+  Fard-e-aamaal meiṅ bas ashk hamare hoṅge
+  Hashr ke din yehi bakhshish ke sahare hoṅge
+  Qabr meiṅ chain se soyeṅge azadaar-e-Husain
+  Aaṅkh kholeṅge to Kausar ke kinaare hoṅge
 
   1
-  Khaafila khuld ki jaanib jo badhega apna
-  Raahwar hazrate abbas hamare honge
-  Ahle matam ko bhala rok sakega koi
-  Baabe jannat pe jo zehra ke dulaare honge
+  Qaafila khuld ki jaanib jo barhega apna
+  Raahwaar Hazrat-e-Abbas hamare hoṅge
+  Ahl-e-maatam ko bhala rok sakega koi
+  Baab-e-jannat pe jo Zehra ke dulaare hoṅge
 
   2
-  Kin tamannaon se atthara baras zainab ne
-  Kitne sadqe rukhe akbar ke utaare honge
-  Isko ek maa hi samajh sakti hai baade akbar
-  Kaise din zeest ke laal ne guzaare honge
+  Kin tamannaaoṅ se athaarah baras Zainab ne
+  Kitne sadqe rukh-e-Akbar ke utaare hoṅge
+  Is ko ek maaṅ hi samajh sakti hai baad-e-Akbar
+  Kaise din zist ke laal ne guzaare hoṅge
 
   3
-  Dil ka kya haal hua hoga ali akbar jab
-  Le ke marne ki raza ran ko sidhare honge
-  Maa ko shadi ke thay armaan magar thi na khabar
-  Ye jawan honge to allah ko pyare honge
+  Dil ka kya haal hua hoga Ali Akbar jab
+  Le ke marne ki raza ran ko sidhaare hoṅge
+  Maaṅ ko shaadi ke the armaan magar thi na khabar
+  Ye jawaaṅ hoṅge to Allah ko pyaare hoṅge
 
   4
-  Ro lo aaj haathon se sar peet ke asghar ko rabab
-  Kal ko rassi mein bandhe haath tumhare honge
-  Jaam ashkon ke liye karbobala tak pahuncho
-  Dekhte raah wahan pyaas ke maare honge
+  Ro lo aaj haathoṅ se sar pit ke Asghar ko Rabab
+  Kal ko rassi meiṅ bandhe haath tumhare hoṅge
+  Jaam ashkoṅ ke liye Karb o Bala tak pahuṅcho
+  Dekhte raah wahaaṅ pyaas ke maare hoṅge
 # source_id: nohayonline:60aa09886eed62c41775
 # source_url: https://www.nohayonline.com/details_content.php?id=2899
 # raw_sha256: 0130d210cafd7a059c4bf905ee85192cff6093aa842a9d1f8c1971cbe05e82ad
@@ -50,7 +51,7 @@ romanLyrics: |-
 ۱
 قافلہ خلد کی جانب جو بڑھے گا اپنا
 راہوار حضرتِ عباس ہمارے ہونگے
-أہل ماتم کو بھلا روک سکے گا کوی
+اہل ماتم کو بھلا روک سکے گا کوئی
 باب جنت پہ جو زہرا کے دلارے ہونگے
 
 ۲
