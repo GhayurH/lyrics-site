@@ -6,67 +6,45 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hyder"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Dard angez ye kahani hay
-
+romanLyrics: |-
+  Dard angez ye kahaani hai
+  Mehmaanoṅ pe bandh paani hai
 
   1
-
-  Mehmano pe bandh pani hay
-
-  1) Khoon dekar bhi paa nahi saktay
-
-  Aab ki kis qadar girani hay
-
+  Khun de kar bhi paa nahiṅ sakte
+  Aab ki kis qadar giraani hai
 
   2
-
-  2) Al-atash kehtay jaate hain bachay
-
-  Maaon ke lab pe nowha khani hay
-
+  Al atash kehte jaate haiṅ bachche
+  Maaoṅ ke lab pe nauha khwaani hai
 
   3
-
-  3) Ali Asghar zabaan dikhatay hain
-
-  Pur asar kaisi bezabani hay
-
+  Ali Asghar zabaan dikhaate haiṅ
+  Pur asar kaisi bezabaani hai
 
   4
-
-  4) Aazmay jang ho chuke Akbar
-
-  Faath armaan bhari jawani hay
-
-  Dard angayz ye kahani hay
-
-  5) Kehtay hain Shaah ruk bhi jaa beta
-
-  Mere nana ki tu nishani hay
-
+  Azm-e-jang ho chuke Akbar
+  Saath armaan bhari jawaani hai
 
   5
-
-  6) Laashe Akbar pe kehti thi madar
-
-  Kya kahoon zakhme dil nihani hay
-
+  Kehte haiṅ Shaah ruk bhi jaa beta
+  Mere Nana ki tuṅ nishaani hai
 
   6
-
-  7) Zainab aayin hain laashae sheh par
-
-  Aankh se khoon ki rawani hay
-
+  Laash-e-Akbar pe kehti thi maadar
+  Kya kahuṅ zakhm-e-dil nihaani hai
 
   7
+  Zainab aayi hai laasha-e-Shah par
+  Aaṅkh se khun ki rawaani hai
 
-  8) sadqay may shah-e-deen ke aey Hyder
-
-  Tujhko taayeede aasmaani hay'
+  8
+  Sadqe mein Shaah-e-Diṅ ke ae Haidar-e-Karraar
+  Tujh ko taaid-e-aasmaani hai
 # source_id: nohayonline:73700b2fb5fe59a2931b
 # source_url: https://www.nohayonline.com/details_content.php?id=66
 # raw_sha256: 7a253ca9a29572998265cb434eeccd87dca791cca75b765de064f8ad8aed5a43
@@ -76,18 +54,18 @@ romanLyrics: 'Dard angez ye kahani hay
 ---
 
 درد انگیز یہ کہانی ہے
+مہمانوں پہ بندھ پانی ہے
 
 ۱
-مہمانوں پہ بندھ پانی ہے
 خون دے کر بھی پا نہیں سکتے
 آب کی کس قدر گرانی ہے
 
 ۲
-العتش کہتے جاتے ہیں بچے
-مائوں کے لب پہ نوحہ خوانی ہے
+العطش کہتے جاتے ہیں بچے
+ماؤں کے لب پہ نوحہ خوانی ہے
 
 ۳
-علی اصغر زبان دیکھاتے ہیں
+علی اصغر زبان دکھاتے ہیں
 پر اثر کیسی بے زبانی ہے
 
 ۴
@@ -95,15 +73,15 @@ romanLyrics: 'Dard angez ye kahani hay
 ساتھ ارمان بھری جوانی ہے
 
 ۵
-کہتے ہے شاہ رُک بھی جا بیٹا
+کہتے ہیں شاہ رُک بھی جا بیٹا
 میرے نانا کی تُوں نشانی ہے
 
 ۶
 لاشِ اکبر پہ کہتی تھی مادر
-کیا خون زخمِ دل نیہانی ہے
+کیا کہوں زخمِ دل نہانی ہے
 
 ۷
-زینب آئی ہے لاشئہ شہہ پر
+زینب آئی ہے لاشۂ شہ پر
 آنکھ سے خون کی روانی ہے
 
 ۸

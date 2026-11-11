@@ -6,44 +6,45 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Afzal Hussain Najfi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dard sajjad ke khirtaas pe laaun kaise
-  Haye rota hai qalam lafz banaun kaise
+  Dard Sajjad ke qirtaas pe laauṅ kaise
+  Haaye rota hai qalam lafz banaauṅ kaise
 
   1
-  Jin ki maadar ka janaza tha utha raat ke waqt
-  Sar barehna sar e bazaar bulaaun kaise
+  Jin ki maadar ka janaaza tha utha raat ke waqt
+  Sar barehna sar-e-baazaar bulaauṅ kaise
 
   2
-  Rassiyan paon mein chaale thay tamachon ke nishan
-  Hasrat o yaas ki mayyat ko uthaaun kaise
+  Rassiyaaṅ paaoṅ mein chhaale the tamaanchoṅ ke nishaaṅ
+  Hasrat o yaas ki mayyat ko uthaauṅ kaise
 
   3
-  Paab e jaulan hoo mai hai tauq e giryan zeb e guloo
-  Oonton se girte huwe bacche uthaun kaise
+  Paab jaulan huṅ main hai tauq-e-giryaaṅ zeb-e-gulu
+  Uṅtoṅ se girte hue bachche uthaauṅ kaise
 
   4
-  Zakhm jo jism pe aaye hai dikha sakta hoo
-  Dil ne jo shaam mein khaaye hai dikhaun kaise
+  Zakhm jo jism pe aaye haiṅ dikha sakta huṅ
+  Dil ne jo Shaam mein khaaye haiṅ dikhaauṅ kaise
 
   5
-  Karbala kufa ko shaam mein takreem hui
-  Roohe ajdaad tadapti hai suaanun kaise
+  Karbala Kufa ko Shaam mein takrim hui
+  Ruh-e-ajdaad tarapti hai sunaauṅ kaise
 
   6
-  Nau sau darbari thay namoose nabi pesh hui
-  Hoo ghayoor khoon na ankhon se bahaun kaise
+  Nau sau darbaari the naamus-e-Nabi pesh hui
+  Huṅ ghayur khun na aaṅkhoṅ se bahaauṅ kaise
 
   7
-  Abr tha patharon ka kehkahe bhi taane thay
-  Tang bazaron se baazari hataun kaise
+  Abr tha pattharoṅ ka qahqahe bhi taane the
+  Tang baazaaroṅ se baazaari hataauṅ kaise
 
   8
-  Ay zamane ke yazeedon na kaho najfi se
-  Khaak ke noor se auqaat bataun kaise
+  Ae zamaane ke Yazidoṅ na kaho Najfi se
+  Khaak ke nur se auqaat bataauṅ kaise
 # source_id: nohayonline:08131c0bdf5b3f5aaa66
 # source_url: https://www.nohayonline.com/details_content.php?id=2257
 # raw_sha256: 82ee5aecab5f2745ee774fe8afdc0f989edc10eeca331107770dc1a5c72890ed
@@ -56,7 +57,7 @@ romanLyrics: |-
 ---
 
 درد سجاد کے قرطاس پہ لاؤں کیسے
-ہاے روتا ہے قلم لفظ بناؤں کیسے
+ہائے روتا ہے قلم لفظ بناؤں کیسے
 
 ۱
 جن کی مادر کا جنازہ تھا اٹھا رات کے وقت
@@ -68,18 +69,18 @@ romanLyrics: |-
 
 ۳
 پاب جولن ہوں میں ہے طوقِ گریاں زیب گلو
-اونٹوں سے گرتے ہوے بچے اٹھاؤں کیسے
+اونٹوں سے گرتے ہوئے بچے اٹھاؤں کیسے
 
 ۴
-زخم جو جسم پہ آے ہیں دکھا سکتا ہوں
-دل نے جو شام میں کھاے ہیں دکھاؤں کیسے
+زخم جو جسم پہ آئے ہیں دکھا سکتا ہوں
+دل نے جو شام میں کھائے ہیں دکھاؤں کیسے
 
 ۵
-کربلا کوفہ کو شام میں تکریم ہوی
+کربلا کوفہ کو شام میں تکریم ہوئی
 روح اجداد تڑپتی ہے سناؤں کیسے
 
 ۶
-نو سو درباری تھے ناموس نبی پیش ہوی
+نو سو درباری تھے ناموس نبی پیش ہوئی
 ہوں غیور خون نہ آنکھوں سے بہاؤں کیسے
 
 ۷
