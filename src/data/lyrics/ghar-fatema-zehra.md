@@ -10,54 +10,55 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghar fatema zehra ka ajab shan ka ghar hai
-  Ye wahi ki manzil hai ye quran ka ghar hai
+  Ghar Fatema Zehra ka ajab shaan ka ghar hai
+  Ye wahi ki manzil hai ye Quraan ka ghar hai
 
   1
-  Islam ke maahol mein emaan ka ghar hai
-  Momin ki munafiq ki ye pehchan ka ghar hai
-  Kuch log mare jaate hai is ranjo mehan mein
-  Is ghar ka jo darwaza hai masjid ke sehan mein
+  Islaam ke maahaul meiṅ imaan ka ghar hai
+  Momin ki munaafiq ki ye pehchaan ka ghar hai
+  Kuch log mare jaate haiṅ is ranj o mehan meiṅ
+  Is ghar ka jo darwaaza hai masjid ke sehan meiṅ
 
   2
-  Allah ne is ghar ko nabuwat se nawaza
-  Dunya mein isay deen o shariyat se nawaza
-  Qismat se imamat se wilayat se nawaza
-  Har fard ko quran ki aayat se nawaza
-  Saanche mein mashiyat ke ye afraad dhale hai
-  Sab chadare tatheer ke saaye mein pale hai
+  Allah ne is ghar ko nabuwwat se nawaaza
+  Dunya meiṅ ise din o shariat se nawaaza
+  Ismat se imaamat se wilaayat se nawaaza
+  Har fard ko Quraan ki aayat se nawaaza
+  Saanche meiṅ mashiyat ke ye afraad dhale haiṅ
+  Sab chaadar-e-Tathir ke saaye meiṅ pale haiṅ
 
   3
-  Ye azm ke faulaad isi ghar mein milenge
-  Ye noor ke ajsaad isi ghar ay milenge
-  Jibreel ke ustaad isi ghar mein milenge
-  Is satha ke afraad isi ghar mein milenge
-  Maqlooq ki baat aakhri sarhad nazar aaya
-  Jis fard ko dekha wo mohamed nazar aaya
+  Ye azm ke faulaad isi ghar meiṅ mileṅ ge
+  Ye nur ke asjaad isi ghar meiṅ mileṅ ge
+  Jibril ke ustaad isi ghar meiṅ mileṅ ge
+  Is satah ke afraad isi ghar meiṅ mileṅ ge
+  Makhluq ki bas aakhri sarhad nazar aaya
+  Jis fard ko dekha wo Muhammad nazar aaya
 
   4
-  Ashaab mukarram hai magar apni jagah par
-  Ghair apni jagah laqte jigar apni jagah par
-  Khaar apni jagah ghunchaye tar apni jagah par
-  Sang apni jagah laal-o-gohar apni jagah par
-  Pehlu mein jo baitha ho usay dil nahi kehte
-  Rehro kabhi rehbare manzil nahi kehte
+  Ashaab mukarram haiṅ magar apni jagah par
+  Ghair apni jagah - lakht-e-jigar apni jagah par
+  Khaar apni jagah - ghuncha-e-tar apni jagah par
+  Sang apni jagah - laal o gauhar apni jagah par
+  Pehlu meiṅ jo baitha ho use dil nahiṅ kehte
+  Reh rau ko kabhi rehbar-e-manzil nahiṅ kehte
 
   5
-  Allah re izzo sharafe binte risalat
-  Qandeele haram shamme shabistane imamat
-  Rehmat jo mohamed hai to ye paraye rehmat
-  Wo kulle nabuwat hai to ye juzze nabuwat
-  Aasaan kaho maarifate khatme rasul ko
+  Allah re izz o sharaf-e-bint-e-risaalat
+  Qandil-e-haram - shama-e-shabistaan-e-imaamat
+  Rehmat jo Muhammad haiṅ to ye paara-e-rehmat
+  Wo kul-e-nabuwwat haiṅ to ye juzv-e-nabuwwat
+  Aasaan kaho maarifat-e-khatm-e-rusul ko
   Jo juz ko na samjha ho wo kya samjhega kul ko
 
   6
-  Mumkin nahi ummat ka qiyas aale nabi par
-  Ye log alag log hain ye ghar hai alag ghar
-  Is ghar ke to bachche bhi badal dete hain aksar
-  Insan ki taqdeer, farishton ka muqaddar
-  Rahib ko kayi laal isi ghar se mile hain
-  Fitrus ko par o baal isi ghar se mile hain
+  Mumkin nahiṅ ummat ka qiyaas Aal-e-Nabi par
+  Ye log alag log haiṅ ye ghar hai alag ghar
+  Is ghar ke to bachche bhi badal dete haiṅ aksar
+  Insaan ki taqdir - farishtoṅ ka muqaddar
+  Raahib ko kai laal isi ghar se mile haiṅ
+  Fitrus ko par o baal isi ghar se mile haiṅ
+reciter: Sachey Bhai
 # source_id: nohayonline:c793dfb41e2bd3cb8a70
 # source_url: https://www.nohayonline.com/details_content.php?id=43
 # raw_sha256: a640b7f6d8fa9bb3f3932ae2db815c2cb1b0ad1f91cda29c5a65cd0cd722334d

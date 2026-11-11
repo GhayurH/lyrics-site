@@ -1,66 +1,68 @@
 ---
 title: گھر گھر ماتم در در ماتم
-alternateTitle: Ghar Ghar Matam
+alternateTitle: Ghar Ghar Maatam
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ghar Ghar Matam"]
 published: false
 romanLyrics: |-
-  Ghar ghar matam dar dar matam
-  Tera hota rahe maula matam
+  Ghar ghar maatam dar dar maatam
+  Tera hota rahe Maula maatam
+
   Basti basti qarya qarya
+  Tera hota rahe Maula maatam
 
   1
-  Tera matami ay mere maula
-  Dunya ke kisi kone mein gaya
-  Masroof raha matam mein tere
-  Deta hai sukoon tera matam
+  Tera maatami ae mere Maula
+  Dunya ke kisi kone meiṅ gaya
+  Masruf raha maatam meiṅ tere
+  Deta hai sukuṅ tera maatam
 
   2
-  Jab dil ne kaha aaye zehra
-  Mere ghar mein bahane ashke aza
-  Bas maine bicha ke farshe aza
-  Kuch dayr kiya barpa matam
+  Jab dil ne kaha aaye Zehra
+  Mere ghar meiṅ bahaane ashk-e-aza
+  Bas maiṅ ne bichha ke farsh-e-aza
+  Kuch der kiya barpa maatam
 
   3
-  Kal haath bandhe thay zainab ke
-  Majboor behen thi matam se
+  Kal haath bandhe the Zainab ke
+  Majbur behen thi maatam se
   Majlis hai teri ghar ghar barpa
-  Ab karti hai sab dunya matam
+  Ab karti hai sab dunya maatam
 
   4
   Abbas ke shaane kat to gaye
-  Masoom tere pyase bhi rahe
-  Ghazi ke liye bacchon ke liye
-  Ab karta rahe ye darya matam
+  Maasum tere pyaase bhi rahe
+  Ghaazi ke liye bachchoṅ ke liye
+  Ab karta rahe ye darya maatam
 
   5
-  Ashoor ko jab suraj nikla
+  Aashur ko jab suraj nikla
   Zehra ke bhare ghar ko dekha
-  Par chand ne zainab ko dekha
-  Karti hai bhare ghar ka matam
+  Par chaand ne Zainab ko dekha
+  Karti hai bhare ghar ka maatam
 
   6
-  Karbal se safar tha shaam ka jab
-  Laashe pe pukari ye zainab
-  Ta hashr teri mazloomi par
-  Karna hai mujhe bhaiya matam
+  Karbal se safar tha Shaam ka jab
+  Laashe pe pukaari ye Zainab
+  Ta hashr teri mazlumi par
+  Karna hai mujhe bhaiya maatam
 
   7
-  Jo karbobala se shaam gayi
-  Wo binte zahra binte ali
-  Sab maayein behnein mil kar ab
-  Karti hai sada uska matam
+  Jo Karb o Bala se Shaam gai
+  Wo bint-e-Zahra bint-e-Ali
+  Sab maaeṅ behneṅ mil kar ab
+  Karti hai sada us ka maatam
 
   8
-  Bemaar tha aur zanjeerein thi
-  Pairon ke talay jalti thi zameen
-  Sajjad ke gham mein ro ro kar
-  Karta hai har ek rasta matam
+  Bimaar tha aur zanjireṅ thi
+  Pairoṅ ke tale jalti thi zamiṅ
+  Sajjad ke gham meiṅ ro ro kar
+  Karta hai har ek rasta maatam
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:c1dcfb58f2e4a58930a7
 # source_url: https://www.nohayonline.com/details_content.php?id=3090
@@ -72,7 +74,9 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 
 گھر گھر ماتم در در ماتم
 تیرا ہوتا رہے مولا ماتم
+
 بستی بستی قریہ قریہ
+تیرا ہوتا رہے مولا ماتم
 
 ۱
 تیرا ماتمی اے میرے مولا
@@ -81,7 +85,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 دیتا ہے سکوں تیرا ماتم
 
 ۲
-جب دل نے کہا آے زہرا
+جب دل نے کہا آئے زہرا
 میرے گھر میں بہانے اشک عزا
 بس میں نے بچھا کے فرش عزا
 کچھ دیر کیا برپا ماتم
@@ -93,7 +97,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 اب کرتی ہے سب دنیا ماتم
 
 ۴
-عباس کے شانے کٹ تو گےء
+عباس کے شانے کٹ تو گئے
 معصوم تیرے پیاسے بھی رہے
 غازی کے لئے بچوں کے لئے
 اب کرتا رہے یہ دریا ماتم
@@ -111,9 +115,9 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 کرنا ہے مجھے بھیا ماتم
 
 ۷
-جو کربوبلا سے شام گیء
+جو کرب و بلا سے شام گئی
 وہ بنت زہرا بنت علی
-سب ماییں بہنیں مل کر اب
+سب مائیں بہنیں مل کر اب
 کرتی ہے صدا اس کا ماتم
 
 ۸
