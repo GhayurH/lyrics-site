@@ -1,42 +1,43 @@
 ---
-title: پردیس میں حسین کی بستی اجڑ گیء
+title: پردیس میں حسین کی بستی اجڑ گئی
 alternateTitle: Ghazi Tere Baad
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Ali Shanawar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pardes mein hussain ki basti ujad gayi
-  Ghazi tere baad qayamat guzar gayi
+  Pardes mein Husain ki basti ujar gayi
+  Ghazi tere baad qayaamat guzar gayi
 
   1
-  Darya se jab na lauta sadaat ka sahara
-  Aulaad e fatema ne phir chain hi na paaya
-  Zahra ki kaynaat hi ban mein bikhar gayi
+  Darya se jab na lauta saadaat ka sahaara
+  Aulaad-e-Faatima ne phir chain hi na paaya
+  Zahra ki kaainaat hi ban mein bikhar gayi
 
   2
-  Teri laadli sakina sadme utha rahi hai
-  Jab se gaya hai ghazi us ko bula rahi hai
-  Soti nahi hai chain se itna wo darr gayi
+  Teri laadli Sakina sadme utha rahi hai
+  Jab se gaya hai Ghazi us ko bula rahi hai
+  Soti nahiṅ hai chain se itna wo dar gayi
 
   3
-  Abbas jab talak tha sheh ko na koi gham tha
-  Mehfooz thi ridayein jab zaamin e haram tha
-  Wo kya shaheed ho gaya har aas mar gayi
+  Abbas jab talak tha Shah ko na koi gham tha
+  Mehfuz thiṅ ridaaeṅ jab zaamin-e-haram tha
+  Wo kya shahid ho gaya har aas mar gayi
 
   4
-  Zainab ne baad tere kya kya sitam uthaye
-  Dil ke wo zakhm saare kis ko bhala dikhaye
-  Honton pe tera naam tha zainab jidhar gayi
+  Zainab ne baad tere kya kya sitam uthaaye
+  Dil ke wo zakhm saare kis ko bhala dikhaaye
+  Hoṅtoṅ pe tera naam tha Zainab jidhar gayi
 
   5
   Hasnain ka tha baazu kunbe ki jaan tha wo
-  Shehzadiyon ke sar pe ek sayeban tha wo
-  Sab ko judaai ye teri be-aas kar gayi
+  Shahzaadiyoṅ ke sar pe ik saaibaan tha wo
+  Sab ko judaai ye teri beaas kar gayi
 # source_id: nohayonline:17162ca5a3a024d59498
 # source_url: https://www.nohayonline.com/details_content.php?id=1847
 # raw_sha256: a3f0e39f551d98fb08a91f74622d2057d324d6eb5aa320fb9d117f2dc31f8e47
@@ -46,7 +47,7 @@ romanLyrics: |-
 ---
 
 پردیس میں حُسین کی بستی اُجڑ گئی
-غازی, تیرے بعد قیامت گُزر گئی
+غازی، تیرے بعد قیامت گُزر گئی
 
 ۱
 دریا سے جب نہ لوٹا سادات کا سہارا

@@ -1,75 +1,76 @@
 ---
-title: "سقاے سکینہ عباس علمدار"
+title: "سقائے سکینہ عباس علمدار"
 alternateTitle: "Ghazi Ki Yaad Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Agha Sarosh"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Saqqa e sakina abbas e alamdaar
-  Haye abbas haye abbas haye abbas
+  Saqqa-e-Sakina Abbas-e-alamdaar
+  Haae Abbas haae Abbas haae Abbas
 
   1
-  Ghazi ki yaad mein yun royi sakina
-  Patthar aankhein bhar aaiyan
-  Pyason ka lahoo to arzhan tha
-  Pani ki wohi mehengaiyan
-  Ashoor ko pyasi bhatiji se
-  Waada jo tera poora na hua
-  Pani pe larazti hai ab tak
-  Abbas teri parchaiyan
+  Ghazi ki yaad mein yuṅ royi Sakina
+  Patthar aaṅkheṅ bhar aaiyaaṅ
+  Pyaasoṅ ka lahu to arzhan tha
+  Paani ki wohi mehṅgaaiyaaṅ
+  Ashur ko pyaasi bhatiji se
+  Waada jo tera pura na hua
+  Paani pe larazti hai ab tak
+  Abbas teri parchhaaiyaaṅ
 
   2
-  Farzande ali zahra ke pisar
-  Jald aao taraayi se uth kar
-  Phir khaana e zahra jalta hai
-  Laut aayi hai phir balwaiyan
+  Farzand-e-Ali Zahra ke pisar
+  Jald aao taraai se uth kar
+  Phir khaana-e-Zahra jalta hai
+  Laut aayi hai phir balwaaiyaaṅ
 
   3
-  Jis din se gaye farzande nabi
-  Sooni hai padi ek ek gali
-  Hum jholiyan ban gayi sughra ki
-  Beeti yaadein tanhaiyan
+  Jis din se gaye farzand-e-Nabi
+  Suni hai pari ek ek gali
+  Hum jholiyaaṅ ban gayi Sughra ki
+  Biti yaadeṅ tanhaaiyaaṅ
 
   4
-  Ay daaman e saahil tu inko
+  Ae daamaan-e-saahil tu in ko
   Abbas ke shaane mat kehna
-  Ye zabte wigha mein hai ghazi ki
-  Do tooti hui angdaiyan
+  Ye zabt-e-wigha mein hai Ghazi ki
+  Do tuti hui angraaiyaaṅ
 
   5
-  Maidan mein aun o mohamed ne
+  Maidaaṅ mein Aun o Muhammad ne
   Darya ki ye taraf rukh bhi na kiya
-  Dekhi na gayi yun pyason ki
-  Pani se ye be-parwahiyan
+  Dekhi na gayi yuṅ pyaasoṅ ki
+  Paani se ye beparwaahiyaaṅ
 
   6
-  Hai ek rasan mein baara galay
-  Saaye ke sataye dhoop jale
-  Be parda phirayi jaati hai
-  Abbas teri maajaiyan
+  Hai ek rasan mein baarah gale
+  Saaye ke sataaye dhup jale
+  Beparda phiraayi jaati hai
+  Abbas teri maajaaiyaaṅ
 
   7
-  Nau ras ghunche pamaal huwe
-  Gul phool samar behaal huwe
-  Zehra o ali ke aangan mein
-  Ulti chal gayi purwaiyan
+  Nau ras ghunche paamaal hue
+  Gul phul samar behaal hue
+  Zehra o Ali ke aangan mein
+  Ulti chal gayi purwaaiyaaṅ
 
   8
-  Tujhe shadman rota hai ab tak
-  Ay seena e zakhmi akbar ke
-  Dekhi hai sarosh ne ashkon mein
-  Tere zakhm ki si gehraiyan
+  Tujhe Shadman rota hai ab tak
+  Ae sina-e-zakhmi Akbar ke
+  Dekhi hai Sarosh ne ashkoṅ mein
+  Tere zakhm ki si gehraaiyaaṅ
 # source_id: nohayonline:4ee4b6b69c68d2000bfb
 # source_url: https://www.nohayonline.com/details_content.php?id=3211
 # raw_sha256: 00b53442ff37c34eb9d3b7e20ee9dbaddd21d7ba40f916b4334e6f12df5cbb67
 ---
-سقاے سکینہ عباس علمدار
-ہاے عباس ہاے عباس ہاے عباس
+سقائے سکینہ عباس علمدار
+ہائے عباس ہائے عباس ہائے عباس
 
 ۱
 غازی کی یاد میں یوں روئی سکینہ
@@ -82,19 +83,19 @@ romanLyrics: |-
 عباس تیری پرچھائیاں
 
 ۲
-فرزند علی زہرا کے پسر
-جلد آؤ ترای سے اٹھ کر
+فرزندِ علی زہرا کے پسر
+جلد آؤ ترائی سے اٹھ کر
 پھر خانۂ زہرا جلتا ہے
-لوٹ آی ہے پھر بلوایاں
+لوٹ آئی ہے پھر بلوایاں
 
 ۳
-جس دن سے گےء فرزند نبی
+جس دن سے گئے فرزند نبی
 سونی ہے پڑی ایک ایک گلی
-ہم جولیاں بن گیء صغرا کی
+ہم جولیاں بن گئی صغرا کی
 بیتی یادیں تنہائیاں
 
 ۴
-اے دامان ساحل تو ان کو
+اے دامانِ ساحل تو ان کو
 عباس کے شانے مت کہنا
 یہ ضبط وغا میں ہے غازی کی
 دو ٹوٹی ہوئی انگڑائیاں
@@ -102,20 +103,20 @@ romanLyrics: |-
 ۵
 میداں میں عون و محمد نے
 دریا کی یہ طرف رخ بھی نہ کیا
-دیکھی نہ گیء یوں پیاسوں کے
+دیکھی نہ گئی یوں پیاسوں کی
 پانی سے یہ بے پروائیاں
 
 ۶
 ہے ایک رسن میں بارہ گلے
-ساے کے ستاے دھوپ جلے
-بے پردہ پھرای جاتی ہے
+سائے کے ستائے دھوپ جلے
+بے پردہ پھرائی جاتی ہے
 عباس تیری مانجاییاں
 
 ۷
-نو رس غنچے پامال ہوے
-گل پھول ثمر بے حال ہوے
+نو رس غنچے پامال ہوئے
+گل پھول ثمر بے حال ہوئے
 زہرا و علی کے آنگن میں
-الٹی چل گیء پروییاں
+الٹی چل گئی پروییاں
 
 ۸
 تجھے شادماں روتا ہے اب تک

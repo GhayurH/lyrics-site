@@ -5,41 +5,42 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sadiyon se utha rakha hai ghazi ke alam ko
-  
-  1
+  Sadiyoṅ se utha rakha hai Ghazi ke alam ko
   Baatil na jhuka sakta alam ko hai na hum ko
-  Marna ho jisay haq pe alam par wo rakhe haath
-  Ho khauf jise jaan ka badaye na qadam ko
-  
+
+  1
+  Marna ho jise haq pe alam par wo rakhe haath
+  Ho khauf jise jaan ka barhaaye na qadam ko
+
   2
-  Hai matame shabbir ka bharpoor yehi haq
-  Dhaata chala aaya hai har ek qasre sitam ko
-  
+  Hai maatam-e-Shabbir ka bharpur yehi haq
+  Dhaata chala aaya hai har ek qasr-e-sitam ko
+
   3
-  Biqre hue quran ke auraaq pade hai
-  Ay karbobala tuhpe kahan rakhun qadam ko
-  
+  Bikhre hue Quraan ke auraaq pare haiṅ
+  Ae karb o bala tujh pe kahaaṅ rakhuṅ qadam ko
+
   4
-  Sar kaat ke shabbir ka qaimon ko jala kar
-  Beparda musalman ne kiya ahle haram ko
-  
+  Sar kaat ke Shabbir ka khaimoṅ ko jala kar
+  Beparda musalmaaṅ ne kiya ahl-e-haram ko
+
   5
-  Ay zaayir e shabbir idhar aa idhar aaja
-  Aankhon se laga loo mai tere naqshe qadam ko
+  Ae zaair-e-Shabbir idhar aa idhar aa ja
+  Aaṅkhoṅ se laga luṅ main tere naqsh-e-qadam ko
 # source_id: nohayonline:26be2e42f8bdaa93bb9c
 # source_url: https://www.nohayonline.com/details_content.php?id=567
 # raw_sha256: 05600a20adfa7cd3d48958ace8a91b6c2a3964f5d6a1ff315520369b421342be
 ---
 
 صدیوں سے اُٹھا رکھا ہے غازی کے علم کو
+باطل نہ جُھکا سکتا علم کو ہے نہ ہم کو
 
 ۱
-باطل نہ جُھکا سکتا علم کو ہے نہ ہم کو
 مرنا ہو جسے حق پہ علم پر وہ رکھے ہاتھ
 ہو خوف جسے جان کا بڑھائے نہ قدم کو
 
