@@ -1,67 +1,70 @@
 ---
 title: "رزق ہے جنبش چادر فاطمہ"
-alternateTitle: "Chadare Fatema"
+alternateTitle: "Chaadar-e-Fatema"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Imon Rizvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Chadare Fatema"]
 published: false
 romanLyrics: |-
-  Rizq hai jumbishe chadar e fatema
-  Rozi e aalameen chadar e sayyeda
-  Ay maadar bekas maadar mazloom maadar
+  Rizq hai junbish-e-chaadar-e-Fatema
+  Rozi-e-aalamin chaadar-e-Sayyeda
+
+  Ae maadar bekas maadar mazlum maadar
 
   1
-  Teri khaak e paa se na hum sar uthayein
-  Wahin par ajal ko galay se lagayein
-  Rahe teri chadar ka saaya saron par
-  Shifa'at ke saaye mein hum sar chupayein
+  Teri khaak-e-paa se na hum sar uthaayeṅ
+  Wahiṅ par ajal ko gale se lagaayeṅ
+  Rahe teri chaadar ka saaya saroṅ par
+  Shafaaat ke saaye mein hum sar chhupaayeṅ
 
   2
-  Falak par dilon ke tujhi se ujaala
-  Jahaano ko teri dua ne sambhala
-  Ho kaise hi toofan ho kaisi qayamat
+  Falak par diloṅ ke tujhi se ujaala
+  Jahaanoṅ ko teri dua ne sambhaala
+  Ho kaise hi tufaaṅ ho kaisi qayaamat
   Musibat se tu ne hamesha nikaala
 
   3
-  Ye palkein itaa'at ki daaim bichayein
-  Hamesha isi dar pe ye sar jhukayein
-  Ghulamo ki khwahish dua aur tamanna
-  Gharane pe zahra ke jaane lutayein
+  Ye palkeṅ itaaat ki daaim bichhaayeṅ
+  Hamesha isi dar pe ye sar jhukaayeṅ
+  Ghulaamoṅ ki khwaahish dua aur tamanna
+  Gharaane pe Zahra ke jaaneṅ lutaayeṅ
 
   4
   Ghazab hai tere ghar ka wo dar jala tha
-  Jo baab e shifa tha jo baab e ataa tha
-  Payamabr bhi us dar pe aate thay paiham
-  Khuda ki riza tha jo baab e khuda tha
+  Jo baab-e-shifa tha jo baab-e-ataa tha
+  Payambar bhi us dar pe aate the paiham
+  Khuda ki riza tha jo baab-e-Khuda tha
 
   5
-  Adoo se ladi bhi ali ko bachaya
-  Saha taziyana tamacha bhi khaaya
-  Wilayat ki khaatir hi mohsin gawaya
-  Imamat ke mansab ko phir phir bhi bachaya
+  Adu se lari bhi Ali ko bachaaya
+  Saha taaziyaana tamaancha bhi khaaya
+  Wilaayat ki khaatir hi Mohsin ganwaaya
+  Imaamat ke mansab ko phir phir bhi bachaaya
 
   6
-  Ali ke galay mein jo rassi bandhi thi
-  Musibat ye zahra ke dil pe badi thi
-  Na tha koi yawar ghazab ki ghadi thi
-  Ali ke wo daaman ko pakde khadi thi
+  Ali ke gale mein jo rassi bandhi thi
+  Musibat ye Zahra ke dil pe bari thi
+  Na tha koi yaawar ghazab ki ghari thi
+  Ali ke wo daaman ko pakre khari thi
 
   7
-  Ye mukhlis pe aur shadman pe karam hai
-  Gham e sayyeda mein jo aankhein ye nam hai
-  Mawaddat ki raahon ke ye hum safar hai
-  Wilayat ke raste pe ye hum qadam hai
+  Ye Mukhlis pe aur Shadmaṅ pe karam haiṅ
+  Gham-e-Sayyeda mein jo aankheṅ ye nam haiṅ
+  Mawaddat ki raahoṅ ke ye hamsafar haiṅ
+  Wilaayat ke raste pe ye hum qadam haiṅ
 # source_id: nohayonline:b0a01053def1fe9ea51a
 # source_url: https://www.nohayonline.com/details_content.php?id=1572
 # raw_sha256: 31afe56bdcf77064f43cbc45681b6d67face183dde599ca7d1355fd759595c0b
 ---
 رزق ہے جنبش چادر فاطمہ
-روزی عالمیں چادر سیدہ
-ا ے مادر بے کس مادر مظلوم مادر
+روزی عالمین چادر سیدہ
+
+اے مادر بے کس مادر مظلوم مادر
 
 ۱
 تری خاکِ پا سے نہ ہم سر اٹھائیں
@@ -78,11 +81,11 @@ romanLyrics: |-
 ۳
 یہ پلکیں اطاعت کی دائم بچھائیں
 ہمیشہ اسی در پہ یہ سر جھکائیں
-غلاموں کی خواہش دعا ا ور تمنّا
+غلاموں کی خواہش دعا اور تمنّا
 گھرانے پہ زہرا کے جانیں لٹائیں
 
 ۴
-غضب ہے ترے گھر کا و ہ در جلا تھا
+غضب ہے ترے گھر کا وہ در جلا تھا
 جو بابِ شفا تھا جو بابِ عطا تھا
 پیمبر بھی اُس در پہ آتے تھے پیہم
 خدا کی رضا تھا جو بابِ خدا تھا
@@ -100,7 +103,7 @@ romanLyrics: |-
 علی کے دامن کو پکڑے کھڑی تھی
 
 ۷
-یہ مخلص پہ ا ور شادماں پہ کرم ہیں
+یہ مخلص پہ اور شادماں پہ کرم ہیں
 غمِ سیّدہ میں جو آنکھیں یہ نم ہیں
 مودت کی راہوں کے یہ ہمسفر ہیں
 ولایت کے رستے پہ یہ ہم قدم ہیں
