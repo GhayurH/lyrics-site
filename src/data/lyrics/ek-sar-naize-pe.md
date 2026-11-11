@@ -1,70 +1,70 @@
 ---
-title: "ہاے شام بازار شام"
+title: "ہائے شام بازار شام"
 alternateTitle: "Ek Sar Naize Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye shaam bazaar e shaam
+  Haaye Shaam bazaar-e-Shaam
 
-  Baam o dar pe tha charaghan bheed khaas o aam ki
-  Bheed thi karbobal mein fathe fauje shaam ki
-  Aage aage sar shaheedon ke thay naizon pe rawan
-  Chal rahi thi peeche peeche sar jhukaye bibiyan
+  Baam o dar pe tha charaagh bhir khaas o aam ki
+  Bhir thi Karb o Bala mein fath-e-fauj-e-Shaam ki
+  Aage aage sar shahidoṅ ke the naizoṅ pe rawaaṅ
+  Chal rahi thi pichhe pichhe sar jhukaaye bibiyaaṅ
 
-  Ek sar naize pe hai ek gardan e rahwaar mein
-  Bhaiyon ke saath zainab aayi hai bazaar mein
+  Ek sar naize pe hai ek gardan-e-rahwaar mein
+  Bhaaiyoṅ ke saath Zainab aayi hai bazaar mein
 
   1
-  Shimr tere haath toote ay shaqi ye kya kiya
-  Jam gaya hai khoon sakina ke lab o ruqsar mein
+  Shimr tere haath tute ae shaqi ye kya kiya
+  Jam gaya hai khun Sakina ke lab o rukhsaar mein
 
   2
   Sar khule dekha na tha aangan mein jis ko baap ne
-  Sar khule laayi gayi wo shaam ke bazaar mein
+  Sar khule laayi gayi wo Shaam ke bazaar mein
 
   3
-  Sar ali asghar ka maa ke saamne kaata gaya
-  Kitni be-rehmi thi haye hurmala ke waar mein
+  Sar Ali Asghar ka maa ke saamne kaata gaya
+  Kitni berahmi thi haaye Hurmala ke waar mein
 
   4
-  Ya ali mushkil kusha ye waqt hai imdad ka
-  Ya ali beti khadi hai majma e aghyaar mein
+  Ya Ali mushkil kusha ye waqt hai imdaad ka
+  Ya Ali beti khari hai majma-e-aghyaar mein
 
   5
-  Zindagi bhar khoon rulayega ye gham sajjad ko
-  Sun rahi hai sar khule zainab azan darbar mein
+  Zindagi bhar khuṅ rulaaye ga ye gham Sajjad ko
+  Sun rahi hai sar khule Zainab azaaṅ darbaar mein
 
   6
-  Maarta hai shaahe deen ke khushk honton par chadi
-  Haakim e gustakh bughz e hyder e karrar mein
+  Maarta hai Shah-e-diṅ ke khushk hontoṅ par chhari
+  Haakim gustaakh bughz-e-Haidar-e-Karrar mein
 
   7
-  Laasha na qaimon mein aaya is liye abbas ka
-  Hasrat e mashk e bureeda thi dil e khuddar mein
+  Laasha na khaimoṅ mein aaya is liye Abbas ka
+  Hasrat-e-mashk-e-burida thi dil-e-khuddaar mein
 
   8
-  Jis pe mazhar roye hai maula lahoo chalees saal
-  Us musibat ka bayan mumkin nahi ash'aar mein
+  Jis pe Mazhar roye hai Maula lahu chaalis saal
+  Us musibat ka bayaaṅ mumkin nahiṅ ashaar mein
 # source_id: nohayonline:7dcc9f214beb7eddd791
 # source_url: https://www.nohayonline.com/details_content.php?id=3109
 # raw_sha256: b75b487c77f842919480392f536a8acc657645cdafe5e2cdd1d0a9e2c0766bbb
 ---
-
-ہاے شام بازار شام
+ہائے شام بازار شام
 
 بام و در پہ تھا چراغ بھیڑ خاص و عام کی
-بھیڑ تھی کربوبلا میں فتح فوج شام کی
+بھیڑ تھی کرب و بلا میں فتح فوج شام کی
 آگے آگے سر شہیدوں کے تھے نیزوں پہ رواں
-چل رہی تھی پیچھے پیچھے سر جھکائے بی بیاں
+چل رہی تھی پیچھے پیچھے سر جھکائے بیبیاں
 
 ایک سر نیزے پہ ہے ایک گردن رہوار میں
-بھاییوں کے ساتھ زینب آی ہے بازار میں
+بھائیوں کے ساتھ زینب آئی ہے بازار میں
 
 ۱
 شمر تیرے ہاتھ ٹوٹے اے شقی یہ کیا کیا
@@ -72,18 +72,18 @@ romanLyrics: |-
 
 ۲
 سر کھلے دیکھا نہ تھا آنگن میں جس کو باپ نے
-سر کھلے لای گیء وہ شام کے بازار میں
+سر کھلے لائی گئی وہ شام کے بازار میں
 
 ۳
 سر علی اصغر کا ماں کے سامنے کاٹا گیا
-کتنی بے رحمی تھی ہاے حرملہ کے وار میں
+کتنی بے رحمی تھی ہائے حرملہ کے وار میں
 
 ۴
-یا علی مشکل کشاء یہ وقت ہے امداد کا
-یا علی بیٹی کھڑی ہے مجمعہء اغیار میں
+یا علی مشکل کشا یہ وقت ہے امداد کا
+یا علی بیٹی کھڑی ہے مجمعِ اغیار میں
 
 ۵
-زندگی بھر خوں رلاے گا یہ غم سجاد کو
+زندگی بھر خوں رلائے گا یہ غم سجاد کو
 سن رہی ہے سر کھلے زینب اذاں دربار میں
 
 ۶
@@ -91,9 +91,9 @@ romanLyrics: |-
 حاکم گستاخ بغض حیدر کرار میں
 
 ۷
-لاشہ نہ خیموں میں آیا اس لیےء عباس کا
+لاشہ نہ خیموں میں آیا اس لیے عباس کا
 حسرت مشک بریدہ تھی دل خود دار میں
 
 ۸
-جس پہ مظہر روے ہے مولا لہو چالیس سال
+جس پہ مظہر روئے ہے مولا لہو چالیس سال
 اس مصیبت کا بیاں ممکن نہیں اشعار میں

@@ -6,62 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek sar kya tha shaheede karbala ke saamne
-  Rakh diye sheh ne bahattar sar khuda ke saamne
+  Ek sar kya tha shahid-e-Karbala ke saamne
+  Rakh diye Shah ne bahattar sar Khuda ke saamne
 
   1
-  Jhil-milate hi rahenge hashr tak ashk e aza
-  Jhil-milate hi rahenge ye diye
-  Hum ne jalaye hai hawa ke saamne
+  Jhilmilaate hi raheṅge hashr tak ashk-e-aza
+  Jhilmilaate hi raheṅge ye diye
+  Hum ne jalaaye haiṅ hawa ke saamne
 
   2
-  Ay tabeeb e asr dauran kya maseehai teri
-  Ay tabeeb e asr dauran khaak hai
-  Teri dawa khaake shafa ke saamne
+  Ae tabib-e-asr-e-dauraṅ kya masihai teri
+  Ae tabib-e-asr-e-dauraṅ khaak hai
+  Teri dawa khaak-e-shafa ke saamne
 
   3
-  Hashr tak wo log ruswaye zamana hogaye
-  Hashr tak wo log ruswa aagaye thay
-  Jo shahe karbobala ke saamne
+  Hashr tak wo log ruswa-e-zamaana ho gaye
+  Hashr tak wo log ruswa aa gaye the
+  Jo Shah-e-Karb o Bala ke saamne
 
   4
-  Cha gaya bankar jalaale hyderi darbar mein
-  Cha gaya bankar jalaale khutbaye
-  Zainab yazeede be-haya ke saamne
+  Chhaa gaya ban kar jalaal-e-Haidari darbaar mein
+  Chhaa gaya ban kar jalaal-e-khutba-e
+  Zainab Yazid-e-behaya ke saamne
 
   5
-  Apna sar saahil se takrane lagi mauje furaat
-  Apna sar takra jab sakina
+  Apna sar saahil se takraane lagi mauj-e-Furaat
+  Apna sar saahil se takra jab Sakina
   Mashk laayi thi chacha ke saamne
 
   6
-  Dekhiye kya ho ba waqte izn maa ke dil ka haal
-  Dekhiye kya ho ba waqte layenge
+  Dekhiye kya ho bawaqt-e-izn maa ke dil ka haal
+  Dekhiye kya ho bawaqt-e laayeṅge
   Qasim ko jab dulha bana ke saamne
 
   7
-  Teer jab asghar ne khaya ro rahe thay ashkiyan
-  Teer jab asghar ne khaya aur asghar
-  Has rahe thay ashkiyan ke saamne
+  Tir jab Asghar ne khaaya ro rahe the ashqiya
+  Tir jab Asghar ne khaaya aur Asghar
+  Hans rahe the ashqiya ke saamne
 
   8
-  Le gaya sar kaat kar shabbir ka shimr e layeen
-  Le gaya sar kaat kar zainabe
-  Khasta jigar ke ilteja ke saamne
+  Le gaya sar kaat kar Shabbir ka Shimr-e-lain
+  Le gaya sar kaat kar Zainab-e
+  Khasta jigar ki iltija ke saamne
 
   9
-  Saniye zehra ke sar se us rida ko le gaye
-  Saniye zehra ke sar se dono aalam
-  Sard goo thay jis rida ke saamne
+  Saaniye Zehra ke sar se us rida ko le gaye
+  Saaniye Zehra ke sar se donoṅ aalam
+  Sard go the jis rida ke saamne
 
   10
-  Maine paayi sar balandi maine paaya hai urooj
-  Maine paayi sar balandi sar jhuka
-  Rehta hai mera karbala ke saame
+  Maiṅ ne paayi sar balandi maiṅ ne paaya hai Uruj
+  Maiṅ ne paayi sar balandi sar jhuka
+  Rehta hai mera Karbala ke saamne
 # source_id: nohayonline:9688fe0c2d7a22f6abb9
 # source_url: https://www.nohayonline.com/details_content.php?id=645
 # raw_sha256: 8776d328e5bd9b12df602c9c34e5481d706ccb668cc8507ec0e0bfad8277cd80
@@ -77,7 +78,7 @@ romanLyrics: |-
 ۲
 اے طبیبِ عصرِ دوراں کیا مسیحائی تیری
 اے طبیبِ عصرِ دوراں خاک ہے
-تیری دوا خاک ِ شفائ کے سامنے
+تیری دوا خاکِ شفا کے سامنے
 
 ۳
 حشر تک وہ لوگ رُسوائے زمانہ ہو گئے
@@ -86,31 +87,31 @@ romanLyrics: |-
 
 ۴
 چھا گیا بن کر جلالِ حیدری دربار میں
-چھا گیا بن کر جلالِ خطبہِ
-زینب یزیدِبے حیا کے سامنے
+چھا گیا بن کر جلالِ خطبۂ
+زینب یزیدِ بے حیا کے سامنے
 
 ۵
-اپنا سر ساحل سے ٹکرانے لگی موجِ فرا،ت
+اپنا سر ساحل سے ٹکرانے لگی موجِ فرات
 اپنا سر ساحل سے ٹکرا جب سکینہ
 مشک لائی تھی چچا کے سامنے
 
 ۶
-دیکھیئے کیا ہو بوقتِ عزن ماں کے دل کا حال
-دیکھیئے کیا ہو بوقتِ لائیں گے
-قاسم کوجب دولہا بنا کے سامنے
+دیکھیے کیا ہو بوقتِ اذن ماں کے دل کا حال
+دیکھیے کیا ہو بوقتِ لائیں گے
+قاسم کو جب دولہا بنا کے سامنے
 
 ۷
-تیر جب اصغر نے کھایا رو رہے تھے اشقیائ
+تیر جب اصغر نے کھایا رو رہے تھے اشقیا
 تیر جب اصغر نے کھایا اور اصغر
-ہنس رہے تھے اشقیائ کے سامنے
+ہنس رہے تھے اشقیا کے سامنے
 
 ۸
 لے گیا سر کاٹ کر شبیر کا شمرِ لعین
-لے گیا سر کاٹ کر زینب ِ
+لے گیا سر کاٹ کر زینبِ
 خستہ جگر کی التجا کے سامنے
 
 ۹
-ثانیئے زہرا کے سرسے اُس ردا کو لے گئے
+ثانیئے زہرا کے سر سے اُس ردا کو لے گئے
 ثانیئے زہرا کے سر سے دونوں عالم
 سرد گو تھے جس ردا کے سامنے
 
