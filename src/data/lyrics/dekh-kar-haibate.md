@@ -5,32 +5,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zamana tehra dekh kar haibate abbas
-  Inteha ye hai ke behta hua darya tehra
+  Zamaana thehra dekh kar haibat-e-Abbas
+  Inteha ye hai ke behta hua darya thehra
 
   1
-  Hai alamdar teri jurrat o himmat ke misaal
-  Door pani se tere jism ka saaya tehra
+  Hai alamdaar teri jurat o himmat ke misaal
+  Dur paani se tere jism ka saaya thehra
 
   2
-  Karbala ki hai zameen aur farishton ki jabeen
-  Sajdaga hai to kahan shaah ka rauza tehra
+  Karbala ki hai zamiṅ aur farishtoṅ ki jabiṅ
+  Sajdagaah hai to kahaaṅ Shaah ka rauza thehra
 
   3
-  Kis tarha ab dil e betaab ko behlaye maa
-  Godh khaali hai nazar aata hai jhoola tehra
+  Kis tarah ab dil-e-betaab ko behlaaye maaṅ
+  God khaali hai nazar aata hai jhula thehra
 
   4
-  Jab sakina ko rahe shaam mein girte dekha
-  Kaarwan jispe sar e shaah wo naiza tehra
+  Jab Sakina ko raah-e-Shaam mein girte dekha
+  Tha ravaaṅ jis pe sar-e-Shaah wo neza thehra
 
   5
-  Tadpa qaime mein jo awaaz kamaan ki sunkar
-  Zinda ta-umr wo madar ka kaleja tehra
+  Tarpa khaime mein jo aawaaz kamaaṅ ki sun kar
+  Zinda taa umr wo maadar ka kaleja thehra
 # source_id: nohayonline:683efee844db07dbeede
 # source_url: https://www.nohayonline.com/details_content.php?id=565
 # raw_sha256: 13e784baf849cb02a512d580e67d3d49e79969247113b486b3419488c218ac3e
@@ -39,12 +40,12 @@ romanLyrics: |-
 انتہا یہ ہے کہ بہتا ہوا دریا ٹھہرا
 
 ۱
-ہے علمدار تیری ہمت و جُرأ ت کی مثال
+ہے علمدار تیری ہمت و جرأت کی مثال
 دور پانی سے تیرے جسم کا سایہ ٹھہرا
 
 ۲
 کربلا کی ہے زمیں اور فرشتوں کی جبیں
-سجدہ گاہ ہے دو جہاںشاہ کا روضہ ٹھہرا
+سجدہ گاہ ہے دو جہاں شاہ کا روضہ ٹھہرا
 
 ۳
 کس طرح اب دلِ بیتاب کو بہلائے ماں

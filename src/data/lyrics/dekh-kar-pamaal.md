@@ -1,37 +1,38 @@
 ---
 title: "دیکھ کر پامال لاشے کربلا روتی رہی"
-alternateTitle: "Dekh Kar PamaaL"
+alternateTitle: "Dekh Kar Pamaal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dekh kar pamaal laashe karbala roti rahi
-  Ban ke laashon ka kafan khaake shifa roti rahi
+  Dekh kar pamaal laashe Karbala roti rahi
+  Ban ke laashoṅ ka kafan khaak-e-shifa roti rahi
 
   1
-  Jab kate darya pe baazu bawafa abbas ke
-  Waaris e tatheer ke sar ki rida roti rahi
+  Jab kate darya pe baazu ba wafa Abbas ke
+  Waaris-e-tathir ke sar ki rida roti rahi
 
   2
-  Kar diya zakhmi sina ne haye akbar ka jigar
-  Dekh kar hamsheer jis ka raasta roti rahi
+  Kar diya zakhmi sinaaṅ ne haaye Akbar ka jigar
+  Dekh kar hamshir jis ka raasta roti rahi
 
   3
-  Jab kaha bache ne maa se muskurakar alwida
-  Choom kar maa nanhe asghar ka gala roti rahi
+  Jab kaha bachche ne maaṅ se muskura kar alwida
+  Chum kar maaṅ nanhe Asghar ka gala roti rahi
 
   4
-  Kat chuki sajde mein gardan jab ali ke laal ki
-  Khol kar baalon ko binte mustufa roti rahi
+  Kat chuki sajde mein gardan jab Ali ke laal ki
+  Khol kar baaloṅ ko bint-e-Mustafa roti rahi
 
   5
-  Ambiya jawwad roye suye maqtal dekh kar
-  Aasman larza zameen e nainawa roti rahi
+  Anbiya Jawwaad roye su-e-maqtal dekh kar
+  Aasmaaṅ larza zamin-e-Nainawa roti rahi
 # source_id: nohayonline:eee537a3ab218ed3ee25
 # source_url: https://www.nohayonline.com/details_content.php?id=1675
 # raw_sha256: 2af8c9d79ffe6e88802a13a7a23aae8d0b84ecbaaa1524c814636bfb4f4b26ed
@@ -44,7 +45,7 @@ romanLyrics: |-
 وارث تطہیر کے سر کی ردا روتی رہی
 
 ۲
-کر دیا زخمی سناں نے ہاے اکبر کا جگر
+کر دیا زخمی سناں نے ہائے اکبر کا جگر
 دیکھ کر ہمشیر جس کا راستہ روتی رہی
 
 ۳
@@ -56,5 +57,5 @@ romanLyrics: |-
 کھول کر بالوں کو بنت مصطفیٰ روتی رہی
 
 ۵
-انبیاء جواد روے سوے مقتل دیکھ کر
+انبیاء جواد روئے سوئے مقتل دیکھ کر
 آسماں لرزا زمین نینوا روتی رہی
