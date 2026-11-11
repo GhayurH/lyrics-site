@@ -1,54 +1,55 @@
 ---
 title: "بولے بیٹی سے سبط پیمبر"
-alternateTitle: "Bole Beti Se Sibte"
+alternateTitle: "Bole Beti Se Sibt-e-Payambar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Azhar Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bole Beti Se Sibte"]
 published: false
 romanLyrics: |-
-  Bole beti se sibte payambar
-  Baad mere na rona sakina
+  Bole beti se Sibt-e-Payambar
+  Baad mere na rona Sakina
   Zid na karna mujhe yaad karke
-  Maa ki godi mein sona sakina
+  Maaṅ ki godi mein sona Sakina
 
   1
-  Hum bahot door jayenge bibi
-  Ab na surat dikhayenge bibi
-  Hum agar yaad aayenge bibi
-  Tum na bechain hona sakina
+  Hum bahut dur jaaeṅge Bibi
+  Ab na surat dikhaaeṅge Bibi
+  Hum agar yaad aaeṅge Bibi
+  Tum na bechain hona Sakina
 
   2
-  Baad mere tu dukhyari hogi
-  Tujhko eeza badi pyari hogi
+  Baad mere tu dukhyaari hogi
+  Tujh ko iza bari pyaari hogi
   Zindagi phir tujhe bhaari hogi
-  Tujhko hai qaid hona sakina
+  Tujh ko hai qaid hona Sakina
 
   3
-  Shimr kodon se dega aziyath
-  Aur tamachon se hogi himeinath
-  Tumko dega yateemi mein zehmat
-  Yaad apni na khona sakina
+  Shimr koroṅ se dega aziyat
+  Aur tamaachoṅ se hogi himaayat
+  Tum ko dega yatimi mein zehmat
+  Yaad apni na khona Sakina
 
   4
-  Meri furkhat mein girya kare gar
-  Ya unhe yaad aajaye asghar
-  Maa ko rone na dena tu dilbar
-  Moo pe moo rakh ke sona sakina
+  Meri furqat mein girya kare gar
+  Ya unheṅ yaad aa jaaye Asghar
+  Maaṅ ko rone na dena tu dilbar
+  Muṅh pe muṅh rakh ke sona Sakina
 
   5
   Laash par meri jab tum lipat kar
-  Ro'ogi meri ay jaane dukhtar
-  Kode maarega shimr e badakhtar
-  Hai ye sab tumko sehna sakina
+  Roogi meri ae jaan-e-dukhtar
+  Kore maarega Shimr-e-badakhtar
+  Hai ye sab tum ko sehna Sakina
 
   6
-  Bibi aaye tumhe gar meri yaad
-  Roke karna na tum zaar o faryad
-  Warna tum par bahot hogi bedaar
-  Maar khana na rona sakina
+  Bibi aaye tumheṅ gar meri yaad
+  Ro ke karna na tum zaar o faryaad
+  Warna tum par bahut hogi bedaar
+  Maar khaana na rona Sakina
 # source_id: nohayonline:60dc9f3f890b4f6a0bfe
 # source_url: https://www.nohayonline.com/details_content.php?id=1912
 # raw_sha256: 591a03e32c281c57a5f84ddfbf438f019d0ee67998d03c414f57b3f1d34f12d7
@@ -59,9 +60,9 @@ romanLyrics: |-
 ماں کی گودی میں سونا سکینہ
 
 ۱
-ہم بہت دور جایں گے بی بی
-اب نہ صورت دکھائیں گے بی بی
-ہم اگر یاد آیں گے بی بی
+ہم بہت دور جائیں گے بی‌بی
+اب نہ صورت دکھائیں گے بی‌بی
+ہم اگر یاد آئیں گے بی‌بی
 تم نہ بے چین ہونا سکینہ
 
 ۲
@@ -71,9 +72,9 @@ romanLyrics: |-
 تجھکو ہے قید ہونا سکینہ
 
 ۳
-شمر کوڑوں سے دیگا اذیت
+شمر کوڑوں سے دے گا اذیت
 اور طمانچوں سے ہوگی حمایت
-تم کو دیگا یتیمی میں زحمت
+تم کو دے گا یتیمی میں زحمت
 یاد اپنی نہ کھونا سکینہ
 
 ۴
@@ -89,7 +90,7 @@ romanLyrics: |-
 ہے یہ سب تم کو سہنا سکینہ
 
 ۶
-بی بی آے تمہیں گر میری یاد
-روکے کرنا نہ تم زار و فریاد
+بی‌بی آئے تمہیں گر میری یاد
+رو کے کرنا نہ تم زار و فریاد
 ورنہ تم پر بہت ہوگی بے دار
 مار کھانا نہ رونا سکینہ

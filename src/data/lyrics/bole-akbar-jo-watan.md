@@ -6,67 +6,68 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bole akbar jo watan laut ke jaana amma
-  Meri roothi hui sughra ko manana amma
+  Bole Akbar jo watan laut ke jaana ammaaṅ
+  Meri ruthi hui Sughra ko manaana ammaaṅ
 
   1
-  Mere qadmon ke nishanon pe rakhe hogi wo sar
-  Us se kehna nahi aayega kabhi ab akbar
-  Ghar ki dehleez se tum us ko uthana amma
+  Mere qadmoṅ ke nishaanoṅ pe rakhe hogi wo sar
+  Us se kehna nahiṅ aayega kabhi ab Akbar
+  Ghar ki dehliz se tum us ko uthaana ammaaṅ
 
   2
-  Marne se pehle galay mil liya akbar sab se
-  Kaash ek baar mai seene se laga leta usay
-  Meri jaanib se usay seene lagana amma
+  Marne se pehle gale mil liya Akbar sab se
+  Kaash ek baar main sine se laga leta use
+  Meri jaanib se use sine lagaana ammaaṅ
 
   3
-  Pooche asghar ka to keh dena humakta tha bahot
-  Naam lete thay tumhara to wo hasta tha bahot
-  Ghutniyo chalne laga tha wo batana amma
+  Puchhe Asghar ka to keh dena humakta tha bahut
+  Naam lete the tumhaara to wo hansta tha bahut
+  Ghutniyoṅ chalne laga tha wo bataana ammaaṅ
 
   4
-  Is rida se usay aa jayegi khushboo meri
-  Ye mera khoon hai sunte hi wo mar jayegi
-  Meri sughra se rida apni chupana amma
+  Is rida se use aa jaayegi khushbu meri
+  Ye mera khun hai sunte hi wo mar jaayegi
+  Meri Sughra se rida apni chhupaana ammaaṅ
 
   5
-  Gar wo pooche ke mere bhai ko kaise maara
-  Kehna bas ho gaya allah ko pyara sughra
-  Mujhko maari thi sina ye na batana amma
+  Gar wo puchhe ke mere bhaai ko kaise maara
+  Kehna bas ho gaya Allah ko pyaara Sughra
+  Mujh ko maari thi sinaaṅ ye na bataana ammaaṅ
 
   6
   Us se kehna ke wo naraaz na ho ammu se
-  Wo to khud naam mitaate huwe uska roye
-  Chaahte thay wo usay saath may laana amma
+  Wo to khud naam mitaate hue us ka roye
+  Chaahte the wo use saath mein laana ammaaṅ
 
   7
-  Wo hai beemar na kar payegi meelon ka safar
-  Bas wahin baith ke ro le wo mujhe shaam o sahar
-  Ek nishan qabr ka aangan may banana amma
+  Wo hai bimaar na kar paayegi miloṅ ka safar
+  Bas wahiṅ baith ke ro le wo mujhe shaam o sahar
+  Ek nishaaṅ qabr ka aangan mein banaana ammaaṅ
 
   8
-  Khat e sughra meri mayyat pe sunana aise
-  Jaise talqeen padha karte hai bilkul waise
-  Dono haathon se mera shaana hilaana amma
+  Khat-e-Sughra meri mayyat pe sunaana aise
+  Jaise talqin parha karte haiṅ bilkul waise
+  Donoṅ haathoṅ se mera shaana hilaana ammaaṅ
 
   9
-  Mir sajjad ye tha aakhri akbar ka bayan
-  Jab madine may tumhe aayegi awaaz e azaan
-  Chup ke sughra se kahin aansu bahana amma
+  Mir Sajjad ye tha aakhri Akbar ka bayaaṅ
+  Jab Madine mein tumheṅ aayegi aawaaz-e-azaaṅ
+  Chhup ke Sughra se kahiṅ aansu bahaana ammaaṅ
 # source_id: nohayonline:0145dfc9db90d66d08fe
 # source_url: https://www.nohayonline.com/details_content.php?id=1527
 # raw_sha256: 6d91481df52770017eceaffa1b2111c0eb7971f2791cd0f6a050107244179866
 ---
 بولے اکبر جو وطن لوٹ کے جانا اماں
-میری روٹھی ہوی صغرا کو منانا اماں
+میری روٹھی ہوئی صغرا کو منانا اماں
 
 ۱
 میرے قدموں کے نشانوں پہ رکھے ہوگی وہ سر
-اس سے کہنا نہیں آے گا کبھی اب اکبر
+اس سے کہنا نہیں آئے گا کبھی اب اکبر
 گھر کی دہلیز سے تم اس کو اٹھانا اماں
 
 ۲
@@ -80,8 +81,8 @@ romanLyrics: |-
 گھٹنیوں چلنے لگا تھا وہ بتانا اماں
 
 ۴
-اس ردا سے اسے آ جاے گی خوشبو میری
-یہ میرا خون ہے سنتے ہی وہ مر جاۓ گی
+اس ردا سے اسے آ جائے گی خوشبو میری
+یہ میرا خون ہے سنتے ہی وہ مر جائے گی
 میری صغرا سے ردا اپنی چھپانا اماں
 
 ۵
@@ -91,20 +92,20 @@ romanLyrics: |-
 
 ۶
 اس سے کہنا کہ وہ ناراض نہ ہو عمو سے
-وہ تو خود نام مٹاتے ہوے اسکا روے
+وہ تو خود نام مٹاتے ہوئے اس کا روئے
 چاہتے تھے وہ اسے ساتھ میں لانا اماں
 
 ۷
-وہ ہے بیمار نہ کر پاے گی میلوں کا سفر
+وہ ہے بیمار نہ کر پائے گی میلوں کا سفر
 بس وہی بیٹھ کے رو لے وہ مجھے شام و سحر
 اک نشاں قبر کا آنگن میں بہانا اماں
 
 ۸
 خط صغرا میری میت پہ سنانا ایسے
-جیسے تلقین پڑھا کرتے ہیں بلکل ویسے
+جیسے تلقین پڑھا کرتے ہیں بالکل ویسے
 دونوں ہاتھوں سے میرا شانہ ہلانا اماں
 
 ۹
 میر سجاد یہ تھا آخری اکبر کا بیاں
-جب مدینے میں تمہیں آے گی آواز اذاں
-چھپ کے صغرا سے کہیں آنسوں بہانا اماں
+جب مدینے میں تمہیں آئے گی آواز اذاں
+چھپ کے صغرا سے کہیں آنسو بہانا اماں

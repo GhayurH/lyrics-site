@@ -1,105 +1,106 @@
 ---
-title: "جب اتری سروں سے بھیا ردایںں"
+title: "جب اتری سروں سے بھیا ردائیں"
 alternateTitle: "Bohat Yaad Aaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab utri saron se bhaiya ridayein
+  Jab utri saroṅ se bhaiya ridaaeṅ
   Tum yaad aaye bohat yaad aaye
-  Kaha so rahe ho behan ko bhulaye
+  Kahaaṅ so rahe ho behan ko bhulaaye
   Tum yaad aaye bohat yaad aaye
 
   1
-  Khule sar sar e bazm mujhko bulaya
-  Aziyat se durron ki mujhko rulaya
-  Doon awaaz kis ko kise doon sadayein
+  Khule sar sar-e-bazm mujh ko bulaaya
+  Aziyat se durroṅ ki mujh ko rulaaya
+  Duṅ aawaaz kis ko kise duṅ sadaaeṅ
 
   2
-  Tha dushwaar chalna magar mai chali thi
+  Tha dushwaar chalna magar main chali thi
   Mere haal par bekasi ro rahi thi
-  Qadam dar qadam toot'ti thi jafayein
+  Qadam dar qadam tutti thi jafaaeṅ
 
   3
-  Sitamgar ne jab hum ko durron se maara
+  Sitamgar ne jab hum ko durroṅ se maara
   Khuda ke liye seh liya dard saara
-  Magar jab saron se utri ridayein
+  Magar jab saroṅ se utri ridaaeṅ
 
   4
-  Manadi sada de raha tha barabar
+  Munaadi sada de raha tha baraabar
   Ye baaghi hai baaghi karo zulm in par
-  Jahan tak ho mumkin inhe hum satayein
+  Jahaaṅ tak ho mumkin inheṅ hum sataaeṅ
 
   5
-  Kharashein kharashein yateema ke tan par
-  Lahoo jam raha hai jale pairahan par
-  Ye kehti thi dukhiya chacha ko bulayein
+  Kharaasheṅ kharaasheṅ yatima ke tan par
+  Lahu jam raha hai jale pairahan par
+  Ye kehti thi dukhiya chacha ko bulaaeṅ
 
   6
-  Kise kya kahun mai naseebon ki maari
-  Sitam hum pe karte hai sab kaari kaari
-  Jo aale payambar pe tooti jafayein
+  Kise kya kahuṅ main nasiboṅ ki maari
+  Sitam hum pe karte haiṅ sab kaari kaari
+  Jo Aal-e-Payambar pe tuti jafaaeṅ
 
   7
-  Kiye maine faaqe isi khastatan par
-  Ye roodad e gham likh rahi hai rasan par
-  Mukhalif bhi apni hui hai hawayein
+  Kiye main ne faaqe isi khasta tan par
+  Ye rudaad-e-gham likh rahi hai rasan par
+  Mukhaalif bhi apni hui hai hawaaeṅ
 
   8
-  Ay aamir wo laashe jari par gayi thi
-  Faqat shams ro ro ke ye keh rahi thi
-  Jo guzri hai hum pe wo kya kya batayein
+  Ae Aamir wo laash-e-jari par gayi thi
+  Faqat Shams ro ro ke ye keh rahi thi
+  Jo guzri hai hum pe wo kya kya bataaeṅ
 # source_id: nohayonline:3d6858ae62734c59eaf1
 # source_url: https://www.nohayonline.com/details_content.php?id=3646
 # raw_sha256: 75033d3ac18c089db73b3d049246a61095355c62e5e6bc966804c6e54ecfef17
 ---
 
-جب اتری سروں سے بھیا ردایںں
-تم یاد آے بہت یاد آے
-کہاں سو رہے ہو بہن کو بھلاے
-تم یاد آئے بہت یاد آے
+جب اتری سروں سے بھیا ردائیں
+تم یاد آئے بہت یاد آئے
+کہاں سو رہے ہو بہن کو بھلائے
+تم یاد آئے بہت یاد آئے
 
 ۱
 کھلے سر سر بزم مجھکو بلایا
-اذیت سے دروں کی‌ مجھکو رلایا
-دوں آواز کس کو کسے دوں صداییں
+اذیت سے دروں کی مجھکو رلایا
+دوں آواز کس کو کسے دوں صدائیں
 
 ۲
 تھا دشوار چلنا مگر میں چلی تھی
 میرے حال پر بیکسی رو رہی تھی
-قدم در قدم ٹوٹتی تھی جفاییں
+قدم در قدم ٹوٹتی تھی جفائیں
 
 ۳
 ستمگر نے جب ہم کو دروں سے مارا
-خدا کے لیےء سہہ لیا درد سارا
-مگر جب سروں سے اتری رداییں
+خدا کے لیے سہہ لیا درد سارا
+مگر جب سروں سے اتری ردائیں
 
 ۴
 منادی صدا دے رہا تھا برابر
 یہ باغی ہے باغی کرو ظلم ان پر
-جہاں تک ہو ممکن انہیں ہم ستاییں
+جہاں تک ہو ممکن انہیں ہم ستائیں
 
 ۵
 خراشیں خراشیں یتیمہ کے تن پر
 لہو جم رہا ہے جلے پیرہن پر
-یہ کہتی تھی دکھیا چچا کو بلاییں
+یہ کہتی تھی دکھیا چچا کو بلائیں
 
 ۶
 کسے کیا کہوں میں نصیبوں کی ماری
 ستم ہم پہ کرتے ہیں سب کاری کاری
-جو آل پیمبر پہ ٹوٹی جفاییں
+جو آل پیمبر پہ ٹوٹی جفائیں
 
 ۷
-کیےء میں نے فاقے اسی خستہ تن پر
+کیے میں نے فاقے اسی خستہ تن پر
 یہ روداد غم لکھ رہی ہے رسن پر
-مخالف بھی اپنی ہوی ہے ہوائیں
+مخالف بھی اپنی ہوئی ہے ہوائیں
 
 ۸
-اے عامر وہ لاش جری پر گیء تھی
+اے عامر وہ لاش جری پر گئی تھی
 فقط شمس رو رو کے یہ کہہ رہی تھی
-جو گزری ہے ہم پہ وہ کیا کیا‌ بتاییں
+جو گزری ہے ہم پہ وہ کیا کیا بتائیں
