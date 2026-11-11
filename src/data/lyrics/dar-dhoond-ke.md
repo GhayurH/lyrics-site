@@ -1,61 +1,63 @@
 ---
 title: "در ڈھونڈ کے زنداں کا یہ کہتی ہے سکینہ"
-alternateTitle: "Dar Dhoond Ke"
+alternateTitle: "Dar Dhund Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulqarnain"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dar dhoond ke zindan ka ye kehti hai sakina
-  Baba mujhe seene pe sulane chale aao
-  Is aalam e tanhaai mein mar jaaun na baba
-  Marne se sakina ko bachane chale aao
+  Dar dhund ke zindaaṅ ka ye kehti hai Sakina
+  Baaba mujhe sine pe sulaane chale aao
+
+  Is aalam-e-tanhaai mein mar jaauṅ na Baaba
+  Marne se Sakina ko bachaane chale aao
 
   1
-  Har waqt teri yaad mein roti hai sakina
-  Maghmoom teri aas mein hoti hai sakina
-  Naraaz teri lakhte jigar tujhse hai baba
-  Roothi hui beti ko manane chale aao
-  
+  Har waqt teri yaad mein roti hai Sakina
+  Maghmum teri aas mein hoti hai Sakina
+  Naaraaz teri lakht-e-jigar tujh se hai Baaba
+  Ruthi hui beti ko manaane chale aao
+
   2
-  Mai chain ka ek saans bhi baba nahi leti
-  Ye pyaas ki shiddat mujhe sone nahi deti
-  Ab neend teri beti ko na aayegi baba
-  Ek chain ki lori hi sunane chale aao
-  
+  Main chain ka ik saans bhi Baaba nahiṅ leti
+  Ye pyaas ki shiddat mujhe sone nahiṅ deti
+  Ab nind tiri beti ko na aayegi Baaba
+  Ik chain ki lori hi sunaane chale aao
+
   3
-  Asghar mera bhaiya wo meri jaan kahan hai
-  Cheh maah jo dunya mein tha mehman kahan hai
-  Baba mujhe bhaiya ki judaai nahi bhooli
-  Asghar ko sakina se milane chale aao
-  
+  Asghar mera bhaiya wo meri jaan kahaaṅ hai
+  Chhe maah jo dunya mein tha mehmaan kahaaṅ hai
+  Baaba mujhe bhaiya ki judaai nahiṅ bhuli
+  Asghar ko Sakina se milaane chale aao
+
   4
-  Ek daagh hai bhai ka kamar tod'di jis ne
-  Ek daagh hai bete ka nazar cheenli jis ne
-  Jo dil pe lage zakhm tumhe karbobala mein
-  Baba wo sakina ko dikhane chale aao
-  
+  Ik daagh hai bhaai ka kamar tor di jis ne
+  Ik daagh hai bete ka nazar chhin li jis ne
+  Jo dil pe lage zakhm tumheṅ Karb o Bala mein
+  Baaba wo Sakina ko dikhaane chale aao
+
   5
-  Bistar nahi sone ke liye farshe zameen hai
-  Mai sheh ki yateema hoon mera qalb hazeen hai
-  Zindan ka andhera hai muqaddar mera baba
-  Tareeki e zindan ko mitane chale aao
-  
+  Bistar nahiṅ sone ke liye farsh-e-zamiṅ hai
+  Main Shah ki yatima huṅ mera qalb haziṅ hai
+  Zindaaṅ ka andhera hai muqaddar mera Baaba
+  Taariki-e-zindaaṅ ko mitaane chale aao
+
   6
-  Mai aale mohamed ke gharane ka nagina
-  Is waaste baba mujhe kehte thay sakina
-  Zaalim ke tamachon ne sukoon cheena hai mera
-  Kab aaoge baba ye batane chale aao
-  
+  Main Aal-e-Muhammad ke gharaane ka nagina
+  Is waaste Baaba mujhe kehte the Sakina
+  Zaalim ke tamaachoṅ ne sukuṅ chhina hai mera
+  Kab aaoge Baaba ye bataane chale aao
+
   7
-  Wo zulm kiye shimr ne chehre se ayaan hai
-  Rukhsaar pe zaalim ke tamachon ke nishan hai
-  Baba mere rone pe yahan pehre lage hai
-  In pehron ko ay baba hatane chale aao
+  Wo zulm kiye Shimr ne chehre se ayaaṅ haiṅ
+  Rukhsaar pe zaalim ke tamaachoṅ ke nishaaṅ haiṅ
+  Baaba mere rone pe yahaaṅ pehre lage haiṅ
+  In pehroṅ ko ae Baaba hataane chale aao
 # source_id: nohayonline:6b5ce3bad0f32901c88c
 # source_url: https://www.nohayonline.com/details_content.php?id=3232
 # raw_sha256: d20e81beae746512d8f9811fb751c9a4e4cb6fd56dc362ed30348f8bc386b966
@@ -63,6 +65,7 @@ romanLyrics: |-
 
 در ڈھونڈ کے زنداں کا یہ کہتی ہے سکینہ
 بابا مجھے سینے پہ سلانے چلے آئو
+
 اس عالم تنہائی میں مر جائوں نہ بابا
 مرنے سے سکینہ کو بچانے چلے آئو
 
