@@ -6,53 +6,52 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Zainab kuja bazaar kuja
 
-  Fakhre maryam be rida hai shaam ka bazaar hai
-  Saj raha darbar hai shaam ka bazaar hai
-
   1
-  Bheedh hai bazariyon ki
-  Saj raha darbar hai shaam ka bazaar hai
+  Fakhr-e-Maryam be rida hai Shaam ka bazaar hai
+  Saj raha darbaar hai Shaam ka bazaar hai
+  Bhir hai baazaariyoṅ ki
+  Saj raha darbaar hai Shaam ka bazaar hai
 
   2
-  Kaise guzregi ali ki betiyan bazaar se
+  Kaise guzre gi Ali ki betiyaaṅ bazaar se
   Sang baari ho rahi hai raasta dushwaar hai
-  Bheed hai bazariyon ki saj raha darbar hai
+  Bhir hai baazaariyoṅ ki saj raha darbaar hai
 
   3
-  Bas na chalta tha magar abid se wo kehti rahi
-  Maarta hai kyun tamache mujhko ye badkaar hai
-  Bheed hai bazariyon ki saj raha darbar hai
+  Bas na chalta tha magar Aabid se wo kehti rahi
+  Maarta hai kiuṅ tamaanche mujh ko ye badkaar hai
+  Bhir hai baazaariyoṅ ki saj raha darbaar hai
 
   4
-  Maa siwa sajjad ke mere bacha koi nahi
-  Yun na maaro zaalimon bemar hai lachaar hai
-  Bheed hai bazariyon ki saj raha darbar hai
+  Maaṅ siwa Sajjad ke mere bachcha koi nahiṅ
+  Yuṅ na maaro zaalimoṅ bimaar hai laachaar hai
+  Bhir hai baazaariyoṅ ki saj raha darbaar hai
 
   5
-  Mas'ala ye hai ke tum ne usko pehchana nahi
-  Jisko baaghi keh rahe ho khuld ka sardar hai
-  Bheed hai bazariyon ki saj raha darbar hai
+  Masala ye hai ke tum ne us ko pehchaana nahiṅ
+  Jis ko baaghi keh rahe ho khuld ka sardaar hai
+  Bhir hai baazaariyoṅ ki saj raha darbaar hai
 
   6
-  Roo baroo baba ke apne jo na boli thi ameer
-  Teen din deti rahi bazaar may niruvaar hai
-  Bheed hai bazariyon ki saj raha darbar hai
+  Ru ba ru baba ke apne jo na boli thi Ameer
+  Tin din deti rahi bazaar mein niru waar hai
+  Bhir hai baazaariyoṅ ki saj raha darbaar hai
 # source_id: nohayonline:66800c9c1de05c36fcc7
 # source_url: https://www.nohayonline.com/details_content.php?id=2293
 # raw_sha256: 644aefc021d5e7409dc8bcc6caf8daca6218544ce79126745b444bf3bb801ebe
 ---
 زینب کجا بازار کجا
 
+۱
 فخر مریم بے ردا ہے شام کا بازار ہے
 سج رہا دربار ہے شام کا بازار ہے
-
-۱
 بھیڑ ہے بازاریوں کی
 سج رہا دربار ہے شام کا بازار ہے
 
@@ -63,7 +62,7 @@ romanLyrics: |-
 
 ۳
 بس نہ چلتا تھا مگر عابد سے وہ کہتی رہی
-مارتا ہے کیوں طمانچے مجھکو یہ بدکار ہے
+مارتا ہے کیوں طمانچے مجھ کو یہ بدکار ہے
 بھیڑ ہے بازاریوں کی سج رہا دربار ہے
 
 ۴
@@ -72,7 +71,7 @@ romanLyrics: |-
 بھیڑ ہے بازاریوں کی سج رہا دربار ہے
 
 ۵
-مسلہ یہ ہے کہ تم‌ نے اسکو پہچانا نہیں
+مسئلہ یہ ہے کہ تم نے اس کو پہچانا نہیں
 جس کو باغی کہہ رہے ہو خلد کا سردار ہے
 بھیڑ ہے بازاریوں کی سج رہا دربار ہے
 
