@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Muslim Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Fatema ne haath pehlu par rakha hai aaj bhi
-  Phasliyan tooti hai aur khoon ris raha hai aaj bhi
+  Pasliyaaṅ tuti hai aur khuṅ ris raha hai aaj bhi
 
   1
-  Qabr mein nauha kuna hai fatema ki maamta
-  Haye mohsin haye mohsin ki sada hai aaj bhi
+  Qabr mein nauha kunaaṅ hai Fatema ki maamta
+  Haae Mohsin haae Mohsin ki sada hai aaj bhi
 
   2
-  Maa ke haathon mein hai kurta hazrate shabbir ka
-  Qabre zehra mein musalsal karbala hai aaj bhi
+  Maaṅ ke haathoṅ mein hai kurta Hazrat-e-Shabbir ka
+  Qabr-e-Zehra mein musalsal Karbala hai aaj bhi
 
   3
-  Ek din tohmat lagi thi sayyeda jhooti ho tum
-  Fatema zehra ko sadma ye bada hai aaj bhi
+  Ek din tohmat lagi thi Sayyeda jhuti ho tum
+  Fatema Zehra ko sadma ye bara hai aaj bhi
 
   4
-  Roohe zehra karbala aur shaam mein kehti hai ye
+  Ruh-e-Zehra Karbala aur Shaam mein kehti hai ye
   Bekafan beta hai beti berida hai aaj bhi
 
   5
   Maangne par haq mila jo ummati ke haath se
-  Neel wo zehra ke chehre par jama hai aaj bhi
+  Nil wo Zehra ke chehre par jama hai aaj bhi
 
   6
-  Dukh rahi hai ya elaahi meri maa ki phasliyan
-  Phasliyan thaame ye mehdi ki azan hai aaj bhi
+  Dukh rahi hai ya Ilaahi meri maaṅ ki pasliyaaṅ
+  Pasliyaaṅ thaame ye Mehdi ki azaaṅ hai aaj bhi
 
   7
-  Bain nauha ashk waari par hai pabandi wahan
-  Qabre zehra par sitam ka silisla hai aaj bhi
+  Bain nauha ashk waari par hai paabandi wahaaṅ
+  Qabr-e-Zehra par sitam ka silsila hai aaj bhi
 
   8
-  Qabr mein yasir mohamed mustafa ki hai buka
-  Ye mera gham hai ke zehra ghamzada hai aaj bhi
+  Qabr mein Yasir Muhammad Mustafa ki hai buka
+  Ye mera gham hai ke Zehra ghamzada hai aaj bhi
 # source_id: nohayonline:62bd0e2555d0731c461a
 # source_url: https://www.nohayonline.com/details_content.php?id=3123
 # raw_sha256: c6fa6fa6f53f262a8d432608a325d6655d487913c7950392789eb07f01b6f6c6
@@ -53,7 +54,7 @@ romanLyrics: |-
 
 ۱
 قبر میں نوحہ کناں ہے فاطمہ کی مامتا
-ہاے محسن ہاے محسن کی صدا ہے آج بھی
+ہائے محسن ہائے محسن کی صدا ہے آج بھی
 
 ۲
 ماں کے ہاتھوں میں ہے کرتہ حضرتِ شبیر کا
