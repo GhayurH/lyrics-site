@@ -1,6 +1,6 @@
 ---
 title: "بیاں کرتا ہوں دربارِ شام کا منظر"
-alternateTitle: "Bayaan Karta Hun Darbar-e-Shaam Ka Manzar"
+alternateTitle: "Bayaaṅ Karta Huṅ Darbar-e-Shaam Ka Manzar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,27 +9,27 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bayaan karta hun darbar-e-Shaam ka manzar
-  Jahan the saat sau kursi nashin fitnagar
-  Yazid jhum raha tha sharab pi pi kar
+  Bayaaṅ karta huṅ darbar-e-Shaam ka manzar
+  Jahaaṅ the saat sau kursi nashiṅ fitnagar
+  Yazid jhum raha tha sharaab pi pi kar
   Aur aisi bazm mein afsos Aal-e-Payambar
   
-  Tha un ke saamne ek badkalam mimbar par
-  Bayaan karta tha jhuthe Yazid ke johar
+  Tha un ke saamne ek badkalaam mimbar par
+  Bayaaṅ karta tha jhuthe Yazid ke jauhar
   Jab us ne khatm ki taqrir badkalami par
-  Khatib-e-jahl se bole ye Abid-e-muztar
+  Khatib-e-jahl se bole ye Aabid-e-muztar
   
   Ke tu ne khush kiya makhluq ko zarur magar
-  Khareeda qahr-e-Khuda tu ne mukhtasar zar par
-  Are jahan ho zikr-e-badatwar wo mimbar kab hai
-  Lakriyon ka hai wo anbar wo mimbar kab hai
+  Kharida qahr-e-Khuda tu ne mukhtasar zar par
+  Are jahaaṅ ho zikr-e-bad atwaar wo mimbar kab hai
+  Lakriyoṅ ka hai wo anbaar wo mimbar kab hai
   
-  Kaha Yazid se kuch main kahun ijazat de
+  Kaha Yazid se kuch main kahuṅ ijaazat de
   Yazid chup tha to darbari saare kehne lage
-  Yazid de de ijazat ise bhi kehne de
+  Yazid de de ijaazat ise bhi kehne de
   Ye kya kahega larazta hai jo naqahat se
   
-  Sambhale tauq o rasan shan-e-Kirdigar aayi
+  Sambhaale tauq o rasan shaan-e-Kirdigaar aayi
   Imam aaye ke mimbar pe Zulfiqar aayi
   Ya Husain
   
@@ -41,97 +41,97 @@ romanLyrics: |-
   Jis ka mimbar tha wohi bar sar-e-mimbar aaya
   Woh akela tha magar surat-e-lashkar aaya
   Labkusha surat-e-Quran wo Haider aaya
-  Jab wo khamosh zaban bar sar-e-darbar chali
-  Karbala mein na chali thi jo wo talwar chali
+  Jab wo khaamosh zabaaṅ bar sar-e-darbar chali
+  Karbala mein na chali thi jo wo talwaar chali
 
   2
   Lehja-e-nur mein Maula ne kaha Bismillah
   Laiq-e-hamd o sana hai to wohi ek Khuda
   Jis ne hum Aal-e-Muhammad ko hai takhliq kiya
-  Jis ko malum hai malum hai mera shajra
+  Jis ko maalum hai maalum hai mera shajra
   Jo nahi jaanta woh sun le taaruf mera
 
   3
-  Hum ko Allah ne chhe khubiyan bakhshin bakhuda
+  Hum ko Allah ne chhe khubiyaaṅ bakhshiṅ bakhuda
   Ilm aur hilm diya aur dil-e-momin mein rakha
-  Hai samaat o fasahat o shujaat wirsa
-  Kam na thin khubiyan chhe go ke ye izzat ke liye
-  Sifatein saat milin aur fazilat ke liye
+  Hai samaat o fasaahat o shujaat wirsa
+  Kam na thiṅ khubiyaaṅ chhe go ke ye izzat ke liye
+  Sifateṅ saat miliṅ aur fazilat ke liye
 
   4
   Hum mein awwal jo the wo Ahmad-e-Mukhtar huwe
   Koi Hamza to koi Jafar-e-Tayyar huwe
   Hum hi Haider huwe Abbas-e-Alamdar huwe
-  Hum ko Meraj-e-risalat bhi imamat bhi mili
-  Hum ko mehrab-e-ibadat mein shahadat bhi mili
+  Hum ko Meraaj-e-risaalat bhi imaamat bhi mili
+  Hum ko mehraab-e-ibaadat mein shahaadat bhi mili
 
   5
-  Us ka farzand hun seh roz raha jo pyasa
-  Darmiyan zin o zamin jis ka raha tha laasha
+  Us ka farzand huṅ seh roz raha jo pyaasa
+  Darmiyaaṅ zin o zamiṅ jis ka raha tha laasha
   Jis ke sajde ke sabab khaak bani khaak-e-shifa
   Khaak aur khun mein duba tha amama jis ka
   Sum-e-asb-ha tale ronda gaya laasha jis ka
 
   6
-  Ahl-e-insaf ab insaf se itna keh de
-  Jis ki chaukhat pe salami ko farishte utre
-  Nok-e-neza se lain un ki ridayen lute
-  Tum ne khaime nahi Allah ka ghar khaak kiya
+  Ahl-e-insaaf ab insaaf se itna keh de
+  Jis ki chaukhat pe salaami ko farishte utre
+  Nok-e-neza se lain un ki ridaaeṅ lute
+  Tum ne khaime nahiṅ Allah ka ghar khaak kiya
   Kalma parh parh ke Muhammad ka jigar chaak kiya
 
   7
   Jis ke parde ke liye ayat-e-Tathir aaye
-  Sang barsate huwe un pe yahan tak laaye
+  Sang barsaate huwe un pe yahaaṅ tak laaye
   Haif hai ruh-e-Muhammad se na tum sharmaye
   Hum ne paband-e-rasan ho ke tujhe maara hai
-  Ibn-e-Marjana tu jita to nahi haara hai
+  Ibn-e-Marjaana tu jita to nahiṅ haara hai
 
   8
-  Baat jab khul gayi sadat-e-Muhammad hain yahan
-  Ro diye ahl-e-jafa ubhra baghawat ka samaan
-  Aur isi shor mein hakim ne diya hukm-e-azan
-  Saat afrad jo yak musht azan dene lage
-  Haq mein Sajjad ke darbari bayaan dene lage
+  Baat jab khul gayi saadaat-e-Muhammad haiṅ yahaaṅ
+  Ro diye ahl-e-jafa ubhra baghaawat ka samaaṅ
+  Aur isi shor mein haakim ne diya hukm-e-azaaṅ
+  Saat afraad jo yak musht azaaṅ dene lage
+  Haq mein Sajjad ke darbari bayaaṅ dene lage
 
   9
   Jab muazzin ne kiya kalma-e-takbir ada
   Bole Sajjad buzurgi hai usi ko zeba
   Jaise hi naam Muhammad ka muazzin ne liya
-  Mur ke hakim se kaha tere irade bad hain
-  Ye Muhammad hain tumhare ke hamare jad hain
+  Mur ke haakim se kaha tere iraade bad haiṅ
+  Ye Muhammad haiṅ tumhaare ke hamaare jad haiṅ
 
   10
-  Aib kiun apne chhupata hai azanein de kar
-  The agar tere Muhammad to sitam kiun hum par
+  Aib kiuṅ apne chhupaata hai azaaneṅ de kar
+  The agar tere Muhammad to sitam kiuṅ hum par
   Daal is tauq pe zanjir pe ek baar nazar
-  Zakhm jo tu ne diye sab dil-e-bimar mein hain
-  Betiyan hain ye Muhammad ki jo darbar mein hain
+  Zakhm jo tu ne diye sab dil-e-bimaar mein haiṅ
+  Betiyaaṅ haiṅ ye Muhammad ki jo darbar mein haiṅ
 
   11
   Tu to kehta hai ke hai dhong nauzubillah
   Na Payambar na wahi aayi na Quran utra
-  Phir azanein bhi tu darbar mein hai dilwata
-  Le munafiq tere chehre se utarti hai naqab
-  Jis ka munkir hai wo Quran tera lega hisab
+  Phir azaaneṅ bhi tu darbar mein hai dilwaata
+  Le munaafiq tere chehre se utarti hai naqaab
+  Jis ka munkir hai wo Quran tera lega hisaab
 
   12
-  Is shaqawat pe bhi hum haare nahi jit gaye
-  Naam azanon mein tumhare nahi hum jit gaye
-  Kya ye qudrat ke ishare nahi hum jit gaye
+  Is shaqaawat pe bhi hum haare nahiṅ jit gaye
+  Naam azaanoṅ mein tumhaare nahiṅ hum jit gaye
+  Kya ye qudrat ke ishaare nahiṅ hum jit gaye
   Yak ba yak fath-e-mubin sab ko nazar aane lagi
   Marhaba Sayyid-e-Sajjad sada chhane lagi
 
   13
-  Bole phir Abid-e-bimar ye izzat dekhi
+  Bole phir Aabid-e-bimaar ye izzat dekhi
   Dekhi ye takht-e-sitamgar ye izzat dekhi
   Phir gaya tujh se ye darbar ye izzat dekhi
-  Jis ka hami ho Khuda kaun use zillat de
-  Izzatein us ki hain Allah jise izzat de
+  Jis ka haami ho Khuda kaun use zillat de
+  Izzateṅ us ki haiṅ Allah jise izzat de
 
   14
   Utre mimbar se to Baba ke kate sar ne kaha
   Marhaba ae mere Sajjad gharib-e-Zehra
-  Mojiza Sarwar o Rehan falak ne dekha
+  Maujiza Sarwar o Rehaan falak ne dekha
   Khutba-e-Zainab o Sajjad ne wo kaam kiya
   Hashr tak zikr-e-Husain ibn-e-Ali aam kiya
 # source_id: personal_notebook:temp-import-odt-2026-11-08
