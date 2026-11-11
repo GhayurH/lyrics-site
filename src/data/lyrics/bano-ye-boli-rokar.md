@@ -1,49 +1,50 @@
 ---
 title: "بانو یہ بولی رو کر جھولے کے سونے والے"
-alternateTitle: "Bano Ye Boli Rokar"
+alternateTitle: "Baano Ye Boli Ro Kar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bano ye boli rokar jhoole ke sone wale
-  Sadqe gayi ye maadar jhoole ke sone wale
+  Baano ye boli ro kar jhule ke sone wale
+  Sadqe gayi ye maadar jhule ke sone wale
 
   1
-  Aankhon mein rehne wale seene pe sone wale
-  Baysheer mere asghar jhoole ke sone wale
+  Aankhoṅ mein rehne wale sine pe sone wale
+  Beshir mere Asghar jhule ke sone wale
 
   2
   Gardan dhali hui hai manka dhala hua hai
-  Sotay ho teer kha kar jhoole ke sone wale
+  Sote ho tir khaa kar jhule ke sone wale
 
   3
-  Pani pila'un aaja seene laga'un aaja
-  Kab se khadi hai maadar jhoole ke sone wale
+  Paani pilaauṅ aa jaa sine lagaauṅ aa jaa
+  Kab se khari hai maadar jhule ke sone wale
 
   4
-  Godhi hui hai sooni jhoola hua hai khaali
-  Sunsan kar gaye ghar jhoole ke sone wale
+  Godi hui hai suni jhula hua hai khaali
+  Sunsaan kar gaye ghar jhule ke sone wale
 
   5
-  Gehwara jal raha hai qaime bhi jal rahe hai
-  Laa'un kahan se bistar jhoole ke sone wale
+  Gehwaara jal raha hai khaime bhi jal rahe haiṅ
+  Laauṅ kahaaṅ se bistar jhule ke sone wale
 
   6
-  Jangal ye soona soona ye har taraf andhera
-  Ghabraiyo na asghar jhoole ke sone wale
+  Jangal ye suna suna ye har taraf andhera
+  Ghabraaiyo na Asghar jhule ke sone wale
 
   7
-  Ek aag si lagi hai dil gham se phat raha hai
-  Aaye kharaar kyun kar jhoole ke sone wale
+  Ik aag si lagi hai dil gham se phat raha hai
+  Aaye qaraar kiun kar jhule ke sone wale
 
   8
-  Jalti zameen pe mirza pas murdaye kali hai
-  Ghuncha-dehan khulay tar jhoole ke sone wale
+  Jalti zamiṅ pe Mirza paas murda-e-kali hai
+  Ghuncha-dahan khule tar jhule ke sone wale
 # source_id: nohayonline:7f9ed654bf9e4a64450f
 # source_url: https://www.nohayonline.com/details_content.php?id=65
 # raw_sha256: 7655a7ad2553b01dccba6691a0b93f926d390f30c300e632d2a03e65b2f24779
@@ -60,7 +61,7 @@ romanLyrics: |-
 سوتے ہو تیر کھا کر جھولے کے سونے والے
 
 ۳
-پانی پلائوں آ جا سینے لگائوں آ جا
+پانی پلاؤں آ جا سینے لگاؤں آ جا
 کب سے کھڑی ہے مادر جھولے کے سونے والے
 
 ۴
@@ -69,7 +70,7 @@ romanLyrics: |-
 
 ۵
 گہوارا جل رہا ہے خیمے بھی جل رہے ہیں
-لائوں کہاں سے بستر جھولے کے سونے والے
+لاؤں کہاں سے بستر جھولے کے سونے والے
 
 ۶
 جنگل یہ سونا سونا یہ ہر طرف اندھیرا
