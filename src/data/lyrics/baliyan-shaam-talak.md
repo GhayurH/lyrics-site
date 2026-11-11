@@ -1,63 +1,64 @@
 ---
 title: "افسوس صد افسوس سکینہ قیدی ہے"
-alternateTitle: "Baliyan Shaam Talak"
+alternateTitle: "Baaliyaṅ Shaam Talak"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Afsos sad afsos sakina qaidi hai
-  Haathon may hatkadiyan pairon mai bediyan
-  Aur kano se baaliyan cheeni gayi
-  Baliyon ne di sada kaash hum toot jaate
-  To shahzadi ki lawe bach jaati
-  Maaf karna shahzadi maaf karna shahzadi
-
-  Baliyan shaam talak deti rahi ek sada
-  Toot'te hum to sakina ki lawe bach jaati
+  Afsos sad afsos Sakina qaidi hai
+  Haathoṅ mein hathkariyaṅ pairoṅ mein beriyaṅ
+  Aur kaanoṅ se baaliyaṅ chhini gayiṅ
+  Baaliyoṅ ne di sada kaash hum tut jaate
+  To shahzaadi ki lawe bach jaati
+  Maaf karna shahzaadi maaf karna shahzaadi
 
   1
-  Haye ek saal talak zakhm na rehta taaza
-  Toot'te hum to sakina ki lawe bach jaati
+  Baaliyaṅ Shaam talak deti rahi ek sada
+  Tutte hum to Sakina ki lawa bach jaati
+  Haae ek saal talak zakhm na rehta taaza
+  Tutte hum to Sakina ki lawa bach jaati
 
   2
-  Nanhe ruqsaar hai aur shimr ka panja hai bada
-  Ungliyan kaano ke zakhmon ko jo karti hai hara
-  Kisi surat may bhi kaano se lahoo ruk jaata
+  Nanhe rukhsaar haiṅ aur Shimr ka panja hai bara
+  Ungliyaṅ kaanoṅ ke zakhmoṅ ko jo karti hai hara
+  Kisi surat mein bhi kaanoṅ se lahu ruk jaata
 
   3
-  Jisko maloom nahi tha ke yateemi kya hai
-  Poochti rehgayi bhaiya ye yateemi kya hai
-  Bhai jaan khol do kyunkar hai mera haath bandha
+  Jis ko maalum nahiṅ tha ke yatimi kya hai
+  Puchhti reh gayi bhaiya ye yatimi kya hai
+  Bhai jaaṅ khol do kiunkar hai mera haath bandha
 
   4
-  Kaan zakhmi hai gala zakhmi hai zakhmi hai haath
-  Aisa hota hi nahi haye yateemon ke saath
-  Bachne paayi nahi is bibi ki nanhi si rida
+  Kaan zakhmi haiṅ gala zakhmi hai zakhmi hai haath
+  Aisa hota hi nahiṅ haae yatimoṅ ke saath
+  Bachne paayi nahiṅ is Bibi ki nanhi si rida
 
   5
-  Koi saqde ki khajoorein ise dikhlata hai
-  Kholta pani koi chath se gira deta hai
-  Zulm is darja huwe kaise rahi ye zinda
+  Koi sadqe ki khajureṅ ise dikhlaata hai
+  Kholta paani koi chhat se gira deta hai
+  Zulm is darja hue kaise rahi ye zinda
 
   6
-  Pushte naaqa pe bithaya nahi sulwaya gaya
+  Pusht-e-naaqa pe bithaaya nahiṅ sulwaaya gaya
   Aur ek rassi se phir nanha badan baandha gaya
-  Ashkiyan haste hai chillaati hai jab ye dukhiya
+  Ashqiya hanste haiṅ chillaati hai jab ye dukhiya
 
   7
-  Aankhein shabbir ka sar khol ke ye kehta hai
-  Beti kyun phool sa ruqsaar tera neela hai
-  Tere kaano ki lawo se hai lahoo kyun behta
+  Aankheṅ Shabbir ka sar khol ke ye kehta hai
+  Beti kiuṅ phul sa rukhsaar tera nila hai
+  Tere kaanoṅ ki lau se hai lahu kiuṅ behta
 
   8
-  Bachi irfan o mubarak junhi khamosh hui
-  Samjhe sajjad ke khwahar meri behosh hui
-  Shaana zainab ne hilaya to na zinda paaya
+  Bachchi Irfan o Mubarak junhi khaamosh hui
+  Samjhe Sajjad ke khwaahar meri behosh hui
+  Shaana Zainab ne hilaaya to na zinda paaya
+  Tutte hum to Sakina ki lawe bach jaati
 # source_id: nohayonline:a4e096615fc07c535fca
 # source_url: https://www.nohayonline.com/details_content.php?id=1175
 # raw_sha256: e0618e28bc26aa410793a0d51e50d8d1ba99719383e83f5ebab4f298fa510c5f
@@ -65,16 +66,15 @@ romanLyrics: |-
 
 افسوس صد افسوس سکینہ قیدی ہے
 ہاتھوں میں ہتھکڑیاں پیروں میں بیڑیاں
-اور کانوں سے بالیاں چھینی گیء
+اور کانوں سے بالیاں چھینی گئیں
 بالیوں نے دی صدا کاش ہم ٹوٹے جاتے
 تو شہزادی کی لاوے بچ جاتی
 معاف کرنا شہزادی معاف کرنا شہزادی
 
-بالیاں شام تلک دیتی رہی اک صدا
-ٹوٹتے ہم سکینہ کی لاوا بچ جاتی
-
 ۱
-ہاے اک سال تلک زخم نہ رہتا تازہ
+بالیاں شام تلک دیتی رہی اک صدا
+ٹوٹتے ہم تو سکینہ کی لاوا بچ جاتی
+ہائے اک سال تلک زخم نہ رہتا تازہ
 ٹوٹتے ہم تو سکینہ کی لاوا بچ جاتی
 
 ۲
@@ -84,18 +84,18 @@ romanLyrics: |-
 
 ۳
 جس کو معلوم نہیں تھا کہ یتیمی کیا ہے
-پوچھتی رہ گیء بھیا یہ یتیمی کیا ہے
-بھای جاں کھول دو کیونکر ہے میرا ہاتھ بندھا
+پوچھتی رہ گئی بھیا یہ یتیمی کیا ہے
+بھائی جاں کھول دو کیونکر ہے میرا ہاتھ بندھا
 
 ۴
 کان زخمی ہیں گلا زخمی ہے زخمی ہے ہاتھ
-ایسا ہوتا ہی نہیں ہاے یتیموں کے ساتھ
-بچنے پای نہیں اس بی بی بی کی ننھی سی ردا
+ایسا ہوتا ہی نہیں ہائے یتیموں کے ساتھ
+بچنے پائی نہیں اس بی‌بی کی ننھی سی ردا
 
 ۵
 کوئی صدقے کی کھجوریں اسے دکھلاتا ہے
-کھولتا پانی کوی چھت سے گرا دیتا ہے
-ظلم اس درجہ ہوے کیسے رہی یہ زندہ
+کھولتا پانی کوئی چھت سے گرا دیتا ہے
+ظلم اس درجہ ہوئے کیسے رہی یہ زندہ
 
 ۶
 پشت ناقہ پہ بٹھایا نہیں سلوایا گیا
@@ -104,10 +104,11 @@ romanLyrics: |-
 
 ۷
 آنکھیں شبیر کا سر کھول کے یہ کہتا ہے
-بیٹی کیوں پھول سا رخسار تیرا نیل ہے
+بیٹی کیوں پھول سا رخسار تیرا نیلا ہے
 تیرے کانوں کی لو سے ہے لہو کیوں بہتا
 
 ۸
-بچی عرفان و مبارک جونہی خاموش ہوی
-سمجھے سجاد کے خواہر میری بے ہوش ہوی
+بچی عرفان و مبارک جونہی خاموش ہوئی
+سمجھے سجاد کے خواہر میری بے ہوش ہوئی
 شانہ زینب نے ہلایا تو نہ زندہ پایا
+ٹوٹتے ہم تو سکینہ کی لاوے بچ جاتی

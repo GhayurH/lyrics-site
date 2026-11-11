@@ -1,62 +1,63 @@
 ---
 title: "بے تیغ رن کو جاتا ہے بانو کا نونہال"
-alternateTitle: "Bano Ka Naunehal"
+alternateTitle: "Bano Ka Naunihaal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Be taygh ran ko jaata hai bano ka naunehal
-  Kamsin hai bhooka pyasa hai bano ka naunehal
+  Be tegh ran ko jaata hai Bano ka naunihaal
+  Kamsin hai bhuka pyaasa hai Bano ka naunihaal
 
   1
-  Apni aba mein usko chupalo kadi hai dhoop
-  Is gul badan ka dhoop se saula na jaye roop
-  Naazuk bahot zyada hai bano ka naunehal
+  Apni aba mein us ko chhupa lo kari hai dhup
+  Is gulbadan ka dhup se saulaṅ na jaaye rup
+  Naazuk bahut ziyaada hai Bano ka naunihaal
 
   2
-  Maidan mein teer chalte hai maula na jaiye
-  Madar ka dil dehelta hai ghar laut aaiye
-  Teero ki zad pa aaya hai bano ka naunehal
+  Maidaaṅ mein tir chalte haiṅ Maula na jaaiye
+  Maadar ka dil dahalta hai ghar laut aaiye
+  Tiroṅ ki zad pe aaya hai Bano ka naunihaal
 
   3
-  Jhoole ko dekh dekh kar phat'ta hai maa ka dil
-  Asghar ke saath dasht mein jaata hai maa ka dil
-  Nusrat ko sheh ki jaata hai bano ka naunehal
+  Jhule ko dekh dekh kar phatta hai maaṅ ka dil
+  Asghar ke saath dasht mein jaata hai maaṅ ka dil
+  Nusrat ko Shah ki jaata hai Bano ka naunihaal
 
   4
-  Bali sakina rok rahi hai pakad ke haath
-  Bhaiya na jao ran ko mai khelungi kiske saath
-  Roko na mujhko kehta hai bano ka naunehal
+  Baali Sakina rok rahi hai pakar ke haath
+  Bhaiya na jaao ran ko main kheluṅgi kis ke saath
+  Roko na mujh ko kehta hai Bano ka naunihaal
 
   5
-  Kisne kaha ke pyas se rota tha sheerkhaar
-  Izne jihad maang raha tha wo baar baar
-  Maidan mein muskuraya hai bano ka naunehal
+  Kis ne kaha ke pyaas se rota tha shirkhwaar
+  Izn-e-jihaad maang raha tha woh baar baar
+  Maidaaṅ mein muskuraaya hai Bano ka naunihaal
 
   6
-  Joday zaban ka teer labon ki kamaan se
-  Nikla hai jang karne wo hyder ki shaan se
-  Khyber shikan ka pota hai bano ka naunehal
+  Jore zabaaṅ ka tir laboṅ ki kamaan se
+  Nikla hai jang karne woh Haidar ki shaan se
+  Khaibar shikan ka pota hai Bano ka naunihaal
 
   7
-  Aaya paye jihad wo maqtal mein jhoole se
-  Do ghutniyo bhi chal nahi sakta tha is liye
-  Baba ko saath laaya hai bano ka naunehal
+  Aaya pa-e-jihaad woh maqtal mein jhule se
+  Do ghutniyoṅ bhi chal nahiṅ sakta tha is liye
+  Baba ko saath laaya hai Bano ka naunihaal
 
   8
-  Dekho chala wo teer kaman se suye sagheer
-  Kaampi zameen e karbobala roye be-zameer
-  Jab teer khaake tadpa hai bano ka naunehal
+  Dekho chala woh tir kamaaṅ se su-e-saghir
+  Kaaṅpi zamiṅ-e-Karb o Bala roe be zamir
+  Jab tir kha ke tarpa hai Bano ka naunihaal
 
   9
-  Rehaan azmi tere nohay ke soz se
-  Ehle aza ke saath farishte bhi ro diye
-  Tujhko duawein deta hai bano ka naunehal
+  Rehaan Azmi tere nohe ke soz se
+  Ahl-e-aza ke saath farishte bhi ro diye
+  Tujh ko duaaeṅ deta hai Bano ka naunihaal
 # source_id: nohayonline:b2470d926ccb7521ef9c
 # source_url: https://www.nohayonline.com/details_content.php?id=108
 # raw_sha256: d7244e3487b64f88edb373026b14f7a56bc1eac1b48a293bfb207c3ab0304fb4
@@ -66,14 +67,14 @@ romanLyrics: |-
 کم سن ہے بھوکا پیاسا ہے بانو کا نونہال
 
 ۱
-اپنی عبا میں اسکو چھپالو کڑی ہے دھوپ
+اپنی عبا میں اس کو چھپا لو کڑی ہے دھوپ
 اس گلبدن کا دھوپ سے سولاں نہ جائے روپ
 نازک بہت زیادہ ہے بانو کا نونہال
 
 ۲
-میداں میں تیر چلتے ہیں مولا نہ جایےء
-مادر کا دل دہلتا ہے گھر لوٹ آیےء
-تیروں کی ضد پہ آیا ہے بانو کا نونہال
+میداں میں تیر چلتے ہیں مولا نہ جائیے
+مادر کا دل دہلتا ہے گھر لوٹ آئیے
+تیروں کی زد پہ آیا ہے بانو کا نونہال
 
 ۳
 جھولے کو دیکھ دیکھ کر پھٹتا ہے ماں کا دل
@@ -83,7 +84,7 @@ romanLyrics: |-
 ۴
 بالی سکینہ روک رہی ہے پکڑ کے ہاتھ
 بھیا نہ جاؤ رن کو میں کھیلوں گی کس کے ساتھ
-روکو نہ مجھکو کہتا ہے بانو کا نونہال
+روکو نہ مجھ کو کہتا ہے بانو کا نونہال
 
 ۵
 کس نے کہا کہ پیاس سے روتا تھا شیر خوار
@@ -96,16 +97,16 @@ romanLyrics: |-
 خیبر شکن کا پوتا ہے بانو کا نونہال
 
 ۷
-آیا پےء جہاد وہ مقتل میں جھولے سے
-دو گھٹنیوں بھی چل نہیں سکتا تھا اس لیےء
+آیا پئے جہاد وہ مقتل میں جھولے سے
+دو گھٹنیوں بھی چل نہیں سکتا تھا اس لیے
 بابا کو ساتھ لایا ہے بانو کا نونہال
 
 ۸
-دیکھو چلا وہ تیر کماں سے سوےء صغیر
-کانپی زمیںن کرب و بلا روےء بے ضمیر
-جب تیر کھاکے تڑپا ہے بانو کا نونہال
+دیکھو چلا وہ تیر کماں سے سوئے صغیر
+کانپی زمیں کرب و بلا روئے بے ضمیر
+جب تیر کھا کے تڑپا ہے بانو کا نونہال
 
 ۹
 ریحان اعظمی تیرے نوحے کے سوز سے
-أہل عزا کے ساتھ فرشتے بھی رو دیےء
-تجھکو دعائیں دیتا ہے بانو کا نونہال
+اہل عزا کے ساتھ فرشتے بھی رو دیے
+تجھ کو دعائیں دیتا ہے بانو کا نونہال
