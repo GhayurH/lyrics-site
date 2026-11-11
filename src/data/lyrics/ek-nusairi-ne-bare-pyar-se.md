@@ -9,69 +9,69 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek Nusairi ne bare pyar se kal mujh se kaha
+  Ek Nusairi ne bare pyaar se kal mujh se kaha
   Lafz Maula ke takalluf mein na par keh de Khuda
-  Tu bhi nayab Nusairi ho ja
+  Tu bhi naayaab Nusairi ho ja
 
   1
-  Phir woh yun kehne laga baith main samjhata hun
-  Haidari wasf ke safhe tujhe ginwata hun
+  Phir woh yuṅ kehne laga baith main samjhaata huṅ
+  Haidari wasf ke safhe tujhe ginwaata huṅ
   Dube suraj ka palat aana hai pehla safha
-  Tu bhi nayab Nusairi ho ja
+  Tu bhi naayaab Nusairi ho ja
 
   2
-  Dusre safhe pe likha hai baunwan-e-jali
-  Zindagi aur ajal dono pe qadir hai Ali
+  Dusre safhe pe likha hai baunwaan-e-jali
+  Zindagi aur ajal donoṅ par qaadir hai Ali
   Baat sachchi hai to phir maan le kehna mera
-  Tu bhi nayab Nusairi ho ja
+  Tu bhi naayaab Nusairi ho ja
 
   3
-  Mere Maabud ne gundha hai khamir-e-Adam
-  Us ki marzi se hi chalta hai nizam-e-aalam
-  Shoba-e-rizq ka malik bhi hai mera hi Khuda
-  Tu bhi nayab Nusairi ho ja
+  Mere Maabud ne gundha hai khamir-e-Aadam
+  Us ki marzi se hi chalta hai nizaam-e-aalam
+  Shoba-e-rizq ka maalik bhi hai mera hi Khuda
+  Tu bhi naayaab Nusairi ho ja
 
   4
   Apni thokar se jo kar deta hai murde zinda
-  Shab-e-Meraj jo tha parde ke pichhe goya
-  Kaun se munh se use kehte hain bande banda
-  Tu bhi nayab Nusairi ho ja
+  Shab-e-Meraaj jo tha parde ke pichhe goya
+  Kaun se muṅh se use kehte haiṅ bande banda
+  Tu bhi naayaab Nusairi ho ja
 
   5
-  Jo ye kehte hain Khuda ki hamein pahchan nahi
-  Khud hain dhoke mein Ali ka unhein irfan nahi
-  Aur samajhte hain Nusairi ko hua hai dhoka
-  Tu bhi nayab Nusairi ho ja
+  Jo ye kehte haiṅ Khuda ki hameiṅ pehchaan nahiṅ
+  Khud haiṅ dhoke mein Ali ka unheiṅ irfaan nahiṅ
+  Aur samajhte haiṅ Nusairi ko hua hai dhoka
+  Tu bhi naayaab Nusairi ho ja
 
   6
-  Jab woh khamosh hua main ne jawaban ye kaha
-  Tu bhi meri tarha Shia ho ja
-  Maan le baat meri mujhko Nusairi na bana
-  Tu bhi meri tarha Shia ho ja
+  Jab woh khaamosh hua main ne jawaaban ye kaha
+  Tu bhi meri tarah Shia ho ja
+  Maan le baat meri mujh ko Nusairi na bana
+  Tu bhi meri tarah Shia ho ja
 
   7
-  Tu ye kehta hai ke suraj ko bulaya kis ne
-  Main ye kehta hun ke suraj ko banaya kis ne
-  Jis ne suraj ko banaya hai wohi hoga Khuda
-  Tu bhi meri tarha Shia ho ja
+  Tu ye kehta hai ke suraj ko bulaaya kis ne
+  Main ye kehta huṅ ke suraj ko banaaya kis ne
+  Jis ne suraj ko banaaya hai wohi hoga Khuda
+  Tu bhi meri tarah Shia ho ja
 
   8
-  Phir kaha main ne ke tu hai abhi nawaqif-e-raz
-  Tu ne dekhi nahi parhte huwe Haider ko namaz
+  Phir kaha main ne ke tu hai abhi naawaaqif-e-raaz
+  Tu ne dekhi nahiṅ parhte hue Haidar ko namaaz
   Woh Khuda tha to phir us ne kiya kis ka sajda
-  Tu bhi meri tarha Shia ho ja
+  Tu bhi meri tarah Shia ho ja
 
   9
-  Fahm o idrak ke bikhre huwe chun le moti
-  Chhote bachchon ki tarha zid nahi achchhi hoti
-  Haq ko pahchan Ali Maula kare tera bhala
-  Tu bhi meri tarha Shia ho ja
+  Fahm o idraak ke bikhre hue chun le moti
+  Chhote bachchoṅ ki tarah zid nahiṅ achchhi hoti
+  Haq ko pehchaan Ali Maula kare tera bhala
+  Tu bhi meri tarah Shia ho ja
 
   10
-  Meri nayab dalilon pe bhi woh chup hi raha
+  Meri naayaab daliloṅ pe bhi woh chup hi raha
   Us ki hatdharmi pe aakhir mujhe kehna hi para
-  Is se pahle ke tu ho jaaye giraftar-e-bala
-  Tu bhi meri tarha Shia ho ja
+  Is se pehle ke tu ho jaaye giraftaar-e-bala
+  Tu bhi meri tarah Shia ho ja
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---

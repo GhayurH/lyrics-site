@@ -6,42 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Dhal na jaaye raat
 
-  Qaima qaima ek sada hai allah khair kare
-  Pyason ke lab par ye sada hai allah khair kare
+  Khaima khaima ek sada hai Allah khair kare
+  Pyaasoṅ ke lab par ye sada hai Allah khair kare
 
   1
-  Har bibi hai zeb e musalla aankhon mein hai ashk musalsal
-  Dil ki dhadkan mehwe buka hai allah khair kare
+  Har Bibi hai zeb-e-musalla aankhoṅ mein hai ashk musalsal
+  Dil ki dharkan mahw-e-buka hai Allah khair kare
 
   2
-  Hai shabe ashoor ka manzar roti hai namoose payambar
-  Raat guzarne par ye sada hai allah khair kare
+  Hai shab-e-Aashur ka manzar roti hai naamus-e-Payambar
+  Raat guzarne par ye sada hai Allah khair kare
 
   3
-  Kitni hasrat se bhai ko dekh rahi hai saani e zehra
-  Jaane khwaab mein kya dekha hai allah khair kare
+  Kitni hasrat se bhaai ko dekh rahi hai saani-e-Zehra
+  Jaane khwaab mein kya dekha hai Allah khair kare
 
   4
-  Dekh ke mashriq ki jaanib kehti hai bhai se zainab
-  Aaj ye suraj kya kehta hai allah khair kare
+  Dekh ke mashriq ki jaanib kehti hai bhaai se Zainab
+  Aaj ye suraj kya kehta hai Allah khair kare
 
   5
-  Dekh ke roti hai bano jhoole mein asghar ka chehra
-  Jaise jhoola khud kehta hai allah khair kare
+  Dekh ke roti hai Bano jhule mein Asghar ka chehra
+  Jaise jhula khud kehta hai Allah khair kare
 
   6
-  Kehti hai dil thaam ke laila jee bhar ke akbar ko dekhun
-  Kisko khabar kal kya hona hai allah khair kare
+  Kehti hai dil thaam ke Laila ji bhar ke Akbar ko dekhuṅ
+  Kis ko khabar kal kya hona hai Allah khair kare
 
   7
-  Likhne se khaasir hai mazhar kaise likhe us raat ka manzar
-  Dil mein gham ka dard utha hai allah khair kare
+  Likhne se qaasir hai Mazhar kaise likhe us raat ka manzar
+  Dil mein gham ka dard utha hai Allah khair kare
 # source_id: nohayonline:621cf9d59ae00ed0a8b2
 # source_url: https://www.nohayonline.com/details_content.php?id=3108
 # raw_sha256: 695412cf0878a7f2b3e1d4e1e9e8b9b99cb7238388c52531479970638a3e0a8c
@@ -52,23 +53,23 @@ romanLyrics: |-
 پیاسوں کے لب پر یہ صدا ہے اللہ خیر کرے
 
 ۱
-ہر بی بی ہے زیب مصلیٰ آنکھوں میں ہے اشک مسلسل
-دل کی دھڑکن محو بکا ہے اللہ خیر کرے
+ہر بی‌بی ہے زیبِ مصلیٰ آنکھوں میں ہے اشک مسلسل
+دل کی دھڑکن محوِ بکا ہے اللہ خیر کرے
 
 ۲
-ہے شب عاشور کا منظر روتی ہے ناموسِ پیمبر
+ہے شبِ عاشور کا منظر روتی ہے ناموسِ پیمبر
 رات گزرنے پر یہ صدا ہے اللّٰہ خیر کرے
 
 ۳
-کتنی حسرت سے بھای کو دیکھ رہی ہے ثانیء زہرا
+کتنی حسرت سے بھائی کو دیکھ رہی ہے ثانیِ زہرا
 جانے خواب میں کیا دیکھا ہے اللہ خیر کرے
 
 ۴
-دیکھ کے مشرق کی جانب کہتی ہے بھای سے زینب
+دیکھ کے مشرق کی جانب کہتی ہے بھائی سے زینب
 آج یہ سورج کیا کہتا ہے اللہ خیر کرے
 
 ۵
-دیکھ کے روتی بانو جھولے میں اصغر کا چہرہ
+دیکھ کے روتی ہے بانو جھولے میں اصغر کا چہرہ
 جیسے جھولا خود کہتا ہے اللہ خیر کرے
 
 ۶
