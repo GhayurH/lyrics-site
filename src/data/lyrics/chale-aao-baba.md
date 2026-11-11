@@ -6,75 +6,78 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Chale aao baba
-  Sunati hai mujhko phupi jaan kahani
-  Karun kya magar neend aati nahi hai
+
+  Sunaati hai mujhko phuphi jaaṅ kahaani
+  Karuṅ kya magar nind aati nahiṅ hai
   Chale aao baba chale aao baba
-  Mujhe khaak par neend aati nahi hai
+  Mujhe khaak par nind aati nahiṅ hai
 
   1
-  Kaleje mein uth'ta hai ek dard aisa
+  Kaleje mein uthta hai ek dard aisa
   Ke jis ke liye na dawa na dilaasa
-  Mai kal tak to seene pe soti thi baba
-  Yehi soch kar neend aati nahi hai
-  
+  Main kal tak to sine pe soti thi baba
+  Yehi soch kar nind aati nahiṅ hai
+
   2
-  Hua kyun na jaane sitamgar zamana
-  Kabhi ghurkiyan de kabhi taziyana
+  Hua kiuṅ na jaane sitamgar zamaana
+  Kabhi ghurkiyaaṅ de kabhi taaziyaana
   Yehi khauf hai jo sataata hai mujhko
-  Isi baat par neend aati nahi hai
-  
+  Isi baat par nind aati nahiṅ hai
+
   3
-  Rulaati hai mujhko layeeno ki baatein
-  Guzarti hai aise yateemi ki raatein
-  Kahin shimr aakar tamache na maare
-  Hai dil mein ye darr neend aati nahi hai
-  
+  Rulaati hai mujhko lainoṅ ki baateṅ
+  Guzarti hai aise yatimi ki raateṅ
+  Kahiṅ Shimr aa kar tamaanche na maare
+  Hai dil mein ye dar nind aati nahiṅ hai
+
   4
   Khabar hai ye mujhko khata meri kya hai
-  Yehi na ke jadh mera mushkil kusha hai
-  Sunaye wo mushkil kusha mujhko lori
-  Unhe do khabar neend aati nahi hai
-  
+  Yehi na ke jad mera mushkil kusha hai
+  Sunaaye wo mushkil kusha mujhko lori
+  Unheṅ do khabar nind aati nahiṅ hai
+
   5
-  Yateemi ka ehsaas hi ek sitam hai
-  Musalsal tadapne se honton pe dam hai
-  Agar ab ye zindan hi ghar hai mera
-  Chale aao ghar neend aati nahi hai
-  
+  Yatimi ka ehsaas hi ek sitam hai
+  Musalsal tarapne se hoṅtoṅ pe dam hai
+  Agar ab ye zindaan hi ghar hai mera
+  Chale aao ghar nind aati nahiṅ hai
+
   6
-  Kabhi maine socha nahi tha ye baba
-  Ke tumse bichad kar bhi jeena padega
-  Tumhare bina hi mujhe ab hai jeena
-  Yehi jaan kar neend aati nahi hai
-  
+  Kabhi main ne socha nahiṅ tha ye baba
+  Ke tum se bichhar kar bhi jina parega
+  Tumhaare bina hi mujhe ab hai jina
+  Yehi jaan kar nind aati nahiṅ hai
+
   7
-  Phupi jaan se aksar suna hai ye nauha
-  Tadapta hai ban mein shahe deen ka laasha
+  Phuphi jaaṅ se aksar suna hai ye nauha
+  Tarapta hai ban mein shaah-e-diṅ ka laasha
   Mere paas aa jao maqtal se baba
-  Tumhe bhi agar neend aati nahi hai
-  
+  Tumheṅ bhi agar nind aati nahiṅ hai
+
   8
-  Masayeb ne ye haal sab ka kiya hai
-  Ke din raat matam hai aaho buka hai
-  Phupi ho ke sajjad ho ya sakina
-  Kisi ko idhar neend aati nahi hai
-  
+  Masaaib ne ye haal sab ka kiya hai
+  Ke din raat maatam hai aah o buka hai
+  Phuphi ho ke Sajjad ho ya Sakina
+  Kisi ko idhar nind aati nahiṅ hai
+
   9
-  Ye irfan o mazhar ke dil ki sada hai
-  Jahan shaahzadi ka madfan bana hai
-  Hai jisne bhi dekha sitam ka wo zindan
-  Usay umr bhar neend aati nahi hai
+  Ye Irfan o Mazhar ke dil ki sada hai
+  Jahaaṅ shaahzaadi ka madfan bana hai
+  Hai jis ne bhi dekha sitam ka wo zindaaṅ
+  Use umr bhar nind aati nahiṅ hai
 # source_id: nohayonline:c1b66db1665df0012beb
 # source_url: https://www.nohayonline.com/details_content.php?id=3205
 # raw_sha256: 721d89fd18aa8d1c7f41b84581b2ad7369c95b09673c47eeb1aea63e5cb8afb8
 ---
 
 چلے آؤ بابا
+
 سناتی ہے مجھکو پھپھی جاں کہانی
 کروں کیا مگر نیند آتی نہیں ہے
 چلے آؤ بابا چلے آؤ بابا
@@ -100,8 +103,8 @@ romanLyrics: |-
 
 ۴
 خبر ہے یہ مجھکو خطا میری کیا ہے
-یہی نہ کہ جد میرا مشکل کشاء ہے
-سناے وہ مشکل کشاء مجھکو لوری
+یہی نہ کہ جد میرا مشکل کشا ہے
+سنائے وہ مشکل کشا مجھکو لوری
 انہیں دو خبر نیند آتی نہیں ہے
 
 ۵
@@ -123,7 +126,7 @@ romanLyrics: |-
 تمہیں بھی اگر نیند آتی نہیں ہے
 
 ۸
-مصایب نے یہ حال سب کا کیا ہے
+مصائب نے یہ حال سب کا کیا ہے
 کہ دن رات ماتم ہے آہ و بکا ہے
 پھپھی ہو کہ سجاد ہو یا سکینہ
 کسی کو ادھر نیند آتی نہیں ہے

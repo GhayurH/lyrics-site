@@ -6,61 +6,62 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chala ran ko tera baba sakina
-  
+  Chala ran ko tera baba Sakina
+
   1
-  Na akbar hai na abbas e dilawar
-  Na hai aun o mohamed aur na asghar
-  Sar e maqtal hoon mai tanha sakina
-  
+  Na Akbar hai na Abbas-e-dilaawar
+  Na hai Aun o Muhammad aur na Asghar
+  Sar-e-maqtal huṅ main tanha Sakina
+
   2
-  Chacha jo naaz uthaata tha tumhare
-  Wo jaa kar sogaya darya kanare
-  Tujhe ab chod kar tanha sakina
-  
+  Chacha jo naaz uthaata tha tumhaare
+  Wo jaa kar so gaya darya kinaare
+  Tujhe ab chhor kar tanha Sakina
+
   3
-  Sitamgar aayenge qaime jalane
-  Chalenge tujhpa beti taziyane
-  Milega yun tujhe pursa sakina
-  
+  Sitamgar aayeṅ ge khaime jalaane
+  Chaleṅ ge tujh pe beti taaziyaane
+  Milega yuṅ tujhe pursa Sakina
+
   4
-  Koi ab tujhko behlaye to kaise
-  Meri beti ko neend aaye to kaise
-  Na hoga ab mera seena sakina
-  
+  Koi ab tujhko behlaaye to kaise
+  Meri beti ko nind aaye to kaise
+  Na hoga ab mera sina Sakina
+
   5
-  Mai waqif hoon tu khayegi tamache
-  Tere ruqsaar ho jayenge neele
-  Dilaasa kaun ab dega sakina
-  
+  Main waaqif huṅ tu khaaye gi tamaanche
+  Tere rukhsaar ho jaayeṅ ge nile
+  Dilaasa kaun ab dega Sakina
+
   6
-  Sitam zaalim bahot dhayenge bibi
-  Palat kar hum na ab aayenge bibi
-  Sada hum ko na ab dena sakina
-  
+  Sitam zaalim bahut dhaayeṅ ge Bibi
+  Palat kar hum na ab aayeṅ ge Bibi
+  Sada hum ko na ab dena Sakina
+
   7
-  Yateemi taziyano ki aziyat
-  Musibat ka safar har pal qayamat
-  Ye sab kuch hai tujhe sehna sakina
-  
+  Yatimi taaziyaanoṅ ki aziyat
+  Musibat ka safar har pal qayaamat
+  Ye sab kuchh hai tujhe sehna Sakina
+
   8
-  Tere kaano se chin jayenge gowhar
-  Bahot rulwayenge tujhko sitamgar
-  Musalsil sabr hai karna sakina
-  
+  Tere kaanoṅ se chhin jaayeṅ ge gauhar
+  Bahut rulwaayeṅ ge tujhko sitamgar
+  Musalsal sabr hai karna Sakina
+
   9
-  Rahegi humsafar tashna dahani
-  Na de paaya tujhe ek boond pani
-  Tera baba hai sharminda sakina
-  
+  Rahegi hamsafar tashna dahaani
+  Na de paaya tujhe ek bund paani
+  Tera baba hai sharminda Sakina
+
   10
-  Tha qaimon mein rasheed us waqt mehshar
-  Sakina se yehi kehte thay sarwar
-  Khuda hafiz meri dukhiya sakina
+  Tha khaimoṅ mein Rasheed us waqt mahshar
+  Sakina se yehi kehte the Sarwar
+  Khuda haafiz meri dukhiya Sakina
 # source_id: nohayonline:c34bc185c773d116b91e
 # source_url: https://www.nohayonline.com/details_content.php?id=3772
 # raw_sha256: b8f96def7778f6fab9eb9994a030472fb48d933b360a461d77259686bf84b9c6
@@ -79,24 +80,24 @@ romanLyrics: |-
 تجھے اب چھوڑ کر تنہا سکینہ
 
 ۳
-ستمگر آییں گے خیمے جلانے
+ستمگر آئیں گے خیمے جلانے
 چلیں گے تجھ پہ بیٹی تازیانے
 ملے گا یوں تجھے پرسہ سکینہ
 
 ۴
-کوی اب تجھکو بہلاے تو کیسے
-میری بیٹی کو نیند آے تو کیسے
+کوئی اب تجھکو بہلائے تو کیسے
+میری بیٹی کو نیند آئے تو کیسے
 نہ ہوگا اب میرا سینہ سکینہ
 
 ۵
-میں واقف ہوں تو کھاے گی طمانچے
-تیرے رخسار ہو جاییں گے نیلے
+میں واقف ہوں تو کھائے گی طمانچے
+تیرے رخسار ہو جائیں گے نیلے
 دلاسہ کون اب دے گا سکینہ
 
 ۶
-ستم ظالم بہت ڈھاییں گے بی بی
-پلٹ کر ہم نہ اب آییں گے بی بی
-صدا ہم کو نہ اب دے نا سکینہ
+ستم ظالم بہت ڈھائیں گے بی‌بی
+پلٹ کر ہم نہ اب آئیں گے بی‌بی
+صدا ہم کو نہ اب دینا سکینہ
 
 ۷
 یتیمی تازیانوں کی اذیت
@@ -105,7 +106,7 @@ romanLyrics: |-
 
 ۸
 تیرے کانوں سے چھن جائیں گے گوہر
-بہت رلواییں گے تجھکو ستمگر
+بہت رلوائیں گے تجھکو ستمگر
 مسلسل صبر ہے کرنا سکینہ
 
 ۹
