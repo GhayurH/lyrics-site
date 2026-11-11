@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sajid Razvi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Berida shaam ke darbar mein jaana zainab
-  
+  Berida Shaam ke darbaar meiṅ jaana Zainab
+
   1
-  Zalzale aayenge jis waqt zameen ko payham
-  Chaadare cheen ke le jaaye jo baaniye sitam
-  Aur balwe mein tamashayi bane na-mehram
-  Apne baalon hi se moo apna chupana zainab
-  
+  Zalzale aaeṅ ge jis waqt zamiṅ ko paiham
+  Chaadareṅ chhin ke le jaaye jo baani-e-sitam
+  Aur balwe meiṅ tamaashaai bane naamahram
+  Apne baaloṅ hi se muṅh apna chhupaana Zainab
+
   2
-  Meri naadan sakina ko na rone dena
-  Baad mere koi takleef na hone dena
-  Garm reti pa kabhi usko na sone dena
-  Apne seene pe sakina ko sulana zainab
-  
+  Meri naadaan Sakina ko na rone dena
+  Baad mere koi taklif na hone dena
+  Garm reti pe kabhi us ko na sone dena
+  Apne sine pe Sakina ko sulaana Zainab
+
   3
-  Ghurkiya meri sakina ko jo de shimr e layeen
-  Sayliya maarne aaye jo usay woh be-deen
-  Khauf ke maare nikal jaaye na jangle mein kahin
-  Apni aaghosh mein tum usko chupana zainab
-  
+  Ghurkiyaṅ meri Sakina ko jo de Shimr-e-laaiṅ
+  Sailiyaṅ maarne aaye jo use wo bediṅ
+  Khauf ke maare nikal jaaye na jangal meiṅ kahiṅ
+  Apni aaghosh meiṅ tum us ko chhupaana Zainab
+
   4
-  Ye luta karwan jis waqt madina pahunche
-  Aake jo dukhtare beemar pidar ko pooche
-  Aur baysheer ko jis waqt wo dukhiya dhoonde
-  Meri sughra ko kaleje se lagana zainab
-  
+  Ye luta kaarwaaṅ jis waqt Madina pahuṅche
+  Aa ke jo dukhtar-e-bimaar pidar ko puchhe
+  Aur beshir ko jis waqt wo dukhiya dhundhe
+  Meri Sughra ko kaleje se lagaana Zainab
+
   5
-  Khaafila ahle haram ka jo madina jaaye
-  Aur asnaye safar mein mera maqtal aaye
-  Tumko fursat jo ghadi bhar ke liye mil jaaye
-  Chund aansoo meri turbat pe bahana zainab
-  
+  Qaafila Ahl-e-Haram ka jo Madina jaaye
+  Aur asnaa-e-safar meiṅ mera maqtal aaye
+  Tum ko fursat jo ghari bhar ke liye mil jaaye
+  Chand aaṅsu meri turbat pe bahaana Zainab
+
   6
-  Karbala mein jo mere ghar pe musibat guzri
-  Aur baazaaro mein tum par jo aziyat guzri
-  Muqtasar yeh hai ke jo kuch bhi qayamat guzri
-  Saari rudaad meri maa ko sunana zainab
+  Karbala meiṅ jo mere ghar pe musibat guzri
+  Aur bazaaroṅ meiṅ tum par jo aziyat guzri
+  Mukhtasar ye hai ke jo kuchh bhi qayaamat guzri
+  Saari rudaad meri maaṅ ko sunaana Zainab
 # source_id: nohayonline:7d83196911f0c9dfa20d
 # source_url: https://www.nohayonline.com/details_content.php?id=192
 # raw_sha256: df68e1237a36011aa766de18932bd33035a4c18fc0460c48052f7a1626629e83

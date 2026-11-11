@@ -6,45 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Berida shaam ke bazaar mein jaati hai behan
-  Aankhein abbas khuli mat rakhna
-  
+  Berida Shaam ke bazaar meiṅ jaati hai behan
+  Aankheṅ Abbas khuli mat rakhna
+
   1
-  Bhai is chand se chehre ko na lag jaye grahan
-  
+  Bhaai is chaand se chehre ko na lag jaaye grahan
+  Aankheṅ Abbas khuli mat rakhna
+
   2
-  Teri ghairat ye gawara na karegi bhaiya
-  Sab tamashayi hai aur bhai behan be-parda
-  Badti jaati hai ay abbas kaleje mein chuban
-  
+  Teri ghairat ye gawaara na kare gi bhaiya
+  Sab tamaashaai haiṅ aur bhaai behan beparda
+  Barhti jaati hai ye Abbas kaleje meiṅ chubhan
+  Aankheṅ Abbas khuli mat rakhna
+
   3
-  Tumko abbas bahot tha mere parde ka khayaal
-  Aa gaya shaam ka bazaar aur zainab hai nidhaal
-  Tere marne se badi zainab e kubra ki thakan
-  
+  Tum ko Abbas bahut tha mere parde ka khayaal
+  Aa gaya Shaam ka bazaar aur Zainab hai nidhaal
+  Tere marne se bari Zainab-e-Kubra ki thakan
+  Aankheṅ Abbas khuli mat rakhna
+
   4
-  Ay wafadaar sakina ka gala jakda hai
-  Ashk ke badle teri aankh se khoon behta hai
-  Hoga ye ranj bhatije ke hai haathon mein rasan
-  
+  Ae wafaadaar Sakina ka gala jakra hai
+  Ashk ke badle teri aankh se khuṅ behta hai
+  Hoga ye ranj bhatije ke hai haathoṅ meiṅ rasan
+  Aankheṅ Abbas khuli mat rakhna
+
   5
-  Thodi hi dayr ko rukta tera sar naize par
-  Be-rida sab mera sar dekh ke phir tera sar
-  Khauf hai soch ke rukh jaye na dil ki dhadkan
-  
+  Thori hi der ko rukta tera sar naize par
+  Berida sab mera sar dekh ke phir tera sar
+  Khauf hai soch ke ruk jaaye na dil ki dharkan
+  Aankheṅ Abbas khuli mat rakhna
+
   6
-  Ek ghatri mein hamein laash mili qasim ki
-  Dasht mein baad tere aisi qayamat tooti
-  Ran mein pamaal hua is tarha naushaah ka tan
-  
+  Ek ghatri meiṅ hameṅ laash mili Qasim ki
+  Dasht meiṅ baad tere aisi qayaamat tuti
+  Ran meiṅ paamaal hua is tarah naushaah ka tan
+  Aankheṅ Abbas khuli mat rakhna
+
   7
-  Boli zainab ke sakina ki rida aayi hai
-  Na yateema hai na zinda mera bhai hai
-  Thi wo rehan o mubarak to ajab si uljhan
+  Boli Zainab ke Sakina ki rida aai hai
+  Na yatima hai na zinda mera bhaai hai
+  Thi wo Rehan o Mubarak to ajab si uljhan
+  Aankheṅ Abbas khuli mat rakhna
 # source_id: nohayonline:c7ac85134f698e639f61
 # source_url: https://www.nohayonline.com/details_content.php?id=1387
 # raw_sha256: 611723550fb51f6543c742383f953db008553402570d89a8dc6dfbbb9cc29956
@@ -54,34 +62,41 @@ romanLyrics: |-
 آنکھیں عباس کھلی مت رکھنا
 
 ۱
-بھای اس چاند سے چہرے کو نہ لگ جاے گرہن
+بھائی اس چاند سے چہرے کو نہ لگ جائے گرہن
+آنکھیں عباس کھلی مت رکھنا
 
 ۲
 تیری غیرت یہ گوارا نہ کرے گی بھیا
-سب تماشائی ہیں اور بھای بہن بے پردہ
+سب تماشائی ہیں اور بھائی بہن بے پردہ
 بڑھتی جاتی ہے یہ عباس کلیجے میں چبھن
+آنکھیں عباس کھلی مت رکھنا
 
 ۳
 تم کو عباس بہت تھا میرے پردے کا خیال
 آ گیا شام کا بازار اور زینب ہے نڈھال
 تیرے مرنے سے بڑی زینب کبریٰ کی تھکن
+آنکھیں عباس کھلی مت رکھنا
 
 ۴
 اے وفادار سکینہ کا گلا جکڑا ہے
-آشک کے بدلے تیری آنکھ سے خوں بہتا ہے
+اشک کے بدلے تیری آنکھ سے خوں بہتا ہے
 ہوگا یہ رنج بھتیجے کے ہے ہاتھوں میں رسن
+آنکھیں عباس کھلی مت رکھنا
 
 ۵
 تھوڑی ہی دیر کو رکتا تیرا سر نیزے پر
 بے ردا سب میرا سر دیکھ کے پھر تیرا سر
-خوف ہے سوچ کے رک جاے نہ دل کی دھڑکن
+خوف ہے سوچ کے رک جائے نہ دل کی دھڑکن
+آنکھیں عباس کھلی مت رکھنا
 
 ۶
 ایک گھٹڑی میں ہمیں لاش ملی قاسم کی
 دشت میں بعد تیرے ایسی قیامت ٹوٹی
 رن میں پامال ہوا اس طرح نوشاہ کا تن
+آنکھیں عباس کھلی مت رکھنا
 
 ۷
-بولی زینب کہ سکینہ کی ردا آی ہے
-نہ یتیمہ ہے نہ زندہ میرا بھای ہے
+بولی زینب کہ سکینہ کی ردا آئی ہے
+نہ یتیمہ ہے نہ زندہ میرا بھائی ہے
 تھی وہ ریحان و مبارک تو عجب سی الجھن
+آنکھیں عباس کھلی مت رکھنا

@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Be rida shaam ki galiyon se guzar zainab ka
-  Phir se abid pe hai tehreer safar zainab ka
+  Berida Shaam ki galiyoṅ se guzar Zainab ka
+  Phir se Aabid pe hai tahrir safar Zainab ka
 
   1
-  Khoon e shabbir ki har boond ka maqrooz bashar
-  Khoon e shabbir hai maqrooz ye magar zainab ka
+  Khun-e-Shabbir ki har bund ka maqruz bashar
+  Khun-e-Shabbir hai maqruz ye magar Zainab ka
 
   2
-  Gir pada khaak pe abbas ka sar maqtal may
-  Nok e naiza se na dekha gaya sar zainab ka
+  Gir para khaak pe Abbas ka sar maqtal meiṅ
+  Nok-e-naiza se na dekha gaya sar Zainab ka
 
   3
-  Lashkar e shaam ki tayghon may ghira hai akbar
-  Chup gaya kitni ghata'on may qamar zainab ka
+  Lashkar-e-Shaam ki teghoṅ meiṅ ghira hai Akbar
+  Chhup gaya kitni ghataaoṅ meiṅ qamar Zainab ka
 
   4
-  Laash e akbar se lipat kar ye hawa kehti thi
-  Kitna chalni kiya barchi ne jigar zainab ka
+  Laash-e-Akbar se lipat kar ye hawa kehti thi
+  Kitna chhalni kiya barchhi ne jigar Zainab ka
 
   5
-  Ye alag baat ke mehfooz raha deen e rasool
-  Ye alag baat ke loota gaya ghar zainab ka
+  Ye alag baat ke mahfuz raha din-e-Rasool
+  Ye alag baat ke luta gaya ghar Zainab ka
 
   6
-  Jis jagah shaam e ghariban ki ho majlis barpa
-  Zikr hota hai wahan taa'ba sehar zainab ka
+  Jis jagah Shaam-e-Gharibaṅ ki ho majlis barpa
+  Zikr hota wahaaṅ taaba sahar Zainab ka
 
   7
-  Aur goonjega abhi arz o samaa may mohsin
-  Matam e ibne ali may hai asar zainab ka
+  Aur gunje ga abhi arz o samaaṅ meiṅ Mohsin
+  Maatam-e-Ibn-e-Ali Ali meiṅ hai asar Zainab ka
 # source_id: nohayonline:59235fb5d3431ca6c8ef
 # source_url: https://www.nohayonline.com/details_content.php?id=1892
 # raw_sha256: 865b6b78412bf7dcd95972fb4b16fe8092bccc5608f652c04f775eb4ae92ee70
@@ -48,7 +49,7 @@ romanLyrics: |-
 پھر سے عابد پہ ہے تحریر سفر زینب کا
 
 ۱
-خونِ شبیر کی ہر بوندھ کا مقروض بشر
+خونِ شبیر کی ہر بوند کا مقروض بشر
 خونِ شبیر ہے مقروض یہ مگر زینب کا
 
 ۲
