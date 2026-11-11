@@ -1,114 +1,117 @@
 ---
 title: "جاگو اے بالی سکینہ دیتے ہیں آواز بابا"
-alternateTitle: "Chal Sakina Chale"
+alternateTitle: "Chal Sakina Chaleṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Chal Sakina Chale"]
 published: false
 romanLyrics: |-
-  Jago ay bali sakina dete hai awaaz baba
-  Ek shab sakina sham ke zindan mein sogayi
-  Baba ko dekha khwab mein kehte thay wo yehi
-  Bahot ro chuki meri jaan jaag ja
-  Chal sakina chale karbala
-  Saath baba ke rehna sada
+  Jaago ae baali Sakina dete haiṅ aawaaz Baba
+
+  Ek shab Sakina Shaam ke zindaaṅ mein so gayi
+  Baba ko dekha khwaab mein kehte the woh yehi
+  Bahut ro chuki meri jaaṅ jaag jaa
+  Chal Sakina chaleṅ Karbala
+  Saath Baba ke rehna sada
 
   1
-  Mujhse bichdi to soyi nahi meri jaan
-  Ek ek saans tum par thi kohe garan
-  Aur us par sitam qaid ki sakhtiyan
-  Teri aah o buka par bhi pabandiyan
-  Is liye kar raha hoo buka
+  Mujh se bichhri to soi nahiṅ meri jaaṅ
+  Ek ek saans tum par hai koh-e-garaaṅ
+  Aur is par sitam qaid ki sakhtiyaaṅ
+  Teri aah o buka par bhi paabandiyaaṅ
+  Is liye kar raha huṅ buka
 
   2
-  Hai yahan sirf tanhai taarekiyan
-  Ye ghutan aur taqdeer ki bediyan
-  Chahne wale tere to sab hai wahan
-  Chain aata hai apno ke hi darmiyan
-  Chor kar ab ye shehr e jafa
+  Hai yahaaṅ sirf tanhaai taarikiyaaṅ
+  Yeh ghutan aur taqdir ki beriyaaṅ
+  Chaahne waale tere to sab haiṅ wahaaṅ
+  Chain aata hai apnoṅ ke hi darmiyaaṅ
+  Chhor kar ab yeh shehr-e-jafa
 
   3
-  Yaad karta hai asghar tujhe meri jaan
-  Tujhko awaaz deta hai wo bezaban
-  Wo wahan reh gaya aagayi tu yahan
-  Wo wahan nohakhwan tu yahan nohakhwan
-  Chain dono ko aa jayega
+  Yaad karta hai Asghar tujhe meri jaaṅ
+  Tujh ko aawaaz deta hai woh bezabaaṅ
+  Woh wahaaṅ reh gaya aa gayi tu yahaaṅ
+  Woh wahaaṅ nauha khwaaṅ tu yahaaṅ nauha khwaaṅ
+  Chain donoṅ ko aa jaaye ga
 
   4
-  Saath apne tujhe leke jaunga mai
-  Tere ammu se tujhko milaunga mai
-  Haa tujhe baaliyan bhi pinaunga mai
-  Apne seene pe tujhko sulaunga mai
-  Hai wahan par jahan ek naya
+  Saath apne tujhe le ke jaauṅ ga main
+  Tere ammu se tujh ko milaauṅ ga main
+  Haaṅ tujhe baaliyaaṅ bhi pehnaauṅ ga main
+  Apne sine pe tujh ko sulaauṅ ga main
+  Hai wahaaṅ par jahaaṅ ek naya
 
   5
-  Ab na talwaar o naiza hai na teer hai
-  Karbala ab to ghazi ki jageer hai
-  Tere baba ke khwabon ki tabeer hai
-  Ek aagosh hai jis mein baysheer hai
-  Dil ye tera behel jayega
+  Ab na talwaar o neza hai na tir hai
+  Karbala ab to Ghaazi ki jaagir hai
+  Tere Baba ke khwaaboṅ ki taabir hai
+  Ek aaghosh hai jis mein beshir hai
+  Dil yeh tera behal jaaye ga
 
   6
-  Shaam se muqtalif hai wahan ki faza
-  Kaun tujh par wahan ab karega jafa
-  Tera akbar bhi hai aur tere chacha
-  Saare pehron se azad hai alqama
-  Ab to pani bhi mil jayega
+  Shaam se mukhtalif hai wahaaṅ ki faza
+  Kaun tujh par wahaaṅ ab kare ga jafa
+  Tera Akbar bhi hai aur tere chacha
+  Saare pehroṅ se aazaad hai Alqama
+  Ab to paani bhi mil jaaye ga
 
   7
-  Zakhm saare jigar ke dikhane chalo
-  Apne dukhde chacha ko sunane chalo
-  Jo sitam tum ne jhele batane chalo
-  Khaake karbal ko marham banane chalo
-  Saare zakhmon ki lene dawa
+  Zakhm saare jigar ke dikhaane chalo
+  Apne dukhre chacha ko sunaane chalo
+  Jo sitam tum ne jhele bataane chalo
+  Khaak-e-Karbal ko marham banaane chalo
+  Saare zakhmoṅ ki lene dawa
 
   8
-  Yun to har roz farhan o mazhar yuhin
-  Baap se beti milti thi khwabon mein hi
+  Yuṅ to har roz Farhan o Mazhar yuṅhi
+  Baap se beti milti thi khwaaboṅ mein hi
   Zindagi ka yehi khwaab tha aakhri
-  Yun laga saath baba ke wo laadli
-  Chal basi sun ke bas ye sada
+  Yuṅ laga saath Baba ke woh laadli
+  Chal basi sun ke bas yeh sada
 # source_id: nohayonline:b7c1ab0b33f7e5aa3837
 # source_url: https://www.nohayonline.com/details_content.php?id=73
 # raw_sha256: d9b34a304ff2af1d5129e38cc868e6523550d44a64b0ab3b624d89c285ed866d
 ---
 جاگو اے بالی سکینہ دیتے ہیں آواز بابا
-ایک شب سکینہ شام کے زنداں میں سوگیء
+
+ایک شب سکینہ شام کے زنداں میں سو گئی
 بابا کو دیکھا خواب میں کہتے تھے وہ یہی
 بہت رو چکی میری جاں جاگ جا
 چل سکینہ چلیں کربلا
 ساتھ بابا کے رہنا سدا
 
 ۱
-مجھ سے بچھڑی تو سویء نہیں میری جاں
-ایک اک سانس تم پر ہے کوہ گراں
+مجھ سے بچھڑی تو سوئی نہیں میری جاں
+ایک اک سانس تم پر ہے کوہِ گراں
 اور اس پر ستم قید کی سختیاں
 تیری آہ و بکا پر بھی پابندیاں
-اس لئے کر رہا ہوں بکا
+اس لیے کر رہا ہوں بکا
 
 ۲
-ہے یہاں صرف تنہا یء تاریکیاں
+ہے یہاں صرف تنہائی تاریکیاں
 یہ گھٹن اور تقدیر کی بیڑیاں
 چاہنے والے تیرے تو سب ہیں وہاں
 چین آتا ہے اپنوں کے ہی درمیاں
-چھوڑ کر اب یہ شہر جفا
+چھوڑ کر اب یہ شہرِ جفا
 
 ۳
 یاد کرتا ہے اصغر تجھے میری جاں
-تجھکو آواز دیتا ہے وہ بے زباں
-وہ وہاں رہ گیا آگیء تو یہاں
+تجھ کو آواز دیتا ہے وہ بے زباں
+وہ وہاں رہ گیا آ گئی تو یہاں
 وہ وہاں نوحہ خواں تو یہاں نوحہ خواں
-چین دونوں کو آجائے گا
+چین دونوں کو آ جائے گا
 
 ۴
-ساتھ اپنے تجھے لے کے جاؤنگا میں
-تیرے عمو سے تجھکو ملاوءنگا میں
-ہاں تجھے بالیاں بھی پہناوءنگامیں
-اپنے سینے پہ تجھکو سلاؤں گا میں
+ساتھ اپنے تجھے لے کے جاؤں گا میں
+تیرے عمو سے تجھ کو ملاؤں گا میں
+ہاں تجھے بالیاں بھی پہناؤں گا میں
+اپنے سینے پہ تجھ کو سلاؤں گا میں
 ہے وہاں پر جہاں اک نیا
 
 ۵
@@ -129,7 +132,7 @@ romanLyrics: |-
 زخم سارے جگر کے دکھانے چلو
 اپنے دکھڑے چچا کو سنانے چلو
 جو ستم تم نے جھیلے بتانے چلو
-خاک کربل کو مرحم بنانے چلو
+خاکِ کربل کو مرہم بنانے چلو
 سارے زخموں کی لینے دوا
 
 ۸
