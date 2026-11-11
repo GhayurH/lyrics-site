@@ -1,58 +1,61 @@
 ---
 title: "سیدہ طاہرہ"
-alternateTitle: "Bazaar May Beparda"
+alternateTitle: "Bazaar Mein Beparda"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sayyeda tahera
+  Sayyida Taahira
   Wa hijaba wa ghurbata
-  Bazaar may be parda nabi zaadi khadi hai
-  Har mod pe marne ki dua maang rahi hai
+
+  Bazaar mein beparda Nabi zaadi khari hai
+  Har mor pe marne ki dua maang rahi hai
 
   1
-  Hai haathon may patthar abhi aayi nahi zainab
-  Bazaar may pehle se hi ek bheedh lagi hai
+  Hai haathoṅ mein patthar abhi aayi nahiṅ Zainab
+  Bazaar mein pehle se hi ek bhir lagi hai
 
   2
-  Is gham ki aziyat koi sajjad se pooche
-  Bachpan may sakina ki kamar kaise jhuki hai
+  Is gham ki aziyat koi Sajjad se puchhe
+  Bachpan mein Sakina ki kamar kaise jhuki hai
 
   3
-  Bazaar se lagta hai guzarte hai janaze
-  Khamosh har ek bibi hai marne ki kami hai
+  Bazaar se lagta hai guzarte hai janaaze
+  Khaamosh har ek Bibi hai marne ki kami hai
 
   4
-  Hai aakhri manzil isay darbar na samjho
+  Hai aakhri manzil ise darbaar na samjho
   Maqtal ki taraf shaah ki hamsheer chali hai
 
   5
-  Tasbeeh ke daano ki tarha ek rasan may
-  Har umr ki zahra hai jo paband khadi hai
+  Tasbih ke daanoṅ ki tarah ek rasan mein
+  Har umr ki Zahra hai jo paaband khari hai
 
   6
-  Naam aata hai zainab ka sharabi ki zuban par
-  Sajjad ki ghairat pe qayamat ki ghadi hai
+  Naam aata hai Zainab ka sharaabi ki zabaaṅ par
+  Sajjad ki ghairat pe qayaamat ki ghari hai
 
   7
-  Khoon rone ko qaayam ke ye kaafi hai takallum
-  Zainab ki taraf dekh ke dunya ye hasi hai
+  Khuṅ rone ko qaayam ke ye kaafi hai Takallum
+  Zainab ki taraf dekh ke duniya ye haṅsi hai
 # source_id: nohayonline:24e7beb69baa739b5ce3
 # source_url: https://www.nohayonline.com/details_content.php?id=2401
 # raw_sha256: e0877567893720c93ef3ee27ae1e0c00f9164c763f7e7cb2718ebda0690eb1cd
 ---
 سیدہ طاہرہ
 وا ہجابہ وا غربتا
+
 بازار میں بے پردہ نبی زادی کھڑی ہے
 ہر موڑ پہ مرنے کی دعا مانگ رہی ہے
 
 ۱
-ہے ہاتھوں میں پتھر ابھی آی نہیں زینب
+ہے ہاتھوں میں پتھر ابھی آئی نہیں زینب
 بازار میں پہلے سے ہی اک بھیڑ لگی ہے
 
 ۲
@@ -61,7 +64,7 @@ romanLyrics: |-
 
 ۳
 بازار سے لگتا ہے گزرتے ہے جنازے
-خاموش ہر ایک بی بی ہے مرنے کی کمی ہے
+خاموش ہر ایک بی‌بی ہے مرنے کی کمی ہے
 
 ۴
 ہے آخری منزل اسے دربار نہ سمجھو

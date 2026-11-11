@@ -1,71 +1,74 @@
 ---
-title: "ہاے سجاد ہاے سجاد"
+title: "ہائے سجاد ہائے سجاد"
 alternateTitle: "Bazaar Aa Raha Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye sajjad haye sajjad
-  Haye haye bazaar
-  Bemaar mar na jaaye bazaar aa raha hai
-  Ummat hijab mein hai saydani berida hai
+  Haaye Sajjad haaye Sajjad
+  Haaye haaye bazaar
+
+  Bimaar mar na jaaye bazaar aa raha hai
+  Ummat hijaab mein hai Sayyidaani berida hai
 
   1
   Sajjad ke badan ka har zakhm ro raha hai
-  Kufe ki shaahzadi kufe mein berida hai
-  Sadaat e fatema par kya waqt aagaya hai
+  Kufe ki shaahzaadi Kufe mein berida hai
+  Saadaat-e-Fatema par kya waqt aa gaya hai
 
   2
-  Zahra ki betiyon ke cheene gaye hai parde
-  Ab chaadron ke badle koi kafan udha de
-  Abid janaze le kar bazaar mein khada hai
+  Zahra ki betiyoṅ ke chhine gaye hai parde
+  Ab chaadroṅ ke badle koi kafan urha de
+  Aabid janaaze le kar bazaar mein khara hai
 
   3
-  Haathon mein shaam waale pathar liye huwe hai
-  Ek jashn ka samaa hai roshan diye huwe hai
-  Dil bhujte jaa rahe hai ye shaam ki hawa hai
+  Haathoṅ mein Shaam waale patthar liye hue hai
+  Ek jashn ka samaaṅ hai roshan diye hue haiṅ
+  Dil bujhte jaa rahe haiṅ ye Shaam ki hawa hai
 
   4
-  Bardasht is sitam ko koi karega kaise
-  Bete ke aage khaaye ek baap taziyane
-  Baqir ka imtehan to sajjad se bada hai
+  Bardaasht is sitam ko koi karega kaise
+  Bete ke aage khaaye ek baap taaziyaane
+  Baqir ka imtihaaṅ to Sajjad se bara hai
 
   5
-  Jaari lahoo hai sar se kya waqte bekasi hai
+  Jaari lahu hai sar se kya waqt-e-bekasi hai
   Naize pe sheh ke sar ko hasrat se dekhti hai
-  Zainab ko raaste mein pathar jahan laga hai
+  Zainab ko raaste mein patthar jahaaṅ laga hai
 
   6
-  Maqtal mein tera zarbein shabbir par chali hai
-  Na-mehramon ki nazrein zainab pe pad rahi hai
-  Chaaron taraf se khanjar bibi pe chal raha hai
+  Maqtal mein tera zarbeiṅ Shabbir par chali hai
+  Naamahramoṅ ki nazreiṅ Zainab pe par rahi hai
+  Chaaroṅ taraf se khanjar Bibi pe chal raha hai
 
   7
-  Ye khaafila haram ka zindan tak aagaya hai
-  Suraj ye baadlon mein chup chup ke poochta hai
-  Be jurm qaidiyon ko saaya kahan mila hai
+  Ye qaafila haram ka zindaaṅ tak aa gaya hai
+  Suraj ye baadloṅ mein chhup chhup ke puchhta hai
+  Bejurm qaidiyoṅ ko saaya kahaaṅ mila hai
 
   8
-  Shabbir ki sakina bazaar se hai guzri
-  Itne lage hai pathar pehlu hua hai zakhmi
-  Pehchanna hai mushkil wo haal hogaya hai
+  Shabbir ki Sakina bazaar se hai guzri
+  Itne lage hai patthar pehlu hua hai zakhmi
+  Pehchaan na hai mushkil wo haal ho gaya hai
 
   9
-  Roye hai khoon takallum chalees saal maula
-  Saansein bhi chal rahi thi lekin nahi thay zinda
-  Sajjad ka to maqtal darbar e shaam ka hai
+  Roye haiṅ khuṅ Takallum chaalis saal Maula
+  Saaṅseiṅ bhi chal rahi thi lekin nahiṅ the zinda
+  Sajjad ka to maqtal darbaar-e-Shaam ka hai
 # source_id: nohayonline:17779da14984cb32072e
 # source_url: https://www.nohayonline.com/details_content.php?id=2400
 # raw_sha256: 3a8e7db68dff021f51ce6f372d46616a99bc08dade67abd780340d3e8ff7075d
 ---
-ہاے سجاد ہاے سجاد
-ہاے ہاے بازار
-بیمار مر نہ جاے بازار آ رہا ہے
+ہائے سجاد ہائے سجاد
+ہائے ہائے بازار
+
+بیمار مر نہ جائے بازار آ رہا ہے
 امت ہجاب میں ہے سیدانی بے ردا ہے
 
 ۱
@@ -74,18 +77,18 @@ romanLyrics: |-
 سادات فاطمہ پر کیا وقت آ گیا ہے
 
 ۲
-زہرا کی بیٹیوں کے چھینے گےء ہے پردے
+زہرا کی بیٹیوں کے چھینے گئے ہے پردے
 اب چادروں کے بدلے کوئی کفن اڑھا دے
 عابد جنازے لے کر بازار میں کھڑا ہے
 
 ۳
-ہاتھوں میں شام والے پتھر لیےء ہوے ہے
-اک جشن کا سماں ہے روشن دیے ہوے ہیں
+ہاتھوں میں شام والے پتھر لیے ہوئے ہے
+اک جشن کا سماں ہے روشن دیے ہوئے ہیں
 دل بجھتے جا رہے ہیں یہ شام کی ہوا ہے
 
 ۴
 برداشت اس ستم کو کوئی کرے گا کیسے
-بیٹے کے آگے کھاے اک باپ تازیانے
+بیٹے کے آگے کھائے اک باپ تازیانے
 باقر کا امتحاں تو سجاد سے بڑا ہے
 
 ۵
@@ -95,8 +98,8 @@ romanLyrics: |-
 
 ۶
 مقتل میں تیرا ضربیں شبیر پر چلی ہے
-نہ محرموں کی نظریں زینب پہ پڑ رہی ہے
-چاروں طرف سے خنجر بی بی پہ چل رہا ہے
+نامحرموں کی نظریں زینب پہ پڑ رہی ہے
+چاروں طرف سے خنجر بی‌بی پہ چل رہا ہے
 
 ۷
 یہ قافلہ حرم کا زنداں تک آ گیا ہے
@@ -109,6 +112,6 @@ romanLyrics: |-
 پہچان نا ہے مشکل وہ حال ہو گیا ہے
 
 ۹
-روے ہیں خوں تکلم چالیس سال مولا
+روئے ہیں خوں تکلم چالیس سال مولا
 سانسیں بھی چل رہی تھی لیکن نہیں تھے زندہ
 سجاد کا تو مقتل دربار شام کا ہے
