@@ -1,49 +1,50 @@
 ---
 title: چالیس برس روتے نہ کیوں عابدِ مضطر
-alternateTitle: Chalees Baras Rote
+alternateTitle: Chaalis Baras Rote
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Anees"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Chalees Baras Rote"]
 published: false
 romanLyrics: |-
-  Chalees baras rote na kyun abid e muztar
-  Ta umr sameina raha aankhon mein wo manzar
+  Chaalis baras rote na kiuṅ Aabid-e-muztar
+  Taa umr samaaya raha aankhoṅ meiṅ wo manzar
 
   1
-  Dekha tha inhi aankhon se ghar apna ujadta
-  Be goro kafan laashe shaheedo ke zameen par
+  Dekha tha inhiṅ aankhoṅ se ghar apna ujarta
+  Be gor o kafan laashe shahidoṅ ke zamiṅ par
 
   2
-  Phirta hi raha aankhon mein bhai ka wo laasha
-  Barchi thi kaleje mein ani seene ke baahar
+  Phirta hi raha aankhoṅ meiṅ bhaai ka wo laasha
+  Barchhi thi kaleje meiṅ ani sine ke baahar
 
   3
-  Guzre thay kahan ranj bahot poocha kisi ne
-  As shaam hi as shaam kaha sar ko jhuka kar
+  Guzre the kahaaṅ ranj bahut puchha kisi ne
+  Ash Shaam hi Ash Shaam kaha sar ko jhuka kar
 
   4
-  Daawat koi deta to ye farmate thay sajjad
-  Gar mujhko bulana hai to majlis tu bapa kar
+  Daawat koi deta to ye farmaate the Sajjad
+  Gar mujh ko bulaana hai to majlis tu bapa kar
 
   5
-  Dekhe thay jo ashoor ko bujhte hue sholay
-  Ta umr dhuan uth'ta raha aahon mein dhal kar
+  Dekhe the jo Aashur ko bujhte hue shole
+  Taa umr dhuaaṅ uthta raha aahoṅ meiṅ dhal kar
 
   6
-  Kya guzri dile sayyede sajjad pe us dam
-  Jab loota gaya bibiyon ka makhna o chadar
+  Kya guzri dil-e-Sayyid-e-Sajjad pe us dam
+  Jab luta gaya Bibiyoṅ ka makhna o chaadar
 
   7
-  Kis mard mein hai hausla juz abid e bemaar
-  Maa behno ko jo dekhle balwe mein khule sar
+  Kis mard meiṅ hai hausla juz Aabid-e-bimaar
+  Maaṅ behnoṅ ko jo dekh le balwe meiṅ khule sar
 
   8
-  Har ek nafas girya tha ya tha ata'ay mabood
-  Ek lamha bhi raahat na anees aayi meinassar
+  Har ik nafas girya tha ya tha ataa-e-maabud
+  Ik lamha bhi raahat na Anis aayi mayassar
 # source_id: nohayonline:ffe6e1118c82ba6c9ae9
 # source_url: https://www.nohayonline.com/details_content.php?id=701
 # raw_sha256: ac517b9b2a87d9e87a11e5de93d9327e95320587eb31da0dda91f97f3747bda4
@@ -56,7 +57,7 @@ romanLyrics: |-
 
 ۱
 دیکھا تھا انہیں آنکھوں سے گھر اپنا اُجڑتا
-بے گورو کفن لاشے شہیدوں کے زمیں پر
+بے گور و کفن لاشے شہیدوں کے زمیں پر
 
 ۲
 پھرتا ہی رہا آنکھوں میں بھائی کا وہ لاشہ
@@ -68,11 +69,11 @@ romanLyrics: |-
 
 ۴
 دعوت کوئی دیتا تو یہ فرماتے تھے سجاد
-گر مجھ کو بپلانا ہے تو مجلس تُو بپا کر
+گر مجھ کو بلانا ہے تو مجلس تُو بپا کر
 
 ۵
-دیکھے جو عاشور کو بجھتے ہوئے شعلے
-تا عمر دھواں اُٹھتا رہاآہوں میں ڈھل کر
+دیکھے تھے جو عاشور کو بجھتے ہوئے شعلے
+تا عمر دھواں اُٹھتا رہا آہوں میں ڈھل کر
 
 ۶
 کیا گزری دلِ سیدِ سجاد پہ اُس دم
