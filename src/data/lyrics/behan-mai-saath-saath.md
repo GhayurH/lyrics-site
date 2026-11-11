@@ -1,86 +1,87 @@
 ---
 title: "رسن میں بندھ چکا گلا"
-alternateTitle: "Behan Mai Saath Saath"
+alternateTitle: "Behan Main Saath Saath"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Behan Mai Saath Saath"]
 published: false
 romanLyrics: |-
   Rasan mein bandh chuka gala
-  Lo chal pada wo khafila
-  Behan ghareeb nauhagar
-  Sina pe jab padi nazar
+  Lo chal para wo qaafila
+  Behan gharib nauhagar
+  Sinaaṅ pe jab pari nazar
+  Khaamosh the shahid sab
+  Akhi ke hil rahe the lab
+  Sinaaṅ pe huṅ to kya hua
+  Tu hausla na haarna
+  Behan main saath saath huṅ
 
   1
-  Khamosh thay shaheed sab
-  Aqi ke hil rahe thay lab
-  Sina pe ho to kya huwa
-  Tu hausla na haarna
-  Behan mai saath saath hoo
-  Ghareeb e karbala behan
-  Diler e bawafa behan
-  Ghamon ki alqama behan
-  Meri musafira behan
+  Gharib-e-Karbala behan
+  Diler o baawafa behan
+  Ghamoṅ ki Alqama behan
+  Meri musaafira behan
   Tu hausla na haarna
 
   2
-  Wafa e waada ho chuka
-  Sina talak mai aa gaya
-  Mai apna kaam kar chuka
-  Meri shareeke karbala
+  Wafaa-e-waada ho chuka
+  Sinaaṅ talak main aa gaya
+  Main apna kaam kar chuka
+  Meri sharik-e-Karbala
   Tu hausla na haarna
 
   3
-  Ye rassiyan ye bediyan
-  Qadam qadam pe sakhtiyan
-  Rida baghair bibiyan
-  Behan kada hai imtehan
+  Ye rassiyaṅ ye beriyaṅ
+  Qadam qadam pe sakhtiyaṅ
+  Rida baghair bibiyaṅ
+  Behan kara hai imtihaaṅ
   Tu hausla na haarna
 
   4
   Agar hai raasta kathan
-  Zara na darr meri behan
-  Tu berida mai bekafan
+  Zara na dar meri behan
+  Tu berida main bekafan
   Hai waqt hausla shikan
   Tu hausla na haarna
 
   5
-  Qadam qadam shahadatein
-  Guzar gayi qayamatein
-  Abhi hai aur aafatein
-  Sambhaal ab amaanatein
+  Qadam qadam shahaadateṅ
+  Guzar gayiṅ qayaamateṅ
+  Abhi haiṅ aur aafateṅ
+  Sambhaal ab amaanateṅ
   Tu hausla na haarna
 
   6
-  Koi bhi ab nahi bacha
-  Bas abid e shakista pa
-  Ye saarbane ghamzada
-  Giray jo khaake ghash zara
+  Koi bhi ab nahiṅ bacha
+  Bas Aabid-e-shikasta pa
+  Ye saarbaan-e-gham zada
+  Gire jo kha ke ghash zara
   Tu hausla na haarna
 
   7
-  Behan teher teher yahin
-  Laraz rahi hai kyun zameen
-  Sakina gir gayi kahin
-  Na mil sake jo wo hazeen
+  Behan thahar thahar yahiṅ
+  Laraz rahi hai kiuṅ zamiṅ
+  Sakina gir gayi kahiṅ
+  Na mil sake jo wo haziṅ
   Tu hausla na haarna
 
   8
-  Bahot qareeb shaam hai
-  Hujoom e khaas o aam hai
-  Yazeede bad kalaam hai
-  Ye waqte inteqam hai
+  Bahut qarib Shaam hai
+  Hujum-e-khaas o aam hai
+  Yazid bad kalaam hai
+  Ye waqt-e-intiqaam hai
   Tu hausla na haarna
 
   9
-  Rehaan o sarwar e aza
-  Jo shaam pahuncha khaafila
-  Sar e hussain ne kaha
-  Ulat de takht shaam ka
+  Rehaan o Sarwar-e-aza
+  Jo Shaam pahuṅcha qaafila
+  Sar-e-Husain ne kaha
+  Ulat de takht Shaam ka
   Tu hausla na haarna
 # source_id: nohayonline:58da51455872e989cbd1
 # source_url: https://www.nohayonline.com/details_content.php?id=359
@@ -90,22 +91,22 @@ romanLyrics: |-
 لو چل پڑا وہ قافلہ
 بہن غریب نوحہ گر
 سناں پہ جب پڑی نظر
-
-۱
 خاموش تھے شہید سب
 اخی کے ہل رہے تھے لب
 سناں پہ ہوں تو کیا ہوا
-تُو حوصلہ نہ ہارن
+تُو حوصلہ نہ ہارنا
 بہن میں ساتھ ساتھ ہوں
+
+۱
 غریبِ کربلا بہن
-دلیرو باوفا بہن
+دلیر و باوفا بہن
 غموں کی علقمہ بہن
 میری مسافرہ بہن
 تُو حوصلہ نہ ہارنا
 
 ۲
-وفا ئے وعدہ ہوچکا
-سناں تلک میں آگیا
+وفائے وعدہ ہو چکا
+سناں تلک میں آ گیا
 میں اپنا کام کر چکا
 میری شریکِ کربلا
 تُو حوصلہ نہ ہارنا
@@ -114,7 +115,7 @@ romanLyrics: |-
 یہ رسیاں یہ بیڑیاں
 قدم قدم پہ سختیاں
 ردا بغیر بیبیاں
-بہن کڑاہے امتحاں
+بہن کڑا ہے امتحاں
 تُو حوصلہ نہ ہارنا
 
 ۴
@@ -134,26 +135,26 @@ romanLyrics: |-
 ۶
 کوئی بھی اب نہیں بچا
 بس عابدِ شکستہ پا
-یہ ساربانِ غم زدا
-گرے جو کھا کے غش زرا
+یہ ساربانِ غم زدہ
+گرے جو کھا کے غش ذرا
 تُو حوصلہ نہ ہارنا
 
 ۷
-بہن ٹھہرٹھہر یہیں
+بہن ٹھہر ٹھہر یہیں
 لرز رہی ہے کیوں زمیں
-سکینہ گرگئی کہیں
+سکینہ گر گئی کہیں
 نہ مِل سکے جو وہ حزیں
 تُو حوصلہ نہ ہارنا
 
 ۸
 بہت قریب شام ہے
-ہجومِ خاص وعام ہے
+ہجومِ خاص و عام ہے
 یزید بد کلام ہے
 یہ وقتِ انتقام ہے
 تُو حوصلہ نہ ہارنا
 
 ۹
-ریحان وسرورِعزا
+ریحان و سرورِ عزا
 جو شام پہنچا قافلہ
 سرِ حسین نے کہا
 اُلٹ دے تخت شام کا

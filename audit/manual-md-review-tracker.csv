@@ -1301,9 +1301,9 @@ src/data/lyrics/bediyan-pairon-may.md,standalone_lyrics,imported,nohayonline,pen
 src/data/lyrics/bediyan-roti-rahi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 l3 ""روبرو کیسے ہو وہ / Rubaru kaise ho wo""; confirm ""ہو"" versus ""ہوں""."
 src/data/lyrics/bediyon-wala-bhaiya.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s7 l3 ""کیسے ہاتھوں سے بندھے قبر بناتا بھیا"" (word order/reading). Confirm opening couplet grouping before existing s1."
 src/data/lyrics/beemar-bahot-takleef.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
-src/data/lyrics/beh-raha-hai-saamne.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/behan-ghareeb-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/behan-mai-saath-saath.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/beh-raha-hai-saamne.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: couplet 6 ""مہوِ مُبین / mehve mubeen""; final couplet ""وعدئہ طفلی / waada e tifli""; confirm ""ناب کار / naabkaar"" in couplet 9."
+src/data/lyrics/behan-ghareeb-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: introductory couplet ""یہ اُمت وامو"" vs Roman ""ye ummat qaimon""; confirm ""پھولوں کی مینہ"". Urdu opening ""پانی پیا"" differs from source Roman ""pani paaya""."
+src/data/lyrics/behan-mai-saath-saath.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/behan-sakina-muaf.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/behan-ye-ghazi-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/behan-zainab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
