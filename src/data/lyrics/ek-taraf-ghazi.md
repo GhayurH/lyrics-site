@@ -6,47 +6,55 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek taraf ghazi ka laasha ek taraf shabbir ka
-  Aur guzar hai darmiyan se berida hamsheer ka
-  
+  Ek taraf Ghazi ka laasha ek taraf Shabbir ka
+  Aur guzar hai darmiyaaṅ se berida hamshir ka
+
   1
-  Ro ke zainab ne kaha mai ye na manzar dekhti
-  Is se pehle bhaiyon ko khoon may tar dekhti
-  Uth gaya hota janaza waaris e tatheer ka
-  
+  Ro ke Zainab ne kaha maiṅ ye na manzar dekhti
+  Is se pehle bhaaiyoṅ ko khun meiṅ tar dekhti
+  Uth gaya hota janaaza waaris-e-tathir ka
+  Aur guzar hai darmiyaaṅ se berida hamshir ka
+
   2
-  Beridaon ko diya karti ridayein sar ki mai
-  Kal badal deti thi taqdeerein zamane bhar ki mai
-  Aaj matam kar rahi hoo apni khud taqdeer ka
-  
+  Beridaaoṅ ko diya karti ridaaeṅ sar ki maiṅ
+  Kal badal deti thi taqdireṅ zamaane bhar ki maiṅ
+  Aaj maatam kar rahi huṅ apni khud taqdir ka
+  Aur guzar hai darmiyaaṅ se berida hamshir ka
+
   3
-  Kis tarha se doo tasalli kis tarha samjhaun mai
-  Kis tarha bano ko apne saath le kar jaaun mai
-  Sar sare noke sina hai asghar e baysheer ka
-  
+  Kis tarah se duṅ tasalli kis tarah samjhaauṅ maiṅ
+  Kis tarah Bano ko apne saath le kar jaauṅ maiṅ
+  Sar sar-e-nok-e-sinaaṅ hai Asghar-e-beshir ka
+  Aur guzar hai darmiyaaṅ se berida hamshir ka
+
   4
-  Dekh kar baazu bureeda bekason ki aas ko
-  Baat ye kaise bataaun mai bhala abbas ko
-  Paas maqna jal raha hai dukhtare shabbir ka
-  
+  Dekh kar baazu burida bekasoṅ ki aas ko
+  Baat ye kaise bataauṅ maiṅ bhala Abbas ko
+  Paas maqna jal raha hai dukhtar-e-Shabbir ka
+  Aur guzar hai darmiyaaṅ se berida hamshir ka
+
   5
-  Ab mera ghazi nahi mujhko bachane ke liye
-  Is liye tayyaar hoo mai sang khaane ke liye
-  Fayeda koi nahi hai ab kisi tadbeer ka
-  
+  Ab mera Ghazi nahiṅ mujh ko bachaane ke liye
+  Is liye tayyaar huṅ maiṅ sang khaane ke liye
+  Faaida koi nahiṅ hai ab kisi tadbir ka
+  Aur guzar hai darmiyaaṅ se berida hamshir ka
+
   6
-  Shaam o kufa may sitamgar ye sitam bhi dhayenge
-  Meri jaanib teer nazron se chalaye jayenge
-  Ghairat e abid karegi saamna har teer ka
-  
+  Shaam o Kufa meiṅ sitamgar ye sitam bhi dhaaeṅge
+  Meri jaanib tir nazroṅ se chalaae jaaeṅge
+  Ghairat-e-Abid karegi saamna har tir ka
+  Aur guzar hai darmiyaaṅ se berida hamshir ka
+
   7
-  Nauhagar yasir o sajid hai jo har ahle aza
-  Haye zainab haye zainab haye zainab ghamzada
-  Yehi nauha tha tan e sajjad par zanjeer ka
+  Nauhagar Yasir o Sajid haiṅ jo har ahl-e-aza
+  Haye Zainab haye Zainab haye Zainab ghamzada
+  Yehi nauha tha tan-e-Sajjad par zanjir ka
+  Aur guzar hai darmiyaaṅ se berida hamshir ka
 # source_id: nohayonline:f0f3c373f6aba4d6a9d5
 # source_url: https://www.nohayonline.com/details_content.php?id=1677
 # raw_sha256: 0ce10b173701f603029d5ad4ee3730ae5d1e52ecc262a41aa2d3f0c3879c2d39
@@ -57,35 +65,42 @@ romanLyrics: |-
 
 ۱
 رو کے زینب نے کہا میں یہ نہ منظر دیکھتی
-اس سے پہلے بھاییوں کو خون میں تر دیکھتی
-اٹھ گیا ہوتا جنازہ وارث تطہیر کا
+اس سے پہلے بھائیوں کو خون میں تر دیکھتی
+اٹھ گیا ہوتا جنازہ وارثِ تطہیر کا
+اور گزر ہے درمیاں سے بے ردا ہمشیر کا
 
 ۲
-بے رداؤں کو دیا کرتی رداییں سر کی میں
+بے رداؤں کو دیا کرتی ردائیں سر کی میں
 کل بدل دیتی تھی تقدیریں زمانے بھر کی میں
 آج ماتم کر رہی ہوں اپنی خود تقدیر کا
+اور گزر ہے درمیاں سے بے ردا ہمشیر کا
 
 ۳
 کس طرح سے دوں تسلی کس طرح سمجھاؤں میں
-کس طرح بانو کو اپنے ساتھ لیکر جاؤں میں
-سر سر نوکِ سِناں ہے اصغر بے شیر کا
+کس طرح بانو کو اپنے ساتھ لے کر جاؤں میں
+سر سرِ نوکِ سِناں ہے اصغرِ بے شیر کا
+اور گزر ہے درمیاں سے بے ردا ہمشیر کا
 
 ۴
 دیکھ کر بازو بریدہ بیکسوں کی آس کو
 بات یہ کیسے بتاؤں میں بھلا عباس کو
-پاس مقنہ جل رہا ہے دختر شبیر کا
+پاس مقنہ جل رہا ہے دخترِ شبیر کا
+اور گزر ہے درمیاں سے بے ردا ہمشیر کا
 
 ۵
-اب میرا غازی نہیں مجھکو بچانے کے لئے
-اس لیےء تیار ہوں میں سنگ کھانے کے لئے
-فایدہ کوئی نہیں ہے اب کسی تدبیر کا
+اب میرا غازی نہیں مجھ کو بچانے کے لئے
+اس لیے تیار ہوں میں سنگ کھانے کے لئے
+فائدہ کوئی نہیں ہے اب کسی تدبیر کا
+اور گزر ہے درمیاں سے بے ردا ہمشیر کا
 
 ۶
-شام و کوفہ میں ستمگر یہ ستم بھی ڈھاینگے
-میری جانب تیر نظروں سے چلاے جاینگے
+شام و کوفہ میں ستمگر یہ ستم بھی ڈھائیں گے
+میری جانب تیر نظروں سے چلائے جائیں گے
 غیرتِ عابد کرے گی سامنا ہر تیر کا
+اور گزر ہے درمیاں سے بے ردا ہمشیر کا
 
 ۷
-نوحہ گر یاسر و ساجد ہیں جو ہر اہل عزا
+نوحہ گر یاسر و ساجد ہیں جو ہر اہلِ عزا
 ہاے زینب ہاے زینب ہاے زینب غمزدہ
-یہی نوحہ تھا تن سجاد پر زنجیر کا
+یہی نوحہ تھا تنِ سجاد پر زنجیر کا
+اور گزر ہے درمیاں سے بے ردا ہمشیر کا

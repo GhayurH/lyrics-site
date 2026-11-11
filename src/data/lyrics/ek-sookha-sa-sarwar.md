@@ -6,72 +6,73 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Tabrez"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye hussain haye asghar
+  Haye Husain haye Asghar
 
-  Ek sookha sa sarwar ka gala
-  Ek sookha sa asghar ka gala
-  Ek maa ki thi maqtal mein sada
-  Ek sookha sa asghar ka gala
+  Ek sukha sa Sarwar ka gala
+  Ek sukha sa Asghar ka gala
+  Ek maaṅ ki thi maqtal meiṅ sada
+  Ek sukha sa Asghar ka gala
 
   1
-  Har samt sitam ki baarish mein
-  Roti hui ek maa tanha thi
-  Khanjar ke talay bhi zehra thi
-  Aur teer ki zad pe bhi zehra thi
-  Haye zehra ne bhi dekh liya
-  Ek sookha sa asghar ka gala
-  
+  Har samt sitam ki baarish meiṅ
+  Roti hui ek maaṅ tanha thi
+  Khanjar ke tale bhi Zehra thi
+  Aur tir ki zad pe bhi Zehra thi
+  Haye Zehra ne bhi dekh liya
+  Ek sukha sa Asghar ka gala
+
   2
-  Cheh maah se bache ke upar
-  Ye arz o samaa bhi rota raha
-  Ek kund sa khanjar sarwar ke
-  Sookhe se galay par chalta raha
-  Pamaal hua be-jurm o khata
-  Ek sookha sa asghar ka gala
-  
+  Chhe maah se bachche ke upar
+  Ye arz o samaaṅ bhi rota raha
+  Ek kund sa khanjar Sarwar ke
+  Sukhe se gale par chalta raha
+  Paamaal hua bejurm o khata
+  Ek sukha sa Asghar ka gala
+
   3
-  Maqtal ki zameen ko saaf kiya
-  Ek maa ne pareshan baalon se
-  Ek maa ne sawara asghar ki
-  Zulfon ko bade armaano se
-  Dil dekh ke dono ka toota
-  Ek sookha sa asghar ka gala
-  
+  Maqtal ki zamiṅ ko saaf kiya
+  Ek maaṅ ne pareshaaṅ baaloṅ se
+  Ek maaṅ ne saṅwaara Asghar ki
+  Zulfoṅ ko bare armaanoṅ se
+  Dil dekh ke donoṅ ka tuta
+  Ek sukha sa Asghar ka gala
+
   4
-  Ek uska gala tha jisko kabhi
-  Lete thay mohamed khud bosa
-  Aur ek galay ko ro ro kar
-  Khud shaah e zaman ne chooma tha
-  Dono sare maqtal kaata gaya
-  Ek sookha sa asghar ka gala
-  
+  Ek us ka gala tha jis ko kabhi
+  Lete the Muhammad khud bosa
+  Aur ek gale ko ro ro kar
+  Khud Shaah-e-zaman ne chuma tha
+  Donoṅ sar-e-maqtal kaata gaya
+  Ek sukha sa Asghar ka gala
+
   5
-  Shabbir ke be-sar laashe par
-  Haye bali sakina ki aahein
-  Is tarha dilaasa deti thi
-  Kehti thi sakina se maayein
+  Shabbir ke besar laashe par
+  Haye baali Sakina ki aaheṅ
+  Is tarah dilaasa deti thi
+  Kehti thi Sakina se maaeṅ
   Hum ne bhi dekh ke sabr kiya
-  Ek sookha sa asghar ka gala
-  
+  Ek sukha sa Asghar ka gala
+
   6
-  Ek tashna dahan ek tashna suqan
-  Dono hi to thay be-gor o kafan
-  Ek jalti zameen ke andar tha
-  Aur ek ka tha teeron pe badan
-  Kehti thi ye zahra wavaila
-  Ek sookha sa asghar ka gala
-  
+  Ek tashna dahan ek tashna sukhan
+  Donoṅ hi to the begor o kafan
+  Ek jalti zamiṅ ke andar tha
+  Aur ek ka tha tiroṅ pe badan
+  Kehti thi ye Zahra waawaila
+  Ek sukha sa Asghar ka gala
+
   7
-  Ay shams ajab ghurbat ka samaa
-  Tha ehle aza ke chehron par
-  Jab maine kaha shabbir ka aur
-  Asghar ka gala tha naizon par
-  Rehan labon par tha nauha
-  Ek sookha sa asghar ka gala
+  Ae Shams ajab ghurbat ka samaaṅ
+  Tha ahl-e-aza ke chehroṅ par
+  Jab maiṅ ne kaha Shabbir ka aur
+  Asghar ka gala tha nezoṅ par
+  Rehan laboṅ par tha nauha
+  Ek sukha sa Asghar ka gala
 # source_id: nohayonline:fcb8c7a89c49597389b3
 # source_url: https://www.nohayonline.com/details_content.php?id=1391
 # raw_sha256: a69b92250642acdfd97c65ccbda77c9a8287126e5c1521382a6a91588c7e7fd8
@@ -86,9 +87,9 @@ romanLyrics: |-
 
 ۱
 ہر سمت ستم کی بارش میں
-روتی ہوی اک ماں تنہا تھی
+روتی ہوئی اک ماں تنہا تھی
 خنجر کے تلے بھی زہرا تھی
-اور تیر کی ضد پہ بھی زہرا تھی
+اور تیر کی زد پہ بھی زہرا تھی
 ہاے زہرا نے بھی دیکھ لیا
 اک سوکھا سا اصغر کا گلا
 
@@ -103,30 +104,30 @@ romanLyrics: |-
 ۳
 مقتل کی زمیں کو صاف کیا
 اک ماں نے پریشاں بالوں سے
-اک ماں نے سوارا اصغر کی
-ذولفوں کو بڑے ارمانوں سے
-دل دیکھ کے دونو کا ٹوٹا
+اک ماں نے سنوارا اصغر کی
+زلفوں کو بڑے ارمانوں سے
+دل دیکھ کے دونوں کا ٹوٹا
 اک سوکھا سا اصغر کا گلا
 
 ۴
 اک اس کا گلا تھا جس کو کبھی
 لیتے تھے محمد خود بوسہ
 اور ایک گلے کو رو رو کر
-خود شاہ زمن نے چوما تھا
-دونوں سر مقتل کاٹا گیا
+خود شاہِ زمن نے چوما تھا
+دونوں سرِ مقتل کاٹا گیا
 اک سوکھا سا اصغر کا گلا
 
 ۵
 شبیر کے بے سر لاشے پر
 ہاے بالی سکینہ کی آہیں
 اس طرح دلاسہ دیتی تھی
-کہتی تھی سکینہ سے ماییں
+کہتی تھی سکینہ سے مائیں
 ہم نے بھی دیکھ کے صبر کیا
 اک سوکھا سا اصغر کا گلا
 
 ۶
 اک تشنہ دہن اک تشنہ سخن
-دونو ہی تو تھے بے گور و کفن
+دونوں ہی تو تھے بے گور و کفن
 اک جلتی زمیں کے اندر تھا
 اور ایک تھا تیروں پہ بدن
 کہتی تھی یہ زہرا واویلا
