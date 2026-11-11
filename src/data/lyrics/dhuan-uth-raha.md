@@ -1,5 +1,5 @@
 ---
-title: "ہاے شام غریباں"
+title: "ہائے شام غریباں"
 alternateTitle: "Dhuan Uth Raha"
 language: "Urdu"
 lang: "ur"
@@ -9,77 +9,78 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Farhan Ali Waris"
 romanLyrics: |-
-  Haye shaam e ghariban
-  Ghareebon ki shaam
-  Aseeron ki shaam
-  Pyason ki shaam
-  Shaam e ghariban
+  Haaye shaam-e-gharibaaṅ
+  Ghariboṅ ki shaam
+  Asiroṅ ki shaam
+  Pyaasoṅ ki shaam
+  Shaam-e-gharibaaṅ
 
-  Jal chuke sadaat ke qaime
-  Dhuaan uth raha hai
+  Jal chuke saadaat ke khaime
+  Dhuaaṅ uth raha hai
 
   1
-  Ujde gharon ki shaam hai
-  Tishna labon ki shaam hai
-  Toote dilon ki shaam hai
-  Bujh gaye jitne diye thay
+  Ujre gharoṅ ki shaam hai
+  Tishna laboṅ ki shaam hai
+  Tute diloṅ ki shaam hai
+  Bujh gaye jitne diye the
 
   2
-  Kuch dayr pehle lootne
-  Zaalim yahan par aaye thay
-  Sab ki ridayein le gaye
-  Reh gaye bas jalte qaime
+  Kuch der pehle lutne
+  Zaalim yahaaṅ par aaye the
+  Sab ki ridaaeṅ le gaye
+  Reh gaye bas jalte khaime
 
   3
-  Masnad jali jhoola jala
-  Bistar bhi abid ka jala
-  Qaimon mein aur kya kya jala
-  Aaj phir zehra ke ghar se
+  Masnad jali jhula jala
+  Bistar bhi Aabid ka jala
+  Khaimoṅ mein aur kya kya jala
+  Aaj phir Zehra ke ghar se
 
   4
   Laaye bacha kar tishna kaam
-  Sholon ki zad par thay imam
+  Sholoṅ ki zad par the Imam
   Zainab ki himmat ko salaam
-  Bistar e zainul liba se
+  Bistar-e-Zainul liba se
 
   5
-  Parda nasheen hai khaak basar
-  Chote bade sab nauhagar
-  Chup hai sakina kyun magar
-  Is yateema ke hi dil se
+  Parda nashiṅ hai khaak basar
+  Chhote bare sab nauhagar
+  Chup hai Sakina kiuṅ magar
+  Is yatima ke hi dil se
 
   6
-  Har soo udaasi chaa gayi
-  Aale nabi ghabra gayi
-  Pehre pe zainab aagayi
-  Dekhlo abbas aa ke
+  Har su udaasi chhaa gayi
+  Aal-e-Nabi ghabra gayi
+  Pehre pe Zainab aa gayi
+  Dekh lo Abbas aa ke
 
   7
-  Haathon mein le kar haazri
-  Jab hurr ki zauja aaye thi
-  Sar peet kar kehne lagi
-  Hogayi taakheer mujhse
+  Haathoṅ mein le kar haazri
+  Jab Hur ki zauja aayi thi
+  Sar pit kar kehne lagi
+  Ho gayi taakheer mujh se
 
   8
-  Baba se zainab ne kaha
+  Baba se Zainab ne kaha
   Ab aaye ho mushkil kusha
   Jab mera sab kuch lut gaya
-  Dekhlo qaimon se mere
+  Dekh lo khaimoṅ se mere
 
   9
-  Farhan o mazhar abidi
-  Dasween ki shab dhalti rahi
-  Aale nabi roti rahi
-  Marsiya zainab ka sun ke
+  Farhan o Mazhar Abidi
+  Daswiṅ ki shab dhalti rahi
+  Aal-e-Nabi roti rahi
+  Marsiya Zainab ka sun ke
 # source_id: nohayonline:e972757724c752a00c31
 # source_url: https://www.nohayonline.com/details_content.php?id=2756
 # raw_sha256: 9eb44978289dbf5fe66047cf9f1e614e53163f3828f2ab541d7b23a7bc375897
 ---
 
-ہاے شام غریباں
+ہائے شام غریباں
 غریبوں کی شام
-اسیروں کے شام
+اسیروں کی شام
 پیاسوں کی شام
 شام غریباں
 
@@ -90,13 +91,13 @@ romanLyrics: |-
 اجڑے گھروں کی شام ہے
 تشنہ لبوں کی شام ہے
 ٹوٹے دلوں کی شام ہے
-بجھ گےء جتنے دیےء تھے
+بجھ گئے جتنے دیے تھے
 
 ۲
 کچھ دیر پہلے لوٹنے
-ظالم یہاں پر آے تھے
-سب کی ردائیں لے گےء
-رہ گےء بس جلتے خیمے
+ظالم یہاں پر آئے تھے
+سب کی ردائیں لے گئے
+رہ گئے بس جلتے خیمے
 
 ۳
 مسند جلی جھولا جلا
@@ -105,8 +106,8 @@ romanLyrics: |-
 آج پھر زہرا کے گھر سے
 
 ۴
-لاے بچا کر تشنہ کام
-شعلوں کی ضد پر تھے امام
+لائے بچا کر تشنہ کام
+شعلوں کی زد پر تھے امام
 زینب کی ہمت کو سلام
 بستر زین العباء سے
 
@@ -117,22 +118,22 @@ romanLyrics: |-
 اس یتیمہ کے ہی دل سے
 
 ۶
-ہر سوں اداسی چھا گیء
-آل نبی گھبرا گیء
-پہرے پہ زینب آ گیء
-دیکھلو عباس آ کے
+ہر سو اداسی چھا گئی
+آل نبی گھبرا گئی
+پہرے پہ زینب آ گئی
+دیکھ لو عباس آ کے
 
 ۷
 ہاتھوں میں لے کر حاضری
-جب حر کی زوجہ آے تھے
+جب حر کی زوجہ آئی تھی
 سر پیٹ کر کہنے لگی
-ہو گیء تاقیر مجھ سے
+ہو گئی تاخیر مجھ سے
 
 ۸
 بابا سے زینب نے کہا
-اب آے ہو مشکل کشاء
+اب آئے ہو مشکل کشا
 جب میرا سب کچھ لٹ گیا
-دیکھلو خیموں سے میرے
+دیکھ لو خیموں سے میرے
 
 ۹
 فرحان و مظہر عابدی

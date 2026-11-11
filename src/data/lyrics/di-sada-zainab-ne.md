@@ -1,79 +1,80 @@
 ---
-title: "دی صدا زینب نے اماں گھر لٹا کر آی ہوں"
+title: "دی صدا زینب نے اماں گھر لٹا کر آئی ہوں"
 alternateTitle: "Di Sada Zainab Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rasheed Shaheedi"
+poet: "Rashid Shahidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Anj. Masumin"
 romanLyrics: |-
-  Di sada zainab ne amma ghar luta kar aayi hoon
-  
+  Di sada Zainab ne ammaṅ ghar luta kar aayi huṅ
+
   1
-  Kya sunaao aap ko amma mai rudaade safar
+  Kya sunaauṅ aap ko ammaṅ main rudaad-e-safar
   Saamne mere luta ek dopahar mein saara ghar
-  Apne aankhon mein lahoo ke saare manzar laayi hoon
-  
+  Apne aaṅkhoṅ mein lahu ke saare manzar laayi huṅ
+
   2
-  Nargha e aada mein amma mera bhai ghir gaya
-  Chod do bhai ko mere baaraha maine kaha
-  Mai mohamed ki nawasi fatema ki jaayi hoon
-  
+  Nargha-e-aada mein ammaṅ mera bhaai ghir gaya
+  Chhor do bhaai ko mere baaraha main ne kaha
+  Main Muhammad ki nawaasi Fatima ki jaayi huṅ
+
   3
-  Mai tadapti hi rahi roti rahi sar peet kar
-  Hogaya tan se juda amma mere bhai ka sar
-  Karbala mein apne maajaye ko khokar aayi hoon
-  
+  Main tarapti hi rahi roti rahi sar pit kar
+  Ho gaya tan se juda ammaṅ mere bhaai ka sar
+  Karbala mein apne maaṅ jaaye ko kho kar aayi huṅ
+
   4
-  Taziyane aur tamache shumr ki khaati rahi
-  Phir andhere qaid khane mein sakina mar gayi
-  Shaam ke zindan mein amma usko khokar aayi hoon
-  
+  Taaziyaane aur tamaaṅche Shimr ki khaati rahi
+  Phir andhere qaid khaane mein Sakina mar gayi
+  Shaam ke zindaaṅ mein ammaṅ us ko kho kar aayi huṅ
+
   5
-  Zulm aise thay sakina ho chuki thi muzmahil
-  Kya kahun amma mai tum se jaanta hai mera dil
-  Kaise us bacchi ki gardan se rasan khulwayi hoon
-  
+  Zulm aise the Sakina ho chuki thi muzmahil
+  Kya kahuṅ ammaṅ main tum se jaanta hai mera dil
+  Kaise us bachchi ki gardan se rasan khulwaayi huṅ
+
   6
-  Kaapti thi bain sun kar turbate zehra rasheed
-  Keh rahi thi ro ke zainab hogaye bhai shaheed
-  Saath apne khoon bhara bhai ka kurta laayi hoon
+  Kaaṅpti thi bain sun kar turbat-e-Zehra Rashid
+  Keh rahi thi ro ke Zainab ho gaye bhaai shahid
+  Saath apne khuṅ bhara bhaai ka kurta laayi huṅ
 # source_id: nohayonline:7d727d4673815bf9bda6
 # source_url: https://www.nohayonline.com/details_content.php?id=2879
 # raw_sha256: ad56ac2275e92ef2ba85940bb60d62f8daeaced9112192bc60e104a4a81cb82b
 ---
 
-دی صدا زینب نے اماں گھر لٹا کر آی ہوں
+دی صدا زینب نے اماں گھر لٹا کر آئی ہوں
 
 ۱
 کیا سناؤں آپ کو اماں میں روداد سفر
 سامنے میرے لٹا ایک دوپہر میں سارا گھر
-اپنے آنکھوں میں لہو کے سارے منظر لای ہوں
+اپنے آنکھوں میں لہو کے سارے منظر لائی ہوں
 
 ۲
-نرغہء اعدا میں اماں میرا بھائی گھر گیا
+نرغۂ اعدا میں اماں میرا بھائی گھِر گیا
 چھوڑ دو بھائی کو میرے بارہا میں نے کہا
-میں محمد کی نواسی فاطمہ کی جای ہوں
+میں محمد کی نواسی فاطمہ کی جائی ہوں
 
 ۳
 میں تڑپتی ہی رہی روتی رہی سر پیٹ کر
 ہو گیا تن سے جدا اماں میرے بھائی کا سر
-کربلا میں اپنے مانجاے کو کھو کر آی ہوں
+کربلا میں اپنے ماں جائے کو کھو کر آئی ہوں
 
 ۴
 تازیانے اور طمانچے شمر کی کھاتی رہی
-پھر اندھیرے قید خانے میں سکینہ مر گیء
-شام کے زنداں میں اماں اس کو کھو کر آی ہوں
+پھر اندھیرے قید خانے میں سکینہ مر گئی
+شام کے زنداں میں اماں اس کو کھو کر آئی ہوں
 
 ۵
-ظلم ایسے تھے سکینہ ہو چکی تھی مزمہل
+ظلم ایسے تھے سکینہ ہو چکی تھی مضمحل
 کیا کہوں اماں میں تم سے جانتا ہے میرا دل
-کیسے اس بچی کی گردن سے رسن کھلوای ہوں
+کیسے اس بچی کی گردن سے رسن کھلوائی ہوں
 
 ۶
 کانپتی تھی بین سن کر تربت زہرا رشید
-کہہ رہی تھی رو کے زینب ہو گےء بھائی شہید
-ساتھ اپنے خوں بھرا بھای کا کرتہ لای ہوں
+کہہ رہی تھی رو کے زینب ہو گئے بھائی شہید
+ساتھ اپنے خوں بھرا بھائی کا کرتہ لائی ہوں
