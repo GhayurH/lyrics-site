@@ -1,59 +1,60 @@
 ---
 title: "بنت زہرا نے بھرے گھر کا اجڑنا دیکھا"
-alternateTitle: "Binte Zehra Ne"
+alternateTitle: "Bint-e-Zehra Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Binte Zehra Ne"]
 published: false
 romanLyrics: |-
-  Binte zehra ne bhare ghar ka ujadna dekha
-  Apne pyaron ka tahe taygh tadapna dekha
+  Bint-e-Zehra ne bhare ghar ka ujarna dekha
+  Apne pyaaroṅ ka tah-e-tegh tarapna dekha
 
   1
-  Ay hussain aap ki himmat pa zameen kaamp gayi
-  Apne haathon pa jab asghar ka tadapna dekha
+  Ae Husain aap ki himmat pe zamiṅ kaamp gayi
+  Apne haathoṅ pe jab Asghar ka tarapna dekha
 
   2
-  Jaan hi dedi alamdar ne pani ke liye
-  Pyaas se jab ke sakina ka bhilakna dekha
+  Jaan hi de di Alamdar ne paani ke liye
+  Pyaas se jab ke Sakina ka bilakna dekha
 
   3
-  Haye kya waqt tha kin aankhon se laila tum ne
-  Naujawan bete ka dunya se guzarna dekha
+  Haaye kya waqt tha kin aankhoṅ se Laila tum ne
+  Naujawaaṅ bete ka dunya se guzarna dekha
 
   4
-  Khoon bahaate huwe aankhon se har ek zarre mein
-  Fatema aap ki aulaad ka lutna dekha
+  Khuṅ bahaate hue aankhoṅ se har ek zarre mein
+  Fatima aap ki aulaad ka lutna dekha
 
   5
-  Thaam kar dil dar e qaima se dame asr ali
-  Baap se beti ka zainab ne bichadna dekha
+  Thaam kar dil dar-e-khaima se dam-e-asr Ali
+  Baap se beti ka Zainab ne bichharna dekha
 # source_id: nohayonline:91d85af39dc7da5668b5
 # source_url: https://www.nohayonline.com/details_content.php?id=2994
 # raw_sha256: d9c6ba1d6f66087ce79aa36a48016b9295d61a0525cf02555211a4eab144a3a1
 ---
 بنت زہرا نے بھرے گھر کا اجڑنا دیکھا
-اپنے پیاروں کا تہہ تیغ تڑپنا دیکھا
+اپنے پیاروں کا تہہِ تیغ تڑپنا دیکھا
 
 ۱
-اے حسین آپ کی ہمت پہ زمیں کانپ گیء
+اے حسین آپ کی ہمت پہ زمیں کانپ گئی
 اپنے ہاتھوں پہ جب اصغر کا تڑپنا دیکھا
 
 ۲
-جان ہی دیدی علمدار نے پانی کے لئے
+جان ہی دے دی علمدار نے پانی کے لئے
 پیاس سے جب کہ سکینہ کا بلکنا دیکھا
 
 ۳
-ہاے کیا وقت تھا کن آنکھوں سے لیلیٰ تم‌ نے
+ہائے کیا وقت تھا کن آنکھوں سے لیلیٰ تم نے
 نوجواں بیٹے کا دنیا سے گزرنا دیکھا
 
 ۴
-خوں بہاتے ہوئے آنکھوں سے ہر ایک زرے میں
+خوں بہاتے ہوئے آنکھوں سے ہر ایک ذرے میں
 فاطمہ آپ کی اولاد کا لٹنا دیکھا
 
 ۵
-تھام کر دل در خیمہ سے دم عصر علی
+تھام کر دل درِ خیمہ سے دمِ عصر علی
 باپ سے بیٹی کا زینب نے بچھڑنا دیکھا
