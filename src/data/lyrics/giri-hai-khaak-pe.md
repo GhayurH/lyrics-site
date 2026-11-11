@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Giri hai khaak pe zainab sambhaal ay fizza
-  Ali ki beti ka sadqa nikaal ay fizza
+  Giri hai khaak pe Zainab sambhaal ae Fizza
+  Ali ki beti ka sadqa nikaal ae Fizza
 
   1
-  Kaha ye fizza se shabbir ne dam e ruqsat
-  Meri sakina ka rakhna khayaal ay fizza
+  Kaha ye Fizza se Shabbir ne dam-e-rukhsat
+  Meri Sakina ka rakhna khayaal ae Fizza
 
   2
-  Rida na denge layeen maang mat rida inse
-  Bas ab to khaak hi baalon pe daal ay fizza
+  Rida na deṅge laiṅ maang mat rida in se
+  Bas ab to khaak hi baaloṅ pe daal ae Fizza
 
   3
-  Abhi to shaam ke raste hai sabr kar ke guzar
-  Abhi to hone hai mushkil sawaal ay fizza
+  Abhi to Shaam ke raste haiṅ sabr kar ke guzar
+  Abhi to hone haiṅ mushkil sawaal ae Fizza
 
   4
-  Har ek sawaal ke badle ye sang maarenge
-  Na kar tu reham ka inse sawaal ay fizza
+  Har ek sawaal ke badle ye sang maareṅge
+  Na kar tu rahm ka in se sawaal ae Fizza
 
   5
-  Bacha layeeno ki nazron se binte zehra ko
-  Banale khud ko tu zainab ki dhaal ay fizza
+  Bacha lainoṅ ki nazroṅ se bint-e-Zehra ko
+  Bana le khud ko tu Zainab ki dhaal ae Fizza
 
   6
-  Karega kis tarha ye guftugu sharabi se
-  Batool zaadi ki mushkil ye taal ay fizza
+  Karega kis tarah ye guftugu sharaabi se
+  Batul zaadi ki mushkil ye taal ae Fizza
 
   7
-  Bula habash ke ghulamon ko tu madad ke liye
-  Hai qaid aaj payambar ki aal ay fizza
+  Bula Habash ke ghulaamoṅ ko tu madad ke liye
+  Hai qaid aaj payambar ki aal ae Fizza
 
   8
-  Khabar hai abid e muztar ko ya hai tujhko khabar
-  Jo hai butool ki beti ka haal ay fizza
+  Khabar hai Aabid-e-muztar ko ya hai tujh ko khabar
+  Jo hai Batul ki beti ka haal ae Fizza
 
   9
-  Na kyun jhukaye tere dar pe sar ko noor ali
-  Ke tujhko maa kahe zehra ke laal ay fizza
+  Na kiuṅ jhukaaye tere dar pe sar ko Noor Ali
+  Ke tujh ko maaṅ kahe Zehra ke laal ae Fizza
 # source_id: nohayonline:18622e61ee64f369813d
 # source_url: https://www.nohayonline.com/details_content.php?id=884
 # raw_sha256: 7f028e40154615ae56437953c574a7e8b49f8d56cdfcaa6dcfeac04dec29505b
@@ -73,20 +74,20 @@ romanLyrics: |-
 
 ۵
 بچا لعینوں کی نظروں سے بنت زہرا کو
-بنالے قد کو تو زینب کی ڈھال اے فضہ
+بنا لے قد کو تو زینب کی ڈھال اے فضہ
 
 ۶
-کریگا کس طرح یہ گفتگو شرابی سے
+کرے گا کس طرح یہ گفتگو شرابی سے
 بتول زادی کی مشکل یہ ٹال اے فضہ
 
 ۷
-بلا ہبش کے غلاموں کو تو مدد کے لئے
+بلا حبش کے غلاموں کو تو مدد کے لیے
 ہے قید آج پیمبر کی آل اے فضہ
 
 ۸
-خبر ہے عابد مضطر کو یا ہے تجھکو خبر
+خبر ہے عابد مضطر کو یا ہے تجھ کو خبر
 جو ہے بتول کی بیٹی کا حال اے فضہ
 
 ۹
 نہ کیوں جھکائے تیرے در پہ سر کو نور علی
-کہ تجھکو ماں کہے زہرا کے لال اے فضہ
+کہ تجھ کو ماں کہے زہرا کے لال اے فضہ
