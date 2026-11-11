@@ -1,52 +1,53 @@
 ---
 title: "چھوڑتا نہیں ہم کو کربلا کا غم تنہا"
-alternateTitle: "Chodta Nahi Humko"
+alternateTitle: "Chhorta Nahiṅ Hum Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chodta nahi hum ko karbala ka gham tanha
-  Warna chal nahi sakte hum to do qadam tanha
+  Chhorta nahiṅ hum ko Karbala ka gham tanha
+  Varna chal nahiṅ sakte hum to do qadam tanha
 
   1
-  Shaah ke azadaron tum ko khaufe mehshar kya
-  Zaamin e shafa'at hai ek ashke gham tanha
+  Shaah ke azaadaaroṅ tum ko khauf-e-mahshar kya
+  Zaamin-e-shafaaat hai ek ashk-e-gham tanha
 
   2
-  Phir koi ghame dunya usko choo nahi sakta
-  Baksh de jise maalik karbala ka gham tanha
+  Phir koi gham-e-duniya us ko chhu nahiṅ sakta
+  Bakhsh de jise maalik Karbala ka gham tanha
 
   3
-  Aaj bhi ghame sheh par kitne tanz hote hai
-  Budkadon ki zad par hai aaj bhi haram tanha
+  Aaj bhi gham-e-Shah par kitne tanz hote hai
+  Butkadoṅ ki zid par aaj bhi haram tanha
 
   4
-  Sogaye kahan abbas waqt hai tilaaye ka
-  Kab se raah takte hai dasht mein haram tanha
+  So gaye kahaaṅ Abbas waqt hai tilaaye ka
+  Kab se raah takte haiṅ dasht mein haram tanha
 
   5
-  Kitne aish maangoge khud fareb deewano
-  Kyun talab nahi karte karbala ka gham tanha
+  Kitne aish maango ge khud fareb divaanoṅ
+  Kiuṅ talab nahiṅ karte Karbala ka gham tanha
 
   6
-  Kehke ye sar e sheh se daad chaahi abid ne
-  Karbala mein lashkar tha shaam mein hai hum tanha
+  Keh ke ye sar-e-Shah se daad chaahi Aabid ne
+  Karbala mein lashkar tha Shaam mein hai hum tanha
 
   7
-  Baadh de koi is mein ek mashk choti si
-  Soona soona lagta hai panja e alam tanha
+  Baandh de koi is mein ek mashk chhoti si
+  Suna suna lagta hai panja-e-alam tanha
 
   8
-  Chashme waqt shahid hai hum hussain waale hai
-  Har yazeed ki zad par hum rahe hai hum tanha
+  Chashm-e-waqt shaahid hai hum Husain waale haiṅ
+  Har Yazid ki zid par hum rahe haiṅ hum tanha
 
   9
-  Lut chuke haram sheh ke raat aagayi sar par
-  Ab to chod de inko baani e sitam tanha
+  Lut chuke haram Shah ke raat aa gayi sar par
+  Ab to chhor de in ko baani-e-sitam tanha
 # source_id: nohayonline:89d1a1886740e6f3c139
 # source_url: https://www.nohayonline.com/details_content.php?id=3504
 # raw_sha256: 8d7ebbbd0a937066c626019970b43bd78485f73c0ab586cb3e15c70a7e3b9acd
@@ -59,15 +60,15 @@ romanLyrics: |-
 ضامن شفاعت ہے ایک اشک غم تنہا
 
 ۲
-پھر کوی غم دنیا اس کو چھو نہیں سکتا
+پھر کوئی غم دنیا اس کو چھو نہیں سکتا
 بخش دے جسے مالک کربلا کا غم تنہا
 
 ۳
-آج بھی غم شہ پر کتنے تنز ہوتے ہے
-بد کدوں کی ضد پر آج بھی حرم تنہا
+آج بھی غم شہ پر کتنے طنز ہوتے ہے
+بت کدوں کی ضد پر آج بھی حرم تنہا
 
 ۴
-سو گےء کہاں عباس وقت ہے تلاے کا
+سو گئے کہاں عباس وقت ہے تلاے کا
 کب سے راہ تکتے ہیں دشت میں حرم تنہا
 
 ۵
@@ -79,13 +80,13 @@ romanLyrics: |-
 کربلا میں لشکر تھا شام میں ہے ہم تنہا
 
 ۷
-باندھ دے کوی اس میں ایک مشک چھوٹی سی
-سونا سونا لگتا ہے پنجہء علم تنہا
+باندھ دے کوئی اس میں ایک مشک چھوٹی سی
+سونا سونا لگتا ہے پنجۂ علم تنہا
 
 ۸
 چشم وقت شاہد ہے ہم حسین والے ہیں
 ہر یزید کی ضد پر ہم رہے ہیں ہم تنہا
 
 ۹
-لٹ چکے حرم شہ کے رات آ گیء سر پر
-اب تو چھوڑ دے ان کو بانیء ستم تنہا
+لٹ چکے حرم شہ کے رات آ گئی سر پر
+اب تو چھوڑ دے ان کو بانیِ ستم تنہا
