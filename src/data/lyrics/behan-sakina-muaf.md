@@ -6,61 +6,62 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shamin Farhat Zaid"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Behan sakina muaaf karna
-  Rehaai bhi mai dila na paaya
-  Lehad pe sajjad ka tha nauha
+  Behan Sakina muaaf karna
+  Rihaai bhi main dila na paaya
+  Lahad pe Sajjad ka tha nauha
   Ye bhai tujhko bacha na paaya
-  
+
   1
-  Wo durr jo baba ne thay pinhaye
-  Wo shimr ne is tarha se cheene
-  Tujhe tamachon se shimr ke mai
-  Ay mere pyari bacha na paaya
-  
+  Wo dur jo Baba ne the pehnaaye
+  Wo Shimr ne is tarah se chhine
+  Tujhe tamaachoṅ se Shimr ke
+  Main Ae meri pyaari bacha na paaya
+
   2
   Wo bebasi se tera bilakna
   Jab aag daaman jala rahi thi
-  Mai kitna majboor tha sakina
+  Main kitna majbur tha Sakina
   Wo aag teri bujha na paaya
-  
+
   3
-  Tum oont ki pusht se bandhi thi
-  Badan tha zakhmi lahoo tha jaari
-  Tadap rahi thi atash se jab tum
-  Mai pyaas teri bujha na paaya
-  
+  Tum uṅt ki pusht se bandhi thi
+  Badan tha zakhmi lahu tha jaari
+  Tarap rahi thi atash se jab tum
+  Main pyaas teri bujha na paaya
+
   4
   Wo yaas o hasrat se tera kehna
-  Ke qaid mein hai bahot andhera
-  Charagh laa do bas ek khudara
-  Charagh bhi mai jala na paaya
-  
+  Ke qaid mein hai bahut andhera
+  Charagh laa do bas ik khudara
+  Charagh bhi main jala na paaya
+
   5
-  Mai haal bhaiya kise bataun
-  Nahi hai ammu kahan hai baba
-  Bulaye baba ko mere bhaiya
-  Behan mai unko bula na paaya
-  
+  Main haal bhaiya kise bataauṅ
+  Nahiṅ haiṅ ammu kahaaṅ haiṅ Baba
+  Bulaaeṅ Baba ko mere bhaiya
+  Behan main unko bula na paaya
+
   6
-  Lita lo seene pe aaj bhai
-  Ke yaad baba ki aa rahi hai
-  Thay itne lohe ke tan pe ke itne zewar
-  Behan mai tujhko lita na paaya
-  
+  Lita lo sine pe aaj bhai
+  Ke yaad Baba ki aa rahi hai
+  The itne lohe ke tan pe ke itne zewar
+  Behan main tujhko lita na paaya
+
   7
-  Tu kitni hasrat se poochti thi
-  Milegi kab qaid se rehaai
-  Nahi rehaai tera muqaddar
-  Behan mai tujhko bata na paaya
-  
+  Tu kitni hasrat se puchhti thi
+  Milegi kab qaid se rihaai
+  Nahiṅ rihaai tera muqaddar
+  Behan main tujhko bata na paaya
+
   8
-  Wo tauq o zanjeer o hathkadi mein
-  Banayi kaise behan ki turbat
-  Shameem likhe wo kaise manzar
+  Wo tauq o zanjir o hathkari mein
+  Banaai kaise behan ki turbat
+  Shamim likhe wo kaise manzar
   Jo mera maula bhula na paaya
 # source_id: nohayonline:3e63210c7ff5b58d096c
 # source_url: https://www.nohayonline.com/details_content.php?id=2900

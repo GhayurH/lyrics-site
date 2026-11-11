@@ -6,68 +6,70 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sada dete thay ye sarwar
-  Behan zainab khuda hafiz
-  Karo ruqsat hamay aa kar
+  Sada dete the ye Sarwar
+  Behan Zainab Khuda hafiz
+  Karo rukhsat hameṅ aa kar
+  Behan Zainab Khuda hafiz
 
   1
-  Nahi muhlat ke sunlo
-  Chand baatein is ghadi meri
-  Bapa hoga phir ek mehshar
+  Nahiṅ muhlat ke sun lo
+  Chand baateṅ is ghari meri
+  Bapa hoga phir ek mahshar
 
   2
-  Behan meri nigahon may
+  Behan meri nigaahoṅ mein
   Andhera hi andhera hai
-  Na laute jab se ghar akbar
+  Na laute jab se ghar Akbar
 
   3
   Behan bas aakhri khidmat ko
-  Maidan may chali aana
-  Bulaun jab sada de kar
+  Maidaaṅ mein chali aana
+  Bulaauṅ jab sada de kar
 
   4
-  Behan zer e falak jab
-  Aakhri sajda karenge hum
-  Jabeeen hogi lahoo may tar
+  Behan zer-e-falak jab
+  Aakhri sajda kareṅge hum
+  Jabiṅ hogi lahu mein tar
 
   5
-  Behan jab fatema ke
-  Laal par khanjar rawan hoga
-  Lahoo hoga har ek manzar
+  Behan jab Fatima ke
+  Laal par khanjar rawaaṅ hoga
+  Lahu hoga har ek manzar
 
   6
-  Pareshan tum na hona
-  Jab zameen larze falak kaampe
-  Chalega us ghadi khanjar
+  Pareshaaṅ tum na hona
+  Jab zamiṅ larze falak kaaṅpe
+  Chalega us ghari khanjar
 
   7
-  Ujala doob jayega
-  Siyaah aandhi uthegi jab
+  Ujaala dub jaayega
+  Siyaah aaṅdhi uthegi jab
   Wo hoga hashr ka manzar
 
   8
-  Behan shaam e ghariban
-  Ek naya mehshar bapa hoga
-  Chinegi sar se jab chadar
+  Behan shaam-e-gharibaaṅ
+  Ik naya mahshar bapa hoga
+  Chhinegi sar se jab chaadar
 
   9
-  Behan us dam khayaale
-  Abid e bemaar laazim hai
-  Jalega jab nabi ka ghar
+  Behan us dam khayaal-e
+  Abid-e-bimaar laazim hai
+  Jalega jab Nabi ka ghar
 
   10
-  Behan bali sakina
-  Jab hamay zid karke royegi
-  Sulaana us ko seenw par
+  Behan baali Sakina
+  Jab hameṅ zid karke royegi
+  Sulaana us ko sine par
 
   11
   Behan jab sar barehna
   Shaam ki basti se guzrogi
-  Rahenge hum bhi naize par
+  Raheṅge hum bhi naize par
 
   12
   Behan tum ko mere
@@ -75,14 +77,14 @@ romanLyrics: |-
   Rasan baandhe jo baazu par
 
   13
-  Behan kuch manzilein hongi
-  Jahan bemaar abid ko
-  Sahara dena tum bad kar
+  Behan kuchh manzileṅ hoṅgi
+  Jahaaṅ bimaar Abid ko
+  Sahaara dena tum barh kar
 
   14
   Fareed aati rahi jab tak
-  Nazar zainab dar e qaima
-  Ye shah kehte thay mud mud kar
+  Nazar Zainab dar-e-khaima
+  Ye Shah kehte the mur mur kar
 # source_id: nohayonline:c999d0d672a0e7ce41c5
 # source_url: https://www.nohayonline.com/details_content.php?id=1897
 # raw_sha256: 4235ff01e912e539a0c8e8cc7843ede5ba2b77a93d23fb2c26d512dac0b8b7ed
@@ -90,9 +92,10 @@ romanLyrics: |-
 صدا دیتے تھے یہ سرور
 بہن زینب خدا حافظ
 کرو رخصت ہمیں آکر
+بہن زینب خدا حافظ
 
 ۱
-نہیں مہلت کے سن لو
+نہیں مہلت کہ سن لو
 چند باتیں اس گھڑی میری
 بپا ہوگا پھر اس محشر
 
@@ -122,7 +125,7 @@ romanLyrics: |-
 چلے گا اس گھڑی خنجر
 
 ۷
-اجالا ڈوب جاے گا
+اجالا ڈوب جائے گا
 سیاہ آندھی اٹھے گی جب
 وہ ہوگا حشر کا منظر
 
@@ -138,12 +141,12 @@ romanLyrics: |-
 
 ۱۰
 بہن بالی سکینہ
-جب ہمیں ضد کرکے روے گی
+جب ہمیں ضد کرکے روئے گی
 سلانا اس کو سینے پر
 
 ۱۱
 بہن جب سر برہنہ
-شام کی بستی سے گزروں گی
+شام کی بستی سے گزرو گی
 رہیں گے ہم بھی نیزے پر
 
 ۱۲
