@@ -6,68 +6,69 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Gohar Jarchvi"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bain karta huwa khak urata huwa
-  Tashnalab Bai Rida Lo Chala Qafila
-  Sun Kai Shor-e-Fughan Aik Kohram Hai
-  Bar Sarai Kerbala Lo Chala Qafila
+  Bain karta hua khaak uraata hua
+  Tashna lab berida lo chala qaafila
+  Sun ke shor-e-fughaaṅ ek kohraam hai
+  Bar sar-e-Karbala lo chala qaafila
 
   1
-  Rasm-e-Perda Girin Jis Kai Ghar Sai Chali
-  Shahzadi Wahin Bai Rida Ho Gayi
-  Mer Na Jayai Kahin Gham Sai Bint-e-Ali
-  Hai Ab Ho Ga Kiya Lo Chala Qafila
+  Rasm-e-parda gari jis ke ghar se chali
+  Shahzaadi wohi berida ho gayi
+  Mar na jaaye kahiṅ gham se Bint-e-Ali
+  Haaye ab hoga kya lo chala qaafila
 
   2
-  Apni Soorat Dikha Do Mujhai Meri Jaan
-  Phir Khuda Janai Aana ho ya kai na ho
-  Aao Akber Utho Ham Ko Rukhsat Karo
-  Ma Nai Ro Kai Kaha Lo Chala Qafila
+  Apni surat dikha do mujhe meri jaan
+  Phir Khuda jaane aana ho ya ke na ho
+  Aao Akbar utho ham ko rukhsat karo
+  Maaṅ ne ro kar kaha lo chala qaafila
 
   3
-  Thani-e-Fatima Bint-e-Shair-e-Khuda
-  Kaisai Bazar Main Jai Gi Bai Rida
-  Kaisai Tai Ho Ga Who Shaam Ka Rasita
-  Ro Rahi Hai Faza Lo Chala Qafila
+  Saani-e-Faatima Bint-e-Sher-e-Khuda
+  Kaise baazaar mein jaaye gi berida
+  Kaise tay hoga wo Shaam ka raasta
+  Ro rahi hai faza lo chala qaafila
 
   4
-  Piyar Sai Jis ko Pala the Shabir Nai
-  Us ko Jakra Gaiya Toq-o-Zanjeer Sai
-  Rah pur Khawar per Pa baraihan Safar
-  Kaisai Ho Ga Bahala Lo Chala Qafila
+  Pyaar se jis ko paala tha Shabbir ne
+  Us ko jakra gaya tauq o zanjir se
+  Raah purkhaar par pa barehna safar
+  Kaise hoga bhala lo chala qaafila
 
   5
-  Rak Khaiamai Huwai Sab Asasa Luta
-  Bai Sahara Beemar Ka Qunba Huwa
-  Shaam Ghurbat Kai Qaidi Chalai Shaam Ko
-  La Chali Ashqiya Lo Chala Qafila
+  Raakh kheme hue sab asaasa luta
+  Besahaara Payambar ka kunba hua
+  Shaam-e-ghurbat ke qaidi chale Shaam ko
+  Le chale ashqiya lo chala qaafila
 
   6
-  Hai Nabi Zadian Sar Khulai Bai Rida
-  Kiya Ghasab H o Gaiya Kiya Sitam Ho Gaiya
-  Bai Kajavan Savari aur Aal-e-Aba
-  Shor-e-Matam Utha Lo Chala Qafila
+  Haiṅ Nabi zaadiyaaṅ sar khule berida
+  Kya ghazab ho gaya kya sitam ho gaya
+  Bekajaawa sawaari aur Aal-e-Aba
+  Shor-e-maatam utha lo chala qaafila
 
   7
-  Jin ki Chahat pai Konain ka Raj Hai
-  Jis kai Thani Zamanai main koi Nahin
-  Chahnai Walai Who Bahi aur Who Behan
-  Ro Rahi Hai Juda Lo Chala Qafila
+  Jin ki chaahat pe kaunain ko naaz hai
+  Jis ka saani zamaane mein koi nahiṅ
+  Chaahne waale wo bhai aur wo behan
+  Ho rahe haiṅ juda lo chala qaafila
 
   8
-  Char Janib Sai Yeh Aayi hai Sada
-  Alwida Alwida Alwdia Alwida
-  Apnai Piyaron Kai Lashon sai Ho ker Juda
-  Khon Rota Huwa Lo Chala Qafila
+  Chaar jaanib se ye aa rahi sada
+  Alwida alwida alwida alwida
+  Apne pyaaroṅ ke laashoṅ se ho kar juda
+  Khun rota hua lo chala qaafila
 
   9
-  Haal Us Waqat Ka Kaisai Gohar Likhai
-  Dekh kar suye maqtal sabhi ro diye
-  Sab shaheedon Kai Lashai Tarapnai Lagai
-  Jab yeh Aayi Sada Lo Chala Qafila
+  Haal us waqt ka kaise Gohar likhe
+  Dekh kar su-e-maqtal sabhi ro diye
+  Sab shahidoṅ ke laashe tarapne lage
+  Jab ye aayi sada lo chala qaafila
 # source_id: nohayonline:216fee97798375459ba4
 # source_url: https://www.nohayonline.com/details_content.php?id=1502
 # raw_sha256: 9c3dc222ef64fafe064ae26553625f56a768ffa78fe70aae9d0d8f1e99d10c3d
@@ -83,9 +84,9 @@ romanLyrics: |-
 
 ۱
 رسم پردہ گری جس کے گھر سے چلی
-شہزادی وہی بے ردا ہو گیء
-مر نہ جاے کہیں غم سے بنت علی
-ہاے اب ہوگا کیا لو چلا قافلہ
+شہزادی وہی بے ردا ہو گئی
+مر نہ جائے کہیں غم سے بنت علی
+ہائے اب ہوگا کیا لو چلا قافلہ
 
 ۲
 اپنی صورت دکھا دو مجھے میری جان
@@ -94,8 +95,8 @@ romanLyrics: |-
 ماں نے رو کر کہا لو چلا قافلہ
 
 ۳
-ثانیء فاطمہ بنتِ شیر خدا
-کیسے بازار میں جاے گی بے ردا
+ثانیِ فاطمہ بنتِ شیر خدا
+کیسے بازار میں جائے گی بے ردا
 کیسے طے ہو گا وہ شام کا راستہ
 رو رہی ہے فضا لو چلا قافلہ
 
@@ -106,7 +107,7 @@ romanLyrics: |-
 کیسے ہوگا بھلا لو چلا قافلہ
 
 ۵
-راخ خیمے ہوے سب اثاثہ لٹا
+راکھ خیمے ہوئے سب اثاثہ لٹا
 بے سہارا پیمبر کا کنبہ ہوا
 شام غربت کے قیدی چلے شام کو
 لے چلے اشقیاء لو چلا قافلہ
@@ -120,7 +121,7 @@ romanLyrics: |-
 ۷
 جنکی چاہت پہ کونین کو ناز ہے
 جس کا ثانی زمانے میں کوئی نہیں
-چاہنے والے وہ بھای اور وہ بہن
+چاہنے والے وہ بھائی اور وہ بہن
 ہو رہے ہیں جدا لو چلا قافلہ
 
 ۸
@@ -131,6 +132,6 @@ romanLyrics: |-
 
 ۹
 حال اس وقت کا کیسے گوہر لکھے
-دیکھ کر سوے مقتل سبھی رو دیےء
+دیکھ کر سوئے مقتل سبھی رو دیے
 سب شہیدوں کے لاشے تڑپنے لگے
-جب یہ آی صدا لو چلا قافلہ
+جب یہ آئی صدا لو چلا قافلہ

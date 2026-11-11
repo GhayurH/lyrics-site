@@ -6,24 +6,25 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Daair e raahib mein jo sarwar ka kata sar aaya
-  Noor chehre ka jo dekha to bahot ghabraya
-  Utha tazeem ko naize ke barabar aaya
-  Godh mein leke wo sar hujre ke andar aaya
+  Daair-e-raahib mein jo Sarwar ka kata sar aaya
+  Nur chehre ka jo dekha to bahot ghabraaya
+  Utha tazim ko naize ke barabar aaya
+  God mein le ke wo sar hujre ke andar aaya
+  Saaf karta tha lahu mahw-e-buka tha raahib
+  Munh pe munh rakh ke yehi soch raha tha raahib
 
   1
-  Saaf karta tha lahoo mehwe buka tha raahib
-  Moo pe moo rakh ke yehi soch raha tha raahib
-  Laashein ghar bhar ki utha kar ye abhi soya hai
+  Laasheṅ ghar bhar ki utha kar ye abhi soya hai
   Dekh kar chehre ko lagta hai bahot roya hai
 
   2
-  Warm aankhon ka batata hai bahot saabir hai
-  Haye baalon ki safedi se yehi zaahir hai
+  Waram aankhoṅ ka bataata hai bahot saabir hai
+  Haaye baaloṅ ki safedi se yehi zaahir hai
   Ho na ho isne barabar ka pisar khoya hai
 
   3
@@ -32,39 +33,39 @@ romanLyrics: |-
   Baad marne ke bhi naize pe jo ye goya hai
 
   4
-  Ye ragein khushk batati hai bada pyasa tha
-  Jis ghadi taygh se zaalim ne gala kaata tha
-  Kaunsi maa hai ke jisne ye pisar khoya hai
+  Ye rageṅ khushk bataati hai bara pyaasa tha
+  Jis ghari tegh se zaalim ne gala kaata tha
+  Kaunsi maaṅ hai ke jis ne ye pisar khoya hai
 
   5
-  Baal sab khoon mein matti mein atay hai is ke
-  Hont bhi pyaas ki shiddat se phate hai is ke
-  Apne ashkon se hi in honton ko bhigoya hai
+  Baal sab khun mein mitti mein ate haiṅ is ke
+  Hont bhi pyaas ki shiddat se phate haiṅ is ke
+  Apne ashkoṅ se hi in hontoṅ ko bhigoya hai
 
   6
-  Log kehte hai badi eeza uthayi is ne
-  Qabr masoom se bacche ki banayi is ne
-  Khoon e masoom se hi zakhme jigar dhoya hai
+  Log kehte haiṅ bari iza uthaai is ne
+  Qabr maasum se bachche ki banaai is ne
+  Khun-e-maasum se hi zakhm-e-jigar dhoya hai
 
   7
-  Dhyaan jab aaya behan ka tahe khanjar roya
+  Dhyaan jab aaya behan ka tah-e-khanjar roya
   Sar khule dekha to phir naize ke upar roya
-  Ye muqaddar isay kis mod pe le aaya hai
+  Ye muqaddar ise kis mor pe le aaya hai
 
   8
-  Hont masoom si bacchi ke bhi pyase dekhe
-  Haye lagte huwe gaalon pe tamache dekhe
-  Rassiyon se bandha nanha sa gala dekha hai
+  Hont maasum si bachchi ke bhi pyaase dekhe
+  Haaye lagte hue gaaloṅ pe tamaache dekhe
+  Rassiyoṅ se bandha nanha sa gala dekha hai
 
   9
-  Jis ghadi qasim e muztar gaye maare roya
-  Bhai ki laash pe darya ke kanare roya
-  Dono haathon se kamar pakde huwe pahuncha hai
+  Jis ghari Qasim-e-muztar gaye maare roya
+  Bhai ki laash pe darya ke kinaare roya
+  Donoṅ haathoṅ se kamar pakre hue pahuncha hai
 
   10
-  Shadman godh mein rakhe tha qamar ko raahib
-  Bain kehta tha yehi choom ke sar ko raahib
-  Godh mein chand ka tukda ye meri soya hai
+  Shaadmaaṅ god mein rakhe tha qamar ko raahib
+  Bain kehta tha yehi chum ke sar ko raahib
+  God mein chaand ka tukra ye meri soya hai
 # source_id: nohayonline:99422267cd189ffa9032
 # source_url: https://www.nohayonline.com/details_content.php?id=2612
 # raw_sha256: 522e34a5fcf8e3064f1efc317f615385e8abb4144653f9cf7e59b925ac4effea
@@ -73,16 +74,16 @@ romanLyrics: |-
 نور چہرے کا جو دیکھا تو بہت گھبرایا
 اٹھا تعظیم کو نیزے کے برابر آیا
 گود میں لے کے وہ سر ہجرے کے اندر آیا
-
-۱
 صاف کرتا تھا لہو محوِ بکا تھا راحب
 منہ پہ منہ رکھ کے یہی سوچ رہا تھا راحب
+
+۱
 لاشیں گھر بھر کی اٹھا کر یہ ابھی سویا ہے
 دیکھ کر چہرے کو لگتا ہے بہت رویا ہے
 
 ۲
 ورم آنکھوں کا بتاتا ہے بہت صابر ہے
-ہاے بالوں کی سفیدی سے یہی ظاہر ہے
+ہائے بالوں کی سفیدی سے یہی ظاہر ہے
 ہو نہ ہو اس نے برابر کا پسر کھویا ہے
 
 ۳
@@ -101,7 +102,7 @@ romanLyrics: |-
 اپنے اشکوں سے ہی ان ہونٹوں کو بھگویا ہے
 
 ۶
-لوگ کہتے ہیں بڑی ایذا اٹھای اس نے
+لوگ کہتے ہیں بڑی ایذا اٹھائی اس نے
 قبر معصوم سے بچے کی بنائی اس نے
 خون معصوم سے ہی زخم جگر دھویا ہے
 
@@ -112,13 +113,13 @@ romanLyrics: |-
 
 ۸
 ہونٹ معصوم سی بچی کے بھی پیاسے دیکھے
-ہاے لگتے ہوے گالوں پہ طمانچے دیکھے
+ہائے لگتے ہوئے گالوں پہ طمانچے دیکھے
 رسیوں سے بندھا ننھا سا گلا دیکھا ہے
 
 ۹
-جس گھڑی قاسم مضطر گےء مارے رویا
-بھای کی لاش پہ دریا کے کنارے رویا
-دونوں ہاتھوں سے کمر پکڑے ہوے پہنچا ہے
+جس گھڑی قاسم مضطر گئے مارے رویا
+بھائی کی لاش پہ دریا کے کنارے رویا
+دونوں ہاتھوں سے کمر پکڑے ہوئے پہنچا ہے
 
 ۱۰
 شادماں گود میں رکھے تھا قمر کو راحب
