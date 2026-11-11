@@ -9,45 +9,48 @@ poet: "Suhail"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Nasir Zaidi"
 romanLyrics: |-
-  Bain karti hai ye umme farwa
-  Mere qasim ko dulha banao
+  Bain karti hai ye Umm-e-Farwa
+  Mere Qasim ko dulha banaao
+
   Aakhri hai ye armaan mera
+  Mere Qasim ko dulha banaao
 
   1
-  Mere bache ko mehendi lagao
-  Is ke maathe pe sehra sajao
-  Shab dhali jaa rahi hai khudara
+  Mere bachche ko mehndi lagaao
+  Is ke maathe pe sehra sajaao
+  Shab dhali jaa rahi hai Khudaara
 
   2
-  Maut ka rang chaaya fiza may
-  Is se pehle ke dasht e bala may
-  Ho namudaar khooni savera
+  Maut ka rang chhaaya fiza mein
+  Is se pehle ke dasht-e-bala mein
+  Ho namudaar khuni sawera
 
   3
   Kaash waaris mera saath hota
-  Yun na karti mai faryaad dukhiya
-  Mujhpe hai ye bada sakht lamha
+  Yuṅ na karti main faryaad dukhiya
+  Mujh pe hai ye bara sakht lamha
 
   4
   Laal ka apne sadqa utaaro
-  Apni jaan apne bache pe waaro
-  Muntazir kab se hai meri kubra
+  Apni jaaṅ apne bachche pe waaro
+  Muntazir kab se hai meri Kubra
 
   5
-  Waqt dasht e bala may wo aaya
-  Maa ki mamta ka utha janaza
-  Phir bhi dukhiya ke lab per tha nauha
+  Waqt dasht-e-bala mein wo aaya
+  Maaṅ ki mamta ka utha janaaza
+  Phir bhi dukhiya ke lab par tha nauha
 
   6
-  Chand surat ko lakhte jigar ko
+  Chaand surat ko lakht-e-jigar ko
   Yaad kar kar ke apne pisar ko
-  Qaid may bhi ye kehti thi dukhiya
+  Qaid mein bhi ye kehti thi dukhiya
 
   7
-  Haye wo ghamzada umme farwa
-  Umr bhar hi rahi mehwe girya
-  Aaj bhi hai suhail us ka naala
+  Haaye wo ghamzada Umm-e-Farwa
+  Umr bhar hi rahi mahw-e-girya
+  Aaj bhi hai Suhail us ka naala
 # source_id: nohayonline:24ff78d6c16ff6202050
 # source_url: https://www.nohayonline.com/details_content.php?id=1891
 # raw_sha256: b088627724cec0ce199c5d8eea179b95be431845f3122b52205da84a76325c83
@@ -55,7 +58,9 @@ romanLyrics: |-
 
 بین کرتی ہے یہ ام فروا
 میرے قاسم کو دولہا بناؤ
+
 آخری ہے یہ ارمان میرا
+میرے قاسم کو دولہا بناؤ
 
 ۱
 میرے بچے کو مہندی لگاؤ
@@ -88,6 +93,6 @@ romanLyrics: |-
 قید میں بھی یہ کہتی تھی دکھیا
 
 ۷
-ہاے وہ غم زدہ ام فروا
+ہائے وہ غم زدہ ام فروا
 عمر بھر ہی رہی محوِ گریہ
 آج بھی ہے سہیل اس کا نالہ

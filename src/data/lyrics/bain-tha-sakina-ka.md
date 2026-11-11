@@ -10,37 +10,40 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bain tha sakina ka shaam hone waali hai
-  Kab tak aaoge baba shaam hone waali hai
+  Bain tha Sakina ka shaam hone waali hai
+  Kab tak aaoge Baba shaam hone waali hai
 
   1
-  Khushk hai zaban meri teen din se hoo pyasi
-  Kaun pani layega shaam hone waali hai
+  Khushk hai zabaaṅ meri tin din se huṅ pyaasi
+  Kaun paani laayega shaam hone waali hai
 
   2
-  Subha ke charaghon ki tarha hai sabhi khamosh
-  Cha raha hai andhiyara shaam hone waali hai
+  Subh ke charaaghoṅ ki tarah hai sabhi khaamosh
+  Chhaa raha hai andhiyaara shaam hone waali hai
 
   3
-  Neend kaise aayegi soyun kiske seene par
-  Jald aaiye baba shaam hone waali hai
+  Nind kaise aayegi souṅ kis ke sine par
+  Jald aaiye Baba shaam hone waali hai
 
   4
-  Asr ke ujaale mein ghar luta ke baithi hoo
-  Phir na lootle aada shaam hone waali hai
+  Asr ke ujaale mein ghar luta ke baithi huṅ
+  Phir na lut le aada shaam hone waali hai
 
   5
-  Shaam ke tasavvur se kaampti hoo reh reh kar
+  Shaam ke tasavvur se kaanpti huṅ reh reh kar
   Ghut raha hai dam mera shaam hone waali hai
 
   6
-  Bhai bhi chacha bhi hai kya tumhare saath ab tak
-  Koi bhi nahi aaya shaam hone waali hai
+  Bhaai bhi chacha bhi hai kya tumhaare saath ab tak
+  Koi bhi nahiṅ aaya shaam hone waali hai
 
   7
-  Kya saeed kehta hai haale dil sakina ka
-  Subha se hai hungama shaam hone waali hai
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+  Kya Saeed kehta hai haal-e-dil Sakina ka
+  Subh se hai hangaama shaam hone waali hai
+reciter: "Alamdar Razvi"
+# source_note: The retained wording/order follows Alamdar Razvi (id=2007); Sachey Bhai and Ziyaraat supply a variant performance.
+# source_variant_after_s4_roman: Aao Mustafa aao aao Murtaza aao / Aao Fatima Zehra shaam hone waali hai
+# source_variant_after_s4_urdu: آؤ مصطفیٰ آؤ آؤ مرتضیٰ آؤ / آؤ فاطمہ زہرا شام ہونے والی ہے
 # source_id: nohayonline:45b21ecf81915337e9b1
 # source_url: https://www.nohayonline.com/details_content.php?id=527
 # raw_sha256: 509b3e4206fef8975df02cb1448087d50918e64de2cb667fd4a2619781828ff6
@@ -56,15 +59,15 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 
 ۱
 خشک ہے زباں میری تین دن سے ہوں پیاسی
-کون پانی لاے گا شام ہونے والی ہے
+کون پانی لائے گا شام ہونے والی ہے
 
 ۲
 صبح کے چراغوں کی طرح ہے سبھی خاموش
 چھا رہا ہے اندھیارا شام ہونے والی ہے
 
 ۳
-نیند کیسے آے گی سوؤں کس کے سینے پر
-جلد آیےء بابا شام ہونے والی ہے
+نیند کیسے آئے گی سوؤں کس کے سینے پر
+جلد آئیے بابا شام ہونے والی ہے
 
 ۴
 عصر کے اجالے میں گھر لٹا کے بیٹھی ہوں
@@ -75,9 +78,9 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 گھٹ رہا ہے دم میرا شام ہونے والی ہے
 
 ۶
-بھای بھی چچا بھی ہے کیا تمہارے ساتھ اب تک
+بھائی بھی چچا بھی ہے کیا تمہارے ساتھ اب تک
 کوئی بھی نہیں آیا شام ہونے والی ہے
 
 ۷
-کیا سعید کہتا ہے حال دل سکینہ کا
+کیا سعید کہتا ہے حالِ دل سکینہ کا
 صبح سے ہے ہنگامہ شام ہونے والی ہے
