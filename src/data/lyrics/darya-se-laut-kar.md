@@ -5,32 +5,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Darya se laut kar na alamdaar aa sakay
-  Afsos bekason ke na ghamqaar aa sakay
+  Darya se laut kar na alamdaar aa sake
+  Afsos bekasoṅ ke na ghamkhwaar aa sake
 
   1
-  Wo teen din ki pyas wo garmi labe firaat
-  Aale rasool pyas na apni bhuja sakay
+  Wo tin din ki pyaas wo garmi lab-e-Furaat
+  Aal-e-Rasul pyaas na apni bujha sake
 
   2
-  Jhuk kar kamaan hogayi mazloom ki kamar
-  Abbas tera laasha na sarwar utha sakay
+  Jhuk kar kamaan ho gai mazlum ki kamar
+  Abbas tera laasha na Sarwar utha sake
 
   3
-  Keh kar jahaan se chal diye abbas-e-bawafa
-  Aaqa mera janaza na qaimo may jaa sakay
+  Keh kar jahaaṅ se chal diye Abbas-e-ba wafa
+  Aaqa mera janaaza na khaimoṅ mein jaa sake
 
   4
-  Darya se pani laake gira dete thay layeen
-  Asghar ko ek boond na pani pila sakay
+  Darya se paani laa ke gira dete the lain
+  Asghar ko ik bund na paani pila sake
 
   5
-  Awaaz do abbas ko zindaan-e-shaam may
-  Tashna dahan sakina ki turbat bana sakay
+  Aawaaz do Abbas ko zindaan-e-Shaam mein
+  Tishna dahan Sakina ki turbat bana sake
 # source_id: nohayonline:2d1c9fa041191bfc0c0e
 # source_url: https://www.nohayonline.com/details_content.php?id=38
 # raw_sha256: e9b52053b1204bf9ef9aac1433ff53f2221320d9964c2a7afed303c2a1738b12
@@ -39,8 +40,8 @@ romanLyrics: |-
 افسوس بے کسوں کے نہ غمخوار آ سکے
 
 ۱
-وہ تین دن کی پیاس وہ گرمی لبِ فرا،ت
-آلِ رسول پیاس نہ اپنی بھُجا سکے
+وہ تین دن کی پیاس وہ گرمی لبِ فرات
+آلِ رسول پیاس نہ اپنی بجھا سکے
 
 ۲
 جھُک کر کمان ہو گئی مظلوم کی کمر

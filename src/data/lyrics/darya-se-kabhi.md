@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Murtaza-Riaz"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Darya se kabhi qaime ko jayenge na abbas
-  Chehra bhi sakina ko dikhaenge na abbas
+  Darya se kabhi khaime ko jaaeṅ ge na Abbas
+  Chehra bhi Sakina ko dikhaaeṅ ge na Abbas
 
   1
-  Kooze liye haaton may jo atfaal khade hai
-  Nazrein bhi kabhi unse milayenge na abbas
+  Kuze liye haathoṅ mein jo atfaal khare haiṅ
+  Nazreṅ bhi kabhi un se milaaeṅ ge na Abbas
 
   2
-  Naize ki ijazat hai so naize se ladenge
-  Talwaar kabhi ran may chalayenge na abbas
+  Naize ki ijaazat hai so naize se lareṅ ge
+  Talwaar kabhi ran mein chalaaeṅ ge na Abbas
 
   3
-  Jee bhar ke unhe dekhle ab saani e zehra
-  Jayenge to ab laut ke aayenge na abbas
+  Ji bhar ke unheṅ dekh le ab Saani-e-Zehra
+  Jaaeṅ ge to ab laut ke aaeṅ ge na Abbas
 
   4
-  Sharmindagi itni hai bhatiji se ke ta-hashr
-  Mashkeeze ko seene se hatayenge na abbas
+  Sharmindagi itni hai bhatiji se ke taa hashr
+  Mashkize ko sine se hataaeṅ ge na Abbas
 
   5
-  Kis tarha se wo zeen se aayenge zameen par
-  Haaton ka sahara bhi to payenge na abbas
+  Kis tarah se wo zin se aaeṅ ge zamin par
+  Haathoṅ ka sahaara bhi to paaeṅ ge na Abbas
 
   6
-  Shahid yehi meraaj e ita'at hai jari ki
-  Ankhein rukhe sarwar se hatayenge na abbas
+  Shahid yahi meraaj-e-itaaat hai jari ki
+  Aankheṅ rukh-e-Sarwar se hataaeṅ ge na Abbas
 # source_id: nohayonline:90f48ddc88d9a25d3d00
 # source_url: https://www.nohayonline.com/details_content.php?id=743
 # raw_sha256: 2381d84a9dfd1e181182b1f9f39bd8331913622520c6ed459651f19fe27da8ad
@@ -49,7 +50,7 @@ romanLyrics: |-
 
 ۲
 نیزے کی اجازت ہے سو نیزے سے لڑیں گے
-تلوار کبھی ران میں چلائیں گے نہ عباس
+تلوار کبھی رن میں چلائیں گے نہ عباس
 
 ۳
 جی بھر کے انہیں دیکھ لئے اب ثانی زہرہ
