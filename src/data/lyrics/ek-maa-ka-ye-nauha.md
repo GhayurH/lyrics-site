@@ -6,63 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek maa ka ye nauha tha aajao ali asghar
-  Dushwaar hua jeena aajao ali aghar
+  Ek maa ka ye nauha tha aa jaao Ali Asghar
+  Dushwaar hua jina aa jaao Ali Asghar
 
   1
-  Kya dil pe guzarti hai batlaun tumhe kaise
+  Kya dil pe guzarti hai batlaauṅ tumheṅ kaise
   Is waqt kamar thaame rote hue hasrat se
-  Kehte thay shahe waala aajao ali asghar
+  Kehte the Shaah-e-Waala aa jaao Ali Asghar
 
   2
-  Mai kis se kahoon beta ab khatm hua lashkar
-  Shabbir akele hai abbas hai na akbar
-  Hai waqt qayamat ka aajao ali asghar
+  Main kis se kahuṅ beta ab khatm hua lashkar
+  Shabbir akele haiṅ Abbas hai na Akbar
+  Hai waqt qayaamat ka aa jaao Ali Asghar
 
   3
-  Ek baar chale aao phir jaane nahi doongi
-  Godi mein uthaungi seene se lagaungi
-  Jangal mein nahi sona aajao ali asghar
+  Ek baar chale aao phir jaane nahiṅ duṅ gi
+  Godi mein uthaauṅ gi sine se lagaauṅ gi
+  Jangal mein nahiṅ sona aa jaao Ali Asghar
 
   4
-  Ay laal teri surat phirti hai nigahon mein
-  Laut aao ke ab lori dhalne lagi aahon mein
-  Khoon rota hai dil mera aajao ali asghar
+  Ae laal teri surat phirti hai nigaahoṅ mein
+  Laut aao ke ab lori dhalne lagi aahoṅ mein
+  Khuṅ rota hai dil mera aa jaao Ali Asghar
 
   5
-  Behaal sakina hai dekho to zara aakar
-  Hai neel tamacho ke mazloom ke gaalon par
-  Mar jaye na masooma aajao ali asghar
+  Behaal Sakina hai dekho to zara aa kar
+  Haiṅ nil tamaachoṅ ke mazlum ke gaaloṅ par
+  Mar jaaye na maasuma aa jaao Ali Asghar
 
   6
-  Bikhre hue laashe hai har ek taraf ran mein
-  Khauf aata hai ay beta is ujde hue ban mein
-  Maqtal mein hai sannata aajao ali asghar
+  Bikhre hue laashe haiṅ har ek taraf ran mein
+  Khauf aata hai ae beta us ujre hue ban mein
+  Maqtal mein hai sannaata aa jaao Ali Asghar
 
   7
-  Mai raaton ko uth uth kar jo jhoola jhulati thi
-  De de ke tumhe lori mai jisme sulaati thi
-  Veeran hai wo jhoola aajao ali asghar
+  Main raatoṅ ko uth uth kar jo jhula jhulaati thi
+  De de ke tumheṅ lori main jis mein sulaati thi
+  Viraan hai wo jhula aa jaao Ali Asghar
 
   8
-  Hai aakhri sajde mein wo waaris e paighambar
-  Ab shimr ka khanjar hai shabbir ki gardan par
-  Lut jaye na ghar mera aajao ali asghar
+  Hai aakhri sajde mein wo waaris-e-Paighambar
+  Ab Shimr ka khanjar hai Shabbir ki gardan par
+  Lut jaaye na ghar mera aa jaao Ali Asghar
 
   9
-  Mehshar tha bapa gohar is dashte musibat mein
-  Tadpa to zaroor hoga baysheer bhi turbat mein
-  Jab maa ne kaha hoga aajao ali asghar
+  Mahshar tha bapa Gohar is dasht-e-musibat mein
+  Tarpa to zarur hoga beshir bhi turbat mein
+  Jab maa ne kaha hoga aa jaao Ali Asghar
 # source_id: nohayonline:283959f7b47e4377f6d5
 # source_url: https://www.nohayonline.com/details_content.php?id=796
 # raw_sha256: d3aa5d26309ec429afdd3aeb1ae3f11785c27bd2c7a643c1e0dcde58a0e1dd83
 ---
 اک ماں کا یہ نوحہ تھا آ جائو علی اصغر
-دشوار ہوا جیناآ جائو علی اصغر
+دشوار ہوا جینا آ جائو علی اصغر
 
 ۱
 کیا دل پہ گزرتی ہے بتلائوں تمہیں کیسے
@@ -76,7 +77,7 @@ romanLyrics: |-
 
 ۳
 اک بار چلے آئو پھر جانے نہیں دوں گی
-گودی میںاٹھائوں گی سینے سے لگائوں گی
+گودی میں اٹھائوں گی سینے سے لگائوں گی
 جنگل میں نہیں سونا آ جائو علی اصغر
 
 ۴

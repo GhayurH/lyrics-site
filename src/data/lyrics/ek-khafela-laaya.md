@@ -1,69 +1,70 @@
 ---
 title: "سُلا کے قبر میں بے شیر کو حسینِ غریب"
-alternateTitle: "Ek Khafela Laaya"
+alternateTitle: "Ek Qaafila Laaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ek Khafela Laaya"]
 published: false
 romanLyrics: |-
-  Sula ke qabr mein baysheer ko hussain e ghareeb
-  Har ek shaheed ke laashe pe aaye rote huve
-  Labe hussain se suye falak gayi ye sada
-  Ek khafela laaya tha mai
+  Sula ke qabr mein beshir ko Husain-e-Gharib
+  Har ek shahid ke laashe pe aaye rote hue
+  Lab-e-Husain se su-e-falak gayi ye sada
+  Ek qaafila laaya tha main
 
   1
-  Us khafele mein tha ali akbar sa ek beta jawan
-  Abbas jaisa bhai tha masoom asghar bezuban
-  Kuch bibiyan thi saath mein mehzar mein jinka naam tha
+  Us qaafile mein tha Ali Akbar sa ek beta jawaaṅ
+  Abbas jaisa bhai tha maasum Asghar bezubaaṅ
+  Kuch bibiyaaṅ thi saath mein mehzar mein jin ka naam tha
 
   2
-  Ye khafela kaise luta ye soch ke mai ro diya
-  Paala tha jinko naaz se karbobala mein kho diya
-  Un sab ke laashe saamne thay aur honton par buka
+  Ye qaafila kaise luta ye soch ke main ro diya
+  Paala tha jin ko naaz se Karb o Bala mein kho diya
+  Un sab ke laashe saamne the aur hontoṅ par buka
 
   3
-  Kadiyal jawan ki laash haaton par uthayi hai abhi
-  Ek bezuban ki qabr bhi maine banayi hai abhi
-  Saaman mere qatl ka karte hai ab ye ashkiyan
+  Karyal jawaan ki laash haathoṅ par uthaai hai abhi
+  Ek bezubaaṅ ki qabr bhi main ne banaai hai abhi
+  Saaman mere qatl ka karte haiṅ ab ye ashkiyan
 
   4
-  Pyase mere atfaal hai behta hai darya saamne
-  Ek bewatan ko dasht mein loota hai fauje shaam ne
-  Roti hai mere chaahne walon ke laasho par qaza
+  Pyaase mere atfaal haiṅ behta hai darya saamne
+  Ek bewatan ko dasht mein luta hai Fauj-e-Shaam ne
+  Roti hai mere chaahne waaloṅ ke laashoṅ par qaza
 
   5
-  Kismat meri lekar mujhe karbobala tak aa gayi
-  Ab badte badte baat zainab ki rida tak aa gayi
-  Ho jaunga mai qatl to chin jayegi uski rida
+  Qismat meri le kar mujhe Karb o Bala tak aa gayi
+  Ab barhte barhte baat Zainab ki rida tak aa gayi
+  Ho jaauṅ ga main qatl to chhin jaayegi us ki rida
 
   6
-  Kuch dayr mein khanjar layeen ka halq par chal jayega
-  Aur baad mere qaima e sadaat bhi jal jayega
-  Kya yun koi pardes mein aa kar luta ay karbala
+  Kuch der mein khanjar lain ka halq par chal jaayega
+  Aur baad mere khaima-e-Saadaat bhi jal jaayega
+  Kya yuṅ koi pardes mein aa kar luta ae Karbala
 
   7
-  Jab qatl mai ho jaunga shaam e ghariban aayegi
-  Saydaniyo ke qalb pe taaza qayamat dhayegi
-  Us waqt uthegi mere laashe burida se sada
+  Jab qatl main ho jaauṅ ga Shaam-e-Gharibaaṅ aayegi
+  Sayyidaaniyoṅ ke qalb pe taaza qayaamat dhaayegi
+  Us waqt uthegi mere laash-e-burida se sada
 
   8
-  Laashe sabhi reh jayenge jalti zameen par bekafan
-  Qaidi banegi mustufa ki aal pabande rasan
-  Raahon mein rota jayega bemaar ye karke buka
+  Laashe sabhi reh jaayeṅ ge jalti zamiṅ par bekafan
+  Qaidi banegi Mustafa ki aal paaband-e-rasan
+  Raahoṅ mein rota jaayega bimaar ye kar ke buka
 
   9
-  Reh jayegi bali sakina ki fughan zindan mein
-  Qaidi rahengi saal bhar saydaniya zindan mein
-  Sajjad mera qaid se jayega ye kehta huwa
+  Reh jaayegi baali Sakina ki fughaaṅ zindaan mein
+  Qaidi raheṅ gi saal bhar sayyidaaniyaaṅ zindaan mein
+  Sajjad mera qaid se jaayega ye kehta hua
 
   10
-  Irfan haider ho gayi ahskon se aankhein nam meri
-  Aise masayib shaah ke likhta hai mazhar abidi
-  Bas ek misre mein simat kar aa gayi hai karbala
+  Irfan Haider ho gayi ashkoṅ se aankheṅ nam meri
+  Aise masaaib Shaah ke likhta hai Mazhar Abidi
+  Bas ek misre mein simat kar aa gayi hai Karbala
 # source_id: nohayonline:a32fe2531da256f10f5e
 # source_url: https://www.nohayonline.com/details_content.php?id=447
 # raw_sha256: 25383db0123a5a082e030a8688a3935726c991169246daf1f3ad93c177ff7286
@@ -80,7 +81,7 @@ romanLyrics: |-
 
 ۲
 یہ قافلہ کیسے لُٹا یہ سوچ کے میں رو دیا
-پالا تھا جن کو ناز سے کر ب و بلا میں کھو دیا
+پالا تھا جن کو ناز سے کرب و بلا میں کھو دیا
 اُن سب کے لاشے سامنے تھے اور ہونٹوں پر بُقا
 
 ۳
@@ -90,7 +91,7 @@ romanLyrics: |-
 
 ۴
 پیاسے میرے اطفال ہیں بہتا ہے دریا سامنے
-اک بے وطن کودشت میں لُوٹا ہے فوجِ شام نے
+اک بے وطن کو دشت میں لُوٹا ہے فوجِ شام نے
 روتی ہے میرے چاہنے والوں کے لاشوں پر قضا
 
 ۵

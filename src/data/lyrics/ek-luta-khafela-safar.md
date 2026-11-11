@@ -1,66 +1,66 @@
 ---
 title: "ایک لٹا قافلہ سفر میں ہے"
-alternateTitle: "Ek Luta Khafela Safar"
+alternateTitle: "Ek Luta Qaafila Safar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ek Luta Khafela Safar"]
 published: false
 romanLyrics: |-
-  Ek luta khaafela safar mein hai
-  Har qadam karbala nazar mein hai
+  Ek luta qaafila safar mein hai
+  Har qadam Karbala nazar mein hai
 
   1
-  Qalb mein sab ke daag-e-akbar hai
-  Aur nazron mein zakhm-e-asghar hai
-  Paas shehrag ke kund khanjar hai
-  Khushk honton pa naam e hyder hai
-  Maqsad e shahe deen nazar mein hai
+  Qalb mein sab ke daagh-e-Akbar hai
+  Aur nazroṅ mein zakhm-e-Asghar hai
+  Paas shah rag ke kund khanjar hai
+  Khushk hontoṅ pe naam-e-Haider hai
+  Maqsad-e-Shaah-e-Diṅ nazar mein hai
 
   2
-  Khaafile mein bohat se bache thay
-  Gyarvi ko jo karbala se chale
-  Raaston mein giray thay oonto se
-  Is tarha se ke phir kabhi na uthe
-  Maut ki gunj reh guzar mein hai
+  Qaafile mein bahut se bachche the
+  Gyaarahwiṅ ko jo Karbala se chale
+  Raastoṅ mein gire the uṅtoṅ se
+  Is tarah se ke phir kabhi na uthe
+  Maut ki gunj rahguzar mein hai
 
   3
-  Khaafile mein hai aisi maayein bhi
-  Godh ujdi chini ridayein bhi
-  Ab to lab par nahi duayein bhi
-  Sogaye thak ke sab sadayein bhi
-  Bas dhuwan hi dhuwan nazar mein hai
+  Qaafile mein haiṅ aisi maaeṅ bhi
+  God ujri chhini ridaaeṅ bhi
+  Ab to lab par nahiṅ duaaeṅ bhi
+  So gayiṅ thak ke sab sadaaeṅ bhi
+  Bas dhuaaṅ hi dhuaaṅ nazar mein hai
 
   4
-  Ek beemar khaafela salaar
+  Ek bimaar qaafila saalaar
   Tauq o zanjeer ka uthaye baar
-  Maaom behno ka saath aur bazaar
+  Maaoṅ behnoṅ ka saath aur baazaar
   Aakhri marhala bhara darbaar
   Sabr hi sabr rahbar mein hai
 
   5
-  Raunaq e khaafla thi ek bachi
+  Raunaq-e-qaafila thi ek bachchi
   Baap ko yaad kar ke jab roti
   Us ko is jurm ki saza milti
   Zulm itna hua ke ji na saki
-  Ab wo bachi andhere ghar mein hai
+  Ab wo bachchi andhere ghar mein hai
 
   6
-  Ho chuki jab tamaam ruswayi
-  Yaani islam ki maseehayi
-  Khaafla le ke sheh ki maa jaayi
-  Lut ke nainawa ki simt aayi
-  Asr e ashoor chashm e tar mein hai
+  Ho chuki jab tamaam ruswaai
+  Yaani Islam ki masihaai
+  Qaafila le ke Shah ki maa jaai
+  Lut ke Nainawa ki simt aayi
+  Asr-e-Aashur chashm-e-tar mein hai
 
   7
-  Jab madine ko jayega kunba
-  Hogi shahid qayamatein barpa
-  Sochti hai ye zainab e kubra
-  Kaise sughra ka saamna hoga
-  Shakl sughra ki bas nazar mein hai
+  Jab Madine ko jaayega kunba
+  Hoṅ gi Shahid qayaamateṅ barpa
+  Sochti hai ye Zainab-e-Kubra
+  Kaise Sughra ka saamna hoga
+  Shakl-e-Sughra ki bas nazar mein hai
 # source_id: nohayonline:2d2b0037b0b63af4cbf1
 # source_url: https://www.nohayonline.com/details_content.php?id=1619
 # raw_sha256: 042d76a5b6aa4c20e31cc54c87985e9d0783a6c282e32af259a9e00d69db9e16
