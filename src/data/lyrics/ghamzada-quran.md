@@ -9,68 +9,71 @@ poet: "Altaf Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Safdar Abbas"
 romanLyrics: |-
-  Ya fatema zehra ya umme abiha
-  Sayyeda raaziya marziya
-  Ghamzada quran zakhmi aaya e tatheer hai
-  Darmiyan deewar o dar ke maadare shabbir hai
+  Ya Fatema Zehra ya Umm-e-Abiha
+  Sayyeda Raaziya Marziya
+
+  Ghamzada Quraan zakhmi aaya-e-tathir hai
+  Darmiyaaṅ diwaar o dar ke maadar-e-Shabbir hai
 
   1
   Baad baba ke diya ummat ne ye kaisa sila
-  Chain pal bhar bhi madine mein na zehra ko mila
-  Kis khata pe fatema par haye ye ta'zeer hai
+  Chain pal bhar bhi Madine mein na Zehra ko mila
+  Kis khata pe Fatema par haaye ye taazir hai
 
   2
-  Hogaya pehlu shikasta bas tadapti reh gayi
-  Phasliyon ke tootne se jaan aadhi reh gayi
-  Ashk aankhon mein zuban par naara e tatheer hai
+  Ho gaya pehlu shikasta bas tarapti reh gayi
+  Pasliyoṅ ke tutne se jaan aadhi reh gayi
+  Ashk aankhoṅ mein zubaaṅ par naara-e-tathir hai
 
   3
-  Rukh pe khatoone jina ke hai tamachon ke nishan
-  Taaziyana yun laga ke haath uth'ta hi kahan
-  Choor zakhmon se khuhdaya deen ki tauqeer hai
+  Rukh pe khaatun-e-jinaaṅ ke hai tamaachoṅ ke nishaaṅ
+  Taaziyaana yuṅ laga ke haath uthta hi kahaaṅ
+  Chur zakhmoṅ se khudaaya din ki tauqir hai
 
   4
-  Ye sitam zehra pe yasrab mein hua itna shadeed
-  Dar gira pehlu pe haye hogaye mohsin shaheed
-  Ye sitam zehra ke dil par bakhuda ek teer hai
+  Ye sitam Zehra pe Yasrab mein hua itna shadid
+  Dar gira pehlu pe haaye ho gaye Mohsin shahid
+  Ye sitam Zehra ke dil par bakhuda ek tir hai
 
   5
-  Is sitam ne sayyeda ko yun zaeefa kar diya
-  Sin tha athara baras ka thi magar thaame asa
-  Ye nabi ki laadli ya dard ki tasveer hai
+  Is sitam ne Sayyeda ko yuṅ zaifa kar diya
+  Sin tha athaarah baras ka thi magar thaame asa
+  Ye Nabi ki laadli ya dard ki tasvir hai
 
   6
-  Thi khadi darbar e haakim mein kayi ghante magar
-  Keh nahi paaya magar afsos ye koi bashar
-  Isko tadpana rasool e paak ki taqseer hai
+  Thi khari darbaar-e-haakim mein kai ghante magar
+  Keh nahiṅ paaya magar afsos ye koi bashar
+  Is ko tarpaana Rasul-e-Paak ki taqsir hai
 
   7
-  Gham mial hai ye hassan ko aur shahe mazloom ko
-  Kaun aa kar ab sambhale zainab o kulsoom ko
-  Kohe nam se sar jhukaye shaahe khyber geer hai
+  Gham mila hai ye Hasan ko aur Shaah-e-Mazlum ko
+  Kaun aa kar ab sambhaale Zainab o Kulsum ko
+  Koh-e-Nam se sar jhukaaye Shaah-e-Khaibar Gir hai
 
   8
-  Safdar o altaf khoon rone lagi roohe rasool
-  Jab bi haye ya nabi keh kar bulaati thi batool
-  Ye sada zehra ki haye dard ki tafseer hai
+  Safdar o Altaf khuṅ rone lagi Ruh-e-Rasul
+  Jab bhi haaye ya Nabi keh kar bulaati thi Batul
+  Ye sada Zehra ki haaye dard ki tafsir hai
 # source_id: nohayonline:85d6e139b5427ae74e00
 # source_url: https://www.nohayonline.com/details_content.php?id=3139
 # raw_sha256: b893a81318b70e73ed1b21a6840ead7fd54d490f32af3c27783eea7049cb4f57
 ---
 یا فاطمہ زہرا یا ام ابیہا
 سیدہ راضیہ مرضیہ
-غمزدہ قرآن زخمی آیہء تطہیر ہے
+
+غمزدہ قرآن زخمی آیۂ تطہیر ہے
 درمیاں دیوار و در کے مادر شبیر ہے
 
 ۱
 بعد بابا کے دیا امت نے یہ کیسا صلہ
 چین پل بھر بھی مدینے میں نہ زہرا کو ملا
-کس خطا پہ فاطمہ پر ہاے یہ تازیر ہے
+کس خطا پہ فاطمہ پر ہائے یہ تعزیر ہے
 
 ۲
-ہو گیا پہلو شکستہ بس تڑپتی رہ گیء
-پسلیوں کے ٹوٹنے سے جاں اندھیری رہ گیء
+ہو گیا پہلو شکستہ بس تڑپتی رہ گئی
+پسلیوں کے ٹوٹنے سے جاں اندھیری رہ گئی
 اشک آنکھوں میں زباں پر نعرۂ تکبیر ہے
 
 ۳
@@ -80,7 +83,7 @@ romanLyrics: |-
 
 ۴
 یہ ستم زہرا پہ یثرب میں ہوا اتنا شدید
-در گرا پہلو پہ ہاے ہو گےء محسن شہید
+در گرا پہلو پہ ہائے ہو گئے محسن شہید
 یہ ستم زہرا کے دل پر با خدا ایک تیر ہے
 
 ۵
@@ -89,9 +92,9 @@ romanLyrics: |-
 یہ نبی کی لاڈلی یہ درد کی تصویر ہے
 
 ۶
-تھی کھڑی دربار حاکم میں کیء گھنٹے مگر
-کہہ نہیں پایا مگر افسوس یہ کوی بشر
-اس کو تڑپنا رسول پاک کی تقسیر ہے
+تھی کھڑی دربار حاکم میں کئی گھنٹے مگر
+کہہ نہیں پایا مگر افسوس یہ کوئی بشر
+اس کو تڑپنا رسول پاک کی تقصیر ہے
 
 ۷
 غم ملا ہے یہ حسن کو اور شہ مظلوم کو
@@ -100,5 +103,5 @@ romanLyrics: |-
 
 ۸
 صفدر و الطاف خوں رونے لگی روح رسول
-جب بھی ہاے یہ نبی کہہ کر بلاتے تھی بتول
-یہ صدا زہرا کی ہاے درد کی تصویر ہے
+جب بھی ہائے یہ نبی کہہ کر بلاتے تھی بتول
+یہ صدا زہرا کی ہائے درد کی تصویر ہے

@@ -1,5 +1,5 @@
 ---
-title: "قبر میں داغ غمِ سبط ِ پیعمبر لے گئے"
+title: "قبر میں داغ غمِ سبطِ پیمبر لے گئے"
 alternateTitle: "Ghame Sibte Payambar"
 language: "Urdu"
 lang: "ur"
@@ -8,46 +8,47 @@ kalamType: "Noha"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Sachey Bhai"
 romanLyrics: |-
-  Qabr mein daaghe ghame sibte payambar legaye
-  Hum andhere mein charagho ka ye lashkar legaye
+  Qabr mein daagh-e-gham-e-sibt-e-Payambar le gaye
+  Hum andhere mein charaaghoṅ ka ye lashkar le gaye
 
   1
-  Phir na dekhe aasman ne aaj tak aise jari
-  Karbala mein chunke sheh jaise bahattar legaye
+  Phir na dekhe aasmaaṅ ne aaj tak aise jari
+  Karbala mein chun ke Sheh jaise bahattar le gaye
 
   2
-  Waah re qismat na choota mar ke dar shabbir ka
-  Haq ke dabaani habib ibne mazahar legaye
+  Waah re qismat na chhuta mar ke dar Shabbir ka
+  Haq ke dabaani Habib Ibn-e-Mazaahir le gaye
 
   3
-  Ek din ki thi alamdari e shaahe karbala
-  Hashr tak ohda ye abbas e dilawar legaye
+  Ek din ki thi alamdaari-e-Shaah-e-Karbala
+  Hashr tak ohda ye Abbas-e-Dilaawar le gaye
 
   4
-  Zulfaqare hyderi jab farqe marhab par chali
-  Ek nishani zarb ki jibreel ke par legaye
+  Zulfiqaar-e-Haidari jab farq-e-Marhab par chali
+  Ek nishaani zarb ki Jibril ke par le gaye
 
   5
-  Baad sheh jab lootne aaye haram ko ashkiyan
-  Dur sakina ke sare zainab se chadar legaye
+  Baad-e-Sheh jab lutne aaye haram ko ashkiyaaṅ
+  Dur Sakina ke sar-e-Zainab se chaadar le gaye
 
   6
-  Shaah kehte thay ke jeene ka maza jaata raha
-  Zindagi ka lutf abbas e dilawar legaye
+  Shaah kehte the ke jine ka maza jaata raha
+  Zindagi ka lutf Abbas-e-Dilaawar le gaye
 
   7
-  Khoon ke aansu bahati hi rahi binte ali
-  Aur naize par layeen shabbir ka sar legaye
+  Khun ke aansu bahaati hi rahi Bint-e-Ali
+  Aur naize par lain Shabbir ka sar le gaye
 
   8
-  Yaad jab bache ki aati thi ko kehti thi rabab
-  Maa ke dil ka chain apne saath asghar legaye
+  Yaad jab bachche ki aati thi to kehti thi Rabaab
+  Maaṅ ke dil ka chain apne saath Asghar le gaye
 # source_id: nohayonline:4ba0bbe7827a63d2ee36
 # source_url: https://www.nohayonline.com/details_content.php?id=566
 # raw_sha256: d5cee9eb78cfc949d48d4b521bd4ee8bf45f6dab7e1337fdd98ac64186ea1898
 ---
-قبر میں داغ غمِ سبط ِ پیعمبر لے گئے
+قبر میں داغ غمِ سبطِ پیمبر لے گئے
 ہم اندھیرے میں چراغوں کا یہ لشکر لے گئے
 
 ۱
