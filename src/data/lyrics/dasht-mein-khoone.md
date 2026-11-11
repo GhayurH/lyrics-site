@@ -1,53 +1,56 @@
 ---
 title: "یہ ملا کربلا میں احمد کو رسالت کا صلہ"
-alternateTitle: "Dasht Mein Khoone"
+alternateTitle: "Dasht Mein Khun-e-Shaah-e-Ahmad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye mila karbal mein ahmed ko risalat ka sila
-  Dasht mein khoone shahe ahmed bahaya jaa raha hai
-  Yun charaghe fatema zehra bujhaya jaa raha hai
+  Ye mila Karbala mein Ahmad ko risaalat ka sila
+
+  Dasht mein khun-e-Shaah-e-Ahmad bahaaya jaa raha hai
+  Yuṅ charaagh-e-Faatima Zehra bujhaaya jaa raha hai
 
   1
-  Khaak zehra hai udaati peet'te hai sar nabi
-  Gardane shaahe zaman pe khanjar chalaya jaa raha hai
+  Khaak Zehra hai uraati pitte haiṅ sar Nabi
+  Gardan-e-Shaah-e-Zaman pe khanjar chalaaya jaa raha hai
 
   2
-  Maa lipat kar ro rahi hai jhoole se baysheer ke
-  Aur udhar teer e sitam se pani pilaya jaa raha hai
+  Maaṅ lipat kar ro rahi hai jhule se beshir ke
+  Aur udhar tir-e-sitam se paani pilaaya jaa raha hai
 
   3
-  Thi qayamat ki ghadi maidan mein shabbir par
-  Naujawan bete ka laasha tanha uthaya jaa raha hai
+  Thi qayaamat ki ghari maidaan mein Shabbir par
+  Naujawaaṅ bete ka laasha tanha uthaaya jaa raha hai
 
   4
-  Ya ali aao madad ko ro ke fizza ne kaha
-  Ab tumhari betiyon ko qaidi banaya jaa raha hai
+  Ya Ali aao madad ko ro ke Fizza ne kaha
+  Ab tumhaari betiyoṅ ko qaidi banaaya jaa raha hai
 
   5
-  Akbar o abbas o qasim khoon se baysheer ke
-  Is tarha irfan e deen ka gulshan sajaya jaa raha hai
+  Akbar o Abbas o Qasim khun se beshir ke
+  Is tarah irfaan-e-din ka gulshan sajaaya jaa raha hai
 # source_id: nohayonline:3d67a8e610336b0b1e10
 # source_url: https://www.nohayonline.com/details_content.php?id=3373
 # raw_sha256: 1453a1bf9ad69b831319f594ea986c7e4739f134e198cd858fed2c3ad3375a30
 ---
 
 یہ ملا کربلا میں احمد کو رسالت کا صلہ
-دشت میں خون شاہ احمد بنایا جا رہا ہے
-یوں چراغ فاطمہ زہرا بجھایا جا رہا ہے
+
+دشت میں خونِ شاہِ احمد بہایا جا رہا ہے
+یوں چراغِ فاطمہ زہرا بجھایا جا رہا ہے
 
 ۱
-خاک زہرا ہے اڑاتی پیٹیتے ہیں سر نبی
-گردن شاہ زمن پہ خنجر چلایا جا رہا ہے
+خاک زہرا ہے اڑاتی پیٹتے ہیں سر نبی
+گردنِ شاہِ زمن پہ خنجر چلایا جا رہا ہے
 
 ۲
-ماں لپٹ کر رو رہی جھولے سے بے شیر کے
-اور ادھر تیر ستم سے پانی پلایا جا رہا ہے
+ماں لپٹ کر رو رہی ہے جھولے سے بے شیر کے
+اور ادھر تیرِ ستم سے پانی پلایا جا رہا ہے
 
 ۳
 تھی قیامت کی گھڑی میدان میں شبیر پر
@@ -59,4 +62,4 @@ romanLyrics: |-
 
 ۵
 اکبر و عباس و قاسم خون سے بے شیر کے
-اس طرح عرفان دین کا گلشن سجایا جا رہا ہے
+اس طرح عرفانِ دین کا گلشن سجایا جا رہا ہے
