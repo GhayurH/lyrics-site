@@ -1,91 +1,92 @@
 ---
-title: "تنہائییاں سرغوشیاں"
-alternateTitle: "Bhool Paayi Sakina"
+title: "تنہائیاں سرغوشیاں"
+alternateTitle: "Bhul Paayi Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bhool Paayi Sakina"]
 published: false
 romanLyrics: |-
-  Tanhaiyan sarghoshiyan
-  Haan sakina ki hai ye fughan
+  Tanhaaiyaaṅ sarghoshiyaaṅ
+  Haaṅ Sakina ki hai ye fughaaṅ
 
   1
-  Meri gardan mein baandhi gayi rasiyan
-  Mere kaano se nochi gayi baaliyan
-  Khoon behta raha dard badta raha
-  Taaziyane layeeno ke aur wo jafa
-  Bhool paayi sakina kahan
+  Meri gardan mein baandhi gayi rassiyaaṅ
+  Mere kaanoṅ se nochi gayi baaliyaaṅ
+  Khun behta raha dard barhta raha
+  Taaziyaane lainoṅ ke aur wo jafa
+  Bhul paayi Sakina kahaaṅ
 
   2
-  Mujh ko kaanto pe paidal chalaya gaya
-  Baap ka sar dikha kar rulaya gaya
-  Tha wo kaisa safar bibiyan nange sar
-  Ek ek zakhm se khoon behta raha
+  Mujh ko kaantoṅ pe paidal chalaaya gaya
+  Baap ka sar dikha kar rulaaya gaya
+  Tha wo kaisa safar bibiyaaṅ nange sar
+  Ek ek zakhm se khun behta raha
 
   3
-  Mai jo royi to mujhko tamache lage
-  Thak ke soyi ko abid ko durre lage
-  Beech bazaar mein shehre aghyaar mein
-  Haye saadaat ka jo tamasha bana
+  Main jo royi to mujh ko tamaanche lage
+  Thak ke soyi to Aabid ko durre lage
+  Bich baazaar mein shahr-e-aghyaar mein
+  Haaye saadaat ka jo tamaasha bana
 
   4
-  Bola darbar mein aake yun ek shaki
-  Tu kaneezi mein ja haakim e waqt ki
+  Bola darbaar mein aa ke yuṅ ek shaqi
+  Tu kanizi mein ja haakim-e-waqt ki
   Kaisa lamha tha wo kaisa sadma tha wo
-  Roke us dam pukari mai haye chacha
+  Ro ke us dam pukaari main haaye chacha
 
   5
-  Mere baba ka sar tasht mein tha rakha
-  Ussay gustakhiyan karte thay ashkiyan
+  Mere baaba ka sar tasht mein tha rakha
+  Us se gustaakhiyaaṅ karte the ashqiyaa
   Koi haami na tha kis ko deti sada
-  Ek ghayyur bete ko ghaiz aagaya
+  Ek ghayur beti ko ghaiz aa gaya
 
   6
-  Raah mein pani aata meinasar agar
-  Daal deti thi abid ki zanjeer par
+  Raah mein paani aata mayassar agar
+  Daal deti thi Aabid ki zanjir par
   Har qadam ek jafa rona bhi jurm tha
-  Darmiyan shamiyo ke thi aale aba
+  Darmiyaaṅ Shaamiyoṅ ke thi Aal-e-Aba
 
   7
-  Poocha haakim ne darbar mein shimr se
-  In aseeron mein binte ali kaun hai
-  Ro rahi thi phupi thi wo kaisi ghadi
-  Naam phupiyon ka leta tha wo be-haya
+  Puchha haakim ne darbaar mein Shimr se
+  In asiroṅ mein bint-e-Ali kaun hai
+  Ro rahi thi phuphi thi wo kaisi ghari
+  Naam phuphiyoṅ ka leta tha wo behaaya
 
   8
-  Dil pe pathar rakha aur jeeti rahi
-  Taaziyane layeeno ke sehti rahi
-  Dushmano ka watan mai aseere mehan
+  Dil pe patthar rakha aur jiti rahi
+  Taaziyaane lainoṅ ke sehti rahi
+  Dushmanoṅ ka watan main asiri mihan
   Jis jagah ek lamha tha ek saal sa
 
   9
-  Kamsini aur aseeri wo zindan ki
-  Jis jagah maut bhi aake rone lagi
+  Kam sini aur asiri wo zindaan ki
+  Jis jagah maut bhi aa ke rone lagi
   Yaad nashtar bani khaak bistar bani
-  Phi ye zindan meri lehad ban gaya
+  Phir ye zindaan meri lahad ban gaya
 
   10
-  Ek paigham hai zaairon ko yehi
-  Shab ko bibi ke rauze pe jao kabhi
-  Ro rahi hai wahan ab bhi tanhaiyan
-  Sun ke aaye hai farhan o mazhar sada
+  Ek paighaam hai zaairoṅ ko yahiṅ
+  Shab ko Bibi ke rauze pe jaao kabhi
+  Ro rahi hai wahaaṅ ab bhi tanhaaiyaaṅ
+  Sun ke aaye haiṅ Farhan o Mazhar sada
 # source_id: nohayonline:e9cfc93a07f278e94963
 # source_url: https://www.nohayonline.com/details_content.php?id=79
 # raw_sha256: a7b9552399a1b4dec076a374177d26aa09bcecbcd2859f74cca97540ae198a04
 ---
-تنہائییاں سرغوشیاں
+تنہائیاں سرغوشیاں
 ہاں سکینہ کی ہے یہ فغاں
 
 ۱
 میری گردن میں باندھی گئی رسیاں
-میرے کانوں سے نوچی گیء بالیاں
+میرے کانوں سے نوچی گئی بالیاں
 خون بہتا رہا درد بڑھتا رہا
 تازیانے لعینوں کے اور وہ جفا
-بھول پایء سکینہ کہاں
+بھول پائی سکینہ کہاں
 
 ۲
 مجھ کو کانٹوں پہ پیدل چلایا گیا
@@ -94,16 +95,16 @@ romanLyrics: |-
 ایک اک زخم سے خون بہتا رہا
 
 ۳
-میں جو رویء تو مجھ کو طمانچے لگے
-تھک کے سویء تو عابد کو درے لگے
+میں جو روئی تو مجھ کو طمانچے لگے
+تھک کے سوئی تو عابد کو درے لگے
 بیچ بازار میں شہر اغیار میں
-ہاے سادات کا جو تماشہ بنا
+ہائے سادات کا جو تماشہ بنا
 
 ۴
 بولا دربار میں آکے یوں اک شقی
 تو کنیزی میں جا حاکم وقت کی
 کیسا لمحہ تھا وہ کیسا صدمہ تھا وہ
-روکے اس دم پکاری میں ہاے چچا
+روکے اس دم پکاری میں ہائے چچا
 
 ۵
 میرے بابا کا سر طشت میں تھا رکھا
@@ -120,8 +121,8 @@ romanLyrics: |-
 ۷
 پوچھا حاکم نے دربار میں شمر سے
 ان اسیروں میں بنت علی کون ہے
-رو رہی تھی پھپھی تھی وہ کییسی گھڑی
-نام پھپیوں کا لیتا تھا وہ بے حیا
+رو رہی تھی پھپھی تھی وہ کیسی گھڑی
+نام پھپھیوں کا لیتا تھا وہ بے حیا
 
 ۸
 دل پہ پتھر رکھا اور جیتی رہی
@@ -136,7 +137,7 @@ romanLyrics: |-
 پھر یہ زندان میری لحد بن گیا
 
 ۱۰
-ایک پیغام ہے زاءیروں کو یہیں
-شب کو بی بی کے روضے پہ جاوء کبھی
-رورہی ہے وہاں اب بھی تنہائیاں
-سن کے آے ہیں فرحان و مظہر صدا
+ایک پیغام ہے زائروں کو یہیں
+شب کو بی‌بی کے روضے پہ جاؤ کبھی
+رو رہی ہے وہاں اب بھی تنہائیاں
+سن کے آئے ہیں فرحان و مظہر صدا

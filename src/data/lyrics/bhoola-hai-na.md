@@ -1,52 +1,38 @@
 ---
 title: بھولا ہے نہ بھولے گا تا حشر زمانہ
-alternateTitle: Bhoola Hai Na
+alternateTitle: Bhula Hai Na
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mushtaq Hussain"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bhoola Hai Na"]
 published: false
-romanLyrics: 'Bhoola hai na bhoolay ga ta hashar zamana
-
-  Derbar Yazeedi main tera Khutba sunana
-
+romanLyrics: |-
+  Bhula hai na bhule ga taa hashr zamaana
+  Darbaar-e-Yazidi mein tera khutba sunaana
 
   1
-
-  Teray perday pay qurban terai bahi kai Sadqai
-
-  Aata hai jissai deen pai ghar baar lutana
-
+  Tere parde pe qurbaan tere bhaai ke sadqe
+  Aata hai jise din pe ghar baar lutaana
 
   2
-
-  Shabbir nai yeh dars zamanai ko diya hai
-
-  Aagai kissi zalim kai kabhi sar na jhukana
-
+  Shabbir ne ye dars zamaane ko diya hai
+  Aage kisi zaalim ke kabhi sar na jhukaana
 
   3
-
-  Hurmal yeh tera jurm kabhi chup nahi sakta
-
-  Pani kai iwaz teer sai Asgher ko sulana
-
+  Hurmala ye tera jurm kabhi chhup nahiṅ sakta
+  Paani ke iwaz tir se Asghar ko sulaana
 
   4
-
-  Shabbir ki azmat hai yeh Shabbir ki jurat
-
-  Maqtal sai who Akber kai lashai ko uthana
-
+  Shabbir ki azmat hai ye Shabbir ki jurat
+  Maqtal mein wo Akbar ke laashe ko uthaana
 
   5
-
-  Mushtaq kiyai ja tu issi dar ki ghulami
-
-  Bakhshish ka nahi aisai koi aur thikana'
+  Mushtaq kiye ja tu isi dar ki ghulaami
+  Bakhshish ka nahiṅ aisa koi aur thikaana
 # source_id: nohayonline:fc877915af7bb21d3e50
 # source_url: https://www.nohayonline.com/details_content.php?id=3374
 # raw_sha256: a6af08d33bae26ac54fea810524c21ef06028de231f220f6ba4bbfd512e66963
@@ -56,24 +42,24 @@ romanLyrics: 'Bhoola hai na bhoolay ga ta hashar zamana
 ---
 
 بھولا ہے نہ بھولے گا تا حشر زمانہ
+دربارِ یزیدی میں تیرا خطبہ سنانا
 
 ۱
-دربار یزیدی میں تیرا خطبہ سنانا
 تیرے پردے پہ قربان تیرے بھائی کے صدقے
-آتا ہے جسے دیں پہ گھر بار لٹانا
+آتا ہے جسے دین پہ گھر بار لٹانا
 
 ۲
 شبیر نے یہ درس زمانے کو دیا ہے
 آگے کسی ظالم کے کبھی سر نہ جھکانا
 
 ۳
-حرملہ یہ تیرا جرم کبھی چپ نہیں سکتا
-پانی کے آواز تیر سے اصغر کو سلانا
+حرملہ یہ تیرا جرم کبھی چھپ نہیں سکتا
+پانی کے عوض تیر سے اصغر کو سلانا
 
 ۴
-شبیر کی عظمت ہے یہ شبیر کے جرات
+شبیر کی عظمت ہے یہ شبیر کی جرات
 مقتل میں وہ اکبر کے لاشے کو اٹھانا
 
 ۵
-مشتاق کیےء جا تو اسی در کی غلامی
+مشتاق کیے جا تو اسی در کی غلامی
 بخشش کا نہیں ایسا کوئی اور ٹھکانہ

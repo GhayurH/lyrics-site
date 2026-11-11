@@ -1,28 +1,30 @@
 ---
 title: "فضّہ نے زینب سے کہا"
-alternateTitle: "Bibi Madina Aagaya"
+alternateTitle: "Bibi Madina Aa Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Zaidi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Bibi Madina Aagaya"]
 published: false
 romanLyrics: |-
-  Fizza ne zainab se kaha
-  Bibi madina aa gaya
+  Fizza ne Zainab se kaha
+  Bibi Madina aa gaya
 
   1
-  Aale nabi ka khafila
-  Jab qaid se chut kar chala
-  Nazdeek yasrab jab huwa
+  Aal-e-Nabi ka qaafila
+  Jab qaid se chhut kar chala
+  Nazdik Yasrab jab hua
+  Fizza ne Zainab se kaha
 
   2
   Ab khatm hai apna safar
-  Aata hai ab mujko nazar
-  Wo samne yasrab nagar
-  Hazrat ka rauza aagaya
+  Aata hai ab mujh ko nazar
+  Wo saamne Yasrab nagar
+  Hazrat ka rauza aa gaya
 
   3
   Khafela da aale nabi
@@ -31,57 +33,58 @@ romanLyrics: |-
   Fizza zainab da howe
 
   4
-  Basti se hat kar kuch qadam
-  Maidan mein tehrenge hum
+  Basti se hat kar kuchh qadam
+  Maidaaṅ mein thahreṅ ge ham
   Ya hasrat o yaas o alam
-  Dilgeer e khasta be-nawa
+  Dilgir-e-khasta benawa
 
   5
-  Beemaro laaghir natawan
-  Sajjad karte hai bayan
-  Pehle naqeeb e kaarvan
-  Basti mein bheja jayega
+  Bimaar o laaghar naatawaaṅ
+  Sajjad karte haiṅ bayaaṅ
+  Pehle naqib-e-kaarwaaṅ
+  Basti mein bheja jaaye ga
 
   6
-  Ehle madina aayenge
-  Barbad hum ko payenge
-  Betaab sab ho jayenge
-  Ho jayega mehshar bapa
+  Ahl-e-Madina aayeṅ ge
+  Barbaad ham ko paayeṅ ge
+  Betaab sab ho jaayeṅ ge
+  Ho jaaye ga mahshar bapa
 
   7
-  Sarwar na ayenge nazar
-  Akbar na ayenge nazar
-  Asghar na ayenge nazar
-  Sughra ka hoga haal kya
+  Sarwar na aayeṅ ge nazar
+  Akbar na aayeṅ ge nazar
+  Asghar na aayeṅ ge nazar
+  Sughra ka ho ga haal kya
 
   8
-  Abbas ab aajaiye
-  Pani nahi ab chahiye
-  Himmat hamein bandhwaiye
-  Rauza nabi ka aagaya
+  Abbas ab aa jaaiye
+  Paani nahiṅ ab chaahiye
+  Himmat hameṅ bandhwaaiye
+  Rauza Nabi ka aa gaya
 
   9
   Rulwa rahi hai aaj bhi
-  Tadpa rahi hai aaj bhi
+  Tarpa rahi hai aaj bhi
   Yaad aa rahi hai aaj bhi
-  Tauqeer zaidi ye sada
+  Tauqeer Zaidi ye sada
 # source_id: nohayonline:3f55baf4e4e97a402484
 # source_url: https://www.nohayonline.com/details_content.php?id=86
 # raw_sha256: 7c313c7d9ae1840ea2ccde33aed59a88d08ec65387c7143a2ee846f37299f160
 ---
 فضّہ نے زینب سے کہا
-بی بی مدینہ آ گیا
+بی‌بی مدینہ آ گیا
 
 ۱
 آلِ نبی کا قافلہ
 جب قید سے چھُٹ کر چلا
 نزدیک یثرب جب ہوا
+فضّہ نے زینب سے کہا
 
 ۲
 اب ختم ہے اپنا سفر
 آتا ہے اب مجھ کو نظر
 وہ سامنے یثرب نگر
-حضرت کا روضہ آگیا
+حضرت کا روضہ آ گیا
 
 ۳
 قافلے دا آلِ نبی
@@ -115,7 +118,7 @@ romanLyrics: |-
 
 ۸
 عباس اب آ جائیے
-پانی نہیں اب چاہیئے
+پانی نہیں اب چاہیے
 ہمت ہمیں بندھوائیے
 روضہ نبی کا آ گیا
 
