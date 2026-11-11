@@ -1,64 +1,65 @@
 ---
-title: "بی بیاں کر رہی ہے یہ نوحہ"
+title: "بیبیاں کر رہی ہے یہ نوحہ"
 alternateTitle: "Bibiyan Kar Rahi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bibiyan kar rahi hai ye nauha
-  Haye akbar haye qasim haye asghar
+  Bibiyaaṅ kar rahi hai ye nauha
+  Haae Akbar haae Qasim haae Asghar
 
   1
-  Mera kadiyal jawan mera akbar
-  Haye mera shabihe payambar
-  Mera gaysuon waala dilbar
-  Bain karti hai ye umme laila
+  Mera karyal jawaaṅ mera Akbar
+  Haae mera shabih-e-Payambar
+  Mera gesuoṅ waala dilbar
+  Bain karti hai ye Umm-e-Laila
 
   2
-  Mera naashad qasim e naushah
-  Khoon mein tar hua tera sehra
+  Mera naashaad Qasim-e-naushaah
+  Khun mein tar hua tera sehra
   Ek shab ki dulhan hui bewa
-  Bain karti hai ye umme farwa
+  Bain karti hai ye Umm-e-Farwa
 
   3
-  Mera baysheer hasliyon waala
-  Mera shish maaha ghar ka ujaala
-  Lut gaya mera naazon ka paala
-  Bain karti hai ye bano dukhiya
+  Mera beshir hansliyoṅ waala
+  Mera shashmaah ghar ka ujaala
+  Lut gaya mera naazoṅ ka paala
+  Bain karti hai ye Baano dukhiya
 
   4
-  Tashnalab mera asghare nadan
-  Godh khaali hai jhoola hai veeran
-  Tujhko dhoondne jaaye kahan maa
-  Kis ko lori sunaungi beta
+  Tashna lab mera Asghar-e-naadaaṅ
+  God khaali hai jhula hai wiraaṅ
+  Tujh ko dhundne jaae kahaaṅ maaṅ
+  Kis ko lori sunaauṅ beta
 
   5
   Kaisa khaali hua hai bhara ghar
-  Nahi abbas jaisa biradar
-  Aaj tanha hai sibte payambar
+  Nahiṅ Abbas jaisa biraadar
+  Aaj tanha hai Sibt-e-Payambar
   Bekasi kar rahi hai ye girya
 
   6
-  Haq pe qurban huwe jo bahattar
-  Kar salaam shaheedon ko mehshar
-  Sabr o eesaar ke thay jo paikar
-  Hai unhi ke liye mera nauha
+  Haq pe qurbaaṅ hue jo bahattar
+  Kar salaam shahidoṅ ko Mahshar
+  Sabr o isaar ke the jo paikar
+  Hai unhiṅ ke liye mera nauha
 # source_id: nohayonline:1f6e692dffa6d5f6affe
 # source_url: https://www.nohayonline.com/details_content.php?id=3451
 # raw_sha256: 41bec0750bc55ee29138c4963dad3e5f4c5ac5240208ead3050038075f77ee69
 ---
 
-بی بیاں کر رہی ہے یہ نوحہ
-ہاے اکبر ہاے قاسم ہاے اصغر
+بیبیاں کر رہی ہے یہ نوحہ
+ہائے اکبر ہائے قاسم ہائے اصغر
 
 ۱
 میرا کڑیل جواں میرا اکبر
-ہاے میرا شبیہ پیمبر
+ہائے میرا شبیہ پیمبر
 میرا گیسوؤں والا دلبر
 بین کرتی ہے یہ ام لیلیٰ
 
@@ -77,7 +78,7 @@ romanLyrics: |-
 ۴
 تشنہ لب میرا اصغر ناداں
 گود خالی ہے جھولا ہے ویراں
-تجھکو ڈھونڈنے جاے کہاں ماں
+تجھ کو ڈھونڈنے جائے کہاں ماں
 کس کو لوری سناؤں بیٹا
 
 ۵

@@ -6,91 +6,92 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya fatema umme abiha
-  Binte payambar khairunnisa
-  Ya zahra ya zahra
-  Tu hai siddiqa tu tahera aur
-  Tu hi shafi e rauze jaza
-  Ay meri bibi waqte madad hai
-  Har matami ke dil ke sada hai
-  Bibi zahra ye dua hai
-  Aap ke darbar mein
+  Ya Fatema Umm-e-Abiha
+  Bint-e-Payambar Khairunnisa
+  Ya Zahra ya Zahra
+  Tu hai Siddiqa tu Taahera aur
+  Tu hi shafi-e-roz-e-jaza
+  Ae meri Bibi waqt-e-madad hai
+  Har maatami ke dil ki sada hai
+  Bibi Zahra ye dua hai
+  Aap ke darbaar mein
 
   1
-  Daste dua ko jab bhi uthaya
-  Maanga hai teri chadar ka saaya
-  Ya zahra ya zahra
-  Waqte musibat mein har hussaini
-  Bas naam tera honton pe laaya
-  Ay meri bibi tang dast hoo mai
-  Ye kehke daaman phaila diya hai
+  Dast-e-dua ko jab bhi uthaaya
+  Maaṅga hai teri chaadar ka saaya
+  Ya Zahra ya Zahra
+  Waqt-e-musibat mein har Husaini
+  Bas naam tera hoṅtoṅ pe laaya
+  Ae meri Bibi tang dast huṅ main
+  Ye keh ke daaman phaila diya hai
 
   2
-  Wo bibi jis ki hai godh khaali
+  Wo Bibi jis ki hai god khaali
   Chaukhat pe teri hai wo sawaali
-  Ya zahra ya zahra
-  Mujhko bhi de de asghar ka sadqa
-  Maine tere dar se lau laga li
-  Ay meri bibi jin godiyon mein
+  Ya Zahra ya Zahra
+  Mujh ko bhi de de Asghar ka sadqa
+  Main ne tere dar se lau laga li
+  Ae meri Bibi jin godiyoṅ mein
   Aulaad hai wo teri ata hai
 
   3
-  Jo maayein behnein be aasra ho
-  Farshe aza par mehwe buka ho
-  Ya zahra ya zahra
-  Tu unke pardo ki laaj rakhiyo
-  Jo teri zainab ki zakira ho
-  Ay meri bibi zinda rahe wo
-  Bhai jo behno ka aasra hai
+  Jo maaeṅ behneṅ be aasra ho
+  Farsh-e-aza par mahw-e-buka ho
+  Ya Zahra ya Zahra
+  Tu un ke pardoṅ ki laaj rakhiyo
+  Jo teri Zainab ki zaakira ho
+  Ae meri Bibi zinda rahe wo
+  Bhaai jo behnoṅ ka aasra hai
 
   4
-  Jo tifl ro kar padte hai nauha
-  Har aathwi ko bante hai saqqa
-  Ya zahra ya zahra
-  Har roshni ki hai ye zamanat
-  Ye hai charaghe bazme aza
-  Ay meri bibi bujhne na paaya
-  Aun o mohamed ka waasta hai
+  Jo tifl ro kar parhte haiṅ nauha
+  Har aathwiṅ ko bante haiṅ saqqa
+  Ya Zahra ya Zahra
+  Har roshni ki hai ye zamaanat
+  Ye hai charaagh-e-bazm-e-aza
+  Ae meri Bibi bujhne na paaya
+  Aun o Muhammad ka waasta hai
 
   5
-  Jo apne beton ka bhool kar gham
-  Karti ho tere akbar ka matam
-  Ya zahra ya zahra
-  Un maaon ko tu de sabr bibi
+  Jo apne betoṅ ka bhul kar gham
+  Karti ho tere Akbar ka maatam
+  Ya Zahra ya Zahra
+  Un maaoṅ ko tu de sabr Bibi
   Wo phir na dekhe aulaad ka gham
-  Ay meri bibi us maa ko koi
-  Gham na ho jisko ye gham mila hai
+  Ae meri Bibi us maaṅ ko koi
+  Gham na ho jis ko ye gham mila hai
 
   6
-  Hai yaad ab tak purdard manzar
-  Pyase ki gardan zaalim ka khanjar
-  Ya zahra ya zahra
+  Hai yaad ab tak pur dard manzar
+  Pyaase ki gardan zaalim ka khanjar
+  Ya Zahra ya Zahra
   Hum tere pyaase bete ka sadqa
-  Yun maangte hai farshe aza par
-  Ay meri bibi aabaad rakhna
-  Wo ghar ke jis mein farshe aza hai
+  Yuṅ maaṅgte haiṅ farsh-e-aza par
+  Ae meri Bibi aabaad rakhna
+  Wo ghar ke jis mein farsh-e-aza hai
 
   7
-  Shabbir ki wo mazloom dukhtar
-  Zindan se jo na jaa saki ghar
-  Ya zahra ya zahra
-  Sadqe mein uske ham par karam kar
-  Bejurm qaidi kehte hai ro kar
-  Ay meri bibi ab ye aseeri
-  Ho khatm abid ka waasta hai
+  Shabbir ki wo mazlum dukhtar
+  Zindaan se jo na jaa saki ghar
+  Ya Zahra ya Zahra
+  Sadqe mein us ke hum par karam kar
+  Bejurm qaidi kehte haiṅ ro kar
+  Ae meri Bibi ab ye asiri
+  Ho khatm Aabid ka waasta hai
 
   8
-  Irfan o mazhar ye chaahte hai
-  Mil jaaye hum ko bas ye sa'aadat
-  Ya zahra ya zahra
-  Jo aakhri hai hujjat khuda ki
-  Ho jaye hum ko uski ziyarat
-  Ay meri bibi ye baat wo hai
-  Jo har hussaini ki iltejaa hai
+  Irfan o Mazhar ye chaahte haiṅ
+  Mil jaae hum ko bas ye saadat
+  Ya Zahra ya Zahra
+  Jo aakhri hai hujjat Khuda ki
+  Ho jaae hum ko us ki ziyaarat
+  Ae meri Bibi ye baat wo hai
+  Jo har Husaini ki iltijaa hai
 # source_id: nohayonline:0dc12e80ef42ee689d44
 # source_url: https://www.nohayonline.com/details_content.php?id=2187
 # raw_sha256: 59df8dee6e33ef34d98f7302d7b1733157ba874550d2e4a7df153e61450f7810
@@ -101,9 +102,9 @@ romanLyrics: |-
 یا زہرا یا زہرا
 تو ہے صدیقہ تو طاہرہ اور
 تو ہی شفیعِ روز جزا
-اے میرے بی بی وقتِ مدد ہے
+اے میرے بی‌بی وقتِ مدد ہے
 ہر ماتمی کے دل کی صدا ہے
-بی بی زہرا یہ دعا ہے
+بی‌بی زہرا یہ دعا ہے
 آپ کے دربار میں
 
 ۱
@@ -112,26 +113,26 @@ romanLyrics: |-
 یا زہرا یا زہرا
 وقتِ مصیبت میں ہر حسینی
 بس نام تیرا ہونٹوں پہ لایا
-اے میرے بی بی تنگ دست ہوں میں
+اے میرے بی‌بی تنگ دست ہوں میں
 یہ کہہ کے دامن پھیلا دیا ہے
 
 ۲
-وہ بی بی جس کی ہے گود خالی
+وہ بی‌بی جس کی ہے گود خالی
 چوکھٹ پہ تیری ہے وہ سوالی
 یا زہرا یا زہرا
-مجھکو بھی دے دے اصغر کا صدقہ
+مجھ کو بھی دے دے اصغر کا صدقہ
 میں نے تیرے در سے لو لگا لی
-اے میری بی بی جن گودیوں میں
+اے میری بی‌بی جن گودیوں میں
 اولاد ہے وہ تیری عطا ہے
 
 ۳
-جو ماییں بہنیں بے آسرا آسرا ہو
+جو مائیں بہنیں بے آسرا ہو
 فرش عزا پر محوِ بکا ہو
 یا زہرا یا زہرا
 تو ان کے پردوں کی لاج رکھیو
 جو تیری زینب کی ذاکرہ ہو
-اے میری بی بی زندہ رہے وہ
-بھای جو بہنوں کا آسرا ہے
+اے میری بی‌بی زندہ رہے وہ
+بھائی جو بہنوں کا آسرا ہے
 
 ۴
 جو طفل رو کر پڑھتے ہیں نوحہ
@@ -139,16 +140,16 @@ romanLyrics: |-
 یا زہرا یا زہرا
 ہر روشنی کی ہے یہ ضمانت
 یہ ہے چراغِ بزمِ عزا
-اے میری بی بی بجھنے نہ پاے
+اے میری بی‌بی بجھنے نہ پائے
 عون و محمد کا واسطہ ہے
 
 ۵
 جو اپنے بیٹوں کا بھول کر غم
 کرتی ہوں تیرے اکبر کا ماتم
 یا زہرا یا زہرا
-ان‌ ماؤں کو تو دے صبر بی بی
+ان ماؤں کو تو دے صبر بی‌بی
 وہ پھر نہ دیکھے اولاد کا غم
-اے میری بی بی اس ماں کو کوئی
+اے میری بی‌بی اس ماں کو کوئی
 غم نہ ہو جس کو یہ غم ملا ہے
 
 ۶
@@ -157,7 +158,7 @@ romanLyrics: |-
 یا زہرا یا زہرا
 ہم تیرے پیاسے بیٹے کا صدقہ
 یوں مانگتے ہیں فرش عزا پر
-اے میری بی بی آباد رکھنا
+اے میری بی‌بی آباد رکھنا
 وہ گھر کہ جس میں فرش عزا ہے
 
 ۷
@@ -166,14 +167,14 @@ romanLyrics: |-
 یا زہرا یا زہرا
 صدقے میں اس کے ہم پر کرم کر
 بے جرم قیدی کہتے ہیں رو کر
-اے میری بی بی اب یہ اسیری
+اے میری بی‌بی اب یہ اسیری
 ہو ختم عابد کا واسطہ ہے
 
 ۸
 عرفان و مظہر یہ چاہتے ہیں
-مل جاے ہم کو بس یہ سعادت
+مل جائے ہم کو بس یہ سعادت
 یا زہرا یا زہرا
 جو آخری حجت خدا کی
-ہو جاے ہم‌ کو انکی ذیارت
-اے میری بی بی یہ بات وہ ہے
+ہو جائے ہم کو ان کی زیارت
+اے میری بی‌بی یہ بات وہ ہے
 جو ہر حسینی کی التجاء ہے
