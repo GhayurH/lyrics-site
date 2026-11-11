@@ -1,134 +1,135 @@
 ---
-title: "ایک زایر شام سے جب آیا تھا اسکے لبوں پر نوحہ"
-alternateTitle: "Bazare Sham Se"
+title: "ایک زائر شام سے جب آیا تھا اس کے لبوں پر نوحہ"
+alternateTitle: "Bazaar-e-Shaam Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek zaair shaam se jab aaya tha uske labaon par nauha
-  Poocha jo kisi ne ay zaair kya tune wahan par dekha
+  Ek zaair Shaam se jab aaya tha us ke laboṅ par nauha
+  Puchha jo kisi ne ae zaair kya tu ne wahaaṅ par dekha
+  Bola ro kar haaye mat puchho
+  Phatta hai jigar haaye mat puchho
+  Bazaar-e-Shaam se aaya huṅ
 
   1
-  Bola ro kar haye mat poocho
-  Phat'ta hai jigar haye mat poocho
-  Bazaare shaam se aaya hoo
-  Us shehr e sitamgar mein ab tak be-ghairat log hi baste hai
-  Kal ahle haram par haste thay ab ahle aza par haste hai
-  Haye mat poocho haye mat poocho
-  Kya manzar mai dekh aaya hoo
+  Us shehr-e-sitamgar mein ab tak beghairat log hi baste haiṅ
+  Kal Ahl-e-haram par haṅste the ab Ahl-e-aza par haṅste haiṅ
+  Haaye mat puchho haaye mat puchho
+  Kya manzar main dekh aaya huṅ
 
   2
-  Un raahon ko bhi dekha hai sadaat jahan thay be-chadar
-  Thay ahle haram pabande rasan aur unpe baraste thay pathar
-  Haye mat poocho haye mat poocho
-  Kya zakhm jigar laaya hoo
+  Un raahoṅ ko bhi dekha hai saadaat jahaaṅ the bechaadar
+  The Ahl-e-haram paaband-e-rasan aur un pe baraste the patthar
+  Haaye mat puchho haaye mat puchho
+  Kya zakhm-e-jigar laaya huṅ
 
   3
-  Chauda sau baras guzre lekin wo aaj bhi reet nibhate hai
-  Bazaar sajaye jaate thay bazaar sajaye jaate hai
-  Haye mat poocho haye mat poocho
-  Wo galiyan mai dekh aaya hoo
+  Chaudah sau baras guzre lekin wo aaj bhi rit nibhaate haiṅ
+  Bazaar sajaaye jaate the bazaar sajaaye jaate haiṅ
+  Haaye mat puchho haaye mat puchho
+  Wo galiyaaṅ main dekh aaya huṅ
 
   4
-  Apne ajdaad ki rasmon ko wo ahle shaam nahi bhoole
-  Kal bhi thay tamashaai zaalim ab tak wo log nahi badle
-  Haye mat poocho haye mat poocho
-  Ye dard wahan se laaya hoo
+  Apne ajdaad ki rasmoṅ ko wo Ahl-e-Shaam nahiṅ bhule
+  Kal bhi the tamaashaai zaalim ab tak wo log nahiṅ badle
+  Haaye mat puchho haaye mat puchho
+  Ye dard wahaaṅ se laaya huṅ
 
   5
-  Bazaar ke raste dekhe to sajjad ka rona yaad aaya
-  Haste hue chehre dekhe to sajjad ka rona yaad aaya
-  Haye mat poocho haye mat poocho
-  Kya yaad wahan se laaya hoo
+  Bazaar ke raste dekhe to Sajjad ka rona yaad aaya
+  Haṅste hue chehre dekhe to Sajjad ka rona yaad aaya
+  Haaye mat puchho haaye mat puchho
+  Kya yaad wahaaṅ se laaya huṅ
 
   6
-  Un sham ki galiyon mein kaise abbas ki khahar aayi thi
-  Haaton mein rasan thi zainab ke aur haye khule sar aayi thi
-  Haye mat poocho haye mat poocho
-  Ye soch ke mai thar'raya hoo
+  Un Shaam ki galiyoṅ mein kaise Abbas ki khwaahar aai thi
+  Haathoṅ mein rasan thi Zainab ke aur haaye khule sar aai thi
+  Haaye mat puchho haaye mat puchho
+  Ye soch ke main tharraaya huṅ
 
   7
-  Dil khoon ke aansu rota tha sajjad ka un bazaron mein
-  Be parda haram ki haalat par haste thay sharabi raahon mein
-  Haye mat poocho haye mat poocho
-  Dil mein ye dard basaya hoo
+  Dil khun ke aansu rota tha Sajjad ka un bazaaroṅ mein
+  Beparda haram ki haalat par haṅste the sharaabi raahoṅ mein
+  Haaye mat puchho haaye mat puchho
+  Dil mein ye dard basaaya huṅ
 
   8
-  Ye soch ke dil phat jaata hai sajjad pe kya guzri hogi
-  Baabe saa'at par ruk kar aulaad e payambar roti thi
-  Haye mat poocho haye mat poocho
-  Kaise zinda laut aaya hoo
+  Ye soch ke dil phat jaata hai Sajjad pe kya guzri hogi
+  Baab-e-Saaat pe ruk kar Aulaad-e-Payambar roti thi
+  Haaye mat puchho haaye mat puchho
+  Kaise zinda laut aaya huṅ
 
   9
-  Mai shaam ke un bazaron se ye zakhme jigar laaya mazhar
-  Tum poochte ho tehreer mein kya roodade safar laaya safdar
-  Haye mat poocho haye mat poocho
-  Nauha ye zuban par laaya hoo
+  Main Shaam ke un bazaaroṅ se ye zakhm-e-jigar laaya Mazhar
+  Tum puchhte ho tahrir mein kya rudaad-e-safar laaya Safdar
+  Haaye mat puchho haaye mat puchho
+  Nauha ye zabaaṅ par laaya huṅ
 # source_id: nohayonline:e0665ff4ac5a897ac421
 # source_url: https://www.nohayonline.com/details_content.php?id=881
 # raw_sha256: a4a71fe875667ed14ecbb3d02825ba5ae0c9c226ad610980ffd752e6d658ec7a
 ---
-ایک زایر شام سے جب آیا تھا اسکے لبوں پر نوحہ
-پوچھا جو کسی نے اے زایر کیا تونے وہاں پر دیکھا
+ایک زائر شام سے جب آیا تھا اس کے لبوں پر نوحہ
+پوچھا جو کسی نے اے زائر کیا تو نے وہاں پر دیکھا
+بولا رو کر ہائے مت پوچھو
+پھٹتا ہے جگر ہائے مت پوچھو
+بازارِ شام سے آیا ہوں
 
 ۱
-بولا رو کر ہاے مت پوچھو
-پھٹتا ہے جگر ہاے مت پوچھو
-بازار شام سے آیا ہوں
-اس شہر ستمگر میں اب تک بے غیرت لوگ ہی بستے ہیں
-کل اہل حرم پر ہنستے تھے اب اہل عزا پر ہنستے ہیں
-ہاے مت پوچھو ہاے مت پوچھو
+اس شہرِ ستمگر میں اب تک بے غیرت لوگ ہی بستے ہیں
+کل اہلِ حرم پر ہنستے تھے اب اہلِ عزا پر ہنستے ہیں
+ہائے مت پوچھو ہائے مت پوچھو
 کیا منظر میں دیکھ آیا ہوں
 
 ۲
 ان راہوں کو بھی دیکھا ہے سادات جہاں تھے بے چادر
-تھے اہل حرم پابند رسن اور ان پہ برستے تھے پتھر
-ہاے مت پوچھو ہاے مت پوچھو
-کیا زخم جگر لایا
+تھے اہلِ حرم پابندِ رسن اور ان پہ برستے تھے پتھر
+ہائے مت پوچھو ہائے مت پوچھو
+کیا زخمِ جگر لایا ہوں
 
 ۳
 چودہ سو برس گزرے لیکن وہ آج بھی ریت نبھاتے ہیں
-بازار سجاے جاتے تھے بازار سجاے جاتے ہیں
-ہاے مت پوچھو ہاے مت پوچھو
+بازار سجائے جاتے تھے بازار سجائے جاتے ہیں
+ہائے مت پوچھو ہائے مت پوچھو
 وہ گلیاں میں دیکھ آیا ہوں
 
 ۴
-اپنے اجداد کی رسموں کو وہ اہل شام نہیں بھولے
+اپنے اجداد کی رسموں کو وہ اہلِ شام نہیں بھولے
 کل بھی تھے تماشائی ظالم اب تک وہ لوگ نہیں بدلے
-ہاے مت پوچھو ہاے مت پوچھو
+ہائے مت پوچھو ہائے مت پوچھو
 یہ درد وہاں سے لایا ہوں
 
 ۵
 بازار کے رستے دیکھے تو سجاد کا رونا یاد آیا
 ہنستے ہوئے چہرے دیکھے تو سجاد کا رونا یاد آیا
-ہاے مت پوچھو ہاے مت پوچھو
+ہائے مت پوچھو ہائے مت پوچھو
 کیا یاد وہاں سے لایا ہوں
 
 ۶
-ان شام کی گلیوں میں کیسے عباس کی خواہر آی تھی
-ہاتھوں میں رسن تھی زینب کے اور ہاے کھلے سر آی تھی
-ہاے مت پوچھو ہاے مت پوچھو
-یہ سونچ کے میں پھرایا ہوں
+ان شام کی گلیوں میں کیسے عباس کی خواہر آئی تھی
+ہاتھوں میں رسن تھی زینب کے اور ہائے کھلے سر آئی تھی
+ہائے مت پوچھو ہائے مت پوچھو
+یہ سوچ کے میں پھرایا ہوں
 
 ۷
-دل خون کے آنسوں روتا تھا سجاد کا ان بازاروں میں
+دل خون کے آنسو روتا تھا سجاد کا ان بازاروں میں
 بے پردہ حرم کی حالت پر ہنستے تھے شرابی راہوں میں
-ہاے مت پوچھو ہاے مت پوچھو
+ہائے مت پوچھو ہائے مت پوچھو
 دل میں یہ درد بسایا ہوں
 
 ۸
-یہ سونچ کے دل پھٹ جاتا ہے سجاد پہ کیا گزری ہوگی
-باب ساعت پہ رک کر اولاد پیمبر روتی تھی
-ہاے مت پوچھو ہاے مت پوچھو
+یہ سوچ کے دل پھٹ جاتا ہے سجاد پہ کیا گزری ہوگی
+بابِ ساعت پہ رک کر اولادِ پیمبر روتی تھی
+ہائے مت پوچھو ہائے مت پوچھو
 کیسے زندہ لوٹ آیا ہوں
 
 ۹
-میں شام کے ان بازاروں سے یہ زخم جگر لایا مظہر
-تم پوچھتے ہو تحریر میں کیا روداد سفر لایا صفدر
-ہاے مت پوچھو ہاے مت پوچھو
+میں شام کے ان بازاروں سے یہ زخمِ جگر لایا مظہر
+تم پوچھتے ہو تحریر میں کیا رودادِ سفر لایا صفدر
+ہائے مت پوچھو ہائے مت پوچھو
 نوحہ یہ زباں پر لایا ہوں

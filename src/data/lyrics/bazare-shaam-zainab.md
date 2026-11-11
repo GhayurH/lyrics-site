@@ -1,248 +1,207 @@
 ---
 title: "زینب اور شام"
-alternateTitle: "Bazare Shaam Zainab"
+alternateTitle: "Bazaar-e-Shaam Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab aur shaam
-  Nabi ke rauze par sadaat ye karte thay buka
-  Ghareeb zainab kaise bhulaye shaam
-  Balon ki safedi
+  Zainab Aur Shaam
+
+  Nabi ke rauze par saadaat ye karte the buka
+  Gharib Zainab kaise bhulaaye Shaam
+  Baaloṅ ki safedi
+  Har zakhm dil ka
+  Nil rasan ke
+  Chashm-e-Sajjad se wo
+  Behte hue khun ke aansu kehte haiṅ
 
   1
-  Har zakhm dil ka
-  Neel rasan ke
-  Chashme sajjad se wo
-  Behte huwe khoon ke aansu kehte hai
+  Bazaar-e-Shaam Zainab
+  Darbaar-e-Shaam Zainab
+  Zindaan-e-Shaam Zainab
+  Kaise bhulaaye
 
   2
-  Bazaar e shaam zainab
-  Darbar e shaam zainab
-  Zindan e shaam zainab
-  Kaise bhulaye
+  Gyaarah Muharram Karb o Bala se
+  Shaam chali Ahmad ki nawaasi
+  Saath alam ke surkh pharera
+  Nezoṅ pe sar chehroṅ pe udaasi
+  Le kar nishaan Zainab
+  Besaayabaan Zainab
+  Thi nauhakhwaan Zainab
+  Kaise bhulaaye
 
   3
-  Gyarah moharram karbobala se
-  Shaam chali ahmed ki nawasi
-  Saath alam ke surkh pharera
-  Naizon pe sar chehron pe udaasi
+  Shaam shehr mein jis dam pahunche
+  Mahw-e-buka thi Aal-e-Payambar
+  Shehnaai ki gunj thi har su
+  Aag barasti thi kahiṅ patthar
+  Gham se nidhaal Zainab
+  Thi pur malaal Zainab
+  Wo istiqbaal Zainab
+  Kaise bhulaaye
 
   4
-  Le kar nishan zainab
-  Be sayeban zainab
-  Thi nauhakhwan zainab
-  Kaise bhulaye
+  Shehr-e-Halab mein qaafila pahuncha
+  Taaza qayaamat waqt ne dhaai
+  Gard-e-safar chehroṅ pe pari thi
+  Shiriṅ hameṅ pehchaan na paai
+  Kunbe ki zain Zainab
+  Wo shor o shain Zainab
+  Shiriṅ ke bain Zainab
+  Kaise bhulaaye
 
   5
-  Shaam sheher mein jis dam pahunche
-  Mehwe buka thi aale payambar
-  Shehnayi ki goonj thi har soo
+  Neze pe dekha Akbar ka sar
+  Kufe mein boli ek zaifa
+  Ae kaash teri maut se pehle
+  Mar gai ho teri maadar dukhiya
+  Lab tishna kaam Zainab
+  Haaṅ wo kalaam Zainab
+  Badr ut tamaam Zainab
+  Kaise bhulaaye
 
   6
-  Aag barasti thi kahin patthar
-  Gham se nidhaal zainab
-  Thi pur malaal zainab
-  Wo isteqbaal zainab
+  Chalte hue naaqe se giri thi
+  Raah mein jab maasum Sakina
+  Dhundne nikli Zainab dukhiya
+  Daadi ke pehlu mein use paaya
+  Thi beqaraar Zainab
+  Aa dilfigaar Zainab
+  Maaṅ ki pukaar Zainab
+  Kaise bhulaaye
 
   7
-  Kaise bhulaye
-  Shehr e halab mein khaafla pahuncha
-  Taaza qayamat waqt ne dhaayi
+  Shaam ki galiyoṅ aur kuchoṅ mein
+  Nauha kunaṅ Aulaad-e-Nabi thi
+  Ahl-e-haram sab beparda the
+  Chaaroṅ taraf maahaul sharaabi
+  Bint-e-Amir Zainab
+  Ho ke asir Zainab
+  Nazroṅ ke tir Zainab
+  Kaise bhulaaye
 
   8
-  Gard e safar chehron pe padi thi
-  Shireen hamay pehchan na paayi
-  Kunbe ki zain zainab
-  Wo shor o shain zainab
+  Ahl-e-haram ke dil pe likhi hai
+  Kaaṅtoṅ bhari Aabid ki musaafat
+  Wo tis ghante kaise bhulaaye
+  Aal-e-Nabi aur Baab-e-Saaat
+  Jab pehli baar Zainab
+  Pahunchi darbaar Zainab
+  Wo intizaar Zainab
+  Kaise bhulaaye
 
   9
-  Shireen ke bain zainab
-  Kaise bhulaye
-  Naize pe dekha akbar ka sar
-
-  10
-  Kufe mein boli ek zaeefa
-  Ay kaash teri maut se pehle
-  Mar gayi ho teri maadar dukhiya
-  Lab tashna kaam zainab
-
-  11
-  Haan wo kalaam zainab
-  Badr'ut tamaam zainab
-  Kaise bhulaye
-
-  12
-  Chalte huwe naaqe se giri thi
-  Raah mein jab masoom sakina
-  Dhoondhne nikli zainab dukhiya
-  Daadi ke pehlu mein usay paaya
-
-  13
-  Thi beqarar zainab
-  Aa dil figaar zainab
-  Maa ki pukaar zainab
-  Kaise bhulaye
-
-  14
-  Shaam ki galiyon aur koochon mein
-  Nauha kuna aulaad e nabi thi
-  Ahle haram sab be parda thay
-
-  15
-  Charon taraf mahaul sharabi
-  Binte ameer zainab
-  Ho ke aseer zainab
-  Nazron ke teer zainab
-
-  16
-  Kaise bhulaye
-  Ahle haram ke dil pe likhi hai
-  Kaanto bhari abid ki musafat
-
-  17
-  Wo tees ghante kaise bhulaye
-  Aale nabi aur baabe saa'at
-  Jab pehli baar zainab
-  Pahunchi darbar zainab
-
-  18
-  Wo intezaar zainab
-  Kaise bhulaye
-  Pehli majlis qaid e jafa mein
-
-  19
-  Barpa hui irfan aur mazhar
-  Pahunchi madine paa ke rehaai
-  Nana se boli zainab e muztar
-  Bazaar e shaam zainab
-
-  20
-  Darbar e shaam zainab
-  Zindan e shaam zainab
-  Kaise bhulaye
+  Pehli majlis qaid-e-jafa mein
+  Barpa hui Irfan aur Mazhar
+  Pahunchi Madine paa ke rihaai
+  Naana se boli Zainab-e-muztar
+  Bazaar-e-Shaam Zainab
+  Darbaar-e-Shaam Zainab
+  Zindaan-e-Shaam Zainab
+  Kaise bhulaaye
 # source_id: nohayonline:dc5b9facdbd9b2a810fa
 # source_url: https://www.nohayonline.com/details_content.php?id=3207
 # raw_sha256: a28faad3ed6229461e8ace4bbfb7534478e1b1a7aa17539fe7df268d8d47a75c
 ---
 زینب اور شام
-نبی کے روضے پر سادات یہ کرتے تھے بکا
-غریب زینب کیسے بھلاے شام
-بالوں کی سفیدی
 
-۱
+نبی کے روضے پر سادات یہ کرتے تھے بکا
+غریب زینب کیسے بھلائے شام
+بالوں کی سفیدی
 ہر زخم دل کا
 نیل رسن کے
 چشمِ سجاد سے وہ
-بہتے ہوئے خون کے آنسوں کہتے ہیں
+بہتے ہوئے خون کے آنسو کہتے ہیں
+
+۱
+بازارِ شام زینب
+دربارِ شام زینب
+زندانِ شام زینب
+کیسے بھلائے
 
 ۲
-بازار شام زینب
-دربار شام زینب
-زندان شام زینب
-کیسے بھلاے
-
-۳
-گیارہ محرم کربوبلا میں
+گیارہ محرم کرب و بلا میں
 شام چلی احمد کی نواسی
 ساتھ علم کے سرخ پھریرا
 نیزوں پہ سر چہروں پہ اداسی
-
-۴
 لے کر نشان زینب
-بے سایبان‌ زینب
-تھی نوحہ خوان‌ زینب
-کیسے بھلاے
+بے سایبان زینب
+تھی نوحہ خواں زینب
+کیسے بھلائے
 
-۵
+۳
 شام شہر میں جس دم پہنچے
-محو بکا تھی آل پیمبر
-شہنای کی گونج تھی ہر سو
-
-۶
+محوِ بکا تھی آلِ پیمبر
+شہنائی کی گونج تھی ہر سو
 آگ برستی تھی کہیں پتھر
 غم سے نڈھال زینب
 تھی پر ملال زینب
 وہ استقبال زینب
+کیسے بھلائے
 
-۷
-کیسے بھلاے
-شہر حلب میں قافلہ پہنچا
+۴
+شہرِ حلب میں قافلہ پہنچا
 تازہ قیامت وقت نے ڈھائی
-
-۸
-گرد سفر چہروں پہ پڑی تھی
+گردِ سفر چہروں پہ پڑی تھی
 شیریں ہمیں پہچان نہ پائی
 کنبے کی زین زینب
 وہ شور و شین زینب
-
-۹
 شیریں کے بین زینب
-کیسے بھلاے
-نیزے پہ دیکھا اکبر کا سر
+کیسے بھلائے
 
-۱۰
+۵
+نیزے پہ دیکھا اکبر کا سر
 کوفے میں بولی ایک ضعیفہ
 اے کاش تیری موت سے پہلے
-مر گیء ہو تیری مادر دکھیا
+مر گئی ہو تیری مادر دکھیا
 لب تشنہ کام زینب
-
-۱۱
 ہاں وہ کلام زینب
 بدر الطعام زینب
-کیسے بھلاے
+کیسے بھلائے
 
-۱۲
+۶
 چلتے ہوئے ناقے سے گری تھی
 راہ میں جب معصوم سکینہ
 ڈھونڈنے نکلی زینب دکھیا
 دادی کے پہلو میں اسے پایا
-
-۱۳
-تھی بیقرار زینب
+تھی بے قرار زینب
 آ دلفگار زینب
 ماں کی پکار زینب
-کیسے بھلاے
+کیسے بھلائے
 
-۱۴
+۷
 شام کی گلیوں اور کوچوں میں
-نوحہ کناں اولاد نبی تھے
+نوحہ کناں اولادِ نبی تھے
 اہلِ حرم سب بے پردہ تھے
-
-۱۵
 چاروں طرف ماحول شرابی
-بنت امیر زینب
+بنتِ امیر زینب
 ہو کے اسیر زینب
 نظروں کے تیر زینب
+کیسے بھلائے
 
-۱۶
-کیسے بھلاے
+۸
 اہلِ حرم کے دل پہ لکھی ہے
 کانٹوں بھری عابد کی مسافت
-
-۱۷
-وہ تیس گھنٹے کیسے بھلاے
-آل نبی اور باب ساعت
+وہ تیس گھنٹے کیسے بھلائے
+آلِ نبی اور بابِ ساعت
 جب پہلی بار زینب
 پہنچی دربار زینب
-
-۱۸
 وہ انتظار زینب
-کیسے بھلاے
-پہلی مجلس قید جفا میں
+کیسے بھلائے
 
-۱۹
-برپا ہوی عرفان اور مظہر
+۹
+پہلی مجلس قیدِ جفا میں
+برپا ہوئی عرفان اور مظہر
 پہنچی مدینے پا کے رہائی
-نانا سے بولی زینب مضطر
-بازار شام زینب
-
-۲۰
-دربار شام زینب
-زندان شام زینب
-کیسے بھلاے
+نانا سے بولی زینبِ مضطر
+بازارِ شام زینب
+دربارِ شام زینب
+زندانِ شام زینب
+کیسے بھلائے
