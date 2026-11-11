@@ -1,72 +1,75 @@
 ---
-title: "یہ جو عطرت سے محبت ہے زمانے والوں"
-alternateTitle: "Bas Yehi Ajre Risalat"
+title: "یہ جو عترت سے محبت ہے زمانے والوں"
+alternateTitle: "Bas Yehi Ajr-e-Risaalat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ghulam Abbas"
+reciter: "Mir Bober Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye jo itrat se mohabbat hai zamane walon
-  Bas yehi ajre risalat hai zamane walon
-  Ye azadari ye girya e hamara matam
-  Ye to bid'at nahi ulfat hai zamane walon
+  Ye jo itrat se mohabbat hai zamaane waaloṅ
+  Bas yehi ajr-e-risaalat hai zamaane waaloṅ
+
+  Ye azaadaari ye girya-e-hamaara maatam
+  Ye to bidat nahiṅ ulfat hai zamaane waaloṅ
 
   1
-  Hashr tak mit nahi sakta shahe mazloom ka gham
-  Isko tauheed se nizbat hai zamane walon
+  Hashr tak mit nahiṅ sakta Shah-e-mazlum ka gham
+  Is ko tauhid se nisbat hai zamaane waaloṅ
 
   2
-  Hote karbal mein to hum apne gale katwaate
-  Ab bhi dil mein yehi hasrat hai zamane walon
+  Hote Karbal meiṅ to ham apne gale katwaate
+  Ab bhi dil meiṅ yehi hasrat hai zamaane waaloṅ
 
   3
-  Hum bahate lahoo apna ghame sarwar mein
-  Humko andaza e nusrat hai zamane walon
+  Ham bahaate lahu apna gham-e-Sarwar meiṅ
+  Ham ko andaaza-e-nusrat hai zamaane waaloṅ
 
   4
-  Apne seene pe sulaate thay mohamed jisko
-  Us nawase ki shahadat hai zamane walon
+  Apne sine pe sulaate the Muhammad jis ko
+  Us nawaase ki shahaadat hai zamaane waaloṅ
 
   5
-  Khoon matam mein bahana hai daleele ulfat
-  Ghame shabbir ibadat hai zamane walon
+  Khun maatam meiṅ bahaana hai dalil-e-ulfat
+  Gham-e-Shabbir ibaadat hai zamaane waaloṅ
 
   6
-  Jisko emaan ka sarmaaya samajhta hai ghulam
-  Ghame shabbir wo daulat hai zamane walon
+  Jis ko imaan ka sarmaaya samajhta hai Ghulam
+  Gham-e-Shabbir wo daulat hai zamaane waaloṅ
 # source_id: nohayonline:4f72fe2f004ca1c8a16f
 # source_url: https://www.nohayonline.com/details_content.php?id=816
 # raw_sha256: efbd110da7082f2db3d67483aa11634a1e398fa2276fbcb3977bdd5edfbd6921
 ---
-یہ جو عطرت سے محبت ہے زمانے والوں
-بس یہی اجر رسالت ہے زمانے والوں
-یہ عزاداری یہ گریہء ہمارا ماتم
+یہ جو عترت سے محبت ہے زمانے والوں
+بس یہی اجرِ رسالت ہے زمانے والوں
+
+یہ عزاداری یہ گریۂ ہمارا ماتم
 یہ تو بدعت نہیں الفت ہے زمانے والوں
 
 ۱
-حشر تک مٹ نہیں سکتا شہ مظلوم کا غم
-اسکو توحید سے نسبت ہے زمانے والوں
+حشر تک مٹ نہیں سکتا شہِ مظلوم کا غم
+اس کو توحید سے نسبت ہے زمانے والوں
 
 ۲
 ہوتے کربل میں تو ہم اپنے گلے کٹواتے
 اب بھی دل میں یہی حسرت ہے زمانے والوں
 
 ۳
-ہم بہاتے لہو اپنا غم سرور میں
-ہم کو اندازہء نصرت ہے زمانے والوں
+ہم بہاتے لہو اپنا غمِ سرور میں
+ہم کو اندازۂ نصرت ہے زمانے والوں
 
 ۴
-اپنے سینے پہ سلاتے تھے محمد جسکو
+اپنے سینے پہ سلاتے تھے محمد جس کو
 اس نواسے کی شہادت ہے زمانے والوں
 
 ۵
-خون ماتم میں بہانا ہے دلیل الفت
-غم شبیر عبادت ہے زمانے والوں
+خون ماتم میں بہانا ہے دلیلِ الفت
+غمِ شبیر عبادت ہے زمانے والوں
 
 ۶
-جسکو ایمان کا سرمایہ سمجھتا ہے غلام
-غم شبیر وہ دولت ہے زمانے والوں
+جس کو ایمان کا سرمایہ سمجھتا ہے غلام
+غمِ شبیر وہ دولت ہے زمانے والوں
