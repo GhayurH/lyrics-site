@@ -6,40 +6,41 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Beemar ki aankein hai akbar tere raahon par
-  Deewarein bhi roti hai sughra ki karahon par
+  Bimaar ki aankheṅ haiṅ Akbar tere raahoṅ par
+  Divaareṅ bhi roti haiṅ Sughra ki karaahoṅ par
 
   1
-  Sughra ne kaha mujhko ek baar jo mil jaaye
-  Sar apna mai rak doongi bhaiya tere paon par
+  Sughra ne kaha mujh ko ik baar jo mil jaaye
+  Sar apna main rakh duṅ gi bhaiya tere paaoṅ par
 
   2
-  Kyun bhool gaye bhaiya sughra ki khata kya hai
-  Awaaz nahi dete kyun meri sadaon par
+  Kiuṅ bhul gaye bhaiya Sughra ki khata kya hai
+  Aawaaz nahiṅ dete kiuṅ meri sadaaoṅ par
 
   3
-  Wo khud hi samajh legi hai maara gaya bhai
-  Dekhegi nishan jis dam zainab tere baahon par
+  Wo khud hi samajh le gi hai maara gaya bhaai
+  Dekhe gi nishaaṅ jis dam Zainab tere baahoṅ par
 
   4
-  Dekha ke lahoo may hai dooba hua sab kunba
-  Kya khwaab utar aaya sughra ki nigahon par
+  Dekha ke lahu mein hai duba hua sab kunba
+  Kya khwaab utar aaya Sughra ki nigaahoṅ par
 
   5
-  Pyase rahe jab akbar barsi na ghata koi
-  Afsos kare dunya ab aisi ghataon par
+  Pyaase rahe jab Akbar barsi na ghata koi
+  Afsos kare duniya ab aisi ghataaoṅ par
 
   6
-  Hai dhoop may jis din se laasha ali akbar ka
-  Maa ashk giraati hai har ped ki chaon par
+  Hai dhup mein jis din se laasha Ali Akbar ka
+  Maaṅ ashk giraati hai har per ki chhaaoṅ par
 
   7
-  Rehaan mujhe kya ho ab khauf qayamat ka
-  Jab mera aqeeda hai zahra ki ataon par
+  Rehaan mujhe kya ho ab khauf qayaamat ka
+  Jab mera aqida hai Zahra ki ataaoṅ par
 # source_id: nohayonline:2d10b0a3281df3dfcdae
 # source_url: https://www.nohayonline.com/details_content.php?id=2295
 # raw_sha256: aeb3ebc3d919f8a6f26f22ef14af1e1f093506906ad0dc1fd3a3fe3a82153b88
@@ -51,11 +52,11 @@ romanLyrics: |-
 دیواریں بھی روتی ہیں صغرا کی کراہوں پر
 
 ۱
-صغرا نے کہا مجھکو اک بار جو مل جاے
+صغرا نے کہا مجھ کو اک بار جو مل جائے
 سر اپنا میں رکھ دوں گی بھیا تیرے پاؤں پر
 
 ۲
-کیوں بھول گےء بھیا صغرا کی خطا کیا ہے
+کیوں بھول گئے بھیا صغرا کی خطا کیا ہے
 آواز نہیں دیتے کیوں میری صداؤں پر
 
 ۳

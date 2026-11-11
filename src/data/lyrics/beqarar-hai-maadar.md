@@ -1,92 +1,93 @@
 ---
-title: "بیقرار ہے مادر ہاے جل گیا جھولا"
+title: "بیقرار ہے مادر ہائے جل گیا جھولا"
 alternateTitle: "Beqarar Hai Maadar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
+reciter: "Anj. Muhibbane Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Beqarar hai maadar haye jal gaya jhoola
-  Haye jal gaya jhoola haye jal gaya jhoola
+  Beqaraar hai maadar haaye jal gaya jhula
+  Haaye jal gaya jhula haaye jal gaya jhula
 
   1
-  Uski yaad jab aati dekh kar sukoon paati
-  Sabr aayega kyun kar haye jal gaya jhoola
+  Us ki yaad jab aati dekh kar sukuṅ paati
+  Sabr aaye ga kiuṅ kar haaye jal gaya jhula
 
   2
-  Godh ho gayi khaali qatl ho gaya waali
-  Kis se mai kahun jaa kar haye jal gaya jhoola
+  God ho gayi khaali qatl ho gaya waali
+  Kis se main kahuṅ jaa kar haaye jal gaya jhula
 
   3
-  Khoon ban ke sadmon se beh raha hai aankhon se
-  Dil pe chal gaya khanjar haye jal gaya jhoola
+  Khun ban ke sadmoṅ se beh raha hai aankhoṅ se
+  Dil pe chal gaya khanjar haaye jal gaya jhula
 
   4
-  Kis qadar hai sannata kuch nazar nahi aata
-  Hai dhuaan dhuaan manzar haye jal gaya jhoola
+  Kis qadar hai sannaata kuchh nazar nahiṅ aata
+  Hai dhuaaṅ dhuaaṅ manzar haaye jal gaya jhula
 
   5
-  Maa ke dil se aankhon tak jiski raakh phaili hai
-  Wo nishani e asghar haye jal gaya jhoola
+  Maaṅ ke dil se aankhoṅ tak jis ki raakh phaili hai
+  Wo nishaani-e-Asghar haaye jal gaya jhula
 
   6
   Pehla zakhm ye khaaya wo na laut kar aaya
-  Doosra laga nashtar haye jal gaya jhoola
+  Dusra laga nashtar haaye jal gaya jhula
 
   7
-  Kaise din guzarungi bas yehi pukarungi
-  Khaak ho gaya bistar haye jal gaya jhoola
+  Kaise din guzaaruṅ gi bas yehi pukaaruṅ gi
+  Khaak ho gaya bistar haaye jal gaya jhula
 
   8
-  Bhoolna hai na-mumkin yaad aayega har din
-  Kaise dil karun patthar haye jal gaya jhoola
+  Bhulna hai naamumkin yaad aaye ga har din
+  Kaise dil karuṅ patthar haaye jal gaya jhula
 
   9
-  Ay suroor wo muztar bezuban ki turbat par
-  Keh rahi thi ro ro kar haye jal gaya jhoola
+  Ae Surur wo muztar bezabaaṅ ki turbat par
+  Keh rahi thi ro ro kar haaye jal gaya jhula
 # source_id: nohayonline:ef0764ae999c58a16945
 # source_url: https://www.nohayonline.com/details_content.php?id=3727
 # raw_sha256: 0e5601faa539309edb59976fb8c8ff3c7d2a49f8c5984a271054c94b5381f429
 ---
-بیقرار ہے مادر ہاے جل گیا جھولا
-ہاے جل گیا جھولا ہاے جل گیا جھولا
+بیقرار ہے مادر ہائے جل گیا جھولا
+ہائے جل گیا جھولا ہائے جل گیا جھولا
 
 ۱
 اس کی یاد جب آتی دیکھ کر سکوں پاتی
-صبر آے گا کیوں کر ہاے جل گیا جھولا
+صبر آئے گا کیوں کر ہائے جل گیا جھولا
 
 ۲
-گود ہو گیء خالی قتل ہو گیا والی
-کس سے میں کہوں جا کر ہاے جل گیا جھولا
+گود ہو گئی خالی قتل ہو گیا والی
+کس سے میں کہوں جا کر ہائے جل گیا جھولا
 
 ۳
 خون بن کے صدموں سے بہہ رہا ہے آنکھوں سے
-دل پہ چل گیا خنجر ہاے جل گیا جھولا
+دل پہ چل گیا خنجر ہائے جل گیا جھولا
 
 ۴
 کس قدر ہے سناٹا کچھ نظر نہیں آتا
-ہے دھواں دھواں منظر ہاے جل گیا جھولا
+ہے دھواں دھواں منظر ہائے جل گیا جھولا
 
 ۵
-ماں کے دل سے آنکھوں تک جس کی راخ پھیلی ہے
-وہ نشانیء اصغر ہاے جل گیا جھولا
+ماں کے دل سے آنکھوں تک جس کی راکھ پھیلی ہے
+وہ نشانیٔ اصغر ہائے جل گیا جھولا
 
 ۶
 پہلا زخم یہ کھایا وہ نہ لوٹ کر آیا
-دوسرا لگا نشتر ہاے جل گیا جھولا
+دوسرا لگا نشتر ہائے جل گیا جھولا
 
 ۷
 کیسے دن گزاروں گی بس یہی پکاروں گی
-خاک ہو گیا بستر ہاے جل گیا جھولا
+خاک ہو گیا بستر ہائے جل گیا جھولا
 
 ۸
-بھولنا ہے نہ ممکن یاد آے گا ہر دن
-کیسے دل کروں پتھر ہاے جل گیا جھولا
+بھولنا ہے ناممکن یاد آئے گا ہر دن
+کیسے دل کروں پتھر ہائے جل گیا جھولا
 
 ۹
 اے سرور وہ مضطر بے زباں کی تربت پر
-کہہ رہی تھی رو رو کر ہاے جل گیا جھولا
+کہہ رہی تھی رو رو کر ہائے جل گیا جھولا

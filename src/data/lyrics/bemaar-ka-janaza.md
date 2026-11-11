@@ -6,57 +6,59 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Allah re qayamat allah re qayamat
-  Mazloom ka janaza lachaar ka janaza
-  
+  Allah re qayaamat Allah re qayaamat
+  Mazlum ka janaaza laachaar ka janaaza
+
   1
-  Aahista se uthao bemaar ka janaza
-  
+  Aahista se uthaao bimaar ka janaaza
+  Mazlum ka janaaza laachaar ka janaaza
+
   2
-  Khaye hai taziyane zakhmi hai pusht saari
-  Hai sheh ke gham mein ab bhi aankhon se ashk jaari
-  Tasveer e gham bana hai ghamkhwar ka janaza
-  Aahista se uthao bemaar ka janaza
-  
+  Khaaye haiṅ taaziyaane zakhmi hai pusht saari
+  Hai Shah ke gham mein ab bhi aankhoṅ se ashk jaari
+  Tasvir-e-gham bana hai ghamkhwaar ka janaaza
+  Aahista se uthaao bimaar ka janaaza
+
   3
-  Ummat ne zulm dhaaye kufe ki rehguzar mein
-  Jisko qadam qadam par loota gaya safar mein
-  Hai aise khaafile ke salaar ka janaza
-  Aahista se uthao bemaar ka janaza
-  
+  Ummat ne zulm dhaaye Kufe ki rahguzar mein
+  Jis ko qadam qadam par luta gaya safar mein
+  Hai aise qaafile ke saalaar ka janaaza
+  Aahista se uthaao bimaar ka janaaza
+
   4
-  Ahle aza tadap kar aansu baha rahe hai
-  Taboot ko ye keh kar kaandha laga rahe hai
-  Kaise uthaye apne sardar ka janaza
-  Aahista se uthao bemaar ka janaza
-  
+  Ahl-e-aza tarap kar aansu baha rahe haiṅ
+  Taabut ko ye keh kar kaandha laga rahe haiṅ
+  Kaise uthaaye apne sardaar ka janaaza
+  Aahista se uthaao bimaar ka janaaza
+
   5
-  Bharne ko bhar chuke hai sab zakhm pindliyon ke
-  Lekin nishan ab bhi baaqi hai bediyon ke
-  Dekho hussain apne dildaar ka janaza
-  Aahista se uthao bemaar ka janaza
-  
+  Bharne ko bhar chuke haiṅ sab zakhm pindliyoṅ ke
+  Lekin nishaan ab bhi baaqi hai beriyoṅ ke
+  Dekho Husain apne dildaar ka janaaza
+  Aahista se uthaao bimaar ka janaaza
+
   6
-  Saydaniyan tadap kar sar apna peet'ti hai
-  Saansein to ruk gayi hai aankhein khuli hai
-  Baqir ke muntazir hai deedar ka janaza
-  Aahista se uthao bemaar ka janaza
-  
+  Sayyidaaniyaṅ tarap kar sar apna pitti hai
+  Saanseṅ to ruk gayi hai aankheṅ khuli hui hai
+  Baaqir ke muntazir haiṅ didaar ka janaaza
+  Aahista se uthaao bimaar ka janaaza
+
   7
-  Aankhon se khoon tapka tharra gaya kaleja
-  Baqir ke dil se poocho kaise lehed mein rakha
-  Abid ka muttaqi ka deen daar ka janaza
-  Aahista se uthao bemaar ka janaza
-  
+  Aankhoṅ se khun tapka tharra gaya kaleja
+  Baaqir ke dil se puchho kaise lahad mein rakha
+  Aabid ka muttaqi ka dindaar ka janaaza
+  Aahista se uthaao bimaar ka janaaza
+
   8
-  Aamir bhi ro raha hai akhtar ki aankh nam hai
-  Beemar e karbala ka sab ke dilon mein gham hai
-  Nazron mein ghoomta hai khuddar ka janaza
-  Aahista se uthao bemaar ka janaza
+  Aamir bhi ro raha hai Akhtar ki aankh nam hai
+  Bimaar-e-Karbala ka sab ke diloṅ mein gham hai
+  Nazroṅ mein ghumta hai khuddaar ka janaaza
+  Aahista se uthaao bimaar ka janaaza
 # source_id: nohayonline:60ba5d9475b0722393d9
 # source_url: https://www.nohayonline.com/details_content.php?id=3396
 # raw_sha256: 83d716aeabc7f4de7f099b6fb677d0d29a7835ac8efff7f8fc4b6af0b5ca0128
@@ -67,23 +69,24 @@ romanLyrics: |-
 
 ۱
 آہستہ سے اٹھاؤ بیمار کا جنازہ
+مظلوم کا جنازہ لاچار کا جنازہ
 
 ۲
-کھاے ہیں تازیانے زخمی ہے پشت ساری
+کھائے ہیں تازیانے زخمی ہے پشت ساری
 ہے شہ کے غم میں اب بھی آنکھوں سے اشک جاری
 تصویر غم بنا ہے غم خوار کا جنازہ
 آہستہ سے اٹھاؤ بیمار کا جنازہ
 
 ۳
-امت نے ظلم ڈھاے کوفے کی رہگزر میں
+امت نے ظلم ڈھائے کوفے کی رہگزر میں
 جس کو قدم قدم پر لوٹا گیا سفر میں
 ہے جیسے قافلے کے سالار کا جنازہ
 آہستہ سے اٹھاؤ بیمار کا جنازہ
 
 ۴
-أہل عزا تڑپ کر آنسوں بہا رہے ہیں
+اہل عزا تڑپ کر آنسو بہا رہے ہیں
 تابوت کو یہ کہہ کر کاندھا لگا رہے ہیں
-کیسے اٹھاے اپنے سردار کا جنازہ
+کیسے اٹھائے اپنے سردار کا جنازہ
 آہستہ سے اٹھاؤ بیمار کا جنازہ
 
 ۵
@@ -94,7 +97,7 @@ romanLyrics: |-
 
 ۶
 سیدانیاں تڑپ کر سر اپنا پیٹتی ہے
-سانسیں تو رک گیء ہے آنکھیں کھلی ہوئی ہے
+سانسیں تو رک گئی ہے آنکھیں کھلی ہوئی ہے
 باقر کے منتظر ہیں دیدار کا جنازہ
 آہستہ سے اٹھاؤ بیمار کا جنازہ
 
