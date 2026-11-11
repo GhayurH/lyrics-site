@@ -1,53 +1,54 @@
 ---
 title: "دونوں جہاں میں آج ہے چرچہ حسین کا"
-alternateTitle: "Dono Jahan May"
+alternateTitle: "Donoṅ Jahaaṅ Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
+reciter: "Afzal Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Dono Jahan May"]
 published: false
 romanLyrics: |-
-  Dono jahan may aaj hai charcha hussain ka
-  Har shaks padh raha hai qaseeda hussain ka
+  Donoṅ jahaaṅ mein aaj hai charcha Husain ka
+  Har shakhs parh raha hai qasida Husain ka
 
   1
-  Ahle haram hai pyaas ki shiddat se bekaraar
-  Nauha kuna hai dasht may kunba hussain ka
+  Ahl-e-haram hai pyaas ki shiddat se beqaraar
+  Nauha-kunaaṅ hai dasht mein kunba Husain ka
 
   2
-  Tukdon may munqasim hua ibne ali ka laal
-  Tashnadhan yateem bhatija hussain ka
+  Tukroṅ mein munqasim hua ibn-e-Ali ka laal
+  Tishna-dahan yatim bhatija Husain ka
 
   3
-  Hal min mughisuna ki sada sunke be-zaban
-  Jhoole se gir gaya hai wo bacha hussain ka
+  Hal min mughisuna ki sadaa sun ke bezabaaṅ
+  Jhule se gir gaya hai wo bachcha Husain ka
 
   4
-  Masroof kaar zaar hai zainab ke laadle
-  Maadar ne kar diya unhe sadqa hussain ka
+  Masruf-e-kaarzaar hai Zainab ke laadle
+  Maadar ne kar diya unheṅ sadqa Husain ka
 
   5
-  Aansu baha rahe hai jo gham may hussain ke
-  Usko duayein deta hai baba hussain ka
+  Aansu baha rahe haiṅ jo gham mein Husain ke
+  Usko duaaeṅ deta hai Baaba Husain ka
 
   6
-  Mashke sakina bhar ke chala sher ka pisar
-  Baazu kate to toota sahara hussain ka
+  Mashk-e-Sakina bhar ke chala sher ka pisar
+  Baazu kate to tuta sahaara Husain ka
 
   7
-  Mitti pe so rahi hai sakina wo ghamzada
-  Ab na milega isko wo seena hussain ka
+  Mitti pe so rahi hai Sakina wo ghamzada
+  Ab na milega isko wo sina Husain ka
 
   8
-  Ghash may pada hai qaime may bemaar natawan
-  Kaise behan bachayegi beta hussain ka
+  Ghash mein para hai khaime mein bimaar naatawaaṅ
+  Kaise behan bachaaegi beta Husain ka
 
   9
-  Zakhmo pe zakhm khaaye najaf par kabhi nahi
-  Zainab ne toda koi bhi waada hussain ka
+  Zakhmoṅ pe zakhm khaae Najaf par kabhi nahiṅ
+  Zainab ne tora koi bhi waada Husain ka
 # source_id: nohayonline:01bac4af3ed49444289b
 # source_url: https://www.nohayonline.com/details_content.php?id=858
 # raw_sha256: ebb03e351d850e36f1dc2101f71aeaac3f8830f8d54650131f2c6db124f831d2
@@ -56,7 +57,7 @@ romanLyrics: |-
 ہر شخص پڑھ رہا ہے قصیدہ حسین کا
 
 ۱
-أہل حرم ہے پیاس کی شدت سے بیقرار
+اہل حرم ہے پیاس کی شدت سے بیقرار
 نوحہ کناں ہے دشت کنبہ حسین کا
 
 ۲
@@ -72,7 +73,7 @@ romanLyrics: |-
 مادر نے کر دیا انہیں صدقہ حسین کا
 
 ۵
-آنسوں بہا رہے ہیں جو غم میں حسین کے
+آنسو بہا رہے ہیں جو غم میں حسین کے
 اسکو دعائیں دیتا ہے بابا حسین کا
 
 ۶
@@ -85,8 +86,8 @@ romanLyrics: |-
 
 ۸
 غش میں پڑا ہے خیمے میں بیمار ناتواں
-کیسے بہن بچاے گی بیٹا حسین کا
+کیسے بہن بچائے گی بیٹا حسین کا
 
 ۹
 زخموں پہ زخم کھائے نجف پر کبھی نہیں
-زینب نے توڑا کوی بھی وعدہ حسین کا
+زینب نے توڑا کوئی بھی وعدہ حسین کا
