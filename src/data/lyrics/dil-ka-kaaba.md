@@ -1,73 +1,74 @@
 ---
-title: مکے میں کعبہ میری جبیںن کا
+title: مکے میں کعبہ میری جبیں کا
 alternateTitle: Dil Ka Kaaba
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Ammar Rizvi"
+reciter: "Musayyab Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Makke mein kaaba meri jabeen ka
-  Hai dil ka kaaba karbala mein
-  Ay aab e zam zam ke peene walon
-  Koi hai pyasa karbala mein
+  Makke mein Kaaba meri jabiṅ ka
+  Hai dil ka Kaaba Karbala mein
+  Ae aab-e-Zam Zam ke pine waaloṅ
+  Koi hai pyaasa Karbala mein
 
   1
-  Kyun hai baqqiya mein ye udaasi
-  Rauza mohamed ka kyun hai khaali
-  Bete ko rone baba ko lekar
-  Aayi hai zehra karbala mein
+  Kiuṅ hai Baqiyya mein ye udaasi
+  Rauza Muhammad ka kiuṅ hai khaali
+  Bete ko rone baaba ko le kar
+  Aayi hai Zehra Karbala mein
 
   2
-  Bachon ko maa'ein jhoola jhula kar
-  Batla rahi hai lori suna kar
-  Dasvi moharam ko jal gaya tha
-  Nanha sa jhoola karbala mein
+  Bachchoṅ ko maaeṅ jhula jhula kar
+  Batla rahi haiṅ lori suna kar
+  Dasviṅ Muharram ko jal gaya tha
+  Nanha sa jhula Karbala mein
 
   3
-  Jab mai madine se karbala ki
+  Jab main Madine se Karbala ki
   Jaanib chala to awaaz aayi
-  Pani pilana kyun ke hai pyasa
-  Mera nawasa karbala mein
+  Paani pilaana kiuṅ ke hai pyaasa
+  Mera nawaasa Karbala mein
 
   4
-  Shayad yahan ho shayad wahan ho
-  Aaun kidhar mai baba kahan ho
-  Poocho khuda se kitna chali hai
-  Bali sakina karbala mein
+  Shaayad yahaaṅ ho shaayad wahaaṅ ho
+  Aauṅ kidhar main baaba kahaaṅ ho
+  Puchho Khuda se kitna chali hai
+  Baali Sakina Karbala mein
 
   5
   Yaad aa rahi hai wo dosti bhi
-  Bachpan mein jisne humko milaya
-  Ibne mazahir ko sheh ne likha
-  Mai hoo akela karbala mein
+  Bachpan mein jis ne hum ko milaaya
+  Ibn-e-Mazaahir ko Shah ne likha
+  Main huṅ akela Karbala mein
 
   6
-  Ek ek aayat ne siskiyan li
-  Ek ek surat bharti thi aahein
-  Jab barchiyon par kuch hafizon ne
-  Quran uthaya karbala mein
+  Ik ek aayat ne siskiyaaṅ li
+  Ik ek surat bharti thi aaheṅ
+  Jab barchhiyoṅ par kuchh haafizoṅ ne
+  Quraaṅ uthaaya Karbala mein
 
   7
-  Maara gaya ye kis ka mohamed
-  Iska kaleja cheda gaya kyun
-  Bolay musalman apne nabi ko
-  Hum hi ne maara karbala mein
+  Maara gaya ye kis ka Muhammad
+  Is ka kaleja chheda gaya kiuṅ
+  Bole musalmaaṅ apne Nabi ko
+  Hum hi ne maara Karbala mein
 
   8
-  Be-hurmati kyun karte ho meri
-  Aayat to padte tatheer ki tum
-  Roya musalman ki ghairaton par
-  Zainab ka parda karbala mein
+  Behurmati kiuṅ karte ho meri
+  Aayat to parhte Tathir ki tum
+  Roya musalmaaṅ ki ghairatoṅ par
+  Zainab ka parda Karbala mein
 
   9
-  Ammar is gham ne khoon rulaya
-  Jo mustafa ke kaandhon pe baitha
-  Ummat ne uske laashe ko haye
-  Ghodon se raundha karbala mein
+  Ammar is gham ne khuṅ rulaaya
+  Jo Mustafa ke kaandhoṅ pe baitha
+  Ummat ne us ke laashe ko haaye
+  Ghoroṅ se raundha hai Karbala mein
 # source_id: nohayonline:2c046e4ef26d40784b78
 # source_url: https://www.nohayonline.com/details_content.php?id=700
 # raw_sha256: 5497f42c5cf3f231148dbff7376974ee70fd9043e637447124bd6ad9432e2808
@@ -76,27 +77,27 @@ romanLyrics: |-
 # raw_sha256: 6672f631def2d591a86f0532c336c0863efebc933f05d9afaaeb6ff2dd2fc05f
 ---
 
-مکے میں کعبہ میری جبیںن کا
+مکے میں کعبہ میری جبیں کا
 ہے دل کا کعبہ کربلا میں
 اے آب زم زم کے پینے والوں
-کوئی ہے پیاسہ کربلا میں
+کوئی ہے پیاسا کربلا میں
 
 ۱
 کیوں ہے بقیہ میں یہ اداسی
 روضہ محمد کا کیوں ہے خالی
-بیٹے کو رونے بابا کو لیکر
-آی ہے زہرا کربلا میں
+بیٹے کو رونے بابا کو لے کر
+آئی ہے زہرا کربلا میں
 
 ۲
-بچوں کو مایں جھولا جھلا کر
-بتلا رہی ہیں لوری سناکر
+بچوں کو مائیں جھولا جھلا کر
+بتلا رہی ہیں لوری سنا کر
 دسویں محرم کو جل گیا تھا
 ننھا سا جھولا کربلا میں
 
 ۳
 جب میں مدینے سے کربلا کی
 جانب چلا تو آواز آئی
-پانی پلانا کیوں کہ ہے پیاسہ
+پانی پلانا کیوں کہ ہے پیاسا
 میرا نواسہ کربلا میں
 
 ۴
@@ -106,20 +107,20 @@ romanLyrics: |-
 بالی سکینہ کربلا میں
 
 ۵
-یاد آرہی ہے وہ دوستی بھی
-بچپن میں جس نے ہمکو ملایا
+یاد آ رہی ہے وہ دوستی بھی
+بچپن میں جس نے ہم کو ملایا
 ابنِ مظاہر کو شہ نے لکھا
 میں ہوں اکیلا کربلا میں
 
 ۶
 اک ایک آیت نے سسکیاں لی
-اک ایک صورت بھرتی تھی آہیں
+اک ایک سورت بھرتی تھی آہیں
 جب برچیوں پر کچھ حافظوں نے
 قرآں اٹھایا کربلا میں
 
 ۷
 مارا گیا یہ کس کا محمد
-اسکا کلیجہ چھیدا گیا کیوں
+اس کا کلیجہ چھیدا گیا کیوں
 بولے مسلماں اپنے نبی کو
 ہم ہی نے مارا کربلا میں
 
@@ -132,5 +133,5 @@ romanLyrics: |-
 ۹
 عمار اس غم نے خوں رلایا
 جو مصطفیٰ کے کاندھوں پہ بیٹھا
-امت نے اسکے لاشے کو ہاے
+امت نے اس کے لاشے کو ہائے
 گھوڑوں سے روندھا ہے کربلا میں
