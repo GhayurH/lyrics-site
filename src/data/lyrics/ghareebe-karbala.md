@@ -1,67 +1,68 @@
 ---
 title: "یا غریب کربلا"
-alternateTitle: "Ghareebe Karbala"
+alternateTitle: "Gharib-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Azam Hussain"
+reciter: "Aqif Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya ghareebe karbala
-  Ya ghareebe nainawa
-  Haa qateele be-khata
-  Ya zabeehe nainawa
+  Ya Gharib-e-Karbala
+  Ya Gharib-e-Nainawa
+  Haaṅ qatil-e-bekhata
+  Ya zabih-e-Nainawa
 
   1
-  Dashte bala mein aa ke ghera
-  Mehman bula kar rukh apna phera
-  Be-aab kar ke tumko sataya
+  Dasht-e-bala mein aa ke ghera
+  Mehmaan bula kar rukh apna phera
+  Beaab kar ke tum ko sataaya
   Alqama ro kar karti thi girya
-  
+
   2
-  Aada ne tujhpe hai zulm dhaaya
-  Darya kinare pehra lagaya
-  Ro ro ke kehti thi ye sakina
-  Mai bhi hoo pyasi tum bhi ho pyasa
-  
+  Aada ne tujh pe hai zulm dhaaya
+  Darya kinaare pehra lagaaya
+  Ro ro ke kehti thi ye Sakina
+  Main bhi huṅ pyaasi tum bhi ho pyaasa
+
   3
-  Qasim o akbar bhi gaye maara
-  Tanha khade hai ab shaahe waala
-  Maara gaya sab godh ka paala
+  Qasim o Akbar bhi gaye maara
+  Tanha khara hai ab Shaah-e-waala
+  Maara gaya sab god ka paala
   Kaisi musibat ka hai ye lamha
-  
+
   4
-  Pani ke badle maara hai payka
-  Nehr hua hai masoom bacha
+  Paani ke badle maara hai paikaaṅ
+  Nehr hua hai maasum bachcha
   Phat gaya sheh ka us dam kaleja
-  Darya ki maujon ne ye pukara
-  
+  Darya ki maujoṅ ne ye pukaara
+
   5
-  Teer o tabar aur khanjar o naiza
-  Mein chup gaya haye wo pyasa
-  Pushte farash pe mushkil hai rehna
+  Tir o tabar aur khanjar o naiza
+  Mein chhup gaya haaye wo pyaasa
+  Pusht-e-farsh pe mushkil hai rehna
   Asr ka mehshar aur sheh ka sajda
-  
+
   6
-  Hae hae wo asghar cheh maah waala
-  Ghutno ke bal bhi jo chal na paaya
-  Uska badan jo naize pa dekha
-  Baba ke sar se boli sakina
-  
+  Haaye haaye wo Asghar chhe maah waala
+  Ghutnoṅ ke bal bhi jo chal na paaya
+  Us ka badan jo naize pe dekha
+  Baba ke sar se boli Sakina
+
   7
-  Sattar qadam pe zainab e kubra
-  Roti thi haye karti thi girya
-  Koi bacha lo aake khudara
-  Jalti zameen pe hota hai zibha
-  
+  Sattar qadam pe Zainab-e-Kubra
+  Roti thi haaye karti thi girya
+  Koi bacha lo aa ke khudaara
+  Jalti zamiṅ pe hota hai zibh
+
   8
-  Aqif o aazam manzar ajab tha
-  Kaata gala jab hilta tha sehra
+  Aqif o Azam manzar ajab tha
+  Kaata gala jab hilta tha sahra
   Naize pe sar jo baap ka dekha
-  Sajjad ro kar us dam pukara
+  Sajjad ro kar us dam pukaara
 # source_id: nohayonline:a85fae4d90a56bc6cc3e
 # source_url: https://www.nohayonline.com/details_content.php?id=1472
 # raw_sha256: 798e8114a15e79119f635d8d69cb8d8898d143074dac61d28e605eede2602f67
@@ -70,12 +71,12 @@ romanLyrics: |-
 یا غریب کربلا
 یا غریب نینوا
 ہاں قتیل بے خطا
-یا زبیح نینوا
+یا ذبیح نینوا
 
 ۱
 دشت بلا میں آ کے گھیرا
 مہمان بلا کر رخ اپنا پھیرا
-بے آب کر کی تم کو ستایا
+بے آب کر کے تم کو ستایا
 علقمہ رو کر کرتی تھی گریہ
 
 ۲
@@ -85,7 +86,7 @@ romanLyrics: |-
 میں بھی ہوں پیاسی تم بھی ہو پیاسا
 
 ۳
-قاسم و اکبر بھی گےء مارا
+قاسم و اکبر بھی گئے مارا
 تنہا کھڑا ہے اب شاہ والا
 مارا گیا سب گود کا پالا
 کیسی مصیبت کا ہے یہ لمحہ
@@ -98,20 +99,20 @@ romanLyrics: |-
 
 ۵
 تیر و تبر اور خنجر و نیزہ
-میں چھپ گیا ہاے وہ پیاسا
-پشت فرش پہ مشکل ہے رہنا
+میں چھپ گیا ہائے وہ پیاسا
+پشتِ فرش پہ مشکل ہے رہنا
 عصر کا محشر اور شہ کا سجدہ
 
 ۶
-ہاے ہاے وہ اصغر چھ ماہ والا
+ہائے ہائے وہ اصغر چھ ماہ والا
 گھٹنوں کے بل بھی جو چل نہ پایا
 اس کا بدن جو نیزے پہ دیکھا
 بابا کے سر سے بولی سکینہ
 
 ۷
-ستر قدم پہ زینب کبریٰ
-روتی تھی ہاے کرتی تھی گریہ
-کوئی بچا لو آکے خدارا
+ستر قدم پہ زینبِ کبریٰ
+روتی تھی ہائے کرتی تھی گریہ
+کوئی بچا لو آ کے خدارا
 جلتی زمیں پہ ہوتا ہے ذبح
 
 ۸

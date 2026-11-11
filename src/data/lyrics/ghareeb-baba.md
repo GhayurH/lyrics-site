@@ -1,89 +1,94 @@
 ---
 title: "غریب بابا غریب بیٹی"
-alternateTitle: "Ghareeb Baba"
+alternateTitle: "Gharib Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghareeb baba ghareeb beti
-  Wo be-kafan tha ye be-rida thi
+  Gharib baba gharib beti
+
+  Wo bekafan tha ye berida thi
+  Gharib baba gharib beti
 
   1
-  Tamache dono ne ban may khaaye
-  Hai dono pehlu shikasta haye
-  Wo ibne zehra ye zehra jaisi
-  
+  Tamaache donoṅ ne ban mein khaaye
+  Hai donoṅ pehlu shikasta haaye
+  Wo Ibn-e-Zehra ye Zehra jaisi
+
   2
-  Musalla baba ka ye bichaati
-  Hussain dete thay isko lori
-  Ye uski aadi wo iska aadi
-  
+  Musalla baba ka ye bichhaati
+  Husain dete the is ko lori
+  Ye us ki aadi wo us ki aadi
+
   3
-  Tha usko maara rula rula ke
-  Bahaya pani isay dikha ke
-  Tha wo bhi pyasa hai ye bhi pyasi
-  
+  Tha us ko maara rula rula ke
+  Bahaaya paani ise dikha ke
+  Tha wo bhi pyaasa hai ye bhi pyaasa
+
   4
   Huwe jo khanjar ke waar sheh par
-  Khadi thi pehlu may unki dukhtar
-  Wo jitna tadpe ye utna royi
-  
+  Khari thi pehlu mein un ki dukhtar
+  Wo jitna tarpe wo utna royi
+
   5
   Ye durre zaalim se kha rahi hai
-  Padar ke seene ko dhoondti hai
+  Padar ke sine ko dhundti hai
   Wo jab se soya ye so na paayi
-  
+
   6
-  Thay zakhm shabbir ke badan par
-  Sakina khaati rahi hai pathar
+  The zakhm Shabbir ke badan par
+  Sakina khaati rahi hai patthar
   Tha wo bhi zakhmi hai ye bhi zakhmi
-  
+
   7
-  Sar uska sandooq may rakha hai
-  Rasan may iska gala bandha hai
-  Safar may rehte thay dono qaidi
-  
+  Sar us ka sanduq mein rakha hai
+  Rasan mein is ka gala bandha hai
+  Safar mein rehte the donoṅ qaidi
+
   8
   Nibhaya har ek waada jis ne
-  Uthaaya dono ka laasha jis ne
-  Behan thi uski phupi thi iski
-  
+  Uthaaya donoṅ ka laasha jis ne
+  Behan thi us ki phuphi thi is ki
+
   9
-  Tha mir sajjad kaisa lamha
-  Jab uske baba ka naam poocha
-  To hind se ro ke bachi boli
+  Tha Mir Sajjad kaisa lamha
+  Jab us ke baba ka naam puchha
+  To Hind se ro ke bachchi boli
 # source_id: nohayonline:342d339d79d23345260c
 # source_url: https://www.nohayonline.com/details_content.php?id=1528
 # raw_sha256: 8c0304b5dc0fd23ed22f0f8d85da44a80540d501abec629fe29ec16527fbe33a
 ---
 
 غریب بابا غریب بیٹی
+
 وہ بے کفن تھا یہ بے ردا تھی
+غریب بابا غریب بیٹی
 
 ۱
-طمانچے دونوں نے بن میں کھاے
-ہے دونوں پہلو شکستہ ہاے
+طمانچے دونوں نے بن میں کھائے
+ہے دونوں پہلو شکستہ ہائے
 وہ ابنِ زہرا یہ زہرا جیسی
 
 ۲
 مصلہ بابا کا یہ بچھاتی
 حسین دیتے تھے اس کو لوری
-یہ اسکی عادی وہ اسکی عادی
+یہ اس کی عادی وہ اس کی عادی
 
 ۳
-تھا اسکو مارا رلا رلا کے
+تھا اس کو مارا رلا رلا کے
 بہایا پانی اسے دکھا کے
 تھا وہ بھی پیاسا ہے یہ بھی پیاسا
 
 ۴
-ہوے جو خنجر کے وار شہ پر
-کھڑی تھی پہلو میں انکی دختر
-وہ جتنا تڑپے وہ اتنا روی
+ہوئے جو خنجر کے وار شہ پر
+کھڑی تھی پہلو میں ان کی دختر
+وہ جتنا تڑپے وہ اتنا روئی
 
 ۵
 یہ درے ظالم سے کھا رہی ہے
@@ -96,14 +101,14 @@ romanLyrics: |-
 تھا وہ بھی زخمی ہے یہ بھی زخمی
 
 ۷
-سر اسکا صندوق میں رکھا ہے
-رسن میں اسکا گلا بندھا ہے
+سر اس کا صندوق میں رکھا ہے
+رسن میں اس کا گلا بندھا ہے
 سفر میں رہتے تھے دونوں قیدی
 
 ۸
 نبھایا ہر ایک وعدہ جس نے
 اٹھایا دونوں کا لاشہ جس نے
-بہن تھی اسکی پھپھی تھی اس کی
+بہن تھی اس کی پھپھی تھی اس کی
 
 ۹
 تھا میر سجاد کیسا لمحہ
