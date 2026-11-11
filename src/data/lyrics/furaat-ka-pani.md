@@ -6,67 +6,79 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Tha taraayi pe hashr ka manzar
-  Naizon uchla furaat ka pani
-  Laashe abbas tadpi darya par
+  Naizoṅ uchhla Furaat ka paani
+
+  Laash-e-Abbas tarpi darya par
+  Naizoṅ uchhla Furaat ka paani
 
   1
-  Ran mein ghode se jab gire shabbir
-  Thi bohat dard naak wo tasveer
-  Tadap ke reh gayi janabe sayyeda
-  Jab chada shimr seena e sheh par
+  Ran mein ghore se jab gire Shabbir
+  Thi bahut dardnaak wo tasvir
+  Tarap ke reh gayi Janaab-e-Sayyeda
+  Jab charha Shimr sina-e-Shah par
+  Naizoṅ uchhla Furaat ka paani
 
   2
-  Laashe abbas e bawafa tadpi
-  Alqama aur karbala tadpi
-  Zameen e karbala ko aaya zalzala
-  Sheh ki gardan pe jab chala khanjar
+  Laash-e-Abbas-e-Bawafa tarpi
+  Alqama aur Karbala tarpi
+  Zamin-e-Karbala ko aaya zalzala
+  Shah ki gardan pe jab chala khanjar
+  Naizoṅ uchhla Furaat ka paani
 
   3
-  Kat gaya jab hussain ka hulqoom
-  Peet kar royi zainab o kulsoom
-  Tadpati reh gayi ali ki betiyan
-  Kode barse jo dono behno par
+  Kat gaya jab Husain ka hulqum
+  Pit kar royi Zainab o Kulsum
+  Tarapti reh gayi Ali ki betiyaaṅ
+  Kore barse jo donoṅ behnoṅ par
+  Naizoṅ uchhla Furaat ka paani
 
   4
-  Jaanibe qaima e shahe waala
-  Durre le le ke jab bade aada
-  Zameene karbala ko aaya zalzala
-  Dekh kar dard naak wo manzar
+  Jaanib-e-Khaima-e-Shaah-e-Waala
+  Durre le le ke jab barhe aada
+  Zamin-e-Karbala ko aaya zalzala
+  Dekh kar dardnaak wo manzar
+  Naizoṅ uchhla Furaat ka paani
 
   5
-  Loot kar maal o zar layeeno ne
-  Jab jalaye hussain ke qaime
-  Tadap ke reh gayi janabe sayyeda
-  Aur abid ka jab china bistar
+  Lut kar maal o zar lainoṅ ne
+  Jab jalaaye Husain ke khaime
+  Tarap ke reh gayi Janaab-e-Sayyeda
+  Aur Aabid ka jab chhina bistar
+  Naizoṅ uchhla Furaat ka paani
 
   6
-  Jab tamache lage sakina ke
-  Aur yateema ke jab chine bunde
-  Tadpati reh gayi ali ki betiyan
+  Jab tamaanche lage Sakina ke
+  Aur yatima ke jab chhine bunde
+  Tarapti reh gayi Ali ki betiyaaṅ
   Jab wo royi chacha chacha keh kar
+  Naizoṅ uchhla Furaat ka paani
 
   7
-  Jab layeeno ne cheen li chadar
-  Apne abbas ko sada de kar
-  Tadpati reh gayi ali ki betiyan
-  Royi jis waqt zainab e muztar
+  Jab lainoṅ ne chhin li chaadar
+  Apne Abbas ko sada de kar
+  Tarapti reh gayi Ali ki betiyaaṅ
+  Royi jis waqt Zainab-e-Muztar
+  Naizoṅ uchhla Furaat ka paani
 
   8
-  Saamne maa ke nanhi turbat se
-  Noke naiza chubho ke zaalim ne
-  Zameene karbala ko aaya zalzala
-  Jab nikaali hai laasha e asghar
+  Saamne maaṅ ke nanhi turbat se
+  Nok-e-Naiza chubho ke zaalim ne
+  Zamin-e-Karbala ko aaya zalzala
+  Jab nikaali hai laasha-e-Asghar
+  Naizoṅ uchhla Furaat ka paani
 
   9
-  Dono haathon mein jab bandhi rassi
-  Haye waiz ali ki shehzadi
-  Tadpati reh gayi ali ki betiyan
+  Donoṅ haathoṅ mein jab bandhi rassi
+  Haae Waiz Ali ki shahzaadi
+  Tarapti reh gayi Ali ki betiyaaṅ
   Royi jis waqt apni ghurbat par
+  Naizoṅ uchhla Furaat ka paani
 # source_id: nohayonline:54377ec6466af26a0e7e
 # source_url: https://www.nohayonline.com/details_content.php?id=3023
 # raw_sha256: 61b2815dbee5c6e4b598456daea57b64c90a90003a0a354f0a3bb2bb69a3347b
@@ -74,58 +86,69 @@ romanLyrics: |-
 
 تھا ترای پہ حشر کا منظر
 نیزوں اچھلا فرات کا پانی
+
 لاش عباس تڑپی دریا پر
+نیزوں اچھلا فرات کا پانی
 
 ۱
 رن میں گھوڑے سے جب گرے شبیر
 تھی بہت درد ناک وہ تصویر
-تڑپ کے رہ گیء جناب سیدہ
+تڑپ کے رہ گئی جنابِ سیدہ
 جب چڑھا شمر سینۂ شہ پر
+نیزوں اچھلا فرات کا پانی
 
 ۲
-لاش عباس با وفا تڑپی
+لاشِ عباسِ باوفا تڑپی
 علقمہ اور کربلا تڑپی
 زمین کربلا کو آیا زلزلہ
 شہ کی گردن پہ جب چلا خنجر
+نیزوں اچھلا فرات کا پانی
 
 ۳
 کٹ گیا جب حسین کا حلقوم
-پیٹ کر روی زینب و کلثوم
-تڑپتی رہ گیء علی کی بیٹیاں
+پیٹ کر روئی زینب و کلثوم
+تڑپتی رہ گئی علی کی بیٹیاں
 کوڑے برسے جو دونوں بہنوں پر
+نیزوں اچھلا فرات کا پانی
 
 ۴
-جانب خیمہء شاہ والا
-درے لے لے کے جب بڑے اعدا
+جانبِ خیمۂ شاہِ والا
+درے لے لے کے جب بڑھے اعدا
 زمین کربلا کو آیا زلزلہ
 دیکھ کر درد ناک وہ منظر
+نیزوں اچھلا فرات کا پانی
 
 ۵
 لوٹ کر مال و زر لعینوں نے
-جب جلاے حسین کے خیمے
-تڑپ کے رہ گیء جناب سیدہ
+جب جلائے حسین کے خیمے
+تڑپ کے رہ گئی جنابِ سیدہ
 اور عابد کا جب چھنا بستر
+نیزوں اچھلا فرات کا پانی
 
 ۶
 جب طمانچے لگے سکینہ کے
 اور یتیمہ کے جب چھنے بندیں
-تڑپتی رہ گیء علی کی بیٹیاں
-جب وہ روی چچا چچا کہہ کر
+تڑپتی رہ گئی علی کی بیٹیاں
+جب وہ روئی چچا چچا کہہ کر
+نیزوں اچھلا فرات کا پانی
 
 ۷
 جب لعینوں نے چھین لی چادر
 اپنے عباس کو صدا دے کر
-تڑپتی رہ گیء علی کی بیٹیاں
-روی جس وقت زینب مضطر
+تڑپتی رہ گئی علی کی بیٹیاں
+روئی جس وقت زینبِ مضطر
+نیزوں اچھلا فرات کا پانی
 
 ۸
 سامنے ماں کے ننھی تربت سے
-نوکِ نیزہ چھبھو کے ظالم نے
+نوکِ نیزہ چبھو کے ظالم نے
 زمین کربلا کو آیا زلزلہ
-جب نکالی ہے لاشہء اصغر
+جب نکالی ہے لاشۂ اصغر
+نیزوں اچھلا فرات کا پانی
 
 ۹
 دونوں ہاتھوں میں جب بندھی رسی
-ہاے وایض علی کی شہزادی
-تڑپتی رہ گیء علی کی بیٹیاں
-روی جس وقت اپنی غربت پر
+ہائے واعظ علی کی شہزادی
+تڑپتی رہ گئی علی کی بیٹیاں
+روئی جس وقت اپنی غربت پر
+نیزوں اچھلا فرات کا پانی

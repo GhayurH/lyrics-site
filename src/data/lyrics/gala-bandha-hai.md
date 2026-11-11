@@ -6,42 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gala bandha hai rasan mein malool o muztar hai
-  Yehi hussain ki pyari sakina dukhtar hai
+  Gala baandha hai rasan mein malul o muztar hai
+  Yehi Husain ki pyaari Sakina dukhtar hai
 
   1
-  Isi ko sibte nabi seene pe sulaate thay
-  Isi ko godh mein abbas bhi khilate thay
-  Jo rooth jaati thi sau sau tarha manate thay
-  Hussain naaz aise bacchi ke uthaate thay
+  Isi ko Sibt-e-Nabi sine pe sulaate the
+  Isi ko god mein Abbas bhi khilaate the
+  Jo ruth jaati thi sau sau tarah manaate the
+  Husain naaz aise bachchi ke uthaate the
 
   2
-  Nikal ke qaime se ran ko chale thay jab sarwar
-  Yehi to lipti thi ghode ke paaon se aa kar
-  Badha na asp to laaye hussain ye lab par
+  Nikal ke khaime se ran ko chale the jab Sarwar
+  Yehi to lipti thi ghore ke paaoṅ se aa kar
+  Barha na asp to laaye Husain ye lab par
   Mera ye aakhri tum par hai raahwar safar
 
   3
-  Ishara kar ke zameen ki taraf ye usne kaha
-  Sakina pyari ki haalat to aap dekhe zara
-  Zameen e garm pe lipti hai pakde paaon mera
-  Qadam badaunga bhala kis tarha se mai aaqa
+  Ishaara kar ke zamiṅ ki taraf ye us ne kaha
+  Sakina pyaari ki haalat to aap dekhe zara
+  Zamin-e-Garm pe lipti hai pakre paaoṅ mera
+  Qadam barhaauṅ ga bhala kis tarah se main aaqa
 
   4
-  Isi ko shimr ne maare tamache gaalon par
-  Isi ke kaano se cheene layeen ne gohar
-  Isi ke bain se zaahir ye hogaya sab par
-  Shaheed hogaye karbal mein sibte paighambar
+  Isi ko Shimr ne maare tamaanche gaaloṅ par
+  Isi ke kaanoṅ se chhine lain ne gohar
+  Isi ke bain se zaahir ye ho gaya sab par
+  Shahid ho gaye Karbal mein Sibt-e-Paighambar
 
   5
-  Ye ek nanha sa sar jo rakha hai naize par
-  Isi ka bhai hai cheh maah ka ali asghar
-  Bala ke dasht mein naadan pani ko paa kar
-  Pilaane ko isay daudi thi kooze ko le kar
+  Ye ek nannha sa sar jo rakha hai naize par
+  Isi ka bhaai hai chhe maah ka Ali Asghar
+  Bala ke dasht mein naadaan paani ko paa kar
+  Pilaane ko ise dauri thi kuze ko le kar
 # source_id: nohayonline:6f66867c754a6157a3f6
 # source_url: https://www.nohayonline.com/details_content.php?id=3443
 # raw_sha256: a3984d79147adb084091fdddfd539b33b47db0ce97cdb4a72d724dc3fc01dab2
@@ -58,23 +59,23 @@ romanLyrics: |-
 ۲
 نکل کے خیمے سے رن کو چلے تھے جب سرور
 یہی تو لپٹی تھی گھوڑے کے پاؤں سے آ کر
-بڑھا نہ اسپ تو لاے حسین یہ لب پر
+بڑھا نہ اسپ تو لائے حسین یہ لب پر
 میرا یہ آخری تم پر ہے راہوں سفر
 
 ۳
 اشارہ کر کے زمیں کی طرف یہ اس نے کہا
-سکینہ پیاری کی حالت تو آپ دیکھے زرا
-زمین گرم پہ لپٹی ہے پکڑے پاؤں میرا
+سکینہ پیاری کی حالت تو آپ دیکھے ذرا
+زمینِ گرم پہ لپٹی ہے پکڑے پاؤں میرا
 قدم بڑھاؤں گا بھلا کس طرح سے میں آقا
 
 ۴
 اسی کو شمر نے مارے طمانچے گالوں پر
 اسی کے کانوں سے چھینے لعین نے گوہر
 اسی کے بین سے ظاہر یہ ہو گیا سب پر
-شہید ہو گےء کربل‌ میں سبط پیغمبر
+شہید ہو گئے کربل میں سبط پیغمبر
 
 ۵
 یہ ایک ننھا سا سر جو رکھا ہے نیزے پر
 اسی کا بھائی ہے چھ ماہ کا علی اصغر
-بلا کے دشت میں نادان پانی کو پا‌ کر
+بلا کے دشت میں نادان پانی کو پا کر
 پلانے کو اسے دوڑی تھی کوزے کو لے کر
