@@ -1,98 +1,101 @@
 ---
-title: "ہاے کنبہ رسول انام کا"
+title: "ہائے کنبہ رسول انام کا"
 alternateTitle: "Barsare Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Ali Murtaza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
+  Haaye kunba Rasul-e-Anaam ka
+  Khaanwaada Payambar ka luta gaya
+  Barsar-e-Karbala barsar-e-Karbala
+
   1
-  Haye kunba rasool e anaam ka
-  Khanwada payambar ka loota gaya
-  Barsare karbala barsare karbala
-  Shaah ki jaan tha akbar e naujawan
-  Muttaqi paarsa raunaqe khaandan
-  Hamshabihe mizaaj o shahe mursala
-  Khush mizaaji pe garweeda saara jahan
+  Shaah ki jaan tha Akbar-e-naujavaaṅ
+  Muttaqi paarsaa raunaq-e-khaandaaṅ
+  Ham shabih mizaaj o Shah-e-mursalaaṅ
+  Khush mizaaji pe garvida saara jahaaṅ
   Aur phir uske seene pe naiza laga
-  Barsare karbala barsare karbala
-  
+  Barsar-e-Karbala barsar-e-Karbala
+
   2
-  Saath zainab ke do laal bhi aaye thay
-  Jinki khaahish thi ye subhe ashoor se
-  Kaash unko bhi ran ki ijazat milay
-  Lashkare shaam unke hunar dekhle
-  Aur phir unki laashon pe matam hua
-  Barsare karbala barsare karbala
-  
+  Saath Zainab ke do laal bhi aaye the
+  Jinki khwaahish thi ye subh-e-Aashur se
+  Kaash unko bhi ran ki ijaazat mile
+  Lashkar-e-Shaam unke hunar dekh le
+  Aur phir unki laashoṅ pe maatam hua
+  Barsar-e-Karbala barsar-e-Karbala
+
   3
-  Izn jab sheh se qasim ko mil na saka
-  Laake baazu ka taveez sheh ko diya
-  Padhke khat bhai ka khoob girya kiya
+  Izn jab Shah se Qaasim ko mil na saka
+  Laa ke baazu ka taaviz Shah ko diya
+  Parh ke khat bhaai ka khub girya kiya
   Izn paa kar bhatija bhi ran ko chala
-  Aur ghodon ki taapon se raundha gaya
-  Barsare karbala barsare karbala
-  
+  Aur ghore ki taapoṅ se raunda gaya
+  Barsar-e-Karbala barsar-e-Karbala
+
   4
-  Sochte thay ali baat kaise badhe
-  Mera waaris bhi ho karbala ke liye
-  Ye ali ki dua thi jo ghazi milay
-  Sheh ke baazu bane baazu abbas ke
+  Sochte the Ali baat kaise barhe
+  Mera waaris bhi ho Karbala ke liye
+  Ye Ali ki dua thi jo Ghaazi mile
+  Shah ke baazu bane baazu Abbaas ke
   Aur phir usko bedast maara gaya
-  Barsare karbala barsare karbala
-  
+  Barsar-e-Karbala barsar-e-Karbala
+
   5
-  Jab madine se nikle thay shaahe huda
-  Sirf kuch din ka tha asghare mehlekha
-  Din guzarte rahe waqt kat'ta raha
-  Aur masoom cheh maah ka hogaya
-  Aur phir usko payka'n ne zibha kiya
-  Barsare karbala barsare karbala
-  
+  Jab Madine se nikle the Shaah-e-Huda
+  Sirf kuchh din ka tha Asghar-e-mah laqaa
+  Din guzarte rahe waqt katta raha
+  Aur maasum chhe maah ka ho gaya
+  Aur phir usko paikaaṅ ne zabh kiya
+  Barsar-e-Karbala barsar-e-Karbala
+
   6
-  Keh raha tha musalsal pisar saad ka
-  Asr ka waqt nazdeek tar aagaya
-  Kya namazein khaza sab ki karwaega
-  Kaat ay shimr jaldi se sheh ka gala
-  Aur phir sheh ki gardan pe khanjar chala
-  Barsare karbala barsare karbala
-  
+  Keh raha tha musalsal pisar Saad ka
+  Asr ka waqt nazdik tar aa gaya
+  Kya namaazeṅ qazaa sab ki karwaayega
+  Kaat ae Shimr jaldi se Shah ka gala
+  Aur phir Shah ki gardan pe khanjar chala
+  Barsar-e-Karbala barsar-e-Karbala
+
   7
-  Chadare bibiyon ke saron se chini
-  Sirf qaime nahi saari cheezein jali
-  Bar bariyat ne saari hadein paar ki
+  Chaadareṅ Bibiyoṅ ke saroṅ se chhini
+  Sirf khaime nahiṅ saari chizeṅ jali
+  Barbariyat ne saari haddeṅ paar ki
   Nafs kaunain ki jaise ruk si gayi
-  Phir ghareebon ki shaam aayi din dhal gaya
-  Barsare karbala barsare karbala
-  
+  Phir ghariboṅ ki shaam aayi din dhal gaya
+  Barsar-e-Karbala barsar-e-Karbala
+
   8
-  Jaane kaise jahan se jo pani mila
-  Sabse pehle sakina ko dhoonda gaya
-  Aur jab usko kooze mein pani diya
-  Maa se poocha ke asghar kahan hai mera
-  Phir chali suye maqtal wo karti buka
-  Barsare karbala barsare karbala
-  
+  Jaane kaise jahaaṅ se jo paani mila
+  Sab se pehle Sakina ko dhunda gaya
+  Aur jab usko kuze mein paani diya
+  Maaṅ se puchha ke Asghar kahaaṅ hai mera
+  Phir chali su-e-maqtal wo karti bukaa
+  Barsar-e-Karbala barsar-e-Karbala
+
   9
-  Zainabe benawa hoke zainulliba
-  Maqsade shaah dono ki nazron mein tha
-  Aur tahaffuz shariyat ka aise hua
+  Zainab benawaa ho ke Zain-ul-Abaa
+  Maqsad Shaah donoṅ ki nazroṅ mein tha
+  Aur tahaffuz shariat ka aise hua
   Ke maqtal pe sab ne tayammum kiya
-  Farz shahid sabhi ne ada kar diya
-  Barsare karbala barsare karbala
+  Farz Shaahid sabhi ne adaa kar diya
+  Barsar-e-Karbala barsar-e-Karbala
 # source_id: nohayonline:be41fdb6a1af4a99de60
 # source_url: https://www.nohayonline.com/details_content.php?id=764
 # raw_sha256: f483ae33d2027b15a7b21cdf799497adeadef0fb97eb8b6f15a2dfae41118244
 ---
 
-۱
-ہاے کنبہ رسول انام کا
+ہائے کنبہ رسول انام کا
 خانوادہ پیمبر کا لوٹا گیا
 برسر کربلا بر سرِ کربلا
+
+۱
 شاہ کی جان تھا اکبر نوجواں
 متقی پارسا رونقِ خانداں
 ہم شبیہ مزاج و شہ مرسلاں
@@ -110,14 +113,14 @@ romanLyrics: |-
 
 ۳
 اذن جب شہ سے قاسم کو مل نہ سکا
-لاکے بازو کا تعویز شہ کو دیا
+لاکے بازو کا تعویذ شہ کو دیا
 پڑھکے خط بھائی کا خوب گریہ کیا
 اذن پا کر بھتیجا بھی رن کو چلا
 اور گھوڑے کی ٹاپوں سے روندھا گیا
 برسر کربلا بر سرِ کربلا
 
 ۴
-سونچتے تھے علی بات کیسے بڑھے
+سوچتے تھے علی بات کیسے بڑھے
 میرا وارث بھی ہو کربلا کے لئے
 یہ علی کی دعا تھی جو غازی ملے
 شہ کے بازو بنے بازو عباس کے
@@ -125,11 +128,11 @@ romanLyrics: |-
 برسر کربلا بر سرِ کربلا
 
 ۵
-جب مدینے سے نکلے تھے شاہ ہدا
+جب مدینے سے نکلے تھے شاہ ہدیٰ
 صرف کچھ دن کا تھا اصغر مہہ لقا
 دن گزرتے رہے وقت کٹتا رہا
 اور معصوم چھ ماہ کا ہوگیا
-اور پھر اسکو پیکاں نے زبح کیا
+اور پھر اسکو پیکاں نے ذبح کیا
 برسر کربلا بر سرِ کربلا
 
 ۶
@@ -141,11 +144,11 @@ romanLyrics: |-
 برسر کربلا بر سرِ کربلا
 
 ۷
-چادریں بی بیوں کے سروں سے چھنی
+چادریں بی‌بیوں کے سروں سے چھنی
 صرف خیمے نہیں ساری چیزیں جلی
-بر بریت نے ساری حدیں پار کی
+بربریت نے ساری حدیں پار کی
 نفس کونین کی جیسے رک سی گئی
-پھر غریبوں کی شام آی دن ڈھل گیا
+پھر غریبوں کی شام آئی دن ڈھل گیا
 برسر کربلا بر سرِ کربلا
 
 ۸
