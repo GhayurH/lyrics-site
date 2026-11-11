@@ -6,171 +6,148 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ghaibat ka parda uthne do
-  Jo dekh rahe hai hum logon
+  Jo dekh rahe haiṅ hum logoṅ
+  Tum bhi dekhoge yaad rakho
 
   1
-  Tum bhi dekhoge yaad rakho
-  Zulm phir zulm hai khoon phir khoon hai
-  Zulm phir zulm hai badta hai to mit jaata hai
-  Khoon phir khoon hai tapkega to jam jayega
+  Zulm phir zulm hai khun phir khun hai
+  Zulm phir zulm hai barhta hai to mit jaata hai
+  Khun phir khun hai tapkega to jam jaayega
+  Khaak-e-sehra pe jameṅ ya kaf-e-qaatil pe jameṅ
+  Farq-e-insaaf pe jame ya paa-e-salaasil pe jame
+  Tere bedaat pe ya laasha-e-bismil pe jame
+  Khun phir khun hai tapkega to jam jaayega
 
   2
-  Khaak e sehra pe jamein ya kafe qaatil pe jame
-  Farq e insaaf pe jamein ya paaye salaasil pe jame
-  Tere bedaat pe ya laasha e bismil pe jame
-  Khoon phir khoon hai tapkega to jam jayega
+  Jo roz-e-ajal tai paaya tha
+  Saabit hua roz-e-Ashura
+  Yeh kal bhi hamaara daawa tha
+  Yeh aaj bhi hai apna hai daawa
+  Zillat hai muqaddar baatil ka
+  Bas raaj karegi Karb o Bala
+  Daur ho chaahe koi bhi hai Khuda ka faisla
+  Bas raaj karegi Karb o Bala
 
   3
-  Jo roze ajal tay paaya tha
-  Saabit hua roze ashoora
-  Yeh kal bhi hamara daawa tha
-  Yeh aaj bhi hai apna hai dawa
+  Karbala ka raaj hi din-e-Khuda ka raaj hai
+  Khanjaroṅ ki maut hai ye khun ki meraaj hai
+  Nok-e-naiza par Ali ke laal ne saabit kiya
+  Bas raaj karegi Karb o Bala
 
   4
-  Zillat hai muqaddar baatil ka
-  Bas raaj karegi karbobala
-  Daur ho chahe koi bhi hai khuda ka faisla
-  Bas raaj karegi karbobala
+  Khun beh kar bhi amar hai zulm ko maut aa gayi
+  Gir gaya darbaar-e-baatil Karbala hai aaj bhi
+  Ab bhi ye lehra ke kehta hai alam Abbas ka
+  Bas raaj karegi Karb o Bala
 
   5
-  Karbala ka raaj hi deene khuda ka raaj hai
-  Khanjaro ki maut hai ye khoon ki meraaj hai
+  Zulm ki baat hi kya zulm ki auqaat hi kya
+  Zulm phir zulm hai aaghaaz se anjaam talak
+  Zulm ki qismat-e-naakaara aur ruswa se kaho
+  Jabr ki hikmat-e-purkaar ki imaaṅ se kaho
+  Khun diwaana hai daaman pe lapak sakta hai
+  Khun phir khun hai tapkega to jam jaayega
 
   6
-  Nauke naiza par ali ke laal ne saabit kiya
-  Bas raaj karegi karbobala
+  Zulm ki shah-rag jo kaate khun wo shamshir hai
+  Jabr ko qaidi jo kar le khun wo zanjir hai
+  Khun ke aansu baha kar di ye Aabid ne sada
+  Bas raaj karegi Karb o Bala
 
   7
-  Khoon behkar bhi amar hai zulm ko maut aagayi
-  Gir gaya darbar e baatil karbala hai aaj bhi
-  Ab bhi ye lehra ke kehta hai alam abbas ka
-  Bas raaj karegi karbobala
+  Shaam ke darbaar mein hai bint-e-Zehra berida
+  Ye wo manzil hai jahaaṅ par sabr khud rone laga
+  Baap ke lehje mein khutba de ke Zainab ne kaha
+  Bas raaj karegi Karb o Bala
 
   8
-  Zulm ki baat hi kya zulm ki auqaat hi kya
-  Zulm phir zulm hai aghaaz se anjam talak
+  Ho kisi qaatil ka khanjar ya ho daamaan-e-zamiṅ
+  Khun ki surkhi Takallum chhup nahiṅ sakti kahiṅ
+  Har gali mein hai ye naara aaj bhi darwesh ka
+  Bas raaj karegi Karb o Bala
 
   9
-  Zulm ki qismat-e-nakara aur ruswa se kaho
-  Jabr ki hikmat-e-purkaar ki emaan se kaho
-  Khoon deewana hai daaman pe lapak sakta hai
-  Khoon phir khoon hai tapkega to jam jaayega
-
-  10
-  Zulm ki sheh-rag jo kaate khoon wo shamsheer hai
-  Jabr ko qaidi jo karle khoon wo zanjeer hai
-  Khoon ke aansu baha kar di ye abid ne sada
-  Bas raaj karegi karbobala
-
-  11
-  Shaam ke darbar mein hai binte zehra berida
-  Ye wo manzil hai jahan par sabr khud rone laga
-
-  12
-  Baap ke lehje mein khutba deke zainab ne kaha
-  Bas raaj karegi karbobala
-
-  13
-  Ho kisi qaatil ka khanjar ya ho damane zameen
-  Khoon ki surkhi takallum chup nahi sakti kahin
-  Har gali mein hai ye naara aaj bhi darwesh ka
-  Bas raaj karegi karbobala
-
-  14
-  Tumne jis khoon ko maqtal mein dabana chaha
-  Aaj wo koocha-o-bazaar mein aa nikla hai
-
-  15
-  Kahin shola kahin naara kahin pathar ban kar
-  Aise sholay ke bhujao to bhujaye na bane
-  Aise naare ke dabao to dabaye na dabe
-  Labbaik ya hussain
+  Tum ne jis khun ko maqtal mein dabaana chaaha
+  Aaj wo kucha o baazaar mein aa nikla hai
+  Kahiṅ shola kahiṅ naara kahiṅ patthar ban kar
+  Aise shole keh bujhaao to bujhaaye na bane
+  Aise naare keh dabaao to dabaaye na dabe
+  Labbaik ya Husain
 # source_id: nohayonline:7c2d1f8c24fe6df428a9
 # source_url: https://www.nohayonline.com/details_content.php?id=984
 # raw_sha256: 4325415a165551f014ee9f82c8209869e57e35ba6373af8b10732499bd3d837e
 ---
 غیبت کا پردہ اٹھنے دو
 جو دیکھ رہے ہیں ہم لوگوں
+تم بھی دیکھو گے یاد رکھو
 
 ۱
-تم بھی دیکھوگے یاد رکھو
 ظلم پھر ظلم ہے خون پھر خون ہے
 ظلم پھر ظلم ہے بڑھتا ہے تو پھر مٹ جاتا ہے
-خون پھر خون ہے ٹپکے گا تو جم جاے گا
+خون پھر خون ہے ٹپکے گا تو جم جائے گا
+خاکِ صحرا پہ جمیں یا کفِ قاتل پہ جمیں
+فرقِ انصاف پہ جمے یا پائے سلاسل پہ جمے
+خون پھر خون ہے ٹپکے گا تو جم جائے گا
+خون پھر خون ہے ٹپکے گا تو جم جائے گا
 
 ۲
-خاک صحرا پہ جمیں یا کافے قاتل پہ جمیں
-فرق انصاف پہ جمے یا پاے سلاسل پہ جمے
-خون پھر خون ہے ٹپکے گا تو جم جاے گا
-خون پھر خون ہے ٹپکے گا تو جم جاے گا
+جو روزِ اجل طے پایا تھا
+ثابت ہوا روزِ عاشورا
+یہ کل بھی ہمارا دعویٰ تھا
+یہ آج بھی ہے اپنا ہے دعویٰ
+ذلت ہے مقدر باطل کا
+بس راج کرے گی کرب و بلا
+دور ہو چاہے کوئی بھی ہے خدا کا فیصلہ
+بس راج کرے گی کرب و بلا
 
 ۳
-جو روز اجل طے پایا تھا
-ثابت ہوا روز عاشورا
-یہ کل بھی ہمارا دعوہ تھا
-یہ آج بھی ہے اپنا ہے دعویٰ
+کربلا کا راج ہی دینِ خدا کا راج ہے
+خنجروں کی موت ہے یہ خون کی معراج ہے
+نوکِ نیزہ پر علی کے لال نے ثابت کیا
+بس راج کرے گی کرب و بلا
 
 ۴
-ذلت ہے مقدر باطل کا
-بس راج کرے گی کربوبلا
-دور ہو چاہے کوئی بھی ہے خدا کا فیصلہ
-بس راج کرے گی کربوبلا
+خون بہہ کر بھی امر ہے ظلم کو موت آ گئی
+گر گیا دربارِ باطل کربلا ہے آج بھی
+اب بھی یہ لہرا کے کہتا ہے علم عباس کا
+بس راج کرے گی کرب و بلا
 
 ۵
-کربل کا راج ہی دین خدا کا راج ہے
-خنجروں کی موت ہے یہ خون کی معراج ہے
-
-۶
-نوکِ نیزہ پر علی کے لال نے ثابت کیا
-بس راج کرے گی کربوبلا
-
-۷
-خون بہہ کر بھی امر ہے ظلم کو موت آ گیء
-گر گیا دربار باطل کربلا ہے آج بھی
-اب بھی یہ لہرا کے کہتا ھے الم عباس کا
-بس راج کرے گی کربوبلا
-
-۸
 ظلم کی بات ہی کیا ظلم کی اوقات ہی کیا
 ظلم پھر ظلم ہے آغاز سے انجام تلک
-
-۹
 ظلم کی قسمت ناکارہ اور رسوا سے کہو
 جبر کی حکمت پکار کی ایماں سے کہو
 خون دیوانہ ہے دامن پہ لپک سکتا ہے
-خون پھر خون ہے ٹپکے گا تو جم جاے گا
+خون پھر خون ہے ٹپکے گا تو جم جائے گا
 
-۱۰
+۶
 ظلم کی شہ رگ جو کاٹے خون وہ شمشیر ہے
-جبر کو قیدی جو کرلے خون وہ زنجیر ہے
-خون کے آنسوں بہا کر دی یہ عابد نے صدا
-بس راج کرے گی کربوبلا
+جبر کو قیدی جو کر لے خون وہ زنجیر ہے
+خون کے آنسو بہا کر دی یہ عابد نے صدا
+بس راج کرے گی کرب و بلا
 
-۱۱
-شام کے دربار میں ہے بنت زہرا بے ردا
-یہ وہ منزل ہے جہاں پر صبر قد رونے لگا
+۷
+شام کے دربار میں ہے بنتِ زہرا بے ردا
+یہ وہ منزل ہے جہاں پر صبر خود رونے لگا
+باپ کے لہجے میں خطبہ دے کے زینب نے کہا
+بس راج کرے گی کرب و بلا
 
-۱۲
-باپ کے لہجے میں خطبہ دیکے زینب نے کہا
-بس راج کرے گی کربوبلا
-
-۱۳
-ہو کسی قاتل کا خنجر یا ہو دامان زمیں
+۸
+ہو کسی قاتل کا خنجر یا ہو دامانِ زمیں
 خون کی سرخی تکلم چھپ نہیں سکتی کہیں
 ہر گلی میں ہے یہ نعرہ آج بھی درویش کا
-بس راج کرے گی کربوبلا
+بس راج کرے گی کرب و بلا
 
-۱۴
+۹
 تم نے جس خون کو مقتل میں دبانا چاہا
 آج وہ کوچہ و بازار میں آ نکلا ہے
-
-۱۵
 کہیں شعلہ کہیں نعرہ کہیں پتھر بن کر
-ایسے شعلے کہ بجھاؤ تو بجھاے نہ بنے
-ایسے نعرے کہ دباؤ تو دباے نہ دبے
+ایسے شعلے کہ بجھاؤ تو بجھائے نہ بنے
+ایسے نعرے کہ دباؤ تو دبائے نہ دبے
 لبیک یا حسین
