@@ -1,105 +1,124 @@
 ---
 title: "اے عزادار شاہ کربوبلا"
-alternateTitle: "Farshe Majlis Pe"
+alternateTitle: "Farsh-e-Majlis Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Farshe Majlis Pe"]
 published: false
 romanLyrics: |-
-  Ay azadare shaahe karbobala
-  Farshe majlis pe aagayi zehra
+  Ae azaadaar-e-Shaah-e-Karbobala
+  Farsh-e-majlis pe aa gayi Zehra
   
-  Tum se lene hussain ka pursa
+  Tum se lene Husain ka pursa
+  Farsh-e-majlis pe aa gayi Zehra
   
   1
-  Kya ye kaafi nahi hai rone ko
-  Apni chashme aza se tum dekho
-  Leke ek khoon may bhara kurta
+  Kya ye kaafi nahiṅ hai rone ko
+  Apni chashm-e-aza se tum dekho
+  Leke ek khuṅ bhara kurta
+  Farsh-e-majlis pe aa gayi Zehra
   
   2
-  Boond pani nahi mila us ko
-  Aaj tak bhi hussain pyasa hai
-  Apni aankhon se do unhe darya
+  Bund paani nahiṅ mila us ko
+  Aaj tak bhi Husain pyaasa hai
+  Apni aankhoṅ se do unheiṅ darya
+  Farsh-e-majlis pe aa gayi Zehra
   
   3
-  Haath phaile huwe hai bibi ke
+  Haath phaile hue haiṅ Bibi ke
   Ek kafan ek rida ki taalib hai
-  Kya karega unhe koi hadya
+  Kya karega unheiṅ koi hadiya
+  Farsh-e-majlis pe aa gayi Zehra
   
   4
-  Haye wo aun aur mohamed thay
-  Jin ke laashon pe maa nahi royi
-  Maa ko beti ke gham ka do pursa
+  Haae wo Aun aur Muhammad the
+  Jin ke laashoṅ pe maaṅ nahiṅ royi
+  Maaṅ ko beti ke gham ka do pursa
+  Farsh-e-majlis pe aa gayi Zehra
   
   5
-  Uski mehwi saja ke ay logon
+  Us ki mehwi saja ke Ae logoṅ
   Koi ghatri bana ke le aao
-  Karne qasim ki laash par girya
+  Karne Qasim ki laash par girya
+  Farsh-e-majlis pe aa gayi Zehra
   
   6
-  Aao us par kare bapa matam
-  Jis ke seene may ek sina tooti
-  Karne akbar ke gham may wavaila
+  Aao us par kare bapaa maatam
+  Jis ke sine mein ek sinaaṅ tuti
+  Karne Akbar ke gham mein waawaila
+  Farsh-e-majlis pe aa gayi Zehra
   
   7
   Jis ke laashe pe jaa ke royi thi
   Jis ke baazu utha ke royi thi
-  Koi ooncha kare alam uska
+  Koi uncha kare alam us ka
+  Farsh-e-majlis pe aa gayi Zehra
   
   8
-  Ye amal khair bhi karo yasir
-  Tum se raazi batool ho jaye
-  Tum jhulaao sagheer ka jhoola
+  Ye amal-e-khair bhi karo Yasir
+  Tum se raazi Batul ho jaae
+  Tum jhulaao Saghir ka jhula
+  Farsh-e-majlis pe aa gayi Zehra
 # source_id: nohayonline:fddd7face1c4289ba9b7
 # source_url: https://www.nohayonline.com/details_content.php?id=1678
 # raw_sha256: bf099dfe697b16338e5f5bee66f3658698f53da18b2f611837c63da74157fcbf
 ---
 
 اے عزادار شاہ کربوبلا
-فرش مجلس پہ آگیء زہرا
+فرش مجلس پہ آ گئی زہرا
 
 تم سے لینے حسین کا پرسہ
+فرش مجلس پہ آ گئی زہرا
 
 ۱
 کیا یہ کافی نہیں ہے رونے کو
 اپنی چشمِ عزا سے تم دیکھو
 لیکے اک خوں بھرا کرتہ
+فرش مجلس پہ آ گئی زہرا
 
 ۲
-بوندھ پانی نہیں ملا اس کو
+بوند پانی نہیں ملا اس کو
 آج تک بھی حسین پیاسا ہے
 اپنی آنکھوں سے دو انہیں دریا
+فرش مجلس پہ آ گئی زہرا
 
 ۳
-ہاتھ پھیلا ہوے ہے بی بی کے
+ہاتھ پھیلا ہوئے ہے بی‌بی کے
 اک کفن اک ردا کی طالب ہے
 کیا کرے گا انہیں کوئی ہدیہ
+فرش مجلس پہ آ گئی زہرا
 
 ۴
-ہاے وہ عون اور محمد تھے
-جنکے لاشوں پہ ماں نہیں روی
+ہائے وہ عون اور محمد تھے
+جن کے لاشوں پہ ماں نہیں روئی
 ماں کو بیٹی کے غم کا دو پرسہ
+فرش مجلس پہ آ گئی زہرا
 
 ۵
 اس کی محوی سجا کے اے لوگوں
 کوئی گھٹڑی بنا کے لے آؤ
 کرنے قاسم کی لاش پر گریہ
+فرش مجلس پہ آ گئی زہرا
 
 ۶
 آؤ اس پر کرے بپا ماتم
 جس کے سینے میں اک سناں ٹوٹی
 کرنے اکبر کے غم میں واویلا
+فرش مجلس پہ آ گئی زہرا
 
 ۷
-جس کے لاشے پہ جا کے روی تھی
-جس کے بازو اٹھا کے روی تھی
-کوئی اونچا کرے الم اسکا
+جس کے لاشے پہ جا کے روئی تھی
+جس کے بازو اٹھا کے روئی تھی
+کوئی اونچا کرے علم اس کا
+فرش مجلس پہ آ گئی زہرا
 
 ۸
-یہ عمل خیر بھی کرو یاسر
-تم سے راضی بتول ہو جاے
-تم جھلاو صغیر کا جھولا
+یہ عملِ خیر بھی کرو یاسر
+تم سے راضی بتول ہو جائے
+تم جھلاؤ صغیر کا جھولا
+فرش مجلس پہ آ گئی زہرا

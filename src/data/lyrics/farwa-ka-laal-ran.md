@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Farwa ka laal ran mein tukdon mein bat gaya hai
+  Farwa ka laal ran mein tukroṅ mein bat gaya hai
   
   1
-  Fizza pukari zainab masnad bichao aa kar
-  Bacchon ka sog bibi kuch to badao aakhar
-  Dulha dulhan se milne qaime mein aa raha hai
+  Fizza pukaari Zainab masnad bichhaao aa kar
+  Bachchoṅ ka sog Bibi kuchh to barhaao aa kar
+  Dulha dulhan se milne khaime mein aa raha hai
   
   2
-  Masnad pe shaah e deen jo tukde jama rahe hai
-  Tukdon mein bat gaya jo laasha utha rahe hai
-  Hai khoon bhara ye manzar kya saqt marhala hai
+  Masnad pe Shaah-e-diṅ jo tukre jama rahe haiṅ
+  Tukroṅ mein bat gaya jo laasha utha rahe haiṅ
+  Hai khuṅ bhara ye manzar kya sakht marhala hai
   
   3
-  Laashe ki jaa hai dekho tukde badan ke bikhre
-  Kubra dulhan ko koi aakar zaara sambhale
-  Gulgoon badan hassan ka maqtal se aa raha hai
+  Laashe ki jaa hai dekho tukre badan ke bikhre
+  Kubra dulhan ko koi aa kar zara sambhaale
+  Gulguṅ badan Hasan ka maqtal se aa raha hai
   
   4
-  Kya dard ka hai manzar dekhegi kaise kubra
-  Pamaal ho ke aaya ibne hassan ka laasha
-  Shireen suqan ka chehra kya jagmaga raha hai
+  Kya dard ka hai manzar dekhegi kaise Kubra
+  Paamaal ho ke aaya Ibn-e-Hasan ka laasha
+  Shiriṅ sukhan ka chehra kya jagmaga raha hai
   
   5
-  Bikhra hua hai sehra pamaal e gul sa chehra
-  Sabir suna raha hai iqbal ka ye nauha
-  Gham ke jahan mein jaisa suraj naya uga hai
+  Bikhra hua hai sehra paamaal-e-gul sa chehra
+  Sabir suna raha hai Iqbal ka ye nauha
+  Gham ke jahaaṅ mein jaisa suraj naya uga hai
 # source_id: nohayonline:9c57a974297a3ec480e2
 # source_url: https://www.nohayonline.com/details_content.php?id=3024
 # raw_sha256: 427d1410d84984e1a39329d18a18318c5e255965a7d8d6522eacf4a2d500520f
@@ -45,7 +46,7 @@ romanLyrics: |-
 
 ۱
 فضہ پکاری زینب مسند بچھاؤ آ کر
-بچوں کا سوگ بی بی کچھ تو بڑھاؤ آ کر
+بچوں کا سوگ بی‌بی کچھ تو بڑھاؤ آ کر
 دولہا دلہن سے ملنے خیمے میں آ رہا ہے
 
 ۲
@@ -55,11 +56,11 @@ romanLyrics: |-
 
 ۳
 لاشے کی جا ہے دیکھو ٹکڑے بدن کے بکھرے
-کبرا دلہن کو کوی آ کر زرا سنبھالے
+کبریٰ دلہن کو کوئی آ کر ذرا سنبھالے
 گلگوں بدن حسن کا مقتل سے آ رہا ہے
 
 ۴
-کیا درد کا ہے منظر دیکھے گی کیسے کبرا
+کیا درد کا ہے منظر دیکھے گی کیسے کبریٰ
 پامال ہو کے آیا ابنِ حسن کا لاشہ
 شیریں سخن کا چہرہ کیا جگمگا رہا ہے
 

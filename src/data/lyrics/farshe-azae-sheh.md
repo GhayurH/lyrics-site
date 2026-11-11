@@ -1,58 +1,59 @@
 ---
-title: "فرش عزاے شہ کی اذاں یا حسین ہے"
-alternateTitle: "Farshe Azae Sheh"
+title: "فرش عزائے شہ کی اذاں یا حسین ہے"
+alternateTitle: "Farsh-e-Aza-e-Sheh"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Muslim Jafri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Farshe Azae Sheh"]
 published: false
 romanLyrics: |-
-  Farshe aza e sheh ki azaan ya hussain hai
-  Yani khuda jahan hai wahan ya hussain hai
+  Farsh-e-aza-e-Sheh ki azaaṅ ya Husain hai
+  Yaani Khuda jahaaṅ hai wahaaṅ ya Husain hai
 
   1
-  Shabbiriyat milegi khuda ki asaas mein
-  Ghamkhwar jaante hai ye kaale libaas mein
-  Kaabe ke bhi labon ka bayan ya hussain hai
+  Shabbiriyat milegi Khuda ki asaas mein
+  Ghamkhwaar jaante haiṅ ye kaale libaas mein
+  Kaabe ke bhi laboṅ ka bayaaṅ ya Husain hai
 
   2
   Qurbat mein jab nijaat ka aaya tha marhala
-  Bole malayeka hai amal koi to bata
-  Maine ye keh diya tha ke haan ya hussain hai
+  Bole malaaika hai amal koi to bata
+  Main ne ye keh diya tha ke haaṅ ya Husain hai
 
   3
   Har saans keh rahi hai ke tujh par salaam hai
-  Tu jannati hai tujhpe jahannam haram hai
-  Teri to zindagi mein rawayan ya hussain hai
+  Tu jannati hai tujh pe jahannam haraam hai
+  Teri to zindagi mein rawaaṅ ya Husain hai
 
   4
   Karbobala ke baad hai ye bhi to maujiza
-  Hota jahan jahan tha mere rab ka tazkira
-  Har us jagah pe wirde zaban ya hussain hai
+  Hota jahaaṅ jahaaṅ tha mere Rab ka tazkira
+  Har us jagah pe wird-e-zabaaṅ ya Husain hai
 
   5
-  Ashoor aaj bhi hai wahin par ruki hui
-  Gardan jahan hussain ki sookhi hui kati
-  Zehra wahin pe nauha kuna ya hussain hai
+  Aashur aaj bhi hai wahiṅ par ruki hui
+  Gardan jahaaṅ Husain ki sukhi hui kati
+  Zehra wahiṅ pe nauha-kunaaṅ ya Husain hai
 
   6
-  Mushkil kusha ke aur payambar ke bain hai
-  Haye hussain khaaliq e akbar ke bain hai
-  Dono jahan mein aah o fughan ya hussain hai
+  Mushkil kusha ke aur payambar ke bain haiṅ
+  Haae Husain Khaaliq-e-Akbar ke bain haiṅ
+  Donoṅ jahaaṅ mein aah o fughaaṅ ya Husain hai
 
   7
-  Yasir ye keh rahe hai sar e arsh ambiya
-  Farshe azaa pe bhej de hum ko bhi ay khuda
-  Muslim ke aaj lab pe wahan ya hussain hai
+  Yasir ye keh rahe haiṅ sar-e-arsh ambiya
+  Farsh-e-aza pe bhej de hum ko bhi Ae Khuda
+  Muslim ke aaj lab pe wahaaṅ ya Husain hai
 # source_id: nohayonline:e639d71362b92609d9d6
 # source_url: https://www.nohayonline.com/details_content.php?id=3014
 # raw_sha256: 751f623112c586ad759c9fa5c11df57a594dd6287b35ab1a5248255ab15daaa0
 ---
-فرش عزاے شہ کی اذاں یا حسین ہے
-یعنی جہاں ہے وہاں یا حسین ہے
+فرش عزائے شہ کی اذاں یا حسین ہے
+یعنی خدا جہاں ہے وہاں یا حسین ہے
 
 ۱
 شبیریت ملے گی خدا کی اساس میں
@@ -60,13 +61,13 @@ romanLyrics: |-
 کعبے کے بھی لبوں کا بیاں یا حسین ہے
 
 ۲
-قربت میں جب نجات‌ کا آیا تھا مرحلہ
-بولے ملایکہ ہے عمل کوی تو بتا
+قربت میں جب نجات کا آیا تھا مرحلہ
+بولے ملائکہ ہے عمل کوئی تو بتا
 میں نے یہ کہہ دیا تھا کہ ہاں یا حسین ہے
 
 ۳
 ہر سانس کہہ رہی ہے کہ تجھ پر سلام ہے
-تو جنتی ہے تجھ پہ جہنم‌ حرام ہے
+تو جنتی ہے تجھ پہ جہنم حرام ہے
 تیری تو زندگی میں رواں یا حسین ہے
 
 ۴
@@ -80,8 +81,8 @@ romanLyrics: |-
 زہرا وہی پہ نوحہ کناں یا حسین ہے
 
 ۶
-مشکل کشاء کے اور پیمبر کے بین ہیں
-ہاے حسین خالق اکبر کے بین ہیں
+مشکل کشا کے اور پیمبر کے بین ہیں
+ہائے حسین خالق اکبر کے بین ہیں
 دونوں جہاں میں آہ و فغاں یا حسین ہے
 
 ۷
