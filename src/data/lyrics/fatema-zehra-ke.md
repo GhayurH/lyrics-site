@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Azam Hussain"
+reciter: "Ahsan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
