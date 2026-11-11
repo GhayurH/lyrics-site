@@ -1,12 +1,12 @@
 ---
 title: "Ali Ka Raaj"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan Abidi, Iftikhar Haider"
 reciter: "Syed Raza Abbas Zaidi"
-tags: ["noImage", "noUrdu", "Panjabi"]
+tags: ["noImage", "Panjabi"]
 aliases: ["ali-ka-raaj-syed-raza-abbas-zaidi"]
 published: false
 # source_id: tajpoints:20230c299a62f8bfb0ab
@@ -14,90 +14,177 @@ published: false
 # raw_sha256: b58544965fda3f43103b158729facafbc7c8b6f1abe106d748b3858a1d9c50d6
 # source_punjabi_poet: Iftikhar Haider
 # composition: Syed Raza Abbas Zaidi
+romanLyrics: |-
+  Mahraaj Ali sartaaj Ali meraaj ki bhi meraaj Ali
+
+  Yaum-e-alast Khuda khalq se kehne laga
+  Meri tauhid ka to tum ne iqraar kiya
+  Haaṅ magar jis ke liye yeh jahaaṅ khalq hua
+  Woh Ali ki hai wila, woh Ali ki hai wila
+  Aao iqraar karo aaj sab mil ke kaho
+  Saari khilqat ki taraf dekh ke bola yeh Khuda
+
+  Bas Ali ka raaj chale ga
+
+  Terah Rajab muskura kar yeh Kaaba kehta tha Haider ki maaṅ se
+  Yeh ghar Ali ke liye hi bana hai aa jaaeṅ chaaheṅ jahaaṅ se
+  Mera maalik hai Ali yeh fazilat hai bari
+  Aaeṅ jab Bint-e-Asad Khaana-e-Rab bol utha
+
+  Kiya hai ishaara Ali ka kahaaṅ par kaise kise maarna hai
+  Abru ki junbish samajhta hai Maalik dushman bhi yeh jaanta hai
+  Jab liye bughz-e-Ali saamne aaya koi
+  Sar uraate hue yeh Maalik-e-Ashtar ne kaha
+
+  Ae mannya khilaafat de mimbar te ral ke qabza tusi kar liya ae
+  Dil te magar momina de Ali da qabza hamesha rehya ae
+  Hashr tak zikr-e-Ali howe ga khafi o jali
+  Aa ke darbaar de ae saamne Batul kehya
+
+  Maidaan-e-Khum meiṅ jo pahunche Muhammad sab haajiyoṅ ko bulaaya
+  Maula ne Maula (JJH) ki marzi suna kar Maula Ali ko banaaya
+  Aur phir bole Nabi hai bila fasl Ali
+  Bughz ke maaroṅ ko maut aane lagi jab yeh suna
+
+  Chhero na mujhe ae mere dildaar malango
+  Jo kuchh bhi tumheṅ chaahiye maahaul se le lo
+  Is waqt main nabiyoṅ ke masaail meiṅ huṅ masruf
+  Jannat ki talab hai to woh Bahlul se le lo
+
+  Kaise samajh meiṅ Ali aaye pehle samjho Ali ka diwaana
+  Dunya meiṅ jannat ke ghar bech kar yeh kehta tha Bahlul daana
+  Ghar mubaarak ho tujhe haaṅ magar yaad rahe
+  Baab-e-jannat pe nazar aaye ga yeh likha hua
+
+  Laaya gaya jab Kumail-e-Riyaahi Hujjaaj-e-Yusuf yeh bola
+  Kar de agar tu baraat Ali se tujh ko abhi chhor duṅ ga
+  Bol utha ishq-e-Ali tujh pe lanat ho meri
+  Jab talak zinda rahuṅ ga main yehi duṅ ga sada
+
+  Jis waqt dosh-e-nubuwwat pe mere Maula Ali ke qadam the
+  Kehte the jaana pare ga yahaaṅ se patthar ke jitne sanam the
+  But giraate the Ali muskuraate the Nabi
+  Gir chuke Laat o Manaat Uzza to Kaabe ne kaha
+
+  Panj naara Panjtani sawa laakh naara
+  Haidari Ya Ali, Haidari Ya Ali, Haidari
+  Haider, Haider, Haider, Haider, Haider, Haider, Haider
+
+  Mahshar ke maidaan meiṅ, khalq-e-do aalam ko
+  Jab woh uthaaye ga, sab ko bulaaye ga
+  Pehla sawaal apne nabiyoṅ se puchhe ga
+  Maalik-e-Mahshar ki aawaaz aaye gi
+  Nuh bataao ke kaar-e-nubuwwat meiṅ
+  Kaun tumhaara hai gawaah?
+
+  Nuh Muhammad ke, paas aa ke boleṅ ge
+  Hum se gawaahoṅ ka, puchha hai Maalik ne
+  Hamza o Jafar ko Aaqa sada deṅ ge
+  Sab ki nubuwwat ka shaahid bana deṅ ge
+  Pichhe Muhammad ke Haq ka alam thaame
+  Hoṅ ge Ali Sher-e-Khuda
+
+  Aa ke Muhammad se, koi yeh puchhe ga
+  Kiunkar gawaahi meiṅ, Haider ko na bheja
+  Boleṅ ge Ahmad Khuda jab bulaaye ga
+  Mujh se gawaahi nubuwwat ki maaṅge ga
+  Fakhr ke aalam meiṅ Rab se main boluṅ ga
+  Meri gawaahi hai Ali
+
+  Sawa laakh nabiyoṅ meiṅ parcham utha kar
+  Sar pe apne taaj-e-wilaayat saja kar
+  Aaeṅ ge Maula Ali saaye meiṅ hoṅ ge Nabi
+  Aur lehra ke pukaare gi yeh parcham ki hawa
+
+  Mahraaj ka raaj kehte haiṅ kis ko dekhe ga saara zamaana
+  Mehdi ke hamraah rajat meiṅ jis dam Abbas ka hoga aana
+  Kaabe pe rakh ke qadam jab lagaaye ga alam
+  Hogi Zeeshan o Raza Ghaazi ke hoṅtoṅ pe sada
+# Kumail-e-Riyahi and the Punjabi passage retain source readings pending print/audio; no historical-name substitution is implied.
 ---
 
-Mahraj Ali Sartaj Ali Mairaj Ki Bhi Mairaj Ali
+مہراج علی سرتاج علی معراج کی بھی معراج علی
 
-Youm-e-Alast Khuda Khalq Se Kehne Laga
-Meri Tauheed Ka Tu Tum Ne Iqrar Kiya
-Haan Magar Jis Ke Liye Yeh Jahan Khalq Howa
-Woh Ali Ki Hai Wila, Woh Ali Ki Hai Wila
-Aao Iqrar Karo Aaj Sab Mil Ke Kaho
-Sari Khilqat Ki Taraf Dekh Ke Bola Yeh Khuda
+یومِ الست خدا خلق سے کہنے لگا
+میری توحید کا تو تم نے اقرار کیا
+ہاں مگر جس کے لیے یہ جہاں خلق ہوا
+وہ علی کی ہے ولا، وہ علی کی ہے ولا
+آؤ اقرار کرو آج سب مل کے کہو
+ساری خلقت کی طرف دیکھ کے بولا یہ خدا
 
-Bas Ali Ka Raaj Chaley Ga
+بس علی کا راج چلے گا
 
-Tera 13 Rajab Muskura Kar Yeh Kaba Kehta Tha Haider Ki Maa Se
-Yeh Ghar Ali Ke Liye Hi Bana Hai Aa Jaein Chahein Jahan Se
-Mera Malik Hai Ali Yeh Fazeelat Hai Bari
-Aaein Jab Bint-e-Asad Khana-e-Rab Bool Utha
+تیرہ رجب مسکرا کر یہ کعبہ کہتا تھا حیدر کی ماں سے
+یہ گھر علی کے لیے ہی بنا ہے آ جائیں چاہیں جہاں سے
+میرا مالک ہے علی یہ فضیلت ہے بڑی
+آئیں جب بنتِ اسد خانۂ رب بول اٹھا
 
-Kiya Hai Ishara Ali Ka Kahan Par Kaisay Kisay Marna Hai
-Abro Ki Junbish Samjhta Hai Malik Dushman Bhi Yeh Janta Hai
-Jab Liye Bughz-e-Ali Samne Aaya Koi
-Sar Uratay Hoye Yeh Malik-e-Ashtar Ne Kaha
+کیا ہے اشارہ علی کا کہاں پر کیسے کسے مارنا ہے
+ابرو کی جنبش سمجھتا ہے مالک دشمن بھی یہ جانتا ہے
+جب لیے بغضِ علی سامنے آیا کوئی
+سر اڑاتے ہوئے یہ مالکِ اشتر نے کہا
 
-Aye Manya Khilafat De Mimber Te Ral Ke Qabza Tusi Kar Liya Aye
-Dil Te Magar Momina De Ali Da Qabza Hamesha Rehya Aye
-Hashar Tak Zikar-e-Ali Howay Ga Khafi-o-Jali
-Aa Ke Darbar De Aye Samne Batool Kehya
+اے منیا خلافت دے منبر تے رل کے قبضہ تسی کر لیا اے
+دل تے مگر مومنا دے علی دا قبضہ ہمیشہ رہیا اے
+حشر تک ذکرِ علی ہووے گا خفی و جلی
+آ کے دربار دے اے سامنے بتول کہیا
 
-Maidan-e-Khum Mein Jo Pohanchay Muhammad Sab Hajiyon Ko Bulaya
-Maula Ne Maula(JJH) Ki Marzi Suna Kar Maula Ali Ko Banaya
-Our Phir Bolay Nabi Hai Bila Fasl Ali
-Bugz Ke Maron Ko Maut Aane Lagi Jab Yeh Suna
+میدانِ خم میں جو پہنچے محمد سب حاجیوں کو بلایا
+مولا نے مولا (جل جلالہ) کی مرضی سنا کر مولا علی کو بنایا
+اور پھر بولے نبی ہے بلا فصل علی
+بغض کے ماروں کو موت آنے لگی جب یہ سنا
 
-Chero Na Mujhe Aye Mere Dildar Malango
-Jo Kuch Bhi Tumhein Chahiye Mahool Se Le Lo
-Iss Waqt Main Nabiyon Ke Masail Mein Hoon Masroof
-Janat Ki Talab Hai Tu Woh Behlool Se Le Lo
+چھیڑو نہ مجھے اے میرے دلدار ملنگو
+جو کچھ بھی تمہیں چاہیے ماحول سے لے لو
+اس وقت میں نبیوں کے مسائل میں ہوں مصروف
+جنت کی طلب ہے تو وہ بہلول سے لے لو
 
-Kaisay Samajh Mein Ali Aaye Pehle Samjho Ali Ka Dewana
-Dunya Mein Janat Ke Ghar Baich Kar Yeh Kehta Tha Behlool Dana
-Ghar Mubarak Ho Tujhe Haan Magar Yaad Rahe
-Baab-e-Janat Pe Nazar Aaye Ga Yeh Likha Howa
+کیسے سمجھ میں علی آئے پہلے سمجھو علی کا دیوانہ
+دنیا میں جنت کے گھر بیچ کر یہ کہتا تھا بہلول دانا
+گھر مبارک ہو تجھے ہاں مگر یاد رہے
+بابِ جنت پہ نظر آئے گا یہ لکھا ہوا
 
-Laya Gaya Jab Kumail-e-Riyahi Hujaj-e-Yousuf Yeh Bola
-Kar De Agar Tu Baraat Ali Se Tujh Ko Abhi Chor Doon Ga
-Bool Utha Ishq-e-Ali Tujh Pe Lanat Ho Meri
-Jab Talak Zindah Rahon Ga Main Yehi Doon Ga Sada
+لایا گیا جب کمیلِ ریاحی حجاجِ یوسف یہ بولا
+کر دے اگر تو براءت علی سے تجھ کو ابھی چھوڑ دوں گا
+بول اٹھا عشقِ علی تجھ پہ لعنت ہو میری
+جب تلک زندہ رہوں گا میں یہی دوں گا صدا
 
-Jis Waqt Dosh-e-Nabowat Pe Mere Maula Ali Ke Qadam They
-Kehte They Jana Paray Ga Yahan Se Pathar Ke Jitnay Sanam They
-But Giratay They Ali Muskuratay They Nabi
-Gir Chukay Laat-o-Manat Uzza Tu Kabay Ne Kaha
+جس وقت دوشِ نبوت پہ میرے مولا علی کے قدم تھے
+کہتے تھے جانا پڑے گا یہاں سے پتھر کے جتنے صنم تھے
+بت گراتے تھے علی مسکراتے تھے نبی
+گر چکے لات و منات عزیٰ تو کعبے نے کہا
 
-Panj Narah Panjtani Sawa Lakh Narah
-Haidery Ya Ali, Haidery Ya Ali, Haidery
-Haider, Haider, Haider, Haider, Haider, Haider, Haider
+پنج نعرہ پنجتنی سوا لاکھ نعرہ
+حیدری یا علی، حیدری یا علی، حیدری
+حیدر، حیدر، حیدر، حیدر، حیدر، حیدر، حیدر
 
-Mehshar Ke Maidaan Mein, Khalq-e-Do Alam Ko
-Jab Woh Uthaye Ga, Sab Ko Bulaye Ga
-Pehla Sawal Apne Nabiyon Se Pochay Ga
-Malik-e-Mehshar Ki Aawaz Aaye Gi
-Nooh Batao Keh Kar-e-Nabowat Mein
-Kaun Tumhara Hai Gawah?
+محشر کے میدان میں، خلقِ دو عالم کو
+جب وہ اٹھائے گا، سب کو بلائے گا
+پہلا سوال اپنے نبیوں سے پوچھے گا
+مالکِ محشر کی آواز آئے گی
+نوح بتاؤ کہ کارِ نبوت میں
+کون تمہارا ہے گواہ؟
 
-Nooh Muhammad Ke, Pas Aa Ke Bolein Gay
-Hum Se Gawahon Ka, Pocha Hai Malik Ne
-Hamza-o-Jafar Ko Aaqa Sada Dein Gay
-Sab Ki Nabowat Ka Shahid Bana Dein Gay
-Pichey Muhammad Ke Haq Ka Alam Thamay
-Hoon Gay Ali Shair-e-Khuda
+نوح محمد کے، پاس آ کے بولیں گے
+ہم سے گواہوں کا، پوچھا ہے مالک نے
+حمزہ و جعفر کو آقا صدا دیں گے
+سب کی نبوت کا شاہد بنا دیں گے
+پیچھے محمد کے حق کا علم تھامے
+ہوں گے علی شیرِ خدا
 
-Aa Ke Muhammad Se, Koi Yeh Pochay Ga
-Kyunkar Gawahi Mein, Haider Ko Na Bhaija
-Bolein Gay Ahmad Khuda Jab Bulaye Ga
-Mujh Se Gawahi Nabowat Ki Mangay Ga
-Fakhar Ke Aalam Mein Rab Se Main Bolon Ga
-Meri Gawahi Hai Ali
+آ کے محمد سے، کوئی یہ پوچھے گا
+کیونکر گواہی میں، حیدر کو نہ بھیجا
+بولیں گے احمد خدا جب بلائے گا
+مجھ سے گواہی نبوت کی مانگے گا
+فخر کے عالم میں رب سے میں بولوں گا
+میری گواہی ہے علی
 
-Sawa Lakh Nabiyon Mein Parcham Utha Kar
-Sar Pe Apne Taj-e-Wilayat Saja Kar
-Aaein Gay Maula Ali Saye Mein Hoon Gay Nabi
-Our Lehra Ke Pukarey Gi Yeh Parcham Ki Hawa
+سوا لاکھ نبیوں میں پرچم اٹھا کر
+سر پہ اپنے تاجِ ولایت سجا کر
+آئیں گے مولا علی سائے میں ہوں گے نبی
+اور لہرا کے پکارے گی یہ پرچم کی ہوا
 
-Mahraj Ka Raaj Kehte Hain Kis Ko Dekhey Ga Sara Zamana
-Mehdi Ke Humrah Rajat Mein Jis Dam Abbas Ka Hoga Aana
-Kabay Pe Rakh Ke Qadam Jab Lagaye Ga Alam
-Hogi Zeeshan o Raza Ghazi Ke Honton Pe Sada
+مہراج کا راج کہتے ہیں کس کو دیکھے گا سارا زمانہ
+مہدی کے ہمراہ رجعت میں جس دم عباس کا ہوگا آنا
+کعبے پہ رکھ کے قدم جب لگائے گا علم
+ہوگی ذیشان و رضا غازی کے ہونٹوں پہ صدا

@@ -7,7 +7,9 @@ kalamType: "Noha"
 tags: ["noImage", "noUrdu"]
 aliases: ["abbas-alamdar-balti-noha"]
 published: false
-# Balti in Arabic script; the schema has no Balti language option. Urdu/Roman editions require a Balti-qualified reviewer.
+# The API's writeup_roman contains incomplete Balti in Arabic script, not Roman Urdu; writeup_ur is empty.
+# Balti is preserved in its original script; the schema has no Balti language option.
+# A complete Balti Roman edition requires a Balti-qualified reviewer and the missing source text.
 # source_id: ziyaraat:0fcf6899a55abd3703ce
 # source_url: https://www.ziyaraat.net/api/noha/2701
 # raw_sha256: dc8f421629a84336d44a867241f866969d8ec6e610a29f75631cb86636800f19
@@ -16,32 +18,32 @@ published: false
 یانگ زمفنا افسوس تھنگینگ نوگ
 عباس عباس علمدار
 
-1
+۱
 سترنگمو تا یلیت شامپی ہرمغاینوک
 عباس عباس علمدار
 یانگ زمفنا افسوس تھنگینگ نوگ
 عباس عباس علمدار
 
-2
+۲
 دنیا نگالا ٹھوپ سونگ زیرے نگویت پا۔۔۔۔۔۔۔مظلوم حسینی
 یری لزوقسی نگیمو نوبسے تھنگینگ نوگ
 عباس عباس علمدار
 یانگ زمفنا افسوس تھنگینگ نوگ
 عباس عباس علمدار
 
-3
+۳
 ردونگ گانگ لا نگیما شربا مکھیودفی۔۔۔۔سترینگمو تا دیرینگ نا
 افسوس تھونے یود شامپی ہرمغاینوک
 عباس عباس علمدار
 یانگ زمفنا افسوس تھنگینگ نوگ
 عباس عباس علمدار
 
-4
+۴
 باقستون لا علی اکبری اونگما۔۔۔ صغرا دتے دوگ توک
 یری نرپا بومو نگوین چِک ردیانگینوک
 عباس عباس علمدار
 یانگ زمفنا افسوس تھنگینگ نوگ
 عباس عباس علمدار
 
-5
+۵
 ۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔
