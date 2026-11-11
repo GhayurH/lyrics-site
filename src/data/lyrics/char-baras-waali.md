@@ -1,68 +1,75 @@
 ---
 title: "اے بابا معاف کرنا اے بابا معاف کرنا"
-alternateTitle: "Char Baras Waali"
+alternateTitle: "Chaar Baras Waali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Char Baras Waali"]
 published: false
 romanLyrics: |-
-  Ay baba maaf karna ay baba maaf karna
-  Qabr mein rakh ke sakina ko ye abid ne kaha
-  Baba ye chaar baras waali amanat lijiye
-  Shimr ke durron se mai isko bacha bhi na saka
+  Ae Baba maaf karna Ae Baba maaf karna
+
+  Qabr mein rakh ke Sakina ko ye Abid ne kaha
+  Baba ye chaar baras waali amaanat lijiye
+
+  Shimr ke durroṅ se main is ko bacha bhi na saka
+  Baba ye chaar baras waali amaanat lijiye
 
   1
-  Laash aahista se beti ki sambhalo baba
-  Godh mein leke kaleje se laga lo baba
-  Aap ke pyaar ko tarsi hai bahot ye dukhiya
+  Laash aahista se beti ki sambhaalo Baba
+  God mein le ke kaleje se laga lo Baba
+  Aap ke pyaar ko tarsi hai bahut ye dukhiya
 
   2
-  Baba gaalon pe tamachon ke nishan mat dekho
-  Halq e majrooh pe rassi ke ke nishan mat dekho
-  Ye tahaif isay ummat ne diye hai baba
+  Baba gaaloṅ pe tamaachoṅ ke nishaaṅ mat dekho
+  Halq-e-majruh pe rassi ke nishaaṅ mat dekho
+  Ye tahaaif use ummat ne diye haiṅ Baba
 
   3
-  Yaad kar kar ke tumhe baba bahot royi hai
-  Saal bhar baad kahin jaake ye ab soyi hai
-  Chaunk jaaye na kahin dil se laga lo baba
+  Yaad kar kar ke tumheiṅ Baba bahut roi hai
+  Saal bhar baad kahiṅ jaa ke ye ab soi hai
+  Chaunk jaaye na kahiṅ dil se laga lo Baba
 
   4
-  Jaane kis tarha se tha jism se chipka baba
-  Mujhse utra nahi ye khoon bhara kurta baba
-  Khaal bhi saath utarti thi jo karte thay juda
+  Jaane kis tarah se tha jism se chipka Baba
+  Mujh se utra nahiṅ ye khuṅ bhara kurta Baba
+  Khaal bhi saath utarti thi jo karte the juda
 
   5
-  Har tamache pe mujhe is ne pukara baba
-  Mai tha zanjeeron mein aur tauq mein jakda baba
-  Dekh kar reh gayi hasrat se ye mera chehra
+  Har tamaache pe mujhe is ne pukaara Baba
+  Main tha zanjiroṅ mein aur tauq mein jakra Baba
+  Dekh kar reh gai hasrat se ye mera chehra
 
   6
-  Mai amanat ki hifazat nahi kar paaya hoon
-  Poori mai ek bhi chaahat nahi kar paaya hoon
-  Jaisi saumpi thi amanat mai wh lauta na saka
+  Main amaanat ki hifaazat nahiṅ kar paaya huṅ
+  Puri main ek bhi chaahat nahiṅ kar paaya huṅ
+  Jaisi saumpi thi amaanat main wo lauta na saka
 
   7
-  Laash khwahar ki uthaun to uthaun kaise
-  Is ke marne ka sabab haye bataun kaise
-  Kuch samjh mein nahi aata hai sunaun kya kya
+  Laash khwaahar ki uthaauṅ to uthaauṅ kaise
+  Is ke marne ka sabab haye bataauṅ kaise
+  Kuchh samajh mein nahiṅ aata hai sunaauṅ kya kya
 
   8
-  Haye do haat baramad huwe aamir us dam
-  Ainee rone ki sada qabr se aayi paiham
-  Haat par rakh diya ye kehke behen ka laasha
+  Haye do haath baraamad hue Aamir us dam
+  Ainee rone ki sada qabr se aai paiham
+  Haath par rakh diya ye keh ke behen ka laasha
 # source_id: nohayonline:39da04cad0eaa3d63fde
 # source_url: https://www.nohayonline.com/details_content.php?id=3402
 # raw_sha256: 9526bf05c56c56274cea9796cb8f55049f638deac73f4cda2a416322fb479a19
 ---
 
 اے بابا معاف کرنا اے بابا معاف کرنا
+
 قبر میں رکھ کے سکینہ کو یہ عابد نے کہا
-بابا یہ چار برس والی امانت لیجیےء
+بابا یہ چار برس والی امانت لیجیے
+
 شمر کے دروں سے میں اس کو بچا بھی نہ سکا
+بابا یہ چار برس والی امانت لیجیے
 
 ۱
 لاش آہستہ سے بیٹی کی سنبھالو بابا
@@ -72,12 +79,12 @@ romanLyrics: |-
 ۲
 بابا گالوں پہ طمانچوں کے نشاں مت دیکھو
 حلق مجروح پہ رسی کے نشاں مت دیکھو
-یہ تحائف اسے امت نے دیےء ہیں بابا
+یہ تحائف اسے امت نے دیے ہیں بابا
 
 ۳
-یاد کر کے تمہیں بابا بہت روی ہے
-سال بھر بعد کہیں جا کے یہ اب سوی ہے
-چونک جاے نہ کہیں دل سے لگا لو بابا
+یاد کر کے تمہیں بابا بہت روئی ہے
+سال بھر بعد کہیں جا کے یہ اب سوئی ہے
+چونک جائے نہ کہیں دل سے لگا لو بابا
 
 ۴
 جانے کس طرح سے تھا جسم سے چپکا بابا
@@ -87,7 +94,7 @@ romanLyrics: |-
 ۵
 ہر طمانچے پہ مجھے اس نے پکارا بابا
 میں تھا زنجیروں میں اور طوق میں جکڑا بابا
-دیکھ کر رہ گیء حسرت سے یہ میرا چہرہ
+دیکھ کر رہ گئی حسرت سے یہ میرا چہرہ
 
 ۶
 میں امانت کی حفاظت نہیں کر پایا ہوں
@@ -96,10 +103,10 @@ romanLyrics: |-
 
 ۷
 لاش خواہر کی اٹھاؤں تو اٹھاؤں کیسے
-اس کے مرنے کا سبب ہاے بتاؤں کیسے
+اس کے مرنے کا سبب ہائے بتاؤں کیسے
 کچھ سمجھ میں نہیں آتا ہے سناؤں کیا کیا
 
 ۸
-ہاے دو ہاتھ بر آمد ہوئے عامر اس دم
-عینی رونے کی صدا قبر سے آی پیہم
+ہائے دو ہاتھ برآمد ہوئے عامر اس دم
+عینی رونے کی صدا قبر سے آئی پیہم
 ہاتھ پر رکھ دیا یہ کہہ کے بہن کا لاشہ

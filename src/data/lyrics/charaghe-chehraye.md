@@ -1,41 +1,42 @@
 ---
 title: "چراغ چہرہ اکبر نہ گھل ہو یہ دعا ہے"
-alternateTitle: "Charaghe Chehraye"
+alternateTitle: "Charaagh-e-Chehra-e-Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Charaghe Chehraye"]
 published: false
 romanLyrics: |-
-  Charaghe chehrae akbar na ghul ho ye dua hai
-  Lahoo aankhon se laila ki musalsal beh raha hai
+  Charaagh-e-chehra-e-Akbar na ghul ho ye dua hai
+  Lahu aankhoṅ se Laila ki musalsal beh raha hai
 
   1
-  Ba zaahir zakhm to hai seena e akbar may lekin
-  Haqeeqat may wo naiza seena e sheh may gada hai
+  Bazaahir zakhm to hai sina-e-Akbar mein lekin
+  Haqiqat mein wo neza sina-e-Shah mein gara hai
 
   2
-  Salaam akbar ka laaya sheh ke balon may safedi
-  Gayi beenayi aankhon may andhera cha gaya hai
+  Salaam Akbar ka laaya Shah ke baaloṅ mein safedi
+  Gai binaai aankhoṅ mein andhera chhaa gaya hai
 
   3
-  Ulatkar aasteen ya ali kehte hai sarwar
-  Ke barchi khayncha qalbe pisar se maujeza hai
+  Ulat kar aastin Ya Ali kehte haiṅ Sarwar
+  Ke barchhi khaincha qalb-e-pisar se mojiza hai
 
   4
-  Phuphi aajaye na maqtal may shaahe deen ke peeche
-  Sakht akbar ke liye ye marhala hai
+  Phuphi aa jaaye na maqtal mein Shaah-e-Din ke pichhe
+  Sakht Akbar ke liye ye marhala hai
 
   5
-  Rache shadi jo akbar ki to mujhko yaad rakhna
-  Madine se kisi bemaar ne khat may likha hai
+  Rache shaadi jo Akbar ki to mujh ko yaad rakhna
+  Madine se kisi bimaar ne khat mein likha hai
 
   6
-  Ali akbar ki shahid aakhri ruqsat ka manzar
-  Bhare ghar se janaza jaise koi jaa raha hai
+  Ali Akbar ki Shahid aakhri rukhsat ka manzar
+  Bhare ghar se janaaza jaise koi jaa raha hai
 # source_id: nohayonline:bdaee2353fca6da1967d
 # source_url: https://www.nohayonline.com/details_content.php?id=727
 # raw_sha256: 7b4f7de45190310c8dc71221b43ae9bc4221ff2f6a2811721fe7a46f2ef80bc8
