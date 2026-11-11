@@ -1,71 +1,74 @@
 ---
-title: "ہاے ہمشیر رضا"
+title: "ہائے ہمشیرِ رضا"
 alternateTitle: "Ek Behan Bhai Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye hamsheer e raza
-  Ya masooma
-  Qabr e masooma e qum se ab bhi aati hai sada
+  Haye hamshir-e-Raza
+  Ya Maasuma
+
+  Qabr-e-Maasuma-e-Qum se ab bhi aati hai sada
   Ek behan bhai ke laashe pe na jaane paayi
 
   1
-  Jis ghadi shehr e khurasan mein bulwaye gaye
-  Baani e zulm o jafa zulm se kab baaz aaye
-  Tumko mamoon ne kyun zehr khila kar maara
+  Jis ghari shehr-e-Khuraasaaṅ mein bulwaaye gaye
+  Baani-e-zulm o jafa zulm se kab baaz aaye
+  Tum ko Maamun ne kiuṅ zehr khila kar maara
 
   2
-  Ay shehenshah e watan tumne bigada kya tha
-  Mere pardesi aqi tera sahara kya tha
-  Qum mein mai tanha rahi tum thay toos mein tanha
+  Ae shahenshaah-e-watan tum ne bigaara kya tha
+  Mere pardesi akhi tera sahaara kya tha
+  Qum mein main tanha rahi tum the Tus mein tanha
 
   3
-  Zehr ne apna asar jis ghadi choda hoga
+  Zehr ne apna asar jis ghari chhora hoga
   Kat gaya hoga mere bhai kaleja tera
-  Kitni takleef hui hogi ghareebul ghurba
+  Kitni taklif hui hogi Gharib-ul-Ghuraba
 
   4
-  Aap seene pe rakhe haath tadapte honge
-  Bad naseebi ye meri mujhko bulaate honge
-  Na wahan jaa saki mai tu na behan tak pahuncha
+  Aap sine pe rakhe haath tarapte hoṅge
+  Badnasibi ye meri mujh ko bulaate hoṅge
+  Na wahaaṅ jaa saki main tu na behan tak pahuncha
 
   5
-  Mai teri laash pe hoti to ye nauha karti
-  Kam se kam tere janaze ki to zeenat hoti
+  Main teri laash pe hoti to ye noha karti
+  Kam se kam tere janaaze ki to zinat hoti
   Mere bhai ye magar mere muqaddar mein na tha
 
   6
-  Kya musafir ko kabhi zehr e dagha milta hai
+  Kya musaafir ko kabhi zehr-e-dagha milta hai
   Jab safar mein koi pardesi guzar jaata hai
-  Yaad aa jaata hai hamshakle payambar bhaiya
+  Yaad aa jaata hai hamshakl-e-Payambar bhaiya
 
   7
-  Mujhse behtar kayi kismat thi mere jadda ki
-  Laashe shabbir thi aur saani e zehra bhi thi
+  Mujh se behtar kayi qismat thi mere jadda ki
+  Laash-e-Shabbir thi aur saani-e-Zehra bhi thi
   Kam se kam bhai ki mayyat ko behan ne dekha
 
   8
-  Haye irfan na tha mera muqaddar aisa
-  Kya mubarak tera kam hoga ye nauha mera
-  Mai bhi tanha thi kahin bhai kahin tha tanha
+  Haye Irfan na tha mera muqaddar aisa
+  Kya Mubarak tera kam hoga ye noha mera
+  Main bhi tanha thi kahiṅ bhai kahiṅ tha tanha
 # source_id: nohayonline:cbb83c3339b17b63d380
 # source_url: https://www.nohayonline.com/details_content.php?id=1176
 # raw_sha256: 9d5fc2ac66631705bb76c7bb0888b3dd639574e4e1f3765fa4916c4303b5c4b2
 ---
-ہاے ہمشیر رضا
+ہائے ہمشیرِ رضا
 یا معصومہ
-قبر معصومہء قم سے اب بھی آتی ہے صدا
+
+قبرِ معصومۂ قم سے اب بھی آتی ہے صدا
 اک بہن بھائ کے لاشے پہ نہ جاے پای
 
 ۱
-جس گھڑی شہر خراساں میں بلواے گےء
-بانیء ظلم و جفا ظلم سے کب بعض آے
+جس گھڑی شہر خراساں میں بلوائے گئے
+بانیِ ظلم و جفا ظلم سے کب باز آئے
 تم کو مامون نے کیوں زہر کھلا کر مارا
 
 ۲
@@ -79,8 +82,8 @@ romanLyrics: |-
 کتنی تکلیف ہوئی ہوگی غریب الغربا
 
 ۴
-آپ سینے پہ رکھے ہاتھ تڑپتے ہونگے
-بد نصیبی یہ میری مجھکو بلاتے ہونگے
+آپ سینے پہ رکھے ہاتھ تڑپتے ہوں گے
+بد نصیبی یہ میری مجھ کو بلاتے ہوں گے
 نہ وطن جا سکی میں تو نہ بہن تک پہنچا
 
 ۵
@@ -91,14 +94,14 @@ romanLyrics: |-
 ۶
 کیا مسافر کو کبھی زہر دغا ملتا ہے
 جب سفر میں کوئی پردیسی گزر جاتا ہے
-یاد آجاتا ہے ہمشکل پیمبر بھیا
+یاد آ جاتا ہے ہمشکلِ پیمبر بھیا
 
 ۷
 مجھ سے بہتر کیء قسمت تھی میرے جدہ کی
-لاشے شبیر تھی اور ثانیء زہرا بھی تھی
-کم سے کم بھای کی میت کو بہن نے دیکھا
+لاشِ شبیر تھی اور ثانیِ زہرا بھی تھی
+کم سے کم بھائی کی میت کو بہن نے دیکھا
 
 ۸
-ہاے عرفان نہ تھا میرا مقدر ایسا
+ہائے عرفان نہ تھا میرا مقدر ایسا
 کیا مبارک تیرا کم ہوگا یہ نوحہ میرا
-میں بھی تنہا تھی کہیں بھای کہیں تھا تنہا
+میں بھی تنہا تھی کہیں بھائی کہیں تھا تنہا

@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Hashmi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek bemaar ko tum itna rulaya na karo
-  Zaalimo aale mohamed ko sataya na karo
+  Ek bimaar ko tum itna rulaaya na karo
+  Zaalimoṅ Aal-e-Muhammad ko sataaya na karo
 
   1
-  Shiddate dhoop se abid ka badan jalta hai
-  Garm zanjeer ko tum itna hilaya na karo
+  Shiddat-e-dhup se Aabid ka badan jalta hai
+  Garm zanjir ko tum itna hilaaya na karo
 
   2
-  Natawan hai mera bemaar ye zainab ne kaha
-  Tauq o zanjeer mein abid ko phiraya na karo
+  Naatavaaṅ hai mera bimaar ye Zainab ne kaha
+  Tauq o zanjir mein Aabid ko phiraaya na karo
 
   3
-  Do qadam chalte hi bemaar ko ghash aata hai
-  Paon mein chaale hai abid ko chalaya na karo
+  Do qadam chalte hi bimaar ko ghash aata hai
+  Paaoṅ mein chhaale haiṅ Aabid ko chalaaya na karo
 
   4
-  Neend bemaar ko aati hai badi mushkil se
-  Bediyan khaynch ke abid ko jagaya na karo
+  Nind bimaar ko aati hai bari mushkil se
+  Beriyaṅ khinch ke Aabid ko jagaaya na karo
 
   5
-  Maang lo bali sakina se ye bachi hai saqi
-  Baaliyan khaynch ke kano se rulaya na karo
+  Maang lo baali Sakina se ye bachi hai sakhi
+  Baaliyaṅ khinch ke kaanoṅ se rulaaya na karo
 
   6
-  Sar khule zainab e dilgeer hai bazaaron mein
-  Berida aale mohamed ko phiraya na karo
+  Sar khule Zainab-e-dilgir hai bazaaroṅ mein
+  Berida Aal-e-Muhammad ko phiraaya na karo
 
   7
-  Qaid mein phoot ke roti hai sakina bibi
-  Baap ka sar usay har baar dikhaya na karo
+  Qaid mein phut ke roti hai Sakina Bibi
+  Baap ka sar use har baar dikhaaya na karo
 
   8
-  Hashmi rote hai irfan se nauha sun kar
-  Munkiron rone do rone se rukaya na karo
+  Hashmi rote haiṅ Irfan se noha sun kar
+  Munkiroṅ rone do rone se rukaaya na karo
 # source_id: nohayonline:f58693435195d3bfae12
 # source_url: https://www.nohayonline.com/details_content.php?id=1177
 # raw_sha256: 63df8488b8c060540271b230ef8768417cf06fffb8725030fc347f25f04a2b2a
@@ -52,7 +53,7 @@ romanLyrics: |-
 ظالموں آل محمّد کو ستایا نہ کرو
 
 ۱
-شدت دھوپ سے عابد کا بدن جلتا ہے
+شدتِ دھوپ سے عابد کا بدن جلتا ہے
 گرم زنجیر کو تم اتنا ہلایا نہ کرو
 
 ۲
@@ -72,11 +73,11 @@ romanLyrics: |-
 بالیاں کھینچ کے کانوں سے رلایا نہ کرو
 
 ۶
-سر کھلے زینب دلگیر ہے بازاروں میں
+سر کھلے زینبِ دلگیر ہے بازاروں میں
 بے ردا آل محمّد کو پھرایا نہ کرو
 
 ۷
-قید میں پھوٹ کے روتی ہے سکینہ بی بی
+قید میں پھوٹ کے روتی ہے سکینہ بی‌بی
 باپ کا سر اسے ہر بار دکھایا نہ کرو
 
 ۸
