@@ -1360,10 +1360,10 @@ src/data/lyrics/bhai-mar-gaya-zainab.md,standalone_lyrics,imported,nohayonline,p
 src/data/lyrics/bhai-na-bhatije-na.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/bhai-se-milaade.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s2 ""عاشور کو ایسا اجڑی""; s3 ""sharmeine"" vs ""شرمائے""; s6 ""bachaaya/khaaya"" vs ""بچائے/کھائے"" and ""بچے یاد نہ آئے""; s9 Roman ""nauhakhan o matamdaro"" vs Urdu ""نوحہ خوانوں ماتم داروں""."
 src/data/lyrics/bhai-shabbir-ka.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s2 ""بڑے قلب کے ساتھ""; s5 Roman has ""Ghazi ko"" but Urdu omits ""کو""; s7 ""Sadiq-e-purgham"" vs Urdu ""صادق پر غم""."
-src/data/lyrics/bhaiya-aagayi-zainab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bhaiya-abbas.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bhaiya-ali-akbar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/bhaiya-ghareeb-zainab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/bhaiya-aagayi-zainab.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-bhaiya-editorial,,
+src/data/lyrics/bhaiya-abbas.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-bhaiya-editorial,,
+src/data/lyrics/bhaiya-ali-akbar.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-11-bhaiya-editorial,,"Need audio/print: s6 ""تیرے طاقت"" and ""چھڑاؤ"" vs Roman ""churaao""; s7 ""مانجاے برادر"" vs ""maajaye baraadar"", and ""سن لو"" vs ""sulaao""."
+src/data/lyrics/bhaiya-ghareeb-zainab.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-bhaiya-editorial,,
 src/data/lyrics/bhaiya-kyun-nahi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bhaiya-mere-bhaiya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/bhaiya-mujhe-bhool.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
