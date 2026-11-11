@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro ke shaah kehte thay bhai mar gaya zainab
-  Jhuk gayi kamar meri chin gaya asa zainab
+  Ro ke Shaah kehte the bhai mar gaya Zainab
+  Jhuk gayi kamar meri chhin gaya asa Zainab
 
   1
-  Hum ko bhi ijazat do hum bhi jaaye dunya se
-  Hum ko ab nahi jeena kaun hai mera zainab
+  Hum ko bhi ijaazat do hum bhi jaayeṅ duniya se
+  Hum ko ab nahiṅ jina kaun hai mera Zainab
 
   2
-  Chand jaise chehre par zakhm lag gaya us ke
-  Jab wo zeen se ghode ki moo ke bal gira zainab
+  Chaand jaise chehre par zakhm lag gaya us ke
+  Jab wo zin se ghore ki muṅh ke bal gira Zainab
 
   3
-  Laashe ki tarha rakh kar qaime may alam bole
-  Ab yehi janaza hai mere sher ka zainab
+  Laashe ki tarah rakh kar khaime mein alam bole
+  Ab ye hi janaaza hai mere sher ka Zainab
 
   4
-  Jis ne mere haathon par apni aankhein kholi thi
-  Aaj usi ka godhi may dam nikal gaya zainab
+  Jis ne mere haathoṅ par apni aankheṅ kholi thi
+  Aaj usi ka godi mein dam nikal gaya Zainab
 
   5
-  Maine apne haathon se uske haath uthaye hai
-  Tukde tukde aada ne usko kar diya zainab
+  Main ne apne haathoṅ se us ke haath uthaaye haiṅ
+  Tukre tukre aada ne us ko kar diya Zainab
 
   6
-  Raat bhar jo pehre par mere hota tha bibi
-  Aaj mujhse pehle wo ban may so gaya zainab
+  Raat bhar jo pehre par mere hota tha Bibi
+  Aaj mujh se pehle wo ban mein so gaya Zainab
 
   7
-  Wo jo saare laashon ko ran se le ke aaya tha
-  Us ka laasha darya se mai na laa saka zainab
+  Wo jo saare laashoṅ ko ran se le ke aaya tha
+  Us ka laasha darya se main na laa saka Zainab
 
   8
-  Yaad hai tumhe bibi ek sada pe aata tha
-  Aaj hum uthaate thay wo nahi utha zainab
+  Yaad hai tumheṅ Bibi ek sada pe aata tha
+  Aaj hum uthaate the wo nahiṅ utha Zainab
 
   9
-  Kaise ho bayan sajjad sheh ne jab kaha ro kar
-  Zakhm ho gaya taaza aaj baba ka zainab
+  Kaise ho bayaaṅ Sajjad Shah ne jab kaha ro kar
+  Zakhm ho gaya taaza aaj baba ka Zainab
 # source_id: nohayonline:fc9e073eaee79046cc66
 # source_url: https://www.nohayonline.com/details_content.php?id=1638
 # raw_sha256: 6b2fa5cd6eed139300d2b39a9c50c45cbefd9e92179b7700d6fb6fd2cff13e26
@@ -76,15 +77,15 @@ romanLyrics: |-
 ٹکڑے ٹکڑے اعدا نے اسکو کر دیا زینب
 
 ۶
-‎رات بھر جو پہرے پر میرے ہوتا تھا بی بی
-‎آج مجھ سے پہلے وہ رن میں سو گیا زینب
+رات بھر جو پہرے پر میرے ہوتا تھا بی‌بی
+آج مجھ سے پہلے وہ رن میں سو گیا زینب
 
 ۷
 وہ جو سارے لاشوں کو رن سے لے کے آیا تھا
 اس کا لاشہ مقتل سے میں نہ لا سکا زینب
 
 ۸
-یاد ہے تمہیں بی بی اک صدا پہ آتا تھا
+یاد ہے تمہیں بی‌بی اک صدا پہ آتا تھا
 آج ہم اٹھاتے تھے وہ نہیں اٹھا زینب
 
 ۹
