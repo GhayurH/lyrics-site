@@ -6,59 +6,62 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya hussain ya hussain ya hussain ya hussain
-  Aaj bhi karbala mein fatema ke bain
-  Ya hussain ya hussain ya hussain ya hussain
-  
+  Ya Husain ya Husain ya Husain ya Husain
+
+  Aaj bhi Karbala mein Fatema ke bain
+  Ya Husain ya Husain ya Husain ya Husain
+
   1
-  Dasht mein ab tak hai mehwe girya o zaari lahoo
-  Gardan e shabbir se hai aaj bhi jaari lahoo
-  Ab bhi teeron par hai laashe maalik e kaunain
-  
+  Dasht mein ab tak hai mahw-e-girya o zaari lahu
+  Gardan-e-Shabbir se hai aaj bhi jaari lahu
+  Ab bhi tiroṅ par hai laash-e-maalik-e-kaunain
+
   2
-  Is tarha bikhra badan tha fatema ke laal ka
-  Ek ek tukda utha kar maa ne ye ro kar kaha
-  Tera tan kaise milaun mere dil ke chain
-  
+  Is tarah bikhra badan tha Fatema ke laal ka
+  Ek ek tukra utha kar maaṅ ne ye ro kar kaha
+  Tera tan kaise milaauṅ mere dil ke chain
+
   3
-  Kund khanjar shimr le kar jab teri jaanib badha
-  Maine apna haath beta teri gardan par rakha
-  Mai bacha na paayi tujhko phir bhi noor e ain
-  
+  Kund khanjar Shimr le kar jab teri jaanib barha
+  Main ne apna haath beta teri gardan par rakha
+  Main bacha na paayi tujh ko phir bhi nur-e-ain
+
   4
-  Tere laashe ko kuchalne jab sitamgar aaye thay
-  Maine laashe bawafa par bain ye farmeine thay
-  Mere bete ko bachale ay wafa ki zain
-  
+  Tere laashe ko kuchalne jab sitamgar aaye the
+  Main ne laashe baawafa par bain ye farmaaye the
+  Mere bete ko bacha le ae wafa ki zain
+
   5
-  Tujhpe roti hai zameen aur aasman e kibriya
-  Ay mere pyase tumhari tashnagi par ba khuda
-  Ashk barsaate hai ab tak alqama ke nain
-  
+  Tujh pe roti hai zamiṅ aur aasmaan-e-kibriya
+  Ae mere pyaase tumhaari tashnagi par ba khuda
+  Ashk barsaate haiṅ ab tak Alqama ke nain
+
   6
-  Tu ne kaandhon par uthaya laasha e kadiyal jawan
-  Qabr mein tu ne utaara asghar e tashna dahan
-  Yani qaimon aur maqtal ke raha ma-bain
-  
+  Tu ne kaandhoṅ par uthaaya laasha-e-karyal jawaaṅ
+  Qabr mein tu ne utaara Asghar-e-tashna dahan
+  Yaani khaimoṅ aur maqtal ke raha maa bain
+
   7
-  Ek din ay laal mere maujiza ho jayega
-  Ek taraf rauza tumhara ek taraf abbas ka
-  Karbala mein do banenge sabr ke harmain
-  
+  Ek din ae laal mere maujiza ho jaayega
+  Ek taraf rauza tumhaara ek taraf Abbas ka
+  Karbala mein do baneṅ ge sabr ke harmain
+
   8
-  Phir kaha zehra ne yasir hashr ke din aaungi
-  Tera kurta khoon bhara jab roz e mehshar laaungi
-  Tere gham mein khud kahega maalik e daarain
+  Phir kaha Zehra ne Yasir hashr ke din aauṅ gi
+  Tera kurta khuṅ bhara jab roz-e-mahshar laauṅ gi
+  Tere gham mein khud kahega maalik-e-daarain
 # source_id: nohayonline:717e8119cc1c2a72e64e
 # source_url: https://www.nohayonline.com/details_content.php?id=2745
 # raw_sha256: b715d56e7b6e8bc1180df065a29f3ca13e9118aa04968bed3f798e362e2b5232
 ---
 
 یا حسین یا حسین یا حسین یا حسین
+
 آج بھی کربلا میں فاطمہ کے بین
 یا حسین یا حسین یا حسین یا حسین
 
@@ -75,12 +78,12 @@ romanLyrics: |-
 ۳
 کند خنجر شمر لے کر جب تیری جانب بڑھا
 میں نے اپنا ہاتھ بیٹا تیری گردن پر رکھا
-میں بچا نہ پای تجھکو پھر بھی نورِ عین
+میں بچا نہ پائی تجھ کو پھر بھی نورِ عین
 
 ۴
-تیرے لاشے کو کچلنے جب ستمگر آے تھے
-میں نے لاشے با وفا پر بین یہ فرماے تھے
-میرے بیٹے کو بچالے اے وفا کی زین
+تیرے لاشے کو کچلنے جب ستمگر آئے تھے
+میں نے لاشے با وفا پر بین یہ فرمائے تھے
+میرے بیٹے کو بچا لے اے وفا کی زین
 
 ۵
 تجھ پہ روتی ہے زمیں اور آسمان کبریا
@@ -88,7 +91,7 @@ romanLyrics: |-
 اشک برساتے ہیں اب تک علقمہ کے نین
 
 ۶
-تو نے کاندھوں پر اٹھایا لاشہء کڑیل جواں
+تو نے کاندھوں پر اٹھایا لاشۂ کڑیل جواں
 قبر میں تو نے اتارا اصغرِ تشنہ دہن
 یعنی خیموں اور مقتل کے رہا ما بین
 
