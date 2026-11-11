@@ -6,55 +6,65 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Adil Nazar"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khoon se tar hogaya hai musalla
-  Betiyan ro rahi hai ali ki
-  
+  Khuṅ se tar ho gaya hai musalla
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   1
-  Dekh kar zakhmi baba ka chehra
-  
+  Dekh kar zakhmi baaba ka chehra
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   2
-  Baap hota hai jiska salamat
-  Beti hoti hai wo shaahzadi
+  Baap hota hai jis ka salaamat
+  Beti hoti hai wo shaahzaadi
   Soch kar dil hua paara paara
-  
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   3
-  Haath zainab ke sar par rakha aur
+  Haath Zainab ke sar par rakha aur
   Keh ke itna hi maula bhi roye
-  Bas salamat rahe tere parda
-  
+  Bas salaamat rahe tera parda
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   4
-  Kar ke beton ko saari wasiyat
-  Hogaye maula dunya se ruqsat
-  Aagayi dene zehra dilaasa
-  
+  Kar ke betoṅ ko saari wasiyat
+  Ho gaye Maula dunya se rukhsat
+  Aa gayiṅ dene Zehra dilaasa
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   5
-  Peet ke sar koi ro raha hai
-  Koi baba ka moo choomta hai
-  Gham mein dooba hai saara gharana
-  
+  Pit ke sar koi ro raha hai
+  Koi baaba ka muṅh chumta hai
+  Gham mein duba hai saara gharaana
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   6
-  Saara kufa hi nauha kuna hai
-  Ghar mein zahra ke matam bapa hai
-  Uth raha hai ali ka janaza
-  
+  Saara Kufa hi nauha-kunaaṅ hai
+  Ghar mein Zehra ke maatam bapa hai
+  Uth raha hai Ali ka janaaza
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   7
-  Le ke ghar se chale jab janaza
-  Ye dua lab pe ghazi ke aayi
-  Jeete jee mai na dekhun dubara
-  
+  Le ke ghar se chale jab janaaza
+  Ye dua lab pe Ghaazi ke aayi
+  Jite ji main na dekhuṅ dubaara
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   8
-  Boli zainab mujhe de do bhaiya
-  Mere baba ki koi nishani
-  Ho musalla aba ya amama
-  
+  Boliṅ Zainab mujhe de do bhaiya
+  Mere baaba ki koi nishaani
+  Ho musalla aba ya amaama
+  Betiyaaṅ ro rahi haiṅ Ali ki
+
   9
-  Dekh lene nazar har kis ka
-  Haath matam ko khud hi uthega
-  Shadman jab padhega ye nauha
+  Dekh lena Nazar har kisi ka
+  Haath maatam ko khud hi uthega
+  Shaadmaaṅ jab parhe ga ye nauha
+  Betiyaaṅ ro rahi haiṅ Ali ki
 # source_id: nohayonline:4ff1d65f62f88506f848
 # source_url: https://www.nohayonline.com/details_content.php?id=1571
 # raw_sha256: 67d421f2bbb3e4a1f21b9359f4f628a7a77e1e6e199d3b52a09b2ee38db34f85
@@ -65,46 +75,52 @@ romanLyrics: |-
 
 ۱
 دیکھ کر زخمی بابا کا چہرہ
+بیٹیاں رو رہی ہیں علی کی
 
 ۲
 باپ ہوتا ہے جس کا سلامت
 بیٹی ہوتی ہے وہ شاہ زادی
 سوچ کر دل ہوا پارہ پارہ
+بیٹیاں رو رہی ہیں علی کی
 
 ۳
 ہاتھ زینب کے سر پر رکھا اور
 کہہ کے اتنا ہی مولا بھی روئے
 بس سلامت رہے تیرا پردہ
+بیٹیاں رو رہی ہیں علی کی
 
 ۴
 کرکے بیٹوں کو ساری وصیت
 ہوگئے مولا دنیا سے رخصت
 آگئیں دینے زہرا دلاسہ
-بیٹیاں رورہی ہیں علی کی
+بیٹیاں رو رہی ہیں علی کی
 
 ۵
-پیٹ کے سر کوئ رو رہا ہے
-کوئ بابا کا منہ چومتا ہے
+پیٹ کے سر کوئی رو رہا ہے
+کوئی بابا کا منہ چومتا ہے
 غم میں ڈوبا ہے سارا گھرانہ
+بیٹیاں رو رہی ہیں علی کی
 
 ۶
 سارا کوفہ ہی نوحہ کناں ہے
-گھرمیں زہرا کےماتم بپا ہے
+گھر میں زہرا کے ماتم بپا ہے
 اُٹھ رہا ہے علی کا جنازہ
+بیٹیاں رو رہی ہیں علی کی
 
 ۷
-لے کے گھرسے چلےجب جنازہ
+لے کے گھر سے چلے جب جنازہ
 یہ دعا لب پہ غازی کے آئی
 جیتے جی میں نہ دیکھوں دوبارہ
-بیٹیاں رورہی ہیں علی کی
+بیٹیاں رو رہی ہیں علی کی
 
 ۸
 بولیں زینب مجھے دے دو بھیّا
-میرے بابا کی کوئ نشانی
+میرے بابا کی کوئی نشانی
 ہو مصلّہ عباء یا عمامہ
+بیٹیاں رو رہی ہیں علی کی
 
 ۹
 دیکھ لینا نظر ہر کسی کا
 ہاتھ ماتم کو خود ہی اُٹھے گا
 شادماں جب پڑھے گا یہ نوحہ
-بیٹیاں رورہی ہیں علی کی
+بیٹیاں رو رہی ہیں علی کی
