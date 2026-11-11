@@ -5,54 +5,55 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mukhtar Husain"
 poet: "Hasnain Akbar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Deti rahi bacchon ko sakina ye dilaase
-  Pani ka mai keh aayi hoon abbas chacha se
+  Deti rahi bachchoṅ ko Sakina ye dilaase
+  Paani ka main keh aayi huṅ Abbas chacha se
 
   1
-  Mashkeeza rakha maine jo shaane pe chacha ke
-  Rone lage baba unhe seene se laga ke
-  Roti thi phupi dhaamp ke moo apna rida se
+  Mashkiza rakha main ne jo shaane pe chacha ke
+  Rone lage baaba unheṅ sine se laga ke
+  Roti thi phuphi dhaanp ke munh apna rida se
 
   2
-  Tadpe thay chacha jis ghadi maine ye kaha tha
-  Zinda nahi reh payega cheh maah ka baccha
-  Mar jaaye na asghar kahin seh roz ke pyase
+  Tarpe the chacha jis ghari main ne ye kaha tha
+  Zinda nahiṅ reh paayega chhe maah ka bachcha
+  Mar jaaye na Asghar kahiṅ seh roz ke pyaase
 
   3
-  Haathon se kisi koozon ko girne nahi dena
-  Ay pyaas ke maaro abhi kuch hausla rakhna
-  Kuch dayr mein bhar jayenge pani se ye kaase
+  Haathoṅ se kisi kuzoṅ ko girne nahiṅ dena
+  Ae pyaas ke maaro abhi kuchh hausla rakhna
+  Kuchh der mein bhar jaayeṅge paani se ye kaase
 
   4
-  Ho jayega darya pe abhi qabza hamara
-  Saahil pe unhe koi bhi awaaz na dena
-  Bhatke na dhyaan unka kahin ran mein sada se
+  Ho jaayega darya pe abhi qabza hamaara
+  Saahil pe unheṅ koi bhi aawaaz na dena
+  Bhatke na dhyaan un ka kahiṅ ran mein sada se
 
   5
-  Mashkeeze ki karte hai yun haathon se hifazat
-  Jaise ho koi fatema zehra ki amanat
-  Ummeed thi mujhko ehi daadi ki dua se
+  Mashkize ki karte haiṅ yuṅ haathoṅ se hifaazat
+  Jaise ho koi Fatima Zehra ki amaanat
+  Ummid thi mujh ko yahi daadi ki dua se
 
   6
-  Haye mere baba ka baradar hua zakhmi
-  Wo mashk chidi beh gaya maidan mein pani
-  Bach jaaye chacha sab ye dua maango khuda se
+  Haaye mere baaba ka baraadar hua zakhmi
+  Wo mashk chhidi beh gaya maidaan mein paani
+  Bach jaaye chacha sab ye dua maango Khuda se
 
   7
-  Akbar ye fughan karti thi ro ro ke sakina
-  Darya se palat kar nahi aaya mera saqqa
-  Neend aa na gayi ho kahin saahil ki hawa se
+  Akbar ye fughaaṅ karti thi ro ro ke Sakina
+  Darya se palat kar nahiṅ aaya mera saqqa
+  Nind aa na gayi ho kahiṅ saahil ki hawa se
 # source_id: nohayonline:1d986e387cdc29bbde5b
 # source_url: https://www.nohayonline.com/details_content.php?id=3681
 # raw_sha256: 03a98df778db72c307ce7544d9812a1b3b351ade61786e8dbdcdebc432b687cd
 ---
 دیتی رہی بچوں کو سکینہ یہ دلاسے
-پانی کا میں کہہ آی ہوں عباس چچا سے
+پانی کا میں کہہ آئی ہوں عباس چچا سے
 
 ۱
 مشکیزہ رکھا میں نے جو شانے پہ چچا کے
@@ -61,8 +62,8 @@ romanLyrics: |-
 
 ۲
 تپتے تھے چچا جس گھڑی میں نے یہ کہا تھا
-زندہ نہیں رہ پاے گا چھ ماہ کا بچہ
-مر جاے نہ اصغر کہیں سہہ روز کے پیاسے
+زندہ نہیں رہ پائے گا چھ ماہ کا بچہ
+مر جائے نہ اصغر کہیں سہہ روز کے پیاسے
 
 ۳
 ہاتھوں سے کسی کوزوں کو گرنے نہیں دینا
@@ -71,20 +72,20 @@ romanLyrics: |-
 
 ۴
 ہو جائے گا دریا پہ ابھی قبضہ ہمارا
-ساحل پہ انہیں کوی بھی آواز نہ دینا
+ساحل پہ انہیں کوئی بھی آواز نہ دینا
 بھٹکے نہ دھیان ان کا کہیں رن میں صدا سے
 
 ۵
 مشکیزے کی کرتے ہیں یوں ہاتھوں سے حفاظت
-جیسے ہو کوی فاطمہ زہرا کی امانت
-امید تھی مجھکو یہی دادی کی دعا سے
+جیسے ہو کوئی فاطمہ زہرا کی امانت
+امید تھی مجھ کو یہی دادی کی دعا سے
 
 ۶
-ہاے میرے بابا کا برادر ہوا زخمی
+ہائے میرے بابا کا برادر ہوا زخمی
 وہ مشک چھدی بہہ گیا میدان میں پانی
 بچ جائے چچا سب یہ دعا مانگو خدا سے
 
 ۷
 اکبر یہ فغاں کرتی تھی رو رو کے سکینہ
 دریا سے پلٹ کر نہیں آیا میرا سقہ
-نیند آ نہ گیء ہو کہیں ساحل کی ہوا سے
+نیند آ نہ گئی ہو کہیں ساحل کی ہوا سے

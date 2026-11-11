@@ -5,49 +5,50 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Sabile Masumeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dhal gaya suraj shamma jali
-  Nanha mera asghar kahan gaya re
-  Banu pukari kook jali
-  Nanha mera asghar kahan gaya re
-  
+  Dhal gaya suraj shama jali
+  Nanha mera Asghar kahaaṅ gaya re
+  Baano pukaari kokh jali
+  Nanha mera Asghar kahaaṅ gaya re
+
   1
-  Raat andheri sunsan ban
-  Dhoondun kahan tujhe ay gulbadan
-  Ro ro pukari maa dil jali
-  
+  Raat andheri sunsaan ban
+  Dhunduṅ kahaaṅ tujhe ae gulbadan
+  Ro ro pukaari maaṅ dil jali
+
   2
-  Waqte madad hai mushkil kusha
-  Mushkil karo hal behre khuda
-  Tumhi bata do moula ali
-  
+  Waqt-e-madad hai mushkil kusha
+  Mushkil karo hal bahr-e-Khuda
+  Tum hi bata do Maula Ali
+
   3
-  Jangal mein kis ja tu khogaya
-  Khaali hai jhoola ay mehlekha
-  Kisko jhulaye amma teri
-  
+  Jangal mein kis ja tu kho gaya
+  Khaali hai jhula ae mehlekha
+  Kis ko jhulaaye amma teri
+
   4
-  Aray ye to bata de ay hurmala
-  Chedha hai kyun tune nanha gala
-  Doobi hai khoon mein nanhi kali
-  
+  Are ye to bata de ae Hurmala
+  Chhera hai kiuṅ tu ne nanha gala
+  Dubi hai khun mein nanhi kali
+
   5
-  Teri zameen par ay karbala
-  Gum hogaya hai bacha mera
-  Dhoond rahi hoo gali gali
-  
+  Teri zamin par ae Karbala
+  Gum ho gaya hai bachcha mera
+  Dhund rahi huṅ gali gali
+
   6
-  Dukhyari maadar jaye kahan
-  Veeran lagta hai saara jahan
+  Dukhyaari maadar jaaye kahaaṅ
+  Viraan lagta hai saara jahaaṅ
   Karti hui aah o zaari chali
-  
+
   7
-  Saaleh na poocho maqtal ka haal
-  Qasir zuban hai jeena muhaal
-  Asghar ke gham hai bekali
+  Saaleh na puchho maqtal ka haal
+  Qaasir zabaaṅ hai jina muhaal
+  Asghar ka gham hai bekali
 # source_id: nohayonline:5d4ae26fdc4ae5dd8947
 # source_url: https://www.nohayonline.com/details_content.php?id=707
 # raw_sha256: 70047f95fd08df9aa75ecdc6a540856cf94a1bde0367c2026b98c9bae6a5890e
@@ -64,18 +65,18 @@ romanLyrics: |-
 رو رو پُکاری ماں دل جلی
 
 ۲
-وقتِ مدد ہے مشکل کُشائ
+وقتِ مدد ہے مشکل کُشا
 مشکل کرو حل بحرِ خدا
 تم ہی بتا دو مولا علی
 
 ۳
 جنگل میں کس جا تُو کھو گیا
-خالی ہے جھُولا ٍاے مہلکا
+خالی ہے جھُولا اے مہلکا
 کس کو جھُلائے اماں تیری
 
 ۴
 ارے یہ تو بتا دے اے حُرملا
-چھیڑاہے کیوں تُو نے ننھا گلا
+چھیڑا ہے کیوں تُو نے ننھا گلا
 ڈوبی ہے خون میں ننھی کلی
 
 ۵

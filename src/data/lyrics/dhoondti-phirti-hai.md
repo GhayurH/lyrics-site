@@ -1,57 +1,58 @@
 ---
 title: "ڈھونڈتی پھرتی ہے زینب لاشوں میں عباس کو"
-alternateTitle: "Dhoondti Phirti Hai"
+alternateTitle: "Dhundti Phirti Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dhoondti phirti hai zainab laashon mein abbas ko
-  Karti hai mehsoos ro ke aahon mein abbas ko
+  Dhundti phirti hai Zainab laashoṅ mein Abbas ko
+  Karti hai mehsus ro ke aahoṅ mein Abbas ko
 
   1
-  Fikr hai maqtal mein zainab ko faqat laahaq yehi
-  Rassiyan aaye nazar na baahon mein abbas ko
+  Fikr hai maqtal mein Zainab ko faqat laahaq yahi
+  Rassiyaaṅ aaye nazar na baahoṅ mein Abbas ko
 
   2
-  Maangne wapas zamanat chadaron ki aagayi
-  Dekha hai jab barchiyon ki chaaon mein abbas ko
+  Maangne waapas zamaanat chaadaroṅ ki aa gayi
+  Dekha hai jab barchiyoṅ ki chhaaoṅ mein Abbas ko
 
   3
-  Kis tarha bin baazuon ka laasha bhoolegi behan
-  Ke jawan hote hai dekha haathon mein abbas ko
+  Kis tarah bin baazuoṅ ka laasha bhulegi behan
+  Ke jawaaṅ hote hai dekha haathoṅ mein Abbas ko
 
   4
-  Zikr apno se bichadne ka kahin bhi gar hua
-  Le hi aati thi wo dukhiya baaton mein abbas ko
+  Zikr apnoṅ se bichharne ka kahiṅ bhi gar hua
+  Le hi aati thi wo dukhiya baatoṅ mein Abbas ko
 
   5
-  Gir hi jaata hai sina ki nok se har baar sar
-  Be-rida sar jab dikha hai raahon mein abbas ko
+  Gir hi jaata hai sinaaṅ ki nok se har baar sar
+  Berida sar jab dikha hai raahoṅ mein Abbas ko
 
   6
-  Jo wafayein jaanti hai hai dilon mein ba-khuda
-  Bandagi ka rutba haasil maaon mein abbas ko
+  Jo wafaaeṅ jaanti hai hai diloṅ mein ba Khuda
+  Bandagi ka rutba haasil maaoṅ mein Abbas ko
 
   7
-  Qalb e zainab hi salamat jaanta hai kis tarha
-  Laut aayi hai wo lekar yaadon mein abbas ko
+  Qalb-e-Zainab hi salaamat jaanta hai kis tarah
+  Laut aayi hai wo le kar yaadoṅ mein Abbas ko
 # source_id: nohayonline:b0f3893cee735c074a36
 # source_url: https://www.nohayonline.com/details_content.php?id=1507
 # raw_sha256: 97c407bc3da360193f28a2f5834d91cd4d2587a52cb999587bed87adfb5d9601
 ---
 ڈھونڈتی پھرتی ہے زینب لاشوں میں عباس کو
-کرتی ہے محسوس روکے آہوں میں عباس کو
+کرتی ہے محسوس رو کے آہوں میں عباس کو
 
 ۱
-فکر ہے مقتل میں زینب کو فقط لا حق یہی
-رسیاں آے نظر نہ باہوں میں عباس کو
+فکر ہے مقتل میں زینب کو فقط لاحق یہی
+رسیاں آئے نظر نہ باہوں میں عباس کو
 
 ۲
-مانگنے واپس ضمانت چادروں کی آگیء
+مانگنے واپس ضمانت چادروں کی آ گئی
 دیکھا ہے جب برچیوں کی چاہوں میں عباس کو
 
 ۳
@@ -67,9 +68,9 @@ romanLyrics: |-
 بے ردا سر جب دکھا ہے راہوں میں عباس کو
 
 ۶
-جو وفاییں جانتی ہے ہے دلوں میں با خدا
+جو وفائیں جانتی ہے ہے دلوں میں با خدا
 بندگی کا رتبہ حاصل ماؤں میں عباس کو
 
 ۷
 قلب زینب ہی سلامت جانتا ہے کس طرح
-لوٹ آی ہے وہ لے کر یادوں میں عباس کو
+لوٹ آئی ہے وہ لے کر یادوں میں عباس کو
